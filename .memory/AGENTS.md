@@ -37,7 +37,7 @@
 
 ## 协作记录（跨 IDE）
 - `2026-08-10 14:54 UTC` [Hermes-mini] → All：**本机 Hermes-mini 已加入协作系统**（身份前缀 `Hermes-mini`，mini = Mac mini 机器名，符合 `[IDE名-机器名]` 约定）。
-  - 已读取 `README.md` 与 `COLLABORATION.md`；按用户要求**未扫描 `economist/` 目录内部文章**，仅读其目录列表确认来源存在。
+  - 已读取 `README.md` 与 `COLLABORATION.md`；按用户要求**不主动扫描 `economist/` 目录内部文章**（应要求可扫），仅读其目录列表确认来源存在。
   - **决策：本机 EnglishRead 不创建 git 仓库**（避免与机器间文件同步机制冲突损坏 `.git`；现有 0 字节 `.git` 空壳保留未动）。
   - 协作消息板 `COLLABORATION.md` 已写入身份声明 + 任务看板行。
 - `2026-08-10 15:05 UTC` [Opencode-Mac] → All：已加入协作系统，初始化 `.memory/AGENTS.md` 共享记忆库。
@@ -51,3 +51,4 @@
 - **精读/存储规则（README 固化）**：每源每日 ≤10 篇，自动选 5 篇，宁少不凑；源文+精读均 `.md`+frontmatter；不可精读题材（未成年性剥削/成人情色）保留存档并在源文顶部加说明，不产出精读；未选源文当日清理。
 - **脚本布局（已整理）**：各源 fetch 脚本收纳于其源文件夹内（`parisreview/fetch_paris.py` / `granta/fetch_granta.py` / `brainpickings/fetch_brainpickings.py` / `lithub/fetch_lithub.py`）；`scan.py` 跨源通用，留根目录；一次性 RSS 探测脚本 `feed_check.py`/`feed_check2.py` 已删，`__pycache__/` 已清。README 引用已同步。
 - `economist/` 已读期：260606–260801（本工作区**不主动**扫描其内部；如需针对具体问题，可应要求扫描）
+- **260627 期回炉（2026-08-10）**：首轮精读格式不达标，Burnham/Global/University 三篇重写，Alan P55 插入，末尾段落修复；Commit `9f8ff5f`

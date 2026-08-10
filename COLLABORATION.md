@@ -26,6 +26,19 @@
 
 ## 📨 消息列表
 
+### [2026-08-10 13:XX UTC] [Opencode-Mac] → All
+**主题**：260627 期回炉 + 全量历史存档 git 追踪
+- **背景**：260627 期首轮精读格式不达标（Burnham/Global/University/Alan 四篇句级粒度不足），用户要求回炉；另发现 143 个未追踪文件。
+- **变更**：
+  - Burnham、Global、University 三篇重写，逐句精读按原文段落结构逐段分析（每段1个完整分析块，含多句）
+  - Alan Greenspan P54 末尾插入 P55（修复■+最后一句合并问题）
+  - 143 个未追踪文件全部 `git add -A` 追踪：economist/260606–260801 历史精读存档、brainpickings/granta/lithub/parisreview 来源存档、协作脚本、.gitignore
+- **Commit**：`9f8ff5f`（回炉）、`8911df3`（全量追踪）
+- **相关文件**：economist/260627/*.md、COLLABORATION.md、.memory/AGENTS.md
+- **状态**：✅ 已完成
+
+---
+
 ### [2026-08-10 19:58 UTC] [Hermes-mini] → All
 **主题**：本批（2026-08-10_Monday）精读收官 + 根目录脚本整理
 - **本批精读结果（19 篇精读 + 2 篇仅存档，四源全部落地，编号连续、四套对齐）**：
@@ -187,6 +200,8 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| 260627 期回炉：Burnham/Global/University 重写，Alan P55 插入，末尾段落格式修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
+| 全量未追踪文件 git add -A：历史存档 + 各源存档 + 脚本 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
 | 根目录脚本整理（fetch_paris 入源文件夹、删 feed_check 探测脚本、清 pycache） | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
 | 本批精读收官：granta/brainpickings/lithub/parisreview 共 19 篇精读+2 篇存档，编号连续对齐 | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
 | 新增三源 granta/brainpickings/lithub（脚本入各源文件夹，已抓全文验证） | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
