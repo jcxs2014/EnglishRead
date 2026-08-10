@@ -1,0 +1,44 @@
+[
+  {
+    "idx": 1,
+    "title": "Wake",
+    "file": "01_wake.md",
+    "chars": 8821,
+    "reason": "小说·父亲葬礼回忆(8.7k,短)"
+  },
+  {
+    "idx": 2,
+    "title": "Every Time You Breathe, You Inhale the Dust from Our Bones",
+    "file": "04_every-time-you-breathe-you-inhale-the-du.md",
+    "chars": 11956,
+    "reason": "小说(11.7k,短)"
+  },
+  {
+    "idx": 3,
+    "title": "I Want You to Do Something for Me",
+    "file": "05_i-want-you-to-do-something-for-me.md",
+    "chars": 6992,
+    "reason": "仅存档：题材越线，顶部已加说明，不精读"
+  },
+  {
+    "idx": 4,
+    "title": "disappearing acts",
+    "file": "08_disappearing-acts.md",
+    "chars": 14522,
+    "reason": "仅存档：题材越线，顶部已加说明，不精读"
+  },
+  {
+    "idx": 5,
+    "title": "The Other Norwegian",
+    "file": "09_the-other-norwegian.md",
+    "chars": 17163,
+    "reason": "文学·语言史"
+  },
+  {
+    "idx": 6,
+    "title": "The God Dimension",
+    "file": "10_the-god-dimension.md",
+    "chars": 24863,
+    "reason": "文学·信仰访谈"
+  }
+]

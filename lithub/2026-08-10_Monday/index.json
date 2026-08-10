@@ -1,0 +1,37 @@
+[
+  {
+    "idx": 1,
+    "title": "Eight Books That Puncture the Myths of Silicon Valley",
+    "file": "01_eight-books-that-puncture-the-myths-of-s.md",
+    "chars": 11745,
+    "reason": "科技/硅谷批判，社科非虚构"
+  },
+  {
+    "idx": 2,
+    "title": "How JD Salinger’s Experience of WWII Suffused All of His Writing, Even Catcher in the Rye",
+    "file": "02_how-jd-salinger-s-experience-of-wwii-suf.md",
+    "chars": 14570,
+    "reason": "文学/JD Salinger与二战，文学随笔"
+  },
+  {
+    "idx": 3,
+    "title": "The Toxic Appeal of “Big-Reveal” Content on Social Media",
+    "file": "03_the-toxic-appeal-of-big-reveal-content-o.md",
+    "chars": 12215,
+    "reason": "社会文化/社交媒体性别议题"
+  },
+  {
+    "idx": 4,
+    "title": "For 50 Years the Major Oil Companies Have Known They’re Destroying the Planet",
+    "file": "04_for-50-years-the-major-oil-companies-hav.md",
+    "chars": 15370,
+    "reason": "环境历史/化石燃料，科学史"
+  },
+  {
+    "idx": 7,
+    "title": "It’s Ok to Judge a Book By Its Cover (It’s Impossible Not To)",
+    "file": "07_it-s-ok-to-judge-a-book-by-its-cover-it-.md",
+    "chars": 12418,
+    "reason": "文学/维多利亚书籍装帧史"
+  }
+]

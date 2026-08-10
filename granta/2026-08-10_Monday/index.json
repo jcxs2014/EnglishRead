@@ -1,0 +1,62 @@
+[
+  {
+    "idx": 1,
+    "title": "Wake",
+    "file": "01_wake.md",
+    "chars": 8821,
+    "reason": "小说·父亲葬礼回忆(8.7k,短)",
+    "url": "https://granta.com/wake/",
+    "pub": "Tue, 04 Aug 2026 12:38:30 +0000",
+    "source": "Granta"
+  },
+  {
+    "idx": 4,
+    "title": "Every Time You Breathe, You Inhale the Dust from Our Bones",
+    "file": "04_every-time-you-breathe-you-inhale-the-du.md",
+    "chars": 11956,
+    "reason": "小说(11.7k,短)",
+    "url": "https://granta.com/every-time-you-breathe-you-inhale-the-dust-from-our-bones/",
+    "pub": "Tue, 07 Jul 2026 15:11:10 +0000",
+    "source": "Granta"
+  },
+  {
+    "idx": 5,
+    "title": "I Want You to Do Something for Me",
+    "file": "05_i-want-you-to-do-something-for-me.md",
+    "chars": 6992,
+    "reason": "小说(6.8k,短)",
+    "url": "https://granta.com/i-want-you-to-do-something-for-me/",
+    "pub": "Tue, 07 Jul 2026 12:33:00 +0000",
+    "source": "Granta"
+  },
+  {
+    "idx": 8,
+    "title": "disappearing acts",
+    "file": "08_disappearing-acts.md",
+    "chars": 14522,
+    "reason": "思想·动物伦理",
+    "url": "https://granta.com/disappearing-acts/",
+    "pub": "Wed, 01 Jul 2026 14:25:09 +0000",
+    "source": "Granta"
+  },
+  {
+    "idx": 9,
+    "title": "The Other Norwegian",
+    "file": "09_the-other-norwegian.md",
+    "chars": 17163,
+    "reason": "文学·语言史",
+    "url": "https://granta.com/the-other-norwegian/",
+    "pub": "Tue, 30 Jun 2026 13:33:00 +0000",
+    "source": "Granta"
+  },
+  {
+    "idx": 10,
+    "title": "The God Dimension",
+    "file": "10_the-god-dimension.md",
+    "chars": 24863,
+    "reason": "文学·信仰访谈",
+    "url": "https://granta.com/the-god-dimension/",
+    "pub": "Wed, 24 Jun 2026 11:03:49 +0000",
+    "source": "Granta"
+  }
+]

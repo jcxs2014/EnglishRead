@@ -43,5 +43,11 @@
 - `2026-08-10 15:05 UTC` [Opencode-Mac] → All：已加入协作系统，初始化 `.memory/AGENTS.md` 共享记忆库。
 
 ## 现状（2026-08-10）
-- `parisreview/2026-08-10_Monday/` 精读 5 篇：02 / 05 / 06 / 07 / 10
-- `economist/` 已读期：260606–260801
+- **本批（2026-08-10_Monday）已精读 19 篇 + 2 篇仅存档**，全部编号连续、源文/精读/selected.json/index.json 四套对齐：
+  - `granta/` 6 篇（精读 4：01 Wake / 02 骨头里的尘土 / 05 另一种挪威语 / 06 信仰的维度；仅存档 2：03 未成年性剥削、04 成人情色，顶部已加说明）
+  - `brainpickings/` 5 篇（精读 5：斯多葛解药 / 阿伦特论爱与丧失 / 游泳与生命意义 / O'Donohue 论"开始" / 多迷走神经理论）
+  - `lithub/` 5 篇（精读 5：戳破硅谷神话 / Salinger 与二战 / 大揭秘的毒性 / 石油公司 50 年否认史 / 看封面判断书）
+  - `parisreview/` 5 篇（精读 5：纽约下水道 / 运动的剧场 / 配角·Steve Zissou / 间隙组织 / 城市写作；重编号 01–05）
+- **精读/存储规则（README 固化）**：每源每日 ≤10 篇，自动选 5 篇，宁少不凑；源文+精读均 `.md`+frontmatter；不可精读题材（未成年性剥削/成人情色）保留存档并在源文顶部加说明，不产出精读；未选源文当日清理。
+- **脚本布局（已整理）**：各源 fetch 脚本收纳于其源文件夹内（`parisreview/fetch_paris.py` / `granta/fetch_granta.py` / `brainpickings/fetch_brainpickings.py` / `lithub/fetch_lithub.py`）；`scan.py` 跨源通用，留根目录；一次性 RSS 探测脚本 `feed_check.py`/`feed_check2.py` 已删，`__pycache__/` 已清。README 引用已同步。
+- `economist/` 已读期：260606–260801（本工作区**不主动**扫描其内部；如需针对具体问题，可应要求扫描）

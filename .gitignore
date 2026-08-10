@@ -1,0 +1,85 @@
+# EnglishRead 工作区 .gitignore
+# 精读工作区：纯 md + 规则文件，几乎无构建产物
+
+# --- OS 垃圾 ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- IDE / 会话状态（各机器/各 IDE 独立）---
+.memory/
+.opencode/
+.cortexkit/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.idea/workspace.xml
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venvs/
+.ElasticBeanstalk/
+*.egg-info/
+dist/
+build/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# --- 日志 / 临时 ---
+logs/
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
+*.old
+*.part
+~$*
+*.lock
+
+# --- 编辑器 / 工具 ---
+.idea/
+.vscode/
+.cursor/
+.windsurf/
+.cline/
+.aider*
+
+# --- 构建产物 / 生成物 ---
+output/
+dist/
+build/
+*.pptx.tmp
+
+# --- Syncthing ---
+.stfolder/
+.stversions/
+.sync-conflict*
+*sync-conflict*
+
+# --- 同步工具元数据 ---
+sync.ffs_db
+*.ffs_lock
+*.ffs_tmp
+.sync.ffs_db
+
+# --- git 自身 ---
+.git/
