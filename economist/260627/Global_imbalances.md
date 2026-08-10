@@ -2,7 +2,7 @@
 
 ## 概览
 
-本文为 *The Economist* 2026-06-25 关于欧洲工业问题的社论。作者指出欧洲领导人习惯性地将工业衰退归咎于全球贸易失衡和中国竞争，但实际上欧洲自身存在结构性问题（能源成本高、劳动力市场僵化、资本流动性差等）。真正的解决方案是内部改革，而不是保护主义。全文批评了欧洲的重商主义思维误区。
+本文为 The Economist 2026-06-25 关于欧洲工业问题的社论。作者指出欧洲领导人习惯性地将工业衰退归咎于全球贸易失衡和中国竞争，但实际上欧洲自身存在结构性问题（能源成本高、劳动力市场僵化、资本流动性差等）。真正的解决方案是内部改革，而不是保护主义。全文批评了欧洲的重商主义思维误区。
 
 ---
 
@@ -20,7 +20,7 @@
 主句（Everywhere you turn, European leaders are blaming...）+ 三个并列主语（Emmanuel Macron... / Friedrich Merz... / Ursula von der Leyen...）各有其动词短语
 
 **词汇**
-- `Everywhere you turn` 无论你转向哪里（turn = 转向）
+- `Everywhere you turn` 无论你转向哪里
 - `blaming the imbalanced global economy for their woes` 将困境归咎于不平衡的全球经济
 - `raise the alarm` 发出警告
 - `invoice in undervalued currencies` 以被低估的货币开票
@@ -31,7 +31,7 @@
 - 三个欧洲领导人的抱怨并列，形成"集体甩锅"的画面
 
 **为什么这样写**
-开篇用三个欧洲最重要领导人的话来展示欧洲的集体论调：把问题归咎于外部（全球不平衡）。这是全文批驳的靶子。
+开篇用三个欧洲最重要领导人的话展示欧洲的集体论调：把问题归咎于外部（全球不平衡）。这是全文批驳的靶子。
 
 ---
 
@@ -41,24 +41,23 @@
 > What the leaders really mean is that they have a beef with China, whose formidable manufacturers are outcompeting European producers in many markets. Partly as a result of Chinese competition, Europe is gently deindustrialising: the share of value added in manufacturing is one percentage point lower than it was in 2018. Because the resulting lost jobs are in industries, most notably carmaking, that draw special attention from politicians, fear of the "second China shock" has become politically explosive.
 
 **理解**
-领导人真正意思是他们和中国有矛盾——中国强大的制造商在许多市场上超越欧洲制造商。部分由于中国竞争，欧洲正在温和地脱工业化：制造业附加值占比比 2018 年低一个百分点。因为由此造成的失业集中在特别吸引政治家关注的行业——尤其是汽车制造业——对"第二次中国冲击"的恐惧已成为政治上的爆炸性话题。
+领导人真正意思是他们和中国有矛盾——中国强大的制造商在许多市场上超越欧洲制造商。部分由于中国竞争，欧洲正在温和地脱工业化：制造业附加值占比比2018年低一个百分点。因为由此造成的失业集中在特别吸引政治家关注的行业——尤其是汽车制造业——对"第二次中国冲击"的恐惧已成为政治上的爆炸性话题。
 
 **结构**
-What the leaders really mean is that...（真正意思）+ 原因+结果（Partly as a result of... Europe is gently deindustrialising）+ Because 引导的因果链（Because the resulting lost jobs are in industries... that draw special attention... fear of... has become politically explosive）
+What the leaders really mean is that...（真正意思）+ 原因+结果（Partly as a result of... Europe is gently deindustrialising）+ Because 引导的因果链
 
 **词汇**
-- `a beef with China` 和中国有矛盾（beef = 牛肉，此处是俚语"抱怨、争端"）
+- `a beef with China` 和中国有矛盾
 - `formidable manufacturers` 强大的制造商
 - `outcompeting` 超越（在竞争中胜过）
 - `gently deindustrialising` 温和地脱工业化
 - `value added in manufacturing` 制造业附加值
-- `the resulting lost jobs are in industries` 由此造成的失业集中在…行业
-- `carmaking` 汽车制造
+- `the "second China shock"` 第二次中国冲击
 - `politically explosive` 政治上的爆炸性话题
 
 **表达**
 - "a beef with" 是口语化的"与…有过节/矛盾"
-- "gently deindustrialising" 用 gently（温和地）形容脱工业化，暗示进程缓慢但不可逆
+- "gently deindustrialising" 用 gently 形容脱工业化，暗示进程缓慢但不可逆
 
 **为什么这样写**
 点出领导人抱怨的真正靶子是中国。然后提供数据（制造业附加值占比下降一个百分点）并解释为什么这个问题在政治上敏感（汽车业就业集中）。
@@ -78,14 +77,14 @@ But 引导的警告句（in blaming China... Europe's leaders risk losing sight 
 
 **词汇**
 - `in blaming China for their troubles` 在将麻烦归咎于中国时
-- `lose sight of their home-grown failings` 忽视他们自身的问题（home-grown = 土生土长的、本土的）
+- `lose sight of their home-grown failings` 忽视他们自身的问题
 
 **表达**
-- "lose sight of" 是固定短语，意思是"忽视、忽略"
-- "home-grown failings" 用 home-grown 强调问题是本土的，不是外来的
+- "lose sight of" 忽视、忽略
+- "home-grown failings" 本土的失败/自身的问题
 
 **为什么这样写**
-这是全文的主题句——欧洲领导人在甩锅给中国，但忽视了本土的结构性问题。这句话开启了后文的批判。
+用简短的 But 句引出全文核心论点：把责任推给中国会掩盖欧洲自身的问题。这是转折点，开启下面的分析。
 
 ---
 
@@ -95,23 +94,26 @@ But 引导的警告句（in blaming China... Europe's leaders risk losing sight 
 > The Europeans are right that the world economy is imbalanced and that China is partly to blame. It runs a large current-account surplus, of almost 4% of its vast GDP, although some analysts think it is even higher. Its economy has unusually low consumption, often blamed on the lack of a social safety-net for households. Its exporters, though in brutal competition with each other, do indeed benefit from subsidies and a cheap currency. At a global level, America provides much of the corresponding deficit that soaks up China's surplus, mostly as a result of its huge government borrowing.
 
 **理解**
-欧洲人是对的——世界经济确实不平衡，中国确实有部分责任。中国有大量经常账户盈余，接近其巨大 GDP 的 4%，尽管一些分析师认为甚至更高。其经济消费异常低，通常归咎于家庭缺乏社会保障。其出口商，虽然彼此激烈竞争，但确实受益于补贴和廉价货币。在全球层面，美国提供了吸收中国盈余的相应赤字，这主要是因为其巨大的政府借款。
+欧洲人是对的——世界经济确实不平衡，中国确实有部分责任。中国有着巨额经常账户顺差，接近其庞大GDP的4%，尽管一些分析师认为实际更高。其经济消费异常低，通常归咎于家庭缺乏社会保障。其出口商尽管彼此之间竞争激烈，确实从补贴和廉价货币中受益。在全球层面，美国提供了大量相应的赤字，吸收了中国的顺差，这主要是由于其巨额政府借款。
 
 **结构**
-The Europeans are right that...（承认）+ It runs a large current-account surplus...（中国数据）+ Its economy has unusually low consumption...（中国消费低）+ Its exporters... do benefit from...（中国出口商）+ At a global level, America provides...（美国角色）
+主句（The Europeans are right...）+ 四个并列陈述（It runs a large... / Its economy has... / Its exporters... / America provides...）
 
 **词汇**
-- `current-account surplus` 经常账户盈余
-- `soaks up China's surplus` 吸收中国的盈余（soak up = 吸收）
-- `huge government borrowing` 巨大的政府借款
-- `the lack of a social safety-net for households` 家庭缺乏社会保障
-- `benefit from subsidies and a cheap currency` 受益于补贴和廉价货币
+- `current-account surplus` 经常账户顺差
+- `unusually low consumption` 异常低的消费
+- `a social safety-net for households` 家庭社会保障
+- `in brutal competition with each other` 彼此之间竞争激烈
+- `benefit from subsidies and a cheap currency` 从补贴和廉价货币中受益
+- `soaks up China's surplus` 吸收中国的顺差
+- `huge government borrowing` 巨额政府借款
 
 **表达**
-- "soaks up China's surplus" 用 soak up（吸收）来形容美国吸收中国的盈余，暗示一种单向流动关系
+- "soaks up" 吸收、消耗，形象地描述美国赤字吸纳中国顺差
+- "America provides much of the corresponding deficit" 描述全球失衡的结构性原因
 
 **为什么这样写**
-先承认欧洲人的部分观点是正确的（中国确实有贸易失衡问题），为后文的"但是"做铺垫，保持论证的平衡性。
+先承认欧洲人确实有道理——中国确实有经常账户顺差，确实有补贴和廉价货币。但接着指出更深层的结构性原因：美国政府借款造成的赤字也是全球失衡的重要原因，不是只有中国的问题。
 
 ---
 
@@ -121,331 +123,321 @@ The Europeans are right that...（承认）+ It runs a large current-account sur
 > You might think from Europe's complaining that it, too, is on the deficit side of the ledger, with imports swamping exports. In fact in 2025 the EU ran a current-account surplus of 1.9% of GDP. In Germany, which has the biggest deindustrialisation headache, the figure is more than double that.
 
 **理解**
-你可能从欧洲的抱怨中认为，它也在赤字一侧，进口超过出口。实际上，2025 年欧盟有相当于 GDP 1.9% 的经常账户盈余。在有最大脱工业化头痛问题的德国，这个数字是其两倍多。
+你可能会从欧洲的抱怨中认为，欧洲也在赤字一侧，进口淹没了出口。事实上，2025年欧盟实现了占GDP 1.9%的经常账户顺差。在德国——这个受去工业化困扰最严重的国家——这一数字是这个数字的两倍多。
 
 **结构**
-You might think...（假设）+ In fact...（现实）+ In Germany...（德国特例）
+You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...）+ 进一步数据（In Germany... the figure is more than double）
 
 **词汇**
 - `on the deficit side of the ledger` 在赤字一侧
-- `imports swamping exports` 进口超过出口（swamp = 淹没）
-- `ran a current-account surplus of 1.9% of GDP` 有相当于 GDP 1.9% 的经常账户盈余
-- `the biggest deindustrialisation headache` 最大的脱工业化头痛问题
+- `imports swamping exports` 进口淹没出口
+- `ran a current-account surplus of 1.9% of GDP` 实现占GDP 1.9%的经常账户顺差
+- `deindustrialisation headache` 去工业化困扰
+- `more than double that` 是那个数字的两倍多
 
 **表达**
-- "imports swamping exports" 用 swamp（淹没）形容进口远超出口，暗示问题的严重性
-- "headache" 用头痛来形容脱工业化的困境，非常口语化但准确
+- "on the deficit side of the ledger" 财务隐喻
+- "imports swamping exports" 用 swamping（淹没）形容贸易逆差的严重性
 
 **为什么这样写**
-这是关键数据点：欧洲实际上有贸易盈余，德国更有大额盈余。这意味着"中国导致欧洲逆差"的论调站不住脚。
+用"In fact"直接反驳一个常见的误解：欧洲并不是贸易逆差方，欧盟整体是顺差，德国更是大顺差。这为后文批评"欧洲把问题归咎于中国"奠定了逻辑基础——如果欧洲本身是顺差国，它的抱怨就不成立。
 
 ---
 
 ### Paragraph 6
 
 **原句**
-> Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports.
+> Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports. Europe's producers might not even benefit from America and China bringing their current accounts towards balance, supposing that were to happen. Companies would suffer less competition from China but more from America. What they gained in one trading relationship, they would lose in another.
 
 **理解**
-换句话说，纠正"失衡"并不意味着欧洲的进口减少。它可能意味着相反：通过提高消费和投资来加强欧元并损害出口。
+换句话说，纠正"失衡"并不意味着欧洲的进口减少。它可能意味着相反：通过提高消费和投资来加强欧元并损害出口。假设美国和中国真的让它们的经常账户走向平衡，欧洲的生产商可能甚至不会受益。企业会受到更少来自中国的竞争，但会更多来自美国的竞争。他们在一个贸易关系中获得的，会在另一个贸易关系中失去。
 
 **结构**
-Correcting "imbalances"... would not mean...（纠正失衡不等于减少进口）+ It might mean the opposite:（可能意味着相反）
+主句（Correcting "imbalances"... would not mean...）+ It might mean the opposite...+ Europe's producers might not even benefit...+ Companies would suffer less... but more...+ What they gained... they would lose...
 
 **词汇**
 - `Correcting "imbalances"` 纠正"失衡"
 - `raising consumption and investment` 提高消费和投资
-- `strengthens the euro` 加强欧元
-- `harms exports` 损害出口
+- `strengthens the euro and harms exports` 加强欧元并损害出口
+- `bringing their current accounts towards balance` 让经常账户走向平衡
+- `What they gained in one trading relationship, they would lose in another` 在一个贸易关系中获得的，会在另一个中失去
 
 **表达**
-- "It might mean the opposite" 是简洁的转折，直接戳破"纠正失衡=减少进口"的误解
+- "in other words" 换句话说，承上启下
+- "What they gained in one... they would lose in another" 句式工整，说明欧洲不会从贸易平衡中净获益
 
 **为什么这样写**
-这是文章的核心逻辑之一：如果真的纠正失衡，欧洲可能反而会受到更多进口冲击（因为消费增加、欧元走强）。这揭示了欧洲领导人的逻辑漏洞。
+进一步论证：即使中国减少顺差，欧洲也不一定受益——因为中国失去的市场可能被美国拿走。用"在一个贸易关系中获得的，会在另一个中失去"来总结这个逻辑。
 
 ---
 
 ### Paragraph 7
 
 **原句**
-> Europe's error stems from a mercantilist mistake: believing a current-account surplus and manufacturing strength are the same thing. In fact, the current account reflects the balance between saving and investment, and a surplus can co-exist with industrial malaise.
+> Europe's error stems from a mercantilist mistake: believing a current-account surplus and manufacturing strength to be the same thing. In fact, the current account reflects the balance between saving and investment, and a surplus can co-exist with industrial malaise. Within the EU there is no correlation between the current account and manufacturing's share of output.
 
 **理解**
-欧洲的错误源于一个重商主义错误：认为经常账户盈余和制造业实力是同一回事。事实上，经常账户反映的是储蓄和投资之间的平衡，盈余可以与工业困境并存。
+欧洲的错误源于一个重商主义的错误：认为经常账户顺差和制造业实力是一回事。事实上，经常账户反映的是储蓄和投资之间的平衡，顺差可以和工业困境共存。在欧盟内部，经常账户和制造业在产出中的份额之间没有相关性。
 
 **结构**
-Europe's error stems from a mercantilist mistake: believing...（错误）+ In fact...（事实）+ a surplus can co-exist with industrial malaise（关键论点）
+主句（Europe's error stems from a mercantilist mistake...）+ In fact 的解释（the current account reflects...）+ 数据支撑（Within the EU there is no correlation...）
 
 **词汇**
-- `a mercantilist mistake` 重商主义错误
-- `believing a current-account surplus and manufacturing strength are the same thing` 认为经常账户盈余和制造业实力是同一回事
+- `a mercantilist mistake` 重商主义的错误
+- `manufacturing strength` 制造业实力
 - `the balance between saving and investment` 储蓄和投资之间的平衡
-- `a surplus can co-exist with industrial malaise` 盈余可以与工业困境并存
+- `a surplus can co-exist with industrial malaise` 顺差可以和工业困境共存
+- `there is no correlation between A and B` A和B之间没有相关性
 
 **表达**
-- "a surplus can co-exist with industrial malaise" 是关键论点，用 co-exist（共存）揭示了"盈余≠制造业强"的真相
+- "stems from" 源于
+- "co-exist with" 与…共存
 
 **为什么这样写**
-这是文章最重要的概念纠正：经常账户盈余和制造业实力不是同一件事。德国有盈余但制造业在衰退——因为问题不在贸易，而在国内结构。
+直接点出"重商主义错误"——把顺差和制造业实力混为一谈。用储蓄/投资框架解释经常账户的本质，并提供欧盟内部数据证明两者无关。
 
 ---
 
 ### Paragraph 8
 
 **原句**
-> Within the EU there is no correlation between the current account and manufacturing's share of output (not counting Denmark and Ireland, whose statistics are skewed by pharma and, in Ireland's case, tax).
+> The continent's leaders should instead consider what problem they are trying to solve. Europe may have a bilateral trade deficit with China. But in Germany's case, only about a third of its loss in market share in other global markets can be explained by Chinese exports, according to the Kiel Institute, a think-tank. The rest reflects a broader loss of competitiveness.
 
 **理解**
-在欧盟内部，经常账户与制造业产出份额之间没有相关性（不计丹麦和爱尔兰，因为其统计数据因制药业而扭曲，在爱尔兰的案例中还因为税收）。
+欧洲大陆的领导人应该反过来思考他们试图解决什么问题。欧洲可能对中国有双边贸易逆差。但在德国的情况下，根据智库基尔研究所的数据，其在 other 全球市场份额的损失中，只有约三分之一可以归因于中国出口。其余反映的是更广泛的竞争力下降。
 
 **结构**
-主句（Within the EU there is no correlation between...）+ 插入语（not counting Denmark and Ireland...）
+主句（The continent's leaders should...）+ 承认（Europe may have a bilateral trade deficit...）+ 数据反驳（only about a third... / The rest reflects...）
 
 **词汇**
-- `no correlation between the current account and manufacturing's share of output` 经常账户与制造业产出份额之间没有相关性
-- `statistics are skewed by pharma` 统计数据因制药业而扭曲
-- `in Ireland's case, tax` 在爱尔兰的案例中还因为税收
+- `the continent's leaders` 欧洲大陆的领导人
+- `bilateral trade deficit` 双边贸易逆差
+- `the Kiel Institute` 基尔研究所（德国知名智库）
+- `loss of competitiveness` 竞争力下降
 
 **表达**
-- 括号内的注释排除了两个数据异常的国家（丹麦和爱尔兰），说明统计的严谨性
+- "the rest reflects a broader loss of competitiveness" 其余反映的是更广泛的竞争力下降，简洁有力
 
 **为什么这样写**
-用数据说话：欧盟内部没有证据显示经常账户和制造业相关。即使有这个相关性，也会被丹麦和爱尔兰的特殊情况（制药业/税收）扭曲。
+用具体数据（基尔研究所）说明：德国在全球市场中份额损失，只有三分之一归因于中国，其余三分之二说明欧洲自身竞争力出了问题。这是有力的实证支持。
 
 ---
 
 ### Paragraph 9
 
 **原句**
-> The continent's leaders should instead consider what problem they are trying to solve. Europe may have a bilateral trade deficit with China. But in Germany's case, only about a third of its loss in market share in other global markets can be explained by Chinese exports, according to the Kiel Institute, a think-tank. The rest reflects a broader loss of competitiveness.
+> Fixing that problem would mean bringing down energy costs, making labour markets more flexible, integrating markets for capital and services and culling unwise regulations. Some progress is being made at a European level, but national governments are more interested in protectionism, such as the blanket eu tariffs against China floated by advisers to the French government earlier this year. Talk of "global imbalances" helps that agenda, while doing little to raise the remote prospect of either America or China changing tack.
 
 **理解**
-欧洲大陆的领导人应该考虑他们试图解决什么问题。欧洲可能对中国有双边贸易逆差。但以德国为例，根据基尔研究所（一家智库）的数据，其在全球其他市场市场份额的损失中，只有约三分之一可以由中国出口解释。其余反映的是更广泛的竞争力下降。
+解决这个问题意味着降低能源成本、使劳动力市场更加灵活整合资本和服务市场，以及废除不明智的法规。在欧洲层面正在取得一些进展，但各国政府对保护主义更感兴趣，比如今年早些时候法国政府顾问提出的针对中国的全面欧盟关税。"全球失衡"的谈论有助于保护主义议程，却无助于提高美国或中国改变路数的可能性。
 
 **结构**
-主句（The continent's leaders should instead consider...）+ Europe may have...（让步）+ But in Germany's case... only about a third... can be explained by Chinese exports（关键数据）+ The rest reflects...（真正原因）
+主句（Fixing that problem would mean...）+ 承认进步（Some progress is being made...）+ But 引导的批评（national governments are more interested in protectionism...）+ Talk of... helps that agenda, while doing little to...
 
 **词汇**
-- `the continent's leaders` 欧洲大陆的领导人
-- `consider what problem they are trying to solve` 考虑他们试图解决什么问题
-- `a bilateral trade deficit with China` 对中国的双边贸易逆差
-- `only about a third of its loss in market share` 只有约三分之一的市场份额损失
-- `a broader loss of competitiveness` 更广泛的竞争力下降
+- `bringing down energy costs` 降低能源成本
+- `making labour markets more flexible` 使劳动力市场更加灵活
+- `integrating markets for capital and services` 整合资本和服务市场
+- `culling unwise regulations` 废除不明智的法规
+- `blanket EU tariffs` 全面欧盟关税
+- `changing tack` 改变策略
 
 **表达**
-- "The continent's leaders should instead consider what problem they are trying to solve" 用 instead 强调他们应该先想清楚问题是什么，而不是盲目甩锅
+- "culling unwise regulations" culling 原意"选择性屠杀"，此处指废除
+- "doing little to raise the remote prospect" 无助于提高…的可能性
 
 **为什么这样写**
-用德国数据和基尔研究所的研究来支持核心论点：德国制造业的竞争力下降只有三分之一是因为中国，其余是国内问题。
+给出真正的解决方案（能源/劳动力/监管改革），然后批评各国政府更感兴趣的是保护主义（法国顾问提出的全面对华关税）。最后指出"全球失衡"话语实际上为保护主义提供了借口，对解决真正的问题毫无帮助。
 
 ---
 
 ### Paragraph 10
 
 **原句**
-> Fixing that problem would mean bringing down energy costs, making labour markets more flexible, integrating markets for capital and services and culling unwise regulations. Some progress is being made at a European level, but national governments are more interested in protectionism, such as the blanket eu tariffs against China floated by advisers to the French government earlier this year. Talk of "global imbalances" helps that agenda, while doing little to raise the remote prospect of either America or China changing tack.
-
-**理解**
-解决那个问题意味着降低能源成本、使劳动力市场更加灵活、整合资本和服务市场，并取消不明智的法规。欧洲层面正在取得一些进展，但各国政府对保护主义更感兴趣——例如今年早些时候法国政府顾问提出的针对中国的全面欧盟关税。"全球失衡"的讨论有助于那个议程，同时对提升美国或中国改变策略的可能性几乎没有帮助。
-
-**结构**
-Fixing that problem would mean...（解决方案）+ Some progress is being made...（进展）+ but national governments are more interested in protectionism...（问题）+ Talk of "global imbalances" helps that agenda...（批评）
-
-**词汇**
-- `bringing down energy costs` 降低能源成本
-- `making labour markets more flexible` 使劳动力市场更加灵活
-- `integrating markets for capital and services` 整合资本和服务市场
-- `culling unwise regulations` 取消不明智的法规
-- `blanket EU tariffs` 全面欧盟关税
-- `protectionism` 保护主义
-- `changing tack` 改变策略（tack = 航向、策略）
-
-**表达**
-- "culling unwise regulations" 用 cull（宰杀、剔除）来形容取消法规，是很生动的用词
-- "Talk of 'global imbalances' helps that agenda" 批评"全球失衡"论调实际上在帮助保护主义议程
-
-**为什么这样写**
-给出真正的解决方案（降低能源成本、劳动力市场改革、整合市场、取消不合理法规），然后批评各国政府实际上更热衷于保护主义而非真正改革。
-
----
-
-### Paragraph 11
-
-**原句**
 > Make no mistake: it would be a good thing if America were to borrow less and Chinese consumers spend more. There is some evidence that imbalances tend to increase the risk of a financial crisis—and they certainly breed protectionism. Market competition must be seen by voters and consumers to be fair, and it is wise to avoid giving China choke points in critical supply chains or total dominance of carmaking.
 
 **理解**
-毫无疑问：如果美国少借款，中国消费者多消费，那将是一件好事。有一些证据表明，失衡往往会增加金融危机的风险——它们肯定会助长保护主义。选民和消费者必须认为市场竞争是公平的，而且避免给中国在关键供应链或汽车制造业的完全主导地位上的扼流点也是明智的。
+毫无疑问，如果美国借得更少、中国消费者花得更多，那将是一件好事。有一些证据表明，失衡往往会增加金融危机的风险——而且它们肯定会助长保护主义。市场和消费者必须认为市场竞争是公平的，而且避免让中国在关键供应链中拥有卡脖子地位或在汽车制造方面完全占据主导地位是明智的。
 
 **结构**
-Make no mistake...（承认）+ There is some evidence that...（承认）+ Market competition must be seen...（论点）
+主句（Make no mistake: it would be a good thing...）+ 承认（There is some evidence...）+ 结论（Market competition must be seen... and it is wise to avoid...）
 
 **词汇**
-- `Make no mistake` 毫无疑问（Make no mistake = 毫无疑问）
-- `there is some evidence that imbalances tend to increase the risk of a financial crisis` 有一些证据表明失衡往往会增加金融危机的风险
+- `Make no mistake` 毫无疑问
 - `breed protectionism` 助长保护主义
-- `choke points in critical supply chains` 关键供应链的扼流点
-- `total dominance of carmaking` 汽车制造业的完全主导
+- `choke points` 卡脖子地位
+- `total dominance of carmaking` 在汽车制造方面完全占据主导地位
 
 **表达**
-- "breed protectionism" 用 breed（繁殖、滋生）来形容失衡会"滋生"保护主义，带有负面含义
+- "Make no mistake" 是强有力的转折词
+- "breed protectionism" breed 原意繁殖，此处指"必然导致"
 
 **为什么这样写**
-在批评欧洲的"甩锅"论调后，承认失衡本身确实有问题。但重点是：问题是真实存在的，但欧洲的解决方案（保护主义）是错误的。
-
----
-
-### Paragraph 12
-
-**原句**
-> ## New balance
-
-**理解**
-新的平衡
-
-**结构**
-二级标题（New balance）
-
-**词汇**
-- `New balance` 新平衡（双关：既是"新的平衡"也是品牌名，暗示需要新的均衡）
-
-**表达**
-- "New balance" 呼应文章的"imbalances"主题
-
-**为什么这样写**
-这是文章最后一个章节标题，提出"新平衡"的概念——不是通过保护主义，而是通过内部改革。
-
----
-
-### Paragraph 13
-
-**原句**
-> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth. An economy of China's size and stage of development will always have significant manufacturing exports. If Europeans want their industries to thrive, they should focus not on shutting out competitors but fixing their own house.
-
-**理解**
-然而，欧洲必须认识到，对中国竖起贸易壁垒只会增加改革的必要性，因为从最便宜的供应商多元化会提高成本并损害增长。像中国这样规模和发展阶段的经济体将始终拥有重要的制造业出口。如果欧洲人希望他们的工业繁荣，他们应该专注于不是排斥竞争对手，而是解决他们自己的问题。
-
-**结构**
-Yet Europe must recognise that...（认识）+ because diversifying... raises costs and harms growth（原因）+ An economy of China's size... will always have...（现实）+ If Europeans want... they should focus not on... but on...（建议）
-
-**词汇**
-- `erecting trade barriers with China` 对中国竖起贸易壁垒
-- `diversifying away from the cheapest supplier` 从最便宜的供应商多元化（意味着找更贵的供应商）
-- `raises costs and harms growth` 提高成本并损害增长
-- `an economy of China's size and stage of development will always have significant manufacturing exports` 像中国这样规模和阶段的经济体将始终拥有重要的制造业出口
-- `shutting out competitors` 排斥竞争对手
-- `fixing their own house` 解决他们自己的问题
-
-**表达**
-- "erecting trade barriers" 用 erect（竖起）来形容建立贸易壁垒，是很正式的用法
-- "fixing their own house" 用"修缮自己的房子"的隐喻来表达"解决本土问题"
-
-**为什么这样写**
-结尾的核心论点：对华贸易壁垒只会让欧洲更缺乏竞争力，问题不会消失。正确的做法是内部改革而不是外部排斥。
-
----
-
-### Paragraph 14
-
-**原句**
-> ■
-
-**理解**
-（文章结束标记）
+在批评欧洲的重商主义思维之前，先承认：如果美国减少借款、中国增加消费，确实是好事（说明失衡确实存在）。然后指出失衡虽然存在，但欧洲的应对方式是错误的——保护主义不是解决方案。
 
 ---
 
 ## 段落逻辑
 
-**第一部分（Paragraphs 1-3）：欧洲的甩锅论调**
-- 三位欧洲领导人的抱怨（全球化失衡）
-- 真正靶子是中国
-- 警告：欧洲可能忽视了本土问题
+**第一部分（Paragraphs 1-2）：批评的靶子——欧洲领导人的甩锅论调**
+- P1: 三个欧洲领导人都在把工业问题归咎于全球失衡
+- P2: 真正靶子是中国——"第二次中国冲击"的政治敏感性
 
-**第二部分（Paragraphs 4-8）：批驳欧洲的重商主义错误**
-- 承认中国确实有贸易失衡问题
-- 但欧洲实际上有贸易盈余（欧盟1.9%，德国更高）
-- 纠正"盈余=制造业强"的错误认知
-- 数据显示经常账户和制造业份额无相关性
+**第二部分（Paragraphs 3-7）：核心论点——重商主义错误**
+- P3: But 转折：归咎中国会掩盖自身问题（核心论点）
+- P4: 承认中国确实有顺差问题，但美国借款也是原因之一
+- P5: 反驳：欧洲整体是顺差，不是逆差国
+- P6: 即使纠正失衡，欧洲也不一定受益——中国失去的市场可能被美国拿走
+- P7: 点名"重商主义错误"：顺差≠制造业实力，两者无相关性
 
-**第三部分（Paragraphs 9-10）：真正的问题和错误的解决方案**
-- 德国制造业竞争力下降只有三分之一是中国造成的
-- 真正原因是本土竞争力下降
-- 各国政府倾向于保护主义而非改革
+**第三部分（Paragraphs 8-9）：解决方案——内部改革 vs 保护主义**
+- P8: 真正的问题：德国份额损失只有1/3归因于中国，2/3是竞争力问题
+- P9: 正确方案：能源成本/劳动力市场/监管改革；错误做法：保护主义
 
-**第四部分（New balance）：结论——内部改革才是正道**
-- 失衡确实存在问题（金融危机风险、保护主义）
-- 但对华贸易壁垒只会让问题更糟
-- 应该"fix their own house"而不是排斥中国
+**第四部分（Paragraph 10）：结论——承认失衡存在，但应对方式错误**
+- P10: 承认失衡确实存在且有害，但保护主义不是答案
 
-**全文逻辑链**：描述欧洲甩锅论调 → 承认部分正确但批驳核心错误 → 揭示真正原因（本土竞争力下降）→ 批评保护主义 → 建议内部改革
+**全文逻辑链**：展示靶子（欧洲领导人甩锅中国） → 承认中国有问题但非主因 → 反驳欧洲的逻辑（欧洲本身是顺差、纠正失衡对欧不利、顺差≠制造业实力） → 提出正确方案（内部改革）vs 错误做法（保护主义） → 结论（保护主义不是答案）
 
 ---
 
 ## 词汇分级
 
 ### 高频核心词（已掌握可迁移）
-- `imbalance` 不平衡
-- `surplus` 盈余
-- `deindustrialising` 脱工业化
-- `protectionism` 保护主义
+- `imbalance` 失衡
+- `surplus` 顺差
+- `deindustrialisation` 去工业化
 - `competitiveness` 竞争力
-- `reform` 改革
+- `protectionism` 保护主义
 
 ### 学术/书面词汇
-- `current-account surplus` 经常账户盈余
+- `current-account surplus` 经常账户顺差
 - `mercantilist` 重商主义的
 - `malaise` 困境、不景气
 - `bilateral trade deficit` 双边贸易逆差
-- `cull` 剔除、宰杀
-- `choke points` 扼流点
+- `correlation` 相关性
 
-### 专业术语
-- `G7` 七国集团
-- `EU` 欧盟
-- `Kiel Institute` 基尔研究所（德国知名智库）
-- `euro` 欧元
+### 经济术语
+- `value added in manufacturing` 制造业附加值
+- `saving and investment` 储蓄和投资
+- `the Kiel Institute` 基尔研究所
+- `choke points` 卡脖子地位
 
 ### 地道表达
-- `a beef with` 与…有矛盾
+- `a beef with` 与…有过节
 - `lose sight of` 忽视
-- `in other words` 换句话说
+- `stems from` 源于
 - `Make no mistake` 毫无疑问
-- `change tack` 改变策略
-- `fix their own house` 解决自己的问题
-- `breed protectionism` 滋生保护主义
+- `breed protectionism` 助长保护主义
+- `changing tack` 改变策略
+- `culling regulations` 废除法规
+- `in other words` 换句话说
 
 ---
 
 ## 长难句专项
 
-### 最长难句
-> Europe's error stems from a mercantilist mistake: believing a current-account surplus and manufacturing strength are the same thing. In fact, the current account reflects the balance between saving and investment, and a surplus can co-exist with industrial malaise.
+### 最长难句（P4, 5句）
+> The Europeans are right that the world economy is imbalanced and that China is partly to blame. It runs a large current-account surplus, of almost 4% of its vast GDP, although some analysts think it is even higher. Its economy has unusually low consumption, often blamed on the lack of a social safety-net for households. Its exporters, though in brutal competition with each other, do indeed benefit from subsidies and a cheap currency.
 
-**主干**：Europe's error stems from a mercantilist mistake
-**同位语**：believing a current-account surplus and manufacturing strength are the same thing（解释错误的本质）
-**事实陈述**：the current account reflects the balance between saving and investment
-**关键论点**：a surplus can co-exist with industrial malaise
+**主干**：The Europeans are right that... / It runs a large... / Its economy has... / Its exporters... do indeed benefit...
 
-**找主干技巧**：冒号后的 believing... 是 mistake 的同位语，解释"是什么错误"。关键是区分"经常账户盈余"（一国储蓄-投资的平衡）和"制造业实力"（产业竞争力）这两个完全不同的概念。
+**结构**：先承认欧洲人有道理（中国确实有顺差），然后逐一列举中国的经济特征（高顺差/低消费/补贴+廉价货币），最后加上全球层面的原因（美国政府借款）
+
+---
+
+### 次长难句（P6, 4句）
+> Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports. Europe's producers might not even benefit from America and China bringing their current accounts towards balance, supposing that were to happen. Companies would suffer less competition from China but more from America.
+
+**主干**：Correcting "imbalances" would not mean... / It might mean the opposite... / Europe's producers might not even benefit... / Companies would suffer less... but more...
+
+**结构**：先给结论（不会减少进口），然后说可能相反（加强欧元损害出口），再提出假设情况（即使中美纠正失衡），最后说明企业处境（少了一个竞争对手，多了一个）
 
 ---
 
 ## 精读总结
 
-**核心论点**：欧洲把工业衰退归咎于全球贸易失衡和中国竞争是错误的；真正原因是本土竞争力下降；解决方案是内部改革（降低能源成本、劳动力市场灵活化），而不是保护主义。
+**核心论点**：欧洲领导人把工业衰退归咎于全球贸易失衡和中国竞争是重商主义错误；实际问题在于欧洲自身竞争力下降；真正的解决方案是内部改革（能源成本/劳动力市场/监管），而不是保护主义。
 
 **最值得学习的句型**：
-- "lose sight of their home-grown failings"（忽视本土问题）
-- "a surplus can co-exist with industrial malaise"（盈余与工业困境可以并存）
-- "Make no mistake:..."（毫无疑问的强调句式）
-- "fix their own house"（解决自己的问题）
+- "Europe's error stems from a mercantilist mistake: believing X and Y to be the same thing"（一针见血的定义式批评）
+- "You might think... In fact..."（用对方观点引出反驳的结构）
+- "What they gained in one trading relationship, they would lose in another"（对称句式说明 trade-off）
+- "Make no mistake:..."（强有力的转折结论）
 
 **最值得迁移的表达**：
-- `a beef with`（与…有矛盾）
-- `lose sight of`（忽视）
-- `change tack`（改变策略）
-- `breed protectionism`（滋生保护主义）
-- `fix their own house`（解决自己的问题）
-- `in other words`（换句话说）
+- `a beef with`（与…有过节）
+- `lose sight of their home-grown failings`（忽视自身问题）
+- `stems from a mercantilist mistake`（源于重商主义错误）
+- `co-exist with industrial malaise`（与工业困境共存）
+- `no correlation between A and B`（A和B之间没有相关性）
+- `breed protectionism`（助长保护主义）
+- `choke points`（卡脖子地位）
+- `culling unwise regulations`（废除不明智的法规）
+
+
+### Paragraph 11
+
+**原句**
+> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth. An economy of China's size and stage of development will always have significant manufacturing exports. If Europeans want their industries to thrive, they should focus not on shutting out competitors but fixing their own house.
+
+**理解**
+然而，欧洲必须认识到，对中国竖立贸易壁垒只会增加对改革的需求，因为远离最便宜的供应商会增加成本并损害增长。中国这样规模和发展阶段的经济体将始终拥有重要的制造业出口。如果欧洲人希望自己的工业蓬勃发展，他们应该关注的不是排斥竞争对手，而是整顿自己的内部。
+
+**结构**
+主句（Yet Europe must recognise that...）+ because 原因句（diversifying away... raises costs...）+ 事实陈述（An economy of China's size... will always have...）+ If 条件句（If Europeans want... they should focus not on... but on...）
+
+**词汇**
+- `erecting trade barriers` 竖立贸易壁垒
+- `diversifying away from the cheapest supplier` 远离最便宜的供应商
+- `An economy of China's size and stage of development` 中国这样规模和发展阶段的经济体
+- `significant manufacturing exports` 重要的制造业出口
+- `fixing their own house` 整顿自己的内部
+
+**表达**
+- "erecting trade barriers" 竖立壁垒的隐喻
+- "fixing their own house" 整顿内务/自己的房子
+
+**为什么这样写**
+结尾用强有力的逻辑收尾：对华贸易壁垒只会让欧洲更需要改革（因为成本上升），而中国经济特点和规模决定了它必然是制造业出口大国，欧洲无法改变这个现实。结论是：与其排斥中国，不如解决自己的问题。
+
+---
+
+## 段落逻辑（补充）
+
+**第四部分（续 Paragraph 11）：结论——保护主义只会让问题更糟**
+- P11: 对华贸易壁垒只会增加成本、提高对改革的需求；中国经济规模和阶段决定其制造业出口优势无法被取代；正确的做法是"整顿自己的房子"
+
+---
+
+## 词汇分级（补充）
+
+### 地道表达（续）
+- `erecting trade barriers` 竖立贸易壁垒
+- `diversifying away from the cheapest supplier` 远离最便宜的供应商
+- `fixing their own house` 整顿自己的内部
+
+---
+
+## 长难句专项（补充）
+
+### Paragraph 11 分析
+> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth.
+
+**主干**：Europe must recognise that erecting trade barriers... increases the need for reforms
+**原因状语**：because diversifying away... raises costs and harms growth
+**逻辑**：贸易壁垒 → 成本上升 → 更需要改革（而不是减少改革需要）
+
+---
+
+## 精读总结（补充）
+
+**最值得学习的句型（续）**：
+- "erecting trade barriers only increases the need for reforms"（保护主义适得其反的论断）
+- "If Europeans want their industries to thrive, they should focus not on shutting out competitors but fixing their own house"（条件+建议的结论句）
+
+**最值得迁移的表达（续）**：
+- `erecting trade barriers`（竖立贸易壁垒）
+- `diversifying away from the cheapest supplier`（远离最便宜的供应商）
+- `fixing their own house`（整顿自己的内部）
+

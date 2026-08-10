@@ -1294,6 +1294,32 @@ If only the numbers could say, one way or another（虚拟语气）
 
 ---
 
+### Paragraph 55
+
+**原句**
+> In the murky language known as Fedspeak, of which he became the most famous and fluent speaker, he would render his judgments on the plans of the president and Congress, never using one syllable when six would do.
+
+**理解**
+格林斯潘用一种被称为"美联储语言"的模糊措辞——他是这种语言最著名和最流利的使用者——他对总统和国会的计划发表判断，从不用一个音节能说完的话用六个。
+
+**结构**
+主语（he）+ 谓语（would render his judgments）+ 方式状语（In the murky language known as Fedspeak）+ 定语从句（of which he became the most famous and fluent speaker）+ 时间状语（on the plans of the president and Congress）+ 方式状语（never using one syllable when six would do）
+
+**词汇**
+- `Fedspeak` "美联储语言"——美联储官员使用的模糊、冗长的官方语言
+- `murky language` 模糊的语言
+- `render his judgments on` 对…发表判断
+- `never using one syllable when six would do` 从不用一个音节能说完的话用六个（讽刺其语言冗长含糊）
+
+**表达**
+- "never using one syllable when six would do" 用数字对比讽刺格林斯潘的冗长风格——用一个字能说清楚的偏要用六个字
+- Fedspeak 这个词本身就是"冗长模糊官方语言"的代名词
+
+**为什么这样写**
+这是对格林斯潘语言风格的精准刻画——他以含糊著称，这个句子本身就是一个 Fedspeak 的例子：用一个复杂的插入语结构（of which...）把一个简单的意思（他对政策发表判断）包装得极其冗长。结尾回到全文的音乐隐喻：即使在语言上，他也像一个即兴演奏的爵士音乐家，用含混的音符表达意思。
+
+---
+
 ## 段落逻辑
 
 **第一部分（Paragraphs 1-13）：从音乐家到经济学家**
