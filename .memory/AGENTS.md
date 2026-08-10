@@ -1,51 +1,17 @@
-# EnglishRead 记忆库（跨 IDE 共享）
+# EnglishRead 跨 IDE 共享记忆（拓扑 + 协作日志）
+
+> 注意：本文档为跨 IDE 共享记忆，非操作规则；操作规则见根 `AGENTS.md`，项目说明见 `README.md`。
 
 ## 是什么
 中文母语者的英文**逐句精读**知识库。目标：从"看中文翻译"过渡到"直接读懂英文原文"。
-
-## 关键路径
-- 工作区根：`~/Documents/Works/EnglishRead/`
-- 根目录规则：`AGENTS.md`（精读工作流）、`README.md`（工作流说明）、`COLLABORATION.md`（协作板）
-- 协作脚本：软链接自 `~/Sites/OpenCodeFiles/multi-ide-template/`
-
-## 来源与目录
-- `parisreview/`（主力，RSS 带全文）：
-  `<日期%Y-%m-%d_%A>/##_slug.txt`（原文）+ `##_slug_精读.md`（报告）+ `index.json`（索引）
-- `economist/`（按期刊发行日期）：`260725/` 等；报告 `Title_snake_case.md`
-- 待启用：`quantamagazine/`、`aeon/`
-- 避开：The Atlantic / The New Yorker（付费墙，RSS 无全文）
-
-## 每日工作流
-1. `python3 fetch_paris.py` — 抓取 RSS 全文，建目录 + `index.json`
-2. `python3 scan.py` — 扫描题材/敏感度/字数，人工挑 3–5 篇
-3. AI 精读 → 写 `##_slug_精读.md`（与原文同目录）
-
-## 精读规则
-- 不做逐词翻译；show, don't tell；克制与留白
-- 报告要素：原句 / 自然中文 / 句子结构 / 关键词 / 地道表达 / "为什么这样写"
-- 长难句专项：找主干→修饰→从句→恢复逻辑→整体理解
-- 交互指令：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
 
 ## 协作约定（跨 IDE）
 - 同一目录多 IDE 共享文件系统，写入即同步，**无需 git pull/push**
 - 时间戳一律 **UTC**（`date -u '+%Y-%m-%d %H:%M UTC'`）
 - 消息/commit 前缀：`[IDE名-机器名]`
 - 记忆目录：`.memory/`（本文件为共享记忆宿主）
-
-## 敏感内容处理
-- 预判优先：政治/宗教极端/暴力/争议话题 → 跳过或交 `english-read` 子代理
-- 例：`04_shen-yun` 标 HIGH 已 SKIP；`01_jonestown` 学术处理
-- MiniMax 触发 1027 → english-read 子代理接管后续分析
-
-## 现状（2026-08-10）
-- `parisreview/2026-08-10_Monday/` 精读 5 篇：02 / 05 / 06 / 07 / 10
-- `economist/` 已读期：260606–260801
-
-## 协作记录（跨 IDE）
-- `2026-08-10 14:54 UTC` [Hermes-mini] → All：**本机 Hermes-mini 已加入协作系统**（身份前缀 `Hermes-mini`，mini = Mac mini 机器名，符合 `[IDE名-机器名]` 约定）。
-  - 已读取 `README.md` 与 `COLLABORATION.md`；按用户要求**未扫描 `economist/` 目录内部文章**，仅读其目录列表确认来源存在。
-  - **决策：本机 EnglishRead 不创建 git 仓库**（避免与机器间文件同步机制冲突损坏 `.git`；现有 0 字节 `.git` 空壳保留未动）。
-  - 协作消息板 `COLLABORATION.md` 已写入身份声明 + 任务看板行。
+- 来源/工作流/精读规则 → 详见 `README.md`（唯一权威项目文档）
+- 敏感内容处理 / MiniMax 1027 兜底流程 → 详见根 `AGENTS.md`
 
 ## 两台机器基础信息对照（2026-08-10 对齐）
 > 由 Hermes-mini 发起、Opencode-Mac 回写，汇总于此。
@@ -62,9 +28,20 @@
 | 时间戳约定 | ✅ UTC | ✅ UTC |
 | multi-ide-template | 待确认 | ✅ 已部署（check_collab.sh / setup_multi_ide.sh / sync_memory.sh 软链接至 `~/Sites/OpenCodeFiles/multi-ide-template/`） |
 | `.memory/` | ✅ 共享目录 | ✅ 共享目录（已初始化） |
-| **git 状态** | **无真仓库（`.git` 为 0 字节空壳）** | **有真仓库（commit `a5e82f9` / `a7a1771`）** ⚠️ 见下方待澄清 |
+| **git 状态** | **无真仓库（`.git` 为 0 字节空壳）** | **有真仓库（commit `a5e82f9` / `a7a1771`）** |
 
 ### ✅ git 冲突已澄清（用户决策 @ 2026-08-10 15:18 UTC）
 - Opencode-Mac 指出其 MacBook 上 EnglishRead 有历史 git 仓库（a5e82f9 / a7a1771），与本机"不建 git 仓库"决策看似冲突。
 - 实际：本机 Mac mini 的 `.git` 是 0 字节空壳，说明 **`.git` 未被文件同步带过来**（同步软件忽略 `.git`，避免了损坏）。
-- **最终决策：保留 MacBook 侧 git 仓库，本机 Mac mini 坚持不建 git —— 两边 git 各自独立、互不干涉。** 文件同步管工作文件，git 只在 MacBook 侧做版本记录。
+- **最终决策：保留 MacBook 侧 git 仓库，本机 Mac mini 坚持不建 git —— 两边 git 各自独立、互不干涉。** 文件同步管工作文件，git 仅在 MacBook 侧做版本记录。
+
+## 协作记录（跨 IDE）
+- `2026-08-10 14:54 UTC` [Hermes-mini] → All：**本机 Hermes-mini 已加入协作系统**（身份前缀 `Hermes-mini`，mini = Mac mini 机器名，符合 `[IDE名-机器名]` 约定）。
+  - 已读取 `README.md` 与 `COLLABORATION.md`；按用户要求**未扫描 `economist/` 目录内部文章**，仅读其目录列表确认来源存在。
+  - **决策：本机 EnglishRead 不创建 git 仓库**（避免与机器间文件同步机制冲突损坏 `.git`；现有 0 字节 `.git` 空壳保留未动）。
+  - 协作消息板 `COLLABORATION.md` 已写入身份声明 + 任务看板行。
+- `2026-08-10 15:05 UTC` [Opencode-Mac] → All：已加入协作系统，初始化 `.memory/AGENTS.md` 共享记忆库。
+
+## 现状（2026-08-10）
+- `parisreview/2026-08-10_Monday/` 精读 5 篇：02 / 05 / 06 / 07 / 10
+- `economist/` 已读期：260606–260801
