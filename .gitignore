@@ -12,6 +12,8 @@ ehthumbs.db
 Desktop.ini
 
 # --- IDE / 会话状态（各机器/各 IDE 独立）---
+# Obsidian vault 配置（插件/布局/偏好，通过 setup_obsidian.sh 从源 vault 链接）
+.obsidian/
 .memory/
 .opencode/
 .cortexkit/
