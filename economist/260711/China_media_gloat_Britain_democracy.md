@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— China's media gloat at Britain's chaotic democracy
 
 > 原文标题：China's media gloat at Britain's chaotic democracy

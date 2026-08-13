@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # For its own sake, China should change its growth model（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** Leaders（社论）| **副题：** China's concentration risk

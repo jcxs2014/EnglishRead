@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— The man who would change Russia
 
 > 原文标题：The man who would change Russia

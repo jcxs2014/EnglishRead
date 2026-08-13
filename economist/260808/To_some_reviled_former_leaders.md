@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # To some, reviled former leaders don't look so bad — 精读（段落1-5）
 
 来源：The Economist, Aug 6th 2026。本文件为前半部分（段落1-5）逐句精读；后半部分见 part2 文件。

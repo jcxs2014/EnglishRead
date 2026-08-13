@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Wally Funk was told women couldn't be astronauts
 
 > 原文标题：Wally Funk was told women couldn't be astronauts

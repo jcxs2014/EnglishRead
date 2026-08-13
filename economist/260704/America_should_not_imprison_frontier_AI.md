@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：America should not imprison frontier AI
 
 **来源**：The Economist，2026-07-04 期（2026-07-02 发布，Leaders 社论栏目）

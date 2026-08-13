@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：Hong Kong, once a great place to raise and spend money, is halfway back
 
 **来源**：The Economist，2026-07-04 期（Chaguan 专栏）

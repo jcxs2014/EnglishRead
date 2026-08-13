@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Why criticism of the Qing dynasty scares the Communist Party
 
 > 原文标题：Why criticism of the Qing dynasty scares the Communist Party

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # China's superstitious mayors｜逐句精读
 
 > 原文来源：The Economist（China 版块）｜阅读日期：2026-08-08

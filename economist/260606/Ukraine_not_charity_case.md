@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Ukraine is not a charity case（精读分析）
 
 > **来源：** The Economist 2026-06-06 | **栏目：** Leaders（社论）| **副题：** A crucial security partner

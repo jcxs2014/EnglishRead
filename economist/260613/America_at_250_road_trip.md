@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # The best way to celebrate America at 250 is to get behind the wheel
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-11。副标题"Preferably with our new podcast series for company"。庆祝美国建国 250 周年（semiquincentennial），核心论点是"数据与情绪"的鸿沟：客观数据（预期寿命、经济增长、贫富差距）显示美国从未这么好，但近半民众想活在过去。解法：上路（或听播客）——像托克维尔那样亲眼看美国。

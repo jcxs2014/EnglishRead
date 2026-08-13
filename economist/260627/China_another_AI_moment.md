@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # China is having another AI moment — 精读笔记
 
 > **来源**：The Economist, 2026-06-21

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Donald Trump's least bad option in Iran（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** Leaders（社论）| **副题：** Dire strait

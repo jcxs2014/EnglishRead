@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Republicans and Democrats uniting against animal testing are wrong 精读（Leaders，The Economist 2026-08-08）
 
 ## 概览

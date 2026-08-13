@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：A23a had more adventures than most
 
 **来源**：The Economist，2026-07-04 期（2026-07-02 发布，Obituary 讣告栏目，5 min read）

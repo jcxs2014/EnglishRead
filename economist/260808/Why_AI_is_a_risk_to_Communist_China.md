@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Why AI is a risk to Communist China · 逐句精读
 
 > **文章来源**：The Economist，2026-08-08 期（Leaders 社论）

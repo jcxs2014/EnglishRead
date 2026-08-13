@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：Donald Trump is kicking out Chinese firms, but keeping their tech
 
 **来源**：The Economist，2026-07-04 期（China 栏目，13 段长文）

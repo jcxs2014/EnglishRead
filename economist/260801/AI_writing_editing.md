@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— AI is getting better at writing. Humans must get better at editing
 
 > 原文标题：AI is getting better at writing. Humans must get better at editing

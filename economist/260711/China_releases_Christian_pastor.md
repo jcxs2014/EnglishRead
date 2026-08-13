@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读笔记：China releases a prominent Christian pastor
 
 > **来源**：The Economist，2026-07-11 期（China 栏目，题记 "Set free"）

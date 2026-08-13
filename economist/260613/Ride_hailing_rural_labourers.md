@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # In China ride-hailing work is a last resort for rural labourers（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** China | **副题：** Driving at the limits

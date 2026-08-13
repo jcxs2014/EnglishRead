@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Sex, blood and Communist Party virtues
 
 > 原文标题：Sex, blood and Communist Party virtues

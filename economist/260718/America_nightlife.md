@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— America should stop making it so hard to have fun
 
 > 原文标题：America should stop making it so hard to have fun

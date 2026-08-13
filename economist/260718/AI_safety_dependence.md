@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— AI 监管与大国依赖
 
 > 原文标题：How to live with AI superpowers（依据正文内容还原；原刊栏目为 Leader 社论）

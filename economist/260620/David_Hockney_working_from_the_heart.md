@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # David Hockney believed in working from the heart
 
 **文章概览：** 《经济学人》讣告（obituary）栏目。追忆英国画家大卫·霍克尼（David Hockney，1937–2026）。霍克尼以游泳池系列、拼贴摄影（joiners）、iPad 绘画著称，是 20 世纪最受欢迎的艺术家之一。讣告强调他的核心信念："从内心出发作画"（working from the heart）——对感知、色彩与快乐的艺术信仰，以及他那句"艺术必须带来欢乐"的著名主张。

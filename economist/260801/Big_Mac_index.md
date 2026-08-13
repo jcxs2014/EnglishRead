@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— What the Big Mac index reveals about a global currency beef
 
 > 原文标题：What the Big Mac index reveals about a global currency beef

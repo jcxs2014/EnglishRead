@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— It's too darn hot. Blame global dimming
 
 > 原文标题：It's too darn hot. Blame global dimming

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— When a president stops pretending that voters count, disaster beckons
 
 > 原文标题：When a president stops pretending that voters count, disaster beckons

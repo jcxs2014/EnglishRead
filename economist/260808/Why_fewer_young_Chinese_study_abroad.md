@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Why ever fewer young Chinese study abroad
 
 > 《经济学人》精读 · 2026年8月8日刊 · 全文共 11 段 / 61 句 · 逐句分析

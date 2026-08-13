@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Britain is wrong to ban speakers like Hasan Piker（精读分析）
 
 > **来源：** The Economist 2026-06-06 | **栏目：** Leaders（社论）| **副题：** Muzzled Britannia

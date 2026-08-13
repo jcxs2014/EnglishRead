@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：Was the Trump administration's blocking of Anthropic's Fable and Mythos models dystopian?（读者来信汇编）
 
 **来源**：The Economist，2026-07-04 期（Letters 栏目）

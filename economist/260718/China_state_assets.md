@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— A squeezed China is trying to wring more from its state assets
 
 > 原文标题：A squeezed China is trying to wring more from its state assets

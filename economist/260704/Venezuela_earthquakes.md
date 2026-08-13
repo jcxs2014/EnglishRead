@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：Venezuela's earthquakes are partly America's problem
 
 **来源**：The Economist，2026-07-04 期（Leaders 社论）

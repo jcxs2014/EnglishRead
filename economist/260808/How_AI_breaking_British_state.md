@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # How AI is breaking the British state 精读（Leaders/封面文章，The Economist 2026-08-08）
 
 ## 概览

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # How to fight back against Gen-Z socialism（精读分析）
 
 > **来源：** The Economist 2026-06-06 | **栏目：** Leaders（社论）| **副题：** Our cover（封面文章）| **副题2：** The me-first doctrine is a threat to prosperity

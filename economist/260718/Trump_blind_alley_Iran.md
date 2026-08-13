@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Donald Trump's blind alley
 
 > 原文标题：Donald Trump's blind alley

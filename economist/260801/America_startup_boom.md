@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— America's startup boom offers hope for the future of work
 
 > 原文标题：America's startup boom offers hope for the future of work

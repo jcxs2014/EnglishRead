@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # AI has granted America vast new power
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-18。副标题"Its government is now the gatekeeper to frontier models—and most compute"（美国政府如今是前沿模型——以及大部分算力——的看门人）。核心论点：特朗普政府 6 月 12 日命令 Anthropic 禁止外国人使用其最先进模型（Fable 和 Mythos），瞬间展示了一个事实——谁能用世界上最关键的技术，由美国政府说了算。文章分析：这是史无前例的力量；历史上美国如何管控前沿技术（核武、密码学、F-22）；前沿 AI 的特殊性（像核武般危险、像密码学般难封禁）；以及由此产生的"访问分级"（最好的自留、次好的给盟友、受限的卖全球）；最后给小标题"Token gestures"（象征性姿态）下给欧洲/东亚的政策建议：增强实力而非抱怨。

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # India's surprise baby bust is a warning to the world（精读分析）
 
 > **来源：** The Economist 2026-06-06 | **栏目：** Leaders（社论）| **副题：** Our cover（封面文章）| **副题2：** It is not just rich places that are becoming less fertile

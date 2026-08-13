@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Xi Jinping expels another leader from his top team
 
 > 原文标题：Xi Jinping expels another leader from his top team

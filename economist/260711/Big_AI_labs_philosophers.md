@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Why are big AI labs hiring so many philosophers?
 
 > 原文标题：Why are big AI labs hiring so many philosophers?

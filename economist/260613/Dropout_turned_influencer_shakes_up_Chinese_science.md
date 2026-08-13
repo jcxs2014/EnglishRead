@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # A dropout-turned-influencer shakes up Chinese science（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** China / Chaguan（茶馆专栏）

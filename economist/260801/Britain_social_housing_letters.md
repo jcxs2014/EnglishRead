@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Does Britain's social housing subsidise the wrong people?
 
 > 原文标题：Does Britain's social housing subsidise the wrong people? (Letters to the Editor)

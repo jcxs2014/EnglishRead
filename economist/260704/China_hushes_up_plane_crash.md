@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：China hushes up a plane crash in the heart of its capital
 
 **来源**：The Economist，2026-07-04 期（China 栏目）

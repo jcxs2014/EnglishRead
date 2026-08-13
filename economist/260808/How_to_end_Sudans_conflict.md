@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # How to end Sudan's brutal, forgotten conflict
 
 （The Economist 社论 · 阅读批次 2026-08-08 · 正文约 1700 词 · 14 段 · 57 句）

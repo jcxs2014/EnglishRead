@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Humphrey Smith dictated what a good pub should be
 
 > 原文标题：Humphrey Smith dictated what a good pub should be

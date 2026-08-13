@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # The World Cup paradox
 
 **文章概览：** 《经济学人》封面社论，2026-06-10。副标题 "How the rules of both entertainment and soft power are being rewritten"（娱乐与软实力的规则正在被重写）。核心悖论：世界杯开赛，近半个地球观看同一场演出，看似文化全球化达到顶峰；但更大的图景是——娱乐正在"去全球化"（fragmenting/deglobalising），各地观众正拥抱本土内容。美国作为全球文化霸主地位正在终结。

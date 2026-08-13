@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # With Iran emboldened, its neighbours must put old divisions aside
 
 来源：*The Economist* 2026-06-25（Middle East & Africa 版块，社论） | 阅读日期：2026-06-27

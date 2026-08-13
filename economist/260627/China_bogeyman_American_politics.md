@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # China can be a useful bogeyman in American politics — 精读笔记
 
 **来源**：The Economist · Chaguan 专栏（中国专栏），2026-06-22 刊

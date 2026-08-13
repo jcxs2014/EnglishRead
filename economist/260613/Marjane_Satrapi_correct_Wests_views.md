@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Marjane Satrapi set out to correct the West's views of Iran（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** Obituary | **副题：** Veil and beard and nuclear weapon

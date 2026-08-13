@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— Has China obtained the world's most important machine?
 
 > 原文标题：Has China obtained the world's most important machine?

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Governments are making a dangerous bet on the AI boom 精读（Leaders，The Economist 2026-08-08）
 
 ## 概览

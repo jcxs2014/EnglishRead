@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— It is past time to upgrade to post-quantum encryption
 
 > 原文标题：It is past time to upgrade to post-quantum encryption

@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Betye Saar 精读（Obituary，The Economist 2026-08-08）
 
 ## 概览

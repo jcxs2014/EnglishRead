@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：Turkey and Israel should trade energy, not insults
 
 **来源**：The Economist，2026-07-04 期（Leaders 社论）

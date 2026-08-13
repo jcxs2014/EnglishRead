@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # Latin America has turned Trumpy. That creates opportunities
 
 > The Economist 2026-06-25 社论（Leader）· 纯语言教学视角精读

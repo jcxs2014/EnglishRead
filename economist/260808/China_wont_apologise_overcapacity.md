@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读：China won't apologise for overcapacity（中国不会为产能过剩道歉）
 
 - **来源**：The Economist（经济学人）

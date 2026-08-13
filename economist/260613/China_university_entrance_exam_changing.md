@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # China's notorious university-entrance exam is changing（精读分析）
 
 > **来源：** The Economist 2026-06-13 | **栏目：** China

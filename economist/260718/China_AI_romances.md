@@ -1,3 +1,6 @@
+---
+状态: 未读
+---
 # 精读分析：《经济学人》—— China wants to end AI romances
 
 > 原文标题：China wants to end AI romances
