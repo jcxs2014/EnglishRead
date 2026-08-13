@@ -49,6 +49,15 @@ CONFIG_SKIP=(
     "workspaces.json"
 )
 
+# 属性面板相关：确保 properties 核心插件启用 + types.json 定义属性类型
+# "状态": "text"  → 属性栏可点击，基于历史值给出下拉建议（未读/阅读中/已读）
+ENSURE_PROPERTIES=1
+PROPERTY_TYPES_JSON='{
+  "types": {
+    "状态": "text"
+  }
+}'
+
 # ============ 帮助 ============
 show_help() {
     echo "=========================================="
@@ -71,11 +80,12 @@ show_help() {
     echo "通过环境变量覆盖: OBS_SOURCE=/path ./setup_obsidian.sh <目标>"
     echo ""
     echo "执行内容："
-    echo "  1. 链接 plugins/  → 源 vault 的 plugins/"
-    echo "  2. 链接 themes/   → 源 vault 的 themes/"
-    echo "  3. 复制 community-plugins.json（启用列表，始终同步）"
-    echo "  4. 补齐 app.json / core-plugins.json / hotkeys.json 等配置"
-    echo "  5. workspace.json 保持独立，不做任何操作"
+echo "  1. 链接 plugins/  → 源 vault 的 plugins/"
+echo "  2. 链接 themes/   → 源 vault 的 themes/"
+echo "  3. 复制 community-plugins.json（启用列表，始终同步）"
+echo "  4. 补齐 app.json / core-plugins.json / hotkeys.json 等配置"
+echo "  5. 启用 properties 核心插件 + 写入 types.json（属性下拉可用）"
+echo "  6. workspace.json 保持独立，不做任何操作"
     echo ""
     exit 0
 }
@@ -231,6 +241,32 @@ for name in "${CONFIG_MISSING[@]}"; do
         cp "$SOURCE_OBS/$name" "$TARGET_OBS/$name"
     fi
 done
+
+# ============ 确保属性面板可用 ============
+if [ $ENSURE_PROPERTIES -eq 1 ]; then
+    echo ""
+    echo "📋 配置属性面板（Properties）"
+
+    # 1. 启用 properties 核心插件（core-plugins.json 中 properties: true）
+    if [ -f "$TARGET_OBS/core-plugins.json" ]; then
+        python3 -c "
+import json, sys
+p = '$TARGET_OBS/core-plugins.json'
+with open(p) as f:
+    data = json.load(f)
+data['properties'] = True
+with open(p, 'w') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)
+print('   ✅ core-plugins.json: properties 已启用')
+" 2>/dev/null || echo "   ⚠️  python3 不可用，请手动启用 properties 插件"
+    fi
+
+    # 2. 写入 types.json（属性类型定义）
+    if [ -n "$PROPERTY_TYPES_JSON" ]; then
+        echo "$PROPERTY_TYPES_JSON" > "$TARGET_OBS/types.json"
+        echo "   ✅ types.json: 已写入（状态属性 → text）"
+    fi
+fi
 
 # ============ 完成 ============
 echo ""
