@@ -78,7 +78,7 @@ cmd_serve() {
     echo "   Ctrl+C 停止"
     # 延迟打开浏览器（等服务器就绪）
     (sleep 3 && open http://localhost:8080) &
-    npx serve public -l 8080 -s
+    npx serve public -l 8080
 }
 
 cmd_clean() {
