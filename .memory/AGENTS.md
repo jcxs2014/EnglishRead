@@ -42,13 +42,17 @@
   - 协作消息板 `COLLABORATION.md` 已写入身份声明 + 任务看板行。
 - `2026-08-10 15:05 UTC` [Opencode-Mac] → All：已加入协作系统，初始化 `.memory/AGENTS.md` 共享记忆库。
 
-## 现状（2026-08-10）
-- **本批（2026-08-10_Monday）已精读 19 篇 + 2 篇仅存档**，全部编号连续、源文/精读/selected.json/index.json 四套对齐：
-  - `granta/` 6 篇（精读 4：01 Wake / 02 骨头里的尘土 / 05 另一种挪威语 / 06 信仰的维度；仅存档 2：03 未成年性剥削、04 成人情色，顶部已加说明）
-  - `brainpickings/` 5 篇（精读 5：斯多葛解药 / 阿伦特论爱与丧失 / 游泳与生命意义 / O'Donohue 论"开始" / 多迷走神经理论）
-  - `lithub/` 5 篇（精读 5：戳破硅谷神话 / Salinger 与二战 / 大揭秘的毒性 / 石油公司 50 年否认史 / 看封面判断书）
-  - `parisreview/` 5 篇（精读 5：纽约下水道 / 运动的剧场 / 配角·Steve Zissou / 间隙组织 / 城市写作；重编号 01–05）
-- **精读/存储规则（README 固化）**：每源每日 ≤10 篇，自动选 5 篇，宁少不凑；源文+精读均 `.md`+frontmatter；不可精读题材（未成年性剥削/成人情色）保留存档并在源文顶部加说明，不产出精读；未选源文当日清理。
-- **脚本布局（已整理）**：各源 fetch 脚本收纳于其源文件夹内（`parisreview/fetch_paris.py` / `granta/fetch_granta.py` / `brainpickings/fetch_brainpickings.py` / `lithub/fetch_lithub.py`）；`scan.py` 跨源通用，留根目录；一次性 RSS 探测脚本 `feed_check.py`/`feed_check2.py` 已删，`__pycache__/` 已清。README 引用已同步。
-- `economist/` 已读期：260606–260801（本工作区**不主动**扫描其内部；如需针对具体问题，可应要求扫描）
-- **260627 期回炉（2026-08-10）**：首轮精读格式不达标，Burnham/Global/University 三篇重写，Alan P55 插入，末尾段落修复；Commit `9f8ff5f`
+## 现状（2026-08-19）
+- **Economist 260815 批次**已精读 9 篇（主线程2 + 子代理7），全部 `状态: 未读` frontmatter，逐句精读完整：
+  - 主线程：In_praise_designer_ish_babies（42句）、Nirmal_Purja_obituary（71句）
+  - 子代理：Punishing_Putin / Venezuela_democracy / China_oil_OPEC / China_safety_theatre / China_mental_health / Taliban_engage / Zhu_Rongji
+- **精读格式标准已定稿**（AGENTS.md + 项目记忆）：概览 → 逐句精读（`### 第 N 段` + `> **原句 M:**` 五子项分析块）→ 段落逻辑 → 词汇分级 → 长难句专项 → 总结 → 可迁移表达。核心：每原句一块，禁止合并。
+- **Obsidian vault 配置**：`setup_obsidian.sh` 链接 ObsFile plugins/themes，properties 插件已启用，"状态"属性可点击切换
+- **Marjane Satrapi 讣告**拼接异常已修复（原句1-50连续，9段标题完整）
+- **本批（2026-08-19_Wednesday）非 Economist 精读 13 篇**已完成（Hermes-mini 主导）：
+  - parisreview 4 / brainpickings 5 / lithub 4 / granta 0
+- **上一批（2026-08-10_Monday）非 Economist 精读 19 篇 + 2 篇仅存档**
+- **累计**：260606–260815 期 Economist 99 篇 + 非 Economist 34 篇 = 133 篇精读
+- **Economist 已读期**：260606–260801（历史）+ 260627（回炉）+ 260808 + 260815
+- **精读/存储规则（README 固化）**：每源每日 ≤10 篇，自动选 5 篇，宁少不凑；源文+精读均 `.md`+frontmatter；不可精读题材保留存档并加说明；未选源文当日清理
+- **脚本布局**：各源 fetch 脚本收纳于其源文件夹；`scan.py` 跨源通用留根目录；`setup_obsidian.sh` 在工作区根目录
