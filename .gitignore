@@ -16,10 +16,7 @@ Desktop.ini
 .obsidian/
 
 # Quartz 静态站点（构建产物 + node_modules，仅本地测试用）
-site/node_modules/
-site/public/
-public/
-*.tsbuildinfo
+site/
 .memory/
 .opencode/
 .cortexkit/
