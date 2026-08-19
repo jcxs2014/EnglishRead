@@ -22,6 +22,31 @@
       border-left: 4px solid var(--theme-color);
       background: #f8f9fa;
     }
+    /* 可折叠侧边栏 */
+    .sidebar li > ul {
+      display: none;
+      margin-left: 10px;
+    }
+    .sidebar li.open > ul {
+      display: block;
+    }
+    .sidebar li > a {
+      cursor: pointer;
+    }
+    .sidebar li > a::before {
+      content: '▶';
+      display: inline-block;
+      width: 12px;
+      font-size: 8px;
+      transition: transform 0.2s;
+    }
+    .sidebar li.open > a::before {
+      transform: rotate(90deg);
+    }
+    /* 首页不显示箭头 */
+    .sidebar li:first-child > a::before {
+      content: '';
+    }
   </style>
 </head>
 <body>
@@ -47,5 +72,25 @@
   </script>
   <script src="./docsify/docsify.min.js"></script>
   <script src="./docsify/search.min.js"></script>
+  <script>
+    // 可折叠侧边栏
+    document.addEventListener('click', function(e) {
+      var target = e.target;
+      // 找到最近的 li
+      var li = target.closest('li');
+      if (!li) return;
+      
+      // 检查是否有子菜单
+      var ul = li.querySelector(':scope > ul');
+      if (!ul) return;
+      
+      // 阻止默认行为（如果点击的是链接）
+      if (target.tagName === 'A') {
+        e.preventDefault();
+      }
+      
+      li.classList.toggle('open');
+    });
+  </script>
 </body>
 </html>
