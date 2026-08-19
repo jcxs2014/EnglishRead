@@ -26,16 +26,36 @@
 
 ## 📨 消息列表
 
-### [2026-08-10 13:XX UTC] [Opencode-Mac] → All
-**主题**：260627 期回炉 + 全量历史存档 git 追踪
-- **背景**：260627 期首轮精读格式不达标（Burnham/Global/University/Alan 四篇句级粒度不足），用户要求回炉；另发现 143 个未追踪文件。
-- **变更**：
-  - Burnham、Global、University 三篇重写，逐句精读按原文段落结构逐段分析（每段1个完整分析块，含多句）
-  - Alan Greenspan P54 末尾插入 P55（修复■+最后一句合并问题）
-  - 143 个未追踪文件全部 `git add -A` 追踪：economist/260606–260801 历史精读存档、brainpickings/granta/lithub/parisreview 来源存档、协作脚本、.gitignore
-- **Commit**：`9f8ff5f`（回炉）、`8911df3`（全量追踪）
-- **相关文件**：economist/260627/*.md、COLLABORATION.md、.memory/AGENTS.md
+### [2026-08-19 23:xx UTC] [Opencode-Mac] → All
+**主题**：Economist 260815 期精读完成（9篇）+ 精读格式定稿 + Obsidian vault 配置
+- **260815 批次（9篇精读）**：
+  - 主线程 2 篇：Designer-ish babies（42句/970行）、Nirmal Purja 讣告（71句/765行）
+  - 子代理 7 篇：Punishing Putin / Venezuela democracy / China oil OPEC / China safety theatre / China mental health / Taliban engage / Zhu Rongji death
+  - 全部含 `状态: 未读` frontmatter，逐句精读完整
+- **精读格式标准定稿**（commit `276e526`）：
+  - 写入 AGENTS.md + 项目记忆，统一为：概览 → 逐句精读（`### 第 N 段` + `> **原句 M:**` 分析块）→ 段落逻辑 → 词汇分级 → 长难句专项 → 精读结束总结 → 可迁移表达
+  - 核心规范：每原句一个分析块，禁止多句合并；结尾无 ■
+- **Obsidian vault 配置**（commit `6e88dfb` / `c7ddc8c`）：
+  - `setup_obsidian.sh` 脚本：链接 ObsFile 的 plugins/themes 到 EnglishRead，复制配置
+  - `.obsidian` 已启用 properties 插件 + types.json（"状态"属性可点击切换）
+  - `.obsidian/` 加入 .gitignore
+- **Marjane Satrapi 讣告拼接修复**（commit `0ca5621`）：删除第一次截断内容，补齐第5/7/8段标题，原句1-50连续
+- **相关文件**：economist/260815/*.md、AGENTS.md、setup_obsidian.sh
 - **状态**：✅ 已完成
+
+### [2026-08-19 20:xx UTC] [Hermes-mini] → All
+**主题**：新批次（2026-08-19_Wednesday）抓取 + 筛选 + 精读全部完成
+- **本批抓取（共 38 篇）**：
+  - parisreview 10（去重 3 旧文，剔除 [5] Jonestown 集体死亡、[8] Shen Yun 法轮）
+  - granta 10（去重 6 篇与上周重复；4 篇新文全不合格——汇总帖/宗教/UFC 暴力/超长小说，本批 0 篇）
+  - brainpickings 10（全思想/科学，选 5 篇）
+  - lithub 8（剔 [3] 政治/黑学界、[6][7] 汇总帖、[5] 太薄，保留 4 篇）
+- **本批精读（13 篇）**，编号连续、四套对齐：
+  - parisreview 4：01 遗失之物目录 / 02 传记的尴尬乐趣 / 03 "Lil Spooky" 编剧访谈 / 04 书店-滑板店日记
+  - brainpickings 5：01 月光·不必要之物 / 02 加缪·成为一片海 / 03 欧姬芙·"看" / 04 蝉鸣的诗意科学 / 05 Bohm·整体性
+  - lithub 4：01 Range / 02 勒古恩环保与虚构 / 03 投稿者·未读经济 / 04 马耳他版本
+- **累计**：260810（19+2）+ 260819（13）= **34 篇精读**
+- **技术说明**：brainpickings/lithub 重命名序号碰撞，已用临时前缀中转法修复
 
 ---
 
@@ -152,6 +172,17 @@
 - 状态：✅ 已加入协作系统
 - 备注：已读取 README.md 与本协作板；按要求未扫描 `economist/` 目录下文件，仅读取其目录列表以确认新来源存在
 
+### [2026-08-10 13:XX UTC] [Opencode-Mac] → All
+**主题**：260627 期回炉 + 全量历史存档 git 追踪
+- **背景**：260627 期首轮精读格式不达标（Burnham/Global/University/Alan 四篇句级粒度不足），用户要求回炉；另发现 143 个未追踪文件。
+- **变更**：
+  - Burnham、Global、University 三篇重写，逐句精读按原文段落结构逐段分析（每段1个完整分析块，含多句）
+  - Alan Greenspan P54 末尾插入 P55（修复■+最后一句合并问题）
+  - 143 个未追踪文件全部 `git add -A` 追踪：economist/260606–260801 历史精读存档、brainpickings/granta/lithub/parisreview 来源存档、协作脚本、.gitignore
+- **Commit**：`9f8ff5f`（回炉）、`8911df3`（全量追踪）
+- **相关文件**：economist/260627/*.md、COLLABORATION.md、.memory/AGENTS.md
+- **状态**：✅ 已完成
+
 ### [系统初始化] → All
 多 IDE 协作系统已部署
 **排序规则**：消息按**最新到最旧**排列（ newest first，顶部是最新的协作记录）
@@ -200,10 +231,12 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
 | 260627 期回炉：Burnham/Global/University 重写，Alan P55 插入，末尾段落格式修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
 | 全量未追踪文件 git add -A：历史存档 + 各源存档 + 脚本 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
 | 根目录脚本整理（fetch_paris 入源文件夹、删 feed_check 探测脚本、清 pycache） | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
 | 本批精读收官：granta/brainpickings/lithub/parisreview 共 19 篇精读+2 篇存档，编号连续对齐 | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
+| 新批次（2026-08-19）抓取+筛选+精读：parisreview 4 / brainpickings 5 / lithub 4，granta 0，共 13 篇精读；编号跨源统一 | [Hermes-mini] | ✅ 已完成 | 2026-08-19 |
 | 新增三源 granta/brainpickings/lithub（脚本入各源文件夹，已抓全文验证） | [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
 | 文档合并：三层分责 | [Hermes-mini] 主导 / [Opencode-Mac] 批准+核验 | ✅ 已完成 | 2026-08-10 |
 | 基础信息同步 + git 冲突结案 | [Opencode-Mac] / [Hermes-mini] | ✅ 已完成 | 2026-08-10 |
