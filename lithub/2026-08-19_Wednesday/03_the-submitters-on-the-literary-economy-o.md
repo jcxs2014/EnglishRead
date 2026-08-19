@@ -1,5 +1,5 @@
 ---
-title: The Submitters: On the Literary Economy of Unreadness
+title: "The Submitters: On the Literary Economy of Unreadness"
 source: Literary Hub
 url: https://lithub.com/the-submitters-on-the-literary-economy-of-unreadness/
 published: Wed, 19 Aug 2026 10:41:55 +0000

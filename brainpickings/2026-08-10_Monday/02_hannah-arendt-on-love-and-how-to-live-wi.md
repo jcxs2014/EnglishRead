@@ -1,6 +1,6 @@
 ---
 title: Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss
-source: Brain Pickings / The Marginalian
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/08/love-and-saint-augustine-hannah-arendt/
 published: Sat, 08 Aug 2026 19:02:32 +0000
 chars: 15770

@@ -1,6 +1,6 @@
 ---
 title: Swimming and the Meaning of Life
-source: Brain Pickings / The Marginalian
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/08/roger-deakin-waterlog/
 published: Sat, 08 Aug 2026 11:50:56 +0000
 chars: 8117

@@ -1,5 +1,5 @@
 ---
-title: The Bit Player: My Father with Steve Zissou
+title: "The Bit Player: My Father with Steve Zissou"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/
 published: Mon, 27 Jul 2026 14:35:56 +0000

@@ -1,6 +1,6 @@
 ---
-title: A Spell Against Stagnation: John O’Donohue on Beginnings
-source: Brain Pickings / The Marginalian
+title: "A Spell Against Stagnation: John O’Donohue on Beginnings"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/06/john-odonohue-blessings-beginnings/
 published: Thu, 06 Aug 2026 23:58:55 +0000
 chars: 7999

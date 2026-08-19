@@ -1,5 +1,5 @@
 ---
-title: Last Days at the Aqueduct: New York’s Rundown Racetrack
+title: "Last Days at the Aqueduct: New York’s Rundown Racetrack"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/08/04/last-days-at-the-aqueduct-new-yorks-rundown-racetrack/
 published: Tue, 04 Aug 2026 15:07:07 +0000

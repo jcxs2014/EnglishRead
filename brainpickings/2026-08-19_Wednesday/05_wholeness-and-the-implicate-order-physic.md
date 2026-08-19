@@ -1,6 +1,6 @@
 ---
-title: Wholeness and the Implicate Order: Physicist David Bohm on Bridging Consciousness and Reality
-source: Brain Pickings / The Marginalian
+title: "Wholeness and the Implicate Order: Physicist David Bohm on Bridging Consciousness and Reality"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/17/wholeness-and-the-implicate-order-david-bohm/
 published: Mon, 17 Aug 2026 12:01:27 +0000
 chars: 5596

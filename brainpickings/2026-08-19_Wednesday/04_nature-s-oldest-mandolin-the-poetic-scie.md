@@ -1,6 +1,6 @@
 ---
-title: Nature’s Oldest Mandolin: The Poetic Science of How Cicadas Sing
-source: Brain Pickings / The Marginalian
+title: "Nature’s Oldest Mandolin: The Poetic Science of How Cicadas Sing"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/17/cicadas/
 published: Mon, 17 Aug 2026 13:44:58 +0000
 chars: 7936

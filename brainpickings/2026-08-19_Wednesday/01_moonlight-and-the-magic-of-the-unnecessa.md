@@ -1,6 +1,6 @@
 ---
 title: Moonlight and the Magic of the Unnecessary
-source: Brain Pickings / The Marginalian
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/18/moonlight/
 published: Wed, 19 Aug 2026 01:55:13 +0000
 chars: 6980

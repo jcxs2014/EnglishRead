@@ -1,6 +1,6 @@
 ---
-title: How to Be a Sea: Albert Camus on Learning to Die and Learning to Live
-source: Brain Pickings / The Marginalian
+title: "How to Be a Sea: Albert Camus on Learning to Die and Learning to Live"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/18/camus-sea/
 published: Tue, 18 Aug 2026 18:46:18 +0000
 chars: 6631

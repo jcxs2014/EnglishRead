@@ -1,5 +1,5 @@
 ---
-title: The Theater of Sport: Bill Buford Revisits Among the Thugs
+title: "The Theater of Sport: Bill Buford Revisits Among the Thugs"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/07/29/the-theater-of-sport-bill-buford-revisits-among-the-thugs/
 published: Wed, 29 Jul 2026 14:00:58 +0000

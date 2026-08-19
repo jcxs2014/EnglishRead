@@ -1,6 +1,6 @@
 ---
-title: Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity
-source: Brain Pickings / The Marginalian
+title: "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/05/polyvagal-theory/
 published: Wed, 05 Aug 2026 19:24:37 +0000
 chars: 9057

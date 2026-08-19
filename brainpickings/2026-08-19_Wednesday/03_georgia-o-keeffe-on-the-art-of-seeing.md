@@ -1,6 +1,6 @@
 ---
 title: Georgia O’Keeffe on the Art of Seeing
-source: Brain Pickings / The Marginalian
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/18/georgia-okeeffe-flower/
 published: Tue, 18 Aug 2026 15:09:04 +0000
 chars: 4427

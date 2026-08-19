@@ -1,6 +1,6 @@
 ---
-title: The Stoic Antidote to Frustration: Marcus Aurelius on How to Keep Your Mental Composure and Emotional Equanimity When People Let You Down
-source: Brain Pickings / The Marginalian
+title: "The Stoic Antidote to Frustration: Marcus Aurelius on How to Keep Your Mental Composure and Emotional Equanimity When People Let You Down"
+source: "Brain Pickings / The Marginalian"
 url: https://www.themarginalian.org/2026/08/09/marcus-aurelius-meditations-robin-waterfield/
 published: Sun, 09 Aug 2026 16:19:33 +0000
 chars: 9997
