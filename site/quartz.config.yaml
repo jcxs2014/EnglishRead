@@ -116,6 +116,14 @@ plugins:
     enabled: false
   - source: "@quartz-community/search"
     enabled: false
+  - source:
+      name: quartz-themes
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugin
+    enabled: true
+    options:
+      theme: "claude-code-orange"
+      mode: both
     layout:
       position: left
       priority: 20
