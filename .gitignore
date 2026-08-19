@@ -11,12 +11,6 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# --- 符号链接（跨机器路径不同，不追踪）---
-check_collab.sh
-setup_multi_ide.sh
-sync_memory.sh
-site/content
-
 # --- IDE / 会话状态（各机器/各 IDE 独立）---
 # Obsidian vault 配置（插件/布局/偏好，通过 setup_obsidian.sh 从源 vault 链接）
 .obsidian/
