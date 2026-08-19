@@ -70,6 +70,13 @@ cmd_serve() {
         echo -e "${YELLOW}📦 首次运行，安装依赖...${NC}"
         cd "$SITE_DIR" && npm install 2>&1 | tail -3
     fi
+    # 自动释放端口
+    EXISTING_PID=$(lsof -ti :8080 2>/dev/null)
+    if [ -n "$EXISTING_PID" ]; then
+        echo -e "${YELLOW}⚠️  端口 8080 被占用，正在释放...${NC}"
+        kill "$EXISTING_PID" 2>/dev/null
+        sleep 1
+    fi
     echo -e "${GREEN}🚀 构建并启动预览服务器（端口 8080）${NC}"
     cd "$SITE_DIR"
     npx quartz build 2>&1 | tail -3
