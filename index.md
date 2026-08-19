@@ -4,12 +4,30 @@ title: EnglishRead 精读
 
 # EnglishRead 精读
 
-英语精读笔记库，涵盖 The Economist、The Paris Review、Brain Pickings 等来源。
+中文母语者用 The Paris Review 等高品质文学/非虚构来源做**逐句英文精读**的个人知识库。
+目标是"从看中文翻译过渡到直接读懂英文原文"。
 
-## 来源导航
+## 来源
 
-- [The Economist](./economist/) — 周刊精读
-- [The Paris Review](./parisreview/) — 文学访谈
-- [Brain Pickings](./brainpickings/) — 人文思考
-- [Granta](./granta/) — 当代文学
-- [Literary Hub](./lithub/) — 书评与文学
+- **The Economist** — 周刊精读，*economist/* 目录按发行日期分册
+- **The Paris Review** — 文学访谈，RSS 自带全文，文学性强，精读价值最高
+- **Brain Pickings / The Marginalian** — 人文思考，科学·思想·随笔
+- **Granta** — 当代文学
+- **Literary Hub** — 书评与文学
+
+## 每日工作流
+
+1. **抓文**：脚本自动，每源每日上限 10 篇
+2. **自动选 5 篇**：长度适中、题材多样、敏感剔除
+3. **精读**：逐句分析，原句 / 自然中文 / 句子结构 / 关键词 / 地道表达 / "为什么这样写"
+4. **清理**：未入选源文直接删除，保留精读报告
+
+## 精读原则
+
+- 不做逐词翻译，重点在长难句、易误解句、地道/学术表达
+- 交互指令：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
+
+## 注意事项
+
+- 精读工作区在 macOS 上验证；跨机器同步用文件系统直读，git 仅做版本记录
+- 源文与精读均存 `.md`，命名 `<idx>_<slug>.md` / `<idx>_<slug>_精读.md`
