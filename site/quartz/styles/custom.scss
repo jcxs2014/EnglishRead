@@ -2,8 +2,16 @@
 
 // ================================
 // EnglishRead 自定义样式
-// 桌面端 + 移动端响应式
+// Claude Code Orange 主题
 // ================================
+
+// --- 变量定义 ---
+:root {
+  --orange-accent: #DE8000;
+  --orange-hover: #ff9033;
+  --orange-subtle: rgba(222, 128, 0, 0.12);
+  --orange-subtle-hover: rgba(222, 128, 0, 0.2);
+}
 
 // --- 首页 Hero 区域增强 ---
 .page[data-slug="index"] {
@@ -15,6 +23,7 @@
       font-size: 2.5rem;
       font-weight: 700;
       margin-bottom: 0.6rem;
+      color: var(--orange-accent);
     }
 
     .content-meta {
@@ -34,12 +43,13 @@
     font-weight: 700;
     padding: 1.2rem 1rem;
     border-bottom: 1px solid var(--lightgray);
-    color: var(--dark);
+    color: var(--orange-accent);
   }
 
   .folder-button {
     font-weight: 600;
     font-size: 0.9rem;
+    color: var(--dark);
   }
 
   .nav-file-title {
@@ -50,8 +60,8 @@
     transition: background 0.15s, color 0.15s;
 
     &:hover {
-      background: var(--highlight);
-      color: var(--dark);
+      background: var(--orange-subtle);
+      color: var(--orange-accent);
     }
   }
 
@@ -72,9 +82,9 @@ article {
   margin: 0 auto;
   padding: 2.5rem 2rem;
 
-  h1 { font-size: 1.8rem; margin-bottom: 1rem; }
-  h2 { font-size: 1.4rem; margin-bottom: 0.9rem; border-bottom: 1px solid var(--lightgray); padding-bottom: 0.4rem; }
-  h3 { font-size: 1.15rem; margin-bottom: 0.8rem; }
+  h1 { font-size: 1.8rem; margin-bottom: 1rem; color: var(--orange-accent); }
+  h2 { font-size: 1.4rem; margin-bottom: 0.9rem; color: var(--dark); border-bottom: 1px solid var(--orange-accent); padding-bottom: 0.4rem; }
+  h3 { font-size: 1.15rem; margin-bottom: 0.8rem; color: var(--dark); }
 
   p {
     line-height: 1.85;
@@ -82,15 +92,15 @@ article {
   }
 
   blockquote {
-    border-left: 3px solid var(--secondary);
+    border-left: 3px solid var(--orange-accent);
     margin: 1.5rem 0;
     padding: 0.5rem 1rem;
-    background: var(--highlight);
+    background: var(--orange-subtle);
     border-radius: 0 4px 4px 0;
   }
 }
 
-// --- 文章标题样式 ---
+// --- 文章标题样式（侧边栏内） ---
 .article-title {
   font-size: 1.1rem;
   font-weight: 600;
@@ -99,7 +109,7 @@ article {
   transition: color 0.15s;
 
   &:hover {
-    color: var(--secondary);
+    color: var(--orange-accent);
   }
 }
 
@@ -110,20 +120,65 @@ article {
   margin-top: 0.3rem;
 }
 
+// --- 链接高亮 ---
+a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+
+  &:hover {
+    color: var(--orange-accent);
+  }
+}
+
+a.internal {
+  background-color: var(--orange-subtle);
+  border-radius: 5px;
+  padding: 0 .1rem;
+  line-height: 1.4rem;
+  text-decoration: none;
+
+  &:hover {
+    background-color: var(--orange-subtle-hover);
+    color: var(--orange-accent);
+  }
+
+  &.broken {
+    color: var(--gray);
+    opacity: 0.5;
+  }
+}
+
+// --- Callout 配色 ---
+.callout[data-callout] {
+  --color: var(--orange-accent);
+  --border: var(--orange-accent);
+  --bg: var(--orange-subtle);
+}
+
 // --- 暗色模式适配 ---
 .darkmode {
+  --orange-accent: #ff9033;
+  --orange-hover: #ffb366;
+  --orange-subtle: rgba(255, 144, 51, 0.15);
+  --orange-subtle-hover: rgba(255, 144, 51, 0.25);
+
   .left.sidebar {
     background: var(--dark);
     border-right-color: var(--darkgray);
 
     .page-title {
-      color: var(--dark);
+      color: var(--orange-accent);
       border-bottom-color: var(--darkgray);
     }
 
-    .nav-file-title:hover {
-      background: var(--highlight);
+    .folder-button {
       color: var(--darkgray);
+    }
+
+    .nav-file-title:hover {
+      background: var(--orange-subtle);
+      color: var(--orange-accent);
     }
   }
 
@@ -132,9 +187,17 @@ article {
   }
 
   article {
+    h1 { color: var(--orange-accent); }
+    h2 { color: var(--darkgray); border-bottom-color: var(--orange-accent); }
+    h3 { color: var(--darkgray); }
+
     blockquote {
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 144, 51, 0.08);
     }
+  }
+
+  .article-title:hover {
+    color: var(--orange-accent);
   }
 }
 
