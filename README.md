@@ -87,6 +87,7 @@
 - 本文档为**唯一权威项目说明**；agent 操作规则见根 `AGENTS.md`，跨 IDE 拓扑与协作日志见 `.memory/AGENTS.md`。
 - 本工作区在 macOS 26.5 上验证；跨机器同步用文件系统直读，git 仅在 MacBook 侧做版本记录。
 - **源文与精读均存 `.md`**：源文带 frontmatter（title/source/url/published/chars），命名 `<idx>_<slug>.md`；精读 `<idx>_<slug>_精读.md`。
+- **网页部署**：使用 Cloudflare Pages（https://jcxs2014.github.io/EnglishRead/），push 到 main 自动构建。
 - **抓取三边界（用户定）**：宁少不凑（敏感剔除后凑不齐 5 篇则少精读，不放宽阈值）；未入选源文直接删除（本机无 git，操作在单一机器执行防同步竞态）；备份用户自理，AI 不处理。
 - **指定唯一抓取机**（建议）：`Opencode-Mac` 执行抓取脚本，避免两台机器同写一个目录引发同步竞态；Hermes-mini 负责精读。
 
