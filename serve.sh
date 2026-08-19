@@ -70,11 +70,15 @@ cmd_serve() {
         echo -e "${YELLOW}📦 首次运行，安装依赖...${NC}"
         cd "$SITE_DIR" && npm install 2>&1 | tail -3
     fi
-    echo -e "${GREEN}🚀 启动预览服务器（端口 8080）${NC}"
-    echo "   浏览器打开：http://localhost:8080"
-    echo "   Ctrl+C 停止"
+    echo -e "${GREEN}🚀 构建并启动预览服务器（端口 8080）${NC}"
     cd "$SITE_DIR"
-    npx quartz build --serve --port 8080
+    npx quartz build 2>&1 | tail -3
+    echo -e "${GREEN}✅ 构建完成，启动服务器...${NC}"
+    echo "   浏览器即将打开：http://localhost:8080"
+    echo "   Ctrl+C 停止"
+    # 延迟打开浏览器（等服务器就绪）
+    (sleep 3 && open http://localhost:8080) &
+    npx serve public -l 8080 --single
 }
 
 cmd_clean() {
