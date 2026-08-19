@@ -5,6 +5,7 @@ configuration:
   enablePopovers: true
   locale: zh-CN
   baseUrl: englishread.jcxs2014.workers.dev
+  content: ["../"]
   ignorePatterns:
     - private
     - templates
