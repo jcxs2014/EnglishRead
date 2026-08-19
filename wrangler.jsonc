@@ -1,9 +1,9 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "englishread",
-  "compatibility_date": "2025-04-01",
+  "compatibility_date": "2025-08-01",
   "assets": {
     "directory": "./site/public",
-    "not_found_handling": "single-page-application"
+    "not_found_handling": "404-page"
   }
 }
