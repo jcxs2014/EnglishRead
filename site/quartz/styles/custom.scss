@@ -1,3 +1,166 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ================================
+// EnglishRead 自定义样式
+// 桌面端 + 移动端响应式
+// ================================
+
+// --- 首页 Hero 区域 ---
+.page[ data-slug="index" ] {
+  .page-header {
+    text-align: center;
+    padding: 4rem 1rem 2rem;
+
+    .article-title {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .content-meta {
+      font-size: 0.95rem;
+      color: var(--gray);
+    }
+  }
+}
+
+// --- 文章卡片美化 ---
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.article-card {
+  background: var(--light);
+  border-radius: 8px;
+  padding: 1.25rem;
+  border: 1px solid var(--lightgray);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .article-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .content-meta {
+    font-size: 0.8rem;
+    color: var(--gray);
+  }
+}
+
+// --- 侧边栏美化 ---
+.left.sidebar {
+  background: var(--light);
+
+  .page-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 1rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  .nav-file-title {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.9rem;
+
+    &:hover {
+      background: var(--highlight);
+    }
+  }
+}
+
+// --- 内容区域排版 ---
+article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+
+  h1, h2, h3, h4 {
+    line-height: 1.4;
+  }
+
+  p {
+    line-height: 1.8;
+    margin-bottom: 1.2rem;
+  }
+}
+
+// --- 响应式：平板 ---
+@media all and (max-width: 1024px) {
+  .page[ data-slug="index" ] {
+    .page-header .article-title {
+      font-size: 2rem;
+    }
+  }
+
+  .articles-grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+}
+
+// --- 响应式：手机 ---
+@media all and (max-width: 600px) {
+  .left.sidebar {
+    .page-title {
+      font-size: 1rem;
+      padding: 0.75rem;
+    }
+  }
+
+  .page[ data-slug="index" ] {
+    .page-header {
+      padding: 2rem 1rem 1.5rem;
+
+      .article-title {
+        font-size: 1.6rem;
+      }
+    }
+  }
+
+  .articles-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    padding: 0.5rem;
+  }
+
+  article {
+    padding: 1.25rem 1rem;
+
+    p {
+      line-height: 1.7;
+      margin-bottom: 1rem;
+    }
+  }
+
+  .darkmode button,
+  .readermode button {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+// --- 暗色模式适配 ---
+.darkmode {
+  .article-card {
+    background: var(--dark);
+    border-color: var(--darkgray);
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  .left.sidebar {
+    background: var(--dark);
+    border-right: 1px solid var(--darkgray);
+  }
+}
