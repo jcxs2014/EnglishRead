@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="中文母语者的英文逐句精读知识库">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="./docsify/vue.css">
   <style>
     :root {
       --theme-color: #4A90D9;
@@ -22,10 +22,6 @@
       border-left: 4px solid var(--theme-color);
       background: #f8f9fa;
     }
-    /* 隐藏 frontmatter */
-    .markdown-section > hr:first-child + * {
-      display: none;
-    }
   </style>
 </head>
 <body>
@@ -35,7 +31,7 @@
       name: 'EnglishRead 精读',
       repo: '',
       loadSidebar: true,
-      loadNavbar: true,
+      loadNavbar: false,
       coverpage: false,
       subMaxLevel: 3,
       search: {
@@ -47,15 +43,9 @@
       },
       auto2top: true,
       relativePath: true,
-      // 隐藏 frontmatter（---之间的内容）
-      markdown: function(content) {
-        // 移除 frontmatter
-        content = content.replace(/^---[\s\S]*?---\n*/m, '');
-        return content;
-      }
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="./docsify/docsify.min.js"></script>
+  <script src="./docsify/search.min.js"></script>
 </body>
 </html>
