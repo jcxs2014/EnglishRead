@@ -15,8 +15,9 @@ Desktop.ini
 # Obsidian vault 配置（插件/布局/偏好，通过 setup_obsidian.sh 从源 vault 链接）
 .obsidian/
 
-# Quartz 静态站点（构建产物 + node_modules，仅本地测试用）
-site/
+# Quartz 静态站点（构建产物 + node_modules，保留配置供 CI 构建）
+site/node_modules/
+site/public/
 .memory/
 .opencode/
 .cortexkit/

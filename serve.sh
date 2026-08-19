@@ -34,7 +34,7 @@ cmd_serve() {
     echo "🚀 http://localhost:$PORT"
     echo "   Ctrl+C 停止"
     (sleep 2 && open "http://localhost:$PORT") &
-    npx serve public -l $PORT
+    npx serve public -l "tcp://0.0.0.0:$PORT"
 }
 
 cmd_clean() {
