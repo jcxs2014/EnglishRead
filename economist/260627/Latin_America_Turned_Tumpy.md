@@ -1038,89 +1038,74 @@ P8  结论（呼吁）     制度 > 总统；祈使句收束
 
 ## 词汇分级
 
-### 一、高频核心词（四六级/日常阅读必备）
-
-| 单词 | 文中义 | 备注 |
-|------|--------|------|
-| win / hold elections | 赢下 / 举行选举 | 政治新闻基本动词 |
-| leader | 领导人 | 中性词，社论常用 |
-| promises to | 承诺做 | promise to do 基本搭配 |
-| popular | 受欢迎的 | prove popular 固定搭配 |
-| rely on | 依赖 | 与 depend on 同义 |
-| trade | 贸易 | trade with 搭配 |
-| direct | 直接的 | direct help |
-| helped | 帮助 | help sb do sth |
-| produce / export | 生产 / 出口 | 经贸基础词 |
-| military | 军事的 | military co-operation |
-| safety / safe | 安全 | as safe as 同级比较 |
-| fight | 斗争 | the fight against |
-| victims | 受害者 | 新闻高频 |
-| price | 价格 | the price tends to rise |
-| rise | 上涨 | 与 increase 替换使用 |
-| investors | 投资者 | 财经新闻高频 |
-| attracted | 被吸引 | be attracted to |
-| investment | 投资 | 与 attract 搭配 |
-| risks | 风险 | bring risks |
-| friends | 朋友 | be friends with |
-
-### 二、学术书面词汇（雅思/托福/GRE 级，写作加分项）
-
-- `barring`（除……之外）——介词，比 except 正式
-- `sizeable`（相当大的）
-- `pendulum`（钟摆，政治隐喻）
-- `courts`（动词：讨好）——注意与名词"法院/球场"区分
-- `ideologically`（意识形态上）
-- `atypical`（非典型的）——a- 否定前缀
-- `constricting`（压缩、收紧）
-- `incentive`（激励、动机）——经济学高频
-- `detectable`（可察觉的）
-- `pliable`（易摆布的）——贬义形容词
-- `counterparts`（对应方、同行）
-- `recapture`（夺回）
-- `suspend`（中止）——suspend civil liberties 搭配
-- `dissidents`（异见者）
-- `avert`（避免）——avert a crisis 搭配
-- `extended`（提供）——extend credit/a loan
-- `aversion` 类词族：注意与 extend（延伸）区分
-
-### 三、专业术语（政治/经济/法律）
-
-- **政治类**：right-wingers / centrists / leftists（政治光谱三件套）、populists（民粹主义者）、president-elect（当选总统）、civil liberties（公民自由）、the rule of law（法治）、democratic institutions（民主制度）、came to power（上台执政）
-- **经济类**：tariffs（关税）、credit line（信贷额度）、currency crisis（货币危机）、the availability of drugs（可获得性）
-- **法律/治安类**：without trial（未经审判）、extortion（敲诈勒索）、drug-smuggling（毒品走私）、locked up（关押）、snitch on（告发）
-- **军事/安全类**：military co-operation（军事合作）、campaign of bombing（轰炸行动）、the war on drugs（毒品战争）、mega-prisons（巨型监狱）
-
-### 四、地道表达 / 习语（可直接迁移到写作）
-
-| 表达 | 含义 | 出处 |
+| 难度 | 词汇 | 释义 |
 |------|------|------|
-| little more than | 仅仅、不过 | S1 |
-| swing like a pendulum | 如钟摆般摇摆 | S2 |
-| either court sb or sound like him | 要么讨好要么模仿 | S3 |
-| a tight race | 势均力敌的竞选 | S4 |
-| hunt down | 追捕到底 | S5 |
-| be sick of | 受够了 | S6 |
-| tough-sounding | 听起来强硬的 | S8 |
-| win his favour | 赢得欢心 | S12 |
-| imitation is flattery | 模仿即奉承 | S12 |
-| warm ties | 密切关系（外交语） | S13 |
-| be spared sth | 免于…… | S15 |
-| have upside | 有积极面 | S18 |
-| take root | 扎根（观念深入人心） | S22 |
-| legions of | 大批的 | S23 |
-| from a murder capital into... | 从……之都变成…… | S23 |
-| stay on sb's good side | 维持在某人心中的好印象 | S35 |
-| shut up or flee | 闭嘴或逃离 | S37 |
-| the giant in the north | 北方的巨人 | S41 |
-| sweep away | 席卷、冲走 | S42 |
-
-**构词法彩蛋（一文学会三个前缀/后缀）**
-- `-ian`：Trumpian（特朗普式的）——专有名词 → 形容词
-- `-sounding`：tough-sounding（听起来强硬的）——形容词 + 动名词复合
-- `mega-`：mega-prisons（巨型监狱）；`pan-`：pan-American（泛美洲的）——两个表"大/全"的前缀
-- `a-`：atypical（非典型的）；`-less`：ruthless（无情的）——否定前缀/后缀
-
----
+| 基础 | 单词 | 文中义 |
+| 基础 | win / hold elections | 赢下 / 举行选举 |
+| 基础 | leader | 领导人 |
+| 基础 | promises to | 承诺做 |
+| 基础 | popular | 受欢迎的 |
+| 基础 | rely on | 依赖 |
+| 基础 | trade | 贸易 |
+| 基础 | direct | 直接的 |
+| 基础 | helped | 帮助 |
+| 基础 | produce / export | 生产 / 出口 |
+| 基础 | military | 军事的 |
+| 基础 | safety / safe | 安全 |
+| 基础 | fight | 斗争 |
+| 基础 | victims | 受害者 |
+| 基础 | price | 价格 |
+| 基础 | rise | 上涨 |
+| 基础 | investors | 投资者 |
+| 基础 | attracted | 被吸引 |
+| 基础 | investment | 投资 |
+| 基础 | risks | 风险 |
+| 基础 | friends | 朋友 |
+| 基础 | barring | （除……之外）——介词，比 except 正式 |
+| 基础 | sizeable | （相当大的） |
+| 基础 | pendulum | （钟摆，政治隐喻） |
+| 基础 | courts | （动词：讨好）——注意与名词"法院/球场"区分 |
+| 基础 | ideologically | （意识形态上） |
+| 基础 | atypical | （非典型的）——a- 否定前缀 |
+| 基础 | constricting | （压缩、收紧） |
+| 基础 | incentive | （激励、动机）——经济学高频 |
+| 基础 | detectable | （可察觉的） |
+| 基础 | pliable | （易摆布的）——贬义形容词 |
+| 基础 | counterparts | （对应方、同行） |
+| 基础 | recapture | （夺回） |
+| 基础 | suspend | （中止）——suspend civil liberties 搭配 |
+| 基础 | dissidents | （异见者） |
+| 基础 | avert | （避免）——avert a crisis 搭配 |
+| 基础 | extended | （提供）——extend credit/a loan |
+| 基础 | aversion | 类词族：注意与 extend（延伸）区分 |
+| 高级 | 政治类：right-wingers | leftists（政治光谱三件套）、populists（民粹主义者）、president-elect（当选总统）、civil liberties（公民自由）、the rule of law（法治）、democratic institutions（民主制度）、came to power（上台执政） |
+| 高级 | 经济类：tariffs（关税）、credit | line（信贷额度）、currency crisis（货币危机）、the availability of drugs（可获得性） |
+| 高级 | 法律/治安类：without | trial（未经审判）、extortion（敲诈勒索）、drug-smuggling（毒品走私）、locked up（关押）、snitch on（告发） |
+| 高级 | 军事/安全类：military | co-operation（军事合作）、campaign of bombing（轰炸行动）、the war on drugs（毒品战争）、mega-prisons（巨型监狱） |
+| 高级 | 表达 | 含义 |
+| 高级 | little more than | 仅仅、不过 |
+| 高级 | swing like a pendulum | 如钟摆般摇摆 |
+| 高级 | either court sb or sound like him | 要么讨好要么模仿 |
+| 高级 | a tight race | 势均力敌的竞选 |
+| 高级 | hunt down | 追捕到底 |
+| 高级 | be sick of | 受够了 |
+| 高级 | tough-sounding | 听起来强硬的 |
+| 高级 | win his favour | 赢得欢心 |
+| 高级 | imitation is flattery | 模仿即奉承 |
+| 高级 | warm ties | 密切关系（外交语） |
+| 高级 | be spared sth | 免于…… |
+| 高级 | have upside | 有积极面 |
+| 高级 | take root | 扎根（观念深入人心） |
+| 高级 | legions of | 大批的 |
+| 高级 | from a murder capital into... | 从……之都变成…… |
+| 高级 | stay on sb's good side | 维持在某人心中的好印象 |
+| 高级 | shut up or flee | 闭嘴或逃离 |
+| 高级 | the giant in the north | 北方的巨人 |
+| 高级 | sweep away | 席卷、冲走 |
+| 高级 | -ian | ：Trumpian（特朗普式的）——专有名词 → 形容词 |
+| 高级 | -sounding | ：tough-sounding（听起来强硬的）——形容词 + 动名词复合 |
+| 高级 | mega- | ：mega-prisons（巨型监狱）；`pan-`：pan-American（泛美洲的）——两个表"大/全"的前缀 |
+| 高级 | a- | ：atypical（非典型的）；`-less`：ruthless（无情的）——否定前缀/后缀 |
 
 ## 长难句专项
 

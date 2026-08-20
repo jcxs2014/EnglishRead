@@ -849,49 +849,46 @@
 
 ## 词汇分级
 
-### 基础词汇
-- **state** /steɪt/ n. 国家、政府
-- **railway** /ˈreɪlweɪ/ n. 铁路
-- **welfare** /ˈwelfeə/ n. 福利
-- **appeal** /əˈpiːl/ n. 申诉、上诉
-- **claim** /kleɪm/ n./v. 索赔、主张
-- **fee** /fiː/ n. 费用
-- **money** 从略
-- **ticket** /ˈtɪkɪt/ n. 罚单
-
-### 进阶词汇
-- **backlog** /ˈbæklɒɡ/ n. 积压
-- **tribunal** /traɪˈbjuːnl/ n. 仲裁庭
-- **surge** /sɜːdʒ/ v. 激增
-- **injunction** /ɪnˈdʒʌŋkʃn/ n. 禁令、禁制令
-- **vulnerable** /ˈvʌlnərəbl/ adj. 脆弱的、易受攻击的
-- **innovate** /ˈɪnəveɪt/ v. 创新
-- **grapple with** /ˈɡræpl/ 设法应对
-- **loophole** /ˈluːphəʊl/ n. 漏洞
-- **overwhelm** /ˌəʊvəˈwelm/ v. 淹没、压垮
-- **buckle** /ˈbʌkl/ v. 弯曲、垮塌
-- **entitlement** /ɪnˈtaɪtlmənt/ n. 法定权利、福利
-- **redress** /rɪˈdres/ n. 救济、补偿
-- **prune** /pruːn/ v. 修剪
-- **disincentive** /ˌdɪsɪnˈsentɪv/ n. 抑制因素
-- **accrete** /əˈkriːt/ v. 逐渐累积
-- **swamp** /swɒmp/ v. 淹没
-
-### 高级词汇
-- **deluge** /ˈdeljuːdʒ/ n. 洪水、倾泻
-- **inundation** /ˌɪnʌnˈdeɪʃn/ n. 淹没、泛滥
-- **agentic** /eɪˈdʒentɪk/ adj. 代理性的
-- **sputter** /ˈspʌtə/ v. 运转不畅、噼啪作响
-- **officialdom** /əˈfɪʃldəm/ n. 官场、官僚作风
-- **slop** /slɒp/ n. 垃圾内容（AI新词）
-- **panoply** /ˈpænəpli/ n. 全套、整套装备
-- **ombudsman** /ˈɒmbʊdzmən/ n. 监察专员
-- **maladministration** /ˌmælədˌmɪnɪˈstreɪʃn/ n. 行政失当
-- **Byzantine** /bɪˈzæntaɪn/ adj. 复杂难懂的、拜占庭式的
-- **onerous** /ˈəʊnərəs/ adj. 繁重的
-- **doom-loop** /ˈduːmˌluːp/ n. 恶性循环
-- **petition** /pəˈtɪʃn/ v./n. 请愿、申诉
-- **recast** /ˌriːˈkɑːst/ v. 重铸
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | state | n. 国家、政府 |
+| 基础 | railway | n. 铁路 |
+| 基础 | welfare | n. 福利 |
+| 基础 | appeal | n. 申诉、上诉 |
+| 基础 | claim | n./v. 索赔、主张 |
+| 基础 | fee | n. 费用 |
+| 基础 | money | 从略 |
+| 基础 | ticket | n. 罚单 |
+| 基础 | backlog | n. 积压 |
+| 基础 | tribunal | n. 仲裁庭 |
+| 基础 | surge | v. 激增 |
+| 基础 | injunction | n. 禁令、禁制令 |
+| 基础 | vulnerable | adj. 脆弱的、易受攻击的 |
+| 基础 | innovate | v. 创新 |
+| 基础 | grapple | with /ˈɡræpl/ 设法应对 |
+| 基础 | loophole | n. 漏洞 |
+| 基础 | overwhelm | v. 淹没、压垮 |
+| 基础 | buckle | v. 弯曲、垮塌 |
+| 基础 | entitlement | n. 法定权利、福利 |
+| 基础 | redress | n. 救济、补偿 |
+| 基础 | prune | v. 修剪 |
+| 基础 | disincentive | n. 抑制因素 |
+| 基础 | accrete | v. 逐渐累积 |
+| 基础 | swamp | v. 淹没 |
+| 基础 | deluge | n. 洪水、倾泻 |
+| 基础 | inundation | n. 淹没、泛滥 |
+| 基础 | agentic | adj. 代理性的 |
+| 基础 | sputter | v. 运转不畅、噼啪作响 |
+| 基础 | officialdom | n. 官场、官僚作风 |
+| 基础 | slop | n. 垃圾内容（AI新词） |
+| 基础 | panoply | n. 全套、整套装备 |
+| 基础 | ombudsman | n. 监察专员 |
+| 基础 | maladministration | n. 行政失当 |
+| 基础 | Byzantine | adj. 复杂难懂的、拜占庭式的 |
+| 基础 | onerous | adj. 繁重的 |
+| 基础 | doom-loop | n. 恶性循环 |
+| 基础 | petition | v./n. 请愿、申诉 |
+| 基础 | recast | v. 重铸 |
 
 ## 长难句专项
 

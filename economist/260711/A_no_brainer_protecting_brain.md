@@ -537,98 +537,84 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `as feared as` | 像……一样令人恐惧 | as feared as | *Few things are as feared as this.* |
-| `insidious` | 隐蔽的、暗中侵蚀的 | an insidious disease | *An insidious threat.* |
-| `strips ... of` | 剥夺 | strip A of B | *Stripped him of his power.* |
-| `sense of self` | 自我意识 | lose one's sense of self | *Dementia erases the sense of self.* |
-| `a butt of jokes` | 笑柄 | the butt of the joke | *He became the butt of jokes.* |
-| `unwinding` | 瓦解、散架 | unwind | *The mind begins unwinding.* |
-| `dreaded` | 令人恐惧的 | a dreaded disease | *The dreaded deadline.* |
-| `fan ... fears` | 煽动恐惧 | fan the flames | *Fanned public fears.* |
-| `triple` | 增至三倍 | triple to | *The number tripled.* |
-| `In truth` | 事实上 | in truth | *In truth, it's better than feared.* |
-| `if adjusted for age` | 若按年龄调整 | adjust for | *Adjusted for inflation.* |
-| `reverse` | 逆转 | reverse a trend | *The trend has reversed.* |
-| `A mountain of` | 堆积如山的 | a mountain of evidence | *A mountain of paperwork.* |
-| `stick to` | 坚持 | stick to a habit | *Stick to the plan.* |
-| `working out` | 锻炼 | work out | *Working out daily.* |
-| `boozing` | 喝酒 | booze | *Cutting back on boozing.* |
-| `toil, tears or sweat` | 辛劳泪汗 | blood, toil, tears and sweat | *No toil, tears or sweat.* |
-| `mentally sharp` | 头脑敏锐 | stay sharp | *Keeping mentally sharp.* |
-| `a course of` | 一个疗程 | a course of antibiotics | *A full course of the vaccine.* |
-| `shingles` | 带状疱疹 | the shingles vaccine | *Shingles causes a painful rash.* |
-| `reduce ... by` | 降低（比例） | reduce by a fifth | *Reduced costs by 20%.* |
-| `intervention` | 干预 | a simple intervention | *Early intervention helps.* |
-| `is still being debated` | 仍在争论 | be debated | *The cause is being debated.* |
-| `contributes to` | 促成 | contribute to | *Smoking contributes to cancer.* |
-| `inflammation` | 炎症 | chronic inflammation | *Inflammation of the nerves.* |
-| `supposedly dormant` | 据称潜伏 | a dormant virus | *A supposedly dormant infection.* |
-| `fail to offer` | 未能提供 | fail to provide | *The system fails to deliver.* |
-| `cost-effective` | 符合成本效益 | a cost-effective solution | *Cost-effective care.* |
-| `rationed` | 限量配给 | ration supplies | *Rationed the vaccine.* |
-| `upfront costs` | 前期成本 | upfront payment | *Low upfront costs.* |
-| `eligibility age` | 资格年龄 | eligibility criteria | *Raise the eligibility age.* |
-| `makes little sense` | 说不过去 | make sense | *That makes little sense.* |
-| `efficacy` | 疗效 | the efficacy of | *Vaccine efficacy.* |
-| `afflicts` | 折磨 | afflict millions | *The disease afflicts the elderly.* |
-| `given` | 考虑到 | given that | *Given the evidence, we act.* |
-| `relates to` | 与……相关 | relate to | *The data relate to older cases.* |
-| `a sprinkling of` | 少量 | a sprinkling of | *A sprinkling of protein.* |
-| `jab` | 一针（注射） | the flu jab | *Got the jab.* |
-| `at least as ... as` | 至少不弱于 | at least as good as | *At least as effective as before.* |
-| `randomised trials` | 随机试验 | a randomised trial | *Randomised trials provide evidence.* |
-| `boosters` | 加强针 | a booster dose | *Need a booster.* |
-| `In the meantime` | 与此同时 | in the meantime | *In the meantime, we wait.* |
-| `a bargain` | 划算的买卖 | a real bargain | *At that price it's a bargain.* |
-| `long-term care` | 长期护理 | long-term care costs | *Long-term care insurance.* |
-| `As for individuals` | 对个人而言 | as for | *As for individuals, it's cheap.* |
-| `reduce by one-fifth` | 降低五分之一 | reduce by a fifth | *Cut the risk by a fifth.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `dementia` | 痴呆症 | as feared as dementia |
-| `Alzheimer's` | 阿尔茨海默症 | the most common cause |
-| `epidemiologists` | 流行病学家 | epidemiologists in the field |
-| `suffering from` | 患有 | suffering from dementia |
-| `lifestyle changes` | 生活方式改变 | lifestyle changes |
-| `hearing loss` | 听力损失 | treating hearing loss |
-| `depression` | 抑郁症 | treating depression |
-| `high blood pressure` | 高血压 | high blood pressure |
-| `high cholesterol` | 高胆固醇 | high cholesterol |
-| `staying active` | 保持活跃 | keeping your brain active |
-| `immune system` | 免疫系统 | the immune system |
-| `vaccine` | 疫苗 | the shingles vaccine |
-| `public-health systems` | 公共卫生体系 | public-health systems |
-| `upfront` | 先期的 | upfront costs |
-| `the over-65s` | 65 岁以上者 | reserve it for the over-65s |
-| `unvaccinated` | 未接种的 | unvaccinated people |
-| `infection` | 感染 | cannot cause an infection |
-| `proteins` | 蛋白质 | a sprinkling of proteins |
-| `retail cost` | 零售价 | the retail cost |
-| `federal immunisation` | 联邦免疫 | federal immunisation programmes |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `hunt the slipper` | 找拖鞋（游戏） | playing hunt the slipper |
-| `Sir Terry Pratchett` | 特里·普拉切特爵士 | the late Sir Terry Pratchett |
-| `varicella-zoster virus` | 水痘-带状疱疹病毒 | the varicella-zoster virus |
-| `chickenpox` | 水痘 | causes both shingles and chickenpox |
-| `B-cells` | B 细胞 | kick up its B-cells |
-| `Shingrix` | 欣适利（带状疱疹疫苗） | the new one, Shingrix |
-| `two-dose` | 两剂 | a full two-dose course |
-| `NHS`（隐含） | 英国国民医疗体系 | Britain's health service |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | as feared as | 像……一样令人恐惧 |
+| 基础 | insidious | 隐蔽的、暗中侵蚀的 |
+| 基础 | strips ... of | 剥夺 |
+| 基础 | sense of self | 自我意识 |
+| 基础 | a butt of jokes | 笑柄 |
+| 基础 | unwinding | 瓦解、散架 |
+| 基础 | dreaded | 令人恐惧的 |
+| 基础 | fan ... fears | 煽动恐惧 |
+| 基础 | triple | 增至三倍 |
+| 基础 | In truth | 事实上 |
+| 基础 | if adjusted for age | 若按年龄调整 |
+| 基础 | reverse | 逆转 |
+| 基础 | A mountain of | 堆积如山的 |
+| 基础 | stick to | 坚持 |
+| 基础 | working out | 锻炼 |
+| 基础 | boozing | 喝酒 |
+| 基础 | toil, tears or sweat | 辛劳泪汗 |
+| 基础 | mentally sharp | 头脑敏锐 |
+| 基础 | a course of | 一个疗程 |
+| 基础 | shingles | 带状疱疹 |
+| 基础 | reduce ... by | 降低（比例） |
+| 基础 | intervention | 干预 |
+| 基础 | is still being debated | 仍在争论 |
+| 基础 | contributes to | 促成 |
+| 基础 | inflammation | 炎症 |
+| 基础 | supposedly dormant | 据称潜伏 |
+| 基础 | fail to offer | 未能提供 |
+| 基础 | cost-effective | 符合成本效益 |
+| 基础 | rationed | 限量配给 |
+| 基础 | upfront costs | 前期成本 |
+| 基础 | eligibility age | 资格年龄 |
+| 基础 | makes little sense | 说不过去 |
+| 基础 | efficacy | 疗效 |
+| 基础 | afflicts | 折磨 |
+| 基础 | given | 考虑到 |
+| 基础 | relates to | 与……相关 |
+| 基础 | a sprinkling of | 少量 |
+| 基础 | jab | 一针（注射） |
+| 基础 | at least as ... as | 至少不弱于 |
+| 基础 | randomised trials | 随机试验 |
+| 基础 | boosters | 加强针 |
+| 基础 | In the meantime | 与此同时 |
+| 基础 | a bargain | 划算的买卖 |
+| 基础 | long-term care | 长期护理 |
+| 基础 | As for individuals | 对个人而言 |
+| 基础 | reduce by one-fifth | 降低五分之一 |
+| 进阶 | dementia | 痴呆症 |
+| 进阶 | Alzheimer's | 阿尔茨海默症 |
+| 进阶 | epidemiologists | 流行病学家 |
+| 进阶 | suffering from | 患有 |
+| 进阶 | lifestyle changes | 生活方式改变 |
+| 进阶 | hearing loss | 听力损失 |
+| 进阶 | depression | 抑郁症 |
+| 进阶 | high blood pressure | 高血压 |
+| 进阶 | high cholesterol | 高胆固醇 |
+| 进阶 | staying active | 保持活跃 |
+| 进阶 | immune system | 免疫系统 |
+| 进阶 | vaccine | 疫苗 |
+| 进阶 | public-health systems | 公共卫生体系 |
+| 进阶 | upfront | 先期的 |
+| 进阶 | the over-65s | 65 岁以上者 |
+| 进阶 | unvaccinated | 未接种的 |
+| 进阶 | infection | 感染 |
+| 进阶 | proteins | 蛋白质 |
+| 进阶 | retail cost | 零售价 |
+| 进阶 | federal immunisation | 联邦免疫 |
+| 高级 | hunt the slipper | 找拖鞋（游戏） |
+| 高级 | Sir Terry Pratchett | 特里·普拉切特爵士 |
+| 高级 | varicella-zoster virus | 水痘-带状疱疹病毒 |
+| 高级 | chickenpox | 水痘 |
+| 高级 | B-cells | B 细胞 |
+| 高级 | Shingrix | 欣适利（带状疱疹疫苗） |
+| 高级 | two-dose | 两剂 |
+| 高级 | NHS（隐含） | 英国国民医疗体系 |
 
 ## 长难句专项
 
@@ -695,81 +681,3 @@
 ---
 
 ## 精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-insidious、strips ... of、sense of self、dreaded、fan fears、triple、In truth、reverse、A mountain of、stick to、toil tears or sweat、mentally sharp、a course of、shingles、reduce ... by、intervention、contributes to、inflammation、dormant、cost-effective、rationed、upfront costs、eligibility age、makes little sense、efficacy、afflicts、given、relates to、a sprinkling of、jab、randomised trials、boosters、In the meantime、a bargain、long-term care、As for、reduce by one-fifth
-
-### 2. 本文核心表达
-
-1. `FEW CONDITIONS are as feared as ...` — 否定极级"最可怕"
-2. `strips people of their sense of self` — 剥夺自我
-3. `leaves those who love them caring for a stranger` — 至亲变陌生人
-4. `playing hunt the slipper by myself, and losing` — 游戏隐喻（痴呆的荒谬悲凉）
-5. `with the world receding from me in every direction` — 世界退去（首尾呼应）
-6. `seem only to fan those fears` — 煽风点火
-7. `In truth, the outlook is cheerier than that` — 事实反转
-8. `if adjusted for age` — 按年龄调整（方法）
-9. `A mountain of new evidence shows that need not be` — 证据反驳
-10. `the changes you already know you should be making` — 明知该做的
-11. `no toil, tears or sweat` — 不费辛劳泪汗（化用丘吉尔）
-12. `gives the immune system a firm kick` — 踢一脚（激活）
-13. `taking into account only ... it would be cost-effective` — 保守估算仍划算
-14. `rationed the vaccine to keep down upfront costs` — 限供省前期成本
-15. `makes little sense / makes even less sense` — 递进的反问
-16. `a weapon in the fight against dementia` — 战争隐喻
-17. `at least as powerful as the old one` — 不逊于旧疫苗
-18. `a bargain, given the potential savings` — 划算买卖
-19. `a small price to reduce by one-fifth the chances` — 首尾呼应收尾
-
-### 3. 重要语法
-
-- **否定极级**：`FEW CONDITIONS are as feared as dementia`
-- **独立主格**：`with the world receding from me`
-- **倒装引述**：`wrote the late Sir Terry Pratchett`
-- **省略条件句**：`if adjusted for age`（= if it is adjusted）
-- **形式主语**：`It does not help that ...`
-- **双宾语**：`costs Britain's health service £320 ... and federal programmes around $270`
-- **表语从句嵌套**：`One theory is that ... which ... even while ...`
-- **被动进行时**：`is still being debated`
-- **虚拟语气表保守**：`it would be cost-effective` / `it would make sense`
-- **分词状语**：`taking into account only ...` / `activating it against other bugs`
-- **引语 + 破折号/冒号**：冒号后同位语总结（a bargain）
-
-### 4. 长难句
-
-- 原句 2（since 原因从句 + 双谓语）
-- 原句 3（引语 + 并列谓语 + 多重同位语）
-- 原句 8（where 定语从句 + 省略条件句）
-- 原句 15（It does not help that + before 从句）
-- 原句 20（that 表语从句 + which 定语从句 + while 从句）
-- 原句 34（双宾语 + 冒号同位语）
-
-### 5. 写作技巧
-
-1. **标题双关**：`no-brainer`（不费脑的决定）双关"大脑"（protecting your brain）——一个标题同时给出结论（该打）与主题（大脑），是《经济学人》式的机敏
-2. **首尾呼应的情感线**：开篇普拉切特"the world receding from me in every direction"（世界退去）→ 结尾"a small price to reduce ... the chances of having the world recede in every direction"——用患者的原话作全篇的情感锚点，让"打疫苗"这个理性建议带上温度
-3. **先恐惧后安抚**：前三段全力渲染痴呆的恐怖（普拉切特引语、三倍预测）→ 第四段 `Yet` 转向"捷径"（疫苗）——先立靶子（恐惧）再解（事实+疫苗），符合"问题→解决"的社论结构
-4. **数据分层说服**：20% 降险（核心）、55 岁起（建议年龄）、20-30% 带状疱疹发病率、£320/$270/£460（成本）、0.005% GDP（前文）——每层数据服务一个论证环节
-5. **"仅算保守账"的技巧**：`taking into account only the shingles cases prevented, it would be cost-effective` —— 故意只算最小收益（不算痴呆）也划算，这种"保守论证"让结论无懈可击
-6. **经典修辞的化用**：`toil, tears or sweat` 改造丘吉尔"blood, toil, tears and sweat"——用读者熟悉的经典名言变形制造反差（大事业要血泪汗，这个不用）
-7. **拟人化幽默**：`before your brain will thank you`（大脑会感谢你）、`gives the immune system a firm kick up its B-cells`（踢 B 细胞一脚）——把抽象机制说得鲜活，保持科普可读性
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `FEW ... are as ... as` | 强调顶级 | Few changes are as visible as this. |
-| `strips A of B` | 描述剥夺 | The crisis stripped the firm of cash. |
-| `fan ... fears` | 批评煽动 | The headline fanned public fears. |
-| `In truth` | 事实反转 | In truth, the outlook is better. |
-| `adjust for` | 方法论 | Adjust for inflation when comparing. |
-| `A mountain of` | 强调大量 | A mountain of evidence supports this. |
-| `stick to` | 坚持 | Stick to the agreed plan. |
-| `contributes to` | 因果分析 | Poor sleep contributes to burnout. |
-| `cost-effective` | 性价比评价 | The scheme is cost-effective. |
-| `given` | 论证前提 | Given the risks, we must act. |
-| `makes (little) sense` | 合理性评价 | That makes little sense. |
-| `a bargain` | 性价比 | At this price, it's a bargain. |
-| `reduce by a fifth` | 量化变化 | Costs fell by a fifth. |
-| `In the meantime` | 过渡 | In the meantime, we proceed. |

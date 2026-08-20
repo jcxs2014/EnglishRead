@@ -586,82 +586,79 @@
 
 **段落逻辑：** 定性（英国从宽容堡垒变审查成性）→ 金句（职责是护人免受暴力而非屏蔽话语）→ 滑坡一（禁言造成"认可被放行者"印象）→ 滑坡二（鼓励派系游说禁令）→ 收束（英国将更不自由）。第 8 段以"金句 + 滑坡推演 + 短句收尾"完成全文价值总结。---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `banned for` | 因……被禁 | ban sb for | *Banned for speaking out.* |
-| `has some merit` | 有一定道理 | have merit | *The argument has merit.* |
-| `controversial` | 有争议的 | a controversial figure | *A controversial figure.* |
-| `left-wing influencers` | 左翼网红 | political influencer | *Political influencers.* |
-| `blocked ... from entering` | 被阻止做 | block sb from doing | *Blocked from entering the country.* |
-| `shabby behaviour` | 卑鄙的行为 | shabby | *Shabby treatment.* |
-| `sees itself as` | 把自己视为 | see oneself as | *Sees itself as a leader.* |
-| `the birthplace of free speech` | 言论自由的发源地 | birthplace | *The birthplace of democracy.* |
-| `a cultural norm` | 一种文化规范 | a social norm | *A deeply held norm.* |
-| `is eroded` | 被侵蚀 | erode | *Norms are eroded.* |
-| `turned away at the border` | 在边境被拒 | turn away | *Turned away at the border.* |
-| `the home secretary` | 内政大臣 | home secretary | *The British home secretary.* |
-| `judged that` | 判定 | judge | *Judged that it was unsafe.* |
-| `conducive to` | 有利于 | be conducive to | *Conducive to the public good.* |
-| `extraordinarily vague` | 极其含糊的 | vague | *An extraordinarily vague term.* |
-| `high-profile foreigners` | 高知名度的外国人 | high-profile | *A high-profile figure.* |
-| `unhinged` | 精神失常的 | unhinged | *Unhinged ramblings.* |
-| `ramblings` | 胡言乱语 | rambling | *Nazi ramblings.* |
-| `was cited as justification` | 被引为理由 | cite as | *Cited as justification.* |
-| `far-righters` | 极右翼分子 | far-right | *Far-right activists.* |
-| `a rabble-rouser` | 煽动者 | rabble-rouser | *A racist rabble-rouser.* |
-| `worryingly aggressive` | 令人担忧地激进 | worringly | *A worryingly aggressive move.* |
-| `discretionary power` | 自由裁量权 | discretionary | *Discretionary powers.* |
-| `afforded to` | 被赋予 | afford | *Powers afforded to the minister.* |
-| `sparingly` | 克制地 | use sparingly | *Wield power sparingly.* |
-| `incitement to violence` | 暴力煽动 | incitement | *Incitement to hatred.* |
-| `a history of such behaviour` | 此类行为史 | a history of | *A history of violence.* |
-| `hurtful, disturbing or disgusting` | 伤人/不安/令人作呕 | disturbing | *Hurtful comments.* |
-| `the furore over` | 关于……的激烈争议 | furore | *A public furore.* |
-| `do not meet that threshold` | 达不到门槛 | meet a threshold | *Meet the threshold.* |
-| `offensive` | 冒犯的 | offensive views | *Offensive opinions.* |
-| `simply bonkers` | 干脆是疯狂的 | bonkers | *An utterly bonkers idea.* |
-| `once opined` | 曾发表看法 | opine | *Opined that.* |
-| `pose a threat to` | 对……构成威胁 | pose a threat | *Pose a threat to security.* |
-| `any more than ... do` | 并不比……更 | any more than | *No more than the others do.* |
-| `gave sanctuary to` | 为……提供庇护 | give sanctuary | *Give sanctuary to refugees.* |
-| `social-media disciples` | 社交媒体的信徒 | disciple | *Online disciples.* |
-| `the likes of` | 像……这样的人 | the likes of | *The likes of Mr West.* |
-| `stop ... from hearing` | 阻止……听到 | stop from | *Stop them from listening.* |
-| `tune into` | 收看、关注 | tune in | *Tune into the show.* |
-| `suppress their speech` | 压制言论 | suppress | *Suppress free speech.* |
-| `makes it more likely that` | 使……更可能 | make it likely | *Make it more likely that.* |
-| `seek them out` | 主动去找 | seek out | *Seek out the truth.* |
-| `provocateurs` | 挑衅者 | provocateur | *Political provocateurs.* |
-| `make their living from clicks` | 靠点击量谋生 | clicks | *Making a living from clicks.* |
-| `keep out` | 挡在外面 | keep out | *Keep out unwanted visitors.* |
-| `whom its government dislikes` | 政府不喜欢的 | whom | *Whom the regime dislikes.* |
-| `no excuse` | 不是借口 | excuse | *Ignorance is no excuse.* |
-| `press ... to` | 敦促、施压做 | press | *Press the government to act.* |
-| `so casually` | 如此随意 | casually | *Wield power casually.* |
-| `blunt the tools` | 削弱工具 | blunt | *Blunt the power.* |
-| `the rich and powerful` | 富人和权贵 | the powerful | *The rich and powerful.* |
-| `intimidate or silence` | 恐吓或使噤声 | intimidate | *Intimidate critics.* |
-| `ruinous costs` | 毁灭性成本 | ruinous | *Ruinous legal costs.* |
-| `an egregious example` | 极端恶劣的例子 | egregious | *An egregious case.* |
-| `turned whistleblower` | 变成举报人 | turned | *A manager turned whistleblower.* |
-| `gagged by` | 被堵住嘴 | gag | *Gagged by an NDA.* |
-| `a global non-disclosure agreement` | 全球保密协议 | NDA | *A sweeping NDA.* |
-| `under siege` | 遭受围攻 | under siege | *Press freedom under siege.* |
-| `it is shameful that` | 令人羞耻的是 | shameful | *It is shameful that.* |
-| `once a bastion of tolerance` | 曾经的宽容堡垒 | bastion | *A bastion of democracy.* |
-| `vigorous debate` | 激烈的辩论 | vigorous | *A vigorous public debate.* |
-| `censorious` | 动辄审查的 | censorious | *A censorious regime.* |
-| `keep people safe from` | 保护免受 | keep safe | *Keep the public safe.* |
-| `shield them from` | 使他们免受 | shield | *Shield children from.* |
-| `makes a habit of` | 养成……习惯 | make a habit of | *Make a habit of banning.* |
-| `create the impression that` | 造成印象 | impression | *Create the impression.* |
-| `endorses the views` | 认可观点 | endorse | *Endorse the views.* |
-| `lobby for bans` | 游说要求禁令 | lobby | *Lobby for a ban.* |
-| `make Britain less free` | 使英国更不自由 | less free | *A less free society.* |---
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | banned for | 因……被禁 |
+| 基础 | has some merit | 有一定道理 |
+| 基础 | controversial | 有争议的 |
+| 基础 | left-wing influencers | 左翼网红 |
+| 基础 | blocked ... from entering | 被阻止做 |
+| 基础 | shabby behaviour | 卑鄙的行为 |
+| 基础 | sees itself as | 把自己视为 |
+| 基础 | the birthplace of free speech | 言论自由的发源地 |
+| 基础 | a cultural norm | 一种文化规范 |
+| 基础 | is eroded | 被侵蚀 |
+| 基础 | turned away at the border | 在边境被拒 |
+| 基础 | the home secretary | 内政大臣 |
+| 基础 | judged that | 判定 |
+| 基础 | conducive to | 有利于 |
+| 基础 | extraordinarily vague | 极其含糊的 |
+| 基础 | high-profile foreigners | 高知名度的外国人 |
+| 基础 | unhinged | 精神失常的 |
+| 基础 | ramblings | 胡言乱语 |
+| 基础 | was cited as justification | 被引为理由 |
+| 基础 | far-righters | 极右翼分子 |
+| 基础 | a rabble-rouser | 煽动者 |
+| 基础 | worryingly aggressive | 令人担忧地激进 |
+| 基础 | discretionary power | 自由裁量权 |
+| 基础 | afforded to | 被赋予 |
+| 基础 | sparingly | 克制地 |
+| 基础 | incitement to violence | 暴力煽动 |
+| 基础 | a history of such behaviour | 此类行为史 |
+| 基础 | hurtful, disturbing or disgusting | 伤人/不安/令人作呕 |
+| 基础 | the furore over | 关于……的激烈争议 |
+| 基础 | do not meet that threshold | 达不到门槛 |
+| 基础 | offensive | 冒犯的 |
+| 基础 | simply bonkers | 干脆是疯狂的 |
+| 基础 | once opined | 曾发表看法 |
+| 基础 | pose a threat to | 对……构成威胁 |
+| 基础 | any more than ... do | 并不比……更 |
+| 基础 | gave sanctuary to | 为……提供庇护 |
+| 基础 | social-media disciples | 社交媒体的信徒 |
+| 基础 | the likes of | 像……这样的人 |
+| 基础 | stop ... from hearing | 阻止……听到 |
+| 基础 | tune into | 收看、关注 |
+| 基础 | suppress their speech | 压制言论 |
+| 基础 | makes it more likely that | 使……更可能 |
+| 基础 | seek them out | 主动去找 |
+| 基础 | provocateurs | 挑衅者 |
+| 基础 | make their living from clicks | 靠点击量谋生 |
+| 基础 | keep out | 挡在外面 |
+| 基础 | whom its government dislikes | 政府不喜欢的 |
+| 基础 | no excuse | 不是借口 |
+| 基础 | press ... to | 敦促、施压做 |
+| 基础 | so casually | 如此随意 |
+| 基础 | blunt the tools | 削弱工具 |
+| 基础 | the rich and powerful | 富人和权贵 |
+| 基础 | intimidate or silence | 恐吓或使噤声 |
+| 基础 | ruinous costs | 毁灭性成本 |
+| 基础 | an egregious example | 极端恶劣的例子 |
+| 基础 | turned whistleblower | 变成举报人 |
+| 基础 | gagged by | 被堵住嘴 |
+| 基础 | a global non-disclosure agreement | 全球保密协议 |
+| 基础 | under siege | 遭受围攻 |
+| 基础 | it is shameful that | 令人羞耻的是 |
+| 基础 | once a bastion of tolerance | 曾经的宽容堡垒 |
+| 基础 | vigorous debate | 激烈的辩论 |
+| 基础 | censorious | 动辄审查的 |
+| 基础 | keep people safe from | 保护免受 |
+| 基础 | shield them from | 使他们免受 |
+| 基础 | makes a habit of | 养成……习惯 |
+| 基础 | create the impression that | 造成印象 |
+| 基础 | endorses the views | 认可观点 |
+| 基础 | lobby for bans | 游说要求禁令 |
 
 ## 四、长难句专项
 
@@ -748,83 +745,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-banned for、has some merit、controversial、left-wing influencers、blocked from entering、shabby behaviour、sees itself as、the birthplace of free speech、a cultural norm、is eroded、turned away at the border、the home secretary、judged that、conducive to、extraordinarily vague、high-profile foreigners、unhinged、ramblings、was cited as justification、far-righters、a rabble-rouser、discretionary power、afforded to、sparingly、incitement to violence、the furore over、meet that threshold、offensive、bonkers、pose a threat to、any more than、gave sanctuary to、social-media disciples、the likes of、tune into、suppress their speech、seek them out、provocateurs、no excuse、press ... to、blunt the tools、the rich and powerful、ruinous costs、an egregious example、gagged by、under siege、it is shameful that、a bastion of tolerance、vigorous debate、censorious、keep people safe from、shield them from、makes a habit of、endorses the views、lobby for bans
-
-### 2. 本文核心表达
-
-1. `The country ... should not be frightened of his modern social-media disciples` — 曾庇护马克思的国家不应害怕其现代社交媒体信徒
-2. `Direct and deliberate incitement to violence is unlawful; it may well be right to exclude someone with a history of such behaviour` — 直接蓄意的暴力煽动才是非法；拒有暴力史者或属正确
-3. `Hurtful, disturbing or disgusting views ... do not meet that threshold` — 伤人/令人不安/作呕的观点达不到那个门槛
-4. `does not pose a threat to Britain, any more than the protesters arrested just for holding signs ... do` — 他不构成威胁，正如仅因举牌被捕的抗议者不构成威胁
-5. `the attempt to suppress their speech makes it more likely that Britons will seek them out` — 压制言论反而让英国人更去搜他们（史翠珊效应）
-6. `Parliament should press the government to stop using its powers so casually` — 议会应敦促政府停止如此随意地使用权力
-7. `The government's job is to keep people safe from actual violence, not to try to shield them from words that might upset them` — 政府职责是护人免受实际暴力，而非屏蔽让他们不高兴的话（核心金句）
-8. `If it makes a habit of banning visiting speakers, it will create the impression that it endorses the views of the people it does let in` — 若养成禁言习惯，会给人"认可被放行者"的印象（滑坡）
-9. `It will encourage more and more activists to lobby for bans on foreigners whose ideas they disagree with` — 将鼓励越来越多活动家游说禁令（滑坡二）
-10. `And it will make Britain less free` — 这将使英国变得更不自由（收束）
-
-### 3. 重要语法
-
-- **直接引语开头**：`"I've been banned for criticising Israel. Are we free any more?"`
-- **That 主语从句 + 分号递进**：`That people should be able to ...
-  is not just a right for citizens; it is a cultural norm ...`
-- **破折号插入同位语**：`Kanye West—a rapper with ...—from performing`
-- **any more than 对比否定**：`does not pose a threat ... any more than ... do`
-- **形式宾语 it + that 从句**：`makes it more likely that Britons will seek them out`
-- **Nor 部分倒装**：`Nor will visa bans ... stop Britons from hearing`
-- **with 复合结构**：`With free speech under siege`
-- **it is shameful that + should**：`it is shameful that Britain ... should be so censorious`
-- **对比不定式（金句）**：`is to keep people safe ... , not to try to shield them ...`
-- **if 条件 + 同位语从句**：`create the impression that it endorses ...`
-
-### 4. 长难句
-
-- 原句 5：That 主语从句 + 分号递进
-- 原句 6：because 原因从句 + 法规引语
-- 原句 8：破折号插入 + which 从句
-- 原句 16：any more than 对比否定
-- 原句 20：形式宾语 it + that 从句
-- 原句 22：As 介词短语 + who 从句
-- 原句 27：超长 when 从句（同位语 + 分词堆叠）
-- 原句 29：对比不定式金句
-
-### 5. 写作技巧
-
-1. **当事人之声开头**：`"I've been banned for criticising Israel. Are we free any more?"`——以当事人原话（引语）开场，先让"受难者"发出声音，再进入议题，直击读者的情绪与好奇
-2. **让步建立公信力**：`Mr Piker has many opinions that reasonable people find offensive or simply bonkers`——先承认观点糟糕（offensive or bonkers），再论证"即使糟糕也不该禁"——"不退让的诚实"让论证更有力
-3. **证据清单式呈现**：`He thinks bank robberies are "cool"; says ...; and once opined: "..."`——不辩护，先把 Piker 的极端言论坐实（三连动词 + 直接引语），让"该不该禁"的讨论站在事实基础上
-4. **any more than 等量对照**：`not pose a threat ... any more than the protesters arrested just for holding signs`——把网红与"举牌抗议者"等量并置，揭示"被罚的都是观点而非危害"
-5. **历史反讽升华**：`The country that once gave sanctuary to Karl Marx should not be frightened of his modern social-media disciples`——用"收留马克思"的祖训反讽"害怕网红"的现实，一句话把个案升华为价值观
-6. **效果论证（史翠珊效应）**：`the attempt to suppress their speech makes it more likely that Britons will seek them out` + 硬数据（Google searches higher than ever）——用"越禁越火 + 搜索量数据"让禁令的无效性无可辩驳
-7. **法律语言批判**：`extraordinarily vague standard` / `discretionary power` / `meet that threshold`——用"含糊标准、裁量权、门槛"等法律术语拆解权力，把道德批判穿上"制度分析"的外衣
-8. **核心金句结构**：`The government's job is to keep people safe from actual violence, not to try to shield them from words that might upset them`——"是 A 而非 B"的对比不定式 + "actual（实害）vs might upset（可能难过的情绪）"的轻重对照，一句界定国家权力边界
-9. **BlancokeOrGag 滑坡论证**：`If it makes a habit of banning ... create the impression ... / encourage more and more activists to lobby / make Britain less free`——三次"如果→那么"推演后果：误导公众、助长排异、终致不自由——层层加码
-10. **标题谐音与图像呼应**：标题"Gag reflex"（堵嘴反射）与配图（嘴被国旗红十字封住）呼应正文 gagged（堵嘴）、Muzzled Britannia（消音的英国）——视觉与文字统一在"禁言"主题
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `has some merit` | 有道理 | The argument has merit. |
-| `blocked from doing` | 被阻止做 | Blocked from entering. |
-| `sees itself as` | 把自己视为 | Sees itself as a leader. |
-| `turn away at the border` | 边境拒绝 | Turned away at the border. |
-| `be conducive to` | 有利于 | Conducive to the public good. |
-| `meet a threshold` | 达到门槛 | Do not meet the threshold. |
-| `pose a threat to` | 构成威胁 | Pose a threat to security. |
-| `any more than ... do` | 并不比……更 | No more than the others do. |
-| `the likes of` | 像……之类的 | The likes of Mr West. |
-| `tune into` | 关注、收看 | Tune into the show. |
-| `seek out` | 主动找 | Seek out the truth. |
-| `no excuse` | 不是借口 | Ignorance is no excuse. |
-| `press ... to do` | 敦促 | Press the government to act. |
-| `blunt the tools` | 削弱手段 | Blunt the power. |
-| `under siege` | 遭受围攻 | Press freedom under siege. |
-| `a bastion of` | ……的堡垒 | A bastion of democracy. |
-| `keep sb safe from` | 保护免受 | Keep the public safe. |
-| `shield sb from` | 使其免受 | Shield children from. |
-| `make a habit of` | 养成习惯 | Make a habit of banning. |
-| `lobby for` | 游说促成 | Lobby for a ban. |

@@ -639,126 +639,112 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `lunchtime crush` | 午市人潮 | the crush | *The lunchtime crush.* |
-| `dim-sum` | 点心 | dim-sum restaurant | *A dim-sum restaurant.* |
-| `queuing for tables` | 排队等位 | queue for | *Customers queuing for tables.* |
-| `is back` | 回来了 | be back | *The crush is back.* |
-| `real but incomplete` | 真实但不完整 | real but | *A recovery that is real but incomplete.* |
-| `it helps to` | ……有帮助 | it helps to | *It helps to start with.* |
-| `in one sense` | 从某种意义上 | in one sense | *In one sense at least.* |
-| `rebounded from its lows` | 从低点反弹 | rebound from | *Rebounded from its lows.* |
-| `prime areas` | 黄金地段 | prime | *Prime areas.* |
-| `stuffed with deposits` | 塞满存款 | stuffed with | *Banks stuffed with deposits.* |
-| `deposits` | 存款 | deposits | *Deposits.* |
-| `invested back into` | 重新投资进 | invest back | *Invested back into the city.* |
-| `there are limits` | 存在限制 | there are limits | *There are limits.* |
-| `not a number but a feeling` | 不是数字而是感觉 | not...but | *Not a number but a feeling.* |
-| `by most economic measures` | 按大多数经济指标 | by measures | *By most measures.* |
-| `recovered further than` | 恢复得比……更远 | recover further | *Recovered further than.* |
-| `the gap between` | ……之间的差距 | the gap between | *The gap between what the money says.* |
-| `what the money says` | 金钱所说的 | what ... says | *What the money says.* |
-| `hard to ignore` | 难以忽视 | hard to ignore | *Hard to ignore.* |
-| `the two halves` | 两半 | two halves | *The two halves of the story.* |
-| `do not add up` | 加不到一起 | add up | *Do not add up.* |
-| `the most obvious sign` | 最明显的标志 | obvious sign | *The most obvious sign.* |
-| `tens of thousands of` | 数万 | tens of thousands | *Tens of thousands of people.* |
-| `middle-class` | 中产阶层 | middle-class | *Middle-class Hong Kongers.* |
-| `the security law` | 国安法 | security law | *The security law.* |
-| `that followed` | 随后的 | that followed | *The law that followed.* |
-| `some ... many more` | 一些……更多 | many more | *Some have returned; many more have not.* |
-| `emigrants` | 移出者 | emigrants | *The emigrants.* |
-| `financiers` | 金融家 | financiers | *Financiers.* |
-| `the very people` | 正是那些人 | the very | *The very people we need.* |
-| `needs to thrive` | 繁荣所需 | thrive | *Needs to thrive.* |
-| `shows the same pattern` | 同样模式 | the same pattern | *Shows the same pattern.* |
-| `lost ground to` | 输给 | lose ground | *Lost ground to rivals.* |
-| `rivals` | 对手 | rivals | *Regional rivals.* |
-| `IPOs` | 首次公开募股 | IPO | *Fewer IPOs.* |
-| `thinner trading volumes` | 更薄的交易量 | thin volumes | *Thinner trading volumes.* |
-| `privately admit` | 私下承认 | privately | *Privately admit.* |
-| `moved their attention` | 转移注意力 | move attention | *Moved their attention.* |
-| `remains a big financial centre` | 仍是大金融中心 | remain | *Remains a big financial centre.* |
-| `its share of` | 它的份额 | share of | *Its share of regional business.* |
-| `shrinking` | 萎缩 | shrink | *The share is shrinking.* |
-| `the main beneficiary` | 主要受益者 | beneficiary | *The main beneficiary.* |
-| `discomfort` | 不安 | discomfort | *Hong Kong's discomfort.* |
-| `absorbed a steady stream of` | 吸纳源源不断的 | absorb | *Absorbed a steady stream of.* |
-| `a steady stream of` | 源源不断的 | a steady stream | *A steady stream of people.* |
-| `a perfect substitute` | 完美替代品 | substitute | *A perfect substitute.* |
-| `on offer` | 可提供的 | on offer | *The only one on offer.* |
-| `a paradox` | 一个悖论 | paradox | *A paradox.* |
-| `came back` | 回来了 | come back | *The money that came back.* |
-| `partly replaced by` | 部分地被取代 | partly | *Partly replaced by.* |
-| `replaced by` | 被取代 | replaced by | *Replaced by new money.* |
-| `mainland China` | 中国内地 | mainland | *Money from mainland China.* |
-| `behaves differently` | 行为不同 | behave | *Money behaves differently.* |
-| `less likely to leave` | 更不可能离开 | less likely | *Less likely to leave.* |
-| `less likely to innovate` | 更不可能创新 | innovate | *Less likely to innovate.* |
-| `extends to` | 延伸到 | extend to | *Extends to ordinary life.* |
-| `feels busy` | 显得忙碌 | feel busy | *The city feels busy.* |
-| `busyness` | 忙碌感 | busyness | *The busyness is different.* |
-| `pricier` | 更贵的 | pricey | *Pricier shops.* |
-| `sober` | 清醒的、克制的 | sober | *A single word: "sober".* |
-| `hangs over` | 笼罩 | hang over | *Politics hangs over.* |
-| `the rules of the game` | 游戏规则 | rules of the game | *Changed the rules of the game.* |
-| `in ways that are still being discovered` | 以仍未被知晓的方式 | in ways that | *In ways still being discovered.* |
-| `learned to adapt` | 学会适应 | adapt | *Learned to adapt.* |
-| `has a cost` | 有代价 | has a cost | *The adaptation has a cost.* |
-| `most visible in` | 最明显体现在 | visible in | *Most visible in.* |
-| `hiring, and keeping` | 招聘并留住 | hiring | *Hiring, and keeping, talent.* |
-| `international talent` | 国际人才 | talent | *International talent.* |
-| `can still recover further` | 还能进一步恢复 | recover further | *Can still recover further.* |
-| `geographic position` | 地理位置 | geographic | *Geographic position.* |
-| `legal system` | 法律体系 | legal system | *Its legal system.* |
-| `links to the mainland` | 与内地的联系 | links to | *Links to the mainland.* |
-| `remain valuable` | 仍然有价值 | remain | *Remain valuable.* |
-| `whether ... are willing to` | 是否愿意 | willing to | *Whether its leaders are willing.* |
-| `rebuild the trust` | 重建信任 | rebuild | *Rebuild the trust.* |
-| `trust that was lost` | 已失去的信任 | trust | *The trust that was lost.* |
-| `halfway back` | 恢复一半 | halfway | *Halfway back.* |
-| `not the same as` | 与……不同 | the same as | *Not the same as back.* |
-| `what it was` | 从前的样子 | what it was | *Not what it was.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `crush` | 人潮 | the lunchtime crush |
-| `recovery` | 复苏 | a recovery |
-| `Hang Seng index` | 恒生指数 | the Hang Seng index |
-| `property prices` | 房价 | property prices |
-| `recover` | 恢复 | recovered further |
-| `stockmarket` | 股市 | Hong Kong's stockmarket |
-| `trading volumes` | 交易量 | thinner trading volumes |
-| `beneficiary` | 受益者 | the main beneficiary |
-| `fund managers` | 基金管理人 | fund managers |
-| `steam` | 流 | a steady stream of |
-| `paradox` | 悖论 | a paradox |
-| `innovate` | 创新 | less likely to innovate |
-| `banker` | 银行家 | a banker |
-| `decades` | 数十年 | for decades |
-| `national-security law` | 国家安全法 | the national-security law |
-| `trust` | 信任 | rebuild the trust |
-| `halfway` | 一半 | halfway back |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Central` | 中环 | in Central |
-| `Singapore` | 新加坡 | to Singapore |
-| `dim-sum` | 点心 | dim-sum restaurant |
-| `IPOs` | 首次公开募股 | fewer IPOs |
-| `mainland` | 内地 | mainland China |
-| `Chaguan` | 茶馆（专栏名） | Chaguan |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | lunchtime crush | 午市人潮 |
+| 基础 | dim-sum | 点心 |
+| 基础 | queuing for tables | 排队等位 |
+| 基础 | is back | 回来了 |
+| 基础 | real but incomplete | 真实但不完整 |
+| 基础 | it helps to | ……有帮助 |
+| 基础 | in one sense | 从某种意义上 |
+| 基础 | rebounded from its lows | 从低点反弹 |
+| 基础 | prime areas | 黄金地段 |
+| 基础 | stuffed with deposits | 塞满存款 |
+| 基础 | deposits | 存款 |
+| 基础 | invested back into | 重新投资进 |
+| 基础 | there are limits | 存在限制 |
+| 基础 | not a number but a feeling | 不是数字而是感觉 |
+| 基础 | by most economic measures | 按大多数经济指标 |
+| 基础 | recovered further than | 恢复得比……更远 |
+| 基础 | the gap between | ……之间的差距 |
+| 基础 | what the money says | 金钱所说的 |
+| 基础 | hard to ignore | 难以忽视 |
+| 基础 | the two halves | 两半 |
+| 基础 | do not add up | 加不到一起 |
+| 基础 | the most obvious sign | 最明显的标志 |
+| 基础 | tens of thousands of | 数万 |
+| 基础 | middle-class | 中产阶层 |
+| 基础 | the security law | 国安法 |
+| 基础 | that followed | 随后的 |
+| 基础 | some ... many more | 一些……更多 |
+| 基础 | emigrants | 移出者 |
+| 基础 | financiers | 金融家 |
+| 基础 | the very people | 正是那些人 |
+| 基础 | needs to thrive | 繁荣所需 |
+| 基础 | shows the same pattern | 同样模式 |
+| 基础 | lost ground to | 输给 |
+| 基础 | rivals | 对手 |
+| 基础 | IPOs | 首次公开募股 |
+| 基础 | thinner trading volumes | 更薄的交易量 |
+| 基础 | privately admit | 私下承认 |
+| 基础 | moved their attention | 转移注意力 |
+| 基础 | remains a big financial centre | 仍是大金融中心 |
+| 基础 | its share of | 它的份额 |
+| 基础 | shrinking | 萎缩 |
+| 基础 | the main beneficiary | 主要受益者 |
+| 基础 | discomfort | 不安 |
+| 基础 | absorbed a steady stream of | 吸纳源源不断的 |
+| 基础 | a steady stream of | 源源不断的 |
+| 基础 | a perfect substitute | 完美替代品 |
+| 基础 | on offer | 可提供的 |
+| 基础 | a paradox | 一个悖论 |
+| 基础 | came back | 回来了 |
+| 基础 | partly replaced by | 部分地被取代 |
+| 基础 | replaced by | 被取代 |
+| 基础 | mainland China | 中国内地 |
+| 基础 | behaves differently | 行为不同 |
+| 基础 | less likely to leave | 更不可能离开 |
+| 基础 | less likely to innovate | 更不可能创新 |
+| 基础 | extends to | 延伸到 |
+| 基础 | feels busy | 显得忙碌 |
+| 基础 | busyness | 忙碌感 |
+| 基础 | pricier | 更贵的 |
+| 基础 | sober | 清醒的、克制的 |
+| 基础 | hangs over | 笼罩 |
+| 基础 | the rules of the game | 游戏规则 |
+| 基础 | in ways that are still being discovered | 以仍未被知晓的方式 |
+| 基础 | learned to adapt | 学会适应 |
+| 基础 | has a cost | 有代价 |
+| 基础 | most visible in | 最明显体现在 |
+| 基础 | hiring, and keeping | 招聘并留住 |
+| 基础 | international talent | 国际人才 |
+| 基础 | can still recover further | 还能进一步恢复 |
+| 基础 | geographic position | 地理位置 |
+| 基础 | legal system | 法律体系 |
+| 基础 | links to the mainland | 与内地的联系 |
+| 基础 | remain valuable | 仍然有价值 |
+| 基础 | whether ... are willing to | 是否愿意 |
+| 基础 | rebuild the trust | 重建信任 |
+| 基础 | trust that was lost | 已失去的信任 |
+| 基础 | halfway back | 恢复一半 |
+| 基础 | not the same as | 与……不同 |
+| 基础 | what it was | 从前的样子 |
+| 进阶 | crush | 人潮 |
+| 进阶 | recovery | 复苏 |
+| 进阶 | Hang Seng index | 恒生指数 |
+| 进阶 | property prices | 房价 |
+| 进阶 | recover | 恢复 |
+| 进阶 | stockmarket | 股市 |
+| 进阶 | trading volumes | 交易量 |
+| 进阶 | beneficiary | 受益者 |
+| 进阶 | fund managers | 基金管理人 |
+| 进阶 | steam | 流 |
+| 进阶 | paradox | 悖论 |
+| 进阶 | innovate | 创新 |
+| 进阶 | banker | 银行家 |
+| 进阶 | decades | 数十年 |
+| 进阶 | national-security law | 国家安全法 |
+| 进阶 | trust | 信任 |
+| 进阶 | halfway | 一半 |
+| 高级 | Central | 中环 |
+| 高级 | Singapore | 新加坡 |
+| 高级 | dim-sum | 点心 |
+| 高级 | IPOs | 首次公开募股 |
+| 高级 | mainland | 内地 |
+| 高级 | Chaguan | 茶馆（专栏名） |
 
 ## 四、长难句专项
 
@@ -815,91 +801,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps to、in one sense、rebounded from、prime areas、stuffed with deposits、invested back into、there are limits、not a number but a feeling、by most economic measures、recovered further than、the gap between、what the money says、hard to ignore、the two halves、do not add up、the most obvious sign、tens of thousands of、middle-class、the security law、some ... many more、emigrants、financiers、the very people、needs to thrive、the same pattern、lost ground to、rivals、IPOs、thinner trading volumes、privately admit、moved their attention、remains a big financial centre、its share of、shrinking、the main beneficiary、discomfort、absorbed a steady stream of、a perfect substitute、on offer、a paradox、partly replaced by、mainland China、behaves differently、less likely to leave、less likely to innovate、extends to、feels busy、busyness、pricier、sober、hangs over、the rules of the game、in ways that are still being discovered、learned to adapt、has a cost、most visible in、hiring and keeping、international talent、can still recover further、geographic position、legal system、links to the mainland、remain valuable、whether ... are willing to、rebuild the trust、trust that was lost、halfway back、not the same as、what it was
-
-### 2. 本文核心表达
-
-1. `The lunchtime crush ... is back` — 午市人潮回来了
-2. `a recovery that is real but incomplete` — 真实但不完整的复苏
-3. `it helps to start with the money` — 先从钱说起会有帮助
-4. `The money is back, in one sense at least` — 钱回来了，至少在某种意义上
-5. `the city's banks are stuffed with deposits` — 银行塞满存款
-6. `The two halves of Hong Kong's story do not add up` — 香港故事的两半加不到一起（双关金句）
-7. `not a number but a feeling` — 不是数字而是感觉
-8. `Some have returned; many more have not` — 回来了一些；更多的没回来（省略对比）
-9. `the very people a city like Hong Kong needs to thrive` — 正是香港繁荣所需的人
-10. `lost ground to rivals` — 输给竞争对手
-11. `privately admit they have moved their attention` — 私下承认已转移重心
-12. `its share of regional business is shrinking` — 地区业务份额在萎缩
-13. `Singapore is not a perfect substitute for Hong Kong, but it is the only one on offer` — 新加坡不完美但是唯一选项
-14. `The money that has come back is not the money that left` — 回来的钱不是离开的钱（对仗金句）
-15. `less likely to leave, but also less likely to innovate` — 更不愿走，但也更不愿创新
-16. `The crowds are older, the shops are pricier, and the nights are quieter` — 人更老、店更贵、夜更静（三比较级排比）
-17. `describes the change in a single word: "sober"` — 用一个词概括："清醒"
-18. `Politics hangs over all of this` — 政治笼罩一切
-19. `in ways that are still being discovered` — 以仍未被知晓的方式
-20. `Halfway back is not the same as back` — 恢复一半不等于恢复（警句）
-21. `The queues are back, but the queueing is not what it was` — 队伍回来了，但排队已非从前（首尾回环）
-
-### 3. 重要语法
-
-- **not A but B**：`not a number but a feeling`
-- **分号并列排比**：`The Hang Seng index has rebounded...; property prices...; and the banks...`
-- **between 双 what 从句**：`between what the money says and what the city feels`
-- **破折号同位语**：`financiers—the very people...`
-- **省略 that 定语从句**：`the very people a city like Hong Kong needs to thrive`
-- **省略式对比**：`Some have returned; many more have not`
-- **双比较级对称**：`less likely to leave, but also less likely to innovate`
-- **比较级三连排比**：`older / pricier / quieter`
-- **with 独立结构**：`with customers queuing for tables`、`with fewer IPOs and thinner trading volumes`
-- **what 表语从句**：`the queueing is not what it was`
-- **被动进行时**：`in ways that are still being discovered`
-- **现在完成时**：`has rebounded`、`has been the main beneficiary`
-
-### 4. 长难句
-
-- 原句 5：分号并列三句（时态差异）
-- 原句 10：between 双 what 从句
-- 原句 15：破折号同位语 + 省略 that 定语从句
-- 原句 26：双比较级 + but 对比
-- 原句 39：首尾呼应回环 + what 表语从句
-
-### 5. 写作技巧
-
-1. **微观场景开场**：点心店排队——用一个最有香港气息的日常细节开场，代替抽象数据，让"复苏"可感
-2. **标题的哲学化**：`halfway back`（恢复一半）既是新闻判断又是哲学概念——全文围绕"一半"展开：数字一半、感受一半、钱一半、人一半
-3. **警句式句子**：`The two halves of Hong Kong's story do not add up`（两半加不到一起）——add up 的双关（数学 + 逻辑）让标题概念在文中开花
-4. **对仗修辞**：`The money that has come back is not the money that left`——两个 that 从句结构对称、方向相反，制造"警句时刻"
-5. **"一字引语"收束段落**：`"sober"`——用被访者的一句话/一个词结束一个段落，比长篇分析更有力（专栏写作常用）
-6. **首尾回环**：开头"queues are back" → 结尾"the queueing is not what it was"——回到同一个意象，加一句否定，完成"回来但不复从前"的主题闭环
-7. **辩证平衡**：每个乐观证据后紧跟一个限定（in one sense at least / even here / but / however）——专栏既不唱衰也不唱多，保持克制的中立
-8. **三要素排比**：`geographic position, legal system, links to the mainland`——用并列结构呈现香港的优势组合
-9. **经济名词的文学化**：`stuffed with deposits`（塞满存款）、`thinner trading volumes`（更薄的交易量）——专业术语加一个形象动词/形容词，兼顾专业与可读
-10. **数字与感受的对照**：全文反复用"数字（money says）vs 感受（city feels）"的二元框架——这是"halfway"的深层结构
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `is back` | 回来了 | The buzz is back. |
-| `real but incomplete` | 真实但不完整 | A real but incomplete recovery. |
-| `it helps to` | 有帮助 | It helps to ask first. |
-| `in one sense` | 在某种意义上 | In one sense, you're right. |
-| `rebound from lows` | 从低点反弹 | The market rebounded from its lows. |
-| `stuffed with` | 塞满 | The room was stuffed with boxes. |
-| `there are limits` | 有限制 | There are limits to what we can do. |
-| `not A but B` | 不是……而是 | Not a problem but an opportunity. |
-| `the gap between X and Y` | 差距 | The gap between promise and reality. |
-| `don't add up` | 说不通 | The numbers don't add up. |
-| `lose ground to` | 输给 | The brand is losing ground to rivals. |
-| `on offer` | 可供选择 | The only option on offer. |
-| `less likely to X` | 更不可能 | Less likely to leave. |
-| `hangs over` | 笼罩 | Uncertainty hangs over the deal. |
-| `rules of the game` | 游戏规则 | The crisis changed the rules of the game. |
-| `in ways that are still being discovered` | 仍在显现 | The effects are in ways still being discovered. |
-| `have a cost` | 有代价 | Every adaptation has a cost. |
-| `not the same as` | 不同于 | Being rich is not the same as being happy. |
-| `what it was` | 从前的样子 | The town is not what it was. |

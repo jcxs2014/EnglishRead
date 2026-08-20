@@ -354,56 +354,46 @@
 
 **段落逻辑：** 他国教训（无改革繁荣昙花一现）→ 别重蹈覆辙 → 评判标准（民生而非数字）→ 真正检验（时刻是否到来）。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| boom | n. | 热潮、繁荣 | 原句 1 |
-| venture capital | n. | 风险投资 | 原句 2 |
-| optimism | n. | 乐观 | 原句 3 |
-| confined to | 短语 | 局限于 | 原句 4 |
-| subsistence farmers | n. | 自给自足农民 | 原句 6 |
-| stalled | v. | 停滞 | 原句 7 |
-| stagnated | v. | 停滞（工资） | 原句 7 |
-| uneven | adj. | 不平衡的 | 原句 9 |
-| thriving | v. | 蒸蒸日上 | 原句 10 |
-| squeezed | v. | 被挤压 | 原句 10 |
-| informal sector | n. | 非正规部门 | 原句 11 |
-| dual economy | n. | 二元经济 | 原句 12 |
-| periphery | n. | 外围 | 原句 12 |
-| bottleneck | n. | 瓶颈 | 原句 13 |
-| numeracy | n. | 数理能力 | 原句 14 |
-| arithmetic | n. | 算术 | 原句 14 |
-| demographic edge | n. | 人口结构优势 | 原句 17 |
-| seize the moment | 短语 | 抓住时机 | 原句 18 |
-| bask in | 短语 | 沉浸于 | 原句 18 |
-| fizzle out | 短语 | 虎头蛇尾 | 原句 19 |
-| structural reform | n. | 结构改革 | 原句 19 |
-| headline numbers | n. | 头条数字 | 原句 21 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- a tech-and-manufacturing boom — 科技与制造热潮
-- shifting supply chains away from China — 把供应链移出中国
-- a narrow slice of the country — 国家的很小一部分
-- productivity growth has stalled — 生产率增长停滞
-- make it hard for small ones to hire — 让小企业难以招聘
-- a protected core and an unprotected periphery — 受保护的核心与不受保护的外围
-- strong numeracy and problem-solving — 强大的数理与解题能力
-- make its boom last — 让繁荣持续
-- diversifying away from China — 从中国多元化转移
-- booms without structural reform fizzle out — 无结构改革的繁荣昙花一现
-
-### ⭐ 扩展词汇（了解即可）
-
-- CDMO — 略（bio 篇已学）
-- IT — 信息技术
-- GDP — 国内生产总值
-- emerging markets — 新兴市场
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | n. | 热潮、繁荣 |
+| 基础 | n. | 风险投资 |
+| 基础 | n. | 乐观 |
+| 基础 | 短语 | 局限于 |
+| 基础 | n. | 自给自足农民 |
+| 基础 | v. | 停滞 |
+| 基础 | v. | 停滞（工资） |
+| 基础 | adj. | 不平衡的 |
+| 基础 | v. | 蒸蒸日上 |
+| 基础 | v. | 被挤压 |
+| 基础 | n. | 非正规部门 |
+| 基础 | n. | 二元经济 |
+| 基础 | n. | 外围 |
+| 基础 | n. | 瓶颈 |
+| 基础 | n. | 数理能力 |
+| 基础 | n. | 算术 |
+| 基础 | n. | 人口结构优势 |
+| 基础 | 短语 | 抓住时机 |
+| 基础 | 短语 | 沉浸于 |
+| 基础 | 短语 | 虎头蛇尾 |
+| 基础 | n. | 结构改革 |
+| 基础 | n. | 头条数字 |
+| 进阶 | a | tech-and-manufacturing boom — 科技与制造热潮 |
+| 进阶 | shifting | supply chains away from China — 把供应链移出中国 |
+| 进阶 | a | narrow slice of the country — 国家的很小一部分 |
+| 进阶 | productivity | growth has stalled — 生产率增长停滞 |
+| 进阶 | make | it hard for small ones to hire — 让小企业难以招聘 |
+| 进阶 | a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |
+| 进阶 | strong | numeracy and problem-solving — 强大的数理与解题能力 |
+| 进阶 | make | its boom last — 让繁荣持续 |
+| 进阶 | diversifying | away from China — 从中国多元化转移 |
+| 进阶 | booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |
+| 进阶 | CDMO — 略 | bio 篇已学 |
+| 进阶 | IT | — 信息技术 |
+| 进阶 | GDP | — 国内生产总值 |
+| 进阶 | emerging | markets — 新兴市场 |
 
 ## 三、长难句专项
 
@@ -475,43 +465,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"新兴市场经济发展"评述文本，词汇集中在：**经济状态**（boom, thriving, squeezed, stalled, fizzle out）；**结构概念**（dual economy, informal sector, periphery, bottleneck）；**改革话语**（structural reform, seize the moment, tackle old problems）；**量化描述**（headline numbers, record venture capital, demographic edge）。这组词是分析新兴经济体崛起与瓶颈的工具包。
-
-### 表达方式
-
-1. **"新 vs 旧"对照结构**：new economy / old problem——全文骨架。
-2. **三连排比罗列证据**：Factories ...; AI start-ups ...; multinationals ...——用分号排比呈现繁荣。
-3. **短句重锤**：Education is the deepest bottleneck / India's moment is now——短句造势。
-4. **not...but 评判标准**：judged not by its headline numbers, but by whether it lifts the lives——用对仗给标准。
-5. **他国经验引证**：The lesson of other emerging markets——借他国教训警示。
-6. **首尾呼应**：India's moment is now ... whether India's moment has truly arrived——首尾回环。
-
-### 语法要点
-
-- **分号三连排比**：Factories are opening; ...; and multinationals are ...——并列分句用分号。
-- **while 对比从句**：Half the workforce is still in agriculture, while the share of manufacturing ...——对比转折。
-- **even as 让步**：even as the informal sector absorbs most new workers——表"即便同时"。
-- **形式宾语 make it hard to**：make it hard for small ones to hire——it 形式宾语 + 不定式。
-- **双重否定/否定式平衡**：not entirely without foundation / not by ... but by——对仗否定。
-- **For 不定式表目的**：For the boom to help ordinary Indians, this must change——表必要条件。
-
-### 长难句
-
-最值得模仿的是"分号三连排比"（原句 2、17）：三个并列分句一气呵成，节奏感强。其次是 even as 让步（原句 11）：用让步句制造"制度悖论"。
-
-### 写作技巧
-
-- **先扬后抑**：先承认繁荣（乐观可理解），再点风险（局限少数人）——评论的辩证开场。
-- **二元概念概括**：dual economy, split between core and periphery——用一个概念统摄复杂结构。
-- **借他国教训**：other emerging markets——用先例增加说服力。
-- **以民生定成败**：judged ... by whether it lifts the lives of ordinary Indians——把评判标准锚定在普通人。
-
-### 可迁移表达
-
-- "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
-- "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
-- "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
-- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。

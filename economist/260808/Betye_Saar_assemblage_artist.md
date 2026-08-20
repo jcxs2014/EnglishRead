@@ -899,44 +899,41 @@
 
 ## 词汇分级
 
-### 基础词汇
-- **object** /ˈɒbdʒɪkt/ n. 物品、物件
-- **treasure** /ˈtreʒə/ n. 珍宝；v. 珍视
-- **browse** /braʊz/ v. 浏览、随意逛
-- **chain** /tʃeɪn/ n. 链条
-- **rope** /rəʊp/ n. 绳索
-- **spirit** /ˈspɪrɪt/ n. 灵魂、精神
-- **bead** /biːd/ n. 珠子
-- **receive/reinvent** 相关基础词从略
-
-### 进阶词汇
-- **recreation** /ˌrekriˈeɪʃn/ n. 再造、重塑
-- **assemblage** /əˈsemblɪdʒ/ n. 拼贴装置艺术（萨尔作品类型的正式名称）
-- **repurpose** /ˌriːˈpɜːpəs/ v. 改作他用
-- **reinforce** /ˌriːɪnˈfɔːs/ v. 加强
-- **intrigue** /ɪnˈtriːɡ/ v. 引起兴趣
-- **obliterate** /əˈblɪtəreɪt/ v. 涂抹、彻底抹去
-- **inherit** /ɪnˈherɪt/ v. 继承
-- **persistence** /pəˈsɪstəns/ n. 持续存在
-- **transition** /trænˈzɪʃn/ n. 过渡
-- **homage** /ˈhɒmɪdʒ/ n. 致敬
-- **symbol** /ˈsɪmbl/ n. 符号
-- **decorate/deck with** 类同义表达
-
-### 高级词汇
-- **clandestine** —（本文未出现，列常用对照）
-- **scathingly** /ˈskeɪðɪŋli/ adv. 尖刻地、毫不留情地
-- **intersperse** /ˌɪntəˈspɜːs/ v. 散布、间杂
-- **whirligig** /ˈwɜːlɪɡɪɡ/ n. 旋转玩具
-- **lynching** /ˈlɪntʃɪŋ/ n. 私刑处决
-- **christening** /ˈkrɪsnɪŋ/ n. 受洗仪式（christening robe 受洗袍）
-- **Pickaninny** /ˈpɪkənɪni/ n.（贬）对黑人儿童的蔑称
-- **Tar baby** n.（贬）"柏油娃娃"，种族侮辱用语
-- **palmistry** /ˈpɑːlmɪstri/ n. 手相术
-- **tarot** /ˈtærəʊ/ n. 塔罗牌
-- **clamour** /ˈklæmə/ n. 喧嚣
-- **hemmed-in** /ˈhemdɪn/ adj. 被围困的、受束缚的
-- **haint** /heɪnt/ n. 鬼魂（美国南方方言，haunted 变体）
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | object | n. 物品、物件 |
+| 基础 | treasure | n. 珍宝；v. 珍视 |
+| 基础 | browse | v. 浏览、随意逛 |
+| 基础 | chain | n. 链条 |
+| 基础 | rope | n. 绳索 |
+| 基础 | spirit | n. 灵魂、精神 |
+| 基础 | bead | n. 珠子 |
+| 基础 | receive/reinvent | 相关基础词从略 |
+| 基础 | recreation | n. 再造、重塑 |
+| 基础 | assemblage | n. 拼贴装置艺术（萨尔作品类型的正式名称） |
+| 基础 | repurpose | v. 改作他用 |
+| 基础 | reinforce | v. 加强 |
+| 基础 | intrigue | v. 引起兴趣 |
+| 基础 | obliterate | v. 涂抹、彻底抹去 |
+| 基础 | inherit | v. 继承 |
+| 基础 | persistence | n. 持续存在 |
+| 基础 | transition | n. 过渡 |
+| 基础 | homage | n. 致敬 |
+| 基础 | symbol | n. 符号 |
+| 基础 | decorate/deck | with 类同义表达 |
+| 基础 | clandestine | —（本文未出现，列常用对照） |
+| 基础 | scathingly | adv. 尖刻地、毫不留情地 |
+| 基础 | intersperse | v. 散布、间杂 |
+| 基础 | whirligig | n. 旋转玩具 |
+| 基础 | lynching | n. 私刑处决 |
+| 基础 | christening | n. 受洗仪式（christening robe 受洗袍） |
+| 基础 | Pickaninny | n.（贬）对黑人儿童的蔑称 |
+| 基础 | Tar | baby n.（贬）"柏油娃娃"，种族侮辱用语 |
+| 基础 | palmistry | n. 手相术 |
+| 基础 | tarot | n. 塔罗牌 |
+| 基础 | clamour | n. 喧嚣 |
+| 基础 | hemmed-in | adj. 被围困的、受束缚的 |
+| 基础 | haint | n. 鬼魂（美国南方方言，haunted 变体） |
 
 ## 长难句专项
 

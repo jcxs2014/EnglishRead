@@ -473,104 +473,90 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `bowels` | 深处、内脏 | the bowels of | *In the bowels of the capital.* |
-| `police cordon` | 警方警戒线 | a police cordon | *A police cordon blocked traffic.* |
-| `blocking traffic` | 阻断交通 | block traffic | *Blocking traffic.* |
-| `circulating` | 流传 | circulate online | *Images circulating on social media.* |
-| `the rumour mill` | 谣言作坊 | the rumour mill | *The rumour mill said.* |
-| `crashing into` | 撞进 | crash into | *Crashing into the tunnel.* |
-| `were believed to have been killed` | 据信已丧生 | be believed to | *Believed to have been killed.* |
-| `one of the most dramatic` | 最戏剧性之一 | dramatic events | *One of the most dramatic events.* |
-| `in years` | 多年来 | in years | *In years.* |
-| `within hours of` | ……后数小时内 | within hours | *Within hours of the crash.* |
-| `virtually all` | 几乎全部 | virtually all | *Virtually all information.* |
-| `vanished` | 消失 | vanish | *Information had vanished.* |
-| `state news agency` | 国家通讯社 | state news agency | *The state news agency.* |
-| `mention` | 提及 | mention the incident | *Did not mention.* |
-| `returned few results` | 返回寥寥结果 | return results | *Searches returned few results.* |
-| `deleted` | 被删除 | delete posts | *Posts were deleted.* |
-| `heavy-handedness` | 高压手段 | heavy-handed | *Such heavy-handedness.* |
-| `panic about` | 对……恐慌 | panic about | *Panic about the accident.* |
-| `deep-seated fear` | 根深蒂固的恐惧 | deep-seated | *A deep-seated fear.* |
-| `reveal something damaging` | 暴露有损形象的事 | reveal damaging | *Reveal something damaging.* |
-| `mangled` | 严重损坏的 | mangled wreckage | *A mangled helicopter.* |
-| `response times` | 响应时间 | response time | *Response times.* |
-| `emergency services` | 应急服务 | emergency services | *The emergency services.* |
-| `embarrassing` | 尴尬的 | embarrassing | *Could be embarrassing.* |
-| `clamped down` | 镇压 | clamp down on | *Clamped down with speed.* |
-| `characteristic speed` | 标志性速度 | characteristic | *With characteristic speed.* |
-| `censors` | 审查者 | the censors | *The censors.* |
-| `fits a pattern` | 符合模式 | fit a pattern | *Fits a pattern.* |
-| `confronted with` | 面对 | confront with | *Confronted with an event.* |
-| `its instinct is to` | 它的本能是 | instinct | *Its instinct is to suppress.* |
-| `suppress ... rather than provide` | 压制而非提供 | suppress | *Suppress rather than provide.* |
-| `the more ... the more` | 越……越 | the more the more | *The more dramatic, the more hysterically.* |
-| `hysterically` | 歇斯底里地 | react hysterically | *React hysterically.* |
-| `politically sensitive` | 政治敏感的 | politically sensitive | *A politically sensitive area.* |
-| `the seat of power` | 权力所在地 | the seat of power | *Near the seat of power.* |
-| `the glare of publicity` | 公众聚光灯 | the glare of | *Expose to the glare of publicity.* |
-| `expose ... to` | 暴露于 | expose to | *Expose their doings.* |
-| `long-established` | 由来已久的 | long-established | *A long-established pattern.* |
-| `went to extraordinary lengths` | 竭尽非常手段 | go to lengths | *Went to extraordinary lengths.* |
-| `banned reporting on` | 禁止报道 | ban reporting | *Banned reporting on it.* |
-| `control the narrative` | 控制叙事 | control the narrative | *Control the narrative.* |
-| `in the case of` | 就……而言 | in the case of | *In the case of the crash.* |
-| `backfired` | 适得其反 | backfire | *The strategy backfired.* |
-| `leaks out` | 泄漏 | leak out | *Information leaks out.* |
-| `more serious than officially admitted` | 比官方承认的更严重 | admit | *More serious than admitted.* |
-| `full of speculation` | 满是猜测 | speculation | *Full of speculation.* |
-| `alarming` | 令人惊恐的 | alarming | *More alarming.* |
-| `the facts warrant` | 事实证明 | warrant | *More than the facts warrant.* |
-| `in effect` | 实际上 | in effect | *In effect.* |
-| `increased ... rather than reduced` | 增加而非减少 | increase rather than | *Increased rather than reduced.* |
-| `uncertainty` | 不确定性 | uncertainty | *Increased uncertainty.* |
-| `approach to` | 处理方式 | approach to | *Approach to disasters.* |
-| `fundamental attitude to` | 根本态度 | attitude to | *Attitude to the public.* |
-| `views ... as` | 视为 | view as | *Views information as a threat.* |
-| `a threat to be managed` | 需管理的威胁 | a threat to be | *A threat to be managed.* |
-| `a right to be respected` | 需尊重的权利 | a right to be | *A right to be respected.* |
-| `as long as` | 只要 | as long as | *As long as that is the case.* |
-| `distrust` | 不信任 | distrust | *Distrust the official account.* |
-| `the official account` | 官方说法 | official account | *The official account.* |
-| `a textbook example` | 教科书式例证 | textbook | *A textbook example.* |
-| `that dynamic` | 那种动态 | dynamics | *That dynamic.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `cordon` | 警戒线 | police cordon |
-| `dramatic` | 戏剧性的 | something dramatic |
-| `tunnel` | 隧道 | in some kind of tunnel |
-| `incident` | 事件 | did not mention the incident |
-| `doings` | 行径 | their doings |
-| `warehouse` | 仓库 | a fire in a warehouse |
-| `narrative` | 叙事 | control the narrative |
-| `speculation` | 猜测 | full of speculation |
-| `clampdown` | 镇压 | The clampdown |
-| `crackdown` | 镇压 | The crackdown on this crash |
-| `regime` | 政权 | the regime rules |
-| `suppress` | 压制 | suppress information |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Tianjin` | 天津 | the city of Tianjin |
-| `second ring road` | 二环路 | Beijing's second ring road |
-| `control-room` | 控制室 | images of a control-room |
-| `helicopter` | 直升机 | a helicopter crashing |
-| `tunnel entrance` | 隧道入口 | a tunnel entrance |
-| `emergency services` | 应急部门 | response times of the emergency services |
-| `textbook example` | 典型范例 | a textbook example |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | bowels | 深处、内脏 |
+| 基础 | police cordon | 警方警戒线 |
+| 基础 | blocking traffic | 阻断交通 |
+| 基础 | circulating | 流传 |
+| 基础 | the rumour mill | 谣言作坊 |
+| 基础 | crashing into | 撞进 |
+| 基础 | were believed to have been killed | 据信已丧生 |
+| 基础 | one of the most dramatic | 最戏剧性之一 |
+| 基础 | in years | 多年来 |
+| 基础 | within hours of | ……后数小时内 |
+| 基础 | virtually all | 几乎全部 |
+| 基础 | vanished | 消失 |
+| 基础 | state news agency | 国家通讯社 |
+| 基础 | mention | 提及 |
+| 基础 | returned few results | 返回寥寥结果 |
+| 基础 | deleted | 被删除 |
+| 基础 | heavy-handedness | 高压手段 |
+| 基础 | panic about | 对……恐慌 |
+| 基础 | deep-seated fear | 根深蒂固的恐惧 |
+| 基础 | reveal something damaging | 暴露有损形象的事 |
+| 基础 | mangled | 严重损坏的 |
+| 基础 | response times | 响应时间 |
+| 基础 | emergency services | 应急服务 |
+| 基础 | embarrassing | 尴尬的 |
+| 基础 | clamped down | 镇压 |
+| 基础 | characteristic speed | 标志性速度 |
+| 基础 | censors | 审查者 |
+| 基础 | fits a pattern | 符合模式 |
+| 基础 | confronted with | 面对 |
+| 基础 | its instinct is to | 它的本能是 |
+| 基础 | suppress ... rather than provide | 压制而非提供 |
+| 基础 | the more ... the more | 越……越 |
+| 基础 | hysterically | 歇斯底里地 |
+| 基础 | politically sensitive | 政治敏感的 |
+| 基础 | the seat of power | 权力所在地 |
+| 基础 | the glare of publicity | 公众聚光灯 |
+| 基础 | expose ... to | 暴露于 |
+| 基础 | long-established | 由来已久的 |
+| 基础 | went to extraordinary lengths | 竭尽非常手段 |
+| 基础 | banned reporting on | 禁止报道 |
+| 基础 | control the narrative | 控制叙事 |
+| 基础 | in the case of | 就……而言 |
+| 基础 | backfired | 适得其反 |
+| 基础 | leaks out | 泄漏 |
+| 基础 | more serious than officially admitted | 比官方承认的更严重 |
+| 基础 | full of speculation | 满是猜测 |
+| 基础 | alarming | 令人惊恐的 |
+| 基础 | the facts warrant | 事实证明 |
+| 基础 | in effect | 实际上 |
+| 基础 | increased ... rather than reduced | 增加而非减少 |
+| 基础 | uncertainty | 不确定性 |
+| 基础 | approach to | 处理方式 |
+| 基础 | fundamental attitude to | 根本态度 |
+| 基础 | views ... as | 视为 |
+| 基础 | a threat to be managed | 需管理的威胁 |
+| 基础 | a right to be respected | 需尊重的权利 |
+| 基础 | as long as | 只要 |
+| 基础 | distrust | 不信任 |
+| 基础 | the official account | 官方说法 |
+| 基础 | a textbook example | 教科书式例证 |
+| 基础 | that dynamic | 那种动态 |
+| 进阶 | cordon | 警戒线 |
+| 进阶 | dramatic | 戏剧性的 |
+| 进阶 | tunnel | 隧道 |
+| 进阶 | incident | 事件 |
+| 进阶 | doings | 行径 |
+| 进阶 | warehouse | 仓库 |
+| 进阶 | narrative | 叙事 |
+| 进阶 | speculation | 猜测 |
+| 进阶 | clampdown | 镇压 |
+| 进阶 | crackdown | 镇压 |
+| 进阶 | regime | 政权 |
+| 进阶 | suppress | 压制 |
+| 高级 | Tianjin | 天津 |
+| 高级 | second ring road | 二环路 |
+| 高级 | control-room | 控制室 |
+| 高级 | helicopter | 直升机 |
+| 高级 | tunnel entrance | 隧道入口 |
+| 高级 | emergency services | 应急部门 |
+| 高级 | textbook example | 典型范例 |
 
 ## 四、长难句专项
 
@@ -627,78 +613,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-bowels、police cordon、blocking traffic、circulating、rumour mill、crashing into、were believed to have been killed、in years、within hours of、virtually all、vanished、state news agency、mention、returned few results、deleted、heavy-handedness、panic about、deep-seated fear、reveal damaging、mangled、response times、emergency services、embarrassing、clamped down、characteristic speed、censors、fits a pattern、confronted with、instinct is to、suppress rather than provide、the more the more、hysterically、politically sensitive、the seat of power、the glare of publicity、expose to、long-established、went to extraordinary lengths、banned reporting on、control the narrative、in the case of、backfired、leaks out、more serious than officially admitted、full of speculation、alarming、the facts warrant、in effect、increased rather than reduced、uncertainty、approach to、fundamental attitude、views as、a threat to be managed、a right to be respected、as long as、distrust、official account、textbook example、that dynamic
-
-### 2. 本文核心表达
-
-1. `in the bowels of Beijing's second ring road` — 北京二环的地下深处
-2. `the rumour mill said` — 谣言作坊说（信息未证实的标记）
-3. `within hours of the crash, virtually all information about it had vanished` — 坠机后数小时内信息几乎全部蒸发
-4. `Such heavy-handedness is not the result of panic about the accident itself` — 高压不是怕事故本身
-5. `its instinct is to suppress information rather than provide it` — 本能是压制而非提供
-6. `The more dramatic the event, the more hysterically the authorities react` — 事件越戏剧性，反应越歇斯底里
-7. `the glare of publicity` — 公众关注的聚光灯
-8. `went to extraordinary lengths to suppress` — 竭尽非常手段压制
-9. `not to inform the public but to control the narrative` — 不是告知公众而是控制叙事
-10. `The strategy has backfired` — 策略适得其反
-11. `much of it more alarming than the facts warrant` — 其中许多比事实更惊人（独立主格）
-12. `increased uncertainty rather than reduced it` — 增加而非减少不确定性
-13. `It views information as a threat to be managed, not a right to be respected` — 信息是需管理的威胁而非需尊重的权利（警句）
-14. `The more dramatic the event, the more people will distrust the official account` — 事件越戏剧性，越多人不信任官方说法
-15. `a textbook example of that dynamic` — 那种动态的教科书式例证
-
-### 3. 重要语法
-
-- **三重被动不定式**：`were believed to have been killed`
-- **同位语从句**：`the fear that the smallest detail could reveal...`
-- **省略 that 的定语从句**：`an event it cannot fully control`、`the way the regime rules`
-- **独立主格**（absolute construction）：`much of it more alarming than the facts warrant`
-- **the more...the more 比较**：`The more dramatic the event, the more hysterically...`
-- **not A but B / not A rather than B**：`not to inform the public but to control the narrative`
-- **views A as B**：`views information as a threat to be managed`
-- **插入语**：`in effect`、`in the case of`
-- **分号连接**：`In 2022...; the authorities banned...`
-- **冒号解释**：`The incident fits a pattern: ...`
-- **被动语态**：`were deleted`、`were banned`、`was blocking`
-
-### 4. 长难句
-
-- 原句 4：三重被动不定式
-- 原句 10：同位语从句 + the way 定语从句嵌套
-- 原句 13：冒号解释 + whenever 从句 + 省略 that 定语从句
-- 原句 23：独立主格结构
-- 原句 26：as 补语对比 + 不定式被动
-
-### 5. 写作技巧
-
-1. **悬念式文学化开场**：`FORTY-FIVE metres below the surface...something dramatic was happening`——用精确深度 + 模糊事件制造悬念，新闻写作的"钩子"技巧
-2. **模糊性是主题**：全文用 `some kind of tunnel`、`the rumour mill said`、`were believed to`、`more serious than officially admitted`——每个模糊表达都在重现"信息真空"，形式与内容统一
-3. **"fits a pattern"归纳法**：先写个案，再用两个历史先例（2015 天津、2022 北京）归纳模式，最后升华到"制度本能"——从具体到抽象的论证链
-4. **数字式段落结构**：`matters for three reasons`（A23a 篇）、`wrong for two reasons`（AI 篇）——本文件用 `deep-seated fear` 等词点明主题，数字结构在其他文章中用得更多
-5. **双 the more...the more 呼应**：第 14 段（事件越大→反应越失控）与第 27 段（事件越大→信任越少）——首尾呼应的"比例律"，形成完整的逻辑闭环
-6. **对比警句**：`a threat to be managed, not a right to be respected`——字字对仗的定性句，一句话概括全文分析结论
-7. **反讽语气**：`hysterically`（歇斯底里）、`textbook example`（教科书范例）、`characteristic speed`（标志性速度）——用中性词写负面行为，暗藏批判
-8. **三层递进收尾**：态度揭示（25）→ 信息哲学（26）→ 未来预测（27-28）——从分析到预言，余韵悠长
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `in the bowels of` | 深处 | In the bowels of the system. |
-| `the rumour mill` | 传言四起 | The rumour mill went into overdrive. |
-| `within hours of` | 数小时内 | Within hours of the launch. |
-| `fits a pattern` | 符合模式 | The failures fit a pattern. |
-| `confronted with` | 面对 | Confronted with the evidence. |
-| `the more X, the more Y` | 比例关系 | The more we delay, the worse it gets. |
-| `control the narrative` | 掌控说法 | She tried to control the narrative. |
-| `backfire` | 适得其反 | The strategy backfired badly. |
-| `a textbook example` | 典型范例 | A textbook example of bad timing. |
-| `go to extraordinary lengths` | 竭尽所能 | They went to extraordinary lengths to help. |
-| `in effect` | 实际上 | In effect, the plan was shelved. |
-| `the glare of publicity` | 公众注目 | His affairs were exposed to the glare of publicity. |
-| `the seat of power` | 权力中心 | Near the seat of power. |
-| `the facts warrant` | 事实所证明 | More optimistic than the facts warrant. |
-| `as long as that is the case` | 只要如此 | As long as that is the case, we wait. |

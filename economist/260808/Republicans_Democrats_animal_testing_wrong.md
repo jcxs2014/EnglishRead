@@ -496,48 +496,45 @@
 
 ## 词汇分级
 
-### 基础词汇
-- **relief** /rɪˈliːf/ n. 宽慰
-- **oppose** /əˈpəʊz/ v. 反对
-- **welfare** /ˈwelfeə/ n. 福祉
-- **vaccine** /ˈvæksiːn/ n. 疫苗
-- **ban** /bæn/ v. 禁止
-- **navy** /ˈneɪvi/ n. 海军
-- **cost** /kɒst/ v. 花费
-- **money** 从略
-
-### 进阶词汇
-- **bipartisanship** /ˌbaɪˈpɑːtɪzənʃɪp/ n. 两党合作
-- **common ground** 共同点、共识
-- **advocate** /ˈædvəkət/ n. 拥护者
-- **embrace** /ɪmˈbreɪs/ v. 拥抱、接受
-- **vow to** 发誓要
-- **funding** /ˈfʌndɪŋ/ n. 拨款、资金
-- **curtail** /kɜːˈteɪl/ v. 削减
-- **surge** /sɜːdʒ/ n. 激增
-- **ethics** /ˈeθɪks/ n. 伦理
-- **biomedical** /ˌbaɪəʊˈmedɪkl/ adj. 生物医学的
-- **entail** /ɪnˈteɪl/ v. 需要、牵涉
-- **mimic** /ˈmɪmɪk/ v. 模拟
-- **recruit** /rɪˈkruːt/ v. 招募
-- **displace** /dɪsˈpleɪs/ v. 取代
-- **enhance** /ɪnˈhɑːns/ v. 提升
-- **modernise** /ˈmɒdənaɪz/ v. 现代化
-- **monitoring** /ˈmɒnɪtərɪŋ/ n. 监测
-
-### 高级词汇
-- **queasiness** /ˈkwiːzinəs/ n. 恶心、不安
-- **organoid** /ˈɔːɡənɔɪd/ n. 类器官
-- **organ-on-a-chip** 芯片器官
-- **primate** /ˈpraɪmeɪt/ n. 灵长类动物
-- **appointee** /əˌpɔɪnˈtiː/ n. 被任命者
-- **crusade** /kruːˈseɪd/ n. 十字军式运动
-- **self-defeating** /ˌselfdɪˈfiːtɪŋ/ adj. 自我拆台的
-- **naturalistic** /ˌnætʃrəˈlɪstɪk/ adj. 自然主义的
-- **staggering** /ˈstæɡərɪŋ/ adj. 惊人的
-- **enlightened** /ɪnˈlaɪtnd/ adj. 开明的
-- **toxic** /ˈtɒksɪk/ adj. 有毒的
-- **bipartisan** 从略
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | relief | n. 宽慰 |
+| 基础 | oppose | v. 反对 |
+| 基础 | welfare | n. 福祉 |
+| 基础 | vaccine | n. 疫苗 |
+| 基础 | ban | v. 禁止 |
+| 基础 | navy | n. 海军 |
+| 基础 | cost | v. 花费 |
+| 基础 | money | 从略 |
+| 基础 | bipartisanship | n. 两党合作 |
+| 基础 | common | ground 共同点、共识 |
+| 基础 | advocate | n. 拥护者 |
+| 基础 | embrace | v. 拥抱、接受 |
+| 基础 | vow | to 发誓要 |
+| 基础 | funding | n. 拨款、资金 |
+| 基础 | curtail | v. 削减 |
+| 基础 | surge | n. 激增 |
+| 基础 | ethics | n. 伦理 |
+| 基础 | biomedical | adj. 生物医学的 |
+| 基础 | entail | v. 需要、牵涉 |
+| 基础 | mimic | v. 模拟 |
+| 基础 | recruit | v. 招募 |
+| 基础 | displace | v. 取代 |
+| 基础 | enhance | v. 提升 |
+| 基础 | modernise | v. 现代化 |
+| 基础 | monitoring | n. 监测 |
+| 基础 | queasiness | n. 恶心、不安 |
+| 基础 | organoid | n. 类器官 |
+| 基础 | organ-on-a-chip | 芯片器官 |
+| 基础 | primate | n. 灵长类动物 |
+| 基础 | appointee | n. 被任命者 |
+| 基础 | crusade | n. 十字军式运动 |
+| 基础 | self-defeating | adj. 自我拆台的 |
+| 基础 | naturalistic | adj. 自然主义的 |
+| 基础 | staggering | adj. 惊人的 |
+| 基础 | enlightened | adj. 开明的 |
+| 基础 | toxic | adj. 有毒的 |
+| 基础 | bipartisan | 从略 |
 
 ## 长难句专项
 

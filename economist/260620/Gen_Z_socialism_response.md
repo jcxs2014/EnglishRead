@@ -364,53 +364,43 @@
 
 **段落逻辑：** 计划回访（补服务不足的声音）→ 资本主义辩论远未结束 → 希望对话继续且更深刻。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| provoked | v. | 引发、激起 | 原句 1 |
-| caricaturing | v. | 丑化、漫画化 | 原句 3 |
-| slippery label | 短语 | 滑头的标签 | 原句 6 |
-| lumping together | 短语 | 混为一谈 | 原句 6 |
-| let alone | 短语 | 更不用说 | 原句 7 |
-| stand by | 短语 | 坚持 | 原句 9 |
-| the substance | n. | 实质内容 | 原句 9 |
-| privatisation | n. | 私有化 | 原句 10 |
-| measurable | adj. | 可衡量的 | 原句 10 |
-| sceptical of | 短语 | 对……怀疑 | 原句 11 |
-| underpin | v. | 支撑 | 原句 14 |
-| legitimacy | n. | 合法性 | 原句 15 |
-| concede | v. | 承认 | 原句 17 |
-| do justice to | 短语 | 公正对待 | 原句 17 |
-| monolith | n. | 铁板一块 | 原句 18 |
-| nuances | n. | 细微差别 | 原句 19 |
-| omission | n. | 遗漏 | 原句 20 |
-| under-served | adj. | 服务不足的 | 原句 21 |
-| far from over | 短语 | 远未结束 | 原句 22 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- a lively response — 热烈的反响
-- unfair to their generation — 对他们的世代不公平
-- take criticisms seriously — 认真对待批评
-- to some extent — 在某种程度上
-- views that are often quite different — 常常相当不同的观点
-- stand by the substance — 坚持实质
-- losing legitimacy — 失去合法性
-- a generation is not a monolith — 一代人不是铁板一块
-- should have done more — 本应该做得更多
-- revisit the subject — 重新审视主题
-
-### ⭐ 扩展词汇（了解即可）
-
-- cover — 封面文章
-- trust in institutions — 制度信任
-- counter-arguments — 反方观点
-- the rich world — 富裕世界
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | v. | 引发、激起 |
+| 基础 | v. | 丑化、漫画化 |
+| 基础 | 短语 | 滑头的标签 |
+| 基础 | 短语 | 混为一谈 |
+| 基础 | 短语 | 更不用说 |
+| 基础 | 短语 | 坚持 |
+| 基础 | n. | 实质内容 |
+| 基础 | n. | 私有化 |
+| 基础 | adj. | 可衡量的 |
+| 基础 | 短语 | 对……怀疑 |
+| 基础 | v. | 支撑 |
+| 基础 | n. | 合法性 |
+| 基础 | v. | 承认 |
+| 基础 | 短语 | 公正对待 |
+| 基础 | n. | 铁板一块 |
+| 基础 | n. | 细微差别 |
+| 基础 | n. | 遗漏 |
+| 基础 | adj. | 服务不足的 |
+| 基础 | 短语 | 远未结束 |
+| 进阶 | a | lively response — 热烈的反响 |
+| 进阶 | unfair | to their generation — 对他们的世代不公平 |
+| 进阶 | take | criticisms seriously — 认真对待批评 |
+| 进阶 | to | some extent — 在某种程度上 |
+| 进阶 | views | that are often quite different — 常常相当不同的观点 |
+| 进阶 | stand | by the substance — 坚持实质 |
+| 进阶 | losing | legitimacy — 失去合法性 |
+| 进阶 | a | generation is not a monolith — 一代人不是铁板一块 |
+| 进阶 | should | have done more — 本应该做得更多 |
+| 进阶 | revisit | the subject — 重新审视主题 |
+| 进阶 | cover | — 封面文章 |
+| 进阶 | trust | in institutions — 制度信任 |
+| 进阶 | counter-arguments | — 反方观点 |
+| 进阶 | the | rich world — 富裕世界 |
 
 ## 三、长难句专项
 
@@ -480,42 +470,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"编辑部回应批评"文，词汇集中在：**批评与回应**（provoked, caricaturing, take seriously, concede）；**标签与概括**（slippery label, lump together, monolith, do justice to）；**制度话语**（privatisation, legitimacy, underpin capitalism）；**让步与辩护**（stand by, to some extent, should have done more, genuine weakness）。这组词是"回应批评、部分认错、坚持核心"的辩论工具箱。
-
-### 表达方式
-
-1. **软垫开场**：provoked a lively response——用"热烈反响"而非"被骂"。
-2. **让步-坚持-让步结构**：To some extent, they are right（让）→ Yet we stand by the substance（坚持）→ Still, we concede（再让）——典型辩护节奏。
-3. **认错递进**：slippery label（标签笼统）→ not everyone is a socialist（以偏概全）→ should have done more（本应做得更多）——认错由浅入深。
-4. **金句式短句**：A generation is not a monolith——用短句概括立场。
-5. **第一人称复数**：we / our——编辑部口吻，既担责又有集体权威。
-6. **把话题放大**：far from over——从小争论引向大命题。
-
-### 语法要点
-
-- **let alone 递进否定**：Not everyone ... is a socialist, let alone a fan of the state——"更别说"。
-- **Nor 倒装**：Nor is the concern confined to the young——否定提前引发倒装。
-- **should have done 虚拟**：We should have done more——本该做而未做，表遗憾。
-- **not that ... not that**：not that a revolution is coming——澄清式否定。
-- **两个 that 表语从句并列**：Our concern is that ..., not that ...——对仗式表语。
-
-### 长难句
-
-最值得注意的是"not A, let alone B"（原句 7）与"是 A 不是 B"（原句 15）——两个"否定澄清"结构都是编辑部辩护的核心语法武器。
-
-### 写作技巧
-
-- **有策略的认错**：认错是分层的——先让标签，再让呈现，但坚决守住实质——这是媒体回应批评的教科书结构。
-- **批评转译**：把"被骂"译成"热烈的反响"（lively response）——既诚实又得体。
-- **概念翻转**：把"Z 世代社会主义"重新定义为"制度合法性流失"——从贴标签提升到真问题。
-- **承诺行动**：we plan to revisit——认错后有行动，而非空道歉。
-
-### 可迁移表达
-
-- "A generation is not a monolith" — 用于反对以偏概全。
-- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
-- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
-- "The debate is far from over" — 用于开放性结尾。

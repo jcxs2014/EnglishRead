@@ -354,59 +354,49 @@
 
 **段落逻辑：** 开放设问（会真中国化吗）→ 历史警示（星巴克也得改菜单）→ 本土混搭已出现（牛油果冰淇淋/藜麦奶茶）→ 结论：加州化只到一定程度。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| gone native | 短语 | 本土化 | 原句 1 |
-| exotic import | n. | 异国进口品 | 原句 2 |
-| confined to | 短语 | 局限于 | 原句 3 |
-| second-tier cities | n. | 二线城市 | 原句 3 |
-| a marker of | 短语 | ……的标志 | 原句 4 |
-| customs data | n. | 海关数据 | 原句 6 |
-| year-round | adv. | 全年 | 原句 8 |
-| health-conscious | adj. | 注重健康的 | 原句 8 |
-| pay a premium | 短语 | 付溢价 | 原句 8 |
-| taken off | 短语 | 突然流行 | 原句 9 |
-| driver | n. | 驱动因素 | 原句 10 |
-| wary of | 短语 | 对……警惕 | 原句 11 |
-| organic labels | n. | 有机标签 | 原句 12 |
-| amplified | v. | 放大 | 原句 13 |
-| a staple of | 短语 | ……的主打 | 原句 14 |
-| aspirational | adj. | 理想生活的 | 原句 14 |
-| signalling | v. | 传递信号 | 原句 15 |
-| a catch | n. | 陷阱、问题 | 原句 16 |
-| out of reach | 短语 | 够不着 | 原句 17 |
-| the affluent | n. | 富裕阶层 | 原句 18 |
-| the masses | n. | 大众 | 原句 18 |
-| adapt ... to | 短语 | 调整适应 | 原句 20 |
-| remade | v. | 被改造 | 原句 21 |
-| up to a point | 短语 | 到一定程度 | 原句 22 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- gone native — 入乡随俗、本土化
-- from Beijing to Chengdu — 从北京到成都
-- confined to Shanghai's brunch spots — 局限于上海的早午餐店
-- rising health awareness — 日益增强的健康意识
-- wary of what they eat — 对吃的东西警惕
-- a vision of food that feels safe — 让人感到安全的食物图景
-- shot from the perfect angle — 从完美角度拍摄
-- aspirational posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖
-- five times as much as a cabbage — 卷心菜的五倍
-- adapt its menu to local tastes — 调整菜单适应当地口味
-
-### ⭐ 扩展词汇（了解即可）
-
-- kale — 羽衣甘蓝
-- quinoa — 藜麦
-- chia seeds — 奇亚籽
-- avocado toast — 牛油果吐司
-- bubble-tea — 珍珠奶茶
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | 短语 | 本土化 |
+| 基础 | n. | 异国进口品 |
+| 基础 | 短语 | 局限于 |
+| 基础 | n. | 二线城市 |
+| 基础 | 短语 | ……的标志 |
+| 基础 | n. | 海关数据 |
+| 基础 | adv. | 全年 |
+| 基础 | adj. | 注重健康的 |
+| 基础 | 短语 | 付溢价 |
+| 基础 | 短语 | 突然流行 |
+| 基础 | n. | 驱动因素 |
+| 基础 | 短语 | 对……警惕 |
+| 基础 | n. | 有机标签 |
+| 基础 | v. | 放大 |
+| 基础 | 短语 | ……的主打 |
+| 基础 | adj. | 理想生活的 |
+| 基础 | v. | 传递信号 |
+| 基础 | n. | 陷阱、问题 |
+| 基础 | 短语 | 够不着 |
+| 基础 | n. | 富裕阶层 |
+| 基础 | n. | 大众 |
+| 基础 | 短语 | 调整适应 |
+| 基础 | v. | 被改造 |
+| 基础 | 短语 | 到一定程度 |
+| 进阶 | gone | native — 入乡随俗、本土化 |
+| 进阶 | from | Beijing to Chengdu — 从北京到成都 |
+| 进阶 | confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |
+| 进阶 | rising | health awareness — 日益增强的健康意识 |
+| 进阶 | wary | of what they eat — 对吃的东西警惕 |
+| 进阶 | a | vision of food that feels safe — 让人感到安全的食物图景 |
+| 进阶 | shot | from the perfect angle — 从完美角度拍摄 |
+| 进阶 | aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |
+| 进阶 | five | times as much as a cabbage — 卷心菜的五倍 |
+| 进阶 | adapt | its menu to local tastes — 调整菜单适应当地口味 |
+| 进阶 | kale | — 羽衣甘蓝 |
+| 进阶 | quinoa | — 藜麦 |
+| 进阶 | chia | seeds — 奇亚籽 |
+| 进阶 | avocado | toast — 牛油果吐司 |
+| 进阶 | bubble-tea | — 珍珠奶茶 |
 
 ## 三、长难句专项
 
@@ -476,44 +466,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"消费文化观察"文本，词汇集中在：**食物与健康**（kale, quinoa, organic labels, health-conscious）；**阶层与身份**（middle-class taste, the affluent, the masses, signalling）；**流行扩散**（taken off, amplified, spread, gone native）；**门槛与限制**（a catch, out of reach, up to a point）。这组词是分析"外来饮食本土化"话题的工具包。
-
-### 表达方式
-
-1. **拟人化开场**：THE AVOCADO has gone native——把食物当移民写，生动。
-2. **时间对照**：No longer ... now / once confined ... has spread——用时间轴呈现变化。
-3. **数据佐证**：rose by 85%, according to customs data——现象配硬数据。
-4. **设问过渡**：Why has the Californian diet taken off?——设问引出归因。
-5. **具体意象**：organic labels and fresh juices / shot from the perfect angle——把抽象概念（健康/晒）具象化。
-6. **先例警示**：History suggests caution: even Starbucks——借反例给结论留余地。
-
-### 语法要点
-
-- **句首同位语 + No longer**：No longer an exotic import ..., it now sits——对比结构。
-- **现在分词表原因**：having learned that ...——分词短语表"因为已经学会"。
-- **make + 宾 + 宾补**：made middle-class families wary of what they eat。
-- **分词插入 + 定语从句**：shot from the perfect angle ... that dominate——多层修饰。
-- **非限制性定语从句**：which keeps it out of reach——补充说明。
-- **同位语从句**：signs that the trend is already being remade——signs 后的 that 从句。
-
-### 长难句
-
-最值得模仿的是"句首同位语 + No longer 对比"（原句 2）与"分词插入 + 定语从句"（原句 14）——前者适合写"从 X 到 Y"的变化，后者适合写"照片/帖子/商品"这类多属性名词。
-
-### 写作技巧
-
-- **由小见大**：从一颗牛油果写到中产身份、食品安全焦虑、社交媒体——小切口大主题。
-- **场景→数据→原因→代价→前景**：标准的文化观察五段式。
-- **对照结构**：affluent vs masses / foreign vs local——全文用对照推进。
-- **克制的结论**：only up to a point——不唱高调，给趋势留边界。
-
-### 可迁移表达
-
-- "X has gone native in China" — 用于"某外来事物已本土化"。
-- "No longer an exotic import, it now sits on shelves" — 用于"从猎奇到普及"。
-- "posting a picture of X is a way of signalling that ..." — 用于"晒=身份信号"。
-- "History suggests caution: even X had to adapt" — 用于"先例警示"。
-- "only up to a point" — 用于"只到一定程度"。

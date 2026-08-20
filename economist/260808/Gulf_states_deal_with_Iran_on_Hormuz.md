@@ -396,73 +396,66 @@
 - 首句承上：P8 的 Such a settlement 回指 P7 的 deal，形成链条
 - 短句蓄力：Once again.（句7）、Such workarounds will help.（句14）、Pipeline projects are often delayed.（句16）都承担节奏控制功能
 
-## 四、词汇分级
+## 词汇分级
 
-### 基础词汇（CET-4 及以下）
-| 单词 | 词性/音标 | 中文释义 |
-|---|---|---|
-| deal | n. /diːl/ | 协议、交易 |
-| war | n. /wɔː(r)/ | 战争 |
-| chance | n. /tʃɑːns/ | 机会 |
-| hope | n./v. /həʊp/ | 希望 |
-| ship | n./v. /ʃɪp/ | 船只；运输 |
-| pay | v. /peɪ/ | 支付 |
-| plan | n./v. /plæn/ | 计划 |
-| fight | v./n. /faɪt/ | 战斗 |
-| buy | v. /baɪ/ | 购买；争取（时间） |
-| food | n. /fuːd/ | 食品 |
-| metal | n. /ˈmetl/ | 金属 |
-| demand | n. /dɪˈmɑːnd/ | 诉求、要求 |
-| fee | n. /fiː/ | 费用 |
-| delay | v. /dɪˈleɪ/ | 推迟 |
-
-### 进阶词汇（CET-6 / 考研 / 雅思）
-| 单词 | 词性/音标 | 中文释义 |
-|---|---|---|
-| yield | v. /jiːld/ | 产生、带来；让步 |
-| deadlock | n. /ˈdedlɒk/ | 僵局 |
-| resume | v. /rɪˈzjuːm/ | 恢复、重新开始 |
-| stance | n. /stæns/ | 立场、姿态 |
-| surrender | v. /səˈrendə(r)/ | 交出、放弃 |
-| obsolete | adj. /ˈɒbsəliːt/ | 过时的 |
-| bypass | v. /ˈbaɪpɑːs/ | 绕过 |
-| divert | v. /daɪˈvɜːt/ | 使改道 |
-| refinery | n. /rɪˈfaɪnəri/ | 炼油厂 |
-| resilience | n. /rɪˈzɪliəns/ | 韧性、恢复力 |
-| commodity | n. /kəˈmɒdəti/ | 大宗商品 |
-| deter | v. /dɪˈtɜː(r)/ | 威慑、使却步 |
-| tolerate | v. /ˈtɒləreɪt/ | 容忍 |
-| sanction | n. /ˈsæŋkʃn/ | 制裁（常用复数） |
-| fragile | adj. /ˈfrædʒaɪl/ | 脆弱的 |
-| durable | adj. /ˈdjʊərəbl/ | 持久的 |
-| restrain | v. /rɪˈstreɪn/ | 约束、抑制 |
-| leverage | n. /ˈliːvərɪdʒ/ | 筹码、影响力 |
-| strike | v. /straɪk/ | 打击（struck） |
-| charge | v. /tʃɑːdʒ/ | 收费 |
-| deny | v. /dɪˈnaɪ/ | 否认 |
-| barrel | n. /ˈbærəl/ | 桶（石油计量单位） |
-| status quo | n. /ˌsteɪtəs ˈkwəʊ/ | 现状 |
-| hostilities | n. /hɒˈstɪlətiz/ | 敌对行动 |
-
-### 高级词汇（GRE / 报刊高频）
-| 单词 | 词性/音标 | 中文释义 |
-|---|---|---|
-| exasperated | adj. /ɪɡˈzæspəreɪtɪd/ | 恼怒的、被激怒的 |
-| unpalatable | adj. /ʌnˈpælətəbl/ | 令人不快的、难以接受的 |
-| maritime | adj. /ˈmærɪtaɪm/ | 海上的、海洋的 |
-| multilateral | adj. /ˌmʌltiˈlætərəl/ | 多边的 |
-| choke point | n. /ˈtʃəʊk pɔɪnt/ | 咽喉要道、瓶颈 |
-| traverse | v. /trəˈvɜːs/ | 穿越、横渡 |
-| hasten | v. /ˈheɪsn/ | 加快、加紧 |
-| pragmatic | adj. /præɡˈmætɪk/ | 务实的 |
-| quest | n. /kwest/ | 追求、探寻 |
-| ledger | n. /ˈledʒə(r)/ | 分类账、账本 |
-| premium | n. /ˈpriːmiəm/ | 保险费 |
-| register | v. /ˈredʒɪstə(r)/ | 登记、正式提出 |
-| workaround | n. /ˈwɜːkəraʊnd/ | 变通办法、绕行方案 |
-| near-total | adj. /ˌnɪə ˈtəʊtl/ | 近乎完全的 |
-| jack up | v. /ˌdʒæk ˈʌp/ | 抬高、猛增 |
-| waterway | n. /ˈwɔːtəweɪ/ | 水道、航道 |
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | n. /diːl/ | 协议、交易 |
+| 基础 | n. /wɔː(r)/ | 战争 |
+| 基础 | n. /tʃɑːns/ | 机会 |
+| 基础 | n./v. /həʊp/ | 希望 |
+| 基础 | n./v. /ʃɪp/ | 船只；运输 |
+| 基础 | v. /peɪ/ | 支付 |
+| 基础 | n./v. /plæn/ | 计划 |
+| 基础 | v./n. /faɪt/ | 战斗 |
+| 基础 | v. /baɪ/ | 购买；争取（时间） |
+| 基础 | n. /fuːd/ | 食品 |
+| 基础 | n. /ˈmetl/ | 金属 |
+| 基础 | n. /dɪˈmɑːnd/ | 诉求、要求 |
+| 基础 | n. /fiː/ | 费用 |
+| 基础 | v. /dɪˈleɪ/ | 推迟 |
+| 基础 | 词性/音标 | 中文释义 |
+| 基础 | v. /jiːld/ | 产生、带来；让步 |
+| 基础 | n. /ˈdedlɒk/ | 僵局 |
+| 基础 | v. /rɪˈzjuːm/ | 恢复、重新开始 |
+| 基础 | n. /stæns/ | 立场、姿态 |
+| 基础 | v. /səˈrendə(r)/ | 交出、放弃 |
+| 基础 | adj. /ˈɒbsəliːt/ | 过时的 |
+| 基础 | v. /ˈbaɪpɑːs/ | 绕过 |
+| 基础 | v. /daɪˈvɜːt/ | 使改道 |
+| 基础 | n. /rɪˈfaɪnəri/ | 炼油厂 |
+| 基础 | n. /rɪˈzɪliəns/ | 韧性、恢复力 |
+| 基础 | n. /kəˈmɒdəti/ | 大宗商品 |
+| 基础 | v. /dɪˈtɜː(r)/ | 威慑、使却步 |
+| 基础 | v. /ˈtɒləreɪt/ | 容忍 |
+| 基础 | n. /ˈsæŋkʃn/ | 制裁（常用复数） |
+| 基础 | adj. /ˈfrædʒaɪl/ | 脆弱的 |
+| 基础 | adj. /ˈdjʊərəbl/ | 持久的 |
+| 基础 | v. /rɪˈstreɪn/ | 约束、抑制 |
+| 基础 | n. /ˈliːvərɪdʒ/ | 筹码、影响力 |
+| 基础 | v. /straɪk/ | 打击（struck） |
+| 基础 | v. /tʃɑːdʒ/ | 收费 |
+| 基础 | v. /dɪˈnaɪ/ | 否认 |
+| 基础 | n. /ˈbærəl/ | 桶（石油计量单位） |
+| 基础 | n. /ˌsteɪtəs ˈkwəʊ/ | 现状 |
+| 基础 | n. /hɒˈstɪlətiz/ | 敌对行动 |
+| 基础 | 词性/音标 | 中文释义 |
+| 基础 | adj. /ɪɡˈzæspəreɪtɪd/ | 恼怒的、被激怒的 |
+| 基础 | adj. /ʌnˈpælətəbl/ | 令人不快的、难以接受的 |
+| 基础 | adj. /ˈmærɪtaɪm/ | 海上的、海洋的 |
+| 基础 | adj. /ˌmʌltiˈlætərəl/ | 多边的 |
+| 基础 | n. /ˈtʃəʊk pɔɪnt/ | 咽喉要道、瓶颈 |
+| 基础 | v. /trəˈvɜːs/ | 穿越、横渡 |
+| 基础 | v. /ˈheɪsn/ | 加快、加紧 |
+| 基础 | adj. /præɡˈmætɪk/ | 务实的 |
+| 基础 | n. /kwest/ | 追求、探寻 |
+| 基础 | n. /ˈledʒə(r)/ | 分类账、账本 |
+| 基础 | n. /ˈpriːmiəm/ | 保险费 |
+| 基础 | v. /ˈredʒɪstə(r)/ | 登记、正式提出 |
+| 基础 | n. /ˈwɜːkəraʊnd/ | 变通办法、绕行方案 |
+| 基础 | adj. /ˌnɪə ˈtəʊtl/ | 近乎完全的 |
+| 基础 | v. /ˌdʒæk ˈʌp/ | 抬高、猛增 |
+| 基础 | n. /ˈwɔːtəweɪ/ | 水道、航道 |
 
 ## 五、长难句专项
 

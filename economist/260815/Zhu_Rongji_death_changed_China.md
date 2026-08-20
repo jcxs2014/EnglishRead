@@ -613,34 +613,32 @@
 
 ## 词汇分级
 
-| 档位 | 词汇 | 释义 | 出处原句 |
-|------| graft | 腐败、贪污（利用公职谋私） | 原句2 |
-| 进阶 | antithesis | 对立面、截然相反 | 原句3 |
-| 进阶 | eschewed | 刻意避开、回避 | 原句4 |
-| 进阶 | wielded | 行使、掌握（权力） | 原句5 |
-| 进阶 | dismantled | 瓦解、拆除 | 原句5 |
-| 高级 | unprecedented | 前所未有的 | 原句9 |
-| 进阶 | laid the groundwork for | 为……奠定基础 | 原句10 |
-| 进阶 | as is customary | 按照惯例 | 原句14 |
-| 高级 | rehabilitated | 平反、恢复名誉 | 原句19 |
-| 进阶 | plaudits | 热烈赞扬 | 原句21 |
-| 进阶 | defusing | 化解（危机） | 原句21 |
-| 高级 | reinvigorate | 使重新充满活力 | 原句23 |
-| 高级 | rein in | 控制、遏制 | 原句24 |
-| 进阶 | overhauling | 彻底改革 | 原句24 |
-| 进阶 | coffers | 金库、国库 | 原句24 |
-| 高级 | slashed | 大幅削减 | 原句25 |
-| 高级 | red tape | 繁文缛节 | 原句25 |
-| 进阶 | weeded out | 清除、淘汰 | 原句25 |
-| 高级 | cohort | 一批（人） | 原句26 |
-| 高级 | spearheading | 带头、率先推动 | 原句27 |
-| 进阶 | irked | 惹恼 | 原句29 |
-| 高级 | protégés | 门生、被提携者 | 原句30 |
-| 进阶 | sidelined | 边缘化 | 原句30 |
-| 进阶 | reversed | 逆转 | 原句30 |
-| 高级 | prospect | 前景、可能性 | 原句31 |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | antithesis | 对立面、截然相反 |
+| 基础 | eschewed | 刻意避开、回避 |
+| 基础 | wielded | 行使、掌握（权力） |
+| 基础 | dismantled | 瓦解、拆除 |
+| 基础 | unprecedented | 前所未有的 |
+| 基础 | laid the groundwork for | 为……奠定基础 |
+| 基础 | as is customary | 按照惯例 |
+| 基础 | rehabilitated | 平反、恢复名誉 |
+| 基础 | plaudits | 热烈赞扬 |
+| 基础 | defusing | 化解（危机） |
+| 基础 | reinvigorate | 使重新充满活力 |
+| 基础 | rein in | 控制、遏制 |
+| 基础 | overhauling | 彻底改革 |
+| 基础 | coffers | 金库、国库 |
+| 基础 | slashed | 大幅削减 |
+| 基础 | red tape | 繁文缛节 |
+| 基础 | weeded out | 清除、淘汰 |
+| 基础 | cohort | 一批（人） |
+| 基础 | spearheading | 带头、率先推动 |
+| 基础 | irked | 惹恼 |
+| 基础 | protégés | 门生、被提携者 |
+| 基础 | sidelined | 边缘化 |
+| 基础 | reversed | 逆转 |
+| 基础 | prospect | 前景、可能性 |
 
 ## 长难句专项
 

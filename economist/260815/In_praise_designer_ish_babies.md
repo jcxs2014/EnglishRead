@@ -763,44 +763,44 @@
 
 ## 词汇分级
 
-| 级别 | 词汇 | 词性 | 释义 | 例句出处 |
-|------|------|------|------|----------|
-| **基础** | transform | v. | 彻底改变 | Silicon Valley is now coming for birth |
-| **基础** | offer | v. | 提供 | startups offer screening services |
-| **基础** | allow | v. | 允许 | allow couples...to assess embryos |
-| **基础** | support | v. | 支持 | three-quarters of Americans support |
-| **基础** | worry | v. | 担心 | Some worry firms are pushing |
-| **基础** | raise | v. | 引发/提高 | raise difficult ethical questions |
-| **基础** | improve | v. | 改善 | scores will improve |
-| **基础** | apply | v. | 适用于 | this argument...applies to IVF |
-| **进阶** | spate | n. | 一批、大量 | A spate of startups offer |
-| **进阶** | venture | v. | 冒险进入 | Some venture further into |
-| **进阶** | dismayed | adj. | 沮丧的 | Critics are dismayed |
-| **进阶** | vulnerable | adj. | 脆弱的 | vulnerable couples |
-| **进阶** | immature | adj. | 不成熟的 | immature technology |
-| **进阶** | ultimately | adv. | 最终 | neither is ultimately convincing |
-| **进阶** | niche | adj. | 小众的 | the debate is a niche concern |
-| **进阶** | cater to | phr.v. | 迎合 | cater to the rich |
-| **进阶** | regulatory | adj. | 监管的 | where fertility is more regulated |
-| **进阶** | scrutiny | n. | 审查 | undergo independent scrutiny |
-| **进阶** | nascent | adj. | 新兴的 | a nascent business |
-| **进阶** | corrupt | v. | 腐蚀 | fertility tech corrupts |
-| **高级** | in-vitro fertilisation (IVF) | n. | 体外受精 | via in-vitro fertilisation |
-| **高级** | assess | v. | 评估 | assess embryos based on |
-| **高级** | kernels of truth | n.phr. | 真理的内核 | Both arguments contain kernels of truth |
-| **高级** | polygenic | adj. | 多基因的 | such "polygenic" prediction |
-| **高级** | near-certainty | n. | 近乎确定性 | testing offers near-certainty |
-| **高级** | binary | adj. | 二元的 | rather than a binary answer |
-| **高级** | ancestry | n. | 血统 | people with European ancestry |
-| **高级** | caveats | n. | 警告、注意事项 | Further caveats are in order |
-| **高级** | relative vs absolute | adj. | 相对的vs绝对的 | in relative terms but small in absolute ones |
-| **高级** | disclosure | n. | 信息披露 | an argument for disclosure |
-| **高级** | scupper | v. | 破坏、搞垮 | This will not scupper |
-| **高级** | snake oil | n.phr. | 假药、骗人的东西 | not selling snake oil |
-| **高级** | coerce | v. | 强制 | murderous coercion |
-| **高级** | eugenicist | n. | 优生学家 | this century's eugenicists |
-| **高级** | zealot | n. | 狂热分子 | only zealots want banned |
-| **高级** | stand in the way of | phr.v. | 阻碍 | should not stand in the way |
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | v. | 彻底改变 |
+| 基础 | v. | 提供 |
+| 基础 | v. | 允许 |
+| 基础 | v. | 支持 |
+| 基础 | v. | 担心 |
+| 基础 | v. | 引发/提高 |
+| 基础 | v. | 改善 |
+| 基础 | v. | 适用于 |
+| 进阶 | n. | 一批、大量 |
+| 进阶 | v. | 冒险进入 |
+| 进阶 | adj. | 沮丧的 |
+| 进阶 | adj. | 脆弱的 |
+| 进阶 | adj. | 不成熟的 |
+| 进阶 | adv. | 最终 |
+| 进阶 | adj. | 小众的 |
+| 进阶 | phr.v. | 迎合 |
+| 进阶 | adj. | 监管的 |
+| 进阶 | n. | 审查 |
+| 进阶 | adj. | 新兴的 |
+| 进阶 | v. | 腐蚀 |
+| 高级 | n. | 体外受精 |
+| 高级 | v. | 评估 |
+| 高级 | n.phr. | 真理的内核 |
+| 高级 | adj. | 多基因的 |
+| 高级 | n. | 近乎确定性 |
+| 高级 | adj. | 二元的 |
+| 高级 | n. | 血统 |
+| 高级 | n. | 警告、注意事项 |
+| 高级 | adj. | 相对的vs绝对的 |
+| 高级 | n. | 信息披露 |
+| 高级 | v. | 破坏、搞垮 |
+| 高级 | n.phr. | 假药、骗人的东西 |
+| 高级 | v. | 强制 |
+| 高级 | n. | 优生学家 |
+| 高级 | n. | 狂热分子 |
+| 高级 | phr.v. | 阻碍 |
 
 ## 长难句专项
 

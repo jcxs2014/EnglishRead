@@ -380,60 +380,50 @@
 
 **段落逻辑：** 设问（勤奋能否熬过成功）→ 影响全球（依赖中国劳动）→ 假设（若停止卷世界换方式）→ 结论（时代或终，遗产犹存）。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| work ethic | n. | 职业道德、勤奋观 | 原句 1 |
-| remark that | v. | 感叹说 | 原句 2 |
-| relentless | adj. | 不停歇的 | 原句 4 |
-| hustle | n. | 忙碌、拼搏 | 原句 4 |
-| clock an average of | 短语 | 平均达到 | 原句 6 |
-| counterparts | n. | 同行、对应者 | 原句 6 |
-| persisted | v. | 持续存在 | 原句 7 |
-| ageing | adj. | 老龄化的 | 原句 8 |
-| shrinking workforce | n. | 萎缩的劳动力 | 原句 8 |
-| devotion to | 短语 | 对……的执着 | 原句 9 |
-| diligence | n. | 勤勉 | 原句 10 |
-| model workers | n. | 劳动模范 | 原句 14 |
-| patriotic virtues | n. | 爱国美德 | 原句 14 |
-| involution | n. | 内卷 | 原句 15 |
-| gains | n. | 收益 | 原句 15 |
-| trap | n. | 陷阱 | 原句 16 |
-| linked to | 短语 | 与……有关 | 原句 18 |
-| contributing to | 短语 | 促成 | 原句 19 |
-| too exhausted to | 短语 | 累得无法 | 原句 20 |
-| survive | v. | 存续 | 原句 21 |
-| rely on | 短语 | 依赖 | 原句 22 |
-| outworking | v. | 比……更努力 | 原句 23 |
-| overnight | adv. | 一夜之间 | 原句 24 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- famous for their work ethic — 以勤奋闻名
-- running at double speed — 以双倍速度运转
-- relentless hustle — 不停歇的忙碌
-- clock an average of over 2,000 hours a year — 平均年工时超 2000 小时
-- a quarter more than their American counterparts — 比美国同行多四分之一
-- the 996 work schedule — 996 工作制
-- promotion and pay are tied to hours worked — 晋升薪酬与工时挂钩
-- talk of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德
-- work ever harder for ever smaller gains — 越努力收益越小
-- leave little time for family, rest or creativity — 给家庭休息创造留时极少
-- contribute to the falling birth rate — 促成出生率下降
-- the age of hustle may be ending — 拼命时代或终结
-
-### ⭐ 扩展词汇（了解即可）
-
-- escalators — 自动扶梯
-- takeaways — 外卖
-- traffic lights — 红绿灯
-- overwork — 过劳
-- demographers — 人口学家
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | n. | 职业道德、勤奋观 |
+| 基础 | v. | 感叹说 |
+| 基础 | adj. | 不停歇的 |
+| 基础 | n. | 忙碌、拼搏 |
+| 基础 | 短语 | 平均达到 |
+| 基础 | n. | 同行、对应者 |
+| 基础 | v. | 持续存在 |
+| 基础 | adj. | 老龄化的 |
+| 基础 | n. | 萎缩的劳动力 |
+| 基础 | 短语 | 对……的执着 |
+| 基础 | n. | 勤勉 |
+| 基础 | n. | 劳动模范 |
+| 基础 | n. | 爱国美德 |
+| 基础 | n. | 内卷 |
+| 基础 | n. | 收益 |
+| 基础 | n. | 陷阱 |
+| 基础 | 短语 | 与……有关 |
+| 基础 | 短语 | 促成 |
+| 基础 | 短语 | 累得无法 |
+| 基础 | v. | 存续 |
+| 基础 | 短语 | 依赖 |
+| 基础 | v. | 比……更努力 |
+| 基础 | adv. | 一夜之间 |
+| 进阶 | famous | for their work ethic — 以勤奋闻名 |
+| 进阶 | running | at double speed — 以双倍速度运转 |
+| 进阶 | relentless | hustle — 不停歇的忙碌 |
+| 进阶 | clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |
+| 进阶 | a | quarter more than their American counterparts — 比美国同行多四分之一 |
+| 进阶 | the | 996 work schedule — 996 工作制 |
+| 进阶 | promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |
+| 进阶 | talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |
+| 进阶 | work | ever harder for ever smaller gains — 越努力收益越小 |
+| 进阶 | leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |
+| 进阶 | contribute | to the falling birth rate — 促成出生率下降 |
+| 进阶 | the | age of hustle may be ending — 拼命时代或终结 |
+| 进阶 | escalators | — 自动扶梯 |
+| 进阶 | takeaways | — 外卖 |
+| 进阶 | traffic | lights — 红绿灯 |
+| 进阶 | overwork | — 过劳 |
+| 进阶 | demographers | — 人口学家 |
 
 ## 三、长难句专项
 
@@ -502,45 +492,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"工作文化比较"报道，词汇集中在：**勤奋与努力**（work ethic, hustle, diligence, outworking）；**制度与激励**（996, tied to hours, model workers, institutions）；**代价与后果**（overwork, linked to, contributing to, exhausted）；**文化概念**（involution, patriotic virtues, devotion to）。这组词是分析"国家工作文化"话题的工具包。
-
-### 表达方式
-
-1. **断言开场**：CHINA IS the only big economy ...——开篇给强断言。
-2. **感官细节排比**：escalators / takeaways / traffic lights——三细节具象"快"。
-3. **设问归因**：What explains China's devotion to hard work?——设问引出多层解释。
-4. **多归因递进**：Part of the answer is cultural ... But institutions matter too ... The state has reinforced——文化→制度→国家，层层深入。
-5. **概念命名**：the phenomenon known as "involution"——用"内卷"给现象命名。
-6. **悖论式设问收束**：survive its own success——用悖论收尾。
-
-### 语法要点
-
-- **whose 定语从句**：the only big economy whose citizens are famous——"唯一" + 佐证。
-- **比较短语并列**：a quarter more than ... and far more than ...——多重比较。
-- **even as 让步**：The gap has persisted even as ... have fallen。
-- **分词插入**：the 996 work schedule, once confined to tech firms, has spread。
-- **where 定语从句**：the phenomenon ... where people work ever harder——where 引导抽象地点。
-- **not just ... but**：matters not just for China but for the global economy——递进并列。
-- **too...to**：too exhausted to think——"太……而不能"。
-
-### 长难句
-
-最值得模仿的是"冒号解释结构"（原句 11）与"not just...but + which"（原句 22）——前者适合"论点：例子"，后者适合"从局部到整体"。
-
-### 写作技巧
-
-- **由印象到数据**：先写游客感受（double speed），再写 2000 小时数据——由感性到理性。
-- **三层归因**：文化/制度/国家——不把复杂现象归因于单一因素。
-- **代价清单**：健康/人口/创新——把代价结构化。
-- **避免绝对化**：Part of the answer ... / may be ending——用 Part of、may 保持审慎。
-
-### 可迁移表达
-
-- "X is famous for their work ethic" — 用于"以勤奋著称"。
-- "work ever harder for ever smaller gains" — 用于"内卷"现象。
-- "the phenomenon known as involution" — 用于"给现象命名"。
-- "will survive its own success" — 用于"成功反噬"悖论。
-- "not just for China but for the global economy" — 用于"影响外溢"。

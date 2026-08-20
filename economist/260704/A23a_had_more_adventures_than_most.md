@@ -836,104 +836,90 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `Nothing ... but` | 除了……什么也不 | nothing but | *Nothing remains but water.* |
-| `calved` | （冰）崩解出冰山 / （牛）产犊 | calve from / glacier calved | *The glacier calved a huge iceberg.* |
-| `siblings` | 兄弟姊妹 | two siblings | *The three siblings.* |
-| `eventful` | 多事的、充满变故的 | an eventful year/life | *An eventful history.* |
-| `tepid` | 微温的、不温不火的 | tepid water / a tepid response | *Died in the tepid South Atlantic.* |
-| `gape` | （裂口）张开 | gape open | *The cracks gaped wider.* |
-| `scarred` | 留有疤痕的 | a scarred surface | *A scarred landscape.* |
-| `vortex` | 涡旋、旋涡 | a vortex of water | *Seized by a vortex.* |
-| `took up` | 占据（面积） | take up space | *It took up 3,900 sq km.* |
-| `vantage point` | 视点、立场 | from a vantage point | *Depending on your vantage point.* |
-| `inexorably` | 不可阻挡地 | move inexorably | *Inexorably led that way.* |
-| `graveyard` | 墓地 | a graveyard for ships | *A graveyard for its kind.* |
-| `battered` | 饱经摧残的 | battered by storms | *Escaped more battered than ever.* |
-| `sprawled` | 蔓延铺展 | sprawl over | *The city sprawled.* |
-| `by accident` | 偶然地 | meet by accident | *Took it with it by accident.* |
-| `oozed` | 渗出 | ooze out | *Kerosene oozed down.* |
-| `obtrusive` | 显眼唐突的 | an obtrusive presence | *Less obtrusive visitors.* |
-| `no less` | 一点也不少 | no less important | *No less curious.* |
-| `chanced by` | 偶然路过 | chance upon/by | *The ship chanced by.* |
-| `vexed` | 刁难惹恼 | vexed by | *Vexed the researchers.* |
-| `put off` | 使打消念头 | not put off | *They were not put off.* |
-| `mortal` | 致命的 | mortal danger | *The mortal blue of melt-pools.* |
-| `dissolution` | 溶解、解体 | the dissolution of | *What would its dissolution mean?* |
-| `spilling out` | 倾泻而出 | spill out | *Fresh water spilling out.* |
-| `a host of` | 一大群 | a host of creatures | *A host of small creatures.* |
-| `sharp declines` | 急剧下降 | a sharp decline | *Suffered sharp declines.* |
-| `life-cycle` | 生命周期 | the life-cycle of | *Part of a polar life-cycle.* |
-| `prone to` | 易于 | be prone to | *Prone to scrape the sea bed.* |
-| `a bomb of` | 一颗……炸弹（喻） | a bomb of nourishment | *A bomb of nourishment.* |
-| `blooming` | 盛开的、藻华 | algal bloom | *A green cloud of blooming phytoplankton.* |
-| `fertilise` | 滋养、使肥沃 | fertilise the seas | *Fertilise the seas of the wider world.* |
-| `mixed feelings` | 复杂心情 | have mixed feelings | *Mixed feelings about its disappearance.* |
-| `an emblem of` | ……的象征 | an emblem of hope | *An emblem of the warming seas.* |
-| `mortality` | 必死性 | face mortality | *The fact of its mortality.* |
-| `against the odds` | 顶着不利条件 | against all odds | *Lasted against the odds.* |
-| `tributes were paid to` | 向……致敬 | pay tribute to | *Tributes were paid to how long it lasted.* |
-| `refused to die` | 拒绝死亡 | refuse to die | *As if it refused to die.* |
-| `its time had come` | 大限已到 | your time has come | *As if its time had come.* |
-| `inevitable` | 不可避免的 | inevitable consequence | *Death was inevitable.* |
-| `That is the way of ice` | 冰之道（母题句） | the way of the world | *That is the way of ice.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `runnels` | 细流（文学词） | runnels of its own blood |
-| `tinge` | 淡色调 | a bluer tinge |
-| `keel` | 龙骨 | its keel dragging on the seabed |
-| `dragging on` | 刮擦 | dragging on the seabed |
-| `towering` | 高耸的 | a towering, jagged monster |
-| `jagged` | 参差不齐的 | jagged monster |
-| `magnificence` | 宏伟 | Magnificence and majesty |
-| `majesty` | 庄严 | horizontal majesty |
-| `leavings` | 遗存 | the leavings of the glaciers |
-| `carved out` | 凿刻出 | carved out the Antarctic continent |
-| `anticlockwise` | 逆时针 | turned anticlockwise |
-| `cloisters` | 修道院回廊 | arches like cloisters |
-| `caverns` | 大洞穴 | caverns in which ships could disappear |
-| `cascades` | 瀑布、倾泻 | crashing cascades |
-| `crumbling` | 崩塌中的 | its own crumbling ice |
-| `prefab` | 预制板 | prefab buildings |
-| `kerosene` | 煤油 | rusty fuel tanks oozed kerosene |
-| `perimeter` | 周界 | along A23a's perimeter |
-| `radiometers` | 辐射计 | microwave radiometers |
-| `melt-pools` | 融水池 | the blue of its melt-pools |
-| `krill` | 磷虾 | krill and plankton |
-| `plankton` | 浮游生物 | krill and plankton |
-| `sea slugs` | 海蛞蝓 | sea slugs, coral, sponges |
-| `phytoplankton` | 浮游植物 | blooming phytoplankton |
-| `staining` | 染色 | staining the sea |
-| `breaking-up` | 解体 | the speed of its breaking-up |
-| `sank` | 沉没 | sank to the bottom |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Filchner Ice Shelf` | 菲尔希纳冰架 | calved from the Filchner Ice Shelf |
-| `Weddell Sea` | 韦德尔海 | the bottom of the Weddell Sea |
-| `Druzhnaya 1` | 友谊一号（苏联科考站） | took with it Druzhnaya 1 |
-| `South Georgia` | 南乔治亚岛 | towards South Georgia |
-| `Iceberg Alley` | 冰山大道（海域俗称） | the usual route, Iceberg Alley |
-| `Endurance` | 坚忍号（沙克尔顿的船） | the sea ice that had crushed Endurance |
-| `Ernest Shackleton` | 欧内斯特·沙克尔顿 | used in 1916 by Ernest Shackleton |
-| `Antarctic Circumpolar Current` | 南极绕极流 | entered the Antarctic Circumpolar Current |
-| `Taylor column` | 泰勒柱 | a Taylor column |
-| `RRS Sir David Attenborough` | 科考船名 | the research ship RRS Sir David Attenborough |
-| `Copernicus Sentinel-3` | 哥白尼哨兵三号 | the Copernicus Sentinel-3 instrument |
-| `NASA's Terra` | 美国宇航局泰拉卫星 | NASA's Terra satellite |
-| `drones` | 无人机 | more drones flew over |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | Nothing ... but | 除了……什么也不 |
+| 基础 | calved | （冰）崩解出冰山 / （牛）产犊 |
+| 基础 | siblings | 兄弟姊妹 |
+| 基础 | eventful | 多事的、充满变故的 |
+| 基础 | tepid | 微温的、不温不火的 |
+| 基础 | gape | （裂口）张开 |
+| 基础 | scarred | 留有疤痕的 |
+| 基础 | vortex | 涡旋、旋涡 |
+| 基础 | took up | 占据（面积） |
+| 基础 | vantage point | 视点、立场 |
+| 基础 | inexorably | 不可阻挡地 |
+| 基础 | graveyard | 墓地 |
+| 基础 | battered | 饱经摧残的 |
+| 基础 | sprawled | 蔓延铺展 |
+| 基础 | by accident | 偶然地 |
+| 基础 | oozed | 渗出 |
+| 基础 | obtrusive | 显眼唐突的 |
+| 基础 | no less | 一点也不少 |
+| 基础 | chanced by | 偶然路过 |
+| 基础 | vexed | 刁难惹恼 |
+| 基础 | put off | 使打消念头 |
+| 基础 | mortal | 致命的 |
+| 基础 | dissolution | 溶解、解体 |
+| 基础 | spilling out | 倾泻而出 |
+| 基础 | a host of | 一大群 |
+| 基础 | sharp declines | 急剧下降 |
+| 基础 | life-cycle | 生命周期 |
+| 基础 | prone to | 易于 |
+| 基础 | a bomb of | 一颗……炸弹（喻） |
+| 基础 | blooming | 盛开的、藻华 |
+| 基础 | fertilise | 滋养、使肥沃 |
+| 基础 | mixed feelings | 复杂心情 |
+| 基础 | an emblem of | ……的象征 |
+| 基础 | mortality | 必死性 |
+| 基础 | against the odds | 顶着不利条件 |
+| 基础 | tributes were paid to | 向……致敬 |
+| 基础 | refused to die | 拒绝死亡 |
+| 基础 | its time had come | 大限已到 |
+| 基础 | inevitable | 不可避免的 |
+| 基础 | That is the way of ice | 冰之道（母题句） |
+| 进阶 | `runnels` | 细流（文学词） |
+| 进阶 | tinge | 淡色调 |
+| 进阶 | keel | 龙骨 |
+| 进阶 | dragging on | 刮擦 |
+| 进阶 | towering | 高耸的 |
+| 进阶 | jagged | 参差不齐的 |
+| 进阶 | magnificence | 宏伟 |
+| 进阶 | majesty | 庄严 |
+| 进阶 | leavings | 遗存 |
+| 进阶 | carved out | 凿刻出 |
+| 进阶 | anticlockwise | 逆时针 |
+| 进阶 | cloisters | 修道院回廊 |
+| 进阶 | caverns | 大洞穴 |
+| 进阶 | cascades | 瀑布、倾泻 |
+| 进阶 | crumbling | 崩塌中的 |
+| 进阶 | prefab | 预制板 |
+| 进阶 | kerosene | 煤油 |
+| 进阶 | perimeter | 周界 |
+| 进阶 | radiometers | 辐射计 |
+| 进阶 | melt-pools | 融水池 |
+| 进阶 | krill | 磷虾 |
+| 进阶 | plankton | 浮游生物 |
+| 进阶 | sea slugs | 海蛞蝓 |
+| 进阶 | phytoplankton | 浮游植物 |
+| 进阶 | staining | 染色 |
+| 进阶 | breaking-up | 解体 |
+| 进阶 | sank | 沉没 |
+| 高级 | Filchner Ice Shelf | 菲尔希纳冰架 |
+| 高级 | Weddell Sea | 韦德尔海 |
+| 高级 | Druzhnaya 1 | 友谊一号（苏联科考站） |
+| 高级 | South Georgia | 南乔治亚岛 |
+| 高级 | Iceberg Alley | 冰山大道（海域俗称） |
+| 高级 | Endurance | 坚忍号（沙克尔顿的船） |
+| 高级 | Ernest Shackleton | 欧内斯特·沙克尔顿 |
+| 高级 | Antarctic Circumpolar Current | 南极绕极流 |
+| 高级 | Taylor column | 泰勒柱 |
+| 高级 | RRS Sir David Attenborough | 科考船名 |
+| 高级 | Copernicus Sentinel-3 | 哥白尼哨兵三号 |
+| 高级 | NASA's Terra | 美国宇航局泰拉卫星 |
+| 高级 | drones | 无人机 |
 
 ## 四、长难句专项
 
@@ -990,82 +976,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vantage point、inexorably、graveyard、battered、sprawled、by accident、oozed、obtrusive、chanced by、vexed、mortal、dissolution、a host of、life-cycle、prone to、a bomb of、blooming、fertilise、mixed feelings、emblem、mortality、against the odds、tributes、inevitable、the way of ice、Nothing...but、sank
-
-### 2. 本文核心表达
-
-1. `That is the way of ice` — 冰之道（母题句，首尾呼应）
-2. `Nothing would remain but water` — 除了水什么都不留
-3. `calved ... along with two siblings` — 与两个同胞一起崩解（拟人化出生）
-4. `born ancient` — 一出生便已古老（矛盾修辞）
-5. `huge as they were` — 虽然它们如此庞大（倒装让步）
-6. `It was not until it began to wobble ... that` — 直到……才（强调句）
-7. `a graveyard for its kind` — 它同类的墓地
-8. `Iceberg Alley ... used in 1916 by Ernest Shackleton` — 冰山大道（历史典故）
-9. `took its time` — 不紧不慢
-10. `its immense mass was turned through 15 degrees` — 庞大的躯体被旋转 15 度
-11. `crashing cascades of its own crumbling ice` — 自己崩解的冰的飞泻瀑布（头韵）
-12. `chanced by, not especially meaning to` — 无意间路过
-13. `as if it was a hospital patient` — 仿佛住院病人
-14. `the intense and mortal blue of its melt-pools` — 融水池浓烈而致命的蓝
-15. `like a tooth` — 像一颗牙
-16. `On the one hand ... On the other hand` — 一方面……另一方面
-17. `a bomb of nourishment exploding` — 一颗营养炸弹引爆
-18. `Far from depriving ... bring life to` — 非但不剥夺……反而带来生命
-19. `Tributes were paid to how long it had lasted, against the odds` — 向它逆境中坚持致敬
-20. `Ice returned to water, water to the ocean` — 冰回水，水归海（并列省略）
-21. `its time had come` — 大限已到（委婉语）
-
-### 3. 重要语法
-
-- **倒装让步**：`huge as they were`（形容词 + as + 主 + be）
-- **强调句**：`It was not until ... that ...`；`It was not X that ... as much as Y`
-- **so...that 结果从句**：三连 so 排比 + that
-- **并列省略**：`Ice returned to water, water to the ocean`
-- **头韵**（alliteration）：`crashing cascades ... crumbling`
-- **矛盾修辞**（oxymoron）：`born ancient`
-- **比喻**（metaphor）：`a bomb of nourishment`、`like a tooth`
-- **拟人**（personification）：refused to die、its time had come、vexed researchers
-- **母题句首尾呼应**（bookend motif）：`That is the way of ice`
-- **for 作书面连词**：`for death was inevitable`
-
-### 4. 长难句
-
-- 原句 16：`huge as they were`（倒装让步）
-- 原句 22：同位语插入 + 分词 + 定语从句层层嵌套
-- 原句 50：三连 so 排比 + 结果从句
-- 原句 56：强调句 not...as much as + 省略 that 定语从句
-- 原句 19：It was not until...that... 强调句
-
-### 5. 写作技巧
-
-1. **讣告体的拟人化**：全文把冰山当"逝者"写——calve（产仔出生）、siblings（同胞）、born ancient（生而老）、took its time（从容）、refused to die（拒绝死亡）、its time had come（大限已到）、Tributes were paid（致敬）。通过将自然物"人格化"，讣告体创造情感代入，让读者对一座冰山产生哀悼之情
-2. **母题句首尾呼应**：`That is the way of ice` 在第 1 段和第 10 段原样复现（bookend technique），将全文框定为"冰的生命循环"，死亡观从开场即确立
-3. **文学修辞密度**：头韵（crashing cascades... crumbling）、矛盾修辞（born ancient）、比喻（bomb of nourishment、like a tooth）、双关（calve 产犊/崩解）——一篇科普讣告的文学性远超寻常新闻
-4. **数据与意象交织**：面积、重量、每日 15 度、30 年、40 米——精确数据（verifiable specifics）与诗意意象（mortal blue、blood runnels）交替出现，让文章既有科学质感又有文学余韵
-5. **论证的两面性**：用 On the one hand / On the other hand 结构呈现"危害论 vs 馈赠论"，不回避争议，最后以"死亡是自然循环"的超脱视角收束——讣告的哲学立场
-6. **历史掌故的嵌入**：沙克尔顿与坚忍号（1916）、苏联科考站 Druzhnaya 1、NASA 卫星——用人类历史与科技为一座冰山的"一生"作注，扩大时间与空间尺度
-7. **感官与声音**：用文字唤起听觉（crashing cascades）、视觉（bluer tinge、green cloud）、色彩对比（rusty tanks vs pure white cliffs）——全感官写作
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `Nothing ... but ...` | 强调"仅剩" | Nothing remains but the essentials. |
-| `That is the way of X` | 哲理性总结 | That is the way of the markets. |
-| `huge as they were` | 书面让步 | Talented as she is, she stays humble. |
-| `It was not until ... that` | 强调转折点 | It was not until 2019 that the plan began. |
-| `against the odds` | 逆境成功 | The team won against the odds. |
-| `took its time` | 从容不迫 | She took her time making the decision. |
-| `a host of` | 众多 | A host of challenges await. |
-| `prone to` | 易于倾向 | He is prone to exaggeration. |
-| `a bomb of ...` | 强冲击比喻 | A bomb of ideas exploded in the meeting. |
-| `far from depriving ... bring` | 反转论证 | Far from complicating things, it simplified them. |
-| `mixed feelings` | 复杂情绪 | I have mixed feelings about the move. |
-| `an emblem of` | 象征意义 | The tower is an emblem of the city's rebirth. |
-| `not X as much as Y` | 轻重对比 | It's not the cost as much as the timing. |
-| `Tributes were paid to` | 致敬总结 | Tributes were paid to her lifelong work. |
-| `in X terms` | 换尺度衡量 | In financial terms, it was a loss. |

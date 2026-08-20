@@ -589,127 +589,113 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `responsible for` | 对……负责 | responsible for actions | *Held responsible for the damage.* |
-| `depends on` | 取决于 | depend on | *The sentence depends on age.* |
-| `Given how` | 鉴于如何 | given how | *Given how hard it is.* |
-| `character develops` | 性格发展 | character | *Character develops over time.* |
-| `hold ... to be` | 认定 | hold sb to be | *Held to be responsible.* |
-| `heinous` | 令人发指的 | heinous crimes | *A heinous murder.* |
-| `In the eyes of the law` | 法律眼中 | in the eyes of | *In the eyes of the law.* |
-| `grasp the consequences` | 理解后果 | grasp | *Can't grasp the consequences.* |
-| `reckoned to be` | 被认为 | reckon | *Reckoned to be the best.* |
-| `doli incapax` | 无作恶能力 | doli incapax | *The doli incapax doctrine.* |
-| `incapable of` | 无能力 | incapable of | *Incapable of evil.* |
-| `raises a question` | 引出问题 | raise a question | *This raises a question.* |
-| `old enough to count` | 大到作数 | count | *Every vote counts.* |
-| `in wildly different ways` | 迥异方式 | wildly | *Vary wildly.* |
-| `wrestle with` | 苦思 | wrestle with | *Wrestling with the problem.* |
-| `criminal responsibility` | 刑事责任 | age of responsibility | *The age of criminal responsibility.* |
-| `regrettably` | 遗憾地 | regrettably | *Regrettably, we must cancel.* |
-| `lawmakers` | 立法者 | lawmakers | *Lawmakers voted.* |
-| `pushing ... downwards` | 往下压 | push down | *Pushing prices down.* |
-| `lowered ... from ... to` | 降低 | lower | *Lowered the age from 16 to 14.* |
-| `scourge` | 祸害 | a scourge | *The scourge of gangs.* |
-| `blocked a motion` | 否决动议 | block | *Blocked the motion.* |
-| `the joint-lowest` | 并列最低 | joint | *Joint-lowest in Europe.* |
-| `well-publicised` | 广为人知 | publicise | *A well-publicised scandal.* |
-| `horrified` | 吓坏 | be horrified | *Horrified by the news.* |
-| `stabbed` | 捅刺 | stab | *Stabbed in the chest.* |
-| `shot and killed` | 枪杀 | shoot dead | *Shot and killed a man.* |
-| `campaigning to be` | 竞选 | campaign | *Campaigning for president.* |
-| `recruit` | 招募 | recruit | *Recruited by gangs.* |
-| `foot soldiers` | 马仔 | foot soldiers | *Gang foot soldiers.* |
-| `pliable` | 易摆布 | pliable | *Pliable and easily led.* |
-| `impulse-control` | 冲动控制 | impulse | *Poor impulse control.* |
-| `possess` | 拥有 | possess | *Possess the skills.* |
-| `Neuroscientists` | 神经科学家 | neuroscience | *Neuroscientists warn.* |
-| `well into` | 深入 | well into | *Well into the night.* |
-| `enticed into` | 诱入 | entice | *Enticed into crime.* |
-| `the promise of quick money` | 快钱承诺 | the promise of | *The promise of riches.* |
-| `calculate` | 盘算 | calculate | *Calculated the risks.* |
-| `dodge punishment` | 逃避惩罚 | dodge | *Dodged justice.* |
-| `if caught` | 若被抓 | catch | *If caught, confess.* |
-| `drug-dealers` | 毒贩 | deal drugs | *Drug dealers.* |
-| `precisely because` | 恰恰因为 | precisely | *Precisely because it's risky.* |
-| `under-age` | 未成年 | under-age | *Under-age drinking.* |
-| `criminalise` | 定罪 | criminalise | *Criminalise the act.* |
-| `ever younger` | 越来越小 | ever | *Ever younger kids.* |
-| `remove an incentive for` | 消除动机 | incentive | *Removed the incentive.* |
-| `should reconsider` | 应重想 | reconsider | *Reconsider the decision.* |
-| `if only because` | 仅仅因为 | if only | *If only because it's cheaper.* |
-| `unjust` | 不公正 | unjust | *An unjust law.* |
-| `the low teens` | 十三四岁 | teens | *Children in the low teens.* |
-| `heed` | 重视 | heed | *Heed the advice.* |
-| `Experience suggests` | 经验表明 | experience | *Experience suggests otherwise.* |
-| `crime rates rose` | 犯罪率上升 | crime rate | *Rates rose.* |
-| `reversed course` | 掉头 | reverse course | *Reversed course.* |
-| `Prosecuting` | 起诉 | prosecute | *Prosecuted for theft.* |
-| `hardened villains` | 铁杆罪犯 | hardened | *Hardened criminals.* |
-| `emerge from` | 走出 | emerge | *Emerged from prison.* |
-| `counted as` | 被算作 | count as | *Counted as adults.* |
-| `released from prison` | 获释 | release | *Released on bail.* |
-| `reoffend` | 再犯 | reoffend | *Reoffending rates.* |
-| `rehabilitation` | 改造 | rehabilitation | *Rehabilitation programmes.* |
-| `securing ... away from` | 隔离 | secure | *Secured away from society.* |
-| `wrongdoers` | 犯罪者 | wrongdoer | *Young wrongdoers.* |
-| `rather than punishing` | 与其惩罚 | rather than | *Rather than punish.* |
-| `tackle` | 解决 | tackle | *Tackle the problem.* |
-| `drew them into` | 卷入 | draw into | *Drawn into gangs.* |
-| `criminality` | 犯罪（状态） | criminality | *Driven to criminality.* |
-| `the youth-justice system` | 少年司法 | youth justice | *The youth-justice system.* |
-| `learning difficulties` | 学习障碍 | learning | *Children with learning difficulties.* |
-| `mentors` | 导师 | mentor | *Assign a mentor.* |
-| `investigated for` | 因……被查 | investigate | *Investigated for the crime.* |
-| `flagged to` | 标记报告 | flag | *Flagged to authorities.* |
-| `worrying behaviour` | 担忧行为 | worrying | *Worrying signs.* |
-| `wrongdoing` | 恶行 | wrongdoing | *Allegations of wrongdoing.* |
-| `severe criminal penalties` | 严厉刑罚 | severe | *Severe penalties.* |
-| `exploit the young` | 剥削年轻人 | exploit | *Exploiting children.* |
-| `create better childhoods` | 更好童年 | childhood | *Better childhoods.* |
-| `prevent ... from becoming` | 防止变成 | prevent | *Prevent them from reoffending.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `judge` | 判断 | judge whether |
-| `the least mature` | 最不成熟者 | the least mature |
-| `defining` | 界定 | defining the age |
-| `the Maldives` | 马尔代夫 | from the Maldives |
-| `South Korea` | 韩国 | to South Korea |
-| `voters` | 选民 | voters angry |
-| `dramatic` | 轰动性的 | dramatic crimes |
-| `the mid-20s` | 25 岁左右 | into the mid-20s |
-| `teens` | 十几岁 | teens are enticed |
-| `authorities` | 当局 | authorities may hope |
-| `Denmark` | 丹麦 | When Denmark took it |
-| `Queensland` | 昆士兰 | In Queensland |
-| `Australia` | 澳大利亚 | Queensland, Australia |
-| `prison` | 监狱 | released from prison |
-| `society` | 社会 | wider society |
-| `social problems` | 社会问题 | social problems early |
-| `social services` | 社会服务 | flagged to social services |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `doli incapax` | 无作恶能力（拉丁） | reckoned to be doli incapax |
-| `Argentina` | 阿根廷 | Argentina lowered its age |
-| `Northern Ireland` | 北爱尔兰 | Northern Ireland blocked |
-| `Colombia` | 哥伦比亚 | In Colombia |
-| `Indonesia` | 印度尼西亚 | Indonesians were horrified |
-| `Sweden` | 瑞典 | a scourge in Sweden |
-| `Britain` | 英国 | In Britain |
-| `the age of 12` | 12 岁 | before the age of 12 |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | responsible for | 对……负责 |
+| 基础 | depends on | 取决于 |
+| 基础 | Given how | 鉴于如何 |
+| 基础 | character develops | 性格发展 |
+| 基础 | hold ... to be | 认定 |
+| 基础 | heinous | 令人发指的 |
+| 基础 | In the eyes of the law | 法律眼中 |
+| 基础 | grasp the consequences | 理解后果 |
+| 基础 | reckoned to be | 被认为 |
+| 基础 | doli incapax | 无作恶能力 |
+| 基础 | incapable of | 无能力 |
+| 基础 | raises a question | 引出问题 |
+| 基础 | old enough to count | 大到作数 |
+| 基础 | in wildly different ways | 迥异方式 |
+| 基础 | wrestle with | 苦思 |
+| 基础 | criminal responsibility | 刑事责任 |
+| 基础 | regrettably | 遗憾地 |
+| 基础 | lawmakers | 立法者 |
+| 基础 | pushing ... downwards | 往下压 |
+| 基础 | lowered ... from ... to | 降低 |
+| 基础 | scourge | 祸害 |
+| 基础 | blocked a motion | 否决动议 |
+| 基础 | the joint-lowest | 并列最低 |
+| 基础 | well-publicised | 广为人知 |
+| 基础 | horrified | 吓坏 |
+| 基础 | stabbed | 捅刺 |
+| 基础 | shot and killed | 枪杀 |
+| 基础 | campaigning to be | 竞选 |
+| 基础 | recruit | 招募 |
+| 基础 | foot soldiers | 马仔 |
+| 基础 | pliable | 易摆布 |
+| 基础 | impulse-control | 冲动控制 |
+| 基础 | possess | 拥有 |
+| 基础 | Neuroscientists | 神经科学家 |
+| 基础 | well into | 深入 |
+| 基础 | enticed into | 诱入 |
+| 基础 | the promise of quick money | 快钱承诺 |
+| 基础 | calculate | 盘算 |
+| 基础 | dodge punishment | 逃避惩罚 |
+| 基础 | if caught | 若被抓 |
+| 基础 | drug-dealers | 毒贩 |
+| 基础 | precisely because | 恰恰因为 |
+| 基础 | under-age | 未成年 |
+| 基础 | criminalise | 定罪 |
+| 基础 | ever younger | 越来越小 |
+| 基础 | remove an incentive for | 消除动机 |
+| 基础 | should reconsider | 应重想 |
+| 基础 | if only because | 仅仅因为 |
+| 基础 | unjust | 不公正 |
+| 基础 | the low teens | 十三四岁 |
+| 基础 | heed | 重视 |
+| 基础 | Experience suggests | 经验表明 |
+| 基础 | crime rates rose | 犯罪率上升 |
+| 基础 | reversed course | 掉头 |
+| 基础 | Prosecuting | 起诉 |
+| 基础 | hardened villains | 铁杆罪犯 |
+| 基础 | emerge from | 走出 |
+| 基础 | counted as | 被算作 |
+| 基础 | released from prison | 获释 |
+| 基础 | reoffend | 再犯 |
+| 基础 | rehabilitation | 改造 |
+| 基础 | securing ... away from | 隔离 |
+| 基础 | wrongdoers | 犯罪者 |
+| 基础 | rather than punishing | 与其惩罚 |
+| 基础 | tackle | 解决 |
+| 基础 | drew them into | 卷入 |
+| 基础 | criminality | 犯罪（状态） |
+| 基础 | the youth-justice system | 少年司法 |
+| 基础 | learning difficulties | 学习障碍 |
+| 基础 | mentors | 导师 |
+| 基础 | investigated for | 因……被查 |
+| 基础 | flagged to | 标记报告 |
+| 基础 | worrying behaviour | 担忧行为 |
+| 基础 | wrongdoing | 恶行 |
+| 基础 | severe criminal penalties | 严厉刑罚 |
+| 基础 | exploit the young | 剥削年轻人 |
+| 基础 | create better childhoods | 更好童年 |
+| 基础 | prevent ... from becoming | 防止变成 |
+| 进阶 | judge | 判断 |
+| 进阶 | the least mature | 最不成熟者 |
+| 进阶 | defining | 界定 |
+| 进阶 | the Maldives | 马尔代夫 |
+| 进阶 | South Korea | 韩国 |
+| 进阶 | voters | 选民 |
+| 进阶 | dramatic | 轰动性的 |
+| 进阶 | the mid-20s | 25 岁左右 |
+| 进阶 | teens | 十几岁 |
+| 进阶 | authorities | 当局 |
+| 进阶 | Denmark | 丹麦 |
+| 进阶 | Queensland | 昆士兰 |
+| 进阶 | Australia | 澳大利亚 |
+| 进阶 | prison | 监狱 |
+| 进阶 | society | 社会 |
+| 进阶 | social problems | 社会问题 |
+| 进阶 | social services | 社会服务 |
+| 高级 | doli incapax | 无作恶能力（拉丁） |
+| 高级 | Argentina | 阿根廷 |
+| 高级 | Northern Ireland | 北爱尔兰 |
+| 高级 | Colombia | 哥伦比亚 |
+| 高级 | Indonesia | 印度尼西亚 |
+| 高级 | Sweden | 瑞典 |
+| 高级 | Britain | 英国 |
+| 高级 | the age of 12 | 12 岁 |
 
 ## 长难句专项
 
@@ -766,87 +752,3 @@
 ---
 
 ## 精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-responsible for、Given how、heinous、grasp the consequences、reckoned to be、doli incapax、incapable of、wrestle with、criminal responsibility、regrettably、lawmakers、pushing ... downwards、scourge、blocked a motion、joint-lowest、well-publicised、horrified、stabbed、campaigning、recruit、foot soldiers、pliable、impulse-control、Neuroscientists、well into、enticed into、the promise of quick money、calculate、dodge punishment、precisely because、under-age、criminalise、ever younger、remove an incentive for、should reconsider、if only because、unjust、the low teens、heed、crime rates rose、reversed course、Prosecuting、hardened villains、emerge from、released from prison、reoffend、rehabilitation、securing ... away from、wrongdoers、rather than punishing、tackle、drew them into、criminality、youth-justice system、learning difficulties、mentors、investigated for、flagged to、worrying behaviour、wrongdoing、severe criminal penalties、exploit the young、create better childhoods、prevent ... from becoming
-
-### 2. 本文核心表达
-
-1. `HOW DO YOU judge whether ...` — 开篇设问
-2. `Given how slowly human character develops` — 鉴于发展之慢
-3. `In the eyes of the law` — 法律眼中
-4. `are reckoned to be doli incapax—incapable of evil` — 被认为无作恶能力
-5. `how old is old enough to count?` — 多大才算作数
-6. `wrestle with the task of defining` — 苦思界定
-7. `pushing it downwards` — 往下压（降龄）
-8. `the joint-lowest in Europe` — 欧洲并列最低
-9. `and you can understand why` — 你能理解为什么
-10. `use children to attack properties or people` — 用儿童犯罪
-11. `cheap and pliable` — 廉价易摆布
-12. `the brain keeps developing well into adulthood` — 大脑发育到成年后
-13. `the promise of quick money` — 快钱承诺
-14. `dodge punishment if caught` — 被抓也免刑
-15. `precisely because they are under-age` — 恰恰因未成年
-16. `criminalise the acts of ever younger people` — 给越来越小者定罪
-17. `if only because ... is unjust` — 只因不公
-18. `Experience suggests that ... will not work` — 经验表明无效
-19. `reversed course` — 掉头
-20. `emerged ... as hardened villains` — 变成铁杆罪犯
-21. `It is wiser to try rehabilitation` — 改造更明智
-22. `tackle the ... factors that first drew them into criminality` — 治本
-23. `flagged to social services for worrying behaviour` — 早期预警标记
-24. `prevent criminal children from becoming criminal adults` — 防儿童变惯犯
-
-### 3. 重要语法
-
-- **疑问句 + whether 宾语从句**：`judge whether children are responsible`
-- **主语-谓语分隔（长定语）**：`the least mature, who cannot grasp the consequences of what they do, are reckoned to be ...`
-- **动名词作主语**：`lowering the age of responsibility is unjust` / `Prosecuting young children ... is also a way`
-- **if only because 结构**：`They should reconsider, if only because ...`
-- **非限制性定语从句指代全句**：`which may be why so much crime is committed`
-- **嵌套定语从句**：`half of all kids who are investigated ... were flagged ...`
-- **省略条件句**：`if caught`（= if they are caught）
-- **被动语态反复**：`are reckoned to be` / `are counted as` / `were flagged to` / `is committed by`
-- **It 形式主语**：`It is wiser to try rehabilitation`
-- **rather than + 动名词**：`rather than punishing them`
-- **Precisely because 强调**：`precisely because they are under-age`
-
-### 4. 长难句
-
-- 原句 4（主语 + who 定语从句 + 破折号解释）
-- 原句 19（that 宾语从句 + which 定语从句指代全句）
-- 原句 25（if only because + 破折号 + if 从句）
-- 原句 32（where 定语从句 + who 定语从句嵌套）
-- 原句 39（who 定语从句 + 被动 + 多层状语）
-
-### 5. 写作技巧
-
-1. **设问开篇 + 术语点睛**：标题"谁有能力行恶？"→ 首段末用拉丁术语 doli incapax（无作恶能力）作答——用古老的罗马法概念回应现代问题，标题即全篇主旨
-2. **"道德论 + 实用论"双轨论证**：`Even if you disagree with the moral argument, you should heed the practical one`——先给道德论证（不公），再给实用论证（无效），后者用实证（丹麦犯罪率升、昆士兰 96% 再犯）堵死反驳，结构严谨
-3. **先共情后反驳**：`Politicians are listening to voters angry ... and you can understand why`——先承认公众愤怒合理（12 岁杀母、15 岁杀参议员），再指出"理解愤怒 ≠ 支持降龄"，避免说教感
-4. **科学 + 数据双支撑**：神经科学（大脑发育到 20 多岁）支撑"不成熟"，昆士兰 96% 再犯率、英国 1/5 学习障碍、瑞典半数早期预警——每条对策都配一组数据
-5. **黑帮的"理性计算"视角**：`Criminals also calculate that the youngest may dodge punishment if caught`——从罪犯的算盘（cheap/pliable/免刑）解释"为什么降龄是无效解"（黑帮会改招更小的）——用博弈逻辑而非道德说理
-6. **反例证伪**：丹麦（降龄→犯罪率升→掉头）、昆士兰（10 岁刑责→96% 再犯）、北爱尔兰（阻止 10→14 提高）——三个反例覆盖"降龄有害"的三种路径
-7. **首尾对仗收束**：`prevent criminal children from becoming criminal adults`——"犯罪的儿童不再变成犯罪的成人"，criminal children / criminal adults 的同词对仗，一句完成"改造目标"的总结
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `Given how` | 前提论证 | Given how fast things change, plan ahead. |
-| `In the eyes of the law` | 法律/规范 | In the eyes of the law, intent matters. |
-| `reckoned to be` | 评价 | Reckoned to be the leading expert. |
-| `wrestle with` | 难题 | The team wrestled with the design. |
-| `pushing ... downwards` | 降低 | Pressure is pushing prices downwards. |
-| `and you can understand why` | 共情 | It's popular, and you can understand why. |
-| `the promise of quick money` | 诱因 | The promise of quick money lures people. |
-| `precisely because` | 强调因果 | We chose it precisely because it's simple. |
-| `if only because` | 最低理由 | Keep it, if only because it's cheap. |
-| `Experience suggests that` | 经验论 | Experience suggests this works. |
-| `reversed course` | 改弦更张 | The company reversed course. |
-| `emerge from ... as` | 结果 | Emerged from the crisis stronger. |
-| `It is wiser to` | 建议 | It is wiser to wait. |
-| `tackle the root causes` | 治本 | Tackle the root causes, not symptoms. |
-| `flagged as at risk` | 预警 | At-risk students were flagged early. |
-| `prevent ... from becoming` | 预防 | Prevent small issues from becoming crises. |

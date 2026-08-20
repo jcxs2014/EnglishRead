@@ -499,85 +499,82 @@
 
 段落逻辑总览：全文走"惨状呈现 → 困境剖析 → 转机论证 → 行动处方 → 呼吁收束"的五段式社论结构。P3 是逻辑枢纽（成本-利益机制），P7 是情绪转折点（Now），P8 是论证反转点（"扩大问题"格言），P12-13 是行动落地。
 
-## 四、词汇分级
+## 词汇分级
 
-**基础词汇**（四六级内）：
-- ruined /ˈruːɪnd/ adj. 被毁坏的
-- deserted /dɪˈzɜːtɪd/ adj. 荒废的、无人的
-- silent /ˈsaɪlənt/ adj. 寂静的
-- erupt /ɪˈrʌpt/ v. （战争、冲突）爆发
-- bustling /ˈbʌslɪŋ/ adj. 熙熙攘攘的
-- famine /ˈfæmɪn/ n. 饥荒
-- indifference /ɪnˈdɪfrəns/ n. 漠不关心
-- neglect /nɪˈɡlekt/ v. 忽视
-- deny /dɪˈnaɪ/ v. 否认
-- empire /ˈempaɪə(r)/ n. 帝国
-- ambition /æmˈbɪʃn/ n. 野心
-- hence /hens/ adv. 因此
-- priority /praɪˈɒrəti/ n. 优先事项
-- chaos /ˈkeɪɒs/ n. 混乱
-- capture /ˈkæptʃə(r)/ v. 攻占
-- urge /ɜːdʒ/ v. 敦促
-- delay /dɪˈleɪ/ v. 拖延
-
-**进阶词汇**（考研/GRE 以上，常见于新闻评论）：
-- devastation /ˌdevəˈsteɪʃn/ n. 破坏、蹂躏
-- husk /hʌsk/ n. 外壳、空壳
-- charred /tʃɑːd/ adj. 烧焦的
-- makeshift /ˈmeɪkʃɪft/ adj. 临时凑合的
-- swathe /sweɪð/ n. 大片（土地）
-- genocidal /ˌdʒenəˈsaɪdl/ adj. 种族灭绝的
-- comparable /ˈkɒmpərəbl/ adj. 可比较的
-- geopolitically /ˌdʒiːəʊˈpɒlɪtɪkli/ adv. 从地缘政治角度看
-- reignite /ˌriːɪɡˈnaɪt/ v. 重新点燃
-- callous /ˈkæləs/ adj. 冷酷无情的
-- overlap /ˌəʊvəˈlæp/ v. 重叠
-- prosecute /ˈprɒsɪkjuːt/ v. 进行（战争）
-- belligerent /bəˈlɪdʒərənt/ n. 交战方
-- de facto /ˌdeɪ ˈfæktəʊ/ adj. 事实上的
-- militia /məˈlɪʃə/ n. 民兵
-- proxy war 代理人战争
-- vie /vaɪ/ v. 争夺
-- mercenary /ˈmɜːsənəri/ n. 雇佣兵
-- strenuously /ˈstrenjuəsli/ adv. 极力地
-- bankroll /ˈbæŋkrəʊl/ v. 出资
-- overwhelming /ˌəʊvəˈwelmɪŋ/ adj. 压倒性的
-- periodically /ˌpɪəriˈɒdɪkli/ adv. 时不时地
-- spoils /spɔɪlz/ n. 战利品、掠夺物
-- vanquish /ˈvæŋkwɪʃ/ v. 彻底击败
-- vow /vaʊ/ v. 发誓
-- resigned (to) /rɪˈzaɪnd/ adj. 认命的
-- dampen /ˈdæmpən/ v. 抑制
-- rivalry /ˈraɪvəlri/ n. 对抗
-- foe /fəʊ/ n. 敌人
-- supposedly /səˈpəʊzɪdli/ adv. 据称
-- underline /ˌʌndəˈlaɪn/ v. 凸显
-- revive /rɪˈvaɪv/ v. 重新唤起
-- breakthrough /ˈbreɪkθruː/ n. 突破
-- telling /ˈtelɪŋ/ adj. 能说明问题的
-- hub /hʌb/ n. 枢纽
-- retake /ˌriːˈteɪk/ v. 收复
-- comprise /kəmˈpraɪz/ v. 包含
-- stake /steɪk/ n. 利害关系
-- perpetuate /pəˈpetʃueɪt/ v. 使永久化
-- fragmentation /ˌfræɡmenˈteɪʃn/ n. 碎片化
-- lull /lʌl/ n. 间歇
-- static /ˈstætɪk/ adj. 静止的
-- disarm /dɪsˈɑːm/ v. 解除武装
-- demobilise /diːˈməʊbəlaɪz/ v. 复员
-- professed /prəˈfest/ adj. 公开宣称的
-- trajectory /trəˈdʒektəri/ n. 轨迹
-- instability /ˌɪnstəˈbɪləti/ n. 动荡
-
-**高级词汇**（报刊书面语、高频写作素材）：
-- albeit /ˌɔːlˈbiːɪt/ conj. 尽管（书面让步）
-- zero-sum /ˌzɪərəʊ ˈsʌm/ adj. 零和的（博弈论术语）
-- deep-pocketed /ˌdiːp ˈpɒkɪtɪd/ adj. 财力雄厚的
-- overstretched /ˌəʊvəˈstretʃt/ adj. 分身乏术的
-- war economy 战争经济（政治学概念）
-- last best chance 最后最好的机会（政治修辞）
-- the Strait of Hormuz 霍尔木兹海峡
-- Bab al-Mandab 曼德海峡
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | ruined | adj. 被毁坏的 |
+| 基础 | deserted | adj. 荒废的、无人的 |
+| 基础 | silent | adj. 寂静的 |
+| 基础 | erupt | v. （战争、冲突）爆发 |
+| 基础 | bustling | adj. 熙熙攘攘的 |
+| 基础 | famine | n. 饥荒 |
+| 基础 | indifference | n. 漠不关心 |
+| 基础 | neglect | v. 忽视 |
+| 基础 | deny | v. 否认 |
+| 基础 | empire | n. 帝国 |
+| 基础 | ambition | n. 野心 |
+| 基础 | hence | adv. 因此 |
+| 基础 | priority | n. 优先事项 |
+| 基础 | chaos | n. 混乱 |
+| 基础 | capture | v. 攻占 |
+| 基础 | urge | v. 敦促 |
+| 基础 | delay | v. 拖延 |
+| 基础 | devastation | n. 破坏、蹂躏 |
+| 基础 | husk | n. 外壳、空壳 |
+| 基础 | charred | adj. 烧焦的 |
+| 基础 | makeshift | adj. 临时凑合的 |
+| 基础 | swathe | n. 大片（土地） |
+| 基础 | genocidal | adj. 种族灭绝的 |
+| 基础 | comparable | adj. 可比较的 |
+| 基础 | geopolitically | adv. 从地缘政治角度看 |
+| 基础 | reignite | v. 重新点燃 |
+| 基础 | callous | adj. 冷酷无情的 |
+| 基础 | overlap | v. 重叠 |
+| 基础 | prosecute | v. 进行（战争） |
+| 基础 | belligerent | n. 交战方 |
+| 基础 | de | facto /ˌdeɪ ˈfæktəʊ/ adj. 事实上的 |
+| 基础 | militia | n. 民兵 |
+| 基础 | proxy | war 代理人战争 |
+| 基础 | vie | v. 争夺 |
+| 基础 | mercenary | n. 雇佣兵 |
+| 基础 | strenuously | adv. 极力地 |
+| 基础 | bankroll | v. 出资 |
+| 基础 | overwhelming | adj. 压倒性的 |
+| 基础 | periodically | adv. 时不时地 |
+| 基础 | spoils | n. 战利品、掠夺物 |
+| 基础 | vanquish | v. 彻底击败 |
+| 基础 | vow | v. 发誓 |
+| 基础 | resigned | (to) /rɪˈzaɪnd/ adj. 认命的 |
+| 基础 | dampen | v. 抑制 |
+| 基础 | rivalry | n. 对抗 |
+| 基础 | foe | n. 敌人 |
+| 基础 | supposedly | adv. 据称 |
+| 基础 | underline | v. 凸显 |
+| 基础 | revive | v. 重新唤起 |
+| 基础 | breakthrough | n. 突破 |
+| 基础 | telling | adj. 能说明问题的 |
+| 基础 | hub | n. 枢纽 |
+| 基础 | retake | v. 收复 |
+| 基础 | comprise | v. 包含 |
+| 基础 | stake | n. 利害关系 |
+| 基础 | perpetuate | v. 使永久化 |
+| 基础 | fragmentation | n. 碎片化 |
+| 基础 | lull | n. 间歇 |
+| 基础 | static | adj. 静止的 |
+| 基础 | disarm | v. 解除武装 |
+| 基础 | demobilise | v. 复员 |
+| 基础 | professed | adj. 公开宣称的 |
+| 基础 | trajectory | n. 轨迹 |
+| 基础 | instability | n. 动荡 |
+| 基础 | albeit | conj. 尽管（书面让步） |
+| 基础 | zero-sum | adj. 零和的（博弈论术语） |
+| 基础 | deep-pocketed | adj. 财力雄厚的 |
+| 基础 | overstretched | adj. 分身乏术的 |
+| 基础 | war economy 战争经济 | 政治学概念 |
+| 基础 | last best chance 最后最好的机会 | 政治修辞 |
+| 基础 | the | Strait of Hormuz 霍尔木兹海峡 |
+| 基础 | Bab | al-Mandab 曼德海峡 |
 
 ## 五、长难句专项
 

@@ -394,59 +394,49 @@
 
 **段落逻辑：** 美国有权保护敏感技术 → 但权利有界（别殃及消费者）→ 历史教训（过宽限制怨恨又低效）→ 生物不该成牺牲品 → 双重悲剧收束。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| battleground | n. | 战场 | 原句 1 |
-| suspicion | n. | 怀疑 | 原句 2 |
-| know-how | n. | 技术诀窍 | 原句 3 |
-| undermine | v. | 削弱 | 原句 3 |
-| fuelling | v. | 助长 | 原句 4 |
-| contract research | n. | 合同研究 | 原句 6 |
-| ripple through | 短语 | 波及、传导 | 原句 8 |
-| victims | n. | 受害者 | 原句 9 |
-| put pressure on | 短语 | 施加压力 | 原句 10 |
-| affordable | adj. | 买得起的 | 原句 12 |
-| pipelines | n. | 管线（在研项目） | 原句 14 |
-| account for | 短语 | 占……份额 | 原句 15 |
-| deprive ... of | 短语 | 使……失去 | 原句 16 |
-| legitimate | adj. | 合理的 | 原句 18 |
-| dual-use | adj. | 两用的 | 原句 18 |
-| targeted | adj. | 定向的 | 原句 19 |
-| blanket | adj. | 一刀切的 | 原句 19 |
-| scrutinised | v. | 受审查 | 原句 20 |
-| security panic | n. | 安全恐慌 | 原句 20 |
-| scaremongering | n. | 危言耸听 | 原句 22 |
-| casualty | n. | 牺牲品 | 原句 24 |
-| collaboration | n. | 协作 | 原句 25 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- the tech war against China — 对华科技战
-- tools of the state — 国家的工具
-- steal Western know-how — 窃取西方技术诀窍
-- bring cheaper drugs to market — 把更便宜的药推向市场
-- big pharma — 大药企
-- a growing share of — 不断增长的份额
-- antibody-drug conjugates — 抗体偶联药物（ADC）
-- cutting edge research — 尖端研究
-- swept up in a security panic — 被卷进安全恐慌
-- have every right to — 完全有权
-- a fit of scaremongering — 一阵危言耸听
-- the next casualty — 下一个牺牲品
-
-### ⭐ 扩展词汇（了解即可）
-
-- CDMO — 合同研发生产组织
-- clinical trials — 临床试验
-- research pipelines — 研究管线
-- gene editing — 基因编辑
-- biosecurity — 生物安全
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | n. | 战场 |
+| 基础 | n. | 怀疑 |
+| 基础 | n. | 技术诀窍 |
+| 基础 | v. | 削弱 |
+| 基础 | v. | 助长 |
+| 基础 | n. | 合同研究 |
+| 基础 | 短语 | 波及、传导 |
+| 基础 | n. | 受害者 |
+| 基础 | 短语 | 施加压力 |
+| 基础 | adj. | 买得起的 |
+| 基础 | n. | 管线（在研项目） |
+| 基础 | 短语 | 占……份额 |
+| 基础 | 短语 | 使……失去 |
+| 基础 | adj. | 合理的 |
+| 基础 | adj. | 两用的 |
+| 基础 | adj. | 定向的 |
+| 基础 | adj. | 一刀切的 |
+| 基础 | v. | 受审查 |
+| 基础 | n. | 安全恐慌 |
+| 基础 | n. | 危言耸听 |
+| 基础 | n. | 牺牲品 |
+| 基础 | n. | 协作 |
+| 进阶 | the | tech war against China — 对华科技战 |
+| 进阶 | tools | of the state — 国家的工具 |
+| 进阶 | steal | Western know-how — 窃取西方技术诀窍 |
+| 进阶 | bring | cheaper drugs to market — 把更便宜的药推向市场 |
+| 进阶 | big | pharma — 大药企 |
+| 进阶 | a | growing share of — 不断增长的份额 |
+| 进阶 | antibody-drug conjugates — 抗体偶联药物 | ADC |
+| 进阶 | cutting | edge research — 尖端研究 |
+| 进阶 | swept | up in a security panic — 被卷进安全恐慌 |
+| 进阶 | have | every right to — 完全有权 |
+| 进阶 | a | fit of scaremongering — 一阵危言耸听 |
+| 进阶 | the | next casualty — 下一个牺牲品 |
+| 进阶 | CDMO | — 合同研发生产组织 |
+| 进阶 | clinical | trials — 临床试验 |
+| 进阶 | research | pipelines — 研究管线 |
+| 进阶 | gene | editing — 基因编辑 |
+| 进阶 | biosecurity | — 生物安全 |
 
 ## 三、长难句专项
 
@@ -519,43 +509,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"产业政策 + 国家安全"论辩文本，词汇集中在：**限制与管控**（restriction, targeted, blanket, scrutinise, sanction）；**产业角色**（contract research, CDMO, pipelines, account for）；**负面影响**（undermine, deprive, ripple through, breed resentment）；**论辩词**（legitimate, scaremongering, security panic, double tragedy）。掌握这组词，可应对"科技战与产业政策"类文章。
-
-### 表达方式
-
-1. **先立后破**：开篇陈述恐慌（battleground/suspicion），再逐条反驳（Consider the role...）——论证完整。
-2. **具体企业作证**：用 WuXi AppTec、ADC 等具体公司与数据——让抽象论辩落地。
-3. **"Not just...but"递进**：rely on Chinese firms not just for manufacturing, but for ... pipelines——揭示依赖深度。
-4. **否定式平衡**：None of this means ... / not entirely without foundation——先否定再补充，显得公允。
-5. **对仗主张**：targeted controls, not blanket restrictions——用对仗亮出政策建议。
-6. **情感收束**：a double tragedy: for American patients, and for the global science——以双重悲剧收尾。
-
-### 语法要点
-
-- **动名词作主语**：Limiting them would make drugs more expensive——动名词短语作主语表假设。
-- **现在分词伴随**：stealing Western know-how and undermining America's global lead——分词展开后果。
-- **should/should not 对称**：should be scrutinised, but ... should not be swept up——用情态动词对仗划边界。
-- **形式主语**：It is easy to dismiss such fears——It 形式主语 + 真正主语不定式。
-- **祈使句引导**：Consider the role ...——用祈使句把论证拉回事实。
-
-### 长难句
-
-最值得模仿的是"否定式平衡句"（原句 23）：not entirely without foundation 双重否定表"并非全无根据"。其次是 not just...but 递进（原句 14）——从制造到研发的依赖升级。
-
-### 写作技巧
-
-- **受害者身份反转**：说"限制中国"会让"美国病人"受伤——把抽象安全辩论拉回具体生活。
-- **"安全关切该有"的诚实**：先承认 legitimate worries，再反对 blanket restrictions——立场可信。
-- **历史教训引证**：past decade in tech——用芯片战等先例证明封锁无效。
-- **定位句收束**：Biotech should not become the next casualty——一个比喻完成全文立意。
-
-### 可迁移表达
-
-- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
-- "tools of the state" — 用于"被国家利用的工具"。
-- "put pressure on prices" — 用于"压低价格的市场力量"。
-- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
-- "a double tragedy" — 用于"双重受害"的总结。

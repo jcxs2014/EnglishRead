@@ -373,65 +373,55 @@
 
 **段落逻辑：** 死讯（7 月 8 日，89 岁）→ 遗产（作品+信念：艺术赞美生活）→ 意象（空泳池盛光）→ 升华（最伟大的作品是让世界变亮）。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| famous | adj. | 有名的 | 原句 1 |
-| deliberately | adv. | 刻意地 | 原句 2 |
-| left blank | 短语 | 留白 | 原句 2 |
-| summed up | 短语 | 概括 | 原句 4 |
-| believed in | 短语 | 信奉 | 原句 5 |
-| distrusted | v. | 不信任 | 原句 6 |
-| got in the way of | 短语 | 妨碍 | 原句 6 |
-| a way of seeing | n. | 观看的方式 | 原句 7 |
-| a form of joy | n. | 欢乐的形式 | 原句 7 |
-| mill town | n. | 磨坊小镇 | 原句 9 |
-| lured by | 短语 | 被……吸引 | 原句 9 |
-| tanned bodies | n. | 晒黑的身体 | 原句 10 |
-| complacent | adj. | 自满的 | 原句 11 |
-| pinned down | 短语 | 被固定 | 原句 12 |
-| pioneered | v. | 开创 | 原句 13 |
-| photo-collage | n. | 照片拼贴 | 原句 13 |
-| cubist view | n. | 立体主义视角 | 原句 13 |
-| took up | 短语 | 开始使用 | 原句 14 |
-| a gimmick | n. | 噱头 | 原句 15 |
-| proof that | n. | 证明 | 原句 15 |
-| cheerful | adj. | 开朗的 | 原句 17 |
-| argumentative | adj. | 好辩的 | 原句 17 |
-| pick a fight | 短语 | 挑起争吵 | 原句 18 |
-| in service of | 短语 | 服务于 | 原句 19 |
-| a vast body of work | n. | 大量作品 | 原句 22 |
-| conviction | n. | 信念 | 原句 22 |
-| celebrate life | 短语 | 赞美生活 | 原句 22 |
-| full of light | 短语 | 充满光 | 原句 23 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- a portrait of everyone and no one — 关于每个人又谁也不是的肖像
-- working from the heart — 从内心作画
-- got in the way of the eye and the hand — 妨碍眼与手
-- painting was a way of seeing — 绘画是观看的方式
-- art should make you happy — 艺术该让人快乐
-- lured by the light, the space and the swimming pools — 被光、空间、泳池吸引
-- fame never made him complacent — 成名却未自满
-- afraid of being pinned down — 怕被定型
-- stitching dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角
-- draw with light — 用光作画
-- pick a fight about colour theory — 为色彩理论争吵
-- in service of joy — 服务于欢乐
-- art should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活
-
-### ⭐ 扩展词汇（了解即可）
-
-- pool paintings — 泳池画
-- Polaroids — 宝丽来照片
-- the screen was just another window — 屏幕只是另一扇窗
-- aged 89 — 享年 89 岁
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | adj. | 有名的 |
+| 基础 | adv. | 刻意地 |
+| 基础 | 短语 | 留白 |
+| 基础 | 短语 | 概括 |
+| 基础 | 短语 | 信奉 |
+| 基础 | v. | 不信任 |
+| 基础 | 短语 | 妨碍 |
+| 基础 | n. | 观看的方式 |
+| 基础 | n. | 欢乐的形式 |
+| 基础 | n. | 磨坊小镇 |
+| 基础 | 短语 | 被……吸引 |
+| 基础 | n. | 晒黑的身体 |
+| 基础 | adj. | 自满的 |
+| 基础 | 短语 | 被固定 |
+| 基础 | v. | 开创 |
+| 基础 | n. | 照片拼贴 |
+| 基础 | n. | 立体主义视角 |
+| 基础 | 短语 | 开始使用 |
+| 基础 | n. | 噱头 |
+| 基础 | n. | 证明 |
+| 基础 | adj. | 开朗的 |
+| 基础 | adj. | 好辩的 |
+| 基础 | 短语 | 挑起争吵 |
+| 基础 | 短语 | 服务于 |
+| 基础 | n. | 大量作品 |
+| 基础 | n. | 信念 |
+| 基础 | 短语 | 赞美生活 |
+| 基础 | 短语 | 充满光 |
+| 进阶 | a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |
+| 进阶 | working | from the heart — 从内心作画 |
+| 进阶 | got | in the way of the eye and the hand — 妨碍眼与手 |
+| 进阶 | painting | was a way of seeing — 绘画是观看的方式 |
+| 进阶 | art | should make you happy — 艺术该让人快乐 |
+| 进阶 | lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |
+| 进阶 | fame | never made him complacent — 成名却未自满 |
+| 进阶 | afraid | of being pinned down — 怕被定型 |
+| 进阶 | stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |
+| 进阶 | draw | with light — 用光作画 |
+| 进阶 | pick | a fight about colour theory — 为色彩理论争吵 |
+| 进阶 | in | service of joy — 服务于欢乐 |
+| 进阶 | art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |
+| 进阶 | pool | paintings — 泳池画 |
+| 进阶 | Polaroids | — 宝丽来照片 |
+| 进阶 | the | screen was just another window — 屏幕只是另一扇窗 |
+| 进阶 | aged | 89 — 享年 89 岁 |
 
 ## 三、长难句专项
 
@@ -502,44 +492,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"讣告"文体，词汇集中在：**艺术与创作**（working from the heart, way of seeing, photo-collage, draw with light）；**人物性格**（cheerful, argumentative, distrusted, complacent）；**评价与争议**（gimmick, proof that, critics, defenders）；**遗产与信念**（a vast body of work, conviction, celebrate life, in service of joy）。这组词是写作"艺术家追忆"的工具包。
-
-### 表达方式
-
-1. **意象开场**：泳池画（脸留白）——用一幅画作传主名片。
-2. **由画及人**：That summed up his art, and his life——从作品切入人生。
-3. **回环递进**：painting was a way of seeing, and seeing was a form of joy——概念链。
-4. **名言引用**："Art should make you happy"——用直接引语立人物。
-5. **对照结构**：critics vs defenders / cheerful vs argumentative——用对照呈现复杂。
-6. **意象收束**：His pool has no diver, but it will always be full of light——首尾呼应。
-
-### 语法要点
-
-- **分词开头生平句**：Born in 1937 in Bradford, ... he moved to California。
-- **so...that 结果从句**：a style so flat that it feels both real and unreal。
-- **分号对仗**：His critics called it a gimmick; his defenders saw it as proof。
-- **not...but 并列原因**：not because he was angry, but because he cared。
-- **同位语从句**：the conviction that art should celebrate life。
-- **as if 省略句**：as if afraid of being pinned down。
-
-### 长难句
-
-最值得模仿的是"分词生平句"（原句 9）与"分号对仗"（原句 15）——前者适合人物传记开头，后者适合呈现争议。
-
-### 写作技巧
-
-- **一句成画**：用一幅画写活一个人——开头即高潮。
-- **细节立人**：晚宴上为色彩理论吵架——一个轶事胜过十句评价。
-- **哲学与轶事交替**：从心作画（哲学）→ 晚宴吵架（轶事）——虚与实互证。
-- **首尾呼应**：泳池开场，泳池收束——意象闭环。
-
-### 可迁移表达
-
-- "working from the heart" — 用于"凭直觉/真心做事"。
-- "a portrait of everyone and no one" — 用于"普世性"。
-- "painting was a way of seeing" — 用于"X 是理解世界的方式"。
-- "in service of joy" — 用于"为……服务"的高级表达。
-- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。

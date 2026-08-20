@@ -211,41 +211,31 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                    | 核心义        | 常见搭配                                 | 例句                                                  |
-| -------------------------- | ------------- | ---------------------------------------- | ----------------------------------------------------- |
-| `make a world of difference` | 产生天壤之别  | `make a world of difference to`            | A good night's sleep makes a world of difference.     |
-| `battle-tested`              | 久经考验的    | `battle-tested approach/method`            | This is a battle-tested solution.                     |
-| `harvest` (data)             | 收集（数据）  | `harvest data/traffic`                     | Hackers harvested millions of passwords.              |
-| `polish off`                 | 迅速完成/搞定 | `polish off a task/job`                    | He polished off the report in an hour.                |
-| `go bust`                    | 破产          | `the company went bust`                    | Many startups went bust during the recession.         |
-| `stress-test`                | 压力测试      | `stress-test the system`                   | We need to stress-test our security protocols.        |
-| `mine A for B`               | 从 A 中挖掘 B | `mine data for insights`                   | They mine customer data for patterns.                 |
-| `bundle`                     | 捆绑          | `bundle A with B / the two can be bundled` | The two encryption standards can be bundled together. |
-
-### ⭐⭐ 值得认识
-| 词/短语                    | 说明                                   |
-| -------------------------- | -------------------------------------- |
-| `six-fold`                   | 六倍的（的增长）                       |
-| `tech titans`                | 科技巨头（比 giants 更庄重）           |
-| `pledge (to do)`             | 承诺（正式）                           |
-| `quantum mechanics`          | 量子力学                               |
-| `rigorous simulations`       | 严格/精确的模拟                        |
-| `general-purpose technology` | 通用技术（GPTs，经济学术语）           |
-| `crack` (codes)              | 破解（密码）                           |
-| `Q-day`                      | 量子日（量子计算机能破解加密的假设日） |
-| `computationally demanding`  | 计算密集型的                           |
-| `weedy`                      | 瘦弱/性能太弱的（形容芯片，贬义）      |
-| `unpatched`                  | 未打补丁的                             |
-| `back end / front end`       | 后端/前端（技术术语）                  |
-| `make the switch`            | 完成切换（到新系统）                   |
-
-### ⭐ 了解即可
-`post-quantum cryptography`（后量子密码学，PQC）、`classical computers`（经典计算机）、`equity stakes`（股权）、`gee`（极客/技术宅）。
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | make a world of difference | 产生天壤之别 |
+| 基础 | battle-tested | 久经考验的 |
+| 基础 | harvest (data) | 收集（数据） |
+| 基础 | polish off | 迅速完成/搞定 |
+| 基础 | go bust | 破产 |
+| 基础 | stress-test | 压力测试 |
+| 基础 | mine A for B | 从 A 中挖掘 B |
+| 基础 | bundle | 捆绑 |
+| 进阶 | six-fold | 六倍的（的增长） |
+| 进阶 | tech titans | 科技巨头（比 giants 更庄重） |
+| 进阶 | pledge (to do) | 承诺（正式） |
+| 进阶 | quantum mechanics | 量子力学 |
+| 进阶 | rigorous simulations | 严格/精确的模拟 |
+| 进阶 | general-purpose technology | 通用技术（GPTs，经济学术语） |
+| 进阶 | crack (codes) | 破解（密码） |
+| 进阶 | Q-day | 量子日（量子计算机能破解加密的假设日） |
+| 进阶 | computationally demanding | 计算密集型的 |
+| 进阶 | weedy | 瘦弱/性能太弱的（形容芯片，贬义） |
+| 进阶 | unpatched | 未打补丁的 |
+| 进阶 | back end / front end | 后端/前端（技术术语） |
+| 进阶 | make the switch | 完成切换（到新系统） |
 
 ## 核心表达（可直接迁移）
 

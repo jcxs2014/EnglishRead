@@ -824,89 +824,89 @@
 
 ## 词汇分级
 
-| 分级 | 词汇 | 释义 | 例句/语境 |
-| :--- | :--- | :--- | :--- |
-| **基础** | weary | 厌倦的，疲劳的 | Voters were **weary** of America's longest war. |
-| | switch sides | 倒戈，改变阵营 | Warlords **switched sides**; government soldiers abandoned their posts. |
-| | fall into | 落入，陷入 | ...more likely to **fall into** China's or Russia's orbit. |
-| | bar | 除…之外 | ...the place is largely calm, **bar** intermittent sparring... |
-| | yearn for | 渴望，向往 | Most Afghans **yearn for** more freedom. |
-| **进阶** | looming | 逼近的，（不祥之兆）隐现的 | America's **looming** departure prompted every Afghan... |
-| | weary of | 对…感到厌倦（程度更深） | Voters were **weary of** America's longest war. |
-| | pull out | 撤出，撤军 | Biden **pulled** American troops **out** of Afghanistan. |
-| | melt away | 溃散，瓦解 | Government soldiers abandoned their posts and **melted away**. |
-| | seize power | 夺取政权 | The Taliban **seized power** almost unopposed. |
-| | plunge to one's death | 坠地身亡 | ...clung to the wheels... and **plunged to their deaths**. |
-| | impose | 实施，强加 | ...**imposed** a brutal blend of Islamism and premodern tribal custom. |
-| | guerrilla war | 游击战 | Taliban fighters then waged a **guerrilla war**... |
-| | nation-building | 国家建设 | ...a two-decade effort at **nation-building** ended in humiliation. |
-| | stand by | 支持，忠于 | Other powers drew conclusions about America's willingness to **stand by** its friends. |
-| | geopolitical | 地缘政治的 | The country is more likely to cause **geopolitical** trouble again... |
-| | fall into... orbit | 落入…的势力范围 | ...more likely to **fall into** China's or Russia's **orbit**. |
-| | intermittent | 间歇的，断断续续的 | ...bar **intermittent** sparring with its neighbour... |
-| | grim | 严酷的，令人沮丧的 | But it is a **grim** stability. |
-| | dish out | 分发，给予（常指不愉快的事） | The vice-and-virtue police **dish out** beatings to sinners... |
-| | barred from | 被禁止进入/参与 | Women are **barred from** workplaces, universities... |
-| | yearn for | 渴望 | Most Afghans **yearn for** more freedom. |
-| | assert control | 确立控制，主张权威 | But hardliners have ruthlessly **asserted control**. |
-| | praetorian guard | 禁卫军，忠诚卫队 | ...has recruited a loyal **praetorian guard**... |
-| | lucrative | 利润丰厚的 | ...and grabbed **lucrative** mining contracts. |
-| | isolate | 孤立 | America and Europe have tried to **isolate** the Taliban regime. |
-| | slap sanctions on | 对…实施制裁 | ...and **slapping sanctions on** officials. |
-| | lay hands on | 获取，夺取 | ...will not adjust their ideology just to **lay hands on**... |
-| | hard-nosed | 务实的，精明的 | Hints of a more **hard-nosed** Western approach... |
-| | beyond the pale | 出格的，不可接受的 | Europeans still say the Afghan regime is **beyond the pale**... |
-| | repatriate | 遣返 | ...**repatriating** failed asylum-seekers. |
-| | execrable | 可恶的，糟糕透顶的 | ...which would surely be used to prop up the **execrable** emir. |
-| | prop up | 支撑，维持（贬义） | ...used to **prop up** the execrable emir. |
-| | on the ground | 在实地 | ...useful to have UN agencies **on the ground**... |
-| | fall foul of | 违反，触犯 | ...in case they **fall foul of** terrorist-financing rules. |
-| | starving of | 使缺乏，使挨饿 | ...**starving** it of private investment. |
-| | undesired effect | 意想不到的效果 | That is having the **unintended effect** of locking the country out... |
-| | contempt | 轻视，鄙视 | Decent governments recognise many regimes they **despise**. |
-| | infidel | 异教徒 | ...the **say-so** of **infidels**. |
-| | say-so | 认可，同意 | ...depends on the **say-so** of infidels. |
-| **高级** | indefinitely | 无限期地 | America could have defended... government **indefinitely**. |
-| | flawed | 有缺陷的 | ...Afghanistan's **flawed** but democratically elected government. |
-| | deems | 认为，视为（正式） | ...anyone **deemed** a collaborator. |
-| | humiliation | 耻辱，丢脸 | ...a two-decade effort at nation-building ended in **humiliation**. |
-| | emir | 埃米尔（伊斯兰国家统治者） | The Taliban's **emir**, Haibatullah Akhundzada... |
-| | ruthless | 无情的，残忍的 | But hardliners have **ruthlessly** asserted control. |
-| | timed | 时机，时间安排 | ...which **in time** could encourage the regime's more moderate elements. |
-| | judicious | 明智的，审慎的 | But **judicious** engagement is likely to do more good than harm. |
-| | hold one's nose | 捏着鼻子（做厌恶之事） | ...**hold their collective noses** and talk to the Taliban. |
-| | repatriation | 遣返 | ...**repatriating** failed asylum-seekers. |
-| | execrable | 可恶的，该诅咒的 | ...prop up the **execrable** emir. |
-| | resuscitate | 恢复，复兴 | (未出现，但为相关词) |
-| | jeopardize | 危及，损害 | (未出现，但为相关词) |
-| | staunch | 坚定的，忠诚的 | (未出现，但为相关词) |
-| | adversary | 对手，敌手 | (未出现，但为相关词) |
-| | relentless | 持续不断的，无情的 | (未出现，但为相关词) |
-| | unpalatable | 令人不快的，难以下咽的 | (未出现，但为相关词) |
-| | pragmatic | 务实的 | (未出现，但为相关词) |
-| | unequivocal | 明确的，不含糊的 | (未出现，但为相关词) |
-| | contingent | 依情况而定的 | (未出现，但为相关词) |
-| | coerce | 强迫，胁迫 | (未出现，但为相关词) |
-| | admonish | 告诫，训诫 | (未出现，但为相关词) |
-| | retaliate | 报复 | (未出现，但为相关词) |
-| | relinquish | 放弃 | (未出现，但为相关词) |
-| | volatile | 不稳定的，易变的 | (未出现，但为相关词) |
-| | precipitate | 促使，导致（坏事） | (未出现，但为相关词) |
-| | unprecedented | 前所未有的 | (未出现，但为相关词) |
-| | deteriorate | 恶化 | (未出现，但为相关词) |
-| | resilient | 有韧性的 | (未出现，但为相关词) |
-| | tangible | 有形的，切实的 | (未出现，但为相关词) |
-| | elusive | 难以捉摸的 | (未出现，但为相关词) |
-| | stringent | 严格的 | (未出现，但为相关词) |
-| | alleviate | 缓解 | (未出现，但为相关词) |
-| | mitigate | 减轻 | (未出现，但为相关词) |
-| | expediency | 权宜之计 | (未出现，但为相关词) |
-| | ostracize | 排斥，放逐 | (未出现，但为相关词) |
-| | rapprochement | （国际关系）和解 | (未出现，但为相关词) |
-| | entente | 协定，谅解 | (未出现，但为相关词) |
-| | détente | （国际关系）缓和 | (未出现，但为相关词) |
-| | appeasement | 绥靖政策 | (未出现，但为相关词) |
-| | realpolitik | 现实政治 | (未出现，但为相关词) |
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | weary | 厌倦的，疲劳的 |
+| 基础 | switch sides | 倒戈，改变阵营 |
+| 基础 | fall into | 落入，陷入 |
+| 基础 | bar | 除…之外 |
+| 基础 | yearn for | 渴望，向往 |
+| 基础 | looming | 逼近的，（不祥之兆）隐现的 |
+| 基础 | weary of | 对…感到厌倦（程度更深） |
+| 基础 | pull out | 撤出，撤军 |
+| 基础 | melt away | 溃散，瓦解 |
+| 基础 | seize power | 夺取政权 |
+| 基础 | plunge to one's death | 坠地身亡 |
+| 基础 | impose | 实施，强加 |
+| 基础 | guerrilla war | 游击战 |
+| 基础 | nation-building | 国家建设 |
+| 基础 | stand by | 支持，忠于 |
+| 基础 | geopolitical | 地缘政治的 |
+| 基础 | fall into... orbit | 落入…的势力范围 |
+| 基础 | intermittent | 间歇的，断断续续的 |
+| 基础 | grim | 严酷的，令人沮丧的 |
+| 基础 | dish out | 分发，给予（常指不愉快的事） |
+| 基础 | barred from | 被禁止进入/参与 |
+| 基础 | yearn for | 渴望 |
+| 基础 | assert control | 确立控制，主张权威 |
+| 基础 | praetorian guard | 禁卫军，忠诚卫队 |
+| 基础 | lucrative | 利润丰厚的 |
+| 基础 | isolate | 孤立 |
+| 基础 | slap sanctions on | 对…实施制裁 |
+| 基础 | lay hands on | 获取，夺取 |
+| 基础 | hard-nosed | 务实的，精明的 |
+| 基础 | beyond the pale | 出格的，不可接受的 |
+| 基础 | repatriate | 遣返 |
+| 基础 | execrable | 可恶的，糟糕透顶的 |
+| 基础 | prop up | 支撑，维持（贬义） |
+| 基础 | on the ground | 在实地 |
+| 基础 | fall foul of | 违反，触犯 |
+| 基础 | starving of | 使缺乏，使挨饿 |
+| 基础 | undesired effect | 意想不到的效果 |
+| 基础 | contempt | 轻视，鄙视 |
+| 基础 | infidel | 异教徒 |
+| 基础 | say-so | 认可，同意 |
+| 基础 | indefinitely | 无限期地 |
+| 基础 | flawed | 有缺陷的 |
+| 基础 | deems | 认为，视为（正式） |
+| 基础 | humiliation | 耻辱，丢脸 |
+| 基础 | emir | 埃米尔（伊斯兰国家统治者） |
+| 基础 | ruthless | 无情的，残忍的 |
+| 基础 | timed | 时机，时间安排 |
+| 基础 | judicious | 明智的，审慎的 |
+| 基础 | hold one's nose | 捏着鼻子（做厌恶之事） |
+| 基础 | repatriation | 遣返 |
+| 基础 | execrable | 可恶的，该诅咒的 |
+| 基础 | resuscitate | 恢复，复兴 |
+| 基础 | jeopardize | 危及，损害 |
+| 基础 | staunch | 坚定的，忠诚的 |
+| 基础 | adversary | 对手，敌手 |
+| 基础 | relentless | 持续不断的，无情的 |
+| 基础 | unpalatable | 令人不快的，难以下咽的 |
+| 基础 | pragmatic | 务实的 |
+| 基础 | unequivocal | 明确的，不含糊的 |
+| 基础 | contingent | 依情况而定的 |
+| 基础 | coerce | 强迫，胁迫 |
+| 基础 | admonish | 告诫，训诫 |
+| 基础 | retaliate | 报复 |
+| 基础 | relinquish | 放弃 |
+| 基础 | volatile | 不稳定的，易变的 |
+| 基础 | precipitate | 促使，导致（坏事） |
+| 基础 | unprecedented | 前所未有的 |
+| 基础 | deteriorate | 恶化 |
+| 基础 | resilient | 有韧性的 |
+| 基础 | tangible | 有形的，切实的 |
+| 基础 | elusive | 难以捉摸的 |
+| 基础 | stringent | 严格的 |
+| 基础 | alleviate | 缓解 |
+| 基础 | mitigate | 减轻 |
+| 基础 | expediency | 权宜之计 |
+| 基础 | ostracize | 排斥，放逐 |
+| 基础 | rapprochement | （国际关系）和解 |
+| 基础 | entente | 协定，谅解 |
+| 基础 | détente | （国际关系）缓和 |
+| 基础 | appeasement | 绥靖政策 |
+| 基础 | realpolitik | 现实政治 |
 
 ## 长难句专项
 

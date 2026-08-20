@@ -220,44 +220,34 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                      | 核心义             | 常见搭配                            | 例句                                                |
-| ---------------------------- | ------------------ | ----------------------------------- | --------------------------------------------------- |
-| `picked up steam`              | 加速/提速           | `the campaign picked up steam`         | The project finally picked up steam in May.          |
-| `turn up their noses`          | 嗤之以鼻/不屑一顾   | `turn up one's nose at`                | She turns up her nose at mainstream movies.          |
-| `buoy` (verb)                  | 支撑/托举           | `buoyed by/buoy optimism`               | Rising exports buoyed the economy.                  |
-| `one-man band`                 | 一人乐队/一人企业  | `run a one-man band`                    | He's running a one-man band from his garage.        |
-| `tantalising`                  | 诱人但难以实现     | `tantalising prospect/smell`           | The view from the balcony was tantalising.           |
-| `hollowed out`                 | 被掏空的           | `a hollowed-out town/industry`         | Detroit was hollowed out by auto-industry decline.  |
-| `cling to`                     | 紧握/依恋          | `cling to hope/a job`                  | She clung to the hope that things would change.     |
-| `set up shop`                  | 开业/开店          | `set up shop as`                       | He set up shop as a freelance designer.             |
-| `pare back`                    | 削减/缩减          | `pare back spending`                   | The firm pared back its workforce.                  |
-| `across-the-board`             | 全面的             | `across-the-board cuts`                 | They announced across-the-board pay cuts.           |
-| `self-reliance`                | 自立/独立          | `self-reliance as a virtue`            | Self-reliance is a key frontier value.              |
-
-### ⭐⭐ 值得认识
-| 词/短语                          | 说明                                    |
-| -------------------------------- | --------------------------------------- |
-| `yeoman farmer`                    | 自耕农                                  |
-| `in the midst of`                  | 正处于……之中                           |
-| `superstar firms`                  | 超级巨星企业（经济学双关）              |
-| `automate away`                    | 自动化取代                              |
-| `AI agents`                        | AI 代理（自主行动的 AI 系统）           |
-| `solopreneur`                      | 独立创业者（合成词）                    |
-| `9-5 office life`                  | 朝九晚五办公室生活                      |
-| `corporate ladder`                 | 公司晋升阶梯                            |
-| `occupational-licensing`           | 职业许可（制度）                        |
-| `barrier to entry`                 | 进入障碍                                |
-| `unwarranted`                      | 没有根据的                              |
-| `fulfilling and lucrative`         | 充实且有利可图                          |
-| `reckon`                           | 估计/认为（口语化）                     |
-
-### ⭐ 了解即可
-`Obamacare`（美国平价医疗法案）、`Shopify`（加拿大电商平台）、`Census Bureau`（人口普查局）、`Stripe`（支付公司）、`yeoman`（自耕农阶层）。
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | picked up steam | 加速/提速 |
+| 基础 | turn up their noses | 嗤之以鼻/不屑一顾 |
+| 基础 | buoy (verb) | 支撑/托举 |
+| 基础 | one-man band | 一人乐队/一人企业 |
+| 基础 | tantalising | 诱人但难以实现 |
+| 基础 | hollowed out | 被掏空的 |
+| 基础 | cling to | 紧握/依恋 |
+| 基础 | set up shop | 开业/开店 |
+| 基础 | pare back | 削减/缩减 |
+| 基础 | across-the-board | 全面的 |
+| 基础 | self-reliance | 自立/独立 |
+| 进阶 | yeoman farmer | 自耕农 |
+| 进阶 | in the midst of | 正处于……之中 |
+| 进阶 | superstar firms | 超级巨星企业（经济学双关） |
+| 进阶 | automate away | 自动化取代 |
+| 进阶 | AI agents | AI 代理（自主行动的 AI 系统） |
+| 进阶 | `solopreneur` | 独立创业者（合成词） |
+| 进阶 | 9-5 office life | 朝九晚五办公室生活 |
+| 进阶 | corporate ladder | 公司晋升阶梯 |
+| 进阶 | occupational-licensing | 职业许可（制度） |
+| 进阶 | barrier to entry | 进入障碍 |
+| 进阶 | unwarranted | 没有根据的 |
+| 进阶 | fulfilling and lucrative | 充实且有利可图 |
+| 进阶 | reckon | 估计/认为（口语化） |
 
 ## 核心表达（可直接迁移）
 

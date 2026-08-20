@@ -873,65 +873,60 @@
 
 ---
 
-## 十、词汇分级表
+## 词汇分级
 
-### ⭐⭐⭐ 高分词汇 / 地道表达
-- counterbalance / counterbalancing（平衡抵消）
-- exploit tensions（利用紧张）
-- fallout（后果/余波）
-- decontrol / de facto（事实上）
-- slow-rolling（拖延）
-- tacitly acknowledging（默默承认）
-- fallout（余波）
-- staged approach（分步策略）
-- bargain position（谈判地位）
-- bogged down（陷入困境）
-- deter an attack（威慑攻击）
-- firepower（火力/核武库）
-- has never looked stronger（前所未强）
-- on the eve of（在……之夜）
-- readouts（官方记录）
-- made no reference（未提及）
-- expressed opposition to（表达反对）
-- has yet to（仍未）
-- harboured no such hopes（不抱希望）
-- fell off the agenda（落议）
-- in exchange for（作为交换）
-- bolstered（巩固）
-- on his eastern borders（在东部边境）
-- shared goal（共同目标）
-- mutual-defence treaty（ mutual-defence treaty）
-- closed issue（已解决问题）
-- extremely severe practical challenges（极其严峻挑战）
-- irreversibility（不可逆性）
-
-### ⭐⭐ 进阶词汇
-- summit（峰会）
-- denuclearisation（去核化）
-- deter（威慑）
-- leverage（影响力）
-- renounce（放弃）
-- regime collapse（政权崩溃）
-- pro-Western（亲西方）
-- clout（影响力）
-- co-ordination（协调）
-- retaliation（报复）
-- recourse（求助）
-- torment（折磨）
-- stance（立场）
-- stance（立场）
-- wrangle（纠缠）
-- wrangle（纠缠）
-
-### ⭐ 基础词汇
-- summit（峰会）
-- pressure（压力）
-- nuclear（核）
-- military（军事）
-- treaty（条约）
-- alliance（同盟）
-- troops（士兵）
-- sanctions（制裁）
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | counterbalance | / counterbalancing（平衡抵消） |
+| 基础 | exploit tensions | 利用紧张 |
+| 基础 | decontrol | / de facto（事实上） |
+| 基础 | slow-rolling | 拖延 |
+| 基础 | tacitly acknowledging | 默默承认 |
+| 基础 | fallout | 余波 |
+| 基础 | staged approach | 分步策略 |
+| 基础 | bargain position | 谈判地位 |
+| 基础 | bogged down | 陷入困境 |
+| 基础 | deter an attack | 威慑攻击 |
+| 基础 | has never looked stronger | 前所未强 |
+| 基础 | on the eve of | 在……之夜 |
+| 基础 | readouts | 官方记录 |
+| 基础 | made no reference | 未提及 |
+| 基础 | expressed opposition to | 表达反对 |
+| 基础 | has yet to | 仍未 |
+| 基础 | harboured no such hopes | 不抱希望 |
+| 基础 | fell off the agenda | 落议 |
+| 基础 | in exchange for | 作为交换 |
+| 基础 | bolstered | 巩固 |
+| 基础 | on his eastern borders | 在东部边境 |
+| 基础 | shared goal | 共同目标 |
+| 基础 | mutual-defence treaty | mutual-defence treaty |
+| 基础 | closed issue | 已解决问题 |
+| 基础 | extremely severe practical challenges | 极其严峻挑战 |
+| 基础 | irreversibility | 不可逆性 |
+| 基础 | summit | 峰会 |
+| 基础 | denuclearisation | 去核化 |
+| 基础 | deter | 威慑 |
+| 基础 | leverage | 影响力 |
+| 基础 | renounce | 放弃 |
+| 基础 | regime collapse | 政权崩溃 |
+| 基础 | pro-Western | 亲西方 |
+| 基础 | clout | 影响力 |
+| 基础 | co-ordination | 协调 |
+| 基础 | retaliation | 报复 |
+| 基础 | recourse | 求助 |
+| 基础 | torment | 折磨 |
+| 基础 | stance | 立场 |
+| 基础 | stance | 立场 |
+| 基础 | wrangle | 纠缠 |
+| 基础 | wrangle | 纠缠 |
+| 基础 | summit | 峰会 |
+| 基础 | pressure | 压力 |
+| 基础 | nuclear | 核 |
+| 基础 | military | 军事 |
+| 基础 | treaty | 条约 |
+| 基础 | alliance | 同盟 |
+| 基础 | troops | 士兵 |
+| 基础 | sanctions | 制裁 |
 
 ## 十一、长难句专项
 

@@ -478,47 +478,40 @@ If 引导的条件句（If Mr Burnham cannot rise to the task...）+ 主句（He
 
 ## 词汇分级
 
-### 高频核心词（已掌握可迁移）
-- `decline` 衰落
-- `feeble` 虚弱的
-- `reform` 改革
-- `populism` 民粹主义
-- `mandate` 授权/使命
-- `incumbents` 在任者
-
-### 学术/书面词汇
-- `desultory` 有气无力的
-- `sclerotic` 僵化的
-- `chameleon-like` 变色龙般的
-- `biddable` 听话的
-- `contortions` 扭曲
-- `straitjacket` 束缚
-- `a putsch` 政变
-- `pander to` 迎合
-
-### 政治术语
-- `backbenches` 后座议员
-- `the Treasury` 财政部
-- `the Chancellor` 财政大臣
-- `a by-election` 补选
-- `devolve power` 下放权力
-- `the electorate` 选民
-- `chancellor` 财政大臣（此处指财政部长）
-
-### 地道表达
-- `wilted like a houseplant in a heatwave` 像热浪中的室内植物一样枯萎
-- `twists with the wind` 随风摇摆
-- `a coalition of the aggrieved` 受屈者联盟
-- `gained a taste for rebellion` 尝到了叛变的甜头
-- `turn back the clock` 让时光倒流
-- `make hard truths palatable` 使艰难真相变得可接受
-- `rise to the task` 胜任任务
-- `in no position to ask for patience` 没有立场要求耐心
-- `living beyond their means` 入不敷出
-- `up in the air` 悬而未决
-- `eke out` 挤出（额外资源）
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | decline | 衰落 |
+| 基础 | feeble | 虚弱的 |
+| 基础 | reform | 改革 |
+| 基础 | populism | 民粹主义 |
+| 基础 | mandate | 授权/使命 |
+| 基础 | incumbents | 在任者 |
+| 基础 | desultory | 有气无力的 |
+| 基础 | sclerotic | 僵化的 |
+| 基础 | chameleon-like | 变色龙般的 |
+| 基础 | biddable | 听话的 |
+| 基础 | contortions | 扭曲 |
+| 基础 | straitjacket | 束缚 |
+| 基础 | a putsch | 政变 |
+| 基础 | pander to | 迎合 |
+| 基础 | backbenches | 后座议员 |
+| 基础 | the Treasury | 财政部 |
+| 基础 | the Chancellor | 财政大臣 |
+| 基础 | a by-election | 补选 |
+| 基础 | devolve power | 下放权力 |
+| 基础 | the electorate | 选民 |
+| 基础 | chancellor | 财政大臣（此处指财政部长） |
+| 高级 | wilted like a houseplant in a heatwave | 像热浪中的室内植物一样枯萎 |
+| 高级 | twists with the wind | 随风摇摆 |
+| 高级 | a coalition of the aggrieved | 受屈者联盟 |
+| 高级 | gained a taste for rebellion | 尝到了叛变的甜头 |
+| 高级 | turn back the clock | 让时光倒流 |
+| 高级 | make hard truths palatable | 使艰难真相变得可接受 |
+| 高级 | rise to the task | 胜任任务 |
+| 高级 | in no position to ask for patience | 没有立场要求耐心 |
+| 高级 | living beyond their means | 入不敷出 |
+| 高级 | up in the air | 悬而未决 |
+| 高级 | eke out | 挤出（额外资源） |
 
 ## 长难句专项
 

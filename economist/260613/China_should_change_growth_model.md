@@ -682,95 +682,86 @@
 
 ---
 
-## 三、词汇分级表
+## 词汇分级
 
-### ⭐⭐⭐ 高分词汇 / 地道表达
-
-| 词汇 / 表达 | 释义 | 例句 |
-| --- | --- | --- |
-| limitation is the sincerest form of flattery | 限制是最诚挚的恭维（仿谚语） | *In global trade, limitation ...* |
-| formidable | 令人敬畏的、难对付的 | *Formidable global competitors.* |
-| sophisticated industries | 尖端行业 | *Even in sophisticated industries.* |
-| the preserve of | ……的专有领地 | *Once the preserve of richer countries.* |
-| outflanked | 侧翼包抄 | *Outflanked Germany's carmakers.* |
-| stolen a march on | 抢在……前面 | *Stolen a march on South Korean shipbuilders.* |
-| narrowed the gap | 缩小差距 | *Narrowed the gap with American chip designers.* |
-| a tribute to | 对……的致敬 | *A tribute to their success.* |
-| scrambling to | 争相 | *Scrambling to limit the threat.* |
-| risky dependencies | 有风险的依赖 | *Avoid risky dependencies.* |
-| countermeasures | 反制措施 | *Forceful countermeasures.* |
-| diversify | 多元化 | *Diversify their suppliers.* |
-| year-on-year | 同比 | *Grew 19% year-on-year.* |
-| withstand | 扛住 | *Withstand the bursting of the bubble.* |
-| property bubble | 房地产泡沫 | *The bursting of its property bubble.* |
-| geopolitical clout | 地缘筹码 | *Geopolitical clout in a hostile world.* |
-| historical-materialist bones | 历史唯物主义的骨子里 | *Believe in their ... bones.* |
-| national greatness | 国家伟大 | *Greatness lies in ...* |
-| manufacturing might | 制造实力 | *Manufacturing might.* |
-| a barrel of a gun | 枪杆子 | *Power grew out of the barrel of a gun.* |
-| indispensable | 不可或缺的 | *Make China indispensable.* |
-| animal spirits | 动物精神（经济活力） | *Lifted the animal spirits.* |
-| consumer confidence | 消费者信心 | *Consumer confidence.* |
-| property slump | 地产低迷 | *The property slump.* |
-| stock-market rally | 股市反弹 | *Despite a rally.* |
-| collapsed | 崩盘 | *Car sales collapsed.* |
-| industrial prowess | 工业实力 | *Judged not by industrial prowess.* |
-| incongruity | 不协调、错位 | *Reasons for the incongruity.* |
-| labour-intensive | 劳动密集型的 | *No longer labour-intensive.* |
-| jobs per yuan | 每元就业 | *Fewer jobs per yuan.* |
-| equivalent outlay | 同等支出 | *An equivalent outlay.* |
-| delivery riders | 外卖骑手 | *Work as delivery riders.* |
-| gig economy | 零工经济 | *Elsewhere in the gig economy.* |
-| assembly lines | 装配线 | *Not assembly lines.* |
-| bike lanes | 自行车道 | *They occupy bike lanes.* |
-| tightly clustered | 高度聚集 | *Tightly clustered in a handful of cities.* |
-| specialise | 专业化 | *Suppliers to specialise.* |
-| congregate | 聚集 | *Talent to congregate.* |
-| circulates | 流通 | *Ideas to circulate.* |
-| widens the divide | 拉大鸿沟 | *Widens the divide.* |
-| leading and lagging regions | 领先/落后地区 | *Between leading and lagging.* |
-| manic home-building | 疯狂的建房 | *Based on manic home-building.* |
-| unpromising backwaters | 无望的穷乡僻壤 | *Unpromising backwaters.* |
-| left undisturbed | 不去打扰 | *Left undisturbed.* |
-| pickier about | 对……更挑剔 | *Pickier about place.* |
-| Inland provinces | 内陆省份 | *Inland provinces' share.* |
-| manufacturing push | 制造攻势 | *High-tech manufacturing push.* |
-| fiscal | 财政的 | *A third reason ... is fiscal.* |
-| deepen the tax base | 加深税基 | *Should deepen the tax base.* |
-| coffers | 金库、财库 | *Fill the coffers.* |
-| the flow of resources | 资源流向 | *Flow of resources.* |
-| in the opposite direction | 反方向 | *Runs in the opposite direction.* |
-| back local champions | 押注本地龙头 | *Back local champions.* |
-| tax breaks | 税收减免 | *Offer tax breaks and subsidies.* |
-| erode their financial standing | 侵蚀财政状况 | *Erode their financial standing.* |
-| fashionable industries | 时髦行业 | *Enter fashionable industries.* |
-| sap the profits | 蚕食利润 | *Sap the profits of rivals.* |
-| financially viable | 财务可行 | *Financially viable by 2030.* |
-| On the face of it | 表面上看 | *On the face of it, ...* |
-| ameliorate | 改善、减轻 | *Ameliorate its domestic weakness.* |
-| mutually reinforcing | 相互强化 | *Mutually reinforcing.* |
-| limp spending | 疲软的消费 | *Limp spending at home.* |
-| results in | 导致 | *Results in falling prices.* |
-| a cheap currency | 便宜的货币 | *A cheap currency.* |
-| propping up | 支撑 | *Propping up growth.* |
-| restore consumer confidence | 恢复消费信心 | *Restore consumer confidence.* |
-| stabilise the property market | 稳定楼市 | *Stabilise the property market.* |
-| sources of supply | 供应来源 | *Diversify sources of supply.* |
-| sources of demand | 需求来源 | *Diversify sources of demand.* |
-
-### ⭐⭐ 进阶词汇
-
-- **existing / erode** — 侵蚀
-- **outlay** — 支出
-- **rally** — 反弹
-- **prowess** — 高超技艺
-
-### ⭐ 基础词汇
-
-- **carmakers / shipbuilders / chip designers** — 车企/造船商/芯片设计师
-- **ministers** — 部长
-- **retail sales** — 零售额
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | limitation is the sincerest form of flattery | 限制是最诚挚的恭维（仿谚语） |
+| 基础 | formidable | 令人敬畏的、难对付的 |
+| 基础 | sophisticated industries | 尖端行业 |
+| 基础 | the preserve of | ……的专有领地 |
+| 基础 | outflanked | 侧翼包抄 |
+| 基础 | stolen a march on | 抢在……前面 |
+| 基础 | narrowed the gap | 缩小差距 |
+| 基础 | a tribute to | 对……的致敬 |
+| 基础 | scrambling to | 争相 |
+| 基础 | risky dependencies | 有风险的依赖 |
+| 基础 | countermeasures | 反制措施 |
+| 基础 | diversify | 多元化 |
+| 基础 | year-on-year | 同比 |
+| 基础 | withstand | 扛住 |
+| 基础 | property bubble | 房地产泡沫 |
+| 基础 | geopolitical clout | 地缘筹码 |
+| 基础 | historical-materialist bones | 历史唯物主义的骨子里 |
+| 基础 | national greatness | 国家伟大 |
+| 基础 | manufacturing might | 制造实力 |
+| 基础 | a barrel of a gun | 枪杆子 |
+| 基础 | indispensable | 不可或缺的 |
+| 基础 | animal spirits | 动物精神（经济活力） |
+| 基础 | consumer confidence | 消费者信心 |
+| 基础 | property slump | 地产低迷 |
+| 基础 | stock-market rally | 股市反弹 |
+| 基础 | collapsed | 崩盘 |
+| 基础 | industrial prowess | 工业实力 |
+| 基础 | incongruity | 不协调、错位 |
+| 基础 | labour-intensive | 劳动密集型的 |
+| 基础 | jobs per yuan | 每元就业 |
+| 基础 | equivalent outlay | 同等支出 |
+| 基础 | delivery riders | 外卖骑手 |
+| 基础 | gig economy | 零工经济 |
+| 基础 | assembly lines | 装配线 |
+| 基础 | bike lanes | 自行车道 |
+| 基础 | tightly clustered | 高度聚集 |
+| 基础 | specialise | 专业化 |
+| 基础 | congregate | 聚集 |
+| 基础 | circulates | 流通 |
+| 基础 | widens the divide | 拉大鸿沟 |
+| 基础 | leading and lagging regions | 领先/落后地区 |
+| 基础 | manic home-building | 疯狂的建房 |
+| 基础 | unpromising backwaters | 无望的穷乡僻壤 |
+| 基础 | left undisturbed | 不去打扰 |
+| 基础 | pickier about | 对……更挑剔 |
+| 基础 | Inland provinces | 内陆省份 |
+| 基础 | manufacturing push | 制造攻势 |
+| 基础 | fiscal | 财政的 |
+| 基础 | deepen the tax base | 加深税基 |
+| 基础 | coffers | 金库、财库 |
+| 基础 | the flow of resources | 资源流向 |
+| 基础 | in the opposite direction | 反方向 |
+| 基础 | back local champions | 押注本地龙头 |
+| 基础 | tax breaks | 税收减免 |
+| 基础 | erode their financial standing | 侵蚀财政状况 |
+| 基础 | fashionable industries | 时髦行业 |
+| 基础 | sap the profits | 蚕食利润 |
+| 基础 | financially viable | 财务可行 |
+| 基础 | On the face of it | 表面上看 |
+| 基础 | ameliorate | 改善、减轻 |
+| 基础 | mutually reinforcing | 相互强化 |
+| 基础 | limp spending | 疲软的消费 |
+| 基础 | results in | 导致 |
+| 基础 | a cheap currency | 便宜的货币 |
+| 基础 | propping up | 支撑 |
+| 基础 | restore consumer confidence | 恢复消费信心 |
+| 基础 | stabilise the property market | 稳定楼市 |
+| 基础 | sources of supply | 供应来源 |
+| 基础 | sources of demand | 需求来源 |
+| 基础 | existing | / erode — 侵蚀 |
+| 基础 | outlay | — 支出 |
+| 基础 | rally | — 反弹 |
+| 基础 | prowess | — 高超技艺 |
+| 基础 | carmakers | chip designers — 车企/造船商/芯片设计师 |
+| 基础 | ministers | — 部长 |
+| 基础 | retail | sales — 零售额 |
 
 ## 四、长难句专项
 
@@ -805,58 +796,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本课核心词汇 / 表达清单
-
-**竞争 / 贸易语境：**
-- limitation is the sincerest form of flattery（金句）、outflank、steal a march on、narrow the gap、formidable、the preserve of、countermeasures、diversify suppliers
-
-**经济 / 政策语境：**
-- animal spirits、property bubble、withstand、geopolitical clout、historical-materialist bones、tax base、coffers、tax breaks、fiscal、propping up、mutually reinforcing
-
-**就业 / 民生语境：**
-- labour-intensive、jobs per yuan、delivery riders、gig economy、bike lanes vs assembly lines（金句）、migrant workers
-
-**地理 / 结构语境：**
-- tightly clustered、a handful of、leading and lagging regions、widens the divide、Inland provinces、unpromising backwaters
-
-### 2. 精读中重点掌握的语法
-
-- **not ... but 判定结构**：Judged not by industrial prowess but by the health of ...（原 17）
-- **it 形式主语 + that 主语从**：It is a tribute ... that world leaders are scrambling（原 4）
-- **现在完成三并列**：have outflanked, stolen a march, narrowed the gap（原 3）
-- **unlike + which 非限定**：（原 19）
-- **禁止 no longer + 表语**：（原 21）
-- **一百比 Alliterate quotient**：fewer jobs per yuan than ...（原 22）
-- **分词状语（allowing）**：（原 41）
-- **On the face of it 假象 + however**：（原 38）
-
-### 3. 长难句提示
-
-见"四"。重点：三动词并列（3）、Unlike+which（19）、名词对仗（25）、因果环（40）。
-
-### 4. 写作技巧
-
-**本课最大学术亮点——"两线对照 + 结构三段病因"：**
-
-1. **谚语仿写开篇**：limitation is the sincerest form of flattery——把"imitation"换成"limitation"，一句反转点出"被限制=最强"——强烈记忆点。
-2. **立靶-反打结构**：前两段写"中国出口的强"（超德车/抢韩船/赶美芯 + 历史自豪），第三段用三个数据（信心/零售/车市）条件反打——"先强后弱"的落差感。
-3. **三症状 + 三病因结构**：第三段给"衰竭三联"（consumer confidence / retail / car），第四至六段按"就业/地理/财政"三个维度归因——结论的大框架。
-4. **"自行车道 vs 装配线"画面收束**：用空间意象替代数据论证——"外卖骑手"一个词讲透就业降级——全篇记忆点。
-5. **因果回环（loop）收尾**：Limp spending → cheap exports → booming exports → delay reform——不落俗套的"恶性循环"模型。
-6. **对仗结句**：European diversify supply vs China diversify demand——镜像结构收束——两种多元化同一个教训。
-
-### 5. 可迁移表达的"英语思维"
-
-- 想说"最强的时候是被copy/限得最厉害的时候"：**limitation is the sincerest form of flattery**。
-- 想说"完全超越对手"：**outflank / steal a march on**。
-- 想说"该有却没用上的效果"：**It is a tribute to ... that ...**。
-- 想说"经济没好转的指标"：**has not lifted the animal spirits**。
-- 想说"按另一种标准看是失败的"：**Judged not by A but by B, X is failing**。
-- 想说"产业从劳动密集衰落"：**no longer labour-intensive / fewer jobs per yuan**。
-- 想说"（特朗普/政府）错误地支持了免费搭车"：**a tribute / propping up / delay tougher measures**。
-- 想说"两个坏趋势滚在一起"：**mutually reinforcing**。
-
----
-
-**精读完成。** 这篇 Leaders 社论以"限制是最诚挚的恭维"的谚语仿写开篇，先承认中国高科技出口的强大（超德车、抢韩船、赶美芯、历史自豪），再用"动物精神缺失 + 消费三连败"反打，随后按就业、地理、财政三个维度剖析"出口繁荣未带动内需"的病因，最后用"弱内需→强出口→拖延改革"的闭环和"供应/需求双多元化"的对仗收束——全篇用"先扬后抑 + 三病因 + 回环结"的经典社论结构，英文地道的经济术语（animal spirits / tax base / propping up）值得收藏。

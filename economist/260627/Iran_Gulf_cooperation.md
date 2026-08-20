@@ -917,66 +917,59 @@ That is + 名词短语；`all the more reason` 意为"更加充分的理由"，t
 
 ---
 
-## 四、词汇分级
+## 词汇分级
 
-### 高频核心词（已掌握可迁移）
-- `disruption` 动荡、颠覆
-- `prosper` 繁荣
-- `unsettling` 令人不安的
-- `hub` 枢纽
-- `clout` 影响力
-- `levy` 征收
-- `tanker` 油轮
-- `fend off` / `ward off` 抵挡
-- `dispatch` 派遣
-- `bolster` 加强
-- `resilient` 有韧性的
-- `swiftly` 迅速地
-- `contain` 遏制
-- `aggression` 侵略
-- `unified` 团结的
-- `feud` 积怨
-
-### 学术/书面词汇
-- `embolden` 使壮胆（标题词）
-- `upend` 颠覆、掀翻
-- `wean off` 使戒除依赖
-- `corral` 圈集、召集（带贬义）
-- `prod` 督促、推动
-- `meddling` 干预（贬义）
-- `self-harming` 自我伤害的
-- `hardening` 加剧、固化
-- `lavishly` 挥霍地
-- `sophisticated` 精良的
-- `crucially` 关键的是
-
-### 专业术语
-- `petrostates` 石油国家
-- `oil shock` 石油危机
-- `the Strait of Hormuz` 霍尔木兹海峡
-- `chokehold` 锁喉（引申为扼制）
-- `compulsory insurance` 强制保险
-- `security provider` 安全提供者
-- `air- and missile-defences` 防空与反导系统
-- `Iron Dome battery` "铁穹"防空连
-- `acoustic-sensor layer` 声学传感器层
-- `military hardware` 军事装备
-- `wasting asset` 消耗性资产
-- `gaps in coverage` 覆盖空白
-
-### 地道表达
-- `be no strangers to` 对……并不陌生
-- `take sth into one's own hands` 掌握在自己手中
-- `be hooked on` 迷上
-- `bubble of security` 安全气泡（比喻）
-- `can no longer afford their mutual mistrust` 再也承担不起不信任的代价
-- `in time` 假以时日
-- `all the more reason to` 更充分的理由
-- `put aside` 搁置
-- `turn to` 求助于
-- `make use of` 利用
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | disruption | 动荡、颠覆 |
+| 基础 | prosper | 繁荣 |
+| 基础 | unsettling | 令人不安的 |
+| 基础 | hub | 枢纽 |
+| 基础 | clout | 影响力 |
+| 基础 | levy | 征收 |
+| 基础 | tanker | 油轮 |
+| 基础 | fend off | / `ward off` 抵挡 |
+| 基础 | dispatch | 派遣 |
+| 基础 | bolster | 加强 |
+| 基础 | resilient | 有韧性的 |
+| 基础 | swiftly | 迅速地 |
+| 基础 | contain | 遏制 |
+| 基础 | aggression | 侵略 |
+| 基础 | unified | 团结的 |
+| 基础 | feud | 积怨 |
+| 基础 | embolden | 使壮胆（标题词） |
+| 基础 | upend | 颠覆、掀翻 |
+| 基础 | wean off | 使戒除依赖 |
+| 基础 | corral | 圈集、召集（带贬义） |
+| 基础 | prod | 督促、推动 |
+| 基础 | meddling | 干预（贬义） |
+| 基础 | self-harming | 自我伤害的 |
+| 基础 | hardening | 加剧、固化 |
+| 基础 | lavishly | 挥霍地 |
+| 基础 | sophisticated | 精良的 |
+| 基础 | crucially | 关键的是 |
+| 高级 | petrostates | 石油国家 |
+| 高级 | oil shock | 石油危机 |
+| 高级 | the Strait of Hormuz | 霍尔木兹海峡 |
+| 高级 | chokehold | 锁喉（引申为扼制） |
+| 高级 | compulsory insurance | 强制保险 |
+| 高级 | security provider | 安全提供者 |
+| 高级 | air- and missile-defences | 防空与反导系统 |
+| 高级 | Iron Dome battery | "铁穹"防空连 |
+| 高级 | acoustic-sensor layer | 声学传感器层 |
+| 高级 | military hardware | 军事装备 |
+| 高级 | wasting asset | 消耗性资产 |
+| 高级 | gaps in coverage | 覆盖空白 |
+| 高级 | be no strangers to | 对……并不陌生 |
+| 高级 | take sth into one's own hands | 掌握在自己手中 |
+| 高级 | be hooked on | 迷上 |
+| 高级 | bubble of security | 安全气泡（比喻） |
+| 高级 | can no longer afford their mutual mistrust | 再也承担不起不信任的代价 |
+| 高级 | in time | 假以时日 |
+| 高级 | all the more reason to | 更充分的理由 |
+| 高级 | put aside | 搁置 |
+| 高级 | turn to | 求助于 |
+| 高级 | make use of | 利用 |
 
 ## 五、长难句专项
 

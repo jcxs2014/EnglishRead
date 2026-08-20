@@ -500,28 +500,23 @@ Xenia Manning Spotify 全球音乐政策主管 华盛顿
 
 ## 词汇分级
 
-### 高频核心词
-- `space debris` 太空碎片
-- `insurance bonds` 保险债券
-- `surety bond` 保证金
-- `royalty` 版税
-- `streaming` 流媒体
-
-### 学术/专业词汇
-- `tragedy of the commons` 公地悲剧
-- `Kessler event` 凯斯勒事件
-- `outer pushing forces` 向外推力
-- `catenary` 悬链线
-- `lactation` 哺乳
-
-### 地道表达
-- `awash with` 充斥着
-- `took a dig at` 批评
-- `a cocooned life` 茧房般的生活
-- `fossilised notions` 固化的观念
-- `turbocharged` 加速（涡轮增压器比喻）
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | space debris | 太空碎片 |
+| 基础 | insurance bonds | 保险债券 |
+| 基础 | surety bond | 保证金 |
+| 基础 | royalty | 版税 |
+| 基础 | streaming | 流媒体 |
+| 基础 | tragedy of the commons | 公地悲剧 |
+| 基础 | Kessler event | 凯斯勒事件 |
+| 基础 | outer pushing forces | 向外推力 |
+| 基础 | catenary | 悬链线 |
+| 基础 | lactation | 哺乳 |
+| 高级 | awash with | 充斥着 |
+| 高级 | took a dig at | 批评 |
+| 高级 | a cocooned life | 茧房般的生活 |
+| 高级 | fossilised notions | 固化的观念 |
+| 高级 | turbocharged | 加速（涡轮增压器比喻） |
 
 ## 长难句专项
 

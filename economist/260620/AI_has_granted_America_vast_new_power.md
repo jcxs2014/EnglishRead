@@ -910,61 +910,51 @@
 
 **段落逻辑（Token gestures）：** 欧洲建议（能源/规划/规则）→ 东亚建议（整合而非重复）→ 避免政府引导投资 → 总目标（非保护主义，让 AI 生态不只美国一家）→ 收束（不抱怨同盟，要积蓄实力）。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| ignominious | adj. | 耻辱的、不光彩的 | 原句 1 伊朗协议 |
-| exemplify | v. | 体现、例证 | 原句 1 |
-| frontier | adj./n. | 前沿的/前沿 | 原句 3 前沿 AI |
-| circumvents | v. | 绕过、规避 | 原句 6 越狱 |
-| bioweapons | n. | 生物武器 | 原句 6 |
-| overblown | adj. | 被夸大的 | 原句 8 |
-| trample on | v. | 践踏、欺凌 | 原句 11-12 |
-| wield | v. | 运用、挥舞 | 原句 13 |
-| captive to | adj. | 被……俘获、依附于 | 原句 15 |
-| cryptography | n. | 密码学 | 原句 18 |
-| proliferate | v. | 扩散、增殖 | 原句 28 |
-| vulnerability | n. | 漏洞 | 原句 29 |
-| compromised | v. | 被攻破 | 原句 29 |
-| self-defeating | adj. | 自毁的 | 原句 32 |
-| shun | v. | 避开 | 原句 44 |
-| vassal | n. | 附庸、封臣 | 原句 47 |
-| swathes of | n. | 大量、大片 | 原句 47 |
-| bargaining positions | n. | 议价地位 | 原句 49 |
-| at stake | 短语 | 利害攸关 | 原句 50 |
-| transactional | adj. | 交易化的 | 原句 57 |
-| whine about | v. | 抱怨 | 原句 57 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- could hardly be more wrong — 再错不过了（否定式最高级）
-- The chances are that ... — 很可能……
-- a means to an end — 达到目的的手段
-- Sure enough — 果然
-- What matters, though, is ... — 不过重要的是……
-- come down to — 归结为
-- Even as ... — 正当……的时候
-- has echoes of — 与……呼应
-- as with ... — 正如……
-- in favour of — 转而选择
-- rise fivefold — 增长五倍
-- more than ever — 比以往任何时候更
-- integrate rather than duplicate — 整合而非重复
-- not to whine but to build — 不是抱怨而是强大
-
-### ⭐ 扩展词汇（了解即可）
-
-- Unbiassed / unprejudiced — 无偏见的
-- pandemic-ready pathogens — 具备大流行潜力的病原体
-- open-weight models — 开放权重模型
-- lithography machines — 光刻机
-- fabs — 晶圆厂
-- peak power demand — 峰值电力需求
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | adj. | 耻辱的、不光彩的 |
+| 基础 | v. | 体现、例证 |
+| 基础 | adj./n. | 前沿的/前沿 |
+| 基础 | v. | 绕过、规避 |
+| 基础 | n. | 生物武器 |
+| 基础 | adj. | 被夸大的 |
+| 基础 | v. | 践踏、欺凌 |
+| 基础 | v. | 运用、挥舞 |
+| 基础 | adj. | 被……俘获、依附于 |
+| 基础 | n. | 密码学 |
+| 基础 | v. | 扩散、增殖 |
+| 基础 | n. | 漏洞 |
+| 基础 | v. | 被攻破 |
+| 基础 | adj. | 自毁的 |
+| 基础 | v. | 避开 |
+| 基础 | n. | 附庸、封臣 |
+| 基础 | n. | 大量、大片 |
+| 基础 | n. | 议价地位 |
+| 基础 | 短语 | 利害攸关 |
+| 基础 | adj. | 交易化的 |
+| 基础 | v. | 抱怨 |
+| 进阶 | could hardly be more wrong — 再错不过了 | 否定式最高级 |
+| 进阶 | The | chances are that ... — 很可能…… |
+| 进阶 | a | means to an end — 达到目的的手段 |
+| 进阶 | Sure | enough — 果然 |
+| 进阶 | What | matters, though, is ... — 不过重要的是…… |
+| 进阶 | come | down to — 归结为 |
+| 进阶 | Even | as ... — 正当……的时候 |
+| 进阶 | has | echoes of — 与……呼应 |
+| 进阶 | as | with ... — 正如…… |
+| 进阶 | in | favour of — 转而选择 |
+| 进阶 | rise | fivefold — 增长五倍 |
+| 进阶 | more | than ever — 比以往任何时候更 |
+| 进阶 | integrate | rather than duplicate — 整合而非重复 |
+| 进阶 | not | to whine but to build — 不是抱怨而是强大 |
+| 进阶 | Unbiassed | / unprejudiced — 无偏见的 |
+| 进阶 | pandemic-ready | pathogens — 具备大流行潜力的病原体 |
+| 进阶 | open-weight | models — 开放权重模型 |
+| 进阶 | lithography | machines — 光刻机 |
+| 进阶 | fabs | — 晶圆厂 |
+| 进阶 | peak | power demand — 峰值电力需求 |
 
 ## 三、长难句专项
 
@@ -1036,43 +1026,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文围绕"AI 地缘政治"出现三组高频词：**权力类**（wield, trample on, captive to, vassal, leverage）；**技术管控类**（restrict access, frontier, block exports, hierarchy of access, open-weight）；**经济/战略类**（bargaining positions, self-defeating, two-way dependence, build strength）。掌握这些词，可复用于一切科技竞争类文章。
-
-### 表达方式
-
-1. **"树靶→否定"开篇**：第一句摆出流行叙事（伊朗协议=美国衰落），第二句用 could hardly be more wrong 全盘否定，第三句抛出相反事实（AI 禁运令）——制造张力。
-2. **历史类比法**：用核武、密码学、F-22/F-35 三个先例，为"AI 管控"建立坐标——"有史可循"增强说服力。
-3. **三级结构预测**：最好的自留 / 次强给盟友 / 阉割版卖全球——用 F-35 类比，让抽象预测变得具体。
-4. **数字冲击**：80% 消费在海外、IP 支付涨五倍、算力 15 倍、电网需求 41→125GW——每个论点配一个硬数字。
-5. **平衡修正**：承认"依赖是双向的"（荷兰光刻机、台湾晶圆厂）——增强客观性，避免一边倒。
-6. **小标题收束**：Token gestures（象征性姿态）下给出建设性政策清单——"不止抱怨，更要自强"。
-
-### 语法要点
-
-- **否定式最高级**：could hardly be more wrong（再错不过了）——双重否定表极端。
-- **主语从句**：What matters, though, is the demonstration that ...（重要的是……）。
-- **not ... but 对比**：should not be protectionism but ensuring ...（不是……而是……）。
-- **形式主语**：it will be hard to be sure that ...（很难保证……）。
-- **so ... that 结果**：Compute is so lacking that it makes sense to ...（如此匮乏以至于……）。
-
-### 长难句
-
-最值得模仿的是"条件句套嵌"结构（原句 29）：if（对比）+ and（递进）+ 主句（结果）——先铺条件再给结论，逻辑层层推进。其次是同位语插入（原句 47）：主语 + 同位语（解释）+ 谓语——信息密度高但不乱。
-
-### 写作技巧
-
-- **从具体事件升维到权力本质**：一个 AI 禁运令 → "谁能用世界最重要技术由美国决定" → "访问分级"的体系分析。以小见大，层层升维。
-- **正反立场交替**：先讲"美国力量巅峰"，再讲"封禁自毁"，再讲"依赖双向"，再讲"算力碾压"——每个判断都被下一个判断修正，读者始终被带着走。
-- **给对手台阶**：文末承认"外国可转投开源模型"——不是纯粹恐吓，而是给出理性分析，让结论更有说服力。
-
-### 可迁移表达
-
-- "could hardly be more wrong" — 用于推翻流行观点。
-- "a means to an end" — 手段 vs 目的。
-- "come down to a decision in the Oval Office" — 一切归结于某个关键决定（可替换机构）。
-- "has echoes of" — 与历史呼应。
-- "the trade-off between A and B" — 权衡句型。
-- "not to whine about X but to build strength" — 建设性建议收尾。

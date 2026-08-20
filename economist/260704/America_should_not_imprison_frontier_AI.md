@@ -640,114 +640,100 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `developing spat` | 升级中的口角 | a developing spat | *A developing spat between.* |
-| `spat` | 口角 | a spat over | *The spat matters.* |
-| `pressing ... to` | 施压 | press sb to do | *Pressing the firm to comply.* |
-| `premature` | 过早的 | premature decision | *Premature to release.* |
-| `third parties` | 第三方 | hand to third parties | *Into the hands of third parties.* |
-| `matters` | 重要 | it matters | *The spat matters.* |
-| `a warning shot` | 警告信号 | a warning shot | *A warning shot about.* |
-| `whatever the outcome` | 无论结果 | whatever the outcome | *Whatever the outcome.* |
-| `the balance of power` | 权力平衡 | shift the balance | *The balance of power.* |
-| `shifting` | 转变 | the balance is shifting | *The balance is shifting.* |
-| `highlights` | 凸显 | highlight a problem | *Highlights the dilemma.* |
-| `the central dilemma` | 核心困境 | a central dilemma | *The central dilemma.* |
-| `wrecking` | 毁掉 | wreck the economy | *Without wrecking them.* |
-| `frontier models` | 前沿模型 | frontier AI | *Frontier models.* |
-| `convincing` | 令人信服的 | convincing argument | *In convincing ways.* |
-| `misused` | 被滥用 | misuse power | *Misused by bad actors.* |
-| `bioweapons` | 生物武器 | produce bioweapons | *Produce bioweapons.* |
-| `cyberattacks` | 网络攻击 | cyberattacks | *Design cyberattacks.* |
-| `at scale` | 大规模地 | at scale | *Misinformation at scale.* |
-| `acknowledging` | 承认 | acknowledge the risks | *Acknowledging those risks.* |
-| `slow down` | 放慢 | slow down | *Slow down the frontier.* |
-| `banning` | 禁止 | ban the models | *Banning models.* |
-| `heavily restricting` | 严格限制 | heavily restrict | *Heavily restricting.* |
-| `keep its foot on the accelerator` | 踩油门 | foot on the accelerator | *Keep its foot on the accelerator.* |
-| `red-team testing` | 红队测试 | red-team | *Red-team testing.* |
-| `robust preparedness` | 充分准备 | robust preparedness | *Robust preparedness.* |
-| `sympathies are with` | 立场在……一边 | sympathies with | *Sympathies are with the second camp.* |
-| `oversight` | 监督 | under oversight | *Under the oversight of.* |
-| `involvement` | 参与 | with involvement | *With the involvement of.* |
-| `imprison` | 囚禁 | imprison | *Imprison the frontier.* |
-| `lieutenants` | 副手 | the president's lieutenants | *Trump's lieutenants.* |
-| `hard to enforce` | 难以执行 | enforce a ban | *Hard to enforce.* |
-| `cede` | 割让 | cede ground | *Cede the frontier to rivals.* |
-| `above all` | 尤其是 | above all | *Above all China.* |
-| `in any case` | 无论如何 | in any case | *In any case.* |
-| `roll back` | 使退回 | roll back reforms | *Not roll back the ones.* |
-| `bend` | 弯曲引导 | bend policy | *Bend the technology.* |
-| `while managing` | 同时管理 | while managing | *While managing the risks.* |
-| `establish` | 确定 | establish the facts | *Establish what is safe.* |
-| `kept from` | 禁止接触 | keep from | *Kept from dangerous uses.* |
-| `left alone` | 放任 | leave alone | *Less powerful models left alone.* |
-| `in the same way that` | 正如 | in the same way | *In the same way that a knife.* |
-| `apply to` | 适用于 | apply to | *Rules apply to models.* |
-| `the line should be drawn` | 划线 | draw the line | *Where the line is drawn.* |
-| `prescription drugs` | 处方药 | prescription-only | *Prescription drugs.* |
-| `over-the-counter` | 非处方药 | over-the-counter | *Over-the-counter ones.* |
-| `strictly controlled` | 严格控制 | strictly control | *Strictly controlled.* |
-| `freely available` | 自由获取 | freely available | *Freely available.* |
-| `grave` | 严重的 | grave risks | *The risks are grave.* |
-| `the stakes are high` | 利害重大 | high stakes | *The stakes are high.* |
-| `retain the right to` | 保留权利 | retain the right | *Retain the right to act.* |
-| `deep knowledge of` | 深入了解 | deep knowledge | *Deep knowledge of the frontier.* |
-| `a serious plan` | 严肃计划 | a serious plan | *A serious plan.* |
-| `in an emergency` | 紧急情况 | emergency | *In an emergency.* |
-| `in extreme cases` | 极端情况 | extreme cases | *In extreme cases.* |
-| `it might be right to` | 可能是对的 | might be right | *Might be right to ban.* |
-| `the bar for` | 门槛 | raise the bar | *The bar for that.* |
-| `transparently` | 透明地 | transparently | *Applied transparently.* |
-| `demanded to see` | 要求查看 | demand to | *Demanded to see.* |
-| `in private` | 私下 | in private | *In private.* |
-| `fell well short of` | 远未达到 | fall short of | *Fell well short of the bar.* |
-| `the right approach to` | 正确方法 | the right approach | *The right approach.* |
-| `not ... but` | 不是……而是 | not A but B | *Not to slow it down, but to bend it.* |
-| `done well` | 做得好 | done well | *Done well.* |
-| `the path to safety` | 安全之路 | the path to | *The path to safety.* |
-| `resolved` | 解决 | resolve a dispute | *Resolved in that spirit.* |
-| `in that spirit` | 本着精神 | in the spirit of | *In that spirit.* |
-| `in practice` | 实践上 | in practice | *In practice.* |
-| `shareholders` | 股东 | shareholders' interests | *Those of its shareholders.* |
-| `the bigger prize` | 更大收获 | the bigger prize | *The bigger prize.* |
-| `a political culture` | 政治文化 | political culture | *A political culture.* |
-| `treats ... as` | 当作 | treat as | *Treats the frontier as a place.* |
-| `leads the world in` | 领先世界 | lead the world | *Leads the world in AI.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `advisers` | 顾问 | The firms and their advisers |
-| `out there` | 在外面 | Models out there |
-| `camp` | 阵营 | The second camp |
-| `rolling back` | 收回 | Roll back the ones |
-| `toy` | 玩具 | The toys that entertain people |
-| `apply` | 适用 | Rules apply to |
-| `graver` | 更严重 | Graver still |
-| `that is where` | 这正是 | That is where the spat gets interesting |
-| `concession` | 让步 | （本段无） |
-| `regulating` | 监管 | Regulate without wrecking |
-| `oversight` | 监督 | Under the oversight |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Anthropic` | 人类学（AI 公司名） | Anthropic, a leading AI company |
-| `Fable` | 寓言（模型名） | Fable and Mythos |
-| `Mythos` | 神话（模型名） | Fable and Mythos |
-| `red-team` | 红队 | Red-team testing |
-| `prescription` | 处方 | Prescription drugs |
-| `over-the-counter` | 非处方 | Over-the-counter ones |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | developing spat | 升级中的口角 |
+| 基础 | spat | 口角 |
+| 基础 | pressing ... to | 施压 |
+| 基础 | premature | 过早的 |
+| 基础 | third parties | 第三方 |
+| 基础 | matters | 重要 |
+| 基础 | a warning shot | 警告信号 |
+| 基础 | whatever the outcome | 无论结果 |
+| 基础 | the balance of power | 权力平衡 |
+| 基础 | shifting | 转变 |
+| 基础 | highlights | 凸显 |
+| 基础 | the central dilemma | 核心困境 |
+| 基础 | wrecking | 毁掉 |
+| 基础 | frontier models | 前沿模型 |
+| 基础 | convincing | 令人信服的 |
+| 基础 | misused | 被滥用 |
+| 基础 | bioweapons | 生物武器 |
+| 基础 | cyberattacks | 网络攻击 |
+| 基础 | at scale | 大规模地 |
+| 基础 | acknowledging | 承认 |
+| 基础 | slow down | 放慢 |
+| 基础 | banning | 禁止 |
+| 基础 | heavily restricting | 严格限制 |
+| 基础 | keep its foot on the accelerator | 踩油门 |
+| 基础 | red-team testing | 红队测试 |
+| 基础 | robust preparedness | 充分准备 |
+| 基础 | sympathies are with | 立场在……一边 |
+| 基础 | oversight | 监督 |
+| 基础 | involvement | 参与 |
+| 基础 | imprison | 囚禁 |
+| 基础 | lieutenants | 副手 |
+| 基础 | hard to enforce | 难以执行 |
+| 基础 | cede | 割让 |
+| 基础 | above all | 尤其是 |
+| 基础 | in any case | 无论如何 |
+| 基础 | roll back | 使退回 |
+| 基础 | bend | 弯曲引导 |
+| 基础 | while managing | 同时管理 |
+| 基础 | establish | 确定 |
+| 基础 | kept from | 禁止接触 |
+| 基础 | left alone | 放任 |
+| 基础 | in the same way that | 正如 |
+| 基础 | apply to | 适用于 |
+| 基础 | the line should be drawn | 划线 |
+| 基础 | prescription drugs | 处方药 |
+| 基础 | over-the-counter | 非处方药 |
+| 基础 | strictly controlled | 严格控制 |
+| 基础 | freely available | 自由获取 |
+| 基础 | grave | 严重的 |
+| 基础 | the stakes are high | 利害重大 |
+| 基础 | retain the right to | 保留权利 |
+| 基础 | deep knowledge of | 深入了解 |
+| 基础 | a serious plan | 严肃计划 |
+| 基础 | in an emergency | 紧急情况 |
+| 基础 | in extreme cases | 极端情况 |
+| 基础 | it might be right to | 可能是对的 |
+| 基础 | the bar for | 门槛 |
+| 基础 | transparently | 透明地 |
+| 基础 | demanded to see | 要求查看 |
+| 基础 | in private | 私下 |
+| 基础 | fell well short of | 远未达到 |
+| 基础 | the right approach to | 正确方法 |
+| 基础 | not ... but | 不是……而是 |
+| 基础 | done well | 做得好 |
+| 基础 | the path to safety | 安全之路 |
+| 基础 | resolved | 解决 |
+| 基础 | in that spirit | 本着精神 |
+| 基础 | in practice | 实践上 |
+| 基础 | shareholders | 股东 |
+| 基础 | the bigger prize | 更大收获 |
+| 基础 | a political culture | 政治文化 |
+| 基础 | treats ... as | 当作 |
+| 基础 | leads the world in | 领先世界 |
+| 进阶 | advisers | 顾问 |
+| 进阶 | out there | 在外面 |
+| 进阶 | camp | 阵营 |
+| 进阶 | rolling back | 收回 |
+| 进阶 | toy | 玩具 |
+| 进阶 | apply | 适用 |
+| 进阶 | graver | 更严重 |
+| 进阶 | that is where | 这正是 |
+| 进阶 | concession | 让步 |
+| 进阶 | regulating | 监管 |
+| 进阶 | oversight | 监督 |
+| 高级 | Anthropic | 人类学（AI 公司名） |
+| 高级 | Fable | 寓言（模型名） |
+| 高级 | Mythos | 神话（模型名） |
+| 高级 | red-team | 红队 |
+| 高级 | prescription | 处方 |
+| 高级 | over-the-counter | 非处方 |
 
 ## 四、长难句专项
 
@@ -804,76 +790,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-developing spat、spat、pressing、premature、third parties、matters、warning shot、whatever the outcome、balance of power、shifting、highlights、central dilemma、wrecking、frontier models、convincing、misused、bioweapons、cyberattacks、at scale、acknowledging、slow down、banning、heavily restricting、keep foot on accelerator、red-team testing、robust preparedness、sympathies are with、oversight、involvement、imprison、lieutenants、hard to enforce、cede、above all、in any case、roll back、bend、establish、kept from、left alone、in the same way that、apply to、draw the line、prescription drugs、over-the-counter、strictly controlled、freely available、grave、stakes are high、retain the right、deep knowledge、serious plan、in an emergency、in extreme cases、might be right、the bar for、transparently、demanded to see、in private、fell well short of、the right approach、not...but、done well、the path to safety、resolved、in that spirit、in practice、shareholders、the bigger prize、political culture、treats as、leads the world in
-
-### 2. 本文核心表达
-
-1. `how to regulate very powerful models without wrecking them` — 如何监管极强模型而不毁掉它们（核心困境）
-2. `The question is not whether to regulate, but how` — 问题不是要不要管而是怎么管
-3. `keep its foot on the accelerator` — 踩住油门（vs slow down 踩刹车）
-4. `The state should not try to imprison the frontier` — 国家不应囚禁前沿
-5. `the same way that a knife is not banned because it can be used to kill` — 正如刀不因能杀人而被禁
-6. `prescription drugs strictly controlled, over-the-counter freely available` — 处方药严控、非处方药放开（类比）
-7. `fell well short of that bar` — 远未达到那个门槛
-8. `not to slow it down, but to bend it` — 不是让它减速，而是引导它（题眼）
-9. `a place to govern, not to imprison` — 治理之地而非囚禁之地
-10. `America leads the world in frontier AI, and it should lead it in governing it, too` — 技术领先，治理也要领先（金句）
-
-### 3. 重要语法
-
-- **not A but B**：`not whether to regulate, but how`、`not to slow it down, but to bend it`
-- **so...so...that 结果从句**：双 so 排比 + that
-- **as 方式从句 + 冒号解释**：`as the American approach to drugs shows: ...`
-- **条件分词**：`Misused, they could...`（= If misused）；`Done well, ...`（= If done well）
-- **破折号插入同位语**：`—the ones most people actually use—`
-- **in which 定语从句插在主谓之间**：`The spat, in which..., fell short of...`
-- **被动语态**：`should be resolved`、`should be applied transparently`、`should be kept from`
-- **比较级结构**：`more capable, and more dangerous, than anything that has come before`
-- **形式主语**：`it might be right to ban a model`
-- **动名词复合结构**：`mean the government getting to see the models`
-- **现在完成进行时**：`has been pressing`（持续施压）
-
-### 4. 长难句
-
-- 原句 2：so...so...that 双排比 + 结果从句
-- 原句 29：as 方式从句 + 冒号并列解释
-- 原句 34：in which 定语从句插在主谓之间
-- 原句 38：mean + 动名词复合 + under rules + that 定语从句
-- 原句 39：不定式表语 + as 补语对比
-
-### 5. 写作技巧
-
-1. **"for X reasons" 数字结构**：第 1 段 "matters for three reasons"、第 4 段 "wrong for two reasons"——用数字预告论证结构，让文章骨架清晰可读
-2. **先让步再立场的辩论式结构**：先承认风险（第 2 段 "governments are right"）、再展示两派、最后站队（第 3 段 "sympathies are with"）——比直接表态更有说服力
-3. **交通隐喻贯穿全文**：slow down（踩刹车）、keep foot on the accelerator（踩油门）、bend it（塑形）——用同一个隐喻系统组织全文论证
-4. **类比论证**：刀不禁的类比（原句 26）+ 药品分级的类比（原句 29）——用读者熟悉的生活常识支撑政策主张，让抽象监管问题具体可感
-5. **首尾呼应**：开篇 spat 与结尾 resolved 呼应；标题 imprison 与第 4/7/8 段 imprison 反复——标题-正文-结论的一致性
-6. **让步中的克制**：`might be right to ban`、`fell well short of that bar`——立场鲜明但不极端，为政府保留例外空间，显示审慎
-7. **金句式收尾**：`leads the world in frontier AI, and it should lead it in governing it, too`——用动词反复制造口号，升华主题
-8. **具体数据/事实**：Fable 和 Mythos 两个模型名、处方药/非处方药的具体例子——用具体性增强可信度
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `developing spat` | 升级中的冲突 | A developing spat over policy. |
-| `matters for X reasons` | 说明重要性 | It matters for two reasons. |
-| `a warning shot` | 警示信号 | A warning shot about the trend. |
-| `the central dilemma` | 核心两难 | The central dilemma of the project. |
-| `not A but B` | 澄清重点 | The issue is not cost but timing. |
-| `keep your foot on the accelerator` | 保持势头 | Keep your foot on the accelerator. |
-| `sympathies are with` | 表明倾向 | My sympathies are with the reformers. |
-| `hard to enforce` | 难以执行 | The rule is hard to enforce. |
-| `cede ground to` | 让渡优势 | Cede ground to competitors. |
-| `in any case` | 无论如何 | In any case, we move on. |
-| `roll back` | 撤销 | Roll back the changes. |
-| `in the same way that X, so Y` | 类比论证 | In the same way that X fails, so Y will. |
-| `draw the line` | 划清界限 | We must draw the line somewhere. |
-| `the stakes are high` | 利害重大 | The stakes are high in this deal. |
-| `fall well short of` | 远未达到 | The results fell well short of expectations. |
-| `the path to` | 通向……之路 | Education is the path to opportunity. |
-| `the bigger prize` | 更大的目标 | The bigger prize is long-term trust. |
-| `lead the world in` | 领先世界 | The company leads the world in batteries. |

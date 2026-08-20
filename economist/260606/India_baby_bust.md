@@ -1017,87 +1017,79 @@
 
 **段落逻辑：** 归因定论（根源无疑是好的）→ 转折（但转型不会无痛）。第 10 段用"好的根源 + 痛的后果"完成全文总结。---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `baby bust` | 婴儿潮骤减 | baby bust | *A baby bust.* |
-| `drilled into` | 灌输进 | drill into | *Drilled into their heads.* |
-| `abetted by` | 在……怂恿下 | abet | *Abetted by his advisers.* |
-| `inept` | 不称职的 | inept | *Inept handling.* |
-| `chided` | 斥责 | chide | *Chide the parents.* |
-| `crueller` | 更残忍的 | cruel | *A crueller turn.* |
-| `forcibly` | 强制地 | forcible | *Forcibly sterilised.* |
-| `total fertility rate` | 总和生育率 | TFR | *The total fertility rate.* |
-| `replacement rate` | 更替率 | replacement | *Below replacement.* |
-| `sputtering` | 蹒跚的 | sputter | *Sputtering fertility.* |
-| `on a par with` | 与……不相上下 | on a par | *On a par with Norway.* |
-| `reference point` | 参照点 | reference | *A reference point.* |
-| `tally` | 总数 | tally | *A tally of 1.45bn.* |
-| `translate into` | 转化为 | translate | *Translate into fewer people.* |
-| `frets` | 担忧 | fret | *Frets about.* |
-| `procreate` | 生育 | procreate | *Encourage couples to procreate.* |
-| `demographic transition` | 人口转型 | transition | *The demographic transition.* |
-| `striking` | 引人注目的 | striking | *A striking contrast.* |
-| `plunging` | 暴跌 | plunge | *Plunge to record lows.* |
-| `exemplifies` | 例证 | exemplify | *Exemplify the trend.* |
-| `child mortality` | 儿童死亡率 | mortality | *Child mortality rates.* |
-| `make it to adulthood` | 活到成年 | adulthood | *Make it to adulthood.* |
-| `what really counts` | 真正重要的是 | count | *What counts is.* |
-| `autonomy` | 自主权 | autonomy | *Gain autonomy.* |
-| `a greater say` | 更大发言权 | a say | *A say in decisions.* |
-| `shoves down` | 压低 | shove | *Shove down the rate.* |
-| `aspirational` | 有抱负的 | aspire | *Aspirational families.* |
-| `dire` | 极糟的 | dire | *A dire situation.* |
-| `arms race` | 军备竞赛 | arms race | *An arms race.* |
-| `out-competed` | 被比下去 | compete | *Out-competed by rivals.* |
-| `soap operas` | 肥皂剧 | soap | *A popular soap opera.* |
-| `norms` | 社会规范 | norm | *Cultural norms.* |
-| `distracting` | 分心的 | distract | *A distracting device.* |
-| `implications` | 影响 | implication | *Big implications.* |
-| `account for` | 计入、说明 | account | *Account for the decline.* |
-| `central forecast` | 核心预测 | forecast | *The central forecast.* |
-| `apex` | 顶点 | apex | *Reach its apex.* |
-| `conflict-ridden` | 冲突不断的 | ridden | *A conflict-ridden region.* |
-| `scepticism` | 怀疑 | sceptic | *Treat with scepticism.* |
-| `bank on` | 指望 | bank on | *Bank on imports.* |
-| `migrant labour` | 移民劳动力 | migrant | *Migrant workers.* |
-| `purchasing power parity` | 购买力平价 | parity | *At purchasing power parity.* |
-| `cramp` | 妨碍 | cramp | *Cramp growth.* |
-| `crossed the threshold` | 越过门槛 | threshold | *Cross the threshold.* |
-| `divert ... into` | 转投 | divert | *Divert resources into.* |
-| `tax take` | 税收总额 | take | *Raise the tax take.* |
-| `formal labour force` | 正式劳动力 | labour | *Formal workforce.* |
-| `unambiguously` | 毫无歧义地 | unambiguous | *Unambiguously good.* |
-| `hurtle through` | 疾驰穿过 | hurtle | *Hurtle through.* |
-| `pain-free` | 无痛的 | free | *Pain-free.* |
-
-### ⭐⭐ 值得掌握
-
-| 词/短语 | 核心义 | 例句 |
-| --- | --- | --- |
-| `crude message` | 粗鲁的口号 | *A crude slogan.* |
-| `sterilisation` | 绝育 | *Forced sterilisation.* |
-| `reprinted` | 再版 | *Reprint the textbook.* |
-| `populous` | 人口稠密的 | *Populous states.* |
-| `encompassing` | 涵盖 | *Encompassing the city.* |
-| `increasingly` | 越来越 | *Increasingly important.* |
-| `siblings` | 兄弟姐妹 | *Without siblings.* |
-| `on a similar path to` | 相似道路 | *On a similar path.* |
-| `peaked` | 见顶 | *Population peaked.* |
-| `striking` | 显著的 | *Striking example.* |
-| `wealthy places` | 富裕地区 | *Wealthy countries.* |
-| `well below` | 远低于 | *Well below the rate.* |
-| `joining their ranks` | 加入行列 | *Join the ranks.* |
-| `moderate fall` | 中度下降 | *A moderate decline.* |
-| `depicting` | 描绘 | *Depicting middle-class life.* |
-| `failed to account for` | 未计入 | *Failed to account.* |
-| `as a whole` | 整体上 | *Asia as a whole.* |
-| `sooner than expected` | 比预期更早 | *Sooner than expected.* |
-| `scarce public resources` | 稀缺公共资源 | *Scarce resources.* |
-| `especially women` | 尤其女性 | *Especially women.* |---
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | baby bust | 婴儿潮骤减 |
+| 基础 | drilled into | 灌输进 |
+| 基础 | abetted by | 在……怂恿下 |
+| 基础 | inept | 不称职的 |
+| 基础 | chided | 斥责 |
+| 基础 | crueller | 更残忍的 |
+| 基础 | forcibly | 强制地 |
+| 基础 | total fertility rate | 总和生育率 |
+| 基础 | replacement rate | 更替率 |
+| 基础 | sputtering | 蹒跚的 |
+| 基础 | on a par with | 与……不相上下 |
+| 基础 | reference point | 参照点 |
+| 基础 | tally | 总数 |
+| 基础 | translate into | 转化为 |
+| 基础 | frets | 担忧 |
+| 基础 | procreate | 生育 |
+| 基础 | demographic transition | 人口转型 |
+| 基础 | striking | 引人注目的 |
+| 基础 | plunging | 暴跌 |
+| 基础 | exemplifies | 例证 |
+| 基础 | child mortality | 儿童死亡率 |
+| 基础 | make it to adulthood | 活到成年 |
+| 基础 | what really counts | 真正重要的是 |
+| 基础 | autonomy | 自主权 |
+| 基础 | a greater say | 更大发言权 |
+| 基础 | shoves down | 压低 |
+| 基础 | aspirational | 有抱负的 |
+| 基础 | dire | 极糟的 |
+| 基础 | arms race | 军备竞赛 |
+| 基础 | out-competed | 被比下去 |
+| 基础 | soap operas | 肥皂剧 |
+| 基础 | norms | 社会规范 |
+| 基础 | distracting | 分心的 |
+| 基础 | implications | 影响 |
+| 基础 | account for | 计入、说明 |
+| 基础 | central forecast | 核心预测 |
+| 基础 | apex | 顶点 |
+| 基础 | conflict-ridden | 冲突不断的 |
+| 基础 | scepticism | 怀疑 |
+| 基础 | bank on | 指望 |
+| 基础 | migrant labour | 移民劳动力 |
+| 基础 | purchasing power parity | 购买力平价 |
+| 基础 | cramp | 妨碍 |
+| 基础 | crossed the threshold | 越过门槛 |
+| 基础 | divert ... into | 转投 |
+| 基础 | tax take | 税收总额 |
+| 基础 | formal labour force | 正式劳动力 |
+| 基础 | unambiguously | 毫无歧义地 |
+| 基础 | hurtle through | 疾驰穿过 |
+| 基础 | pain-free | 无痛的 |
+| 进阶 | crude message | 粗鲁的口号 |
+| 进阶 | sterilisation | 绝育 |
+| 进阶 | reprinted | 再版 |
+| 进阶 | populous | 人口稠密的 |
+| 进阶 | encompassing | 涵盖 |
+| 进阶 | increasingly | 越来越 |
+| 进阶 | siblings | 兄弟姐妹 |
+| 进阶 | on a similar path to | 相似道路 |
+| 进阶 | peaked | 见顶 |
+| 进阶 | striking | 显著的 |
+| 进阶 | wealthy places | 富裕地区 |
+| 进阶 | well below | 远低于 |
+| 进阶 | joining their ranks | 加入行列 |
+| 进阶 | moderate fall | 中度下降 |
+| 进阶 | depicting | 描绘 |
+| 进阶 | failed to account for | 未计入 |
+| 进阶 | as a whole | 整体上 |
+| 进阶 | sooner than expected | 比预期更早 |
+| 进阶 | scarce public resources | 稀缺公共资源 |
 
 ## 四、长难句专项
 
@@ -1162,93 +1154,3 @@
 **⑤ 整体理解：** 冒号前给结论（在更穷时跌破更替），冒号后用"人均 GDP 不到一半"（less than half that of）作数据证明——双重比较（much lower level + less than half that）。把握 fell ... at a much lower level than + 冒号数据证明。---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、total fertility rate、replacement rate、sputtering、on a par with、reference point、tally、translate into、frets、procreate、demographic transition、striking、plunging、exemplifies、child mortality、make it to adulthood、what really counts、autonomy、a greater say、shoves down、aspirational、dire、arms race、out-competed、soap operas、norms、distracting、implications、account for、central forecast、apex、conflict-ridden、scepticism、bank on、migrant labour、purchasing power parity、cramp、crossed the threshold、divert into、tax take、formal labour force、unambiguously、hurtle through、pain-free
-
-### 2. 本文核心表达
-
-1. `YOU ARE having too many babies` — 全大写宣判开场："你们生太多孩子了"
-2. `That crude message was drilled into the minds of Indians by their rulers, abetted by inept foreign donors` — 粗鲁口号被统治者灌输进印度人脑海，还被不称职的外国捐赠者怂恿
-3. `officials had taken a crueller turn, overseeing the sterilisation of millions of young adults, usually the poor, many forcibly` — 官员转向更残忍的做法，主导数百万年轻人的绝育，通常殃及穷人、许多人被迫
-4. `They will warn not of the dangers of having too many babies, but of the risks of having too few` — 教材不再警示太多、而是警示太少（not...but 翻转）
-5. `India's population will still continue to grow from its current tally of 1.45bn: it takes time for fewer births to translate into fewer people overall` — 人口仍增长，因出生减少转化为人口减少需要时间
-6. `The government frets that India will get old before it gets rich—that the country is on a similar path to China` — 政府担心"未富先老"——正重走中国老路
-7. `It is no longer just wealthy places where families have few, or no, kids` — 不再只是富裕地区少生或不生
-8. `Over two-thirds of all countries are now below the replacement rate` — 超 2/3 国家低于更替率
-9. `In many places birth rates are plunging despite marriage remaining near-universal and even though few women have formal jobs` — 婚姻普遍+女性少工作，出生率仍暴跌（双让步）
-10. `What really counts is girls' education` — 真正重要的是女孩教育
-11. `It is only in the few places where most girls still don't go into formal education—like Niger, northern Nigeria or Chad—that fertility has hardly budged` — 只有在女孩不受教育的少数地方，生育率才纹丝不动
-12. `Parents are caught in an educational arms race` — 父母被卷进教育军备竞赛
-13. `If your neighbours have few kids and spend more on their education, your own will be out-competed unless you do the same` — 邻居少生多投，你不跟上孩子就会输（囚徒困境）
-14. `The smartphone is an even more powerful—and distracting—device for bringing the lifestyles of richer peers into poorer places` — 智能手机更强大也更让人分心地把富同辈生活带进穷地方
-15. `The UN, which tries to predict such things, has failed to account for the speed of fertility decline` — 试图预测人口却算漏生育率下滑速度的联合国
-16. `Asia as a whole may also reach its apex in the 2040s` — 整个亚洲 2040 年代见顶
-17. `predictions of a future in which there are 500m Nigerians or 3.8bn Africans should be treated with appropriate scepticism` — 对"5 亿尼日利亚人/38 亿非洲人"的预测应报以适当怀疑
-18. `Fertility fell below the replacement rate at a much lower level of development than most countries` — 印度在远比多数国家穷的水平跌破更替率
-19. `That need not cramp growth—China and Vietnam crossed the threshold at an even lower level of income—but it will complicate policymaking` — 未必妨增长（中国越南更低收入跨越），但会复杂化政策
-20. `The sources of falling fertility—girls' education, lower child mortality and the choices of individuals—are unambiguously good. But as India and others hurtle through their demographic transition, the consequences will not be pain-free` — 根源无疑好，但疾驰过转型的后果不会无痛（收束金句）---
-
-### 3. 重要语法
-
-- **全大写宣判句**：`YOU ARE having too many babies`
-- **被动 + 双施动**：`was drilled into ... by their rulers, abetted by inept foreign donors`
-- **not...but 对比**：`warn not of the dangers ..., but of the risks ...`
-- **术语定义（括号 + 同位语）**：`a total fertility rate (TFR), a measure of children per woman`
-- **形式主语 it**：`it takes time for fewer births to translate into fewer people`
-- **破折号并列双宾语从句**：`frets that India will get old before it gets rich—that ...`
-- **双重让步**：`despite marriage remaining near-universal and even though few women have formal jobs`
-- **It is no coincidence that（因果断言）**：`It is no coincidence that ... saw a huge surge in girls attending schools`
-- **It is only ... that（强调句）**：`It is only in the few places where ... that fertility has hardly budged`
-- **the more ... the more**：`The more aspirational parents get, the more they need to invest`
-- **被动比较（will be out-competed）**：`your own will be out-competed unless you do the same`
-- **whatever 让步**：`Whatever its precise cause, the baby bust has big implications`
-- **双重否定（not ... -free）**：`the consequences will not be pain-free`
-
-### 4. 长难句
-
-- 原句 2：被动 + 分词状语（by ... abetted by ...）
-- 原句 19：双 that 宾语从句 + where 定语从句
-- 原句 29：despite + even though 双让步
-- 原句 34-35：It is no coincidence that + It is only ... that 双强调
-- 原句 47：which 非限定从句 + has failed to account for
-- 原句 55：比较 + 冒号数据论证
-
-### 5. 写作技巧
-
-1. **历史反转开场**：`YOU ARE having too many babies`（全大写宣判）→ 60 年代口号 → 70 年代绝育 → "今夏教材再版将警示太少"——用"同一国家的政策掉头"引出主题，开场即戏剧性
-2. **术语三步教学**：`a total fertility rate (TFR), a measure of children per woman, of 1.9 and falling`——术语 + 括号缩写 + 同位语通俗解释 + 数据——让外行读懂专业指标
-3. **惊人对照**：`Tamil Nadu ... have the same fertility rate (1.3) as Finland`——印度邦 vs 北欧国的数据对照，冲击读者的常识预期
-4. **反常识点破**：`Scandinavia is not the natural reference point. Increasingly, it will be`——先否定常识（不是参照）再反转（将会是）——两短句制造"认知落差"
-5. **双重让步设疑**：`birth rates are plunging despite marriage remaining near-universal and even though few women have formal jobs`——两个"本该高生育的条件"都在，出生率却暴跌——"反常"引出原因分析
-6. **权威质疑 + 反衬**：`The UN, which tries to predict such things, has failed to account for ...`——which 从句轻描淡写介绍权威，主句否定它——"介绍再推翻"让作者判断更有力
-7. **破折号插入幽默**：`an even more powerful—and distracting—device` 与括弧（watching TV rather than having sex）——严肃议题里的编辑部幽默，调节节奏
-8. **比喻定论**：`Parents are caught in an educational arms race`——"军备竞赛"（arms race）比喻把教育竞争升格为"停不下来的系统性压力"
-9. **囚徒困境逻辑**：`If your neighbours have few kids and spend more ..., your own will be out-competed unless you do the same`——用博弈逻辑证明"少生是理性选择"
-10. **好的根源 + 痛的后果**：`The sources ... are unambiguously good. But as India and others hurtle through their demographic transition, the consequences will not be pain-free`——双重否定（not pain-free）婉转表达"有痛"；hurtle（疾驰）画面收尾
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `drill into` | 灌输 | Drill the idea into them. |
-| `take a crueller turn` | 转向恶化 | Took a crueller turn. |
-| `not ... but ...` | 对比翻转 | Not of dangers, but of risks. |
-| `on a par with` | 等量齐观 | On a par with Norway. |
-| `translate into` | 转化为 | Translate into fewer people. |
-| `get old before it gets rich` | 未富先老 | Getting old before rich. |
-| `below the replacement rate` | 低于更替率 | Below replacement. |
-| `what really counts` | 真正重要的是 | What counts is quality. |
-| `a greater say in` | 更大发言权 | A say in decisions. |
-| `caught in an arms race` | 卷进竞赛 | Caught in an arms race. |
-| `out-compete` | 比下去 | Out-competed by rivals. |
-| `account for` | 计入、解释 | Account for the decline. |
-| `reach its apex` | 见顶 | Reach its apex. |
-| `treat ... with scepticism` | 持怀疑态度 | Treat with scepticism. |
-| `bank on` | 指望 | Bank on imports. |
-| `cramp growth` | 妨碍增长 | Cramp growth. |
-| `cross the threshold` | 越门槛 | Crossed the threshold. |
-| `divert resources into` | 转投资源 | Divert resources into. |
-| `unambiguously good` | 无可争议地好 | Unambiguously good. |
-| `hurtle through` | 疾驰穿过 | Hurtle through the transition. |

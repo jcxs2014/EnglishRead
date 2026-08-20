@@ -238,46 +238,39 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                                | 核心义                | 常见搭配                                     | 例句                                                |
-| -------------------------------------- | --------------------- | -------------------------------------------- | --------------------------------------------------- |
-| `would not even qualify as bronze`     | 连青铜都算不上        | `qualify as`                                 | The deal would not even qualify as bronze.          |
-| `insisted on strict conditions`        | 坚持严格条件          | `insist on doing sth`                        | America insisted on strict conditions.              |
-| `forgo domestic enrichment`            | 放弃国内浓缩          | `forgo sth`                                  | The Emiratis had to forgo enrichment.               |
-| `firm up ... twitchy relations`        | 巩固紧张的关系        | `firm up ties`                               | The deal will firm up twitchy relations.            |
-| `risks undermining the NPT`            | 可能破坏 NPT          | `undermine confidence`                       | It risks undermining the treaty.                   |
-| `swear off enrichment`                 | 发誓放弃浓缩          | `swear off`                                  | It will not require Saudi to swear off enrichment.  |
-| `subject to rigorous inspections`      | 接受严格检查          | `subject to`                                 | The programme is subject to inspections.            |
-| `sweltering summers strain its grid`   | 酷夏使电网不堪重负    | `strain the system`                          | Sweltering summers strain its grid.                 |
-| `elbow out China and Russia`           | 挤掉中俄              | `elbow out rivals`                           | It is an attempt to elbow out rivals.               |
-| `a sop to`                             | 对……的安抚           | `a sop to critics`                           | It may be a sop to an angry ally.                   |
-| `bungling of his war`                  | 拙劣处理战争          | `bungle`                                     | His bungling of the war led to this deal.           |
-| `a flawed deal as compensation for an incompetent war` | 缺陷协议补偿无能战争 |                                            | It is typical Trump: compensation for incompetence. |
-| `relinquish its programme`             | 放弃其计划            | `relinquish control`                         | Why relinquish enrichment if rivals keep theirs?    |
-| `a point of bipartisan agreement`      | 两党共识              | `bipartisan support`                         | Non-proliferation was a bipartisan agreement.       |
-| `latent nuclear capabilities`          | 潜在核能力            | `latent threat`                              | Allies pursue latent nuclear capabilities.          |
-| `time-honoured way`                    | 古老的方法            | `time-honoured tradition`                    | Commissioning a study is time-honoured.             |
-| `shoddy`                               | 粗劣的                | `shoddy workmanship`                         | The deal is shoddy.                                 |
-| `financially beholden to`              | 财务上受制于          | `beholden to`                                | He is beholden to the kingdom's money.              |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                    |
-| ------------------------------- | --------------------------------------- |
-| `Additional Protocol`           | 《附加议定书》                          |
-| `non-Proliferation Treaty (NPT)` | 《不扩散核武器条约》                    |
-| `imminent`                      | 迫在眉睫的                              |
-| `belligerent neighbours`        | 好战的邻国                              |
-| `permissive`                    | 宽松的/纵容的                          |
-| `crumbles`                      | 崩塌                                    |
-| `nuclear umbrella`              | 核保护伞                                |
-| `erratic`                       | 反复无常的                              |
-| `twitchy`                       | 紧张的/不安的                          |
-| `lucrative`                     | 有利可图的                              |
-| `blockbuster`                   | 轰动一时的                              |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | would not even qualify as bronze | 连青铜都算不上 |
+| 基础 | insisted on strict conditions | 坚持严格条件 |
+| 基础 | forgo domestic enrichment | 放弃国内浓缩 |
+| 基础 | firm up ... twitchy relations | 巩固紧张的关系 |
+| 基础 | risks undermining the NPT | 可能破坏 NPT |
+| 基础 | swear off enrichment | 发誓放弃浓缩 |
+| 基础 | subject to rigorous inspections | 接受严格检查 |
+| 基础 | sweltering summers strain its grid | 酷夏使电网不堪重负 |
+| 基础 | elbow out China and Russia | 挤掉中俄 |
+| 基础 | a sop to | 对……的安抚 |
+| 基础 | bungling of his war | 拙劣处理战争 |
+| 基础 | a flawed deal as compensation for an incompetent war | 缺陷协议补偿无能战争 |
+| 基础 | relinquish its programme | 放弃其计划 |
+| 基础 | a point of bipartisan agreement | 两党共识 |
+| 基础 | latent nuclear capabilities | 潜在核能力 |
+| 基础 | time-honoured way | 古老的方法 |
+| 基础 | shoddy | 粗劣的 |
+| 基础 | financially beholden to | 财务上受制于 |
+| 进阶 | Additional Protocol | 《附加议定书》 |
+| 进阶 | non-Proliferation Treaty (NPT) | 《不扩散核武器条约》 |
+| 进阶 | imminent | 迫在眉睫的 |
+| 进阶 | belligerent neighbours | 好战的邻国 |
+| 进阶 | permissive | 宽松的/纵容的 |
+| 进阶 | crumbles | 崩塌 |
+| 进阶 | nuclear umbrella | 核保护伞 |
+| 进阶 | erratic | 反复无常的 |
+| 进阶 | twitchy | 紧张的/不安的 |
+| 进阶 | lucrative | 有利可图的 |
+| 进阶 | blockbuster | 轰动一时的 |
 
 ## 核心表达（可直接迁移）
 

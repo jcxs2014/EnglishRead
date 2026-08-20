@@ -259,44 +259,34 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                   | 核心义            | 常见搭配                     | 例句                                              |
-| ------------------------- | ----------------- | ---------------------------- | ------------------------------------------------- |
-| `bang for your buck`        | 钱花得值/性价比   | `get more bang for your buck`  | This phone offers great bang for your buck.       |
-| `rack up (surpluses/debt)`  | 积累/堆积         | `rack up losses/sales`         | The company racked up huge losses last quarter.   |
-| `out of kilter`             | 失调的/错位的     | `fall out of kilter`           | His schedule is out of kilter.                    |
-| `yawning (deficit/gap)`     | 巨大的/张开的     | `yawning budget deficit/gap`   | There's a yawning gap between rich and poor.      |
-| `strident`                  | 尖锐的/激烈的     | `strident critic/opposition`   | She was strident in her criticism.                |
-| `ebb` (and flow)            | 退潮/减弱         | `the noise ebbed away`         | His enthusiasm soon ebbed.                        |
-| `unmoored`                  | 失去锚的/漂泊的   | `remain unmoored from reality` | The currency remained unmoored from fundamentals. |
-| `draw on (markets/labour)`  | 涉及/利用         | `draw on expertise/resources`  | The product draws on decades of research.         |
-| `lavish ... on`             | 精心投入/慷慨给予 | `lavish care on/detail on`     | She lavishes attention on her garden.             |
-| `take on a life of its own` | 有了自己的生命    |                              | The project has taken on a life of its own.       |
-
-### ⭐⭐ 值得认识
-| 词/短语                 | 说明                        |
-| ----------------------- | --------------------------- |
-| `bell jars`               | 钟罩（实验室用）            |
-| `monetary heft`           | 货币分量（购买力）          |
-| `Golden Arches`           | 金拱门（McDonald's 标志）   |
-| `oomph`                   | 劲道/力度（口语）           |
-| `line up with`            | 与……吻合                    |
-| `xanthan gum`             | 黄原胶（食品增稠剂）        |
-| `Plaza Accord`            | 《广场协议》（1985 年）     |
-| `levelling-down`          | 向下 leveling（经济学术语） |
-| `deflationary tendencies` | 通缩趋势                    |
-| `real exchange rate`      | 实际汇率（经价格调整）      |
-| `price-adjusted`          | 经价格调整的                |
-| `come into being`         | 问世/诞生                   |
-| `admittedly`              | 必须承认地（退让式承认）    |
-| `distasteful`             | 令人反感的                  |
-
-### ⭐ 了解即可
-`Le Grand K`（大 K，国际千克原器）、`calibrate`（校准）、`eccentric`（古怪的）、`misaligned`（错位的）、`prescriptive value`（规范性价值）、`descriptive value`（描述性价值）、`predictive value`（预测性价值）。
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | bang for your buck | 钱花得值/性价比 |
+| 基础 | rack up (surpluses/debt) | 积累/堆积 |
+| 基础 | out of kilter | 失调的/错位的 |
+| 基础 | yawning (deficit/gap) | 巨大的/张开的 |
+| 基础 | strident | 尖锐的/激烈的 |
+| 基础 | ebb (and flow) | 退潮/减弱 |
+| 基础 | unmoored | 失去锚的/漂泊的 |
+| 基础 | draw on (markets/labour) | 涉及/利用 |
+| 基础 | lavish ... on | 精心投入/慷慨给予 |
+| 基础 | take on a life of its own | 有了自己的生命 |
+| 进阶 | bell jars | 钟罩（实验室用） |
+| 进阶 | monetary heft | 货币分量（购买力） |
+| 进阶 | Golden Arches | 金拱门（McDonald's 标志） |
+| 进阶 | oomph | 劲道/力度（口语） |
+| 进阶 | line up with | 与……吻合 |
+| 进阶 | xanthan gum | 黄原胶（食品增稠剂） |
+| 进阶 | Plaza Accord | 《广场协议》（1985 年） |
+| 进阶 | levelling-down | 向下 leveling（经济学术语） |
+| 进阶 | deflationary tendencies | 通缩趋势 |
+| 进阶 | real exchange rate | 实际汇率（经价格调整） |
+| 进阶 | price-adjusted | 经价格调整的 |
+| 进阶 | come into being | 问世/诞生 |
+| 进阶 | admittedly | 必须承认地（退让式承认） |
+| 进阶 | distasteful | 令人反感的 |
 
 ## 核心表达（可直接迁移）
 

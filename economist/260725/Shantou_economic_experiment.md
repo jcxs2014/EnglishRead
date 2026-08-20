@@ -214,37 +214,30 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                            | 核心义                | 常见搭配                                   | 例句                                                |
-| ---------------------------------- | --------------------- | ------------------------------------------ | --------------------------------------------------- |
-| `test-beds`                        | 试验田/试验场        | `test-bed for reforms`                      | The zones were test-beds for liberal policies.      |
-| `special economically backward zone` | 特别经济落后区       |                                           | Locals call it the "special backward zone".          |
-| `low-margin, labour-intensive`     | 低利润、劳动密集型    |                                           |                                                    |
-| `unusually egregious corruption`   | 异常恶劣的腐败        |                                           | The city suffered unusually egregious corruption.    |
-| `graft-busters`                    | 反腐人员              |                                           | Graft-busters were sent from the capital.           |
-| `the rot goes so deep`             | 腐败之深              | `the rot runs deep`                        | The rot goes so deep that nothing is safe.          |
-| `negatively correlated with`       | 与……负相关          |                                           | Investment is negatively correlated with growth.    |
-| `keep ... at bay`                  | 挡住/止步            | `keep inflation at bay`                    | Tourism revenue kept recession at bay.              |
-| `supercharge growth`               | 加速增长              |                                           | Policy can supercharge growth in the right conditions.|
-| `usher in`                         | 开启/引领            | `usher in a new era`                       | Shantou was meant to usher in reform.               |
-| `footfall`                         | 客流量/到店人次       | `drive footfall`                           | The film increased footfall.                       |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                    |
-| ------------------------------- | --------------------------------------- |
-| `central planning`              | 中央计划经济                          |
-| `world-changing successes`      | 改变世界的成功                        |
-| `trading ports`                 | 通商口岸                              |
-| `comparable to`                 | 与……相当                             |
-| `moved up the value chain`      | 向价值链上游移动                      |
-| `suspected arson attack`        | 疑似纵火                              |
-| `out-of-province kids`          | 外省仔                                |
-| `historic isolation`            | 历史上的孤立                          |
-| `migrant labourers`             | 农民工                                |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | test-beds | 试验田/试验场 |
+| 基础 | special economically backward zone | 特别经济落后区 |
+| 基础 | low-margin, labour-intensive | 低利润、劳动密集型 |
+| 基础 | unusually egregious corruption | 异常恶劣的腐败 |
+| 基础 | graft-busters | 反腐人员 |
+| 基础 | the rot goes so deep | 腐败之深 |
+| 基础 | negatively correlated with | 与……负相关 |
+| 基础 | keep ... at bay | 挡住/止步 |
+| 基础 | supercharge growth | 加速增长 |
+| 基础 | usher in | 开启/引领 |
+| 基础 | footfall | 客流量/到店人次 |
+| 进阶 | central planning | 中央计划经济 |
+| 进阶 | world-changing successes | 改变世界的成功 |
+| 进阶 | trading ports | 通商口岸 |
+| 进阶 | comparable to | 与……相当 |
+| 进阶 | moved up the value chain | 向价值链上游移动 |
+| 进阶 | suspected arson attack | 疑似纵火 |
+| 进阶 | out-of-province kids | 外省仔 |
+| 进阶 | historic isolation | 历史上的孤立 |
+| 进阶 | migrant labourers | 农民工 |
 
 ## 核心表达（可直接迁移）
 

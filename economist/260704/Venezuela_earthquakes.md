@@ -428,92 +428,78 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `sits on` | 坐拥 | sit on | *Sits on vast reserves.* |
-| `reserves of oil` | 石油储量 | reserves | *Reserves of oil.* |
-| `shaken by` | 被震动 | shaken by | *Shaken by earthquakes.* |
-| `as well as` | 以及 | as well as | *By earthquakes as well as by turmoil.* |
-| `political turmoil` | 政治动荡 | turmoil | *Political turmoil.* |
-| `a reminder that` | 提醒 | a reminder | *A reminder that.* |
-| `fragile` | 脆弱的 | fragile | *Can be fragile.* |
-| `the resource curse` | 资源诅咒 | resource curse | *The resource curse.* |
-| `rich in minerals` | 矿产丰富 | rich in | *Rich in minerals.* |
-| `poor in everything else` | 其他都贫乏 | poor in | *Poor in everything else.* |
-| `a textbook case` | 教科书式案例 | textbook | *A textbook case.* |
-| `proven oil reserves` | 已探明储量 | proven | *Proven oil reserves.* |
-| `dominated by sanctions` | 由制裁主导 | dominated by | *Dominated by sanctions.* |
-| `sanctions` | 制裁 | sanctions | *Economic sanctions.* |
-| `weaken the regime` | 削弱政权 | weaken | *Weaken the regime.* |
-| `removed ... from power` | 赶下台 | remove from power | *Removed from power.* |
-| `hurt ordinary ...` | 伤害普通 | hurt | *Hurt ordinary Venezuelans.* |
-| `siphoned off` | 抽走、挪用 | siphon off | *Siphoned off by officials.* |
-| `cronies` | 亲信 | cronies | *Their cronies.* |
-| `what remains` | 剩下的 | what remains | *What remains has been spent.* |
-| `spent on keeping` | 花在维持 | spend on | *Spent on keeping.* |
-| `keeping ... in power` | 维持掌权 | keep in power | *Keeping the regime in power.* |
-| `signs of change` | 变化迹象 | signs of | *Signs of change.* |
-| `created a moment for` | 创造了时刻 | create a moment | *Created a moment for reconstruction.* |
-| `reconstruction` | 重建 | reconstruction | *Reconstruction.* |
-| `has hinted` | 已暗示 | hint | *Has hinted it may.* |
-| `open up ... to` | 向……开放 | open up | *Open up the sector to investment.* |
-| `foreign investment` | 外国投资 | investment | *Foreign investment.* |
-| `press for reform` | 推动改革 | press for | *Press for reform.* |
-| `easing sanctions` | 放宽制裁 | ease | *Easing sanctions.* |
-| `in exchange for` | 以换取 | in exchange for | *In exchange for progress.* |
-| `the rule of law` | 法治 | rule of law | *The rule of law.* |
-| `more of the same` | 老样子 | more of the same | *More of the same.* |
-| `worse off` | 更糟 | worse off | *Leave them worse off.* |
-| `the stakes ... are high` | 利害大 | the stakes | *The stakes are high.* |
-| `a steady drain on` | 持续消耗 | a drain on | *A steady drain on resources.* |
-| `steady` | 持续的 | steady | *A steady drain.* |
-| `border resources` | 边境资源 | border | *Border resources.* |
-| `a recovering Venezuela` | 恢复中的委内瑞拉 | recovering | *A recovering Venezuela.* |
-| `a collapsed one` | 崩溃的 | collapsed | *A collapsed one.* |
-| `the regional dimension` | 地区层面 | dimension | *The regional dimension.* |
-| `absorbed ... refugees` | 吸纳难民 | absorb | *Absorbed millions of refugees.* |
-| `refugees` | 难民 | refugees | *Venezuelan refugees.* |
-| `repaid` | 回报 | repay | *Not repaid by the community.* |
-| `the international community` | 国际社会 | international community | *The international community.* |
-| `the underlying issue` | 根本问题 | underlying | *The underlying issue.* |
-| `not geology but governance` | 不是地质而是治理 | not...but | *Not geology but governance.* |
-| `governance` | 治理 | governance | *Good governance.* |
-| `no amount of` | 再多也（不） | no amount of | *No amount of oil.* |
-| `manage its wealth properly` | 妥善管理财富 | manage wealth | *Manage its wealth properly.* |
-| `should be shared` | 应当共享 | share | *Should be shared.* |
-| `squandered` | 挥霍 | squander | *Not squandered.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Venezuela` | 委内瑞拉 | Venezuela sits on |
-| `turmoil` | 动荡 | political turmoil |
-| `curse` | 诅咒 | the resource curse |
-| `minerals` | 矿产 | rich in minerals |
-| `proven` | 已探明的 | proven oil reserves |
-| `hint` | 暗示 | has hinted |
-| `reform` | 改革 | press for reform |
-| `elections` | 选举 | progress on elections |
-| `migration` | 移民 | Migration from Venezuela |
-| `refugees` | 难民 | Venezuelan refugees |
-| `geology` | 地质 | not geology but governance |
-| `wealth` | 财富 | manage its wealth |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Maduro` | 马杜罗 | President Nicolás Maduro |
-| `Colombia` | 哥伦比亚 | Colombia, Brazil |
-| `Brazil` | 巴西 | Colombia, Brazil |
-| `Venezuelan` | 委内瑞拉的 | ordinary Venezuelans |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | sits on | 坐拥 |
+| 基础 | reserves of oil | 石油储量 |
+| 基础 | shaken by | 被震动 |
+| 基础 | as well as | 以及 |
+| 基础 | political turmoil | 政治动荡 |
+| 基础 | a reminder that | 提醒 |
+| 基础 | fragile | 脆弱的 |
+| 基础 | the resource curse | 资源诅咒 |
+| 基础 | rich in minerals | 矿产丰富 |
+| 基础 | poor in everything else | 其他都贫乏 |
+| 基础 | a textbook case | 教科书式案例 |
+| 基础 | proven oil reserves | 已探明储量 |
+| 基础 | dominated by sanctions | 由制裁主导 |
+| 基础 | sanctions | 制裁 |
+| 基础 | weaken the regime | 削弱政权 |
+| 基础 | removed ... from power | 赶下台 |
+| 基础 | hurt ordinary ... | 伤害普通 |
+| 基础 | siphoned off | 抽走、挪用 |
+| 基础 | cronies | 亲信 |
+| 基础 | what remains | 剩下的 |
+| 基础 | spent on keeping | 花在维持 |
+| 基础 | keeping ... in power | 维持掌权 |
+| 基础 | signs of change | 变化迹象 |
+| 基础 | created a moment for | 创造了时刻 |
+| 基础 | reconstruction | 重建 |
+| 基础 | has hinted | 已暗示 |
+| 基础 | open up ... to | 向……开放 |
+| 基础 | foreign investment | 外国投资 |
+| 基础 | press for reform | 推动改革 |
+| 基础 | easing sanctions | 放宽制裁 |
+| 基础 | in exchange for | 以换取 |
+| 基础 | the rule of law | 法治 |
+| 基础 | more of the same | 老样子 |
+| 基础 | worse off | 更糟 |
+| 基础 | the stakes ... are high | 利害大 |
+| 基础 | a steady drain on | 持续消耗 |
+| 基础 | steady | 持续的 |
+| 基础 | border resources | 边境资源 |
+| 基础 | a recovering Venezuela | 恢复中的委内瑞拉 |
+| 基础 | a collapsed one | 崩溃的 |
+| 基础 | the regional dimension | 地区层面 |
+| 基础 | absorbed ... refugees | 吸纳难民 |
+| 基础 | refugees | 难民 |
+| 基础 | repaid | 回报 |
+| 基础 | the international community | 国际社会 |
+| 基础 | the underlying issue | 根本问题 |
+| 基础 | not geology but governance | 不是地质而是治理 |
+| 基础 | governance | 治理 |
+| 基础 | no amount of | 再多也（不） |
+| 基础 | manage its wealth properly | 妥善管理财富 |
+| 基础 | should be shared | 应当共享 |
+| 基础 | squandered | 挥霍 |
+| 进阶 | Venezuela | 委内瑞拉 |
+| 进阶 | turmoil | 动荡 |
+| 进阶 | curse | 诅咒 |
+| 进阶 | minerals | 矿产 |
+| 进阶 | proven | 已探明的 |
+| 进阶 | hint | 暗示 |
+| 进阶 | reform | 改革 |
+| 进阶 | elections | 选举 |
+| 进阶 | migration | 移民 |
+| 进阶 | refugees | 难民 |
+| 进阶 | geology | 地质 |
+| 进阶 | wealth | 财富 |
+| 高级 | Maduro | 马杜罗 |
+| 高级 | Colombia | 哥伦比亚 |
+| 高级 | Brazil | 巴西 |
+| 高级 | Venezuelan | 委内瑞拉的 |
 
 ## 四、长难句专项
 
@@ -580,85 +566,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-sits on、reserves of oil、shaken by、as well as、political turmoil、a reminder that、fragile、the resource curse、rich in minerals、poor in everything else、a textbook case、proven oil reserves、dominated by sanctions、sanctions、weaken the regime、removed from power、hurt ordinary、siphoned off、cronies、what remains、spent on keeping、keeping in power、signs of change、created a moment for、reconstruction、has hinted、open up to、foreign investment、press for reform、easing sanctions、in exchange for、the rule of law、more of the same、worse off、the stakes are high、a steady drain on、steady、border resources、a recovering Venezuela、a collapsed one、the regional dimension、absorbed refugees、refugees、repaid、the international community、the underlying issue、not geology but governance、governance、no amount of、manage its wealth properly、should be shared、squandered
-
-### 2. 本文核心表达
-
-1. `VENEZUELA sits on one of the world's largest reserves of oil` — 委内瑞拉坐拥世界最大石油储量之一
-2. `shaken ... by earthquakes as well as by political turmoil` — 被地震与政治动荡双重震动（双关）
-3. `even a country with huge energy resources can be fragile` — 即使资源大国也可能脆弱
-4. `rich in minerals but poor in everything else` — 矿产丰富但其他一切贫乏
-5. `Venezuela is a textbook case` — 委内瑞拉是教科书式案例
-6. `the sanctions have also hurt ordinary Venezuelans, and they have not removed Mr Maduro from power` — 制裁伤民又未逐权
-7. `Much of it has been siphoned off by officials and their cronies` — 大部分被官员与亲信虹吸
-8. `What remains has been spent on keeping the regime in power` — 剩下的用于维持政权
-9. `created a moment for reconstruction` — 创造了重建时刻
-10. `easing sanctions in exchange for progress` — 以放宽制裁换取进展
-11. `The alternative—more of the same—would leave both worse off` — 老路使双方更糟
-12. `The stakes for America are high` — 对美国的利害关系重大
-13. `Migration has been a steady drain on America's border resources` — 移民持续消耗美国边境资源
-14. `A recovering Venezuela would reduce that pressure, and a collapsed one would increase it` — 恢复则减压、崩溃则增压（对仗）
-15. `Their generosity has not always been repaid` — 慷慨未总获回报
-16. `The underlying issue is not geology but governance` — 根本问题不是地质而是治理（警句）
-17. `No amount of oil will help a country that does not manage its wealth properly` — 不会理财，再多油也无用
-18. `Venezuela's oil should be shared, not squandered` — 石油应共享而非挥霍（标题呼应）
-
-### 3. 重要语法
-
-- **not A but B**：`not geology but governance`
-- **被动语态**：`has been shaken`、`has been siphoned off`、`has been spent`、`has been dominated`、`has not been repaid`
-- **双 by 状语**：`by earthquakes as well as by political turmoil`
-- **what 主语从句**：`What remains has been spent`
-- **省略 that 宾语从句**：`has hinted (that) it may open up`
-- **that 定语从句**：`countries that are rich in minerals`、`a country that does not manage its wealth`
-- **对仗/对称结构**：`rich in ... but poor in ...`、`shared, not squandered`、`reducing ... / collapsed ... would increase`
-- **no amount of 绝对否定**：`No amount of oil will help`
-- **破折号插入语**：`The alternative—more of the same—`
-- **would 条件语气**：`would reduce`、`would increase`、`would leave`
-- **部分否定**：`not always been repaid`
-- **存在句**：`There are signs of change`
-
-### 4. 长难句
-
-- 原句 2：双 by 被动 + shaken 双关
-- 原句 4：resource curse 定义 + rich/poor 对仗
-- 原句 12：what 主语从句
-- 原句 15：交换式政策建议（use + by + in exchange for）
-- 原句 24：no amount of 绝对否定 + 定语从句
-- 原句 25：双被动分词对比
-
-### 5. 写作技巧
-
-1. **"坐下"双关开场**：`sits on one of the world's largest reserves`——sits on 既是"坐拥"（拥有）又是"被压着"（动弹不得），一个字埋下全文"资源诅咒"主题
-2. **词汇双关贯穿**：`shaken`（地震震动 / 社会震动）、`drain`（资源流失 / 边境压力）、`siphoned off`（虹吸挪用）——一系列"流失/震动"意象织成全文的隐喻网
-3. **主题概念先行**：第 2 段先定义"resource curse"（资源诅咒），再在第 3-4 段用具体事实（制裁失败、石油挪用）印证——"概念 → 例证"的论证结构
-4. **对仗句写选择**：`A recovering Venezuela would reduce that pressure, and a collapsed one would increase it`——正反两种前景用对称句式呈现，无需多言
-5. **警句提炼**：`not geology but governance`（不是地质而是治理）——not A but B + 头韵（geology/governance），一句话概括全文判断，可记忆
-6. **"反复回扣"的结构**：开头 sits on（坐拥资源）→ 结尾 no amount of oil will help（再多油无用）——从"资源神话"到"治理真相"，首尾完成批判闭环
-7. **标题即处方**：副标题 should be shared, not squandered → 结尾复现——社论"提出主张 → 论证 → 回扣主张"的标准收束
-8. **破折号插入的讽刺**：`The alternative—more of the same—would leave both worse off`——用"老样子"（more of the same）指代现状，破折号强调，简洁而有力
-9. **多视角论证**：委内瑞拉人民（第 4 段）→ 美国（第 6 段）→ 邻国（第 7 段）——由内而外，格局渐宽
-10. **数量词强化**：largest proven reserves、millions of refugees、85 million people——具体数字支撑论点（本篇用"世界最大储量"、"数百万难民"）
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `sit on ... reserves` | 坐拥资源 | The firm sits on a cash pile. |
-| `shaken by` | 受震撼 | Markets shaken by the news. |
-| `a reminder that` | 提醒 | A reminder that speed kills. |
-| `rich in ... but poor in ...` | 富此穷彼 | Rich in data but poor in insight. |
-| `a textbook case` | 教科书式案例 | A textbook case of misjudgement. |
-| `remove from power` | 赶下台 | The coup removed him from power. |
-| `siphon off` | 挪用 | Funds were siphoned off. |
-| `open up ... to` | 向……开放 | Open up the market to competition. |
-| `press for` | 推动 | Press for transparency. |
-| `in exchange for` | 以换取 | In exchange for a lower price. |
-| `the stakes are high` | 利害重大 | The stakes are high this season. |
-| `a drain on` | 消耗 | A drain on the budget. |
-| `the underlying issue` | 根本问题 | The underlying issue is trust. |
-| `no amount of X will ...` | 再多也无用 | No amount of spin will save the plan. |
-| `shared, not squandered` | 共享而非挥霍 | The talent should be shared, not squandered. |

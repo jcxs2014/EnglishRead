@@ -376,59 +376,49 @@
 
 **段落逻辑：** 宜居兴起讲述城市梦 → 梦的代价（自由换舒适/野心换归属）→ 有人觉得值 → 有人视之为放弃之地。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| liveable | adj. | 宜居的 | 原句 1 |
-| medium-sized city | n. | 中型城市 | 原句 2 |
-| the state's hand | n. | 国家的手、管控 | 原句 3 |
-| constraint | n. | 约束 | 原句 4 |
-| come as a package | 短语 | 打包而来 | 原句 4 |
-| make it | 短语 | 成功、立足 | 原句 5 |
-| coastal metropolis | n. | 沿海大城市 | 原句 5 |
-| commute | n. | 通勤 | 原句 7 |
-| consolations | n. | 慰藉 | 原句 8 |
-| appeal | n. | 吸引力 | 原句 9 |
-| a fraction of | 短语 | 的一小部分 | 原句 10 |
-| first-tier cities | n. | 一线城市 | 原句 10 |
-| a gentler pace | n. | 更舒缓的节奏 | 原句 11 |
-| trade-off | n. | 取舍、权衡 | 原句 12 |
-| a growing number of | 短语 | 越来越多的 | 原句 12 |
-| dominant | adj. | 主导的 | 原句 14 |
-| keeps a tight grip on | 短语 | 严格控制 | 原句 14 |
-| slip-up | n. | 失误 | 原句 15 |
-| blacklist | n. | 黑名单 | 原句 15 |
-| a rational choice | n. | 理性选择 | 原句 18 |
-| submission | n. | 屈从 | 原句 18 |
-| dignified retreat | n. | 体面的退路 | 原句 19 |
-| urban dream | n. | 城市梦 | 原句 21 |
-| ambition | n. | 野心、抱负 | 原句 22 |
-| worth paying | 短语 | 值得付出 | 原句 23 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- most foreigners have never heard of — 大多数外国人从未听说
-- a good life seems to cost less — 好生活似乎成本更低
-- comfort and constraint come as a package — 舒适与约束打包
-- failing to make it in a coastal metropolis — 未能在沿海大城市立足
-- I was a number ... I feel like a person — 我是数字……我感觉像个人
-- a third of what it was in Beijing — 北京时的三分之一
-- what officials call "liveable cities" — 官方所称的"宜居城市"
-- the comfort of fewer options — 选项更少的舒适
-- a dignified retreat — 体面的退路
-- bought with freedom / bought with ambition — 用自由/野心换来
-
-### ⭐ 扩展词汇（了解即可）
-
-- rankings — 排名
-- green hills ring the city centre — 青山环绕市中心
-- a single dominant industry — 单一主导产业
-- an act of submission — 屈从行为
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | adj. | 宜居的 |
+| 基础 | n. | 中型城市 |
+| 基础 | n. | 国家的手、管控 |
+| 基础 | n. | 约束 |
+| 基础 | 短语 | 打包而来 |
+| 基础 | 短语 | 成功、立足 |
+| 基础 | n. | 沿海大城市 |
+| 基础 | n. | 通勤 |
+| 基础 | n. | 慰藉 |
+| 基础 | n. | 吸引力 |
+| 基础 | 短语 | 的一小部分 |
+| 基础 | n. | 一线城市 |
+| 基础 | n. | 更舒缓的节奏 |
+| 基础 | n. | 取舍、权衡 |
+| 基础 | 短语 | 越来越多的 |
+| 基础 | adj. | 主导的 |
+| 基础 | 短语 | 严格控制 |
+| 基础 | n. | 失误 |
+| 基础 | n. | 黑名单 |
+| 基础 | n. | 理性选择 |
+| 基础 | n. | 屈从 |
+| 基础 | n. | 体面的退路 |
+| 基础 | n. | 城市梦 |
+| 基础 | n. | 野心、抱负 |
+| 基础 | 短语 | 值得付出 |
+| 进阶 | most | foreigners have never heard of — 大多数外国人从未听说 |
+| 进阶 | a | good life seems to cost less — 好生活似乎成本更低 |
+| 进阶 | comfort | and constraint come as a package — 舒适与约束打包 |
+| 进阶 | failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |
+| 进阶 | I | was a number ... I feel like a person — 我是数字……我感觉像个人 |
+| 进阶 | a | third of what it was in Beijing — 北京时的三分之一 |
+| 进阶 | what | officials call "liveable cities" — 官方所称的"宜居城市" |
+| 进阶 | the | comfort of fewer options — 选项更少的舒适 |
+| 进阶 | a | dignified retreat — 体面的退路 |
+| 进阶 | bought | with freedom / bought with ambition — 用自由/野心换来 |
+| 进阶 | rankings | — 排名 |
+| 进阶 | green | hills ring the city centre — 青山环绕市中心 |
+| 进阶 | a | single dominant industry — 单一主导产业 |
+| 进阶 | an | act of submission — 屈从行为 |
 
 ## 三、长难句专项
 
@@ -499,44 +489,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"城市发展特写"文本，词汇集中在：**宜居与舒适**（liveable, appeal, gentler pace, consolations）；**约束与代价**（constraint, tight grip, blacklist, slip-up）；**选择与权衡**（trade-off, rational choice, retreat, ambition）；**比较与程度**（a fraction of, a third of, a growing number of）。这组词是分析"宜居城市/城市化选择"话题的工具包。
-
-### 表达方式
-
-1. **设问开场**：WHICH CITY in China is the most liveable?——用问题引出评选与争议。
-2. **反差铺垫**：官方评第一 vs 外国人没听过——为"宜居"打问号。
-3. **对仗结构**：comfort vs constraint / cost less vs hand heavier——全文靠对仗推进。
-4. **人物切入**：小陈的故事（数字 vs 人）——用个体具象化议题。
-5. **金句式概括**：comfort of fewer options / a retreat is still a retreat——用矛盾修辞点题。
-6. **对称收尾**：For some ... For others——两种解读的平衡结尾。
-
-### 语法要点
-
-- **双 where 定语从句**：a city where ... and where ...——两个从句对仗。
-- **省略 that 定语从句**：a young man we will call Xiao Chen。
-- **what 宾语从句**：a third of what it was in Beijing。
-- **分词修饰**：bought with freedom / bought with ambition。
-- **否定并列**：a rational choice, not an act of submission。
-- **When 条件从句**：When the metropolis does not deliver。
-
-### 长难句
-
-最值得模仿的是"双 where 对仗"（原句 3）与"bought with 对仗"（原句 22）——前者概括"两面性"，后者把代价意象化。
-
-### 写作技巧
-
-- **辩证结构**：comfort 与 constraint 双线推进——不偏不倚地呈现两面。
-- **克制引用**："In Beijing I was a number"——让受访者说话，作者不代说。
-- **概念创造**：comfort of fewer options——把一个矛盾变成概念。
-- **反讽而不刻薄**：a retreat is still a retreat——温和的批评。
-
-### 可迁移表达
-
-- "Comfort and constraint come as a package" — 用于"好坏相伴"。
-- "the comfort of fewer options" — 用于"选择受限的代价"。
-- "a dignified retreat" — 用于"体面的退路"。
-- "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
-- "For some ... For others" — 用于平衡式结论。

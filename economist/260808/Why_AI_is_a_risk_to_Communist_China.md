@@ -985,76 +985,73 @@
 
 **段间衔接手法**：大量使用让步-反驳词（Although / However / Yet / In fact / But）制造"平衡"感；用主题句短句开启新段（Start with... / The convergence is likely to continue / Model-building is only half the story / China is also rapidly increasing...）；用词汇链呼应（benchmark-test、converge-convergence、diffuse-diffusion、deploy-deployment）。
 
-## 四、词汇分级
+## 词汇分级
 
-**基础词汇**（高频常用，须脱口而出）：
-- model /ˈmɒdl/ n. 模型；模式
-- cheap /tʃiːp/ adj. 便宜的
-- problem /ˈprɒbləm/ n. 问题
-- technology /tekˈnɒlədʒi/ n. 技术
-- economy /ɪˈkɒnəmi/ n. 经济
-- government /ˈɡʌvənmənt/ n. 政府
-- change /tʃeɪndʒ/ n./v. 变化
-- worker /ˈwɜːkə/ n. 工人
-- fast /fɑːst/ adv. 快速地
-- release /rɪˈliːs/ v. 发布
-- share /ʃeə/ n. 占比、份额
-- total /ˈtəʊtl/ n. 总量
-
-**进阶词汇**（四六级/考研档，写作主动词汇）：
-- benchmark /ˈbentʃmɑːk/ v./n. 基准测试
-- harness /ˈhɑːnɪs/ v. 利用、驾驭
-- converge /kənˈvɜːdʒ/ v. 趋同（convergence /kənˈvɜːdʒəns/ n.）
-- diffuse /dɪˈfjuːz/ v. 扩散（diffusion /dɪˈfjuːʒn/ n.）
-- deploy /dɪˈplɔɪ/ v. 部署（deployment /dɪˈplɔɪmənt/ n.）
-- deficit /ˈdefɪsɪt/ n. 缺口
-- infrastructure /ˈɪnfrəstrʌktʃə/ n. 基础设施
-- capacity /kəˈpæsəti/ n. 容量、产能
-- sanction /ˈsæŋkʃn/ n. 制裁
-- cutting-edge /ˌkʌtɪŋ ˈedʒ/ adj. 尖端的
-- output /ˈaʊtpʊt/ n. 产量
-- dynamic /daɪˈnæmɪk/ adj. 有活力的
-- shrink /ʃrɪŋk/ v. 萎缩
-- statistics /stəˈtɪstɪks/ n. 统计数据
-- sweeping /ˈswiːpɪŋ/ adj. 席卷式的
-- discontent /ˌdɪskənˈtent/ n. 不满
-- retraining /ˌriːˈtreɪnɪŋ/ n. 再培训
-- redeploy /ˌriːdɪˈplɔɪ/ v. 重新部署
-- surplus /ˈsɜːpləs/ adj. 过剩的
-- improvise /ˈɪmprəvaɪz/ v. 即兴应变
-- impair /ɪmˈpeə/ v. 损害
-- reinvent /ˌriːɪnˈvent/ v. 重塑
-- pose /pəʊz/ v. 造成（挑战）
-- outperform /ˌaʊtpəˈfɔːm/ v. 表现优于
-- herald /ˈherəld/ v. 预示
-- promising /ˈprɒmɪsɪŋ/ adj. 有前途的
-- malfunction /ˌmælˈfʌŋkʃn/ v. 故障
-
-**高级词汇**（超纲/学术/新闻语境，认读为主）：
-- calibre /ˈkælɪbə/ n. 水准（英式）
-- autocracy /ɔːˈtɒkrəsi/ n. 威权（专制）体制
-- semi-planned economy /ˌsemi ˈplænd ɪˈkɒnəmi/ n. 半计划经济
-- lithography /lɪˈθɒɡrəfi/ n. 光刻
-- open-weight /ˌəʊpən ˈweɪt/ adj. 开放权重的
-- trade-off /ˈtreɪd ɒf/ n. 权衡取舍
-- humanoid /ˈhjuːmənɔɪd/ adj./n. 人形的；人形机器人
-- microdrama /ˈmaɪkrəʊdrɑːmə/ n. 微短剧
-- gig economy /ˈɡɪɡ ɪˌkɒnəmi/ n. 零工经济
-- demographic /ˌdeməˈɡræfɪk/ adj. 人口的
-- brittle /ˈbrɪtl/ adj. 脆弱的
-- blowback /ˈbləʊbæk/ n. 反噬
-- anaemic /əˈniːmɪk/ adj. 疲软的（英式）
-- handout /ˈhændaʊt/ n. 施舍
-- social contract /ˌsəʊʃl ˈkɒntrækt/ n. 社会契约
-- universal basic income /ˌjuːnɪˈvɜːsl ˌbeɪsɪk ˈɪnkʌm/ n. 全民基本收入（UBI）
-- mop up /ˌmɒp ˈʌp/ v. 吸收、消化
-- let rip /ˌlet ˈrɪp/ 放手发展
-- stop-start /ˌstɒp ˈstɑːt/ adj. 走走停停的
-- stranded /ˈstrændɪd/ adj. 滞留的
-- lorry /ˈlɒri/ n. 卡车（英式）
-- sack /sæk/ v. 解雇（英式口语）
-- robotaxi /ˈrəʊbətæksi/ n. 自动驾驶出租车
-- state-owned enterprise /ˌsteɪt əʊnd ˈentəpraɪz/ n. 国有企业（SOE）
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | model | n. 模型；模式 |
+| 基础 | cheap | adj. 便宜的 |
+| 基础 | problem | n. 问题 |
+| 基础 | technology | n. 技术 |
+| 基础 | economy | n. 经济 |
+| 基础 | government | n. 政府 |
+| 基础 | change | n./v. 变化 |
+| 基础 | worker | n. 工人 |
+| 基础 | fast | adv. 快速地 |
+| 基础 | release | v. 发布 |
+| 基础 | share | n. 占比、份额 |
+| 基础 | total | n. 总量 |
+| 基础 | benchmark | v./n. 基准测试 |
+| 基础 | harness | v. 利用、驾驭 |
+| 基础 | converge | v. 趋同（convergence /kənˈvɜːdʒəns/ n.） |
+| 基础 | diffuse | v. 扩散（diffusion /dɪˈfjuːʒn/ n.） |
+| 基础 | deploy | v. 部署（deployment /dɪˈplɔɪmənt/ n.） |
+| 基础 | deficit | n. 缺口 |
+| 基础 | infrastructure | n. 基础设施 |
+| 基础 | capacity | n. 容量、产能 |
+| 基础 | sanction | n. 制裁 |
+| 基础 | cutting-edge | adj. 尖端的 |
+| 基础 | output | n. 产量 |
+| 基础 | dynamic | adj. 有活力的 |
+| 基础 | shrink | v. 萎缩 |
+| 基础 | statistics | n. 统计数据 |
+| 基础 | sweeping | adj. 席卷式的 |
+| 基础 | discontent | n. 不满 |
+| 基础 | retraining | n. 再培训 |
+| 基础 | redeploy | v. 重新部署 |
+| 基础 | surplus | adj. 过剩的 |
+| 基础 | improvise | v. 即兴应变 |
+| 基础 | impair | v. 损害 |
+| 基础 | reinvent | v. 重塑 |
+| 基础 | pose | v. 造成（挑战） |
+| 基础 | outperform | v. 表现优于 |
+| 基础 | herald | v. 预示 |
+| 基础 | promising | adj. 有前途的 |
+| 基础 | malfunction | v. 故障 |
+| 基础 | calibre | n. 水准（英式） |
+| 基础 | autocracy | n. 威权（专制）体制 |
+| 基础 | semi-planned | economy /ˌsemi ˈplænd ɪˈkɒnəmi/ n. 半计划经济 |
+| 基础 | lithography | n. 光刻 |
+| 基础 | open-weight | adj. 开放权重的 |
+| 基础 | trade-off | n. 权衡取舍 |
+| 基础 | humanoid | adj./n. 人形的；人形机器人 |
+| 基础 | microdrama | n. 微短剧 |
+| 基础 | gig | economy /ˈɡɪɡ ɪˌkɒnəmi/ n. 零工经济 |
+| 基础 | demographic | adj. 人口的 |
+| 基础 | brittle | adj. 脆弱的 |
+| 基础 | blowback | n. 反噬 |
+| 基础 | anaemic | adj. 疲软的（英式） |
+| 基础 | handout | n. 施舍 |
+| 基础 | social | contract /ˌsəʊʃl ˈkɒntrækt/ n. 社会契约 |
+| 基础 | universal | basic income /ˌjuːnɪˈvɜːsl ˌbeɪsɪk ˈɪnkʌm/ n. 全民基本收入（UBI） |
+| 基础 | mop | up /ˌmɒp ˈʌp/ v. 吸收、消化 |
+| 基础 | let | rip /ˌlet ˈrɪp/ 放手发展 |
+| 基础 | stop-start | adj. 走走停停的 |
+| 基础 | stranded | adj. 滞留的 |
+| 基础 | lorry | n. 卡车（英式） |
+| 基础 | sack | v. 解雇（英式口语） |
+| 基础 | robotaxi | n. 自动驾驶出租车 |
+| 基础 | state-owned | enterprise /ˌsteɪt əʊnd ˈentəpraɪz/ n. 国有企业（SOE） |
 
 ## 五、长难句专项
 

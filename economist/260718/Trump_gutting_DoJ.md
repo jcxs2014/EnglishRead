@@ -940,104 +940,90 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 / 说明 |
-| --- | --- | --- |
-| `set A on B` | 放出去对付 | `set the DoJ on sb`（放狗咬人的猎犬意象） |
-| `cry foul` | 大喊犯规/抗议 | 体育隐喻，`Champions cried foul` |
-| `champion (n.)` | 捍卫者 | `a champion of press freedom`（注意非"冠军"义） |
-| `grievance` | 怨愤/委屈 | `grievance agenda` / `grievance politics` |
-| `not the half of it` | 远不止于此 | 口语习语，表"冰山一角" |
-| `inflict A on B` | 强加（伤害）于 | `inflict harms on the DoJ` |
-| `attention-grabbing` | 抓眼球的 | 反义对：`less-noticed` |
-| `attorney-general` | 司法部长/总检察长 | 美英头衔，英式常作 `Attorney General` |
-| `serve as` | 充当/担任 | `serve as the guardian of the law` |
-| `the rule of law` | 法治 | 政论高频核心词 |
-| `hold sway` | 占支配地位 | 正式书面语 |
-| `have no time for` | 不屑于 | 口语惯用语，非字面义 |
-| `muscular limb` | 粗壮的肢体 | 比喻"只有力量没有头脑" |
-| `legitimate` | 合法的/正当的 | `which is legitimate` |
-| `blur A and B` | 模糊界限 | `blur the line between X and Y` |
-| `discredit` | 抹黑 | 正式动词 |
-| `obsession` | 执念 | `a presidential obsession`（贬义） |
-| `pore over` | 仔细翻查 | 隐含"徒劳细看" |
-| `sinister` | 险恶的 | `sinister design` |
-| `languish` / `wither` | 凋敝/萎缩 | 枯萎隐喻，植物意象 |
-| `indictment` | 起诉 | `be down by 30% from the ten-year average` |
-| `bog down` | 陷入泥潭 | 沼泽隐喻 |
-| `divert A to B` | 转用/挪用 | `diverted to immigration enforcement` |
-| `in league with` | 与……串通 | 贬义色彩 |
-| `sack` | 解雇 | 口语化，比 fire 有冲击力 |
-| `pliable` | 顺从的 | 原义"可弯曲的" |
-| `stand firm` | 坚守立场 | `courts stand firm` |
-| `check (v.)` | 遏制 | 呼应 checks and balances |
-| `nullify` | 使无效 | 正式法律动词 |
-| `subpoena` | 传票/传唤 | 名动同形 |
-| `acolyte` | 追随者 | 轻蔑色彩 |
-| `partisan` | 党派的 | 名词/形容词 |
-| `witch hunt` | 猎巫 | 政治迫害隐喻 |
-| `purge` | 清洗 | 政治术语 |
-| `entail` | 必然带来 | 正式动词 |
-| `think twice about` | 三思 | `think twice about signing up` |
-| `statesmanship` | 政治家风范 | 抽象名词 |
-| `bipartisan` | 两党合作的 | `bi-` + `partisan` |
-| `the stakes are high` | 利害攸关 | 结尾金句 |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 说明 |
-| --- | --- |
-| `grab (all) the attention` | 抢走注意力 |
-| `for good reason` | 并非无缘无故 |
-| `issue subpoenas to` | 发出传票 |
-| `in a sign of` | 一个迹象是 |
-| `enemies list` | 敌人名单（尼克松典故） |
-| `acting` | 代理的 |
-| `profound` | 深远的 |
-| `pick for` | ……的人选 |
-| `with zeal` | 以狂热 |
-| `voter rolls` | 选民名册 |
-| `ballots` | 选票 |
-| `populous` | 人口众多的 |
-| `some 260` | 大约 260 |
-| `at the very least` | 至少 |
-| `matters of public interest` | 公共利益事务 |
-| `division` | 部门/司局 |
-| `specialise in` | 专精于 |
-| `supply sb with sth` | 向……提供 |
-| `the benefit of the doubt` | 疑点利益 |
-| `sloppiness` | 马虎 |
-| `deliberate ill-intent` | 蓄意恶意 |
-| `petition` | 请愿书 |
-| `detained immigrants` | 被拘留的移民 |
-| `semi-independent agencies` | 半独立机构 |
-| `rule that` | 裁定 |
-| `mark an improvement` | 带来改观 |
-| `comply with` | 遵从 |
-| `threaten sb with sth` | 以……威胁 |
-| `knowingly` | 明知故犯 |
-| `thereby` | 从而 |
-| `rebuke` | 斥责 |
-| `restore` | 恢复 |
-| `a fresh round of` | 新一轮 |
-
-### ⭐ 了解即可
-
-| 词/短语 | 说明 |
-| --- | --- |
-| `Watergate` | 水门事件（背景知识） |
-| `Federal Reserve` | 美联储 |
-| `Senate hearings` | 参议院听证会 |
-| `FTC` / `SEC` | 监管机构缩写 |
-| `Trump v Slaughter` | 判例名（v. = versus） |
-| `counterterrorism` / `cyber-warfare` | 反恐/网络战 |
-| `tax audits` | 税务审计 |
-| `■` | 经济学人文章结束符 |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | `set A on B` | 放出去对付 |
+| 基础 | `cry foul` | 大喊犯规/抗议 |
+| 基础 | `champion (n.)` | 捍卫者 |
+| 基础 | `grievance` | 怨愤/委屈 |
+| 基础 | `not the half of it` | 远不止于此 |
+| 基础 | `inflict A on B` | 强加（伤害）于 |
+| 基础 | `attention-grabbing` | 抓眼球的 |
+| 基础 | `attorney-general` | 司法部长/总检察长 |
+| 基础 | `serve as` | 充当/担任 |
+| 基础 | `the rule of law` | 法治 |
+| 基础 | `hold sway` | 占支配地位 |
+| 基础 | `have no time for` | 不屑于 |
+| 基础 | `muscular limb` | 粗壮的肢体 |
+| 基础 | `legitimate` | 合法的/正当的 |
+| 基础 | `blur A and B` | 模糊界限 |
+| 基础 | `discredit` | 抹黑 |
+| 基础 | `obsession` | 执念 |
+| 基础 | `pore over` | 仔细翻查 |
+| 基础 | `sinister` | 险恶的 |
+| 基础 | `languish` / `wither` | 凋敝/萎缩 |
+| 基础 | `indictment` | 起诉 |
+| 基础 | `bog down` | 陷入泥潭 |
+| 基础 | `divert A to B` | 转用/挪用 |
+| 基础 | `in league with` | 与……串通 |
+| 基础 | `sack` | 解雇 |
+| 基础 | `pliable` | 顺从的 |
+| 基础 | `stand firm` | 坚守立场 |
+| 基础 | `check (v.)` | 遏制 |
+| 基础 | `nullify` | 使无效 |
+| 基础 | `subpoena` | 传票/传唤 |
+| 基础 | `acolyte` | 追随者 |
+| 基础 | `partisan` | 党派的 |
+| 基础 | `witch hunt` | 猎巫 |
+| 基础 | `purge` | 清洗 |
+| 基础 | `entail` | 必然带来 |
+| 基础 | `think twice about` | 三思 |
+| 基础 | `statesmanship` | 政治家风范 |
+| 基础 | `bipartisan` | 两党合作的 |
+| 基础 | `the stakes are high` | 利害攸关 |
+| 进阶 | `grab (all) the attention` | 抢走注意力 |
+| 进阶 | `for good reason` | 并非无缘无故 |
+| 进阶 | `issue subpoenas to` | 发出传票 |
+| 进阶 | `in a sign of` | 一个迹象是 |
+| 进阶 | `enemies list` | 敌人名单（尼克松典故） |
+| 进阶 | `acting` | 代理的 |
+| 进阶 | `profound` | 深远的 |
+| 进阶 | `pick for` | ……的人选 |
+| 进阶 | `with zeal` | 以狂热 |
+| 进阶 | `voter rolls` | 选民名册 |
+| 进阶 | `ballots` | 选票 |
+| 进阶 | `populous` | 人口众多的 |
+| 进阶 | `some 260` | 大约 260 |
+| 进阶 | `at the very least` | 至少 |
+| 进阶 | `matters of public interest` | 公共利益事务 |
+| 进阶 | `division` | 部门/司局 |
+| 进阶 | `specialise in` | 专精于 |
+| 进阶 | `supply sb with sth` | 向……提供 |
+| 进阶 | `the benefit of the doubt` | 疑点利益 |
+| 进阶 | `sloppiness` | 马虎 |
+| 进阶 | `deliberate ill-intent` | 蓄意恶意 |
+| 进阶 | `petition` | 请愿书 |
+| 进阶 | `detained immigrants` | 被拘留的移民 |
+| 进阶 | `semi-independent agencies` | 半独立机构 |
+| 进阶 | `rule that` | 裁定 |
+| 进阶 | `mark an improvement` | 带来改观 |
+| 进阶 | `comply with` | 遵从 |
+| 进阶 | `threaten sb with sth` | 以……威胁 |
+| 进阶 | `knowingly` | 明知故犯 |
+| 进阶 | `thereby` | 从而 |
+| 进阶 | `rebuke` | 斥责 |
+| 进阶 | `restore` | 恢复 |
+| 进阶 | `a fresh round of` | 新一轮 |
+| 高级 | `Watergate` | 水门事件（背景知识） |
+| 高级 | `Federal Reserve` | 美联储 |
+| 高级 | `Senate hearings` | 参议院听证会 |
+| 高级 | `FTC` / `SEC` | 监管机构缩写 |
+| 高级 | `Trump v Slaughter` | 判例名（v. = versus） |
+| 高级 | `counterterrorism` / `cyber-warfare` | 反恐/网络战 |
+| 高级 | `tax audits` | 税务审计 |
+| 高级 | `■` | 经济学人文章结束符 |
 
 ## 核心表达（可直接迁移）
 

@@ -116,33 +116,26 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                           | 核心义                | 常见搭配                            | 例句                                                |
-| -------------------------------- | --------------------- | ----------------------------------- | --------------------------------------------------- |
-| `contribute to a narrative`         | 助长某种叙事          | `contribute to a broader narrative`    | The data contributes to a familiar narrative.         |
-| `a stable foundation`              | 稳定的基础            | `a stable foundation for`               | A college degree is a stable foundation for a career.|
-| `aspire to`                        | 渴望/追求            | `aspire to greatness`                  | She aspired to become a doctor.                      |
-| `counter-cyclical investment`      | 反周期投资            | `act as counter-cyclical`             | Housing can act as counter-cyclical investment.      |
-| `notoriously volatile`             | 臭名昭著的波动性      |                                      | The industry is notoriously volatile.                 |
-| `be honestly uncertain than confidently wrong` | 宁可诚实不确定，不要自信错误 |                                 |                                     |
-| `the ultimate story for grandchildren` | 讲给孙子听的故事（最牛故事） |                              | He survived the accident — the ultimate story for grandchildren. |
-| `I was an irritant to adults. I became a journalist.` | 童年烦恼变职业（幽默因果） |                           |                                     |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                  |
-| ------------------------------- | ------------------------------------- |
-| `absorption rate`                 | 吸收率（私企建房与销售的匹配率）       |
-| `place-based leaders`            | 地方领导（以地理位置为中心的领导）     |
-| `ensemble forecasting`           | 集成预报（多模型集合）                 |
-| `Met Office`                     | 英国气象局                            |
-| `AI hallucinations`              | AI 幻觉（AI 生成错误信息）             |
-| `tsetse flies`                   | 采采蝇（非洲传播昏睡病的昆虫）         |
-| `sleeping sickness`              | 昏睡病（锥虫病）                      |
-| `pattern-matching`               | 模式匹配                              |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | contribute to a narrative | 助长某种叙事 |
+| 基础 | a stable foundation | 稳定的基础 |
+| 基础 | aspire to | 渴望/追求 |
+| 基础 | counter-cyclical investment | 反周期投资 |
+| 基础 | notoriously volatile | 臭名昭著的波动性 |
+| 基础 | be honestly uncertain than confidently wrong | 宁可诚实不确定，不要自信错误 |
+| 基础 | the ultimate story for grandchildren | 讲给孙子听的故事（最牛故事） |
+| 基础 | I was an irritant to adults. I became a journalist. | 童年烦恼变职业（幽默因果） |
+| 进阶 | absorption rate | 吸收率（私企建房与销售的匹配率） |
+| 进阶 | place-based leaders | 地方领导（以地理位置为中心的领导） |
+| 进阶 | ensemble forecasting | 集成预报（多模型集合） |
+| 进阶 | Met Office | 英国气象局 |
+| 进阶 | AI hallucinations | AI 幻觉（AI 生成错误信息） |
+| 进阶 | tsetse flies | 采采蝇（非洲传播昏睡病的昆虫） |
+| 进阶 | sleeping sickness | 昏睡病（锥虫病） |
+| 进阶 | pattern-matching | 模式匹配 |
 
 ## 核心表达（可直接迁移）
 

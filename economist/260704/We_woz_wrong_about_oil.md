@@ -367,85 +367,71 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `long-running series` | 长期系列 | long-running | *A long-running series.* |
-| `long-running` | 长期进行的 | long-running | *A long-running debate.* |
-| `the resource supercycle` | 资源超级周期 | supercycle | *The resource supercycle.* |
-| `wrong about that` | 那点错了 | wrong about | *Wrong about that.* |
-| `the logic behind` | 背后的逻辑 | the logic behind | *The logic behind the policy.* |
-| `absurd` | 荒谬的 | absurd | *Not absurd.* |
-| `running out of` | 耗尽 | run out of | *Running out of oil.* |
-| `seemed to be` | 似乎正在 | seem to | *Seemed to be running out.* |
-| `cheap oil` | 廉价石油 | cheap | *Cheap oil.* |
-| `insatiable` | 永不满足的 | insatiable | *Insatiable demand.* |
-| `emerging markets` | 新兴市场 | emerging | *Emerging markets.* |
-| `the shale revolution` | 页岩革命 | shale | *The shale revolution.* |
-| `unlocked` | 释放、解锁 | unlock | *Unlocked vast supplies.* |
-| `vast new supplies` | 巨大的新供给 | vast | *Vast new supplies.* |
-| `meanwhile` | 与此同时 | meanwhile | *Meanwhile, demand.* |
-| `more slowly than expected` | 比预期慢 | more ... than expected | *More slowly than expected.* |
-| `more efficient` | 更高效 | efficient | *More efficient economies.* |
-| `what went wrong` | 哪里出错 | go wrong | *What went wrong?* |
-| `the honest answer` | 诚实答案 | the honest answer | *The honest answer is.* |
-| `extrapolated from the past` | 从过去外推 | extrapolate | *Extrapolated from the past.* |
-| `took the recent trend` | 取近期趋势 | take the trend | *Took the recent trend.* |
-| `complex systems` | 复杂系统 | complex | *Complex systems.* |
-| `run in straight lines` | 直线运行 | straight lines | *Rarely run in straight lines.* |
-| `the deeper lesson` | 更深教训 | deeper | *The deeper lesson.* |
-| `prediction itself` | 预测本身 | itself | *About prediction itself.* |
-| `most confident` | 最为自信 | confident | *Most confident.* |
-| `least needed` | 最不需要 | least | *Least needed.* |
-| `at the extremes` | 在极端情况 | the extremes | *At the extremes.* |
-| `turning points` | 转折点 | turning point | *At turning points.* |
-| `confidence is highest` | 信心最高 | confidence | *Confidence is highest.* |
-| `just before the path bends` | 恰在拐弯前 | the path bends | *Just before the path bends.* |
-| `none of this means` | 这些都不意味着 | none of | *None of this means.* |
-| `easy to predict` | 容易预测 | easy to | *Easy to predict.* |
-| `what is certain` | 确定的是 | what is certain | *What is certain is.* |
-| `remain central to` | 仍是核心 | central to | *Remain central to.* |
-| `geopolitics` | 地缘政治 | geopolitics | *Geopolitics.* |
-| `for decades` | 数十年 | for decades | *For decades.* |
-| `burning it freely` | 自由燃烧 | burn freely | *Burning it freely.* |
-| `are numbered` | 屈指可数 | be numbered | *Days are numbered.* |
-| `the right attitude` | 正确态度 | the right attitude | *The right attitude.* |
-| `humility` | 谦逊 | humility | *Is humility.* |
-| `state our confidence` | 陈述信心 | state | *State our confidence.* |
-| `only when the evidence demands it` | 只在证据要求时 | only when | *Only when the evidence demands it.* |
-| `to put it` | 换句话说 | to put it | *To put it simply.* |
-| `right, not loud` | 正确而非响亮 | not loud | *Right, not loud.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `series` | 系列报道 | long-running series |
-| `cycle` | 周期 | the resource supercycle |
-| `shale` | 页岩 | the shale revolution |
-| `revolution` | 革命 | the shale revolution |
-| `supplies` | 供给 | vast new supplies |
-| `demand` | 需求 | Demand from China |
-| `trend` | 趋势 | the recent trend |
-| `forecasts` | 预测 | Forecasts are most confident |
-| `turning point` | 转折点 | At turning points |
-| `analysts` | 分析师 | for analysts |
-| `journalists` | 记者 | for journalists |
-| `evidence` | 证据 | the evidence demands it |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `China` | 中国 | Demand from China |
-| `oil` | 石油 | running out of oil |
-| `gas` | 天然气 | oil and gas |
-| `climate change` | 气候变化 | climate change means |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | long-running series | 长期系列 |
+| 基础 | long-running | 长期进行的 |
+| 基础 | the resource supercycle | 资源超级周期 |
+| 基础 | wrong about that | 那点错了 |
+| 基础 | the logic behind | 背后的逻辑 |
+| 基础 | absurd | 荒谬的 |
+| 基础 | running out of | 耗尽 |
+| 基础 | seemed to be | 似乎正在 |
+| 基础 | cheap oil | 廉价石油 |
+| 基础 | insatiable | 永不满足的 |
+| 基础 | emerging markets | 新兴市场 |
+| 基础 | the shale revolution | 页岩革命 |
+| 基础 | unlocked | 释放、解锁 |
+| 基础 | vast new supplies | 巨大的新供给 |
+| 基础 | meanwhile | 与此同时 |
+| 基础 | more slowly than expected | 比预期慢 |
+| 基础 | more efficient | 更高效 |
+| 基础 | what went wrong | 哪里出错 |
+| 基础 | the honest answer | 诚实答案 |
+| 基础 | extrapolated from the past | 从过去外推 |
+| 基础 | took the recent trend | 取近期趋势 |
+| 基础 | complex systems | 复杂系统 |
+| 基础 | run in straight lines | 直线运行 |
+| 基础 | the deeper lesson | 更深教训 |
+| 基础 | prediction itself | 预测本身 |
+| 基础 | most confident | 最为自信 |
+| 基础 | least needed | 最不需要 |
+| 基础 | at the extremes | 在极端情况 |
+| 基础 | turning points | 转折点 |
+| 基础 | confidence is highest | 信心最高 |
+| 基础 | just before the path bends | 恰在拐弯前 |
+| 基础 | none of this means | 这些都不意味着 |
+| 基础 | easy to predict | 容易预测 |
+| 基础 | what is certain | 确定的是 |
+| 基础 | remain central to | 仍是核心 |
+| 基础 | geopolitics | 地缘政治 |
+| 基础 | for decades | 数十年 |
+| 基础 | burning it freely | 自由燃烧 |
+| 基础 | are numbered | 屈指可数 |
+| 基础 | the right attitude | 正确态度 |
+| 基础 | humility | 谦逊 |
+| 基础 | state our confidence | 陈述信心 |
+| 基础 | only when the evidence demands it | 只在证据要求时 |
+| 基础 | to put it | 换句话说 |
+| 基础 | right, not loud | 正确而非响亮 |
+| 进阶 | series | 系列报道 |
+| 进阶 | cycle | 周期 |
+| 进阶 | shale | 页岩 |
+| 进阶 | revolution | 革命 |
+| 进阶 | supplies | 供给 |
+| 进阶 | demand | 需求 |
+| 进阶 | trend | 趋势 |
+| 进阶 | forecasts | 预测 |
+| 进阶 | turning point | 转折点 |
+| 进阶 | analysts | 分析师 |
+| 进阶 | journalists | 记者 |
+| 进阶 | evidence | 证据 |
+| 高级 | China | 中国 |
+| 高级 | oil | 石油 |
+| 高级 | gas | 天然气 |
+| 高级 | climate change | 气候变化 |
 
 ## 四、长难句专项
 
@@ -512,84 +498,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-long-running series、the resource supercycle、wrong about that、the logic behind、absurd、running out of、cheap oil、insatiable、emerging markets、the shale revolution、unlocked、vast new supplies、meanwhile、more slowly than expected、more efficient、what went wrong、the honest answer、extrapolated from the past、took the recent trend、complex systems、run in straight lines、the deeper lesson、prediction itself、most confident、least needed、at the extremes、turning points、confidence is highest、just before the path bends、none of this means、easy to predict、what is certain、remain central to、geopolitics、for decades、burning it freely、are numbered、the right attitude、humility、state our confidence、only when the evidence demands it、to put it、right not loud
-
-### 2. 本文核心表达
-
-1. `WE WERE wrong` — 我们错了（三个词的开场）
-2. `Our long-running series ... predicted that oil prices would keep rising` — 长期系列预测油价续涨
-3. `We were wrong about that, too` — 关于那点，我们也错了
-4. `The logic behind the supercycle was not absurd` — 超级周期逻辑并非荒谬
-5. `The world seemed to be running out of cheap oil` — 世界似乎正在耗尽廉价石油
-6. `Demand from China and other emerging markets seemed insatiable` — 需求似乎永不满足
-7. `Reality disagreed` — 现实不买账（拟人）
-8. `The shale revolution unlocked vast new supplies` — 页岩革命解锁巨大新供给
-9. `we extrapolated from the past` — 我们从过去线性外推
-10. `trends in complex systems rarely run in straight lines` — 复杂系统趋势很少走直线
-11. `Forecasts are most confident when they are least needed` — 预测在最不需要时最自信（悖论）
-12. `confidence is highest just before the path bends` — 信心最高时恰在拐弯前
-13. `What is certain is that oil will remain central ... for decades` — 确定的是石油仍核心
-14. `the days of burning it freely are numbered` — 自由燃烧的日子屈指可数
-15. `The right attitude ... is humility` — 正确的态度是谦逊
-16. `we will try to be right, not loud` — 努力正确而非响亮（金句）
-
-### 3. 重要语法
-
-- **What 主语从句**：`What is certain is that...`
-- **that 表语从句**：`The honest answer is that we extrapolated`
-- **省略 that 宾语从句**：`assumed (that) it would continue`
-- **when 时间从句**：`when they are least needed`、`when the evidence demands it`
-- **as 原因从句**：`as economies became more efficient and China's growth slowed`
-- **only when 强调**：`only when the evidence demands it`
-- **定语从句省略 that**：`the language (that) we understand best`
-- **被动语态**：`have been debunked`
-- **过去将来时**：`would keep rising`、`would continue`
-- **设问句**：`What went wrong?`
-- **破折号补充**：`—at the extremes`
-- **not X 对比**：`right, not loud`
-- **比较结构**：`more slowly than expected`
-
-### 4. 长难句
-
-- 原句 6：insatiable + 名词短语主语
-- 原句 9：as 双因从句
-- 原句 12：rarely + 直线比喻
-- 原句 14：most/least 悖论 + 破折号
-- 原句 17：What 主语从句 + that 表语从句
-- 原句 21：定语从句省略 that + right/loud 双关
-
-### 5. 写作技巧
-
-1. **最诚实的开场**：`WE WERE wrong`——三个词、全大写、无前缀。媒体认错最有效的开场就是"不找借口"，短句显坦诚
-2. **设问推进**：`What went wrong?`——自问自答引导读者进入方法论分析，比直接讲道理更有互动性
-3. **"合理的前提"辩护结构**：第 2 段先承认预测逻辑并非荒谬（not absurd）——既诚实又有风度，让"认错"更可信（不把自己写成白痴）
-4. **对称证伪**：第 2 段两个前提（供给将尽 / 需求无限）vs 第 3 段两个现实（页岩释放 / 需求放缓）——精确对称的"前提-证伪"结构
-5. **拟人化的现实**：`Reality disagreed`（现实不买账）——把现实写成对话对手，简短有力
-6. **悖论句**：`Forecasts are most confident when they are least needed`、`confidence is highest just before the path bends`——两个悖论句把"预测心理学"讲透：极端时最自信、拐弯前最自信
-7. **比喻系统**：`run in straight lines`（走直线）、`the path bends`（路拐弯）、`unlocked`（解锁）、`days are numbered`（时日无多）——用一组连续比喻讲方法论与时限
-8. **防误解的否定**：`None of this means that energy markets are easy to predict now`——认错之后立刻防止读者误解（认错 ≠ 现在能算准），思维严密
-9. **自嘲收尾**：`we will try to be right, not loud`（正确而非响亮）——right/loud 双关（对 / 响）精准点出媒体的职业陷阱，以自嘲收束，既有道理又有幽默
-10. **"首尾呼应"的认错结构**：开头 WE WERE wrong（1）→ 中间 We were wrong about that, too（3）→ 结尾 right, not loud——认错贯穿始终，姿态前后一致
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `long-running` | 长期的 | A long-running investigation. |
-| `the logic behind` | 背后的逻辑 | The logic behind the decision. |
-| `run out of` | 耗尽 | We're running out of time. |
-| `insatiable` | 永不满足 | Insatiable appetite for data. |
-| `unlock` | 释放潜力 | Unlock new opportunities. |
-| `what went wrong` | 哪里出错 | Let's figure out what went wrong. |
-| `extrapolate from` | 外推 | Don't extrapolate from one sample. |
-| `run in straight lines` | 走直线（线性） | Success never runs in straight lines. |
-| `at the extremes` | 在极端情况 | Be cautious at the extremes. |
-| `turning point` | 转折点 | A turning point in the project. |
-| `be numbered` | 时日无多 | Our free days are numbered. |
-| `the honest answer is` | 诚实的答案是 | The honest answer is we don't know. |
-| `state confidence` | 表态信心 | State confidence only when warranted. |
-| `right, not loud` | 对而非响 | Be right, not loud. |
-| `to put it in the language ...` | 用……的说法 | To put it in plain English. |

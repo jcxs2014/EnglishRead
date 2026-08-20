@@ -1041,89 +1041,81 @@
 
 **段落逻辑：** 承认悲观（民粹顺风、自由主义看似失败）→ 机构表态（经济学人不同意）→ 理由（有力辩护几乎没试过）→ 反转（问题源于市场不够自由）→ 希望（还有时间出成果赢论战）。副标题段完成"结论：自由主义犹可战"。---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `stir` | 涌动 | stir in | *Something is stirring.* |
-| `zany fringes` | 古怪滑稽的边缘人物 | fringes | *A zany idea.* |
-| `drill into` | 灌输 | drill | *Drilled into their heads.* |
-| `abet` | 怂恃、帮助 | abetted by | *Abetted by donors.* |
-| `spree` | 一阵狂潮 | spending spree | *A spending spree.* |
-| `stir` | 涌动 |  |  |
-| `supercharged` | 增压的 | supercharged by | *Supercharged by anger.* |
-| `fury over` | 对……的愤怒 | fury over | *Fury over Gaza.* |
-| `formidable` | 惊人强大的 | formidable pace | *A formidable opponent.* |
-| `remake` | 重塑 | remake the economy | *Remake the system.* |
-| `price controls` | 价格管制 | price controls | *Impose price controls.* |
-| `hefty` | 高额的 | hefty fines | *Hefty compensation.* |
-| `nationalisation` | 国有化 | nationalisation | *State nationalisation.* |
-| `awash in` | 泛滥的 | awash in | *Awash with money.* |
-| `all but flat` | 几乎原地踏步 | all but | *All but finished.* |
-| `all but` | 几乎 |  |  |
-| `seductive` | 诱人的 | seductive message | *A seductive offer.* |
-| `grain of truth` | 一丝真理 | grain of truth | *A grain of truth.* |
-| `in aggregate` | 总体而言 | in aggregate | *In aggregate, they.* |
-| `at the root of` | 的根源 | root of | *At the root of.* |
-| `wafer-thin` | 薄如纸片的 | wafer-thin | *Wafer-thin margins.* |
-| `demonise` | 妖魔化 | demonised | *Demonise the rich.* |
-| `deter` | 抑制 | deter innovation | *Deter investment.* |
-| `confiscatory` | 没收性的 | confiscatory tax | *A confiscatory tax.* |
-| `course correction` | 路线纠正 | course correction | *Automatic correction.* |
-| `over-regulation` | 过度管制 | over-regulation | *Over-regulation hurts.* |
-| `low-growth funk` | 低增长低迷 | in a funk | *In a funk.* |
-| `funk` | 低迷 | in a funk | *A global funk.* |
-| `statist` | 国家主义的 | statist policies | *Statist ideology.* |
-| `Peronist` | 秘羅莱斯式的 | Peronist | *The Peronists.* |
-| `relative decline` | 相对衰落 | relative decline | *Relative decline.* |
-| `urgent task` | 紧迫的任务 | urgent task | *An urgent task.* |
-| `free-market liberals` | 自由市场派 | liberals | *Free-market liberals.* |
-| `apologise` | 道歉 | stop apologising | *Stop apologising.* |
-| `obscure` | 遮蔽 | obscure the truth | *Obscure the facts.* |
-| `behavioural economics` | 行为经济学 | behavioural economics | *Behavioural study.* |
-| `broad-based` | 基础广泛的 | broad-based growth | *Broad-based.* |
-| `as well as` | 以及 | winners as well | *A and B as well as C.* |
-| `punchier` | 更有力的 | punchier defence | *A punchy argument.* |
-| `defence` | 辩护 | defence of | *A defence of.* |
-| `hand-wringing` | 焦虑不安 | hand-wringing | *Hand-wringing about.* |
-| `uncharismatic` | 无魅力的 | uncharismatic leader | *An uncharismatic.* |
-| `solve the problems driving` | 解决引发……的问题 | driving discontent | *Problems driving.* |
-| `abundance liberals` | "富足"自由派 | abundance agenda | *Abundance liberal.* |
-| `cheap and plentiful` | 廉价充足的 | cheap housing | *Plentiful supply.* |
-| `saddle with` | 让……背负 | saddle with debt | *Saddled with costs.* |
-| `excessive pensions` | 过度养老金 | excessive benefits | *Excessive pay.* |
-| `meritocracy` | 功绩制 | meritocracy prevails | *A meritocracy.* |
-| `inheritocracy` | 继承制（生造词） | inheritocracy | *An inheritocracy.* |
-| `levy` | 征收 | levy on property | *A levy on.* |
-| `moratorium` | 暂停 | moratorium on | *A moratorium on.* |
-| `jobs guarantee` | 就业保障 | jobs guarantee | *A jobs guarantee.* |
-| `set out their stall` | 摆好摊位 | set out | *Set out the stall.* |
-| `prescriptions` | 药方、处方 | policy prescriptions | *Policy prescriptions.* |
-| `distributed capital ownership` | 分布式资本所有权 | capital ownership | *Distributed ownership.* |
-| `upsides` | 好处 | the upside | *The upside of.* |
-| `widely shared` | 被广泛分享 | shared widely | *Widely shared.* |
-| `wind in their sails` | 顺风满帆 | wind in sails | *Have the wind.* |
-| `doomed to` | 注定 | doomed to fail | *Doomed to failure.* |
-
-### ⭐⭐ 值得掌握
-
-| 词/短语 | 核心义 | 例句 |
-| --- | --- | --- |
-| `preoccupations` | 关注焦点 | *A major preoccupation.* |
-| `awash with` | 充满 | *Awash with options.* |
-| `wafer-thin` | 薄如纸 | *Wafer-thin margins.* |
-| `ruthless competition` | 残酷竞争 | *Ruthless rivals.* |
-| `barmy` | 疯狂的 | *A barmy idea.* |
-| `bleed into` | 渗入 | *Bleed into mainstream.* |
-| `mad schemes` | 疯狂计划 | *Mad schemes.* |
-| `exempting from` | 免除 | *Exempt from tax.* |
-| `spooked` | 惊吹的 | *A spooked market.* |
-| `rekindle` | 重新燃起 | *Rekindle interest.* |
-| `formidable pace` | 惊人速度 | *At a formidable pace.* |
-| `thumping support` | 压倒性支持 | *Thumping victory.* |
-| `on a par with` | 与……不相上下 | *On a par with.* |---
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | stir | 涌动 |
+| 基础 | zany fringes | 古怪滑稽的边缘人物 |
+| 基础 | drill into | 灌输 |
+| 基础 | abet | 怂恃、帮助 |
+| 基础 | spree | 一阵狂潮 |
+| 基础 | stir | 涌动 |
+| 基础 | supercharged | 增压的 |
+| 基础 | fury over | 对……的愤怒 |
+| 基础 | formidable | 惊人强大的 |
+| 基础 | remake | 重塑 |
+| 基础 | price controls | 价格管制 |
+| 基础 | hefty | 高额的 |
+| 基础 | nationalisation | 国有化 |
+| 基础 | awash in | 泛滥的 |
+| 基础 | all but flat | 几乎原地踏步 |
+| 基础 | all but | 几乎 |
+| 基础 | seductive | 诱人的 |
+| 基础 | grain of truth | 一丝真理 |
+| 基础 | in aggregate | 总体而言 |
+| 基础 | at the root of | 的根源 |
+| 基础 | wafer-thin | 薄如纸片的 |
+| 基础 | demonise | 妖魔化 |
+| 基础 | deter | 抑制 |
+| 基础 | confiscatory | 没收性的 |
+| 基础 | course correction | 路线纠正 |
+| 基础 | over-regulation | 过度管制 |
+| 基础 | low-growth funk | 低增长低迷 |
+| 基础 | funk | 低迷 |
+| 基础 | statist | 国家主义的 |
+| 基础 | Peronist | 秘羅莱斯式的 |
+| 基础 | relative decline | 相对衰落 |
+| 基础 | urgent task | 紧迫的任务 |
+| 基础 | free-market liberals | 自由市场派 |
+| 基础 | apologise | 道歉 |
+| 基础 | obscure | 遮蔽 |
+| 基础 | behavioural economics | 行为经济学 |
+| 基础 | broad-based | 基础广泛的 |
+| 基础 | as well as | 以及 |
+| 基础 | punchier | 更有力的 |
+| 基础 | defence | 辩护 |
+| 基础 | hand-wringing | 焦虑不安 |
+| 基础 | uncharismatic | 无魅力的 |
+| 基础 | solve the problems driving | 解决引发……的问题 |
+| 基础 | abundance liberals | "富足"自由派 |
+| 基础 | cheap and plentiful | 廉价充足的 |
+| 基础 | saddle with | 让……背负 |
+| 基础 | excessive pensions | 过度养老金 |
+| 基础 | meritocracy | 功绩制 |
+| 基础 | `inheritocracy` | 继承制（生造词） |
+| 基础 | levy | 征收 |
+| 基础 | moratorium | 暂停 |
+| 基础 | jobs guarantee | 就业保障 |
+| 基础 | set out their stall | 摆好摊位 |
+| 基础 | prescriptions | 药方、处方 |
+| 基础 | distributed capital ownership | 分布式资本所有权 |
+| 基础 | upsides | 好处 |
+| 基础 | widely shared | 被广泛分享 |
+| 基础 | wind in their sails | 顺风满帆 |
+| 基础 | doomed to | 注定 |
+| 进阶 | preoccupations | 关注焦点 |
+| 进阶 | awash with | 充满 |
+| 进阶 | wafer-thin | 薄如纸 |
+| 进阶 | ruthless competition | 残酷竞争 |
+| 进阶 | barmy | 疯狂的 |
+| 进阶 | bleed into | 渗入 |
+| 进阶 | mad schemes | 疯狂计划 |
+| 进阶 | exempting from | 免除 |
+| 进阶 | spooked | 惊吹的 |
+| 进阶 | rekindle | 重新燃起 |
+| 进阶 | formidable pace | 惊人速度 |
+| 进阶 | thumping support | 压倒性支持 |
 
 ## 四、长难句专项
 
@@ -1208,98 +1200,3 @@
 **⑤ 整体理解：** that have brought unprecedented riches（带来空前财富的）修饰 ideas；has barely been tried（几乎没被尝试）——"好牌没打"的判断。把握 A defence of the ideas that ... has barely been tried。---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-Gen-Z socialism、a fresh crop、remake the economy、price controls、hefty wealth taxes、nationalisation spree、supercharged by fury over Gaza、septuagenarian、on his fourth swing at、thumping support、zero-sum mindset、ai barons、the centre-left、mad schemes、exempt from tax filers、spooked by the Greens、rekindling its zeal、win even when candidates lose、wafer-thin margins、demonised、confiscatory、course correction、low-growth funk、over-regulation、statist Peronists、relative decline、urgent task、free-market liberals、stop apologising、a grain of truth、in aggregate、at the root of、behavioural economics、broad-based、as well as winners、punchier defence、hand-wringing、uncharismatic centrists、meritocracy vs inheritocracy、moratorium、jobs guarantee、set out their stall、prescriptions、distributed capital ownership、upsides、widely shared、the wind in their sails、doomed to political failure、barely been tried、unprecedented riches、insufficiently free、not excessively so、the best time to be born、produce results、win the argument
-
-### 2. 本文核心表达
-
-1. `Something new is stirring on the left` — 左翼有新动事；为新势力引入
-2. `A fresh crop of socialists want to remake the economy with price controls, hefty wealth taxes and a spree of nationalisations` — 新社会主义者要用价格管制、高税、国有化重塑经济
-3. `Supercharged by fury over Gaza, they are winning voters at a formidable pace` — 加沙怒火助推，胜选势头惊人
-4. `Gen-Z socialism is a me-first doctrine` — 论点句：Z 世代社会主义是"自我优先"信条
-5. `Forget weighty collectivist ideals or seizing the means of production` — 切割传统社会主义
-6. `Climate change and race ... are now much more peripheral concerns. So are social issues, barring Gaza` — 旧焦点退居边缘，唯加沙例外
-7. `Angst about inflation, housing and artificial intelligence have replaced all that with something cruder` — 民生焦虑取代宏大理想
-8. `We can have nice things` — 诱人口号
-9. `The UN ... has failed to account for the speed of fertility decline` — 联合国没料到下降如此快
-10. `India's population will peak ... then fall back to just under a billion` — 印人口 20 年后见顶 16 亿，世纪末降至 10 亿
-11. `predictions of ... 500m Nigerians or 3.8bn Africans should be treated with appropriate scepticism` — 对"5 亿尼日利亚/38 亿非洲人"预测应怀疑
-12. `Gen-Z socialism is wrong about how to fix the problems of capitalism. It must be resisted, because it is a profound threat to prosperity` — 论点：药方错，威胁繁荣
-13. `Rent controls would worsen housing shortages by crushing the incentive to build` — 房租管制破坏建房动力
-14. `The profit margins ... are already wafer-thin ... a miracle of modern capitalism` — 超市利润薄如纸，现代资本主义奇迹
-15. `Wealth taxes would become confiscatory and deter innovation` — 财富税变没索性
-16. `That is bad news. ... Desperate to compete, even mainstream Democrats ... propose mad schemes` — 坏消息：连主流民主党也走极端
-17. `the ideas of the Gen-Z socialists can win even when their candidates lose` — 思想渗入主流
-18. `The first step is for free-market liberals to stop apologising` — 对策一：别道歉
-19. `This is the best time in human history to be born` — 反驳：资本主义创造了空前繁荣
-20. `A punchier defence of capitalism would work better ... than hand-wringing by uncharismatic centrists like Sir Keir Starmer` — 别搓手，来个有力辩护
-21. `many of the problems ... are the result of markets that are insufficiently free, not excessively so` — 反转：问题源于管制不足而非自由过多
-22. `There is time yet for liberalism to once again produce results—and to win the argument` — 结论：自由主义犹可胜
-
-### 3. 重要语法
-
-- **with 复合伴随结构**：`With American diplomatic efforts fizzling, some in Europe are asking`
-- **not...but 排除式定义**：`Not because ... —or because ...— but because it is the brand ...`
-- **It is no coincidence that（因果断言）**：`It is no coincidence that ...`
-- **It is only in ... that（强调句）**：`It is only in the few places where ... that fertility has hardly budged`
-- **The more ... the more**：`The more aspirational parents get, the more they need to invest`
-- **Would ... have ... to（情态虚拟）**：`would have chunks of everyday life governed by state diktat`
-- **have ... governed 复合宾语**：`have chunks of everyday life, from X to Y, governed by state diktat`
-- **not A but B（对照）**：`not merely a bureaucratic process. It is a geopolitical tool`
-- **Whatever its precise cause（让步）**：`Whatever its precise cause, the baby bust has big implications`
-- **as badly as the other way round（等量）**：`needs Ukraine as badly as the other way round`
-
-### 4. 写作技巧
-
-1. **命名句式**：`Call it Gen-Z socialism` — 直接给现象贴标签
-2. **历史反转开场**：从 60 年代"生太多"到今日"生太少"的对比
-3. **me-first 反讽定义**：把"社会主义"定义为"自私"——贬义反转
-4. **双重让步 + 反驳**：承认 3 条批评（理性/不平等/贸易输家），反驳"市场不够自由"
-5. **数据级对比**：`Tamil Nadu ... same fertility rate (1.3) as Finland`
-6. **反讽同位语**：`profit margins ... wafer-thin ... a miracle of modern capitalism`
-7. **生造词对仗**：`meritocracy prevails over inheritocracy`
-8. **设问二选一**：`Which is worse: A or B?`
-9. **政策三连反驳**：`Rent controls → worsen shortages / Wealth taxes → confiscatory / Policy failure → no auto-correction`
-10. **引用权威 + 反讽**：`The UN ... has failed to account for`
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `something new is stirring` | 新现象预测 | Something new is stirring. |
-| `a fresh crop of` | 新人一批 | A fresh crop of leaders. |
-| `supercharged by` | 被推动 | Supercharged by anger. |
-| `take a cruel turn` | 转恶 | Took a crueller turn. |
-| `take the lead` | 带头 | Take the lead in. |
-| `on his nth swing at` | 第 N 次冲击 | On his fourth swing at presidency. |
-| `thumping support` | 压倒性_support | Thumping support from youth. |
-| `me-first doctrine` | 自私信条 | A me-first doctrine. |
-| `barmy` | 疯狂的（英式） | Barmy ideas. |
-| `have the wind in their sails` | 顺风 | Populists have the wind. |
-| `spooked by` | 被吓到 | Spooked by the Greens. |
-| `rekindle its zeal for` | 重新燃起 | Rekindle zeal for control. |
-| `win even when ... lose` | 思想胜选失败人 | Ideas win when candidates lose. |
-| `wafer-thin` | 薄如纸 | Wafer-thin margins. |
-| `demonised by` | 被妖魔化 | Demonised by socialists. |
-| `confiscatory` | 没收性 | Confiscatory taxes. |
-| `low-growth funk` | 低增长低迷 | Stuck in a funk. |
-| `doomed to` | 注定 | Doomed to fail. |
-| `barely been tried` | 几乎没尝试 | Barely been tried. |
-| `in aggregate` | 总体 | In aggregate, they. |
-| `at the root of` | 根源 | Root of prosperity. |
-| `a grain of truth` | 一丝真理 | A grain of truth. |
-| `hand-wringing` | 焦虑搓手 | Hand-wringing about. |
-| `a punchier defence` | 更有力辩护 | A punchier defence. |
-| `set out their stall` | 摆摊表态 | Set out the stall. |
-| `the upside of` | 好处 | The upside of disruption. |
-| `widely shared` | 被广泛分享 | Widely shared benefits. |
-
----
-
-> ✍️ **AI 产出**：本次为人工智能的分析，作为参考。
-
----
-
-*—— 精读结束 ——*

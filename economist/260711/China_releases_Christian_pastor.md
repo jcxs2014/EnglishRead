@@ -282,34 +282,33 @@
 
 ---
 
-## 四、词汇学习（分级）
+## 词汇分级
 
-| 等级 | 单词 | 核心含义 | 常用搭配 | 例句 |
-|---|---|---|---|---|
-| ⭐⭐⭐ | prominent | 知名的、显要的 | a prominent figure/role | He played a prominent role in the talks. |
-| ⭐⭐⭐ | influential | 有影响力的 | an influential figure/voice | One of the most influential books of the century. |
-| ⭐⭐⭐ | detention | 拘留、羁押 | in detention; release from detention | He was held in detention for two years. |
-| ⭐⭐⭐ | crackdown | 打击、整治 | a crackdown on + N | The police launched a crackdown on drunk driving. |
-| ⭐⭐⭐ | broaden | 扩大、拓宽 | broaden one's horizons; broaden the reach | Travel broadens your horizons. |
-| ⭐⭐⭐ | raise (with) | 提出（问题/案件） | raise a question/issue/case with sb | I'll raise the matter with the manager. |
-| ⭐⭐⭐ | serve | 服刑；服务 | serve a sentence/time | He is serving 20 years for fraud. |
-| ⭐⭐⭐ | reportedly | 据报道 | sentence adverb | The talks reportedly broke down last night. |
-| ⭐⭐⭐ | remain | 保持（系动词） | remain + adj/pp | The cause of the fire remains unknown. |
-| ⭐⭐⭐ | authorities | 当局、官方 | the authorities; local authorities | The authorities have launched an investigation. |
-| ⭐⭐⭐ | release | 释放 | release sb from detention/prison | The hostages were released unharmed. |
-| ⭐⭐⭐ | known as | 被称为、又名 | be known as + 别名 | Xi'an, known as the city of history. |
-| ⭐⭐ | reach (n.) | 覆盖面、影响范围 | the reach of; beyond one's reach | Social media gave the movement global reach. |
-| ⭐⭐ | tycoon | 大亨、巨头 | a business/media tycoon | A property tycoon bought the island. |
-| ⭐⭐ | pro-democracy | 亲民主的 | 前缀 pro- 构词 | Pro-government rallies filled the square. |
-| ⭐⭐ | conspiracy | 共谋、阴谋 | conspiracy to + V; conspiracy theory | He was jailed for conspiracy to defraud. |
-| ⭐⭐ | collude / collusion | 勾结、串通 | collude with; in collusion with | The two firms were accused of collusion. |
-| ⭐⭐ | locked up | 被关押（口语） | lock sb up; be locked up | They locked him up for 15 years. |
-| ⭐⭐ | pastor | 牧师（新教） | 教派用词差异见 S3 | The pastor led the congregation in prayer. |
-| ⭐⭐ | jail | 监狱 | in jail; jail sentence | He spent five years in jail. |
-| ⭐ | Zion | 锡安（圣经地名） | 专有名词 | — |
-| ⭐ | house church | 家庭教会（术语） | 中国研究术语 | — |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | 等级 | 单词 |
+| 基础 | ⭐⭐⭐ | prominent |
+| 基础 | ⭐⭐⭐ | influential |
+| 基础 | ⭐⭐⭐ | detention |
+| 基础 | ⭐⭐⭐ | crackdown |
+| 基础 | ⭐⭐⭐ | broaden |
+| 基础 | ⭐⭐⭐ | raise (with) |
+| 基础 | ⭐⭐⭐ | serve |
+| 基础 | ⭐⭐⭐ | reportedly |
+| 基础 | ⭐⭐⭐ | remain |
+| 基础 | ⭐⭐⭐ | authorities |
+| 基础 | ⭐⭐⭐ | release |
+| 基础 | ⭐⭐⭐ | known as |
+| 基础 | ⭐⭐ | reach (n.) |
+| 基础 | ⭐⭐ | tycoon |
+| 基础 | ⭐⭐ | pro-democracy |
+| 基础 | ⭐⭐ | conspiracy |
+| 基础 | ⭐⭐ | collude / collusion |
+| 基础 | ⭐⭐ | locked up |
+| 基础 | ⭐⭐ | pastor |
+| 基础 | ⭐⭐ | jail |
+| 基础 | ⭐ | Zion |
+| 基础 | ⭐ | house church |
 
 ## 五、长难句专项
 
@@ -345,51 +344,3 @@
 ---
 
 ## 七、精读结束总结
-
-### 1. 本文核心词汇（最值得掌握）
-prominent、influential、detention（detain/detainee）、release from、crackdown (on)、authorities、pastor、broaden、reach (n.)、shut down、raise A with B、case、tycoon、serve a sentence、conspiracy、collude/collusion、reportedly、remain、locked up、pro-democracy（pro- 前缀）
-
-### 2. 本文核心表达（最值得记忆的短语/句型）
-1. `One of the most + 形容词 + 复数名词`（"最……之一"的英文结构，注意复数）
-2. `be released from detention`（从拘留中获释）
-3. `in a crackdown on + 目标`（对……的打击行动中）
-4. `known as` + 别名（又名……）
-5. `raise a case / issue / concern with sb`（向某人提出……）
-6. `move sth online, broadening its reach`（分词结果状语句式）
-7. `serve 20 years in jail for + 罪名`（因……服刑）
-8. `remain + 过去分词`（仍然处于……状态）
-
-### 3. 重要语法
-- 新闻导语现在完成时 vs 背景句一般过去时（**有明确时间点用过去时**）
-- 标题一般现在时（headline present）
-- 同位语（appositive）与缩减式定语从句（known as = who is known as）
-- 现在分词短语作结果状语（broadening its reach）
-- 非谓语多层"挂件"结构（S6：同位语 + 分词 + 介词短语）
-- 间接引语 + 句子副词 hedging（reportedly）
-- 替代词 one（a tough one）
-- 名词作定语（a Hong Kong jail）
-
-### 4. 最值得重读的长难句
-- S6（同位语 + 分词 + 双介词短语）
-- S4（从句 + 主句 + 分词结果状语，代词追踪）
-- S1 与 S2 的时态对照
-
-### 5. 写作技巧
-- **倒金字塔 + 时间倒流**：先给结论，再逐层回放背景
-- **代词纪律**：人名全称首次出现，之后用 he/his/Mr
-- **同义换词**：raised → spoke about，避免动词重复
-- **引号标注他者话语**：官方措辞、据说原话都打引号，保持媒体距离感
-- **对比收尾**：结尾一句与其他牧师对比，把结论留给读者——"让事实说话"
-- **紧凑信息**：一个句子完成"是谁 + 在做什么 + 为什么"三重任务
-
-### 6. 可迁移表达（按场景标注）
-| 表达 | 适用场景 |
-|---|---|
-| `One of the most influential + N` 开篇 | 学术写作 / 新闻导语：引出重要人物或事物 |
-| `raise A with B` | 职场 / 正式沟通：向某人提出议题（`I'd like to raise a concern with you.`） |
-| `in a crackdown on / a campaign against` | 新闻 / 政策写作：描述整治行动 |
-| `reportedly / allegedly`（句首） | 学术 / 新闻：信息无法证实时留有余地 |
-| `remain + adj/pp` | 正式写作：表达持续状态（`The question remains open.`） |
-| `broadening its reach` 式分词结构 | 议论文 / 商务报告：陈述行动的附带结果 |
-| `a tough one` | 日常口语：一件棘手的事（`That was a tough one.`） |
-| `serve 20 years in jail` | 新闻 / 法律英语：服刑表达 |

@@ -197,41 +197,34 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                              | 核心义                | 常见搭配                                   | 例句                                                |
-| ------------------------------------ | --------------------- | ------------------------------------------ | --------------------------------------------------- |
-| `ill-fated`                          | 注定失败的            | `ill-fated invasion`                        | The ill-fated invasion ended in disaster.           |
-| `en masse`                           | 全体地/大批地         | `arrested en masse`                         | Protesters were detained en masse.                 |
-| `crying wolf`                        | 喊狼来了（虚报警告）  | `cry wolf`                                  | They are crying wolf about sovereignty.            |
-| `conveniently never mentioned`       | 恰好地从不提及        |                                           | He conveniently omitted the war dead.              |
-| `in his telling`                     | 按照他的说法          |                                           | In his telling, Russia is the victim.              |
-| `oscillated between`                 | 在……之间摇摆         | `oscillate between extremes`                | Russia oscillated between pride and grievance.      |
-| `in its own right`                   | 凭自身实力            | `a great country in its own right`          | It is a power in its own right.                    |
-| `dispel this sense of humiliation`   | 消除屈辱感            | `dispel doubts/fears`                       | No concession can dispel the humiliation.           |
-| `a spiral of feelings of inferiority` | 自卑螺旋              | `spiral into inferiority`                   | They are caught in an old spiral of inferiority.    |
-| `the opposite is true`               | 情况恰恰相反          |                                           | In the UK the opposite is true.                    |
-| `not synonymous with`                | 不等于/并非同义      |                                           | Exertion is not synonymous with training.          |
-| `creeping`                           | 悄然蔓延的            | `creeping normalisation`                    | Beware creeping condiment soft power.              |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                    |
-| ------------------------------- | --------------------------------------- |
-| `dissent`                       | 异议/不同政见                          |
-| `deference`                     | 尊重/顺从                              |
-| `captives`                      | 俘虏/囚徒                              |
-| `political prisoners`           | 政治犯                                  |
-| `contours`                      | 轮廓                                    |
-| `journalistic achievement`      | 新闻成就                                |
-| `oscillated`                    | 摆动/振荡                              |
-| `self-reflection`               | 自我反思                                |
-| `means-tested`                  | 基于收入调查的                          |
-| `disincentive`                  | 抑制因素                                |
-| `incidental exertion`           | 偶然的劳累                              |
-| `footfall`                      | 客流量                                  |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | ill-fated | 注定失败的 |
+| 基础 | en masse | 全体地/大批地 |
+| 基础 | crying wolf | 喊狼来了（虚报警告） |
+| 基础 | conveniently never mentioned | 恰好地从不提及 |
+| 基础 | in his telling | 按照他的说法 |
+| 基础 | oscillated between | 在……之间摇摆 |
+| 基础 | in its own right | 凭自身实力 |
+| 基础 | dispel this sense of humiliation | 消除屈辱感 |
+| 基础 | a spiral of feelings of inferiority | 自卑螺旋 |
+| 基础 | the opposite is true | 情况恰恰相反 |
+| 基础 | not synonymous with | 不等于/并非同义 |
+| 基础 | creeping | 悄然蔓延的 |
+| 进阶 | dissent | 异议/不同政见 |
+| 进阶 | deference | 尊重/顺从 |
+| 进阶 | captives | 俘虏/囚徒 |
+| 进阶 | political prisoners | 政治犯 |
+| 进阶 | contours | 轮廓 |
+| 进阶 | journalistic achievement | 新闻成就 |
+| 进阶 | oscillated | 摆动/振荡 |
+| 进阶 | self-reflection | 自我反思 |
+| 进阶 | means-tested | 基于收入调查的 |
+| 进阶 | disincentive | 抑制因素 |
+| 进阶 | incidental exertion | 偶然的劳累 |
+| 进阶 | footfall | 客流量 |
 
 ## 核心表达（可直接迁移）
 

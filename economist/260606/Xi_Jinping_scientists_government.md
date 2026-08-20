@@ -557,124 +557,110 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `attracted little attention` | 几乎未引起关注 | attract attention | *The news attracted little attention.* |
-| `consequential` | 意义重大的 | a consequential event | *A consequential decision.* |
-| `the clearest signal yet` | 迄今最清晰信号 | a signal of | *The clearest signal yet of change.* |
-| `intends to` | 打算 | intend to do | *She intends to resign.* |
-| `in question` | 所指的 | the person in question | *The scientist in question.* |
-| `took over as` | 接任 | take over as | *He took over as CEO.* |
-| `by training` | 就训练而言 | a doctor by training | *An engineer by training.* |
-| `the back rooms` | 幕后 | back-room deals | *Decisions in the back rooms.* |
-| `far from the limelight` | 远离聚光灯 | stay out of the limelight | *He worked far from the limelight.* |
-| `the political limelight` | 政治聚光灯 | in the limelight | *Keep out of the limelight.* |
-| `brought into` | 被引入 | bring into | *Brought new experts into government.* |
-| `at various levels` | 在各个层级 | at various levels | *Reform at various levels.* |
-| `take up new posts` | 就任新职 | take up a post | *She took up her new post.* |
-| `has just been named as` | 刚被任命为 | be named as | *She was named as director.* |
-| `state councillor` | 国务委员 | a state councillor | *Promoted to state councillor.* |
-| `ministerial-rank` | 部级 | a ministerial-rank post | *A ministerial-rank position.* |
-| `was made a vice-minister` | 被任命为副部长 | make sb sth | *He was made minister.* |
-| `A fourth` | 第四位 | a fourth person | *A fourth official was named.* |
-| `went from ... to` | 从……转到 | go from A to B | *He went from the lab to the ministry.* |
-| `matter` | 重要 | it matters | *Does it matter?* |
-| `a double-edged sword` | 双刃剑 | a double-edged sword | *AI is a double-edged sword.* |
-| `on the positive side` | 在积极方面 | on the positive side | *On the positive side, it's cheap.* |
-| `putting ... in power` | 让……掌权 | put in power | *Putting experts in power.* |
-| `evidence and expertise` | 证据与专长 | evidence-based | *Policy driven by evidence.* |
-| `matter more than ideology` | 比意识形态更重要 | matter more than | *Expertise matters more than politics.* |
-| `spot problems early` | 及早发现问题 | spot problems | *Spot problems early.* |
-| `politically driven decisions` | 政治驱动的决策 | driven by | *A politically driven choice.* |
-| `on the negative side` | 在消极方面 | on the negative side | *On the negative side, it's slow.* |
-| `given power` | 被赋予权力 | be given power | *Scientists given power.* |
-| `become less independent` | 变得更不独立 | become independent | *Less independent than before.* |
-| `credibility` | 公信力 | lose credibility | *His credibility suffered.* |
-| `suffer as a result` | 因此受损 | as a result | *Trust suffered as a result.* |
-| `co-opted` | 被收编 | co-opt | *The academy was co-opted.* |
-| `doubt their findings` | 怀疑研究结论 | doubt findings | *The public doubted the findings.* |
-| `even on matters where` | 即使在……领域 | even where | *Even where expertise is genuine.* |
-| `the deeper reason` | 更深层原因 | a deeper reason | *The deeper reason behind it.* |
-| `more cynical` | 更算计的 | cynical | *A cynical interpretation.* |
-| `wants to show` | 想表明 | show that | *They want to show progress.* |
-| `a product of` | ……的产物 | a product of | *A product of state guidance.* |
-| `state guidance` | 国家引导 | under state guidance | *Growth under state guidance.* |
-| `claim that` | 声称 | claim | *They claim it's effective.* |
-| `supported by scientific authority` | 得到科学权威支持 | scientific authority | *Backed by scientific authority.* |
-| `in other words` | 换言之 | in other words | *In other words, it's a symbol.* |
-| `being used as` | 正被用作 | be used as | *Used as a pawn.* |
-| `a decoration for` | 为……的装饰 | decoration | *A decoration for the regime.* |
-| `it is not clear` | 尚不清楚 | it is not clear | *It is not clear why.* |
-| `influence policy` | 影响政策 | influence policy | *Scientists can influence policy.* |
-| `one-party system` | 一党制 | one-party | *Under a one-party system.* |
-| `top decision-makers` | 最高决策者 | decision-makers | *Top decision-makers.* |
-| `act without` | 在无……的情况下行事 | act without | *They acted without consulting.* |
-| `formal consultation with` | 与……正式协商 | consultation | *Consultation with experts.* |
-| `largely` | 很大程度上 | largely | *Largely ceremonial.* |
-| `ceremonial` | 仪式性的 | a ceremonial role | *A ceremonial post.* |
-| `the pattern is not new` | 模式并不新鲜 | the pattern | *The pattern is familiar.* |
-| `have long drawn ... into` | 长期拉入 | draw into | *Long drawn into politics.* |
-| `the political orbit` | 政治轨道 | an orbit | *Within the party's orbit.* |
-| `the late` | 已故的 | the late | *The late founder.* |
-| `known as` | 被称为 | be known as | *Known as the father of ...* |
-| `were drafted into` | 被征召进 | draft into | *Drafted into the army.* |
-| `the bureaucracy` | 官僚体系 | the bureaucracy | *Inside the bureaucracy.* |
-| `Party committees` | 党委 | committee | *Party committees in universities.* |
-| `were installed in` | 被派驻到 | install | *Installed in schools.* |
-| `research institutes` | 科研院所 | institute | *State research institutes.* |
-| `an institutional foothold` | 制度立足点 | a foothold | *A foothold in the market.* |
-| `what has changed` | 变化的是 | what has changed | *What has changed is the scale.* |
-| `the scale and visibility` | 规模与可见度 | visibility | *The visibility of the move.* |
-| `invisible` | 无形的 | invisible | *An invisible process.* |
-| `made quietly` | 悄悄地做 | quietly | *Made quietly.* |
-| `behind the scenes` | 在幕后 | behind the scenes | *Deals behind the scenes.* |
-| `high-profile` | 高调的 | high-profile | *A high-profile appointment.* |
-| `appearing in state media` | 出现在官方媒体 | state media | *Scientists in state media.* |
-| `giving interviews` | 接受采访 | give an interview | *Gave interviews to reporters.* |
-| `lending their names to` | 借名给 | lend one's name to | *Lent his name to the campaign.* |
-| `makes it harder for ... to` | 使……更难 | make it harder | *Fame made it harder to hide.* |
-| `maintain a reputation for` | 维持名声 | reputation | *Maintained a reputation for honesty.* |
-| `independent scientific inquiry` | 独立科学探究 | inquiry | *A tradition of inquiry.* |
-| `the more ... the more ...` | 越……越…… | the more the more | *The more you give, the more you get.* |
-| `seen as extensions of the state` | 被视为国家延伸 | an extension of | *An extension of the party.* |
-| `distrust the science itself` | 不信任科学本身 | distrust | *They distrusted the science.* |
-| `trade-off` | 权衡取舍 | a trade-off | *A trade-off between risk and reward.* |
-| `seems willing to accept` | 似乎愿意接受 | willing to | *Willing to accept the risk.* |
-| `for now` | 目前 | for now | *For now, it's fine.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `appointment` | 任命 | the appointment |
-| `president of CAS` | 中科院院长 | president of CAS |
-| `cloud scientist` | 云科学家 | a cloud scientist by training |
-| `space agency` | 航天局 | the space agency chief |
-| `the National Natural Science Foundation` | 国家自然科学基金 | NSFC |
-| `the Ministry of Science and Technology` | 科技部 | the ministry |
-| `policy announcements` | 政策公告 | policy announcements |
-| `state power` | 国家权力 | a decoration for state power |
-| `the communist era` | 共产主义时代 | the early communist era |
-| `Qian Xuesen` | 钱学森 | the late Qian Xuesen |
-| `research institutes` | 研究院所 | research institutes |
-| `the leadership` | 领导层 | the leadership |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `climate change` | 气候变化 | issues such as climate change |
-| `public health` | 公共卫生 | public health |
-| `ideology` | 意识形态 | matter more than ideology |
-| `universities` | 大学 | major universities |
-| `interviews` | 采访 | giving interviews |
-| `state media` | 官方媒体 | state media |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | attracted little attention | 几乎未引起关注 |
+| 基础 | consequential | 意义重大的 |
+| 基础 | the clearest signal yet | 迄今最清晰信号 |
+| 基础 | intends to | 打算 |
+| 基础 | in question | 所指的 |
+| 基础 | took over as | 接任 |
+| 基础 | by training | 就训练而言 |
+| 基础 | the back rooms | 幕后 |
+| 基础 | far from the limelight | 远离聚光灯 |
+| 基础 | the political limelight | 政治聚光灯 |
+| 基础 | brought into | 被引入 |
+| 基础 | at various levels | 在各个层级 |
+| 基础 | take up new posts | 就任新职 |
+| 基础 | has just been named as | 刚被任命为 |
+| 基础 | state councillor | 国务委员 |
+| 基础 | ministerial-rank | 部级 |
+| 基础 | was made a vice-minister | 被任命为副部长 |
+| 基础 | A fourth | 第四位 |
+| 基础 | went from ... to | 从……转到 |
+| 基础 | matter | 重要 |
+| 基础 | a double-edged sword | 双刃剑 |
+| 基础 | on the positive side | 在积极方面 |
+| 基础 | putting ... in power | 让……掌权 |
+| 基础 | evidence and expertise | 证据与专长 |
+| 基础 | matter more than ideology | 比意识形态更重要 |
+| 基础 | spot problems early | 及早发现问题 |
+| 基础 | politically driven decisions | 政治驱动的决策 |
+| 基础 | on the negative side | 在消极方面 |
+| 基础 | given power | 被赋予权力 |
+| 基础 | become less independent | 变得更不独立 |
+| 基础 | credibility | 公信力 |
+| 基础 | suffer as a result | 因此受损 |
+| 基础 | co-opted | 被收编 |
+| 基础 | doubt their findings | 怀疑研究结论 |
+| 基础 | even on matters where | 即使在……领域 |
+| 基础 | the deeper reason | 更深层原因 |
+| 基础 | more cynical | 更算计的 |
+| 基础 | wants to show | 想表明 |
+| 基础 | a product of | ……的产物 |
+| 基础 | state guidance | 国家引导 |
+| 基础 | claim that | 声称 |
+| 基础 | supported by scientific authority | 得到科学权威支持 |
+| 基础 | in other words | 换言之 |
+| 基础 | being used as | 正被用作 |
+| 基础 | a decoration for | 为……的装饰 |
+| 基础 | it is not clear | 尚不清楚 |
+| 基础 | influence policy | 影响政策 |
+| 基础 | one-party system | 一党制 |
+| 基础 | top decision-makers | 最高决策者 |
+| 基础 | act without | 在无……的情况下行事 |
+| 基础 | formal consultation with | 与……正式协商 |
+| 基础 | largely | 很大程度上 |
+| 基础 | ceremonial | 仪式性的 |
+| 基础 | the pattern is not new | 模式并不新鲜 |
+| 基础 | have long drawn ... into | 长期拉入 |
+| 基础 | the political orbit | 政治轨道 |
+| 基础 | the late | 已故的 |
+| 基础 | known as | 被称为 |
+| 基础 | were drafted into | 被征召进 |
+| 基础 | the bureaucracy | 官僚体系 |
+| 基础 | Party committees | 党委 |
+| 基础 | were installed in | 被派驻到 |
+| 基础 | research institutes | 科研院所 |
+| 基础 | an institutional foothold | 制度立足点 |
+| 基础 | what has changed | 变化的是 |
+| 基础 | the scale and visibility | 规模与可见度 |
+| 基础 | invisible | 无形的 |
+| 基础 | made quietly | 悄悄地做 |
+| 基础 | behind the scenes | 在幕后 |
+| 基础 | high-profile | 高调的 |
+| 基础 | appearing in state media | 出现在官方媒体 |
+| 基础 | giving interviews | 接受采访 |
+| 基础 | lending their names to | 借名给 |
+| 基础 | makes it harder for ... to | 使……更难 |
+| 基础 | maintain a reputation for | 维持名声 |
+| 基础 | independent scientific inquiry | 独立科学探究 |
+| 基础 | the more ... the more ... | 越……越…… |
+| 基础 | seen as extensions of the state | 被视为国家延伸 |
+| 基础 | distrust the science itself | 不信任科学本身 |
+| 基础 | trade-off | 权衡取舍 |
+| 基础 | seems willing to accept | 似乎愿意接受 |
+| 基础 | for now | 目前 |
+| 进阶 | appointment | 任命 |
+| 进阶 | president of CAS | 中科院院长 |
+| 进阶 | cloud scientist | 云科学家 |
+| 进阶 | space agency | 航天局 |
+| 进阶 | the National Natural Science Foundation | 国家自然科学基金 |
+| 进阶 | the Ministry of Science and Technology | 科技部 |
+| 进阶 | policy announcements | 政策公告 |
+| 进阶 | state power | 国家权力 |
+| 进阶 | the communist era | 共产主义时代 |
+| 进阶 | Qian Xuesen | 钱学森 |
+| 进阶 | research institutes | 研究院所 |
+| 进阶 | the leadership | 领导层 |
+| 高级 | climate change | 气候变化 |
+| 高级 | public health | 公共卫生 |
+| 高级 | ideology | 意识形态 |
+| 高级 | universities | 大学 |
+| 高级 | interviews | 采访 |
+| 高级 | state media | 官方媒体 |
 
 ## 四、长难句专项
 
@@ -781,105 +767,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-attracted little attention、consequential、the clearest signal yet、intends to、in question、took over as、by training、the back rooms、far from the limelight、the political limelight、brought into、at various levels、take up new posts、has just been named as、state councillor、ministerial-rank、was made a vice-minister、A fourth、went from...to、matter、a double-edged sword、on the positive side、putting...in power、evidence and expertise、matter more than ideology、spot problems early、politically driven decisions、on the negative side、given power、become less independent、credibility、suffer as a result、co-opted、doubt their findings、even on matters where、the deeper reason、more cynical、wants to show、a product of、state guidance、claim that、supported by scientific authority、in other words、being used as、a decoration for、it is not clear、influence policy、one-party system、top decision-makers、act without、formal consultation with、largely、ceremonial、the pattern is not new、have long drawn...into、the political orbit、the late、known as、were drafted into、the bureaucracy、Party committees、were installed in、research institutes、an institutional foothold、what has changed、the scale and visibility、invisible、made quietly、behind the scenes、high-profile、appearing in state media、giving interviews、lending their names to、makes it harder for...to、maintain a reputation for、independent scientific inquiry、the more...the more、seen as extensions of the state、distrust the science itself、trade-off、seems willing to accept、for now
-
-### 2. 本文核心表达
-
-1. `the appointment attracted little attention outside China` — 任命在中国以外几乎无人关注
-2. `It was in fact a consequential event, the clearest signal yet that ...` — 事实上意义重大，迄今最清晰信号
-3. `put China's best scientists into government positions` — 让最优秀科学家出任政府职位
-4. `the scientist in question` — 这位当事科学家
-5. `took over as president of CAS` — 接任中科院院长
-6. `A cloud scientist by training` — 训练有素的云科学家
-7. `in the back rooms of Chinese science, far from the political limelight` — 科学幕后、远离政治聚光灯
-8. `one of several scientists recently brought into the government` — 近期入阁的几位科学家之一
-9. `has just been named as a state councillor` — 刚被任命为国务委员
-10. `was made a vice-minister of science and technology` — 被任命为科技部副部长
-11. `The appointment of scientists to senior government roles is a double-edged sword` — 科学家入阁是双刃剑
-12. `On the positive side ... On the negative side ...` — 利弊对照
-13. `where evidence and expertise matter more than ideology` — 证据专长重于意识形态
-14. `scientists given power may become less independent` — 掌权的科学家可能更不独立
-15. `When scientists are co-opted by the state` — 当科学家被国家收编
-16. `even on matters where their expertise is genuine` — 即使在专业货真价实之处
-17. `The deeper reason ... may be more cynical` — 深层原因可能更算计
-18. `scientific progress is a product of state guidance` — 科学进步是国家引导的产物
-19. `claim that its policies are supported by scientific authority` — 声称政策有科学权威背书
-20. `scientists are being used as a symbol, a decoration for state power` — 科学家被用作象征、权力装饰
-21. `It is not clear how much the scientists can actually influence policy` — 影响程度不明
-22. `top decision-makers often act without formal consultation with scientists` — 最高决策者不经咨询就行事
-23. `The scientists appointed may therefore be largely ceremonial` — 任命多属仪式性
-24. `Chinese leaders have long drawn scientists into the political orbit` — 长期把科学家拉入政治轨道
-25. `were drafted into the bureaucracy after 1949` — 1949 年后被征召入体制
-26. `giving the Party an institutional foothold in science` — 使党在科学界获得制度立足点
-27. `What has changed is the scale and visibility of the appointments` — 变化的是规模与可见度
-28. `Earlier appointments were often invisible, made quietly behind the scenes` — 昔日任命低调隐秘
-29. `lending their names to policy announcements` — 把名字借给政策公告
-30. `That makes it harder for them to maintain a reputation for independent scientific inquiry` — 独立探究之名更难维持
-31. `The more scientists are seen as extensions of the state, the more the public may distrust the science itself` — 越是国家延伸，越不信科学本身
-32. `It is a trade-off the leadership seems willing to accept for now` — 领导层暂时愿意接受的权衡
-
-### 3. 重要语法
-
-- **when 时间从句**：`WHEN ... was announced last month, the appointment attracted little attention`
-- **同位语 + 同位语从句**：`the clearest signal yet that ...`、`Mr Ding Chibiao`、`one of the most important jobs`
-- **被动语态**：`was announced`、`has just been named as`、`was made a vice-minister`、`were drafted into`、`were installed in`、`are being used as`
-- **动名词主语**：`putting scientists in power can help ...`
-- **where 定语从句**：`on issues ... where evidence and expertise matter more than ideology`
-- **过去分词后置定语**：`scientists given power`、`the scientists appointed`
-- **with 复合结构**：`with scientists frequently appearing ... giving ... and lending ...`
-- **形式主语/宾语**：`It is not clear how much ...`、`makes it harder for them to maintain ...`
-- **The more...the more 正比**：`The more scientists are seen as extensions, the more the public may distrust ...`
-- **省略 that 定语从句**：`a trade-off (that) the leadership seems willing to accept`
-- **it 形式主语 + 主语从句**：`It is not clear how much ...`
-- **in question 后置定语**：`the scientist in question`
-- **from...to 时间/空间结构**：`from the early years of the communist era to the present day`
-
-### 4. 长难句
-
-- 原句 2：判断句 + 同位语从句
-- 原句 3：多重同位语
-- 原句 11：动名词主语 + where 定语从句
-- 原句 13：过去分词定语 + 并列主句
-- 原句 14：co-opt + 让步状语从句
-- 原句 18：结论句 + 同位语降格
-- 原句 19：形式主语 + 主语从句
-- 原句 28：with 复合结构 + 三并列分词
-- 原句 30：The more...the more 正比结构
-- 原句 31：省略 that 定语从句
-
-### 5. 写作技巧
-
-1. **"低调事件 + 高深意义"开场**：`attracted little attention`（无人关注）→ `in fact a consequential event`（其实意义重大）——先抑后扬，制造"原来如此"的认知落差
-2. **最高级信号句**：`the clearest signal yet that ...`（迄今最清晰信号）——用 signal（信号）一词把"人事任命"读作"政策意图的讯号"，赋予个案普遍意义
-3. **数字递增排比**：one of several（之一）→ A fourth（第四位）——用"数量递增"呈现趋势规模，让案例清单有节奏
-4. **双刃剑结构**：`On the positive side ... On the negative side ...`——标准的利弊辩证框架，先立"利"（证据决策）再攻"弊"（独立性受损），层次分明
-5. **词汇的隐喻系统**：orbit（轨道）、foothold（立足点）、limelight（聚光灯）、decoration（装饰）、extension（延伸）——全文用一组"空间/附庸"隐喻刻画"科学家与权力的关系"，使分析形象化
-6. **关键贬义词的递进**：appoint（任命）→ co-opt（收编）→ use as a decoration（用作装饰）→ extension of the state（国家延伸）——从中性到贬义的词义滑动，正是作者立场的渐次显影
-7. **设问引导**：`Why does this matter?` 独立设问段——替读者提问，再用整段回答，增强说理的对话感
-8. **"变与不变"的结构**：`The pattern is not new ... What has changed is the scale and visibility`——先用"历史延续"消解"新意"，再指出"变化的是规模与可见度"，辩证且严谨
-9. **The more...the more 螺旋句**：`The more scientists are seen as extensions of the state, the more the public may distrust the science itself`——用正比句式把"工具化的终极代价"写成不可逆的螺旋
-10. **审慎收束**：`It is a trade-off the leadership seems willing to accept for now`——trade-off（权衡）+ seems（似乎）+ for now（暂时）三重留白，不把话说死，符合时评的严谨
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `attract little attention` | 描述不受关注 | The proposal attracted little attention. |
-| `the clearest signal yet that` | 最强信号 | The vote is the clearest signal yet that change is coming. |
-| `a ... by training` | 专业出身 | She's an economist by training. |
-| `far from the limelight` | 远离关注 | He prefers to work far from the limelight. |
-| `take up a new post` | 就任新职 | She takes up her new post next month. |
-| `a double-edged sword` | 双刃剑 | Remote work is a double-edged sword. |
-| `on the positive/negative side` | 利弊两面 | On the positive side, it saves time. |
-| `matter more than` | 比……更重要 | Evidence matters more than opinion. |
-| `be co-opted by` | 被收编 | The movement was co-opted by the party. |
-| `lend one's name to` | 借名背书 | He lent his name to the charity. |
-| `be largely ceremonial` | 多属形式 | The title is largely ceremonial. |
-| `gain a foothold in` | 获得立足点 | The firm gained a foothold in Asia. |
-| `be seen as an extension of` | 被视为……的延伸 | The unit is seen as an extension of the ministry. |
-| `a trade-off between A and B` | A 与 B 的权衡 | It's a trade-off between cost and speed. |
-| `willing to accept ... for now` | 暂时接受 | They're willing to accept the risk for now. |
-| `the more ... the more ...` | 越……越…… | The more data we have, the better the model. |

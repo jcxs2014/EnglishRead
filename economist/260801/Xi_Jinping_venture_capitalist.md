@@ -237,37 +237,30 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                        | 核心义                  | 常见搭配                              | 例句                                                    |
-| ----------------------------- | ---------------------- | ------------------------------------- | ------------------------------------------------------- |
-| `VC of last resort`              | 最后的 VC              | `lender of last resort`                 | The central bank is lender of last resort.                |
-| `reaping a windfall`            | 收获意外之财            | `reaping a financial windfall`         | The state is reaping a windfall from the IPO.           |
-| `steely patience`               | 铁一般的耐心            |                                        | The leader is credited with steely patience.              |
-| `pouring state cash into`       | 倾注国家资金进          |                                        | The government poured billions into the sector.          |
-| `a return of 40 times`          | 40 倍回报              | `a return of X times`                  | The investment yielded a 40x return.                      |
-| `pilfering state assets`        | 贪污国家资产            |                                        | Officials were accused of pilfering state assets.         |
-| `squeaky-clean`                 | 一尘不染/完全清廉      | `squeaky-clean official`               | He maintained a squeaky-clean reputation.                |
-| `lacks buyers with deep pockets` | 缺财力雄厚的买家        |                                        | The market lacks buyers with deep pockets.               |
-| `offload shares`                | 抛售股票               | `offload assets`                       | Early investors offloaded shares at the IPO.             |
-| `mark the value of`             | 给……做估值             | `mark-to-market`                       | Banks must mark the value of assets quarterly.           |
-| `scored on political benchmarks` | 按政治指标评分           |                                        | State firms are scored on political benchmarks.            |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                      |
-| ------------------------------- | ----------------------------------------- |
-| `Hefei model`                    | 合肥模式（政府早期股权合作模式）          |
-| `blockbuster IPO`                | 轰动性 IPO                               |
-| `early-stage equity partner`     | 早期股权合伙人                           |
-| `DRAM`                           | 动态随机存取存储器（电脑/手机用内存）    |
-| `stodgy bank`                   | 老气横秋的银行                           |
-| `exposure`                       | 风险敞口                                 |
-| `onerous conditions`             | 苛刻条件                                 |
-| `ChangXin Integrated`            | 长鑫集成                                 |
-| `STAR Market`                    | 科创板                                   |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | VC of last resort | 最后的 VC |
+| 基础 | reaping a windfall | 收获意外之财 |
+| 基础 | steely patience | 铁一般的耐心 |
+| 基础 | pouring state cash into | 倾注国家资金进 |
+| 基础 | a return of 40 times | 40 倍回报 |
+| 基础 | pilfering state assets | 贪污国家资产 |
+| 基础 | squeaky-clean | 一尘不染/完全清廉 |
+| 基础 | lacks buyers with deep pockets | 缺财力雄厚的买家 |
+| 基础 | offload shares | 抛售股票 |
+| 基础 | mark the value of | 给……做估值 |
+| 基础 | scored on political benchmarks | 按政治指标评分 |
+| 进阶 | Hefei model | 合肥模式（政府早期股权合作模式） |
+| 进阶 | blockbuster IPO | 轰动性 IPO |
+| 进阶 | early-stage equity partner | 早期股权合伙人 |
+| 进阶 | DRAM | 动态随机存取存储器（电脑/手机用内存） |
+| 进阶 | stodgy bank | 老气横秋的银行 |
+| 进阶 | exposure | 风险敞口 |
+| 进阶 | onerous conditions | 苛刻条件 |
+| 进阶 | ChangXin Integrated | 长鑫集成 |
+| 进阶 | STAR Market | 科创板 |
 
 ## 核心表达（可直接迁移）
 

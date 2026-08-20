@@ -543,107 +543,93 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `full of gas` | 满是天然气 | full of | *The Mediterranean is full of gas.* |
-| `vast offshore fields` | 巨大海上气田 | offshore | *Vast offshore fields.* |
-| `exclusive economic zone` | 专属经济区 | economic zone | *Its exclusive economic zone.* |
-| `by contrast` | 相比之下 | by contrast | *Turkey, by contrast.* |
-| `energy-hungry` | 能源饥渴的 | -hungry | *An energy-hungry country.* |
-| `reserves` | 储量 | reserves | *Few of its own reserves.* |
-| `political rivals` | 政治对手 | rivals | *Political rivals.* |
-| `fit together like` | 像……契合 | fit together | *Fit together like a jigsaw.* |
-| `two pieces of a jigsaw` | 拼图的两块 | jigsaw | *Two pieces of a jigsaw.* |
-| `stranded` | 搁浅的 | stranded | *Israel's gas is stranded.* |
-| `lacks` | 缺少 | lack | *Lacks the pipelines.* |
-| `a hungry market` | 饥渴的市场 | hungry market | *A hungry market.* |
-| `link the two` | 连接两者 | link | *Link the two.* |
-| `terminals` | 终端 | terminals | *Turkish terminals.* |
-| `carrying ... to ... then to` | 输送到……再到 | carry to | *Carrying gas to terminals.* |
-| `scrambling to` | 慌忙地 | scramble to | *Scrambling to find.* |
-| `alternative sources` | 替代来源 | alternative | *Alternative sources of gas.* |
-| `routed through` | 经由……输送 | route through | *Routed through Turkey.* |
-| `fit the bill` | 正合需要 | fit the bill | *Would fit the bill.* |
-| `mutual suspicion` | 相互猜疑 | mutual | *Mutual suspicion.* |
-| `mutual` | 相互的 | mutual | *Mutual distrust.* |
-| `called ... war criminals` | 称……为战犯 | call ... criminal | *Called them war criminals.* |
-| `a hostile Islamist` | 敌对伊斯兰主义者 | hostile | *A hostile Islamist.* |
-| `not all bad` | 并非全坏 | not all | *Not all bad.* |
-| `cooperated quietly` | 悄悄合作 | cooperate | *Cooperated quietly.* |
-| `even as` | 即使当 | even as | *Even as they quarrelled.* |
-| `quarrelled in public` | 公开争吵 | quarrel | *Quarrelled in public.* |
-| `broke down` | 破裂 | break down | *The cooperation broke down.* |
-| `a raid on` | 对……袭击 | raid | *A raid on a ship.* |
-| `bound for` | 开往 | bound for | *A ship bound for Gaza.* |
-| `a series of crises` | 一系列危机 | a series of | *A series of crises.* |
-| `punctuated by` | 被……打断 | punctuate | *Punctuated by attempts.* |
-| `attempts at reconciliation` | 和解尝试 | attempts at | *Attempts at reconciliation.* |
-| `reconciliation` | 和解 | reconciliation | *Reconciliation.* |
-| `stands in the way` | 挡路 | stand in the way | *Politics stands in the way.* |
-| `faces elections` | 面临选举 | face | *Faces elections.* |
-| `pro-Palestinian` | 亲巴勒斯坦 | pro- | *Pro-Palestinian voters.* |
-| `politically costly` | 政治代价高 | costly | *Politically costly.* |
-| `under pressure from` | 受……压力 | under pressure | *Under pressure from its right.* |
-| `backing away from` | 从……后退 | back away | *Backing away from the conflict.* |
-| `explaining ... to` | 向……解释 | explain to | *Explaining a deal to supporters.* |
-| `economic gravity` | 经济引力 | gravity | *Economic gravity is strong.* |
-| `more than they admit` | 比它们承认的多 | more than | *More than they admit.* |
-| `struggling with inflation` | 与通胀搏斗 | struggle with | *Struggling with inflation.* |
-| `inflation` | 通胀 | inflation | *Inflation.* |
-| `biggest imports` | 最大进口 | imports | *One of its biggest imports.* |
-| `for its part` | 就它而言 | for one's part | *Israel, for its part.* |
-| `diversify its markets` | 市场多元化 | diversify | *Diversify its energy markets.* |
-| `reduce its reliance on` | 减少依赖 | reduce reliance | *Reduce its reliance on.* |
-| `any single buyer` | 任何单一买家 | single | *Any single buyer.* |
-| `fit the wider picture` | 符合更大格局 | fit | *Fit the wider picture.* |
-| `regional picture` | 地区格局 | picture | *The regional picture.* |
-| `the moderate camp` | 温和阵营 | moderate | *The moderate camp.* |
-| `conversely` | 相反 | conversely | *Conversely, the failure.* |
-| `the failure to strike a deal` | 无法达成交易 | failure to | *The failure to strike a deal.* |
-| `strike a deal` | 达成交易 | strike a deal | *Strike a deal.* |
-| `more isolated and more vulnerable` | 更孤立更脆弱 | isolated | *More isolated and more vulnerable.* |
-| `compelling` | 令人信服的 | compelling | *A compelling logic.* |
-| `even if` | 即使 | even if | *Even if the politics are not.* |
-| `exactly the kind of` | 正是那种 | exactly | *Exactly the kind of situation.* |
-| `statesmen` | 政治家 | statesmen | *Statesmen are supposed to act.* |
-| `are supposed to` | 应当 | be supposed to | *Are supposed to act.* |
-| `doing the hard thing` | 做艰难的事 | the hard thing | *Doing the hard thing now.* |
-| `prevent ... later` | 防止将来 | prevent | *Prevent a bigger problem later.* |
-| `trade energy, not insults` | 交易能源而非辱骂 | trade | *Trade energy, not insults.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Mediterranean` | 地中海 | the Mediterranean |
-| `offshore` | 海上的 | offshore fields |
-| `pipelines` | 管道 | the pipelines |
-| `jigsaw` | 拼图 | two pieces of a jigsaw |
-| `stranded` | 搁浅 | gas is stranded |
-| `raid` | 突袭 | an Israeli raid |
-| `activists` | 活动人士 | Turkish activists |
-| `crises` | 危机 | a series of crises |
-| `attempts` | 尝试 | attempts at reconciliation |
-| `vulnerable` | 脆弱的 | more vulnerable |
-| `compelling` | 有说服力的 | compelling logic |
-| `insults` | 辱骂 | trade energy, not insults |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Turkey` | 土耳其 | Turkey and Israel |
-| `Israel` | 以色列 | Turkey and Israel |
-| `Erdogan` | 埃尔多安 | Mr Erdogan |
-| `Gaza` | 加沙 | the war in Gaza |
-| `the European Union` | 欧盟 | the European Union |
-| `Middle East` | 中东 | the Middle East |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | full of gas | 满是天然气 |
+| 基础 | vast offshore fields | 巨大海上气田 |
+| 基础 | exclusive economic zone | 专属经济区 |
+| 基础 | by contrast | 相比之下 |
+| 基础 | energy-hungry | 能源饥渴的 |
+| 基础 | reserves | 储量 |
+| 基础 | political rivals | 政治对手 |
+| 基础 | fit together like | 像……契合 |
+| 基础 | two pieces of a jigsaw | 拼图的两块 |
+| 基础 | stranded | 搁浅的 |
+| 基础 | lacks | 缺少 |
+| 基础 | a hungry market | 饥渴的市场 |
+| 基础 | link the two | 连接两者 |
+| 基础 | terminals | 终端 |
+| 基础 | carrying ... to ... then to | 输送到……再到 |
+| 基础 | scrambling to | 慌忙地 |
+| 基础 | alternative sources | 替代来源 |
+| 基础 | routed through | 经由……输送 |
+| 基础 | fit the bill | 正合需要 |
+| 基础 | mutual suspicion | 相互猜疑 |
+| 基础 | mutual | 相互的 |
+| 基础 | called ... war criminals | 称……为战犯 |
+| 基础 | a hostile Islamist | 敌对伊斯兰主义者 |
+| 基础 | not all bad | 并非全坏 |
+| 基础 | cooperated quietly | 悄悄合作 |
+| 基础 | even as | 即使当 |
+| 基础 | quarrelled in public | 公开争吵 |
+| 基础 | broke down | 破裂 |
+| 基础 | a raid on | 对……袭击 |
+| 基础 | bound for | 开往 |
+| 基础 | a series of crises | 一系列危机 |
+| 基础 | punctuated by | 被……打断 |
+| 基础 | attempts at reconciliation | 和解尝试 |
+| 基础 | reconciliation | 和解 |
+| 基础 | stands in the way | 挡路 |
+| 基础 | faces elections | 面临选举 |
+| 基础 | pro-Palestinian | 亲巴勒斯坦 |
+| 基础 | politically costly | 政治代价高 |
+| 基础 | under pressure from | 受……压力 |
+| 基础 | backing away from | 从……后退 |
+| 基础 | explaining ... to | 向……解释 |
+| 基础 | economic gravity | 经济引力 |
+| 基础 | more than they admit | 比它们承认的多 |
+| 基础 | struggling with inflation | 与通胀搏斗 |
+| 基础 | inflation | 通胀 |
+| 基础 | biggest imports | 最大进口 |
+| 基础 | for its part | 就它而言 |
+| 基础 | diversify its markets | 市场多元化 |
+| 基础 | reduce its reliance on | 减少依赖 |
+| 基础 | any single buyer | 任何单一买家 |
+| 基础 | fit the wider picture | 符合更大格局 |
+| 基础 | regional picture | 地区格局 |
+| 基础 | the moderate camp | 温和阵营 |
+| 基础 | conversely | 相反 |
+| 基础 | the failure to strike a deal | 无法达成交易 |
+| 基础 | strike a deal | 达成交易 |
+| 基础 | more isolated and more vulnerable | 更孤立更脆弱 |
+| 基础 | compelling | 令人信服的 |
+| 基础 | even if | 即使 |
+| 基础 | exactly the kind of | 正是那种 |
+| 基础 | statesmen | 政治家 |
+| 基础 | are supposed to | 应当 |
+| 基础 | doing the hard thing | 做艰难的事 |
+| 基础 | prevent ... later | 防止将来 |
+| 基础 | trade energy, not insults | 交易能源而非辱骂 |
+| 进阶 | Mediterranean | 地中海 |
+| 进阶 | offshore | 海上的 |
+| 进阶 | pipelines | 管道 |
+| 进阶 | jigsaw | 拼图 |
+| 进阶 | stranded | 搁浅 |
+| 进阶 | raid | 突袭 |
+| 进阶 | activists | 活动人士 |
+| 进阶 | crises | 危机 |
+| 进阶 | attempts | 尝试 |
+| 进阶 | vulnerable | 脆弱的 |
+| 进阶 | compelling | 有说服力的 |
+| 进阶 | insults | 辱骂 |
+| 高级 | Turkey | 土耳其 |
+| 高级 | Israel | 以色列 |
+| 高级 | Erdogan | 埃尔多安 |
+| 高级 | Gaza | 加沙 |
+| 高级 | the European Union | 欧盟 |
+| 高级 | Middle East | 中东 |
 
 ## 四、长难句专项
 
@@ -710,84 +696,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-full of gas、vast offshore fields、exclusive economic zone、by contrast、energy-hungry、reserves、political rivals、fit together like、two pieces of a jigsaw、stranded、lacks、a hungry market、link the two、terminals、scrambling to、alternative sources、routed through、fit the bill、mutual suspicion、called ... war criminals、a hostile Islamist、not all bad、cooperated quietly、even as、quarrelled in public、broke down、a raid on、bound for、a series of crises、punctuated by、attempts at reconciliation、stands in the way、faces elections、pro-Palestinian、politically costly、under pressure from、backing away from、explaining to、economic gravity、more than they admit、struggling with inflation、inflation、biggest imports、for its part、diversify、reduce its reliance on、any single buyer、fit the wider picture、the moderate camp、conversely、the failure to strike a deal、strike a deal、more isolated and more vulnerable、compelling、even if、exactly the kind of、statesmen、are supposed to、doing the hard thing、prevent ... later、trade energy not insults
-
-### 2. 本文核心表达
-
-1. `THE MEDITERRANEAN is full of gas` — 地中海满是天然气
-2. `Turkey, by contrast, is an energy-hungry country` — 土耳其是能源饥渴的国家
-3. `their energy needs fit together like two pieces of a jigsaw` — 能源需求如拼图般契合
-4. `Israel's gas is stranded` — 以色列的天然气搁浅了
-5. `carrying Israeli gas to Turkish terminals and then to Europe` — 输往土耳其终端再到欧洲
-6. `the European Union has been scrambling to find alternative sources` — 欧盟一直慌忙寻找替代来源
-7. `Mediterranean gas ... would fit the bill` — 地中海天然气正合需要
-8. `a long history of mutual suspicion` — 长期相互猜疑史
-9. `Mr Erdogan has called Israeli leaders war criminals` — 埃尔多安称以色列领导人为战犯
-10. `cooperated quietly ... even as they quarrelled in public` — 悄悄合作、公开争吵
-11. `a series of crises punctuated by brief attempts at reconciliation` — 危机为主、和解只是标点
-12. `backing away from the conflict is easier than explaining a deal` — 回避比解释更容易
-13. `economic gravity is strong` — 经济引力强大
-14. `Both countries need the deal more than they admit` — 两国需要这笔交易超过它们承认的
-15. `fit the wider regional picture` — 符合更大的地区格局
-16. `The logic of the deal is compelling, even if the politics are not` — 逻辑动人、政治不动人
-17. `statesmen are supposed to act` — 政治家应当行动
-18. `Doing the hard thing now would prevent a bigger problem later` — 现在做难事，将来免大难
-19. `Turkey and Israel should trade energy, not insults` — 交易能源而非辱骂（标题收尾）
-
-### 3. 重要语法
-
-- **动名词比较**：`backing away ... is easier than explaining ...`
-- **介词前置定语从句**：`the kind of situation in which statesmen are supposed to act`
-- **省略式让步从句**：`even if the politics are not (compelling)`
-- **even as 让步从句**：`even as they quarrelled in public`
-- **when 非限定定语从句**：`after 2010, when an Israeli raid ...`
-- **who/that 定语从句**：`voters who are strongly pro-Palestinian`、`a government that is under pressure`
-- **分词短语作状语/定语**：`carrying Israeli gas ...`、`routed through Turkey`、`punctuated by brief attempts`
-- **by contrast / conversely / yet 转折连词**：对比论证的衔接
-- **not all 部分否定**：`The history is not all bad`
-- **would 条件语气**：`A pipeline ... would link`、`would prevent`
-- **分号对仗**：`Mr Erdogan has called ... war criminals; Israeli officials call ... a hostile Islamist`
-
-### 4. 长难句
-
-- 原句 2：专业术语 + 现在完成
-- 原句 4：yet 转折 + 拼图比喻
-- 原句 18：punctuated by 的标点隐喻
-- 原句 22：动名词比较结构
-- 原句 30：省略式让步从句
-- 原句 33：以物易物式双宾语
-
-### 5. 写作技巧
-
-1. **反常识开场**：`THE MEDITERRANEAN is full of gas`——把自然地理写成惊人事实（大海"满"是气），用反常组合抓住读者
-2. **比喻贯穿全文**：`two pieces of a jigsaw`（拼图）——开篇的核心隐喻，后文不断回扣（stranded 搁浅、fit the bill 合适、gravity 引力），一个比喻体系支撑全文论证
-3. **标题即主张**：`trade energy, not insults`——动词 trade 的双宾语对仗（energy/insults），把"主张"浓缩成行动口号；结尾复现标题，形成闭环
-4. **"短句断言"节奏**：`The reason is politics.`（三个词）——在长分析之间插入短句，制造顿挫感与力度
-5. **比较级写政治算计**：`backing away ... is easier than explaining ...`——把政治惰性写成"性价比"比较，经济学语言解构政治行为，异常犀利
-6. **标点隐喻**：`punctuated by`——用写作术语（标点）写外交关系，词汇的创造性使用让表达难忘
-7. **正反对照论证**：第 8 段（deal 好处 vs failure 坏处）、第 7 段（土耳其买 / 以色列卖）——双边对称论证
-8. **视角层次**：以色列（第 2 段）→ 土耳其（第 2 段）→ 欧洲（第 3 段）→ 两国国内（第 6 段）→ 地区（第 8 段）——从双边到多边，格局渐次放大
-9. **三段式收尾**：逻辑动人（30）→ 政治家时刻（31）→ 做难事（32）→ 标题句（33）——从分析到呼吁，递进有力
-10. **"需要但嘴硬"洞察**：`need the deal more than they admit`——外交新闻的经典观察角度，把公开表态与真实利益分开
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `fit together like a jigsaw` | 天然契合 | The two teams fit together like a jigsaw. |
-| `stranded` | 搁浅无法利用 | The assets are stranded. |
-| `fit the bill` | 正合需要 | This candidate fits the bill. |
-| `scramble to` | 慌忙做 | Firms are scrambling to comply. |
-| `by contrast` | 相比之下 | By contrast, the rivals are thriving. |
-| `punctuated by` | 被……打断 | A career punctuated by setbacks. |
-| `back away from` | 退缩 | They backed away from the plan. |
-| `stand in the way` | 阻碍 | Cost stands in the way. |
-| `strike a deal` | 达成交易 | They struck a deal last month. |
-| `more than they admit` | 超过表面承认 | We need this more than we admit. |
-| `fit the wider picture` | 符合大局 | The move fits the wider picture. |
-| `the logic is compelling, even if` | 逻辑动人但 | The logic is compelling, even if the costs are not. |
-| `do the hard thing` | 做艰难的事 | Leaders must do the hard thing. |
-| `trade X, not Y` | 该做 X 而非 Y | We should trade ideas, not insults. |

@@ -897,155 +897,141 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `reported on` | 报道 | report on | *Reported on the crisis.* |
-| `excel at` | 擅长 | excel at | *Excels at analysis.* |
-| `formulating questions` | 提出问题 | formulate | *Formulating the right questions.* |
-| `weighed against` | 与……权衡 | weigh against | *Weighed against the costs.* |
-| `at the expense of` | 以……为代价 | at the expense of | *At the expense of safety.* |
-| `non-combatant` | 非战斗人员 | non-combatant | *Non-combatant casualties.* |
-| `cut-off value` | 临界值 | cut-off point | *A cut-off value.* |
-| `varied widely` | 差异巨大 | vary widely | *Estimates vary widely.* |
-| `betrays` | 暴露 | betray | *Betrayed his nervousness.* |
-| `central contention` | 核心论点 | contention | *The central contention of the paper.* |
-| `waiver of sanctions` | 制裁豁免 | waiver | *A waiver of export bans.* |
-| `concession` | 让步 | a major concession | *A concession to the enemy.* |
-| `on paper` | 纸面上 | on paper | *Looks good on paper.* |
-| `aberration` | 反常、背离 | aberration | *An aberration from the norm.* |
-| `twin pressures` | 双重压力 | twin | *Twin pressures.* |
-| `hold back` | 阻挡 | hold back | *Held back by sanctions.* |
-| `a flood of` | 洪流 | a flood of | *A flood of orders.* |
-| `facilitate` | 促进 | facilitate | *Facilitate trade.* |
-| `state actors` | 国家行为体 | state actor | *Iranian state actors.* |
-| `lingers over` | 笼罩 | linger over | *The threat lingers over.* |
-| `All the while` | 与此同时 | all the while | *All the while, they watched.* |
-| `bypass` | 绕过 | bypass | *Bypassing the strait.* |
-| `check ... leverage` | 制约筹码 | check / leverage | *Check the country's leverage.* |
-| `not only ... but` | 不仅而且 | not only but | *Not only how, but when.* |
-| `attendant` | 随之而来的 | attendant | *Attendant risks.* |
-| `the third shock in a decade` | 十年第三次冲击 | shock | *The third shock.* |
-| `the deeper problem` | 深层问题 | deeper problem | *The deeper problem is.* |
-| `illustrates` | 例证 | illustrate | *This illustrates the problem.* |
-| `turned deadly` | 变得致命 | turn deadly | *Protests turned deadly.* |
-| `recourse` | 求助途径 | recourse | *The main recourse.* |
-| `an IMF facility` | IMF 融资工具 | facility | *A standby facility.* |
-| `can least afford` | 最负担不起 | can afford | *Time we can least afford.* |
-| `far from alone` | 远非孤例 | far from | *Far from alone in this.* |
-| `burning through` | 快速耗尽 | burn through | *Burning through cash.* |
-| `the architecture for` | ……的架构 | architecture | *The architecture for aid.* |
-| `food-shock window` | 粮食冲击窗口 | window | *Open a lending window.* |
-| `borrow on top of` | 在……之上借 | on top of | *Borrow on top of the cap.* |
-| `conditionality` | 条件性 | conditionality | *IMF conditionality.* |
-| `disbursed` | 发放 | disburse | *Disbursed funds.* |
-| `net energy importers` | 能源净进口国 | net importer | *Net importers of energy.* |
-| `exposed to` | 受……影响 | exposed to | *Exposed to price shocks.* |
-| `liquidity` | 流动性 | liquidity | *A liquidity crisis.* |
-| `solvency` | 偿付能力 | solvency | *Solvency vs liquidity.* |
-| `falling academic standards` | 标准下降 | standards | *Declining standards.* |
-| `the educational ladder` | 教育阶梯 | ladder | *Climb the ladder.* |
-| `at its core` | 本质上 | at the core | *At its core, it's dishonest.* |
-| `cowardly` | 懦弱的 | cowardly | *A cowardly policy.* |
-| `carry its own corrective` | 自带纠正 | corrective | *The market carries its own corrective.* |
-| `collapsing the cost` | 压垮成本 | collapse | *Collapsed the cost of.* |
-| `fabricated` | 伪造的 | fabricate | *Fabricated data.* |
-| `confronts ... with a choice` | 面对选择 | confront | *Confronted with a choice.* |
-| `enforcement` | 执法 | enforcement | *Costly enforcement.* |
-| `in effect` | 实际上 | in effect | *In effect, it's a ban.* |
-| `abandon the pretence of` | 放弃伪装 | abandon | *Abandon the pretence.* |
-| `academic integrity` | 学术诚信 | integrity | *A breach of academic integrity.* |
-| `thin defences` | 薄弱防御 | thin | *Thin defences against.* |
-| `academic intakes` | 学术生源 | intake | *High-quality intakes.* |
-| `credential mills` | 文凭工厂 | mill | *Degree mills.* |
-| `invigilation` | 监考 | invigilate | *Strict invigilation.* |
-| `double down` | 加倍投入 | double down | *Doubled down on quality.* |
-| `capping` | 设上限 | cap | *Capping grades.* |
-| `come into effect` | 生效 | take effect | *The law comes into effect.* |
-| `charge a premium` | 收溢价 | premium | *Charge a premium for quality.* |
-| `certifies genuine learning` | 证明真实学习 | certify | *A degree certifying learning.* |
-| `separating equilibrium` | 分离均衡 | equilibrium | *A separating equilibrium.* |
-| `need not be lamented` | 不必哀叹 | lament | *A change not to be lamented.* |
-| `reward ... above` | 更看重……而非 | reward | *Rewards loyalty above skill.* |
-| `a signal` | 信号 | signal | *A degree as a signal.* |
-| `credential` | 学历证书 | credentials | *Academic credentials.* |
-| `pretends otherwise` | 虚张声势 | pretend | *A system that pretends otherwise.* |
-| `grade inflation` | 分数通胀 | inflation | *Widespread grade inflation.* |
-| `first-class degree` | 一等学位 | first-class | *A first-class honours degree.* |
-| `elusive` | 难以企及的 | elusive | *An elusive goal.* |
-| `none at all` | 一个都没有 | none | *None at all.* |
-| `widen the ways` | 拓宽途径 | widen | *Widen access.* |
-| `permissive rather than statutory` | 放任而非法定 | permissive / statutory | *Permissive vs statutory.* |
-| `the starving of funding` | 资金枯竭 | starve | *Starved of funding.* |
-| `shredding` | 撕碎 | shred | *The shredding of services.* |
-| `exceptionally hard` | 极难 | exceptionally | *Exceptionally difficult.* |
-| `lifelong learning` | 终身学习 | lifelong | *Promote lifelong learning.* |
-| `reminded me of` | 让我想起 | remind of | *Reminded me of my childhood.* |
-| `nicknamed` | 绰号为 | nickname | *Nicknamed "the Admiral".* |
-| `rings true` | 听上去真实 | ring true | *The story rings true.* |
-| `chairing` | 主持 | chair | *Chairing the committee.* |
-| `an anonymous column` | 匿名专栏 | anonymous | *Wrote anonymously.* |
-| `was full of` | 充满 | full of | *Full of insights.* |
-| `original insights` | 原创洞见 | insight | *Offer original insights.* |
-| `treat ... with ridicule` | 嘲弄对待 | ridicule | *Treated the idea with ridicule.* |
-| `even if not very accurate` | 虽不准确 | even if | *Funny, even if inaccurate.* |
-| `order one in` | 订一份送来 | order in | *Ordered in a takeaway.* |
-| `churlish` | 无礼的 | churlish | *Churlish to complain.* |
-| `punchbag` | 出气包 | punching bag | *The punchbag of comedians.* |
-| `the butt of a national joke` | 全国笑柄 | the butt of | *The butt of the joke.* |
-| `For what it's worth` | 无论价值几何 | for what it's worth | *For what it's worth, I agree.* |
-| `wouldn't swap it for` | 不愿换 | swap for | *Wouldn't swap it for the world.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `the ethics of war` | 战争伦理 | the ethics of war |
-| `military objective` | 军事目标 | a military objective |
-| `innocent civilians` | 无辜平民 | innocent civilians |
-| `variability` | 可变性 | its variability |
-| `trolley dilemma` | 电车难题 | the trolley dilemma |
-| `universally acceptable` | 普遍可接受 | universally acceptable |
-| `comparative ease` | 相对轻易 | with comparative ease |
-| `alternative trading routes` | 替代路线 | alternative routes |
-| `arrangements` | 安排 | IMF arrangements |
-| `negotiation` | 谈判 | months of negotiation |
-| `rapid disbursement` | 快速发放 | rapid disbursement |
-| `debt burden` | 债务负担 | underlying debt burden |
-| `the once valuable network` | 曾经宝贵的网络 | the once valuable network |
-| `a famous person` | 名人 | a famous person |
-| `a star of` | 明星 | a star of the NBA |
-| `reliable source` | 可靠来源 | a reliable source |
-| `the Financial Times` | 金融时报 | for the Financial Times |
-| `television comedians` | 电视喜剧演员 | television comedians |
-| `official status` | 官方地位 | official status |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Computo, ergo sum` | 我算，故我在（戏仿笛卡尔） | "Computo, ergo sum" |
-| `NCV` | 非战斗人员伤亡临界值 | the cut-off value (NCV) |
-| `Strait of Hormuz` | 霍尔木兹海峡 | the Strait of Hormuz |
-| `covid-19` | 新冠疫情 | after covid-19 |
-| `Burkina Faso` | 布基纳法索 | including Burkina Faso |
-| `Guinea` | 几内亚 | Guinea |
-| `Malawi` | 马拉维 | Malawi |
-| `South Sudan` | 南苏丹 | South Sudan |
-| `Kenya` | 肯尼亚 | Kenya illustrates this |
-| `Egypt, Ethiopia, Mozambique and Rwanda` | 四国 | face the same choice |
-| `Harvard` | 哈佛 | as Harvard did recently |
-| `the 1960s` | 1960 年代 | In the 1960s |
-| `Bill Jones` | 读者名 | （隐含） |
-| `the Admiral` | 海军上将（大卫·罗宾逊绰号） | nicknamed "the Admiral" |
-| `Alan Greenspan` | 艾伦·格林斯潘 | Alan Greenspan is still writing |
-| `Warrington` | 沃灵顿（英国小镇） | treat Warrington with ridicule |
-| `Wazzer` | 沃灵顿人（戏称） | a proud "Wazzer" |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | reported on | 报道 |
+| 基础 | excel at | 擅长 |
+| 基础 | formulating questions | 提出问题 |
+| 基础 | weighed against | 与……权衡 |
+| 基础 | at the expense of | 以……为代价 |
+| 基础 | non-combatant | 非战斗人员 |
+| 基础 | cut-off value | 临界值 |
+| 基础 | varied widely | 差异巨大 |
+| 基础 | betrays | 暴露 |
+| 基础 | central contention | 核心论点 |
+| 基础 | waiver of sanctions | 制裁豁免 |
+| 基础 | concession | 让步 |
+| 基础 | on paper | 纸面上 |
+| 基础 | aberration | 反常、背离 |
+| 基础 | twin pressures | 双重压力 |
+| 基础 | hold back | 阻挡 |
+| 基础 | a flood of | 洪流 |
+| 基础 | facilitate | 促进 |
+| 基础 | state actors | 国家行为体 |
+| 基础 | lingers over | 笼罩 |
+| 基础 | All the while | 与此同时 |
+| 基础 | bypass | 绕过 |
+| 基础 | check ... leverage | 制约筹码 |
+| 基础 | not only ... but | 不仅而且 |
+| 基础 | attendant | 随之而来的 |
+| 基础 | the third shock in a decade | 十年第三次冲击 |
+| 基础 | the deeper problem | 深层问题 |
+| 基础 | illustrates | 例证 |
+| 基础 | turned deadly | 变得致命 |
+| 基础 | recourse | 求助途径 |
+| 基础 | an IMF facility | IMF 融资工具 |
+| 基础 | can least afford | 最负担不起 |
+| 基础 | far from alone | 远非孤例 |
+| 基础 | burning through | 快速耗尽 |
+| 基础 | the architecture for | ……的架构 |
+| 基础 | food-shock window | 粮食冲击窗口 |
+| 基础 | borrow on top of | 在……之上借 |
+| 基础 | conditionality | 条件性 |
+| 基础 | disbursed | 发放 |
+| 基础 | net energy importers | 能源净进口国 |
+| 基础 | exposed to | 受……影响 |
+| 基础 | liquidity | 流动性 |
+| 基础 | solvency | 偿付能力 |
+| 基础 | falling academic standards | 标准下降 |
+| 基础 | the educational ladder | 教育阶梯 |
+| 基础 | at its core | 本质上 |
+| 基础 | cowardly | 懦弱的 |
+| 基础 | carry its own corrective | 自带纠正 |
+| 基础 | collapsing the cost | 压垮成本 |
+| 基础 | fabricated | 伪造的 |
+| 基础 | confronts ... with a choice | 面对选择 |
+| 基础 | enforcement | 执法 |
+| 基础 | in effect | 实际上 |
+| 基础 | abandon the pretence of | 放弃伪装 |
+| 基础 | academic integrity | 学术诚信 |
+| 基础 | thin defences | 薄弱防御 |
+| 基础 | academic intakes | 学术生源 |
+| 基础 | credential mills | 文凭工厂 |
+| 基础 | invigilation | 监考 |
+| 基础 | double down | 加倍投入 |
+| 基础 | capping | 设上限 |
+| 基础 | come into effect | 生效 |
+| 基础 | charge a premium | 收溢价 |
+| 基础 | certifies genuine learning | 证明真实学习 |
+| 基础 | separating equilibrium | 分离均衡 |
+| 基础 | need not be lamented | 不必哀叹 |
+| 基础 | reward ... above | 更看重……而非 |
+| 基础 | a signal | 信号 |
+| 基础 | credential | 学历证书 |
+| 基础 | pretends otherwise | 虚张声势 |
+| 基础 | grade inflation | 分数通胀 |
+| 基础 | first-class degree | 一等学位 |
+| 基础 | elusive | 难以企及的 |
+| 基础 | none at all | 一个都没有 |
+| 基础 | widen the ways | 拓宽途径 |
+| 基础 | permissive rather than statutory | 放任而非法定 |
+| 基础 | the starving of funding | 资金枯竭 |
+| 基础 | shredding | 撕碎 |
+| 基础 | exceptionally hard | 极难 |
+| 基础 | lifelong learning | 终身学习 |
+| 基础 | reminded me of | 让我想起 |
+| 基础 | nicknamed | 绰号为 |
+| 基础 | rings true | 听上去真实 |
+| 基础 | chairing | 主持 |
+| 基础 | an anonymous column | 匿名专栏 |
+| 基础 | was full of | 充满 |
+| 基础 | original insights | 原创洞见 |
+| 基础 | treat ... with ridicule | 嘲弄对待 |
+| 基础 | even if not very accurate | 虽不准确 |
+| 基础 | order one in | 订一份送来 |
+| 基础 | churlish | 无礼的 |
+| 基础 | punchbag | 出气包 |
+| 基础 | the butt of a national joke | 全国笑柄 |
+| 基础 | For what it's worth | 无论价值几何 |
+| 基础 | wouldn't swap it for | 不愿换 |
+| 进阶 | the ethics of war | 战争伦理 |
+| 进阶 | military objective | 军事目标 |
+| 进阶 | innocent civilians | 无辜平民 |
+| 进阶 | variability | 可变性 |
+| 进阶 | trolley dilemma | 电车难题 |
+| 进阶 | universally acceptable | 普遍可接受 |
+| 进阶 | comparative ease | 相对轻易 |
+| 进阶 | alternative trading routes | 替代路线 |
+| 进阶 | arrangements | 安排 |
+| 进阶 | negotiation | 谈判 |
+| 进阶 | rapid disbursement | 快速发放 |
+| 进阶 | debt burden | 债务负担 |
+| 进阶 | the once valuable network | 曾经宝贵的网络 |
+| 进阶 | a famous person | 名人 |
+| 进阶 | a star of | 明星 |
+| 进阶 | reliable source | 可靠来源 |
+| 进阶 | the Financial Times | 金融时报 |
+| 进阶 | television comedians | 电视喜剧演员 |
+| 进阶 | official status | 官方地位 |
+| 高级 | Computo, ergo sum | 我算，故我在（戏仿笛卡尔） |
+| 高级 | NCV | 非战斗人员伤亡临界值 |
+| 高级 | Strait of Hormuz | 霍尔木兹海峡 |
+| 高级 | covid-19 | 新冠疫情 |
+| 高级 | Burkina Faso | 布基纳法索 |
+| 高级 | Guinea | 几内亚 |
+| 高级 | Malawi | 马拉维 |
+| 高级 | South Sudan | 南苏丹 |
+| 高级 | Kenya | 肯尼亚 |
+| 高级 | Egypt, Ethiopia, Mozambique and Rwanda | 四国 |
+| 高级 | Harvard | 哈佛 |
+| 高级 | the 1960s | 1960 年代 |
+| 高级 | Bill Jones | 读者名 |
+| 高级 | the Admiral | 海军上将（大卫·罗宾逊绰号） |
+| 高级 | Alan Greenspan | 艾伦·格林斯潘 |
+| 高级 | Warrington | 沃灵顿（英国小镇） |
+| 高级 | Wazzer | 沃灵顿人（戏称） |
 
 ## 长难句专项
 
@@ -1112,89 +1098,3 @@
 ---
 
 ## 精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-excel at、formulating questions、weighed against、at the expense of、non-combatant、cut-off value、varied widely、betrays、central contention、waiver of sanctions、concession、on paper、aberration、twin pressures、hold back、a flood of、facilitate、state actors、lingers over、All the while、bypass、check ... leverage、attendant、the deeper problem、illustrates、recourse、can least afford、far from alone、burning through、food-shock window、conditionality、disbursed、exposed to、liquidity、solvency、falling academic standards、at its core、cowardly、fabricated、confronts ... with、enforcement、in effect、abandon the pretence of、academic integrity、credential mills、double down、capping、come into effect、separating equilibrium、lamented、a signal、grade inflation、elusive、permissive rather than statutory、the starving of funding、shredding、lifelong learning、rings true、chairing、anonymous column、original insights、treat ... with ridicule、churlish、punchbag、the butt of、For what it's worth、wouldn't swap it for
-
-### 2. 本文核心表达
-
-1. `"Computo, ergo sum"` — 戏仿笛卡尔（我算故我在）
-2. `excel at formulating questions, but ... no agreed answers` — 擅长提问无答案
-3. `weighed against civilian deaths` — 与平民死亡权衡
-4. `Its variability betrays the uncertainty` — 数值飘忽暴露心虚
-5. `resolve itself into the trolley dilemma` — 化解为电车难题
-6. `what looks significant on paper ... is decidedly less so in reality` — 纸上重要现实不然
-7. `hold back any potential flood of Western buyers` — 拦住买家洪流
-8. `the prospect of ... being closed again with comparative ease` — 轻易被封锁的前景
-9. `the dime on which the global economy might turn` — 全球经济急转弯的硬币
-10. `the third shock in a decade` — 十年内第三次冲击
-11. `the government's main recourse is slow` — 应对手段太慢
-12. `time a country in a live currency crisis can least afford` — 最耗不起的时间
-13. `face the same choice between burning through reserves and waiting on a negotiated rescue` — 烧储备 or 等救援
-14. `carry its own corrective` — 自带纠偏
-15. `confronts every university with a blunt choice` — 逼大学二选一
-16. `operating openly as credential mills` — 公开当文凭工厂
-17. `a separating equilibrium, the market sorting what administrators cannot` — 分离均衡
-18. `An honest credential may serve its holder better` — 诚实证书更好
-19. `prevent criminal children from becoming criminal adults` — （呼应前文）
-20. `first prize is a week in Warrington; second prize is two weeks` — 沃灵顿老梗
-21. `I wouldn't swap it for anywhere` — 不愿换任何地方
-
-### 3. 重要语法
-
-- **戏仿/双关（pun/parody）**：`Computo, ergo sum`、`order one in`
-- **what 主语/宾语从句**：`what looks significant on paper` / `what economists call`
-- **虚拟条件**：`If we knew ... would resolve`
-- **破折号同位语插入**：`an apparent aberration against ...`
-- **By + 动名词方式状语**：`By collapsing the cost`
-- **confront A with B**：`confronts every university with a blunt choice`
-- **冒号后祈使式列举**：`pay for ... or ... abandon`
-- **省 that 定语从句**：`time a country ... can least afford`
-- **It 形式主语**：`it is entirely possible that` / `It would be churlish of me`
-- **独立主格**：`some of them quite funny`
-- **倒装引述**：`said the shopkeeper`
-- **最高级 + ever 定语从句**：`the best column ... that I have ever seen`
-- **多重嵌套从句**：`which let countries hit by ... borrow`
-
-### 4. 长难句
-
-- 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
-- 原句 12（what 主语从句 + 破折号插入）
-- 原句 29（which 定语从句 + let sb do + 多层修饰）
-- 原句 32（Although 让步 + that 宾语从句 + whether 从句）
-- 原句 35（By 方式 + 冒号二选一）
-- 原句 39（what 从句 + 动名词同位语）
-
-### 5. 写作技巧
-
-1. **读者来信的"回应-延伸"结构**：每封信先明确回应的原文（标题+日期），再提出自己的论点——`"Cancelled penalty" was correct in its central contention` / `Your leader ... rightly noted`——先给肯定的锚点，再展开，符合书信礼仪
-2. **专业概念 + 通俗解释**：`known as the non-combatant casualty cut-off value (NCV)`（先给术语再给括号解释）、`doli incapax—incapable of evil`（破折号英译）、`a separating equilibrium`（随后用 "the market sorting" 白话重述）——术语进出有序
-3. **"纸上 vs 现实"的对照**：`what looks significant on paper ... is decidedly less so in reality` —— 用抽象对照概括整个论证（豁免纸上巨大，现实有限），一句话立论
-4. **经济学概念的妙用**：`separating equilibrium`（分离均衡）、`a degree as a signal`（信号理论）、`liquidity vs solvency`（流动性与偿付性）——读者用专业框架解释看似简单的现象，是《经济学人》读者的典型思维
-5. **自嘲式幽默收尾**：从第一封信的战争伦理（NCV）到最后一封的城镇玩笑（"一等奖：沃灵顿一周；二等奖：两周"）——**用自嘲（I wouldn't swap it for anywhere）平衡全篇的严肃**，展现读者群的广度
-6. **轶事的白描**：格林斯潘匿名专栏被主编称"best column ... that I have ever seen"、海军上将电梯轶事、沃灵顿中餐店笑话——用"小故事"而非"论点"回应原文，信件风格多样
-7. **收尾留温度**：`It would be churlish of me to complain`（抱怨失礼）+ `I wouldn't swap it for anywhere`（哪里都不换）——骂归骂、爱归爱，乡情在自嘲中升华
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `reported on ... and noted` | 概括他人观点 | She reported on the issue and noted its impact. |
-| `excel at` | 能力评价 | She excels at solving problems. |
-| `weighed against` | 权衡分析 | Benefits must be weighed against costs. |
-| `at the expense of` | 代价分析 | Growth at the expense of safety. |
-| `varied widely` | 数据差异 | Estimates vary widely. |
-| `on paper ... in reality` | 对照 | It looks good on paper, but not in reality. |
-| `hold back a flood of` | 抑制 | Hold back a flood of demand. |
-| `All the while` | 同时进行 | All the while, costs kept rising. |
-| `can least afford` | 时间/资源紧张 | Time we can least afford. |
-| `face the choice between A and B` | 两难 | Face the choice between speed and cost. |
-| `confront ... with a choice` | 逼选择 | The deadline confronts us with a choice. |
-| `double down on` | 加码 | We doubled down on quality. |
-| `come into effect` | 生效 | The rule comes into effect next month. |
-| `need not be lamented` | 乐观看待 | This change need not be lamented. |
-| `a signal of` | 信号/象征 | The result is a signal of confidence. |
-| `rings true` | 判断可信 | Her account rings true. |
-| `For what it's worth` | 谦逊插入 | For what it's worth, I agree. |
-| `wouldn't swap ... for anywhere` | 珍视 | I wouldn't swap this job for anywhere. |

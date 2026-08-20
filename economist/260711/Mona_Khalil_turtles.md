@@ -941,152 +941,138 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `strolling` | 漫步 | stroll along | *Strolling on the beach.* |
-| `adventuring` | 冒险 | adventure | *Adventuring through the hills.* |
-| `driftwood` | 浮木 | pieces of driftwood | *Collecting driftwood.* |
-| `clinking` | 叮当响 | clink | *Bottles clinking.* |
-| `dream life` | 梦想生活 | dream | *Living the dream life.* |
-| `a thud or a thump` | 砰的闷响 | a heavy thud | *A thud at the door.* |
-| `The next thing she knew` | 回过神来 | the next thing I knew | *The next thing I knew, it was over.* |
-| `not ... but ...` | 不是而是 | not A but B | *Not a fox but a turtle.* |
-| `critically endangered` | 极度濒危 | critically endangered species | *A critically endangered animal.* |
-| `herbivores` | 草食动物 | herbivore | *A herbivore.* |
-| `would have swum` | 一定游了 | would have done | *She would have travelled far.* |
-| `hatched` | 孵化 | hatch | *The eggs hatched.* |
-| `Unerring` | 不出错的 | unerring | *Unerring instinct.* |
-| `wearily` | 疲惫地 | weary | *Rose wearily.* |
-| `the point at which` | 转折点 | the point at which | *The point at which it changed.* |
-| `gazed` | 凝视 | gaze at | *Gazed at the stars.* |
-| `porcelain restorer` | 瓷器修复师 | restore | *A porcelain restorer.* |
-| `swallowed in` | 吞没 | be swallowed by | *Swallowed by the forest.* |
-| `put it to rights` | 修缮好 | put to rights | *Put the garden to rights.* |
-| `homage to` | 致敬 | a homage to | *A homage to her homeland.* |
-| `Dutchness` | 荷兰气质 | -ness | *A certain Dutchness.* |
-| `bluntness` | 直率 | blunt | *A blunt manner.* |
-| `reserve` | 内敛 | a certain reserve | *Cold reserve.* |
-| `swayed` | 动摇 | sway | *Don't be swayed.* |
-| `dogged` | 顽强的 | dogged | *Dogged determination.* |
-| `get on with it` | 干下去 | get on with | *Just get on with it.* |
-| `world-famous` | 世界闻名 | world-famous | *A world-famous project.* |
-| `carnivorous` | 肉食的 | carnivore | *Carnivorous animals.* |
-| `prostrated` | 击垮 | prostrate | *Prostrated by defeat.* |
-| `conservationists` | 环保人士 | conservation | *A conservationist.* |
-| `turning ... into` | 改成 | turn into | *Turned the barn into a studio.* |
-| `B&B` | 含早餐民宿 | B&B | *Stayed at a B&B.* |
-| `an oasis of calm` | 宁静绿洲 | oasis | *An oasis of calm.* |
-| `The high point` | 高潮 | high point | *The high point of the day.* |
-| `summon` | 召集 | summon | *Summoned her team.* |
-| `hatchlings` | 幼龟 | hatchling | *Released the hatchlings.* |
-| `frantically` | 疯狂地 | frantic | *Frantically searching.* |
-| `scurried` | 仓皇小跑 | scurry | *Scurried away.* |
-| `the breaking waves` | 碎浪 | breaking waves | *Breaking waves.* |
-| `plastic litter` | 塑料垃圾 | litter | *Plastic litter.* |
-| `entangled` | 缠住 | entangle | *Entangled in netting.* |
-| `close-mesh nets` | 细网 | mesh | *Close-mesh netting.* |
-| `dynamite` | 炸药 | dynamite | *Fishing with dynamite.* |
-| `insidious` | 隐蔽的 | insidious | *An insidious threat.* |
-| `unspoilt tranquillity` | 未破坏的宁静 | unspoilt | *Unspoilt beaches.* |
-| `competed with` | 与……争 | compete with | *Lights competing with the moon.* |
-| `confound` | 扰乱 | confound | *Confounded the pilot.* |
-| `sense of direction` | 方向感 | sense of | *A poor sense of direction.* |
-| `hemmed-in` | 被围困 | hem in | *A hemmed-in valley.* |
-| `feel compelled to` | 不得不 | feel compelled | *Felt compelled to help.* |
-| `campaigned` | 奔走活动 | campaign | *Campaigned for the turtles.* |
-| `Before dawn` | 黎明前 | before dawn | *Woke before dawn.* |
-| `patrol` | 巡逻 | patrol | *Patrolled the shore.* |
-| `papery-shelled` | 纸壳的 | papery | *Papery wings.* |
-| `Passionately` | 激情地 | passionate | *Spoke passionately.* |
-| `tearfully` | 含泪 | tearful | *Pleaded tearfully.* |
-| `had a right to` | 有权拥有 | have a right to | *A right to the beach.* |
-| `Who were ... to` | 谁配 | who are you to | *Who are you to judge?* |
-| `kick them out` | 赶走 | kick out | *Kicked out of their home.* |
-| `incessant` | 没完没了 | incessant | *Incessant noise.* |
-| `the last thing on their minds` | 最不想的 | the last thing | *The last thing I need.* |
-| `turned up with` | 带着出现 | turn up with | *Turned up with a bottle.* |
-| `give up using` | 放弃使用 | give up | *Gave up smoking.* |
-| `a community reserve` | 社区保护区 | reserve | *A nature reserve.* |
-| `did her best to obstruct` | 尽力阻止 | do one's best | *Did her best to help.* |
-| `contravened` | 违反 | contravene | *Contravened the regulations.* |
-| `petitioned` | 请愿 | petition | *Petitioned the council.* |
-| `peacekeepers` | 维和人员 | peacekeeping | *UN peacekeepers.* |
-| `point-blank` | 直截了当 | point-blank | *Asked point-blank.* |
-| `nesting season` | 筑巢季 | nest | *Nesting season.* |
-| `set up rockets` | 架火箭 | set up | *Set up a launcher.* |
-| `had to flee` | 逃离 | flee | *Forced to flee.* |
-| `military checkpoint` | 军事检查站 | checkpoint | *Passed a checkpoint.* |
-| `cleared through security` | 过安检 | clear | *Cleared through customs.* |
-| `Ironically` | 讽刺地 | ironically | *Ironically, it helped.* |
-| `emptied the beaches` | 清空海滩 | empty | *Emptied the streets.* |
-| `thrived` | 繁盛 | thrive | *The plants thrived.* |
-| `launched themselves` | 冲向大海 | launch | *Launched into the sea.* |
-| `Nonetheless` | 尽管如此 | nonetheless | *Nonetheless, she stayed.* |
-| `made the resolution` | 下定决心 | make a resolution | *Made a resolution.* |
-| `No matter what` | 无论如何 | no matter | *No matter what, I'm staying.* |
-| `dealings with` | 打交道 | dealings | *Dealings with the army.* |
-| `compromised her` | 使她受牵连 | compromise | *Compromised his reputation.* |
-| `waved ... off` | 不理会 | wave off | *Waved off the question.* |
-| `a civilian` | 平民 | civilian | *A civilian casualty.* |
-| `no other ... but` | 只有 | no but | *No other answer but yes.* |
-| `heaven` | 天堂 | heaven | *A private heaven.* |
-| `patch` | 一亩三分地 | a patch | *A familiar patch of land.* |
-| `as surely as` | 正如……一样 | as surely as | *As surely as the tide.* |
-| `unwavering` | 毫不动摇 | unwavering | *Unwavering loyalty.* |
-| `mile after mile` | 一里又一里 | after | *Mile after mile.* |
-| `rolling sea` | 翻滚海面 | rolling | *The rolling sea.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `the rocky, sandy shore` | 岩石沙岸 | the rocky, sandy shore |
-| `weird stones` | 怪石 | weird stones |
-| `lemon and banana trees` | 柠檬香蕉树 | in the lemon and banana trees |
-| `coloured glass bottles` | 彩色玻璃瓶 | coloured glass bottles |
-| `throwing sand` | 甩沙子 | throwing sand at her |
-| `digging a nest` | 挖窝 | digging a nest |
-| `sea-grass and seaweed` | 海草海藻 | eating sea-grass |
-| `civil war` | 内战 | during Lebanon's civil war |
-| `a passing boat` | 过往船 | killed by a passing boat |
-| `starfish` | 海星 | gazing at starfish |
-| `wind chimes` | 风铃 | wind chimes |
-| `home-made jam` | 自制果酱 | home-made jam |
-| `wire mesh` | 铁丝网 | roofed with wire mesh |
-| `ghost crabs` | 幽灵蟹 | ghost crabs |
-| `flats, hotels and resorts` | 公寓酒店度假村 | flats, hotels and resorts |
-| `security lights` | 保安灯 | security lights |
-| `rubbish` | 垃圾 | throwing their rubbish |
-| `hut` | 小屋 | a hut on the beach |
-| `covid` | 疫情 | war (or covid) |
-| `statue` | 雕像 | made a statue |
-| `shells` | 炮弹 | Israeli shells |
-| `civilian` | 平民 | just a civilian |
-| `determination` | 决心 | unwavering determination |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Mansouri beach` | 曼苏里海滩 | on Mansouri beach |
-| `green sea turtle` | 绿海龟 | a green sea turtle |
-| `loggerhead turtles` | 蠵龟 | carnivorous loggerhead turtles |
-| `Omar` | 奥马尔（她的儿子） | a son, Omar |
-| `Habiba Fayed` | 哈比巴·法耶德（挚友） | her friend, Habiba Fayed |
-| `Orange House` | 橙房子 | the Orange House |
-| `hima` | 社区保护区（伊斯兰传统） | declare the beach a hima |
-| `Palagio Beach Resort` | 帕拉焦海滩度假村 | the Palagio Beach Resort |
-| `Hizbullah` | 真主党 | Hizbullah fighters |
-| `Kalashnikovs` | AK 步枪 | with Kalashnikovs |
-| `Israeli border` | 以色列边界 | inside the Israeli border |
-| `Beirut` | 贝鲁特 | school in Beirut |
-| `the Netherlands` | 荷兰 | an escape to the Netherlands |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | strolling | 漫步 |
+| 基础 | adventuring | 冒险 |
+| 基础 | driftwood | 浮木 |
+| 基础 | clinking | 叮当响 |
+| 基础 | dream life | 梦想生活 |
+| 基础 | a thud or a thump | 砰的闷响 |
+| 基础 | The next thing she knew | 回过神来 |
+| 基础 | not ... but ... | 不是而是 |
+| 基础 | critically endangered | 极度濒危 |
+| 基础 | herbivores | 草食动物 |
+| 基础 | would have swum | 一定游了 |
+| 基础 | hatched | 孵化 |
+| 基础 | Unerring | 不出错的 |
+| 基础 | wearily | 疲惫地 |
+| 基础 | the point at which | 转折点 |
+| 基础 | gazed | 凝视 |
+| 基础 | porcelain restorer | 瓷器修复师 |
+| 基础 | swallowed in | 吞没 |
+| 基础 | put it to rights | 修缮好 |
+| 基础 | homage to | 致敬 |
+| 基础 | Dutchness | 荷兰气质 |
+| 基础 | bluntness | 直率 |
+| 基础 | reserve | 内敛 |
+| 基础 | swayed | 动摇 |
+| 基础 | dogged | 顽强的 |
+| 基础 | get on with it | 干下去 |
+| 基础 | world-famous | 世界闻名 |
+| 基础 | carnivorous | 肉食的 |
+| 基础 | prostrated | 击垮 |
+| 基础 | conservationists | 环保人士 |
+| 基础 | turning ... into | 改成 |
+| 基础 | B&B | 含早餐民宿 |
+| 基础 | an oasis of calm | 宁静绿洲 |
+| 基础 | The high point | 高潮 |
+| 基础 | summon | 召集 |
+| 基础 | hatchlings | 幼龟 |
+| 基础 | frantically | 疯狂地 |
+| 基础 | scurried | 仓皇小跑 |
+| 基础 | the breaking waves | 碎浪 |
+| 基础 | plastic litter | 塑料垃圾 |
+| 基础 | entangled | 缠住 |
+| 基础 | close-mesh nets | 细网 |
+| 基础 | dynamite | 炸药 |
+| 基础 | insidious | 隐蔽的 |
+| 基础 | unspoilt tranquillity | 未破坏的宁静 |
+| 基础 | competed with | 与……争 |
+| 基础 | confound | 扰乱 |
+| 基础 | sense of direction | 方向感 |
+| 基础 | hemmed-in | 被围困 |
+| 基础 | feel compelled to | 不得不 |
+| 基础 | campaigned | 奔走活动 |
+| 基础 | Before dawn | 黎明前 |
+| 基础 | patrol | 巡逻 |
+| 基础 | papery-shelled | 纸壳的 |
+| 基础 | Passionately | 激情地 |
+| 基础 | tearfully | 含泪 |
+| 基础 | had a right to | 有权拥有 |
+| 基础 | Who were ... to | 谁配 |
+| 基础 | kick them out | 赶走 |
+| 基础 | incessant | 没完没了 |
+| 基础 | the last thing on their minds | 最不想的 |
+| 基础 | turned up with | 带着出现 |
+| 基础 | give up using | 放弃使用 |
+| 基础 | a community reserve | 社区保护区 |
+| 基础 | did her best to obstruct | 尽力阻止 |
+| 基础 | contravened | 违反 |
+| 基础 | petitioned | 请愿 |
+| 基础 | peacekeepers | 维和人员 |
+| 基础 | point-blank | 直截了当 |
+| 基础 | nesting season | 筑巢季 |
+| 基础 | set up rockets | 架火箭 |
+| 基础 | had to flee | 逃离 |
+| 基础 | military checkpoint | 军事检查站 |
+| 基础 | cleared through security | 过安检 |
+| 基础 | Ironically | 讽刺地 |
+| 基础 | emptied the beaches | 清空海滩 |
+| 基础 | thrived | 繁盛 |
+| 基础 | launched themselves | 冲向大海 |
+| 基础 | Nonetheless | 尽管如此 |
+| 基础 | made the resolution | 下定决心 |
+| 基础 | No matter what | 无论如何 |
+| 基础 | dealings with | 打交道 |
+| 基础 | compromised her | 使她受牵连 |
+| 基础 | waved ... off | 不理会 |
+| 基础 | a civilian | 平民 |
+| 基础 | no other ... but | 只有 |
+| 基础 | heaven | 天堂 |
+| 基础 | patch | 一亩三分地 |
+| 基础 | as surely as | 正如……一样 |
+| 基础 | unwavering | 毫不动摇 |
+| 基础 | mile after mile | 一里又一里 |
+| 基础 | rolling sea | 翻滚海面 |
+| 进阶 | the rocky, sandy shore | 岩石沙岸 |
+| 进阶 | weird stones | 怪石 |
+| 进阶 | lemon and banana trees | 柠檬香蕉树 |
+| 进阶 | coloured glass bottles | 彩色玻璃瓶 |
+| 进阶 | throwing sand | 甩沙子 |
+| 进阶 | digging a nest | 挖窝 |
+| 进阶 | sea-grass and seaweed | 海草海藻 |
+| 进阶 | civil war | 内战 |
+| 进阶 | a passing boat | 过往船 |
+| 进阶 | starfish | 海星 |
+| 进阶 | wind chimes | 风铃 |
+| 进阶 | home-made jam | 自制果酱 |
+| 进阶 | wire mesh | 铁丝网 |
+| 进阶 | ghost crabs | 幽灵蟹 |
+| 进阶 | flats, hotels and resorts | 公寓酒店度假村 |
+| 进阶 | security lights | 保安灯 |
+| 进阶 | rubbish | 垃圾 |
+| 进阶 | hut | 小屋 |
+| 进阶 | covid | 疫情 |
+| 进阶 | statue | 雕像 |
+| 进阶 | shells | 炮弹 |
+| 进阶 | civilian | 平民 |
+| 进阶 | determination | 决心 |
+| 高级 | Mansouri beach | 曼苏里海滩 |
+| 高级 | green sea turtle | 绿海龟 |
+| 高级 | loggerhead turtles | 蠵龟 |
+| 高级 | Omar | 奥马尔（她的儿子） |
+| 高级 | Habiba Fayed | 哈比巴·法耶德（挚友） |
+| 高级 | Orange House | 橙房子 |
+| 高级 | hima | 社区保护区（伊斯兰传统） |
+| 高级 | Palagio Beach Resort | 帕拉焦海滩度假村 |
+| 高级 | Hizbullah | 真主党 |
+| 高级 | Kalashnikovs | AK 步枪 |
+| 高级 | Israeli border | 以色列边界 |
+| 高级 | Beirut | 贝鲁特 |
+| 高级 | the Netherlands | 荷兰 |
 
 ## 长难句专项
 
@@ -1153,86 +1139,3 @@
 ---
 
 ## 精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-strolling、driftwood、clinking、the next thing she knew、not ... but ...、critically endangered、herbivores、hatched、Unerring、wearily、the point at which、gazed、swallowed in、put to rights、homage to、Dutchness、bluntness、reserve、dogged、world-famous、prostrated、conservationists、oasis of calm、high point、summon、hatchlings、frantically、scurried、entangled、close-mesh nets、dynamite、insidious、unspoilt tranquillity、confound、hemmed-in、feel compelled to、campaigned、patrol、papery-shelled、tearfully、Who were ... to、kick them out、incessant、the last thing on their minds、point-blank、nesting season、Ironically、thrived、launched themselves、Nonetheless、made the resolution、No matter what、compromised her、waved ... off、no other ... but、patch、as surely as、unwavering、mile after mile、rolling sea
-
-### 2. 本文核心表达
-
-1. `It was the summer of 1999` — 故事开场
-2. `All the toys she had ever needed she had picked up here` — 宾语前置强调
-3. `The next thing she knew, ... was throwing sand at her` — 回过神来
-4. `not a dog or a fox, but a huge turtle` — 排除式揭晓
-5. `would have swum hundreds, maybe even thousands, of miles` — 千里回归的推测
-6. `her eggs laid and covered up` — 独立主格（产卵毕）
-7. `the point at which her life changed, and became only turtles` — 转折点
-8. `killed at eight by a passing boat as he gazed at starfish` — 生平悲剧
-9. `put it to rights` — 修缮好
-10. `a certain bluntness, an unLebanese reserve, a refusal to be swayed, and a dogged belief in just getting on with it` — 四连性格
-11. `turning the Orange House into a B&B` — 民宿养项目
-12. `wind chimes, home-made jam—and serious research` — 诗意与科研并置
-13. `flippers going frantically, scurried down to the breaking waves` — 幼龟入海
-14. `the most insidious enemy was development` — 最隐蔽的敌人
-15. `Security lights competed with the moon` — 灯光与月争辉
-16. `the home to which the female hatchlings would one day feel compelled to return` — 回归的家
-17. `Who were humans to kick them out?` — 人类算老几
-18. `All they were asking for was a short season to nest` — 所求甚少
-19. `she asked Hizbullah fighters point-blank to leave` — 直面武装
-20. `when war (or covid) emptied the beaches the turtles thrived` — 人走龟旺
-21. `a statue ... out of all the Israeli shells` — 炮弹雕像
-22. `there was no other heaven but her Orange House` — 家即天堂
-23. `her patch, to which she had to return; as surely as the female turtles did` — 如龟归家
-
-### 3. 重要语法
-
-- **宾语前置（topicalization）**：`All the toys she had ever needed she had picked up here`
-- **名词罗列式叙述（无谓语）**：`School in Beirut, a marriage, and a son, Omar, killed at eight ...`
-- **独立主格**：`her eggs laid and covered up` / `flippers going frantically`
-- **would have + 过去分词（推测）**：`would have swum hundreds of miles`
-- **介词前置定语从句**：`the home to which ... return` / `her patch, to which she had to return`
-- **比较从句**：`as surely as the female turtles did`
-- **并列动词链**：`measured, roofed, counted, helped, sent`（五连）
-- **同位语**：`they, her family` / `Omar, killed at eight`
-- **极短句重音**：`She loved this beach.` / `She was just a civilian.` / `That was it.`
-- **插入语**：`(she had to; they were the local authority)`
-- **反问句**：`Who were humans to kick them out?`
-- **倒装引语**：`said the late Sir Terry Pratchett` 类（此处为 `she repeated`）
-
-### 4. 长难句
-
-- 原句 5（宾语前置 + 冒号列举）
-- 原句 13（would have + where 定语从句）
-- 原句 18（名词罗列 + 分词 + as 从句）
-- 原句 30（when 表语从句 + as 时间从句 + 独立主格）
-- 原句 38（介词前置定语从句）
-- 原句 72（介词前置 + 比较从句 + 并列状语）
-
-### 5. 写作技巧
-
-1. **"family"的隐喻贯穿**：标题引号中的 family（海龟是家人）→ 文中 `they, her family, would be gone again` → 结尾 `her patch ... as surely as the female turtles did`——把"人-海龟"的关系当作"归乡者-家园"，讣告的动人处在于把人物的一生浓缩为一个"归属"意象
-2. **时间尺度的震撼**：`for the past 250m years, before humans existed`（海龟先来 2.5 亿年）+ `where 30 years ago she had hatched`（海龟 30 年后归来）+ `over mile after mile`（千里洄游）——用宏大时间与空间尺度衬托海龟的"先来者"地位
-3. **从偶遇到献身**：开篇"拿着啤酒漫步、捡玻璃瓶"的惬意 → 第二段 `not a dog or a fox, but a huge turtle` 的揭晓 → `all she could think of was how beautiful she was`——用一个"美"字完成人生转向，不讲大道理
-4. **名词短语罗列的人生压缩**：`School in Beirut, a marriage, and a son, Omar, killed at eight`——用三个名词短语+一个最痛的定语（凝视海星被船撞死）交代半生，悲恸全在"凝视海星"这一静谧画面里
-5. **敌对与胜利的平衡**：不回避敌意（带 AK 的当地人、真主党、战争）但也不悲情——`But at least she made the fishermen give up using dynamite`（至少让渔民放弃炸药）、`when war emptied the beaches the turtles thrived`（战争反而帮了海龟）——用"至少"与"讽刺"保持克制
-6. **物件意象**：橙房子（基地）、炮弹雕像（化暴戾为美）、风铃与果酱（日常诗意）、瓶中浮木（童趣）——用具体物件代替抽象评价，人物跃然纸上
-7. **首尾闭环**：开篇"捡东西/梦生活" → 结尾"她的 patch，如龟归家"——从"捡拾"（收集）到"回归"（守护），讣告在结构的循环中完成对一位"固执的守护者"的致敬
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `It was the summer of ...` | 叙事开场 | It was the summer of 2008. |
-| `The next thing I knew, ...` | 转折叙事 | The next thing I knew, it was dark. |
-| `not A but B` | 澄清 | Not a failure but a lesson. |
-| `the point at which` | 转折点 | The point at which everything changed. |
-| `put ... to rights` | 修复 | Put the records to rights. |
-| `as a homage to` | 致敬 | Named it as a homage to her teacher. |
-| `the last thing on one's mind` | 优先级 | Saving is the last thing on their minds. |
-| `Who are ... to` | 质疑资格 | Who are we to judge? |
-| `feel compelled to` | 内心驱动 | Felt compelled to speak up. |
-| `No matter what` | 坚持 | No matter what, we carry on. |
-| `wave ... off` | 不在意 | Waved off the criticism. |
-| `as surely as` | 必然性 | As surely as night follows day. |
-| `unwavering` | 坚定 | Unwavering commitment. |
-| `mile after mile` | 持续 | Mile after mile of progress. |

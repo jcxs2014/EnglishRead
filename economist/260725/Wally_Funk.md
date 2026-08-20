@@ -345,55 +345,48 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                              | 核心义                | 常见搭配                                  | 例句                                                |
-| ------------------------------------ | --------------------- | ----------------------------------------- | --------------------------------------------------- |
-| `frou-frou`                          | 花哨/矫揉造作的       |                                          | She refused to be frou-frou.                         |
-| `Atta girl!`                         | 好样的！              |                                          | You finished first? Atta girl!                       |
-| `glide free`                         | 自由滑翔              |                                          | The bird glides free in the sky.                     |
-| `holy cow!`                          | 天哪！（感叹）        |                                          | Holy cow, that's a lot of money!                     |
-| `face it down, beat it back`         | 直面它，打回去        |                                          | She faced problems down and beat them back.          |
-| `gobble gobble`                      | 狼吞虎咽（象声词）    |                                          | He gobbled down his dinner.                         |
-| `sensory-deprivation tank`           | 感觉剥夺水箱          |                                          |                                                    |
-| `haul her out`                       | 把它拖出来            |                                          | They had to haul her out of the tank.               |
-| `got cold feet`                      | 临阵退缩              |                                          | He got cold feet before the wedding.                |
-| `"throw it a fish"`                  | "扔条鱼给它"          |                                          | They would throw it a fish and move on.             |
-| `marlin rather than a trout`         | 马林鱼而非鳟鱼        | `rather than`                             | It required a marlin rather than a trout.           |
-| `first and only woman`               | 首位且唯一女性        |                                          | She was the first and only woman in the department.  |
-| `rapelling off cliffs`               | 从悬崖上绳降          |                                          |                                                    |
-| `niggled her`                        | 使她萦绕/烦扰         | `niggle`                                  | The dream still niggled her.                        |
-| `barf-bags`                          | 呕吐袋                | `barf`                                    | Everyone used their barf-bags except her.          |
-| `a soft spot for`                    | 对……情有独钟         |                                          | She had a soft spot for the glider.                 |
-| `put down her life savings`          | 拿出全部积蓄          |                                          | She put down her life savings for the flight.       |
-| `fly to the stars`                   | 飞向星星              |                                          |                                                    |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                      |
-| ------------------------------- | --------------------------------------- |
-| `home economics`                 | 家政课                                  |
-| `balsa-wood planes`              | 轻木飞机                                |
-| `Mercury 13`                     | 13 位女性太空候选人测试项目              |
-| `Federal Aviation Administration` | 美国联邦航空管理局（FAA）               |
-| `National Transportation Safety Board` | 国家运输安全委员会（NTSB）           |
-| `Blue Origin`                    | 蓝色起源（Jeff Bezos 的太空公司）        |
-| `Virgin Galactic`                | 维珍银河                                |
-| `tomboy`                         | 假小子                                  |
-| `Pueblo Indians`                 | 普韦布洛印第安人                        |
-| `centrifuge test`                | 离心机测试                              |
-| `G-suit`                         | 抗荷服                                  |
-| `corset`                         | 束身衣                                  |
-| `zero-gravity`                   | 失重                                    |
-| `rapturously`                    | 狂喜地                                  |
-| `log flight hours`               | 记录飞行小时                            |
-| `arduous`                        | 艰苦的                                  |
-| `gruesome`                       | 可怕的                                  |
-| `comb through`                   | 仔细搜寻                                |
-| `Camper van`                     | 露营车                                  |
-| `Valentina Tereshkova`           | 瓦莲京娜·捷列什科娃（首位女宇航员）      |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | frou-frou | 花哨/矫揉造作的 |
+| 基础 | Atta girl! | 好样的！ |
+| 基础 | glide free | 自由滑翔 |
+| 基础 | holy cow! | 天哪！（感叹） |
+| 基础 | face it down, beat it back | 直面它，打回去 |
+| 基础 | `gobble gobble` | 狼吞虎咽（象声词） |
+| 基础 | sensory-deprivation tank | 感觉剥夺水箱 |
+| 基础 | haul her out | 把它拖出来 |
+| 基础 | got cold feet | 临阵退缩 |
+| 基础 | "throw it a fish" | "扔条鱼给它" |
+| 基础 | marlin rather than a trout | 马林鱼而非鳟鱼 |
+| 基础 | first and only woman | 首位且唯一女性 |
+| 基础 | rapelling off cliffs | 从悬崖上绳降 |
+| 基础 | niggled her | 使她萦绕/烦扰 |
+| 基础 | barf-bags | 呕吐袋 |
+| 基础 | a soft spot for | 对……情有独钟 |
+| 基础 | put down her life savings | 拿出全部积蓄 |
+| 基础 | fly to the stars | 飞向星星 |
+| 进阶 | home economics | 家政课 |
+| 进阶 | balsa-wood planes | 轻木飞机 |
+| 进阶 | Mercury 13 | 13 位女性太空候选人测试项目 |
+| 进阶 | Federal Aviation Administration | 美国联邦航空管理局（FAA） |
+| 进阶 | National Transportation Safety Board | 国家运输安全委员会（NTSB） |
+| 进阶 | Blue Origin | 蓝色起源（Jeff Bezos 的太空公司） |
+| 进阶 | Virgin Galactic | 维珍银河 |
+| 进阶 | tomboy | 假小子 |
+| 进阶 | Pueblo Indians | 普韦布洛印第安人 |
+| 进阶 | centrifuge test | 离心机测试 |
+| 进阶 | G-suit | 抗荷服 |
+| 进阶 | corset | 束身衣 |
+| 进阶 | zero-gravity | 失重 |
+| 进阶 | rapturously | 狂喜地 |
+| 进阶 | log flight hours | 记录飞行小时 |
+| 进阶 | arduous | 艰苦的 |
+| 进阶 | gruesome | 可怕的 |
+| 进阶 | comb through | 仔细搜寻 |
+| 进阶 | Camper van | 露营车 |
+| 进阶 | Valentina Tereshkova | 瓦莲京娜·捷列什科娃（首位女宇航员） |
 
 ## 核心表达（可直接迁移）
 

@@ -685,67 +685,58 @@
 
 ---
 
-## 词汇分级总表
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握（本文核心）
-| 单词/短语 | 含义 | 所在句 |
-| --- | --- | --- |
-| `frontier models` | 前沿模型（AI 治理核心术语） | 5 |
-| `access to` | 访问权限/获取渠道 | 6, 11, 16 |
-| `leverage` / `negotiating leverage` | 筹码/谈判优势 | 12, 34, 42 |
-| `cut off` | 切断（供应） | 15, 25, 26 |
-| `credible` | 可信的（威慑/能力） | 20, 26 |
-| `surpass` | 超越 | 7 |
-| `unilaterally` | 单方面地 | 9 |
-| `be modelled on` | 以……为蓝本 | 4 |
-| `pitch` | 推销（想法） | 3 |
-| `progress is being made towards` | 在……方面取得进展 | 1 |
-| `exert control over` | 施加控制 | 14 |
-| `have no qualms about` | 对……毫无顾忌 | 12 |
-| `be desperate for` | 极度渴求 | 32 |
-| `in return for` | 以换取 | 33 |
-| `lobby against` | 游说反对 | 35 |
-| `justify` | 证明……合理 | 35 |
-| `compute` | 算力 | 25 |
-| `open-weight models` | 开放权重模型 | 26 |
-| `choke points` | 咽喉要道 | 36 |
-| `sovereign` | 主权的/自主的 | 39 |
-| `transactionally` | 交易式地 | 40 |
-| `be set to` | 即将 | 2 |
-| `make it easier to` | 使……更容易 | 26 |
-| `deal with` | 打交道 | 40 |
-| `far behind` | 远远落后 | 27 |
-| `the grid` | 电网 | 30 |
-
-### ⭐⭐ 值得认识
-| 单词/短语 | 含义 | 所在句 |
-| --- | --- | --- |
-| `hybrid public-private` | 公私混合的 | 3 |
-| `echoing our own thoughts` | 与本报观点一致 | 3 |
-| `offerings` | 产品 | 6 |
-| `state-backed` | 政府支持的 | 18 |
-| `well over` | 远超 | 19 |
-| `feeble record` | 表现记录差 | 21 |
-| `risky bets` | 高风险押注 | 21 |
-| `endeavour` | 事业 | 21 |
-| `diffusion` | 扩散（技术传播） | 34 |
-| `buildout` | 大规模建设 | 27 |
-| `fast-track` | 快速通道 | 31 |
-| `bypass` | 绕过 | 31 |
-| `procedural snafus` | 程序性纰漏 | 29 |
-| `lock up capital` | 锁死资本 | 29 |
-| `enticing` | 诱人的 | 33 |
-| `specialism` | 专长 | 38 |
-| `rare earths` | 稀土 | 13 |
-| `protectionism` | 保护主义 | 35 |
-| `doomed` | 注定失败的 | 18 |
-| `rival to` | ……的对手 | 22 |
-| `take to (doing)` | 开始习惯于 | 6 |
-
-### ⭐ 了解即可
-`recipe`（菜谱→配方）、`snafu`（美军俚语缩写）、`Quaero`（历史项目名）、`ASML`（公司名）、`Mythos`/`Sol`（虚构模型名）、`time is short`（四词短句）、`even so`（即便如此）。
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | `frontier models` | 前沿模型（AI 治理核心术语） |
+| 基础 | `access to` | 访问权限/获取渠道 |
+| 基础 | `leverage` / `negotiating leverage` | 筹码/谈判优势 |
+| 基础 | `cut off` | 切断（供应） |
+| 基础 | `credible` | 可信的（威慑/能力） |
+| 基础 | `surpass` | 超越 |
+| 基础 | `unilaterally` | 单方面地 |
+| 基础 | `be modelled on` | 以……为蓝本 |
+| 基础 | `pitch` | 推销（想法） |
+| 基础 | `progress is being made towards` | 在……方面取得进展 |
+| 基础 | `exert control over` | 施加控制 |
+| 基础 | `have no qualms about` | 对……毫无顾忌 |
+| 基础 | `be desperate for` | 极度渴求 |
+| 基础 | `in return for` | 以换取 |
+| 基础 | `lobby against` | 游说反对 |
+| 基础 | `justify` | 证明……合理 |
+| 基础 | `compute` | 算力 |
+| 基础 | `open-weight models` | 开放权重模型 |
+| 基础 | `choke points` | 咽喉要道 |
+| 基础 | `sovereign` | 主权的/自主的 |
+| 基础 | `transactionally` | 交易式地 |
+| 基础 | `be set to` | 即将 |
+| 基础 | `make it easier to` | 使……更容易 |
+| 基础 | `deal with` | 打交道 |
+| 基础 | `far behind` | 远远落后 |
+| 基础 | `the grid` | 电网 |
+| 进阶 | 单词/短语 | 含义 |
+| 进阶 | `hybrid public-private` | 公私混合的 |
+| 进阶 | `echoing our own thoughts` | 与本报观点一致 |
+| 进阶 | `offerings` | 产品 |
+| 进阶 | `state-backed` | 政府支持的 |
+| 进阶 | `well over` | 远超 |
+| 进阶 | `feeble record` | 表现记录差 |
+| 进阶 | `risky bets` | 高风险押注 |
+| 进阶 | `endeavour` | 事业 |
+| 进阶 | `diffusion` | 扩散（技术传播） |
+| 进阶 | `buildout` | 大规模建设 |
+| 进阶 | `fast-track` | 快速通道 |
+| 进阶 | `bypass` | 绕过 |
+| 进阶 | `procedural snafus` | 程序性纰漏 |
+| 进阶 | `lock up capital` | 锁死资本 |
+| 进阶 | `enticing` | 诱人的 |
+| 进阶 | `specialism` | 专长 |
+| 进阶 | `rare earths` | 稀土 |
+| 进阶 | `protectionism` | 保护主义 |
+| 进阶 | `doomed` | 注定失败的 |
+| 进阶 | `rival to` | ……的对手 |
+| 进阶 | `take to (doing)` | 开始习惯于 |
 
 ## 核心表达（可迁移）
 

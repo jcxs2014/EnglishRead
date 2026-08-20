@@ -284,40 +284,33 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                          | 核心义                | 常见搭配                                  | 例句                                                |
-| -------------------------------- | --------------------- | ----------------------------------------- | --------------------------------------------------- |
-| `gained currency`                 | 流行/传播开来         | `the idea gained currency`                 | This view has gained currency in recent years.       |
-| `sartorial sensibilities`         | 服饰政治敏感度        |                                          | His sartorial sensibilities were sharp.             |
-| `Dredging up`                    | 挖掘/翻出旧事         | `dredge up the past`                       | Why dredge up old grievances?                        |
-| `cut against`                     | 与……相抵触           | `cut against the grain`                    | This cuts against the official narrative.           |
-| `looks askance at`               | 侧目而视/怀疑         |                                          | They look askance at foreign ideas.                 |
-| `wade into`                       | 介入/涉足             | `wade into a debate`                       | The official body waded into the discussion.         |
-| `scuppered`                       | 破坏/搁置             | `the plan was scuppered`                   | The project was scuppered by infighting.            |
-| `full-throated`                   | 毫无保留/畅所欲言     | `full-throated support/debate`            | The country needs a full-throated debate.            |
-| `too thin-skinned`               | 过于敏感              |                                          | The party is too thin-skinned for criticism.        |
-| `hold your breath`               | 屏息等待（期望）      | `don't hold your breath`                  | He promised change — but don't hold your breath.     |
-| `interlopers`                     | 闯入者/不速之客       |                                          | They were seen as foreign interlopers.              |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                    |
-| ------------------------------- | --------------------------------------- |
-| `period dress`                   | 古装/时代服装                          |
-| `political undertones`           | 政治内涵                                |
-| `abdicated`                      | 退位                                    |
-| `century of humiliation`         | 百年国耻                                |
-| `subjugation`                    | 征服/屈从                              |
-| `feckless`                       | 无能的/不负责任的                      |
-| `ethnic harmony`                 | 民族和谐                                |
-| `Han chauvinism`                 | 汉族沙文主义                            |
-| `rectification campaign`         | 整肃运动/整风运动                      |
-| `mammoth`                        | 巨大的                                  |
-| `coalesce`                       | 凝聚/合并                              |
-| `cosmopolitan`                   | 世界主义的                              |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | gained currency | 流行/传播开来 |
+| 基础 | sartorial sensibilities | 服饰政治敏感度 |
+| 基础 | Dredging up | 挖掘/翻出旧事 |
+| 基础 | cut against | 与……相抵触 |
+| 基础 | looks askance at | 侧目而视/怀疑 |
+| 基础 | wade into | 介入/涉足 |
+| 基础 | scuppered | 破坏/搁置 |
+| 基础 | full-throated | 毫无保留/畅所欲言 |
+| 基础 | too thin-skinned | 过于敏感 |
+| 基础 | hold your breath | 屏息等待（期望） |
+| 基础 | interlopers | 闯入者/不速之客 |
+| 进阶 | period dress | 古装/时代服装 |
+| 进阶 | political undertones | 政治内涵 |
+| 进阶 | abdicated | 退位 |
+| 进阶 | century of humiliation | 百年国耻 |
+| 进阶 | subjugation | 征服/屈从 |
+| 进阶 | feckless | 无能的/不负责任的 |
+| 进阶 | ethnic harmony | 民族和谐 |
+| 进阶 | Han chauvinism | 汉族沙文主义 |
+| 进阶 | rectification campaign | 整肃运动/整风运动 |
+| 进阶 | mammoth | 巨大的 |
+| 进阶 | coalesce | 凝聚/合并 |
+| 进阶 | cosmopolitan | 世界主义的 |
 
 ## 核心表达（可直接迁移）
 

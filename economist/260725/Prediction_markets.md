@@ -160,45 +160,38 @@
 
 ---
 
-## 词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-| 词/短语                                | 核心义                | 常见搭配                                   | 例句                                                |
-| -------------------------------------- | --------------------- | ------------------------------------------ | --------------------------------------------------- |
-| `"truth machines"`                     | "真理机器"            |                                           | Some call prediction markets truth machines.        |
-| `punters`                              | 赌徒/下注者           | `punters`                                  | Punters can bet on anything.                        |
-| `discern risks and opportunities`      | 辨别风险与机会        | `discern`                                  | Markets help people discern risk.                   |
-| `hedge their exposure to`              | 对冲……敞口          | `hedge against risk`                       | Some trade to hedge their exposure.                 |
-| `a 40-fold year-on-year increase`      | 同比增长 40 倍        | `X-fold increase`                          | Volumes saw a 40-fold year-on-year increase.        |
-| `growing pains`                        | 成长的烦恼            |                                           | Both markets face growing pains.                    |
-| `devised a reliable way`               | 设计出可靠的方式      | `devise a system`                          | Neither has devised a reliable way to settle.       |
-| `a body of rules and precedent`        | 一套规则与先例        | `a body of evidence/law`                   | Bookmakers built a body of rules.                   |
-| `verges on the absurd`                 | 近乎荒谬              | `verge on`                                 | The process verges on the absurd.                   |
-| `loosely worded`                       | 措辞松散的            | `loosely defined`                          | Contracts are loosely worded.                       |
-| `is gameable`                          | 可被操纵              | `game the system`                          | The oracle is gameable.                             |
-| `under the beady eye of`               | 在……严密注视下      |                                           | It operates under the beady eye of regulators.      |
-| `place bets`                           | 下注                  | `place an order`                           | No one involved may place bets.                     |
-| `typo-strewn rulebooks`                | 满是错字的规则手册    | `X-strewn`                                 | They publish typo-strewn rulebooks.                 |
-| `subject-matter experts`               | 领域专家              |                                           | Rules should be set by subject-matter experts.      |
-| `set precedents`                       | 树立先例              | `set a precedent`                          | Decisions should set precedents.                    |
-
-### ⭐⭐ 值得认识
-| 词/短语                         | 说明                                    |
-| ------------------------------- | --------------------------------------- |
-| `celebrity`                     | 名人                                    |
-| `valuation`                     | 估值                                    |
-| `crypto-based`                  | 基于加密货币的                          |
-| `consensus`                     | 共识                                    |
-| `contested`                     | 有争议的                                |
-| `ballot`                        | 投票                                    |
-| `Panama-domiciled`              | 注册在巴拿马的                          |
-| `saner`                         | 更理智的                                |
-| `inconsistent`                  | 不一致的                                |
-| `inauguration`                  | 就职典礼                                |
-| `institutional investors`       | 机构投资者                              |
-| `settle contracts`              | 结算合约                                |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | "truth machines" | "真理机器" |
+| 基础 | punters | 赌徒/下注者 |
+| 基础 | discern risks and opportunities | 辨别风险与机会 |
+| 基础 | hedge their exposure to | 对冲……敞口 |
+| 基础 | a 40-fold year-on-year increase | 同比增长 40 倍 |
+| 基础 | growing pains | 成长的烦恼 |
+| 基础 | devised a reliable way | 设计出可靠的方式 |
+| 基础 | a body of rules and precedent | 一套规则与先例 |
+| 基础 | verges on the absurd | 近乎荒谬 |
+| 基础 | loosely worded | 措辞松散的 |
+| 基础 | is gameable | 可被操纵 |
+| 基础 | under the beady eye of | 在……严密注视下 |
+| 基础 | place bets | 下注 |
+| 基础 | typo-strewn rulebooks | 满是错字的规则手册 |
+| 基础 | subject-matter experts | 领域专家 |
+| 基础 | set precedents | 树立先例 |
+| 进阶 | celebrity | 名人 |
+| 进阶 | valuation | 估值 |
+| 进阶 | crypto-based | 基于加密货币的 |
+| 进阶 | consensus | 共识 |
+| 进阶 | contested | 有争议的 |
+| 进阶 | ballot | 投票 |
+| 进阶 | Panama-domiciled | 注册在巴拿马的 |
+| 进阶 | saner | 更理智的 |
+| 进阶 | inconsistent | 不一致的 |
+| 进阶 | inauguration | 就职典礼 |
+| 进阶 | institutional investors | 机构投资者 |
+| 进阶 | settle contracts | 结算合约 |
 
 ## 核心表达（可直接迁移）
 

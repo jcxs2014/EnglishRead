@@ -563,68 +563,61 @@
 
 ---
 
-## 四、词汇分级
+## 词汇分级
 
-### 高频核心词（写作/口语通用，务必掌握）
-- lead（领先地位）/ edge（优势）/ gap（差距）
-- release / launch（发布）
-- capable / capability（有能力的 / 能力）
-- cost / price / affordable（成本 / 价格 / 负担得起）
-- rival / competition / race（对手 / 竞争 / 竞赛）
-- charge（收费）/ budget（预算）
-- benchmark（基准测试）
-- reliable / reliability（可靠 / 可靠性）
-- open-source（开源的）
-- performance（性能、表现）
-
-### 学术书面词汇（阅读与写作提升）
-- disrupt（颠覆） / unsettling（令人不安的）
-- hinge on（取决于）
-- compelling / timely（引人注目 / 合时宜）
-- grapple with（奋力应对）
-- assess / estimate（评估 / 估算）
-- pessimistic / prospect / outclass（悲观 / 前景 / 远超）
-- metric（指标）
-- consistent（一致的）
-- outperform（表现优于）
-- allegedly / unwittingly（据称 / 无意中）
-- impose / intervention / revocation（施加 / 干预 / 撤销）
-- regulatory（监管的）
-- identify（识别、发现）
-
-### 专业术语（AI 领域）
-- frontier intelligence / frontier AI（前沿智能）
-- weights / parameters（权重 / 参数）
-- tokens / output tokens（token / 输出 token）
-- post-training（后训练）
-- fine-tuning（微调）
-- distillation（蒸馏——用大模型输出训练小模型）
-- computing power（算力）
-- export controls（出口管制）
-- public / private benchmarks（公开 / 私有基准）
-- flagship（旗舰产品）
-- open-ended problems（开放式问题）
-
-### 地道表达 / 习语
-- at its smallest（处于最小值）
-- shed value（市值蒸发）
-- give away free（免费送）
-- the uproar faded（喧嚣平息）
-- rest on sb's say-so（取决于某人一句话）
-- out of one's reach（够不着、不受掌控）
-- shoot back（回击）
-- teach to the test（应试教学）
-- trip up / fall down on（难倒 / 栽跟头）
-- excel in（擅长）
-- make up ground（追赶差距）
-- run out of control（失控）
-- top of mind（首要考虑）
-- end up doing（最终……）
-- be subject to（受制于）
-- powerful enough to（强大到足以）
-- one day after...（在……次日）
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | lead（领先地位）/ | edge（优势）/ gap（差距） |
+| 基础 | release | / launch（发布） |
+| 基础 | capable | 能力） |
+| 基础 | cost | affordable（成本 / 价格 / 负担得起） |
+| 基础 | rival | race（对手 / 竞争 / 竞赛） |
+| 基础 | charge（收费）/ | budget（预算） |
+| 基础 | benchmark | 基准测试 |
+| 基础 | reliable | 可靠性） |
+| 基础 | open-source | 开源的 |
+| 基础 | performance | 性能、表现 |
+| 基础 | disrupt（颠覆） | / unsettling（令人不安的） |
+| 基础 | hinge on | 取决于 |
+| 基础 | compelling | 合时宜） |
+| 基础 | grapple with | 奋力应对 |
+| 基础 | assess | 估算） |
+| 基础 | pessimistic | outclass（悲观 / 前景 / 远超） |
+| 基础 | metric | 指标 |
+| 基础 | consistent | 一致的 |
+| 基础 | outperform | 表现优于 |
+| 基础 | allegedly | 无意中） |
+| 基础 | impose | revocation（施加 / 干预 / 撤销） |
+| 基础 | regulatory | 监管的 |
+| 基础 | identify | 识别、发现 |
+| 高级 | frontier | intelligence / frontier AI（前沿智能） |
+| 高级 | weights | 参数） |
+| 高级 | tokens | 输出 token） |
+| 高级 | post-training | 后训练 |
+| 高级 | fine-tuning | 微调 |
+| 高级 | distillation | 蒸馏——用大模型输出训练小模型 |
+| 高级 | computing power | 算力 |
+| 高级 | export controls | 出口管制 |
+| 高级 | public | 私有基准） |
+| 高级 | flagship | 旗舰产品 |
+| 高级 | open-ended problems | 开放式问题 |
+| 高级 | at its smallest | 处于最小值 |
+| 高级 | shed value | 市值蒸发 |
+| 高级 | give away free | 免费送 |
+| 高级 | the uproar faded | 喧嚣平息 |
+| 高级 | rest on sb's say-so | 取决于某人一句话 |
+| 高级 | out of one's reach | 够不着、不受掌控 |
+| 高级 | shoot back | 回击 |
+| 高级 | teach to the test | 应试教学 |
+| 高级 | trip | up / fall down on（难倒 / 栽跟头） |
+| 高级 | excel in | 擅长 |
+| 高级 | make up ground | 追赶差距 |
+| 高级 | run out of control | 失控 |
+| 高级 | top of mind | 首要考虑 |
+| 高级 | end up doing | 最终…… |
+| 高级 | be subject to | 受制于 |
+| 高级 | powerful enough to | 强大到足以 |
+| 高级 | one day after... | 在……次日 |
 
 ## 五、长难句专项
 

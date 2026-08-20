@@ -1114,156 +1114,142 @@
 
 ---
 
-## 三、词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握
-
-| 词/短语 | 核心义 | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `semiquincentennial` | 二百五十周年 | the semiquincentennial | *Celebrating their semiquincentennial.* |
-| `rebut` | 反驳 | rebut an argument | *All those syllables rebut the gloom.* |
-| `gloom` | 悲观、阴郁 | a mood of gloom | *The founders' gloom.* |
-| `succumbing to` | 屈服于 | succumb to pressure | *Far from succumbing to tyranny.* |
-| `dynamism` | 活力 | economic dynamism | *Glorious disorder created dynamism.* |
-| `sustained ... as` | 维持 | sustain as a superpower | *Sustained America as a superpower.* |
-| `by and large` | 大体上 | by and large | *By and large, it's true.* |
-| `republican virtues` | 共和美德 | civic virtue | *Held out republican virtues.* |
-| `scarred by` | 被留下伤痕 | scarred by division | *Public life is scarred.* |
-| `demolishing` | 拆毁 | demolish the order | *Demolishing the world order.* |
-| `herald` | 预示 | herald a new era | *Herald a renewal.* |
-| `retraced the footsteps` | 重走足迹 | retrace footsteps | *Retraced Tocqueville's footsteps.* |
-| `a trove of` | 宝库 | a trove of insights | *A trove of enduring insights.* |
-| `degenerating into` | 退化为 | degenerate into | *Degenerating into a White House-takes-all.* |
-| `gripped by` | 被攫住 | gripped by partisanship | *Gripped by a vicious partisanship.* |
-| `vicious partisanship` | 恶性党争 | vicious partisanship | *Vicious partisanship.* |
-| `give and take` | 互让 | require give and take | *Laws require give and take.* |
-| `gerrymandering` | 选区划分舞弊 | partisan gerrymandering | *Gerrymandering rewards extremes.* |
-| `struck down` | 推翻裁决 | strike down a law | *The court struck down the scheme.* |
-| `birthright citizenship` | 出生公民权 | birthright citizenship | *Over birthright citizenship.* |
-| `flocking to` | 涌向 | flock to the shores | *People flocking to its shores.* |
-| `a source of vitality` | 活力源泉 | a source of vitality | *A source of vitality.* |
-| `a validation of` | 印证 | a validation of | *A validation of the American dream.* |
-| `unalterable` | 不可改变的 | unalterable fact | *The unalterable fact.* |
-| `accomplish` | 取得成就 | accomplish great things | *What they can accomplish.* |
-| `capacity for hard work` | 吃苦能力 | capacity for | *Capacity for hard work.* |
-| `soured` | 变酸变质 | the dream soured | *The American dream has soured.* |
-| `net migration` | 净移民 | net migration | *Net migration could be zero.* |
-| `sinks towards` | 降到接近 | sink towards | *Sinks towards 50%.* |
-| `forebears` | 祖先 | forebears | *Whose forebears have been.* |
-| `an ugly throwback to` | 丑陋回潮 | a throwback to | *An ugly throwback to racism.* |
-| `retreating from` | 退却 | retreat from values | *Retreating from its values.* |
-| `despotism` | 专制 | safe from despotism | *Safe from despotism.* |
-| `feel contempt for` | 蔑视 | feel contempt for | *Feel contempt for the system.* |
-| `misguidedly` | 错误地 | misguidedly blamed | *Misguidedly, in our view.* |
-| `spill their blood` | 流血牺牲 | spill blood | *Soldiers spilling their blood.* |
-| `throwing its weight around` | 仗势欺人 | throw weight around | *Throwing its weight around.* |
-| `off the agenda` | 不在议程 | on/off the agenda | *Off the agenda.* |
-| `extracting concessions` | 榨取让步 | extract concessions | *A tool for extracting concessions.* |
-| `dependants` | 附庸、被抚养者 | economic dependants | *Allies seen as dependants.* |
-| `in decline` | 在衰落中 | be in decline | *America is in decline.* |
-| `strikes ... as` | 给……印象 | strike sb as | *Strikes us as a misreading.* |
-| `a grave misreading` | 严重误读 | a misreading of | *A grave misreading.* |
-| `immense` | 巨大的 | immense power | *Immense power.* |
-| `beyond all recognition` | 面目全非 | change beyond recognition | *Grow beyond all recognition.* |
-| `unabated` | 未减的 | unabated dynamism | *Unabated growth.* |
-| `dysfunctional` | 失灵的 | dysfunctional politics | *Dysfunctional politics.* |
-| `mobilised` | 调动 | mobilise resources | *Mobilised hundreds of billions.* |
-| `utterly dominant` | 彻底主导 | utterly dominant | *Utterly dominant.* |
-| `is bound to` | 必然 | be bound to | *Bound to rub off.* |
-| `rub off on` | 惠及沾染 | rub off on | *Rubbed off on businesses.* |
-| `formidable` | 强大的 | formidable force | *Formidable armed forces.* |
-| `antagonised` | 被惹恼 | antagonise allies | *Antagonised by Trump.* |
-| `a bleak choice` | 严峻选择 | a bleak choice | *A bleak choice.* |
-| `submitting to` | 屈服于 | submit to | *Submitting to America.* |
-| `siding with` | 站在……一边 | side with | *Siding with China.* |
-| `authoritarian` | 威权的 | authoritarian China | *Authoritarian regimes.* |
-| `amasses` | 积聚 | amass wealth | *Amassing awesome power.* |
-| `awesome power` | 惊人力量 | awesome | *Awesome power.* |
-| `tainted` | 污染玷污 | tainted by scandal | *Tainted public life.* |
-| `cynicism` | 犬儒主义 | public cynicism | *Ugly cynicism.* |
-| `overwhelming` | 压倒性的 | overwhelming power | *Overwhelming power.* |
-| `foster` | 催生 | foster inequality | *Foster a predatory elite.* |
-| `predatory` | 掠夺性的 | predatory elite | *A predatory elite.* |
-| `fanned by` | 被煽动 | fanned by | *Fanned by social media.* |
-| `zealots` | 狂热分子 | political zealots | *Primaries dominated by zealots.* |
-| `entrenched` | 根深蒂固的 | entrenched positions | *Further entrenched.* |
-| `upheaval` | 剧变 | social upheaval | *The upheaval that lies ahead.* |
-| `lies ahead` | 在前方 | what lies ahead | *The upheaval that lies ahead.* |
-| `predatory` | 掠夺性 | predatory behavior | *More predatory abroad.* |
-| `emboldened` | 被壮胆 | emboldened by | *Feel emboldened to conquer.* |
-| `coerce` | 胁迫 | coerce | *Conquer or coerce.* |
-| `descend into chaos` | 陷入混乱 | descend into | *Descend into chaos.* |
-| `attest` | 作证 | attest to | *As the founders would attest.* |
-| `corollary` | 必然推论 | a corollary of | *The corollary of dynamism.* |
-| `reinvention` | 自我重塑 | the capacity for reinvention | *Capacity for reinvention.* |
-| `spurred ... to` | 激励 | spur sb to act | *Spurred it to recover.* |
-| `charge ahead` | 冲锋前进 | charge ahead | *Recover and charge ahead.* |
-| `roused` | 被唤醒 | roused to action | *Roused, Americans...* |
-| `set about` | 着手 | set about doing | *Set about making sure.* |
-| `one way or another` | 无论如何 | one way or another | *One way or another.* |
-| `unsustainable` | 不可持续的 | unsustainable debt | *Fiscally unsustainable.* |
-| `the social contract` | 社会契约 | the social contract | *The social contract.* |
-| `sterile` | 贫瘠无成果 | sterile arguments | *Sterile mutual contempt.* |
-| `mutual contempt` | 相互轻蔑 | mutual contempt | *Sterile mutual contempt.* |
-| `light up` | 照亮 | light up the sky | *Fireworks light up cities.* |
-| `restlessness` | 躁动不安 | the restlessness of youth | *Restlessness prevents stagnation.* |
-| `sinking into stagnation` | 沉入停滞 | sink into stagnation | *Sinking into stagnation.* |
-| `precondition for` | 前提 | a precondition for | *A precondition for renewal.* |
-| `creative destruction` | 创造性破坏 | creative destruction | *The creative destruction.* |
-| `precedes` | 先于 | precede | *That precedes renewal.* |
-| `time and again` | 一次次 | time and again | *Time and again.* |
-| `richly rewarded` | 丰厚回报 | richly rewarded | *That faith has been rewarded.* |
-
-### ⭐⭐ 值得认识
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `xenophobia` | 仇外情绪 | Slavery and xenophobia |
-| `robber barons` | 强盗大亨 | corruption and robber barons |
-| `jostled` | 推挤 | jostled the republic |
-| `beacon` | 灯塔 | the beacon of the free world |
-| `tyranny` | 暴政 | collapse into tyranny |
-| `tyrants` | 暴君 | saved the world from tyrants |
-| `partisanship` | 党派之争 | vicious partisanship |
-| `might` | 权势 | the might of the executive |
-| `sack` | 解雇 | sack officials |
-| `furnished` | 提供素材 | furnished the material |
-| `enduring` | 恒久的 | enduring insights |
-| `echo` | 回应重演 | echo the founders' fears |
-| `melt-pools` | 融水池 | （无此词） |
-| `struck down` | 推翻 | struck down one scheme |
-| `vitality` | 活力 | a source of vitality |
-| `validation` | 印证 | a validation of |
-| `concluded` | 得出结论 | conclude that |
-| `dysfunction` | 失灵 | dysfunctional politics |
-| `stack` | 栈 | America's AI stack |
-| `utmost` | 极度 | （无此词） |
-| `antedates` | 早于 | （无此词） |
-| `renewal` | 新生 | herald a renewal |
-| `renewal` | 新生 | the nation's renewal |
-| `stagnation` | 停滞 | sinking into stagnation |
-| `precondition` | 前提 | a precondition |
-| `insight` | 洞见 | revolutionary insight |
-| `rewarded` | 回报 | richly rewarded |
-| `faith` | 信念 | that faith |
-
-### ⭐ 了解即可
-
-| 词/短语 | 核心义 | 语境 |
-| --- | --- | --- |
-| `Tocqueville` | 托克维尔 | retraced Tocqueville's footsteps |
-| `Democracy in America` | 《论美国的民主》 | material for "Democracy in America" |
-| `aristocrat` | 贵族 | a French aristocrat |
-| `MAGA` | 让美国再次伟大 | the MAGA movement |
-| `heritage Americans` | 血统美国人 | "heritage Americans" |
-| `Pearl Harbour` | 珍珠港 | Pearl Harbour, Sputnik, Watergate |
-| `Sputnik` | 斯普特尼克 | Sputnik |
-| `Watergate` | 水门事件 | Watergate |
-| `Schumpeter` | 熊彼特 | creative destruction |
-| `wrecking-ball` | 拆楼球 | Wrecking-ball revolution |
-| `semiquincentennial` | 二百五十周年 | their semiquincentennial |
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | semiquincentennial | 二百五十周年 |
+| 基础 | rebut | 反驳 |
+| 基础 | gloom | 悲观、阴郁 |
+| 基础 | succumbing to | 屈服于 |
+| 基础 | dynamism | 活力 |
+| 基础 | sustained ... as | 维持 |
+| 基础 | by and large | 大体上 |
+| 基础 | republican virtues | 共和美德 |
+| 基础 | scarred by | 被留下伤痕 |
+| 基础 | demolishing | 拆毁 |
+| 基础 | herald | 预示 |
+| 基础 | retraced the footsteps | 重走足迹 |
+| 基础 | a trove of | 宝库 |
+| 基础 | degenerating into | 退化为 |
+| 基础 | gripped by | 被攫住 |
+| 基础 | vicious partisanship | 恶性党争 |
+| 基础 | give and take | 互让 |
+| 基础 | gerrymandering | 选区划分舞弊 |
+| 基础 | struck down | 推翻裁决 |
+| 基础 | birthright citizenship | 出生公民权 |
+| 基础 | flocking to | 涌向 |
+| 基础 | a source of vitality | 活力源泉 |
+| 基础 | a validation of | 印证 |
+| 基础 | unalterable | 不可改变的 |
+| 基础 | accomplish | 取得成就 |
+| 基础 | capacity for hard work | 吃苦能力 |
+| 基础 | soured | 变酸变质 |
+| 基础 | net migration | 净移民 |
+| 基础 | sinks towards | 降到接近 |
+| 基础 | forebears | 祖先 |
+| 基础 | an ugly throwback to | 丑陋回潮 |
+| 基础 | retreating from | 退却 |
+| 基础 | despotism | 专制 |
+| 基础 | feel contempt for | 蔑视 |
+| 基础 | misguidedly | 错误地 |
+| 基础 | spill their blood | 流血牺牲 |
+| 基础 | throwing its weight around | 仗势欺人 |
+| 基础 | off the agenda | 不在议程 |
+| 基础 | extracting concessions | 榨取让步 |
+| 基础 | dependants | 附庸、被抚养者 |
+| 基础 | in decline | 在衰落中 |
+| 基础 | strikes ... as | 给……印象 |
+| 基础 | a grave misreading | 严重误读 |
+| 基础 | immense | 巨大的 |
+| 基础 | beyond all recognition | 面目全非 |
+| 基础 | unabated | 未减的 |
+| 基础 | dysfunctional | 失灵的 |
+| 基础 | mobilised | 调动 |
+| 基础 | utterly dominant | 彻底主导 |
+| 基础 | is bound to | 必然 |
+| 基础 | rub off on | 惠及沾染 |
+| 基础 | formidable | 强大的 |
+| 基础 | antagonised | 被惹恼 |
+| 基础 | a bleak choice | 严峻选择 |
+| 基础 | submitting to | 屈服于 |
+| 基础 | siding with | 站在……一边 |
+| 基础 | authoritarian | 威权的 |
+| 基础 | amasses | 积聚 |
+| 基础 | awesome power | 惊人力量 |
+| 基础 | tainted | 污染玷污 |
+| 基础 | cynicism | 犬儒主义 |
+| 基础 | overwhelming | 压倒性的 |
+| 基础 | foster | 催生 |
+| 基础 | predatory | 掠夺性的 |
+| 基础 | fanned by | 被煽动 |
+| 基础 | zealots | 狂热分子 |
+| 基础 | entrenched | 根深蒂固的 |
+| 基础 | upheaval | 剧变 |
+| 基础 | lies ahead | 在前方 |
+| 基础 | predatory | 掠夺性 |
+| 基础 | emboldened | 被壮胆 |
+| 基础 | coerce | 胁迫 |
+| 基础 | descend into chaos | 陷入混乱 |
+| 基础 | attest | 作证 |
+| 基础 | corollary | 必然推论 |
+| 基础 | reinvention | 自我重塑 |
+| 基础 | spurred ... to | 激励 |
+| 基础 | charge ahead | 冲锋前进 |
+| 基础 | roused | 被唤醒 |
+| 基础 | set about | 着手 |
+| 基础 | one way or another | 无论如何 |
+| 基础 | unsustainable | 不可持续的 |
+| 基础 | the social contract | 社会契约 |
+| 基础 | sterile | 贫瘠无成果 |
+| 基础 | mutual contempt | 相互轻蔑 |
+| 基础 | light up | 照亮 |
+| 基础 | restlessness | 躁动不安 |
+| 基础 | sinking into stagnation | 沉入停滞 |
+| 基础 | precondition for | 前提 |
+| 基础 | creative destruction | 创造性破坏 |
+| 基础 | precedes | 先于 |
+| 基础 | time and again | 一次次 |
+| 基础 | richly rewarded | 丰厚回报 |
+| 进阶 | xenophobia | 仇外情绪 |
+| 进阶 | robber barons | 强盗大亨 |
+| 进阶 | jostled | 推挤 |
+| 进阶 | beacon | 灯塔 |
+| 进阶 | tyranny | 暴政 |
+| 进阶 | tyrants | 暴君 |
+| 进阶 | partisanship | 党派之争 |
+| 进阶 | might | 权势 |
+| 进阶 | sack | 解雇 |
+| 进阶 | furnished | 提供素材 |
+| 进阶 | enduring | 恒久的 |
+| 进阶 | echo | 回应重演 |
+| 进阶 | melt-pools | 融水池 |
+| 进阶 | struck down | 推翻 |
+| 进阶 | vitality | 活力 |
+| 进阶 | validation | 印证 |
+| 进阶 | concluded | 得出结论 |
+| 进阶 | dysfunction | 失灵 |
+| 进阶 | stack | 栈 |
+| 进阶 | utmost | 极度 |
+| 进阶 | antedates | 早于 |
+| 进阶 | renewal | 新生 |
+| 进阶 | renewal | 新生 |
+| 进阶 | stagnation | 停滞 |
+| 进阶 | precondition | 前提 |
+| 进阶 | insight | 洞见 |
+| 进阶 | rewarded | 回报 |
+| 进阶 | faith | 信念 |
+| 高级 | Tocqueville | 托克维尔 |
+| 高级 | Democracy in America | 《论美国的民主》 |
+| 高级 | aristocrat | 贵族 |
+| 高级 | MAGA | 让美国再次伟大 |
+| 高级 | heritage Americans | 血统美国人 |
+| 高级 | Pearl Harbour | 珍珠港 |
+| 高级 | Sputnik | 斯普特尼克 |
+| 高级 | Watergate | 水门事件 |
+| 高级 | Schumpeter | 熊彼特 |
+| 高级 | wrecking-ball | 拆楼球 |
+| 高级 | semiquincentennial | 二百五十周年 |
 
 ## 四、长难句专项
 
@@ -1320,93 +1306,3 @@
 ---
 
 ## 五、精读结束总结
-
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by and large、scarred by、demolishing、herald、retraced、trove of、degenerating into、gripped by、vicious partisanship、give and take、gerrymandering、struck down、birthright citizenship、flocking to、source of vitality、validation of、unalterable、accomplish、capacity for、soured、net migration、sinks towards、forebears、throwback、retreating from、despotism、contempt for、misguidedly、spill blood、throwing weight around、off the agenda、extracting concessions、dependants、in decline、strikes as、grave misreading、immense、beyond all recognition、unabated、dysfunctional、mobilised、utterly dominant、bound to、rub off on、formidable、antagonised、bleak choice、submitting to、siding with、authoritarian、amasses、awesome、tainted、cynicism、overwhelming、foster、predatory、fanned by、zealots、entrenched、upheaval、lies ahead、emboldened、coerce、descend into chaos、attest、corollary、reinvention、spurred、charge ahead、roused、set about、one way or another、unsustainable、social contract、sterile、mutual contempt、light up、restlessness、sinking into stagnation、precondition、creative destruction、precedes、time and again、richly rewarded
-
-### 2. 本文核心表达
-
-1. `Glorious disorder created a dynamism` — 光荣的混乱创造了活力（核心命题）
-2. `All those syllables rebut the founders' gloom` — 那么多音节反驳了建国者的悲观
-3. `Far from succumbing to tyranny, America saved the world` — 非但未屈服于暴政反而拯救世界
-4. `held out republican virtues as the salvation` — 标举共和美德为救赎
-5. `talk of decline is in the air` — 衰落之谈弥漫空中
-6. `America is demolishing the world order that it created` — 美国在拆毁自己建立的秩序
-7. `a White House-takes-all world` — 白宫通吃的世界（仿 winner-takes-all）
-8. `"we" are right and "they" are bad` — "我们"对"他们"坏（引号反讽）
-9. `the parties punish compromise and gerrymandering rewards extreme views` — 党惩罚妥协、选区奖励极端
-10. `people of any race or faith can become American` — 任何种族信仰都能成为美国人
-11. `The American dream has soured` — 美国梦已变味
-12. `an ugly throwback to the racism` — 向种族主义的丑陋回潮
-13. `a Wrecking-ball revolution` — 拆毁球革命
-14. `throwing its weight around` — 仗势欺人
-15. `Trade used to be mutual benefit; now it extracts concessions` — 贸易从互利变榨取
-16. `That strikes this newspaper as a grave misreading` — 本报认为是严重误读
-17. `grow beyond all recognition` — 增长到面目全非
-18. `rub off on America's businesses` — 惠及美国商业
-19. `face a bleak choice between submitting to America or siding with China` — 在屈服美国与投靠中国间做惨淡选择
-20. `the great experiment could go disastrously wrong` — 伟大的实验可能灾难性出错
-21. `The social contract ... is fiscally unsustainable` — 社会契约财政上不可持续
-22. `Mr Trump's generation is biologically unsustainable` — 特朗普一代生物学上不可持续（冷幽默）
-23. `restlessness is precisely what prevents the republic from sinking into stagnation` — 躁动正是防止共和国停滞的力量
-24. `a precondition for the creative destruction that precedes the nation's renewal` — 国家新生前创造性破坏的前提
-25. `build their great experiment on the wisdom of the people` — 把伟大实验建立在人民智慧之上
-
-### 3. 重要语法
-
-- **倒装句**：`Such has been the dance`（such 前置倒装）
-- **It was not until ... that**：`It was not until midnight that...`（本段无此结构，但注意 not...until）
-- **破折号插入编辑部评论**：`—misguidedly, in the view of The Economist—`
-- **嵌套从句**：that 同位语 + what 主语从句嵌套；that 表语 + that 宾语从句嵌套
-- **同位语链**：a French aristocrat → whose 从句 → a trove 同位语
-- **not...but... 对比**：`It was not a towering monster, but a table of snow`
-- **Far from X, ... Y**：`Far from succumbing to tyranny, America saved the world`
-- **分号时间对比**：`Trade used to be...; it has become...`
-- **并列省略**：`Ice returned to water, water to the ocean`
-- **祈使句向读者下令**：`look outside its dysfunctional politics`、`remember that...`
-- **反事实假设**：`Imagine that its abandonment of the project is permanent`
-- **让步句**：`however much they have been antagonised`、`huge as they were`（倒装让步）
-- **被动语态表强调**：`that faith has been richly rewarded`
-
-### 4. 长难句
-
-- 原句 4：三组并列主语 + even as 从句
-- 原句 15：多重同位语链
-- 原句 33：that 定语从句 + 破折号插入 + for 三并列
-- 原句 25：that 同位语 + what 主语从句嵌套
-- 原句 64：that 表语从句 + 从句内 that 宾语从句
-
-### 5. 写作技巧
-
-1. **"矛盾修辞"立论**：`Glorious disorder`（光荣的混乱）——把贬义词与褒义词组合，用一句话提出核心命题（混乱=活力）。这种"自相矛盾"的短语极易记忆，是社论的点睛之笔
-2. **首尾呼应**：第 1 段"the founders feared"与第 17 段"the founders would be worried today"呼应；副标题 restlessness 与第 16 段 restlessness 呼应；experiment（第 1 段）在第 12 段 the great experiment 再现——结构闭环
-3. **"答辩式"论证结构**：先承认焦虑（第 3-9 段），再反驳衰落论（第 10-11 段），再承认风险（第 12-13 段），再给出希望（第 14-17 段）——层层让步的辩证结构，比一味乐观更有说服力
-4. **数据支撑**：net migration could be zero、share sinks towards 50%、hundreds of billions、1945、1830s、1950（semiquincentennial 250）——用具体数字让论点落地
-5. **历史与哲学名词的化用**：托克维尔、《论美国的民主》、珍珠港/斯普特尼克/水门、熊彼特"创造性破坏"——用经典概念为当下论证背书
-6. **语气多样**：从庄重（semiquincentennial 庆典）到冷幽默（biologically unsustainable）到警句（restlessness prevents stagnation）——社论不只有一种声音
-7. **对仗排比**：`Slavery and xenophobia, corruption and robber barons, civil war and world war`、`fiscally / biologically / politically unsustainable`、`do better and be better`——三连排比增强节奏
-8. **"宣言式"收尾**：以 faith、rewarded 结尾——把政治评论升华为信仰宣言，给读者以希望
-
-### 6. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `Far from X, ... Y` | 反转论证 | Far from failing, the plan succeeded. |
-| `strikes me as` | 表达看法 | It strikes me as a risky move. |
-| `by and large` | 总体判断 | By and large, the results are good. |
-| `comes with temptations` | 权力风险 | Power comes with temptations. |
-| `is in the air` | 氛围弥漫 | Change is in the air. |
-| `degenerate into` | 恶化 | The debate degenerated into insults. |
-| `gripped by` | 被裹挟 | Gripped by fear, he froze. |
-| `give and take` | 相互妥协 | Negotiations need give and take. |
-| `took its time` | 从容 | She took her time answering. |
-| `throwing weight around` | 仗势 | The big firm throws its weight around. |
-| `off the agenda` | 取消议程 | The issue is off the agenda. |
-| `rub off on` | 相互影响 | Her calm rubbed off on the team. |
-| `one way or another` | 无论如何 | One way or another, we'll finish. |
-| `time and again` | 反复 | Time and again, the data confirms it. |
-| `sink into` | 陷入 | Sink into complacency. |
-| `a precondition for` | 前提条件 | Trust is a precondition for teamwork. |
-| `build X on Y` | 建立基础 | Build the strategy on evidence. |
-| `richly rewarded` | 有回报 | Patience was richly rewarded. |

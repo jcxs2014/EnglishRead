@@ -359,60 +359,50 @@
 
 **段落逻辑：** 改革前景渺茫 → 只要严控+有利可图敲诈必兴旺 → 受害者付钱/敲诈者收钱（对称收束）。全文完成。---
 
-## 二、词汇学习
+## 词汇分级
 
-### ⭐⭐⭐ 高频核心词（重点掌握）
-
-| 词汇 | 词性 | 含义 | 文中出处 |
-|------|------|------|----------|
-| director | n. | 董事 | 原句 1 |
-| demanded | v. | 索要 | 原句 2 |
-| refused | v. | 拒绝 | 原句 3 |
-| isolated case | n. | 孤立事件 | 原句 5 |
-| self-media operators | n. | 自媒体运营者 | 原句 6 |
-| bad publicity | n. | 负面曝光 | 原句 6 |
-| extract money | 短语 | 勒索钱财 | 原句 6 |
-| extortion | n. | 敲诈 | 原句 7 |
-| flourishes | v. | 繁盛 | 原句 8 |
-| barely regulated | 短语 | 几乎不受监管 | 原句 8 |
-| attention economy | n. | 注意力经济 | 原句 9 |
-| credible | adj. | 可信的 | 原句 9 |
-| go viral | 短语 | 病毒式传播 | 原句 10 |
-| devastating | v. | 摧毁 | 原句 10 |
-| public-relations teams | n. | 公关团队 | 原句 11 |
-| calculate that | 短语 | 盘算着 | 原句 11 |
-| draw attention to | 短语 | 引注意 | 原句 13 |
-| dragged through the mud | 短语 | 被抹黑 | 原句 14 |
-| low-risk | adj. | 低风险 | 原句 15 |
-| perpetrators | n. | 作恶者 | 原句 15 |
-| regulatory environment | n. | 监管环境 | 原句 16 |
-| licensed | adj. | 获许可的 | 原句 17 |
-| irony | n. | 讽刺 | 原句 18 |
-| tolerate | v. | 容忍 | 原句 18 |
-| crackdown on | 短语 | 打压 | 原句 19 |
-| lucrative | adj. | 有利可图的 | 原句 21 |
-
-### ⭐⭐ 常用表达（能认会用）
-
-- received a phone call he did not expect — 接到意想不到的电话
-- demand 30,000 yuan to "not publish" — 索 3 万买不发表
-- hundreds of thousands of views — 数十万浏览量
-- use the threat of bad publicity to extract money — 用曝光威胁勒索钱财
-- flourish in the gap between A and B — 在 A 与 B 的缝隙中繁盛
-- the economics of the attention economy — 注意力经济的逻辑
-- paying is cheaper than fighting — 付钱比抗争划算
-- under pressure to attract investment — 迫于招商引资压力
-- two sides of the same coin — 同一枚硬币的两面
-- find a way to thrive — 找到兴旺之道
-
-### ⭐ 扩展词汇（了解即可）
-
-- allegation — 指控
-- independent journalism — 独立新闻业
-- media outlets — 媒体机构
-- critical journalists — 批评性记者
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | n. | 董事 |
+| 基础 | v. | 索要 |
+| 基础 | v. | 拒绝 |
+| 基础 | n. | 孤立事件 |
+| 基础 | n. | 自媒体运营者 |
+| 基础 | n. | 负面曝光 |
+| 基础 | 短语 | 勒索钱财 |
+| 基础 | n. | 敲诈 |
+| 基础 | v. | 繁盛 |
+| 基础 | 短语 | 几乎不受监管 |
+| 基础 | n. | 注意力经济 |
+| 基础 | adj. | 可信的 |
+| 基础 | 短语 | 病毒式传播 |
+| 基础 | v. | 摧毁 |
+| 基础 | n. | 公关团队 |
+| 基础 | 短语 | 盘算着 |
+| 基础 | 短语 | 引注意 |
+| 基础 | 短语 | 被抹黑 |
+| 基础 | adj. | 低风险 |
+| 基础 | n. | 作恶者 |
+| 基础 | n. | 监管环境 |
+| 基础 | adj. | 获许可的 |
+| 基础 | n. | 讽刺 |
+| 基础 | v. | 容忍 |
+| 基础 | 短语 | 打压 |
+| 基础 | adj. | 有利可图的 |
+| 进阶 | received | a phone call he did not expect — 接到意想不到的电话 |
+| 进阶 | demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |
+| 进阶 | hundreds | of thousands of views — 数十万浏览量 |
+| 进阶 | use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |
+| 进阶 | flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |
+| 进阶 | the | economics of the attention economy — 注意力经济的逻辑 |
+| 进阶 | paying | is cheaper than fighting — 付钱比抗争划算 |
+| 进阶 | under | pressure to attract investment — 迫于招商引资压力 |
+| 进阶 | two | sides of the same coin — 同一枚硬币的两面 |
+| 进阶 | find | a way to thrive — 找到兴旺之道 |
+| 进阶 | allegation | — 指控 |
+| 进阶 | independent | journalism — 独立新闻业 |
+| 进阶 | media | outlets — 媒体机构 |
+| 进阶 | critical | journalists — 批评性记者 |
 
 ## 三、长难句专项
 
@@ -479,44 +469,3 @@
 ---
 
 ## 四、精读结束总结
-
-### 核心词汇
-
-本文是"社会问题调查"文本，词汇集中在：**敲诈与勒索**（extortion, extract money, demanded, perpetrators）；**传播与曝光**（bad publicity, go viral, draw attention, devastated）；**监管与控制**（media controls, regulatory environment, licensed, crackdown）；**权衡与算计**（calculate, paying is cheaper than fighting, lucrative, tolerate）。这组词是分析"制度漏洞下灰色产业"的工具包。
-
-### 表达方式
-
-1. **悬念开场**：received a phone call he did not expect——用悬念带出案例。
-2. **案例-机制-土壤结构**：个案 → 普遍机制 → 流量经济 → 监管矛盾——由具体到抽象。
-3. **命名句式**：The practice has a name: "news extortion"——给现象命名。
-4. **金句式概括**：two sides of the same coin——用俗谚收束分析。
-5. **对称收尾**：The victims will keep paying, and the extortionists will keep collecting——对称句式冷峻定格。
-6. **讽刺笔法**：The irony is that ...——点出制度悖论。
-
-### 语法要点
-
-- **省略 that 定语从句**：a phone call he did not expect。
-- **并列谓语**：said he was a journalist, and demanded 30,000 yuan。
-- **分词插入**：A critical article, written in the right tone, can go viral。
-- **where 定语从句**：a system where extortion is low-risk。
-- **As long as 条件句**：As long as the media remain controlled。
-- **过去分词作宾补**：see a company's name dragged through the mud。
-
-### 长难句
-
-最值得模仿的是"between A and B 缝隙"（原句 8）与"As long as 条件句"（原句 21）——前者适合概括制度背景，后者适合陈述结构性必然。
-
-### 写作技巧
-
-- **案例开场**：用一个具体受害者的故事开头，比抽象论述更有力。
-- **多因素归因**：机制/流量/监管——敲诈不是单一原因，而是系统产物。
-- **受害者视角**：为什么不敢报警——从两难解释沉默。
-- **制度悖论**：严控媒体反而让敲诈无监督——讽刺是调查报道的锐器。
-
-### 可迁移表达
-
-- "X is not an isolated case" — 用于"从个案到普遍"。
-- "The practice has a name: ..." — 用于"给现象命名"。
-- "A and B are two sides of the same coin" — 用于"一体两面"。
-- "There is little prospect of reform" — 用于"改革前景渺茫"。
-- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。

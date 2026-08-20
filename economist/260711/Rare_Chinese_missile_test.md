@@ -529,58 +529,28 @@
 
 ---
 
-## 词汇学习（分级）
+## 词汇分级
 
-### ⭐⭐⭐ 强烈推荐掌握（主动使用）
-
-| 单词/短语 | core meaning | 常见搭配 | 例句 |
-| --- | --- | --- | --- |
-| `opaque` | 不透明的；讳莫如深的 | be opaque about sth | The company has been opaque about its finances. 公司对财务状况讳莫如深。 |
-| `unnerve` | 使心里发慌、失去底气 | X unnerves sb | The sudden silence unnerved her. 突然的寂静让她心里发毛。 |
-| `poised to do` | 蓄势待发 | be poised to do / poised for | The company is poised to launch its new product. 公司蓄势待发，准备发布新品。 |
-| `credible` | 可信的、靠得住的 | a credible threat / deterrent | He made a credible case for reform. 他为改革提出了可信的理由。 |
-| `capacity` | 能力；容量 | capacity to do / capacity for | She has the capacity to lead. 她具备领导能力。 |
-| `validate` | 验证、确认有效 | validate data / a theory | The experiment validated the hypothesis. 实验验证了假设。 |
-| `escalate` | 升级、加剧 | escalate into / escalation | The dispute escalated into a full-scale war. 争端升级为全面战争。 |
-| `deterrent` | 威慑力量 | nuclear deterrent / act as a deterrent | The threat of punishment acts as a deterrent. 惩罚威胁起威慑作用。 |
-| `constrain` | 约束、限制 | be constrained by / constrain growth | Budget cuts constrained the project. 预算削减限制了项目。 |
-| `suspend` | 暂停（可恢复） | suspend talks / suspend a licence | Talks were suspended indefinitely. 谈判无限期暂停。 |
-| `arsenal` | 武库；储备 | nuclear arsenal / an arsenal of | The team has an arsenal of attacking weapons. 该队进攻武器储备充足。 |
-| `voice`（动词） | 表达（意见） | voice concern / voice opposition | Residents voiced concern about the plan. 居民对该计划表示担忧。 |
-| `urge` | 敦促 | urge sb to do / urge that | The UN urged both sides to show restraint. 联合国敦促双方保持克制。 |
-| `commit to` | 承诺、致力于 | commit to sth / commit to doing | They committed to reducing emissions. 他们承诺减排。 |
-| `on the eve of` | 在……前夕 | on the eve of the election | On the eve of the summit, tensions rose. 峰会前夕，紧张加剧。 |
-| `in the midst of` | 在……之中 | in the midst of a crisis | We are in the midst of a major change. 我们正处于重大变革之中。 |
-| `given`（介词） | 鉴于 | given + NP / given that | Given the weather, the match was postponed. 鉴于天气，比赛延期。 |
-| `heighten` | 加剧、提高 | heighten fears / tension / awareness | The report heightened public concern. 该报告加剧了公众担忧。 |
-| `of great concern` | 令人严重关切 | be of great concern to sb | The issue is of great concern to investors. 该问题令投资者严重关切。 |
-| `describe sth as` | 把……描述为 | describe sb/sth as + adj/n | He described the move as risky. 他称此举有风险。 |
-
-### ⭐⭐ 值得认识（阅读常见）
-
-- `secrecy` 保密 / `estimate` 估计 / `confirm` 证实 / `patrol` 巡逻
-- `vessel` 舰船 / `dummy` 模拟的、假的 / `warhead` 弹头
-- `intercontinental` 洲际的 / `long-range` 远程的 / `air-launched` 空射的
-- `modernise` 现代化 / `build-up` 集结扩充 / `operational` 现役可用的
-- `the low 600s` 600 出头 / `compared with` 相比
-- `in preparation for` 为……做准备 / `confrontation` 对抗
-- `splash down` 溅落 / `range` 射程 / `the former/the latter` 前者/后者
-- `mainland` 本土 / `coastal waters` 近海水域 / `on display` 展出
-- `military parade` 阅兵式 / `joint` 联合的 / `notification` 通报
-- `do so` 替代动词 / `permanent members` 常任理事国
-- `State Department` 国务院 / `foreign minister` 外长 / `in protest over` 因抗议
-- `destabilising` 破坏稳定的 / `intention` 意图
-
-### ⭐ 了解即可（背景知识类）
-
-- `boomer`（此处）美国海军俚语：弹道导弹核潜艇
-- `triad`（军事义）陆海空三位一体核力量
-- `jl-2 / jl-3` 巨浪-2 / 巨浪-3（中国海基洲际导弹）
-- `continental United States` 美国本土 / `mid-Pacific` 太平洋中部
-- `foe` 敌人（古雅变体）
-- `NATO` 北约 / `SSBN` 弹道导弹核潜艇
-
----
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 进阶 | secrecy | 保密 / estimate 估计 / confirm 证实 / patrol 巡逻 |
+| 进阶 | vessel | 舰船 / dummy 模拟的、假的 / warhead 弹头 |
+| 进阶 | intercontinental | 洲际的 / long-range 远程的 / air-launched 空射的 |
+| 进阶 | modernise | 现代化 / build-up 集结扩充 / operational 现役可用的 |
+| 进阶 | the low 600s | 600 出头 / compared with 相比 |
+| 进阶 | in preparation for | 为……做准备 / confrontation 对抗 |
+| 进阶 | splash down | 溅落 / range 射程 / the former/the latter 前者/后者 |
+| 进阶 | mainland | 本土 / coastal waters 近海水域 / on display 展出 |
+| 进阶 | military parade | 阅兵式 / joint 联合的 / notification 通报 |
+| 进阶 | do so | 替代动词 / `permanent members` 常任理事国 |
+| 进阶 | State Department | 国务院 / foreign minister 外长 / in protest over 因抗议 |
+| 进阶 | destabilising | 破坏稳定的 / intention 意图 |
+| 高级 | boomer | （此处）美国海军俚语：弹道导弹核潜艇 |
+| 高级 | triad | （军事义）陆海空三位一体核力量 |
+| 高级 | jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |
+| 高级 | continental United States | 美国本土 / mid-Pacific 太平洋中部 |
+| 高级 | foe | 敌人（古雅变体） |
+| 高级 | NATO | 北约 / SSBN 弹道导弹核潜艇 |
 
 ## 长难句专项（按精读顺序编号）
 
@@ -627,76 +597,3 @@
 ---
 
 ## 精读结束总结
-
-### 1. 本文核心词汇（最值得掌握）
-
-opaque、unnerve、poised to、credible、capacity、validate、escalate、deterrent、constrain、suspend、arsenal、voice（动词）、urge、commit to、on the eve of、in the midst of、given、heighten、of great concern、describe sth as
-
-### 2. 本文核心表达（最值得记忆）
-
-- `be essential to` / `be opaque about` — 描述"重要性"与"不透明"
-- `be poised to do` — 蓄势待发
-- `moving closer to a credible triad` — "逼近完成"的渐进表达
-- `as a way to validate X and demonstrate Y` — 双重目的句式
-- `bring sth back into play` — 让某物重新发挥作用
-- `be not alone in doing sth` — 并非唯一做某事
-- `given + 名词短语` — 鉴于
-- `on the eve of... and in the midst of...` — 平行时间状语
-- `fears about X and Y` — 双宾语担忧结构
-
-### 3. 重要语法
-
-| 语法点 | 文中例句 |
-| --- | --- |
-| 同位语从句（名词 + that 从句） | announcement **that** one of them had carried out... |
-| 倒装引述（quotative inversion） | said Xinhua / wrote Frank Rose / said several experts |
-| 强调助动词 do | China **did** notify some governments |
-| 不定式完成被动式 | appeared **to have been launched** |
-| 过去将来时（future in the past） | predicted... China **would demonstrate** |
-| 比较从句省略 | as other nuclear powers **have** |
-| given + 名词短语表原因 | **given** China's expanding arsenal |
-| 分词作结果状语 | meaning... / allowing it to hit... |
-| 后置定语 | the equipment **involved** |
-| be not alone in doing | China is not alone **in test-firing** |
-
-### 4. 长难句（最值得重读）
-
-句 5（同位语从句+双动词）、句 10（引语+双同位语）、句 12（双重目的）、句 18（完成被动不定式）、句 23（平行时间状语）
-
-### 5. 写作技巧
-
-- **漏斗式开头**：一般原则（保密）→ 特殊案例（中国）→ 具体事件（宣布）→ 反应（不安）。层层收窄，最后一句的 So 把因果链砸实。
-- **信息缺口制造张力**：新华社"没说落点"、中国"从不证实"——**没说的信息**和说了的一样有新闻价值。
-- **短句给重音**：`Both were launched from land.` / `It is also building quieter submarines.`——长句铺陈后突然的短句就是强调。
-- **主题词呼应**：opaque 在第一段出现，第七段借美国国务院之口重现，形成结构闭环。
-- **让步-转折**：`did notify... Still, ...`、`not alone... But given...`——先退一步再出拳，转折更有力。
-- **数据即论证**：7200km/10000km 后面紧跟 meaning/allowing 解读——数字不裸奔，必配含义。
-- **对称对比**：JL-2 vs JL-3 两句结构完全平行，用 meaning/allowing 微调语气。
-- **source 平衡**：美国前官员 vs 中国前教授、美澳官方 vs 外部分析师——多视角并置，作者自己不下判断。
-
-### 6. 可迁移表达（按场景）
-
-**学术论文 / 正式写作：**
-- `X is essential to Y`（开篇立论）
-- `given + NP, ... is likely to...`（条件推论）
-- `compared with...`（数据对比）
-- `as a way to validate...`（研究目的）
-- `be of great concern`（问题严重性）
-
-**新闻报道 / 公文 / 邮件：**
-- `voice concern about`（表达关切）
-- `urge sb to commit to`（敦促承诺）
-- `describe sth as`（立场定性）
-- `in protest over`（抗议原因）
-- `on the eve of / in the midst of`（时间背景）
-
-**日常 / 职场英语：**
-- `be not alone in doing`（不是只有我这么想）
-- `do so`（避免重复）
-- `the former / the latter`（指代两个对象）
-- `heighten awareness`（提升意识）
-- `be poised to`（万事俱备只欠东风）
-
----
-
-*精读完成。训练建议：重读第五段（The Pentagon...）与第六段（JL-2/JL-3），尝试不看翻译复述其逻辑链；再用 `given...`、`on the eve of...`、`be not alone in...` 各造一个属于自己的句子。*

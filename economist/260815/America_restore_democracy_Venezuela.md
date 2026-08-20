@@ -430,32 +430,32 @@
 
 ## 词汇分级
 
-| 级别 | 词汇 | 释义 | 例句/搭配 |
-|------|------|------|----------|
-| 基础 | snatch | 抓获，夺取 | snatch someone's phone |
-| 基础 | boast | 吹嘘 | boast about one's achievements |
-| 基础 | prosper | 繁荣 | The business prospered. |
-| 基础 | drag on | 拖延 | The negotiations dragged on for months. |
-| 基础 | benefit | 受益 | benefit from something |
-| 进阶 | dictator | 独裁者 | a ruthless dictator |
-| 进阶 | interim | 临时的 | interim president/government |
-| 进阶 | commitment | 承诺 | a strong commitment to democracy |
-| 进阶 | transition | 转型 | transition to democracy |
-| 进阶 | negotiations | 谈判 | peace negotiations |
-| 进阶 | judicial | 司法的 | judicial reform |
-| 进阶 | transparent | 透明的 | transparent government |
-| 进阶 | disclose | 披露 | disclose information |
-| 进阶 | exile | 流亡 | live in exile |
-| 高级 | kleptocracy | 盗贼政权 | a corrupt kleptocracy |
-| 高级 | deposed | 被废黜的 | a deposed ruler |
-| 高级 | dismal | 糟糕的 | a dismal performance |
-| 高级 | stooge | 傀儡 | a government stooge |
-| 高级 | impede | 阻碍 | impede progress |
-| 高级 | repudiate | 拒绝，否认 | repudiate a claim |
-| 高级 | caprice | 反复无常 | the caprices of fate |
-| 高级 | vassal | 附庸的 | vassal states |
-| 高级 | dilapidated | 破旧的 | a dilapidated building |
-| 高级 | allay | 缓解 | allay fears/concerns |
+| 难度 | 词汇 | 释义 |
+|------|------|------|
+| 基础 | snatch | 抓获，夺取 |
+| 基础 | boast | 吹嘘 |
+| 基础 | prosper | 繁荣 |
+| 基础 | drag on | 拖延 |
+| 基础 | benefit | 受益 |
+| 进阶 | dictator | 独裁者 |
+| 进阶 | interim | 临时的 |
+| 进阶 | commitment | 承诺 |
+| 进阶 | transition | 转型 |
+| 进阶 | negotiations | 谈判 |
+| 进阶 | judicial | 司法的 |
+| 进阶 | transparent | 透明的 |
+| 进阶 | disclose | 披露 |
+| 进阶 | exile | 流亡 |
+| 高级 | kleptocracy | 盗贼政权 |
+| 高级 | deposed | 被废黜的 |
+| 高级 | dismal | 糟糕的 |
+| 高级 | stooge | 傀儡 |
+| 高级 | impede | 阻碍 |
+| 高级 | repudiate | 拒绝，否认 |
+| 高级 | caprice | 反复无常 |
+| 高级 | vassal | 附庸的 |
+| 高级 | dilapidated | 破旧的 |
+| 高级 | allay | 缓解 |
 
 ## 长难句专项
 
