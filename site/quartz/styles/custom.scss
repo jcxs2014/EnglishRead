@@ -82,7 +82,20 @@ article {
   margin: 0 auto;
   padding: 2.5rem 2rem;
 
-  // 修复英文缩合符号（'s, 're, 've, n't 等）尾部空白
+  // 中英文混排：中文用 Noto Sans SC，英文用 Lora
+  font-family: "Lora", "Noto Sans SC", system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.85;
+
+  h1, h2, h3, h4 {
+    font-family: "Noto Sans SC", system-ui, sans-serif;
+  }
+
+  code, pre {
+    font-family: "IBM Plex Mono", "Noto Sans SC", monospace;
+  }
+
+  // 修复英文缩合符号空白
   * {
     word-spacing: normal !important;
     letter-spacing: normal !important;
