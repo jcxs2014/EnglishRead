@@ -92,3 +92,10 @@ sync.ffs_db
 
 # --- git 自身 ---
 .git/
+# --- 本机多 IDE 协作软链（不纳入 git，由模板仓库维护）---
+check_collab.sh
+setup_multi_ide.sh
+sync_memory.sh
+
+# --- Quartz 部署镜像目录（独立 git 仓库，主仓库不追踪）---
+site/content
