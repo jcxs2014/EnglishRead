@@ -1,16 +1,172 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— Two cheers for Trump Accounts
 
-> 原文标题：Two cheers for Trump Accounts
-> 副标题：The grubby scheme contains the seeds of a good idea
-> 栏目：Leaders | Baby steps
-> 来源：The Economist，2026-07-11 期（2026-07-09 发布，3 min read）
-> 精读日期：2026-08-09
-> 保存文件名：Trump_Accounts.md
 
----
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| show up | 出现 | The error shows up on the report. |
+| financial statements | 财务报表 | Audit the financial statements. |
+| turn 18 | 满 18 岁 | When she turns 30. |
+| top-ups | 追加款 | Make a top-up to the account. |
+| handouts | 施舍 | Dependent on government handouts. |
+| partisan | 党派性的 | A partisan vote. |
+| grubby | 粗鄙的 | A grubby financial arrangement. |
+| funded by borrowing | 靠借债融资 | Funded mostly by borrowing. |
+| qualify | 有资格 | Do you qualify for the scheme? |
+| Roping in | 拉拢 | Roped in to the project. |
+| chip in | 凑钱 | Everyone chipped in £20. |
+| a whiff of | 一丝味道 | A whiff of corruption. |
+| cronyism | 裙带关系 | The appointment reeks of cronyism. |
+| unsavoury | 不体面的 | An unsavoury past. |
+| execution | 执行 | Good idea, poor execution. |
+| worth watching | 值得关注 | The startup is worth watching. |
+| equity stakes | 股权 | Sold his equity stake. |
+| sound in principle | 原则上合理 | The plan is sound in principle. |
+| well-timed | 时机得当 | A well-timed investment. |
+| face up to | 正视 | We must face up to the problem. |
+| looming | 迫在眉睫 | The looming deadline. |
+| disruption | 冲击 | AI-driven disruption. |
+| admittedly | 诚然 | Admittedly, it's early. |
+| in today's prices | 按今日价格 | £100 in today's prices. |
+| make a dent in | 啃下一块 | Made a dent in the backlog. |
+| depends largely on | 很大程度上取决于 | Success depends largely on timing. |
+| deep pockets | 荷包深 | Parents with deep pockets. |
+| undermines the notion | 削弱观念 | This undermines the notion of merit. |
+| wanes | 减弱 | Public enthusiasm waned. |
+| a troublingly high share | 高得令人不安的比例 | A troublingly high rate. |
+| profess | 自称 | He professes loyalty. |
+| soaking the rich | 宰富人 | A plan to soak the rich. |
+| free enterprise | 自由企业 | A champion of free enterprise. |
+| a personal stake in | 个人利益 | A personal stake in the outcome. |
+| versus | 对比 | 15% versus 3%. |
+| build on | 在……基础上建设 | Build on the early gains. |
+| financial literacy | 金融素养 | Improve financial literacy. |
+| turmoil | 动荡 | Turmoil in the markets. |
+| vast returns | 巨额回报 | Vast returns for investors. |
+| forestall | 预先阻止 | Forestall the inevitable. |
+| runaway inequality | 失控的不平等 | Runaway inequality. |
+| political instability | 政治不稳定 | Instability scares investors. |
+| run the show | 唱主角 | The state shouldn't run the show. |
+| philanthropy | 慈善 | Modern philanthropy. |
+| voluntarily | 自愿地 | Voluntarily handed over power. |
+| deficit-financing | 赤字融资 | Deficit-financed spending. |
+| immediate consumption | 即时消费 | Not immediate consumption. |
+| microscopic | 极小的 | A microscopic share. |
+| outlast | 比……活得久 | The institution outlasted its founder. |
+| get behind | 支持 | Both sides can get behind it. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| skyscrapers | 摩天大楼 |  |
+| with permission / without | 经许可/未经许可 |  |
+| invested in | 投资于 |  |
+| donated | 捐赠 |  |
+| the White House | 白宫 |  |
+| the taxpayer | 纳税人 |  |
+| sound | 稳健的 |  |
+| a deposit for a home | 购房首付 |  |
+| university fees | 大学学费 |  |
+| their first home | 第一套房 |  |
+| price controls | 价格管制 |  |
+| rental housing | 租赁住房 |  |
+| the private sector | 私营部门 |  |
+| the labour market | 劳动力市场 |  |
+| assets in stocks | 股票资产 |  |
+| financial literacy | 金融素养 |  |
+| radical forecasts | 激进的预测 |  |
+| capital-holders | 资本持有者 |  |
+| runaway | 失控的 |  |
+| eclipse | 遮蔽 |  |
+| sorts out | 解决 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Trumpy | 特朗普式的 |  |
+| Gen-Z socialism | Z 世代社会主义 |  |
+| Trump Accounts | 特朗普账户 |  |
+| Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |  |
+| OpenAI | OpenAI 公司 |  |
+| Kennedy Centre | 肯尼迪中心 |  |
+
+
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `putting his name on things` — 贴名（品牌化）
+2. `(with permission) to ... (without)` — 括号对比的幽默
+3. `show up in ... statements` — 出现在账单上
+4. `are getting "Trump Accounts"` — 获得账户
+5. `not the only Trumpy thing` — 不止这一个问题
+6. `Roping in ... to chip in` — 拉人凑钱
+7. `a whiff of cronyism` — 一丝裙带味
+8. `beneath the unsavoury execution there sits` — 表层之下藏着
+9. `sound in principle` — 原则上合理
+10. `face up to the looming disruption` — 正视迫近冲击
+11. `make a modest but helpful dent in` — 啃下一小块
+12. `how deep their parents' pockets are` — 拼爹
+13. `the notion that working hard is enough to succeed` — 努力成功论
+14. `Winning the next generation back` — 赢回下一代
+15. `a personal stake in the private sector` — 个人股权
+16. `making investors of everybody` — 全民股东
+17. `vast returns for capital-holders and a tough time for workers` — 资本/劳动对立
+18. `forestall runaway inequality` — 防止失控不平等
+19. `Instead of the government running the show` — 与其政府唱主角
+20. `get two cheers from` — 获得两声喝彩
+21. `outlast the president's term` — 比总统任期活得更久
+22. `get behind` — 支持
+
+### 2. 重要语法
+
+- **from A to B + 括号对比**：`from Manhattan skyscrapers (with permission) to Washington's Kennedy Centre (without)`
+- **see + 宾语 + 省略 to 不定式**：`seeing the president's name show up`
+- **动名词短语作主语**：`Roping in ... to chip in ... carries ...`
+- **地点状语倒装存在句**：`beneath the unsavoury execution there sits ...`
+- **同位语嵌套**：`the notion that ... , a principle without which ...`
+- **without which 定语从句**：`a principle without which public support wanes`
+- **what 宾语从句**：`in what we call "Gen-Z socialism"`
+- **动名词复合结构**：`Instead of the government running the show`
+- **插入语保持自我审视**：`admittedly` / `say` / `In any case`
+- **省略 that 的宾语从句**：`We hope they outlast ... and that his successor ...`
+- **冒号列举**：`: they are also partisan, grubby and funded mostly by borrowing`
+- **比较结构**：`more enthusiasm for socialism than capitalism` / `versus just 3%`
+
+### 3. 写作技巧
+
+1. **"两声喝彩"的论证框架**：标题即结论（two cheers = 有条件支持），正文先给两分批评（党派/粗鄙/借债）再给一分肯定（原理/时机/AI 预防）——**批评与表扬分明的"评分制"结构**，体现《经济学人》"不盲从"的立场
+2. **先抑后扬的转折枢纽**：`However, beneath the unsavoury execution there sits an experiment worth watching` —— 用"外壳/内核"的空间隐喻把"坏执行"与"好想法"切开，这是评论"烂政策里的好主意"的标准手法
+3. **数据说服**：1000→4500→3000（名义/实际）、15% vs 3%（穷人股票配置）、0.005% GDP（赤字影响）——用三组数字分别论证"规模小但有用""美国基础好""赤字微不足道"
+4. **"贴名"首尾呼应**：开篇"特朗普爱贴名"（with/without permission）与收尾"希望继任者换个名字"（sorts out a name ... can get behind）——用一个细节贯穿全文，制造结构闭环与幽默
+5. **代际危机的大背景**：把一项婴儿政策放到"Z 世代社会主义""AI 冲击""自由市场合法性"三个宏观框架里讨论——**小政策见大时代**
+6. **习语与口语的灵活运用**：`chip in`（凑钱）、`make a dent in`（啃下一块）、`how deep their pockets are`（荷包多深）、`soaking the rich`（宰富人）、`run the show`（唱主角）——用鲜活习语替代干巴巴的政策术语，让社论可读
+7. **承认缺点的坦率**：`admittedly`（诚然）、`is not ideal, but`、`not the only Trumpy thing`——作者主动列举缺点再辩护，这种"自曝其短"反而增强说服力
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `show up in` | 描述出现 | The cost shows up in prices. |
+| `a whiff of` | 暗示问题 | A whiff of bias. |
+| `sound in principle` | 评价方案 | The proposal is sound in principle. |
+| `face up to` | 正视问题 | We must face up to the risk. |
+| `make a dent in` | 描述进展 | The grant made a dent in our costs. |
+| `depends largely on` | 分析因素 | Success depends largely on execution. |
+| `undermine the notion that` | 批评观念 | This undermines the notion that merit wins. |
+| `a personal stake in` | 利益绑定 | Give employees a stake in the firm. |
+| `build on` | 继承发展 | Build on the previous work. |
+| `forestall` | 预先阻止 | Forestall a backlash. |
+| `run the show` | 掌控 | The state shouldn't run the show. |
+| `rather than` | 对比选择 | Savings rather than consumption. |
+| `outlast` | 比……长久 | Good ideas outlast their authors. |
+| `get behind` | 支持 | Everyone can get behind this. |
+| `In any case` | 让步总结 | In any case, we proceed. |
 
 ## 文本概览
 
@@ -481,243 +637,3 @@
 **段落逻辑：** 辩护借债（26）→ 规模无碍（27）→ 点题：两声喝彩（28）→ 期望：政策长寿+改个好名（29）。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 5（冒号列举三宗罪）
-
-> **原句:** The name is not the only Trumpy thing about the new handouts: they are also partisan, grubby and funded mostly by borrowing.
-
-**① 找主干：** The name is not the only Trumpy thing
-**② 找修饰：** about the new handouts（介词短语）；冒号后的并列三要素
-**③ 找从句：** 无从句
-**④ 恢复逻辑：** 名字不是唯一"特朗普味"之处；它们还党派、粗鄙、主要靠借债。
-**⑤ 整体理解：** 冒号把"判断"与"证据"分开；`not the only ... : they are also A, B and C` 是"还有更多"的列举结构。
-
-### 🔍 原句 7（动名词主语 + 定语从句）
-
-> **原句:** Roping in America's wealthiest to chip in alongside the taxpayer carries a whiff of the cronyism that is sadly too familiar in today's Washington.
-
-**① 找主干：** Roping in ... carries a whiff of the cronyism
-**② 找修饰：** to chip in（不定式目的）；alongside the taxpayer（伴随）；that 定语从句（cronyism 的修饰）
-**③ 找从句：** that is sadly too familiar ...（定语从句）
-**④ 恢复逻辑：** 拉富人跟纳税人一起凑钱，带着一丝裙带关系的味道，这在今天的华盛顿可悲地熟悉。
-**⑤ 整体理解：** 动名词短语作主语（Roping in ... to chip in ...）很长，谓语 carries 紧跟；`a whiff of`（一丝气味）软化批评；定语从句用 sadly（可悲地）注入情绪。
-
-### 🔍 原句 8（地点状语倒装）
-
-> **原句:** However, beneath the unsavoury execution there sits an experiment worth watching.
-
-**① 找主干：** an experiment sits（倒装：谓语 sits 提前，主语后置）
-**② 找修饰：** However（转折）；beneath the unsavoury execution（地点状语前置）；worth watching（主语后置定语）
-**③ 找从句：** 无从句
-**④ 恢复逻辑：** 然而，在不体面的执行之下，藏着一个值得关注的实验。
-**⑤ 整体理解：** "there sits + 主语"是存在句倒装（地点状语 + there + 谓语 + 主语）；`beneath ... there sits` 制造"层层揭开"的效果。
-
-### 🔍 原句 15（同位语 + without which 定语从句）
-
-> **原句:** This undermines the notion that working hard is enough to succeed, a principle without which public support for free markets wanes.
-
-**① 找主干：** This undermines the notion
-**② 找修饰：** that working hard is enough to succeed（notion 的同位语从句）；a principle（notion 的同位语）；without which 定语从句（principle 的修饰）
-**③ 找从句：** that working hard is enough（同位语从句）；without which public support wanes（定语从句）
-**④ 恢复逻辑：** 这削弱了"努力足以成功"的观念——没有这一原则，公众对自由市场的支持就会减弱。
-**⑤ 整体理解：** 同位语嵌套（notion → that 从句；notion → a principle → without which 从句）；`without which` 前置介词+关系词，是"若无此则……"的书面强调。
-
-### 🔍 原句 17（what 从句 + 同位语 + combine A with B）
-
-> **原句:** The Economist has spotted a worrying rise in what we call "Gen-Z socialism", a politics that combines soaking the rich with calls for price controls on everything from rental housing to groceries.
-
-**① 找主干：** The Economist has spotted a worrying rise
-**② 找修饰：** in what we call "Gen-Z socialism"（介词 in + what 从句）；a politics（同位语）；that combines ... with ...（定语从句）；from ... to ...（范围）
-**③ 找从句：** what we call ...（宾语从句）；that combines ...（定语从句）
-**④ 恢复逻辑：** 该刊发现"Z 世代社会主义"抬头——一种把宰富人跟全面限价（从租房到食品）结合的政治。
-**⑤ 整体理解：** 宾语 rise in + what 从句；同位语 a politics 展开解释；定语从句里 combine A with B 再叠加 from ... to 范围，信息四层压缩。
-
-### 🔍 原句 22-23（AI 悲观预测的因果）
-
-> **原句:** The more radical forecasts for AI's economic effects involve vast returns for capital-holders and a tough time for workers. Under that scenario, a direct and highly visible public stake in the technology might be necessary to forestall runaway inequality and political instability.
-
-**① 找主干：** forecasts involve returns and a tough time；a public stake might be necessary
-**② 找修饰：** more radical（比较级定语）；for capital-holders / for workers（对象）；Under that scenario（状语）；to forestall ...（目的）
-**③ 找从句：** 无从句（两句均为简单句）
-**④ 恢复逻辑：** 激进预测是资本大赚工人吃亏；那种情景下，公众需要直接的可见股权来防止不平等与不稳定。
-**⑤ 整体理解：** 两句一因一果；`for A and a tough time for B` 用对偶（capital vs labour）；`a direct and highly visible public stake` 两个形容词堆叠强调"可见性"。
-
-### 🔍 原句 24（Instead of 动名词复合结构）
-
-> **原句:** Instead of the government running the show of managing, say, the 5% of OpenAI that Sam Altman has suggested handing over, shares could be passed along to citizens via Trump-like accounts.
-
-**① 找主干：** shares could be passed along to citizens
-**② 找修饰：** Instead of the government running the show（动名词复合结构）；say（插入语）；that Sam Altman has suggested handing over（定语从句）；via ...（方式）
-**③ 找从句：** that Sam Altman has suggested handing over（定语从句）
-**④ 恢复逻辑：** 与其让政府出面管理（比如）奥尔特曼建议交出的 5% OpenAI，不如把股份转给公民。
-**⑤ 整体理解：** `Instead of A doing B` 是动名词复合结构（government 为动名词逻辑主语）；that 从句里嵌套 handing over（suggested 的宾语）；全句用 instead of ... + 主句被动（could be passed along）。
-
----
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `putting his name on things` — 贴名（品牌化）
-2. `(with permission) to ... (without)` — 括号对比的幽默
-3. `show up in ... statements` — 出现在账单上
-4. `are getting "Trump Accounts"` — 获得账户
-5. `not the only Trumpy thing` — 不止这一个问题
-6. `Roping in ... to chip in` — 拉人凑钱
-7. `a whiff of cronyism` — 一丝裙带味
-8. `beneath the unsavoury execution there sits` — 表层之下藏着
-9. `sound in principle` — 原则上合理
-10. `face up to the looming disruption` — 正视迫近冲击
-11. `make a modest but helpful dent in` — 啃下一小块
-12. `how deep their parents' pockets are` — 拼爹
-13. `the notion that working hard is enough to succeed` — 努力成功论
-14. `Winning the next generation back` — 赢回下一代
-15. `a personal stake in the private sector` — 个人股权
-16. `making investors of everybody` — 全民股东
-17. `vast returns for capital-holders and a tough time for workers` — 资本/劳动对立
-18. `forestall runaway inequality` — 防止失控不平等
-19. `Instead of the government running the show` — 与其政府唱主角
-20. `get two cheers from` — 获得两声喝彩
-21. `outlast the president's term` — 比总统任期活得更久
-22. `get behind` — 支持
-
-### 2. 重要语法
-
-- **from A to B + 括号对比**：`from Manhattan skyscrapers (with permission) to Washington's Kennedy Centre (without)`
-- **see + 宾语 + 省略 to 不定式**：`seeing the president's name show up`
-- **动名词短语作主语**：`Roping in ... to chip in ... carries ...`
-- **地点状语倒装存在句**：`beneath the unsavoury execution there sits ...`
-- **同位语嵌套**：`the notion that ... , a principle without which ...`
-- **without which 定语从句**：`a principle without which public support wanes`
-- **what 宾语从句**：`in what we call "Gen-Z socialism"`
-- **动名词复合结构**：`Instead of the government running the show`
-- **插入语保持自我审视**：`admittedly` / `say` / `In any case`
-- **省略 that 的宾语从句**：`We hope they outlast ... and that his successor ...`
-- **冒号列举**：`: they are also partisan, grubby and funded mostly by borrowing`
-- **比较结构**：`more enthusiasm for socialism than capitalism` / `versus just 3%`
-
-### 3. 写作技巧
-
-1. **"两声喝彩"的论证框架**：标题即结论（two cheers = 有条件支持），正文先给两分批评（党派/粗鄙/借债）再给一分肯定（原理/时机/AI 预防）——**批评与表扬分明的"评分制"结构**，体现《经济学人》"不盲从"的立场
-2. **先抑后扬的转折枢纽**：`However, beneath the unsavoury execution there sits an experiment worth watching` —— 用"外壳/内核"的空间隐喻把"坏执行"与"好想法"切开，这是评论"烂政策里的好主意"的标准手法
-3. **数据说服**：1000→4500→3000（名义/实际）、15% vs 3%（穷人股票配置）、0.005% GDP（赤字影响）——用三组数字分别论证"规模小但有用""美国基础好""赤字微不足道"
-4. **"贴名"首尾呼应**：开篇"特朗普爱贴名"（with/without permission）与收尾"希望继任者换个名字"（sorts out a name ... can get behind）——用一个细节贯穿全文，制造结构闭环与幽默
-5. **代际危机的大背景**：把一项婴儿政策放到"Z 世代社会主义""AI 冲击""自由市场合法性"三个宏观框架里讨论——**小政策见大时代**
-6. **习语与口语的灵活运用**：`chip in`（凑钱）、`make a dent in`（啃下一块）、`how deep their pockets are`（荷包多深）、`soaking the rich`（宰富人）、`run the show`（唱主角）——用鲜活习语替代干巴巴的政策术语，让社论可读
-7. **承认缺点的坦率**：`admittedly`（诚然）、`is not ideal, but`、`not the only Trumpy thing`——作者主动列举缺点再辩护，这种"自曝其短"反而增强说服力
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `show up in` | 描述出现 | The cost shows up in prices. |
-| `a whiff of` | 暗示问题 | A whiff of bias. |
-| `sound in principle` | 评价方案 | The proposal is sound in principle. |
-| `face up to` | 正视问题 | We must face up to the risk. |
-| `make a dent in` | 描述进展 | The grant made a dent in our costs. |
-| `depends largely on` | 分析因素 | Success depends largely on execution. |
-| `undermine the notion that` | 批评观念 | This undermines the notion that merit wins. |
-| `a personal stake in` | 利益绑定 | Give employees a stake in the firm. |
-| `build on` | 继承发展 | Build on the previous work. |
-| `forestall` | 预先阻止 | Forestall a backlash. |
-| `run the show` | 掌控 | The state shouldn't run the show. |
-| `rather than` | 对比选择 | Savings rather than consumption. |
-| `outlast` | 比……长久 | Good ideas outlast their authors. |
-| `get behind` | 支持 | Everyone can get behind this. |
-| `In any case` | 让步总结 | In any case, we proceed. |
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| show up | 出现 | The error shows up on the report. |
-| financial statements | 财务报表 | Audit the financial statements. |
-| turn 18 | 满 18 岁 | When she turns 30. |
-| top-ups | 追加款 | Make a top-up to the account. |
-| handouts | 施舍 | Dependent on government handouts. |
-| partisan | 党派性的 | A partisan vote. |
-| grubby | 粗鄙的 | A grubby financial arrangement. |
-| funded by borrowing | 靠借债融资 | Funded mostly by borrowing. |
-| qualify | 有资格 | Do you qualify for the scheme? |
-| Roping in | 拉拢 | Roped in to the project. |
-| chip in | 凑钱 | Everyone chipped in £20. |
-| a whiff of | 一丝味道 | A whiff of corruption. |
-| cronyism | 裙带关系 | The appointment reeks of cronyism. |
-| unsavoury | 不体面的 | An unsavoury past. |
-| execution | 执行 | Good idea, poor execution. |
-| worth watching | 值得关注 | The startup is worth watching. |
-| equity stakes | 股权 | Sold his equity stake. |
-| sound in principle | 原则上合理 | The plan is sound in principle. |
-| well-timed | 时机得当 | A well-timed investment. |
-| face up to | 正视 | We must face up to the problem. |
-| looming | 迫在眉睫 | The looming deadline. |
-| disruption | 冲击 | AI-driven disruption. |
-| admittedly | 诚然 | Admittedly, it's early. |
-| in today's prices | 按今日价格 | £100 in today's prices. |
-| make a dent in | 啃下一块 | Made a dent in the backlog. |
-| depends largely on | 很大程度上取决于 | Success depends largely on timing. |
-| deep pockets | 荷包深 | Parents with deep pockets. |
-| undermines the notion | 削弱观念 | This undermines the notion of merit. |
-| wanes | 减弱 | Public enthusiasm waned. |
-| a troublingly high share | 高得令人不安的比例 | A troublingly high rate. |
-| profess | 自称 | He professes loyalty. |
-| soaking the rich | 宰富人 | A plan to soak the rich. |
-| free enterprise | 自由企业 | A champion of free enterprise. |
-| a personal stake in | 个人利益 | A personal stake in the outcome. |
-| versus | 对比 | 15% versus 3%. |
-| build on | 在……基础上建设 | Build on the early gains. |
-| financial literacy | 金融素养 | Improve financial literacy. |
-| turmoil | 动荡 | Turmoil in the markets. |
-| vast returns | 巨额回报 | Vast returns for investors. |
-| forestall | 预先阻止 | Forestall the inevitable. |
-| runaway inequality | 失控的不平等 | Runaway inequality. |
-| political instability | 政治不稳定 | Instability scares investors. |
-| run the show | 唱主角 | The state shouldn't run the show. |
-| philanthropy | 慈善 | Modern philanthropy. |
-| voluntarily | 自愿地 | Voluntarily handed over power. |
-| deficit-financing | 赤字融资 | Deficit-financed spending. |
-| immediate consumption | 即时消费 | Not immediate consumption. |
-| microscopic | 极小的 | A microscopic share. |
-| outlast | 比……活得久 | The institution outlasted its founder. |
-| get behind | 支持 | Both sides can get behind it. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| skyscrapers | 摩天大楼 |  |
-| with permission / without | 经许可/未经许可 |  |
-| invested in | 投资于 |  |
-| donated | 捐赠 |  |
-| the White House | 白宫 |  |
-| the taxpayer | 纳税人 |  |
-| sound | 稳健的 |  |
-| a deposit for a home | 购房首付 |  |
-| university fees | 大学学费 |  |
-| their first home | 第一套房 |  |
-| price controls | 价格管制 |  |
-| rental housing | 租赁住房 |  |
-| the private sector | 私营部门 |  |
-| the labour market | 劳动力市场 |  |
-| assets in stocks | 股票资产 |  |
-| financial literacy | 金融素养 |  |
-| radical forecasts | 激进的预测 |  |
-| capital-holders | 资本持有者 |  |
-| runaway | 失控的 |  |
-| eclipse | 遮蔽 |  |
-| sorts out | 解决 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| Trumpy | 特朗普式的 |  |
-| Gen-Z socialism | Z 世代社会主义 |  |
-| Trump Accounts | 特朗普账户 |  |
-| Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |  |
-| OpenAI | OpenAI 公司 |  |
-| Kennedy Centre | 肯尼迪中心 |  |
-

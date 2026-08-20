@@ -1,16 +1,74 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— Xi Jinping expels another leader from his top team
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| prides itself on | 以……为傲 | 政治体系自诩稳定 |
+| taking the axe to | 挥斧清洗 | 清洗团队成员 |
+| the latest to fall | 最新落马者 | 马兴瑞 |
+| stripped of | 被剥夺 | 开除党籍 |
+| fallen vacant | 空出 | 政治局席位 |
+| absent from major events | 缺席重大活动 | 失势征兆 |
+| laid against | 提出（指控） | 对落马者 |
+| all but certain | 几乎肯定 | 张又侠命运 |
+| the most ... post-Mao | 文革后最多 | 清洗纪录 |
+| a potential successor | 潜在继任者 | 孙政才 |
+| behind bars | 入狱 | 马的前景 |
+| an unreliable guide | 不可靠指针 | 历史先例 |
+| norm-breaker | 破规者 | 习 |
 
-> 原文标题：Xi Jinping expels another leader from his top team
-> 副标题：He has set a record for booting out members of the Politburo
-> 栏目：China | Biting the dust
-> 来源：The Economist，2026-07-18 期
-> 精读日期：2026-08-09
-> 保存文件名：Xi_Jinping_expels_leader.md
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| downfall | 倒台 | 马兴瑞下台 |
+| celebrated | 著名的 | 航天工程师 |
+| Egregious | 极其严重 | 腐败 |
+| ousting | 罢黜 | 去职 |
+| lash out | 猛击 | 习的清洗意愿 |
+| purged | 被清洗 | 高官 |
+| dismissed | 被免职 | 政治局委员 |
 
----
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| graft | 贪腐 | 指控 |
+
+### 3. 重要语法
+
+- **现在完成进行时**：`has been taking the axe`（持续进行）
+- **省略的过去分词定语**：`a rate not seen since ...`（= which was not seen）
+- **并列结构省略**：`his case [was] handed to prosecutors`
+- **被动进行时**：`he was being investigated`
+- **accuse A of B（三并列）**：`accepting ... engaging ... using ...`
+- **比较结构嵌套**：`easier ... than revealing what is often suspected to be ...`
+- **all but + 形容词**：`all but certain`
+- **最高级比较**：`the most under any leader post-Mao`
+- **插入语**：`at a minimum` / `however` / 破折号数据
+- **首字母大写句首强调**：`CHINA'S POLITICAL system`
+
+### 4. 长难句
+
+- 原句 1（完成进行时 + 省略定语）
+- 原句 4（Once + 同位语链）
+- 原句 6（比较结构 + 双重嵌套）
+- 原句 9（冒号 + all but certain）
+
+### 5. 写作技巧
+
+1. **首尾闭环的"稳定 vs 破规"**：开头"体系自诩稳定"→ 结尾"习是破规者"，用结构性反差完成论点闭环
+2. **数据即评论**：24→21、三名政治局委员、两名国防部长+外长+数十名军官——不直接批判，用"纪录"和"清单"让数字说话
+3. **官方措辞加引号**："extremely serious"、"huge amounts"、"large-scale family corruption"——引号全程保持报道者与官方话语的距离
+4. **两段式归因**：先给惯例解释（贪腐是"台面说法"），再讨论本案例外（无政治摩擦迹象）——审慎、平衡、不武断
+5. **审慎推测的措辞**：`may be enough`、`all but certain`、`that is an unreliable guide`——结论用限定词管理确定性
+6. **锤子式短句收尾**：`Mr Xi is a norm-breaker` 两词短句把全文论据压缩成判断，制造冲击
+7. **括号补充的叙事节奏**：用括号（孙政才背景）提供细节而不打断主线
+
+### 精读结束总结
+
+
 
 ## 文本概览
 
@@ -226,123 +284,7 @@
 **段落逻辑：** 保底预期（11a）→ 先例失效（11b）→ 破规判断（12）。从"他会怎样"到"为什么不可预测"。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 1（现在完成进行时 + 省略定语）
-
-> **原句:** But Xi Jinping has been taking the axe to members of his team at a rate not seen since the days of Mao Zedong.
-
-**① 找主干：** Xi Jinping has been taking the axe to members of his team
-**② 找修饰：** at a rate（方式）；not seen since the days of Mao Zedong（省略 which was 的定语）
-**③ 找从句：** 无完整从句（not seen = 省略的过去分词定语）
-**④ 恢复逻辑：** 习以毛泽东时代以来未见的速度清洗团队成员。
-**⑤ 整体理解：** 完成进行时（has been taking）强调"持续进行"，at a rate + 省略定语把"速度纪录"塞进一句。
-
-### 🔍 原句 4（Once + 同位语链）
-
-> **原句:** Once a celebrated aerospace engineer who helped oversee lunar-exploration projects, he has long been absent from major events.
-
-**① 找主干：** he has long been absent from major events
-**② 找修饰：** Once a celebrated aerospace engineer（时间状语 + 同位语）；who helped oversee lunar-exploration projects（定语从句）
-**③ 找从句：** who helped oversee ...（定语从句）
-**④ 恢复逻辑：** 他曾经是监督探月工程的著名航天工程师，但已长期缺席重大活动。
-**⑤ 整体理解：** 句首省略主语（[Being] Once a ... engineer）的伴随结构，把"过去荣光"压缩成短语，主句立刻给出"今朝失势"。
-
-### 🔍 原句 6（比较结构 + 双重嵌套）
-
-> **原句:** Such wrongdoing is easier to explain to the public than revealing what is often suspected to be the main reason: political tension with the party chief.
-
-**① 找主干：** Such wrongdoing is easier to explain ... than revealing ...
-**② 找修饰：** to the public（对象）；what is often suspected to be the main reason（比较对象中的宾语从句）；冒号同位语 political tension ...
-**③ 找从句：** what is often suspected to be ...（宾语从句）
-**④ 恢复逻辑：** 比起揭示那个常被怀疑的真正原因（与党首的政治摩擦），这种贪腐行为更容易向公众解释。
-**⑤ 整体理解：** A is easier than B 的比较结构里，B 内嵌 what 从句 + 冒号点题——一层套一层，把"官方说法 vs 真实原因"的张力推到最大。
-
-### 🔍 原句 9（冒号 + all but certain）
-
-> **原句:** The armed forces' two most senior generals have fallen: He Weidong was expelled from the Politburo and Zhang Youxia is under investigation and all but certain to lose his Politburo seat, too.
-
-**① 找主干：** The armed forces' two most senior generals have fallen
-**② 找修饰：** 冒号后两并列句展开（He Weidong was expelled ... and Zhang Youxia is under investigation and all but certain to lose ...）
-**③ 找从句：** 无从句（两并列独立句）
-**④ 恢复逻辑：** 军队两位最高级将领已倒台：一个被逐出政治局，另一个被调查且几乎肯定失去席位。
-**⑤ 整体理解：** 冒号后的展开采用"完成时 + 进行时 + all but certain"的三态递进（已倒台/被查中/几定失位）。
-
----
-
-
-## 精读结束总结
-
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| prides itself on | 以……为傲 | 政治体系自诩稳定 |
-| taking the axe to | 挥斧清洗 | 清洗团队成员 |
-| the latest to fall | 最新落马者 | 马兴瑞 |
-| stripped of | 被剥夺 | 开除党籍 |
-| fallen vacant | 空出 | 政治局席位 |
-| absent from major events | 缺席重大活动 | 失势征兆 |
-| laid against | 提出（指控） | 对落马者 |
-| all but certain | 几乎肯定 | 张又侠命运 |
-| the most ... post-Mao | 文革后最多 | 清洗纪录 |
-| a potential successor | 潜在继任者 | 孙政才 |
-| behind bars | 入狱 | 马的前景 |
-| an unreliable guide | 不可靠指针 | 历史先例 |
-| norm-breaker | 破规者 | 习 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| downfall | 倒台 | 马兴瑞下台 |
-| celebrated | 著名的 | 航天工程师 |
-| Egregious | 极其严重 | 腐败 |
-| ousting | 罢黜 | 去职 |
-| lash out | 猛击 | 习的清洗意愿 |
-| purged | 被清洗 | 高官 |
-| dismissed | 被免职 | 政治局委员 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| graft | 贪腐 | 指控 |
-
-### 3. 重要语法
-
-- **现在完成进行时**：`has been taking the axe`（持续进行）
-- **省略的过去分词定语**：`a rate not seen since ...`（= which was not seen）
-- **并列结构省略**：`his case [was] handed to prosecutors`
-- **被动进行时**：`he was being investigated`
-- **accuse A of B（三并列）**：`accepting ... engaging ... using ...`
-- **比较结构嵌套**：`easier ... than revealing what is often suspected to be ...`
-- **all but + 形容词**：`all but certain`
-- **最高级比较**：`the most under any leader post-Mao`
-- **插入语**：`at a minimum` / `however` / 破折号数据
-- **首字母大写句首强调**：`CHINA'S POLITICAL system`
-
-### 4. 长难句
-
-- 原句 1（完成进行时 + 省略定语）
-- 原句 4（Once + 同位语链）
-- 原句 6（比较结构 + 双重嵌套）
-- 原句 9（冒号 + all but certain）
-
-### 5. 写作技巧
-
-1. **首尾闭环的"稳定 vs 破规"**：开头"体系自诩稳定"→ 结尾"习是破规者"，用结构性反差完成论点闭环
-2. **数据即评论**：24→21、三名政治局委员、两名国防部长+外长+数十名军官——不直接批判，用"纪录"和"清单"让数字说话
-3. **官方措辞加引号**："extremely serious"、"huge amounts"、"large-scale family corruption"——引号全程保持报道者与官方话语的距离
-4. **两段式归因**：先给惯例解释（贪腐是"台面说法"），再讨论本案例外（无政治摩擦迹象）——审慎、平衡、不武断
-5. **审慎推测的措辞**：`may be enough`、`all but certain`、`that is an unreliable guide`——结论用限定词管理确定性
-6. **锤子式短句收尾**：`Mr Xi is a norm-breaker` 两词短句把全文论据压缩成判断，制造冲击
-7. **括号补充的叙事节奏**：用括号（孙政才背景）提供细节而不打断主线
-
-### 6. 可迁移表达
+## 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -359,3 +301,5 @@
 | `an unreliable guide` | 参考价值 | Past data is an unreliable guide to the future. |
 | `at a minimum` | 保底预期 | At a minimum, allow two hours. |
 | `the most under any` | 破纪录表述 | It was the most under any CEO in a decade. |
+
+

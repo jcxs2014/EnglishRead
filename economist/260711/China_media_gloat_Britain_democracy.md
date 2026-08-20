@@ -1,16 +1,106 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— China's media gloat at Britain's chaotic democracy
 
-> 原文标题：China's media gloat at Britain's chaotic democracy
-> 副标题：But Chinese viewers also love British comedy that laughs at politics
-> 栏目：China | The other mandarins
-> 来源：The Economist，2026-07-11 期（2026-07-09 发布，2 min read）
-> 精读日期：2026-08-09
-> 保存文件名：China_media_gloat_Britain_democracy.md
 
----
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| coyly | 忸怩作态地 | She coyly deflected the question. |
+| unaccountable | 不受问责的 | Power without checks becomes unaccountable. |
+| turnover | 更替率 | The board has a rapid turnover. |
+| contrasts with | 与……形成对比 | His calm contrasts with her panic. |
+| unending | 无止境的 | The unending war exhausted them. |
+| satire | 讽刺文学 | Satire holds power to account. |
+| cynical | 愤世嫉俗的 | A cynical take on politics. |
+| envy | 羡慕 | I envy his confidence. |
+| transparency | 透明度 | Transparency builds trust. |
+| elitist | 精英主义的 | The elitist school bars outsiders. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| state-run | 国有的 |  |
+| resignation | 辞职 |  |
+| liberal democracies | 自由民主 |  |
+| chaotic | 混乱的 |  |
+| the House of Commons | 下议院 |  |
+| circulating | 流传 |  |
+| deep-seated | 根深蒂固的 |  |
+| sitcom | 情景喜剧 |  |
+| the late | 已故的 |  |
+| views | 观看量 |  |
+| clip | 片段 |  |
+| naive | 天真的 |  |
+| responds | 回应 |  |
+| bureaucracy | 官僚体系 |  |
+| dared to | 敢于 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| diplomat-turned-professor | 外交官转行教授 |  |
+| swap through | 换来换去 |  |
+| Bilibili | B站 |  |
+
+
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `It was not hard to guess` — 显而易见
+2. `yet more evidence` — 又一条证据
+3. `has been a gift to` — 正中下怀
+4. `makes ... look` — 使……显得
+5. `rather than` — 而不是
+6. `unlikely but devoted` — 出乎意料却忠实
+7. `in part thanks to` — 部分由于
+8. `pushes for` — 力主
+9. `have a right to know / be ignorant` — 知情权 / 无知权（对称）
+10. `contrasts with` — 与……对比
+11. `In power since` — 执政以来
+12. `dared to say it` — 竟敢说出（自我审查）
+
+### 2. 重要语法
+
+- **It 形式主语**：`It was not hard to guess how ...`
+- **倒装引述**：`coyly asked the People's Daily` / `said Mr Cui`（引语先行 + 主谓倒装）
+- **that 同位语从句**：`evidence that liberal democracies are unstable`
+- **插入语标记话语来源**：`they suggested` / `of course`
+- **分词短语作后置定语**：`a video ... circulating on social media`
+- **分词短语作状语（省略主语）**：`Commenting on Sir Keir's resignation, one user wrote`
+- **对比结构**：`only care about winning elections, rather than improving things` / `unlikely but devoted`
+- **make + 宾语 + 省略 to 不定式**：`makes China's system look more stable`
+- **引号标记转述**：官媒话语与网民话语全程用引号保持距离
+- **对称句**：`a right to know` vs `a right to be ignorant`
+
+### 3. 写作技巧
+
+1. **"弦外之音"收尾**：全篇最锋利的判断（中国人不敢说"羡慕领导人更替"）不靠作者断言，而靠两句网民对话（"I envy..." / "You dared to say it"）自然浮出——**用引语代替评论**
+2. **引号的距离管理**：中国官媒与网民话语全程加引号，作者保持报道者身份；唯一的作者评论是形容词（coyly、ugly、unending），用词精到而不直接批判
+3. **跨文化讽刺的双向解读**：同一部《是，大臣》——英国观众看它讽刺英国官僚，中国观众看它讽刺自己的体系——用一个文本呈现两种政治现实，构思精妙
+4. **对称对白制造记忆点**：`a right to know` vs `a right to be ignorant` 用最小改动（know→ignorant）达到最大反讽
+5. **极短句做"锤子式"停顿**：`Quotes are shared online`（4词）、`It makes China's system look more stable`（6词）——在长句间插入短句，控制节奏
+6. **事实前置的分词结构**：`In power since 2012, he removed presidential term limits in 2018` 用分词短语压缩背景，主句快速推进
+7. **层层递进的结构**：官媒嘲讽 → 网民共鸣 → 喜剧流行 → 台词传播 → 自况 → 禁忌表达，从外部叙事逐步收向最私密、最敏感的真实
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `It was not hard to guess` | 写作/分析 | It was not hard to guess the outcome. |
+| `has been a gift to` | 分析评论 | The scandal was a gift to the opposition. |
+| `makes ... look` | 论证 | It makes the proposal look feasible. |
+| `unlikely but devoted` | 描述反差 | An unlikely but devoted fanbase. |
+| `pushes for` | 政策/职场 | She pushed for stricter rules. |
+| `contrasts with` | 对比分析 | His optimism contrasts with reality. |
+| `In power since 2012` | 时间陈述 | In office since 2019, she has cut costs. |
+| `dare to do` | 强调勇气/胆量 | Few dare to challenge the consensus. |
+| `a gift to` | 评论 | The leak was a gift to journalists. |
+| `rather than` | 对比论证 | Invest in prevention rather than cure. |
 
 ## 文本概览
 
@@ -349,147 +439,3 @@
 **段落逻辑：** 主题句：自况共鸣（18）→ 英国更替 vs 中国长期执政（19-20）→ 网民的敏感表达（21）→ 自我审查的反应（22）。从"文化共鸣"到"政治敏感的弦外之音"，层层收紧，以"敢说"二字收束全篇。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 1（It 形式主语 + 宾语从句嵌套）
-
-> **原句:** It was not hard to guess how China's state-run media would react to the resignation of Sir Keir Starmer last month and the ongoing process of replacing him.
-
-**① 找主干：** It was not hard to guess ...
-**② 找修饰：** how 宾语从句（would react to the resignation ... and the ongoing process）作 to guess 的宾语；两个并列宾语带各自介词短语（of Sir Keir Starmer / of replacing him）
-**③ 找从句：** how China's state-run media would react ...（宾语从句）
-**④ 恢复逻辑：** 猜（中国官媒将如何反应）不难——两个并列对象：斯塔默辞职 + 接替进程。
-**⑤ 整体理解：** It 是形式主语，真正主语是不定式 to guess + how 从句；`not hard` 否定结构表"显而易见"。
-
-### 🔍 原句 3（引语倒装 + 多层同位语）
-
-> **原句:** "Could there be a problem with this type of government?" coyly asked the People's Daily in an interview with Cui Hongjian, a Chinese diplomat-turned-professor.
-
-**① 找主干：** the People's Daily asked [引语]
-**② 找修饰：** 倒装（coyly asked + 主语后置）；in an interview with Cui Hongjian（状语）；a Chinese diplomat-turned-professor（Cui 的同位语）
-**③ 找从句：** 无从句（引语为独立疑问句）
-**④ 恢复逻辑：** 《人民日报》忸怩地问"这种政府会不会有问题"，地点在采访崔洪建时。
-**⑤ 整体理解：** 引语 + 倒装把"提问方式"（coyly）前置强调；同位语补齐受访者身份。
-
-### 🔍 原句 6（引语先行 + 多层后置修饰）
-
-> **原句:** "Foreigners doing politics are like children playing with mud," said a commenter on a video of one ugly House of Commons debate circulating on social media.
-
-**① 找主干：** a commenter said "..."
-**② 找修饰：** on a video（地点）；of one ugly House of Commons debate（video 的内容）；circulating on social media（debate 的后置定语，分词短语）
-**③ 找从句：** 无从句；doing politics（分词作定语）/ playing with mud（分词作定语）
-**④ 恢复逻辑：** 一位网友说"外国人搞政治像孩子玩泥巴"，评论区对象是一条流传的英国议会辩论视频。
-**⑤ 整体理解：** 引语先行，出处殿后，出处带三层介词/分词修饰，信息密度集中在句尾。
-
-### 🔍 原句 19-20（对比句 + 事实补足）
-
-> **原句:** And the turnover of British leaders contrasts with the unending rule of Xi Jinping. In power since 2012, he removed presidential term limits in 2018.
-
-**① 找主干：** the turnover contrasts with the unending rule；he removed term limits
-**② 找修饰：** In power since 2012（现在分词短语作状语，主语省）
-**③ 找从句：** 无从句
-**④ 恢复逻辑：** 英国更替率 vs 中国无休止执政；他 2012 年执政、2018 年取消任期限制。
-**⑤ 整体理解：** 第一句给出对比判断，第二句用事实补足"为何无休止"；`In power since 2012` 用分词短语压缩时间信息。
-
----
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `It was not hard to guess` — 显而易见
-2. `yet more evidence` — 又一条证据
-3. `has been a gift to` — 正中下怀
-4. `makes ... look` — 使……显得
-5. `rather than` — 而不是
-6. `unlikely but devoted` — 出乎意料却忠实
-7. `in part thanks to` — 部分由于
-8. `pushes for` — 力主
-9. `have a right to know / be ignorant` — 知情权 / 无知权（对称）
-10. `contrasts with` — 与……对比
-11. `In power since` — 执政以来
-12. `dared to say it` — 竟敢说出（自我审查）
-
-### 2. 重要语法
-
-- **It 形式主语**：`It was not hard to guess how ...`
-- **倒装引述**：`coyly asked the People's Daily` / `said Mr Cui`（引语先行 + 主谓倒装）
-- **that 同位语从句**：`evidence that liberal democracies are unstable`
-- **插入语标记话语来源**：`they suggested` / `of course`
-- **分词短语作后置定语**：`a video ... circulating on social media`
-- **分词短语作状语（省略主语）**：`Commenting on Sir Keir's resignation, one user wrote`
-- **对比结构**：`only care about winning elections, rather than improving things` / `unlikely but devoted`
-- **make + 宾语 + 省略 to 不定式**：`makes China's system look more stable`
-- **引号标记转述**：官媒话语与网民话语全程用引号保持距离
-- **对称句**：`a right to know` vs `a right to be ignorant`
-
-### 3. 写作技巧
-
-1. **"弦外之音"收尾**：全篇最锋利的判断（中国人不敢说"羡慕领导人更替"）不靠作者断言，而靠两句网民对话（"I envy..." / "You dared to say it"）自然浮出——**用引语代替评论**
-2. **引号的距离管理**：中国官媒与网民话语全程加引号，作者保持报道者身份；唯一的作者评论是形容词（coyly、ugly、unending），用词精到而不直接批判
-3. **跨文化讽刺的双向解读**：同一部《是，大臣》——英国观众看它讽刺英国官僚，中国观众看它讽刺自己的体系——用一个文本呈现两种政治现实，构思精妙
-4. **对称对白制造记忆点**：`a right to know` vs `a right to be ignorant` 用最小改动（know→ignorant）达到最大反讽
-5. **极短句做"锤子式"停顿**：`Quotes are shared online`（4词）、`It makes China's system look more stable`（6词）——在长句间插入短句，控制节奏
-6. **事实前置的分词结构**：`In power since 2012, he removed presidential term limits in 2018` 用分词短语压缩背景，主句快速推进
-7. **层层递进的结构**：官媒嘲讽 → 网民共鸣 → 喜剧流行 → 台词传播 → 自况 → 禁忌表达，从外部叙事逐步收向最私密、最敏感的真实
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `It was not hard to guess` | 写作/分析 | It was not hard to guess the outcome. |
-| `has been a gift to` | 分析评论 | The scandal was a gift to the opposition. |
-| `makes ... look` | 论证 | It makes the proposal look feasible. |
-| `unlikely but devoted` | 描述反差 | An unlikely but devoted fanbase. |
-| `pushes for` | 政策/职场 | She pushed for stricter rules. |
-| `contrasts with` | 对比分析 | His optimism contrasts with reality. |
-| `In power since 2012` | 时间陈述 | In office since 2019, she has cut costs. |
-| `dare to do` | 强调勇气/胆量 | Few dare to challenge the consensus. |
-| `a gift to` | 评论 | The leak was a gift to journalists. |
-| `rather than` | 对比论证 | Invest in prevention rather than cure. |
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| coyly | 忸怩作态地 | She coyly deflected the question. |
-| unaccountable | 不受问责的 | Power without checks becomes unaccountable. |
-| turnover | 更替率 | The board has a rapid turnover. |
-| contrasts with | 与……形成对比 | His calm contrasts with her panic. |
-| unending | 无止境的 | The unending war exhausted them. |
-| satire | 讽刺文学 | Satire holds power to account. |
-| cynical | 愤世嫉俗的 | A cynical take on politics. |
-| envy | 羡慕 | I envy his confidence. |
-| transparency | 透明度 | Transparency builds trust. |
-| elitist | 精英主义的 | The elitist school bars outsiders. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| state-run | 国有的 |  |
-| resignation | 辞职 |  |
-| liberal democracies | 自由民主 |  |
-| chaotic | 混乱的 |  |
-| the House of Commons | 下议院 |  |
-| circulating | 流传 |  |
-| deep-seated | 根深蒂固的 |  |
-| sitcom | 情景喜剧 |  |
-| the late | 已故的 |  |
-| views | 观看量 |  |
-| clip | 片段 |  |
-| naive | 天真的 |  |
-| responds | 回应 |  |
-| bureaucracy | 官僚体系 |  |
-| dared to | 敢于 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| diplomat-turned-professor | 外交官转行教授 |  |
-| swap through | 换来换去 |  |
-| Bilibili | B站 |  |
-

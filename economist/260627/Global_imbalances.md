@@ -1,6 +1,20 @@
 ---
 状态: 未读
 ---
+
+
+## 长难句专项（补充）
+
+### Paragraph 11 分析
+> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth.
+
+**主干**：Europe must recognise that erecting trade barriers... increases the need for reforms
+**原因状语**：because diversifying away... raises costs and harms growth
+**逻辑**：贸易壁垒 → 成本上升 → 更需要改革（而不是减少改革需要）
+
+---
+
+## 精读总结（补充）
 # Global imbalances have little to do with Europe's industrial woes
 
 ## 概览
@@ -305,28 +319,6 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 ---
 
 
-## 长难句专项
-
-### 最长难句（P4, 5句）
-> The Europeans are right that the world economy is imbalanced and that China is partly to blame. It runs a large current-account surplus, of almost 4% of its vast GDP, although some analysts think it is even higher. Its economy has unusually low consumption, often blamed on the lack of a social safety-net for households. Its exporters, though in brutal competition with each other, do indeed benefit from subsidies and a cheap currency.
-
-**主干**：The Europeans are right that... / It runs a large... / Its economy has... / Its exporters... do indeed benefit...
-
-**结构**：先承认欧洲人有道理（中国确实有顺差），然后逐一列举中国的经济特征（高顺差/低消费/补贴+廉价货币），最后加上全球层面的原因（美国政府借款）
-
----
-
-### 次长难句（P6, 4句）
-> Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports. Europe's producers might not even benefit from America and China bringing their current accounts towards balance, supposing that were to happen. Companies would suffer less competition from China but more from America.
-
-**主干**：Correcting "imbalances" would not mean... / It might mean the opposite... / Europe's producers might not even benefit... / Companies would suffer less... but more...
-
-**结构**：先给结论（不会减少进口），然后说可能相反（加强欧元损害出口），再提出假设情况（即使中美纠正失衡），最后说明企业处境（少了一个竞争对手，多了一个）
-
----
-
-## 精读总结
-
 **核心论点**：欧洲领导人把工业衰退归咎于全球贸易失衡和中国竞争是重商主义错误；实际问题在于欧洲自身竞争力下降；真正的解决方案是内部改革（能源成本/劳动力市场/监管），而不是保护主义。
 
 **最值得学习的句型**：
@@ -379,19 +371,6 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 - P11: 对华贸易壁垒只会增加成本、提高对改革的需求；中国经济规模和阶段决定其制造业出口优势无法被取代；正确的做法是"整顿自己的房子"
 
 ---
-
-## 长难句专项（补充）
-
-### Paragraph 11 分析
-> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth.
-
-**主干**：Europe must recognise that erecting trade barriers... increases the need for reforms
-**原因状语**：because diversifying away... raises costs and harms growth
-**逻辑**：贸易壁垒 → 成本上升 → 更需要改革（而不是减少改革需要）
-
----
-
-## 精读总结（补充）
 
 **最值得学习的句型（续）**：
 - "erecting trade barriers only increases the need for reforms"（保护主义适得其反的论断）

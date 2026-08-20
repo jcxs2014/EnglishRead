@@ -1,15 +1,66 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— It's too darn hot. Blame global dimming
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| albedo | 反照率 | 地球反射阳光的比例，本文核心概念 |
+| geoengineering | 地球工程 | 人工干预气候 |
+| benign / malignant | 良性 / 恶性 | 良性气溶胶 |
+| elusive | 难以企及 | 大规模增亮技术 |
+| The more..., the sooner... | 越…就越… | 变暖越快，极端越早 |
+| policy dilemma | 政策困境 | 硫治理的两难 |
 
-> 原文标题：It's too darn hot. Blame global dimming
-> 副标题：Earth is absorbing a lot more sunshine
-> 来源：The Economist，2026-07-18 期，封面社论（Leaders/Our cover）
-> 精读日期：2026-08-09
-> 保存文件名：Global_dimming.md
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| trajectory | 轨迹 | 全球升温走向 |
 
----
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| feed on itself | 自我强化 | 变暖→反照率降→更暖 |
+| at scale | 规模化 | 大规模实施 |
+| endorse | 认可 | 几乎无人认可地球工程 |
+| in concert | 协同 | 各国协调行动 |
+| phase out | 逐步淘汰 | 淘汰氟化气体 |
+| the late | 已故的 | Crutzen |
+| wreak havoc with | 造成严重破坏 | 颗粒危害健康 |
+| look set to | 势将 | 两趋势继续 |
+| at large | 整体 | 世界整体 |
+| discernible | 可察觉的 | 可察觉的影响 |
+| eats into | 蚕食 | 转型蚕食化石燃料 |
+
+### 3. 重要语法
+
+- **将来完成时** `tens of thousands will have died`（截至某时点累计）
+- **部分倒装** `only for the largest economies does ... have effect`（only + 状语前置）
+- **过去分词后置** `idealism needed to imagine ...`（名词 + 过去分词短语）
+- **破折号插入** `exciting—and alarming—scientists`（节奏控制）
+- **比较级递进** `The more ..., the sooner ...`
+- **名词化表达** `Endurance is what remains`、`a scarcity of cooling clouds`
+- **双宾语** `buy a country a certain standing`
+
+### 4. 长难句
+
+- 原句 18（倒装）：`only for the largest economies does ...`
+- 原句 19（破折号 + 过去分词）：`The idea was conceived when ...`
+- 原句 25（插入语 + 条件）：`if nations can act in concert ...`
+
+### 5. 写作技巧
+
+1. **音乐主题闭环**：Cole Porter 引语开头（too hot）结尾（anything goes），首尾呼应形成完整叙事弧
+2. **由具体到抽象**：先给热浪/台风/山火等灾难事实，再引出晦涩的 albedo 概念——用"痛点"吸引读者理解"概念"
+3. **数字戏剧化**：50 万生命 vs 1°C、9 个月延误 vs 电费翻倍——把两难量化成可比较的砝码
+4. **先扬后抑**：承认净零理念之善（planetary housekeeping 的可爱比喻），再泼冷水（慢且小），最后讽刺时代已变（merely high vs delusional）
+5. **现实主义收尾**：不渲染绝望，给可执行清单（空调、甲烷、氟化气体），再谈地球工程——"讨论胜于沉默"是全文最低限度的结论
+6. **拟人化地理想象**：`which saw well over a million people evacuated`（台风"目睹"撤离）——用拟人增加画面感
+
+### 精读结束总结
+
+
 
 ## 文本概览
 
@@ -432,105 +483,7 @@
 **段落逻辑：** 反对存在（25）→ 但协调可行（IMO 先例）→ 沉默无益（26）→ 时间警告。结论落到"必须讨论"这一最低共识。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 18（含倒装）
-
-> **原句:** What's more, its critics are also correct when they say that only for the largest economies does a single country's progress towards net-zero goals have any discernible effect on the world's overall trajectory.
-
-**① 找主干：** its critics are correct
-**② 找修饰：** when they say that ...（时间/条件状语）
-**③ 找从句：** that 引导宾语从句（say 的宾语）；其中 `only for the largest economies` 前置触发倒装
-**④ 恢复逻辑：** 正常语序为 `a single country's progress towards net-zero goals has any discernible effect on the world's overall trajectory only for the largest economies`。倒装把"only for the largest economies"提前，语法形式强调语义重点。
-**⑤ 整体理解：** 批评者的正确之处在于：单个国家的净零进展，只有对最大经济体才有可察觉的全球影响（即小国努力没有用）。
-
-### 🔍 原句 19（破折号补充 + 过去分词后置）
-
-> **原句:** The idea was conceived when America was a believer in international agreements and the level of idealism needed to imagine countries spurring each other on to better things was merely high—not, as it is now, delusional.
-
-**① 找主干：** The idea was conceived（主句）
-**② 找修饰：** when America was a believer ... and the level of idealism was merely high（两个并列时间状语从句）
-**③ 找从句：** `needed to imagine ...` 过去分词短语作定语修饰 idealism；破折号后 `not, as it is now, delusional` 补充说明
-**④ 恢复逻辑：** 理想主义程度分两档——当年只需"很高"（merely high），如今已是"妄想"（delusional）。
-**⑤ 整体理解：** 净零理念诞生于美国仍信国际协议的年代；当时的理想主义只是偏高，如今已变成妄想——时代变得更糟，而非更好。
-
-### 🔍 原句 25（破折号插入 + 条件虚拟）
-
-> **原句:** But if nations can act in concert to warm the planet—as those of the International Maritime Organisation did when they enforced new restrictions on ships' sulphur emissions in 2020—they ought to be able to discuss the conditions under which they might cool it.
-
-**① 找主干：** they ought to be able to discuss the conditions
-**② 找修饰：** if 条件从句 + 破折号插入的比较从句（as ... did）
-**③ 找从句：** `under which` 定语从句修饰 conditions；`when` 时间状语从句
-**④ 恢复逻辑：** 人类已经能协调行动（加热地球），所以也应该能协调讨论（降温的条件）。
-**⑤ 整体理解：** 用"已有先例"反驳"各国无法协调"——破坏能协调，修复凭什么不能协调。
-
----
-
-
-## 精读结束总结
-
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| albedo | 反照率 | 地球反射阳光的比例，本文核心概念 |
-| geoengineering | 地球工程 | 人工干预气候 |
-| benign / malignant | 良性 / 恶性 | 良性气溶胶 |
-| elusive | 难以企及 | 大规模增亮技术 |
-| The more..., the sooner... | 越…就越… | 变暖越快，极端越早 |
-| policy dilemma | 政策困境 | 硫治理的两难 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| trajectory | 轨迹 | 全球升温走向 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| feed on itself | 自我强化 | 变暖→反照率降→更暖 |
-| at scale | 规模化 | 大规模实施 |
-| endorse | 认可 | 几乎无人认可地球工程 |
-| in concert | 协同 | 各国协调行动 |
-| phase out | 逐步淘汰 | 淘汰氟化气体 |
-| the late | 已故的 | Crutzen |
-| wreak havoc with | 造成严重破坏 | 颗粒危害健康 |
-| look set to | 势将 | 两趋势继续 |
-| at large | 整体 | 世界整体 |
-| discernible | 可察觉的 | 可察觉的影响 |
-| eats into | 蚕食 | 转型蚕食化石燃料 |
-
-### 3. 重要语法
-
-- **将来完成时** `tens of thousands will have died`（截至某时点累计）
-- **部分倒装** `only for the largest economies does ... have effect`（only + 状语前置）
-- **过去分词后置** `idealism needed to imagine ...`（名词 + 过去分词短语）
-- **破折号插入** `exciting—and alarming—scientists`（节奏控制）
-- **比较级递进** `The more ..., the sooner ...`
-- **名词化表达** `Endurance is what remains`、`a scarcity of cooling clouds`
-- **双宾语** `buy a country a certain standing`
-
-### 4. 长难句
-
-- 原句 18（倒装）：`only for the largest economies does ...`
-- 原句 19（破折号 + 过去分词）：`The idea was conceived when ...`
-- 原句 25（插入语 + 条件）：`if nations can act in concert ...`
-
-### 5. 写作技巧
-
-1. **音乐主题闭环**：Cole Porter 引语开头（too hot）结尾（anything goes），首尾呼应形成完整叙事弧
-2. **由具体到抽象**：先给热浪/台风/山火等灾难事实，再引出晦涩的 albedo 概念——用"痛点"吸引读者理解"概念"
-3. **数字戏剧化**：50 万生命 vs 1°C、9 个月延误 vs 电费翻倍——把两难量化成可比较的砝码
-4. **先扬后抑**：承认净零理念之善（planetary housekeeping 的可爱比喻），再泼冷水（慢且小），最后讽刺时代已变（merely high vs delusional）
-5. **现实主义收尾**：不渲染绝望，给可执行清单（空调、甲烷、氟化气体），再谈地球工程——"讨论胜于沉默"是全文最低限度的结论
-6. **拟人化地理想象**：`which saw well over a million people evacuated`（台风"目睹"撤离）——用拟人增加画面感
-
-### 6. 可迁移表达
+## 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -544,3 +497,5 @@
 | `phase out` | 政策 | The country will phase out single-use plastics. |
 | `act in concert` | 国际/商务 | The two firms acted in concert to raise prices. |
 | `Endurance is what remains` | 观点总结 | 名词化收束句的模板 |
+
+

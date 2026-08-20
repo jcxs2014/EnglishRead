@@ -1,6 +1,119 @@
 ---
 状态: 未读
 ---
+
+
+## 词汇分级
+
+
+
+## 长难句专项
+
+### 长难句 1（原句 3）
+
+**原句：** They fear that Chinese companies could become tools of the state, stealing Western know-how and undermining America's global lead.
+
+**找主干：** They fear that ...（主谓 + that 宾语从句）。
+
+**找修饰：**
+- that Chinese companies could become tools of the state——宾语从句（恐惧内容）
+- stealing Western know-how——现在分词（伴随，作 becoming tools 的方式）
+- and undermining America's global lead——并列分词
+
+**找从句：** 宾语从句（that）。
+
+**恢复逻辑：** 他们担心中国公司成为国家工具，窃取西方技术，削弱美国领先地位。
+
+**整体理解：** that 从句内套两个并列现在分词作结果/伴随——把"成为工具"的后果展开。分词短语让恐惧内容更立体。
+
+### 长难句 2（原句 8）
+
+**原句：** Any restriction that made its services less available would therefore ripple through the entire industry.
+
+**找主干：** Any restriction would ripple through the entire industry（主谓宾）。
+
+**找修饰：**
+- that made its services less available——定语从句修饰 restriction
+- therefore——因果连接词
+
+**找从句：** 定语从句（that）。
+
+**恢复逻辑：** 任何让药明康德服务更难获得的限制，都会波及整个行业。
+
+**整体理解：** 主干是"限制会波及全行业"，that 从句限定限制的性质（使服务不可及）。ripple through 是比喻动词，形象。
+
+### 长难句 3（原句 14）
+
+**原句：** Western drugmakers rely on Chinese firms not just for manufacturing, but for a growing share of their research pipelines.
+
+**找主干：** Western drugmakers rely on Chinese firms（主谓宾）。
+
+**找修饰：**
+- not just for manufacturing——not just 介词短语
+- but for a growing share of their research pipelines——but 并列介词短语
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 西方药企依赖中国公司，不仅为制造，还为其研究管线日益增大的份额。
+
+**整体理解：** not just ... but for 构成递进：从制造（低端）到研发管线（高端）——显示依赖的深度。简单句但信息量大。
+
+### 长难句 4（原句 23）
+
+**原句：** The lesson of the past decade in tech is that over-broad restrictions breed resentment and inefficiency without making anyone safer.
+
+**找主干：** The lesson ... is that ...（主系表 + 表语从句）。
+
+**找修饰：**
+- of the past decade in tech——介词短语（限制话题范围）
+- over-broad restrictions breed resentment and inefficiency——表语从句主句
+- without making anyone safer——介词 + 动名词（否定结果）
+
+**找从句：** 表语从句（that）。
+
+**恢复逻辑：** 过去十年科技的教训是：过宽限制滋生怨恨和低效，却没能让任何人更安全。
+
+**整体理解：** 表语从句内，over-broad restrictions 作主语，breed 作谓语，without making ... safer 作伴随否定——"有害无益"的完整表达。
+
+---
+
+
+## 精读结束总结
+
+### 表达方式
+
+1. **先立后破**：开篇陈述恐慌（battleground/suspicion），再逐条反驳（Consider the role...）——论证完整。
+2. **具体企业作证**：用 WuXi AppTec、ADC 等具体公司与数据——让抽象论辩落地。
+3. **"Not just...but"递进**：rely on Chinese firms not just for manufacturing, but for ... pipelines——揭示依赖深度。
+4. **否定式平衡**：None of this means ... / not entirely without foundation——先否定再补充，显得公允。
+5. **对仗主张**：targeted controls, not blanket restrictions——用对仗亮出政策建议。
+6. **情感收束**：a double tragedy: for American patients, and for the global science——以双重悲剧收尾。
+
+### 语法要点
+
+- **动名词作主语**：Limiting them would make drugs more expensive——动名词短语作主语表假设。
+- **现在分词伴随**：stealing Western know-how and undermining America's global lead——分词展开后果。
+- **should/should not 对称**：should be scrutinised, but ... should not be swept up——用情态动词对仗划边界。
+- **形式主语**：It is easy to dismiss such fears——It 形式主语 + 真正主语不定式。
+- **祈使句引导**：Consider the role ...——用祈使句把论证拉回事实。
+
+### 长难句
+
+最值得模仿的是"否定式平衡句"（原句 23）：not entirely without foundation 双重否定表"并非全无根据"。其次是 not just...but 递进（原句 14）——从制造到研发的依赖升级。
+
+### 写作技巧
+
+- **受害者身份反转**：说"限制中国"会让"美国病人"受伤——把抽象安全辩论拉回具体生活。
+- **"安全关切该有"的诚实**：先承认 legitimate worries，再反对 blanket restrictions——立场可信。
+- **历史教训引证**：past decade in tech——用芯片战等先例证明封锁无效。
+- **定位句收束**：Biotech should not become the next casualty——一个比喻完成全文立意。
+
+## 可迁移表达
+- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
+- "tools of the state" — 用于"被国家利用的工具"。
+- "put pressure on prices" — 用于"压低价格的市场力量"。
+- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
+- "a double tragedy" — 用于"双重受害"的总结。## 词汇分级
 # Don't restrict Chinese biotech
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-17。核心论点：美国不能为了"对华强硬"就对中国的生物科技公司（如药明康德 WuXi AppTec、百济神州 BeiGene）施加全面限制。文章认为：限制会伤害美国病人（买不到便宜的创新药）、削弱美国自己的创新（中国公司提供全球供应链与研发管线），且"生物技术安全"被政治化夸大。主张：对真正敏感的技术（脑机接口等）定向管控，而不是对贸易普遍设障。
@@ -16,6 +129,7 @@
 - 第 6 段：结论——别把贸易当安全
 
 ---
+
 
 ## 一、逐句精读
 
@@ -393,202 +507,3 @@
 **为什么这样写：** 用"双重悲剧"（病人 + 科学）作情感收束——封锁的代价既伤人也伤知识。
 
 **段落逻辑：** 美国有权保护敏感技术 → 但权利有界（别殃及消费者）→ 历史教训（过宽限制怨恨又低效）→ 生物不该成牺牲品 → 双重悲剧收束。全文完成。---
-
-## 二、长难句专项
-
-### 长难句 1（原句 3）
-
-**原句：** They fear that Chinese companies could become tools of the state, stealing Western know-how and undermining America's global lead.
-
-**找主干：** They fear that ...（主谓 + that 宾语从句）。
-
-**找修饰：**
-- that Chinese companies could become tools of the state——宾语从句（恐惧内容）
-- stealing Western know-how——现在分词（伴随，作 becoming tools 的方式）
-- and undermining America's global lead——并列分词
-
-**找从句：** 宾语从句（that）。
-
-**恢复逻辑：** 他们担心中国公司成为国家工具，窃取西方技术，削弱美国领先地位。
-
-**整体理解：** that 从句内套两个并列现在分词作结果/伴随——把"成为工具"的后果展开。分词短语让恐惧内容更立体。
-
-### 长难句 2（原句 8）
-
-**原句：** Any restriction that made its services less available would therefore ripple through the entire industry.
-
-**找主干：** Any restriction would ripple through the entire industry（主谓宾）。
-
-**找修饰：**
-- that made its services less available——定语从句修饰 restriction
-- therefore——因果连接词
-
-**找从句：** 定语从句（that）。
-
-**恢复逻辑：** 任何让药明康德服务更难获得的限制，都会波及整个行业。
-
-**整体理解：** 主干是"限制会波及全行业"，that 从句限定限制的性质（使服务不可及）。ripple through 是比喻动词，形象。
-
-### 长难句 3（原句 14）
-
-**原句：** Western drugmakers rely on Chinese firms not just for manufacturing, but for a growing share of their research pipelines.
-
-**找主干：** Western drugmakers rely on Chinese firms（主谓宾）。
-
-**找修饰：**
-- not just for manufacturing——not just 介词短语
-- but for a growing share of their research pipelines——but 并列介词短语
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 西方药企依赖中国公司，不仅为制造，还为其研究管线日益增大的份额。
-
-**整体理解：** not just ... but for 构成递进：从制造（低端）到研发管线（高端）——显示依赖的深度。简单句但信息量大。
-
-### 长难句 4（原句 23）
-
-**原句：** The lesson of the past decade in tech is that over-broad restrictions breed resentment and inefficiency without making anyone safer.
-
-**找主干：** The lesson ... is that ...（主系表 + 表语从句）。
-
-**找修饰：**
-- of the past decade in tech——介词短语（限制话题范围）
-- over-broad restrictions breed resentment and inefficiency——表语从句主句
-- without making anyone safer——介词 + 动名词（否定结果）
-
-**找从句：** 表语从句（that）。
-
-**恢复逻辑：** 过去十年科技的教训是：过宽限制滋生怨恨和低效，却没能让任何人更安全。
-
-**整体理解：** 表语从句内，over-broad restrictions 作主语，breed 作谓语，without making ... safer 作伴随否定——"有害无益"的完整表达。
-
----
-
-## 三、精读结束总结
-
-### 表达方式
-
-1. **先立后破**：开篇陈述恐慌（battleground/suspicion），再逐条反驳（Consider the role...）——论证完整。
-2. **具体企业作证**：用 WuXi AppTec、ADC 等具体公司与数据——让抽象论辩落地。
-3. **"Not just...but"递进**：rely on Chinese firms not just for manufacturing, but for ... pipelines——揭示依赖深度。
-4. **否定式平衡**：None of this means ... / not entirely without foundation——先否定再补充，显得公允。
-5. **对仗主张**：targeted controls, not blanket restrictions——用对仗亮出政策建议。
-6. **情感收束**：a double tragedy: for American patients, and for the global science——以双重悲剧收尾。
-
-### 语法要点
-
-- **动名词作主语**：Limiting them would make drugs more expensive——动名词短语作主语表假设。
-- **现在分词伴随**：stealing Western know-how and undermining America's global lead——分词展开后果。
-- **should/should not 对称**：should be scrutinised, but ... should not be swept up——用情态动词对仗划边界。
-- **形式主语**：It is easy to dismiss such fears——It 形式主语 + 真正主语不定式。
-- **祈使句引导**：Consider the role ...——用祈使句把论证拉回事实。
-
-### 长难句
-
-最值得模仿的是"否定式平衡句"（原句 23）：not entirely without foundation 双重否定表"并非全无根据"。其次是 not just...but 递进（原句 14）——从制造到研发的依赖升级。
-
-### 写作技巧
-
-- **受害者身份反转**：说"限制中国"会让"美国病人"受伤——把抽象安全辩论拉回具体生活。
-- **"安全关切该有"的诚实**：先承认 legitimate worries，再反对 blanket restrictions——立场可信。
-- **历史教训引证**：past decade in tech——用芯片战等先例证明封锁无效。
-- **定位句收束**：Biotech should not become the next casualty——一个比喻完成全文立意。
-## 词汇分级
-
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| n. | 战场 | 原句 1 |
-| n. | 怀疑 | 原句 2 |
-| n. | 技术诀窍 | 原句 3 |
-| v. | 削弱 | 原句 3 |
-| v. | 助长 | 原句 4 |
-| n. | 合同研究 | 原句 6 |
-| 短语 | 波及、传导 | 原句 8 |
-| n. | 受害者 | 原句 9 |
-| 短语 | 施加压力 | 原句 10 |
-| adj. | 买得起的 | 原句 12 |
-| n. | 管线（在研项目） | 原句 14 |
-| 短语 | 占……份额 | 原句 15 |
-| 短语 | 使……失去 | 原句 16 |
-| adj. | 合理的 | 原句 18 |
-| adj. | 两用的 | 原句 18 |
-| adj. | 定向的 | 原句 19 |
-| adj. | 一刀切的 | 原句 19 |
-| v. | 受审查 | 原句 20 |
-| n. | 安全恐慌 | 原句 20 |
-| n. | 危言耸听 | 原句 22 |
-| n. | 牺牲品 | 原句 24 |
-| n. | 协作 | 原句 25 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| the | tech war against China — 对华科技战 |  |
-| tools | of the state — 国家的工具 |  |
-| steal | Western know-how — 窃取西方技术诀窍 |  |
-| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
-| big | pharma — 大药企 |  |
-| a | growing share of — 不断增长的份额 |  |
-| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
-| cutting | edge research — 尖端研究 |  |
-| swept | up in a security panic — 被卷进安全恐慌 |  |
-| have | every right to — 完全有权 |  |
-| a | fit of scaremongering — 一阵危言耸听 |  |
-| the | next casualty — 下一个牺牲品 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| CDMO | — 合同研发生产组织 |  |
-| clinical | trials — 临床试验 |  |
-| research | pipelines — 研究管线 |  |
-| gene | editing — 基因编辑 |  |
-| biosecurity | — 生物安全 |  |
-
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| the | tech war against China — 对华科技战 |  |
-| tools | of the state — 国家的工具 |  |
-| steal | Western know-how — 窃取西方技术诀窍 |  |
-| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
-| big | pharma — 大药企 |  |
-| a | growing share of — 不断增长的份额 |  |
-| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
-| cutting | edge research — 尖端研究 |  |
-| swept | up in a security panic — 被卷进安全恐慌 |  |
-| have | every right to — 完全有权 |  |
-| a | fit of scaremongering — 一阵危言耸听 |  |
-| the | next casualty — 下一个牺牲品 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| CDMO | — 合同研发生产组织 |  |
-| clinical | trials — 临床试验 |  |
-| research | pipelines — 研究管线 |  |
-| gene | editing — 基因编辑 |  |
-| biosecurity | — 生物安全 |  |
-
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| CDMO | — 合同研发生产组织 |  |
-| clinical | trials — 临床试验 |  |
-| research | pipelines — 研究管线 |  |
-| gene | editing — 基因编辑 |  |
-| biosecurity | — 生物安全 |  |
-
-
-## 可迁移表达
-- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
-- "tools of the state" — 用于"被国家利用的工具"。
-- "put pressure on prices" — 用于"压低价格的市场力量"。
-- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
-- "a double tragedy" — 用于"双重受害"的总结。## 词汇分级

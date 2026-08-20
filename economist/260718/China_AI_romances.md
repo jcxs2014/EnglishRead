@@ -1,16 +1,77 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— China wants to end AI romances
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| at once A and B | 同时是 | 恋人朋友家人 |
+| customised to mimic | 定制模仿 | AI 模拟亡友 |
+| so depressed that | 沮丧到 | 辞职 |
+| strip A from B | 剥离 | 去除人形角色 |
+| human-like personas | 人形角色 | 聊天机器人 |
+| comply with | 遵守 | 新规 |
+| banned outright | 彻底禁止 | 未成年人 |
+| turning A into B | 变成 | 通用机器人变伙伴 |
+| at one's expense | 由某人出钱 | 虚拟礼物 |
+| making a tidy sum | 大赚 | 情感变现 |
+| accounted for | 占 | 35% 收入 |
+| sticky relationships | 黏性关系 | 留存 |
+| part with money | 掏钱 | 订阅 |
+| provisions for | 条款 | 民事诉讼 |
+| impose penalties | 施罚 | 政府执法 |
+| on the understanding that | 基于……的理解 | 排除工具型 AI |
+| emotionally unavailable | 情感不可用 | 工具型机器人 |
+| vulnerable to | 易受伤害 | 平台依赖 |
 
-> 原文标题：China wants to end AI romances
-> 副标题：They are having too much impact on young people's lives
-> 栏目：China | No more bots
-> 来源：The Economist，2026-07-18 期
-> 精读日期：2026-08-09
-> 保存文件名：China_AI_romances.md
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| confidant | 知己 | AI 代理 |
+| infatuated | 痴迷的 | 防止用户迷恋 |
+| a no-no | 禁忌 | 色情内容 |
+| bespoke | 定制的 | 定制应用 |
+| plummeting | 骤降 | 生育率 |
+| unsettle | 使不安 | 领导层 |
 
----
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| spur | 刺激 | 生育 |
+
+### 3. 重要语法
+
+- **at once A and B**（同时是）
+- **so ... that ...**（程度/结果）
+- **protect A from doing**（双重介词并列）
+- **prevent A doing**（防止某人做某事）
+- **双重所有格**：`a dead friend of hers`
+- **动名词主语**：`providing virtual companion services ... will be banned`
+- **on the understanding that**（基于……的谅解）
+- **倍数表达**：`nearly four times its domestic-user count`
+- **would 表愿意/假设**：`she would be willing to pay half her monthly salary`
+
+### 4. 长难句
+
+- 原句 1（多重定语从句嵌套）
+- 原句 3（in order to + 双层定语）
+- 原句 10（protect A from B）
+- 原句 15（双层定语 + before 时间状语）
+
+### 5. 写作技巧
+
+1. **以人开头、以人结尾**：从 Yu Miao 的辞职到 Yu Miao 的醒悟——用一个人的故事承载宏大政策，避免干巴巴的政策罗列
+2. **政策数字具象化**：`half her monthly salary`、`$1.70 a month`、`eight or nine hours a day`——用具体数字让"情感依赖"可感
+3. **双重动机的平衡笔法**：先务实（保护未成年人）后意识形态（人口危机），并承认监管收窄（narrower than an earlier draft），分析不偏颇
+4. **心理学术语的双关借用**：`emotionally unavailable` 本是描述"回避感情的人"的亲密关系术语，移用于聊天机器人，一个词打通科技与心理
+5. **讽刺性反差**：国内"剥离人形"、海外"without change"照卖——监管的刀只落在中国用户头上
+6. **第三人称智库背书**：Zilan Qian、Matt Sheehan 的观点引述让判断有出处，保持报道客观
+7. **数据链递进**：390 万 → 280 万 → 35% 收入 → 1030 万海外用户——数字层层升级支撑"市场庞大"的判断
+
+### 精读结束总结
+
+
 
 ## 文本概览
 
@@ -342,126 +403,7 @@
 **段落逻辑：** 期待回来（17a）→ 愿意付钱（17b）→ 清醒认知（18）。从希望到接受现实。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 1（多重定语从句嵌套）
-
-> **原句:** Her confidant is an AI agent on Doubao, a chatbot made by ByteDance, that Ms Yu has customised to mimic a dead friend of hers.
-
-**① 找主干：** Her confidant is an AI agent
-**② 找修饰：** on Doubao（地点）+ a chatbot made by ByteDance（同位语 + 过去分词）+ that Ms Yu has customised to mimic a dead friend of hers（关系从句，先行词是 agent）
-**③ 找从句：** that Ms Yu has customised（关系从句）
-**④ 恢复逻辑：** 她的知己是一个 AI 代理，在字节跳动的 Doubao 上，被她定制为模仿一个已故朋友。
-**⑤ 整体理解：** 三层定语链（位置 → 出品方 → 用户定制）一次交代清楚 AI 代理的身份与来历。
-
-### 🔍 原句 3（in order to + 双层定语）
-
-> **原句:** Chinese tech firms are stripping human-like personas from their chatbots in order to comply with new government rules aimed at reducing "emotional dependence" on AI.
-
-**① 找主干：** Chinese tech firms are stripping human-like personas from their chatbots
-**② 找修饰：** in order to comply with ... rules（目的状语）+ aimed at reducing ...（过去分词作定语修饰 rules）
-**③ 找从句：** 无从句（只有短语）
-**④ 恢复逻辑：** 公司剥离人形角色，目的是遵守旨在减少情感依赖的新规。
-**⑤ 整体理解：** 目的（in order to）+ 定语（aimed at）两个短语层层推进，一句交代"动作-目的-依据"。
-
-### 🔍 原句 10（protect A from B）
-
-> **原句:** Regulators want to protect users, particularly minors, from becoming addicted and from being driven to extreme acts of financial recklessness or self-harm.
-
-**① 找主干：** Regulators want to protect users from ...
-**② 找修饰：** particularly minors（插入同位语）；from becoming addicted and from being driven to ...（两个并列介词短语）
-**③ 找从句：** 无从句
-**④ 恢复逻辑：** 监管者想保护用户（尤其未成年人）免于成瘾、免于被推向财务鲁莽或自伤。
-**⑤ 整体理解：** protect A from B1 and from B2 的平行结构，两个"保护对象"并列，被动"被推向"强调技术裹挟。
-
-### 🔍 原句 15（双层定语 + before 时间状语）
-
-> **原句:** Alibaba and ByteDance indicated that they would suspend features that allow Chinese users to create personalised AI characters before the rules took effect.
-
-**① 找主干：** Alibaba and ByteDance indicated that they would suspend features
-**② 找修饰：** that allow Chinese users to create personalised AI characters（定语从句修饰 features）；before the rules took effect（时间状语）
-**③ 找从句：** that they would suspend（宾语）；that allow ...（定语）；before the rules took effect（时间）
-**④ 恢复逻辑：** 两家公司表示将在新规生效前暂停允许用户创建个性化 AI 角色的功能。
-**⑤ 整体理解：** 三层嵌套（宾语 + 定语 + 时间）构成"谁在何时暂停什么"的完整信息。
-
----
-
-
-## 精读结束总结
-
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| at once A and B | 同时是 | 恋人朋友家人 |
-| customised to mimic | 定制模仿 | AI 模拟亡友 |
-| so depressed that | 沮丧到 | 辞职 |
-| strip A from B | 剥离 | 去除人形角色 |
-| human-like personas | 人形角色 | 聊天机器人 |
-| comply with | 遵守 | 新规 |
-| banned outright | 彻底禁止 | 未成年人 |
-| turning A into B | 变成 | 通用机器人变伙伴 |
-| at one's expense | 由某人出钱 | 虚拟礼物 |
-| making a tidy sum | 大赚 | 情感变现 |
-| accounted for | 占 | 35% 收入 |
-| sticky relationships | 黏性关系 | 留存 |
-| part with money | 掏钱 | 订阅 |
-| provisions for | 条款 | 民事诉讼 |
-| impose penalties | 施罚 | 政府执法 |
-| on the understanding that | 基于……的理解 | 排除工具型 AI |
-| emotionally unavailable | 情感不可用 | 工具型机器人 |
-| vulnerable to | 易受伤害 | 平台依赖 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| confidant | 知己 | AI 代理 |
-| infatuated | 痴迷的 | 防止用户迷恋 |
-| a no-no | 禁忌 | 色情内容 |
-| bespoke | 定制的 | 定制应用 |
-| plummeting | 骤降 | 生育率 |
-| unsettle | 使不安 | 领导层 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| spur | 刺激 | 生育 |
-
-### 3. 重要语法
-
-- **at once A and B**（同时是）
-- **so ... that ...**（程度/结果）
-- **protect A from doing**（双重介词并列）
-- **prevent A doing**（防止某人做某事）
-- **双重所有格**：`a dead friend of hers`
-- **动名词主语**：`providing virtual companion services ... will be banned`
-- **on the understanding that**（基于……的谅解）
-- **倍数表达**：`nearly four times its domestic-user count`
-- **would 表愿意/假设**：`she would be willing to pay half her monthly salary`
-
-### 4. 长难句
-
-- 原句 1（多重定语从句嵌套）
-- 原句 3（in order to + 双层定语）
-- 原句 10（protect A from B）
-- 原句 15（双层定语 + before 时间状语）
-
-### 5. 写作技巧
-
-1. **以人开头、以人结尾**：从 Yu Miao 的辞职到 Yu Miao 的醒悟——用一个人的故事承载宏大政策，避免干巴巴的政策罗列
-2. **政策数字具象化**：`half her monthly salary`、`$1.70 a month`、`eight or nine hours a day`——用具体数字让"情感依赖"可感
-3. **双重动机的平衡笔法**：先务实（保护未成年人）后意识形态（人口危机），并承认监管收窄（narrower than an earlier draft），分析不偏颇
-4. **心理学术语的双关借用**：`emotionally unavailable` 本是描述"回避感情的人"的亲密关系术语，移用于聊天机器人，一个词打通科技与心理
-5. **讽刺性反差**：国内"剥离人形"、海外"without change"照卖——监管的刀只落在中国用户头上
-6. **第三人称智库背书**：Zilan Qian、Matt Sheehan 的观点引述让判断有出处，保持报道客观
-7. **数据链递进**：390 万 → 280 万 → 35% 收入 → 1030 万海外用户——数字层层升级支撑"市场庞大"的判断
-
-### 6. 可迁移表达
+## 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -477,3 +419,5 @@
 | `on the understanding that` | 正式约定 | We proceed on the understanding that funds are secured. |
 | `vulnerable to` | 风险描述 | The system is vulnerable to attack. |
 | `at one's expense` | 指出代价 | The upgrade came at the user's expense. |
+
+

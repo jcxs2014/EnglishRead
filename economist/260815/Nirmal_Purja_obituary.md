@@ -2,6 +2,123 @@
 状态: 未读
 ---
 
+
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| close brush with death | 与死亡擦肩 | He had close brushes with death |
+| Death Zone | 死亡地带（8000m+术语） | That was the Death Zone |
+| had a field day | 大做文章 | Critics had a field day |
+| in the flow/zone | 进入心流状态 | He was in the flow. In the zone, bro! |
+| lived to climb | 为攀登而活 | Because he lived to climb |
+| make much of | 不太在意 | He didn't make much of... |
+| not in the blood | 骨子里没有 | Quitting is not in the blood |
+| set out to prove | 决心证明 | he set out to prove |
+| shawl | v. 披上围巾（英雄礼仪） | he was shawled as a hero |
+| take up | 接手、采纳 | was taken up by Netflix |
+| two-finger salute | 双指敬礼（英式侮辱） | give the carpers a good two-finger salute |
+| yomp | v. 长途行军（英军术语） | Yomping one day in the Welsh hills |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| ballsy | adj. 大胆的（口语） | ballsy back-to-back ascents |
+| badass | adj. 彪悍的（口语） | not yet a badass trailblazer |
+| carper | n. 吹毛求疵的人 | give the carpers a good two-finger salute |
+| gripe | n. 抱怨（口语） | the gripe about oxygen |
+| laboured | v. 艰苦努力 | He had laboured to find funding |
+| perch | v. 栖息 | perching on summits |
+| purist | n. 纯粹主义者 | Purists scorned all that |
+| scorn | v. 嗤之以鼻 | Purists scorned all that |
+| stonking | adj. 极大的（英式口语） | a stonking hangover |
+| trailblaze | v. 开路 | he had trailblazed 70% of the route |
+| unassisted | adj. 无辅助的 | the unassisted human body |
+| waved off | 挥手表示不在意 | He waved it all off |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| toil | v. 艰苦跋涉 | toiling across it |
+| altitude | n. 海拔 | The altitude didn't seem to be affecting him |
+| altitude sickness | n. 高原反应 | had met altitude sickness so bad |
+| avalanche | n. 雪崩 | sent down an avalanche |
+| blazing | v. 开辟（trailblazing） | took his turn at trailblazing |
+| conquer | v. 征服 | The better mountain to conquer |
+| discarded | v. 丢弃 | the rubbish |
+| funding | n. 资金 | He had laboured to find funding |
+| horizon | n. 地平线 | filling the horizon |
+| magnificent | adj. 壮丽的 | the magnificent wall of rock and snow |
+| mob | v. 围堵 | He was mobbed at airports |
+| route | n. 路线 | finding new routes |
+| summit | n./v. 山顶/登顶 | perching on summits / summitting |
+| withstand | v. 承受 | the unassisted human body began to fail |
+
+
+
+## 精读结束总结
+
+### 文体特征
+这是一篇典型的 **Economist 讣告文学**，具有以下特点：
+1. **回溯式开场：** 不从出生讲起，而是从一个有象征意义的时刻（攀登 Dhaulagiri）切入
+2. **数字驱动叙事：** 大量使用具体数字（8,167米、70%、6个月6天、七年多、18小时、21小时、100个来回、75磅、一百万美元）代替形容词
+3. **语域跳跃：** 在正式叙事中穿插口语化表达（bro、ballsy、badass、stonking、gripe），刻画人物性格
+4. **拟人化山峰：** 将山峰塑造为有意志的角色——山会"召唤"、会"说可以"、会"给最后的话语权"
+5. **隐喻升华：** "their own mountains" 将登山精神普世化
+6. **宿命式结尾：** "The mountain, in the end, had the last word" 完成了全文的叙事弧线
+
+### 叙事结构
+文章采用 **非线性叙事**：
+- 第1-2段：起源与觉醒（时间倒叙）
+- 第3-6段：成就与争议（时间顺序）
+- 第7段：性格成因（倒叙补充）
+- 第8-9段：精神世界与终章（回到当下）
+
+### 人物刻画手法
+1. **通过数字：** 70%、6个月6天、7年多、18小时、21小时、100个来回——用数据展示超凡
+2. **通过细节：** 鸡舍、保温杯、反光太阳镜、香槟、百万美元——用画面感建立形象
+3. **通过对比：** 不知道酒→爱喝香槟；乡村少年→曼哈顿广告牌；种族歧视→打破纪录
+4. **通过直接引语：** "In the zone, bro!"、"Quitting is not in the blood, sir."、"Can I go, or not?"
+5. **通过他人视角：** "(crazy, everyone said)"、批评者、纯粹主义者
+
+### 核心主题
+1. **人与自然的关系：** 人可以挑战山，但山永远有最终决定权
+2. **不可能的可能：** Project Possible 的核心信念——如果你下定决心，什么都能做到
+3. **身份与归属：** 尼泊尔乡村少年→英军廓尔喀兵→全球明星→尼泊尔英雄
+4. **勇气与敬畏：** 不是不怕死，而是理解死亡；不是征服山，而是请求山的许可
+
+---
+
+
+
+## 可迁移表达
+
+### 叙事技巧
+1. **回溯式开场：** "His climbing career was still young when..." ——从生涯中段切入，制造宿命感
+2. **数字对比：** "It took him six months and six days; the previous record was more than seven years." ——纯数字对比，不需形容词
+3. **拟声词叙事：** "Boom! Boom! Boom!" ——用声音模拟创造沉浸感
+4. **语域跳跃：** "He was in the flow. In the zone, bro!" ——从正式到口语，刻画人物
+5. **拟人化非人事物：** "Annapurna said yes... The mountain had the last word." ——赋予自然以意志
+
+### 高级表达
+1. **had a field day with** ——大做文章（贬义）
+2. **close brushes with death** ——与死亡擦肩
+3. **waved it all off** ——挥之一笑、不屑一顾
+4. **not in the blood** ——骨子里没有（比喻与生俱来）
+5. **set out to prove** ——决心证明
+6. **take up** ——接手、采纳（被动语态：was taken up by Netflix）
+7. **make much of** ——不太在意、不以为然
+8. **two-finger salute** ——双指敬礼（英式侮辱手势）
+9. **lived to climb** ——为攀登而活（"live to do sth" 表示"活着就是为了做某事"）
+10. **the last word** ——最后的话语权、最终决定
+
+### 句型模板
+1. **"His whole purpose in life was to..."** ——定义人物的核心使命
+2. **"He became world-famous when..."** ——交代转折点
+3. **"Because he lived to..., the challenges went on."** ——因果过渡
+4. **"Whatever answer he..., on [date]..."** ——让步+转折，制造宿命感
+5. **"The mountain, in the end, had the last word."** ——拟人化收束
 # Nirmal Purja performed momentous feats in the Death Zone（精读分析）
 
 ## 概览
@@ -874,174 +991,3 @@
 **段落逻辑：** Annapurna 说"可以"但又降下雪崩（双重性） → 他坚持与山对话（信仰） → Broad Peak 上再次问山（平行对照） → 无论得到什么回答，雪崩带走了他（结局） → 他几乎完成第三轮（成就总结+惋惜） → 山最终拥有最后话语权（主题收束）
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 1. 原句38（第5段）
-
-> His first attempt on it in 2016 had been unwise, a quick-as-possible solo climb (crazy, everyone said), in which he, not yet a badass trailblazer, had met altitude sickness so bad that his wheezing lungs soon forced him down.
-
-**结构拆解：**
-- **主句：** His first attempt on it in 2016 had been unwise
-- **同位语：** a quick-as-possible solo climb（解释 "attempt" 是什么样的尝试）
-- **括号插入语：** (crazy, everyone said)（旁白式评论）
-- **定语从句：** in which he... had met altitude sickness so bad that...
-  - **插入语：** not yet a badass trailblazer（描述他当时的状态）
-  - **结果状语从句：** so bad that his wheezing lungs soon forced him down
-
-**写作技巧：** 这个句子使用了多层嵌套——主句→同位语→括号→定语从句→插入语→结果从句。这种"洋葱式"结构在 Economist 中很常见，目的是在一句话中容纳尽可能多的信息。括号中的 "(crazy, everyone said)" 创造了"旁白"效果，增加了叙事层次。
-
-### 2. 原句50（第6段）
-
-> The whole point of Project Possible was to show people everywhere what they could achieve if they set their minds to it; how to conquer their own mountains, whatever those were.
-
-**结构拆解：**
-- **主句：** The whole point of Project Possible was to show people everywhere
-- **并列宾语从句1：** what they could achieve if they set their minds to it
-  - **条件从句：** if they set their minds to it
-- **并列宾语从句2：** how to conquer their own mountains
-  - **让步从句：** whatever those were
-
-**写作技巧：** 分号连接两个并列的宾语从句，第二个从句 "their own mountains" 是全文的核心隐喻。"whatever those were" 的开放性结尾暗示每个人面临的困难不同，但攀登的精神是通用的。
-
-### 3. 原句60（第8段）
-
-> As he tumbled, building up speed, his ice axe failing to get purchase in the snow, he expected to die, but caught a lower section of the rope in time.
-
-**结构拆解：**
-- **时间状语从句：** As he tumbled
-- **伴随状语1：** building up speed（现在分词短语）
-- **伴随状语2：** his ice axe failing to get purchase in the snow（独立主格结构）
-- **主句：** he expected to die
-- **转折：** but caught a lower section of the rope in time
-
-**写作技巧：** 前三个成分（tumbled / building up / failing）都是"加速"的描写，模拟坠落的过程；最后的 "caught" 是突然的停止。这种节奏变化让读者"体验"了坠落和获救。
-
-### 4. 原句69（第9段）
-
-> Whatever answer he initially received, on July 30th another avalanche carried him and his party away.
-
-**结构拆解：**
-- **让步状语从句：** Whatever answer he initially received
-- **时间状语：** on July 30th
-- **主句：** another avalanche carried him and his party away
-
-**写作技巧：** "Whatever" 制造了开放性的解读空间——山可能说了"可以"，也可能说了"不行"。"carried away" 用温柔的动词描述死亡，暗示山是"带走了他"而非"杀死了他"。整句话只有15个词，却承载了全文最沉重的信息。
-
----
-
-
-## 精读结束总结
-
-### 文体特征
-这是一篇典型的 **Economist 讣告文学**，具有以下特点：
-1. **回溯式开场：** 不从出生讲起，而是从一个有象征意义的时刻（攀登 Dhaulagiri）切入
-2. **数字驱动叙事：** 大量使用具体数字（8,167米、70%、6个月6天、七年多、18小时、21小时、100个来回、75磅、一百万美元）代替形容词
-3. **语域跳跃：** 在正式叙事中穿插口语化表达（bro、ballsy、badass、stonking、gripe），刻画人物性格
-4. **拟人化山峰：** 将山峰塑造为有意志的角色——山会"召唤"、会"说可以"、会"给最后的话语权"
-5. **隐喻升华：** "their own mountains" 将登山精神普世化
-6. **宿命式结尾：** "The mountain, in the end, had the last word" 完成了全文的叙事弧线
-
-### 叙事结构
-文章采用 **非线性叙事**：
-- 第1-2段：起源与觉醒（时间倒叙）
-- 第3-6段：成就与争议（时间顺序）
-- 第7段：性格成因（倒叙补充）
-- 第8-9段：精神世界与终章（回到当下）
-
-### 人物刻画手法
-1. **通过数字：** 70%、6个月6天、7年多、18小时、21小时、100个来回——用数据展示超凡
-2. **通过细节：** 鸡舍、保温杯、反光太阳镜、香槟、百万美元——用画面感建立形象
-3. **通过对比：** 不知道酒→爱喝香槟；乡村少年→曼哈顿广告牌；种族歧视→打破纪录
-4. **通过直接引语：** "In the zone, bro!"、"Quitting is not in the blood, sir."、"Can I go, or not?"
-5. **通过他人视角：** "(crazy, everyone said)"、批评者、纯粹主义者
-
-### 核心主题
-1. **人与自然的关系：** 人可以挑战山，但山永远有最终决定权
-2. **不可能的可能：** Project Possible 的核心信念——如果你下定决心，什么都能做到
-3. **身份与归属：** 尼泊尔乡村少年→英军廓尔喀兵→全球明星→尼泊尔英雄
-4. **勇气与敬畏：** 不是不怕死，而是理解死亡；不是征服山，而是请求山的许可
-
----
-
-
-## 可迁移表达
-
-### 叙事技巧
-1. **回溯式开场：** "His climbing career was still young when..." ——从生涯中段切入，制造宿命感
-2. **数字对比：** "It took him six months and six days; the previous record was more than seven years." ——纯数字对比，不需形容词
-3. **拟声词叙事：** "Boom! Boom! Boom!" ——用声音模拟创造沉浸感
-4. **语域跳跃：** "He was in the flow. In the zone, bro!" ——从正式到口语，刻画人物
-5. **拟人化非人事物：** "Annapurna said yes... The mountain had the last word." ——赋予自然以意志
-
-### 高级表达
-1. **had a field day with** ——大做文章（贬义）
-2. **close brushes with death** ——与死亡擦肩
-3. **waved it all off** ——挥之一笑、不屑一顾
-4. **not in the blood** ——骨子里没有（比喻与生俱来）
-5. **set out to prove** ——决心证明
-6. **take up** ——接手、采纳（被动语态：was taken up by Netflix）
-7. **make much of** ——不太在意、不以为然
-8. **two-finger salute** ——双指敬礼（英式侮辱手势）
-9. **lived to climb** ——为攀登而活（"live to do sth" 表示"活着就是为了做某事"）
-10. **the last word** ——最后的话语权、最终决定
-
-### 句型模板
-1. **"His whole purpose in life was to..."** ——定义人物的核心使命
-2. **"He became world-famous when..."** ——交代转折点
-3. **"Because he lived to..., the challenges went on."** ——因果过渡
-4. **"Whatever answer he..., on [date]..."** ——让步+转折，制造宿命感
-5. **"The mountain, in the end, had the last word."** ——拟人化收束
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| close brush with death | 与死亡擦肩 | He had close brushes with death |
-| Death Zone | 死亡地带（8000m+术语） | That was the Death Zone |
-| had a field day | 大做文章 | Critics had a field day |
-| in the flow/zone | 进入心流状态 | He was in the flow. In the zone, bro! |
-| lived to climb | 为攀登而活 | Because he lived to climb |
-| make much of | 不太在意 | He didn't make much of... |
-| not in the blood | 骨子里没有 | Quitting is not in the blood |
-| set out to prove | 决心证明 | he set out to prove |
-| shawl | v. 披上围巾（英雄礼仪） | he was shawled as a hero |
-| take up | 接手、采纳 | was taken up by Netflix |
-| two-finger salute | 双指敬礼（英式侮辱） | give the carpers a good two-finger salute |
-| yomp | v. 长途行军（英军术语） | Yomping one day in the Welsh hills |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ballsy | adj. 大胆的（口语） | ballsy back-to-back ascents |
-| badass | adj. 彪悍的（口语） | not yet a badass trailblazer |
-| carper | n. 吹毛求疵的人 | give the carpers a good two-finger salute |
-| gripe | n. 抱怨（口语） | the gripe about oxygen |
-| laboured | v. 艰苦努力 | He had laboured to find funding |
-| perch | v. 栖息 | perching on summits |
-| purist | n. 纯粹主义者 | Purists scorned all that |
-| scorn | v. 嗤之以鼻 | Purists scorned all that |
-| stonking | adj. 极大的（英式口语） | a stonking hangover |
-| trailblaze | v. 开路 | he had trailblazed 70% of the route |
-| unassisted | adj. 无辅助的 | the unassisted human body |
-| waved off | 挥手表示不在意 | He waved it all off |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| toil | v. 艰苦跋涉 | toiling across it |
-| altitude | n. 海拔 | The altitude didn't seem to be affecting him |
-| altitude sickness | n. 高原反应 | had met altitude sickness so bad |
-| avalanche | n. 雪崩 | sent down an avalanche |
-| blazing | v. 开辟（trailblazing） | took his turn at trailblazing |
-| conquer | v. 征服 | The better mountain to conquer |
-| discarded | v. 丢弃 | the rubbish |
-| funding | n. 资金 | He had laboured to find funding |
-| horizon | n. 地平线 | filling the horizon |
-| magnificent | adj. 壮丽的 | the magnificent wall of rock and snow |
-| mob | v. 围堵 | He was mobbed at airports |
-| route | n. 路线 | finding new routes |
-| summit | n./v. 山顶/登顶 | perching on summits / summitting |
-| withstand | v. 承受 | the unassisted human body began to fail |
-

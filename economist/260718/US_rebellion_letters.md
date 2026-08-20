@@ -1,15 +1,66 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— The United States is once again in a state of rebellion
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| too convenient | 图省事的诊断 | 对社论诊断的批评 |
+| as if citizens were merely one constituency | 好像公民只是众多选民之一 | 制度忽视公民的观感 |
+| succumbing to | 屈服于 | 美国未屈服于宗教民族主义 |
+| non-potable / potable | 不可饮用 / 可饮用 | 水源性质差异 |
+| an order of magnitude | 一个数量级 | 潜在无家可归者规模 |
+| one small misfortune away from | 一步之遥 | 贫困家庭脆弱性 |
+| cautionary tale | 警示故事 | 预测之难 |
+| brought to mind | 使想起 | 引乔伊斯名言 |
+| culminating in | 最终促成 | 1956 公路法 |
 
-> 原文标题：The United States is once again in a state of rebellion
-> 副标题：Also this week, the backlash against AI, homelessness, Eisenhower and roads, oil predictions
-> 来源：The Economist，2026-07-18 期，Letters（读者来信）板块
-> 精读日期：2026-08-09
-> 保存文件名：US_rebellion_letters.md
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| the links | 高尔夫球场 | 数据中心的用水比较 |
+| reservoir | 蓄水池 | 潜在无家可归者来源 |
+| mea culpa | 认错（拉丁语） | 《经济学人》油价认错 |
+| volitional | 自愿的 | 错误是自愿的 |
+| gruelling | 艰苦卓绝 | 1919 车队 |
+| ordeal | 磨难 | 车队经历 |
 
----
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| spasm | 痉挛/突发 | 反叛不是美国独有痉挛 |
+
+### 3. 重要语法
+
+- **as if + 虚拟语气**：`as if citizens were merely one constituency`（与事实相反的假设）
+- **Nor 倒装**：`Nor is America plainly succumbing to ...`
+- **not so much A as B**：`not so much about the technology as ... the far larger contest`
+- **not just A, but B**：`not just how much water is used, but whether ...`
+- **同位语链**：`a demand for cultural confidence, a belief that ...`
+- **there be + 过去分词**：`There was one important detail missing`
+- **动名词主语**：`Providing ... will not fully solve`
+- **形式主语**：`It was a big relief to learn that ...`
+
+### 4. 长难句
+
+- 原句 1（长定语链：sweeping analysis ... concluded by contemplating）
+- 原句 7（as if 虚拟 + 同位语链）
+- 原句 15（数量级 + 距离隐喻）
+
+### 5. 写作技巧
+
+1. **Letters 文体的"先复述后补充"**：每封信都先准确复述原文（含日期、标题、引语），再给新角度——礼貌而有据
+2. **纠错的三级动作**：指出遗漏（Dorfner）→ 区分维度（水量 vs 水源）→ 给出可操作结论（是否与人争水）
+3. **反转归因**：Lauck 把"选民愤怒"重写为"体制先失职"——同一现象，归因不同结论迥异
+4. **数据提升说服力**：数量级（10 倍）、比例（90% 收入）、里程（3200 英里）——具体数字比形容词可信
+5. **幽默调节**：mild injustice、more queuing and less ammunition、Adam Smith of oil——严肃话题不失诙谐
+6. **引经据典收尾**：乔伊斯"volitional errors"——把媒体认错升格为求知伦理，提升文章格调
+7. **缩略词造词**：CAESARE（谐音凯撒）——用自造词制造记忆点和立场
+
+### 精读结束总结
+
+
 
 ## 文本概览
 
@@ -402,105 +453,7 @@
 **段落逻辑：** 惊讶认错（20）→ 祖师爷也错（21）→ 拒绝过早认错（22）→ 文学正名（23）→ 幽默收尾（24）。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 1（长定语链）
-
-> **原句:** Your sweeping analysis of "The Wrecking-ball revolution" (July 4th) in geopolitics initiated by Donald Trump concluded by contemplating a new balance-of-power regime that nevertheless remains grounded in the principles established by the peace of Westphalia in 1648.
-
-**① 找主干：** Your sweeping analysis ... concluded by contemplating a regime
-**② 找修饰：** of "The Wrecking-ball revolution" ... initiated by Donald Trump（分析对象）；by contemplating（方式状语）
-**③ 找从句：** that ... grounded in the principles（regime 的定语从句）；established by the peace of Westphalia（过去分词短语）
-**④ 恢复逻辑：** 分析（关于特朗普发起的革命）→ 结论（思考新均势体制）→ 体制属性（扎根于 1648 原则）
-**⑤ 整体理解：** 复述原文核心论点的浓缩句——一句包含标题、对象、结论与历史根基。
-
-### 🔍 原句 7（as if 虚拟 + 长定语）
-
-> **原句:** Much of what you call nativism is closer to a demand for cultural confidence, a belief that liberal societies should be able to say what their norms are before importing large numbers of people from countries shaped by very different religious and legal traditions.
-
-**① 找主干：** Much ... is closer to a demand for cultural confidence
-**② 找修饰：** of what you call nativism（主语的后置定语从句）；a belief（同位语）
-**③ 找从句：** what you call nativism；that liberal societies should be able to say ...；what their norms are；from countries shaped by ...
-**④ 恢复逻辑：** 本土主义 ≈ 文化自信的诉求 ≈（进一步说明）一种"引进前先自我说明规范"的信念
-**⑤ 整体理解：** 用同位语链条把"本土主义"重新定义为"文化自信"，是反驳社论诊断的核心论证句。
-
-### 🔍 原句 15（数量级 + 距离隐喻）
-
-> **原句:** The reservoir of potentially new homeless people is an order of magnitude greater than the number of homeless.
-
-**① 找主干：** The reservoir ... is greater than the number
-**② 找修饰：** of potentially new homeless people（reservoir 的定语）；an order of magnitude（程度状语）
-**③ 找从句：** 无从句，但比较结构暗含"潜在 vs 现有"两类数量
-**④ 恢复逻辑：** 潜在新增无家可归者 ≈ 现有数量的 10 倍
-**⑤ 整体理解：** 用"蓄水池"隐喻 + 数量级表述，说明无家可归是"会补位"的系统性问题而非存量问题。
-
----
-
-
-## 精读结束总结
-
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| too convenient | 图省事的诊断 | 对社论诊断的批评 |
-| as if citizens were merely one constituency | 好像公民只是众多选民之一 | 制度忽视公民的观感 |
-| succumbing to | 屈服于 | 美国未屈服于宗教民族主义 |
-| non-potable / potable | 不可饮用 / 可饮用 | 水源性质差异 |
-| an order of magnitude | 一个数量级 | 潜在无家可归者规模 |
-| one small misfortune away from | 一步之遥 | 贫困家庭脆弱性 |
-| cautionary tale | 警示故事 | 预测之难 |
-| brought to mind | 使想起 | 引乔伊斯名言 |
-| culminating in | 最终促成 | 1956 公路法 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| the links | 高尔夫球场 | 数据中心的用水比较 |
-| reservoir | 蓄水池 | 潜在无家可归者来源 |
-| mea culpa | 认错（拉丁语） | 《经济学人》油价认错 |
-| volitional | 自愿的 | 错误是自愿的 |
-| gruelling | 艰苦卓绝 | 1919 车队 |
-| ordeal | 磨难 | 车队经历 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| spasm | 痉挛/突发 | 反叛不是美国独有痉挛 |
-
-### 3. 重要语法
-
-- **as if + 虚拟语气**：`as if citizens were merely one constituency`（与事实相反的假设）
-- **Nor 倒装**：`Nor is America plainly succumbing to ...`
-- **not so much A as B**：`not so much about the technology as ... the far larger contest`
-- **not just A, but B**：`not just how much water is used, but whether ...`
-- **同位语链**：`a demand for cultural confidence, a belief that ...`
-- **there be + 过去分词**：`There was one important detail missing`
-- **动名词主语**：`Providing ... will not fully solve`
-- **形式主语**：`It was a big relief to learn that ...`
-
-### 4. 长难句
-
-- 原句 1（长定语链：sweeping analysis ... concluded by contemplating）
-- 原句 7（as if 虚拟 + 同位语链）
-- 原句 15（数量级 + 距离隐喻）
-
-### 5. 写作技巧
-
-1. **Letters 文体的"先复述后补充"**：每封信都先准确复述原文（含日期、标题、引语），再给新角度——礼貌而有据
-2. **纠错的三级动作**：指出遗漏（Dorfner）→ 区分维度（水量 vs 水源）→ 给出可操作结论（是否与人争水）
-3. **反转归因**：Lauck 把"选民愤怒"重写为"体制先失职"——同一现象，归因不同结论迥异
-4. **数据提升说服力**：数量级（10 倍）、比例（90% 收入）、里程（3200 英里）——具体数字比形容词可信
-5. **幽默调节**：mild injustice、more queuing and less ammunition、Adam Smith of oil——严肃话题不失诙谐
-6. **引经据典收尾**：乔伊斯"volitional errors"——把媒体认错升格为求知伦理，提升文章格调
-7. **缩略词造词**：CAESARE（谐音凯撒）——用自造词制造记忆点和立场
-
-### 6. 可迁移表达
+## 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -514,3 +467,5 @@
 | `the Adam Smith of` | 行业评价 | She is the Adam Smith of logistics. |
 | `culminating in` | 历史叙事 | Years of reform culminated in a new constitution. |
 | `brought to mind` | 文学/写作 | The scene brought to mind a painting by Turner. |
+
+

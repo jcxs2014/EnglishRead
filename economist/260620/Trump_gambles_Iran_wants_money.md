@@ -1,6 +1,121 @@
 ---
 状态: 未读
 ---
+
+
+## 词汇分级
+
+
+
+## 长难句专项
+
+### 长难句 1（原句 2）
+
+**原句：** It wants to make a deal with the country's leaders—one that would see them give up their nuclear programme, while the West lifts economic sanctions.
+
+**找主干：** It wants to make a deal with the country's leaders（主谓宾）。
+
+**找修饰：**
+- —one that would see them give up their nuclear programme——破折号同位语（one 指代 deal），that 定语从句
+- while the West lifts economic sanctions——while 对比从句（时间/对比）
+- see them give up——感官动词 + 宾语 + 省 to 不定式
+
+**找从句：** 定语从句（that）+ 时间/对比从句（while）。
+
+**恢复逻辑：** 政府想做一笔交易——这笔交易会让伊朗放弃核计划，同时西方解除制裁。
+
+**整体理解：** 破折号引出同位语 one，把"deal"的具体内容展开；that 从句套 see them give up（让……放弃）；while 作对比（一边弃核，一边解制裁）。结构虽长但层次清晰。
+
+### 长难句 2（原句 10）
+
+**原句：** Under the agreement Iran may well be a nuclear-threshold state—with the capacity to sprint to a bomb within months if it chose to.
+
+**找主干：** Iran may well be a nuclear-threshold state（主系表）。
+
+**找修饰：**
+- Under the agreement——介词短语（前提条件）
+- —with the capacity to sprint to a bomb within months——破折号 + with 短语（补充说明能力）
+- if it chose to——条件从句（虚拟，表"若选择"）
+
+**找从句：** 条件从句（if it chose to）。
+
+**恢复逻辑：** 在该协议下，伊朗很可能成为核门槛国家——拥有数月内冲刺造核弹的能力（若它选择如此）。
+
+**整体理解：** 主干简练，破折号后的 with 短语承载关键信息（门槛能力的细节），if it chose to 用过去式虚拟，暗含"目前无意、但有能力"。
+
+### 长难句 3（原句 23）
+
+**原句：** It is that, having given the regime a rare moment of relief, the Trump administration will sit back and allow it to grow stronger.
+
+**找主干：** It is that ... the Trump administration will sit back and allow it to grow stronger（主系表 + 表语从句）。
+
+**找修饰：**
+- having given the regime a rare moment of relief——现在分词完成式（动作先于主句，表"先给了喘息"）
+- allow it to grow stronger——让……变强（宾补）
+
+**找从句：** 表语从句（that ... will sit back）。
+
+**恢复逻辑：** 最坏情况是：先给了政权难得的喘息，然后特朗普政府袖手旁观，任由伊朗坐大。
+
+**整体理解：** having done 分词短语放在主句前，表示"先发生的事"；主句用 will 表未来推测；allow it to grow 用省 to 不定式作宾补。这是"最坏情况"的展开。
+
+### 长难句 4（原句 31）
+
+**原句：** In the long run, the question is not whether Iran will abandon its programme, but how long it can be contained.
+
+**找主干：** the question is not ... but ...（主系表 + not...but 并列）。
+
+**找修饰：**
+- In the long run——时间状语
+- whether Iran will abandon its programme——not 后的表语从句
+- how long it can be contained——but 后的表语从句（被动）
+
+**找从句：** 两个表语从句（whether / how long）。
+
+**恢复逻辑：** 长远看，问题不是伊朗是否弃核，而是它能被遏制多久。
+
+**整体理解：** not...but 连接两个表语从句，构成"问题转换"的句式——从"是否（whether）"转向"多久（how long）"，是社论中常见的推进式问句。
+
+---
+
+
+## 精读结束总结
+
+### 表达方式
+
+1. **赌局隐喻贯穿**：开篇"gambling"，结尾"the gamble does not come off"——用一个隐喻撑起全篇。
+2. **否定式破题**：None of this means ... / The worst-case scenario is not that ...——先否定，再给正解，增加思辨感。
+3. **"表面 vs 实质"结构**：On the surface ... But ...——揭示表面熟悉下的实质危险。
+4. **not...but 推进**：not whether ... but how long——用对仗把问题焦点转移。
+5. **短句锤击**：The deal does nothing to curb this——超短句作段落重锤。
+6. **金句收束**：There should be no more magical thinking about Iran——以一句警告收尾。
+
+### 语法要点
+
+- **破折号同位语**：—one that would see them give up...——补充说明前文名词。
+- **感官动词 + 省 to**：see them give up their nuclear programme——see 后接省 to 不定式。
+- **现在分词完成式**：having given the regime a rare moment of relief——先于主句的动作。
+- **even while 让步**：even while sanctions are being lifted——表"即使在……期间"。
+- **虚拟语气**：if it chose to——过去式虚拟表"万一选择"。
+- **被动语态表状态**：how long it can be contained / is amplified by——被动强调受事。
+
+### 长难句
+
+最值得模仿的是 not...but 双从句推进（原句 31）：一句话完成"问题焦点转移"。其次是破折号同位语展开（原句 2）与 having done 分词作先行动作（原句 23）。
+
+### 写作技巧
+
+- **平衡立场**：既骂协议（codifies/institutionalises），又说"不必然错"（None of this means）——权威媒体评论的辩证笔法。
+- **"暂停非解决"定性**：as a pause, not a solution——用最诚实的方式定义事件，避免宣传腔。
+- **预案思维**：先谈最坏情况（worst-case scenario），再给应对（prepare for contingency）——评论给出操作建议。
+- **话术揭穿**：has sold the deal ... as a peace deal——点破政治包装，回归事实。
+
+## 可迁移表达
+- "gambling that X wants money more than power" — 用于分析"利益 vs 意志"的博弈。
+- "codifies rather than changes the status quo" — 用于批评"把现状写成条款"。
+- "a pause, not a solution" — 用于"暂缓而非解决"的定性。
+- "rest on verification and containment, not trust" — 用于"制度兜底而非依赖信任"。
+- "prepare for that contingency, rather than pretending it cannot happen" — 用于"预案思维"。## 词汇分级
 # Donald Trump gambles that Iran wants money more than power
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-17。核心论点：特朗普政府对伊朗核问题的处理——承认伊朗拥核现状换取经济松绑，是一场豪赌；特朗普赌伊朗要钱胜过要权力。文章认为"和平条约"实际是放弃核遏制，伊朗可能坐拥核武，威胁被低估。社论主张：协议虽糟，但比战争好；美国仍须保持制衡（制裁、监测、威慑），并把"信任"换成"遏制"。
@@ -18,6 +133,7 @@
 - 第 8 段：结论——别称"和平"，保持威慑
 
 ---
+
 
 ## 一、逐句精读
 
@@ -556,208 +672,3 @@
 **为什么这样写：** 以"魔法思维"收束——呼应"最诚实"主题，警告美伊关系不要再靠幻想。
 
 **段落逻辑：** 揭穿"和平协议"话术 → 公允定位（必要但有限，管理非解决）→ 问题转换（不是弃核而是遏制多久）→ 赌局风险（赌输=拥核伊朗）→ 预案思维（为意外准备）→ 失败预案（果断遏制而非再谈）→ 金句收束（别再魔法思维）。全文完成。---
-
-## 二、长难句专项
-
-### 长难句 1（原句 2）
-
-**原句：** It wants to make a deal with the country's leaders—one that would see them give up their nuclear programme, while the West lifts economic sanctions.
-
-**找主干：** It wants to make a deal with the country's leaders（主谓宾）。
-
-**找修饰：**
-- —one that would see them give up their nuclear programme——破折号同位语（one 指代 deal），that 定语从句
-- while the West lifts economic sanctions——while 对比从句（时间/对比）
-- see them give up——感官动词 + 宾语 + 省 to 不定式
-
-**找从句：** 定语从句（that）+ 时间/对比从句（while）。
-
-**恢复逻辑：** 政府想做一笔交易——这笔交易会让伊朗放弃核计划，同时西方解除制裁。
-
-**整体理解：** 破折号引出同位语 one，把"deal"的具体内容展开；that 从句套 see them give up（让……放弃）；while 作对比（一边弃核，一边解制裁）。结构虽长但层次清晰。
-
-### 长难句 2（原句 10）
-
-**原句：** Under the agreement Iran may well be a nuclear-threshold state—with the capacity to sprint to a bomb within months if it chose to.
-
-**找主干：** Iran may well be a nuclear-threshold state（主系表）。
-
-**找修饰：**
-- Under the agreement——介词短语（前提条件）
-- —with the capacity to sprint to a bomb within months——破折号 + with 短语（补充说明能力）
-- if it chose to——条件从句（虚拟，表"若选择"）
-
-**找从句：** 条件从句（if it chose to）。
-
-**恢复逻辑：** 在该协议下，伊朗很可能成为核门槛国家——拥有数月内冲刺造核弹的能力（若它选择如此）。
-
-**整体理解：** 主干简练，破折号后的 with 短语承载关键信息（门槛能力的细节），if it chose to 用过去式虚拟，暗含"目前无意、但有能力"。
-
-### 长难句 3（原句 23）
-
-**原句：** It is that, having given the regime a rare moment of relief, the Trump administration will sit back and allow it to grow stronger.
-
-**找主干：** It is that ... the Trump administration will sit back and allow it to grow stronger（主系表 + 表语从句）。
-
-**找修饰：**
-- having given the regime a rare moment of relief——现在分词完成式（动作先于主句，表"先给了喘息"）
-- allow it to grow stronger——让……变强（宾补）
-
-**找从句：** 表语从句（that ... will sit back）。
-
-**恢复逻辑：** 最坏情况是：先给了政权难得的喘息，然后特朗普政府袖手旁观，任由伊朗坐大。
-
-**整体理解：** having done 分词短语放在主句前，表示"先发生的事"；主句用 will 表未来推测；allow it to grow 用省 to 不定式作宾补。这是"最坏情况"的展开。
-
-### 长难句 4（原句 31）
-
-**原句：** In the long run, the question is not whether Iran will abandon its programme, but how long it can be contained.
-
-**找主干：** the question is not ... but ...（主系表 + not...but 并列）。
-
-**找修饰：**
-- In the long run——时间状语
-- whether Iran will abandon its programme——not 后的表语从句
-- how long it can be contained——but 后的表语从句（被动）
-
-**找从句：** 两个表语从句（whether / how long）。
-
-**恢复逻辑：** 长远看，问题不是伊朗是否弃核，而是它能被遏制多久。
-
-**整体理解：** not...but 连接两个表语从句，构成"问题转换"的句式——从"是否（whether）"转向"多久（how long）"，是社论中常见的推进式问句。
-
----
-
-## 三、精读结束总结
-
-### 表达方式
-
-1. **赌局隐喻贯穿**：开篇"gambling"，结尾"the gamble does not come off"——用一个隐喻撑起全篇。
-2. **否定式破题**：None of this means ... / The worst-case scenario is not that ...——先否定，再给正解，增加思辨感。
-3. **"表面 vs 实质"结构**：On the surface ... But ...——揭示表面熟悉下的实质危险。
-4. **not...but 推进**：not whether ... but how long——用对仗把问题焦点转移。
-5. **短句锤击**：The deal does nothing to curb this——超短句作段落重锤。
-6. **金句收束**：There should be no more magical thinking about Iran——以一句警告收尾。
-
-### 语法要点
-
-- **破折号同位语**：—one that would see them give up...——补充说明前文名词。
-- **感官动词 + 省 to**：see them give up their nuclear programme——see 后接省 to 不定式。
-- **现在分词完成式**：having given the regime a rare moment of relief——先于主句的动作。
-- **even while 让步**：even while sanctions are being lifted——表"即使在……期间"。
-- **虚拟语气**：if it chose to——过去式虚拟表"万一选择"。
-- **被动语态表状态**：how long it can be contained / is amplified by——被动强调受事。
-
-### 长难句
-
-最值得模仿的是 not...but 双从句推进（原句 31）：一句话完成"问题焦点转移"。其次是破折号同位语展开（原句 2）与 having done 分词作先行动作（原句 23）。
-
-### 写作技巧
-
-- **平衡立场**：既骂协议（codifies/institutionalises），又说"不必然错"（None of this means）——权威媒体评论的辩证笔法。
-- **"暂停非解决"定性**：as a pause, not a solution——用最诚实的方式定义事件，避免宣传腔。
-- **预案思维**：先谈最坏情况（worst-case scenario），再给应对（prepare for contingency）——评论给出操作建议。
-- **话术揭穿**：has sold the deal ... as a peace deal——点破政治包装，回归事实。
-## 词汇分级
-
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| v. | 赌、下注 | 原句 1 |
-| n. | 制裁 | 原句 2 |
-| v. | 解冻 | 原句 5 |
-| 短语 | 让人联想到 | 原句 3 |
-| n. | 能力 | 原句 4 |
-| v. | 成文化、正式化 | 原句 9 |
-| n. | 核门槛国家 | 原句 10 |
-| n. | 储备 | 原句 11 |
-| adj. | 完整无损的 | 原句 11 |
-| v. | 制度化 | 原句 12 |
-| n. | 代理人战争 | 原句 14 |
-| v. | 壮胆、助长 | 原句 16 |
-| n. | 经济压力 | 原句 19 |
-| n. | 强硬派 | 原句 20 |
-| n. | 自满 | 原句 24 |
-| n. | 鹰派 | 原句 24 |
-| v. | 重新部署 | 原句 24 |
-| n. | 威慑 | 原句 26 |
-| n. | 遏制 | 原句 28 |
-| n. | 偶发情况、预案 | 原句 33 |
-| n. | 魔法思维 | 原句 35 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| wants | money more than power — 要钱胜过要权力 |  |
-| make | a deal — 做交易 |  |
-| give | up their nuclear programme — 放弃核计划 |  |
-| buy | time — 买时间、拖延 |  |
-| put | the nuclear issue to bed — 让核问题告一段落 |  |
-| sprint | to a bomb — 冲刺造核弹 |  |
-| sit | back — 袖手旁观 |  |
-| redeploy | forces away from the region — 撤走该地区兵力 |  |
-| maintain | a robust deterrent — 保持强大威慑 |  |
-| rest | on verification and containment — 建立在核查与遏制上 |  |
-| manage | a problem rather than solve it — 管理而非解决问题 |  |
-| prepare | for that contingency — 为意外做预案 |  |
-| reach | for another round of negotiations — 再来一轮谈判 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ballistic | missiles — 弹道导弹 |  |
-| the | Revolutionary Guards — 革命卫队 |  |
-| enriched | uranium — 浓缩铀 |  |
-| in | return — 作为回报 |  |
-| strengthen | the hand of — 增强……的力量 |  |
-| every | incentive ... none — 一切动机……毫无动机 |  |
-
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| wants | money more than power — 要钱胜过要权力 |  |
-| make | a deal — 做交易 |  |
-| give | up their nuclear programme — 放弃核计划 |  |
-| buy | time — 买时间、拖延 |  |
-| put | the nuclear issue to bed — 让核问题告一段落 |  |
-| sprint | to a bomb — 冲刺造核弹 |  |
-| sit | back — 袖手旁观 |  |
-| redeploy | forces away from the region — 撤走该地区兵力 |  |
-| maintain | a robust deterrent — 保持强大威慑 |  |
-| rest | on verification and containment — 建立在核查与遏制上 |  |
-| manage | a problem rather than solve it — 管理而非解决问题 |  |
-| prepare | for that contingency — 为意外做预案 |  |
-| reach | for another round of negotiations — 再来一轮谈判 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ballistic | missiles — 弹道导弹 |  |
-| the | Revolutionary Guards — 革命卫队 |  |
-| enriched | uranium — 浓缩铀 |  |
-| in | return — 作为回报 |  |
-| strengthen | the hand of — 增强……的力量 |  |
-| every | incentive ... none — 一切动机……毫无动机 |  |
-
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ballistic | missiles — 弹道导弹 |  |
-| the | Revolutionary Guards — 革命卫队 |  |
-| enriched | uranium — 浓缩铀 |  |
-| in | return — 作为回报 |  |
-| strengthen | the hand of — 增强……的力量 |  |
-| every | incentive ... none — 一切动机……毫无动机 |  |
-
-
-## 可迁移表达
-- "gambling that X wants money more than power" — 用于分析"利益 vs 意志"的博弈。
-- "codifies rather than changes the status quo" — 用于批评"把现状写成条款"。
-- "a pause, not a solution" — 用于"暂缓而非解决"的定性。
-- "rest on verification and containment, not trust" — 用于"制度兜底而非依赖信任"。
-- "prepare for that contingency, rather than pretending it cannot happen" — 用于"预案思维"。## 词汇分级

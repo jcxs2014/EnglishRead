@@ -1,6 +1,117 @@
 ---
 状态: 未读
 ---
+
+
+## 词汇分级
+
+
+
+## 长难句专项
+
+### 长难句 1（原句 2）
+
+**原句：** No longer an exotic import for the adventurous, it now sits on shelves in thousands of supermarkets, from Beijing to Chengdu.
+
+**找主干：** it now sits on shelves in thousands of supermarkets。
+
+**找修饰：**
+- No longer an exotic import for the adventurous——句首同位语短语（解释 it 的身份变化）
+- from Beijing to Chengdu——地点范围（补充 supermarkets 的分布）
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 不再是异国猎奇品，如今在数千家超市上架，从北京到成都。
+
+**整体理解：** 句首名词短语作同位语 + 主句 + 尾置地点短语——"No longer X, it now Y"的对比结构。
+
+### 长难句 2（原句 8）
+
+**原句：** Supermarket chains now stock them year-round, having learned that health-conscious shoppers will pay a premium.
+
+**找主干：** Supermarket chains now stock them year-round。
+
+**找修饰：**
+- having learned that ...——现在分词短语（表原因）
+- health-conscious shoppers will pay a premium——that 宾语从句
+
+**找从句：** that 宾语从句。
+
+**恢复逻辑：** 商家全年备货，是因为学会了：注重健康的顾客愿意付溢价。
+
+**整体理解：** 主干 + 分词短语表原因（内含宾语从句）——结果在前、原因在后。
+
+### 长难句 3（原句 11）
+
+**原句：** Years of food-safety scandals have made middle-class families wary of what they eat.
+
+**找主干：** Years of food-safety scandals have made middle-class families wary。
+
+**找修饰：**
+- of what they eat——介词 + what 宾语从句
+
+**找从句：** what 宾语从句。
+
+**恢复逻辑：** 多年食品丑闻让中产家庭对吃的东西变得警惕。
+
+**整体理解：** make + 宾语 + 宾补（wary）+ of 结构 + what 从句——"make sb adj of sth"。
+
+### 长难句 4（原句 14）
+
+**原句：** Avocado toast, shot from the perfect angle, has become a staple of the aspirational posts that dominate Chinese social apps.
+
+**找主干：** Avocado toast has become a staple of the aspirational posts。
+
+**找修饰：**
+- shot from the perfect angle——分词短语（插入，修饰 toast）
+- that dominate Chinese social apps——定语从句（修饰 posts）
+
+**找从句：** that 定语从句。
+
+**恢复逻辑：** 完美角度拍摄的牛油果吐司，成了主导中国社交应用"理想生活"帖子的主打。
+
+**整体理解：** 主干 + 插入分词 + 定语从句——多层修饰围绕主干的典型句式。
+
+---
+
+
+## 精读结束总结
+
+### 表达方式
+
+1. **拟人化开场**：THE AVOCADO has gone native——把食物当移民写，生动。
+2. **时间对照**：No longer ... now / once confined ... has spread——用时间轴呈现变化。
+3. **数据佐证**：rose by 85%, according to customs data——现象配硬数据。
+4. **设问过渡**：Why has the Californian diet taken off?——设问引出归因。
+5. **具体意象**：organic labels and fresh juices / shot from the perfect angle——把抽象概念（健康/晒）具象化。
+6. **先例警示**：History suggests caution: even Starbucks——借反例给结论留余地。
+
+### 语法要点
+
+- **句首同位语 + No longer**：No longer an exotic import ..., it now sits——对比结构。
+- **现在分词表原因**：having learned that ...——分词短语表"因为已经学会"。
+- **make + 宾 + 宾补**：made middle-class families wary of what they eat。
+- **分词插入 + 定语从句**：shot from the perfect angle ... that dominate——多层修饰。
+- **非限制性定语从句**：which keeps it out of reach——补充说明。
+- **同位语从句**：signs that the trend is already being remade——signs 后的 that 从句。
+
+### 长难句
+
+最值得模仿的是"句首同位语 + No longer 对比"（原句 2）与"分词插入 + 定语从句"（原句 14）——前者适合写"从 X 到 Y"的变化，后者适合写"照片/帖子/商品"这类多属性名词。
+
+### 写作技巧
+
+- **由小见大**：从一颗牛油果写到中产身份、食品安全焦虑、社交媒体——小切口大主题。
+- **场景→数据→原因→代价→前景**：标准的文化观察五段式。
+- **对照结构**：affluent vs masses / foreign vs local——全文用对照推进。
+- **克制的结论**：only up to a point——不唱高调，给趋势留边界。
+
+## 可迁移表达
+- "X has gone native in China" — 用于"某外来事物已本土化"。
+- "No longer an exotic import, it now sits on shelves" — 用于"从猎奇到普及"。
+- "posting a picture of X is a way of signalling that ..." — 用于"晒=身份信号"。
+- "History suggests caution: even X had to adapt" — 用于"先例警示"。
+- "only up to a point" — 用于"只到一定程度"。## 词汇分级
 # The Californication of middle-class Chinese diets
 
 **文章概览：** 《经济学人》中国栏目报道。核心论点：中国中产家庭饮食正经历"加利福尼亚化"——牛油果、羽衣甘蓝、藜麦等加州健康食材进入中国餐桌，背后是消费升级、健康意识、以及"晒生活方式"的社交媒体文化。文章既有对趋势的观察，也点出价格门槛与本土化适应。
@@ -16,6 +127,7 @@
 - 第 6 段：结论——加州化的边界
 
 ---
+
 
 ## 一、逐句精读
 
@@ -353,198 +465,3 @@
 **为什么这样写：** 用 only up to a point 收束——加州化会持续，但会止于中国口味的地平线。
 
 **段落逻辑：** 开放设问（会真中国化吗）→ 历史警示（星巴克也得改菜单）→ 本土混搭已出现（牛油果冰淇淋/藜麦奶茶）→ 结论：加州化只到一定程度。全文完成。---
-
-## 二、长难句专项
-
-### 长难句 1（原句 2）
-
-**原句：** No longer an exotic import for the adventurous, it now sits on shelves in thousands of supermarkets, from Beijing to Chengdu.
-
-**找主干：** it now sits on shelves in thousands of supermarkets。
-
-**找修饰：**
-- No longer an exotic import for the adventurous——句首同位语短语（解释 it 的身份变化）
-- from Beijing to Chengdu——地点范围（补充 supermarkets 的分布）
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 不再是异国猎奇品，如今在数千家超市上架，从北京到成都。
-
-**整体理解：** 句首名词短语作同位语 + 主句 + 尾置地点短语——"No longer X, it now Y"的对比结构。
-
-### 长难句 2（原句 8）
-
-**原句：** Supermarket chains now stock them year-round, having learned that health-conscious shoppers will pay a premium.
-
-**找主干：** Supermarket chains now stock them year-round。
-
-**找修饰：**
-- having learned that ...——现在分词短语（表原因）
-- health-conscious shoppers will pay a premium——that 宾语从句
-
-**找从句：** that 宾语从句。
-
-**恢复逻辑：** 商家全年备货，是因为学会了：注重健康的顾客愿意付溢价。
-
-**整体理解：** 主干 + 分词短语表原因（内含宾语从句）——结果在前、原因在后。
-
-### 长难句 3（原句 11）
-
-**原句：** Years of food-safety scandals have made middle-class families wary of what they eat.
-
-**找主干：** Years of food-safety scandals have made middle-class families wary。
-
-**找修饰：**
-- of what they eat——介词 + what 宾语从句
-
-**找从句：** what 宾语从句。
-
-**恢复逻辑：** 多年食品丑闻让中产家庭对吃的东西变得警惕。
-
-**整体理解：** make + 宾语 + 宾补（wary）+ of 结构 + what 从句——"make sb adj of sth"。
-
-### 长难句 4（原句 14）
-
-**原句：** Avocado toast, shot from the perfect angle, has become a staple of the aspirational posts that dominate Chinese social apps.
-
-**找主干：** Avocado toast has become a staple of the aspirational posts。
-
-**找修饰：**
-- shot from the perfect angle——分词短语（插入，修饰 toast）
-- that dominate Chinese social apps——定语从句（修饰 posts）
-
-**找从句：** that 定语从句。
-
-**恢复逻辑：** 完美角度拍摄的牛油果吐司，成了主导中国社交应用"理想生活"帖子的主打。
-
-**整体理解：** 主干 + 插入分词 + 定语从句——多层修饰围绕主干的典型句式。
-
----
-
-## 三、精读结束总结
-
-### 表达方式
-
-1. **拟人化开场**：THE AVOCADO has gone native——把食物当移民写，生动。
-2. **时间对照**：No longer ... now / once confined ... has spread——用时间轴呈现变化。
-3. **数据佐证**：rose by 85%, according to customs data——现象配硬数据。
-4. **设问过渡**：Why has the Californian diet taken off?——设问引出归因。
-5. **具体意象**：organic labels and fresh juices / shot from the perfect angle——把抽象概念（健康/晒）具象化。
-6. **先例警示**：History suggests caution: even Starbucks——借反例给结论留余地。
-
-### 语法要点
-
-- **句首同位语 + No longer**：No longer an exotic import ..., it now sits——对比结构。
-- **现在分词表原因**：having learned that ...——分词短语表"因为已经学会"。
-- **make + 宾 + 宾补**：made middle-class families wary of what they eat。
-- **分词插入 + 定语从句**：shot from the perfect angle ... that dominate——多层修饰。
-- **非限制性定语从句**：which keeps it out of reach——补充说明。
-- **同位语从句**：signs that the trend is already being remade——signs 后的 that 从句。
-
-### 长难句
-
-最值得模仿的是"句首同位语 + No longer 对比"（原句 2）与"分词插入 + 定语从句"（原句 14）——前者适合写"从 X 到 Y"的变化，后者适合写"照片/帖子/商品"这类多属性名词。
-
-### 写作技巧
-
-- **由小见大**：从一颗牛油果写到中产身份、食品安全焦虑、社交媒体——小切口大主题。
-- **场景→数据→原因→代价→前景**：标准的文化观察五段式。
-- **对照结构**：affluent vs masses / foreign vs local——全文用对照推进。
-- **克制的结论**：only up to a point——不唱高调，给趋势留边界。
-## 词汇分级
-
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| 短语 | 本土化 | 原句 1 |
-| n. | 异国进口品 | 原句 2 |
-| 短语 | 局限于 | 原句 3 |
-| n. | 二线城市 | 原句 3 |
-| 短语 | ……的标志 | 原句 4 |
-| n. | 海关数据 | 原句 6 |
-| adv. | 全年 | 原句 8 |
-| adj. | 注重健康的 | 原句 8 |
-| 短语 | 付溢价 | 原句 8 |
-| 短语 | 突然流行 | 原句 9 |
-| n. | 驱动因素 | 原句 10 |
-| 短语 | 对……警惕 | 原句 11 |
-| n. | 有机标签 | 原句 12 |
-| v. | 放大 | 原句 13 |
-| 短语 | ……的主打 | 原句 14 |
-| adj. | 理想生活的 | 原句 14 |
-| v. | 传递信号 | 原句 15 |
-| n. | 陷阱、问题 | 原句 16 |
-| 短语 | 够不着 | 原句 17 |
-| n. | 富裕阶层 | 原句 18 |
-| n. | 大众 | 原句 18 |
-| 短语 | 调整适应 | 原句 20 |
-| v. | 被改造 | 原句 21 |
-| 短语 | 到一定程度 | 原句 22 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| gone | native — 入乡随俗、本土化 |  |
-| from | Beijing to Chengdu — 从北京到成都 |  |
-| confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |  |
-| rising | health awareness — 日益增强的健康意识 |  |
-| wary | of what they eat — 对吃的东西警惕 |  |
-| a | vision of food that feels safe — 让人感到安全的食物图景 |  |
-| shot | from the perfect angle — 从完美角度拍摄 |  |
-| aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |  |
-| five | times as much as a cabbage — 卷心菜的五倍 |  |
-| adapt | its menu to local tastes — 调整菜单适应当地口味 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| kale | — 羽衣甘蓝 |  |
-| quinoa | — 藜麦 |  |
-| chia | seeds — 奇亚籽 |  |
-| avocado | toast — 牛油果吐司 |  |
-| bubble-tea | — 珍珠奶茶 |  |
-
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| gone | native — 入乡随俗、本土化 |  |
-| from | Beijing to Chengdu — 从北京到成都 |  |
-| confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |  |
-| rising | health awareness — 日益增强的健康意识 |  |
-| wary | of what they eat — 对吃的东西警惕 |  |
-| a | vision of food that feels safe — 让人感到安全的食物图景 |  |
-| shot | from the perfect angle — 从完美角度拍摄 |  |
-| aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |  |
-| five | times as much as a cabbage — 卷心菜的五倍 |  |
-| adapt | its menu to local tastes — 调整菜单适应当地口味 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| kale | — 羽衣甘蓝 |  |
-| quinoa | — 藜麦 |  |
-| chia | seeds — 奇亚籽 |  |
-| avocado | toast — 牛油果吐司 |  |
-| bubble-tea | — 珍珠奶茶 |  |
-
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| kale | — 羽衣甘蓝 |  |
-| quinoa | — 藜麦 |  |
-| chia | seeds — 奇亚籽 |  |
-| avocado | toast — 牛油果吐司 |  |
-| bubble-tea | — 珍珠奶茶 |  |
-
-
-## 可迁移表达
-- "X has gone native in China" — 用于"某外来事物已本土化"。
-- "No longer an exotic import, it now sits on shelves" — 用于"从猎奇到普及"。
-- "posting a picture of X is a way of signalling that ..." — 用于"晒=身份信号"。
-- "History suggests caution: even X had to adapt" — 用于"先例警示"。
-- "only up to a point" — 用于"只到一定程度"。## 词汇分级

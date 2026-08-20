@@ -1,16 +1,78 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— A squeezed China is trying to wring more from its state assets
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| wring more from | 榨取更多 | 从国资挤钱（标题） |
+| ease fiscal straits | 缓解财政困境 | 找钱动机 |
+| dilapidated / run-down | 破败/失修 | 改造前旧貌 |
+| municipal coffers | 市政金库 | 租金去向 |
+| in a tailspin | 螺旋下坠 | 房地产 |
+| high-water mark | 历史峰值 | 房价顶点 |
+| blown a hole in | 炸开大洞 | 预算冲击 |
+| slapping fines on | 开罚单 | 荒唐自救 |
+| put ... to work | 让……运转 | 盘活资产 |
+| rummage / closet | 翻找 / 衣柜 | 核心隐喻 |
+| breathe life into | 注入生机 | 盘活目标 |
+| fitted the bill | 正合要求 | 契合中央 |
+| reclaimed / consolidated | 收回 / 整合 | 资产盘活 |
+| takes stakes in | 入股 | 分享增长 |
+| a break with | 决裂 | 告别扩张 |
+| expansion binge | 扩张狂潮 | 过去模式 |
+| move the needle | 产生影响 | 实效设问 |
+| shell games | 空壳游戏 | 假盘活 |
+| a reckoning with | 清算 | 模式反思 |
+| get more from less | 以少换多 | 点题 |
+| debt-saddled | 债台高筑 | 城市状态 |
 
-> 原文标题：A squeezed China is trying to wring more from its state assets
-> 副标题：Its latest campaign won't solve its debt woes, but inches in the right direction
-> 栏目：China | Chaguan
-> 来源：The Economist，2026-07-18 期
-> 精读日期：2026-08-09
-> 保存文件名：China_state_assets.md
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| revitalise | 振兴 | 城市改造 |
+| stunning | 惊人的 | 转变之巨 |
+| lay unused | 闲置 | 资产闲置 |
+| flocked to | 涌向 | 游客 |
+| raise cash | 筹钱 | 找钱 |
+| doling out | 分发 | 开停车票 |
+| deleverage | 去杠杆 | 正规自救 |
+| sprawl | 蔓延 | 城市扩张 |
+| chastened | 吃了教训的 | 财政教训 |
 
----
+### 3. 重要语法
+
+- **强调句**：`it is the streets around the tower that matter more`
+- **同位语链**：tower → pavilion → prose → schoolchildren（分词链式修饰）
+- **破折号插入**：`—roughly the size of New York's Central Park—`
+- **with 复合结构**：`with some debt-saddled cities cutting wages`
+- **三并列谓语**：`converted ... renovated ... spruced up`
+- **条件句管理预期**：`if ... is sustained, it would support`
+- **双重宾语从句**：`examining how they can make better use of what they already have`
+- **被动 + 时间 + 宾语**：`was launched ... when it declared that ...`
+- **完成进行时**：`have been looking for`（一直在找）
+
+### 4. 长难句
+
+- 原句 1（过去分词链）
+- 原句 5（定语从句 + 引语）
+- 原句 13（被动 + 时间 + 宾语从句）
+- 原句 25（towards + with 复合结构 + 双重从句）
+
+### 5. 写作技巧
+
+1. **隐喻体系化**：从标题 `wring more` 到正文 `squeeze` / `closet` / `shirt` / `rummage`，一个"翻衣柜找旧衬衫"的生活隐喻贯穿全文——抽象政策"可感化"
+2. **首尾闭环**：标题点题 `wring more from state assets`，结尾 `get more from less` 回扣；开头岳阳楼文化符号，结尾朴素总结——"从楼到衣"的收放
+3. **受访者代言隐喻**：核心比喻（衣柜衬衫）由国企经理之口说出，作者借人物之口"植入"自己的分析框架，比直接打比方更有说服力
+4. **数据的克制**：`40% → half → 10% → 5%` 数字给足，但始终限定范围（"十省"、"a bit"、"may be"、"could"）——严谨不浮夸
+5. **先抑后扬再抑**：先承认"some efforts almost comical"（荒唐自救），再给 Yueyang 正面案例，最后 Even so 拉回"解不了债务"——完整呈现利弊
+6. **结尾冷处理**：官方称"refined governance"，作者改用"less grandiose terms"收束——用反差制造幽默，也平衡了报道立场
+7. **术语双关**：`extensive` / `intensive` / `aggressive` 都是官方经济话语的转引，加引号保持区隔与距离
+
+### 精读结束总结
+
+
 
 ## 文本概览
 
@@ -483,127 +545,7 @@
 **段落逻辑：** 意义升维（24）→ 转向集约（25）→ 朴素收束（26）。从"宏大意义"到"克制总结"。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 1（过去分词链）
-
-> **原句:** YUEYANG, A CITY in Hunan province, is famous for its tower, an elegant three-storey pavilion immortalised in millennium-old prose still memorised by schoolchildren.
-
-**① 找主干：** YUEYANG is famous for its tower
-**② 找修饰：** A CITY in Hunan province（同位语）；an elegant three-storey pavilion（tower 的同位语）；immortalised in millennium-old prose（过去分词定语）；still memorised by schoolchildren（再一层过去分词，修饰 prose）
-**③ 找从句：** 无从句（全部是同位语 + 分词短语链）
-**④ 恢复逻辑：** 岳阳以楼闻名 → 楼是三层阁楼 → 阁楼被千年散文铭记 → 散文至今被学童背诵。
-**⑤ 整体理解：** 四个信息单元以"链条式同位语/分词"推进，一句讲清"城市-楼-文-童"的传承链。
-
-### 🔍 原句 5（定语从句 + 引语）
-
-> **原句:** A local official who has helped oversee the project told Chaguan that his mission was far from accomplished: "The next big challenge is to make money."
-
-**① 找主干：** A local official told Chaguan that ...
-**② 找修饰：** who has helped oversee the project（定语从句）；that his mission was far from accomplished（宾语从句）；冒号后引语
-**③ 找从句：** who has helped（定语）；that his mission was ...（宾语）
-**④ 恢复逻辑：** 一位参与监管项目的官员告诉作者，任务远未完成，下一个大挑战是赚钱。
-**⑤ 整体理解：** 定语从句交代身份，宾语从句交代判断，引语给出原话——三层信息一次到位。
-
-### 🔍 原句 13（被动 + 时间 + 宾语从句）
-
-> **原句:** This closet-rummaging exercise was formally launched by the central government in 2022 when it declared that provinces and cities should "revitalise existing state assets".
-
-**① 找主干：** This closet-rummaging exercise was formally launched by the central government in 2022
-**② 找修饰：** when it declared that ...（时间状语从句，含宾语从句）
-**③ 找从句：** when it declared（时间）；that provinces and cities should "revitalise ..."（declared 的宾语）
-**④ 恢复逻辑：** 中央政府在 2022 年正式发起"翻衣柜"行动，当时它宣布省市应"盘活存量国有资产"。
-**⑤ 整体理解：** 被动句交代"行动 - 发起者 - 时间"，when 从句交代"同时说了什么"。
-
-### 🔍 原句 25（towards + with 复合结构 + 双重从句）
-
-> **原句:** Now, the turn is inwards, towards an "intensive" model, with cities examining how they can make better use of what they already have.
-
-**① 找主干：** the turn is inwards
-**② 找修饰：** towards an "intensive" model（方向）；with cities examining ...（with 复合结构）；how they can make better use ...（examining 的宾语）；what they already have（make use of 的宾语）
-**③ 找从句：** how they can ...（宾语从句）；what they already have（宾语从句）
-**④ 恢复逻辑：** 转向朝内、朝集约模式，城市审视如何更好地利用已有之物。
-**⑤ 整体理解：** with 复合结构把"城市做什么"挂在主句上，how + what 双层宾语从句压缩了"方式 + 对象"。
-
----
-
-
-## 精读结束总结
-
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| wring more from | 榨取更多 | 从国资挤钱（标题） |
-| ease fiscal straits | 缓解财政困境 | 找钱动机 |
-| dilapidated / run-down | 破败/失修 | 改造前旧貌 |
-| municipal coffers | 市政金库 | 租金去向 |
-| in a tailspin | 螺旋下坠 | 房地产 |
-| high-water mark | 历史峰值 | 房价顶点 |
-| blown a hole in | 炸开大洞 | 预算冲击 |
-| slapping fines on | 开罚单 | 荒唐自救 |
-| put ... to work | 让……运转 | 盘活资产 |
-| rummage / closet | 翻找 / 衣柜 | 核心隐喻 |
-| breathe life into | 注入生机 | 盘活目标 |
-| fitted the bill | 正合要求 | 契合中央 |
-| reclaimed / consolidated | 收回 / 整合 | 资产盘活 |
-| takes stakes in | 入股 | 分享增长 |
-| a break with | 决裂 | 告别扩张 |
-| expansion binge | 扩张狂潮 | 过去模式 |
-| move the needle | 产生影响 | 实效设问 |
-| shell games | 空壳游戏 | 假盘活 |
-| a reckoning with | 清算 | 模式反思 |
-| get more from less | 以少换多 | 点题 |
-| debt-saddled | 债台高筑 | 城市状态 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| revitalise | 振兴 | 城市改造 |
-| stunning | 惊人的 | 转变之巨 |
-| lay unused | 闲置 | 资产闲置 |
-| flocked to | 涌向 | 游客 |
-| raise cash | 筹钱 | 找钱 |
-| doling out | 分发 | 开停车票 |
-| deleverage | 去杠杆 | 正规自救 |
-| sprawl | 蔓延 | 城市扩张 |
-| chastened | 吃了教训的 | 财政教训 |
-
-### 3. 重要语法
-
-- **强调句**：`it is the streets around the tower that matter more`
-- **同位语链**：tower → pavilion → prose → schoolchildren（分词链式修饰）
-- **破折号插入**：`—roughly the size of New York's Central Park—`
-- **with 复合结构**：`with some debt-saddled cities cutting wages`
-- **三并列谓语**：`converted ... renovated ... spruced up`
-- **条件句管理预期**：`if ... is sustained, it would support`
-- **双重宾语从句**：`examining how they can make better use of what they already have`
-- **被动 + 时间 + 宾语**：`was launched ... when it declared that ...`
-- **完成进行时**：`have been looking for`（一直在找）
-
-### 4. 长难句
-
-- 原句 1（过去分词链）
-- 原句 5（定语从句 + 引语）
-- 原句 13（被动 + 时间 + 宾语从句）
-- 原句 25（towards + with 复合结构 + 双重从句）
-
-### 5. 写作技巧
-
-1. **隐喻体系化**：从标题 `wring more` 到正文 `squeeze` / `closet` / `shirt` / `rummage`，一个"翻衣柜找旧衬衫"的生活隐喻贯穿全文——抽象政策"可感化"
-2. **首尾闭环**：标题点题 `wring more from state assets`，结尾 `get more from less` 回扣；开头岳阳楼文化符号，结尾朴素总结——"从楼到衣"的收放
-3. **受访者代言隐喻**：核心比喻（衣柜衬衫）由国企经理之口说出，作者借人物之口"植入"自己的分析框架，比直接打比方更有说服力
-4. **数据的克制**：`40% → half → 10% → 5%` 数字给足，但始终限定范围（"十省"、"a bit"、"may be"、"could"）——严谨不浮夸
-5. **先抑后扬再抑**：先承认"some efforts almost comical"（荒唐自救），再给 Yueyang 正面案例，最后 Even so 拉回"解不了债务"——完整呈现利弊
-6. **结尾冷处理**：官方称"refined governance"，作者改用"less grandiose terms"收束——用反差制造幽默，也平衡了报道立场
-7. **术语双关**：`extensive` / `intensive` / `aggressive` 都是官方经济话语的转引，加引号保持区隔与距离
-
-### 6. 可迁移表达
+## 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -628,3 +570,5 @@
 | `in line with` | 合规一致 | The move is in line with the policy. |
 | `put ... to work` | 资源配置 | The firm put idle capital to work. |
 | `fit the bill` | 需求匹配 | A compact model would fit the bill. |
+
+

@@ -1,16 +1,200 @@
 ---
 状态: 未读
 ---
-# 精读分析：《经济学人》—— Who is capable of evil?
 
-> 原文标题：Who is capable of evil?
-> 副标题：Stop lowering the age of criminal responsibility
-> 栏目：Leaders | Children and the law
-> 来源：The Economist，2026-07-11 期（2026-07-09 发布，3 min read）
-> 精读日期：2026-08-09
-> 保存文件名：Who_is_capable_of_evil.md
 
----
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| responsible for | 对……负责 | Held responsible for the damage. |
+| depends on | 取决于 | The sentence depends on age. |
+| Given how | 鉴于如何 | Given how hard it is. |
+| character develops | 性格发展 | Character develops over time. |
+| hold ... to be | 认定 | Held to be responsible. |
+| heinous | 令人发指的 | A heinous murder. |
+| In the eyes of the law | 法律眼中 | In the eyes of the law. |
+| grasp the consequences | 理解后果 | Can't grasp the consequences. |
+| reckoned to be | 被认为 | Reckoned to be the best. |
+| doli incapax | 无作恶能力 | The doli incapax doctrine. |
+| incapable of | 无能力 | Incapable of evil. |
+| raises a question | 引出问题 | This raises a question. |
+| old enough to count | 大到作数 | Every vote counts. |
+| in wildly different ways | 迥异方式 | Vary wildly. |
+| wrestle with | 苦思 | Wrestling with the problem. |
+| criminal responsibility | 刑事责任 | The age of criminal responsibility. |
+| regrettably | 遗憾地 | Regrettably, we must cancel. |
+| lawmakers | 立法者 | Lawmakers voted. |
+| pushing ... downwards | 往下压 | Pushing prices down. |
+| lowered ... from ... to | 降低 | Lowered the age from 16 to 14. |
+| scourge | 祸害 | The scourge of gangs. |
+| blocked a motion | 否决动议 | Blocked the motion. |
+| the joint-lowest | 并列最低 | Joint-lowest in Europe. |
+| well-publicised | 广为人知 | A well-publicised scandal. |
+| horrified | 吓坏 | Horrified by the news. |
+| stabbed | 捅刺 | Stabbed in the chest. |
+| shot and killed | 枪杀 | Shot and killed a man. |
+| campaigning to be | 竞选 | Campaigning for president. |
+| recruit | 招募 | Recruited by gangs. |
+| foot soldiers | 马仔 | Gang foot soldiers. |
+| pliable | 易摆布 | Pliable and easily led. |
+| impulse-control | 冲动控制 | Poor impulse control. |
+| possess | 拥有 | Possess the skills. |
+| Neuroscientists | 神经科学家 | Neuroscientists warn. |
+| well into | 深入 | Well into the night. |
+| enticed into | 诱入 | Enticed into crime. |
+| the promise of quick money | 快钱承诺 | The promise of riches. |
+| calculate | 盘算 | Calculated the risks. |
+| dodge punishment | 逃避惩罚 | Dodged justice. |
+| if caught | 若被抓 | If caught, confess. |
+| drug-dealers | 毒贩 | Drug dealers. |
+| precisely because | 恰恰因为 | Precisely because it's risky. |
+| under-age | 未成年 | Under-age drinking. |
+| criminalise | 定罪 | Criminalise the act. |
+| ever younger | 越来越小 | Ever younger kids. |
+| remove an incentive for | 消除动机 | Removed the incentive. |
+| should reconsider | 应重想 | Reconsider the decision. |
+| if only because | 仅仅因为 | If only because it's cheaper. |
+| unjust | 不公正 | An unjust law. |
+| the low teens | 十三四岁 | Children in the low teens. |
+| heed | 重视 | Heed the advice. |
+| Experience suggests | 经验表明 | Experience suggests otherwise. |
+| crime rates rose | 犯罪率上升 | Rates rose. |
+| reversed course | 掉头 | Reversed course. |
+| Prosecuting | 起诉 | Prosecuted for theft. |
+| hardened villains | 铁杆罪犯 | Hardened criminals. |
+| emerge from | 走出 | Emerged from prison. |
+| counted as | 被算作 | Counted as adults. |
+| released from prison | 获释 | Released on bail. |
+| reoffend | 再犯 | Reoffending rates. |
+| rehabilitation | 改造 | Rehabilitation programmes. |
+| securing ... away from | 隔离 | Secured away from society. |
+| wrongdoers | 犯罪者 | Young wrongdoers. |
+| rather than punishing | 与其惩罚 | Rather than punish. |
+| tackle | 解决 | Tackle the problem. |
+| drew them into | 卷入 | Drawn into gangs. |
+| criminality | 犯罪（状态） | Driven to criminality. |
+| the youth-justice system | 少年司法 | The youth-justice system. |
+| learning difficulties | 学习障碍 | Children with learning difficulties. |
+| mentors | 导师 | Assign a mentor. |
+| investigated for | 因……被查 | Investigated for the crime. |
+| flagged to | 标记报告 | Flagged to authorities. |
+| worrying behaviour | 担忧行为 | Worrying signs. |
+| wrongdoing | 恶行 | Allegations of wrongdoing. |
+| severe criminal penalties | 严厉刑罚 | Severe penalties. |
+| exploit the young | 剥削年轻人 | Exploiting children. |
+| create better childhoods | 更好童年 | Better childhoods. |
+| prevent ... from becoming | 防止变成 | Prevent them from reoffending. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| judge | 判断 |  |
+| the least mature | 最不成熟者 |  |
+| defining | 界定 |  |
+| the Maldives | 马尔代夫 |  |
+| South Korea | 韩国 |  |
+| voters | 选民 |  |
+| dramatic | 轰动性的 |  |
+| the mid-20s | 25 岁左右 |  |
+| teens | 十几岁 |  |
+| authorities | 当局 |  |
+| Denmark | 丹麦 |  |
+| Queensland | 昆士兰 |  |
+| Australia | 澳大利亚 |  |
+| prison | 监狱 |  |
+| society | 社会 |  |
+| social problems | 社会问题 |  |
+| social services | 社会服务 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| doli incapax | 无作恶能力（拉丁） |  |
+| Argentina | 阿根廷 |  |
+| Northern Ireland | 北爱尔兰 |  |
+| Colombia | 哥伦比亚 |  |
+| Indonesia | 印度尼西亚 |  |
+| Sweden | 瑞典 |  |
+| Britain | 英国 |  |
+| the age of 12 | 12 岁 |  |
+
+
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `HOW DO YOU judge whether ...` — 开篇设问
+2. `Given how slowly human character develops` — 鉴于发展之慢
+3. `In the eyes of the law` — 法律眼中
+4. `are reckoned to be doli incapax—incapable of evil` — 被认为无作恶能力
+5. `how old is old enough to count?` — 多大才算作数
+6. `wrestle with the task of defining` — 苦思界定
+7. `pushing it downwards` — 往下压（降龄）
+8. `the joint-lowest in Europe` — 欧洲并列最低
+9. `and you can understand why` — 你能理解为什么
+10. `use children to attack properties or people` — 用儿童犯罪
+11. `cheap and pliable` — 廉价易摆布
+12. `the brain keeps developing well into adulthood` — 大脑发育到成年后
+13. `the promise of quick money` — 快钱承诺
+14. `dodge punishment if caught` — 被抓也免刑
+15. `precisely because they are under-age` — 恰恰因未成年
+16. `criminalise the acts of ever younger people` — 给越来越小者定罪
+17. `if only because ... is unjust` — 只因不公
+18. `Experience suggests that ... will not work` — 经验表明无效
+19. `reversed course` — 掉头
+20. `emerged ... as hardened villains` — 变成铁杆罪犯
+21. `It is wiser to try rehabilitation` — 改造更明智
+22. `tackle the ... factors that first drew them into criminality` — 治本
+23. `flagged to social services for worrying behaviour` — 早期预警标记
+24. `prevent criminal children from becoming criminal adults` — 防儿童变惯犯
+
+### 2. 重要语法
+
+- **疑问句 + whether 宾语从句**：`judge whether children are responsible`
+- **主语-谓语分隔（长定语）**：`the least mature, who cannot grasp the consequences of what they do, are reckoned to be ...`
+- **动名词作主语**：`lowering the age of responsibility is unjust` / `Prosecuting young children ... is also a way`
+- **if only because 结构**：`They should reconsider, if only because ...`
+- **非限制性定语从句指代全句**：`which may be why so much crime is committed`
+- **嵌套定语从句**：`half of all kids who are investigated ... were flagged ...`
+- **省略条件句**：`if caught`（= if they are caught）
+- **被动语态反复**：`are reckoned to be` / `are counted as` / `were flagged to` / `is committed by`
+- **It 形式主语**：`It is wiser to try rehabilitation`
+- **rather than + 动名词**：`rather than punishing them`
+- **Precisely because 强调**：`precisely because they are under-age`
+
+### 3. 写作技巧
+
+1. **设问开篇 + 术语点睛**：标题"谁有能力行恶？"→ 首段末用拉丁术语 doli incapax（无作恶能力）作答——用古老的罗马法概念回应现代问题，标题即全篇主旨
+2. **"道德论 + 实用论"双轨论证**：`Even if you disagree with the moral argument, you should heed the practical one`——先给道德论证（不公），再给实用论证（无效），后者用实证（丹麦犯罪率升、昆士兰 96% 再犯）堵死反驳，结构严谨
+3. **先共情后反驳**：`Politicians are listening to voters angry ... and you can understand why`——先承认公众愤怒合理（12 岁杀母、15 岁杀参议员），再指出"理解愤怒 ≠ 支持降龄"，避免说教感
+4. **科学 + 数据双支撑**：神经科学（大脑发育到 20 多岁）支撑"不成熟"，昆士兰 96% 再犯率、英国 1/5 学习障碍、瑞典半数早期预警——每条对策都配一组数据
+5. **黑帮的"理性计算"视角**：`Criminals also calculate that the youngest may dodge punishment if caught`——从罪犯的算盘（cheap/pliable/免刑）解释"为什么降龄是无效解"（黑帮会改招更小的）——用博弈逻辑而非道德说理
+6. **反例证伪**：丹麦（降龄→犯罪率升→掉头）、昆士兰（10 岁刑责→96% 再犯）、北爱尔兰（阻止 10→14 提高）——三个反例覆盖"降龄有害"的三种路径
+7. **首尾对仗收束**：`prevent criminal children from becoming criminal adults`——"犯罪的儿童不再变成犯罪的成人"，criminal children / criminal adults 的同词对仗，一句完成"改造目标"的总结
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `Given how` | 前提论证 | Given how fast things change, plan ahead. |
+| `In the eyes of the law` | 法律/规范 | In the eyes of the law, intent matters. |
+| `reckoned to be` | 评价 | Reckoned to be the leading expert. |
+| `wrestle with` | 难题 | The team wrestled with the design. |
+| `pushing ... downwards` | 降低 | Pressure is pushing prices downwards. |
+| `and you can understand why` | 共情 | It's popular, and you can understand why. |
+| `the promise of quick money` | 诱因 | The promise of quick money lures people. |
+| `precisely because` | 强调因果 | We chose it precisely because it's simple. |
+| `if only because` | 最低理由 | Keep it, if only because it's cheap. |
+| `Experience suggests that` | 经验论 | Experience suggests this works. |
+| `reversed course` | 改弦更张 | The company reversed course. |
+| `emerge from ... as` | 结果 | Emerged from the crisis stronger. |
+| `It is wiser to` | 建议 | It is wiser to wait. |
+| `tackle the root causes` | 治本 | Tackle the root causes, not symptoms. |
+| `flagged as at risk` | 预警 | At-risk students were flagged early. |
+| `prevent ... from becoming` | 预防 | Prevent small issues from becoming crises. |
 
 ## 文本概览
 
@@ -588,251 +772,3 @@
 **段落逻辑：** 无法全禁（40）→ 严惩成年人（41）→ 儿童：更好的童年（42）。
 
 ---
-
-## 词汇分级
-## 长难句专项
-
-### 🔍 原句 4（主语 + who 定语从句 + 破折号解释）
-
-> **原句:** In the eyes of the law the least mature, who cannot grasp the consequences of what they do, are reckoned to be doli incapax—incapable of evil.
-
-**① 找主干：** the least mature are reckoned to be doli incapax
-**② 找修饰：** In the eyes of the law（状语）；who cannot grasp the consequences of what they do（定语从句）；破折号 incapable of evil（解释）
-**③ 找从句：** who cannot grasp ...（定语从句）；what they do（介词宾语从句）
-**④ 恢复逻辑：** 法律眼中，最不成熟者（无法理解行为后果的人）被认为无作恶能力。
-**⑤ 整体理解：** 主语 the least mature 被 who 定语从句拉长（主语-谓语距离大）；what they do 是 of 的宾语从句；`be reckoned to be`（被认为）被动陈述；破折号给出拉丁术语的英文释义。
-
-### 🔍 原句 19（that 宾语从句 + which 定语从句指代全句）
-
-> **原句:** Neuroscientists suggest that the brain keeps developing well into adulthood, perhaps even into the mid-20s, which may be why so much crime is committed by the young.
-
-**① 找主干：** Neuroscientists suggest that the brain keeps developing
-**② 找修饰：** well into adulthood（程度）；perhaps even into the mid-20s（补充）；which may be why ...（非限制性定语从句）
-**③ 找从句：** that the brain keeps developing（宾语从句）；which may be why ...（定语从句，指代整句观点）
-**④ 恢复逻辑：** 神经科学家认为大脑发育到成年后甚至 20 多岁，这或许就是年轻人犯罪多的原因。
-**⑤ 整体理解：** that 宾语从句主谓宾 + 状语（well into ... perhaps even ... 递进）；which 从句指代前面整个观点（不是单个名词），内部再嵌 why 从句。
-
-### 🔍 原句 25（if only because + 破折号 + if 从句）
-
-> **原句:** They should reconsider, if only because lowering the age of responsibility is unjust—especially if that involves children younger than the low teens.
-
-**① 找主干：** They should reconsider
-**② 找修饰：** if only because ... is unjust（原因从句）；破折号 especially if ...（条件补充）
-**③ 找从句：** if only because lowering ... is unjust（原因从句）；if that involves children ...（条件从句）
-**④ 恢复逻辑：** 他们应重新考虑，仅因降龄不公——尤其当涉及低龄少年以下的孩子。
-**⑤ 整体理解：** 主句极短 + 两个从句递进（if only because = 至少因为；especially if = 尤其如果）；动名词 lowering the age of responsibility 作从句主语；the low teens 用"十几岁早段"界定。
-
-### 🔍 原句 32（where 定语从句 + who 定语从句嵌套）
-
-> **原句:** In Queensland, Australia, where ten-year-olds are counted as criminally responsible, 96% of children who are released from prison go on to reoffend within a year.
-
-**① 找主干：** 96% of children go on to reoffend
-**② 找修饰：** In Queensland（地点）；where ten-year-olds are counted ...（定语从句）；who are released from prison（定语从句）
-**③ 找从句：** where ... are counted（定语从句）；who are released ...（定语从句）
-**④ 恢复逻辑：** 昆士兰（10 岁即担责）中，获释儿童 96% 一年内再犯。
-**⑤ 整体理解：** 地点状语 + where 定语从句先交代背景；主句主语 children 带 who 定语从句（被动 released）；`go on to`（接下来）表连续；96% 数字置于句首强调。
-
-### 🔍 原句 39（who 定语从句 + 被动 + 多层状语）
-
-> **原句:** In Sweden around half of all kids who are investigated for a serious crime were flagged to social services for worrying behaviour before the age of 12.
-
-**① 找主干：** around half of all kids were flagged
-**② 找修饰：** In Sweden（地点）；who are investigated for a serious crime（定语从句）；to social services（对象）；for worrying behaviour（原因）；before the age of 12（时间）
-**③ 找从句：** who are investigated ...（定语从句）
-**④ 恢复逻辑：** 瑞典约半数重罪儿童在 12 岁前就因担忧行为被标记给社会服务。
-**⑤ 整体理解：** 主语带 who 定语从句（被动 investigated for）；谓语 were flagged to ... for ... before ... 连续四个状语（对象/原因/时间）依次展开；`before the age of 12` 放句尾作关键时间点。
-
----
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `HOW DO YOU judge whether ...` — 开篇设问
-2. `Given how slowly human character develops` — 鉴于发展之慢
-3. `In the eyes of the law` — 法律眼中
-4. `are reckoned to be doli incapax—incapable of evil` — 被认为无作恶能力
-5. `how old is old enough to count?` — 多大才算作数
-6. `wrestle with the task of defining` — 苦思界定
-7. `pushing it downwards` — 往下压（降龄）
-8. `the joint-lowest in Europe` — 欧洲并列最低
-9. `and you can understand why` — 你能理解为什么
-10. `use children to attack properties or people` — 用儿童犯罪
-11. `cheap and pliable` — 廉价易摆布
-12. `the brain keeps developing well into adulthood` — 大脑发育到成年后
-13. `the promise of quick money` — 快钱承诺
-14. `dodge punishment if caught` — 被抓也免刑
-15. `precisely because they are under-age` — 恰恰因未成年
-16. `criminalise the acts of ever younger people` — 给越来越小者定罪
-17. `if only because ... is unjust` — 只因不公
-18. `Experience suggests that ... will not work` — 经验表明无效
-19. `reversed course` — 掉头
-20. `emerged ... as hardened villains` — 变成铁杆罪犯
-21. `It is wiser to try rehabilitation` — 改造更明智
-22. `tackle the ... factors that first drew them into criminality` — 治本
-23. `flagged to social services for worrying behaviour` — 早期预警标记
-24. `prevent criminal children from becoming criminal adults` — 防儿童变惯犯
-
-### 2. 重要语法
-
-- **疑问句 + whether 宾语从句**：`judge whether children are responsible`
-- **主语-谓语分隔（长定语）**：`the least mature, who cannot grasp the consequences of what they do, are reckoned to be ...`
-- **动名词作主语**：`lowering the age of responsibility is unjust` / `Prosecuting young children ... is also a way`
-- **if only because 结构**：`They should reconsider, if only because ...`
-- **非限制性定语从句指代全句**：`which may be why so much crime is committed`
-- **嵌套定语从句**：`half of all kids who are investigated ... were flagged ...`
-- **省略条件句**：`if caught`（= if they are caught）
-- **被动语态反复**：`are reckoned to be` / `are counted as` / `were flagged to` / `is committed by`
-- **It 形式主语**：`It is wiser to try rehabilitation`
-- **rather than + 动名词**：`rather than punishing them`
-- **Precisely because 强调**：`precisely because they are under-age`
-
-### 3. 写作技巧
-
-1. **设问开篇 + 术语点睛**：标题"谁有能力行恶？"→ 首段末用拉丁术语 doli incapax（无作恶能力）作答——用古老的罗马法概念回应现代问题，标题即全篇主旨
-2. **"道德论 + 实用论"双轨论证**：`Even if you disagree with the moral argument, you should heed the practical one`——先给道德论证（不公），再给实用论证（无效），后者用实证（丹麦犯罪率升、昆士兰 96% 再犯）堵死反驳，结构严谨
-3. **先共情后反驳**：`Politicians are listening to voters angry ... and you can understand why`——先承认公众愤怒合理（12 岁杀母、15 岁杀参议员），再指出"理解愤怒 ≠ 支持降龄"，避免说教感
-4. **科学 + 数据双支撑**：神经科学（大脑发育到 20 多岁）支撑"不成熟"，昆士兰 96% 再犯率、英国 1/5 学习障碍、瑞典半数早期预警——每条对策都配一组数据
-5. **黑帮的"理性计算"视角**：`Criminals also calculate that the youngest may dodge punishment if caught`——从罪犯的算盘（cheap/pliable/免刑）解释"为什么降龄是无效解"（黑帮会改招更小的）——用博弈逻辑而非道德说理
-6. **反例证伪**：丹麦（降龄→犯罪率升→掉头）、昆士兰（10 岁刑责→96% 再犯）、北爱尔兰（阻止 10→14 提高）——三个反例覆盖"降龄有害"的三种路径
-7. **首尾对仗收束**：`prevent criminal children from becoming criminal adults`——"犯罪的儿童不再变成犯罪的成人"，criminal children / criminal adults 的同词对仗，一句完成"改造目标"的总结
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `Given how` | 前提论证 | Given how fast things change, plan ahead. |
-| `In the eyes of the law` | 法律/规范 | In the eyes of the law, intent matters. |
-| `reckoned to be` | 评价 | Reckoned to be the leading expert. |
-| `wrestle with` | 难题 | The team wrestled with the design. |
-| `pushing ... downwards` | 降低 | Pressure is pushing prices downwards. |
-| `and you can understand why` | 共情 | It's popular, and you can understand why. |
-| `the promise of quick money` | 诱因 | The promise of quick money lures people. |
-| `precisely because` | 强调因果 | We chose it precisely because it's simple. |
-| `if only because` | 最低理由 | Keep it, if only because it's cheap. |
-| `Experience suggests that` | 经验论 | Experience suggests this works. |
-| `reversed course` | 改弦更张 | The company reversed course. |
-| `emerge from ... as` | 结果 | Emerged from the crisis stronger. |
-| `It is wiser to` | 建议 | It is wiser to wait. |
-| `tackle the root causes` | 治本 | Tackle the root causes, not symptoms. |
-| `flagged as at risk` | 预警 | At-risk students were flagged early. |
-| `prevent ... from becoming` | 预防 | Prevent small issues from becoming crises. |
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| responsible for | 对……负责 | Held responsible for the damage. |
-| depends on | 取决于 | The sentence depends on age. |
-| Given how | 鉴于如何 | Given how hard it is. |
-| character develops | 性格发展 | Character develops over time. |
-| hold ... to be | 认定 | Held to be responsible. |
-| heinous | 令人发指的 | A heinous murder. |
-| In the eyes of the law | 法律眼中 | In the eyes of the law. |
-| grasp the consequences | 理解后果 | Can't grasp the consequences. |
-| reckoned to be | 被认为 | Reckoned to be the best. |
-| doli incapax | 无作恶能力 | The doli incapax doctrine. |
-| incapable of | 无能力 | Incapable of evil. |
-| raises a question | 引出问题 | This raises a question. |
-| old enough to count | 大到作数 | Every vote counts. |
-| in wildly different ways | 迥异方式 | Vary wildly. |
-| wrestle with | 苦思 | Wrestling with the problem. |
-| criminal responsibility | 刑事责任 | The age of criminal responsibility. |
-| regrettably | 遗憾地 | Regrettably, we must cancel. |
-| lawmakers | 立法者 | Lawmakers voted. |
-| pushing ... downwards | 往下压 | Pushing prices down. |
-| lowered ... from ... to | 降低 | Lowered the age from 16 to 14. |
-| scourge | 祸害 | The scourge of gangs. |
-| blocked a motion | 否决动议 | Blocked the motion. |
-| the joint-lowest | 并列最低 | Joint-lowest in Europe. |
-| well-publicised | 广为人知 | A well-publicised scandal. |
-| horrified | 吓坏 | Horrified by the news. |
-| stabbed | 捅刺 | Stabbed in the chest. |
-| shot and killed | 枪杀 | Shot and killed a man. |
-| campaigning to be | 竞选 | Campaigning for president. |
-| recruit | 招募 | Recruited by gangs. |
-| foot soldiers | 马仔 | Gang foot soldiers. |
-| pliable | 易摆布 | Pliable and easily led. |
-| impulse-control | 冲动控制 | Poor impulse control. |
-| possess | 拥有 | Possess the skills. |
-| Neuroscientists | 神经科学家 | Neuroscientists warn. |
-| well into | 深入 | Well into the night. |
-| enticed into | 诱入 | Enticed into crime. |
-| the promise of quick money | 快钱承诺 | The promise of riches. |
-| calculate | 盘算 | Calculated the risks. |
-| dodge punishment | 逃避惩罚 | Dodged justice. |
-| if caught | 若被抓 | If caught, confess. |
-| drug-dealers | 毒贩 | Drug dealers. |
-| precisely because | 恰恰因为 | Precisely because it's risky. |
-| under-age | 未成年 | Under-age drinking. |
-| criminalise | 定罪 | Criminalise the act. |
-| ever younger | 越来越小 | Ever younger kids. |
-| remove an incentive for | 消除动机 | Removed the incentive. |
-| should reconsider | 应重想 | Reconsider the decision. |
-| if only because | 仅仅因为 | If only because it's cheaper. |
-| unjust | 不公正 | An unjust law. |
-| the low teens | 十三四岁 | Children in the low teens. |
-| heed | 重视 | Heed the advice. |
-| Experience suggests | 经验表明 | Experience suggests otherwise. |
-| crime rates rose | 犯罪率上升 | Rates rose. |
-| reversed course | 掉头 | Reversed course. |
-| Prosecuting | 起诉 | Prosecuted for theft. |
-| hardened villains | 铁杆罪犯 | Hardened criminals. |
-| emerge from | 走出 | Emerged from prison. |
-| counted as | 被算作 | Counted as adults. |
-| released from prison | 获释 | Released on bail. |
-| reoffend | 再犯 | Reoffending rates. |
-| rehabilitation | 改造 | Rehabilitation programmes. |
-| securing ... away from | 隔离 | Secured away from society. |
-| wrongdoers | 犯罪者 | Young wrongdoers. |
-| rather than punishing | 与其惩罚 | Rather than punish. |
-| tackle | 解决 | Tackle the problem. |
-| drew them into | 卷入 | Drawn into gangs. |
-| criminality | 犯罪（状态） | Driven to criminality. |
-| the youth-justice system | 少年司法 | The youth-justice system. |
-| learning difficulties | 学习障碍 | Children with learning difficulties. |
-| mentors | 导师 | Assign a mentor. |
-| investigated for | 因……被查 | Investigated for the crime. |
-| flagged to | 标记报告 | Flagged to authorities. |
-| worrying behaviour | 担忧行为 | Worrying signs. |
-| wrongdoing | 恶行 | Allegations of wrongdoing. |
-| severe criminal penalties | 严厉刑罚 | Severe penalties. |
-| exploit the young | 剥削年轻人 | Exploiting children. |
-| create better childhoods | 更好童年 | Better childhoods. |
-| prevent ... from becoming | 防止变成 | Prevent them from reoffending. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| judge | 判断 |  |
-| the least mature | 最不成熟者 |  |
-| defining | 界定 |  |
-| the Maldives | 马尔代夫 |  |
-| South Korea | 韩国 |  |
-| voters | 选民 |  |
-| dramatic | 轰动性的 |  |
-| the mid-20s | 25 岁左右 |  |
-| teens | 十几岁 |  |
-| authorities | 当局 |  |
-| Denmark | 丹麦 |  |
-| Queensland | 昆士兰 |  |
-| Australia | 澳大利亚 |  |
-| prison | 监狱 |  |
-| society | 社会 |  |
-| social problems | 社会问题 |  |
-| social services | 社会服务 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| doli incapax | 无作恶能力（拉丁） |  |
-| Argentina | 阿根廷 |  |
-| Northern Ireland | 北爱尔兰 |  |
-| Colombia | 哥伦比亚 |  |
-| Indonesia | 印度尼西亚 |  |
-| Sweden | 瑞典 |  |
-| Britain | 英国 |  |
-| the age of 12 | 12 岁 |  |
-
