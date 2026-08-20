@@ -539,82 +539,91 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | as feared as | 像……一样令人恐惧 |
-| 基础 | insidious | 隐蔽的、暗中侵蚀的 |
-| 基础 | strips ... of | 剥夺 |
-| 基础 | sense of self | 自我意识 |
-| 基础 | a butt of jokes | 笑柄 |
-| 基础 | unwinding | 瓦解、散架 |
-| 基础 | dreaded | 令人恐惧的 |
-| 基础 | fan ... fears | 煽动恐惧 |
-| 基础 | triple | 增至三倍 |
-| 基础 | In truth | 事实上 |
-| 基础 | if adjusted for age | 若按年龄调整 |
-| 基础 | reverse | 逆转 |
-| 基础 | A mountain of | 堆积如山的 |
-| 基础 | stick to | 坚持 |
-| 基础 | working out | 锻炼 |
-| 基础 | boozing | 喝酒 |
-| 基础 | toil, tears or sweat | 辛劳泪汗 |
-| 基础 | mentally sharp | 头脑敏锐 |
-| 基础 | a course of | 一个疗程 |
-| 基础 | shingles | 带状疱疹 |
-| 基础 | reduce ... by | 降低（比例） |
-| 基础 | intervention | 干预 |
-| 基础 | is still being debated | 仍在争论 |
-| 基础 | contributes to | 促成 |
-| 基础 | inflammation | 炎症 |
-| 基础 | supposedly dormant | 据称潜伏 |
-| 基础 | fail to offer | 未能提供 |
-| 基础 | cost-effective | 符合成本效益 |
-| 基础 | rationed | 限量配给 |
-| 基础 | upfront costs | 前期成本 |
-| 基础 | eligibility age | 资格年龄 |
-| 基础 | makes little sense | 说不过去 |
-| 基础 | efficacy | 疗效 |
-| 基础 | afflicts | 折磨 |
-| 基础 | given | 考虑到 |
-| 基础 | relates to | 与……相关 |
-| 基础 | a sprinkling of | 少量 |
-| 基础 | jab | 一针（注射） |
-| 基础 | at least as ... as | 至少不弱于 |
-| 基础 | randomised trials | 随机试验 |
-| 基础 | boosters | 加强针 |
-| 基础 | In the meantime | 与此同时 |
-| 基础 | a bargain | 划算的买卖 |
-| 基础 | long-term care | 长期护理 |
-| 基础 | As for individuals | 对个人而言 |
-| 基础 | reduce by one-fifth | 降低五分之一 |
-| 进阶 | dementia | 痴呆症 |
-| 进阶 | Alzheimer's | 阿尔茨海默症 |
-| 进阶 | epidemiologists | 流行病学家 |
-| 进阶 | suffering from | 患有 |
-| 进阶 | lifestyle changes | 生活方式改变 |
-| 进阶 | hearing loss | 听力损失 |
-| 进阶 | depression | 抑郁症 |
-| 进阶 | high blood pressure | 高血压 |
-| 进阶 | high cholesterol | 高胆固醇 |
-| 进阶 | staying active | 保持活跃 |
-| 进阶 | immune system | 免疫系统 |
-| 进阶 | vaccine | 疫苗 |
-| 进阶 | public-health systems | 公共卫生体系 |
-| 进阶 | upfront | 先期的 |
-| 进阶 | the over-65s | 65 岁以上者 |
-| 进阶 | unvaccinated | 未接种的 |
-| 进阶 | infection | 感染 |
-| 进阶 | proteins | 蛋白质 |
-| 进阶 | retail cost | 零售价 |
-| 进阶 | federal immunisation | 联邦免疫 |
-| 高级 | hunt the slipper | 找拖鞋（游戏） |
-| 高级 | Sir Terry Pratchett | 特里·普拉切特爵士 |
-| 高级 | varicella-zoster virus | 水痘-带状疱疹病毒 |
-| 高级 | chickenpox | 水痘 |
-| 高级 | B-cells | B 细胞 |
-| 高级 | Shingrix | 欣适利（带状疱疹疫苗） |
-| 高级 | two-dose | 两剂 |
-| 高级 | NHS（隐含） | 英国国民医疗体系 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| as feared as | 像……一样令人恐惧 | Few things are as feared as this. |
+| insidious | 隐蔽的、暗中侵蚀的 | An insidious threat. |
+| strips ... of | 剥夺 | Stripped him of his power. |
+| sense of self | 自我意识 | Dementia erases the sense of self. |
+| a butt of jokes | 笑柄 | He became the butt of jokes. |
+| unwinding | 瓦解、散架 | The mind begins unwinding. |
+| dreaded | 令人恐惧的 | The dreaded deadline. |
+| fan ... fears | 煽动恐惧 | Fanned public fears. |
+| triple | 增至三倍 | The number tripled. |
+| In truth | 事实上 | In truth, it's better than feared. |
+| if adjusted for age | 若按年龄调整 | Adjusted for inflation. |
+| reverse | 逆转 | The trend has reversed. |
+| A mountain of | 堆积如山的 | A mountain of paperwork. |
+| stick to | 坚持 | Stick to the plan. |
+| working out | 锻炼 | Working out daily. |
+| boozing | 喝酒 | Cutting back on boozing. |
+| toil, tears or sweat | 辛劳泪汗 | No toil, tears or sweat. |
+| mentally sharp | 头脑敏锐 | Keeping mentally sharp. |
+| a course of | 一个疗程 | A full course of the vaccine. |
+| shingles | 带状疱疹 | Shingles causes a painful rash. |
+| reduce ... by | 降低（比例） | Reduced costs by 20%. |
+| intervention | 干预 | Early intervention helps. |
+| is still being debated | 仍在争论 | The cause is being debated. |
+| contributes to | 促成 | Smoking contributes to cancer. |
+| inflammation | 炎症 | Inflammation of the nerves. |
+| supposedly dormant | 据称潜伏 | A supposedly dormant infection. |
+| fail to offer | 未能提供 | The system fails to deliver. |
+| cost-effective | 符合成本效益 | Cost-effective care. |
+| rationed | 限量配给 | Rationed the vaccine. |
+| upfront costs | 前期成本 | Low upfront costs. |
+| eligibility age | 资格年龄 | Raise the eligibility age. |
+| makes little sense | 说不过去 | That makes little sense. |
+| efficacy | 疗效 | Vaccine efficacy. |
+| afflicts | 折磨 | The disease afflicts the elderly. |
+| given | 考虑到 | Given the evidence, we act. |
+| relates to | 与……相关 | The data relate to older cases. |
+| a sprinkling of | 少量 | A sprinkling of protein. |
+| jab | 一针（注射） | Got the jab. |
+| at least as ... as | 至少不弱于 | At least as effective as before. |
+| randomised trials | 随机试验 | Randomised trials provide evidence. |
+| boosters | 加强针 | Need a booster. |
+| In the meantime | 与此同时 | In the meantime, we wait. |
+| a bargain | 划算的买卖 | At that price it's a bargain. |
+| long-term care | 长期护理 | Long-term care insurance. |
+| As for individuals | 对个人而言 | As for individuals, it's cheap. |
+| reduce by one-fifth | 降低五分之一 | Cut the risk by a fifth. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dementia | 痴呆症 |  |
+| Alzheimer's | 阿尔茨海默症 |  |
+| epidemiologists | 流行病学家 |  |
+| suffering from | 患有 |  |
+| lifestyle changes | 生活方式改变 |  |
+| hearing loss | 听力损失 |  |
+| depression | 抑郁症 |  |
+| high blood pressure | 高血压 |  |
+| high cholesterol | 高胆固醇 |  |
+| staying active | 保持活跃 |  |
+| immune system | 免疫系统 |  |
+| vaccine | 疫苗 |  |
+| public-health systems | 公共卫生体系 |  |
+| upfront | 先期的 |  |
+| the over-65s | 65 岁以上者 |  |
+| unvaccinated | 未接种的 |  |
+| infection | 感染 |  |
+| proteins | 蛋白质 |  |
+| retail cost | 零售价 |  |
+| federal immunisation | 联邦免疫 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| hunt the slipper | 找拖鞋（游戏） |  |
+| Sir Terry Pratchett | 特里·普拉切特爵士 |  |
+| varicella-zoster virus | 水痘-带状疱疹病毒 |  |
+| chickenpox | 水痘 |  |
+| B-cells | B 细胞 |  |
+| Shingrix | 欣适利（带状疱疹疫苗） |  |
+| two-dose | 两剂 |  |
+| NHS`（隐含） | 英国国民医疗体系 |  |
 
 ## 长难句专项
 

@@ -899,139 +899,148 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | reported on | 报道 |
-| 基础 | excel at | 擅长 |
-| 基础 | formulating questions | 提出问题 |
-| 基础 | weighed against | 与……权衡 |
-| 基础 | at the expense of | 以……为代价 |
-| 基础 | non-combatant | 非战斗人员 |
-| 基础 | cut-off value | 临界值 |
-| 基础 | varied widely | 差异巨大 |
-| 基础 | betrays | 暴露 |
-| 基础 | central contention | 核心论点 |
-| 基础 | waiver of sanctions | 制裁豁免 |
-| 基础 | concession | 让步 |
-| 基础 | on paper | 纸面上 |
-| 基础 | aberration | 反常、背离 |
-| 基础 | twin pressures | 双重压力 |
-| 基础 | hold back | 阻挡 |
-| 基础 | a flood of | 洪流 |
-| 基础 | facilitate | 促进 |
-| 基础 | state actors | 国家行为体 |
-| 基础 | lingers over | 笼罩 |
-| 基础 | All the while | 与此同时 |
-| 基础 | bypass | 绕过 |
-| 基础 | check ... leverage | 制约筹码 |
-| 基础 | not only ... but | 不仅而且 |
-| 基础 | attendant | 随之而来的 |
-| 基础 | the third shock in a decade | 十年第三次冲击 |
-| 基础 | the deeper problem | 深层问题 |
-| 基础 | illustrates | 例证 |
-| 基础 | turned deadly | 变得致命 |
-| 基础 | recourse | 求助途径 |
-| 基础 | an IMF facility | IMF 融资工具 |
-| 基础 | can least afford | 最负担不起 |
-| 基础 | far from alone | 远非孤例 |
-| 基础 | burning through | 快速耗尽 |
-| 基础 | the architecture for | ……的架构 |
-| 基础 | food-shock window | 粮食冲击窗口 |
-| 基础 | borrow on top of | 在……之上借 |
-| 基础 | conditionality | 条件性 |
-| 基础 | disbursed | 发放 |
-| 基础 | net energy importers | 能源净进口国 |
-| 基础 | exposed to | 受……影响 |
-| 基础 | liquidity | 流动性 |
-| 基础 | solvency | 偿付能力 |
-| 基础 | falling academic standards | 标准下降 |
-| 基础 | the educational ladder | 教育阶梯 |
-| 基础 | at its core | 本质上 |
-| 基础 | cowardly | 懦弱的 |
-| 基础 | carry its own corrective | 自带纠正 |
-| 基础 | collapsing the cost | 压垮成本 |
-| 基础 | fabricated | 伪造的 |
-| 基础 | confronts ... with a choice | 面对选择 |
-| 基础 | enforcement | 执法 |
-| 基础 | in effect | 实际上 |
-| 基础 | abandon the pretence of | 放弃伪装 |
-| 基础 | academic integrity | 学术诚信 |
-| 基础 | thin defences | 薄弱防御 |
-| 基础 | academic intakes | 学术生源 |
-| 基础 | credential mills | 文凭工厂 |
-| 基础 | invigilation | 监考 |
-| 基础 | double down | 加倍投入 |
-| 基础 | capping | 设上限 |
-| 基础 | come into effect | 生效 |
-| 基础 | charge a premium | 收溢价 |
-| 基础 | certifies genuine learning | 证明真实学习 |
-| 基础 | separating equilibrium | 分离均衡 |
-| 基础 | need not be lamented | 不必哀叹 |
-| 基础 | reward ... above | 更看重……而非 |
-| 基础 | a signal | 信号 |
-| 基础 | credential | 学历证书 |
-| 基础 | pretends otherwise | 虚张声势 |
-| 基础 | grade inflation | 分数通胀 |
-| 基础 | first-class degree | 一等学位 |
-| 基础 | elusive | 难以企及的 |
-| 基础 | none at all | 一个都没有 |
-| 基础 | widen the ways | 拓宽途径 |
-| 基础 | permissive rather than statutory | 放任而非法定 |
-| 基础 | the starving of funding | 资金枯竭 |
-| 基础 | shredding | 撕碎 |
-| 基础 | exceptionally hard | 极难 |
-| 基础 | lifelong learning | 终身学习 |
-| 基础 | reminded me of | 让我想起 |
-| 基础 | nicknamed | 绰号为 |
-| 基础 | rings true | 听上去真实 |
-| 基础 | chairing | 主持 |
-| 基础 | an anonymous column | 匿名专栏 |
-| 基础 | was full of | 充满 |
-| 基础 | original insights | 原创洞见 |
-| 基础 | treat ... with ridicule | 嘲弄对待 |
-| 基础 | even if not very accurate | 虽不准确 |
-| 基础 | order one in | 订一份送来 |
-| 基础 | churlish | 无礼的 |
-| 基础 | punchbag | 出气包 |
-| 基础 | the butt of a national joke | 全国笑柄 |
-| 基础 | For what it's worth | 无论价值几何 |
-| 基础 | wouldn't swap it for | 不愿换 |
-| 进阶 | the ethics of war | 战争伦理 |
-| 进阶 | military objective | 军事目标 |
-| 进阶 | innocent civilians | 无辜平民 |
-| 进阶 | variability | 可变性 |
-| 进阶 | trolley dilemma | 电车难题 |
-| 进阶 | universally acceptable | 普遍可接受 |
-| 进阶 | comparative ease | 相对轻易 |
-| 进阶 | alternative trading routes | 替代路线 |
-| 进阶 | arrangements | 安排 |
-| 进阶 | negotiation | 谈判 |
-| 进阶 | rapid disbursement | 快速发放 |
-| 进阶 | debt burden | 债务负担 |
-| 进阶 | the once valuable network | 曾经宝贵的网络 |
-| 进阶 | a famous person | 名人 |
-| 进阶 | a star of | 明星 |
-| 进阶 | reliable source | 可靠来源 |
-| 进阶 | the Financial Times | 金融时报 |
-| 进阶 | television comedians | 电视喜剧演员 |
-| 进阶 | official status | 官方地位 |
-| 高级 | Computo, ergo sum | 我算，故我在（戏仿笛卡尔） |
-| 高级 | NCV | 非战斗人员伤亡临界值 |
-| 高级 | Strait of Hormuz | 霍尔木兹海峡 |
-| 高级 | covid-19 | 新冠疫情 |
-| 高级 | Burkina Faso | 布基纳法索 |
-| 高级 | Guinea | 几内亚 |
-| 高级 | Malawi | 马拉维 |
-| 高级 | South Sudan | 南苏丹 |
-| 高级 | Kenya | 肯尼亚 |
-| 高级 | Egypt, Ethiopia, Mozambique and Rwanda | 四国 |
-| 高级 | Harvard | 哈佛 |
-| 高级 | the 1960s | 1960 年代 |
-| 高级 | Bill Jones | 读者名 |
-| 高级 | the Admiral | 海军上将（大卫·罗宾逊绰号） |
-| 高级 | Alan Greenspan | 艾伦·格林斯潘 |
-| 高级 | Warrington | 沃灵顿（英国小镇） |
-| 高级 | Wazzer | 沃灵顿人（戏称） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| reported on | 报道 | Reported on the crisis. |
+| excel at | 擅长 | Excels at analysis. |
+| formulating questions | 提出问题 | Formulating the right questions. |
+| weighed against | 与……权衡 | Weighed against the costs. |
+| at the expense of | 以……为代价 | At the expense of safety. |
+| non-combatant | 非战斗人员 | Non-combatant casualties. |
+| cut-off value | 临界值 | A cut-off value. |
+| varied widely | 差异巨大 | Estimates vary widely. |
+| betrays | 暴露 | Betrayed his nervousness. |
+| central contention | 核心论点 | The central contention of the paper. |
+| waiver of sanctions | 制裁豁免 | A waiver of export bans. |
+| concession | 让步 | A concession to the enemy. |
+| on paper | 纸面上 | Looks good on paper. |
+| aberration | 反常、背离 | An aberration from the norm. |
+| twin pressures | 双重压力 | Twin pressures. |
+| hold back | 阻挡 | Held back by sanctions. |
+| a flood of | 洪流 | A flood of orders. |
+| facilitate | 促进 | Facilitate trade. |
+| state actors | 国家行为体 | Iranian state actors. |
+| lingers over | 笼罩 | The threat lingers over. |
+| All the while | 与此同时 | All the while, they watched. |
+| bypass | 绕过 | Bypassing the strait. |
+| check ... leverage | 制约筹码 | Check the country's leverage. |
+| not only ... but | 不仅而且 | Not only how, but when. |
+| attendant | 随之而来的 | Attendant risks. |
+| the third shock in a decade | 十年第三次冲击 | The third shock. |
+| the deeper problem | 深层问题 | The deeper problem is. |
+| illustrates | 例证 | This illustrates the problem. |
+| turned deadly | 变得致命 | Protests turned deadly. |
+| recourse | 求助途径 | The main recourse. |
+| an IMF facility | IMF 融资工具 | A standby facility. |
+| can least afford | 最负担不起 | Time we can least afford. |
+| far from alone | 远非孤例 | Far from alone in this. |
+| burning through | 快速耗尽 | Burning through cash. |
+| the architecture for | ……的架构 | The architecture for aid. |
+| food-shock window | 粮食冲击窗口 | Open a lending window. |
+| borrow on top of | 在……之上借 | Borrow on top of the cap. |
+| conditionality | 条件性 | IMF conditionality. |
+| disbursed | 发放 | Disbursed funds. |
+| net energy importers | 能源净进口国 | Net importers of energy. |
+| exposed to | 受……影响 | Exposed to price shocks. |
+| liquidity | 流动性 | A liquidity crisis. |
+| solvency | 偿付能力 | Solvency vs liquidity. |
+| falling academic standards | 标准下降 | Declining standards. |
+| the educational ladder | 教育阶梯 | Climb the ladder. |
+| at its core | 本质上 | At its core, it's dishonest. |
+| cowardly | 懦弱的 | A cowardly policy. |
+| carry its own corrective | 自带纠正 | The market carries its own corrective. |
+| collapsing the cost | 压垮成本 | Collapsed the cost of. |
+| fabricated | 伪造的 | Fabricated data. |
+| confronts ... with a choice | 面对选择 | Confronted with a choice. |
+| enforcement | 执法 | Costly enforcement. |
+| in effect | 实际上 | In effect, it's a ban. |
+| abandon the pretence of | 放弃伪装 | Abandon the pretence. |
+| academic integrity | 学术诚信 | A breach of academic integrity. |
+| thin defences | 薄弱防御 | Thin defences against. |
+| academic intakes | 学术生源 | High-quality intakes. |
+| credential mills | 文凭工厂 | Degree mills. |
+| invigilation | 监考 | Strict invigilation. |
+| double down | 加倍投入 | Doubled down on quality. |
+| capping | 设上限 | Capping grades. |
+| come into effect | 生效 | The law comes into effect. |
+| charge a premium | 收溢价 | Charge a premium for quality. |
+| certifies genuine learning | 证明真实学习 | A degree certifying learning. |
+| separating equilibrium | 分离均衡 | A separating equilibrium. |
+| need not be lamented | 不必哀叹 | A change not to be lamented. |
+| reward ... above | 更看重……而非 | Rewards loyalty above skill. |
+| a signal | 信号 | A degree as a signal. |
+| credential | 学历证书 | Academic credentials. |
+| pretends otherwise | 虚张声势 | A system that pretends otherwise. |
+| grade inflation | 分数通胀 | Widespread grade inflation. |
+| first-class degree | 一等学位 | A first-class honours degree. |
+| elusive | 难以企及的 | An elusive goal. |
+| none at all | 一个都没有 | None at all. |
+| widen the ways | 拓宽途径 | Widen access. |
+| permissive rather than statutory | 放任而非法定 | Permissive vs statutory. |
+| the starving of funding | 资金枯竭 | Starved of funding. |
+| shredding | 撕碎 | The shredding of services. |
+| exceptionally hard | 极难 | Exceptionally difficult. |
+| lifelong learning | 终身学习 | Promote lifelong learning. |
+| reminded me of | 让我想起 | Reminded me of my childhood. |
+| nicknamed | 绰号为 | Nicknamed "the Admiral". |
+| rings true | 听上去真实 | The story rings true. |
+| chairing | 主持 | Chairing the committee. |
+| an anonymous column | 匿名专栏 | Wrote anonymously. |
+| was full of | 充满 | Full of insights. |
+| original insights | 原创洞见 | Offer original insights. |
+| treat ... with ridicule | 嘲弄对待 | Treated the idea with ridicule. |
+| even if not very accurate | 虽不准确 | Funny, even if inaccurate. |
+| order one in | 订一份送来 | Ordered in a takeaway. |
+| churlish | 无礼的 | Churlish to complain. |
+| punchbag | 出气包 | The punchbag of comedians. |
+| the butt of a national joke | 全国笑柄 | The butt of the joke. |
+| For what it's worth | 无论价值几何 | For what it's worth, I agree. |
+| wouldn't swap it for | 不愿换 | Wouldn't swap it for the world. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the ethics of war | 战争伦理 |  |
+| military objective | 军事目标 |  |
+| innocent civilians | 无辜平民 |  |
+| variability | 可变性 |  |
+| trolley dilemma | 电车难题 |  |
+| universally acceptable | 普遍可接受 |  |
+| comparative ease | 相对轻易 |  |
+| alternative trading routes | 替代路线 |  |
+| arrangements | 安排 |  |
+| negotiation | 谈判 |  |
+| rapid disbursement | 快速发放 |  |
+| debt burden | 债务负担 |  |
+| the once valuable network | 曾经宝贵的网络 |  |
+| a famous person | 名人 |  |
+| a star of | 明星 |  |
+| reliable source | 可靠来源 |  |
+| the Financial Times | 金融时报 |  |
+| television comedians | 电视喜剧演员 |  |
+| official status | 官方地位 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Computo, ergo sum | 我算，故我在（戏仿笛卡尔） |  |
+| NCV | 非战斗人员伤亡临界值 |  |
+| Strait of Hormuz | 霍尔木兹海峡 |  |
+| covid-19 | 新冠疫情 |  |
+| Burkina Faso | 布基纳法索 |  |
+| Guinea | 几内亚 |  |
+| Malawi | 马拉维 |  |
+| South Sudan | 南苏丹 |  |
+| Kenya | 肯尼亚 |  |
+| Egypt, Ethiopia, Mozambique and Rwanda | 四国 |  |
+| Harvard | 哈佛 |  |
+| the 1960s | 1960 年代 |  |
+| Bill Jones | 读者名 |  |
+| the Admiral | 海军上将（大卫·罗宾逊绰号） |  |
+| Alan Greenspan | 艾伦·格林斯潘 |  |
+| Warrington | 沃灵顿（英国小镇） |  |
+| Wazzer | 沃灵顿人（戏称） |  |
 
 ## 长难句专项
 

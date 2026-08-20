@@ -162,36 +162,25 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | "truth machines" | "真理机器" |
-| 基础 | punters | 赌徒/下注者 |
-| 基础 | discern risks and opportunities | 辨别风险与机会 |
-| 基础 | hedge their exposure to | 对冲……敞口 |
-| 基础 | a 40-fold year-on-year increase | 同比增长 40 倍 |
-| 基础 | growing pains | 成长的烦恼 |
-| 基础 | devised a reliable way | 设计出可靠的方式 |
-| 基础 | a body of rules and precedent | 一套规则与先例 |
-| 基础 | verges on the absurd | 近乎荒谬 |
-| 基础 | loosely worded | 措辞松散的 |
-| 基础 | is gameable | 可被操纵 |
-| 基础 | under the beady eye of | 在……严密注视下 |
-| 基础 | place bets | 下注 |
-| 基础 | typo-strewn rulebooks | 满是错字的规则手册 |
-| 基础 | subject-matter experts | 领域专家 |
-| 基础 | set precedents | 树立先例 |
-| 进阶 | celebrity | 名人 |
-| 进阶 | valuation | 估值 |
-| 进阶 | crypto-based | 基于加密货币的 |
-| 进阶 | consensus | 共识 |
-| 进阶 | contested | 有争议的 |
-| 进阶 | ballot | 投票 |
-| 进阶 | Panama-domiciled | 注册在巴拿马的 |
-| 进阶 | saner | 更理智的 |
-| 进阶 | inconsistent | 不一致的 |
-| 进阶 | inauguration | 就职典礼 |
-| 进阶 | institutional investors | 机构投资者 |
-| 进阶 | settle contracts | 结算合约 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| "truth machines" | "真理机器" | Some call prediction markets truth machines. |
+| punters | 赌徒/下注者 | Punters can bet on anything. |
+| discern risks and opportunities | 辨别风险与机会 | Markets help people discern risk. |
+| hedge their exposure to | 对冲……敞口 | Some trade to hedge their exposure. |
+| a 40-fold year-on-year increase | 同比增长 40 倍 | Volumes saw a 40-fold year-on-year increase. |
+| growing pains | 成长的烦恼 | Both markets face growing pains. |
+| devised a reliable way | 设计出可靠的方式 | Neither has devised a reliable way to settle. |
+| a body of rules and precedent | 一套规则与先例 | Bookmakers built a body of rules. |
+| verges on the absurd | 近乎荒谬 | The process verges on the absurd. |
+| loosely worded | 措辞松散的 | Contracts are loosely worded. |
+| is gameable | 可被操纵 | The oracle is gameable. |
+| under the beady eye of | 在……严密注视下 | It operates under the beady eye of regulators. |
+| place bets | 下注 | No one involved may place bets. |
+| typo-strewn rulebooks | 满是错字的规则手册 | They publish typo-strewn rulebooks. |
+| subject-matter experts | 领域专家 | Rules should be set by subject-matter experts. |
+| set precedents | 树立先例 | Decisions should set precedents. |
 
 ## 核心表达（可直接迁移）
 

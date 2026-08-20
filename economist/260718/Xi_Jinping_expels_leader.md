@@ -272,3 +272,96 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| prides itself on | 以……为傲 | 政治体系自诩稳定 |
+| taking the axe to | 挥斧清洗 | 清洗团队成员 |
+| the latest to fall | 最新落马者 | 马兴瑞 |
+| stripped of | 被剥夺 | 开除党籍 |
+| fallen vacant | 空出 | 政治局席位 |
+| downfall | 倒台 | 马兴瑞下台 |
+| celebrated | 著名的 | 航天工程师 |
+| absent from major events | 缺席重大活动 | 失势征兆 |
+| graft | 贪腐 | 指控 |
+| laid against | 提出（指控） | 对落马者 |
+| Egregious | 极其严重 | 腐败 |
+| ousting | 罢黜 | 去职 |
+| lash out | 猛击 | 习的清洗意愿 |
+| purged | 被清洗 | 高官 |
+| all but certain | 几乎肯定 | 张又侠命运 |
+| dismissed | 被免职 | 政治局委员 |
+| the most ... post-Mao | 文革后最多 | 清洗纪录 |
+| a potential successor | 潜在继任者 | 孙政才 |
+| behind bars | 入狱 | 马的前景 |
+| an unreliable guide | 不可靠指针 | 历史先例 |
+| norm-breaker | 破规者 | 习 |
+
+### 2. 本文核心表达
+
+1. `prides itself on stability` —— 自诩稳定（反衬）
+2. `taking the axe to members of his team` —— 挥斧清洗
+3. `at a rate not seen since the days of Mao` —— 毛泽东时代以来未见
+4. `The latest to fall is ...` —— 最新落马者
+5. `stripped of his party membership` —— 被开除党籍
+6. `fallen vacant` —— 席位空出
+7. `down to 21 ... from its initial 24` —— 数据变化
+8. `absent from major events` —— 缺席重大活动
+9. `charges of graft have almost always been laid against` —— 惯例式指控
+10. `easier to explain to the public than` —— 更易解释（比较）
+11. `what is often suspected to be the main reason` —— 常被怀疑的真因
+12. `Egregious corruption may be enough to explain` —— 审慎归因
+13. `not that ... will be able to comment` —— 不是说……能辩护
+14. `a reminder of Mr Xi's willingness to lash out` —— 清洗意愿的提醒
+15. `all but certain to lose` —— 几乎肯定失去
+16. `Mr Xi is a norm-breaker` —— 破规者（点题）
+
+### 3. 重要语法
+
+- **现在完成进行时**：`has been taking the axe`（持续进行）
+- **省略的过去分词定语**：`a rate not seen since ...`（= which was not seen）
+- **并列结构省略**：`his case [was] handed to prosecutors`
+- **被动进行时**：`he was being investigated`
+- **accuse A of B（三并列）**：`accepting ... engaging ... using ...`
+- **比较结构嵌套**：`easier ... than revealing what is often suspected to be ...`
+- **all but + 形容词**：`all but certain`
+- **最高级比较**：`the most under any leader post-Mao`
+- **插入语**：`at a minimum` / `however` / 破折号数据
+- **首字母大写句首强调**：`CHINA'S POLITICAL system`
+
+### 4. 长难句
+
+- 原句 1（完成进行时 + 省略定语）
+- 原句 4（Once + 同位语链）
+- 原句 6（比较结构 + 双重嵌套）
+- 原句 9（冒号 + all but certain）
+
+### 5. 写作技巧
+
+1. **首尾闭环的"稳定 vs 破规"**：开头"体系自诩稳定"→ 结尾"习是破规者"，用结构性反差完成论点闭环
+2. **数据即评论**：24→21、三名政治局委员、两名国防部长+外长+数十名军官——不直接批判，用"纪录"和"清单"让数字说话
+3. **官方措辞加引号**："extremely serious"、"huge amounts"、"large-scale family corruption"——引号全程保持报道者与官方话语的距离
+4. **两段式归因**：先给惯例解释（贪腐是"台面说法"），再讨论本案例外（无政治摩擦迹象）——审慎、平衡、不武断
+5. **审慎推测的措辞**：`may be enough`、`all but certain`、`that is an unreliable guide`——结论用限定词管理确定性
+6. **锤子式短句收尾**：`Mr Xi is a norm-breaker` 两词短句把全文论据压缩成判断，制造冲击
+7. **括号补充的叙事节奏**：用括号（孙政才背景）提供细节而不打断主线
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `pride oneself on` | 组织/个人特点 | The team prides itself on speed. |
+| `take the axe to` | 大幅削减/清洗 | The new CEO took the axe to the product line. |
+| `at a rate not seen since` | 历史比较 | Prices rose at a rate not seen since 2008. |
+| `strip A of B` | 剥夺 | The court stripped him of his licence. |
+| `fall vacant` | 职位空缺 | The directorship fell vacant last month. |
+| `absent from` | 缺席 | He was conspicuously absent from the meeting. |
+| `charges of graft` | 指控表述 | Charges of graft were laid against the mayor. |
+| `Egregious` | 严重程度 | The report documented egregious abuses. |
+| `lash out at` | 猛烈攻击 | She lashed out at her critics. |
+| `all but certain` | 极大概率 | Defeat is all but certain. |
+| `an unreliable guide` | 参考价值 | Past data is an unreliable guide to the future. |
+| `at a minimum` | 保底预期 | At a minimum, allow two hours. |
+| `the most under any` | 破纪录表述 | It was the most under any CEO in a decade. |

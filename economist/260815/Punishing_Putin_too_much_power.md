@@ -483,29 +483,38 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | backer | 支持者 |
-| 基础 | waive | 免除 |
-| 基础 | impose | 征收 |
-| 基础 | evades | 规避 |
-| 基础 | abandon | 抛弃 |
-| 进阶 | hefty | 压倒性的 |
-| 进阶 | bipartisanship | 两党合作 |
-| 进阶 | rancorously | 激烈地 |
-| 进阶 | discretion | 自由裁量权 |
-| 进阶 | thwarted | 挫败 |
-| 进阶 | patchwork | 拼凑 |
-| 进阶 | dub | 称为 |
-| 进阶 | spectre | 幽灵 |
-| 高级 | warped | 扭曲的 |
-| 高级 | bigwigs | 权贵 |
-| 高级 | illicitly | 非法地 |
-| 高级 | fanciful | 荒谬的 |
-| 高级 | cannier | 更聪明的 |
-| 高级 | volleys | 齐射 |
-| 高级 | interceptors | 拦截器 |
-| 高级 | muster | 集结 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| warped | 扭曲的 | a warped idea of personal glory |
+| bigwigs | 权贵 | other Russian bigwigs |
+| illicitly | 非法地 | ship the stuff illicitly |
+| fanciful | 荒谬的 | This fanciful legal theory |
+| cannier | 更聪明的 | other, cannier steps |
+| volleys | 齐射 | deadly volleys of Russian missiles |
+| interceptors | 拦截器 | American-made Patriot interceptors |
+| muster | 集结 | majorities it can muster |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| hefty | 压倒性的 | a hefty 86 votes to 11 |
+| bipartisanship | 两党合作 | a rare example of bipartisanship |
+| rancorously | 激烈地 | a rancorously divided nation |
+| discretion | 自由裁量权 | a lot of discretion for Congress |
+| thwarted | 挫败 | the justices thwarted this power grab |
+| patchwork | 拼凑 | under a patchwork of legal justifications |
+| dub | 称为 | as Mr Trump has dubbed himself |
+| spectre | 幽灵 | raises the spectre of a new trade war |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| backer | 支持者 | Ukraine and its backers |
+| waive | 免除 | The president may waive tariffs |
+| impose | 征收 | impose tariffs |
+| evades | 规避 | help Russia evade sanctions |
+| abandon | 抛弃 | America will not abandon Mr Putin's victims |
 
 ## 长难句专项
 

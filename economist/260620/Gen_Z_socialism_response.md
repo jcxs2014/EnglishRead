@@ -366,41 +366,46 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | v. | 引发、激起 |
-| 基础 | v. | 丑化、漫画化 |
-| 基础 | 短语 | 滑头的标签 |
-| 基础 | 短语 | 混为一谈 |
-| 基础 | 短语 | 更不用说 |
-| 基础 | 短语 | 坚持 |
-| 基础 | n. | 实质内容 |
-| 基础 | n. | 私有化 |
-| 基础 | adj. | 可衡量的 |
-| 基础 | 短语 | 对……怀疑 |
-| 基础 | v. | 支撑 |
-| 基础 | n. | 合法性 |
-| 基础 | v. | 承认 |
-| 基础 | 短语 | 公正对待 |
-| 基础 | n. | 铁板一块 |
-| 基础 | n. | 细微差别 |
-| 基础 | n. | 遗漏 |
-| 基础 | adj. | 服务不足的 |
-| 基础 | 短语 | 远未结束 |
-| 进阶 | a | lively response — 热烈的反响 |
-| 进阶 | unfair | to their generation — 对他们的世代不公平 |
-| 进阶 | take | criticisms seriously — 认真对待批评 |
-| 进阶 | to | some extent — 在某种程度上 |
-| 进阶 | views | that are often quite different — 常常相当不同的观点 |
-| 进阶 | stand | by the substance — 坚持实质 |
-| 进阶 | losing | legitimacy — 失去合法性 |
-| 进阶 | a | generation is not a monolith — 一代人不是铁板一块 |
-| 进阶 | should | have done more — 本应该做得更多 |
-| 进阶 | revisit | the subject — 重新审视主题 |
-| 进阶 | cover | — 封面文章 |
-| 进阶 | trust | in institutions — 制度信任 |
-| 进阶 | counter-arguments | — 反方观点 |
-| 进阶 | the | rich world — 富裕世界 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 引发、激起 |  |
+| v. | 丑化、漫画化 |  |
+| 短语 | 滑头的标签 |  |
+| 短语 | 混为一谈 |  |
+| 短语 | 更不用说 |  |
+| 短语 | 坚持 |  |
+| n. | 实质内容 |  |
+| n. | 私有化 |  |
+| adj. | 可衡量的 |  |
+| 短语 | 对……怀疑 |  |
+| v. | 支撑 |  |
+| n. | 合法性 |  |
+| v. | 承认 |  |
+| 短语 | 公正对待 |  |
+| n. | 铁板一块 |  |
+| n. | 细微差别 |  |
+| n. | 遗漏 |  |
+| adj. | 服务不足的 |  |
+| 短语 | 远未结束 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | lively response — 热烈的反响 |  |
+| unfair | to their generation — 对他们的世代不公平 |  |
+| take | criticisms seriously — 认真对待批评 |  |
+| to | some extent — 在某种程度上 |  |
+| views | that are often quite different — 常常相当不同的观点 |  |
+| stand | by the substance — 坚持实质 |  |
+| losing | legitimacy — 失去合法性 |  |
+| a | generation is not a monolith — 一代人不是铁板一块 |  |
+| should | have done more — 本应该做得更多 |  |
+| revisit | the subject — 重新审视主题 |  |
+| cover | — 封面文章 |  |
+| trust | in institutions — 制度信任 |  |
+| counter-arguments | — 反方观点 |  |
+| the | rich world — 富裕世界 |  |
 
 ## 三、长难句专项
 

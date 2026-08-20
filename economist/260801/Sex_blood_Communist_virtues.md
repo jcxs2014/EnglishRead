@@ -160,30 +160,22 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | gore-fest | 血腥盛宴 |
-| 基础 | thoroughly scrubbed | 彻底清除 |
-| 基础 | steamy films | 大尺度/火辣电影 |
-| 基础 | wholesome | 健康有益的 |
-| 基础 | adept at purging | 精通于清除 |
-| 基础 | digitally adding clothing to nudes | 数码给裸体加衣服 |
-| 基础 | crop out | 裁掉 |
-| 基础 | is anyone's guess | 没人知道 |
-| 基础 | racy | 大胆的/挑逗的 |
-| 基础 | dived by two-fifths | 骤降五分之二 |
-| 基础 | unwilling to budge | 不愿让步 |
-| 基础 | deserving of an Oscar | 值得一座奥斯卡 |
-| 基础 | a bad fit | 不合适 |
-| 进阶 | bloodsoaked | 血染的/浸透血的 |
-| 进阶 | silver screens | 银幕（电影的诗意说法） |
-| 进阶 | content-rating system | 内容分级制度 |
-| 进阶 | decapitations and eye-gougings | 断头和挖眼（《杀死比尔》经典暴力） |
-| 进阶 | film buffs | 影迷/电影发烧友 |
-| 进阶 | dismal box-offices | 惨淡票房 |
-| 进阶 | grown-ups | 成年人 |
-| 进阶 | CFA | 中国电影局 |
-| 进阶 | Obsession | 《着迷》（中国恐怖片名） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gore-fest | 血腥盛宴 | The film is a gore-fest from start to finish. |
+| thoroughly scrubbed | 彻底清除 | Violence has been thoroughly scrubbed from the film. |
+| steamy films | 大尺度/火辣电影 |  |
+| wholesome | 健康有益的 | Parents want wholesome content for kids. |
+| adept at purging | 精通于清除 | The board is adept at purging dissent. |
+| digitally adding clothing to nudes | 数码给裸体加衣服 |  |
+| crop out | 裁掉 | The censors cropped out all nudity. |
+| is anyone's guess | 没人知道 | Whether this will work is anyone's guess. |
+| racy | 大胆的/挑逗的 | The film was toned down to remove racy scenes. |
+| dived by two-fifths | 骤降五分之二 | Sales dived by two-fifths this year. |
+| unwilling to budge | 不愿让步 | The government seems unwilling to budge on this. |
+| deserving of an Oscar | 值得一座奥斯卡 |  |
+| a bad fit | 不合适 | That policy is a bad fit for the modern era. |
 
 ## 核心表达（可直接迁移）
 

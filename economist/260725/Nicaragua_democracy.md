@@ -236,34 +236,24 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | the homage that vice pays to virtue | 恶行向美德缴纳的贡品 |
-| 基础 | put on a big show of | 大张旗鼓地表演 |
-| 基础 | govern by popular consent | 依靠民众同意执政 |
-| 基础 | nobbled the courts | 使法院失效 |
-| 基础 | backslider | 民主倒退者 |
-| 基础 | set about dismantling | 着手拆除 |
-| 基础 | albeit fake ones | 尽管是假的 |
-| 基础 | rig elections | 操纵选举 |
-| 基础 | scrap them | 废除它们 |
-| 基础 | taken off the mask | 摘下假面具 |
-| 基础 | age in office | 在位变老 |
-| 基础 | foisted on | 强加给 |
-| 基础 | pay lip service to | 口头敷衍 |
-| 基础 | fall short | 达不到 |
-| 基础 | a tilted playing field | 不平等的赛场 |
-| 进阶 | phoney | 假的 |
-| 进阶 | power-hungry | 权力欲强的 |
-| 进阶 | dismantling | 拆除/瓦解 |
-| 进阶 | mental infirmity | 心智衰退 |
-| 进阶 | bombshell | 重磅消息 |
-| 进阶 | odious | 可憎的 |
-| 进阶 | presumed heir | 假定继承人 |
-| 进阶 | muzzle the press | 钳制媒体 |
-| 进阶 | dissidents | 异见人士 |
-| 进阶 | professed standards | 自称的标准 |
-| 进阶 | precedent | 先例 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the homage that vice pays to virtue | 恶行向美德缴纳的贡品 | Hypocrisy is the homage vice pays to virtue. |
+| put on a big show of | 大张旗鼓地表演 | Autocrats put on a show of holding elections. |
+| govern by popular consent | 依靠民众同意执政 | They claim to govern by popular consent. |
+| nobbled the courts | 使法院失效 | He nobbled the courts and the media. |
+| backslider | 民主倒退者 | Nicaragua is a backslider. |
+| set about dismantling | 着手拆除 | He set about dismantling institutions. |
+| albeit fake ones | 尽管是假的 | Elections continued, albeit fake ones. |
+| rig elections | 操纵选举 | They rig elections rather than scrap them. |
+| scrap them | 废除它们 | Strongmen rig elections rather than scrap them. |
+| taken off the mask | 摘下假面具 | Ortega has taken off the mask. |
+| age in office | 在位变老 | Leaders who cannot be removed age in office. |
+| foisted on | 强加给 | A dynasty foisted on unwilling citizens. |
+| pay lip service to | 口头敷衍 | They pay lip service to democratic norms. |
+| fall short | 达不到 | They fall short of their own standards. |
+| a tilted playing field | 不平等的赛场 | The will of the people prevailed despite a tilted field. |
 
 ## 核心表达（可直接迁移）
 

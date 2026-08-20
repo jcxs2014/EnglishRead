@@ -642,98 +642,107 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | developing spat | 升级中的口角 |
-| 基础 | spat | 口角 |
-| 基础 | pressing ... to | 施压 |
-| 基础 | premature | 过早的 |
-| 基础 | third parties | 第三方 |
-| 基础 | matters | 重要 |
-| 基础 | a warning shot | 警告信号 |
-| 基础 | whatever the outcome | 无论结果 |
-| 基础 | the balance of power | 权力平衡 |
-| 基础 | shifting | 转变 |
-| 基础 | highlights | 凸显 |
-| 基础 | the central dilemma | 核心困境 |
-| 基础 | wrecking | 毁掉 |
-| 基础 | frontier models | 前沿模型 |
-| 基础 | convincing | 令人信服的 |
-| 基础 | misused | 被滥用 |
-| 基础 | bioweapons | 生物武器 |
-| 基础 | cyberattacks | 网络攻击 |
-| 基础 | at scale | 大规模地 |
-| 基础 | acknowledging | 承认 |
-| 基础 | slow down | 放慢 |
-| 基础 | banning | 禁止 |
-| 基础 | heavily restricting | 严格限制 |
-| 基础 | keep its foot on the accelerator | 踩油门 |
-| 基础 | red-team testing | 红队测试 |
-| 基础 | robust preparedness | 充分准备 |
-| 基础 | sympathies are with | 立场在……一边 |
-| 基础 | oversight | 监督 |
-| 基础 | involvement | 参与 |
-| 基础 | imprison | 囚禁 |
-| 基础 | lieutenants | 副手 |
-| 基础 | hard to enforce | 难以执行 |
-| 基础 | cede | 割让 |
-| 基础 | above all | 尤其是 |
-| 基础 | in any case | 无论如何 |
-| 基础 | roll back | 使退回 |
-| 基础 | bend | 弯曲引导 |
-| 基础 | while managing | 同时管理 |
-| 基础 | establish | 确定 |
-| 基础 | kept from | 禁止接触 |
-| 基础 | left alone | 放任 |
-| 基础 | in the same way that | 正如 |
-| 基础 | apply to | 适用于 |
-| 基础 | the line should be drawn | 划线 |
-| 基础 | prescription drugs | 处方药 |
-| 基础 | over-the-counter | 非处方药 |
-| 基础 | strictly controlled | 严格控制 |
-| 基础 | freely available | 自由获取 |
-| 基础 | grave | 严重的 |
-| 基础 | the stakes are high | 利害重大 |
-| 基础 | retain the right to | 保留权利 |
-| 基础 | deep knowledge of | 深入了解 |
-| 基础 | a serious plan | 严肃计划 |
-| 基础 | in an emergency | 紧急情况 |
-| 基础 | in extreme cases | 极端情况 |
-| 基础 | it might be right to | 可能是对的 |
-| 基础 | the bar for | 门槛 |
-| 基础 | transparently | 透明地 |
-| 基础 | demanded to see | 要求查看 |
-| 基础 | in private | 私下 |
-| 基础 | fell well short of | 远未达到 |
-| 基础 | the right approach to | 正确方法 |
-| 基础 | not ... but | 不是……而是 |
-| 基础 | done well | 做得好 |
-| 基础 | the path to safety | 安全之路 |
-| 基础 | resolved | 解决 |
-| 基础 | in that spirit | 本着精神 |
-| 基础 | in practice | 实践上 |
-| 基础 | shareholders | 股东 |
-| 基础 | the bigger prize | 更大收获 |
-| 基础 | a political culture | 政治文化 |
-| 基础 | treats ... as | 当作 |
-| 基础 | leads the world in | 领先世界 |
-| 进阶 | advisers | 顾问 |
-| 进阶 | out there | 在外面 |
-| 进阶 | camp | 阵营 |
-| 进阶 | rolling back | 收回 |
-| 进阶 | toy | 玩具 |
-| 进阶 | apply | 适用 |
-| 进阶 | graver | 更严重 |
-| 进阶 | that is where | 这正是 |
-| 进阶 | concession | 让步 |
-| 进阶 | regulating | 监管 |
-| 进阶 | oversight | 监督 |
-| 高级 | Anthropic | 人类学（AI 公司名） |
-| 高级 | Fable | 寓言（模型名） |
-| 高级 | Mythos | 神话（模型名） |
-| 高级 | red-team | 红队 |
-| 高级 | prescription | 处方 |
-| 高级 | over-the-counter | 非处方 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| developing spat | 升级中的口角 | A developing spat between. |
+| spat | 口角 | The spat matters. |
+| pressing ... to | 施压 | Pressing the firm to comply. |
+| premature | 过早的 | Premature to release. |
+| third parties | 第三方 | Into the hands of third parties. |
+| matters | 重要 | The spat matters. |
+| a warning shot | 警告信号 | A warning shot about. |
+| whatever the outcome | 无论结果 | Whatever the outcome. |
+| the balance of power | 权力平衡 | The balance of power. |
+| shifting | 转变 | The balance is shifting. |
+| highlights | 凸显 | Highlights the dilemma. |
+| the central dilemma | 核心困境 | The central dilemma. |
+| wrecking | 毁掉 | Without wrecking them. |
+| frontier models | 前沿模型 | Frontier models. |
+| convincing | 令人信服的 | In convincing ways. |
+| misused | 被滥用 | Misused by bad actors. |
+| bioweapons | 生物武器 | Produce bioweapons. |
+| cyberattacks | 网络攻击 | Design cyberattacks. |
+| at scale | 大规模地 | Misinformation at scale. |
+| acknowledging | 承认 | Acknowledging those risks. |
+| slow down | 放慢 | Slow down the frontier. |
+| banning | 禁止 | Banning models. |
+| heavily restricting | 严格限制 | Heavily restricting. |
+| keep its foot on the accelerator | 踩油门 | Keep its foot on the accelerator. |
+| red-team testing | 红队测试 | Red-team testing. |
+| robust preparedness | 充分准备 | Robust preparedness. |
+| sympathies are with | 立场在……一边 | Sympathies are with the second camp. |
+| oversight | 监督 | Under the oversight of. |
+| involvement | 参与 | With the involvement of. |
+| imprison | 囚禁 | Imprison the frontier. |
+| lieutenants | 副手 | Trump's lieutenants. |
+| hard to enforce | 难以执行 | Hard to enforce. |
+| cede | 割让 | Cede the frontier to rivals. |
+| above all | 尤其是 | Above all China. |
+| in any case | 无论如何 | In any case. |
+| roll back | 使退回 | Not roll back the ones. |
+| bend | 弯曲引导 | Bend the technology. |
+| while managing | 同时管理 | While managing the risks. |
+| establish | 确定 | Establish what is safe. |
+| kept from | 禁止接触 | Kept from dangerous uses. |
+| left alone | 放任 | Less powerful models left alone. |
+| in the same way that | 正如 | In the same way that a knife. |
+| apply to | 适用于 | Rules apply to models. |
+| the line should be drawn | 划线 | Where the line is drawn. |
+| prescription drugs | 处方药 | Prescription drugs. |
+| over-the-counter | 非处方药 | Over-the-counter ones. |
+| strictly controlled | 严格控制 | Strictly controlled. |
+| freely available | 自由获取 | Freely available. |
+| grave | 严重的 | The risks are grave. |
+| the stakes are high | 利害重大 | The stakes are high. |
+| retain the right to | 保留权利 | Retain the right to act. |
+| deep knowledge of | 深入了解 | Deep knowledge of the frontier. |
+| a serious plan | 严肃计划 | A serious plan. |
+| in an emergency | 紧急情况 | In an emergency. |
+| in extreme cases | 极端情况 | In extreme cases. |
+| it might be right to | 可能是对的 | Might be right to ban. |
+| the bar for | 门槛 | The bar for that. |
+| transparently | 透明地 | Applied transparently. |
+| demanded to see | 要求查看 | Demanded to see. |
+| in private | 私下 | In private. |
+| fell well short of | 远未达到 | Fell well short of the bar. |
+| the right approach to | 正确方法 | The right approach. |
+| not ... but | 不是……而是 | Not to slow it down, but to bend it. |
+| done well | 做得好 | Done well. |
+| the path to safety | 安全之路 | The path to safety. |
+| resolved | 解决 | Resolved in that spirit. |
+| in that spirit | 本着精神 | In that spirit. |
+| in practice | 实践上 | In practice. |
+| shareholders | 股东 | Those of its shareholders. |
+| the bigger prize | 更大收获 | The bigger prize. |
+| a political culture | 政治文化 | A political culture. |
+| treats ... as | 当作 | Treats the frontier as a place. |
+| leads the world in | 领先世界 | Leads the world in AI. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| advisers | 顾问 |  |
+| out there | 在外面 |  |
+| camp | 阵营 |  |
+| rolling back | 收回 |  |
+| toy | 玩具 |  |
+| apply | 适用 |  |
+| graver | 更严重 |  |
+| that is where | 这正是 |  |
+| concession | 让步 |  |
+| regulating | 监管 |  |
+| oversight | 监督 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Anthropic | 人类学（AI 公司名） |  |
+| Fable | 寓言（模型名） |  |
+| Mythos | 神话（模型名） |  |
+| red-team | 红队 |  |
+| prescription | 处方 |  |
+| over-the-counter | 非处方 |  |
 
 ## 四、长难句专项
 

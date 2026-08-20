@@ -322,33 +322,19 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | eco-authoritarian | 生态威权主义 |
-| 基础 | spongified | 使成海绵化（城市） |
-| 基础 | paints a different picture | 呈现不同画面/实情 |
-| 基础 | got a pass | 得到通行豁免/免于问责 |
-| 基础 | done as much damage as | 破坏程度与……相当 |
-| 基础 | cold comfort | 冰冷的安慰 |
-| 基础 | testimony to | 见证/证明 |
-| 基础 | indicator species | 指示物种 |
-| 基础 | binding the soil | 固土 |
-| 基础 | go sour | 变坏/亏损 |
-| 进阶 | mother river | 母亲河 |
-| 进阶 | baiji | 白鳍豚（长江淡水豚，已功能性灭绝） |
-| 进阶 | paddlefish | 剑鼻鲟/白鲟 |
-| 进阶 | finless porpoise | 江豚（无鳍豚） |
-| 进阶 | Three Gorges dam | 三峡大坝 |
-| 进阶 | Poyang | 鄱阳湖（中国最大淡水湖） |
-| 进阶 | spongified cities | 海绵城市 |
-| 进阶 | permeable surfaces | 透水路面 |
-| 进阶 | tributaries | 支流 |
-| 进阶 | spawn | 产卵（鱼类繁殖） |
-| 进阶 | top predator | 顶级捕食者 |
-| 进阶 | migratory birds | 候鸟 |
-| 进阶 | aquaculture | 水产养殖 |
-| 进阶 | river patrols | 河面巡逻 |
-| 进阶 | retrained | 再培训 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| eco-authoritarian | 生态威权主义 | China's eco-authoritarian model has limits. |
+| spongified | 使成海绵化（城市） | Many cities have been spongified to absorb rainfall. |
+| paints a different picture | 呈现不同画面/实情 | A visit to the village paints a different picture. |
+| got a pass | 得到通行豁免/免于问责 | The industry has got a pass on emissions rules. |
+| done as much damage as | 破坏程度与……相当 | Dams have done as much damage as overfishing. |
+| cold comfort | 冰冷的安慰 | The official statement offered cold comfort. |
+| testimony to | 见证/证明 | The recovery is testimony to state capacity. |
+| indicator species | 指示物种 | Finless porpoises are indicator species. |
+| binding the soil | 固土 | Trees help bind the soil. |
+| go sour | 变坏/亏损 | Fish farming can go sour if demand falls. |
 
 ## 核心表达（可直接迁移）
 

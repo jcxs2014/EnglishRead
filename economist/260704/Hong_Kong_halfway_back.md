@@ -641,110 +641,119 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | lunchtime crush | 午市人潮 |
-| 基础 | dim-sum | 点心 |
-| 基础 | queuing for tables | 排队等位 |
-| 基础 | is back | 回来了 |
-| 基础 | real but incomplete | 真实但不完整 |
-| 基础 | it helps to | ……有帮助 |
-| 基础 | in one sense | 从某种意义上 |
-| 基础 | rebounded from its lows | 从低点反弹 |
-| 基础 | prime areas | 黄金地段 |
-| 基础 | stuffed with deposits | 塞满存款 |
-| 基础 | deposits | 存款 |
-| 基础 | invested back into | 重新投资进 |
-| 基础 | there are limits | 存在限制 |
-| 基础 | not a number but a feeling | 不是数字而是感觉 |
-| 基础 | by most economic measures | 按大多数经济指标 |
-| 基础 | recovered further than | 恢复得比……更远 |
-| 基础 | the gap between | ……之间的差距 |
-| 基础 | what the money says | 金钱所说的 |
-| 基础 | hard to ignore | 难以忽视 |
-| 基础 | the two halves | 两半 |
-| 基础 | do not add up | 加不到一起 |
-| 基础 | the most obvious sign | 最明显的标志 |
-| 基础 | tens of thousands of | 数万 |
-| 基础 | middle-class | 中产阶层 |
-| 基础 | the security law | 国安法 |
-| 基础 | that followed | 随后的 |
-| 基础 | some ... many more | 一些……更多 |
-| 基础 | emigrants | 移出者 |
-| 基础 | financiers | 金融家 |
-| 基础 | the very people | 正是那些人 |
-| 基础 | needs to thrive | 繁荣所需 |
-| 基础 | shows the same pattern | 同样模式 |
-| 基础 | lost ground to | 输给 |
-| 基础 | rivals | 对手 |
-| 基础 | IPOs | 首次公开募股 |
-| 基础 | thinner trading volumes | 更薄的交易量 |
-| 基础 | privately admit | 私下承认 |
-| 基础 | moved their attention | 转移注意力 |
-| 基础 | remains a big financial centre | 仍是大金融中心 |
-| 基础 | its share of | 它的份额 |
-| 基础 | shrinking | 萎缩 |
-| 基础 | the main beneficiary | 主要受益者 |
-| 基础 | discomfort | 不安 |
-| 基础 | absorbed a steady stream of | 吸纳源源不断的 |
-| 基础 | a steady stream of | 源源不断的 |
-| 基础 | a perfect substitute | 完美替代品 |
-| 基础 | on offer | 可提供的 |
-| 基础 | a paradox | 一个悖论 |
-| 基础 | came back | 回来了 |
-| 基础 | partly replaced by | 部分地被取代 |
-| 基础 | replaced by | 被取代 |
-| 基础 | mainland China | 中国内地 |
-| 基础 | behaves differently | 行为不同 |
-| 基础 | less likely to leave | 更不可能离开 |
-| 基础 | less likely to innovate | 更不可能创新 |
-| 基础 | extends to | 延伸到 |
-| 基础 | feels busy | 显得忙碌 |
-| 基础 | busyness | 忙碌感 |
-| 基础 | pricier | 更贵的 |
-| 基础 | sober | 清醒的、克制的 |
-| 基础 | hangs over | 笼罩 |
-| 基础 | the rules of the game | 游戏规则 |
-| 基础 | in ways that are still being discovered | 以仍未被知晓的方式 |
-| 基础 | learned to adapt | 学会适应 |
-| 基础 | has a cost | 有代价 |
-| 基础 | most visible in | 最明显体现在 |
-| 基础 | hiring, and keeping | 招聘并留住 |
-| 基础 | international talent | 国际人才 |
-| 基础 | can still recover further | 还能进一步恢复 |
-| 基础 | geographic position | 地理位置 |
-| 基础 | legal system | 法律体系 |
-| 基础 | links to the mainland | 与内地的联系 |
-| 基础 | remain valuable | 仍然有价值 |
-| 基础 | whether ... are willing to | 是否愿意 |
-| 基础 | rebuild the trust | 重建信任 |
-| 基础 | trust that was lost | 已失去的信任 |
-| 基础 | halfway back | 恢复一半 |
-| 基础 | not the same as | 与……不同 |
-| 基础 | what it was | 从前的样子 |
-| 进阶 | crush | 人潮 |
-| 进阶 | recovery | 复苏 |
-| 进阶 | Hang Seng index | 恒生指数 |
-| 进阶 | property prices | 房价 |
-| 进阶 | recover | 恢复 |
-| 进阶 | stockmarket | 股市 |
-| 进阶 | trading volumes | 交易量 |
-| 进阶 | beneficiary | 受益者 |
-| 进阶 | fund managers | 基金管理人 |
-| 进阶 | steam | 流 |
-| 进阶 | paradox | 悖论 |
-| 进阶 | innovate | 创新 |
-| 进阶 | banker | 银行家 |
-| 进阶 | decades | 数十年 |
-| 进阶 | national-security law | 国家安全法 |
-| 进阶 | trust | 信任 |
-| 进阶 | halfway | 一半 |
-| 高级 | Central | 中环 |
-| 高级 | Singapore | 新加坡 |
-| 高级 | dim-sum | 点心 |
-| 高级 | IPOs | 首次公开募股 |
-| 高级 | mainland | 内地 |
-| 高级 | Chaguan | 茶馆（专栏名） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lunchtime crush | 午市人潮 | The lunchtime crush. |
+| dim-sum | 点心 | A dim-sum restaurant. |
+| queuing for tables | 排队等位 | Customers queuing for tables. |
+| is back | 回来了 | The crush is back. |
+| real but incomplete | 真实但不完整 | A recovery that is real but incomplete. |
+| it helps to | ……有帮助 | It helps to start with. |
+| in one sense | 从某种意义上 | In one sense at least. |
+| rebounded from its lows | 从低点反弹 | Rebounded from its lows. |
+| prime areas | 黄金地段 | Prime areas. |
+| stuffed with deposits | 塞满存款 | Banks stuffed with deposits. |
+| deposits | 存款 | Deposits. |
+| invested back into | 重新投资进 | Invested back into the city. |
+| there are limits | 存在限制 | There are limits. |
+| not a number but a feeling | 不是数字而是感觉 | Not a number but a feeling. |
+| by most economic measures | 按大多数经济指标 | By most measures. |
+| recovered further than | 恢复得比……更远 | Recovered further than. |
+| the gap between | ……之间的差距 | The gap between what the money says. |
+| what the money says | 金钱所说的 | What the money says. |
+| hard to ignore | 难以忽视 | Hard to ignore. |
+| the two halves | 两半 | The two halves of the story. |
+| do not add up | 加不到一起 | Do not add up. |
+| the most obvious sign | 最明显的标志 | The most obvious sign. |
+| tens of thousands of | 数万 | Tens of thousands of people. |
+| middle-class | 中产阶层 | Middle-class Hong Kongers. |
+| the security law | 国安法 | The security law. |
+| that followed | 随后的 | The law that followed. |
+| some ... many more | 一些……更多 | Some have returned; many more have not. |
+| emigrants | 移出者 | The emigrants. |
+| financiers | 金融家 | Financiers. |
+| the very people | 正是那些人 | The very people we need. |
+| needs to thrive | 繁荣所需 | Needs to thrive. |
+| shows the same pattern | 同样模式 | Shows the same pattern. |
+| lost ground to | 输给 | Lost ground to rivals. |
+| rivals | 对手 | Regional rivals. |
+| IPOs | 首次公开募股 | Fewer IPOs. |
+| thinner trading volumes | 更薄的交易量 | Thinner trading volumes. |
+| privately admit | 私下承认 | Privately admit. |
+| moved their attention | 转移注意力 | Moved their attention. |
+| remains a big financial centre | 仍是大金融中心 | Remains a big financial centre. |
+| its share of | 它的份额 | Its share of regional business. |
+| shrinking | 萎缩 | The share is shrinking. |
+| the main beneficiary | 主要受益者 | The main beneficiary. |
+| discomfort | 不安 | Hong Kong's discomfort. |
+| absorbed a steady stream of | 吸纳源源不断的 | Absorbed a steady stream of. |
+| a steady stream of | 源源不断的 | A steady stream of people. |
+| a perfect substitute | 完美替代品 | A perfect substitute. |
+| on offer | 可提供的 | The only one on offer. |
+| a paradox | 一个悖论 | A paradox. |
+| came back | 回来了 | The money that came back. |
+| partly replaced by | 部分地被取代 | Partly replaced by. |
+| replaced by | 被取代 | Replaced by new money. |
+| mainland China | 中国内地 | Money from mainland China. |
+| behaves differently | 行为不同 | Money behaves differently. |
+| less likely to leave | 更不可能离开 | Less likely to leave. |
+| less likely to innovate | 更不可能创新 | Less likely to innovate. |
+| extends to | 延伸到 | Extends to ordinary life. |
+| feels busy | 显得忙碌 | The city feels busy. |
+| busyness | 忙碌感 | The busyness is different. |
+| pricier | 更贵的 | Pricier shops. |
+| sober | 清醒的、克制的 | A single word: "sober". |
+| hangs over | 笼罩 | Politics hangs over. |
+| the rules of the game | 游戏规则 | Changed the rules of the game. |
+| in ways that are still being discovered | 以仍未被知晓的方式 | In ways still being discovered. |
+| learned to adapt | 学会适应 | Learned to adapt. |
+| has a cost | 有代价 | The adaptation has a cost. |
+| most visible in | 最明显体现在 | Most visible in. |
+| hiring, and keeping | 招聘并留住 | Hiring, and keeping, talent. |
+| international talent | 国际人才 | International talent. |
+| can still recover further | 还能进一步恢复 | Can still recover further. |
+| geographic position | 地理位置 | Geographic position. |
+| legal system | 法律体系 | Its legal system. |
+| links to the mainland | 与内地的联系 | Links to the mainland. |
+| remain valuable | 仍然有价值 | Remain valuable. |
+| whether ... are willing to | 是否愿意 | Whether its leaders are willing. |
+| rebuild the trust | 重建信任 | Rebuild the trust. |
+| trust that was lost | 已失去的信任 | The trust that was lost. |
+| halfway back | 恢复一半 | Halfway back. |
+| not the same as | 与……不同 | Not the same as back. |
+| what it was | 从前的样子 | Not what it was. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| crush | 人潮 |  |
+| recovery | 复苏 |  |
+| Hang Seng index | 恒生指数 |  |
+| property prices | 房价 |  |
+| recover | 恢复 |  |
+| stockmarket | 股市 |  |
+| trading volumes | 交易量 |  |
+| beneficiary | 受益者 |  |
+| fund managers | 基金管理人 |  |
+| steam | 流 |  |
+| paradox | 悖论 |  |
+| innovate | 创新 |  |
+| banker | 银行家 |  |
+| decades | 数十年 |  |
+| national-security law | 国家安全法 |  |
+| trust | 信任 |  |
+| halfway | 一半 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Central | 中环 |  |
+| Singapore | 新加坡 |  |
+| dim-sum | 点心 |  |
+| IPOs | 首次公开募股 |  |
+| mainland | 内地 |  |
+| Chaguan | 茶馆（专栏名） |  |
 
 ## 四、长难句专项
 

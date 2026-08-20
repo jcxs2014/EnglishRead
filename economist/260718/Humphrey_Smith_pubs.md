@@ -503,3 +503,116 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| took sth to heart | 牢记于心 | Smith 信奉奥威尔 |
+| template | 模板 | 奥威尔理想酒吧 |
+| clientele | 顾客群 | 常客 |
+| regulars | 常客 | 酒吧客群 |
+| uncompromisingly | 毫不妥协地 | 维多利亚风格 |
+| decorous | 端庄得体 | 理想酒吧的歌唱 |
+| hostelries | 旅店 | 老字号酒馆 |
+| the haunt of | ……出没之地 | 狄更斯常去 |
+| heavy on | 大量使用 | 皮革黄铜 |
+| Muzak | 背景音乐 | 理想酒吧无音乐 |
+| even to | 连……都 | 薯片也要本地 |
+| to name but a few | 仅举几例 | 啤酒名 |
+| on the premises | 厂区内 | 自产自销 |
+| was not about to | 绝不会 | 不让酒吧失望 |
+| undesirables | 不受欢迎者 | 店规 |
+| culprit | 违规者 | 说脏话的人 |
+| refrain | 克制住口 | 店规执行 |
+| Henceforth | 从今往后 | 管理改革 |
+| woe betide | 小心倒霉 | 威胁语 |
+| spot-checks | 突击检查 | 老板巡店 |
+| sup | 啜饮 | 角落品酒 |
+| dire | 可怕的 | 关店后果 |
+| amiss | 不妥 | 发现问题 |
+| upshot | 结果 | 检查后果 |
+| poking / nosing | 探/窥 | 隐私 |
+| divalge | 泄露 | 拒绝透露 |
+| posh | 上流时髦 | 伊顿同学 |
+| deferential | 恭敬的 | 镇民态度 |
+| frugal | 节俭的 | 生活作风 |
+| legion | 众多 | 斗争无数 |
+| compulsory purchase | 强制征收 | 输给政府 |
+| kept at bay | 拒之门外 | 现代事物 |
+| unsparing | 不留情 | 对待酒吧 |
+| flagship | 旗舰 | 最爱酒吧 |
+| yearned to | 渴望 | 抓住理想 |
+| hang on to | 紧抓不放 | 田园牧歌 |
+| idyll | 田园诗 | 理想酒吧 |
+
+### 2. 本文核心表达
+
+1. `What makes an ideal English pub? ... Orwell knew` —— 设问 + 名人背书
+2. `took this to heart` —— 奉为圭臬
+3. `as much as for the beer` —— 同样程度（社交与饮酒并重）
+4. `Neither ... nor ...` —— 双重否定列"无"
+5. `Nothing was for sale that was not brewed ... or grown ... even to the crisps` —— 双重否定铁律
+6. `woe betide if they fell short` —— 古语威胁
+7. `let his pubs let him down` —— 双关所有权执念
+8. `He did spot-checks himself` —— 亲自巡查
+9. `The upshot could be dire` —— 短句断语
+10. `as they should have known` —— 本该知道（遗憾）
+11. `when all was said` —— 归根结底
+12. `no one truly did know him` —— 强调句（无人真正了解）
+13. `not least because` —— 尤其因为
+14. `Modern intrusions were kept at bay` —— 拒现代于门外
+15. `an extra disadvantage: his rules` —— 冒号点题
+16. `did not, and probably could not, exist` —— 双重否定点题
+
+### 3. 重要语法
+
+- **设问**：`What makes an ideal English pub?`
+- **双重否定**：`Nothing was for sale that was not ...` / `did not, and probably could not, exist`
+- **neither ... nor ...**：`neither a radio nor a piano`
+- **not ... but ...**：`not tenants ... but managers`
+- **would 表习惯**：`he would order a half ... and sup it`（过去习惯）
+- **would 虚拟条件**：`If he found anything amiss, he would close the pub down`
+- **should have done**：`as they should have known`
+- **had done 过去完成**：`had imposed an important rule`（1984 年相对后文更早）
+- **emphasis do**：`no one truly did know him`
+- **such ... that ...**：`lived in such secrecy ... that the only picture showed ...`
+- **the + 形容词化名词**：`the culprits` / `undesirables`
+- **legion 作表语**：`His fights ... were legion`
+
+### 4. 长难句
+
+- 原句 2（引文内嵌定语从句）
+- 原句 16（三处 At...by 平行）
+- 原句 18（such...that 长句）
+- 原句 25（did not, and probably could not, exist）
+
+### 5. 写作技巧
+
+1. **首尾文学闭环**：开头"奥威尔的标准"→ 结尾"奥威尔承认乌托邦不存在"——用文学引文给商人作传，首尾同源、互成反转
+2. **引文贯穿**：正文多处直接引用奥威尔原文（"regulars"、"decorous"）与受访者原话（"woe betide"、"shirt in closet"的变体），保持"原汁原味"的史料感
+3. **排比与电报式清单**："No dogs, no mobile phones ... No children ..."——用告示原貌呈现店规，形式即内容
+4. **讽刺的克制**：对主角"又敬又叹"——既承认其工艺匠心（Permian limestone、coopers、shire horses），又点出其偏执代价（缺一道甜点关店、桥断不修），立场平衡
+5. **细节即人物**：蜡夹克、惠灵顿靴、公交卡、只有一个侧翼的庄园、只有车道树篱的照片——用物象塑造性格
+6. **经济与情感的双线**：规则（经营手段）与理想（情感动机）并线推进，结尾汇合于"奥威尔悖论"
+7. **"unnsparing"的冷峻平静**：`Everyone would just have to drive the nine miles round` ——最戏剧的事实用最平静的句子说，喜剧与悲凉的混合
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `take sth to heart` | 认真对待建议 | She took the feedback to heart. |
+| `as much as for` | 双重目的 | People visit for the views as much as for the food. |
+| `neither ... nor ...` | 双重否定 | The room had neither windows nor doors. |
+| `to name but a few` | 举例省略 | Gold, silver, copper, to name but a few. |
+| `on the premises` | 场所说明 | Meals are cooked on the premises. |
+| `woe betide` | 威胁（戏谑） | Woe betide anyone who is late. |
+| `on one's own initiative` | 自主行动 | He acted on his own initiative. |
+| `among other things` | 插入列举 | We discussed, among other things, pricing. |
+| `The upshot was ...` | 总结结果 | The upshot was a complete redesign. |
+| `with immediate effect` | 正式生效 | The ban applies with immediate effect. |
+| `as they should have known` | 遗憾/责备 | As you should have known, the deal fell through. |
+| `not least because` | 强调主因 | It matters, not least because of cost. |
+| `kept at bay` | 防御控制 | The hedge kept the wind at bay. |
+| `yearn to` | 强烈渴望 | He yearned to simplify his life. |
+| `hang on to` | 不放手 | They hung on to their traditions. |

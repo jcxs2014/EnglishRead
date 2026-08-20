@@ -1019,77 +1019,82 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | baby bust | 婴儿潮骤减 |
-| 基础 | drilled into | 灌输进 |
-| 基础 | abetted by | 在……怂恿下 |
-| 基础 | inept | 不称职的 |
-| 基础 | chided | 斥责 |
-| 基础 | crueller | 更残忍的 |
-| 基础 | forcibly | 强制地 |
-| 基础 | total fertility rate | 总和生育率 |
-| 基础 | replacement rate | 更替率 |
-| 基础 | sputtering | 蹒跚的 |
-| 基础 | on a par with | 与……不相上下 |
-| 基础 | reference point | 参照点 |
-| 基础 | tally | 总数 |
-| 基础 | translate into | 转化为 |
-| 基础 | frets | 担忧 |
-| 基础 | procreate | 生育 |
-| 基础 | demographic transition | 人口转型 |
-| 基础 | striking | 引人注目的 |
-| 基础 | plunging | 暴跌 |
-| 基础 | exemplifies | 例证 |
-| 基础 | child mortality | 儿童死亡率 |
-| 基础 | make it to adulthood | 活到成年 |
-| 基础 | what really counts | 真正重要的是 |
-| 基础 | autonomy | 自主权 |
-| 基础 | a greater say | 更大发言权 |
-| 基础 | shoves down | 压低 |
-| 基础 | aspirational | 有抱负的 |
-| 基础 | dire | 极糟的 |
-| 基础 | arms race | 军备竞赛 |
-| 基础 | out-competed | 被比下去 |
-| 基础 | soap operas | 肥皂剧 |
-| 基础 | norms | 社会规范 |
-| 基础 | distracting | 分心的 |
-| 基础 | implications | 影响 |
-| 基础 | account for | 计入、说明 |
-| 基础 | central forecast | 核心预测 |
-| 基础 | apex | 顶点 |
-| 基础 | conflict-ridden | 冲突不断的 |
-| 基础 | scepticism | 怀疑 |
-| 基础 | bank on | 指望 |
-| 基础 | migrant labour | 移民劳动力 |
-| 基础 | purchasing power parity | 购买力平价 |
-| 基础 | cramp | 妨碍 |
-| 基础 | crossed the threshold | 越过门槛 |
-| 基础 | divert ... into | 转投 |
-| 基础 | tax take | 税收总额 |
-| 基础 | formal labour force | 正式劳动力 |
-| 基础 | unambiguously | 毫无歧义地 |
-| 基础 | hurtle through | 疾驰穿过 |
-| 基础 | pain-free | 无痛的 |
-| 进阶 | crude message | 粗鲁的口号 |
-| 进阶 | sterilisation | 绝育 |
-| 进阶 | reprinted | 再版 |
-| 进阶 | populous | 人口稠密的 |
-| 进阶 | encompassing | 涵盖 |
-| 进阶 | increasingly | 越来越 |
-| 进阶 | siblings | 兄弟姐妹 |
-| 进阶 | on a similar path to | 相似道路 |
-| 进阶 | peaked | 见顶 |
-| 进阶 | striking | 显著的 |
-| 进阶 | wealthy places | 富裕地区 |
-| 进阶 | well below | 远低于 |
-| 进阶 | joining their ranks | 加入行列 |
-| 进阶 | moderate fall | 中度下降 |
-| 进阶 | depicting | 描绘 |
-| 进阶 | failed to account for | 未计入 |
-| 进阶 | as a whole | 整体上 |
-| 进阶 | sooner than expected | 比预期更早 |
-| 进阶 | scarce public resources | 稀缺公共资源 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| baby bust | 婴儿潮骤减 | A baby bust. |
+| drilled into | 灌输进 | Drilled into their heads. |
+| abetted by | 在……怂恿下 | Abetted by his advisers. |
+| inept | 不称职的 | Inept handling. |
+| chided | 斥责 | Chide the parents. |
+| crueller | 更残忍的 | A crueller turn. |
+| forcibly | 强制地 | Forcibly sterilised. |
+| total fertility rate | 总和生育率 | The total fertility rate. |
+| replacement rate | 更替率 | Below replacement. |
+| sputtering | 蹒跚的 | Sputtering fertility. |
+| on a par with | 与……不相上下 | On a par with Norway. |
+| reference point | 参照点 | A reference point. |
+| tally | 总数 | A tally of 1.45bn. |
+| translate into | 转化为 | Translate into fewer people. |
+| frets | 担忧 | Frets about. |
+| procreate | 生育 | Encourage couples to procreate. |
+| demographic transition | 人口转型 | The demographic transition. |
+| striking | 引人注目的 | A striking contrast. |
+| plunging | 暴跌 | Plunge to record lows. |
+| exemplifies | 例证 | Exemplify the trend. |
+| child mortality | 儿童死亡率 | Child mortality rates. |
+| make it to adulthood | 活到成年 | Make it to adulthood. |
+| what really counts | 真正重要的是 | What counts is. |
+| autonomy | 自主权 | Gain autonomy. |
+| a greater say | 更大发言权 | A say in decisions. |
+| shoves down | 压低 | Shove down the rate. |
+| aspirational | 有抱负的 | Aspirational families. |
+| dire | 极糟的 | A dire situation. |
+| arms race | 军备竞赛 | An arms race. |
+| out-competed | 被比下去 | Out-competed by rivals. |
+| soap operas | 肥皂剧 | A popular soap opera. |
+| norms | 社会规范 | Cultural norms. |
+| distracting | 分心的 | A distracting device. |
+| implications | 影响 | Big implications. |
+| account for | 计入、说明 | Account for the decline. |
+| central forecast | 核心预测 | The central forecast. |
+| apex | 顶点 | Reach its apex. |
+| conflict-ridden | 冲突不断的 | A conflict-ridden region. |
+| scepticism | 怀疑 | Treat with scepticism. |
+| bank on | 指望 | Bank on imports. |
+| migrant labour | 移民劳动力 | Migrant workers. |
+| purchasing power parity | 购买力平价 | At purchasing power parity. |
+| cramp | 妨碍 | Cramp growth. |
+| crossed the threshold | 越过门槛 | Cross the threshold. |
+| divert ... into | 转投 | Divert resources into. |
+| tax take | 税收总额 | Raise the tax take. |
+| formal labour force | 正式劳动力 | Formal workforce. |
+| unambiguously | 毫无歧义地 | Unambiguously good. |
+| hurtle through | 疾驰穿过 | Hurtle through. |
+| pain-free | 无痛的 | Pain-free. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| crude message | 粗鲁的口号 | A crude slogan. |
+| sterilisation | 绝育 | Forced sterilisation. |
+| reprinted | 再版 | Reprint the textbook. |
+| populous | 人口稠密的 | Populous states. |
+| encompassing | 涵盖 | Encompassing the city. |
+| increasingly | 越来越 | Increasingly important. |
+| siblings | 兄弟姐妹 | Without siblings. |
+| on a similar path to | 相似道路 | On a similar path. |
+| peaked | 见顶 | Population peaked. |
+| striking | 显著的 | Striking example. |
+| wealthy places | 富裕地区 | Wealthy countries. |
+| well below | 远低于 | Well below the rate. |
+| joining their ranks | 加入行列 | Join the ranks. |
+| moderate fall | 中度下降 | A moderate decline. |
+| depicting | 描绘 | Depicting middle-class life. |
+| failed to account for | 未计入 | Failed to account. |
+| as a whole | 整体上 | Asia as a whole. |
+| sooner than expected | 比预期更早 | Sooner than expected. |
+| scarce public resources | 稀缺公共资源 | Scarce resources. |
 
 ## 四、长难句专项
 

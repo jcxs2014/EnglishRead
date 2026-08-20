@@ -677,102 +677,103 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | give ... credit for | 为……称赞 |
-| 基础 | stepping up | 挺身而出 |
-| 基础 | fill the breach | 填补缺口 |
-| 基础 | military aid | 军事援助 |
-| 基础 | accelerating the flow | 加快流动 |
-| 基础 | stiffening sanctions | 收紧制裁 |
-| 基础 | stiffen | 使更强硬 |
-| 基础 | as a result of | 由于 |
-| 基础 | grim losses | 惨重的损失 |
-| 基础 | putting pressure on | 施加压力 |
-| 基础 | diplomatic efforts | 外交努力 |
-| 基础 | fizzling | 逐渐失败 |
-| 基础 | take the lead | 带头 |
-| 基础 | urgent question | 紧迫的问题 |
-| 基础 | concerns | 涉及、关于 |
-| 基础 | transformed ... from ... into | 从……转变为…… |
-| 基础 | a ward of the West | 西方的被监护对象 |
-| 基础 | a crucial security partner | 关键安全伙伴 |
-| 基础 | battle-hardened | 久经沙场的 |
-| 基础 | making progress | 取得进展 |
-| 基础 | innovative defence industry | 创新国防工业 |
-| 基础 | is to defend | 若要保卫 |
-| 基础 | wean itself off | 戒掉依赖 |
-| 基础 | transatlantic help | 大西洋彼岸的帮助 |
-| 基础 | as badly as the other way round | 与反过来一样迫切 |
-| 基础 | priority should be to | 优先应是 |
-| 基础 | fully embrace | 全面拥抱 |
-| 基础 | cement links with | 巩固联系 |
-| 基础 | make up for territory lost | 弥补失地 |
-| 基础 | full EU membership | 正式欧盟成员资格 |
-| 基础 | a candidate for membership | 入盟候选国 |
-| 基础 | is expected to open | 预计将打开 |
-| 基础 | negotiating "cluster" | 谈判簇 |
-| 基础 | the rule of law | 法治 |
-| 基础 | as soon as next year | 最快明年 |
-| 基础 | even enthusiasts | 即使热心者 |
-| 基础 | within a decade | 十年之内 |
-| 基础 | the gulf in expectations | 期望的鸿沟 |
-| 基础 | responsibility ... lies with | 责任在于 |
-| 基础 | strengthen ... institutions | 加强机构 |
-| 基础 | fight corruption | 打击腐败 |
-| 基础 | be more open to | 对……更开放 |
-| 基础 | take early steps into | 提前迈入 |
-| 基础 | associate membership | 准成员资格 |
-| 基础 | with limited voting rights | 投票权有限 |
-| 基础 | a waystation to | 通往……的中转站 |
-| 基础 | full-fat accession | 完全正式加入 |
-| 基础 | was rash to | 草率地做 |
-| 基础 | dismiss ... out of hand | 一口回绝 |
-| 基础 | the bigger task falls to | 更大任务落在 |
-| 基础 | look at ... as | 把……视为 |
-| 基础 | a kind of charity case | 某种慈善个案 |
-| 基础 | has much to learn from | 有很多可学 |
-| 基础 | drone technology | 无人机技术 |
-| 基础 | deployment | 部署 |
-| 基础 | bolster their own security | 加强自身安全 |
-| 基础 | by investing in their neighbour | 通过投资邻国 |
-| 基础 | testing arms systems | 测试武器系统 |
-| 基础 | whereas | 而、然而 |
-| 基础 | worry about going too fast | 担心推进太快 |
-| 基础 | talk of the risks | 谈到风险 |
-| 基础 | rushing to bring ... into | 急于拉进 |
-| 基础 | institutionally weak | 制度薄弱的 |
-| 基础 | not baseless | 并非毫无根据 |
-| 基础 | miss the bigger picture | 错过更大图景 |
-| 基础 | hard power | 硬实力 |
-| 基础 | an increasingly hostile world | 日益敌对的世界 |
-| 基础 | folding ... into ... embrace | 折叠进……怀抱 |
-| 基础 | a means of | 一种手段 |
-| 基础 | confronting the threat | 对抗威胁 |
-| 基础 | the obvious regional threat | 明显的区域威胁 |
-| 基础 | merely a bureaucratic process | 仅仅是官僚程序 |
-| 基础 | a geopolitical tool | 地缘政治工具 |
-| 基础 | looks vulnerable | 显得脆弱 |
-| 基础 | predatory great powers | 掠夺性大国 |
-| 基础 | a European Security Council | 欧洲安全理事会 |
-| 基础 | formalise | 使正式化 |
-| 基础 | a security partnership | 安全伙伴关系 |
-| 基础 | speed up the entry process | 加快入盟进程 |
-| 基础 | drafting an accession treaty | 起草入盟条约 |
-| 基础 | a sign of intent | 意图的信号 |
-| 基础 | war-weary people | 精疲力竭的人民 |
-| 基础 | post-war reconstruction | 战后重建 |
-| 基础 | in return | 作为回报 |
-| 基础 | be open to delays | 对延迟开放 |
-| 基础 | subsidies | 补贴 |
-| 基础 | freedom-of-movement rights | 人员自由流动权 |
-| 基础 | find unanimity | 达成全体一致 |
-| 基础 | the alternative is bleak | 另一选择黯淡 |
-| 基础 | polls show | 民调显示 |
-| 基础 | souring on | 对……热情转淡 |
-| 基础 | ring alarm bells | 敲响警钟 |
-| 基础 | which is worse | 哪种更糟 |
-| 基础 | poor but enthusiastic | 贫穷却热情 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| give ... credit for | 为……称赞 | Give credit where it's due. |
+| stepping up | 挺身而出 | Step up to the challenge. |
+| fill the breach | 填补缺口 | Fill the breach. |
+| military aid | 军事援助 | Cut military aid. |
+| accelerating the flow | 加快流动 | Accelerate the flow. |
+| stiffening sanctions | 收紧制裁 | Stiffen sanctions. |
+| stiffen | 使更强硬 | Stiffen the rules. |
+| as a result of | 由于 | As a result of the aid. |
+| grim losses | 惨重的损失 | Grim casualties. |
+| putting pressure on | 施加压力 | Put pressure on the leader. |
+| diplomatic efforts | 外交努力 | Diplomatic efforts to end the war. |
+| fizzling | 逐渐失败 | The plan fizzled out. |
+| take the lead | 带头 | Take the lead in. |
+| urgent question | 紧迫的问题 | An urgent question. |
+| concerns | 涉及、关于 | Concerns the relationship. |
+| transformed ... from ... into | 从……转变为…… | Transformed from a ward into. |
+| a ward of the West | 西方的被监护对象 | A ward of the court. |
+| a crucial security partner | 关键安全伙伴 | A security partner. |
+| battle-hardened | 久经沙场的 | Battle-hardened veterans. |
+| making progress | 取得进展 | Make real progress. |
+| innovative defence industry | 创新国防工业 | A thriving defence sector. |
+| is to defend | 若要保卫 | If we are to succeed. |
+| wean itself off | 戒掉依赖 | Wean off foreign aid. |
+| transatlantic help | 大西洋彼岸的帮助 | Transatlantic support. |
+| as badly as the other way round | 与反过来一样迫切 | Needs it as badly. |
+| priority should be to | 优先应是 | The priority is to. |
+| fully embrace | 全面拥抱 | Embrace the country. |
+| cement links with | 巩固联系 | Cement ties. |
+| make up for territory lost | 弥补失地 | Make up for losses. |
+| full EU membership | 正式欧盟成员资格 | Apply for full membership. |
+| a candidate for membership | 入盟候选国 | A candidate country. |
+| is expected to open | 预计将打开 | Expected to begin. |
+| negotiating "cluster" | 谈判簇 | A negotiating cluster. |
+| the rule of law | 法治 | Democracy and rule of law. |
+| as soon as next year | 最快明年 | As soon as next year. |
+| even enthusiasts | 即使热心者 | Even the enthusiasts. |
+| within a decade | 十年之内 | Within a decade. |
+| the gulf in expectations | 期望的鸿沟 | A gulf in expectations. |
+| responsibility ... lies with | 责任在于 | The fault lies with. |
+| strengthen ... institutions | 加强机构 | Independent institutions. |
+| fight corruption | 打击腐败 | Anti-corruption drive. |
+| be more open to | 对……更开放 | Be open to new ideas. |
+| take early steps into | 提前迈入 | Take the first steps. |
+| associate membership | 准成员资格 | Associate status. |
+| with limited voting rights | 投票权有限 | Limited voting rights. |
+| a waystation to | 通往……的中转站 | A waystation to membership. |
+| full-fat accession | 完全正式加入 | Full-fat membership. |
+| was rash to | 草率地做 | A rash decision. |
+| dismiss ... out of hand | 一口回绝 | Rejected out of hand. |
+| the bigger task falls to | 更大任务落在 | The job falls to me. |
+| look at ... as | 把……视为 | Look at it as a charity. |
+| a kind of charity case | 某种慈善个案 | Not a charity case. |
+| has much to learn from | 有很多可学 | Much to learn from. |
+| drone technology | 无人机技术 | Drone warfare. |
+| deployment | 部署 | Production and deployment. |
+| bolster their own security | 加强自身安全 | Bolster security. |
+| by investing in their neighbour | 通过投资邻国 | Invest in Ukraine. |
+| testing arms systems | 测试武器系统 | Test weapon systems. |
+| whereas | 而、然而 | Whereas at home. |
+| worry about going too fast | 担心推进太快 | Worried about rushing. |
+| talk of the risks | 谈到风险 | Talk of the risks. |
+| rushing to bring ... into | 急于拉进 | Rush to admit. |
+| institutionally weak | 制度薄弱的 | Institutionally fragile. |
+| not baseless | 并非毫无根据 | Baseless fears. |
+| miss the bigger picture | 错过更大图景 | See the bigger picture. |
+| hard power | 硬实力 | Military hard power. |
+| an increasingly hostile world | 日益敌对的世界 | A hostile environment. |
+| folding ... into ... embrace | 折叠进……怀抱 | Fold into the embrace. |
+| a means of | 一种手段 | A means of defence. |
+| confronting the threat | 对抗威胁 | Confront the threat. |
+| the obvious regional threat | 明显的区域威胁 | A regional threat. |
+| merely a bureaucratic process | 仅仅是官僚程序 | Mere bureaucracy. |
+| a geopolitical tool | 地缘政治工具 | A geopolitical instrument. |
+| looks vulnerable | 显得脆弱 | A vulnerable continent. |
+| predatory great powers | 掠夺性大国 | Predatory rivals. |
+| a European Security Council | 欧洲安全理事会 | A European Security Council. |
+| formalise | 使正式化 | Formalise the partnership. |
+| a security partnership | 安全伙伴关系 | A security pact. |
+| speed up the entry process | 加快入盟进程 | Speed up the process. |
+| drafting an accession treaty | 起草入盟条约 | Draft the treaty. |
+| a sign of intent | 意图的信号 | A sign of intent. |
+| war-weary people | 精疲力竭的人民 | A war-weary nation. |
+| post-war reconstruction | 战后重建 | Fund reconstruction. |
+| in return | 作为回报 | In return for. |
+| be open to delays | 对延迟开放 | Open to delays. |
+| subsidies | 补贴 | EU subsidies. |
+| freedom-of-movement rights | 人员自由流动权 | Free movement of people. |
+| find unanimity | 达成全体一致 | Reach unanimity. |
+| the alternative is bleak | 另一选择黯淡 | A bleak outlook. |
+| polls show | 民调显示 | Polls show that. |
+| souring on | 对……热情转淡 | Sour on the EU. |
+| ring alarm bells | 敲响警钟 | Set off alarm bells. |
+| which is worse | 哪种更糟 | Which is worse? |
+| poor but enthusiastic | 贫穷却热情 | Poor but keen. |
 
 ## 四、长难句专项
 

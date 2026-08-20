@@ -847,141 +847,150 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | a sleepy town | 沉睡小镇 |
-| 基础 | risen almost overnight | 一夜崛起 |
-| 基础 | known as | 被称为 |
-| 基础 | the hub of | 枢纽 |
-| 基础 | catching up with | 赶上 |
-| 基础 | one-tenth as much ... as | 十分之一 |
-| 基础 | a product of | ……的产物 |
-| 基础 | waged | 发动 |
-| 基础 | part of a bigger story | 更大故事的一部分 |
-| 基础 | redrawing the map of | 重绘地图 |
-| 基础 | reduce its dependence on | 减少依赖 |
-| 基础 | goods that matter | 重要商品 |
-| 基础 | not just ... but | 不只……而是 |
-| 基础 | tax | 征税 |
-| 基础 | move production out of | 迁出生产 |
-| 基础 | clinging to | 紧抓不放 |
-| 基础 | makes ... possible | 使可能 |
-| 基础 | a strange hybrid | 奇怪混合体 |
-| 基础 | machinery | 机械 |
-| 基础 | components | 零部件 |
-| 基础 | know-how | 专门技术 |
-| 基础 | in effect | 实际上 |
-| 基础 | a branch office | 分公司 |
-| 基础 | a compromise between | 双方妥协 |
-| 基础 | simply better | 就是更好 |
-| 基础 | is just not there | 达不到 |
-| 基础 | reliability | 可靠性 |
-| 基础 | under strain | 承受压力 |
-| 基础 | slap tariffs on | 猛加关税 |
-| 基础 | dodge | 规避 |
-| 基础 | duties | 关税 |
-| 基础 | sent a shudder through | 令……战栗 |
-| 基础 | packed up | 打包 |
-| 基础 | how hard it is to | 有多难 |
-| 基础 | a commodity | 大宗商品 |
-| 基础 | depend on ... for | 在……依赖 |
-| 基础 | the supply chain | 供应链 |
-| 基础 | polysilicon | 多晶硅 |
-| 基础 | stamp them out | 冲压出 |
-| 基础 | dominates | 占主导 |
-| 基础 | building up | 建立积累 |
-| 基础 | with subsidies | 以补贴 |
-| 基础 | crucially | 关键的是 |
-| 基础 | with scale | 以规模 |
-| 基础 | such vast quantities that | 如此巨量以至于 |
-| 基础 | has collapsed | 已暴跌 |
-| 基础 | competitive with | 与……竞争 |
-| 基础 | fossil fuels | 化石燃料 |
-| 基础 | embedded in | 嵌入 |
-| 基础 | production lines | 生产线 |
-| 基础 | transferred | 转移 |
-| 基础 | learning-by-doing | 干中学 |
-| 基础 | the ecosystem of | 生态系统 |
-| 基础 | replicate | 复制 |
-| 基础 | nevertheless | 然而 |
-| 基础 | flowing out of | 流出 |
-| 基础 | diversifying their supply chains | 多元化供应链 |
-| 基础 | limited | 有限的 |
-| 基础 | new capacity | 新增产能 |
-| 基础 | with close links to China | 与中国关系密切 |
-| 基础 | set up | 设立 |
-| 基础 | beneficiary | 受益者 |
-| 基础 | wooing | 招揽 |
-| 基础 | tax breaks | 税收优惠 |
-| 基础 | cheap labour | 廉价劳动力 |
-| 基础 | none can match | 无人能比 |
-| 基础 | the combination of | 组合 |
-| 基础 | engineering talent | 工程人才 |
-| 基础 | rerouted | 改道 |
-| 基础 | rebuilt | 重建 |
-| 基础 | clean-energy supply chains | 清洁能源供应链 |
-| 基础 | takes longer and costs more | 更慢更贵 |
-| 基础 | shipping from | 从……发货 |
-| 基础 | logistics networks | 物流网络 |
-| 基础 | grown up around | 围绕成长 |
-| 基础 | far better than | 远好于 |
-| 基础 | oriented towards | 面向 |
-| 基础 | shipping lanes | 航线 |
-| 基础 | the export machine | 出口机器 |
-| 基础 | for its part | 就它而言 |
-| 基础 | partly to ... and partly to | 部分……部分…… |
-| 基础 | avoid tariffs | 规避关税 |
-| 基础 | stepping up | 加大 |
-| 基础 | higher-value goods | 更高价值商品 |
-| 基础 | in China itself | 在中国本土 |
-| 基础 | domestic demand | 内需 |
-| 基础 | reliance on exports | 出口依赖 |
-| 基础 | stays weak | 持续疲软 |
-| 基础 | left with too much capacity | 产能过剩 |
-| 基础 | restore American manufacturing | 恢复美国制造业 |
-| 基础 | taking back | 夺回 |
-| 基础 | slogan | 口号 |
-| 基础 | the gap between ... and | 差距 |
-| 基础 | bring ... home | 带回家 |
-| 基础 | alone | 单靠 |
-| 基础 | more of the same | 老样子 |
-| 基础 | satisfies nobody fully | 无人完全满意 |
-| 基础 | drag on | 拖延 |
-| 基础 | reluctant to | 不愿 |
-| 基础 | give way | 让步 |
-| 基础 | divided into two clean blocs | 分成两个干净阵营 |
-| 基础 | intertwined | 交织的 |
-| 基础 | partial, messy and slow | 部分混乱缓慢 |
-| 基础 | just as ... are discovering | 正如……正在发现 |
-| 进阶 | overnight | 一夜之间 |
-| 进阶 | inhabitants | 居民 |
-| 进阶 | solar-panel | 太阳能电池板 |
-| 进阶 | hybrid | 混合体 |
-| 进阶 | strain | 张力 |
-| 进阶 | shudder | 战栗 |
-| 进阶 | manufacturer | 制造商 |
-| 进阶 | commodity | 商品 |
-| 进阶 | subsidies | 补贴 |
-| 进阶 | scale | 规模 |
-| 进阶 | expertise | 专门知识 |
-| 进阶 | capital | 资本 |
-| 进阶 | diversification | 多元化 |
-| 进阶 | infrastructure | 基础设施 |
-| 进阶 | rerouting | 改道 |
-| 进阶 | port | 港口 |
-| 进阶 | adapting | 适应 |
-| 进阶 | overcapacity | 产能过剩 |
-| 进阶 | reliance | 依赖 |
-| 进阶 | bloc | 阵营 |
-| 进阶 | intertwined | 纠缠 |
-| 高级 | Wuxi | 无锡 |
-| 高级 | Vietnam | 越南 |
-| 高级 | Thailand | 泰国 |
-| 高级 | Malaysia | 马来西亚 |
-| 高级 | polysilicon | 多晶硅 |
-| 高级 | solar-panel | 太阳能板 |
-| 高级 | electric cars | 电动汽车 |
-| 高级 | Little Wuxi | 小无锡 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a sleepy town | 沉睡小镇 | A sleepy town in northern Vietnam. |
+| risen almost overnight | 一夜崛起 | A factory risen overnight. |
+| known as | 被称为 | Known as "Little Wuxi". |
+| the hub of | 枢纽 | The hub of the solar industry. |
+| catching up with | 赶上 | Catching up with Wuxi. |
+| one-tenth as much ... as | 十分之一 | One-tenth as much as Wuxi. |
+| a product of | ……的产物 | A product of the trade war. |
+| waged | 发动 | The trade war waged on China. |
+| part of a bigger story | 更大故事的一部分 | Part of a bigger story. |
+| redrawing the map of | 重绘地图 | Redrawing the map of manufacturing. |
+| reduce its dependence on | 减少依赖 | Reduce its dependence on China. |
+| goods that matter | 重要商品 | Goods that matter. |
+| not just ... but | 不只……而是 | Not just to tax but to force. |
+| tax | 征税 | To tax Chinese imports. |
+| move production out of | 迁出生产 | Move production out of China. |
+| clinging to | 紧抓不放 | Clinging to the technology. |
+| makes ... possible | 使可能 | Makes their products possible. |
+| a strange hybrid | 奇怪混合体 | A strange hybrid. |
+| machinery | 机械 | Chinese machinery, components and know-how. |
+| components | 零部件 | Components and know-how. |
+| know-how | 专门技术 | Chinese know-how. |
+| in effect | 实际上 | In effect, a branch office. |
+| a branch office | 分公司 | A branch office of Wuxi. |
+| a compromise between | 双方妥协 | A compromise between the two sides. |
+| simply better | 就是更好 | Simply better. |
+| is just not there | 达不到 | The quality is just not there. |
+| reliability | 可靠性 | The quality and reliability. |
+| under strain | 承受压力 | The compromise is under strain. |
+| slap tariffs on | 猛加关税 | Slap tariffs on Vietnamese goods. |
+| dodge | 规避 | Dodge American duties. |
+| duties | 关税 | Duties on Chinese imports. |
+| sent a shudder through | 令……战栗 | Sent a shudder through the industry. |
+| packed up | 打包 | Packed up our machinery. |
+| how hard it is to | 有多难 | How hard it is to reduce. |
+| a commodity | 大宗商品 | Technology is a commodity. |
+| depend on ... for | 在……依赖 | Depend on China for. |
+| the supply chain | 供应链 | The supply chain. |
+| polysilicon | 多晶硅 | Polysilicon. |
+| stamp them out | 冲压出 | The machines that stamp them out. |
+| dominates | 占主导 | China dominates. |
+| building up | 建立积累 | Building up its solar industry. |
+| with subsidies | 以补贴 | With subsidies. |
+| crucially | 关键的是 | Crucially, with scale. |
+| with scale | 以规模 | With scale. |
+| such vast quantities that | 如此巨量以至于 | Such vast quantities that. |
+| has collapsed | 已暴跌 | The price has collapsed. |
+| competitive with | 与……竞争 | Competitive with fossil fuels. |
+| fossil fuels | 化石燃料 | Fossil fuels. |
+| embedded in | 嵌入 | Expertise embedded in. |
+| production lines | 生产线 | Production lines. |
+| transferred | 转移 | Cannot be transferred. |
+| learning-by-doing | 干中学 | Years of learning-by-doing. |
+| the ecosystem of | 生态系统 | The ecosystem of suppliers. |
+| replicate | 复制 | Replicate what China has built. |
+| nevertheless | 然而 | Capital is flowing out. |
+| flowing out of | 流出 | Flowing out of China. |
+| diversifying their supply chains | 多元化供应链 | Diversifying supply chains. |
+| limited | 有限的 | The diversification is limited. |
+| new capacity | 新增产能 | New capacity. |
+| with close links to China | 与中国关系密切 | Countries with close links to China. |
+| set up | 设立 | Factories set up by Chinese firms. |
+| beneficiary | 受益者 | Not the only beneficiary. |
+| wooing | 招揽 | Wooing manufacturers. |
+| tax breaks | 税收优惠 | Tax breaks and cheap labour. |
+| cheap labour | 廉价劳动力 | Cheap labour. |
+| none can match | 无人能比 | None can match. |
+| the combination of | 组合 | The combination of infrastructure. |
+| engineering talent | 工程人才 | Engineering talent. |
+| rerouted | 改道 | Supply chains being rerouted. |
+| rebuilt | 重建 | Not rebuilt. |
+| clean-energy supply chains | 清洁能源供应链 | Clean-energy supply chains. |
+| takes longer and costs more | 更慢更贵 | Takes longer and costs more. |
+| shipping from | 从……发货 | Shipping from China. |
+| logistics networks | 物流网络 | Logistics networks. |
+| grown up around | 围绕成长 | Networks grown up around China. |
+| far better than | 远好于 | Far better than anything. |
+| oriented towards | 面向 | Oriented towards the export machine. |
+| shipping lanes | 航线 | Ports and shipping lanes. |
+| the export machine | 出口机器 | The Chinese export machine. |
+| for its part | 就它而言 | China, for its part. |
+| partly to ... and partly to | 部分……部分…… | Partly to follow, partly to avoid. |
+| avoid tariffs | 规避关税 | Avoid tariffs. |
+| stepping up | 加大 | Stepping up production. |
+| higher-value goods | 更高价值商品 | Higher-value goods. |
+| in China itself | 在中国本土 | In China itself. |
+| domestic demand | 内需 | Domestic demand. |
+| reliance on exports | 出口依赖 | Reliance on exports. |
+| stays weak | 持续疲软 | Demand stays weak. |
+| left with too much capacity | 产能过剩 | Left with too much capacity. |
+| restore American manufacturing | 恢复美国制造业 | Restore manufacturing. |
+| taking back | 夺回 | Taking back the solar industry. |
+| slogan | 口号 | A useful slogan. |
+| the gap between ... and | 差距 | The gap between slogan and reality. |
+| bring ... home | 带回家 | Bring the factories home. |
+| alone | 单靠 | Tariffs alone. |
+| more of the same | 老样子 | More of the same. |
+| satisfies nobody fully | 无人完全满意 | Satisfies nobody fully. |
+| drag on | 拖延 | The war will drag on. |
+| reluctant to | 不愿 | Reluctant to give way. |
+| give way | 让步 | Give way. |
+| divided into two clean blocs | 分成两个干净阵营 | Two clean blocs. |
+| intertwined | 交织的 | Too intertwined to separate. |
+| partial, messy and slow | 部分混乱缓慢 | Partial, messy and slow. |
+| just as ... are discovering | 正如……正在发现 | Just as voters are discovering. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| overnight | 一夜之间 |  |
+| inhabitants | 居民 |  |
+| solar-panel | 太阳能电池板 |  |
+| hybrid | 混合体 |  |
+| strain | 张力 |  |
+| shudder | 战栗 |  |
+| manufacturer | 制造商 |  |
+| commodity | 商品 |  |
+| subsidies | 补贴 |  |
+| scale | 规模 |  |
+| expertise | 专门知识 |  |
+| capital | 资本 |  |
+| diversification | 多元化 |  |
+| infrastructure | 基础设施 |  |
+| rerouting | 改道 |  |
+| port | 港口 |  |
+| adapting | 适应 |  |
+| overcapacity | 产能过剩 |  |
+| reliance | 依赖 |  |
+| bloc | 阵营 |  |
+| intertwined | 纠缠 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Wuxi | 无锡 |  |
+| Vietnam | 越南 |  |
+| Thailand | 泰国 |  |
+| Malaysia | 马来西亚 |  |
+| polysilicon | 多晶硅 |  |
+| solar-panel | 太阳能板 |  |
+| electric cars | 电动汽车 |  |
+| Little Wuxi | 小无锡 |  |
 
 ## 四、长难句专项
 

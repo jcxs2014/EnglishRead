@@ -382,48 +382,53 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | n. | 职业道德、勤奋观 |
-| 基础 | v. | 感叹说 |
-| 基础 | adj. | 不停歇的 |
-| 基础 | n. | 忙碌、拼搏 |
-| 基础 | 短语 | 平均达到 |
-| 基础 | n. | 同行、对应者 |
-| 基础 | v. | 持续存在 |
-| 基础 | adj. | 老龄化的 |
-| 基础 | n. | 萎缩的劳动力 |
-| 基础 | 短语 | 对……的执着 |
-| 基础 | n. | 勤勉 |
-| 基础 | n. | 劳动模范 |
-| 基础 | n. | 爱国美德 |
-| 基础 | n. | 内卷 |
-| 基础 | n. | 收益 |
-| 基础 | n. | 陷阱 |
-| 基础 | 短语 | 与……有关 |
-| 基础 | 短语 | 促成 |
-| 基础 | 短语 | 累得无法 |
-| 基础 | v. | 存续 |
-| 基础 | 短语 | 依赖 |
-| 基础 | v. | 比……更努力 |
-| 基础 | adv. | 一夜之间 |
-| 进阶 | famous | for their work ethic — 以勤奋闻名 |
-| 进阶 | running | at double speed — 以双倍速度运转 |
-| 进阶 | relentless | hustle — 不停歇的忙碌 |
-| 进阶 | clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |
-| 进阶 | a | quarter more than their American counterparts — 比美国同行多四分之一 |
-| 进阶 | the | 996 work schedule — 996 工作制 |
-| 进阶 | promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |
-| 进阶 | talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |
-| 进阶 | work | ever harder for ever smaller gains — 越努力收益越小 |
-| 进阶 | leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |
-| 进阶 | contribute | to the falling birth rate — 促成出生率下降 |
-| 进阶 | the | age of hustle may be ending — 拼命时代或终结 |
-| 进阶 | escalators | — 自动扶梯 |
-| 进阶 | takeaways | — 外卖 |
-| 进阶 | traffic | lights — 红绿灯 |
-| 进阶 | overwork | — 过劳 |
-| 进阶 | demographers | — 人口学家 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 职业道德、勤奋观 |  |
+| v. | 感叹说 |  |
+| adj. | 不停歇的 |  |
+| n. | 忙碌、拼搏 |  |
+| 短语 | 平均达到 |  |
+| n. | 同行、对应者 |  |
+| v. | 持续存在 |  |
+| adj. | 老龄化的 |  |
+| n. | 萎缩的劳动力 |  |
+| 短语 | 对……的执着 |  |
+| n. | 勤勉 |  |
+| n. | 劳动模范 |  |
+| n. | 爱国美德 |  |
+| n. | 内卷 |  |
+| n. | 收益 |  |
+| n. | 陷阱 |  |
+| 短语 | 与……有关 |  |
+| 短语 | 促成 |  |
+| 短语 | 累得无法 |  |
+| v. | 存续 |  |
+| 短语 | 依赖 |  |
+| v. | 比……更努力 |  |
+| adv. | 一夜之间 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| famous | for their work ethic — 以勤奋闻名 |  |
+| running | at double speed — 以双倍速度运转 |  |
+| relentless | hustle — 不停歇的忙碌 |  |
+| clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |  |
+| a | quarter more than their American counterparts — 比美国同行多四分之一 |  |
+| the | 996 work schedule — 996 工作制 |  |
+| promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |  |
+| talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |  |
+| work | ever harder for ever smaller gains — 越努力收益越小 |  |
+| leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |  |
+| contribute | to the falling birth rate — 促成出生率下降 |  |
+| the | age of hustle may be ending — 拼命时代或终结 |  |
+| escalators | — 自动扶梯 |  |
+| takeaways | — 外卖 |  |
+| traffic | lights — 红绿灯 |  |
+| overwork | — 过劳 |  |
+| demographers | — 人口学家 |  |
 
 ## 三、长难句专项
 

@@ -256,42 +256,28 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | mistreated country | 被虐待的国家 |
-| 基础 | political meddling | 政治干预 |
-| 基础 | a state-run Ponzi scheme | 国家运营的庞氏骗局 |
-| 基础 | state negligence | 国家失职 |
-| 基础 | sectarian | 教派的/宗派的 |
-| 基础 | a monopoly on weapons | 对武器的垄断 |
-| 基础 | war-ravaged regions | 战争蹂躏的地区 |
-| 基础 | restructure insolvent banks | 重组资不抵债的银行 |
-| 基础 | hobbled by | 被……拖累 |
-| 基础 | a small country of hefty importance | 重要性极重的小国 |
-| 基础 | Reining in Hizbullah | 制约真主党 |
-| 基础 | land a blow against | 对……施加打击 |
-| 基础 | made them its main export | 让其成为主要出口品 |
-| 基础 | lest they trigger | 以免引发 |
-| 基础 | make a show of | 作秀式做 |
-| 基础 | leniency stores up trouble | 宽大积攒麻烦 |
-| 基础 | drain Hizbullah's support | 抽干支持 |
-| 基础 | release help in tranches | 分批发放援助 |
-| 基础 | short-sighted | 短视的 |
-| 进阶 | occupations | 占领 |
-| 进阶 | timid | 胆小的 |
-| 进阶 | pluralism | 多元主义 |
-| 进阶 | sequential | 顺序进行的 |
-| 进阶 | linger | 逗留/滞留 |
-| 进阶 | emigrating | 移民（出国） |
-| 进阶 | confiscating | 没收 |
-| 进阶 | operatives | 特工/行动人员 |
-| 进阶 | bankrupt lenders | 破产的放贷机构 |
-| 进阶 | prosecuting | 起诉 |
-| 进阶 | obstruction | 阻挠 |
-| 进阶 | implicated | 使卷入 |
-| 进阶 | pullbacks | 撤退 |
-| 进阶 | donor conference | 捐助者会议 |
-| 进阶 | convene | 召集 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| mistreated country | 被虐待的国家 | Lebanon has been a very mistreated country. |
+| political meddling | 政治干预 | Foreign powers engaged in political meddling. |
+| a state-run Ponzi scheme | 国家运营的庞氏骗局 | The financial crash was a state-run Ponzi scheme. |
+| state negligence | 国家失职 | The blast was the result of state negligence. |
+| sectarian | 教派的/宗派的 | A sectarian political class ran the country. |
+| a monopoly on weapons | 对武器的垄断 | The state must have a monopoly on weapons. |
+| war-ravaged regions | 战争蹂躏的地区 | They promised to rebuild war-ravaged regions. |
+| restructure insolvent banks | 重组资不抵债的银行 | Banks must be restructured. |
+| hobbled by | 被……拖累 | A government hobbled by economic collapse. |
+| a small country of hefty importance | 重要性极重的小国 | Lebanon is small but of hefty importance. |
+| Reining in Hizbullah | 制约真主党 | Reining in the militia is essential. |
+| land a blow against | 对……施加打击 | It would land a blow against Iran. |
+| made them its main export | 让其成为主要出口品 | Dysfunction made talent its main export. |
+| lest they trigger | 以免引发 | They hesitate, lest they trigger war. |
+| make a show of | 作秀式做 | They only make a show of confiscating weapons. |
+| leniency stores up trouble | 宽大积攒麻烦 | Such leniency stores up trouble for the future. |
+| drain Hizbullah's support | 抽干支持 | They hope to drain the militia's support. |
+| release help in tranches | 分批发放援助 | Donors should release help in tranches. |
+| short-sighted | 短视的 | Restricting weapons sales was short-sighted. |
 
 ## 核心表达（可直接迁移）
 

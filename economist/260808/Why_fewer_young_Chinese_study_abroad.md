@@ -1013,45 +1013,50 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | abroad | adv. 在国外；出国 |
-| 基础 | domestic | adj. 国内的（反义词 foreign / overseas） |
-| 基础 | salary | n. 薪水（wage 侧重周薪/时薪） |
-| 基础 | degree | n. 学位 |
-| 基础 | employer | n. 雇主（employee 雇员） |
-| 基础 | tuition | n. 学费 |
-| 基础 | boom | v. 激增；繁荣 |
-| 基础 | increasingly | adv. 越来越（地） |
-| 进阶 | consultant | n. 顾问 |
-| 进阶 | privileged | adj. 有特权的；家境优渥的 |
-| 进阶 | academia | n. 学术界（academic 学术的） |
-| 进阶 | geopolitical | adj. 地缘政治的 |
-| 进阶 | returnee | n. 归国者（动词 return + -ee 表"被……的人"） |
-| 进阶 | prospective | adj. 潜在的；未来的（prospective students 准留学生） |
-| 进阶 | conglomerate | n. 大型企业集团 |
-| 进阶 | enrolment | n. 注册人数；招生（动词 enrol） |
-| 进阶 | redundancy | n. 裁员；冗余（voluntary redundancy 自愿离职） |
-| 进阶 | undermine | v. 削弱（under + mine 挖……的墙脚） |
-| 进阶 | confer | v. 授予；带来（confer a degree / an advantage） |
-| 进阶 | excel | v. 擅长；出类拔萃（excel in/at） |
-| 进阶 | respectively | adv. 分别地 |
-| 进阶 | marginally | adv. 略微地（margin 边缘） |
-| 进阶 | substantially | adv. 大幅地；实质性地 |
-| 高级 | cachet | n. 声望；光环（法语借词） |
-| 高级 | gilt-edged | adj. 金边的；最优质的（源自金边债券） |
-| 高级 | untainted | adj. 未被玷污的（taint v. 污染） |
-| 高级 | anecdotally | adv. 据传闻；从轶事层面（anecdote 轶事） |
-| 高级 | moniker | n. 绰号；称呼 |
-| 高级 | foothold | n. 立足点（foot + hold） |
-| 高级 | disfavour | v. 不利于（= disadvantage） |
-| 高级 | revoke | v. 吊销；撤销（revoke a visa / licence） |
-| 高级 | sizeable | adj. 相当大的 |
-| 高级 | plum | jobs /plʌm/ 美差（plum 李子，转义"极好的"） |
-| 高级 | drive | a wedge 制造隔阂（wedge 楔子） |
-| 高级 | ballooning | adj. 急剧膨胀的（balloon 气球） |
-| 高级 | dry | up 枯竭；（生源）断流 |
-| 高级 | upper | hand 上风；优势（gain/have the upper hand） |
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| consultant | n. 顾问 |  |
+| privileged | adj. 有特权的；家境优渥的 |  |
+| academia | n. 学术界（academic 学术的） |  |
+| geopolitical | adj. 地缘政治的 |  |
+| returnee | n. 归国者（动词 return + -ee 表"被……的人"） |  |
+| prospective | adj. 潜在的；未来的（prospective students 准留学生） |  |
+| conglomerate | n. 大型企业集团 |  |
+| enrolment | n. 注册人数；招生（动词 enrol） |  |
+| redundancy | n. 裁员；冗余（voluntary redundancy 自愿离职） |  |
+| undermine | v. 削弱（under + mine 挖……的墙脚） |  |
+| confer | v. 授予；带来（confer a degree / an advantage） |  |
+| excel | v. 擅长；出类拔萃（excel in/at） |  |
+| respectively | adv. 分别地 |  |
+| marginally | adv. 略微地（margin 边缘） |  |
+| substantially | adv. 大幅地；实质性地 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| abroad | adv. 在国外；出国 |  |
+| domestic | adj. 国内的（反义词 foreign / overseas） |  |
+| salary | n. 薪水（wage 侧重周薪/时薪） |  |
+| degree | n. 学位 |  |
+| employer | n. 雇主（employee 雇员） |  |
+| tuition | n. 学费 |  |
+| boom | v. 激增；繁荣 |  |
+| increasingly | adv. 越来越（地） |  |
+| cachet | n. 声望；光环（法语借词） |  |
+| gilt-edged | adj. 金边的；最优质的（源自金边债券） |  |
+| untainted | adj. 未被玷污的（taint v. 污染） |  |
+| anecdotally | adv. 据传闻；从轶事层面（anecdote 轶事） |  |
+| moniker | n. 绰号；称呼 |  |
+| foothold | n. 立足点（foot + hold） |  |
+| disfavour | v. 不利于（= disadvantage） |  |
+| revoke | v. 吊销；撤销（revoke a visa / licence） |  |
+| sizeable | adj. 相当大的 |  |
+| plum | jobs /plʌm/ 美差（plum 李子，转义"极好的"） |  |
+| drive | a wedge 制造隔阂（wedge 楔子） |  |
+| ballooning | adj. 急剧膨胀的（balloon 气球） |  |
+| dry | up 枯竭；（生源）断流 |  |
+| upper | hand 上风；优势（gain/have the upper hand） |  |
 
 ## 五、长难句专项
 

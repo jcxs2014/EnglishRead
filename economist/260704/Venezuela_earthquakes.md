@@ -430,76 +430,85 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | sits on | 坐拥 |
-| 基础 | reserves of oil | 石油储量 |
-| 基础 | shaken by | 被震动 |
-| 基础 | as well as | 以及 |
-| 基础 | political turmoil | 政治动荡 |
-| 基础 | a reminder that | 提醒 |
-| 基础 | fragile | 脆弱的 |
-| 基础 | the resource curse | 资源诅咒 |
-| 基础 | rich in minerals | 矿产丰富 |
-| 基础 | poor in everything else | 其他都贫乏 |
-| 基础 | a textbook case | 教科书式案例 |
-| 基础 | proven oil reserves | 已探明储量 |
-| 基础 | dominated by sanctions | 由制裁主导 |
-| 基础 | sanctions | 制裁 |
-| 基础 | weaken the regime | 削弱政权 |
-| 基础 | removed ... from power | 赶下台 |
-| 基础 | hurt ordinary ... | 伤害普通 |
-| 基础 | siphoned off | 抽走、挪用 |
-| 基础 | cronies | 亲信 |
-| 基础 | what remains | 剩下的 |
-| 基础 | spent on keeping | 花在维持 |
-| 基础 | keeping ... in power | 维持掌权 |
-| 基础 | signs of change | 变化迹象 |
-| 基础 | created a moment for | 创造了时刻 |
-| 基础 | reconstruction | 重建 |
-| 基础 | has hinted | 已暗示 |
-| 基础 | open up ... to | 向……开放 |
-| 基础 | foreign investment | 外国投资 |
-| 基础 | press for reform | 推动改革 |
-| 基础 | easing sanctions | 放宽制裁 |
-| 基础 | in exchange for | 以换取 |
-| 基础 | the rule of law | 法治 |
-| 基础 | more of the same | 老样子 |
-| 基础 | worse off | 更糟 |
-| 基础 | the stakes ... are high | 利害大 |
-| 基础 | a steady drain on | 持续消耗 |
-| 基础 | steady | 持续的 |
-| 基础 | border resources | 边境资源 |
-| 基础 | a recovering Venezuela | 恢复中的委内瑞拉 |
-| 基础 | a collapsed one | 崩溃的 |
-| 基础 | the regional dimension | 地区层面 |
-| 基础 | absorbed ... refugees | 吸纳难民 |
-| 基础 | refugees | 难民 |
-| 基础 | repaid | 回报 |
-| 基础 | the international community | 国际社会 |
-| 基础 | the underlying issue | 根本问题 |
-| 基础 | not geology but governance | 不是地质而是治理 |
-| 基础 | governance | 治理 |
-| 基础 | no amount of | 再多也（不） |
-| 基础 | manage its wealth properly | 妥善管理财富 |
-| 基础 | should be shared | 应当共享 |
-| 基础 | squandered | 挥霍 |
-| 进阶 | Venezuela | 委内瑞拉 |
-| 进阶 | turmoil | 动荡 |
-| 进阶 | curse | 诅咒 |
-| 进阶 | minerals | 矿产 |
-| 进阶 | proven | 已探明的 |
-| 进阶 | hint | 暗示 |
-| 进阶 | reform | 改革 |
-| 进阶 | elections | 选举 |
-| 进阶 | migration | 移民 |
-| 进阶 | refugees | 难民 |
-| 进阶 | geology | 地质 |
-| 进阶 | wealth | 财富 |
-| 高级 | Maduro | 马杜罗 |
-| 高级 | Colombia | 哥伦比亚 |
-| 高级 | Brazil | 巴西 |
-| 高级 | Venezuelan | 委内瑞拉的 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| sits on | 坐拥 | Sits on vast reserves. |
+| reserves of oil | 石油储量 | Reserves of oil. |
+| shaken by | 被震动 | Shaken by earthquakes. |
+| as well as | 以及 | By earthquakes as well as by turmoil. |
+| political turmoil | 政治动荡 | Political turmoil. |
+| a reminder that | 提醒 | A reminder that. |
+| fragile | 脆弱的 | Can be fragile. |
+| the resource curse | 资源诅咒 | The resource curse. |
+| rich in minerals | 矿产丰富 | Rich in minerals. |
+| poor in everything else | 其他都贫乏 | Poor in everything else. |
+| a textbook case | 教科书式案例 | A textbook case. |
+| proven oil reserves | 已探明储量 | Proven oil reserves. |
+| dominated by sanctions | 由制裁主导 | Dominated by sanctions. |
+| sanctions | 制裁 | Economic sanctions. |
+| weaken the regime | 削弱政权 | Weaken the regime. |
+| removed ... from power | 赶下台 | Removed from power. |
+| hurt ordinary ... | 伤害普通 | Hurt ordinary Venezuelans. |
+| siphoned off | 抽走、挪用 | Siphoned off by officials. |
+| cronies | 亲信 | Their cronies. |
+| what remains | 剩下的 | What remains has been spent. |
+| spent on keeping | 花在维持 | Spent on keeping. |
+| keeping ... in power | 维持掌权 | Keeping the regime in power. |
+| signs of change | 变化迹象 | Signs of change. |
+| created a moment for | 创造了时刻 | Created a moment for reconstruction. |
+| reconstruction | 重建 | Reconstruction. |
+| has hinted | 已暗示 | Has hinted it may. |
+| open up ... to | 向……开放 | Open up the sector to investment. |
+| foreign investment | 外国投资 | Foreign investment. |
+| press for reform | 推动改革 | Press for reform. |
+| easing sanctions | 放宽制裁 | Easing sanctions. |
+| in exchange for | 以换取 | In exchange for progress. |
+| the rule of law | 法治 | The rule of law. |
+| more of the same | 老样子 | More of the same. |
+| worse off | 更糟 | Leave them worse off. |
+| the stakes ... are high | 利害大 | The stakes are high. |
+| a steady drain on | 持续消耗 | A steady drain on resources. |
+| steady | 持续的 | A steady drain. |
+| border resources | 边境资源 | Border resources. |
+| a recovering Venezuela | 恢复中的委内瑞拉 | A recovering Venezuela. |
+| a collapsed one | 崩溃的 | A collapsed one. |
+| the regional dimension | 地区层面 | The regional dimension. |
+| absorbed ... refugees | 吸纳难民 | Absorbed millions of refugees. |
+| refugees | 难民 | Venezuelan refugees. |
+| repaid | 回报 | Not repaid by the community. |
+| the international community | 国际社会 | The international community. |
+| the underlying issue | 根本问题 | The underlying issue. |
+| not geology but governance | 不是地质而是治理 | Not geology but governance. |
+| governance | 治理 | Good governance. |
+| no amount of | 再多也（不） | No amount of oil. |
+| manage its wealth properly | 妥善管理财富 | Manage its wealth properly. |
+| should be shared | 应当共享 | Should be shared. |
+| squandered | 挥霍 | Not squandered. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Venezuela | 委内瑞拉 |  |
+| turmoil | 动荡 |  |
+| curse | 诅咒 |  |
+| minerals | 矿产 |  |
+| proven | 已探明的 |  |
+| hint | 暗示 |  |
+| reform | 改革 |  |
+| elections | 选举 |  |
+| migration | 移民 |  |
+| refugees | 难民 |  |
+| geology | 地质 |  |
+| wealth | 财富 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Maduro | 马杜罗 |  |
+| Colombia | 哥伦比亚 |  |
+| Brazil | 巴西 |  |
+| Venezuelan | 委内瑞拉的 |  |
 
 ## 四、长难句专项
 

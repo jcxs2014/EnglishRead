@@ -415,66 +415,75 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | caption | （图片）说明文字 |
-| 基础 | announced his departure | 宣布启程 |
-| 基础 | qualified for | 取得资格 |
-| 基础 | crashed out | 惨遭淘汰 |
-| 基础 | struggles to | 挣扎着、费力 |
-| 基础 | adept at | 擅长 |
-| 基础 | hails from | 来自（书面） |
-| 基础 | rust belt | 锈带（衰败工业区） |
-| 基础 | heartland | 腹地 |
-| 基础 | state-owned enterprises | 国有企业 |
-| 基础 | bureaucracy | 官僚体制 |
-| 基础 | temperament | 性情 |
-| 基础 | upbringing | 成长环境 |
-| 基础 | made a career out of | 把……当事业 |
-| 基础 | taking rules seriously | 认真对待规则 |
-| 基础 | breakthrough | 突破 |
-| 基础 | issued | 出示、发出 |
-| 基础 | marked | 庆祝（节日） |
-| 基础 | chanting insults | 高喊辱骂 |
-| 基础 | untroubled | 不为所动 |
-| 基础 | hostility | 敌意 |
-| 基础 | has done little to | 几乎没能 |
-| 基础 | impede | 阻碍 |
-| 基础 | ascent | 晋升、上升 |
-| 基础 | oversee | 主持、监督 |
-| 基础 | defended ... from | 保护免受 |
-| 基础 | backlashes | 强烈反弹 |
-| 基础 | consecutive | 连续的 |
-| 基础 | mark his debut | 标志首秀 |
-| 基础 | impartiality | 公正 |
-| 基础 | repercussions | 波及后果 |
-| 基础 | dilemma | 两难 |
-| 基础 | unlikely to | 不太可能 |
-| 基础 | little to lose and much to gain | 稳赢局面 |
-| 基础 | eyeing retirement | 盘算退役 |
-| 基础 | accumulate | 积累 |
-| 基础 | flock to | 蜂拥而至 |
-| 基础 | in its own right | 自成一体 |
-| 基础 | synonymous with | 与……同义 |
-| 基础 | corruption scandals | 腐败丑闻 |
-| 基础 | chronic | 长期的 |
-| 基础 | underachievement | 成绩欠佳 |
-| 基础 | regardless | 无论如何 |
-| 进阶 | footballers | 足球运动员 |
-| 进阶 | tournament | 锦标赛 |
-| 进阶 | referee | 裁判 |
-| 进阶 | supporters | 支持者 |
-| 进阶 | officials | 官员 |
-| 进阶 | appearance | 出场 |
-| 进阶 | debut | 首秀 |
-| 进阶 | fourth official | 第四官员 |
-| 进阶 | retirement | 退役 |
-| 进阶 | representative | 代表 |
-| 高级 | sponsorship | 赞助 |
-| 高级 | followers | 粉丝 |
-| 高级 | accounts | 账号 |
-| 高级 | reform | 改革 |
-| 高级 | scoring goals | 进球 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| caption | （图片）说明文字 | The caption under the photo. |
+| announced his departure | 宣布启程 | She announced her departure. |
+| qualified for | 取得资格 | They qualified for the next round. |
+| crashed out | 惨遭淘汰 | They crashed out in the quarters. |
+| struggles to | 挣扎着、费力 | He struggles to pay rent. |
+| adept at | 擅长 | Adept at negotiations. |
+| hails from | 来自（书面） | She hails from Ohio. |
+| rust belt | 锈带（衰败工业区） | Jobs vanished across the rust belt. |
+| heartland | 腹地 | The agricultural heartland. |
+| state-owned enterprises | 国有企业 | State-owned enterprises dominate the sector. |
+| bureaucracy | 官僚体制 | The bureaucracy is slow. |
+| temperament | 性情 | A quiet temperament. |
+| upbringing | 成长环境 | Her rural upbringing. |
+| made a career out of | 把……当事业 | He made a career out of it. |
+| taking rules seriously | 认真对待规则 | Take the rules seriously. |
+| breakthrough | 突破 | Her breakthrough role. |
+| issued | 出示、发出 | The referee issued a red. |
+| marked | 庆祝（节日） | They marked the day with a feast. |
+| chanting insults | 高喊辱骂 | Fans chanted insults. |
+| untroubled | 不为所动 | She stayed untroubled. |
+| hostility | 敌意 | He faced hostility. |
+| has done little to | 几乎没能 | It did little to help. |
+| impede | 阻碍 | Traffic impeded us. |
+| ascent | 晋升、上升 | His ascent to the top. |
+| oversee | 主持、监督 | He oversees the final. |
+| defended ... from | 保护免受 | They defended him from attacks. |
+| backlashes | 强烈反弹 | The backlash was fierce. |
+| consecutive | 连续的 | Three consecutive days. |
+| mark his debut | 标志首秀 | It marked her debut. |
+| impartiality | 公正 | His impartiality was doubted. |
+| repercussions | 波及后果 | The move had repercussions. |
+| dilemma | 两难 | A moral dilemma. |
+| unlikely to | 不太可能 | Unlikely to change. |
+| little to lose and much to gain | 稳赢局面 | He had little to lose. |
+| eyeing retirement | 盘算退役 | He's eyeing retirement. |
+| accumulate | 积累 | Debts accumulated. |
+| flock to | 蜂拥而至 | Fans flocked to the store. |
+| in its own right | 自成一体 | A talent in her own right. |
+| synonymous with | 与……同义 | Name synonymous with quality. |
+| corruption scandals | 腐败丑闻 | The scandal broke. |
+| chronic | 长期的 | Chronic underfunding. |
+| underachievement | 成绩欠佳 | Years of underachievement. |
+| regardless | 无论如何 | She kept on regardless. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| footballers | 足球运动员 |  |
+| tournament | 锦标赛 |  |
+| referee | 裁判 |  |
+| supporters | 支持者 |  |
+| officials | 官员 |  |
+| appearance | 出场 |  |
+| debut | 首秀 |  |
+| fourth official | 第四官员 |  |
+| retirement | 退役 |  |
+| representative | 代表 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| sponsorship | 赞助 |  |
+| followers | 粉丝 |  |
+| accounts | 账号 |  |
+| reform | 改革 |  |
+| scoring goals | 进球 |  |
 
 ## 四、长难句专项
 

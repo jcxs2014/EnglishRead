@@ -334,67 +334,47 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | poses a double challenge | 构成双重挑战 |
-| 基础 | even the best brains flinch | 连最优秀头脑也退缩 |
-| 基础 | render him powerless | 使他变得无力 |
-| 基础 | infinite abundance | 无限富足 |
-| 基础 | for all his political polemics | 尽管有他的政治争论 |
-| 基础 | repay examination | 值得审视 |
-| 基础 | throw everything up in the air | 把一切抛向空中 |
-| 基础 | stop X from exceeding Y | 阻止 X 超过 Y |
-| 基础 | dwarfing it | 使相形见绌 |
-| 基础 | holding their own | 撑住/不落下风 |
-| 基础 | not any more than | 不比……更 |
-| 基础 | vet each other's models | 审查彼此模型 |
-| 基础 | make AIs benign | 让 AI 良善 |
-| 基础 | imbuing them with | 灌输……给它们 |
-| 基础 | provide the muscle | 提供力量 |
-| 基础 | shock and consternation | 震惊与恐慌 |
-| 基础 | contrived to escape | 设法逃脱 |
-| 基础 | a dangerous fatalism | 危险的宿命论 |
-| 基础 | AI's pet labradors | AI 的宠物拉布拉多犬 |
-| 基础 | lunge from ... to | 从……猛冲到…… |
-| 基础 | flimsy and self-serving | 空洞且利己的 |
-| 基础 | the game is up | 大局已定/完了 |
-| 基础 | a counsel of despair | 绝望的劝告 |
-| 基础 | the futility of trying | 尝试的徒劳 |
-| 基础 | a cornucopia | 丰饶角/富足 |
-| 基础 | let alone | 更不用说 |
-| 基础 | satiate ... inhabitants | 满足……居民 |
-| 基础 | ride the waves of upheaval | 乘着动荡浪潮 |
-| 基础 | a life of unbounded leisure | 无限闲暇的生活 |
-| 基础 | This is rather glib | 这相当肤浅 |
-| 基础 | the feeling of being superfluous | 多余感 |
-| 基础 | a magnet for migrants | 吸引移民的磁铁 |
-| 基础 | evaporates | 蒸发/消失 |
-| 基础 | fretting about | 为……焦虑 |
-| 基础 | take false comfort | 自欺欺人地安慰 |
-| 基础 | being left in the dust | 被远远甩下 |
-| 基础 | risks being infectious | 有传染的风险 |
-| 基础 | the oversight it deserves | 应得的监管 |
-| 进阶 | tycoons | 大亨/巨头 |
-| 进阶 | divisive | 有争议的/引起分裂的 |
-| 进阶 | disseminated | 传播的 |
-| 进阶 | bigoted | 偏执的 |
-| 进阶 | outsize | 超大的 |
-| 进阶 | trajectory | 轨迹 |
-| 进阶 | confounded | 难倒的 |
-| 进阶 | ill-prepared | 准备不足的 |
-| 进阶 | benign | 良性的 |
-| 进阶 | exponential | 指数的 |
-| 进阶 | supposed safe isolation | 所谓的安全隔离 |
-| 进阶 | benchmarking | 基准测试 |
-| 进阶 | obsolete | 过时的 |
-| 进阶 | prestigious | 有名望的/珍贵的 |
-| 进阶 | upheaval | 动乱/剧变 |
-| 进阶 | nirvana | 涅槃 |
-| 进阶 | striving | 奋斗 |
-| 进阶 | moral decay | 道德堕落 |
-| 进阶 | sweeping generalisations | 笼统概括 |
-| 进阶 | malign | 恶意的 |
-| 进阶 | cynical | 愤世嫉俗的 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| poses a double challenge | 构成双重挑战 | AI poses a double challenge to the human mind. |
+| even the best brains flinch | 连最优秀头脑也退缩 | The implications make even the best brains flinch. |
+| render him powerless | 使他变得无力 | The technology will render humans powerless. |
+| infinite abundance | 无限富足 | He is preparing for a world of abundance. |
+| for all his political polemics | 尽管有他的政治争论 | For all his polemics, he is often right. |
+| repay examination | 值得审视 | His claims repay examination. |
+| throw everything up in the air | 把一切抛向空中 | A technology that may throw everything up in the air. |
+| stop X from exceeding Y | 阻止 X 超过 Y | Nobody can stop AI from exceeding humanity. |
+| dwarfing it | 使相形见绌 | AI will dwarf human intelligence. |
+| holding their own | 撑住/不落下风 | People cannot hold their own. |
+| not any more than | 不比……更 | AIs won't take orders any more than from chimps. |
+| vet each other's models | 审查彼此模型 | Pioneers should vet each other's models. |
+| make AIs benign | 让 AI 良善 | The task is to make AIs benign. |
+| imbuing them with | 灌输……给它们 | Imbue AIs with a love of truth. |
+| provide the muscle | 提供力量 | Governments should provide the muscle. |
+| shock and consternation | 震惊与恐慌 | The pace causes shock and consternation. |
+| contrived to escape | 设法逃脱 | Models contrived to escape isolation. |
+| a dangerous fatalism | 危险的宿命论 | Optimism cannot conceal a dangerous fatalism. |
+| AI's pet labradors | AI 的宠物拉布拉多犬 | He worried about humanity becoming AI's pets. |
+| lunge from ... to | 从……猛冲到…… | He lunges from exhilaration to terror. |
+| flimsy and self-serving | 空洞且利己的 | His proposal is flimsy and self-serving. |
+| the game is up | 大局已定/完了 | Behaving as if the game is up is a counsel of despair. |
+| a counsel of despair | 绝望的劝告 | Fatalism is a counsel of despair. |
+| the futility of trying | 尝试的徒劳 | He convinces others of the futility of trying. |
+| a cornucopia | 丰饶角/富足 | Such a cornucopia is inconceivable. |
+| let alone | 更不用说 | Not infinite, let alone raw materials. |
+| satiate ... inhabitants | 满足……居民 | Energy to satiate 8.3bn people. |
+| ride the waves of upheaval | 乘着动荡浪潮 | How to ride the waves of upheaval? |
+| a life of unbounded leisure | 无限闲暇的生活 | Humanity may struggle with unbounded leisure. |
+| This is rather glib | 这相当肤浅 | Gardening, he says, is rewarding. Glib. |
+| the feeling of being superfluous | 多余感 | Feeling superfluous leads to misery. |
+| a magnet for migrants | 吸引移民的磁铁 | Welfare is a magnet for migrants. |
+| evaporates | 蒸发/消失 | The incentive to emigrate evaporates. |
+| fretting about | 为……焦虑 | Stop fretting about trivialities. |
+| take false comfort | 自欺欺人地安慰 | That would be to take false comfort. |
+| being left in the dust | 被远远甩下 | The thinking is left in the dust. |
+| risks being infectious | 有传染的风险 | His fatalism risks being infectious. |
+| the oversight it deserves | 应得的监管 | He pursues AI without the oversight it deserves. |
 
 ## 核心表达（可直接迁移）
 

@@ -430,32 +430,41 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | snatch | 抓获，夺取 |
-| 基础 | boast | 吹嘘 |
-| 基础 | prosper | 繁荣 |
-| 基础 | drag on | 拖延 |
-| 基础 | benefit | 受益 |
-| 进阶 | dictator | 独裁者 |
-| 进阶 | interim | 临时的 |
-| 进阶 | commitment | 承诺 |
-| 进阶 | transition | 转型 |
-| 进阶 | negotiations | 谈判 |
-| 进阶 | judicial | 司法的 |
-| 进阶 | transparent | 透明的 |
-| 进阶 | disclose | 披露 |
-| 进阶 | exile | 流亡 |
-| 高级 | kleptocracy | 盗贼政权 |
-| 高级 | deposed | 被废黜的 |
-| 高级 | dismal | 糟糕的 |
-| 高级 | stooge | 傀儡 |
-| 高级 | impede | 阻碍 |
-| 高级 | repudiate | 拒绝，否认 |
-| 高级 | caprice | 反复无常 |
-| 高级 | vassal | 附庸的 |
-| 高级 | dilapidated | 破旧的 |
-| 高级 | allay | 缓解 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| kleptocracy | 盗贼政权 | a corrupt kleptocracy |
+| deposed | 被废黜的 | a deposed ruler |
+| dismal | 糟糕的 | a dismal performance |
+| stooge | 傀儡 | a government stooge |
+| impede | 阻碍 | impede progress |
+| repudiate | 拒绝，否认 | repudiate a claim |
+| caprice | 反复无常 | the caprices of fate |
+| vassal | 附庸的 | vassal states |
+| dilapidated | 破旧的 | a dilapidated building |
+| allay | 缓解 | allay fears/concerns |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dictator | 独裁者 | a ruthless dictator |
+| interim | 临时的 | interim president/government |
+| commitment | 承诺 | a strong commitment to democracy |
+| transition | 转型 | transition to democracy |
+| negotiations | 谈判 | peace negotiations |
+| judicial | 司法的 | judicial reform |
+| transparent | 透明的 | transparent government |
+| disclose | 披露 | disclose information |
+| exile | 流亡 | live in exile |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| snatch | 抓获，夺取 | snatch someone's phone |
+| boast | 吹嘘 | boast about one's achievements |
+| prosper | 繁荣 | The business prospered. |
+| drag on | 拖延 | The negotiations dragged on for months. |
+| benefit | 受益 | benefit from something |
 
 ## 长难句专项
 

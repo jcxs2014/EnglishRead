@@ -298,35 +298,21 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | skirmish | 小规模冲突 |
-| 基础 | contort | 扭曲、使变形 |
-| 基础 | ensnare | 使落入陷阱 |
-| 基础 | probe | 刺探、探查 |
-| 基础 | brass / the brass | 军界高层 |
-| 基础 | fret | 焦躁、忧虑 |
-| 基础 | not least because | 尤其是因为 |
-| 基础 | make the case that | 论证、摆出理由 |
-| 基础 | hand in glove | 紧密勾结 |
-| 基础 | shrewd | 精明的 |
-| 基础 | hold some cards | 握有筹码 |
-| 基础 | egg on | 怂恿、煽动 |
-| 进阶 | grainy | 照片颗粒模糊的 |
-| 进阶 | live-fire drill | 实弹演习 |
-| 进阶 | provocation | 挑衅（外交语境常用） |
-| 进阶 | `nuclear-capable` | 可搭载核武器的（`-capable` 构词） |
-| 进阶 | cordial | 友好的（外交气温计） |
-| 进阶 | assertiveness | 强势、出位 |
-| 进阶 | stand up for | 挺身维护 |
-| 进阶 | combined | 合计的、合并的 |
-| 进阶 | adversary | 对手（正式） |
-| 进阶 | collective-security | 集体安全（vs 双边安全 bilateral） |
-| 进阶 | cumulative | 累积的 |
-| 进阶 | chokepoint | 咽喉要道（卡点） |
-| 进阶 | credible deterrence | 可信威慑（国关术语） |
-| 进阶 | a series of / the latest | 一系列 / 最新的一次 |
-| 进阶 | build up (defences) | 增强防卫 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| skirmish | 小规模冲突 | Border guards skirmished over the river islet. |
+| contort | 扭曲、使变形 | He contorted himself to avoid the question. |
+| ensnare | 使落入陷阱 | The country is ensnared in a costly war. |
+| probe | 刺探、探查 | Hackers probed the network for weak points. |
+| brass / the brass | 军界高层 | The top brass refused to comment. |
+| fret | 焦躁、忧虑 | Markets fret that the deal may collapse. |
+| not least because | 尤其是因为 | Useful, not least because it is free. |
+| make the case that | 论证、摆出理由 | She made the case for cutting emissions. |
+| hand in glove | 紧密勾结 | Corruption often goes hand in glove with secrecy. |
+| shrewd | 精明的 | A shrewd investor reads the fine print. |
+| hold some cards | 握有筹码 | The negotiator held all the cards. |
+| egg on | 怂恿、煽动 | The crowd egged him on to protest. |
 
 ## 核心表达（可直接迁移）
 

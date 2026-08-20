@@ -396,47 +396,52 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | n. | 战场 |
-| 基础 | n. | 怀疑 |
-| 基础 | n. | 技术诀窍 |
-| 基础 | v. | 削弱 |
-| 基础 | v. | 助长 |
-| 基础 | n. | 合同研究 |
-| 基础 | 短语 | 波及、传导 |
-| 基础 | n. | 受害者 |
-| 基础 | 短语 | 施加压力 |
-| 基础 | adj. | 买得起的 |
-| 基础 | n. | 管线（在研项目） |
-| 基础 | 短语 | 占……份额 |
-| 基础 | 短语 | 使……失去 |
-| 基础 | adj. | 合理的 |
-| 基础 | adj. | 两用的 |
-| 基础 | adj. | 定向的 |
-| 基础 | adj. | 一刀切的 |
-| 基础 | v. | 受审查 |
-| 基础 | n. | 安全恐慌 |
-| 基础 | n. | 危言耸听 |
-| 基础 | n. | 牺牲品 |
-| 基础 | n. | 协作 |
-| 进阶 | the | tech war against China — 对华科技战 |
-| 进阶 | tools | of the state — 国家的工具 |
-| 进阶 | steal | Western know-how — 窃取西方技术诀窍 |
-| 进阶 | bring | cheaper drugs to market — 把更便宜的药推向市场 |
-| 进阶 | big | pharma — 大药企 |
-| 进阶 | a | growing share of — 不断增长的份额 |
-| 进阶 | antibody-drug conjugates — 抗体偶联药物 | ADC |
-| 进阶 | cutting | edge research — 尖端研究 |
-| 进阶 | swept | up in a security panic — 被卷进安全恐慌 |
-| 进阶 | have | every right to — 完全有权 |
-| 进阶 | a | fit of scaremongering — 一阵危言耸听 |
-| 进阶 | the | next casualty — 下一个牺牲品 |
-| 进阶 | CDMO | — 合同研发生产组织 |
-| 进阶 | clinical | trials — 临床试验 |
-| 进阶 | research | pipelines — 研究管线 |
-| 进阶 | gene | editing — 基因编辑 |
-| 进阶 | biosecurity | — 生物安全 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 战场 |  |
+| n. | 怀疑 |  |
+| n. | 技术诀窍 |  |
+| v. | 削弱 |  |
+| v. | 助长 |  |
+| n. | 合同研究 |  |
+| 短语 | 波及、传导 |  |
+| n. | 受害者 |  |
+| 短语 | 施加压力 |  |
+| adj. | 买得起的 |  |
+| n. | 管线（在研项目） |  |
+| 短语 | 占……份额 |  |
+| 短语 | 使……失去 |  |
+| adj. | 合理的 |  |
+| adj. | 两用的 |  |
+| adj. | 定向的 |  |
+| adj. | 一刀切的 |  |
+| v. | 受审查 |  |
+| n. | 安全恐慌 |  |
+| n. | 危言耸听 |  |
+| n. | 牺牲品 |  |
+| n. | 协作 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the | tech war against China — 对华科技战 |  |
+| tools | of the state — 国家的工具 |  |
+| steal | Western know-how — 窃取西方技术诀窍 |  |
+| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
+| big | pharma — 大药企 |  |
+| a | growing share of — 不断增长的份额 |  |
+| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
+| cutting | edge research — 尖端研究 |  |
+| swept | up in a security panic — 被卷进安全恐慌 |  |
+| have | every right to — 完全有权 |  |
+| a | fit of scaremongering — 一阵危言耸听 |  |
+| the | next casualty — 下一个牺牲品 |  |
+| CDMO | — 合同研发生产组织 |  |
+| clinical | trials — 临床试验 |  |
+| research | pipelines — 研究管线 |  |
+| gene | editing — 基因编辑 |  |
+| biosecurity | — 生物安全 |  |
 
 ## 三、长难句专项
 

@@ -475,88 +475,97 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | bowels | 深处、内脏 |
-| 基础 | police cordon | 警方警戒线 |
-| 基础 | blocking traffic | 阻断交通 |
-| 基础 | circulating | 流传 |
-| 基础 | the rumour mill | 谣言作坊 |
-| 基础 | crashing into | 撞进 |
-| 基础 | were believed to have been killed | 据信已丧生 |
-| 基础 | one of the most dramatic | 最戏剧性之一 |
-| 基础 | in years | 多年来 |
-| 基础 | within hours of | ……后数小时内 |
-| 基础 | virtually all | 几乎全部 |
-| 基础 | vanished | 消失 |
-| 基础 | state news agency | 国家通讯社 |
-| 基础 | mention | 提及 |
-| 基础 | returned few results | 返回寥寥结果 |
-| 基础 | deleted | 被删除 |
-| 基础 | heavy-handedness | 高压手段 |
-| 基础 | panic about | 对……恐慌 |
-| 基础 | deep-seated fear | 根深蒂固的恐惧 |
-| 基础 | reveal something damaging | 暴露有损形象的事 |
-| 基础 | mangled | 严重损坏的 |
-| 基础 | response times | 响应时间 |
-| 基础 | emergency services | 应急服务 |
-| 基础 | embarrassing | 尴尬的 |
-| 基础 | clamped down | 镇压 |
-| 基础 | characteristic speed | 标志性速度 |
-| 基础 | censors | 审查者 |
-| 基础 | fits a pattern | 符合模式 |
-| 基础 | confronted with | 面对 |
-| 基础 | its instinct is to | 它的本能是 |
-| 基础 | suppress ... rather than provide | 压制而非提供 |
-| 基础 | the more ... the more | 越……越 |
-| 基础 | hysterically | 歇斯底里地 |
-| 基础 | politically sensitive | 政治敏感的 |
-| 基础 | the seat of power | 权力所在地 |
-| 基础 | the glare of publicity | 公众聚光灯 |
-| 基础 | expose ... to | 暴露于 |
-| 基础 | long-established | 由来已久的 |
-| 基础 | went to extraordinary lengths | 竭尽非常手段 |
-| 基础 | banned reporting on | 禁止报道 |
-| 基础 | control the narrative | 控制叙事 |
-| 基础 | in the case of | 就……而言 |
-| 基础 | backfired | 适得其反 |
-| 基础 | leaks out | 泄漏 |
-| 基础 | more serious than officially admitted | 比官方承认的更严重 |
-| 基础 | full of speculation | 满是猜测 |
-| 基础 | alarming | 令人惊恐的 |
-| 基础 | the facts warrant | 事实证明 |
-| 基础 | in effect | 实际上 |
-| 基础 | increased ... rather than reduced | 增加而非减少 |
-| 基础 | uncertainty | 不确定性 |
-| 基础 | approach to | 处理方式 |
-| 基础 | fundamental attitude to | 根本态度 |
-| 基础 | views ... as | 视为 |
-| 基础 | a threat to be managed | 需管理的威胁 |
-| 基础 | a right to be respected | 需尊重的权利 |
-| 基础 | as long as | 只要 |
-| 基础 | distrust | 不信任 |
-| 基础 | the official account | 官方说法 |
-| 基础 | a textbook example | 教科书式例证 |
-| 基础 | that dynamic | 那种动态 |
-| 进阶 | cordon | 警戒线 |
-| 进阶 | dramatic | 戏剧性的 |
-| 进阶 | tunnel | 隧道 |
-| 进阶 | incident | 事件 |
-| 进阶 | doings | 行径 |
-| 进阶 | warehouse | 仓库 |
-| 进阶 | narrative | 叙事 |
-| 进阶 | speculation | 猜测 |
-| 进阶 | clampdown | 镇压 |
-| 进阶 | crackdown | 镇压 |
-| 进阶 | regime | 政权 |
-| 进阶 | suppress | 压制 |
-| 高级 | Tianjin | 天津 |
-| 高级 | second ring road | 二环路 |
-| 高级 | control-room | 控制室 |
-| 高级 | helicopter | 直升机 |
-| 高级 | tunnel entrance | 隧道入口 |
-| 高级 | emergency services | 应急部门 |
-| 高级 | textbook example | 典型范例 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bowels | 深处、内脏 | In the bowels of the capital. |
+| police cordon | 警方警戒线 | A police cordon blocked traffic. |
+| blocking traffic | 阻断交通 | Blocking traffic. |
+| circulating | 流传 | Images circulating on social media. |
+| the rumour mill | 谣言作坊 | The rumour mill said. |
+| crashing into | 撞进 | Crashing into the tunnel. |
+| were believed to have been killed | 据信已丧生 | Believed to have been killed. |
+| one of the most dramatic | 最戏剧性之一 | One of the most dramatic events. |
+| in years | 多年来 | In years. |
+| within hours of | ……后数小时内 | Within hours of the crash. |
+| virtually all | 几乎全部 | Virtually all information. |
+| vanished | 消失 | Information had vanished. |
+| state news agency | 国家通讯社 | The state news agency. |
+| mention | 提及 | Did not mention. |
+| returned few results | 返回寥寥结果 | Searches returned few results. |
+| deleted | 被删除 | Posts were deleted. |
+| heavy-handedness | 高压手段 | Such heavy-handedness. |
+| panic about | 对……恐慌 | Panic about the accident. |
+| deep-seated fear | 根深蒂固的恐惧 | A deep-seated fear. |
+| reveal something damaging | 暴露有损形象的事 | Reveal something damaging. |
+| mangled | 严重损坏的 | A mangled helicopter. |
+| response times | 响应时间 | Response times. |
+| emergency services | 应急服务 | The emergency services. |
+| embarrassing | 尴尬的 | Could be embarrassing. |
+| clamped down | 镇压 | Clamped down with speed. |
+| characteristic speed | 标志性速度 | With characteristic speed. |
+| censors | 审查者 | The censors. |
+| fits a pattern | 符合模式 | Fits a pattern. |
+| confronted with | 面对 | Confronted with an event. |
+| its instinct is to | 它的本能是 | Its instinct is to suppress. |
+| suppress ... rather than provide | 压制而非提供 | Suppress rather than provide. |
+| the more ... the more | 越……越 | The more dramatic, the more hysterically. |
+| hysterically | 歇斯底里地 | React hysterically. |
+| politically sensitive | 政治敏感的 | A politically sensitive area. |
+| the seat of power | 权力所在地 | Near the seat of power. |
+| the glare of publicity | 公众聚光灯 | Expose to the glare of publicity. |
+| expose ... to | 暴露于 | Expose their doings. |
+| long-established | 由来已久的 | A long-established pattern. |
+| went to extraordinary lengths | 竭尽非常手段 | Went to extraordinary lengths. |
+| banned reporting on | 禁止报道 | Banned reporting on it. |
+| control the narrative | 控制叙事 | Control the narrative. |
+| in the case of | 就……而言 | In the case of the crash. |
+| backfired | 适得其反 | The strategy backfired. |
+| leaks out | 泄漏 | Information leaks out. |
+| more serious than officially admitted | 比官方承认的更严重 | More serious than admitted. |
+| full of speculation | 满是猜测 | Full of speculation. |
+| alarming | 令人惊恐的 | More alarming. |
+| the facts warrant | 事实证明 | More than the facts warrant. |
+| in effect | 实际上 | In effect. |
+| increased ... rather than reduced | 增加而非减少 | Increased rather than reduced. |
+| uncertainty | 不确定性 | Increased uncertainty. |
+| approach to | 处理方式 | Approach to disasters. |
+| fundamental attitude to | 根本态度 | Attitude to the public. |
+| views ... as | 视为 | Views information as a threat. |
+| a threat to be managed | 需管理的威胁 | A threat to be managed. |
+| a right to be respected | 需尊重的权利 | A right to be respected. |
+| as long as | 只要 | As long as that is the case. |
+| distrust | 不信任 | Distrust the official account. |
+| the official account | 官方说法 | The official account. |
+| a textbook example | 教科书式例证 | A textbook example. |
+| that dynamic | 那种动态 | That dynamic. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cordon | 警戒线 |  |
+| dramatic | 戏剧性的 |  |
+| tunnel | 隧道 |  |
+| incident | 事件 |  |
+| doings | 行径 |  |
+| warehouse | 仓库 |  |
+| narrative | 叙事 |  |
+| speculation | 猜测 |  |
+| clampdown | 镇压 |  |
+| crackdown | 镇压 |  |
+| regime | 政权 |  |
+| suppress | 压制 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Tianjin | 天津 |  |
+| second ring road | 二环路 |  |
+| control-room | 控制室 |  |
+| helicopter | 直升机 |  |
+| tunnel entrance | 隧道入口 |  |
+| emergency services | 应急部门 |  |
+| textbook example | 典型范例 |  |
 
 ## 四、长难句专项
 

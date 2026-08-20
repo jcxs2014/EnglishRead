@@ -252,34 +252,21 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | begrimed | 满是灰垢的 |
-| 基础 | bank on | 指望、依靠 |
-| 基础 | desiccated | 干透的 |
-| 基础 | up one's game | 提升水准 |
-| 基础 | bring ... into play | 投入使用 |
-| 基础 | pool (resources) | 整合共享 |
-| 基础 | diktat | 强制命令 |
-| 基础 | eat into | 侵蚀、消耗 |
-| 基础 | all too (likely) | 实在太（……） |
-| 基础 | put ... in the shade | 使相形见绌 |
-| 基础 | capricious | 反复无常的 |
-| 基础 | live with (effects) | 与……共存（接受） |
-| 进阶 | some (≈ approximately) | 大约（新闻体，约等于 about） |
-| 进阶 | fire-prone | 易发火灾的 |
-| 进阶 | wind-blown | 风媒的/被风吹来的 |
-| 进阶 | slash-and-burn agriculture | 刀耕火种农业 |
-| 进阶 | excess deaths | 超额死亡（流行病学） |
-| 进阶 | up to | 高达（表上限） |
-| 进阶 | fire weather | 火险天气 |
-| 进阶 | `scenario` | 情景（预测模型，气候科学核心词） |
-| 进阶 | taking account of | 考虑（= taking into account） |
-| 进阶 | provided | 只要（表条件，比 if 正式） |
-| 进阶 | doubtless | 无疑地（= undoubtedly） |
-| 进阶 | nonetheless | 尽管如此（= nevertheless） |
-| 进阶 | in the shade | 在阴影中→相形见绌 |
-| 进阶 | the new possible | "新可能"（作者自创，与 new normal 对抗） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| begrimed | 满是灰垢的 | His begrimed face told the whole story. |
+| bank on | 指望、依靠 | Don't bank on him showing up. |
+| desiccated | 干透的 | The desiccated ground cracked under the sun. |
+| up one's game | 提升水准 | If you don't up your game, you'll be left behind. |
+| bring ... into play | 投入使用 | The army brought heavy artillery into play. |
+| pool (resources) | 整合共享 | The two firms pooled their R&D. |
+| diktat | 强制命令 | The diktats of management left no room for debate. |
+| eat into | 侵蚀、消耗 | Legal fees ate into our savings. |
+| all too (likely) | 实在太（……） | Such mistakes are all too common. |
+| put ... in the shade | 使相形见绌 | This achievement puts all others in the shade. |
+| capricious | 反复无常的 | The capricious wind made forecasting impossible. |
+| live with (effects) | 与……共存（接受） | We have to learn to live with the new reality. |
 
 ## 核心表达（可直接迁移）
 

@@ -378,47 +378,52 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | adj. | 宜居的 |
-| 基础 | n. | 中型城市 |
-| 基础 | n. | 国家的手、管控 |
-| 基础 | n. | 约束 |
-| 基础 | 短语 | 打包而来 |
-| 基础 | 短语 | 成功、立足 |
-| 基础 | n. | 沿海大城市 |
-| 基础 | n. | 通勤 |
-| 基础 | n. | 慰藉 |
-| 基础 | n. | 吸引力 |
-| 基础 | 短语 | 的一小部分 |
-| 基础 | n. | 一线城市 |
-| 基础 | n. | 更舒缓的节奏 |
-| 基础 | n. | 取舍、权衡 |
-| 基础 | 短语 | 越来越多的 |
-| 基础 | adj. | 主导的 |
-| 基础 | 短语 | 严格控制 |
-| 基础 | n. | 失误 |
-| 基础 | n. | 黑名单 |
-| 基础 | n. | 理性选择 |
-| 基础 | n. | 屈从 |
-| 基础 | n. | 体面的退路 |
-| 基础 | n. | 城市梦 |
-| 基础 | n. | 野心、抱负 |
-| 基础 | 短语 | 值得付出 |
-| 进阶 | most | foreigners have never heard of — 大多数外国人从未听说 |
-| 进阶 | a | good life seems to cost less — 好生活似乎成本更低 |
-| 进阶 | comfort | and constraint come as a package — 舒适与约束打包 |
-| 进阶 | failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |
-| 进阶 | I | was a number ... I feel like a person — 我是数字……我感觉像个人 |
-| 进阶 | a | third of what it was in Beijing — 北京时的三分之一 |
-| 进阶 | what | officials call "liveable cities" — 官方所称的"宜居城市" |
-| 进阶 | the | comfort of fewer options — 选项更少的舒适 |
-| 进阶 | a | dignified retreat — 体面的退路 |
-| 进阶 | bought | with freedom / bought with ambition — 用自由/野心换来 |
-| 进阶 | rankings | — 排名 |
-| 进阶 | green | hills ring the city centre — 青山环绕市中心 |
-| 进阶 | a | single dominant industry — 单一主导产业 |
-| 进阶 | an | act of submission — 屈从行为 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 宜居的 |  |
+| n. | 中型城市 |  |
+| n. | 国家的手、管控 |  |
+| n. | 约束 |  |
+| 短语 | 打包而来 |  |
+| 短语 | 成功、立足 |  |
+| n. | 沿海大城市 |  |
+| n. | 通勤 |  |
+| n. | 慰藉 |  |
+| n. | 吸引力 |  |
+| 短语 | 的一小部分 |  |
+| n. | 一线城市 |  |
+| n. | 更舒缓的节奏 |  |
+| n. | 取舍、权衡 |  |
+| 短语 | 越来越多的 |  |
+| adj. | 主导的 |  |
+| 短语 | 严格控制 |  |
+| n. | 失误 |  |
+| n. | 黑名单 |  |
+| n. | 理性选择 |  |
+| n. | 屈从 |  |
+| n. | 体面的退路 |  |
+| n. | 城市梦 |  |
+| n. | 野心、抱负 |  |
+| 短语 | 值得付出 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| most | foreigners have never heard of — 大多数外国人从未听说 |  |
+| a | good life seems to cost less — 好生活似乎成本更低 |  |
+| comfort | and constraint come as a package — 舒适与约束打包 |  |
+| failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |  |
+| I | was a number ... I feel like a person — 我是数字……我感觉像个人 |  |
+| a | third of what it was in Beijing — 北京时的三分之一 |  |
+| what | officials call "liveable cities" — 官方所称的"宜居城市" |  |
+| the | comfort of fewer options — 选项更少的舒适 |  |
+| a | dignified retreat — 体面的退路 |  |
+| bought | with freedom / bought with ambition — 用自由/野心换来 |  |
+| rankings | — 排名 |  |
+| green | hills ring the city centre — 青山环绕市中心 |  |
+| a | single dominant industry — 单一主导产业 |  |
+| an | act of submission — 屈从行为 |  |
 
 ## 三、长难句专项
 

@@ -352,36 +352,45 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | coyly | 忸怩作态地 |
-| 基础 | unaccountable | 不受问责的 |
-| 基础 | turnover | 更替率 |
-| 基础 | contrasts with | 与……形成对比 |
-| 基础 | unending | 无止境的 |
-| 基础 | satire | 讽刺文学 |
-| 基础 | cynical | 愤世嫉俗的 |
-| 基础 | envy | 羡慕 |
-| 基础 | transparency | 透明度 |
-| 基础 | elitist | 精英主义的 |
-| 进阶 | state-run | 国有的 |
-| 进阶 | resignation | 辞职 |
-| 进阶 | liberal democracies | 自由民主 |
-| 进阶 | chaotic | 混乱的 |
-| 进阶 | the House of Commons | 下议院 |
-| 进阶 | circulating | 流传 |
-| 进阶 | deep-seated | 根深蒂固的 |
-| 进阶 | sitcom | 情景喜剧 |
-| 进阶 | the late | 已故的 |
-| 进阶 | views | 观看量 |
-| 进阶 | clip | 片段 |
-| 进阶 | naive | 天真的 |
-| 进阶 | responds | 回应 |
-| 进阶 | bureaucracy | 官僚体系 |
-| 进阶 | dared to | 敢于 |
-| 高级 | diplomat-turned-professor | 外交官转行教授 |
-| 高级 | swap through | 换来换去 |
-| 高级 | Bilibili | B站 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| coyly | 忸怩作态地 | She coyly deflected the question. |
+| unaccountable | 不受问责的 | Power without checks becomes unaccountable. |
+| turnover | 更替率 | The board has a rapid turnover. |
+| contrasts with | 与……形成对比 | His calm contrasts with her panic. |
+| unending | 无止境的 | The unending war exhausted them. |
+| satire | 讽刺文学 | Satire holds power to account. |
+| cynical | 愤世嫉俗的 | A cynical take on politics. |
+| envy | 羡慕 | I envy his confidence. |
+| transparency | 透明度 | Transparency builds trust. |
+| elitist | 精英主义的 | The elitist school bars outsiders. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| state-run | 国有的 |  |
+| resignation | 辞职 |  |
+| liberal democracies | 自由民主 |  |
+| chaotic | 混乱的 |  |
+| the House of Commons | 下议院 |  |
+| circulating | 流传 |  |
+| deep-seated | 根深蒂固的 |  |
+| sitcom | 情景喜剧 |  |
+| the late | 已故的 |  |
+| views | 观看量 |  |
+| clip | 片段 |  |
+| naive | 天真的 |  |
+| responds | 回应 |  |
+| bureaucracy | 官僚体系 |  |
+| dared to | 敢于 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| diplomat-turned-professor | 外交官转行教授 |  |
+| swap through | 换来换去 |  |
+| Bilibili | B站 |  |
 
 ## 长难句专项
 

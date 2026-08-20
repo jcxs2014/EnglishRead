@@ -404,3 +404,86 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| blind alley | 死胡同 | 特朗普无出路的困境 |
+| bereft of options | 山穷水尽 | 标题：无好选项 |
+| forswearing | 发誓放弃 | 伊朗弃核 |
+| held out the prospect of | 提出前景 | 美国的金钱诱惑 |
+| hawks / hardliners | 鹰派/强硬派 | 美伊对峙双方 |
+| be it ... or ... | 无论……还是 | 四种坏可能 |
+| yield | 让步 | 美国不能让步 |
+| stopped short of | 差一点 | 未滑向全面战争 |
+| creeping back up | 悄悄回升 | 油价回升 |
+| in short supply | 匮乏 | 信任稀缺 |
+| put relations on a steady footing | 稳固关系 | 机会窗口 |
+| under the thumb of | 受制于 | 新领袖受控 |
+| levying tolls | 征税 | 特朗普的荒谬点子 |
+| wiser heads | 头脑清醒者 | 拦下乱点子 |
+| topple the regime | 推翻政权 | 二月战争目标 |
+| a sitting target | 活靶子 | 夺岛的美军 |
+| Acquiescing to | 默许 | 让步之恶 |
+| set a dire precedent | 可怕先例 | 让步的全球后果 |
+| imposes a sustained blockade | 持续封锁 | 最终建议 |
+| stick it out | 硬撑到底 | 结论 |
+
+### 2. 本文核心表达
+
+1. `could hardly have offered better terms` —— 含蓄最高级
+2. `In return for A and B` —— 交换条件
+3. `be it A, B, C or D` —— 让步倒装罗列
+4. `has itself become the focus of conflict` —— 工具反成目标
+5. `takes that to imply` —— 歧义解读
+6. `stopped short of a return to war` —— 差一点没做
+7. `If ever ... might have been able` —— 错过的机会
+8. `wiser heads in the administration` —— 讽刺性"聪明人"
+9. `was supposed to topple ... but ended up strengthening` —— 预期 vs 结果
+10. `little choice but to stick it out` —— 别无选择只能硬撑
+
+### 3. 重要语法
+
+- **含蓄最高级**：`could hardly have offered better terms`（否定式表最高级）
+- **be it 让步倒装**：`be it revenge, control ... or a nuclear programme`
+- **虚拟语气**：`If ever ... might have been able`（错过的机会）
+- **not only ... but**：`not only be bad in itself, but would set a dire precedent`
+- **动名词主语**：`Giving Iran what it wants would be terrible` / `Abandoning Gulf countries`
+- **过去进行时**：`America was honouring its side`（持续动作）
+- **however 让步**：`However much he twists and turns`
+- **have little choice but to**：`little choice but to stick it out`
+
+### 4. 长难句
+
+- 原句 5（be it 让步倒装）
+- 原句 14（宾语从句 + until 时间状语）
+- 原句 19（involve + 宾语从句嵌套）
+
+### 5. 写作技巧
+
+1. **标题级双关**：副标题 "A man, no plan, Iran"（回文梗）在正文兑现——标题不只是装饰，是立场
+2. **第三者证据**：用"鹰派的惊恐反应"反推"特朗普让步过多"——不从正面评价，让敌人说话
+3. **否定式最高级**：`could hardly have offered better` 比 "the best" 更有力
+4. **实证批驳**：批全面战争用"二月教训"（打了一次反强化鹰派），批夺岛用"活靶子"地理逻辑——都用事实而非道德
+5. **先立靶再补全**：承认特朗普提议优厚、美国在守约——批评不偏激，公信力高
+6. **选项排除法**：给钱不行、开战不行、让步不行 → 只剩"最不坏的坚持"——用排除法逼出结论
+7. **现实主义收尾**：不回避政治代价（油价推高选票），`little choice but to stick it out` 的无奈与坚决并存
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `could hardly have ... better` | 评价"几乎最好" | The timing could hardly have been better. |
+| `In return for` | 谈判/交换 | We gained access in return for investment. |
+| `be it ... or ...` | 正式罗列 | Be it cost or quality, every factor matters. |
+| `held out the prospect of` | 政策/商业 | The plan held out the prospect of recovery. |
+| `stopped short of` | 描述"差一点" | She stopped short of quitting. |
+| `in short supply` | 资源/人才 | Patience is in short supply here. |
+| `put ... on a steady footing` | 关系/企业 | The deal put the firm on a steady footing. |
+| `under the thumb of` | 形容受控 | The committee is under the thumb of the chairman. |
+| `wiser heads` | 机构建议 | Wiser heads counseled caution. |
+| `set a precedent` | 法律/政策 | The verdict set a dangerous precedent. |
+| `poses a real danger` | 风险描述 | The leak poses a real danger to users. |
+| `little choice but to` | 无奈结论 | With costs rising, we had little choice but to cut staff. |
+| `stick it out` | 坚持 | Despite losses, the firm stuck it out. |

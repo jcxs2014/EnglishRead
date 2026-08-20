@@ -369,69 +369,78 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | long-running series | 长期系列 |
-| 基础 | long-running | 长期进行的 |
-| 基础 | the resource supercycle | 资源超级周期 |
-| 基础 | wrong about that | 那点错了 |
-| 基础 | the logic behind | 背后的逻辑 |
-| 基础 | absurd | 荒谬的 |
-| 基础 | running out of | 耗尽 |
-| 基础 | seemed to be | 似乎正在 |
-| 基础 | cheap oil | 廉价石油 |
-| 基础 | insatiable | 永不满足的 |
-| 基础 | emerging markets | 新兴市场 |
-| 基础 | the shale revolution | 页岩革命 |
-| 基础 | unlocked | 释放、解锁 |
-| 基础 | vast new supplies | 巨大的新供给 |
-| 基础 | meanwhile | 与此同时 |
-| 基础 | more slowly than expected | 比预期慢 |
-| 基础 | more efficient | 更高效 |
-| 基础 | what went wrong | 哪里出错 |
-| 基础 | the honest answer | 诚实答案 |
-| 基础 | extrapolated from the past | 从过去外推 |
-| 基础 | took the recent trend | 取近期趋势 |
-| 基础 | complex systems | 复杂系统 |
-| 基础 | run in straight lines | 直线运行 |
-| 基础 | the deeper lesson | 更深教训 |
-| 基础 | prediction itself | 预测本身 |
-| 基础 | most confident | 最为自信 |
-| 基础 | least needed | 最不需要 |
-| 基础 | at the extremes | 在极端情况 |
-| 基础 | turning points | 转折点 |
-| 基础 | confidence is highest | 信心最高 |
-| 基础 | just before the path bends | 恰在拐弯前 |
-| 基础 | none of this means | 这些都不意味着 |
-| 基础 | easy to predict | 容易预测 |
-| 基础 | what is certain | 确定的是 |
-| 基础 | remain central to | 仍是核心 |
-| 基础 | geopolitics | 地缘政治 |
-| 基础 | for decades | 数十年 |
-| 基础 | burning it freely | 自由燃烧 |
-| 基础 | are numbered | 屈指可数 |
-| 基础 | the right attitude | 正确态度 |
-| 基础 | humility | 谦逊 |
-| 基础 | state our confidence | 陈述信心 |
-| 基础 | only when the evidence demands it | 只在证据要求时 |
-| 基础 | to put it | 换句话说 |
-| 基础 | right, not loud | 正确而非响亮 |
-| 进阶 | series | 系列报道 |
-| 进阶 | cycle | 周期 |
-| 进阶 | shale | 页岩 |
-| 进阶 | revolution | 革命 |
-| 进阶 | supplies | 供给 |
-| 进阶 | demand | 需求 |
-| 进阶 | trend | 趋势 |
-| 进阶 | forecasts | 预测 |
-| 进阶 | turning point | 转折点 |
-| 进阶 | analysts | 分析师 |
-| 进阶 | journalists | 记者 |
-| 进阶 | evidence | 证据 |
-| 高级 | China | 中国 |
-| 高级 | oil | 石油 |
-| 高级 | gas | 天然气 |
-| 高级 | climate change | 气候变化 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| long-running series | 长期系列 | A long-running series. |
+| long-running | 长期进行的 | A long-running debate. |
+| the resource supercycle | 资源超级周期 | The resource supercycle. |
+| wrong about that | 那点错了 | Wrong about that. |
+| the logic behind | 背后的逻辑 | The logic behind the policy. |
+| absurd | 荒谬的 | Not absurd. |
+| running out of | 耗尽 | Running out of oil. |
+| seemed to be | 似乎正在 | Seemed to be running out. |
+| cheap oil | 廉价石油 | Cheap oil. |
+| insatiable | 永不满足的 | Insatiable demand. |
+| emerging markets | 新兴市场 | Emerging markets. |
+| the shale revolution | 页岩革命 | The shale revolution. |
+| unlocked | 释放、解锁 | Unlocked vast supplies. |
+| vast new supplies | 巨大的新供给 | Vast new supplies. |
+| meanwhile | 与此同时 | Meanwhile, demand. |
+| more slowly than expected | 比预期慢 | More slowly than expected. |
+| more efficient | 更高效 | More efficient economies. |
+| what went wrong | 哪里出错 | What went wrong? |
+| the honest answer | 诚实答案 | The honest answer is. |
+| extrapolated from the past | 从过去外推 | Extrapolated from the past. |
+| took the recent trend | 取近期趋势 | Took the recent trend. |
+| complex systems | 复杂系统 | Complex systems. |
+| run in straight lines | 直线运行 | Rarely run in straight lines. |
+| the deeper lesson | 更深教训 | The deeper lesson. |
+| prediction itself | 预测本身 | About prediction itself. |
+| most confident | 最为自信 | Most confident. |
+| least needed | 最不需要 | Least needed. |
+| at the extremes | 在极端情况 | At the extremes. |
+| turning points | 转折点 | At turning points. |
+| confidence is highest | 信心最高 | Confidence is highest. |
+| just before the path bends | 恰在拐弯前 | Just before the path bends. |
+| none of this means | 这些都不意味着 | None of this means. |
+| easy to predict | 容易预测 | Easy to predict. |
+| what is certain | 确定的是 | What is certain is. |
+| remain central to | 仍是核心 | Remain central to. |
+| geopolitics | 地缘政治 | Geopolitics. |
+| for decades | 数十年 | For decades. |
+| burning it freely | 自由燃烧 | Burning it freely. |
+| are numbered | 屈指可数 | Days are numbered. |
+| the right attitude | 正确态度 | The right attitude. |
+| humility | 谦逊 | Is humility. |
+| state our confidence | 陈述信心 | State our confidence. |
+| only when the evidence demands it | 只在证据要求时 | Only when the evidence demands it. |
+| to put it | 换句话说 | To put it simply. |
+| right, not loud | 正确而非响亮 | Right, not loud. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| series | 系列报道 |  |
+| cycle | 周期 |  |
+| shale | 页岩 |  |
+| revolution | 革命 |  |
+| supplies | 供给 |  |
+| demand | 需求 |  |
+| trend | 趋势 |  |
+| forecasts | 预测 |  |
+| turning point | 转折点 |  |
+| analysts | 分析师 |  |
+| journalists | 记者 |  |
+| evidence | 证据 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| China | 中国 |  |
+| oil | 石油 |  |
+| gas | 天然气 |  |
+| climate change | 气候变化 |  |
 
 ## 四、长难句专项
 

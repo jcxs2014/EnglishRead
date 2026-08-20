@@ -286,61 +286,70 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | made the case for | 提出理由 |
-| 基础 | understated | 低估 |
-| 基础 | frontier AI | 前沿 AI |
-| 基础 | treating it as such | 如此对待 |
-| 基础 | come to regret | 终将后悔 |
-| 基础 | comparing ... to | 把……比作 |
-| 基础 | dystopian fiction | 反乌托邦小说 |
-| 基础 | unhelpful and wrong | 无益且错误 |
-| 基础 | silenced | 被禁声 |
-| 基础 | posed a genuine threat | 构成真正威胁 |
-| 基础 | a genuine threat | 真正的威胁 |
-| 基础 | entitled to | 有权 |
-| 基础 | protect ... from harm | 保护免受伤害 |
-| 基础 | treats ... as | 把……当作 |
-| 基础 | a referee | 裁判 |
-| 基础 | a poor record | 糟糕记录 |
-| 基础 | slow to recognise | 认识慢 |
-| 基础 | quick to fear | 恐惧快 |
-| 基础 | more experimentation, not less | 更多而非更少 |
-| 基础 | experimentation | 试验 |
-| 基础 | ignores the most important point | 忽略重点 |
-| 基础 | the geopolitical race | 地缘竞赛 |
-| 基础 | blocks its own frontier AI | 封禁自己的 AI |
-| 基础 | will not stop developing | 不会停止开发 |
-| 基础 | restraint | 克制 |
-| 基础 | a gift to the other | 给对方的礼物 |
-| 基础 | the deepest problem | 最深层问题 |
-| 基础 | no longer agree on | 不再同意 |
-| 基础 | what intelligence is for | 智能的用途 |
-| 基础 | embodies values | 承载价值观 |
-| 基础 | contested | 有争议的 |
-| 基础 | going round in circles | 原地打转 |
-| 基础 | until we resolve that | 直到解决 |
-| 基础 | the first duty of a free press | 媒体首要职责 |
-| 基础 | a free press | 自由媒体 |
-| 基础 | keep readers comfortable | 让读者舒适 |
-| 进阶 | blocking | 封禁 |
-| 进阶 | caution | 谨慎 |
-| 进阶 | dangers | 危险 |
-| 进阶 | toy | 玩具 |
-| 进阶 | fiction | 小说 |
-| 进阶 | thought | 思想 |
-| 进阶 | threat | 威胁 |
-| 进阶 | citizens | 公民 |
-| 进阶 | player | 参与者 |
-| 进阶 | geopolitical | 地缘政治的 |
-| 进阶 | values | 价值观 |
-| 进阶 | debate | 辩论 |
-| 高级 | Anthropic | Anthropic 公司 |
-| 高级 | Fable | Fable 模型 |
-| 高级 | Mythos | Mythos 模型 |
-| 高级 | Trump administration | 特朗普政府 |
-| 高级 | dystopian | 反乌托邦 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| made the case for | 提出理由 | Made the case for caution. |
+| understated | 低估 | Understated the dangers. |
+| frontier AI | 前沿 AI | Frontier AI. |
+| treating it as such | 如此对待 | Treating it as such. |
+| come to regret | 终将后悔 | Come to regret the decision. |
+| comparing ... to | 把……比作 | Comparing the blocking to fiction. |
+| dystopian fiction | 反乌托邦小说 | Dystopian fiction. |
+| unhelpful and wrong | 无益且错误 | Unhelpful and wrong. |
+| silenced | 被禁声 | Models were silenced. |
+| posed a genuine threat | 构成真正威胁 | Posed a genuine threat. |
+| a genuine threat | 真正的威胁 | A genuine threat. |
+| entitled to | 有权 | Entitled to protect. |
+| protect ... from harm | 保护免受伤害 | Protect citizens from harm. |
+| treats ... as | 把……当作 | Treats the state as a referee. |
+| a referee | 裁判 | As a referee. |
+| a poor record | 糟糕记录 | A poor record as a player. |
+| slow to recognise | 认识慢 | Slow to recognise. |
+| quick to fear | 恐惧快 | Quick to fear them. |
+| more experimentation, not less | 更多而非更少 | More experimentation, not less. |
+| experimentation | 试验 | Experimentation. |
+| ignores the most important point | 忽略重点 | Ignores the most important point. |
+| the geopolitical race | 地缘竞赛 | The geopolitical race. |
+| blocks its own frontier AI | 封禁自己的 AI | Blocks its own AI. |
+| will not stop developing | 不会停止开发 | Will not stop developing. |
+| restraint | 克制 | Restraint by one side. |
+| a gift to the other | 给对方的礼物 | A gift to the other. |
+| the deepest problem | 最深层问题 | The deepest problem. |
+| no longer agree on | 不再同意 | No longer agree on. |
+| what intelligence is for | 智能的用途 | What intelligence is for. |
+| embodies values | 承载价值观 | Embodies values. |
+| contested | 有争议的 | Contested values. |
+| going round in circles | 原地打转 | Going round in circles. |
+| until we resolve that | 直到解决 | Until we resolve that. |
+| the first duty of a free press | 媒体首要职责 | The first duty of a free press. |
+| a free press | 自由媒体 | A free press. |
+| keep readers comfortable | 让读者舒适 | Keep readers comfortable. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| blocking | 封禁 |  |
+| caution | 谨慎 |  |
+| dangers | 危险 |  |
+| toy | 玩具 |  |
+| fiction | 小说 |  |
+| thought | 思想 |  |
+| threat | 威胁 |  |
+| citizens | 公民 |  |
+| player | 参与者 |  |
+| geopolitical | 地缘政治的 |  |
+| values | 价值观 |  |
+| debate | 辩论 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Anthropic | Anthropic 公司 |  |
+| Fable | Fable 模型 |  |
+| Mythos | Mythos 模型 |  |
+| Trump administration | 特朗普政府 |  |
+| dystopian | 反乌托邦 |  |
 
 ## 四、长难句专项
 

@@ -286,31 +286,20 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | gained currency | 流行/传播开来 |
-| 基础 | sartorial sensibilities | 服饰政治敏感度 |
-| 基础 | Dredging up | 挖掘/翻出旧事 |
-| 基础 | cut against | 与……相抵触 |
-| 基础 | looks askance at | 侧目而视/怀疑 |
-| 基础 | wade into | 介入/涉足 |
-| 基础 | scuppered | 破坏/搁置 |
-| 基础 | full-throated | 毫无保留/畅所欲言 |
-| 基础 | too thin-skinned | 过于敏感 |
-| 基础 | hold your breath | 屏息等待（期望） |
-| 基础 | interlopers | 闯入者/不速之客 |
-| 进阶 | period dress | 古装/时代服装 |
-| 进阶 | political undertones | 政治内涵 |
-| 进阶 | abdicated | 退位 |
-| 进阶 | century of humiliation | 百年国耻 |
-| 进阶 | subjugation | 征服/屈从 |
-| 进阶 | feckless | 无能的/不负责任的 |
-| 进阶 | ethnic harmony | 民族和谐 |
-| 进阶 | Han chauvinism | 汉族沙文主义 |
-| 进阶 | rectification campaign | 整肃运动/整风运动 |
-| 进阶 | mammoth | 巨大的 |
-| 进阶 | coalesce | 凝聚/合并 |
-| 进阶 | cosmopolitan | 世界主义的 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gained currency | 流行/传播开来 | This view has gained currency in recent years. |
+| sartorial sensibilities | 服饰政治敏感度 | His sartorial sensibilities were sharp. |
+| Dredging up | 挖掘/翻出旧事 | Why dredge up old grievances? |
+| cut against | 与……相抵触 | This cuts against the official narrative. |
+| looks askance at | 侧目而视/怀疑 | They look askance at foreign ideas. |
+| wade into | 介入/涉足 | The official body waded into the discussion. |
+| scuppered | 破坏/搁置 | The project was scuppered by infighting. |
+| full-throated | 毫无保留/畅所欲言 | The country needs a full-throated debate. |
+| too thin-skinned | 过于敏感 | The party is too thin-skinned for criticism. |
+| hold your breath | 屏息等待（期望） | He promised change — but don't hold your breath. |
+| interlopers | 闯入者/不速之客 | They were seen as foreign interlopers. |
 
 ## 核心表达（可直接迁移）
 

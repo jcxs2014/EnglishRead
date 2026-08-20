@@ -375,53 +375,58 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | adj. | 有名的 |
-| 基础 | adv. | 刻意地 |
-| 基础 | 短语 | 留白 |
-| 基础 | 短语 | 概括 |
-| 基础 | 短语 | 信奉 |
-| 基础 | v. | 不信任 |
-| 基础 | 短语 | 妨碍 |
-| 基础 | n. | 观看的方式 |
-| 基础 | n. | 欢乐的形式 |
-| 基础 | n. | 磨坊小镇 |
-| 基础 | 短语 | 被……吸引 |
-| 基础 | n. | 晒黑的身体 |
-| 基础 | adj. | 自满的 |
-| 基础 | 短语 | 被固定 |
-| 基础 | v. | 开创 |
-| 基础 | n. | 照片拼贴 |
-| 基础 | n. | 立体主义视角 |
-| 基础 | 短语 | 开始使用 |
-| 基础 | n. | 噱头 |
-| 基础 | n. | 证明 |
-| 基础 | adj. | 开朗的 |
-| 基础 | adj. | 好辩的 |
-| 基础 | 短语 | 挑起争吵 |
-| 基础 | 短语 | 服务于 |
-| 基础 | n. | 大量作品 |
-| 基础 | n. | 信念 |
-| 基础 | 短语 | 赞美生活 |
-| 基础 | 短语 | 充满光 |
-| 进阶 | a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |
-| 进阶 | working | from the heart — 从内心作画 |
-| 进阶 | got | in the way of the eye and the hand — 妨碍眼与手 |
-| 进阶 | painting | was a way of seeing — 绘画是观看的方式 |
-| 进阶 | art | should make you happy — 艺术该让人快乐 |
-| 进阶 | lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |
-| 进阶 | fame | never made him complacent — 成名却未自满 |
-| 进阶 | afraid | of being pinned down — 怕被定型 |
-| 进阶 | stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |
-| 进阶 | draw | with light — 用光作画 |
-| 进阶 | pick | a fight about colour theory — 为色彩理论争吵 |
-| 进阶 | in | service of joy — 服务于欢乐 |
-| 进阶 | art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |
-| 进阶 | pool | paintings — 泳池画 |
-| 进阶 | Polaroids | — 宝丽来照片 |
-| 进阶 | the | screen was just another window — 屏幕只是另一扇窗 |
-| 进阶 | aged | 89 — 享年 89 岁 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 有名的 |  |
+| adv. | 刻意地 |  |
+| 短语 | 留白 |  |
+| 短语 | 概括 |  |
+| 短语 | 信奉 |  |
+| v. | 不信任 |  |
+| 短语 | 妨碍 |  |
+| n. | 观看的方式 |  |
+| n. | 欢乐的形式 |  |
+| n. | 磨坊小镇 |  |
+| 短语 | 被……吸引 |  |
+| n. | 晒黑的身体 |  |
+| adj. | 自满的 |  |
+| 短语 | 被固定 |  |
+| v. | 开创 |  |
+| n. | 照片拼贴 |  |
+| n. | 立体主义视角 |  |
+| 短语 | 开始使用 |  |
+| n. | 噱头 |  |
+| n. | 证明 |  |
+| adj. | 开朗的 |  |
+| adj. | 好辩的 |  |
+| 短语 | 挑起争吵 |  |
+| 短语 | 服务于 |  |
+| n. | 大量作品 |  |
+| n. | 信念 |  |
+| 短语 | 赞美生活 |  |
+| 短语 | 充满光 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |  |
+| working | from the heart — 从内心作画 |  |
+| got | in the way of the eye and the hand — 妨碍眼与手 |  |
+| painting | was a way of seeing — 绘画是观看的方式 |  |
+| art | should make you happy — 艺术该让人快乐 |  |
+| lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |  |
+| fame | never made him complacent — 成名却未自满 |  |
+| afraid | of being pinned down — 怕被定型 |  |
+| stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |  |
+| draw | with light — 用光作画 |  |
+| pick | a fight about colour theory — 为色彩理论争吵 |  |
+| in | service of joy — 服务于欢乐 |  |
+| art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |  |
+| pool | paintings — 泳池画 |  |
+| Polaroids | — 宝丽来照片 |  |
+| the | screen was just another window — 屏幕只是另一扇窗 |  |
+| aged | 89 — 享年 89 岁 |  |
 
 ## 三、长难句专项
 

@@ -508,41 +508,50 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | bond | n. 债券 |
-| 基础 | debt | n. 债务 |
-| 基础 | deficit | n. 赤字 |
-| 基础 | inflation | n. 通货膨胀 |
-| 基础 | interest | rates 利率 |
-| 基础 | climb | v. 攀升 |
-| 基础 | boost | v./n. 提升、推动 |
-| 基础 | surplus | n. 盈余 |
-| 基础 | tariff | n. 关税 |
-| 基础 | yield | n. 收益率 |
-| 基础 | culprit | n. 罪魁祸首 |
-| 基础 | deter | v. 阻止、威慑（deter sb from doing） |
-| 基础 | gap | 相关从略 |
-| 基础 | offset | v. 抵消 |
-| 基础 | squeeze | n. 挤压、紧缩 |
-| 基础 | populist | adj. 民粹主义的 |
-| 基础 | stimulus | n. 刺激（fiscal stimulus 财政刺激） |
-| 基础 | sheer | adj. 纯粹的（sheer scale 仅凭规模） |
-| 基础 | diffusion | n. 扩散、普及 |
-| 基础 | perceptible | adj. 可感知的 |
-| 基础 | reckon | v. 估算、认为 |
-| 基础 | halve | v. 减半 |
-| 基础 | prudence | n. 审慎 |
-| 基础 | feat | n. 壮举（此处带反讽） |
-| 基础 | ruction | n. 骚动、动荡 |
-| 基础 | fumble | v. 笨拙处理、失手 |
-| 基础 | indebted | adj. 负债的 |
-| 基础 | peculate | —（未出现，对照） |
-| 基础 | jam | up v. 卡住、堵塞 |
-| 基础 | rigid | adj. 僵化的 |
-| 基础 | arithmetic | n. 算术（fiscal arithmetic 财政账本） |
-| 基础 | wobbly | adj. 摇晃的、不稳的 |
-| 基础 | punt | n. 投机、豪赌 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| feat | n. 壮举（此处带反讽） |  |
+| ruction | n. 骚动、动荡 |  |
+| fumble | v. 笨拙处理、失手 |  |
+| indebted | adj. 负债的 |  |
+| peculate | —（未出现，对照） |  |
+| jam | up v. 卡住、堵塞 |  |
+| rigid | adj. 僵化的 |  |
+| arithmetic | n. 算术（fiscal arithmetic 财政账本） |  |
+| wobbly | adj. 摇晃的、不稳的 |  |
+| punt | n. 投机、豪赌 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| yield | n. 收益率 |  |
+| culprit | n. 罪魁祸首 |  |
+| deter | v. 阻止、威慑（deter sb from doing） |  |
+| gap | 相关从略 |  |
+| offset | v. 抵消 |  |
+| squeeze | n. 挤压、紧缩 |  |
+| populist | adj. 民粹主义的 |  |
+| stimulus | n. 刺激（fiscal stimulus 财政刺激） |  |
+| sheer | adj. 纯粹的（sheer scale 仅凭规模） |  |
+| diffusion | n. 扩散、普及 |  |
+| perceptible | adj. 可感知的 |  |
+| reckon | v. 估算、认为 |  |
+| halve | v. 减半 |  |
+| prudence | n. 审慎 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bond | n. 债券 |  |
+| debt | n. 债务 |  |
+| deficit | n. 赤字 |  |
+| inflation | n. 通货膨胀 |  |
+| interest | rates 利率 |  |
+| climb | v. 攀升 |  |
+| boost | v./n. 提升、推动 |  |
+| surplus | n. 盈余 |  |
+| tariff | n. 关税 |  |
 
 ## 长难句专项
 

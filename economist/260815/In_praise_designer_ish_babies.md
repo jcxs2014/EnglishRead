@@ -763,44 +763,53 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | v. | 彻底改变 |
-| 基础 | v. | 提供 |
-| 基础 | v. | 允许 |
-| 基础 | v. | 支持 |
-| 基础 | v. | 担心 |
-| 基础 | v. | 引发/提高 |
-| 基础 | v. | 改善 |
-| 基础 | v. | 适用于 |
-| 进阶 | n. | 一批、大量 |
-| 进阶 | v. | 冒险进入 |
-| 进阶 | adj. | 沮丧的 |
-| 进阶 | adj. | 脆弱的 |
-| 进阶 | adj. | 不成熟的 |
-| 进阶 | adv. | 最终 |
-| 进阶 | adj. | 小众的 |
-| 进阶 | phr.v. | 迎合 |
-| 进阶 | adj. | 监管的 |
-| 进阶 | n. | 审查 |
-| 进阶 | adj. | 新兴的 |
-| 进阶 | v. | 腐蚀 |
-| 高级 | n. | 体外受精 |
-| 高级 | v. | 评估 |
-| 高级 | n.phr. | 真理的内核 |
-| 高级 | adj. | 多基因的 |
-| 高级 | n. | 近乎确定性 |
-| 高级 | adj. | 二元的 |
-| 高级 | n. | 血统 |
-| 高级 | n. | 警告、注意事项 |
-| 高级 | adj. | 相对的vs绝对的 |
-| 高级 | n. | 信息披露 |
-| 高级 | v. | 破坏、搞垮 |
-| 高级 | n.phr. | 假药、骗人的东西 |
-| 高级 | v. | 强制 |
-| 高级 | n. | 优生学家 |
-| 高级 | n. | 狂热分子 |
-| 高级 | phr.v. | 阻碍 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 体外受精 | via in-vitro fertilisation |
+| v. | 评估 | assess embryos based on |
+| n.phr. | 真理的内核 | Both arguments contain kernels of truth |
+| adj. | 多基因的 | such "polygenic" prediction |
+| n. | 近乎确定性 | testing offers near-certainty |
+| adj. | 二元的 | rather than a binary answer |
+| n. | 血统 | people with European ancestry |
+| n. | 警告、注意事项 | Further caveats are in order |
+| adj. | 相对的vs绝对的 | in relative terms but small in absolute ones |
+| n. | 信息披露 | an argument for disclosure |
+| v. | 破坏、搞垮 | This will not scupper |
+| n.phr. | 假药、骗人的东西 | not selling snake oil |
+| v. | 强制 | murderous coercion |
+| n. | 优生学家 | this century's eugenicists |
+| n. | 狂热分子 | only zealots want banned |
+| phr.v. | 阻碍 | should not stand in the way |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 一批、大量 | A spate of startups offer |
+| v. | 冒险进入 | Some venture further into |
+| adj. | 沮丧的 | Critics are dismayed |
+| adj. | 脆弱的 | vulnerable couples |
+| adj. | 不成熟的 | immature technology |
+| adv. | 最终 | neither is ultimately convincing |
+| adj. | 小众的 | the debate is a niche concern |
+| phr.v. | 迎合 | cater to the rich |
+| adj. | 监管的 | where fertility is more regulated |
+| n. | 审查 | undergo independent scrutiny |
+| adj. | 新兴的 | a nascent business |
+| v. | 腐蚀 | fertility tech corrupts |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 彻底改变 | Silicon Valley is now coming for birth |
+| v. | 提供 | startups offer screening services |
+| v. | 允许 | allow couples...to assess embryos |
+| v. | 支持 | three-quarters of Americans support |
+| v. | 担心 | Some worry firms are pushing |
+| v. | 引发/提高 | raise difficult ethical questions |
+| v. | 改善 | scores will improve |
+| v. | 适用于 | this argument...applies to IVF |
 
 ## 长难句专项
 

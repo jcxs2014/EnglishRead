@@ -529,3 +529,104 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| wring more from | 榨取更多 | 从国资挤钱（标题） |
+| ease fiscal straits | 缓解财政困境 | 找钱动机 |
+| revitalise | 振兴 | 城市改造 |
+| stunning | 惊人的 | 转变之巨 |
+| dilapidated / run-down | 破败/失修 | 改造前旧貌 |
+| lay unused | 闲置 | 资产闲置 |
+| municipal coffers | 市政金库 | 租金去向 |
+| flocked to | 涌向 | 游客 |
+| in a tailspin | 螺旋下坠 | 房地产 |
+| high-water mark | 历史峰值 | 房价顶点 |
+| blown a hole in | 炸开大洞 | 预算冲击 |
+| debt-saddled | 债台高筑 | 城市状态 |
+| raise cash | 筹钱 | 找钱 |
+| slapping fines on | 开罚单 | 荒唐自救 |
+| doling out | 分发 | 开停车票 |
+| deleverage | 去杠杆 | 正规自救 |
+| put ... to work | 让……运转 | 盘活资产 |
+| rummage / closet | 翻找 / 衣柜 | 核心隐喻 |
+| breathe life into | 注入生机 | 盘活目标 |
+| fitted the bill | 正合要求 | 契合中央 |
+| reclaimed / consolidated | 收回 / 整合 | 资产盘活 |
+| takes stakes in | 入股 | 分享增长 |
+| a break with | 决裂 | 告别扩张 |
+| expansion binge | 扩张狂潮 | 过去模式 |
+| move the needle | 产生影响 | 实效设问 |
+| shell games | 空壳游戏 | 假盘活 |
+| a reckoning with | 清算 | 模式反思 |
+| sprawl | 蔓延 | 城市扩张 |
+| chastened | 吃了教训的 | 财政教训 |
+| get more from less | 以少换多 | 点题 |
+
+### 2. 本文核心表达
+
+1. `squeeze/wring more out of` —— 榨取更多（标题 + 正文呼应）
+2. `it is the streets ... that matter more` —— 强调句转折
+3. `roughly the size of Central Park` —— 国际参照系换算
+4. `lay unused` —— 闲置状态
+5. `blown a hole in local budgets` —— 破坏预算的暴力意象
+6. `"deep-sea fishing" expeditions` —— 讽刺性隐喻
+7. `in line with textbook economics` —— 教科书式合规
+8. `It's like looking through your closet and seeing a shirt` —— 生活隐喻（核心）
+9. `As is often the case in China` —— 套话式观察
+10. `breathe more life into them` —— 注入生机
+11. `fitted the central government's bill` —— 正合要求
+12. `instead of just collecting rent ... takes stakes` —— 房东变股东
+13. `move the needle` —— 实质影响
+14. `playing shell games` —— 空壳游戏
+15. `a financially chastened China is trying to get more from less` —— 点题收束
+
+### 3. 重要语法
+
+- **强调句**：`it is the streets around the tower that matter more`
+- **同位语链**：tower → pavilion → prose → schoolchildren（分词链式修饰）
+- **破折号插入**：`—roughly the size of New York's Central Park—`
+- **with 复合结构**：`with some debt-saddled cities cutting wages`
+- **三并列谓语**：`converted ... renovated ... spruced up`
+- **条件句管理预期**：`if ... is sustained, it would support`
+- **双重宾语从句**：`examining how they can make better use of what they already have`
+- **被动 + 时间 + 宾语**：`was launched ... when it declared that ...`
+- **完成进行时**：`have been looking for`（一直在找）
+
+### 4. 长难句
+
+- 原句 1（过去分词链）
+- 原句 5（定语从句 + 引语）
+- 原句 13（被动 + 时间 + 宾语从句）
+- 原句 25（towards + with 复合结构 + 双重从句）
+
+### 5. 写作技巧
+
+1. **隐喻体系化**：从标题 `wring more` 到正文 `squeeze` / `closet` / `shirt` / `rummage`，一个"翻衣柜找旧衬衫"的生活隐喻贯穿全文——抽象政策"可感化"
+2. **首尾闭环**：标题点题 `wring more from state assets`，结尾 `get more from less` 回扣；开头岳阳楼文化符号，结尾朴素总结——"从楼到衣"的收放
+3. **受访者代言隐喻**：核心比喻（衣柜衬衫）由国企经理之口说出，作者借人物之口"植入"自己的分析框架，比直接打比方更有说服力
+4. **数据的克制**：`40% → half → 10% → 5%` 数字给足，但始终限定范围（"十省"、"a bit"、"may be"、"could"）——严谨不浮夸
+5. **先抑后扬再抑**：先承认"some efforts almost comical"（荒唐自救），再给 Yueyang 正面案例，最后 Even so 拉回"解不了债务"——完整呈现利弊
+6. **结尾冷处理**：官方称"refined governance"，作者改用"less grandiose terms"收束——用反差制造幽默，也平衡了报道立场
+7. **术语双关**：`extensive` / `intensive` / `aggressive` 都是官方经济话语的转引，加引号保持区隔与距离
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `squeeze/wring more out of` | 资源利用 | The team squeezed more output out of the same staff. |
+| `revitalise` | 政策/商业 | The grant aims to revitalise the high street. |
+| `the high-water mark` | 数据峰值 | That year was the high-water mark for exports. |
+| `blow a hole in` | 预算/计划 | The lawsuit blew a hole in the company's finances. |
+| `debt-saddled` | 财务困境 | Debt-saddled households cut spending. |
+| `put ... to work` | 资源配置 | The firm put idle capital to work. |
+| `breathe life into` | 项目/品牌 | The redesign breathed life into the brand. |
+| `fit the bill` | 需求匹配 | A compact model would fit the bill. |
+| `move the needle` | 效果评估 | The ad barely moved the needle on sales. |
+| `a shell game` | 质疑真伪 | The accounts were a shell game. |
+| `a reckoning with` | 反思过去 | The downturn was a reckoning with excess. |
+| `get more from less` | 效率理念 | The new line gets more from less. |
+| `in line with` | 合规一致 | The move is in line with the policy. |
+| `lie beyond` | 超越范围 | The real issue lies beyond cost. |

@@ -261,32 +261,19 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | bang for your buck | 钱花得值/性价比 |
-| 基础 | rack up (surpluses/debt) | 积累/堆积 |
-| 基础 | out of kilter | 失调的/错位的 |
-| 基础 | yawning (deficit/gap) | 巨大的/张开的 |
-| 基础 | strident | 尖锐的/激烈的 |
-| 基础 | ebb (and flow) | 退潮/减弱 |
-| 基础 | unmoored | 失去锚的/漂泊的 |
-| 基础 | draw on (markets/labour) | 涉及/利用 |
-| 基础 | lavish ... on | 精心投入/慷慨给予 |
-| 基础 | take on a life of its own | 有了自己的生命 |
-| 进阶 | bell jars | 钟罩（实验室用） |
-| 进阶 | monetary heft | 货币分量（购买力） |
-| 进阶 | Golden Arches | 金拱门（McDonald's 标志） |
-| 进阶 | oomph | 劲道/力度（口语） |
-| 进阶 | line up with | 与……吻合 |
-| 进阶 | xanthan gum | 黄原胶（食品增稠剂） |
-| 进阶 | Plaza Accord | 《广场协议》（1985 年） |
-| 进阶 | levelling-down | 向下 leveling（经济学术语） |
-| 进阶 | deflationary tendencies | 通缩趋势 |
-| 进阶 | real exchange rate | 实际汇率（经价格调整） |
-| 进阶 | price-adjusted | 经价格调整的 |
-| 进阶 | come into being | 问世/诞生 |
-| 进阶 | admittedly | 必须承认地（退让式承认） |
-| 进阶 | distasteful | 令人反感的 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bang for your buck | 钱花得值/性价比 | This phone offers great bang for your buck. |
+| rack up (surpluses/debt) | 积累/堆积 | The company racked up huge losses last quarter. |
+| out of kilter | 失调的/错位的 | His schedule is out of kilter. |
+| yawning (deficit/gap) | 巨大的/张开的 | There's a yawning gap between rich and poor. |
+| strident | 尖锐的/激烈的 | She was strident in her criticism. |
+| ebb` (and flow) | 退潮/减弱 | His enthusiasm soon ebbed. |
+| unmoored | 失去锚的/漂泊的 | The currency remained unmoored from fundamentals. |
+| draw on (markets/labour) | 涉及/利用 | The product draws on decades of research. |
+| lavish ... on | 精心投入/慷慨给予 | She lavishes attention on her garden. |
+| take on a life of its own | 有了自己的生命 | The project has taken on a life of its own. |
 
 ## 核心表达（可直接迁移）
 

@@ -922,38 +922,43 @@ AI 也可以让公民更容易监督政治人物的动向。
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | backlash | 强烈反对、反冲 |
-| 基础 | opposition | 反对、反对派 |
-| 基础 | regulate | 监管、管制 |
-| 基础 | productivity | 生产率 |
-| 基础 | disruption | 颠覆性变革 |
-| 基础 | prosperity | 繁荣 |
-| 基础 | futile | 徒劳的 |
-| 基础 | toxic | 有毒的、有害的 |
-| 基础 | nimbyism | 邻避主义 |
-| 基础 | hair-raising | 令人毛骨悚然的 |
-| 基础 | confect | 捏造、拼凑 |
-| 基础 | choke off | 切断、扼杀 |
-| 基础 | cede | 割让、放弃 |
-| 基础 | succumb | 屈服 |
-| 基础 | temper | 缓和、使温和 |
-| 基础 | forge ahead | 稳步前进 |
-| 基础 | iteratively | 迭代地 |
-| 基础 | first movers | 先行者 |
-| 高级 | data centres | 数据中心 |
-| 高级 | lay-offs | 裁员 |
-| 高级 | wage insurance | 工资保险 |
-| 高级 | AI Security Institute | AI 安全研究所 |
-| 高级 | cyber-attacks | 网络攻击 |
-| 高级 | bioterrorism | 生物恐怖主义 |
-| 高级 | frontier intelligence | 前沿智能 |
-| 高级 | the backlash is only just getting started | 反弹才刚刚开始 |
-| 高级 | bound to change | 必定会改变 |
-| 高级 | get out of the way | 让路 |
-| 高级 | crossing the river by feeling the stones | 摸着石头过河 |
-| 高级 | messy, odd and unpredictable | 混乱、奇怪、不可预测（三连形容） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| backlash | 强烈反对、反冲 |  |
+| opposition | 反对、反对派 |  |
+| regulate | 监管、管制 |  |
+| productivity | 生产率 |  |
+| disruption | 颠覆性变革 |  |
+| prosperity | 繁荣 |  |
+| futile | 徒劳的 |  |
+| toxic | 有毒的、有害的 |  |
+| nimbyism | 邻避主义 |  |
+| hair-raising | 令人毛骨悚然的 |  |
+| confect | 捏造、拼凑 |  |
+| choke off | 切断、扼杀 |  |
+| cede | 割让、放弃 |  |
+| succumb | 屈服 |  |
+| temper | 缓和、使温和 |  |
+| forge ahead | 稳步前进 |  |
+| iteratively | 迭代地 |  |
+| first movers | 先行者 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| data centres | 数据中心 |  |
+| lay-offs | 裁员 |  |
+| wage insurance | 工资保险 |  |
+| AI Security Institute | AI 安全研究所 |  |
+| cyber-attacks | 网络攻击 |  |
+| bioterrorism | 生物恐怖主义 |  |
+| frontier intelligence | 前沿智能 |  |
+| the backlash is only just getting started | 反弹才刚刚开始 |  |
+| bound to change | 必定会改变 |  |
+| get out of the way | 让路 |  |
+| crossing the river by feeling the stones | 摸着石头过河 |  |
+| messy, odd and unpredictable | 混乱、奇怪、不可预测（三连形容） |  |
 
 ## 长难句专项
 

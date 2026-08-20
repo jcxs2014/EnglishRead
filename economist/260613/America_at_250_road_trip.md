@@ -676,72 +676,81 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | stereotype | 刻板印象 |
-| 基础 | irritatingly | 令人恼火地 |
-| 基础 | upbeat | 乐观的 |
-| 基础 | midge-infested | 蚊蚋肆虐的 |
-| 基础 | cliché | 陈词滥调 |
-| 基础 | misleading | 误导性的 |
-| 基础 | cheerful | 快乐的 |
-| 基础 | dread | 恐惧 |
-| 基础 | unravelling | 瓦解 |
-| 基础 | semiquincentennial | 二百五十周年 |
-| 基础 | nostalgic | 怀旧的 |
-| 基础 | pessimistic | 悲观的 |
-| 基础 | inventive | 有创造力的 |
-| 基础 | better off | 境况更好 |
-| 基础 | objective measures | 客观指标 |
-| 基础 | life expectancy | 预期寿命 |
-| 基础 | opioid overdoses | 阿片类药物过量 |
-| 基础 | robustly | 强劲地 |
-| 基础 | income inequality | 收入不平等 |
-| 基础 | pre-eminent | 首屈一指的 |
-| 基础 | biomedicine | 生物医学 |
-| 基础 | impulse | 冲动 |
-| 基础 | spectacular | 了不起的 |
-| 基础 | in the company of | 在……陪伴下 |
-| 基础 | aristocrat | 贵族 |
-| 基础 | prescient | 有先见之明的 |
-| 基础 | maximum-security | 最高安全级别的 |
-| 基础 | sheriff | 治安官 |
-| 基础 | snafus | 混乱 |
-| 基础 | texture | 质感 |
-| 基础 | gaze out of | 凝视窗外 |
-| 基础 | draw conclusions | 得出结论 |
-| 基础 | unrealistically | 不切实际地 |
-| 基础 | gloomy | 悲观的 |
-| 基础 | morally bad | 道德败坏的 |
-| 基础 | comes close to | 接近 |
-| 基础 | great-grandson | 曾孙 |
-| 基础 | systematic organisation | 系统化组织 |
-| 基础 | hatreds | 仇恨 |
-| 基础 | ingenuity | 聪明才智 |
-| 基础 | in person | 亲自 |
-| 基础 | purple-haired | 紫发的 |
-| 基础 | distorted | 扭曲的 |
-| 基础 | continent-size | 幅员如大陆的 |
-| 基础 | peripheral | 边陲的 |
-| 基础 | blessed with | 被赐予 |
-| 基础 | dynamic conditions | 充满活力的条件 |
-| 基础 | nationality | 国籍 |
-| 基础 | ruin | 废墟 |
-| 基础 | widespread | 广泛的 |
-| 基础 | dip | 下滑 |
-| 基础 | pre-eminent | 卓越的 |
-| 基础 | launching | 推出 |
-| 基础 | unplanned | 计划外的 |
-| 基础 | encounters | 邂逅 |
-| 基础 | stretches | 路段 |
-| 基础 | mirror | 镜子 |
-| 基础 | picture | 想象 |
-| 基础 | stranger | 陌生人 |
-| 基础 | family | 家庭 |
-| 基础 | past | 过去 |
-| 基础 | economy | 经济 |
-| 基础 | firms | 公司 |
-| 基础 | podcast | 播客 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| stereotype | 刻板印象 |  |
+| irritatingly | 令人恼火地 |  |
+| upbeat | 乐观的 |  |
+| midge-infested | 蚊蚋肆虐的 |  |
+| cliché | 陈词滥调 |  |
+| misleading | 误导性的 |  |
+| cheerful | 快乐的 |  |
+| dread | 恐惧 |  |
+| unravelling | 瓦解 |  |
+| semiquincentennial | 二百五十周年 |  |
+| nostalgic | 怀旧的 |  |
+| pessimistic | 悲观的 |  |
+| inventive | 有创造力的 |  |
+| better off | 境况更好 |  |
+| objective measures | 客观指标 |  |
+| life expectancy | 预期寿命 |  |
+| opioid overdoses | 阿片类药物过量 |  |
+| robustly | 强劲地 |  |
+| income inequality | 收入不平等 |  |
+| pre-eminent | 首屈一指的 |  |
+| biomedicine | 生物医学 |  |
+| impulse | 冲动 |  |
+| spectacular | 了不起的 |  |
+| in the company of | 在……陪伴下 |  |
+| aristocrat | 贵族 |  |
+| prescient | 有先见之明的 |  |
+| maximum-security | 最高安全级别的 |  |
+| sheriff | 治安官 |  |
+| snafus | 混乱 |  |
+| texture | 质感 |  |
+| gaze out of | 凝视窗外 |  |
+| draw conclusions | 得出结论 |  |
+| unrealistically | 不切实际地 |  |
+| gloomy | 悲观的 |  |
+| morally bad | 道德败坏的 |  |
+| comes close to | 接近 |  |
+| great-grandson | 曾孙 |  |
+| systematic organisation | 系统化组织 |  |
+| hatreds | 仇恨 |  |
+| ingenuity | 聪明才智 |  |
+| in person | 亲自 |  |
+| purple-haired | 紫发的 |  |
+| distorted | 扭曲的 |  |
+| continent-size | 幅员如大陆的 |  |
+| peripheral | 边陲的 |  |
+| blessed with | 被赐予 |  |
+| dynamic conditions | 充满活力的条件 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nationality | 国籍 |  |
+| ruin | 废墟 |  |
+| widespread | 广泛的 |  |
+| dip | 下滑 |  |
+| pre-eminent | 卓越的 |  |
+| launching | 推出 |  |
+| unplanned | 计划外的 |  |
+| encounters | 邂逅 |  |
+| stretches | 路段 |  |
+| mirror | 镜子 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| picture | 想象 |  |
+| stranger | 陌生人 |  |
+| family | 家庭 |  |
+| past | 过去 |  |
+| economy | 经济 |  |
+| firms | 公司 |  |
+| podcast | 播客 |  |
 
 ## 九、长难句专项
 
@@ -813,3 +822,50 @@
 ---
 
 ## 十、精读结束总结
+
+### 1. 核心词汇
+- **情绪/心态类**：upbeat、cheerful、nostalgic、pessimistic、gloomy、dread、misleading
+- **建国/周年类**：semiquincentennial、big birthday、turns 250、Democracy in America
+- **数据/指标类**：objective measures、life expectancy、income inequality、robustly
+- **公路/旅途类**：road trip、get behind the wheel、hit the road、stretches behind the wheel、diners
+
+### 2. 重要表达
+- `get behind the wheel`（坐上驾驶座、开始行动）
+- `hit the road`（上路）
+- `in the company of`（在……陪伴下）
+- `the distance between the data and the vibes`（数据与氛围的落差）
+- `see ... through their phones`（透过手机看）
+- `a mirror that is horribly distorted`（严重扭曲的镜子）
+- `come close to`（接近）
+- `blessed with`（被赐予）
+- `draw conclusions`（得出结论）
+
+### 3. 核心语法
+1. **引语前置 + 倒装**：`"Democracy never lasts long," wrote the second president, John Adams`（原句 6）。
+2. **祈使 + 结果**：`go and talk to people in person ... and you will find that ...`（原句 30）。
+3. **三个从句嵌套**：表语从句 + who 定语 + that 定语（原句 31）。
+4. **三组 from-to 排比**：旅途路线（原句 21）。
+5. **Never 倒装**：`Never have a people been blessed with ...`（原句 40）。
+
+### 4. 长难句要点
+1. 先找主干（祈使/主谓），再拆修饰（分词、定语从句）。
+2. 破折号后的短句往往是结论（原句 2）。
+3. 倒装结构（Never/引语前置）强调否定或引文。
+
+### 5. 写作技巧
+1. **刻板印象开篇，全文反转**：开头"乐观到烦人"→ 结尾"实际是恐惧与深思"。
+2. **两代 Adams 呼应**：约翰·亚当斯（1814）悲观预言 ↔ 亨利·亚当斯（曾孙）"政治=仇恨的系统化组织"——家族时间线贯穿。
+3. **data vs vibes 押韵对举**：一句点出全文核心矛盾。
+4. **比喻形象化**：手机=哈哈镜、政治=远处边缘之物、仇恨=组织化产品。
+5. **自我推广嵌入论证**：播客不是广告，而是"解谜"的手段。
+6. **首尾照应**：开头 get behind the wheel 标题 → 结尾 hit the road + 托克维尔祝福。
+
+### 6. 可迁移表达
+- 表达"表面乐观实则恐惧"：*Americans are generally cheerful. But even in the country's brightest moments many have been struck by a kind of dread.*
+- 表达"数据与感受背离"：*The distance between the data and the vibes is the central puzzle.*
+- 表达"只看一角会误判"：*if all you know about America is its politics, you will draw unrealistically gloomy conclusions.*
+- 表达"当面交流破除偏见"：*go and talk to people in person ... and you will find that they agree on a surprising amount.*
+- 表达"媒介失真"：*seeing your homeland through your phones is looking in a mirror that is horribly distorted.*
+- 表达"历史回响"：*"Never have a people been blessed with such happy, dynamic conditions of existence," Tocqueville wrote.*
+
+---

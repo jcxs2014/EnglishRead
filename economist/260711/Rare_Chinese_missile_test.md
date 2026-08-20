@@ -531,26 +531,31 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 进阶 | secrecy | 保密 / estimate 估计 / confirm 证实 / patrol 巡逻 |
-| 进阶 | vessel | 舰船 / dummy 模拟的、假的 / warhead 弹头 |
-| 进阶 | intercontinental | 洲际的 / long-range 远程的 / air-launched 空射的 |
-| 进阶 | modernise | 现代化 / build-up 集结扩充 / operational 现役可用的 |
-| 进阶 | the low 600s | 600 出头 / compared with 相比 |
-| 进阶 | in preparation for | 为……做准备 / confrontation 对抗 |
-| 进阶 | splash down | 溅落 / range 射程 / the former/the latter 前者/后者 |
-| 进阶 | mainland | 本土 / coastal waters 近海水域 / on display 展出 |
-| 进阶 | military parade | 阅兵式 / joint 联合的 / notification 通报 |
-| 进阶 | do so | 替代动词 / `permanent members` 常任理事国 |
-| 进阶 | State Department | 国务院 / foreign minister 外长 / in protest over 因抗议 |
-| 进阶 | destabilising | 破坏稳定的 / intention 意图 |
-| 高级 | boomer | （此处）美国海军俚语：弹道导弹核潜艇 |
-| 高级 | triad | （军事义）陆海空三位一体核力量 |
-| 高级 | jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |
-| 高级 | continental United States | 美国本土 / mid-Pacific 太平洋中部 |
-| 高级 | foe | 敌人（古雅变体） |
-| 高级 | NATO | 北约 / SSBN 弹道导弹核潜艇 |
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| secrecy | 保密 / `estimate` 估计 / `confirm` 证实 / `patrol` 巡逻 |  |
+| vessel | 舰船 / `dummy` 模拟的、假的 / `warhead` 弹头 |  |
+| intercontinental | 洲际的 / `long-range` 远程的 / `air-launched` 空射的 |  |
+| modernise | 现代化 / `build-up` 集结扩充 / `operational` 现役可用的 |  |
+| the low 600s | 600 出头 / `compared with` 相比 |  |
+| in preparation for | 为……做准备 / `confrontation` 对抗 |  |
+| splash down | 溅落 / `range` 射程 / `the former/the latter` 前者/后者 |  |
+| mainland | 本土 / `coastal waters` 近海水域 / `on display` 展出 |  |
+| military parade | 阅兵式 / `joint` 联合的 / `notification` 通报 |  |
+| do so | 替代动词 / `permanent members` 常任理事国 |  |
+| State Department | 国务院 / `foreign minister` 外长 / `in protest over` 因抗议 |  |
+| destabilising | 破坏稳定的 / `intention` 意图 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| boomer | （此处）美国海军俚语：弹道导弹核潜艇 |  |
+| triad | （军事义）陆海空三位一体核力量 |  |
+| jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |  |
+| continental United States | 美国本土 / `mid-Pacific` 太平洋中部 |  |
+| foe | 敌人（古雅变体） |  |
+| NATO | 北约 / `SSBN` 弹道导弹核潜艇 |  |
 
 ## 长难句专项（按精读顺序编号）
 

@@ -646,62 +646,71 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | nirvana | 极乐净土 |
-| 基础 | staked out | 划定立场 |
-| 基础 | hawkish | 鸽派） |
-| 基础 | come to pass | 成真 |
-| 基础 | wry smiles | 苦笑 |
-| 基础 | sane | 理智的 |
-| 基础 | crumbled | 瓦解 |
-| 基础 | if anything | 甚至可以说 |
-| 基础 | firmed up | 走强 |
-| 基础 | swelled | 猛增 |
-| 基础 | exuberant | 繁荣的 |
-| 基础 | baked into | 固化进 |
-| 基础 | take on a life of its own | 有了自己的生命 |
-| 基础 | novel arguments | 新奇论点 |
-| 基础 | shakier | 更站不住脚 |
-| 基础 | vying for | 争夺 |
-| 基础 | ditched | 抛弃 |
-| 基础 | unleash | 释放 |
-| 基础 | vanquished | 征服 |
-| 基础 | euphoria | 亢奋 |
-| 基础 | stoked | 助燃 |
-| 基础 | respectively | 分别地 |
-| 基础 | lined up to remind | 排队提醒 |
-| 基础 | appetites for | 渴求 |
-| 基础 | voting rate-setters | 有投票权的利率制定者 |
-| 基础 | amount to | 相当于 |
-| 基础 | balance-sheet | 资产负债表 |
-| 基础 | akin to | 类似于 |
-| 基础 | piddling | 微不足道的 |
-| 基础 | entertained | 考虑过 |
-| 基础 | rules of thumb | 经验法则 |
-| 基础 | overestimate | 高估 |
-| 基础 | signalling | 发出信号 |
-| 基础 | conveyed | 传递 |
-| 基础 | presage | 预示 |
-| 基础 | off the table | 排除在讨论外 |
-| 基础 | play for time | 拖延 |
-| 基础 | appointment | 任命 |
-| 基础 | scenario | 场景 |
-| 基础 | coincidence | 巧合 |
-| 基础 | respectable | 站得住的 |
-| 基础 | wobbling | 摇摆 |
-| 基础 | migration | 移民 |
-| 基础 | overshoots | 超过目标 |
-| 基础 | tighten | / tightening（收紧） |
-| 基础 | bond yields | 债券收益率 |
-| 基础 | quantitative tightening | 量化紧缩 |
-| 基础 | fiscal | 财政的 |
-| 基础 | inflation | 通胀 |
-| 基础 | interest rates | 利率 |
-| 基础 | economy | 经济 |
-| 基础 | jobs market | 就业市场 |
-| 基础 | unemployment rate | 失业率 |
-| 基础 | tax cuts | 减税 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nirvana | 极乐净土 |  |
+| staked out | 划定立场 |  |
+| hawkish | 鸽派） |  |
+| come to pass | 成真 |  |
+| wry smiles | 苦笑 |  |
+| sane | 理智的 |  |
+| crumbled | 瓦解 |  |
+| if anything | 甚至可以说 |  |
+| firmed up | 走强 |  |
+| swelled | 猛增 |  |
+| exuberant | 繁荣的 |  |
+| baked into | 固化进 |  |
+| take on a life of its own | 有了自己的生命 |  |
+| novel arguments | 新奇论点 |  |
+| shakier | 更站不住脚 |  |
+| vying for | 争夺 |  |
+| ditched | 抛弃 |  |
+| unleash | 释放 |  |
+| vanquished | 征服 |  |
+| euphoria | 亢奋 |  |
+| stoked | 助燃 |  |
+| respectively | 分别地 |  |
+| lined up to remind | 排队提醒 |  |
+| appetites for | 渴求 |  |
+| voting rate-setters | 有投票权的利率制定者 |  |
+| amount to | 相当于 |  |
+| balance-sheet | 资产负债表 |  |
+| akin to | 类似于 |  |
+| piddling | 微不足道的 |  |
+| entertained | 考虑过 |  |
+| rules of thumb | 经验法则 |  |
+| overestimate | 高估 |  |
+| signalling | 发出信号 |  |
+| conveyed | 传递 |  |
+| presage | 预示 |  |
+| off the table | 排除在讨论外 |  |
+| play for time | 拖延 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| appointment | 任命 |  |
+| scenario | 场景 |  |
+| coincidence | 巧合 |  |
+| respectable | 站得住的 |  |
+| wobbling | 摇摆 |  |
+| migration | 移民 |  |
+| overshoots | 超过目标 |  |
+| tighten | / tightening（收紧） |  |
+| bond yields | 债券收益率 |  |
+| quantitative tightening | 量化紧缩 |  |
+| fiscal | 财政的 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| inflation | 通胀 |  |
+| interest rates | 利率 |  |
+| economy | 经济 |  |
+| jobs market | 就业市场 |  |
+| unemployment rate | 失业率 |  |
+| tax cuts | 减税 |  |
 
 ## 十、长难句专项
 
@@ -760,3 +769,50 @@
 ---
 
 ## 十一、精读结束总结
+
+### 1. 核心词汇
+- **货币政策类**：hawkish / doveishness、interest rates、quantitative tightening、balance-sheet、long-term bond yields、rate-setters、monetary-policy meeting
+- **经济态势类**：exuberant、firmed up、swelled、euphoria、productivity growth、inflation overshoots
+- **评价动词类**：crumbled、stoked、vanquished、presage、entertained、unleash
+
+### 2. 重要表达
+- `the stuff of ... nirvana`（职业极乐的构成材料）
+- `can thank ... for`（反语：该怪……）
+- `all but killed`（几乎被扼杀）
+- `take on a life of its own`（有了自己的生命）
+- `off the table` / `on the table`（排除 / 摆上桌面）
+- `play for time`（拖延）
+- `pull in opposite directions`（朝相反方向拉扯）
+- `rules of thumb`（经验法则）
+
+### 3. 核心语法
+1. **虚拟式 would have been**：构建"本该如此"的反讽（原句 1）。
+2. **with 复合结构**：with + 宾语 + 形容词补语（原句 1）。
+3. **非限制性定语从句 most of whom**：补充说明人群态度（原句 7）。
+4. **现在完成时态对比**：had been rising vs has since fallen（原句 13）。
+5. **such ... that 结构**：因果强调链（原句 22）。
+6. **省略关系代词**：a list of nerdy reforms he wants to make（原句 38）。
+
+### 4. 长难句要点
+1. 长句的骨架常是"主语 + 动名词/不定式 + 虚拟或条件"，先拆出主干再处理修饰。
+2. `with + 复合结构` 与 `by contrast` 这类介词短语承载大量对比信息。
+3. `not ... but`、`up, not down` 类"对举"结构是经济评论强调对比的惯用手法。
+
+### 5. 写作技巧
+1. **标题即结论**：标题 "must soon give Trump bad news" 直接给出最终判断，正文逐层论证。
+2. **反讽开篇**：用虚拟式（would have been nirvana）+ "ironic that ... come to pass" 制造理想落空的戏剧性。
+3. **数字证据链**：188,000/月、4.3%、4.2%、5% GDP、四分之一基点——用精确数据支撑判断。
+4. **比喻说理**：baked into expectations、take on a life of its own、暖气和空调同开——把抽象概念具象化。
+5. **段落转折枢纽**：Alas, the happy coincidence is over——一个词完成立场切换。
+6. **首尾呼应**：标题 bad news → 末句 give Trump bad news，闭环收束。
+
+### 6. 可迁移表达
+- 表达"本该却未能"：*would have been the stuff of ...*
+- 表达"站不住脚"：*the case for ... has crumbled / look shakier than ever*
+- 表达"固化预期"：*get baked into expectations*
+- 表达"自我延续"：*take on a life of its own*
+- 表达"排除选项"：*should be firmly off the table*
+- 表达"对比反驳"：*by contrast, ... would pull in opposite directions*
+- 表达"不得不送坏消息"：*will have to give ... bad news*
+
+---

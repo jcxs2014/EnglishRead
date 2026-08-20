@@ -438,3 +438,79 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| too convenient | 图省事的诊断 | 对社论诊断的批评 |
+| as if citizens were merely one constituency | 好像公民只是众多选民之一 | 制度忽视公民的观感 |
+| succumbing to | 屈服于 | 美国未屈服于宗教民族主义 |
+| spasm | 痉挛/突发 | 反叛不是美国独有痉挛 |
+| the links | 高尔夫球场 | 数据中心的用水比较 |
+| non-potable / potable | 不可饮用 / 可饮用 | 水源性质差异 |
+| an order of magnitude | 一个数量级 | 潜在无家可归者规模 |
+| reservoir | 蓄水池 | 潜在无家可归者来源 |
+| one small misfortune away from | 一步之遥 | 贫困家庭脆弱性 |
+| mea culpa | 认错（拉丁语） | 《经济学人》油价认错 |
+| cautionary tale | 警示故事 | 预测之难 |
+| brought to mind | 使想起 | 引乔伊斯名言 |
+| volitional | 自愿的 | 错误是自愿的 |
+| gruelling | 艰苦卓绝 | 1919 车队 |
+| ordeal | 磨难 | 车队经历 |
+| culminating in | 最终促成 | 1956 公路法 |
+
+### 2. 本文核心表达
+
+1. `The revolt is real enough, but the diagnosis is too convenient` —— 现象与诊断的区分
+2. `Opposition to A is not opposition to B` —— 类目区分句式
+3. `One suspects that ...` —— 第三人称推测
+4. `the most socially efficient explanation` —— 讽刺性"效率"语言
+5. `was handed to voters by institutions that stopped asking for consent` —— 反转归因
+6. `not so much A as B` —— 与其说 A 不如说 B
+7. `one small misfortune away from` —— 距离隐喻
+8. `the Adam Smith of ...` —— 领域祖师爷命名
+9. `are bound to` —— 注定
+10. `portals of discovery` —— 诗意借喻
+
+### 3. 重要语法
+
+- **as if + 虚拟语气**：`as if citizens were merely one constituency`（与事实相反的假设）
+- **Nor 倒装**：`Nor is America plainly succumbing to ...`
+- **not so much A as B**：`not so much about the technology as ... the far larger contest`
+- **not just A, but B**：`not just how much water is used, but whether ...`
+- **同位语链**：`a demand for cultural confidence, a belief that ...`
+- **there be + 过去分词**：`There was one important detail missing`
+- **动名词主语**：`Providing ... will not fully solve`
+- **形式主语**：`It was a big relief to learn that ...`
+
+### 4. 长难句
+
+- 原句 1（长定语链：sweeping analysis ... concluded by contemplating）
+- 原句 7（as if 虚拟 + 同位语链）
+- 原句 15（数量级 + 距离隐喻）
+
+### 5. 写作技巧
+
+1. **Letters 文体的"先复述后补充"**：每封信都先准确复述原文（含日期、标题、引语），再给新角度——礼貌而有据
+2. **纠错的三级动作**：指出遗漏（Dorfner）→ 区分维度（水量 vs 水源）→ 给出可操作结论（是否与人争水）
+3. **反转归因**：Lauck 把"选民愤怒"重写为"体制先失职"——同一现象，归因不同结论迥异
+4. **数据提升说服力**：数量级（10 倍）、比例（90% 收入）、里程（3200 英里）——具体数字比形容词可信
+5. **幽默调节**：mild injustice、more queuing and less ammunition、Adam Smith of oil——严肃话题不失诙谐
+6. **引经据典收尾**：乔伊斯"volitional errors"——把媒体认错升格为求知伦理，提升文章格调
+7. **缩略词造词**：CAESARE（谐音凯撒）——用自造词制造记忆点和立场
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `on the grounds that` | 正式论辩 | The appeal failed on the grounds that evidence was lacking. |
+| `grounded in` | 学术写作 | Her argument is grounded in decades of data. |
+| `replaced A with B` | 商业/政策 | The firm replaced manual review with automation. |
+| `without losing sight of` | 论述平衡 | We must cut costs without losing sight of quality. |
+| `Rather than` | 对比论证 | Rather than banning, we should regulate. |
+| `not so much A as B` | 澄清主次 | The issue is not so much price as trust. |
+| `one misfortune away from` | 脆弱性论述 | Many families are one layoff away from hardship. |
+| `the Adam Smith of` | 行业评价 | She is the Adam Smith of logistics. |
+| `culminating in` | 历史叙事 | Years of reform culminated in a new constitution. |
+| `brought to mind` | 文学/写作 | The scene brought to mind a painting by Turner. |

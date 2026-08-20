@@ -903,77 +903,86 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | theme tune | 主题曲 |
-| 基础 | exemplifies | 体现 |
-| 基础 | foster | 促进 |
-| 基础 | tune in | 收看 |
-| 基础 | come away with | 得出 |
-| 基础 | seize | 攫取 |
-| 基础 | the bigger picture | 更大的图景 |
-| 基础 | fragmenting | 碎片化 |
-| 基础 | tuning out of | 转台、脱离 |
-| 基础 | embracing | 拥抱 |
-| 基础 | emerging paradox | 浮现的悖论 |
-| 基础 | monoculture | 单一文化 |
-| 基础 | fading | 消退 |
-| 基础 | lopsidedly | 一边倒地 |
-| 基础 | megastars | 超级巨星 |
-| 基础 | soared in value | 价值飙升 |
-| 基础 | reluctant globaliser | 不情愿的全球化者 |
-| 基础 | engrossed in | 沉浸于 |
-| 基础 | Tinseltown | 好莱坞 |
-| 基础 | reversing | 反转 |
-| 基础 | most-streamed | 播放量最高的 |
-| 基础 | woo | 争取、讨好 |
-| 基础 | halved | 减半 |
-| 基础 | gravitate towards | 倾向于 |
-| 基础 | trending | 热门的 |
-| 基础 | franchises | 系列作品 |
-| 基础 | regional variations | 区域差异 |
-| 基础 | economies of scale | 规模经济 |
-| 基础 | niches | 利基市场 |
-| 基础 | sub-national | 国家以下的 |
-| 基础 | cultural boom | 文化繁荣 |
-| 基础 | global middle class | 全球中产阶级 |
-| 基础 | tailored to | 量身定制 |
-| 基础 | tastemakers | 品味塑造者 |
-| 基础 | blizzard | 暴风雪 |
-| 基础 | highlights | 精彩片段 |
-| 基础 | turned out to be | 结果是 |
-| 基础 | bleaker | 更凄凉的 |
-| 基础 | purgatory | 炼狱 |
-| 基础 | a diet of | 一份配给 |
-| 基础 | global menu | 全球菜单 |
-| 基础 | Regulators | 监管者 |
-| 基础 | brought about by | 由……带来 |
-| 基础 | quotas | 配额 |
-| 基础 | century of dominance | 一个世纪的支配 |
-| 基础 | lost its grip on | 失去掌控 |
-| 基础 | tractor-beam | 牵引光束 |
-| 基础 | recruited | 招揽 |
-| 基础 | rushing to fill | 争相填补 |
-| 基础 | fading force | 衰退的力量 |
-| 基础 | kicked off | 开球、开始 |
-| 基础 | assumptions | 假设 |
-| 基础 | mega-events | 大型赛事 |
-| 基础 | outskirts | 郊区 |
-| 基础 | connected | 互联的 |
-| 基础 | elite | 精英 |
-| 基础 | platforms | 平台 |
-| 基础 | franchises | 系列作品 |
-| 基础 | subscriptions | 订阅 |
-| 基础 | algorithms | 算法 |
-| 基础 | commissioning | 委托制作 |
-| 基础 | appetite | 意愿 |
-| 基础 | audience | 受众 |
-| 基础 | content | 内容 |
-| 基础 | streaming | 流媒体 |
-| 基础 | gamers | 玩家 |
-| 基础 | charts | 排行榜 |
-| 基础 | radio | 电台 |
-| 基础 | final | 决赛 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| theme tune | 主题曲 |  |
+| exemplifies | 体现 |  |
+| foster | 促进 |  |
+| tune in | 收看 |  |
+| come away with | 得出 |  |
+| seize | 攫取 |  |
+| the bigger picture | 更大的图景 |  |
+| fragmenting | 碎片化 |  |
+| tuning out of | 转台、脱离 |  |
+| embracing | 拥抱 |  |
+| emerging paradox | 浮现的悖论 |  |
+| monoculture | 单一文化 |  |
+| fading | 消退 |  |
+| lopsidedly | 一边倒地 |  |
+| megastars | 超级巨星 |  |
+| soared in value | 价值飙升 |  |
+| reluctant globaliser | 不情愿的全球化者 |  |
+| engrossed in | 沉浸于 |  |
+| Tinseltown | 好莱坞 |  |
+| reversing | 反转 |  |
+| most-streamed | 播放量最高的 |  |
+| woo | 争取、讨好 |  |
+| halved | 减半 |  |
+| gravitate towards | 倾向于 |  |
+| trending | 热门的 |  |
+| franchises | 系列作品 |  |
+| regional variations | 区域差异 |  |
+| economies of scale | 规模经济 |  |
+| niches | 利基市场 |  |
+| sub-national | 国家以下的 |  |
+| cultural boom | 文化繁荣 |  |
+| global middle class | 全球中产阶级 |  |
+| tailored to | 量身定制 |  |
+| tastemakers | 品味塑造者 |  |
+| blizzard | 暴风雪 |  |
+| highlights | 精彩片段 |  |
+| turned out to be | 结果是 |  |
+| bleaker | 更凄凉的 |  |
+| purgatory | 炼狱 |  |
+| a diet of | 一份配给 |  |
+| global menu | 全球菜单 |  |
+| Regulators | 监管者 |  |
+| brought about by | 由……带来 |  |
+| quotas | 配额 |  |
+| century of dominance | 一个世纪的支配 |  |
+| lost its grip on | 失去掌控 |  |
+| tractor-beam | 牵引光束 |  |
+| recruited | 招揽 |  |
+| rushing to fill | 争相填补 |  |
+| fading force | 衰退的力量 |  |
+| kicked off | 开球、开始 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| assumptions | 假设 |  |
+| mega-events | 大型赛事 |  |
+| outskirts | 郊区 |  |
+| connected | 互联的 |  |
+| elite | 精英 |  |
+| platforms | 平台 |  |
+| franchises | 系列作品 |  |
+| subscriptions | 订阅 |  |
+| algorithms | 算法 |  |
+| commissioning | 委托制作 |  |
+| appetite | 意愿 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| audience | 受众 |  |
+| content | 内容 |  |
+| streaming | 流媒体 |  |
+| gamers | 玩家 |  |
+| charts | 排行榜 |  |
+| radio | 电台 |  |
+| final | 决赛 |  |
 
 ## 十、长难句专项
 
@@ -1032,3 +1041,52 @@
 ---
 
 ## 十一、精读结束总结
+
+### 1. 核心词汇
+- **全球化/本土化类**：globalised、fragmenting、monoculture、deglobalisation、local turn、sub-national
+- **媒介/平台类**：platforms、streaming、algorithms、trending、tastemakers、app stores
+- **文化产品类**：megastars、franchises、highlights、clips、tracks、niches
+
+### 2. 重要表达
+- `tune in` / `tune out of`（收看 / 转台脱离）
+- `come away with`（得出结论）
+- `the bigger picture`（更大图景）
+- `a reluctant globaliser`（不情愿的全球化者）
+- `gravitate towards`（倾向）
+- `economies of scale`（规模经济）
+- `brought about by`（由……带来）
+- `lost its grip on`（失去掌控）
+- `a fading force`（衰退的力量）
+- `kicked off`（开球、开始）
+
+### 3. 核心语法
+1. **With 伴随结构**：WITH LYRICS in five languages（原句 1）。
+2. **the bigger picture is that + 表语从句**：提出核心论点（原句 8）。
+3. **even as 让步对比**：even as world more connected, people more local（原句 10）。
+4. **冒号 + 数字例证**：Brazil 96/100、North America 70%→36%（原句 25/27）。
+5. **Rather than + 对仗**：a diet of vs a global menu（原句 47）。
+6. **省略谓语的 and with it 结构**：lose grip on content, and with it the tractor-beam（原句 52）。
+
+### 4. 长难句要点
+1. 长句先拆主干，WITH 结构、分词定语都是修饰层。
+2. 冒号后例证往往是论证的关键证据。
+3. 省略结构（and with it ...）需补出省略的动词理解。
+
+### 5. 写作技巧
+1. **具体事件引出抽象命题**：以世界杯（具体）引出娱乐碎片化悖论（抽象）。
+2. **对举结构制造张力**：more globalised vs more local、tune in vs tune out、a diet of vs a global menu。
+3. **数字精准论证**：98%、96/100、70%→36%、3/4、4 vs 44——每个论点都有数据支撑。
+4. **首尾呼应**：开头世界杯盛会 → 结尾世界杯决赛，中间完成"表象→本质"翻转。
+5. **比喻贯穿**：diet/menu（饮食）、tractor-beam（牵引光束）、kicked off（开球）、blizzard（暴风雪）——形象化抽象概念。
+6. **反讽点缀**：加拿大被迫狂播 Justin Bieber 满足配额——讽刺强制本土化政策。
+
+### 6. 可迁移表达
+- 表达"表面与本质"：*Both assumptions would be wrong. The bigger picture is that ...*
+- 表达"矛盾并存"：*even as the world becomes more connected, people are choosing more local forms of fun*
+- 表达"集体忽视"：*fans are mainly engrossed in domestic contests*
+- 表达"结果证明"：*preferences have turned out to be more local than ... thought*
+- 表达"政策建议"：*Regulators should note that ... has been brought about by technology, and not by rules*
+- 表达"霸权终结"：*a century of dominance ... is over*
+- 表达"新局开场"：*a new game ... that has only just kicked off*
+
+---

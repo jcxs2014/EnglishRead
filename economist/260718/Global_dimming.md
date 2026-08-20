@@ -468,3 +468,79 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| albedo | 反照率 | 地球反射阳光的比例，本文核心概念 |
+| feed on itself | 自我强化 | 变暖→反照率降→更暖 |
+| policy dilemma | 政策困境 | 硫治理的两难 |
+| geoengineering | 地球工程 | 人工干预气候 |
+| benign / malignant | 良性 / 恶性 | 良性气溶胶 |
+| at scale | 规模化 | 大规模实施 |
+| elusive | 难以企及 | 大规模增亮技术 |
+| trajectory | 轨迹 | 全球升温走向 |
+| endorse | 认可 | 几乎无人认可地球工程 |
+| in concert | 协同 | 各国协调行动 |
+| phase out | 逐步淘汰 | 淘汰氟化气体 |
+| the late | 已故的 | Crutzen |
+| wreak havoc with | 造成严重破坏 | 颗粒危害健康 |
+| The more..., the sooner... | 越…就越… | 变暖越快，极端越早 |
+| look set to | 势将 | 两趋势继续 |
+| at large | 整体 | 世界整体 |
+| discernible | 可察觉的 | 可察觉的影响 |
+| eats into | 蚕食 | 转型蚕食化石燃料 |
+
+### 2. 本文核心表达
+
+1. `Cole Porter had it right. It is too darn hot.` —— 引语开场 + 幽默定调
+2. `The same was true for A, and for B` —— 重复现象的书面表达
+3. `Worse is to come` —— 警示短句
+4. `all but guarantees` —— 几乎保证
+5. `exciting—and alarming—scientists` —— 破折号双重节奏
+6. `obscure but fundamental` —— 反常识对置
+7. `buy a country a certain standing` —— 筹码化表达
+8. `Endurance is what remains` —— 名词化结论句
+9. `act in concert to warm the planet` —— 反讽式并列
+10. `anything goes` —— 首尾引语闭环
+
+### 3. 重要语法
+
+- **将来完成时** `tens of thousands will have died`（截至某时点累计）
+- **部分倒装** `only for the largest economies does ... have effect`（only + 状语前置）
+- **过去分词后置** `idealism needed to imagine ...`（名词 + 过去分词短语）
+- **破折号插入** `exciting—and alarming—scientists`（节奏控制）
+- **比较级递进** `The more ..., the sooner ...`
+- **名词化表达** `Endurance is what remains`、`a scarcity of cooling clouds`
+- **双宾语** `buy a country a certain standing`
+
+### 4. 长难句
+
+- 原句 18（倒装）：`only for the largest economies does ...`
+- 原句 19（破折号 + 过去分词）：`The idea was conceived when ...`
+- 原句 25（插入语 + 条件）：`if nations can act in concert ...`
+
+### 5. 写作技巧
+
+1. **音乐主题闭环**：Cole Porter 引语开头（too hot）结尾（anything goes），首尾呼应形成完整叙事弧
+2. **由具体到抽象**：先给热浪/台风/山火等灾难事实，再引出晦涩的 albedo 概念——用"痛点"吸引读者理解"概念"
+3. **数字戏剧化**：50 万生命 vs 1°C、9 个月延误 vs 电费翻倍——把两难量化成可比较的砝码
+4. **先扬后抑**：承认净零理念之善（planetary housekeeping 的可爱比喻），再泼冷水（慢且小），最后讽刺时代已变（merely high vs delusional）
+5. **现实主义收尾**：不渲染绝望，给可执行清单（空调、甲烷、氟化气体），再谈地球工程——"讨论胜于沉默"是全文最低限度的结论
+6. **拟人化地理想象**：`which saw well over a million people evacuated`（台风"目睹"撤离）——用拟人增加画面感
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `had it right` | 日常/写作 | My grandmother had it right: you are what you eat. |
+| `The same was true for A` | 学术报告 | GDP fell; the same was true for most regions. |
+| `look set to` | 财经/预测 | The market looks set to recover next quarter. |
+| `There is scope for` | 政策/商业 | There is scope for further cost-cutting. |
+| `wreak havoc with` | 正式写作 | The reform wreaked havoc with the old system. |
+| `eats into` | 经济分析 | Inflation is eating into household income. |
+| `discernible effect` | 科研论文 | The intervention had no discernible effect. |
+| `phase out` | 政策 | The country will phase out single-use plastics. |
+| `act in concert` | 国际/商务 | The two firms acted in concert to raise prices. |
+| `Endurance is what remains` | 观点总结 | 名词化收束句的模板 |

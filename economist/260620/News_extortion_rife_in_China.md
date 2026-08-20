@@ -361,48 +361,53 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | n. | 董事 |
-| 基础 | v. | 索要 |
-| 基础 | v. | 拒绝 |
-| 基础 | n. | 孤立事件 |
-| 基础 | n. | 自媒体运营者 |
-| 基础 | n. | 负面曝光 |
-| 基础 | 短语 | 勒索钱财 |
-| 基础 | n. | 敲诈 |
-| 基础 | v. | 繁盛 |
-| 基础 | 短语 | 几乎不受监管 |
-| 基础 | n. | 注意力经济 |
-| 基础 | adj. | 可信的 |
-| 基础 | 短语 | 病毒式传播 |
-| 基础 | v. | 摧毁 |
-| 基础 | n. | 公关团队 |
-| 基础 | 短语 | 盘算着 |
-| 基础 | 短语 | 引注意 |
-| 基础 | 短语 | 被抹黑 |
-| 基础 | adj. | 低风险 |
-| 基础 | n. | 作恶者 |
-| 基础 | n. | 监管环境 |
-| 基础 | adj. | 获许可的 |
-| 基础 | n. | 讽刺 |
-| 基础 | v. | 容忍 |
-| 基础 | 短语 | 打压 |
-| 基础 | adj. | 有利可图的 |
-| 进阶 | received | a phone call he did not expect — 接到意想不到的电话 |
-| 进阶 | demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |
-| 进阶 | hundreds | of thousands of views — 数十万浏览量 |
-| 进阶 | use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |
-| 进阶 | flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |
-| 进阶 | the | economics of the attention economy — 注意力经济的逻辑 |
-| 进阶 | paying | is cheaper than fighting — 付钱比抗争划算 |
-| 进阶 | under | pressure to attract investment — 迫于招商引资压力 |
-| 进阶 | two | sides of the same coin — 同一枚硬币的两面 |
-| 进阶 | find | a way to thrive — 找到兴旺之道 |
-| 进阶 | allegation | — 指控 |
-| 进阶 | independent | journalism — 独立新闻业 |
-| 进阶 | media | outlets — 媒体机构 |
-| 进阶 | critical | journalists — 批评性记者 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 董事 |  |
+| v. | 索要 |  |
+| v. | 拒绝 |  |
+| n. | 孤立事件 |  |
+| n. | 自媒体运营者 |  |
+| n. | 负面曝光 |  |
+| 短语 | 勒索钱财 |  |
+| n. | 敲诈 |  |
+| v. | 繁盛 |  |
+| 短语 | 几乎不受监管 |  |
+| n. | 注意力经济 |  |
+| adj. | 可信的 |  |
+| 短语 | 病毒式传播 |  |
+| v. | 摧毁 |  |
+| n. | 公关团队 |  |
+| 短语 | 盘算着 |  |
+| 短语 | 引注意 |  |
+| 短语 | 被抹黑 |  |
+| adj. | 低风险 |  |
+| n. | 作恶者 |  |
+| n. | 监管环境 |  |
+| adj. | 获许可的 |  |
+| n. | 讽刺 |  |
+| v. | 容忍 |  |
+| 短语 | 打压 |  |
+| adj. | 有利可图的 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| received | a phone call he did not expect — 接到意想不到的电话 |  |
+| demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |  |
+| hundreds | of thousands of views — 数十万浏览量 |  |
+| use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |  |
+| flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |  |
+| the | economics of the attention economy — 注意力经济的逻辑 |  |
+| paying | is cheaper than fighting — 付钱比抗争划算 |  |
+| under | pressure to attract investment — 迫于招商引资压力 |  |
+| two | sides of the same coin — 同一枚硬币的两面 |  |
+| find | a way to thrive — 找到兴旺之道 |  |
+| allegation | — 指控 |  |
+| independent | journalism — 独立新闻业 |  |
+| media | outlets — 媒体机构 |  |
+| critical | journalists — 批评性记者 |  |
 
 ## 三、长难句专项
 

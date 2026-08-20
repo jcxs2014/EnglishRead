@@ -774,109 +774,110 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | the beautiful game | 美丽的运动（足球美誉） |
-| 基础 | the boring game | 无聊的运动（对仗美誉） |
-| 基础 | is being hosted by | 正被……主办 |
-| 基础 | the international equivalent of | ……的国际等价物 |
-| 基础 | rowing in the kitchen | 在厨房吵架 |
-| 基础 | feature | 以……为特色、设有 |
-| 基础 | over the course of | 在……期间 |
-| 基础 | dependably exciting | 必定激动人心 |
-| 基础 | for neutrals | 对中立观众 |
-| 基础 | the average game | 平均每场球 |
-| 基础 | pretty drab | 相当乏味 |
-| 基础 | stakes | 赌注、利害关系 |
-| 基础 | too high to take big risks | 高得不敢冒大险 |
-| 基础 | hanging on for a draw | 死守平局 |
-| 基础 | pays off | 划算、有回报 |
-| 基础 | less fancied teams | 不被看好的球队 |
-| 基础 | circulating | 流传 |
-| 基础 | a manager whose credentials include | 资历包括……的教练 |
-| 基础 | making Arsenal bearable to watch | 让阿森纳变得能看 |
-| 基础 | tweaking the offside rule | 微调越位规则 |
-| 基础 | turning throw-ins into kick-ins | 把界外球改成界外踢 |
-| 基础 | radical enough | 足够激进 |
-| 基础 | would like to propose | 想提出 |
-| 基础 | the world game | 世界运动（足球别称） |
-| 基础 | thrills to | 为之兴奋 |
-| 基础 | hits one of the posts | 击中门柱 |
-| 基础 | the crossbar | 横梁 |
-| 基础 | count as a goal | 算作进球 |
-| 基础 | attacking intent | 进攻意图 |
-| 基础 | amply rewarded | 充分奖励 |
-| 基础 | favour | 有利于 |
-| 基础 | go for it | 放手一搏 |
-| 基础 | non-qualifiers | 未晋级者 |
-| 基础 | a team of their own | 属于自己的球队 |
-| 基础 | never get to participate | 永远无法参加 |
-| 基础 | made up of | 由……组成 |
-| 基础 | the highest-ranked players | 排名最高的球员 |
-| 基础 | a second-favourite side | 第二喜欢的球队 |
-| 基础 | as the match progresses | 随着比赛推进 |
-| 基础 | less and less of | 越来越少的部分 |
-| 基础 | make saves | 做扑救 |
-| 基础 | off-limits | 禁用的 |
-| 基础 | injury time | 伤停补时 |
-| 基础 | block the ball | 挡球 |
-| 基础 | the only part of the body | 唯一身体部位 |
-| 基础 | feigns injury | 假装受伤 |
-| 基础 | runs a higher risk of | 冒更高风险 |
-| 基础 | for real | 真的 |
-| 基础 | writhe around | 满地打滚 |
-| 基础 | in pretend agony | 假装的痛苦中 |
-| 基础 | for minutes on end | 连续数分钟 |
-| 基础 | tedious beyond belief | 乏味得难以置信 |
-| 基础 | is judged to have feigned | 被判定曾假装 |
-| 基础 | unpunishable | 不可处罚的 |
-| 基础 | rolling around on the floor | 地上打滚 |
-| 基础 | the drama of violent retribution | 暴力报复的戏剧 |
-| 基础 | either way | 无论哪种情况 |
-| 基础 | a random member of the crowd | 随机观众 |
-| 基础 | is chosen to participate | 被选中参与 |
-| 基础 | may well be picked | 很可能被选中 |
-| 基础 | allegiances | 忠诚、效忠 |
-| 基础 | new teammates | 新队友 |
-| 基础 | It's up to them | 由他们决定 |
-| 基础 | wrestling matches | 摔跤比赛 |
-| 基础 | make them more interesting | 让它们更有趣 |
-| 基础 | blindfolded | 蒙上眼睛 |
-| 基础 | allowed to continue | 被允许继续 |
-| 基础 | goes off the field | 出界 |
-| 基础 | starts booing | 开始喝倒彩 |
-| 基础 | nothing like ... to | 没有比……更…… |
-| 基础 | the promise of permanent residency | 永久居留的承诺 |
-| 基础 | as well as | 除了 |
-| 基础 | award a green card | 颁发绿牌 |
-| 基础 | dribbles past an opponent | 过掉对手 |
-| 基础 | on American soil | 在美国土地上 |
-| 基础 | memorable figures | 令人难忘的人物 |
-| 基础 | did a dance by the corner flag | 在角旗旁跳舞 |
-| 基础 | our point is made | 观点已立 |
-| 基础 | a creative goal celebration | 创意进球庆祝 |
-| 基础 | rescind a yellow card | 撤销黄牌 |
-| 基础 | foul play | 犯规 |
-| 基础 | imaginative | 有想象力的 |
-| 基础 | applied within matches | 在比赛中应用 |
-| 基础 | two balls on the field at once | 场上同时两个球 |
-| 基础 | mainly be fun | 主要会有趣 |
-| 基础 | have an effect on | 对……产生影响 |
-| 基础 | In extremis | 在极端情况下 |
-| 基础 | a panel of video assistant referees | 视频助理裁判组 |
-| 基础 | award a penalty against | 判给点球 |
-| 基础 | for being too boring | 因为太无聊 |
-| 基础 | inordinate amounts of time | 过量时间 |
-| 基础 | passing the ball | 传球 |
-| 基础 | apparently unaware that | 显然没意识到 |
-| 基础 | should be punished | 应当受罚 |
-| 基础 | just possible | 完全可能（反讽） |
-| 基础 | will not be adopted | 将不被采纳 |
-| 基础 | bold thinking | 大胆的想法 |
-| 基础 | takes time to become accepted | 需要时间被接受 |
-| 基础 | in the meantime | 与此同时 |
-| 基础 | consolations | 安慰 |
-| 基础 | could be | 可能是 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the beautiful game | 美丽的运动（足球美誉） | Football is the beautiful game. |
+| the boring game | 无聊的运动（对仗美誉） | The beautiful game and the boring game. |
+| is being hosted by | 正被……主办 | The event is being hosted by three countries. |
+| the international equivalent of | ……的国际等价物 | The equivalent of a family dinner. |
+| rowing in the kitchen | 在厨房吵架 | The hosts rowing in the kitchen. |
+| feature | 以……为特色、设有 | The tournament will feature 48 teams. |
+| over the course of | 在……期间 | Over the course of the tournament. |
+| dependably exciting | 必定激动人心 | Dependably entertaining. |
+| for neutrals | 对中立观众 | For neutrals, the game was dull. |
+| the average game | 平均每场球 | The average game is dull. |
+| pretty drab | 相当乏味 | A drab match. |
+| stakes | 赌注、利害关系 | The stakes are high. |
+| too high to take big risks | 高得不敢冒大险 | Too high for players to risk. |
+| hanging on for a draw | 死守平局 | Hanging on for a draw. |
+| pays off | 划算、有回报 | Defence pays off. |
+| less fancied teams | 不被看好的球队 | A less fancied side. |
+| circulating | 流传 | Ideas are circulating. |
+| a manager whose credentials include | 资历包括……的教练 | Whose credentials include winning titles. |
+| making Arsenal bearable to watch | 让阿森纳变得能看 | Making the team bearable. |
+| tweaking the offside rule | 微调越位规则 | Tweak the rules. |
+| turning throw-ins into kick-ins | 把界外球改成界外踢 | Throw-ins to kick-ins. |
+| radical enough | 足够激进 | Not radical enough. |
+| would like to propose | 想提出 | We would like to propose. |
+| the world game | 世界运动（足球别称） | The world game. |
+| thrills to | 为之兴奋 | A crowd that thrills to the game. |
+| hits one of the posts | 击中门柱 | Hit the post. |
+| the crossbar | 横梁 | Off the crossbar. |
+| count as a goal | 算作进球 | Counts as a point. |
+| attacking intent | 进攻意图 | Attacking intent. |
+| amply rewarded | 充分奖励 | Amply rewarded for effort. |
+| favour | 有利于 | The rule favours attacking teams. |
+| go for it | 放手一搏 | The team went for it. |
+| non-qualifiers | 未晋级者 | The non-qualifiers. |
+| a team of their own | 属于自己的球队 | A team of their own. |
+| never get to participate | 永远无法参加 | Never get to play. |
+| made up of | 由……组成 | Made up of star players. |
+| the highest-ranked players | 排名最高的球员 | Highest-ranked. |
+| a second-favourite side | 第二喜欢的球队 | Second-favourite team. |
+| as the match progresses | 随着比赛推进 | As the game progresses. |
+| less and less of | 越来越少的部分 | Use less and less of. |
+| make saves | 做扑救 | The keeper made a save. |
+| off-limits | 禁用的 | The area is off-limits. |
+| injury time | 伤停补时 | A goal in injury time. |
+| block the ball | 挡球 | Block a shot. |
+| the only part of the body | 唯一身体部位 | The only part he can use. |
+| feigns injury | 假装受伤 | Feigning injury to win a foul. |
+| runs a higher risk of | 冒更高风险 | Run the risk of injury. |
+| for real | 真的 | Injured for real. |
+| writhe around | 满地打滚 | Writhe in pain. |
+| in pretend agony | 假装的痛苦中 | In pretend agony. |
+| for minutes on end | 连续数分钟 | For hours on end. |
+| tedious beyond belief | 乏味得难以置信 | Boring beyond belief. |
+| is judged to have feigned | 被判定曾假装 | Judged to have faked it. |
+| unpunishable | 不可处罚的 | An unpunishable offence. |
+| rolling around on the floor | 地上打滚 | Rolling around on the floor. |
+| the drama of violent retribution | 暴力报复的戏剧 | Violent retribution. |
+| either way | 无论哪种情况 | Either way, we win. |
+| a random member of the crowd | 随机观众 | A random member of the crowd. |
+| is chosen to participate | 被选中参与 | Chosen to play. |
+| may well be picked | 很可能被选中 | It may well be true. |
+| allegiances | 忠诚、效忠 | Conflicting allegiances. |
+| new teammates | 新队友 | His new teammates. |
+| It's up to them | 由他们决定 | It's up to you. |
+| wrestling matches | 摔跤比赛 | A wrestling match. |
+| make them more interesting | 让它们更有趣 | Make the game more interesting. |
+| blindfolded | 蒙上眼睛 | A blindfolded player. |
+| allowed to continue | 被允许继续 | Play allowed to continue. |
+| goes off the field | 出界 | The ball went off. |
+| starts booing | 开始喝倒彩 | The crowd started booing. |
+| nothing like ... to | 没有比……更…… | Nothing like a deadline to focus the mind. |
+| the promise of permanent residency | 永久居留的承诺 | Apply for permanent residency. |
+| as well as | 除了 | As well as the usual cards. |
+| award a green card | 颁发绿牌 | Award a green card. |
+| dribbles past an opponent | 过掉对手 | Dribble past a defender. |
+| on American soil | 在美国土地上 | On American soil. |
+| memorable figures | 令人难忘的人物 | A memorable figure. |
+| did a dance by the corner flag | 在角旗旁跳舞 | Danced by the corner flag. |
+| our point is made | 观点已立 | The point is made. |
+| a creative goal celebration | 创意进球庆祝 | Goal celebrations. |
+| rescind a yellow card | 撤销黄牌 | Rescind the card. |
+| foul play | 犯规 | A yellow card for foul play. |
+| imaginative | 有想象力的 | An imaginative celebration. |
+| applied within matches | 在比赛中应用 | Apply the principle. |
+| two balls on the field at once | 场上同时两个球 | Two balls at once. |
+| mainly be fun | 主要会有趣 | Mainly for fun. |
+| have an effect on | 对……产生影响 | The effect on referees. |
+| In extremis | 在极端情况下 | In extremis, the rules change. |
+| a panel of video assistant referees | 视频助理裁判组 | The VAR panel. |
+| award a penalty against | 判给点球 | Award a penalty. |
+| for being too boring | 因为太无聊 | Penalised for being boring. |
+| inordinate amounts of time | 过量时间 | Inordinate amounts of time. |
+| passing the ball | 传球 | Passing it sideways. |
+| apparently unaware that | 显然没意识到 | Unaware of the danger. |
+| should be punished | 应当受罚 | Those responsible should be punished. |
+| just possible | 完全可能（反讽） | It's just possible. |
+| will not be adopted | 将不被采纳 | Adopt the proposal. |
+| bold thinking | 大胆的想法 | Bold thinking. |
+| takes time to become accepted | 需要时间被接受 | Takes time to catch on. |
+| in the meantime | 与此同时 | In the meantime, let's wait. |
+| consolations | 安慰 | A consolation prize. |
+| could be | 可能是 | It could be worse. |
 
 ## 四、长难句专项
 

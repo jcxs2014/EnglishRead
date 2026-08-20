@@ -838,88 +838,97 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | Nothing ... but | 除了……什么也不 |
-| 基础 | calved | （冰）崩解出冰山 / （牛）产犊 |
-| 基础 | siblings | 兄弟姊妹 |
-| 基础 | eventful | 多事的、充满变故的 |
-| 基础 | tepid | 微温的、不温不火的 |
-| 基础 | gape | （裂口）张开 |
-| 基础 | scarred | 留有疤痕的 |
-| 基础 | vortex | 涡旋、旋涡 |
-| 基础 | took up | 占据（面积） |
-| 基础 | vantage point | 视点、立场 |
-| 基础 | inexorably | 不可阻挡地 |
-| 基础 | graveyard | 墓地 |
-| 基础 | battered | 饱经摧残的 |
-| 基础 | sprawled | 蔓延铺展 |
-| 基础 | by accident | 偶然地 |
-| 基础 | oozed | 渗出 |
-| 基础 | obtrusive | 显眼唐突的 |
-| 基础 | no less | 一点也不少 |
-| 基础 | chanced by | 偶然路过 |
-| 基础 | vexed | 刁难惹恼 |
-| 基础 | put off | 使打消念头 |
-| 基础 | mortal | 致命的 |
-| 基础 | dissolution | 溶解、解体 |
-| 基础 | spilling out | 倾泻而出 |
-| 基础 | a host of | 一大群 |
-| 基础 | sharp declines | 急剧下降 |
-| 基础 | life-cycle | 生命周期 |
-| 基础 | prone to | 易于 |
-| 基础 | a bomb of | 一颗……炸弹（喻） |
-| 基础 | blooming | 盛开的、藻华 |
-| 基础 | fertilise | 滋养、使肥沃 |
-| 基础 | mixed feelings | 复杂心情 |
-| 基础 | an emblem of | ……的象征 |
-| 基础 | mortality | 必死性 |
-| 基础 | against the odds | 顶着不利条件 |
-| 基础 | tributes were paid to | 向……致敬 |
-| 基础 | refused to die | 拒绝死亡 |
-| 基础 | its time had come | 大限已到 |
-| 基础 | inevitable | 不可避免的 |
-| 基础 | That is the way of ice | 冰之道（母题句） |
-| 进阶 | `runnels` | 细流（文学词） |
-| 进阶 | tinge | 淡色调 |
-| 进阶 | keel | 龙骨 |
-| 进阶 | dragging on | 刮擦 |
-| 进阶 | towering | 高耸的 |
-| 进阶 | jagged | 参差不齐的 |
-| 进阶 | magnificence | 宏伟 |
-| 进阶 | majesty | 庄严 |
-| 进阶 | leavings | 遗存 |
-| 进阶 | carved out | 凿刻出 |
-| 进阶 | anticlockwise | 逆时针 |
-| 进阶 | cloisters | 修道院回廊 |
-| 进阶 | caverns | 大洞穴 |
-| 进阶 | cascades | 瀑布、倾泻 |
-| 进阶 | crumbling | 崩塌中的 |
-| 进阶 | prefab | 预制板 |
-| 进阶 | kerosene | 煤油 |
-| 进阶 | perimeter | 周界 |
-| 进阶 | radiometers | 辐射计 |
-| 进阶 | melt-pools | 融水池 |
-| 进阶 | krill | 磷虾 |
-| 进阶 | plankton | 浮游生物 |
-| 进阶 | sea slugs | 海蛞蝓 |
-| 进阶 | phytoplankton | 浮游植物 |
-| 进阶 | staining | 染色 |
-| 进阶 | breaking-up | 解体 |
-| 进阶 | sank | 沉没 |
-| 高级 | Filchner Ice Shelf | 菲尔希纳冰架 |
-| 高级 | Weddell Sea | 韦德尔海 |
-| 高级 | Druzhnaya 1 | 友谊一号（苏联科考站） |
-| 高级 | South Georgia | 南乔治亚岛 |
-| 高级 | Iceberg Alley | 冰山大道（海域俗称） |
-| 高级 | Endurance | 坚忍号（沙克尔顿的船） |
-| 高级 | Ernest Shackleton | 欧内斯特·沙克尔顿 |
-| 高级 | Antarctic Circumpolar Current | 南极绕极流 |
-| 高级 | Taylor column | 泰勒柱 |
-| 高级 | RRS Sir David Attenborough | 科考船名 |
-| 高级 | Copernicus Sentinel-3 | 哥白尼哨兵三号 |
-| 高级 | NASA's Terra | 美国宇航局泰拉卫星 |
-| 高级 | drones | 无人机 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Nothing ... but | 除了……什么也不 | Nothing remains but water. |
+| calved | （冰）崩解出冰山 / （牛）产犊 | The glacier calved a huge iceberg. |
+| siblings | 兄弟姊妹 | The three siblings. |
+| eventful | 多事的、充满变故的 | An eventful history. |
+| tepid | 微温的、不温不火的 | Died in the tepid South Atlantic. |
+| gape | （裂口）张开 | The cracks gaped wider. |
+| scarred | 留有疤痕的 | A scarred landscape. |
+| vortex | 涡旋、旋涡 | Seized by a vortex. |
+| took up | 占据（面积） | It took up 3,900 sq km. |
+| vantage point | 视点、立场 | Depending on your vantage point. |
+| inexorably | 不可阻挡地 | Inexorably led that way. |
+| graveyard | 墓地 | A graveyard for its kind. |
+| battered | 饱经摧残的 | Escaped more battered than ever. |
+| sprawled | 蔓延铺展 | The city sprawled. |
+| by accident | 偶然地 | Took it with it by accident. |
+| oozed | 渗出 | Kerosene oozed down. |
+| obtrusive | 显眼唐突的 | Less obtrusive visitors. |
+| no less | 一点也不少 | No less curious. |
+| chanced by | 偶然路过 | The ship chanced by. |
+| vexed | 刁难惹恼 | Vexed the researchers. |
+| put off | 使打消念头 | They were not put off. |
+| mortal | 致命的 | The mortal blue of melt-pools. |
+| dissolution | 溶解、解体 | What would its dissolution mean? |
+| spilling out | 倾泻而出 | Fresh water spilling out. |
+| a host of | 一大群 | A host of small creatures. |
+| sharp declines | 急剧下降 | Suffered sharp declines. |
+| life-cycle | 生命周期 | Part of a polar life-cycle. |
+| prone to | 易于 | Prone to scrape the sea bed. |
+| a bomb of | 一颗……炸弹（喻） | A bomb of nourishment. |
+| blooming | 盛开的、藻华 | A green cloud of blooming phytoplankton. |
+| fertilise | 滋养、使肥沃 | Fertilise the seas of the wider world. |
+| mixed feelings | 复杂心情 | Mixed feelings about its disappearance. |
+| an emblem of | ……的象征 | An emblem of the warming seas. |
+| mortality | 必死性 | The fact of its mortality. |
+| against the odds | 顶着不利条件 | Lasted against the odds. |
+| tributes were paid to | 向……致敬 | Tributes were paid to how long it lasted. |
+| refused to die | 拒绝死亡 | As if it refused to die. |
+| its time had come | 大限已到 | As if its time had come. |
+| inevitable | 不可避免的 | Death was inevitable. |
+| That is the way of ice | 冰之道（母题句） | That is the way of ice. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| runnels | 细流（文学词） |  |
+| tinge | 淡色调 |  |
+| keel | 龙骨 |  |
+| dragging on | 刮擦 |  |
+| towering | 高耸的 |  |
+| jagged | 参差不齐的 |  |
+| magnificence | 宏伟 |  |
+| majesty | 庄严 |  |
+| leavings | 遗存 |  |
+| carved out | 凿刻出 |  |
+| anticlockwise | 逆时针 |  |
+| cloisters | 修道院回廊 |  |
+| caverns | 大洞穴 |  |
+| cascades | 瀑布、倾泻 |  |
+| crumbling | 崩塌中的 |  |
+| prefab | 预制板 |  |
+| kerosene | 煤油 |  |
+| perimeter | 周界 |  |
+| radiometers | 辐射计 |  |
+| melt-pools | 融水池 |  |
+| krill | 磷虾 |  |
+| plankton | 浮游生物 |  |
+| sea slugs | 海蛞蝓 |  |
+| phytoplankton | 浮游植物 |  |
+| staining | 染色 |  |
+| breaking-up | 解体 |  |
+| sank | 沉没 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Filchner Ice Shelf | 菲尔希纳冰架 |  |
+| Weddell Sea | 韦德尔海 |  |
+| Druzhnaya 1 | 友谊一号（苏联科考站） |  |
+| South Georgia | 南乔治亚岛 |  |
+| Iceberg Alley | 冰山大道（海域俗称） |  |
+| Endurance | 坚忍号（沙克尔顿的船） |  |
+| Ernest Shackleton | 欧内斯特·沙克尔顿 |  |
+| Antarctic Circumpolar Current | 南极绕极流 |  |
+| Taylor column | 泰勒柱 |  |
+| RRS Sir David Attenborough | 科考船名 |  |
+| Copernicus Sentinel-3 | 哥白尼哨兵三号 |  |
+| NASA's Terra | 美国宇航局泰拉卫星 |  |
+| drones | 无人机 |  |
 
 ## 四、长难句专项
 

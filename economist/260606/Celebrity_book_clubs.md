@@ -830,163 +830,168 @@ Letters 栏目每周汇编读者对近期文章的回应。本期六封信分别
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | red carpet to reading list | 红毯到阅读清单 |
-| 基础 | book-clubs | 读书会 |
-| 基础 | irritating | 令人恼火的 |
-| 基础 | a solitary experience into a collective one | 从孤独体验变为集体体验 |
-| 基础 | as one academic put it | 正如一位学者所说 |
-| 基础 | precisely | 恰好 |
-| 基础 | a non-profit | 非营利组织 |
-| 基础 | Founded by | 由……创立 |
-| 基础 | banned ... from | 禁止……做某事 |
-| 基础 | routinely excluded from | 被例行性排除在外 |
-| 基础 | What they lack | 她们缺少的东西 |
-| 基础 | the company of | ……的陪伴 |
-| 基础 | a setting in which | 一种……的环境 |
-| 基础 | are worthy | 值得的 |
-| 基础 | led by | 由……主持 |
-| 基础 | supplies both | 提供两者 |
-| 基础 | question the seriousness | 质疑严肃性 |
-| 基础 | in no short supply | 绝不缺乏 |
-| 基础 | among the most determined readers | 最坚定的读者之一 |
-| 基础 | despite and probably because of | 尽管并且很可能正因为 |
-| 基础 | get hold of | 弄到 |
-| 基础 | at all | 根本（强调否定） |
-| 基础 | a marvel of free markets | 自由市场的奇迹 |
-| 基础 | capitalism at its most remarkable | 最非凡的资本主义 |
-| 基础 | forthcoming initial public offering | 即将到来的 IPO |
-| 基础 | overlooks | 忽略 |
-| 基础 | getting off the ground | 使起步/升空（双关） |
-| 基础 | fledgling startup | 羽翼未丰的初创公司 |
-| 基础 | heading for bankruptcy | 走向破产 |
-| 基础 | awarded it a contract | 授予合同 |
-| 基础 | trajectory-changing | 改变轨迹的 |
-| 基础 | revenue stream | 收入来源 |
-| 基础 | absorbed the risk | 承担风险 |
-| 基础 | private investors | 私人投资者 |
-| 基础 | state-supported capitalism | 国家支持型资本主义 |
-| 基础 | more than | 与其说……不如说 |
-| 基础 | account of how | 关于……的记述 |
-| 基础 | descended from ... to ... | 从……沦落到…… |
-| 基础 | cinematic event | 电影盛事 |
-| 基础 | serialised filler | 流水线填充物 |
-| 基础 | deserves a wider diagnosis | 值得更广的诊断 |
-| 基础 | the paradox of our cultural moment | 文化时刻的悖论 |
-| 基础 | the means of producing novelty | 制造新事物的手段 |
-| 基础 | generative tools | 生成工具 |
-| 基础 | so timid | 如此畏缩 |
-| 基础 | retreat from ... to ... | 从……撤退到…… |
-| 基础 | not idiosyncratic but symptomatic | 不是特立独行而是有征兆性 |
-| 基础 | data-driven | 数据驱动的 |
-| 基础 | greenlighting | 开绿灯（批准项目） |
-| 基础 | rewards ... over ... | 奖励……胜于…… |
-| 基础 | the legible past | 可读的过去 |
-| 基础 | the speculative future | 投机性的未来 |
-| 基础 | algorithmic recommendation | 算法推荐 |
-| 基础 | collapses ... onto | 坍缩到 |
-| 基础 | a handful of | 少数几个 |
-| 基础 | safe attractors | 安全吸引子 |
-| 基础 | anxious about | 担心 |
-| 基础 | subscriber churn | 用户流失 |
-| 基础 | prefer ... to ... | 宁愿……而不愿…… |
-| 基础 | extending a known universe | 扩展已知宇宙 |
-| 基础 | the cost of failure | 失败的成本 |
-| 基础 | the cost of production has collapsed | 生产成本已崩溃 |
-| 基础 | infinite remixes of finite ideas | 有限思想的无限混音 |
-| 基础 | sharpen the contradiction | 加剧矛盾 |
-| 基础 | trained on the past | 以过去为训练数据 |
-| 基础 | at vanishing cost | 以趋零成本 |
-| 基础 | elaborate variations | 精巧的变体 |
-| 基础 | soap opera | 肥皂剧 |
-| 基础 | The risk is not ... but ... | 风险不在……而在…… |
-| 基础 | everything does | 一切都如此 |
-| 基础 | the upholstery of nostalgia | 怀旧的装饰皮面 |
-| 基础 | stitch their own | 自己缝制 |
-| 基础 | on the desk of | 摆在某人的案头 |
-| 基础 | set out his case for | 阐述支持……的理由 |
-| 基础 | felling | 砍伐 |
-| 基础 | hindering development | 阻碍发展 |
-| 基础 | a lack of courage | 缺乏勇气 |
-| 基础 | chop down | 砍倒 |
-| 基础 | a refusal to acknowledge | 拒绝承认 |
-| 基础 | the law of induced demand | 诱发需求定律 |
-| 基础 | time savings | 节省的时间 |
-| 基础 | flyovers | 立交桥 |
-| 基础 | evaporate within months | 数月内蒸发 |
-| 基础 | road capacity | 道路容量 |
-| 基础 | invites more private vehicles | 招来更多私家车 |
-| 基础 | suspiciously selective | 可疑地有选择性 |
-| 基础 | One need only | 只需 |
-| 基础 | leafy, walkable streets | 绿树成荫的街道 |
-| 基础 | a government enclave | 政府特区 |
-| 基础 | the value of a canopy | 树冠的价值 |
-| 基础 | It is only when ... that ... | 只有当……才…… |
-| 基础 | protected zones | 保护区 |
-| 基础 | impediments to progress | 进步的障碍 |
-| 基础 | public-health infrastructure | 公共健康基础设施 |
-| 基础 | chops trees | 砍树 |
-| 基础 | in the dead of night | 夜深人静时 |
-| 基础 | acting autocratically | 专制行事 |
-| 基础 | moves away from ... and towards ... | 摆脱……转向…… |
-| 基础 | car-centric expansion | 以车为中心的扩张 |
-| 基础 | public-led transit design | 公众主导的交通设计 |
-| 基础 | tree-huggers | 抱树者（环保者贬称反用） |
-| 基础 | a liveable city | 宜居城市 |
-| 基础 | heat-radiating concrete desert | 散热混凝土沙漠 |
-| 基础 | stream of unpunctuated consciousness | 无标点意识流 |
-| 基础 | management babble | 管理废话 |
-| 基础 | caught my attention | 引起注意 |
-| 基础 | spent my career in | 职业生涯都在…… |
-| 基础 | middle management | 中层管理 |
-| 基础 | the senior ranks | 高层 |
-| 基础 | commanded that ... produce | 命令……做（虚拟） |
-| 基础 | mission statement | 使命宣言 |
-| 基础 | seemingly simple | 看似简单的 |
-| 基础 | internal customers | 内部客户 |
-| 基础 | straightforward English | 直白的英语 |
-| 基础 | pass muster | 通过审核 |
-| 基础 | neglected to use | 忽略使用 |
-| 基础 | currently fashionable | 当下时髦的 |
-| 基础 | `buzzwords` | 流行词 |
-| 基础 | ended up with | 最终得到 |
-| 基础 | gobbledegook | 晦涩废话 |
-| 基础 | countless hours | 无数小时 |
-| 基础 | not alone in having read | 并非只有我读 |
-| 基础 | to the tune of | 配着……的旋律 |
-| 基础 | Should a new title be needed | 如需新标题（倒装条件） |
-| 基础 | corporate filler text | 公司填充文本 |
-| 基础 | striding across | 大步走过 |
-| 基础 | accompanied your article | 为文章配图 |
-| 基础 | just transferred from ... to ... | 刚从……调到…… |
-| 基础 | sartorially relaxed | 着装随意的 |
-| 基础 | similarly attired | 穿着同样打扮 |
-| 基础 | the managing director's office | 董事总经理办公室 |
-| 基础 | Rather sniffily | 颇为轻蔑地 |
-| 基础 | enquired whether | 询问是否 |
-| 基础 | trod in dog poo | 踩到狗屎 |
-| 基础 | thankfully | 谢天谢地 |
-| 基础 | the City's mojo | 金融城的魔力 |
-| 基础 | dress code | 着装规范 |
-| 进阶 | Afghanistan | 阿富汗 |
-| 进阶 | the Taliban | 塔利班 |
-| 进阶 | Tom Sawyer | 汤姆·索亚 |
-| 进阶 | Around the World in 80 Days | 八十天环游地球 |
-| 进阶 | NASA | 美国国家航空航天局 |
-| 进阶 | IPO | 首次公开募股 |
-| 进阶 | taxpayers | 纳税人 |
-| 进阶 | Star Wars | 星球大战 |
-| 进阶 | Tatooine | 塔图因 |
-| 进阶 | Disney | 迪士尼 |
-| 进阶 | generative AI | 生成式 AI |
-| 进阶 | Bangalore | 班加罗尔 |
-| 进阶 | Hyderabad | 海得拉巴 |
-| 进阶 | Mumbai | 孟买 |
-| 进阶 | Billy Joel | 比利·乔尔 |
-| 进阶 | Rio de Janeiro | 里约热内卢 |
-| 进阶 | Threadneedle Street | 针线街 |
-| 进阶 | mojo | 魔力 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| red carpet to reading list | 红毯到阅读清单 | From red carpet to reading list. |
+| book-clubs | 读书会 | A celebrity book-club. |
+| irritating | 令人恼火的 | An irritating habit. |
+| a solitary experience into a collective one | 从孤独体验变为集体体验 | Turning a solitary act into a collective one. |
+| as one academic put it | 正如一位学者所说 | As one observer put it. |
+| precisely | 恰好 | That's precisely the point. |
+| a non-profit | 非营利组织 | A non-profit that works with girls. |
+| Founded by | 由……创立 | Founded by a teacher. |
+| banned ... from | 禁止……做某事 | Banned girls from school. |
+| routinely excluded from | 被例行性排除在外 | Routinely excluded from public life. |
+| What they lack | 她们缺少的东西 | What they lack is confidence. |
+| the company of | ……的陪伴 | The company of friends. |
+| a setting in which | 一种……的环境 | A setting in which ideas are respected. |
+| are worthy | 值得的 | Their views are worthy. |
+| led by | 由……主持 | A class led by volunteers. |
+| supplies both | 提供两者 | The club supplies both. |
+| question the seriousness | 质疑严肃性 | Question the seriousness of the project. |
+| in no short supply | 绝不缺乏 | Talent is in no short supply. |
+| among the most determined readers | 最坚定的读者之一 | Among the most determined students. |
+| despite and probably because of | 尽管并且很可能正因为 | Despite and because of the obstacles. |
+| get hold of | 弄到 | Get hold of a book. |
+| at all | 根本（强调否定） | Can't get a book at all. |
+| a marvel of free markets | 自由市场的奇迹 | A marvel of modern engineering. |
+| capitalism at its most remarkable | 最非凡的资本主义 | Capitalism at its best. |
+| forthcoming initial public offering | 即将到来的 IPO | A forthcoming IPO. |
+| overlooks | 忽略 | The article overlooks a key factor. |
+| getting off the ground | 使起步/升空（双关） | The project never got off the ground. |
+| fledgling startup | 羽翼未丰的初创公司 | A fledgling company. |
+| heading for bankruptcy | 走向破产 | Heading for bankruptcy. |
+| awarded it a contract | 授予合同 | NASA awarded it a contract. |
+| trajectory-changing | 改变轨迹的 | A trajectory-changing deal. |
+| revenue stream | 收入来源 | A steady revenue stream. |
+| absorbed the risk | 承担风险 | Taxpayers absorbed the risk. |
+| private investors | 私人投资者 | Private investors stayed away. |
+| state-supported capitalism | 国家支持型资本主义 | State-supported capitalism. |
+| more than | 与其说……不如说 | More a triumph of the state than of the market. |
+| account of how | 关于……的记述 | An account of how the crisis unfolded. |
+| descended from ... to ... | 从……沦落到…… | Descended from art to commerce. |
+| cinematic event | 电影盛事 | A true cinematic event. |
+| serialised filler | 流水线填充物 | Serialised filler content. |
+| deserves a wider diagnosis | 值得更广的诊断 | The problem deserves a wider diagnosis. |
+| the paradox of our cultural moment | 文化时刻的悖论 | The paradox of modern life. |
+| the means of producing novelty | 制造新事物的手段 | The means of production. |
+| generative tools | 生成工具 | Generative AI tools. |
+| so timid | 如此畏缩 | Rarely so timid. |
+| retreat from ... to ... | 从……撤退到…… | A retreat from cinema to streaming. |
+| not idiosyncratic but symptomatic | 不是特立独行而是有征兆性 | Not incidental but symptomatic. |
+| data-driven | 数据驱动的 | Data-driven decisions. |
+| greenlighting | 开绿灯（批准项目） | Studio greenlighting. |
+| rewards ... over ... | 奖励……胜于…… | Rewards safety over risk. |
+| the legible past | 可读的过去 | The legible past. |
+| the speculative future | 投机性的未来 | The speculative future. |
+| algorithmic recommendation | 算法推荐 | Algorithmic recommendations dominate. |
+| collapses ... onto | 坍缩到 | Collapse taste onto a few hits. |
+| a handful of | 少数几个 | A handful of safe choices. |
+| safe attractors | 安全吸引子 | Cultural attractors. |
+| anxious about | 担心 | Anxious about subscriber churn. |
+| subscriber churn | 用户流失 | Subscriber churn is a worry. |
+| prefer ... to ... | 宁愿……而不愿…… | Prefer extending to creating. |
+| extending a known universe | 扩展已知宇宙 | Extending a franchise. |
+| the cost of failure | 失败的成本 | The cost of failure has risen. |
+| the cost of production has collapsed | 生产成本已崩溃 | Production costs have collapsed. |
+| infinite remixes of finite ideas | 有限思想的无限混音 | Remixes of finite ideas. |
+| sharpen the contradiction | 加剧矛盾 | AI will sharpen the contradiction. |
+| trained on the past | 以过去为训练数据 | A model trained on past data. |
+| at vanishing cost | 以趋零成本 | Produced at vanishing cost. |
+| elaborate variations | 精巧的变体 | Variations of existing works. |
+| soap opera | 肥皂剧 | A soap opera. |
+| The risk is not ... but ... | 风险不在……而在…… | The risk is not A but B. |
+| everything does | 一切都如此 | But that everything does. |
+| the upholstery of nostalgia | 怀旧的装饰皮面 | The upholstery of nostalgia. |
+| stitch their own | 自己缝制 | Once they can stitch their own. |
+| on the desk of | 摆在某人的案头 | The question is on the desk of the CEO. |
+| set out his case for | 阐述支持……的理由 | Set out the case for reform. |
+| felling | 砍伐 | Felling trees. |
+| hindering development | 阻碍发展 | Trees hindering development. |
+| a lack of courage | 缺乏勇气 | A lack of courage. |
+| chop down | 砍倒 | Chop down trees. |
+| a refusal to acknowledge | 拒绝承认 | A refusal to accept the evidence. |
+| the law of induced demand | 诱发需求定律 | The law of induced demand. |
+| time savings | 节省的时间 | The promised time savings. |
+| flyovers | 立交桥 | A new flyover. |
+| evaporate within months | 数月内蒸发 | Savings evaporate quickly. |
+| road capacity | 道路容量 | Expanding road capacity. |
+| invites more private vehicles | 招来更多私家车 | New roads invite more cars. |
+| suspiciously selective | 可疑地有选择性 | Suspiciously convenient. |
+| One need only | 只需 | One need only look around. |
+| leafy, walkable streets | 绿树成荫的街道 | Leafy streets. |
+| a government enclave | 政府特区 | A leafy enclave. |
+| the value of a canopy | 树冠的价值 | A canopy of trees. |
+| It is only when ... that ... | 只有当……才…… | It is only when it breaks that we value it. |
+| protected zones | 保护区 | Protected zones. |
+| impediments to progress | 进步的障碍 | Impediments to development. |
+| public-health infrastructure | 公共健康基础设施 | Green infrastructure. |
+| chops trees | 砍树 | Chopping down trees. |
+| in the dead of night | 夜深人静时 | Work done in the dead of night. |
+| acting autocratically | 专制行事 | Acting autocratically. |
+| moves away from ... and towards ... | 摆脱……转向…… | Move away from cars towards transit. |
+| car-centric expansion | 以车为中心的扩张 | Car-centric urban planning. |
+| public-led transit design | 公众主导的交通设计 | Public-led design. |
+| tree-huggers | 抱树者（环保者贬称反用） | The tree-huggers were right. |
+| a liveable city | 宜居城市 | A liveable city. |
+| heat-radiating concrete desert | 散热混凝土沙漠 | A concrete desert. |
+| stream of unpunctuated consciousness | 无标点意识流 | An unpunctuated text. |
+| management babble | 管理废话 | Corporate babble. |
+| caught my attention | 引起注意 | It caught my attention. |
+| spent my career in | 职业生涯都在…… | Spent his career in finance. |
+| middle management | 中层管理 | A middle manager. |
+| the senior ranks | 高层 | The senior ranks. |
+| commanded that ... produce | 命令……做（虚拟） | Commanded that all staff attend. |
+| mission statement | 使命宣言 | A corporate mission statement. |
+| seemingly simple | 看似简单的 | A seemingly simple question. |
+| internal customers | 内部客户 | Internal customers only. |
+| straightforward English | 直白的英语 | Straightforward language. |
+| pass muster | 通过审核 | The plan did not pass muster. |
+| neglected to use | 忽略使用 | Neglected to mention. |
+| currently fashionable | 当下时髦的 | Fashionable buzzwords. |
+| buzzwords | 流行词 | Corporate buzzwords. |
+| ended up with | 最终得到 | Ended up with a mess. |
+| gobbledegook | 晦涩废话 | Gobbledegook from management. |
+| countless hours | 无数小时 | Wasted countless hours. |
+| not alone in having read | 并非只有我读 | Not alone in noticing. |
+| to the tune of | 配着……的旋律 | To the tune of a hit song. |
+| Should a new title be needed | 如需新标题（倒装条件） | Should any change be needed. |
+| corporate filler text | 公司填充文本 | Filler text. |
+| striding across | 大步走过 | Striding across the street. |
+| accompanied your article | 为文章配图 | A photo accompanied the story. |
+| just transferred from ... to ... | 刚从……调到…… | Newly transferred from Rio. |
+| sartorially relaxed | 着装随意的 | Sartorially relaxed. |
+| similarly attired | 穿着同样打扮 | Attired in brown shoes. |
+| the managing director's office | 董事总经理办公室 | Called to the MD's office. |
+| Rather sniffily | 颇为轻蔑地 | Sniffily dismissive. |
+| enquired whether | 询问是否 | Enquired whether the guest had arrived. |
+| trod in dog poo | 踩到狗屎 | Trod in dog poo. |
+| thankfully | 谢天谢地 | Thankfully, things changed. |
+| the City's mojo | 金融城的魔力 | Get its mojo back. |
+| dress code | 着装规范 | A strict dress code. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Afghanistan | 阿富汗 |  |
+| the Taliban | 塔利班 |  |
+| Tom Sawyer | 汤姆·索亚 |  |
+| Around the World in 80 Days | 八十天环游地球 |  |
+| NASA | 美国国家航空航天局 |  |
+| IPO | 首次公开募股 |  |
+| taxpayers | 纳税人 |  |
+| Star Wars | 星球大战 |  |
+| Tatooine | 塔图因 |  |
+| Disney | 迪士尼 |  |
+| generative AI | 生成式 AI |  |
+| Bangalore | 班加罗尔 |  |
+| Hyderabad | 海得拉巴 |  |
+| Mumbai | 孟买 |  |
+| Billy Joel | 比利·乔尔 |  |
+| Rio de Janeiro | 里约热内卢 |  |
+| Threadneedle Street | 针线街 |  |
+| mojo | 魔力 |  |
 
 ## 四、长难句专项
 

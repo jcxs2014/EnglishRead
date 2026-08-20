@@ -849,46 +849,55 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | state | n. 国家、政府 |
-| 基础 | railway | n. 铁路 |
-| 基础 | welfare | n. 福利 |
-| 基础 | appeal | n. 申诉、上诉 |
-| 基础 | claim | n./v. 索赔、主张 |
-| 基础 | fee | n. 费用 |
-| 基础 | money | 从略 |
-| 基础 | ticket | n. 罚单 |
-| 基础 | backlog | n. 积压 |
-| 基础 | tribunal | n. 仲裁庭 |
-| 基础 | surge | v. 激增 |
-| 基础 | injunction | n. 禁令、禁制令 |
-| 基础 | vulnerable | adj. 脆弱的、易受攻击的 |
-| 基础 | innovate | v. 创新 |
-| 基础 | grapple | with /ˈɡræpl/ 设法应对 |
-| 基础 | loophole | n. 漏洞 |
-| 基础 | overwhelm | v. 淹没、压垮 |
-| 基础 | buckle | v. 弯曲、垮塌 |
-| 基础 | entitlement | n. 法定权利、福利 |
-| 基础 | redress | n. 救济、补偿 |
-| 基础 | prune | v. 修剪 |
-| 基础 | disincentive | n. 抑制因素 |
-| 基础 | accrete | v. 逐渐累积 |
-| 基础 | swamp | v. 淹没 |
-| 基础 | deluge | n. 洪水、倾泻 |
-| 基础 | inundation | n. 淹没、泛滥 |
-| 基础 | agentic | adj. 代理性的 |
-| 基础 | sputter | v. 运转不畅、噼啪作响 |
-| 基础 | officialdom | n. 官场、官僚作风 |
-| 基础 | slop | n. 垃圾内容（AI新词） |
-| 基础 | panoply | n. 全套、整套装备 |
-| 基础 | ombudsman | n. 监察专员 |
-| 基础 | maladministration | n. 行政失当 |
-| 基础 | Byzantine | adj. 复杂难懂的、拜占庭式的 |
-| 基础 | onerous | adj. 繁重的 |
-| 基础 | doom-loop | n. 恶性循环 |
-| 基础 | petition | v./n. 请愿、申诉 |
-| 基础 | recast | v. 重铸 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| deluge | n. 洪水、倾泻 |  |
+| inundation | n. 淹没、泛滥 |  |
+| agentic | adj. 代理性的 |  |
+| sputter | v. 运转不畅、噼啪作响 |  |
+| officialdom | n. 官场、官僚作风 |  |
+| slop | n. 垃圾内容（AI新词） |  |
+| panoply | n. 全套、整套装备 |  |
+| ombudsman | n. 监察专员 |  |
+| maladministration | n. 行政失当 |  |
+| Byzantine | adj. 复杂难懂的、拜占庭式的 |  |
+| onerous | adj. 繁重的 |  |
+| doom-loop | n. 恶性循环 |  |
+| petition | v./n. 请愿、申诉 |  |
+| recast | v. 重铸 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| backlog | n. 积压 |  |
+| tribunal | n. 仲裁庭 |  |
+| surge | v. 激增 |  |
+| injunction | n. 禁令、禁制令 |  |
+| vulnerable | adj. 脆弱的、易受攻击的 |  |
+| innovate | v. 创新 |  |
+| grapple | with /ˈɡræpl/ 设法应对 |  |
+| loophole | n. 漏洞 |  |
+| overwhelm | v. 淹没、压垮 |  |
+| buckle | v. 弯曲、垮塌 |  |
+| entitlement | n. 法定权利、福利 |  |
+| redress | n. 救济、补偿 |  |
+| prune | v. 修剪 |  |
+| disincentive | n. 抑制因素 |  |
+| accrete | v. 逐渐累积 |  |
+| swamp | v. 淹没 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| state | n. 国家、政府 |  |
+| railway | n. 铁路 |  |
+| welfare | n. 福利 |  |
+| appeal | n. 申诉、上诉 |  |
+| claim | n./v. 索赔、主张 |  |
+| fee | n. 费用 |  |
+| money | 从略 |  |
+| ticket | n. 罚单 |  |
 
 ## 长难句专项
 

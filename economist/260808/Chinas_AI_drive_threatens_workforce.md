@@ -1965,49 +1965,54 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | install | v. 安装 |
-| 基础 | replace | v. 取代 |
-| 基础 | stock | n. 存量、保有量（此处非"股票"） |
-| 基础 | promising | adj. 有前途的 |
-| 基础 | breakthrough | n. 突破 |
-| 基础 | doable | adj. 可行的 |
-| 基础 | retrain | v. 再培训 |
-| 基础 | grim | adj. 严峻的、阴沉的 |
-| 基础 | subsidy | n. 补贴 |
-| 基础 | flourish | v. 兴旺、繁荣 |
-| 进阶 | humanoid | n./adj. 类人机器人（的） |
-| 进阶 | tuber | n. 块茎（土豆等） |
-| 进阶 | reckon | v. 估算、认为 |
-| 进阶 | cost-effective | adj. 划算的、性价比高的 |
-| 进阶 | sprawling | adj. 占地广阔的 |
-| 进阶 | calibrate | v. 校准；拿捏分寸 |
-| 进阶 | assuage | v. 安抚、缓和 |
-| 进阶 | stifle | v. 扼杀、压制 |
-| 进阶 | sacrosanct | adj. 神圣不可侵犯的 |
-| 进阶 | ballast | n. 压舱石（比喻稳定因素） |
-| 进阶 | demotion | n. 降职 |
-| 进阶 | incompetence | n. 不称职 |
-| 进阶 | funnel | v. 导流（名词动词化） |
-| 进阶 | obsolete | adj. 过时的 |
-| 进阶 | meagre | adj. 微薄的 |
-| 进阶 | precarity | n. 不稳定状态（社会学热词） |
-| 进阶 | swell | v. 膨胀、增长 |
-| 进阶 | constituency | n. 选民群体、利益相关群体 |
-| 进阶 | incentive | n. 激励、动机 |
-| 高级 | gimmicky | adj. 花哨的、噱头的 |
-| 高级 | stubbornly | adv. 顽固地 |
-| 高级 | mouthpiece | n. 喉舌、代言 |
-| 高级 | threadbare | adj. 磨破的；破旧不堪的 |
-| 高级 | agitate | v. 鼓动、争取 |
-| 高级 | profess | v. 公开宣称 |
-| 高级 | aversion | n. 厌恶 |
-| 高级 | welfarism | n. 福利主义 |
-| 高级 | disruptive | adj. 颠覆性的 |
-| 高级 | creative | destruction n. 创造性破坏（熊彼特经济学概念） |
-| 高级 | embodied | intelligence n. 具身智能（AI术语） |
-| 高级 | choukashi | n. 抽卡师（AI时代新造词） |
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| humanoid | n./adj. 类人机器人（的） |  |
+| tuber | n. 块茎（土豆等） |  |
+| reckon | v. 估算、认为 |  |
+| cost-effective | adj. 划算的、性价比高的 |  |
+| sprawling | adj. 占地广阔的 |  |
+| calibrate | v. 校准；拿捏分寸 |  |
+| assuage | v. 安抚、缓和 |  |
+| stifle | v. 扼杀、压制 |  |
+| sacrosanct | adj. 神圣不可侵犯的 |  |
+| ballast | n. 压舱石（比喻稳定因素） |  |
+| demotion | n. 降职 |  |
+| incompetence | n. 不称职 |  |
+| funnel | v. 导流（名词动词化） |  |
+| obsolete | adj. 过时的 |  |
+| meagre | adj. 微薄的 |  |
+| precarity | n. 不稳定状态（社会学热词） |  |
+| swell | v. 膨胀、增长 |  |
+| constituency | n. 选民群体、利益相关群体 |  |
+| incentive | n. 激励、动机 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| install | v. 安装 |  |
+| replace | v. 取代 |  |
+| stock | n. 存量、保有量（此处非"股票"） |  |
+| promising | adj. 有前途的 |  |
+| breakthrough | n. 突破 |  |
+| doable | adj. 可行的 |  |
+| retrain | v. 再培训 |  |
+| grim | adj. 严峻的、阴沉的 |  |
+| subsidy | n. 补贴 |  |
+| flourish | v. 兴旺、繁荣 |  |
+| gimmicky | adj. 花哨的、噱头的 |  |
+| stubbornly | adv. 顽固地 |  |
+| mouthpiece | n. 喉舌、代言 |  |
+| threadbare | adj. 磨破的；破旧不堪的 |  |
+| agitate | v. 鼓动、争取 |  |
+| profess | v. 公开宣称 |  |
+| aversion | n. 厌恶 |  |
+| welfarism | n. 福利主义 |  |
+| disruptive | adj. 颠覆性的 |  |
+| creative | destruction n. 创造性破坏（熊彼特经济学概念） |  |
+| embodied | intelligence n. 具身智能（AI术语） |  |
+| choukashi | n. 抽卡师（AI时代新造词） |  |
 
 ## 长难句专项
 

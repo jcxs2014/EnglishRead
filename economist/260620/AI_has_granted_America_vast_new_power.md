@@ -912,49 +912,54 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | adj. | 耻辱的、不光彩的 |
-| 基础 | v. | 体现、例证 |
-| 基础 | adj./n. | 前沿的/前沿 |
-| 基础 | v. | 绕过、规避 |
-| 基础 | n. | 生物武器 |
-| 基础 | adj. | 被夸大的 |
-| 基础 | v. | 践踏、欺凌 |
-| 基础 | v. | 运用、挥舞 |
-| 基础 | adj. | 被……俘获、依附于 |
-| 基础 | n. | 密码学 |
-| 基础 | v. | 扩散、增殖 |
-| 基础 | n. | 漏洞 |
-| 基础 | v. | 被攻破 |
-| 基础 | adj. | 自毁的 |
-| 基础 | v. | 避开 |
-| 基础 | n. | 附庸、封臣 |
-| 基础 | n. | 大量、大片 |
-| 基础 | n. | 议价地位 |
-| 基础 | 短语 | 利害攸关 |
-| 基础 | adj. | 交易化的 |
-| 基础 | v. | 抱怨 |
-| 进阶 | could hardly be more wrong — 再错不过了 | 否定式最高级 |
-| 进阶 | The | chances are that ... — 很可能…… |
-| 进阶 | a | means to an end — 达到目的的手段 |
-| 进阶 | Sure | enough — 果然 |
-| 进阶 | What | matters, though, is ... — 不过重要的是…… |
-| 进阶 | come | down to — 归结为 |
-| 进阶 | Even | as ... — 正当……的时候 |
-| 进阶 | has | echoes of — 与……呼应 |
-| 进阶 | as | with ... — 正如…… |
-| 进阶 | in | favour of — 转而选择 |
-| 进阶 | rise | fivefold — 增长五倍 |
-| 进阶 | more | than ever — 比以往任何时候更 |
-| 进阶 | integrate | rather than duplicate — 整合而非重复 |
-| 进阶 | not | to whine but to build — 不是抱怨而是强大 |
-| 进阶 | Unbiassed | / unprejudiced — 无偏见的 |
-| 进阶 | pandemic-ready | pathogens — 具备大流行潜力的病原体 |
-| 进阶 | open-weight | models — 开放权重模型 |
-| 进阶 | lithography | machines — 光刻机 |
-| 进阶 | fabs | — 晶圆厂 |
-| 进阶 | peak | power demand — 峰值电力需求 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 耻辱的、不光彩的 |  |
+| v. | 体现、例证 |  |
+| adj./n. | 前沿的/前沿 |  |
+| v. | 绕过、规避 |  |
+| n. | 生物武器 |  |
+| adj. | 被夸大的 |  |
+| v. | 践踏、欺凌 |  |
+| v. | 运用、挥舞 |  |
+| adj. | 被……俘获、依附于 |  |
+| n. | 密码学 |  |
+| v. | 扩散、增殖 |  |
+| n. | 漏洞 |  |
+| v. | 被攻破 |  |
+| adj. | 自毁的 |  |
+| v. | 避开 |  |
+| n. | 附庸、封臣 |  |
+| n. | 大量、大片 |  |
+| n. | 议价地位 |  |
+| 短语 | 利害攸关 |  |
+| adj. | 交易化的 |  |
+| v. | 抱怨 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| could hardly be more wrong — 再错不过了 | 否定式最高级 |  |
+| The | chances are that ... — 很可能…… |  |
+| a | means to an end — 达到目的的手段 |  |
+| Sure | enough — 果然 |  |
+| What | matters, though, is ... — 不过重要的是…… |  |
+| come | down to — 归结为 |  |
+| Even | as ... — 正当……的时候 |  |
+| has | echoes of — 与……呼应 |  |
+| as | with ... — 正如…… |  |
+| in | favour of — 转而选择 |  |
+| rise | fivefold — 增长五倍 |  |
+| more | than ever — 比以往任何时候更 |  |
+| integrate | rather than duplicate — 整合而非重复 |  |
+| not | to whine but to build — 不是抱怨而是强大 |  |
+| Unbiassed | / unprejudiced — 无偏见的 |  |
+| pandemic-ready | pathogens — 具备大流行潜力的病原体 |  |
+| open-weight | models — 开放权重模型 |  |
+| lithography | machines — 光刻机 |  |
+| fabs | — 晶圆厂 |  |
+| peak | power demand — 峰值电力需求 |  |
 
 ## 三、长难句专项
 

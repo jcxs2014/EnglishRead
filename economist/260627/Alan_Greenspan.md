@@ -1365,39 +1365,44 @@ If only the numbers could say, one way or another（虚拟语气）
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | maestro | 大师 |
-| 基础 | the numbers | 数字 |
-| 基础 | surplus | 盈余 |
-| 基础 | inflation | 通货膨胀 |
-| 基础 | deregulation | 放松监管 |
-| 基础 | Fedspeak | 美联储语言 |
-| 基础 | jawboned | 劝说 |
-| 基础 | perked up | 提振 |
-| 基础 | a trio of crisis-fighters | 危机三人组 |
-| 基础 | rapt audience | 入迷的观众 |
-| 高级 | the Federal Reserve | 美联储 |
-| 高级 | Council of Economic Advisers | 经济顾问委员会 |
-| 高级 | Long-Term Capital Management | 长期资本管理公司 |
-| 高级 | irrational exuberance | 非理性繁荣 |
-| 高级 | light regulatory touch | 轻触式监管 |
-| 高级 | the notes on the sheet music | 乐谱上的音符 |
-| 高级 | played by feel | 凭感觉演奏 |
-| 高级 | leading the band | 领导乐队 |
-| 高级 | a sour note | 不和谐的音符 |
-| 高级 | disharmony | 不和谐 |
-| 高级 | make the American economy sing | 让美国经济歌唱 |
-| 高级 | kept to his data | 坚守他的数据 |
-| 高级 | had a way with people in high places | 与高层打交道有一套 |
-| 高级 | fell in with | 结识 |
-| 高级 | gravitated towards | 被吸引向 |
-| 高级 | had none of it | 完全不予理会 |
-| 高级 | mind his own business | 只管自己的事 |
-| 高级 | let the boom run | 让繁荣延续 |
-| 高级 | get away from him | 从他手中溜走 |
-| 高级 | shook his faith in | 动摇了他的信仰 |
-| 高级 | If only... one way or another | 要是能说清楚就好了 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| maestro | 大师 |  |
+| the numbers | 数字 |  |
+| surplus | 盈余 |  |
+| inflation | 通货膨胀 |  |
+| deregulation | 放松监管 |  |
+| Fedspeak | 美联储语言 |  |
+| jawboned | 劝说 |  |
+| perked up | 提振 |  |
+| a trio of crisis-fighters | 危机三人组 |  |
+| rapt audience | 入迷的观众 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the Federal Reserve | 美联储 |  |
+| Council of Economic Advisers | 经济顾问委员会 |  |
+| Long-Term Capital Management | 长期资本管理公司 |  |
+| irrational exuberance | 非理性繁荣 |  |
+| light regulatory touch | 轻触式监管 |  |
+| the notes on the sheet music | 乐谱上的音符 |  |
+| played by feel | 凭感觉演奏 |  |
+| leading the band | 领导乐队 |  |
+| a sour note | 不和谐的音符 |  |
+| disharmony | 不和谐 |  |
+| make the American economy sing | 让美国经济歌唱 |  |
+| kept to his data | 坚守他的数据 |  |
+| had a way with people in high places | 与高层打交道有一套 |  |
+| fell in with | 结识 |  |
+| gravitated towards | 被吸引向 |  |
+| had none of it | 完全不予理会 |  |
+| mind his own business | 只管自己的事 |  |
+| let the boom run | 让繁荣延续 |  |
+| get away from him | 从他手中溜走 |  |
+| shook his faith in | 动摇了他的信仰 |  |
+| If only... one way or another | 要是能说清楚就好了 |  |
 
 ## 长难句专项
 

@@ -484,85 +484,94 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | show up | 出现 |
-| 基础 | financial statements | 财务报表 |
-| 基础 | turn 18 | 满 18 岁 |
-| 基础 | top-ups | 追加款 |
-| 基础 | handouts | 施舍 |
-| 基础 | partisan | 党派性的 |
-| 基础 | grubby | 粗鄙的 |
-| 基础 | funded by borrowing | 靠借债融资 |
-| 基础 | qualify | 有资格 |
-| 基础 | Roping in | 拉拢 |
-| 基础 | chip in | 凑钱 |
-| 基础 | a whiff of | 一丝味道 |
-| 基础 | cronyism | 裙带关系 |
-| 基础 | unsavoury | 不体面的 |
-| 基础 | execution | 执行 |
-| 基础 | worth watching | 值得关注 |
-| 基础 | equity stakes | 股权 |
-| 基础 | sound in principle | 原则上合理 |
-| 基础 | well-timed | 时机得当 |
-| 基础 | face up to | 正视 |
-| 基础 | looming | 迫在眉睫 |
-| 基础 | disruption | 冲击 |
-| 基础 | admittedly | 诚然 |
-| 基础 | in today's prices | 按今日价格 |
-| 基础 | make a dent in | 啃下一块 |
-| 基础 | depends largely on | 很大程度上取决于 |
-| 基础 | deep pockets | 荷包深 |
-| 基础 | undermines the notion | 削弱观念 |
-| 基础 | wanes | 减弱 |
-| 基础 | a troublingly high share | 高得令人不安的比例 |
-| 基础 | profess | 自称 |
-| 基础 | soaking the rich | 宰富人 |
-| 基础 | free enterprise | 自由企业 |
-| 基础 | a personal stake in | 个人利益 |
-| 基础 | versus | 对比 |
-| 基础 | build on | 在……基础上建设 |
-| 基础 | financial literacy | 金融素养 |
-| 基础 | turmoil | 动荡 |
-| 基础 | vast returns | 巨额回报 |
-| 基础 | forestall | 预先阻止 |
-| 基础 | runaway inequality | 失控的不平等 |
-| 基础 | political instability | 政治不稳定 |
-| 基础 | run the show | 唱主角 |
-| 基础 | philanthropy | 慈善 |
-| 基础 | voluntarily | 自愿地 |
-| 基础 | deficit-financing | 赤字融资 |
-| 基础 | immediate consumption | 即时消费 |
-| 基础 | microscopic | 极小的 |
-| 基础 | outlast | 比……活得久 |
-| 基础 | get behind | 支持 |
-| 进阶 | skyscrapers | 摩天大楼 |
-| 进阶 | with permission / without | 经许可/未经许可 |
-| 进阶 | invested in | 投资于 |
-| 进阶 | donated | 捐赠 |
-| 进阶 | the White House | 白宫 |
-| 进阶 | the taxpayer | 纳税人 |
-| 进阶 | sound | 稳健的 |
-| 进阶 | a deposit for a home | 购房首付 |
-| 进阶 | university fees | 大学学费 |
-| 进阶 | their first home | 第一套房 |
-| 进阶 | price controls | 价格管制 |
-| 进阶 | rental housing | 租赁住房 |
-| 进阶 | the private sector | 私营部门 |
-| 进阶 | the labour market | 劳动力市场 |
-| 进阶 | assets in stocks | 股票资产 |
-| 进阶 | financial literacy | 金融素养 |
-| 进阶 | radical forecasts | 激进的预测 |
-| 进阶 | capital-holders | 资本持有者 |
-| 进阶 | runaway | 失控的 |
-| 进阶 | eclipse | 遮蔽 |
-| 进阶 | sorts out | 解决 |
-| 高级 | Trumpy | 特朗普式的 |
-| 高级 | Gen-Z socialism | Z 世代社会主义 |
-| 高级 | Trump Accounts | 特朗普账户 |
-| 高级 | Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |
-| 高级 | OpenAI | OpenAI 公司 |
-| 高级 | Kennedy Centre | 肯尼迪中心 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| show up | 出现 | The error shows up on the report. |
+| financial statements | 财务报表 | Audit the financial statements. |
+| turn 18 | 满 18 岁 | When she turns 30. |
+| top-ups | 追加款 | Make a top-up to the account. |
+| handouts | 施舍 | Dependent on government handouts. |
+| partisan | 党派性的 | A partisan vote. |
+| grubby | 粗鄙的 | A grubby financial arrangement. |
+| funded by borrowing | 靠借债融资 | Funded mostly by borrowing. |
+| qualify | 有资格 | Do you qualify for the scheme? |
+| Roping in | 拉拢 | Roped in to the project. |
+| chip in | 凑钱 | Everyone chipped in £20. |
+| a whiff of | 一丝味道 | A whiff of corruption. |
+| cronyism | 裙带关系 | The appointment reeks of cronyism. |
+| unsavoury | 不体面的 | An unsavoury past. |
+| execution | 执行 | Good idea, poor execution. |
+| worth watching | 值得关注 | The startup is worth watching. |
+| equity stakes | 股权 | Sold his equity stake. |
+| sound in principle | 原则上合理 | The plan is sound in principle. |
+| well-timed | 时机得当 | A well-timed investment. |
+| face up to | 正视 | We must face up to the problem. |
+| looming | 迫在眉睫 | The looming deadline. |
+| disruption | 冲击 | AI-driven disruption. |
+| admittedly | 诚然 | Admittedly, it's early. |
+| in today's prices | 按今日价格 | £100 in today's prices. |
+| make a dent in | 啃下一块 | Made a dent in the backlog. |
+| depends largely on | 很大程度上取决于 | Success depends largely on timing. |
+| deep pockets | 荷包深 | Parents with deep pockets. |
+| undermines the notion | 削弱观念 | This undermines the notion of merit. |
+| wanes | 减弱 | Public enthusiasm waned. |
+| a troublingly high share | 高得令人不安的比例 | A troublingly high rate. |
+| profess | 自称 | He professes loyalty. |
+| soaking the rich | 宰富人 | A plan to soak the rich. |
+| free enterprise | 自由企业 | A champion of free enterprise. |
+| a personal stake in | 个人利益 | A personal stake in the outcome. |
+| versus | 对比 | 15% versus 3%. |
+| build on | 在……基础上建设 | Build on the early gains. |
+| financial literacy | 金融素养 | Improve financial literacy. |
+| turmoil | 动荡 | Turmoil in the markets. |
+| vast returns | 巨额回报 | Vast returns for investors. |
+| forestall | 预先阻止 | Forestall the inevitable. |
+| runaway inequality | 失控的不平等 | Runaway inequality. |
+| political instability | 政治不稳定 | Instability scares investors. |
+| run the show | 唱主角 | The state shouldn't run the show. |
+| philanthropy | 慈善 | Modern philanthropy. |
+| voluntarily | 自愿地 | Voluntarily handed over power. |
+| deficit-financing | 赤字融资 | Deficit-financed spending. |
+| immediate consumption | 即时消费 | Not immediate consumption. |
+| microscopic | 极小的 | A microscopic share. |
+| outlast | 比……活得久 | The institution outlasted its founder. |
+| get behind | 支持 | Both sides can get behind it. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| skyscrapers | 摩天大楼 |  |
+| with permission / without | 经许可/未经许可 |  |
+| invested in | 投资于 |  |
+| donated | 捐赠 |  |
+| the White House | 白宫 |  |
+| the taxpayer | 纳税人 |  |
+| sound | 稳健的 |  |
+| a deposit for a home | 购房首付 |  |
+| university fees | 大学学费 |  |
+| their first home | 第一套房 |  |
+| price controls | 价格管制 |  |
+| rental housing | 租赁住房 |  |
+| the private sector | 私营部门 |  |
+| the labour market | 劳动力市场 |  |
+| assets in stocks | 股票资产 |  |
+| financial literacy | 金融素养 |  |
+| radical forecasts | 激进的预测 |  |
+| capital-holders | 资本持有者 |  |
+| runaway | 失控的 |  |
+| eclipse | 遮蔽 |  |
+| sorts out | 解决 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Trumpy | 特朗普式的 |  |
+| Gen-Z socialism | Z 世代社会主义 |  |
+| Trump Accounts | 特朗普账户 |  |
+| Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |  |
+| OpenAI | OpenAI 公司 |  |
+| Kennedy Centre | 肯尼迪中心 |  |
 
 ## 长难句专项
 

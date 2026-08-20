@@ -501,80 +501,81 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | ruined | adj. 被毁坏的 |
-| 基础 | deserted | adj. 荒废的、无人的 |
-| 基础 | silent | adj. 寂静的 |
-| 基础 | erupt | v. （战争、冲突）爆发 |
-| 基础 | bustling | adj. 熙熙攘攘的 |
-| 基础 | famine | n. 饥荒 |
-| 基础 | indifference | n. 漠不关心 |
-| 基础 | neglect | v. 忽视 |
-| 基础 | deny | v. 否认 |
-| 基础 | empire | n. 帝国 |
-| 基础 | ambition | n. 野心 |
-| 基础 | hence | adv. 因此 |
-| 基础 | priority | n. 优先事项 |
-| 基础 | chaos | n. 混乱 |
-| 基础 | capture | v. 攻占 |
-| 基础 | urge | v. 敦促 |
-| 基础 | delay | v. 拖延 |
-| 基础 | devastation | n. 破坏、蹂躏 |
-| 基础 | husk | n. 外壳、空壳 |
-| 基础 | charred | adj. 烧焦的 |
-| 基础 | makeshift | adj. 临时凑合的 |
-| 基础 | swathe | n. 大片（土地） |
-| 基础 | genocidal | adj. 种族灭绝的 |
-| 基础 | comparable | adj. 可比较的 |
-| 基础 | geopolitically | adv. 从地缘政治角度看 |
-| 基础 | reignite | v. 重新点燃 |
-| 基础 | callous | adj. 冷酷无情的 |
-| 基础 | overlap | v. 重叠 |
-| 基础 | prosecute | v. 进行（战争） |
-| 基础 | belligerent | n. 交战方 |
-| 基础 | de | facto /ˌdeɪ ˈfæktəʊ/ adj. 事实上的 |
-| 基础 | militia | n. 民兵 |
-| 基础 | proxy | war 代理人战争 |
-| 基础 | vie | v. 争夺 |
-| 基础 | mercenary | n. 雇佣兵 |
-| 基础 | strenuously | adv. 极力地 |
-| 基础 | bankroll | v. 出资 |
-| 基础 | overwhelming | adj. 压倒性的 |
-| 基础 | periodically | adv. 时不时地 |
-| 基础 | spoils | n. 战利品、掠夺物 |
-| 基础 | vanquish | v. 彻底击败 |
-| 基础 | vow | v. 发誓 |
-| 基础 | resigned | (to) /rɪˈzaɪnd/ adj. 认命的 |
-| 基础 | dampen | v. 抑制 |
-| 基础 | rivalry | n. 对抗 |
-| 基础 | foe | n. 敌人 |
-| 基础 | supposedly | adv. 据称 |
-| 基础 | underline | v. 凸显 |
-| 基础 | revive | v. 重新唤起 |
-| 基础 | breakthrough | n. 突破 |
-| 基础 | telling | adj. 能说明问题的 |
-| 基础 | hub | n. 枢纽 |
-| 基础 | retake | v. 收复 |
-| 基础 | comprise | v. 包含 |
-| 基础 | stake | n. 利害关系 |
-| 基础 | perpetuate | v. 使永久化 |
-| 基础 | fragmentation | n. 碎片化 |
-| 基础 | lull | n. 间歇 |
-| 基础 | static | adj. 静止的 |
-| 基础 | disarm | v. 解除武装 |
-| 基础 | demobilise | v. 复员 |
-| 基础 | professed | adj. 公开宣称的 |
-| 基础 | trajectory | n. 轨迹 |
-| 基础 | instability | n. 动荡 |
-| 基础 | albeit | conj. 尽管（书面让步） |
-| 基础 | zero-sum | adj. 零和的（博弈论术语） |
-| 基础 | deep-pocketed | adj. 财力雄厚的 |
-| 基础 | overstretched | adj. 分身乏术的 |
-| 基础 | war economy 战争经济 | 政治学概念 |
-| 基础 | last best chance 最后最好的机会 | 政治修辞 |
-| 基础 | the | Strait of Hormuz 霍尔木兹海峡 |
-| 基础 | Bab | al-Mandab 曼德海峡 |
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| ruined | adj. 被毁坏的 |  |
+| deserted | adj. 荒废的、无人的 |  |
+| silent | adj. 寂静的 |  |
+| erupt | v. （战争、冲突）爆发 |  |
+| bustling | adj. 熙熙攘攘的 |  |
+| famine | n. 饥荒 |  |
+| indifference | n. 漠不关心 |  |
+| neglect | v. 忽视 |  |
+| deny | v. 否认 |  |
+| empire | n. 帝国 |  |
+| ambition | n. 野心 |  |
+| hence | adv. 因此 |  |
+| priority | n. 优先事项 |  |
+| chaos | n. 混乱 |  |
+| capture | v. 攻占 |  |
+| urge | v. 敦促 |  |
+| delay | v. 拖延 |  |
+| devastation | n. 破坏、蹂躏 |  |
+| husk | n. 外壳、空壳 |  |
+| charred | adj. 烧焦的 |  |
+| makeshift | adj. 临时凑合的 |  |
+| swathe | n. 大片（土地） |  |
+| genocidal | adj. 种族灭绝的 |  |
+| comparable | adj. 可比较的 |  |
+| geopolitically | adv. 从地缘政治角度看 |  |
+| reignite | v. 重新点燃 |  |
+| callous | adj. 冷酷无情的 |  |
+| overlap | v. 重叠 |  |
+| prosecute | v. 进行（战争） |  |
+| belligerent | n. 交战方 |  |
+| de | facto /ˌdeɪ ˈfæktəʊ/ adj. 事实上的 |  |
+| militia | n. 民兵 |  |
+| proxy | war 代理人战争 |  |
+| vie | v. 争夺 |  |
+| mercenary | n. 雇佣兵 |  |
+| strenuously | adv. 极力地 |  |
+| bankroll | v. 出资 |  |
+| overwhelming | adj. 压倒性的 |  |
+| periodically | adv. 时不时地 |  |
+| spoils | n. 战利品、掠夺物 |  |
+| vanquish | v. 彻底击败 |  |
+| vow | v. 发誓 |  |
+| resigned | (to) /rɪˈzaɪnd/ adj. 认命的 |  |
+| dampen | v. 抑制 |  |
+| rivalry | n. 对抗 |  |
+| foe | n. 敌人 |  |
+| supposedly | adv. 据称 |  |
+| underline | v. 凸显 |  |
+| revive | v. 重新唤起 |  |
+| breakthrough | n. 突破 |  |
+| telling | adj. 能说明问题的 |  |
+| hub | n. 枢纽 |  |
+| retake | v. 收复 |  |
+| comprise | v. 包含 |  |
+| stake | n. 利害关系 |  |
+| perpetuate | v. 使永久化 |  |
+| fragmentation | n. 碎片化 |  |
+| lull | n. 间歇 |  |
+| static | adj. 静止的 |  |
+| disarm | v. 解除武装 |  |
+| demobilise | v. 复员 |  |
+| professed | adj. 公开宣称的 |  |
+| trajectory | n. 轨迹 |  |
+| instability | n. 动荡 |  |
+| albeit | conj. 尽管（书面让步） |  |
+| zero-sum | adj. 零和的（博弈论术语） |  |
+| deep-pocketed | adj. 财力雄厚的 |  |
+| overstretched | adj. 分身乏术的 |  |
+| war economy 战争经济 | 政治学概念 |  |
+| last best chance 最后最好的机会 | 政治修辞 |  |
+| the | Strait of Hormuz 霍尔木兹海峡 |  |
+| Bab | al-Mandab 曼德海峡 |  |
 
 ## 五、长难句专项
 

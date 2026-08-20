@@ -877,47 +877,55 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | toil | v. 艰苦跋涉 |
-| 基础 | altitude | n. 海拔 |
-| 基础 | altitude sickness | n. 高原反应 |
-| 基础 | avalanche | n. 雪崩 |
-| 基础 | blazing | v. 开辟（trailblazing） |
-| 基础 | conquer | v. 征服 |
-| 基础 | discarded | v. 丢弃 |
-| 基础 | funding | n. 资金 |
-| 基础 | horizon | n. 地平线 |
-| 基础 | magnificent | adj. 壮丽的 |
-| 基础 | mob | v. 围堵 |
-| 基础 | route | n. 路线 |
-| 基础 | summit | n./v. 山顶/登顶 |
-| 基础 | withstand | v. 承受 |
-| 基础 | ballsy | adj. 大胆的（口语） |
-| 基础 | badass | adj. 彪悍的（口语） |
-| 基础 | carper | n. 吹毛求疵的人 |
-| 基础 | gripe | n. 抱怨（口语） |
-| 基础 | laboured | v. 艰苦努力 |
-| 基础 | perch | v. 栖息 |
-| 基础 | purist | n. 纯粹主义者 |
-| 基础 | scorn | v. 嗤之以鼻 |
-| 基础 | stonking | adj. 极大的（英式口语） |
-| 基础 | trailblaze | v. 开路 |
-| 基础 | unassisted | adj. 无辅助的 |
-| 基础 | waved off | 挥手表示不在意 |
-| 基础 | 词汇/表达 | 释义 |
-| 基础 | close brush with death | 与死亡擦肩 |
-| 基础 | Death Zone | 死亡地带（8000m+术语） |
-| 基础 | had a field day | 大做文章 |
-| 基础 | in the flow/zone | 进入心流状态 |
-| 基础 | lived to climb | 为攀登而活 |
-| 基础 | make much of | 不太在意 |
-| 基础 | not in the blood | 骨子里没有 |
-| 基础 | set out to prove | 决心证明 |
-| 基础 | shawl | v. 披上围巾（英雄礼仪） |
-| 基础 | take up | 接手、采纳 |
-| 基础 | two-finger salute | 双指敬礼（英式侮辱） |
-| 基础 | yomp | v. 长途行军（英军术语） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| close brush with death | 与死亡擦肩 | He had close brushes with death |
+| Death Zone | 死亡地带（8000m+术语） | That was the Death Zone |
+| had a field day | 大做文章 | Critics had a field day |
+| in the flow/zone | 进入心流状态 | He was in the flow. In the zone, bro! |
+| lived to climb | 为攀登而活 | Because he lived to climb |
+| make much of | 不太在意 | He didn't make much of... |
+| not in the blood | 骨子里没有 | Quitting is not in the blood |
+| set out to prove | 决心证明 | he set out to prove |
+| shawl | v. 披上围巾（英雄礼仪） | he was shawled as a hero |
+| take up | 接手、采纳 | was taken up by Netflix |
+| two-finger salute | 双指敬礼（英式侮辱） | give the carpers a good two-finger salute |
+| yomp | v. 长途行军（英军术语） | Yomping one day in the Welsh hills |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| ballsy | adj. 大胆的（口语） | ballsy back-to-back ascents |
+| badass | adj. 彪悍的（口语） | not yet a badass trailblazer |
+| carper | n. 吹毛求疵的人 | give the carpers a good two-finger salute |
+| gripe | n. 抱怨（口语） | the gripe about oxygen |
+| laboured | v. 艰苦努力 | He had laboured to find funding |
+| perch | v. 栖息 | perching on summits |
+| purist | n. 纯粹主义者 | Purists scorned all that |
+| scorn | v. 嗤之以鼻 | Purists scorned all that |
+| stonking | adj. 极大的（英式口语） | a stonking hangover |
+| trailblaze | v. 开路 | he had trailblazed 70% of the route |
+| unassisted | adj. 无辅助的 | the unassisted human body |
+| waved off | 挥手表示不在意 | He waved it all off |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| toil | v. 艰苦跋涉 | toiling across it |
+| altitude | n. 海拔 | The altitude didn't seem to be affecting him |
+| altitude sickness | n. 高原反应 | had met altitude sickness so bad |
+| avalanche | n. 雪崩 | sent down an avalanche |
+| blazing | v. 开辟（trailblazing） | took his turn at trailblazing |
+| conquer | v. 征服 | The better mountain to conquer |
+| discarded | v. 丢弃 | the rubbish |
+| funding | n. 资金 | He had laboured to find funding |
+| horizon | n. 地平线 | filling the horizon |
+| magnificent | adj. 壮丽的 | the magnificent wall of rock and snow |
+| mob | v. 围堵 | He was mobbed at airports |
+| route | n. 路线 | finding new routes |
+| summit | n./v. 山顶/登顶 | perching on summits / summitting |
+| withstand | v. 承受 | the unassisted human body began to fail |
 
 ## 长难句专项
 

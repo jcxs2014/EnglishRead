@@ -213,29 +213,17 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | make a world of difference | 产生天壤之别 |
-| 基础 | battle-tested | 久经考验的 |
-| 基础 | harvest (data) | 收集（数据） |
-| 基础 | polish off | 迅速完成/搞定 |
-| 基础 | go bust | 破产 |
-| 基础 | stress-test | 压力测试 |
-| 基础 | mine A for B | 从 A 中挖掘 B |
-| 基础 | bundle | 捆绑 |
-| 进阶 | six-fold | 六倍的（的增长） |
-| 进阶 | tech titans | 科技巨头（比 giants 更庄重） |
-| 进阶 | pledge (to do) | 承诺（正式） |
-| 进阶 | quantum mechanics | 量子力学 |
-| 进阶 | rigorous simulations | 严格/精确的模拟 |
-| 进阶 | general-purpose technology | 通用技术（GPTs，经济学术语） |
-| 进阶 | crack (codes) | 破解（密码） |
-| 进阶 | Q-day | 量子日（量子计算机能破解加密的假设日） |
-| 进阶 | computationally demanding | 计算密集型的 |
-| 进阶 | weedy | 瘦弱/性能太弱的（形容芯片，贬义） |
-| 进阶 | unpatched | 未打补丁的 |
-| 进阶 | back end / front end | 后端/前端（技术术语） |
-| 进阶 | make the switch | 完成切换（到新系统） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| make a world of difference | 产生天壤之别 | A good night's sleep makes a world of difference. |
+| battle-tested | 久经考验的 | This is a battle-tested solution. |
+| harvest` (data) | 收集（数据） | Hackers harvested millions of passwords. |
+| polish off | 迅速完成/搞定 | He polished off the report in an hour. |
+| go bust | 破产 | Many startups went bust during the recession. |
+| stress-test | 压力测试 | We need to stress-test our security protocols. |
+| mine A for B | 从 A 中挖掘 B | They mine customer data for patterns. |
+| bundle | 捆绑 | The two encryption standards can be bundled together. |
 
 ## 核心表达（可直接迁移）
 

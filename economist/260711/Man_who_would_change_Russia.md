@@ -919,104 +919,113 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | futile | 徒劳的 |
-| 基础 | paying the price | 付出代价 |
-| 基础 | break the deadlock | 打破僵局 |
-| 基础 | it pays to do | 值得做 |
-| 基础 | stunning | 令人震惊的 |
-| 基础 | insider | 圈内人 |
-| 基础 | high-minded | 道德高尚的 |
-| 基础 | lived by | 遵循……生活 |
-| 基础 | keep your nose out of | 别插手 |
-| 基础 | tycoons | 大亨 |
-| 基础 | afford to ignore | 承受得起无视 |
-| 基础 | descend into | 滑入 |
-| 基础 | tyranny | 专制 |
-| 基础 | guardedly | 谨慎地 |
-| 基础 | speak out | 公开发声 |
-| 基础 | resonate | 产生共鸣 |
-| 基础 | bleak | 黯淡的 |
-| 基础 | autarky | 闭关自守 |
-| 基础 | sullen | 阴沉的 |
-| 基础 | amount to | 等于 |
-| 基础 | one-man rule | 一人统治 |
-| 基础 | witness | 见证 |
-| 基础 | resentment | 怨恨 |
-| 基础 | go viral | 疯传 |
-| 基础 | belie | 与……矛盾 |
-| 基础 | at hand | 即将到来 |
-| 基础 | dead end | 死胡同 |
-| 基础 | reassert authority | 重申权威 |
-| 基础 | exacerbate | 加剧 |
-| 基础 | discount | 不采信 |
-| 基础 | gloomy | 阴郁的 |
-| 基础 | scenarios | 情景 |
-| 基础 | collapse into anarchy | 陷入无政府 |
-| 基础 | warlords | 军阀 |
-| 基础 | humiliated | 受辱 |
-| 基础 | under the thumb of | 在……掌控下 |
-| 基础 | buffer against | 缓冲 |
-| 基础 | war of attrition | 消耗战 |
-| 基础 | impoverished | 穷困的 |
-| 基础 | incubating | 孵化、孕育 |
-| 基础 | starved of | 缺乏 |
-| 基础 | the bowels of | ……的深处 |
-| 基础 | permanent war | 持久战争 |
-| 基础 | enigmatic | 讳莫如深 |
-| 基础 | self-serving | 利己的 |
-| 基础 | resist the temptation | 抵制诱惑 |
-| 基础 | calls on ... to grant | 呼吁给予 |
-| 基础 | non-interference | 不干涉 |
-| 基础 | elusive | 难以捉摸的 |
-| 基础 | resorting to | 诉诸 |
-| 基础 | coercion | 强制 |
-| 基础 | relinquish | 放弃 |
-| 基础 | devolve power | 下放权力 |
-| 基础 | securocrats | 安全官僚 |
-| 基础 | top dogs | 头号人物 |
-| 基础 | banished | 驱逐 |
-| 基础 | in a bind | 两难 |
-| 基础 | grinding on | 痛苦地持续 |
-| 基础 | precedent | 先例 |
-| 基础 | doomed ... to | 注定 |
-| 基础 | uprising | 起义 |
-| 基础 | toppled | 被推翻 |
-| 基础 | reforms that last | 持久的改革 |
-| 进阶 | futile | 徒劳的 |
-| 进阶 | the war economy | 战争经济 |
-| 进阶 | oligarchs | 寡头 |
-| 进阶 | descend into | 滑入 |
-| 进阶 | issued a warning | 发出警告 |
-| 进阶 | champion of | ……的捍卫者 |
-| 进阶 | pragmatist | 实用主义者 |
-| 进阶 | outlook | 前景 |
-| 进阶 | annexation | 吞并 |
-| 进阶 | drone strikes | 无人机袭击 |
-| 进阶 | forced military enlistment | 强制征兵 |
-| 进阶 | reassert | 重申 |
-| 进阶 | escalate | 升级 |
-| 进阶 | tactical nuclear weapon | 战术核武器 |
-| 进阶 | terrorise | 恐吓 |
-| 进阶 | mobilisation | 动员 |
-| 进阶 | thesis | 论点 |
-| 进阶 | annexation | 吞并 |
-| 进阶 | raw materials | 原材料 |
-| 进阶 | periphery | 边缘 |
-| 进阶 | dependant | 依附者 |
-| 进阶 | nationalism | 民族主义 |
-| 进阶 | fortress | 要塞 |
-| 进阶 | technocrats | 技术官僚 |
-| 进阶 | dictatorial | 专制的 |
-| 进阶 | civil liberties | 公民自由 |
-| 进阶 | legislative assembly | 立法议会 |
-| 高级 | fertiliser king | 化肥大王 |
-| 高级 | anti-Putin opposition | 反普京反对派 |
-| 高级 | Melnichenko | 梅尔尼琴科 |
-| 高级 | securocrats | 安全官僚 |
-| 高级 | October Manifesto | 十月宣言 |
-| 高级 | Nicholas II | 尼古拉二世 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 | The protest proved futile. |
+| paying the price | 付出代价 | The public pays the price for war. |
+| break the deadlock | 打破僵局 | Talks to break the deadlock. |
+| it pays to do | 值得做 | It pays to be prepared. |
+| stunning | 令人震惊的 | A stunning victory. |
+| insider | 圈内人 | He was an insider in the regime. |
+| high-minded | 道德高尚的 | High-minded but impractical. |
+| lived by | 遵循……生活 | He lives by a strict code. |
+| keep your nose out of | 别插手 | Keep your nose out of my affairs. |
+| tycoons | 大亨 | Media tycoons. |
+| afford to ignore | 承受得起无视 | We can't afford to ignore it. |
+| descend into | 滑入 | The country descended into civil war. |
+| tyranny | 专制 | Rule by tyranny. |
+| guardedly | 谨慎地 | He answered guardedly. |
+| speak out | 公开发声 | She spoke out against the law. |
+| resonate | 产生共鸣 | The message resonated widely. |
+| bleak | 黯淡的 | Bleak prospects. |
+| autarky | 闭关自守 | Self-sufficient autarky. |
+| sullen | 阴沉的 | A sullen crowd. |
+| amount to | 等于 | His demands amount to a veto. |
+| one-man rule | 一人统治 | A system of one-man rule. |
+| witness | 见证 | The city is witnessing growth. |
+| resentment | 怨恨 | The policy bred resentment. |
+| go viral | 疯传 | The clip went viral. |
+| belie | 与……矛盾 | His calm belies his anxiety. |
+| at hand | 即将到来 | Victory is at hand. |
+| dead end | 死胡同 | The talks hit a dead end. |
+| reassert authority | 重申权威 | Reasserted his authority. |
+| exacerbate | 加剧 | The move exacerbated the crisis. |
+| discount | 不采信 | Analysts discount the threat. |
+| gloomy | 阴郁的 | A gloomy forecast. |
+| scenarios | 情景 | Worst-case scenarios. |
+| collapse into anarchy | 陷入无政府 | The state collapsed into anarchy. |
+| warlords | 军阀 | Warlords fought for control. |
+| humiliated | 受辱 | The army was humiliated. |
+| under the thumb of | 在……掌控下 | Under the thumb of a tyrant. |
+| buffer against | 缓冲 | A buffer against invasion. |
+| war of attrition | 消耗战 | The war became one of attrition. |
+| impoverished | 穷困的 | Impoverished communities. |
+| incubating | 孵化、孕育 | Incubating resentment. |
+| starved of | 缺乏 | Starved of resources. |
+| the bowels of | ……的深处 | The bowels of the Kremlin. |
+| permanent war | 持久战争 | A permanent war economy. |
+| enigmatic | 讳莫如深 | He remained enigmatic. |
+| self-serving | 利己的 | A self-serving explanation. |
+| resist the temptation | 抵制诱惑 | Resist the temptation to quit. |
+| calls on ... to grant | 呼吁给予 | Called on them to grant asylum. |
+| non-interference | 不干涉 | Demanded non-interference. |
+| elusive | 难以捉摸的 | The answer remained elusive. |
+| resorting to | 诉诸 | Resorted to force. |
+| coercion | 强制 | Persuasion, not coercion. |
+| relinquish | 放弃 | Refused to relinquish control. |
+| devolve power | 下放权力 | Devolved power to regions. |
+| securocrats | 安全官僚 | The securocrats dominate. |
+| top dogs | 头号人物 | The top dogs in government. |
+| banished | 驱逐 | Banished from politics. |
+| in a bind | 两难 | We're in a bind. |
+| grinding on | 痛苦地持续 | The conflict grinds on. |
+| precedent | 先例 | A dangerous precedent. |
+| doomed ... to | 注定 | Doomed to repeat history. |
+| uprising | 起义 | The uprising was crushed. |
+| toppled | 被推翻 | The ruler was toppled. |
+| reforms that last | 持久的改革 | We need reforms that last. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 |  |
+| the war economy | 战争经济 |  |
+| oligarchs | 寡头 |  |
+| descend into | 滑入 |  |
+| issued a warning | 发出警告 |  |
+| champion of | ……的捍卫者 |  |
+| pragmatist | 实用主义者 |  |
+| outlook | 前景 |  |
+| annexation | 吞并 |  |
+| drone strikes | 无人机袭击 |  |
+| forced military enlistment | 强制征兵 |  |
+| reassert | 重申 |  |
+| escalate | 升级 |  |
+| tactical nuclear weapon | 战术核武器 |  |
+| terrorise | 恐吓 |  |
+| mobilisation | 动员 |  |
+| thesis | 论点 |  |
+| annexation | 吞并 |  |
+| raw materials | 原材料 |  |
+| periphery | 边缘 |  |
+| dependant | 依附者 |  |
+| nationalism | 民族主义 |  |
+| fortress | 要塞 |  |
+| technocrats | 技术官僚 |  |
+| dictatorial | 专制的 |  |
+| civil liberties | 公民自由 |  |
+| legislative assembly | 立法议会 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fertiliser king | 化肥大王 |  |
+| anti-Putin opposition | 反普京反对派 |  |
+| Melnichenko | 梅尔尼琴科 |  |
+| securocrats | 安全官僚 |  |
+| October Manifesto | 十月宣言 |  |
+| Nicholas II | 尼古拉二世 |  |
 
 ## 长难句专项
 

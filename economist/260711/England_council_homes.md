@@ -774,103 +774,112 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | gloomy | 悲观的 |
-| 基础 | a bunch | 一群 |
-| 基础 | lay blame at the door of | 归咎于 |
-| 基础 | unaffordable housing | 负担不起的住房 |
-| 基础 | extortionate | 漫天要价的 |
-| 基础 | frays | 磨损 |
-| 基础 | scapegoat | 当替罪羊 |
-| 基础 | council housing | 议会公房 |
-| 基础 | below-market rents | 低于市场租金 |
-| 基础 | on waiting lists | 在候补名单 |
-| 基础 | crumbling | 崩塌中的 |
-| 基础 | the total stock | 总存量 |
-| 基础 | far from being | 远非 |
-| 基础 | the foundation for | ……的基础 |
-| 基础 | wasteful | 浪费的 |
-| 基础 | a barrier to growth | 增长障碍 |
-| 基础 | tenants | 租户 |
-| 基础 | deemed | 被认定 |
-| 基础 | means test | 经济状况调查 |
-| 基础 | rent subsidy | 租金补贴 |
-| 基础 | implicit subsidy | 隐性补贴 |
-| 基础 | on welfare | 领救济 |
-| 基础 | recycled within | 内部循环 |
-| 基础 | bonanza | 横财 |
-| 基础 | tenancies | 租约 |
-| 基础 | for life | 终身 |
-| 基础 | inherited | 被继承 |
-| 基础 | regardless of | 不论 |
-| 基础 | high earners | 高收入者 |
-| 基础 | ultra-cheap | 超便宜 |
-| 基础 | private landlords | 私人房东 |
-| 基础 | stingy | 吝啬的 |
-| 基础 | at risk of homelessness | 无家可归风险 |
-| 基础 | foists ... on | 强加于 |
-| 基础 | feast and famine | 盛宴与饥荒 |
-| 基础 | mobile | 流动的 |
-| 基础 | less likely to | 更不可能 |
-| 基础 | in search of | 寻找 |
-| 基础 | frozen in place | 被冻住 |
-| 基础 | blocking ... from | 阻碍 |
-| 基础 | vows to | 发誓要 |
-| 基础 | get on in life | 成功 |
-| 基础 | raise ... to market rates | 提到市场价 |
-| 基础 | means-tested benefits | 经审查的补贴 |
-| 基础 | cover the difference | 弥补差额 |
-| 基础 | labelled it | 贴标签 |
-| 基础 | evict | 驱逐 |
-| 基础 | as and when | 在……之时 |
-| 基础 | pinning ... to | 钉死 |
-| 基础 | bricks and mortar | 砖石房产 |
-| 基础 | phased in | 分阶段引入 |
-| 基础 | free up | 释放 |
-| 基础 | housing woes | 住房困境 |
-| 基础 | put up more homes | 建房 |
-| 基础 | insanely slow | 慢得离谱 |
-| 基础 | obstructive | 梗阻的 |
-| 基础 | gummed ... up | 卡住 |
-| 基础 | pick up the pace | 加快进度 |
-| 基础 | veto | 否决 |
-| 基础 | unprofitable | 无利可图 |
-| 基础 | entertaining | 考虑（想法） |
-| 基础 | On the contrary | 恰恰相反 |
-| 基础 | undue weight | 不当分量 |
-| 基础 | cuddly-sounding | 听上去温馨 |
-| 基础 | toxic | 有毒的 |
-| 基础 | green belt | 绿化带 |
-| 基础 | chokes off | 扼杀 |
-| 基础 | wasteland | 荒地 |
-| 基础 | scrap | 废除 |
-| 基础 | sub-market rents | 低于市场租金 |
-| 基础 | tonic | 补药 |
-| 进阶 | lead worse lives | 过更糟的生活 |
-| 进阶 | do better | 过得更好 |
-| 进阶 | mean earnings | 平均收入 |
-| 进阶 | vulnerable groups | 弱势群体 |
-| 进阶 | refugees | 难民 |
-| 进阶 | the next prime minister | 下任首相 |
-| 进阶 | post-war period | 战后时期 |
-| 进阶 | boroughs | 行政区 |
-| 进阶 | households | 家庭 |
-| 进阶 | housing benefit | 住房福利 |
-| 进阶 | fortunes improve | 家产改善 |
-| 进阶 | pensioners | 退休老人 |
-| 进阶 | jobseekers | 求职者 |
-| 进阶 | Tories | 保守党 |
-| 进阶 | planning system | 规划体系 |
-| 进阶 | safety rules | 安全规定 |
-| 进阶 | quotas | 配额 |
-| 进阶 | housing woes | 住房困境 |
-| 高级 | Andy Burnham | 安迪·伯纳姆（大曼彻斯特市长，工党） |
-| 高级 | Kensington and Chelsea | 肯辛顿-切尔西（伦敦最富区） |
-| 高级 | Sierra Leone | 塞拉利昂 |
-| 高级 | Sir Keir Starmer | 基尔·斯塔默爵士 |
-| 高级 | G7 | 七国集团 |
-| 高级 | tower block | 高层住宅楼 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gloomy | 悲观的 | A gloomy generation. |
+| a bunch | 一群 | A gloomy bunch. |
+| lay blame at the door of | 归咎于 | Blame lies at the door of the state. |
+| unaffordable housing | 负担不起的住房 | An unaffordable market. |
+| extortionate | 漫天要价的 | Extortionate rents. |
+| frays | 磨损 | Fraying social ties. |
+| scapegoat | 当替罪羊 | Scapegoating minorities. |
+| council housing | 议会公房 | Council-housebuilding. |
+| below-market rents | 低于市场租金 | Let at below-market rents. |
+| on waiting lists | 在候补名单 | On a long waiting list. |
+| crumbling | 崩塌中的 | Crumbling infrastructure. |
+| the total stock | 总存量 | The total housing stock. |
+| far from being | 远非 | Far from being fair, it's biased. |
+| the foundation for | ……的基础 | The foundation of society. |
+| wasteful | 浪费的 | Wasteful spending. |
+| a barrier to growth | 增长障碍 | A barrier to investment. |
+| tenants | 租户 | Tenants on welfare. |
+| deemed | 被认定 | Deemed too risky. |
+| means test | 经济状况调查 | Means-tested benefits. |
+| rent subsidy | 租金补贴 | A generous rent subsidy. |
+| implicit subsidy | 隐性补贴 | An implicit subsidy to tenants. |
+| on welfare | 领救济 | Living on welfare. |
+| recycled within | 内部循环 | Money recycled within government. |
+| bonanza | 横财 | A bonanza for the wealthy. |
+| tenancies | 租约 | Secure tenancies. |
+| for life | 终身 | A tenancy for life. |
+| inherited | 被继承 | Inherited the family home. |
+| regardless of | 不论 | Regardless of age. |
+| high earners | 高收入者 | High earners pay more tax. |
+| ultra-cheap | 超便宜 | Ultra-cheap housing. |
+| private landlords | 私人房东 | Renting from a private landlord. |
+| stingy | 吝啬的 | A stingy allowance. |
+| at risk of homelessness | 无家可归风险 | At risk of losing the home. |
+| foists ... on | 强加于 | Foisted on the poor. |
+| feast and famine | 盛宴与饥荒 | A feast-or-famine economy. |
+| mobile | 流动的 | A more mobile labour market. |
+| less likely to | 更不可能 | Less likely to move. |
+| in search of | 寻找 | In search of work. |
+| frozen in place | 被冻住 | Frozen in place. |
+| blocking ... from | 阻碍 | Blocking them from jobs. |
+| vows to | 发誓要 | Vowed to build more. |
+| get on in life | 成功 | Getting on in life. |
+| raise ... to market rates | 提到市场价 | Raised to market rates. |
+| means-tested benefits | 经审查的补贴 | Means-tested support. |
+| cover the difference | 弥补差额 | Benefits cover the difference. |
+| labelled it | 贴标签 | Labelled the policy. |
+| evict | 驱逐 | Evicted for rent arrears. |
+| as and when | 在……之时 | Funds as and when needed. |
+| pinning ... to | 钉死 | Pinned to an asset. |
+| bricks and mortar | 砖石房产 | Bricks-and-mortar business. |
+| phased in | 分阶段引入 | Phased in over years. |
+| free up | 释放 | Freed up billions. |
+| housing woes | 住房困境 | Housing woes. |
+| put up more homes | 建房 | Putting up new homes. |
+| insanely slow | 慢得离谱 | Insanely slow process. |
+| obstructive | 梗阻的 | Obstructive planning rules. |
+| gummed ... up | 卡住 | Gummed up the works. |
+| pick up the pace | 加快进度 | We must pick up the pace. |
+| veto | 否决 | Vetoing development. |
+| unprofitable | 无利可图 | Made unprofitable. |
+| entertaining | 考虑（想法） | Never entertained the idea. |
+| On the contrary | 恰恰相反 | On the contrary, it helps. |
+| undue weight | 不当分量 | Placing undue weight on. |
+| cuddly-sounding | 听上去温馨 | A cuddly-sounding policy. |
+| toxic | 有毒的 | A toxic policy. |
+| green belt | 绿化带 | Green-belt restrictions. |
+| chokes off | 扼杀 | Choked off supply. |
+| wasteland | 荒地 | Build on wasteland. |
+| scrap | 废除 | Scrap the scheme. |
+| sub-market rents | 低于市场租金 | Sub-market pricing. |
+| tonic | 补药 | Acted like a tonic. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lead worse lives | 过更糟的生活 |  |
+| do better | 过得更好 |  |
+| mean earnings | 平均收入 |  |
+| vulnerable groups | 弱势群体 |  |
+| refugees | 难民 |  |
+| the next prime minister | 下任首相 |  |
+| post-war period | 战后时期 |  |
+| boroughs | 行政区 |  |
+| households | 家庭 |  |
+| housing benefit | 住房福利 |  |
+| fortunes improve | 家产改善 |  |
+| pensioners | 退休老人 |  |
+| jobseekers | 求职者 |  |
+| Tories | 保守党 |  |
+| planning system | 规划体系 |  |
+| safety rules | 安全规定 |  |
+| quotas | 配额 |  |
+| housing woes | 住房困境 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Andy Burnham | 安迪·伯纳姆（大曼彻斯特市长，工党） |  |
+| Kensington and Chelsea | 肯辛顿-切尔西（伦敦最富区） |  |
+| Sierra Leone | 塞拉利昂 |  |
+| Sir Keir Starmer | 基尔·斯塔默爵士 |  |
+| G7 | 七国集团 |  |
+| tower block | 高层住宅楼 |  |
 
 ## 长难句专项
 

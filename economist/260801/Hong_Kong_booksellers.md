@@ -182,32 +182,24 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | national-security theatre | 国家安全 theater |
-| 基础 | draconian | 严厉的/残忍的 |
-| 基础 | a heavy-handed approach | 高压手段 |
-| 基础 | go after | 追查/追捕 |
-| 基础 | plainclothes police | 便衣警察 |
-| 基础 | patently repressive | 明显压制的 |
-| 基础 | navigate the red lines | 弄清红线 |
-| 基础 | an exercise of hard power | 硬实力演练 |
-| 基础 | suppress collective memory | 压制集体记忆 |
-| 基础 | the boss | 老板（中央政府） |
-| 基础 | on show / on display | 公开展示/上演 |
-| 基础 | bespectacled | 戴眼镜的 |
-| 基础 | brusquely | 粗暴地/唐突地 |
-| 基础 | shove off | 滚开（粗鲁） |
-| 基础 | aide-mémoire | 记忆辅助/纪念品（法语） |
-| 进阶 | seditious texts | 煽动性文本 |
-| 进阶 | haul | 查获物/一次收缴的数量 |
-| 进阶 | Greenfield bookstore | 香港一家书店名 |
-| 进阶 | Lam Wing-kee | 林荣基（香港书商） |
-| 进阶 | Bleak House Books | 暗淡屋书店（Albert Wan 开的书店名） |
-| 进阶 | Bao Pu | 蒲苞（香港出版商） |
-| 进阶 | Wang Zhenmin | 王振民（前中联办法律部长） |
-| 进阶 | HK$18bn spent on national security | 香港国安开支 180 亿港元 |
-| 进阶 | red lines | 红线（禁忌/不可逾越的线） |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| national-security theatre | 国家安全 theater | This is pure security theatre — it changes nothing. |
+| draconian | 严厉的/残忍的 | The government imposed draconian restrictions. |
+| a heavy-handed approach | 高压手段 |  |
+| go after | 追查/追捕 | Authorities went after dissidents. |
+| plainclothes police | 便衣警察 | Two plainclothes officers approached him. |
+| patently repressive | 明显压制的 | The policy is patently repressive. |
+| navigate the red lines | 弄清红线 | It's hard to navigate the unclear red lines. |
+| an exercise of hard power | 硬实力演练 | The crackdown is an exercise of hard power. |
+| suppress collective memory | 压制集体记忆 | They want to suppress the collective memory of events. |
+| the boss | 老板（中央政府） | The third audience is the boss (Beijing). |
+| on show / on display | 公开展示/上演 | The theatre is on show for all to see. |
+| bespectacled | 戴眼镜的 | A bespectacled woman entered the room. |
+| brusquely | 粗暴地/唐突地 | He brusquely told me to leave. |
+| shove off | 滚开（粗鲁） | The officer told him to shove off. |
+| aide-mémoire | 记忆辅助/纪念品（法语） | They sold aides-mémoire with protest slogans. |
 
 ## 核心表达（可直接迁移）
 

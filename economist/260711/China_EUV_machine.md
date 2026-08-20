@@ -965,76 +965,85 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | punch above their weight | 以小搏大、发挥超体量 |
-| 基础 | know-how | 技术专长 |
-| 基础 | balance of power | 力量平衡 |
-| 基础 | allege | 声称、指控（未证实） |
-| 基础 | throw ... into crisis | 使陷入危机 |
-| 基础 | find its way to | 流入、到达 |
-| 基础 | decommissioned | 退役/报废的 |
-| 基础 | What is more | 更重要的是 |
-| 基础 | push back | 反击、抵制 |
-| 基础 | decline to do | 婉拒做 |
-| 基础 | at present | 目前 |
-| 基础 | hinges on | 关键在于 |
-| 基础 | briefed on | 被告知内情 |
-| 基础 | unverified yet not unfounded | 未证实但非无中生有 |
-| 基础 | strong-arm ... into | 胁迫……做 |
-| 基础 | pivotal | 关键的 |
-| 基础 | concede | 勉强承认 |
-| 基础 | catch up with | 追赶 |
-| 基础 | retaliation | 报复 |
-| 基础 | divisive | 引起分歧的 |
-| 基础 | align ... with | 使对齐 |
-| 基础 | oblige ... to | 迫使 |
-| 基础 | given | 考虑到 |
-| 基础 | extraterritorially | 域外地 |
-| 基础 | entail | 牵涉、必然带来 |
-| 基础 | scepticism | 怀疑 |
-| 基础 | contradiction between | ……之间的矛盾 |
-| 基础 | reeling from | 因……而受挫 |
-| 基础 | backlash | 强烈反弹 |
-| 基础 | fracas | 争吵 |
-| 基础 | salvo | 齐射、炮击 |
-| 基础 | chokeholds | 扼喉 |
-| 基础 | caught in the crossfire | 被卷入交叉火力 |
-| 进阶 | technology transfers | 技术转移 |
-| 进阶 | spurring | 推动 |
-| 进阶 | maritime power | 海上强国 |
-| 进阶 | seed | 播下种子 |
-| 进阶 | export controls | 出口管制 |
-| 进阶 | lithography machines | 光刻机 |
-| 进阶 | semiconductors | 半导体 |
-| 进阶 | commerce secretary | 商务部长 |
-| 进阶 | components | 部件 |
-| 进阶 | enforce | 执行 |
-| 进阶 | prosecuted | 被起诉 |
-| 进阶 | friction | 摩擦 |
-| 进阶 | undermining | 削弱 |
-| 进阶 | prototype | 样机 |
-| 进阶 | confidentiality agreements | 保密协议 |
-| 进阶 | trade secrets | 商业机密 |
-| 进阶 | multi-patterning | 多重曝光 |
-| 进阶 | cutting edge | 尖端 |
-| 进阶 | AI supremacy | AI 霸权 |
-| 进阶 | supply chains | 供应链 |
-| 进阶 | signatories | 签署方 |
-| 进阶 | bipartisan | 两党的 |
-| 进阶 | hefty fines | 巨额罚款 |
-| 进阶 | denounced | 谴责 |
-| 进阶 | comply with | 遵守 |
-| 进阶 | disrupting | 扰乱 |
-| 进阶 | die down | 平息 |
-| 高级 | EUV / DUV | 极紫外 / 深紫外（光刻） |
-| 高级 | ASML | 阿斯麦（荷兰光刻机公司） |
-| 高级 | fabs | 晶圆厂 |
-| 高级 | Pax Silica | 硅治世（美国组建的联盟） |
-| 高级 | MATCH Act | 美国出口管制法案 |
-| 高级 | Foreign Direct Product Rule | 外国直接产品规则 |
-| 高级 | Nexperia | 恩智浦（中国所有的荷兰芯片商） |
-| 高级 | Nvidia h200 | 英伟达 h200 AI 芯片 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| punch above their weight | 以小搏大、发挥超体量 | Small states punch above their weight. |
+| know-how | 技术专长 | The firm's know-how is unmatched. |
+| balance of power | 力量平衡 | The deal tipped the balance of power. |
+| allege | 声称、指控（未证实） | He alleged the firm broke the law. |
+| throw ... into crisis | 使陷入危机 | The scandal threw the bank into crisis. |
+| find its way to | 流入、到达 | The drugs found their way to Europe. |
+| decommissioned | 退役/报废的 | Decommissioned ships are scrapped. |
+| What is more | 更重要的是 | What is more, costs are rising. |
+| push back | 反击、抵制 | The union pushed back against cuts. |
+| decline to do | 婉拒做 | She declined to answer. |
+| at present | 目前 | At present, no action is planned. |
+| hinges on | 关键在于 | The deal hinges on approval. |
+| briefed on | 被告知内情 | Officials briefed on the plan. |
+| unverified yet not unfounded | 未证实但非无中生有 | The claim is unverified yet not unfounded. |
+| strong-arm ... into | 胁迫……做 | They strong-armed him into signing. |
+| pivotal | 关键的 | A pivotal moment in the talks. |
+| concede | 勉强承认 | He conceded the plan is risky. |
+| catch up with | 追赶 | Catching up with the leaders. |
+| retaliation | 报复 | They risked retaliation. |
+| divisive | 引起分歧的 | A divisive reform. |
+| align ... with | 使对齐 | Align your plan with theirs. |
+| oblige ... to | 迫使 | The law obliges firms to report. |
+| given | 考虑到 | Given the risks, we withdrew. |
+| extraterritorially | 域外地 | Enforcing rules extraterritorially. |
+| entail | 牵涉、必然带来 | The job entails travel. |
+| scepticism | 怀疑 | The claim drew scepticism. |
+| contradiction between | ……之间的矛盾 | A contradiction between policy and practice. |
+| reeling from | 因……而受挫 | The firm is reeling from the loss. |
+| backlash | 强烈反弹 | A backlash against the reform. |
+| fracas | 争吵 | A fracas over the decision. |
+| salvo | 齐射、炮击 | The first salvo of the trade war. |
+| chokeholds | 扼喉 | Technology chokeholds. |
+| caught in the crossfire | 被卷入交叉火力 | Innocent firms caught in the crossfire. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| technology transfers | 技术转移 |  |
+| spurring | 推动 |  |
+| maritime power | 海上强国 |  |
+| seed | 播下种子 |  |
+| export controls | 出口管制 |  |
+| lithography machines | 光刻机 |  |
+| semiconductors | 半导体 |  |
+| commerce secretary | 商务部长 |  |
+| components | 部件 |  |
+| enforce | 执行 |  |
+| prosecuted | 被起诉 |  |
+| friction | 摩擦 |  |
+| undermining | 削弱 |  |
+| prototype | 样机 |  |
+| confidentiality agreements | 保密协议 |  |
+| trade secrets | 商业机密 |  |
+| multi-patterning | 多重曝光 |  |
+| cutting edge | 尖端 |  |
+| AI supremacy | AI 霸权 |  |
+| supply chains | 供应链 |  |
+| signatories | 签署方 |  |
+| bipartisan | 两党的 |  |
+| hefty fines | 巨额罚款 |  |
+| denounced | 谴责 |  |
+| comply with | 遵守 |  |
+| disrupting | 扰乱 |  |
+| die down | 平息 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| EUV / DUV | 极紫外 / 深紫外（光刻） |  |
+| ASML | 阿斯麦（荷兰光刻机公司） |  |
+| fabs | 晶圆厂 |  |
+| Pax Silica | 硅治世（美国组建的联盟） |  |
+| MATCH Act | 美国出口管制法案 |  |
+| Foreign Direct Product Rule | 外国直接产品规则 |  |
+| Nexperia | 恩智浦（中国所有的荷兰芯片商） |  |
+| Nvidia h200 | 英伟达 h200 AI 芯片 |  |
 
 ## 长难句专项
 

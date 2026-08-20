@@ -545,91 +545,100 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | full of gas | 满是天然气 |
-| 基础 | vast offshore fields | 巨大海上气田 |
-| 基础 | exclusive economic zone | 专属经济区 |
-| 基础 | by contrast | 相比之下 |
-| 基础 | energy-hungry | 能源饥渴的 |
-| 基础 | reserves | 储量 |
-| 基础 | political rivals | 政治对手 |
-| 基础 | fit together like | 像……契合 |
-| 基础 | two pieces of a jigsaw | 拼图的两块 |
-| 基础 | stranded | 搁浅的 |
-| 基础 | lacks | 缺少 |
-| 基础 | a hungry market | 饥渴的市场 |
-| 基础 | link the two | 连接两者 |
-| 基础 | terminals | 终端 |
-| 基础 | carrying ... to ... then to | 输送到……再到 |
-| 基础 | scrambling to | 慌忙地 |
-| 基础 | alternative sources | 替代来源 |
-| 基础 | routed through | 经由……输送 |
-| 基础 | fit the bill | 正合需要 |
-| 基础 | mutual suspicion | 相互猜疑 |
-| 基础 | mutual | 相互的 |
-| 基础 | called ... war criminals | 称……为战犯 |
-| 基础 | a hostile Islamist | 敌对伊斯兰主义者 |
-| 基础 | not all bad | 并非全坏 |
-| 基础 | cooperated quietly | 悄悄合作 |
-| 基础 | even as | 即使当 |
-| 基础 | quarrelled in public | 公开争吵 |
-| 基础 | broke down | 破裂 |
-| 基础 | a raid on | 对……袭击 |
-| 基础 | bound for | 开往 |
-| 基础 | a series of crises | 一系列危机 |
-| 基础 | punctuated by | 被……打断 |
-| 基础 | attempts at reconciliation | 和解尝试 |
-| 基础 | reconciliation | 和解 |
-| 基础 | stands in the way | 挡路 |
-| 基础 | faces elections | 面临选举 |
-| 基础 | pro-Palestinian | 亲巴勒斯坦 |
-| 基础 | politically costly | 政治代价高 |
-| 基础 | under pressure from | 受……压力 |
-| 基础 | backing away from | 从……后退 |
-| 基础 | explaining ... to | 向……解释 |
-| 基础 | economic gravity | 经济引力 |
-| 基础 | more than they admit | 比它们承认的多 |
-| 基础 | struggling with inflation | 与通胀搏斗 |
-| 基础 | inflation | 通胀 |
-| 基础 | biggest imports | 最大进口 |
-| 基础 | for its part | 就它而言 |
-| 基础 | diversify its markets | 市场多元化 |
-| 基础 | reduce its reliance on | 减少依赖 |
-| 基础 | any single buyer | 任何单一买家 |
-| 基础 | fit the wider picture | 符合更大格局 |
-| 基础 | regional picture | 地区格局 |
-| 基础 | the moderate camp | 温和阵营 |
-| 基础 | conversely | 相反 |
-| 基础 | the failure to strike a deal | 无法达成交易 |
-| 基础 | strike a deal | 达成交易 |
-| 基础 | more isolated and more vulnerable | 更孤立更脆弱 |
-| 基础 | compelling | 令人信服的 |
-| 基础 | even if | 即使 |
-| 基础 | exactly the kind of | 正是那种 |
-| 基础 | statesmen | 政治家 |
-| 基础 | are supposed to | 应当 |
-| 基础 | doing the hard thing | 做艰难的事 |
-| 基础 | prevent ... later | 防止将来 |
-| 基础 | trade energy, not insults | 交易能源而非辱骂 |
-| 进阶 | Mediterranean | 地中海 |
-| 进阶 | offshore | 海上的 |
-| 进阶 | pipelines | 管道 |
-| 进阶 | jigsaw | 拼图 |
-| 进阶 | stranded | 搁浅 |
-| 进阶 | raid | 突袭 |
-| 进阶 | activists | 活动人士 |
-| 进阶 | crises | 危机 |
-| 进阶 | attempts | 尝试 |
-| 进阶 | vulnerable | 脆弱的 |
-| 进阶 | compelling | 有说服力的 |
-| 进阶 | insults | 辱骂 |
-| 高级 | Turkey | 土耳其 |
-| 高级 | Israel | 以色列 |
-| 高级 | Erdogan | 埃尔多安 |
-| 高级 | Gaza | 加沙 |
-| 高级 | the European Union | 欧盟 |
-| 高级 | Middle East | 中东 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| full of gas | 满是天然气 | The Mediterranean is full of gas. |
+| vast offshore fields | 巨大海上气田 | Vast offshore fields. |
+| exclusive economic zone | 专属经济区 | Its exclusive economic zone. |
+| by contrast | 相比之下 | Turkey, by contrast. |
+| energy-hungry | 能源饥渴的 | An energy-hungry country. |
+| reserves | 储量 | Few of its own reserves. |
+| political rivals | 政治对手 | Political rivals. |
+| fit together like | 像……契合 | Fit together like a jigsaw. |
+| two pieces of a jigsaw | 拼图的两块 | Two pieces of a jigsaw. |
+| stranded | 搁浅的 | Israel's gas is stranded. |
+| lacks | 缺少 | Lacks the pipelines. |
+| a hungry market | 饥渴的市场 | A hungry market. |
+| link the two | 连接两者 | Link the two. |
+| terminals | 终端 | Turkish terminals. |
+| carrying ... to ... then to | 输送到……再到 | Carrying gas to terminals. |
+| scrambling to | 慌忙地 | Scrambling to find. |
+| alternative sources | 替代来源 | Alternative sources of gas. |
+| routed through | 经由……输送 | Routed through Turkey. |
+| fit the bill | 正合需要 | Would fit the bill. |
+| mutual suspicion | 相互猜疑 | Mutual suspicion. |
+| mutual | 相互的 | Mutual distrust. |
+| called ... war criminals | 称……为战犯 | Called them war criminals. |
+| a hostile Islamist | 敌对伊斯兰主义者 | A hostile Islamist. |
+| not all bad | 并非全坏 | Not all bad. |
+| cooperated quietly | 悄悄合作 | Cooperated quietly. |
+| even as | 即使当 | Even as they quarrelled. |
+| quarrelled in public | 公开争吵 | Quarrelled in public. |
+| broke down | 破裂 | The cooperation broke down. |
+| a raid on | 对……袭击 | A raid on a ship. |
+| bound for | 开往 | A ship bound for Gaza. |
+| a series of crises | 一系列危机 | A series of crises. |
+| punctuated by | 被……打断 | Punctuated by attempts. |
+| attempts at reconciliation | 和解尝试 | Attempts at reconciliation. |
+| reconciliation | 和解 | Reconciliation. |
+| stands in the way | 挡路 | Politics stands in the way. |
+| faces elections | 面临选举 | Faces elections. |
+| pro-Palestinian | 亲巴勒斯坦 | Pro-Palestinian voters. |
+| politically costly | 政治代价高 | Politically costly. |
+| under pressure from | 受……压力 | Under pressure from its right. |
+| backing away from | 从……后退 | Backing away from the conflict. |
+| explaining ... to | 向……解释 | Explaining a deal to supporters. |
+| economic gravity | 经济引力 | Economic gravity is strong. |
+| more than they admit | 比它们承认的多 | More than they admit. |
+| struggling with inflation | 与通胀搏斗 | Struggling with inflation. |
+| inflation | 通胀 | Inflation. |
+| biggest imports | 最大进口 | One of its biggest imports. |
+| for its part | 就它而言 | Israel, for its part. |
+| diversify its markets | 市场多元化 | Diversify its energy markets. |
+| reduce its reliance on | 减少依赖 | Reduce its reliance on. |
+| any single buyer | 任何单一买家 | Any single buyer. |
+| fit the wider picture | 符合更大格局 | Fit the wider picture. |
+| regional picture | 地区格局 | The regional picture. |
+| the moderate camp | 温和阵营 | The moderate camp. |
+| conversely | 相反 | Conversely, the failure. |
+| the failure to strike a deal | 无法达成交易 | The failure to strike a deal. |
+| strike a deal | 达成交易 | Strike a deal. |
+| more isolated and more vulnerable | 更孤立更脆弱 | More isolated and more vulnerable. |
+| compelling | 令人信服的 | A compelling logic. |
+| even if | 即使 | Even if the politics are not. |
+| exactly the kind of | 正是那种 | Exactly the kind of situation. |
+| statesmen | 政治家 | Statesmen are supposed to act. |
+| are supposed to | 应当 | Are supposed to act. |
+| doing the hard thing | 做艰难的事 | Doing the hard thing now. |
+| prevent ... later | 防止将来 | Prevent a bigger problem later. |
+| trade energy, not insults | 交易能源而非辱骂 | Trade energy, not insults. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Mediterranean | 地中海 |  |
+| offshore | 海上的 |  |
+| pipelines | 管道 |  |
+| jigsaw | 拼图 |  |
+| stranded | 搁浅 |  |
+| raid | 突袭 |  |
+| activists | 活动人士 |  |
+| crises | 危机 |  |
+| attempts | 尝试 |  |
+| vulnerable | 脆弱的 |  |
+| compelling | 有说服力的 |  |
+| insults | 辱骂 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Turkey | 土耳其 |  |
+| Israel | 以色列 |  |
+| Erdogan | 埃尔多安 |  |
+| Gaza | 加沙 |  |
+| the European Union | 欧盟 |  |
+| Middle East | 中东 |  |
 
 ## 四、长难句专项
 

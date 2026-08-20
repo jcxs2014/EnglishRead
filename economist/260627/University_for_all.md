@@ -291,34 +291,39 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | standard | 标准 |
-| 基础 | decline | 下降 |
-| 基础 | literacy | 识字率 |
-| 基础 | drop out | 辍学 |
-| 基础 | grade inflation | 成绩膨胀 |
-| 基础 | numeracy | 计算能力 |
-| 基础 | rigorous | 严格的 |
-| 基础 | pseudoscience | 伪科学 |
-| 基础 | mandatory | 强制的 |
-| 基础 | equity | 公平 |
-| 基础 | reinstating | 恢复 |
-| 高级 | OECD | 经济合作与发展组织 |
-| 高级 | SAT | 学术评估测试 |
-| 高级 | community colleges | 社区大学 |
-| 高级 | apprentices | 学徒 |
-| 高级 | freshers | 新生 |
-| 高级 | lower the bar | 降低标准 |
-| 高级 | dumb down | 降低水平 |
-| 高级 | inch up | 小幅攀升 |
-| 高级 | post big gains | 取得很大进步 |
-| 高级 | stepping stones | 垫脚石 |
-| 高级 | sprinkle benefits on a smarmy few | 把好处洒在少数人身上 |
-| 高级 | a cowardice that lets everybody down | 让所有人失望的懦弱行为 |
-| 高级 | rein in | 抑制、控制 |
-| 高级 | reversing course | 转变方向 |
-| 高级 | bums on seats | 确保入学人数 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| standard | 标准 |  |
+| decline | 下降 |  |
+| literacy | 识字率 |  |
+| drop out | 辍学 |  |
+| grade inflation | 成绩膨胀 |  |
+| numeracy | 计算能力 |  |
+| rigorous | 严格的 |  |
+| pseudoscience | 伪科学 |  |
+| mandatory | 强制的 |  |
+| equity | 公平 |  |
+| reinstating | 恢复 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| OECD | 经济合作与发展组织 |  |
+| SAT | 学术评估测试 |  |
+| community colleges | 社区大学 |  |
+| apprentices | 学徒 |  |
+| freshers | 新生 |  |
+| lower the bar | 降低标准 |  |
+| dumb down | 降低水平 |  |
+| inch up | 小幅攀升 |  |
+| post big gains | 取得很大进步 |  |
+| stepping stones | 垫脚石 |  |
+| sprinkle benefits on a smarmy few | 把好处洒在少数人身上 |  |
+| a cowardice that lets everybody down | 让所有人失望的懦弱行为 |  |
+| rein in | 抑制、控制 |  |
+| reversing course | 转变方向 |  |
+| bums on seats | 确保入学人数 |  |
 
 ## 长难句专项
 

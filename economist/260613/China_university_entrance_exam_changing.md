@@ -577,50 +577,60 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | quintessential | 精髓的、典型的 |
-| 基础 | gatekeeping ritual | 守门仪式 |
-| 基础 | held their breath | 屏住呼吸 |
-| 基础 | shake up | 撼动、改革 |
-| 基础 | latitude | 自由度（本义纬度） |
-| 基础 | headline change | 头条级变化 |
-| 基础 | provincial examiners | 省级命题官 |
-| 基础 | at ... discretion | 由……裁量 |
-| 基础 | century-old | 百年的 |
-| 基础 | a question mark over | ……上的问号 |
-| 基础 | the surest route | 最稳妥的途径 |
-| 基础 | social contract | 社会契约 |
-| 基础 | usher ... through | 引导穿过 |
-| 基础 | anti-fossilisation | 反固化（造词） |
-| 基础 | surface uniformity | 表面平均 |
-| 基础 | masked | 掩盖 |
-| 基础 | tailored to | 量身定制 |
-| 基础 | fret | 发愁、忧虑 |
-| 基础 | arbitrarily | 任意地 |
-| 基础 | decentralised | 分权化的 |
-| 基础 | owes ... to | 归功于 |
-| 基础 | near-sacred | 近乎神圣 |
-| 基础 | robbed of | 被剥夺 |
-| 基础 | tampering with | 篡改、摆弄 |
-| 基础 | validity vs fairness | 效度对公平 |
-| 基础 | maximises | 最大化 |
-| 基础 | rote-learned | 死记硬背的 |
-| 基础 | holistic approach | 全面评估法 |
-| 基础 | pushback | 阻力、抵制 |
-| 基础 | run deep | 根深蒂固 |
-| 基础 | hedging | 对冲、两头下注 |
-| 基础 | stopgap | 权宜之计 |
-| 基础 | sheen | 光泽、光鲜 |
-| 基础 | crunch | 嘎吱作响 |
-| 基础 | fairness is politics | 公平即政治（格言） |
-| 基础 | cohort | — 同批人（新生代） |
-| 基础 | scarcity | / scarce — 稀缺 |
-| 基础 | fossilisation | — 石化（制度僵化） |
-| 基础 | what | they actually learn — 实际所学（贴合教学） |
-| 基础 | exam | 试卷 |
-| 基础 | results | — 成绩 |
-| 基础 | provinces | — 各省 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| 词汇 / 表达 | 释义 | 例句 |
+| quintessential | 精髓的、典型的 | The quintessential gatekeeping ritual. |
+| gatekeeping ritual | 守门仪式 | China's gaokao. |
+| held their breath | 屏住呼吸 | Held their breath as results came out. |
+| shake up | 撼动、改革 | Shake up the system. |
+| latitude | 自由度（本义纬度） | More latitude to set exams. |
+| headline change | 头条级变化 | The headline change. |
+| provincial examiners | 省级命题官 | Provincial examiners. |
+| at ... discretion | 由……裁量 | At provincial discretion. |
+| century-old | 百年的 | A century-old system. |
+| a question mark over | ……上的问号 | A question mark over its future. |
+| the surest route | 最稳妥的途径 | The surest route to moving up. |
+| social contract | 社会契约 | The social contract. |
+| usher ... through | 引导穿过 | Usher a fresh cohort through gates. |
+| anti-fossilisation | 反固化（造词） | See changes as anti-fossilisation. |
+| surface uniformity | 表面平均 | Decades of surface uniformity. |
+| masked | 掩盖 | Masked rising inequality. |
+| tailored to | 量身定制 | Tailored to what they learn. |
+| fret | 发愁、忧虑 | Fret about the future. |
+| arbitrarily | 任意地 | Allocated arbitrarily. |
+| decentralised | 分权化的 | A decentralised system. |
+| owes ... to | 归功于 | Owes its status to history. |
+| near-sacred | 近乎神圣 | Near-sacred status. |
+| robbed of | 被剥夺 | A generation robbed of education. |
+| tampering with | 篡改、摆弄 | Tampering with history itself. |
+| validity vs fairness | 效度对公平 | Validity versus fairness. |
+| maximises | 最大化 | Maximises fairness. |
+| rote-learned | 死记硬背的 | What students have rote-learned. |
+| holistic approach | 全面评估法 | A more holistic approach. |
+| pushback | 阻力、抵制 | Face pushback. |
+| run deep | 根深蒂固 | Suspicion runs deep. |
+| hedging | 对冲、两头下注 | The state is hedging. |
+| stopgap | 权宜之计 | A stopgap rather than a solution. |
+| sheen | 光泽、光鲜 | Keeping the ritual's sheen. |
+| crunch | 嘎吱作响 | The ritual is sure to crunch. |
+| fairness is politics | 公平即政治（格言） | For fairness is politics. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cohort | — 同批人（新生代） |  |
+| scarcity | / scarce — 稀缺 |  |
+| fossilisation | — 石化（制度僵化） |  |
+| what | they actually learn — 实际所学（贴合教学） |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| exam | 试卷 |  |
+| results | — 成绩 |  |
+| provinces | — 各省 |  |
 
 ## 四、长难句专项
 
@@ -653,3 +663,49 @@
 > **整体理解：** while 分词把"收缩"和"保留"两个动作对立——"暗削实留"的政治解读。---
 
 ## 五、精读结束总结
+
+### 1. 本课核心词汇 / 表达清单
+
+**制度 / 政治语境：**
+- gatekeeping ritual（守门仪式）、social contract（社会契约）、near-sacred（近乎神圣）、hedging（对冲）、stopgap（权宜之计）、fairness is politics（公平即政治）
+
+**改革 / 争论语境：**
+- anti-fossilisation（反固化）、shake up（撼动）、decentralised（分权）、tailored to（量身定制）、validity vs fairness（效度对公平）、pushback（阻力）
+
+**比喻 / 修辞类：**
+- a question mark over（问号）、usher ... through gates and into the middle class（穿过门跃入阶层）、the ritual is sure to crunch（仪式嘎吱作响）、sheen（光泽）
+
+### 2. 精读中重点掌握的语法
+
+- **破折号插入补充背景**：university places—already scarce—（在主语谓语间插入现状）
+- **so do 倒装表"也一样"**：Grades matter, but so do essays...
+- **neither ... nor 否定对称**：optimises neither the topics nor the talents
+- **ouch / 分词复合定语前置**：based on a single set of papers
+- **while + 分词表示"同时/并列取舍"**：while keeping the ritual's sheen
+- **for 作连词表"因为"（正式）**：for fairness is politics
+
+### 3. 长难句提示
+
+见"四、长难句专项"。重点：嵌套定语从句（28）、破折号插入（19、35）、多层分词修饰（14）。
+
+### 4. 写作技巧
+
+**本课写作亮点——"概念对照 + 格言收尾"：**
+
+1. **总-分-总结构**：先给"守门仪式"定性 → 分述改革举措、反应、历史、张力、国外参照 → "公平即政治"升华收尾。
+2. **正反对照框架**：改革者（anti-fossilisation）vs 家长（fret）；统一卷优点（公平）vs 统一卷缺点（效度）；美式综合（holistic）vs 中国国情（run deep）——三组对照层层推进。
+3. **冒号定义核心概念**：`a tension as old as the exam itself: validity versus fairness`——冒号后一个两词对仗点破主题。
+4. **金融借喻**：hedging（对冲）——用投资术语写政府观望——生动。
+5. **格言式结尾**：`the ritual is sure to crunch, for fairness is politics`——拟声动词 + 三词警句，余韵悠长。
+
+### 5. 可迁移表达的"英语思维"
+
+- 想说"他为什么这么谨慎"：**be hedging**— 比 be unsure 更具象（对冲下注的形象）。
+- 想说"某制度像圣物动不得"：**near-sacred / tampering with history**。
+- 想说"改革只是权宜"：**a stopgap rather than a solution**。
+- 想说"这本就稀缺……"：**already scarce** 置于破折号中补充前提。
+- 想说"在某种程度上是出身决定的"：**a measure of where you come from**。
+
+---
+
+**精读完成。** 本篇以"高考改革"切入，呈现笔试制度在"效度"与"公平"间的永恒张力：统一卷保公平却难测真才，分省命题求效度却可能放大"出身决定论"；而高考近神圣的地位来自其"还教育债"的历史政治属性。写法上以三组正反对照构建论述，以"公平即政治"的格言收束。是一篇成熟的"制度分析"文体范本。

@@ -356,44 +356,49 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | n. | 热潮、繁荣 |
-| 基础 | n. | 风险投资 |
-| 基础 | n. | 乐观 |
-| 基础 | 短语 | 局限于 |
-| 基础 | n. | 自给自足农民 |
-| 基础 | v. | 停滞 |
-| 基础 | v. | 停滞（工资） |
-| 基础 | adj. | 不平衡的 |
-| 基础 | v. | 蒸蒸日上 |
-| 基础 | v. | 被挤压 |
-| 基础 | n. | 非正规部门 |
-| 基础 | n. | 二元经济 |
-| 基础 | n. | 外围 |
-| 基础 | n. | 瓶颈 |
-| 基础 | n. | 数理能力 |
-| 基础 | n. | 算术 |
-| 基础 | n. | 人口结构优势 |
-| 基础 | 短语 | 抓住时机 |
-| 基础 | 短语 | 沉浸于 |
-| 基础 | 短语 | 虎头蛇尾 |
-| 基础 | n. | 结构改革 |
-| 基础 | n. | 头条数字 |
-| 进阶 | a | tech-and-manufacturing boom — 科技与制造热潮 |
-| 进阶 | shifting | supply chains away from China — 把供应链移出中国 |
-| 进阶 | a | narrow slice of the country — 国家的很小一部分 |
-| 进阶 | productivity | growth has stalled — 生产率增长停滞 |
-| 进阶 | make | it hard for small ones to hire — 让小企业难以招聘 |
-| 进阶 | a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |
-| 进阶 | strong | numeracy and problem-solving — 强大的数理与解题能力 |
-| 进阶 | make | its boom last — 让繁荣持续 |
-| 进阶 | diversifying | away from China — 从中国多元化转移 |
-| 进阶 | booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |
-| 进阶 | CDMO — 略 | bio 篇已学 |
-| 进阶 | IT | — 信息技术 |
-| 进阶 | GDP | — 国内生产总值 |
-| 进阶 | emerging | markets — 新兴市场 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 热潮、繁荣 |  |
+| n. | 风险投资 |  |
+| n. | 乐观 |  |
+| 短语 | 局限于 |  |
+| n. | 自给自足农民 |  |
+| v. | 停滞 |  |
+| v. | 停滞（工资） |  |
+| adj. | 不平衡的 |  |
+| v. | 蒸蒸日上 |  |
+| v. | 被挤压 |  |
+| n. | 非正规部门 |  |
+| n. | 二元经济 |  |
+| n. | 外围 |  |
+| n. | 瓶颈 |  |
+| n. | 数理能力 |  |
+| n. | 算术 |  |
+| n. | 人口结构优势 |  |
+| 短语 | 抓住时机 |  |
+| 短语 | 沉浸于 |  |
+| 短语 | 虎头蛇尾 |  |
+| n. | 结构改革 |  |
+| n. | 头条数字 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | tech-and-manufacturing boom — 科技与制造热潮 |  |
+| shifting | supply chains away from China — 把供应链移出中国 |  |
+| a | narrow slice of the country — 国家的很小一部分 |  |
+| productivity | growth has stalled — 生产率增长停滞 |  |
+| make | it hard for small ones to hire — 让小企业难以招聘 |  |
+| a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |  |
+| strong | numeracy and problem-solving — 强大的数理与解题能力 |  |
+| make | its boom last — 让繁荣持续 |  |
+| diversifying | away from China — 从中国多元化转移 |  |
+| booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |  |
+| CDMO — 略 | bio 篇已学 |  |
+| IT | — 信息技术 |  |
+| GDP | — 国内生产总值 |  |
+| emerging | markets — 新兴市场 |  |
 
 ## 三、长难句专项
 

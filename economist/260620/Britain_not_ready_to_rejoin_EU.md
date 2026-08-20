@@ -1016,58 +1016,63 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | v. | 转述、借用（……的话） |
-| 基础 | v. | 被冲击、受打击 |
-| 基础 | v. | 飙升 |
-| 基础 | n. | 魔法思维 |
-| 基础 | v. | 认真应对 |
-| 基础 | adj. | 漫无方向 |
-| 基础 | 短语 | 被压得喘不过气 |
-| 基础 | v. | 集结 |
-| 基础 | n. | 重大失误 |
-| 基础 | v. | 蒸发、破灭 |
-| 基础 | v. | 插手、干涉 |
-| 基础 | v. | 长篇训斥、指责 |
-| 基础 | v. | 减轻 |
-| 基础 | v. | 削弱 |
-| 基础 | n. | 银弹、万灵药 |
-| 基础 | 短语 | 痴迷于 |
-| 基础 | n. | 买家懊悔 |
-| 基础 | v. | 挥霍、糟蹋 |
-| 基础 | adj. | 死气沉沉、濒临停滞 |
-| 基础 | adj. | 微不足道的 |
-| 基础 | v. | 掐住、抑制 |
-| 基础 | adj. | 敌视 |
-| 基础 | v. | 偿还债务 |
-| 基础 | adj. | 吞噬一切的 |
-| 基础 | n. | 极端疑欧派 |
-| 基础 | 短语 | 对……警惕 |
-| 基础 | v. | 下放权力 |
-| 基础 | v. | 灌输 |
-| 基础 | 短语 | 拒不承认 |
-| 进阶 | lost | a continent but not yet found a role — 失去大陆却没找到角色 |
-| 进阶 | more | divided, less influential and poorer — 更分裂、更没影响力、更穷 |
-| 进阶 | take back control — 夺回控制权 | 口号 |
-| 进阶 | lay | ... on a single cause — 归咎于单一原因 |
-| 进阶 | live | up to its potential — 发挥潜力 |
-| 进阶 | Singapore-on-Thames | — 泰晤士河畔新加坡 |
-| 进阶 | get Brexit done — 完成脱欧 | 口号 |
-| 进阶 | the | doomed search for silver bullets — 注定失败的寻找银弹 |
-| 进阶 | a | recipe for disaster — 灾难配方 |
-| 进阶 | against | the backdrop of — 在……背景下 |
-| 进阶 | boost | productivity — 提振生产率 |
-| 进阶 | remove | barriers to trade — 消除贸易壁垒 |
-| 进阶 | all-consuming | distraction — 吞噬一切的分心 |
-| 进阶 | someone, | somewhere giving something up — 总有人要割肉 |
-| 进阶 | pocket | all the gains — 独吞收益 |
-| 进阶 | a | Thatcher-style shaking — 撒切尔式的震撼 |
-| 进阶 | semi-detached — 半脱离的 | 双关英国住宅类型 |
-| 进阶 | net-zero | policy — 净零政策 |
-| 进阶 | veto-points | — 否决点 |
-| 进阶 | welfare | state — 福利国家 |
-| 进阶 | reinvigoration | — 振兴 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 转述、借用（……的话） |  |
+| v. | 被冲击、受打击 |  |
+| v. | 飙升 |  |
+| n. | 魔法思维 |  |
+| v. | 认真应对 |  |
+| adj. | 漫无方向 |  |
+| 短语 | 被压得喘不过气 |  |
+| v. | 集结 |  |
+| n. | 重大失误 |  |
+| v. | 蒸发、破灭 |  |
+| v. | 插手、干涉 |  |
+| v. | 长篇训斥、指责 |  |
+| v. | 减轻 |  |
+| v. | 削弱 |  |
+| n. | 银弹、万灵药 |  |
+| 短语 | 痴迷于 |  |
+| n. | 买家懊悔 |  |
+| v. | 挥霍、糟蹋 |  |
+| adj. | 死气沉沉、濒临停滞 |  |
+| adj. | 微不足道的 |  |
+| v. | 掐住、抑制 |  |
+| adj. | 敌视 |  |
+| v. | 偿还债务 |  |
+| adj. | 吞噬一切的 |  |
+| n. | 极端疑欧派 |  |
+| 短语 | 对……警惕 |  |
+| v. | 下放权力 |  |
+| v. | 灌输 |  |
+| 短语 | 拒不承认 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lost | a continent but not yet found a role — 失去大陆却没找到角色 |  |
+| more | divided, less influential and poorer — 更分裂、更没影响力、更穷 |  |
+| take back control — 夺回控制权 | 口号 |  |
+| lay | ... on a single cause — 归咎于单一原因 |  |
+| live | up to its potential — 发挥潜力 |  |
+| Singapore-on-Thames | — 泰晤士河畔新加坡 |  |
+| get Brexit done — 完成脱欧 | 口号 |  |
+| the | doomed search for silver bullets — 注定失败的寻找银弹 |  |
+| a | recipe for disaster — 灾难配方 |  |
+| against | the backdrop of — 在……背景下 |  |
+| boost | productivity — 提振生产率 |  |
+| remove | barriers to trade — 消除贸易壁垒 |  |
+| all-consuming | distraction — 吞噬一切的分心 |  |
+| someone, | somewhere giving something up — 总有人要割肉 |  |
+| pocket | all the gains — 独吞收益 |  |
+| a | Thatcher-style shaking — 撒切尔式的震撼 |  |
+| semi-detached — 半脱离的 | 双关英国住宅类型 |  |
+| net-zero | policy — 净零政策 |  |
+| veto-points | — 否决点 |  |
+| welfare | state — 福利国家 |  |
+| reinvigoration | — 振兴 |  |
 
 ## 三、长难句专项
 

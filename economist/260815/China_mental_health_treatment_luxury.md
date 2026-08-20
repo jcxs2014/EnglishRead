@@ -907,40 +907,49 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | struggle with | 与……作斗争 |
-| 基础 | seek help | 寻求帮助 |
-| 基础 | seek counselling | 寻求咨询 |
-| 基础 | take advantage of | 利用 |
-| 基础 | step up | 加强 |
-| 基础 | point to | 指出 |
-| 基础 | remain | 仍然 |
-| 基础 | counselling sessions | 咨询疗程 |
-| 基础 | overthinking | 过度思考 |
-| 基础 | prevalence | 患病率 |
-| 基础 | social stigma | 社会污名 |
-| 基础 | turning-point | 转折点 |
-| 基础 | spikes | 激增 |
-| 基础 | out of bounds | 禁止进入 |
-| 基础 | crisis intervention | 危机干预 |
-| 基础 | remedial class | 补习课 |
-| 基础 | the better-off | 富裕阶层 |
-| 基础 | nascent | 新兴的/初生的 |
-| 基础 | unregulated | 不受监管的 |
-| 基础 | sparse data | 稀疏数据 |
-| 基础 | underestimate | 低估 |
-| 基础 | prevail | 盛行/普遍存在 |
-| 基础 | acknowledge | 承认 |
-| 基础 | a spate of | 一系列（坏事） |
-| 基础 | perceived unfairness | 感受到的不公正 |
-| 基础 | mania for | 对……的狂热 |
-| 基础 | free-for-all | 混战/大乱斗 |
-| 基础 | malpractice | 不当行为/玩忽职守 |
-| 基础 | abound | 大量存在 |
-| 基础 | expends energy | 投入精力 |
-| 基础 | chip away against | 逐渐打破 |
-| 基础 | entails | 需要/牵涉 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nascent | 新兴的/初生的 | 原句 6 |
+| unregulated | 不受监管的 | 原句 6 |
+| sparse data | 稀疏数据 | 原句 9 |
+| underestimate | 低估 | 原句 9 |
+| prevail | 盛行/普遍存在 | 原句 11 |
+| acknowledge | 承认 | 原句 11 |
+| a spate of | 一系列（坏事） | 原句 25 |
+| perceived unfairness | 感受到的不公正 | 原句 26 |
+| mania for | 对……的狂热 | 原句 27 |
+| free-for-all | 混战/大乱斗 | 原句 34 |
+| malpractice | 不当行为/玩忽职守 | 原句 35 |
+| abound | 大量存在 | 原句 35 |
+| expends energy | 投入精力 | 原句 37 |
+| chip away against | 逐渐打破 | 原句 43 |
+| entails | 需要/牵涉 | 原句 45 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| counselling sessions | 咨询疗程 | 原句 1 |
+| overthinking | 过度思考 | 原句 2 |
+| prevalence | 患病率 | 原句 7, 8 |
+| social stigma | 社会污名 | 原句 11 |
+| turning-point | 转折点 | 原句 12 |
+| spikes | 激增 | 原句 13 |
+| out of bounds | 禁止进入 | 原句 15 |
+| crisis intervention | 危机干预 | 原句 20 |
+| remedial class | 补习课 | 原句 44 |
+| the better-off | 富裕阶层 | 原句 48 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| struggle with | 与……作斗争 | 原句 3 |
+| seek help | 寻求帮助 | 原句 5 |
+| seek counselling | 寻求咨询 | 原句 14 |
+| take advantage of | 利用 | 原句 18 |
+| step up | 加强 | 原句 27 |
+| point to | 指出 | 原句 29 |
+| remain | 仍然 | 原句 5, 30, 48 |
 
 ## 长难句专项
 
@@ -1036,6 +1045,14 @@
 3. **多角度审视**：既展示积极趋势（认知提升），也揭示深层问题（维稳动机、经济障碍）
 4. **讽刺性评论**：如 "mania for lists and slogans"、AI 聊天机器人的对比
 5. **首尾呼应**：标题 "luxury" 在结尾句重现
+
+### 核心词汇家族
+- **心理健康**：mental health, mental illness, mental disorders, mental distress, psychological support
+- **治疗**：counselling, therapy, psychotherapy, treatment, intervention
+- **污名**：stigma, reluctance to acknowledge, insult, shenjingbing
+- **监管**：regulated, unregulated, licence, codes of ethics, malpractice
+
+---
 
 ## 可迁移表达
 

@@ -397,3 +397,83 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+| 词/短语 | 核心义 | 本文语境 |
+| --- | --- | --- |
+| plagued by | 深受……之苦 | 中国被 manosphere 困扰 |
+| vitriol | 恶毒谩骂 | 当局容忍的网络谩骂 |
+| crackdown on | 打击 | 对"极端女权"的整治 |
+| singledom | 单身状态 | 被列为有害内容 |
+| consolidated power | 集权 | 习集权与边缘化女性同步 |
+| sidelined | 被边缘化 | 女性被边缘化 |
+| browbeating | 训斥压制 | 党的方案是训斥女性 |
+| conjure up | 凭空变出 | 变不出缺失的女性 |
+| alleviate | 缓解 | 缓解局面 |
+| woefully inadequate | 严重不足 | 法律执行不力 |
+| enforcement | 执法 | 法律执行 |
+| hasten the end of | 加速终结 | 离婚公平终结彩礼 |
+| extortionate | 漫天要价 | 被禁的彩礼 |
+| set great store by | 十分看重 | 父母看重彩礼 |
+| lower the hurdles | 降低门槛 | 住房就业门槛 |
+| stand in the way of | 阻碍 | 挡在婚姻路上 |
+| vast tracts of | 大片 | 未售住房 |
+| foreign impositions | 外来强加 | 传统主义者眼中 |
+| chiding | 训斥 | 停止训斥女性 |
+
+### 2. 本文核心表达
+
+1. `plagued by one nonetheless` —— "没有译名却深受其害"的矛盾
+2. `every bit as poisonous as` —— 同级比较
+3. `censors rush to silence ... but tolerate ...` —— 选择性审查的双标
+4. `one symptom of a much broader problem` —— 症状/病因框架
+5. `At the heart of ... is a crushing error` —— 倒装判定句
+6. `not only fail to realise ... but also make ... miserable` —— 双输论证
+7. `hold up "half the sky" ... you would never know it today` —— 口号与现实反差
+8. `cannot conjure up ... But it could introduce policies` —— 转折建议
+9. `boost the marriage rate ... while improving the choices` —— 目的与手段
+10. `stopped chiding ... tried asking them for their opinions` —— 对话式收尾
+
+### 3. 重要语法
+
+- **倒装**：`At the heart of ... is a crushing error`（介词短语提前）
+- **虚拟语气**：`if they were assured of fair treatment ... might marry`（条件假设）
+- **not only ... but also**：`not only fail to realise ... but will also make ...`
+- **现在分词作条件/结果状语**：`Counting men aged 23-37 ...` / `converting it into ...`
+- **非限制性定语从句**：`which make it easier for newcomers to ...`
+- **主谓分隔**：`Recent relaxations ... are welcome`（插入长定语）
+- **see A as B**：`may see some of these ideas as foreign impositions`
+- **lead to + 动名词**：`led to millions of female fetuses being aborted`
+
+### 4. 长难句
+
+- 原句 2（表语从句嵌套）
+- 原句 16（三部分分号并列）
+- 原句 18（主谓分隔 + 长插入语）
+
+### 5. 写作技巧
+
+1. **"无译名却存在"的反讽开场**：用语言事实（没有 manosphere 译法）立起全篇支点，接着反转出"选择性审查"的矛盾
+2. **口号与现实的落差**：`half the sky` vs `never know it today`——用官方自己的口号反打官方政策
+3. **症状/病因框架**：manosphere 是症状，制度性性别歧视是病因——层层下挖
+4. **数据量化**：2250 万男性过剩、33% 婚配几率、127,300 元彩礼、六年储蓄——抽象批评都有数字支撑
+5. **可操作性药方**：不空谈"性别平等"，给出婚姻权利、离婚公平、住房、户籍四条具体政策
+6. **公正性**：肯定户籍放宽（are welcome）——批评并非全盘否定
+7. **对话式收尾**：`stopped chiding and tried asking`——最终主张是"倾听"，比直接要求更温和也更有力
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `plagued by` | 描述问题 | The industry is plagued by shortages. |
+| `At the heart of ... is` | 观点陈述 | At the heart of the debate is a question of fairness. |
+| `one symptom of a broader problem` | 病因分析 | The outage is a symptom of a broader infrastructure problem. |
+| `every bit as ... as` | 同级比较 | The sequel is every bit as good as the original. |
+| `consolidate power` | 政治分析 | The CEO consolidated power over the board. |
+| `woefully inadequate` | 批评不足 | The safety measures were woefully inadequate. |
+| `hasten the end of` | 预测变化 | The ruling hastened the end of the monopoly. |
+| `set great store by` | 价值观表达 | The firm sets great store by integrity. |
+| `lower the hurdles to` | 政策建议 | The reforms lowered the hurdles to starting a business. |
+| `stand in the way of` | 障碍分析 | Bureaucracy stands in the way of innovation. |
+| `conjure up` | 比喻"变出" | You cannot conjure up skilled workers overnight. |

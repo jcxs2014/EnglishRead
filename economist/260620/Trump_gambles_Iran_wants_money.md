@@ -559,48 +559,53 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | v. | 赌、下注 |
-| 基础 | n. | 制裁 |
-| 基础 | v. | 解冻 |
-| 基础 | 短语 | 让人联想到 |
-| 基础 | n. | 能力 |
-| 基础 | v. | 成文化、正式化 |
-| 基础 | n. | 核门槛国家 |
-| 基础 | n. | 储备 |
-| 基础 | adj. | 完整无损的 |
-| 基础 | v. | 制度化 |
-| 基础 | n. | 代理人战争 |
-| 基础 | v. | 壮胆、助长 |
-| 基础 | n. | 经济压力 |
-| 基础 | n. | 强硬派 |
-| 基础 | n. | 自满 |
-| 基础 | n. | 鹰派 |
-| 基础 | v. | 重新部署 |
-| 基础 | n. | 威慑 |
-| 基础 | n. | 遏制 |
-| 基础 | n. | 偶发情况、预案 |
-| 基础 | n. | 魔法思维 |
-| 进阶 | wants | money more than power — 要钱胜过要权力 |
-| 进阶 | make | a deal — 做交易 |
-| 进阶 | give | up their nuclear programme — 放弃核计划 |
-| 进阶 | buy | time — 买时间、拖延 |
-| 进阶 | put | the nuclear issue to bed — 让核问题告一段落 |
-| 进阶 | sprint | to a bomb — 冲刺造核弹 |
-| 进阶 | sit | back — 袖手旁观 |
-| 进阶 | redeploy | forces away from the region — 撤走该地区兵力 |
-| 进阶 | maintain | a robust deterrent — 保持强大威慑 |
-| 进阶 | rest | on verification and containment — 建立在核查与遏制上 |
-| 进阶 | manage | a problem rather than solve it — 管理而非解决问题 |
-| 进阶 | prepare | for that contingency — 为意外做预案 |
-| 进阶 | reach | for another round of negotiations — 再来一轮谈判 |
-| 进阶 | ballistic | missiles — 弹道导弹 |
-| 进阶 | the | Revolutionary Guards — 革命卫队 |
-| 进阶 | enriched | uranium — 浓缩铀 |
-| 进阶 | in | return — 作为回报 |
-| 进阶 | strengthen | the hand of — 增强……的力量 |
-| 进阶 | every | incentive ... none — 一切动机……毫无动机 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 赌、下注 |  |
+| n. | 制裁 |  |
+| v. | 解冻 |  |
+| 短语 | 让人联想到 |  |
+| n. | 能力 |  |
+| v. | 成文化、正式化 |  |
+| n. | 核门槛国家 |  |
+| n. | 储备 |  |
+| adj. | 完整无损的 |  |
+| v. | 制度化 |  |
+| n. | 代理人战争 |  |
+| v. | 壮胆、助长 |  |
+| n. | 经济压力 |  |
+| n. | 强硬派 |  |
+| n. | 自满 |  |
+| n. | 鹰派 |  |
+| v. | 重新部署 |  |
+| n. | 威慑 |  |
+| n. | 遏制 |  |
+| n. | 偶发情况、预案 |  |
+| n. | 魔法思维 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| wants | money more than power — 要钱胜过要权力 |  |
+| make | a deal — 做交易 |  |
+| give | up their nuclear programme — 放弃核计划 |  |
+| buy | time — 买时间、拖延 |  |
+| put | the nuclear issue to bed — 让核问题告一段落 |  |
+| sprint | to a bomb — 冲刺造核弹 |  |
+| sit | back — 袖手旁观 |  |
+| redeploy | forces away from the region — 撤走该地区兵力 |  |
+| maintain | a robust deterrent — 保持强大威慑 |  |
+| rest | on verification and containment — 建立在核查与遏制上 |  |
+| manage | a problem rather than solve it — 管理而非解决问题 |  |
+| prepare | for that contingency — 为意外做预案 |  |
+| reach | for another round of negotiations — 再来一轮谈判 |  |
+| ballistic | missiles — 弹道导弹 |  |
+| the | Revolutionary Guards — 革命卫队 |  |
+| enriched | uranium — 浓缩铀 |  |
+| in | return — 作为回报 |  |
+| strengthen | the hand of — 增强……的力量 |  |
+| every | incentive ... none — 一切动机……毫无动机 |  |
 
 ## 三、长难句专项
 

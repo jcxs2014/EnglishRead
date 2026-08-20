@@ -588,77 +588,78 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | banned for | 因……被禁 |
-| 基础 | has some merit | 有一定道理 |
-| 基础 | controversial | 有争议的 |
-| 基础 | left-wing influencers | 左翼网红 |
-| 基础 | blocked ... from entering | 被阻止做 |
-| 基础 | shabby behaviour | 卑鄙的行为 |
-| 基础 | sees itself as | 把自己视为 |
-| 基础 | the birthplace of free speech | 言论自由的发源地 |
-| 基础 | a cultural norm | 一种文化规范 |
-| 基础 | is eroded | 被侵蚀 |
-| 基础 | turned away at the border | 在边境被拒 |
-| 基础 | the home secretary | 内政大臣 |
-| 基础 | judged that | 判定 |
-| 基础 | conducive to | 有利于 |
-| 基础 | extraordinarily vague | 极其含糊的 |
-| 基础 | high-profile foreigners | 高知名度的外国人 |
-| 基础 | unhinged | 精神失常的 |
-| 基础 | ramblings | 胡言乱语 |
-| 基础 | was cited as justification | 被引为理由 |
-| 基础 | far-righters | 极右翼分子 |
-| 基础 | a rabble-rouser | 煽动者 |
-| 基础 | worryingly aggressive | 令人担忧地激进 |
-| 基础 | discretionary power | 自由裁量权 |
-| 基础 | afforded to | 被赋予 |
-| 基础 | sparingly | 克制地 |
-| 基础 | incitement to violence | 暴力煽动 |
-| 基础 | a history of such behaviour | 此类行为史 |
-| 基础 | hurtful, disturbing or disgusting | 伤人/不安/令人作呕 |
-| 基础 | the furore over | 关于……的激烈争议 |
-| 基础 | do not meet that threshold | 达不到门槛 |
-| 基础 | offensive | 冒犯的 |
-| 基础 | simply bonkers | 干脆是疯狂的 |
-| 基础 | once opined | 曾发表看法 |
-| 基础 | pose a threat to | 对……构成威胁 |
-| 基础 | any more than ... do | 并不比……更 |
-| 基础 | gave sanctuary to | 为……提供庇护 |
-| 基础 | social-media disciples | 社交媒体的信徒 |
-| 基础 | the likes of | 像……这样的人 |
-| 基础 | stop ... from hearing | 阻止……听到 |
-| 基础 | tune into | 收看、关注 |
-| 基础 | suppress their speech | 压制言论 |
-| 基础 | makes it more likely that | 使……更可能 |
-| 基础 | seek them out | 主动去找 |
-| 基础 | provocateurs | 挑衅者 |
-| 基础 | make their living from clicks | 靠点击量谋生 |
-| 基础 | keep out | 挡在外面 |
-| 基础 | whom its government dislikes | 政府不喜欢的 |
-| 基础 | no excuse | 不是借口 |
-| 基础 | press ... to | 敦促、施压做 |
-| 基础 | so casually | 如此随意 |
-| 基础 | blunt the tools | 削弱工具 |
-| 基础 | the rich and powerful | 富人和权贵 |
-| 基础 | intimidate or silence | 恐吓或使噤声 |
-| 基础 | ruinous costs | 毁灭性成本 |
-| 基础 | an egregious example | 极端恶劣的例子 |
-| 基础 | turned whistleblower | 变成举报人 |
-| 基础 | gagged by | 被堵住嘴 |
-| 基础 | a global non-disclosure agreement | 全球保密协议 |
-| 基础 | under siege | 遭受围攻 |
-| 基础 | it is shameful that | 令人羞耻的是 |
-| 基础 | once a bastion of tolerance | 曾经的宽容堡垒 |
-| 基础 | vigorous debate | 激烈的辩论 |
-| 基础 | censorious | 动辄审查的 |
-| 基础 | keep people safe from | 保护免受 |
-| 基础 | shield them from | 使他们免受 |
-| 基础 | makes a habit of | 养成……习惯 |
-| 基础 | create the impression that | 造成印象 |
-| 基础 | endorses the views | 认可观点 |
-| 基础 | lobby for bans | 游说要求禁令 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| banned for | 因……被禁 | Banned for speaking out. |
+| has some merit | 有一定道理 | The argument has merit. |
+| controversial | 有争议的 | A controversial figure. |
+| left-wing influencers | 左翼网红 | Political influencers. |
+| blocked ... from entering | 被阻止做 | Blocked from entering the country. |
+| shabby behaviour | 卑鄙的行为 | Shabby treatment. |
+| sees itself as | 把自己视为 | Sees itself as a leader. |
+| the birthplace of free speech | 言论自由的发源地 | The birthplace of democracy. |
+| a cultural norm | 一种文化规范 | A deeply held norm. |
+| is eroded | 被侵蚀 | Norms are eroded. |
+| turned away at the border | 在边境被拒 | Turned away at the border. |
+| the home secretary | 内政大臣 | The British home secretary. |
+| judged that | 判定 | Judged that it was unsafe. |
+| conducive to | 有利于 | Conducive to the public good. |
+| extraordinarily vague | 极其含糊的 | An extraordinarily vague term. |
+| high-profile foreigners | 高知名度的外国人 | A high-profile figure. |
+| unhinged | 精神失常的 | Unhinged ramblings. |
+| ramblings | 胡言乱语 | Nazi ramblings. |
+| was cited as justification | 被引为理由 | Cited as justification. |
+| far-righters | 极右翼分子 | Far-right activists. |
+| a rabble-rouser | 煽动者 | A racist rabble-rouser. |
+| worryingly aggressive | 令人担忧地激进 | A worryingly aggressive move. |
+| discretionary power | 自由裁量权 | Discretionary powers. |
+| afforded to | 被赋予 | Powers afforded to the minister. |
+| sparingly | 克制地 | Wield power sparingly. |
+| incitement to violence | 暴力煽动 | Incitement to hatred. |
+| a history of such behaviour | 此类行为史 | A history of violence. |
+| hurtful, disturbing or disgusting | 伤人/不安/令人作呕 | Hurtful comments. |
+| the furore over | 关于……的激烈争议 | A public furore. |
+| do not meet that threshold | 达不到门槛 | Meet the threshold. |
+| offensive | 冒犯的 | Offensive opinions. |
+| simply bonkers | 干脆是疯狂的 | An utterly bonkers idea. |
+| once opined | 曾发表看法 | Opined that. |
+| pose a threat to | 对……构成威胁 | Pose a threat to security. |
+| any more than ... do | 并不比……更 | No more than the others do. |
+| gave sanctuary to | 为……提供庇护 | Give sanctuary to refugees. |
+| social-media disciples | 社交媒体的信徒 | Online disciples. |
+| the likes of | 像……这样的人 | The likes of Mr West. |
+| stop ... from hearing | 阻止……听到 | Stop them from listening. |
+| tune into | 收看、关注 | Tune into the show. |
+| suppress their speech | 压制言论 | Suppress free speech. |
+| makes it more likely that | 使……更可能 | Make it more likely that. |
+| seek them out | 主动去找 | Seek out the truth. |
+| provocateurs | 挑衅者 | Political provocateurs. |
+| make their living from clicks | 靠点击量谋生 | Making a living from clicks. |
+| keep out | 挡在外面 | Keep out unwanted visitors. |
+| whom its government dislikes | 政府不喜欢的 | Whom the regime dislikes. |
+| no excuse | 不是借口 | Ignorance is no excuse. |
+| press ... to | 敦促、施压做 | Press the government to act. |
+| so casually | 如此随意 | Wield power casually. |
+| blunt the tools | 削弱工具 | Blunt the power. |
+| the rich and powerful | 富人和权贵 | The rich and powerful. |
+| intimidate or silence | 恐吓或使噤声 | Intimidate critics. |
+| ruinous costs | 毁灭性成本 | Ruinous legal costs. |
+| an egregious example | 极端恶劣的例子 | An egregious case. |
+| turned whistleblower | 变成举报人 | A manager turned whistleblower. |
+| gagged by | 被堵住嘴 | Gagged by an NDA. |
+| a global non-disclosure agreement | 全球保密协议 | A sweeping NDA. |
+| under siege | 遭受围攻 | Press freedom under siege. |
+| it is shameful that | 令人羞耻的是 | It is shameful that. |
+| once a bastion of tolerance | 曾经的宽容堡垒 | A bastion of democracy. |
+| vigorous debate | 激烈的辩论 | A vigorous public debate. |
+| censorious | 动辄审查的 | A censorious regime. |
+| keep people safe from | 保护免受 | Keep the public safe. |
+| shield them from | 使他们免受 | Shield children from. |
+| makes a habit of | 养成……习惯 | Make a habit of banning. |
+| create the impression that | 造成印象 | Create the impression. |
+| endorses the views | 认可观点 | Endorse the views. |
+| lobby for bans | 游说要求禁令 | Lobby for a ban. |
 
 ## 四、长难句专项
 

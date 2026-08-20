@@ -257,31 +257,36 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | bout | 一阵（病/活动） |
-| 基础 | sift through | 仔细筛选 |
-| 基础 | a drain on | 对……的消耗 |
-| 基础 | put a premium on | 使……被重视 |
-| 基础 | lavish A with B | 滥用、慷慨给予 |
-| 基础 | punchy | 简短有力的 |
-| 基础 | sycophant | 马屁精 |
-| 基础 | smarmy | 谄媚油滑的 |
-| 基础 | pretentious | 装腔作势的 |
-| 基础 | verbose | 冗长的 |
-| 进阶 | 词 | 说明 |
-| 进阶 | `reams of` | 大量（纸的量词引申义） |
-| 进阶 | spew out | 喷吐（贬义，产出） |
-| 进阶 | `slop` | 垃圾内容（近年新词 `AI slop`） |
-| 进阶 | baggy | 松垮的（指衣服/文风） |
-| 进阶 | wordsmith | 文字工匠 |
-| 进阶 | refine | 打磨、精炼 |
-| 进阶 | pushback | 反对、抵触 |
-| 进阶 | intermediary | 中介 |
-| 进阶 | off-key | 走调→不合时宜 |
-| 进阶 | redundant | 冗余的 |
-| 进阶 | commission | 委托创作（v./n.） |
-| 进阶 | maxim | 格言 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bout | 一阵（病/活动） | He recovered after a bout of pneumonia. |
+| sift through | 仔细筛选 | I sifted through the emails for the contract. |
+| a drain on | 对……的消耗 | Phone notifications are a drain on attention. |
+| put a premium on | 使……被重视 | Experience puts a premium on safety. |
+| lavish A with B | 滥用、慷慨给予 | Don't lavish the report with jargon. |
+| punchy | 简短有力的 | Short, punchy sentences read faster. |
+| sycophant | 马屁精 | He surrounds himself with sycophants. |
+| smarmy | 谄媚油滑的 | I dislike his smarmy compliments. |
+| pretentious | 装腔作势的 | The title is a bit pretentious. |
+| verbose | 冗长的 | Editors trim verbose prose. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| 词 | 说明 |  |
+| reams of | 大量（纸的量词引申义） |  |
+| spew out | 喷吐（贬义，产出） |  |
+| slop | 垃圾内容（近年新词 `AI slop`） |  |
+| baggy | 松垮的（指衣服/文风） |  |
+| wordsmith | 文字工匠 |  |
+| refine | 打磨、精炼 |  |
+| pushback | 反对、抵触 |  |
+| intermediary | 中介 |  |
+| off-key | 走调→不合时宜 |  |
+| redundant | 冗余的 |  |
+| commission | 委托创作（v./n.） |  |
+| maxim | 格言 |  |
 
 ## 核心表达（可直接迁移）
 

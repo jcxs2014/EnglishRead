@@ -356,47 +356,52 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | 短语 | 本土化 |
-| 基础 | n. | 异国进口品 |
-| 基础 | 短语 | 局限于 |
-| 基础 | n. | 二线城市 |
-| 基础 | 短语 | ……的标志 |
-| 基础 | n. | 海关数据 |
-| 基础 | adv. | 全年 |
-| 基础 | adj. | 注重健康的 |
-| 基础 | 短语 | 付溢价 |
-| 基础 | 短语 | 突然流行 |
-| 基础 | n. | 驱动因素 |
-| 基础 | 短语 | 对……警惕 |
-| 基础 | n. | 有机标签 |
-| 基础 | v. | 放大 |
-| 基础 | 短语 | ……的主打 |
-| 基础 | adj. | 理想生活的 |
-| 基础 | v. | 传递信号 |
-| 基础 | n. | 陷阱、问题 |
-| 基础 | 短语 | 够不着 |
-| 基础 | n. | 富裕阶层 |
-| 基础 | n. | 大众 |
-| 基础 | 短语 | 调整适应 |
-| 基础 | v. | 被改造 |
-| 基础 | 短语 | 到一定程度 |
-| 进阶 | gone | native — 入乡随俗、本土化 |
-| 进阶 | from | Beijing to Chengdu — 从北京到成都 |
-| 进阶 | confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |
-| 进阶 | rising | health awareness — 日益增强的健康意识 |
-| 进阶 | wary | of what they eat — 对吃的东西警惕 |
-| 进阶 | a | vision of food that feels safe — 让人感到安全的食物图景 |
-| 进阶 | shot | from the perfect angle — 从完美角度拍摄 |
-| 进阶 | aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |
-| 进阶 | five | times as much as a cabbage — 卷心菜的五倍 |
-| 进阶 | adapt | its menu to local tastes — 调整菜单适应当地口味 |
-| 进阶 | kale | — 羽衣甘蓝 |
-| 进阶 | quinoa | — 藜麦 |
-| 进阶 | chia | seeds — 奇亚籽 |
-| 进阶 | avocado | toast — 牛油果吐司 |
-| 进阶 | bubble-tea | — 珍珠奶茶 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| 短语 | 本土化 |  |
+| n. | 异国进口品 |  |
+| 短语 | 局限于 |  |
+| n. | 二线城市 |  |
+| 短语 | ……的标志 |  |
+| n. | 海关数据 |  |
+| adv. | 全年 |  |
+| adj. | 注重健康的 |  |
+| 短语 | 付溢价 |  |
+| 短语 | 突然流行 |  |
+| n. | 驱动因素 |  |
+| 短语 | 对……警惕 |  |
+| n. | 有机标签 |  |
+| v. | 放大 |  |
+| 短语 | ……的主打 |  |
+| adj. | 理想生活的 |  |
+| v. | 传递信号 |  |
+| n. | 陷阱、问题 |  |
+| 短语 | 够不着 |  |
+| n. | 富裕阶层 |  |
+| n. | 大众 |  |
+| 短语 | 调整适应 |  |
+| v. | 被改造 |  |
+| 短语 | 到一定程度 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gone | native — 入乡随俗、本土化 |  |
+| from | Beijing to Chengdu — 从北京到成都 |  |
+| confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |  |
+| rising | health awareness — 日益增强的健康意识 |  |
+| wary | of what they eat — 对吃的东西警惕 |  |
+| a | vision of food that feels safe — 让人感到安全的食物图景 |  |
+| shot | from the perfect angle — 从完美角度拍摄 |  |
+| aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |  |
+| five | times as much as a cabbage — 卷心菜的五倍 |  |
+| adapt | its menu to local tastes — 调整菜单适应当地口味 |  |
+| kale | — 羽衣甘蓝 |  |
+| quinoa | — 藜麦 |  |
+| chia | seeds — 奇亚籽 |  |
+| avocado | toast — 牛油果吐司 |  |
+| bubble-tea | — 珍珠奶茶 |  |
 
 ## 三、长难句专项
 

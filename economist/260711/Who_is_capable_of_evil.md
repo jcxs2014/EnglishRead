@@ -591,111 +591,120 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | responsible for | 对……负责 |
-| 基础 | depends on | 取决于 |
-| 基础 | Given how | 鉴于如何 |
-| 基础 | character develops | 性格发展 |
-| 基础 | hold ... to be | 认定 |
-| 基础 | heinous | 令人发指的 |
-| 基础 | In the eyes of the law | 法律眼中 |
-| 基础 | grasp the consequences | 理解后果 |
-| 基础 | reckoned to be | 被认为 |
-| 基础 | doli incapax | 无作恶能力 |
-| 基础 | incapable of | 无能力 |
-| 基础 | raises a question | 引出问题 |
-| 基础 | old enough to count | 大到作数 |
-| 基础 | in wildly different ways | 迥异方式 |
-| 基础 | wrestle with | 苦思 |
-| 基础 | criminal responsibility | 刑事责任 |
-| 基础 | regrettably | 遗憾地 |
-| 基础 | lawmakers | 立法者 |
-| 基础 | pushing ... downwards | 往下压 |
-| 基础 | lowered ... from ... to | 降低 |
-| 基础 | scourge | 祸害 |
-| 基础 | blocked a motion | 否决动议 |
-| 基础 | the joint-lowest | 并列最低 |
-| 基础 | well-publicised | 广为人知 |
-| 基础 | horrified | 吓坏 |
-| 基础 | stabbed | 捅刺 |
-| 基础 | shot and killed | 枪杀 |
-| 基础 | campaigning to be | 竞选 |
-| 基础 | recruit | 招募 |
-| 基础 | foot soldiers | 马仔 |
-| 基础 | pliable | 易摆布 |
-| 基础 | impulse-control | 冲动控制 |
-| 基础 | possess | 拥有 |
-| 基础 | Neuroscientists | 神经科学家 |
-| 基础 | well into | 深入 |
-| 基础 | enticed into | 诱入 |
-| 基础 | the promise of quick money | 快钱承诺 |
-| 基础 | calculate | 盘算 |
-| 基础 | dodge punishment | 逃避惩罚 |
-| 基础 | if caught | 若被抓 |
-| 基础 | drug-dealers | 毒贩 |
-| 基础 | precisely because | 恰恰因为 |
-| 基础 | under-age | 未成年 |
-| 基础 | criminalise | 定罪 |
-| 基础 | ever younger | 越来越小 |
-| 基础 | remove an incentive for | 消除动机 |
-| 基础 | should reconsider | 应重想 |
-| 基础 | if only because | 仅仅因为 |
-| 基础 | unjust | 不公正 |
-| 基础 | the low teens | 十三四岁 |
-| 基础 | heed | 重视 |
-| 基础 | Experience suggests | 经验表明 |
-| 基础 | crime rates rose | 犯罪率上升 |
-| 基础 | reversed course | 掉头 |
-| 基础 | Prosecuting | 起诉 |
-| 基础 | hardened villains | 铁杆罪犯 |
-| 基础 | emerge from | 走出 |
-| 基础 | counted as | 被算作 |
-| 基础 | released from prison | 获释 |
-| 基础 | reoffend | 再犯 |
-| 基础 | rehabilitation | 改造 |
-| 基础 | securing ... away from | 隔离 |
-| 基础 | wrongdoers | 犯罪者 |
-| 基础 | rather than punishing | 与其惩罚 |
-| 基础 | tackle | 解决 |
-| 基础 | drew them into | 卷入 |
-| 基础 | criminality | 犯罪（状态） |
-| 基础 | the youth-justice system | 少年司法 |
-| 基础 | learning difficulties | 学习障碍 |
-| 基础 | mentors | 导师 |
-| 基础 | investigated for | 因……被查 |
-| 基础 | flagged to | 标记报告 |
-| 基础 | worrying behaviour | 担忧行为 |
-| 基础 | wrongdoing | 恶行 |
-| 基础 | severe criminal penalties | 严厉刑罚 |
-| 基础 | exploit the young | 剥削年轻人 |
-| 基础 | create better childhoods | 更好童年 |
-| 基础 | prevent ... from becoming | 防止变成 |
-| 进阶 | judge | 判断 |
-| 进阶 | the least mature | 最不成熟者 |
-| 进阶 | defining | 界定 |
-| 进阶 | the Maldives | 马尔代夫 |
-| 进阶 | South Korea | 韩国 |
-| 进阶 | voters | 选民 |
-| 进阶 | dramatic | 轰动性的 |
-| 进阶 | the mid-20s | 25 岁左右 |
-| 进阶 | teens | 十几岁 |
-| 进阶 | authorities | 当局 |
-| 进阶 | Denmark | 丹麦 |
-| 进阶 | Queensland | 昆士兰 |
-| 进阶 | Australia | 澳大利亚 |
-| 进阶 | prison | 监狱 |
-| 进阶 | society | 社会 |
-| 进阶 | social problems | 社会问题 |
-| 进阶 | social services | 社会服务 |
-| 高级 | doli incapax | 无作恶能力（拉丁） |
-| 高级 | Argentina | 阿根廷 |
-| 高级 | Northern Ireland | 北爱尔兰 |
-| 高级 | Colombia | 哥伦比亚 |
-| 高级 | Indonesia | 印度尼西亚 |
-| 高级 | Sweden | 瑞典 |
-| 高级 | Britain | 英国 |
-| 高级 | the age of 12 | 12 岁 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| responsible for | 对……负责 | Held responsible for the damage. |
+| depends on | 取决于 | The sentence depends on age. |
+| Given how | 鉴于如何 | Given how hard it is. |
+| character develops | 性格发展 | Character develops over time. |
+| hold ... to be | 认定 | Held to be responsible. |
+| heinous | 令人发指的 | A heinous murder. |
+| In the eyes of the law | 法律眼中 | In the eyes of the law. |
+| grasp the consequences | 理解后果 | Can't grasp the consequences. |
+| reckoned to be | 被认为 | Reckoned to be the best. |
+| doli incapax | 无作恶能力 | The doli incapax doctrine. |
+| incapable of | 无能力 | Incapable of evil. |
+| raises a question | 引出问题 | This raises a question. |
+| old enough to count | 大到作数 | Every vote counts. |
+| in wildly different ways | 迥异方式 | Vary wildly. |
+| wrestle with | 苦思 | Wrestling with the problem. |
+| criminal responsibility | 刑事责任 | The age of criminal responsibility. |
+| regrettably | 遗憾地 | Regrettably, we must cancel. |
+| lawmakers | 立法者 | Lawmakers voted. |
+| pushing ... downwards | 往下压 | Pushing prices down. |
+| lowered ... from ... to | 降低 | Lowered the age from 16 to 14. |
+| scourge | 祸害 | The scourge of gangs. |
+| blocked a motion | 否决动议 | Blocked the motion. |
+| the joint-lowest | 并列最低 | Joint-lowest in Europe. |
+| well-publicised | 广为人知 | A well-publicised scandal. |
+| horrified | 吓坏 | Horrified by the news. |
+| stabbed | 捅刺 | Stabbed in the chest. |
+| shot and killed | 枪杀 | Shot and killed a man. |
+| campaigning to be | 竞选 | Campaigning for president. |
+| recruit | 招募 | Recruited by gangs. |
+| foot soldiers | 马仔 | Gang foot soldiers. |
+| pliable | 易摆布 | Pliable and easily led. |
+| impulse-control | 冲动控制 | Poor impulse control. |
+| possess | 拥有 | Possess the skills. |
+| Neuroscientists | 神经科学家 | Neuroscientists warn. |
+| well into | 深入 | Well into the night. |
+| enticed into | 诱入 | Enticed into crime. |
+| the promise of quick money | 快钱承诺 | The promise of riches. |
+| calculate | 盘算 | Calculated the risks. |
+| dodge punishment | 逃避惩罚 | Dodged justice. |
+| if caught | 若被抓 | If caught, confess. |
+| drug-dealers | 毒贩 | Drug dealers. |
+| precisely because | 恰恰因为 | Precisely because it's risky. |
+| under-age | 未成年 | Under-age drinking. |
+| criminalise | 定罪 | Criminalise the act. |
+| ever younger | 越来越小 | Ever younger kids. |
+| remove an incentive for | 消除动机 | Removed the incentive. |
+| should reconsider | 应重想 | Reconsider the decision. |
+| if only because | 仅仅因为 | If only because it's cheaper. |
+| unjust | 不公正 | An unjust law. |
+| the low teens | 十三四岁 | Children in the low teens. |
+| heed | 重视 | Heed the advice. |
+| Experience suggests | 经验表明 | Experience suggests otherwise. |
+| crime rates rose | 犯罪率上升 | Rates rose. |
+| reversed course | 掉头 | Reversed course. |
+| Prosecuting | 起诉 | Prosecuted for theft. |
+| hardened villains | 铁杆罪犯 | Hardened criminals. |
+| emerge from | 走出 | Emerged from prison. |
+| counted as | 被算作 | Counted as adults. |
+| released from prison | 获释 | Released on bail. |
+| reoffend | 再犯 | Reoffending rates. |
+| rehabilitation | 改造 | Rehabilitation programmes. |
+| securing ... away from | 隔离 | Secured away from society. |
+| wrongdoers | 犯罪者 | Young wrongdoers. |
+| rather than punishing | 与其惩罚 | Rather than punish. |
+| tackle | 解决 | Tackle the problem. |
+| drew them into | 卷入 | Drawn into gangs. |
+| criminality | 犯罪（状态） | Driven to criminality. |
+| the youth-justice system | 少年司法 | The youth-justice system. |
+| learning difficulties | 学习障碍 | Children with learning difficulties. |
+| mentors | 导师 | Assign a mentor. |
+| investigated for | 因……被查 | Investigated for the crime. |
+| flagged to | 标记报告 | Flagged to authorities. |
+| worrying behaviour | 担忧行为 | Worrying signs. |
+| wrongdoing | 恶行 | Allegations of wrongdoing. |
+| severe criminal penalties | 严厉刑罚 | Severe penalties. |
+| exploit the young | 剥削年轻人 | Exploiting children. |
+| create better childhoods | 更好童年 | Better childhoods. |
+| prevent ... from becoming | 防止变成 | Prevent them from reoffending. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| judge | 判断 |  |
+| the least mature | 最不成熟者 |  |
+| defining | 界定 |  |
+| the Maldives | 马尔代夫 |  |
+| South Korea | 韩国 |  |
+| voters | 选民 |  |
+| dramatic | 轰动性的 |  |
+| the mid-20s | 25 岁左右 |  |
+| teens | 十几岁 |  |
+| authorities | 当局 |  |
+| Denmark | 丹麦 |  |
+| Queensland | 昆士兰 |  |
+| Australia | 澳大利亚 |  |
+| prison | 监狱 |  |
+| society | 社会 |  |
+| social problems | 社会问题 |  |
+| social services | 社会服务 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| doli incapax | 无作恶能力（拉丁） |  |
+| Argentina | 阿根廷 |  |
+| Northern Ireland | 北爱尔兰 |  |
+| Colombia | 哥伦比亚 |  |
+| Indonesia | 印度尼西亚 |  |
+| Sweden | 瑞典 |  |
+| Britain | 英国 |  |
+| the age of 12 | 12 岁 |  |
 
 ## 长难句专项
 

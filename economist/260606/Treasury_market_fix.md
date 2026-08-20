@@ -761,102 +761,103 @@
 
 ## 词汇分级
 
-| 难度 | 词汇 | 释义 |
-|------|------|------|
-| 基础 | control room | 控制室 |
-| 基础 | the night shift | 夜班 |
-| 基础 | a Treasury-bond dealer | 国债交易商 |
-| 基础 | is entering its fourth hour | 进入第四个小时 |
-| 基础 | fallen quiet | 归于沉寂 |
-| 基础 | the pre-dawn calm | 黎明前的寂静 |
-| 基础 | puts in an order | 下订单 |
-| 基础 | worth $100m | 价值 1 亿美元 |
-| 基础 | faces a choice | 面临选择 |
-| 基础 | pass up the trade | 放弃交易 |
-| 基础 | a liquid market | 流动性充足的市场 |
-| 基础 | an easy call | 容易的决定 |
-| 基础 | in the dead of the night | 深夜时分 |
-| 基础 | anything but | 绝不是 |
-| 基础 | has a problem | 有问题 |
-| 基础 | is decaying | 正在退化 |
-| 基础 | the world's most important bond market | 全球最重要的债券市场 |
-| 基础 | thinner | 更稀薄 |
-| 基础 | the cost of borrowing | 借贷成本 |
-| 基础 | concentrating in | 集中在 |
-| 基础 | electronic venues | 电子交易场所 |
-| 基础 | at moments of stress | 在压力时刻 |
-| 基础 | the amount of debt being issued | 正在发行的债务量 |
-| 基础 | reached record levels | 达创纪录水平 |
-| 基础 | that matters | 这很重要 |
-| 基础 | the plumbing of global finance | 全球金融的管道 |
-| 基础 | collateral | 抵押品 |
-| 基础 | underpins | 支撑、奠定 |
-| 基础 | the benchmark for | ……的基准 |
-| 基础 | enormous | 巨大的 |
-| 基础 | outstanding | 未偿还的 |
-| 基础 | change hands | 易手 |
-| 基础 | earn their living | 谋生 |
-| 基础 | facilitating | 促成 |
-| 基础 | increasingly finding it difficult | 越来越难 |
-| 基础 | reluctant to | 不愿做 |
-| 基础 | balance-sheets | 资产负债表 |
-| 基础 | provide liquidity | 提供流动性 |
-| 基础 | hedge funds | 对冲基金 |
-| 基础 | have moved in instead | 取而代之 |
-| 基础 | a shortage of | 短缺 |
-| 基础 | in short supply | 供不应求 |
-| 基础 | thanks to | 得益于 |
-| 基础 | regulations introduced | 被引入的监管 |
-| 基础 | in effect | 实际上 |
-| 基础 | tied up | 被锁住、占用 |
-| 基础 | clearing systems | 清算系统 |
-| 基础 | were designed to make it safer | 本为让它更安全 |
-| 基础 | to put that in context | 为说明这一点 |
-| 基础 | holds | 容纳、持有 |
-| 基础 | of which | 其中 |
-| 基础 | floating-rate bonds | 浮动利率债券 |
-| 基础 | alone | 仅、单独 |
-| 基础 | bigger than every other | 比任何其他都大 |
-| 基础 | collateralised | 被用作抵押品 |
-| 基础 | into this picture | 在这个图景中 |
-| 基础 | steps | 登场（倒装） |
-| 基础 | used to be marginal | 曾经是边缘的 |
-| 基础 | in the hope that | 指望 |
-| 基础 | the difference between | 之间的差额 |
-| 基础 | a levered bet | 杠杆赌注 |
-| 基础 | widens | 扩大 |
-| 基础 | the basis trade | 利差交易 |
-| 基础 | relies on | 依赖 |
-| 基础 | the repo market | 回购市场 |
-| 基础 | agrees to buy it back | 约定买回 |
-| 基础 | at a slightly higher price | 以略高的价格 |
-| 基础 | abundant | 充裕的 |
-| 基础 | repo rates | 回购利率 |
-| 基础 | cash scarce | 现金稀缺 |
-| 基础 | spiked above | 飙升至之上 |
-| 基础 | the federal funds rate | 联邦基金利率 |
-| 基础 | the obvious remedy | 显而易见的解药 |
-| 基础 | let ... into the market | 让……进入市场 |
-| 基础 | have proposed several ideas | 提出几个方案 |
-| 基础 | expanding netting for repos | 扩大回购净额结算 |
-| 基础 | offset their positions | 抵销头寸 |
-| 基础 | the bigger prize | 更大的目标 |
-| 基础 | a central counterparty | 中央对手方 |
-| 基础 | net trades | 净额结算交易 |
-| 基础 | not about ... but about | 不是……而是…… |
-| 基础 | whether to have | 要不要有 |
-| 基础 | in particular | 尤其 |
-| 基础 | there is a debate about | 有关于……的争论 |
-| 基础 | repo dealers | 回购做市商 |
-| 基础 | argue that | 主张 |
-| 基础 | more aggressively | 更积极 |
-| 基础 | worry that | 担心 |
-| 基础 | take on too much risk | 承担过多风险 |
-| 基础 | does not need surprises | 不需要惊喜 |
-| 基础 | needs a solution | 需要一个方案 |
-| 基础 | the ancestor of all markets | 所有市场的祖先 |
-| 基础 | if it is decaying | 如果它在退化 |
-| 基础 | something must be done | 必须做点什么 |
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| control room | 控制室 | The dealer's control room. |
+| the night shift | 夜班 | Working the night shift. |
+| a Treasury-bond dealer | 国债交易商 | Treasury dealers. |
+| is entering its fourth hour | 进入第四个小时 | Entering the fourth hour. |
+| fallen quiet | 归于沉寂 | The market has fallen quiet. |
+| the pre-dawn calm | 黎明前的寂静 | In the pre-dawn calm. |
+| puts in an order | 下订单 | Put in an order to sell. |
+| worth $100m | 价值 1 亿美元 | Bonds worth $100m. |
+| faces a choice | 面临选择 | Face a tough choice. |
+| pass up the trade | 放弃交易 | Pass up a deal. |
+| a liquid market | 流动性充足的市场 | A deep and liquid market. |
+| an easy call | 容易的决定 | It was an easy call. |
+| in the dead of the night | 深夜时分 | In the dead of night. |
+| anything but | 绝不是 | Anything but easy. |
+| has a problem | 有问题 | The system has a problem. |
+| is decaying | 正在退化 | A decaying system. |
+| the world's most important bond market | 全球最重要的债券市场 | The most important market. |
+| thinner | 更稀薄 | Trading is thinner. |
+| the cost of borrowing | 借贷成本 | The cost of borrowing. |
+| concentrating in | 集中在 | Liquidity concentrates in. |
+| electronic venues | 电子交易场所 | Electronic trading venues. |
+| at moments of stress | 在压力时刻 | At times of stress. |
+| the amount of debt being issued | 正在发行的债务量 | Debt being issued. |
+| reached record levels | 达创纪录水平 | Reach record levels. |
+| that matters | 这很重要 | It matters. |
+| the plumbing of global finance | 全球金融的管道 | The plumbing of the financial system. |
+| collateral | 抵押品 | Post collateral. |
+| underpins | 支撑、奠定 | Underpin the system. |
+| the benchmark for | ……的基准 | A benchmark for borrowing. |
+| enormous | 巨大的 | An enormous market. |
+| outstanding | 未偿还的 | Bonds outstanding. |
+| change hands | 易手 | Bonds change hands daily. |
+| earn their living | 谋生 | Earn a living. |
+| facilitating | 促成 | Facilitate trade. |
+| increasingly finding it difficult | 越来越难 | Finding it hard to compete. |
+| reluctant to | 不愿做 | Reluctant to lend. |
+| balance-sheets | 资产负债表 | Use the balance-sheet. |
+| provide liquidity | 提供流动性 | Liquidity provision. |
+| hedge funds | 对冲基金 | Hedge funds stepped in. |
+| have moved in instead | 取而代之 | Move in to fill the gap. |
+| a shortage of | 短缺 | A shortage of funds. |
+| in short supply | 供不应求 | Housing is in short supply. |
+| thanks to | 得益于 | Thanks to the new rules. |
+| regulations introduced | 被引入的监管 | Regulations introduced after 2008. |
+| in effect | 实际上 | In effect, it's the same. |
+| tied up | 被锁住、占用 | Capital tied up. |
+| clearing systems | 清算系统 | Central clearing. |
+| were designed to make it safer | 本为让它更安全 | Designed to protect. |
+| to put that in context | 为说明这一点 | Put the numbers in context. |
+| holds | 容纳、持有 | The market holds debt. |
+| of which | 其中 | Of which $7trn. |
+| floating-rate bonds | 浮动利率债券 | Floating-rate notes. |
+| alone | 仅、单独 | The US alone. |
+| bigger than every other | 比任何其他都大 | Bigger than every other market. |
+| collateralised | 被用作抵押品 | Collateralised debt. |
+| into this picture | 在这个图景中 | Enter the picture. |
+| steps | 登场（倒装） | Into the room steps a stranger. |
+| used to be marginal | 曾经是边缘的 | A marginal player. |
+| in the hope that | 指望 | In the hope that prices rise. |
+| the difference between | 之间的差额 | The difference between the two rates. |
+| a levered bet | 杠杆赌注 | A leveraged bet. |
+| widens | 扩大 | The gap widened. |
+| the basis trade | 利差交易 | The basis between futures and cash. |
+| relies on | 依赖 | Relies on funding. |
+| the repo market | 回购市场 | Repo rates. |
+| agrees to buy it back | 约定买回 | Agree to buy back. |
+| at a slightly higher price | 以略高的价格 | A slightly higher price. |
+| abundant | 充裕的 | Cash is abundant. |
+| repo rates | 回购利率 | Repo rates spiked. |
+| cash scarce | 现金稀缺 | Scarce cash. |
+| spiked above | 飙升至之上 | Rates spiked. |
+| the federal funds rate | 联邦基金利率 | The Fed funds rate. |
+| the obvious remedy | 显而易见的解药 | A remedy for the problem. |
+| let ... into the market | 让……进入市场 | Let capital into the market. |
+| have proposed several ideas | 提出几个方案 | Proposed ideas. |
+| expanding netting for repos | 扩大回购净额结算 | Netting agreements. |
+| offset their positions | 抵销头寸 | Offset exposures. |
+| the bigger prize | 更大的目标 | The prize is a CCP. |
+| a central counterparty | 中央对手方 | A CCP clears trades. |
+| net trades | 净额结算交易 | Netting trades. |
+| not about ... but about | 不是……而是…… | Not about whether, but about how. |
+| whether to have | 要不要有 | Whether to build it. |
+| in particular | 尤其 | In particular, the role. |
+| there is a debate about | 有关于……的争论 | A debate about. |
+| repo dealers | 回购做市商 | Repo dealers. |
+| argue that | 主张 | Banks argue that. |
+| more aggressively | 更积极 | Lend more aggressively. |
+| worry that | 担心 | Regulators worry that. |
+| take on too much risk | 承担过多风险 | Take on risk. |
+| does not need surprises | 不需要惊喜 | No surprises in the market. |
+| needs a solution | 需要一个方案 | A solution is needed. |
+| the ancestor of all markets | 所有市场的祖先 | The ancestor of the bond market. |
+| if it is decaying | 如果它在退化 | If the system is decaying. |
+| something must be done | 必须做点什么 | Something must be done. |
 
 ## 四、长难句专项
 
