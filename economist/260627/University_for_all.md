@@ -11,7 +11,7 @@
 
 ## 逐句精读
 
-### Paragraph 1
+### 第 1 段：
 
 **原句**
 > Academics have always moaned about their students. "Scholarly effort is in decline everywhere as never before," complained Egbert of Liège, an 11th-century know-it-all, in an age when not even a tenth of humans could read. Recently there have been lots of new worries about standards in colleges and universities—especially in America, home to many of the world's best. But this time, as our International section notes, the laxity is not just in lecturers' heads.
@@ -38,7 +38,7 @@
 
 ---
 
-### Paragraph 2
+### 第 2 段：
 
 **原句**
 > Maths professors report that they are having to pack freshers off to remedial courses before real learning can start. Some are turning up to university ignorant of things they should have learned early in secondary school. Lecturers in humanities warn that students are struggling to understand texts that a decade ago their counterparts would easily have grasped. Students increasingly ask for reading lists to be cut short.
@@ -66,7 +66,7 @@
 
 ---
 
-### Paragraph 3
+### 第 3 段：
 
 **原句**
 > Tests run by the OECD, a club of mostly rich countries, suggest that students in colleges and universities are less literate than they were a decade ago. The best are cleverer than ever, but a growing number have basic skills that would embarrass a child half their age. About one in seven students at American colleges and universities scores no better in literacy tests than a typical ten-year-old. For numeracy, it is nearly one in five.
@@ -93,7 +93,7 @@
 
 ---
 
-### Paragraph 4
+### 第 4 段：
 
 **原句**
 > One explanation is the harm to schooling from the pandemic. Another is the fact that, even before covid-19, school marks in America and in many other rich countries were already falling. At the same time, many colleges and universities have been lowering the bar for entry. In America they have largely stopped requiring applicants to sit tests of numerical and verbal reasoning, such as the SAT. Some believe those exercises are unfair to black and Hispanic students. Others are trying to get enough bums on seats as the total number of 18-year-olds in America starts to fall.
@@ -120,7 +120,7 @@
 
 ---
 
-### Paragraph 5
+### 第 5 段：
 
 **原句**
 > The costs of all this are huge. Time and money spent reteaching basic material cannot be used to help whizz-kids excel. Ill-prepared students are at risk of dropping out, which can hurt their prospects more than if they had never enrolled. And weak students give colleges and universities yet more reasons to dumb down. After years of grade inflation, it is hard to be confident that administrators will solve a tricky new problem: how to handle rampant cheating with AI.
@@ -149,7 +149,7 @@
 
 ---
 
-### Paragraph 6
+### 第 6 段：
 
 **原句**
 > One way to stop the slide would be to prevent standards in schools from falling. Some insist this is impossible without also solving scourges such as child poverty, or the baleful allure of screens. In fact, marks in Singapore have been inching up for years—and rose even during the pandemic. Schools in England have also been climbing international league tables, thanks in part to reforms that made exams and curriculums more rigorous. Americans are finally recognising that many of their schools teach literacy using methods that other countries long ago binned as pseudoscience. States that reversed course first, such as Mississippi, have been posting big gains.
@@ -181,7 +181,7 @@
 
 ---
 
-### Paragraph 7
+### 第 7 段：
 
 **原句**
 > Another remedy would be for leaders in colleges and universities to restore their commitment to high standards, both in whom they choose to admit and in how students are assessed as they learn. America's best are starting to reintroduce mandatory tests for all applicants; the rest should follow. In May academics at Harvard agreed to rein in grade inflation by imposing a hard limit on the number of A grades they hand out in each course. These had soared from 24% of all grades awarded in 2005 to 60% last year. That was once considered a radical proposal; it ought to be more common.
@@ -211,7 +211,7 @@
 
 ---
 
-### Paragraph 8
+### 第 8 段：
 
 **原句**
 > And policymakers should widen the ways in which people can keep learning after they leave school. In English-speaking countries, in particular, options other than university are too rare. America has fewer apprentices even than Britain (which has hardly any). America's community colleges are supposed to act as stepping stones for high-school graduates who need more help. But the share of youngsters who go to them is declining, even as the share heading to demanding four-year universities is going up.
@@ -237,7 +237,7 @@
 
 ---
 
-### Paragraph 9
+### 第 9 段：
 
 **原句**
 > Education should provide everyone with an opportunity. It must never become a blocker, sprinkling its benefits on a smarmy few while holding the less fortunate in their place. But raising young people up its tiers without granting them the skills they need is not pragmatic, or a kindness, or a blow for racial equity. It is a cowardice that lets everybody down.

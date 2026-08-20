@@ -11,7 +11,7 @@
 
 ## 逐句精读
 
-### Paragraph 1
+### 第 1 段：
 
 **原句**
 > Advances in ARTIFICIAL intelligence have long terrified techies. Lately, voters are feeling the angst, too. AI is unpopular in the West and climbing up the political agenda.
@@ -36,7 +36,7 @@ AI 进步长期以来让科技从业者胆战心惊。最近，普通选民也�
 
 ---
 
-### Paragraph 2
+### 第 2 段：
 
 **原句**
 > The fiercest fights so far have been in America, where protests against data centres have scuppered nearly $100bn-worth of projects, warring AI megadonors have just dumped tens of millions into a Manhattan congressional race and around 40% of voters tell pollsters that they want AI banned from most industries.
@@ -66,7 +66,7 @@ AI 进步长期以来让科技从业者胆战心惊。最近，普通选民也�
 
 ---
 
-### Paragraph 3
+### 第 3 段：
 
 **原句**
 > But spats are breaking out elsewhere: after chipmaking profits soared recently, workers at Samsung in South Korea threatened a strike to secure special payouts.
@@ -92,7 +92,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 4
+### 第 4 段：
 
 **原句**
 > The backlash is only just getting started, because the technology is only just getting started, too.
@@ -116,7 +116,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 5
+### 第 5 段：
 
 **原句**
 > Britain's flimsy prime-minister-in-waiting, Andy Burnham, has barely said a word about AI. Even Americans still rank it 29th out of 39 election issues.
@@ -142,7 +142,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 6
+### 第 6 段：
 
 **原句**
 > That is bound to change—and battles over data centres offer a hint of the struggles to come.
@@ -166,7 +166,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 7
+### 第 7 段：
 
 **原句**
 > The buildings summon a vitriol well beyond conventional nimbyism. More Americans say they would be happy with a nuclear reactor next door than a data centre.
@@ -192,7 +192,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 8
+### 第 8 段：
 
 **原句**
 > Data centres can be ugly, it is true. But the opposition reflects the technology's reputation. AI bosses have spent years warning of a looming job-pocalypse and the danger that an AI-engineered super-virus will make humans extinct.
@@ -217,7 +217,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 9
+### 第 9 段：
 
 **原句**
 > Opponents of data centres variously believe they are shielding the environment, protecting jobs and saving the species—and they are not entirely wrong.
@@ -242,7 +242,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 10
+### 第 10 段：
 
 **原句**
 > Yet this backlash is itself dangerous. AI promises to change the world for the better, much as electricity or the steam engine did.
@@ -267,7 +267,7 @@ Samsung 工人罢工是 AI 反弹在劳动阶层的体现——利润流向资�
 
 ---
 
-### Paragraph 11
+### 第 11 段：
 
 **原句**
 > Not long ago, the era-defining problem for the rich world was stagnant economic growth and the populism it unleashed. Now it has a technology that could power a surge in productivity and incomes, help find cures for untreatable diseases and improve everything from education to green tech.
@@ -296,7 +296,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 12
+### 第 12 段：
 
 **原句**
 > All this could be lost if countries starve the technology of computing power or regulate it into uselessness. Look at mRNA vaccines research, which has been held back after a backlash during the covid-19 pandemic.
@@ -322,7 +322,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 13
+### 第 13 段：
 
 **原句**
 > Scenarios in which some countries give in to popular rage but others forge ahead are also worrying. If America succumbs, it could cede the global AI frontier, and the attendant cyber and military capabilities, to authoritarian China.
@@ -350,7 +350,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 14
+### 第 14 段：
 
 **原句**
 > Europe and Canada are more risk-averse than America. If they choked off AI while the rest of the world kept pushing forward, their losses could be unrecoverable.
@@ -376,7 +376,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 15
+### 第 15 段：
 
 **原句**
 > More than two centuries after the Industrial Revolution, few countries have managed to catch up with the first movers.
@@ -401,7 +401,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 16
+### 第 16 段：
 
 **原句**
 > So the stakes are high. Can governments do anything about it?
@@ -424,7 +424,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 17
+### 第 17 段：
 
 **原句**
 > Grand proclamations about the shape of a "social contract" for a post-AI world are good fodder for blog posts but offer little help today.
@@ -450,7 +450,7 @@ Not long ago 引导的过去句（the era-defining problem was stagnant growth..
 
 ---
 
-### Paragraph 18
+### 第 18 段：
 
 **原句**
 > Besides, the unknowns are still large enough to make the exercise almost futile.
@@ -476,7 +476,7 @@ Besides 引导的副词句（Besides, the unknowns are still large enough...）+
 
 ---
 
-### Paragraph 19
+### 第 19 段：
 
 **原句**
 > Better to be incremental. While China's economy was growing by 10% a year in the 1980s—faster than all but the most extreme forecasts for AI-driven growth—the mantra of its leader Deng Xiaoping was "crossing the river by feeling the stones": pushing forward iteratively, planning for problems but staying flexible.
@@ -507,7 +507,7 @@ Better to be incremental（祈使句省略 to）+ While 引导的让步状语从
 
 ---
 
-### Paragraph 20
+### 第 20 段：
 
 **原句**
 > To that end, here are four pointers for politicians and AI companies looking for policies.
@@ -531,7 +531,7 @@ To that end 引导的目的状语（为此）+ here are 引导的倒装句（her
 
 ---
 
-### Paragraph 21
+### 第 21 段：
 
 **原句**
 > First, spread the benefits of AI as widely as possible. Blockers need to be shown that their local area will benefit if they get out of the way. Wisely, data-centre firms are beginning to offer funding to nearby towns. Gradually, this approach needs to be broadened to society at large, with mechanisms showing people that they have an economic stake in AI's progress, and will be helped to adapt to disruption through policies such as wage insurance.
@@ -560,7 +560,7 @@ First 引导的总述句（spread the benefits...）+ 两个支持句（Blockers
 
 ---
 
-### Paragraph 22
+### 第 22 段：
 
 **原句**
 > Only a shared sense of prosperity can temper the toxic who-wins/who-loses politics that emerged in the era of globalisation.
@@ -587,7 +587,7 @@ Only + 主语（a shared sense of prosperity）+ 谓语（can temper）+ 宾语�
 
 ---
 
-### Paragraph 23
+### 第 23 段：
 
 **原句**
 > Second, regulate hard when interventions are needed. The hair-raising prospect of AI-enabled cyber-attacks or bioterrorism is still not taken as seriously as it ought to be.
@@ -615,7 +615,7 @@ Second 引导的总述句（Second, regulate hard when interventions are needed�
 
 ---
 
-### Paragraph 24
+### 第 24 段：
 
 **原句**
 > Tackling those issues and others is essential in itself, but it would also weaken arguments to ban or hobble AI indiscriminately.
@@ -641,7 +641,7 @@ Second 引导的总述句（Second, regulate hard when interventions are needed�
 
 ---
 
-### Paragraph 25
+### 第 25 段：
 
 **原句**
 > Ideally, these efforts would involve international co-operation.
@@ -664,7 +664,7 @@ Ideally 引导的副词句（Ideally, these efforts would involve...）+ 简单�
 
 ---
 
-### Paragraph 26
+### 第 26 段：
 
 **原句**
 > Third, measure everything. The common view that AI is already leading to lay-offs and raising electricity bills is probably wrong. But without better statistics it is hard to be sure.
@@ -692,7 +692,7 @@ Third 引导的总述句（Third, measure everything）+ 两个支持句（The c
 
 ---
 
-### Paragraph 27
+### 第 27 段：
 
 **原句**
 > Data centres must contend with viral worries over water usage, a confected issue. (Modern ones drink up no more than other industries, and much less in total than America's golf courses.) Facts won't cure misinformation, but their absence worsens it.
@@ -722,7 +722,7 @@ Third 引导的总述句（Third, measure everything）+ 两个支持句（The c
 
 ---
 
-### Paragraph 28
+### 第 28 段：
 
 **原句**
 > Britain's AI Security Institute and new AI Economics Institute may offer models for other countries to follow.
@@ -746,7 +746,7 @@ Third 引导的总述句（Third, measure everything）+ 两个支持句（The c
 
 ---
 
-### Paragraph 29
+### 第 29 段：
 
 **原句**
 > Fourth, use AI to make the state better. It is not just the private sector that could use AI to lift productivity. Filing taxes should be a breeze; state-run health-care systems should link up data seamlessly and schools should experiment with ai-powered learning.
@@ -775,7 +775,7 @@ Fourth 引导的总述句（Fourth, use AI to make the state better）+ 三个�
 
 ---
 
-### Paragraph 30
+### 第 30 段：
 
 **原句**
 > AI may also make it easier for citizens to monitor what politicians are up to.
@@ -799,7 +799,7 @@ AI 也可以让公民更容易监督政治人物的动向。
 
 ---
 
-### Paragraph 31
+### 第 31 段：
 
 **原句**
 > People are less likely to oppose a technology if it is behind their grandmother's cancer treatment or helping their child's education. And they are more likely to trust that the state can oversee it if they believe that government works.
@@ -825,7 +825,7 @@ AI 也可以让公民更容易监督政治人物的动向。
 
 ---
 
-### Paragraph 32
+### 第 32 段：
 
 **原句**
 > ## Machine politics
@@ -847,7 +847,7 @@ AI 也可以让公民更容易监督政治人物的动向。
 
 ---
 
-### Paragraph 33
+### 第 33 段：
 
 **原句**
 > Voters are right to take a close interest in how AI could change their lives. The future will be messy, odd and unpredictable. Persuading them that their interests are being served by disruption has become as important as making AI models better. Failure will bring out more pitchforks—and destroy vast opportunities for humanity.
@@ -876,7 +876,7 @@ AI 也可以让公民更容易监督政治人物的动向。
 
 ---
 
-### Paragraph 34
+### 第 34 段：
 
 **原句**
 > ■

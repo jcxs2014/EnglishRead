@@ -11,7 +11,7 @@
 
 ## 逐句精读
 
-### Paragraph 1
+### 第 1 段：
 
 **原句**
 > THE NUMBERS were a guide, like the notes on sheet music.
@@ -34,7 +34,7 @@
 
 ---
 
-### Paragraph 2
+### 第 2 段：
 
 **原句**
 > They were a guide in the 1930s, growing up in Washington Heights, at the northern tip of Manhattan, where Alan Greenspan tracked the statistics of his beloved New York Yankees.
@@ -59,7 +59,7 @@ They were a guide in the 1930s...（时间状语）+ where 引导的定语从句
 
 ---
 
-### Paragraph 3
+### 第 3 段：
 
 **原句**
 > They were a guide in the 1990s, when as chairman of the Federal Reserve he presided over the then-longest American boom on record.
@@ -83,7 +83,7 @@ They were a guide in the 1990s...（时间状语）+ when 引导的定语从句�
 
 ---
 
-### Paragraph 4
+### 第 4 段：
 
 **原句**
 > It was the numbers that led him to economics: the numbers he read in books on finance between sets, playing in a touring jazz band during the second world war.
@@ -108,7 +108,7 @@ It was the numbers that led him to economics（强调句）+ the numbers he read
 
 ---
 
-### Paragraph 5
+### 第 5 段：
 
 **原句**
 > While the other musicians would sit and smoke a little reefer, he read up on American industry and J.P. Morgan, then picked up his saxophone and played that big-band music in Henry Jerome's orchestra.
@@ -135,7 +135,7 @@ While the other musicians would sit...（对比）+ he read up on...（格林斯
 
 ---
 
-### Paragraph 6
+### 第 6 段：
 
 **原句**
 > He had taken classes at Juilliard, the conservatoire in New York City, and played alongside geniuses like Stan Getz.
@@ -160,7 +160,7 @@ While the other musicians would sit...（对比）+ he read up on...（格林斯
 
 ---
 
-### Paragraph 7
+### 第 7 段：
 
 **原句**
 > They played by feel. He trusted the notes on the page, as he trusted his numbers.
@@ -185,7 +185,7 @@ They played by feel（其他音乐人）+ He trusted the notes on the page（格
 
 ---
 
-### Paragraph 8
+### 第 8 段：
 
 **原句**
 > By 1945 he was studying at New York University in the era of John Maynard Keynes, whose analysis of the Depression changed economics.
@@ -209,7 +209,7 @@ By 1945 he was studying at New York University...（主句）+ in the era of Joh
 
 ---
 
-### Paragraph 9
+### 第 9 段：
 
 **原句**
 > He admired Keynes's analytical wizardry, but had no time for his sweeping vision.
@@ -234,7 +234,7 @@ He admired Keynes's analytical wizardry（肯定）+ but had no time for his swe
 
 ---
 
-### Paragraph 10
+### 第 10 段：
 
 **原句**
 > He kept to his data.
@@ -256,7 +256,7 @@ He admired Keynes's analytical wizardry（肯定）+ but had no time for his swe
 
 ---
 
-### Paragraph 11
+### 第 11 段：
 
 **原句**
 > As a consultant, his first job, he impressed clients with his knack for spotting turns in the business cycle—as in 1957, when growing steel inventories led him to intuit that a recession must be looming.
@@ -284,7 +284,7 @@ As a consultant, his first job（插入语）+ he impressed clients with his kna
 
 ---
 
-### Paragraph 12
+### 第 12 段：
 
 **原句**
 > It was all right there in the numbers.
@@ -306,7 +306,7 @@ As a consultant, his first job（插入语）+ he impressed clients with his kna
 
 ---
 
-### Paragraph 13
+### 第 13 段：
 
 **原句**
 > There was more to life than data, though.
@@ -329,7 +329,7 @@ There was more to life than data（主句）+ though（转折副词）
 
 ---
 
-### Paragraph 14
+### 第 14 段：
 
 **原句**
 > He learned that from his friend Ayn Rand, a zealous, gut-level believer in individual freedom and the evils of state intervention.
@@ -354,7 +354,7 @@ He learned that from his friend Ayn Rand（同位语 Ayn Rand）+ a zealous, gut
 
 ---
 
-### Paragraph 15
+### 第 15 段：
 
 **原句**
 > As the 1960s drew to a close, it was easy to see in America's slowing growth rates and rising inflation the inevitable side-effects of government bloat.
@@ -380,7 +380,7 @@ As the 1960s drew to a close（时间状语）+ it was easy to see... the inevit
 
 ---
 
-### Paragraph 16
+### 第 16 段：
 
 **原句**
 > He was not a rabid partisan by nature. But as a jazz-age conservative in Vietnam-era America, infused with the libertarian spirit of Rand and her circle, he gravitated towards the Republican Party.
@@ -406,7 +406,7 @@ He was not a rabid partisan by nature（否定）+ But...（转折）+ infused w
 
 ---
 
-### Paragraph 17
+### 第 17 段：
 
 **原句**
 > He had a way with people in high places.
@@ -428,7 +428,7 @@ He was not a rabid partisan by nature（否定）+ But...（转折）+ infused w
 
 ---
 
-### Paragraph 18
+### 第 18 段：
 
 **原句**
 > In 1975 he began squiring Barbara Walters, and he spent the last four decades of his life with Andrea Mitchell, also a television journalist.
@@ -452,7 +452,7 @@ In 1975 he began squiring Barbara Walters...+ and he spent the last four decades
 
 ---
 
-### Paragraph 19
+### 第 19 段：
 
 **原句**
 > He fell in with Richard Nixon, too, who brought him onto his team as a campaign adviser.
@@ -476,7 +476,7 @@ He fell in with Richard Nixon too（主句）+ who brought him onto his team as 
 
 ---
 
-### Paragraph 20
+### 第 20 段：
 
 **原句**
 > Nixon's partisan rage turned him off, but he served happily under Gerald Ford as chairman of the Council of Economic Advisers: leading the band, now, stepping out from behind the music-stand.
@@ -503,7 +503,7 @@ Nixon's partisan rage turned him off（否定）+ but he served happily under Ge
 
 ---
 
-### Paragraph 21
+### 第 21 段：
 
 **原句**
 > When Ronald Reagan ran for the presidency in 1980, he joined the campaign team.
@@ -526,7 +526,7 @@ When Ronald Reagan ran for the presidency in 1980（时间状语）+ he joined t
 
 ---
 
-### Paragraph 22
+### 第 22 段：
 
 **原句**
 > It was Reagan who chose him for the job that would define his career.
@@ -549,7 +549,7 @@ It was Reagan who chose him for the job（强调句）+ that would define his ca
 
 ---
 
-### Paragraph 23
+### 第 23 段：
 
 **原句**
 > As chairman of the Fed, he would become the world's most powerful economic figure, coaxing the massive, complicated machinery of the American economy to perform its best, to play its sweetest.
@@ -575,7 +575,7 @@ As chairman of the Fed...（主语）+ he would become...（结果）+ coaxing t
 
 ---
 
-### Paragraph 24
+### 第 24 段：
 
 **原句**
 > His tenure began on a sour note.
@@ -597,7 +597,7 @@ As chairman of the Fed...（主语）+ he would become...（结果）+ coaxing t
 
 ---
 
-### Paragraph 25
+### 第 25 段：
 
 **原句**
 > He was just two months on the job on October 19th 1987, "Black Monday", when America's stock markets lost more than 20% of their value in a single day.
@@ -620,7 +620,7 @@ He was just two months on the job...（时间状语）+ "Black Monday"（插入�
 
 ---
 
-### Paragraph 26
+### 第 26 段：
 
 **原句**
 > It was the worst one-day drop in the country's history.
@@ -642,7 +642,7 @@ He was just two months on the job...（时间状语）+ "Black Monday"（插入�
 
 ---
 
-### Paragraph 27
+### 第 27 段：
 
 **原句**
 > In calm response, he jawboned banks into maintaining credit and pushed the administration to call for cuts to the budget deficit, which he reckoned would boost confidence.
@@ -667,7 +667,7 @@ In calm response（方式状语）+ he jawboned banks into maintaining credit（
 
 ---
 
-### Paragraph 28
+### 第 28 段：
 
 **原句**
 > He was fierce in defending the independence of the Fed; when the administration of President George H.W. Bush leaned on the central-banking system to do more to beat back the recession of the early 1990s, he had none of it.
@@ -693,7 +693,7 @@ He was fierce in defending the independence of the Fed（主句）+ when 引导�
 
 ---
 
-### Paragraph 29
+### 第 29 段：
 
 **原句**
 > But independence did not mean that the chairman had to mind his own business.
@@ -716,7 +716,7 @@ But independence did not mean that...（主句）+ the chairman had to mind his 
 
 ---
 
-### Paragraph 30
+### 第 30 段：
 
 **原句**
 > In the murky language known as Fedspeak, of which he became the most famous and fluent speaker, he would render his judgments on the plans of the president and Congress, never using one syllable when six would do.
@@ -741,7 +741,7 @@ In the murky language known as Fedspeak...（方式状语）+ of which he became
 
 ---
 
-### Paragraph 31
+### 第 31 段：
 
 **原句**
 > The American press proved a rapt audience.
@@ -763,7 +763,7 @@ The American press proved a rapt audience（主系表）
 
 ---
 
-### Paragraph 32
+### 第 32 段：
 
 **原句**
 > The maestro's control never seemed more complete than in the 1990s.
@@ -786,7 +786,7 @@ The maestro's control never seemed more complete than in the 1990s（主系表�
 
 ---
 
-### Paragraph 33
+### 第 33 段：
 
 **原句**
 > In 1994 he joined Robert Rubin, Bill Clinton's secretary of the treasury, and Larry Summers, a deputy secretary, to make up a trio of crisis-fighters: managing financial havoc in East Asia and Russia—and in American financial markets, when Long-Term Capital Management, a massive hedge fund, required a Fed-orchestrated bail-out.
@@ -813,7 +813,7 @@ In 1994 he joined Robert Rubin... and Larry Summers to make up a trio of crisis-
 
 ---
 
-### Paragraph 34
+### 第 34 段：
 
 **原句**
 > His Fed kept the American economy humming, speeding through an unprecedented boom.
@@ -837,7 +837,7 @@ His Fed kept the American economy humming（主句）+ speeding through an unpre
 
 ---
 
-### Paragraph 35
+### 第 35 段：
 
 **原句**
 > "If you want a simple model for predicting the unemployment rate in the United States over the next few years, here it is," wrote Paul Krugman in 1997.
@@ -860,7 +860,7 @@ His Fed kept the American economy humming（主句）+ speeding through an unpre
 
 ---
 
-### Paragraph 36
+### 第 36 段：
 
 **原句**
 > "It will be what Greenspan wants it to be, plus or minus a random error reflecting the fact that he is not quite God."
@@ -883,7 +883,7 @@ His Fed kept the American economy humming（主句）+ speeding through an unpre
 
 ---
 
-### Paragraph 37
+### 第 37 段：
 
 **原句**
 > Finally, Mr Greenspan was playing by feel.
@@ -905,7 +905,7 @@ Finally, Mr Greenspan was playing by feel（主系表）
 
 ---
 
-### Paragraph 38
+### 第 38 段：
 
 **原句**
 > He believed new technology was changing the way the economy worked.
@@ -928,7 +928,7 @@ He believed new technology was changing the way the economy worked（宾语从�
 
 ---
 
-### Paragraph 39
+### 第 39 段：
 
 **原句**
 > When Fed members worried that the economy was running too hot, he told them to be cool: the numbers had to be wrong.
@@ -953,7 +953,7 @@ When Fed members worried that...（时间状语从句）+ he told them to be coo
 
 ---
 
-### Paragraph 40
+### 第 40 段：
 
 **原句**
 > He let the boom run, counting on a productivity miracle to keep inflation in check.
@@ -977,7 +977,7 @@ He let the boom run（主句）+ counting on a productivity miracle to keep infl
 
 ---
 
-### Paragraph 41
+### 第 41 段：
 
 **原句**
 > When rocketing stock prices threatened to create disharmony, he warned gently of "irrational exuberance", while still believing the economy was more resilient than ever.
@@ -1003,7 +1003,7 @@ When rocketing stock prices threatened to create disharmony（时间状语从句
 
 ---
 
-### Paragraph 42
+### 第 42 段：
 
 **原句**
 > But then, somehow, it began to get away from him.
@@ -1025,7 +1025,7 @@ But then, somehow, it began to get away from him（主系表）
 
 ---
 
-### Paragraph 43
+### 第 43 段：
 
 **原句**
 > By the turn of the millennium he feared that productivity growth, and the stock market boom it had brought about, was inflationary after all.
@@ -1050,7 +1050,7 @@ By the turn of the millennium（时间状语）+ he feared that... was inflation
 
 ---
 
-### Paragraph 44
+### 第 44 段：
 
 **原句**
 > When stocks crashed and recession struck, the economy did not jump at his utterances as it had before.
@@ -1075,7 +1075,7 @@ When stocks crashed and recession struck（时间状语从句）+ the economy di
 
 ---
 
-### Paragraph 45
+### 第 45 段：
 
 **原句**
 > A jobless recovery gave way to a dangerous-looking housing boom, which his rate rises failed to dent.
@@ -1101,7 +1101,7 @@ A jobless recovery gave way to a dangerous-looking housing boom（主句）+ whi
 
 ---
 
-### Paragraph 46
+### 第 46 段：
 
 **原句**
 > Even so, he left the Fed to a chorus of plaudits, hailed as the man who could make the American economy sing.
@@ -1125,7 +1125,7 @@ Even so（让步）+ he left the Fed to a chorus of plaudits（主句）+ hailed
 
 ---
 
-### Paragraph 47
+### 第 47 段：
 
 **原句**
 > He barely had time to publish his memoir before the global financial crisis hit.
@@ -1148,7 +1148,7 @@ He barely had time to publish his memoir before the global financial crisis hit�
 
 ---
 
-### Paragraph 48
+### 第 48 段：
 
 **原句**
 > It shook his faith in deregulation.
@@ -1170,7 +1170,7 @@ It shook his faith in deregulation（主谓宾）
 
 ---
 
-### Paragraph 49
+### 第 49 段：
 
 **原句**
 > He defended his Fed: the low interest rates that perked up growth, its light regulatory touch, and the bail-outs it had constructed in the years before the crash.
@@ -1195,7 +1195,7 @@ He defended his Fed...（主句）+ the low interest rates... its light regulato
 
 ---
 
-### Paragraph 50
+### 第 50 段：
 
 **原句**
 > He blamed the Obama administration for holding back growth.
@@ -1218,7 +1218,7 @@ He blamed the Obama administration for holding back growth（主谓宾）
 
 ---
 
-### Paragraph 51
+### 第 51 段：
 
 **原句**
 > Sour notes sounded, however.
@@ -1241,7 +1241,7 @@ Sour notes sounded, however（主谓状）
 
 ---
 
-### Paragraph 52
+### 第 52 段：
 
 **原句**
 > Had he really been such a maestro? Had he been good, or merely lucky, and then unlucky?
@@ -1264,7 +1264,7 @@ Had he really been such a maestro?（修辞疑问句）+ Had he been good, or me
 
 ---
 
-### Paragraph 53
+### 第 53 段：
 
 **原句**
 > If only the numbers could say, one way or another.
@@ -1287,7 +1287,7 @@ If only the numbers could say, one way or another（虚拟语气）
 
 ---
 
-### Paragraph 54
+### 第 54 段：
 
 **原句**
 > ■
@@ -1297,7 +1297,7 @@ If only the numbers could say, one way or another（虚拟语气）
 
 ---
 
-### Paragraph 55
+### 第 55 段：
 
 **原句**
 > In the murky language known as Fedspeak, of which he became the most famous and fluent speaker, he would render his judgments on the plans of the president and Congress, never using one syllable when six would do.

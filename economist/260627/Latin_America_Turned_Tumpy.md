@@ -126,7 +126,7 @@
 
 ## 逐句精读
 
-### Paragraph 1（现象：右翼全线胜出）
+### 第 1 段：（现象：右翼全线胜出）
 
 **S1**
 
@@ -245,7 +245,7 @@
 
 ---
 
-### Paragraph 2（成因：厌倦、失败与模仿）
+### 第 2 段：（成因：厌倦、失败与模仿）
 
 **S6**
 
@@ -401,7 +401,7 @@ If 条件从句（If Mr Trump can mass-deport migrants）+ 插入语（they reas
 
 ---
 
-### Paragraph 3（利好之一：经济）
+### 第 3 段：（利好之一：经济）
 
 **S13**
 
@@ -518,7 +518,7 @@ If 条件从句（If Mr Trump can mass-deport migrants）+ 插入语（they reas
 
 ---
 
-### Paragraph 4（利好之二：军事）
+### 第 4 段：（利好之二：军事）
 
 **S18**
 
@@ -620,7 +620,7 @@ either...or... 连接两个并列谓语：are either exploring military co-opera
 
 ---
 
-### Paragraph 5（转折前的"希望"：黑帮可被击败的观念）
+### 第 5 段：（转折前的"希望"：黑帮可被击败的观念）
 
 **S22**
 
@@ -718,7 +718,7 @@ If 条件从句 + 主句（similar tactics will work elsewhere），句末用问
 
 ---
 
-### Paragraph 6（转折：为什么值得怀疑）
+### 第 6 段：（转折：为什么值得怀疑）
 
 **S26**
 
@@ -888,7 +888,7 @@ S33 回应 S10 的伏笔（blow up drug boats），用 S32 的经济学原理解
 
 ---
 
-### Paragraph 7（代价：姿态政治与法治流失）
+### 第 7 段：（代价：姿态政治与法治流失）
 
 **S34**
 
@@ -1032,7 +1032,7 @@ Since 时间状语从句（Since Mr Bukele came to power in 2019）+ 主句（hi
 
 ---
 
-### Paragraph 8（结论：制度比总统更长久）
+### 第 8 段：（结论：制度比总统更长久）
 
 **S40**
 

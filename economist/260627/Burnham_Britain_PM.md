@@ -11,7 +11,7 @@
 
 ## 逐句精读
 
-### Paragraph 1
+### 第 1 段：
 
 **原句**
 > LOOK AT THE many signs of Britain's decline. Growth is feeble and public debt has reached 95% of GDP. Public services are stuttering and the armed forces are depleted. The streets are grubby and the electorate is in a sulphurous mood. The BBC has even cancelled the "Doctor Who" Christmas special.
@@ -41,7 +41,7 @@
 
 ---
 
-### Paragraph 2
+### 第 2 段：
 
 **原句**
 > Then there is the desultory way in which Sir Keir Starmer failed as prime minister. He was elected with a vast majority and a mandate to restore Britain, but he will leave Downing Street after just two years. His offence was not an epic misjudgment born of hubris, like David Cameron and his Brexit referendum. Nor was it a scandal, like Boris Johnson and his boozy Downing Street parties in lockdown. He committed no disastrous error, unlike Liz Truss and her budget. Sir Keir was simply unable to marshal power or say why he wanted it. His government wilted like a houseplant in a heatwave.
@@ -74,7 +74,7 @@
 
 ---
 
-### Paragraph 3
+### 第 3 段：
 
 **原句**
 > Barring the wholly unexpected, Andy Burnham will soon become Britain's seventh prime minister in a decade. He must reckon with this twin decline of Britain's fabric and its politics. He cannot fix one without fixing the other. Yet he shows little sign that he grasps the scale or urgency of the tasks that await him.
@@ -102,7 +102,7 @@
 
 ---
 
-### Paragraph 4
+### 第 4 段：
 
 **原句**
 > Mr Burnham, who returned to the House of Commons just last week, has talents Sir Keir lacks. Even at the end, the prime minister was unable to make the argument for why he should hold office, which is why this newspaper argued he should go. Shaking hands, building coalitions and winning arguments are not distractions for a prime minister, they are a core competence.
@@ -128,7 +128,7 @@
 
 ---
 
-### Paragraph 5
+### 第 5 段：
 
 **原句**
 > Charming and combative, Mr Burnham has those skills in abundance. When populists on the left and right are disinterring bad old ideas, the centre's survival depends on someone who can argue back. Mr Burnham's manoeuvre to win the Makerfield by-election also showed an appealing audacity. He is pragmatic and experienced, after a long career in Westminster and as mayor of Greater Manchester. He has some decent ideas, too—including to devolve power to English regions and reform property taxes.
@@ -161,7 +161,7 @@
 
 ---
 
-### Paragraph 6
+### 第 6 段：
 
 **原句**
 > But that hardly amounts to a project to arrest Britain's decline. If Mr Burnham thinks an easy manner or an ability to skirt elephant traps is enough, then he has failed to understand just how much he needs to accomplish in order to avoid the fate that befell his six predecessors.
@@ -187,7 +187,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 7
+### 第 7 段：
 
 **原句**
 > A change of leader is the best moment to confront voters with the unwelcome reality that they are living beyond their means. Even as Britain faces demands to spend more on defence and infrastructure, the bond markets have put the Treasury on watch. The country has the highest borrowing costs of any member of the G7.
@@ -215,7 +215,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 ---
 
 
-### Paragraph 8
+### 第 8 段：
 
 **原句**
 > Yet despite, in effect, auditioning to be prime minister in the Makerfield by-election, Mr Burnham has yet to set out a convincing programme to fix Britain. The core of his plans for office should be the country's economic revival. His vagueness about whom he wants as his chancellor shows how, with weeks to go, his policy is still up in the air.
@@ -244,7 +244,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 9
+### 第 9 段：
 
 **原句**
 > Instead of considering a balance of simple tax rises and spending cuts, Mr Burnham is already resorting to people-pleasing. He claims he can find the money for more defence by cutting welfare, through "preventative" schemes rather than "crude cuts", whatever that means. He plans to invest in infrastructure by finding the flexibility within the existing fiscal rules to eke out more borrowing. Rather than focus on making taxes more efficient, he has needlessly told voters that he will not increase the biggest revenue-raisers—the same straitjacket that forced Sir Keir into painful fiscal contortions.
@@ -274,7 +274,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 10
+### 第 10 段：
 
 **原句**
 > Mr Burnham's instincts do not appear to lean towards a convincing programme either. One reason is his chameleon-like nature. Britain's next prime minister twists with the wind and panders to the people in the room. His view on Europe depends on who is asking. In Makerfield he built a coalition of the aggrieved, from pub landlords hit by taxes to Nimbys upset by house-building—and then promised them better public services, hinting at tax cuts and smart new roads. At times, his theory of government amounts to a whinge about "the London set" who hold back the north.
@@ -304,7 +304,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 11
+### 第 11 段：
 
 **原句**
 > Nostalgia is a problem, too. At a time of extraordinary technological and geopolitical change, Mr Burnham tells voters that he can turn back the clock on "40 years of neoliberalism". Instead of seizing the moment to prepare Britain for artificial intelligence, or to make the most of the country's world-class services, he proposes to take control of utilities and bring back industrial jobs to northern England. That will soak up government time and money and it will fail, further discrediting the state and fuelling populism.
@@ -334,7 +334,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 12
+### 第 12 段：
 
 **原句**
 > A lot will come down to whether Mr Burnham is willing to take on his own MPs. Almost by definition, any programme of reform that is worth doing will require measures that the left does not like. After Sir Keir lost his authority, early in his term, the backbenches gained a taste for rebellion. Will the biddable Mr Burnham be able to say no?
@@ -363,7 +363,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 13
+### 第 13 段：
 
 **原句**
 > The Economist hopes Mr Burnham confounds our concerns. He may possess powerful insights into why Britain has become so sclerotic and unhappy. He may choose ministers and advisers who can build a programme for change, while he becomes salesman-in-chief. His slogan is "hope": perhaps that can make hard truths palatable.
@@ -391,7 +391,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 14
+### 第 14 段：
 
 **原句**
 > Either way, he will have to be fast. British voters quickly tire of incumbents. They will tire all the faster of a prime minister who took power in a putsch. Mr Burnham's circle say they have not had time to prepare for office. But they set the timetable. Their man is in no position to ask for patience.
@@ -420,7 +420,7 @@ But 开头（But that hardly amounts to...）+ If 引导的条件句（If Mr Bur
 
 ---
 
-### Paragraph 15
+### 第 15 段：
 
 **原句**
 > If Mr Burnham cannot rise to the task, he will be exposed quickly and the verdict will be brutal. He has made a career out of blaming Britain's troubles on the elites in Westminster. Soon, those troubles will be his responsibility alone.
