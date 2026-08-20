@@ -364,53 +364,6 @@
 
 **段落逻辑：** 计划回访（补服务不足的声音）→ 资本主义辩论远未结束 → 希望对话继续且更深刻。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| v. | 引发、激起 | 原句 1 |
-| v. | 丑化、漫画化 | 原句 3 |
-| 短语 | 滑头的标签 | 原句 6 |
-| 短语 | 混为一谈 | 原句 6 |
-| 短语 | 更不用说 | 原句 7 |
-| 短语 | 坚持 | 原句 9 |
-| n. | 实质内容 | 原句 9 |
-| n. | 私有化 | 原句 10 |
-| adj. | 可衡量的 | 原句 10 |
-| 短语 | 对……怀疑 | 原句 11 |
-| v. | 支撑 | 原句 14 |
-| n. | 合法性 | 原句 15 |
-| v. | 承认 | 原句 17 |
-| 短语 | 公正对待 | 原句 17 |
-| n. | 铁板一块 | 原句 18 |
-| n. | 细微差别 | 原句 19 |
-| n. | 遗漏 | 原句 20 |
-| adj. | 服务不足的 | 原句 21 |
-| 短语 | 远未结束 | 原句 22 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| a | lively response — 热烈的反响 |  |
-| unfair | to their generation — 对他们的世代不公平 |  |
-| take | criticisms seriously — 认真对待批评 |  |
-| to | some extent — 在某种程度上 |  |
-| views | that are often quite different — 常常相当不同的观点 |  |
-| stand | by the substance — 坚持实质 |  |
-| losing | legitimacy — 失去合法性 |  |
-| a | generation is not a monolith — 一代人不是铁板一块 |  |
-| should | have done more — 本应该做得更多 |  |
-| revisit | the subject — 重新审视主题 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| cover | — 封面文章 |  |
-| trust | in institutions — 制度信任 |  |
-| counter-arguments | — 反方观点 |  |
-| the | rich world — 富裕世界 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 6）
@@ -513,4 +466,50 @@
 - "A generation is not a monolith" — 用于反对以偏概全。
 - "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
 - "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
-- "The debate is far from over" — 用于开放性结尾。
+- "The debate is far from over" — 用于开放性结尾。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 引发、激起 | 原句 1 |
+| v. | 丑化、漫画化 | 原句 3 |
+| 短语 | 滑头的标签 | 原句 6 |
+| 短语 | 混为一谈 | 原句 6 |
+| 短语 | 更不用说 | 原句 7 |
+| 短语 | 坚持 | 原句 9 |
+| n. | 实质内容 | 原句 9 |
+| n. | 私有化 | 原句 10 |
+| adj. | 可衡量的 | 原句 10 |
+| 短语 | 对……怀疑 | 原句 11 |
+| v. | 支撑 | 原句 14 |
+| n. | 合法性 | 原句 15 |
+| v. | 承认 | 原句 17 |
+| 短语 | 公正对待 | 原句 17 |
+| n. | 铁板一块 | 原句 18 |
+| n. | 细微差别 | 原句 19 |
+| n. | 遗漏 | 原句 20 |
+| adj. | 服务不足的 | 原句 21 |
+| 短语 | 远未结束 | 原句 22 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | lively response — 热烈的反响 |  |
+| unfair | to their generation — 对他们的世代不公平 |  |
+| take | criticisms seriously — 认真对待批评 |  |
+| to | some extent — 在某种程度上 |  |
+| views | that are often quite different — 常常相当不同的观点 |  |
+| stand | by the substance — 坚持实质 |  |
+| losing | legitimacy — 失去合法性 |  |
+| a | generation is not a monolith — 一代人不是铁板一块 |  |
+| should | have done more — 本应该做得更多 |  |
+| revisit | the subject — 重新审视主题 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cover | — 封面文章 |  |
+| trust | in institutions — 制度信任 |  |
+| counter-arguments | — 反方观点 |  |
+| the | rich world — 富裕世界 |  |
+

@@ -394,59 +394,6 @@
 
 **段落逻辑：** 美国有权保护敏感技术 → 但权利有界（别殃及消费者）→ 历史教训（过宽限制怨恨又低效）→ 生物不该成牺牲品 → 双重悲剧收束。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| n. | 战场 | 原句 1 |
-| n. | 怀疑 | 原句 2 |
-| n. | 技术诀窍 | 原句 3 |
-| v. | 削弱 | 原句 3 |
-| v. | 助长 | 原句 4 |
-| n. | 合同研究 | 原句 6 |
-| 短语 | 波及、传导 | 原句 8 |
-| n. | 受害者 | 原句 9 |
-| 短语 | 施加压力 | 原句 10 |
-| adj. | 买得起的 | 原句 12 |
-| n. | 管线（在研项目） | 原句 14 |
-| 短语 | 占……份额 | 原句 15 |
-| 短语 | 使……失去 | 原句 16 |
-| adj. | 合理的 | 原句 18 |
-| adj. | 两用的 | 原句 18 |
-| adj. | 定向的 | 原句 19 |
-| adj. | 一刀切的 | 原句 19 |
-| v. | 受审查 | 原句 20 |
-| n. | 安全恐慌 | 原句 20 |
-| n. | 危言耸听 | 原句 22 |
-| n. | 牺牲品 | 原句 24 |
-| n. | 协作 | 原句 25 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| the | tech war against China — 对华科技战 |  |
-| tools | of the state — 国家的工具 |  |
-| steal | Western know-how — 窃取西方技术诀窍 |  |
-| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
-| big | pharma — 大药企 |  |
-| a | growing share of — 不断增长的份额 |  |
-| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
-| cutting | edge research — 尖端研究 |  |
-| swept | up in a security panic — 被卷进安全恐慌 |  |
-| have | every right to — 完全有权 |  |
-| a | fit of scaremongering — 一阵危言耸听 |  |
-| the | next casualty — 下一个牺牲品 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| CDMO | — 合同研发生产组织 |  |
-| clinical | trials — 临床试验 |  |
-| research | pipelines — 研究管线 |  |
-| gene | editing — 基因编辑 |  |
-| biosecurity | — 生物安全 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 3）
@@ -553,4 +500,56 @@
 - "tools of the state" — 用于"被国家利用的工具"。
 - "put pressure on prices" — 用于"压低价格的市场力量"。
 - "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
-- "a double tragedy" — 用于"双重受害"的总结。
+- "a double tragedy" — 用于"双重受害"的总结。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 战场 | 原句 1 |
+| n. | 怀疑 | 原句 2 |
+| n. | 技术诀窍 | 原句 3 |
+| v. | 削弱 | 原句 3 |
+| v. | 助长 | 原句 4 |
+| n. | 合同研究 | 原句 6 |
+| 短语 | 波及、传导 | 原句 8 |
+| n. | 受害者 | 原句 9 |
+| 短语 | 施加压力 | 原句 10 |
+| adj. | 买得起的 | 原句 12 |
+| n. | 管线（在研项目） | 原句 14 |
+| 短语 | 占……份额 | 原句 15 |
+| 短语 | 使……失去 | 原句 16 |
+| adj. | 合理的 | 原句 18 |
+| adj. | 两用的 | 原句 18 |
+| adj. | 定向的 | 原句 19 |
+| adj. | 一刀切的 | 原句 19 |
+| v. | 受审查 | 原句 20 |
+| n. | 安全恐慌 | 原句 20 |
+| n. | 危言耸听 | 原句 22 |
+| n. | 牺牲品 | 原句 24 |
+| n. | 协作 | 原句 25 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the | tech war against China — 对华科技战 |  |
+| tools | of the state — 国家的工具 |  |
+| steal | Western know-how — 窃取西方技术诀窍 |  |
+| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
+| big | pharma — 大药企 |  |
+| a | growing share of — 不断增长的份额 |  |
+| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
+| cutting | edge research — 尖端研究 |  |
+| swept | up in a security panic — 被卷进安全恐慌 |  |
+| have | every right to — 完全有权 |  |
+| a | fit of scaremongering — 一阵危言耸听 |  |
+| the | next casualty — 下一个牺牲品 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO | — 合同研发生产组织 |  |
+| clinical | trials — 临床试验 |  |
+| research | pipelines — 研究管线 |  |
+| gene | editing — 基因编辑 |  |
+| biosecurity | — 生物安全 |  |
+

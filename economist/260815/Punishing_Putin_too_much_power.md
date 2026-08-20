@@ -481,40 +481,6 @@
 
 **段落逻辑：** 引入替代方案（政治信号）→ 说明需要传递的信息 → 指出困难（特朗普不可靠）→ 强调国会作用 → 说明具体方法
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| warped | 扭曲的 | a warped idea of personal glory |
-| bigwigs | 权贵 | other Russian bigwigs |
-| illicitly | 非法地 | ship the stuff illicitly |
-| fanciful | 荒谬的 | This fanciful legal theory |
-| cannier | 更聪明的 | other, cannier steps |
-| volleys | 齐射 | deadly volleys of Russian missiles |
-| interceptors | 拦截器 | American-made Patriot interceptors |
-| muster | 集结 | majorities it can muster |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| hefty | 压倒性的 | a hefty 86 votes to 11 |
-| bipartisanship | 两党合作 | a rare example of bipartisanship |
-| rancorously | 激烈地 | a rancorously divided nation |
-| discretion | 自由裁量权 | a lot of discretion for Congress |
-| thwarted | 挫败 | the justices thwarted this power grab |
-| patchwork | 拼凑 | under a patchwork of legal justifications |
-| dub | 称为 | as Mr Trump has dubbed himself |
-| spectre | 幽灵 | raises the spectre of a new trade war |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| backer | 支持者 | Ukraine and its backers |
-| waive | 免除 | The president may waive tariffs |
-| impose | 征收 | impose tariffs |
-| evades | 规避 | help Russia evade sanctions |
-| abandon | 抛弃 | America will not abandon Mr Putin's victims |
 
 ## 长难句专项
 

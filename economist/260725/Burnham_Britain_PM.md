@@ -280,39 +280,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| wind back the clock | 拨回时钟 | Britain's new leader wants to wind back the clock. |
-| reap the fruits of | 收获……的果实 | Britain is poised to reap the fruits of the revolution. |
-| poised to | 随时准备/蓄势待发 | The company is poised to launch. |
-| inert era | 停滞的时代 | After Starmer's inert era. |
-| folksy | 平易近人的 | The new man was folksy. |
-| hawk a soothing mix | 兜售安抚组合 | He hawked nostalgia and giveaways. |
-| peddling a manufacturing nostalgia | 兜售制造业怀旧 | Governments are peddling nostalgia. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| appease restive voters | 安抚躁动选民 | Policies designed to appease restive voters. |
-| an architect and beneficiary more than a victim | 设计者受益者多过受害者 | Britain is a beneficiary more than a victim. |
-| by fiat | 凭行政命令 | You cannot create factory jobs by fiat. |
-| gets ... back to front | 搞反了 | He gets the diagnosis back to front. |
-| the wrong side of the ledger | 账本错误的一侧 | Blaming prices looks at the wrong side of the ledger. |
-| sweeties today | 今天的糖果 | Scrapping tomorrow's reforms for sweeties today. |
-| tickle his party's tummy | 挠党派的肚子 | He knows how to tickle his party's tummy. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| panders | 讨好逢迎 | When it's time for hard truths, Andy panders. |
-| living beyond its means | 入不敷出 | Britain is living beyond its means. |
-| flirts with | 试探/暧昧地接触 | He flirts with big tax cuts. |
-| sophistry | 诡辩 | The sophistry will have to end. |
-| double down | 加倍下注 | If he gets the bounce, he will double down. |
-| pass Britain by | 与英国擦肩而过 | The rewards will pass Britain by. |
 
 ## 核心表达（可直接迁移）
 

@@ -901,89 +901,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| theme tune | 主题曲 |  |
-| exemplifies | 体现 |  |
-| foster | 促进 |  |
-| tune in | 收看 |  |
-| come away with | 得出 |  |
-| seize | 攫取 |  |
-| the bigger picture | 更大的图景 |  |
-| fragmenting | 碎片化 |  |
-| tuning out of | 转台、脱离 |  |
-| embracing | 拥抱 |  |
-| emerging paradox | 浮现的悖论 |  |
-| monoculture | 单一文化 |  |
-| fading | 消退 |  |
-| lopsidedly | 一边倒地 |  |
-| megastars | 超级巨星 |  |
-| soared in value | 价值飙升 |  |
-| reluctant globaliser | 不情愿的全球化者 |  |
-| engrossed in | 沉浸于 |  |
-| Tinseltown | 好莱坞 |  |
-| reversing | 反转 |  |
-| most-streamed | 播放量最高的 |  |
-| woo | 争取、讨好 |  |
-| halved | 减半 |  |
-| gravitate towards | 倾向于 |  |
-| trending | 热门的 |  |
-| franchises | 系列作品 |  |
-| regional variations | 区域差异 |  |
-| economies of scale | 规模经济 |  |
-| niches | 利基市场 |  |
-| sub-national | 国家以下的 |  |
-| cultural boom | 文化繁荣 |  |
-| global middle class | 全球中产阶级 |  |
-| tailored to | 量身定制 |  |
-| tastemakers | 品味塑造者 |  |
-| blizzard | 暴风雪 |  |
-| highlights | 精彩片段 |  |
-| turned out to be | 结果是 |  |
-| bleaker | 更凄凉的 |  |
-| purgatory | 炼狱 |  |
-| a diet of | 一份配给 |  |
-| global menu | 全球菜单 |  |
-| Regulators | 监管者 |  |
-| brought about by | 由……带来 |  |
-| quotas | 配额 |  |
-| century of dominance | 一个世纪的支配 |  |
-| lost its grip on | 失去掌控 |  |
-| tractor-beam | 牵引光束 |  |
-| recruited | 招揽 |  |
-| rushing to fill | 争相填补 |  |
-| fading force | 衰退的力量 |  |
-| kicked off | 开球、开始 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| assumptions | 假设 |  |
-| mega-events | 大型赛事 |  |
-| outskirts | 郊区 |  |
-| connected | 互联的 |  |
-| elite | 精英 |  |
-| platforms | 平台 |  |
-| franchises | 系列作品 |  |
-| subscriptions | 订阅 |  |
-| algorithms | 算法 |  |
-| commissioning | 委托制作 |  |
-| appetite | 意愿 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| audience | 受众 |  |
-| content | 内容 |  |
-| streaming | 流媒体 |  |
-| gamers | 玩家 |  |
-| charts | 排行榜 |  |
-| radio | 电台 |  |
-| final | 决赛 |  |
-
 ## 二、长难句专项
 
 > **长难句 1（原句 1）：**
@@ -1067,7 +984,7 @@
 2. 冒号后例证往往是论证的关键证据。
 3. 省略结构（and with it ...）需补出省略的动词理解。
 
-### 4. 写作技巧
+### 3. 写作技巧
 1. **具体事件引出抽象命题**：以世界杯（具体）引出娱乐碎片化悖论（抽象）。
 2. **对举结构制造张力**：more globalised vs more local、tune in vs tune out、a diet of vs a global menu。
 3. **数字精准论证**：98%、96/100、70%→36%、3/4、4 vs 44——每个论点都有数据支撑。
@@ -1085,3 +1002,86 @@
 - 表达"新局开场"：*a new game ... that has only just kicked off*
 
 ---
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| theme tune | 主题曲 |  |
+| exemplifies | 体现 |  |
+| foster | 促进 |  |
+| tune in | 收看 |  |
+| come away with | 得出 |  |
+| seize | 攫取 |  |
+| the bigger picture | 更大的图景 |  |
+| fragmenting | 碎片化 |  |
+| tuning out of | 转台、脱离 |  |
+| embracing | 拥抱 |  |
+| emerging paradox | 浮现的悖论 |  |
+| monoculture | 单一文化 |  |
+| fading | 消退 |  |
+| lopsidedly | 一边倒地 |  |
+| megastars | 超级巨星 |  |
+| soared in value | 价值飙升 |  |
+| reluctant globaliser | 不情愿的全球化者 |  |
+| engrossed in | 沉浸于 |  |
+| Tinseltown | 好莱坞 |  |
+| reversing | 反转 |  |
+| most-streamed | 播放量最高的 |  |
+| woo | 争取、讨好 |  |
+| halved | 减半 |  |
+| gravitate towards | 倾向于 |  |
+| trending | 热门的 |  |
+| franchises | 系列作品 |  |
+| regional variations | 区域差异 |  |
+| economies of scale | 规模经济 |  |
+| niches | 利基市场 |  |
+| sub-national | 国家以下的 |  |
+| cultural boom | 文化繁荣 |  |
+| global middle class | 全球中产阶级 |  |
+| tailored to | 量身定制 |  |
+| tastemakers | 品味塑造者 |  |
+| blizzard | 暴风雪 |  |
+| highlights | 精彩片段 |  |
+| turned out to be | 结果是 |  |
+| bleaker | 更凄凉的 |  |
+| purgatory | 炼狱 |  |
+| a diet of | 一份配给 |  |
+| global menu | 全球菜单 |  |
+| Regulators | 监管者 |  |
+| brought about by | 由……带来 |  |
+| quotas | 配额 |  |
+| century of dominance | 一个世纪的支配 |  |
+| lost its grip on | 失去掌控 |  |
+| tractor-beam | 牵引光束 |  |
+| recruited | 招揽 |  |
+| rushing to fill | 争相填补 |  |
+| fading force | 衰退的力量 |  |
+| kicked off | 开球、开始 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| assumptions | 假设 |  |
+| mega-events | 大型赛事 |  |
+| outskirts | 郊区 |  |
+| connected | 互联的 |  |
+| elite | 精英 |  |
+| platforms | 平台 |  |
+| franchises | 系列作品 |  |
+| subscriptions | 订阅 |  |
+| algorithms | 算法 |  |
+| commissioning | 委托制作 |  |
+| appetite | 意愿 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| audience | 受众 |  |
+| content | 内容 |  |
+| streaming | 流媒体 |  |
+| gamers | 玩家 |  |
+| charts | 排行榜 |  |
+| radio | 电台 |  |
+| final | 决赛 |  |
+

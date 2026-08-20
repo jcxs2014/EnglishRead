@@ -238,37 +238,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| would not even qualify as bronze | 连青铜都算不上 | The deal would not even qualify as bronze. |
-| insisted on strict conditions | 坚持严格条件 | America insisted on strict conditions. |
-| forgo domestic enrichment | 放弃国内浓缩 | The Emiratis had to forgo enrichment. |
-| firm up ... twitchy relations | 巩固紧张的关系 | The deal will firm up twitchy relations. |
-| risks undermining the NPT | 可能破坏 NPT | It risks undermining the treaty. |
-| swear off enrichment | 发誓放弃浓缩 | It will not require Saudi to swear off enrichment. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| subject to rigorous inspections | 接受严格检查 | The programme is subject to inspections. |
-| sweltering summers strain its grid | 酷夏使电网不堪重负 | Sweltering summers strain its grid. |
-| elbow out China and Russia | 挤掉中俄 | It is an attempt to elbow out rivals. |
-| a sop to | 对……的安抚 | It may be a sop to an angry ally. |
-| bungling of his war | 拙劣处理战争 | His bungling of the war led to this deal. |
-| a flawed deal as compensation for an incompetent war | 缺陷协议补偿无能战争 | It is typical Trump: compensation for incompetence. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| relinquish its programme | 放弃其计划 | Why relinquish enrichment if rivals keep theirs? |
-| a point of bipartisan agreement | 两党共识 | Non-proliferation was a bipartisan agreement. |
-| latent nuclear capabilities | 潜在核能力 | Allies pursue latent nuclear capabilities. |
-| time-honoured way | 古老的方法 | Commissioning a study is time-honoured. |
-| shoddy | 粗劣的 | The deal is shoddy. |
-| financially beholden to | 财务上受制于 | He is beholden to the kingdom's money. |
 
 ## 核心表达（可直接迁移）
 

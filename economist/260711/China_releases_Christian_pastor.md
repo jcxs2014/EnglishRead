@@ -282,42 +282,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| prominent | 知名的、显要的 | He played a prominent role in the talks. |
-| influential | 有影响力的 | One of the most influential books of the century. |
-| detention | 拘留、羁押 | He was held in detention for two years. |
-| crackdown | 打击、整治 | The police launched a crackdown on drunk driving. |
-| broaden | 扩大、拓宽 | Travel broadens your horizons. |
-| raise (with) | 提出（问题/案件） | I'll raise the matter with the manager. |
-| serve | 服刑；服务 | He is serving 20 years for fraud. |
-| reportedly | 据报道 | The talks reportedly broke down last night. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| remain | 保持（系动词） | The cause of the fire remains unknown. |
-| authorities | 当局、官方 | The authorities have launched an investigation. |
-| release | 释放 | The hostages were released unharmed. |
-| known as | 被称为、又名 | Xi'an, known as the city of history. |
-| reach (n.) | 覆盖面、影响范围 | Social media gave the movement global reach. |
-| tycoon | 大亨、巨头 | A property tycoon bought the island. |
-| pro-democracy | 亲民主的 | Pro-government rallies filled the square. |
-| conspiracy | 共谋、阴谋 | He was jailed for conspiracy to defraud. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| collude / collusion | 勾结、串通 | The two firms were accused of collusion. |
-| locked up | 被关押（口语） | They locked him up for 15 years. |
-| pastor | 牧师（新教） | The pastor led the congregation in prayer. |
-| jail | 监狱 | He spent five years in jail. |
-| Zion | 锡安（圣经地名） | — |
-| house church | 家庭教会（术语） | — |
-
 ## 四、长难句专项
 
 ### 🔍 句子 1：**S6**（上文已展开）
@@ -378,7 +342,7 @@
 - S4（从句 + 主句 + 分词结果状语，代词追踪）
 - S1 与 S2 的时态对照
 
-### 4. 写作技巧
+### 3. 写作技巧
 - **倒金字塔 + 时间倒流**：先给结论，再逐层回放背景
 - **代词纪律**：人名全称首次出现，之后用 he/his/Mr
 - **同义换词**：raised → spoke about，避免动词重复
@@ -397,3 +361,39 @@
 | `broadening its reach` 式分词结构 | 议论文 / 商务报告：陈述行动的附带结果 |
 | `a tough one` | 日常口语：一件棘手的事（`That was a tough one.`） |
 | `serve 20 years in jail` | 新闻 / 法律英语：服刑表达 |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| prominent | 知名的、显要的 | He played a prominent role in the talks. |
+| influential | 有影响力的 | One of the most influential books of the century. |
+| detention | 拘留、羁押 | He was held in detention for two years. |
+| crackdown | 打击、整治 | The police launched a crackdown on drunk driving. |
+| broaden | 扩大、拓宽 | Travel broadens your horizons. |
+| raise (with) | 提出（问题/案件） | I'll raise the matter with the manager. |
+| serve | 服刑；服务 | He is serving 20 years for fraud. |
+| reportedly | 据报道 | The talks reportedly broke down last night. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| remain | 保持（系动词） | The cause of the fire remains unknown. |
+| authorities | 当局、官方 | The authorities have launched an investigation. |
+| release | 释放 | The hostages were released unharmed. |
+| known as | 被称为、又名 | Xi'an, known as the city of history. |
+| reach (n.) | 覆盖面、影响范围 | Social media gave the movement global reach. |
+| tycoon | 大亨、巨头 | A property tycoon bought the island. |
+| pro-democracy | 亲民主的 | Pro-government rallies filled the square. |
+| conspiracy | 共谋、阴谋 | He was jailed for conspiracy to defraud. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| collude / collusion | 勾结、串通 | The two firms were accused of collusion. |
+| locked up | 被关押（口语） | They locked him up for 15 years. |
+| pastor | 牧师（新教） | The pastor led the congregation in prayer. |
+| jail | 监狱 | He spent five years in jail. |
+| Zion | 锡安（圣经地名） | — |
+| house church | 家庭教会（术语） | — |
+

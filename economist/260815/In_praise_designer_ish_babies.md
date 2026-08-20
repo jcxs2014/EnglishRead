@@ -761,56 +761,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| in-vitro fertilisation (IVF) | n.. 体外受精 | via in-vitro fertilisation |
-| assess | v.. 评估 | assess embryos based on |
-| kernels of truth | n.phr.. 真理的内核 | Both arguments contain kernels of truth |
-| polygenic | adj.. 多基因的 | such "polygenic" prediction |
-| near-certainty | n.. 近乎确定性 | testing offers near-certainty |
-| binary | adj.. 二元的 | rather than a binary answer |
-| ancestry | n.. 血统 | people with European ancestry |
-| caveats | n.. 警告、注意事项 | Further caveats are in order |
-| relative vs absolute | adj.. 相对的vs绝对的 | in relative terms but small in absolute ones |
-| disclosure | n.. 信息披露 | an argument for disclosure |
-| scupper | v.. 破坏、搞垮 | This will not scupper |
-| snake oil | n.phr.. 假药、骗人的东西 | not selling snake oil |
-| coerce | v.. 强制 | murderous coercion |
-| eugenicist | n.. 优生学家 | this century's eugenicists |
-| zealot | n.. 狂热分子 | only zealots want banned |
-| stand in the way of | phr.v.. 阻碍 | should not stand in the way |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| spate | n.. 一批、大量 | A spate of startups offer |
-| venture | v.. 冒险进入 | Some venture further into |
-| dismayed | adj.. 沮丧的 | Critics are dismayed |
-| vulnerable | adj.. 脆弱的 | vulnerable couples |
-| immature | adj.. 不成熟的 | immature technology |
-| ultimately | adv.. 最终 | neither is ultimately convincing |
-| niche | adj.. 小众的 | the debate is a niche concern |
-| cater to | phr.v.. 迎合 | cater to the rich |
-| regulatory | adj.. 监管的 | where fertility is more regulated |
-| scrutiny | n.. 审查 | undergo independent scrutiny |
-| nascent | adj.. 新兴的 | a nascent business |
-| corrupt | v.. 腐蚀 | fertility tech corrupts |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| transform | v.. 彻底改变 | Silicon Valley is now coming for birth |
-| offer | v.. 提供 | startups offer screening services |
-| allow | v.. 允许 | allow couples...to assess embryos |
-| support | v.. 支持 | three-quarters of Americans support |
-| worry | v.. 担心 | Some worry firms are pushing |
-| raise | v.. 引发/提高 | raise difficult ethical questions |
-| improve | v.. 改善 | scores will improve |
-| apply | v.. 适用于 | this argument...applies to IVF |
-
 ## 长难句专项
 
 ### 长难句 1（原句 2）
@@ -977,4 +927,53 @@
 1. **"selling snake oil"** —— 兜售假药/骗人的东西
 2. **"stand up to scrutiny"** —— 经得起审查
 3. **"stand in the way of"** —— 阻碍
-4. **"kernels of truth"** —— 真理的内核（有一点道理）
+4. **"kernels of truth"** —— 真理的内核（有一点道理）## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| in-vitro fertilisation (IVF) | n.. 体外受精 | via in-vitro fertilisation |
+| assess | v.. 评估 | assess embryos based on |
+| kernels of truth | n.phr.. 真理的内核 | Both arguments contain kernels of truth |
+| polygenic | adj.. 多基因的 | such "polygenic" prediction |
+| near-certainty | n.. 近乎确定性 | testing offers near-certainty |
+| binary | adj.. 二元的 | rather than a binary answer |
+| ancestry | n.. 血统 | people with European ancestry |
+| caveats | n.. 警告、注意事项 | Further caveats are in order |
+| relative vs absolute | adj.. 相对的vs绝对的 | in relative terms but small in absolute ones |
+| disclosure | n.. 信息披露 | an argument for disclosure |
+| scupper | v.. 破坏、搞垮 | This will not scupper |
+| snake oil | n.phr.. 假药、骗人的东西 | not selling snake oil |
+| coerce | v.. 强制 | murderous coercion |
+| eugenicist | n.. 优生学家 | this century's eugenicists |
+| zealot | n.. 狂热分子 | only zealots want banned |
+| stand in the way of | phr.v.. 阻碍 | should not stand in the way |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| spate | n.. 一批、大量 | A spate of startups offer |
+| venture | v.. 冒险进入 | Some venture further into |
+| dismayed | adj.. 沮丧的 | Critics are dismayed |
+| vulnerable | adj.. 脆弱的 | vulnerable couples |
+| immature | adj.. 不成熟的 | immature technology |
+| ultimately | adv.. 最终 | neither is ultimately convincing |
+| niche | adj.. 小众的 | the debate is a niche concern |
+| cater to | phr.v.. 迎合 | cater to the rich |
+| regulatory | adj.. 监管的 | where fertility is more regulated |
+| scrutiny | n.. 审查 | undergo independent scrutiny |
+| nascent | adj.. 新兴的 | a nascent business |
+| corrupt | v.. 腐蚀 | fertility tech corrupts |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| transform | v.. 彻底改变 | Silicon Valley is now coming for birth |
+| offer | v.. 提供 | startups offer screening services |
+| allow | v.. 允许 | allow couples...to assess embryos |
+| support | v.. 支持 | three-quarters of Americans support |
+| worry | v.. 担心 | Some worry firms are pushing |
+| raise | v.. 引发/提高 | raise difficult ethical questions |
+| improve | v.. 改善 | scores will improve |
+| apply | v.. 适用于 | this argument...applies to IVF |
+

@@ -905,52 +905,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| nascent | 新兴的/初生的 | 原句 6 |
-| unregulated | 不受监管的 | 原句 6 |
-| sparse data | 稀疏数据 | 原句 9 |
-| underestimate | 低估 | 原句 9 |
-| prevail | 盛行/普遍存在 | 原句 11 |
-| acknowledge | 承认 | 原句 11 |
-| a spate of | 一系列（坏事） | 原句 25 |
-| perceived unfairness | 感受到的不公正 | 原句 26 |
-| mania for | 对……的狂热 | 原句 27 |
-| free-for-all | 混战/大乱斗 | 原句 34 |
-| malpractice | 不当行为/玩忽职守 | 原句 35 |
-| abound | 大量存在 | 原句 35 |
-| expends energy | 投入精力 | 原句 37 |
-| chip away against | 逐渐打破 | 原句 43 |
-| entails | 需要/牵涉 | 原句 45 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| counselling sessions | 咨询疗程 | 原句 1 |
-| overthinking | 过度思考 | 原句 2 |
-| prevalence | 患病率 | 原句 7, 8 |
-| social stigma | 社会污名 | 原句 11 |
-| turning-point | 转折点 | 原句 12 |
-| spikes | 激增 | 原句 13 |
-| out of bounds | 禁止进入 | 原句 15 |
-| crisis intervention | 危机干预 | 原句 20 |
-| remedial class | 补习课 | 原句 44 |
-| the better-off | 富裕阶层 | 原句 48 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| struggle with | 与……作斗争 | 原句 3 |
-| seek help | 寻求帮助 | 原句 5 |
-| seek counselling | 寻求咨询 | 原句 14 |
-| take advantage of | 利用 | 原句 18 |
-| step up | 加强 | 原句 27 |
-| point to | 指出 | 原句 29 |
-| remain | 仍然 | 原句 5, 30, 48 |
-
 ## 长难句专项
 
 ### 长难句 1（原句 7）
@@ -1086,6 +1040,52 @@
 |------|------|----------|
 | take mental health less seriously | 不太重视心理健康 | 讨论代际差异、文化偏见 |
 | a surge in | 某事物激增 | 数据描述、趋势分析 |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nascent | 新兴的/初生的 | 原句 6 |
+| unregulated | 不受监管的 | 原句 6 |
+| sparse data | 稀疏数据 | 原句 9 |
+| underestimate | 低估 | 原句 9 |
+| prevail | 盛行/普遍存在 | 原句 11 |
+| acknowledge | 承认 | 原句 11 |
+| a spate of | 一系列（坏事） | 原句 25 |
+| perceived unfairness | 感受到的不公正 | 原句 26 |
+| mania for | 对……的狂热 | 原句 27 |
+| free-for-all | 混战/大乱斗 | 原句 34 |
+| malpractice | 不当行为/玩忽职守 | 原句 35 |
+| abound | 大量存在 | 原句 35 |
+| expends energy | 投入精力 | 原句 37 |
+| chip away against | 逐渐打破 | 原句 43 |
+| entails | 需要/牵涉 | 原句 45 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| counselling sessions | 咨询疗程 | 原句 1 |
+| overthinking | 过度思考 | 原句 2 |
+| prevalence | 患病率 | 原句 7, 8 |
+| social stigma | 社会污名 | 原句 11 |
+| turning-point | 转折点 | 原句 12 |
+| spikes | 激增 | 原句 13 |
+| out of bounds | 禁止进入 | 原句 15 |
+| crisis intervention | 危机干预 | 原句 20 |
+| remedial class | 补习课 | 原句 44 |
+| the better-off | 富裕阶层 | 原句 48 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| struggle with | 与……作斗争 | 原句 3 |
+| seek help | 寻求帮助 | 原句 5 |
+| seek counselling | 寻求咨询 | 原句 14 |
+| take advantage of | 利用 | 原句 18 |
+| step up | 加强 | 原句 27 |
+| point to | 指出 | 原句 29 |
+| remain | 仍然 | 原句 5, 30, 48 |
+
 | after allowing for | 考虑到/把……考虑在内 | 统计分析、学术写作 |
 | sparse data | 稀疏数据 | 学术写作、数据质量讨论 |
 | marked a turning-point | 标志着转折点 | 历史事件分析 |

@@ -575,62 +575,6 @@
 
 **段落逻辑：** 政府姿态（对冲）→ 现状（冻结配额=权宜）→ 解读（真实意图=收缩国家影响力保仪式）→ 结论（无论方向，仪式将吱嘎作响；公平即政治）。第 8 段完成"结论与升华"。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| quintessential | 精髓的、典型的 | The quintessential gatekeeping ritual. |
-| gatekeeping ritual | 守门仪式 | China's gaokao. |
-| held their breath | 屏住呼吸 | Held their breath as results came out. |
-| shake up | 撼动、改革 | Shake up the system. |
-| latitude | 自由度（本义纬度） | More latitude to set exams. |
-| headline change | 头条级变化 | The headline change. |
-| provincial examiners | 省级命题官 | Provincial examiners. |
-| at ... discretion | 由……裁量 | At provincial discretion. |
-| century-old | 百年的 | A century-old system. |
-| a question mark over | ……上的问号 | A question mark over its future. |
-| the surest route | 最稳妥的途径 | The surest route to moving up. |
-| social contract | 社会契约 | The social contract. |
-| usher ... through | 引导穿过 | Usher a fresh cohort through gates. |
-| anti-fossilisation | 反固化（造词） | See changes as anti-fossilisation. |
-| surface uniformity | 表面平均 | Decades of surface uniformity. |
-| masked | 掩盖 | Masked rising inequality. |
-| tailored to | 量身定制 | Tailored to what they learn. |
-| fret | 发愁、忧虑 | Fret about the future. |
-| arbitrarily | 任意地 | Allocated arbitrarily. |
-| decentralised | 分权化的 | A decentralised system. |
-| owes ... to | 归功于 | Owes its status to history. |
-| near-sacred | 近乎神圣 | Near-sacred status. |
-| robbed of | 被剥夺 | A generation robbed of education. |
-| tampering with | 篡改、摆弄 | Tampering with history itself. |
-| validity vs fairness | 效度对公平 | Validity versus fairness. |
-| maximises | 最大化 | Maximises fairness. |
-| rote-learned | 死记硬背的 | What students have rote-learned. |
-| holistic approach | 全面评估法 | A more holistic approach. |
-| pushback | 阻力、抵制 | Face pushback. |
-| run deep | 根深蒂固 | Suspicion runs deep. |
-| hedging | 对冲、两头下注 | The state is hedging. |
-| stopgap | 权宜之计 | A stopgap rather than a solution. |
-| sheen | 光泽、光鲜 | Keeping the ritual's sheen. |
-| crunch | 嘎吱作响 | The ritual is sure to crunch. |
-| fairness is politics | 公平即政治（格言） | For fairness is politics. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| cohort | — 同批人（新生代） |  |
-| scarcity | / scarce — 稀缺 |  |
-| fossilisation | — 石化（制度僵化） |  |
-| what | they actually learn — 实际所学（贴合教学） |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| exam | 试卷 |  |
-| results | — 成绩 |  |
-| provinces | — 各省 |  |
-
 ## 三、长难句专项
 
 > **长难句 1（原句 14）：**
@@ -696,4 +640,59 @@
 
 ---
 
-**精读完成。** 本篇以"高考改革"切入，呈现笔试制度在"效度"与"公平"间的永恒张力：统一卷保公平却难测真才，分省命题求效度却可能放大"出身决定论"；而高考近神圣的地位来自其"还教育债"的历史政治属性。写法上以三组正反对照构建论述，以"公平即政治"的格言收束。是一篇成熟的"制度分析"文体范本。
+**精读完成。** 本篇以"高考改革"切入，呈现笔试制度在"效度"与"公平"间的永恒张力：统一卷保公平却难测真才，分省命题求效度却可能放大"出身决定论"；而高考近神圣的地位来自其"还教育债"的历史政治属性。写法上以三组正反对照构建论述，以"公平即政治"的格言收束。是一篇成熟的"制度分析"文体范本。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| quintessential | 精髓的、典型的 | The quintessential gatekeeping ritual. |
+| gatekeeping ritual | 守门仪式 | China's gaokao. |
+| held their breath | 屏住呼吸 | Held their breath as results came out. |
+| shake up | 撼动、改革 | Shake up the system. |
+| latitude | 自由度（本义纬度） | More latitude to set exams. |
+| headline change | 头条级变化 | The headline change. |
+| provincial examiners | 省级命题官 | Provincial examiners. |
+| at ... discretion | 由……裁量 | At provincial discretion. |
+| century-old | 百年的 | A century-old system. |
+| a question mark over | ……上的问号 | A question mark over its future. |
+| the surest route | 最稳妥的途径 | The surest route to moving up. |
+| social contract | 社会契约 | The social contract. |
+| usher ... through | 引导穿过 | Usher a fresh cohort through gates. |
+| anti-fossilisation | 反固化（造词） | See changes as anti-fossilisation. |
+| surface uniformity | 表面平均 | Decades of surface uniformity. |
+| masked | 掩盖 | Masked rising inequality. |
+| tailored to | 量身定制 | Tailored to what they learn. |
+| fret | 发愁、忧虑 | Fret about the future. |
+| arbitrarily | 任意地 | Allocated arbitrarily. |
+| decentralised | 分权化的 | A decentralised system. |
+| owes ... to | 归功于 | Owes its status to history. |
+| near-sacred | 近乎神圣 | Near-sacred status. |
+| robbed of | 被剥夺 | A generation robbed of education. |
+| tampering with | 篡改、摆弄 | Tampering with history itself. |
+| validity vs fairness | 效度对公平 | Validity versus fairness. |
+| maximises | 最大化 | Maximises fairness. |
+| rote-learned | 死记硬背的 | What students have rote-learned. |
+| holistic approach | 全面评估法 | A more holistic approach. |
+| pushback | 阻力、抵制 | Face pushback. |
+| run deep | 根深蒂固 | Suspicion runs deep. |
+| hedging | 对冲、两头下注 | The state is hedging. |
+| stopgap | 权宜之计 | A stopgap rather than a solution. |
+| sheen | 光泽、光鲜 | Keeping the ritual's sheen. |
+| crunch | 嘎吱作响 | The ritual is sure to crunch. |
+| fairness is politics | 公平即政治（格言） | For fairness is politics. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cohort | — 同批人（新生代） |  |
+| scarcity | / scarce — 稀缺 |  |
+| fossilisation | — 石化（制度僵化） |  |
+| what | they actually learn — 实际所学（贴合教学） |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| exam | 试卷 |  |
+| results | — 成绩 |  |
+| provinces | — 各省 |  |
+

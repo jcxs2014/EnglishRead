@@ -359,60 +359,6 @@
 
 **段落逻辑：** 改革前景渺茫 → 只要严控+有利可图敲诈必兴旺 → 受害者付钱/敲诈者收钱（对称收束）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| n. | 董事 | 原句 1 |
-| v. | 索要 | 原句 2 |
-| v. | 拒绝 | 原句 3 |
-| n. | 孤立事件 | 原句 5 |
-| n. | 自媒体运营者 | 原句 6 |
-| n. | 负面曝光 | 原句 6 |
-| 短语 | 勒索钱财 | 原句 6 |
-| n. | 敲诈 | 原句 7 |
-| v. | 繁盛 | 原句 8 |
-| 短语 | 几乎不受监管 | 原句 8 |
-| n. | 注意力经济 | 原句 9 |
-| adj. | 可信的 | 原句 9 |
-| 短语 | 病毒式传播 | 原句 10 |
-| v. | 摧毁 | 原句 10 |
-| n. | 公关团队 | 原句 11 |
-| 短语 | 盘算着 | 原句 11 |
-| 短语 | 引注意 | 原句 13 |
-| 短语 | 被抹黑 | 原句 14 |
-| adj. | 低风险 | 原句 15 |
-| n. | 作恶者 | 原句 15 |
-| n. | 监管环境 | 原句 16 |
-| adj. | 获许可的 | 原句 17 |
-| n. | 讽刺 | 原句 18 |
-| v. | 容忍 | 原句 18 |
-| 短语 | 打压 | 原句 19 |
-| adj. | 有利可图的 | 原句 21 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| received | a phone call he did not expect — 接到意想不到的电话 |  |
-| demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |  |
-| hundreds | of thousands of views — 数十万浏览量 |  |
-| use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |  |
-| flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |  |
-| the | economics of the attention economy — 注意力经济的逻辑 |  |
-| paying | is cheaper than fighting — 付钱比抗争划算 |  |
-| under | pressure to attract investment — 迫于招商引资压力 |  |
-| two | sides of the same coin — 同一枚硬币的两面 |  |
-| find | a way to thrive — 找到兴旺之道 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| allegation | — 指控 |  |
-| independent | journalism — 独立新闻业 |  |
-| media | outlets — 媒体机构 |  |
-| critical | journalists — 批评性记者 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 8）
@@ -514,4 +460,57 @@
 - "The practice has a name: ..." — 用于"给现象命名"。
 - "A and B are two sides of the same coin" — 用于"一体两面"。
 - "There is little prospect of reform" — 用于"改革前景渺茫"。
-- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。
+- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 董事 | 原句 1 |
+| v. | 索要 | 原句 2 |
+| v. | 拒绝 | 原句 3 |
+| n. | 孤立事件 | 原句 5 |
+| n. | 自媒体运营者 | 原句 6 |
+| n. | 负面曝光 | 原句 6 |
+| 短语 | 勒索钱财 | 原句 6 |
+| n. | 敲诈 | 原句 7 |
+| v. | 繁盛 | 原句 8 |
+| 短语 | 几乎不受监管 | 原句 8 |
+| n. | 注意力经济 | 原句 9 |
+| adj. | 可信的 | 原句 9 |
+| 短语 | 病毒式传播 | 原句 10 |
+| v. | 摧毁 | 原句 10 |
+| n. | 公关团队 | 原句 11 |
+| 短语 | 盘算着 | 原句 11 |
+| 短语 | 引注意 | 原句 13 |
+| 短语 | 被抹黑 | 原句 14 |
+| adj. | 低风险 | 原句 15 |
+| n. | 作恶者 | 原句 15 |
+| n. | 监管环境 | 原句 16 |
+| adj. | 获许可的 | 原句 17 |
+| n. | 讽刺 | 原句 18 |
+| v. | 容忍 | 原句 18 |
+| 短语 | 打压 | 原句 19 |
+| adj. | 有利可图的 | 原句 21 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| received | a phone call he did not expect — 接到意想不到的电话 |  |
+| demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |  |
+| hundreds | of thousands of views — 数十万浏览量 |  |
+| use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |  |
+| flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |  |
+| the | economics of the attention economy — 注意力经济的逻辑 |  |
+| paying | is cheaper than fighting — 付钱比抗争划算 |  |
+| under | pressure to attract investment — 迫于招商引资压力 |  |
+| two | sides of the same coin — 同一枚硬币的两面 |  |
+| find | a way to thrive — 找到兴旺之道 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| allegation | — 指控 |  |
+| independent | journalism — 独立新闻业 |  |
+| media | outlets — 媒体机构 |  |
+| critical | journalists — 批评性记者 |  |
+

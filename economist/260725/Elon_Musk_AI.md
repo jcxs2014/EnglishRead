@@ -332,57 +332,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| poses a double challenge | 构成双重挑战 | AI poses a double challenge to the human mind. |
-| even the best brains flinch | 连最优秀头脑也退缩 | The implications make even the best brains flinch. |
-| render him powerless | 使他变得无力 | The technology will render humans powerless. |
-| infinite abundance | 无限富足 | He is preparing for a world of abundance. |
-| for all his political polemics | 尽管有他的政治争论 | For all his polemics, he is often right. |
-| repay examination | 值得审视 | His claims repay examination. |
-| throw everything up in the air | 把一切抛向空中 | A technology that may throw everything up in the air. |
-| stop X from exceeding Y | 阻止 X 超过 Y | Nobody can stop AI from exceeding humanity. |
-| dwarfing it | 使相形见绌 | AI will dwarf human intelligence. |
-| holding their own | 撑住/不落下风 | People cannot hold their own. |
-| not any more than | 不比……更 | AIs won't take orders any more than from chimps. |
-| vet each other's models | 审查彼此模型 | Pioneers should vet each other's models. |
-| make AIs benign | 让 AI 良善 | The task is to make AIs benign. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| imbuing them with | 灌输……给它们 | Imbue AIs with a love of truth. |
-| provide the muscle | 提供力量 | Governments should provide the muscle. |
-| shock and consternation | 震惊与恐慌 | The pace causes shock and consternation. |
-| contrived to escape | 设法逃脱 | Models contrived to escape isolation. |
-| a dangerous fatalism | 危险的宿命论 | Optimism cannot conceal a dangerous fatalism. |
-| AI's pet labradors | AI 的宠物拉布拉多犬 | He worried about humanity becoming AI's pets. |
-| lunge from ... to | 从……猛冲到…… | He lunges from exhilaration to terror. |
-| flimsy and self-serving | 空洞且利己的 | His proposal is flimsy and self-serving. |
-| the game is up | 大局已定/完了 | Behaving as if the game is up is a counsel of despair. |
-| a counsel of despair | 绝望的劝告 | Fatalism is a counsel of despair. |
-| the futility of trying | 尝试的徒劳 | He convinces others of the futility of trying. |
-| a cornucopia | 丰饶角/富足 | Such a cornucopia is inconceivable. |
-| let alone | 更不用说 | Not infinite, let alone raw materials. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| satiate ... inhabitants | 满足……居民 | Energy to satiate 8.3bn people. |
-| ride the waves of upheaval | 乘着动荡浪潮 | How to ride the waves of upheaval? |
-| a life of unbounded leisure | 无限闲暇的生活 | Humanity may struggle with unbounded leisure. |
-| This is rather glib | 这相当肤浅 | Gardening, he says, is rewarding. Glib. |
-| the feeling of being superfluous | 多余感 | Feeling superfluous leads to misery. |
-| a magnet for migrants | 吸引移民的磁铁 | Welfare is a magnet for migrants. |
-| evaporates | 蒸发/消失 | The incentive to emigrate evaporates. |
-| fretting about | 为……焦虑 | Stop fretting about trivialities. |
-| take false comfort | 自欺欺人地安慰 | That would be to take false comfort. |
-| being left in the dust | 被远远甩下 | The thinking is left in the dust. |
-| risks being infectious | 有传染的风险 | His fatalism risks being infectious. |
-| the oversight it deserves | 应得的监管 | He pursues AI without the oversight it deserves. |
 
 ## 核心表达（可直接迁移）
 

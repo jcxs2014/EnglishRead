@@ -940,58 +940,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| set A on B | 放出去对付 | set the DoJ on sb`（放狗咬人的猎犬意象） |
-| cry foul | 大喊犯规/抗议 | 体育隐喻，`Champions cried foul |
-| champion (n.) | 捍卫者 | a champion of press freedom`（注意非"冠军"义） |
-| grievance | 怨愤/委屈 | grievance agenda` / `grievance politics |
-| not the half of it | 远不止于此 | 口语习语，表"冰山一角" |
-| inflict A on B | 强加（伤害）于 | inflict harms on the DoJ |
-| attention-grabbing | 抓眼球的 | 反义对：`less-noticed |
-| attorney-general | 司法部长/总检察长 | 美英头衔，英式常作 `Attorney General |
-| serve as | 充当/担任 | serve as the guardian of the law |
-| the rule of law | 法治 | 政论高频核心词 |
-| hold sway | 占支配地位 | 正式书面语 |
-| have no time for | 不屑于 | 口语惯用语，非字面义 |
-| muscular limb | 粗壮的肢体 | 比喻"只有力量没有头脑" |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| legitimate | 合法的/正当的 | which is legitimate |
-| blur A and B | 模糊界限 | blur the line between X and Y |
-| discredit | 抹黑 | 正式动词 |
-| obsession | 执念 | a presidential obsession`（贬义） |
-| pore over | 仔细翻查 | 隐含"徒劳细看" |
-| sinister | 险恶的 | sinister design |
-| languish` / `wither | 凋敝/萎缩 | 枯萎隐喻，植物意象 |
-| indictment | 起诉 | be down by 30% from the ten-year average |
-| bog down | 陷入泥潭 | 沼泽隐喻 |
-| divert A to B | 转用/挪用 | diverted to immigration enforcement |
-| in league with | 与……串通 | 贬义色彩 |
-| sack | 解雇 | 口语化，比 fire 有冲击力 |
-| pliable | 顺从的 | 原义"可弯曲的" |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| stand firm | 坚守立场 | courts stand firm |
-| check (v.) | 遏制 | 呼应 checks and balances |
-| nullify | 使无效 | 正式法律动词 |
-| subpoena | 传票/传唤 | 名动同形 |
-| acolyte | 追随者 | 轻蔑色彩 |
-| partisan | 党派的 | 名词/形容词 |
-| witch hunt | 猎巫 | 政治迫害隐喻 |
-| purge | 清洗 | 政治术语 |
-| entail | 必然带来 | 正式动词 |
-| think twice about | 三思 | think twice about signing up |
-| statesmanship | 政治家风范 | 抽象名词 |
-| bipartisan | 两党合作的 | bi-` + `partisan |
-| the stakes are high | 利害攸关 | 结尾金句 |
 
 ## 核心表达（可直接迁移）
 

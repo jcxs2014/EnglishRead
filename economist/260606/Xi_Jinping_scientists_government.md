@@ -557,120 +557,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| attracted little attention | 几乎未引起关注 | The news attracted little attention. |
-| consequential | 意义重大的 | A consequential decision. |
-| the clearest signal yet | 迄今最清晰信号 | The clearest signal yet of change. |
-| intends to | 打算 | She intends to resign. |
-| in question | 所指的 | The scientist in question. |
-| took over as | 接任 | He took over as CEO. |
-| by training | 就训练而言 | An engineer by training. |
-| the back rooms | 幕后 | Decisions in the back rooms. |
-| far from the limelight | 远离聚光灯 | He worked far from the limelight. |
-| the political limelight | 政治聚光灯 | Keep out of the limelight. |
-| brought into | 被引入 | Brought new experts into government. |
-| at various levels | 在各个层级 | Reform at various levels. |
-| take up new posts | 就任新职 | She took up her new post. |
-| has just been named as | 刚被任命为 | She was named as director. |
-| state councillor | 国务委员 | Promoted to state councillor. |
-| ministerial-rank | 部级 | A ministerial-rank position. |
-| was made a vice-minister | 被任命为副部长 | He was made minister. |
-| A fourth | 第四位 | A fourth official was named. |
-| went from ... to | 从……转到 | He went from the lab to the ministry. |
-| matter | 重要 | Does it matter? |
-| a double-edged sword | 双刃剑 | AI is a double-edged sword. |
-| on the positive side | 在积极方面 | On the positive side, it's cheap. |
-| putting ... in power | 让……掌权 | Putting experts in power. |
-| evidence and expertise | 证据与专长 | Policy driven by evidence. |
-| matter more than ideology | 比意识形态更重要 | Expertise matters more than politics. |
-| spot problems early | 及早发现问题 | Spot problems early. |
-| politically driven decisions | 政治驱动的决策 | A politically driven choice. |
-| on the negative side | 在消极方面 | On the negative side, it's slow. |
-| given power | 被赋予权力 | Scientists given power. |
-| become less independent | 变得更不独立 | Less independent than before. |
-| credibility | 公信力 | His credibility suffered. |
-| suffer as a result | 因此受损 | Trust suffered as a result. |
-| co-opted | 被收编 | The academy was co-opted. |
-| doubt their findings | 怀疑研究结论 | The public doubted the findings. |
-| even on matters where | 即使在……领域 | Even where expertise is genuine. |
-| the deeper reason | 更深层原因 | The deeper reason behind it. |
-| more cynical | 更算计的 | A cynical interpretation. |
-| wants to show | 想表明 | They want to show progress. |
-| a product of | ……的产物 | A product of state guidance. |
-| state guidance | 国家引导 | Growth under state guidance. |
-| claim that | 声称 | They claim it's effective. |
-| supported by scientific authority | 得到科学权威支持 | Backed by scientific authority. |
-| in other words | 换言之 | In other words, it's a symbol. |
-| being used as | 正被用作 | Used as a pawn. |
-| a decoration for | 为……的装饰 | A decoration for the regime. |
-| it is not clear | 尚不清楚 | It is not clear why. |
-| influence policy | 影响政策 | Scientists can influence policy. |
-| one-party system | 一党制 | Under a one-party system. |
-| top decision-makers | 最高决策者 | Top decision-makers. |
-| act without | 在无……的情况下行事 | They acted without consulting. |
-| formal consultation with | 与……正式协商 | Consultation with experts. |
-| largely | 很大程度上 | Largely ceremonial. |
-| ceremonial | 仪式性的 | A ceremonial post. |
-| the pattern is not new | 模式并不新鲜 | The pattern is familiar. |
-| have long drawn ... into | 长期拉入 | Long drawn into politics. |
-| the political orbit | 政治轨道 | Within the party's orbit. |
-| the late | 已故的 | The late founder. |
-| known as | 被称为 | Known as the father of ... |
-| were drafted into | 被征召进 | Drafted into the army. |
-| the bureaucracy | 官僚体系 | Inside the bureaucracy. |
-| Party committees | 党委 | Party committees in universities. |
-| were installed in | 被派驻到 | Installed in schools. |
-| research institutes | 科研院所 | State research institutes. |
-| an institutional foothold | 制度立足点 | A foothold in the market. |
-| what has changed | 变化的是 | What has changed is the scale. |
-| the scale and visibility | 规模与可见度 | The visibility of the move. |
-| invisible | 无形的 | An invisible process. |
-| made quietly | 悄悄地做 | Made quietly. |
-| behind the scenes | 在幕后 | Deals behind the scenes. |
-| high-profile | 高调的 | A high-profile appointment. |
-| appearing in state media | 出现在官方媒体 | Scientists in state media. |
-| giving interviews | 接受采访 | Gave interviews to reporters. |
-| lending their names to | 借名给 | Lent his name to the campaign. |
-| makes it harder for ... to | 使……更难 | Fame made it harder to hide. |
-| maintain a reputation for | 维持名声 | Maintained a reputation for honesty. |
-| independent scientific inquiry | 独立科学探究 | A tradition of inquiry. |
-| the more ... the more ... | 越……越…… | The more you give, the more you get. |
-| seen as extensions of the state | 被视为国家延伸 | An extension of the party. |
-| distrust the science itself | 不信任科学本身 | They distrusted the science. |
-| trade-off | 权衡取舍 | A trade-off between risk and reward. |
-| seems willing to accept | 似乎愿意接受 | Willing to accept the risk. |
-| for now | 目前 | For now, it's fine. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| appointment | 任命 |  |
-| president of CAS | 中科院院长 |  |
-| cloud scientist | 云科学家 |  |
-| space agency | 航天局 |  |
-| the National Natural Science Foundation | 国家自然科学基金 |  |
-| the Ministry of Science and Technology | 科技部 |  |
-| policy announcements | 政策公告 |  |
-| state power | 国家权力 |  |
-| the communist era | 共产主义时代 |  |
-| Qian Xuesen | 钱学森 |  |
-| research institutes | 研究院所 |  |
-| the leadership | 领导层 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| climate change | 气候变化 |  |
-| public health | 公共卫生 |  |
-| ideology | 意识形态 |  |
-| universities | 大学 |  |
-| interviews | 采访 |  |
-| state media | 官方媒体 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 2（判断句 + 同位语从句）
@@ -828,20 +714,7 @@
 - **in question 后置定语**：`the scientist in question`
 - **from...to 时间/空间结构**：`from the early years of the communist era to the present day`
 
-### 3. 长难句
-
-- 原句 2：判断句 + 同位语从句
-- 原句 3：多重同位语
-- 原句 11：动名词主语 + where 定语从句
-- 原句 13：过去分词定语 + 并列主句
-- 原句 14：co-opt + 让步状语从句
-- 原句 18：结论句 + 同位语降格
-- 原句 19：形式主语 + 主语从句
-- 原句 28：with 复合结构 + 三并列分词
-- 原句 30：The more...the more 正比结构
-- 原句 31：省略 that 定语从句
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **"低调事件 + 高深意义"开场**：`attracted little attention`（无人关注）→ `in fact a consequential event`（其实意义重大）——先抑后扬，制造"原来如此"的认知落差
 2. **最高级信号句**：`the clearest signal yet that ...`（迄今最清晰信号）——用 signal（信号）一词把"人事任命"读作"政策意图的讯号"，赋予个案普遍意义
@@ -855,6 +728,119 @@
 10. **审慎收束**：`It is a trade-off the leadership seems willing to accept for now`——trade-off（权衡）+ seems（似乎）+ for now（暂时）三重留白，不把话说死，符合时评的严谨
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| attracted little attention | 几乎未引起关注 | The news attracted little attention. |
+| consequential | 意义重大的 | A consequential decision. |
+| the clearest signal yet | 迄今最清晰信号 | The clearest signal yet of change. |
+| intends to | 打算 | She intends to resign. |
+| in question | 所指的 | The scientist in question. |
+| took over as | 接任 | He took over as CEO. |
+| by training | 就训练而言 | An engineer by training. |
+| the back rooms | 幕后 | Decisions in the back rooms. |
+| far from the limelight | 远离聚光灯 | He worked far from the limelight. |
+| the political limelight | 政治聚光灯 | Keep out of the limelight. |
+| brought into | 被引入 | Brought new experts into government. |
+| at various levels | 在各个层级 | Reform at various levels. |
+| take up new posts | 就任新职 | She took up her new post. |
+| has just been named as | 刚被任命为 | She was named as director. |
+| state councillor | 国务委员 | Promoted to state councillor. |
+| ministerial-rank | 部级 | A ministerial-rank position. |
+| was made a vice-minister | 被任命为副部长 | He was made minister. |
+| A fourth | 第四位 | A fourth official was named. |
+| went from ... to | 从……转到 | He went from the lab to the ministry. |
+| matter | 重要 | Does it matter? |
+| a double-edged sword | 双刃剑 | AI is a double-edged sword. |
+| on the positive side | 在积极方面 | On the positive side, it's cheap. |
+| putting ... in power | 让……掌权 | Putting experts in power. |
+| evidence and expertise | 证据与专长 | Policy driven by evidence. |
+| matter more than ideology | 比意识形态更重要 | Expertise matters more than politics. |
+| spot problems early | 及早发现问题 | Spot problems early. |
+| politically driven decisions | 政治驱动的决策 | A politically driven choice. |
+| on the negative side | 在消极方面 | On the negative side, it's slow. |
+| given power | 被赋予权力 | Scientists given power. |
+| become less independent | 变得更不独立 | Less independent than before. |
+| credibility | 公信力 | His credibility suffered. |
+| suffer as a result | 因此受损 | Trust suffered as a result. |
+| co-opted | 被收编 | The academy was co-opted. |
+| doubt their findings | 怀疑研究结论 | The public doubted the findings. |
+| even on matters where | 即使在……领域 | Even where expertise is genuine. |
+| the deeper reason | 更深层原因 | The deeper reason behind it. |
+| more cynical | 更算计的 | A cynical interpretation. |
+| wants to show | 想表明 | They want to show progress. |
+| a product of | ……的产物 | A product of state guidance. |
+| state guidance | 国家引导 | Growth under state guidance. |
+| claim that | 声称 | They claim it's effective. |
+| supported by scientific authority | 得到科学权威支持 | Backed by scientific authority. |
+| in other words | 换言之 | In other words, it's a symbol. |
+| being used as | 正被用作 | Used as a pawn. |
+| a decoration for | 为……的装饰 | A decoration for the regime. |
+| it is not clear | 尚不清楚 | It is not clear why. |
+| influence policy | 影响政策 | Scientists can influence policy. |
+| one-party system | 一党制 | Under a one-party system. |
+| top decision-makers | 最高决策者 | Top decision-makers. |
+| act without | 在无……的情况下行事 | They acted without consulting. |
+| formal consultation with | 与……正式协商 | Consultation with experts. |
+| largely | 很大程度上 | Largely ceremonial. |
+| ceremonial | 仪式性的 | A ceremonial post. |
+| the pattern is not new | 模式并不新鲜 | The pattern is familiar. |
+| have long drawn ... into | 长期拉入 | Long drawn into politics. |
+| the political orbit | 政治轨道 | Within the party's orbit. |
+| the late | 已故的 | The late founder. |
+| known as | 被称为 | Known as the father of ... |
+| were drafted into | 被征召进 | Drafted into the army. |
+| the bureaucracy | 官僚体系 | Inside the bureaucracy. |
+| Party committees | 党委 | Party committees in universities. |
+| were installed in | 被派驻到 | Installed in schools. |
+| research institutes | 科研院所 | State research institutes. |
+| an institutional foothold | 制度立足点 | A foothold in the market. |
+| what has changed | 变化的是 | What has changed is the scale. |
+| the scale and visibility | 规模与可见度 | The visibility of the move. |
+| invisible | 无形的 | An invisible process. |
+| made quietly | 悄悄地做 | Made quietly. |
+| behind the scenes | 在幕后 | Deals behind the scenes. |
+| high-profile | 高调的 | A high-profile appointment. |
+| appearing in state media | 出现在官方媒体 | Scientists in state media. |
+| giving interviews | 接受采访 | Gave interviews to reporters. |
+| lending their names to | 借名给 | Lent his name to the campaign. |
+| makes it harder for ... to | 使……更难 | Fame made it harder to hide. |
+| maintain a reputation for | 维持名声 | Maintained a reputation for honesty. |
+| independent scientific inquiry | 独立科学探究 | A tradition of inquiry. |
+| the more ... the more ... | 越……越…… | The more you give, the more you get. |
+| seen as extensions of the state | 被视为国家延伸 | An extension of the party. |
+| distrust the science itself | 不信任科学本身 | They distrusted the science. |
+| trade-off | 权衡取舍 | A trade-off between risk and reward. |
+| seems willing to accept | 似乎愿意接受 | Willing to accept the risk. |
+| for now | 目前 | For now, it's fine. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| appointment | 任命 |  |
+| president of CAS | 中科院院长 |  |
+| cloud scientist | 云科学家 |  |
+| space agency | 航天局 |  |
+| the National Natural Science Foundation | 国家自然科学基金 |  |
+| the Ministry of Science and Technology | 科技部 |  |
+| policy announcements | 政策公告 |  |
+| state power | 国家权力 |  |
+| the communist era | 共产主义时代 |  |
+| Qian Xuesen | 钱学森 |  |
+| research institutes | 研究院所 |  |
+| the leadership | 领导层 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| climate change | 气候变化 |  |
+| public health | 公共卫生 |  |
+| ideology | 意识形态 |  |
+| universities | 大学 |  |
+| interviews | 采访 |  |
+| state media | 官方媒体 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -874,3 +860,4 @@
 | `a trade-off between A and B` | A 与 B 的权衡 | It's a trade-off between cost and speed. |
 | `willing to accept ... for now` | 暂时接受 | They're willing to accept the risk for now. |
 | `the more ... the more ...` | 越……越…… | The more data we have, the better the model. |
+

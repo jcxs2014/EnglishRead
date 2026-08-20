@@ -373,65 +373,6 @@
 
 **段落逻辑：** 死讯（7 月 8 日，89 岁）→ 遗产（作品+信念：艺术赞美生活）→ 意象（空泳池盛光）→ 升华（最伟大的作品是让世界变亮）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| adj. | 有名的 | 原句 1 |
-| adv. | 刻意地 | 原句 2 |
-| 短语 | 留白 | 原句 2 |
-| 短语 | 概括 | 原句 4 |
-| 短语 | 信奉 | 原句 5 |
-| v. | 不信任 | 原句 6 |
-| 短语 | 妨碍 | 原句 6 |
-| n. | 观看的方式 | 原句 7 |
-| n. | 欢乐的形式 | 原句 7 |
-| n. | 磨坊小镇 | 原句 9 |
-| 短语 | 被……吸引 | 原句 9 |
-| n. | 晒黑的身体 | 原句 10 |
-| adj. | 自满的 | 原句 11 |
-| 短语 | 被固定 | 原句 12 |
-| v. | 开创 | 原句 13 |
-| n. | 照片拼贴 | 原句 13 |
-| n. | 立体主义视角 | 原句 13 |
-| 短语 | 开始使用 | 原句 14 |
-| n. | 噱头 | 原句 15 |
-| n. | 证明 | 原句 15 |
-| adj. | 开朗的 | 原句 17 |
-| adj. | 好辩的 | 原句 17 |
-| 短语 | 挑起争吵 | 原句 18 |
-| 短语 | 服务于 | 原句 19 |
-| n. | 大量作品 | 原句 22 |
-| n. | 信念 | 原句 22 |
-| 短语 | 赞美生活 | 原句 22 |
-| 短语 | 充满光 | 原句 23 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |  |
-| working | from the heart — 从内心作画 |  |
-| got | in the way of the eye and the hand — 妨碍眼与手 |  |
-| painting | was a way of seeing — 绘画是观看的方式 |  |
-| art | should make you happy — 艺术该让人快乐 |  |
-| lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |  |
-| fame | never made him complacent — 成名却未自满 |  |
-| afraid | of being pinned down — 怕被定型 |  |
-| stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |  |
-| draw | with light — 用光作画 |  |
-| pick | a fight about colour theory — 为色彩理论争吵 |  |
-| in | service of joy — 服务于欢乐 |  |
-| art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pool | paintings — 泳池画 |  |
-| Polaroids | — 宝丽来照片 |  |
-| the | screen was just another window — 屏幕只是另一扇窗 |  |
-| aged | 89 — 享年 89 岁 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 1）
@@ -537,4 +478,62 @@
 - "a portrait of everyone and no one" — 用于"普世性"。
 - "painting was a way of seeing" — 用于"X 是理解世界的方式"。
 - "in service of joy" — 用于"为……服务"的高级表达。
-- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。
+- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 有名的 | 原句 1 |
+| adv. | 刻意地 | 原句 2 |
+| 短语 | 留白 | 原句 2 |
+| 短语 | 概括 | 原句 4 |
+| 短语 | 信奉 | 原句 5 |
+| v. | 不信任 | 原句 6 |
+| 短语 | 妨碍 | 原句 6 |
+| n. | 观看的方式 | 原句 7 |
+| n. | 欢乐的形式 | 原句 7 |
+| n. | 磨坊小镇 | 原句 9 |
+| 短语 | 被……吸引 | 原句 9 |
+| n. | 晒黑的身体 | 原句 10 |
+| adj. | 自满的 | 原句 11 |
+| 短语 | 被固定 | 原句 12 |
+| v. | 开创 | 原句 13 |
+| n. | 照片拼贴 | 原句 13 |
+| n. | 立体主义视角 | 原句 13 |
+| 短语 | 开始使用 | 原句 14 |
+| n. | 噱头 | 原句 15 |
+| n. | 证明 | 原句 15 |
+| adj. | 开朗的 | 原句 17 |
+| adj. | 好辩的 | 原句 17 |
+| 短语 | 挑起争吵 | 原句 18 |
+| 短语 | 服务于 | 原句 19 |
+| n. | 大量作品 | 原句 22 |
+| n. | 信念 | 原句 22 |
+| 短语 | 赞美生活 | 原句 22 |
+| 短语 | 充满光 | 原句 23 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |  |
+| working | from the heart — 从内心作画 |  |
+| got | in the way of the eye and the hand — 妨碍眼与手 |  |
+| painting | was a way of seeing — 绘画是观看的方式 |  |
+| art | should make you happy — 艺术该让人快乐 |  |
+| lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |  |
+| fame | never made him complacent — 成名却未自满 |  |
+| afraid | of being pinned down — 怕被定型 |  |
+| stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |  |
+| draw | with light — 用光作画 |  |
+| pick | a fight about colour theory — 为色彩理论争吵 |  |
+| in | service of joy — 服务于欢乐 |  |
+| art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pool | paintings — 泳池画 |  |
+| Polaroids | — 宝丽来照片 |  |
+| the | screen was just another window — 屏幕只是另一扇窗 |  |
+| aged | 89 — 享年 89 岁 |  |
+

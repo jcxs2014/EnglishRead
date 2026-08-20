@@ -376,59 +376,6 @@
 
 **段落逻辑：** 宜居兴起讲述城市梦 → 梦的代价（自由换舒适/野心换归属）→ 有人觉得值 → 有人视之为放弃之地。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| adj. | 宜居的 | 原句 1 |
-| n. | 中型城市 | 原句 2 |
-| n. | 国家的手、管控 | 原句 3 |
-| n. | 约束 | 原句 4 |
-| 短语 | 打包而来 | 原句 4 |
-| 短语 | 成功、立足 | 原句 5 |
-| n. | 沿海大城市 | 原句 5 |
-| n. | 通勤 | 原句 7 |
-| n. | 慰藉 | 原句 8 |
-| n. | 吸引力 | 原句 9 |
-| 短语 | 的一小部分 | 原句 10 |
-| n. | 一线城市 | 原句 10 |
-| n. | 更舒缓的节奏 | 原句 11 |
-| n. | 取舍、权衡 | 原句 12 |
-| 短语 | 越来越多的 | 原句 12 |
-| adj. | 主导的 | 原句 14 |
-| 短语 | 严格控制 | 原句 14 |
-| n. | 失误 | 原句 15 |
-| n. | 黑名单 | 原句 15 |
-| n. | 理性选择 | 原句 18 |
-| n. | 屈从 | 原句 18 |
-| n. | 体面的退路 | 原句 19 |
-| n. | 城市梦 | 原句 21 |
-| n. | 野心、抱负 | 原句 22 |
-| 短语 | 值得付出 | 原句 23 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| most | foreigners have never heard of — 大多数外国人从未听说 |  |
-| a | good life seems to cost less — 好生活似乎成本更低 |  |
-| comfort | and constraint come as a package — 舒适与约束打包 |  |
-| failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |  |
-| I | was a number ... I feel like a person — 我是数字……我感觉像个人 |  |
-| a | third of what it was in Beijing — 北京时的三分之一 |  |
-| what | officials call "liveable cities" — 官方所称的"宜居城市" |  |
-| the | comfort of fewer options — 选项更少的舒适 |  |
-| a | dignified retreat — 体面的退路 |  |
-| bought | with freedom / bought with ambition — 用自由/野心换来 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| rankings | — 排名 |  |
-| green | hills ring the city centre — 青山环绕市中心 |  |
-| a | single dominant industry — 单一主导产业 |  |
-| an | act of submission — 屈从行为 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 3）
@@ -534,4 +481,56 @@
 - "the comfort of fewer options" — 用于"选择受限的代价"。
 - "a dignified retreat" — 用于"体面的退路"。
 - "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
-- "For some ... For others" — 用于平衡式结论。
+- "For some ... For others" — 用于平衡式结论。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 宜居的 | 原句 1 |
+| n. | 中型城市 | 原句 2 |
+| n. | 国家的手、管控 | 原句 3 |
+| n. | 约束 | 原句 4 |
+| 短语 | 打包而来 | 原句 4 |
+| 短语 | 成功、立足 | 原句 5 |
+| n. | 沿海大城市 | 原句 5 |
+| n. | 通勤 | 原句 7 |
+| n. | 慰藉 | 原句 8 |
+| n. | 吸引力 | 原句 9 |
+| 短语 | 的一小部分 | 原句 10 |
+| n. | 一线城市 | 原句 10 |
+| n. | 更舒缓的节奏 | 原句 11 |
+| n. | 取舍、权衡 | 原句 12 |
+| 短语 | 越来越多的 | 原句 12 |
+| adj. | 主导的 | 原句 14 |
+| 短语 | 严格控制 | 原句 14 |
+| n. | 失误 | 原句 15 |
+| n. | 黑名单 | 原句 15 |
+| n. | 理性选择 | 原句 18 |
+| n. | 屈从 | 原句 18 |
+| n. | 体面的退路 | 原句 19 |
+| n. | 城市梦 | 原句 21 |
+| n. | 野心、抱负 | 原句 22 |
+| 短语 | 值得付出 | 原句 23 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| most | foreigners have never heard of — 大多数外国人从未听说 |  |
+| a | good life seems to cost less — 好生活似乎成本更低 |  |
+| comfort | and constraint come as a package — 舒适与约束打包 |  |
+| failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |  |
+| I | was a number ... I feel like a person — 我是数字……我感觉像个人 |  |
+| a | third of what it was in Beijing — 北京时的三分之一 |  |
+| what | officials call "liveable cities" — 官方所称的"宜居城市" |  |
+| the | comfort of fewer options — 选项更少的舒适 |  |
+| a | dignified retreat — 体面的退路 |  |
+| bought | with freedom / bought with ambition — 用自由/野心换来 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| rankings | — 排名 |  |
+| green | hills ring the city centre — 青山环绕市中心 |  |
+| a | single dominant industry — 单一主导产业 |  |
+| an | act of submission — 屈从行为 |  |
+

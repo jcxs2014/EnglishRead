@@ -494,56 +494,6 @@
 
 **整体结构**：现象（两党共识）→ 剖析（左右翼齐上阵）→ 归因（伦理+技术）→ 三连反驳（技术不成熟/领导权流失/标准反降）→ 建设性出路。每段一个层次，层层推进。
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| queasiness | n. 恶心、不安 |  |
-| organoid | n. 类器官 |  |
-| organ-on-a-chip | 芯片器官 |  |
-| primate | n. 灵长类动物 |  |
-| appointee | n. 被任命者 |  |
-| crusade | n. 十字军式运动 |  |
-| self-defeating | adj. 自我拆台的 |  |
-| naturalistic | adj. 自然主义的 |  |
-| staggering | adj. 惊人的 |  |
-| enlightened | adj. 开明的 |  |
-| toxic | adj. 有毒的 |  |
-| bipartisan | 从略 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bipartisanship | n. 两党合作 |  |
-| common | ground 共同点、共识 |  |
-| advocate | n. 拥护者 |  |
-| embrace | v. 拥抱、接受 |  |
-| vow | to 发誓要 |  |
-| funding | n. 拨款、资金 |  |
-| curtail | v. 削减 |  |
-| surge | n. 激增 |  |
-| ethics | n. 伦理 |  |
-| biomedical | adj. 生物医学的 |  |
-| entail | v. 需要、牵涉 |  |
-| mimic | v. 模拟 |  |
-| recruit | v. 招募 |  |
-| displace | v. 取代 |  |
-| enhance | v. 提升 |  |
-| modernise | v. 现代化 |  |
-| monitoring | n. 监测 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| relief | n. 宽慰 |  |
-| oppose | v. 反对 |  |
-| welfare | n. 福祉 |  |
-| vaccine | n. 疫苗 |  |
-| ban | v. 禁止 |  |
-| navy | n. 海军 |  |
-| cost | v. 花费 |  |
-| money | 从略 |  |
 
 ## 长难句专项
 

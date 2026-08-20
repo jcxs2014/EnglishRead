@@ -476,51 +476,6 @@ If 引导的条件句（If Mr Burnham cannot rise to the task...）+ 主句（He
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| wilted like a houseplant in a heatwave | 像热浪中的室内植物一样枯萎 |  |
-| twists with the wind | 随风摇摆 |  |
-| a coalition of the aggrieved | 受屈者联盟 |  |
-| gained a taste for rebellion | 尝到了叛变的甜头 |  |
-| turn back the clock | 让时光倒流 |  |
-| make hard truths palatable | 使艰难真相变得可接受 |  |
-| rise to the task | 胜任任务 |  |
-| in no position to ask for patience | 没有立场要求耐心 |  |
-| living beyond their means | 入不敷出 |  |
-| up in the air | 悬而未决 |  |
-| eke out | 挤出（额外资源） |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| desultory | 有气无力的 |  |
-| sclerotic | 僵化的 |  |
-| chameleon-like | 变色龙般的 |  |
-| biddable | 听话的 |  |
-| contortions | 扭曲 |  |
-| straitjacket | 束缚 |  |
-| a putsch | 政变 |  |
-| pander to | 迎合 |  |
-| backbenches | 后座议员 |  |
-| the Treasury | 财政部 |  |
-| the Chancellor | 财政大臣 |  |
-| a by-election | 补选 |  |
-| devolve power | 下放权力 |  |
-| the electorate | 选民 |  |
-| chancellor | 财政大臣（此处指财政部长） |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| decline | 衰落 |  |
-| feeble | 虚弱的 |  |
-| reform | 改革 |  |
-| populism | 民粹主义 |  |
-| mandate | 授权/使命 |  |
-| incumbents | 在任者 |  |
 
 ## 长难句专项
 

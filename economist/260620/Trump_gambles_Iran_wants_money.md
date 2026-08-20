@@ -557,60 +557,6 @@
 
 **段落逻辑：** 揭穿"和平协议"话术 → 公允定位（必要但有限，管理非解决）→ 问题转换（不是弃核而是遏制多久）→ 赌局风险（赌输=拥核伊朗）→ 预案思维（为意外准备）→ 失败预案（果断遏制而非再谈）→ 金句收束（别再魔法思维）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| v. | 赌、下注 | 原句 1 |
-| n. | 制裁 | 原句 2 |
-| v. | 解冻 | 原句 5 |
-| 短语 | 让人联想到 | 原句 3 |
-| n. | 能力 | 原句 4 |
-| v. | 成文化、正式化 | 原句 9 |
-| n. | 核门槛国家 | 原句 10 |
-| n. | 储备 | 原句 11 |
-| adj. | 完整无损的 | 原句 11 |
-| v. | 制度化 | 原句 12 |
-| n. | 代理人战争 | 原句 14 |
-| v. | 壮胆、助长 | 原句 16 |
-| n. | 经济压力 | 原句 19 |
-| n. | 强硬派 | 原句 20 |
-| n. | 自满 | 原句 24 |
-| n. | 鹰派 | 原句 24 |
-| v. | 重新部署 | 原句 24 |
-| n. | 威慑 | 原句 26 |
-| n. | 遏制 | 原句 28 |
-| n. | 偶发情况、预案 | 原句 33 |
-| n. | 魔法思维 | 原句 35 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| wants | money more than power — 要钱胜过要权力 |  |
-| make | a deal — 做交易 |  |
-| give | up their nuclear programme — 放弃核计划 |  |
-| buy | time — 买时间、拖延 |  |
-| put | the nuclear issue to bed — 让核问题告一段落 |  |
-| sprint | to a bomb — 冲刺造核弹 |  |
-| sit | back — 袖手旁观 |  |
-| redeploy | forces away from the region — 撤走该地区兵力 |  |
-| maintain | a robust deterrent — 保持强大威慑 |  |
-| rest | on verification and containment — 建立在核查与遏制上 |  |
-| manage | a problem rather than solve it — 管理而非解决问题 |  |
-| prepare | for that contingency — 为意外做预案 |  |
-| reach | for another round of negotiations — 再来一轮谈判 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ballistic | missiles — 弹道导弹 |  |
-| the | Revolutionary Guards — 革命卫队 |  |
-| enriched | uranium — 浓缩铀 |  |
-| in | return — 作为回报 |  |
-| strengthen | the hand of — 增强……的力量 |  |
-| every | incentive ... none — 一切动机……毫无动机 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 2）
@@ -719,4 +665,57 @@
 - "codifies rather than changes the status quo" — 用于批评"把现状写成条款"。
 - "a pause, not a solution" — 用于"暂缓而非解决"的定性。
 - "rest on verification and containment, not trust" — 用于"制度兜底而非依赖信任"。
-- "prepare for that contingency, rather than pretending it cannot happen" — 用于"预案思维"。
+- "prepare for that contingency, rather than pretending it cannot happen" — 用于"预案思维"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 赌、下注 | 原句 1 |
+| n. | 制裁 | 原句 2 |
+| v. | 解冻 | 原句 5 |
+| 短语 | 让人联想到 | 原句 3 |
+| n. | 能力 | 原句 4 |
+| v. | 成文化、正式化 | 原句 9 |
+| n. | 核门槛国家 | 原句 10 |
+| n. | 储备 | 原句 11 |
+| adj. | 完整无损的 | 原句 11 |
+| v. | 制度化 | 原句 12 |
+| n. | 代理人战争 | 原句 14 |
+| v. | 壮胆、助长 | 原句 16 |
+| n. | 经济压力 | 原句 19 |
+| n. | 强硬派 | 原句 20 |
+| n. | 自满 | 原句 24 |
+| n. | 鹰派 | 原句 24 |
+| v. | 重新部署 | 原句 24 |
+| n. | 威慑 | 原句 26 |
+| n. | 遏制 | 原句 28 |
+| n. | 偶发情况、预案 | 原句 33 |
+| n. | 魔法思维 | 原句 35 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| wants | money more than power — 要钱胜过要权力 |  |
+| make | a deal — 做交易 |  |
+| give | up their nuclear programme — 放弃核计划 |  |
+| buy | time — 买时间、拖延 |  |
+| put | the nuclear issue to bed — 让核问题告一段落 |  |
+| sprint | to a bomb — 冲刺造核弹 |  |
+| sit | back — 袖手旁观 |  |
+| redeploy | forces away from the region — 撤走该地区兵力 |  |
+| maintain | a robust deterrent — 保持强大威慑 |  |
+| rest | on verification and containment — 建立在核查与遏制上 |  |
+| manage | a problem rather than solve it — 管理而非解决问题 |  |
+| prepare | for that contingency — 为意外做预案 |  |
+| reach | for another round of negotiations — 再来一轮谈判 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| ballistic | missiles — 弹道导弹 |  |
+| the | Revolutionary Guards — 革命卫队 |  |
+| enriched | uranium — 浓缩铀 |  |
+| in | return — 作为回报 |  |
+| strengthen | the hand of — 增强……的力量 |  |
+| every | incentive ... none — 一切动机……毫无动机 |  |
+

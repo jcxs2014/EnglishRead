@@ -565,47 +565,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| autocratic | 专制的 | China's autocratic rulers |
-| cartel | 卡特尔（垄断联盟） | the cartel controlled around half |
-| manipulate | 操纵 | the cartel's manipulation of the market |
-| electrification | 电气化 | the advancing electrification of its economy |
-| anticipate | 预测、预判 | harder to anticipate |
-| dependency | 依赖 | avoid dependency on any autocratic regime |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| reprieve | 暂缓、喘息 | for the reprieve, the world can thank China |
-| glut | 供过于求 | a "mini-glut" of crude oil |
-| curtail | 削减、缩减 | curtailing China's imports |
-| feat | 壮举 | a feat of state engineering |
-| dampen | 抑制、平息 | dampening price spikes |
-| trough | 低谷 | smoothing peaks and troughs |
-| abate | 缓解、减弱 | once the Gulf crisis abates |
-| deplete | 枯竭、耗尽 | as oilfields deplete |
-| tilt | 倾斜 | tilt the balance of power back |
-| diversify | 多元化 | diversify their sources of supply |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| contained | 被遏制的 | oil prices have stayed relatively contained |
-| crunch | 紧缩、危机 | motorists have not yet faced a severe crunch |
-| leverage | 影响力、杠杆 | Iran has had less leverage over Trump |
-| redirect | 重新调配 | Saudi Arabia redirected about 5m b/d via pipelines |
-| chunk | 一大块 | covered another chunk |
-| bully | 欺凌 | to bully critics |
-| irk | 激怒 | countries that irk them |
-| hefty | 巨额的 | a hefty $5.7trn |
-| inadequate | 不足的 | investment is inadequate |
-| scarce | 稀缺的 | keeps information about its stocks scarce |
-| withstand | 承受、抵御 | how long it could withstand sanctions |
-
 ## 长难句专项
 
 ### 长难句1（原句16）
@@ -716,4 +675,44 @@
 7. **"in the first place"** —— 从根本上、从一开始
 8. **"the black stuff"** —— 石油的文学化别称
 9. **"shield X from the effects of Y"** —— 保护X免受Y的影响
-10. **"out of pure self-interest"** —— 纯粹出于自身利益
+10. **"out of pure self-interest"** —— 纯粹出于自身利益## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| autocratic | 专制的 | China's autocratic rulers |
+| cartel | 卡特尔（垄断联盟） | the cartel controlled around half |
+| manipulate | 操纵 | the cartel's manipulation of the market |
+| electrification | 电气化 | the advancing electrification of its economy |
+| anticipate | 预测、预判 | harder to anticipate |
+| dependency | 依赖 | avoid dependency on any autocratic regime |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| reprieve | 暂缓、喘息 | for the reprieve, the world can thank China |
+| glut | 供过于求 | a "mini-glut" of crude oil |
+| curtail | 削减、缩减 | curtailing China's imports |
+| feat | 壮举 | a feat of state engineering |
+| dampen | 抑制、平息 | dampening price spikes |
+| trough | 低谷 | smoothing peaks and troughs |
+| abate | 缓解、减弱 | once the Gulf crisis abates |
+| deplete | 枯竭、耗尽 | as oilfields deplete |
+| tilt | 倾斜 | tilt the balance of power back |
+| diversify | 多元化 | diversify their sources of supply |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| contained | 被遏制的 | oil prices have stayed relatively contained |
+| crunch | 紧缩、危机 | motorists have not yet faced a severe crunch |
+| leverage | 影响力、杠杆 | Iran has had less leverage over Trump |
+| redirect | 重新调配 | Saudi Arabia redirected about 5m b/d via pipelines |
+| chunk | 一大块 | covered another chunk |
+| bully | 欺凌 | to bully critics |
+| irk | 激怒 | countries that irk them |
+| hefty | 巨额的 | a hefty $5.7trn |
+| inadequate | 不足的 | investment is inadequate |
+| scarce | 稀缺的 | keeps information about its stocks scarce |
+| withstand | 承受、抵御 | how long it could withstand sanctions |
+

@@ -220,30 +220,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| picked up steam | 加速/提速 | The project finally picked up steam in May. |
-| turn up their noses | 嗤之以鼻/不屑一顾 | She turns up her nose at mainstream movies. |
-| buoy` (verb) | 支撑/托举 | Rising exports buoyed the economy. |
-| one-man band | 一人乐队/一人企业 | He's running a one-man band from his garage. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| tantalising | 诱人但难以实现 | The view from the balcony was tantalising. |
-| hollowed out | 被掏空的 | Detroit was hollowed out by auto-industry decline. |
-| cling to | 紧握/依恋 | She clung to the hope that things would change. |
-| set up shop | 开业/开店 | He set up shop as a freelance designer. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pare back | 削减/缩减 | The firm pared back its workforce. |
-| across-the-board | 全面的 | They announced across-the-board pay cuts. |
-| self-reliance | 自立/独立 | Self-reliance is a key frontier value. |
 
 ## 核心表达（可直接迁移）
 

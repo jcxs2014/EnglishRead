@@ -211,27 +211,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| make a world of difference | 产生天壤之别 | A good night's sleep makes a world of difference. |
-| battle-tested | 久经考验的 | This is a battle-tested solution. |
-| harvest` (data) | 收集（数据） | Hackers harvested millions of passwords. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| polish off | 迅速完成/搞定 | He polished off the report in an hour. |
-| go bust | 破产 | Many startups went bust during the recession. |
-| stress-test | 压力测试 | We need to stress-test our security protocols. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| mine A for B | 从 A 中挖掘 B | They mine customer data for patterns. |
-| bundle | 捆绑 | The two encryption standards can be bundled together. |
 
 ## 核心表达（可直接迁移）
 

@@ -506,52 +506,6 @@
 
 **整体结构**：现象→归因→后果→点题→反驳→深化→历史对照，层层递进，是典型的 Leaders 社论论证骨架。
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| feat | n. 壮举（此处带反讽） |  |
-| ruction | n. 骚动、动荡 |  |
-| fumble | v. 笨拙处理、失手 |  |
-| indebted | adj. 负债的 |  |
-| peculate | —（未出现，对照） |  |
-| jam | up v. 卡住、堵塞 |  |
-| rigid | adj. 僵化的 |  |
-| arithmetic | n. 算术（fiscal arithmetic 财政账本） |  |
-| wobbly | adj. 摇晃的、不稳的 |  |
-| punt | n. 投机、豪赌 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| yield | n. 收益率 |  |
-| culprit | n. 罪魁祸首 |  |
-| deter | v. 阻止、威慑（deter sb from doing） |  |
-| gap | 相关从略 |  |
-| offset | v. 抵消 |  |
-| squeeze | n. 挤压、紧缩 |  |
-| populist | adj. 民粹主义的 |  |
-| stimulus | n. 刺激（fiscal stimulus 财政刺激） |  |
-| sheer | adj. 纯粹的（sheer scale 仅凭规模） |  |
-| diffusion | n. 扩散、普及 |  |
-| perceptible | adj. 可感知的 |  |
-| reckon | v. 估算、认为 |  |
-| halve | v. 减半 |  |
-| prudence | n. 审慎 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bond | n. 债券 |  |
-| debt | n. 债务 |  |
-| deficit | n. 赤字 |  |
-| inflation | n. 通货膨胀 |  |
-| interest | rates 利率 |  |
-| climb | v. 攀升 |  |
-| boost | v./n. 提升、推动 |  |
-| surplus | n. 盈余 |  |
-| tariff | n. 关税 |  |
 
 ## 长难句专项
 

@@ -1000,79 +1000,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| desultorily | 敷衍地、漫不经心地 | 原句15 |
-| confiscate | 没收、充公 | 原句16 |
-| dystopian | 反乌托邦的 | 原句24 |
-| effusive | 热情洋溢的、溢于言表的 | 原句28 |
-| commendable | 值得称赞的 | 原句33 |
-| stifling | 令人窒息的、压抑的 | 原句34 |
-| frictionless | 无摩擦的 | 原句36 |
-| vanishingly | 几乎消失地 | 原句59 |
-| paternalism | 家长主义 | 原句49 |
-| proliferation | 激增、扩散 | 原句48 |
-| phalanx | 方阵、密集队伍 | 原句48 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bars | 禁止 | 原句3 |
-| illustrated | 图解 | 原句3 |
-| trepidation | 惶恐 | 原句5 |
-| unscathed | 未受伤 | 原句5 |
-| wielding | 挥舞 | 原句8 |
-| explosion-proof | 防爆 | 原句9 |
-| confiscated | 没收 | 原句16 |
-| tightened | 收紧 | 原句14 |
-| desultorily | 敷衍地 | 原句15 |
-| apparent | 表面的 | 原句18 |
-| rationale | 理由 | 原句18 |
-| illuminated | 揭示 | 原句23 |
-| balancing act | 平衡行为 | 原句23 |
-| surveillance | 监控 | 原句25 |
-| effusive | 热情洋溢的 | 原句28 |
-| impulse | 冲动 | 原句33 |
-| commendable | 值得称赞的 | 原句33 |
-| stifling | 令人窒息的 | 原句34 |
-| tension | 张力 | 原句35 |
-| frictionless | 无摩擦的 | 原句36 |
-| proportion | 比例 | 原句37 |
-| lockdown | 封城 | 原句39 |
-| exhaustion | 疲惫 | 原句40 |
-| clamour | 呼声 | 原句41 |
-| pivots | 转变 | 原句42 |
-| protocols | 协议 | 原句46 |
-| proliferated | 激增 | 原句48 |
-| paternalism | 家长主义 | 原句49 |
-| trade-off | 权衡 | 原句51 |
-| prospect | 前景 | 原句55 |
-| efficacy | 有效性 | 原句63 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| escalator | 自动扶梯 | 原句1 |
-| danger | 危险 | 原句1 |
-| warning | 警告 | 原句2 |
-| security | 安全 | 原句7 |
-| checkpoint | 检查点 | 原句8 |
-| relaxed | 放松的 | 原句10 |
-| citizens | 公民 | 原句27 |
-| privacy | 隐私 | 原句27 |
-| officials | 官员 | 原句43 |
-| promotion | 晋升 | 原句45 |
-| accident | 事故 | 原句45 |
-| inspection | 检查 | 原句47 |
-| controls | 控制措施 | 原句48 |
-| guards | 警卫 | 原句48 |
-| costs | 费用 | 原句52 |
-| salaries | 工资 | 原句54 |
-| crimes | 犯罪 | 原句59 |
-
 ## 长难句专项
 
 ### 长难句 1（原句 3）
@@ -1190,3 +1117,76 @@
 6. **"Objectively, the layer upon layer of X is overkill."** — 客观评价过度现象
 7. **"Surely X deserve credit for their Y."** — 将功劳归于正确对象
 8. **"Yet that is not the calculation of officials, for whom..."** — 揭示官员的真实考量
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| desultorily | 敷衍地、漫不经心地 | 原句15 |
+| confiscate | 没收、充公 | 原句16 |
+| dystopian | 反乌托邦的 | 原句24 |
+| effusive | 热情洋溢的、溢于言表的 | 原句28 |
+| commendable | 值得称赞的 | 原句33 |
+| stifling | 令人窒息的、压抑的 | 原句34 |
+| frictionless | 无摩擦的 | 原句36 |
+| vanishingly | 几乎消失地 | 原句59 |
+| paternalism | 家长主义 | 原句49 |
+| proliferation | 激增、扩散 | 原句48 |
+| phalanx | 方阵、密集队伍 | 原句48 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bars | 禁止 | 原句3 |
+| illustrated | 图解 | 原句3 |
+| trepidation | 惶恐 | 原句5 |
+| unscathed | 未受伤 | 原句5 |
+| wielding | 挥舞 | 原句8 |
+| explosion-proof | 防爆 | 原句9 |
+| confiscated | 没收 | 原句16 |
+| tightened | 收紧 | 原句14 |
+| desultorily | 敷衍地 | 原句15 |
+| apparent | 表面的 | 原句18 |
+| rationale | 理由 | 原句18 |
+| illuminated | 揭示 | 原句23 |
+| balancing act | 平衡行为 | 原句23 |
+| surveillance | 监控 | 原句25 |
+| effusive | 热情洋溢的 | 原句28 |
+| impulse | 冲动 | 原句33 |
+| commendable | 值得称赞的 | 原句33 |
+| stifling | 令人窒息的 | 原句34 |
+| tension | 张力 | 原句35 |
+| frictionless | 无摩擦的 | 原句36 |
+| proportion | 比例 | 原句37 |
+| lockdown | 封城 | 原句39 |
+| exhaustion | 疲惫 | 原句40 |
+| clamour | 呼声 | 原句41 |
+| pivots | 转变 | 原句42 |
+| protocols | 协议 | 原句46 |
+| proliferated | 激增 | 原句48 |
+| paternalism | 家长主义 | 原句49 |
+| trade-off | 权衡 | 原句51 |
+| prospect | 前景 | 原句55 |
+| efficacy | 有效性 | 原句63 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalator | 自动扶梯 | 原句1 |
+| danger | 危险 | 原句1 |
+| warning | 警告 | 原句2 |
+| security | 安全 | 原句7 |
+| checkpoint | 检查点 | 原句8 |
+| relaxed | 放松的 | 原句10 |
+| citizens | 公民 | 原句27 |
+| privacy | 隐私 | 原句27 |
+| officials | 官员 | 原句43 |
+| promotion | 晋升 | 原句45 |
+| accident | 事故 | 原句45 |
+| inspection | 检查 | 原句47 |
+| controls | 控制措施 | 原句48 |
+| guards | 警卫 | 原句48 |
+| costs | 费用 | 原句52 |
+| salaries | 工资 | 原句54 |
+| crimes | 犯罪 | 原句59 |
+

@@ -284,73 +284,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| made the case for | 提出理由 | Made the case for caution. |
-| understated | 低估 | Understated the dangers. |
-| frontier AI | 前沿 AI | Frontier AI. |
-| treating it as such | 如此对待 | Treating it as such. |
-| come to regret | 终将后悔 | Come to regret the decision. |
-| comparing ... to | 把……比作 | Comparing the blocking to fiction. |
-| dystopian fiction | 反乌托邦小说 | Dystopian fiction. |
-| unhelpful and wrong | 无益且错误 | Unhelpful and wrong. |
-| silenced | 被禁声 | Models were silenced. |
-| posed a genuine threat | 构成真正威胁 | Posed a genuine threat. |
-| a genuine threat | 真正的威胁 | A genuine threat. |
-| entitled to | 有权 | Entitled to protect. |
-| protect ... from harm | 保护免受伤害 | Protect citizens from harm. |
-| treats ... as | 把……当作 | Treats the state as a referee. |
-| a referee | 裁判 | As a referee. |
-| a poor record | 糟糕记录 | A poor record as a player. |
-| slow to recognise | 认识慢 | Slow to recognise. |
-| quick to fear | 恐惧快 | Quick to fear them. |
-| more experimentation, not less | 更多而非更少 | More experimentation, not less. |
-| experimentation | 试验 | Experimentation. |
-| ignores the most important point | 忽略重点 | Ignores the most important point. |
-| the geopolitical race | 地缘竞赛 | The geopolitical race. |
-| blocks its own frontier AI | 封禁自己的 AI | Blocks its own AI. |
-| will not stop developing | 不会停止开发 | Will not stop developing. |
-| restraint | 克制 | Restraint by one side. |
-| a gift to the other | 给对方的礼物 | A gift to the other. |
-| the deepest problem | 最深层问题 | The deepest problem. |
-| no longer agree on | 不再同意 | No longer agree on. |
-| what intelligence is for | 智能的用途 | What intelligence is for. |
-| embodies values | 承载价值观 | Embodies values. |
-| contested | 有争议的 | Contested values. |
-| going round in circles | 原地打转 | Going round in circles. |
-| until we resolve that | 直到解决 | Until we resolve that. |
-| the first duty of a free press | 媒体首要职责 | The first duty of a free press. |
-| a free press | 自由媒体 | A free press. |
-| keep readers comfortable | 让读者舒适 | Keep readers comfortable. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| blocking | 封禁 |  |
-| caution | 谨慎 |  |
-| dangers | 危险 |  |
-| toy | 玩具 |  |
-| fiction | 小说 |  |
-| thought | 思想 |  |
-| threat | 威胁 |  |
-| citizens | 公民 |  |
-| player | 参与者 |  |
-| geopolitical | 地缘政治的 |  |
-| values | 价值观 |  |
-| debate | 辩论 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| Anthropic | Anthropic 公司 |  |
-| Fable | Fable 模型 |  |
-| Mythos | Mythos 模型 |  |
-| Trump administration | 特朗普政府 |  |
-| dystopian | 反乌托邦 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 2（动名词主语 + that 定语从句）
@@ -440,15 +373,7 @@
 - **介词前置定语**：`on what intelligence is for`
 - **被动语态**：`were silenced`、`were blocked`
 
-### 3. 长难句
-
-- 原句 2：动名词主语 + that 定语从句
-- 原句 4：分号对比 + because 从句
-- 原句 6：裁判/球员比喻（treats A as B）
-- 原句 7：slow/quick 对仗
-- 原句 12：that 表语从句 + what 宾语从句
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **读者来信的"礼貌反对"开篇**：`Your leader ... made the case for caution, but I fear it understated...`——先承认对方优点，再转折异议——书信辩论的礼仪结构
 2. **单一论点的信体格式**：每封信只讲一个核心观点（低估危险 / 类比错误 / 政府当球员 / 地缘竞赛 / 价值分歧）——一封一议，观点鲜明
@@ -462,6 +387,72 @@
 10. **风险语言的精确性**：`a genuine threat`（真正的威胁）vs `dystopian fiction`（反乌托邦小说）——"真实"与"虚构"的对立是信与信之间的核心张力
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| made the case for | 提出理由 | Made the case for caution. |
+| understated | 低估 | Understated the dangers. |
+| frontier AI | 前沿 AI | Frontier AI. |
+| treating it as such | 如此对待 | Treating it as such. |
+| come to regret | 终将后悔 | Come to regret the decision. |
+| comparing ... to | 把……比作 | Comparing the blocking to fiction. |
+| dystopian fiction | 反乌托邦小说 | Dystopian fiction. |
+| unhelpful and wrong | 无益且错误 | Unhelpful and wrong. |
+| silenced | 被禁声 | Models were silenced. |
+| posed a genuine threat | 构成真正威胁 | Posed a genuine threat. |
+| a genuine threat | 真正的威胁 | A genuine threat. |
+| entitled to | 有权 | Entitled to protect. |
+| protect ... from harm | 保护免受伤害 | Protect citizens from harm. |
+| treats ... as | 把……当作 | Treats the state as a referee. |
+| a referee | 裁判 | As a referee. |
+| a poor record | 糟糕记录 | A poor record as a player. |
+| slow to recognise | 认识慢 | Slow to recognise. |
+| quick to fear | 恐惧快 | Quick to fear them. |
+| more experimentation, not less | 更多而非更少 | More experimentation, not less. |
+| experimentation | 试验 | Experimentation. |
+| ignores the most important point | 忽略重点 | Ignores the most important point. |
+| the geopolitical race | 地缘竞赛 | The geopolitical race. |
+| blocks its own frontier AI | 封禁自己的 AI | Blocks its own AI. |
+| will not stop developing | 不会停止开发 | Will not stop developing. |
+| restraint | 克制 | Restraint by one side. |
+| a gift to the other | 给对方的礼物 | A gift to the other. |
+| the deepest problem | 最深层问题 | The deepest problem. |
+| no longer agree on | 不再同意 | No longer agree on. |
+| what intelligence is for | 智能的用途 | What intelligence is for. |
+| embodies values | 承载价值观 | Embodies values. |
+| contested | 有争议的 | Contested values. |
+| going round in circles | 原地打转 | Going round in circles. |
+| until we resolve that | 直到解决 | Until we resolve that. |
+| the first duty of a free press | 媒体首要职责 | The first duty of a free press. |
+| a free press | 自由媒体 | A free press. |
+| keep readers comfortable | 让读者舒适 | Keep readers comfortable. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| blocking | 封禁 |  |
+| caution | 谨慎 |  |
+| dangers | 危险 |  |
+| toy | 玩具 |  |
+| fiction | 小说 |  |
+| thought | 思想 |  |
+| threat | 威胁 |  |
+| citizens | 公民 |  |
+| player | 参与者 |  |
+| geopolitical | 地缘政治的 |  |
+| values | 价值观 |  |
+| debate | 辩论 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Anthropic | Anthropic 公司 |  |
+| Fable | Fable 模型 |  |
+| Mythos | Mythos 模型 |  |
+| Trump administration | 特朗普政府 |  |
+| dystopian | 反乌托邦 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -479,3 +470,4 @@
 | `contested` | 有争议的 | A contested claim. |
 | `the duty of X is not to` | 职责不是 | The duty of a teacher is not to please. |
 | `what X is for` | X 的用途 | What is this button for? |
+

@@ -428,43 +428,6 @@
 
 **段落逻辑：** 特朗普初始动机不纯 → 但民主前景改善（卢比奥作用）→ 谈判进展与美国压力 → 民众支持与特朗普利益 → 挑战与风险 → 建议：速度与时间表 → 马查多的作用 → 警告特朗普反复，马查多是最后保障
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| kleptocracy | 盗贼政权 | a corrupt kleptocracy |
-| deposed | 被废黜的 | a deposed ruler |
-| dismal | 糟糕的 | a dismal performance |
-| stooge | 傀儡 | a government stooge |
-| impede | 阻碍 | impede progress |
-| repudiate | 拒绝，否认 | repudiate a claim |
-| caprice | 反复无常 | the caprices of fate |
-| vassal | 附庸的 | vassal states |
-| dilapidated | 破旧的 | a dilapidated building |
-| allay | 缓解 | allay fears/concerns |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| dictator | 独裁者 | a ruthless dictator |
-| interim | 临时的 | interim president/government |
-| commitment | 承诺 | a strong commitment to democracy |
-| transition | 转型 | transition to democracy |
-| negotiations | 谈判 | peace negotiations |
-| judicial | 司法的 | judicial reform |
-| transparent | 透明的 | transparent government |
-| disclose | 披露 | disclose information |
-| exile | 流亡 | live in exile |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| snatch | 抓获，夺取 | snatch someone's phone |
-| boast | 吹嘘 | boast about one's achievements |
-| prosper | 繁荣 | The business prospered. |
-| drag on | 拖延 | The negotiations dragged on for months. |
-| benefit | 受益 | benefit from something |
 
 ## 长难句专项
 

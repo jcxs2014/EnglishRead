@@ -354,56 +354,6 @@
 
 **段落逻辑：** 他国教训（无改革繁荣昙花一现）→ 别重蹈覆辙 → 评判标准（民生而非数字）→ 真正检验（时刻是否到来）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| n. | 热潮、繁荣 | 原句 1 |
-| n. | 风险投资 | 原句 2 |
-| n. | 乐观 | 原句 3 |
-| 短语 | 局限于 | 原句 4 |
-| n. | 自给自足农民 | 原句 6 |
-| v. | 停滞 | 原句 7 |
-| v. | 停滞（工资） | 原句 7 |
-| adj. | 不平衡的 | 原句 9 |
-| v. | 蒸蒸日上 | 原句 10 |
-| v. | 被挤压 | 原句 10 |
-| n. | 非正规部门 | 原句 11 |
-| n. | 二元经济 | 原句 12 |
-| n. | 外围 | 原句 12 |
-| n. | 瓶颈 | 原句 13 |
-| n. | 数理能力 | 原句 14 |
-| n. | 算术 | 原句 14 |
-| n. | 人口结构优势 | 原句 17 |
-| 短语 | 抓住时机 | 原句 18 |
-| 短语 | 沉浸于 | 原句 18 |
-| 短语 | 虎头蛇尾 | 原句 19 |
-| n. | 结构改革 | 原句 19 |
-| n. | 头条数字 | 原句 21 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| a | tech-and-manufacturing boom — 科技与制造热潮 |  |
-| shifting | supply chains away from China — 把供应链移出中国 |  |
-| a | narrow slice of the country — 国家的很小一部分 |  |
-| productivity | growth has stalled — 生产率增长停滞 |  |
-| make | it hard for small ones to hire — 让小企业难以招聘 |  |
-| a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |  |
-| strong | numeracy and problem-solving — 强大的数理与解题能力 |  |
-| make | its boom last — 让繁荣持续 |  |
-| diversifying | away from China — 从中国多元化转移 |  |
-| booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| CDMO — 略 | bio 篇已学 |  |
-| IT | — 信息技术 |  |
-| GDP | — 国内生产总值 |  |
-| emerging | markets — 新兴市场 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 2）
@@ -509,4 +459,53 @@
 - "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
 - "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
 - "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
-- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。
+- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 热潮、繁荣 | 原句 1 |
+| n. | 风险投资 | 原句 2 |
+| n. | 乐观 | 原句 3 |
+| 短语 | 局限于 | 原句 4 |
+| n. | 自给自足农民 | 原句 6 |
+| v. | 停滞 | 原句 7 |
+| v. | 停滞（工资） | 原句 7 |
+| adj. | 不平衡的 | 原句 9 |
+| v. | 蒸蒸日上 | 原句 10 |
+| v. | 被挤压 | 原句 10 |
+| n. | 非正规部门 | 原句 11 |
+| n. | 二元经济 | 原句 12 |
+| n. | 外围 | 原句 12 |
+| n. | 瓶颈 | 原句 13 |
+| n. | 数理能力 | 原句 14 |
+| n. | 算术 | 原句 14 |
+| n. | 人口结构优势 | 原句 17 |
+| 短语 | 抓住时机 | 原句 18 |
+| 短语 | 沉浸于 | 原句 18 |
+| 短语 | 虎头蛇尾 | 原句 19 |
+| n. | 结构改革 | 原句 19 |
+| n. | 头条数字 | 原句 21 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | tech-and-manufacturing boom — 科技与制造热潮 |  |
+| shifting | supply chains away from China — 把供应链移出中国 |  |
+| a | narrow slice of the country — 国家的很小一部分 |  |
+| productivity | growth has stalled — 生产率增长停滞 |  |
+| make | it hard for small ones to hire — 让小企业难以招聘 |  |
+| a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |  |
+| strong | numeracy and problem-solving — 强大的数理与解题能力 |  |
+| make | its boom last — 让繁荣持续 |  |
+| diversifying | away from China — 从中国多元化转移 |  |
+| booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO — 略 | bio 篇已学 |  |
+| IT | — 信息技术 |  |
+| GDP | — 国内生产总值 |  |
+| emerging | markets — 新兴市场 |  |
+

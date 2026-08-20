@@ -897,6 +897,144 @@
 
 ---
 
+## 长难句专项
+
+### 🔍 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
+
+> **原句:** If we knew how many future deaths a wartime leader would be responsible for the problem would resolve itself into the well-known trolley dilemma.
+
+**① 找主干：** the problem would resolve itself into the trolley dilemma
+**② 找修饰：** If we knew how many future deaths a wartime leader would be responsible for（虚拟条件）；the well-known（定语）
+**③ 找从句：** If we knew ...（条件从句）；how many ... a wartime leader would be responsible for（knew 的宾语从句）
+**④ 恢复逻辑：** 若我们知道战时领导人会对多少未来死亡负责，问题就变成著名的电车难题。
+**⑤ 整体理解：** 第二类虚拟条件（if we knew ... would ...，表与现在相反）；how many 从句里 a wartime leader would be responsible for 是"未来死亡"的定语（a leader responsible for deaths）；`resolve itself into`（自我化解为）的拟人化用法。
+
+### 🔍 原句 12（what 主语从句 + 破折号插入）
+
+> **原句:** But what looks significant on paper—an apparent aberration against more than 40 years of sanctions pressure—is decidedly less so in reality.
+
+**① 找主干：** what looks significant is decidedly less so
+**② 找修饰：** on paper（状语）；破折号 an apparent aberration against ...（同位语）
+**③ 找从句：** what looks significant on paper（主语从句）
+**④ 恢复逻辑：** 纸面上看似重大（对 40 年制裁的背离），现实中绝非如此。
+**⑤ 整体理解：** what 主语从句作主语；破折号插入同位语（对主语内容的具体化）；`decidedly less so`（so = significant）表"远非如此"；`on paper ... in reality` 形成对照。
+
+### 🔍 原句 29（which 定语从句 + let sb do + 多层修饰）
+
+> **原句:** In September 2022 the IMF opened a temporary food-shock window, which let countries hit by the Ukraine war's effect on grain and fertiliser prices borrow on top of normal limits, with minimal conditionality and no lengthy programme required.
+
+**① 找主干：** the IMF opened a temporary food-shock window
+**② 找修饰：** In September 2022（时间）；which let countries ... borrow（定语从句）；hit by ... prices（分词定语）；with ... conditionality and no ... programme required（伴随）
+**③ 找从句：** which let countries ... borrow（非限制性定语从句）
+**④ 恢复逻辑：** 2022 年 9 月 IMF 开设粮食冲击窗口，让受乌克兰战争粮价影响的各国在常规限额之上借款，条件极少且无需冗长计划。
+**⑤ 整体理解：** which 定语从句用 `let sb do`（let countries borrow）；countries 带分词定语 hit by ...；`no lengthy programme required` 是省略 which was 的独立结构（with 复合结构）。
+
+### 🔍 原句 32（Although 让步 + that 宾语从句 + whether 从句）
+
+> **原句:** Although this would not solve Africa's underlying debt burden, it would recognise that liquidity, not just solvency, determines whether a price shock becomes a currency crisis.
+
+**① 找主干：** it would recognise that ...
+**② 找修饰：** Although this would not solve ...（让步从句）
+**③ 找从句：** Although ...（让步从句）；that liquidity ... determines ...（宾语从句）；whether a price shock becomes ...（宾语从句）
+**④ 恢复逻辑：** 尽管解决不了根本债务，但会承认是流动性（而非仅偿付能力）决定冲击是否变危机。
+**⑤ 整体理解：** 让步句（Although）+ 主句（it would recognise）；宾语从句内插入 not just solvency；whether 从句嵌套在 that 从句内，形成两层宾语从句。
+
+### 🔍 原句 35（By 方式 + 冒号二选一）
+
+> **原句:** By collapsing the cost of fabricated coursework, generative AI confronts every university with a blunt choice: pay for much costlier enforcement, or in effect abandon the pretence of academic integrity.
+
+**① 找主干：** generative AI confronts every university with a blunt choice
+**② 找修饰：** By collapsing ...（方式状语）；冒号后 pay for ... or abandon ...（choice 的具体内容）
+**③ 找从句：** 无从句（冒号后为省略主语的祈使式列举）
+**④ 恢复逻辑：** 生成式 AI 靠压垮造假成本，逼每所大学直白选择：花大钱执法，或放弃学术诚信伪装。
+**⑤ 整体理解：** By + 动名词表方式；`confront A with B`（使面对）；冒号后的二选一用动词原形（pay / abandon）作祈使式列举；`in effect`（实际上）作插入。
+
+### 🔍 原句 39（what 从句 + 动名词同位语）
+
+> **原句:** This would result in what economists call a separating equilibrium, the market sorting what administrators cannot.
+
+**① 找主干：** This would result in ...
+**② 找修饰：** what economists call a separating equilibrium（宾语从句）；the market sorting ...（动名词同位语）
+**③ 找从句：** what economists call ...（宾语从句）；what administrators cannot（sorting 的宾语从句）
+**④ 恢复逻辑：** 这将产生"分离均衡"——市场做管理者做不到的筛选。
+**⑤ 整体理解：** result in + what 宾语从句（引专家术语）；逗号后 the market sorting ... 是独立动名词结构作补充（同位语），内部嵌套 what administrators cannot（省 sorting）。
+
+---
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `"Computo, ergo sum"` — 戏仿笛卡尔（我算故我在）
+2. `excel at formulating questions, but ... no agreed answers` — 擅长提问无答案
+3. `weighed against civilian deaths` — 与平民死亡权衡
+4. `Its variability betrays the uncertainty` — 数值飘忽暴露心虚
+5. `resolve itself into the trolley dilemma` — 化解为电车难题
+6. `what looks significant on paper ... is decidedly less so in reality` — 纸上重要现实不然
+7. `hold back any potential flood of Western buyers` — 拦住买家洪流
+8. `the prospect of ... being closed again with comparative ease` — 轻易被封锁的前景
+9. `the dime on which the global economy might turn` — 全球经济急转弯的硬币
+10. `the third shock in a decade` — 十年内第三次冲击
+11. `the government's main recourse is slow` — 应对手段太慢
+12. `time a country in a live currency crisis can least afford` — 最耗不起的时间
+13. `face the same choice between burning through reserves and waiting on a negotiated rescue` — 烧储备 or 等救援
+14. `carry its own corrective` — 自带纠偏
+15. `confronts every university with a blunt choice` — 逼大学二选一
+16. `operating openly as credential mills` — 公开当文凭工厂
+17. `a separating equilibrium, the market sorting what administrators cannot` — 分离均衡
+18. `An honest credential may serve its holder better` — 诚实证书更好
+19. `prevent criminal children from becoming criminal adults` — （呼应前文）
+20. `first prize is a week in Warrington; second prize is two weeks` — 沃灵顿老梗
+21. `I wouldn't swap it for anywhere` — 不愿换任何地方
+
+### 2. 重要语法
+
+- **戏仿/双关（pun/parody）**：`Computo, ergo sum`、`order one in`
+- **what 主语/宾语从句**：`what looks significant on paper` / `what economists call`
+- **虚拟条件**：`If we knew ... would resolve`
+- **破折号同位语插入**：`an apparent aberration against ...`
+- **By + 动名词方式状语**：`By collapsing the cost`
+- **confront A with B**：`confronts every university with a blunt choice`
+- **冒号后祈使式列举**：`pay for ... or ... abandon`
+- **省 that 定语从句**：`time a country ... can least afford`
+- **It 形式主语**：`it is entirely possible that` / `It would be churlish of me`
+- **独立主格**：`some of them quite funny`
+- **倒装引述**：`said the shopkeeper`
+- **最高级 + ever 定语从句**：`the best column ... that I have ever seen`
+- **多重嵌套从句**：`which let countries hit by ... borrow`
+
+### 3. 写作技巧
+
+1. **读者来信的"回应-延伸"结构**：每封信先明确回应的原文（标题+日期），再提出自己的论点——`"Cancelled penalty" was correct in its central contention` / `Your leader ... rightly noted`——先给肯定的锚点，再展开，符合书信礼仪
+2. **专业概念 + 通俗解释**：`known as the non-combatant casualty cut-off value (NCV)`（先给术语再给括号解释）、`doli incapax—incapable of evil`（破折号英译）、`a separating equilibrium`（随后用 "the market sorting" 白话重述）——术语进出有序
+3. **"纸上 vs 现实"的对照**：`what looks significant on paper ... is decidedly less so in reality` —— 用抽象对照概括整个论证（豁免纸上巨大，现实有限），一句话立论
+4. **经济学概念的妙用**：`separating equilibrium`（分离均衡）、`a degree as a signal`（信号理论）、`liquidity vs solvency`（流动性与偿付性）——读者用专业框架解释看似简单的现象，是《经济学人》读者的典型思维
+5. **自嘲式幽默收尾**：从第一封信的战争伦理（NCV）到最后一封的城镇玩笑（"一等奖：沃灵顿一周；二等奖：两周"）——**用自嘲（I wouldn't swap it for anywhere）平衡全篇的严肃**，展现读者群的广度
+6. **轶事的白描**：格林斯潘匿名专栏被主编称"best column ... that I have ever seen"、海军上将电梯轶事、沃灵顿中餐店笑话——用"小故事"而非"论点"回应原文，信件风格多样
+7. **收尾留温度**：`It would be churlish of me to complain`（抱怨失礼）+ `I wouldn't swap it for anywhere`（哪里都不换）——骂归骂、爱归爱，乡情在自嘲中升华
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `reported on ... and noted` | 概括他人观点 | She reported on the issue and noted its impact. |
+| `excel at` | 能力评价 | She excels at solving problems. |
+| `weighed against` | 权衡分析 | Benefits must be weighed against costs. |
+| `at the expense of` | 代价分析 | Growth at the expense of safety. |
+| `varied widely` | 数据差异 | Estimates vary widely. |
+| `on paper ... in reality` | 对照 | It looks good on paper, but not in reality. |
+| `hold back a flood of` | 抑制 | Hold back a flood of demand. |
+| `All the while` | 同时进行 | All the while, costs kept rising. |
+| `can least afford` | 时间/资源紧张 | Time we can least afford. |
+| `face the choice between A and B` | 两难 | Face the choice between speed and cost. |
+| `confront ... with a choice` | 逼选择 | The deadline confronts us with a choice. |
+| `double down on` | 加码 | We doubled down on quality. |
+| `come into effect` | 生效 | The rule comes into effect next month. |
+| `need not be lamented` | 乐观看待 | This change need not be lamented. |
+| `a signal of` | 信号/象征 | The result is a signal of confidence. |
+| `rings true` | 判断可信 | Her account rings true. |
+| `For what it's worth` | 谦逊插入 | For what it's worth, I agree. |
+| `wouldn't swap ... for anywhere` | 珍视 | I wouldn't swap this job for anywhere. |
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
@@ -1042,150 +1180,3 @@
 | Warrington | 沃灵顿（英国小镇） |  |
 | Wazzer | 沃灵顿人（戏称） |  |
 
-## 长难句专项
-
-### 🔍 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
-
-> **原句:** If we knew how many future deaths a wartime leader would be responsible for the problem would resolve itself into the well-known trolley dilemma.
-
-**① 找主干：** the problem would resolve itself into the trolley dilemma
-**② 找修饰：** If we knew how many future deaths a wartime leader would be responsible for（虚拟条件）；the well-known（定语）
-**③ 找从句：** If we knew ...（条件从句）；how many ... a wartime leader would be responsible for（knew 的宾语从句）
-**④ 恢复逻辑：** 若我们知道战时领导人会对多少未来死亡负责，问题就变成著名的电车难题。
-**⑤ 整体理解：** 第二类虚拟条件（if we knew ... would ...，表与现在相反）；how many 从句里 a wartime leader would be responsible for 是"未来死亡"的定语（a leader responsible for deaths）；`resolve itself into`（自我化解为）的拟人化用法。
-
-### 🔍 原句 12（what 主语从句 + 破折号插入）
-
-> **原句:** But what looks significant on paper—an apparent aberration against more than 40 years of sanctions pressure—is decidedly less so in reality.
-
-**① 找主干：** what looks significant is decidedly less so
-**② 找修饰：** on paper（状语）；破折号 an apparent aberration against ...（同位语）
-**③ 找从句：** what looks significant on paper（主语从句）
-**④ 恢复逻辑：** 纸面上看似重大（对 40 年制裁的背离），现实中绝非如此。
-**⑤ 整体理解：** what 主语从句作主语；破折号插入同位语（对主语内容的具体化）；`decidedly less so`（so = significant）表"远非如此"；`on paper ... in reality` 形成对照。
-
-### 🔍 原句 29（which 定语从句 + let sb do + 多层修饰）
-
-> **原句:** In September 2022 the IMF opened a temporary food-shock window, which let countries hit by the Ukraine war's effect on grain and fertiliser prices borrow on top of normal limits, with minimal conditionality and no lengthy programme required.
-
-**① 找主干：** the IMF opened a temporary food-shock window
-**② 找修饰：** In September 2022（时间）；which let countries ... borrow（定语从句）；hit by ... prices（分词定语）；with ... conditionality and no ... programme required（伴随）
-**③ 找从句：** which let countries ... borrow（非限制性定语从句）
-**④ 恢复逻辑：** 2022 年 9 月 IMF 开设粮食冲击窗口，让受乌克兰战争粮价影响的各国在常规限额之上借款，条件极少且无需冗长计划。
-**⑤ 整体理解：** which 定语从句用 `let sb do`（let countries borrow）；countries 带分词定语 hit by ...；`no lengthy programme required` 是省略 which was 的独立结构（with 复合结构）。
-
-### 🔍 原句 32（Although 让步 + that 宾语从句 + whether 从句）
-
-> **原句:** Although this would not solve Africa's underlying debt burden, it would recognise that liquidity, not just solvency, determines whether a price shock becomes a currency crisis.
-
-**① 找主干：** it would recognise that ...
-**② 找修饰：** Although this would not solve ...（让步从句）
-**③ 找从句：** Although ...（让步从句）；that liquidity ... determines ...（宾语从句）；whether a price shock becomes ...（宾语从句）
-**④ 恢复逻辑：** 尽管解决不了根本债务，但会承认是流动性（而非仅偿付能力）决定冲击是否变危机。
-**⑤ 整体理解：** 让步句（Although）+ 主句（it would recognise）；宾语从句内插入 not just solvency；whether 从句嵌套在 that 从句内，形成两层宾语从句。
-
-### 🔍 原句 35（By 方式 + 冒号二选一）
-
-> **原句:** By collapsing the cost of fabricated coursework, generative AI confronts every university with a blunt choice: pay for much costlier enforcement, or in effect abandon the pretence of academic integrity.
-
-**① 找主干：** generative AI confronts every university with a blunt choice
-**② 找修饰：** By collapsing ...（方式状语）；冒号后 pay for ... or abandon ...（choice 的具体内容）
-**③ 找从句：** 无从句（冒号后为省略主语的祈使式列举）
-**④ 恢复逻辑：** 生成式 AI 靠压垮造假成本，逼每所大学直白选择：花大钱执法，或放弃学术诚信伪装。
-**⑤ 整体理解：** By + 动名词表方式；`confront A with B`（使面对）；冒号后的二选一用动词原形（pay / abandon）作祈使式列举；`in effect`（实际上）作插入。
-
-### 🔍 原句 39（what 从句 + 动名词同位语）
-
-> **原句:** This would result in what economists call a separating equilibrium, the market sorting what administrators cannot.
-
-**① 找主干：** This would result in ...
-**② 找修饰：** what economists call a separating equilibrium（宾语从句）；the market sorting ...（动名词同位语）
-**③ 找从句：** what economists call ...（宾语从句）；what administrators cannot（sorting 的宾语从句）
-**④ 恢复逻辑：** 这将产生"分离均衡"——市场做管理者做不到的筛选。
-**⑤ 整体理解：** result in + what 宾语从句（引专家术语）；逗号后 the market sorting ... 是独立动名词结构作补充（同位语），内部嵌套 what administrators cannot（省 sorting）。
-
----
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `"Computo, ergo sum"` — 戏仿笛卡尔（我算故我在）
-2. `excel at formulating questions, but ... no agreed answers` — 擅长提问无答案
-3. `weighed against civilian deaths` — 与平民死亡权衡
-4. `Its variability betrays the uncertainty` — 数值飘忽暴露心虚
-5. `resolve itself into the trolley dilemma` — 化解为电车难题
-6. `what looks significant on paper ... is decidedly less so in reality` — 纸上重要现实不然
-7. `hold back any potential flood of Western buyers` — 拦住买家洪流
-8. `the prospect of ... being closed again with comparative ease` — 轻易被封锁的前景
-9. `the dime on which the global economy might turn` — 全球经济急转弯的硬币
-10. `the third shock in a decade` — 十年内第三次冲击
-11. `the government's main recourse is slow` — 应对手段太慢
-12. `time a country in a live currency crisis can least afford` — 最耗不起的时间
-13. `face the same choice between burning through reserves and waiting on a negotiated rescue` — 烧储备 or 等救援
-14. `carry its own corrective` — 自带纠偏
-15. `confronts every university with a blunt choice` — 逼大学二选一
-16. `operating openly as credential mills` — 公开当文凭工厂
-17. `a separating equilibrium, the market sorting what administrators cannot` — 分离均衡
-18. `An honest credential may serve its holder better` — 诚实证书更好
-19. `prevent criminal children from becoming criminal adults` — （呼应前文）
-20. `first prize is a week in Warrington; second prize is two weeks` — 沃灵顿老梗
-21. `I wouldn't swap it for anywhere` — 不愿换任何地方
-
-### 2. 重要语法
-
-- **戏仿/双关（pun/parody）**：`Computo, ergo sum`、`order one in`
-- **what 主语/宾语从句**：`what looks significant on paper` / `what economists call`
-- **虚拟条件**：`If we knew ... would resolve`
-- **破折号同位语插入**：`an apparent aberration against ...`
-- **By + 动名词方式状语**：`By collapsing the cost`
-- **confront A with B**：`confronts every university with a blunt choice`
-- **冒号后祈使式列举**：`pay for ... or ... abandon`
-- **省 that 定语从句**：`time a country ... can least afford`
-- **It 形式主语**：`it is entirely possible that` / `It would be churlish of me`
-- **独立主格**：`some of them quite funny`
-- **倒装引述**：`said the shopkeeper`
-- **最高级 + ever 定语从句**：`the best column ... that I have ever seen`
-- **多重嵌套从句**：`which let countries hit by ... borrow`
-
-### 3. 长难句
-
-- 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
-- 原句 12（what 主语从句 + 破折号插入）
-- 原句 29（which 定语从句 + let sb do + 多层修饰）
-- 原句 32（Although 让步 + that 宾语从句 + whether 从句）
-- 原句 35（By 方式 + 冒号二选一）
-- 原句 39（what 从句 + 动名词同位语）
-
-### 4. 写作技巧
-
-1. **读者来信的"回应-延伸"结构**：每封信先明确回应的原文（标题+日期），再提出自己的论点——`"Cancelled penalty" was correct in its central contention` / `Your leader ... rightly noted`——先给肯定的锚点，再展开，符合书信礼仪
-2. **专业概念 + 通俗解释**：`known as the non-combatant casualty cut-off value (NCV)`（先给术语再给括号解释）、`doli incapax—incapable of evil`（破折号英译）、`a separating equilibrium`（随后用 "the market sorting" 白话重述）——术语进出有序
-3. **"纸上 vs 现实"的对照**：`what looks significant on paper ... is decidedly less so in reality` —— 用抽象对照概括整个论证（豁免纸上巨大，现实有限），一句话立论
-4. **经济学概念的妙用**：`separating equilibrium`（分离均衡）、`a degree as a signal`（信号理论）、`liquidity vs solvency`（流动性与偿付性）——读者用专业框架解释看似简单的现象，是《经济学人》读者的典型思维
-5. **自嘲式幽默收尾**：从第一封信的战争伦理（NCV）到最后一封的城镇玩笑（"一等奖：沃灵顿一周；二等奖：两周"）——**用自嘲（I wouldn't swap it for anywhere）平衡全篇的严肃**，展现读者群的广度
-6. **轶事的白描**：格林斯潘匿名专栏被主编称"best column ... that I have ever seen"、海军上将电梯轶事、沃灵顿中餐店笑话——用"小故事"而非"论点"回应原文，信件风格多样
-7. **收尾留温度**：`It would be churlish of me to complain`（抱怨失礼）+ `I wouldn't swap it for anywhere`（哪里都不换）——骂归骂、爱归爱，乡情在自嘲中升华
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `reported on ... and noted` | 概括他人观点 | She reported on the issue and noted its impact. |
-| `excel at` | 能力评价 | She excels at solving problems. |
-| `weighed against` | 权衡分析 | Benefits must be weighed against costs. |
-| `at the expense of` | 代价分析 | Growth at the expense of safety. |
-| `varied widely` | 数据差异 | Estimates vary widely. |
-| `on paper ... in reality` | 对照 | It looks good on paper, but not in reality. |
-| `hold back a flood of` | 抑制 | Hold back a flood of demand. |
-| `All the while` | 同时进行 | All the while, costs kept rising. |
-| `can least afford` | 时间/资源紧张 | Time we can least afford. |
-| `face the choice between A and B` | 两难 | Face the choice between speed and cost. |
-| `confront ... with a choice` | 逼选择 | The deadline confronts us with a choice. |
-| `double down on` | 加码 | We doubled down on quality. |
-| `come into effect` | 生效 | The rule comes into effect next month. |
-| `need not be lamented` | 乐观看待 | This change need not be lamented. |
-| `a signal of` | 信号/象征 | The result is a signal of confidence. |
-| `rings true` | 判断可信 | Her account rings true. |
-| `For what it's worth` | 谦逊插入 | For what it's worth, I agree. |
-| `wouldn't swap ... for anywhere` | 珍视 | I wouldn't swap this job for anywhere. |

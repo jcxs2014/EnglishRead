@@ -367,81 +367,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| long-running series | 长期系列 | A long-running series. |
-| long-running | 长期进行的 | A long-running debate. |
-| the resource supercycle | 资源超级周期 | The resource supercycle. |
-| wrong about that | 那点错了 | Wrong about that. |
-| the logic behind | 背后的逻辑 | The logic behind the policy. |
-| absurd | 荒谬的 | Not absurd. |
-| running out of | 耗尽 | Running out of oil. |
-| seemed to be | 似乎正在 | Seemed to be running out. |
-| cheap oil | 廉价石油 | Cheap oil. |
-| insatiable | 永不满足的 | Insatiable demand. |
-| emerging markets | 新兴市场 | Emerging markets. |
-| the shale revolution | 页岩革命 | The shale revolution. |
-| unlocked | 释放、解锁 | Unlocked vast supplies. |
-| vast new supplies | 巨大的新供给 | Vast new supplies. |
-| meanwhile | 与此同时 | Meanwhile, demand. |
-| more slowly than expected | 比预期慢 | More slowly than expected. |
-| more efficient | 更高效 | More efficient economies. |
-| what went wrong | 哪里出错 | What went wrong? |
-| the honest answer | 诚实答案 | The honest answer is. |
-| extrapolated from the past | 从过去外推 | Extrapolated from the past. |
-| took the recent trend | 取近期趋势 | Took the recent trend. |
-| complex systems | 复杂系统 | Complex systems. |
-| run in straight lines | 直线运行 | Rarely run in straight lines. |
-| the deeper lesson | 更深教训 | The deeper lesson. |
-| prediction itself | 预测本身 | About prediction itself. |
-| most confident | 最为自信 | Most confident. |
-| least needed | 最不需要 | Least needed. |
-| at the extremes | 在极端情况 | At the extremes. |
-| turning points | 转折点 | At turning points. |
-| confidence is highest | 信心最高 | Confidence is highest. |
-| just before the path bends | 恰在拐弯前 | Just before the path bends. |
-| none of this means | 这些都不意味着 | None of this means. |
-| easy to predict | 容易预测 | Easy to predict. |
-| what is certain | 确定的是 | What is certain is. |
-| remain central to | 仍是核心 | Remain central to. |
-| geopolitics | 地缘政治 | Geopolitics. |
-| for decades | 数十年 | For decades. |
-| burning it freely | 自由燃烧 | Burning it freely. |
-| are numbered | 屈指可数 | Days are numbered. |
-| the right attitude | 正确态度 | The right attitude. |
-| humility | 谦逊 | Is humility. |
-| state our confidence | 陈述信心 | State our confidence. |
-| only when the evidence demands it | 只在证据要求时 | Only when the evidence demands it. |
-| to put it | 换句话说 | To put it simply. |
-| right, not loud | 正确而非响亮 | Right, not loud. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| series | 系列报道 |  |
-| cycle | 周期 |  |
-| shale | 页岩 |  |
-| revolution | 革命 |  |
-| supplies | 供给 |  |
-| demand | 需求 |  |
-| trend | 趋势 |  |
-| forecasts | 预测 |  |
-| turning point | 转折点 |  |
-| analysts | 分析师 |  |
-| journalists | 记者 |  |
-| evidence | 证据 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| China | 中国 |  |
-| oil | 石油 |  |
-| gas | 天然气 |  |
-| climate change | 气候变化 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 6（insatiable + 名词短语主语）
@@ -543,16 +468,7 @@
 - **not X 对比**：`right, not loud`
 - **比较结构**：`more slowly than expected`
 
-### 3. 长难句
-
-- 原句 6：insatiable + 名词短语主语
-- 原句 9：as 双因从句
-- 原句 12：rarely + 直线比喻
-- 原句 14：most/least 悖论 + 破折号
-- 原句 17：What 主语从句 + that 表语从句
-- 原句 21：定语从句省略 that + right/loud 双关
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **最诚实的开场**：`WE WERE wrong`——三个词、全大写、无前缀。媒体认错最有效的开场就是"不找借口"，短句显坦诚
 2. **设问推进**：`What went wrong?`——自问自答引导读者进入方法论分析，比直接讲道理更有互动性
@@ -566,6 +482,80 @@
 10. **"首尾呼应"的认错结构**：开头 WE WERE wrong（1）→ 中间 We were wrong about that, too（3）→ 结尾 right, not loud——认错贯穿始终，姿态前后一致
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| long-running series | 长期系列 | A long-running series. |
+| long-running | 长期进行的 | A long-running debate. |
+| the resource supercycle | 资源超级周期 | The resource supercycle. |
+| wrong about that | 那点错了 | Wrong about that. |
+| the logic behind | 背后的逻辑 | The logic behind the policy. |
+| absurd | 荒谬的 | Not absurd. |
+| running out of | 耗尽 | Running out of oil. |
+| seemed to be | 似乎正在 | Seemed to be running out. |
+| cheap oil | 廉价石油 | Cheap oil. |
+| insatiable | 永不满足的 | Insatiable demand. |
+| emerging markets | 新兴市场 | Emerging markets. |
+| the shale revolution | 页岩革命 | The shale revolution. |
+| unlocked | 释放、解锁 | Unlocked vast supplies. |
+| vast new supplies | 巨大的新供给 | Vast new supplies. |
+| meanwhile | 与此同时 | Meanwhile, demand. |
+| more slowly than expected | 比预期慢 | More slowly than expected. |
+| more efficient | 更高效 | More efficient economies. |
+| what went wrong | 哪里出错 | What went wrong? |
+| the honest answer | 诚实答案 | The honest answer is. |
+| extrapolated from the past | 从过去外推 | Extrapolated from the past. |
+| took the recent trend | 取近期趋势 | Took the recent trend. |
+| complex systems | 复杂系统 | Complex systems. |
+| run in straight lines | 直线运行 | Rarely run in straight lines. |
+| the deeper lesson | 更深教训 | The deeper lesson. |
+| prediction itself | 预测本身 | About prediction itself. |
+| most confident | 最为自信 | Most confident. |
+| least needed | 最不需要 | Least needed. |
+| at the extremes | 在极端情况 | At the extremes. |
+| turning points | 转折点 | At turning points. |
+| confidence is highest | 信心最高 | Confidence is highest. |
+| just before the path bends | 恰在拐弯前 | Just before the path bends. |
+| none of this means | 这些都不意味着 | None of this means. |
+| easy to predict | 容易预测 | Easy to predict. |
+| what is certain | 确定的是 | What is certain is. |
+| remain central to | 仍是核心 | Remain central to. |
+| geopolitics | 地缘政治 | Geopolitics. |
+| for decades | 数十年 | For decades. |
+| burning it freely | 自由燃烧 | Burning it freely. |
+| are numbered | 屈指可数 | Days are numbered. |
+| the right attitude | 正确态度 | The right attitude. |
+| humility | 谦逊 | Is humility. |
+| state our confidence | 陈述信心 | State our confidence. |
+| only when the evidence demands it | 只在证据要求时 | Only when the evidence demands it. |
+| to put it | 换句话说 | To put it simply. |
+| right, not loud | 正确而非响亮 | Right, not loud. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| series | 系列报道 |  |
+| cycle | 周期 |  |
+| shale | 页岩 |  |
+| revolution | 革命 |  |
+| supplies | 供给 |  |
+| demand | 需求 |  |
+| trend | 趋势 |  |
+| forecasts | 预测 |  |
+| turning point | 转折点 |  |
+| analysts | 分析师 |  |
+| journalists | 记者 |  |
+| evidence | 证据 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| China | 中国 |  |
+| oil | 石油 |  |
+| gas | 天然气 |  |
+| climate change | 气候变化 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -584,3 +574,4 @@
 | `state confidence` | 表态信心 | State confidence only when warranted. |
 | `right, not loud` | 对而非响 | Be right, not loud. |
 | `to put it in the language ...` | 用……的说法 | To put it in plain English. |
+

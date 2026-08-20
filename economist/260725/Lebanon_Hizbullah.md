@@ -254,38 +254,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| mistreated country | 被虐待的国家 | Lebanon has been a very mistreated country. |
-| political meddling | 政治干预 | Foreign powers engaged in political meddling. |
-| a state-run Ponzi scheme | 国家运营的庞氏骗局 | The financial crash was a state-run Ponzi scheme. |
-| state negligence | 国家失职 | The blast was the result of state negligence. |
-| sectarian | 教派的/宗派的 | A sectarian political class ran the country. |
-| a monopoly on weapons | 对武器的垄断 | The state must have a monopoly on weapons. |
-| war-ravaged regions | 战争蹂躏的地区 | They promised to rebuild war-ravaged regions. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| restructure insolvent banks | 重组资不抵债的银行 | Banks must be restructured. |
-| hobbled by | 被……拖累 | A government hobbled by economic collapse. |
-| a small country of hefty importance | 重要性极重的小国 | Lebanon is small but of hefty importance. |
-| Reining in Hizbullah | 制约真主党 | Reining in the militia is essential. |
-| land a blow against | 对……施加打击 | It would land a blow against Iran. |
-| made them its main export | 让其成为主要出口品 | Dysfunction made talent its main export. |
-| lest they trigger | 以免引发 | They hesitate, lest they trigger war. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| make a show of | 作秀式做 | They only make a show of confiscating weapons. |
-| leniency stores up trouble | 宽大积攒麻烦 | Such leniency stores up trouble for the future. |
-| drain Hizbullah's support | 抽干支持 | They hope to drain the militia's support. |
-| release help in tranches | 分批发放援助 | Donors should release help in tranches. |
-| short-sighted | 短视的 | Restricting weapons sales was short-sighted. |
 
 ## 核心表达（可直接迁移）
 

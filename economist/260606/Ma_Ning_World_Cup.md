@@ -413,78 +413,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| caption | （图片）说明文字 | The caption under the photo. |
-| announced his departure | 宣布启程 | She announced her departure. |
-| qualified for | 取得资格 | They qualified for the next round. |
-| crashed out | 惨遭淘汰 | They crashed out in the quarters. |
-| struggles to | 挣扎着、费力 | He struggles to pay rent. |
-| adept at | 擅长 | Adept at negotiations. |
-| hails from | 来自（书面） | She hails from Ohio. |
-| rust belt | 锈带（衰败工业区） | Jobs vanished across the rust belt. |
-| heartland | 腹地 | The agricultural heartland. |
-| state-owned enterprises | 国有企业 | State-owned enterprises dominate the sector. |
-| bureaucracy | 官僚体制 | The bureaucracy is slow. |
-| temperament | 性情 | A quiet temperament. |
-| upbringing | 成长环境 | Her rural upbringing. |
-| made a career out of | 把……当事业 | He made a career out of it. |
-| taking rules seriously | 认真对待规则 | Take the rules seriously. |
-| breakthrough | 突破 | Her breakthrough role. |
-| issued | 出示、发出 | The referee issued a red. |
-| marked | 庆祝（节日） | They marked the day with a feast. |
-| chanting insults | 高喊辱骂 | Fans chanted insults. |
-| untroubled | 不为所动 | She stayed untroubled. |
-| hostility | 敌意 | He faced hostility. |
-| has done little to | 几乎没能 | It did little to help. |
-| impede | 阻碍 | Traffic impeded us. |
-| ascent | 晋升、上升 | His ascent to the top. |
-| oversee | 主持、监督 | He oversees the final. |
-| defended ... from | 保护免受 | They defended him from attacks. |
-| backlashes | 强烈反弹 | The backlash was fierce. |
-| consecutive | 连续的 | Three consecutive days. |
-| mark his debut | 标志首秀 | It marked her debut. |
-| impartiality | 公正 | His impartiality was doubted. |
-| repercussions | 波及后果 | The move had repercussions. |
-| dilemma | 两难 | A moral dilemma. |
-| unlikely to | 不太可能 | Unlikely to change. |
-| little to lose and much to gain | 稳赢局面 | He had little to lose. |
-| eyeing retirement | 盘算退役 | He's eyeing retirement. |
-| accumulate | 积累 | Debts accumulated. |
-| flock to | 蜂拥而至 | Fans flocked to the store. |
-| in its own right | 自成一体 | A talent in her own right. |
-| synonymous with | 与……同义 | Name synonymous with quality. |
-| corruption scandals | 腐败丑闻 | The scandal broke. |
-| chronic | 长期的 | Chronic underfunding. |
-| underachievement | 成绩欠佳 | Years of underachievement. |
-| regardless | 无论如何 | She kept on regardless. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| footballers | 足球运动员 |  |
-| tournament | 锦标赛 |  |
-| referee | 裁判 |  |
-| supporters | 支持者 |  |
-| officials | 官员 |  |
-| appearance | 出场 |  |
-| debut | 首秀 |  |
-| fourth official | 第四官员 |  |
-| retirement | 退役 |  |
-| representative | 代表 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| sponsorship | 赞助 |  |
-| followers | 粉丝 |  |
-| accounts | 账号 |  |
-| reform | 改革 |  |
-| scoring goals | 进球 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 1（with 短语 + 主句 + 同位语）
@@ -600,17 +528,7 @@
 - **对仗结构**：`little to lose and much to gain`
 - **双关收尾**：goals（进球/目标）
 
-### 3. 长难句
-
-- 原句 1：with 短语 + 同位语
-- 原句 6：分词结果状语
-- 原句 7：whether A or B + 插入
-- 原句 9：同位语 + by 方式
-- 原句 15：定语从句省略 that
-- 原句 16：Unlike 对比结构
-- 原句 21：despite 插入 + 三并列
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **场景化开头**：首句不用新闻通稿式"马宁将执法世界杯"，而是还原他的社交媒体动态（With a photo ... and the caption "..."），让读者先"看到"再"听到"，贴近人物特稿的叙事感
 2. **短句制造落差**：第二句五个词 `China's footballers will not be joining him` 戛然而止，紧接长句背景，长短交替让"期望落空"的冲击力最大化
@@ -624,6 +542,77 @@
 10. **双关金句收尾**：`meeting his own`——goals 既是"进球"又是"目标"，一个词把"个人 vs 体系"的张力收束成点睛之笔
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| caption | （图片）说明文字 | The caption under the photo. |
+| announced his departure | 宣布启程 | She announced her departure. |
+| qualified for | 取得资格 | They qualified for the next round. |
+| crashed out | 惨遭淘汰 | They crashed out in the quarters. |
+| struggles to | 挣扎着、费力 | He struggles to pay rent. |
+| adept at | 擅长 | Adept at negotiations. |
+| hails from | 来自（书面） | She hails from Ohio. |
+| rust belt | 锈带（衰败工业区） | Jobs vanished across the rust belt. |
+| heartland | 腹地 | The agricultural heartland. |
+| state-owned enterprises | 国有企业 | State-owned enterprises dominate the sector. |
+| bureaucracy | 官僚体制 | The bureaucracy is slow. |
+| temperament | 性情 | A quiet temperament. |
+| upbringing | 成长环境 | Her rural upbringing. |
+| made a career out of | 把……当事业 | He made a career out of it. |
+| taking rules seriously | 认真对待规则 | Take the rules seriously. |
+| breakthrough | 突破 | Her breakthrough role. |
+| issued | 出示、发出 | The referee issued a red. |
+| marked | 庆祝（节日） | They marked the day with a feast. |
+| chanting insults | 高喊辱骂 | Fans chanted insults. |
+| untroubled | 不为所动 | She stayed untroubled. |
+| hostility | 敌意 | He faced hostility. |
+| has done little to | 几乎没能 | It did little to help. |
+| impede | 阻碍 | Traffic impeded us. |
+| ascent | 晋升、上升 | His ascent to the top. |
+| oversee | 主持、监督 | He oversees the final. |
+| defended ... from | 保护免受 | They defended him from attacks. |
+| backlashes | 强烈反弹 | The backlash was fierce. |
+| consecutive | 连续的 | Three consecutive days. |
+| mark his debut | 标志首秀 | It marked her debut. |
+| impartiality | 公正 | His impartiality was doubted. |
+| repercussions | 波及后果 | The move had repercussions. |
+| dilemma | 两难 | A moral dilemma. |
+| unlikely to | 不太可能 | Unlikely to change. |
+| little to lose and much to gain | 稳赢局面 | He had little to lose. |
+| eyeing retirement | 盘算退役 | He's eyeing retirement. |
+| accumulate | 积累 | Debts accumulated. |
+| flock to | 蜂拥而至 | Fans flocked to the store. |
+| in its own right | 自成一体 | A talent in her own right. |
+| synonymous with | 与……同义 | Name synonymous with quality. |
+| corruption scandals | 腐败丑闻 | The scandal broke. |
+| chronic | 长期的 | Chronic underfunding. |
+| underachievement | 成绩欠佳 | Years of underachievement. |
+| regardless | 无论如何 | She kept on regardless. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| footballers | 足球运动员 |  |
+| tournament | 锦标赛 |  |
+| referee | 裁判 |  |
+| supporters | 支持者 |  |
+| officials | 官员 |  |
+| appearance | 出场 |  |
+| debut | 首秀 |  |
+| fourth official | 第四官员 |  |
+| retirement | 退役 |  |
+| representative | 代表 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| sponsorship | 赞助 |  |
+| followers | 粉丝 |  |
+| accounts | 账号 |  |
+| reform | 改革 |  |
+| scoring goals | 进球 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -638,3 +627,4 @@
 | `eye retirement` | 盘算退休 | He's eyeing retirement at 55. |
 | `face no such dilemma` | 没有这种两难 | Unlike others, she faces no such dilemma. |
 | `meet one's own (goals)` | 实现自己的目标 | He met his own goals regardless. |
+

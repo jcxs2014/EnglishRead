@@ -529,6 +529,76 @@
 
 ---
 
+## 精读结束总结
+
+### 1. 本文核心表达（最值得记忆）
+
+- `be essential to` / `be opaque about` — 描述"重要性"与"不透明"
+- `be poised to do` — 蓄势待发
+- `moving closer to a credible triad` — "逼近完成"的渐进表达
+- `as a way to validate X and demonstrate Y` — 双重目的句式
+- `bring sth back into play` — 让某物重新发挥作用
+- `be not alone in doing sth` — 并非唯一做某事
+- `given + 名词短语` — 鉴于
+- `on the eve of... and in the midst of...` — 平行时间状语
+- `fears about X and Y` — 双宾语担忧结构
+
+### 2. 重要语法
+
+| 语法点 | 文中例句 |
+| --- | --- |
+| 同位语从句（名词 + that 从句） | announcement **that** one of them had carried out... |
+| 倒装引述（quotative inversion） | said Xinhua / wrote Frank Rose / said several experts |
+| 强调助动词 do | China **did** notify some governments |
+| 不定式完成被动式 | appeared **to have been launched** |
+| 过去将来时（future in the past） | predicted... China **would demonstrate** |
+| 比较从句省略 | as other nuclear powers **have** |
+| given + 名词短语表原因 | **given** China's expanding arsenal |
+| 分词作结果状语 | meaning... / allowing it to hit... |
+| 后置定语 | the equipment **involved** |
+| be not alone in doing | China is not alone **in test-firing** |
+
+### 3. 长难句（最值得重读）
+
+句 5（同位语从句+双动词）、句 10（引语+双同位语）、句 12（双重目的）、句 18（完成被动不定式）、句 23（平行时间状语）
+
+### 3. 写作技巧
+
+- **漏斗式开头**：一般原则（保密）→ 特殊案例（中国）→ 具体事件（宣布）→ 反应（不安）。层层收窄，最后一句的 So 把因果链砸实。
+- **信息缺口制造张力**：新华社"没说落点"、中国"从不证实"——**没说的信息**和说了的一样有新闻价值。
+- **短句给重音**：`Both were launched from land.` / `It is also building quieter submarines.`——长句铺陈后突然的短句就是强调。
+- **主题词呼应**：opaque 在第一段出现，第七段借美国国务院之口重现，形成结构闭环。
+- **让步-转折**：`did notify... Still, ...`、`not alone... But given...`——先退一步再出拳，转折更有力。
+- **数据即论证**：7200km/10000km 后面紧跟 meaning/allowing 解读——数字不裸奔，必配含义。
+- **对称对比**：JL-2 vs JL-3 两句结构完全平行，用 meaning/allowing 微调语气。
+- **source 平衡**：美国前官员 vs 中国前教授、美澳官方 vs 外部分析师——多视角并置，作者自己不下判断。
+
+### 5. 可迁移表达（按场景）
+
+**学术论文 / 正式写作：**
+- `X is essential to Y`（开篇立论）
+- `given + NP, ... is likely to...`（条件推论）
+- `compared with...`（数据对比）
+- `as a way to validate...`（研究目的）
+- `be of great concern`（问题严重性）
+
+**新闻报道 / 公文 / 邮件：**
+- `voice concern about`（表达关切）
+- `urge sb to commit to`（敦促承诺）
+- `describe sth as`（立场定性）
+- `in protest over`（抗议原因）
+- `on the eve of / in the midst of`（时间背景）
+
+**日常 / 职场英语：**
+- `be not alone in doing`（不是只有我这么想）
+- `do so`（避免重复）
+- `the former / the latter`（指代两个对象）
+- `heighten awareness`（提升意识）
+- `be poised to`（万事俱备只欠东风）
+
+---
+
+*精读完成。训练建议：重读第五段（The Pentagon...）与第六段（JL-2/JL-3），尝试不看翻译复述其逻辑链；再用 `given...`、`on the eve of...`、`be not alone in...` 各造一个属于自己的句子。*
 ## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| intercontinental | 洲际的 / `long-range` 远程的 / `air-launched` 空射的 |  || the low 600s | 600 出头 / `compared with` 相比 |  || in preparation for | 为……做准备 / `confrontation` 对抗 |  || splash down | 溅落 / `range` 射程 / `the former/the latter` 前者/后者 |  || military parade | 阅兵式 / `joint` 联合的 / `notification` 通报 |  || State Department | 国务院 / `foreign minister` 外长 / `in protest over` 因抗议 |  || destabilising | 破坏稳定的 / `intention` 意图 |  || jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |  || continental United States | 美国本土 / `mid-Pacific` 太平洋中部 |  |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| secrecy | 保密 / `estimate` 估计 / `confirm` 证实 / `patrol` 巡逻 |  || vessel | 舰船 / `dummy` 模拟的、假的 / `warhead` 弹头 |  || modernise | 现代化 / `build-up` 集结扩充 / `operational` 现役可用的 |  || mainland | 本土 / `coastal waters` 近海水域 / `on display` 展出 |  || boomer | （此处）美国海军俚语：弹道导弹核潜艇 |  |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| do so | 替代动词 / `permanent members` 常任理事国 |  || triad | （军事义）陆海空三位一体核力量 |  || foe | 敌人（古雅变体） |  || NATO | 北约 / `SSBN` 弹道导弹核潜艇 |  |## 长难句专项（按精读顺序编号）
 
 ### 🔍 句 5：So its announcement on July 6th that one of them had carried out a rare test of an intercontinental ballistic missile in the Pacific Ocean surprised and unnerved the region.
@@ -573,73 +643,3 @@
 
 ---
 
-## 精读结束总结
-
-### 1. 本文核心表达（最值得记忆）
-
-- `be essential to` / `be opaque about` — 描述"重要性"与"不透明"
-- `be poised to do` — 蓄势待发
-- `moving closer to a credible triad` — "逼近完成"的渐进表达
-- `as a way to validate X and demonstrate Y` — 双重目的句式
-- `bring sth back into play` — 让某物重新发挥作用
-- `be not alone in doing sth` — 并非唯一做某事
-- `given + 名词短语` — 鉴于
-- `on the eve of... and in the midst of...` — 平行时间状语
-- `fears about X and Y` — 双宾语担忧结构
-
-### 2. 重要语法
-
-| 语法点 | 文中例句 |
-| --- | --- |
-| 同位语从句（名词 + that 从句） | announcement **that** one of them had carried out... |
-| 倒装引述（quotative inversion） | said Xinhua / wrote Frank Rose / said several experts |
-| 强调助动词 do | China **did** notify some governments |
-| 不定式完成被动式 | appeared **to have been launched** |
-| 过去将来时（future in the past） | predicted... China **would demonstrate** |
-| 比较从句省略 | as other nuclear powers **have** |
-| given + 名词短语表原因 | **given** China's expanding arsenal |
-| 分词作结果状语 | meaning... / allowing it to hit... |
-| 后置定语 | the equipment **involved** |
-| be not alone in doing | China is not alone **in test-firing** |
-
-### 3. 长难句（最值得重读）
-
-句 5（同位语从句+双动词）、句 10（引语+双同位语）、句 12（双重目的）、句 18（完成被动不定式）、句 23（平行时间状语）
-
-### 4. 写作技巧
-
-- **漏斗式开头**：一般原则（保密）→ 特殊案例（中国）→ 具体事件（宣布）→ 反应（不安）。层层收窄，最后一句的 So 把因果链砸实。
-- **信息缺口制造张力**：新华社"没说落点"、中国"从不证实"——**没说的信息**和说了的一样有新闻价值。
-- **短句给重音**：`Both were launched from land.` / `It is also building quieter submarines.`——长句铺陈后突然的短句就是强调。
-- **主题词呼应**：opaque 在第一段出现，第七段借美国国务院之口重现，形成结构闭环。
-- **让步-转折**：`did notify... Still, ...`、`not alone... But given...`——先退一步再出拳，转折更有力。
-- **数据即论证**：7200km/10000km 后面紧跟 meaning/allowing 解读——数字不裸奔，必配含义。
-- **对称对比**：JL-2 vs JL-3 两句结构完全平行，用 meaning/allowing 微调语气。
-- **source 平衡**：美国前官员 vs 中国前教授、美澳官方 vs 外部分析师——多视角并置，作者自己不下判断。
-
-### 5. 可迁移表达（按场景）
-
-**学术论文 / 正式写作：**
-- `X is essential to Y`（开篇立论）
-- `given + NP, ... is likely to...`（条件推论）
-- `compared with...`（数据对比）
-- `as a way to validate...`（研究目的）
-- `be of great concern`（问题严重性）
-
-**新闻报道 / 公文 / 邮件：**
-- `voice concern about`（表达关切）
-- `urge sb to commit to`（敦促承诺）
-- `describe sth as`（立场定性）
-- `in protest over`（抗议原因）
-- `on the eve of / in the midst of`（时间背景）
-
-**日常 / 职场英语：**
-- `be not alone in doing`（不是只有我这么想）
-- `do so`（避免重复）
-- `the former / the latter`（指代两个对象）
-- `heighten awareness`（提升意识）
-- `be poised to`（万事俱备只欠东风）
-
----
-
-*精读完成。训练建议：重读第五段（The Pentagon...）与第六段（JL-2/JL-3），尝试不看翻译复述其逻辑链；再用 `given...`、`on the eve of...`、`be not alone in...` 各造一个属于自己的句子。*

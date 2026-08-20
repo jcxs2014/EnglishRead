@@ -674,84 +674,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| stereotype | 刻板印象 |  |
-| irritatingly | 令人恼火地 |  |
-| upbeat | 乐观的 |  |
-| midge-infested | 蚊蚋肆虐的 |  |
-| cliché | 陈词滥调 |  |
-| misleading | 误导性的 |  |
-| cheerful | 快乐的 |  |
-| dread | 恐惧 |  |
-| unravelling | 瓦解 |  |
-| semiquincentennial | 二百五十周年 |  |
-| nostalgic | 怀旧的 |  |
-| pessimistic | 悲观的 |  |
-| inventive | 有创造力的 |  |
-| better off | 境况更好 |  |
-| objective measures | 客观指标 |  |
-| life expectancy | 预期寿命 |  |
-| opioid overdoses | 阿片类药物过量 |  |
-| robustly | 强劲地 |  |
-| income inequality | 收入不平等 |  |
-| pre-eminent | 首屈一指的 |  |
-| biomedicine | 生物医学 |  |
-| impulse | 冲动 |  |
-| spectacular | 了不起的 |  |
-| in the company of | 在……陪伴下 |  |
-| aristocrat | 贵族 |  |
-| prescient | 有先见之明的 |  |
-| maximum-security | 最高安全级别的 |  |
-| sheriff | 治安官 |  |
-| snafus | 混乱 |  |
-| texture | 质感 |  |
-| gaze out of | 凝视窗外 |  |
-| draw conclusions | 得出结论 |  |
-| unrealistically | 不切实际地 |  |
-| gloomy | 悲观的 |  |
-| morally bad | 道德败坏的 |  |
-| comes close to | 接近 |  |
-| great-grandson | 曾孙 |  |
-| systematic organisation | 系统化组织 |  |
-| hatreds | 仇恨 |  |
-| ingenuity | 聪明才智 |  |
-| in person | 亲自 |  |
-| purple-haired | 紫发的 |  |
-| distorted | 扭曲的 |  |
-| continent-size | 幅员如大陆的 |  |
-| peripheral | 边陲的 |  |
-| blessed with | 被赐予 |  |
-| dynamic conditions | 充满活力的条件 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| nationality | 国籍 |  |
-| ruin | 废墟 |  |
-| widespread | 广泛的 |  |
-| dip | 下滑 |  |
-| pre-eminent | 卓越的 |  |
-| launching | 推出 |  |
-| unplanned | 计划外的 |  |
-| encounters | 邂逅 |  |
-| stretches | 路段 |  |
-| mirror | 镜子 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| picture | 想象 |  |
-| stranger | 陌生人 |  |
-| family | 家庭 |  |
-| past | 过去 |  |
-| economy | 经济 |  |
-| firms | 公司 |  |
-| podcast | 播客 |  |
-
 ## 二、长难句专项
 
 > **长难句 1（原句 2）：**
@@ -846,7 +768,7 @@
 2. 破折号后的短句往往是结论（原句 2）。
 3. 倒装结构（Never/引语前置）强调否定或引文。
 
-### 4. 写作技巧
+### 3. 写作技巧
 1. **刻板印象开篇，全文反转**：开头"乐观到烦人"→ 结尾"实际是恐惧与深思"。
 2. **两代 Adams 呼应**：约翰·亚当斯（1814）悲观预言 ↔ 亨利·亚当斯（曾孙）"政治=仇恨的系统化组织"——家族时间线贯穿。
 3. **data vs vibes 押韵对举**：一句点出全文核心矛盾。
@@ -863,3 +785,81 @@
 - 表达"历史回响"：*"Never have a people been blessed with such happy, dynamic conditions of existence," Tocqueville wrote.*
 
 ---
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| stereotype | 刻板印象 |  |
+| irritatingly | 令人恼火地 |  |
+| upbeat | 乐观的 |  |
+| midge-infested | 蚊蚋肆虐的 |  |
+| cliché | 陈词滥调 |  |
+| misleading | 误导性的 |  |
+| cheerful | 快乐的 |  |
+| dread | 恐惧 |  |
+| unravelling | 瓦解 |  |
+| semiquincentennial | 二百五十周年 |  |
+| nostalgic | 怀旧的 |  |
+| pessimistic | 悲观的 |  |
+| inventive | 有创造力的 |  |
+| better off | 境况更好 |  |
+| objective measures | 客观指标 |  |
+| life expectancy | 预期寿命 |  |
+| opioid overdoses | 阿片类药物过量 |  |
+| robustly | 强劲地 |  |
+| income inequality | 收入不平等 |  |
+| pre-eminent | 首屈一指的 |  |
+| biomedicine | 生物医学 |  |
+| impulse | 冲动 |  |
+| spectacular | 了不起的 |  |
+| in the company of | 在……陪伴下 |  |
+| aristocrat | 贵族 |  |
+| prescient | 有先见之明的 |  |
+| maximum-security | 最高安全级别的 |  |
+| sheriff | 治安官 |  |
+| snafus | 混乱 |  |
+| texture | 质感 |  |
+| gaze out of | 凝视窗外 |  |
+| draw conclusions | 得出结论 |  |
+| unrealistically | 不切实际地 |  |
+| gloomy | 悲观的 |  |
+| morally bad | 道德败坏的 |  |
+| comes close to | 接近 |  |
+| great-grandson | 曾孙 |  |
+| systematic organisation | 系统化组织 |  |
+| hatreds | 仇恨 |  |
+| ingenuity | 聪明才智 |  |
+| in person | 亲自 |  |
+| purple-haired | 紫发的 |  |
+| distorted | 扭曲的 |  |
+| continent-size | 幅员如大陆的 |  |
+| peripheral | 边陲的 |  |
+| blessed with | 被赐予 |  |
+| dynamic conditions | 充满活力的条件 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nationality | 国籍 |  |
+| ruin | 废墟 |  |
+| widespread | 广泛的 |  |
+| dip | 下滑 |  |
+| pre-eminent | 卓越的 |  |
+| launching | 推出 |  |
+| unplanned | 计划外的 |  |
+| encounters | 邂逅 |  |
+| stretches | 路段 |  |
+| mirror | 镜子 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| picture | 想象 |  |
+| stranger | 陌生人 |  |
+| family | 家庭 |  |
+| past | 过去 |  |
+| economy | 经济 |  |
+| firms | 公司 |  |
+| podcast | 播客 |  |
+

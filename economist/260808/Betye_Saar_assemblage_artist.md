@@ -897,52 +897,6 @@
 
 **整体结构**：时间线（童年→1968→1970s→90年代→90多岁）+ 主题线（收集→控诉→改造→升华）+ 隐喻线（物会说话→船会说话→物恳求新生），三条线拧成一股。
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| clandestine | —（本文未出现，列常用对照） |  |
-| scathingly | adv. 尖刻地、毫不留情地 |  |
-| intersperse | v. 散布、间杂 |  |
-| whirligig | n. 旋转玩具 |  |
-| lynching | n. 私刑处决 |  |
-| christening | n. 受洗仪式（christening robe 受洗袍） |  |
-| Pickaninny | n.（贬）对黑人儿童的蔑称 |  |
-| Tar | baby n.（贬）"柏油娃娃"，种族侮辱用语 |  |
-| palmistry | n. 手相术 |  |
-| tarot | n. 塔罗牌 |  |
-| clamour | n. 喧嚣 |  |
-| hemmed-in | adj. 被围困的、受束缚的 |  |
-| haint | n. 鬼魂（美国南方方言，haunted 变体） |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| recreation | n. 再造、重塑 |  |
-| assemblage | n. 拼贴装置艺术（萨尔作品类型的正式名称） |  |
-| repurpose | v. 改作他用 |  |
-| reinforce | v. 加强 |  |
-| intrigue | v. 引起兴趣 |  |
-| obliterate | v. 涂抹、彻底抹去 |  |
-| inherit | v. 继承 |  |
-| persistence | n. 持续存在 |  |
-| transition | n. 过渡 |  |
-| homage | n. 致敬 |  |
-| symbol | n. 符号 |  |
-| decorate/deck | with 类同义表达 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| object | n. 物品、物件 |  |
-| treasure | n. 珍宝；v. 珍视 |  |
-| browse | v. 浏览、随意逛 |  |
-| chain | n. 链条 |  |
-| rope | n. 绳索 |  |
-| spirit | n. 灵魂、精神 |  |
-| bead | n. 珠子 |  |
-| receive/reinvent | 相关基础词从略 |  |
 
 ## 长难句专项
 

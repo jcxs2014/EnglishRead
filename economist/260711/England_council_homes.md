@@ -772,6 +772,138 @@
 
 ---
 
+## 长难句专项
+
+### 🔍 原句 3（被动 + at the door of 隐喻）
+
+> **原句:** Much of the blame can be laid at the locked door of unaffordable housing.
+
+**① 找主干：** Much of the blame can be laid
+**② 找修饰：** at the locked door of unaffordable housing（介词短语，隐喻"归咎"）
+**③ 找从句：** 无从句
+**④ 恢复逻辑：** 责任可以归到"负担不起的住房之门"上。
+**⑤ 整体理解：** `lay blame at the door of`（归咎于）是习语，作者在中间插入 `locked`（锁着的）形成双重隐喻——既"归咎于住房"，又暗示"住房之门锁着（年轻人进不去）"；被动语态（can be laid）保持客观陈述。
+
+### 🔍 原句 15（far from being + as 从句 + 三谓语）
+
+> **原句:** And far from being "the foundation for everything", as Mr Burnham says, the council-housing system is wasteful, unfair and a barrier to growth.
+
+**① 找主干：** the council-housing system is wasteful, unfair and a barrier
+**② 找修饰：** far from being "the foundation"（否定对比）；as Mr Burnham says（插入引述）
+**③ 找从句：** as Mr Burnham says（方式从句）
+**④ 恢复逻辑：** 远非伯纳姆所说"一切的基础"，公房体系浪费、不公、阻碍增长。
+**⑤ 整体理解：** `far from being X, Y` 是"非但不是 X，反而 Y"的结构；`as Mr Burnham says` 用方式从句转引对方观点再反驳；表语三连（wasteful / unfair / a barrier to growth）排比。
+
+### 🔍 原句 19（crudely calculates + 宾语从句 + add up to）
+
+> **原句:** The Economist crudely calculates that discounted rents to the first group add up to an implicit subsidy of £20bn ($25bn) a year.
+
+**① 找主干：** The Economist crudely calculates that ...
+**② 找修饰：** to the first group（介词短语，discounted rents 的修饰）；of £20bn a year（subsidy 的修饰）
+**③ 找从句：** that discounted rents ... add up to ...（宾语从句）
+**④ 恢复逻辑：** 《经济学人》粗略计算，给第一类的折扣租金累计为每年 200 亿隐性补贴。
+**⑤ 整体理解：** `crudely calculates`（粗略计算）声明方法的不精确；宾语从句主干 `discounted rents add up to an implicit subsidy`；`crudely` 与精确数字（£20bn）的组合体现"严谨的估计"。
+
+### 🔍 原句 30（that 定语从句 + feast/famine 对比）
+
+> **原句:** A system that arbitrarily foists feast on some and famine on others is not just.
+
+**① 找主干：** A system is not just
+**② 找修饰：** that arbitrarily foists feast on some and famine on others（定语从句）
+**③ 找从句：** that ... foists ...（定语从句）
+**④ 恢复逻辑：** 一个随意把盛宴给一些人、饥荒给另一些人的系统不公正。
+**⑤ 整体理解：** 主语被长定语从句隔开（A system that ... is not just），主语-谓语间插入从句；`foists feast on some and famine on others` 用"盛宴/饥荒"对仗，foist ... on（强加）一词勾勒系统的随意性；`is not just`（不公正）作简短有力的判断。
+
+### 🔍 原句 41（as and when 从句 + instead of 动名词）
+
+> **原句:** It would direct spending to people as and when they need it, instead of pinning it to a pile of bricks and mortar.
+
+**① 找主干：** It would direct spending to people
+**② 找修饰：** as and when they need it（时间条件从句）；instead of pinning it to ...（对比动名词）
+**③ 找从句：** as and when they need it（时间从句）
+**④ 恢复逻辑：** 补贴按需流向人民，而不是钉死在房产上。
+**⑤ 整体理解：** `as and when` 是"在……之时/一有需要就"的书面结构（比 when 更精确）；`instead of + 动名词` 作对比；`pinning it to a pile of bricks and mortar` 用"钉"的动词 + "砖石"习语，把"资金跟资产绑定"说得形象。
+
+### 🔍 原句 49（双宾语 + 双定语从句）
+
+> **原句:** To pick up the pace, England needs a nationwide zoning system, in which it is harder to veto development, and looser quotas for "affordable housing" in private projects, which currently make many of them unprofitable.
+
+**① 找主干：** England needs a zoning system and looser quotas
+**② 找修饰：** To pick up the pace（目的）；in which it is harder to veto development（zoning system 的定语）；for "affordable housing" in private projects（quotas 的修饰）；which currently make many of them unprofitable（quotas 的定语）
+**③ 找从句：** in which ...（定语从句）；which ... make ...（定语从句）
+**④ 恢复逻辑：** 要加快，英格兰需要全国分区体系（更难否决开发）和更宽松的可负担房配额（配额目前让项目亏本）。
+**⑤ 整体理解：** 主句带两个宾语（zoning system / quotas），各带定语从句；`in which it is harder to veto` 表目的（在该体系下更难否决）；`which currently make many of them unprofitable` 表后果（配额导致亏本）。
+
+---
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `lay blame at the locked door of` — 归咎于锁着的门（双重隐喻）
+2. `where the good jobs are` — 好工作所在（地点）
+3. `frays the social contract` — 磨损社会契约
+4. `leads some to scapegoat vulnerable groups` — 让人找替罪羊
+5. `adding a floor on top of a crumbling tower block` — 危楼加盖（比喻）
+6. `far from being "the foundation for everything"` — 远非"一切基础"
+7. `of the ... , more than 10% have incomes in the top 40%` — 富人住公房的数据
+8. `foists feast on some and famine on others` — 盛宴与饥荒
+9. `frozen in place` — 被冻住
+10. `blocking young jobseekers from moving in` — 挡年轻人
+11. `"No one has to leave to get on in life"` — 伯纳姆豪言
+12. `Rather than spending vast sums ... should instead raise` — 替代方案
+13. `direct spending to people as and when they need it, instead of pinning it to a pile of bricks and mortar` — 补贴跟人走
+14. `insanely slow and obstructive` — 慢得离谱
+15. `gummed it up again` — 又卡住了
+16. `cuddly-sounding ... in fact toxic` — 糖衣毒药
+17. `chokes off housebuilding, even on wasteland` — 连荒地都掐死
+18. `sounds harsh, but would act like a tonic` — 苦口良药
+
+### 2. 重要语法
+
+- **双重隐喻**：`lay blame at the locked door of`
+- **far from + 动名词**：`far from being "the foundation for everything"`
+- **插入引述再反驳**：`as Mr Burnham says`
+- **主语-谓语分隔**：`A system that ... is not just`
+- **feast/famine 对仗**：`foists feast on some and famine on others`
+- **as and when 从句**：`direct spending to people as and when they need it`
+- **双宾语 + 双定语从句**：`needs a zoning system, in which ... , and looser quotas ... , which ...`
+- **分号并列**：`Social housing is one example; another is ...`
+- **短句重音**：`Some are rich.` / `That's a pity.`
+- **被动语态陈述**：`was recently found to have` / `has been failed by`
+- **not ... merely ... 澄清**：`not to evict tenants, merely to charge them`
+
+### 3. 写作技巧
+
+1. **观点逆流**："England needs fewer council homes, not more"——直接与"建更多公房"的政治正确唱反调，用 `not more` 的句式制造张力；标题就是结论
+2. **数据先行的反驳**：不空喊"不该建"，而是先给 16% 占比（G7 最高）、伦敦区 40%、富人占 10%+、60% 公房成年人无业、塞拉利昂总统夫人案例——用一组数据+一个极端案例推翻"太少"的直觉
+3. **"先立靶子再打"**：前两段全力呈现伯纳姆计划的合理性（72% 支持、130 万排队）→ 第三段 `Yet` 一转折用"危楼加盖"比喻推翻——先承认政策受欢迎，再指出"受欢迎≠正确"
+4. **正反政策的对照结构**：`cuddly-sounding ... in fact toxic`（温馨实则有毒）vs `sounds harsh, but would act like a tonic`（刺耳却如补药）——用两组反义形容词构成"糖衣毒药 vs 苦口良药"的收尾对仗，一锤定音
+5. **用极端个案制造冲击**："住宫殿的塞拉利昂总统夫人占着伦敦公房"——用一个荒谬至极的例子让"错配"概念瞬间具体
+6. **比喻系统贯穿**：危楼加盖（建筑）、磨损社会契约（织物）、被冻住（冰）、卡住（胶）、掐死（咽喉）、补药（医疗）——全文用多样而一致的意象让政策讨论生动
+7. **稳妥性修饰**：`phased in gradually` / `give people time to adjust` ——激进主张配合安抚性修饰，减少读者抵触
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `lay blame at the door of` | 归因分析 | Blame lies at the door of poor planning. |
+| `frays the social contract` | 社会分析 | The policy frayed the social contract. |
+| `scapegoat`（动词化） | 批评 | Don't scapegoat the vulnerable. |
+| `far from being` | 反转论证 | Far from being free, it costs more. |
+| `a barrier to growth` | 阻碍分析 | Red tape is a barrier to growth. |
+| `deemed` | 认定 | Deemed essential to the plan. |
+| `means-tested` | 政策设计 | Means-tested support targets need. |
+| `regardless of` | 强调不受影响 | Regardless of income, all qualify. |
+| `foist ... on` | 批评强加 | Don't foist costs on the poor. |
+| `block ... from` | 阻碍 | Rents block the young from cities. |
+| `as and when needed` | 按需供应 | Provide support as and when needed. |
+| `pin ... to` | 绑定 | Don't pin funding to a single asset. |
+| `phase in` | 分阶段推进 | The policy will be phased in. |
+| `free up` | 释放资源 | Reform would free up billions. |
+| `pick up the pace` | 加速 | We need to pick up the pace. |
+| `choke off` | 扼杀 | Rules choke off supply. |
+| `sounds harsh, but ...` | 逆耳建议 | It sounds harsh, but it works. |
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
@@ -881,144 +1013,3 @@
 | G7 | 七国集团 |  |
 | tower block | 高层住宅楼 |  |
 
-## 长难句专项
-
-### 🔍 原句 3（被动 + at the door of 隐喻）
-
-> **原句:** Much of the blame can be laid at the locked door of unaffordable housing.
-
-**① 找主干：** Much of the blame can be laid
-**② 找修饰：** at the locked door of unaffordable housing（介词短语，隐喻"归咎"）
-**③ 找从句：** 无从句
-**④ 恢复逻辑：** 责任可以归到"负担不起的住房之门"上。
-**⑤ 整体理解：** `lay blame at the door of`（归咎于）是习语，作者在中间插入 `locked`（锁着的）形成双重隐喻——既"归咎于住房"，又暗示"住房之门锁着（年轻人进不去）"；被动语态（can be laid）保持客观陈述。
-
-### 🔍 原句 15（far from being + as 从句 + 三谓语）
-
-> **原句:** And far from being "the foundation for everything", as Mr Burnham says, the council-housing system is wasteful, unfair and a barrier to growth.
-
-**① 找主干：** the council-housing system is wasteful, unfair and a barrier
-**② 找修饰：** far from being "the foundation"（否定对比）；as Mr Burnham says（插入引述）
-**③ 找从句：** as Mr Burnham says（方式从句）
-**④ 恢复逻辑：** 远非伯纳姆所说"一切的基础"，公房体系浪费、不公、阻碍增长。
-**⑤ 整体理解：** `far from being X, Y` 是"非但不是 X，反而 Y"的结构；`as Mr Burnham says` 用方式从句转引对方观点再反驳；表语三连（wasteful / unfair / a barrier to growth）排比。
-
-### 🔍 原句 19（crudely calculates + 宾语从句 + add up to）
-
-> **原句:** The Economist crudely calculates that discounted rents to the first group add up to an implicit subsidy of £20bn ($25bn) a year.
-
-**① 找主干：** The Economist crudely calculates that ...
-**② 找修饰：** to the first group（介词短语，discounted rents 的修饰）；of £20bn a year（subsidy 的修饰）
-**③ 找从句：** that discounted rents ... add up to ...（宾语从句）
-**④ 恢复逻辑：** 《经济学人》粗略计算，给第一类的折扣租金累计为每年 200 亿隐性补贴。
-**⑤ 整体理解：** `crudely calculates`（粗略计算）声明方法的不精确；宾语从句主干 `discounted rents add up to an implicit subsidy`；`crudely` 与精确数字（£20bn）的组合体现"严谨的估计"。
-
-### 🔍 原句 30（that 定语从句 + feast/famine 对比）
-
-> **原句:** A system that arbitrarily foists feast on some and famine on others is not just.
-
-**① 找主干：** A system is not just
-**② 找修饰：** that arbitrarily foists feast on some and famine on others（定语从句）
-**③ 找从句：** that ... foists ...（定语从句）
-**④ 恢复逻辑：** 一个随意把盛宴给一些人、饥荒给另一些人的系统不公正。
-**⑤ 整体理解：** 主语被长定语从句隔开（A system that ... is not just），主语-谓语间插入从句；`foists feast on some and famine on others` 用"盛宴/饥荒"对仗，foist ... on（强加）一词勾勒系统的随意性；`is not just`（不公正）作简短有力的判断。
-
-### 🔍 原句 41（as and when 从句 + instead of 动名词）
-
-> **原句:** It would direct spending to people as and when they need it, instead of pinning it to a pile of bricks and mortar.
-
-**① 找主干：** It would direct spending to people
-**② 找修饰：** as and when they need it（时间条件从句）；instead of pinning it to ...（对比动名词）
-**③ 找从句：** as and when they need it（时间从句）
-**④ 恢复逻辑：** 补贴按需流向人民，而不是钉死在房产上。
-**⑤ 整体理解：** `as and when` 是"在……之时/一有需要就"的书面结构（比 when 更精确）；`instead of + 动名词` 作对比；`pinning it to a pile of bricks and mortar` 用"钉"的动词 + "砖石"习语，把"资金跟资产绑定"说得形象。
-
-### 🔍 原句 49（双宾语 + 双定语从句）
-
-> **原句:** To pick up the pace, England needs a nationwide zoning system, in which it is harder to veto development, and looser quotas for "affordable housing" in private projects, which currently make many of them unprofitable.
-
-**① 找主干：** England needs a zoning system and looser quotas
-**② 找修饰：** To pick up the pace（目的）；in which it is harder to veto development（zoning system 的定语）；for "affordable housing" in private projects（quotas 的修饰）；which currently make many of them unprofitable（quotas 的定语）
-**③ 找从句：** in which ...（定语从句）；which ... make ...（定语从句）
-**④ 恢复逻辑：** 要加快，英格兰需要全国分区体系（更难否决开发）和更宽松的可负担房配额（配额目前让项目亏本）。
-**⑤ 整体理解：** 主句带两个宾语（zoning system / quotas），各带定语从句；`in which it is harder to veto` 表目的（在该体系下更难否决）；`which currently make many of them unprofitable` 表后果（配额导致亏本）。
-
----
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `lay blame at the locked door of` — 归咎于锁着的门（双重隐喻）
-2. `where the good jobs are` — 好工作所在（地点）
-3. `frays the social contract` — 磨损社会契约
-4. `leads some to scapegoat vulnerable groups` — 让人找替罪羊
-5. `adding a floor on top of a crumbling tower block` — 危楼加盖（比喻）
-6. `far from being "the foundation for everything"` — 远非"一切基础"
-7. `of the ... , more than 10% have incomes in the top 40%` — 富人住公房的数据
-8. `foists feast on some and famine on others` — 盛宴与饥荒
-9. `frozen in place` — 被冻住
-10. `blocking young jobseekers from moving in` — 挡年轻人
-11. `"No one has to leave to get on in life"` — 伯纳姆豪言
-12. `Rather than spending vast sums ... should instead raise` — 替代方案
-13. `direct spending to people as and when they need it, instead of pinning it to a pile of bricks and mortar` — 补贴跟人走
-14. `insanely slow and obstructive` — 慢得离谱
-15. `gummed it up again` — 又卡住了
-16. `cuddly-sounding ... in fact toxic` — 糖衣毒药
-17. `chokes off housebuilding, even on wasteland` — 连荒地都掐死
-18. `sounds harsh, but would act like a tonic` — 苦口良药
-
-### 2. 重要语法
-
-- **双重隐喻**：`lay blame at the locked door of`
-- **far from + 动名词**：`far from being "the foundation for everything"`
-- **插入引述再反驳**：`as Mr Burnham says`
-- **主语-谓语分隔**：`A system that ... is not just`
-- **feast/famine 对仗**：`foists feast on some and famine on others`
-- **as and when 从句**：`direct spending to people as and when they need it`
-- **双宾语 + 双定语从句**：`needs a zoning system, in which ... , and looser quotas ... , which ...`
-- **分号并列**：`Social housing is one example; another is ...`
-- **短句重音**：`Some are rich.` / `That's a pity.`
-- **被动语态陈述**：`was recently found to have` / `has been failed by`
-- **not ... merely ... 澄清**：`not to evict tenants, merely to charge them`
-
-### 3. 长难句
-
-- 原句 3（被动 + at the door of 隐喻）
-- 原句 15（far from being + as 从句 + 三谓语）
-- 原句 19（crudely calculates + 宾语从句 + add up to）
-- 原句 30（that 定语从句 + feast/famine 对比）
-- 原句 41（as and when 从句 + instead of 动名词）
-- 原句 49（双宾语 + 双定语从句）
-
-### 4. 写作技巧
-
-1. **观点逆流**："England needs fewer council homes, not more"——直接与"建更多公房"的政治正确唱反调，用 `not more` 的句式制造张力；标题就是结论
-2. **数据先行的反驳**：不空喊"不该建"，而是先给 16% 占比（G7 最高）、伦敦区 40%、富人占 10%+、60% 公房成年人无业、塞拉利昂总统夫人案例——用一组数据+一个极端案例推翻"太少"的直觉
-3. **"先立靶子再打"**：前两段全力呈现伯纳姆计划的合理性（72% 支持、130 万排队）→ 第三段 `Yet` 一转折用"危楼加盖"比喻推翻——先承认政策受欢迎，再指出"受欢迎≠正确"
-4. **正反政策的对照结构**：`cuddly-sounding ... in fact toxic`（温馨实则有毒）vs `sounds harsh, but would act like a tonic`（刺耳却如补药）——用两组反义形容词构成"糖衣毒药 vs 苦口良药"的收尾对仗，一锤定音
-5. **用极端个案制造冲击**："住宫殿的塞拉利昂总统夫人占着伦敦公房"——用一个荒谬至极的例子让"错配"概念瞬间具体
-6. **比喻系统贯穿**：危楼加盖（建筑）、磨损社会契约（织物）、被冻住（冰）、卡住（胶）、掐死（咽喉）、补药（医疗）——全文用多样而一致的意象让政策讨论生动
-7. **稳妥性修饰**：`phased in gradually` / `give people time to adjust` ——激进主张配合安抚性修饰，减少读者抵触
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `lay blame at the door of` | 归因分析 | Blame lies at the door of poor planning. |
-| `frays the social contract` | 社会分析 | The policy frayed the social contract. |
-| `scapegoat`（动词化） | 批评 | Don't scapegoat the vulnerable. |
-| `far from being` | 反转论证 | Far from being free, it costs more. |
-| `a barrier to growth` | 阻碍分析 | Red tape is a barrier to growth. |
-| `deemed` | 认定 | Deemed essential to the plan. |
-| `means-tested` | 政策设计 | Means-tested support targets need. |
-| `regardless of` | 强调不受影响 | Regardless of income, all qualify. |
-| `foist ... on` | 批评强加 | Don't foist costs on the poor. |
-| `block ... from` | 阻碍 | Rents block the young from cities. |
-| `as and when needed` | 按需供应 | Provide support as and when needed. |
-| `pin ... to` | 绑定 | Don't pin funding to a single asset. |
-| `phase in` | 分阶段推进 | The policy will be phased in. |
-| `free up` | 释放资源 | Reform would free up billions. |
-| `pick up the pace` | 加速 | We need to pick up the pace. |
-| `choke off` | 扼杀 | Rules choke off supply. |
-| `sounds harsh, but ...` | 逆耳建议 | It sounds harsh, but it works. |

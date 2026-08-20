@@ -917,116 +917,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| futile | 徒劳的 | The protest proved futile. |
-| paying the price | 付出代价 | The public pays the price for war. |
-| break the deadlock | 打破僵局 | Talks to break the deadlock. |
-| it pays to do | 值得做 | It pays to be prepared. |
-| stunning | 令人震惊的 | A stunning victory. |
-| insider | 圈内人 | He was an insider in the regime. |
-| high-minded | 道德高尚的 | High-minded but impractical. |
-| lived by | 遵循……生活 | He lives by a strict code. |
-| keep your nose out of | 别插手 | Keep your nose out of my affairs. |
-| tycoons | 大亨 | Media tycoons. |
-| afford to ignore | 承受得起无视 | We can't afford to ignore it. |
-| descend into | 滑入 | The country descended into civil war. |
-| tyranny | 专制 | Rule by tyranny. |
-| guardedly | 谨慎地 | He answered guardedly. |
-| speak out | 公开发声 | She spoke out against the law. |
-| resonate | 产生共鸣 | The message resonated widely. |
-| bleak | 黯淡的 | Bleak prospects. |
-| autarky | 闭关自守 | Self-sufficient autarky. |
-| sullen | 阴沉的 | A sullen crowd. |
-| amount to | 等于 | His demands amount to a veto. |
-| one-man rule | 一人统治 | A system of one-man rule. |
-| witness | 见证 | The city is witnessing growth. |
-| resentment | 怨恨 | The policy bred resentment. |
-| go viral | 疯传 | The clip went viral. |
-| belie | 与……矛盾 | His calm belies his anxiety. |
-| at hand | 即将到来 | Victory is at hand. |
-| dead end | 死胡同 | The talks hit a dead end. |
-| reassert authority | 重申权威 | Reasserted his authority. |
-| exacerbate | 加剧 | The move exacerbated the crisis. |
-| discount | 不采信 | Analysts discount the threat. |
-| gloomy | 阴郁的 | A gloomy forecast. |
-| scenarios | 情景 | Worst-case scenarios. |
-| collapse into anarchy | 陷入无政府 | The state collapsed into anarchy. |
-| warlords | 军阀 | Warlords fought for control. |
-| humiliated | 受辱 | The army was humiliated. |
-| under the thumb of | 在……掌控下 | Under the thumb of a tyrant. |
-| buffer against | 缓冲 | A buffer against invasion. |
-| war of attrition | 消耗战 | The war became one of attrition. |
-| impoverished | 穷困的 | Impoverished communities. |
-| incubating | 孵化、孕育 | Incubating resentment. |
-| starved of | 缺乏 | Starved of resources. |
-| the bowels of | ……的深处 | The bowels of the Kremlin. |
-| permanent war | 持久战争 | A permanent war economy. |
-| enigmatic | 讳莫如深 | He remained enigmatic. |
-| self-serving | 利己的 | A self-serving explanation. |
-| resist the temptation | 抵制诱惑 | Resist the temptation to quit. |
-| calls on ... to grant | 呼吁给予 | Called on them to grant asylum. |
-| non-interference | 不干涉 | Demanded non-interference. |
-| elusive | 难以捉摸的 | The answer remained elusive. |
-| resorting to | 诉诸 | Resorted to force. |
-| coercion | 强制 | Persuasion, not coercion. |
-| relinquish | 放弃 | Refused to relinquish control. |
-| devolve power | 下放权力 | Devolved power to regions. |
-| securocrats | 安全官僚 | The securocrats dominate. |
-| top dogs | 头号人物 | The top dogs in government. |
-| banished | 驱逐 | Banished from politics. |
-| in a bind | 两难 | We're in a bind. |
-| grinding on | 痛苦地持续 | The conflict grinds on. |
-| precedent | 先例 | A dangerous precedent. |
-| doomed ... to | 注定 | Doomed to repeat history. |
-| uprising | 起义 | The uprising was crushed. |
-| toppled | 被推翻 | The ruler was toppled. |
-| reforms that last | 持久的改革 | We need reforms that last. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| futile | 徒劳的 |  |
-| the war economy | 战争经济 |  |
-| oligarchs | 寡头 |  |
-| descend into | 滑入 |  |
-| issued a warning | 发出警告 |  |
-| champion of | ……的捍卫者 |  |
-| pragmatist | 实用主义者 |  |
-| outlook | 前景 |  |
-| annexation | 吞并 |  |
-| drone strikes | 无人机袭击 |  |
-| forced military enlistment | 强制征兵 |  |
-| reassert | 重申 |  |
-| escalate | 升级 |  |
-| tactical nuclear weapon | 战术核武器 |  |
-| terrorise | 恐吓 |  |
-| mobilisation | 动员 |  |
-| thesis | 论点 |  |
-| annexation | 吞并 |  |
-| raw materials | 原材料 |  |
-| periphery | 边缘 |  |
-| dependant | 依附者 |  |
-| nationalism | 民族主义 |  |
-| fortress | 要塞 |  |
-| technocrats | 技术官僚 |  |
-| dictatorial | 专制的 |  |
-| civil liberties | 公民自由 |  |
-| legislative assembly | 立法议会 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| fertiliser king | 化肥大王 |  |
-| anti-Putin opposition | 反普京反对派 |  |
-| Melnichenko | 梅尔尼琴科 |  |
-| securocrats | 安全官僚 |  |
-| October Manifesto | 十月宣言 |  |
-| Nicholas II | 尼古拉二世 |  |
-
 ## 长难句专项
 
 ### 🔍 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
@@ -1142,17 +1032,7 @@
 - **插入语保持转述距离**：`he says` / `they said` / `he predicts`
 - **过去完成时表先时**：`had crushed the reforms`
 
-### 3. 长难句
-
-- 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
-- 原句 10（because 原因链 + 多层定语从句）
-- 原句 19（What 主语从句 + that 表语从句）
-- 原句 25（Although 让步 + 双 not about to + 主句）
-- 原句 30（倒装 + that 表语从句 + if 条件嵌套）
-- 原句 45（call on + 破折号同位语 + 定语从句）
-- 原句 58-60（历史三段式）
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **"最不可能的声音"叙事结构**：全篇反复强调梅尔尼琴科"不是反对派、反而支持战争经济、也不是道德标榜"——三重排除把"内部人发声"的分量推到极致，这是典型的"身份反转"叙事
 2. **先揭私心再转述**：`Self-servingly, he urges Western countries to ...` —— 作者先点破他的利己动机再引其话，这种"先揭短"让整篇转述更可信、更中立
@@ -1189,3 +1069,113 @@
 | `relinquish control` | 权力交接 | He refused to relinquish control. |
 | `in a bind` | 困境描述 | The company is in a bind. |
 | `reforms that last` | 变革建议 | We need reforms that last. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 | The protest proved futile. |
+| paying the price | 付出代价 | The public pays the price for war. |
+| break the deadlock | 打破僵局 | Talks to break the deadlock. |
+| it pays to do | 值得做 | It pays to be prepared. |
+| stunning | 令人震惊的 | A stunning victory. |
+| insider | 圈内人 | He was an insider in the regime. |
+| high-minded | 道德高尚的 | High-minded but impractical. |
+| lived by | 遵循……生活 | He lives by a strict code. |
+| keep your nose out of | 别插手 | Keep your nose out of my affairs. |
+| tycoons | 大亨 | Media tycoons. |
+| afford to ignore | 承受得起无视 | We can't afford to ignore it. |
+| descend into | 滑入 | The country descended into civil war. |
+| tyranny | 专制 | Rule by tyranny. |
+| guardedly | 谨慎地 | He answered guardedly. |
+| speak out | 公开发声 | She spoke out against the law. |
+| resonate | 产生共鸣 | The message resonated widely. |
+| bleak | 黯淡的 | Bleak prospects. |
+| autarky | 闭关自守 | Self-sufficient autarky. |
+| sullen | 阴沉的 | A sullen crowd. |
+| amount to | 等于 | His demands amount to a veto. |
+| one-man rule | 一人统治 | A system of one-man rule. |
+| witness | 见证 | The city is witnessing growth. |
+| resentment | 怨恨 | The policy bred resentment. |
+| go viral | 疯传 | The clip went viral. |
+| belie | 与……矛盾 | His calm belies his anxiety. |
+| at hand | 即将到来 | Victory is at hand. |
+| dead end | 死胡同 | The talks hit a dead end. |
+| reassert authority | 重申权威 | Reasserted his authority. |
+| exacerbate | 加剧 | The move exacerbated the crisis. |
+| discount | 不采信 | Analysts discount the threat. |
+| gloomy | 阴郁的 | A gloomy forecast. |
+| scenarios | 情景 | Worst-case scenarios. |
+| collapse into anarchy | 陷入无政府 | The state collapsed into anarchy. |
+| warlords | 军阀 | Warlords fought for control. |
+| humiliated | 受辱 | The army was humiliated. |
+| under the thumb of | 在……掌控下 | Under the thumb of a tyrant. |
+| buffer against | 缓冲 | A buffer against invasion. |
+| war of attrition | 消耗战 | The war became one of attrition. |
+| impoverished | 穷困的 | Impoverished communities. |
+| incubating | 孵化、孕育 | Incubating resentment. |
+| starved of | 缺乏 | Starved of resources. |
+| the bowels of | ……的深处 | The bowels of the Kremlin. |
+| permanent war | 持久战争 | A permanent war economy. |
+| enigmatic | 讳莫如深 | He remained enigmatic. |
+| self-serving | 利己的 | A self-serving explanation. |
+| resist the temptation | 抵制诱惑 | Resist the temptation to quit. |
+| calls on ... to grant | 呼吁给予 | Called on them to grant asylum. |
+| non-interference | 不干涉 | Demanded non-interference. |
+| elusive | 难以捉摸的 | The answer remained elusive. |
+| resorting to | 诉诸 | Resorted to force. |
+| coercion | 强制 | Persuasion, not coercion. |
+| relinquish | 放弃 | Refused to relinquish control. |
+| devolve power | 下放权力 | Devolved power to regions. |
+| securocrats | 安全官僚 | The securocrats dominate. |
+| top dogs | 头号人物 | The top dogs in government. |
+| banished | 驱逐 | Banished from politics. |
+| in a bind | 两难 | We're in a bind. |
+| grinding on | 痛苦地持续 | The conflict grinds on. |
+| precedent | 先例 | A dangerous precedent. |
+| doomed ... to | 注定 | Doomed to repeat history. |
+| uprising | 起义 | The uprising was crushed. |
+| toppled | 被推翻 | The ruler was toppled. |
+| reforms that last | 持久的改革 | We need reforms that last. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 |  |
+| the war economy | 战争经济 |  |
+| oligarchs | 寡头 |  |
+| descend into | 滑入 |  |
+| issued a warning | 发出警告 |  |
+| champion of | ……的捍卫者 |  |
+| pragmatist | 实用主义者 |  |
+| outlook | 前景 |  |
+| annexation | 吞并 |  |
+| drone strikes | 无人机袭击 |  |
+| forced military enlistment | 强制征兵 |  |
+| reassert | 重申 |  |
+| escalate | 升级 |  |
+| tactical nuclear weapon | 战术核武器 |  |
+| terrorise | 恐吓 |  |
+| mobilisation | 动员 |  |
+| thesis | 论点 |  |
+| annexation | 吞并 |  |
+| raw materials | 原材料 |  |
+| periphery | 边缘 |  |
+| dependant | 依附者 |  |
+| nationalism | 民族主义 |  |
+| fortress | 要塞 |  |
+| technocrats | 技术官僚 |  |
+| dictatorial | 专制的 |  |
+| civil liberties | 公民自由 |  |
+| legislative assembly | 立法议会 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fertiliser king | 化肥大王 |  |
+| anti-Putin opposition | 反普京反对派 |  |
+| Melnichenko | 梅尔尼琴科 |  |
+| securocrats | 安全官僚 |  |
+| October Manifesto | 十月宣言 |  |
+| Nicholas II | 尼古拉二世 |  |
+

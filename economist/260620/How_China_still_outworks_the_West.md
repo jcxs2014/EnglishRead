@@ -380,60 +380,6 @@
 
 **段落逻辑：** 设问（勤奋能否熬过成功）→ 影响全球（依赖中国劳动）→ 假设（若停止卷世界换方式）→ 结论（时代或终，遗产犹存）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| n. | 职业道德、勤奋观 | 原句 1 |
-| v. | 感叹说 | 原句 2 |
-| adj. | 不停歇的 | 原句 4 |
-| n. | 忙碌、拼搏 | 原句 4 |
-| 短语 | 平均达到 | 原句 6 |
-| n. | 同行、对应者 | 原句 6 |
-| v. | 持续存在 | 原句 7 |
-| adj. | 老龄化的 | 原句 8 |
-| n. | 萎缩的劳动力 | 原句 8 |
-| 短语 | 对……的执着 | 原句 9 |
-| n. | 勤勉 | 原句 10 |
-| n. | 劳动模范 | 原句 14 |
-| n. | 爱国美德 | 原句 14 |
-| n. | 内卷 | 原句 15 |
-| n. | 收益 | 原句 15 |
-| n. | 陷阱 | 原句 16 |
-| 短语 | 与……有关 | 原句 18 |
-| 短语 | 促成 | 原句 19 |
-| 短语 | 累得无法 | 原句 20 |
-| v. | 存续 | 原句 21 |
-| 短语 | 依赖 | 原句 22 |
-| v. | 比……更努力 | 原句 23 |
-| adv. | 一夜之间 | 原句 24 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| famous | for their work ethic — 以勤奋闻名 |  |
-| running | at double speed — 以双倍速度运转 |  |
-| relentless | hustle — 不停歇的忙碌 |  |
-| clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |  |
-| a | quarter more than their American counterparts — 比美国同行多四分之一 |  |
-| the | 996 work schedule — 996 工作制 |  |
-| promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |  |
-| talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |  |
-| work | ever harder for ever smaller gains — 越努力收益越小 |  |
-| leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |  |
-| contribute | to the falling birth rate — 促成出生率下降 |  |
-| the | age of hustle may be ending — 拼命时代或终结 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| escalators | — 自动扶梯 |  |
-| takeaways | — 外卖 |  |
-| traffic | lights — 红绿灯 |  |
-| overwork | — 过劳 |  |
-| demographers | — 人口学家 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 1）
@@ -538,4 +484,57 @@
 - "work ever harder for ever smaller gains" — 用于"内卷"现象。
 - "the phenomenon known as involution" — 用于"给现象命名"。
 - "will survive its own success" — 用于"成功反噬"悖论。
-- "not just for China but for the global economy" — 用于"影响外溢"。
+- "not just for China but for the global economy" — 用于"影响外溢"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 职业道德、勤奋观 | 原句 1 |
+| v. | 感叹说 | 原句 2 |
+| adj. | 不停歇的 | 原句 4 |
+| n. | 忙碌、拼搏 | 原句 4 |
+| 短语 | 平均达到 | 原句 6 |
+| n. | 同行、对应者 | 原句 6 |
+| v. | 持续存在 | 原句 7 |
+| adj. | 老龄化的 | 原句 8 |
+| n. | 萎缩的劳动力 | 原句 8 |
+| 短语 | 对……的执着 | 原句 9 |
+| n. | 勤勉 | 原句 10 |
+| n. | 劳动模范 | 原句 14 |
+| n. | 爱国美德 | 原句 14 |
+| n. | 内卷 | 原句 15 |
+| n. | 收益 | 原句 15 |
+| n. | 陷阱 | 原句 16 |
+| 短语 | 与……有关 | 原句 18 |
+| 短语 | 促成 | 原句 19 |
+| 短语 | 累得无法 | 原句 20 |
+| v. | 存续 | 原句 21 |
+| 短语 | 依赖 | 原句 22 |
+| v. | 比……更努力 | 原句 23 |
+| adv. | 一夜之间 | 原句 24 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| famous | for their work ethic — 以勤奋闻名 |  |
+| running | at double speed — 以双倍速度运转 |  |
+| relentless | hustle — 不停歇的忙碌 |  |
+| clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |  |
+| a | quarter more than their American counterparts — 比美国同行多四分之一 |  |
+| the | 996 work schedule — 996 工作制 |  |
+| promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |  |
+| talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |  |
+| work | ever harder for ever smaller gains — 越努力收益越小 |  |
+| leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |  |
+| contribute | to the falling birth rate — 促成出生率下降 |  |
+| the | age of hustle may be ending — 拼命时代或终结 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalators | — 自动扶梯 |  |
+| takeaways | — 外卖 |  |
+| traffic | lights — 红绿灯 |  |
+| overwork | — 过劳 |  |
+| demographers | — 人口学家 |  |
+

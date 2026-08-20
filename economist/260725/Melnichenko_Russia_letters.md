@@ -197,31 +197,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ill-fated | 注定失败的 | The ill-fated invasion ended in disaster. |
-| en masse | 全体地/大批地 | Protesters were detained en masse. |
-| crying wolf | 喊狼来了（虚报警告） | They are crying wolf about sovereignty. |
-| conveniently never mentioned | 恰好地从不提及 | He conveniently omitted the war dead. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| in his telling | 按照他的说法 | In his telling, Russia is the victim. |
-| oscillated between | 在……之间摇摆 | Russia oscillated between pride and grievance. |
-| in its own right | 凭自身实力 | It is a power in its own right. |
-| dispel this sense of humiliation | 消除屈辱感 | No concession can dispel the humiliation. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| a spiral of feelings of inferiority | 自卑螺旋 | They are caught in an old spiral of inferiority. |
-| the opposite is true | 情况恰恰相反 | In the UK the opposite is true. |
-| not synonymous with | 不等于/并非同义 | Exertion is not synonymous with training. |
-| creeping | 悄然蔓延的 | Beware creeping condiment soft power. |
 
 ## 核心表达（可直接迁移）
 

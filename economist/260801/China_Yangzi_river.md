@@ -320,29 +320,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| eco-authoritarian | 生态威权主义 | China's eco-authoritarian model has limits. |
-| spongified | 使成海绵化（城市） | Many cities have been spongified to absorb rainfall. |
-| paints a different picture | 呈现不同画面/实情 | A visit to the village paints a different picture. |
-| got a pass | 得到通行豁免/免于问责 | The industry has got a pass on emissions rules. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| done as much damage as | 破坏程度与……相当 | Dams have done as much damage as overfishing. |
-| cold comfort | 冰冷的安慰 | The official statement offered cold comfort. |
-| testimony to | 见证/证明 | The recovery is testimony to state capacity. |
-| indicator species | 指示物种 | Finless porpoises are indicator species. |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| binding the soil | 固土 | Trees help bind the soil. |
-| go sour | 变坏/亏损 | Fish farming can go sour if demand falls. |
 
 ## 核心表达（可直接迁移）
 

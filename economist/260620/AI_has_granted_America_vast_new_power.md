@@ -910,61 +910,6 @@
 
 **段落逻辑（Token gestures）：** 欧洲建议（能源/规划/规则）→ 东亚建议（整合而非重复）→ 避免政府引导投资 → 总目标（非保护主义，让 AI 生态不只美国一家）→ 收束（不抱怨同盟，要积蓄实力）。全文完成。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| adj. | 耻辱的、不光彩的 | 原句 1 伊朗协议 |
-| v. | 体现、例证 | 原句 1 |
-| adj./n. | 前沿的/前沿 | 原句 3 前沿 AI |
-| v. | 绕过、规避 | 原句 6 越狱 |
-| n. | 生物武器 | 原句 6 |
-| adj. | 被夸大的 | 原句 8 |
-| v. | 践踏、欺凌 | 原句 11-12 |
-| v. | 运用、挥舞 | 原句 13 |
-| adj. | 被……俘获、依附于 | 原句 15 |
-| n. | 密码学 | 原句 18 |
-| v. | 扩散、增殖 | 原句 28 |
-| n. | 漏洞 | 原句 29 |
-| v. | 被攻破 | 原句 29 |
-| adj. | 自毁的 | 原句 32 |
-| v. | 避开 | 原句 44 |
-| n. | 附庸、封臣 | 原句 47 |
-| n. | 大量、大片 | 原句 47 |
-| n. | 议价地位 | 原句 49 |
-| 短语 | 利害攸关 | 原句 50 |
-| adj. | 交易化的 | 原句 57 |
-| v. | 抱怨 | 原句 57 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| could hardly be more wrong — 再错不过了 | 否定式最高级 |  |
-| The | chances are that ... — 很可能…… |  |
-| a | means to an end — 达到目的的手段 |  |
-| Sure | enough — 果然 |  |
-| What | matters, though, is ... — 不过重要的是…… |  |
-| come | down to — 归结为 |  |
-| Even | as ... — 正当……的时候 |  |
-| has | echoes of — 与……呼应 |  |
-| as | with ... — 正如…… |  |
-| in | favour of — 转而选择 |  |
-| rise | fivefold — 增长五倍 |  |
-| more | than ever — 比以往任何时候更 |  |
-| integrate | rather than duplicate — 整合而非重复 |  |
-| not | to whine but to build — 不是抱怨而是强大 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| Unbiassed | / unprejudiced — 无偏见的 |  |
-| pandemic-ready | pathogens — 具备大流行潜力的病原体 |  |
-| open-weight | models — 开放权重模型 |  |
-| lithography | machines — 光刻机 |  |
-| fabs | — 晶圆厂 |  |
-| peak | power demand — 峰值电力需求 |  |
-
 ## 二、长难句专项
 
 ### 长难句 1（原句 15）
@@ -1070,4 +1015,58 @@
 - "come down to a decision in the Oval Office" — 一切归结于某个关键决定（可替换机构）。
 - "has echoes of" — 与历史呼应。
 - "the trade-off between A and B" — 权衡句型。
-- "not to whine about X but to build strength" — 建设性建议收尾。
+- "not to whine about X but to build strength" — 建设性建议收尾。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 耻辱的、不光彩的 | 原句 1 伊朗协议 |
+| v. | 体现、例证 | 原句 1 |
+| adj./n. | 前沿的/前沿 | 原句 3 前沿 AI |
+| v. | 绕过、规避 | 原句 6 越狱 |
+| n. | 生物武器 | 原句 6 |
+| adj. | 被夸大的 | 原句 8 |
+| v. | 践踏、欺凌 | 原句 11-12 |
+| v. | 运用、挥舞 | 原句 13 |
+| adj. | 被……俘获、依附于 | 原句 15 |
+| n. | 密码学 | 原句 18 |
+| v. | 扩散、增殖 | 原句 28 |
+| n. | 漏洞 | 原句 29 |
+| v. | 被攻破 | 原句 29 |
+| adj. | 自毁的 | 原句 32 |
+| v. | 避开 | 原句 44 |
+| n. | 附庸、封臣 | 原句 47 |
+| n. | 大量、大片 | 原句 47 |
+| n. | 议价地位 | 原句 49 |
+| 短语 | 利害攸关 | 原句 50 |
+| adj. | 交易化的 | 原句 57 |
+| v. | 抱怨 | 原句 57 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| could hardly be more wrong — 再错不过了 | 否定式最高级 |  |
+| The | chances are that ... — 很可能…… |  |
+| a | means to an end — 达到目的的手段 |  |
+| Sure | enough — 果然 |  |
+| What | matters, though, is ... — 不过重要的是…… |  |
+| come | down to — 归结为 |  |
+| Even | as ... — 正当……的时候 |  |
+| has | echoes of — 与……呼应 |  |
+| as | with ... — 正如…… |  |
+| in | favour of — 转而选择 |  |
+| rise | fivefold — 增长五倍 |  |
+| more | than ever — 比以往任何时候更 |  |
+| integrate | rather than duplicate — 整合而非重复 |  |
+| not | to whine but to build — 不是抱怨而是强大 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Unbiassed | / unprejudiced — 无偏见的 |  |
+| pandemic-ready | pathogens — 具备大流行潜力的病原体 |  |
+| open-weight | models — 开放权重模型 |  |
+| lithography | machines — 光刻机 |  |
+| fabs | — 晶圆厂 |  |
+| peak | power demand — 峰值电力需求 |  |
+

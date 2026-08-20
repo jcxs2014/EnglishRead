@@ -482,97 +482,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| show up | 出现 | The error shows up on the report. |
-| financial statements | 财务报表 | Audit the financial statements. |
-| turn 18 | 满 18 岁 | When she turns 30. |
-| top-ups | 追加款 | Make a top-up to the account. |
-| handouts | 施舍 | Dependent on government handouts. |
-| partisan | 党派性的 | A partisan vote. |
-| grubby | 粗鄙的 | A grubby financial arrangement. |
-| funded by borrowing | 靠借债融资 | Funded mostly by borrowing. |
-| qualify | 有资格 | Do you qualify for the scheme? |
-| Roping in | 拉拢 | Roped in to the project. |
-| chip in | 凑钱 | Everyone chipped in £20. |
-| a whiff of | 一丝味道 | A whiff of corruption. |
-| cronyism | 裙带关系 | The appointment reeks of cronyism. |
-| unsavoury | 不体面的 | An unsavoury past. |
-| execution | 执行 | Good idea, poor execution. |
-| worth watching | 值得关注 | The startup is worth watching. |
-| equity stakes | 股权 | Sold his equity stake. |
-| sound in principle | 原则上合理 | The plan is sound in principle. |
-| well-timed | 时机得当 | A well-timed investment. |
-| face up to | 正视 | We must face up to the problem. |
-| looming | 迫在眉睫 | The looming deadline. |
-| disruption | 冲击 | AI-driven disruption. |
-| admittedly | 诚然 | Admittedly, it's early. |
-| in today's prices | 按今日价格 | £100 in today's prices. |
-| make a dent in | 啃下一块 | Made a dent in the backlog. |
-| depends largely on | 很大程度上取决于 | Success depends largely on timing. |
-| deep pockets | 荷包深 | Parents with deep pockets. |
-| undermines the notion | 削弱观念 | This undermines the notion of merit. |
-| wanes | 减弱 | Public enthusiasm waned. |
-| a troublingly high share | 高得令人不安的比例 | A troublingly high rate. |
-| profess | 自称 | He professes loyalty. |
-| soaking the rich | 宰富人 | A plan to soak the rich. |
-| free enterprise | 自由企业 | A champion of free enterprise. |
-| a personal stake in | 个人利益 | A personal stake in the outcome. |
-| versus | 对比 | 15% versus 3%. |
-| build on | 在……基础上建设 | Build on the early gains. |
-| financial literacy | 金融素养 | Improve financial literacy. |
-| turmoil | 动荡 | Turmoil in the markets. |
-| vast returns | 巨额回报 | Vast returns for investors. |
-| forestall | 预先阻止 | Forestall the inevitable. |
-| runaway inequality | 失控的不平等 | Runaway inequality. |
-| political instability | 政治不稳定 | Instability scares investors. |
-| run the show | 唱主角 | The state shouldn't run the show. |
-| philanthropy | 慈善 | Modern philanthropy. |
-| voluntarily | 自愿地 | Voluntarily handed over power. |
-| deficit-financing | 赤字融资 | Deficit-financed spending. |
-| immediate consumption | 即时消费 | Not immediate consumption. |
-| microscopic | 极小的 | A microscopic share. |
-| outlast | 比……活得久 | The institution outlasted its founder. |
-| get behind | 支持 | Both sides can get behind it. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| skyscrapers | 摩天大楼 |  |
-| with permission / without | 经许可/未经许可 |  |
-| invested in | 投资于 |  |
-| donated | 捐赠 |  |
-| the White House | 白宫 |  |
-| the taxpayer | 纳税人 |  |
-| sound | 稳健的 |  |
-| a deposit for a home | 购房首付 |  |
-| university fees | 大学学费 |  |
-| their first home | 第一套房 |  |
-| price controls | 价格管制 |  |
-| rental housing | 租赁住房 |  |
-| the private sector | 私营部门 |  |
-| the labour market | 劳动力市场 |  |
-| assets in stocks | 股票资产 |  |
-| financial literacy | 金融素养 |  |
-| radical forecasts | 激进的预测 |  |
-| capital-holders | 资本持有者 |  |
-| runaway | 失控的 |  |
-| eclipse | 遮蔽 |  |
-| sorts out | 解决 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| Trumpy | 特朗普式的 |  |
-| Gen-Z socialism | Z 世代社会主义 |  |
-| Trump Accounts | 特朗普账户 |  |
-| Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |  |
-| OpenAI | OpenAI 公司 |  |
-| Kennedy Centre | 肯尼迪中心 |  |
-
 ## 长难句专项
 
 ### 🔍 原句 5（冒号列举三宗罪）
@@ -689,17 +598,7 @@
 - **冒号列举**：`: they are also partisan, grubby and funded mostly by borrowing`
 - **比较结构**：`more enthusiasm for socialism than capitalism` / `versus just 3%`
 
-### 3. 长难句
-
-- 原句 5（冒号列举三宗罪）
-- 原句 7（动名词主语 + 定语从句）
-- 原句 8（地点状语倒装）
-- 原句 15（同位语 + without which 定语从句）
-- 原句 17（what 从句 + 同位语 + combine A with B）
-- 原句 22-23（AI 悲观预测的因果）
-- 原句 24（Instead of 动名词复合结构）
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **"两声喝彩"的论证框架**：标题即结论（two cheers = 有条件支持），正文先给两分批评（党派/粗鄙/借债）再给一分肯定（原理/时机/AI 预防）——**批评与表扬分明的"评分制"结构**，体现《经济学人》"不盲从"的立场
 2. **先抑后扬的转折枢纽**：`However, beneath the unsavoury execution there sits an experiment worth watching` —— 用"外壳/内核"的空间隐喻把"坏执行"与"好想法"切开，这是评论"烂政策里的好主意"的标准手法
@@ -728,3 +627,94 @@
 | `outlast` | 比……长久 | Good ideas outlast their authors. |
 | `get behind` | 支持 | Everyone can get behind this. |
 | `In any case` | 让步总结 | In any case, we proceed. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| show up | 出现 | The error shows up on the report. |
+| financial statements | 财务报表 | Audit the financial statements. |
+| turn 18 | 满 18 岁 | When she turns 30. |
+| top-ups | 追加款 | Make a top-up to the account. |
+| handouts | 施舍 | Dependent on government handouts. |
+| partisan | 党派性的 | A partisan vote. |
+| grubby | 粗鄙的 | A grubby financial arrangement. |
+| funded by borrowing | 靠借债融资 | Funded mostly by borrowing. |
+| qualify | 有资格 | Do you qualify for the scheme? |
+| Roping in | 拉拢 | Roped in to the project. |
+| chip in | 凑钱 | Everyone chipped in £20. |
+| a whiff of | 一丝味道 | A whiff of corruption. |
+| cronyism | 裙带关系 | The appointment reeks of cronyism. |
+| unsavoury | 不体面的 | An unsavoury past. |
+| execution | 执行 | Good idea, poor execution. |
+| worth watching | 值得关注 | The startup is worth watching. |
+| equity stakes | 股权 | Sold his equity stake. |
+| sound in principle | 原则上合理 | The plan is sound in principle. |
+| well-timed | 时机得当 | A well-timed investment. |
+| face up to | 正视 | We must face up to the problem. |
+| looming | 迫在眉睫 | The looming deadline. |
+| disruption | 冲击 | AI-driven disruption. |
+| admittedly | 诚然 | Admittedly, it's early. |
+| in today's prices | 按今日价格 | £100 in today's prices. |
+| make a dent in | 啃下一块 | Made a dent in the backlog. |
+| depends largely on | 很大程度上取决于 | Success depends largely on timing. |
+| deep pockets | 荷包深 | Parents with deep pockets. |
+| undermines the notion | 削弱观念 | This undermines the notion of merit. |
+| wanes | 减弱 | Public enthusiasm waned. |
+| a troublingly high share | 高得令人不安的比例 | A troublingly high rate. |
+| profess | 自称 | He professes loyalty. |
+| soaking the rich | 宰富人 | A plan to soak the rich. |
+| free enterprise | 自由企业 | A champion of free enterprise. |
+| a personal stake in | 个人利益 | A personal stake in the outcome. |
+| versus | 对比 | 15% versus 3%. |
+| build on | 在……基础上建设 | Build on the early gains. |
+| financial literacy | 金融素养 | Improve financial literacy. |
+| turmoil | 动荡 | Turmoil in the markets. |
+| vast returns | 巨额回报 | Vast returns for investors. |
+| forestall | 预先阻止 | Forestall the inevitable. |
+| runaway inequality | 失控的不平等 | Runaway inequality. |
+| political instability | 政治不稳定 | Instability scares investors. |
+| run the show | 唱主角 | The state shouldn't run the show. |
+| philanthropy | 慈善 | Modern philanthropy. |
+| voluntarily | 自愿地 | Voluntarily handed over power. |
+| deficit-financing | 赤字融资 | Deficit-financed spending. |
+| immediate consumption | 即时消费 | Not immediate consumption. |
+| microscopic | 极小的 | A microscopic share. |
+| outlast | 比……活得久 | The institution outlasted its founder. |
+| get behind | 支持 | Both sides can get behind it. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| skyscrapers | 摩天大楼 |  |
+| with permission / without | 经许可/未经许可 |  |
+| invested in | 投资于 |  |
+| donated | 捐赠 |  |
+| the White House | 白宫 |  |
+| the taxpayer | 纳税人 |  |
+| sound | 稳健的 |  |
+| a deposit for a home | 购房首付 |  |
+| university fees | 大学学费 |  |
+| their first home | 第一套房 |  |
+| price controls | 价格管制 |  |
+| rental housing | 租赁住房 |  |
+| the private sector | 私营部门 |  |
+| the labour market | 劳动力市场 |  |
+| assets in stocks | 股票资产 |  |
+| financial literacy | 金融素养 |  |
+| radical forecasts | 激进的预测 |  |
+| capital-holders | 资本持有者 |  |
+| runaway | 失控的 |  |
+| eclipse | 遮蔽 |  |
+| sorts out | 解决 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Trumpy | 特朗普式的 |  |
+| Gen-Z socialism | Z 世代社会主义 |  |
+| Trump Accounts | 特朗普账户 |  |
+| Sam Altman | 山姆·奥尔特曼（OpenAI 掌门） |  |
+| OpenAI | OpenAI 公司 |  |
+| Kennedy Centre | 肯尼迪中心 |  |
+

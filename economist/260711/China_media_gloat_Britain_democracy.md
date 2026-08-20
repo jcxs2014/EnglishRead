@@ -350,48 +350,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| coyly | 忸怩作态地 | She coyly deflected the question. |
-| unaccountable | 不受问责的 | Power without checks becomes unaccountable. |
-| turnover | 更替率 | The board has a rapid turnover. |
-| contrasts with | 与……形成对比 | His calm contrasts with her panic. |
-| unending | 无止境的 | The unending war exhausted them. |
-| satire | 讽刺文学 | Satire holds power to account. |
-| cynical | 愤世嫉俗的 | A cynical take on politics. |
-| envy | 羡慕 | I envy his confidence. |
-| transparency | 透明度 | Transparency builds trust. |
-| elitist | 精英主义的 | The elitist school bars outsiders. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| state-run | 国有的 |  |
-| resignation | 辞职 |  |
-| liberal democracies | 自由民主 |  |
-| chaotic | 混乱的 |  |
-| the House of Commons | 下议院 |  |
-| circulating | 流传 |  |
-| deep-seated | 根深蒂固的 |  |
-| sitcom | 情景喜剧 |  |
-| the late | 已故的 |  |
-| views | 观看量 |  |
-| clip | 片段 |  |
-| naive | 天真的 |  |
-| responds | 回应 |  |
-| bureaucracy | 官僚体系 |  |
-| dared to | 敢于 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| diplomat-turned-professor | 外交官转行教授 |  |
-| swap through | 换来换去 |  |
-| Bilibili | B站 |  |
-
 ## 长难句专项
 
 ### 🔍 原句 1（It 形式主语 + 宾语从句嵌套）
@@ -466,14 +424,7 @@
 - **引号标记转述**：官媒话语与网民话语全程用引号保持距离
 - **对称句**：`a right to know` vs `a right to be ignorant`
 
-### 3. 长难句
-
-- 原句 1（It 形式主语 + 宾语从句嵌套）
-- 原句 3（引语倒装 + 多层同位语）
-- 原句 6（引语先行 + 多层后置修饰）
-- 原句 19-20（对比句 + 分词状语）
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **"弦外之音"收尾**：全篇最锋利的判断（中国人不敢说"羡慕领导人更替"）不靠作者断言，而靠两句网民对话（"I envy..." / "You dared to say it"）自然浮出——**用引语代替评论**
 2. **引号的距离管理**：中国官媒与网民话语全程加引号，作者保持报道者身份；唯一的作者评论是形容词（coyly、ugly、unending），用词精到而不直接批判
@@ -497,3 +448,45 @@
 | `dare to do` | 强调勇气/胆量 | Few dare to challenge the consensus. |
 | `a gift to` | 评论 | The leak was a gift to journalists. |
 | `rather than` | 对比论证 | Invest in prevention rather than cure. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| coyly | 忸怩作态地 | She coyly deflected the question. |
+| unaccountable | 不受问责的 | Power without checks becomes unaccountable. |
+| turnover | 更替率 | The board has a rapid turnover. |
+| contrasts with | 与……形成对比 | His calm contrasts with her panic. |
+| unending | 无止境的 | The unending war exhausted them. |
+| satire | 讽刺文学 | Satire holds power to account. |
+| cynical | 愤世嫉俗的 | A cynical take on politics. |
+| envy | 羡慕 | I envy his confidence. |
+| transparency | 透明度 | Transparency builds trust. |
+| elitist | 精英主义的 | The elitist school bars outsiders. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| state-run | 国有的 |  |
+| resignation | 辞职 |  |
+| liberal democracies | 自由民主 |  |
+| chaotic | 混乱的 |  |
+| the House of Commons | 下议院 |  |
+| circulating | 流传 |  |
+| deep-seated | 根深蒂固的 |  |
+| sitcom | 情景喜剧 |  |
+| the late | 已故的 |  |
+| views | 观看量 |  |
+| clip | 片段 |  |
+| naive | 天真的 |  |
+| responds | 回应 |  |
+| bureaucracy | 官僚体系 |  |
+| dared to | 敢于 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| diplomat-turned-professor | 外交官转行教授 |  |
+| swap through | 换来换去 |  |
+| Bilibili | B站 |  |
+

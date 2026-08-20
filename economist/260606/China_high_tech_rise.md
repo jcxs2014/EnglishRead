@@ -673,150 +673,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| not one story; it is many | 不是单一故事 | The economy is not one story. |
-| tech hub | 科技中心 | Shenzhen is a tech hub. |
-| booming | 繁荣的 | Jobs are booming. |
-| For every ... there is ... | 每有……就有…… | For every winner there is a loser. |
-| divergence | 分化 | The divergence is growing. |
-| a feature, not a bug | 特征而非缺陷 | That's a feature, not a bug. |
-| GDP per person | 人均 GDP | GDP per person is high. |
-| roughly three times | 大约三倍 | Roughly three times the average. |
-| the national average | 全国平均 | Above the national average. |
-| the share of | ……的占比 | The share of graduates. |
-| far faster than | 远快于 | Growing far faster than. |
-| as a whole | 整体而言 | The country as a whole. |
-| home to | ……的所在地 | The city is home to startups. |
-| semiconductor cluster | 半导体集群 | A semiconductor cluster. |
-| wealthiest | 最富裕的 | One of the wealthiest cities. |
-| fast-growing | 快速成长的 | A fast-growing industry. |
-| promoted as | 被宣传为 | Promoted as a model. |
-| models of | ……的典范 | A model of efficiency. |
-| for contrast | 作为对照 | For contrast, consider ... |
-| heavy-industry powerhouse | 重工业重镇 | A former industrial powerhouse. |
-| struggled to reinvent itself | 艰难重塑自我 | The city struggled to reinvent itself. |
-| reinvent itself | 重塑自我 | A company must reinvent itself. |
-| barely half | 勉强一半 | Barely half the average. |
-| barely | 仅仅、勉强 | Barely enough. |
-| shrinking | 萎缩 | A shrinking city. |
-| for years | 多年来 | Declining for years. |
-| once its pride | 曾经的骄傲 | Once the pride of the city. |
-| draining away | 流失 | Talent is draining away. |
-| the coastal clusters | 沿海集群 | The coastal clusters. |
-| a battle for talent | 人才争夺战 | The battle for talent. |
-| between regions | 地区之间 | Competition between regions. |
-| push ... to become | 推动……变得 | Push the economy to modernise. |
-| technology-intensive | 技术密集的 | A technology-intensive industry. |
-| skilled worker | 技能型工人 | Demand for skilled workers. |
-| rises | 上升 | The value rises. |
-| so does ... | ……也如此（倒装） | Prices fall, and so does demand. |
-| responded with | 以……回应 | The city responded with new policies. |
-| a variety of measures | 多种措施 | A variety of measures. |
-| relaxed household-registration rules | 放宽落户规则 | Relaxed hukou rules. |
-| subsidies for researchers | 研究补贴 | Subsidies for scientists. |
-| by making it easier for ... to | 通过使……更容易 | By making it easier to move. |
-| accelerate the divergence | 加速分化 | Accelerate the gap. |
-| rather than slow it | 而非减缓 | Accelerate rather than slow. |
-| shows up | 显现 | The pattern shows up in the data. |
-| grew by roughly 90% | 增长约 90% | GDP grew by 90%. |
-| while | 而（对比） | Prices rose while wages fell. |
-| barely moved | 几乎没动 | The figure barely moved. |
-| visible in | 在……中可见 | Visible in the data. |
-| the labour market | 劳动力市场 | A tight labour market. |
-| unemployment rate | 失业率 | The unemployment rate fell. |
-| labour shortages | 劳动力短缺 | Firms face labour shortages. |
-| complain of | 抱怨 | Workers complain of long hours. |
-| the opposite is true | 恰恰相反 | In the north, the opposite is true. |
-| in particular | 尤其 | Young people in particular. |
-| voting with their feet | 用脚投票 | Residents are voting with their feet. |
-| reinforced | 被强化 | The gap is reinforced by policy. |
-| directs resources | 引导资源 | The state directs resources. |
-| state-owned banks | 国有银行 | State-owned banks lend cheaply. |
-| policy funds | 政策性基金 | Policy funds back industry. |
-| tend to favour | 往往偏向 | Lenders tend to favour big firms. |
-| the returns on investment | 投资回报 | Higher returns on investment. |
-| subsidies | 补贴 | Government subsidies. |
-| tax incentives | 税收激励 | Tax incentives for R&D. |
-| are tied to | 与……挂钩 | Incentives are tied to performance. |
-| a handful of | 少数几个 | A handful of cities. |
-| eager to attract | 渴望吸引 | Cities eager to attract talent. |
-| the next Shenzhen | 下一个深圳 | Hoping to become the next Shenzhen. |
-| compete by offering | 通过提供……竞争 | Cities compete by offering perks. |
-| tax breaks | 税收优惠 | Tax breaks for investors. |
-| cheap loans | 廉价贷款 | Cheap loans from state banks. |
-| the upshot | 最终结果 | The upshot was a compromise. |
-| self-reinforcing cycle | 自我强化循环 | A self-reinforcing cycle of decline. |
-| attract more investment | 吸引更多投资 | The city attracts investment. |
-| in turn | 进而 | Which in turn boosts growth. |
-| draws in | 吸引进 | The city draws in talent. |
-| still more | 更多的 | Still more talent. |
-| find it harder to | 发现更难 | Cities find it harder to attract firms. |
-| in reverse | 反向 | The process runs in reverse. |
-| consequences | 后果 | The consequences of the policy. |
-| go beyond | 超出 | The impact goes beyond economics. |
-| losing cities | 落败城市 | The losing cities. |
-| ageing faster | 老龄化更快 | An ageing population. |
-| staying behind | 留守 | The old stayed behind. |
-| fiscal squeeze | 财政紧张 | A fiscal squeeze on budgets. |
-| pensioners | 养老金领取者 | A growing number of pensioners. |
-| health-care needs | 医疗需求 | Rising health-care needs. |
-| residents who remain | 留守居民 | Residents who remain. |
-| dimmer prospects | 更黯淡的前景 | A dimmer future. |
-| a political dimension | 政治层面 | The issue has a political dimension. |
-| claim to be committed to | 宣称致力于 | A claim to be committed to reform. |
-| balanced regional development | 区域平衡发展 | A policy of balanced development. |
-| looks increasingly hollow | 越来越空洞 | The promise looks hollow. |
-| growing resentment | 日益增长的怨恨 | Growing resentment among workers. |
-| has abandoned them | 抛弃了他们 | The state abandoned the region. |
-| remained largely silent | 基本保持沉默 | Discontent remained largely silent. |
-| a potential source of | 潜在之源 | A potential source of conflict. |
-| instability | 不稳定 | A source of instability. |
-| none of this | 这一切都不是 | None of this was planned. |
-| inevitable | 不可避免的 | Decline is not inevitable. |
-| adjusted | 调整 | The policy could be adjusted. |
-| redistribute towards | 向……再分配 | Redistribute wealth towards the poor. |
-| lagging regions | 落后地区 | Lagging regions need investment. |
-| invested heavily in | 大量投入 | Invested heavily in the narrative. |
-| the narrative of | ……的叙事 | The narrative of success. |
-| is unlikely to abandon | 不太可能放弃 | Unlikely to abandon the policy. |
-| winner-takes-all economy | 赢家通吃经济 | A winner-takes-all market. |
-| is likely to keep producing | 很可能继续制造 | Likely to keep growing. |
-| winners—and losers | 赢家——和输家 | Producing winners and losers. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| new productive forces | 新质生产力 |  |
-| Harbin | 哈尔滨 |  |
-| Huai'an | 淮安 |  |
-| Luoyang | 洛阳 |  |
-| Hefei | 合肥 |  |
-| GDP | 国内生产总值 |  |
-| R&D | 研发 |  |
-| municipal | 城市的 |  |
-| hukou | 户口 |  |
-| fiscal | 财政的 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| unemployment | 失业 |  |
-| firms | 企业 |  |
-| wages | 工资 |  |
-| loans | 贷款 |  |
-| land | 土地 |  |
-| investment | 投资 |  |
-| population | 人口 |  |
-| pensioners | 领养老金者 |  |
-| services | 服务 |  |
-| instability | 不稳定 |  |
-| winners | 赢家 |  |
-| losers | 输家 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 2（for every...there is 对照 + 双 where 从句）
@@ -981,20 +837,7 @@
 - **被动情态建议**：`Policies could be adjusted`
 - **破折号反转**：`winners—and losers`
 
-### 3. 长难句
-
-- 原句 2：for every...there is 对照 + 双 where 从句
-- 原句 13：as 从句 + so 倒装
-- 原句 15：by 方式 + rather than 对比
-- 原句 19：分号镜像对照
-- 原句 21：被动 + how 从句
-- 原句 26：链式 which 从句
-- 原句 30：冒号解释 + few/more 对仗
-- 原句 33：claim 不定式 + 评价系动词
-- 原句 34：there be + 同位语从句
-- 原句 39：破折号反转收束
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **格言式开场**：`China's economy is not one story; it is many`（中国经济不是单一故事）——"否定 + 反转"的开场，三秒抓住读者，为"分化"主题立纲
 2. **For every A, there is a B 对照句**：把抽象分化写成"城市对城市"的具体镜像（深圳 vs 淮安）——让宏观判断落地
@@ -1008,6 +851,149 @@
 10. **审慎收束**：`None of this is inevitable ... But ... unlikely to abandon it ... winners—and losers`——先给"出路"，再给"现实"，最后用破折号把"losers"拖到句尾定格，留下开放性
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| not one story; it is many | 不是单一故事 | The economy is not one story. |
+| tech hub | 科技中心 | Shenzhen is a tech hub. |
+| booming | 繁荣的 | Jobs are booming. |
+| For every ... there is ... | 每有……就有…… | For every winner there is a loser. |
+| divergence | 分化 | The divergence is growing. |
+| a feature, not a bug | 特征而非缺陷 | That's a feature, not a bug. |
+| GDP per person | 人均 GDP | GDP per person is high. |
+| roughly three times | 大约三倍 | Roughly three times the average. |
+| the national average | 全国平均 | Above the national average. |
+| the share of | ……的占比 | The share of graduates. |
+| far faster than | 远快于 | Growing far faster than. |
+| as a whole | 整体而言 | The country as a whole. |
+| home to | ……的所在地 | The city is home to startups. |
+| semiconductor cluster | 半导体集群 | A semiconductor cluster. |
+| wealthiest | 最富裕的 | One of the wealthiest cities. |
+| fast-growing | 快速成长的 | A fast-growing industry. |
+| promoted as | 被宣传为 | Promoted as a model. |
+| models of | ……的典范 | A model of efficiency. |
+| for contrast | 作为对照 | For contrast, consider ... |
+| heavy-industry powerhouse | 重工业重镇 | A former industrial powerhouse. |
+| struggled to reinvent itself | 艰难重塑自我 | The city struggled to reinvent itself. |
+| reinvent itself | 重塑自我 | A company must reinvent itself. |
+| barely half | 勉强一半 | Barely half the average. |
+| barely | 仅仅、勉强 | Barely enough. |
+| shrinking | 萎缩 | A shrinking city. |
+| for years | 多年来 | Declining for years. |
+| once its pride | 曾经的骄傲 | Once the pride of the city. |
+| draining away | 流失 | Talent is draining away. |
+| the coastal clusters | 沿海集群 | The coastal clusters. |
+| a battle for talent | 人才争夺战 | The battle for talent. |
+| between regions | 地区之间 | Competition between regions. |
+| push ... to become | 推动……变得 | Push the economy to modernise. |
+| technology-intensive | 技术密集的 | A technology-intensive industry. |
+| skilled worker | 技能型工人 | Demand for skilled workers. |
+| rises | 上升 | The value rises. |
+| so does ... | ……也如此（倒装） | Prices fall, and so does demand. |
+| responded with | 以……回应 | The city responded with new policies. |
+| a variety of measures | 多种措施 | A variety of measures. |
+| relaxed household-registration rules | 放宽落户规则 | Relaxed hukou rules. |
+| subsidies for researchers | 研究补贴 | Subsidies for scientists. |
+| by making it easier for ... to | 通过使……更容易 | By making it easier to move. |
+| accelerate the divergence | 加速分化 | Accelerate the gap. |
+| rather than slow it | 而非减缓 | Accelerate rather than slow. |
+| shows up | 显现 | The pattern shows up in the data. |
+| grew by roughly 90% | 增长约 90% | GDP grew by 90%. |
+| while | 而（对比） | Prices rose while wages fell. |
+| barely moved | 几乎没动 | The figure barely moved. |
+| visible in | 在……中可见 | Visible in the data. |
+| the labour market | 劳动力市场 | A tight labour market. |
+| unemployment rate | 失业率 | The unemployment rate fell. |
+| labour shortages | 劳动力短缺 | Firms face labour shortages. |
+| complain of | 抱怨 | Workers complain of long hours. |
+| the opposite is true | 恰恰相反 | In the north, the opposite is true. |
+| in particular | 尤其 | Young people in particular. |
+| voting with their feet | 用脚投票 | Residents are voting with their feet. |
+| reinforced | 被强化 | The gap is reinforced by policy. |
+| directs resources | 引导资源 | The state directs resources. |
+| state-owned banks | 国有银行 | State-owned banks lend cheaply. |
+| policy funds | 政策性基金 | Policy funds back industry. |
+| tend to favour | 往往偏向 | Lenders tend to favour big firms. |
+| the returns on investment | 投资回报 | Higher returns on investment. |
+| subsidies | 补贴 | Government subsidies. |
+| tax incentives | 税收激励 | Tax incentives for R&D. |
+| are tied to | 与……挂钩 | Incentives are tied to performance. |
+| a handful of | 少数几个 | A handful of cities. |
+| eager to attract | 渴望吸引 | Cities eager to attract talent. |
+| the next Shenzhen | 下一个深圳 | Hoping to become the next Shenzhen. |
+| compete by offering | 通过提供……竞争 | Cities compete by offering perks. |
+| tax breaks | 税收优惠 | Tax breaks for investors. |
+| cheap loans | 廉价贷款 | Cheap loans from state banks. |
+| the upshot | 最终结果 | The upshot was a compromise. |
+| self-reinforcing cycle | 自我强化循环 | A self-reinforcing cycle of decline. |
+| attract more investment | 吸引更多投资 | The city attracts investment. |
+| in turn | 进而 | Which in turn boosts growth. |
+| draws in | 吸引进 | The city draws in talent. |
+| still more | 更多的 | Still more talent. |
+| find it harder to | 发现更难 | Cities find it harder to attract firms. |
+| in reverse | 反向 | The process runs in reverse. |
+| consequences | 后果 | The consequences of the policy. |
+| go beyond | 超出 | The impact goes beyond economics. |
+| losing cities | 落败城市 | The losing cities. |
+| ageing faster | 老龄化更快 | An ageing population. |
+| staying behind | 留守 | The old stayed behind. |
+| fiscal squeeze | 财政紧张 | A fiscal squeeze on budgets. |
+| pensioners | 养老金领取者 | A growing number of pensioners. |
+| health-care needs | 医疗需求 | Rising health-care needs. |
+| residents who remain | 留守居民 | Residents who remain. |
+| dimmer prospects | 更黯淡的前景 | A dimmer future. |
+| a political dimension | 政治层面 | The issue has a political dimension. |
+| claim to be committed to | 宣称致力于 | A claim to be committed to reform. |
+| balanced regional development | 区域平衡发展 | A policy of balanced development. |
+| looks increasingly hollow | 越来越空洞 | The promise looks hollow. |
+| growing resentment | 日益增长的怨恨 | Growing resentment among workers. |
+| has abandoned them | 抛弃了他们 | The state abandoned the region. |
+| remained largely silent | 基本保持沉默 | Discontent remained largely silent. |
+| a potential source of | 潜在之源 | A potential source of conflict. |
+| instability | 不稳定 | A source of instability. |
+| none of this | 这一切都不是 | None of this was planned. |
+| inevitable | 不可避免的 | Decline is not inevitable. |
+| adjusted | 调整 | The policy could be adjusted. |
+| redistribute towards | 向……再分配 | Redistribute wealth towards the poor. |
+| lagging regions | 落后地区 | Lagging regions need investment. |
+| invested heavily in | 大量投入 | Invested heavily in the narrative. |
+| the narrative of | ……的叙事 | The narrative of success. |
+| is unlikely to abandon | 不太可能放弃 | Unlikely to abandon the policy. |
+| winner-takes-all economy | 赢家通吃经济 | A winner-takes-all market. |
+| is likely to keep producing | 很可能继续制造 | Likely to keep growing. |
+| winners—and losers | 赢家——和输家 | Producing winners and losers. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| new productive forces | 新质生产力 |  |
+| Harbin | 哈尔滨 |  |
+| Huai'an | 淮安 |  |
+| Luoyang | 洛阳 |  |
+| Hefei | 合肥 |  |
+| GDP | 国内生产总值 |  |
+| R&D | 研发 |  |
+| municipal | 城市的 |  |
+| hukou | 户口 |  |
+| fiscal | 财政的 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| unemployment | 失业 |  |
+| firms | 企业 |  |
+| wages | 工资 |  |
+| loans | 贷款 |  |
+| land | 土地 |  |
+| investment | 投资 |  |
+| population | 人口 |  |
+| pensioners | 领养老金者 |  |
+| services | 服务 |  |
+| instability | 不稳定 |  |
+| winners | 赢家 |  |
+| losers | 输家 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -1031,3 +1017,4 @@
 | `a potential source of instability` | 潜在风险 | A potential source of instability. |
 | `none of this is inevitable` | 反宿命论 | None of this is inevitable. |
 | `winner-takes-all` | 赢家通吃 | A winner-takes-all market. |
+

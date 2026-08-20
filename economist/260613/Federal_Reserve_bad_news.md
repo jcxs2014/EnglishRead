@@ -644,74 +644,6 @@
 
 **段落逻辑：** QT presage lower rates, might not raise yields → off the table at June 16 meeting → play for time + nerdy reforms → if rates move, up not down → will have to give Trump bad news。第 9 段（副标题）收束全文，与标题首尾呼应。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| nirvana | 极乐净土 |  |
-| staked out | 划定立场 |  |
-| hawkish | 鸽派） |  |
-| come to pass | 成真 |  |
-| wry smiles | 苦笑 |  |
-| sane | 理智的 |  |
-| crumbled | 瓦解 |  |
-| if anything | 甚至可以说 |  |
-| firmed up | 走强 |  |
-| swelled | 猛增 |  |
-| exuberant | 繁荣的 |  |
-| baked into | 固化进 |  |
-| take on a life of its own | 有了自己的生命 |  |
-| novel arguments | 新奇论点 |  |
-| shakier | 更站不住脚 |  |
-| vying for | 争夺 |  |
-| ditched | 抛弃 |  |
-| unleash | 释放 |  |
-| vanquished | 征服 |  |
-| euphoria | 亢奋 |  |
-| stoked | 助燃 |  |
-| respectively | 分别地 |  |
-| lined up to remind | 排队提醒 |  |
-| appetites for | 渴求 |  |
-| voting rate-setters | 有投票权的利率制定者 |  |
-| amount to | 相当于 |  |
-| balance-sheet | 资产负债表 |  |
-| akin to | 类似于 |  |
-| piddling | 微不足道的 |  |
-| entertained | 考虑过 |  |
-| rules of thumb | 经验法则 |  |
-| overestimate | 高估 |  |
-| signalling | 发出信号 |  |
-| conveyed | 传递 |  |
-| presage | 预示 |  |
-| off the table | 排除在讨论外 |  |
-| play for time | 拖延 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| appointment | 任命 |  |
-| scenario | 场景 |  |
-| coincidence | 巧合 |  |
-| respectable | 站得住的 |  |
-| wobbling | 摇摆 |  |
-| migration | 移民 |  |
-| overshoots | 超过目标 |  |
-| tighten | / tightening（收紧） |  |
-| bond yields | 债券收益率 |  |
-| quantitative tightening | 量化紧缩 |  |
-| fiscal | 财政的 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| inflation | 通胀 |  |
-| interest rates | 利率 |  |
-| economy | 经济 |  |
-| jobs market | 就业市场 |  |
-| unemployment rate | 失业率 |  |
-| tax cuts | 减税 |  |
-
 ## 二、长难句专项
 
 > **长难句 1（原句 1）：**
@@ -793,7 +725,7 @@
 2. `with + 复合结构` 与 `by contrast` 这类介词短语承载大量对比信息。
 3. `not ... but`、`up, not down` 类"对举"结构是经济评论强调对比的惯用手法。
 
-### 4. 写作技巧
+### 3. 写作技巧
 1. **标题即结论**：标题 "must soon give Trump bad news" 直接给出最终判断，正文逐层论证。
 2. **反讽开篇**：用虚拟式（would have been nirvana）+ "ironic that ... come to pass" 制造理想落空的戏剧性。
 3. **数字证据链**：188,000/月、4.3%、4.2%、5% GDP、四分之一基点——用精确数据支撑判断。
@@ -811,3 +743,71 @@
 - 表达"不得不送坏消息"：*will have to give ... bad news*
 
 ---
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nirvana | 极乐净土 |  |
+| staked out | 划定立场 |  |
+| hawkish | 鸽派） |  |
+| come to pass | 成真 |  |
+| wry smiles | 苦笑 |  |
+| sane | 理智的 |  |
+| crumbled | 瓦解 |  |
+| if anything | 甚至可以说 |  |
+| firmed up | 走强 |  |
+| swelled | 猛增 |  |
+| exuberant | 繁荣的 |  |
+| baked into | 固化进 |  |
+| take on a life of its own | 有了自己的生命 |  |
+| novel arguments | 新奇论点 |  |
+| shakier | 更站不住脚 |  |
+| vying for | 争夺 |  |
+| ditched | 抛弃 |  |
+| unleash | 释放 |  |
+| vanquished | 征服 |  |
+| euphoria | 亢奋 |  |
+| stoked | 助燃 |  |
+| respectively | 分别地 |  |
+| lined up to remind | 排队提醒 |  |
+| appetites for | 渴求 |  |
+| voting rate-setters | 有投票权的利率制定者 |  |
+| amount to | 相当于 |  |
+| balance-sheet | 资产负债表 |  |
+| akin to | 类似于 |  |
+| piddling | 微不足道的 |  |
+| entertained | 考虑过 |  |
+| rules of thumb | 经验法则 |  |
+| overestimate | 高估 |  |
+| signalling | 发出信号 |  |
+| conveyed | 传递 |  |
+| presage | 预示 |  |
+| off the table | 排除在讨论外 |  |
+| play for time | 拖延 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| appointment | 任命 |  |
+| scenario | 场景 |  |
+| coincidence | 巧合 |  |
+| respectable | 站得住的 |  |
+| wobbling | 摇摆 |  |
+| migration | 移民 |  |
+| overshoots | 超过目标 |  |
+| tighten | / tightening（收紧） |  |
+| bond yields | 债券收益率 |  |
+| quantitative tightening | 量化紧缩 |  |
+| fiscal | 财政的 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| inflation | 通胀 |  |
+| interest rates | 利率 |  |
+| economy | 经济 |  |
+| jobs market | 就业市场 |  |
+| unemployment rate | 失业率 |  |
+| tax cuts | 减税 |  |
+

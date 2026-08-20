@@ -884,74 +884,6 @@
 
 **段落逻辑：** 历史规律（面对游击鞭挞，官僚要么做样子要么镇压）→ 回忆（十年前网络反腐类似）——文章以"历史回声"收束：这次打假能持续多久，取决于官方态度何时转向。---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| shake the establishment | 撼动体制 | HE HARDLY SEEMS the guy to shake China's scientific establishment. |
-| dropout-turned-influencer | 辍学转型网红（连字符身份词） | A PhD dropout-turned-influencer. |
-| leaven with | 用……调剂（本义加酵母） | Leavened with cartoon memes. |
-| trigger an earthquake | 引发地震（巨变比喻） | Triggered an earthquake. |
-| deadpan | 面无表情地（冷幽默） | He deadpanned. |
-| take ... seriously | 严肃对待 | Take academic fraud seriously. |
-| a series of | 一系列 | A series of videos. |
-| revel ation | 爆料、揭露 | Damaging revelations. |
-| cost sb their deans | 使某人失去院长（双宾语） | Cost three universities their deans. |
-| fraud lurks | 造假潜藏（lurks 有"暗藏"意） | How much fraud lurks. |
-| obsession with | 对……的痴迷 | Obsession with control. |
-| bump into limits | 撞上边界 | Bumping into limits. |
-| rustbelt city | 铁锈地带城市 | A rustbelt city. |
-| saddled with debt | 背负债务 | Saddled with debt. |
-| admirably forthright | 令人敬佩地坦率 | Admirably forthright. |
-| on track for | 走在……轨道 | On track for a mediocre job. |
-| mediocre | 平庸的 | A mediocre result. |
-| scrutinise | 仔细审查 | Scrutinise published papers. |
-| debunk | 揭穿 | Debunk a paper. |
-| go viral | 病毒式传播 | They go viral. |
-| make for | 造就、使得 | Makes for great content. |
-| let ... fester | 放任……恶化（化脓比喻） | Let the problem fester. |
-| exposed to | 受……熏陶/接触 | Exposed to western norms. |
-| in contrast | 相反（对比衔接） | In contrast, ... |
-| the tables were turned | 攻守易势 | The tables were turned. |
-| less A than B | 与其说 A 不如说 B | Less a whistle-blower than an amplifier. |
-| a message in a bottle | 瓶中信（无人理喻） | Like messages in a bottle. |
-| go down badly | 不受欢迎、反应恶劣 | His charges have gone down badly. |
-| dismiss ... as | 斥为…… | Dismissed as cheap populist criticism. |
-| too exacting | 过于苛求 | Too exacting, he replies. |
-| the elephant in the lab | 实验室里的大象（仿"房间大象"） | The elephant in the lab. |
-| perverse incentives | 扭曲的激励 | A system of perverse incentives. |
-| one in ten | 十分之一 | One in ten papers. |
-| a similar share | 相似比例 | Estimated a similar share. |
-| symptomatic of | 是……的征兆 | Symptomatic of a deeper issue. |
-| trump | 胜过、压过 | Has trumped the pursuit of truth. |
-| stacked against | 对……不利（失衡） | Incentives stacked against. |
-| publish or perish | 不发表就灭亡 | Careers advance on numbers. |
-| backroom deal-making | 幕后交易 | Backroom deal-making. |
-| shoddy scholarship | 粗劣的学术 | Shoddy scholarship. |
-| borrow (with quotes) | "借用"（剽窃反讽） | Simply "borrow" them. |
-| heed | 理会（正式） | Rarely heed accusations. |
-| a suspected fabrication | 涉嫌造假 | Reported a suspected fabrication. |
-| guerrilla whip-lash | 游击式鞭挞（比喻） | Guerrilla whip-lash. |
-| make a show of action | 做做样子 | Make a show of action. |
-| clamp down | 打压、镇压 | Clamp down on dissent. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| aftershock | — 余震（引申"余波"） |  |
-| sanctions | / norms — 规范（academic honesty 语境） |  |
-| foul-ups | — 错误、搞砸之事 |  |
-| grad-student | life — 研究生生活 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| pandemic | — 大流行病 |  |
-| dorm | — 宿舍 |  |
-| meme | — 梗图 |  |
-| followers | — 粉丝--- |  |
-
 ## 三、长难句专项
 
 > **长难句 1（原句 5）：**
@@ -1026,4 +958,71 @@
 
 ---
 
-**精读完成。** 本篇为 Chaguan（茶馆）专栏，用"小人物 против 体制"的叙事框架，借耿同学的打假故事剖析中国学术造假的结构性土壤：数量导向晋升、挂名作者、抄袭海外、无人监督，以及官僚面对"游击式鞭挞"的两种霸道（做样子 or 镇压）。写法上的反差与反讽贯穿始终，是一篇"以人物带话题"的范例。
+**精读完成。** 本篇为 Chaguan（茶馆）专栏，用"小人物 против 体制"的叙事框架，借耿同学的打假故事剖析中国学术造假的结构性土壤：数量导向晋升、挂名作者、抄袭海外、无人监督，以及官僚面对"游击式鞭挞"的两种霸道（做样子 or 镇压）。写法上的反差与反讽贯穿始终，是一篇"以人物带话题"的范例。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| shake the establishment | 撼动体制 | HE HARDLY SEEMS the guy to shake China's scientific establishment. |
+| dropout-turned-influencer | 辍学转型网红（连字符身份词） | A PhD dropout-turned-influencer. |
+| leaven with | 用……调剂（本义加酵母） | Leavened with cartoon memes. |
+| trigger an earthquake | 引发地震（巨变比喻） | Triggered an earthquake. |
+| deadpan | 面无表情地（冷幽默） | He deadpanned. |
+| take ... seriously | 严肃对待 | Take academic fraud seriously. |
+| a series of | 一系列 | A series of videos. |
+| revel ation | 爆料、揭露 | Damaging revelations. |
+| cost sb their deans | 使某人失去院长（双宾语） | Cost three universities their deans. |
+| fraud lurks | 造假潜藏（lurks 有"暗藏"意） | How much fraud lurks. |
+| obsession with | 对……的痴迷 | Obsession with control. |
+| bump into limits | 撞上边界 | Bumping into limits. |
+| rustbelt city | 铁锈地带城市 | A rustbelt city. |
+| saddled with debt | 背负债务 | Saddled with debt. |
+| admirably forthright | 令人敬佩地坦率 | Admirably forthright. |
+| on track for | 走在……轨道 | On track for a mediocre job. |
+| mediocre | 平庸的 | A mediocre result. |
+| scrutinise | 仔细审查 | Scrutinise published papers. |
+| debunk | 揭穿 | Debunk a paper. |
+| go viral | 病毒式传播 | They go viral. |
+| make for | 造就、使得 | Makes for great content. |
+| let ... fester | 放任……恶化（化脓比喻） | Let the problem fester. |
+| exposed to | 受……熏陶/接触 | Exposed to western norms. |
+| in contrast | 相反（对比衔接） | In contrast, ... |
+| the tables were turned | 攻守易势 | The tables were turned. |
+| less A than B | 与其说 A 不如说 B | Less a whistle-blower than an amplifier. |
+| a message in a bottle | 瓶中信（无人理喻） | Like messages in a bottle. |
+| go down badly | 不受欢迎、反应恶劣 | His charges have gone down badly. |
+| dismiss ... as | 斥为…… | Dismissed as cheap populist criticism. |
+| too exacting | 过于苛求 | Too exacting, he replies. |
+| the elephant in the lab | 实验室里的大象（仿"房间大象"） | The elephant in the lab. |
+| perverse incentives | 扭曲的激励 | A system of perverse incentives. |
+| one in ten | 十分之一 | One in ten papers. |
+| a similar share | 相似比例 | Estimated a similar share. |
+| symptomatic of | 是……的征兆 | Symptomatic of a deeper issue. |
+| trump | 胜过、压过 | Has trumped the pursuit of truth. |
+| stacked against | 对……不利（失衡） | Incentives stacked against. |
+| publish or perish | 不发表就灭亡 | Careers advance on numbers. |
+| backroom deal-making | 幕后交易 | Backroom deal-making. |
+| shoddy scholarship | 粗劣的学术 | Shoddy scholarship. |
+| borrow (with quotes) | "借用"（剽窃反讽） | Simply "borrow" them. |
+| heed | 理会（正式） | Rarely heed accusations. |
+| a suspected fabrication | 涉嫌造假 | Reported a suspected fabrication. |
+| guerrilla whip-lash | 游击式鞭挞（比喻） | Guerrilla whip-lash. |
+| make a show of action | 做做样子 | Make a show of action. |
+| clamp down | 打压、镇压 | Clamp down on dissent. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| aftershock | — 余震（引申"余波"） |  |
+| sanctions | / norms — 规范（academic honesty 语境） |  |
+| foul-ups | — 错误、搞砸之事 |  |
+| grad-student | life — 研究生生活 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pandemic | — 大流行病 |  |
+| dorm | — 宿舍 |  |
+| meme | — 梗图 |  |
+| followers | — 粉丝--- |  |
+

@@ -1087,165 +1087,6 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| a mere two blocks | 仅仅两个街区 | He lived a mere two blocks away. |
-| found himself | 发现自己（不知不觉） | He found himself on the bridge. |
-| rattling over | 隆隆驶过 | The train rattled over the bridge. |
-| hooting | 鸣笛 | A boat hooted in the fog. |
-| corny | 俗气的 | A corny joke. |
-| spiritual feeling | 精神性感受 | A spiritual experience. |
-| practise | 练习（英式） | He practises daily. |
-| endlessly inventive | 无穷创造力 | An endlessly inventive musician. |
-| seamlessly melodic | 无缝旋律 | Seamlessly melodic. |
-| cutting records | 录制唱片 | They cut several records. |
-| in the same league as | 与……同级 | In the same league as the greats. |
-| however much | 无论多少 | However much he tried. |
-| never satisfied with | 从不满足于 | Never satisfied with his work. |
-| every so often | 时不时 | Every so often he paused. |
-| hence | 因此（正式） | Hence the delay. |
-| sojourns | 逗留 | Daily sojourns. |
-| went on for | 持续了 | It went on for hours. |
-| passers-by | 路人 | Passers-by stared. |
-| frame | 身材 | His tall frame. |
-| squeezed | 被挤在 | Squeezed among the steelwork. |
-| company | 陪伴 | He enjoyed her company. |
-| pushing further | 推向更远 | Push the limits further. |
-| at the bottom of the ocean | 海底 | At the bottom of the ocean. |
-| beyond the stars | 群星之外 | Beyond the stars. |
-| as yet | 迄今 | As yet unknown. |
-| ultimate sound | 终极声音 | The ultimate sound. |
-| a snatch of | 一鳞半爪 | A snatch of melody. |
-| instantly | 立刻 | Instantly it happened. |
-| fulfil | 使满足（英式） | It fulfilled him. |
-| at last | 终于 | At last, success. |
-| not til then | 直到那时 | Not til then. |
-| full to bursting | 满得要炸 | His mind was full to bursting. |
-| scraps of | 碎片 | Scraps of memory. |
-| laid down | 存下、积累 | Riffs laid down over years. |
-| etudes | 练习曲 | Violin etudes. |
-| piano roll | 钢琴卷 | Fats Waller on piano roll. |
-| juke-box tunes | 点唱机曲目 | Juke-box tunes. |
-| ballads | 歌谣 | A slow ballad. |
-| gramophones | 留声机 | A 78 on the gramophone. |
-| mentored | 指导 | He was mentored by Monk. |
-| revered | 崇敬 | He revered his heroes. |
-| toting | 背着（口语） | Toting his sax. |
-| alto sax | 中音萨克斯 | The alto sax. |
-| improvisations | 即兴 | Jazz improvisations. |
-| drew on | 取材于 | He drew on his memories. |
-| playing quotes | 演奏引用 | He quoted old melodies. |
-| rhythmic | 节奏的 | Rhythmic variations. |
-| harmonic | 和声的 | Harmonic changes. |
-| variations | 变奏 | Jazz variations. |
-| aria | 咏叹调 | An opera aria. |
-| cheeky | 俏皮的 | A cheeky riff. |
-| half-heard | 半闻其声 | A half-heard melody. |
-| riff | 连复段 | A guitar riff. |
-| natural unity | 天然统一 | A natural unity. |
-| with his mind a blank | 脑海空白 | His mind a blank. |
-| a fresh thought | 新念头 | A fresh thought. |
-| subconsciously | 无意识 | He played subconsciously. |
-| a thing with | 特殊缘分（俚语） | He has a thing with his horn. |
-| communion | 交融 | A communion with music. |
-| had to flee | 不得不逃离 | They had to flee. |
-| higher powers | 更高力量 | Trust the higher powers. |
-| bebop | 比波普 | Bebop in the 1940s. |
-| pigeonholed | 被贴标签 | Refused to be pigeonholed. |
-| intricacy | 精巧 | The intricacy of the solo. |
-| long solos | 长独奏 | Long sax solos. |
-| strictures | 束缚 | The strictures of form. |
-| suited him | 适合他 | The style suited him. |
-| naturally free | 天性自由 | Naturally free. |
-| fused ... with | 融合 | Fuse jazz with calypso. |
-| calypso | 卡利普索 | Calypso rhythms. |
-| in homage to | 向……致敬 | In homage to his mother. |
-| celebrated | 著名的 | A celebrated track. |
-| married it to | 嫁接到 | Married jazz to funk. |
-| funk | 放克 | A funky bass. |
-| collaboration with | 与……合作 | A collaboration with the Stones. |
-| not too proud to | 不至于骄傲到不肯 | Not too proud to play backbeat. |
-| backbeat | 反拍 | A steady backbeat. |
-| got rid of | 摆脱 | He got rid of the pianists. |
-| limited his harmonic range | 限制和声范围 | Limited his range. |
-| trios | 三重奏 | A jazz trio. |
-| faithfully following along | 忠实跟随 | Faithfully following along. |
-| big-picture stuff | 大格局作品 | Big-picture stuff. |
-| came together | 汇聚 | Everything came together. |
-| unification | 统合 | The unification of music. |
-| all one | 一切皆一 | Music is all one. |
-| serenity | 宁静 | His serenity. |
-| disguised | 掩盖 | Disguised his pain. |
-| rough road | 坎坷之路 | A rough road to fame. |
-| saw ... as his Messiah | 视为救世主 | Saw Parker as his Messiah. |
-| was on drugs | 吸毒 | He was on drugs. |
-| used heroin | 吸海洛因 | He used heroin. |
-| end up playing like that | 最终演奏成那样 | End up playing like Bird. |
-| all it did was | 仅有的效果是 | All it did was hurt. |
-| set him to stealing | 让他偷窃 | Set him to stealing. |
-| served ten months | 服刑十个月 | Served ten months in jail. |
-| Rikers Island | 赖克斯岛 | He was held at Rikers. |
-| rehabilitation | 戒毒康复 | Tough rehabilitation. |
-| was clean again | 戒毒成功 | He's been clean for years. |
-| stayed that way | 保持那样 | He stayed clean. |
-| It was ... who | 正是……（强调） | It was Bird who saved him. |
-| set him thinking | 让他思考 | That set me thinking. |
-| considered ... as | 视为 | Considered music as a gift. |
-| in seventh heaven | 如登七重天 | She was in seventh heaven. |
-| reveled in | 尽情享受 | He revelled in the applause. |
-| down days | 低落的日子 | We all have down days. |
-| giving back to | 回馈给 | Give back to the community. |
-| to mangle | 曲解 | To mangle a phrase. |
-| Golden Rule | 金律 | The Golden Rule. |
-| doing unto others | 待人 | Do unto others. |
-| karma | 业力 | His karma. |
-| inconsequential | 微不足道的 | An inconsequential world. |
-| multitudes of | 众多的 | Multitudes of admirers. |
-| gift and glory | 馈赠与荣光 | Gift and glory enough. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| abutments | 桥台 |  |
-| steelwork | 钢结构 |  |
-| ashram | 修行道场 |  |
-| cognac | 干邑 |  |
-| climbed up | 爬上去 |  |
-| tenor saxophone | 次中音萨克斯 |  |
-| percussive | 打击感 |  |
-| onstage | 在台上 |  |
-| Broadway ballad | 百老汇歌谣 |  |
-| Village Vanguard | 村先锋俱乐部 |  |
-| Freedom Suite | 自由组曲 |  |
-| Way Out West | 荒野西部 |  |
-| Tattoo You | 纹身你（滚石专辑） |  |
-| calypso | 卡利普索 |  |
-| St Thomas | 圣托马斯 |  |
-| Saxophone Colossus | 萨克斯巨擘（专辑） |  |
-| Blue 7 | 蓝色 7 号（曲目） |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bridge | 桥 |  |
-| river | 河 |  |
-| winter | 冬天 |  |
-| gloves | 手套 |  |
-| ocean | 海洋 |  |
-| stars | 星星 |  |
-| pianists | 钢琴手 |  |
-| a drummer | 鼓手 |  |
-| a bassist | 贝斯手 |  |
-| albums | 专辑 |  |
-| jazz | 爵士乐 |  |
-| the saxophone | 萨克斯 |  |
-| heroin | 海洛因 |  |
-| stolen | 偷窃 |  |
-| jail | 监狱 |  |
-
 ## 三、长难句专项
 
 ### 🔍 原句 1（Though 让步 + 过去完成时）
@@ -1462,25 +1303,7 @@
 - **过去完成时**：`hadn't noticed ... before`、`he had been cutting records`
 - **过去习惯 would**：`he would play for 15 hours`、`he would know it when he heard it`
 
-### 3. 长难句
-
-- 原句 1：Though 让步 + 过去完成时
-- 原句 4：独立主格
-- 原句 5-6：倒装句
-- 原句 10：倒装 + 非限定定语从句
-- 原句 16：分词伴随状语 + 定语从句省略
-- 原句 20：破折号插入 + 存在句
-- 原句 21："不知道却认得"悖论
-- 原句 31：as if + 省略
-- 原句 33-36：宾语前置 + 分工对仗
-- 原句 39：分号对照 + 原因从句
-- 原句 46：破折号插入 + 双层定语从句
-- 原句 53：强调句
-- 原句 59：金律变体 + 古语
-- 原句 62：形式主语 + karma
-- 原句 66：as 方式从句 + which 定语从句
-
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **场景化开头**：讣告不从"罗林斯去世"写起，而从一个夏日爬桥的细节写起——用"某个平凡却改变命运的时刻"开场，比生平简介更动人
 2. **环境逐级展开**：第 1 段用"方位递进"（There → at the top → on the bridge → above the river）配合倒装句（All around him / Close above him），把"圣殿"一步步建构出来
@@ -1498,6 +1321,164 @@
 14. **第二人称箴言**：`To learn; to try to get wisdom; to come back and try again, if you didn't`——转第二人称，把个人人生指南升华为对读者的普世赠言
 
 ### 5. 可迁移表达
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a mere two blocks | 仅仅两个街区 | He lived a mere two blocks away. |
+| found himself | 发现自己（不知不觉） | He found himself on the bridge. |
+| rattling over | 隆隆驶过 | The train rattled over the bridge. |
+| hooting | 鸣笛 | A boat hooted in the fog. |
+| corny | 俗气的 | A corny joke. |
+| spiritual feeling | 精神性感受 | A spiritual experience. |
+| practise | 练习（英式） | He practises daily. |
+| endlessly inventive | 无穷创造力 | An endlessly inventive musician. |
+| seamlessly melodic | 无缝旋律 | Seamlessly melodic. |
+| cutting records | 录制唱片 | They cut several records. |
+| in the same league as | 与……同级 | In the same league as the greats. |
+| however much | 无论多少 | However much he tried. |
+| never satisfied with | 从不满足于 | Never satisfied with his work. |
+| every so often | 时不时 | Every so often he paused. |
+| hence | 因此（正式） | Hence the delay. |
+| sojourns | 逗留 | Daily sojourns. |
+| went on for | 持续了 | It went on for hours. |
+| passers-by | 路人 | Passers-by stared. |
+| frame | 身材 | His tall frame. |
+| squeezed | 被挤在 | Squeezed among the steelwork. |
+| company | 陪伴 | He enjoyed her company. |
+| pushing further | 推向更远 | Push the limits further. |
+| at the bottom of the ocean | 海底 | At the bottom of the ocean. |
+| beyond the stars | 群星之外 | Beyond the stars. |
+| as yet | 迄今 | As yet unknown. |
+| ultimate sound | 终极声音 | The ultimate sound. |
+| a snatch of | 一鳞半爪 | A snatch of melody. |
+| instantly | 立刻 | Instantly it happened. |
+| fulfil | 使满足（英式） | It fulfilled him. |
+| at last | 终于 | At last, success. |
+| not til then | 直到那时 | Not til then. |
+| full to bursting | 满得要炸 | His mind was full to bursting. |
+| scraps of | 碎片 | Scraps of memory. |
+| laid down | 存下、积累 | Riffs laid down over years. |
+| etudes | 练习曲 | Violin etudes. |
+| piano roll | 钢琴卷 | Fats Waller on piano roll. |
+| juke-box tunes | 点唱机曲目 | Juke-box tunes. |
+| ballads | 歌谣 | A slow ballad. |
+| gramophones | 留声机 | A 78 on the gramophone. |
+| mentored | 指导 | He was mentored by Monk. |
+| revered | 崇敬 | He revered his heroes. |
+| toting | 背着（口语） | Toting his sax. |
+| alto sax | 中音萨克斯 | The alto sax. |
+| improvisations | 即兴 | Jazz improvisations. |
+| drew on | 取材于 | He drew on his memories. |
+| playing quotes | 演奏引用 | He quoted old melodies. |
+| rhythmic | 节奏的 | Rhythmic variations. |
+| harmonic | 和声的 | Harmonic changes. |
+| variations | 变奏 | Jazz variations. |
+| aria | 咏叹调 | An opera aria. |
+| cheeky | 俏皮的 | A cheeky riff. |
+| half-heard | 半闻其声 | A half-heard melody. |
+| riff | 连复段 | A guitar riff. |
+| natural unity | 天然统一 | A natural unity. |
+| with his mind a blank | 脑海空白 | His mind a blank. |
+| a fresh thought | 新念头 | A fresh thought. |
+| subconsciously | 无意识 | He played subconsciously. |
+| a thing with | 特殊缘分（俚语） | He has a thing with his horn. |
+| communion | 交融 | A communion with music. |
+| had to flee | 不得不逃离 | They had to flee. |
+| higher powers | 更高力量 | Trust the higher powers. |
+| bebop | 比波普 | Bebop in the 1940s. |
+| pigeonholed | 被贴标签 | Refused to be pigeonholed. |
+| intricacy | 精巧 | The intricacy of the solo. |
+| long solos | 长独奏 | Long sax solos. |
+| strictures | 束缚 | The strictures of form. |
+| suited him | 适合他 | The style suited him. |
+| naturally free | 天性自由 | Naturally free. |
+| fused ... with | 融合 | Fuse jazz with calypso. |
+| calypso | 卡利普索 | Calypso rhythms. |
+| in homage to | 向……致敬 | In homage to his mother. |
+| celebrated | 著名的 | A celebrated track. |
+| married it to | 嫁接到 | Married jazz to funk. |
+| funk | 放克 | A funky bass. |
+| collaboration with | 与……合作 | A collaboration with the Stones. |
+| not too proud to | 不至于骄傲到不肯 | Not too proud to play backbeat. |
+| backbeat | 反拍 | A steady backbeat. |
+| got rid of | 摆脱 | He got rid of the pianists. |
+| limited his harmonic range | 限制和声范围 | Limited his range. |
+| trios | 三重奏 | A jazz trio. |
+| faithfully following along | 忠实跟随 | Faithfully following along. |
+| big-picture stuff | 大格局作品 | Big-picture stuff. |
+| came together | 汇聚 | Everything came together. |
+| unification | 统合 | The unification of music. |
+| all one | 一切皆一 | Music is all one. |
+| serenity | 宁静 | His serenity. |
+| disguised | 掩盖 | Disguised his pain. |
+| rough road | 坎坷之路 | A rough road to fame. |
+| saw ... as his Messiah | 视为救世主 | Saw Parker as his Messiah. |
+| was on drugs | 吸毒 | He was on drugs. |
+| used heroin | 吸海洛因 | He used heroin. |
+| end up playing like that | 最终演奏成那样 | End up playing like Bird. |
+| all it did was | 仅有的效果是 | All it did was hurt. |
+| set him to stealing | 让他偷窃 | Set him to stealing. |
+| served ten months | 服刑十个月 | Served ten months in jail. |
+| Rikers Island | 赖克斯岛 | He was held at Rikers. |
+| rehabilitation | 戒毒康复 | Tough rehabilitation. |
+| was clean again | 戒毒成功 | He's been clean for years. |
+| stayed that way | 保持那样 | He stayed clean. |
+| It was ... who | 正是……（强调） | It was Bird who saved him. |
+| set him thinking | 让他思考 | That set me thinking. |
+| considered ... as | 视为 | Considered music as a gift. |
+| in seventh heaven | 如登七重天 | She was in seventh heaven. |
+| reveled in | 尽情享受 | He revelled in the applause. |
+| down days | 低落的日子 | We all have down days. |
+| giving back to | 回馈给 | Give back to the community. |
+| to mangle | 曲解 | To mangle a phrase. |
+| Golden Rule | 金律 | The Golden Rule. |
+| doing unto others | 待人 | Do unto others. |
+| karma | 业力 | His karma. |
+| inconsequential | 微不足道的 | An inconsequential world. |
+| multitudes of | 众多的 | Multitudes of admirers. |
+| gift and glory | 馈赠与荣光 | Gift and glory enough. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| abutments | 桥台 |  |
+| steelwork | 钢结构 |  |
+| ashram | 修行道场 |  |
+| cognac | 干邑 |  |
+| climbed up | 爬上去 |  |
+| tenor saxophone | 次中音萨克斯 |  |
+| percussive | 打击感 |  |
+| onstage | 在台上 |  |
+| Broadway ballad | 百老汇歌谣 |  |
+| Village Vanguard | 村先锋俱乐部 |  |
+| Freedom Suite | 自由组曲 |  |
+| Way Out West | 荒野西部 |  |
+| Tattoo You | 纹身你（滚石专辑） |  |
+| calypso | 卡利普索 |  |
+| St Thomas | 圣托马斯 |  |
+| Saxophone Colossus | 萨克斯巨擘（专辑） |  |
+| Blue 7 | 蓝色 7 号（曲目） |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bridge | 桥 |  |
+| river | 河 |  |
+| winter | 冬天 |  |
+| gloves | 手套 |  |
+| ocean | 海洋 |  |
+| stars | 星星 |  |
+| pianists | 钢琴手 |  |
+| a drummer | 鼓手 |  |
+| a bassist | 贝斯手 |  |
+| albums | 专辑 |  |
+| jazz | 爵士乐 |  |
+| the saxophone | 萨克斯 |  |
+| heroin | 海洛因 |  |
+| stolen | 偷窃 |  |
+| jail | 监狱 |  |
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -1521,3 +1502,4 @@
 | `keep on pushing` | 不断推进 | Keep on pushing your limits. |
 | `to mangle a phrase` | 曲解一句话 | To mangle a well-known saying. |
 | `gift and glory enough` | 足矣 | For me, that was gift and glory enough. |
+
