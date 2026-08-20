@@ -1260,7 +1260,7 @@
 | wrecking-ball | 拆楼球 |  |
 | semiquincentennial | 二百五十周年 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 4（三组并列主语 + even as 从句）
 
@@ -1314,13 +1314,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by and large、scarred by、demolishing、herald、retraced、trove of、degenerating into、gripped by、vicious partisanship、give and take、gerrymandering、struck down、birthright citizenship、flocking to、source of vitality、validation of、unalterable、accomplish、capacity for、soured、net migration、sinks towards、forebears、throwback、retreating from、despotism、contempt for、misguidedly、spill blood、throwing weight around、off the agenda、extracting concessions、dependants、in decline、strikes as、grave misreading、immense、beyond all recognition、unabated、dysfunctional、mobilised、utterly dominant、bound to、rub off on、formidable、antagonised、bleak choice、submitting to、siding with、authoritarian、amasses、awesome、tainted、cynicism、overwhelming、foster、predatory、fanned by、zealots、entrenched、upheaval、lies ahead、emboldened、coerce、descend into chaos、attest、corollary、reinvention、spurred、charge ahead、roused、set about、one way or another、unsustainable、social contract、sterile、mutual contempt、light up、restlessness、sinking into stagnation、precondition、creative destruction、precedes、time and again、richly rewarded
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `Glorious disorder created a dynamism` — 光荣的混乱创造了活力（核心命题）
 2. `All those syllables rebut the founders' gloom` — 那么多音节反驳了建国者的悲观
@@ -1348,7 +1344,7 @@ semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by a
 24. `a precondition for the creative destruction that precedes the nation's renewal` — 国家新生前创造性破坏的前提
 25. `build their great experiment on the wisdom of the people` — 把伟大实验建立在人民智慧之上
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **倒装句**：`Such has been the dance`（such 前置倒装）
 - **It was not until ... that**：`It was not until midnight that...`（本段无此结构，但注意 not...until）
@@ -1364,7 +1360,7 @@ semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by a
 - **让步句**：`however much they have been antagonised`、`huge as they were`（倒装让步）
 - **被动语态表强调**：`that faith has been richly rewarded`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 4：三组并列主语 + even as 从句
 - 原句 15：多重同位语链
@@ -1372,7 +1368,7 @@ semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by a
 - 原句 25：that 同位语 + what 主语从句嵌套
 - 原句 64：that 表语从句 + 从句内 that 宾语从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"矛盾修辞"立论**：`Glorious disorder`（光荣的混乱）——把贬义词与褒义词组合，用一句话提出核心命题（混乱=活力）。这种"自相矛盾"的短语极易记忆，是社论的点睛之笔
 2. **首尾呼应**：第 1 段"the founders feared"与第 17 段"the founders would be worried today"呼应；副标题 restlessness 与第 16 段 restlessness 呼应；experiment（第 1 段）在第 12 段 the great experiment 再现——结构闭环
@@ -1383,7 +1379,7 @@ semiquincentennial、rebut、gloom、succumbing to、dynamism、sustained、by a
 7. **对仗排比**：`Slavery and xenophobia, corruption and robber barons, civil war and world war`、`fiscally / biologically / politically unsustainable`、`do better and be better`——三连排比增强节奏
 8. **"宣言式"收尾**：以 faith、rewarded 结尾——把政治评论升华为信仰宣言，给读者以希望
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

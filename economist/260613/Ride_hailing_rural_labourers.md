@@ -645,7 +645,7 @@
 | intends to | 打算 | Intends to retire. |
 | has no trouble | 毫不费劲 | Has no trouble becoming a resident. |
 
-## 四、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 1）：**
 > FEW CITIES in the world have been kinder to migrant workers than Shenzhen.
@@ -682,23 +682,9 @@
 >
 > **整体理解：** only to（结果却）反转预期——"进城却没留下"的悖论——2025 年创纪录规模。---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本课核心词汇 / 表达清单
-
-**饱和 / 过剩语境：**
-- saturated / over-supply / a cabbie glut / flooded with / reaching its limits / a top fallback
-
-**移民 / 城市化语境：**
-- migrant workers / megacity / sleepy town→megacity / urban sprawl / entrepot / the interior / a top destination / up sticks
-
-**经济 / 就业语境：**
-- subsistence levels / minimum fare / in rough shape / jobs per yuan（无，本篇用 wait tables/drive cars）/ service industry / the main engines of growth
-
-**高分动词：**
-- pour in（涌入）/ funnel ... to（引流）/ flood（淹没）/ boost（提振）/ absorb（吸纳）/ fuel（充能）
-
-### 2. 精读中重点掌握的语法
+### 1. 精读中重点掌握的语法
 
 - **FEW + 否定式最高级**：FEW cities ... kinder than Shenzhen（原 1）
 - **被动 + when 背景**：was built by ... when ...（原 2）
@@ -709,11 +695,11 @@
 - **among 前置倒装**：Among them is Mr Li（原 33）
 - **whether A or B 让步**：whether they wait tables or drive cars（原 26）
 
-### 3. 长难句提示
+### 2. 长难句提示
 
 见"四"。重点：of 长句（2）、with 长句（3）、only to（32）、whether（26）。
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 **本课特色——"小切入 + 大政策 + 个体收尾"的人物通讯结构：**
 
@@ -726,7 +712,7 @@
 7. **政策史反转（Once ... But）**：中小城市分流旧案 → 大城市回流新政——城市化叙事的转折点。
 8. **个体故事收尾**：Mr Li 十年攒钱回乡——数字之上加"人"——结尾有余味。
 
-### 5. 可迁移表达的"英语思维"
+### 4. 可迁移表达的"英语思维"
 
 - 想说"好景到头"：**Shenzhen is reaching its limits**。
 - 想说"市场已经饱和"：**The industry is officially saturated / a glut of X**。

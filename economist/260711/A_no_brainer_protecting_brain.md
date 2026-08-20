@@ -691,11 +691,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-insidious、strips ... of、sense of self、dreaded、fan fears、triple、In truth、reverse、A mountain of、stick to、toil tears or sweat、mentally sharp、a course of、shingles、reduce ... by、intervention、contributes to、inflammation、dormant、cost-effective、rationed、upfront costs、eligibility age、makes little sense、efficacy、afflicts、given、relates to、a sprinkling of、jab、randomised trials、boosters、In the meantime、a bargain、long-term care、As for、reduce by one-fifth
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `FEW CONDITIONS are as feared as ...` — 否定极级"最可怕"
 2. `strips people of their sense of self` — 剥夺自我
@@ -717,7 +713,7 @@ insidious、strips ... of、sense of self、dreaded、fan fears、triple、In tr
 18. `a bargain, given the potential savings` — 划算买卖
 19. `a small price to reduce by one-fifth the chances` — 首尾呼应收尾
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **否定极级**：`FEW CONDITIONS are as feared as dementia`
 - **独立主格**：`with the world receding from me`
@@ -731,7 +727,7 @@ insidious、strips ... of、sense of self、dreaded、fan fears、triple、In tr
 - **分词状语**：`taking into account only ...` / `activating it against other bugs`
 - **引语 + 破折号/冒号**：冒号后同位语总结（a bargain）
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2（since 原因从句 + 双谓语）
 - 原句 3（引语 + 并列谓语 + 多重同位语）
@@ -740,7 +736,7 @@ insidious、strips ... of、sense of self、dreaded、fan fears、triple、In tr
 - 原句 20（that 表语从句 + which 定语从句 + while 从句）
 - 原句 34（双宾语 + 冒号同位语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **标题双关**：`no-brainer`（不费脑的决定）双关"大脑"（protecting your brain）——一个标题同时给出结论（该打）与主题（大脑），是《经济学人》式的机敏
 2. **首尾呼应的情感线**：开篇普拉切特"the world receding from me in every direction"（世界退去）→ 结尾"a small price to reduce ... the chances of having the world recede in every direction"——用患者的原话作全篇的情感锚点，让"打疫苗"这个理性建议带上温度
@@ -750,7 +746,7 @@ insidious、strips ... of、sense of self、dreaded、fan fears、triple、In tr
 6. **经典修辞的化用**：`toil, tears or sweat` 改造丘吉尔"blood, toil, tears and sweat"——用读者熟悉的经典名言变形制造反差（大事业要血泪汗，这个不用）
 7. **拟人化幽默**：`before your brain will thank you`（大脑会感谢你）、`gives the immune system a firm kick up its B-cells`（踢 B 细胞一脚）——把抽象机制说得鲜活，保持科普可读性
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

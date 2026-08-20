@@ -389,20 +389,45 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| at once A and B | 同时是 | 恋人朋友家人 || customised to mimic | 定制模仿 | AI 模拟亡友 || so depressed that | 沮丧到 | 辞职 || strip A from B | 剥离 | 去除人形角色 || human-like personas | 人形角色 | 聊天机器人 || comply with | 遵守 | 新规 || banned outright | 彻底禁止 | 未成年人 || turning A into B | 变成 | 通用机器人变伙伴 || at one's expense | 由某人出钱 | 虚拟礼物 || making a tidy sum | 大赚 | 情感变现 || accounted for | 占 | 35% 收入 || sticky relationships | 黏性关系 | 留存 || part with money | 掏钱 | 订阅 || provisions for | 条款 | 民事诉讼 || impose penalties | 施罚 | 政府执法 || on the understanding that | 基于……的理解 | 排除工具型 AI || emotionally unavailable | 情感不可用 | 工具型机器人 || vulnerable to | 易受伤害 | 平台依赖 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| confidant | 知己 | AI 代理 || infatuated | 痴迷的 | 防止用户迷恋 || a no-no | 禁忌 | 色情内容 || bespoke | 定制的 | 定制应用 || plummeting | 骤降 | 生育率 || unsettle | 使不安 | 领导层 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| spur | 刺激 | 生育 |### 2. 本文核心表达
 
-1. `he is at once "a lover, a friend and family"` —— at once A and B
-2. `so depressed that she left her job` —— so...that 程度结果
-3. `stripping human-like personas from their chatbots` —— 剥离人形
-4. `the first of their kind to be implemented` —— 同类首创
-5. `turning general-purpose chatbots into companions by prompting them` —— 改造 + 方式
-6. `making a tidy sum selling emotional connection` —— 情感商品化
-7. `part with their money` —— 掏钱
-8. `protect users ... from becoming addicted and from being driven to` —— 双层保护
-9. `do very little to spur more babymaking` —— 对生育无用
-10. `willing to pay some cost in development and profits` —— 愿意付出代价
-11. `on the understanding that they are emotionally unavailable` —— 心理学术语双关
-12. `leave herself vulnerable to such platforms` —— 暴露于脆弱
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| at once A and B | 同时是 | 恋人朋友家人 |
+| customised to mimic | 定制模仿 | AI 模拟亡友 |
+| so depressed that | 沮丧到 | 辞职 |
+| strip A from B | 剥离 | 去除人形角色 |
+| human-like personas | 人形角色 | 聊天机器人 |
+| comply with | 遵守 | 新规 |
+| banned outright | 彻底禁止 | 未成年人 |
+| turning A into B | 变成 | 通用机器人变伙伴 |
+| at one's expense | 由某人出钱 | 虚拟礼物 |
+| making a tidy sum | 大赚 | 情感变现 |
+| accounted for | 占 | 35% 收入 |
+| sticky relationships | 黏性关系 | 留存 |
+| part with money | 掏钱 | 订阅 |
+| provisions for | 条款 | 民事诉讼 |
+| impose penalties | 施罚 | 政府执法 |
+| on the understanding that | 基于……的理解 | 排除工具型 AI |
+| emotionally unavailable | 情感不可用 | 工具型机器人 |
+| vulnerable to | 易受伤害 | 平台依赖 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| confidant | 知己 | AI 代理 |
+| infatuated | 痴迷的 | 防止用户迷恋 |
+| a no-no | 禁忌 | 色情内容 |
+| bespoke | 定制的 | 定制应用 |
+| plummeting | 骤降 | 生育率 |
+| unsettle | 使不安 | 领导层 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| spur | 刺激 | 生育 |
 
 ### 3. 重要语法
 

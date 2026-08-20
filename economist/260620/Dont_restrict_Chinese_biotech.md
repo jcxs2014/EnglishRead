@@ -447,7 +447,7 @@
 | gene | editing — 基因编辑 |  |
 | biosecurity | — 生物安全 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 3）
 
@@ -517,11 +517,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"产业政策 + 国家安全"论辩文本，词汇集中在：**限制与管控**（restriction, targeted, blanket, scrutinise, sanction）；**产业角色**（contract research, CDMO, pipelines, account for）；**负面影响**（undermine, deprive, ripple through, breed resentment）；**论辩词**（legitimate, scaremongering, security panic, double tragedy）。掌握这组词，可应对"科技战与产业政策"类文章。
+## 三、精读结束总结
 
 ### 表达方式
 

@@ -1202,18 +1202,41 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| manosphere | 男性圈（网络男权社区） | ⭐⭐⭐ || misogyny / misogynist | 厌女（者） | ⭐⭐⭐ || feminism / feminist | 女权主义（者） | ⭐⭐⭐ || patriarchal | 父权的 | ⭐⭐⭐ || masculinity | 男性气质 | ⭐⭐⭐ || backlash | 强烈反弹 | ⭐⭐⭐ || opprobrium | 公开谴责（书面） | ⭐⭐ || vitriol | 尖酸刻薄的话 | ⭐⭐⭐ || demographic | 人口结构的 | ⭐⭐⭐ || surplus | 过剩 | ⭐⭐⭐ || ratio | 比率 | ⭐⭐⭐ || bride price | 彩礼 | ⭐⭐⭐ || matchmaker | 媒人 | ⭐⭐⭐ || precarity | 不稳定性（社会学） | ⭐⭐⭐ || insidious | 阴险的（书面） | ⭐⭐⭐ || lightning rod | 众矢之的 | ⭐⭐⭐ || archetypal | 原型的、典型的 | ⭐⭐⭐ |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| tellingly | 很能说明问题地 | ⭐⭐⭐ |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| 词汇 | 词性/含义 | 级别 || rant | 咆哮、怒斥 | ⭐⭐⭐ || doxx | 开盒、人肉曝光 | ⭐⭐⭐ |### 二、核心表达（10 个）
 
-1. `get a flavour of` 体会……的风味（写作开头神器）
-2. `cast A as B` / `portray A as B` 把……描绘成（全文 4 次出现，定性叙事动词）
-3. `blame A on B` 把 A 归咎于 B（= blame B for A）
-4. `be resigned to (doing)` 对……认命
-5. `set the scene for` 为……埋下伏笔
-6. `crack down on` 严厉打击
-7. `China's answer to X` 中国的 X 对应物
-8. `throw sth off kilter` 使……失衡
-9. `the odds are stacked against sb` 形势对某人极为不利
-10. `wring sb dry` 榨干某人
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| manosphere | 男性圈（网络男权社区） | ⭐⭐⭐ |
+| misogyny / misogynist | 厌女（者） | ⭐⭐⭐ |
+| feminism / feminist | 女权主义（者） | ⭐⭐⭐ |
+| patriarchal | 父权的 | ⭐⭐⭐ |
+| masculinity | 男性气质 | ⭐⭐⭐ |
+| backlash | 强烈反弹 | ⭐⭐⭐ |
+| opprobrium | 公开谴责（书面） | ⭐⭐ |
+| vitriol | 尖酸刻薄的话 | ⭐⭐⭐ |
+| demographic | 人口结构的 | ⭐⭐⭐ |
+| surplus | 过剩 | ⭐⭐⭐ |
+| ratio | 比率 | ⭐⭐⭐ |
+| bride price | 彩礼 | ⭐⭐⭐ |
+| matchmaker | 媒人 | ⭐⭐⭐ |
+| precarity | 不稳定性（社会学） | ⭐⭐⭐ |
+| insidious | 阴险的（书面） | ⭐⭐⭐ |
+| lightning rod | 众矢之的 | ⭐⭐⭐ |
+| archetypal | 原型的、典型的 | ⭐⭐⭐ |
+| doxx | 开盒、人肉曝光 | ⭐⭐⭐ |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| tellingly | 很能说明问题地 | ⭐⭐⭐ |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| 词汇 | 词性/含义 | 级别 |
+| rant | 咆哮、怒斥 | ⭐⭐⭐ |
 
 ### 三、重要语法
 

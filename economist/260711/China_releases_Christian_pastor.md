@@ -318,7 +318,7 @@
 | Zion | 锡安（圣经地名） | — |
 | house church | 家庭教会（术语） | — |
 
-## 五、长难句专项
+## 四、长难句专项
 
 ### 🔍 句子 1：**S6**（上文已展开）
 > He also spoke about Jimmy Lai, a pro-democracy tycoon serving 20 years in a Hong Kong jail for "conspiracy to collude with foreign forces".
@@ -337,7 +337,7 @@
 
 ---
 
-## 六、英语思维训练（🇬🇧 vs 中文习惯）
+## 五、英语思维训练（🇬🇧 vs 中文习惯）
 
 1. **标题现在时**：中文标题说"中国释放……"，英文标题用一般现在时 releases 制造即时感；正文立刻切换完成时。中文没有"标题时态"这个概念，容易忽视。
 
@@ -351,12 +351,9 @@
 
 ---
 
-## 七、精读结束总结
+## 六、精读结束总结
 
-### 1. 本文核心词汇（最值得掌握）
-prominent、influential、detention（detain/detainee）、release from、crackdown (on)、authorities、pastor、broaden、reach (n.)、shut down、raise A with B、case、tycoon、serve a sentence、conspiracy、collude/collusion、reportedly、remain、locked up、pro-democracy（pro- 前缀）
-
-### 2. 本文核心表达（最值得记忆的短语/句型）
+### 1. 本文核心表达（最值得记忆的短语/句型）
 1. `One of the most + 形容词 + 复数名词`（"最……之一"的英文结构，注意复数）
 2. `be released from detention`（从拘留中获释）
 3. `in a crackdown on + 目标`（对……的打击行动中）
@@ -366,7 +363,7 @@ prominent、influential、detention（detain/detainee）、release from、crackd
 7. `serve 20 years in jail for + 罪名`（因……服刑）
 8. `remain + 过去分词`（仍然处于……状态）
 
-### 3. 重要语法
+### 2. 重要语法
 - 新闻导语现在完成时 vs 背景句一般过去时（**有明确时间点用过去时**）
 - 标题一般现在时（headline present）
 - 同位语（appositive）与缩减式定语从句（known as = who is known as）
@@ -376,12 +373,12 @@ prominent、influential、detention（detain/detainee）、release from、crackd
 - 替代词 one（a tough one）
 - 名词作定语（a Hong Kong jail）
 
-### 4. 最值得重读的长难句
+### 3. 最值得重读的长难句
 - S6（同位语 + 分词 + 双介词短语）
 - S4（从句 + 主句 + 分词结果状语，代词追踪）
 - S1 与 S2 的时态对照
 
-### 5. 写作技巧
+### 4. 写作技巧
 - **倒金字塔 + 时间倒流**：先给结论，再逐层回放背景
 - **代词纪律**：人名全称首次出现，之后用 he/his/Mr
 - **同义换词**：raised → spoke about，避免动词重复
@@ -389,7 +386,7 @@ prominent、influential、detention（detain/detainee）、release from、crackd
 - **对比收尾**：结尾一句与其他牧师对比，把结论留给读者——"让事实说话"
 - **紧凑信息**：一个句子完成"是谁 + 在做什么 + 为什么"三重任务
 
-### 6. 可迁移表达（按场景标注）
+### 5. 可迁移表达（按场景标注）
 | 表达 | 适用场景 |
 |---|---|
 | `One of the most influential + N` 开篇 | 学术写作 / 新闻导语：引出重要人物或事物 |

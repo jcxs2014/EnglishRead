@@ -585,7 +585,7 @@
 | urge | v. 敦促 |  |
 | delay | v. 拖延 |  |
 
-## 五、长难句专项
+## 四、长难句专项
 
 ### 长难句1：第19句（双主体同位语长句）
 > On the face of it, Sudan's war is a conflict between two main belligerents: the Sudanese Armed Forces (SAF), the country's regular army and de facto government; and the Rapid Support Forces (RSF), a rich and well-equipped militia.
@@ -608,7 +608,7 @@
 - **翻译**：由特朗普先生那位分身乏术的非洲特使马萨德·布洛斯提出的"人道主义停火"，在战线相对静止的情况下，更有机会维持得住。
 - **可模仿点**：主语 + 多重后置修饰 + 谓语的结构是报刊英语的常态。写作时先确定主干（truce has a better chance），再按"谁提出→什么身份→什么条件"的顺序往主干上挂修饰成分；修饰较多时用同位语拆解，避免全部堆成定语从句。
 
-## 六、精读结束总结
+## 五、精读结束总结
 
 **核心论点**：苏丹内战是一场被世界忽视的人道灾难，但两个新变化——伊朗战争外溢红海使海湾金主的利益重新受损、政府军取得战场突破——创造了一个渺茫却真实的和平窗口；美欧应抓住雨季带来的一月战事间歇，向海湾盟友施压，促成苏丹和谈并纳入中东整体和解，以阻止"索马里式"碎片化。
 
@@ -623,7 +623,7 @@
 5. **短句收束**：第4、9、28、50、57句都是短句，分别承担"定格画面""收束段落""呼吁行动"的功能——长短句节奏是报刊文体的灵魂
 6. **路标词**：The second factor、True...But...、Now、Moreover——让读者始终跟得上论证地图
 
-## 七、可迁移表达（12个）
+## 六、可迁移表达（12个）
 
 1. **be deep into its fourth year** —— 进入第四个年头（"deep into + 时间"强调持续时间之长）
    *例句：The pandemic is now deep into its third year, and recovery remains uneven.*

@@ -947,11 +947,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-gloomy、lay blame at the door of、unaffordable housing、extortionate、frays、scapegoat、council housing、below-market rents、crumbling、far from being、wasteful、a barrier to growth、deemed、means test、rent subsidy、implicit subsidy、on welfare、bonanza、tenancies、for life、inherited、high earners、ultra-cheap、stingy、foists ... on、feast and famine、mobile、frozen in place、blocking ... from、raise ... to market rates、means-tested benefits、evict、pinning ... to、bricks and mortar、phased in、free up、housing woes、put up more homes、obstructive、gummed ... up、pick up the pace、veto、unprofitable、entertaining、On the contrary、undue weight、cuddly-sounding、toxic、green belt、chokes off、wasteland、scrap、sub-market rents、tonic
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `lay blame at the locked door of` — 归咎于锁着的门（双重隐喻）
 2. `where the good jobs are` — 好工作所在（地点）
@@ -972,7 +968,7 @@ gloomy、lay blame at the door of、unaffordable housing、extortionate、frays�
 17. `chokes off housebuilding, even on wasteland` — 连荒地都掐死
 18. `sounds harsh, but would act like a tonic` — 苦口良药
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **双重隐喻**：`lay blame at the locked door of`
 - **far from + 动名词**：`far from being "the foundation for everything"`
@@ -986,7 +982,7 @@ gloomy、lay blame at the door of、unaffordable housing、extortionate、frays�
 - **被动语态陈述**：`was recently found to have` / `has been failed by`
 - **not ... merely ... 澄清**：`not to evict tenants, merely to charge them`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 3（被动 + at the door of 隐喻）
 - 原句 15（far from being + as 从句 + 三谓语）
@@ -995,7 +991,7 @@ gloomy、lay blame at the door of、unaffordable housing、extortionate、frays�
 - 原句 41（as and when 从句 + instead of 动名词）
 - 原句 49（双宾语 + 双定语从句）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **观点逆流**："England needs fewer council homes, not more"——直接与"建更多公房"的政治正确唱反调，用 `not more` 的句式制造张力；标题就是结论
 2. **数据先行的反驳**：不空喊"不该建"，而是先给 16% 占比（G7 最高）、伦敦区 40%、富人占 10%+、60% 公房成年人无业、塞拉利昂总统夫人案例——用一组数据+一个极端案例推翻"太少"的直觉
@@ -1005,7 +1001,7 @@ gloomy、lay blame at the door of、unaffordable housing、extortionate、frays�
 6. **比喻系统贯穿**：危楼加盖（建筑）、磨损社会契约（织物）、被冻住（冰）、卡住（胶）、掐死（咽喉）、补药（医疗）——全文用多样而一致的意象让政策讨论生动
 7. **稳妥性修饰**：`phased in gradually` / `give people time to adjust` ——激进主张配合安抚性修饰，减少读者抵触
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

@@ -1062,7 +1062,7 @@
 | share | n. 占比、份额 |  |
 | total | n. 总量 |  |
 
-## 五、长难句专项
+## 四、长难句专项
 
 **1. 句 1（开头类比句）**
 > JUST AS FRONTIER artificial-intelligence models are benchmarked against each other, so AI will itself benchmark the rival political systems of America and China.
@@ -1088,7 +1088,7 @@
 - **翻译**：补习和游戏行业就是这样——当党认定它们危害太大时，这些行业一夜之间陷入混乱。
 - **可模仿点**：用 "That is what happened with X" 引出案例；同位语 + 过去分词短语把"行业命运"压成名词短语，是新闻英语的高密度表达。
 
-## 六、精读结束总结
+## 五、精读结束总结
 
 - **核心论点**：AI 是检验中美政治体制的"基准测试"；中国在模型、算力、部署上快速追赶（有体制优势），但威权体制在消化 AI 的社会冲击时政策选项有限，可能陷入"放任—干预"的循环、损害创新——而民主国家更擅长社会重塑。
 - **写作结构**：总分总 + 双线推进。总论点（P1）→ 优势线（P3-6 供给、P7-9 部署）→ 问题线（P10-15 社会风险与政策局限）→ 结论（P16）。每段内部大量使用"让步-反驳"（Although/However/Yet/In fact）与"先立靶再打靶"（common perception / You might think）。
@@ -1099,7 +1099,7 @@
   4. 数据 + 案例 + 第三方引用的论证密度（95%、446,000、three times、going by one firm's experience）
   5. 用词的态度性（handouts、加括号的 (inferior)、cautious officials）——看似客观实则立场鲜明，是精读时最值得品味的"暗语"
 
-## 七、可迁移表达
+## 六、可迁移表达
 
 1. **Just as A, so B** —— 正如 A……，B 也同样……
    例：Just as cars reshaped cities, so AI will reshape the labour market.

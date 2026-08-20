@@ -429,7 +429,7 @@
 | a | single dominant industry — 单一主导产业 |  |
 | an | act of submission — 屈从行为 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 3）
 
@@ -497,11 +497,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"城市发展特写"文本，词汇集中在：**宜居与舒适**（liveable, appeal, gentler pace, consolations）；**约束与代价**（constraint, tight grip, blacklist, slip-up）；**选择与权衡**（trade-off, rational choice, retreat, ambition）；**比较与程度**（a fraction of, a third of, a growing number of）。这组词是分析"宜居城市/城市化选择"话题的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

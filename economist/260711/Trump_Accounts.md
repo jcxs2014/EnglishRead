@@ -649,11 +649,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-show up、financial statements、handouts、partisan、grubby、qualify、Roping in、chip in、a whiff of、cronyism、unsavoury、execution、worth watching、equity stakes、sound in principle、well-timed、face up to、looming、disruption、admittedly、make a dent in、undermines the notion、wanes、profess、soaking the rich、free enterprise、a personal stake in、versus、build on、financial literacy、turmoil、vast returns、forestall、runaway inequality、political instability、run the show、philanthropy、voluntarily、deficit-financing、immediate consumption、microscopic、outlast、get behind
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `putting his name on things` — 贴名（品牌化）
 2. `(with permission) to ... (without)` — 括号对比的幽默
@@ -678,7 +674,7 @@ show up、financial statements、handouts、partisan、grubby、qualify、Roping
 21. `outlast the president's term` — 比总统任期活得更久
 22. `get behind` — 支持
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **from A to B + 括号对比**：`from Manhattan skyscrapers (with permission) to Washington's Kennedy Centre (without)`
 - **see + 宾语 + 省略 to 不定式**：`seeing the president's name show up`
@@ -693,7 +689,7 @@ show up、financial statements、handouts、partisan、grubby、qualify、Roping
 - **冒号列举**：`: they are also partisan, grubby and funded mostly by borrowing`
 - **比较结构**：`more enthusiasm for socialism than capitalism` / `versus just 3%`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 5（冒号列举三宗罪）
 - 原句 7（动名词主语 + 定语从句）
@@ -703,7 +699,7 @@ show up、financial statements、handouts、partisan、grubby、qualify、Roping
 - 原句 22-23（AI 悲观预测的因果）
 - 原句 24（Instead of 动名词复合结构）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"两声喝彩"的论证框架**：标题即结论（two cheers = 有条件支持），正文先给两分批评（党派/粗鄙/借债）再给一分肯定（原理/时机/AI 预防）——**批评与表扬分明的"评分制"结构**，体现《经济学人》"不盲从"的立场
 2. **先抑后扬的转折枢纽**：`However, beneath the unsavoury execution there sits an experiment worth watching` —— 用"外壳/内核"的空间隐喻把"坏执行"与"好想法"切开，这是评论"烂政策里的好主意"的标准手法
@@ -713,7 +709,7 @@ show up、financial statements、handouts、partisan、grubby、qualify、Roping
 6. **习语与口语的灵活运用**：`chip in`（凑钱）、`make a dent in`（啃下一块）、`how deep their pockets are`（荷包多深）、`soaking the rich`（宰富人）、`run the show`（唱主角）——用鲜活习语替代干巴巴的政策术语，让社论可读
 7. **承认缺点的坦率**：`admittedly`（诚然）、`is not ideal, but`、`not the only Trumpy thing`——作者主动列举缺点再辩护，这种"自曝其短"反而增强说服力
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

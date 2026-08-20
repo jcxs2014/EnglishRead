@@ -668,7 +668,7 @@
 | missiles | — 导弹 |  |
 | ceasefire | — 停火 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 13）：**
 > Iran's people are suffering misery, penury and power cuts, but the latest attacks suggest that their rulers would rather risk a return to full-scale conflict than accept a peace deal on Mr Trump's terms.
@@ -700,23 +700,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本课核心词汇 / 表达清单
-
-**战争 / 军事语境：**
-- completely defeated、retaliatory strikes、full-scale conflict、downed、triumphal arch
-
-**地缘 / 能源语境：**
-- garrotte the supply、Strait of Hormuz、chokehold、oil infrastructure、energy crunch、pain at the pump
-
-**谈判 / 外交语境：**
-- peace terms、makeshift pact、sweeteners、haggling over、on ... terms、least bad option
-
-**人物 / 政治语境：**
-- hardliners、hawks、proxy militia、midterm elections、in the run-up to
-
-### 2. 精读中重点掌握的语法
+### 1. 精读中重点掌握的语法
 
 - **would rather do A than do B**：宁愿……也不……（原 13）
 - **in the belief that 同位语从句**：（原 21）
@@ -726,11 +712,11 @@
 - **less ... than / least bad 权衡比较**：（原 34）
 - **despite sb doing 动名词结构**：despite Mr Trump telling it not to（原 8）
 
-### 3. 长难句提示
+### 2. 长难句提示
 
 见"四"。重点练原 13 的 would rather ... than、原 21 的三并行不定式、原 31 的多层展望、原 35 的 For all 让步。
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 **本课最大写作亮点——"反讽与现实主义"的双重笔法：**
 
@@ -741,7 +727,7 @@
 5. **反讽收尾**：凯旋门（triumphal arch）vs 惨重代价（cost dearly）——战争没赢先设想凯旋。
 6. **语境借代**：pain at the pump（加油泵代油价）——把抽象油价变具体痛感。
 
-### 5. 可迁移表达的"英语思维"
+### 4. 可迁移表达的"英语思维"
 
 - 想说"他陷入了多重困境"：**in a triple bind**——比 in trouble 精确。
 - 想说"电产量卡死"：**garrotte the supply** / have a **chokehold** on——暴力动词渲染。

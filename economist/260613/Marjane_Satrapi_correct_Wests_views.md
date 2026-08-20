@@ -848,7 +848,7 @@
 | purse（ | purses） |  |
 | sleeping | around（滥交） |  |
 
-## 十一、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 18）：**
 > Everyone recited the same politico-religious nonsense, especially during the war with Iraq, when the martyrs (their bodies dissolving into ghosts, with the golden keys to paradise swinging round their necks) were honoured with twice-daily breast-beatings.
@@ -859,22 +859,16 @@
 
 ---
 
-## 十二、精读结束总结
+## 四、精读结束总结
 
-### 1. 核心词汇
-- **双重生活**：two lives / dichotomy/ hypocrisy / lived two lives
-- **革命/神权**：mullah-ruled, veil, beard, politico-religious nonsense
-- **权力/反抗**：outrage, politicise, rebellious, resisting
-- **漫画/语言**：graphic novel, drawing nailed them, first language of humans
-
-### 2. 重点语法
+### 1. 重点语法
 - **It form 主语 + that 从句**：It was clear that Marji...
 - **when 让步/时间**：when writing was too hard
 - **with 状语 + 独立结构**：with the tiny nicks / in panic
 - **not only ... but also**：not only preserve ... but explain
 - **summed up as**: 三词概括（veil and beard and nuclear weapon）
 
-### 3. 写作技巧
+### 2. 写作技巧
 1. **“从童年到讣告”的生命线叙事**：十岁革命 → 画面记忆（Persepolis） → 成年出国 → 回归创作 → 去世。
 2. **“双面人格”的生存写照**：Iran vs Austria —— 公开念口号 vs 私下酗酒跳舞。
 3. **“历史人物”的小人维度**：把伟大事件还原到“面纱、胡子、核弹”的日常感官细节。
@@ -883,7 +877,7 @@
 6. **“结尾对称”**：首卷封面“蒙面怒童” vs 末卷封面“无面纱、头发焦香”——闭环反转。
 7. **“元结构引言”**：从“讣告副标题”（Veil and beard and nuclear weapon）切入整篇政治讨论 —— 副标题即大纲。
 
-### 4. 可迁移表达
+### 3. 可迁移表达
 - **描述“双重生活”**：*In mullah-ruled X, she lived two lives.*  
 - **形容“权威胡说”**：*recited the same politico-religious nonsense.*  
 - **说“自由受限”**：*So much for my individual and social liberties.*  

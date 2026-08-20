@@ -567,7 +567,7 @@
 | emergency services | 应急部门 |  |
 | textbook example | 典型范例 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 4（三重被动不定式）
 
@@ -621,13 +621,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-bowels、police cordon、blocking traffic、circulating、rumour mill、crashing into、were believed to have been killed、in years、within hours of、virtually all、vanished、state news agency、mention、returned few results、deleted、heavy-handedness、panic about、deep-seated fear、reveal damaging、mangled、response times、emergency services、embarrassing、clamped down、characteristic speed、censors、fits a pattern、confronted with、instinct is to、suppress rather than provide、the more the more、hysterically、politically sensitive、the seat of power、the glare of publicity、expose to、long-established、went to extraordinary lengths、banned reporting on、control the narrative、in the case of、backfired、leaks out、more serious than officially admitted、full of speculation、alarming、the facts warrant、in effect、increased rather than reduced、uncertainty、approach to、fundamental attitude、views as、a threat to be managed、a right to be respected、as long as、distrust、official account、textbook example、that dynamic
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `in the bowels of Beijing's second ring road` — 北京二环的地下深处
 2. `the rumour mill said` — 谣言作坊说（信息未证实的标记）
@@ -645,7 +641,7 @@ bowels、police cordon、blocking traffic、circulating、rumour mill、crashing
 14. `The more dramatic the event, the more people will distrust the official account` — 事件越戏剧性，越多人不信任官方说法
 15. `a textbook example of that dynamic` — 那种动态的教科书式例证
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **三重被动不定式**：`were believed to have been killed`
 - **同位语从句**：`the fear that the smallest detail could reveal...`
@@ -659,7 +655,7 @@ bowels、police cordon、blocking traffic、circulating、rumour mill、crashing
 - **冒号解释**：`The incident fits a pattern: ...`
 - **被动语态**：`were deleted`、`were banned`、`was blocking`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 4：三重被动不定式
 - 原句 10：同位语从句 + the way 定语从句嵌套
@@ -667,7 +663,7 @@ bowels、police cordon、blocking traffic、circulating、rumour mill、crashing
 - 原句 23：独立主格结构
 - 原句 26：as 补语对比 + 不定式被动
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **悬念式文学化开场**：`FORTY-FIVE metres below the surface...something dramatic was happening`——用精确深度 + 模糊事件制造悬念，新闻写作的"钩子"技巧
 2. **模糊性是主题**：全文用 `some kind of tunnel`、`the rumour mill said`、`were believed to`、`more serious than officially admitted`——每个模糊表达都在重现"信息真空"，形式与内容统一
@@ -678,7 +674,7 @@ bowels、police cordon、blocking traffic、circulating、rumour mill、crashing
 7. **反讽语气**：`hysterically`（歇斯底里）、`textbook example`（教科书范例）、`characteristic speed`（标志性速度）——用中性词写负面行为，暗藏批判
 8. **三层递进收尾**：态度揭示（25）→ 信息哲学（26）→ 未来预测（27-28）——从分析到预言，余韵悠长
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

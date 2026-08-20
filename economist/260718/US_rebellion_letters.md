@@ -439,18 +439,36 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| too convenient | 图省事的诊断 | 对社论诊断的批评 || as if citizens were merely one constituency | 好像公民只是众多选民之一 | 制度忽视公民的观感 || succumbing to | 屈服于 | 美国未屈服于宗教民族主义 || non-potable / potable | 不可饮用 / 可饮用 | 水源性质差异 || an order of magnitude | 一个数量级 | 潜在无家可归者规模 || one small misfortune away from | 一步之遥 | 贫困家庭脆弱性 || cautionary tale | 警示故事 | 预测之难 || brought to mind | 使想起 | 引乔伊斯名言 || culminating in | 最终促成 | 1956 公路法 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| the links | 高尔夫球场 | 数据中心的用水比较 || reservoir | 蓄水池 | 潜在无家可归者来源 || mea culpa | 认错（拉丁语） | 《经济学人》油价认错 || volitional | 自愿的 | 错误是自愿的 || gruelling | 艰苦卓绝 | 1919 车队 || ordeal | 磨难 | 车队经历 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| spasm | 痉挛/突发 | 反叛不是美国独有痉挛 |### 2. 本文核心表达
 
-1. `The revolt is real enough, but the diagnosis is too convenient` —— 现象与诊断的区分
-2. `Opposition to A is not opposition to B` —— 类目区分句式
-3. `One suspects that ...` —— 第三人称推测
-4. `the most socially efficient explanation` —— 讽刺性"效率"语言
-5. `was handed to voters by institutions that stopped asking for consent` —— 反转归因
-6. `not so much A as B` —— 与其说 A 不如说 B
-7. `one small misfortune away from` —— 距离隐喻
-8. `the Adam Smith of ...` —— 领域祖师爷命名
-9. `are bound to` —— 注定
-10. `portals of discovery` —— 诗意借喻
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| too convenient | 图省事的诊断 | 对社论诊断的批评 |
+| as if citizens were merely one constituency | 好像公民只是众多选民之一 | 制度忽视公民的观感 |
+| succumbing to | 屈服于 | 美国未屈服于宗教民族主义 |
+| non-potable / potable | 不可饮用 / 可饮用 | 水源性质差异 |
+| an order of magnitude | 一个数量级 | 潜在无家可归者规模 |
+| one small misfortune away from | 一步之遥 | 贫困家庭脆弱性 |
+| cautionary tale | 警示故事 | 预测之难 |
+| brought to mind | 使想起 | 引乔伊斯名言 |
+| culminating in | 最终促成 | 1956 公路法 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| the links | 高尔夫球场 | 数据中心的用水比较 |
+| reservoir | 蓄水池 | 潜在无家可归者来源 |
+| mea culpa | 认错（拉丁语） | 《经济学人》油价认错 |
+| volitional | 自愿的 | 错误是自愿的 |
+| gruelling | 艰苦卓绝 | 1919 车队 |
+| ordeal | 磨难 | 车队经历 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| spasm | 痉挛/突发 | 反叛不是美国独有痉挛 |
 
 ### 3. 重要语法
 

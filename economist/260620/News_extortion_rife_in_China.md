@@ -413,7 +413,7 @@
 | media | outlets — 媒体机构 |  |
 | critical | journalists — 批评性记者 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 8）
 
@@ -477,11 +477,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"社会问题调查"文本，词汇集中在：**敲诈与勒索**（extortion, extract money, demanded, perpetrators）；**传播与曝光**（bad publicity, go viral, draw attention, devastated）；**监管与控制**（media controls, regulatory environment, licensed, crackdown）；**权衡与算计**（calculate, paying is cheaper than fighting, lucrative, tolerate）。这组词是分析"制度漏洞下灰色产业"的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

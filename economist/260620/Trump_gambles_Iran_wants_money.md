@@ -611,7 +611,7 @@
 | strengthen | the hand of — 增强……的力量 |  |
 | every | incentive ... none — 一切动机……毫无动机 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 2）
 
@@ -682,11 +682,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"国际安全 + 外交政策"评述文本，词汇集中在：**外交动作**（make a deal, lift sanctions, unfreeze assets, redeploy）；**核术语**（nuclear-threshold state, enriched uranium, stockpile, ballistic missiles）；**安全策略**（deterrent, containment, verification, proxy warfare）；**风险评估**（gamble, contingency, complacency, sell-out）。这组词汇是读中东地缘政治评论的基础工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

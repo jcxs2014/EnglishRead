@@ -992,7 +992,7 @@
 | electric cars | 电动汽车 |  |
 | Little Wuxi | 小无锡 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 3（介词前置定语从句 + 冒号解释）
 
@@ -1046,13 +1046,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-sleepy town、risen overnight、known as、hub of、catching up with、product of、waged、bigger story、redrawing the map、reduce dependence on、goods that matter、not just...but、clinging to、strange hybrid、machinery、components、know-how、in effect、branch office、compromise、simply better、just not there、reliability、under strain、slap tariffs on、dodge、duties、sent a shudder、packed up、how hard it is、commodity、depend on...for、supply chain、polysilicon、stamp out、dominates、building up、subsidies、crucially、with scale、such vast quantities that、collapsed、competitive with、fossil fuels、embedded in、production lines、transferred、learning-by-doing、ecosystem of、replicate、nevertheless、flowing out of、diversifying、limited、new capacity、close links to China、set up、beneficiary、wooing、tax breaks、cheap labour、none can match、combination of、engineering talent、rerouted、rebuilt、clean-energy supply chains、takes longer、costs more、logistics networks、grown up around、far better than、oriented towards、shipping lanes、export machine、for its part、partly...and partly、avoid tariffs、stepping up、higher-value goods、domestic demand、reliance on exports、stays weak、too much capacity、restore manufacturing、taking back、slogan、gap between、bring home、more of the same、satisfies nobody、drag on、reluctant to、give way、two clean blocs、intertwined、partial messy slow、just as...are discovering
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `a vast new factory has risen almost overnight` — 巨型新厂几乎一夜崛起
 2. `known as "Little Wuxi"` — 被称为"小无锡"
@@ -1075,7 +1071,7 @@ sleepy town、risen overnight、known as、hub of、catching up with、product o
 19. `The world is not going to be divided into two clean blocs` — 世界不会分裂成两个干净阵营
 20. `The "taking back" will be partial, messy and slow` — "夺回"将是部分的、混乱的、缓慢的
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **介词前置定语从句**：`the city after which it is named`
 - **独立主格**：`many of them in Wuxi`、`with both sides reluctant to give way`
@@ -1091,7 +1087,7 @@ sleepy town、risen overnight、known as、hub of、catching up with、product o
 - **破折号补充**：`—just as Mr Trump's voters are discovering`
 - **动名词主语**：`Moving goods ... takes longer`、`Rerouting has its own problems`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 3：介词前置定语从句 + 冒号解释
 - 原句 20：though 让步从句嵌入主谓之间
@@ -1099,7 +1095,7 @@ sleepy town、risen overnight、known as、hub of、catching up with、product o
 - 原句 25：It takes X and Y to do Z
 - 原句 50：三形容词排比 + as 方式从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **场景化开场**：`ON THE edge of a sleepy town in northern Vietnam, a vast new factory has risen almost overnight`——用地点 + 反差（小镇 vs 巨厂、沉睡 vs 崛起）开场，把"供应链迁移"变成一幅画面
 2. **地名即论点**：`known as "Little Wuxi"`（小无锡）——一个别称同时交代"源"（无锡=全球枢纽）与"宿"（越南=承接者），并用分公司（branch office）定性两者关系
@@ -1111,7 +1107,7 @@ sleepy town、risen overnight、known as、hub of、catching up with、product o
 8. **数据细节**：十分之一产能、173 人、42 人、45 米——具体数字增强现场感（本文件用十分之一、第 1 段 overnight 等）
 9. **首尾呼应**：开头"小无锡"（第 1-3 段）与结尾"partial, messy and slow"（第 13 段）——从现场到趋势，从具体到结论
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

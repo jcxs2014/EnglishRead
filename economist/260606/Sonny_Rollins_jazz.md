@@ -1246,7 +1246,7 @@
 | stolen | 偷窃 |  |
 | jail | 监狱 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 1（Though 让步 + 过去完成时）
 
@@ -1402,13 +1402,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-a mere two blocks、found himself、rattling over、hooting、corny、spiritual feeling、practise、endlessly inventive、seamlessly melodic、cutting records、in the same league as、however much、never satisfied with、every so often、hence、sojourns、went on for、passers-by、frame、squeezed、company、pushing further、at the bottom of the ocean、beyond the stars、as yet、ultimate sound、a snatch of、instantly、fulfil、at last、not til then、full to bursting、scraps of、laid down、etudes、piano roll、juke-box tunes、ballads、gramophones、mentored、revered、toting、alto sax、improvisations、drew on、playing quotes、rhythmic、harmonic、variations、aria、cheeky、half-heard、riff、natural unity、with his mind a blank、a fresh thought、subconsciously、a thing with、communion、had to flee、higher powers、bebop、pigeonholed、intricacy、long solos、strictures、suited him、naturally free、fused ... with、calypso、in homage to、celebrated、married it to、funk、collaboration with、not too proud to、backbeat、got rid of、limited his harmonic range、trios、faithfully following along、big-picture stuff、came together、unification、all one、serenity、disguised、rough road、saw ... as his Messiah、was on drugs、used heroin、end up playing like that、all it did was、set him to stealing、served ten months、Rikers Island、rehabilitation、was clean again、stayed that way、set him thinking、considered ... as、in seventh heaven、reveled in、down days、giving back to、to mangle、Golden Rule、doing unto others、karma、inconsequential、multitudes of、gift and glory
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `lived a mere two blocks away, hadn't noticed those steps before` — 仅两个街区远却从未留意（近却未见）
 2. `found himself on the Williamsburg Bridge above New York's East River` — 发现自己身处大桥上
@@ -1447,7 +1443,7 @@ a mere two blocks、found himself、rattling over、hooting、corny、spiritual 
 35. `To learn; to try to get wisdom; to come back and try again, if you didn't` — 学习、求智、重来
 36. `was gift and glory enough` — 已是足够的馈赠与荣光
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **倒装句**：`in 1956 came "Saxophone Colossus"`、`All around him were pillars`、`Close above him was the open sky`
 - **独立主格**：`hooting boats passing underneath`
@@ -1466,7 +1462,7 @@ a mere two blocks、found himself、rattling over、hooting、corny、spiritual 
 - **过去完成时**：`hadn't noticed ... before`、`he had been cutting records`
 - **过去习惯 would**：`he would play for 15 hours`、`he would know it when he heard it`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 1：Though 让步 + 过去完成时
 - 原句 4：独立主格
@@ -1484,7 +1480,7 @@ a mere two blocks、found himself、rattling over、hooting、corny、spiritual 
 - 原句 62：形式主语 + karma
 - 原句 66：as 方式从句 + which 定语从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **场景化开头**：讣告不从"罗林斯去世"写起，而从一个夏日爬桥的细节写起——用"某个平凡却改变命运的时刻"开场，比生平简介更动人
 2. **环境逐级展开**：第 1 段用"方位递进"（There → at the top → on the bridge → above the river）配合倒装句（All around him / Close above him），把"圣殿"一步步建构出来
@@ -1501,7 +1497,7 @@ a mere two blocks、found himself、rattling over、hooting、corny、spiritual 
 13. **karma 的异文化援引**：`It seemed to be his karma, ever, to search for these things`——用印度教概念解释他的执念，呼应其印度修行，宗教词汇让"追寻"有了宿命重量
 14. **第二人称箴言**：`To learn; to try to get wisdom; to come back and try again, if you didn't`——转第二人称，把个人人生指南升华为对读者的普世赠言
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

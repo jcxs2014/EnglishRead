@@ -575,11 +575,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（最值得掌握）
-
-opaque、unnerve、poised to、credible、capacity、validate、escalate、deterrent、constrain、suspend、arsenal、voice（动词）、urge、commit to、on the eve of、in the midst of、given、heighten、of great concern、describe sth as
-
-### 2. 本文核心表达（最值得记忆）
+### 1. 本文核心表达（最值得记忆）
 
 - `be essential to` / `be opaque about` — 描述"重要性"与"不透明"
 - `be poised to do` — 蓄势待发
@@ -591,7 +587,7 @@ opaque、unnerve、poised to、credible、capacity、validate、escalate、deter
 - `on the eve of... and in the midst of...` — 平行时间状语
 - `fears about X and Y` — 双宾语担忧结构
 
-### 3. 重要语法
+### 2. 重要语法
 
 | 语法点 | 文中例句 |
 | --- | --- |
@@ -606,11 +602,11 @@ opaque、unnerve、poised to、credible、capacity、validate、escalate、deter
 | 后置定语 | the equipment **involved** |
 | be not alone in doing | China is not alone **in test-firing** |
 
-### 4. 长难句（最值得重读）
+### 3. 长难句（最值得重读）
 
 句 5（同位语从句+双动词）、句 10（引语+双同位语）、句 12（双重目的）、句 18（完成被动不定式）、句 23（平行时间状语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 - **漏斗式开头**：一般原则（保密）→ 特殊案例（中国）→ 具体事件（宣布）→ 反应（不安）。层层收窄，最后一句的 So 把因果链砸实。
 - **信息缺口制造张力**：新华社"没说落点"、中国"从不证实"——**没说的信息**和说了的一样有新闻价值。
@@ -621,7 +617,7 @@ opaque、unnerve、poised to、credible、capacity、validate、escalate、deter
 - **对称对比**：JL-2 vs JL-3 两句结构完全平行，用 meaning/allowing 微调语气。
 - **source 平衡**：美国前官员 vs 中国前教授、美澳官方 vs 外部分析师——多视角并置，作者自己不下判断。
 
-### 6. 可迁移表达（按场景）
+### 5. 可迁移表达（按场景）
 
 **学术论文 / 正式写作：**
 - `X is essential to Y`（开篇立论）

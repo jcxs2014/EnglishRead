@@ -273,24 +273,41 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| prides itself on | 以……为傲 | 政治体系自诩稳定 || taking the axe to | 挥斧清洗 | 清洗团队成员 || the latest to fall | 最新落马者 | 马兴瑞 || stripped of | 被剥夺 | 开除党籍 || fallen vacant | 空出 | 政治局席位 || absent from major events | 缺席重大活动 | 失势征兆 || laid against | 提出（指控） | 对落马者 || all but certain | 几乎肯定 | 张又侠命运 || the most ... post-Mao | 文革后最多 | 清洗纪录 || a potential successor | 潜在继任者 | 孙政才 || behind bars | 入狱 | 马的前景 || an unreliable guide | 不可靠指针 | 历史先例 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| downfall | 倒台 | 马兴瑞下台 || celebrated | 著名的 | 航天工程师 || Egregious | 极其严重 | 腐败 || ousting | 罢黜 | 去职 || lash out | 猛击 | 习的清洗意愿 || purged | 被清洗 | 高官 || dismissed | 被免职 | 政治局委员 || norm-breaker | 破规者 | 习 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| graft | 贪腐 | 指控 |### 2. 本文核心表达
 
-1. `prides itself on stability` —— 自诩稳定（反衬）
-2. `taking the axe to members of his team` —— 挥斧清洗
-3. `at a rate not seen since the days of Mao` —— 毛泽东时代以来未见
-4. `The latest to fall is ...` —— 最新落马者
-5. `stripped of his party membership` —— 被开除党籍
-6. `fallen vacant` —— 席位空出
-7. `down to 21 ... from its initial 24` —— 数据变化
-8. `absent from major events` —— 缺席重大活动
-9. `charges of graft have almost always been laid against` —— 惯例式指控
-10. `easier to explain to the public than` —— 更易解释（比较）
-11. `what is often suspected to be the main reason` —— 常被怀疑的真因
-12. `Egregious corruption may be enough to explain` —— 审慎归因
-13. `not that ... will be able to comment` —— 不是说……能辩护
-14. `a reminder of Mr Xi's willingness to lash out` —— 清洗意愿的提醒
-15. `all but certain to lose` —— 几乎肯定失去
-16. `Mr Xi is a norm-breaker` —— 破规者（点题）
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| prides itself on | 以……为傲 | 政治体系自诩稳定 |
+| taking the axe to | 挥斧清洗 | 清洗团队成员 |
+| the latest to fall | 最新落马者 | 马兴瑞 |
+| stripped of | 被剥夺 | 开除党籍 |
+| fallen vacant | 空出 | 政治局席位 |
+| absent from major events | 缺席重大活动 | 失势征兆 |
+| laid against | 提出（指控） | 对落马者 |
+| all but certain | 几乎肯定 | 张又侠命运 |
+| the most ... post-Mao | 文革后最多 | 清洗纪录 |
+| a potential successor | 潜在继任者 | 孙政才 |
+| behind bars | 入狱 | 马的前景 |
+| an unreliable guide | 不可靠指针 | 历史先例 |
+| norm-breaker | 破规者 | 习 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| downfall | 倒台 | 马兴瑞下台 |
+| celebrated | 著名的 | 航天工程师 |
+| Egregious | 极其严重 | 腐败 |
+| ousting | 罢黜 | 去职 |
+| lash out | 猛击 | 习的清洗意愿 |
+| purged | 被清洗 | 高官 |
+| dismissed | 被免职 | 政治局委员 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| graft | 贪腐 | 指控 |
 
 ### 3. 重要语法
 

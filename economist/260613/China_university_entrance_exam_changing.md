@@ -631,7 +631,7 @@
 | results | — 成绩 |  |
 | provinces | — 各省 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 14）：**
 > They argue that decades of surface uniformity based on a single set of papers have masked rising inequality in teaching.
@@ -661,20 +661,9 @@
 >
 > **整体理解：** while 分词把"收缩"和"保留"两个动作对立——"暗削实留"的政治解读。---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本课核心词汇 / 表达清单
-
-**制度 / 政治语境：**
-- gatekeeping ritual（守门仪式）、social contract（社会契约）、near-sacred（近乎神圣）、hedging（对冲）、stopgap（权宜之计）、fairness is politics（公平即政治）
-
-**改革 / 争论语境：**
-- anti-fossilisation（反固化）、shake up（撼动）、decentralised（分权）、tailored to（量身定制）、validity vs fairness（效度对公平）、pushback（阻力）
-
-**比喻 / 修辞类：**
-- a question mark over（问号）、usher ... through gates and into the middle class（穿过门跃入阶层）、the ritual is sure to crunch（仪式嘎吱作响）、sheen（光泽）
-
-### 2. 精读中重点掌握的语法
+### 1. 精读中重点掌握的语法
 
 - **破折号插入补充背景**：university places—already scarce—（在主语谓语间插入现状）
 - **so do 倒装表"也一样"**：Grades matter, but so do essays...
@@ -683,11 +672,11 @@
 - **while + 分词表示"同时/并列取舍"**：while keeping the ritual's sheen
 - **for 作连词表"因为"（正式）**：for fairness is politics
 
-### 3. 长难句提示
+### 2. 长难句提示
 
 见"四、长难句专项"。重点：嵌套定语从句（28）、破折号插入（19、35）、多层分词修饰（14）。
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 **本课写作亮点——"概念对照 + 格言收尾"：**
 
@@ -697,7 +686,7 @@
 4. **金融借喻**：hedging（对冲）——用投资术语写政府观望——生动。
 5. **格言式结尾**：`the ritual is sure to crunch, for fairness is politics`——拟声动词 + 三词警句，余韵悠长。
 
-### 5. 可迁移表达的"英语思维"
+### 4. 可迁移表达的"英语思维"
 
 - 想说"他为什么这么谨慎"：**be hedging**— 比 be unsure 更具象（对冲下注的形象）。
 - 想说"某制度像圣物动不得"：**near-sacred / tampering with history**。

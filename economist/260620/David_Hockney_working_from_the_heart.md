@@ -432,7 +432,7 @@
 | the | screen was just another window — 屏幕只是另一扇窗 |  |
 | aged | 89 — 享年 89 岁 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 1）
 
@@ -500,11 +500,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"讣告"文体，词汇集中在：**艺术与创作**（working from the heart, way of seeing, photo-collage, draw with light）；**人物性格**（cheerful, argumentative, distrusted, complacent）；**评价与争议**（gimmick, proof that, critics, defenders）；**遗产与信念**（a vast body of work, conviction, celebrate life, in service of joy）。这组词是写作"艺术家追忆"的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

@@ -755,7 +755,7 @@
 | mainland | 内地 |  |
 | Chaguan | 茶馆（专栏名） |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 5（分号并列三句）
 
@@ -809,13 +809,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps to、in one sense、rebounded from、prime areas、stuffed with deposits、invested back into、there are limits、not a number but a feeling、by most economic measures、recovered further than、the gap between、what the money says、hard to ignore、the two halves、do not add up、the most obvious sign、tens of thousands of、middle-class、the security law、some ... many more、emigrants、financiers、the very people、needs to thrive、the same pattern、lost ground to、rivals、IPOs、thinner trading volumes、privately admit、moved their attention、remains a big financial centre、its share of、shrinking、the main beneficiary、discomfort、absorbed a steady stream of、a perfect substitute、on offer、a paradox、partly replaced by、mainland China、behaves differently、less likely to leave、less likely to innovate、extends to、feels busy、busyness、pricier、sober、hangs over、the rules of the game、in ways that are still being discovered、learned to adapt、has a cost、most visible in、hiring and keeping、international talent、can still recover further、geographic position、legal system、links to the mainland、remain valuable、whether ... are willing to、rebuild the trust、trust that was lost、halfway back、not the same as、what it was
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `The lunchtime crush ... is back` — 午市人潮回来了
 2. `a recovery that is real but incomplete` — 真实但不完整的复苏
@@ -839,7 +835,7 @@ lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps t
 20. `Halfway back is not the same as back` — 恢复一半不等于恢复（警句）
 21. `The queues are back, but the queueing is not what it was` — 队伍回来了，但排队已非从前（首尾回环）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **not A but B**：`not a number but a feeling`
 - **分号并列排比**：`The Hang Seng index has rebounded...; property prices...; and the banks...`
@@ -854,7 +850,7 @@ lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps t
 - **被动进行时**：`in ways that are still being discovered`
 - **现在完成时**：`has rebounded`、`has been the main beneficiary`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 5：分号并列三句（时态差异）
 - 原句 10：between 双 what 从句
@@ -862,7 +858,7 @@ lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps t
 - 原句 26：双比较级 + but 对比
 - 原句 39：首尾呼应回环 + what 表语从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **微观场景开场**：点心店排队——用一个最有香港气息的日常细节开场，代替抽象数据，让"复苏"可感
 2. **标题的哲学化**：`halfway back`（恢复一半）既是新闻判断又是哲学概念——全文围绕"一半"展开：数字一半、感受一半、钱一半、人一半
@@ -875,7 +871,7 @@ lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps t
 9. **经济名词的文学化**：`stuffed with deposits`（塞满存款）、`thinner trading volumes`（更薄的交易量）——专业术语加一个形象动词/形容词，兼顾专业与可读
 10. **数字与感受的对照**：全文反复用"数字（money says）vs 感受（city feels）"的二元框架——这是"halfway"的深层结构
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

@@ -783,7 +783,7 @@
 | which is worse | 哪种更糟 | Which is worse? |
 | poor but enthusiastic | 贫穷却热情 | Poor but keen. |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 5（with 复合结构 + whether 从句）
 
@@ -845,13 +845,9 @@
 **④ 恢复逻辑：** 哪种更糟：让贫穷却热情的乌克兰进门，还是让怨愤却强大的乌克兰留在外面？
 **⑤ 整体理解：** Which is worse（设问）+ 冒号 + 并列动名词（letting/leaving）+ but 对仗形容词。把握 Which is worse: A or B? 设问收尾。---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-give credit for、stepping up、fill the breach、stiffening sanctions、grim losses、putting pressure on、diplomatic efforts、fizzling、take the lead、transformed from ... into、a ward of the West、a crucial security partner、battle-hardened、innovative defence industry、wean itself off、transatlantic help、as badly as the other way round、fully embrace、cement links with、make up for territory、negotiating cluster、the rule of law、the gulf in expectations、responsibility lies with、fight corruption、associate membership、a waystation to、full-fat accession、rash to、dismiss out of hand、a kind of charity case、much to learn from、drone technology、bolster security、testing arms systems、whereas、not baseless、miss the bigger picture、hard power、an increasingly hostile world、folding ... into embrace、confronting the threat、merely a bureaucratic process、a geopolitical tool、predatory great powers、formalise、speed up、drafting an accession treaty、a sign of intent、war-weary、in return、find unanimity、bleak、souring on、ring alarm bells、which is worse、embittered
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `GIVE EUROPE credit for stepping up when many doubted it could` — 给欧洲记功：当许多人怀疑它行不行时它站了出来
 2. `Europe has managed to fill the breach` — 欧洲成功填补了缺口
@@ -874,7 +870,7 @@ give credit for、stepping up、fill the breach、stiffening sanctions、grim lo
 19. `Polls show some young Ukrainians souring on EU membership` — 民调显示一些年轻乌克兰人对入盟热情转淡
 20. `Which is worse: letting a poor but enthusiastic Ukraine into the club, or leaving an embittered but powerful one outside?` — 哪种更糟：让贫穷却热情者进门，还是让怨愤却强大者留在门外（结尾设问）---
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **祈使句 + 全大写开头**：`GIVE EUROPE credit for stepping up`
 - **since 时间从句 + 现在完成时**：`Since Trump cut aid, Europe has managed to fill the breach`
@@ -890,7 +886,7 @@ give credit for、stepping up、fill the breach、stiffening sanctions、grim lo
 - **双重定义（否定一解 + 肯定一解）**：`is not merely a bureaucratic process. It is a geopolitical tool`
 - **设问二选一收尾**：`Which is worse: letting ... or leaving ...?`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 5：with 复合结构 + whether 从句
 - 原句 7：from ... into 身份转变（定语从句内）
@@ -899,7 +895,7 @@ give credit for、stepping up、fill the breach、stiffening sanctions、grim lo
 - 原句 28：not baseless, but + 冒号定义
 - 原句 38：设问二选一收尾
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **先扬后抑**：`GIVE EUROPE credit for stepping up`——先用祈使句给欧洲记功（肯定其补位），再批评"仍视乌克兰为慈善个案"——公允姿态让批评更可信
 2. **身份再定义**：`transformed itself from a ward of the West into a crucial security partner`——用 from ... into 的身份转变句，一句话把乌克兰从"被监护对象"（ward）重写为"安全伙伴"（partner）——全文立论的支点
@@ -912,7 +908,7 @@ give credit for、stepping up、fill the breach、stiffening sanctions、grim lo
 9. **对价式建议**：`In return, Ukraine should be open to delays ... to make it easier for Europe to find unanimity`——用"互惠对价"（in return）提出可行方案，让主张显得现实、可谈判
 10. **设问留白收尾**：`Which is worse: letting a poor but enthusiastic Ukraine into the club, or leaving an embittered but powerful one outside?`——二选一设问让读者自己得出结论；but 对仗形容词（poor but enthusiastic vs embittered but powerful）把"不加速入盟"的代价推到地缘安全层面
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

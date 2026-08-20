@@ -671,7 +671,7 @@
 | interviews | 采访 |  |
 | state media | 官方媒体 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（判断句 + 同位语从句）
 
@@ -775,13 +775,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-attracted little attention、consequential、the clearest signal yet、intends to、in question、took over as、by training、the back rooms、far from the limelight、the political limelight、brought into、at various levels、take up new posts、has just been named as、state councillor、ministerial-rank、was made a vice-minister、A fourth、went from...to、matter、a double-edged sword、on the positive side、putting...in power、evidence and expertise、matter more than ideology、spot problems early、politically driven decisions、on the negative side、given power、become less independent、credibility、suffer as a result、co-opted、doubt their findings、even on matters where、the deeper reason、more cynical、wants to show、a product of、state guidance、claim that、supported by scientific authority、in other words、being used as、a decoration for、it is not clear、influence policy、one-party system、top decision-makers、act without、formal consultation with、largely、ceremonial、the pattern is not new、have long drawn...into、the political orbit、the late、known as、were drafted into、the bureaucracy、Party committees、were installed in、research institutes、an institutional foothold、what has changed、the scale and visibility、invisible、made quietly、behind the scenes、high-profile、appearing in state media、giving interviews、lending their names to、makes it harder for...to、maintain a reputation for、independent scientific inquiry、the more...the more、seen as extensions of the state、distrust the science itself、trade-off、seems willing to accept、for now
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `the appointment attracted little attention outside China` — 任命在中国以外几乎无人关注
 2. `It was in fact a consequential event, the clearest signal yet that ...` — 事实上意义重大，迄今最清晰信号
@@ -816,7 +812,7 @@ attracted little attention、consequential、the clearest signal yet、intends t
 31. `The more scientists are seen as extensions of the state, the more the public may distrust the science itself` — 越是国家延伸，越不信科学本身
 32. `It is a trade-off the leadership seems willing to accept for now` — 领导层暂时愿意接受的权衡
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **when 时间从句**：`WHEN ... was announced last month, the appointment attracted little attention`
 - **同位语 + 同位语从句**：`the clearest signal yet that ...`、`Mr Ding Chibiao`、`one of the most important jobs`
@@ -832,7 +828,7 @@ attracted little attention、consequential、the clearest signal yet、intends t
 - **in question 后置定语**：`the scientist in question`
 - **from...to 时间/空间结构**：`from the early years of the communist era to the present day`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：判断句 + 同位语从句
 - 原句 3：多重同位语
@@ -845,7 +841,7 @@ attracted little attention、consequential、the clearest signal yet、intends t
 - 原句 30：The more...the more 正比结构
 - 原句 31：省略 that 定语从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"低调事件 + 高深意义"开场**：`attracted little attention`（无人关注）→ `in fact a consequential event`（其实意义重大）——先抑后扬，制造"原来如此"的认知落差
 2. **最高级信号句**：`the clearest signal yet that ...`（迄今最清晰信号）——用 signal（信号）一词把"人事任命"读作"政策意图的讯号"，赋予个案普遍意义
@@ -858,7 +854,7 @@ attracted little attention、consequential、the clearest signal yet、intends t
 9. **The more...the more 螺旋句**：`The more scientists are seen as extensions of the state, the more the public may distrust the science itself`——用正比句式把"工具化的终极代价"写成不可逆的螺旋
 10. **审慎收束**：`It is a trade-off the leadership seems willing to accept for now`——trade-off（权衡）+ seems（似乎）+ for now（暂时）三重留白，不把话说死，符合时评的严谨
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

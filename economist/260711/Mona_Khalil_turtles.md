@@ -1149,11 +1149,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-strolling、driftwood、clinking、the next thing she knew、not ... but ...、critically endangered、herbivores、hatched、Unerring、wearily、the point at which、gazed、swallowed in、put to rights、homage to、Dutchness、bluntness、reserve、dogged、world-famous、prostrated、conservationists、oasis of calm、high point、summon、hatchlings、frantically、scurried、entangled、close-mesh nets、dynamite、insidious、unspoilt tranquillity、confound、hemmed-in、feel compelled to、campaigned、patrol、papery-shelled、tearfully、Who were ... to、kick them out、incessant、the last thing on their minds、point-blank、nesting season、Ironically、thrived、launched themselves、Nonetheless、made the resolution、No matter what、compromised her、waved ... off、no other ... but、patch、as surely as、unwavering、mile after mile、rolling sea
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `It was the summer of 1999` — 故事开场
 2. `All the toys she had ever needed she had picked up here` — 宾语前置强调
@@ -1179,7 +1175,7 @@ strolling、driftwood、clinking、the next thing she knew、not ... but ...、c
 22. `there was no other heaven but her Orange House` — 家即天堂
 23. `her patch, to which she had to return; as surely as the female turtles did` — 如龟归家
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **宾语前置（topicalization）**：`All the toys she had ever needed she had picked up here`
 - **名词罗列式叙述（无谓语）**：`School in Beirut, a marriage, and a son, Omar, killed at eight ...`
@@ -1194,7 +1190,7 @@ strolling、driftwood、clinking、the next thing she knew、not ... but ...、c
 - **反问句**：`Who were humans to kick them out?`
 - **倒装引语**：`said the late Sir Terry Pratchett` 类（此处为 `she repeated`）
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 5（宾语前置 + 冒号列举）
 - 原句 13（would have + where 定语从句）
@@ -1203,7 +1199,7 @@ strolling、driftwood、clinking、the next thing she knew、not ... but ...、c
 - 原句 38（介词前置定语从句）
 - 原句 72（介词前置 + 比较从句 + 并列状语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"family"的隐喻贯穿**：标题引号中的 family（海龟是家人）→ 文中 `they, her family, would be gone again` → 结尾 `her patch ... as surely as the female turtles did`——把"人-海龟"的关系当作"归乡者-家园"，讣告的动人处在于把人物的一生浓缩为一个"归属"意象
 2. **时间尺度的震撼**：`for the past 250m years, before humans existed`（海龟先来 2.5 亿年）+ `where 30 years ago she had hatched`（海龟 30 年后归来）+ `over mile after mile`（千里洄游）——用宏大时间与空间尺度衬托海龟的"先来者"地位
@@ -1213,7 +1209,7 @@ strolling、driftwood、clinking、the next thing she knew、not ... but ...、c
 6. **物件意象**：橙房子（基地）、炮弹雕像（化暴戾为美）、风铃与果酱（日常诗意）、瓶中浮木（童趣）——用具体物件代替抽象评价，人物跃然纸上
 7. **首尾闭环**：开篇"捡东西/梦生活" → 结尾"她的 patch，如龟归家"——从"捡拾"（收集）到"回归"（守护），讣告在结构的循环中完成对一位"固执的守护者"的致敬
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

@@ -1062,7 +1062,7 @@
 | boom | v. 激增；繁荣 |  |
 | increasingly | adv. 越来越（地） |  |
 
-## 五、长难句专项
+## 四、长难句专项
 
 ### 长难句1（段落4 · 句子15）
 > It has also tied the lottery for the H-1B visa—the main path for skilled workers, including new graduates, to remain in America—to salaries, which disfavours entry-level workers; anecdotally, Chinese workers are hurt more than most.
@@ -1109,7 +1109,7 @@
 
 **可模仿点**：① 同位语 + 分词定语叠加，一个主语句内塞入人物全部关键信息；② 分号 + but 表达"愿望与现实的落差"；③ when 从句里再嵌分词状语，展示从句内嵌套的层次感。
 
-## 六、精读结束总结
+## 五、精读结束总结
 
 **内容脉络**：本文是一篇典型的《经济学人》"问题驱动型"报道：用一个普通人的困惑开篇（家长问"为什么还要花大钱出国"），给出数据答案（57万 vs 70万峰值），再逐层拆解原因——外部推力（签证、成本）与内部拉力（国内高校崛起、海归贬值）双线并行，最后上升到"双输"的宏观判断。结构上"个案到数据到原因到影响"环环相扣。
 
@@ -1121,7 +1121,7 @@
 
 **阅读收获**：读懂本文，等于掌握"如何用数据讲一个社会趋势"的完整范式——先个案共情，再量化确证，再归因拆解，最后价值判断收束。
 
-## 七、可迁移表达（10条）
+## 六、可迁移表达（10条）
 
 1. **be held in high regard**（备受尊崇）— Teachers are still held in high regard in Finland. 芬兰教师仍备受尊崇。
 2. **That is much less the case today**（如今已远非如此）— Politicians once promised lifelong careers; that is much less the case today. 政客们曾承诺终身职位，如今已远非如此。

@@ -1111,11 +1111,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-punch above their weight、know-how、balance of power、allege、throw ... into crisis、find its way to、What is more、push back、decline to do、at present、hinge on、unverified yet not unfounded、strong-arm ... into、pivotal、concede、retaliation、divisive、align ... with、oblige ... to、given、extraterritorially、entail、scepticism、contradiction between、reeling from、backlash、fracas、salvo、chokeholds、caught in the crossfire
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `punch above their weight` — 以小搏大
 2. `could have just tilted the balance of power` — 推测式设问
@@ -1135,7 +1131,7 @@ punch above their weight、know-how、balance of power、allege、throw ... into
 16. `an early salvo in the bigger battle` — 大战第一枪
 17. `caught in the crossfire` — 炮灰命运
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **分词短语表结果**：`spurring the Industrial Revolution` / `allowing them to use DUV`
 - **分离式介词短语**：`the export to China of the ... machines`
@@ -1150,7 +1146,7 @@ punch above their weight、know-how、balance of power、allege、throw ... into
 - **介词倒置的 which 从句**：`which signed up in June`
 - **被动语态强调施动/受动**：`are handled by ASML engineers` / `has yet to be provided`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 9（多层嵌套 + 同位语 + 方式状语）
 - 原句 13（并列句 + 双重定语从句）
@@ -1159,7 +1155,7 @@ punch above their weight、know-how、balance of power、allege、throw ... into
 - 原句 39（分词结果状语 + 多层定语）
 - 原句 56（between A and B 平行结构）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **历史铺垫法**：开篇三个历史例证（17 世纪金融→彼得大帝→A.Q. Khan）从光明到阴暗，最后一例（窃核蓝图）直接映射本文主题（技术疑云），形成"昨日重现"的叙事框架
 2. **多声部平衡叙事**：同一事实给出 ASML 否认、荷兰游说、专家三种解释、美国强硬派、欧洲担忧——不替读者下结论，让各方自己说话（引号+said 的准确归属）
@@ -1170,7 +1166,7 @@ punch above their weight、know-how、balance of power、allege、throw ... into
 7. **"自相矛盾"论证法**：荷兰用"禁 DUV 却许 h200"的矛盾（56-57）攻击美国政策一致性——用对手的内部矛盾瓦解其主张
 8. **外交辞令的精确翻译**：`while taking seriously, pushing back`、`declined to provide details`、`If there were ... we would`、`really unfortunate from our perspective`——把荷兰式圆滑外交译成英文的教科书范例
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

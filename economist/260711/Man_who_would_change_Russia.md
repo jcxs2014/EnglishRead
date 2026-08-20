@@ -1103,11 +1103,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-futile、paying the price、break the deadlock、insider、high-minded、lived by、tycoons、afford to ignore、descend into、tyranny、guardedly、speak out、resonate、bleak、autarky、amount to、one-man rule、belie、dead end、reassert authority、exacerbate、discount、scenarios、warlords、under the thumb of、war of attrition、impoverished、incubating、starved of、the bowels of、enigmatic、self-serving、resist the temptation、elusive、resorting to、coercion、relinquish、devolve power、securocrats、top dogs、banished、in a bind、grinding on、precedent、doomed ... to、uprising、toppled
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `When enough Russians feel ... will be forced to` — 临界点规律
 2. `it pays to watch` — 值得关注
@@ -1131,7 +1127,7 @@ futile、paying the price、break the deadlock、insider、high-minded、lived b
 20. `But he does not talk about democracy` — 回避民主
 21. `reforms that last` — 持久的改革
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **WHEN 条件 + 双宾语从句**：`feel the fighting is futile and that they are paying the price`
 - **完成分词表时间先后**：`Having run his companies outside Russia, he returned ...`
@@ -1146,7 +1142,7 @@ futile、paying the price、break the deadlock、insider、high-minded、lived b
 - **插入语保持转述距离**：`he says` / `they said` / `he predicts`
 - **过去完成时表先时**：`had crushed the reforms`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
 - 原句 10（because 原因链 + 多层定语从句）
@@ -1156,7 +1152,7 @@ futile、paying the price、break the deadlock、insider、high-minded、lived b
 - 原句 45（call on + 破折号同位语 + 定语从句）
 - 原句 58-60（历史三段式）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"最不可能的声音"叙事结构**：全篇反复强调梅尔尼琴科"不是反对派、反而支持战争经济、也不是道德标榜"——三重排除把"内部人发声"的分量推到极致，这是典型的"身份反转"叙事
 2. **先揭私心再转述**：`Self-servingly, he urges Western countries to ...` —— 作者先点破他的利己动机再引其话，这种"先揭短"让整篇转述更可信、更中立
@@ -1167,7 +1163,7 @@ futile、paying the price、break the deadlock、insider、high-minded、lived b
 7. **短句重音**：`Impossible, says ASML.` 式的手法在本篇体现为 `Reform has a precedent.` / `But he does not talk about democracy.` / `But he is in a bind.` ——在长段落后用 4-6 词短句制造冲击
 8. **"正常"的反讽**：`If Russia becomes a more normal country` ——"正常国家"在俄罗斯语境里的奢侈性，暗含对现状的批判
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

@@ -1123,13 +1123,9 @@
 **④ 恨情逻辑：** 对带来空前财富的思想的有力辩护，几乎尚未尝试过。
 **⑤ 整体理解：** that have brought unprecedented riches（带来空前财富的）修饰 ideas；has barely been tried（几乎没被尝试）——"好牌没打"的判断。把握 A defence of the ideas that ... has barely been tried。---
 
-## 五、精读结束总结
+## 三、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-Gen-Z socialism、a fresh crop、remake the economy、price controls、hefty wealth taxes、nationalisation spree、supercharged by fury over Gaza、septuagenarian、on his fourth swing at、thumping support、zero-sum mindset、ai barons、the centre-left、mad schemes、exempt from tax filers、spooked by the Greens、rekindling its zeal、win even when candidates lose、wafer-thin margins、demonised、confiscatory、course correction、low-growth funk、over-regulation、statist Peronists、relative decline、urgent task、free-market liberals、stop apologising、a grain of truth、in aggregate、at the root of、behavioural economics、broad-based、as well as winners、punchier defence、hand-wringing、uncharismatic centrists、meritocracy vs inheritocracy、moratorium、jobs guarantee、set out their stall、prescriptions、distributed capital ownership、upsides、widely shared、the wind in their sails、doomed to political failure、barely been tried、unprecedented riches、insufficiently free、not excessively so、the best time to be born、produce results、win the argument
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `Something new is stirring on the left` — 左翼有新动事；为新势力引入
 2. `A fresh crop of socialists want to remake the economy with price controls, hefty wealth taxes and a spree of nationalisations` — 新社会主义者要用价格管制、高税、国有化重塑经济
@@ -1154,7 +1150,7 @@ Gen-Z socialism、a fresh crop、remake the economy、price controls、hefty wea
 21. `many of the problems ... are the result of markets that are insufficiently free, not excessively so` — 反转：问题源于管制不足而非自由过多
 22. `There is time yet for liberalism to once again produce results—and to win the argument` — 结论：自由主义犹可胜
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **with 复合伴随结构**：`With American diplomatic efforts fizzling, some in Europe are asking`
 - **not...but 排除式定义**：`Not because ... —or because ...— but because it is the brand ...`
@@ -1167,7 +1163,7 @@ Gen-Z socialism、a fresh crop、remake the economy、price controls、hefty wea
 - **Whatever its precise cause（让步）**：`Whatever its precise cause, the baby bust has big implications`
 - **as badly as the other way round（等量）**：`needs Ukraine as badly as the other way round`
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 1. **命名句式**：`Call it Gen-Z socialism` — 直接给现象贴标签
 2. **历史反转开场**：从 60 年代"生太多"到今日"生太少"的对比
@@ -1180,7 +1176,7 @@ Gen-Z socialism、a fresh crop、remake the economy、price controls、hefty wea
 9. **政策三连反驳**：`Rent controls → worsen shortages / Wealth taxes → confiscatory / Policy failure → no auto-correction`
 10. **引用权威 + 反讽**：`The UN ... has failed to account for`
 
-### 5. 可迁移表达
+### 4. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

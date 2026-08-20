@@ -504,24 +504,57 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| took sth to heart | 牢记于心 | Smith 信奉奥威尔 || the haunt of | ……出没之地 | 狄更斯常去 || to name but a few | 仅举几例 | 啤酒名 || on the premises | 厂区内 | 自产自销 || was not about to | 绝不会 | 不让酒吧失望 || poking / nosing | 探/窥 | 隐私 || compulsory purchase | 强制征收 | 输给政府 || kept at bay | 拒之门外 | 现代事物 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| template | 模板 | 奥威尔理想酒吧 || clientele | 顾客群 | 常客 || regulars | 常客 | 酒吧客群 || uncompromisingly | 毫不妥协地 | 维多利亚风格 || decorous | 端庄得体 | 理想酒吧的歌唱 || hostelries | 旅店 | 老字号酒馆 || heavy on | 大量使用 | 皮革黄铜 || even to | 连……都 | 薯片也要本地 || undesirables | 不受欢迎者 | 店规 || culprit | 违规者 | 说脏话的人 || refrain | 克制住口 | 店规执行 || Henceforth | 从今往后 | 管理改革 || woe betide | 小心倒霉 | 威胁语 || spot-checks | 突击检查 | 老板巡店 || upshot | 结果 | 检查后果 || divalge | 泄露 | 拒绝透露 || deferential | 恭敬的 | 镇民态度 || frugal | 节俭的 | 生活作风 || legion | 众多 | 斗争无数 || unsparing | 不留情 | 对待酒吧 || flagship | 旗舰 | 最爱酒吧 || yearned to | 渴望 | 抓住理想 || hang on to | 紧抓不放 | 田园牧歌 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| Muzak | 背景音乐 | 理想酒吧无音乐 || sup | 啜饮 | 角落品酒 || dire | 可怕的 | 关店后果 || amiss | 不妥 | 发现问题 || posh | 上流时髦 | 伊顿同学 || idyll | 田园诗 | 理想酒吧 |### 2. 本文核心表达
 
-1. `What makes an ideal English pub? ... Orwell knew` —— 设问 + 名人背书
-2. `took this to heart` —— 奉为圭臬
-3. `as much as for the beer` —— 同样程度（社交与饮酒并重）
-4. `Neither ... nor ...` —— 双重否定列"无"
-5. `Nothing was for sale that was not brewed ... or grown ... even to the crisps` —— 双重否定铁律
-6. `woe betide if they fell short` —— 古语威胁
-7. `let his pubs let him down` —— 双关所有权执念
-8. `He did spot-checks himself` —— 亲自巡查
-9. `The upshot could be dire` —— 短句断语
-10. `as they should have known` —— 本该知道（遗憾）
-11. `when all was said` —— 归根结底
-12. `no one truly did know him` —— 强调句（无人真正了解）
-13. `not least because` —— 尤其因为
-14. `Modern intrusions were kept at bay` —— 拒现代于门外
-15. `an extra disadvantage: his rules` —— 冒号点题
-16. `did not, and probably could not, exist` —— 双重否定点题
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| took sth to heart | 牢记于心 | Smith 信奉奥威尔 |
+| the haunt of | ……出没之地 | 狄更斯常去 |
+| to name but a few | 仅举几例 | 啤酒名 |
+| on the premises | 厂区内 | 自产自销 |
+| was not about to | 绝不会 | 不让酒吧失望 |
+| poking / nosing | 探/窥 | 隐私 |
+| compulsory purchase | 强制征收 | 输给政府 |
+| kept at bay | 拒之门外 | 现代事物 |
+| uncompromisingly | 毫不妥协地 | 维多利亚风格 |
+| undesirables | 不受欢迎者 | 店规 |
+| spot-checks | 突击检查 | 老板巡店 |
+| deferential | 恭敬的 | 镇民态度 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| template | 模板 | 奥威尔理想酒吧 |
+| clientele | 顾客群 | 常客 |
+| regulars | 常客 | 酒吧客群 |
+| decorous | 端庄得体 | 理想酒吧的歌唱 |
+| hostelries | 旅店 | 老字号酒馆 |
+| heavy on | 大量使用 | 皮革黄铜 |
+| even to | 连……都 | 薯片也要本地 |
+| culprit | 违规者 | 说脏话的人 |
+| refrain | 克制住口 | 店规执行 |
+| Henceforth | 从今往后 | 管理改革 |
+| woe betide | 小心倒霉 | 威胁语 |
+| upshot | 结果 | 检查后果 |
+| divalge | 泄露 | 拒绝透露 |
+| frugal | 节俭的 | 生活作风 |
+| legion | 众多 | 斗争无数 |
+| unsparing | 不留情 | 对待酒吧 |
+| flagship | 旗舰 | 最爱酒吧 |
+| yearned to | 渴望 | 抓住理想 |
+| hang on to | 紧抓不放 | 田园牧歌 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| Muzak | 背景音乐 | 理想酒吧无音乐 |
+| sup | 啜饮 | 角落品酒 |
+| dire | 可怕的 | 关店后果 |
+| amiss | 不妥 | 发现问题 |
+| posh | 上流时髦 | 伊顿同学 |
+| idyll | 田园诗 | 理想酒吧 |
 
 ### 3. 重要语法
 

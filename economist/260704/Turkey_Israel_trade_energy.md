@@ -640,7 +640,7 @@
 | the European Union | 欧盟 |  |
 | Middle East | 中东 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（专业术语 + 现在完成）
 
@@ -704,13 +704,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-full of gas、vast offshore fields、exclusive economic zone、by contrast、energy-hungry、reserves、political rivals、fit together like、two pieces of a jigsaw、stranded、lacks、a hungry market、link the two、terminals、scrambling to、alternative sources、routed through、fit the bill、mutual suspicion、called ... war criminals、a hostile Islamist、not all bad、cooperated quietly、even as、quarrelled in public、broke down、a raid on、bound for、a series of crises、punctuated by、attempts at reconciliation、stands in the way、faces elections、pro-Palestinian、politically costly、under pressure from、backing away from、explaining to、economic gravity、more than they admit、struggling with inflation、inflation、biggest imports、for its part、diversify、reduce its reliance on、any single buyer、fit the wider picture、the moderate camp、conversely、the failure to strike a deal、strike a deal、more isolated and more vulnerable、compelling、even if、exactly the kind of、statesmen、are supposed to、doing the hard thing、prevent ... later、trade energy not insults
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `THE MEDITERRANEAN is full of gas` — 地中海满是天然气
 2. `Turkey, by contrast, is an energy-hungry country` — 土耳其是能源饥渴的国家
@@ -732,7 +728,7 @@ full of gas、vast offshore fields、exclusive economic zone、by contrast、ene
 18. `Doing the hard thing now would prevent a bigger problem later` — 现在做难事，将来免大难
 19. `Turkey and Israel should trade energy, not insults` — 交易能源而非辱骂（标题收尾）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **动名词比较**：`backing away ... is easier than explaining ...`
 - **介词前置定语从句**：`the kind of situation in which statesmen are supposed to act`
@@ -746,7 +742,7 @@ full of gas、vast offshore fields、exclusive economic zone、by contrast、ene
 - **would 条件语气**：`A pipeline ... would link`、`would prevent`
 - **分号对仗**：`Mr Erdogan has called ... war criminals; Israeli officials call ... a hostile Islamist`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：专业术语 + 现在完成
 - 原句 4：yet 转折 + 拼图比喻
@@ -755,7 +751,7 @@ full of gas、vast offshore fields、exclusive economic zone、by contrast、ene
 - 原句 30：省略式让步从句
 - 原句 33：以物易物式双宾语
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **反常识开场**：`THE MEDITERRANEAN is full of gas`——把自然地理写成惊人事实（大海"满"是气），用反常组合抓住读者
 2. **比喻贯穿全文**：`two pieces of a jigsaw`（拼图）——开篇的核心隐喻，后文不断回扣（stranded 搁浅、fit the bill 合适、gravity 引力），一个比喻体系支撑全文论证
@@ -768,7 +764,7 @@ full of gas、vast offshore fields、exclusive economic zone、by contrast、ene
 9. **三段式收尾**：逻辑动人（30）→ 政治家时刻（31）→ 做难事（32）→ 标题句（33）——从分析到呼吁，递进有力
 10. **"需要但嘴硬"洞察**：`need the deal more than they admit`——外交新闻的经典观察角度，把公开表态与真实利益分开
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

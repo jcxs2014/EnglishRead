@@ -762,11 +762,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-responsible for、Given how、heinous、grasp the consequences、reckoned to be、doli incapax、incapable of、wrestle with、criminal responsibility、regrettably、lawmakers、pushing ... downwards、scourge、blocked a motion、joint-lowest、well-publicised、horrified、stabbed、campaigning、recruit、foot soldiers、pliable、impulse-control、Neuroscientists、well into、enticed into、the promise of quick money、calculate、dodge punishment、precisely because、under-age、criminalise、ever younger、remove an incentive for、should reconsider、if only because、unjust、the low teens、heed、crime rates rose、reversed course、Prosecuting、hardened villains、emerge from、released from prison、reoffend、rehabilitation、securing ... away from、wrongdoers、rather than punishing、tackle、drew them into、criminality、youth-justice system、learning difficulties、mentors、investigated for、flagged to、worrying behaviour、wrongdoing、severe criminal penalties、exploit the young、create better childhoods、prevent ... from becoming
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `HOW DO YOU judge whether ...` — 开篇设问
 2. `Given how slowly human character develops` — 鉴于发展之慢
@@ -793,7 +789,7 @@ responsible for、Given how、heinous、grasp the consequences、reckoned to be�
 23. `flagged to social services for worrying behaviour` — 早期预警标记
 24. `prevent criminal children from becoming criminal adults` — 防儿童变惯犯
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **疑问句 + whether 宾语从句**：`judge whether children are responsible`
 - **主语-谓语分隔（长定语）**：`the least mature, who cannot grasp the consequences of what they do, are reckoned to be ...`
@@ -807,7 +803,7 @@ responsible for、Given how、heinous、grasp the consequences、reckoned to be�
 - **rather than + 动名词**：`rather than punishing them`
 - **Precisely because 强调**：`precisely because they are under-age`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 4（主语 + who 定语从句 + 破折号解释）
 - 原句 19（that 宾语从句 + which 定语从句指代全句）
@@ -815,7 +811,7 @@ responsible for、Given how、heinous、grasp the consequences、reckoned to be�
 - 原句 32（where 定语从句 + who 定语从句嵌套）
 - 原句 39（who 定语从句 + 被动 + 多层状语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **设问开篇 + 术语点睛**：标题"谁有能力行恶？"→ 首段末用拉丁术语 doli incapax（无作恶能力）作答——用古老的罗马法概念回应现代问题，标题即全篇主旨
 2. **"道德论 + 实用论"双轨论证**：`Even if you disagree with the moral argument, you should heed the practical one`——先给道德论证（不公），再给实用论证（无效），后者用实证（丹麦犯罪率升、昆士兰 96% 再犯）堵死反驳，结构严谨
@@ -825,7 +821,7 @@ responsible for、Given how、heinous、grasp the consequences、reckoned to be�
 6. **反例证伪**：丹麦（降龄→犯罪率升→掉头）、昆士兰（10 岁刑责→96% 再犯）、北爱尔兰（阻止 10→14 提高）——三个反例覆盖"降龄有害"的三种路径
 7. **首尾对仗收束**：`prevent criminal children from becoming criminal adults`——"犯罪的儿童不再变成犯罪的成人"，criminal children / criminal adults 的同词对仗，一句完成"改造目标"的总结
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

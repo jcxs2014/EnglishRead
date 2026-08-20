@@ -434,7 +434,7 @@
 | overwork | — 过劳 |  |
 | demographers | — 人口学家 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 1）
 
@@ -500,11 +500,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"工作文化比较"报道，词汇集中在：**勤奋与努力**（work ethic, hustle, diligence, outworking）；**制度与激励**（996, tied to hours, model workers, institutions）；**代价与后果**（overwork, linked to, contributing to, exhausted）；**文化概念**（involution, patriotic virtues, devotion to）。这组词是分析"国家工作文化"话题的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

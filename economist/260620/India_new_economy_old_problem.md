@@ -404,7 +404,7 @@
 | GDP | — 国内生产总值 |  |
 | emerging | markets — 新兴市场 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 2）
 
@@ -473,11 +473,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"新兴市场经济发展"评述文本，词汇集中在：**经济状态**（boom, thriving, squeezed, stalled, fizzle out）；**结构概念**（dual economy, informal sector, periphery, bottleneck）；**改革话语**（structural reform, seize the moment, tackle old problems）；**量化描述**（headline numbers, record venture capital, demographic edge）。这组词是分析新兴经济体崛起与瓶颈的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

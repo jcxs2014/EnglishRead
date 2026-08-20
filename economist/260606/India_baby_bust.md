@@ -1079,13 +1079,9 @@
 **④ 恢复逻辑：** 印度在远低于多数国家的发展水平跌破更替率：按购买力平价，其人均 GDP 不及马来、墨西哥、土耳其同期一半。
 **⑤ 整体理解：** 冒号前给结论（在更穷时跌破更替），冒号后用"人均 GDP 不到一半"（less than half that of）作数据证明——双重比较（much lower level + less than half that）。把握 fell ... at a much lower level than + 冒号数据证明。---
 
-## 五、精读结束总结
+## 三、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、total fertility rate、replacement rate、sputtering、on a par with、reference point、tally、translate into、frets、procreate、demographic transition、striking、plunging、exemplifies、child mortality、make it to adulthood、what really counts、autonomy、a greater say、shoves down、aspirational、dire、arms race、out-competed、soap operas、norms、distracting、implications、account for、central forecast、apex、conflict-ridden、scepticism、bank on、migrant labour、purchasing power parity、cramp、crossed the threshold、divert into、tax take、formal labour force、unambiguously、hurtle through、pain-free
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `YOU ARE having too many babies` — 全大写宣判开场："你们生太多孩子了"
 2. `That crude message was drilled into the minds of Indians by their rulers, abetted by inept foreign donors` — 粗鲁口号被统治者灌输进印度人脑海，还被不称职的外国捐赠者怂恿
@@ -1108,7 +1104,7 @@ baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、t
 19. `That need not cramp growth—China and Vietnam crossed the threshold at an even lower level of income—but it will complicate policymaking` — 未必妨增长（中国越南更低收入跨越），但会复杂化政策
 20. `The sources of falling fertility—girls' education, lower child mortality and the choices of individuals—are unambiguously good. But as India and others hurtle through their demographic transition, the consequences will not be pain-free` — 根源无疑好，但疾驰过转型的后果不会无痛（收束金句）---
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **全大写宣判句**：`YOU ARE having too many babies`
 - **被动 + 双施动**：`was drilled into ... by their rulers, abetted by inept foreign donors`
@@ -1124,7 +1120,7 @@ baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、t
 - **whatever 让步**：`Whatever its precise cause, the baby bust has big implications`
 - **双重否定（not ... -free）**：`the consequences will not be pain-free`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：被动 + 分词状语（by ... abetted by ...）
 - 原句 19：双 that 宾语从句 + where 定语从句
@@ -1133,7 +1129,7 @@ baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、t
 - 原句 47：which 非限定从句 + has failed to account for
 - 原句 55：比较 + 冒号数据论证
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **历史反转开场**：`YOU ARE having too many babies`（全大写宣判）→ 60 年代口号 → 70 年代绝育 → "今夏教材再版将警示太少"——用"同一国家的政策掉头"引出主题，开场即戏剧性
 2. **术语三步教学**：`a total fertility rate (TFR), a measure of children per woman, of 1.9 and falling`——术语 + 括号缩写 + 同位语通俗解释 + 数据——让外行读懂专业指标
@@ -1146,7 +1142,7 @@ baby bust、drilled into、abetted by、inept、chided、crueller、forcibly、t
 9. **囚徒困境逻辑**：`If your neighbours have few kids and spend more ..., your own will be out-competed unless you do the same`——用博弈逻辑证明"少生是理性选择"
 10. **好的根源 + 痛的后果**：`The sources ... are unambiguously good. But as India and others hurtle through their demographic transition, the consequences will not be pain-free`——双重否定（not pain-free）婉转表达"有痛"；hurtle（疾驰）画面收尾
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

@@ -772,7 +772,7 @@
 | ministers | — 部长 |  |
 | retail | sales — 零售额 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 3）：**
 > They have outflanked Germany's carmakers, stolen a march on South Korean shipbuilders and narrowed the gap with American chip designers.
@@ -804,23 +804,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本课核心词汇 / 表达清单
-
-**竞争 / 贸易语境：**
-- limitation is the sincerest form of flattery（金句）、outflank、steal a march on、narrow the gap、formidable、the preserve of、countermeasures、diversify suppliers
-
-**经济 / 政策语境：**
-- animal spirits、property bubble、withstand、geopolitical clout、historical-materialist bones、tax base、coffers、tax breaks、fiscal、propping up、mutually reinforcing
-
-**就业 / 民生语境：**
-- labour-intensive、jobs per yuan、delivery riders、gig economy、bike lanes vs assembly lines（金句）、migrant workers
-
-**地理 / 结构语境：**
-- tightly clustered、a handful of、leading and lagging regions、widens the divide、Inland provinces、unpromising backwaters
-
-### 2. 精读中重点掌握的语法
+### 1. 精读中重点掌握的语法
 
 - **not ... but 判定结构**：Judged not by industrial prowess but by the health of ...（原 17）
 - **it 形式主语 + that 主语从**：It is a tribute ... that world leaders are scrambling（原 4）
@@ -831,11 +817,11 @@
 - **分词状语（allowing）**：（原 41）
 - **On the face of it 假象 + however**：（原 38）
 
-### 3. 长难句提示
+### 2. 长难句提示
 
 见"四"。重点：三动词并列（3）、Unlike+which（19）、名词对仗（25）、因果环（40）。
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 **本课最大学术亮点——"两线对照 + 结构三段病因"：**
 
@@ -846,7 +832,7 @@
 5. **因果回环（loop）收尾**：Limp spending → cheap exports → booming exports → delay reform——不落俗套的"恶性循环"模型。
 6. **对仗结句**：European diversify supply vs China diversify demand——镜像结构收束——两种多元化同一个教训。
 
-### 5. 可迁移表达的"英语思维"
+### 4. 可迁移表达的"英语思维"
 
 - 想说"最强的时候是被copy/限得最厉害的时候"：**limitation is the sincerest form of flattery**。
 - 想说"完全超越对手"：**outflank / steal a march on**。

@@ -930,7 +930,7 @@
 | NASA's Terra | 美国宇航局泰拉卫星 |  |
 | drones | 无人机 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 16（as 倒装让步 + 主句）
 
@@ -984,13 +984,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vantage point、inexorably、graveyard、battered、sprawled、by accident、oozed、obtrusive、chanced by、vexed、mortal、dissolution、a host of、life-cycle、prone to、a bomb of、blooming、fertilise、mixed feelings、emblem、mortality、against the odds、tributes、inevitable、the way of ice、Nothing...but、sank
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `That is the way of ice` — 冰之道（母题句，首尾呼应）
 2. `Nothing would remain but water` — 除了水什么都不留
@@ -1014,7 +1010,7 @@ calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vanta
 20. `Ice returned to water, water to the ocean` — 冰回水，水归海（并列省略）
 21. `its time had come` — 大限已到（委婉语）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **倒装让步**：`huge as they were`（形容词 + as + 主 + be）
 - **强调句**：`It was not until ... that ...`；`It was not X that ... as much as Y`
@@ -1027,7 +1023,7 @@ calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vanta
 - **母题句首尾呼应**（bookend motif）：`That is the way of ice`
 - **for 作书面连词**：`for death was inevitable`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 16：`huge as they were`（倒装让步）
 - 原句 22：同位语插入 + 分词 + 定语从句层层嵌套
@@ -1035,7 +1031,7 @@ calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vanta
 - 原句 56：强调句 not...as much as + 省略 that 定语从句
 - 原句 19：It was not until...that... 强调句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **讣告体的拟人化**：全文把冰山当"逝者"写——calve（产仔出生）、siblings（同胞）、born ancient（生而老）、took its time（从容）、refused to die（拒绝死亡）、its time had come（大限已到）、Tributes were paid（致敬）。通过将自然物"人格化"，讣告体创造情感代入，让读者对一座冰山产生哀悼之情
 2. **母题句首尾呼应**：`That is the way of ice` 在第 1 段和第 10 段原样复现（bookend technique），将全文框定为"冰的生命循环"，死亡观从开场即确立
@@ -1045,7 +1041,7 @@ calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vanta
 6. **历史掌故的嵌入**：沙克尔顿与坚忍号（1916）、苏联科考站 Druzhnaya 1、NASA 卫星——用人类历史与科技为一座冰山的"一生"作注，扩大时间与空间尺度
 7. **感官与声音**：用文字唤起听觉（crashing cascades）、视觉（bluer tinge、green cloud）、色彩对比（rusty tanks vs pure white cliffs）——全感官写作
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

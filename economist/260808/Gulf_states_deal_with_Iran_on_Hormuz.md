@@ -464,7 +464,7 @@
 | n. /fiː/ | 费用 |  |
 | v. /dɪˈleɪ/ | 推迟 |  |
 
-## 五、长难句专项
+## 四、长难句专项
 
 ### 1. 句42（全文最难句）
 > Still, if a deal, however limited and unbalanced, lowers hostilities and buys Gulf countries time to build workarounds and defences that reduce Iran's leverage, it will be worth having.
@@ -499,7 +499,7 @@
 - **翻译**：然而，即使所有计划都按时完成，到2030年，战前每天经霍尔木兹运输的1500万桶中，仍有500万桶必须继续经由该海峡通过。
 - **可模仿点**：① 虚拟语气让步（even if...were...）表达"即便假设成立，结论仍不变"，比直陈更有力；② 数据写作中 "X of the Y that..." 是标准的"总量-占比"句式，论点与证据合二为一。
 
-## 六、精读结束总结
+## 五、精读结束总结
 
 **核心论点**：海湾国家被夹在美伊冲突之间；美国炸弹无法打通海峡，管道等替代方案远水救不了近火，且有三大局限（时间、安全、风险转移）。唯一现实出路是与伊朗达成一份有限、甚至不对等的协议——它的价值不在协议本身，而在为海湾国家买来修建替代设施与防御工事的时间，从而在长期削弱伊朗的筹码。结论：伊朗赢下这场战役，却可能输掉更长的战争。
 
@@ -522,7 +522,7 @@
 7. **自有数据引用**：as our "Hormuz dependency dashboard" shows——数据新闻增强可信度的惯用手法
 8. **条件句收束全篇**：句42用一条 if 因果链把所有论点（协议、时间、替代、筹码）串成整体
 
-## 七、可迁移表达（写作素材库）
+## 六、可迁移表达（写作素材库）
 
 1. **be caught in a mess of sb's making** —— 陷入某人一手造成的烂摊子
    例：The industry is caught in a mess of its own making.

@@ -669,7 +669,7 @@
 | endorses the views | 认可观点 | Endorse the views. |
 | lobby for bans | 游说要求禁令 | Lobby for a ban. |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 5（That 主语从句 + 分号递进）
 
@@ -753,13 +753,10 @@
 
 ---
 
-## 五、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
+## 四、精读结束总结
 
-banned for、has some merit、controversial、left-wing influencers、blocked from entering、shabby behaviour、sees itself as、the birthplace of free speech、a cultural norm、is eroded、turned away at the border、the home secretary、judged that、conducive to、extraordinarily vague、high-profile foreigners、unhinged、ramblings、was cited as justification、far-righters、a rabble-rouser、discretionary power、afforded to、sparingly、incitement to violence、the furore over、meet that threshold、offensive、bonkers、pose a threat to、any more than、gave sanctuary to、social-media disciples、the likes of、tune into、suppress their speech、seek them out、provocateurs、no excuse、press ... to、blunt the tools、the rich and powerful、ruinous costs、an egregious example、gagged by、under siege、it is shameful that、a bastion of tolerance、vigorous debate、censorious、keep people safe from、shield them from、makes a habit of、endorses the views、lobby for bans
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `The country ... should not be frightened of his modern social-media disciples` — 曾庇护马克思的国家不应害怕其现代社交媒体信徒
 2. `Direct and deliberate incitement to violence is unlawful; it may well be right to exclude someone with a history of such behaviour` — 直接蓄意的暴力煽动才是非法；拒有暴力史者或属正确
@@ -772,7 +769,7 @@ banned for、has some merit、controversial、left-wing influencers、blocked fr
 9. `It will encourage more and more activists to lobby for bans on foreigners whose ideas they disagree with` — 将鼓励越来越多活动家游说禁令（滑坡二）
 10. `And it will make Britain less free` — 这将使英国变得更不自由（收束）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **直接引语开头**：`"I've been banned for criticising Israel. Are we free any more?"`
 - **That 主语从句 + 分号递进**：`That people should be able to ...
@@ -786,7 +783,7 @@ banned for、has some merit、controversial、left-wing influencers、blocked fr
 - **对比不定式（金句）**：`is to keep people safe ... , not to try to shield them ...`
 - **if 条件 + 同位语从句**：`create the impression that it endorses ...`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 5：That 主语从句 + 分号递进
 - 原句 6：because 原因从句 + 法规引语
@@ -797,7 +794,7 @@ banned for、has some merit、controversial、left-wing influencers、blocked fr
 - 原句 27：超长 when 从句（同位语 + 分词堆叠）
 - 原句 29：对比不定式金句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **当事人之声开头**：`"I've been banned for criticising Israel. Are we free any more?"`——以当事人原话（引语）开场，先让"受难者"发出声音，再进入议题，直击读者的情绪与好奇
 2. **让步建立公信力**：`Mr Piker has many opinions that reasonable people find offensive or simply bonkers`——先承认观点糟糕（offensive or bonkers），再论证"即使糟糕也不该禁"——"不退让的诚实"让论证更有力
@@ -810,7 +807,7 @@ banned for、has some merit、controversial、left-wing influencers、blocked fr
 9. **BlancokeOrGag 滑坡论证**：`If it makes a habit of banning ... create the impression ... / encourage more and more activists to lobby / make Britain less free`——三次"如果→那么"推演后果：误导公众、助长排异、终致不自由——层层加码
 10. **标题谐音与图像呼应**：标题"Gag reflex"（堵嘴反射）与配图（嘴被国旗红十字封住）呼应正文 gagged（堵嘴）、Muzzled Britannia（消音的英国）——视觉与文字统一在"禁言"主题
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

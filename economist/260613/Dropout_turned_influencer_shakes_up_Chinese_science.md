@@ -952,7 +952,7 @@
 | meme | — 梗图 |  |
 | followers | — 粉丝--- |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 > **长难句 1（原句 5）：**
 > "I hope you'll take academic fraud more seriously in the future," he deadpanned, before demonstrating that the scientists had faked their data—and clumsily.
@@ -989,27 +989,9 @@
 >
 > **整体理解：** 宾语从句里套时间从句 + 二选一的结果——句式体现"历史规律"的确凿与无奈：无论走哪条，都不是"真诚改革"。---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本课核心词汇 / 表达清单
-
-**人物刻画类：**
-- dropout-turned-influencer（辍学变网红）、admirably forthright（令人敬佩地坦率）、saddled with debt（负债缠身）
-
-**打假 / 学术语境：**
-- scrutinise（细审）、debunk（揭穿）、fabrication（造假）、fraud lurks（造假潜伏）、academic misdeeds（学术不端）
-
-**比喻 / 修辞类：**
-- trigger an earthquake → aftershocks（地震 → 余震 连续比喻）
-- the elephant in the lab（实验室里的大象）
-- messages in a bottle（瓶中信）
-- let ... fester（放任化脓）
-- guerrilla whip-lash（游击式鞭挞）
-
-**制度与激励类：**
-- perverse incentives（扭曲激励）、publish or perish（不发表就灭亡）、make a show of action（装样子）、clamp down（打压）
-
-### 2. 精读中重点掌握的语法
+### 1. 精读中重点掌握的语法
 
 - **双宾语 cost sb sth**：His revelations have cost three universities their deans.
 - **less A than B 比较**：less a whistle-blower than an amplifier（与其说……不如说……）
@@ -1018,11 +1000,11 @@
 - **被动语态表"受……熏陶/影响"**：were more exposed to
 - **插入语扩展句式**：he argues / he notes / he says（嵌于句中）
 
-### 3. 长难句提示
+### 2. 长难句提示
 
 见上文"四、长难句专项"。重点练习：好序破折号补刀（5）、双宾语并列（8）、多重修饰包裹（14）、冒号同位语对仗（43）、宾语从句套时间从句二选一（57）。
 
-### 4. 写作技巧
+### 3. 写作技巧
 
 **本课最大的写作亮点——"反差 + 反讽"的立体塑造：**
 
@@ -1034,7 +1016,7 @@
 6. **设问驱动叙事**：Is he exaggerating? / What can be done?——把读者疑问显式提出再作答。
 7. **历史回声收尾**：十年前网络反腐先热后冷——暗示今次类似命运，开放式结尾留余韵。
 
-### 5. 可迁移表达的"英语思维"
+### 4. 可迁移表达的"英语思维"
 
 - 想表达"某现象是更大问题的征兆"：**be symptomatic of a deeper issue**——比 be a sign of 更学术、更形象。
 - 想表达"与其说 A 不如说 B"：**less A than B**——比 not ... but 更考究。

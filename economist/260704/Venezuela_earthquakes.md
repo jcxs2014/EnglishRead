@@ -510,7 +510,7 @@
 | Brazil | 巴西 |  |
 | Venezuelan | 委内瑞拉的 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（双 by 被动 + 双关）
 
@@ -574,13 +574,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-sits on、reserves of oil、shaken by、as well as、political turmoil、a reminder that、fragile、the resource curse、rich in minerals、poor in everything else、a textbook case、proven oil reserves、dominated by sanctions、sanctions、weaken the regime、removed from power、hurt ordinary、siphoned off、cronies、what remains、spent on keeping、keeping in power、signs of change、created a moment for、reconstruction、has hinted、open up to、foreign investment、press for reform、easing sanctions、in exchange for、the rule of law、more of the same、worse off、the stakes are high、a steady drain on、steady、border resources、a recovering Venezuela、a collapsed one、the regional dimension、absorbed refugees、refugees、repaid、the international community、the underlying issue、not geology but governance、governance、no amount of、manage its wealth properly、should be shared、squandered
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `VENEZUELA sits on one of the world's largest reserves of oil` — 委内瑞拉坐拥世界最大石油储量之一
 2. `shaken ... by earthquakes as well as by political turmoil` — 被地震与政治动荡双重震动（双关）
@@ -601,7 +597,7 @@ sits on、reserves of oil、shaken by、as well as、political turmoil、a remin
 17. `No amount of oil will help a country that does not manage its wealth properly` — 不会理财，再多油也无用
 18. `Venezuela's oil should be shared, not squandered` — 石油应共享而非挥霍（标题呼应）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **not A but B**：`not geology but governance`
 - **被动语态**：`has been shaken`、`has been siphoned off`、`has been spent`、`has been dominated`、`has not been repaid`
@@ -616,7 +612,7 @@ sits on、reserves of oil、shaken by、as well as、political turmoil、a remin
 - **部分否定**：`not always been repaid`
 - **存在句**：`There are signs of change`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：双 by 被动 + shaken 双关
 - 原句 4：resource curse 定义 + rich/poor 对仗
@@ -625,7 +621,7 @@ sits on、reserves of oil、shaken by、as well as、political turmoil、a remin
 - 原句 24：no amount of 绝对否定 + 定语从句
 - 原句 25：双被动分词对比
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"坐下"双关开场**：`sits on one of the world's largest reserves`——sits on 既是"坐拥"（拥有）又是"被压着"（动弹不得），一个字埋下全文"资源诅咒"主题
 2. **词汇双关贯穿**：`shaken`（地震震动 / 社会震动）、`drain`（资源流失 / 边境压力）、`siphoned off`（虹吸挪用）——一系列"流失/震动"意象织成全文的隐喻网
@@ -638,7 +634,7 @@ sits on、reserves of oil、shaken by、as well as、political turmoil、a remin
 9. **多视角论证**：委内瑞拉人民（第 4 段）→ 美国（第 6 段）→ 邻国（第 7 段）——由内而外，格局渐宽
 10. **数量词强化**：largest proven reserves、millions of refugees、85 million people——具体数字支撑论点（本篇用"世界最大储量"、"数百万难民"）
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

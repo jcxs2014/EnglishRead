@@ -407,7 +407,7 @@
 | avocado | toast — 牛油果吐司 |  |
 | bubble-tea | — 珍珠奶茶 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 2）
 
@@ -474,11 +474,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"消费文化观察"文本，词汇集中在：**食物与健康**（kale, quinoa, organic labels, health-conscious）；**阶层与身份**（middle-class taste, the affluent, the masses, signalling）；**流行扩散**（taken off, amplified, spread, gone native）；**门槛与限制**（a catch, out of reach, up to a point）。这组词是分析"外来饮食本土化"话题的工具包。
+## 三、精读结束总结
 
 ### 表达方式
 

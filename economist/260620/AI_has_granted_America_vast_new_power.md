@@ -965,7 +965,7 @@
 | fabs | — 晶圆厂 |  |
 | peak | power demand — 峰值电力需求 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 15）
 
@@ -1034,11 +1034,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文围绕"AI 地缘政治"出现三组高频词：**权力类**（wield, trample on, captive to, vassal, leverage）；**技术管控类**（restrict access, frontier, block exports, hierarchy of access, open-weight）；**经济/战略类**（bargaining positions, self-defeating, two-way dependence, build strength）。掌握这些词，可复用于一切科技竞争类文章。
+## 三、精读结束总结
 
 ### 表达方式
 

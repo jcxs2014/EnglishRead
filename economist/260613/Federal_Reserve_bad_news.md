@@ -712,7 +712,7 @@
 | unemployment rate | 失业率 |  |
 | tax cuts | 减税 |  |
 
-## 十、长难句专项
+## 二、长难句专项
 
 > **长难句 1（原句 1）：**
 > *FOR MOST of Kevin Warsh's career, becoming chair of the Federal Reserve with the American economy hot and in need of higher interest rates would have been the stuff of professional nirvana.*
@@ -768,14 +768,9 @@
 
 ---
 
-## 十一、精读结束总结
+## 三、精读结束总结
 
-### 1. 核心词汇
-- **货币政策类**：hawkish / doveishness、interest rates、quantitative tightening、balance-sheet、long-term bond yields、rate-setters、monetary-policy meeting
-- **经济态势类**：exuberant、firmed up、swelled、euphoria、productivity growth、inflation overshoots
-- **评价动词类**：crumbled、stoked、vanquished、presage、entertained、unleash
-
-### 2. 重要表达
+### 1. 重要表达
 - `the stuff of ... nirvana`（职业极乐的构成材料）
 - `can thank ... for`（反语：该怪……）
 - `all but killed`（几乎被扼杀）
@@ -785,7 +780,7 @@
 - `pull in opposite directions`（朝相反方向拉扯）
 - `rules of thumb`（经验法则）
 
-### 3. 核心语法
+### 2. 核心语法
 1. **虚拟式 would have been**：构建"本该如此"的反讽（原句 1）。
 2. **with 复合结构**：with + 宾语 + 形容词补语（原句 1）。
 3. **非限制性定语从句 most of whom**：补充说明人群态度（原句 7）。
@@ -793,12 +788,12 @@
 5. **such ... that 结构**：因果强调链（原句 22）。
 6. **省略关系代词**：a list of nerdy reforms he wants to make（原句 38）。
 
-### 4. 长难句要点
+### 3. 长难句要点
 1. 长句的骨架常是"主语 + 动名词/不定式 + 虚拟或条件"，先拆出主干再处理修饰。
 2. `with + 复合结构` 与 `by contrast` 这类介词短语承载大量对比信息。
 3. `not ... but`、`up, not down` 类"对举"结构是经济评论强调对比的惯用手法。
 
-### 5. 写作技巧
+### 4. 写作技巧
 1. **标题即结论**：标题 "must soon give Trump bad news" 直接给出最终判断，正文逐层论证。
 2. **反讽开篇**：用虚拟式（would have been nirvana）+ "ironic that ... come to pass" 制造理想落空的戏剧性。
 3. **数字证据链**：188,000/月、4.3%、4.2%、5% GDP、四分之一基点——用精确数据支撑判断。
@@ -806,7 +801,7 @@
 5. **段落转折枢纽**：Alas, the happy coincidence is over——一个词完成立场切换。
 6. **首尾呼应**：标题 bad news → 末句 give Trump bad news，闭环收束。
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 - 表达"本该却未能"：*would have been the stuff of ...*
 - 表达"站不住脚"：*the case for ... has crumbled / look shakier than ever*
 - 表达"固化预期"：*get baked into expectations*

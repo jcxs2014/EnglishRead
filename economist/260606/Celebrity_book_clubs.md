@@ -932,13 +932,9 @@ Letters 栏目每周汇编读者对近期文章的回应。本期六封信分别
 
 ---
 
-## 五、精读结束总结
+## 三、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-red carpet to reading list、book-clubs、irritating、a solitary experience into a collective one、as one academic put it、precisely、a non-profit、Founded by、banned...from、routinely excluded from、What they lack、the company of、a setting in which、are worthy、led by、supplies both、question the seriousness、in no short supply、among the most determined readers、despite and probably because of、get hold of、at all、a marvel of free markets、capitalism at its most remarkable、forthcoming initial public offering、overlooks、getting off the ground、fledgling startup、heading for bankruptcy、awarded it a contract、trajectory-changing、revenue stream、absorbed the risk、private investors、state-supported capitalism、more than、account of how、descended from...to...、cinematic event、serialised filler、deserves a wider diagnosis、the paradox of our cultural moment、the means of producing novelty、generative tools、so timid、retreat from...to...、not idiosyncratic but symptomatic、data-driven、greenlighting、rewards...over...、the legible past、the speculative future、algorithmic recommendation、collapses...onto、a handful of、safe attractors、anxious about、subscriber churn、prefer...to...、extending a known universe、the cost of failure、the cost of production has collapsed、infinite remixes of finite ideas、sharpen the contradiction、trained on the past、at vanishing cost、elaborate variations、soap opera、The risk is not...but...、everything does、the upholstery of nostalgia、stitch their own、on the desk of、set out his case for、felling、hindering development、a lack of courage、chop down、a refusal to acknowledge、the law of induced demand、time savings、flyovers、evaporate within months、road capacity、invites more private vehicles、suspiciously selective、One need only、leafy walkable streets、a government enclave、the value of a canopy、It is only when...that...、protected zones、impediments to progress、public-health infrastructure、in the dead of night、acting autocratically、moves away from...and towards...、car-centric expansion、public-led transit design、tree-huggers、a liveable city、heat-radiating concrete desert、stream of unpunctuated consciousness、management babble、caught my attention、spent my career in、middle management、the senior ranks、commanded that...produce、mission statement、seemingly simple、internal customers、straightforward English、pass muster、neglected to use、currently fashionable、buzzwords、ended up with、gobbledegook、countless hours、not alone in having read、to the tune of、Should a new title be needed、corporate filler text、striding across、accompanied your article、just transferred from...to...、sartorially relaxed、similarly attired、the managing director's office、Rather sniffily、enquired whether、trod in dog poo、thankfully、the City's mojo、dress code
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `turning "a solitary experience…into a collective one", as one academic put it` — 把孤独体验变成集体体验，正如一位学者所说
 2. `Charmaghz runs online book clubs where the Taliban has banned girls from secondary school` — 在塔利班禁止女孩上学的地方开办线上读书会
@@ -976,7 +972,7 @@ red carpet to reading list、book-clubs、irritating、a solitary experience int
 34. `Rather sniffily he enquired whether I had trod in dog poo on the way in` — 他轻蔑地问：进门时是不是踩了狗屎
 35. `the City's mojo no longer depends on its dress code` — 金融城的魔力不再取决于着装规范
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **noted that...but that...**：`noted that most book-clubs are irritating, but that such clubs make reading less lonely`
 - **turning 分词承接**：`turning "a solitary experience…into a collective one"`
@@ -998,7 +994,7 @@ red carpet to reading list、book-clubs、irritating、a solitary experience int
 - **Should 倒装条件句**：`Should a new title be needed`
 - **间接问句**：`enquired whether I had trod in dog poo`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 1：noted that...but that + turning 分词
 - 原句 5：what 主语从句 + 双表语 + in which
@@ -1011,7 +1007,7 @@ red carpet to reading list、book-clubs、irritating、a solitary experience int
 - 原句 43：Should 倒装条件句 + 戏仿
 - 原句 46：间接问句 + 含蓄幽默
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"复述原文 + 反驳"开头**：每封信都以"You said ..."（你们说过……）开场，先复述《经济学人》原文立场，再提出自己的补充/反驳——读者来信的标准范式
 2. **despite and because of 双逻辑**：`They are ... determined ... despite and probably because of the barriers`——把"障碍"同时写成"阻碍"与"动力"，一个介词短语容纳两个相反逻辑
@@ -1024,7 +1020,7 @@ red carpet to reading list、book-clubs、irritating、a solitary experience int
 9. **引号反讽**：`the "dysfunctional" city`——引号表明"这是官方用词，作者不同意"
 10. **英式含蓄幽默**：`enquired whether I had trod in dog poo`——不直说"皮鞋颜色不对"，而问"是否踩到狗屎"——含蓄、刻薄、礼貌的英式幽默
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

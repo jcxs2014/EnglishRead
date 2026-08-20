@@ -351,7 +351,7 @@
 | Trump administration | 特朗普政府 |  |
 | dystopian | 反乌托邦 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（动名词主语 + that 定语从句）
 
@@ -405,13 +405,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-made the case for、understated、frontier AI、treating it as such、come to regret、comparing to、dystopian fiction、unhelpful and wrong、silenced、posed a genuine threat、entitled to、protect from harm、treats as、a referee、a poor record、slow to recognise、quick to fear、more experimentation not less、ignores the most important point、the geopolitical race、blocks its own、will not stop developing、restraint、a gift to the other、the deepest problem、no longer agree on、what intelligence is for、embodies values、contested、going round in circles、until we resolve that、the first duty of a free press、a free press、keep readers comfortable
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `made the case for caution` — 为谨慎提出理由
 2. `I fear it understated the dangers` — 我担心它低估了危险
@@ -429,7 +425,7 @@ made the case for、understated、frontier AI、treating it as such、come to re
 14. `the debate ... will keep going round in circles` — 辩论将原地打转
 15. `the first duty of a free press is not to keep readers comfortable` — 媒体职责不是让读者舒适
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **动名词主语**：`Comparing ... to ... is unhelpful`、`treating it as such is a mistake`
 - **分号对比**：`not silenced ...; they were blocked because ...`
@@ -444,7 +440,7 @@ made the case for、understated、frontier AI、treating it as such、come to re
 - **介词前置定语**：`on what intelligence is for`
 - **被动语态**：`were silenced`、`were blocked`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：动名词主语 + that 定语从句
 - 原句 4：分号对比 + because 从句
@@ -452,7 +448,7 @@ made the case for、understated、frontier AI、treating it as such、come to re
 - 原句 7：slow/quick 对仗
 - 原句 12：that 表语从句 + what 宾语从句
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **读者来信的"礼貌反对"开篇**：`Your leader ... made the case for caution, but I fear it understated...`——先承认对方优点，再转折异议——书信辩论的礼仪结构
 2. **单一论点的信体格式**：每封信只讲一个核心观点（低估危险 / 类比错误 / 政府当球员 / 地缘竞赛 / 价值分歧）——一封一议，观点鲜明
@@ -465,7 +461,7 @@ made the case for、understated、frontier AI、treating it as such、come to re
 9. **专业术语适度**：`frontier AI`（前沿 AI）、`geopolitical race`（地缘竞赛）、`contested values`（争议价值）——专业读者群的词汇水平预设
 10. **风险语言的精确性**：`a genuine threat`（真正的威胁）vs `dystopian fiction`（反乌托邦小说）——"真实"与"虚构"的对立是信与信之间的核心张力
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

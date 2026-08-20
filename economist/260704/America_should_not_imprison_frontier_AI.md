@@ -744,7 +744,7 @@
 | prescription | 处方 |  |
 | over-the-counter | 非处方 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（so...so...that 双排比 + 结果从句）
 
@@ -798,13 +798,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-developing spat、spat、pressing、premature、third parties、matters、warning shot、whatever the outcome、balance of power、shifting、highlights、central dilemma、wrecking、frontier models、convincing、misused、bioweapons、cyberattacks、at scale、acknowledging、slow down、banning、heavily restricting、keep foot on accelerator、red-team testing、robust preparedness、sympathies are with、oversight、involvement、imprison、lieutenants、hard to enforce、cede、above all、in any case、roll back、bend、establish、kept from、left alone、in the same way that、apply to、draw the line、prescription drugs、over-the-counter、strictly controlled、freely available、grave、stakes are high、retain the right、deep knowledge、serious plan、in an emergency、in extreme cases、might be right、the bar for、transparently、demanded to see、in private、fell well short of、the right approach、not...but、done well、the path to safety、resolved、in that spirit、in practice、shareholders、the bigger prize、political culture、treats as、leads the world in
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `how to regulate very powerful models without wrecking them` — 如何监管极强模型而不毁掉它们（核心困境）
 2. `The question is not whether to regulate, but how` — 问题不是要不要管而是怎么管
@@ -817,7 +813,7 @@ developing spat、spat、pressing、premature、third parties、matters、warnin
 9. `a place to govern, not to imprison` — 治理之地而非囚禁之地
 10. `America leads the world in frontier AI, and it should lead it in governing it, too` — 技术领先，治理也要领先（金句）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **not A but B**：`not whether to regulate, but how`、`not to slow it down, but to bend it`
 - **so...so...that 结果从句**：双 so 排比 + that
@@ -831,7 +827,7 @@ developing spat、spat、pressing、premature、third parties、matters、warnin
 - **动名词复合结构**：`mean the government getting to see the models`
 - **现在完成进行时**：`has been pressing`（持续施压）
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：so...so...that 双排比 + 结果从句
 - 原句 29：as 方式从句 + 冒号并列解释
@@ -839,7 +835,7 @@ developing spat、spat、pressing、premature、third parties、matters、warnin
 - 原句 38：mean + 动名词复合 + under rules + that 定语从句
 - 原句 39：不定式表语 + as 补语对比
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"for X reasons" 数字结构**：第 1 段 "matters for three reasons"、第 4 段 "wrong for two reasons"——用数字预告论证结构，让文章骨架清晰可读
 2. **先让步再立场的辩论式结构**：先承认风险（第 2 段 "governments are right"）、再展示两派、最后站队（第 3 段 "sympathies are with"）——比直接表态更有说服力
@@ -850,7 +846,7 @@ developing spat、spat、pressing、premature、third parties、matters、warnin
 7. **金句式收尾**：`leads the world in frontier AI, and it should lead it in governing it, too`——用动词反复制造口号，升华主题
 8. **具体数据/事实**：Fable 和 Mythos 两个模型名、处方药/非处方药的具体例子——用具体性增强可信度
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

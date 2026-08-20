@@ -294,7 +294,7 @@
 | v. | 逃逸、逃脱 |  |
 | v. | 衡量、测量 |  |
 
-## 五、长难句专项
+## 四、长难句专项
 
 ### 句 10（引语倒装 + 三重并列不定式）
 > Officials spend public funds to reorient office buildings, consult feng shui masters and buy charms, the Central Commission for Discipline Inspection, the party's internal watchdog, complains.
@@ -320,7 +320,7 @@
 - **翻译**：凭借这套评估，他们算出了在市长管辖下的各县中，哪些县相对市长的居所会被视为不吉利。
 - **可模仿点**：`which of the N that... would be...` 的嵌套模式；`in relation to` 引出比较/判断基准；多层从句的"跳读法"——先找主干谓语，再回头补修饰。
 
-## 六、精读结束总结
+## 五、精读结束总结
 
 **核心论点**：风水信仰并不止于普通人的家居生活，而是渗透进中国地方官员的治理决策——被市长依据生辰算定为"忌方"的县市，平均 GDP 低 2.3%；全国加总，每年损失 0.1% 的 GDP。但文章没有止于批判：借研究者之口指出，在政策多变、仕途未卜的高压环境下，迷信恰恰是官员缓解焦虑的心理机制。
 
@@ -333,7 +333,7 @@
 4. **结尾反转**：先立"应该损害晋升"的常理靶子，再给意外解释（心理安抚），让文章超越"揭露"停留在"理解"层面。
 5. **"把玄学变成变量"的写法**：第 4 段展示如何把不可测的信仰转化为可统计的地理变量——这种"概念操作化"思路适用于一切社科写作。
 
-## 七、可迁移表达
+## 六、可迁移表达
 
 1. **be all about + 名词** —— 核心就是……
    - 例句：Leadership is all about making others better.（领导力的核心就是让别人变得更好。）

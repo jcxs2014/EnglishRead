@@ -1108,11 +1108,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-excel at、formulating questions、weighed against、at the expense of、non-combatant、cut-off value、varied widely、betrays、central contention、waiver of sanctions、concession、on paper、aberration、twin pressures、hold back、a flood of、facilitate、state actors、lingers over、All the while、bypass、check ... leverage、attendant、the deeper problem、illustrates、recourse、can least afford、far from alone、burning through、food-shock window、conditionality、disbursed、exposed to、liquidity、solvency、falling academic standards、at its core、cowardly、fabricated、confronts ... with、enforcement、in effect、abandon the pretence of、academic integrity、credential mills、double down、capping、come into effect、separating equilibrium、lamented、a signal、grade inflation、elusive、permissive rather than statutory、the starving of funding、shredding、lifelong learning、rings true、chairing、anonymous column、original insights、treat ... with ridicule、churlish、punchbag、the butt of、For what it's worth、wouldn't swap it for
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `"Computo, ergo sum"` — 戏仿笛卡尔（我算故我在）
 2. `excel at formulating questions, but ... no agreed answers` — 擅长提问无答案
@@ -1136,7 +1132,7 @@ excel at、formulating questions、weighed against、at the expense of、non-com
 20. `first prize is a week in Warrington; second prize is two weeks` — 沃灵顿老梗
 21. `I wouldn't swap it for anywhere` — 不愿换任何地方
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **戏仿/双关（pun/parody）**：`Computo, ergo sum`、`order one in`
 - **what 主语/宾语从句**：`what looks significant on paper` / `what economists call`
@@ -1152,7 +1148,7 @@ excel at、formulating questions、weighed against、at the expense of、non-com
 - **最高级 + ever 定语从句**：`the best column ... that I have ever seen`
 - **多重嵌套从句**：`which let countries hit by ... borrow`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
 - 原句 12（what 主语从句 + 破折号插入）
@@ -1161,7 +1157,7 @@ excel at、formulating questions、weighed against、at the expense of、non-com
 - 原句 35（By 方式 + 冒号二选一）
 - 原句 39（what 从句 + 动名词同位语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **读者来信的"回应-延伸"结构**：每封信先明确回应的原文（标题+日期），再提出自己的论点——`"Cancelled penalty" was correct in its central contention` / `Your leader ... rightly noted`——先给肯定的锚点，再展开，符合书信礼仪
 2. **专业概念 + 通俗解释**：`known as the non-combatant casualty cut-off value (NCV)`（先给术语再给括号解释）、`doli incapax—incapable of evil`（破折号英译）、`a separating equilibrium`（随后用 "the market sorting" 白话重述）——术语进出有序
@@ -1171,7 +1167,7 @@ excel at、formulating questions、weighed against、at the expense of、non-com
 6. **轶事的白描**：格林斯潘匿名专栏被主编称"best column ... that I have ever seen"、海军上将电梯轶事、沃灵顿中餐店笑话——用"小故事"而非"论点"回应原文，信件风格多样
 7. **收尾留温度**：`It would be churlish of me to complain`（抱怨失礼）+ `I wouldn't swap it for anywhere`（哪里都不换）——骂归骂、爱归爱，乡情在自嘲中升华
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

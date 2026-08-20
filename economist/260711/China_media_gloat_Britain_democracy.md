@@ -438,11 +438,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-coyly、unaccountable、turnover、contrasts with、unending、satire、cynical、envy、transparency、elitist、state-run、chaotic、deep-seated、naive、bureaucracy、dared to、in power、a gift to、pushes for、the late
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `It was not hard to guess` — 显而易见
 2. `yet more evidence` — 又一条证据
@@ -457,7 +453,7 @@ coyly、unaccountable、turnover、contrasts with、unending、satire、cynical�
 11. `In power since` — 执政以来
 12. `dared to say it` — 竟敢说出（自我审查）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **It 形式主语**：`It was not hard to guess how ...`
 - **倒装引述**：`coyly asked the People's Daily` / `said Mr Cui`（引语先行 + 主谓倒装）
@@ -470,14 +466,14 @@ coyly、unaccountable、turnover、contrasts with、unending、satire、cynical�
 - **引号标记转述**：官媒话语与网民话语全程用引号保持距离
 - **对称句**：`a right to know` vs `a right to be ignorant`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 1（It 形式主语 + 宾语从句嵌套）
 - 原句 3（引语倒装 + 多层同位语）
 - 原句 6（引语先行 + 多层后置修饰）
 - 原句 19-20（对比句 + 分词状语）
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **"弦外之音"收尾**：全篇最锋利的判断（中国人不敢说"羡慕领导人更替"）不靠作者断言，而靠两句网民对话（"I envy..." / "You dared to say it"）自然浮出——**用引语代替评论**
 2. **引号的距离管理**：中国官媒与网民话语全程加引号，作者保持报道者身份；唯一的作者评论是形容词（coyly、ugly、unending），用词精到而不直接批判
@@ -487,7 +483,7 @@ coyly、unaccountable、turnover、contrasts with、unending、satire、cynical�
 6. **事实前置的分词结构**：`In power since 2012, he removed presidential term limits in 2018` 用分词短语压缩背景，主句快速推进
 7. **层层递进的结构**：官媒嘲讽 → 网民共鸣 → 喜剧流行 → 台词传播 → 自况 → 禁忌表达，从外部叙事逐步收向最私密、最敏感的真实
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

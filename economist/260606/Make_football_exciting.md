@@ -887,7 +887,7 @@
 | consolations | 安慰 | A consolation prize. |
 | could be | 可能是 | It could be worse. |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 3（which 从句 + 同位语比喻）
 
@@ -981,13 +981,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-the beautiful game、the boring game、is being hosted by、the international equivalent of、rowing in the kitchen、feature、over the course of、dependably exciting、for neutrals、the average game、pretty drab、stakes、too high to take big risks、hanging on for a draw、pays off、less fancied teams、circulating、a manager whose credentials include、making Arsenal bearable to watch、tweaking the offside rule、turning throw-ins into kick-ins、radical enough、would like to propose、the world game、thrills to、hits one of the posts、the crossbar、count as a goal、attacking intent、amply rewarded、favour、go for it、non-qualifiers、a team of their own、never get to participate、made up of、the highest-ranked players、a second-favourite side、as the match progresses、less and less of、make saves、off-limits、injury time、block the ball、feigns injury、runs a higher risk of、for real、writhe around、in pretend agony、for minutes on end、tedious beyond belief、is judged to have feigned、unpunishable、rolling around on the floor、the drama of violent retribution、either way、a random member of the crowd、is chosen to participate、may well be picked、allegiances、new teammates、It's up to them、wrestling matches、blindfolded、allowed to continue、goes off the field、starts booing、nothing like...to、the promise of permanent residency、as well as、award a green card、dribbles past an opponent、on American soil、memorable figures、did a dance by the corner flag、our point is made、a creative goal celebration、rescind a yellow card、foul play、imaginative、applied within matches、two balls on the field at once、mainly be fun、have an effect on、In extremis、a panel of video assistant referees、award a penalty against、for being too boring、inordinate amounts of time、passing the ball、apparently unaware that、should be punished、just possible、will not be adopted、bold thinking、takes time to become accepted、in the meantime、consolations、could be
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `Football is the beautiful game. But it's often also the boring game` — 足球是美丽的运动，但往往也是无聊的运动
 2. `the international equivalent of going to a dinner party and hearing the hosts rowing in the kitchen` — 国际上的等价物：去晚宴却听见主人厨房吵架
@@ -1023,7 +1019,7 @@ the beautiful game、the boring game、is being hosted by、the international eq
 32. `Bold thinking often takes time to become accepted` — 大胆的想法常需时间被接受
 33. `It could be six and a half weeks of golf` — 那可能是六周半的高尔夫
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **对仗反转**：`the beautiful game` → `the boring game`
 - **which 非限定从句**：`The World Cup, which starts on June 11th, is being hosted by ...`
@@ -1044,7 +1040,7 @@ the beautiful game、the boring game、is being hosted by、the international eq
 - **spend time doing**：`spend inordinate amounts of time passing the ball`
 - **形式主语 it**：`It is just possible that these ideas will not be adopted`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 3：which 从句 + 同位语比喻
 - 原句 5：although 让步 + for neutrals 状语
@@ -1056,7 +1052,7 @@ the beautiful game、the boring game、is being hosted by、the international eq
 - 原句 30：被动 + until 双终止
 - 原句 39：spend 结构 + 分词
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **先立后破**：`the beautiful game` → `the boring game`——用经典美誉开头，一个转折立起全文问题（美丽 vs 无聊）
 2. **家庭比喻**：`going to a dinner party and hearing the hosts rowing in the kitchen`——把三国合办世界杯比作"主人厨房吵架"，用家庭场景消解宏大赛事
@@ -1069,7 +1065,7 @@ the beautiful game、the boring game、is being hosted by、the international eq
 9. **诚实招供的笑点**：`mainly be fun because of the effect that it will have on referees and commentators`——坦白"建议是为了看裁判抓狂"，诚实本身就是笑点
 10. **英式幽默收束**：`It is just possible that these ideas will not be adopted ... It could be six and a half weeks of golf`——自嘲"建议不会被采纳"，再用"六周半高尔夫"反衬"世界杯还行"——自我拆穿 + 反向安慰
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

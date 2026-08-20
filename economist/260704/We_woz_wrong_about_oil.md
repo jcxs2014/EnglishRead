@@ -442,7 +442,7 @@
 | gas | 天然气 |  |
 | climate change | 气候变化 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 6（insatiable + 名词短语主语）
 
@@ -506,13 +506,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-long-running series、the resource supercycle、wrong about that、the logic behind、absurd、running out of、cheap oil、insatiable、emerging markets、the shale revolution、unlocked、vast new supplies、meanwhile、more slowly than expected、more efficient、what went wrong、the honest answer、extrapolated from the past、took the recent trend、complex systems、run in straight lines、the deeper lesson、prediction itself、most confident、least needed、at the extremes、turning points、confidence is highest、just before the path bends、none of this means、easy to predict、what is certain、remain central to、geopolitics、for decades、burning it freely、are numbered、the right attitude、humility、state our confidence、only when the evidence demands it、to put it、right not loud
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `WE WERE wrong` — 我们错了（三个词的开场）
 2. `Our long-running series ... predicted that oil prices would keep rising` — 长期系列预测油价续涨
@@ -531,7 +527,7 @@ long-running series、the resource supercycle、wrong about that、the logic beh
 15. `The right attitude ... is humility` — 正确的态度是谦逊
 16. `we will try to be right, not loud` — 努力正确而非响亮（金句）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **What 主语从句**：`What is certain is that...`
 - **that 表语从句**：`The honest answer is that we extrapolated`
@@ -547,7 +543,7 @@ long-running series、the resource supercycle、wrong about that、the logic beh
 - **not X 对比**：`right, not loud`
 - **比较结构**：`more slowly than expected`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 6：insatiable + 名词短语主语
 - 原句 9：as 双因从句
@@ -556,7 +552,7 @@ long-running series、the resource supercycle、wrong about that、the logic beh
 - 原句 17：What 主语从句 + that 表语从句
 - 原句 21：定语从句省略 that + right/loud 双关
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **最诚实的开场**：`WE WERE wrong`——三个词、全大写、无前缀。媒体认错最有效的开场就是"不找借口"，短句显坦诚
 2. **设问推进**：`What went wrong?`——自问自答引导读者进入方法论分析，比直接讲道理更有互动性
@@ -569,7 +565,7 @@ long-running series、the resource supercycle、wrong about that、the logic beh
 9. **自嘲收尾**：`we will try to be right, not loud`（正确而非响亮）——right/loud 双关（对 / 响）精准点出媒体的职业陷阱，以自嘲收束，既有道理又有幽默
 10. **"首尾呼应"的认错结构**：开头 WE WERE wrong（1）→ 中间 We were wrong about that, too（3）→ 结尾 right, not loud——认错贯穿始终，姿态前后一致
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

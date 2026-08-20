@@ -530,23 +530,46 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| wring more from | 榨取更多 | 从国资挤钱（标题） || ease fiscal straits | 缓解财政困境 | 找钱动机 || dilapidated / run-down | 破败/失修 | 改造前旧貌 || municipal coffers | 市政金库 | 租金去向 || in a tailspin | 螺旋下坠 | 房地产 || high-water mark | 历史峰值 | 房价顶点 || blown a hole in | 炸开大洞 | 预算冲击 || slapping fines on | 开罚单 | 荒唐自救 || put ... to work | 让……运转 | 盘活资产 || rummage / closet | 翻找 / 衣柜 | 核心隐喻 || breathe life into | 注入生机 | 盘活目标 || fitted the bill | 正合要求 | 契合中央 || reclaimed / consolidated | 收回 / 整合 | 资产盘活 || takes stakes in | 入股 | 分享增长 || a break with | 决裂 | 告别扩张 || expansion binge | 扩张狂潮 | 过去模式 || move the needle | 产生影响 | 实效设问 || shell games | 空壳游戏 | 假盘活 || a reckoning with | 清算 | 模式反思 || get more from less | 以少换多 | 点题 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| revitalise | 振兴 | 城市改造 || stunning | 惊人的 | 转变之巨 || lay unused | 闲置 | 资产闲置 || flocked to | 涌向 | 游客 || debt-saddled | 债台高筑 | 城市状态 || raise cash | 筹钱 | 找钱 || doling out | 分发 | 开停车票 || deleverage | 去杠杆 | 正规自救 || sprawl | 蔓延 | 城市扩张 || chastened | 吃了教训的 | 财政教训 |### 2. 本文核心表达
 
-1. `squeeze/wring more out of` —— 榨取更多（标题 + 正文呼应）
-2. `it is the streets ... that matter more` —— 强调句转折
-3. `roughly the size of Central Park` —— 国际参照系换算
-4. `lay unused` —— 闲置状态
-5. `blown a hole in local budgets` —— 破坏预算的暴力意象
-6. `"deep-sea fishing" expeditions` —— 讽刺性隐喻
-7. `in line with textbook economics` —— 教科书式合规
-8. `It's like looking through your closet and seeing a shirt` —— 生活隐喻（核心）
-9. `As is often the case in China` —— 套话式观察
-10. `breathe more life into them` —— 注入生机
-11. `fitted the central government's bill` —— 正合要求
-12. `instead of just collecting rent ... takes stakes` —— 房东变股东
-13. `move the needle` —— 实质影响
-14. `playing shell games` —— 空壳游戏
-15. `a financially chastened China is trying to get more from less` —— 点题收束
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| wring more from | 榨取更多 | 从国资挤钱（标题） |
+| ease fiscal straits | 缓解财政困境 | 找钱动机 |
+| dilapidated / run-down | 破败/失修 | 改造前旧貌 |
+| municipal coffers | 市政金库 | 租金去向 |
+| in a tailspin | 螺旋下坠 | 房地产 |
+| high-water mark | 历史峰值 | 房价顶点 |
+| blown a hole in | 炸开大洞 | 预算冲击 |
+| slapping fines on | 开罚单 | 荒唐自救 |
+| put ... to work | 让……运转 | 盘活资产 |
+| rummage / closet | 翻找 / 衣柜 | 核心隐喻 |
+| breathe life into | 注入生机 | 盘活目标 |
+| fitted the bill | 正合要求 | 契合中央 |
+| reclaimed / consolidated | 收回 / 整合 | 资产盘活 |
+| takes stakes in | 入股 | 分享增长 |
+| a break with | 决裂 | 告别扩张 |
+| expansion binge | 扩张狂潮 | 过去模式 |
+| move the needle | 产生影响 | 实效设问 |
+| shell games | 空壳游戏 | 假盘活 |
+| a reckoning with | 清算 | 模式反思 |
+| get more from less | 以少换多 | 点题 |
+| debt-saddled | 债台高筑 | 城市状态 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| revitalise | 振兴 | 城市改造 |
+| stunning | 惊人的 | 转变之巨 |
+| lay unused | 闲置 | 资产闲置 |
+| flocked to | 涌向 | 游客 |
+| raise cash | 筹钱 | 找钱 |
+| doling out | 分发 | 开停车票 |
+| deleverage | 去杠杆 | 正规自救 |
+| sprawl | 蔓延 | 城市扩张 |
+| chastened | 吃了教训的 | 财政教训 |
 
 ### 3. 重要语法
 
@@ -595,3 +618,10 @@
 | `get more from less` | 效率理念 | The new line gets more from less. |
 | `in line with` | 合规一致 | The move is in line with the policy. |
 | `lie beyond` | 超越范围 | The real issue lies beyond cost. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| `in line with` | 合规一致 | The move is in line with the policy. |
+| `put ... to work` | 资源配置 | The firm put idle capital to work. |
+| `fit the bill` | 需求匹配 | A compact model would fit the bill. |

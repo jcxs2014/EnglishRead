@@ -817,7 +817,7 @@
 | winners | 赢家 |  |
 | losers | 输家 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 2（for every...there is 对照 + 双 where 从句）
 
@@ -921,13 +921,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-not one story; it is many、tech hub、booming、For every...there is...、divergence、a feature, not a bug、GDP per person、roughly three times、the national average、the share of、far faster than、as a whole、home to、semiconductor cluster、wealthiest、fast-growing、promoted as、models of、for contrast、heavy-industry powerhouse、struggled to reinvent itself、reinvent itself、barely half、barely、shrinking、for years、once its pride、draining away、the coastal clusters、a battle for talent、between regions、push...to become、technology-intensive、skilled worker、rises、so does...、responded with、a variety of measures、relaxed household-registration rules、subsidies for researchers、by making it easier for...to、accelerate the divergence、rather than slow it、shows up、grew by roughly 90%、while、barely moved、visible in、the labour market、unemployment rate、labour shortages、complain of、the opposite is true、in particular、voting with their feet、reinforced、directs resources、state-owned banks、policy funds、tend to favour、the returns on investment、subsidies、tax incentives、are tied to、a handful of、eager to attract、the next Shenzhen、compete by offering、tax breaks、cheap loans、the upshot、self-reinforcing cycle、attract more investment、in turn、draws in、still more、find it harder to、in reverse、consequences、go beyond、losing cities、ageing faster、staying behind、fiscal squeeze、pensioners、health-care needs、residents who remain、dimmer prospects、a political dimension、claim to be committed to、balanced regional development、looks increasingly hollow、growing resentment、has abandoned them、remained largely silent、a potential source of、instability、none of this、inevitable、adjusted、redistribute towards、lagging regions、invested heavily in、the narrative of、is unlikely to abandon、winner-takes-all economy、is likely to keep producing、winners—and losers
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `China's economy is not one story; it is many` — 中国经济不是单一故事
 2. `For every tech hub ... there is a ...` — 每有一个科技中心，就有一个落后城
@@ -964,7 +960,7 @@ not one story; it is many、tech hub、booming、For every...there is...、diver
 33. `invested heavily in the narrative of technological success` — 在技术成功叙事上重注
 34. `the winner-takes-all economy ... producing winners—and losers` — 赢家通吃的经济制造赢家——和输家
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **分号格言句**：`China's economy is not one story; it is many`
 - **For every...there is 对照**：`For every tech hub ... there is a Huai'an ...`
@@ -985,7 +981,7 @@ not one story; it is many、tech hub、booming、For every...there is...、diver
 - **被动情态建议**：`Policies could be adjusted`
 - **破折号反转**：`winners—and losers`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 2：for every...there is 对照 + 双 where 从句
 - 原句 13：as 从句 + so 倒装
@@ -998,7 +994,7 @@ not one story; it is many、tech hub、booming、For every...there is...、diver
 - 原句 34：there be + 同位语从句
 - 原句 39：破折号反转收束
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **格言式开场**：`China's economy is not one story; it is many`（中国经济不是单一故事）——"否定 + 反转"的开场，三秒抓住读者，为"分化"主题立纲
 2. **For every A, there is a B 对照句**：把抽象分化写成"城市对城市"的具体镜像（深圳 vs 淮安）——让宏观判断落地
@@ -1011,7 +1007,7 @@ not one story; it is many、tech hub、booming、For every...there is...、diver
 9. **镜像对仗**：`the young are leaving and the old are staying behind`、`fewer workers ... more pensioners`——对偶句式把复杂社会现象压缩成朗朗上口的对比
 10. **审慎收束**：`None of this is inevitable ... But ... unlikely to abandon it ... winners—and losers`——先给"出路"，再给"现实"，最后用破折号把"losers"拖到句尾定格，留下开放性
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

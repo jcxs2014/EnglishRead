@@ -1046,7 +1046,33 @@
 4. **讽刺性评论**：如 "mania for lists and slogans"、AI 聊天机器人的对比
 5. **首尾呼应**：标题 "luxury" 在结尾句重现
 
-### 核心词汇家族
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| take mental health less seriously | 不太重视心理健康 | 讨论代际差异、文化偏见 |
+| a surge in | 某事物激增 | 数据描述、趋势分析 |
+| after allowing for | 考虑到/把……考虑在内 | 统计分析、学术写作 |
+| sparse data | 稀疏数据 | 学术写作、数据质量讨论 |
+| marked a turning-point | 标志着转折点 | 历史事件分析 |
+| jumps straight to | 直接跳到 | 描述跳跃式发展 |
+| out of bounds | 禁止进入 | 规则、限制描述 |
+| take advantage of | 利用 | 中性表达，描述资源利用 |
+| a spate of | 一系列（坏事） | 新闻报道、负面事件 |
+| perceived unfairness | 感受到的不公正 | 社会心理分析 |
+| with its mania for | 以其对……的热衷 | 带讽刺的描述 |
+| a free-for-all | 混战/大乱斗 | 描述混乱的市场/环境 |
+| fraud and malpractice | 欺诈和不当行为 | 法律、监管语境 |
+| chip away against | 逐渐打破/侵蚀 | 描述渐进式改变 |
+| what it entails | 它意味着什么/需要什么 | 解释复杂概念 |
+| the better-off | 富裕阶层 | 经济分层描述 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| for now | 目前 | 谨慎限定、展望未来 |
+
 - **心理健康**：mental health, mental illness, mental disorders, mental distress, psychological support
 - **治疗**：counselling, therapy, psychotherapy, treatment, intervention
 - **污名**：stigma, reluctance to acknowledge, insult, shenjingbing

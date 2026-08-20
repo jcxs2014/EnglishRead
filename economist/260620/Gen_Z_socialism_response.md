@@ -411,7 +411,7 @@
 | counter-arguments | — 反方观点 |  |
 | the | rich world — 富裕世界 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 6）
 
@@ -478,11 +478,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是"编辑部回应批评"文，词汇集中在：**批评与回应**（provoked, caricaturing, take seriously, concede）；**标签与概括**（slippery label, lump together, monolith, do justice to）；**制度话语**（privatisation, legitimacy, underpin capitalism）；**让步与辩护**（stand by, to some extent, should have done more, genuine weakness）。这组词是"回应批评、部分认错、坚持核心"的辩论工具箱。
+## 三、精读结束总结
 
 ### 表达方式
 

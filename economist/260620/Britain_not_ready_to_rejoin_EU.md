@@ -1078,7 +1078,7 @@
 | welfare | state — 福利国家 |  |
 | reinvigoration | — 振兴 |  |
 
-## 三、长难句专项
+## 二、长难句专项
 
 ### 长难句 1（原句 6）
 
@@ -1151,11 +1151,7 @@
 
 ---
 
-## 四、精读结束总结
-
-### 核心词汇
-
-本文是标准的"英国政治政策评述"文本，词汇集中在：**政治评断**（blunder, magical thinking, in denial, dimshed）；**政策动作**（muster, devolve, squander, grapple with, mitigate）；**状态描述**（adrift, moribund, piddling, semi-detached）；**经济数字**（at least 2.5%, 94%, 4.3%, 57%/30%）。掌握这组词，可复用于一切英国/欧盟政治评论。
+## 三、精读结束总结
 
 ### 表达方式
 

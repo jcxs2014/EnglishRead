@@ -984,7 +984,7 @@
 | radio | 电台 |  |
 | final | 决赛 |  |
 
-## 十、长难句专项
+## 二、长难句专项
 
 > **长难句 1（原句 1）：**
 > *WITH LYRICS in English, French, Spanish, Italian and Japanese, the theme tune of the men's World Cup, performed at its opening ceremony on June 11th, exemplifies the contest's claim to foster global unity.*
@@ -1040,14 +1040,9 @@
 
 ---
 
-## 十一、精读结束总结
+## 三、精读结束总结
 
-### 1. 核心词汇
-- **全球化/本土化类**：globalised、fragmenting、monoculture、deglobalisation、local turn、sub-national
-- **媒介/平台类**：platforms、streaming、algorithms、trending、tastemakers、app stores
-- **文化产品类**：megastars、franchises、highlights、clips、tracks、niches
-
-### 2. 重要表达
+### 1. 重要表达
 - `tune in` / `tune out of`（收看 / 转台脱离）
 - `come away with`（得出结论）
 - `the bigger picture`（更大图景）
@@ -1059,7 +1054,7 @@
 - `a fading force`（衰退的力量）
 - `kicked off`（开球、开始）
 
-### 3. 核心语法
+### 2. 核心语法
 1. **With 伴随结构**：WITH LYRICS in five languages（原句 1）。
 2. **the bigger picture is that + 表语从句**：提出核心论点（原句 8）。
 3. **even as 让步对比**：even as world more connected, people more local（原句 10）。
@@ -1067,12 +1062,12 @@
 5. **Rather than + 对仗**：a diet of vs a global menu（原句 47）。
 6. **省略谓语的 and with it 结构**：lose grip on content, and with it the tractor-beam（原句 52）。
 
-### 4. 长难句要点
+### 3. 长难句要点
 1. 长句先拆主干，WITH 结构、分词定语都是修饰层。
 2. 冒号后例证往往是论证的关键证据。
 3. 省略结构（and with it ...）需补出省略的动词理解。
 
-### 5. 写作技巧
+### 4. 写作技巧
 1. **具体事件引出抽象命题**：以世界杯（具体）引出娱乐碎片化悖论（抽象）。
 2. **对举结构制造张力**：more globalised vs more local、tune in vs tune out、a diet of vs a global menu。
 3. **数字精准论证**：98%、96/100、70%→36%、3/4、4 vs 44——每个论点都有数据支撑。
@@ -1080,7 +1075,7 @@
 5. **比喻贯穿**：diet/menu（饮食）、tractor-beam（牵引光束）、kicked off（开球）、blizzard（暴风雪）——形象化抽象概念。
 6. **反讽点缀**：加拿大被迫狂播 Justin Bieber 满足配额——讽刺强制本土化政策。
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 - 表达"表面与本质"：*Both assumptions would be wrong. The bigger picture is that ...*
 - 表达"矛盾并存"：*even as the world becomes more connected, people are choosing more local forms of fun*
 - 表达"集体忽视"：*fans are mainly engrossed in domestic contests*

@@ -485,7 +485,7 @@
 | reform | 改革 |  |
 | scoring goals | 进球 |  |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 1（with 短语 + 主句 + 同位语）
 
@@ -559,13 +559,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-caption、announced his departure、qualified for、crashed out、struggles to、adept at、hails from、rust belt、heartland、state-owned enterprises、bureaucracy、temperament、upbringing、made a career out of、taking rules seriously、breakthrough、issued、marked、chanting insults、untroubled、hostility、has done little to、impede、ascent、oversee、defended ... from、backlashes、consecutive、mark his debut、impartiality、repercussions、dilemma、unlikely to、little to lose and much to gain、eyeing retirement、accumulate、flock to、in its own right、synonymous with、corruption scandals、chronic、underachievement、regardless
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `I'm ready, are you ready?` — 我准备好了，你们呢？（社交媒体宣言）
 2. `announced his departure for Miami and this year's World Cup` — 宣布启程前往迈阿密和世界杯
@@ -588,7 +584,7 @@ caption、announced his departure、qualified for、crashed out、struggles to�
 19. `China's most successful representative in world football is not scoring goals` — 最成功的代表不进球（反讽）
 20. `But he's meeting his own regardless` — 但他无论如何都在达成自己的目标（双关收尾）
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **With 短语作状语**：`With a photo ... and the caption "...", Ma Ning announced ...`
 - **同位语插入**：`Ma Ning, a Chinese football referee, announced ...`
@@ -604,7 +600,7 @@ caption、announced his departure、qualified for、crashed out、struggles to�
 - **对仗结构**：`little to lose and much to gain`
 - **双关收尾**：goals（进球/目标）
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 1：with 短语 + 同位语
 - 原句 6：分词结果状语
@@ -614,7 +610,7 @@ caption、announced his departure、qualified for、crashed out、struggles to�
 - 原句 16：Unlike 对比结构
 - 原句 21：despite 插入 + 三并列
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **场景化开头**：首句不用新闻通稿式"马宁将执法世界杯"，而是还原他的社交媒体动态（With a photo ... and the caption "..."），让读者先"看到"再"听到"，贴近人物特稿的叙事感
 2. **短句制造落差**：第二句五个词 `China's footballers will not be joining him` 戛然而止，紧接长句背景，长短交替让"期望落空"的冲击力最大化
@@ -627,7 +623,7 @@ caption、announced his departure、qualified for、crashed out、struggles to�
 9. **最高级 + 否定制造反讽**：`most successful representative in world football is not scoring goals`——"最成功者不进球"的荒诞
 10. **双关金句收尾**：`meeting his own`——goals 既是"进球"又是"目标"，一个词把"个人 vs 体系"的张力收束成点睛之笔
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

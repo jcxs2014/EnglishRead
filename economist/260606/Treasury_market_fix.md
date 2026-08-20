@@ -867,7 +867,7 @@
 | if it is decaying | 如果它在退化 | If the system is decaying. |
 | something must be done | 必须做点什么 | Something must be done. |
 
-## 四、长难句专项
+## 三、长难句专项
 
 ### 🔍 原句 9（三连排比 + 进行时）
 
@@ -941,13 +941,9 @@
 
 ---
 
-## 五、精读结束总结
+## 四、精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、puts in an order、faces a choice、pass up the trade、a liquid market、an easy call、in the dead of the night、anything but、is decaying、thinner、the cost of borrowing、at moments of stress、reached record levels、the plumbing of global finance、collateral、underpins、the benchmark for、enormous、outstanding、change hands、earn their living、facilitating、reluctant to、balance-sheets、provide liquidity、hedge funds、a shortage of、in short supply、thanks to、in effect、tied up、clearing systems、to put that in context、of which、floating-rate bonds、a levered bet、widens、the basis trade、relies on、the repo market、repo rates、spiked above、the federal funds rate、the obvious remedy、expanding netting for repos、offset their positions、the bigger prize、a central counterparty、repo dealers、argue that、worry that、take on too much risk、the ancestor of all markets、something must be done
-
-### 2. 本文核心表达
+### 1. 本文核心表达
 
 1. `In a control room in London, the night shift ... is entering its fourth hour` — 伦敦控制室夜班进入第四个小时（小说式开场）
 2. `In 2026, in the dead of the night, it is anything but` — 2026 年的深夜里，这绝非易事（省略句转折）
@@ -967,7 +963,7 @@ the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、pu
 16. `The Treasury market is the ancestor of all markets` — 国债市场是所有市场的祖先
 17. `If it is decaying, something must be done` — 如果它在退化，必须做点什么
 
-### 3. 重要语法
+### 2. 重要语法
 
 - **故事性开场**：`In a control room in London, the night shift ... is entering its fourth hour`
 - **虚拟语气**：`In a liquid market, this would be an easy call`
@@ -982,7 +978,7 @@ the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、pu
 - **分号并列对比**：`does not need surprises; it needs a solution`
 - **条件句 + 被动呼吁**：`If it is decaying, something must be done`
 
-### 4. 长难句
+### 3. 长难句
 
 - 原句 9：三连排比 + 进行时
 - 原句 21：双 that 定语从句 = 双视角对照
@@ -992,7 +988,7 @@ the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、pu
 - 原句 36：分词举例 + which 解释
 - 原句 44：条件句 + 被动呼吁
 
-### 5. 写作技巧
+### 4. 写作技巧
 
 1. **小说式开场**：`In a control room in London, the night shift ... is entering its fourth hour`——从"伦敦控制室夜班第四个小时"的微观场景切入，把宏大金融问题落到一名疲惫交易员身上，先见"人"再见"市场"
 2. **虚拟语气对照**：`In a liquid market, this would be an easy call` / `In 2026 ... it is anything but`——用"理想世界"（虚拟语气）反衬"现实"（2026 深夜里），一句话完成对比
@@ -1005,7 +1001,7 @@ the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、pu
 9. **爆点式对比**：`repo rates have spiked above the federal funds rate`——"私人利率升破官方基准"就是市场失灵的直接证据，一句话点爆
 10. **金句首尾呼应**：`is decaying`（第 2 段诊断）→ `If it is decaying, something must be done`（末段呼吁）——用同一动词的再现完成"诊断-处方"闭环，金句收尾
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |

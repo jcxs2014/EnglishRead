@@ -752,7 +752,7 @@
 | firms | 公司 |  |
 | podcast | 播客 |  |
 
-## 九、长难句专项
+## 二、长难句专项
 
 > **长难句 1（原句 2）：**
 > *Picture a stranger ordering you to have a nice day, or a family declaring everything to be "so great" while exploring a drizzly, midge-infested Scottish ruin—there is only one nationality they could possibly be.*
@@ -821,15 +821,9 @@
 
 ---
 
-## 十、精读结束总结
+## 三、精读结束总结
 
-### 1. 核心词汇
-- **情绪/心态类**：upbeat、cheerful、nostalgic、pessimistic、gloomy、dread、misleading
-- **建国/周年类**：semiquincentennial、big birthday、turns 250、Democracy in America
-- **数据/指标类**：objective measures、life expectancy、income inequality、robustly
-- **公路/旅途类**：road trip、get behind the wheel、hit the road、stretches behind the wheel、diners
-
-### 2. 重要表达
+### 1. 重要表达
 - `get behind the wheel`（坐上驾驶座、开始行动）
 - `hit the road`（上路）
 - `in the company of`（在……陪伴下）
@@ -840,19 +834,19 @@
 - `blessed with`（被赐予）
 - `draw conclusions`（得出结论）
 
-### 3. 核心语法
+### 2. 核心语法
 1. **引语前置 + 倒装**：`"Democracy never lasts long," wrote the second president, John Adams`（原句 6）。
 2. **祈使 + 结果**：`go and talk to people in person ... and you will find that ...`（原句 30）。
 3. **三个从句嵌套**：表语从句 + who 定语 + that 定语（原句 31）。
 4. **三组 from-to 排比**：旅途路线（原句 21）。
 5. **Never 倒装**：`Never have a people been blessed with ...`（原句 40）。
 
-### 4. 长难句要点
+### 3. 长难句要点
 1. 先找主干（祈使/主谓），再拆修饰（分词、定语从句）。
 2. 破折号后的短句往往是结论（原句 2）。
 3. 倒装结构（Never/引语前置）强调否定或引文。
 
-### 5. 写作技巧
+### 4. 写作技巧
 1. **刻板印象开篇，全文反转**：开头"乐观到烦人"→ 结尾"实际是恐惧与深思"。
 2. **两代 Adams 呼应**：约翰·亚当斯（1814）悲观预言 ↔ 亨利·亚当斯（曾孙）"政治=仇恨的系统化组织"——家族时间线贯穿。
 3. **data vs vibes 押韵对举**：一句点出全文核心矛盾。
@@ -860,7 +854,7 @@
 5. **自我推广嵌入论证**：播客不是广告，而是"解谜"的手段。
 6. **首尾照应**：开头 get behind the wheel 标题 → 结尾 hit the road + 托克维尔祝福。
 
-### 6. 可迁移表达
+### 5. 可迁移表达
 - 表达"表面乐观实则恐惧"：*Americans are generally cheerful. But even in the country's brightest moments many have been struck by a kind of dread.*
 - 表达"数据与感受背离"：*The distance between the data and the vibes is the central puzzle.*
 - 表达"只看一角会误判"：*if all you know about America is its politics, you will draw unrealistically gloomy conclusions.*
