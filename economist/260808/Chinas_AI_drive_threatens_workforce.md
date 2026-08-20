@@ -1070,612 +1070,884 @@
 > Are robots ready to replace humans?
 
 **中文理解**：机器人准备好取代人类了吗？
+
 **句子结构**：一般疑问句，无复杂成分，简短有力。
+
 **关键词**：ready to 准备好做……；replace v. 取代。
+
 **表达方式**：设问句作段落开头，直接抛出核心议题。
+
 **为什么这样写**：以问句制造悬念，把政策议题落到"人与机器"的具体冲突上，统领后半部分。
 
 ### 段落15 · 句子2
 > In 2024 China installed almost 300,000 industrial robots—more than half the world's total that year (see chart)—and increased its stock to 2m, double what it was in 2021.
 
 **中文理解**：2024年中国安装了近30万台工业机器人——超过当年全球总量的一半（见图）——保有量增至200万台，是2021年的两倍。
+
 **句子结构**：主干 In 2024 China installed... and increased...；双破折号插入语补充全球占比；double what it was 为名词短语作同位语补充。
+
 **关键词**：install v. 安装；stock n. 存量/保有量（此处非"股票"义）；double 两倍。
+
 **表达方式**：数据+插入语+同位语，单句完成"绝对量、全球占比、增速"三重信息。
+
 **为什么这样写**：用三个量化维度证明中国机器人规模惊人，为"威胁劳动力"提供事实起点。
 
 ### 段落15 · 句子3
 > Traditional robots have already replaced factory workers, but they struggle with more complex tasks (for instance, carving out bad bits from potatoes on a conveyor belt when the tubers vary in shape).
 
 **中文理解**：传统机器人已取代工厂工人，但面对更复杂的任务仍力不从心（例如：在传送带上从形状各异的土豆中剔除坏块）。
+
 **句子结构**：but 连接并列分句表转折；括号内 for instance 引出例子，carving out 为动名词短语。
+
 **关键词**：struggle with 难以应对；carve out 挖出/剔除；conveyor belt 传送带；tuber n. 块茎。
+
 **表达方式**：让步-转折结构（already...but...），用生活化例子把"复杂任务"具象化。
+
 **为什么这样写**：先肯定传统机器人的替代能力，再指出局限，为引出"人形机器人"做递进铺垫。
 
 ### 段落15 · 句子4
 > Humanoid robots—or, simply, humanoids—can learn to feel different textures, sizes and pressures and determine the right amount of force to hold something without breaking or dropping it.
 
 **中文理解**：人形机器人（或简称 humanoids）能学会感知不同的质地、尺寸和压力，并判断握持物体所需的合适力度，既不捏坏也不掉落。
+
 **句子结构**：主干 Humanoid robots can learn to feel... and determine...；破折号内给出简称；without breaking or dropping it 为介词短语作方式状语。
+
 **关键词**：humanoid n. 类人机器人；texture n. 质地/纹理；determine the right amount of force 判断合适力度。
+
 **表达方式**：感官动词 feel 与判断动词 determine 并列，展示"触觉-判断"闭环。
+
 **为什么这样写**：以"能做什么"回应上句"做不到什么"，对照说明人形机器人的优势所在。
 
 ### 段落16 · 句子1
 > For all the hype around humanoids, few yet work on actual factory floors.
 
 **中文理解**：尽管人形机器人被大肆炒作，真正在工厂车间里干活的还寥寥无几。
+
 **句子结构**：For all + 名词表让步（= despite）；few 作代词主语（= few humanoids）。
+
 **关键词**：hype n. 炒作；factory floor 车间/生产一线（固定搭配）。
+
 **表达方式**：让步状语开头，立刻给上一段的乐观降温。
+
 **为什么这样写**：制造"炒作 vs 现实"的反差，保持报道的冷静基调。
 
 ### 段落16 · 句子2
 > Leaders want to achieve scale soon.
 
 **中文理解**：领导层希望尽快形成规模。
+
 **句子结构**：主谓宾+不定式目的，极简句。
+
 **关键词**：achieve scale 达到规模（scale 为商业用语"规模化"）。
+
 **表达方式**：短句，信息干净利落。
+
 **为什么这样写**：短句承上启下——"现实不足"与"官方雄心"之间的张力由此展开。
 
 ### 段落16 · 句子3
 > In June they asked local governments and state-owned enterprises for their plans to make 10,000 humanoids do real work by the year's end.
 
 **中文理解**：6月，他们要求地方政府和国企提交计划，让1万台人形机器人在年底前投入实际工作。
+
 **句子结构**：ask sb for sth 结构；plans 后接不定式 to make 10,000 humanoids do real work（make 后接不带 to 的不定式）。
+
 **关键词**：state-owned enterprises 国有企业（SOEs）；make...do... 使……做……。
+
 **表达方式**：具体时间+具体数字+具体对象，新闻式确凿陈述。
+
 **为什么这样写**：用"1万台"的硬指标坐实"形成规模"并非空话，也暗示自上而下的行政推动力。
 
 ### 段落16 · 句子4
 > Morgan Stanley, a bank, reckons that China's humanoid sales will reach 50,000 units and $2bn this year, and will increase to 446,000 and $15bn in 2030.
 
 **中文理解**：摩根士丹利预计，中国人形机器人今年销量将达5万台、20亿美元，到2030年将增至44.6万台、150亿美元。
+
 **句子结构**：主语+同位语（a bank）+宾语从句；从句内 will reach... and will increase to... 并列。
+
 **关键词**：reckon v. 估算/认为；units n. 台（计量单位）。
+
 **表达方式**：借第三方机构数据交叉验证官方雄心。
+
 **为什么这样写**：外部预测增加客观性，时间跨度（今年→2030）暗示增长空间巨大。
 
 ### 段落17 · 句子1
 > Humanoids are becoming more promising employees.
 
 **中文理解**：人形机器人正成为更有前途的"员工"。
+
 **句子结构**：主系表，现在进行时表渐变。
+
 **关键词**：promising adj. 有前途的；employee n. 员工（拟人化用词）。
+
 **表达方式**：把机器人称为 employees，将"机器"纳入"劳动力"话语体系。
+
 **为什么这样写**：一词完成"机器人=劳动力"的设定，直接呼应标题 threatens the workforce。
 
 ### 段落17 · 句子2
 > Jiao Jichao of UBTech, a maker of humanoids, predicts a market breakthrough next year, with more industrial customers moving from small orders to hundreds each.
 
 **中文理解**：人形机器人制造商优必选的焦继超预测，明年市场将出现突破，更多工业客户将从小批量订购转向每单数百台。
+
 **句子结构**：主干+with 复合结构（with+宾语+现在分词）作伴随状语，说明突破的具体表现。
+
 **关键词**：breakthrough n. 突破；move from A to B 从A转向B；industrial customer 工业客户。
+
 **表达方式**：业内人士预测+with 结构把"突破"具体化为客户行为变化。
+
 **为什么这样写**：让乐观有具体证据（订单量跃升），避免空喊口号。
 
 ### 段落17 · 句子3
 > They want a return on their investment within two years, which he says is doable with humanoids priced under 300,000 yuan ($44,000).
 
 **中文理解**：他们希望两年内收回投资；他说以低于30万元（约4.4万美元）的售价，这是可以做到的。
+
 **句子结构**：which 引导非限定性定语从句，指代"两年内回本"整个想法；priced under... 为过去分词短语作后置定语。
+
 **关键词**：return on investment 投资回报（ROI）；doable adj. 可行的；priced under 定价低于。
+
 **表达方式**：插入语 he says 弱化断言的主观性；货币换算照顾国际读者。
+
 **为什么这样写**：用"回本周期+价格门槛"给出商业可行性论证，解释需求端为何将爆发。
 
 ### 段落17 · 句子4
 > As production scales, robots are going to become only more cost-effective compared with humans, he says.
 
 **中文理解**：他表示，随着生产规模扩大，机器人相比人类只会越来越划算。
+
 **句子结构**：As 引导时间/原因从句；主句为比较级 only more cost-effective（only 加强比较级）。
+
 **关键词**：as production scales 随着生产规模扩大（scale 作动词）；cost-effective adj. 划算的。
+
 **表达方式**：规模经济逻辑（scale→降本）+比较级强调趋势。
+
 **为什么这样写**：给出经济学机制，让"机器人取代人力"从猜测变为逻辑推演。
 
 ### 段落17 · 句子5
 > Jeremy Lee of PaXini, a humanoid-maker that counts car-industry giants like BYD and SAIC as investors and customers, says bosses see humanoids as more efficient and less likely to slack off.
 
 **中文理解**：人形机器人制造商帕西尼的 Jeremy Lee 表示——该公司的投资方和客户包括比亚迪、上汽等车企巨头——老板们认为人形机器人效率更高、更不容易偷懒。
+
 **句子结构**：主语（含同位语+that 定语从句）＋谓语 says＋宾语从句；从句为 see A as B 结构。
+
 **关键词**：count...as... 把……算作/列为；slack off 偷懒；see...as 认为……是。
+
 **表达方式**：定语从句把企业背景塞进主语，谓语后置，典型英文"信息前置"句。
+
 **为什么这样写**：车企巨头背书增加可信度；slack off 用职场词形容机器人，强化人机竞争叙事。
 
 ### 段落18 · 句子1
 > Humans, though, will still be needed to train humanoids.
 
 **中文理解**：不过，训练人形机器人仍然需要人类。
+
 **句子结构**：被动语态；though 作副词表转折（"不过"），置于句中。
+
 **关键词**：though 此处为副词而非连词，表轻微转折。
+
 **表达方式**：转折词+被动句，一句话扭转上一段的乐观。
+
 **为什么这样写**：引入辩证视角——机器人取代人类，但新岗位也在产生，为下文"训练师"行业埋伏笔。
 
 ### 段落18 · 句子2
 > When you order a robot cleaner in China, it arrives with two humans: a robot trainer and a competent cleaner.
 
 **中文理解**：在中国订购一台扫地机器人，会有两个人随之上门：一名机器人训练师和一名熟练的保洁员。
+
 **句子结构**：When 时间状语从句；主句冒号后列举具体分工。
+
 **关键词**：robot trainer 机器人训练师（新兴职业）；competent adj. 能干的。
+
 **表达方式**：第二人称 you 拉近读者，冒号列举制造"意外感"。
+
 **为什么这样写**："买机器还送人"的反直觉细节，生动说明机器人远未独立——训练数据仍靠人。
 
 ### 段落18 · 句子3
 > At PaXini's sprawling factory in Tianjin, 500 sensor-wearing humans perform tasks needed in car plants, hospitals and supermarkets—creating training data for humanoids.
 
 **中文理解**：在帕西尼位于天津的庞大工厂里，500名佩戴传感器的工人执行汽车工厂、医院和超市所需的任务——为人形机器人创造训练数据。
+
 **句子结构**：地点状语开头；tasks 后接过去分词 needed 作定语；破折号后现在分词短语解释目的。
+
 **关键词**：sprawling adj. 占地广阔的；sensor-wearing 佩戴传感器的；training data 训练数据（AI术语）。
+
 **表达方式**：大数字+具体场景列举+破折号点题。
+
 **为什么这样写**：把"训练数据"这一抽象概念还原成具体劳动场景，指出数据采集本身是劳动密集型工作。
 
 ### 段落18 · 句子4
 > Though fewer workers are needed to monitor delivery drones and robotaxis as they progress, Mr Lee says there is so little real-world data that trainers will be needed for the next decade or two.
 
 **中文理解**：李先生说，虽然随着无人机配送和自动驾驶出租车不断进步，监控它们所需的工人会减少，但真实世界的数据实在太少，未来一二十年仍需要训练师。
+
 **句子结构**：Though 让步从句（含 as they progress 时间从句）；主句为 there is so little...that... 结果状语从句。
+
 **关键词**：monitor v. 监控；so...that... 如此……以致；real-world data 真实世界数据。
+
 **表达方式**：让步+转折+因果嵌套，逻辑严密。
+
 **为什么这样写**：为"训练师岗位长期存在"给出量化理由（数据缺口），回扣本段主旨"人类仍被需要"。
 
 ### 段落19 · 句子1
 > Even as firms say humanoids will liberate humans from dangerous and repetitive work, the human jobs they are creating are not fun.
 
 **中文理解**：尽管企业声称人形机器人能把人类从危险、重复的工作中解放出来，但它们创造的人类岗位本身并不愉快。
+
 **句子结构**：Even as 引导让步状语从句；主句含定语从句 they are creating 修饰 the human jobs。
+
 **关键词**：liberate...from 使……摆脱；repetitive adj. 重复的。
+
 **表达方式**："企业说辞 vs 现实"对照，Even as 表强烈让步。
+
 **为什么这样写**：一句完成视角切换——从行业乐观转向劳动者个体体验，为下文个人故事做引。
 
 ### 段落19 · 句子2
 > Dao Xinyue, a 25-year-old university graduate in Shenzhen, has been applying for jobs since November.
 
 **中文理解**：深圳25岁大学毕业生 Dao Xinyue 自去年11月以来一直在找工作。
+
 **句子结构**：主语+同位语（年龄、地点）+现在完成进行时（has been applying，强调持续）。
+
 **关键词**：university graduate 大学毕业生；apply for 申请。
+
 **表达方式**：现在完成进行时暗示求职持续之久。
+
 **为什么这样写**：以具体人物开场，把宏大议题落到个体命运，符合特稿"以小见大"的写法。
 
 ### 段落19 · 句子3
 > A former barista, she applied for one job filling coffee machines for gimmicky robo-baristas.
 
 **中文理解**：她曾是咖啡师，曾应聘一份给花哨的机器人咖啡师填装咖啡豆的工作。
+
 **句子结构**：名词短语 A former barista 作同位语前置（相当于 Being a former barista）；filling coffee machines 为动名词短语作 job 的定语。
+
 **关键词**：barista n. 咖啡师；gimmicky adj. 花哨的/噱头的；robo-barista 机器人咖啡师。
+
 **表达方式**：同位语前置交代背景，gimmicky 一词带贬义。
+
 **为什么这样写**：用"人类给机器人打下手"的讽刺画面，暗示新岗位的降级感。
 
 ### 段落19 · 句子4
 > During an interview for a robot-training job, she found folding clothes for 30 minutes so boring that she could not imagine doing it day after day.
 
 **中文理解**：在一场机器人训练岗位的面试中，她发现叠30分钟衣服如此无聊，难以想象日复一日做这份工作。
+
 **句子结构**：During 介词短语作状语；主句 found + 宾语（动名词短语）+ 宾补 so boring + that 结果从句。
+
 **关键词**：find sth so boring that... 觉得……无聊到……；day after day 日复一日。
+
 **表达方式**：find+宾语+宾补+so...that 句型，用具体时长（30分钟）量化无聊。
+
 **为什么这样写**：让读者亲历"无聊"的体验感，比直接说"工作枯燥"更有冲击力。
 
 ### 段落19 · 句子5
 > She relies on support from her parents, bitter-melon farmers, to pay rent while she keeps looking for work.
 
 **中文理解**：她靠种苦瓜的父母接济来付房租，同时继续找工作。
+
 **句子结构**：主句 rely on sb to do；bitter-melon farmers 为同位语；while 时间从句。
+
 **关键词**：rely on 依赖；bitter-melon farmers 苦瓜种植户；keep doing 持续做。
+
 **表达方式**：同位语点出家庭背景（农民），与"大学生"身份形成落差。
+
 **为什么这样写**：细节强化"结构性困境"——受过教育仍要靠父母，失业压力传导至家庭。
 
 ### 段落19 · 句子6
 > At streetlights, she watches robotaxis turn corners, hoping they will make a mistake and prove that they cannot replace another driver.
 
 **中文理解**：在红绿灯路口，她看着自动驾驶出租车转弯，希望它们犯错，证明它们无法取代又一个司机。
+
 **句子结构**：地点状语+watch sb do sth+现在分词 hoping 作伴随状语；hoping 后接 that 宾语从句。
+
 **关键词**：robotaxi n. 自动驾驶出租车；watch sb do 看着某人做（强调全过程）。
+
 **表达方式**："希望机器犯错"的心理描写，把抽象的"被替代焦虑"变成具体动作。
+
 **为什么这样写**：不动声色的悲剧感——她希望看到的失败从未发生，暗示焦虑的无力。
 
 ### 段落19 · 句子7
 > But they drive well.
 
 **中文理解**：但它们开得很好。
+
 **句子结构**：三个词的短句，转折连词+主谓。
+
 **关键词**：无难点，胜在极简。
+
 **表达方式**：与上一句形成最大反差，短句收束。
+
 **为什么这样写**：全段情感最高点的"冷处理"——不煽情，四个词击碎希望，余味悠长。
 
 ### 段落20 · 句子1
 > As in other countries, young workers are expected to be among the hardest-hit by AI.
 
 **中文理解**：与其他国家一样，年轻工人预计将是受AI冲击最严重的群体之一。
+
 **句子结构**：As in other countries 作比较状语前置；be expected to 被动；hardest-hit 为"副词最高级+过去分词"复合形容词。
+
 **关键词**：hardest-hit 受冲击最重的；among the + 最高级 表"……之一"。
+
 **表达方式**：先给普遍规律（他国类比），再切入中国。
+
 **为什么这样写**：建立"全球现象"的框架，让中国个案具有普遍意义。
 
 ### 段落20 · 句子2
 > In China their prospects are especially grim.
 
 **中文理解**：在中国，年轻人的前景尤为黯淡。
+
 **句子结构**：主系表，简单句。
+
 **关键词**：prospects n. 前景；grim adj. 严峻的/阴沉的。
+
 **表达方式**：短句+递进副词 especially，果断下判断。
+
 **为什么这样写**：承接上句的"expected"，从普遍规律聚焦中国，一句定调。
 
 ### 段落20 · 句子3
 > Five years into a property crisis, the economy is still grappling with lower wage growth and stubbornly high youth unemployment.
 
 **中文理解**：房地产危机已过去五年，经济仍在艰难应对工资增长放缓和居高不下的青年失业率。
+
 **句子结构**：Five years into... 名词短语作时间状语（"进入……五年后"）；grapple with 为谓语；lower wage growth 与 stubbornly high youth unemployment 为并列宾语。
+
 **关键词**：property crisis 房地产危机；grapple with 艰难应对；stubbornly adv. 顽固地（修饰 high，拟人化）。
+
 **表达方式**：时间状语前置+双宾语并列，一句交代背景全貌。
+
 **为什么这样写**：stubbornly 一词暗示失业率的"顽固性"，为"政策压力"埋下逻辑根因。
 
 ### 段落20 · 句子4
 > In this year's second quarter, China missed its target for economic growth.
 
 **中文理解**：今年第二季度，中国未能实现经济增长目标。
+
 **句子结构**：时间状语+主谓宾，简洁事实陈述。
+
 **关键词**：miss the target 未达标（反义：hit/meet the target）。
+
 **表达方式**：事实先行，不加评论。
+
 **为什么这样写**：经济增长失速与失业率高企并置，构成政策困境的客观背景。
 
 ### 段落20 · 句子5
 > In July, for the first time in decades, it did not set an urban job-creation target in its five-year plan.
 
 **中文理解**：7月，中国数十年来首次未在五年规划中设定城镇新增就业目标。
+
 **句子结构**：时间状语+插入语 for the first time in decades+主干。
+
 **关键词**：job-creation target 就业创造目标；five-year plan 五年规划。
+
 **表达方式**：for the first time in decades 是新闻写作中的"破纪录"信号词。
+
 **为什么这样写**：一个"首次"即点明事件的历史性，暗示官方对就业形势的重新评估。
 
 ### 段落20 · 句子6
 > "There is significant pressure on employment and household income growth and shortcomings in livelihood support," the human-resources ministry said, citing AI as one challenge.
 
 **中文理解**："就业和居民收入增长面临显著压力，民生保障存在短板。"人社部表示，并将AI列为主要挑战之一。
+
 **句子结构**：引语+said+主语（主谓倒装省略）；citing... 为现在分词作伴随状语。
+
 **关键词**：household income 家庭收入；livelihood support 民生保障；cite...as 把……列为。
+
 **表达方式**：直接引语+机构背书（the ministry said），官方口径的新闻惯例。
+
 **为什么这样写**：用官方自己的话佐证"前景黯淡"，比记者转述更有分量；citing AI 把话题拉回文章主线。
 
 ### 段落21 · 句子1
 > For years the Communist Party planned for an economy oriented towards tech advancement and adoption.
 
 **中文理解**：多年来，中共一直规划着以技术发展和应用为导向的经济。
+
 **句子结构**：For years 时间状语；oriented towards 过去分词短语作后置定语修饰 economy。
+
 **关键词**：plan for 为……做规划；oriented towards 以……为导向；adoption n. 采用/应用。
+
 **表达方式**：背景铺垫句式（For years...planned for...）。
+
 **为什么这样写**：交代"技术立国"是长期国策，解释为何今天"AI威胁"成为政府要解决的矛盾——自己推动的东西反过来冲击就业。
 
 ### 段落21 · 句子2
 > As its companies push to the frontier, it now worries about AI disrupting social stability.
 
 **中文理解**：随着本国企业冲向技术前沿，它现在开始担心AI破坏社会稳定。
+
 **句子结构**：As 时间/伴随从句；主句 worry about + 动名词短语 AI disrupting social stability（AI 为动名词逻辑主语）。
+
 **关键词**：push to the frontier 冲向前沿；disrupt v. 扰乱；social stability 社会稳定。
+
 **表达方式**：前后对照（planned for vs now worries about），转折蕴含在时间线里。
+
 **为什么这样写**：一句话概括"政策的自我矛盾"——推动者成为担忧者，这是全段的张力核心。
 
 ### 段落21 · 句子3
 > One major challenge is calibrating the degree of intervention: the government is "very cautious" because it wants to assuage anxious workers but not stifle innovation, says one policy adviser in Beijing.
 
 **中文理解**：一大挑战是拿捏干预的分寸：北京一位政策顾问说，政府"非常谨慎"，因为它想安抚焦虑的工人，又不能扼杀创新。
+
 **句子结构**：主系表（表语为动名词 calibrating）；冒号后解释性句子；says one policy adviser 为倒装引语。
+
 **关键词**：calibrate v. 校准/拿捏分寸；intervention n. 干预；assuage v. 安抚；stifle v. 扼杀。
+
 **表达方式**：calibrate 一词带"精确度"意象；assuage 与 stifle 动词对仗。
+
 **为什么这样写**：用"拿捏分寸"概括政策两难；匿名顾问引述保留余地，是典型外交辞令式新闻写法。
 
 ### 段落22 · 句子1
 > The party can look to its huge public sector, where job security is sacrosanct, for ballast.
 
 **中文理解**：中共可以依靠庞大的公共部门作为压舱石，那里的工作保障神圣不可侵犯。
+
 **句子结构**：主干 look to A for B（指望A提供B）；where 非限定性定语从句修饰 public sector。
+
 **关键词**：look to...for... 指望/依赖；sacrosanct adj. 神圣不可侵犯的；ballast n. 压舱石（比喻稳定因素）。
+
 **表达方式**：ballast 用航海比喻，暗含"稳定压倒一切"。
+
 **为什么这样写**：把公共部门比作船的压舱石，形象说明其在社会稳定中的定盘星作用。
 
 ### 段落22 · 句子2
 > But private firms too face pressure to protect workers.
 
 **中文理解**：但私营企业同样面临保护工人的压力。
+
 **句子结构**：转折连词+主语+谓语+宾语；too 表"同样"。
+
 **关键词**：private firms 私营企业；face pressure to do 面临做……的压力。
+
 **表达方式**：短句，But 与 too 双标记转折。
+
 **为什么这样写**：从公到私的视角扩展，说明"保就业"压力是全社会性的。
 
 ### 段落22 · 句子3
 > "US companies are very directly rewarded in their stock price for laying a bunch of people off and saying that they did it because of AI," but Chinese firms have the opposite incentives, says Matt Sheehan of the Carnegie Endowment, a think-tank.
 
 **中文理解**：智库卡内基基金会的 Matt Sheehan 说："美国公司会因为裁员一大批人并声称是AI所致而在股价上直接获益"，但中国企业面对的激励恰恰相反。
+
 **句子结构**：长引语（含 for + 动名词并列）+but 转折+倒装引语 says...；a think-tank 为同位语。
+
 **关键词**：be rewarded in one's stock price 在股价上获得回报；lay sb off 裁员；incentive n. 激励/动机。
+
 **表达方式**：跨文化对比（美企裁员=股价涨 vs 中企相反），引语内部自带转折。
+
 **为什么这样写**：借外部专家之口做中美制度对比，解释为何中国企业不敢轻易裁员——制度激励决定行为。
 
 ### 段落22 · 句子4
 > Dan Wang of Eurasia Group, a consultancy, recently met local officials who have pressed firms to add new jobs to offset lay-offs caused by automation.
 
 **中文理解**：咨询公司欧亚集团的 Dan Wang 最近会见了一些地方官员，他们敦促企业增加新岗位，以抵消自动化造成的裁员。
+
 **句子结构**：主语+同位语+谓语+宾语；who 定语从句修饰 officials；offset 后接 lay-offs caused by automation（过去分词作定语）。
+
 **关键词**：press sb to do 敦促某人做；offset v. 抵消；lay-off n. 裁员。
+
 **表达方式**：定语从句层层嵌套，逻辑链条清晰：官员→施压企业→增加岗位→抵消裁员。
+
 **为什么这样写**：用具体人名+具体动作（press firms）证明"压力"不是抽象概念，而是落到企业头上的行政要求。
 
 ### 段落22 · 句子5
 > Workers' Daily, the mouthpiece of China's official trade union, criticised practices such as digitally cloning staff.
 
 **中文理解**：中华全国总工会机关报《工人日报》批评了诸如"数字克隆员工"之类的做法。
+
 **句子结构**：主语+同位语（the mouthpiece of...）+谓语+宾语；such as 举例。
+
 **关键词**：mouthpiece n. 喉舌/代言；digitally cloning staff 数字克隆员工（用AI复制员工形象等）。
+
 **表达方式**：同位语点明媒体性质，动词 criticised 不带引号但含立场。
+
 **为什么这样写**：用"官媒批评"的细节说明官方舆论也在给企业划红线，形成多层次施压的图景。
 
 ### 段落23 · 句子1
 > Chinese judges, who operate under party leadership, have so far sided with workers in AI-related firings.
 
 **中文理解**：在党的领导下的中国法官，在涉及AI的裁员案中迄今站在工人一边。
+
 **句子结构**：主语+非限定性定语从句+谓语+状语（so far 为现在完成时标记）。
+
 **关键词**：side with 站在……一边/支持；firing n. 解雇；so far 迄今。
+
 **表达方式**：定语从句交代制度背景，主句陈述行为倾向。
+
 **为什么这样写**：先交代制度事实，再讲裁决结果——暗示司法倾向与政策方向一致。
 
 ### 段落23 · 句子2
 > In Hangzhou, a leading industry hub for AI, a judge deemed it illegal for a fintech firm to fire a tech worker surnamed Zhou on the basis of AI being able to perform his duties.
 
 **中文理解**：在AI产业重镇杭州，一名法官判定，某金融科技公司仅以"AI能够完成其工作"为由解雇一位姓周的科技员工属于非法。
+
 **句子结构**：地点状语+同位语（a leading industry hub for AI）+主谓+ deem it + 形容词 + for sb to do 结构；on the basis of + 动名词短语。
+
 **关键词**：deem it illegal for...to... 判定……非法；on the basis of 基于；surnamed 姓……的。
+
 **表达方式**：deem it + 形容词 + for...to... 为法律文书常用句型；surnamed 保留中文姓氏表达。
+
 **为什么这样写**：给出具体判例（地点+人物+理由），把"法官站在工人一边"落到实处。
 
 ### 段落23 · 句子3
 > The 35-year-old was sacked after refusing to accept a demotion and pay cut.
 
 **中文理解**：这位35岁的员工在拒绝接受降职降薪后被解雇。
+
 **句子结构**：被动语态+after+动名词短语。
+
 **关键词**：sack v. 解雇（比 fire 更口语化）；demotion n. 降职；pay cut 降薪。
+
 **表达方式**：把事件前因后果压缩进一个 after 短语。
+
 **为什么这样写**：补全故事细节，让判例有血有肉，也说明"裁员理由"的争议性。
 
 ### 段落23 · 句子4
 > His case, and others across China, have been held up by the government as warnings to not use AI as an excuse for lay-offs.
 
 **中文理解**：他的案件以及其他类似案件，已被政府树为典型，警告企业不要拿AI当裁员借口。
+
 **句子结构**：主语（含插入语 and others across China）+现在完成被动+as warnings to not do。
+
 **关键词**：hold up...as 把……树立为/举为；excuse for 借口。
+
 **表达方式**：hold up as warnings 有"示众/树典型"的行政色彩。
+
 **为什么这样写**：点明个案的政治用途——司法裁决被上升为普遍性政策信号。
 
 ### 段落23 · 句子5
 > Chinese firms must first try to retrain and reassign workers before firing them for incompetence.
 
 **中文理解**：中国企业必须先尝试对员工进行再培训和再安置，之后才能以能力不足为由解雇他们。
+
 **句子结构**：主谓+并列不定式 retrain and reassign+before 时间状语（动名词短语）。
+
 **关键词**：retrain v. 再培训；reassign v. 重新安置/调岗；incompetence n. 不称职。
+
 **表达方式**：must first...before... 结构表达程序性强制（"先……才可……"）。
+
 **为什么这样写**：以规范性表述（must）总结司法立场，暗示这是企业裁员必须遵守的程序。
 
 ### 段落24 · 句子1
 > The government also wants to educate and train people to realise its AI ambitions.
 
 **中文理解**：政府还希望教育和培训民众，以实现其AI雄心。
+
 **句子结构**：主谓宾+不定式表目的。
+
 **关键词**：realise ambitions 实现雄心。
+
 **表达方式**：also 承接上文，从"保护劳动者"转向"培养劳动者"。
+
 **为什么这样写**：段落功能句——政策从防守（救失业）转向进攻（育人才）。
 
 ### 段落24 · 句子2
 > While young people struggle to find jobs, the country anticipates needing many millions more workers in skilled manufacturing and AI research (even with China already having more AI researchers than America, Britain and the EU combined).
 
 **中文理解**：就在年轻人苦寻工作之际，国家预计还需要数百万计的技术制造和AI研究人才（尽管中国的AI研究人员数量已超过美、英、欧盟的总和）。
+
 **句子结构**：While 让步/对照从句；主句 anticipate + 动名词 needing；括号内 even with + 独立主格结构（China + having）。
+
 **关键词**：anticipate doing 预计做；skilled manufacturing 技术制造；combined 合起来的。
+
 **表达方式**：括号补充形成反差（"失业 vs 缺人"），独立主格结构精炼。
+
 **为什么这样写**：点出结构性错配——不是没岗位，而是技能不匹配，为教育政策铺垫。
 
 ### 段落24 · 句子3
 > Primary and secondary schools are incorporating AI lessons into their curricula.
 
 **中文理解**：中小学正将AI课程纳入教学大纲。
+
 **句子结构**：主谓宾，现在进行时表进行中的变化。
+
 **关键词**：incorporate...into 把……纳入；curriculum n. 课程体系（复数 curricula）。
+
 **表达方式**：改革的客观陈述。
+
 **为什么这样写**：从最基础的学段讲起，显示"AI教育"渗透之深。
 
 ### 段落24 · 句子4
 > Universities are funnelling students into thousands of new degree programmes in such fields as "embodied intelligence" and "agricultural robotics" after cutting thousands of "obsolete" degrees, mostly in the arts and humanities.
 
 **中文理解**：高校在砍掉数千个"过时"学位（多为艺术和人文学科）之后，正把学生导流进"具身智能""农业机器人"等领域的数千个新学位项目。
+
 **句子结构**：主句（funnel A into B）+after 时间状语（cutting...）；such fields as 举例。
+
 **关键词**：funnel v. 导流（名词动词化，形象生动）；embodied intelligence 具身智能；obsolete adj. 过时的。
+
 **表达方式**：funnel 与 cut 两个动词形成"进-出"对照；学科名称带引号表示新造术语。
+
 **为什么这样写**：用学科升降的镜像结构（砍文科→增理工）展示教育体系对AI国策的全面配合。
 
 ### 段落24 · 句子5
 > The state is also subsidising retraining as well as promoting vocational education in areas like the "low-altitude economy" (including, say, flying taxis).
 
 **中文理解**：国家还在补贴再培训，并推动"低空经济"（比如飞行出租车）等领域的职业教育。
+
 **句子结构**：主谓+双宾语并列（subsidising A as well as promoting B）；like 举例；say 为插入语表"比方说"。
+
 **关键词**：subsidise v. 补贴；vocational education 职业教育；low-altitude economy 低空经济（政策新词）。
+
 **表达方式**：as well as 连接双动名词；say 的口语化插入。
+
 **为什么这样写**：列举政策工具箱（补贴+职教），以"飞行出租车"这类新词呼应全文"AI时代新职业"主题。
 
 ### 段落25 · 句子1
 > Many of those who fall through the cracks will find a threadbare safety-net, including meagre social security and minimal health insurance.
 
 **中文理解**：许多掉进缝隙的人会发现安全网破旧不堪——社保微薄，医保最低限度。
+
 **句子结构**：主语（Many of those + who 定语从句）+谓语+宾语（a threadbare safety-net + including 列举）。
+
 **关键词**：fall through the cracks 掉进裂缝/被遗漏（习语）；threadbare adj. 磨薄的/破旧的；meagre adj. 微薄的。
+
 **表达方式**：两个隐喻连用——cracks（体系漏洞）与 threadbare（织物磨破），形象传达"保障体系千疮百孔"。
+
 **为什么这样写**：在政策叙事中加入"代价"视角——总有人被落下，为下文的"社保改革建议"铺垫。
 
 ### 段落25 · 句子2
 > Zheng Gongcheng, head of the China Association of Social Security, warned the legislature last year that the more that AI and robots replace workers, the fewer wage-earners there will be left to pay into the welfare system to support those out of work.
 
 **中文理解**：中国社会保障学会会长郑功成去年警告立法机关：AI和机器人取代的工人越多，留在福利体系内缴费、供养失业者的工薪族就越少。
+
 **句子结构**：主语+同位语+谓语+双宾语（the legislature + that 从句）；从句为 the more...the fewer... 比较结构（含 there be 句型）。
+
 **关键词**：the more..., the fewer... 越……越……（平行比较结构）；pay into 缴费进入；wage-earner n. 工薪族。
+
 **表达方式**：the more...the fewer 结构把"取代→缴费基数萎缩"的因果链形式化。
+
 **为什么这样写**：用经济学逻辑点出AI的社会保障悖论——替代者越多，养活被替代者的钱越少。
 
 ### 段落25 · 句子3
 > He suggested a new tax on robot-enabled productivity gains.
 
 **中文理解**：他建议对机器人带来的生产率收益征税。
+
 **句子结构**：主谓宾；robot-enabled 为复合形容词（名词+过去分词）。
+
 **关键词**：robot-enabled 机器人驱动的；productivity gains 生产率收益（经济学用语）。
+
 **表达方式**：复合形容词 robot-enabled 高度凝练。
+
 **为什么这样写**：提出具体政策药方，从"警告问题"转向"提供方案"。
 
 ### 段落25 · 句子4
 > Luo Zhiheng of Yuekai Securities, who has briefed Chinese leaders, floated taxing the "excess profits" of AI firms.
 
 **中文理解**：曾向中国领导人作过汇报的粤开证券罗志恒，提出了对AI企业"超额利润"征税的想法。
+
 **句子结构**：主语+非限定性定语从句（who has briefed...）+谓语 floated+动名词短语作宾语。
+
 **关键词**：brief v. 向……作简报；float v. 提出（想法，比 propose 更随意）；excess profits 超额利润。
+
 **表达方式**：float 一词暗示"试探性提出"，呼应前文政策顾问的"very cautious"。
+
 **为什么这样写**：并列另一位专家的相似方案，说明"向AI征税"正在成为共识性议题。
 
 ### 段落26 · 句子1
 > Some economists and former officials want new subsidies like AI-unemployment insurance and cash handouts.
 
 **中文理解**：一些经济学家和前官员希望推出新的补贴，如AI失业保险和现金发放。
+
 **句子结构**：主谓宾+like 举例。
+
 **关键词**：subsidy n. 补贴；handout n. 发放/施舍（常含贬义）；unemployment insurance 失业保险。
+
 **表达方式**：handout 一词带感情色彩（暗含"发钱"的争议性）。
+
 **为什么这样写**：呈现政策光谱的另一端（发钱派），与上文"征税派"形成对照。
 
 ### 段落26 · 句子2
 > "The more disruptive a technological revolution or industrial transformation, the greater the intensity of creative destruction and the more inadequate market mechanisms are in protecting workers' rights," Mr Cai, who previously held a vice-minister level role, wrote in a June front-page editorial in the central party school's paper.
 
 **中文理解**：曾任副部长级职务的蔡昉在中央党校报6月头版社论中写道："技术革命或产业转型的颠覆性越强，创造性破坏的烈度就越大，市场机制在保护工人权益方面就越显不足。"
+
 **句子结构**：长引语（三重 the more + 比较级平行结构）+主语（含非限定性定语从句）+谓语 wrote+多重地点状语。
+
 **关键词**：disruptive adj. 颠覆性的；creative destruction 创造性破坏（熊彼特经济学概念）；inadequate adj. 不足的。
+
 **表达方式**：三重 the more...the more... 排比，学术术语 creative destruction 提升理论高度。
+
 **为什么这样写**：借权威经济学家之口为"政府干预必要性"提供理论背书；wrote 后置让长引语连贯。
 
 ### 段落27 · 句子1
 > The constituency that might agitate for more goodies from the state is getting larger.
 
 **中文理解**：可能向国家争取更多好处的群体正在壮大。
+
 **句子结构**：主语（含 that 定语从句）+系动词+表语（比较级 larger）。
+
 **关键词**：constituency n. 选民群体/利益相关群体（政治学术语）；agitate for 鼓动/争取；goodies n. 好处（口语化）。
+
 **表达方式**：constituency 与 goodies 的混搭（严肃政治词+口语词）产生微妙讽刺感。
+
 **为什么这样写**：用政治学术语把"失业人群"定义为"利益群体"，暗示福利诉求将形成政治压力。
 
 ### 段落27 · 句子2
 > The number of "flexible workers" that make up China's vast gig economy—its food-delivery and ride-share drivers, livestreamers, factory day labourers and the like—will swell to 320m this year, up from 280m in 2025 and double its size in 2019, estimates the China New Employment Forms Research Center, a think-tank (see chart).
 
 **中文理解**：构成中国庞大零工经济的"灵活就业者"——外卖骑手、网约车司机、主播、工厂日结工等——数量今年将膨胀至3.2亿，高于2025年的2.8亿，是2019年的两倍，这是智库中国新就业形态研究中心估算的（见图）。
+
 **句子结构**：主干 The number...will swell to 320m；双破折号内列举具体职业；up from...and double... 为补充数据；estimates 倒装引语置于句末（主语+同位语后置）。
+
 **关键词**：gig economy 零工经济；livestreamer n. 主播；swell v. 膨胀；the like 诸如此类。
+
 **表达方式**：数据三重对照（今年/去年/2019）+倒装引语，信息量极大的"一句成段"。
+
 **为什么这样写**：用爆炸式数据证明"利益群体"增长之快，为"福利压力"提供量化依据。
 
 ### 段落27 · 句子3
 > Firms and policymakers have taken modest steps to include more of them in the social-security system, lest their precarity transform into unrest.
 
 **中文理解**：企业和政策制定者已采取适度措施，将更多人纳入社保体系，以免他们的不稳定处境演变为社会动荡。
+
 **句子结构**：主谓宾+不定式目的+lest 引导目的状语从句（虚拟语气，动词用原形）。
+
 **关键词**：modest adj. 适度的/有限的；precarity n. 不稳定状态（社会学热词）；lest...transform 以免……演变为（书面语）。
+
 **表达方式**：lest + 动词原形为正式书面虚拟语气；precarity→unrest 的因果链。
+
 **为什么这样写**：把社保扩面解释为"维稳"逻辑，暗含对政策动机的冷静观察。
 
 ### 段落27 · 句子4
 > AI could increase the pressure to do more.
 
 **中文理解**：AI可能加大进一步行动的压力。
+
 **句子结构**：主谓宾+不定式定语（the pressure to do more）。
+
 **关键词**：pressure to do 做……的压力。
+
 **表达方式**：短句收束，could 表可能（留有余地）。
+
 **为什么这样写**：以"AI将放大压力"一句把本段拉回文章主线，承上启下。
 
 ### 段落28 · 句子1
 > Still, no ambitious scheme seems likely anytime soon.
 
 **中文理解**：尽管如此，短期内似乎不太可能出台任何雄心勃勃的方案。
+
 **句子结构**：Still 转折副词开头；主语为否定式 no ambitious scheme；seem likely 表推测。
+
 **关键词**：ambitious scheme 雄心勃勃的计划；anytime soon 短期内。
+
 **表达方式**：no...likely anytime soon 双否定式委婉表达。
+
 **为什么这样写**：一句话冷却上一段的"压力论"——压力大不等于政策会跟进，为下文"财政谨慎"设伏。
 
 ### 段落28 · 句子2
 > The government guards its pennies when contemplating subsidies, and Xi Jinping, China's president, has professed an aversion to "welfarism".
 
 **中文理解**：政府在考虑补贴时精打细算，中国国家主席习近平也公开表示厌恶"福利主义"。
+
 **句子结构**：and 连接两个并列分句；when contemplating 为省略主语的分词短语；profess 后接名词 aversion to。
+
 **关键词**：guard one's pennies 精打细算/看紧钱包（习语）；contemplate v. 考虑；profess v. 公开宣称；aversion to 对……的厌恶。
+
 **表达方式**：习语+正式动词混搭（guard pennies 口语化，profess 书面化）。
+
 **为什么这样写**：用最高领导人的态度为"不出台大方案"提供最权威的理由。
 
 ### 段落28 · 句子3
 > As more robotaxis take to the streets, ride-share drivers will have to scrape by.
 
 **中文理解**：随着更多自动驾驶出租车上路，网约车司机将不得不勉强度日。
+
 **句子结构**：As 时间/因果从句+主句（have to scrape by）。
+
 **关键词**：take to the streets 上路；scrape by 勉强维持/艰难度日（习语）。
+
 **表达方式**：take to the streets 与 scrape by 都具画面感。
+
 **为什么这样写**：把宏观政策拉回个体生存——司机成了AI替代的直接承压者。
 
 ### 段落28 · 句子4
 > So will Mr Li, the actor, while his bosses flourish.
 
 **中文理解**：演员李先生也是如此——而他的老板们却蒸蒸日上。
+
 **句子结构**：So will + 主语（倒装省略，= Mr Li will also scrape by）；while 表对比；the actor 为同位语。
+
 **关键词**：So + 助动词 + 主语 表"也同样"；flourish v. 兴旺/繁荣。
+
 **表达方式**：倒装省略句+while 对比，收尾极具张力（底层挣扎 vs 老板繁荣）。
+
 **为什么这样写**：呼应前文提到的人物，形成叙事闭环；对比句制造讽刺，为结尾段落做情感铺垫。
 
 ### 段落29 · 句子1
 > In an office tower in Zhengzhou, Zhang Lei runs Mengchang Media, a studio.
 
 **中文理解**：在郑州的一座写字楼里，张雷经营着一家工作室——萌畅传媒。
+
 **句子结构**：地点状语+主谓宾+同位语（a studio）。
+
 **关键词**：run v. 经营；office tower 写字楼。
+
 **表达方式**：极简场景描写，如同镜头开场。
+
 **为什么这样写**：转场到第三个行业案例（媒体内容生产），用具体场景增加叙事质感。
 
 ### 段落29 · 句子2
 > "AI-crafted microdramas—creativity beyond imagination," reads one slogan.
 
 **中文理解**：一句标语写着："AI微短剧——超乎想象的创意。"
+
 **句子结构**：引语前置+倒装（reads one slogan，主语后置）。
+
 **关键词**：AI-crafted AI制作的；microdrama n. 微短剧；slogan n. 标语；beyond imagination 超乎想象。
+
 **表达方式**：引语倒装（reads 置于句末）是英文新闻常见句式；标语自带宣传腔。
+
 **为什么这样写**：以"广告语"呈现行业狂欢的表象，与下一段的"人去楼空"形成反讽。
 
 ### 段落29 · 句子3
 > Mr Zhang used to have ten crews shooting every day.
 
 **中文理解**：张先生过去每天有十个摄制组在拍摄。
+
 **句子结构**：used to 表过去习惯；have + 宾语 + 现在分词（have ten crews shooting 使……处于拍摄中）。
+
 **关键词**：used to do 过去常常；crew n. 摄制组/剧组。
+
 **表达方式**：used to 暗示"今非昔比"。
+
 **为什么这样写**：过去式的"繁华"与下一段的"现在"直接对撞，形成叙事落差。
 
 ### 段落30 · 句子1
 > Now, row after row of humans called choukashi—literally "card-drawers", an AI-era term that calls to mind randomly drawing cards and hoping for a good one—write prompts specifying, for instance, a close-up of a character's furrowed brows, "his expression full of gratitude and expectation".
 
 **中文理解**：如今，一排排被称为"抽卡师"的人——字面意思是"抽卡片的人"，这个AI时代的新词让人联想到随机抽卡、盼望抽到好牌——在写提示词，比如指定角色紧锁眉头的特写镜头，"表情充满感激与期待"。
+
 **句子结构**：主干 Now, row after row of humans... write prompts...；双破折号内为 choukashi 的词源解释（含 that 定语从句）；specifying 后接动名词短语+直接引语作补充。
+
 **关键词**：choukashi n. 抽卡师（中英混合新词）；literally adv. 字面上；calls to mind 使人想起；prompt n. 提示词（AI术语）；furrowed brows 紧锁的眉头。
+
 **表达方式**：长句以破折号承载词源科普；"抽卡"的赌徒意象暗示行业的不确定性。
+
 **为什么这样写**：新词+词源解释是解释性新闻的经典手法；把"写提示词"这种抽象工作写得具体可感。
 
 ### 段落30 · 句子2
 > Software spits out seconds-long scenes that a choukashi tweaks and sequences.
 
 **中文理解**：软件快速生成数秒长的片段，由抽卡师调整并排序。
+
 **句子结构**：主谓宾+that 定语从句（tweaks and sequences 并列谓语）。
+
 **关键词**：spit out 吐出/快速生成（形象动词）；seconds-long 数秒长的；tweak v. 微调；sequence v. 排序。
+
 **表达方式**：spit out 拟人化，暗示AI产出之廉价与随意。
+
 **为什么这样写**：人机分工一目了然——机器量产、人做微调，点出"抽卡师"的技术含量边界。
 
 ### 段落30 · 句子3
 > There is not a cameraman, lighting crew or actor in sight. ■
 
 **中文理解**：现场看不到一个摄影师、灯光师或演员。
+
 **句子结构**：There be 否定句+in sight 状语；■ 为经济学人文章结尾符号。
+
 **关键词**：in sight 在视线内/可见。
+
 **表达方式**：三个职业名词排比+否定，以"空无一人"的静默画面收束全文。
+
 **为什么这样写**：呼应段落15"Are robots ready to replace humans?"——答案藏在画面里：摄影棚空了。首尾闭环，余韵悠长。
 
 ## 段落逻辑
