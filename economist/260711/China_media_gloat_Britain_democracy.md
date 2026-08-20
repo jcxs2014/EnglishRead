@@ -350,6 +350,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 1（It 形式主语 + 宾语从句嵌套）
@@ -393,6 +394,7 @@
 **⑤ 整体理解：** 第一句给出对比判断，第二句用事实补足"为何无休止"；`In power since 2012` 用分词短语压缩时间信息。
 
 ---
+
 
 ## 精读结束总结
 
@@ -448,6 +450,7 @@
 | `dare to do` | 强调勇气/胆量 | Few dare to challenge the consensus. |
 | `a gift to` | 评论 | The leak was a gift to journalists. |
 | `rather than` | 对比论证 | Invest in prevention rather than cure. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

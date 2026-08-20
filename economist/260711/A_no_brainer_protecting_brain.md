@@ -537,6 +537,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 2（since 原因从句 + 双谓语）
@@ -600,6 +601,7 @@
 **⑤ 整体理解：** 一个主句带两个双宾语结构（cost A £320 / cost B around $270），冒号后用同位语 a bargain 作总结评价，再跟 given 短语说明理由；数据 + 判断 + 理由一气呵成。
 
 ---
+
 
 ## 精读结束总结
 
@@ -667,6 +669,7 @@
 | `a bargain` | 性价比 | At this price, it's a bargain. |
 | `reduce by a fifth` | 量化变化 | Costs fell by a fifth. |
 | `In the meantime` | 过渡 | In the meantime, we proceed. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

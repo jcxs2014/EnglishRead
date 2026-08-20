@@ -460,13 +460,10 @@
 - **批评转译**：把"被骂"译成"热烈的反响"（lively response）——既诚实又得体。
 - **概念翻转**：把"Z 世代社会主义"重新定义为"制度合法性流失"——从贴标签提升到真问题。
 - **承诺行动**：we plan to revisit——认错后有行动，而非空道歉。
+## 词汇分级
 
-### 可迁移表达
 
-- "A generation is not a monolith" — 用于反对以偏概全。
-- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
-- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
-- "The debate is far from over" — 用于开放性结尾。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -513,3 +510,41 @@
 | counter-arguments | — 反方观点 |  |
 | the | rich world — 富裕世界 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | lively response — 热烈的反响 |  |
+| unfair | to their generation — 对他们的世代不公平 |  |
+| take | criticisms seriously — 认真对待批评 |  |
+| to | some extent — 在某种程度上 |  |
+| views | that are often quite different — 常常相当不同的观点 |  |
+| stand | by the substance — 坚持实质 |  |
+| losing | legitimacy — 失去合法性 |  |
+| a | generation is not a monolith — 一代人不是铁板一块 |  |
+| should | have done more — 本应该做得更多 |  |
+| revisit | the subject — 重新审视主题 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cover | — 封面文章 |  |
+| trust | in institutions — 制度信任 |  |
+| counter-arguments | — 反方观点 |  |
+| the | rich world — 富裕世界 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cover | — 封面文章 |  |
+| trust | in institutions — 制度信任 |  |
+| counter-arguments | — 反方观点 |  |
+| the | rich world — 富裕世界 |  |
+
+
+## 可迁移表达
+- "A generation is not a monolith" — 用于反对以偏概全。
+- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
+- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
+- "The debate is far from over" — 用于开放性结尾。## 词汇分级

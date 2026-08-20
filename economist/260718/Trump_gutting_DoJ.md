@@ -896,7 +896,7 @@
 
 ---
 
-## 🔍 长难句专项
+## 长难句专项
 
 > **长难句 1（S14）:** For a start, he has dramatically redefined the department's priorities, which is legitimate, often by setting goals that blur policy and politics, which is not.
 
@@ -981,7 +981,9 @@
 
 ---
 
-## 可迁移表达（按场景）
+## 精读结束总结
+
+## 可迁移表达
 
 | 场景 | 表达 |
 | --- | --- |
@@ -993,8 +995,6 @@
 | 人才/组织话题 | `be left to languish`、`wither`、`think twice about signing up`、`a fresh round of sackings` |
 
 ---
-
-## 精读结束总结
 
 - **本文核心词汇（20 个）**：pursuit、grievance、inflict、profound、legitimate、blur、zeal、discredit、obsession、sinister、languish、wither、indictment、chaotic、pliable、nullify、partisan、purge、entail、bipartisan
 - **核心表达（8 个）**：`set A on B`、`cry foul`、`not the half of it`、`from an arm of the law into a muscular limb of the presidency`、`not because A but because B`、`the benefit of the doubt`、`think twice about doing`、`the stakes are as high`

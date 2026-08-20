@@ -451,14 +451,10 @@
 - **场景→数据→原因→代价→前景**：标准的文化观察五段式。
 - **对照结构**：affluent vs masses / foreign vs local——全文用对照推进。
 - **克制的结论**：only up to a point——不唱高调，给趋势留边界。
+## 词汇分级
 
-### 可迁移表达
 
-- "X has gone native in China" — 用于"某外来事物已本土化"。
-- "No longer an exotic import, it now sits on shelves" — 用于"从猎奇到普及"。
-- "posting a picture of X is a way of signalling that ..." — 用于"晒=身份信号"。
-- "History suggests caution: even X had to adapt" — 用于"先例警示"。
-- "only up to a point" — 用于"只到一定程度"。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -511,3 +507,44 @@
 | avocado | toast — 牛油果吐司 |  |
 | bubble-tea | — 珍珠奶茶 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gone | native — 入乡随俗、本土化 |  |
+| from | Beijing to Chengdu — 从北京到成都 |  |
+| confined | to Shanghai's brunch spots — 局限于上海的早午餐店 |  |
+| rising | health awareness — 日益增强的健康意识 |  |
+| wary | of what they eat — 对吃的东西警惕 |  |
+| a | vision of food that feels safe — 让人感到安全的食物图景 |  |
+| shot | from the perfect angle — 从完美角度拍摄 |  |
+| aspirational | posts that dominate Chinese social apps — 主导中国社交应用"理想生活"帖 |  |
+| five | times as much as a cabbage — 卷心菜的五倍 |  |
+| adapt | its menu to local tastes — 调整菜单适应当地口味 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| kale | — 羽衣甘蓝 |  |
+| quinoa | — 藜麦 |  |
+| chia | seeds — 奇亚籽 |  |
+| avocado | toast — 牛油果吐司 |  |
+| bubble-tea | — 珍珠奶茶 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| kale | — 羽衣甘蓝 |  |
+| quinoa | — 藜麦 |  |
+| chia | seeds — 奇亚籽 |  |
+| avocado | toast — 牛油果吐司 |  |
+| bubble-tea | — 珍珠奶茶 |  |
+
+
+## 可迁移表达
+- "X has gone native in China" — 用于"某外来事物已本土化"。
+- "No longer an exotic import, it now sits on shelves" — 用于"从猎奇到普及"。
+- "posting a picture of X is a way of signalling that ..." — 用于"晒=身份信号"。
+- "History suggests caution: even X had to adapt" — 用于"先例警示"。
+- "only up to a point" — 用于"只到一定程度"。## 词汇分级

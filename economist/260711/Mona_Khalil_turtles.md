@@ -941,6 +941,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 5（宾语前置 + 冒号列举）
@@ -1004,6 +1005,7 @@
 **⑤ 整体理解：** 定语从句（to which ... return）+ 比较从句（as surely as ... did）叠加强调"回归的必然"；with / over 两个介词短语铺开画面；**人与海龟的"归家"在句式上合流**——同一结构的两次使用（the home to which ... return / her patch, to which she had to return）形成首尾呼应。
 
 ---
+
 
 ## 精读结束总结
 
@@ -1076,6 +1078,7 @@
 | `as surely as` | 必然性 | As surely as night follows day. |
 | `unwavering` | 坚定 | Unwavering commitment. |
 | `mile after mile` | 持续 | Mile after mile of progress. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

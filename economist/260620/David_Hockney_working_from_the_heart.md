@@ -471,14 +471,10 @@
 - **细节立人**：晚宴上为色彩理论吵架——一个轶事胜过十句评价。
 - **哲学与轶事交替**：从心作画（哲学）→ 晚宴吵架（轶事）——虚与实互证。
 - **首尾呼应**：泳池开场，泳池收束——意象闭环。
+## 词汇分级
 
-### 可迁移表达
 
-- "working from the heart" — 用于"凭直觉/真心做事"。
-- "a portrait of everyone and no one" — 用于"普世性"。
-- "painting was a way of seeing" — 用于"X 是理解世界的方式"。
-- "in service of joy" — 用于"为……服务"的高级表达。
-- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -537,3 +533,45 @@
 | the | screen was just another window — 屏幕只是另一扇窗 |  |
 | aged | 89 — 享年 89 岁 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | portrait of everyone and no one — 关于每个人又谁也不是的肖像 |  |
+| working | from the heart — 从内心作画 |  |
+| got | in the way of the eye and the hand — 妨碍眼与手 |  |
+| painting | was a way of seeing — 绘画是观看的方式 |  |
+| art | should make you happy — 艺术该让人快乐 |  |
+| lured | by the light, the space and the swimming pools — 被光、空间、泳池吸引 |  |
+| fame | never made him complacent — 成名却未自满 |  |
+| afraid | of being pinned down — 怕被定型 |  |
+| stitching | dozens of Polaroids into a cubist view — 把几十张宝丽来拼成立体视角 |  |
+| draw | with light — 用光作画 |  |
+| pick | a fight about colour theory — 为色彩理论争吵 |  |
+| in | service of joy — 服务于欢乐 |  |
+| art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pool | paintings — 泳池画 |  |
+| Polaroids | — 宝丽来照片 |  |
+| the | screen was just another window — 屏幕只是另一扇窗 |  |
+| aged | 89 — 享年 89 岁 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pool | paintings — 泳池画 |  |
+| Polaroids | — 宝丽来照片 |  |
+| the | screen was just another window — 屏幕只是另一扇窗 |  |
+| aged | 89 — 享年 89 岁 |  |
+
+
+## 可迁移表达
+- "working from the heart" — 用于"凭直觉/真心做事"。
+- "a portrait of everyone and no one" — 用于"普世性"。
+- "painting was a way of seeing" — 用于"X 是理解世界的方式"。
+- "in service of joy" — 用于"为……服务"的高级表达。
+- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。## 词汇分级

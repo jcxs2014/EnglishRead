@@ -1151,57 +1151,7 @@
 
 ---
 
-## 长难句专项汇总
-
-### 🔍 1. 第一段彭辉堂引语
-> "Young women brainwashed by feminist thinking became increasingly man-hating, which then evolved into the idea that men are born owing women something," he rants.
-
-- 找主干：`Young women became man-hating`
-- 找修饰：`brainwashed by feminist thinking`（过去分词后置定语，被动）
-- 找从句：① `which then evolved into the idea`（非限定定语从句，指代整件事）② `that men are born owing women something`（idea 的同位语从句）
-- 恢复逻辑：被洗脑的女性 → 越来越仇男 → （这件事）演变成观念 → 男人天生欠女人
-- 整体理解：四级因果链条压缩在一句引语中，`rant` 是作者的态度标记
-
-### 🔍 2. 第二段应跃勇帖子
-> Another man, who goes by the name Ying Yueyong, in a post viewed 4m times on Bilibili, a video platform, issued "a rallying cry to men to no longer remain silent in the face of years of bullying and to rise up in resistance".
-
-- 找主干：`Another man issued "a rallying cry"`
-- 找修饰：`who goes by...`（非限定定从）；`in a post viewed 4m times...`（状语 + 分词后置定语）；`a video platform`（同位语）
-- 找从句：`who...`（定语从句）；两个 `to do`（to no longer remain... and to rise up...）是不定式作 cry 的定语
-- 恢复逻辑：某人 → 在某平台某帖中 → 发出号召 → 号召内容（不再沉默 + 奋起反抗）
-- 整体理解：一句话塞进"人物 + 平台 + 传播量 + 内容"，信息密度极高
-
-### 🔍 3. 第四段共青团引语
-> The Communist Youth League has said "extreme feminism" (which it does not define, but generally includes anything that encourages activism or conflict and discourages women from getting married and having children) is a "cancer" afflicting the internet.
-
-- 找主干：`The League has said "extreme feminism" is a "cancer"`
-- 找修饰：`afflicting the internet`（现在分词后置定语）
-- 找从句：括号内 `which it does not define`（定语从句）+ `but includes anything`（并列省略 which）+ `that encourages... and discourages...`（anything 的定语从句）
-- 恢复逻辑：官方说 X 是 Y（定义模糊但打击面大）→ 括号是作者的"嵌入式质疑"
-- 整体理解：引语与解释并用，`does not define` 与 `cancer` 并置暗藏批评
-
-### 🔍 4. 第九段研究数据
-> Research by Minhee Chae of Nankai University and Zhang Dandan of Peking University found that around a third of young male migrants who intend to marry think their chances of doing so by the age of 30 are only 50% at best.
-
-- 找主干：`Research found that migrants think chances are 50%`
-- 找修饰：`by...and...`（来源）；`who intend to marry`（限定从句）；`by the age of 30`（时间状语）
-- 找从句：三层嵌套——found that（宾语）→ who（定语）→ think (that) chances...are...（宾语）
-- 恢复逻辑：研究者 → 结论（三分之一的人认为）→ 内容（30 岁前成婚几率充其量 50%）
-- 整体理解：`at best` 收尾给整个乐观数字泼冷水，是句子的情感落点
-
-### 🔍 5. 第十三段武大案
-> Last year, a legal ruling in favour of a male Wuhan University student accused by a female student of masturbating in front of her became a lightning rod for men's concerns about feminist overreach and women's concerns about a lack of clarity in defining sexual harassment.
-
-- 找主干：`a ruling became a lightning rod for A and B`
-- 找修饰：`in favour of...`（定语）；`accused by...of...`（分词后置定语）
-- 找从句：无从句——长在**后置定语链**与**并列介词短语**上
-- 恢复逻辑：一项有利于被告的裁决 → 成为焦点 → 同时点燃男性（怕女权越界）与女性（怕定义不清）的担忧
-- 整体理解：`for A and B` 的平行骨架 + `lightning rod` 的比喻，是"一句讲清一场撕裂"的范本
-
----
-
-## 精读结束总结
-
+## 词汇分级
 
 ## 词汇分级
 ### ⭐⭐⭐ 高级
@@ -1265,7 +1215,59 @@
 8. **结尾冷处理**：以人物原话 + 对比（trapped vs enjoying）收束，不总结、不下定论
 9. **首尾呼应**：开头"Welcome to the manosphere"点题，结尾 ■ 惯例收束，中间 cast/portray 意象链贯穿
 
-### 六、可迁移表达（按场景）
+## 长难句专项
+
+### 🔍 1. 第一段彭辉堂引语
+> "Young women brainwashed by feminist thinking became increasingly man-hating, which then evolved into the idea that men are born owing women something," he rants.
+
+- 找主干：`Young women became man-hating`
+- 找修饰：`brainwashed by feminist thinking`（过去分词后置定语，被动）
+- 找从句：① `which then evolved into the idea`（非限定定语从句，指代整件事）② `that men are born owing women something`（idea 的同位语从句）
+- 恢复逻辑：被洗脑的女性 → 越来越仇男 → （这件事）演变成观念 → 男人天生欠女人
+- 整体理解：四级因果链条压缩在一句引语中，`rant` 是作者的态度标记
+
+### 🔍 2. 第二段应跃勇帖子
+> Another man, who goes by the name Ying Yueyong, in a post viewed 4m times on Bilibili, a video platform, issued "a rallying cry to men to no longer remain silent in the face of years of bullying and to rise up in resistance".
+
+- 找主干：`Another man issued "a rallying cry"`
+- 找修饰：`who goes by...`（非限定定从）；`in a post viewed 4m times...`（状语 + 分词后置定语）；`a video platform`（同位语）
+- 找从句：`who...`（定语从句）；两个 `to do`（to no longer remain... and to rise up...）是不定式作 cry 的定语
+- 恢复逻辑：某人 → 在某平台某帖中 → 发出号召 → 号召内容（不再沉默 + 奋起反抗）
+- 整体理解：一句话塞进"人物 + 平台 + 传播量 + 内容"，信息密度极高
+
+### 🔍 3. 第四段共青团引语
+> The Communist Youth League has said "extreme feminism" (which it does not define, but generally includes anything that encourages activism or conflict and discourages women from getting married and having children) is a "cancer" afflicting the internet.
+
+- 找主干：`The League has said "extreme feminism" is a "cancer"`
+- 找修饰：`afflicting the internet`（现在分词后置定语）
+- 找从句：括号内 `which it does not define`（定语从句）+ `but includes anything`（并列省略 which）+ `that encourages... and discourages...`（anything 的定语从句）
+- 恢复逻辑：官方说 X 是 Y（定义模糊但打击面大）→ 括号是作者的"嵌入式质疑"
+- 整体理解：引语与解释并用，`does not define` 与 `cancer` 并置暗藏批评
+
+### 🔍 4. 第九段研究数据
+> Research by Minhee Chae of Nankai University and Zhang Dandan of Peking University found that around a third of young male migrants who intend to marry think their chances of doing so by the age of 30 are only 50% at best.
+
+- 找主干：`Research found that migrants think chances are 50%`
+- 找修饰：`by...and...`（来源）；`who intend to marry`（限定从句）；`by the age of 30`（时间状语）
+- 找从句：三层嵌套——found that（宾语）→ who（定语）→ think (that) chances...are...（宾语）
+- 恢复逻辑：研究者 → 结论（三分之一的人认为）→ 内容（30 岁前成婚几率充其量 50%）
+- 整体理解：`at best` 收尾给整个乐观数字泼冷水，是句子的情感落点
+
+### 🔍 5. 第十三段武大案
+> Last year, a legal ruling in favour of a male Wuhan University student accused by a female student of masturbating in front of her became a lightning rod for men's concerns about feminist overreach and women's concerns about a lack of clarity in defining sexual harassment.
+
+- 找主干：`a ruling became a lightning rod for A and B`
+- 找修饰：`in favour of...`（定语）；`accused by...of...`（分词后置定语）
+- 找从句：无从句——长在**后置定语链**与**并列介词短语**上
+- 恢复逻辑：一项有利于被告的裁决 → 成为焦点 → 同时点燃男性（怕女权越界）与女性（怕定义不清）的担忧
+- 整体理解：`for A and B` 的平行骨架 + `lightning rod` 的比喻，是"一句讲清一场撕裂"的范本
+
+---
+
+## 精读结束总结
+
+## 可迁移表达
+
 
 | 场景 | 可用表达 |
 | --- | --- |
@@ -1277,3 +1279,4 @@
 | 对比论证 | while 让步对比 / In Western democracies...In China... / one the one hand...on the other |
 | 描述困境 | be trapped in / be resigned to / the odds are stacked against sb / throw sth off kilter |
 | 网络现象 | scroll through / doxx / gold-digger / lightning rod / China's answer to X |
+

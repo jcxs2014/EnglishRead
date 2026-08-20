@@ -772,6 +772,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 3（被动 + at the door of 隐喻）
@@ -835,6 +836,7 @@
 **⑤ 整体理解：** 主句带两个宾语（zoning system / quotas），各带定语从句；`in which it is harder to veto` 表目的（在该体系下更难否决）；`which currently make many of them unprofitable` 表后果（配额导致亏本）。
 
 ---
+
 
 ## 精读结束总结
 
@@ -904,6 +906,7 @@
 | `pick up the pace` | 加速 | We need to pick up the pace. |
 | `choke off` | 扼杀 | Rules choke off supply. |
 | `sounds harsh, but ...` | 逆耳建议 | It sounds harsh, but it works. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

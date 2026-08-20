@@ -589,6 +589,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 4（主语 + who 定语从句 + 破折号解释）
@@ -642,6 +643,7 @@
 **⑤ 整体理解：** 主语带 who 定语从句（被动 investigated for）；谓语 were flagged to ... for ... before ... 连续四个状语（对象/原因/时间）依次展开；`before the age of 12` 放句尾作关键时间点。
 
 ---
+
 
 ## 精读结束总结
 
@@ -716,6 +718,7 @@
 | `tackle the root causes` | 治本 | Tackle the root causes, not symptoms. |
 | `flagged as at risk` | 预警 | At-risk students were flagged early. |
 | `prevent ... from becoming` | 预防 | Prevent small issues from becoming crises. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

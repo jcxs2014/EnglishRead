@@ -493,14 +493,10 @@
 - **"安全关切该有"的诚实**：先承认 legitimate worries，再反对 blanket restrictions——立场可信。
 - **历史教训引证**：past decade in tech——用芯片战等先例证明封锁无效。
 - **定位句收束**：Biotech should not become the next casualty——一个比喻完成全文立意。
+## 词汇分级
 
-### 可迁移表达
 
-- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
-- "tools of the state" — 用于"被国家利用的工具"。
-- "put pressure on prices" — 用于"压低价格的市场力量"。
-- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
-- "a double tragedy" — 用于"双重受害"的总结。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -553,3 +549,46 @@
 | gene | editing — 基因编辑 |  |
 | biosecurity | — 生物安全 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the | tech war against China — 对华科技战 |  |
+| tools | of the state — 国家的工具 |  |
+| steal | Western know-how — 窃取西方技术诀窍 |  |
+| bring | cheaper drugs to market — 把更便宜的药推向市场 |  |
+| big | pharma — 大药企 |  |
+| a | growing share of — 不断增长的份额 |  |
+| antibody-drug conjugates — 抗体偶联药物 | ADC |  |
+| cutting | edge research — 尖端研究 |  |
+| swept | up in a security panic — 被卷进安全恐慌 |  |
+| have | every right to — 完全有权 |  |
+| a | fit of scaremongering — 一阵危言耸听 |  |
+| the | next casualty — 下一个牺牲品 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO | — 合同研发生产组织 |  |
+| clinical | trials — 临床试验 |  |
+| research | pipelines — 研究管线 |  |
+| gene | editing — 基因编辑 |  |
+| biosecurity | — 生物安全 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO | — 合同研发生产组织 |  |
+| clinical | trials — 临床试验 |  |
+| research | pipelines — 研究管线 |  |
+| gene | editing — 基因编辑 |  |
+| biosecurity | — 生物安全 |  |
+
+
+## 可迁移表达
+- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
+- "tools of the state" — 用于"被国家利用的工具"。
+- "put pressure on prices" — 用于"压低价格的市场力量"。
+- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
+- "a double tragedy" — 用于"双重受害"的总结。## 词汇分级

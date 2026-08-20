@@ -1117,14 +1117,10 @@
 - **"先承认后反驳"的平衡**：Closer relations with the EU could help, But ... must not become all-consuming——承认合理部分再设边界。
 - **历史循环结构**：开头"失去十年"，结尾"需要撒切尔式震撼"——首尾呼应，暗示英国需要新一轮自我革新。
 - **务实主义基调**：不喊口号，用数字、清单、先例说话——"政策不神秘，难在取舍"。
+## 词汇分级
 
-### 可迁移表达
 
-- "lost a continent but not yet found a role" — 用于"失去目标但未找到新定位"。
-- "a recipe for another decade lost" — 用于"注定再浪费十年"的警告。
-- "the doomed search for silver bullets" — 用于批判寻找万灵药。
-- "someone, somewhere giving something up" — 用于说明改革的利益再分配本质。
-- "increasingly looks as if they will need a ... shaking" — 用于"需要一记当头棒喝"。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -1188,3 +1184,50 @@
 | welfare | state — 福利国家 |  |
 | reinvigoration | — 振兴 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lost | a continent but not yet found a role — 失去大陆却没找到角色 |  |
+| more | divided, less influential and poorer — 更分裂、更没影响力、更穷 |  |
+| take back control — 夺回控制权 | 口号 |  |
+| lay | ... on a single cause — 归咎于单一原因 |  |
+| live | up to its potential — 发挥潜力 |  |
+| Singapore-on-Thames | — 泰晤士河畔新加坡 |  |
+| get Brexit done — 完成脱欧 | 口号 |  |
+| the | doomed search for silver bullets — 注定失败的寻找银弹 |  |
+| a | recipe for disaster — 灾难配方 |  |
+| against | the backdrop of — 在……背景下 |  |
+| boost | productivity — 提振生产率 |  |
+| remove | barriers to trade — 消除贸易壁垒 |  |
+| all-consuming | distraction — 吞噬一切的分心 |  |
+| someone, | somewhere giving something up — 总有人要割肉 |  |
+| pocket | all the gains — 独吞收益 |  |
+| a | Thatcher-style shaking — 撒切尔式的震撼 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| semi-detached — 半脱离的 | 双关英国住宅类型 |  |
+| net-zero | policy — 净零政策 |  |
+| veto-points | — 否决点 |  |
+| welfare | state — 福利国家 |  |
+| reinvigoration | — 振兴 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| semi-detached — 半脱离的 | 双关英国住宅类型 |  |
+| net-zero | policy — 净零政策 |  |
+| veto-points | — 否决点 |  |
+| welfare | state — 福利国家 |  |
+| reinvigoration | — 振兴 |  |
+
+
+## 可迁移表达
+- "lost a continent but not yet found a role" — 用于"失去目标但未找到新定位"。
+- "a recipe for another decade lost" — 用于"注定再浪费十年"的警告。
+- "the doomed search for silver bullets" — 用于批判寻找万灵药。
+- "someone, somewhere giving something up" — 用于说明改革的利益再分配本质。
+- "increasingly looks as if they will need a ... shaking" — 用于"需要一记当头棒喝"。## 词汇分级

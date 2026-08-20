@@ -897,6 +897,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 7（if 虚拟 + how many 从句 + 主句虚拟）
@@ -960,6 +961,7 @@
 **⑤ 整体理解：** result in + what 宾语从句（引专家术语）；逗号后 the market sorting ... 是独立动名词结构作补充（同位语），内部嵌套 what administrators cannot（省 sorting）。
 
 ---
+
 
 ## 精读结束总结
 
@@ -1035,6 +1037,7 @@
 | `rings true` | 判断可信 | Her account rings true. |
 | `For what it's worth` | 谦逊插入 | For what it's worth, I agree. |
 | `wouldn't swap ... for anywhere` | 珍视 | I wouldn't swap this job for anywhere. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

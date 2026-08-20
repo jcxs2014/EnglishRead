@@ -453,13 +453,10 @@
 - **二元概念概括**：dual economy, split between core and periphery——用一个概念统摄复杂结构。
 - **借他国教训**：other emerging markets——用先例增加说服力。
 - **以民生定成败**：judged ... by whether it lifts the lives of ordinary Indians——把评判标准锚定在普通人。
+## 词汇分级
 
-### 可迁移表达
 
-- "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
-- "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
-- "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
-- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -509,3 +506,41 @@
 | GDP | — 国内生产总值 |  |
 | emerging | markets — 新兴市场 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | tech-and-manufacturing boom — 科技与制造热潮 |  |
+| shifting | supply chains away from China — 把供应链移出中国 |  |
+| a | narrow slice of the country — 国家的很小一部分 |  |
+| productivity | growth has stalled — 生产率增长停滞 |  |
+| make | it hard for small ones to hire — 让小企业难以招聘 |  |
+| a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |  |
+| strong | numeracy and problem-solving — 强大的数理与解题能力 |  |
+| make | its boom last — 让繁荣持续 |  |
+| diversifying | away from China — 从中国多元化转移 |  |
+| booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO — 略 | bio 篇已学 |  |
+| IT | — 信息技术 |  |
+| GDP | — 国内生产总值 |  |
+| emerging | markets — 新兴市场 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO — 略 | bio 篇已学 |  |
+| IT | — 信息技术 |  |
+| GDP | — 国内生产总值 |  |
+| emerging | markets — 新兴市场 |  |
+
+
+## 可迁移表达
+- "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
+- "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
+- "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
+- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。## 词汇分级

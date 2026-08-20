@@ -474,14 +474,10 @@
 - **克制引用**："In Beijing I was a number"——让受访者说话，作者不代说。
 - **概念创造**：comfort of fewer options——把一个矛盾变成概念。
 - **反讽而不刻薄**：a retreat is still a retreat——温和的批评。
+## 词汇分级
 
-### 可迁移表达
 
-- "Comfort and constraint come as a package" — 用于"好坏相伴"。
-- "the comfort of fewer options" — 用于"选择受限的代价"。
-- "a dignified retreat" — 用于"体面的退路"。
-- "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
-- "For some ... For others" — 用于平衡式结论。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -534,3 +530,42 @@
 | a | single dominant industry — 单一主导产业 |  |
 | an | act of submission — 屈从行为 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| most | foreigners have never heard of — 大多数外国人从未听说 |  |
+| a | good life seems to cost less — 好生活似乎成本更低 |  |
+| comfort | and constraint come as a package — 舒适与约束打包 |  |
+| failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |  |
+| I | was a number ... I feel like a person — 我是数字……我感觉像个人 |  |
+| a | third of what it was in Beijing — 北京时的三分之一 |  |
+| what | officials call "liveable cities" — 官方所称的"宜居城市" |  |
+| the | comfort of fewer options — 选项更少的舒适 |  |
+| a | dignified retreat — 体面的退路 |  |
+| bought | with freedom / bought with ambition — 用自由/野心换来 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| rankings | — 排名 |  |
+| green | hills ring the city centre — 青山环绕市中心 |  |
+| a | single dominant industry — 单一主导产业 |  |
+| an | act of submission — 屈从行为 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| rankings | — 排名 |  |
+| green | hills ring the city centre — 青山环绕市中心 |  |
+| a | single dominant industry — 单一主导产业 |  |
+| an | act of submission — 屈从行为 |  |
+
+
+## 可迁移表达
+- "Comfort and constraint come as a package" — 用于"好坏相伴"。
+- "the comfort of fewer options" — 用于"选择受限的代价"。
+- "a dignified retreat" — 用于"体面的退路"。
+- "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
+- "For some ... For others" — 用于平衡式结论。## 词汇分级

@@ -453,14 +453,10 @@
 - **多因素归因**：机制/流量/监管——敲诈不是单一原因，而是系统产物。
 - **受害者视角**：为什么不敢报警——从两难解释沉默。
 - **制度悖论**：严控媒体反而让敲诈无监督——讽刺是调查报道的锐器。
+## 词汇分级
 
-### 可迁移表达
 
-- "X is not an isolated case" — 用于"从个案到普遍"。
-- "The practice has a name: ..." — 用于"给现象命名"。
-- "A and B are two sides of the same coin" — 用于"一体两面"。
-- "There is little prospect of reform" — 用于"改革前景渺茫"。
-- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -514,3 +510,42 @@
 | media | outlets — 媒体机构 |  |
 | critical | journalists — 批评性记者 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| received | a phone call he did not expect — 接到意想不到的电话 |  |
+| demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |  |
+| hundreds | of thousands of views — 数十万浏览量 |  |
+| use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |  |
+| flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |  |
+| the | economics of the attention economy — 注意力经济的逻辑 |  |
+| paying | is cheaper than fighting — 付钱比抗争划算 |  |
+| under | pressure to attract investment — 迫于招商引资压力 |  |
+| two | sides of the same coin — 同一枚硬币的两面 |  |
+| find | a way to thrive — 找到兴旺之道 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| allegation | — 指控 |  |
+| independent | journalism — 独立新闻业 |  |
+| media | outlets — 媒体机构 |  |
+| critical | journalists — 批评性记者 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| allegation | — 指控 |  |
+| independent | journalism — 独立新闻业 |  |
+| media | outlets — 媒体机构 |  |
+| critical | journalists — 批评性记者 |  |
+
+
+## 可迁移表达
+- "X is not an isolated case" — 用于"从个案到普遍"。
+- "The practice has a name: ..." — 用于"给现象命名"。
+- "A and B are two sides of the same coin" — 用于"一体两面"。
+- "There is little prospect of reform" — 用于"改革前景渺茫"。
+- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。## 词汇分级

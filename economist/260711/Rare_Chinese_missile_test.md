@@ -529,6 +529,51 @@
 
 ---
 
+## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| intercontinental | 洲际的 / `long-range` 远程的 / `air-launched` 空射的 |  || the low 600s | 600 出头 / `compared with` 相比 |  || in preparation for | 为……做准备 / `confrontation` 对抗 |  || splash down | 溅落 / `range` 射程 / `the former/the latter` 前者/后者 |  || military parade | 阅兵式 / `joint` 联合的 / `notification` 通报 |  || State Department | 国务院 / `foreign minister` 外长 / `in protest over` 因抗议 |  || destabilising | 破坏稳定的 / `intention` 意图 |  || jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |  || continental United States | 美国本土 / `mid-Pacific` 太平洋中部 |  |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| secrecy | 保密 / `estimate` 估计 / `confirm` 证实 / `patrol` 巡逻 |  || vessel | 舰船 / `dummy` 模拟的、假的 / `warhead` 弹头 |  || modernise | 现代化 / `build-up` 集结扩充 / `operational` 现役可用的 |  || mainland | 本土 / `coastal waters` 近海水域 / `on display` 展出 |  || boomer | （此处）美国海军俚语：弹道导弹核潜艇 |  |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| do so | 替代动词 / `permanent members` 常任理事国 |  || triad | （军事义）陆海空三位一体核力量 |  || foe | 敌人（古雅变体） |  || NATO | 北约 / `SSBN` 弹道导弹核潜艇 |  |## 长难句专项（按精读顺序编号）
+
+### 🔍 句 5：So its announcement on July 6th that one of them had carried out a rare test of an intercontinental ballistic missile in the Pacific Ocean surprised and unnerved the region.
+
+① **找主干**：announcement surprised and unnerved the region。
+② **找修饰**：on July 6th（时间）；that 同位语从句（宣布的内容）。
+③ **找从句**：`that one of them had carried out a rare test...` 同位语从句，内部过去完成时（先于宣布发生）。
+④ **恢复逻辑**：主句短、从句长——信息重心在从句。
+⑤ **整体理解**：宣布"潜艇远洋试射洲际导弹"→ 地区震惊不安。
+
+### 🔍 句 10：The test shows that China is "moving closer to a credible triad", the capacity to launch long-range ballistic missiles from land, sea and air, wrote Frank Rose, a former senior official at the us National Nuclear Security Administration.
+
+① **找主干**：The test shows that...（引语内主句）+ 倒装引述 wrote Frank Rose。
+② **找修饰**：同位语解释 triad；同位语交代 Frank Rose 身份。
+③ **找从句**：shows 的宾语从句。
+④ **恢复逻辑**：前官员说"试验证明中国在逼近可信三位一体"+ 定义。
+⑤ **整体理解**：判断 + 定义 + 权威，一句三用。
+
+### 🔍 句 12：Foreign analysts say China is likely to carry out such tests regularly in the coming years as a way to validate the equipment involved and demonstrate resolve to America.
+
+① **找主干**：analysts say China is likely to carry out such tests。
+② **找修饰**：regularly（频度）、in the coming years（时间）、as a way to...（目的）。
+③ **找从句**：省略 that 的宾语从句；involved 后置定语。
+④ **恢复逻辑**：双重动机——验证装备 + 展示决心。
+⑤ **整体理解**：分析人士预判中国将把试射常态化。
+
+### 🔍 句 18：The missile, which appeared to have been launched from the South China Sea and to have splashed down in the South Pacific, was likely to be a jl-2 or jl-3 (pictured), said several experts.
+
+① **找主干**：The missile was likely to be a jl-2 or jl-3。
+② **找修饰**：which 从句给出轨迹（南海→南太平洋）。
+③ **找从句**：定语从句内 `appeared to have been launched` = 不定式完成被动式（动作先于判断）。
+④ **恢复逻辑**：专家按轨迹反推型号。
+⑤ **整体理解**：型号为推断，非官宣。
+
+### 🔍 句 23：Still, several voiced concern about the operation, which came on the eve of a nato summit in Ankara and in the midst of American-led joint naval exercises around Hawaii.
+
+① **找主干**：several voiced concern about the operation。
+② **找修饰**：which 从句交代时机。
+③ **找从句**：非限制性定语从句，内有两个并列时间介词短语。
+④ **恢复逻辑**：担忧 = 行动本身 + 行动时机。
+⑤ **整体理解**：敏感时刻的试射放大了地区反应。
+
+---
+
+
 ## 精读结束总结
 
 ### 1. 本文核心表达（最值得记忆）
@@ -599,47 +644,3 @@
 ---
 
 *精读完成。训练建议：重读第五段（The Pentagon...）与第六段（JL-2/JL-3），尝试不看翻译复述其逻辑链；再用 `given...`、`on the eve of...`、`be not alone in...` 各造一个属于自己的句子。*
-## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| intercontinental | 洲际的 / `long-range` 远程的 / `air-launched` 空射的 |  || the low 600s | 600 出头 / `compared with` 相比 |  || in preparation for | 为……做准备 / `confrontation` 对抗 |  || splash down | 溅落 / `range` 射程 / `the former/the latter` 前者/后者 |  || military parade | 阅兵式 / `joint` 联合的 / `notification` 通报 |  || State Department | 国务院 / `foreign minister` 外长 / `in protest over` 因抗议 |  || destabilising | 破坏稳定的 / `intention` 意图 |  || jl-2 / jl-3 | 巨浪-2 / 巨浪-3（中国海基洲际导弹） |  || continental United States | 美国本土 / `mid-Pacific` 太平洋中部 |  |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| secrecy | 保密 / `estimate` 估计 / `confirm` 证实 / `patrol` 巡逻 |  || vessel | 舰船 / `dummy` 模拟的、假的 / `warhead` 弹头 |  || modernise | 现代化 / `build-up` 集结扩充 / `operational` 现役可用的 |  || mainland | 本土 / `coastal waters` 近海水域 / `on display` 展出 |  || boomer | （此处）美国海军俚语：弹道导弹核潜艇 |  |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| do so | 替代动词 / `permanent members` 常任理事国 |  || triad | （军事义）陆海空三位一体核力量 |  || foe | 敌人（古雅变体） |  || NATO | 北约 / `SSBN` 弹道导弹核潜艇 |  |## 长难句专项（按精读顺序编号）
-
-### 🔍 句 5：So its announcement on July 6th that one of them had carried out a rare test of an intercontinental ballistic missile in the Pacific Ocean surprised and unnerved the region.
-
-① **找主干**：announcement surprised and unnerved the region。
-② **找修饰**：on July 6th（时间）；that 同位语从句（宣布的内容）。
-③ **找从句**：`that one of them had carried out a rare test...` 同位语从句，内部过去完成时（先于宣布发生）。
-④ **恢复逻辑**：主句短、从句长——信息重心在从句。
-⑤ **整体理解**：宣布"潜艇远洋试射洲际导弹"→ 地区震惊不安。
-
-### 🔍 句 10：The test shows that China is "moving closer to a credible triad", the capacity to launch long-range ballistic missiles from land, sea and air, wrote Frank Rose, a former senior official at the us National Nuclear Security Administration.
-
-① **找主干**：The test shows that...（引语内主句）+ 倒装引述 wrote Frank Rose。
-② **找修饰**：同位语解释 triad；同位语交代 Frank Rose 身份。
-③ **找从句**：shows 的宾语从句。
-④ **恢复逻辑**：前官员说"试验证明中国在逼近可信三位一体"+ 定义。
-⑤ **整体理解**：判断 + 定义 + 权威，一句三用。
-
-### 🔍 句 12：Foreign analysts say China is likely to carry out such tests regularly in the coming years as a way to validate the equipment involved and demonstrate resolve to America.
-
-① **找主干**：analysts say China is likely to carry out such tests。
-② **找修饰**：regularly（频度）、in the coming years（时间）、as a way to...（目的）。
-③ **找从句**：省略 that 的宾语从句；involved 后置定语。
-④ **恢复逻辑**：双重动机——验证装备 + 展示决心。
-⑤ **整体理解**：分析人士预判中国将把试射常态化。
-
-### 🔍 句 18：The missile, which appeared to have been launched from the South China Sea and to have splashed down in the South Pacific, was likely to be a jl-2 or jl-3 (pictured), said several experts.
-
-① **找主干**：The missile was likely to be a jl-2 or jl-3。
-② **找修饰**：which 从句给出轨迹（南海→南太平洋）。
-③ **找从句**：定语从句内 `appeared to have been launched` = 不定式完成被动式（动作先于判断）。
-④ **恢复逻辑**：专家按轨迹反推型号。
-⑤ **整体理解**：型号为推断，非官宣。
-
-### 🔍 句 23：Still, several voiced concern about the operation, which came on the eve of a nato summit in Ankara and in the midst of American-led joint naval exercises around Hawaii.
-
-① **找主干**：several voiced concern about the operation。
-② **找修饰**：which 从句交代时机。
-③ **找从句**：非限制性定语从句，内有两个并列时间介词短语。
-④ **恢复逻辑**：担忧 = 行动本身 + 行动时机。
-⑤ **整体理解**：敏感时刻的试射放大了地区反应。
-
----
-

@@ -477,14 +477,10 @@
 - **三层归因**：文化/制度/国家——不把复杂现象归因于单一因素。
 - **代价清单**：健康/人口/创新——把代价结构化。
 - **避免绝对化**：Part of the answer ... / may be ending——用 Part of、may 保持审慎。
+## 词汇分级
 
-### 可迁移表达
 
-- "X is famous for their work ethic" — 用于"以勤奋著称"。
-- "work ever harder for ever smaller gains" — 用于"内卷"现象。
-- "the phenomenon known as involution" — 用于"给现象命名"。
-- "will survive its own success" — 用于"成功反噬"悖论。
-- "not just for China but for the global economy" — 用于"影响外溢"。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -538,3 +534,46 @@
 | overwork | — 过劳 |  |
 | demographers | — 人口学家 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| famous | for their work ethic — 以勤奋闻名 |  |
+| running | at double speed — 以双倍速度运转 |  |
+| relentless | hustle — 不停歇的忙碌 |  |
+| clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |  |
+| a | quarter more than their American counterparts — 比美国同行多四分之一 |  |
+| the | 996 work schedule — 996 工作制 |  |
+| promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |  |
+| talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |  |
+| work | ever harder for ever smaller gains — 越努力收益越小 |  |
+| leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |  |
+| contribute | to the falling birth rate — 促成出生率下降 |  |
+| the | age of hustle may be ending — 拼命时代或终结 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalators | — 自动扶梯 |  |
+| takeaways | — 外卖 |  |
+| traffic | lights — 红绿灯 |  |
+| overwork | — 过劳 |  |
+| demographers | — 人口学家 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalators | — 自动扶梯 |  |
+| takeaways | — 外卖 |  |
+| traffic | lights — 红绿灯 |  |
+| overwork | — 过劳 |  |
+| demographers | — 人口学家 |  |
+
+
+## 可迁移表达
+- "X is famous for their work ethic" — 用于"以勤奋著称"。
+- "work ever harder for ever smaller gains" — 用于"内卷"现象。
+- "the phenomenon known as involution" — 用于"给现象命名"。
+- "will survive its own success" — 用于"成功反噬"悖论。
+- "not just for China but for the global economy" — 用于"影响外溢"。## 词汇分级

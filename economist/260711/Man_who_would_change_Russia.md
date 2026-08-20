@@ -917,6 +917,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
@@ -990,6 +991,7 @@
 **⑤ 整体理解：** 三个短句构成完整历史因果（归咎→论证→行动）；`doomed A to be behind B`（注定落后）；`force A to do`（迫使做）。
 
 ---
+
 
 ## 精读结束总结
 
@@ -1069,6 +1071,7 @@
 | `relinquish control` | 权力交接 | He refused to relinquish control. |
 | `in a bind` | 困境描述 | The company is in a bind. |
 | `reforms that last` | 变革建议 | We need reforms that last. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

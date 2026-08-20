@@ -482,6 +482,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 5（冒号列举三宗罪）
@@ -556,6 +557,7 @@
 
 ---
 
+
 ## 精读结束总结
 
 ### 1. 本文核心表达
@@ -627,6 +629,7 @@
 | `outlast` | 比……长久 | Good ideas outlast their authors. |
 | `get behind` | 支持 | Everyone can get behind this. |
 | `In any case` | 让步总结 | In any case, we proceed. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

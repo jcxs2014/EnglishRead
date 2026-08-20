@@ -963,6 +963,7 @@
 
 ---
 
+## 词汇分级
 ## 长难句专项
 
 ### 🔍 原句 9（多层嵌套 + 同位语 + 方式状语）
@@ -1026,6 +1027,7 @@
 **⑤ 整体理解：** 主谓一致 tricky（grounds 复数概念 + is 单数，因补语是 the contradiction）；between A and B 两个长不定式短语平行，构成"自相矛盾"的逻辑。
 
 ---
+
 
 ## 精读结束总结
 
@@ -1097,6 +1099,7 @@
 | `a backlash against` | 政策评论 | The reform sparked a backlash. |
 | `an early salvo in` | 战争/竞争比喻 | This is an early salvo in the price war. |
 | `caught in the crossfire` | 描述无辜受牵累 | Suppliers were caught in the crossfire. |
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

@@ -1007,15 +1007,10 @@
 - **从具体事件升维到权力本质**：一个 AI 禁运令 → "谁能用世界最重要技术由美国决定" → "访问分级"的体系分析。以小见大，层层升维。
 - **正反立场交替**：先讲"美国力量巅峰"，再讲"封禁自毁"，再讲"依赖双向"，再讲"算力碾压"——每个判断都被下一个判断修正，读者始终被带着走。
 - **给对手台阶**：文末承认"外国可转投开源模型"——不是纯粹恐吓，而是给出理性分析，让结论更有说服力。
+## 词汇分级
 
-### 可迁移表达
 
-- "could hardly be more wrong" — 用于推翻流行观点。
-- "a means to an end" — 手段 vs 目的。
-- "come down to a decision in the Oval Office" — 一切归结于某个关键决定（可替换机构）。
-- "has echoes of" — 与历史呼应。
-- "the trade-off between A and B" — 权衡句型。
-- "not to whine about X but to build strength" — 建设性建议收尾。## 词汇分级
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
@@ -1070,3 +1065,51 @@
 | fabs | — 晶圆厂 |  |
 | peak | power demand — 峰值电力需求 |  |
 
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| could hardly be more wrong — 再错不过了 | 否定式最高级 |  |
+| The | chances are that ... — 很可能…… |  |
+| a | means to an end — 达到目的的手段 |  |
+| Sure | enough — 果然 |  |
+| What | matters, though, is ... — 不过重要的是…… |  |
+| come | down to — 归结为 |  |
+| Even | as ... — 正当……的时候 |  |
+| has | echoes of — 与……呼应 |  |
+| as | with ... — 正如…… |  |
+| in | favour of — 转而选择 |  |
+| rise | fivefold — 增长五倍 |  |
+| more | than ever — 比以往任何时候更 |  |
+| integrate | rather than duplicate — 整合而非重复 |  |
+| not | to whine but to build — 不是抱怨而是强大 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Unbiassed | / unprejudiced — 无偏见的 |  |
+| pandemic-ready | pathogens — 具备大流行潜力的病原体 |  |
+| open-weight | models — 开放权重模型 |  |
+| lithography | machines — 光刻机 |  |
+| fabs | — 晶圆厂 |  |
+| peak | power demand — 峰值电力需求 |  |
+
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Unbiassed | / unprejudiced — 无偏见的 |  |
+| pandemic-ready | pathogens — 具备大流行潜力的病原体 |  |
+| open-weight | models — 开放权重模型 |  |
+| lithography | machines — 光刻机 |  |
+| fabs | — 晶圆厂 |  |
+| peak | power demand — 峰值电力需求 |  |
+
+
+## 可迁移表达
+- "could hardly be more wrong" — 用于推翻流行观点。
+- "a means to an end" — 手段 vs 目的。
+- "come down to a decision in the Oval Office" — 一切归结于某个关键决定（可替换机构）。
+- "has echoes of" — 与历史呼应。
+- "the trade-off between A and B" — 权衡句型。
+- "not to whine about X but to build strength" — 建设性建议收尾。## 词汇分级
