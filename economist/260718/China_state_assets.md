@@ -530,42 +530,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| wring more from | 榨取更多 | 从国资挤钱（标题） |
-| ease fiscal straits | 缓解财政困境 | 找钱动机 |
-| revitalise | 振兴 | 城市改造 |
-| stunning | 惊人的 | 转变之巨 |
-| dilapidated / run-down | 破败/失修 | 改造前旧貌 |
-| lay unused | 闲置 | 资产闲置 |
-| municipal coffers | 市政金库 | 租金去向 |
-| flocked to | 涌向 | 游客 |
-| in a tailspin | 螺旋下坠 | 房地产 |
-| high-water mark | 历史峰值 | 房价顶点 |
-| blown a hole in | 炸开大洞 | 预算冲击 |
-| debt-saddled | 债台高筑 | 城市状态 |
-| raise cash | 筹钱 | 找钱 |
-| slapping fines on | 开罚单 | 荒唐自救 |
-| doling out | 分发 | 开停车票 |
-| deleverage | 去杠杆 | 正规自救 |
-| put ... to work | 让……运转 | 盘活资产 |
-| rummage / closet | 翻找 / 衣柜 | 核心隐喻 |
-| breathe life into | 注入生机 | 盘活目标 |
-| fitted the bill | 正合要求 | 契合中央 |
-| reclaimed / consolidated | 收回 / 整合 | 资产盘活 |
-| takes stakes in | 入股 | 分享增长 |
-| a break with | 决裂 | 告别扩张 |
-| expansion binge | 扩张狂潮 | 过去模式 |
-| move the needle | 产生影响 | 实效设问 |
-| shell games | 空壳游戏 | 假盘活 |
-| a reckoning with | 清算 | 模式反思 |
-| sprawl | 蔓延 | 城市扩张 |
-| chastened | 吃了教训的 | 财政教训 |
-| get more from less | 以少换多 | 点题 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| wring more from | 榨取更多 | 从国资挤钱（标题） || ease fiscal straits | 缓解财政困境 | 找钱动机 || dilapidated / run-down | 破败/失修 | 改造前旧貌 || municipal coffers | 市政金库 | 租金去向 || in a tailspin | 螺旋下坠 | 房地产 || high-water mark | 历史峰值 | 房价顶点 || blown a hole in | 炸开大洞 | 预算冲击 || slapping fines on | 开罚单 | 荒唐自救 || put ... to work | 让……运转 | 盘活资产 || rummage / closet | 翻找 / 衣柜 | 核心隐喻 || breathe life into | 注入生机 | 盘活目标 || fitted the bill | 正合要求 | 契合中央 || reclaimed / consolidated | 收回 / 整合 | 资产盘活 || takes stakes in | 入股 | 分享增长 || a break with | 决裂 | 告别扩张 || expansion binge | 扩张狂潮 | 过去模式 || move the needle | 产生影响 | 实效设问 || shell games | 空壳游戏 | 假盘活 || a reckoning with | 清算 | 模式反思 || get more from less | 以少换多 | 点题 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| revitalise | 振兴 | 城市改造 || stunning | 惊人的 | 转变之巨 || lay unused | 闲置 | 资产闲置 || flocked to | 涌向 | 游客 || debt-saddled | 债台高筑 | 城市状态 || raise cash | 筹钱 | 找钱 || doling out | 分发 | 开停车票 || deleverage | 去杠杆 | 正规自救 || sprawl | 蔓延 | 城市扩张 || chastened | 吃了教训的 | 财政教训 |### 2. 本文核心表达
 
 1. `squeeze/wring more out of` —— 榨取更多（标题 + 正文呼应）
 2. `it is the streets ... that matter more` —— 强调句转折

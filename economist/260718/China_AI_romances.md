@@ -389,37 +389,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| confidant | 知己 | AI 代理 |
-| at once A and B | 同时是 | 恋人朋友家人 |
-| customised to mimic | 定制模仿 | AI 模拟亡友 |
-| so depressed that | 沮丧到 | 辞职 |
-| strip A from B | 剥离 | 去除人形角色 |
-| human-like personas | 人形角色 | 聊天机器人 |
-| comply with | 遵守 | 新规 |
-| banned outright | 彻底禁止 | 未成年人 |
-| infatuated | 痴迷的 | 防止用户迷恋 |
-| a no-no | 禁忌 | 色情内容 |
-| turning A into B | 变成 | 通用机器人变伙伴 |
-| at one's expense | 由某人出钱 | 虚拟礼物 |
-| making a tidy sum | 大赚 | 情感变现 |
-| accounted for | 占 | 35% 收入 |
-| sticky relationships | 黏性关系 | 留存 |
-| part with money | 掏钱 | 订阅 |
-| bespoke | 定制的 | 定制应用 |
-| plummeting | 骤降 | 生育率 |
-| unsettle | 使不安 | 领导层 |
-| spur | 刺激 | 生育 |
-| provisions for | 条款 | 民事诉讼 |
-| impose penalties | 施罚 | 政府执法 |
-| on the understanding that | 基于……的理解 | 排除工具型 AI |
-| emotionally unavailable | 情感不可用 | 工具型机器人 |
-| vulnerable to | 易受伤害 | 平台依赖 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| at once A and B | 同时是 | 恋人朋友家人 || customised to mimic | 定制模仿 | AI 模拟亡友 || so depressed that | 沮丧到 | 辞职 || strip A from B | 剥离 | 去除人形角色 || human-like personas | 人形角色 | 聊天机器人 || comply with | 遵守 | 新规 || banned outright | 彻底禁止 | 未成年人 || turning A into B | 变成 | 通用机器人变伙伴 || at one's expense | 由某人出钱 | 虚拟礼物 || making a tidy sum | 大赚 | 情感变现 || accounted for | 占 | 35% 收入 || sticky relationships | 黏性关系 | 留存 || part with money | 掏钱 | 订阅 || provisions for | 条款 | 民事诉讼 || impose penalties | 施罚 | 政府执法 || on the understanding that | 基于……的理解 | 排除工具型 AI || emotionally unavailable | 情感不可用 | 工具型机器人 || vulnerable to | 易受伤害 | 平台依赖 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| confidant | 知己 | AI 代理 || infatuated | 痴迷的 | 防止用户迷恋 || a no-no | 禁忌 | 色情内容 || bespoke | 定制的 | 定制应用 || plummeting | 骤降 | 生育率 || unsettle | 使不安 | 领导层 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| spur | 刺激 | 生育 |### 2. 本文核心表达
 
 1. `he is at once "a lover, a friend and family"` —— at once A and B
 2. `so depressed that she left her job` —— so...that 程度结果

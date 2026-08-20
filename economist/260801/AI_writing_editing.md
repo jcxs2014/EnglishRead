@@ -255,40 +255,7 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bout | 一阵（病/活动） | He recovered after a bout of pneumonia. |
-| sift through | 仔细筛选 | I sifted through the emails for the contract. |
-| a drain on | 对……的消耗 | Phone notifications are a drain on attention. |
-| put a premium on | 使……被重视 | Experience puts a premium on safety. |
-| lavish A with B | 滥用、慷慨给予 | Don't lavish the report with jargon. |
-| punchy | 简短有力的 | Short, punchy sentences read faster. |
-| sycophant | 马屁精 | He surrounds himself with sycophants. |
-| smarmy | 谄媚油滑的 | I dislike his smarmy compliments. |
-| pretentious | 装腔作势的 | The title is a bit pretentious. |
-| verbose | 冗长的 | Editors trim verbose prose. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| 词 | 说明 |  |
-| reams of | 大量（纸的量词引申义） |  |
-| spew out | 喷吐（贬义，产出） |  |
-| slop | 垃圾内容（近年新词 `AI slop`） |  |
-| baggy | 松垮的（指衣服/文风） |  |
-| wordsmith | 文字工匠 |  |
-| refine | 打磨、精炼 |  |
-| pushback | 反对、抵触 |  |
-| intermediary | 中介 |  |
-| off-key | 走调→不合时宜 |  |
-| redundant | 冗余的 |  |
-| commission | 委托创作（v./n.） |  |
-| maxim | 格言 |  |
-
-## 核心表达（可直接迁移）
+## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| sift through | 仔细筛选 | I sifted through the emails for the contract. || put a premium on | 使……被重视 | Experience puts a premium on safety. || lavish A with B | 滥用、慷慨给予 | Don't lavish the report with jargon. || pretentious | 装腔作势的 | The title is a bit pretentious. || intermediary | 中介 |  |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| a drain on | 对……的消耗 | Phone notifications are a drain on attention. || punchy | 简短有力的 | Short, punchy sentences read faster. || sycophant | 马屁精 | He surrounds himself with sycophants. || smarmy | 谄媚油滑的 | I dislike his smarmy compliments. || verbose | 冗长的 | Editors trim verbose prose. || reams of | 大量（纸的量词引申义） |  || spew out | 喷吐（贬义，产出） |  || wordsmith | 文字工匠 |  || refine | 打磨、精炼 |  || pushback | 反对、抵触 |  || off-key | 走调→不合时宜 |  || redundant | 冗余的 |  || commission | 委托创作（v./n.） |  |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| bout | 一阵（病/活动） | He recovered after a bout of pneumonia. || 词 | 说明 |  || slop | 垃圾内容（近年新词 `AI slop`） |  || baggy | 松垮的（指衣服/文风） |  || maxim | 格言 |  |## 核心表达（可直接迁移）
 
 1. **`come to the rescue`** — 前来救场/解决难题。写作/口语通用。
 2. **`a blessing and a curse`** — 利弊参半。

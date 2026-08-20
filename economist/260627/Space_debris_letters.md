@@ -498,32 +498,7 @@ Xenia Manning Spotify 全球音乐政策主管 华盛顿
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| tragedy of the commons | 公地悲剧 |  |
-| Kessler event | 凯斯勒事件 |  |
-| outer pushing forces | 向外推力 |  |
-| catenary | 悬链线 |  |
-| lactation | 哺乳 |  |
-| awash with | 充斥着 |  |
-| took a dig at | 批评 |  |
-| a cocooned life | 茧房般的生活 |  |
-| fossilised notions | 固化的观念 |  |
-| turbocharged | 加速（涡轮增压器比喻） |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| space debris | 太空碎片 |  |
-| insurance bonds | 保险债券 |  |
-| surety bond | 保证金 |  |
-| royalty | 版税 |  |
-| streaming | 流媒体 |  |
-
-## 长难句专项
+## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| tragedy of the commons | 公地悲剧 |  || Kessler event | 凯斯勒事件 |  || outer pushing forces | 向外推力 |  || took a dig at | 批评 |  || a cocooned life | 茧房般的生活 |  || fossilised notions | 固化的观念 |  || turbocharged | 加速（涡轮增压器比喻） |  || space debris | 太空碎片 |  || insurance bonds | 保险债券 |  || surety bond | 保证金 |  |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| catenary | 悬链线 |  || lactation | 哺乳 |  || awash with | 充斥着 |  || royalty | 版税 |  || streaming | 流媒体 |  |## 长难句专项
 
 ### 最长难句
 > Launch operators would post a surety bond calibrated to the expected debris risk of their mission, modelled on surety bonds that have long been used to ensure the decommissioning of oil rigs and mines.
@@ -534,7 +509,7 @@ Xenia Manning Spotify 全球音乐政策主管 华盛顿
 
 ---
 
-## 精读总结
+### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| space debris | 太空碎片 |  || streaming | 流媒体 |  |## 精读总结
 
 **核心论点**：
 - 太空碎片是市场失灵，需要用保险债券机制将清理成本内化到发射商

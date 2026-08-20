@@ -398,31 +398,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| plagued by | 深受……之苦 | 中国被 manosphere 困扰 |
-| vitriol | 恶毒谩骂 | 当局容忍的网络谩骂 |
-| crackdown on | 打击 | 对"极端女权"的整治 |
-| singledom | 单身状态 | 被列为有害内容 |
-| consolidated power | 集权 | 习集权与边缘化女性同步 |
-| sidelined | 被边缘化 | 女性被边缘化 |
-| browbeating | 训斥压制 | 党的方案是训斥女性 |
-| conjure up | 凭空变出 | 变不出缺失的女性 |
-| alleviate | 缓解 | 缓解局面 |
-| woefully inadequate | 严重不足 | 法律执行不力 |
-| enforcement | 执法 | 法律执行 |
-| hasten the end of | 加速终结 | 离婚公平终结彩礼 |
-| extortionate | 漫天要价 | 被禁的彩礼 |
-| set great store by | 十分看重 | 父母看重彩礼 |
-| lower the hurdles | 降低门槛 | 住房就业门槛 |
-| stand in the way of | 阻碍 | 挡在婚姻路上 |
-| vast tracts of | 大片 | 未售住房 |
-| foreign impositions | 外来强加 | 传统主义者眼中 |
-| chiding | 训斥 | 停止训斥女性 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| vitriol | 恶毒谩骂 | 当局容忍的网络谩骂 || browbeating | 训斥压制 | 党的方案是训斥女性 || conjure up | 凭空变出 | 变不出缺失的女性 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| plagued by | 深受……之苦 | 中国被 manosphere 困扰 || crackdown on | 打击 | 对"极端女权"的整治 || singledom | 单身状态 | 被列为有害内容 || consolidated power | 集权 | 习集权与边缘化女性同步 || sidelined | 被边缘化 | 女性被边缘化 || alleviate | 缓解 | 缓解局面 || woefully inadequate | 严重不足 | 法律执行不力 || enforcement | 执法 | 法律执行 || hasten the end of | 加速终结 | 离婚公平终结彩礼 || extortionate | 漫天要价 | 被禁的彩礼 || set great store by | 十分看重 | 父母看重彩礼 || lower the hurdles | 降低门槛 | 住房就业门槛 || stand in the way of | 阻碍 | 挡在婚姻路上 || vast tracts of | 大片 | 未售住房 || foreign impositions | 外来强加 | 传统主义者眼中 || chiding | 训斥 | 停止训斥女性 |### 2. 本文核心表达
 
 1. `plagued by one nonetheless` —— "没有译名却深受其害"的矛盾
 2. `every bit as poisonous as` —— 同级比较

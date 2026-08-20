@@ -349,24 +349,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| red tape | 繁文缛节 | 管制夜生活的官僚障碍 |
-| patchwork | 拼凑之物 | 禁酒令后的零散酒法 |
-| throttle | 扼杀 | 好理由不是扼杀夜生活的理由 |
-| takes on a life of its own | 自成一体 | 官僚自我繁殖 |
-| smothering competition | 扼杀竞争 | 牌照上限的后果 |
-| languish | 被搁置 | 申请积压 |
-| rack up costs | 累积成本 | 老板等待审批的代价 |
-| descend on | 蜂拥而至 | 苏格兰球迷涌入 |
-| the wee hours | 凌晨 | 球迷展示的深夜美好 |
-| doomscrolling | 末日刷屏 | 夜生活的反面 |
-| makes for | 有助于 | 深夜经济成就社会政策 |
-| pride oneself on | 以……为傲 | 美国自诩自由 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| red tape | 繁文缛节 | 管制夜生活的官僚障碍 || patchwork | 拼凑之物 | 禁酒令后的零散酒法 || throttle | 扼杀 | 好理由不是扼杀夜生活的理由 || takes on a life of its own | 自成一体 | 官僚自我繁殖 || smothering competition | 扼杀竞争 | 牌照上限的后果 || languish | 被搁置 | 申请积压 || rack up costs | 累积成本 | 老板等待审批的代价 || descend on | 蜂拥而至 | 苏格兰球迷涌入 || the wee hours | 凌晨 | 球迷展示的深夜美好 || doomscrolling | 末日刷屏 | 夜生活的反面 || makes for | 有助于 | 深夜经济成就社会政策 || pride oneself on | 以……为傲 | 美国自诩自由 |### 2. 本文核心表达
 
 1. `It should learn to lighten up` —— 立场句（轻松+坚定）
 2. `are often to blame` —— 归因表达

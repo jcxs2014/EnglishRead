@@ -405,32 +405,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| blind alley | 死胡同 | 特朗普无出路的困境 |
-| bereft of options | 山穷水尽 | 标题：无好选项 |
-| forswearing | 发誓放弃 | 伊朗弃核 |
-| held out the prospect of | 提出前景 | 美国的金钱诱惑 |
-| hawks / hardliners | 鹰派/强硬派 | 美伊对峙双方 |
-| be it ... or ... | 无论……还是 | 四种坏可能 |
-| yield | 让步 | 美国不能让步 |
-| stopped short of | 差一点 | 未滑向全面战争 |
-| creeping back up | 悄悄回升 | 油价回升 |
-| in short supply | 匮乏 | 信任稀缺 |
-| put relations on a steady footing | 稳固关系 | 机会窗口 |
-| under the thumb of | 受制于 | 新领袖受控 |
-| levying tolls | 征税 | 特朗普的荒谬点子 |
-| wiser heads | 头脑清醒者 | 拦下乱点子 |
-| topple the regime | 推翻政权 | 二月战争目标 |
-| a sitting target | 活靶子 | 夺岛的美军 |
-| Acquiescing to | 默许 | 让步之恶 |
-| set a dire precedent | 可怕先例 | 让步的全球后果 |
-| imposes a sustained blockade | 持续封锁 | 最终建议 |
-| stick it out | 硬撑到底 | 结论 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| blind alley | 死胡同 | 特朗普无出路的困境 || bereft of options | 山穷水尽 | 标题：无好选项 || held out the prospect of | 提出前景 | 美国的金钱诱惑 || hawks / hardliners | 鹰派/强硬派 | 美伊对峙双方 || be it ... or ... | 无论……还是 | 四种坏可能 || stopped short of | 差一点 | 未滑向全面战争 || creeping back up | 悄悄回升 | 油价回升 || in short supply | 匮乏 | 信任稀缺 || put relations on a steady footing | 稳固关系 | 机会窗口 || under the thumb of | 受制于 | 新领袖受控 || levying tolls | 征税 | 特朗普的荒谬点子 || wiser heads | 头脑清醒者 | 拦下乱点子 || topple the regime | 推翻政权 | 二月战争目标 || a sitting target | 活靶子 | 夺岛的美军 || Acquiescing to | 默许 | 让步之恶 || set a dire precedent | 可怕先例 | 让步的全球后果 || imposes a sustained blockade | 持续封锁 | 最终建议 || stick it out | 硬撑到底 | 结论 |**⭐⭐ 进阶**| 词/短语 | 释义 | 本文语境 ||---|---|---|| forswearing | 发誓放弃 | 伊朗弃核 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| yield | 让步 | 美国不能让步 |### 2. 本文核心表达
 
 1. `could hardly have offered better terms` —— 含蓄最高级
 2. `In return for A and B` —— 交换条件

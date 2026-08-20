@@ -685,64 +685,7 @@
 
 ---
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| frontier models | 前沿模型（AI 治理核心术语） | 5 |
-| access to | 访问权限/获取渠道 | 6, 11, 16 |
-| leverage` / `negotiating leverage | 筹码/谈判优势 | 12, 34, 42 |
-| cut off | 切断（供应） | 15, 25, 26 |
-| credible | 可信的（威慑/能力） | 20, 26 |
-| surpass | 超越 | 7 |
-| unilaterally | 单方面地 | 9 |
-| be modelled on | 以……为蓝本 | 4 |
-| pitch | 推销（想法） | 3 |
-| progress is being made towards | 在……方面取得进展 | 1 |
-| exert control over | 施加控制 | 14 |
-| have no qualms about | 对……毫无顾忌 | 12 |
-| be desperate for | 极度渴求 | 32 |
-| in return for | 以换取 | 33 |
-| lobby against | 游说反对 | 35 |
-| justify | 证明……合理 | 35 |
-| compute | 算力 | 25 |
-| open-weight models | 开放权重模型 | 26 |
-| choke points | 咽喉要道 | 36 |
-| sovereign | 主权的/自主的 | 39 |
-| transactionally | 交易式地 | 40 |
-| be set to | 即将 | 2 |
-| make it easier to | 使……更容易 | 26 |
-| deal with | 打交道 | 40 |
-| far behind | 远远落后 | 27 |
-| the grid | 电网 | 30 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| hybrid public-private | 公私混合的 | 3 |
-| echoing our own thoughts | 与本报观点一致 | 3 |
-| offerings | 产品 | 6 |
-| state-backed | 政府支持的 | 18 |
-| well over | 远超 | 19 |
-| feeble record | 表现记录差 | 21 |
-| risky bets | 高风险押注 | 21 |
-| endeavour | 事业 | 21 |
-| diffusion | 扩散（技术传播） | 34 |
-| buildout | 大规模建设 | 27 |
-| fast-track | 快速通道 | 31 |
-| bypass | 绕过 | 31 |
-| procedural snafus | 程序性纰漏 | 29 |
-| lock up capital | 锁死资本 | 29 |
-| enticing | 诱人的 | 33 |
-| specialism | 专长 | 38 |
-| rare earths | 稀土 | 13 |
-| protectionism | 保护主义 | 35 |
-| doomed | 注定失败的 | 18 |
-| rival to | ……的对手 | 22 |
-| take to (doing) | 开始习惯于 | 6 |
-
-## 核心表达（可迁移）
+## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| frontier models | 前沿模型（AI 治理核心术语） | 5 || leverage` / `negotiating leverage | 筹码/谈判优势 | 12, 34, 42 || credible | 可信的（威慑/能力） | 20, 26 || surpass | 超越 | 7 || unilaterally | 单方面地 | 9 || be modelled on | 以……为蓝本 | 4 || progress is being made towards | 在……方面取得进展 | 1 || exert control over | 施加控制 | 14 || have no qualms about | 对……毫无顾忌 | 12 || be desperate for | 极度渴求 | 32 || open-weight models | 开放权重模型 | 26 || choke points | 咽喉要道 | 36 || sovereign | 主权的/自主的 | 39 || transactionally | 交易式地 | 40 || hybrid public-private | 公私混合的 | 3 || echoing our own thoughts | 与本报观点一致 | 3 || offerings | 产品 | 6 || state-backed | 政府支持的 | 18 || well over | 远超 | 19 || feeble record | 表现记录差 | 21 || risky bets | 高风险押注 | 21 || endeavour | 事业 | 21 || diffusion | 扩散（技术传播） | 34 || buildout | 大规模建设 | 27 || fast-track | 快速通道 | 31 || bypass | 绕过 | 31 || procedural snafus | 程序性纰漏 | 29 || lock up capital | 锁死资本 | 29 || enticing | 诱人的 | 33 || specialism | 专长 | 38 || rare earths | 稀土 | 13 || protectionism | 保护主义 | 35 || doomed | 注定失败的 | 18 || rival to | ……的对手 | 22 || take to (doing) | 开始习惯于 | 6 |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| access to | 访问权限/获取渠道 | 6, 11, 16 || cut off | 切断（供应） | 15, 25, 26 || pitch | 推销（想法） | 3 || in return for | 以换取 | 33 || lobby against | 游说反对 | 35 || justify | 证明……合理 | 35 || compute | 算力 | 25 || be set to | 即将 | 2 || make it easier to | 使……更容易 | 26 || deal with | 打交道 | 40 || far behind | 远远落后 | 27 || the grid | 电网 | 30 |## 核心表达（可迁移）
 
 1. **`Progress is being made towards (doing) X`** — 报告进展的正式开场。*Progress is being made towards electrifying the bus fleet.*
 2. **`X is only one part of the problem`** — 引出更深层问题。*Cost is only one part of the problem; the real issue is trust.*

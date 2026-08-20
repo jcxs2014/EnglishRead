@@ -469,30 +469,7 @@
 
 ## 精读结束总结
 
-### 1. 本文核心词汇（⭐⭐⭐ 优先）
-
-| 词/短语 | 核心义 | 本文语境 |
-| --- | --- | --- |
-| albedo | 反照率 | 地球反射阳光的比例，本文核心概念 |
-| feed on itself | 自我强化 | 变暖→反照率降→更暖 |
-| policy dilemma | 政策困境 | 硫治理的两难 |
-| geoengineering | 地球工程 | 人工干预气候 |
-| benign / malignant | 良性 / 恶性 | 良性气溶胶 |
-| at scale | 规模化 | 大规模实施 |
-| elusive | 难以企及 | 大规模增亮技术 |
-| trajectory | 轨迹 | 全球升温走向 |
-| endorse | 认可 | 几乎无人认可地球工程 |
-| in concert | 协同 | 各国协调行动 |
-| phase out | 逐步淘汰 | 淘汰氟化气体 |
-| the late | 已故的 | Crutzen |
-| wreak havoc with | 造成严重破坏 | 颗粒危害健康 |
-| The more..., the sooner... | 越…就越… | 变暖越快，极端越早 |
-| look set to | 势将 | 两趋势继续 |
-| at large | 整体 | 世界整体 |
-| discernible | 可察觉的 | 可察觉的影响 |
-| eats into | 蚕食 | 转型蚕食化石燃料 |
-
-### 2. 本文核心表达
+### 1. 本文核心词汇（⭐⭐⭐ 优先）**⭐⭐⭐ 高级**| 词/短语 | 释义 | 本文语境 ||---|---|---|| albedo | 反照率 | 地球反射阳光的比例，本文核心概念 || geoengineering | 地球工程 | 人工干预气候 || benign / malignant | 良性 / 恶性 | 良性气溶胶 || elusive | 难以企及 | 大规模增亮技术 || The more..., the sooner... | 越…就越… | 变暖越快，极端越早 |**⭐ 基础**| 词/短语 | 释义 | 本文语境 ||---|---|---|| feed on itself | 自我强化 | 变暖→反照率降→更暖 || policy dilemma | 政策困境 | 硫治理的两难 || at scale | 规模化 | 大规模实施 || trajectory | 轨迹 | 全球升温走向 || endorse | 认可 | 几乎无人认可地球工程 || in concert | 协同 | 各国协调行动 || phase out | 逐步淘汰 | 淘汰氟化气体 || the late | 已故的 | Crutzen || wreak havoc with | 造成严重破坏 | 颗粒危害健康 || look set to | 势将 | 两趋势继续 || at large | 整体 | 世界整体 || discernible | 可察觉的 | 可察觉的影响 || eats into | 蚕食 | 转型蚕食化石燃料 |### 2. 本文核心表达
 
 1. `Cole Porter had it right. It is too darn hot.` —— 引语开场 + 幽默定调
 2. `The same was true for A, and for B` —— 重复现象的书面表达
