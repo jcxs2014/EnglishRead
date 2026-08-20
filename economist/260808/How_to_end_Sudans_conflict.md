@@ -504,23 +504,18 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ruined | adj. 被毁坏的 |  |
-| deserted | adj. 荒废的、无人的 |  |
-| silent | adj. 寂静的 |  |
-| erupt | v. （战争、冲突）爆发 |  |
-| bustling | adj. 熙熙攘攘的 |  |
-| famine | n. 饥荒 |  |
-| indifference | n. 漠不关心 |  |
-| neglect | v. 忽视 |  |
-| deny | v. 否认 |  |
-| empire | n. 帝国 |  |
-| ambition | n. 野心 |  |
-| hence | adv. 因此 |  |
-| priority | n. 优先事项 |  |
-| chaos | n. 混乱 |  |
-| capture | v. 攻占 |  |
-| urge | v. 敦促 |  |
-| delay | v. 拖延 |  |
+| albeit | conj. 尽管（书面让步） |  |
+| zero-sum | adj. 零和的（博弈论术语） |  |
+| deep-pocketed | adj. 财力雄厚的 |  |
+| overstretched | adj. 分身乏术的 |  |
+| war economy 战争经济 | 政治学概念 |  |
+| last best chance 最后最好的机会 | 政治修辞 |  |
+| the | Strait of Hormuz 霍尔木兹海峡 |  |
+| Bab | al-Mandab 曼德海峡 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | devastation | n. 破坏、蹂躏 |  |
 | husk | n. 外壳、空壳 |  |
 | charred | adj. 烧焦的 |  |
@@ -528,10 +523,6 @@
 | swathe | n. 大片（土地） |  |
 | genocidal | adj. 种族灭绝的 |  |
 | comparable | adj. 可比较的 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | geopolitically | adv. 从地缘政治角度看 |  |
 | reignite | v. 重新点燃 |  |
 | callous | adj. 冷酷无情的 |  |
@@ -556,10 +547,6 @@
 | foe | n. 敌人 |  |
 | supposedly | adv. 据称 |  |
 | underline | v. 凸显 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | revive | v. 重新唤起 |  |
 | breakthrough | n. 突破 |  |
 | telling | adj. 能说明问题的 |  |
@@ -576,14 +563,27 @@
 | professed | adj. 公开宣称的 |  |
 | trajectory | n. 轨迹 |  |
 | instability | n. 动荡 |  |
-| albeit | conj. 尽管（书面让步） |  |
-| zero-sum | adj. 零和的（博弈论术语） |  |
-| deep-pocketed | adj. 财力雄厚的 |  |
-| overstretched | adj. 分身乏术的 |  |
-| war economy 战争经济 | 政治学概念 |  |
-| last best chance 最后最好的机会 | 政治修辞 |  |
-| the | Strait of Hormuz 霍尔木兹海峡 |  |
-| Bab | al-Mandab 曼德海峡 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| ruined | adj. 被毁坏的 |  |
+| deserted | adj. 荒废的、无人的 |  |
+| silent | adj. 寂静的 |  |
+| erupt | v. （战争、冲突）爆发 |  |
+| bustling | adj. 熙熙攘攘的 |  |
+| famine | n. 饥荒 |  |
+| indifference | n. 漠不关心 |  |
+| neglect | v. 忽视 |  |
+| deny | v. 否认 |  |
+| empire | n. 帝国 |  |
+| ambition | n. 野心 |  |
+| hence | adv. 因此 |  |
+| priority | n. 优先事项 |  |
+| chaos | n. 混乱 |  |
+| capture | v. 攻占 |  |
+| urge | v. 敦促 |  |
+| delay | v. 拖延 |  |
 
 ## 五、长难句专项
 

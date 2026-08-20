@@ -580,7 +580,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 词汇 / 表达 | 释义 | 例句 |
 | quintessential | 精髓的、典型的 | The quintessential gatekeeping ritual. |
 | gatekeeping ritual | 守门仪式 | China's gaokao. |
 | held their breath | 屏住呼吸 | Held their breath as results came out. |

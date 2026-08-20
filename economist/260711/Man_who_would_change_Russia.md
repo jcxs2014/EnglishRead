@@ -1102,3 +1102,94 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+futile、paying the price、break the deadlock、insider、high-minded、lived by、tycoons、afford to ignore、descend into、tyranny、guardedly、speak out、resonate、bleak、autarky、amount to、one-man rule、belie、dead end、reassert authority、exacerbate、discount、scenarios、warlords、under the thumb of、war of attrition、impoverished、incubating、starved of、the bowels of、enigmatic、self-serving、resist the temptation、elusive、resorting to、coercion、relinquish、devolve power、securocrats、top dogs、banished、in a bind、grinding on、precedent、doomed ... to、uprising、toppled
+
+### 2. 本文核心表达
+
+1. `When enough Russians feel ... will be forced to` — 临界点规律
+2. `it pays to watch` — 值得关注
+3. `Far from criticising ... , he is an insider` — 反转设定
+4. `Nor is he being high-minded` — 排除道德动机
+5. `make money, but keep your nose out of politics` — 潜规则
+6. `can no longer afford to ignore the rot` — 腐坏不可无视
+7. `not because ... or because ... Instead, ...` — 先排除再立论
+8. `wars gone wrong have led to campaigns by industrialists` — 历史规律
+9. `go far beyond the war` — 超出战争
+10. `would amount to an end to one-man rule` — 实质等于
+11. `the war has come home to Russia` — 战争回家
+12. `belies Mr Putin's repeated promises` — 现实揭穿承诺
+13. `not about to collapse ... not about to rise up` — 审慎否定
+14. `reached a dead end` — 死胡同
+15. `At his darkest, ... fears the use of a tactical nuclear weapon` — 最坏恐惧
+16. `Left unsaid is that ... leading to the next round` — 恶性循环
+17. `collapse into anarchy / under the thumb of / turn inward` — 三种前景
+18. `starved of growth and capital` — 缺乏增长与资本
+19. `calls on them to grant Russia "sovereignty"` — 主权话术
+20. `But he does not talk about democracy` — 回避民主
+21. `reforms that last` — 持久的改革
+
+### 3. 重要语法
+
+- **WHEN 条件 + 双宾语从句**：`feel the fighting is futile and that they are paying the price`
+- **完成分词表时间先后**：`Having run his companies outside Russia, he returned ...`
+- **Nor + 倒装**：`Nor is he being high-minded.`
+- **not because ... or because ... Instead**：排除-立论结构
+- **It is the first time + 完成时**：`It is the first time an oligarch has spoken out`
+- **What 主语从句 + that 表语从句**：`What makes ... striking is that ...`
+- **分号对比句**：`The annexation boosted popularity; today ... is being isolated`
+- **be about to**：`not about to collapse`
+- **完全倒装**：`Left unsaid is that ...`
+- **非限制性定语从句（all of which / which could use it）**：多处长句
+- **插入语保持转述距离**：`he says` / `they said` / `he predicts`
+- **过去完成时表先时**：`had crushed the reforms`
+
+### 4. 长难句
+
+- 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
+- 原句 10（because 原因链 + 多层定语从句）
+- 原句 19（What 主语从句 + that 表语从句）
+- 原句 25（Although 让步 + 双 not about to + 主句）
+- 原句 30（倒装 + that 表语从句 + if 条件嵌套）
+- 原句 45（call on + 破折号同位语 + 定语从句）
+- 原句 58-60（历史三段式）
+
+### 5. 写作技巧
+
+1. **"最不可能的声音"叙事结构**：全篇反复强调梅尔尼琴科"不是反对派、反而支持战争经济、也不是道德标榜"——三重排除把"内部人发声"的分量推到极致，这是典型的"身份反转"叙事
+2. **先揭私心再转述**：`Self-servingly, he urges Western countries to ...` —— 作者先点破他的利己动机再引其话，这种"先揭短"让整篇转述更可信、更中立
+3. **历史映射法**：1905 年日俄战争 → 实业家迫使沙皇接受《十月宣言》→ 改革被镇压 → 沙皇被推翻——用历史先例给"改革可能/必须持久"提供论据，同时暗示"镇压改革没有好下场"
+4. **"没说出口的"揭示**：`Left unsaid is that ...`（恶性循环）、`Implicitly, he wants ...`（等于终结一人统治）、`But he does not talk about democracy`（回避民主）——作者反复替说话人"补齐弦外之音"，这是社论分析最有穿透力的手法
+5. **三种前景的枚举结构**：崩溃/附庸/闭关（collapse into anarchy / under the thumb / turn inward）——用"情景推演"（scenarios）框架把抽象危机具象化
+6. **审慎的平衡措辞**：`may well`、`not about to collapse`、`though Western analysts still discount that`、`Perhaps, though`——通篇用限定词管理确定性，不制造恐慌也不轻视危机
+7. **短句重音**：`Impossible, says ASML.` 式的手法在本篇体现为 `Reform has a precedent.` / `But he does not talk about democracy.` / `But he is in a bind.` ——在长段落后用 4-6 词短句制造冲击
+8. **"正常"的反讽**：`If Russia becomes a more normal country` ——"正常国家"在俄罗斯语境里的奢侈性，暗含对现状的批判
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `it pays to do` | 建议/分析 | It pays to invest early. |
+| `break the deadlock` | 谈判/政策 | Diplomacy broke the deadlock. |
+| `can no longer afford to ignore` | 紧迫性论证 | We can no longer afford to ignore the signs. |
+| `far from doing, ...` | 反转论证 | Far from helping, it made things worse. |
+| `the rot in` | 批评制度腐坏 | The rot in the system is deep. |
+| `descend into` | 描述恶化 | The debate descended into chaos. |
+| `speak out against` | 表达勇气 | Employees spoke out against the policy. |
+| `resonate with` | 影响分析 | The message resonated with voters. |
+| `a bleak outlook for` | 前景分析 | A bleak outlook for the industry. |
+| `would amount to` | 实质判断 | That would amount to a veto. |
+| `come home to` | 后果波及 | The crisis has come home to consumers. |
+| `belie` | 揭示矛盾 | The data belies the optimism. |
+| `reach a dead end` | 描述僵局 | Negotiations reached a dead end. |
+| `at its darkest` | 最坏情形 | At its darkest, the plan seemed doomed. |
+| `set out a thesis` | 学术/分析 | She sets out her thesis in chapter two. |
+| `a war of attrition` | 长期竞争 | The market war became one of attrition. |
+| `starved of` | 资源匮乏 | The unit is starved of funding. |
+| `resist the temptation to` | 自我克制建议 | Resist the temptation to overreact. |
+| `resort to` | 迫不得已手段 | Never resort to threats. |
+| `relinquish control` | 权力交接 | He refused to relinquish control. |
+| `in a bind` | 困境描述 | The company is in a bind. |
+| `reforms that last` | 变革建议 | We need reforms that last. |

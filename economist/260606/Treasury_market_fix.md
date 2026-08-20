@@ -942,3 +942,88 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+the night shift、a Treasury-bond dealer、fallen quiet、the pre-dawn calm、puts in an order、faces a choice、pass up the trade、a liquid market、an easy call、in the dead of the night、anything but、is decaying、thinner、the cost of borrowing、at moments of stress、reached record levels、the plumbing of global finance、collateral、underpins、the benchmark for、enormous、outstanding、change hands、earn their living、facilitating、reluctant to、balance-sheets、provide liquidity、hedge funds、a shortage of、in short supply、thanks to、in effect、tied up、clearing systems、to put that in context、of which、floating-rate bonds、a levered bet、widens、the basis trade、relies on、the repo market、repo rates、spiked above、the federal funds rate、the obvious remedy、expanding netting for repos、offset their positions、the bigger prize、a central counterparty、repo dealers、argue that、worry that、take on too much risk、the ancestor of all markets、something must be done
+
+### 2. 本文核心表达
+
+1. `In a control room in London, the night shift ... is entering its fourth hour` — 伦敦控制室夜班进入第四个小时（小说式开场）
+2. `In 2026, in the dead of the night, it is anything but` — 2026 年的深夜里，这绝非易事（省略句转折）
+3. `The world's most important bond market is decaying` — 全球最重要的债券市场正在退化
+4. `Treasury bonds are the plumbing of global finance` — 国债是全球金融的管道系统
+5. `the collateral that underpins almost every trade and the benchmark for trillions of dollars of borrowing` — 支撑每笔交易的抵押品 + 数万亿借贷的基准
+6. `Banks are reluctant to use their balance-sheets to provide liquidity, and hedge funds have moved in instead` — 银行不愿用资产负债表，对冲基金取而代之
+7. `the collateral that the market needs to function is now tied up in the clearing systems that were designed to make it safer` — 市场需要的抵押品被锁在"为安全而设计"的清算系统里
+8. `The floating-rate market alone is bigger than every other bond market in the world` — 仅浮息市场就大于全世界所有其他债券市场
+9. `Into this picture steps a class of investors that used to be marginal: hedge funds` — 曾边缘的投资者登场：对冲基金（倒装）
+10. `This is a levered bet, which becomes dangerous when the gap between the two rates widens` — 这是杠杆赌注，利差扩大时危险
+11. `In 2026, with cash scarce, repo rates have spiked above the federal funds rate` — 2026 年现金稀缺，回购利率飙升至联邦基金利率之上
+12. `The obvious remedy is to let more collateral into the market` — 显而易见的解药是让更多抵押品进场
+13. `The bigger prize would be a central counterparty, or CCP` — 更大的目标是中央对手方
+14. `The argument is not about whether to have a CCP, but about how it would work` — 争论不是要不要，而是怎么运作
+15. `The market does not need surprises; it needs a solution` — 市场不需要惊喜，需要方案
+16. `The Treasury market is the ancestor of all markets` — 国债市场是所有市场的祖先
+17. `If it is decaying, something must be done` — 如果它在退化，必须做点什么
+
+### 3. 重要语法
+
+- **故事性开场**：`In a control room in London, the night shift ... is entering its fourth hour`
+- **虚拟语气**：`In a liquid market, this would be an easy call`
+- **省略句**：`it is anything but`
+- **三连排比 + 进行时**：`Trading is becoming thinner, the cost ... is rising, and liquidity is concentrating`
+- **双 that 定语从句**：`the collateral that ... the clearing systems that ...`
+- **完全倒装**：`Into this picture steps a class of investors`
+- **between...and... 夹从句**：`between the interest they pay ... and the interest they earn`
+- **with 复合结构**：`with cash scarce`
+- **分词举例 + which 解释**：`including expanding netting for repos, which allows ...`
+- **not...but 对比**：`not about whether ... but about how`
+- **分号并列对比**：`does not need surprises; it needs a solution`
+- **条件句 + 被动呼吁**：`If it is decaying, something must be done`
+
+### 4. 长难句
+
+- 原句 9：三连排比 + 进行时
+- 原句 21：双 that 定语从句 = 双视角对照
+- 原句 26：完全倒装句
+- 原句 28：between...and... 夹定语从句
+- 原句 34：with 复合结构 + 同位语
+- 原句 36：分词举例 + which 解释
+- 原句 44：条件句 + 被动呼吁
+
+### 5. 写作技巧
+
+1. **小说式开场**：`In a control room in London, the night shift ... is entering its fourth hour`——从"伦敦控制室夜班第四个小时"的微观场景切入，把宏大金融问题落到一名疲惫交易员身上，先见"人"再见"市场"
+2. **虚拟语气对照**：`In a liquid market, this would be an easy call` / `In 2026 ... it is anything but`——用"理想世界"（虚拟语气）反衬"现实"（2026 深夜里），一句话完成对比
+3. **症状清单式诊断**：`Trading is becoming thinner, the cost ... is rising, and liquidity is concentrating`——三连排比给"退化"定性，像医生开诊断单
+4. **基础设施隐喻**：`Treasury bonds are the plumbing of global finance`——用"管道"（plumbing）让外行理解国债的系统性地位：看不见却撑起一切
+5. **悖论句式**：`the collateral ... tied up in the clearing systems that were designed to make it safer`——"安全的设计锁死流动性"的悖论，一句话点出全文最深刻的洞察
+6. **倒装戏剧化**：`Into this picture steps a class of investors that used to be marginal: hedge funds`——倒装 + 同位语制造"主角登场"的戏剧感
+7. **数据分层**：`Some $40trn ... every day $800bn ... of which $7trn`——存量/日交易/子市场三层数据递进，把"庞大"讲得具体
+8. **术语通俗化**：`In a repo, a trader sells a bond and agrees to buy it back later at a slightly higher price`——用"卖+买回"两句大白话解释回购，术语先定义再使用
+9. **爆点式对比**：`repo rates have spiked above the federal funds rate`——"私人利率升破官方基准"就是市场失灵的直接证据，一句话点爆
+10. **金句首尾呼应**：`is decaying`（第 2 段诊断）→ `If it is decaying, something must be done`（末段呼吁）——用同一动词的再现完成"诊断-处方"闭环，金句收尾
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `fall quiet / fallen quiet` | 市场沉寂 | The market has fallen quiet. |
+| `in the dead of the night` | 深夜时分 | In the dead of night. |
+| `anything but` | 绝不是 | It is anything but easy. |
+| `is decaying` | 系统退化 | The infrastructure is decaying. |
+| `the plumbing of X` | 基础设施隐喻 | The plumbing of the financial system. |
+| `underpin` | 支撑 | Underpin the system. |
+| `change hands` | 转手交易 | Bonds change hands daily. |
+| `move in instead` | 取而代之 | Hedge funds moved in. |
+| `in short supply` | 供不应求 | Cash is in short supply. |
+| `in effect` | 实际上 | In effect, it's the same. |
+| `tied up` | 被锁住占用 | Capital tied up. |
+| `to put that in context` | 为说明这一点 | Put the numbers in context. |
+| `of which` | 其中 | Of which $7trn. |
+| `spiked above` | 飙升至之上 | Rates spiked. |
+| `the bigger prize` | 更大的目标 | The prize is a CCP. |
+| `not about ... but about` | 不是……而是…… | Not about whether, but about how. |
+| `the ancestor of X` | ……的鼻祖 | The ancestor of all markets. |
+| `something must be done` | 必须行动 | Something must be done. |

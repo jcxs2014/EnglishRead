@@ -507,3 +507,84 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+long-running series、the resource supercycle、wrong about that、the logic behind、absurd、running out of、cheap oil、insatiable、emerging markets、the shale revolution、unlocked、vast new supplies、meanwhile、more slowly than expected、more efficient、what went wrong、the honest answer、extrapolated from the past、took the recent trend、complex systems、run in straight lines、the deeper lesson、prediction itself、most confident、least needed、at the extremes、turning points、confidence is highest、just before the path bends、none of this means、easy to predict、what is certain、remain central to、geopolitics、for decades、burning it freely、are numbered、the right attitude、humility、state our confidence、only when the evidence demands it、to put it、right not loud
+
+### 2. 本文核心表达
+
+1. `WE WERE wrong` — 我们错了（三个词的开场）
+2. `Our long-running series ... predicted that oil prices would keep rising` — 长期系列预测油价续涨
+3. `We were wrong about that, too` — 关于那点，我们也错了
+4. `The logic behind the supercycle was not absurd` — 超级周期逻辑并非荒谬
+5. `The world seemed to be running out of cheap oil` — 世界似乎正在耗尽廉价石油
+6. `Demand from China and other emerging markets seemed insatiable` — 需求似乎永不满足
+7. `Reality disagreed` — 现实不买账（拟人）
+8. `The shale revolution unlocked vast new supplies` — 页岩革命解锁巨大新供给
+9. `we extrapolated from the past` — 我们从过去线性外推
+10. `trends in complex systems rarely run in straight lines` — 复杂系统趋势很少走直线
+11. `Forecasts are most confident when they are least needed` — 预测在最不需要时最自信（悖论）
+12. `confidence is highest just before the path bends` — 信心最高时恰在拐弯前
+13. `What is certain is that oil will remain central ... for decades` — 确定的是石油仍核心
+14. `the days of burning it freely are numbered` — 自由燃烧的日子屈指可数
+15. `The right attitude ... is humility` — 正确的态度是谦逊
+16. `we will try to be right, not loud` — 努力正确而非响亮（金句）
+
+### 3. 重要语法
+
+- **What 主语从句**：`What is certain is that...`
+- **that 表语从句**：`The honest answer is that we extrapolated`
+- **省略 that 宾语从句**：`assumed (that) it would continue`
+- **when 时间从句**：`when they are least needed`、`when the evidence demands it`
+- **as 原因从句**：`as economies became more efficient and China's growth slowed`
+- **only when 强调**：`only when the evidence demands it`
+- **定语从句省略 that**：`the language (that) we understand best`
+- **被动语态**：`have been debunked`
+- **过去将来时**：`would keep rising`、`would continue`
+- **设问句**：`What went wrong?`
+- **破折号补充**：`—at the extremes`
+- **not X 对比**：`right, not loud`
+- **比较结构**：`more slowly than expected`
+
+### 4. 长难句
+
+- 原句 6：insatiable + 名词短语主语
+- 原句 9：as 双因从句
+- 原句 12：rarely + 直线比喻
+- 原句 14：most/least 悖论 + 破折号
+- 原句 17：What 主语从句 + that 表语从句
+- 原句 21：定语从句省略 that + right/loud 双关
+
+### 5. 写作技巧
+
+1. **最诚实的开场**：`WE WERE wrong`——三个词、全大写、无前缀。媒体认错最有效的开场就是"不找借口"，短句显坦诚
+2. **设问推进**：`What went wrong?`——自问自答引导读者进入方法论分析，比直接讲道理更有互动性
+3. **"合理的前提"辩护结构**：第 2 段先承认预测逻辑并非荒谬（not absurd）——既诚实又有风度，让"认错"更可信（不把自己写成白痴）
+4. **对称证伪**：第 2 段两个前提（供给将尽 / 需求无限）vs 第 3 段两个现实（页岩释放 / 需求放缓）——精确对称的"前提-证伪"结构
+5. **拟人化的现实**：`Reality disagreed`（现实不买账）——把现实写成对话对手，简短有力
+6. **悖论句**：`Forecasts are most confident when they are least needed`、`confidence is highest just before the path bends`——两个悖论句把"预测心理学"讲透：极端时最自信、拐弯前最自信
+7. **比喻系统**：`run in straight lines`（走直线）、`the path bends`（路拐弯）、`unlocked`（解锁）、`days are numbered`（时日无多）——用一组连续比喻讲方法论与时限
+8. **防误解的否定**：`None of this means that energy markets are easy to predict now`——认错之后立刻防止读者误解（认错 ≠ 现在能算准），思维严密
+9. **自嘲收尾**：`we will try to be right, not loud`（正确而非响亮）——right/loud 双关（对 / 响）精准点出媒体的职业陷阱，以自嘲收束，既有道理又有幽默
+10. **"首尾呼应"的认错结构**：开头 WE WERE wrong（1）→ 中间 We were wrong about that, too（3）→ 结尾 right, not loud——认错贯穿始终，姿态前后一致
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `long-running` | 长期的 | A long-running investigation. |
+| `the logic behind` | 背后的逻辑 | The logic behind the decision. |
+| `run out of` | 耗尽 | We're running out of time. |
+| `insatiable` | 永不满足 | Insatiable appetite for data. |
+| `unlock` | 释放潜力 | Unlock new opportunities. |
+| `what went wrong` | 哪里出错 | Let's figure out what went wrong. |
+| `extrapolate from` | 外推 | Don't extrapolate from one sample. |
+| `run in straight lines` | 走直线（线性） | Success never runs in straight lines. |
+| `at the extremes` | 在极端情况 | Be cautious at the extremes. |
+| `turning point` | 转折点 | A turning point in the project. |
+| `be numbered` | 时日无多 | Our free days are numbered. |
+| `the honest answer is` | 诚实的答案是 | The honest answer is we don't know. |
+| `state confidence` | 表态信心 | State confidence only when warranted. |
+| `right, not loud` | 对而非响 | Be right, not loud. |
+| `to put it in the language ...` | 用……的说法 | To put it in plain English. |

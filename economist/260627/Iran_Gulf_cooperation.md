@@ -922,37 +922,6 @@ That is + 名词短语；`all the more reason` 意为"更加充分的理由"，t
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| disruption | 动荡、颠覆 |  |
-| prosper | 繁荣 |  |
-| unsettling | 令人不安的 |  |
-| hub | 枢纽 |  |
-| clout | 影响力 |  |
-| levy | 征收 |  |
-| tanker | 油轮 |  |
-| fend off | / `ward off` 抵挡 |  |
-| dispatch | 派遣 |  |
-| bolster | 加强 |  |
-| resilient | 有韧性的 |  |
-| swiftly | 迅速地 |  |
-| contain | 遏制 |  |
-| aggression | 侵略 |  |
-| unified | 团结的 |  |
-| feud | 积怨 |  |
-| embolden | 使壮胆（标题词） |  |
-| upend | 颠覆、掀翻 |  |
-| wean off | 使戒除依赖 |  |
-| corral | 圈集、召集（带贬义） |  |
-| prod | 督促、推动 |  |
-| meddling | 干预（贬义） |  |
-| self-harming | 自我伤害的 |  |
-| hardening | 加剧、固化 |  |
-| lavishly | 挥霍地 |  |
-| sophisticated | 精良的 |  |
-| crucially | 关键的是 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | petrostates | 石油国家 |  |
 | oil shock | 石油危机 |  |
 | the Strait of Hormuz | 霍尔木兹海峡 |  |
@@ -975,6 +944,41 @@ That is + 名词短语；`all the more reason` 意为"更加充分的理由"，t
 | put aside | 搁置 |  |
 | turn to | 求助于 |  |
 | make use of | 利用 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| embolden | 使壮胆（标题词） |  |
+| upend | 颠覆、掀翻 |  |
+| wean off | 使戒除依赖 |  |
+| corral | 圈集、召集（带贬义） |  |
+| prod | 督促、推动 |  |
+| meddling | 干预（贬义） |  |
+| self-harming | 自我伤害的 |  |
+| hardening | 加剧、固化 |  |
+| lavishly | 挥霍地 |  |
+| sophisticated | 精良的 |  |
+| crucially | 关键的是 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| disruption | 动荡、颠覆 |  |
+| prosper | 繁荣 |  |
+| unsettling | 令人不安的 |  |
+| hub | 枢纽 |  |
+| clout | 影响力 |  |
+| levy | 征收 |  |
+| tanker | 油轮 |  |
+| fend off | / `ward off` 抵挡 |  |
+| dispatch | 派遣 |  |
+| bolster | 加强 |  |
+| resilient | 有韧性的 |  |
+| swiftly | 迅速地 |  |
+| contain | 遏制 |  |
+| aggression | 侵略 |  |
+| unified | 团结的 |  |
+| feud | 积怨 |  |
 
 ## 五、长难句专项
 

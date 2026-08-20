@@ -399,28 +399,28 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| n. | 战场 |  |
-| n. | 怀疑 |  |
-| n. | 技术诀窍 |  |
-| v. | 削弱 |  |
-| v. | 助长 |  |
-| n. | 合同研究 |  |
-| 短语 | 波及、传导 |  |
-| n. | 受害者 |  |
-| 短语 | 施加压力 |  |
-| adj. | 买得起的 |  |
-| n. | 管线（在研项目） |  |
-| 短语 | 占……份额 |  |
-| 短语 | 使……失去 |  |
-| adj. | 合理的 |  |
-| adj. | 两用的 |  |
-| adj. | 定向的 |  |
-| adj. | 一刀切的 |  |
-| v. | 受审查 |  |
-| n. | 安全恐慌 |  |
-| n. | 危言耸听 |  |
-| n. | 牺牲品 |  |
-| n. | 协作 |  |
+| n. | 战场 | 原句 1 |
+| n. | 怀疑 | 原句 2 |
+| n. | 技术诀窍 | 原句 3 |
+| v. | 削弱 | 原句 3 |
+| v. | 助长 | 原句 4 |
+| n. | 合同研究 | 原句 6 |
+| 短语 | 波及、传导 | 原句 8 |
+| n. | 受害者 | 原句 9 |
+| 短语 | 施加压力 | 原句 10 |
+| adj. | 买得起的 | 原句 12 |
+| n. | 管线（在研项目） | 原句 14 |
+| 短语 | 占……份额 | 原句 15 |
+| 短语 | 使……失去 | 原句 16 |
+| adj. | 合理的 | 原句 18 |
+| adj. | 两用的 | 原句 18 |
+| adj. | 定向的 | 原句 19 |
+| adj. | 一刀切的 | 原句 19 |
+| v. | 受审查 | 原句 20 |
+| n. | 安全恐慌 | 原句 20 |
+| n. | 危言耸听 | 原句 22 |
+| n. | 牺牲品 | 原句 24 |
+| n. | 协作 | 原句 25 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -437,6 +437,10 @@
 | have | every right to — 完全有权 |  |
 | a | fit of scaremongering — 一阵危言耸听 |  |
 | the | next casualty — 下一个牺牲品 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | CDMO | — 合同研发生产组织 |  |
 | clinical | trials — 临床试验 |  |
 | research | pipelines — 研究管线 |  |
@@ -514,3 +518,43 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是"产业政策 + 国家安全"论辩文本，词汇集中在：**限制与管控**（restriction, targeted, blanket, scrutinise, sanction）；**产业角色**（contract research, CDMO, pipelines, account for）；**负面影响**（undermine, deprive, ripple through, breed resentment）；**论辩词**（legitimate, scaremongering, security panic, double tragedy）。掌握这组词，可应对"科技战与产业政策"类文章。
+
+### 表达方式
+
+1. **先立后破**：开篇陈述恐慌（battleground/suspicion），再逐条反驳（Consider the role...）——论证完整。
+2. **具体企业作证**：用 WuXi AppTec、ADC 等具体公司与数据——让抽象论辩落地。
+3. **"Not just...but"递进**：rely on Chinese firms not just for manufacturing, but for ... pipelines——揭示依赖深度。
+4. **否定式平衡**：None of this means ... / not entirely without foundation——先否定再补充，显得公允。
+5. **对仗主张**：targeted controls, not blanket restrictions——用对仗亮出政策建议。
+6. **情感收束**：a double tragedy: for American patients, and for the global science——以双重悲剧收尾。
+
+### 语法要点
+
+- **动名词作主语**：Limiting them would make drugs more expensive——动名词短语作主语表假设。
+- **现在分词伴随**：stealing Western know-how and undermining America's global lead——分词展开后果。
+- **should/should not 对称**：should be scrutinised, but ... should not be swept up——用情态动词对仗划边界。
+- **形式主语**：It is easy to dismiss such fears——It 形式主语 + 真正主语不定式。
+- **祈使句引导**：Consider the role ...——用祈使句把论证拉回事实。
+
+### 长难句
+
+最值得模仿的是"否定式平衡句"（原句 23）：not entirely without foundation 双重否定表"并非全无根据"。其次是 not just...but 递进（原句 14）——从制造到研发的依赖升级。
+
+### 写作技巧
+
+- **受害者身份反转**：说"限制中国"会让"美国病人"受伤——把抽象安全辩论拉回具体生活。
+- **"安全关切该有"的诚实**：先承认 legitimate worries，再反对 blanket restrictions——立场可信。
+- **历史教训引证**：past decade in tech——用芯片战等先例证明封锁无效。
+- **定位句收束**：Biotech should not become the next casualty——一个比喻完成全文立意。
+
+### 可迁移表达
+
+- "The next battleground could be X" — 用于"下一个竞争/冲突领域"。
+- "tools of the state" — 用于"被国家利用的工具"。
+- "put pressure on prices" — 用于"压低价格的市场力量"。
+- "targeted controls, not blanket restrictions" — 用于"精准管控而非一刀切"。
+- "a double tragedy" — 用于"双重受害"的总结。

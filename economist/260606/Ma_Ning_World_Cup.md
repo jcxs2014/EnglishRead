@@ -560,3 +560,85 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+caption、announced his departure、qualified for、crashed out、struggles to、adept at、hails from、rust belt、heartland、state-owned enterprises、bureaucracy、temperament、upbringing、made a career out of、taking rules seriously、breakthrough、issued、marked、chanting insults、untroubled、hostility、has done little to、impede、ascent、oversee、defended ... from、backlashes、consecutive、mark his debut、impartiality、repercussions、dilemma、unlikely to、little to lose and much to gain、eyeing retirement、accumulate、flock to、in its own right、synonymous with、corruption scandals、chronic、underachievement、regardless
+
+### 2. 本文核心表达
+
+1. `I'm ready, are you ready?` — 我准备好了，你们呢？（社交媒体宣言）
+2. `announced his departure for Miami and this year's World Cup` — 宣布启程前往迈阿密和世界杯
+3. `China's footballers will not be joining him` — 中国球员不会与他同行（短句转折）
+4. `has not qualified ... since 2002, when it crashed out without scoring a goal` — 2002 年以来再未晋级
+5. `it has become unexpectedly adept at producing referees` — 意外地擅长产出裁判（题眼）
+6. `hails from Liaoning, in China's rust belt` — 来自中国锈带辽宁
+7. `earning a reputation for bureaucracy and respect for procedure` — 赢得官僚与重程序的名声
+8. `has made a career out of taking rules seriously` — 把认真对待规则变成事业
+9. `marked Mother's Day by chanting insults about his mother` — 用骂他母亲庆祝母亲节（反讽）
+10. `The hostility has done little to impede his notable ascent` — 敌意没能阻碍他的晋升
+11. `the first Chinese referee to oversee an Asian Cup final` — 首位执法亚洲杯决赛的中国裁判
+12. `defended his decisions from backlashes` — 为他的判罚辩护
+13. `the faith some supporters place in his impartiality` — 支持者对他公正的信任
+14. `Unlike referees who may worry ... Mr Ma faces no such dilemma` — 与担忧的裁判不同，他无此两难
+15. `He has little to lose and much to gain` — 失去的少、获得的多（对仗）
+16. `does not seem to be eyeing retirement` — 似乎并不盘算退役
+17. `Mr Ma's success has become a story in its own right` — 成功自成故事
+18. `remains synonymous with corruption scandals, administrative dysfunction and chronic underachievement` — 仍是三重失败的同义词
+19. `China's most successful representative in world football is not scoring goals` — 最成功的代表不进球（反讽）
+20. `But he's meeting his own regardless` — 但他无论如何都在达成自己的目标（双关收尾）
+
+### 3. 重要语法
+
+- **With 短语作状语**：`With a photo ... and the caption "...", Ma Ning announced ...`
+- **同位语插入**：`Ma Ning, a Chinese football referee, announced ...`
+- **when 定语从句**：`since 2002, when it crashed out`
+- **Though 让步从句**：`Though the country struggles ... it has become ...`
+- **分词作结果状语**：`... earning a reputation for ...`
+- **Whether A or B 让步**：`Whether by temperament or upbringing, ...`
+- **省略 that 定语从句**：`the faith (that) supporters place in his impartiality`
+- **Unlike A, B 对比**：`Unlike referees who ..., Mr Ma faces no such dilemma`
+- **Despite 插入让步**：`..., despite years of reform ..., remains ...`
+- **现在完成时**：`has not qualified`, `has done little to`, `has become`
+- **将来进行时**：`will not be joining`
+- **对仗结构**：`little to lose and much to gain`
+- **双关收尾**：goals（进球/目标）
+
+### 4. 长难句
+
+- 原句 1：with 短语 + 同位语
+- 原句 6：分词结果状语
+- 原句 7：whether A or B + 插入
+- 原句 9：同位语 + by 方式
+- 原句 15：定语从句省略 that
+- 原句 16：Unlike 对比结构
+- 原句 21：despite 插入 + 三并列
+
+### 5. 写作技巧
+
+1. **场景化开头**：首句不用新闻通稿式"马宁将执法世界杯"，而是还原他的社交媒体动态（With a photo ... and the caption "..."），让读者先"看到"再"听到"，贴近人物特稿的叙事感
+2. **短句制造落差**：第二句五个词 `China's footballers will not be joining him` 戛然而止，紧接长句背景，长短交替让"期望落空"的冲击力最大化
+3. **让步反讽立论**：`Though ... struggles to get its players ... it has become unexpectedly adept at producing referees`——用让步句同时承认失败与成功，把"错位"当成全文论点
+4. **地域决定论叙事**：从 rust belt（锈带）到 temperament/upbringing 再到 taking rules seriously——三层因果链解释人物性格，体现特稿"先背景后人物"的结构
+5. **矛盾修辞**：`marked Mother's Day by chanting insults`（庆祝母亲节的方式是辱骂母亲）、`The hostility has done little to impede`（敌意没挡住晋升）——用矛盾制造张力
+6. **核心悖论结构**：全文最妙在"为什么中国球迷信任他"——正因为中国队进不了世界杯，他才能毫无顾虑地执法（little to lose and much to gain）。作者把失败转化为优势，逻辑层层递进
+7. **数据强化论证**：`nine yellow cards and three red ones`、`1.4bn people`、`46 years old`——具体数字让事实可信
+8. **对照排比**：`corruption scandals, administrative dysfunction and chronic underachievement`——三重名词短语排比概括体系失败
+9. **最高级 + 否定制造反讽**：`most successful representative in world football is not scoring goals`——"最成功者不进球"的荒诞
+10. **双关金句收尾**：`meeting his own`——goals 既是"进球"又是"目标"，一个词把"个人 vs 体系"的张力收束成点睛之笔
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `hails from` | 描述出身 | She hails from a small coastal town. |
+| `has made a career out of` | 把……当职业 | He made a career out of public speaking. |
+| `takes rules seriously` | 认真对待规则 | A company that takes safety seriously. |
+| `has done little to` | 收效甚微 | The policy has done little to curb prices. |
+| `mark ... by -ing` | 用……方式纪念 | We marked the win by popping champagne. |
+| `in its own right` | 自成一体 | The sequel is a hit in its own right. |
+| `synonymous with` | 与……画等号 | This brand is synonymous with trust. |
+| `little to lose and much to gain` | 稳赚不亏 | With little to lose, he bet everything. |
+| `eye retirement` | 盘算退休 | He's eyeing retirement at 55. |
+| `face no such dilemma` | 没有这种两难 | Unlike others, she faces no such dilemma. |
+| `meet one's own (goals)` | 实现自己的目标 | He met his own goals regardless. |

@@ -294,21 +294,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| standard | 标准 |  |
-| decline | 下降 |  |
-| literacy | 识字率 |  |
-| drop out | 辍学 |  |
-| grade inflation | 成绩膨胀 |  |
-| numeracy | 计算能力 |  |
-| rigorous | 严格的 |  |
-| pseudoscience | 伪科学 |  |
-| mandatory | 强制的 |  |
-| equity | 公平 |  |
-| reinstating | 恢复 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | OECD | 经济合作与发展组织 |  |
 | SAT | 学术评估测试 |  |
 | community colleges | 社区大学 |  |
@@ -324,6 +309,25 @@
 | rein in | 抑制、控制 |  |
 | reversing course | 转变方向 |  |
 | bums on seats | 确保入学人数 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| numeracy | 计算能力 |  |
+| rigorous | 严格的 |  |
+| pseudoscience | 伪科学 |  |
+| mandatory | 强制的 |  |
+| equity | 公平 |  |
+| reinstating | 恢复 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| standard | 标准 |  |
+| decline | 下降 |  |
+| literacy | 识字率 |  |
+| drop out | 辍学 |  |
+| grade inflation | 成绩膨胀 |  |
 
 ## 长难句专项
 

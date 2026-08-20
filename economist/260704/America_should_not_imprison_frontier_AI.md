@@ -799,3 +799,76 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+developing spat、spat、pressing、premature、third parties、matters、warning shot、whatever the outcome、balance of power、shifting、highlights、central dilemma、wrecking、frontier models、convincing、misused、bioweapons、cyberattacks、at scale、acknowledging、slow down、banning、heavily restricting、keep foot on accelerator、red-team testing、robust preparedness、sympathies are with、oversight、involvement、imprison、lieutenants、hard to enforce、cede、above all、in any case、roll back、bend、establish、kept from、left alone、in the same way that、apply to、draw the line、prescription drugs、over-the-counter、strictly controlled、freely available、grave、stakes are high、retain the right、deep knowledge、serious plan、in an emergency、in extreme cases、might be right、the bar for、transparently、demanded to see、in private、fell well short of、the right approach、not...but、done well、the path to safety、resolved、in that spirit、in practice、shareholders、the bigger prize、political culture、treats as、leads the world in
+
+### 2. 本文核心表达
+
+1. `how to regulate very powerful models without wrecking them` — 如何监管极强模型而不毁掉它们（核心困境）
+2. `The question is not whether to regulate, but how` — 问题不是要不要管而是怎么管
+3. `keep its foot on the accelerator` — 踩住油门（vs slow down 踩刹车）
+4. `The state should not try to imprison the frontier` — 国家不应囚禁前沿
+5. `the same way that a knife is not banned because it can be used to kill` — 正如刀不因能杀人而被禁
+6. `prescription drugs strictly controlled, over-the-counter freely available` — 处方药严控、非处方药放开（类比）
+7. `fell well short of that bar` — 远未达到那个门槛
+8. `not to slow it down, but to bend it` — 不是让它减速，而是引导它（题眼）
+9. `a place to govern, not to imprison` — 治理之地而非囚禁之地
+10. `America leads the world in frontier AI, and it should lead it in governing it, too` — 技术领先，治理也要领先（金句）
+
+### 3. 重要语法
+
+- **not A but B**：`not whether to regulate, but how`、`not to slow it down, but to bend it`
+- **so...so...that 结果从句**：双 so 排比 + that
+- **as 方式从句 + 冒号解释**：`as the American approach to drugs shows: ...`
+- **条件分词**：`Misused, they could...`（= If misused）；`Done well, ...`（= If done well）
+- **破折号插入同位语**：`—the ones most people actually use—`
+- **in which 定语从句插在主谓之间**：`The spat, in which..., fell short of...`
+- **被动语态**：`should be resolved`、`should be applied transparently`、`should be kept from`
+- **比较级结构**：`more capable, and more dangerous, than anything that has come before`
+- **形式主语**：`it might be right to ban a model`
+- **动名词复合结构**：`mean the government getting to see the models`
+- **现在完成进行时**：`has been pressing`（持续施压）
+
+### 4. 长难句
+
+- 原句 2：so...so...that 双排比 + 结果从句
+- 原句 29：as 方式从句 + 冒号并列解释
+- 原句 34：in which 定语从句插在主谓之间
+- 原句 38：mean + 动名词复合 + under rules + that 定语从句
+- 原句 39：不定式表语 + as 补语对比
+
+### 5. 写作技巧
+
+1. **"for X reasons" 数字结构**：第 1 段 "matters for three reasons"、第 4 段 "wrong for two reasons"——用数字预告论证结构，让文章骨架清晰可读
+2. **先让步再立场的辩论式结构**：先承认风险（第 2 段 "governments are right"）、再展示两派、最后站队（第 3 段 "sympathies are with"）——比直接表态更有说服力
+3. **交通隐喻贯穿全文**：slow down（踩刹车）、keep foot on the accelerator（踩油门）、bend it（塑形）——用同一个隐喻系统组织全文论证
+4. **类比论证**：刀不禁的类比（原句 26）+ 药品分级的类比（原句 29）——用读者熟悉的生活常识支撑政策主张，让抽象监管问题具体可感
+5. **首尾呼应**：开篇 spat 与结尾 resolved 呼应；标题 imprison 与第 4/7/8 段 imprison 反复——标题-正文-结论的一致性
+6. **让步中的克制**：`might be right to ban`、`fell well short of that bar`——立场鲜明但不极端，为政府保留例外空间，显示审慎
+7. **金句式收尾**：`leads the world in frontier AI, and it should lead it in governing it, too`——用动词反复制造口号，升华主题
+8. **具体数据/事实**：Fable 和 Mythos 两个模型名、处方药/非处方药的具体例子——用具体性增强可信度
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `developing spat` | 升级中的冲突 | A developing spat over policy. |
+| `matters for X reasons` | 说明重要性 | It matters for two reasons. |
+| `a warning shot` | 警示信号 | A warning shot about the trend. |
+| `the central dilemma` | 核心两难 | The central dilemma of the project. |
+| `not A but B` | 澄清重点 | The issue is not cost but timing. |
+| `keep your foot on the accelerator` | 保持势头 | Keep your foot on the accelerator. |
+| `sympathies are with` | 表明倾向 | My sympathies are with the reformers. |
+| `hard to enforce` | 难以执行 | The rule is hard to enforce. |
+| `cede ground to` | 让渡优势 | Cede ground to competitors. |
+| `in any case` | 无论如何 | In any case, we move on. |
+| `roll back` | 撤销 | Roll back the changes. |
+| `in the same way that X, so Y` | 类比论证 | In the same way that X fails, so Y will. |
+| `draw the line` | 划清界限 | We must draw the line somewhere. |
+| `the stakes are high` | 利害重大 | The stakes are high in this deal. |
+| `fall well short of` | 远未达到 | The results fell well short of expectations. |
+| `the path to` | 通向……之路 | Education is the path to opportunity. |
+| `the bigger prize` | 更大的目标 | The bigger prize is long-term trust. |
+| `lead the world in` | 领先世界 | The company leads the world in batteries. |

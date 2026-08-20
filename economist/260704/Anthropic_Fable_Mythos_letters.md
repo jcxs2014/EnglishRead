@@ -406,3 +406,80 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+made the case for、understated、frontier AI、treating it as such、come to regret、comparing to、dystopian fiction、unhelpful and wrong、silenced、posed a genuine threat、entitled to、protect from harm、treats as、a referee、a poor record、slow to recognise、quick to fear、more experimentation not less、ignores the most important point、the geopolitical race、blocks its own、will not stop developing、restraint、a gift to the other、the deepest problem、no longer agree on、what intelligence is for、embodies values、contested、going round in circles、until we resolve that、the first duty of a free press、a free press、keep readers comfortable
+
+### 2. 本文核心表达
+
+1. `made the case for caution` — 为谨慎提出理由
+2. `I fear it understated the dangers` — 我担心它低估了危险
+3. `Frontier AI is not a toy` — 前沿 AI 不是玩具
+4. `a mistake that we will come to regret` — 终将后悔的错误
+5. `Comparing ... to dystopian fiction is unhelpful and wrong` — 反乌托邦类比无益且错误
+6. `not silenced to control thought; blocked because they posed a genuine threat` — 不是为控思而封，是因威胁而封
+7. `A democratic government is entitled to protect its citizens from harm` — 民主政府有权保护公民
+8. `treats the state as a referee, but ... the state has a poor record as a player` — 裁判与球员的比喻
+9. `slow to recognise new technologies and quick to fear them` — 认识慢、恐惧快（对仗）
+10. `The right answer is more experimentation, not less` — 正确答案是更多而非更少试验
+11. `Restraint by one side is simply a gift to the other` — 单边克制只是给对方的礼物（金句）
+12. `we no longer agree on what intelligence is for` — 不再就智能用途达成一致
+13. `Technology ... embodies values, and those values are contested` — 技术承载价值，价值有争议
+14. `the debate ... will keep going round in circles` — 辩论将原地打转
+15. `the first duty of a free press is not to keep readers comfortable` — 媒体职责不是让读者舒适
+
+### 3. 重要语法
+
+- **动名词主语**：`Comparing ... to ... is unhelpful`、`treating it as such is a mistake`
+- **分号对比**：`not silenced ...; they were blocked because ...`
+- **省略 that 宾语从句**：`I fear (that) it understated`
+- **that 定语从句**：`a mistake that we will come to regret`
+- **that 表语从句**：`the deepest problem is that we no longer agree`
+- **what 宾语从句**：`on what intelligence is for`
+- **because 原因从句**：`because they posed a genuine threat`
+- **If 条件从句**：`If America blocks its own frontier AI, China will not stop`
+- **Until 时间从句**：`Until we resolve that, the debate will keep going`
+- **对仗结构**：`slow to recognise ... and quick to fear`、`more X, not less`
+- **介词前置定语**：`on what intelligence is for`
+- **被动语态**：`were silenced`、`were blocked`
+
+### 4. 长难句
+
+- 原句 2：动名词主语 + that 定语从句
+- 原句 4：分号对比 + because 从句
+- 原句 6：裁判/球员比喻（treats A as B）
+- 原句 7：slow/quick 对仗
+- 原句 12：that 表语从句 + what 宾语从句
+
+### 5. 写作技巧
+
+1. **读者来信的"礼貌反对"开篇**：`Your leader ... made the case for caution, but I fear it understated...`——先承认对方优点，再转折异议——书信辩论的礼仪结构
+2. **单一论点的信体格式**：每封信只讲一个核心观点（低估危险 / 类比错误 / 政府当球员 / 地缘竞赛 / 价值分歧）——一封一议，观点鲜明
+3. **比喻武器的使用**：`not a toy`（不是玩具）、`a referee ... a player`（裁判/球员）、`a gift to the other`（礼物）、`going round in circles`（转圈）——四封信用四个比喻各打各的点
+4. **对仗句制造记忆点**：`slow to recognise and quick to fear`（认识慢、恐惧快）、`more experimentation, not less`（更多而非更少）——工整对偶让人过目不忘
+5. **金句凝练**：`Restraint by one side is simply a gift to the other`（单边克制即资敌）——把复杂的地缘逻辑压缩成一个等式，是信中最锋利的句子
+6. **升维论证**：第 5 封信从"监管之争"跳到"智能目的"的哲学层（what intelligence is for）——用升维超越前几封的战术之争
+7. **编辑部回应的平衡**：`we welcome debate, but the first duty ... is not to keep readers comfortable`——承认辩论价值，同时声明立场，是媒体处理来信的标准收尾
+8. **多声部的结构**：五封信 + 编者回应——呈现辩论的不同面向，让读者自己判断（编辑不出最终裁决）
+9. **专业术语适度**：`frontier AI`（前沿 AI）、`geopolitical race`（地缘竞赛）、`contested values`（争议价值）——专业读者群的词汇水平预设
+10. **风险语言的精确性**：`a genuine threat`（真正的威胁）vs `dystopian fiction`（反乌托邦小说）——"真实"与"虚构"的对立是信与信之间的核心张力
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `make the case for` | 为……辩护 | She made the case for the proposal. |
+| `understate` | 低估 | Don't understate the risks. |
+| `come to regret` | 终将后悔 | You will come to regret this. |
+| `treat X as Y` | 把 X 当作 Y | Treat the data as a starting point. |
+| `slow to ... and quick to ...` | 慢于……快于…… | Quick to judge, slow to listen. |
+| `a poor record on` | 在……记录差 | A poor record on privacy. |
+| `pose a threat` | 构成威胁 | The bug poses a real threat. |
+| `entitled to` | 有权 | You're entitled to an opinion. |
+| `more X, not less` | 更多而非更少 | More transparency, not less. |
+| `a gift to` | 白送给 | The delay was a gift to our rivals. |
+| `go round in circles` | 原地打转 | We keep going round in circles. |
+| `contested` | 有争议的 | A contested claim. |
+| `the duty of X is not to` | 职责不是 | The duty of a teacher is not to please. |
+| `what X is for` | X 的用途 | What is this button for? |

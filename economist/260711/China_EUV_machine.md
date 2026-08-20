@@ -1110,3 +1110,85 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+punch above their weight、know-how、balance of power、allege、throw ... into crisis、find its way to、What is more、push back、decline to do、at present、hinge on、unverified yet not unfounded、strong-arm ... into、pivotal、concede、retaliation、divisive、align ... with、oblige ... to、given、extraterritorially、entail、scepticism、contradiction between、reeling from、backlash、fracas、salvo、chokeholds、caught in the crossfire
+
+### 2. 本文核心表达
+
+1. `punch above their weight` — 以小搏大
+2. `could have just tilted the balance of power` — 推测式设问
+3. `has thrown the company into crisis` — 使陷入危机
+4. `found its way to China` — 流入中国（委婉）
+5. `What is more` — 递进
+6. `while taking ... seriously, is pushing back` — 一边认真一边反击
+7. `has yet to be provided` — 尚未获得
+8. `If there were ..., we would ...` — 虚拟语气的外交托辞
+9. `"unverified" yet "not unfounded"` — 灰色地带定性
+10. `Behind ... lie ...` — 完全倒装揭示深层
+11. `strong-arm A into B` — 胁迫
+12. `not just ... but also` — 递进
+13. `align ... with / or face` — 最后通牒
+14. `asking nicely vs making it illegal` — 软硬对立
+15. `the contradiction between A and B` — 自相矛盾论据
+16. `an early salvo in the bigger battle` — 大战第一枪
+17. `caught in the crossfire` — 炮灰命运
+
+### 3. 重要语法
+
+- **分词短语表结果**：`spurring the Industrial Revolution` / `allowing them to use DUV`
+- **分离式介词短语**：`the export to China of the ... machines`
+- **that 同位语从句**：`concerns that one of these machines ...`
+- **倒装引述**：`says ASML` / `says Mr Sjoerdsma`
+- **完全倒装**：`Behind this controversy lie deeper differences`
+- **虚拟语气**：`If there were things ..., we would do so`
+- **省略动词**：`related components could have been [shipped]`
+- **现在完成时 + never/nor**：`has never shipped ... nor have we`
+- **consider it + adj + that 从句**：`consider it highly unlikely that ...`
+- **非限制性定语从句**：`most of which are not covered by export controls` / `whose creations power`
+- **介词倒置的 which 从句**：`which signed up in June`
+- **被动语态强调施动/受动**：`are handled by ASML engineers` / `has yet to be provided`
+
+### 4. 长难句
+
+- 原句 9（多层嵌套 + 同位语 + 方式状语）
+- 原句 13（并列句 + 双重定语从句）
+- 原句 21-22（whether 从句 + 让步 + 引号定性）
+- 原句 27（完全倒装句）
+- 原句 39（分词结果状语 + 多层定语）
+- 原句 56（between A and B 平行结构）
+
+### 5. 写作技巧
+
+1. **历史铺垫法**：开篇三个历史例证（17 世纪金融→彼得大帝→A.Q. Khan）从光明到阴暗，最后一例（窃核蓝图）直接映射本文主题（技术疑云），形成"昨日重现"的叙事框架
+2. **多声部平衡叙事**：同一事实给出 ASML 否认、荷兰游说、专家三种解释、美国强硬派、欧洲担忧——不替读者下结论，让各方自己说话（引号+said 的准确归属）
+3. **不确定性管理**：`may have found its way`、`could have been`、`unverified yet not unfounded`、`at present`、`has yet to`——通篇用情态动词与限定词维护"传闻未证实"的边界，报道者始终保持距离
+4. **数字与清单增强可信度**：`340 machines`、`26 decommissioned`、`24 signatories`、`150 days`、`a third of revenues`、`9m views`（前文）——具体数字比形容词更有力
+5. **战争隐喻的升华**：开篇是"机器"（技术），收尾是"炮击/扼喉/交叉火力"（战争）——`This is just an early salvo in the bigger battle over AI chokeholds` 把个案升华为时代主题
+6. **短句做重音**：`Impossible, says ASML.` / `They can only be made by some of the latest EUV machines.` —— 在两三行长句后插入 1-2 词短句，制造节奏与力度
+7. **"自相矛盾"论证法**：荷兰用"禁 DUV 却许 h200"的矛盾（56-57）攻击美国政策一致性——用对手的内部矛盾瓦解其主张
+8. **外交辞令的精确翻译**：`while taking seriously, pushing back`、`declined to provide details`、`If there were ... we would`、`really unfortunate from our perspective`——把荷兰式圆滑外交译成英文的教科书范例
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `punch above one's weight` | 评论小组织大作用 | The startup punches above its weight. |
+| `know-how` | 技术/商业写作 | We rely on their engineering know-how. |
+| `tilt the balance of power` | 地缘/战略分析 | New tech could tilt the balance of power. |
+| `allege` | 新闻报道（未证实指控） | The report alleges price-fixing. |
+| `throw A into crisis` | 分析冲击 | The ruling threw the industry into crisis. |
+| `find its way to` | 委婉描述流入 | Counterfeit goods find their way to markets. |
+| `push back against` | 职场/政策 | Staff pushed back against the deadline. |
+| `decline to do` | 正式婉拒 | He declined to comment. |
+| `hinge on` | 关键取决 | The result hinges on voter turnout. |
+| `given` | 论证前提 | Given the budget, we must cut scope. |
+| `strong-arm A into B` | 批评强迫 | The giant strong-armed suppliers into discounts. |
+| `align with / or face` | 最后通牒 | Align with the rules or face fines. |
+| `entail` | 说明连带后果 | The role entails long hours. |
+| `meet with scepticism` | 评论反应 | The proposal met with scepticism. |
+| `reel from` | 描述受挫 | Markets are reeling from the news. |
+| `a backlash against` | 政策评论 | The reform sparked a backlash. |
+| `an early salvo in` | 战争/竞争比喻 | This is an early salvo in the price war. |
+| `caught in the crossfire` | 描述无辜受牵累 | Suppliers were caught in the crossfire. |

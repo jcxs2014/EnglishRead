@@ -1047,3 +1047,92 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+sleepy town、risen overnight、known as、hub of、catching up with、product of、waged、bigger story、redrawing the map、reduce dependence on、goods that matter、not just...but、clinging to、strange hybrid、machinery、components、know-how、in effect、branch office、compromise、simply better、just not there、reliability、under strain、slap tariffs on、dodge、duties、sent a shudder、packed up、how hard it is、commodity、depend on...for、supply chain、polysilicon、stamp out、dominates、building up、subsidies、crucially、with scale、such vast quantities that、collapsed、competitive with、fossil fuels、embedded in、production lines、transferred、learning-by-doing、ecosystem of、replicate、nevertheless、flowing out of、diversifying、limited、new capacity、close links to China、set up、beneficiary、wooing、tax breaks、cheap labour、none can match、combination of、engineering talent、rerouted、rebuilt、clean-energy supply chains、takes longer、costs more、logistics networks、grown up around、far better than、oriented towards、shipping lanes、export machine、for its part、partly...and partly、avoid tariffs、stepping up、higher-value goods、domestic demand、reliance on exports、stays weak、too much capacity、restore manufacturing、taking back、slogan、gap between、bring home、more of the same、satisfies nobody、drag on、reluctant to、give way、two clean blocs、intertwined、partial messy slow、just as...are discovering
+
+### 2. 本文核心表达
+
+1. `a vast new factory has risen almost overnight` — 巨型新厂几乎一夜崛起
+2. `known as "Little Wuxi"` — 被称为"小无锡"
+3. `the tariff wars are redrawing the map of global manufacturing` — 关税战重绘全球制造业地图
+4. `move production out of China` — 把生产迁出中国
+5. `clinging to the Chinese technology` — 紧抓中国技术不放
+6. `"Little Wuxi" is, in effect, a branch office of Wuxi` — "小无锡"是无锡的分公司
+7. `The quality and reliability is just not there` — 质量和可靠性达不到（引语）
+8. `Mr Trump is threatening to slap tariffs on Vietnamese goods` — 特朗普威胁猛加越南关税
+9. `sent a shudder through the industry` — 令整个行业战栗
+10. `From the polysilicon ... to the machines ... China dominates` — 从多晶硅到机器，中国主导
+11. `The expertise embedded in those production lines cannot be transferred overnight` — 嵌在产线的知识无法一夜转移
+12. `the supply chains are being rerouted, but not rebuilt` — 供应链改道而非重建（金句）
+13. `with close links to China` — 与中国关系密切
+14. `The new factories are often set up by Chinese firms themselves` — 新厂常是中国企业自己设的
+15. `none can match the combination of infrastructure, engineering talent and scale` — 无人比得上三要素组合
+16. `Tariffs alone cannot bring the factories home` — 单靠关税无法把工厂带回家
+17. `the gap between the slogan and the reality is wide` — 口号与现实的差距很大
+18. `more of the same: a hybrid that satisfies nobody fully` — 老样子：无人满意的混合体
+19. `The world is not going to be divided into two clean blocs` — 世界不会分裂成两个干净阵营
+20. `The "taking back" will be partial, messy and slow` — "夺回"将是部分的、混乱的、缓慢的
+
+### 3. 重要语法
+
+- **介词前置定语从句**：`the city after which it is named`
+- **独立主格**：`many of them in Wuxi`、`with both sides reluctant to give way`
+- **such...that 结果从句**：`such vast quantities ... that`
+- **It takes X and Y to do Z**：`It takes years of learning-by-doing ... to replicate`
+- **though 让步从句插入主谓之间**：`Solar panels, though..., still depend...`
+- **not just A but B**：`not just to tax but to force`
+- **partly...and partly**：`partly to follow ... and partly to avoid`
+- **被动进行时**：`are being rerouted`
+- **比较结构**：`one-tenth as much as`、`far better than`、`takes longer and costs more than`
+- **分号对比**：`Tariffs alone cannot bring the factories home; the technology ... are in China`
+- **直接引语 + 倒装引用**：`"We'd love to buy...", says one manager`
+- **破折号补充**：`—just as Mr Trump's voters are discovering`
+- **动名词主语**：`Moving goods ... takes longer`、`Rerouting has its own problems`
+
+### 4. 长难句
+
+- 原句 3：介词前置定语从句 + 冒号解释
+- 原句 20：though 让步从句嵌入主谓之间
+- 原句 23：such...that + 独立主格 + 结果分词
+- 原句 25：It takes X and Y to do Z
+- 原句 50：三形容词排比 + as 方式从句
+
+### 5. 写作技巧
+
+1. **场景化开场**：`ON THE edge of a sleepy town in northern Vietnam, a vast new factory has risen almost overnight`——用地点 + 反差（小镇 vs 巨厂、沉睡 vs 崛起）开场，把"供应链迁移"变成一幅画面
+2. **地名即论点**：`known as "Little Wuxi"`（小无锡）——一个别称同时交代"源"（无锡=全球枢纽）与"宿"（越南=承接者），并用分公司（branch office）定性两者关系
+3. **金句提炼**：`supply chains are being rerouted, but not rebuilt`（改道而非重建）——用一对反义词（reroute/rebuild）概括全文，成为可记忆的核心命题
+4. **直接引语增强可信度**：两段一线引语（"质量达不到"、"不能再打包一次"）——用当事人原话支撑"技术依赖"和"行业疲惫"两个论点
+5. **辩证结构**：人要走（第 2 段）↔ 技术要留（第 3 段）；资本在流（第 8 段）↔ 知识不流（第 7 段）；政治口号（第 12 段）↔ 物理现实（第 10 段）——全文以"矛盾对"推进，避免单一化
+6. **术语点缀**：`learning-by-doing`（干中学）、`the ecosystem of suppliers`（供应商生态）、`with scale`（规模）——经济学概念为"难转移"提供理论支撑
+7. **视角切换**：美国（第 2/12 段）→ 企业（第 3-5 段）→ 中国（第 11 段）——多方视角让报道立体平衡
+8. **数据细节**：十分之一产能、173 人、42 人、45 米——具体数字增强现场感（本文件用十分之一、第 1 段 overnight 等）
+9. **首尾呼应**：开头"小无锡"（第 1-3 段）与结尾"partial, messy and slow"（第 13 段）——从现场到趋势，从具体到结论
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `rise almost overnight` | 快速崛起 | The company rose almost overnight. |
+| `catching up with` | 迎头赶上 | The startup is catching up with the leader. |
+| `not just A but B` | 递进 | Not just to sell, but to build. |
+| `cling to` | 紧抓不放 | Investors cling to the old model. |
+| `in effect` | 实际上 | In effect, the deal is done. |
+| `under strain` | 承压 | The partnership is under strain. |
+| `slap ... on` | 突然施加 | Slap a fine on the firm. |
+| `dodge` | 规避 | Dodge the rules. |
+| `sent a shudder through` | 引起震动 | The news sent a shudder through the market. |
+| `how hard it is to` | 有多难 | You see how hard it is to change. |
+| `depend on X for Y` | 依赖 | We depend on China for parts. |
+| `embedded in` | 深植于 | The culture is embedded in the system. |
+| `replicate` | 复制 | Hard to replicate the model. |
+| `none can match` | 无人能比 | None can match its quality. |
+| `rerouted but not rebuilt` | 改道不重建 | The plan was rerouted, not rebuilt. |
+| `for its part` | 就它而言 | For its part, the firm agreed. |
+| `the gap between X and Y is wide` | 差距大 | The gap between promise and delivery is wide. |
+| `more of the same` | 老样子 | Expect more of the same. |
+| `drag on` | 拖延 | The talks dragged on. |
+| `reluctant to give way` | 不愿让步 | Both sides are reluctant to give way. |
+| `too intertwined to separate` | 纠缠难分 | The two economies are too intertwined to separate. |

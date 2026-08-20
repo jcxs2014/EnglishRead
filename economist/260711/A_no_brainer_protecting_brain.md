@@ -690,3 +690,81 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+insidious、strips ... of、sense of self、dreaded、fan fears、triple、In truth、reverse、A mountain of、stick to、toil tears or sweat、mentally sharp、a course of、shingles、reduce ... by、intervention、contributes to、inflammation、dormant、cost-effective、rationed、upfront costs、eligibility age、makes little sense、efficacy、afflicts、given、relates to、a sprinkling of、jab、randomised trials、boosters、In the meantime、a bargain、long-term care、As for、reduce by one-fifth
+
+### 2. 本文核心表达
+
+1. `FEW CONDITIONS are as feared as ...` — 否定极级"最可怕"
+2. `strips people of their sense of self` — 剥夺自我
+3. `leaves those who love them caring for a stranger` — 至亲变陌生人
+4. `playing hunt the slipper by myself, and losing` — 游戏隐喻（痴呆的荒谬悲凉）
+5. `with the world receding from me in every direction` — 世界退去（首尾呼应）
+6. `seem only to fan those fears` — 煽风点火
+7. `In truth, the outlook is cheerier than that` — 事实反转
+8. `if adjusted for age` — 按年龄调整（方法）
+9. `A mountain of new evidence shows that need not be` — 证据反驳
+10. `the changes you already know you should be making` — 明知该做的
+11. `no toil, tears or sweat` — 不费辛劳泪汗（化用丘吉尔）
+12. `gives the immune system a firm kick` — 踢一脚（激活）
+13. `taking into account only ... it would be cost-effective` — 保守估算仍划算
+14. `rationed the vaccine to keep down upfront costs` — 限供省前期成本
+15. `makes little sense / makes even less sense` — 递进的反问
+16. `a weapon in the fight against dementia` — 战争隐喻
+17. `at least as powerful as the old one` — 不逊于旧疫苗
+18. `a bargain, given the potential savings` — 划算买卖
+19. `a small price to reduce by one-fifth the chances` — 首尾呼应收尾
+
+### 3. 重要语法
+
+- **否定极级**：`FEW CONDITIONS are as feared as dementia`
+- **独立主格**：`with the world receding from me`
+- **倒装引述**：`wrote the late Sir Terry Pratchett`
+- **省略条件句**：`if adjusted for age`（= if it is adjusted）
+- **形式主语**：`It does not help that ...`
+- **双宾语**：`costs Britain's health service £320 ... and federal programmes around $270`
+- **表语从句嵌套**：`One theory is that ... which ... even while ...`
+- **被动进行时**：`is still being debated`
+- **虚拟语气表保守**：`it would be cost-effective` / `it would make sense`
+- **分词状语**：`taking into account only ...` / `activating it against other bugs`
+- **引语 + 破折号/冒号**：冒号后同位语总结（a bargain）
+
+### 4. 长难句
+
+- 原句 2（since 原因从句 + 双谓语）
+- 原句 3（引语 + 并列谓语 + 多重同位语）
+- 原句 8（where 定语从句 + 省略条件句）
+- 原句 15（It does not help that + before 从句）
+- 原句 20（that 表语从句 + which 定语从句 + while 从句）
+- 原句 34（双宾语 + 冒号同位语）
+
+### 5. 写作技巧
+
+1. **标题双关**：`no-brainer`（不费脑的决定）双关"大脑"（protecting your brain）——一个标题同时给出结论（该打）与主题（大脑），是《经济学人》式的机敏
+2. **首尾呼应的情感线**：开篇普拉切特"the world receding from me in every direction"（世界退去）→ 结尾"a small price to reduce ... the chances of having the world recede in every direction"——用患者的原话作全篇的情感锚点，让"打疫苗"这个理性建议带上温度
+3. **先恐惧后安抚**：前三段全力渲染痴呆的恐怖（普拉切特引语、三倍预测）→ 第四段 `Yet` 转向"捷径"（疫苗）——先立靶子（恐惧）再解（事实+疫苗），符合"问题→解决"的社论结构
+4. **数据分层说服**：20% 降险（核心）、55 岁起（建议年龄）、20-30% 带状疱疹发病率、£320/$270/£460（成本）、0.005% GDP（前文）——每层数据服务一个论证环节
+5. **"仅算保守账"的技巧**：`taking into account only the shingles cases prevented, it would be cost-effective` —— 故意只算最小收益（不算痴呆）也划算，这种"保守论证"让结论无懈可击
+6. **经典修辞的化用**：`toil, tears or sweat` 改造丘吉尔"blood, toil, tears and sweat"——用读者熟悉的经典名言变形制造反差（大事业要血泪汗，这个不用）
+7. **拟人化幽默**：`before your brain will thank you`（大脑会感谢你）、`gives the immune system a firm kick up its B-cells`（踢 B 细胞一脚）——把抽象机制说得鲜活，保持科普可读性
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `FEW ... are as ... as` | 强调顶级 | Few changes are as visible as this. |
+| `strips A of B` | 描述剥夺 | The crisis stripped the firm of cash. |
+| `fan ... fears` | 批评煽动 | The headline fanned public fears. |
+| `In truth` | 事实反转 | In truth, the outlook is better. |
+| `adjust for` | 方法论 | Adjust for inflation when comparing. |
+| `A mountain of` | 强调大量 | A mountain of evidence supports this. |
+| `stick to` | 坚持 | Stick to the agreed plan. |
+| `contributes to` | 因果分析 | Poor sleep contributes to burnout. |
+| `cost-effective` | 性价比评价 | The scheme is cost-effective. |
+| `given` | 论证前提 | Given the risks, we must act. |
+| `makes (little) sense` | 合理性评价 | That makes little sense. |
+| `a bargain` | 性价比 | At this price, it's a bargain. |
+| `reduce by a fifth` | 量化变化 | Costs fell by a fifth. |
+| `In the meantime` | 过渡 | In the meantime, we proceed. |

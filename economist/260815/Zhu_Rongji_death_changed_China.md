@@ -616,38 +616,34 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| antithesis | 对立面、截然相反 | 原句3 |
-| eschewed | 刻意避开、回避 | 原句4 |
-| wielded | 行使、掌握（权力） | 原句5 |
-| dismantled | 瓦解、拆除 | 原句5 |
 | unprecedented | 前所未有的 | 原句9 |
-| laid the groundwork for | 为……奠定基础 | 原句10 |
-| as is customary | 按照惯例 | 原句14 |
 | rehabilitated | 平反、恢复名誉 | 原句19 |
+| reinvigorate | 使重新充满活力 | 原句23 |
+| rein in | 控制、遏制 | 原句24 |
+| slashed | 大幅削减 | 原句25 |
+| red tape | 繁文缛节 | 原句25 |
+| cohort | 一批（人） | 原句26 |
+| spearheading | 带头、率先推动 | 原句27 |
+| protégés | 门生、被提携者 | 原句30 |
+| prospect | 前景、可能性 | 原句31 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| antithesis | 对立面、截然相反 | 原句3 |
+| eschewed | 刻意避开、回避 | 原句4 |
+| wielded | 行使、掌握（权力） | 原句5 |
+| dismantled | 瓦解、拆除 | 原句5 |
+| laid the groundwork for | 为……奠定基础 | 原句10 |
+| as is customary | 按照惯例 | 原句14 |
 | plaudits | 热烈赞扬 | 原句21 |
 | defusing | 化解（危机） | 原句21 |
-| reinvigorate | 使重新充满活力 | 原句23 |
-| rein in | 控制、遏制 | 原句24 |
 | overhauling | 彻底改革 | 原句24 |
 | coffers | 金库、国库 | 原句24 |
-| slashed | 大幅削减 | 原句25 |
-| red tape | 繁文缛节 | 原句25 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | weeded out | 清除、淘汰 | 原句25 |
-| cohort | 一批（人） | 原句26 |
-| spearheading | 带头、率先推动 | 原句27 |
 | irked | 惹恼 | 原句29 |
-| protégés | 门生、被提携者 | 原句30 |
 | sidelined | 边缘化 | 原句30 |
 | reversed | 逆转 | 原句30 |
-| prospect | 前景、可能性 | 原句31 |
 
 ## 长难句专项
 

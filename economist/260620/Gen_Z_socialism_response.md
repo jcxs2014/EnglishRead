@@ -369,25 +369,25 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| v. | 引发、激起 |  |
-| v. | 丑化、漫画化 |  |
-| 短语 | 滑头的标签 |  |
-| 短语 | 混为一谈 |  |
-| 短语 | 更不用说 |  |
-| 短语 | 坚持 |  |
-| n. | 实质内容 |  |
-| n. | 私有化 |  |
-| adj. | 可衡量的 |  |
-| 短语 | 对……怀疑 |  |
-| v. | 支撑 |  |
-| n. | 合法性 |  |
-| v. | 承认 |  |
-| 短语 | 公正对待 |  |
-| n. | 铁板一块 |  |
-| n. | 细微差别 |  |
-| n. | 遗漏 |  |
-| adj. | 服务不足的 |  |
-| 短语 | 远未结束 |  |
+| v. | 引发、激起 | 原句 1 |
+| v. | 丑化、漫画化 | 原句 3 |
+| 短语 | 滑头的标签 | 原句 6 |
+| 短语 | 混为一谈 | 原句 6 |
+| 短语 | 更不用说 | 原句 7 |
+| 短语 | 坚持 | 原句 9 |
+| n. | 实质内容 | 原句 9 |
+| n. | 私有化 | 原句 10 |
+| adj. | 可衡量的 | 原句 10 |
+| 短语 | 对……怀疑 | 原句 11 |
+| v. | 支撑 | 原句 14 |
+| n. | 合法性 | 原句 15 |
+| v. | 承认 | 原句 17 |
+| 短语 | 公正对待 | 原句 17 |
+| n. | 铁板一块 | 原句 18 |
+| n. | 细微差别 | 原句 19 |
+| n. | 遗漏 | 原句 20 |
+| adj. | 服务不足的 | 原句 21 |
+| 短语 | 远未结束 | 原句 22 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -402,6 +402,10 @@
 | a | generation is not a monolith — 一代人不是铁板一块 |  |
 | should | have done more — 本应该做得更多 |  |
 | revisit | the subject — 重新审视主题 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | cover | — 封面文章 |  |
 | trust | in institutions — 制度信任 |  |
 | counter-arguments | — 反方观点 |  |
@@ -475,3 +479,42 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是"编辑部回应批评"文，词汇集中在：**批评与回应**（provoked, caricaturing, take seriously, concede）；**标签与概括**（slippery label, lump together, monolith, do justice to）；**制度话语**（privatisation, legitimacy, underpin capitalism）；**让步与辩护**（stand by, to some extent, should have done more, genuine weakness）。这组词是"回应批评、部分认错、坚持核心"的辩论工具箱。
+
+### 表达方式
+
+1. **软垫开场**：provoked a lively response——用"热烈反响"而非"被骂"。
+2. **让步-坚持-让步结构**：To some extent, they are right（让）→ Yet we stand by the substance（坚持）→ Still, we concede（再让）——典型辩护节奏。
+3. **认错递进**：slippery label（标签笼统）→ not everyone is a socialist（以偏概全）→ should have done more（本应做得更多）——认错由浅入深。
+4. **金句式短句**：A generation is not a monolith——用短句概括立场。
+5. **第一人称复数**：we / our——编辑部口吻，既担责又有集体权威。
+6. **把话题放大**：far from over——从小争论引向大命题。
+
+### 语法要点
+
+- **let alone 递进否定**：Not everyone ... is a socialist, let alone a fan of the state——"更别说"。
+- **Nor 倒装**：Nor is the concern confined to the young——否定提前引发倒装。
+- **should have done 虚拟**：We should have done more——本该做而未做，表遗憾。
+- **not that ... not that**：not that a revolution is coming——澄清式否定。
+- **两个 that 表语从句并列**：Our concern is that ..., not that ...——对仗式表语。
+
+### 长难句
+
+最值得注意的是"not A, let alone B"（原句 7）与"是 A 不是 B"（原句 15）——两个"否定澄清"结构都是编辑部辩护的核心语法武器。
+
+### 写作技巧
+
+- **有策略的认错**：认错是分层的——先让标签，再让呈现，但坚决守住实质——这是媒体回应批评的教科书结构。
+- **批评转译**：把"被骂"译成"热烈的反响"（lively response）——既诚实又得体。
+- **概念翻转**：把"Z 世代社会主义"重新定义为"制度合法性流失"——从贴标签提升到真问题。
+- **承诺行动**：we plan to revisit——认错后有行动，而非空道歉。
+
+### 可迁移表达
+
+- "A generation is not a monolith" — 用于反对以偏概全。
+- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
+- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
+- "The debate is far from over" — 用于开放性结尾。

@@ -687,7 +687,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 词汇 / 表达 | 释义 | 例句 |
 | limitation is the sincerest form of flattery | 限制是最诚挚的恭维（仿谚语） | In global trade, limitation ... |
 | formidable | 令人敬畏的、难对付的 | Formidable global competitors. |
 | sophisticated industries | 尖端行业 | Even in sophisticated industries. |

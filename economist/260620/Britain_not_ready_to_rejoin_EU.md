@@ -1019,35 +1019,35 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| v. | 转述、借用（……的话） |  |
-| v. | 被冲击、受打击 |  |
-| v. | 飙升 |  |
-| n. | 魔法思维 |  |
-| v. | 认真应对 |  |
-| adj. | 漫无方向 |  |
-| 短语 | 被压得喘不过气 |  |
-| v. | 集结 |  |
-| n. | 重大失误 |  |
-| v. | 蒸发、破灭 |  |
-| v. | 插手、干涉 |  |
-| v. | 长篇训斥、指责 |  |
-| v. | 减轻 |  |
-| v. | 削弱 |  |
-| n. | 银弹、万灵药 |  |
-| 短语 | 痴迷于 |  |
-| n. | 买家懊悔 |  |
-| v. | 挥霍、糟蹋 |  |
-| adj. | 死气沉沉、濒临停滞 |  |
-| adj. | 微不足道的 |  |
-| v. | 掐住、抑制 |  |
-| adj. | 敌视 |  |
-| v. | 偿还债务 |  |
-| adj. | 吞噬一切的 |  |
-| n. | 极端疑欧派 |  |
-| 短语 | 对……警惕 |  |
-| v. | 下放权力 |  |
-| v. | 灌输 |  |
-| 短语 | 拒不承认 |  |
+| v. | 转述、借用（……的话） | 原句 1 |
+| v. | 被冲击、受打击 | 原句 4 |
+| v. | 飙升 | 原句 5 |
+| n. | 魔法思维 | 原句 6 |
+| v. | 认真应对 | 原句 8 |
+| adj. | 漫无方向 | 原句 9 |
+| 短语 | 被压得喘不过气 | 原句 9 |
+| v. | 集结 | 原句 10 |
+| n. | 重大失误 | 原句 12 |
+| v. | 蒸发、破灭 | 原句 14 |
+| v. | 插手、干涉 | 原句 15 |
+| v. | 长篇训斥、指责 | 原句 18 |
+| v. | 减轻 | 原句 18 |
+| v. | 削弱 | 原句 19 |
+| n. | 银弹、万灵药 | 原句 20 |
+| 短语 | 痴迷于 | 原句 21 |
+| n. | 买家懊悔 | 原句 22 |
+| v. | 挥霍、糟蹋 | 原句 38 |
+| adj. | 死气沉沉、濒临停滞 | 原句 41 |
+| adj. | 微不足道的 | 原句 42 |
+| v. | 掐住、抑制 | 原句 43 |
+| adj. | 敌视 | 原句 44 |
+| v. | 偿还债务 | 原句 49 |
+| adj. | 吞噬一切的 | 原句 53 |
+| n. | 极端疑欧派 | 原句 55 |
+| 短语 | 对……警惕 | 原句 56 |
+| v. | 下放权力 | 原句 59 |
+| v. | 灌输 | 原句 61 |
+| 短语 | 拒不承认 | 原句 63 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -1068,6 +1068,10 @@
 | someone, | somewhere giving something up — 总有人要割肉 |  |
 | pocket | all the gains — 独吞收益 |  |
 | a | Thatcher-style shaking — 撒切尔式的震撼 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | semi-detached — 半脱离的 | 双关英国住宅类型 |  |
 | net-zero | policy — 净零政策 |  |
 | veto-points | — 否决点 |  |
@@ -1148,3 +1152,44 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是标准的"英国政治政策评述"文本，词汇集中在：**政治评断**（blunder, magical thinking, in denial, dimshed）；**政策动作**（muster, devolve, squander, grapple with, mitigate）；**状态描述**（adrift, moribund, piddling, semi-detached）；**经济数字**（at least 2.5%, 94%, 4.3%, 57%/30%）。掌握这组词，可复用于一切英国/欧盟政治评论。
+
+### 表达方式
+
+1. **名言改嫁开篇**：用 Dean Acheson 的"lost a continent but not yet found a role"改指脱欧——一句话定义十年。
+2. **口号引用与戳破**：take back control / get Brexit done——引用口号再判其落空，形成戏剧反差。
+3. **省略式排比**：The populist right is still obsessed with immigration, the populist left with curbing ...——第二句省略谓语，节奏更快。
+4. **数字说理**：52%-48%、至少 2.5%、57% vs 30%、94%、4.3%、8% vs 60%——每个论点配民意或财政数字。
+5. **双关趣味**：semi-detached（半脱离 + 英国住宅类型）——一本正经中夹幽默。
+6. **小标题收束**：The ten-year itch（十年之痒，双关"七年之痒"）——呼应"十年"，给出政策清单与批判。
+
+### 语法要点
+
+- **插入语**：to paraphrase Dean Acheson（转述插入）——借用名人名言的固定句式。
+- **同位语从句**：the big lesson ... : that trying to lay ... is magical thinking——冒号+that 解释抽象名词。
+- **让步倒装**：be they foreigners or the super-rich——"be 主语 or"式让步倒装（无论……还是……）。
+- **分词伴随**：aiming to align rules and sometimes being prepared to pay a price——分词表目的/方式。
+- **形式主语**：It increasingly looks as if ...——as if 从句作表语。
+- **破折号数据插入**：—57% ... ; just 30% ... —在句中插数据，不破坏主句节奏。
+
+### 长难句
+
+最值得模仿的是"分号排比"（原句 59）：五条政策五个分句，一气呵成。其次是"冒号+同位语从句"（原句 6）：把"教训"具体化。分词伴随（原句 51）能写出舒展的长句而不错乱。
+
+### 写作技巧
+
+- **正反各打五十大板**：既批脱欧派（承诺落空），又批留欧派（再入欧是重蹈覆辙）——立场独立，谁都不讨好，反而更有说服力。
+- **"先承认后反驳"的平衡**：Closer relations with the EU could help, But ... must not become all-consuming——承认合理部分再设边界。
+- **历史循环结构**：开头"失去十年"，结尾"需要撒切尔式震撼"——首尾呼应，暗示英国需要新一轮自我革新。
+- **务实主义基调**：不喊口号，用数字、清单、先例说话——"政策不神秘，难在取舍"。
+
+### 可迁移表达
+
+- "lost a continent but not yet found a role" — 用于"失去目标但未找到新定位"。
+- "a recipe for another decade lost" — 用于"注定再浪费十年"的警告。
+- "the doomed search for silver bullets" — 用于批判寻找万灵药。
+- "someone, somewhere giving something up" — 用于说明改革的利益再分配本质。
+- "increasingly looks as if they will need a ... shaking" — 用于"需要一记当头棒喝"。

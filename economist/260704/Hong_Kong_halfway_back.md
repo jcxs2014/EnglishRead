@@ -810,3 +810,91 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+lunchtime crush、dim-sum、queuing、is back、real but incomplete、it helps to、in one sense、rebounded from、prime areas、stuffed with deposits、invested back into、there are limits、not a number but a feeling、by most economic measures、recovered further than、the gap between、what the money says、hard to ignore、the two halves、do not add up、the most obvious sign、tens of thousands of、middle-class、the security law、some ... many more、emigrants、financiers、the very people、needs to thrive、the same pattern、lost ground to、rivals、IPOs、thinner trading volumes、privately admit、moved their attention、remains a big financial centre、its share of、shrinking、the main beneficiary、discomfort、absorbed a steady stream of、a perfect substitute、on offer、a paradox、partly replaced by、mainland China、behaves differently、less likely to leave、less likely to innovate、extends to、feels busy、busyness、pricier、sober、hangs over、the rules of the game、in ways that are still being discovered、learned to adapt、has a cost、most visible in、hiring and keeping、international talent、can still recover further、geographic position、legal system、links to the mainland、remain valuable、whether ... are willing to、rebuild the trust、trust that was lost、halfway back、not the same as、what it was
+
+### 2. 本文核心表达
+
+1. `The lunchtime crush ... is back` — 午市人潮回来了
+2. `a recovery that is real but incomplete` — 真实但不完整的复苏
+3. `it helps to start with the money` — 先从钱说起会有帮助
+4. `The money is back, in one sense at least` — 钱回来了，至少在某种意义上
+5. `the city's banks are stuffed with deposits` — 银行塞满存款
+6. `The two halves of Hong Kong's story do not add up` — 香港故事的两半加不到一起（双关金句）
+7. `not a number but a feeling` — 不是数字而是感觉
+8. `Some have returned; many more have not` — 回来了一些；更多的没回来（省略对比）
+9. `the very people a city like Hong Kong needs to thrive` — 正是香港繁荣所需的人
+10. `lost ground to rivals` — 输给竞争对手
+11. `privately admit they have moved their attention` — 私下承认已转移重心
+12. `its share of regional business is shrinking` — 地区业务份额在萎缩
+13. `Singapore is not a perfect substitute for Hong Kong, but it is the only one on offer` — 新加坡不完美但是唯一选项
+14. `The money that has come back is not the money that left` — 回来的钱不是离开的钱（对仗金句）
+15. `less likely to leave, but also less likely to innovate` — 更不愿走，但也更不愿创新
+16. `The crowds are older, the shops are pricier, and the nights are quieter` — 人更老、店更贵、夜更静（三比较级排比）
+17. `describes the change in a single word: "sober"` — 用一个词概括："清醒"
+18. `Politics hangs over all of this` — 政治笼罩一切
+19. `in ways that are still being discovered` — 以仍未被知晓的方式
+20. `Halfway back is not the same as back` — 恢复一半不等于恢复（警句）
+21. `The queues are back, but the queueing is not what it was` — 队伍回来了，但排队已非从前（首尾回环）
+
+### 3. 重要语法
+
+- **not A but B**：`not a number but a feeling`
+- **分号并列排比**：`The Hang Seng index has rebounded...; property prices...; and the banks...`
+- **between 双 what 从句**：`between what the money says and what the city feels`
+- **破折号同位语**：`financiers—the very people...`
+- **省略 that 定语从句**：`the very people a city like Hong Kong needs to thrive`
+- **省略式对比**：`Some have returned; many more have not`
+- **双比较级对称**：`less likely to leave, but also less likely to innovate`
+- **比较级三连排比**：`older / pricier / quieter`
+- **with 独立结构**：`with customers queuing for tables`、`with fewer IPOs and thinner trading volumes`
+- **what 表语从句**：`the queueing is not what it was`
+- **被动进行时**：`in ways that are still being discovered`
+- **现在完成时**：`has rebounded`、`has been the main beneficiary`
+
+### 4. 长难句
+
+- 原句 5：分号并列三句（时态差异）
+- 原句 10：between 双 what 从句
+- 原句 15：破折号同位语 + 省略 that 定语从句
+- 原句 26：双比较级 + but 对比
+- 原句 39：首尾呼应回环 + what 表语从句
+
+### 5. 写作技巧
+
+1. **微观场景开场**：点心店排队——用一个最有香港气息的日常细节开场，代替抽象数据，让"复苏"可感
+2. **标题的哲学化**：`halfway back`（恢复一半）既是新闻判断又是哲学概念——全文围绕"一半"展开：数字一半、感受一半、钱一半、人一半
+3. **警句式句子**：`The two halves of Hong Kong's story do not add up`（两半加不到一起）——add up 的双关（数学 + 逻辑）让标题概念在文中开花
+4. **对仗修辞**：`The money that has come back is not the money that left`——两个 that 从句结构对称、方向相反，制造"警句时刻"
+5. **"一字引语"收束段落**：`"sober"`——用被访者的一句话/一个词结束一个段落，比长篇分析更有力（专栏写作常用）
+6. **首尾回环**：开头"queues are back" → 结尾"the queueing is not what it was"——回到同一个意象，加一句否定，完成"回来但不复从前"的主题闭环
+7. **辩证平衡**：每个乐观证据后紧跟一个限定（in one sense at least / even here / but / however）——专栏既不唱衰也不唱多，保持克制的中立
+8. **三要素排比**：`geographic position, legal system, links to the mainland`——用并列结构呈现香港的优势组合
+9. **经济名词的文学化**：`stuffed with deposits`（塞满存款）、`thinner trading volumes`（更薄的交易量）——专业术语加一个形象动词/形容词，兼顾专业与可读
+10. **数字与感受的对照**：全文反复用"数字（money says）vs 感受（city feels）"的二元框架——这是"halfway"的深层结构
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `is back` | 回来了 | The buzz is back. |
+| `real but incomplete` | 真实但不完整 | A real but incomplete recovery. |
+| `it helps to` | 有帮助 | It helps to ask first. |
+| `in one sense` | 在某种意义上 | In one sense, you're right. |
+| `rebound from lows` | 从低点反弹 | The market rebounded from its lows. |
+| `stuffed with` | 塞满 | The room was stuffed with boxes. |
+| `there are limits` | 有限制 | There are limits to what we can do. |
+| `not A but B` | 不是……而是 | Not a problem but an opportunity. |
+| `the gap between X and Y` | 差距 | The gap between promise and reality. |
+| `don't add up` | 说不通 | The numbers don't add up. |
+| `lose ground to` | 输给 | The brand is losing ground to rivals. |
+| `on offer` | 可供选择 | The only option on offer. |
+| `less likely to X` | 更不可能 | Less likely to leave. |
+| `hangs over` | 笼罩 | Uncertainty hangs over the deal. |
+| `rules of the game` | 游戏规则 | The crisis changed the rules of the game. |
+| `in ways that are still being discovered` | 仍在显现 | The effects are in ways still being discovered. |
+| `have a cost` | 有代价 | Every adaptation has a cost. |
+| `not the same as` | 不同于 | Being rich is not the same as being happy. |
+| `what it was` | 从前的样子 | The town is not what it was. |

@@ -1368,20 +1368,6 @@ If only the numbers could say, one way or another（虚拟语气）
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| maestro | 大师 |  |
-| the numbers | 数字 |  |
-| surplus | 盈余 |  |
-| inflation | 通货膨胀 |  |
-| deregulation | 放松监管 |  |
-| Fedspeak | 美联储语言 |  |
-| jawboned | 劝说 |  |
-| perked up | 提振 |  |
-| a trio of crisis-fighters | 危机三人组 |  |
-| rapt audience | 入迷的观众 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | the Federal Reserve | 美联储 |  |
 | Council of Economic Advisers | 经济顾问委员会 |  |
 | Long-Term Capital Management | 长期资本管理公司 |  |
@@ -1403,6 +1389,24 @@ If only the numbers could say, one way or another（虚拟语气）
 | get away from him | 从他手中溜走 |  |
 | shook his faith in | 动摇了他的信仰 |  |
 | If only... one way or another | 要是能说清楚就好了 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Fedspeak | 美联储语言 |  |
+| jawboned | 劝说 |  |
+| perked up | 提振 |  |
+| a trio of crisis-fighters | 危机三人组 |  |
+| rapt audience | 入迷的观众 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| maestro | 大师 |  |
+| the numbers | 数字 |  |
+| surplus | 盈余 |  |
+| inflation | 通货膨胀 |  |
+| deregulation | 放松监管 |  |
 
 ## 长难句专项
 

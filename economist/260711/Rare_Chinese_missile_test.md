@@ -602,3 +602,76 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（最值得掌握）
+
+opaque、unnerve、poised to、credible、capacity、validate、escalate、deterrent、constrain、suspend、arsenal、voice（动词）、urge、commit to、on the eve of、in the midst of、given、heighten、of great concern、describe sth as
+
+### 2. 本文核心表达（最值得记忆）
+
+- `be essential to` / `be opaque about` — 描述"重要性"与"不透明"
+- `be poised to do` — 蓄势待发
+- `moving closer to a credible triad` — "逼近完成"的渐进表达
+- `as a way to validate X and demonstrate Y` — 双重目的句式
+- `bring sth back into play` — 让某物重新发挥作用
+- `be not alone in doing sth` — 并非唯一做某事
+- `given + 名词短语` — 鉴于
+- `on the eve of... and in the midst of...` — 平行时间状语
+- `fears about X and Y` — 双宾语担忧结构
+
+### 3. 重要语法
+
+| 语法点 | 文中例句 |
+| --- | --- |
+| 同位语从句（名词 + that 从句） | announcement **that** one of them had carried out... |
+| 倒装引述（quotative inversion） | said Xinhua / wrote Frank Rose / said several experts |
+| 强调助动词 do | China **did** notify some governments |
+| 不定式完成被动式 | appeared **to have been launched** |
+| 过去将来时（future in the past） | predicted... China **would demonstrate** |
+| 比较从句省略 | as other nuclear powers **have** |
+| given + 名词短语表原因 | **given** China's expanding arsenal |
+| 分词作结果状语 | meaning... / allowing it to hit... |
+| 后置定语 | the equipment **involved** |
+| be not alone in doing | China is not alone **in test-firing** |
+
+### 4. 长难句（最值得重读）
+
+句 5（同位语从句+双动词）、句 10（引语+双同位语）、句 12（双重目的）、句 18（完成被动不定式）、句 23（平行时间状语）
+
+### 5. 写作技巧
+
+- **漏斗式开头**：一般原则（保密）→ 特殊案例（中国）→ 具体事件（宣布）→ 反应（不安）。层层收窄，最后一句的 So 把因果链砸实。
+- **信息缺口制造张力**：新华社"没说落点"、中国"从不证实"——**没说的信息**和说了的一样有新闻价值。
+- **短句给重音**：`Both were launched from land.` / `It is also building quieter submarines.`——长句铺陈后突然的短句就是强调。
+- **主题词呼应**：opaque 在第一段出现，第七段借美国国务院之口重现，形成结构闭环。
+- **让步-转折**：`did notify... Still, ...`、`not alone... But given...`——先退一步再出拳，转折更有力。
+- **数据即论证**：7200km/10000km 后面紧跟 meaning/allowing 解读——数字不裸奔，必配含义。
+- **对称对比**：JL-2 vs JL-3 两句结构完全平行，用 meaning/allowing 微调语气。
+- **source 平衡**：美国前官员 vs 中国前教授、美澳官方 vs 外部分析师——多视角并置，作者自己不下判断。
+
+### 6. 可迁移表达（按场景）
+
+**学术论文 / 正式写作：**
+- `X is essential to Y`（开篇立论）
+- `given + NP, ... is likely to...`（条件推论）
+- `compared with...`（数据对比）
+- `as a way to validate...`（研究目的）
+- `be of great concern`（问题严重性）
+
+**新闻报道 / 公文 / 邮件：**
+- `voice concern about`（表达关切）
+- `urge sb to commit to`（敦促承诺）
+- `describe sth as`（立场定性）
+- `in protest over`（抗议原因）
+- `on the eve of / in the midst of`（时间背景）
+
+**日常 / 职场英语：**
+- `be not alone in doing`（不是只有我这么想）
+- `do so`（避免重复）
+- `the former / the latter`（指代两个对象）
+- `heighten awareness`（提升意识）
+- `be poised to`（万事俱备只欠东风）
+
+---
+
+*精读完成。训练建议：重读第五段（The Pentagon...）与第六段（JL-2/JL-3），尝试不看翻译复述其逻辑链；再用 `given...`、`on the eve of...`、`be not alone in...` 各造一个属于自己的句子。*

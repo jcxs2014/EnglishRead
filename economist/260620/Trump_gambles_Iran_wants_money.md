@@ -562,27 +562,27 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| v. | 赌、下注 |  |
-| n. | 制裁 |  |
-| v. | 解冻 |  |
-| 短语 | 让人联想到 |  |
-| n. | 能力 |  |
-| v. | 成文化、正式化 |  |
-| n. | 核门槛国家 |  |
-| n. | 储备 |  |
-| adj. | 完整无损的 |  |
-| v. | 制度化 |  |
-| n. | 代理人战争 |  |
-| v. | 壮胆、助长 |  |
-| n. | 经济压力 |  |
-| n. | 强硬派 |  |
-| n. | 自满 |  |
-| n. | 鹰派 |  |
-| v. | 重新部署 |  |
-| n. | 威慑 |  |
-| n. | 遏制 |  |
-| n. | 偶发情况、预案 |  |
-| n. | 魔法思维 |  |
+| v. | 赌、下注 | 原句 1 |
+| n. | 制裁 | 原句 2 |
+| v. | 解冻 | 原句 5 |
+| 短语 | 让人联想到 | 原句 3 |
+| n. | 能力 | 原句 4 |
+| v. | 成文化、正式化 | 原句 9 |
+| n. | 核门槛国家 | 原句 10 |
+| n. | 储备 | 原句 11 |
+| adj. | 完整无损的 | 原句 11 |
+| v. | 制度化 | 原句 12 |
+| n. | 代理人战争 | 原句 14 |
+| v. | 壮胆、助长 | 原句 16 |
+| n. | 经济压力 | 原句 19 |
+| n. | 强硬派 | 原句 20 |
+| n. | 自满 | 原句 24 |
+| n. | 鹰派 | 原句 24 |
+| v. | 重新部署 | 原句 24 |
+| n. | 威慑 | 原句 26 |
+| n. | 遏制 | 原句 28 |
+| n. | 偶发情况、预案 | 原句 33 |
+| n. | 魔法思维 | 原句 35 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -600,6 +600,10 @@
 | manage | a problem rather than solve it — 管理而非解决问题 |  |
 | prepare | for that contingency — 为意外做预案 |  |
 | reach | for another round of negotiations — 再来一轮谈判 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | ballistic | missiles — 弹道导弹 |  |
 | the | Revolutionary Guards — 革命卫队 |  |
 | enriched | uranium — 浓缩铀 |  |
@@ -679,3 +683,44 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是"国际安全 + 外交政策"评述文本，词汇集中在：**外交动作**（make a deal, lift sanctions, unfreeze assets, redeploy）；**核术语**（nuclear-threshold state, enriched uranium, stockpile, ballistic missiles）；**安全策略**（deterrent, containment, verification, proxy warfare）；**风险评估**（gamble, contingency, complacency, sell-out）。这组词汇是读中东地缘政治评论的基础工具包。
+
+### 表达方式
+
+1. **赌局隐喻贯穿**：开篇"gambling"，结尾"the gamble does not come off"——用一个隐喻撑起全篇。
+2. **否定式破题**：None of this means ... / The worst-case scenario is not that ...——先否定，再给正解，增加思辨感。
+3. **"表面 vs 实质"结构**：On the surface ... But ...——揭示表面熟悉下的实质危险。
+4. **not...but 推进**：not whether ... but how long——用对仗把问题焦点转移。
+5. **短句锤击**：The deal does nothing to curb this——超短句作段落重锤。
+6. **金句收束**：There should be no more magical thinking about Iran——以一句警告收尾。
+
+### 语法要点
+
+- **破折号同位语**：—one that would see them give up...——补充说明前文名词。
+- **感官动词 + 省 to**：see them give up their nuclear programme——see 后接省 to 不定式。
+- **现在分词完成式**：having given the regime a rare moment of relief——先于主句的动作。
+- **even while 让步**：even while sanctions are being lifted——表"即使在……期间"。
+- **虚拟语气**：if it chose to——过去式虚拟表"万一选择"。
+- **被动语态表状态**：how long it can be contained / is amplified by——被动强调受事。
+
+### 长难句
+
+最值得模仿的是 not...but 双从句推进（原句 31）：一句话完成"问题焦点转移"。其次是破折号同位语展开（原句 2）与 having done 分词作先行动作（原句 23）。
+
+### 写作技巧
+
+- **平衡立场**：既骂协议（codifies/institutionalises），又说"不必然错"（None of this means）——权威媒体评论的辩证笔法。
+- **"暂停非解决"定性**：as a pause, not a solution——用最诚实的方式定义事件，避免宣传腔。
+- **预案思维**：先谈最坏情况（worst-case scenario），再给应对（prepare for contingency）——评论给出操作建议。
+- **话术揭穿**：has sold the deal ... as a peace deal——点破政治包装，回归事实。
+
+### 可迁移表达
+
+- "gambling that X wants money more than power" — 用于分析"利益 vs 意志"的博弈。
+- "codifies rather than changes the status quo" — 用于批评"把现状写成条款"。
+- "a pause, not a solution" — 用于"暂缓而非解决"的定性。
+- "rest on verification and containment, not trust" — 用于"制度兜底而非依赖信任"。
+- "prepare for that contingency, rather than pretending it cannot happen" — 用于"预案思维"。

@@ -575,3 +575,85 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+sits on、reserves of oil、shaken by、as well as、political turmoil、a reminder that、fragile、the resource curse、rich in minerals、poor in everything else、a textbook case、proven oil reserves、dominated by sanctions、sanctions、weaken the regime、removed from power、hurt ordinary、siphoned off、cronies、what remains、spent on keeping、keeping in power、signs of change、created a moment for、reconstruction、has hinted、open up to、foreign investment、press for reform、easing sanctions、in exchange for、the rule of law、more of the same、worse off、the stakes are high、a steady drain on、steady、border resources、a recovering Venezuela、a collapsed one、the regional dimension、absorbed refugees、refugees、repaid、the international community、the underlying issue、not geology but governance、governance、no amount of、manage its wealth properly、should be shared、squandered
+
+### 2. 本文核心表达
+
+1. `VENEZUELA sits on one of the world's largest reserves of oil` — 委内瑞拉坐拥世界最大石油储量之一
+2. `shaken ... by earthquakes as well as by political turmoil` — 被地震与政治动荡双重震动（双关）
+3. `even a country with huge energy resources can be fragile` — 即使资源大国也可能脆弱
+4. `rich in minerals but poor in everything else` — 矿产丰富但其他一切贫乏
+5. `Venezuela is a textbook case` — 委内瑞拉是教科书式案例
+6. `the sanctions have also hurt ordinary Venezuelans, and they have not removed Mr Maduro from power` — 制裁伤民又未逐权
+7. `Much of it has been siphoned off by officials and their cronies` — 大部分被官员与亲信虹吸
+8. `What remains has been spent on keeping the regime in power` — 剩下的用于维持政权
+9. `created a moment for reconstruction` — 创造了重建时刻
+10. `easing sanctions in exchange for progress` — 以放宽制裁换取进展
+11. `The alternative—more of the same—would leave both worse off` — 老路使双方更糟
+12. `The stakes for America are high` — 对美国的利害关系重大
+13. `Migration has been a steady drain on America's border resources` — 移民持续消耗美国边境资源
+14. `A recovering Venezuela would reduce that pressure, and a collapsed one would increase it` — 恢复则减压、崩溃则增压（对仗）
+15. `Their generosity has not always been repaid` — 慷慨未总获回报
+16. `The underlying issue is not geology but governance` — 根本问题不是地质而是治理（警句）
+17. `No amount of oil will help a country that does not manage its wealth properly` — 不会理财，再多油也无用
+18. `Venezuela's oil should be shared, not squandered` — 石油应共享而非挥霍（标题呼应）
+
+### 3. 重要语法
+
+- **not A but B**：`not geology but governance`
+- **被动语态**：`has been shaken`、`has been siphoned off`、`has been spent`、`has been dominated`、`has not been repaid`
+- **双 by 状语**：`by earthquakes as well as by political turmoil`
+- **what 主语从句**：`What remains has been spent`
+- **省略 that 宾语从句**：`has hinted (that) it may open up`
+- **that 定语从句**：`countries that are rich in minerals`、`a country that does not manage its wealth`
+- **对仗/对称结构**：`rich in ... but poor in ...`、`shared, not squandered`、`reducing ... / collapsed ... would increase`
+- **no amount of 绝对否定**：`No amount of oil will help`
+- **破折号插入语**：`The alternative—more of the same—`
+- **would 条件语气**：`would reduce`、`would increase`、`would leave`
+- **部分否定**：`not always been repaid`
+- **存在句**：`There are signs of change`
+
+### 4. 长难句
+
+- 原句 2：双 by 被动 + shaken 双关
+- 原句 4：resource curse 定义 + rich/poor 对仗
+- 原句 12：what 主语从句
+- 原句 15：交换式政策建议（use + by + in exchange for）
+- 原句 24：no amount of 绝对否定 + 定语从句
+- 原句 25：双被动分词对比
+
+### 5. 写作技巧
+
+1. **"坐下"双关开场**：`sits on one of the world's largest reserves`——sits on 既是"坐拥"（拥有）又是"被压着"（动弹不得），一个字埋下全文"资源诅咒"主题
+2. **词汇双关贯穿**：`shaken`（地震震动 / 社会震动）、`drain`（资源流失 / 边境压力）、`siphoned off`（虹吸挪用）——一系列"流失/震动"意象织成全文的隐喻网
+3. **主题概念先行**：第 2 段先定义"resource curse"（资源诅咒），再在第 3-4 段用具体事实（制裁失败、石油挪用）印证——"概念 → 例证"的论证结构
+4. **对仗句写选择**：`A recovering Venezuela would reduce that pressure, and a collapsed one would increase it`——正反两种前景用对称句式呈现，无需多言
+5. **警句提炼**：`not geology but governance`（不是地质而是治理）——not A but B + 头韵（geology/governance），一句话概括全文判断，可记忆
+6. **"反复回扣"的结构**：开头 sits on（坐拥资源）→ 结尾 no amount of oil will help（再多油无用）——从"资源神话"到"治理真相"，首尾完成批判闭环
+7. **标题即处方**：副标题 should be shared, not squandered → 结尾复现——社论"提出主张 → 论证 → 回扣主张"的标准收束
+8. **破折号插入的讽刺**：`The alternative—more of the same—would leave both worse off`——用"老样子"（more of the same）指代现状，破折号强调，简洁而有力
+9. **多视角论证**：委内瑞拉人民（第 4 段）→ 美国（第 6 段）→ 邻国（第 7 段）——由内而外，格局渐宽
+10. **数量词强化**：largest proven reserves、millions of refugees、85 million people——具体数字支撑论点（本篇用"世界最大储量"、"数百万难民"）
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `sit on ... reserves` | 坐拥资源 | The firm sits on a cash pile. |
+| `shaken by` | 受震撼 | Markets shaken by the news. |
+| `a reminder that` | 提醒 | A reminder that speed kills. |
+| `rich in ... but poor in ...` | 富此穷彼 | Rich in data but poor in insight. |
+| `a textbook case` | 教科书式案例 | A textbook case of misjudgement. |
+| `remove from power` | 赶下台 | The coup removed him from power. |
+| `siphon off` | 挪用 | Funds were siphoned off. |
+| `open up ... to` | 向……开放 | Open up the market to competition. |
+| `press for` | 推动 | Press for transparency. |
+| `in exchange for` | 以换取 | In exchange for a lower price. |
+| `the stakes are high` | 利害重大 | The stakes are high this season. |
+| `a drain on` | 消耗 | A drain on the budget. |
+| `the underlying issue` | 根本问题 | The underlying issue is trust. |
+| `no amount of X will ...` | 再多也无用 | No amount of spin will save the plan. |
+| `shared, not squandered` | 共享而非挥霍 | The talent should be shared, not squandered. |

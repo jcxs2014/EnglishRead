@@ -424,6 +424,30 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| 国际关系/安全：`influence | operations`（影响力行动）、`state actors`（国家行为体）、`disinformation`（虚假信息，区别于 misinformation）、`foreign funding`（外国资金）、`trade missions`（贸易代表团） |  |
+| 政治/法律：`advocacy | group`（倡导团体）、`lobby`（游说团体）、`think-tank`（智库）、`the House of Representatives`（众议院）、`the Justice Department`（司法部）、`lay charges`（提起指控）、`federal investigations`（联邦调查）、`moratorium`（暂停令）、`allegations`（指控）、`purported ties`（所谓联系） |  |
+| 科技/产业：`data | centres`（数据中心）、`artificial intelligence`（人工智能）、`cryptocurrency`（加密货币）、`green-tech firms`（绿色科技公司）、`shale-gas exploration`（页岩气勘探）、`power grids`（电网）、`comic strips`（连环漫画） |  |
+| 文化常识：`six | degrees of separation`（六度分隔）、`who benefits?`（拉丁语 cui bono"谁受益"）、`tar and feather`（涂柏油粘羽毛的私刑）→ 动词 `tar` |  |
+| 表达 | 含义 | 使用场景 |
+| hold oneself to high standards | 以高标准自律 | 描述严谨作风 |
+| a spate of + 名词 | 一连串（坏事） | 负面事件扎堆 |
+| reflect A as much as B | 既反映 A 也反映 B | 平衡归因 |
+| where things become nasty | 事情变得难堪之处 | 评论转折 |
+| take, for instance... | 以……为例 | 举例 |
+| one thread running through...is that... | 贯穿……的主线是…… | 总结归纳 |
+| it reeks of politics | 明显是政治操弄 | 贬义定性 |
+| beneath the hyperbole | 在夸张之下 | 拨开表象 |
+| the stakes are high | 利害攸关 | 强调重要性 |
+| be careful, even clinical | 谨慎乃至冷静 | 递进强调 |
+| dismiss sth as... | 斥之为…… | 否定定性 |
+| that much harder | 难那么多 | 强调程度 |
+| be silent on sth | 对……沉默 | 批评回避 |
+| What about...? | 那……怎么说？ | 反问反驳 |
+| frame sth as... | 把某事定性为…… | 批判性写作 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | sway | （影响力，比 influence 更生动） |  |
 | manifest | （显现） |  |
 | disgruntlement | （不满，比 dissatisfaction 更带情绪） |  |
@@ -449,30 +473,6 @@
 | discernible | （可察觉的） |  |
 | temerity | （胆大妄为） |  |
 | reek of | （散发……气息，贬义） |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| 国际关系/安全：`influence | operations`（影响力行动）、`state actors`（国家行为体）、`disinformation`（虚假信息，区别于 misinformation）、`foreign funding`（外国资金）、`trade missions`（贸易代表团） |  |
-| 政治/法律：`advocacy | group`（倡导团体）、`lobby`（游说团体）、`think-tank`（智库）、`the House of Representatives`（众议院）、`the Justice Department`（司法部）、`lay charges`（提起指控）、`federal investigations`（联邦调查）、`moratorium`（暂停令）、`allegations`（指控）、`purported ties`（所谓联系） |  |
-| 科技/产业：`data | centres`（数据中心）、`artificial intelligence`（人工智能）、`cryptocurrency`（加密货币）、`green-tech firms`（绿色科技公司）、`shale-gas exploration`（页岩气勘探）、`power grids`（电网）、`comic strips`（连环漫画） |  |
-| 文化常识：`six | degrees of separation`（六度分隔）、`who benefits?`（拉丁语 cui bono"谁受益"）、`tar and feather`（涂柏油粘羽毛的私刑）→ 动词 `tar |  |
-| 表达 | 含义 | 使用场景 |
-| hold oneself to high standards | 以高标准自律 | 描述严谨作风 |
-| a spate of + 名词 | 一连串（坏事） | 负面事件扎堆 |
-| reflect A as much as B | 既反映 A 也反映 B | 平衡归因 |
-| where things become nasty | 事情变得难堪之处 | 评论转折 |
-| take, for instance... | 以……为例 | 举例 |
-| one thread running through...is that... | 贯穿……的主线是…… | 总结归纳 |
-| it reeks of politics | 明显是政治操弄 | 贬义定性 |
-| beneath the hyperbole | 在夸张之下 | 拨开表象 |
-| the stakes are high | 利害攸关 | 强调重要性 |
-| be careful, even clinical | 谨慎乃至冷静 | 递进强调 |
-| dismiss sth as... | 斥之为…… | 否定定性 |
-| that much harder | 难那么多 | 强调程度 |
-| be silent on sth | 对……沉默 | 批评回避 |
-| What about...? | 那……怎么说？ | 反问反驳 |
-| frame sth as... | 把某事定性为…… | 批判性写作 |
 
 ## 五、长难句专项
 

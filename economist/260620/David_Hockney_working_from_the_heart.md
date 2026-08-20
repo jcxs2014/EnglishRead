@@ -378,34 +378,34 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| adj. | 有名的 |  |
-| adv. | 刻意地 |  |
-| 短语 | 留白 |  |
-| 短语 | 概括 |  |
-| 短语 | 信奉 |  |
-| v. | 不信任 |  |
-| 短语 | 妨碍 |  |
-| n. | 观看的方式 |  |
-| n. | 欢乐的形式 |  |
-| n. | 磨坊小镇 |  |
-| 短语 | 被……吸引 |  |
-| n. | 晒黑的身体 |  |
-| adj. | 自满的 |  |
-| 短语 | 被固定 |  |
-| v. | 开创 |  |
-| n. | 照片拼贴 |  |
-| n. | 立体主义视角 |  |
-| 短语 | 开始使用 |  |
-| n. | 噱头 |  |
-| n. | 证明 |  |
-| adj. | 开朗的 |  |
-| adj. | 好辩的 |  |
-| 短语 | 挑起争吵 |  |
-| 短语 | 服务于 |  |
-| n. | 大量作品 |  |
-| n. | 信念 |  |
-| 短语 | 赞美生活 |  |
-| 短语 | 充满光 |  |
+| adj. | 有名的 | 原句 1 |
+| adv. | 刻意地 | 原句 2 |
+| 短语 | 留白 | 原句 2 |
+| 短语 | 概括 | 原句 4 |
+| 短语 | 信奉 | 原句 5 |
+| v. | 不信任 | 原句 6 |
+| 短语 | 妨碍 | 原句 6 |
+| n. | 观看的方式 | 原句 7 |
+| n. | 欢乐的形式 | 原句 7 |
+| n. | 磨坊小镇 | 原句 9 |
+| 短语 | 被……吸引 | 原句 9 |
+| n. | 晒黑的身体 | 原句 10 |
+| adj. | 自满的 | 原句 11 |
+| 短语 | 被固定 | 原句 12 |
+| v. | 开创 | 原句 13 |
+| n. | 照片拼贴 | 原句 13 |
+| n. | 立体主义视角 | 原句 13 |
+| 短语 | 开始使用 | 原句 14 |
+| n. | 噱头 | 原句 15 |
+| n. | 证明 | 原句 15 |
+| adj. | 开朗的 | 原句 17 |
+| adj. | 好辩的 | 原句 17 |
+| 短语 | 挑起争吵 | 原句 18 |
+| 短语 | 服务于 | 原句 19 |
+| n. | 大量作品 | 原句 22 |
+| n. | 信念 | 原句 22 |
+| 短语 | 赞美生活 | 原句 22 |
+| 短语 | 充满光 | 原句 23 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -423,6 +423,10 @@
 | pick | a fight about colour theory — 为色彩理论争吵 |  |
 | in | service of joy — 服务于欢乐 |  |
 | art | should celebrate life, not merely reflect it — 艺术应赞美而非只反映生活 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | pool | paintings — 泳池画 |  |
 | Polaroids | — 宝丽来照片 |  |
 | the | screen was just another window — 屏幕只是另一扇窗 |  |
@@ -497,3 +501,44 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是"讣告"文体，词汇集中在：**艺术与创作**（working from the heart, way of seeing, photo-collage, draw with light）；**人物性格**（cheerful, argumentative, distrusted, complacent）；**评价与争议**（gimmick, proof that, critics, defenders）；**遗产与信念**（a vast body of work, conviction, celebrate life, in service of joy）。这组词是写作"艺术家追忆"的工具包。
+
+### 表达方式
+
+1. **意象开场**：泳池画（脸留白）——用一幅画作传主名片。
+2. **由画及人**：That summed up his art, and his life——从作品切入人生。
+3. **回环递进**：painting was a way of seeing, and seeing was a form of joy——概念链。
+4. **名言引用**："Art should make you happy"——用直接引语立人物。
+5. **对照结构**：critics vs defenders / cheerful vs argumentative——用对照呈现复杂。
+6. **意象收束**：His pool has no diver, but it will always be full of light——首尾呼应。
+
+### 语法要点
+
+- **分词开头生平句**：Born in 1937 in Bradford, ... he moved to California。
+- **so...that 结果从句**：a style so flat that it feels both real and unreal。
+- **分号对仗**：His critics called it a gimmick; his defenders saw it as proof。
+- **not...but 并列原因**：not because he was angry, but because he cared。
+- **同位语从句**：the conviction that art should celebrate life。
+- **as if 省略句**：as if afraid of being pinned down。
+
+### 长难句
+
+最值得模仿的是"分词生平句"（原句 9）与"分号对仗"（原句 15）——前者适合人物传记开头，后者适合呈现争议。
+
+### 写作技巧
+
+- **一句成画**：用一幅画写活一个人——开头即高潮。
+- **细节立人**：晚宴上为色彩理论吵架——一个轶事胜过十句评价。
+- **哲学与轶事交替**：从心作画（哲学）→ 晚宴吵架（轶事）——虚与实互证。
+- **首尾呼应**：泳池开场，泳池收束——意象闭环。
+
+### 可迁移表达
+
+- "working from the heart" — 用于"凭直觉/真心做事"。
+- "a portrait of everyone and no one" — 用于"普世性"。
+- "painting was a way of seeing" — 用于"X 是理解世界的方式"。
+- "in service of joy" — 用于"为……服务"的高级表达。
+- "X died, leaving behind a body of work and a conviction" — 用于讣告/追忆收尾。

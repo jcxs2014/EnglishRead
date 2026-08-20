@@ -568,33 +568,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| lead（领先地位）/ | edge（优势）/ gap（差距） |  |
-| release | / launch（发布） |  |
-| capable | 能力） |  |
-| cost | affordable（成本 / 价格 / 负担得起） |  |
-| rival | race（对手 / 竞争 / 竞赛） |  |
-| charge（收费）/ | budget（预算） |  |
-| benchmark | 基准测试 |  |
-| reliable | 可靠性） |  |
-| open-source | 开源的 |  |
-| performance | 性能、表现 |  |
-| disrupt（颠覆） | / unsettling（令人不安的） |  |
-| hinge on | 取决于 |  |
-| compelling | 合时宜） |  |
-| grapple with | 奋力应对 |  |
-| assess | 估算） |  |
-| pessimistic | outclass（悲观 / 前景 / 远超） |  |
-| metric | 指标 |  |
-| consistent | 一致的 |  |
-| outperform | 表现优于 |  |
-| allegedly | 无意中） |  |
-| impose | revocation（施加 / 干预 / 撤销） |  |
-| regulatory | 监管的 |  |
-| identify | 识别、发现 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | frontier | intelligence / frontier AI（前沿智能） |  |
 | weights | 参数） |  |
 | tokens | 输出 token） |  |
@@ -623,6 +596,37 @@
 | be subject to | 受制于 |  |
 | powerful enough to | 强大到足以 |  |
 | one day after... | 在……次日 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| disrupt（颠覆） | / unsettling（令人不安的） |  |
+| hinge on | 取决于 |  |
+| compelling | 合时宜） |  |
+| grapple with | 奋力应对 |  |
+| assess | 估算） |  |
+| pessimistic | outclass（悲观 / 前景 / 远超） |  |
+| metric | 指标 |  |
+| consistent | 一致的 |  |
+| outperform | 表现优于 |  |
+| allegedly | 无意中） |  |
+| impose | revocation（施加 / 干预 / 撤销） |  |
+| regulatory | 监管的 |  |
+| identify | 识别、发现 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lead（领先地位）/ | edge（优势）/ gap（差距） |  |
+| release | / launch（发布） |  |
+| capable | 能力） |  |
+| cost | affordable（成本 / 价格 / 负担得起） |  |
+| rival | race（对手 / 竞争 / 竞赛） |  |
+| charge（收费）/ | budget（预算） |  |
+| benchmark | 基准测试 |  |
+| reliable | 可靠性） |  |
+| open-source | 开源的 |  |
+| performance | 性能、表现 |  |
 
 ## 五、长难句专项
 

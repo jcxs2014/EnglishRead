@@ -754,3 +754,83 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+banned for、has some merit、controversial、left-wing influencers、blocked from entering、shabby behaviour、sees itself as、the birthplace of free speech、a cultural norm、is eroded、turned away at the border、the home secretary、judged that、conducive to、extraordinarily vague、high-profile foreigners、unhinged、ramblings、was cited as justification、far-righters、a rabble-rouser、discretionary power、afforded to、sparingly、incitement to violence、the furore over、meet that threshold、offensive、bonkers、pose a threat to、any more than、gave sanctuary to、social-media disciples、the likes of、tune into、suppress their speech、seek them out、provocateurs、no excuse、press ... to、blunt the tools、the rich and powerful、ruinous costs、an egregious example、gagged by、under siege、it is shameful that、a bastion of tolerance、vigorous debate、censorious、keep people safe from、shield them from、makes a habit of、endorses the views、lobby for bans
+
+### 2. 本文核心表达
+
+1. `The country ... should not be frightened of his modern social-media disciples` — 曾庇护马克思的国家不应害怕其现代社交媒体信徒
+2. `Direct and deliberate incitement to violence is unlawful; it may well be right to exclude someone with a history of such behaviour` — 直接蓄意的暴力煽动才是非法；拒有暴力史者或属正确
+3. `Hurtful, disturbing or disgusting views ... do not meet that threshold` — 伤人/令人不安/作呕的观点达不到那个门槛
+4. `does not pose a threat to Britain, any more than the protesters arrested just for holding signs ... do` — 他不构成威胁，正如仅因举牌被捕的抗议者不构成威胁
+5. `the attempt to suppress their speech makes it more likely that Britons will seek them out` — 压制言论反而让英国人更去搜他们（史翠珊效应）
+6. `Parliament should press the government to stop using its powers so casually` — 议会应敦促政府停止如此随意地使用权力
+7. `The government's job is to keep people safe from actual violence, not to try to shield them from words that might upset them` — 政府职责是护人免受实际暴力，而非屏蔽让他们不高兴的话（核心金句）
+8. `If it makes a habit of banning visiting speakers, it will create the impression that it endorses the views of the people it does let in` — 若养成禁言习惯，会给人"认可被放行者"的印象（滑坡）
+9. `It will encourage more and more activists to lobby for bans on foreigners whose ideas they disagree with` — 将鼓励越来越多活动家游说禁令（滑坡二）
+10. `And it will make Britain less free` — 这将使英国变得更不自由（收束）
+
+### 3. 重要语法
+
+- **直接引语开头**：`"I've been banned for criticising Israel. Are we free any more?"`
+- **That 主语从句 + 分号递进**：`That people should be able to ...
+  is not just a right for citizens; it is a cultural norm ...`
+- **破折号插入同位语**：`Kanye West—a rapper with ...—from performing`
+- **any more than 对比否定**：`does not pose a threat ... any more than ... do`
+- **形式宾语 it + that 从句**：`makes it more likely that Britons will seek them out`
+- **Nor 部分倒装**：`Nor will visa bans ... stop Britons from hearing`
+- **with 复合结构**：`With free speech under siege`
+- **it is shameful that + should**：`it is shameful that Britain ... should be so censorious`
+- **对比不定式（金句）**：`is to keep people safe ... , not to try to shield them ...`
+- **if 条件 + 同位语从句**：`create the impression that it endorses ...`
+
+### 4. 长难句
+
+- 原句 5：That 主语从句 + 分号递进
+- 原句 6：because 原因从句 + 法规引语
+- 原句 8：破折号插入 + which 从句
+- 原句 16：any more than 对比否定
+- 原句 20：形式宾语 it + that 从句
+- 原句 22：As 介词短语 + who 从句
+- 原句 27：超长 when 从句（同位语 + 分词堆叠）
+- 原句 29：对比不定式金句
+
+### 5. 写作技巧
+
+1. **当事人之声开头**：`"I've been banned for criticising Israel. Are we free any more?"`——以当事人原话（引语）开场，先让"受难者"发出声音，再进入议题，直击读者的情绪与好奇
+2. **让步建立公信力**：`Mr Piker has many opinions that reasonable people find offensive or simply bonkers`——先承认观点糟糕（offensive or bonkers），再论证"即使糟糕也不该禁"——"不退让的诚实"让论证更有力
+3. **证据清单式呈现**：`He thinks bank robberies are "cool"; says ...; and once opined: "..."`——不辩护，先把 Piker 的极端言论坐实（三连动词 + 直接引语），让"该不该禁"的讨论站在事实基础上
+4. **any more than 等量对照**：`not pose a threat ... any more than the protesters arrested just for holding signs`——把网红与"举牌抗议者"等量并置，揭示"被罚的都是观点而非危害"
+5. **历史反讽升华**：`The country that once gave sanctuary to Karl Marx should not be frightened of his modern social-media disciples`——用"收留马克思"的祖训反讽"害怕网红"的现实，一句话把个案升华为价值观
+6. **效果论证（史翠珊效应）**：`the attempt to suppress their speech makes it more likely that Britons will seek them out` + 硬数据（Google searches higher than ever）——用"越禁越火 + 搜索量数据"让禁令的无效性无可辩驳
+7. **法律语言批判**：`extraordinarily vague standard` / `discretionary power` / `meet that threshold`——用"含糊标准、裁量权、门槛"等法律术语拆解权力，把道德批判穿上"制度分析"的外衣
+8. **核心金句结构**：`The government's job is to keep people safe from actual violence, not to try to shield them from words that might upset them`——"是 A 而非 B"的对比不定式 + "actual（实害）vs might upset（可能难过的情绪）"的轻重对照，一句界定国家权力边界
+9. **BlancokeOrGag 滑坡论证**：`If it makes a habit of banning ... create the impression ... / encourage more and more activists to lobby / make Britain less free`——三次"如果→那么"推演后果：误导公众、助长排异、终致不自由——层层加码
+10. **标题谐音与图像呼应**：标题"Gag reflex"（堵嘴反射）与配图（嘴被国旗红十字封住）呼应正文 gagged（堵嘴）、Muzzled Britannia（消音的英国）——视觉与文字统一在"禁言"主题
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `has some merit` | 有道理 | The argument has merit. |
+| `blocked from doing` | 被阻止做 | Blocked from entering. |
+| `sees itself as` | 把自己视为 | Sees itself as a leader. |
+| `turn away at the border` | 边境拒绝 | Turned away at the border. |
+| `be conducive to` | 有利于 | Conducive to the public good. |
+| `meet a threshold` | 达到门槛 | Do not meet the threshold. |
+| `pose a threat to` | 构成威胁 | Pose a threat to security. |
+| `any more than ... do` | 并不比……更 | No more than the others do. |
+| `the likes of` | 像……之类的 | The likes of Mr West. |
+| `tune into` | 关注、收看 | Tune into the show. |
+| `seek out` | 主动找 | Seek out the truth. |
+| `no excuse` | 不是借口 | Ignorance is no excuse. |
+| `press ... to do` | 敦促 | Press the government to act. |
+| `blunt the tools` | 削弱手段 | Blunt the power. |
+| `under siege` | 遭受围攻 | Press freedom under siege. |
+| `a bastion of` | ……的堡垒 | A bastion of democracy. |
+| `keep sb safe from` | 保护免受 | Keep the public safe. |
+| `shield sb from` | 使其免受 | Shield children from. |
+| `make a habit of` | 养成习惯 | Make a habit of banning. |
+| `lobby for` | 游说促成 | Lobby for a ban. |

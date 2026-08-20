@@ -889,7 +889,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 词汇 / 表达 | 释义 | 例句 |
 | shake the establishment | 撼动体制 | HE HARDLY SEEMS the guy to shake China's scientific establishment. |
 | dropout-turned-influencer | 辍学转型网红（连字符身份词） | A PhD dropout-turned-influencer. |
 | leaven with | 用……调剂（本义加酵母） | Leavened with cartoon memes. |
@@ -951,6 +950,7 @@
 | pandemic | — 大流行病 |  |
 | dorm | — 宿舍 |  |
 | meme | — 梗图 |  |
+| followers | — 粉丝--- |  |
 
 ## 四、长难句专项
 

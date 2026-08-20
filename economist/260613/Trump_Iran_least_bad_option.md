@@ -596,7 +596,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 词汇 / 表达 | 释义 | 例句 |
 | once again | 再一次 | Once again, Iran has been defeated. |
 | completely defeated | 彻底击败 | Iran has been "completely defeated". |
 | Confusingly | 令人困惑地 | Confusingly, the Bully ... |

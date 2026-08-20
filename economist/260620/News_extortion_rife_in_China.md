@@ -364,32 +364,32 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| n. | 董事 |  |
-| v. | 索要 |  |
-| v. | 拒绝 |  |
-| n. | 孤立事件 |  |
-| n. | 自媒体运营者 |  |
-| n. | 负面曝光 |  |
-| 短语 | 勒索钱财 |  |
-| n. | 敲诈 |  |
-| v. | 繁盛 |  |
-| 短语 | 几乎不受监管 |  |
-| n. | 注意力经济 |  |
-| adj. | 可信的 |  |
-| 短语 | 病毒式传播 |  |
-| v. | 摧毁 |  |
-| n. | 公关团队 |  |
-| 短语 | 盘算着 |  |
-| 短语 | 引注意 |  |
-| 短语 | 被抹黑 |  |
-| adj. | 低风险 |  |
-| n. | 作恶者 |  |
-| n. | 监管环境 |  |
-| adj. | 获许可的 |  |
-| n. | 讽刺 |  |
-| v. | 容忍 |  |
-| 短语 | 打压 |  |
-| adj. | 有利可图的 |  |
+| n. | 董事 | 原句 1 |
+| v. | 索要 | 原句 2 |
+| v. | 拒绝 | 原句 3 |
+| n. | 孤立事件 | 原句 5 |
+| n. | 自媒体运营者 | 原句 6 |
+| n. | 负面曝光 | 原句 6 |
+| 短语 | 勒索钱财 | 原句 6 |
+| n. | 敲诈 | 原句 7 |
+| v. | 繁盛 | 原句 8 |
+| 短语 | 几乎不受监管 | 原句 8 |
+| n. | 注意力经济 | 原句 9 |
+| adj. | 可信的 | 原句 9 |
+| 短语 | 病毒式传播 | 原句 10 |
+| v. | 摧毁 | 原句 10 |
+| n. | 公关团队 | 原句 11 |
+| 短语 | 盘算着 | 原句 11 |
+| 短语 | 引注意 | 原句 13 |
+| 短语 | 被抹黑 | 原句 14 |
+| adj. | 低风险 | 原句 15 |
+| n. | 作恶者 | 原句 15 |
+| n. | 监管环境 | 原句 16 |
+| adj. | 获许可的 | 原句 17 |
+| n. | 讽刺 | 原句 18 |
+| v. | 容忍 | 原句 18 |
+| 短语 | 打压 | 原句 19 |
+| adj. | 有利可图的 | 原句 21 |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
@@ -404,6 +404,10 @@
 | under | pressure to attract investment — 迫于招商引资压力 |  |
 | two | sides of the same coin — 同一枚硬币的两面 |  |
 | find | a way to thrive — 找到兴旺之道 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | allegation | — 指控 |  |
 | independent | journalism — 独立新闻业 |  |
 | media | outlets — 媒体机构 |  |
@@ -474,3 +478,44 @@
 ---
 
 ## 四、精读结束总结
+
+### 核心词汇
+
+本文是"社会问题调查"文本，词汇集中在：**敲诈与勒索**（extortion, extract money, demanded, perpetrators）；**传播与曝光**（bad publicity, go viral, draw attention, devastated）；**监管与控制**（media controls, regulatory environment, licensed, crackdown）；**权衡与算计**（calculate, paying is cheaper than fighting, lucrative, tolerate）。这组词是分析"制度漏洞下灰色产业"的工具包。
+
+### 表达方式
+
+1. **悬念开场**：received a phone call he did not expect——用悬念带出案例。
+2. **案例-机制-土壤结构**：个案 → 普遍机制 → 流量经济 → 监管矛盾——由具体到抽象。
+3. **命名句式**：The practice has a name: "news extortion"——给现象命名。
+4. **金句式概括**：two sides of the same coin——用俗谚收束分析。
+5. **对称收尾**：The victims will keep paying, and the extortionists will keep collecting——对称句式冷峻定格。
+6. **讽刺笔法**：The irony is that ...——点出制度悖论。
+
+### 语法要点
+
+- **省略 that 定语从句**：a phone call he did not expect。
+- **并列谓语**：said he was a journalist, and demanded 30,000 yuan。
+- **分词插入**：A critical article, written in the right tone, can go viral。
+- **where 定语从句**：a system where extortion is low-risk。
+- **As long as 条件句**：As long as the media remain controlled。
+- **过去分词作宾补**：see a company's name dragged through the mud。
+
+### 长难句
+
+最值得模仿的是"between A and B 缝隙"（原句 8）与"As long as 条件句"（原句 21）——前者适合概括制度背景，后者适合陈述结构性必然。
+
+### 写作技巧
+
+- **案例开场**：用一个具体受害者的故事开头，比抽象论述更有力。
+- **多因素归因**：机制/流量/监管——敲诈不是单一原因，而是系统产物。
+- **受害者视角**：为什么不敢报警——从两难解释沉默。
+- **制度悖论**：严控媒体反而让敲诈无监督——讽刺是调查报道的锐器。
+
+### 可迁移表达
+
+- "X is not an isolated case" — 用于"从个案到普遍"。
+- "The practice has a name: ..." — 用于"给现象命名"。
+- "A and B are two sides of the same coin" — 用于"一体两面"。
+- "There is little prospect of reform" — 用于"改革前景渺茫"。
+- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。

@@ -622,3 +622,78 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+bowels、police cordon、blocking traffic、circulating、rumour mill、crashing into、were believed to have been killed、in years、within hours of、virtually all、vanished、state news agency、mention、returned few results、deleted、heavy-handedness、panic about、deep-seated fear、reveal damaging、mangled、response times、emergency services、embarrassing、clamped down、characteristic speed、censors、fits a pattern、confronted with、instinct is to、suppress rather than provide、the more the more、hysterically、politically sensitive、the seat of power、the glare of publicity、expose to、long-established、went to extraordinary lengths、banned reporting on、control the narrative、in the case of、backfired、leaks out、more serious than officially admitted、full of speculation、alarming、the facts warrant、in effect、increased rather than reduced、uncertainty、approach to、fundamental attitude、views as、a threat to be managed、a right to be respected、as long as、distrust、official account、textbook example、that dynamic
+
+### 2. 本文核心表达
+
+1. `in the bowels of Beijing's second ring road` — 北京二环的地下深处
+2. `the rumour mill said` — 谣言作坊说（信息未证实的标记）
+3. `within hours of the crash, virtually all information about it had vanished` — 坠机后数小时内信息几乎全部蒸发
+4. `Such heavy-handedness is not the result of panic about the accident itself` — 高压不是怕事故本身
+5. `its instinct is to suppress information rather than provide it` — 本能是压制而非提供
+6. `The more dramatic the event, the more hysterically the authorities react` — 事件越戏剧性，反应越歇斯底里
+7. `the glare of publicity` — 公众关注的聚光灯
+8. `went to extraordinary lengths to suppress` — 竭尽非常手段压制
+9. `not to inform the public but to control the narrative` — 不是告知公众而是控制叙事
+10. `The strategy has backfired` — 策略适得其反
+11. `much of it more alarming than the facts warrant` — 其中许多比事实更惊人（独立主格）
+12. `increased uncertainty rather than reduced it` — 增加而非减少不确定性
+13. `It views information as a threat to be managed, not a right to be respected` — 信息是需管理的威胁而非需尊重的权利（警句）
+14. `The more dramatic the event, the more people will distrust the official account` — 事件越戏剧性，越多人不信任官方说法
+15. `a textbook example of that dynamic` — 那种动态的教科书式例证
+
+### 3. 重要语法
+
+- **三重被动不定式**：`were believed to have been killed`
+- **同位语从句**：`the fear that the smallest detail could reveal...`
+- **省略 that 的定语从句**：`an event it cannot fully control`、`the way the regime rules`
+- **独立主格**（absolute construction）：`much of it more alarming than the facts warrant`
+- **the more...the more 比较**：`The more dramatic the event, the more hysterically...`
+- **not A but B / not A rather than B**：`not to inform the public but to control the narrative`
+- **views A as B**：`views information as a threat to be managed`
+- **插入语**：`in effect`、`in the case of`
+- **分号连接**：`In 2022...; the authorities banned...`
+- **冒号解释**：`The incident fits a pattern: ...`
+- **被动语态**：`were deleted`、`were banned`、`was blocking`
+
+### 4. 长难句
+
+- 原句 4：三重被动不定式
+- 原句 10：同位语从句 + the way 定语从句嵌套
+- 原句 13：冒号解释 + whenever 从句 + 省略 that 定语从句
+- 原句 23：独立主格结构
+- 原句 26：as 补语对比 + 不定式被动
+
+### 5. 写作技巧
+
+1. **悬念式文学化开场**：`FORTY-FIVE metres below the surface...something dramatic was happening`——用精确深度 + 模糊事件制造悬念，新闻写作的"钩子"技巧
+2. **模糊性是主题**：全文用 `some kind of tunnel`、`the rumour mill said`、`were believed to`、`more serious than officially admitted`——每个模糊表达都在重现"信息真空"，形式与内容统一
+3. **"fits a pattern"归纳法**：先写个案，再用两个历史先例（2015 天津、2022 北京）归纳模式，最后升华到"制度本能"——从具体到抽象的论证链
+4. **数字式段落结构**：`matters for three reasons`（A23a 篇）、`wrong for two reasons`（AI 篇）——本文件用 `deep-seated fear` 等词点明主题，数字结构在其他文章中用得更多
+5. **双 the more...the more 呼应**：第 14 段（事件越大→反应越失控）与第 27 段（事件越大→信任越少）——首尾呼应的"比例律"，形成完整的逻辑闭环
+6. **对比警句**：`a threat to be managed, not a right to be respected`——字字对仗的定性句，一句话概括全文分析结论
+7. **反讽语气**：`hysterically`（歇斯底里）、`textbook example`（教科书范例）、`characteristic speed`（标志性速度）——用中性词写负面行为，暗藏批判
+8. **三层递进收尾**：态度揭示（25）→ 信息哲学（26）→ 未来预测（27-28）——从分析到预言，余韵悠长
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `in the bowels of` | 深处 | In the bowels of the system. |
+| `the rumour mill` | 传言四起 | The rumour mill went into overdrive. |
+| `within hours of` | 数小时内 | Within hours of the launch. |
+| `fits a pattern` | 符合模式 | The failures fit a pattern. |
+| `confronted with` | 面对 | Confronted with the evidence. |
+| `the more X, the more Y` | 比例关系 | The more we delay, the worse it gets. |
+| `control the narrative` | 掌控说法 | She tried to control the narrative. |
+| `backfire` | 适得其反 | The strategy backfired badly. |
+| `a textbook example` | 典型范例 | A textbook example of bad timing. |
+| `go to extraordinary lengths` | 竭尽所能 | They went to extraordinary lengths to help. |
+| `in effect` | 实际上 | In effect, the plan was shelved. |
+| `the glare of publicity` | 公众注目 | His affairs were exposed to the glare of publicity. |
+| `the seat of power` | 权力中心 | Near the seat of power. |
+| `the facts warrant` | 事实所证明 | More optimistic than the facts warrant. |
+| `as long as that is the case` | 只要如此 | As long as that is the case, we wait. |

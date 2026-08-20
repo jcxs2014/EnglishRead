@@ -287,37 +287,36 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 等级 | 单词 |  |
-| ⭐⭐⭐ | prominent |  |
-| ⭐⭐⭐ | influential |  |
-| ⭐⭐⭐ | detention |  |
-| ⭐⭐⭐ | crackdown |  |
-| ⭐⭐⭐ | broaden |  |
-| ⭐⭐⭐ | raise (with) |  |
-| ⭐⭐⭐ | serve |  |
+| prominent | 知名的、显要的 | He played a prominent role in the talks. |
+| influential | 有影响力的 | One of the most influential books of the century. |
+| detention | 拘留、羁押 | He was held in detention for two years. |
+| crackdown | 打击、整治 | The police launched a crackdown on drunk driving. |
+| broaden | 扩大、拓宽 | Travel broadens your horizons. |
+| raise (with) | 提出（问题/案件） | I'll raise the matter with the manager. |
+| serve | 服刑；服务 | He is serving 20 years for fraud. |
+| reportedly | 据报道 | The talks reportedly broke down last night. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ⭐⭐⭐ | reportedly |  |
-| ⭐⭐⭐ | remain |  |
-| ⭐⭐⭐ | authorities |  |
-| ⭐⭐⭐ | release |  |
-| ⭐⭐⭐ | known as |  |
-| ⭐⭐ | reach (n.) |  |
-| ⭐⭐ | tycoon |  |
-| ⭐⭐ | pro-democracy |  |
+| remain | 保持（系动词） | The cause of the fire remains unknown. |
+| authorities | 当局、官方 | The authorities have launched an investigation. |
+| release | 释放 | The hostages were released unharmed. |
+| known as | 被称为、又名 | Xi'an, known as the city of history. |
+| reach (n.) | 覆盖面、影响范围 | Social media gave the movement global reach. |
+| tycoon | 大亨、巨头 | A property tycoon bought the island. |
+| pro-democracy | 亲民主的 | Pro-government rallies filled the square. |
+| conspiracy | 共谋、阴谋 | He was jailed for conspiracy to defraud. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ⭐⭐ | conspiracy |  |
-| ⭐⭐ | collude / collusion |  |
-| ⭐⭐ | locked up |  |
-| ⭐⭐ | pastor |  |
-| ⭐⭐ | jail |  |
-| ⭐ | Zion |  |
-| ⭐ | house church |  |
+| collude / collusion | 勾结、串通 | The two firms were accused of collusion. |
+| locked up | 被关押（口语） | They locked him up for 15 years. |
+| pastor | 牧师（新教） | The pastor led the congregation in prayer. |
+| jail | 监狱 | He spent five years in jail. |
+| Zion | 锡安（圣经地名） | — |
+| house church | 家庭教会（术语） | — |
 
 ## 五、长难句专项
 

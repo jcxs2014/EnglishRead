@@ -1965,6 +1965,22 @@
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gimmicky | adj. 花哨的、噱头的 |  |
+| stubbornly | adv. 顽固地 |  |
+| mouthpiece | n. 喉舌、代言 |  |
+| threadbare | adj. 磨破的；破旧不堪的 |  |
+| agitate | v. 鼓动、争取 |  |
+| profess | v. 公开宣称 |  |
+| aversion | n. 厌恶 |  |
+| welfarism | n. 福利主义 |  |
+| disruptive | adj. 颠覆性的 |  |
+| creative | destruction n. 创造性破坏（熊彼特经济学概念） |  |
+| embodied | intelligence n. 具身智能（AI术语） |  |
+| choukashi | n. 抽卡师（AI时代新造词） |  |
+
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -2001,18 +2017,6 @@
 | grim | adj. 严峻的、阴沉的 |  |
 | subsidy | n. 补贴 |  |
 | flourish | v. 兴旺、繁荣 |  |
-| gimmicky | adj. 花哨的、噱头的 |  |
-| stubbornly | adv. 顽固地 |  |
-| mouthpiece | n. 喉舌、代言 |  |
-| threadbare | adj. 磨破的；破旧不堪的 |  |
-| agitate | v. 鼓动、争取 |  |
-| profess | v. 公开宣称 |  |
-| aversion | n. 厌恶 |  |
-| welfarism | n. 福利主义 |  |
-| disruptive | adj. 颠覆性的 |  |
-| creative | destruction n. 创造性破坏（熊彼特经济学概念） |  |
-| embodied | intelligence n. 具身智能（AI术语） |  |
-| choukashi | n. 抽卡师（AI时代新造词） |  |
 
 ## 长难句专项
 

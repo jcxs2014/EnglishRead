@@ -437,3 +437,67 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+coyly、unaccountable、turnover、contrasts with、unending、satire、cynical、envy、transparency、elitist、state-run、chaotic、deep-seated、naive、bureaucracy、dared to、in power、a gift to、pushes for、the late
+
+### 2. 本文核心表达
+
+1. `It was not hard to guess` — 显而易见
+2. `yet more evidence` — 又一条证据
+3. `has been a gift to` — 正中下怀
+4. `makes ... look` — 使……显得
+5. `rather than` — 而不是
+6. `unlikely but devoted` — 出乎意料却忠实
+7. `in part thanks to` — 部分由于
+8. `pushes for` — 力主
+9. `have a right to know / be ignorant` — 知情权 / 无知权（对称）
+10. `contrasts with` — 与……对比
+11. `In power since` — 执政以来
+12. `dared to say it` — 竟敢说出（自我审查）
+
+### 3. 重要语法
+
+- **It 形式主语**：`It was not hard to guess how ...`
+- **倒装引述**：`coyly asked the People's Daily` / `said Mr Cui`（引语先行 + 主谓倒装）
+- **that 同位语从句**：`evidence that liberal democracies are unstable`
+- **插入语标记话语来源**：`they suggested` / `of course`
+- **分词短语作后置定语**：`a video ... circulating on social media`
+- **分词短语作状语（省略主语）**：`Commenting on Sir Keir's resignation, one user wrote`
+- **对比结构**：`only care about winning elections, rather than improving things` / `unlikely but devoted`
+- **make + 宾语 + 省略 to 不定式**：`makes China's system look more stable`
+- **引号标记转述**：官媒话语与网民话语全程用引号保持距离
+- **对称句**：`a right to know` vs `a right to be ignorant`
+
+### 4. 长难句
+
+- 原句 1（It 形式主语 + 宾语从句嵌套）
+- 原句 3（引语倒装 + 多层同位语）
+- 原句 6（引语先行 + 多层后置修饰）
+- 原句 19-20（对比句 + 分词状语）
+
+### 5. 写作技巧
+
+1. **"弦外之音"收尾**：全篇最锋利的判断（中国人不敢说"羡慕领导人更替"）不靠作者断言，而靠两句网民对话（"I envy..." / "You dared to say it"）自然浮出——**用引语代替评论**
+2. **引号的距离管理**：中国官媒与网民话语全程加引号，作者保持报道者身份；唯一的作者评论是形容词（coyly、ugly、unending），用词精到而不直接批判
+3. **跨文化讽刺的双向解读**：同一部《是，大臣》——英国观众看它讽刺英国官僚，中国观众看它讽刺自己的体系——用一个文本呈现两种政治现实，构思精妙
+4. **对称对白制造记忆点**：`a right to know` vs `a right to be ignorant` 用最小改动（know→ignorant）达到最大反讽
+5. **极短句做"锤子式"停顿**：`Quotes are shared online`（4词）、`It makes China's system look more stable`（6词）——在长句间插入短句，控制节奏
+6. **事实前置的分词结构**：`In power since 2012, he removed presidential term limits in 2018` 用分词短语压缩背景，主句快速推进
+7. **层层递进的结构**：官媒嘲讽 → 网民共鸣 → 喜剧流行 → 台词传播 → 自况 → 禁忌表达，从外部叙事逐步收向最私密、最敏感的真实
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `It was not hard to guess` | 写作/分析 | It was not hard to guess the outcome. |
+| `has been a gift to` | 分析评论 | The scandal was a gift to the opposition. |
+| `makes ... look` | 论证 | It makes the proposal look feasible. |
+| `unlikely but devoted` | 描述反差 | An unlikely but devoted fanbase. |
+| `pushes for` | 政策/职场 | She pushed for stricter rules. |
+| `contrasts with` | 对比分析 | His optimism contrasts with reality. |
+| `In power since 2012` | 时间陈述 | In office since 2019, she has cut costs. |
+| `dare to do` | 强调勇气/胆量 | Few dare to challenge the consensus. |
+| `a gift to` | 评论 | The leak was a gift to journalists. |
+| `rather than` | 对比论证 | Invest in prevention rather than cure. |

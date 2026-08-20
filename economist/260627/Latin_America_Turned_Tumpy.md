@@ -1041,48 +1041,6 @@ P8  结论（呼吁）     制度 > 总统；祈使句收束
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 单词 | 文中义 | 备注 |
-| win / hold elections | 赢下 / 举行选举 | 政治新闻基本动词 |
-| leader | 领导人 | 中性词，社论常用 |
-| promises to | 承诺做 | promise to do 基本搭配 |
-| popular | 受欢迎的 | prove popular 固定搭配 |
-| rely on | 依赖 | 与 depend on 同义 |
-| trade | 贸易 | trade with 搭配 |
-| direct | 直接的 | direct help |
-| helped | 帮助 | help sb do sth |
-| produce / export | 生产 / 出口 | 经贸基础词 |
-| military | 军事的 | military co-operation |
-| safety / safe | 安全 | as safe as 同级比较 |
-| fight | 斗争 | the fight against |
-| victims | 受害者 | 新闻高频 |
-| price | 价格 | the price tends to rise |
-| rise | 上涨 | 与 increase 替换使用 |
-| investors | 投资者 | 财经新闻高频 |
-| attracted | 被吸引 | be attracted to |
-| investment | 投资 | 与 attract 搭配 |
-| risks | 风险 | bring risks |
-| friends | 朋友 | be friends with |
-| barring | （除……之外）——介词，比 except 正式 |  |
-| sizeable | （相当大的） |  |
-| pendulum | （钟摆，政治隐喻） |  |
-| courts | （动词：讨好）——注意与名词"法院/球场"区分 |  |
-| ideologically | （意识形态上） |  |
-| atypical | （非典型的）——a- 否定前缀 |  |
-| constricting | （压缩、收紧） |  |
-| incentive | （激励、动机）——经济学高频 |  |
-| detectable | （可察觉的） |  |
-| pliable | （易摆布的）——贬义形容词 |  |
-| counterparts | （对应方、同行） |  |
-| recapture | （夺回） |  |
-| suspend | （中止）——suspend civil liberties 搭配 |  |
-| dissidents | （异见者） |  |
-| avert | （避免）——avert a crisis 搭配 |  |
-| extended | （提供）——extend credit/a loan |  |
-| aversion | 类词族：注意与 extend（延伸）区分 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | 政治类：right-wingers | leftists（政治光谱三件套）、populists（民粹主义者）、president-elect（当选总统）、civil liberties（公民自由）、the rule of law（法治）、democratic institutions（民主制度）、came to power（上台执政） |  |
 | 经济类：tariffs（关税）、credit | line（信贷额度）、currency crisis（货币危机）、the availability of drugs（可获得性） |  |
 | 法律/治安类：without | trial（未经审判）、extortion（敲诈勒索）、drug-smuggling（毒品走私）、locked up（关押）、snitch on（告发） |  |
@@ -1111,6 +1069,51 @@ P8  结论（呼吁）     制度 > 总统；祈使句收束
 | -sounding | ：tough-sounding（听起来强硬的）——形容词 + 动名词复合 |  |
 | mega- | ：mega-prisons（巨型监狱）；`pan-`：pan-American（泛美洲的）——两个表"大/全"的前缀 |  |
 | a- | ：atypical（非典型的）；`-less`：ruthless（无情的）——否定前缀/后缀 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| barring | （除……之外）——介词，比 except 正式 |  |
+| sizeable | （相当大的） |  |
+| pendulum | （钟摆，政治隐喻） |  |
+| courts | （动词：讨好）——注意与名词"法院/球场"区分 |  |
+| ideologically | （意识形态上） |  |
+| atypical | （非典型的）——a- 否定前缀 |  |
+| constricting | （压缩、收紧） |  |
+| incentive | （激励、动机）——经济学高频 |  |
+| detectable | （可察觉的） |  |
+| pliable | （易摆布的）——贬义形容词 |  |
+| counterparts | （对应方、同行） |  |
+| recapture | （夺回） |  |
+| suspend | （中止）——suspend civil liberties 搭配 |  |
+| dissidents | （异见者） |  |
+| avert | （避免）——avert a crisis 搭配 |  |
+| extended | （提供）——extend credit/a loan |  |
+| aversion | 类词族：注意与 extend（延伸）区分 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| win / hold elections | 赢下 / 举行选举 |  |
+| leader | 领导人 |  |
+| promises to | 承诺做 |  |
+| popular | 受欢迎的 |  |
+| rely on | 依赖 |  |
+| trade | 贸易 |  |
+| direct | 直接的 |  |
+| helped | 帮助 |  |
+| produce / export | 生产 / 出口 |  |
+| military | 军事的 |  |
+| safety / safe | 安全 |  |
+| fight | 斗争 |  |
+| victims | 受害者 |  |
+| price | 价格 |  |
+| rise | 上涨 |  |
+| investors | 投资者 |  |
+| attracted | 被吸引 |  |
+| investment | 投资 |  |
+| risks | 风险 |  |
+| friends | 朋友 |  |
 
 ## 长难句专项
 

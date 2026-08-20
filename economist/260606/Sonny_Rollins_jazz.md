@@ -1403,3 +1403,125 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+a mere two blocks、found himself、rattling over、hooting、corny、spiritual feeling、practise、endlessly inventive、seamlessly melodic、cutting records、in the same league as、however much、never satisfied with、every so often、hence、sojourns、went on for、passers-by、frame、squeezed、company、pushing further、at the bottom of the ocean、beyond the stars、as yet、ultimate sound、a snatch of、instantly、fulfil、at last、not til then、full to bursting、scraps of、laid down、etudes、piano roll、juke-box tunes、ballads、gramophones、mentored、revered、toting、alto sax、improvisations、drew on、playing quotes、rhythmic、harmonic、variations、aria、cheeky、half-heard、riff、natural unity、with his mind a blank、a fresh thought、subconsciously、a thing with、communion、had to flee、higher powers、bebop、pigeonholed、intricacy、long solos、strictures、suited him、naturally free、fused ... with、calypso、in homage to、celebrated、married it to、funk、collaboration with、not too proud to、backbeat、got rid of、limited his harmonic range、trios、faithfully following along、big-picture stuff、came together、unification、all one、serenity、disguised、rough road、saw ... as his Messiah、was on drugs、used heroin、end up playing like that、all it did was、set him to stealing、served ten months、Rikers Island、rehabilitation、was clean again、stayed that way、set him thinking、considered ... as、in seventh heaven、reveled in、down days、giving back to、to mangle、Golden Rule、doing unto others、karma、inconsequential、multitudes of、gift and glory
+
+### 2. 本文核心表达
+
+1. `lived a mere two blocks away, hadn't noticed those steps before` — 仅两个街区远却从未留意（近却未见）
+2. `found himself on the Williamsburg Bridge above New York's East River` — 发现自己身处大桥上
+3. `Corny or not, it gave him a spiritual feeling to be there` — 无论是否俗气，身处此地让他有精神感受
+4. `His tenor saxophone, endlessly inventive, seamlessly melodic, percussive or romantic, was already famous` — 萨克斯早已名满天下（形容词群）
+5. `in 1956 came "Saxophone Colossus", which put him in the same league as his heroes` — 1956 年专辑使他与偶像同级
+6. `however much he was applauded, he was never satisfied with the way he played` — 掌声再多也不满意
+7. `the voice that kept talking inside him would tell him to improve himself` — 内心之声要求提升
+8. `Hence, later, his time in an ashram in India, and hence his daily sojourns on the Williamsburg Bridge` — 因此修行与苦练
+9. `He would play for 15 hours or more` — 常演奏 15 小时以上
+10. `Some passers-by noticed ... and all heard his music, but few spoke to him` — 有人看见、都听见、少有人交谈
+11. `way beyond Sonny Rollins as yet—there was an ultimate sound` — 远未企及的终极声音
+12. `He had no ideas about what it might be, but he would know it when he heard it` — 不知其形，一闻即识
+13. `perhaps twice a year onstage he might get a snatch of it` — 一年两次偶得一鳞半爪
+14. `full to bursting with scraps of musical material` — 音乐素材满得要爆
+15. `the jazz that sounded all over Harlem from clubs and open windows` — 响遍哈莱姆的爵士
+16. `It was as if all music had a natural unity, and he believed it had` — 仿佛所有音乐天然统一，他相信
+17. `walk onto every stage with his mind a blank, waiting for a fresh thought or a fresh note to fall upon it` — 空白登台等待灵感
+18. `He had a *thing* with his horn, a communion` — 与乐器有"缘分"，一种交融
+19. `his saxophone was all he took with him` — 逃难只带萨克斯（9/11）
+20. `he left entirely to the higher powers to provide` — 情感精神交给更高力量
+21. `he wouldn't be pigeonholed that way` — 不愿被贴标签
+22. `He often fused jazz with calypso in homage to his mother` — 融合卡利普索致敬母亲
+23. `He married it to Latin dance rhythms, to funk and even to rock` — 嫁接到拉丁、放克乃至摇滚
+24. `He wasn't too proud to play a backbeat` — 不耻打反拍
+25. `It was the unification of music; it was all one. God, perhaps` — 音乐统合、一切归一，或许是上帝
+26. `His serenity, onstage and off, disguised his rough road to fame` — 宁静掩盖了坎坷
+27. `saw Charlie Parker as his Messiah` — 视帕克为救世主
+28. `All it did was set him to stealing, for which he eventually served ten months at Rikers Island` — 吸毒只让他去偷窃、最终坐牢
+29. `after some tough rehabilitation, he was clean again, and stayed that way` — 艰难戒毒后再次干净
+30. `It was Bird himself who had told him to stop` — 正是帕克劝他戒
+31. `considered music as a gift to *him*` — 一直视音乐为给自己的礼物
+32. `in seventh heaven` — 如登七重天
+33. `was he doing unto others as had been done to him?` — 是否像人待他那样待人（金律变体）
+34. `It seemed to be his karma, ever, to search for these things` — 追寻是宿命
+35. `To learn; to try to get wisdom; to come back and try again, if you didn't` — 学习、求智、重来
+36. `was gift and glory enough` — 已是足够的馈赠与荣光
+
+### 3. 重要语法
+
+- **倒装句**：`in 1956 came "Saxophone Colossus"`、`All around him were pillars`、`Close above him was the open sky`
+- **独立主格**：`hooting boats passing underneath`
+- **分词作伴随/结果状语**：`coming down only for bathroom breaks`、`toting the alto sax`、`waiting for a fresh thought`
+- **with 复合结构**：`with his mind a blank`、`with gloves on`
+- **定语从句省略 that**：`at a bar (that) he liked`、`the scraps (that) he had laid down`、`the alto sax (that) his mother had given him`
+- **宾语前置（主题化）**：`His horn technique he knew he could trust`、`the rest of any piece ... he left to the higher powers`
+- **强调句**：`It was Bird himself who ...`
+- **破折号插入**：`—way beyond Sonny Rollins as yet—`、`—especially, he felt, on the albums ... —`
+- **括号补充**：`(with few exceptions, but some down days)`、`(When he and his wife Lucille had to flee ...)`
+- **分号对照**：`The freshness ... suited him; its strictures didn't`、`It was the unification of music; it was all one`
+- **排比结构**：`To learn; to try to get wisdom; to come back and try again`、`An aria from here, a Broadway ballad from there`
+- **省略句**：`Hence, later, his time in an ashram`、`But not til then`、`God, perhaps`
+- **too...to 否定式**：`He wasn't too proud to play a backbeat`
+- **It was as if ... and he believed it had**（推测→确信递进）
+- **过去完成时**：`hadn't noticed ... before`、`he had been cutting records`
+- **过去习惯 would**：`he would play for 15 hours`、`he would know it when he heard it`
+
+### 4. 长难句
+
+- 原句 1：Though 让步 + 过去完成时
+- 原句 4：独立主格
+- 原句 5-6：倒装句
+- 原句 10：倒装 + 非限定定语从句
+- 原句 16：分词伴随状语 + 定语从句省略
+- 原句 20：破折号插入 + 存在句
+- 原句 21："不知道却认得"悖论
+- 原句 31：as if + 省略
+- 原句 33-36：宾语前置 + 分工对仗
+- 原句 39：分号对照 + 原因从句
+- 原句 46：破折号插入 + 双层定语从句
+- 原句 53：强调句
+- 原句 59：金律变体 + 古语
+- 原句 62：形式主语 + karma
+- 原句 66：as 方式从句 + which 定语从句
+
+### 5. 写作技巧
+
+1. **场景化开头**：讣告不从"罗林斯去世"写起，而从一个夏日爬桥的细节写起——用"某个平凡却改变命运的时刻"开场，比生平简介更动人
+2. **环境逐级展开**：第 1 段用"方位递进"（There → at the top → on the bridge → above the river）配合倒装句（All around him / Close above him），把"圣殿"一步步建构出来
+3. **"近却未见"的铺垫**：a mere two blocks away 与 hadn't noticed before 并置，暗示"真正的发现需要契机"——文学化的命运感
+4. **省略句的节奏**：`Hence, later, his time in an ashram ... and hence his daily sojourns ...`、`But not til then`、`God, perhaps`——省略句制造"结论感/留白感"，在长句连篇中形成呼吸点
+5. **形容词群描写**：`endlessly inventive, seamlessly melodic, percussive or romantic`——用四个无动词形容词堆叠，节奏本身有音乐感，形式呼应"萨克斯"主题
+6. **"不知道却认得"悖论**：`He had no ideas about what it might be, but he would know it when he heard it`——用悖论写艺术追求：目标不可名状却可识别
+7. **数量递减对照**：`Some passers-by noticed ... and all heard ... but few spoke to him`——some/all/few 的数量递进勾勒"看见、听见、走近"的三层人际距离
+8. **宾语前置的分工对仗**：`His horn technique he knew he could trust` / `the rest ... he left to the higher powers`——用对称句式写"技术靠己、精神靠天"的哲学分工
+9. **"God, perhaps"的极简神学**：全文从"音乐统一"推到"一切归一"，最后以两个词"God, perhaps"作结——不确认但敬畏，留白恰到好处
+10. **括号轻声补充**：`(When he and his wife Lucille had to flee ...)`、`(with few exceptions, but some down days)`——括号内的细节不喧宾夺主却极有分量，是"不动声色"的高级叙事
+11. **金律变体**：`To mangle his own Golden Rule a bit, was he doing unto others as had been done to him?`——挪用经典并自嘲（mangle），把"给与取"的伦理之问写得既深刻又谦逊
+12. **拱形结构**：开头的"大桥上推音乐"（pushing further）与结尾的"继续推音乐"（keep on pushing）首尾呼应——一生所求，始于桥、终于桥
+13. **karma 的异文化援引**：`It seemed to be his karma, ever, to search for these things`——用印度教概念解释他的执念，呼应其印度修行，宗教词汇让"追寻"有了宿命重量
+14. **第二人称箴言**：`To learn; to try to get wisdom; to come back and try again, if you didn't`——转第二人称，把个人人生指南升华为对读者的普世赠言
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `lived a mere X away` | 强调距离近 | The office is a mere two minutes away. |
+| `find oneself + 介词` | 不知不觉处于 | He found himself at a crossroads. |
+| `in the same league as` | 与……同级 | His work is in the same league as the masters. |
+| `however much ... never` | 无论多少也不 | However much you try, some things take time. |
+| `every so often` | 时不时 | Every so often, take a break. |
+| `full to bursting` | 满得要溢 | The schedule is full to bursting. |
+| `draw on` | 汲取、借鉴 | The essay draws on personal experience. |
+| `in homage to` | 以示敬意 | The restaurant is named in homage to her grandmother. |
+| `marry A to B` | 将 A 与 B 结合 | The design marries tradition to technology. |
+| `not too proud to do` | 不耻于做 | He's not too proud to ask for help. |
+| `be pigeonholed` | 被贴标签 | Don't let yourself be pigeonholed. |
+| `give back to` | 回馈给 | Find ways to give back to your community. |
+| `set sb thinking` | 引人深思 | The lecture set me thinking. |
+| `in seventh heaven` | 如登七重天 | She was in seventh heaven after the news. |
+| `revel in` | 尽情享受 | He revelled in the challenge. |
+| `be on drugs / be clean` | 吸毒/戒毒 | He's been clean for years. |
+| `pay for one's mistakes` | 自食其果 | He's paying for his early mistakes. |
+| `keep on pushing` | 不断推进 | Keep on pushing your limits. |
+| `to mangle a phrase` | 曲解一句话 | To mangle a well-known saying. |
+| `gift and glory enough` | 足矣 | For me, that was gift and glory enough. |

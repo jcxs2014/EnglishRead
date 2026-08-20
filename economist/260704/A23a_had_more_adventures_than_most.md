@@ -985,3 +985,82 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+calved、siblings、eventful、tepid、gape、scarred、vortex、took up、vantage point、inexorably、graveyard、battered、sprawled、by accident、oozed、obtrusive、chanced by、vexed、mortal、dissolution、a host of、life-cycle、prone to、a bomb of、blooming、fertilise、mixed feelings、emblem、mortality、against the odds、tributes、inevitable、the way of ice、Nothing...but、sank
+
+### 2. 本文核心表达
+
+1. `That is the way of ice` — 冰之道（母题句，首尾呼应）
+2. `Nothing would remain but water` — 除了水什么都不留
+3. `calved ... along with two siblings` — 与两个同胞一起崩解（拟人化出生）
+4. `born ancient` — 一出生便已古老（矛盾修辞）
+5. `huge as they were` — 虽然它们如此庞大（倒装让步）
+6. `It was not until it began to wobble ... that` — 直到……才（强调句）
+7. `a graveyard for its kind` — 它同类的墓地
+8. `Iceberg Alley ... used in 1916 by Ernest Shackleton` — 冰山大道（历史典故）
+9. `took its time` — 不紧不慢
+10. `its immense mass was turned through 15 degrees` — 庞大的躯体被旋转 15 度
+11. `crashing cascades of its own crumbling ice` — 自己崩解的冰的飞泻瀑布（头韵）
+12. `chanced by, not especially meaning to` — 无意间路过
+13. `as if it was a hospital patient` — 仿佛住院病人
+14. `the intense and mortal blue of its melt-pools` — 融水池浓烈而致命的蓝
+15. `like a tooth` — 像一颗牙
+16. `On the one hand ... On the other hand` — 一方面……另一方面
+17. `a bomb of nourishment exploding` — 一颗营养炸弹引爆
+18. `Far from depriving ... bring life to` — 非但不剥夺……反而带来生命
+19. `Tributes were paid to how long it had lasted, against the odds` — 向它逆境中坚持致敬
+20. `Ice returned to water, water to the ocean` — 冰回水，水归海（并列省略）
+21. `its time had come` — 大限已到（委婉语）
+
+### 3. 重要语法
+
+- **倒装让步**：`huge as they were`（形容词 + as + 主 + be）
+- **强调句**：`It was not until ... that ...`；`It was not X that ... as much as Y`
+- **so...that 结果从句**：三连 so 排比 + that
+- **并列省略**：`Ice returned to water, water to the ocean`
+- **头韵**（alliteration）：`crashing cascades ... crumbling`
+- **矛盾修辞**（oxymoron）：`born ancient`
+- **比喻**（metaphor）：`a bomb of nourishment`、`like a tooth`
+- **拟人**（personification）：refused to die、its time had come、vexed researchers
+- **母题句首尾呼应**（bookend motif）：`That is the way of ice`
+- **for 作书面连词**：`for death was inevitable`
+
+### 4. 长难句
+
+- 原句 16：`huge as they were`（倒装让步）
+- 原句 22：同位语插入 + 分词 + 定语从句层层嵌套
+- 原句 50：三连 so 排比 + 结果从句
+- 原句 56：强调句 not...as much as + 省略 that 定语从句
+- 原句 19：It was not until...that... 强调句
+
+### 5. 写作技巧
+
+1. **讣告体的拟人化**：全文把冰山当"逝者"写——calve（产仔出生）、siblings（同胞）、born ancient（生而老）、took its time（从容）、refused to die（拒绝死亡）、its time had come（大限已到）、Tributes were paid（致敬）。通过将自然物"人格化"，讣告体创造情感代入，让读者对一座冰山产生哀悼之情
+2. **母题句首尾呼应**：`That is the way of ice` 在第 1 段和第 10 段原样复现（bookend technique），将全文框定为"冰的生命循环"，死亡观从开场即确立
+3. **文学修辞密度**：头韵（crashing cascades... crumbling）、矛盾修辞（born ancient）、比喻（bomb of nourishment、like a tooth）、双关（calve 产犊/崩解）——一篇科普讣告的文学性远超寻常新闻
+4. **数据与意象交织**：面积、重量、每日 15 度、30 年、40 米——精确数据（verifiable specifics）与诗意意象（mortal blue、blood runnels）交替出现，让文章既有科学质感又有文学余韵
+5. **论证的两面性**：用 On the one hand / On the other hand 结构呈现"危害论 vs 馈赠论"，不回避争议，最后以"死亡是自然循环"的超脱视角收束——讣告的哲学立场
+6. **历史掌故的嵌入**：沙克尔顿与坚忍号（1916）、苏联科考站 Druzhnaya 1、NASA 卫星——用人类历史与科技为一座冰山的"一生"作注，扩大时间与空间尺度
+7. **感官与声音**：用文字唤起听觉（crashing cascades）、视觉（bluer tinge、green cloud）、色彩对比（rusty tanks vs pure white cliffs）——全感官写作
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `Nothing ... but ...` | 强调"仅剩" | Nothing remains but the essentials. |
+| `That is the way of X` | 哲理性总结 | That is the way of the markets. |
+| `huge as they were` | 书面让步 | Talented as she is, she stays humble. |
+| `It was not until ... that` | 强调转折点 | It was not until 2019 that the plan began. |
+| `against the odds` | 逆境成功 | The team won against the odds. |
+| `took its time` | 从容不迫 | She took her time making the decision. |
+| `a host of` | 众多 | A host of challenges await. |
+| `prone to` | 易于倾向 | He is prone to exaggeration. |
+| `a bomb of ...` | 强冲击比喻 | A bomb of ideas exploded in the meeting. |
+| `far from depriving ... bring` | 反转论证 | Far from complicating things, it simplified them. |
+| `mixed feelings` | 复杂情绪 | I have mixed feelings about the move. |
+| `an emblem of` | 象征意义 | The tower is an emblem of the city's rebirth. |
+| `not X as much as Y` | 轻重对比 | It's not the cost as much as the timing. |
+| `Tributes were paid to` | 致敬总结 | Tributes were paid to her lifelong work. |
+| `in X terms` | 换尺度衡量 | In financial terms, it was a loss. |

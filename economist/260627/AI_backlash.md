@@ -925,14 +925,22 @@ AI 也可以让公民更容易监督政治人物的动向。
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| backlash | 强烈反对、反冲 |  |
-| opposition | 反对、反对派 |  |
-| regulate | 监管、管制 |  |
-| productivity | 生产率 |  |
-| disruption | 颠覆性变革 |  |
-| prosperity | 繁荣 |  |
-| futile | 徒劳的 |  |
-| toxic | 有毒的、有害的 |  |
+| data centres | 数据中心 |  |
+| lay-offs | 裁员 |  |
+| wage insurance | 工资保险 |  |
+| AI Security Institute | AI 安全研究所 |  |
+| cyber-attacks | 网络攻击 |  |
+| bioterrorism | 生物恐怖主义 |  |
+| frontier intelligence | 前沿智能 |  |
+| the backlash is only just getting started | 反弹才刚刚开始 |  |
+| bound to change | 必定会改变 |  |
+| get out of the way | 让路 |  |
+| crossing the river by feeling the stones | 摸着石头过河 |  |
+| messy, odd and unpredictable | 混乱、奇怪、不可预测（三连形容） |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | nimbyism | 邻避主义 |  |
 | hair-raising | 令人毛骨悚然的 |  |
 | confect | 捏造、拼凑 |  |
@@ -947,18 +955,14 @@ AI 也可以让公民更容易监督政治人物的动向。
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| data centres | 数据中心 |  |
-| lay-offs | 裁员 |  |
-| wage insurance | 工资保险 |  |
-| AI Security Institute | AI 安全研究所 |  |
-| cyber-attacks | 网络攻击 |  |
-| bioterrorism | 生物恐怖主义 |  |
-| frontier intelligence | 前沿智能 |  |
-| the backlash is only just getting started | 反弹才刚刚开始 |  |
-| bound to change | 必定会改变 |  |
-| get out of the way | 让路 |  |
-| crossing the river by feeling the stones | 摸着石头过河 |  |
-| messy, odd and unpredictable | 混乱、奇怪、不可预测（三连形容） |  |
+| backlash | 强烈反对、反冲 |  |
+| opposition | 反对、反对派 |  |
+| regulate | 监管、管制 |  |
+| productivity | 生产率 |  |
+| disruption | 颠覆性变革 |  |
+| prosperity | 繁荣 |  |
+| futile | 徒劳的 |  |
+| toxic | 有毒的、有害的 |  |
 
 ## 长难句专项
 

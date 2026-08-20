@@ -982,3 +982,114 @@
 ---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+the beautiful game、the boring game、is being hosted by、the international equivalent of、rowing in the kitchen、feature、over the course of、dependably exciting、for neutrals、the average game、pretty drab、stakes、too high to take big risks、hanging on for a draw、pays off、less fancied teams、circulating、a manager whose credentials include、making Arsenal bearable to watch、tweaking the offside rule、turning throw-ins into kick-ins、radical enough、would like to propose、the world game、thrills to、hits one of the posts、the crossbar、count as a goal、attacking intent、amply rewarded、favour、go for it、non-qualifiers、a team of their own、never get to participate、made up of、the highest-ranked players、a second-favourite side、as the match progresses、less and less of、make saves、off-limits、injury time、block the ball、feigns injury、runs a higher risk of、for real、writhe around、in pretend agony、for minutes on end、tedious beyond belief、is judged to have feigned、unpunishable、rolling around on the floor、the drama of violent retribution、either way、a random member of the crowd、is chosen to participate、may well be picked、allegiances、new teammates、It's up to them、wrestling matches、blindfolded、allowed to continue、goes off the field、starts booing、nothing like...to、the promise of permanent residency、as well as、award a green card、dribbles past an opponent、on American soil、memorable figures、did a dance by the corner flag、our point is made、a creative goal celebration、rescind a yellow card、foul play、imaginative、applied within matches、two balls on the field at once、mainly be fun、have an effect on、In extremis、a panel of video assistant referees、award a penalty against、for being too boring、inordinate amounts of time、passing the ball、apparently unaware that、should be punished、just possible、will not be adopted、bold thinking、takes time to become accepted、in the meantime、consolations、could be
+
+### 2. 本文核心表达
+
+1. `Football is the beautiful game. But it's often also the boring game` — 足球是美丽的运动，但往往也是无聊的运动
+2. `the international equivalent of going to a dinner party and hearing the hosts rowing in the kitchen` — 国际上的等价物：去晚宴却听见主人厨房吵架
+3. `watching matches that feature your own nation is dependably exciting, for neutrals the average game is likely to be pretty drab` — 看自家球队必定刺激，中立者看平均比赛相当乏味
+4. `The stakes at a World Cup are too high for players to take big risks` — 世界杯赌注太高，球员不敢冒险
+5. `hanging on for a draw often pays off for less fancied teams` — 死守平局对弱队常很划算
+6. `a manager whose credentials include making Arsenal bearable to watch` — 资历包括"让阿森纳变得能看"的主帅
+7. `these ideas are not radical enough` — 这些想法还不够激进
+8. `the world game is one that the world thrills to` — 让"世界运动"成为世界为之振奋的运动
+9. `If a team hits one of the posts or the crossbar three times, that will count as a goal` — 三次击中门柱算进球
+10. `Attacking intent should be amply rewarded` — 进攻意图应被充分奖励
+11. `A neutral team ... would give everyone a second-favourite side` — 中立队给每个人一支第二主队
+12. `the goalkeeper is allowed to use less and less of his body to make saves` — 门将被允许用身体越来越少扑救
+13. `In injury time the only part of the body that a goalkeeper can use to block the ball is his face` — 补时阶段门将唯一能挡球的部位是脸
+14. `Anyone who feigns injury runs a higher risk of being injured for real` — 假摔者冒"真受伤"的风险
+15. `Watching someone writhe around in pretend agony for minutes on end is tedious beyond belief` — 看人假装痛苦打滚数分钟乏味得难以置信
+16. `the next foul on them will be unpunishable` — 下次对他犯规将不受罚
+17. `Either there will be less rolling around on the floor or there will be the drama of violent retribution. Either way, football is the winner` — 要么打滚变少，要么暴力报复；无论如何足球都赢
+18. `a random member of the crowd is chosen to participate for each team` — 每队随机选一名观众上场
+19. `their allegiances will not be known to anyone, including their new teammates` — 他们的忠诚不为人知，包括新队友
+20. `Corners have become wrestling matches` — 角球已变成摔跤比赛
+21. `everyone on the pitch, including the corner-taker, must be blindfolded` — 场上所有人，包括罚角球的，必须蒙眼
+22. `Play will be allowed to continue until the ball goes off the field or the crowd starts booing` — 比赛继续到球出界或观众喝倒彩
+23. `There's nothing like the promise of permanent residency to make sport exciting` — 没有比永久居留承诺更能让体育刺激的
+24. `the referees will be able to award a green card to any player who dribbles past an opponent` — 裁判将给过人的球员发绿牌
+25. `If that makes football sound boring, our point is made` — 若这让足球听着无聊，我们的观点已立
+26. `the referee can rescind a yellow card for foul play if they are particularly imaginative` — 若庆祝特别有想象力，裁判可撤销一张黄牌
+27. `Competition is always a good thing ... by having two balls on the field at once` — 竞争是好东西……场上一场两球
+28. `This will mainly be fun because of the effect that it will have on referees and commentators` — 这主要因对裁判和评论员的影响而有趣
+29. `In extremis, a panel of video assistant referees can award a penalty against a team for being too boring` — 极端情况下 VAR 组可判"太无聊"点球
+30. `spend inordinate amounts of time passing the ball from one side of the pitch to the other, apparently unaware that the goal is in front of them` — 花大量时间横传，显然没意识到球门就在面前
+31. `It is just possible that these ideas will not be adopted` — 这些想法不会被采纳也是"恰好可能"的
+32. `Bold thinking often takes time to become accepted` — 大胆的想法常需时间被接受
+33. `It could be six and a half weeks of golf` — 那可能是六周半的高尔夫
+
+### 3. 重要语法
+
+- **对仗反转**：`the beautiful game` → `the boring game`
+- **which 非限定从句**：`The World Cup, which starts on June 11th, is being hosted by ...`
+- **同位语比喻**：`the international equivalent of going to a dinner party and hearing the hosts rowing in the kitchen`
+- **although 让步 + 动名词主语**：`Although watching matches that feature your own nation is dependably exciting ...`
+- **too...to 结构**：`too high for players to take big risks`
+- **动名词主语**：`hanging on for a draw often pays off`
+- **whose 定语从句**：`a manager whose credentials include making Arsenal bearable to watch`
+- **such as 举例**：`such as tweaking the offside rule and turning throw-ins into kick-ins`
+- **双宾结构**：`give everyone a second-favourite side`、`award a penalty against a team`
+- **as 时间从句 + 渐进**：`As the match progresses ... less and less of`
+- **条件句 + 完成时不定式**：`If a player is judged to have feigned injury`
+- **Either...or 双结局**：`Either there will be less rolling around on the floor or there will be the drama of violent retribution`
+- **被动规则句**：`a random member of the crowd is chosen to participate`
+- **until 双终止**：`until the ball goes off the field or the crowd starts booing`
+- **Nothing like 句式**：`There's nothing like the promise of permanent residency to make sport exciting`
+- **who 非限定从句**：`Roger Milla, who did a dance by the corner flag when he scored`
+- **spend time doing**：`spend inordinate amounts of time passing the ball`
+- **形式主语 it**：`It is just possible that these ideas will not be adopted`
+
+### 4. 长难句
+
+- 原句 3：which 从句 + 同位语比喻
+- 原句 5：although 让步 + for neutrals 状语
+- 原句 6：too...to + 动名词主语
+- 原句 8：whose 定语 + such as 举例
+- 原句 16：分词定语 + 双宾
+- 原句 17：as 时间从句 + 被动
+- 原句 22：完成时不定式 + 条件句
+- 原句 30：被动 + until 双终止
+- 原句 39：spend 结构 + 分词
+
+### 5. 写作技巧
+
+1. **先立后破**：`the beautiful game` → `the boring game`——用经典美誉开头，一个转折立起全文问题（美丽 vs 无聊）
+2. **家庭比喻**：`going to a dinner party and hearing the hosts rowing in the kitchen`——把三国合办世界杯比作"主人厨房吵架"，用家庭场景消解宏大赛事
+3. **经济学解释足球**：`The stakes are too high ... pays off`——用"风险收益"（stakes/pays off）分析球队为何保守——经济学视角贯穿体育
+4. **一本正经的荒诞**：每条建议都用正式规则语言（must be blindfolded、will be unpunishable、award a penalty）包装"脸扑救、观众上场、蒙眼角球"等离谱内容——"规则话语 + 荒诞内容"的反差制造幽默
+5. **双关**：`green card`（绿牌/美国绿卡）、`the world game`（世界运动/让世界兴奋）、`the beautiful game`（美誉/反问）——一词多义制造笑点
+6. **递进到极点**：门将用身体"一手、二手、最后只能用脸"——把规则从"递减"推演到"脸扑救"的荒诞高潮
+7. **自嘲式论证**：`If that makes football sound boring, our point is made`——用"连角旗舞都无聊"反证"世界杯更无聊"，自嘲中强化论点
+8. **逻辑推演包装荒诞**：`Competition is always a good thing ... by having two balls on the field`——用"市场经济原则"推演"两个球"，把经济学逻辑套用到球场
+9. **诚实招供的笑点**：`mainly be fun because of the effect that it will have on referees and commentators`——坦白"建议是为了看裁判抓狂"，诚实本身就是笑点
+10. **英式幽默收束**：`It is just possible that these ideas will not be adopted ... It could be six and a half weeks of golf`——自嘲"建议不会被采纳"，再用"六周半高尔夫"反衬"世界杯还行"——自我拆穿 + 反向安慰
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `the beautiful game` | 经典美誉 | Football is the beautiful game. |
+| `the international equivalent of` | 国际类比 | The equivalent of a family dinner. |
+| `over the course of` | 在……期间 | Over the course of the tournament. |
+| `the stakes are too high` | 风险太高 | The stakes are too high to take risks. |
+| `pay off` | 有回报 | Defence pays off. |
+| `radical enough` | 足够激进 | Not radical enough. |
+| `count as` | 算作 | Counts as a point. |
+| `go for it` | 放手一搏 | The team went for it. |
+| `made up of` | 由……组成 | Made up of star players. |
+| `off-limits` | 禁用的 | The area is off-limits. |
+| `for real` | 真的 | Injured for real. |
+| `for minutes on end` | 连续数分钟 | For hours on end. |
+| `beyond belief` | 难以置信 | Boring beyond belief. |
+| `either way` | 无论怎样 | Either way, we win. |
+| `It's up to them` | 由他们决定 | It's up to you. |
+| `nothing like A to B` | 没有比 A 更能 B | Nothing like a deadline to focus the mind. |
+| `on American soil` | 在美国土地 | On American soil. |
+| `our point is made` | 观点已立 | The point is made. |
+| `take time to become accepted` | 需要时间被接受 | Takes time to catch on. |
+| `a consolation` | 安慰 | A consolation prize. |

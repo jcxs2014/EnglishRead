@@ -631,17 +631,73 @@ Odd and repugnant as it may seem to many older Chinese, let alone hyper-cautious
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| suffering（n. | 苦难）· obvious（adj. /ˈɒbviəs/ 明显的）· leadership（n. /ˈliːdəʃɪp/ 领导层）· vice-chairman（n. 副主席）· prison（n. /ˈprɪzn/ 监狱）· film / actor / online / platform / views（播放量）· nickname（n. /ˈnɪkneɪm/ 昵称）· symbol（n. /ˈsɪmbl/ 象征）· difficulty（n. /ˈdɪfɪkəlti/ 困难）· affordable（adj. /əˈfɔːdəbl/ 买得起的）· popular（adj. /ˈpɒpjələ/ 流行的）· widow（n. /ˈwɪdəʊ/ 遗孀）· press（n. 媒体）· history（n. /ˈhɪstri/ 历史）· announce→(未用) |  |
+| reinvention | 重塑再造 |  |
+| meme | 网络迷因 |  |
+| successor-in-waiting | 准继承人 |  |
+| pluck | 拔擢 |  |
+| brim with | 满溢 |  |
+| self-serving | 自私自利的 |  |
+| reputedly | 据传 |  |
+| high-hog it | 过奢侈日子，习语活用 |  |
+| laced with | 掺杂 |  |
+| embattled | 四面楚歌的 |  |
+| interweave | 交织 |  |
+| dub | 配音 |  |
+| footage | 影像素材 |  |
+| codeword | 暗语 |  |
+| lie flat | 躺平 |  |
+| rat race | 无休止竞争 |  |
+| unremarked | 未被注意的 |  |
+| mine for | 开采 |  |
+| **结构拆解**：主语 One 后插入地点状语 | in three videos on Bilibili |  |
+| **翻译**：其中一人在哔哩哔哩 | 一个网络平台 |  |
+| **结构拆解**：then 是逻辑连接词 | 那么 |  |
+| **结构拆解**：when + 过去分词 | when plucked ... = when he was plucked |  |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| faction（n. | 派系）· underdog（n. /ˈʌndədɒɡ/ 弱者、不被看好者）· contempt（n. /kənˈtempt/ 蔑视）· bureaucrat（n. /ˈbjʊərəkræt/ 官僚）· resemblance（n. /rɪˈzembləns/ 相似）· conspiracy（n. /kənˈspɪrəsi/ 阴谋）· portray（v. /pɔːˈtreɪ/ 描绘）· liberate（v. /ˈlɪbəreɪt/ 解放）· atrocity（n. /əˈtrɒsəti/ 暴行）· screenwriter（n. /ˈskriːnraɪtə/ 编剧）· absurd（adj. /əbˈsɜːd/ 荒谬的）· garner（v. /ˈɡɑːnə/ 赢得、收获）· slogan（n. /ˈsləʊɡən/ 口号）· evade（v. /ɪˈveɪd/ 规避）· censor（n. /ˈsensə/ 审查者）· poignant（adj. /ˈpɔɪnjənt/ 令人心酸的）· disgruntled（adj. /dɪsˈɡrʌntld/ 不满的）· vent（v. /vent/ 发泄）· streak（n. /striːk/ 特质）· alluring（adj. /əˈlʊərɪŋ/ 迷人的）· mouthpiece（n. /ˈmaʊθpiːs/ 喉舌）· commentary（n. /ˈkɒməntri/ 评论文章）· outlet（n. /ˈaʊtlet/ 渠道、媒体机构）· metaphor（n. /ˈmetəfə/ 隐喻） |  |
+| faction | 派系 |  |
+| underdog | 弱者、不被看好者 |  |
+| contempt | 蔑视 |  |
+| bureaucrat | 官僚 |  |
+| resemblance | 相似 |  |
+| conspiracy | 阴谋 |  |
+| portray | 描绘 |  |
+| liberate | 解放 |  |
+| atrocity | 暴行 |  |
+| screenwriter | 编剧 |  |
+| absurd | 荒谬的 |  |
+| garner | 赢得、收获 |  |
+| slogan | 口号 |  |
+| evade | 规避 |  |
+| censor | 审查者 |  |
+| poignant | 令人心酸的 |  |
+| disgruntled | 不满的 |  |
+| vent | 发泄 |  |
+| streak | 特质 |  |
+| alluring | 迷人的 |  |
+| mouthpiece | 喉舌 |  |
+| commentary | 评论文章 |  |
+| outlet | 渠道、媒体机构 |  |
+| metaphor | 隐喻 |  |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| reinvention（n. | 重塑再造）· meme（n. /miːm/ 网络迷因）· successor-in-waiting（n. 准继承人）· pluck（v. /plʌk/ 拔擢）· brim with（满溢）· self-serving（adj. 自私自利的）· reputedly（adv. /rɪˈpjuːtɪdli/ 据传）· high-hog it（过奢侈日子，习语活用）· laced with（掺杂）· embattled（adj. /ɪmˈbætld/ 四面楚歌的）· interweave（v. /ˌɪntəˈwiːv/ 交织）· dub（v. /dʌb/ 配音）· footage（n. /ˈfʊtɪdʒ/ 影像素材）· codeword（n. /ˈkəʊdwɜːd/ 暗语）· lie flat（躺平）· rat race（无休止竞争）· unremarked（adj. /ˌʌnrɪˈmɑːkt/ 未被注意的）· mine for（v. 开采） |  |
+| suffering | 苦难 |  |
+| obvious | 明显的 |  |
+| leadership | 领导层 |  |
+| vice-chairman | 副主席 |  |
+| prison | 监狱 |  |
+| nickname | 昵称 |  |
+| symbol | 象征 |  |
+| difficulty | 困难 |  |
+| affordable | 买得起的 |  |
+| popular | 流行的 |  |
+| widow | 遗孀 |  |
+| press | 媒体 |  |
+| history | 历史 |  |
 
 ## 长难句专项
 

@@ -648,3 +648,87 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+show up、financial statements、handouts、partisan、grubby、qualify、Roping in、chip in、a whiff of、cronyism、unsavoury、execution、worth watching、equity stakes、sound in principle、well-timed、face up to、looming、disruption、admittedly、make a dent in、undermines the notion、wanes、profess、soaking the rich、free enterprise、a personal stake in、versus、build on、financial literacy、turmoil、vast returns、forestall、runaway inequality、political instability、run the show、philanthropy、voluntarily、deficit-financing、immediate consumption、microscopic、outlast、get behind
+
+### 2. 本文核心表达
+
+1. `putting his name on things` — 贴名（品牌化）
+2. `(with permission) to ... (without)` — 括号对比的幽默
+3. `show up in ... statements` — 出现在账单上
+4. `are getting "Trump Accounts"` — 获得账户
+5. `not the only Trumpy thing` — 不止这一个问题
+6. `Roping in ... to chip in` — 拉人凑钱
+7. `a whiff of cronyism` — 一丝裙带味
+8. `beneath the unsavoury execution there sits` — 表层之下藏着
+9. `sound in principle` — 原则上合理
+10. `face up to the looming disruption` — 正视迫近冲击
+11. `make a modest but helpful dent in` — 啃下一小块
+12. `how deep their parents' pockets are` — 拼爹
+13. `the notion that working hard is enough to succeed` — 努力成功论
+14. `Winning the next generation back` — 赢回下一代
+15. `a personal stake in the private sector` — 个人股权
+16. `making investors of everybody` — 全民股东
+17. `vast returns for capital-holders and a tough time for workers` — 资本/劳动对立
+18. `forestall runaway inequality` — 防止失控不平等
+19. `Instead of the government running the show` — 与其政府唱主角
+20. `get two cheers from` — 获得两声喝彩
+21. `outlast the president's term` — 比总统任期活得更久
+22. `get behind` — 支持
+
+### 3. 重要语法
+
+- **from A to B + 括号对比**：`from Manhattan skyscrapers (with permission) to Washington's Kennedy Centre (without)`
+- **see + 宾语 + 省略 to 不定式**：`seeing the president's name show up`
+- **动名词短语作主语**：`Roping in ... to chip in ... carries ...`
+- **地点状语倒装存在句**：`beneath the unsavoury execution there sits ...`
+- **同位语嵌套**：`the notion that ... , a principle without which ...`
+- **without which 定语从句**：`a principle without which public support wanes`
+- **what 宾语从句**：`in what we call "Gen-Z socialism"`
+- **动名词复合结构**：`Instead of the government running the show`
+- **插入语保持自我审视**：`admittedly` / `say` / `In any case`
+- **省略 that 的宾语从句**：`We hope they outlast ... and that his successor ...`
+- **冒号列举**：`: they are also partisan, grubby and funded mostly by borrowing`
+- **比较结构**：`more enthusiasm for socialism than capitalism` / `versus just 3%`
+
+### 4. 长难句
+
+- 原句 5（冒号列举三宗罪）
+- 原句 7（动名词主语 + 定语从句）
+- 原句 8（地点状语倒装）
+- 原句 15（同位语 + without which 定语从句）
+- 原句 17（what 从句 + 同位语 + combine A with B）
+- 原句 22-23（AI 悲观预测的因果）
+- 原句 24（Instead of 动名词复合结构）
+
+### 5. 写作技巧
+
+1. **"两声喝彩"的论证框架**：标题即结论（two cheers = 有条件支持），正文先给两分批评（党派/粗鄙/借债）再给一分肯定（原理/时机/AI 预防）——**批评与表扬分明的"评分制"结构**，体现《经济学人》"不盲从"的立场
+2. **先抑后扬的转折枢纽**：`However, beneath the unsavoury execution there sits an experiment worth watching` —— 用"外壳/内核"的空间隐喻把"坏执行"与"好想法"切开，这是评论"烂政策里的好主意"的标准手法
+3. **数据说服**：1000→4500→3000（名义/实际）、15% vs 3%（穷人股票配置）、0.005% GDP（赤字影响）——用三组数字分别论证"规模小但有用""美国基础好""赤字微不足道"
+4. **"贴名"首尾呼应**：开篇"特朗普爱贴名"（with/without permission）与收尾"希望继任者换个名字"（sorts out a name ... can get behind）——用一个细节贯穿全文，制造结构闭环与幽默
+5. **代际危机的大背景**：把一项婴儿政策放到"Z 世代社会主义""AI 冲击""自由市场合法性"三个宏观框架里讨论——**小政策见大时代**
+6. **习语与口语的灵活运用**：`chip in`（凑钱）、`make a dent in`（啃下一块）、`how deep their pockets are`（荷包多深）、`soaking the rich`（宰富人）、`run the show`（唱主角）——用鲜活习语替代干巴巴的政策术语，让社论可读
+7. **承认缺点的坦率**：`admittedly`（诚然）、`is not ideal, but`、`not the only Trumpy thing`——作者主动列举缺点再辩护，这种"自曝其短"反而增强说服力
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `show up in` | 描述出现 | The cost shows up in prices. |
+| `a whiff of` | 暗示问题 | A whiff of bias. |
+| `sound in principle` | 评价方案 | The proposal is sound in principle. |
+| `face up to` | 正视问题 | We must face up to the risk. |
+| `make a dent in` | 描述进展 | The grant made a dent in our costs. |
+| `depends largely on` | 分析因素 | Success depends largely on execution. |
+| `undermine the notion that` | 批评观念 | This undermines the notion that merit wins. |
+| `a personal stake in` | 利益绑定 | Give employees a stake in the firm. |
+| `build on` | 继承发展 | Build on the previous work. |
+| `forestall` | 预先阻止 | Forestall a backlash. |
+| `run the show` | 掌控 | The state shouldn't run the show. |
+| `rather than` | 对比选择 | Savings rather than consumption. |
+| `outlast` | 比……长久 | Good ideas outlast their authors. |
+| `get behind` | 支持 | Everyone can get behind this. |
+| `In any case` | 让步总结 | In any case, we proceed. |

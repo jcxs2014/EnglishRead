@@ -766,50 +766,50 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| n. | 体外受精 | via in-vitro fertilisation |
-| v. | 评估 | assess embryos based on |
-| n.phr. | 真理的内核 | Both arguments contain kernels of truth |
-| adj. | 多基因的 | such "polygenic" prediction |
-| n. | 近乎确定性 | testing offers near-certainty |
-| adj. | 二元的 | rather than a binary answer |
-| n. | 血统 | people with European ancestry |
-| n. | 警告、注意事项 | Further caveats are in order |
-| adj. | 相对的vs绝对的 | in relative terms but small in absolute ones |
-| n. | 信息披露 | an argument for disclosure |
-| v. | 破坏、搞垮 | This will not scupper |
-| n.phr. | 假药、骗人的东西 | not selling snake oil |
-| v. | 强制 | murderous coercion |
-| n. | 优生学家 | this century's eugenicists |
-| n. | 狂热分子 | only zealots want banned |
-| phr.v. | 阻碍 | should not stand in the way |
+| in-vitro fertilisation (IVF) | n.. 体外受精 | via in-vitro fertilisation |
+| assess | v.. 评估 | assess embryos based on |
+| kernels of truth | n.phr.. 真理的内核 | Both arguments contain kernels of truth |
+| polygenic | adj.. 多基因的 | such "polygenic" prediction |
+| near-certainty | n.. 近乎确定性 | testing offers near-certainty |
+| binary | adj.. 二元的 | rather than a binary answer |
+| ancestry | n.. 血统 | people with European ancestry |
+| caveats | n.. 警告、注意事项 | Further caveats are in order |
+| relative vs absolute | adj.. 相对的vs绝对的 | in relative terms but small in absolute ones |
+| disclosure | n.. 信息披露 | an argument for disclosure |
+| scupper | v.. 破坏、搞垮 | This will not scupper |
+| snake oil | n.phr.. 假药、骗人的东西 | not selling snake oil |
+| coerce | v.. 强制 | murderous coercion |
+| eugenicist | n.. 优生学家 | this century's eugenicists |
+| zealot | n.. 狂热分子 | only zealots want banned |
+| stand in the way of | phr.v.. 阻碍 | should not stand in the way |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| n. | 一批、大量 | A spate of startups offer |
-| v. | 冒险进入 | Some venture further into |
-| adj. | 沮丧的 | Critics are dismayed |
-| adj. | 脆弱的 | vulnerable couples |
-| adj. | 不成熟的 | immature technology |
-| adv. | 最终 | neither is ultimately convincing |
-| adj. | 小众的 | the debate is a niche concern |
-| phr.v. | 迎合 | cater to the rich |
-| adj. | 监管的 | where fertility is more regulated |
-| n. | 审查 | undergo independent scrutiny |
-| adj. | 新兴的 | a nascent business |
-| v. | 腐蚀 | fertility tech corrupts |
+| spate | n.. 一批、大量 | A spate of startups offer |
+| venture | v.. 冒险进入 | Some venture further into |
+| dismayed | adj.. 沮丧的 | Critics are dismayed |
+| vulnerable | adj.. 脆弱的 | vulnerable couples |
+| immature | adj.. 不成熟的 | immature technology |
+| ultimately | adv.. 最终 | neither is ultimately convincing |
+| niche | adj.. 小众的 | the debate is a niche concern |
+| cater to | phr.v.. 迎合 | cater to the rich |
+| regulatory | adj.. 监管的 | where fertility is more regulated |
+| scrutiny | n.. 审查 | undergo independent scrutiny |
+| nascent | adj.. 新兴的 | a nascent business |
+| corrupt | v.. 腐蚀 | fertility tech corrupts |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| v. | 彻底改变 | Silicon Valley is now coming for birth |
-| v. | 提供 | startups offer screening services |
-| v. | 允许 | allow couples...to assess embryos |
-| v. | 支持 | three-quarters of Americans support |
-| v. | 担心 | Some worry firms are pushing |
-| v. | 引发/提高 | raise difficult ethical questions |
-| v. | 改善 | scores will improve |
-| v. | 适用于 | this argument...applies to IVF |
+| transform | v.. 彻底改变 | Silicon Valley is now coming for birth |
+| offer | v.. 提供 | startups offer screening services |
+| allow | v.. 允许 | allow couples...to assess embryos |
+| support | v.. 支持 | three-quarters of Americans support |
+| worry | v.. 担心 | Some worry firms are pushing |
+| raise | v.. 引发/提高 | raise difficult ethical questions |
+| improve | v.. 改善 | scores will improve |
+| apply | v.. 适用于 | this argument...applies to IVF |
 
 ## 长难句专项
 

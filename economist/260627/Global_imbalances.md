@@ -309,11 +309,18 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| imbalance | 失衡 |  |
-| surplus | 顺差 |  |
-| deindustrialisation | 去工业化 |  |
-| competitiveness | 竞争力 |  |
-| protectionism | 保护主义 |  |
+| a beef with | 与…有过节 |  |
+| lose sight of | 忽视 |  |
+| stems from | 源于 |  |
+| Make no mistake | 毫无疑问 |  |
+| breed protectionism | 助长保护主义 |  |
+| changing tack | 改变策略 |  |
+| culling regulations | 废除法规 |  |
+| in other words | 换句话说 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | current-account surplus | 经常账户顺差 |  |
 | mercantilist | 重商主义的 |  |
 | malaise | 困境、不景气 |  |
@@ -327,14 +334,11 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| a beef with | 与…有过节 |  |
-| lose sight of | 忽视 |  |
-| stems from | 源于 |  |
-| Make no mistake | 毫无疑问 |  |
-| breed protectionism | 助长保护主义 |  |
-| changing tack | 改变策略 |  |
-| culling regulations | 废除法规 |  |
-| in other words | 换句话说 |  |
+| imbalance | 失衡 |  |
+| surplus | 顺差 |  |
+| deindustrialisation | 去工业化 |  |
+| competitiveness | 竞争力 |  |
+| protectionism | 保护主义 |  |
 
 ## 长难句专项
 

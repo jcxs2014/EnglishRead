@@ -846,3 +846,93 @@
 **⑤ 整体理解：** Which is worse（设问）+ 冒号 + 并列动名词（letting/leaving）+ but 对仗形容词。把握 Which is worse: A or B? 设问收尾。---
 
 ## 五、精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+give credit for、stepping up、fill the breach、stiffening sanctions、grim losses、putting pressure on、diplomatic efforts、fizzling、take the lead、transformed from ... into、a ward of the West、a crucial security partner、battle-hardened、innovative defence industry、wean itself off、transatlantic help、as badly as the other way round、fully embrace、cement links with、make up for territory、negotiating cluster、the rule of law、the gulf in expectations、responsibility lies with、fight corruption、associate membership、a waystation to、full-fat accession、rash to、dismiss out of hand、a kind of charity case、much to learn from、drone technology、bolster security、testing arms systems、whereas、not baseless、miss the bigger picture、hard power、an increasingly hostile world、folding ... into embrace、confronting the threat、merely a bureaucratic process、a geopolitical tool、predatory great powers、formalise、speed up、drafting an accession treaty、a sign of intent、war-weary、in return、find unanimity、bleak、souring on、ring alarm bells、which is worse、embittered
+
+### 2. 本文核心表达
+
+1. `GIVE EUROPE credit for stepping up when many doubted it could` — 给欧洲记功：当许多人怀疑它行不行时它站了出来
+2. `Europe has managed to fill the breach` — 欧洲成功填补了缺口
+3. `It is accelerating the flow of money and arms eastward, while stiffening sanctions on the Russian aggressor` — 一边加快资金武器东流，一边收紧对俄制裁
+4. `a country that has transformed itself from a ward of the West into a crucial security partner` — 已从"西方被监护对象"变成"关键安全伙伴"的国家
+5. `Europe needs Ukraine as badly as the other way round` — 欧洲需要乌克兰，与乌克兰需要欧洲同样迫切
+6. `Europe's priority should be to fully embrace Ukraine, and fast` — 欧洲的优先事项是全面拥抱乌克兰，而且要快
+7. `the goal has long been clear: full EU membership, to cement links with the West and make up for territory lost to Russia` — 目标早已明确：正式入盟，巩固与西方联系、弥补失掉的领土
+8. `Some in Kyiv hope full membership could follow as soon as next year ... even enthusiasts doubt it can come within a decade` — 基辅盼明年入盟，连欧盟热心者都怀疑十年内难成
+9. `The gulf in expectations between the two sides is dangerous` — 双方期望的鸿沟是危险的
+10. `Friedrich Merz ... proposed an associate membership, with limited voting rights, as a waystation to full-fat accession` — 默茨提出"准成员资格"作通往"全脂版"正式入盟的中转站
+11. `Mr Zelensky was rash to dismiss that out of hand` — 泽连斯基草率地一口回绝
+12. `Too many still look at Ukraine as a kind of charity case` — 仍太多人把乌克兰看作慈善个案
+13. `Sweden's defence minister says that testing arms systems in Ukraine brings innovations in weeks or months, whereas doing so at home takes years or decades` — 在乌测试数月出创新，本国则需数年数十年
+14. `These concerns are not baseless, but they miss the bigger picture` — 这些顾虑并非无据，却错过了更大的图景
+15. `Folding Ukraine into Europe's embrace is a means of confronting the obvious regional threat, Russia` — 把乌克兰折进欧洲的怀抱是对抗俄罗斯的手段
+16. `Enlargement is not merely a bureaucratic process. It is a geopolitical tool for a continent that looks vulnerable among more predatory great powers` — 扩员不仅是官僚程序，更是地缘政治工具（核心金句）
+17. `The EU should begin drafting an accession treaty now, as a sign of intent` — 欧盟应现在就起草入盟条约，作为诚意信号
+18. `In return, Ukraine should be open to delays in subsidies or freedom-of-movement rights to make it easier for Europe to find unanimity` — 作为回报，乌克兰应接受补贴或人员流动的延迟让步
+19. `Polls show some young Ukrainians souring on EU membership` — 民调显示一些年轻乌克兰人对入盟热情转淡
+20. `Which is worse: letting a poor but enthusiastic Ukraine into the club, or leaving an embittered but powerful one outside?` — 哪种更糟：让贫穷却热情者进门，还是让怨愤却强大者留在门外（结尾设问）---
+
+### 3. 重要语法
+
+- **祈使句 + 全大写开头**：`GIVE EUROPE credit for stepping up`
+- **since 时间从句 + 现在完成时**：`Since Trump cut aid, Europe has managed to fill the breach`
+- **进行时并列 + 分词伴随**：`is accelerating ... while stiffening ...`
+- **with 复合结构**：`With American diplomatic efforts ... fizzling`
+- **身份转变句式**：`transformed itself from a ward of the West into a crucial security partner`
+- **be to do 表使命**：`If Europe is to defend its borders ...`
+- **wean itself off 戒除依赖**：`wean itself off a reliance on transatlantic help`
+- **冒号 + 同位语**：`the goal has long been clear: full EU membership`
+- **from ... into 对仗**：`a ward of the West into a crucial security partner`
+- **让步 + 转折**：`These concerns are not baseless, but they miss the bigger picture`
+- **动名词主语**：`Folding Ukraine into Europe's embrace is a means of ...`
+- **双重定义（否定一解 + 肯定一解）**：`is not merely a bureaucratic process. It is a geopolitical tool`
+- **设问二选一收尾**：`Which is worse: letting ... or leaving ...?`
+
+### 4. 长难句
+
+- 原句 5：with 复合结构 + whether 从句
+- 原句 7：from ... into 身份转变（定语从句内）
+- 原句 9：is to 使命 + as badly as 等量比较
+- 原句 25：says that ... whereas 双时长对比
+- 原句 28：not baseless, but + 冒号定义
+- 原句 38：设问二选一收尾
+
+### 5. 写作技巧
+
+1. **先扬后抑**：`GIVE EUROPE credit for stepping up`——先用祈使句给欧洲记功（肯定其补位），再批评"仍视乌克兰为慈善个案"——公允姿态让批评更可信
+2. **身份再定义**：`transformed itself from a ward of the West into a crucial security partner`——用 from ... into 的身份转变句，一句话把乌克兰从"被监护对象"（ward）重写为"安全伙伴"（partner）——全文立论的支点
+3. **互惠论（as ... as the other way round）**：`it needs Ukraine as badly as the other way round`——用"相互需要"的等量表达，彻底颠覆"单边救助"叙事——这是标题的论证核心
+4. **全大写 + 短句控制节奏**：`GIVE EUROPE credit`（全大写开头）+ `That time may come, but not yet`（短句回应悬念）——用节奏切换话题焦点
+5. **数据级对比**：`in weeks or months, whereas doing so at home takes years or decades`——引用权威（瑞典防长）+ 数字对比（数月 vs 数年）——把"互惠论"落到可量化效率
+6. **让步驳斥范本**：`These concerns are not baseless, but they miss the bigger picture`——先承认（not baseless）再反驳（but miss）——"合理反对的正确回应"模板
+7. **比喻软化硬话题**：`Folding Ukraine into Europe's embrace`（折进怀抱）——用"拥抱"的温情修辞包装地缘对抗，与"慈善个案"冷冰冰的标签形成对照
+8. **金句双重定义**：`Enlargement is not merely a bureaucratic process. It is a geopolitical tool`——not merely A. It is B（不只是 A，而是 B）的扬升式定义——把"扩员"从行政程序升华为战略工具
+9. **对价式建议**：`In return, Ukraine should be open to delays ... to make it easier for Europe to find unanimity`——用"互惠对价"（in return）提出可行方案，让主张显得现实、可谈判
+10. **设问留白收尾**：`Which is worse: letting a poor but enthusiastic Ukraine into the club, or leaving an embittered but powerful one outside?`——二选一设问让读者自己得出结论；but 对仗形容词（poor but enthusiastic vs embittered but powerful）把"不加速入盟"的代价推到地缘安全层面
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `give credit for` | 称赞 | Give credit where it's due. |
+| `fill the breach` | 填补缺口 | Europe filled the breach. |
+| `stiffen sanctions` | 收紧制裁 | Stiffen sanctions on. |
+| `take the lead` | 带头 | Take the lead in. |
+| `transform from A into B` | 身份转变 | Transformed from a ward into a partner. |
+| `wean off` | 戒除依赖 | Wean off foreign aid. |
+| `as badly as the other way round` | 相互等量 | Needs it as badly. |
+| `fully embrace` | 全面接纳 | Embrace the country. |
+| `cement links with` | 巩固联系 | Cement ties. |
+| `a waystation to` | 过渡阶段 | A waystation to membership. |
+| `dismiss out of hand` | 一口回绝 | Rejected out of hand. |
+| `a charity case` | 救济个案 | Not a charity case. |
+| `miss the bigger picture` | 忽视大局 | See the bigger picture. |
+| `hard power` | 硬实力 | Military hard power. |
+| `a means of` | 一种手段 | A means of defence. |
+| `a sign of intent` | 诚意信号 | A sign of intent. |
+| `in return` | 作为回报 | In return for. |
+| `ring alarm bells` | 敲响警钟 | Set off alarm bells. |
+| `sour on` | 热情转淡 | Sour on the EU. |
+| `which is worse: A or B?` | 二选一设问 | Which is worse? |

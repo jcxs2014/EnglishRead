@@ -990,56 +990,9 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| model | n. 模型；模式 |  |
-| cheap | adj. 便宜的 |  |
-| problem | n. 问题 |  |
-| technology | n. 技术 |  |
-| economy | n. 经济 |  |
-| government | n. 政府 |  |
-| change | n./v. 变化 |  |
-| worker | n. 工人 |  |
-| fast | adv. 快速地 |  |
-| release | v. 发布 |  |
-| share | n. 占比、份额 |  |
-| total | n. 总量 |  |
-| benchmark | v./n. 基准测试 |  |
-| harness | v. 利用、驾驭 |  |
-| converge | v. 趋同（convergence /kənˈvɜːdʒəns/ n.） |  |
-| diffuse | v. 扩散（diffusion /dɪˈfjuːʒn/ n.） |  |
-| deploy | v. 部署（deployment /dɪˈplɔɪmənt/ n.） |  |
-| deficit | n. 缺口 |  |
-| infrastructure | n. 基础设施 |  |
-| capacity | n. 容量、产能 |  |
-| sanction | n. 制裁 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| cutting-edge | adj. 尖端的 |  |
-| output | n. 产量 |  |
-| dynamic | adj. 有活力的 |  |
-| shrink | v. 萎缩 |  |
-| statistics | n. 统计数据 |  |
-| sweeping | adj. 席卷式的 |  |
-| discontent | n. 不满 |  |
-| retraining | n. 再培训 |  |
-| redeploy | v. 重新部署 |  |
-| surplus | adj. 过剩的 |  |
-| improvise | v. 即兴应变 |  |
-| impair | v. 损害 |  |
-| reinvent | v. 重塑 |  |
-| pose | v. 造成（挑战） |  |
-| outperform | v. 表现优于 |  |
-| herald | v. 预示 |  |
-| promising | adj. 有前途的 |  |
-| malfunction | v. 故障 |  |
 | calibre | n. 水准（英式） |  |
 | autocracy | n. 威权（专制）体制 |  |
 | semi-planned | economy /ˌsemi ˈplænd ɪˈkɒnəmi/ n. 半计划经济 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 | lithography | n. 光刻 |  |
 | open-weight | adj. 开放权重的 |  |
 | trade-off | n. 权衡取舍 |  |
@@ -1061,6 +1014,53 @@
 | sack | v. 解雇（英式口语） |  |
 | robotaxi | n. 自动驾驶出租车 |  |
 | state-owned | enterprise /ˌsteɪt əʊnd ˈentəpraɪz/ n. 国有企业（SOE） |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| benchmark | v./n. 基准测试 |  |
+| harness | v. 利用、驾驭 |  |
+| converge | v. 趋同（convergence /kənˈvɜːdʒəns/ n.） |  |
+| diffuse | v. 扩散（diffusion /dɪˈfjuːʒn/ n.） |  |
+| deploy | v. 部署（deployment /dɪˈplɔɪmənt/ n.） |  |
+| deficit | n. 缺口 |  |
+| infrastructure | n. 基础设施 |  |
+| capacity | n. 容量、产能 |  |
+| sanction | n. 制裁 |  |
+| cutting-edge | adj. 尖端的 |  |
+| output | n. 产量 |  |
+| dynamic | adj. 有活力的 |  |
+| shrink | v. 萎缩 |  |
+| statistics | n. 统计数据 |  |
+| sweeping | adj. 席卷式的 |  |
+| discontent | n. 不满 |  |
+| retraining | n. 再培训 |  |
+| redeploy | v. 重新部署 |  |
+| surplus | adj. 过剩的 |  |
+| improvise | v. 即兴应变 |  |
+| impair | v. 损害 |  |
+| reinvent | v. 重塑 |  |
+| pose | v. 造成（挑战） |  |
+| outperform | v. 表现优于 |  |
+| herald | v. 预示 |  |
+| promising | adj. 有前途的 |  |
+| malfunction | v. 故障 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| model | n. 模型；模式 |  |
+| cheap | adj. 便宜的 |  |
+| problem | n. 问题 |  |
+| technology | n. 技术 |  |
+| economy | n. 经济 |  |
+| government | n. 政府 |  |
+| change | n./v. 变化 |  |
+| worker | n. 工人 |  |
+| fast | adv. 快速地 |  |
+| release | v. 发布 |  |
+| share | n. 占比、份额 |  |
+| total | n. 总量 |  |
 
 ## 五、长难句专项
 

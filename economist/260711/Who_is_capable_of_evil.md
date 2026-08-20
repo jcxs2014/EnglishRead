@@ -761,3 +761,87 @@
 ---
 
 ## 精读结束总结
+
+### 1. 本文核心词汇（⭐⭐⭐ 优先）
+
+responsible for、Given how、heinous、grasp the consequences、reckoned to be、doli incapax、incapable of、wrestle with、criminal responsibility、regrettably、lawmakers、pushing ... downwards、scourge、blocked a motion、joint-lowest、well-publicised、horrified、stabbed、campaigning、recruit、foot soldiers、pliable、impulse-control、Neuroscientists、well into、enticed into、the promise of quick money、calculate、dodge punishment、precisely because、under-age、criminalise、ever younger、remove an incentive for、should reconsider、if only because、unjust、the low teens、heed、crime rates rose、reversed course、Prosecuting、hardened villains、emerge from、released from prison、reoffend、rehabilitation、securing ... away from、wrongdoers、rather than punishing、tackle、drew them into、criminality、youth-justice system、learning difficulties、mentors、investigated for、flagged to、worrying behaviour、wrongdoing、severe criminal penalties、exploit the young、create better childhoods、prevent ... from becoming
+
+### 2. 本文核心表达
+
+1. `HOW DO YOU judge whether ...` — 开篇设问
+2. `Given how slowly human character develops` — 鉴于发展之慢
+3. `In the eyes of the law` — 法律眼中
+4. `are reckoned to be doli incapax—incapable of evil` — 被认为无作恶能力
+5. `how old is old enough to count?` — 多大才算作数
+6. `wrestle with the task of defining` — 苦思界定
+7. `pushing it downwards` — 往下压（降龄）
+8. `the joint-lowest in Europe` — 欧洲并列最低
+9. `and you can understand why` — 你能理解为什么
+10. `use children to attack properties or people` — 用儿童犯罪
+11. `cheap and pliable` — 廉价易摆布
+12. `the brain keeps developing well into adulthood` — 大脑发育到成年后
+13. `the promise of quick money` — 快钱承诺
+14. `dodge punishment if caught` — 被抓也免刑
+15. `precisely because they are under-age` — 恰恰因未成年
+16. `criminalise the acts of ever younger people` — 给越来越小者定罪
+17. `if only because ... is unjust` — 只因不公
+18. `Experience suggests that ... will not work` — 经验表明无效
+19. `reversed course` — 掉头
+20. `emerged ... as hardened villains` — 变成铁杆罪犯
+21. `It is wiser to try rehabilitation` — 改造更明智
+22. `tackle the ... factors that first drew them into criminality` — 治本
+23. `flagged to social services for worrying behaviour` — 早期预警标记
+24. `prevent criminal children from becoming criminal adults` — 防儿童变惯犯
+
+### 3. 重要语法
+
+- **疑问句 + whether 宾语从句**：`judge whether children are responsible`
+- **主语-谓语分隔（长定语）**：`the least mature, who cannot grasp the consequences of what they do, are reckoned to be ...`
+- **动名词作主语**：`lowering the age of responsibility is unjust` / `Prosecuting young children ... is also a way`
+- **if only because 结构**：`They should reconsider, if only because ...`
+- **非限制性定语从句指代全句**：`which may be why so much crime is committed`
+- **嵌套定语从句**：`half of all kids who are investigated ... were flagged ...`
+- **省略条件句**：`if caught`（= if they are caught）
+- **被动语态反复**：`are reckoned to be` / `are counted as` / `were flagged to` / `is committed by`
+- **It 形式主语**：`It is wiser to try rehabilitation`
+- **rather than + 动名词**：`rather than punishing them`
+- **Precisely because 强调**：`precisely because they are under-age`
+
+### 4. 长难句
+
+- 原句 4（主语 + who 定语从句 + 破折号解释）
+- 原句 19（that 宾语从句 + which 定语从句指代全句）
+- 原句 25（if only because + 破折号 + if 从句）
+- 原句 32（where 定语从句 + who 定语从句嵌套）
+- 原句 39（who 定语从句 + 被动 + 多层状语）
+
+### 5. 写作技巧
+
+1. **设问开篇 + 术语点睛**：标题"谁有能力行恶？"→ 首段末用拉丁术语 doli incapax（无作恶能力）作答——用古老的罗马法概念回应现代问题，标题即全篇主旨
+2. **"道德论 + 实用论"双轨论证**：`Even if you disagree with the moral argument, you should heed the practical one`——先给道德论证（不公），再给实用论证（无效），后者用实证（丹麦犯罪率升、昆士兰 96% 再犯）堵死反驳，结构严谨
+3. **先共情后反驳**：`Politicians are listening to voters angry ... and you can understand why`——先承认公众愤怒合理（12 岁杀母、15 岁杀参议员），再指出"理解愤怒 ≠ 支持降龄"，避免说教感
+4. **科学 + 数据双支撑**：神经科学（大脑发育到 20 多岁）支撑"不成熟"，昆士兰 96% 再犯率、英国 1/5 学习障碍、瑞典半数早期预警——每条对策都配一组数据
+5. **黑帮的"理性计算"视角**：`Criminals also calculate that the youngest may dodge punishment if caught`——从罪犯的算盘（cheap/pliable/免刑）解释"为什么降龄是无效解"（黑帮会改招更小的）——用博弈逻辑而非道德说理
+6. **反例证伪**：丹麦（降龄→犯罪率升→掉头）、昆士兰（10 岁刑责→96% 再犯）、北爱尔兰（阻止 10→14 提高）——三个反例覆盖"降龄有害"的三种路径
+7. **首尾对仗收束**：`prevent criminal children from becoming criminal adults`——"犯罪的儿童不再变成犯罪的成人"，criminal children / criminal adults 的同词对仗，一句完成"改造目标"的总结
+
+### 6. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `Given how` | 前提论证 | Given how fast things change, plan ahead. |
+| `In the eyes of the law` | 法律/规范 | In the eyes of the law, intent matters. |
+| `reckoned to be` | 评价 | Reckoned to be the leading expert. |
+| `wrestle with` | 难题 | The team wrestled with the design. |
+| `pushing ... downwards` | 降低 | Pressure is pushing prices downwards. |
+| `and you can understand why` | 共情 | It's popular, and you can understand why. |
+| `the promise of quick money` | 诱因 | The promise of quick money lures people. |
+| `precisely because` | 强调因果 | We chose it precisely because it's simple. |
+| `if only because` | 最低理由 | Keep it, if only because it's cheap. |
+| `Experience suggests that` | 经验论 | Experience suggests this works. |
+| `reversed course` | 改弦更张 | The company reversed course. |
+| `emerge from ... as` | 结果 | Emerged from the crisis stronger. |
+| `It is wiser to` | 建议 | It is wiser to wait. |
+| `tackle the root causes` | 治本 | Tackle the root causes, not symptoms. |
+| `flagged as at risk` | 预警 | At-risk students were flagged early. |
+| `prevent ... from becoming` | 预防 | Prevent small issues from becoming crises. |
