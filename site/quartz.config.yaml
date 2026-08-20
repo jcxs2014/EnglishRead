@@ -17,8 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Noto Sans SC
-      body: Lora, Noto Sans SC
+      header: Noto Serif SC
+      body: Lora, Noto Serif SC
       code: IBM Plex Mono
     colors:
       lightMode:
