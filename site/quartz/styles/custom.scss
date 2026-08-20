@@ -82,6 +82,12 @@ article {
   margin: 0 auto;
   padding: 2.5rem 2rem;
 
+  // 修复英文缩合符号（'s, 're, 've, n't 等）尾部空白
+  * {
+    word-spacing: normal !important;
+    letter-spacing: normal !important;
+  }
+
   h1 { font-size: 1.8rem; margin-bottom: 1rem; color: var(--orange-accent); }
   h2 { font-size: 1.4rem; margin-bottom: 0.9rem; color: var(--dark); border-bottom: 1px solid var(--orange-accent); padding-bottom: 0.4rem; }
   h3 { font-size: 1.15rem; margin-bottom: 0.8rem; color: var(--dark); }
