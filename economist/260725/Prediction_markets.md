@@ -171,12 +171,20 @@
 | hedge their exposure to | 对冲……敞口 | Some trade to hedge their exposure. |
 | a 40-fold year-on-year increase | 同比增长 40 倍 | Volumes saw a 40-fold year-on-year increase. |
 | growing pains | 成长的烦恼 | Both markets face growing pains. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | devised a reliable way | 设计出可靠的方式 | Neither has devised a reliable way to settle. |
 | a body of rules and precedent | 一套规则与先例 | Bookmakers built a body of rules. |
 | verges on the absurd | 近乎荒谬 | The process verges on the absurd. |
 | loosely worded | 措辞松散的 | Contracts are loosely worded. |
 | is gameable | 可被操纵 | The oracle is gameable. |
 | under the beady eye of | 在……严密注视下 | It operates under the beady eye of regulators. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | place bets | 下注 | No one involved may place bets. |
 | typo-strewn rulebooks | 满是错字的规则手册 | They publish typo-strewn rulebooks. |
 | subject-matter experts | 领域专家 | Rules should be set by subject-matter experts. |

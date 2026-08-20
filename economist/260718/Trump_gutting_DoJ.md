@@ -958,6 +958,10 @@
 | hold sway | 占支配地位 | 正式书面语 |
 | have no time for | 不屑于 | 口语惯用语，非字面义 |
 | muscular limb | 粗壮的肢体 | 比喻"只有力量没有头脑" |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | legitimate | 合法的/正当的 | which is legitimate |
 | blur A and B | 模糊界限 | blur the line between X and Y |
 | discredit | 抹黑 | 正式动词 |
@@ -971,6 +975,10 @@
 | in league with | 与……串通 | 贬义色彩 |
 | sack | 解雇 | 口语化，比 fire 有冲击力 |
 | pliable | 顺从的 | 原义"可弯曲的" |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | stand firm | 坚守立场 | courts stand firm |
 | check (v.) | 遏制 | 呼应 checks and balances |
 | nullify | 使无效 | 正式法律动词 |

@@ -168,11 +168,19 @@
 | steamy films | 大尺度/火辣电影 |  |
 | wholesome | 健康有益的 | Parents want wholesome content for kids. |
 | adept at purging | 精通于清除 | The board is adept at purging dissent. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | digitally adding clothing to nudes | 数码给裸体加衣服 |  |
 | crop out | 裁掉 | The censors cropped out all nudity. |
 | is anyone's guess | 没人知道 | Whether this will work is anyone's guess. |
 | racy | 大胆的/挑逗的 | The film was toned down to remove racy scenes. |
 | dived by two-fifths | 骤降五分之二 | Sales dived by two-fifths this year. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | unwilling to budge | 不愿让步 | The government seems unwilling to budge on this. |
 | deserving of an Oscar | 值得一座奥斯卡 |  |
 | a bad fit | 不合适 | That policy is a bad fit for the modern era. |

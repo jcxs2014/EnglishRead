@@ -501,7 +501,7 @@
 
 ## 词汇分级
 
-### ⭐ 基础
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ruined | adj. 被毁坏的 |  |
@@ -528,6 +528,10 @@
 | swathe | n. 大片（土地） |  |
 | genocidal | adj. 种族灭绝的 |  |
 | comparable | adj. 可比较的 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | geopolitically | adv. 从地缘政治角度看 |  |
 | reignite | v. 重新点燃 |  |
 | callous | adj. 冷酷无情的 |  |
@@ -552,6 +556,10 @@
 | foe | n. 敌人 |  |
 | supposedly | adv. 据称 |  |
 | underline | v. 凸显 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | revive | v. 重新唤起 |  |
 | breakthrough | n. 突破 |  |
 | telling | adj. 能说明问题的 |  |

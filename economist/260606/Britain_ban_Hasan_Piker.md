@@ -614,6 +614,10 @@
 | a rabble-rouser | 煽动者 | A racist rabble-rouser. |
 | worryingly aggressive | 令人担忧地激进 | A worryingly aggressive move. |
 | discretionary power | 自由裁量权 | Discretionary powers. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | afforded to | 被赋予 | Powers afforded to the minister. |
 | sparingly | 克制地 | Wield power sparingly. |
 | incitement to violence | 暴力煽动 | Incitement to hatred. |
@@ -637,6 +641,10 @@
 | provocateurs | 挑衅者 | Political provocateurs. |
 | make their living from clicks | 靠点击量谋生 | Making a living from clicks. |
 | keep out | 挡在外面 | Keep out unwanted visitors. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | whom its government dislikes | 政府不喜欢的 | Whom the regime dislikes. |
 | no excuse | 不是借口 | Ignorance is no excuse. |
 | press ... to | 敦促、施压做 | Press the government to act. |

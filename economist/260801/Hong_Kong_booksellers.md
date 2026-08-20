@@ -190,11 +190,19 @@
 | a heavy-handed approach | 高压手段 |  |
 | go after | 追查/追捕 | Authorities went after dissidents. |
 | plainclothes police | 便衣警察 | Two plainclothes officers approached him. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | patently repressive | 明显压制的 | The policy is patently repressive. |
 | navigate the red lines | 弄清红线 | It's hard to navigate the unclear red lines. |
 | an exercise of hard power | 硬实力演练 | The crackdown is an exercise of hard power. |
 | suppress collective memory | 压制集体记忆 | They want to suppress the collective memory of events. |
 | the boss | 老板（中央政府） | The third audience is the boss (Beijing). |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | on show / on display | 公开展示/上演 | The theatre is on show for all to see. |
 | bespectacled | 戴眼镜的 | A bespectacled woman entered the room. |
 | brusquely | 粗暴地/唐突地 | He brusquely told me to leave. |

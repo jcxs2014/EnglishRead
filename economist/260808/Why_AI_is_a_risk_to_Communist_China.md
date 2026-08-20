@@ -987,7 +987,7 @@
 
 ## 词汇分级
 
-### ⭐ 基础
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | model | n. 模型；模式 |  |
@@ -1011,6 +1011,10 @@
 | infrastructure | n. 基础设施 |  |
 | capacity | n. 容量、产能 |  |
 | sanction | n. 制裁 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | cutting-edge | adj. 尖端的 |  |
 | output | n. 产量 |  |
 | dynamic | adj. 有活力的 |  |
@@ -1032,6 +1036,10 @@
 | calibre | n. 水准（英式） |  |
 | autocracy | n. 威权（专制）体制 |  |
 | semi-planned | economy /ˌsemi ˈplænd ɪˈkɒnəmi/ n. 半计划经济 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | lithography | n. 光刻 |  |
 | open-weight | adj. 开放权重的 |  |
 | trade-off | n. 权衡取舍 |  |

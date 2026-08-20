@@ -305,10 +305,18 @@
 | contort | 扭曲、使变形 | He contorted himself to avoid the question. |
 | ensnare | 使落入陷阱 | The country is ensnared in a costly war. |
 | probe | 刺探、探查 | Hackers probed the network for weak points. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | brass / the brass | 军界高层 | The top brass refused to comment. |
 | fret | 焦躁、忧虑 | Markets fret that the deal may collapse. |
 | not least because | 尤其是因为 | Useful, not least because it is free. |
 | make the case that | 论证、摆出理由 | She made the case for cutting emissions. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | hand in glove | 紧密勾结 | Corruption often goes hand in glove with secrecy. |
 | shrewd | 精明的 | A shrewd investor reads the fine print. |
 | hold some cards | 握有筹码 | The negotiator held all the cards. |

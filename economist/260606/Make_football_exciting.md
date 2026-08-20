@@ -811,6 +811,10 @@
 | go for it | 放手一搏 | The team went for it. |
 | non-qualifiers | 未晋级者 | The non-qualifiers. |
 | a team of their own | 属于自己的球队 | A team of their own. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | never get to participate | 永远无法参加 | Never get to play. |
 | made up of | 由……组成 | Made up of star players. |
 | the highest-ranked players | 排名最高的球员 | Highest-ranked. |
@@ -845,6 +849,10 @@
 | blindfolded | 蒙上眼睛 | A blindfolded player. |
 | allowed to continue | 被允许继续 | Play allowed to continue. |
 | goes off the field | 出界 | The ball went off. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | starts booing | 开始喝倒彩 | The crowd started booing. |
 | nothing like ... to | 没有比……更…… | Nothing like a deadline to focus the mind. |
 | the promise of permanent residency | 永久居留的承诺 | Apply for permanent residency. |

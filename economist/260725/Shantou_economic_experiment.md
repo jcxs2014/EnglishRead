@@ -223,10 +223,18 @@
 | special economically backward zone | 特别经济落后区 | Locals call it the "special backward zone". |
 | low-margin, labour-intensive | 低利润、劳动密集型 |  |
 | unusually egregious corruption | 异常恶劣的腐败 | The city suffered unusually egregious corruption. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | graft-busters | 反腐人员 | Graft-busters were sent from the capital. |
 | the rot goes so deep | 腐败之深 | The rot goes so deep that nothing is safe. |
 | negatively correlated with | 与……负相关 | Investment is negatively correlated with growth. |
 | keep ... at bay | 挡住/止步 | Tourism revenue kept recession at bay. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | supercharge growth | 加速增长 | Policy can supercharge growth in the right conditions. |
 | usher in | 开启/引领 | Shantou was meant to usher in reform. |
 | footfall | 客流量/到店人次 | The film increased footfall. |

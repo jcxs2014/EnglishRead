@@ -824,7 +824,7 @@
 
 ## 词汇分级
 
-### ⭐ 基础
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | weary | 厌倦的，疲劳的 | Voters were **weary** of America's longest war. |
@@ -854,6 +854,10 @@
 | lucrative | 利润丰厚的 | ...and grabbed **lucrative** mining contracts. |
 | isolate | 孤立 | America and Europe have tried to **isolate** the Taliban regime. |
 | slap sanctions on | 对…实施制裁 | ...and **slapping sanctions on** officials. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | lay hands on | 获取，夺取 | ...will not adjust their ideology just to **lay hands on**... |
 | hard-nosed | 务实的，精明的 | Hints of a more **hard-nosed** Western approach... |
 | beyond the pale | 出格的，不可接受的 | Europeans still say the Afghan regime is **beyond the pale**... |
@@ -881,6 +885,10 @@
 | resuscitate | 恢复，复兴 | (未出现，但为相关词) |
 | jeopardize | 危及，损害 | (未出现，但为相关词) |
 | staunch | 坚定的，忠诚的 | (未出现，但为相关词) |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | adversary | 对手，敌手 | (未出现，但为相关词) |
 | relentless | 持续不断的，无情的 | (未出现，但为相关词) |
 | unpalatable | 令人不快的，难以下咽的 | (未出现，但为相关词) |

@@ -124,9 +124,17 @@
 | contribute to a narrative | 助长某种叙事 | The data contributes to a familiar narrative. |
 | a stable foundation | 稳定的基础 | A college degree is a stable foundation for a career. |
 | aspire to | 渴望/追求 | She aspired to become a doctor. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | counter-cyclical investment | 反周期投资 | Housing can act as counter-cyclical investment. |
 | notoriously volatile | 臭名昭著的波动性 | The industry is notoriously volatile. |
 | be honestly uncertain than confidently wrong | 宁可诚实不确定，不要自信错误 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | the ultimate story for grandchildren | 讲给孙子听的故事（最牛故事） | He survived the accident — the ultimate story for grandchildren. |
 | I was an irritant to adults. I became a journalist. | 童年烦恼变职业（幽默因果） |  |
 

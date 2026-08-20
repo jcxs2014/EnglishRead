@@ -268,10 +268,18 @@
 | rack up (surpluses/debt) | 积累/堆积 | The company racked up huge losses last quarter. |
 | out of kilter | 失调的/错位的 | His schedule is out of kilter. |
 | yawning (deficit/gap) | 巨大的/张开的 | There's a yawning gap between rich and poor. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | strident | 尖锐的/激烈的 | She was strident in her criticism. |
 | ebb` (and flow) | 退潮/减弱 | His enthusiasm soon ebbed. |
 | unmoored | 失去锚的/漂泊的 | The currency remained unmoored from fundamentals. |
 | draw on (markets/labour) | 涉及/利用 | The product draws on decades of research. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | lavish ... on | 精心投入/慷慨给予 | She lavishes attention on her garden. |
 | take on a life of its own | 有了自己的生命 | The project has taken on a life of its own. |
 

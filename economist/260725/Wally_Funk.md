@@ -356,12 +356,20 @@
 | holy cow! | 天哪！（感叹） | Holy cow, that's a lot of money! |
 | face it down, beat it back | 直面它，打回去 | She faced problems down and beat them back. |
 | gobble gobble | 狼吞虎咽（象声词） | He gobbled down his dinner. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | sensory-deprivation tank | 感觉剥夺水箱 |  |
 | haul her out | 把它拖出来 | They had to haul her out of the tank. |
 | got cold feet | 临阵退缩 | He got cold feet before the wedding. |
 | "throw it a fish" | "扔条鱼给它" | They would throw it a fish and move on. |
 | marlin rather than a trout | 马林鱼而非鳟鱼 | It required a marlin rather than a trout. |
 | first and only woman | 首位且唯一女性 | She was the first and only woman in the department. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | rapelling off cliffs | 从悬崖上绳降 |  |
 | niggled her | 使她萦绕/烦扰 | The dream still niggled her. |
 | barf-bags | 呕吐袋 | Everyone used their barf-bags except her. |

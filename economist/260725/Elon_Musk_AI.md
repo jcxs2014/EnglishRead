@@ -350,6 +350,10 @@
 | not any more than | 不比……更 | AIs won't take orders any more than from chimps. |
 | vet each other's models | 审查彼此模型 | Pioneers should vet each other's models. |
 | make AIs benign | 让 AI 良善 | The task is to make AIs benign. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | imbuing them with | 灌输……给它们 | Imbue AIs with a love of truth. |
 | provide the muscle | 提供力量 | Governments should provide the muscle. |
 | shock and consternation | 震惊与恐慌 | The pace causes shock and consternation. |
@@ -363,6 +367,10 @@
 | the futility of trying | 尝试的徒劳 | He convinces others of the futility of trying. |
 | a cornucopia | 丰饶角/富足 | Such a cornucopia is inconceivable. |
 | let alone | 更不用说 | Not infinite, let alone raw materials. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | satiate ... inhabitants | 满足……居民 | Energy to satiate 8.3bn people. |
 | ride the waves of upheaval | 乘着动荡浪潮 | How to ride the waves of upheaval? |
 | a life of unbounded leisure | 无限闲暇的生活 | Humanity may struggle with unbounded leisure. |

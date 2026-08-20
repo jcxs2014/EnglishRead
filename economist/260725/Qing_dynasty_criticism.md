@@ -293,10 +293,18 @@
 | sartorial sensibilities | 服饰政治敏感度 | His sartorial sensibilities were sharp. |
 | Dredging up | 挖掘/翻出旧事 | Why dredge up old grievances? |
 | cut against | 与……相抵触 | This cuts against the official narrative. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | looks askance at | 侧目而视/怀疑 | They look askance at foreign ideas. |
 | wade into | 介入/涉足 | The official body waded into the discussion. |
 | scuppered | 破坏/搁置 | The project was scuppered by infighting. |
 | full-throated | 毫无保留/畅所欲言 | The country needs a full-throated debate. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | too thin-skinned | 过于敏感 | The party is too thin-skinned for criticism. |
 | hold your breath | 屏息等待（期望） | He promised change — but don't hold your breath. |
 | interlopers | 闯入者/不速之客 | They were seen as foreign interlopers. |

@@ -246,10 +246,18 @@
 | reaping a windfall | 收获意外之财 | The state is reaping a windfall from the IPO. |
 | steely patience | 铁一般的耐心 | The leader is credited with steely patience. |
 | pouring state cash into | 倾注国家资金进 | The government poured billions into the sector. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | a return of 40 times | 40 倍回报 | The investment yielded a 40x return. |
 | pilfering state assets | 贪污国家资产 | Officials were accused of pilfering state assets. |
 | squeaky-clean | 一尘不染/完全清廉 | He maintained a squeaky-clean reputation. |
 | lacks buyers with deep pockets | 缺财力雄厚的买家 | The market lacks buyers with deep pockets. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | offload shares | 抛售股票 | Early investors offloaded shares at the IPO. |
 | mark the value of | 给……做估值 | Banks must mark the value of assets quarterly. |
 | scored on political benchmarks | 按政治指标评分 | State firms are scored on political benchmarks. |

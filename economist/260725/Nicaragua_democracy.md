@@ -244,11 +244,19 @@
 | govern by popular consent | 依靠民众同意执政 | They claim to govern by popular consent. |
 | nobbled the courts | 使法院失效 | He nobbled the courts and the media. |
 | backslider | 民主倒退者 | Nicaragua is a backslider. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | set about dismantling | 着手拆除 | He set about dismantling institutions. |
 | albeit fake ones | 尽管是假的 | Elections continued, albeit fake ones. |
 | rig elections | 操纵选举 | They rig elections rather than scrap them. |
 | scrap them | 废除它们 | Strongmen rig elections rather than scrap them. |
 | taken off the mask | 摘下假面具 | Ortega has taken off the mask. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | age in office | 在位变老 | Leaders who cannot be removed age in office. |
 | foisted on | 强加给 | A dynasty foisted on unwilling citizens. |
 | pay lip service to | 口头敷衍 | They pay lip service to democratic norms. |

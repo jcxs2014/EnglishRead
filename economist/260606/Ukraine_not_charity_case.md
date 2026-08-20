@@ -712,6 +712,10 @@
 | full EU membership | 正式欧盟成员资格 | Apply for full membership. |
 | a candidate for membership | 入盟候选国 | A candidate country. |
 | is expected to open | 预计将打开 | Expected to begin. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | negotiating "cluster" | 谈判簇 | A negotiating cluster. |
 | the rule of law | 法治 | Democracy and rule of law. |
 | as soon as next year | 最快明年 | As soon as next year. |
@@ -744,6 +748,10 @@
 | rushing to bring ... into | 急于拉进 | Rush to admit. |
 | institutionally weak | 制度薄弱的 | Institutionally fragile. |
 | not baseless | 并非毫无根据 | Baseless fears. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | miss the bigger picture | 错过更大图景 | See the bigger picture. |
 | hard power | 硬实力 | Military hard power. |
 | an increasingly hostile world | 日益敌对的世界 | A hostile environment. |

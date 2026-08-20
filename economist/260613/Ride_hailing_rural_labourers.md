@@ -581,7 +581,6 @@
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| 词汇 / 表达 | 释义 | 例句 |
 | kinder to | 对……更友善 | Few cities kinder to migrants. |
 | megacity | 巨型城市 | The southern megacity of 18m. |
 | sleepy town | 沉睡的小镇 | A sleepy town picked as a test-zone. |
@@ -601,6 +600,10 @@
 | cabbie | 出租车司机 | Ask any cabbie. |
 | in vivid detail | 绘声绘色 | Explain in vivid detail. |
 | in rough shape | 状态不佳 | The economy is in rough shape. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | Squeezed locals | 被挤压的本地人 | Squeezed locals reluctant to spend. |
 | reluctant to | 不情愿 | Reluctant to take long rides. |
 | pushing down | 压低 | Pushing down demand. |
@@ -620,6 +623,10 @@
 | a cabbie glut | 司机过剩 | Facing a cabbie glut. |
 | glut | 过剩 | A glut of workers. |
 | restricted permits | 限制牌照 | Restricted permits for ride-hailing. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | up sticks | 搬家、收拾行囊 | Up sticks and move. |
 | quests for employment | 求职 | Quests for employment. |
 | entrepot | 转口港 | In such an entrepot. |

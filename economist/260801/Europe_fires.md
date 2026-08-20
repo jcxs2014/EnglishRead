@@ -259,10 +259,18 @@
 | bank on | 指望、依靠 | Don't bank on him showing up. |
 | desiccated | 干透的 | The desiccated ground cracked under the sun. |
 | up one's game | 提升水准 | If you don't up your game, you'll be left behind. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | bring ... into play | 投入使用 | The army brought heavy artillery into play. |
 | pool (resources) | 整合共享 | The two firms pooled their R&D. |
 | diktat | 强制命令 | The diktats of management left no room for debate. |
 | eat into | 侵蚀、消耗 | Legal fees ate into our savings. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | all too (likely) | 实在太（……） | Such mistakes are all too common. |
 | put ... in the shade | 使相形见绌 | This achievement puts all others in the shade. |
 | capricious | 反复无常的 | The capricious wind made forecasting impossible. |

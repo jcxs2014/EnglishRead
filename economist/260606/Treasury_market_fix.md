@@ -796,6 +796,10 @@
 | enormous | 巨大的 | An enormous market. |
 | outstanding | 未偿还的 | Bonds outstanding. |
 | change hands | 易手 | Bonds change hands daily. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | earn their living | 谋生 | Earn a living. |
 | facilitating | 促成 | Facilitate trade. |
 | increasingly finding it difficult | 越来越难 | Finding it hard to compete. |
@@ -828,6 +832,10 @@
 | widens | 扩大 | The gap widened. |
 | the basis trade | 利差交易 | The basis between futures and cash. |
 | relies on | 依赖 | Relies on funding. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | the repo market | 回购市场 | Repo rates. |
 | agrees to buy it back | 约定买回 | Agree to buy back. |
 | at a slightly higher price | 以略高的价格 | A slightly higher price. |

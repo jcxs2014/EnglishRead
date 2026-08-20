@@ -292,6 +292,10 @@
 | folksy | 平易近人的 | The new man was folksy. |
 | hawk a soothing mix | 兜售安抚组合 | He hawked nostalgia and giveaways. |
 | peddling a manufacturing nostalgia | 兜售制造业怀旧 | Governments are peddling nostalgia. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | appease restive voters | 安抚躁动选民 | Policies designed to appease restive voters. |
 | an architect and beneficiary more than a victim | 设计者受益者多过受害者 | Britain is a beneficiary more than a victim. |
 | by fiat | 凭行政命令 | You cannot create factory jobs by fiat. |
@@ -299,6 +303,10 @@
 | the wrong side of the ledger | 账本错误的一侧 | Blaming prices looks at the wrong side of the ledger. |
 | sweeties today | 今天的糖果 | Scrapping tomorrow's reforms for sweeties today. |
 | tickle his party's tummy | 挠党派的肚子 | He knows how to tickle his party's tummy. |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | panders | 讨好逢迎 | When it's time for hard truths, Andy panders. |
 | living beyond its means | 入不敷出 | Britain is living beyond its means. |
 | flirts with | 试探/暧昧地接触 | He flirts with big tax cuts. |
