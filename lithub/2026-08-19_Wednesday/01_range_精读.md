@@ -11,13 +11,14 @@
 - **主题**：**一位独居的丹麦女天文学家 Gunn 的圣诞夜**——**她在乡间小屋**里**等待卫星数据、等待儿子的坐标、等待伽马射线暴**——**用**"数据点"的**方法论**面对**生活的不可控**。故事围绕**三个"等待"的层次**展开：**科学**（卫星/伽马暴）、**亲情**（儿子独行的公路旅行）、**社交**（邻居 Brit 的来访）。Nors 用**极度克制的内心独白**写一位**"理性与孤独共生"**的女性：她**能观测宇宙**，却**不能**"观测"**身边的人际关系**。
 - **结构**：小说由五个星号分隔的场景构成——① 邻居 Brit 母女装马经过 → ② Gunn 收到儿子短信（含坐标）→ ③ 夜间失眠，等待数据 → ④ 童年回忆（父亲车里的月亮）→ ⑤ 黎明前短暂的睡眠。
 - **段落脉络**：
- | 场景 | 一句话脉络 |
- |---|---|
- | 1 | 圣诞前夜，邻居 Brit 母女装马经过；Brit 借机询问"黑色东西"海报 |
- | 2 | Brit 走后，Gunn 收到儿子短信：坐标 31°51'N 91°39'W + 手掌照片 |
- | 3 | Gunn 在笔记中写下"美国南部，估计"；她解开了坐标之谜 |
- | 4 | Sicily Island, Louisiana——一个 opioid 肆虐的衰败小镇 |
- | 5 | 夜间失眠，想起童年父亲车里的月亮；等待伽马射线暴 |
+
+| 场景 | 一句话脉络 |
+|---|---|
+| 1 | 圣诞前夜，邻居 Brit 母女装马经过；Brit 借机询问"黑色东西"海报 |
+| 2 | Brit 走后，Gunn 收到儿子短信：坐标 31°51'N 91°39'W + 手掌照片 |
+| 3 | Gunn 在笔记中写下"美国南部，估计"；她解开了坐标之谜 |
+| 4 | Sicily Island, Louisiana——一个 opioid 肆虐的衰败小镇 |
+| 5 | 夜间失眠，想起童年父亲车里的月亮；等待伽马射线暴 |
 - **核心金句**：*"Data points are not thoughts in a stream to be stopped. They exist and can be read and understood once they are discovered, set down, documented and computed."*（"数据点不是要被截断的心流。它们存在，一旦被发掘、记录、整理、计算，就可以被阅读和理解。"）
 - **核心金句（二）**：*"To spend one's life at the desk is to sit with one's unlived lives; to make peace with destroyed time, to submit, submit, submit."*
 

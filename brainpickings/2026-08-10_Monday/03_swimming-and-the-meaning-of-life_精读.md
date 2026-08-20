@@ -11,18 +11,19 @@
 - **关键人物**：作者本人（从竞技游泳到中年回归野泳）/ Roger Deakin / Rachel Carson / Elaine Morgan / Sir Alister Hardy / Bill Hayes / Lisa Congdon / Robert Macfarlane。
 - **结构**：① 童年记忆（临在+平静并存=超越性的前身）→ ② 竞技游泳 vs 野泳（成就抽干快乐）→ ③ Roger Deakin《水记》登场 → ④ "不可磨灭的游泳"如梦 → ⑤ 水生起源说（人是半水生物）→ ⑥ 身体大部分是水 → ⑦ 下水=与水的共振 → ⑧ 超越"长度/时间"的游泳（反成就）→ ⑨ 游泳的"临在"作为反抗 → ⑩ 反"被标注的世界"
 - **段落脉络**：
- | 段 | 一句话脉络 |
- |---|---|
- | 1 | 童年记忆：临在+平静的并存=超越性的前身 |
- | 2 | 竞技游泳 vs 野泳：越追求表现，越抽干快乐 |
- | 3 | Roger Deakin《水记》登场 |
- | 4 | "不可磨灭的游泳"如梦，对心灵与精神有深远影响 |
- | 5 | 水生起源说：人是半水生物（Evolutionary inheritance） |
- | 6 | 身体大部分是水，下水是与水的共振 |
- | 7 | 下水时的"活生生感"（aliveness） |
- | 8 | 超越"长度/时间"的游泳=反成就 |
- | 9 | 游泳的"临在"作为反抗与收复 |
- | 10 | 反"被标注的世界" |
+
+| 段 | 一句话脉络 |
+|---|---|
+| 1 | 童年记忆：临在+平静的并存=超越性的前身 |
+| 2 | 竞技游泳 vs 野泳：越追求表现，越抽干快乐 |
+| 3 | Roger Deakin《水记》登场 |
+| 4 | "不可磨灭的游泳"如梦，对心灵与精神有深远影响 |
+| 5 | 水生起源说：人是半水生物（Evolutionary inheritance） |
+| 6 | 身体大部分是水，下水是与水的共振 |
+| 7 | 下水时的"活生生感"（aliveness） |
+| 8 | 超越"长度/时间"的游泳=反成就 |
+| 9 | 游泳的"临在"作为反抗与收复 |
+| 10 | 反"被标注的世界" |
 - **核心金句**：*"I can still hear the feeling-tone in my body, the strange and lovely simultaneity of absolute presence and absolute peace."*
 - **核心金句（二）**：*"To swim is to be, not to do."*
 

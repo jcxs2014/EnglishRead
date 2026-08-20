@@ -11,24 +11,25 @@
 - **关键人物**：Whitman / Marcus Aurelius（121–180）/ Seneca / William James / Ursula K. Le Guin。
 - **结构**：① 痛苦的真正根源（期待 vs 现实）→ ② 解药：校准期待 → ③ Whitman 中风后"调低欲望"的实证 → ④ 过渡到"关系"中的期待错位 → ⑤ 奥勒留《沉思录》登场 → ⑥ 概率统计式的安慰（核心）→ ⑦ 内在信念决定一切 → ⑧ 两步操作法（拉远+拉近）→ ⑨ "看清=最大自我防御" → ⑩ "给每一个印象命名" → ⑪ 看清→正当行动→美好生活 → ⑫ "好生活"配方 → ⑬ 补充阅读（斯多葛↔道家）
 - **段落脉络**：
- | 段 | 一句话脉络 |
- |---|---|
- | 1 | 痛苦的根源：期待与现实碰撞，愤慨是二次伤害 |
- | 2 | 解药：不是扭曲现实，而是校准期待 |
- | 3 | Whitman 中风后"调低欲望"的实证 |
- | 4 | Whitman 编辑期待以匹配新现实（counterpossible） |
- | 5 | 过渡到关系：期待错位同样在人际中制造痛苦 |
- | 6 | 奥勒留登场：1900 年前的愤慨文化 vs 今天的互联网 |
- | 7 | 概率统计式的安慰：坏人必然存在，不必愤慨 |
- | 8 | 内在信念决定一切：外在事物是惰性的 |
- | 9 | 内心反应 = 唯一主权（self-membraned bubble） |
- | 10 | 愤怒 = 自己理性记忆的失败 |
- | 11 | 两步法：先拉远稀释，再拉近落地 |
- | 12 | 看清本质 = 最大自我防御（幻灭之痛） |
- | 13 | 给每一个印象命名（斯多葛命名法） |
- | 14 | 看清 → 正当行动 → 美好生活 |
- | 15 | "好生活"配方：勤勉+坚定+善意+诚实 |
- | 16 | 补充阅读：斯多葛与道家"无为"精神相通 |
+
+| 段 | 一句话脉络 |
+|---|---|
+| 1 | 痛苦的根源：期待与现实碰撞，愤慨是二次伤害 |
+| 2 | 解药：不是扭曲现实，而是校准期待 |
+| 3 | Whitman 中风后"调低欲望"的实证 |
+| 4 | Whitman 编辑期待以匹配新现实（counterpossible） |
+| 5 | 过渡到关系：期待错位同样在人际中制造痛苦 |
+| 6 | 奥勒留登场：1900 年前的愤慨文化 vs 今天的互联网 |
+| 7 | 概率统计式的安慰：坏人必然存在，不必愤慨 |
+| 8 | 内在信念决定一切：外在事物是惰性的 |
+| 9 | 内心反应 = 唯一主权（self-membraned bubble） |
+| 10 | 愤怒 = 自己理性记忆的失败 |
+| 11 | 两步法：先拉远稀释，再拉近落地 |
+| 12 | 看清本质 = 最大自我防御（幻灭之痛） |
+| 13 | 给每一个印象命名（斯多葛命名法） |
+| 14 | 看清 → 正当行动 → 美好生活 |
+| 15 | "好生活"配方：勤勉+坚定+善意+诚实 |
+| 16 | 补充阅读：斯多葛与道家"无为"精神相通 |
 - **核心金句**：*"The vast majority of our mental, emotional, and spiritual suffering comes from the violent collision between our expectations and reality."*
 - **核心金句（二）**：*"No matter what another person does — to us or at us or near the self-membraned bubble of our being — our inner response to it lives in the realm of feeling, that sovereign source of light over which we alone have agency and dominion."*
 

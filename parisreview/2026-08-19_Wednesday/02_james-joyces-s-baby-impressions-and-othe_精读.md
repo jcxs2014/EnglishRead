@@ -13,14 +13,15 @@
  1. 编者按（"每个人都做传记" + "尴尬乐趣" + Lee 的传记品质）
  2. 对话节选：Thomas 问 → Lee 答（以**Woolf/Plath/Lawrence**为例说明"问责型传记"）
 - **段落脉络**：
- | 段 | 一句话脉络 |
- |---|---|
- | 1 | 编者开场：每个人都在做传记 |
- | 2 | 尴尬乐趣的具体例子（乔伊斯模仿婴儿、托尔斯泰喝马酸奶、塞巴尔德握匕首） |
- | 3 | Lee 的传记品质：一手研究 + 阐发性解读 |
- | 4 | 编者按收束：传记是"尝试理解他人"的真诚努力 |
- | 5 | Thomas 提问：传记作者是否会爱上对象？ |
- | 6 | Lee 回答：以 Woolf/Plath/Lawrence 为例，说明"问责型传记" |
+
+| 段 | 一句话脉络 |
+|---|---|
+| 1 | 编者开场：每个人都在做传记 |
+| 2 | 尴尬乐趣的具体例子（乔伊斯模仿婴儿、托尔斯泰喝马酸奶、塞巴尔德握匕首） |
+| 3 | Lee 的传记品质：一手研究 + 阐发性解读 |
+| 4 | 编者按收束：传记是"尝试理解他人"的真诚努力 |
+| 5 | Thomas 提问：传记作者是否会爱上对象？ |
+| 6 | Lee 回答：以 Woolf/Plath/Lawrence 为例，说明"问责型传记" |
 - **核心金句**：*"Literary biography is an awkward pleasure. I like its strange textures and surprises."*（"文学传记是一种尴尬的乐趣。我喜欢它那奇特的质感与意外。"）
 - **核心金句（二）**：*"It's as if you can't tell a life story without someone having to be blamed. Named and shamed and blamed."*（"仿佛你不指责某人，就无法讲完一个生命的故事。点名、羞辱、问责。"）
 

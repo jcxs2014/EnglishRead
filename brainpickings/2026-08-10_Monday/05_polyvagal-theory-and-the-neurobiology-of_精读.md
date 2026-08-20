@@ -11,22 +11,23 @@
 - **关键人物**：Deb Dana / Stephen Porges（多迷走神经理论创始人）/ William James / Santiago Ramón y Cajal / Otto Loewi / Adrienne Rich / Toni Morrison。
 - **结构**：① 开篇：故事跟在状态之后（James）→ ② 迷走神经的词源与分布 → ③ 神经科学史（Cajal→Loewi）→ ④ 两套系统（背侧 vs 腹侧）→ ⑤ Deb Dana 与创伤自动化反应 → ⑥ 相连=生物必需 → ⑦ limbic revision → ⑧ 神经感知（neuroception）→ ⑨ 共同调节的缺失（commission vs omission）→ ⑩ 生理先于心理，但我们是讲故事的存在 → ⑪ 默认的危险探测 → ⑫ 互惠性=两个神经系统之间的通讯 → ⑬ 互惠=倾听与回应 → ⑭ 互惠的悖论与希望（Adrienne Rich 收束）
 - **段落脉络**：
- | 段 | 一句话脉络 |
- |---|---|
- | 1 | 情感不能脱离身体（William James 反笛卡尔） |
- | 2 | 迷走神经是脑外最影响情感景观的器官（vagus=vagabond=vague） |
- | 3 | 神经科学史：Cajal 发现突触间隙→Loewi 证实神经递质 |
- | 4 | 两套系统：背侧（5亿年/恐惧/关机）vs 腹侧（2亿年/连接/沟通） |
- | 5 | Deb Dana：创伤自动化反应→背侧迷走掌管→重新布线 |
- | 6 | 相连=生物必需；腹侧迷走状态的情绪清单 |
- | 7 | limbic revision：通过关系重塑神经系统 |
- | 8 | 神经感知（neuroception）：神经系统无意识探测安全/危险 |
- | 9 | 共同调节的缺失：commission（施害）vs omission（忽视） |
- | 10 | 生理先于心理，但我们是讲故事的存在 |
- | 11 | 早期创伤让"危险探测"成为默认 |
- | 12 | 互惠性=两个神经系统之间的通讯 |
- | 13 | 互惠=倾听与回应 |
- | 14 | 互惠的悖论与希望（Adrienne Rich 收束） |
+
+| 段 | 一句话脉络 |
+|---|---|
+| 1 | 情感不能脱离身体（William James 反笛卡尔） |
+| 2 | 迷走神经是脑外最影响情感景观的器官（vagus=vagabond=vague） |
+| 3 | 神经科学史：Cajal 发现突触间隙→Loewi 证实神经递质 |
+| 4 | 两套系统：背侧（5亿年/恐惧/关机）vs 腹侧（2亿年/连接/沟通） |
+| 5 | Deb Dana：创伤自动化反应→背侧迷走掌管→重新布线 |
+| 6 | 相连=生物必需；腹侧迷走状态的情绪清单 |
+| 7 | limbic revision：通过关系重塑神经系统 |
+| 8 | 神经感知（neuroception）：神经系统无意识探测安全/危险 |
+| 9 | 共同调节的缺失：commission（施害）vs omission（忽视） |
+| 10 | 生理先于心理，但我们是讲故事的存在 |
+| 11 | 早期创伤让"危险探测"成为默认 |
+| 12 | 互惠性=两个神经系统之间的通讯 |
+| 13 | 互惠=倾听与回应 |
+| 14 | 互惠的悖论与希望（Adrienne Rich 收束） |
 - **核心金句**：*"The mind narrates what the nervous system knows. Story follows state."*
 - **核心金句（二）**：*"Connectedness is a biological imperative."*
 
