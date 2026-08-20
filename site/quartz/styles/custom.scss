@@ -232,86 +232,204 @@ a.internal {
 }
 
 // --- 响应式：手机 ---
-@media all and (max-width: 600px) {
-  .page[data-slug="index"] .page-header {
-    padding: 2rem 1rem 1.5rem;
+// 基于行业最佳实践：移动优先 + 汉堡菜单 + 内容优先 + 触控目标 ≥44px
+@media all and (max-width: 800px) {
+  // 重写 Quartz Grid：移动端三栏布局（顶栏 / 内容 / 底栏）
+  // 左侧侧边栏转为抽屉式
+  .page > #quartz-body {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: auto 1fr auto !important;
+    grid-template-areas:
+      "grid-header"
+      "grid-center"
+      "grid-footer" !important;
+  }
 
-    .article-title {
-      font-size: 1.6rem;
+  // 移动端隐藏左侧侧边栏抽屉
+  .left.sidebar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 280px !important;
+    max-width: 85vw !important;
+    height: 100vh !important;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 1000;
+    background: var(--light);
+    border-right: 1px solid var(--lightgray);
+    overflow-y: auto;
+    box-shadow: 2px 0 12px rgba(0, 0, 0, 0.1);
+
+    &.explorer-open {
+      transform: translateX(0);
     }
   }
 
-  // 手机端：默认隐藏侧边栏
-  .left.sidebar:not(.explorer-open) {
-    transform: translateX(-100%);
-    transition: transform 0.2s;
+  // 抽屉打开时显示遮罩
+  .sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 999;
+
+    &.active {
+      display: block;
+    }
   }
 
-  // 内容区占满整个宽度
+  // 探索按钮（汉堡菜单）加大触控区域
+  button.title-button {
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0 0.75rem;
+  }
+
+  // 顶栏：汉堡 + 标题 + 模式按钮
+  #quartz-body .page-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--lightgray);
+    background: var(--light);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .page[data-slug="index"] .page-header {
+    padding: 2rem 1rem 1.5rem;
+    text-align: center;
+
+    .article-title {
+      font-size: 1.5rem;
+    }
+  }
+
+  // 文章主体：占满全部宽度
   article {
-    padding: 1.25rem 1rem;
-    max-width: 100%;
-    width: 100%;
-    margin-left: 0;
+    padding: 1.25rem 1rem !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    font-size: 1rem;
+    line-height: 1.75;
 
     h1 { font-size: 1.5rem; }
-    h2 { font-size: 1.2rem; }
+    h2 { font-size: 1.25rem; }
+    h3 { font-size: 1.1rem; }
 
     p {
-      line-height: 1.75;
       margin-bottom: 1rem;
     }
 
-    // 表格：小屏字号缩小并允许横向滚动
-    table {
-      display: block;
-      overflow-x: auto;
-      white-space: nowrap;
-      font-size: 0.75rem;
-    }
-
-    // 段落脉络表格特殊处理：改成块状堆叠
-    .table-wrapper {
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-    }
-
-    // 压缩空行
-    br {
-      display: none;
+    // 标题居中防溢出
+    h1, h2, h3, h4 {
+      word-wrap: break-word;
+      overflow-wrap: break-word;
     }
 
     // 引用块缩进减小
     blockquote {
       padding: 0.5rem 0.75rem;
       margin: 1rem 0;
+      border-left-width: 2px;
     }
 
-    // 标题居中防溢出
-    h1, h2, h3 {
-      word-wrap: break-word;
+    // 列表缩进
+    ul, ol {
+      padding-left: 1.5rem;
     }
   }
 
-  .left.sidebar {
-    width: 240px !important;
-    min-width: 240px !important;
-    z-index: 100;
+  // 表格：移动端横向滚动 + 缩小字号
+  article table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+    font-size: 0.8rem;
+    max-width: 100%;
 
-    .page-title {
-      font-size: 1rem;
+    th, td {
+      padding: 0.4rem 0.6rem;
+    }
+  }
+
+  // 段落脉络表格：手机端转为堆叠卡片布局
+  article table.table-wrapper,
+  article .table-wrapper table {
+    display: block;
+    white-space: normal;
+
+    thead {
+      display: none;
+    }
+
+    tbody, tr {
+      display: block;
+    }
+
+    tr {
+      margin-bottom: 1rem;
       padding: 0.75rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      background: var(--light);
     }
 
-    .nav-file-title {
-      font-size: 0.85rem;
+    td {
+      display: block;
+      padding: 0.3rem 0;
+      border: none;
+      white-space: normal;
+
+      &::before {
+        content: attr(data-label) ": ";
+        font-weight: 600;
+        color: var(--orange-accent);
+      }
     }
   }
 
+  // 代码块横向滚动
+  pre {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 0.85rem;
+  }
+
+  // 链接最小触控区域
+  a.internal, a.external {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+
+  // 按钮触控区域
+  button {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  // 暗色模式/阅读模式按钮
   .darkmode button,
   .readermode button {
-    width: 36px;
-    height: 36px;
+    width: 44px;
+    height: 44px;
+  }
+
+  // 压缩 br 空行
+  br {
+    display: none;
+  }
+
+  // 内联代码字号
+  code {
+    font-size: 0.9em;
+    word-break: break-word;
   }
 }
 
