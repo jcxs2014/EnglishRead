@@ -4,8 +4,8 @@
   "description": "中文母语者用 The Paris Review 等高品质文学/非虚构来源做逐句英文精读的个人知识库",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#faf8f8",
-  "theme_color": "#DE8000",
+  "background_color": "#1C1C1E",
+  "theme_color": "#1C1C1E",
   "orientation": "portrait-primary",
   "icons": [
     {

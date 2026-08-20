@@ -92,7 +92,7 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <link rel="apple-touch-icon" href={joinSegments(baseDir, "static/apple-touch-icon.png")} />
         <link rel="manifest" href={joinSegments(baseDir, "static/manifest.json")} />
-        <meta name="theme-color" content="#DE8000" />
+        <meta name="theme-color" content="#1C1C1E" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="EnglishRead" />
