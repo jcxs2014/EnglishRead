@@ -432,20 +432,44 @@
 
 ## 词汇分级
 
-### ⭐⭐⭐ 高级
+ ### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| （见精读结束总结） | — | — |
+| kleptocracy | 盗贼政权 | 委内瑞拉被称为盗贼政权 |
+| repudiate | 拒绝/否认 | The opposition may repudiate the agreement. |
+| disbursement | 资金发放/支付 | Disbursement of oil revenue. |
+| vassal state | 附庸国 | Soviet vassal states |
+| caprice | 反复无常/任性 | Trump's caprice |
+| summon huge crowds | 召集大批民众 | Ms Machado's ability to summon huge crowds |
+| drag on | 拖延/持续 | The crisis continues to drag on. |
 
 ### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| （见精读结束总结） | — | — |
+| deposed despot | 被废黜的暴君 | A deposed despot |
+| dismal deputy | 糟糕的副手 | Dismal deputy |
+| American stooge | 美国的傀儡 | Called an American stooge |
+| dilapidated oilfields | 破旧的油田 | Dilapidated oilfields |
+| short-sighted | 短视的 | Short-sighted policy |
+| broken promises | 违约/食言 | Broken promises |
+| opposition leader | 反对派领袖 | Opposition leader returns home. |
+| presidential election | 总统选举 | 2027 presidential election |
+| judicial reform | 司法改革 | Modest judicial reform |
 
 ### ⭐ 基础
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| （见精读结束总结） | — | — |
+| snatch | 抓获/夺取 | snatch someone from power |
+| boast | 吹嘘/自夸 | Boast endlessly about something |
+| modest | 温和的/不大的 | A modest agreement |
+| Supreme Court | 最高法院 | The Supreme Court ruling |
+| secretary of state | 国务卿 | Marco Rubio, secretary of state |
+| free hand | 充分授权 | A reasonably free hand |
+| rule of law | 法治 | Under democracy and the rule of law |
+| deeply involved | 深度参与 | Be deeply involved in negotiations |
 
 ## 长难句专项
 
