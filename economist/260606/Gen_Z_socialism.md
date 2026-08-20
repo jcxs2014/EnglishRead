@@ -1132,7 +1132,98 @@
 
 ---
 
-*—— 精读结束 ——*## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| zany fringes | 古怪滑稽的边缘人物 | A zany idea. || supercharged | 增压的 | Supercharged by anger. || price controls | 价格管制 | Impose price controls. || nationalisation | 国有化 | State nationalisation. || all but flat | 几乎原地踏步 | All but finished. || grain of truth | 一丝真理 | A grain of truth. || in aggregate | 总体而言 | In aggregate, they. || at the root of | 的根源 | At the root of. || confiscatory | 没收性的 | A confiscatory tax. || course correction | 路线纠正 | Automatic correction. || over-regulation | 过度管制 | Over-regulation hurts. || low-growth funk | 低增长低迷 | In a funk. || relative decline | 相对衰落 | Relative decline. || urgent task | 紧迫的任务 | An urgent task. || free-market liberals | 自由市场派 | Free-market liberals. || behavioural economics | 行为经济学 | Behavioural study. || broad-based | 基础广泛的 | Broad-based. || hand-wringing | 焦虑不安 | Hand-wringing about. || uncharismatic | 无魅力的 | An uncharismatic. || solve the problems driving | 解决引发……的问题 | Problems driving. || abundance liberals | "富足"自由派 | Abundance liberal. || cheap and plentiful | 廉价充足的 | Plentiful supply. || saddle with | 让……背负 | Saddled with costs. || excessive pensions | 过度养老金 | Excessive pay. || meritocracy | 功绩制 | A meritocracy. || inheritocracy | 继承制（生造词） | An inheritocracy. || jobs guarantee | 就业保障 | A jobs guarantee. || set out their stall | 摆好摊位 | Set out the stall. || prescriptions | 药方、处方 | Policy prescriptions. || distributed capital ownership | 分布式资本所有权 | Distributed ownership. || widely shared | 被广泛分享 | Widely shared. || wind in their sails | 顺风满帆 | Have the wind. || preoccupations | 关注焦点 | A major preoccupation. || ruthless competition | 残酷竞争 | Ruthless rivals. || mad schemes | 疯狂计划 | Mad schemes. || exempting from | 免除 | Exempt from tax. || formidable pace | 惊人速度 | At a formidable pace. || thumping support | 压倒性支持 | Thumping victory. |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| drill into | 灌输 | Drilled into their heads. || fury over | 对……的愤怒 | Fury over Gaza. || formidable | 惊人强大的 | A formidable opponent. || remake | 重塑 | Remake the system. || awash in | 泛滥的 | Awash with money. || all but | 几乎 |  || seductive | 诱人的 | A seductive offer. || wafer-thin | 薄如纸片的 | Wafer-thin margins. || demonise | 妖魔化 | Demonise the rich. || statist | 国家主义的 | Statist ideology. || Peronist | 秘羅莱斯式的 | The Peronists. || apologise | 道歉 | Stop apologising. || obscure | 遮蔽 | Obscure the facts. || as well as | 以及 | A and B as well as C. || punchier | 更有力的 | A punchy argument. || defence | 辩护 | A defence of. || moratorium | 暂停 | A moratorium on. || upsides | 好处 | The upside of. || doomed to | 注定 | Doomed to failure. || awash with | 充满 | Awash with options. || wafer-thin | 薄如纸 | Wafer-thin margins. || bleed into | 渗入 | Bleed into mainstream. || spooked | 惊吹的 | A spooked market. || rekindle | 重新燃起 | Rekindle interest. |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| stir | 涌动 | Something is stirring. || abet | 怂恃、帮助 | Abetted by donors. || spree | 一阵狂潮 | A spending spree. || stir | 涌动 |  || hefty | 高额的 | Hefty compensation. || deter | 抑制 | Deter investment. || funk | 低迷 | A global funk. || levy | 征收 | A levy on. || barmy | 疯狂的 | A barmy idea. |## 四、长难句专项
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|zany fringes | 古怪滑稽的边缘人物 | A zany idea.
+|supercharged | 增压的 | Supercharged by anger.
+|price controls | 价格管制 | Impose price controls.
+|nationalisation | 国有化 | State nationalisation.
+|all but flat | 几乎原地踏步 | All but finished.
+|grain of truth | 一丝真理 | A grain of truth.
+|in aggregate | 总体而言 | In aggregate, they.
+|at the root of | 的根源 | At the root of.
+|confiscatory | 没收性的 | A confiscatory tax.
+|course correction | 路线纠正 | Automatic correction.
+|over-regulation | 过度管制 | Over-regulation hurts.
+|low-growth funk | 低增长低迷 | In a funk.
+|relative decline | 相对衰落 | Relative decline.
+|urgent task | 紧迫的任务 | An urgent task.
+|free-market liberals | 自由市场派 | Free-market liberals.
+|behavioural economics | 行为经济学 | Behavioural study.
+|broad-based | 基础广泛的 | Broad-based.
+|hand-wringing | 焦虑不安 | Hand-wringing about.
+|uncharismatic | 无魅力的 | An uncharismatic.
+|solve the problems driving | 解决引发……的问题 | Problems driving.
+|abundance liberals | "富足"自由派 | Abundance liberal.
+|cheap and plentiful | 廉价充足的 | Plentiful supply.
+|saddle with | 让……背负 | Saddled with costs.
+|excessive pensions | 过度养老金 | Excessive pay.
+|meritocracy | 功绩制 | A meritocracy.
+|inheritocracy | 继承制（生造词） | An inheritocracy.
+|jobs guarantee | 就业保障 | A jobs guarantee.
+|set out their stall | 摆好摊位 | Set out the stall.
+|prescriptions | 药方、处方 | Policy prescriptions.
+|distributed capital ownership | 分布式资本所有权 | Distributed ownership.
+|widely shared | 被广泛分享 | Widely shared.
+|wind in their sails | 顺风满帆 | Have the wind.
+|preoccupations | 关注焦点 | A major preoccupation.
+|ruthless competition | 残酷竞争 | Ruthless rivals.
+|mad schemes | 疯狂计划 | Mad schemes.
+|exempting from | 免除 | Exempt from tax.
+|formidable pace | 惊人速度 | At a formidable pace.
+|thumping support | 压倒性支持 | Thumping victory.
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|drill into | 灌输 | Drilled into their heads.
+|fury over | 对……的愤怒 | Fury over Gaza.
+|formidable | 惊人强大的 | A formidable opponent.
+|remake | 重塑 | Remake the system.
+|awash in | 泛滥的 | Awash with money.
+|all but | 几乎 |
+|seductive | 诱人的 | A seductive offer.
+|wafer-thin | 薄如纸片的 | Wafer-thin margins.
+|demonise | 妖魔化 | Demonise the rich.
+|statist | 国家主义的 | Statist ideology.
+|Peronist | 秘羅莱斯式的 | The Peronists.
+|apologise | 道歉 | Stop apologising.
+|obscure | 遮蔽 | Obscure the facts.
+|as well as | 以及 | A and B as well as C.
+|punchier | 更有力的 | A punchy argument.
+|defence | 辩护 | A defence of.
+|moratorium | 暂停 | A moratorium on.
+|upsides | 好处 | The upside of.
+|doomed to | 注定 | Doomed to failure.
+|awash with | 充满 | Awash with options.
+|wafer-thin | 薄如纸 | Wafer-thin margins.
+|bleed into | 渗入 | Bleed into mainstream.
+|spooked | 惊吹的 | A spooked market.
+|rekindle | 重新燃起 | Rekindle interest.
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|stir | 涌动 | Something is stirring.
+|abet | 怂恃、帮助 | Abetted by donors.
+|spree | 一阵狂潮 | A spending spree.
+|stir | 涌动 |
+|hefty | 高额的 | Hefty compensation.
+|deter | 抑制 | Deter investment.
+|funk | 低迷 | A global funk.
+|levy | 征收 | A levy on.
+|barmy | 疯狂的 | A barmy idea. |## 四、长难句专项
 
 ### 🔍 原句 11（with 复合结构 + 状态）
 

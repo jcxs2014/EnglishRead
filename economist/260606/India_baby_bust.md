@@ -1094,7 +1094,96 @@
 | `cross the threshold` | 越门槛 | Crossed the threshold. |
 | `divert resources into` | 转投资源 | Divert resources into. |
 | `unambiguously good` | 无可争议地好 | Unambiguously good. |
-| `hurtle through` | 疾驰穿过 | Hurtle through the transition. |## 词汇分级### ⭐⭐⭐ 高级| 词/短语 | 释义 | 例句 ||---|---|---|| drilled into | 灌输进 | Drilled into their heads. || total fertility rate | 总和生育率 | The total fertility rate. || replacement rate | 更替率 | Below replacement. || on a par with | 与……不相上下 | On a par with Norway. || reference point | 参照点 | A reference point. || translate into | 转化为 | Translate into fewer people. || demographic transition | 人口转型 | The demographic transition. || exemplifies | 例证 | Exemplify the trend. || child mortality | 儿童死亡率 | Child mortality rates. || make it to adulthood | 活到成年 | Make it to adulthood. || what really counts | 真正重要的是 | What counts is. || a greater say | 更大发言权 | A say in decisions. || shoves down | 压低 | Shove down the rate. || aspirational | 有抱负的 | Aspirational families. || out-competed | 被比下去 | Out-competed by rivals. || soap operas | 肥皂剧 | A popular soap opera. || distracting | 分心的 | A distracting device. || implications | 影响 | Big implications. || account for | 计入、说明 | Account for the decline. || central forecast | 核心预测 | The central forecast. || conflict-ridden | 冲突不断的 | A conflict-ridden region. || migrant labour | 移民劳动力 | Migrant workers. || purchasing power parity | 购买力平价 | At purchasing power parity. || crossed the threshold | 越过门槛 | Cross the threshold. || divert ... into | 转投 | Divert resources into. || formal labour force | 正式劳动力 | Formal workforce. || unambiguously | 毫无歧义地 | Unambiguously good. || hurtle through | 疾驰穿过 | Hurtle through. || crude message | 粗鲁的口号 | A crude slogan. || sterilisation | 绝育 | Forced sterilisation. || encompassing | 涵盖 | Encompassing the city. || increasingly | 越来越 | Increasingly important. || on a similar path to | 相似道路 | On a similar path. || wealthy places | 富裕地区 | Wealthy countries. || joining their ranks | 加入行列 | Join the ranks. || moderate fall | 中度下降 | A moderate decline. || failed to account for | 未计入 | Failed to account. || sooner than expected | 比预期更早 | Sooner than expected. || scarce public resources | 稀缺公共资源 | Scarce resources. |### ⭐⭐ 进阶| 词/短语 | 释义 | 例句 ||---|---|---|| baby bust | 婴儿潮骤减 | A baby bust. || abetted by | 在……怂恿下 | Abetted by his advisers. || chided | 斥责 | Chide the parents. || crueller | 更残忍的 | A crueller turn. || forcibly | 强制地 | Forcibly sterilised. || sputtering | 蹒跚的 | Sputtering fertility. || procreate | 生育 | Encourage couples to procreate. || striking | 引人注目的 | A striking contrast. || plunging | 暴跌 | Plunge to record lows. || autonomy | 自主权 | Gain autonomy. || arms race | 军备竞赛 | An arms race. || scepticism | 怀疑 | Treat with scepticism. || bank on | 指望 | Bank on imports. || tax take | 税收总额 | Raise the tax take. || pain-free | 无痛的 | Pain-free. || reprinted | 再版 | Reprint the textbook. || populous | 人口稠密的 | Populous states. || siblings | 兄弟姐妹 | Without siblings. || peaked | 见顶 | Population peaked. || striking | 显著的 | Striking example. || well below | 远低于 | Well below the rate. || depicting | 描绘 | Depicting middle-class life. || as a whole | 整体上 | Asia as a whole. |### ⭐ 基础| 词/短语 | 释义 | 例句 ||---|---|---|| inept | 不称职的 | Inept handling. || tally | 总数 | A tally of 1.45bn. || frets | 担忧 | Frets about. || dire | 极糟的 | A dire situation. || norms | 社会规范 | Cultural norms. || apex | 顶点 | Reach its apex. || cramp | 妨碍 | Cramp growth. |## 四、长难句专项
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|drilled into | 灌输进 | Drilled into their heads.
+|total fertility rate | 总和生育率 | The total fertility rate.
+|replacement rate | 更替率 | Below replacement.
+|on a par with | 与……不相上下 | On a par with Norway.
+|reference point | 参照点 | A reference point.
+|translate into | 转化为 | Translate into fewer people.
+|demographic transition | 人口转型 | The demographic transition.
+|exemplifies | 例证 | Exemplify the trend.
+|child mortality | 儿童死亡率 | Child mortality rates.
+|make it to adulthood | 活到成年 | Make it to adulthood.
+|what really counts | 真正重要的是 | What counts is.
+|a greater say | 更大发言权 | A say in decisions.
+|shoves down | 压低 | Shove down the rate.
+|aspirational | 有抱负的 | Aspirational families.
+|out-competed | 被比下去 | Out-competed by rivals.
+|soap operas | 肥皂剧 | A popular soap opera.
+|distracting | 分心的 | A distracting device.
+|implications | 影响 | Big implications.
+|account for | 计入、说明 | Account for the decline.
+|central forecast | 核心预测 | The central forecast.
+|conflict-ridden | 冲突不断的 | A conflict-ridden region.
+|migrant labour | 移民劳动力 | Migrant workers.
+|purchasing power parity | 购买力平价 | At purchasing power parity.
+|crossed the threshold | 越过门槛 | Cross the threshold.
+|divert ... into | 转投 | Divert resources into.
+|formal labour force | 正式劳动力 | Formal workforce.
+|unambiguously | 毫无歧义地 | Unambiguously good.
+|hurtle through | 疾驰穿过 | Hurtle through.
+|crude message | 粗鲁的口号 | A crude slogan.
+|sterilisation | 绝育 | Forced sterilisation.
+|encompassing | 涵盖 | Encompassing the city.
+|increasingly | 越来越 | Increasingly important.
+|on a similar path to | 相似道路 | On a similar path.
+|wealthy places | 富裕地区 | Wealthy countries.
+|joining their ranks | 加入行列 | Join the ranks.
+|moderate fall | 中度下降 | A moderate decline.
+|failed to account for | 未计入 | Failed to account.
+|sooner than expected | 比预期更早 | Sooner than expected.
+|scarce public resources | 稀缺公共资源 | Scarce resources.
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|baby bust | 婴儿潮骤减 | A baby bust.
+|abetted by | 在……怂恿下 | Abetted by his advisers.
+|chided | 斥责 | Chide the parents.
+|crueller | 更残忍的 | A crueller turn.
+|forcibly | 强制地 | Forcibly sterilised.
+|sputtering | 蹒跚的 | Sputtering fertility.
+|procreate | 生育 | Encourage couples to procreate.
+|striking | 引人注目的 | A striking contrast.
+|plunging | 暴跌 | Plunge to record lows.
+|autonomy | 自主权 | Gain autonomy.
+|arms race | 军备竞赛 | An arms race.
+|scepticism | 怀疑 | Treat with scepticism.
+|bank on | 指望 | Bank on imports.
+|tax take | 税收总额 | Raise the tax take.
+|pain-free | 无痛的 | Pain-free.
+|reprinted | 再版 | Reprint the textbook.
+|populous | 人口稠密的 | Populous states.
+|siblings | 兄弟姐妹 | Without siblings.
+|peaked | 见顶 | Population peaked.
+|striking | 显著的 | Striking example.
+|well below | 远低于 | Well below the rate.
+|depicting | 描绘 | Depicting middle-class life.
+|as a whole | 整体上 | Asia as a whole.
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+| --- | --- | --- |
+| 词/短语 | 释义 | 例句
+|---|---|---
+|inept | 不称职的 | Inept handling.
+|tally | 总数 | A tally of 1.45bn.
+|frets | 担忧 | Frets about.
+|dire | 极糟的 | A dire situation.
+|norms | 社会规范 | Cultural norms.
+|apex | 顶点 | Reach its apex.
+|cramp | 妨碍 | Cramp growth. |## 四、长难句专项
 
 ### 🔍 原句 2（被动 + 分词状语）
 
