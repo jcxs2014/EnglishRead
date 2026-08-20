@@ -286,17 +286,72 @@ a.internal {
     padding: 0 0.75rem;
   }
 
-  // 顶栏：汉堡 + 标题 + 模式按钮
+  // 顶栏：精简到最窄（仅汉堡 + 主题按钮）
   #quartz-body .page-header {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 0.5rem;
-    padding: 0.75rem 1rem;
+    padding: 0.5rem 0.75rem;
+    min-height: 44px;
     border-bottom: 1px solid var(--lightgray);
     background: var(--light);
     position: sticky;
     top: 0;
     z-index: 100;
+
+    // 隐藏面包屑、属性面板、文章标题重复
+    .breadcrumb-container,
+    .note-properties,
+    .article-title,
+    .content-meta {
+      display: none !important;
+    }
+
+    // popover-hint 容器去掉 padding
+    > .popover-hint {
+      display: contents;
+    }
+  }
+
+  // 把主题按钮从侧边栏拽到顶栏
+  .left.sidebar {
+    // 主题按钮容器（flex-component）
+    .flex-component {
+      position: fixed;
+      top: 0.5rem;
+      right: 0.75rem;
+      z-index: 101;
+      gap: 0.25rem;
+      background: transparent;
+    }
+
+    // 探索按钮（汉堡）
+    .explorer-toggle.mobile-explorer {
+      position: fixed;
+      top: 0.5rem;
+      left: 0.75rem;
+      z-index: 101;
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 6px;
+      padding: 0.5rem;
+      width: 44px;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    // 隐藏 page-title
+    .page-title {
+      display: none;
+    }
+
+    // 桌面版探索按钮隐藏
+    .title-button.desktop-explorer {
+      display: none;
+    }
   }
 
   .page[data-slug="index"] .page-header {
