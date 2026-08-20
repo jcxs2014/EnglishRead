@@ -1,120 +1,12 @@
 ---
 状态: 未读
 ---
+# Latin America has turned Trumpy. That creates opportunities
 
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| 政治类：right-wingers | leftists（政治光谱三件套）、populists（民粹主义者）、president-elect（当选总统）、civil liberties（公民自由）、the rule of law（法治）、democratic institutions（民主制度）、came to power（上台执政） |  |
-| 经济类：tariffs（关税）、credit | line（信贷额度）、currency crisis（货币危机）、the availability of drugs（可获得性） |  |
-| 法律/治安类：without | trial（未经审判）、extortion（敲诈勒索）、drug-smuggling（毒品走私）、locked up（关押）、snitch on（告发） |  |
-| 军事/安全类：military | co-operation（军事合作）、campaign of bombing（轰炸行动）、the war on drugs（毒品战争）、mega-prisons（巨型监狱） |  |
-| 表达 | 含义 | 出处 |
-| little more than | 仅仅、不过 | S1 |
-| swing like a pendulum | 如钟摆般摇摆 | S2 |
-| either court sb or sound like him | 要么讨好要么模仿 | S3 |
-| a tight race | 势均力敌的竞选 | S4 |
-| hunt down | 追捕到底 | S5 |
-| be sick of | 受够了 | S6 |
-| tough-sounding | 听起来强硬的 | S8 |
-| win his favour | 赢得欢心 | S12 |
-| imitation is flattery | 模仿即奉承 | S12 |
-| warm ties | 密切关系（外交语） | S13 |
-| be spared sth | 免于…… | S15 |
-| have upside | 有积极面 | S18 |
-| take root | 扎根（观念深入人心） | S22 |
-| legions of | 大批的 | S23 |
-| from a murder capital into... | 从……之都变成…… | S23 |
-| stay on sb's good side | 维持在某人心中的好印象 | S35 |
-| shut up or flee | 闭嘴或逃离 | S37 |
-| the giant in the north | 北方的巨人 | S41 |
-| sweep away | 席卷、冲走 | S42 |
-| -ian | ：Trumpian（特朗普式的）——专有名词 → 形容词 |  |
-| -sounding | ：tough-sounding（听起来强硬的）——形容词 + 动名词复合 |  |
-| mega- | ：mega-prisons（巨型监狱）；`pan-`：pan-American（泛美洲的）——两个表"大/全"的前缀 |  |
-| a- | ：atypical（非典型的）；`-less`：ruthless（无情的）——否定前缀/后缀 |  |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| barring | （除……之外）——介词，比 except 正式 |  |
-| sizeable | （相当大的） |  |
-| pendulum | （钟摆，政治隐喻） |  |
-| courts | （动词：讨好）——注意与名词"法院/球场"区分 |  |
-| ideologically | （意识形态上） |  |
-| atypical | （非典型的）——a- 否定前缀 |  |
-| constricting | （压缩、收紧） |  |
-| incentive | （激励、动机）——经济学高频 |  |
-| detectable | （可察觉的） |  |
-| pliable | （易摆布的）——贬义形容词 |  |
-| counterparts | （对应方、同行） |  |
-| recapture | （夺回） |  |
-| suspend | （中止）——suspend civil liberties 搭配 |  |
-| dissidents | （异见者） |  |
-| avert | （避免）——avert a crisis 搭配 |  |
-| extended | （提供）——extend credit/a loan |  |
-| aversion | 类词族：注意与 extend（延伸）区分 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| win / hold elections | 赢下 / 举行选举 |  |
-| leader | 领导人 |  |
-| promises to | 承诺做 |  |
-| popular | 受欢迎的 |  |
-| rely on | 依赖 |  |
-| trade | 贸易 |  |
-| direct | 直接的 |  |
-| helped | 帮助 |  |
-| produce / export | 生产 / 出口 |  |
-| military | 军事的 |  |
-| safety / safe | 安全 |  |
-| fight | 斗争 |  |
-| victims | 受害者 |  |
-| price | 价格 |  |
-| rise | 上涨 |  |
-| investors | 投资者 |  |
-| attracted | 被吸引 |  |
-| investment | 投资 |  |
-| risks | 风险 |  |
-| friends | 朋友 |  |
-
-
-
-## 精读结束总结
-
-### 核心论点
-
-拉美的"橙色浪潮"（亲特朗普右翼浪潮）真实存在且有其合理性——它回应了选民对暴力与移民的真实焦虑，短期内也确实带来对美关系的经济与军事红利。但作者警告：萨尔瓦多式的"强硬治安"不可复制（毒品经济遵循供需规律，打击供给只会催生新供给）；真正的风险在制度层面——公民自由被侵蚀、法治缺失吓跑投资。结论：与北方巨人的友谊有用，但民主制度比任何一位美国总统都更重要、更长久——别让浪潮冲垮制度。
-
-### 最值得学习的五个句型
-
-1. **倒装强调句**：Never has the regional pendulum swung so fast.（否定词开头 → 助动词前置）——用于表达"前所未有"
-2. **倒装虚拟条件句**：might have failed, had they not been led by...（省略 if 的第三类虚拟）——用于"要不是……早就……"的反事实论证
-3. **插入式定语从句**：Investors, who you might think would be attracted to..., are instead repelled by...——用插入语制造"意料之外"的反转
-4. **分词结果状语**：the price tends to rise, increasing the incentive...——一句话写完因果链
-5. **比较级表最高级**：less investment... than any in Central America——"比任何都少"即"最少"
-
-### 最值得迁移的写作表达
-
-1. **隐喻体系**：把全文当作一个"浪潮"隐喻来经营——标题点题（Orange Wave）、中段解释成因（has risen）、结尾警告（sweep them away）。写议论文时选一个贯穿全文的核心意象，首尾呼应，是高级写作的标志。
-2. **短句急转**：But there are reasons to doubt it. / El Salvador's success is atypical. / The drugs business is not like this.——长论证之间插短句，节奏骤停，观点如钉子般扎下。
-3. **反问句呈现对方逻辑**：If he can do it, surely similar tactics will work elsewhere?——不直接反驳，而是把对方的推理原样演一遍，让读者自己看出破绽（straw man 的优雅用法）。
-4. **让步—转折结构**：It is useful to be friends with the giant in the north, but democratic institutions matter more, and last longer, than any American president.——先送分再收网，"有用但更重要"的句型可以套用到几乎所有议论文结论段。
-5. **语域切换制造讽刺**：Chums may be spared the stiffest tariffs / since imitation is flattery: he loves that.——正式语中突然冒出口语词，讽刺效果立现。
+> The Economist 2026-06-25 社论（Leader）· 纯语言教学视角精读
+> 原文共 8 段、42 句
 
 ---
-
-（精读完毕 · Economist 2026-06-25 · 纯语言教学视角）
-
-
-
-
-
-
 
 ## 概览
 
@@ -126,7 +18,7 @@
 
 ## 逐句精读
 
-### 第 1 段：（现象：右翼全线胜出）
+### Paragraph 1（现象：右翼全线胜出）
 
 **S1**
 
@@ -245,7 +137,7 @@
 
 ---
 
-### 第 2 段：（成因：厌倦、失败与模仿）
+### Paragraph 2（成因：厌倦、失败与模仿）
 
 **S6**
 
@@ -401,7 +293,7 @@ If 条件从句（If Mr Trump can mass-deport migrants）+ 插入语（they reas
 
 ---
 
-### 第 3 段：（利好之一：经济）
+### Paragraph 3（利好之一：经济）
 
 **S13**
 
@@ -518,7 +410,7 @@ If 条件从句（If Mr Trump can mass-deport migrants）+ 插入语（they reas
 
 ---
 
-### 第 4 段：（利好之二：军事）
+### Paragraph 4（利好之二：军事）
 
 **S18**
 
@@ -620,7 +512,7 @@ either...or... 连接两个并列谓语：are either exploring military co-opera
 
 ---
 
-### 第 5 段：（转折前的"希望"：黑帮可被击败的观念）
+### Paragraph 5（转折前的"希望"：黑帮可被击败的观念）
 
 **S22**
 
@@ -718,7 +610,7 @@ If 条件从句 + 主句（similar tactics will work elsewhere），句末用问
 
 ---
 
-### 第 6 段：（转折：为什么值得怀疑）
+### Paragraph 6（转折：为什么值得怀疑）
 
 **S26**
 
@@ -888,7 +780,7 @@ S33 回应 S10 的伏笔（blow up drug boats），用 S32 的经济学原理解
 
 ---
 
-### 第 7 段：（代价：姿态政治与法治流失）
+### Paragraph 7（代价：姿态政治与法治流失）
 
 **S34**
 
@@ -1032,7 +924,7 @@ Since 时间状语从句（Since Mr Bukele came to power in 2019）+ 主句（hi
 
 ---
 
-### 第 8 段：（结论：制度比总统更长久）
+### Paragraph 8（结论：制度比总统更长久）
 
 **S40**
 
@@ -1143,3 +1035,192 @@ P8  结论（呼吁）     制度 > 总统；祈使句收束
 - 词汇复现（lexical cohesion）：Orange Wave（标题/S6/S42 首尾呼应）、tough/tough-sounding/equally tough（S8/S40）、imitate/imitators/imitation（S12/S40）、blow up drug boats（S10）↔ bombing drug boats（S33）
 
 ---
+
+## 长难句专项
+
+### 句一：S20（最长句：主语扩展 + 插入语 + 比较结构）
+
+> The governments of the Andean countries which produce and export most of the world's cocaine—Bolivia, Colombia, Ecuador and Peru—are ideologically closer to the United States than at any time since the 1970s.
+
+**主干**：The governments [are] closer to the United States than at any time since the 1970s.
+
+**拆分步骤**：
+1. 找谓语：are（系动词），据此反推主语核心是 The governments
+2. 剥修饰：of the Andean countries（介词短语修饰 governments）→ which produce and export most of the world's cocaine（定语从句修饰 countries）→ 破折号内 Bolivia, Colombia, Ecuador and Peru（四国名单，同位语）
+3. 看比较：closer... than at any time since the 1970s——比较的对象不是国家，而是"时间点"
+4. 中文语序还原：安第斯国家（这些国家生产并出口全球大部分可卡因——即玻利维亚、哥伦比亚、厄瓜多尔和秘鲁）的政府，在意识形态上比 1970 年代以来任何时候都更接近美国
+
+**阅读技巧**：遇到"名词 + 多层修饰"的长主语，先跳读找出谓语动词（are），再回头处理修饰成分。破折号是天然的"暂停键"——括号里的内容可以先忽略，不影响主干理解。
+
+---
+
+### 句二：S16（倒装虚拟条件句）
+
+> Argentina's painful but necessary economic reforms might have failed, had they not been led by a pro-Trump president, Javier Milei.
+
+**主干**：reforms might have failed, had they not been led by a pro-Trump president.
+
+**语法要点**：
+- 这是省略 if 的虚拟条件句（与过去事实相反）：if they had not been led... → had they not been led...（助动词 had 提前，否定词 not 留在主语后）
+- 判断标志：主句 might have failed 是虚拟"本可能失败"，从句倒装是书面强调
+- 还原：Argentina's reforms might have failed if they had not been led by a pro-Trump president
+
+**同类句式迁移**：Had it not been for your help, we would have failed.（要不是你的帮助，我们就失败了。）——写作中用它代替 if 从句，立即提升书面感。
+
+---
+
+### 句三：S38（定语从句内嵌插入语）
+
+> Investors, who you might think would be attracted to El Salvador's newly peaceful streets, are instead repelled by the absence of the rule of law.
+
+**主干**：Investors are instead repelled by the absence of the rule of law.
+
+**难点**：who 从句内部夹着插入语 you might think，容易误读为 who（主语）you（宾语）结构。正确切分：
+- 关系代词 who 在从句中作主语
+- 插入语 you might think 相当于 "as you might think"（如你所想）
+- 从句完整逻辑：who would be attracted to El Salvador's newly peaceful streets
+
+**同类句式**：a book which you might expect to be boring is actually fascinating；a policy that critics say will fail。
+
+---
+
+### 句四：S29（形式主语 + once 从句 + 使役结构）
+
+> Their victims were eager to snitch on them, once it became clear that a single anonymous phone call was enough to get any suspect locked up indefinitely.
+
+**主干**：Their victims were eager to snitch on them, once it became clear that...
+
+**三层结构**：
+1. 外层：主句 + once 时间/条件从句（一旦……就……）
+2. once 从句内部：it became clear + that 主语从句（it 是形式主语，真正主语是 that 从句）
+3. that 从句内部：a phone call was enough to get any suspect locked up——get + 宾语 + 过去分词（使役结构："使得任何嫌疑人被关起来"）
+
+**中文语序还原**：一旦（这一点）变得清楚——即一个匿名电话就足以让任何嫌疑人被无限期关押——受害者们就争先恐后地告发他们。
+
+---
+
+### 句五：S32（分词结果状语 + 因果链压缩）
+
+> If governments succeed in constricting the supply, the price tends to rise, increasing the incentive for new producers to find new smuggling routes.
+
+**主干**：the price tends to rise.
+
+**扩展逻辑**：
+- If 条件从句：政府成功压缩供给（前提）
+- 主句：价格趋于上涨（结果 1）
+- 现在分词结果状语 increasing...：进而增强新生产者找新路线的动力（结果 2，由结果 1 推导）
+
+**写作迁移**：分词短语作结果状语（increasing/the incentive...）= and this increases...——用它把因果链写进一个句子，是高级书面表达的核心技巧之一。注意分词的主语与句子主语一致（此处 increasing 的逻辑主语是"价格上涨"这一整件事）。
+
+---
+
+## 精读结束总结
+
+### 核心论点
+
+拉美的"橙色浪潮"（亲特朗普右翼浪潮）真实存在且有其合理性——它回应了选民对暴力与移民的真实焦虑，短期内也确实带来对美关系的经济与军事红利。但作者警告：萨尔瓦多式的"强硬治安"不可复制（毒品经济遵循供需规律，打击供给只会催生新供给）；真正的风险在制度层面——公民自由被侵蚀、法治缺失吓跑投资。结论：与北方巨人的友谊有用，但民主制度比任何一位美国总统都更重要、更长久——别让浪潮冲垮制度。
+
+### 最值得学习的五个句型
+
+1. **倒装强调句**：Never has the regional pendulum swung so fast.（否定词开头 → 助动词前置）——用于表达"前所未有"
+2. **倒装虚拟条件句**：might have failed, had they not been led by...（省略 if 的第三类虚拟）——用于"要不是……早就……"的反事实论证
+3. **插入式定语从句**：Investors, who you might think would be attracted to..., are instead repelled by...——用插入语制造"意料之外"的反转
+4. **分词结果状语**：the price tends to rise, increasing the incentive...——一句话写完因果链
+5. **比较级表最高级**：less investment... than any in Central America——"比任何都少"即"最少"
+
+### 最值得迁移的写作表达
+
+1. **隐喻体系**：把全文当作一个"浪潮"隐喻来经营——标题点题（Orange Wave）、中段解释成因（has risen）、结尾警告（sweep them away）。写议论文时选一个贯穿全文的核心意象，首尾呼应，是高级写作的标志。
+2. **短句急转**：But there are reasons to doubt it. / El Salvador's success is atypical. / The drugs business is not like this.——长论证之间插短句，节奏骤停，观点如钉子般扎下。
+3. **反问句呈现对方逻辑**：If he can do it, surely similar tactics will work elsewhere?——不直接反驳，而是把对方的推理原样演一遍，让读者自己看出破绽（straw man 的优雅用法）。
+4. **让步—转折结构**：It is useful to be friends with the giant in the north, but democratic institutions matter more, and last longer, than any American president.——先送分再收网，"有用但更重要"的句型可以套用到几乎所有议论文结论段。
+5. **语域切换制造讽刺**：Chums may be spared the stiffest tariffs / since imitation is flattery: he loves that.——正式语中突然冒出口语词，讽刺效果立现。
+
+---
+
+（精读完毕 · Economist 2026-06-25 · 纯语言教学视角）
+
+
+
+
+
+
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| 政治类：right-wingers | leftists（政治光谱三件套）、populists（民粹主义者）、president-elect（当选总统）、civil liberties（公民自由）、the rule of law（法治）、democratic institutions（民主制度）、came to power（上台执政） |  |
+| 经济类：tariffs（关税）、credit | line（信贷额度）、currency crisis（货币危机）、the availability of drugs（可获得性） |  |
+| 法律/治安类：without | trial（未经审判）、extortion（敲诈勒索）、drug-smuggling（毒品走私）、locked up（关押）、snitch on（告发） |  |
+| 军事/安全类：military | co-operation（军事合作）、campaign of bombing（轰炸行动）、the war on drugs（毒品战争）、mega-prisons（巨型监狱） |  |
+| 表达 | 含义 | 出处 |
+| little more than | 仅仅、不过 | S1 |
+| swing like a pendulum | 如钟摆般摇摆 | S2 |
+| either court sb or sound like him | 要么讨好要么模仿 | S3 |
+| a tight race | 势均力敌的竞选 | S4 |
+| hunt down | 追捕到底 | S5 |
+| be sick of | 受够了 | S6 |
+| tough-sounding | 听起来强硬的 | S8 |
+| win his favour | 赢得欢心 | S12 |
+| imitation is flattery | 模仿即奉承 | S12 |
+| warm ties | 密切关系（外交语） | S13 |
+| be spared sth | 免于…… | S15 |
+| have upside | 有积极面 | S18 |
+| take root | 扎根（观念深入人心） | S22 |
+| legions of | 大批的 | S23 |
+| from a murder capital into... | 从……之都变成…… | S23 |
+| stay on sb's good side | 维持在某人心中的好印象 | S35 |
+| shut up or flee | 闭嘴或逃离 | S37 |
+| the giant in the north | 北方的巨人 | S41 |
+| sweep away | 席卷、冲走 | S42 |
+| -ian | ：Trumpian（特朗普式的）——专有名词 → 形容词 |  |
+| -sounding | ：tough-sounding（听起来强硬的）——形容词 + 动名词复合 |  |
+| mega- | ：mega-prisons（巨型监狱）；`pan-`：pan-American（泛美洲的）——两个表"大/全"的前缀 |  |
+| a- | ：atypical（非典型的）；`-less`：ruthless（无情的）——否定前缀/后缀 |  |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| barring | （除……之外）——介词，比 except 正式 |  |
+| sizeable | （相当大的） |  |
+| pendulum | （钟摆，政治隐喻） |  |
+| courts | （动词：讨好）——注意与名词"法院/球场"区分 |  |
+| ideologically | （意识形态上） |  |
+| atypical | （非典型的）——a- 否定前缀 |  |
+| constricting | （压缩、收紧） |  |
+| incentive | （激励、动机）——经济学高频 |  |
+| detectable | （可察觉的） |  |
+| pliable | （易摆布的）——贬义形容词 |  |
+| counterparts | （对应方、同行） |  |
+| recapture | （夺回） |  |
+| suspend | （中止）——suspend civil liberties 搭配 |  |
+| dissidents | （异见者） |  |
+| avert | （避免）——avert a crisis 搭配 |  |
+| extended | （提供）——extend credit/a loan |  |
+| aversion | 类词族：注意与 extend（延伸）区分 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| win / hold elections | 赢下 / 举行选举 |  |
+| leader | 领导人 |  |
+| promises to | 承诺做 |  |
+| popular | 受欢迎的 |  |
+| rely on | 依赖 |  |
+| trade | 贸易 |  |
+| direct | 直接的 |  |
+| helped | 帮助 |  |
+| produce / export | 生产 / 出口 |  |
+| military | 军事的 |  |
+| safety / safe | 安全 |  |
+| fight | 斗争 |  |
+| victims | 受害者 |  |
+| price | 价格 |  |
+| rise | 上涨 |  |
+| investors | 投资者 |  |
+| attracted | 被吸引 |  |
+| investment | 投资 |  |
+| risks | 风险 |  |
+| friends | 朋友 |  |
+

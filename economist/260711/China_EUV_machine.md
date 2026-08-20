@@ -1,162 +1,16 @@
 ---
 状态: 未读
 ---
+# 精读分析：《经济学人》—— Has China obtained the world's most important machine?
 
+> 原文标题：Has China obtained the world's most important machine?
+> 副标题：Its Dutch manufacturer is fighting to rebut American claims
+> 栏目：China | Dutch masters
+> 来源：The Economist，2026-07-11 期（2026-07-05 发布，Taipei，7 min read）
+> 精读日期：2026-08-09
+> 保存文件名：China_EUV_machine.md
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| punch above their weight | 以小搏大、发挥超体量 | Small states punch above their weight. |
-| know-how | 技术专长 | The firm's know-how is unmatched. |
-| balance of power | 力量平衡 | The deal tipped the balance of power. |
-| allege | 声称、指控（未证实） | He alleged the firm broke the law. |
-| throw ... into crisis | 使陷入危机 | The scandal threw the bank into crisis. |
-| find its way to | 流入、到达 | The drugs found their way to Europe. |
-| decommissioned | 退役/报废的 | Decommissioned ships are scrapped. |
-| What is more | 更重要的是 | What is more, costs are rising. |
-| push back | 反击、抵制 | The union pushed back against cuts. |
-| decline to do | 婉拒做 | She declined to answer. |
-| at present | 目前 | At present, no action is planned. |
-| hinges on | 关键在于 | The deal hinges on approval. |
-| briefed on | 被告知内情 | Officials briefed on the plan. |
-| unverified yet not unfounded | 未证实但非无中生有 | The claim is unverified yet not unfounded. |
-| strong-arm ... into | 胁迫……做 | They strong-armed him into signing. |
-| pivotal | 关键的 | A pivotal moment in the talks. |
-| concede | 勉强承认 | He conceded the plan is risky. |
-| catch up with | 追赶 | Catching up with the leaders. |
-| retaliation | 报复 | They risked retaliation. |
-| divisive | 引起分歧的 | A divisive reform. |
-| align ... with | 使对齐 | Align your plan with theirs. |
-| oblige ... to | 迫使 | The law obliges firms to report. |
-| given | 考虑到 | Given the risks, we withdrew. |
-| extraterritorially | 域外地 | Enforcing rules extraterritorially. |
-| entail | 牵涉、必然带来 | The job entails travel. |
-| scepticism | 怀疑 | The claim drew scepticism. |
-| contradiction between | ……之间的矛盾 | A contradiction between policy and practice. |
-| reeling from | 因……而受挫 | The firm is reeling from the loss. |
-| backlash | 强烈反弹 | A backlash against the reform. |
-| fracas | 争吵 | A fracas over the decision. |
-| salvo | 齐射、炮击 | The first salvo of the trade war. |
-| chokeholds | 扼喉 | Technology chokeholds. |
-| caught in the crossfire | 被卷入交叉火力 | Innocent firms caught in the crossfire. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| technology transfers | 技术转移 |  |
-| spurring | 推动 |  |
-| maritime power | 海上强国 |  |
-| seed | 播下种子 |  |
-| export controls | 出口管制 |  |
-| lithography machines | 光刻机 |  |
-| semiconductors | 半导体 |  |
-| commerce secretary | 商务部长 |  |
-| components | 部件 |  |
-| enforce | 执行 |  |
-| prosecuted | 被起诉 |  |
-| friction | 摩擦 |  |
-| undermining | 削弱 |  |
-| prototype | 样机 |  |
-| confidentiality agreements | 保密协议 |  |
-| trade secrets | 商业机密 |  |
-| multi-patterning | 多重曝光 |  |
-| cutting edge | 尖端 |  |
-| AI supremacy | AI 霸权 |  |
-| supply chains | 供应链 |  |
-| signatories | 签署方 |  |
-| bipartisan | 两党的 |  |
-| hefty fines | 巨额罚款 |  |
-| denounced | 谴责 |  |
-| comply with | 遵守 |  |
-| disrupting | 扰乱 |  |
-| die down | 平息 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| EUV / DUV | 极紫外 / 深紫外（光刻） |  |
-| ASML | 阿斯麦（荷兰光刻机公司） |  |
-| fabs | 晶圆厂 |  |
-| Pax Silica | 硅治世（美国组建的联盟） |  |
-| MATCH Act | 美国出口管制法案 |  |
-| Foreign Direct Product Rule | 外国直接产品规则 |  |
-| Nexperia | 恩智浦（中国所有的荷兰芯片商） |  |
-| Nvidia h200 | 英伟达 h200 AI 芯片 |  |
-
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `punch above their weight` — 以小搏大
-2. `could have just tilted the balance of power` — 推测式设问
-3. `has thrown the company into crisis` — 使陷入危机
-4. `found its way to China` — 流入中国（委婉）
-5. `What is more` — 递进
-6. `while taking ... seriously, is pushing back` — 一边认真一边反击
-7. `has yet to be provided` — 尚未获得
-8. `If there were ..., we would ...` — 虚拟语气的外交托辞
-9. `"unverified" yet "not unfounded"` — 灰色地带定性
-10. `Behind ... lie ...` — 完全倒装揭示深层
-11. `strong-arm A into B` — 胁迫
-12. `not just ... but also` — 递进
-13. `align ... with / or face` — 最后通牒
-14. `asking nicely vs making it illegal` — 软硬对立
-15. `the contradiction between A and B` — 自相矛盾论据
-16. `an early salvo in the bigger battle` — 大战第一枪
-17. `caught in the crossfire` — 炮灰命运
-
-### 2. 重要语法
-
-- **分词短语表结果**：`spurring the Industrial Revolution` / `allowing them to use DUV`
-- **分离式介词短语**：`the export to China of the ... machines`
-- **that 同位语从句**：`concerns that one of these machines ...`
-- **倒装引述**：`says ASML` / `says Mr Sjoerdsma`
-- **完全倒装**：`Behind this controversy lie deeper differences`
-- **虚拟语气**：`If there were things ..., we would do so`
-- **省略动词**：`related components could have been [shipped]`
-- **现在完成时 + never/nor**：`has never shipped ... nor have we`
-- **consider it + adj + that 从句**：`consider it highly unlikely that ...`
-- **非限制性定语从句**：`most of which are not covered by export controls` / `whose creations power`
-- **介词倒置的 which 从句**：`which signed up in June`
-- **被动语态强调施动/受动**：`are handled by ASML engineers` / `has yet to be provided`
-
-### 3. 写作技巧
-
-1. **历史铺垫法**：开篇三个历史例证（17 世纪金融→彼得大帝→A.Q. Khan）从光明到阴暗，最后一例（窃核蓝图）直接映射本文主题（技术疑云），形成"昨日重现"的叙事框架
-2. **多声部平衡叙事**：同一事实给出 ASML 否认、荷兰游说、专家三种解释、美国强硬派、欧洲担忧——不替读者下结论，让各方自己说话（引号+said 的准确归属）
-3. **不确定性管理**：`may have found its way`、`could have been`、`unverified yet not unfounded`、`at present`、`has yet to`——通篇用情态动词与限定词维护"传闻未证实"的边界，报道者始终保持距离
-4. **数字与清单增强可信度**：`340 machines`、`26 decommissioned`、`24 signatories`、`150 days`、`a third of revenues`、`9m views`（前文）——具体数字比形容词更有力
-5. **战争隐喻的升华**：开篇是"机器"（技术），收尾是"炮击/扼喉/交叉火力"（战争）——`This is just an early salvo in the bigger battle over AI chokeholds` 把个案升华为时代主题
-6. **短句做重音**：`Impossible, says ASML.` / `They can only be made by some of the latest EUV machines.` —— 在两三行长句后插入 1-2 词短句，制造节奏与力度
-7. **"自相矛盾"论证法**：荷兰用"禁 DUV 却许 h200"的矛盾（56-57）攻击美国政策一致性——用对手的内部矛盾瓦解其主张
-8. **外交辞令的精确翻译**：`while taking seriously, pushing back`、`declined to provide details`、`If there were ... we would`、`really unfortunate from our perspective`——把荷兰式圆滑外交译成英文的教科书范例
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `punch above one's weight` | 评论小组织大作用 | The startup punches above its weight. |
-| `know-how` | 技术/商业写作 | We rely on their engineering know-how. |
-| `tilt the balance of power` | 地缘/战略分析 | New tech could tilt the balance of power. |
-| `allege` | 新闻报道（未证实指控） | The report alleges price-fixing. |
-| `throw A into crisis` | 分析冲击 | The ruling threw the industry into crisis. |
-| `find its way to` | 委婉描述流入 | Counterfeit goods find their way to markets. |
-| `push back against` | 职场/政策 | Staff pushed back against the deadline. |
-| `decline to do` | 正式婉拒 | He declined to comment. |
-| `hinge on` | 关键取决 | The result hinges on voter turnout. |
-| `given` | 论证前提 | Given the budget, we must cut scope. |
-| `strong-arm A into B` | 批评强迫 | The giant strong-armed suppliers into discounts. |
-| `align with / or face` | 最后通牒 | Align with the rules or face fines. |
-| `entail` | 说明连带后果 | The role entails long hours. |
-| `meet with scepticism` | 评论反应 | The proposal met with scepticism. |
-| `reel from` | 描述受挫 | Markets are reeling from the news. |
-| `a backlash against` | 政策评论 | The reform sparked a backlash. |
-| `an early salvo in` | 战争/竞争比喻 | This is an early salvo in the price war. |
-| `caught in the crossfire` | 描述无辜受牵累 | Suppliers were caught in the crossfire. |
+---
 
 ## 文本概览
 
@@ -1108,3 +962,220 @@
 **段落逻辑：** 荷兰访华（58）→ 中国反制（59）→ 恩智浦案例（60-61）→ 事件降温（62）→ 升华：AI 扼喉战开启（63）→ 收尾：ASML 的炮灰命运（64）。
 
 ---
+
+## 长难句专项
+
+### 🔍 原句 9（多层嵌套 + 同位语 + 方式状语）
+
+> **原句:** In recent weeks, however, America's commerce secretary, Howard Lutnick, has thrown the company into crisis by sharing with it his concerns that one of these machines may have found its way to China.
+
+**① 找主干：** America's commerce secretary has thrown the company into crisis
+**② 找修饰：** In recent weeks（时间）；however（转折）；Howard Lutnick（同位语）；by sharing with it his concerns（方式状语）；that 从句（concerns 的同位语）
+**③ 找从句：** that one of these machines may have found its way to China（同位语从句）
+**④ 恢复逻辑：** 近几周，美商务部长卢特尼克把"可能有一台机器流入中国"的担忧告知 ASML，使公司陷入危机。
+**⑤ 整体理解：** 主干"throw into crisis" + 方式状语（by sharing）+ 同位语从句（concerns that...）三层信息压缩在一句；`share with it his concerns`（share A with B，双宾语）。
+
+### 🔍 原句 13（并列句 + 双重定语从句）
+
+> **原句:** What is more, only ASML can transport the highly sensitive machines, which it monitors online, and components that it ships are handled by ASML engineers in customers' fabs.
+
+**① 找主干：** only ASML can transport the machines, and components ... are handled
+**② 找修饰：** What is more（递进）；which it monitors online（非限制定语）；that it ships（限制定语）；by ASML engineers in customers' fabs（被动施动+地点）
+**③ 找从句：** which ...（非限制性定语从句）；that ...（限制性定语从句）
+**④ 恢复逻辑：** 更重要的是，只有 ASML 能运这些敏感机器（在线监控它们），而且其运的部件也在客户工厂由 ASML 工程师经手。
+**⑤ 整体理解：** 两个并列句用 and 连接；第一句含非限制定语从句，第二句含限制定语从句+被动，信息高度密集。
+
+### 🔍 原句 21-22（whether 从句 + 让步 + 引号定性）
+
+> **原句:** The dispute hinges on whether there is any basis for Mr Lutnick's allegation. Although no information supporting it has been made public, some people briefed on it describe it as "unverified" yet "not unfounded".
+
+**① 找主干：** The dispute hinges on whether ...；some people ... describe it as ...
+**② 找修饰：** supporting it（分词定语）；briefed on it（分词定语）；"unverified" yet "not unfounded"（双表语）
+**③ 找从句：** whether there is any basis（宾语从句）；Although ...（让步从句）
+**④ 恢复逻辑：** 争端关键在指控有无依据；尽管无公开支持信息，知情者称其"未证实但非无中生有"。
+**⑤ 整体理解：** 第一句用 whether 从句聚焦问题；第二句 Although 让步 + 分词定语 + 引号双表语，共同制造"灰色地带"。
+
+### 🔍 原句 27（完全倒装句）
+
+> **原句:** Behind this controversy, however, lie much deeper differences over China's technological progress and how Western governments should respond.
+
+**① 找主干：** deeper differences lie（倒装：谓语 lie 提前，主语后置）
+**② 找修饰：** Behind this controversy（地点状语前置）；over China's technological progress and how ...（differences 的定语）；however（转折）
+**③ 找从句：** how Western governments should respond（介词 over 后的宾语从句）
+**④ 恢复逻辑：** 争议背后隐藏着围绕中国技术进步与西方应对的更深分歧。
+**⑤ 整体理解：** 完全倒装（状语+谓语+主语）因为主语过长（differences over ... and how ...）而将主语后置，避免头重脚轻；"Behinf ... lie ..."是正式书面语的地道倒装。
+
+### 🔍 原句 39（分词结果状语 + 多层定语）
+
+> **原句:** Chinese chip firms such as SMIC and Huawei have pushed the limits of a technique known as "multi-patterning", allowing them to use DUV technology to make logic chips of less than seven nanometres, near the industry's cutting edge.
+
+**① 找主干：** Chinese chip firms have pushed the limits of a technique
+**② 找修饰：** such as SMIC and Huawei（举例）；known as "multi-patterning"（分词定语）；allowing them to ...（分词结果状语）；to make logic chips（不定式目的）；of less than seven nanometres（介词短语）；near the industry's cutting edge（介词短语）
+**③ 找从句：** 无从句
+**④ 恢复逻辑：** 中芯/华为把多重曝光推到极限，从而能用 DUV 造 7nm 以下逻辑芯片，接近前沿。
+**⑤ 整体理解：** 一个主干 + 两个分词（known as / allowing）+ 两级不定式（to use / to make）+ 两级介词短语（of / near），六级修饰链压入一句。
+
+### 🔍 原句 56（between A and B 平行结构）
+
+> **原句:** Further grounds for his government's scepticism is the contradiction between the demand to restrict exports of older DUV tools and the Trump administration's agreement to allow the export to China of Nvidia's h200 AI chips.
+
+**① 找主干：** Further grounds ... is the contradiction
+**② 找修饰：** for his government's scepticism（grounds 的定语）；between A and B（矛盾的两个端点）；to restrict exports of older DUV tools（demand 的定语）；to allow the export to China of Nvidia's h200 AI chips（agreement 的定语）
+**③ 找从句：** 无从句
+**④ 恢复逻辑：** 其政府怀疑的另一依据，是"限制旧 DUV 出口"与"允许 h200 芯片对华出口"之间的矛盾。
+**⑤ 整体理解：** 主谓一致 tricky（grounds 复数概念 + is 单数，因补语是 the contradiction）；between A and B 两个长不定式短语平行，构成"自相矛盾"的逻辑。
+
+---
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `punch above their weight` — 以小搏大
+2. `could have just tilted the balance of power` — 推测式设问
+3. `has thrown the company into crisis` — 使陷入危机
+4. `found its way to China` — 流入中国（委婉）
+5. `What is more` — 递进
+6. `while taking ... seriously, is pushing back` — 一边认真一边反击
+7. `has yet to be provided` — 尚未获得
+8. `If there were ..., we would ...` — 虚拟语气的外交托辞
+9. `"unverified" yet "not unfounded"` — 灰色地带定性
+10. `Behind ... lie ...` — 完全倒装揭示深层
+11. `strong-arm A into B` — 胁迫
+12. `not just ... but also` — 递进
+13. `align ... with / or face` — 最后通牒
+14. `asking nicely vs making it illegal` — 软硬对立
+15. `the contradiction between A and B` — 自相矛盾论据
+16. `an early salvo in the bigger battle` — 大战第一枪
+17. `caught in the crossfire` — 炮灰命运
+
+### 2. 重要语法
+
+- **分词短语表结果**：`spurring the Industrial Revolution` / `allowing them to use DUV`
+- **分离式介词短语**：`the export to China of the ... machines`
+- **that 同位语从句**：`concerns that one of these machines ...`
+- **倒装引述**：`says ASML` / `says Mr Sjoerdsma`
+- **完全倒装**：`Behind this controversy lie deeper differences`
+- **虚拟语气**：`If there were things ..., we would do so`
+- **省略动词**：`related components could have been [shipped]`
+- **现在完成时 + never/nor**：`has never shipped ... nor have we`
+- **consider it + adj + that 从句**：`consider it highly unlikely that ...`
+- **非限制性定语从句**：`most of which are not covered by export controls` / `whose creations power`
+- **介词倒置的 which 从句**：`which signed up in June`
+- **被动语态强调施动/受动**：`are handled by ASML engineers` / `has yet to be provided`
+
+### 3. 写作技巧
+
+1. **历史铺垫法**：开篇三个历史例证（17 世纪金融→彼得大帝→A.Q. Khan）从光明到阴暗，最后一例（窃核蓝图）直接映射本文主题（技术疑云），形成"昨日重现"的叙事框架
+2. **多声部平衡叙事**：同一事实给出 ASML 否认、荷兰游说、专家三种解释、美国强硬派、欧洲担忧——不替读者下结论，让各方自己说话（引号+said 的准确归属）
+3. **不确定性管理**：`may have found its way`、`could have been`、`unverified yet not unfounded`、`at present`、`has yet to`——通篇用情态动词与限定词维护"传闻未证实"的边界，报道者始终保持距离
+4. **数字与清单增强可信度**：`340 machines`、`26 decommissioned`、`24 signatories`、`150 days`、`a third of revenues`、`9m views`（前文）——具体数字比形容词更有力
+5. **战争隐喻的升华**：开篇是"机器"（技术），收尾是"炮击/扼喉/交叉火力"（战争）——`This is just an early salvo in the bigger battle over AI chokeholds` 把个案升华为时代主题
+6. **短句做重音**：`Impossible, says ASML.` / `They can only be made by some of the latest EUV machines.` —— 在两三行长句后插入 1-2 词短句，制造节奏与力度
+7. **"自相矛盾"论证法**：荷兰用"禁 DUV 却许 h200"的矛盾（56-57）攻击美国政策一致性——用对手的内部矛盾瓦解其主张
+8. **外交辞令的精确翻译**：`while taking seriously, pushing back`、`declined to provide details`、`If there were ... we would`、`really unfortunate from our perspective`——把荷兰式圆滑外交译成英文的教科书范例
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `punch above one's weight` | 评论小组织大作用 | The startup punches above its weight. |
+| `know-how` | 技术/商业写作 | We rely on their engineering know-how. |
+| `tilt the balance of power` | 地缘/战略分析 | New tech could tilt the balance of power. |
+| `allege` | 新闻报道（未证实指控） | The report alleges price-fixing. |
+| `throw A into crisis` | 分析冲击 | The ruling threw the industry into crisis. |
+| `find its way to` | 委婉描述流入 | Counterfeit goods find their way to markets. |
+| `push back against` | 职场/政策 | Staff pushed back against the deadline. |
+| `decline to do` | 正式婉拒 | He declined to comment. |
+| `hinge on` | 关键取决 | The result hinges on voter turnout. |
+| `given` | 论证前提 | Given the budget, we must cut scope. |
+| `strong-arm A into B` | 批评强迫 | The giant strong-armed suppliers into discounts. |
+| `align with / or face` | 最后通牒 | Align with the rules or face fines. |
+| `entail` | 说明连带后果 | The role entails long hours. |
+| `meet with scepticism` | 评论反应 | The proposal met with scepticism. |
+| `reel from` | 描述受挫 | Markets are reeling from the news. |
+| `a backlash against` | 政策评论 | The reform sparked a backlash. |
+| `an early salvo in` | 战争/竞争比喻 | This is an early salvo in the price war. |
+| `caught in the crossfire` | 描述无辜受牵累 | Suppliers were caught in the crossfire. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| punch above their weight | 以小搏大、发挥超体量 | Small states punch above their weight. |
+| know-how | 技术专长 | The firm's know-how is unmatched. |
+| balance of power | 力量平衡 | The deal tipped the balance of power. |
+| allege | 声称、指控（未证实） | He alleged the firm broke the law. |
+| throw ... into crisis | 使陷入危机 | The scandal threw the bank into crisis. |
+| find its way to | 流入、到达 | The drugs found their way to Europe. |
+| decommissioned | 退役/报废的 | Decommissioned ships are scrapped. |
+| What is more | 更重要的是 | What is more, costs are rising. |
+| push back | 反击、抵制 | The union pushed back against cuts. |
+| decline to do | 婉拒做 | She declined to answer. |
+| at present | 目前 | At present, no action is planned. |
+| hinges on | 关键在于 | The deal hinges on approval. |
+| briefed on | 被告知内情 | Officials briefed on the plan. |
+| unverified yet not unfounded | 未证实但非无中生有 | The claim is unverified yet not unfounded. |
+| strong-arm ... into | 胁迫……做 | They strong-armed him into signing. |
+| pivotal | 关键的 | A pivotal moment in the talks. |
+| concede | 勉强承认 | He conceded the plan is risky. |
+| catch up with | 追赶 | Catching up with the leaders. |
+| retaliation | 报复 | They risked retaliation. |
+| divisive | 引起分歧的 | A divisive reform. |
+| align ... with | 使对齐 | Align your plan with theirs. |
+| oblige ... to | 迫使 | The law obliges firms to report. |
+| given | 考虑到 | Given the risks, we withdrew. |
+| extraterritorially | 域外地 | Enforcing rules extraterritorially. |
+| entail | 牵涉、必然带来 | The job entails travel. |
+| scepticism | 怀疑 | The claim drew scepticism. |
+| contradiction between | ……之间的矛盾 | A contradiction between policy and practice. |
+| reeling from | 因……而受挫 | The firm is reeling from the loss. |
+| backlash | 强烈反弹 | A backlash against the reform. |
+| fracas | 争吵 | A fracas over the decision. |
+| salvo | 齐射、炮击 | The first salvo of the trade war. |
+| chokeholds | 扼喉 | Technology chokeholds. |
+| caught in the crossfire | 被卷入交叉火力 | Innocent firms caught in the crossfire. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| technology transfers | 技术转移 |  |
+| spurring | 推动 |  |
+| maritime power | 海上强国 |  |
+| seed | 播下种子 |  |
+| export controls | 出口管制 |  |
+| lithography machines | 光刻机 |  |
+| semiconductors | 半导体 |  |
+| commerce secretary | 商务部长 |  |
+| components | 部件 |  |
+| enforce | 执行 |  |
+| prosecuted | 被起诉 |  |
+| friction | 摩擦 |  |
+| undermining | 削弱 |  |
+| prototype | 样机 |  |
+| confidentiality agreements | 保密协议 |  |
+| trade secrets | 商业机密 |  |
+| multi-patterning | 多重曝光 |  |
+| cutting edge | 尖端 |  |
+| AI supremacy | AI 霸权 |  |
+| supply chains | 供应链 |  |
+| signatories | 签署方 |  |
+| bipartisan | 两党的 |  |
+| hefty fines | 巨额罚款 |  |
+| denounced | 谴责 |  |
+| comply with | 遵守 |  |
+| disrupting | 扰乱 |  |
+| die down | 平息 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| EUV / DUV | 极紫外 / 深紫外（光刻） |  |
+| ASML | 阿斯麦（荷兰光刻机公司） |  |
+| fabs | 晶圆厂 |  |
+| Pax Silica | 硅治世（美国组建的联盟） |  |
+| MATCH Act | 美国出口管制法案 |  |
+| Foreign Direct Product Rule | 外国直接产品规则 |  |
+| Nexperia | 恩智浦（中国所有的荷兰芯片商） |  |
+| Nvidia h200 | 英伟达 h200 AI 芯片 |  |
+

@@ -1,115 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 6）
-
-**原句：** "Gen Z socialism" is a slippery label, lumping together views that are often quite different.
-
-**找主干：** "Gen Z socialism" is a slippery label。
-
-**找修饰：**
-- lumping together views——分词短语（作补充说明）
-- that are often quite different——定语从句修饰 views
-
-**找从句：** that 定语从句。
-
-**恢复逻辑：** 标签滑头，因为它把差异巨大的观点混在一起。
-
-**整体理解：** 主干是判断句，分词短语说明"为何滑头"，that 从句限定"哪些观点"。
-
-### 长难句 2（原句 7）
-
-**原句：** Not everyone under 30 who dislikes capitalism is a socialist, let alone a fan of the state.
-
-**找主干：** Not everyone is a socialist。
-
-**找修饰：**
-- under 30——介词短语限定 everyone
-- who dislikes capitalism——定语从句
-- let alone a fan of the state——递进否定
-
-**找从句：** who 定语从句。
-
-**恢复逻辑：** 不是每个不喜欢资本主义的 30 岁以下者都是社运，更不是国家主义粉丝。
-
-**整体理解：** 部分否定 + let alone 递进——"not A, let alone B"结构表示"连 A 都不是，更别提 B"。
-
-### 长难句 3（原句 15）
-
-**原句：** Our concern is that democratic capitalism is losing legitimacy, not that a revolution is coming.
-
-**找主干：** Our concern is。
-
-**找修饰：** 两个 that 表语从句并列（not 连接）。
-
-**找从句：** 两个 that 表语从句。
-
-**恢复逻辑：** 我们担心的是民主资本主义失合法性，而不是革命将至。
-
-**整体理解：** "是 A，不是 B"的表语从句结构——用否定澄清担忧的边界。
-
-### 长难句 4（原句 21）
-
-**原句：** We plan to revisit the subject, giving more room to voices we under-served.
-
-**找主干：** We plan to revisit the subject。
-
-**找修饰：**
-- giving more room to voices——分词短语（表目的/伴随）
-- we under-served——定语从句（省略 that，修饰 voices）
-
-**找从句：** 省略 that 的定语从句。
-
-**恢复逻辑：** 我们计划回访主题，给那些我们没服务好的声音更多空间。
-
-**整体理解：** 主干 + 分词短语表动作，内含省略 that 的定语从句。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **软垫开场**：provoked a lively response——用"热烈反响"而非"被骂"。
-2. **让步-坚持-让步结构**：To some extent, they are right（让）→ Yet we stand by the substance（坚持）→ Still, we concede（再让）——典型辩护节奏。
-3. **认错递进**：slippery label（标签笼统）→ not everyone is a socialist（以偏概全）→ should have done more（本应做得更多）——认错由浅入深。
-4. **金句式短句**：A generation is not a monolith——用短句概括立场。
-5. **第一人称复数**：we / our——编辑部口吻，既担责又有集体权威。
-6. **把话题放大**：far from over——从小争论引向大命题。
-
-### 语法要点
-
-- **let alone 递进否定**：Not everyone ... is a socialist, let alone a fan of the state——"更别说"。
-- **Nor 倒装**：Nor is the concern confined to the young——否定提前引发倒装。
-- **should have done 虚拟**：We should have done more——本该做而未做，表遗憾。
-- **not that ... not that**：not that a revolution is coming——澄清式否定。
-- **两个 that 表语从句并列**：Our concern is that ..., not that ...——对仗式表语。
-
-### 长难句
-
-最值得注意的是"not A, let alone B"（原句 7）与"是 A 不是 B"（原句 15）——两个"否定澄清"结构都是编辑部辩护的核心语法武器。
-
-### 写作技巧
-
-- **有策略的认错**：认错是分层的——先让标签，再让呈现，但坚决守住实质——这是媒体回应批评的教科书结构。
-- **批评转译**：把"被骂"译成"热烈的反响"（lively response）——既诚实又得体。
-- **概念翻转**：把"Z 世代社会主义"重新定义为"制度合法性流失"——从贴标签提升到真问题。
-- **承诺行动**：we plan to revisit——认错后有行动，而非空道歉。
-
-## 可迁移表达
-- "A generation is not a monolith" — 用于反对以偏概全。
-- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
-- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
-- "The debate is far from over" — 用于开放性结尾。## 词汇分级
 # Were we too quick to attack "Gen Z socialism"?
 
 **文章概览：** 《经济学人》2026-06-17 的一篇编辑部回应（Letters 专栏的延续），针对读者来信回应其上周对"Z 世代社会主义"的封面文章。编辑部承认上篇封面文章（Gen Z socialism 专题）被部分读者批评为"夸大或调侃"，本篇回应并部分认错：承认"Gen Z socialism"标签太宽泛、把多元观点简化为单一运动有失公允，但同时坚持"年轻一代对市场与私有化的怀疑值得认真对待"这一核心判断。文章以"对批评的回应"结构展开——先引批评、再自辩、再部分让步。
@@ -125,7 +16,6 @@
 - 第 6 段：结论——辩论远未结束
 
 ---
-
 
 ## 一、逐句精读
 
@@ -473,3 +363,153 @@
 **为什么这样写：** 用希望句式结尾——对话比结论更重要，且希望对话更有质量。
 
 **段落逻辑：** 计划回访（补服务不足的声音）→ 资本主义辩论远未结束 → 希望对话继续且更深刻。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 6）
+
+**原句：** "Gen Z socialism" is a slippery label, lumping together views that are often quite different.
+
+**找主干：** "Gen Z socialism" is a slippery label。
+
+**找修饰：**
+- lumping together views——分词短语（作补充说明）
+- that are often quite different——定语从句修饰 views
+
+**找从句：** that 定语从句。
+
+**恢复逻辑：** 标签滑头，因为它把差异巨大的观点混在一起。
+
+**整体理解：** 主干是判断句，分词短语说明"为何滑头"，that 从句限定"哪些观点"。
+
+### 长难句 2（原句 7）
+
+**原句：** Not everyone under 30 who dislikes capitalism is a socialist, let alone a fan of the state.
+
+**找主干：** Not everyone is a socialist。
+
+**找修饰：**
+- under 30——介词短语限定 everyone
+- who dislikes capitalism——定语从句
+- let alone a fan of the state——递进否定
+
+**找从句：** who 定语从句。
+
+**恢复逻辑：** 不是每个不喜欢资本主义的 30 岁以下者都是社运，更不是国家主义粉丝。
+
+**整体理解：** 部分否定 + let alone 递进——"not A, let alone B"结构表示"连 A 都不是，更别提 B"。
+
+### 长难句 3（原句 15）
+
+**原句：** Our concern is that democratic capitalism is losing legitimacy, not that a revolution is coming.
+
+**找主干：** Our concern is。
+
+**找修饰：** 两个 that 表语从句并列（not 连接）。
+
+**找从句：** 两个 that 表语从句。
+
+**恢复逻辑：** 我们担心的是民主资本主义失合法性，而不是革命将至。
+
+**整体理解：** "是 A，不是 B"的表语从句结构——用否定澄清担忧的边界。
+
+### 长难句 4（原句 21）
+
+**原句：** We plan to revisit the subject, giving more room to voices we under-served.
+
+**找主干：** We plan to revisit the subject。
+
+**找修饰：**
+- giving more room to voices——分词短语（表目的/伴随）
+- we under-served——定语从句（省略 that，修饰 voices）
+
+**找从句：** 省略 that 的定语从句。
+
+**恢复逻辑：** 我们计划回访主题，给那些我们没服务好的声音更多空间。
+
+**整体理解：** 主干 + 分词短语表动作，内含省略 that 的定语从句。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **软垫开场**：provoked a lively response——用"热烈反响"而非"被骂"。
+2. **让步-坚持-让步结构**：To some extent, they are right（让）→ Yet we stand by the substance（坚持）→ Still, we concede（再让）——典型辩护节奏。
+3. **认错递进**：slippery label（标签笼统）→ not everyone is a socialist（以偏概全）→ should have done more（本应做得更多）——认错由浅入深。
+4. **金句式短句**：A generation is not a monolith——用短句概括立场。
+5. **第一人称复数**：we / our——编辑部口吻，既担责又有集体权威。
+6. **把话题放大**：far from over——从小争论引向大命题。
+
+### 语法要点
+
+- **let alone 递进否定**：Not everyone ... is a socialist, let alone a fan of the state——"更别说"。
+- **Nor 倒装**：Nor is the concern confined to the young——否定提前引发倒装。
+- **should have done 虚拟**：We should have done more——本该做而未做，表遗憾。
+- **not that ... not that**：not that a revolution is coming——澄清式否定。
+- **两个 that 表语从句并列**：Our concern is that ..., not that ...——对仗式表语。
+
+### 长难句
+
+最值得注意的是"not A, let alone B"（原句 7）与"是 A 不是 B"（原句 15）——两个"否定澄清"结构都是编辑部辩护的核心语法武器。
+
+### 写作技巧
+
+- **有策略的认错**：认错是分层的——先让标签，再让呈现，但坚决守住实质——这是媒体回应批评的教科书结构。
+- **批评转译**：把"被骂"译成"热烈的反响"（lively response）——既诚实又得体。
+- **概念翻转**：把"Z 世代社会主义"重新定义为"制度合法性流失"——从贴标签提升到真问题。
+- **承诺行动**：we plan to revisit——认错后有行动，而非空道歉。
+
+### 可迁移表达
+
+- "A generation is not a monolith" — 用于反对以偏概全。
+- "We should have done more to present the counter-arguments and the nuances" — 用于承认不足。
+- "The suspicion of markets among the young is real and measurable" — 用于"现象真实可量化"。
+- "The debate is far from over" — 用于开放性结尾。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 引发、激起 | 原句 1 |
+| v. | 丑化、漫画化 | 原句 3 |
+| 短语 | 滑头的标签 | 原句 6 |
+| 短语 | 混为一谈 | 原句 6 |
+| 短语 | 更不用说 | 原句 7 |
+| 短语 | 坚持 | 原句 9 |
+| n. | 实质内容 | 原句 9 |
+| n. | 私有化 | 原句 10 |
+| adj. | 可衡量的 | 原句 10 |
+| 短语 | 对……怀疑 | 原句 11 |
+| v. | 支撑 | 原句 14 |
+| n. | 合法性 | 原句 15 |
+| v. | 承认 | 原句 17 |
+| 短语 | 公正对待 | 原句 17 |
+| n. | 铁板一块 | 原句 18 |
+| n. | 细微差别 | 原句 19 |
+| n. | 遗漏 | 原句 20 |
+| adj. | 服务不足的 | 原句 21 |
+| 短语 | 远未结束 | 原句 22 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | lively response — 热烈的反响 |  |
+| unfair | to their generation — 对他们的世代不公平 |  |
+| take | criticisms seriously — 认真对待批评 |  |
+| to | some extent — 在某种程度上 |  |
+| views | that are often quite different — 常常相当不同的观点 |  |
+| stand | by the substance — 坚持实质 |  |
+| losing | legitimacy — 失去合法性 |  |
+| a | generation is not a monolith — 一代人不是铁板一块 |  |
+| should | have done more — 本应该做得更多 |  |
+| revisit | the subject — 重新审视主题 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cover | — 封面文章 |  |
+| trust | in institutions — 制度信任 |  |
+| counter-arguments | — 反方观点 |  |
+| the | rich world — 富裕世界 |  |
+

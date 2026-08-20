@@ -1,70 +1,16 @@
 ---
 状态: 未读
 ---
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| blind alley | 死胡同 | 特朗普无出路的困境 |
-| bereft of options | 山穷水尽 | 标题：无好选项 |
-| held out the prospect of | 提出前景 | 美国的金钱诱惑 |
-| hawks / hardliners | 鹰派/强硬派 | 美伊对峙双方 |
-| be it ... or ... | 无论……还是 | 四种坏可能 |
-| stopped short of | 差一点 | 未滑向全面战争 |
-| creeping back up | 悄悄回升 | 油价回升 |
-| in short supply | 匮乏 | 信任稀缺 |
-| put relations on a steady footing | 稳固关系 | 机会窗口 |
-| under the thumb of | 受制于 | 新领袖受控 |
-| levying tolls | 征税 | 特朗普的荒谬点子 |
-| wiser heads | 头脑清醒者 | 拦下乱点子 |
-| topple the regime | 推翻政权 | 二月战争目标 |
-| a sitting target | 活靶子 | 夺岛的美军 |
-| Acquiescing to | 默许 | 让步之恶 |
-| set a dire precedent | 可怕先例 | 让步的全球后果 |
-| imposes a sustained blockade | 持续封锁 | 最终建议 |
-| stick it out | 硬撑到底 | 结论 |
-| forswearing | 发誓放弃 | 伊朗弃核 |
+# 精读分析：《经济学人》—— Donald Trump's blind alley
 
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+> 原文标题：Donald Trump's blind alley
+> 副标题：America's president looks bereft of good options for solving the stand-off in the Gulf
+> 栏目：Leaders | A man, no plan, Iran
+> 来源：The Economist，2026-07-18 期
+> 精读日期：2026-08-09
+> 保存文件名：Trump_blind_alley_Iran.md
 
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| yield | 让步 | 美国不能让步 |
-
-### 3. 重要语法
-
-- **含蓄最高级**：`could hardly have offered better terms`（否定式表最高级）
-- **be it 让步倒装**：`be it revenge, control ... or a nuclear programme`
-- **虚拟语气**：`If ever ... might have been able`（错过的机会）
-- **not only ... but**：`not only be bad in itself, but would set a dire precedent`
-- **动名词主语**：`Giving Iran what it wants would be terrible` / `Abandoning Gulf countries`
-- **过去进行时**：`America was honouring its side`（持续动作）
-- **however 让步**：`However much he twists and turns`
-- **have little choice but to**：`little choice but to stick it out`
-
-### 4. 长难句
-
-- 原句 5（be it 让步倒装）
-- 原句 14（宾语从句 + until 时间状语）
-- 原句 19（involve + 宾语从句嵌套）
-
-### 5. 写作技巧
-
-1. **标题级双关**：副标题 "A man, no plan, Iran"（回文梗）在正文兑现——标题不只是装饰，是立场
-2. **第三者证据**：用"鹰派的惊恐反应"反推"特朗普让步过多"——不从正面评价，让敌人说话
-3. **否定式最高级**：`could hardly have offered better` 比 "the best" 更有力
-4. **实证批驳**：批全面战争用"二月教训"（打了一次反强化鹰派），批夺岛用"活靶子"地理逻辑——都用事实而非道德
-5. **先立靶再补全**：承认特朗普提议优厚、美国在守约——批评不偏激，公信力高
-6. **选项排除法**：给钱不行、开战不行、让步不行 → 只剩"最不坏的坚持"——用排除法逼出结论
-7. **现实主义收尾**：不回避政治代价（油价推高选票），`little choice but to stick it out` 的无奈与坚决并存
-
-### 精读结束总结
-
-
+---
 
 ## 文本概览
 
@@ -422,7 +368,106 @@
 **段落逻辑：** 结论（19：无好选项 + 坚持封锁）→ 具体行动（20a-20b）→ 批评与无奈（20c-20d）。
 
 ---
-## 6. 可迁移表达
+
+## 长难句专项
+
+### 🔍 原句 5（be it 让步倒装）
+
+> **原句:** They want something more, and it cannot be good—be it revenge, control over the strait, regional dominance or a nuclear programme.
+
+**① 找主干：** They want something more, and it cannot be good
+**② 找修饰：** 破折号后 be it ... or ...（让步虚拟倒装，= whether it be ... or ...）
+**③ 找从句：** be it 结构实为省略 whether 的让步状语从句
+**④ 恢复逻辑：** 无论他们要的是复仇、控峡、地区霸权还是核计划，都不可能是好事。
+**⑤ 整体理解：** 用倒装让步列举四种"最坏可能"，一句覆盖所有坏场景。
+
+### 🔍 原句 14（宾语从句 + until 时间状语）
+
+> **原句:** This week he said America would itself start levying tolls on ships in the strait, until wiser heads in the administration pointed out how foolish that idea was.
+
+**① 找主干：** he said ... （后接宾语从句）
+**② 找修饰：** until wiser heads ... pointed out（时间状语）；how foolish that idea was（how 感叹式宾语从句）
+**③ 找从句：** America would ... start levying tolls（said 的宾语）；how foolish that idea was（pointed out 的宾语）
+**④ 恢复逻辑：** 特朗普扬言对海峡船只收费，直到政府内头脑清醒者指出此举荒谬，他才收回。
+**⑤ 整体理解：** 讽刺性叙述：总统的"妙计"要靠手下阻止，讽刺"无计划"。
+
+### 🔍 原句 19（involve + 宾语从句嵌套）
+
+> **原句:** All of them involve demonstrating to Iran's hardliners that America has the resolve to impose a sustained blockade on Iranian oil exports—even if that raises the price of petrol before the midterm elections in November.
+
+**① 找主干：** All of them involve demonstrating ... that ...
+**② 找修饰：** to Iran's hardliners（demonstrating 的对象）；破折号后 even if 让步从句
+**③ 找从句：** that America has the resolve to impose ...（demonstrating 的宾语）；even if that raises ...（让步）
+**④ 恢复逻辑：** 每个选项都要向伊朗鹰派展示"美国有决心持续封锁"，即使要付出选票代价。
+**⑤ 整体理解：** 用嵌套宾语从句把"选项的本质"（展示决心）与"代价"（油价）一次说清。
+
+---
+
+## 精读结束总结
+
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| blind alley | 死胡同 | 特朗普无出路的困境 |
+| bereft of options | 山穷水尽 | 标题：无好选项 |
+| held out the prospect of | 提出前景 | 美国的金钱诱惑 |
+| hawks / hardliners | 鹰派/强硬派 | 美伊对峙双方 |
+| be it ... or ... | 无论……还是 | 四种坏可能 |
+| stopped short of | 差一点 | 未滑向全面战争 |
+| creeping back up | 悄悄回升 | 油价回升 |
+| in short supply | 匮乏 | 信任稀缺 |
+| put relations on a steady footing | 稳固关系 | 机会窗口 |
+| under the thumb of | 受制于 | 新领袖受控 |
+| levying tolls | 征税 | 特朗普的荒谬点子 |
+| wiser heads | 头脑清醒者 | 拦下乱点子 |
+| topple the regime | 推翻政权 | 二月战争目标 |
+| a sitting target | 活靶子 | 夺岛的美军 |
+| Acquiescing to | 默许 | 让步之恶 |
+| set a dire precedent | 可怕先例 | 让步的全球后果 |
+| imposes a sustained blockade | 持续封锁 | 最终建议 |
+| stick it out | 硬撑到底 | 结论 |
+| forswearing | 发誓放弃 | 伊朗弃核 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| yield | 让步 | 美国不能让步 |
+
+### 3. 重要语法
+
+- **含蓄最高级**：`could hardly have offered better terms`（否定式表最高级）
+- **be it 让步倒装**：`be it revenge, control ... or a nuclear programme`
+- **虚拟语气**：`If ever ... might have been able`（错过的机会）
+- **not only ... but**：`not only be bad in itself, but would set a dire precedent`
+- **动名词主语**：`Giving Iran what it wants would be terrible` / `Abandoning Gulf countries`
+- **过去进行时**：`America was honouring its side`（持续动作）
+- **however 让步**：`However much he twists and turns`
+- **have little choice but to**：`little choice but to stick it out`
+
+### 4. 长难句
+
+- 原句 5（be it 让步倒装）
+- 原句 14（宾语从句 + until 时间状语）
+- 原句 19（involve + 宾语从句嵌套）
+
+### 5. 写作技巧
+
+1. **标题级双关**：副标题 "A man, no plan, Iran"（回文梗）在正文兑现——标题不只是装饰，是立场
+2. **第三者证据**：用"鹰派的惊恐反应"反推"特朗普让步过多"——不从正面评价，让敌人说话
+3. **否定式最高级**：`could hardly have offered better` 比 "the best" 更有力
+4. **实证批驳**：批全面战争用"二月教训"（打了一次反强化鹰派），批夺岛用"活靶子"地理逻辑——都用事实而非道德
+5. **先立靶再补全**：承认特朗普提议优厚、美国在守约——批评不偏激，公信力高
+6. **选项排除法**：给钱不行、开战不行、让步不行 → 只剩"最不坏的坚持"——用排除法逼出结论
+7. **现实主义收尾**：不回避政治代价（油价推高选票），`little choice but to stick it out` 的无奈与坚决并存
+
+### 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -439,5 +484,3 @@
 | `poses a real danger` | 风险描述 | The leak poses a real danger to users. |
 | `little choice but to` | 无奈结论 | With costs rising, we had little choice but to cut staff. |
 | `stick it out` | 坚持 | Despite losses, the firm stuck it out. |
-
-

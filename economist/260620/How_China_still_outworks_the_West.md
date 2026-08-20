@@ -1,117 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 1）
-
-**原句：** CHINA IS the only big economy whose citizens are famous for their work ethic.
-
-**找主干：** CHINA IS the only big economy。
-
-**找修饰：**
-- whose citizens are famous for their work ethic——定语从句修饰 economy
-
-**找从句：** whose 定语从句。
-
-**恢复逻辑：** 中国是唯一一个公民以勤奋闻名的经济大国。
-
-**整体理解：** 主系表 + whose 定语从句——断言 + 佐证结构。
-
-### 长难句 2（原句 6）
-
-**原句：** Chinese workers clock an average of over 2,000 hours a year, roughly a quarter more than their American counterparts and far more than Europeans.
-
-**找主干：** Chinese workers clock an average of over 2,000 hours a year。
-
-**找修饰：**
-- roughly a quarter more than their American counterparts——比较短语
-- and far more than Europeans——并列比较短语
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 中国工人年均工时超 2000 小时，比美国同行约多四分之一，比欧洲人多得多。
-
-**整体理解：** 主干 + 两个并列比较短语——数据的层层对比。
-
-### 长难句 3（原句 11）
-
-**原句：** But institutions matter too: the 996 work schedule, once confined to tech firms, has spread across the economy.
-
-**找主干：** institutions matter / the 996 work schedule has spread across the economy。
-
-**找修饰：**
-- once confined to tech firms——分词短语（插入，修饰 schedule）
-
-**找从句：** 无从句（冒号后为解释分句）。
-
-**恢复逻辑：** 但制度也重要：曾局限于科技公司的 996 已蔓延整个经济。
-
-**整体理解：** 冒号解释结构 + 插入分词短语——用例子解释论点。
-
-### 长难句 4（原句 22）
-
-**原句：** The answer matters not just for China but for the global economy, which has come to rely on Chinese labour and output.
-
-**找主干：** The answer matters。
-
-**找修饰：**
-- not just for China but for the global economy——并列介词短语
-- which has come to rely on Chinese labour and output——非限制性定语从句
-
-**找从句：** which 非限制性定语从句。
-
-**恢复逻辑：** 答案不仅关乎中国，还关乎依赖中国劳动与产出的全球经济。
-
-**整体理解：** not just...but 并列 + which 补充从句——"从一到多"的扩展。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **断言开场**：CHINA IS the only big economy ...——开篇给强断言。
-2. **感官细节排比**：escalators / takeaways / traffic lights——三细节具象"快"。
-3. **设问归因**：What explains China's devotion to hard work?——设问引出多层解释。
-4. **多归因递进**：Part of the answer is cultural ... But institutions matter too ... The state has reinforced——文化→制度→国家，层层深入。
-5. **概念命名**：the phenomenon known as "involution"——用"内卷"给现象命名。
-6. **悖论式设问收束**：survive its own success——用悖论收尾。
-
-### 语法要点
-
-- **whose 定语从句**：the only big economy whose citizens are famous——"唯一" + 佐证。
-- **比较短语并列**：a quarter more than ... and far more than ...——多重比较。
-- **even as 让步**：The gap has persisted even as ... have fallen。
-- **分词插入**：the 996 work schedule, once confined to tech firms, has spread。
-- **where 定语从句**：the phenomenon ... where people work ever harder——where 引导抽象地点。
-- **not just ... but**：matters not just for China but for the global economy——递进并列。
-- **too...to**：too exhausted to think——"太……而不能"。
-
-### 长难句
-
-最值得模仿的是"冒号解释结构"（原句 11）与"not just...but + which"（原句 22）——前者适合"论点：例子"，后者适合"从局部到整体"。
-
-### 写作技巧
-
-- **由印象到数据**：先写游客感受（double speed），再写 2000 小时数据——由感性到理性。
-- **三层归因**：文化/制度/国家——不把复杂现象归因于单一因素。
-- **代价清单**：健康/人口/创新——把代价结构化。
-- **避免绝对化**：Part of the answer ... / may be ending——用 Part of、may 保持审慎。
-
-## 可迁移表达
-- "X is famous for their work ethic" — 用于"以勤奋著称"。
-- "work ever harder for ever smaller gains" — 用于"内卷"现象。
-- "the phenomenon known as involution" — 用于"给现象命名"。
-- "will survive its own success" — 用于"成功反噬"悖论。
-- "not just for China but for the global economy" — 用于"影响外溢"。## 词汇分级
 # How China still outworks the West
 
 **文章概览：** 《经济学人》中国栏目报道。核心论点：尽管中国人口老龄化、劳动年龄人口下降，中国仍以"更努力"著称——工作文化（加班、单休、奋斗精神）与制度（996、绩效制、政府动员）使中国在"努力程度"上仍领先西方。文章对比中西工作文化差异，并讨论这种"努力"的代价与可持续性。
@@ -127,7 +16,6 @@
 - 第 6 段：结论——努力文化还能持续吗
 
 ---
-
 
 ## 一、逐句精读
 
@@ -491,3 +379,162 @@
 **为什么这样写：** 用"或终将结束，但遗产不散"的平衡收束——既承认变化，也承认惯性。
 
 **段落逻辑：** 设问（勤奋能否熬过成功）→ 影响全球（依赖中国劳动）→ 假设（若停止卷世界换方式）→ 结论（时代或终，遗产犹存）。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 1）
+
+**原句：** CHINA IS the only big economy whose citizens are famous for their work ethic.
+
+**找主干：** CHINA IS the only big economy。
+
+**找修饰：**
+- whose citizens are famous for their work ethic——定语从句修饰 economy
+
+**找从句：** whose 定语从句。
+
+**恢复逻辑：** 中国是唯一一个公民以勤奋闻名的经济大国。
+
+**整体理解：** 主系表 + whose 定语从句——断言 + 佐证结构。
+
+### 长难句 2（原句 6）
+
+**原句：** Chinese workers clock an average of over 2,000 hours a year, roughly a quarter more than their American counterparts and far more than Europeans.
+
+**找主干：** Chinese workers clock an average of over 2,000 hours a year。
+
+**找修饰：**
+- roughly a quarter more than their American counterparts——比较短语
+- and far more than Europeans——并列比较短语
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 中国工人年均工时超 2000 小时，比美国同行约多四分之一，比欧洲人多得多。
+
+**整体理解：** 主干 + 两个并列比较短语——数据的层层对比。
+
+### 长难句 3（原句 11）
+
+**原句：** But institutions matter too: the 996 work schedule, once confined to tech firms, has spread across the economy.
+
+**找主干：** institutions matter / the 996 work schedule has spread across the economy。
+
+**找修饰：**
+- once confined to tech firms——分词短语（插入，修饰 schedule）
+
+**找从句：** 无从句（冒号后为解释分句）。
+
+**恢复逻辑：** 但制度也重要：曾局限于科技公司的 996 已蔓延整个经济。
+
+**整体理解：** 冒号解释结构 + 插入分词短语——用例子解释论点。
+
+### 长难句 4（原句 22）
+
+**原句：** The answer matters not just for China but for the global economy, which has come to rely on Chinese labour and output.
+
+**找主干：** The answer matters。
+
+**找修饰：**
+- not just for China but for the global economy——并列介词短语
+- which has come to rely on Chinese labour and output——非限制性定语从句
+
+**找从句：** which 非限制性定语从句。
+
+**恢复逻辑：** 答案不仅关乎中国，还关乎依赖中国劳动与产出的全球经济。
+
+**整体理解：** not just...but 并列 + which 补充从句——"从一到多"的扩展。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **断言开场**：CHINA IS the only big economy ...——开篇给强断言。
+2. **感官细节排比**：escalators / takeaways / traffic lights——三细节具象"快"。
+3. **设问归因**：What explains China's devotion to hard work?——设问引出多层解释。
+4. **多归因递进**：Part of the answer is cultural ... But institutions matter too ... The state has reinforced——文化→制度→国家，层层深入。
+5. **概念命名**：the phenomenon known as "involution"——用"内卷"给现象命名。
+6. **悖论式设问收束**：survive its own success——用悖论收尾。
+
+### 语法要点
+
+- **whose 定语从句**：the only big economy whose citizens are famous——"唯一" + 佐证。
+- **比较短语并列**：a quarter more than ... and far more than ...——多重比较。
+- **even as 让步**：The gap has persisted even as ... have fallen。
+- **分词插入**：the 996 work schedule, once confined to tech firms, has spread。
+- **where 定语从句**：the phenomenon ... where people work ever harder——where 引导抽象地点。
+- **not just ... but**：matters not just for China but for the global economy——递进并列。
+- **too...to**：too exhausted to think——"太……而不能"。
+
+### 长难句
+
+最值得模仿的是"冒号解释结构"（原句 11）与"not just...but + which"（原句 22）——前者适合"论点：例子"，后者适合"从局部到整体"。
+
+### 写作技巧
+
+- **由印象到数据**：先写游客感受（double speed），再写 2000 小时数据——由感性到理性。
+- **三层归因**：文化/制度/国家——不把复杂现象归因于单一因素。
+- **代价清单**：健康/人口/创新——把代价结构化。
+- **避免绝对化**：Part of the answer ... / may be ending——用 Part of、may 保持审慎。
+
+### 可迁移表达
+
+- "X is famous for their work ethic" — 用于"以勤奋著称"。
+- "work ever harder for ever smaller gains" — 用于"内卷"现象。
+- "the phenomenon known as involution" — 用于"给现象命名"。
+- "will survive its own success" — 用于"成功反噬"悖论。
+- "not just for China but for the global economy" — 用于"影响外溢"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 职业道德、勤奋观 | 原句 1 |
+| v. | 感叹说 | 原句 2 |
+| adj. | 不停歇的 | 原句 4 |
+| n. | 忙碌、拼搏 | 原句 4 |
+| 短语 | 平均达到 | 原句 6 |
+| n. | 同行、对应者 | 原句 6 |
+| v. | 持续存在 | 原句 7 |
+| adj. | 老龄化的 | 原句 8 |
+| n. | 萎缩的劳动力 | 原句 8 |
+| 短语 | 对……的执着 | 原句 9 |
+| n. | 勤勉 | 原句 10 |
+| n. | 劳动模范 | 原句 14 |
+| n. | 爱国美德 | 原句 14 |
+| n. | 内卷 | 原句 15 |
+| n. | 收益 | 原句 15 |
+| n. | 陷阱 | 原句 16 |
+| 短语 | 与……有关 | 原句 18 |
+| 短语 | 促成 | 原句 19 |
+| 短语 | 累得无法 | 原句 20 |
+| v. | 存续 | 原句 21 |
+| 短语 | 依赖 | 原句 22 |
+| v. | 比……更努力 | 原句 23 |
+| adv. | 一夜之间 | 原句 24 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| famous | for their work ethic — 以勤奋闻名 |  |
+| running | at double speed — 以双倍速度运转 |  |
+| relentless | hustle — 不停歇的忙碌 |  |
+| clock | an average of over 2,000 hours a year — 平均年工时超 2000 小时 |  |
+| a | quarter more than their American counterparts — 比美国同行多四分之一 |  |
+| the | 996 work schedule — 996 工作制 |  |
+| promotion | and pay are tied to hours worked — 晋升薪酬与工时挂钩 |  |
+| talk | of "striving" and "sacrifice" as patriotic virtues — 把奋斗牺牲当作爱国美德 |  |
+| work | ever harder for ever smaller gains — 越努力收益越小 |  |
+| leave | little time for family, rest or creativity — 给家庭休息创造留时极少 |  |
+| contribute | to the falling birth rate — 促成出生率下降 |  |
+| the | age of hustle may be ending — 拼命时代或终结 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalators | — 自动扶梯 |  |
+| takeaways | — 外卖 |  |
+| traffic | lights — 红绿灯 |  |
+| overwork | — 过劳 |  |
+| demographers | — 人口学家 |  |
+

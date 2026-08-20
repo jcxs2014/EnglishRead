@@ -1,114 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 8）
-
-**原句：** It flourishes in the gap between China's strict media controls and its booming, barely regulated online-media market.
-
-**找主干：** It flourishes in the gap。
-
-**找修饰：**
-- between China's strict media controls and its booming, barely regulated online-media market——介词短语（解释 gap 的两端）
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 它在严管与失管的缝隙中繁盛。
-
-**整体理解：** between A and B 结构——用"缝隙"两端概括制度背景。
-
-### 长难句 2（原句 14）
-
-**原句：** Others worry that officials, under pressure to attract investment, may not want to see a company's name dragged through the mud.
-
-**找主干：** Others worry that officials may not want to see a company's name dragged through the mud。
-
-**找修饰：**
-- under pressure to attract investment——插入（解释官员处境）
-
-**找从句：** that 宾语从句。
-
-**恢复逻辑：** 有人担心，迫于招商压力，官员不愿看到公司被抹黑。
-
-**整体理解：** 宾语从句内插入介词短语——"看 + 宾语 + 过去分词"结构。
-
-### 长难句 3（原句 18）
-
-**原句：** The irony is that officials sometimes tolerate the extortionists because they are useful against critical journalists.
-
-**找主干：** The irony is that officials sometimes tolerate the extortionists。
-
-**找修饰：**
-- because they are useful against critical journalists——原因从句
-
-**找从句：** that 表语从句 + because 原因从句。
-
-**恢复逻辑：** 讽刺在于：官员容忍敲诈者，因为他们对压制批评记者有用。
-
-**整体理解：** 表语从句嵌套原因从句——双层逻辑。
-
-### 长难句 4（原句 21）
-
-**原句：** As long as the media remain tightly controlled and the online market lucrative, extortion will find a way to thrive.
-
-**找主干：** extortion will find a way to thrive。
-
-**找修饰：**
-- As long as the media remain tightly controlled and the online market lucrative——条件从句（省略 remain 于第二并列项）
-
-**找从句：** As long as 条件从句。
-
-**恢复逻辑：** 只要媒体严控且市场有利可图，敲诈必有兴旺之道。
-
-**整体理解：** 条件从句 + 主句——注意 and 后省略动词的并列结构。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **悬念开场**：received a phone call he did not expect——用悬念带出案例。
-2. **案例-机制-土壤结构**：个案 → 普遍机制 → 流量经济 → 监管矛盾——由具体到抽象。
-3. **命名句式**：The practice has a name: "news extortion"——给现象命名。
-4. **金句式概括**：two sides of the same coin——用俗谚收束分析。
-5. **对称收尾**：The victims will keep paying, and the extortionists will keep collecting——对称句式冷峻定格。
-6. **讽刺笔法**：The irony is that ...——点出制度悖论。
-
-### 语法要点
-
-- **省略 that 定语从句**：a phone call he did not expect。
-- **并列谓语**：said he was a journalist, and demanded 30,000 yuan。
-- **分词插入**：A critical article, written in the right tone, can go viral。
-- **where 定语从句**：a system where extortion is low-risk。
-- **As long as 条件句**：As long as the media remain controlled。
-- **过去分词作宾补**：see a company's name dragged through the mud。
-
-### 长难句
-
-最值得模仿的是"between A and B 缝隙"（原句 8）与"As long as 条件句"（原句 21）——前者适合概括制度背景，后者适合陈述结构性必然。
-
-### 写作技巧
-
-- **案例开场**：用一个具体受害者的故事开头，比抽象论述更有力。
-- **多因素归因**：机制/流量/监管——敲诈不是单一原因，而是系统产物。
-- **受害者视角**：为什么不敢报警——从两难解释沉默。
-- **制度悖论**：严控媒体反而让敲诈无监督——讽刺是调查报道的锐器。
-
-## 可迁移表达
-- "X is not an isolated case" — 用于"从个案到普遍"。
-- "The practice has a name: ..." — 用于"给现象命名"。
-- "A and B are two sides of the same coin" — 用于"一体两面"。
-- "There is little prospect of reform" — 用于"改革前景渺茫"。
-- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。## 词汇分级
 # News extortion is rife in China
 
 **文章概览：** 《经济学人》中国栏目报道。核心论点：中国的"新闻敲诈"（news extortion）现象猖獗——自媒体、地方媒体甚至部分官方媒体以负面报道相威胁，向企业和个人索要"封口费"或"广告费"。文章剖析了敲诈的运作机制（流量经济 + 监管真空 + 地方财政压力）、受害者的处境（不敢报警、怕曝光更糟），并指出这与新闻自由受限形成讽刺对比。
@@ -124,7 +16,6 @@
 - 第 6 段：结论——敲诈的土壤
 
 ---
-
 
 ## 一、逐句精读
 
@@ -467,3 +358,159 @@
 **为什么这样写：** 用"付钱/收钱"的对称句式结尾——给敲诈的恶性循环一个冷峻的定格。
 
 **段落逻辑：** 改革前景渺茫 → 只要严控+有利可图敲诈必兴旺 → 受害者付钱/敲诈者收钱（对称收束）。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 8）
+
+**原句：** It flourishes in the gap between China's strict media controls and its booming, barely regulated online-media market.
+
+**找主干：** It flourishes in the gap。
+
+**找修饰：**
+- between China's strict media controls and its booming, barely regulated online-media market——介词短语（解释 gap 的两端）
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 它在严管与失管的缝隙中繁盛。
+
+**整体理解：** between A and B 结构——用"缝隙"两端概括制度背景。
+
+### 长难句 2（原句 14）
+
+**原句：** Others worry that officials, under pressure to attract investment, may not want to see a company's name dragged through the mud.
+
+**找主干：** Others worry that officials may not want to see a company's name dragged through the mud。
+
+**找修饰：**
+- under pressure to attract investment——插入（解释官员处境）
+
+**找从句：** that 宾语从句。
+
+**恢复逻辑：** 有人担心，迫于招商压力，官员不愿看到公司被抹黑。
+
+**整体理解：** 宾语从句内插入介词短语——"看 + 宾语 + 过去分词"结构。
+
+### 长难句 3（原句 18）
+
+**原句：** The irony is that officials sometimes tolerate the extortionists because they are useful against critical journalists.
+
+**找主干：** The irony is that officials sometimes tolerate the extortionists。
+
+**找修饰：**
+- because they are useful against critical journalists——原因从句
+
+**找从句：** that 表语从句 + because 原因从句。
+
+**恢复逻辑：** 讽刺在于：官员容忍敲诈者，因为他们对压制批评记者有用。
+
+**整体理解：** 表语从句嵌套原因从句——双层逻辑。
+
+### 长难句 4（原句 21）
+
+**原句：** As long as the media remain tightly controlled and the online market lucrative, extortion will find a way to thrive.
+
+**找主干：** extortion will find a way to thrive。
+
+**找修饰：**
+- As long as the media remain tightly controlled and the online market lucrative——条件从句（省略 remain 于第二并列项）
+
+**找从句：** As long as 条件从句。
+
+**恢复逻辑：** 只要媒体严控且市场有利可图，敲诈必有兴旺之道。
+
+**整体理解：** 条件从句 + 主句——注意 and 后省略动词的并列结构。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **悬念开场**：received a phone call he did not expect——用悬念带出案例。
+2. **案例-机制-土壤结构**：个案 → 普遍机制 → 流量经济 → 监管矛盾——由具体到抽象。
+3. **命名句式**：The practice has a name: "news extortion"——给现象命名。
+4. **金句式概括**：two sides of the same coin——用俗谚收束分析。
+5. **对称收尾**：The victims will keep paying, and the extortionists will keep collecting——对称句式冷峻定格。
+6. **讽刺笔法**：The irony is that ...——点出制度悖论。
+
+### 语法要点
+
+- **省略 that 定语从句**：a phone call he did not expect。
+- **并列谓语**：said he was a journalist, and demanded 30,000 yuan。
+- **分词插入**：A critical article, written in the right tone, can go viral。
+- **where 定语从句**：a system where extortion is low-risk。
+- **As long as 条件句**：As long as the media remain controlled。
+- **过去分词作宾补**：see a company's name dragged through the mud。
+
+### 长难句
+
+最值得模仿的是"between A and B 缝隙"（原句 8）与"As long as 条件句"（原句 21）——前者适合概括制度背景，后者适合陈述结构性必然。
+
+### 写作技巧
+
+- **案例开场**：用一个具体受害者的故事开头，比抽象论述更有力。
+- **多因素归因**：机制/流量/监管——敲诈不是单一原因，而是系统产物。
+- **受害者视角**：为什么不敢报警——从两难解释沉默。
+- **制度悖论**：严控媒体反而让敲诈无监督——讽刺是调查报道的锐器。
+
+### 可迁移表达
+
+- "X is not an isolated case" — 用于"从个案到普遍"。
+- "The practice has a name: ..." — 用于"给现象命名"。
+- "A and B are two sides of the same coin" — 用于"一体两面"。
+- "There is little prospect of reform" — 用于"改革前景渺茫"。
+- "As long as A and B, X will find a way to thrive" — 用于"结构性存续条件"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 董事 | 原句 1 |
+| v. | 索要 | 原句 2 |
+| v. | 拒绝 | 原句 3 |
+| n. | 孤立事件 | 原句 5 |
+| n. | 自媒体运营者 | 原句 6 |
+| n. | 负面曝光 | 原句 6 |
+| 短语 | 勒索钱财 | 原句 6 |
+| n. | 敲诈 | 原句 7 |
+| v. | 繁盛 | 原句 8 |
+| 短语 | 几乎不受监管 | 原句 8 |
+| n. | 注意力经济 | 原句 9 |
+| adj. | 可信的 | 原句 9 |
+| 短语 | 病毒式传播 | 原句 10 |
+| v. | 摧毁 | 原句 10 |
+| n. | 公关团队 | 原句 11 |
+| 短语 | 盘算着 | 原句 11 |
+| 短语 | 引注意 | 原句 13 |
+| 短语 | 被抹黑 | 原句 14 |
+| adj. | 低风险 | 原句 15 |
+| n. | 作恶者 | 原句 15 |
+| n. | 监管环境 | 原句 16 |
+| adj. | 获许可的 | 原句 17 |
+| n. | 讽刺 | 原句 18 |
+| v. | 容忍 | 原句 18 |
+| 短语 | 打压 | 原句 19 |
+| adj. | 有利可图的 | 原句 21 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| received | a phone call he did not expect — 接到意想不到的电话 |  |
+| demand | 30,000 yuan to "not publish" — 索 3 万买不发表 |  |
+| hundreds | of thousands of views — 数十万浏览量 |  |
+| use | the threat of bad publicity to extract money — 用曝光威胁勒索钱财 |  |
+| flourish | in the gap between A and B — 在 A 与 B 的缝隙中繁盛 |  |
+| the | economics of the attention economy — 注意力经济的逻辑 |  |
+| paying | is cheaper than fighting — 付钱比抗争划算 |  |
+| under | pressure to attract investment — 迫于招商引资压力 |  |
+| two | sides of the same coin — 同一枚硬币的两面 |  |
+| find | a way to thrive — 找到兴旺之道 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| allegation | — 指控 |  |
+| independent | journalism — 独立新闻业 |  |
+| media | outlets — 媒体机构 |  |
+| critical | journalists — 批评性记者 |  |
+

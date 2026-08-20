@@ -2,142 +2,6 @@
 状态: 未读
 ---
 
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| desultorily | 敷衍地、漫不经心地 | 原句15 |
-| confiscate | 没收、充公 | 原句16 |
-| dystopian | 反乌托邦的 | 原句24 |
-| effusive | 热情洋溢的、溢于言表的 | 原句28 |
-| commendable | 值得称赞的 | 原句33 |
-| stifling | 令人窒息的、压抑的 | 原句34 |
-| frictionless | 无摩擦的 | 原句36 |
-| vanishingly | 几乎消失地 | 原句59 |
-| paternalism | 家长主义 | 原句49 |
-| proliferation | 激增、扩散 | 原句48 |
-| phalanx | 方阵、密集队伍 | 原句48 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| bars | 禁止 | 原句3 |
-| illustrated | 图解 | 原句3 |
-| trepidation | 惶恐 | 原句5 |
-| unscathed | 未受伤 | 原句5 |
-| wielding | 挥舞 | 原句8 |
-| explosion-proof | 防爆 | 原句9 |
-| confiscated | 没收 | 原句16 |
-| tightened | 收紧 | 原句14 |
-| desultorily | 敷衍地 | 原句15 |
-| apparent | 表面的 | 原句18 |
-| rationale | 理由 | 原句18 |
-| illuminated | 揭示 | 原句23 |
-| balancing act | 平衡行为 | 原句23 |
-| surveillance | 监控 | 原句25 |
-| effusive | 热情洋溢的 | 原句28 |
-| impulse | 冲动 | 原句33 |
-| commendable | 值得称赞的 | 原句33 |
-| stifling | 令人窒息的 | 原句34 |
-| tension | 张力 | 原句35 |
-| frictionless | 无摩擦的 | 原句36 |
-| proportion | 比例 | 原句37 |
-| lockdown | 封城 | 原句39 |
-| exhaustion | 疲惫 | 原句40 |
-| clamour | 呼声 | 原句41 |
-| pivots | 转变 | 原句42 |
-| protocols | 协议 | 原句46 |
-| proliferated | 激增 | 原句48 |
-| paternalism | 家长主义 | 原句49 |
-| trade-off | 权衡 | 原句51 |
-| prospect | 前景 | 原句55 |
-| efficacy | 有效性 | 原句63 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| escalator | 自动扶梯 | 原句1 |
-| danger | 危险 | 原句1 |
-| warning | 警告 | 原句2 |
-| security | 安全 | 原句7 |
-| checkpoint | 检查点 | 原句8 |
-| relaxed | 放松的 | 原句10 |
-| citizens | 公民 | 原句27 |
-| privacy | 隐私 | 原句27 |
-| officials | 官员 | 原句43 |
-| promotion | 晋升 | 原句45 |
-| accident | 事故 | 原句45 |
-| inspection | 检查 | 原句47 |
-| controls | 控制措施 | 原句48 |
-| guards | 警卫 | 原句48 |
-| costs | 费用 | 原句52 |
-| salaries | 工资 | 原句54 |
-| crimes | 犯罪 | 原句59 |
-
-
-
-## 精读结束总结
-
-### 文章核心论点
-中国存在一种独特的"安全剧场"（safety theatre）现象：官方投入大量资源维持可见的安全措施，但这些措施的实际效果存疑。文章通过三个核心概念揭示其运作机制：
-
-1. **Security State vs Safety State**：前者针对政治威胁，后者针对公共安全
-2. **One-vote Veto System**：一票否决制度迫使官员层层加码
-3. **Convenience vs Safety Trade-off**：民众对安全的态度取决于便利性
-
-### 文章结构特色
-- **首尾呼应**：以济南地铁扶梯警示开篇，以同一警示结尾，形成讽刺闭环
-- **由表及里**：从现象（扶梯警示）→ 案例（深圳安检）→ 制度（一票否决）→ 代价（经济成本）
-- **平衡报道**：既肯定"安全国家"的积极面（commendable），也指出其问题（stifling、overkill）
-- **数据支撑**：用具体数字（100m riders、a tenth of budgets）增强说服力
-
-### 语言特色
-- **反讽基调**：全文贯穿讽刺，但保持克制（如"apparent rationale"、"appears very high"）
-- **高级词汇**：desultorily、effusive、vanishingly rare、phalanxes
-- **生动比喻**：frictionless、bite more over time、breeze
-- **文化元素**：cover-your-pigu（中文拼音直译）
-
----
-
-
-
-## 可迁移表达
-
-### 高频句型
-1. **"Or so the... suggests."** — 轻描淡写地表达怀疑
-2. **"Instead of doing X, they now do Y."** — 对比新旧做法
-3. **"To one's credit, it quickly adjusted."** — 给予正面评价
-4. **"Not so much A as B."** — 颠覆预期的对比结构
-5. **"When friction mounts, attitudes change."** — 对称句式增强对比
-6. **"Bluntly, people like... until it gets in their way."** — 直白点明核心论点
-7. **"The issue is not that... Rather,..."** — 先否定误解，再引出真相
-8. **"Not just when A happens, but when B."** — 扩展范围的并列结构
-9. **"Less about efficacy than about showing that..."** — 精准对比官员心态
-10. **"And please remember: [荒诞结论]."** — 讽刺性结尾
-
-### 高级词汇搭配
-1. **take something in one's stride** — 从容应对
-2. **dwell on something** — 专注于某事（常含贬义）
-3. **end up on the wrong side** — 站在对立面
-4. **safety trumps privacy** — 安全优先于隐私
-5. **at what cost?** — 以什么代价？（修辞性追问）
-6. **bite more over time** — 随时间推移更加严峻
-7. **layer upon layer** — 层层叠加
-8. **vanishingly rare** — 极其罕见
-9. **leave nothing to chance** — 不放过任何机会
-10. **cover-your-pigu paternalism** — 过度保护的家长主义
-
-### 可用于写作的表达
-1. **"The episode illuminated a daily balancing act between X and Y."** — 说明某事件揭示了X与Y之间的平衡
-2. **"Commentators outside China often dwell on the dystopian elements."** — 描述外部视角的偏见
-3. **"To X's credit, it quickly adjusted when..."** — 先肯定再转折
-4. **"The apparent rationale was... President... will attend, and nothing must go wrong."** — 揭示表面理由与真实动机
-5. **"One way to view X is as a Y, where..."** — 提供观察角度
-6. **"Objectively, the layer upon layer of X is overkill."** — 客观评价过度现象
-7. **"Surely X deserve credit for their Y."** — 将功劳归于正确对象
-8. **"Yet that is not the calculation of officials, for whom..."** — 揭示官员的真实考量
 # China's officials are obsessed with safety theatre（精读分析）
 
 ## 概览
@@ -1135,3 +999,194 @@
 **段落逻辑：** 反问（安检真的有效吗？）→ 归功于人民（而非安检）→ 务实观察（摄像头比人工有效）→ 深刻洞察（官员追求姿态而非效果）→ 讽刺结尾（呼应开头）
 
 ---
+
+## 长难句专项
+
+### 长难句 1（原句 3）
+> It bars 14 actions in all, each illustrated with a red line through it: no walking on the escalator, no facing the wrong way and certainly no playing.
+
+**结构拆解：**
+- 主句：It bars 14 actions in all
+- 独立主格：each illustrated with a red line through it
+- 冒号引导举例：no walking..., no facing..., no playing
+
+**难点：** 独立主格结构 each illustrated with... 是非谓语动词的一种，表示"每一种都配有..."；冒号后的三个并列 no doing 结构形成排比
+
+**仿写：** The rule bans 5 behaviours, each marked with a red cross: no smoking, no eating and certainly no littering.
+
+---
+
+### 长难句 2（原句 35）
+> The Shenzhen experience illustrates the tension that sometimes surfaces—not so much over safety versus personal liberty as over convenience.
+
+**结构拆解：**
+- 主语：The Shenzhen experience
+- 谓语：illustrates
+- 宾语：the tension that sometimes surfaces
+- 破折号解释：not so much over A as over B
+
+**难点：** "not so much A as B" 是高级对比结构，意为"与其说是A，不如说是B"；破折号内的内容颠覆读者预期
+
+**仿写：** The debate reflects a divide—not so much between rich and poor as between urban and rural.
+
+---
+
+### 长难句 3（原句 48）
+> Visible controls have proliferated: helmeted guards in front of day-care centres, phalanxes of police at pop concerts and football matches (far more than are needed to watch over the peaceful crowds), and anti-riot shields at the ready in banks and shopping malls.
+
+**结构拆解：**
+- 主句：Visible controls have proliferated
+- 冒号引导列举：三个并列名词短语
+- 括号插入：补充说明"远超所需"
+
+**难点：** "phalanxes"是高级词汇（古希腊方阵），用于形容警察队伍；括号内的比较级 far more than are needed 直接点明过度
+
+**仿写：** Security measures have expanded: armed guards at schools, police vans patrolling parks (far more than the low crime rate warrants), and surveillance cameras at every intersection.
+
+---
+
+### 长难句 4（原句 63）
+> Yet that is not the calculation of officials, for whom safety is less about efficacy than about showing that they leave nothing to chance.
+
+**结构拆解：**
+- 主句：that is not the calculation of officials
+- 定语从句：for whom safety is less about efficacy than about showing...
+- 宾语从句：that they leave nothing to chance
+
+**难点：** "less about A than about B" 结构；"leave nothing to chance" 是固定表达（不放过任何机会）；"calculation"在此处是"算计、考量"的意思
+
+**仿写：** That is not the priority of managers, for whom speed is less about customer satisfaction than about demonstrating that they meet every deadline.
+
+---
+
+## 精读结束总结
+
+### 文章核心论点
+中国存在一种独特的"安全剧场"（safety theatre）现象：官方投入大量资源维持可见的安全措施，但这些措施的实际效果存疑。文章通过三个核心概念揭示其运作机制：
+
+1. **Security State vs Safety State**：前者针对政治威胁，后者针对公共安全
+2. **One-vote Veto System**：一票否决制度迫使官员层层加码
+3. **Convenience vs Safety Trade-off**：民众对安全的态度取决于便利性
+
+### 文章结构特色
+- **首尾呼应**：以济南地铁扶梯警示开篇，以同一警示结尾，形成讽刺闭环
+- **由表及里**：从现象（扶梯警示）→ 案例（深圳安检）→ 制度（一票否决）→ 代价（经济成本）
+- **平衡报道**：既肯定"安全国家"的积极面（commendable），也指出其问题（stifling、overkill）
+- **数据支撑**：用具体数字（100m riders、a tenth of budgets）增强说服力
+
+### 语言特色
+- **反讽基调**：全文贯穿讽刺，但保持克制（如"apparent rationale"、"appears very high"）
+- **高级词汇**：desultorily、effusive、vanishingly rare、phalanxes
+- **生动比喻**：frictionless、bite more over time、breeze
+- **文化元素**：cover-your-pigu（中文拼音直译）
+
+---
+
+## 可迁移表达
+
+### 高频句型
+1. **"Or so the... suggests."** — 轻描淡写地表达怀疑
+2. **"Instead of doing X, they now do Y."** — 对比新旧做法
+3. **"To one's credit, it quickly adjusted."** — 给予正面评价
+4. **"Not so much A as B."** — 颠覆预期的对比结构
+5. **"When friction mounts, attitudes change."** — 对称句式增强对比
+6. **"Bluntly, people like... until it gets in their way."** — 直白点明核心论点
+7. **"The issue is not that... Rather,..."** — 先否定误解，再引出真相
+8. **"Not just when A happens, but when B."** — 扩展范围的并列结构
+9. **"Less about efficacy than about showing that..."** — 精准对比官员心态
+10. **"And please remember: [荒诞结论]."** — 讽刺性结尾
+
+### 高级词汇搭配
+1. **take something in one's stride** — 从容应对
+2. **dwell on something** — 专注于某事（常含贬义）
+3. **end up on the wrong side** — 站在对立面
+4. **safety trumps privacy** — 安全优先于隐私
+5. **at what cost?** — 以什么代价？（修辞性追问）
+6. **bite more over time** — 随时间推移更加严峻
+7. **layer upon layer** — 层层叠加
+8. **vanishingly rare** — 极其罕见
+9. **leave nothing to chance** — 不放过任何机会
+10. **cover-your-pigu paternalism** — 过度保护的家长主义
+
+### 可用于写作的表达
+1. **"The episode illuminated a daily balancing act between X and Y."** — 说明某事件揭示了X与Y之间的平衡
+2. **"Commentators outside China often dwell on the dystopian elements."** — 描述外部视角的偏见
+3. **"To X's credit, it quickly adjusted when..."** — 先肯定再转折
+4. **"The apparent rationale was... President... will attend, and nothing must go wrong."** — 揭示表面理由与真实动机
+5. **"One way to view X is as a Y, where..."** — 提供观察角度
+6. **"Objectively, the layer upon layer of X is overkill."** — 客观评价过度现象
+7. **"Surely X deserve credit for their Y."** — 将功劳归于正确对象
+8. **"Yet that is not the calculation of officials, for whom..."** — 揭示官员的真实考量
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| desultorily | 敷衍地、漫不经心地 | 原句15 |
+| confiscate | 没收、充公 | 原句16 |
+| dystopian | 反乌托邦的 | 原句24 |
+| effusive | 热情洋溢的、溢于言表的 | 原句28 |
+| commendable | 值得称赞的 | 原句33 |
+| stifling | 令人窒息的、压抑的 | 原句34 |
+| frictionless | 无摩擦的 | 原句36 |
+| vanishingly | 几乎消失地 | 原句59 |
+| paternalism | 家长主义 | 原句49 |
+| proliferation | 激增、扩散 | 原句48 |
+| phalanx | 方阵、密集队伍 | 原句48 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bars | 禁止 | 原句3 |
+| illustrated | 图解 | 原句3 |
+| trepidation | 惶恐 | 原句5 |
+| unscathed | 未受伤 | 原句5 |
+| wielding | 挥舞 | 原句8 |
+| explosion-proof | 防爆 | 原句9 |
+| confiscated | 没收 | 原句16 |
+| tightened | 收紧 | 原句14 |
+| desultorily | 敷衍地 | 原句15 |
+| apparent | 表面的 | 原句18 |
+| rationale | 理由 | 原句18 |
+| illuminated | 揭示 | 原句23 |
+| balancing act | 平衡行为 | 原句23 |
+| surveillance | 监控 | 原句25 |
+| effusive | 热情洋溢的 | 原句28 |
+| impulse | 冲动 | 原句33 |
+| commendable | 值得称赞的 | 原句33 |
+| stifling | 令人窒息的 | 原句34 |
+| tension | 张力 | 原句35 |
+| frictionless | 无摩擦的 | 原句36 |
+| proportion | 比例 | 原句37 |
+| lockdown | 封城 | 原句39 |
+| exhaustion | 疲惫 | 原句40 |
+| clamour | 呼声 | 原句41 |
+| pivots | 转变 | 原句42 |
+| protocols | 协议 | 原句46 |
+| proliferated | 激增 | 原句48 |
+| paternalism | 家长主义 | 原句49 |
+| trade-off | 权衡 | 原句51 |
+| prospect | 前景 | 原句55 |
+| efficacy | 有效性 | 原句63 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| escalator | 自动扶梯 | 原句1 |
+| danger | 危险 | 原句1 |
+| warning | 警告 | 原句2 |
+| security | 安全 | 原句7 |
+| checkpoint | 检查点 | 原句8 |
+| relaxed | 放松的 | 原句10 |
+| citizens | 公民 | 原句27 |
+| privacy | 隐私 | 原句27 |
+| officials | 官员 | 原句43 |
+| promotion | 晋升 | 原句45 |
+| accident | 事故 | 原句45 |
+| inspection | 检查 | 原句47 |
+| controls | 控制措施 | 原句48 |
+| guards | 警卫 | 原句48 |
+| costs | 费用 | 原句52 |
+| salaries | 工资 | 原句54 |
+| crimes | 犯罪 | 原句59 |
+

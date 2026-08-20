@@ -1,20 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 长难句专项（补充）
-
-### 第 11 段： 分析
-> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth.
-
-**主干**：Europe must recognise that erecting trade barriers... increases the need for reforms
-**原因状语**：because diversifying away... raises costs and harms growth
-**逻辑**：贸易壁垒 → 成本上升 → 更需要改革（而不是减少改革需要）
-
----
-
-## 精读总结（补充）
 # Global imbalances have little to do with Europe's industrial woes
 
 ## 概览
@@ -25,7 +11,7 @@
 
 ## 逐句精读
 
-### 第 1 段：
+### Paragraph 1
 
 **原句**
 > Everywhere you turn, European leaders are blaming the imbalanced global economy for their woes. Emmanuel Macron is trying to use France's presidency of the g7 group of rich countries to raise the alarm. Friedrich Merz, Germany's chancellor, complains about competing with those who invoice in undervalued currencies. "Some countries produce too much and do not consume enough, and vice versa," moans Ursula von der Leyen, president of the European Commission.
@@ -52,7 +38,7 @@
 
 ---
 
-### 第 2 段：
+### Paragraph 2
 
 **原句**
 > What the leaders really mean is that they have a beef with China, whose formidable manufacturers are outcompeting European producers in many markets. Partly as a result of Chinese competition, Europe is gently deindustrialising: the share of value added in manufacturing is one percentage point lower than it was in 2018. Because the resulting lost jobs are in industries, most notably carmaking, that draw special attention from politicians, fear of the "second China shock" has become politically explosive.
@@ -81,7 +67,7 @@ What the leaders really mean is that...（真正意思）+ 原因+结果（Partl
 
 ---
 
-### 第 3 段：
+### Paragraph 3
 
 **原句**
 > But in blaming China for their troubles, Europe's leaders risk losing sight of their home-grown failings.
@@ -105,7 +91,7 @@ But 引导的警告句（in blaming China... Europe's leaders risk losing sight 
 
 ---
 
-### 第 4 段：
+### Paragraph 4
 
 **原句**
 > The Europeans are right that the world economy is imbalanced and that China is partly to blame. It runs a large current-account surplus, of almost 4% of its vast GDP, although some analysts think it is even higher. Its economy has unusually low consumption, often blamed on the lack of a social safety-net for households. Its exporters, though in brutal competition with each other, do indeed benefit from subsidies and a cheap currency. At a global level, America provides much of the corresponding deficit that soaks up China's surplus, mostly as a result of its huge government borrowing.
@@ -134,7 +120,7 @@ But 引导的警告句（in blaming China... Europe's leaders risk losing sight 
 
 ---
 
-### 第 5 段：
+### Paragraph 5
 
 **原句**
 > You might think from Europe's complaining that it, too, is on the deficit side of the ledger, with imports swamping exports. In fact in 2025 the EU ran a current-account surplus of 1.9% of GDP. In Germany, which has the biggest deindustrialisation headache, the figure is more than double that.
@@ -161,7 +147,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 
 ---
 
-### 第 6 段：
+### Paragraph 6
 
 **原句**
 > Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports. Europe's producers might not even benefit from America and China bringing their current accounts towards balance, supposing that were to happen. Companies would suffer less competition from China but more from America. What they gained in one trading relationship, they would lose in another.
@@ -188,7 +174,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 
 ---
 
-### 第 7 段：
+### Paragraph 7
 
 **原句**
 > Europe's error stems from a mercantilist mistake: believing a current-account surplus and manufacturing strength to be the same thing. In fact, the current account reflects the balance between saving and investment, and a surplus can co-exist with industrial malaise. Within the EU there is no correlation between the current account and manufacturing's share of output.
@@ -215,7 +201,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 
 ---
 
-### 第 8 段：
+### Paragraph 8
 
 **原句**
 > The continent's leaders should instead consider what problem they are trying to solve. Europe may have a bilateral trade deficit with China. But in Germany's case, only about a third of its loss in market share in other global markets can be explained by Chinese exports, according to the Kiel Institute, a think-tank. The rest reflects a broader loss of competitiveness.
@@ -240,7 +226,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 
 ---
 
-### 第 9 段：
+### Paragraph 9
 
 **原句**
 > Fixing that problem would mean bringing down energy costs, making labour markets more flexible, integrating markets for capital and services and culling unwise regulations. Some progress is being made at a European level, but national governments are more interested in protectionism, such as the blanket eu tariffs against China floated by advisers to the French government earlier this year. Talk of "global imbalances" helps that agenda, while doing little to raise the remote prospect of either America or China changing tack.
@@ -268,7 +254,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 
 ---
 
-### 第 10 段：
+### Paragraph 10
 
 **原句**
 > Make no mistake: it would be a good thing if America were to borrow less and Chinese consumers spend more. There is some evidence that imbalances tend to increase the risk of a financial crisis—and they certainly breed protectionism. Market competition must be seen by voters and consumers to be fair, and it is wise to avoid giving China choke points in critical supply chains or total dominance of carmaking.
@@ -319,6 +305,28 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 ---
 
 
+## 长难句专项
+
+### 最长难句（P4, 5句）
+> The Europeans are right that the world economy is imbalanced and that China is partly to blame. It runs a large current-account surplus, of almost 4% of its vast GDP, although some analysts think it is even higher. Its economy has unusually low consumption, often blamed on the lack of a social safety-net for households. Its exporters, though in brutal competition with each other, do indeed benefit from subsidies and a cheap currency.
+
+**主干**：The Europeans are right that... / It runs a large... / Its economy has... / Its exporters... do indeed benefit...
+
+**结构**：先承认欧洲人有道理（中国确实有顺差），然后逐一列举中国的经济特征（高顺差/低消费/补贴+廉价货币），最后加上全球层面的原因（美国政府借款）
+
+---
+
+### 次长难句（P6, 4句）
+> Correcting "imbalances", in other words, would not mean fewer imports in Europe. It might mean the opposite: raising consumption and investment in a way that strengthens the euro and harms exports. Europe's producers might not even benefit from America and China bringing their current accounts towards balance, supposing that were to happen. Companies would suffer less competition from China but more from America.
+
+**主干**：Correcting "imbalances" would not mean... / It might mean the opposite... / Europe's producers might not even benefit... / Companies would suffer less... but more...
+
+**结构**：先给结论（不会减少进口），然后说可能相反（加强欧元损害出口），再提出假设情况（即使中美纠正失衡），最后说明企业处境（少了一个竞争对手，多了一个）
+
+---
+
+## 精读总结
+
 **核心论点**：欧洲领导人把工业衰退归咎于全球贸易失衡和中国竞争是重商主义错误；实际问题在于欧洲自身竞争力下降；真正的解决方案是内部改革（能源成本/劳动力市场/监管），而不是保护主义。
 
 **最值得学习的句型**：
@@ -338,7 +346,7 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 - `culling unwise regulations`（废除不明智的法规）
 
 
-### 第 11 段：
+### Paragraph 11
 
 **原句**
 > Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth. An economy of China's size and stage of development will always have significant manufacturing exports. If Europeans want their industries to thrive, they should focus not on shutting out competitors but fixing their own house.
@@ -371,6 +379,19 @@ You might think...（常见的误解）+ In fact 的事实（EU ran a surplus...
 - P11: 对华贸易壁垒只会增加成本、提高对改革的需求；中国经济规模和阶段决定其制造业出口优势无法被取代；正确的做法是"整顿自己的房子"
 
 ---
+
+## 长难句专项（补充）
+
+### Paragraph 11 分析
+> Yet Europe must recognise that erecting trade barriers with China only increases the need for reforms, because diversifying away from the cheapest supplier raises costs and harms growth.
+
+**主干**：Europe must recognise that erecting trade barriers... increases the need for reforms
+**原因状语**：because diversifying away... raises costs and harms growth
+**逻辑**：贸易壁垒 → 成本上升 → 更需要改革（而不是减少改革需要）
+
+---
+
+## 精读总结（补充）
 
 **最值得学习的句型（续）**：
 - "erecting trade barriers only increases the need for reforms"（保护主义适得其反的论断）

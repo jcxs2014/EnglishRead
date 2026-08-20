@@ -1,118 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 2）
-
-**原句：** Factories are opening, from Gujarat to Tamil Nadu; AI start-ups are attracting record venture capital; and multinationals are shifting supply chains away from China.
-
-**找主干：** 三个并列分句：Factories are opening / AI start-ups are attracting record venture capital / multinationals are shifting supply chains away from China。
-
-**找修饰：**
-- from Gujarat to Tamil Nadu——地点范围短语（修饰 factories）
-- away from China——方向短语（修饰 shifting）
-
-**找从句：** 无从句，全为并列分句。
-
-**恢复逻辑：** 工厂开张、AI 创投破纪录、跨国公司撤华——三个并列信号。
-
-**整体理解：** 典型的分号排比句，三个证据并列呈现，节奏急促有力。
-
-### 长难句 2（原句 6）
-
-**原句：** Half the workforce is still in agriculture, mostly as subsistence farmers, while the share of manufacturing in GDP has barely risen.
-
-**找主干：** Half the workforce is still in agriculture / the share of manufacturing in GDP has barely risen（while 连接两个分句）。
-
-**找修饰：**
-- mostly as subsistence farmers——插入（限定 agriculture 的性质）
-- in GDP——介词短语
-
-**找从句：** while 对比从句。
-
-**恢复逻辑：** 一半劳动力还在农业（多为自给自足），而制造业占 GDP 比重几乎未升。
-
-**整体理解：** while 表对比：农业就业多 vs 制造占比停滞——用分号结构呈现就业结构的不变。
-
-### 长难句 3（原句 11）
-
-**原句：** Regulations that protect workers in big companies make it hard for small ones to hire, even as the informal sector absorbs most new workers.
-
-**找主干：** Regulations make it hard for small ones to hire（主谓宾 + 宾补）。
-
-**找修饰：**
-- that protect workers in big companies——定语从句修饰 regulations
-- for small ones——不定式逻辑主语
-- even as the informal sector absorbs most new workers——让步从句
-
-**找从句：** 定语从句（that）+ 让步从句（even as）。
-
-**恢复逻辑：** 保护大企业工人的法规让小企业难招人，即便非正规部门吸纳了大多数新工人。
-
-**整体理解：** 主干是"法规让招聘变难"，that 从句限定法规性质，even as 从句补充反衬（非正规部门在吸纳）——制度与现实的悖论。
-
-### 长难句 4（原句 17）
-
-**原句：** Global firms are diversifying away from China, interest rates have fallen, and a youthful population gives India a demographic edge.
-
-**找主干：** 三个并列分句。
-
-**找修饰：**
-- away from China——方向短语
-- a demographic edge——双宾语（India 为间接宾语）
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 全球企业从中国转移、利率下降、年轻人口提供人口红利。
-
-**整体理解：** 三连排比列出三个有利条件，节奏铿锵。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **"新 vs 旧"对照结构**：new economy / old problem——全文骨架。
-2. **三连排比罗列证据**：Factories ...; AI start-ups ...; multinationals ...——用分号排比呈现繁荣。
-3. **短句重锤**：Education is the deepest bottleneck / India's moment is now——短句造势。
-4. **not...but 评判标准**：judged not by its headline numbers, but by whether it lifts the lives——用对仗给标准。
-5. **他国经验引证**：The lesson of other emerging markets——借他国教训警示。
-6. **首尾呼应**：India's moment is now ... whether India's moment has truly arrived——首尾回环。
-
-### 语法要点
-
-- **分号三连排比**：Factories are opening; ...; and multinationals are ...——并列分句用分号。
-- **while 对比从句**：Half the workforce is still in agriculture, while the share of manufacturing ...——对比转折。
-- **even as 让步**：even as the informal sector absorbs most new workers——表"即便同时"。
-- **形式宾语 make it hard to**：make it hard for small ones to hire——it 形式宾语 + 不定式。
-- **双重否定/否定式平衡**：not entirely without foundation / not by ... but by——对仗否定。
-- **For 不定式表目的**：For the boom to help ordinary Indians, this must change——表必要条件。
-
-### 长难句
-
-最值得模仿的是"分号三连排比"（原句 2、17）：三个并列分句一气呵成，节奏感强。其次是 even as 让步（原句 11）：用让步句制造"制度悖论"。
-
-### 写作技巧
-
-- **先扬后抑**：先承认繁荣（乐观可理解），再点风险（局限少数人）——评论的辩证开场。
-- **二元概念概括**：dual economy, split between core and periphery——用一个概念统摄复杂结构。
-- **借他国教训**：other emerging markets——用先例增加说服力。
-- **以民生定成败**：judged ... by whether it lifts the lives of ordinary Indians——把评判标准锚定在普通人。
-
-## 可迁移表达
-- "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
-- "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
-- "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
-- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。## 词汇分级
 # India's new economy still faces an old problem
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-17。核心论点：印度正经历"新经济"热潮（AI、半导体、高端制造），但"旧问题"依旧——就业与生产率不足、大企业与小企业割裂、教育没跟上。文章认为：新经济是印度的机会，但若想惠及大众，必须同时解决老问题（基础教育、劳动力市场、中小企业融资），否则繁荣只是少数人的狂欢。
@@ -128,7 +16,6 @@
 - 第 6 段：结论——新经济需要新配套
 
 ---
-
 
 ## 一、逐句精读
 
@@ -466,3 +353,159 @@
 **为什么这样写：** 收束呼应第 5 段"India's moment is now"——用"民生是否改善"作为真正检验。
 
 **段落逻辑：** 他国教训（无改革繁荣昙花一现）→ 别重蹈覆辙 → 评判标准（民生而非数字）→ 真正检验（时刻是否到来）。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 2）
+
+**原句：** Factories are opening, from Gujarat to Tamil Nadu; AI start-ups are attracting record venture capital; and multinationals are shifting supply chains away from China.
+
+**找主干：** 三个并列分句：Factories are opening / AI start-ups are attracting record venture capital / multinationals are shifting supply chains away from China。
+
+**找修饰：**
+- from Gujarat to Tamil Nadu——地点范围短语（修饰 factories）
+- away from China——方向短语（修饰 shifting）
+
+**找从句：** 无从句，全为并列分句。
+
+**恢复逻辑：** 工厂开张、AI 创投破纪录、跨国公司撤华——三个并列信号。
+
+**整体理解：** 典型的分号排比句，三个证据并列呈现，节奏急促有力。
+
+### 长难句 2（原句 6）
+
+**原句：** Half the workforce is still in agriculture, mostly as subsistence farmers, while the share of manufacturing in GDP has barely risen.
+
+**找主干：** Half the workforce is still in agriculture / the share of manufacturing in GDP has barely risen（while 连接两个分句）。
+
+**找修饰：**
+- mostly as subsistence farmers——插入（限定 agriculture 的性质）
+- in GDP——介词短语
+
+**找从句：** while 对比从句。
+
+**恢复逻辑：** 一半劳动力还在农业（多为自给自足），而制造业占 GDP 比重几乎未升。
+
+**整体理解：** while 表对比：农业就业多 vs 制造占比停滞——用分号结构呈现就业结构的不变。
+
+### 长难句 3（原句 11）
+
+**原句：** Regulations that protect workers in big companies make it hard for small ones to hire, even as the informal sector absorbs most new workers.
+
+**找主干：** Regulations make it hard for small ones to hire（主谓宾 + 宾补）。
+
+**找修饰：**
+- that protect workers in big companies——定语从句修饰 regulations
+- for small ones——不定式逻辑主语
+- even as the informal sector absorbs most new workers——让步从句
+
+**找从句：** 定语从句（that）+ 让步从句（even as）。
+
+**恢复逻辑：** 保护大企业工人的法规让小企业难招人，即便非正规部门吸纳了大多数新工人。
+
+**整体理解：** 主干是"法规让招聘变难"，that 从句限定法规性质，even as 从句补充反衬（非正规部门在吸纳）——制度与现实的悖论。
+
+### 长难句 4（原句 17）
+
+**原句：** Global firms are diversifying away from China, interest rates have fallen, and a youthful population gives India a demographic edge.
+
+**找主干：** 三个并列分句。
+
+**找修饰：**
+- away from China——方向短语
+- a demographic edge——双宾语（India 为间接宾语）
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 全球企业从中国转移、利率下降、年轻人口提供人口红利。
+
+**整体理解：** 三连排比列出三个有利条件，节奏铿锵。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **"新 vs 旧"对照结构**：new economy / old problem——全文骨架。
+2. **三连排比罗列证据**：Factories ...; AI start-ups ...; multinationals ...——用分号排比呈现繁荣。
+3. **短句重锤**：Education is the deepest bottleneck / India's moment is now——短句造势。
+4. **not...but 评判标准**：judged not by its headline numbers, but by whether it lifts the lives——用对仗给标准。
+5. **他国经验引证**：The lesson of other emerging markets——借他国教训警示。
+6. **首尾呼应**：India's moment is now ... whether India's moment has truly arrived——首尾回环。
+
+### 语法要点
+
+- **分号三连排比**：Factories are opening; ...; and multinationals are ...——并列分句用分号。
+- **while 对比从句**：Half the workforce is still in agriculture, while the share of manufacturing ...——对比转折。
+- **even as 让步**：even as the informal sector absorbs most new workers——表"即便同时"。
+- **形式宾语 make it hard to**：make it hard for small ones to hire——it 形式宾语 + 不定式。
+- **双重否定/否定式平衡**：not entirely without foundation / not by ... but by——对仗否定。
+- **For 不定式表目的**：For the boom to help ordinary Indians, this must change——表必要条件。
+
+### 长难句
+
+最值得模仿的是"分号三连排比"（原句 2、17）：三个并列分句一气呵成，节奏感强。其次是 even as 让步（原句 11）：用让步句制造"制度悖论"。
+
+### 写作技巧
+
+- **先扬后抑**：先承认繁荣（乐观可理解），再点风险（局限少数人）——评论的辩证开场。
+- **二元概念概括**：dual economy, split between core and periphery——用一个概念统摄复杂结构。
+- **借他国教训**：other emerging markets——用先例增加说服力。
+- **以民生定成败**：judged ... by whether it lifts the lives of ordinary Indians——把评判标准锚定在普通人。
+
+### 可迁移表达
+
+- "booms without structural reform fizzle out" — 用于"无改革之繁荣不持久"。
+- "a dual economy, split between a protected core and an unprotected periphery" — 用于描述经济分化。
+- "seize this moment to tackle old problems rather than bask in the new boom" — 用于"借势改革"。
+- "judged not by its headline numbers, but by whether it lifts people's lives" — 用于"以民生为检验标准"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| n. | 热潮、繁荣 | 原句 1 |
+| n. | 风险投资 | 原句 2 |
+| n. | 乐观 | 原句 3 |
+| 短语 | 局限于 | 原句 4 |
+| n. | 自给自足农民 | 原句 6 |
+| v. | 停滞 | 原句 7 |
+| v. | 停滞（工资） | 原句 7 |
+| adj. | 不平衡的 | 原句 9 |
+| v. | 蒸蒸日上 | 原句 10 |
+| v. | 被挤压 | 原句 10 |
+| n. | 非正规部门 | 原句 11 |
+| n. | 二元经济 | 原句 12 |
+| n. | 外围 | 原句 12 |
+| n. | 瓶颈 | 原句 13 |
+| n. | 数理能力 | 原句 14 |
+| n. | 算术 | 原句 14 |
+| n. | 人口结构优势 | 原句 17 |
+| 短语 | 抓住时机 | 原句 18 |
+| 短语 | 沉浸于 | 原句 18 |
+| 短语 | 虎头蛇尾 | 原句 19 |
+| n. | 结构改革 | 原句 19 |
+| n. | 头条数字 | 原句 21 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| a | tech-and-manufacturing boom — 科技与制造热潮 |  |
+| shifting | supply chains away from China — 把供应链移出中国 |  |
+| a | narrow slice of the country — 国家的很小一部分 |  |
+| productivity | growth has stalled — 生产率增长停滞 |  |
+| make | it hard for small ones to hire — 让小企业难以招聘 |  |
+| a | protected core and an unprotected periphery — 受保护的核心与不受保护的外围 |  |
+| strong | numeracy and problem-solving — 强大的数理与解题能力 |  |
+| make | its boom last — 让繁荣持续 |  |
+| diversifying | away from China — 从中国多元化转移 |  |
+| booms | without structural reform fizzle out — 无结构改革的繁荣昙花一现 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| CDMO — 略 | bio 篇已学 |  |
+| IT | — 信息技术 |  |
+| GDP | — 国内生产总值 |  |
+| emerging | markets — 新兴市场 |  |
+

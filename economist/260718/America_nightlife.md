@@ -1,59 +1,15 @@
 ---
 状态: 未读
 ---
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| doomscrolling | 末日刷屏 | 夜生活的反面 |
+# 精读分析：《经济学人》—— America should stop making it so hard to have fun
 
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| descend on | 蜂拥而至 | 苏格兰球迷涌入 |
+> 原文标题：America should stop making it so hard to have fun
+> 副标题：Bureaucracy is nightlife's toughest bouncer
+> 来源：The Economist，2026-07-18 期，Leaders 社论
+> 精读日期：2026-08-09
+> 保存文件名：America_nightlife.md
 
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐ 基础 | 词/短语 | 释义 |
-| red tape | 繁文缛节 | 管制夜生活的官僚障碍 |
-| patchwork | 拼凑之物 | 禁酒令后的零散酒法 |
-| throttle | 扼杀 | 好理由不是扼杀夜生活的理由 |
-| takes on a life of its own | 自成一体 | 官僚自我繁殖 |
-| smothering competition | 扼杀竞争 | 牌照上限的后果 |
-| languish | 被搁置 | 申请积压 |
-| rack up costs | 累积成本 | 老板等待审批的代价 |
-| the wee hours | 凌晨 | 球迷展示的深夜美好 |
-| makes for | 有助于 | 深夜经济成就社会政策 |
-| pride oneself on | 以……为傲 | 美国自诩自由 |
-
-### 3. 重要语法
-
-- **形式主语** `it is simpler for A to do X than for B to do Y`
-- **make it + adj + to do** 使动结构
-- **动名词并列作宾语** speeding up / simplifying / getting rid of
-- **被动句突出成果** red tape has been cut
-- **did 强调谓语** they did show the city
-- **比较结构** `is estimated to be around`
-- **让步转折** may not be that good ... but they did show
-
-### 4. 长难句
-
-- 原句 8（买枪 vs 开酒吧的对比结构）
-- 原句 14（三连动名词建议清单）
-
-### 5. 写作技巧
-
-1. **历史讽刺框架**：1660 清教徒法律 vs 2026 警察工会——用时间跨度制造"管制逻辑未变"的反讽
-2. **先立靶再补全**：先承认监管的合理动机（犯罪/健康），再转折到"过度"——论证公正有说服力
-3. **最锋利句子放段落收尾**：`买枪比开酒吧容易`放在段落末句，冲击力最强
-4. **数据实证**：38% 社交时间下降、1/3 单身无约会、$350,000 酒牌——抽象论点都有数字支撑
-5. **幽默调节节奏**：fact-checked analysis、doomscrolling、wee hours——严肃政策话题不失轻松
-6. **三重收尾**：经济学/社会政策/最简单理由（fun）——层层降维，最后落到常识
-
-### 精读结束总结
-
-
+---
 
 ## 文本概览
 
@@ -366,7 +322,85 @@
 **段落逻辑：** 总结（18a 经济学+社会政策）→ 简化（18b 最简单理由）→ 呼吁（18c embrace）。
 
 ---
-## 6. 可迁移表达
+
+## 长难句专项
+
+### 🔍 原句 8（比较结构 + 形式主语）
+
+> **原句:** The consequence of all this red tape is that in the land of the free, it is simpler in some places for an 18-year-old to buy a semi-automatic rifle than it is for an entrepreneur to open a neighbourhood bar.
+
+**① 找主干：** The consequence ... is that ...
+**② 找修饰：** in the land of the free / in some places（地点状语）
+**③ 找从句：** that 引导表语从句；从句内 `it is simpler for A to buy X than it is for B to open Y` 是比较结构
+**④ 恢复逻辑：** 买枪（A）与开酒吧（B）的难度对比——在"自由之地"的某些地方，前者更容易。
+**⑤ 整体理解：** 管制夜生活的代价，让最自由的国度出现"买武器比开酒馆更容易"的荒诞。
+
+### 🔍 原句 14（make it + 宾语从句并列）
+
+> **原句:** That means speeding up permits so that applications do not languish as business owners rack up costs; simplifying licensing rules that only a specialist can navigate; and getting rid of arbitrarily low quotas on liquor licences.
+
+**① 找主干：** That means A; B; and C（三个动名词并列作宾语）
+**② 找修饰：** A 内 `so that` 结果从句 + `as` 时间从句；B 内 `that` 定语从句
+**③ 找从句：** so that applications do not languish ...；that only a specialist can navigate
+**④ 恢复逻辑：** 三条建议各自附带其目的/对象：加快审批（避免拖延烧钱）；简化规则（避免只有专家能懂）；取消配额（避免人为稀缺）。
+**⑤ 整体理解：** 精确的三联建议清单，每一条都有明确问题和解决办法。
+
+---
+
+## 精读结束总结
+
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| doomscrolling | 末日刷屏 | 夜生活的反面 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| descend on | 蜂拥而至 | 苏格兰球迷涌入 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐ 基础 | 词/短语 | 释义 |
+| red tape | 繁文缛节 | 管制夜生活的官僚障碍 |
+| patchwork | 拼凑之物 | 禁酒令后的零散酒法 |
+| throttle | 扼杀 | 好理由不是扼杀夜生活的理由 |
+| takes on a life of its own | 自成一体 | 官僚自我繁殖 |
+| smothering competition | 扼杀竞争 | 牌照上限的后果 |
+| languish | 被搁置 | 申请积压 |
+| rack up costs | 累积成本 | 老板等待审批的代价 |
+| the wee hours | 凌晨 | 球迷展示的深夜美好 |
+| makes for | 有助于 | 深夜经济成就社会政策 |
+| pride oneself on | 以……为傲 | 美国自诩自由 |
+
+### 3. 重要语法
+
+- **形式主语** `it is simpler for A to do X than for B to do Y`
+- **make it + adj + to do** 使动结构
+- **动名词并列作宾语** speeding up / simplifying / getting rid of
+- **被动句突出成果** red tape has been cut
+- **did 强调谓语** they did show the city
+- **比较结构** `is estimated to be around`
+- **让步转折** may not be that good ... but they did show
+
+### 4. 长难句
+
+- 原句 8（买枪 vs 开酒吧的对比结构）
+- 原句 14（三连动名词建议清单）
+
+### 5. 写作技巧
+
+1. **历史讽刺框架**：1660 清教徒法律 vs 2026 警察工会——用时间跨度制造"管制逻辑未变"的反讽
+2. **先立靶再补全**：先承认监管的合理动机（犯罪/健康），再转折到"过度"——论证公正有说服力
+3. **最锋利句子放段落收尾**：`买枪比开酒吧容易`放在段落末句，冲击力最强
+4. **数据实证**：38% 社交时间下降、1/3 单身无约会、$350,000 酒牌——抽象论点都有数字支撑
+5. **幽默调节节奏**：fact-checked analysis、doomscrolling、wee hours——严肃政策话题不失轻松
+6. **三重收尾**：经济学/社会政策/最简单理由（fun）——层层降维，最后落到常识
+
+### 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -380,5 +414,3 @@
 | `languish` | 政策/项目 | The proposal languished for years. |
 | `descend on` | 描述人流 | Thousands of tourists descended on the town. |
 | `keeping up this momentum` | 进展总结 | Keeping up this momentum will be key next quarter. |
-
-

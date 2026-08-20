@@ -1,223 +1,16 @@
 ---
 状态: 未读
 ---
+# 精读分析：《经济学人》—— Mona Khalil defied danger to protect her "family"
 
+> 原文标题：Mona Khalil defied danger to protect her "family"
+> 副标题：Lebanon's most dedicated conservationist was killed on June 19th, aged 76
+> 栏目：Obituary | To save the turtles
+> 来源：The Economist，2026-07-11 期（2026-07-09 发布，5 min read）
+> 精读日期：2026-08-09
+> 保存文件名：Mona_Khalil_turtles.md
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| strolling | 漫步 | Strolling on the beach. |
-| adventuring | 冒险 | Adventuring through the hills. |
-| driftwood | 浮木 | Collecting driftwood. |
-| clinking | 叮当响 | Bottles clinking. |
-| dream life | 梦想生活 | Living the dream life. |
-| a thud or a thump | 砰的闷响 | A thud at the door. |
-| The next thing she knew | 回过神来 | The next thing I knew, it was over. |
-| not ... but ... | 不是而是 | Not a fox but a turtle. |
-| critically endangered | 极度濒危 | A critically endangered animal. |
-| herbivores | 草食动物 | A herbivore. |
-| would have swum | 一定游了 | She would have travelled far. |
-| hatched | 孵化 | The eggs hatched. |
-| Unerring | 不出错的 | Unerring instinct. |
-| wearily | 疲惫地 | Rose wearily. |
-| the point at which | 转折点 | The point at which it changed. |
-| gazed | 凝视 | Gazed at the stars. |
-| porcelain restorer | 瓷器修复师 | A porcelain restorer. |
-| swallowed in | 吞没 | Swallowed by the forest. |
-| put it to rights | 修缮好 | Put the garden to rights. |
-| homage to | 致敬 | A homage to her homeland. |
-| Dutchness | 荷兰气质 | A certain Dutchness. |
-| bluntness | 直率 | A blunt manner. |
-| reserve | 内敛 | Cold reserve. |
-| swayed | 动摇 | Don't be swayed. |
-| dogged | 顽强的 | Dogged determination. |
-| get on with it | 干下去 | Just get on with it. |
-| world-famous | 世界闻名 | A world-famous project. |
-| carnivorous | 肉食的 | Carnivorous animals. |
-| prostrated | 击垮 | Prostrated by defeat. |
-| conservationists | 环保人士 | A conservationist. |
-| turning ... into | 改成 | Turned the barn into a studio. |
-| B&B | 含早餐民宿 | Stayed at a B&B. |
-| an oasis of calm | 宁静绿洲 | An oasis of calm. |
-| The high point | 高潮 | The high point of the day. |
-| summon | 召集 | Summoned her team. |
-| hatchlings | 幼龟 | Released the hatchlings. |
-| frantically | 疯狂地 | Frantically searching. |
-| scurried | 仓皇小跑 | Scurried away. |
-| the breaking waves | 碎浪 | Breaking waves. |
-| plastic litter | 塑料垃圾 | Plastic litter. |
-| entangled | 缠住 | Entangled in netting. |
-| close-mesh nets | 细网 | Close-mesh netting. |
-| dynamite | 炸药 | Fishing with dynamite. |
-| insidious | 隐蔽的 | An insidious threat. |
-| unspoilt tranquillity | 未破坏的宁静 | Unspoilt beaches. |
-| competed with | 与……争 | Lights competing with the moon. |
-| confound | 扰乱 | Confounded the pilot. |
-| sense of direction | 方向感 | A poor sense of direction. |
-| hemmed-in | 被围困 | A hemmed-in valley. |
-| feel compelled to | 不得不 | Felt compelled to help. |
-| campaigned | 奔走活动 | Campaigned for the turtles. |
-| Before dawn | 黎明前 | Woke before dawn. |
-| patrol | 巡逻 | Patrolled the shore. |
-| papery-shelled | 纸壳的 | Papery wings. |
-| Passionately | 激情地 | Spoke passionately. |
-| tearfully | 含泪 | Pleaded tearfully. |
-| had a right to | 有权拥有 | A right to the beach. |
-| Who were ... to | 谁配 | Who are you to judge? |
-| kick them out | 赶走 | Kicked out of their home. |
-| incessant | 没完没了 | Incessant noise. |
-| the last thing on their minds | 最不想的 | The last thing I need. |
-| turned up with | 带着出现 | Turned up with a bottle. |
-| give up using | 放弃使用 | Gave up smoking. |
-| a community reserve | 社区保护区 | A nature reserve. |
-| did her best to obstruct | 尽力阻止 | Did her best to help. |
-| contravened | 违反 | Contravened the regulations. |
-| petitioned | 请愿 | Petitioned the council. |
-| peacekeepers | 维和人员 | UN peacekeepers. |
-| point-blank | 直截了当 | Asked point-blank. |
-| nesting season | 筑巢季 | Nesting season. |
-| set up rockets | 架火箭 | Set up a launcher. |
-| had to flee | 逃离 | Forced to flee. |
-| military checkpoint | 军事检查站 | Passed a checkpoint. |
-| cleared through security | 过安检 | Cleared through customs. |
-| Ironically | 讽刺地 | Ironically, it helped. |
-| emptied the beaches | 清空海滩 | Emptied the streets. |
-| thrived | 繁盛 | The plants thrived. |
-| launched themselves | 冲向大海 | Launched into the sea. |
-| Nonetheless | 尽管如此 | Nonetheless, she stayed. |
-| made the resolution | 下定决心 | Made a resolution. |
-| No matter what | 无论如何 | No matter what, I'm staying. |
-| dealings with | 打交道 | Dealings with the army. |
-| compromised her | 使她受牵连 | Compromised his reputation. |
-| waved ... off | 不理会 | Waved off the question. |
-| a civilian | 平民 | A civilian casualty. |
-| no other ... but | 只有 | No other answer but yes. |
-| heaven | 天堂 | A private heaven. |
-| patch | 一亩三分地 | A familiar patch of land. |
-| as surely as | 正如……一样 | As surely as the tide. |
-| unwavering | 毫不动摇 | Unwavering loyalty. |
-| mile after mile | 一里又一里 | Mile after mile. |
-| rolling sea | 翻滚海面 | The rolling sea. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| the rocky, sandy shore | 岩石沙岸 |  |
-| weird stones | 怪石 |  |
-| lemon and banana trees | 柠檬香蕉树 |  |
-| coloured glass bottles | 彩色玻璃瓶 |  |
-| throwing sand | 甩沙子 |  |
-| digging a nest | 挖窝 |  |
-| sea-grass and seaweed | 海草海藻 |  |
-| civil war | 内战 |  |
-| a passing boat | 过往船 |  |
-| starfish | 海星 |  |
-| wind chimes | 风铃 |  |
-| home-made jam | 自制果酱 |  |
-| wire mesh | 铁丝网 |  |
-| ghost crabs | 幽灵蟹 |  |
-| flats, hotels and resorts | 公寓酒店度假村 |  |
-| security lights | 保安灯 |  |
-| rubbish | 垃圾 |  |
-| hut | 小屋 |  |
-| covid | 疫情 |  |
-| statue | 雕像 |  |
-| shells | 炮弹 |  |
-| civilian | 平民 |  |
-| determination | 决心 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| Mansouri beach | 曼苏里海滩 |  |
-| green sea turtle | 绿海龟 |  |
-| loggerhead turtles | 蠵龟 |  |
-| Omar | 奥马尔（她的儿子） |  |
-| Habiba Fayed | 哈比巴·法耶德（挚友） |  |
-| Orange House | 橙房子 |  |
-| hima | 社区保护区（伊斯兰传统） |  |
-| Palagio Beach Resort | 帕拉焦海滩度假村 |  |
-| Hizbullah | 真主党 |  |
-| Kalashnikovs | AK 步枪 |  |
-| Israeli border | 以色列边界 |  |
-| Beirut | 贝鲁特 |  |
-| the Netherlands | 荷兰 |  |
-
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `It was the summer of 1999` — 故事开场
-2. `All the toys she had ever needed she had picked up here` — 宾语前置强调
-3. `The next thing she knew, ... was throwing sand at her` — 回过神来
-4. `not a dog or a fox, but a huge turtle` — 排除式揭晓
-5. `would have swum hundreds, maybe even thousands, of miles` — 千里回归的推测
-6. `her eggs laid and covered up` — 独立主格（产卵毕）
-7. `the point at which her life changed, and became only turtles` — 转折点
-8. `killed at eight by a passing boat as he gazed at starfish` — 生平悲剧
-9. `put it to rights` — 修缮好
-10. `a certain bluntness, an unLebanese reserve, a refusal to be swayed, and a dogged belief in just getting on with it` — 四连性格
-11. `turning the Orange House into a B&B` — 民宿养项目
-12. `wind chimes, home-made jam—and serious research` — 诗意与科研并置
-13. `flippers going frantically, scurried down to the breaking waves` — 幼龟入海
-14. `the most insidious enemy was development` — 最隐蔽的敌人
-15. `Security lights competed with the moon` — 灯光与月争辉
-16. `the home to which the female hatchlings would one day feel compelled to return` — 回归的家
-17. `Who were humans to kick them out?` — 人类算老几
-18. `All they were asking for was a short season to nest` — 所求甚少
-19. `she asked Hizbullah fighters point-blank to leave` — 直面武装
-20. `when war (or covid) emptied the beaches the turtles thrived` — 人走龟旺
-21. `a statue ... out of all the Israeli shells` — 炮弹雕像
-22. `there was no other heaven but her Orange House` — 家即天堂
-23. `her patch, to which she had to return; as surely as the female turtles did` — 如龟归家
-
-### 2. 重要语法
-
-- **宾语前置（topicalization）**：`All the toys she had ever needed she had picked up here`
-- **名词罗列式叙述（无谓语）**：`School in Beirut, a marriage, and a son, Omar, killed at eight ...`
-- **独立主格**：`her eggs laid and covered up` / `flippers going frantically`
-- **would have + 过去分词（推测）**：`would have swum hundreds of miles`
-- **介词前置定语从句**：`the home to which ... return` / `her patch, to which she had to return`
-- **比较从句**：`as surely as the female turtles did`
-- **并列动词链**：`measured, roofed, counted, helped, sent`（五连）
-- **同位语**：`they, her family` / `Omar, killed at eight`
-- **极短句重音**：`She loved this beach.` / `She was just a civilian.` / `That was it.`
-- **插入语**：`(she had to; they were the local authority)`
-- **反问句**：`Who were humans to kick them out?`
-- **倒装引语**：`said the late Sir Terry Pratchett` 类（此处为 `she repeated`）
-
-### 3. 写作技巧
-
-1. **"family"的隐喻贯穿**：标题引号中的 family（海龟是家人）→ 文中 `they, her family, would be gone again` → 结尾 `her patch ... as surely as the female turtles did`——把"人-海龟"的关系当作"归乡者-家园"，讣告的动人处在于把人物的一生浓缩为一个"归属"意象
-2. **时间尺度的震撼**：`for the past 250m years, before humans existed`（海龟先来 2.5 亿年）+ `where 30 years ago she had hatched`（海龟 30 年后归来）+ `over mile after mile`（千里洄游）——用宏大时间与空间尺度衬托海龟的"先来者"地位
-3. **从偶遇到献身**：开篇"拿着啤酒漫步、捡玻璃瓶"的惬意 → 第二段 `not a dog or a fox, but a huge turtle` 的揭晓 → `all she could think of was how beautiful she was`——用一个"美"字完成人生转向，不讲大道理
-4. **名词短语罗列的人生压缩**：`School in Beirut, a marriage, and a son, Omar, killed at eight`——用三个名词短语+一个最痛的定语（凝视海星被船撞死）交代半生，悲恸全在"凝视海星"这一静谧画面里
-5. **敌对与胜利的平衡**：不回避敌意（带 AK 的当地人、真主党、战争）但也不悲情——`But at least she made the fishermen give up using dynamite`（至少让渔民放弃炸药）、`when war emptied the beaches the turtles thrived`（战争反而帮了海龟）——用"至少"与"讽刺"保持克制
-6. **物件意象**：橙房子（基地）、炮弹雕像（化暴戾为美）、风铃与果酱（日常诗意）、瓶中浮木（童趣）——用具体物件代替抽象评价，人物跃然纸上
-7. **首尾闭环**：开篇"捡东西/梦生活" → 结尾"她的 patch，如龟归家"——从"捡拾"（收集）到"回归"（守护），讣告在结构的循环中完成对一位"固执的守护者"的致敬
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `It was the summer of ...` | 叙事开场 | It was the summer of 2008. |
-| `The next thing I knew, ...` | 转折叙事 | The next thing I knew, it was dark. |
-| `not A but B` | 澄清 | Not a failure but a lesson. |
-| `the point at which` | 转折点 | The point at which everything changed. |
-| `put ... to rights` | 修复 | Put the records to rights. |
-| `as a homage to` | 致敬 | Named it as a homage to her teacher. |
-| `the last thing on one's mind` | 优先级 | Saving is the last thing on their minds. |
-| `Who are ... to` | 质疑资格 | Who are we to judge? |
-| `feel compelled to` | 内心驱动 | Felt compelled to speak up. |
-| `No matter what` | 坚持 | No matter what, we carry on. |
-| `wave ... off` | 不在意 | Waved off the criticism. |
-| `as surely as` | 必然性 | As surely as night follows day. |
-| `unwavering` | 坚定 | Unwavering commitment. |
-| `mile after mile` | 持续 | Mile after mile of progress. |
+---
 
 ## 文本概览
 
@@ -1147,3 +940,281 @@
 **段落逻辑：** 决心（65-66）→ 炮弹雕像（67）→ 真主党争议（68-69）→ 橙房子=天堂（70-71）→ 归家呼应（72）。
 
 ---
+
+## 长难句专项
+
+### 🔍 原句 5（宾语前置 + 冒号列举）
+
+> **原句:** All the toys she had ever needed she had picked up here, and still did: weird stones, lengths of driftwood, coloured glass bottles.
+
+**① 找主干：** she had picked up all the toys（宾语前置：All the toys 提前）
+**② 找修饰：** she had ever needed（定语从句）；and still did（并列）；冒号列举
+**③ 找从句：** she had ever needed（定语从句，省略 that）
+**④ 恢复逻辑：** 她需要的所有"玩具"都是在这捡的，现在也还在捡：怪石、浮木、玻璃瓶。
+**⑤ 整体理解：** 宾语前置（topicalization）把 all the toys 放句首强调"这一切都来自海滩"；定语从句 she had ever needed 省 that；and still did 用助动词 did 省略谓语，把过去与现在并置。
+
+### 🔍 原句 13（would have + where 定语从句）
+
+> **原句:** This particular female would have swum hundreds, maybe even thousands, of miles to lay her eggs exactly here, where 30 years ago she had hatched.
+
+**① 找主干：** This female would have swum hundreds of miles
+**② 找修饰：** maybe even thousands（插入）；to lay her eggs（目的）；exactly here（地点）；where she had hatched（定语从句）
+**③ 找从句：** where 30 years ago she had hatched（非限制性定语从句）
+**④ 恢复逻辑：** 这只雌龟一定游了数百上千英里，回到她 30 年前孵化出的这里产卵。
+**⑤ 整体理解：** `would have swum`（对过去事实的推测，表"必然如此"）；插入语 maybe even thousands 强化距离；定语从句 where ... she had hatched 用过去完成时（先于主句）；hundreds, maybe even thousands 的"数字叠加强调"。
+
+### 🔍 原句 18（名词罗列 + 分词 + as 从句）
+
+> **原句:** School in Beirut, a marriage, and a son, Omar, killed at eight by a passing boat as he gazed at starfish underwater.
+
+**① 找主干：** 无动词主句——三个名词短语罗列（School / a marriage / a son）
+**② 找修饰：** killed at eight（分词定语）；by a passing boat（施事）；as he gazed at starfish underwater（时间从句）
+**③ 找从句：** as he gazed ...（时间从句）
+**④ 恢复逻辑：** 贝鲁特的学业、一段婚姻、一个儿子奥马尔——8 岁时凝视水上海星被船撞死。
+**⑤ 整体理解：** 整句是名词性罗列（无谓语），用句号结束——文学性的"简历压缩"；killed 过去分词后置修饰 son；as 从句用过去时 gaze（凝视）描绘生前最后一刻（静谧与惨剧的反差）。
+
+### 🔍 原句 30（when 表语从句 + as 时间从句 + 独立主格）
+
+> **原句:** The high point was when she would summon her volunteers to watch as she poured out a bucket of hatchlings on the sand and the tiny creatures, flippers going frantically, scurried down to the breaking waves.
+
+**① 找主干：** The high point was when ...
+**② 找修饰：** when 表语从句；as 时间从句（she poured ... and the creatures scurried，双谓语）；flippers going frantically（独立主格插入）
+**③ 找从句：** when she would summon ...（表语从句）；as she poured ... and ... scurried ...（时间从句）
+**④ 恢复逻辑：** 高潮是她召集志愿者看她倒出一桶幼龟、小家伙们疯狂摆鳍冲向碎浪。
+**⑤ 整体理解：** 主句 + when 表语从句；as 从句内嵌双主语并列（she poured / the creatures scurried）；独立主格 flippers going frantically 作插入描写（名词 flippers + 分词 going）；嵌套三层（when > as > 独立主格）。
+
+### 🔍 原句 38（介词前置定语从句）
+
+> **原句:** Yet this small, hemmed-in site was the home to which the female hatchlings would one day feel compelled to return.
+
+**① 找主干：** this site was the home
+**② 找修饰：** small, hemmed-in（并列定语）；to which ... return（介词前置定语从句）
+**③ 找从句：** to which the female hatchlings would one day feel compelled to return（定语从句）
+**④ 恢复逻辑：** 这片被围困的小地方，正是雌幼龟有朝一日不得不回归的家。
+**⑤ 整体理解：** 定语从句中 to 前置到 which 前（the home to which ... return，比 which ... return to 更正式）；`feel compelled to`（觉得必须）表本能性的义务；hemmed-in（被围困）与 home（家）并置制造张力。
+
+### 🔍 原句 72（介词前置 + 比较从句 + 并列状语）
+
+> **原句:** That was her patch, to which she had to return; as surely as the female turtles did, with unwavering determination, over mile after mile of rolling sea.
+
+**① 找主干：** That was her patch
+**② 找修饰：** to which she had to return（定语从句）；as surely as the turtles did（比较从句）；with unwavering determination（方式）；over mile after mile of rolling sea（路径）
+**③ 找从句：** to which ... return（定语从句）；as surely as the turtles did（比较从句）
+**④ 恢复逻辑：** 那是她的一亩三分地，她必须回去——像雌龟一样笃定，带着毫不动摇的决心，越过一里又一里的海。
+**⑤ 整体理解：** 定语从句（to which ... return）+ 比较从句（as surely as ... did）叠加强调"回归的必然"；with / over 两个介词短语铺开画面；**人与海龟的"归家"在句式上合流**——同一结构的两次使用（the home to which ... return / her patch, to which she had to return）形成首尾呼应。
+
+---
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `It was the summer of 1999` — 故事开场
+2. `All the toys she had ever needed she had picked up here` — 宾语前置强调
+3. `The next thing she knew, ... was throwing sand at her` — 回过神来
+4. `not a dog or a fox, but a huge turtle` — 排除式揭晓
+5. `would have swum hundreds, maybe even thousands, of miles` — 千里回归的推测
+6. `her eggs laid and covered up` — 独立主格（产卵毕）
+7. `the point at which her life changed, and became only turtles` — 转折点
+8. `killed at eight by a passing boat as he gazed at starfish` — 生平悲剧
+9. `put it to rights` — 修缮好
+10. `a certain bluntness, an unLebanese reserve, a refusal to be swayed, and a dogged belief in just getting on with it` — 四连性格
+11. `turning the Orange House into a B&B` — 民宿养项目
+12. `wind chimes, home-made jam—and serious research` — 诗意与科研并置
+13. `flippers going frantically, scurried down to the breaking waves` — 幼龟入海
+14. `the most insidious enemy was development` — 最隐蔽的敌人
+15. `Security lights competed with the moon` — 灯光与月争辉
+16. `the home to which the female hatchlings would one day feel compelled to return` — 回归的家
+17. `Who were humans to kick them out?` — 人类算老几
+18. `All they were asking for was a short season to nest` — 所求甚少
+19. `she asked Hizbullah fighters point-blank to leave` — 直面武装
+20. `when war (or covid) emptied the beaches the turtles thrived` — 人走龟旺
+21. `a statue ... out of all the Israeli shells` — 炮弹雕像
+22. `there was no other heaven but her Orange House` — 家即天堂
+23. `her patch, to which she had to return; as surely as the female turtles did` — 如龟归家
+
+### 2. 重要语法
+
+- **宾语前置（topicalization）**：`All the toys she had ever needed she had picked up here`
+- **名词罗列式叙述（无谓语）**：`School in Beirut, a marriage, and a son, Omar, killed at eight ...`
+- **独立主格**：`her eggs laid and covered up` / `flippers going frantically`
+- **would have + 过去分词（推测）**：`would have swum hundreds of miles`
+- **介词前置定语从句**：`the home to which ... return` / `her patch, to which she had to return`
+- **比较从句**：`as surely as the female turtles did`
+- **并列动词链**：`measured, roofed, counted, helped, sent`（五连）
+- **同位语**：`they, her family` / `Omar, killed at eight`
+- **极短句重音**：`She loved this beach.` / `She was just a civilian.` / `That was it.`
+- **插入语**：`(she had to; they were the local authority)`
+- **反问句**：`Who were humans to kick them out?`
+- **倒装引语**：`said the late Sir Terry Pratchett` 类（此处为 `she repeated`）
+
+### 3. 写作技巧
+
+1. **"family"的隐喻贯穿**：标题引号中的 family（海龟是家人）→ 文中 `they, her family, would be gone again` → 结尾 `her patch ... as surely as the female turtles did`——把"人-海龟"的关系当作"归乡者-家园"，讣告的动人处在于把人物的一生浓缩为一个"归属"意象
+2. **时间尺度的震撼**：`for the past 250m years, before humans existed`（海龟先来 2.5 亿年）+ `where 30 years ago she had hatched`（海龟 30 年后归来）+ `over mile after mile`（千里洄游）——用宏大时间与空间尺度衬托海龟的"先来者"地位
+3. **从偶遇到献身**：开篇"拿着啤酒漫步、捡玻璃瓶"的惬意 → 第二段 `not a dog or a fox, but a huge turtle` 的揭晓 → `all she could think of was how beautiful she was`——用一个"美"字完成人生转向，不讲大道理
+4. **名词短语罗列的人生压缩**：`School in Beirut, a marriage, and a son, Omar, killed at eight`——用三个名词短语+一个最痛的定语（凝视海星被船撞死）交代半生，悲恸全在"凝视海星"这一静谧画面里
+5. **敌对与胜利的平衡**：不回避敌意（带 AK 的当地人、真主党、战争）但也不悲情——`But at least she made the fishermen give up using dynamite`（至少让渔民放弃炸药）、`when war emptied the beaches the turtles thrived`（战争反而帮了海龟）——用"至少"与"讽刺"保持克制
+6. **物件意象**：橙房子（基地）、炮弹雕像（化暴戾为美）、风铃与果酱（日常诗意）、瓶中浮木（童趣）——用具体物件代替抽象评价，人物跃然纸上
+7. **首尾闭环**：开篇"捡东西/梦生活" → 结尾"她的 patch，如龟归家"——从"捡拾"（收集）到"回归"（守护），讣告在结构的循环中完成对一位"固执的守护者"的致敬
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `It was the summer of ...` | 叙事开场 | It was the summer of 2008. |
+| `The next thing I knew, ...` | 转折叙事 | The next thing I knew, it was dark. |
+| `not A but B` | 澄清 | Not a failure but a lesson. |
+| `the point at which` | 转折点 | The point at which everything changed. |
+| `put ... to rights` | 修复 | Put the records to rights. |
+| `as a homage to` | 致敬 | Named it as a homage to her teacher. |
+| `the last thing on one's mind` | 优先级 | Saving is the last thing on their minds. |
+| `Who are ... to` | 质疑资格 | Who are we to judge? |
+| `feel compelled to` | 内心驱动 | Felt compelled to speak up. |
+| `No matter what` | 坚持 | No matter what, we carry on. |
+| `wave ... off` | 不在意 | Waved off the criticism. |
+| `as surely as` | 必然性 | As surely as night follows day. |
+| `unwavering` | 坚定 | Unwavering commitment. |
+| `mile after mile` | 持续 | Mile after mile of progress. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| strolling | 漫步 | Strolling on the beach. |
+| adventuring | 冒险 | Adventuring through the hills. |
+| driftwood | 浮木 | Collecting driftwood. |
+| clinking | 叮当响 | Bottles clinking. |
+| dream life | 梦想生活 | Living the dream life. |
+| a thud or a thump | 砰的闷响 | A thud at the door. |
+| The next thing she knew | 回过神来 | The next thing I knew, it was over. |
+| not ... but ... | 不是而是 | Not a fox but a turtle. |
+| critically endangered | 极度濒危 | A critically endangered animal. |
+| herbivores | 草食动物 | A herbivore. |
+| would have swum | 一定游了 | She would have travelled far. |
+| hatched | 孵化 | The eggs hatched. |
+| Unerring | 不出错的 | Unerring instinct. |
+| wearily | 疲惫地 | Rose wearily. |
+| the point at which | 转折点 | The point at which it changed. |
+| gazed | 凝视 | Gazed at the stars. |
+| porcelain restorer | 瓷器修复师 | A porcelain restorer. |
+| swallowed in | 吞没 | Swallowed by the forest. |
+| put it to rights | 修缮好 | Put the garden to rights. |
+| homage to | 致敬 | A homage to her homeland. |
+| Dutchness | 荷兰气质 | A certain Dutchness. |
+| bluntness | 直率 | A blunt manner. |
+| reserve | 内敛 | Cold reserve. |
+| swayed | 动摇 | Don't be swayed. |
+| dogged | 顽强的 | Dogged determination. |
+| get on with it | 干下去 | Just get on with it. |
+| world-famous | 世界闻名 | A world-famous project. |
+| carnivorous | 肉食的 | Carnivorous animals. |
+| prostrated | 击垮 | Prostrated by defeat. |
+| conservationists | 环保人士 | A conservationist. |
+| turning ... into | 改成 | Turned the barn into a studio. |
+| B&B | 含早餐民宿 | Stayed at a B&B. |
+| an oasis of calm | 宁静绿洲 | An oasis of calm. |
+| The high point | 高潮 | The high point of the day. |
+| summon | 召集 | Summoned her team. |
+| hatchlings | 幼龟 | Released the hatchlings. |
+| frantically | 疯狂地 | Frantically searching. |
+| scurried | 仓皇小跑 | Scurried away. |
+| the breaking waves | 碎浪 | Breaking waves. |
+| plastic litter | 塑料垃圾 | Plastic litter. |
+| entangled | 缠住 | Entangled in netting. |
+| close-mesh nets | 细网 | Close-mesh netting. |
+| dynamite | 炸药 | Fishing with dynamite. |
+| insidious | 隐蔽的 | An insidious threat. |
+| unspoilt tranquillity | 未破坏的宁静 | Unspoilt beaches. |
+| competed with | 与……争 | Lights competing with the moon. |
+| confound | 扰乱 | Confounded the pilot. |
+| sense of direction | 方向感 | A poor sense of direction. |
+| hemmed-in | 被围困 | A hemmed-in valley. |
+| feel compelled to | 不得不 | Felt compelled to help. |
+| campaigned | 奔走活动 | Campaigned for the turtles. |
+| Before dawn | 黎明前 | Woke before dawn. |
+| patrol | 巡逻 | Patrolled the shore. |
+| papery-shelled | 纸壳的 | Papery wings. |
+| Passionately | 激情地 | Spoke passionately. |
+| tearfully | 含泪 | Pleaded tearfully. |
+| had a right to | 有权拥有 | A right to the beach. |
+| Who were ... to | 谁配 | Who are you to judge? |
+| kick them out | 赶走 | Kicked out of their home. |
+| incessant | 没完没了 | Incessant noise. |
+| the last thing on their minds | 最不想的 | The last thing I need. |
+| turned up with | 带着出现 | Turned up with a bottle. |
+| give up using | 放弃使用 | Gave up smoking. |
+| a community reserve | 社区保护区 | A nature reserve. |
+| did her best to obstruct | 尽力阻止 | Did her best to help. |
+| contravened | 违反 | Contravened the regulations. |
+| petitioned | 请愿 | Petitioned the council. |
+| peacekeepers | 维和人员 | UN peacekeepers. |
+| point-blank | 直截了当 | Asked point-blank. |
+| nesting season | 筑巢季 | Nesting season. |
+| set up rockets | 架火箭 | Set up a launcher. |
+| had to flee | 逃离 | Forced to flee. |
+| military checkpoint | 军事检查站 | Passed a checkpoint. |
+| cleared through security | 过安检 | Cleared through customs. |
+| Ironically | 讽刺地 | Ironically, it helped. |
+| emptied the beaches | 清空海滩 | Emptied the streets. |
+| thrived | 繁盛 | The plants thrived. |
+| launched themselves | 冲向大海 | Launched into the sea. |
+| Nonetheless | 尽管如此 | Nonetheless, she stayed. |
+| made the resolution | 下定决心 | Made a resolution. |
+| No matter what | 无论如何 | No matter what, I'm staying. |
+| dealings with | 打交道 | Dealings with the army. |
+| compromised her | 使她受牵连 | Compromised his reputation. |
+| waved ... off | 不理会 | Waved off the question. |
+| a civilian | 平民 | A civilian casualty. |
+| no other ... but | 只有 | No other answer but yes. |
+| heaven | 天堂 | A private heaven. |
+| patch | 一亩三分地 | A familiar patch of land. |
+| as surely as | 正如……一样 | As surely as the tide. |
+| unwavering | 毫不动摇 | Unwavering loyalty. |
+| mile after mile | 一里又一里 | Mile after mile. |
+| rolling sea | 翻滚海面 | The rolling sea. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| the rocky, sandy shore | 岩石沙岸 |  |
+| weird stones | 怪石 |  |
+| lemon and banana trees | 柠檬香蕉树 |  |
+| coloured glass bottles | 彩色玻璃瓶 |  |
+| throwing sand | 甩沙子 |  |
+| digging a nest | 挖窝 |  |
+| sea-grass and seaweed | 海草海藻 |  |
+| civil war | 内战 |  |
+| a passing boat | 过往船 |  |
+| starfish | 海星 |  |
+| wind chimes | 风铃 |  |
+| home-made jam | 自制果酱 |  |
+| wire mesh | 铁丝网 |  |
+| ghost crabs | 幽灵蟹 |  |
+| flats, hotels and resorts | 公寓酒店度假村 |  |
+| security lights | 保安灯 |  |
+| rubbish | 垃圾 |  |
+| hut | 小屋 |  |
+| covid | 疫情 |  |
+| statue | 雕像 |  |
+| shells | 炮弹 |  |
+| civilian | 平民 |  |
+| determination | 决心 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Mansouri beach | 曼苏里海滩 |  |
+| green sea turtle | 绿海龟 |  |
+| loggerhead turtles | 蠵龟 |  |
+| Omar | 奥马尔（她的儿子） |  |
+| Habiba Fayed | 哈比巴·法耶德（挚友） |  |
+| Orange House | 橙房子 |  |
+| hima | 社区保护区（伊斯兰传统） |  |
+| Palagio Beach Resort | 帕拉焦海滩度假村 |  |
+| Hizbullah | 真主党 |  |
+| Kalashnikovs | AK 步枪 |  |
+| Israeli border | 以色列边界 |  |
+| Beirut | 贝鲁特 |  |
+| the Netherlands | 荷兰 |  |
+

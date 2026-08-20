@@ -1,198 +1,16 @@
 ---
 状态: 未读
 ---
+# 精读分析：《经济学人》—— The man who would change Russia
 
+> 原文标题：The man who would change Russia
+> 副标题：A leading oligarch speaks out, warning of the looming disaster facing his country
+> 栏目：Leaders
+> 来源：The Economist，2026-07-11 期（2026-07-09 发布，5 min read）
+> 精读日期：2026-08-09
+> 保存文件名：Man_who_would_change_Russia.md
 
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| futile | 徒劳的 | The protest proved futile. |
-| paying the price | 付出代价 | The public pays the price for war. |
-| break the deadlock | 打破僵局 | Talks to break the deadlock. |
-| it pays to do | 值得做 | It pays to be prepared. |
-| stunning | 令人震惊的 | A stunning victory. |
-| insider | 圈内人 | He was an insider in the regime. |
-| high-minded | 道德高尚的 | High-minded but impractical. |
-| lived by | 遵循……生活 | He lives by a strict code. |
-| keep your nose out of | 别插手 | Keep your nose out of my affairs. |
-| tycoons | 大亨 | Media tycoons. |
-| afford to ignore | 承受得起无视 | We can't afford to ignore it. |
-| descend into | 滑入 | The country descended into civil war. |
-| tyranny | 专制 | Rule by tyranny. |
-| guardedly | 谨慎地 | He answered guardedly. |
-| speak out | 公开发声 | She spoke out against the law. |
-| resonate | 产生共鸣 | The message resonated widely. |
-| bleak | 黯淡的 | Bleak prospects. |
-| autarky | 闭关自守 | Self-sufficient autarky. |
-| sullen | 阴沉的 | A sullen crowd. |
-| amount to | 等于 | His demands amount to a veto. |
-| one-man rule | 一人统治 | A system of one-man rule. |
-| witness | 见证 | The city is witnessing growth. |
-| resentment | 怨恨 | The policy bred resentment. |
-| go viral | 疯传 | The clip went viral. |
-| belie | 与……矛盾 | His calm belies his anxiety. |
-| at hand | 即将到来 | Victory is at hand. |
-| dead end | 死胡同 | The talks hit a dead end. |
-| reassert authority | 重申权威 | Reasserted his authority. |
-| exacerbate | 加剧 | The move exacerbated the crisis. |
-| discount | 不采信 | Analysts discount the threat. |
-| gloomy | 阴郁的 | A gloomy forecast. |
-| scenarios | 情景 | Worst-case scenarios. |
-| collapse into anarchy | 陷入无政府 | The state collapsed into anarchy. |
-| warlords | 军阀 | Warlords fought for control. |
-| humiliated | 受辱 | The army was humiliated. |
-| under the thumb of | 在……掌控下 | Under the thumb of a tyrant. |
-| buffer against | 缓冲 | A buffer against invasion. |
-| war of attrition | 消耗战 | The war became one of attrition. |
-| impoverished | 穷困的 | Impoverished communities. |
-| incubating | 孵化、孕育 | Incubating resentment. |
-| starved of | 缺乏 | Starved of resources. |
-| the bowels of | ……的深处 | The bowels of the Kremlin. |
-| permanent war | 持久战争 | A permanent war economy. |
-| enigmatic | 讳莫如深 | He remained enigmatic. |
-| self-serving | 利己的 | A self-serving explanation. |
-| resist the temptation | 抵制诱惑 | Resist the temptation to quit. |
-| calls on ... to grant | 呼吁给予 | Called on them to grant asylum. |
-| non-interference | 不干涉 | Demanded non-interference. |
-| elusive | 难以捉摸的 | The answer remained elusive. |
-| resorting to | 诉诸 | Resorted to force. |
-| coercion | 强制 | Persuasion, not coercion. |
-| relinquish | 放弃 | Refused to relinquish control. |
-| devolve power | 下放权力 | Devolved power to regions. |
-| securocrats | 安全官僚 | The securocrats dominate. |
-| top dogs | 头号人物 | The top dogs in government. |
-| banished | 驱逐 | Banished from politics. |
-| in a bind | 两难 | We're in a bind. |
-| grinding on | 痛苦地持续 | The conflict grinds on. |
-| precedent | 先例 | A dangerous precedent. |
-| doomed ... to | 注定 | Doomed to repeat history. |
-| uprising | 起义 | The uprising was crushed. |
-| toppled | 被推翻 | The ruler was toppled. |
-| reforms that last | 持久的改革 | We need reforms that last. |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| futile | 徒劳的 |  |
-| the war economy | 战争经济 |  |
-| oligarchs | 寡头 |  |
-| descend into | 滑入 |  |
-| issued a warning | 发出警告 |  |
-| champion of | ……的捍卫者 |  |
-| pragmatist | 实用主义者 |  |
-| outlook | 前景 |  |
-| annexation | 吞并 |  |
-| drone strikes | 无人机袭击 |  |
-| forced military enlistment | 强制征兵 |  |
-| reassert | 重申 |  |
-| escalate | 升级 |  |
-| tactical nuclear weapon | 战术核武器 |  |
-| terrorise | 恐吓 |  |
-| mobilisation | 动员 |  |
-| thesis | 论点 |  |
-| annexation | 吞并 |  |
-| raw materials | 原材料 |  |
-| periphery | 边缘 |  |
-| dependant | 依附者 |  |
-| nationalism | 民族主义 |  |
-| fortress | 要塞 |  |
-| technocrats | 技术官僚 |  |
-| dictatorial | 专制的 |  |
-| civil liberties | 公民自由 |  |
-| legislative assembly | 立法议会 |  |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| fertiliser king | 化肥大王 |  |
-| anti-Putin opposition | 反普京反对派 |  |
-| Melnichenko | 梅尔尼琴科 |  |
-| securocrats | 安全官僚 |  |
-| October Manifesto | 十月宣言 |  |
-| Nicholas II | 尼古拉二世 |  |
-
-
-
-## 精读结束总结
-
-### 1. 本文核心表达
-
-1. `When enough Russians feel ... will be forced to` — 临界点规律
-2. `it pays to watch` — 值得关注
-3. `Far from criticising ... , he is an insider` — 反转设定
-4. `Nor is he being high-minded` — 排除道德动机
-5. `make money, but keep your nose out of politics` — 潜规则
-6. `can no longer afford to ignore the rot` — 腐坏不可无视
-7. `not because ... or because ... Instead, ...` — 先排除再立论
-8. `wars gone wrong have led to campaigns by industrialists` — 历史规律
-9. `go far beyond the war` — 超出战争
-10. `would amount to an end to one-man rule` — 实质等于
-11. `the war has come home to Russia` — 战争回家
-12. `belies Mr Putin's repeated promises` — 现实揭穿承诺
-13. `not about to collapse ... not about to rise up` — 审慎否定
-14. `reached a dead end` — 死胡同
-15. `At his darkest, ... fears the use of a tactical nuclear weapon` — 最坏恐惧
-16. `Left unsaid is that ... leading to the next round` — 恶性循环
-17. `collapse into anarchy / under the thumb of / turn inward` — 三种前景
-18. `starved of growth and capital` — 缺乏增长与资本
-19. `calls on them to grant Russia "sovereignty"` — 主权话术
-20. `But he does not talk about democracy` — 回避民主
-21. `reforms that last` — 持久的改革
-
-### 2. 重要语法
-
-- **WHEN 条件 + 双宾语从句**：`feel the fighting is futile and that they are paying the price`
-- **完成分词表时间先后**：`Having run his companies outside Russia, he returned ...`
-- **Nor + 倒装**：`Nor is he being high-minded.`
-- **not because ... or because ... Instead**：排除-立论结构
-- **It is the first time + 完成时**：`It is the first time an oligarch has spoken out`
-- **What 主语从句 + that 表语从句**：`What makes ... striking is that ...`
-- **分号对比句**：`The annexation boosted popularity; today ... is being isolated`
-- **be about to**：`not about to collapse`
-- **完全倒装**：`Left unsaid is that ...`
-- **非限制性定语从句（all of which / which could use it）**：多处长句
-- **插入语保持转述距离**：`he says` / `they said` / `he predicts`
-- **过去完成时表先时**：`had crushed the reforms`
-
-### 3. 写作技巧
-
-1. **"最不可能的声音"叙事结构**：全篇反复强调梅尔尼琴科"不是反对派、反而支持战争经济、也不是道德标榜"——三重排除把"内部人发声"的分量推到极致，这是典型的"身份反转"叙事
-2. **先揭私心再转述**：`Self-servingly, he urges Western countries to ...` —— 作者先点破他的利己动机再引其话，这种"先揭短"让整篇转述更可信、更中立
-3. **历史映射法**：1905 年日俄战争 → 实业家迫使沙皇接受《十月宣言》→ 改革被镇压 → 沙皇被推翻——用历史先例给"改革可能/必须持久"提供论据，同时暗示"镇压改革没有好下场"
-4. **"没说出口的"揭示**：`Left unsaid is that ...`（恶性循环）、`Implicitly, he wants ...`（等于终结一人统治）、`But he does not talk about democracy`（回避民主）——作者反复替说话人"补齐弦外之音"，这是社论分析最有穿透力的手法
-5. **三种前景的枚举结构**：崩溃/附庸/闭关（collapse into anarchy / under the thumb / turn inward）——用"情景推演"（scenarios）框架把抽象危机具象化
-6. **审慎的平衡措辞**：`may well`、`not about to collapse`、`though Western analysts still discount that`、`Perhaps, though`——通篇用限定词管理确定性，不制造恐慌也不轻视危机
-7. **短句重音**：`Impossible, says ASML.` 式的手法在本篇体现为 `Reform has a precedent.` / `But he does not talk about democracy.` / `But he is in a bind.` ——在长段落后用 4-6 词短句制造冲击
-8. **"正常"的反讽**：`If Russia becomes a more normal country` ——"正常国家"在俄罗斯语境里的奢侈性，暗含对现状的批判
-
-### 5. 可迁移表达
-
-| 表达 | 适用场景 | 例句 |
-| --- | --- | --- |
-| `it pays to do` | 建议/分析 | It pays to invest early. |
-| `break the deadlock` | 谈判/政策 | Diplomacy broke the deadlock. |
-| `can no longer afford to ignore` | 紧迫性论证 | We can no longer afford to ignore the signs. |
-| `far from doing, ...` | 反转论证 | Far from helping, it made things worse. |
-| `the rot in` | 批评制度腐坏 | The rot in the system is deep. |
-| `descend into` | 描述恶化 | The debate descended into chaos. |
-| `speak out against` | 表达勇气 | Employees spoke out against the policy. |
-| `resonate with` | 影响分析 | The message resonated with voters. |
-| `a bleak outlook for` | 前景分析 | A bleak outlook for the industry. |
-| `would amount to` | 实质判断 | That would amount to a veto. |
-| `come home to` | 后果波及 | The crisis has come home to consumers. |
-| `belie` | 揭示矛盾 | The data belies the optimism. |
-| `reach a dead end` | 描述僵局 | Negotiations reached a dead end. |
-| `at its darkest` | 最坏情形 | At its darkest, the plan seemed doomed. |
-| `set out a thesis` | 学术/分析 | She sets out her thesis in chapter two. |
-| `a war of attrition` | 长期竞争 | The market war became one of attrition. |
-| `starved of` | 资源匮乏 | The unit is starved of funding. |
-| `resist the temptation to` | 自我克制建议 | Resist the temptation to overreact. |
-| `resort to` | 迫不得已手段 | Never resort to threats. |
-| `relinquish control` | 权力交接 | He refused to relinquish control. |
-| `in a bind` | 困境描述 | The company is in a bind. |
-| `reforms that last` | 变革建议 | We need reforms that last. |
+---
 
 ## 文本概览
 
@@ -1098,3 +916,266 @@
 **段落逻辑：** 先例存在（56）→ 1905 战败（57）→ 归咎专制（58-59）→ 迫使沙皇让步（60）→ 但改革被镇压/沙皇被推翻（61）→ 教训：改革要持久（62）。
 
 ---
+
+## 长难句专项
+
+### 🔍 原句 1（WHEN 条件 + 双宾语从句 + 被动主句）
+
+> **原句:** WHEN ENOUGH Russians feel the endless fighting in Ukraine is futile and that they are paying the price, their president, Vladimir Putin, will be forced to do something spectacular to break the deadlock.
+
+**① 找主干：** their president ... will be forced to do something spectacular
+**② 找修饰：** WHEN ENOUGH Russians feel ...（条件状语从句）；Vladimir Putin（同位语）；to break the deadlock（不定式目的）
+**③ 找从句：** WHEN ... feel [the fighting is futile] and [that they are paying the price]（时间状语从句内含两个宾语从句，第二句保留 that）
+**④ 恢复逻辑：** 当足够多俄罗斯人觉得战争无意义、自己付代价时，普京将被迫出惊人之举破局。
+**⑤ 整体理解：** 条件从句先行（WHEN ... feel ... and that ...）+ 主句被动（will be forced）；注意 feel 后第一宾语从句省略 that、第二保留 that（并列 that 不可省）；ENOUGH 大写强调临界点。
+
+### 🔍 原句 10（because 原因链 + 多层定语从句）
+
+> **原句:** He is talking now because he and his fellow tycoons can no longer afford to ignore the rot in a country they watched descend into tyranny.
+
+**① 找主干：** He is talking now
+**② 找修饰：** because 原因从句（can no longer afford to ignore the rot）；in a country（地点）；they watched descend into tyranny（省略 that 的定语从句）
+**③ 找从句：** because ...（原因）；in a country [they watched descend ...]（定语从句）
+**④ 恢复逻辑：** 他现在开口，因为他和寡头们再也承受不起无视一个他们眼看滑向专制的国家的腐坏。
+**⑤ 整体理解：** 主干很短（He is talking now），原因从句层层嵌套（because ... afford to ignore the rot in a country [they watched descend into tyranny]）；`watched + 宾语 + 省略 to 的不定式`（watched [it] descend）。
+
+### 🔍 原句 19（What 主语从句 + that 表语从句）
+
+> **原句:** What makes Mr Melnichenko's intervention so striking is that the Ukraine war has come home to Russia.
+
+**① 找主干：** What makes ... so striking is that ...
+**② 找修饰：** Mr Melnichenko's intervention（makes 的宾语）；so striking（宾补）
+**③ 找从句：** What makes ...（主语从句）；that the Ukraine war has come home to Russia（表语从句）
+**④ 恢复逻辑：** 使梅尔尼琴科介入如此引人注目的事实是：乌克兰战争回到了俄罗斯。
+**⑤ 整体理解：** "What A makes so striking is that B" 是"主题-判断"经典句式；`has come home to` 双关（战争打到国内+后果追上门）。
+
+### 🔍 原句 25（Although 让步 + 双 not about to + 主句）
+
+> **原句:** Although the Russian economy is not about to collapse and people are not about to rise up, Russians increasingly feel that their country has reached a dead end.
+
+**① 找主干：** Russians increasingly feel that ...
+**② 找修饰：** Although 让步从句（economy not about to collapse and people not about to rise up，两个并列）
+**③ 找从句：** Although ...（让步）；that their country has reached a dead end（宾语从句）
+**④ 恢复逻辑：** 尽管经济不会马上崩溃、人民不会马上造反，但俄罗斯人越来越觉得国家到了死胡同。
+**⑤ 整体理解：** 让步从句否定两个极端（collapse/rise up），主句给出真实中间态（feel reached a dead end）；`not about to` 表"即将（不）会"。
+
+### 🔍 原句 30（倒装 + that 表语从句 + if 条件嵌套）
+
+> **原句:** Left unsaid is that, if ordinary Russians become alarmed by the war and more resentful because of a broad mobilisation and political repression, that will only exacerbate Mr Putin's problems at home—leading to the next round of escalation.
+
+**① 找主干：** Left unsaid is that ...
+**② 找修饰：** that 表语从句内含 if 条件从句 + 破折号后的分词结果（leading to ...）
+**③ 找从句：** that ...（表语从句，主语后置）；if ordinary Russians become ...（条件从句）
+**④ 恢复逻辑：** 没说出口的是：如果俄人因战争惊慌、因动员与镇压而怨恨，那只会加剧普京国内问题，导致下一轮升级。
+**⑤ 整体理解：** 完全倒装（Left unsaid is that ...）；表语从句内部再嵌 if 条件 + 主句（that will only exacerbate ...）+ 分词结果（leading to ...），三层嵌套。
+
+### 🔍 原句 45（call on + 破折号同位语 + 定语从句）
+
+> **原句:** To this end, he calls on them to grant Russia "sovereignty"—an immunity that sounds a lot like China's demand for non-interference.
+
+**① 找主干：** he calls on them to grant Russia "sovereignty"
+**② 找修饰：** To this end（目的状语）；破折号后的同位语 an immunity（解释"主权"的本质）；that 定语从句（说明其相似性）
+**③ 找从句：** that sounds a lot like ...（定语从句）
+**④ 恢复逻辑：** 为此他呼吁西方"授予俄罗斯主权"——一种听起来很像中国不干涉主张的豁免权。
+**⑤ 整体理解：** call on sb to do + 双宾语（grant Russia "sovereignty"）；破折号引出作者点评（an immunity that ...）——把"主权"话术与"不干涉"并置，是作者本人的评判。
+
+### 🔍 原句 58-60（历史三段式：归咎→施压→让步）
+
+> **原句:** Industrialists and technocrats blamed the dictatorial Nicholas II. It showed, they said, that one-man rule doomed Russia to be behind the rest of Europe. That year, after an uprising, they forced the tsar to accept the October Manifesto, which proposed civil liberties and a legislative assembly.
+
+**① 找主干：** Industrialists blamed Nicholas II / It showed that ... / they forced the tsar to accept the Manifesto
+**② 找修饰：** they said（插入语）；after an uprising（时间）；which 定语从句（Manifesto 的内容）
+**③ 找从句：** that one-man rule doomed ...（宾语从句）；which proposed ...（定语从句）
+**④ 恢复逻辑：** 实业家归咎专制沙皇；他们说这证明一人统治注定落后；起义后他们迫使沙皇接受包含公民自由与议会的宣言。
+**⑤ 整体理解：** 三个短句构成完整历史因果（归咎→论证→行动）；`doomed A to be behind B`（注定落后）；`force A to do`（迫使做）。
+
+---
+
+## 精读结束总结
+
+### 1. 本文核心表达
+
+1. `When enough Russians feel ... will be forced to` — 临界点规律
+2. `it pays to watch` — 值得关注
+3. `Far from criticising ... , he is an insider` — 反转设定
+4. `Nor is he being high-minded` — 排除道德动机
+5. `make money, but keep your nose out of politics` — 潜规则
+6. `can no longer afford to ignore the rot` — 腐坏不可无视
+7. `not because ... or because ... Instead, ...` — 先排除再立论
+8. `wars gone wrong have led to campaigns by industrialists` — 历史规律
+9. `go far beyond the war` — 超出战争
+10. `would amount to an end to one-man rule` — 实质等于
+11. `the war has come home to Russia` — 战争回家
+12. `belies Mr Putin's repeated promises` — 现实揭穿承诺
+13. `not about to collapse ... not about to rise up` — 审慎否定
+14. `reached a dead end` — 死胡同
+15. `At his darkest, ... fears the use of a tactical nuclear weapon` — 最坏恐惧
+16. `Left unsaid is that ... leading to the next round` — 恶性循环
+17. `collapse into anarchy / under the thumb of / turn inward` — 三种前景
+18. `starved of growth and capital` — 缺乏增长与资本
+19. `calls on them to grant Russia "sovereignty"` — 主权话术
+20. `But he does not talk about democracy` — 回避民主
+21. `reforms that last` — 持久的改革
+
+### 2. 重要语法
+
+- **WHEN 条件 + 双宾语从句**：`feel the fighting is futile and that they are paying the price`
+- **完成分词表时间先后**：`Having run his companies outside Russia, he returned ...`
+- **Nor + 倒装**：`Nor is he being high-minded.`
+- **not because ... or because ... Instead**：排除-立论结构
+- **It is the first time + 完成时**：`It is the first time an oligarch has spoken out`
+- **What 主语从句 + that 表语从句**：`What makes ... striking is that ...`
+- **分号对比句**：`The annexation boosted popularity; today ... is being isolated`
+- **be about to**：`not about to collapse`
+- **完全倒装**：`Left unsaid is that ...`
+- **非限制性定语从句（all of which / which could use it）**：多处长句
+- **插入语保持转述距离**：`he says` / `they said` / `he predicts`
+- **过去完成时表先时**：`had crushed the reforms`
+
+### 3. 写作技巧
+
+1. **"最不可能的声音"叙事结构**：全篇反复强调梅尔尼琴科"不是反对派、反而支持战争经济、也不是道德标榜"——三重排除把"内部人发声"的分量推到极致，这是典型的"身份反转"叙事
+2. **先揭私心再转述**：`Self-servingly, he urges Western countries to ...` —— 作者先点破他的利己动机再引其话，这种"先揭短"让整篇转述更可信、更中立
+3. **历史映射法**：1905 年日俄战争 → 实业家迫使沙皇接受《十月宣言》→ 改革被镇压 → 沙皇被推翻——用历史先例给"改革可能/必须持久"提供论据，同时暗示"镇压改革没有好下场"
+4. **"没说出口的"揭示**：`Left unsaid is that ...`（恶性循环）、`Implicitly, he wants ...`（等于终结一人统治）、`But he does not talk about democracy`（回避民主）——作者反复替说话人"补齐弦外之音"，这是社论分析最有穿透力的手法
+5. **三种前景的枚举结构**：崩溃/附庸/闭关（collapse into anarchy / under the thumb / turn inward）——用"情景推演"（scenarios）框架把抽象危机具象化
+6. **审慎的平衡措辞**：`may well`、`not about to collapse`、`though Western analysts still discount that`、`Perhaps, though`——通篇用限定词管理确定性，不制造恐慌也不轻视危机
+7. **短句重音**：`Impossible, says ASML.` 式的手法在本篇体现为 `Reform has a precedent.` / `But he does not talk about democracy.` / `But he is in a bind.` ——在长段落后用 4-6 词短句制造冲击
+8. **"正常"的反讽**：`If Russia becomes a more normal country` ——"正常国家"在俄罗斯语境里的奢侈性，暗含对现状的批判
+
+### 5. 可迁移表达
+
+| 表达 | 适用场景 | 例句 |
+| --- | --- | --- |
+| `it pays to do` | 建议/分析 | It pays to invest early. |
+| `break the deadlock` | 谈判/政策 | Diplomacy broke the deadlock. |
+| `can no longer afford to ignore` | 紧迫性论证 | We can no longer afford to ignore the signs. |
+| `far from doing, ...` | 反转论证 | Far from helping, it made things worse. |
+| `the rot in` | 批评制度腐坏 | The rot in the system is deep. |
+| `descend into` | 描述恶化 | The debate descended into chaos. |
+| `speak out against` | 表达勇气 | Employees spoke out against the policy. |
+| `resonate with` | 影响分析 | The message resonated with voters. |
+| `a bleak outlook for` | 前景分析 | A bleak outlook for the industry. |
+| `would amount to` | 实质判断 | That would amount to a veto. |
+| `come home to` | 后果波及 | The crisis has come home to consumers. |
+| `belie` | 揭示矛盾 | The data belies the optimism. |
+| `reach a dead end` | 描述僵局 | Negotiations reached a dead end. |
+| `at its darkest` | 最坏情形 | At its darkest, the plan seemed doomed. |
+| `set out a thesis` | 学术/分析 | She sets out her thesis in chapter two. |
+| `a war of attrition` | 长期竞争 | The market war became one of attrition. |
+| `starved of` | 资源匮乏 | The unit is starved of funding. |
+| `resist the temptation to` | 自我克制建议 | Resist the temptation to overreact. |
+| `resort to` | 迫不得已手段 | Never resort to threats. |
+| `relinquish control` | 权力交接 | He refused to relinquish control. |
+| `in a bind` | 困境描述 | The company is in a bind. |
+| `reforms that last` | 变革建议 | We need reforms that last. |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 | The protest proved futile. |
+| paying the price | 付出代价 | The public pays the price for war. |
+| break the deadlock | 打破僵局 | Talks to break the deadlock. |
+| it pays to do | 值得做 | It pays to be prepared. |
+| stunning | 令人震惊的 | A stunning victory. |
+| insider | 圈内人 | He was an insider in the regime. |
+| high-minded | 道德高尚的 | High-minded but impractical. |
+| lived by | 遵循……生活 | He lives by a strict code. |
+| keep your nose out of | 别插手 | Keep your nose out of my affairs. |
+| tycoons | 大亨 | Media tycoons. |
+| afford to ignore | 承受得起无视 | We can't afford to ignore it. |
+| descend into | 滑入 | The country descended into civil war. |
+| tyranny | 专制 | Rule by tyranny. |
+| guardedly | 谨慎地 | He answered guardedly. |
+| speak out | 公开发声 | She spoke out against the law. |
+| resonate | 产生共鸣 | The message resonated widely. |
+| bleak | 黯淡的 | Bleak prospects. |
+| autarky | 闭关自守 | Self-sufficient autarky. |
+| sullen | 阴沉的 | A sullen crowd. |
+| amount to | 等于 | His demands amount to a veto. |
+| one-man rule | 一人统治 | A system of one-man rule. |
+| witness | 见证 | The city is witnessing growth. |
+| resentment | 怨恨 | The policy bred resentment. |
+| go viral | 疯传 | The clip went viral. |
+| belie | 与……矛盾 | His calm belies his anxiety. |
+| at hand | 即将到来 | Victory is at hand. |
+| dead end | 死胡同 | The talks hit a dead end. |
+| reassert authority | 重申权威 | Reasserted his authority. |
+| exacerbate | 加剧 | The move exacerbated the crisis. |
+| discount | 不采信 | Analysts discount the threat. |
+| gloomy | 阴郁的 | A gloomy forecast. |
+| scenarios | 情景 | Worst-case scenarios. |
+| collapse into anarchy | 陷入无政府 | The state collapsed into anarchy. |
+| warlords | 军阀 | Warlords fought for control. |
+| humiliated | 受辱 | The army was humiliated. |
+| under the thumb of | 在……掌控下 | Under the thumb of a tyrant. |
+| buffer against | 缓冲 | A buffer against invasion. |
+| war of attrition | 消耗战 | The war became one of attrition. |
+| impoverished | 穷困的 | Impoverished communities. |
+| incubating | 孵化、孕育 | Incubating resentment. |
+| starved of | 缺乏 | Starved of resources. |
+| the bowels of | ……的深处 | The bowels of the Kremlin. |
+| permanent war | 持久战争 | A permanent war economy. |
+| enigmatic | 讳莫如深 | He remained enigmatic. |
+| self-serving | 利己的 | A self-serving explanation. |
+| resist the temptation | 抵制诱惑 | Resist the temptation to quit. |
+| calls on ... to grant | 呼吁给予 | Called on them to grant asylum. |
+| non-interference | 不干涉 | Demanded non-interference. |
+| elusive | 难以捉摸的 | The answer remained elusive. |
+| resorting to | 诉诸 | Resorted to force. |
+| coercion | 强制 | Persuasion, not coercion. |
+| relinquish | 放弃 | Refused to relinquish control. |
+| devolve power | 下放权力 | Devolved power to regions. |
+| securocrats | 安全官僚 | The securocrats dominate. |
+| top dogs | 头号人物 | The top dogs in government. |
+| banished | 驱逐 | Banished from politics. |
+| in a bind | 两难 | We're in a bind. |
+| grinding on | 痛苦地持续 | The conflict grinds on. |
+| precedent | 先例 | A dangerous precedent. |
+| doomed ... to | 注定 | Doomed to repeat history. |
+| uprising | 起义 | The uprising was crushed. |
+| toppled | 被推翻 | The ruler was toppled. |
+| reforms that last | 持久的改革 | We need reforms that last. |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| futile | 徒劳的 |  |
+| the war economy | 战争经济 |  |
+| oligarchs | 寡头 |  |
+| descend into | 滑入 |  |
+| issued a warning | 发出警告 |  |
+| champion of | ……的捍卫者 |  |
+| pragmatist | 实用主义者 |  |
+| outlook | 前景 |  |
+| annexation | 吞并 |  |
+| drone strikes | 无人机袭击 |  |
+| forced military enlistment | 强制征兵 |  |
+| reassert | 重申 |  |
+| escalate | 升级 |  |
+| tactical nuclear weapon | 战术核武器 |  |
+| terrorise | 恐吓 |  |
+| mobilisation | 动员 |  |
+| thesis | 论点 |  |
+| annexation | 吞并 |  |
+| raw materials | 原材料 |  |
+| periphery | 边缘 |  |
+| dependant | 依附者 |  |
+| nationalism | 民族主义 |  |
+| fortress | 要塞 |  |
+| technocrats | 技术官僚 |  |
+| dictatorial | 专制的 |  |
+| civil liberties | 公民自由 |  |
+| legislative assembly | 立法议会 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fertiliser king | 化肥大王 |  |
+| anti-Putin opposition | 反普京反对派 |  |
+| Melnichenko | 梅尔尼琴科 |  |
+| securocrats | 安全官僚 |  |
+| October Manifesto | 十月宣言 |  |
+| Nicholas II | 尼古拉二世 |  |
+

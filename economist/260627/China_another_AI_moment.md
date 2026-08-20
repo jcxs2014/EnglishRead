@@ -19,7 +19,7 @@
 
 ## 二、逐句精读
 
-### 第 1 段：（开篇：回顾 DeepSeek 时刻）
+### Paragraph 1（开篇：回顾 DeepSeek 时刻）
 
 **S1** America's lead over China in artificial intelligence may be at its smallest in over a year.
 - **中文理解**：美国在人工智能领域对中国的领先优势，可能正处于一年多以来的最小值。
@@ -58,7 +58,7 @@
 - **词汇**：hinge on（取决于、维系于——比 depend on 书面，画面感是"门靠铰链转动"）；valuations（估值）；revolutionary and profitable（革命性与盈利性并举）。
 - **为什么这样写**：把时间线拉回"现在"，解释为什么市场这次对 GLM 5.2 反应冷淡（与 S26 形成对照）——市场已把全部赌注押在"AI 既革命又赚钱"的叙事上。同时 both...and... 的对举为下文"能力 vs 成本 vs 效率"的多维度拆解做总纲。
 
-### 第 2 段：（新事件：智谱发布 GLM 5.2）
+### Paragraph 2（新事件：智谱发布 GLM 5.2）
 
 **S7** Now Chinese labs are unsettling their American rivals anew in the race to monopolise the market for models.
 - **中文理解**：如今，在争夺模型市场垄断地位的竞赛中，中国实验室再次让美国对手感到不安。
@@ -97,7 +97,7 @@
 - **词汇**：offering（产品/供给物——商业语境表"推出的产品"，比 product 正式）；compelling（引人注目/令人信服）；timely（恰逢其时的）。
 - **为什么这样写**：段末总结句。compelling（产品本身好）+ timely（时机好，呼应下文美国禁令），一句收束全段，自然过渡到下一段"美国正陷入困境"。
 
-### 第 3 段：（美国侧困境：成本失控 + 政府禁令）
+### Paragraph 3（美国侧困境：成本失控 + 政府禁令）
 
 **S13** In recent weeks American companies have been grappling with soaring ai costs, sometimes ranging into the thousands of dollars per employee.
 - **中文理解**：近几周，美国公司一直在应对飙升的 AI 成本，有时达到每名员工数千美元。
@@ -136,7 +136,7 @@
 - **词汇**：find sth + adj.（发现某物……——宾语补足语结构）；affordable（负担得起的）；out of one's reach（够不着、不受……掌控）。
 - **为什么这样写**：点出中国模型的市场机会窗口：能力 + 价格 + 不受管制，三个卖点正好对应 S11 的框架。reach 与 S16 的 say-so 呼应——"谁的权力范围"是这一段的关键词。
 
-### 第 4 段：（能力维度：榜单与名人效应）
+### Paragraph 4（能力维度：榜单与名人效应）
 
 **S19** Start with capability.
 - **中文理解**：先从能力说起。
@@ -181,7 +181,7 @@
 - **词汇**：shot back（回击、抢白——比 replied 更有火药味）。
 - **为什么这样写**：以一句充满自信的直接引语结束"能力"段落，制造戏剧张力。引用语动词 shot back 让文章有了"对谈感"，也呼应标题——自信满满的中国 AI。
 
-### 第 5 段：（Weighty calculations：市场反应与基准测试）
+### Paragraph 5（Weighty calculations：市场反应与基准测试）
 
 **S26** Unlike in the DeepSeek moment, American markets have so far shown little interest in glm 5.2.
 - **中文理解**：与"DeepSeek 时刻"不同，美国市场迄今对 GLM 5.2 兴趣寥寥。
@@ -227,7 +227,7 @@
 - **词汇**：comparable（可比的、相当的——comparable to 固定搭配）。
 - **为什么这样写**：用一个简洁的"时间换算"（2 月发布 ≈ 四个月前）得出初步结论：中国落后约四个月。注意这是"乐观口径"，下一段立即修正。
 
-### 第 6 段：（真实差距：公开基准 vs 私有基准）
+### Paragraph 6（真实差距：公开基准 vs 私有基准）
 
 **S33** In reality, America's lead is probably bigger than four months.
 - **中文理解**：实际上，美国的领先优势可能远不止四个月。
@@ -272,7 +272,7 @@
 - **词汇**：appear to（似乎——表不确定）；unwittingly（无意中——书面副词）；teach to the test（应试教学——教育领域习语，此处比喻针对公开测试优化模型）。
 - **为什么这样写**：teach to the test 是全文最精彩的比喻之一——把教育批评的术语用到 AI 训练上，暗示中国模型的公开成绩"注水"。possibly unwittingly 又为这个判断留了情面，避免武断。
 
-### 第 7 段：（Model students：私有基准的验证）
+### Paragraph 7（Model students：私有基准的验证）
 
 **S40** On two private benchmarks tested so far, glm 5.2 shows the same hallmarks: it is about seven months behind on Weirdml, a measure of unusual machine-learning tasks that need careful reasoning to solve, and fully a year behind on SimpleBench, which evaluates common sense by trying to trick models.
 - **中文理解**：在迄今测试过的两项私有基准上，GLM 5.2 表现出同样的特征：在 Weirdml（一项衡量需要仔细推理才能解决的非同寻常机器学习任务的指标）上落后约七个月；在 SimpleBench（一项通过试图迷惑模型来评估常识的基准）上落后整整一年。
@@ -313,7 +313,7 @@
 - **表达**：as some had expected it would 是省略式比较状语从句（完整形式 as some had expected it would widen），高级语法点。
 - **为什么这样写**：段末辩证结论——"稳"与"未扩大"是两个不同判断，用 suggest...but are also evidence 的对称结构把两者并置，展示有分寸的分析态度。
 
-### 第 8 段：（能力的结构性解释：算力短板与后训练）
+### Paragraph 8（能力的结构性解释：算力短板与后训练）
 
 **S46** What is especially surprising about glm 5.2 is that it succeeds in tasks that tend to trip up its peers.
 - **中文理解**：GLM 5.2 尤其令人意外之处在于，它擅长完成那些常常难倒同行的任务。
@@ -354,7 +354,7 @@
 - **表达**：冒号 + 动名词的解释结构（post-training: fine-tuning...）是书面英语"术语 + 展开解释"的常见手法。allegedly 一词既是新闻避险（不直接指控），也暗示争议性。
 - **为什么这样写**：完整解释中国模型的追赶策略：算力不够 → 把功夫下在"后训练"上；并埋下争议点（数据来源）。全文技术含量最高的一句。
 
-### 第 9 段：（成本维度：单价便宜 ≠ 真的便宜）
+### Paragraph 9（成本维度：单价便宜 ≠ 真的便宜）
 
 **S52** Given the uncertainties surrounding the true capabilities of Chinese models, next consider whether they are truly cheaper than their American rivals.
 - **中文理解**：鉴于中国模型真实能力存在诸多不确定性，接下来考虑一下：它们真的比美国对手便宜吗？
@@ -396,7 +396,7 @@
 - **表达**：Yet + 最高级限定（most important assumption）+ 同位语从句，构成"转折 + 点破"的段末句型。
 - **为什么这样写**：段末急转——前面铺垫了那么多"便宜的证据"，最后一句告诉你这个假设可能不成立。为下一段"效率"分析埋钩子。
 
-### 第 10 段：（效率维度：总成本才是真相）
+### Paragraph 10（效率维度：总成本才是真相）
 
 **S58** Though Chinese models are becoming more capable, they are generally not becoming more efficient.
 - **中文理解**：虽然中国模型的能力在提升，但总体而言它们的效率并没有提高。
@@ -432,7 +432,7 @@
 - **表达**：end up + 现在分词（end up costing）表"最终结果"，常带出乎意料意味。
 - **为什么这样写**：把 S61 的原则落到具体例子上——按总成本算，GLM 5.2 反而更贵。彻底翻转"中国 AI 便宜"的直觉，是全文最有力的一击。
 
-### 第 11 段：（可靠性维度：开放性作为卖点）
+### Paragraph 11（可靠性维度：开放性作为卖点）
 
 **S63** In addition to capability and cost, a third selling-point is now top of mind for ai users: reliability.
 - **中文理解**：除了能力和成本，第三个卖点如今在 AI 用户心中占据首位：可靠性。
@@ -468,7 +468,7 @@
 - **表达**：as 在此表"因为"，引导原因从句，是书面英语中 because 的委婉替身。
 - **为什么这样写**：段末总结"禁令如何变成中国模型的营销助力"。could 表可能性而非断言，分寸得当。
 
-### 第 12 段：（双向风险：开放的另一面）
+### Paragraph 12（双向风险：开放的另一面）
 
 **S68** Most Chinese models are released open-source, meaning they can be downloaded and run on local hardware, out of reach of governments or the labs themselves.
 - **中文理解**：大多数中国模型以开源方式发布，这意味着它们可以被下载并运行在本地硬件上，不受政府或实验室本身的掌控。
@@ -496,7 +496,7 @@
 - **表达**：or slow 中 slow 作动词（变慢），与 run into service interruptions 并列。
 - **为什么这样写**：把镜头拉回中国一侧——开放性红利也伴随服务不稳定的现实短板。全文保持"两面都写"的平衡。
 
-### 第 13 段：（结论：监管差距 = 落后的证据）
+### Paragraph 13（结论：监管差距 = 落后的证据）
 
 **S72** As the ai race speeds up, regulators everywhere will be faced with new challenges to safety and security.
 - **中文理解**：随着 AI 竞赛加速，各地的监管者都将面临新的安全与安保挑战。

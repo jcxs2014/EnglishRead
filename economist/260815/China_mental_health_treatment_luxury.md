@@ -2,91 +2,6 @@
 状态: 未读
 ---
 
-
-## 词汇分级
-
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| nascent | 新兴的/初生的 | 原句 6 |
-| unregulated | 不受监管的 | 原句 6 |
-| sparse data | 稀疏数据 | 原句 9 |
-| underestimate | 低估 | 原句 9 |
-| prevail | 盛行/普遍存在 | 原句 11 |
-| acknowledge | 承认 | 原句 11 |
-| a spate of | 一系列（坏事） | 原句 25 |
-| perceived unfairness | 感受到的不公正 | 原句 26 |
-| mania for | 对……的狂热 | 原句 27 |
-| free-for-all | 混战/大乱斗 | 原句 34 |
-| malpractice | 不当行为/玩忽职守 | 原句 35 |
-| abound | 大量存在 | 原句 35 |
-| expends energy | 投入精力 | 原句 37 |
-| chip away against | 逐渐打破 | 原句 43 |
-| entails | 需要/牵涉 | 原句 45 |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| counselling sessions | 咨询疗程 | 原句 1 |
-| overthinking | 过度思考 | 原句 2 |
-| prevalence | 患病率 | 原句 7, 8 |
-| social stigma | 社会污名 | 原句 11 |
-| turning-point | 转折点 | 原句 12 |
-| spikes | 激增 | 原句 13 |
-| out of bounds | 禁止进入 | 原句 15 |
-| crisis intervention | 危机干预 | 原句 20 |
-| remedial class | 补习课 | 原句 44 |
-| the better-off | 富裕阶层 | 原句 48 |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| struggle with | 与……作斗争 | 原句 3 |
-| seek help | 寻求帮助 | 原句 5 |
-| seek counselling | 寻求咨询 | 原句 14 |
-| take advantage of | 利用 | 原句 18 |
-| step up | 加强 | 原句 27 |
-| point to | 指出 | 原句 29 |
-| remain | 仍然 | 原句 5, 30, 48 |
-
-| after allowing for | 考虑到/把……考虑在内 | 统计分析、学术写作 |
-| sparse data | 稀疏数据 | 学术写作、数据质量讨论 |
-| marked a turning-point | 标志着转折点 | 历史事件分析 |
-| jumps straight to | 直接跳到 | 描述跳跃式发展 |
-| out of bounds | 禁止进入 | 规则、限制描述 |
-| take advantage of | 利用 | 中性表达，描述资源利用 |
-| a spate of | 一系列（坏事） | 新闻报道、负面事件 |
-| perceived unfairness | 感受到的不公正 | 社会心理分析 |
-| with its mania for | 以其对……的热衷 | 带讽刺的描述 |
-| a free-for-all | 混战/大乱斗 | 描述混乱的市场/环境 |
-| fraud and malpractice | 欺诈和不当行为 | 法律、监管语境 |
-| chip away against | 逐渐打破/侵蚀 | 描述渐进式改变 |
-| what it entails | 它意味着什么/需要什么 | 解释复杂概念 |
-| the better-off | 富裕阶层 | 经济分层描述 |
-| for now | 目前 | 谨慎限定、展望未来 |
-
-
-## 精读结束总结
-
-### 文章核心论点
-中国的心理健康治疗仍然是少数人才能负担的"奢侈品"。尽管疫情后公众认知有所提升、政府也制定了2030年目标，但专业人才短缺、费用高昂、监管缺失和社会污名化等系统性问题依然存在。
-
-### 写作特色
-1. **"倒金字塔"结构**：从个体案例切入，逐步扩展到宏观数据、政策分析、社会文化
-2. **数据驱动**：大量引用 Lancet 研究数据，增强说服力
-3. **多角度审视**：既展示积极趋势（认知提升），也揭示深层问题（维稳动机、经济障碍）
-4. **讽刺性评论**：如 "mania for lists and slogans"、AI 聊天机器人的对比
-5. **首尾呼应**：标题 "luxury" 在结尾句重现
-
-
-
-
-## 可迁移表达
-
-| 表达 | 释义 | 使用场景 |
-|------|------|----------|
-| take mental health less seriously | 不太重视心理健康 | 讨论代际差异、文化偏见 |
-| a surge in | 某事物激增 | 数据描述、趋势分析 |
 # In China, treatment for mental-health problems is a luxury（精读分析）
 
 ## 概览
@@ -989,3 +904,200 @@
 **段落逻辑：** 需要更多努力（意识+接纳）→ 污名化现状（神经病=骂人话）→ 年轻人在改变（chipping away）→ 但认知不足（以为一两次就好）→ 经济压力导致放弃 → 结论：治疗仍是奢侈品
 
 ---
+
+## 长难句专项
+
+### 长难句 1（原句 7）
+
+**原文：** The study, published in the Lancet, a British medical journal, offers the most comprehensive estimate to date of mental disorders' prevalence in China, with 191m cases in 2023 (equivalent to about one in seven Chinese).
+
+**结构拆解：**
+```
+主句：The study offers the most comprehensive estimate
+        ↓
+插入语1：published in the Lancet（过去分词短语，交代来源）
+        ↓
+插入语2：a British medical journal（同位语，解释 Lancet）
+        ↓
+后置定语：of mental disorders' prevalence in China（of 短语修饰 estimate）
+        ↓
+伴随状语：with 191m cases in 2023（with 复合结构）
+        ↓
+补充说明：(equivalent to about one in seven Chinese)（括号内换算）
+```
+
+**学习要点：** 多层插入语 + 伴随状语的叠加，是学术/新闻写作的典型复杂句式。核心主干其实很简单：The study offers the estimate. 其余都是修饰和补充。
+
+---
+
+### 长难句 2（原句 9）
+
+**原文：** Because these are modelled estimates, based on sometimes sparse data and diagnoses, these figures are likely to be an underestimate of the true picture.
+
+**结构拆解：**
+```
+原因状语从句：Because these are modelled estimates
+                ↓
+过去分词短语（修饰 estimates）：based on sometimes sparse data and diagnoses
+                ↓
+主句：these figures are likely to be an underestimate of the true picture
+```
+
+**学习要点：** "based on sometimes sparse data" 中 sometimes 修饰 sparse，意为"有时稀疏的"——数据不是一直稀疏，而是部分数据稀疏。这种模糊限定（hedging）是学术写作的特征。
+
+---
+
+### 长难句 3（原句 27）
+
+**原文：** The Communist Party, with its mania for lists and slogans, stepped up the monitoring of "four-lack and five-loss" individuals, ie, those with no spouse, children, job or assets; or suffering from investment failures, life setbacks, relationship conflicts, emotional imbalance or mental disorders.
+
+**结构拆解：**
+```
+主语：The Communist Party
+        ↓
+插入语：with its mania for lists and slogans（介词短语，讽刺性评论）
+        ↓
+谓语：stepped up
+        ↓
+宾语：the monitoring of "four-lack and five-loss" individuals
+        ↓
+解释说明：ie, those with no spouse, children, job or assets
+        ↓
+            or suffering from investment failures, life setbacks,
+              relationship conflicts, emotional imbalance or mental disorders
+```
+
+**学习要点：** "four-lack and five-loss" 是中国特色政治术语的直译，ie 后面用两个并列结构（with no ... ; or suffering from ...）详细解释。注意分号的使用——分号在此连接两个大的并列项。
+
+---
+
+### 长难句 4（原句 26）
+
+**原文：** Experts described the attacks as revenge on society, committed by men angry about their financial situation or perceived unfairness towards them.
+
+**结构拆解：**
+```
+主句：Experts described the attacks as revenge on society
+        ↓
+过去分词短语（修饰 attacks）：committed by men
+        ↓
+形容词短语（后置定语修饰 men）：angry about their financial situation or perceived unfairness towards them
+```
+
+**学习要点：** 三层修饰——主句 → committed by men → angry about ...。"perceived unfairness" 中 perceived 是过去分词作形容词，意为"（被他们）感受到的"，暗示不公正可能是主观的。
+
+---
+
+## 精读结束总结
+
+### 文章核心论点
+中国的心理健康治疗仍然是少数人才能负担的"奢侈品"。尽管疫情后公众认知有所提升、政府也制定了2030年目标，但专业人才短缺、费用高昂、监管缺失和社会污名化等系统性问题依然存在。
+
+### 写作特色
+1. **"倒金字塔"结构**：从个体案例切入，逐步扩展到宏观数据、政策分析、社会文化
+2. **数据驱动**：大量引用 Lancet 研究数据，增强说服力
+3. **多角度审视**：既展示积极趋势（认知提升），也揭示深层问题（维稳动机、经济障碍）
+4. **讽刺性评论**：如 "mania for lists and slogans"、AI 聊天机器人的对比
+5. **首尾呼应**：标题 "luxury" 在结尾句重现
+
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| take mental health less seriously | 不太重视心理健康 | 讨论代际差异、文化偏见 |
+| a surge in | 某事物激增 | 数据描述、趋势分析 |
+| after allowing for | 考虑到/把……考虑在内 | 统计分析、学术写作 |
+| sparse data | 稀疏数据 | 学术写作、数据质量讨论 |
+| marked a turning-point | 标志着转折点 | 历史事件分析 |
+| jumps straight to | 直接跳到 | 描述跳跃式发展 |
+| out of bounds | 禁止进入 | 规则、限制描述 |
+| take advantage of | 利用 | 中性表达，描述资源利用 |
+| a spate of | 一系列（坏事） | 新闻报道、负面事件 |
+| perceived unfairness | 感受到的不公正 | 社会心理分析 |
+| with its mania for | 以其对……的热衷 | 带讽刺的描述 |
+| a free-for-all | 混战/大乱斗 | 描述混乱的市场/环境 |
+| fraud and malpractice | 欺诈和不当行为 | 法律、监管语境 |
+| chip away against | 逐渐打破/侵蚀 | 描述渐进式改变 |
+| what it entails | 它意味着什么/需要什么 | 解释复杂概念 |
+| the better-off | 富裕阶层 | 经济分层描述 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| for now | 目前 | 谨慎限定、展望未来 |
+
+- **心理健康**：mental health, mental illness, mental disorders, mental distress, psychological support
+- **治疗**：counselling, therapy, psychotherapy, treatment, intervention
+- **污名**：stigma, reluctance to acknowledge, insult, shenjingbing
+- **监管**：regulated, unregulated, licence, codes of ethics, malpractice
+
+---
+
+## 可迁移表达
+
+| 表达 | 释义 | 使用场景 |
+|------|------|----------|
+| take mental health less seriously | 不太重视心理健康 | 讨论代际差异、文化偏见 |
+| a surge in | 某事物激增 | 数据描述、趋势分析 |
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nascent | 新兴的/初生的 | 原句 6 |
+| unregulated | 不受监管的 | 原句 6 |
+| sparse data | 稀疏数据 | 原句 9 |
+| underestimate | 低估 | 原句 9 |
+| prevail | 盛行/普遍存在 | 原句 11 |
+| acknowledge | 承认 | 原句 11 |
+| a spate of | 一系列（坏事） | 原句 25 |
+| perceived unfairness | 感受到的不公正 | 原句 26 |
+| mania for | 对……的狂热 | 原句 27 |
+| free-for-all | 混战/大乱斗 | 原句 34 |
+| malpractice | 不当行为/玩忽职守 | 原句 35 |
+| abound | 大量存在 | 原句 35 |
+| expends energy | 投入精力 | 原句 37 |
+| chip away against | 逐渐打破 | 原句 43 |
+| entails | 需要/牵涉 | 原句 45 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| counselling sessions | 咨询疗程 | 原句 1 |
+| overthinking | 过度思考 | 原句 2 |
+| prevalence | 患病率 | 原句 7, 8 |
+| social stigma | 社会污名 | 原句 11 |
+| turning-point | 转折点 | 原句 12 |
+| spikes | 激增 | 原句 13 |
+| out of bounds | 禁止进入 | 原句 15 |
+| crisis intervention | 危机干预 | 原句 20 |
+| remedial class | 补习课 | 原句 44 |
+| the better-off | 富裕阶层 | 原句 48 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| struggle with | 与……作斗争 | 原句 3 |
+| seek help | 寻求帮助 | 原句 5 |
+| seek counselling | 寻求咨询 | 原句 14 |
+| take advantage of | 利用 | 原句 18 |
+| step up | 加强 | 原句 27 |
+| point to | 指出 | 原句 29 |
+| remain | 仍然 | 原句 5, 30, 48 |
+
+| after allowing for | 考虑到/把……考虑在内 | 统计分析、学术写作 |
+| sparse data | 稀疏数据 | 学术写作、数据质量讨论 |
+| marked a turning-point | 标志着转折点 | 历史事件分析 |
+| jumps straight to | 直接跳到 | 描述跳跃式发展 |
+| out of bounds | 禁止进入 | 规则、限制描述 |
+| take advantage of | 利用 | 中性表达，描述资源利用 |
+| a spate of | 一系列（坏事） | 新闻报道、负面事件 |
+| perceived unfairness | 感受到的不公正 | 社会心理分析 |
+| with its mania for | 以其对……的热衷 | 带讽刺的描述 |
+| a free-for-all | 混战/大乱斗 | 描述混乱的市场/环境 |
+| fraud and malpractice | 欺诈和不当行为 | 法律、监管语境 |
+| chip away against | 逐渐打破/侵蚀 | 描述渐进式改变 |
+| what it entails | 它意味着什么/需要什么 | 解释复杂概念 |
+| the better-off | 富裕阶层 | 经济分层描述 |
+| for now | 目前 | 谨慎限定、展望未来 |

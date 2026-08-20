@@ -27,7 +27,7 @@
 
 ## 二、逐句精读
 
-### 第 1 段：
+### Paragraph 1
 
 **1.1 原句**
 > GULF RULERS are no strangers to disruption.
@@ -169,7 +169,7 @@ as 引导时间/原因状语从句（"随着……"），主句为 the post-war 
 
 ---
 
-### 第 2 段：
+### Paragraph 2
 
 **2.1 原句**
 > The Gulf is not only the world's most important petrol station.
@@ -263,7 +263,7 @@ not only + 名词短语。注意 `petrol station` 是比喻用法（metaphor）�
 
 ---
 
-### 第 3 段：
+### Paragraph 3
 
 **3.1 原句**
 > Iran threatens to pop it.
@@ -346,7 +346,7 @@ not only + 名词短语。注意 `petrol station` 是比喻用法（metaphor）�
 
 ---
 
-### 第 4 段：
+### Paragraph 4
 
 **4.1 原句**
 > What to do?
@@ -446,7 +446,7 @@ So + 主句：Gulf states + must learn to take more into their own hands。So �
 
 ---
 
-### 第 5 段：
+### Paragraph 5
 
 **5.1 原句**
 > Most urgent is more defence co-operation.
@@ -628,7 +628,7 @@ but 并列句，后半句省略主语：They have resisted, but (they) can no lo
 
 ---
 
-### 第 6 段：
+### Paragraph 6
 
 **6.1 原句**
 > Then there is infrastructure.
@@ -728,7 +728,7 @@ the more... the weaker... 两个分句都不需要正常语序的完整性——
 
 ---
 
-### 第 7 段：
+### Paragraph 7
 
 **7.1 原句**
 > All this is only a first step, and it requires a painful strategic shift: overcoming bitter rivalries in foreign policy, especially between the Saudis and Emiratis, who each believe they should be the regional leaders.
@@ -819,7 +819,7 @@ the more... the weaker... 两个分句都不需要正常语序的完整性——
 
 ---
 
-### 第 8 段：
+### Paragraph 8
 
 **8.1 原句**
 > Only a more unified Gulf has a chance of protecting itself from Iranian aggression, just as Europe is trying to find ways to contain threats from Russia.

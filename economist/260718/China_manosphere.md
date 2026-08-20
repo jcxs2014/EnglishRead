@@ -1,138 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| manosphere | 男性圈（网络男权社区） | ⭐⭐⭐ |
-| misogyny / misogynist | 厌女（者） | ⭐⭐⭐ |
-| feminism / feminist | 女权主义（者） | ⭐⭐⭐ |
-| patriarchal | 父权的 | ⭐⭐⭐ |
-| masculinity | 男性气质 | ⭐⭐⭐ |
-| backlash | 强烈反弹 | ⭐⭐⭐ |
-| opprobrium | 公开谴责（书面） | ⭐⭐ |
-| vitriol | 尖酸刻薄的话 | ⭐⭐⭐ |
-| demographic | 人口结构的 | ⭐⭐⭐ |
-| surplus | 过剩 | ⭐⭐⭐ |
-| ratio | 比率 | ⭐⭐⭐ |
-| bride price | 彩礼 | ⭐⭐⭐ |
-| matchmaker | 媒人 | ⭐⭐⭐ |
-| precarity | 不稳定性（社会学） | ⭐⭐⭐ |
-| insidious | 阴险的（书面） | ⭐⭐⭐ |
-| lightning rod | 众矢之的 | ⭐⭐⭐ |
-| archetypal | 原型的、典型的 | ⭐⭐⭐ |
-| doxx | 开盒、人肉曝光 | ⭐⭐⭐ |
-
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
-| tellingly | 很能说明问题地 | ⭐⭐⭐ |
-
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| 词汇 | 词性/含义 | 级别 |
-| rant | 咆哮、怒斥 | ⭐⭐⭐ |
-
-### 三、重要语法
-
-1. **插入式定语从句**：`who they believe should stay...` / `which he says create...`——关系词 + 插入主谓 + 从句谓语
-2. **评注副词**（sentence adverbs）：`tellingly` / `belatedly` / `Most of all`——作者态度跳出叙事
-3. **强调结构**：`does have`（强调助动词）/ `It is not just the government that...`（强调句型）
-4. **独立主格**：`right-wing populists aside`（名词 + 副词）
-5. **无生命主语句式**：`His hometown has seen a boom in...`
-6. **倍数表达**：`half as many as...` / `22.5m more A than B`
-7. **同位语从句**：`the fact that he may not find a wife` / `the idea that men are born owing...`
-8. **分词后置定语链**：`accused by... of...`、`viewed 4m times`、`brainwashed by...`
-9. **so...that 结果状语**：`the odds are so stacked against X that...`
-10. **be yet to do** 尚未做
-
-### 四、长难句 5 个（见上文专项）
-
-### 五、写作技巧
-
-1. **沉浸式开头**：`To get a flavour of..., log on to...` 用祈使句让读者"亲自验证"，比下定义生动
-2. **三角证据**：数据（ratio 119:100）+ 个案（赵先生、兰兆霞、熊晓能）+ 专家（三位学者）层层互证
-3. **中文文化词三件套**：拼音（guanggun）+ 字面直译（bare branches）+ 意译（wring them dry）——跨文化写作范本
-4. **态度藏在动词里**：`slips in`（夹带）、`rants`（咆哮）、`Tellingly`（意味深长）——不评论而评论
-5. **并置即评论**：`does not define` 与 `cancer` 并置、`blamed on feminists` 括号插入——让读者自己读出矛盾
-6. **人物出场公式**：姓名 + 同位语（职业/年龄）+ 进行时动作（tucking into noodles）
-7. **以个体写群体**：one more man / One of those frustrated rural men——人物排队出场，各代表一类
-8. **结尾冷处理**：以人物原话 + 对比（trapped vs enjoying）收束，不总结、不下定论
-9. **首尾呼应**：开头"Welcome to the manosphere"点题，结尾 ■ 惯例收束，中间 cast/portray 意象链贯穿
-
-
-## 长难句专项
-
-### 🔍 1. 第一段彭辉堂引语
-> "Young women brainwashed by feminist thinking became increasingly man-hating, which then evolved into the idea that men are born owing women something," he rants.
-
-- 找主干：`Young women became man-hating`
-- 找修饰：`brainwashed by feminist thinking`（过去分词后置定语，被动）
-- 找从句：① `which then evolved into the idea`（非限定定语从句，指代整件事）② `that men are born owing women something`（idea 的同位语从句）
-- 恢复逻辑：被洗脑的女性 → 越来越仇男 → （这件事）演变成观念 → 男人天生欠女人
-- 整体理解：四级因果链条压缩在一句引语中，`rant` 是作者的态度标记
-
-### 🔍 2. 第二段应跃勇帖子
-> Another man, who goes by the name Ying Yueyong, in a post viewed 4m times on Bilibili, a video platform, issued "a rallying cry to men to no longer remain silent in the face of years of bullying and to rise up in resistance".
-
-- 找主干：`Another man issued "a rallying cry"`
-- 找修饰：`who goes by...`（非限定定从）；`in a post viewed 4m times...`（状语 + 分词后置定语）；`a video platform`（同位语）
-- 找从句：`who...`（定语从句）；两个 `to do`（to no longer remain... and to rise up...）是不定式作 cry 的定语
-- 恢复逻辑：某人 → 在某平台某帖中 → 发出号召 → 号召内容（不再沉默 + 奋起反抗）
-- 整体理解：一句话塞进"人物 + 平台 + 传播量 + 内容"，信息密度极高
-
-### 🔍 3. 第四段共青团引语
-> The Communist Youth League has said "extreme feminism" (which it does not define, but generally includes anything that encourages activism or conflict and discourages women from getting married and having children) is a "cancer" afflicting the internet.
-
-- 找主干：`The League has said "extreme feminism" is a "cancer"`
-- 找修饰：`afflicting the internet`（现在分词后置定语）
-- 找从句：括号内 `which it does not define`（定语从句）+ `but includes anything`（并列省略 which）+ `that encourages... and discourages...`（anything 的定语从句）
-- 恢复逻辑：官方说 X 是 Y（定义模糊但打击面大）→ 括号是作者的"嵌入式质疑"
-- 整体理解：引语与解释并用，`does not define` 与 `cancer` 并置暗藏批评
-
-### 🔍 4. 第九段研究数据
-> Research by Minhee Chae of Nankai University and Zhang Dandan of Peking University found that around a third of young male migrants who intend to marry think their chances of doing so by the age of 30 are only 50% at best.
-
-- 找主干：`Research found that migrants think chances are 50%`
-- 找修饰：`by...and...`（来源）；`who intend to marry`（限定从句）；`by the age of 30`（时间状语）
-- 找从句：三层嵌套——found that（宾语）→ who（定语）→ think (that) chances...are...（宾语）
-- 恢复逻辑：研究者 → 结论（三分之一的人认为）→ 内容（30 岁前成婚几率充其量 50%）
-- 整体理解：`at best` 收尾给整个乐观数字泼冷水，是句子的情感落点
-
-### 🔍 5. 第十三段武大案
-> Last year, a legal ruling in favour of a male Wuhan University student accused by a female student of masturbating in front of her became a lightning rod for men's concerns about feminist overreach and women's concerns about a lack of clarity in defining sexual harassment.
-
-- 找主干：`a ruling became a lightning rod for A and B`
-- 找修饰：`in favour of...`（定语）；`accused by...of...`（分词后置定语）
-- 找从句：无从句——长在**后置定语链**与**并列介词短语**上
-- 恢复逻辑：一项有利于被告的裁决 → 成为焦点 → 同时点燃男性（怕女权越界）与女性（怕定义不清）的担忧
-- 整体理解：`for A and B` 的平行骨架 + `lightning rod` 的比喻，是"一句讲清一场撕裂"的范本
-
----
-
-
-## 精读结束总结
-
-
-## 可迁移表达
-
-
-| 场景 | 可用表达 |
-| --- | --- |
-| 文章/演讲开头 | To get a flavour of..., log on to... / Welcome to the... |
-| 数据分析 | translates into... / half as many as / make up X% / at best |
-| 因果归因 | blame A on B / lead to / is because... |
-| 观点转述 | cast/portray A as B / claims that / is judged to be doing |
-| 政策报道 | tackle root causes / crack down on / campaign against / ban sb from doing |
-| 对比论证 | while 让步对比 / In Western democracies...In China... / one the one hand...on the other |
-| 描述困境 | be trapped in / be resigned to / the odds are stacked against sb / throw sth off kilter |
-| 网络现象 | scroll through / doxx / gold-digger / lightning rod / China's answer to X |
-
 # 精读分析：《经济学人》—— Welcome to the Chinese manosphere
 
 > 原文标题：Welcome to the Chinese manosphere
@@ -1282,3 +1150,130 @@
 **为什么这样写**：结尾不总结、不升华，而是以人物自己的话收束，让"男性 vs 女性"的单身体验落差留在读者耳边；`seem`（似乎）一词是作者最后的克制——呈现双方眼中的现实，不下定论。■ 是《经济学人》的惯例文末符，无需翻译。
 
 ---
+
+## 长难句专项汇总
+
+### 🔍 1. 第一段彭辉堂引语
+> "Young women brainwashed by feminist thinking became increasingly man-hating, which then evolved into the idea that men are born owing women something," he rants.
+
+- 找主干：`Young women became man-hating`
+- 找修饰：`brainwashed by feminist thinking`（过去分词后置定语，被动）
+- 找从句：① `which then evolved into the idea`（非限定定语从句，指代整件事）② `that men are born owing women something`（idea 的同位语从句）
+- 恢复逻辑：被洗脑的女性 → 越来越仇男 → （这件事）演变成观念 → 男人天生欠女人
+- 整体理解：四级因果链条压缩在一句引语中，`rant` 是作者的态度标记
+
+### 🔍 2. 第二段应跃勇帖子
+> Another man, who goes by the name Ying Yueyong, in a post viewed 4m times on Bilibili, a video platform, issued "a rallying cry to men to no longer remain silent in the face of years of bullying and to rise up in resistance".
+
+- 找主干：`Another man issued "a rallying cry"`
+- 找修饰：`who goes by...`（非限定定从）；`in a post viewed 4m times...`（状语 + 分词后置定语）；`a video platform`（同位语）
+- 找从句：`who...`（定语从句）；两个 `to do`（to no longer remain... and to rise up...）是不定式作 cry 的定语
+- 恢复逻辑：某人 → 在某平台某帖中 → 发出号召 → 号召内容（不再沉默 + 奋起反抗）
+- 整体理解：一句话塞进"人物 + 平台 + 传播量 + 内容"，信息密度极高
+
+### 🔍 3. 第四段共青团引语
+> The Communist Youth League has said "extreme feminism" (which it does not define, but generally includes anything that encourages activism or conflict and discourages women from getting married and having children) is a "cancer" afflicting the internet.
+
+- 找主干：`The League has said "extreme feminism" is a "cancer"`
+- 找修饰：`afflicting the internet`（现在分词后置定语）
+- 找从句：括号内 `which it does not define`（定语从句）+ `but includes anything`（并列省略 which）+ `that encourages... and discourages...`（anything 的定语从句）
+- 恢复逻辑：官方说 X 是 Y（定义模糊但打击面大）→ 括号是作者的"嵌入式质疑"
+- 整体理解：引语与解释并用，`does not define` 与 `cancer` 并置暗藏批评
+
+### 🔍 4. 第九段研究数据
+> Research by Minhee Chae of Nankai University and Zhang Dandan of Peking University found that around a third of young male migrants who intend to marry think their chances of doing so by the age of 30 are only 50% at best.
+
+- 找主干：`Research found that migrants think chances are 50%`
+- 找修饰：`by...and...`（来源）；`who intend to marry`（限定从句）；`by the age of 30`（时间状语）
+- 找从句：三层嵌套——found that（宾语）→ who（定语）→ think (that) chances...are...（宾语）
+- 恢复逻辑：研究者 → 结论（三分之一的人认为）→ 内容（30 岁前成婚几率充其量 50%）
+- 整体理解：`at best` 收尾给整个乐观数字泼冷水，是句子的情感落点
+
+### 🔍 5. 第十三段武大案
+> Last year, a legal ruling in favour of a male Wuhan University student accused by a female student of masturbating in front of her became a lightning rod for men's concerns about feminist overreach and women's concerns about a lack of clarity in defining sexual harassment.
+
+- 找主干：`a ruling became a lightning rod for A and B`
+- 找修饰：`in favour of...`（定语）；`accused by...of...`（分词后置定语）
+- 找从句：无从句——长在**后置定语链**与**并列介词短语**上
+- 恢复逻辑：一项有利于被告的裁决 → 成为焦点 → 同时点燃男性（怕女权越界）与女性（怕定义不清）的担忧
+- 整体理解：`for A and B` 的平行骨架 + `lightning rod` 的比喻，是"一句讲清一场撕裂"的范本
+
+---
+
+## 精读结束总结
+
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| manosphere | 男性圈（网络男权社区） | ⭐⭐⭐ |
+| misogyny / misogynist | 厌女（者） | ⭐⭐⭐ |
+| feminism / feminist | 女权主义（者） | ⭐⭐⭐ |
+| patriarchal | 父权的 | ⭐⭐⭐ |
+| masculinity | 男性气质 | ⭐⭐⭐ |
+| backlash | 强烈反弹 | ⭐⭐⭐ |
+| opprobrium | 公开谴责（书面） | ⭐⭐ |
+| vitriol | 尖酸刻薄的话 | ⭐⭐⭐ |
+| demographic | 人口结构的 | ⭐⭐⭐ |
+| surplus | 过剩 | ⭐⭐⭐ |
+| ratio | 比率 | ⭐⭐⭐ |
+| bride price | 彩礼 | ⭐⭐⭐ |
+| matchmaker | 媒人 | ⭐⭐⭐ |
+| precarity | 不稳定性（社会学） | ⭐⭐⭐ |
+| insidious | 阴险的（书面） | ⭐⭐⭐ |
+| lightning rod | 众矢之的 | ⭐⭐⭐ |
+| archetypal | 原型的、典型的 | ⭐⭐⭐ |
+| doxx | 开盒、人肉曝光 | ⭐⭐⭐ |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+| tellingly | 很能说明问题地 | ⭐⭐⭐ |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| 词汇 | 词性/含义 | 级别 |
+| rant | 咆哮、怒斥 | ⭐⭐⭐ |
+
+### 三、重要语法
+
+1. **插入式定语从句**：`who they believe should stay...` / `which he says create...`——关系词 + 插入主谓 + 从句谓语
+2. **评注副词**（sentence adverbs）：`tellingly` / `belatedly` / `Most of all`——作者态度跳出叙事
+3. **强调结构**：`does have`（强调助动词）/ `It is not just the government that...`（强调句型）
+4. **独立主格**：`right-wing populists aside`（名词 + 副词）
+5. **无生命主语句式**：`His hometown has seen a boom in...`
+6. **倍数表达**：`half as many as...` / `22.5m more A than B`
+7. **同位语从句**：`the fact that he may not find a wife` / `the idea that men are born owing...`
+8. **分词后置定语链**：`accused by... of...`、`viewed 4m times`、`brainwashed by...`
+9. **so...that 结果状语**：`the odds are so stacked against X that...`
+10. **be yet to do** 尚未做
+
+### 四、长难句 5 个（见上文专项）
+
+### 五、写作技巧
+
+1. **沉浸式开头**：`To get a flavour of..., log on to...` 用祈使句让读者"亲自验证"，比下定义生动
+2. **三角证据**：数据（ratio 119:100）+ 个案（赵先生、兰兆霞、熊晓能）+ 专家（三位学者）层层互证
+3. **中文文化词三件套**：拼音（guanggun）+ 字面直译（bare branches）+ 意译（wring them dry）——跨文化写作范本
+4. **态度藏在动词里**：`slips in`（夹带）、`rants`（咆哮）、`Tellingly`（意味深长）——不评论而评论
+5. **并置即评论**：`does not define` 与 `cancer` 并置、`blamed on feminists` 括号插入——让读者自己读出矛盾
+6. **人物出场公式**：姓名 + 同位语（职业/年龄）+ 进行时动作（tucking into noodles）
+7. **以个体写群体**：one more man / One of those frustrated rural men——人物排队出场，各代表一类
+8. **结尾冷处理**：以人物原话 + 对比（trapped vs enjoying）收束，不总结、不下定论
+9. **首尾呼应**：开头"Welcome to the manosphere"点题，结尾 ■ 惯例收束，中间 cast/portray 意象链贯穿
+
+### 六、可迁移表达（按场景）
+
+| 场景 | 可用表达 |
+| --- | --- |
+| 文章/演讲开头 | To get a flavour of..., log on to... / Welcome to the... |
+| 数据分析 | translates into... / half as many as / make up X% / at best |
+| 因果归因 | blame A on B / lead to / is because... |
+| 观点转述 | cast/portray A as B / claims that / is judged to be doing |
+| 政策报道 | tackle root causes / crack down on / campaign against / ban sb from doing |
+| 对比论证 | while 让步对比 / In Western democracies...In China... / one the one hand...on the other |
+| 描述困境 | be trapped in / be resigned to / the odds are stacked against sb / throw sth off kilter |
+| 网络现象 | scroll through / doxx / gold-digger / lightning rod / China's answer to X |

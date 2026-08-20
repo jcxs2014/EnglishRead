@@ -1,123 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 6）
-
-**原句：** The next ten years should be brighter, but first Britons must accept the big lesson from Brexit: that trying to lay all their country's woes on a single cause is magical thinking which only makes everything worse.
-
-**找主干：** 并列句：The next ten years should be brighter / Britons must accept the big lesson from Brexit（两个主句）。
-
-**找修饰：**
-- 冒号后 that 引导同位语从句（解释 the big lesson）：trying to lay all their country's woes on a single cause is magical thinking
-- which only makes everything worse——定语从句修饰 magical thinking
-
-**找从句：** 同位语从句（that）+ 定语从句（which）。
-
-**恢复逻辑：** 未来可期，但先接受教训：把一切归咎于单一原因是魔法思维，且这种思维只会让事情更糟。
-
-**整体理解：** but 连接两个主句，冒号引出同位语从句解释"教训"，从句主语是动名词短语（trying to lay ...），表语 magical thinking 又被 which 从句修饰。层层嵌套但逻辑清晰。
-
-### 长难句 2（原句 18）
-
-**原句：** Officials and businesses have spent countless hours haranguing each other, first over how to "get Brexit done"—and then over how to mitigate the damage.
-
-**找主干：** Officials and businesses have spent countless hours haranguing each other（主谓宾 + 现在分词）。
-
-**找修饰：**
-- first over how to "get Brexit done"——第一个 over 短语（方式）
-- —and then over how to mitigate the damage——破折号 + 第二个 over 短语（递进）
-- 两个 how to 不定式短语作 over 的宾语
-
-**找从句：** 无从句，但有两个"疑问词+不定式"短语（how to ...）。
-
-**恢复逻辑：** 官员和企业花了无数小时互相指责——先吵怎么完成脱欧，再吵怎么减轻损害。
-
-**整体理解：** 本句的难度在"how to"不定式短语的并列与破折号的递进节奏——first ... then 构成时间/阶段对比。
-
-### 长难句 3（原句 51）
-
-**原句：** The government has been right to seek to remove barriers to trade in food, aiming to align rules and sometimes being prepared to pay a price to take part in desirable EU programmes, such as the Erasmus student-exchange scheme.
-
-**找主干：** The government has been right（主系表）。
-
-**找修饰：**
-- to seek to remove barriers to trade in food——不定式（right 的补足）
-- aiming to align rules——现在分词（方式）
-- and sometimes being prepared to pay a price to take part in desirable EU programmes——并列现在分词
-- such as the Erasmus student-exchange scheme——举例
-
-**找从句：** 无从句，全是分词短语与不定式短语。
-
-**恢复逻辑：** 政府做对了：寻求消除食品贸易壁垒，目标是对齐规则，有时愿付代价参与欧盟好项目，如伊拉斯谟计划。
-
-**整体理解：** 一个"right + 不定式"主干，挂上两个分词短语和 such as 例子。分词（aiming/being prepared）作伴随状语，节奏舒展。
-
-### 长难句 4（原句 59）
-
-**原句：** More Britons, especially the young, need to get off benefits and into work; the labour market is over-regulated; energy must be cheaper; government decisions are subject to too many veto-points, especially in planning; power must be devolved from Westminster; and so on.
-
-**找主干：** 六个并列分句（分号连接），各自独立主谓。
-
-**找修饰：**
-- especially the young——插入语（限定 More Britons）
-- off benefits and into work——off/into 对比介词短语
-- especially in planning——限定 veto-points
-- and so on——省略收尾
-
-**找从句：** 无从句，是典型的分号排比句。
-
-**恢复逻辑：** 五条政策并列：就业、监管、能源、规划、权力下放——每条一个分句。
-
-**整体理解：** 本句价值在"分号排比"的节奏感：短促、并列、密集——政策清单的语势。and so on 表明这是举例而非全列。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **名言改嫁开篇**：用 Dean Acheson 的"lost a continent but not yet found a role"改指脱欧——一句话定义十年。
-2. **口号引用与戳破**：take back control / get Brexit done——引用口号再判其落空，形成戏剧反差。
-3. **省略式排比**：The populist right is still obsessed with immigration, the populist left with curbing ...——第二句省略谓语，节奏更快。
-4. **数字说理**：52%-48%、至少 2.5%、57% vs 30%、94%、4.3%、8% vs 60%——每个论点配民意或财政数字。
-5. **双关趣味**：semi-detached（半脱离 + 英国住宅类型）——一本正经中夹幽默。
-6. **小标题收束**：The ten-year itch（十年之痒，双关"七年之痒"）——呼应"十年"，给出政策清单与批判。
-
-### 语法要点
-
-- **插入语**：to paraphrase Dean Acheson（转述插入）——借用名人名言的固定句式。
-- **同位语从句**：the big lesson ... : that trying to lay ... is magical thinking——冒号+that 解释抽象名词。
-- **让步倒装**：be they foreigners or the super-rich——"be 主语 or"式让步倒装（无论……还是……）。
-- **分词伴随**：aiming to align rules and sometimes being prepared to pay a price——分词表目的/方式。
-- **形式主语**：It increasingly looks as if ...——as if 从句作表语。
-- **破折号数据插入**：—57% ... ; just 30% ... —在句中插数据，不破坏主句节奏。
-
-### 长难句
-
-最值得模仿的是"分号排比"（原句 59）：五条政策五个分句，一气呵成。其次是"冒号+同位语从句"（原句 6）：把"教训"具体化。分词伴随（原句 51）能写出舒展的长句而不错乱。
-
-### 写作技巧
-
-- **正反各打五十大板**：既批脱欧派（承诺落空），又批留欧派（再入欧是重蹈覆辙）——立场独立，谁都不讨好，反而更有说服力。
-- **"先承认后反驳"的平衡**：Closer relations with the EU could help, But ... must not become all-consuming——承认合理部分再设边界。
-- **历史循环结构**：开头"失去十年"，结尾"需要撒切尔式震撼"——首尾呼应，暗示英国需要新一轮自我革新。
-- **务实主义基调**：不喊口号，用数字、清单、先例说话——"政策不神秘，难在取舍"。
-
-## 可迁移表达
-- "lost a continent but not yet found a role" — 用于"失去目标但未找到新定位"。
-- "a recipe for another decade lost" — 用于"注定再浪费十年"的警告。
-- "the doomed search for silver bullets" — 用于批判寻找万灵药。
-- "someone, somewhere giving something up" — 用于说明改革的利益再分配本质。
-- "increasingly looks as if they will need a ... shaking" — 用于"需要一记当头棒喝"。## 词汇分级
 # Britain is not ready to rejoin the EU
 
 **文章概览：** 《经济学人》Leaders 社论，2026-06-18。副标题"After a lost decade, it is time to focus on the future"（失去的十年之后，是时候聚焦未来了）。核心论点：脱欧十年、六任首相，英国"失去了一块大陆却没找到角色"；英国必须接受 Brexit 的大教训——把国家所有困境归咎于单一原因是魔法思维；现在主张重返欧盟同样是把重蹈覆辙。文章给出"十年之痒"（The ten-year itch）下的政策清单：促就业、松监管、降能源、去否决点、权力下放，并批评选民"幻想逃避艰难抉择"，需要一次撒切尔式的震撼来唤醒。
@@ -141,7 +24,6 @@
 - 小标题 The ten-year itch：政策清单 + 幻想批判 + 撒切尔式唤醒
 
 ---
-
 
 ## 一、逐句精读
 
@@ -1131,3 +1013,178 @@
 **为什么这样写：** 结尾展望：也许需要撒切尔式的震撼（呼应前文"1945 与撒切尔"的先例）——以历史循环收束全文。
 
 **段落逻辑（The ten-year itch）：** 药方不神秘（促增长政策清单）→ 每项都有人受损 → 脱欧灌输了"逃避抉择"的幻想 → 幻想内容（别人受苦、自己得利）→ 世界从未如此，选民仍在否认 → 或许需要撒切尔式震撼唤醒。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 6）
+
+**原句：** The next ten years should be brighter, but first Britons must accept the big lesson from Brexit: that trying to lay all their country's woes on a single cause is magical thinking which only makes everything worse.
+
+**找主干：** 并列句：The next ten years should be brighter / Britons must accept the big lesson from Brexit（两个主句）。
+
+**找修饰：**
+- 冒号后 that 引导同位语从句（解释 the big lesson）：trying to lay all their country's woes on a single cause is magical thinking
+- which only makes everything worse——定语从句修饰 magical thinking
+
+**找从句：** 同位语从句（that）+ 定语从句（which）。
+
+**恢复逻辑：** 未来可期，但先接受教训：把一切归咎于单一原因是魔法思维，且这种思维只会让事情更糟。
+
+**整体理解：** but 连接两个主句，冒号引出同位语从句解释"教训"，从句主语是动名词短语（trying to lay ...），表语 magical thinking 又被 which 从句修饰。层层嵌套但逻辑清晰。
+
+### 长难句 2（原句 18）
+
+**原句：** Officials and businesses have spent countless hours haranguing each other, first over how to "get Brexit done"—and then over how to mitigate the damage.
+
+**找主干：** Officials and businesses have spent countless hours haranguing each other（主谓宾 + 现在分词）。
+
+**找修饰：**
+- first over how to "get Brexit done"——第一个 over 短语（方式）
+- —and then over how to mitigate the damage——破折号 + 第二个 over 短语（递进）
+- 两个 how to 不定式短语作 over 的宾语
+
+**找从句：** 无从句，但有两个"疑问词+不定式"短语（how to ...）。
+
+**恢复逻辑：** 官员和企业花了无数小时互相指责——先吵怎么完成脱欧，再吵怎么减轻损害。
+
+**整体理解：** 本句的难度在"how to"不定式短语的并列与破折号的递进节奏——first ... then 构成时间/阶段对比。
+
+### 长难句 3（原句 51）
+
+**原句：** The government has been right to seek to remove barriers to trade in food, aiming to align rules and sometimes being prepared to pay a price to take part in desirable EU programmes, such as the Erasmus student-exchange scheme.
+
+**找主干：** The government has been right（主系表）。
+
+**找修饰：**
+- to seek to remove barriers to trade in food——不定式（right 的补足）
+- aiming to align rules——现在分词（方式）
+- and sometimes being prepared to pay a price to take part in desirable EU programmes——并列现在分词
+- such as the Erasmus student-exchange scheme——举例
+
+**找从句：** 无从句，全是分词短语与不定式短语。
+
+**恢复逻辑：** 政府做对了：寻求消除食品贸易壁垒，目标是对齐规则，有时愿付代价参与欧盟好项目，如伊拉斯谟计划。
+
+**整体理解：** 一个"right + 不定式"主干，挂上两个分词短语和 such as 例子。分词（aiming/being prepared）作伴随状语，节奏舒展。
+
+### 长难句 4（原句 59）
+
+**原句：** More Britons, especially the young, need to get off benefits and into work; the labour market is over-regulated; energy must be cheaper; government decisions are subject to too many veto-points, especially in planning; power must be devolved from Westminster; and so on.
+
+**找主干：** 六个并列分句（分号连接），各自独立主谓。
+
+**找修饰：**
+- especially the young——插入语（限定 More Britons）
+- off benefits and into work——off/into 对比介词短语
+- especially in planning——限定 veto-points
+- and so on——省略收尾
+
+**找从句：** 无从句，是典型的分号排比句。
+
+**恢复逻辑：** 五条政策并列：就业、监管、能源、规划、权力下放——每条一个分句。
+
+**整体理解：** 本句价值在"分号排比"的节奏感：短促、并列、密集——政策清单的语势。and so on 表明这是举例而非全列。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **名言改嫁开篇**：用 Dean Acheson 的"lost a continent but not yet found a role"改指脱欧——一句话定义十年。
+2. **口号引用与戳破**：take back control / get Brexit done——引用口号再判其落空，形成戏剧反差。
+3. **省略式排比**：The populist right is still obsessed with immigration, the populist left with curbing ...——第二句省略谓语，节奏更快。
+4. **数字说理**：52%-48%、至少 2.5%、57% vs 30%、94%、4.3%、8% vs 60%——每个论点配民意或财政数字。
+5. **双关趣味**：semi-detached（半脱离 + 英国住宅类型）——一本正经中夹幽默。
+6. **小标题收束**：The ten-year itch（十年之痒，双关"七年之痒"）——呼应"十年"，给出政策清单与批判。
+
+### 语法要点
+
+- **插入语**：to paraphrase Dean Acheson（转述插入）——借用名人名言的固定句式。
+- **同位语从句**：the big lesson ... : that trying to lay ... is magical thinking——冒号+that 解释抽象名词。
+- **让步倒装**：be they foreigners or the super-rich——"be 主语 or"式让步倒装（无论……还是……）。
+- **分词伴随**：aiming to align rules and sometimes being prepared to pay a price——分词表目的/方式。
+- **形式主语**：It increasingly looks as if ...——as if 从句作表语。
+- **破折号数据插入**：—57% ... ; just 30% ... —在句中插数据，不破坏主句节奏。
+
+### 长难句
+
+最值得模仿的是"分号排比"（原句 59）：五条政策五个分句，一气呵成。其次是"冒号+同位语从句"（原句 6）：把"教训"具体化。分词伴随（原句 51）能写出舒展的长句而不错乱。
+
+### 写作技巧
+
+- **正反各打五十大板**：既批脱欧派（承诺落空），又批留欧派（再入欧是重蹈覆辙）——立场独立，谁都不讨好，反而更有说服力。
+- **"先承认后反驳"的平衡**：Closer relations with the EU could help, But ... must not become all-consuming——承认合理部分再设边界。
+- **历史循环结构**：开头"失去十年"，结尾"需要撒切尔式震撼"——首尾呼应，暗示英国需要新一轮自我革新。
+- **务实主义基调**：不喊口号，用数字、清单、先例说话——"政策不神秘，难在取舍"。
+
+### 可迁移表达
+
+- "lost a continent but not yet found a role" — 用于"失去目标但未找到新定位"。
+- "a recipe for another decade lost" — 用于"注定再浪费十年"的警告。
+- "the doomed search for silver bullets" — 用于批判寻找万灵药。
+- "someone, somewhere giving something up" — 用于说明改革的利益再分配本质。
+- "increasingly looks as if they will need a ... shaking" — 用于"需要一记当头棒喝"。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| v. | 转述、借用（……的话） | 原句 1 |
+| v. | 被冲击、受打击 | 原句 4 |
+| v. | 飙升 | 原句 5 |
+| n. | 魔法思维 | 原句 6 |
+| v. | 认真应对 | 原句 8 |
+| adj. | 漫无方向 | 原句 9 |
+| 短语 | 被压得喘不过气 | 原句 9 |
+| v. | 集结 | 原句 10 |
+| n. | 重大失误 | 原句 12 |
+| v. | 蒸发、破灭 | 原句 14 |
+| v. | 插手、干涉 | 原句 15 |
+| v. | 长篇训斥、指责 | 原句 18 |
+| v. | 减轻 | 原句 18 |
+| v. | 削弱 | 原句 19 |
+| n. | 银弹、万灵药 | 原句 20 |
+| 短语 | 痴迷于 | 原句 21 |
+| n. | 买家懊悔 | 原句 22 |
+| v. | 挥霍、糟蹋 | 原句 38 |
+| adj. | 死气沉沉、濒临停滞 | 原句 41 |
+| adj. | 微不足道的 | 原句 42 |
+| v. | 掐住、抑制 | 原句 43 |
+| adj. | 敌视 | 原句 44 |
+| v. | 偿还债务 | 原句 49 |
+| adj. | 吞噬一切的 | 原句 53 |
+| n. | 极端疑欧派 | 原句 55 |
+| 短语 | 对……警惕 | 原句 56 |
+| v. | 下放权力 | 原句 59 |
+| v. | 灌输 | 原句 61 |
+| 短语 | 拒不承认 | 原句 63 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| lost | a continent but not yet found a role — 失去大陆却没找到角色 |  |
+| more | divided, less influential and poorer — 更分裂、更没影响力、更穷 |  |
+| take back control — 夺回控制权 | 口号 |  |
+| lay | ... on a single cause — 归咎于单一原因 |  |
+| live | up to its potential — 发挥潜力 |  |
+| Singapore-on-Thames | — 泰晤士河畔新加坡 |  |
+| get Brexit done — 完成脱欧 | 口号 |  |
+| the | doomed search for silver bullets — 注定失败的寻找银弹 |  |
+| a | recipe for disaster — 灾难配方 |  |
+| against | the backdrop of — 在……背景下 |  |
+| boost | productivity — 提振生产率 |  |
+| remove | barriers to trade — 消除贸易壁垒 |  |
+| all-consuming | distraction — 吞噬一切的分心 |  |
+| someone, | somewhere giving something up — 总有人要割肉 |  |
+| pocket | all the gains — 独吞收益 |  |
+| a | Thatcher-style shaking — 撒切尔式的震撼 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| semi-detached — 半脱离的 | 双关英国住宅类型 |  |
+| net-zero | policy — 净零政策 |  |
+| veto-points | — 否决点 |  |
+| welfare | state — 福利国家 |  |
+| reinvigoration | — 振兴 |  |
+

@@ -1,69 +1,16 @@
 ---
 状态: 未读
 ---
-## 词汇分级
-### ⭐⭐⭐ 高级
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| vitriol | 恶毒谩骂 | 当局容忍的网络谩骂 |
-| consolidated power | 集权 | 习集权与边缘化女性同步 |
-| extortionate | 漫天要价 | 被禁的彩礼 |
+# 精读分析：《经济学人》—— China's rulers have a woman problem
 
-### ⭐⭐ 进阶
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+> 原文标题：China's rulers have a woman problem
+> 副标题：Antagonism between the sexes does nothing to address China's demographic problems
+> 栏目：Leaders | Lonely hearts clubbed
+> 来源：The Economist，2026-07-18 期
+> 精读日期：2026-08-09
+> 保存文件名：China_rulers_woman_problem.md
 
-### ⭐ 基础
-| 词/短语 | 释义 | 本文语境 |
-|---|---|---|
-| browbeating | 训斥压制 | 党的方案是训斥女性 |
-| conjure up | 凭空变出 | 变不出缺失的女性 |
-| plagued by | 深受……之苦 | 中国被 manosphere 困扰 |
-| crackdown on | 打击 | 对"极端女权"的整治 |
-| singledom | 单身状态 | 被列为有害内容 |
-| sidelined | 被边缘化 | 女性被边缘化 |
-| alleviate | 缓解 | 缓解局面 |
-| woefully inadequate | 严重不足 | 法律执行不力 |
-| enforcement | 执法 | 法律执行 |
-| hasten the end of | 加速终结 | 离婚公平终结彩礼 |
-| set great store by | 十分看重 | 父母看重彩礼 |
-| lower the hurdles | 降低门槛 | 住房就业门槛 |
-| stand in the way of | 阻碍 | 挡在婚姻路上 |
-| vast tracts of | 大片 | 未售住房 |
-| foreign impositions | 外来强加 | 传统主义者眼中 |
-| chiding | 训斥 | 停止训斥女性 |
-
-### 3. 重要语法
-
-- **倒装**：`At the heart of ... is a crushing error`（介词短语提前）
-- **虚拟语气**：`if they were assured of fair treatment ... might marry`（条件假设）
-- **not only ... but also**：`not only fail to realise ... but will also make ...`
-- **现在分词作条件/结果状语**：`Counting men aged 23-37 ...` / `converting it into ...`
-- **非限制性定语从句**：`which make it easier for newcomers to ...`
-- **主谓分隔**：`Recent relaxations ... are welcome`（插入长定语）
-- **see A as B**：`may see some of these ideas as foreign impositions`
-- **lead to + 动名词**：`led to millions of female fetuses being aborted`
-
-### 4. 长难句
-
-- 原句 2（表语从句嵌套）
-- 原句 16（三部分分号并列）
-- 原句 18（主谓分隔 + 长插入语）
-
-### 5. 写作技巧
-
-1. **"无译名却存在"的反讽开场**：用语言事实（没有 manosphere 译法）立起全篇支点，接着反转出"选择性审查"的矛盾
-2. **口号与现实的落差**：`half the sky` vs `never know it today`——用官方自己的口号反打官方政策
-3. **症状/病因框架**：manosphere 是症状，制度性性别歧视是病因——层层下挖
-4. **数据量化**：2250 万男性过剩、33% 婚配几率、127,300 元彩礼、六年储蓄——抽象批评都有数字支撑
-5. **可操作性药方**：不空谈"性别平等"，给出婚姻权利、离婚公平、住房、户籍四条具体政策
-6. **公正性**：肯定户籍放宽（are welcome）——批评并非全盘否定
-7. **对话式收尾**：`stopped chiding and tried asking`——最终主张是"倾听"，比直接要求更温和也更有力
-
-### 精读结束总结
-
-
+---
 
 ## 文本概览
 
@@ -414,7 +361,105 @@
 **段落逻辑：** 预判阻力（19a：被斥为"外来强加"）→ 主张对话（19b：去问女性）。
 
 ---
-## 6. 可迁移表达
+
+## 长难句专项
+
+### 🔍 原句 2（表语从句 + 多重从句嵌套）
+
+> **原句:** The difference is that, in a country where censors rush to silence posts they dislike, the authorities tolerate the manosphere's vitriol and instead focus their energy on women.
+
+**① 找主干：** The difference is that ...
+**② 找修饰：** in a country where ...（地点状语 + where 定语从句）；they dislike（定语从句省略 that）
+**③ 找从句：** that 表语从句（含两个并列谓语 tolerate ... and focus ...）；where censors rush ...；they dislike
+**④ 恢复逻辑：** 中国与西方的差异是：这个能封帖子的国家，却容忍厌女谩骂、专打女性。
+**⑤ 整体理解：** 全篇支点句——把"选择性审查"的双重标准压缩进一个表语从句。
+
+### 🔍 原句 16（三部分分号并列）
+
+> **原句:** Many parents still set great store by the price a daughter can command; the desperation of men to find a partner means that those with money will pay; female divorcees sometimes retain a chunk of it if marriages fail.
+
+**① 找主干：** 三个并列分句：parents set store by price；desperation means that ...；divorcees retain a chunk
+**② 找修饰：** a daughter can command（price 的定语从句）；those with money（介词短语定语）
+**③ 找从句：** a daughter can command；that those with money will pay；if marriages fail
+**④ 恢复逻辑：** 彩礼的多方博弈：父母定价、男性付钱、离异女性留钱——三方都在维系这个制度。
+**⑤ 整体理解：** 用分号并列展示彩礼的"结构性"，解释为何单纯禁止无效。
+
+### 🔍 原句 18（长插入语 + 非限制性定语从句）
+
+> **原句:** Recent relaxations in the hukou system of internal passports, which make it easier for newcomers to register themselves and their families for schools and other public services in cities, are welcome.
+
+**① 找主干：** Recent relaxations ... are welcome
+**② 找修饰：** in the hukou system of internal passports（定语）；which make it easier ... in cities（非限制性定语从句）
+**③ 找从句：** which make it easier for newcomers to register ... for schools and other public services
+**④ 恢复逻辑：** 户籍放宽（内容由 which 从句详述）值得欢迎。
+**⑤ 整体理解：** 主语与谓语（are welcome）被一个长插入语分隔——"主谓分隔"是英语书面语常见修辞。
+
+---
+
+## 精读结束总结
+
+
+## 词汇分级
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| vitriol | 恶毒谩骂 | 当局容忍的网络谩骂 |
+| consolidated power | 集权 | 习集权与边缘化女性同步 |
+| extortionate | 漫天要价 | 被禁的彩礼 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| ⭐⭐⭐ 高级 | 词/短语 | 释义 |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 本文语境 |
+|---|---|---|
+| browbeating | 训斥压制 | 党的方案是训斥女性 |
+| conjure up | 凭空变出 | 变不出缺失的女性 |
+| plagued by | 深受……之苦 | 中国被 manosphere 困扰 |
+| crackdown on | 打击 | 对"极端女权"的整治 |
+| singledom | 单身状态 | 被列为有害内容 |
+| sidelined | 被边缘化 | 女性被边缘化 |
+| alleviate | 缓解 | 缓解局面 |
+| woefully inadequate | 严重不足 | 法律执行不力 |
+| enforcement | 执法 | 法律执行 |
+| hasten the end of | 加速终结 | 离婚公平终结彩礼 |
+| set great store by | 十分看重 | 父母看重彩礼 |
+| lower the hurdles | 降低门槛 | 住房就业门槛 |
+| stand in the way of | 阻碍 | 挡在婚姻路上 |
+| vast tracts of | 大片 | 未售住房 |
+| foreign impositions | 外来强加 | 传统主义者眼中 |
+| chiding | 训斥 | 停止训斥女性 |
+
+### 3. 重要语法
+
+- **倒装**：`At the heart of ... is a crushing error`（介词短语提前）
+- **虚拟语气**：`if they were assured of fair treatment ... might marry`（条件假设）
+- **not only ... but also**：`not only fail to realise ... but will also make ...`
+- **现在分词作条件/结果状语**：`Counting men aged 23-37 ...` / `converting it into ...`
+- **非限制性定语从句**：`which make it easier for newcomers to ...`
+- **主谓分隔**：`Recent relaxations ... are welcome`（插入长定语）
+- **see A as B**：`may see some of these ideas as foreign impositions`
+- **lead to + 动名词**：`led to millions of female fetuses being aborted`
+
+### 4. 长难句
+
+- 原句 2（表语从句嵌套）
+- 原句 16（三部分分号并列）
+- 原句 18（主谓分隔 + 长插入语）
+
+### 5. 写作技巧
+
+1. **"无译名却存在"的反讽开场**：用语言事实（没有 manosphere 译法）立起全篇支点，接着反转出"选择性审查"的矛盾
+2. **口号与现实的落差**：`half the sky` vs `never know it today`——用官方自己的口号反打官方政策
+3. **症状/病因框架**：manosphere 是症状，制度性性别歧视是病因——层层下挖
+4. **数据量化**：2250 万男性过剩、33% 婚配几率、127,300 元彩礼、六年储蓄——抽象批评都有数字支撑
+5. **可操作性药方**：不空谈"性别平等"，给出婚姻权利、离婚公平、住房、户籍四条具体政策
+6. **公正性**：肯定户籍放宽（are welcome）——批评并非全盘否定
+7. **对话式收尾**：`stopped chiding and tried asking`——最终主张是"倾听"，比直接要求更温和也更有力
+
+### 6. 可迁移表达
 
 | 表达 | 适用场景 | 例句 |
 | --- | --- | --- |
@@ -429,5 +474,3 @@
 | `lower the hurdles to` | 政策建议 | The reforms lowered the hurdles to starting a business. |
 | `stand in the way of` | 障碍分析 | Bureaucracy stands in the way of innovation. |
 | `conjure up` | 比喻"变出" | You cannot conjure up skilled workers overnight. |
-
-

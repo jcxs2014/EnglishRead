@@ -1,118 +1,6 @@
 ---
 状态: 未读
 ---
-
-
-## 词汇分级
-
-
-
-## 长难句专项
-
-### 长难句 1（原句 3）
-
-**原句：** It is a city where a good life seems to cost less and where the state's hand is heavier.
-
-**找主干：** It is a city。
-
-**找修饰：**
-- where a good life seems to cost less——定语从句
-- and where the state's hand is heavier——并列定语从句
-
-**找从句：** 两个 where 定语从句。
-
-**恢复逻辑：** 这是一座好生活似乎更便宜、而国家的手也更重的城市。
-
-**整体理解：** 两个 where 从句对仗——一个正（便宜）一个负（管重）。
-
-### 长难句 2（原句 5）
-
-**原句：** One resident, a young man we will call Xiao Chen, moved back after failing to make it in a coastal metropolis.
-
-**找主干：** One resident moved back。
-
-**找修饰：**
-- a young man we will call Xiao Chen——同位语
-- after failing to make it in a coastal metropolis——时间介词短语
-
-**找从句：** 省略 that 的定语从句（we will call Xiao Chen）。
-
-**恢复逻辑：** 一位返乡居民——我们称他小陈——在大城市没立足之后回来了。
-
-**整体理解：** 同位语嵌入 + 时间短语——人物介绍的常用结构。
-
-### 长难句 3（原句 7）
-
-**原句：** His monthly rent is a third of what it was in Beijing, and his commute takes ten minutes instead of two hours.
-
-**找主干：** His monthly rent is a third / his commute takes ten minutes。
-
-**找修饰：**
-- of what it was in Beijing——介词 + what 宾语从句
-- instead of two hours——替代短语
-
-**找从句：** what 宾语从句。
-
-**恢复逻辑：** 房租是北京的三分之一，通勤 10 分钟而非两小时。
-
-**整体理解：** 并列句 + what 从句——两个"宜居数据"的并列。
-
-### 长难句 4（原句 22）
-
-**原句：** It is a dream of comfort bought with freedom, and of belonging bought with ambition.
-
-**找主干：** It is a dream of comfort, and of belonging。
-
-**找修饰：**
-- bought with freedom——分词修饰 comfort
-- bought with ambition——分词修饰 belonging
-
-**找从句：** 无从句。
-
-**恢复逻辑：** 这是一个用自由换舒适、用野心换归属的梦。
-
-**整体理解：** 两个 of 短语并列，各自带过去分词——对仗的修辞结构。
-
----
-
-
-## 精读结束总结
-
-### 表达方式
-
-1. **设问开场**：WHICH CITY in China is the most liveable?——用问题引出评选与争议。
-2. **反差铺垫**：官方评第一 vs 外国人没听过——为"宜居"打问号。
-3. **对仗结构**：comfort vs constraint / cost less vs hand heavier——全文靠对仗推进。
-4. **人物切入**：小陈的故事（数字 vs 人）——用个体具象化议题。
-5. **金句式概括**：comfort of fewer options / a retreat is still a retreat——用矛盾修辞点题。
-6. **对称收尾**：For some ... For others——两种解读的平衡结尾。
-
-### 语法要点
-
-- **双 where 定语从句**：a city where ... and where ...——两个从句对仗。
-- **省略 that 定语从句**：a young man we will call Xiao Chen。
-- **what 宾语从句**：a third of what it was in Beijing。
-- **分词修饰**：bought with freedom / bought with ambition。
-- **否定并列**：a rational choice, not an act of submission。
-- **When 条件从句**：When the metropolis does not deliver。
-
-### 长难句
-
-最值得模仿的是"双 where 对仗"（原句 3）与"bought with 对仗"（原句 22）——前者概括"两面性"，后者把代价意象化。
-
-### 写作技巧
-
-- **辩证结构**：comfort 与 constraint 双线推进——不偏不倚地呈现两面。
-- **克制引用**："In Beijing I was a number"——让受访者说话，作者不代说。
-- **概念创造**：comfort of fewer options——把一个矛盾变成概念。
-- **反讽而不刻薄**：a retreat is still a retreat——温和的批评。
-
-## 可迁移表达
-- "Comfort and constraint come as a package" — 用于"好坏相伴"。
-- "the comfort of fewer options" — 用于"选择受限的代价"。
-- "a dignified retreat" — 用于"体面的退路"。
-- "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
-- "For some ... For others" — 用于平衡式结论。## 词汇分级
 # Comfort meets constraint in China's most "liveable" city
 
 **文章概览：** 《经济学人》中国栏目 Chaguan 专栏。核心论点：一座中国二线城市被官方评为"最宜居城市"，舒适（舒适的生活、环境、房价）与约束（无处不在的管控、单一的产业、失去的选择）并存。文章通过一位返乡者的视角，探讨"宜居"的悖论——物质舒适与个人自由的权衡，以及中国城市化的另一种可能。
@@ -128,7 +16,6 @@
 - 第 6 段：结论——宜居的另一面
 
 ---
-
 
 ## 一、逐句精读
 
@@ -488,3 +375,162 @@
 **为什么这样写：** 用"For some / For others"的对称收尾——同一座城，两种解读：值得 vs 放弃。
 
 **段落逻辑：** 宜居兴起讲述城市梦 → 梦的代价（自由换舒适/野心换归属）→ 有人觉得值 → 有人视之为放弃之地。全文完成。---
+
+## 二、长难句专项
+
+### 长难句 1（原句 3）
+
+**原句：** It is a city where a good life seems to cost less and where the state's hand is heavier.
+
+**找主干：** It is a city。
+
+**找修饰：**
+- where a good life seems to cost less——定语从句
+- and where the state's hand is heavier——并列定语从句
+
+**找从句：** 两个 where 定语从句。
+
+**恢复逻辑：** 这是一座好生活似乎更便宜、而国家的手也更重的城市。
+
+**整体理解：** 两个 where 从句对仗——一个正（便宜）一个负（管重）。
+
+### 长难句 2（原句 5）
+
+**原句：** One resident, a young man we will call Xiao Chen, moved back after failing to make it in a coastal metropolis.
+
+**找主干：** One resident moved back。
+
+**找修饰：**
+- a young man we will call Xiao Chen——同位语
+- after failing to make it in a coastal metropolis——时间介词短语
+
+**找从句：** 省略 that 的定语从句（we will call Xiao Chen）。
+
+**恢复逻辑：** 一位返乡居民——我们称他小陈——在大城市没立足之后回来了。
+
+**整体理解：** 同位语嵌入 + 时间短语——人物介绍的常用结构。
+
+### 长难句 3（原句 7）
+
+**原句：** His monthly rent is a third of what it was in Beijing, and his commute takes ten minutes instead of two hours.
+
+**找主干：** His monthly rent is a third / his commute takes ten minutes。
+
+**找修饰：**
+- of what it was in Beijing——介词 + what 宾语从句
+- instead of two hours——替代短语
+
+**找从句：** what 宾语从句。
+
+**恢复逻辑：** 房租是北京的三分之一，通勤 10 分钟而非两小时。
+
+**整体理解：** 并列句 + what 从句——两个"宜居数据"的并列。
+
+### 长难句 4（原句 22）
+
+**原句：** It is a dream of comfort bought with freedom, and of belonging bought with ambition.
+
+**找主干：** It is a dream of comfort, and of belonging。
+
+**找修饰：**
+- bought with freedom——分词修饰 comfort
+- bought with ambition——分词修饰 belonging
+
+**找从句：** 无从句。
+
+**恢复逻辑：** 这是一个用自由换舒适、用野心换归属的梦。
+
+**整体理解：** 两个 of 短语并列，各自带过去分词——对仗的修辞结构。
+
+---
+
+## 三、精读结束总结
+
+### 表达方式
+
+1. **设问开场**：WHICH CITY in China is the most liveable?——用问题引出评选与争议。
+2. **反差铺垫**：官方评第一 vs 外国人没听过——为"宜居"打问号。
+3. **对仗结构**：comfort vs constraint / cost less vs hand heavier——全文靠对仗推进。
+4. **人物切入**：小陈的故事（数字 vs 人）——用个体具象化议题。
+5. **金句式概括**：comfort of fewer options / a retreat is still a retreat——用矛盾修辞点题。
+6. **对称收尾**：For some ... For others——两种解读的平衡结尾。
+
+### 语法要点
+
+- **双 where 定语从句**：a city where ... and where ...——两个从句对仗。
+- **省略 that 定语从句**：a young man we will call Xiao Chen。
+- **what 宾语从句**：a third of what it was in Beijing。
+- **分词修饰**：bought with freedom / bought with ambition。
+- **否定并列**：a rational choice, not an act of submission。
+- **When 条件从句**：When the metropolis does not deliver。
+
+### 长难句
+
+最值得模仿的是"双 where 对仗"（原句 3）与"bought with 对仗"（原句 22）——前者概括"两面性"，后者把代价意象化。
+
+### 写作技巧
+
+- **辩证结构**：comfort 与 constraint 双线推进——不偏不倚地呈现两面。
+- **克制引用**："In Beijing I was a number"——让受访者说话，作者不代说。
+- **概念创造**：comfort of fewer options——把一个矛盾变成概念。
+- **反讽而不刻薄**：a retreat is still a retreat——温和的批评。
+
+### 可迁移表达
+
+- "Comfort and constraint come as a package" — 用于"好坏相伴"。
+- "the comfort of fewer options" — 用于"选择受限的代价"。
+- "a dignified retreat" — 用于"体面的退路"。
+- "a dream of comfort bought with freedom" — 用于"用 X 换 Y"的隐喻。
+- "For some ... For others" — 用于平衡式结论。## 词汇分级
+
+### ⭐⭐⭐ 高级
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adj. | 宜居的 | 原句 1 |
+| n. | 中型城市 | 原句 2 |
+| n. | 国家的手、管控 | 原句 3 |
+| n. | 约束 | 原句 4 |
+| 短语 | 打包而来 | 原句 4 |
+| 短语 | 成功、立足 | 原句 5 |
+| n. | 沿海大城市 | 原句 5 |
+| n. | 通勤 | 原句 7 |
+| n. | 慰藉 | 原句 8 |
+| n. | 吸引力 | 原句 9 |
+| 短语 | 的一小部分 | 原句 10 |
+| n. | 一线城市 | 原句 10 |
+| n. | 更舒缓的节奏 | 原句 11 |
+| n. | 取舍、权衡 | 原句 12 |
+| 短语 | 越来越多的 | 原句 12 |
+| adj. | 主导的 | 原句 14 |
+| 短语 | 严格控制 | 原句 14 |
+| n. | 失误 | 原句 15 |
+| n. | 黑名单 | 原句 15 |
+| n. | 理性选择 | 原句 18 |
+| n. | 屈从 | 原句 18 |
+| n. | 体面的退路 | 原句 19 |
+| n. | 城市梦 | 原句 21 |
+| n. | 野心、抱负 | 原句 22 |
+| 短语 | 值得付出 | 原句 23 |
+
+### ⭐⭐ 进阶
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| most | foreigners have never heard of — 大多数外国人从未听说 |  |
+| a | good life seems to cost less — 好生活似乎成本更低 |  |
+| comfort | and constraint come as a package — 舒适与约束打包 |  |
+| failing | to make it in a coastal metropolis — 未能在沿海大城市立足 |  |
+| I | was a number ... I feel like a person — 我是数字……我感觉像个人 |  |
+| a | third of what it was in Beijing — 北京时的三分之一 |  |
+| what | officials call "liveable cities" — 官方所称的"宜居城市" |  |
+| the | comfort of fewer options — 选项更少的舒适 |  |
+| a | dignified retreat — 体面的退路 |  |
+| bought | with freedom / bought with ambition — 用自由/野心换来 |  |
+
+### ⭐ 基础
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| rankings | — 排名 |  |
+| green | hills ring the city centre — 青山环绕市中心 |  |
+| a | single dominant industry — 单一主导产业 |  |
+| an | act of submission — 屈从行为 |  |
+
