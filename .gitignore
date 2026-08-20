@@ -97,6 +97,9 @@ check_collab.sh
 setup_multi_ide.sh
 sync_memory.sh
 
+# --- Quartz 内容软链（CF 构建时 cp 现造，本地防误提交）---
+site/content
+
 
 
 # --- Hermes 项目记忆系统（本地缓存，不纳入 git）---
