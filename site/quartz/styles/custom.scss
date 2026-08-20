@@ -13,6 +13,23 @@
   --orange-subtle-hover: rgba(222, 128, 0, 0.2);
 }
 
+// ================================
+// 图标系统（SVG Sprite）
+// 用法：<svg class="icon"><use href="/static/icons.svg#icon-name"/></svg>
+// ================================
+.icon {
+  width: 1.1em;
+  height: 1.1em;
+  vertical-align: -0.15em;
+  display: inline-block;
+  flex-shrink: 0;
+  stroke: currentColor;
+  fill: none;
+
+  &.icon-lg { width: 1.5em; height: 1.5em; vertical-align: -0.25em; }
+  &.icon-sm { width: 0.9em; height: 0.9em; vertical-align: -0.1em; }
+}
+
 // --- 首页 Hero 区域增强 ---
 .page[data-slug="index"] {
   .page-header {
