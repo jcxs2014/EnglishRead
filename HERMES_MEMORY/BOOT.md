@@ -10,7 +10,7 @@
 
 ## 写入纪律
 - **长期约定** → 更新 `<project>_MEMORY.md`（按节归类、保持精炼）。
-- **当日事项** → append 到 `YYYY-MM-DD.md`（追加，不覆盖历史）。
+- **当日事项** → 追加到 `YYYY-MM-DD.md`：若当日文件不存在，先创建（`touch`），再 append；已存在则 append 到末尾，不覆盖历史。
 - 用文件工具（Write/Edit）维护，不要用内置 `memory` 工具写大量内容。
 
 ## 为何不用内置 `memory` 工具
