@@ -243,6 +243,7 @@ a.internal {
 
   article {
     padding: 1.25rem 1rem;
+    max-width: 100%;
 
     h1 { font-size: 1.5rem; }
     h2 { font-size: 1.2rem; }
@@ -251,9 +252,25 @@ a.internal {
       line-height: 1.75;
       margin-bottom: 1rem;
     }
+
+    // 表格横向滚动
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+      font-size: 0.85rem;
+    }
+
+    // 压缩空行
+    br {
+      display: none;
+    }
   }
 
   .left.sidebar {
+    width: 260px !important;
+    min-width: 260px !important;
+
     .page-title {
       font-size: 1rem;
       padding: 0.75rem;
