@@ -99,3 +99,6 @@ sync_memory.sh
 
 # --- Quartz 部署镜像目录（独立 git 仓库，主仓库不追踪）---
 site/content
+
+# --- Hermes 项目记忆系统（本地缓存，不纳入 git）---
+HERMES_MEMORY/
