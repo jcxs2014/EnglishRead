@@ -270,3 +270,49 @@ a.internal {
     height: 36px;
   }
 }
+
+// --- Kindle / 灰度墨水屏适配 ---
+// 仅在检测到灰度/单色设备时生效，不影响彩色桌面/手机端
+@media (monochrome) {
+  :root {
+    --orange-accent: #4a4a4a;
+    --orange-hover: #333333;
+    --orange-subtle: rgba(0, 0, 0, 0.06);
+    --orange-subtle-hover: rgba(0, 0, 0, 0.1);
+  }
+
+  // 去掉所有橙色强调
+  .page[data-slug="index"] .article-title,
+  .left.sidebar .page-title,
+  article h1,
+  .article-title:hover,
+  a:hover,
+  .callout[data-callout] {
+    color: #333333 !important;
+  }
+
+  // 去掉橙色背景
+  article blockquote,
+  a.internal,
+  a.internal:hover,
+  .callout[data-callout] {
+    background-color: #f0f0f0 !important;
+  }
+
+  // 去掉橙色边框
+  article h2 {
+    border-bottom-color: #999999 !important;
+  }
+
+  // 侧边栏 hover 效果改为中性灰
+  .left.sidebar .nav-file-title:hover {
+    background: rgba(0, 0, 0, 0.08) !important;
+    color: #333333 !important;
+  }
+
+  // 链接颜色改为深灰
+  a,
+  a.internal {
+    color: #555555 !important;
+  }
+}
