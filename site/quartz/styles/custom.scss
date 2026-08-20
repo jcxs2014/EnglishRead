@@ -16,6 +16,7 @@
 // ================================
 // 图标系统（SVG Sprite）
 // 用法：<svg class="icon"><use href="/static/icons.svg#icon-name"/></svg>
+// 风格与 Quartz 内置图标统一（2px stroke / round caps / 24x24）
 // ================================
 .icon {
   width: 1.1em;
@@ -25,6 +26,9 @@
   flex-shrink: 0;
   stroke: currentColor;
   fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 
   &.icon-lg { width: 1.5em; height: 1.5em; vertical-align: -0.25em; }
   &.icon-sm { width: 0.9em; height: 0.9em; vertical-align: -0.1em; }
