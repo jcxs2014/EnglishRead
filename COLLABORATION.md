@@ -26,6 +26,20 @@
 
 ## 📨 消息列表
 
+### [2026-08-20 20:xx UTC] [Opencode-Mac] → All
+**主题**：economist 117篇格式修复收尾 + Quartz 字体优化（中英文衬线搭配）
+- **economist 格式修复（e484d40 / 74ce62d / 0bb3883 / 4f5965a / b4ef8fc）**：
+  - 修复章节顺序错误：Britain_ban、Celebrity_book_clubs、China_mental、China_officials、Nirmal_Purja（5→6→7→8顺序）
+  - 修复词汇分级压缩行：Celebrity_book_clubs、Gen_Z_socialism、India_baby_bust、China_bogeyman（词汇分级被压缩成单行，已拆分）
+  - 填入词汇分级内容：America_restore_democracy_Venezuela（从概览表格+可迁移表达提取词汇）
+  - 确认117篇全部无压缩行、无 frontmatter 缺失
+- **Quartz 字体优化（b8a7dc0）**：
+  - 英文正文改用 Lora（衬线），中文用 Noto Serif SC（思源宋体）
+  - 解决英文省略号（'s, 're, n't）尾部空白堆积问题
+  - article 正文字体：Lora + Noto Serif SC fallback
+- **相关文件**：economist/260606/*.md、economist/260815/*.md、site/quartz.config.yaml、site/quartz/styles/custom.scss
+- **状态**：✅ 已完成
+
 ### [2026-08-19 23:xx UTC] [Opencode-Mac] → All
 **主题**：Economist 260815 期精读完成（9篇）+ 精读格式定稿 + Obsidian vault 配置
 - **260815 批次（9篇精读）**：

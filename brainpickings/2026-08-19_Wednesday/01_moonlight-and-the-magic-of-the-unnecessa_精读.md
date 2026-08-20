@@ -9,15 +9,15 @@
 - **主题**：**月光是"不必要"之物的最高象征**——它不服务于任何生存需要，却**恰恰因此**给了生命以"值得活下去的价值"。Popova 用 Watership Down（《沃特希普荒原》）中一段兔子视角的月光描写为轴心，串联起华兹华斯、C. S. Lewis、赫胥黎、科恩、普拉斯、莫里森、伍尔夫——**一组跨越两个世纪、跨越物种的"月光共鸣"**。
 - **结构**：① 月食的 400 倍巧合（开篇）→ ② 三处旅行家的月光（巴基斯坦/南极/阿拉斯加）→ ③ 童年的保加利亚群山 → ④ 灵魂的月光转换（五位作家）→ ⑤ Watership Down 长段（月光的"不必要"）→ ⑥ 华兹华斯的"有用与无用" → ⑦ 赫胥黎的"月光灵学分类法"。
 - **段落脉络**：
-  | 段 | 一句话脉络 |
-  |---|---|
-  | 1 | 月食的 400 倍巧合：月球比太阳小 400 倍，却离地球近 400 倍 |
-  | 2 | 三处旅行家的月光：巴基斯坦/南极/阿拉斯加 |
-  | 3 | 童年的保加利亚群山：等月亮来给"逝去的白天"赋予永恒 |
-  | 4 | 灵魂的月光转换：Cohen/Plath/Morrison/Woolf |
-  | 5 | Watership Down 长段：月光"不揭示，只改变" |
-  | 6 | 华兹华斯：月亮的"有用"让务实者爱她，"无用"让诗人爱她 |
-  | 7 | 赫胥黎的月光灵学分类法：柔和的/敬畏的/孤独的/爱欲的 |
+ | 段 | 一句话脉络 |
+ |---|---|
+ | 1 | 月食的 400 倍巧合：月球比太阳小 400 倍，却离地球近 400 倍 |
+ | 2 | 三处旅行家的月光：巴基斯坦/南极/阿拉斯加 |
+ | 3 | 童年的保加利亚群山：等月亮来给"逝去的白天"赋予永恒 |
+ | 4 | 灵魂的月光转换：Cohen/Plath/Morrison/Woolf |
+ | 5 | Watership Down 长段：月光"不揭示，只改变" |
+ | 6 | 华兹华斯：月亮的"有用"让务实者爱她，"无用"让诗人爱她 |
+ | 7 | 赫胥黎的月光灵学分类法：柔和的/敬畏的/孤独的/爱欲的 |
 - **核心金句**：*"Water is necessary to us, but a waterfall is not … moonlight we do not need. When it comes, it serves no necessity. It transforms."*（"水对我们是必要的，瀑布却不是……月光我们不需要。它来时，不服务任何需要。它转化。"）
 - **核心金句（二）**：*"Friendship is unnecessary, like philosophy, like art, like the universe itself [and] has no survival value; rather it is one of those things which give value to survival."* — C. S. Lewis
 

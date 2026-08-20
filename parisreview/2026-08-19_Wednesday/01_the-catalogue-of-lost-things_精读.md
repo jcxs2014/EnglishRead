@@ -10,33 +10,33 @@
 - **副题**：*Here are a few I found in July and August*（七月和八月我遇到的几段）
 - **主题**：以"遗失之物"为暗线，把九段来自小说、传记、散文、书信体的文字并置成一部关于"记忆、命名、被丢弃之物"的微合集；编辑用一句话把投稿比作"怪奇柜 + 由犹豫不决的研究生喂饱的小众自由书亭"，奠定了全篇戏谑而认真的基调。
 - **结构**：
-  1. 编者按（引入"选段"机制）
-  2. Joanna Kavenna《The Beautiful Salmon》— 虚构的"遗失之物目录"
-  3. A. Igoni Barrett《Whyteface》— 变形记式的种族寓言
-  4. Claire Carusillo《The Responsible Party》— 家族史与身体自画像
-  5. Rosalind Belben《Is Beauty Good》— 荒诞短句
-  6. Lee Cadesky《Grub》— 水的化学附注
-  7. Jacqueline Harpman《The Outcast》— 少女友谊与战时立场
-  8. Emily Eakin《The Frenchmen》— 后结构主义者的传记琐事
-  9. Ivan Turgenev《Smoke》前言（后置）— "不必要写前言"
+ 1. 编者按（引入"选段"机制）
+ 2. Joanna Kavenna《The Beautiful Salmon》— 虚构的"遗失之物目录"
+ 3. A. Igoni Barrett《Whyteface》— 变形记式的种族寓言
+ 4. Claire Carusillo《The Responsible Party》— 家族史与身体自画像
+ 5. Rosalind Belben《Is Beauty Good》— 荒诞短句
+ 6. Lee Cadesky《Grub》— 水的化学附注
+ 7. Jacqueline Harpman《The Outcast》— 少女友谊与战时立场
+ 8. Emily Eakin《The Frenchmen》— 后结构主义者的传记琐事
+ 9. Ivan Turgenev《Smoke》前言（后置）— "不必要写前言"
 - **段落脉络**：
-  | 段 | 文本来源 | 一句话脉络 |
-  |---|---|---|
-  | 1 | 编者按 | 编辑把投稿比作"怪奇柜+自由书亭"，说明"选段"机制 |
-  | 2 | Kavenna | 故事梗概：哲学教授+"Box Philosophy" |
-  | 3 | Kavenna | 遗失之物目录：分四类，含一个消失的星系 |
-  | 4 | Barrett | 一封电邮：黑人一觉变成白人，"除了屁股" |
-  | 5 | Barrett | 题词：尼日利亚墙上涂鸦"请勿在此和平" |
-  | 6 | Carusillo | 小说家自传式小说：家族树、沉船、滑稽剧 |
-  | 7 | Carusillo | 祖母与"六十分硬币"：身体自信+反酸葡萄的自白 |
-  | 8 | Belben | 荒诞短句：家产被挥霍，"孩子都看得出是假经济" |
-  | 9 | Cadesky | 水的化学：氧在中间，水分子有个"小拐弯" |
-  | 10 | Harpman | 十五岁的友谊：讨论上帝、命运、谁赢二战 |
-  | 11 | Harpman | 盟友立场：从贝当转向戴高乐，叙述者"委婉地没说话" |
-  | 12 | Eakin | 法国理论家群像：八个"作者已死"的人 |
-  | 13 | Eakin | 德里达金句：读者比研究者更像"真正的传记作家" |
-  | 14 | Eakin | 食堂往事：德里达投诉豌豆泥和"砖头状卡门贝尔" |
-  | 15 | Turgenev | 反讽前言：别人劝我写前言，我"认真考虑后觉得不必要" |
+ | 段 | 文本来源 | 一句话脉络 |
+ |---|---|---|
+ | 1 | 编者按 | 编辑把投稿比作"怪奇柜+自由书亭"，说明"选段"机制 |
+ | 2 | Kavenna | 故事梗概：哲学教授+"Box Philosophy" |
+ | 3 | Kavenna | 遗失之物目录：分四类，含一个消失的星系 |
+ | 4 | Barrett | 一封电邮：黑人一觉变成白人，"除了屁股" |
+ | 5 | Barrett | 题词：尼日利亚墙上涂鸦"请勿在此和平" |
+ | 6 | Carusillo | 小说家自传式小说：家族树、沉船、滑稽剧 |
+ | 7 | Carusillo | 祖母与"六十分硬币"：身体自信+反酸葡萄的自白 |
+ | 8 | Belben | 荒诞短句：家产被挥霍，"孩子都看得出是假经济" |
+ | 9 | Cadesky | 水的化学：氧在中间，水分子有个"小拐弯" |
+ | 10 | Harpman | 十五岁的友谊：讨论上帝、命运、谁赢二战 |
+ | 11 | Harpman | 盟友立场：从贝当转向戴高乐，叙述者"委婉地没说话" |
+ | 12 | Eakin | 法国理论家群像：八个"作者已死"的人 |
+ | 13 | Eakin | 德里达金句：读者比研究者更像"真正的传记作家" |
+ | 14 | Eakin | 食堂往事：德里达投诉豌豆泥和"砖头状卡门贝尔" |
+ | 15 | Turgenev | 反讽前言：别人劝我写前言，我"认真考虑后觉得不必要" |
 - **核心金句**：*"Sometimes the one who reads a text by a philosopher … is more of a real biographer than the one who knows the whole story."* — Derrida（"有时，那个精读哲学家文本、以严谨而富于发明性的方式解读它的人，比那个通晓全部故事的人，更像一位真正的传记作家。"）
 
 ## 逐句精读

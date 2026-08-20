@@ -48,11 +48,11 @@
 - **language activist**：语言活动家（为某种语言的存废、地位、使用权利而发声的人）。
 - **not only… – he is...**：破折号作强调，把"作家"这个显而易见的身份推到一边，真正要强调的是"语言活动家"。
 - **五子项**：
-  - **主语**：Jon Fosse
-  - **谓语**：is
-  - **表语**：not only a writer / a language activist
-  - **定语**：whose work I've been translating for twenty-five years now（修饰 Fosse）
-  - **状语**：无（时间信息嵌入从句）
+ - **主语**：Jon Fosse
+ - **谓语**：is
+ - **表语**：not only a writer / a language activist
+ - **定语**：whose work I've been translating for twenty-five years now（修饰 Fosse）
+ - **状语**：无（时间信息嵌入从句）
 - **为什么这样写**：用**非限定定语从句**把译者身份、时长、关系一次交代；破折号做转折强调，为后文"minority language"埋下伏笔。
 
 > **原句 1-2:** He **writes in** Nynorsk, the so-called **minority** Norwegian language, and has **championed** Nynorsk his whole career.

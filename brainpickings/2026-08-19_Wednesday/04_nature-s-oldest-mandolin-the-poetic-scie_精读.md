@@ -9,15 +9,15 @@
 - **主题**：**蝉是地球上**"存在时间最长、原样未变"**的乐器**——幼虫地下生活数年，羽化后短短数周鸣叫求偶，然后死去。**"它身体的每一部分都是乐器"**——没有声带、没有肺，却**发出接近喷气引擎的音量**。Popova 用**安娜·博茨福德·康斯托克**（Anna Botsford Comstock, 1854–1930）——**一位被遗忘的、把自然研究引入学校课程的先驱**——1903 年《Ways of the Six-Footed》中的描写为轴心，串联起**毕达哥拉斯、荷马、阿那克里翁、拜伦、林奈**——**一条跨越三千年的"蝉 = 音乐"的知识史**。
 - **结构**：① 开篇：蝉是"存在最久未变的乐器" → ② 蝉的周期性羽化（17.9°C 公式） → ③ 蝉的"无乐器而声如喷射机" → ④ 蝉的"鼓面 + 肋骨"解剖学（康斯托克）→ ⑤ 毕达哥拉斯 / 荷马 / 阿那克里翁 / 拜伦（"蝉 = 音乐"的知识史）→ ⑥ 康斯托克的生平（被遗忘的先驱）→ ⑦ 蝉的鼓面描写（"曼陀林而不是鼓"）。
 - **段落脉络**：
-  | 段 | 一句话脉络 |
-  |---|---|
-  | 1 | 开篇：蝉是"存在最久未变的乐器" |
-  | 2 | 蝉的周期性羽化：17.9°C 公式 |
-  | 3 | 蝉的声如喷气引擎：无乐器而发声 |
-  | 4 | 蝉的解剖：鼓面 + 肋骨 |
-  | 5 | "蝉 = 音乐"的知识史：毕达哥拉斯 → 拜伦 |
-  | 6 | 康斯托克：被遗忘的先驱 |
-  | 7 | 蝉的鼓面描写：曼陀林而不是鼓 |
+ | 段 | 一句话脉络 |
+ |---|---|
+ | 1 | 开篇：蝉是"存在最久未变的乐器" |
+ | 2 | 蝉的周期性羽化：17.9°C 公式 |
+ | 3 | 蝉的声如喷气引擎：无乐器而发声 |
+ | 4 | 蝉的解剖：鼓面 + 肋骨 |
+ | 5 | "蝉 = 音乐"的知识史：毕达哥拉斯 → 拜伦 |
+ | 6 | 康斯托克：被遗忘的先驱 |
+ | 7 | 蝉的鼓面描写：曼陀林而不是鼓 |
 - **核心金句**：*"This musician … is an interesting-looking fellow, with a stout body and broad, transparent wings quite ornately veined … our Lyreman is provided with a very complicated pair of kettledrums, which he plays with so much skill that his music sounds more like that of a mandolin than of a drum."*（"这位音乐家……是个有意思的家伙，身体粗壮，宽大的透明翅膀纹路华丽……我们的竖琴手配备了一对非常复杂的锅形鼓，他演奏得如此熟练，他的音乐听起来更像曼陀林而不是鼓。"）
 - **核心金句（二）**：*"The cicada's kettledrums are perhaps the only musical instruments now in use that have remained unchanged through a thousand centuries since they were first mentioned."*（"蝉的锅形鼓也许是现在仍在使用的、自首次被提及以来历经一千年而原样未变的唯一乐器。"）
 

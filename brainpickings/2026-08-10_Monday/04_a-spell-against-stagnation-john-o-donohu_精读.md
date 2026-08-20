@@ -11,18 +11,18 @@
 - **关键人物**：O'Donohue / Van Gogh / David Bowie / Caspar David Friedrich（画家）。
 - **结构**：① 开篇引文（生命直接依赖持续不断的开始）→ ② 我们是不完整的（unfinished）→ ③ 开始=对抗停滞的咒语 → ④ 开始=邀请，而非孤独远行 → ⑤ 风险=最大的盟友 → ⑥ Van Gogh 与 David Bowie 的"持续再开始" → ⑦ 开始与"古老时空"的连续性 → ⑧ 家=开始之地 → ⑨ 结尾与"开始的诗" → ⑩ 补充阅读
 - **段落脉络**：
-  | 段 | 一句话脉络 |
-  |---|---|
-  | 1 | 生命直接依赖持续不断的开始（开篇引文） |
-  | 2 | 我们是不完整的（unfinished）——故事还未写下 |
-  | 3 | 开始=对抗停滞的咒语（symphony of the possible） |
-  | 4 | 开始=邀请，而非孤独远行 |
-  | 5 | 风险=最大的盟友 |
-  | 6 | Van Gogh / Bowie / Friedrich 的"持续再开始" |
-  | 7 | 开始与"古老时空"的连续性 |
-  | 8 | 家=开始之地（home as the origin of beginnings） |
-  | 9 | 结尾与"开始的诗" |
-  | 10 | 补充阅读 |
+ | 段 | 一句话脉络 |
+ |---|---|
+ | 1 | 生命直接依赖持续不断的开始（开篇引文） |
+ | 2 | 我们是不完整的（unfinished）——故事还未写下 |
+ | 3 | 开始=对抗停滞的咒语（symphony of the possible） |
+ | 4 | 开始=邀请，而非孤独远行 |
+ | 5 | 风险=最大的盟友 |
+ | 6 | Van Gogh / Bowie / Friedrich 的"持续再开始" |
+ | 7 | 开始与"古老时空"的连续性 |
+ | 8 | 家=开始之地（home as the origin of beginnings） |
+ | 9 | 结尾与"开始的诗" |
+ | 10 | 补充阅读 |
 - **核心金句**：*"Our very life here depends directly on continuous acts of beginning."*
 - **核心金句（二）**：*"Beginnings are notation for the symphony of the possible in us."*
 
