@@ -9,7 +9,8 @@
 ~/Documents/Works/EnglishRead/
 ├── README.md              ← 本文件（唯一权威项目文档）
 ├── AGENTS.md              ← 本工作区 agent 操作手册（会话行为 / MiniMax 1027 详细流程）
-├── .memory/               ← 跨 IDE 共享记忆（拓扑 + 协作日志，见 .memory/AGENTS.md）
+├── .memory/               ← 本机工作记忆（不入 git，各机独立维护；跨机协调走 COLLABORATION.md）
+├── COLLABORATION.md       ← 多 IDE 协作消息板（入库，唯一跨机同步通道）
 ├── <source>/              ← 一个来源一个文件夹（小写）
 │   └── 2026-08-10_Monday/ ← 按抓取日期建子目录
 │       ├── 01_xxx.txt          原文
@@ -30,7 +31,7 @@
 - `granta/`（文学杂志，RSS 带全文）：脚本 `granta/fetch_granta.py`，产出同 `<日期_%A>/`
 - `brainpickings/`（思想科学随笔，feed 重定向至 themarginalian.org，RSS 带全文）：脚本 `brainpickings/fetch_brainpickings.py`
 - `lithub/`（文学书评随笔，RSS 带全文，脚本自动过滤 "Lit Hub Daily" 汇总帖）：脚本 `lithub/fetch_lithub.py`
-- `economist/`（按期刊发行日期）：`260725/` 等；报告 `Title_snake_case.md`
+- `economist/`（按期刊发行日期）：`260725/` 等；**原文** `Title_snake_case.src.md`（260822 起，不入 git、不上网站）；**精读** `Title_snake_case_精读.md`。历史说明：260606–260815 批次精读文件名无 `_精读` 后缀（`X.md` 即精读），保持原样
 - 待启用：`quantamagazine/`（部分全文）、`aeon/`（RSS 仅摘要，需逐页抓）
 - 避开：The Atlantic / The New Yorker（付费墙，RSS 无全文）
 
@@ -62,11 +63,10 @@
    - 文末总结：核心词汇 / 表达 / 语法 / 长难句 / 写作技巧 / 可迁移表达
    - 报告存为 `<idx>_<slug>_精读.md`，与原文同目录
 
-4. **清理（谨慎，本机无 git 不可逆）**
+4. **清理**
    - 当日**未入选且无精读**的源文 → 直接删除，保持目录整洁
    - **保留**：入选源文 + 精读 `_精读.md` + `index.json` + `selected.json` + 脚本
    - **不可精读但已保留的存档篇**：在源文顶部加说明即可，无需再删除（属"有标记保留"）
-   - 清理动作在**单一机器**执行，避免跨机器同步竞态
 
 5. **交互指令**：继续 / 详细解释这个句子 / 只讲语法 / 只讲词汇 / 测试我 / 不要翻译
 
@@ -84,18 +84,10 @@
 - 本目录是**独立个人资产**，与 HermesAgent 工作区（`~/Sites/HermesAgent`）解耦，可单独备份/迁移。
 - 加新来源：新建 `<source>/` 文件夹，写对应 `fetch_<source>.py`（逻辑同 parisreview/fetch_paris.py，改 FEED + 解析）。
 - `scan.py` 的 flags 字典需随来源扩充更新。
-- 本文档为**唯一权威项目说明**；agent 操作规则见根 `AGENTS.md`，跨 IDE 拓扑与协作日志见 `.memory/AGENTS.md`。
-- 本工作区在 macOS 26.5 上验证；跨机器同步用文件系统直读，git 仅在 MacBook 侧做版本记录。
-- **源文与精读均存 `.md`**：源文带 frontmatter（title/source/url/published/chars），命名 `<idx>_<slug>.md`；精读 `<idx>_<slug>_精读.md`。
-- **网页部署**：使用 Cloudflare Pages（https://jcxs2014.github.io/EnglishRead/），push 到 main 自动构建。
-- **抓取三边界（用户定）**：宁少不凑（敏感剔除后凑不齐 5 篇则少精读，不放宽阈值）；未入选源文直接删除（本机无 git，操作在单一机器执行防同步竞态）；备份用户自理，AI 不处理。
-- **指定唯一抓取机**（建议）：`Opencode-Mac` 执行抓取脚本，避免两台机器同写一个目录引发同步竞态；Hermes-mini 负责精读。
-
-## 今日（2026-08-10）已完成
-
-parisreview/2026-08-10_Monday/ 下 5 篇精读：
-- 02 Last Days at the Aqueduct（城市散文）
-- 05 The Theater of Sport（Buford 访谈）
-- 06 The Bit Player（家庭回忆，最催泪）
-- 07 Interstitium（医学哲学，思辨最深）
-- 10 In Paris, in Tokyo…（城市拼贴诗，最实验）
+- 本文档为**唯一权威项目说明**；agent 操作规则见根 `AGENTS.md`，本机工作记忆见 `.memory/AGENTS.md`（各机独立，不入 git）。
+- **跨机同步**：两台机器各自维护 git 仓库（origin = `github.com:jcxs2014/EnglishRead`），Syncthing 已排除本目录；跨机只靠 git push/pull，`.src.md` 与 `.memory/` 不同步属预期。
+- 本工作区在 macOS 26.5 上验证。
+- **源文与精读命名**：非 Economist 源文 `<idx>_<slug>.src.md`（260821 起）；精读 `<idx>_<slug>_精读.md`。Economist 见上方来源节。
+- **网页部署**：Cloudflare Workers（https://englishread.jcxs2014.workers.dev/），push 到 main 由 CF Git 集成自动构建；Quartz `ignorePatterns` 排除 `*.src.md`，原文不上网。
+- **抓取三边界（用户定）**：宁少不凑（敏感剔除后凑不齐 5 篇则少精读，不放宽阈值）；未入选源文直接删除；备份用户自理，AI 不处理。
+- **git 提交纪律**：精读批次进行中只 commit 不 push；定稿或用户指令后统一推送（详见 AGENTS.md）。
