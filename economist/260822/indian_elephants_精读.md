@@ -572,3 +572,32 @@ P5
 **句子结构**：主语 "Arthashastra"，谓语 advised，宾语 India's rulers，不定式 to protect forests inhabited by the magnificent beasts做宾语补足语；inhabited by the magnificent beasts是forests的后置定语（过去分词短语）。
 
 **解剖**：动词advise后接双宾语结构（India's rulers + to protect forests），inhabited by...作forests的定语，造成较长的宾语补足语。
+
+## 精读结束总结
+
+### 1. 本文核心表达
+- **elephant corridors**：象群迁徙走廊
+- **human-elephant conflict**：人象冲突
+- **habitat fragmentation**：栖息地碎片化
+- **ecosystem engineers**：生态系统工程师
+- **a rusted-out tractor**：生锈的拖拉机（经济价值的比喻）
+
+### 2. 重要语法
+- **despite + 名词**：尽管……（表示让步）
+- **use their tusks, which are poor electrical conductors**：which非限制性定语从句
+- **advise + 宾语 + 不定式**：双宾语结构
+
+### 3. 写作技巧
+- **数据支撑**：60头象、150头大象、每年5亿卢比补偿
+- **政策层叠**：最高法院命令、州级行动、国家走廊计划
+- **价值对比**：实际经济贡献 vs 一次性补偿
+
+## 可迁移表达
+
+### 环保/野生动物保护
+- **human-wildlife conflict**：人象冲突
+- **habitat fragmentation and loss**：栖息地碎片化和丧失
+- **elephant corridors**：象群迁徙走廊
+- **ecosystem engineers**：生态系统工程师
+- **compensation schemes**：补偿计划
+- **a rusted-out tractor**：生锈的拖拉机（低价值比喻）

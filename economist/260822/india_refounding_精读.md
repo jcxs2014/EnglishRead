@@ -777,6 +777,32 @@ P5
 | statue | 雕像 | World's tallest statue of Patel. |
 | constitution | 宪法 | Students carried copies of the constitution. |
 
+## 长难句专项
+
+### 长难句 1
+
+> The statement is one of those to be taken seriously, not literally.
+
+**句子结构**：主语 The statement，系动词 is，one of those to be taken seriously, not literally（表语）。
+
+**解剖**："to be taken seriously, not literally"（需要认真对待但不能从字面理解）是典型的政治委婉语——极端言论不需要当事实，但需要认真对待其政治影响。
+
+### 长难句 2
+
+> Their project was to build a "civilisational state defined by the country's ancient Hindu heritage", as Milan Vaishnav of the Carnegie Endowment, a think-tank in Washington, put it in a paper in 2024.
+
+**句子结构**：主语 Their project，系动词 was，to build a "civilisational state defined by the country's ancient Hindu heritage"；as Milan Vaishnav...put it in 2024是方式状语从句。
+
+**解剖**："civilisational state"（文明国家）是BJP精心选择的政治词汇——用"文明"而非"民族"来定义印度教国家认同。
+
+### 长难句 3
+
+> Building a nation is no easy task. Retrofitting one is harder still.
+
+**句子结构**：两个并列的简短主系表结构。
+
+**解剖**："Retrofitting one is harder still"（改造一个国家比建设更难）是全文的最终论点——解释了为什么revisionism失败了。
+
 ## 精读结束总结
 
 ### 1. 本文核心表达

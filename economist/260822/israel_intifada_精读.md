@@ -617,6 +617,32 @@ title: Israel is flirting with the next intifada
 | settlers | 定居者 | Violent Israeli settlers attacking Palestinian residents. |
 | air strikes | 空袭 | Continued to order air strikes in Lebanon and Syria. |
 
+## 长难句专项
+
+### 长难句 1
+
+> Yet Mr Netanyahu seems willing to take the risk, if it helps his chances of political survival.
+
+**句子结构**：主语 Mr Netanyahu，谓语 seems willing to take the risk；if it helps his chances of political survival是条件状语从句。
+
+**解剖**："seems willing to"（似乎愿意）表示这是对动机的推测；"if it helps his chances of political survival"揭示了内塔尼亚胡将政治生存置于和平与稳定之上的真实优先级。
+
+### 长难句 2
+
+> The IDF knows that Binyamin Netanyahu, the prime minister, sides squarely with the most extreme settlers.
+
+**句子结构**：主语 The IDF，谓语 knows that Binyamin Netanyahu...sides squarely with the most extreme settlers；the prime minister是同位语。
+
+**解剖**："sides squarely with"（完全站在……一边）中的"squar Ely"强调IDF认为内塔尼亚胡的立场是明确无误的背叛，而非模糊的偏好。
+
+### 长难句 3
+
+> He has continued to order air strikes in Lebanon and Syria, despite the chance to agree on more secure borders.
+
+**句子结构**：主语 He，谓语 has continued to order air strikes in Lebanon and Syria；despite the chance to agree on more secure borders是让步状语。
+
+**解剖**："despite the chance"（尽管有机会）暗示内塔尼亚胡选择不抓住可能的外交机会，坚持军事手段。
+
 ## 精读结束总结
 
 ### 1. 本文核心表达

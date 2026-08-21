@@ -663,6 +663,24 @@ title: Jason Arday was treated as a symbol, not a man
 | a professor | 教授 | Cambridge's youngest-ever black professor. |
 | on a grand scale | 大规模地 | Mr Arday lied on a grand scale. |
 
+## 长难句专项
+
+### 长难句 1
+
+> He should be remembered as neither, but as a human being.
+
+**句子结构**：主语 He，谓语 should be remembered as neither, but as a human being。
+
+**解剖**："as neither...but as"（不是……而是……）拒绝了两种符号化解读——既不是"觉醒文化的巅峰"，也不是"数字私刑群体的受害者"，而是一个人。
+
+### 长难句 2
+
+> The man was subordinate to the symbol.
+
+**句子结构**：主语 The man，系动词 was，subordinate to the symbol。
+
+**解剖**："The man was subordinate to the symbol"（这个人被降到了符号之下）是全文最简洁有力的句子，概括了DEI运动对Arday的非人化。
+
 ## 精读结束总结
 
 ### 1. 本文核心表达

@@ -360,6 +360,24 @@ title: Kazakhstan prepares to vote in a cosmetic election
 | the Constitutional Court | 宪法法院 | The Constitutional Court recently ruled. |
 | cling to power | 掌权 | A tactic to cling to power. |
 
+## 长难句专项
+
+### 长难句 1
+
+> He has the right to a new "first" term, the Constitutional Court recently ruled, so he could run again—a tried-and-tested tactic to cling to power loved by Central Asian autocrats as well as by Vladimir Putin in Russia and Recep Tayyip Erdogan in Turkey.
+
+**句子结构**：主语 He，谓语 has the right to a new "first" term, the Constitutional Court recently ruled, so he could run again；破折号后是同位语a tried-and-tested tactic to cling to power loved by...。
+
+**解剖**："a new 'first' term"（一个新的"第一"任期）是最讽刺的表达——把重新计数任期包装成"新开始"；"a tried-and-tested tactic"（久经测试的策略）是贬义表达，揭示这是中亚威权者的共同手法。
+
+### 长难句 2
+
+> But scratch the surface and the political trappings of the old Kazakhstan—associated with Nursultan Nazarbayev, Mr Tokayev's long-serving predecessor and discredited political patron—emerge.
+
+**句子结构**：But scratch the surface（条件状语），主语 the political trappings of the old Kazakhstan...emerge；破折号内是Nursultan Nazarbayev的同位语。
+
+**解剖**："scratch the surface"（深入看）是固定表达，暗示表面改革下有更深的问题；"discredited political patron"（信誉扫地的政治靠山）描述纳扎尔巴耶夫。
+
 ## 精读结束总结
 
 ### 1. 本文核心表达
