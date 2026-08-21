@@ -1,5 +1,5 @@
 ---
-title: Money, sex and bigotry: what one painting reveals about France
+title: "Money, sex and bigotry: what one painting reveals about France"
 状态: 未读
 ---
 
