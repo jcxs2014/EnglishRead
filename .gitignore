@@ -104,8 +104,6 @@ sync_memory.sh
 # --- Hermes 项目记忆系统（本地缓存，不纳入 git）---
 HERMES_MEMORY/
 
-# --- Economist 原文目录（整目录忽略，不纳入 git）---
-economist/
 
 # --- 原文 md（只保留精读 _精读.md，原始文章忽略）---
 *.src.md
