@@ -13,6 +13,7 @@ configuration:
     - site
     - node_modules
     - _templates
+    - "*.src.md"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
