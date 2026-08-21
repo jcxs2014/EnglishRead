@@ -267,6 +267,8 @@ title: Two vital figures of the American revolution forgotten by history
 
 **为什么这样写**：五词短句收束传播效果。
 
+**段落逻辑：** "高大富有俊美"的反差人设 → 双重第一：提议全民普选+上院首提承认知独立 → 潘恩的赞助人 → 《常识》金句"重新开创世界" → 读者极广电击般点燃革命
+
 ### 第 5 段：Junius 假说
 
 > **原句 18:** In "Radical Duke", Danielle Allen, a political philosopher at Harvard, makes the novel argument that Lennox and Paine were at the centre of "a network of writers" that formed Junius, a pseudonymous author.
@@ -445,6 +447,8 @@ title: Two vital figures of the American revolution forgotten by history
 
 **为什么这样写**：为威尔逊的民主观提供中世纪家谱。
 
+**段落逻辑：** 一份《独立宣言》副本串起两书 → Wegman把威尔逊置于苏格兰启蒙：商业与善行同路（斯密格言） → 更远的家谱：1320年男爵宣告王权系于"我们全体的同意"
+
 ### 第 8 段：法律论证
 
 > **原句 32:** In the run-up to the revolution, Wilson's rigorous essays provided a legal argument for independence.
@@ -482,6 +486,8 @@ title: Two vital figures of the American revolution forgotten by history
 **表达方式**：双引语的推理链模拟三段论。
 
 **为什么这样写**：法理论证的公理化表述。
+
+**段落逻辑：** 革命前夜提供独立的法律论证 → 议会无权管辖殖民地：殖民者未选举他们 → 公理化推演：人生而平等自由，故未经同意不得施政
 
 ### 第 9 段：版权之争与悲剧结局
 

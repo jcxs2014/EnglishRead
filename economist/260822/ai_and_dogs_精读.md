@@ -261,6 +261,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：确立全文方法论合法性。
 
+**段落逻辑：** 两书登场：诺奖经济学家×普利策历史学家 → 都在搏斗AI未来之问 → 均未用狗类比——但借之类比更好懂
+
 ### 第 5 段：Lepore 论驯犬人
 
 > **原句 17:** Jill Lepore, a Harvard historian, focuses on the men who train the dogs.
@@ -311,6 +313,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：论点的双重灾难清单。
 
+**段落逻辑：** Lepore聚焦驯犬之人 → AI大亨可怕而不负责任 → 造物可能挣脱皮带撕咬人类 → 终局：企业所有的机器统治并取代人类 → 自由民主制被弃守+自然世界被毁
+
 ### 第 6 段：巨头语录
 
 > **原句 21:** She bases her case partly on the moguls' own words.
@@ -348,6 +352,8 @@ title: What AI has in common with dogs
 **表达方式**：pet labrador 与全文犬类类比形成惊人的互文——连被评者都在用狗打比方。
 
 **为什么这样写**：第二位巨头的自供状。
+
+**段落逻辑：** 论证策略：以大亨自己的话为据 → Altman：AI取代总统"awesome"、为全人类"optimise" → Musk：人类恐沦为超级智能的"pet labradors"
 
 ### 第 7 段：逃生计划
 
@@ -399,6 +405,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：逃生计划→道德风险的因果链闭合。
 
+**段落逻辑：** 数据中心将铺满地表 → Musk方案：送数据中心上太空+炸百万人去火星 → 逃生计划四人排比：火星/元宇宙/太空/云端上传大脑 → 有退路者对地球反乌托邦毫不在意
+
 ### 第 8 段：书评反驳
 
 > **原句 28:** She is right that today's tech bosses are not people you would trust to write the rules for the future of civilisation.
@@ -448,6 +456,8 @@ title: What AI has in common with dogs
 **表达方式**：hinge 机械隐喻；put it to use 的名词化倒装。
 
 **为什么这样写**：给出替代解释框架：技术+用途二元论。
+
+**段落逻辑：** 先让步：巨头确实不可信 → 再反驳：高估了亿万富翁个人 → Henry Ford类比例证：汽车的社会效应不系于福特其人 → 替代框架：取决于技术之力+人们的用法
 
 ### 第 9 段：Acemoglu 背景
 
@@ -499,6 +509,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：新书定位句。
 
+**段落逻辑：** 该问题由Acemoglu接手 → 全球被引最多经济学家之一 → 成名作《国家为什么会失败》：掠夺性制度使穷国恒穷 → 新著转向当下：技术×民主的互动
+
 ### 第 10 段：民主功能
 
 > **原句 36:** Liberal democracy has underpinned progress, he argues.
@@ -524,6 +536,8 @@ title: What AI has in common with dogs
 **表达方式**：三功能排比构成民主政绩清单。
 
 **为什么这样写**：为下文"计算机破坏三功能"埋对照结构。
+
+**段落逻辑：** 论点一：自由民主制支撑了进步 → 三大功能排比：滋养创新与增长、经税收与服务分配利益、以监管保护选民
 
 ### 第 11 段：计算机之害
 
@@ -611,6 +625,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：社交萎缩的政治后果。
 
+**段落逻辑：** 长期而言体系大体满足选民期待 → "然后计算机来了" → 脑力溢价加剧不平等 → 毕业生社会权力膨胀→自由派精英强加价值观→怨愤反噬选出特朗普 → 面对面社交骤降三分之二 → 政治辩论极端化、有毒化
+
 ### 第 12 段：AI 双刃
 
 > **原句 45:** AI could make everyone much richer by supercharging innovation.
@@ -661,6 +677,8 @@ title: What AI has in common with dogs
 
 **为什么这样写**：括号补充第三重危害，保持正文主线清晰。
 
+**段落逻辑：** 双刃展开：supercharge创新让所有人更富 → 同样supercharge数字技术的危害 → 大范围失业+maker/taker地位鸿沟+全面民主危机 → （恋爱机器人与政治造假加速社会原子化）
+
 ### 第 13 段：pro-worker AI
 
 > **原句 49:** His proposal is "pro-worker AI".
@@ -710,6 +728,8 @@ title: What AI has in common with dogs
 **表达方式**：thus increasing the demand for human teachers 是全段的论证妙笔——AI反而创造人力需求。
 
 **为什么这样写**：案例二以反直觉结论收束，证明 pro-worker 可行。
+
+**段落逻辑：** 处方："亲工人AI" → 定义：让劳动者借AI增值——猎人猎犬合流的类比回收 → 案例：电工借传感器与故障库排障 → AI助教分组定制教学，反而增加教师需求
 
 ### 第 14 段：总评
 
@@ -833,7 +853,7 @@ title: What AI has in common with dogs
 
 **为什么这样写**：终章金句：军备竞赛逻辑+犬类类比的终极兑现，余味冷峻。
 
-**段落逻辑：** 难以反驳 → 补充而非冗余则动荡少 → 但how悬而未决 → 两书皆 disappointing → 无意间照亮书写之难 → 民意悲观2:1、仅2%嫌慢 → 新狼必被请进洞 → 美中对手 → 都不想当无犬的尼安德特人
+**段落逻辑：** 方案难以反驳 → 补充而非冗余则动荡更少 → 但how悬而未决 → 判词：两书皆令人失望 → 无意间照亮书写剧变技术之难 → 民意悲观2:1、仅2%嫌慢 → 新狼终将被请进洞 → 美中竞赛：谁都不想当无犬的尼安德特人
 
 ## 词汇分级
 

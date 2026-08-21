@@ -239,6 +239,8 @@ title: Why conservatives can't stop talking about women's basketball
 
 **为什么这样写**：政治化升级至司法话语。
 
+**段落逻辑：** Cunningham遭Carrington凶狠犯规 → 部分保守派解读为对她言论的报复 → 佛州总检察长暗示若在佛州将以殴击罪起诉
+
 ### 第 5 段：种族维度
 
 > **原句 16:** The foul (pictured) brought another element of this saga into sharper focus: race.
@@ -428,6 +430,8 @@ title: Why conservatives can't stop talking about women's basketball
 **表达方式**：司法胜利与舆论攻势的时间咬合。
 
 **为什么这样写**：乘胜追击的第二个动机。
+
+**段落逻辑：** 设问：为何此刻按动议题按钮 → 中期临近，选民聚焦生活成本=执政党软肋 → 种族与跨性别是把民主党描绘成脱离现实的更优地形 → 6月最高法院禁令胜诉，乘胜追击
 
 ### 第 8 段：收尾
 

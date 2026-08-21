@@ -331,6 +331,8 @@ title: The problem with Republican fundraising
 
 **为什么这样写**：量化特朗普的个人权重。
 
+**段落逻辑：** Trump擅吸金（$1m一席晚宴） → 但钱流进super PAC而非候选人 → MAGA Inc占$400m=总统仍是权力之源
+
 ### 第 6 段：不分享
 
 > **原句 23:** He looks reluctant to share it.

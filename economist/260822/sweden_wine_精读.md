@@ -175,6 +175,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 
 **为什么这样写**：小而快的辩证定位。
 
+**段落逻辑：** 从业者定调："年轻的葡萄酒国度" → 制度锚点：欧盟酿酒许可1999年才批 → 规模基线：约50家商业酒庄 → 小而快的辩证：销量桶中一滴、增长迅速
+
 ### 第 3 段：晚宴插曲
 
 > **原句 11:** At the Nobel banquet, Mr Dahl moonlighted as a waiter so he could hear what the diners thought.
@@ -212,6 +214,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 **表达方式**：口语引证的现场感。
 
 **为什么这样写**：以好奇收束插曲。
+
+**段落逻辑：** 人物轶事软化数据段：Dahl客串侍者偷听食客评价 → 兴趣浓到藏不住：很快被认出、受邀介绍 → 口语收尾："他们的问题太多了"
 
 ### 第 4 段：气候双刃
 
@@ -299,6 +303,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 
 **为什么这样写**：冷凉产区的经典辩护词。
 
+**段落逻辑：** 承接好奇：瑞典能酿酒本身就令人惊讶 → 第一驱动力：变暖has helped，但也"对我们也是坏事" → 总体更暖却不可预测：2018以来季季不同 → 补偿机制：漫长夏日充足日照催熟，慢熟反而增添风味
+
 ### 第 5 段：Immelen 配方
 
 > **原句 21:** Immelen is a blend.
@@ -360,6 +366,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 **表达方式**：this correspondent 的Economist记者自称回收#12手法；以法国名区作味觉坐标系。
 
 **为什么这样写**：以权威参照系为品质背书。
+
+**段落逻辑：** 配方解剖：混酿 → 主力三分之二Solaris（1975年雷司令×灰皮诺之后裔、全国种植最广） → 点缀Souvignier Gris+一小撮Muscaris → 出人意料地饱满、全无冷凉酒的生青 → 权威坐标：高端Sancerre既视感
 
 ### 第 6 段：新北欧料理引擎
 
@@ -423,6 +431,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 
 **为什么这样写**：段落逻辑收束——酒庄与餐桌的共生。
 
+**段落逻辑：** 第二引擎升格入场：新北欧料理的兴起（哥本哈根-马尔默轴心） → 地区品牌：斯科讷="北欧托斯卡纳"饕客目的地 → 生态白描：季节品鉴菜单俯拾皆是+采集者供材 → 双名厨落地背书 → 逻辑闭环：本地酒配本地菜
+
 ### 第 7 段：历史伏笔
 
 > **原句 31:** History has also played a part.
@@ -484,6 +494,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 **表达方式**：doorstep 的空间亲近感；疫情作为意外的产业加速器。
 
 **为什么这样写**：时代事件的红利面。
+
+**段落逻辑：** 第三驱动引子：历史也出了一分力 → 1957-85年政府健康运动：劝民以葡萄酒代烈酒 → 酒文化恰逢廉价欧旅=酒庄旅游习惯 → 当下兑现：在家门口就能做到 → 疫情红利：出不了国的酒评人转向本土葡萄栽培
 
 ### 第 8 段：Systembolaget 悖论
 
@@ -547,6 +559,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 
 **为什么这样写**：管制的甜头兑现。
 
+**段落逻辑：** 最反直觉角色登场：国家专卖局Oddly也帮忙 → 条款：禁柜台售瓶、可店内饮用 → 准入门槛：稳定的品质与产量 → 外部大师定性："非凡的质量控制机制" → 甜头兑现：获批后分销实际由政府包办
+
 ### 第 9 段：丹麦对照
 
 > **原句 41:** The contrast with neighbouring Denmark, which lacks such restrictions, is telling.
@@ -584,6 +598,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 **表达方式**：experimentation/variation 的自由-混乱对价。
 
 **为什么这样写**：两种制度哲学的等式总结。
+
+**段落逻辑：** 自然实验设计：与无此类限制的丹麦对照，telling → 数字三联：丹麦葡萄园公顷更少、生产者约三倍、风格谱系更宽 → 制度哲学等式：更多实验，但更大的品质波动
 
 ### 第 10 段：改革与展望
 
@@ -646,6 +662,8 @@ title: World-class wine is being made in a corner of Sweden. Yes, Sweden
 **表达方式**：回收开篇 Nobel banquet 意象完成环形结构——诺奖晚宴成就了它的亮相，而看清未来无需诺奖。
 
 **为什么这样写**：以首尾呼应的金句收束全文，举重若轻。
+
+**段落逻辑：** 转折：瑞典也在变 → 游说成果：2025年6月起cellar-door sales → 谨慎边界：仅限≥30分钟教育体验内销售+六年试点 → 诚实定位：产业仍在襁褓、缺乏悠远酿造史 → 环形收束：看清潜力不需要诺贝尔奖
 
 ## 词汇分级
 

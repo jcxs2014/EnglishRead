@@ -314,6 +314,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：结构性差距的公司级例证。
 
+**段落逻辑：** 最新攻击证明：水务非唯一受威胁基础设施，但格外易渗透 → 监管落差对照组：电网须满足FERC监督的标准 → 水务零要求 → 结构根源：电力公司更大、更有钱、监管更严（PG&E/Duke数百万家庭）
+
 ### 第 5 段：水的本地性
 
 > **原句 21:** Water—heavy and expensive to move—is more localised.
@@ -376,6 +378,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：历史前科两连击。
 
+**段落逻辑：** 自然根源：水沉重且搬运昂贵→格局本地化 → 量化：约九成水司地方政府所有、各家服务不足万人 → 资源传导：没钱加固常已过时的计算机系统 → 前科两连：2013纽约小坝被黑近三年无人上报、2023宾州水泵被夺
+
 ### 第 6 段：国家级威胁
 
 > **原句 26:** Iran's hackers are prolific; on August 18th federal prosecutors charged 17 Iranians with attacking the systems of universities and companies to steal research and intellectual property.
@@ -401,6 +405,8 @@ title: Why the world's richest country can't defend vital infrastructure
 **表达方式**：burrow 动物打洞隐喻的潜伏感；sabotage 战争术语。
 
 **为什么这样写**：威胁图谱升级至最高烈度。
+
+**段落逻辑：** 威胁图谱升至国家级行为体 → 伊朗黑客多产：17人被诉窃取科研与知识产权 → 更大阴影：Volt Typhoon预置破坏、钻入美国关键基础设施
 
 ### 第 7 段：低门槛入侵
 
@@ -464,6 +470,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：案例二的技术根因。
 
+**段落逻辑：** 威胁光谱下探：弱技能者也能闯入 → 案例：2019堪萨斯前雇员旧凭证关停净水（自称醉酒——括号冷幽默佐证易得手） → 案例：2021 Oldsmar调高氢氧化钠投毒未遂 → 技术根因：操作员电脑运行TeamViewer远程工具
+
 ### 第 8 段：入侵路径
 
 > **原句 33:** The latest intrusions were relatively simple.
@@ -513,6 +521,8 @@ title: Why the world's richest country can't defend vital infrastructure
 **表达方式**：plead 的无力感——监管无牙，只能恳求。
 
 **为什么这样写**：治理工具箱空空的证据。
+
+**段落逻辑：** 最新入侵相对简单 → 路径命名：攻破OT系统——网络与物理世界的界面 → 门槛羞辱：无需魔法，常直连公网、凭证孱弱if any → 治理现状：联邦官员两次恳求运营商断网
 
 ### 第 9 段：监管失败史
 
@@ -564,6 +574,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：监管阵亡确认。
 
+**段落逻辑：** 失败史总起：在这床碎片拼布上强制标准的努力大多失败 → Biden时期EPA试图强制各州审查上报 → 阵容点名：三州共和党检察长+AWWA+NRWA以federal overreach起诉 → 法院发出stay后，EPA退缩
+
 ### 第 10 段：国会迟缓
 
 > **原句 41:** When Congress has acted, measures have been minimal and slow to take effect.
@@ -601,6 +613,8 @@ title: Why the world's richest country can't defend vital infrastructure
 **表达方式**：时间跨度的悬置句读强化荒诞。
 
 **为什么这样写**：官僚速度的实证。
+
+**段落逻辑：** 即便国会行动：措施minimal且生效slow → 立法样本：2022年CIRCIA责成72小时内上报重大攻击 → 荒诞刻度：实施细则预计9月才敲定——四年多过去
 
 ### 第 11 段：新动能
 
@@ -640,6 +654,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：引出下一组。
 
+**段落逻辑：** 转折：如今或有更多势头 → 民间方案：公民黑客DEF CON Franklin联手NRWA发起Water Watch Centre，私企网安支援小水司 → Klobuchar/Schiff法案并非唯一在议提案
+
 ### 第 12 段：共和党方案
 
 > **原句 47:** On August 5th the AWWA, which resisted the Biden administration's proposals, endorsed the Water Risk and Resilience Organisation Establishment Act, sponsored by Rick Crawford, a Republican congressman from Arkansas.
@@ -677,6 +693,8 @@ title: Why the world's richest country can't defend vital infrastructure
 **表达方式**：tweak 的轻量调整词汇暗示保守派偏好市场激励而非强制。
 
 **为什么这样写**：共和党路线的第二支柱。
+
+**段落逻辑：** 共和党路线入场：曾抵制拜登方案的AWWA转而背书Crawford法案 → 机制：独立机构起草最低标准+EPA监督，镜像电力体系 → 同日第二支柱：Cotton致函财长促税码改革、以激励代替强制
 
 ### 第 13 段：Trump 变量
 
@@ -728,6 +746,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：结论句。
 
+**段落逻辑：** 关键变量：华盛顿速度很大程度系于特朗普 → 预算案9月上会：战争部+44%至$1.5trn → 内容：伊朗战争经费+"Golden Dome"导弹盾 ——盾的资源给了天上的盾 → 对照句：他对保卫美国用水兴趣寥寥
+
 ### 第 14 段：削减与否认
 
 > **原句 54:** His budget would cut the EPA's biggest source of funds for water cyber-security by almost 90%.
@@ -778,6 +798,8 @@ title: Why the world's richest country can't defend vital infrastructure
 
 **为什么这样写**：治理真空的制度证据。
 
+**段落逻辑：** 兴趣寥寥的具体化：EPA水网安全最大资金源砍近90% → 总统言行实录：甩锅"corrupt"州长Walz+否认存在伊朗攻击（两个从句互相拆台） → 制度证据：CISA陷入混乱——领导动荡、士气低落、裁员三分之一
+
 ### 第 15 段：收尾
 
 > **原句 58:** The Senate may push him to do more after it returns from recess.
@@ -803,6 +825,8 @@ title: Why the world's richest country can't defend vital infrastructure
 **表达方式**：现在进行时的持续威胁感；与副题 move more slowly than hackers 形成终极呼应——制度的慢 vs 攻击的快。
 
 **为什么这样写**：以最短句承载最重的紧迫性，全文戛然而止。
+
+**段落逻辑：** 最后的制度希望：参院休会归来或推动其作为 → 终极对照：黑客不会等——制度的慢vs攻击的快，四词戛然而止
 
 ## 词汇分级
 

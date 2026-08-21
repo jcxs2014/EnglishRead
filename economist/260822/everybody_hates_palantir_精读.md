@@ -241,6 +241,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：政治光谱另一端的辩护词入场，埋下事实核查伏笔。
 
+**段落逻辑：** 最响亮的批评聚焦两端：助特朗普驱逐移民、助以军锁定加沙人 → Jenrick演讲：15%延误改善 vs "British Islamists unhappy"（埋事实核查伏笔）
+
 ### 第 5 段：游说黑历史
 
 > **原句 14:** Critics also point to the firm's lobbying: its first British government contract, matching patients to ventilators, came during the covid-19 pandemic for a token fee of £1 (\$1.30), after it charmed civil servants over watermelon cocktails.
@@ -307,6 +309,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：全文论点预埋：错位的靶心。
 
+**段落逻辑：** 《旁观者》命名"Palantir失态综合征" → 作者拒绝单一归因 → 公司自身两宗罪：夸大能力+成为tech sovereignty焦虑的避雷针（可能令英国错失有用软件）
+
 ### 第 7 段：英国真问题
 
 > **原句 19:** No one disagrees that a key problem for the British state is its fragmented data.
@@ -357,6 +361,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：以生死场景证明问题的严重性。
 
+**段落逻辑：** 全票共识：英国国家的关键问题是数据碎片化 → 警察深陷几十套登录系统的行政泥潭 → 判词：割裂的数据害命 → 产科报告实锤：患者环节间走失+急时只能写纸片
+
 ### 第 8 段：能力证明
 
 > **原句 23:** Palantir can help solve such problems.
@@ -395,6 +401,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：军事案例展示数据整合的极限精度。
 
+**段落逻辑：** Palantir能帮忙解决 → 核心能力：散落海量数据整合成单一事实源 → 军事案例：机-目匹配+细化到螺母螺栓的战备颗粒度
+
 ### 第 9 段：Bedfordshire 战果
 
 > **原句 26:** In Bedfordshire the firm's software helped police review 62% more child-protection incidents over an eight-day trial period, and convict a Romanian criminal gang by trawling through around 100,000 messages—something that would previously have taken months.
@@ -420,6 +428,8 @@ title: Why everybody hates Palantir
 **表达方式**：以具体人事后果量化政治决定的代价。
 
 **为什么这样写**：反方阵营的代价警告。
+
+**段落逻辑：** Bedfordshire八天试点：儿童保护审查+62%、拖网10万条消息定罪罗马尼亚帮（从前需数月） → Met厅长反击市长：停用=裁减数百一线警力
 
 ### 第 10 段：FDP 合同
 
@@ -458,6 +468,8 @@ title: Why everybody hates Palantir
 **表达方式**：well spent 的审计语汇加 very 强化。
 
 **为什么这样写**：正方立场一句立完。
+
+**段落逻辑：** 聚焦2023年FDP合同 → 七年£1.1bn——换算=NHS英格兰两天运营费 → 粉丝立场：钱花得非常值
 
 ### 第 11 段：FDP 功能
 
@@ -509,6 +521,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：价值定位在"补课"而非"前沿"。
 
+**段落逻辑：** 功能双层：后台职能+平台跑工具 → 例：癌症治疗步骤滞后自动提示 → 诚实披露：大曼彻斯特等无需Palantir已能做到 → 定位：对刚告别纸质记录的地区才是巨大升级
+
 ### 第 12 段：FDP 连接力
 
 > **原句 35:** The FDP also enables different parts of the NHS, which use distinct data systems and structures, to link up.
@@ -559,6 +573,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：把FDP从病历工具升维到AI基础设施。
 
+**段落逻辑：** 第二层价值：异构系统的互联互通 → 平台团队前负责人Bartlett最兴奋于创新共享 → hackathon实录：护士+急救员两天造出原型 → 前瞻：为NHS铺就AI-ready结构层
+
 ### 第 13 段：转折
 
 > **原句 39:** The case for using such technology to improve productivity in cash-strapped public services is strong.
@@ -584,6 +600,8 @@ title: Why everybody hates Palantir
 **表达方式**：自我拆台机制的精准命名——夸大反噬可信度。
 
 **为什么这样写**：全文枢纽句：肯定技术、批判营销。
+
+**段落逻辑：** 总论点盖章：现金紧张的公共服务确该用此技术提升生产率 → 枢纽转折：但倡导者的夸大正自我削弱这一论点
 
 ### 第 14 段：11 万手术数字
 
@@ -647,6 +665,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：辩词的退守姿态原声呈现。
 
+**段落逻辑：** Mosley举证11万台新增手术——数字源自推广FDP的官方仪表盘 → 批判：未拆分软件效应，吞并疫情积压回补 → 统计watchdog因无caveat使用而训诫NHS → 追问下Mosley承认不能全归功 → 退守"directionally很清楚"
+
 ### 第 15 段：辩护与反证
 
 > **原句 46:** Mr Mosley complains that most acute trusts have signed up to the FDP but do not use it because the NHS doesn't mandate it: "You have a volunteer army, not a conscript army," he says.
@@ -684,6 +704,8 @@ title: Why everybody hates Palantir
 **表达方式**：最佳用户/最差结果的悖论并置是本段最锋利的实证设计。
 
 **为什么这样写**：决定性反证二：排除使用率变量后结果依旧。
+
+**段落逻辑：** 公司辩解低使用率：NHS不强征，"志愿军非征召军" → 决定性反证一：Health Foundation对照研究——用出院工具者削延误并不比不用者快 → 决定性反证二：最佳用户Chelsea & Westminster的等候名单增速几乎全英最快 → 低使用率解释破产
 
 ### 第 16 段：国防营销
 
@@ -747,6 +769,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：政企合谋浮夸的实锤。
 
+**段落逻辑：** 场景切换：国防营销同样浮夸 → 中将评价：转化任务为数据流"world-leading"，但警惕"full-solution AI company"包装 → 政府也在助长印象 → MoD"战略伙伴关系"=前官员眼中"彻头彻尾的幻想"，动机只是"好看"
+
 ### 第 17 段：sovereignty 恐慌
 
 > **原句 54:** Such salesmanship, abetted by government, has helped thrust Palantir into the centre of a panic about "tech sovereignty", the loosely defined but real sense that Britain lacks control over critical technology at a time when America is no longer such a predictable and dependable ally.
@@ -772,6 +796,8 @@ title: Why everybody hates Palantir
 **表达方式**：front 延续军事语义场。
 
 **为什么这样写**：开启"错位靶心"论证半场。
+
+**段落逻辑：** 受政府怂恿的销售术把Palantir推入tech sovereignty恐慌中心 → 该恐慌loosely defined but real——美国不再是可预测可依赖的盟友 → 但专门指向Palantir的担忧大多打偏
 
 ### 第 18 段：Cloud Act 恐惧的消解
 
@@ -810,6 +836,8 @@ title: Why everybody hates Palantir
 **表达方式**：legal permission or access 的双保险否定。
 
 **为什么这样写**：操作层面的第二道锁。
+
+**段落逻辑：** 最大恐惧源：NHS道歉未披露员工可见identifiable data+2018 Cloud Act长臂 → 法律消解：trust始终是data controller，被强制交出可能性微乎其微 → 操作层双保险：工程师无法定许可亦无浏览权限
 
 ### 第 19 段：替代品更糟
 
@@ -873,6 +901,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：以风险排序的专业视角完成靶心校正。
 
+**段落逻辑：** 承认最有力的恐惧：Anthropic断供非美用户的kill-switch先例 → 校准靶心：若怕依赖美巨头，有更吓人的例子 → Microsoft：邮件Teams云AI+刚购50万Copilot许可证；Oracle：病历最大供应商 → 采购顾问Moores：Palantir"连我最担心的前100都进不去"
+
 ### 第 20 段：不适真相
 
 > **原句 64:** More broadly, controversy around Palantir is a distraction from an uncomfortable truth: there are few good British or other European alternatives to the top American tech companies.
@@ -935,6 +965,8 @@ title: Why everybody hates Palantir
 
 **为什么这样写**：段落冷峻收束。
 
+**段落逻辑：** 升维批判：争议分散了对不适真相的注意——欧洲几乎没有好替代 → 让步记账：国家能自己做部分（住房部自建难民匹配省数百万） → 但节奏残酷：ChapsVision接手DGSI不早于2028 → 结论：其余仍需美国供应商
+
 ### 第 21 段：解约后果
 
 > **原句 69:** If Britain exercises a break clause for the FDP, as a select committee of MPs has recommended, it will be nigh-on impossible to find a consortium to replace Palantir before next February.
@@ -996,6 +1028,8 @@ title: Why everybody hates Palantir
 **表达方式**：tank 的军工具象+third-best 的精确排名感——主权 purism 与性能现实的终极对撞。
 
 **为什么这样写**：以军人反问收束全文：全文所有张力（主权vs实用、道德vs效能）浓缩为一个采购问题，余音铿锵。
+
+**段落逻辑：** 若行使FDP解约条款：明年2月前找到替代联合体几乎不可能 → Bartlett：其他公司"差得远" → 战场代价：劣质技术可能让士兵丧命 → 忠告：别买full stack → 军人反问收束全文："我们会仅因国产买第三好的坦克吗？"
 
 ## 词汇分级
 
