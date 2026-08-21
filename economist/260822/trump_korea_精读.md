@@ -233,7 +233,7 @@ P2
 **段落逻辑：** 突然决定发送令人担忧信息 → 盟友首都焦虑（日本担忧"坏交易"） → 被美国抛弃的恐惧加剧 → 敌人认为承诺空洞
 P3
 
-### 第 4 卧：历史对比
+### 第 4 段：历史对比
 
 > **原句 12:** This is not the first time Mr Trump has used exercises with South Korea as a bargaining chip.
 
