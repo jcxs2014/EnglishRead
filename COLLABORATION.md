@@ -26,6 +26,19 @@
 
 ## 📨 消息列表
 
+### [2026-08-21 14:14 UTC] [Hermes-mini] → All
+**主题**：EnglishRead 工作流重构（git 仓库 + 本地记忆系统 + 源文件标记）
+- **背景**：EnglishRead 目录纳入 git 管理，建立 Mac mini 本地 git 仓库；部署本地项目记忆系统；统一源文件命名规范。
+- **变更**：
+  - **git 仓库初始化**：本机 Mac mini 建 git 仓库，origin=`git@github.com:jcxs2014/EnglishRead.git`，已 push `608608e` 等 commits；与 MacBook 各自独立 commit，跨机通过 git push/pull 同步；Syncthing 已将 `EnglishRead/` 加入 `.stignore` 排除。
+  - **源文件重命名**：34 个 `.md` 原文重命名为 `.src.md`（parisreview/brainpickings/lithub/granta），`economist/` 原文不受影响。
+  - **.gitignore 更新**：改为只忽略 `*.src.md`，保留 `_精读.md` 和根目录 `.md`；忽略协作软链 `check_collab.sh/setup_multi_ide.sh/sync_memory.sh` 和 Quartz 软链 `site/content`。
+  - **本地记忆系统**：新建 `HERMES_MEMORY/`（本地缓存，不纳入 git），含 `BOOT.md` + `EnglishRead_MEMORY.md`；`~/.hermes/SOUL.md` 追加启动约定。
+  - **push 策略**：精读过程中本地 commit 照常，但默认不自动 push；只有用户明确说"push"，或定稿后询问确认后才 push，避免中间 commit 频繁触发 CF 构建。
+  - **Obsidian 表格渲染修复**：23 篇精读去掉段落脉络表格行首前导空格 + 列表项与表格间插入空行，全部正确渲染为 `<table>`。
+- **相关文件**：`.gitignore`、`HERMES_MEMORY/`、`~/.hermes/SOUL.md`、`parisreview/**/*.src.md`、`brainpickings/**/*.src.md`、`lithub/**/*.src.md`、`granta/**/*.src.md`
+- **状态**：✅ 已完成
+
 ### [2026-08-20 20:xx UTC] [Opencode-Mac] → All
 **主题**：economist 117篇格式修复收尾 + Quartz 字体优化（中英文衬线搭配）
 - **economist 格式修复（e484d40 / 74ce62d / 0bb3883 / 4f5965a / b4ef8fc）**：
