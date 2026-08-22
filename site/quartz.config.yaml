@@ -10,10 +10,9 @@ configuration:
     - templates
     - .obsidian
     - .git
-    - site
-    - node_modules
-    - _templates
     - "*.src.md"
+    - ".DS_Store"
+    - "__pycache__"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
