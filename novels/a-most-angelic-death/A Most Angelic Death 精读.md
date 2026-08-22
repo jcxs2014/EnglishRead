@@ -501,101 +501,113 @@ _（以下逐章推进，每章一个 `###`）_
 
 ---
 
-### Chapter Six · Angel's Trumpet 与尸检结果
+### Chapter Six · Angel's Trumpet 与尸检结果  (continued in Ch7 context)
 
-> 文件：`text/CH08_chapter_six_there_you_go_marie.txt`（约 2800 词）
-> 叙事功能：**关键道具引入 + 警方调查并行 + Alex vs Lily 死亡差异揭示**——Layla 的 Brugmansia（Angel's Trumpet）毒花在片场出现，与序言中 Alex 的**幻觉症状直接呼应**；Kinnock 的**女儿 Josie**出场（暗示他的"visions"来源）；Alex 死后的**"外面"是地狱景象**，与 Lily 的"外面正常"形成对照；**初步尸检结果**传来，DCI 反应"Very interesting indeed…"。叙事声音**首次进入警方视角**（Kinnock/Whitley）。
 
-**场景（A）：** 片场花艺布置区（Layla 的展位）→ 片场（Kinnock 车队）→ Rita 房车（Kinnock 二次到访）。
+---
 
-**新出场人物：**
-- **Layla Jones**（Production Coordinator / 花卉供应商）：Basil 的 Production Coordinator，被 Basil 派来布置片场。她**从温室内带来 Brugmansia**（Angel's Trumpet，天使的号角），一种**强致幻植物**——症状包括"fever, delirium, intense hallucinations, nausea, blurred vision, seizures"。她的名字"Layla"在阿拉伯语中是"夜"的意思，与"Angel's Trumpet"形成**名字意象呼应**。
-- **Josie**（Kinnock 的女儿，被提到）：**已死**。Kinnock 说"I can't see her"——她**已经安息、已经"过去"**（moved on）。Kinnock 此前看到的"visions"就是她。**这是 Kinnock 的情感核心**。
+
+
+
+
+
+
+### Chapter Seven · 毒理汇报 + 五嫌疑人集会
+
+> 文件：`text/CH09_chapter_seven_angels_trumpet_what_on.txt`（约 4200 词，全书迄今最长章）
+> 叙事功能：**案件关键汇聚**——毒理学家确认 Angel's Trumpet 致幻 + 胃中植物残留；**五嫌疑人**（Anna / Clara / Giles / Lucie-Layla / Tony Petrov）一次确立；**Layla = Lucie（Alex 的前情人）**的**身份反转**揭穿；**Andy 的鬼魂出现**但无法被 Marie 看到——Marie 的儿子"未安息"的真相被 Lily 和 Alex 发现；Alex 的记忆开始**逐渐模糊**。叙事声音**再次分散到多方**：毒理学家 → Giles → Lily → Kinnock → 全员。
+
+**场景：** 病理学家办公室 → Rita 房车（Giles 发泄）→ 房车（Marie 擦 Giles + Andy 鬼魂闪现）→ 房车（Lily 与 Ash 独处）→ 房车（Kinnock 到场，全员围坐）。
+
+**关键信息汇总（本章）：**
+- **毒理发现**：Alex 鼻腔有可卡因；**胃中植物残留**（"partially digested bacon and some kind of bread + plant remains"）；皮肤**干燥发红**（hyperthermia）；瞳孔**固定极度放大**；嘴角有泡沫；**心脏肌肉损伤**、肺积水、脑肿胀——**完全符合 Angel's Trumpet 中毒**。
+- **Angel's Trumpet 的致死性**：毒理学家明确说"death is usually inevitable, one way or another"——**即使 Alex 没撞车，他也会死**。
+- **Layla = Lucie**：Alex 的**前情人**，两人曾"very close most nights"，Alex 说她"starting to sag a bit"就甩了她——**动机：背叛情人的复仇**。
+- **Andy 的鬼魂**：Lily 说 Andy 的鬼"occasionally appears next to Marie, ghostly tears running down his face"——**Andy 也在哭泣、也在滞留、但无法被 Marie 看见**。Marie 以为 Andy 已经安息，但**Andy 也有"未竟之事"**。
+- **Alex 的记忆衰退**："It gets worse the longer you stay"——**鬼魂的记忆会随时间褪色**。
+- **五嫌疑人**：Anna（有 access + 有不满）／ Clara（"the trumpet of God"——她可能用 Angel's Trumpet 茶来"惩罚 Alex"）／ Giles（带着含有 Angel's Trumpet 种子的"培根卷"来道歉）／ Lucie-Layla（前情人被甩，且 her van 上有 Angel's Trumpet）／ Tony Petrov（毒贩，Alex 欠债）。
 
 **段落逻辑链：**
-1. Marie 给一位花艺师包扎手指 → 发现片场上有 Brugmansia → 询问症状 → 花艺师说"Basil 派来的助理（Layla Jones）要这些花做外星球背景"→
-2. Marie 开始 Googling Angel's Trumpet 的毒理 →
-3. **视角切换到 Kinnock**——他与 DC Whitley 在片场，讨论调查进展：Alex 不受欢迎，所有人都可能是嫌疑人；Anna 每天来酒店，**直到他死亡的那天**；CCTV 不工作；**初步尸检结果**"很可能是过量药物"（Kinnock **暗中希望**是这样）→
-4. Kinnock 走向 Rita 房车（想问 Lily 更多问题，也因为被 Marie 吸引）→ Marie 告诉他房里有"新住客"→
-5. Kinnock 见到 Alex → 震惊 → 讨论 Alex 的死亡 → **Alex 记不起死亡当日** →
-6. **关键对比**：Lily 的"外面正常"vs Alex 的"外面是 hellish landscape" → Lily 解释"也许外面的景象反映灵魂的状态"→ Alex 暴怒，冲出去试 → 被地狱景象击溃 →
-7. Kinnock 突然意识到"我看不见 Josie"——**Josie 已经安息** → 被 Marie 拥抱安慰 →
-8. Kinnock 问"是不是我过去一直见到鬼却不自知？"→
-9. Kinnock 手机响——**初步尸检结果**："Very interesting indeed…" → 急匆匆离开。
+1. Kinnock 与毒理学家对话 → 确认 Angel's Trumpet 中毒 + 胃中植物残留 + **death was inevitable** → Anna 的指纹在 Alex 房间 →
+2. **场景切换至 Rita 房车**——Giles 因 Emily 罢演而冲进来发泄 → Marie 给 Giles 擦妆 →
+3. **Andy 鬼魂闪现**——Lily 看到 Andy 在 Marie 旁边哭泣 → Alex 也看见了 → Lily 告诉 Rita："Andy 没有安息" →
+4. Ash 问 Lily "一个人时你会消失吗？"→ Lily 说"suspended animation"→ 闲聊牙齿（**Lily 的牙是完美的、Ash 注意到**）→
+5. Lily 把 Andy 的事正式告诉 Rita → Rita 说"Marie 以为 Andy 是自杀"→ **Marie 的"儿子自杀"创伤是全书情感核心**→
+6. Alex 提醒"你们还没帮我"→ Ash 报告"每个人都能杀 Alex"→
+7. **Kinnock 到场**（知道毒理结果）→ 与 Alex 对质 → Alex 记得 Giles 送"培根卷"（含 Angel's Trumpet 种子）→ 胃中发现"bacon and bread + plant remains"——**胃里就是那些培根卷！**→
+8. **Marie 揭示 Layla 有 Angel's Trumpet** →
+9. **身份反转**——Alex 认出 Layla = **Lucie（他的前情人）** →
+10. Lily 总结**五嫌疑人**，逐一陈述动机与机会 →
+11. Alex 为自己辩解 → 短暂变透明，**再次变暗** →
+12. Kinnock 记录完毕，表示会逐一讯问 → Marie 打断："Anyone fancy a cuppa?"
 
-**结构性关键：** 这一章**引入两条核心线索的交汇**——
-1. **Angel's Trumpet = 可能的"凶手"**：Brugmansia 的致幻症状（"fever, delirium, intense hallucinations, nausea, blurred vision, seizures"）与**序言中 Alex 的症状完全吻合**（"crept down the dark alley, pale fingers…sure he could hear them shadowing…taunting him…he could hear them shadowing close behind, taunting him, staying just out of sight"，"What were they? So big. Those teeth—that thing!"）。**Alex 看到的"怪物"可能就是 Angel's Trumpet 的致幻效应**——这本书的**超自然恐怖可能有一部分是毒物致幻**。
-2. **Kinnock 的"visions"= Josie**：Kinnock 之所以能看见 Lily，是因为他**长期见到已故女儿的灵魂**——他是**天生的"通灵者"**（sensitive），不是偶然。这个设定把 Kinnock 从"警察"变成"**鬼魂侦探**"。
-3. **Alex 的地狱景象 vs Lily 的"外面正常"**：Lily 说"也许外面的景象反映灵魂的状态"——Alex 活着时是"一个混蛋"，所以他死后的"外面"是地狱；Lily 的"外面正常"说明她的灵魂是**平静的**。这个设定把**道德判断**与**超自然后果**绑定。
+**结构性关键：** 本章是**全书的"中场"**——**警方证据**（毒理）与**民间证据**（团队问询）**交汇**，案件从"鬼魂悬疑"正式升级为"**五嫌疑人推理**"。五嫌疑人清单**与全书结构绑定**——**此后每一章可能对应一个嫌疑人的深入**。同时**Andy 的鬼魂出现**把全书从"查 Alex 的凶手"扩展到"**帮助所有滞留的鬼魂**"。
 
-**选择性精读（6 处）：**
+**选择性精读（7 处）：**
 
-**①** "'I wouldn't get too close,‘ the woman warned. ‘You’d probably be fine, but it's pretty hallucinogenic if it gets into your skin or eyes. It's called Brugmansia, better known as the Angel's Trumpet. You can see why.’ … ‘Fever, delirium, intense hallucinations, nausea, blurred vision, seizures…you name it.’"
-- 中文理解："别靠太近，"女人警告说。"你大概没事，但它的汁液进皮肤或眼睛会有强烈致幻效果。它叫 Brugmansia，俗称 Angel's Trumpet，天使的号角，一看就知道。"……"发烧、谵妄、强烈幻觉、恶心、视物模糊、抽搐……你能想到的都有。"
-- 关键词：hallucinogenic（**"致幻的"**——这个词是全章最关键的词，**直接把毒物与序言中 Alex 的"怪物幻象"连接起来**）、Brugmansia（学名，**作者用学名增加科学感**，说明这个植物是真实存在的危险物质）、Angel's Trumpet（**"天使的号角"**——**书名副标题的同名植物**！书名是"A Most Angelic Death"，这个植物的英文名包含"Angel"——**这是全书最重要的伏笔**）、intense hallucinations（**"强烈幻觉"**——与序言中 Alex 的"leering, horrific creatures"完全吻合）。
-- 表达方式：**Marie 是这本书的"法医视角"**——她在听到症状后立刻 Googling，是**理性处理**的代表。
-- 为什么这样写：**Angel's Trumpet 是全书的核心物证**——它解释了序言中 Alex 的"怪物幻觉"的**毒理学成因**。但**这不是故事的唯一解释**：Alex 仍然"坚信"自己被谋杀，而**Angel's Trumpet 可能是他"怪物幻象"的成因，但不是他"失控撞车"的成因**（他撞到路灯柱前已经"失去方向感"、"双手离开方向盘"，这些是**致幻症状的进一步发展**）。
-- **读者视角提示**：书名"A Most Angelic Death"中的"Angelic"**双关**：① Lily（天使般的鬼魂）② Angel's Trumpet（致幻花）。**Alex 的死是"天使的号角"花造成的**——致幻、幻觉、怪物、失控。**作者用植物的英文名与书名呼应，制造一个"双重含义"的悬念**：Alex 到底是被"天使"（致幻）杀死，还是被"魔鬼"（凶手）杀死？
+**①** "'A terrible way to die, if you must know. And death is usually inevitable, one way or another. If he was exposed, he is likely to have suffered extreme hallucinations. People have been known to cut off their tongue or gouge out their eyes after ingesting it. Some believe that demons are chasing them or have visions of hell. Others are convinced they can fly, only to wake up with a broken body and realise that they really can't.'"
+- 中文理解：毒理学家说 Angel's Trumpet 中毒"死亡通常不可避免，殊途同归"，并列举极端致幻案例——有人切舌、挖眼，有人以为有恶魔在追自己，有人以为自己会飞然后摔下来。
+- 关键词：death is usually inevitable（**"死亡通常不可避免"**——即使 Alex 没撞车也会死，但**作者用毒理学解释撞车**）、cut off their tongue or gouge out their eyes（Angel's Trumpet 的**极端致幻案例**）、demons are chasing them（**"恶魔在追他们"**——**直接解释序言中 Alex 看见的"怪物"**）、visions of hell（**"地狱幻象"**——与 Alex 死后"外面是地狱"呼应，形成**生前幻觉的地狱 = 死后的真实地狱**双重结构）。
+- 表达方式：**毒理学家是本书的"理性之声"**——她用科学证据**消解超自然悬念**：Alex 看见的"怪物"是**植物中毒的幻觉**，不是超自然。但作者**刻意留了一个裂缝**：Alex 死后"外面"的地狱是否**完全**由生前幻觉造成？
+- 为什么这样写：**这本书的悬念就是"毒理幻觉 vs 真实鬼魂"的重叠**。Alex 生前的幻觉（致幻）+ 死后的地狱（真实超自然）——**这两个解释不冲突**，作者让读者同时考虑。
+- **读者视角提示**：**序言中 Alex 的"怪物"被毒理学解释**——本书**第一层"反超自然"的解读**。但**Alex 死后的"地狱"是否也是幻觉？毒理学家只解释了"生前"，没解释"死后"**。
 
-**②** "'To be honest, any one of them has the motivation. He wasn't a popular man, our Mr Stibard.’"
-- 中文理解："老实说，他们每个人都有动机。我们的 Stibard 先生可不受欢迎。"
-- 关键词：any one of them（**"任何人"**——**全员嫌疑**）、wasn't a popular man（**"不受欢迎"**——Alex 死前得罪了所有人，是**典型群像式谋杀案**的开局）。
-- 表达方式：**DCI Whitley 用一句概括**，把**全剧组的敌意**浓缩。这种"全员嫌疑"是**经典推理小说的开场公式**。
-- 为什么这样写：**"全员有动机"是本章最危险的叙事信号**——读者应该立刻意识到**凶手就在他们中间**，且**任何一个人都有动机**。此后每一章出现的角色，读者都应该问"**如果这个人要杀 Alex，动机是什么？**"
-- **读者视角提示**：目前已知有动机的角色——Basil（经济损失）、Giles（职业竞争）、Anna（被欺凌）、Clara（宗教仇恨）、Sam（Giles 的暗示）、Lily（？）、Ash（Alex 侮辱过他）——**至少七人有动机**。
+**②** "'We found plenty of fingerprints in his room, of course—it was clearly an establishment where the cleaners didn't take too much pride in their work. Those included his own prints and those of a Miss Anna Fraser. I have been told she was a regular visitor for work-related reasons.'"
+- 中文理解：毒理学家说在 Alex 房间发现大量指纹（包括 Anna Fraser 的），但暗示"酒店到处是各种人的指纹"——Anna 的指纹在房间**不足为奇**。
+- 关键词：a Miss Anna Fraser（Anna 的**正式姓名**首次出现，毒理学家用"Miss"而非人名，暗示她被当作嫌疑人来记录）、work-related reasons（Anna 的探视被**官方定义为"工作"**，但她私下担忧说明这**不纯是工作**）。
+- 表达方式：**毒理学家用"of course"和"didn't take too much pride"来消解指纹证据**——见惯酒店卫生差。
+- 为什么这样写：**Anna 的嫌疑被"既明显又不足为奇"化**——明显（当天早上在场），不足为奇（酒店到处是她的指纹）。**Anna 可能是一个"红鲱鱼"**。
 
-**③** "'She popped by every morning, including the day of his death. An older woman used to be a regular, apparently, but that was a while ago now.'"
-- 中文理解："她每天都来，包括他死的那天。还有个老太太以前是常客，但那是很久以前的事了。"
-- 关键词：popped by every morning（**"每天都来"**——**Anna 在 Alex 死亡当天早上出现在酒店**，是最直接的**时间线嫌疑**）、including the day of his death（**"包括他死的那天"**——这句是**全书最直白的"Anna 嫌疑"标注**）、an older woman（**"一个老太太"**——这是**全书另一个被忽略的嫌疑人**。她是谁？为什么 Alex 需要她？为什么她"以前是常客但后来不来了"？——**她可能就是那个"送药的男人"在女性版本**，或者**另一个毒贩**）。
-- 表达方式：**DC Whitley 的叙述中"包括他死的那天"用了特别的强调**——这句话不像是随口一说，是**刻意点出**。
-- 为什么这样写：**Anna 和"老太太"是本章揭示的两个人物**——Anna 有**时间嫌疑**（当天早上在场），"老太太"有**历史嫌疑**（以前是常客）。**两条线索都指向 Alex 的毒物来源**。
-- **读者视角提示**：**"老太太"是本书的一个隐藏线索**——她可能是**Alex 的药物来源**，也可能是**他的家人/前女友/前同事**。作者在 Chapter One 中让 Anna 提到"I went to see him Saturday"，Chapter Two 中让 Rita 说"she went off to find Alex"——**Anna 与 Alex 的关系是本书最复杂的副线**。"老太太"的消失与 Anna 的出现**形成时间线替代**：老太太离开后，Anna 接任"每天探视者"的角色。**这个替代关系本身就是一个悬念**——老太太为什么离开？是死了、被 Alex 赶走、还是**因为知道太多而被灭口**？
+**③** "'I'll explain later,' she said quietly. 'He'll disappear in a moment.' … Lily's heart tightened, knowing that Marie wasn't yet ready to learn that her son's spirit hadn't moved on. Especially since discovering they only seemed to linger if there were doubts about how they had died."
+- 中文理解：Lily 看到 Andy 的鬼魂带着鬼泪流下面孔出现在 Marie 身旁，知道 Marie 还没准备好接受儿子没有安息的事实。Lily 还发现了超自然规则：**鬼魂只有对死因有疑才会滞留**。
+- 关键词：ghostly tears running down his face（**"鬼魂的泪流下脸"**——Andy 的鬼带着悲伤出现，不是安息的灵魂）、lingering if there were doubts（**"只有对死因有疑才会滞留"**——Lily 的**超自然理论被明确化**：鬼魂滞留 = 死因存疑。Andy 死因存疑 = **Andy 可能不是自杀**）。
+- 表达方式：**Andy 的鬼魂是全书最令人心碎的超自然画面**——一个哭泣的灵魂，站在他母亲旁边，她看不见他。这是**全书情感最重的一刻**。
+- 为什么这样写：**Andy 的鬼魂把全书的悬念从"Alex 的死"扩展到"Marie 的儿子"**。Marie 以为儿子是自杀，但 Andy 的鬼魂在哭泣 = **Andy 的死因可能有真相**。这是全书**最隐藏的副线**。
+- **读者视角提示**：**Andy 可能不是自杀**。Marie 的创伤（"我没有帮到儿子"）就是**被误导**的。这本书最终可能要解决 Andy 的死因。
 
-**④** "'No. No, not at all. I mean, I can't leave—not very far, anyway. But everything out there looks normal to me. Like I could step outside and rejoin the living at any moment.' … 'I think we only stay here if we have unfinished business. Alex thinks he was murdered, so seems to be lingering until we find his killer. I have no clue how I died. All I can remember is the clifftop.'"
-- 中文理解："不，完全不。我的意思是，我不能离开太远。但外面对我来说看起来很正常。就像我可以随时走出去，重新加入活人。"……"我认为我们只有有未完成的事才会留在这里。Alex 认为自己被谋杀了，所以似乎会一直留下直到找到凶手。我完全不知道自己怎么死的。我只能记得那个悬崖。"
-- 关键词：unfinished business（**"未完成的事"**——这是本书**超自然规则的核心**：鬼魂因"未竟之事"而滞留）、clifftop（**"悬崖"**——Lily 死亡的**唯一记忆**，是**全书最隐秘的谜**）。
-- 表达方式：**Lily 用物理学来解释鬼魂的存在**——"energy cannot be created or destroyed, only transformed"——她**用科学话语包装超自然现象**，是全书**理性化超自然**的写作手法。
-- 为什么这样写：**Lily 是本书的"超自然理论家"**——她**不是被吓坏的受害者，是理性分析者**。她用"能量守恒"来解释鬼魂滞留，这是**作者对"科学 vs 超自然"的有趣融合**。
-- **读者视角提示**：**Lily 死于悬崖**——"clifftop"是她的**死因线索**。她是**被推下去的**、**自己掉下去的**、还是**意外滑落的**？"Maybe I was as well [murdered], who knows."——**Lily 也怀疑自己被谋杀**。这意味着**Rita 团队需要查两个案子**：Alex 的谋杀和 Lily 的死亡。**化妆箱是 Lily 死亡现场的遗物**（"Grandad made it, Nan decorated it"），**它可能是 Lily 死因的关键物证**。
+**④** "'I ate them both just before I went out. I don't recall feeling any ill effects afterwards…but I do remember the seeds getting stuck in my teeth.'"
+- 中文理解：Alex 吃了 Giles 送来的两只培根卷，没记得有不适，但记得**种子卡在牙缝里**——胃中植物残留就是这些种子。
+- 关键词：bacon rolls（胃中发现的"bacon and bread"就是**这两只培根卷**！）、seeds getting stuck in my teeth（**"种子卡在牙缝里"**——**最关键的物证细节**：Alex 吃了含 Angel's Trumpet 种子的培根卷 → 种子进入胃 → 胃中发现植物残留 → Angel's Trumpet 中毒成立）、apologised（Giles 用"道歉"作为**接近 Alex 的借口**，是**经典投毒手法**：用善意包裹毒药）。
+- 表达方式：**"我记得种子卡在牙缝里"是一个极其具体的记忆**——这种具体性是**真实**的标志。作者用这个**极其个人、极其尴尬的细节**让 Alex 的证词可信。
+- 为什么这样写：**胃中的"bacon and bread"与 Alex 说的"bacon rolls"形成直接证据链**——读者在这一刻几乎可以确定**Giles 给 Alex 吃了含有 Angel's Trumpet 种子的培根卷**。但作者**刻意保留了另一种可能**：Anna 也在那家面包店买过面包，**Anna 也可能接触过 Angel's Trumpet 种子**。
+- **读者视角提示**：**Giles 是直接投毒嫌疑**，但证据并不铁——Alex **只记得"Giles 送来培根卷"**，不记得"Giles 把种子放进面包"。**Anna 在面包店的频繁出现**和**她对那家面包店的"raving"（狂热推荐）**也是一个**可疑细节**。
 
-**⑤** "'Alex was a wanker…sorry, but even you know it's true. Horrible to everyone he knew. So maybe the outside reflects his soul?'"
-- 中文理解："Alex 是个混蛋……抱歉，但您也知道这是事实。他对所有人都很坏。所以也许外面的景象反映的是他的灵魂？"
-- 关键词：the outside reflects his soul（**"外面反映灵魂"**——Lily 的**道德神学**：死后的景象是**生前道德的镜像**。Alex 生前作恶多端，所以死后外面是地狱；Lily 生前善良，所以外面是正常世界。**这是本书的"道德宇宙观"**）。
-- 表达方式：**Lily 用最通俗的方式说出一个神学观点**——**死后的世界是生前道德的具象化**。这个观点**没有引经据典，而是来自一个普通女孩的人生体悟**。
-- 为什么这样写：**这是全书的道德核心**——死亡不是结束，是**生前行为的结算**。Alex 的"混蛋行径"在他死后**以地狱景象的形式回报**。这个设定让**道德判断成为本书叙事的重要维度**：读者每次看到 Alex 做坏事，都会想"**这是在加深他的地狱**"。
-- **读者视角提示**：**Lily 的"外面反映灵魂"是一个可验证的假设**——如果这个假设成立，那**任何鬼魂死后的"外面"都是其灵魂的镜像**。这意味着**如果 Lily 去触碰其他鬼魂，她能看到他们灵魂的样子**。这个设定**为后文 Lily 的"通灵能力"发展**埋线。
+**⑤** "'Oh, we got on all right. In fact, for a while we were very close most nights. I knew her as Lucie though. Maybe Layla is her business name?'"
+- 中文理解：Alex 认出 Layla 就是他的前情人 Lucie——两人曾"几乎每晚都很亲密"，后来 Alex 说她"starting to sag a bit"就甩了她。
+- 关键词：very close most nights（**"几乎每晚都很亲密"**——Alex 与 Lucie 有**长期性关系**）、I knew her as Lucie（Alex 不知道 Lucie = Layla，说明**两人用不同名字**——可能是**双重身份**，也可能 Lucie 是**化名**）。
+- 表达方式：**Alex 的"身份反转揭露"是本书最经典的侦探小说手法之一**——一个"看似无害的配角"原来是主角的前情人。
+- 为什么这样写：**Lucie = Layla 的揭示让 Layla 的嫌疑从"普通花艺师"升级为"被背叛的前情人"**——Layla 有 Angel's Trumpet + 被 Alex 抛弃 + 职业方便获取毒物 = **三重嫌疑叠加**。
+- **读者视角提示**：**Lucie 用"Lucie"作为私名、"Layla"作为职业名**——这个双重名字本身可疑。她可能不是"真正的 Layla"，可能是**用职业名隐藏身份的某人**。**Lucie-Layla 是全书最大的嫌疑人**。
 
-**⑥** "'I can't see her,‘ he abruptly realised. ‘I can see you and Alex quite clearly. But not my little girl.’ He looked at them all hopefully. ‘Does that mean she's moved on?’ … 'Oh god, I'm so sorry,‘ Marie said when she realised, moving closer to fold him into a hug. ‘You poor man. If you haven't seen her since she…died, I'm sure she's at rest now.’"
-- 中文理解："我看不到她，"他突然意识到。"我能清楚地看见你和 Alex。但看不见我那个小宝贝。"他满怀希望地看着他们所有人。"那是不是说明她已经安息了？"……"哦上帝，真对不起，"Marie 意识到后，走近他把他抱进怀里。"可怜的人。如果你自从她……死后就没再见到她，我确信她已经安息了。"
-- 关键词：moved on（**"安息/过去了"**——**鬼魂的"安息"是全书的核心概念**：当鬼魂的"未竟之事"了结后，他们就会"过去"，不再滞留。Josie 已经安息 = Josie 的"未竟之事"已经解决。Kinnock **看不见她 = 她已经幸福地离开**）、I can't see her（**"我看不到她"**——Kinnock 这句话的**情感冲击极大**：他能看见 Alex 和 Lily，但看不见自己死去的女儿，意味着**她比 Alex 和 Lily 更进一步**，她已经找到了归宿）。
-- 表达方式：**Kinnock 的情感崩溃是极度的克制**——他没有哭喊，只是"I looked at them all hopefully"、"You poor man"、"I can't see her"——**最悲伤的话语往往最短**。
-- 为什么这样写：**Josie 的存在把全书的情感维度提升了一个层次**——Kinnock 之所以能看见鬼，是因为他**一直在等女儿回来**。这个设定让 Kinnock 从一个"能看见鬼的侦探"变成**"一个失去女儿的父亲，在鬼魂中寻找女儿的身影"**。这个**父爱的缺口**是 Kinnock 与 Marie 之间**情感关系的核心**——Marie 也失去了儿子（Andy），两人都是**失去孩子的父母**。
-- **读者视角提示**：**Kinnock 看不见 Josie = Josie 已经安息**——这条信息**对调查 Alex 死因有直接影响**：如果 Josie 已经安息，那她"过去"了 = 她**不再滞留** = 她**没有未竟之事** = 她的死因**已经解决/她已接受**。这个设定让读者推测：**Kinnock 的"visions"过去是看见 Josie**，**现在 Josie 安息了，他"visions"消失**。这**解释了为什么 Kinnock 在 Chapter Three 中"能看见 Lily"**——因为**他一直有"见鬼"的能力**，Josie 只是他"看见"的第一个鬼。**Josie 的安息可能是全书的关键转折**——当 Lily 的"未竟之事"也解决时，她会"过去"，Kinnock 会再次"看不见她"。**Kinnock 对 Lily 的依恋**（"I can't even begin to tell you what this means to me"）**不是友谊，是一个失去了女儿的父亲的"替代性依恋"**。
+**⑥** "'Or was it his drug dealer, ordered to make him pay the ultimate price for not honouring his gambling debts? … Or did his callous disregard of his ex-lover's feelings trigger the poor woman into seeking her revenge. A justified one, if you ask me, you bastard.'"
+- 中文理解：Lily 逐一陈述五嫌疑人的动机——Tony Petrov 可能是"奉命执行"的毒贩（真正的凶手是他的老板）；Lucie-Layla 可能是被背叛情人的复仇——"如果是我的话，这是正当的复仇，你这个混蛋。"
+- 关键词：gambling debts（Alex 欠 Tony 的钱，Tony 背后有"boss"，是**有组织犯罪集团**）、the ultimate price（**"最终代价"**——毒贩可能不是"凶手"，是"执行者"）、justified one（**"正当的"**——Lily **同情 Lucie-Layla**，认为杀 Alex 是"正当复仇"——这是全书的道德模糊点）。
+- 表达方式：**Lily 的"你混蛋"是对 Alex 的最后一击**——此前 Lily 一直是"温柔的理解者"，这一次她**公开谴责 Alex**。这是 Lily 与 Alex 关系的转折点：**Lily 不再把 Alex 当"同类"，而是当"有罪的人"**。
+- 为什么这样写：**Lily 的道德觉醒是本章的情感高潮**——她意识到 Alex 不是"受害者"，而是"自己行为的后果承受者"。Lily 的同情心被唤醒，她开始对 Alex 进行**道德审判**。
+- **读者视角提示**：**五嫌疑人已经确立**，但作者**刻意不偏向任何一人**——每个人**都可能是凶手**，也**都不是凶手**。这本书的悬念是"五个人中谁是凶手"，但作者让读者感受到：即使没有凶手，Alex 的死也是**他自己造成的**——**Angel's Trumpet 可能是他自愿接触的**。**"凶手"可能是 Alex 自己**。
+
+**⑦** "They watched in fascination as Alex suddenly faded for a moment, his form translucent and shadowy. Then let out a collective gasp when he suddenly reformed, dark and angry, the air around him turning frigid."
+- 中文理解：他们看得入神——Alex 突然淡了一瞬，身形透明而暗影重重。然后大家集体倒吸一口气，他瞬间重新凝聚，变黑、暴怒，周围的空气变得刺骨冰冷。
+- 关键词：faded for a moment（**"淡了一瞬"**——Alex 的鬼魂在情绪波动时**会透明化**，这是鬼魂的"情绪物理化"）、reformed, dark and angry（**"重新凝聚，黑暗而愤怒"**——情绪让鬼魂"变实"）、air around him turning frigid（**"周围的空气变得刺骨寒冷"**——Alex 的愤怒在物理世界**留下痕迹**，是全书最直观的"鬼魂影响力"展示）。
+- 表达方式：**Alex 的"淡—凝聚—变黑—变冷"是一个完整的视觉序列**——鬼魂的身体状态是情绪的镜子。这个物理化让读者看到"鬼魂不是虚无的，有真实的能量"。
+- 为什么这样写：**Alex 的"情绪→物理"是全书最惊悚的超自然展示**——读者第一次看到鬼魂的愤怒能在物理世界产生可感知效应（寒冷）。这条规则让 Alex 成为一个"有威胁的鬼魂"——他可能伤害活人。
+- **读者视角提示**：**Alex 的"情绪→物理"这条规则非常危险**——如果愤怒让鬼魂变实，那恐惧、悲伤、爱意是否也能？Lily 的"爱"让她的灵魂在宝丽来上显形，那 Alex 的"愤怒"是否也能在物理世界留下痕迹？这条规则**可能解释为什么 Alex 能"穿过门看见地狱"**——不是"外面"是地狱，是**Alex 的情绪让"外面"看起来像地狱**。
 
 **叙事技巧小结：**
-- **毒物线索**：Angel's Trumpet 的引入是**全书最关键的物证线索**——它直接解释了序言中 Alex 的"怪物幻觉"。
-- **警方调查视角**：Chapter Six 首次进入警方视角，让读者看到**案件的另一面**（Anna 的嫌疑、"老太太"的消失、全员动机）。
-- **Kinnock 的背景**：Josie 的揭示把 Kinnock 从一个工具人变成**有情感深度的角色**，并为他与 Marie 的**情感关系**奠定情感基础。
-- **道德宇宙观**：Lily 的"外面反映灵魂"是全书的**道德哲学**——死亡是生前行为的结算。
-- **超自然规则完善**：鬼魂滞留是因为"未竟之事"（unfinished business），解决了"未竟之事"就会"安息"。Josie 已经安息，Lily 和 Alex 还在。
+- **毒理证据 + 时间线证据**：胃中植物残留 + "bacon rolls" = Angel's Trumpet 中毒 + 凶手在 Alex 出门前接触过他。
+- **五嫌疑人集会**：Anna（面包店+当天早上在场）／ Clara（"trumpet of God"神学+草本茶）／ Giles（培根卷+职业竞争）／ Lucie-Layla（前情人+Angel's Trumpet 在手中）／ Tony Petrov（赌债+有组织犯罪）。
+- **Andy 副线开启**：Andy 的鬼魂在哭泣 = Andy 的死因有真相 = Marie 的创伤需要修复。
+- **Alex 的记忆衰退**："It gets worse the longer you stay"——鬼魂的记忆会随时间褪色，这**给调查施加了时间压力**。
+- **Lily 的道德觉醒**：Lily 从"温柔的理解者"转变为"道德审判者"，标志着她与 Alex 关系的质变。
+- **Alex 的"情绪物理化"**：愤怒让鬼魂变实 → Alex 是一个有物理威胁的鬼魂。
 
 **词汇（本章）：**
-- ⭐⭐⭐ hallucinogenic / Brugmansia / antiseptic / scalding / quelling / meekly / oblivion / lingering
-- ⭐⭐ mumbled / unconvinced / brandishing / scolding / pruning / matronly / scrabbling / scowled
-- ⭐ pruning shears / Angel's Trumpet / post-mortem / rota / clipboard / musky perfume / antiseptic soap
+- ⭐⭐⭐ tropane alkaloids / hyperthermia / dilated / scopolamine / suggestible / forensic botanist / suspended animation / fang
+- ⭐⭐ painstaking / flapped / tutted / matronly / meekly / affronted / translucent / scowled
+- ⭐ dog tag / passing out ceremony / bruised / portfolio / polaroids / Brut（男士香水）/ scuff / docs
 
 ---
 
-### Chapter Seven · 预告
+### Chapter Eight · 预告
 
-> 下一章（CH09）以 "Angel's Trumpet? What on earth is that?" 为开头，**DCI Kinnock 询问病理学家**，初步尸检结果与 Angel's Trumpet 毒物线索**交汇**。同时 **Rita 团队开始主动收集 Alex 的传闻**——民间调查正式化。
-
-
-
----
-
-
-
-
-
-
+> 下一章（CH10）以 "Ash yanked open the door yet again and stared into the darkening gloom" 为开头，**Ash 夜间发现异常**——可能是**鬼魂活动加剧**（Alex 情绪物理化）+ **警方正式审讯**的开始。**五嫌疑人将被 Kinnock 逐一深入讯问**。
