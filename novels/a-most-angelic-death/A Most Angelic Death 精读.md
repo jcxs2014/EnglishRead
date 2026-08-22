@@ -333,9 +333,182 @@ _（以下逐章推进，每章一个 `###`）_
 
 ---
 
-### Chapter Four · 预告
+### Chapter Four · Alex 的鬼魂到场
 
-> 下一章（CH06）以 **Rita 的凌晨**为时间锚点（"tick of Rita's bedside clock"），可能是**另一条时间线**（闪回）的开端。Sam 的命运、化妆箱的秘密、Kinnock 的"visions"——三条线即将汇合。
+> 文件：`text/CH06_chapter_four_the_soft_relentless_tick.txt`（约 3000 词）
+> 叙事功能：**超自然规则全面展开 + 主角团队扩容**——Alex 以鬼魂形式回到 Rita 房车，与 Lily 建立"同类相触"关系；Lily 发现**化妆箱是"生-死通道"**；Rita 正式发起**民间调查**；Ash 与 Alex 爆发暴力冲突。叙事声音从 Lily 主视角切入（"The soft, relentless tick of Rita's bedside clock burrowed deeper and deeper into Lily's brain"），是全书第一次**以鬼魂视角**书写。
+
+**场景：** Rita 房车夜间（Lily 失眠）→ Alex 鬼魂现身 → Marie/Ash 破门 → 全员围坐。
+
+**关键新设定（超自然规则）：**
+- **死-死相触**：Lily 能触 Alex（两人皆死），Alex 不能触活人；Lily 触活人也穿透——**只有"同类"能互相接触**。
+- **化妆箱通道**：Lily 能从化妆箱里"取出"实物（粉底液、爽身粉），且"真正的箱子在 Rita 手里是关着的，但 Lily 的箱子和它**叠合**了"——化妆箱是**生死两界的通道**。
+- **死魂不能离开房车**：Alex 推开门"上半身穿过门，外面是无尽的冰冷虚空和那声音"；Lily 也"永远只能坐窗外看世界，走不出几步就会被某种东西拉回来"——**鬼魂的"活动半径"被魔法器物锁定**。
+- **死因伤痕残留**：Lily 的死因伤痕**残留在灵魂上**，"仍然会痛"——创伤性死亡会留下"死亡印记"。
+- **鬼魂无法入睡**：Lily 只要活人在身边就**被迫清醒**——"As long as someone living was near her case, Lily would be wide awake."
+- **鬼魂的"视野"**：活人看不见鬼，但"所有活人都看得见 Alex"——**每个活人都能看见 Alex 的鬼**（和 Lily 不同），这是 Alex 的"异常之处"。
+
+**段落逻辑链：**
+1. Lily 失眠（时钟噪音）→ 回忆 Alex 之死 + 自己的死亡（ cliff, slipped, hit rocks）→
+2. Alex 鬼魂在房车中醒来（失忆 + 失禁 + 头痛）→
+3. Alex 试图掀被子，手穿过 Rita 身体 → Lily 愤怒挥掌打 Alex → 手穿透脖子 → Rita 尖叫 →
+4. Marie 带刀破门 + Ash 赶到 → 全员围坐 →
+5. Lily 握 Alex 的手（成功）→ Alex 意识到自己死了 → Lily 提议**找出他的凶手** →
+6. Alex 坚持"有人想杀我"，变黑、空气变冷 →
+7. Lily 试用化妆箱"给 Alex 化妆"（把腐烂外观盖住）→
+8. Alex 与 Ash 爆发冲突（Alex 挖苦 Ash 的爸"软蛋"）→ Ash 出拳打空 → Alex 威胁 →
+9. Rita 部署调查任务：Marie 联系 Kinnock，Ash 和 Rita 收集 Alex 的传闻 →
+10. Alex 想出门，"穿过门"看见虚空 → 确认他也被困 → 结束夜话。
+
+**结构性关键：** 这一章**一次性建立了全书的超自然物理法则**，并把故事从"Alex 的谋杀案"升级为"Rita 团队的**超自然侦探**任务"。**Rita 自己说出"living in a real-life story"**——这是**meta 叙事**：Rita 清楚自己活在**一部侦探小说里**，她把现实当作小说来对待。
+
+**选择性精读（6 处）：**
+
+**①** "The soft, relentless tick of Rita's bedside clock burrowed deeper and deeper into Lily's brain as she lay on the bunk, eyes wide open, desperately wishing she could at least sleep. But Rita's soft snoring on the other side of the motorhome meant there was no escape for her. As long as someone living was near her case, Lily would be wide awake."
+- 中文理解：Rita 床头钟轻柔却无情的滴答声，越来越深地钻进 Lily 的大脑——她躺在上铺，眼睛睁得大大的，拼命希望能睡个觉。但房车另一头的 Rita 的鼾声让她无处可逃。只要活人在她的化妆箱附近，Lily 就得睁着眼醒着。
+- 关键词：burrowed（**"钻、挖"**——时钟的声音不是"被听见"，是**主动入侵**）、relentless（**"无休无止"**——时间对死人是**刑罚**而非流逝）、wide awake（**被迫清醒**——Lily 的"存在"是**被动的、无选择的**）。
+- 表达方式：**以鬼魂视角写开篇**——这是全书第一次让读者**进入 Lily 的主观体验**。此前 Lily 是通过 Rita 的视角被观察的"他者"；现在读者能**感受到**她的孤独（活人睡觉，她不能）。
+- 为什么这样写：**视角切换到 Lily**是本章最大的叙事决策——它让读者**暂时脱离 Rita 的温暖**，进入"做鬼是什么感觉"的主观体验。Lily 的**无眠**是全书最持续的**情感底色**——死并非安息，是**无尽的清醒**。
+- **读者视角提示**：从此 Lily 的视角将成为**情感真相的来源**——她知道 Rita 不知道的事，能看到活人看不见的东西，也**承受活人感受不到的痛苦**。
+
+**②** "‘I’m sorry, Alex, really I am. But we're both dead. That's the only reason I can touch you. Look what happens when I try with Marie.’ … Alex's face crumpled to see the lack of resistance as her fingers passed through, leaving only goosepimples behind on the older woman's skin."
+- 中文理解："对不起，Alex，我真的对不起。但我们俩都死了。这是我能碰你的唯一原因。看看我碰 Marie 时会发生什么。"……Alex 看着 Lily 的手指毫无阻力地穿过 Marie 的手，只在她皮肤上留下一层鸡皮疙瘩，脸瞬间垮了。
+- 关键词：face crumpled（**"脸垮了"**——Alex 的**第一次情感崩溃**，与序言中"pale fingers"、Chapter Two 中"creased with worry"不同，这是**丧失自我的崩溃**）、goosepimples（"鸡皮疙瘩"——**活人被鬼触碰的生理反应**，是全书"超自然存在"的第一个**物理证据**）。
+- 表达方式：**Lily 用**身体演示**代替语言说服**——她不说"我是鬼"，她**展示**给 Alex 看。这是**最有力的"证明死亡"的方式**。
+- 为什么这样写：**Alex 的崩溃是本章的情感锚点**。他此前的傲慢、愤怒、挖苦，都是**死者的否认**（grief denial 的第一阶段）。这一刻，否认崩塌，**承认死亡**，他才可能开始"寻找真相"。
+- **读者视角提示**：Alex 的**否认→崩溃**路径，也是**Lily 曾经走过的路径**——读者现在回头想起 Chapter One 里 Lily 说"I died"时的平淡，就知道 Lily 也是这么熬过来的。**Lily 是在 Alex 身上看到了"过去的自己"**——她"impulsively went up to him and grabbed both of his hands"（主动冲上去握手）这一动作的**心理动机**：Lily 想拉 Alex 一把，就像当年没有人拉她。
+
+**③** "She hurried over to her old makeup box and hesitantly touched the lid. Realising it felt solid, she lifted it, reached in and triumphantly pulled out a bottle of foundation. Rita's eyes widened when she realised the actual box was still closed, Lily's open box superimposed over the top, a faint glow surrounding both it and the bottle Lily was brandishing."
+- 中文理解：她快步走到旧化妆箱前，犹豫着碰了碰盖子。发现它竟然是**实心的**，她把它打开，伸手进去，得意地拿出一瓶粉底液。Rita 睁大了眼睛——她发现**真正的箱子还是关着的**，Lily 的那只打开的箱子**叠合**在上面，箱子和粉底液周围都笼罩着一层淡淡的光晕。
+- 关键词：hesitantly touched the lid（**"犹豫着碰"**——Lily **不确定**化妆箱是否能被她操控，这本身就是一种**自我发现**的时刻）、solid（**"实心的"**——这是关键：**化妆箱对 Lily 来说是"可触的"**，但对活人是"物理封闭"的——它是**Lily 专属的物理界面**）、superimposed（**"叠合"**——两个箱子在**不同维度上共存**）、faint glow（**"淡淡的光晕"**——化妆箱的**魔法可见化**，是全书**超自然能量的视觉标识**）。
+- 表达方式：**这一幕是"魔幻现实主义"的典型手法**——日常物品（化妆箱）被赋予**超自然属性**，但描述方式是**极其写实的**（Rita 睁大眼睛、Lily 得意地"triumphantly pulled out"）。
+- 为什么这样写：**化妆箱被确认为"魔法媒介"**——它是 Lily 与物质世界的唯一通道，也是她**施展"化妆术"**的工具。这一幕把 Lily 从"被动的鬼"变成"**主动的参与者**"——她能做事，能改变外观，能**帮助活人**。
+- **读者视角提示**：**化妆箱是全书的关键道具**——谁控制它，谁就控制 Lily 的行动力。此后若化妆箱被移动、毁掉或被活人拿走，Lily 就会失去行动力。**化妆箱的安全 = Lily 的安全 = 全书的核心悬念**。
+
+**④** "‘I don't know anything else…but I am certain of that.’ To see him brighten was a relief to them all. Yet the darkness still shadowing his eyes troubled Marie."
+- 中文理解："我不知道其他什么……但我确信有人想杀我。"看到他一下子亮起来，大家都松了一口气。但 Alex 眼中依然笼罩着的黑暗还是让 Marie 担忧。
+- 关键词：certain of that（**"确信"**——Alex 的**唯一信念**）、darkness still shadowing his eyes（**"眼中的黑暗"**——既指**死者的灰暗**，也指**他灵魂中的愤怒与执念**），the darkness shadowing his eyes troubled Marie（Marie 的**母性直觉**——她看得出 Alex 不只是悲伤，是**危险**）。
+- 表达方式：**Alex 的愤怒被描写为"身体变黑 + 空气变冷"**——"his whole body beginning to darken. The air around him crackled slightly"。**鬼魂的愤怒是可见的、可感知的**。
+- 为什么这样写：**Alex 不是"无辜受害者"**——他活着时就是一个混蛋，死了依然是。他要求 Rita 团队为他"复仇"（"I want revenge on the bastard that got me killed"），**不是要正义，是要报复**。Marie 的担忧是**道德警告**：团队不该被 Alex 利用去行私刑。
+- **读者视角提示**：Alex 的"复仇欲"是一个**潜在的道德陷阱**——Rita 团队是**正义的人**，但 Alex 要求的是**私刑**。他们之间的**道德分歧**将是全书**情感张力**的来源之一。
+
+**⑤** "‘You stink,’ he said, pointing at Alex. ‘Clearly you pissed yourself while you were drunk or high, or whatever you were. And you look terrible. If you're going to stay here, there must be something we can do to make you look and smell better?’"
+- 中文理解："你臭，"Ash 指着 Alex 说。"显然是你喝醉或嗑药时尿了裤子，不管你是哪种情况。你看起来也糟透了。如果你要待在这儿，总得想办法让你看起来、闻起来好点吧？"
+- 关键词：You stink（**"你臭"**——Ash 第一句话就**消解了 Alex 的"死者尊严"**，把一场灵异事件拉回**日常幽默**）、pissed yourself（**"尿了裤子"**——把 Alex 在序言中"trickled down his leg"的血/尿还原成**尴尬的真相**）、look and smell better（**"看起来和闻起来好点"**——Ash 的核心逻辑是**实用主义**：你臭就除臭，别管你死没死）。
+- 表达方式：**Ash 的"幽默"是全书的调味剂**——他在一群紧张、悲伤、震惊的人中，突然说"You stink"，把气氛从**恐怖**拉到**黑色幽默**。
+- 为什么这样写：**Ash 是本书的"现实主义锚"**——他不会被超自然吓到，不会被鬼魂感动，他只会问"能不能除臭"。这种**极度务实的幽默**让全书的**恐怖感保持平衡**，不至于变成纯鬼故事。
+- **读者视角提示**：Ash 对 Alex 的态度——**不敬畏、不同情、直球攻击**——是**本书"反恐怖"的核心手法**：作者不让鬼魂获得传统恐怖小说中的"畏惧特权"。
+
+**⑥** "‘We love you,‘ she added hurriedly. ‘We love you. But the thought of putting up with him doesn't fill me with joy.’ … ‘Yeah, get over yourself love. Being stuck here with you isn't my idea of a good time either. You're not exactly a looker…nice legs, shame about the face. Know what I mean?’"
+- 中文理解："我们爱你，"她急忙补充道。"我们爱你。但想到要忍受他，我就觉得不快乐。"……"是啊，别太把自己当回事，亲爱的。被迫跟你们待在一起也不是我的享受。你长得也不怎么样……腿还行，可惜这脸。懂我意思吧？"
+- 关键词：get over yourself（**"别太把自己当回事"**——Alex 的**惯用口头禅**，活着时用，死了继续用）、nice legs, shame about the face（**"腿不错，可惜脸"**——Alex 的**侮辱模式**：先给一句假褒，再用"可惜"转折到人身攻击——这是**经典的被动攻击话术**）。
+- 表达方式：**Lily 的"爱"和 Alex 的"侮辱"被并置**——Rita 说"We love you"时急忙加补充，暴露了她**对 Alex 的厌恶**；Alex 回击的"nice legs, shame about the face"，是**典型的厌女 + 厌老双重侮辱**（Rita 五十岁、不算美女）。
+- 为什么这样写：**Alex 的灵魂没有因死亡而净化**——他活着时是"一个混蛋"，死了依然是。作者用 Alex 的**"死后人格不变"**来传达一个观点：**死亡不是救赎**，它只是**结束**。真正的改变必须发生在**活着的时候**。
+- **读者视角提示**：Alex 的死没有让他变得更好——**这本身就是本书对"死后世界"的态度**：**没有天堂、没有审判、只有你自己**。
+
+**叙事技巧小结：**
+- **视角**：本章**首次切换至 Lily 视角**，让读者进入鬼魂的主观体验。此后视角将在 Rita 与 Lily 之间交替。
+- **超自然物理**：死-死相触、化妆箱通道、鬼魂活动半径限制、死因伤痕残留、鬼魂无眠——**五条规则一次建立**，比大多数奇幻小说更严谨。
+- **幽默与恐怖平衡**：Ash 的"You stink"和 Lily 的"triumphantly pulled out a bottle of foundation"——作者用**日常幽默**把**超自然事件**写得**像家务事**，这是本书**独特的风格**：哥特恐怖 + 英国乡镇幽默。
+- **道德张力**：Alex 要求"复仇"，Marie 担忧他"眼中的黑暗"——团队面临**是否帮 Alex 复仇**的道德选择。
+- **人物关系图（更新）**：Rita-Lily（爱+忠诚）、Lily-Alex（同类+导师）、Marie-Alex（母性关怀+道德担忧）、Ash-Alex（对立+仇恨）、Rita-团队（领导者）。
+
+**词汇（本章）：**
+- ⭐⭐⭐ relentless / burrowed / superimposed / languid / necrophilia / languidly / raucous / grimacing
+- ⭐⭐ crumpled / bulging / wistful / limping / brandishing / libidinous / desolation / preoccupied
+- ⭐ foundation / sponge / bronzer / Brut（男士香水品牌）/ bunk / void / seatbelt
+
+### Chapter Five · 宝丽来显形 + Giles 登场
+
+> 文件：`text/CH07_chapter_five_ash_smoothed_the_liquid.txt`（约 2200 词）
+> 叙事功能：**超自然规则第三条 + 反派正式入场**——Lily 出现在 Ash 的宝丽来照片上（"鬼魂显形"规则确立）；Giles 首次完整出场，被揭穿**未上过 RADA**；Giles 与 Alex 之间埋下一条**偷窥线**。叙事声音再次分散：Ash（化妆）→ Lily（显形）→ Alex（复仇觉醒）→ Giles（登场）。
+
+**场景：** Ash 化妆车内部。
+
+**新出场人物：**
+- **Giles Gibson-Shaw**：Alex 的替补，被 Basil 提拔为主角。自称受 RADA 训练、崇拜 Stanislavsky，但被 Ash 当场揭穿"是别人教过他，自己没上过学"。傲慢、伪善、嫉妒、控制欲强——**本书的核心社会反派**。
+- **Emily**（被提到）：Giles 暗示 Emily "Alex 死后对她表现出很多兴趣"——Emily 有**经济动机**（Giles 当主角 = 她拿更好的角色）。
+- **Clara**（被提到）：已经给 Sam 做过"反 Ash 布道"。
+
+**段落逻辑链：**
+1. Ash 给 Sam 化僵尸妆（liquid latex、wound、peeling skin）→ Lily 旁观并对 Sam 动心 →
+2. Ash 拿宝丽来给 Sam 拍照 → **照片上出现了 Lily**（两个身影并排）→ 全员震惊 →
+3. Lily 首次看到自己（"had almost forgotten what she looked like"）→ Alex 嘲讽 + 顿悟 →
+4. Alex 尝试《人鬼情未了》式触碰杯子失败（穿了过去）→ Ash 警告"Lily，我们得盯着他" →
+5. Lily 模仿 Alex，试图推杯子，手穿过桌子打中 Alex 的裆部（黑色幽默）→
+6. Giles 闯入 → Rita 安抚 → Giles 自夸 Stanislavsky / RADA → 被 Ash 揭穿 →
+7. Giles 声称 Alex 曾在健身房偷窥他 → Lily 反问"你为什么会看着他？" → Giles 改口"监视他吸毒" →
+8. Giles 暗示 Emily 对 Alex 死后"表现出了很多兴趣" →
+9. Rita 宣布重排 Alex 的死场戏（Emily 撕开 Alex 的心脏）→ Giles 脱衣化妆（最后一句 "wicked gleam in Ash's eyes"）。
+
+**结构性关键：** 这一章**同时引入两条线索**——超自然（鬼魂在宝丽来上显形）与社会（Giles 登场 + Emily 动机）。宝丽来显形是**本书最重要的新规则**：**鬼魂在强烈情感驱动下能在物理介质上留下痕迹**——这条规则**为后文"证据出现"埋线**（如果 Lily 出现在照片上，那她也能在**监控录像、X光片**等介质上留下痕迹吗？）。
+
+**选择性精读（6 处）：**
+
+**①** "'Oh my god,' she whispered, watching as the shadowy image grew clearer…two figures clearly emerging, side by side. 'How is that possible?' A wide-eyed Ash didn't respond, instead quickly placing the photo face down on his makeup bench."
+- 中文理解："我的天，"她低声说，看着那张模糊的影像渐渐清晰……两个身影清晰地浮现出来，肩并肩。"这怎么可能？"瞪大眼睛的 Ash 没有回答，反而迅速把照片扣面朝下放在化妆台上。
+- 关键词：two figures clearly emerging（**"两个身影浮现"**——Lily 的**存在被物理证明**，这是本书**超自然"证据"**的第一次亮相）、side by side（**"肩并肩"**——Lily 与 Sam 并列，是 Lily 对 Sam 的**情感投射**的物化）、wide-eyed Ash（**"瞪大眼睛"**——Ash 的反应是**震惊 + 迅速压制**，他用动作而非语言表达）。
+- 表达方式：**Lily 的"显形"被写得极其克制**——作者没有写"她突然出现在照片上！"，而是让 Ash 沉默、把照片扣下、再拍一张确认。**这一连串克制动作比任何夸张描写都更恐怖**。
+- 为什么这样写：**这是全书最重要的超自然"证据"场景**——如果鬼魂能在宝丽来上显形，那**这个规则就可以被武器化**（Alex 马上意识到）。作者用**低调**处理让读者记住这件事的**分量**。
+- **读者视角提示**：**宝丽来是全书的"鬼魂证据道具"**——此后如果 Lily 出现在其他地方（监控、X光、其他照片），读者会立刻想起这一刻。**这条规则是后文的关键伏笔**。
+
+**②** "'This must mean that we can affect the living world, if we really want to. You've seen Ghost, right? Maybe we can learn how to touch things. Move them, even? I'm going to give it a go. If I can do it, my killer will regret murdering me.'"
+- 中文理解："这一定意味着我们真的能影响生者的世界。你看过《人鬼情未了》吧？也许我们能学会触碰物品，甚至移动它们。我要试试。如果我做得到，杀我的人会后悔杀我。"
+- 关键词：seen Ghost（**"你看过《人鬼情未了》吧"**——Alex 用**流行文化**来理解自己的处境，把超自然事件**电影化**；也暗示 Alex **即使死了也是个浅薄的流行文化消费者**）、my killer will regret murdering me（**"杀我的人会后悔"**——Alex 的**复仇觉醒**，全书最明确的**私刑宣言**）。
+- 表达方式：**Alex 的逻辑是"电影逻辑"**——他看到 Lily 显形，立刻联想到《人鬼情未了》里 Patrick Swayze 移动物体的场景。他**不是在做科学研究，是在模仿电影**。
+- 为什么这样写：**Alex 的人物塑造再次被强化**——他**没有反思能力**，他的所有反应都是**自我中心的、被流行文化塑造的**。他**不会因为死亡而变得深刻**。
+- **读者视角提示**：Alex 说"my killer will regret murdering me"——这句话**直接预告了后文的暴力场景**。读者需要记住：**Alex 有复仇动机 + 可能获得超自然力量**，**他是一个潜在的道德危险**。
+
+**③** "'It's never happened before,' she said. 'I've stood next to actors countless times when Ash takes his photos. Not once have I appeared in any of them.'"
+- 中文理解："以前从来没发生过这种事，"她说。"Ash 拍照片时我无数次站在演员旁边，一次都没出现过。"
+- 关键词：It's never happened before（**"以前从未发生过"**——这意味着 Lily 的出现**需要特定条件**）、countless times（**"无数次"**——Lily 已经和 Ash 一起工作**很长时间**，**一直没有显形**）。
+- 表达方式：**Lily 的"从未出现过"是一个精确的时间标记**——她在化妆车上站过**很多次**，但只有这一次出现在照片上。这意味着**这次是特殊的**。
+- 为什么这样写：**这条线索引导读者去寻找"特殊条件"**——Alex 的回答是"because you fancy him"（你暗恋他），是**情感驱动的显形**。这建立了一个**超自然物理法则**：**强烈的情感（尤其是爱/欲望）能让鬼魂显形**。
+- **读者视角提示**：**Lily 暗恋 Ash**——这是本书**最重要的新情感线索**。Lily 一直爱 Ash，但从未表露；这次显形**无意中暴露了这段感情**。此后 Lily 与 Ash 的关系将成为**本书情感副线的核心**。
+
+**④** "'Maybe not,' Giles blustered. 'But they showed me all the correct techniques for acting. I am very much a fan of Stanislavsky's system, incorporating my emotional observations of the world into my characters, playing them how I think they would behave in any given situation.' 'Yes, but how you think they would behave is very different to what most people would do,' Rita said. 'From what you've said, you've only ever been an actor. I'm not sure you've got any idea what real life is actually like.'"
+- 中文理解："也许吧，"Giles 气势汹汹地说。"但他们把所有的正确表演技巧都教给我了。我是斯坦尼斯拉夫斯基体系的忠实信徒，把我对世界的情感观察融入角色，按我认为他们在这种情境下会有的行为来演绎。""是的，但你认为他们会有的行为跟大多数人会做的事很不一样，"Rita 说。"从你说的来看，你只当过演员。我不确定你究竟有没有什么真正的生活经历。"
+- 关键词：blustered（**"气势汹汹"**——Giles 在被揭穿时的**防御姿态**，是**心虚的伪装**）、Stanislavsky's system（**斯坦尼斯拉夫斯基体系**——Giles 引用**学术权威**为自己辩护，但他**根本没真正学过**——这是**典型的伪学者行为**）、how you think they would behave is very different to what most people would do（**"你认为的行为和大多数人做的不一样"**——Rita 的评价**直接否定了 Giles 作为演员的资格**）。
+- 表达方式：**Rita 的一句话摧毁了 Giles 的全部自我建构**——Giles 用 Stanislavsky 为自己背书，Rita 说"你不懂真实生活"。**Giles 的"演技"问题就是"他从不真实生活"**。
+- 为什么这样写：**Giles 是全书最精致的伪善者**——他用斯坦尼斯拉夫斯基为自己背书，但他**没有真实生活**；他**用表演技巧来逃避真实**，而不是**用真实来支撑表演**。这种**倒置**是全书对**"艺术 vs 生活"关系**的讽刺。
+- **读者视角提示**：Giles 是本书中**最接近"凶手"的人选**——他有**动机**（抢 Alex 的角色）、**伪善**（用斯坦尼斯拉夫斯基伪装）、**被揭穿的恼怒**（blustered）。但他也可能只是一个**可笑的配角**。**作者没有明说**——Giles 是**最大的悬念嫌疑人**。
+
+**⑤** "'Did you know he used to watch you?' Lily asked, raising an eyebrow at Alex. 'Bloody hell, course not,' he exclaimed. 'Little pervert, spying on me like that. I always wondered why he hated me quite so much. Clearly, he wanted my body. Can't say I blame him, of course. With that pasty, miserable face and scrawny body, I doubt he saw much action.'"
+- 中文理解："你知道吗，他以前总盯着你看？"Lily 挑起眉毛问 Alex。"该死的，怎么可能，"Alex 惊呼。"这个小变态，居然偷窥我。我一直想不通他为什么那么恨我。看来他就是想要我的身体。我当然不怪他。就他那张惨白可怜的脸和瘦弱的身材，我怀疑他也没多少机会。"
+- 关键词：used to watch you（**"以前总盯着你看"**——Giles 对 Alex 的**"监视"**、spy（**"偷窥"**、pervert（**"变态"**——Alex 用这个词**把 Giles 的监视"性化"**，是 Alex 的**傲慢 + 自恋**）。
+- 表达方式：**Alex 把"被监视"翻译成"被爱慕"**——他把 Giles 出于嫉妒的监视重新解释为 Giles 对他的欲望。**这是 Alex 的经典模式**：他**从不认为自己错**，他**把一切归因于别人喜欢他**。
+- 为什么这样写：**这一段落暴露了 Alex 的自恋**——他把 Giles 的仇恨重新解释为 Giles 对他的爱慕。**这个误读本身就是一个"喜剧场景"**，也**强化了 Alex 的"死后人格不变"**。
+- **读者视角提示**：Giles **确实监视过 Alex**，但不是为了爱慕——他是**想抓住 Alex 吸毒的把柄**。**Giles 有"监视"行为 + "举报"动机**，这两点让他成为一个**非常可疑的配角**。
+
+**⑥** "'What would you know?' Giles said, not hearing this ghostly exchange. 'You're just a makeup lady. Us actors are trained to look deeper into the souls of men…'"
+- 中文理解："你知道什么？"Giles 说，没听见这段鬼魂的对话。"你只是个化妆师。我们演员受过训练，能更深入地看透男人的灵魂……"
+- 关键词：not hearing this ghostly exchange（**"没听见这段鬼魂的对话"**——Giles 听不见 Lily 和 Alex 的对话，强化了"活人听不见鬼"的规则；但**他也没听见"自己"被鬼讨论**，他不知道**自己正在被鬼魂审视**——这是**本书的 meta 层**：读者知道 Giles 在鬼魂眼中的真实样貌，但 Giles 自己不知道）、Us actors are trained（**"我们演员受过训练"**——Giles 用职业身份**压制 Rita**，是他**唯一的权力来源**。
+- 表达方式：**Giles 用职业身份压制 Rita 是本书的阶级讽刺**——Giles 认为"演员 > 化妆师"，这是**演艺圈鄙视链**的真实写照。作者用 Giles 的傲慢讽刺**演艺圈的精英主义**。
+- 为什么这样写：**"not hearing this ghostly exchange"是一个叙事设计**——作者让读者知道 Giles **没听见**Lily 和 Alex 的对话（"我其实没那么喜欢 Alex"），这意味着 **Giles 以为自己在活人之间隐藏的事，鬼魂都听得到**。这个**不对称**制造了一个**戏剧效果**：鬼魂是"全知的"，而 Giles 以为自己藏得很好。
+- **读者视角提示**：**鬼魂能听见活人**——这意味着 Lily 和 Alex 能听到**活人说真话**。这个设定让 Rita 团队**获得了"情报优势"**——他们可能无意中听到了 Giles 承认某些事。**这条规则是后文调查的关键工具**。
+
+**叙事技巧小结：**
+- **超自然规则第三条**：强烈情感（爱/欲望）能让鬼魂在物理介质（宝丽来）上显形。
+- **Giles 登场 = 反派人选确立**：伪善、嫉妒、被揭穿的恼怒、监视行为——**四条嫌疑人特征一次到位**。
+- **情感线索**：Lily 暗恋 Ash（意外暴露）、Giles 暗恋/监视 Alex（被 Alex 误读为性爱慕）。
+- **阶级讽刺**：Giles 用"演员 > 化妆师"的鄙视链压制 Rita，被 Rita 一句"你不懂真实生活"打回原形。
+- **叙事层**：鬼魂能听见活人的对话（"not hearing this ghostly exchange"）——这个设定让**鬼魂获得信息优势**。
+
+**词汇（本章）：**
+- ⭐⭐⭐ languid / liquid latex / Stanislavsky / blustered / crestfallen / bluster / brandishing / wicked gleam
+- ⭐⭐ mischievously / abashed / dimpled / palsy / scrawny / shrivelled / imbued / superimposed
+- ⭐ polaroid / cologne / aftershave / makeup wipes / portfolio / liquid latex / Doc（靴子品牌）
+
+---
+
+### Chapter Six · 预告
+
+> 下一章（CH08）Sam 化完妆后被 Marie 拉出来；Lily 开始与 Alex 的"鬼魂复仇计划"互动——**Lily 想学"触碰物品"**，Alex 想学"复仇"，两人之间的**权力争夺**即将开始。
+
+
+---
+
+
 
 
 
