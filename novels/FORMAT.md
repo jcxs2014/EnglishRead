@@ -11,30 +11,48 @@
 novels/
 ├── INDEX.md                              ← 小说库总索引（章节完成度、状态）
 ├── FORMAT.md                             ← 本文件
-└── <slug>/                               ← 每本小说一个文件夹（slug = 书名转 snake_case）
+├── <slug>/                               ← 每本小说一个文件夹（slug = 书名转 snake_case）
     ├── library/
     │   └── <slug>.epub                   ← 原始 epub（不入 git）
     ├── text/                             ← 从 epub 提取的每章纯文本（不入 git，仅供精读用）
     │   └── CH01_章题_slug.txt
-    ├── _chapters.json                    ← 章节清单元数据（不入 git；slug 精读脚本自动产出，可重写）
+    ├── _chapters.json                    ← 章节清单元数据（不入 git）
     ├── 精读/
-    │   ├── <slug>_导览.md                ← 全书导览（人物/主题/背景，可选，首次读到中段时回填）
-    │   └── CH01_章节标题.md              ← 逐章精读（主体，每章一个文件，进 git）
-    ├── 词典.md                            ← 全书包词汇/表达（累积，按章追加，进 git）
-    ├── 人物.md                            ← 人物档案与关系（累积，按章追加，进 git）
-    ├── 主题.md                            ← 主题与母题（累积，按章追加，进 git）
-    └── 总结.md                            ← 终章后写的全书总结（进 git）
+    │   ├── <slug>_精读.md                ← 总索引（分章表 + 人物/主题脉络）
+    │   └── 分章/
+    │       ├── prologue.md               ← 序言
+    │       ├── ch01_keyplot.md            ← 逐章精读（每章一个文件）
+    │       ├── ...
+    │       └── epilogue.md               ← 尾声
+    └── 人物.md                            ← 人物档案与关系（进 git）
 ```
 
 **要点**：
-- `library/` 整目录 gitignore；原 epub 是参考材料，不进库、不上网。
-- `词典.md / 人物.md / 主题.md` 都是**追加模式**（append-only），不要为了修一句重写整个文件；修正文案用 `patch`。
-- `精读/CH*.md` 每章一个文件，进 git；文件名 `CH` + 两位序号 + `_` + 章名（英文原名的简短 slug，保留原文语言）。
-- 章节顺序用编号强制锁定，避免 epub 目录与精读文件脱节。
+- `library/` 整目录 gitignore；原 epub 是参考材料，不进库。
+- `精读/分章/ch<NN>_<keyplot>.md`：每章一个文件，进 git。
+- `人物.md` 追加模式，修正用 `patch`；`词典.md` / `主题.md` 不再单独创建（词汇在各分章末尾，主题无独立文档必要）。
+
+### 1.1 文件命名规则
+
+**小说分章**（`a-most-angelic-death`）：
+```
+ch<NN>_<keyplot>.md
+```
+- `<NN>`：两位数字序号（ch01、ch02……ch18）
+- `<keyplot>`：本章**核心情节**的简短 slug（全小写 + 连字符），如 `rita-meets-lily`、`annas-confession`
+- 序言/尾声：`prologue.md` / `epilogue.md`（不加编号）
+
+**随笔集分篇**（`books-that-saved-my-life`）：
+```
+ch<NN>_<chapter_title_slug>_<author_slug>.md
+```
+- `<chapter_title_slug>`：本篇标题的简短 slug（如 `to-kill-a-mockingbird`）
+- `<author_slug>`：作者 slug（如 `harper-lee`、`margaret-atwood`），首篇作者可加年份
+- 示例：`ch01_to-kill-a-mockingbird_harper-lee.md`
 
 ---
 
-## 二、逐章精读文件格式（`精读/CH01_章节名.md`）
+## 二、逐章精读文件格式（`精读/分章/ch01_keyplot.md`）
 
 ### 2.1 frontmatter
 
