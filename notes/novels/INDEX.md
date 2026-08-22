@@ -15,6 +15,6 @@
 - **精读完成**：精读 + 总结.md 完成
 
 ## 使用方式
-- 开始新书：`mkdir -p novels/<slug>/library` 并把 epub 放进来；把文本抽到 `text/`；更新本表。
-- 精读章节：`novels/<slug>/精读/CH01_章题.md`；每章完成即更新本表"精读进度"列（如 `5/21`）。
-- 全书收尾：写完 `novels/<slug>/总结.md`，把状态改为"精读完成"。
+- 开始新书：`mkdir -p notes/novels/<slug>/library` 并把 epub 放进来；把文本抽到 `text/`；更新本表。
+- 精读章节：`notes/novels/<slug>/精读/CH01_章题.md`；每章完成即更新本表"精读进度"列（如 `5/21`）。
+- 全书收尾：写完 `notes/novels/<slug>/总结.md`，把状态改为"精读完成"。
