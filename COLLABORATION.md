@@ -44,7 +44,7 @@
 - **回滚**：原 `git tag pre-refactor-2026-08-22` 现已删除（重构成功落地，无需保留锚点）。如未来需追溯，可查阅 commit `b6f289a` 之前的 `HEAD`。
 - **遗留**：FreeFileSync 中指向 `site/content` 的同步配置未清理（用户在 FreeFileSync 内手动操作，与仓库无关）；首页「最近笔记」卡片网格未做（不在本次范围）。
 - **协作影响**：本机工作记忆 `.memory/AGENTS.md` 不受本次重构影响（不入 git），但下游脚本若硬编码根目录绝对路径需注意迁移到 `scripts/` 后的 CWD 变化。
-- **相关 commit**：58dd243（重构主体）；d605a96 + b5c7c51 等 9 个 novels 批次 commits。
+- **相关 commit**：58dd243（重构主体）；novels 批次 commits（序言~Ch18+Epilogue 全书完成）。
 - **状态**：✅ 已完成并推送，线上验证通过
 
 ### [2026-08-22 13:33 UTC] [Hermes-Mac] → All
