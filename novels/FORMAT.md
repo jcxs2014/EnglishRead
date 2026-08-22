@@ -18,18 +18,15 @@ novels/
     │   └── CH01_章题_slug.txt
     ├── _chapters.json                    ← 章节清单元数据（不入 git）
     ├── 精读/
-    │   ├── <slug>_精读.md                ← 总索引（分章表 + 人物/主题脉络）
-    │   └── 分章/
-    │       ├── prologue.md               ← 序言
-    │       ├── ch01_keyplot.md            ← 逐章精读（每章一个文件）
-    │       ├── ...
-    │       └── epilogue.md               ← 尾声
+    │   ├── ch01_keyplot.md                ← 逐章精读（每章一个文件，直接放精读/下）
+    │   ├── ...
+    │   └── epilogue.md                   ← 尾声
     └── 人物.md                            ← 人物档案与关系（进 git）
 ```
 
 **要点**：
 - `library/` 整目录 gitignore；原 epub 是参考材料，不进库。
-- `精读/分章/ch<NN>_<keyplot>.md`：每章一个文件，进 git。
+- `精读/ch<NN>_<keyplot>.md`：每章一个文件，进 git。
 - `人物.md` 追加模式，修正用 `patch`；`词典.md` / `主题.md` 不再单独创建（词汇在各分章末尾，主题无独立文档必要）。
 
 ### 1.1 文件命名规则
@@ -52,7 +49,7 @@ ch<NN>_<chapter_title_slug>_<author_slug>.md
 
 ---
 
-## 二、逐章精读文件格式（`精读/分章/ch01_keyplot.md`）
+## 二、逐章精读文件格式（`精读/ch01_keyplot.md`）
 
 ### 2.1 frontmatter
 
