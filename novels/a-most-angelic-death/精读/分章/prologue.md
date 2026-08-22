@@ -1,34 +1,3 @@
-# A Most Angelic Death（精读分析）
-
-> 作者：Lesley Gray（2025）｜系列：Painted Illusions #1 ｜类型：犯罪悬疑 / 闹鬼
-
-## 概览
-
-_（首章完成后填写）_
-
-## 人物
-
-> 汇总表（按首次出场排序）
-
-| 姓名 | 身份 | 首次出场 | 一句画像 |
-|------|------|----------|----------|
-
-## 主题与母题
-
-> 主题清单 + 按章脉络 + 母题/意象
-
-## 词典
-
-> 三档：高级 · 进阶 · 基础（详见 `/词典.md`）
-
-## 总结
-
-> 全书精读结束填写
-
-_（以下逐章推进，每章一个 `###`）_
-
----
-
 ### Prologue · Alex 之死
 
 > 文件：`text/CH02_prologue_alex_crept_down_the_dark.txt`（约 700 词，单段长镜头）
@@ -501,7 +470,6 @@ _（以下逐章推进，每章一个 `###`）_
 
 ---
 
-### Chapter Six · Angel's Trumpet 与尸检结果  (continued in Ch7 context)
 
 
 ---
@@ -887,3 +855,4 @@ _（以下逐章推进，每章一个 `###`）_
 ### Chapter Eleven · 预告
 
 > 下一章（CH13）以 "Don't fret, Rita. She told us not to worry when she popped back." 为开头，**Rita 团队得知 Lily 可以通过哨子移动**——全员震惊，Kinnock 可能在场。**Lily 开始执行"隐身侦查"**——她可能潜入 Layla 的花车、Giles 的房车、Anna 的酒店房间。**调查进入"动态"阶段**。
+
