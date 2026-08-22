@@ -1,11 +1,10 @@
 # Books that Saved My Life · 精读总索引
 
-> **作者**：Michael McGirr（爱尔兰教育者）
+> **作者**：Michael McGirr（爱尔兰教育者，墨尔本教师）
 > **类型**：读书随笔合集（**非小说**）—— 42 篇短文，每篇讲一本"救过作者命"的书
 > **副题**：Reading for Wisdom, Solace and Pleasure
-> **出版**：2022（推测，epub 无版权页）
-> **总索引文件**：本文件（结构 + 每篇一句话概要 + 主题脉络）
-> **分篇精读**：`精读/ch01.md` ~ `精读/ch42.md`
+> **总索引文件**：本文件（结构 + 42 篇篇目 + 主题脉络）
+> **分篇精读**：`精读/ch01_<slug>_<author>.md` ~ `ch42_<slug>.md`
 
 ## 格式说明
 
@@ -17,63 +16,63 @@
 5. **词汇分级**（⭐⭐⭐ / ⭐⭐ / ⭐）
 6. **一句话总结**
 
-## 篇目一览
+## 篇目一览（42 篇）
 
-| 篇 | 讨论的书 | 作者 | 一句话概要 |
-|---|---------|------|---------|
-| Ch1 | To Kill a Mockingbird | Harper Lee | 为什么"真正读"比"用 plot summary 应付考试"更重要 |
-| Ch2 | Magic | Frances Mayes | 意大利托斯卡纳小镇的慢生活哲学 |
-| Ch3 | Living | Gillian Clarke | 威尔士自然写作，如何"生活在风景里" |
-| Ch4 | Mostly I | John Burnside | 自我叙事的诚实 |
-| Ch5 | Honest to God | John A. T. Robinson | 信仰在怀疑中的存续 |
-| Ch6 | The [book?] | [待查] | — |
-| Ch7 | Riddikulus | J.K. Rowling | 幽默是对抗恐惧的咒语 |
-| Ch8 | Because | [待查] | — |
-| Ch9 | Long Walk to Freedom | Nelson Mandela（推测） | — |
-| Ch10 | Finding | [待查] | — |
-| Ch11 | The Other Side of the Sky | [待查] | — |
-| Ch12 | Large [书] | [待查] | — |
-| Ch13 | The Bedside of My Mother | Simone de Beauvoir | 母亲临终陪伴 |
-| Ch14 | The Freshness of the Morning | [待查] | — |
-| Ch15 | The [书] | [待查] | — |
-| Ch16 | Silent [书] | [待查] | — |
-| Ch17 | Sharp Elbows and a Suitcase | [待查] | — |
-| Ch18 | Loss | [待查] | — |
-| Ch19 | Exquisite | [待查] | — |
-| Ch20 | Not of This World | [待查] | — |
-| Ch21 | The Best of All Impossible Worlds | G.K. Chesterton | 笑声与严肃 |
-| Ch22 | A Local Habitation and a Life | [待查] | — |
-| Ch23 | A [书] | [待查] | — |
-| Ch24 | Love [书] | [待查] | — |
-| Ch25 | Unvisited | [待查] | — |
-| Ch26 | An [书] | [待查] | — |
-| Ch27 | The Commander of an Army | [待查] | — |
-| Ch28 | Ego | [待查] | — |
-| Ch29 | Reader, I Married Him | Charlotte Brontë / Jane Eyre（推测） | — |
-| Ch30 | Lonely | [待查] | — |
-| Ch31 | Looks | [待查] | — |
-| Ch32 | This [书] | [待查] | — |
-| Ch33 | The Ingenious Gentleman | Miguel de Cervantes / Don Quixote | 堂吉诃德的理想主义 |
-| Ch34 | By Spells and Chants | [待查] | — |
-| Ch35 | Plenty | [待查] | — |
-| Ch36 | How to | [待查] | — |
-| Ch37 | Monstrous | [待查] | — |
-| Ch38 | Souvlaki | [待查] | — |
-| Ch39 | My [书] | [待查] | — |
-| Ch40 | The [书] | [待查] | — |
-| Ch41 | Epilogue | — | 尾声 |
-| Ch42 | A Word of Thanks | — | 致谢 |
+| 篇 | 本篇标题 | 讨论的书 | 作者 |
+|----|---------|---------|------|
+| ch01 | An Introduction | To Kill a Mockingbird (1960) | Harper Lee |
+| ch02 | Magic Words | Hag-Seed (2016) | Margaret Atwood |
+| ch03 | Living Memory | — | Baba Schwartz |
+| ch04 | Mostly I Wait | Eyrie (2013) & Cloudstreet (1991) | Tim Winton |
+| ch05 | Honest to God | — | Jeanette Winterson |
+| ch06 | The Bottom of the Pile | Angel in the Wheels | Genelle Guzman-McMillan |
+| ch07 | Riddikulus | Harry Potter series | J. K. Rowling |
+| ch08 | Because There Is Pain | Close Range (essays) | Annie Proulx |
+| ch09 | Long Time Shaving | Long Walk to Freedom | Nelson Mandela |
+| ch10 | Finding Centre | Reaching for the Sky | Thea Astley |
+| ch11 | The Other Side of the River | Beloved (1987) | Toni Morrison |
+| ch12 | Large | 'An Eclogue' (poem) | Les Murray |
+| ch13 | The Bedside of My Mother | A Very Easy Death (1979) | Simone de Beauvoir |
+| ch14 | The Freshness of Good | Eichmann in Jerusalem (1963) | Hannah Arendt |
+| ch15 | The Whole Story Is the Meaning | A Good Man Is Hard to Find (1955) | Flannery O'Connor |
+| ch16 | Silent Voice | The Seven Storey Mountain (1948) | Thomas Merton |
+| ch17 | Sharp Elbows and a Hacking Cough | The Long Loneliness (1962) | Dorothy Day |
+| ch18 | Loss | Testament of Youth (1933) | Vera Brittain |
+| ch19 | Exquisite Moments | Mrs Dalloway (1925) | Virginia Woolf |
+| ch20 | Not of Ourselves | The Man from Snowy River (1978) | Mary Gilmore |
+| ch21 | The Best of All Impossible Worlds | Charles Dickens (novels) | G. K. Chesterton |
+| ch22 | A Local Habitation and a Name | Such Is Life (1903) | Joseph Furphy |
+| ch23 | A River Somewhere | Heart of Darkness (1902) | Joseph Conrad |
+| ch24 | Love Came So Lightly | 'Love's Philosophy' (poem) | John Shaw Neilson |
+| ch25 | Unvisited Tombs | Middlemarch (1871) | George Eliot |
+| ch26 | An Old Tree | War and Peace (1869) | Leo Tolstoy |
+| ch27 | The Commander of an Army | Mrs Beeton's Book of Household Management | Isabella Beeton |
+| ch28 | Ego Dismasted | Moby-Dick (1851) | Herman Melville |
+| ch29 | Reader, I Married the Wrong One | Jane Eyre (1847) | Charlotte Brontë (Currer Bell) |
+| ch30 | Lonely Creature | Frankenstein (1818) | Mary Shelley |
+| ch31 | Looks | Persuasion (1817) | Jane Austen |
+| ch32 | This Bed Thy Centre Is | 'The Canonisation' (poem) | John Donne |
+| ch33 | The Ingenious Gentleman Miguel de Cervantes | Don Quixote (1605) | Miguel de Cervantes |
+| ch34 | By Spells and Medicines | Othello (c. 1603) | William Shakespeare |
+| ch35 | Plenty | Canterbury Tales (c. 1387) | Geoffrey Chaucer |
+| ch36 | How to Live | On the Happy Life (c. 49 AD) | Seneca |
+| ch37 | Monstrous Strange | Histories (c. 440 BC) | Herodotus |
+| ch38 | Souvlaki | Book 24 of Iliad | Homer |
+| ch39 | My Tears Have Become My Bread | — | Torah (Deuteronomy 8:3) |
+| ch40 | The Way Home | Tao Te Ching | Lao Tzu |
+| ch41 | Words that Don't Come Easy | The Spiritual Exercises (1548) | Ignatius of Loyola |
+| ch42 | A Word of Thanks | — | — |
 
-## 主题脉络（待填充）
+## 主题脉络
 
-- **智慧（Wisdom）**：阅读如何让人"看到更大的世界"
-- **慰藉（Solace）**：阅读如何陪伴痛苦（母亲去世、孤独、怀疑）
+- **智慧（Wisdom）**：阅读如何让人"看到更大的世界"——反工具化学习观
+- **慰藉（Solace）**：阅读如何陪伴痛苦（母亲去世、战争、失恋、孤独）
 - **愉悦（Pleasure）**：阅读作为奢侈、作为生活方式
-- **反工具化**：读书不是"提升效率"、不是"考试工具"，而是"slow reading"
-- **代际桥梁**：一本书如何连接父亲-儿子、祖父-孙女
+- **代际桥梁**：一本书如何连接父亲-儿子、祖父-孙女（To Kill a Mockingbird 主线）
+- **诚实写作**："words that don't come easy"——反口号、反励志
 
 ## 精读进度
 
-- 已精读：**ch01**（Introduction / To Kill a Mockingbird）
+- 已精读：**ch01**（Harper Lee《To Kill a Mockingbird》）
 - 待精读：ch02–ch42
 - 进度：1/42（2%）
