@@ -59,7 +59,6 @@
 | insalubrious | 不健康的、恶劣的 | *"an insalubrious hotel"* |
 | proverbial | 谚语性的 | *"slept like the proverbial"* |
 | impregnable | 不可攻破的 | *"guarding their emotions with impregnable terms"* |
-| bandwagon | 跟风 | — |
 | unfurl | 展开 | *"the way his sentences unfurled into the middle distance"* |
 | banality of evil | 平庸之恶 | — |
 

@@ -89,7 +89,6 @@
 | Andalusia | 安达卢西亚（佐治亚州农场名） | — |
 | Savannah | 萨凡纳（佐治亚州城市） | — |
 | Red Wolf | 红狼（红斑狼疮的别称） | — |
-| Cistercian | 熙笃会修士 | — |
 | A Good Man Is Hard to Find | 《好人难寻》（O'Connor 短篇小说集） | — |
 | Wise Blood | 《智慧的血》（O'Connor 小说） | — |
 | Good Country People | 《好乡巴佬》（O'Connor 短篇小说） | — |

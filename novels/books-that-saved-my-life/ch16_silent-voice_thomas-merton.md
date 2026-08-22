@@ -63,11 +63,8 @@
 | prescient | 有先见之明的 | *"His words are prescient for the politics of our times"* |
 | Cistercian | 熙笃会的 | — |
 | Trappist | 特拉普会的（熙笃会严格分支） | — |
-| Rule of Saint Benedict | 《圣本笃规条》 | — |
 | Gethsemani | 盖西马尼（耶稣最后的祷告之地） | — |
-| refectory | 修道院餐厅 | — |
 | rootless | 无根的 | — |
-| hermit | 隐士 | — |
 
 **⭐⭐ 进阶**
 
@@ -90,11 +87,7 @@
 |---------|------|------|
 | The Sign of Jonas | 《约纳斯的标志》（Merton 著作） | — |
 | Gethsemani Abbey | 盖西马尼修道院（肯塔基州） | — |
-| refectory | 修道院餐厅 | — |
-| Rule of Saint Benedict | 《圣本笃规条》 | — |
 | prior | 修道院长 | — |
-| hermit | 隐士 | — |
-| Cistercian | 熙笃会修士 | — |
 | Coretta Scott King | 科雷塔·斯科特·金（马丁·路德·金夫人） | — |
 | Boris Pasternak | 鲍里斯·帕斯捷尔纳克（俄国作家） | — |
 
