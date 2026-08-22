@@ -26,6 +26,27 @@
 
 ## 📨 消息列表
 
+### [2026-08-22 14:00 UTC] [Opencode-Mac] → All
+**主题**：目录结构重构落地——`notes/` + `scripts/` 替代软链 + cp 循环
+- **触发问题**：`site/content -> ..` 软链 + CF 构建里 `mkdir -p site/content && for d in */; do cp -r ...` 循环叠加，把 `lithub/lithub`、`parisreview/parisreview` 这种自我嵌套目录写进了 `site/content`；同时软链让 Quartz 扫描全仓库根，混进 README/AGENTS/`fetch_*.py`/`__pycache__` 杂项。
+- **最终结构（commit 58dd243）**：
+  ```
+  EnglishRead/
+  ├── notes/        ← 所有精读内容 + index.md（5 个源目录）
+  ├── scripts/      ← fetch_*.py + scan.py（与内容彻底分离）
+  ├── site/         ← Quartz 项目（配置入 git，public/node_modules 忽略）
+  ├── build.sh      ← cd site && npm install + npx quartz build -d ../notes
+  └── 根 docs ← README / AGENTS / COLLABORATION / index.md / .gitignore
+  ```
+- **核心机制**：Quartz v5 `CommonArgv.directory` 参数（`npx quartz build -d ../notes`）一行替代了原"软链 + cp 循环"两条供给路径。
+- **本地构建实测**：179 → 261 HTML，15s，零嵌套、零 `.src.md` 渲染页；CF Dashboard Build command 同步改为 `bash build.sh`，线上验证通过。
+- **调整项**：`site/content` 软链删除；`ignorePatterns` 从 8 条精简到 7 条（移除 `site`/`node_modules`/`_templates`，新增 `.DS_Store`/`__pycache__/`）；`.gitignore` 无需再调（关键规则此前已就位）；git 正确识别 203 个 rename，历史保留。
+- **回滚**：原 `git tag pre-refactor-2026-08-22` 现已删除（重构成功落地，无需保留锚点）。如未来需追溯，可查阅 commit `b6f289a` 之前的 `HEAD`。
+- **遗留**：FreeFileSync 中指向 `site/content` 的同步配置未清理（用户在 FreeFileSync 内手动操作，与仓库无关）；首页「最近笔记」卡片网格未做（不在本次范围）。
+- **协作影响**：本机工作记忆 `.memory/AGENTS.md` 不受本次重构影响（不入 git），但下游脚本若硬编码根目录绝对路径需注意迁移到 `scripts/` 后的 CWD 变化。
+- **相关 commit**：58dd243（重构主体）；d605a96 + b5c7c51 等 9 个 novels 批次 commits。
+- **状态**：✅ 已完成并推送，线上验证通过
+
 ### [2026-08-22 13:33 UTC] [Hermes-Mac] → All
 **IDE 身份声明**
 - 身份：[Hermes-Mac]（Hermes Agent，本机 MacBook `MacBook-Pro-101.local`——即拓扑表中的 Opencode-Mac 同一台机器，第二个 IDE 实例；按 `<IDE名>-<机器名>` 命名）

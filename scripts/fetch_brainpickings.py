@@ -4,7 +4,7 @@ from datetime import date
 SRC = "brainpickings"
 FEED = "https://www.brainpickings.org/feed/"
 MAX_ITEMS = 10
-BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/{SRC}"
+BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/{SRC}"
 SOURCE_NAME = "Brain Pickings / The Marginalian"
 
 def get_body(xml, tag):

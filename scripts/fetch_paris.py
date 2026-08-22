@@ -4,7 +4,7 @@ from datetime import date
 SRC = "parisreview"
 FEED = "https://www.theparisreview.org/blog/feed/"
 MAX_ITEMS = 10
-BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/{SRC}"
+BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/{SRC}"
 SOURCE_NAME = "The Paris Review"
 
 def get_body(xml, tag):

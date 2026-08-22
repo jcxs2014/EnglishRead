@@ -4,7 +4,7 @@ from datetime import date
 SRC = "lithub"
 FEED = "https://lithub.com/feed/"
 MAX_ITEMS = 10
-BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/{SRC}"
+BASE = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/{SRC}"
 SOURCE_NAME = "Literary Hub"
 SKIP_TITLES = ("lit hub daily", "lit hub's", "round-up", "roundup")
 

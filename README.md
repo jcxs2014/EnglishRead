@@ -7,18 +7,32 @@
 
 ```
 ~/Documents/Works/EnglishRead/
-├── README.md              ← 本文件（唯一权威项目文档）
-├── AGENTS.md              ← 本工作区 agent 操作手册（会话行为 / MiniMax 1027 详细流程）
-├── .memory/               ← 本机工作记忆（不入 git，各机独立维护；跨机协调走 COLLABORATION.md）
-├── COLLABORATION.md       ← 多 IDE 协作消息板（入库，唯一跨机同步通道）
-├── <source>/              ← 一个来源一个文件夹（小写）
-│   └── 2026-08-10_Monday/ ← 按抓取日期建子目录
-│       ├── 01_xxx.txt          原文
-│       ├── 01_xxx_精读.md       精读报告
-│       └── index.json           当天文章索引（含标题/字数/预览）
-├── parisreview/fetch_paris.py  ← 抓取 The Paris Review RSS
-└── scan.py                      ← 抓取后扫描题材/敏感度/字数，供筛选
+├── README.md                ← 本文件（唯一权威项目文档）
+├── AGENTS.md                ← 本工作区 agent 操作手册（会话行为 / MiniMax 1027 详细流程）
+├── COLLABORATION.md         ← 多 IDE 协作消息板（入库，唯一跨机同步通道）
+├── .memory/                 ← 本机工作记忆（不入 git，各机独立维护；跨机协调走 COLLABORATION.md）
+├── index.md                 ← Quartz 首页内容
+├── notes/                   ← 所有精读内容（来源 + 精读报告 + 索引 JSON）
+│   ├── parisreview/
+│   │   └── 2026-08-10_Monday/
+│   │       ├── 01_xxx.src.md   原文（不入 git、不上网站）
+│   │       ├── 01_xxx_精读.md  精读报告
+│   │       └── index.json      当天文章索引
+│   ├── brainpickings/  lithub/  granta/  economist/
+├── scripts/                  ← 抓取与扫描脚本
+│   ├── fetch_paris.py  fetch_brainpickings.py  fetch_lithub.py  fetch_granta.py
+│   └── scan.py                  跨源扫描工具
+├── site/                     ← Quartz 项目（配置入 git，public/node_modules 忽略）
+│   ├── quartz.config.yaml  package.json  wrangler.jsonc  quartz/
+│   └── public/                 构建产物（gitignore）
+├── novels/                   ← 独立小说精读库（FORMAT + INDEX + library/ 入 gitignore）
+├── build.sh                  ← CF 构建脚本：cd site && npm install + npx quartz build -d ../notes
+└── wrangler.jsonc            ← 部署配置
 ```
+
+**重构后关键点**（2026-08-22）：
+- Quartz 内容源统一为 `notes/`，通过 `npx quartz build -d ../notes` 直读；**无软链、无 cp 循环、无 FreeFileSync 介入**。
+- 根目录的来源目录（parisreview/brainpickings/lithub/granta/economist）已全部迁入 `notes/` 下；外部引用 URL 结构不变。
 
 ## 来源
 
@@ -27,12 +41,12 @@
 待验证：**Quanta Magazine**（`quantamagazine/`，部分带全文）、**Aeon**（`aeon/`，**实测 RSS 仅摘要、无全文**，需逐页抓）。
 **避开**：The Atlantic / The New Yorker（付费墙，RSS 无正文）；政治敏感、涉法轮/宗教极端题材跳过。
 
-- `parisreview/`（主力，RSS 带全文）：`<日期%Y-%m-%d_%A>/##_slug.txt`（原文）+ `##_slug_精读.md`（报告）+ `index.json`（索引）
-- `granta/`（文学杂志，RSS 带全文）：脚本 `granta/fetch_granta.py`，产出同 `<日期_%A>/`
-- `brainpickings/`（思想科学随笔，feed 重定向至 themarginalian.org，RSS 带全文）：脚本 `brainpickings/fetch_brainpickings.py`
-- `lithub/`（文学书评随笔，RSS 带全文，脚本自动过滤 "Lit Hub Daily" 汇总帖）：脚本 `lithub/fetch_lithub.py`
-- `economist/`（按期刊发行日期）：`260725/` 等；**原文** `Title_snake_case.src.md`（260822 起，不入 git、不上网站）；**精读** `Title_snake_case_精读.md`。历史说明：260606–260815 批次精读文件名无 `_精读` 后缀（`X.md` 即精读），保持原样
-- 待启用：`quantamagazine/`（部分全文）、`aeon/`（RSS 仅摘要，需逐页抓）
+- `notes/parisreview/`（主力，RSS 带全文）：`<日期%Y-%m-%d_%A>/##_slug.src.md`（原文）+ `##_slug_精读.md`（报告）+ `index.json`（索引）
+- `notes/granta/`（文学杂志，RSS 带全文）：脚本 `scripts/fetch_granta.py`，产出同 `<日期_%A>/`
+- `notes/brainpickings/`（思想科学随笔，feed 重定向至 themarginalian.org，RSS 带全文）：脚本 `scripts/fetch_brainpickings.py`
+- `notes/lithub/`（文学书评随笔，RSS 带全文，脚本自动过滤 "Lit Hub Daily" 汇总帖）：脚本 `scripts/fetch_lithub.py`
+- `notes/economist/`（按期刊发行日期）：`260725/` 等；**原文** `Title_snake_case.src.md`（260822 起，不入 git、不上网站）；**精读** `Title_snake_case_精读.md`。历史说明：260606–260815 批次精读文件名无 `_精读` 后缀（`X.md` 即精读），保持原样
+- 待启用：`notes/quantamagazine/`（部分全文）、`notes/aeon/`（RSS 仅摘要，需逐页抓）
 - 避开：The Atlantic / The New Yorker（付费墙，RSS 无全文）
 
 ## 每日工作流
@@ -42,9 +56,9 @@
 1. **抓文**（脚本自动，每源每日上限 **10 篇**）
    ```bash
    cd ~/Documents/Works/EnglishRead
-   python3 parisreview/fetch_paris.py   # 或 granta/fetch_granta.py 等（各源 fetch 脚本都在其源文件夹内）
+   python3 scripts/fetch_paris.py   # 或 scripts/fetch_granta.py 等（所有 fetch 脚本在 scripts/ 下）
    ```
-   自动建 `<source>/<今日日期_星期>/`，存当天 RSS 全文（≤10 篇，按 `pubDate` 取最新），生成 `index.json`。**硬过滤（脚本层自动排除）**：正文 <500 字、纯汇总帖（如 Lit Hub Daily）、当日已抓的重复 URL。
+   自动建 `notes/<source>/<今日日期_星期>/`，存当天 RSS 全文为 `##_slug.src.md`（≤10 篇，按 `pubDate` 取最新），生成 `index.json`。**硬过滤（脚本层自动排除）**：正文 <500 字、纯汇总帖（如 Lit Hub Daily）、当日已抓的重复 URL。
 
 2. **自动选 5 篇**（AI 完成，不另找用户确认）
    对 ≤10 篇候选自动挑 5，依据：
@@ -52,7 +66,7 @@
    - **题材多样**：避免 5 篇撞主题
    - **敏感剔除**：政治/宗教极端/暴力/领土争议/法轮相关 → 直接排除
    - **非 fiction**：granta 含小说，**长篇小说剔除**；**篇幅不长（≤18k 字符）的小说/虚构可保留**，但需逐篇通读判性质
-   - **不可精读的题材**：涉及**未成年人性剥削**、**大量直白性描写（成人情色向）**等 → **保留存档但不精读**，在源文 `.md` 顶部（标题下）加一段 `> ⚠️ 仅存档不精读` 的简要说明（题材性质 + 为何不精读），仍不产出 `_精读.md`
+   - **不可精读的题材**：涉及**未成年人性剥削**、**大量直白性描写（成人情色向）**等 → **保留存档但不精读**，在源文 `.src.md` 顶部（标题下）加一段 `> ⚠️ 仅存档不精读` 的简要说明（题材性质 + 为何不精读），仍不产出 `_精读.md`
    - **语言密度**：长难句多、可读性高者优先
    - **宁少不凑**：剔除后凑不齐 5 篇就只精读能过的，**不放宽阈值硬凑**
    - 产出 `selected.json`（记录的 5 篇 idx + 理由）
@@ -82,12 +96,12 @@
 ## 注意事项
 
 - 本目录是**独立个人资产**，与 HermesAgent 工作区（`~/Sites/HermesAgent`）解耦，可单独备份/迁移。
-- 加新来源：新建 `<source>/` 文件夹，写对应 `fetch_<source>.py`（逻辑同 parisreview/fetch_paris.py，改 FEED + 解析）。
-- `scan.py` 的 flags 字典需随来源扩充更新。
+- 加新来源：在 `notes/<source>/` 文件夹下放抓取产出，在 `scripts/` 写对应 `fetch_<source>.py`（逻辑同 `scripts/fetch_paris.py`，改 FEED + 解析；脚本 BASE 已指向 `notes/<source>/`，CWD 无影响）。
+- `scripts/scan.py` 的 flags 字典需随来源扩充更新；路径已迁移至 `notes/` 下。
 - 本文档为**唯一权威项目说明**；agent 操作规则见根 `AGENTS.md`，本机工作记忆见 `.memory/AGENTS.md`（各机独立，不入 git）。
 - **跨机同步**：两台机器各自维护 git 仓库（origin = `github.com:jcxs2014/EnglishRead`），Syncthing 已排除本目录；跨机只靠 git push/pull，`.src.md` 与 `.memory/` 不同步属预期。
 - 本工作区在 macOS 26.5 上验证。
-- **源文与精读命名**：非 Economist 源文 `<idx>_<slug>.src.md`（260821 起）；精读 `<idx>_<slug>_精读.md`。Economist 见上方来源节。
-- **网页部署**：Cloudflare Workers（https://englishread.jcxs2014.workers.dev/），push 到 main 由 CF Git 集成自动构建；Quartz `ignorePatterns` 排除 `*.src.md`，原文不上网。
+- **源文与精读命名**：所有源目录位于 `notes/` 下。源文 `<idx>_<slug>.src.md`（不入 git、不上网站）；精读 `<idx>_<slug>_精读.md`。Economist 命名规则与历史断层见上方来源节。
+- **网页部署**：Cloudflare Workers（https://englishread.jcxs2014.workers.dev/），push 到 main 由 CF Git 集成自动构建。CF Dashboard Build command = `bash build.sh`（运行根 `build.sh`：cd site && npm install --legacy-peer-deps + npx quartz build -d ../notes）；Quartz `ignorePatterns` 排除 `*.src.md`，原文不上网。
 - **抓取三边界（用户定）**：宁少不凑（敏感剔除后凑不齐 5 篇则少精读，不放宽阈值）；未入选源文直接删除；备份用户自理，AI 不处理。
 - **git 提交纪律**：精读批次进行中只 commit 不 push；定稿或用户指令后统一推送（详见 AGENTS.md）。

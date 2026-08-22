@@ -7,11 +7,11 @@ SRC = sys.argv[1] if len(sys.argv) > 1 else "parisreview"
 
 if SRC == "economist":
     # economist 按期刊日期分目录，无统一"今日"目录；扫描最新一个
-    base = f"/Users/jcxs2014/Documents/Works/EnglishRead/economist"
+    base = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/economist"
     sub = sorted(os.listdir(base))[-1]
     OUT = os.path.join(base, sub)
 else:
-    OUT = f"/Users/jcxs2014/Documents/Works/EnglishRead/{SRC}/{date.today():%Y-%m-%d_%A}"
+    OUT = f"/Users/jcxs2014/Documents/Works/EnglishRead/notes/{SRC}/{date.today():%Y-%m-%d_%A}"
 
 # 各源题材/敏感度（idx -> 说明）；未知 idx 显示 '?'
 flags = {

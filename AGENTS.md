@@ -12,7 +12,7 @@
    - **原文**：`标题_snake_case.src.md`（仅本地留存，不进 git、不上网站）
    - **精读**：`标题_snake_case_精读.md`
    - 历史说明：260606–260815 批次精读文件名无 `_精读` 后缀（`X.md` 即精读），保持原样不改名
-4. 保存路径：`~/Documents/Works/EnglishRead/economist/<期刊日期>/`（如 `260822/`）
+4. 保存路径：`~/Documents/Works/EnglishRead/notes/economist/<期刊日期>/`（如 `notes/economist/260822/`）
 5. 文件名基于文章标题自动生成（用下划线代替空格，去掉标点）
 6. 每次会话开头不再需要等"继续"指令；用户给文本就分析+保存
 
