@@ -82,8 +82,6 @@
 
 | 词/短语 | 用法 | 例句 |
 |---------|------|------|
-| Cistercian | 熙笃会的（修道会） | — |
-| café | 咖啡馆 | — |
 | Being and Nothingness | 《存在与虚无》（Sartre 代表作） | — |
 | Nausea | 《恶心》（Sartre 小说） | — |
 | Words | 《词语》（Sartre 回忆录） | — |
