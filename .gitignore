@@ -112,3 +112,7 @@ novels/**/library/
 novels/**/text/
 novels/**/_chapters.json
 novels/tags              # calibre ebook-meta 自动产生的封面缓存
+
+# novels / macOS
+novels/**/*.DS_Store
+
