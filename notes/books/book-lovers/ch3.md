@@ -9,6 +9,13 @@
 - **门口金发男人**（unnamed）：**Golden-blond hair, square jaw, rugged beard, brawny, flannel shirt, sleeves rolled up, smells like evergreens and impending rain**——**全书最精准的"言情小说男主原型"**。
 - **Charlie Lastra**：在咖啡店里排队买咖啡，穿**黑卫衣、橄榄裤、黑鞋**。Nora 一开始"kind of looks like Charlie Lastra"——然后**三次确认"It's him"**。
 
+**段落逻辑链：**
+1. Nora 走出旅馆，**门口金发男人**（全镇最精准的"言情小说男主"）——**"he smells like evergreens and impending rain"**→
+2. Nora 走进咖啡店，**"kind of looks like Charlie Lastra"**——**三次确认"It's him"**→
+3. Charlie 认出 Nora（**"the woman who wrote me a note about a bear"**）——**Charlie 已经记住 Nora**→
+4. 两人在咖啡店相遇后分开——**"We're just going to keep running into each other, aren't we?"**→
+5. Nora 回 Lily Cottage——Libby 在门口迎接——**"Welcome to small town, city girl."**
+
 ---
 
 **选择性精读（6 处）：**

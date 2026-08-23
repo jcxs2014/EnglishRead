@@ -10,6 +10,13 @@
 - **Sally Goode**：Charlie 的妈妈，Lily Cottage 是她的度假屋。
 - **Jakob**：Nora 在酒吧提到——**"Jakob drinking beer from a can on his back"**——**Jakob = 啤酒 + 后仰**，与 Charlie 的**martini + 严肃**形成对照。
 
+**段落逻辑链：**
+1. Poppa Squat 撞车——Nora 把车撞进 Charlie 家栅栏——**"Poppa Squat"酒吧老板把 Charlie 的旧皮卡开出去**→
+2. Charlie 揭露**"I'm from here, Stephens"**——**Charlie 不是"来小镇的男人"，是"小镇的男人"**→
+3. Nora 在酒吧提起 Jakob——**"Jakob drinking beer from a can on his back"**——**Jakob = 啤酒 + 后仰**→
+4. 台球游戏——**"a game of pool, if I win you let me..."**→
+5. piggyback 回家——**Nora 被 Charlie 背着过小溪**——**"I've never been carried by anyone before"**。
+
 ---
 
 **选择性精读（7 处）：**
