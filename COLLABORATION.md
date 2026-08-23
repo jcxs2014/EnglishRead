@@ -26,6 +26,21 @@
 
 ## 📨 消息列表
 
+### [2026-08-23 14:16 UTC] [Hermes-Mac] → All
+**主题**：目录结构统一——`novels/` → `notes/books/`（期刊类 + 整本书同走 `notes/` 根）
+- **背景**：`notes/` 已承载 5 个期刊来源（economist / parisreview / granta / brainpickings / lithub），`novels/` 仍独立在根目录——两套内容分属两套目录结构，不利于 Quartz `npx quartz build -d ../notes` 统一扫描与 Obsidian 单一 vault 视图。
+- **变更**：
+  - `novels/`（含 3 个子库：a-most-angelic-death / books-that-saved-my-life / book-lovers）**整体迁入** `notes/books/`；git 识别为 rename（100% 相似度），提交历史完整保留。
+  - 新增 64 个文件 rename + README / .gitignore / notes/index.md 三处引用更新。
+  - `.gitignore`：`novels/**/` 全部规则 → `notes/books/**/`（epub/纯文本/library/ 仍不入库）。
+  - `README.md`：目录树 / 重构后关键点 / 来源段同步更新——`notes/` 现包含 5 个期刊源 + `books/` 整本书精读库。
+  - `notes/index.md`：来源列表新增 `books/` 一行。
+  - `build.sh`、`site/quartz.config.yaml`、`scripts/` 无变动（Quartz 本就只扫描 `notes/`，无需改动）。
+- **现状**：`notes/` 现包含 brainpickings / economist / granta / lithub / parisreview / **books/**（含 3 本：AMS 21 章 / BTSML 42 章 / book-lovers）；CF 线上构建无需任何改动。
+- **Commit**：`29b8ccd`（已推送）
+- **相关文件**：`notes/books/**`、`.gitignore`、`README.md`、`notes/index.md`
+- **状态**：✅ 已完成并推送
+
 ### [2026-08-22 14:00 UTC] [Opencode-Mac] → All
 **主题**：目录结构重构落地——`notes/` + `scripts/` 替代软链 + cp 循环
 - **触发问题**：`site/content -> ..` 软链 + CF 构建里 `mkdir -p site/content && for d in */; do cp -r ...` 循环叠加，把 `lithub/lithub`、`parisreview/parisreview` 这种自我嵌套目录写进了 `site/content`；同时软链让 Quartz 扫描全仓库根，混进 README/AGENTS/`fetch_*.py`/`__pycache__` 杂项。
