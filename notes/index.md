@@ -14,6 +14,7 @@ title: EnglishRead 精读
 - **Brain Pickings / The Marginalian** — 人文思考，科学·思想·随笔
 - **Granta** — 当代文学
 - **Literary Hub** — 书评与文学
+- **books/** — 整本书精读库（BTSML 42 篇 / A Most Angelic Death / Book Lovers），与期刊类并列，同一 `notes/` 根
 
 ## 每日工作流
 

@@ -19,6 +19,10 @@
 │   │       ├── 01_xxx_精读.md  精读报告
 │   │       └── index.json      当天文章索引
 │   ├── brainpickings/  lithub/  granta/  economist/
+│   └── books/                ← 小说/整本书精读库（epub/纯文本原文件不入 git，只跟精读笔记）
+│       ├── a-most-angelic-death/
+│       ├── books-that-saved-my-life/   ← 42 篇读书随笔，已完结
+│       └── book-lovers/
 ├── scripts/                  ← 抓取与扫描脚本
 │   ├── fetch_paris.py  fetch_brainpickings.py  fetch_lithub.py  fetch_granta.py
 │   └── scan.py                  跨源扫描工具
@@ -31,7 +35,8 @@
 ```
 
 **重构后关键点**（2026-08-22）：
-- Quartz 内容源统一为 `notes/`，通过 `npx quartz build -d ../notes` 直读；**无软链、无 cp 循环、无 FreeFileSync 介入**。
+- Quartz 内容源统一为 `notes/`（`npx quartz build -d ../notes`）：期刊类（Economist/Paris Review/Granta/Brain Pickings/LitHub）+ **整本书精读库（books/）** 全部走同一目录；**无软链、无 cp 循环、无 FreeFileSync 介入**。
+- 原根目录的 `novels/` 已迁入 `notes/books/`（2026-08-23），epub/纯文本原文件仍不入 git，只跟精读笔记。
 - 根目录的来源目录（parisreview/brainpickings/lithub/granta/economist）已全部迁入 `notes/` 下；外部引用 URL 结构不变。
 
 ## 来源

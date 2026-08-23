@@ -108,11 +108,10 @@ HERMES_MEMORY/
 *.src.md
 
 # --- 小说原始 epub 与提取文本（只跟踪精读笔记，原文件忽略）---
-novels/**/library/
-novels/**/text/
-novels/**/_chapters.json
-novels/tags              # calibre ebook-meta 自动产生的封面缓存
-
-# novels / macOS
-novels/**/*.DS_Store
+# 小说/整本书精读库在 notes/books/ 下；epub/纯文本原文件、calibre 元数据、封面缓存不入库
+notes/books/**/library/
+notes/books/**/text/
+notes/books/**/_chapters.json
+notes/books/tags
+notes/books/**/*.DS_Store
 
