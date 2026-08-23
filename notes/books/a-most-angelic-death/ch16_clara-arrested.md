@@ -56,31 +56,31 @@
 
 **③** "'You're telling me you added a possibly unknown substance to a man's tea, simply to get him high so he could meet your imaginary god?' He exchanged glances with Sally, seeing the same disbelief in her face. 'He is not imaginary, how dare you. He is testing me now, I am sure of it. But I know His caring hands will guide me through this trial of tribulation. If he wills me to go to jail, then so be it. I am sure His ever-loving plan for me will be to bring those poor souls into his forgiving embrace.'"
 - 中文理解："你在告诉我，你把一种可能未知的物质加进了一个男人的茶里，仅仅是为了让他嗨以便他能遇见你想象中的上帝？"他与 Sally 交换了眼神，在她脸上看到了同样的难以置信。"他不是想象的，你怎么敢。他正在考验我，我确信。但我知道他关怀的双手会引导我度过这次苦难的考验。如果他让我去坐牢，那就这样吧。我确信他对我永远充满爱的计划是把那些可怜的灵魂带入他宽容的怀抱。"
-- 关键词：imaginary god（**"想象中的上帝"**——Kinnock **用**"**"想象**"**来**"**解构**"**Clara **的**"**信仰**"**——**Kinnock **的**"**"想象中**"**是**"**全书对**"**宗教**"**的**"**最**"**世俗**"**的**"**批判**"）、trial of tribulation（**"苦难的考验"**——Clara **把**"**被捕**"**视为**"**"上帝的考验**"**——**Clara **的**"**宗教狂热**"**让她**"**把**"**犯罪**"**视为**"**"考验**"**——**Clara **的**"**"苦难**"**是**"**"自愿的**"**）。
-- 表达方式：**Clara 的"trial of tribulation"是**"**全书对"宗教狂热"的**"**最终极**"**的**"**描写**"**——**Clara **把**"**被捕**"**视为**"**"上帝的考验**"**——**Clara **的**"**"考验**"**是**"**"自愿的**"**——**Clara **主动**"**寻求**"**"苦难**"**来**"**"证明**"**她的**"**信仰**"。
-- 为什么这样写：**Clara 的"trial of tribulation"是**"**本书对"宗教殉道者心理"的**"**最精准**"**的**"**描写**"**——**Clara **不是**"**被迫**"**的**"**受害者**"**，是**"**自愿**"**的**"**殉道者**"**——**Clara **的**"**"自愿**"**是**"**她**"**最**"**危险**"**的**"**品质**"。
-- **读者视角提示**：**Clara 的"trial of tribulation"是**"**本书对"宗教狂热"的**"**最终极**"**的**"**讽刺**"**——**Clara **把**"**犯罪**"**视为**"**"考验**"**——**Clara **的**"**"考验**"**是**"**"自愿的**"**——**Clara **主动**"**寻求**"**"苦难**"**来**"**"证明**"**她的**"**信仰**"**——**Clara **的**"**"自愿**"**是**"**她**"**最**"**危险**"**的**"**品质**"。
+- 关键词：**"imaginary god"**（"想象中的上帝"——Kinnock 用"想象"来解构 Clara 的信仰，是全书对宗教最世俗的批判）；**"trial of tribulation"**（"苦难的考验"——Clara 把"被捕"视为"上帝的考验"，主动寻求苦难来证明信仰）。
+- 表达方式：Clara 的"trial of tribulation"是全书对"宗教狂热"最终极的描写——Clara 把"被捕"视为"上帝的考验"，把"犯罪"视为"考验"——Clara 的"考验"是自愿的。
+- 为什么这样写：Clara 的"trial of tribulation"是本书对"宗教殉道者心理"最精准的描写——Clara 不是被迫的受害者，是自愿的殉道者——Clara 的"自愿"是她最危险的品质。
+- 读者视角提示：Clara 的"trial of tribulation"是本书对"宗教狂热"最终极的讽刺——Clara 把"犯罪"视为"考验"——Clara 主动寻求苦难来证明信仰——Clara 的"自愿"是她最危险的品质。
 
 **④** "'Bugger off, Giles. I'm trying to deadhead this plant, I need to concentrate or we'll both be hallucinating to death.' 'Leave it until later, my love, come with me. I'll make you delirious instead.'"
 - 中文理解："滚开，Giles。我在修剪这株植物，我需要集中注意力，否则我们都会幻觉致死。""留到以后再弄吧，亲爱的，来我身边。我会让你发狂，而不是它。"
-- 关键词：hallucinating to death（**"幻觉致死"**——Layla **用**"**"致死**"**来形容**"**Angel's Trumpet **的**"**效果**"**——**Layla **知道**"**Angel's Trumpet **的**"**毒性**"**——**Layla **是**"**"知情者**"）、make you delirious instead（**"我会让你发狂"**——Giles **用**"**"发狂**"**作为**"**情欲**"**的承诺**"**——**Giles **的**"**"发狂**"**和**"**Angel's Trumpet **的**"**"致幻**"**是**"**同一个词**"**——**这个**"**双关**"**是**"**本书最**"**精妙的**"**情色+推理**"**手法**"）。
-- 表达方式：**Giles 的"make you delirious"是**"**全书最精妙的双关**"**——**"delirious"**"**既是**"**Angel's Trumpet **的**"**效果**"**，也是**"**情欲**"**的**"**描述**"**——**Giles **用**"**"致幻**"**来**"**承诺**"**"情欲**"**——**这个**"**双关**"**是**"**本书对**"**Angel's Trumpet **的**"**最**"**讽刺**"**的**"**描写**"。
-- 为什么这样写：**"delirious"的双关是**"**本书对"情欲+毒药"的**"**最精妙**"**的**"**结合**"**——**Angel's Trumpet **的**"**致幻**"**和**"**情欲**"**是**"**同一个**"**词**"**——**这个**"**双关**"**是**"**本书的**"**主题**"**——**情欲和死亡**"**是**"**同一件事**"。
-- **读者视角提示**：**"hallucinating to death"和"make you delirious"是**"**本章最**"**关键**"**的**"**双关**"**——**Layla 和 Giles 都知道**"**Angel's Trumpet **的**"**毒性**"**——**两人**"**都是**"**"知情者**"**——**两人**"**都**"**有**"**投毒的**"**知识**"**和**"**机会**"。
+- 关键词：**"make you delirious instead"**（"我会让你发狂"——Giles 用"发狂"作为情欲的承诺，"delirious"既是 Angel's Trumpet 的效果，也是情欲的描述，双关是本书最精妙的手法）；**"hallucinating to death"**（"幻觉致死"——Layla 用"致死"来形容 Angel's Trumpet 的效果，Layla 是"知情者"）。
+- 表达方式：Giles 的"make you delirious"是全书最精妙的双关——"delirious"既是 Angel's Trumpet 的效果，也是情欲的描述——Giles 用"致幻"来承诺"情欲"——这个"双关"是本书对 Angel's Trumpet 最讽刺的描写。
+- 为什么这样写："delirious"的双关是本书对"情欲+毒药"最精妙的结合——Angel's Trumpet 的"致幻"和"情欲"是同一个词——这个"双关"是本书的主题——情欲和死亡是同一件事。
+- 读者视角提示："hallucinating to death"和"make you delirious"是本章最关键的双关——Layla 和 Giles 都知道 Angel's Trumpet 的毒性——两人都是"知情者"——两人都有"投毒的知识"和"机会"。
 
 **⑤** "'You've been in my pants for some time now, you knew how much Alex meant to me.' 'Until he dumped you for being too old, you mean?' he said quickly, watching his barb strike. Cheeks flushing, she swung round to face him."
 - 中文理解："你在我裤子里待了挺久了，你知道 Alex 对我来说有多重要。""直到他用你太老了为由甩了你，你是说？"他快速地说，看着他的毒舌击中。脸颊涨红，她转身面对他。
-- 关键词：in my pants（**"在我的裤子里"**——Giles **用**"**"在裤子里**"**来形容**"**他和 Layla **的**"**关系**"**——**这个**"**直白的**"**性语言**"**是**"**本书对**"**"偷情**"**的**"**最**"**直白**"**的**"**描写**"）、being too old（**"太老了"**——Alex **用**"**"太老了**"**来**"**抛弃**"**Layla**——**Layla **的**"**动机**"**是**"**"年龄歧视**"**——**Alex **对 Layla **的**"**年龄歧视**"**是**"**Layla **杀害**"**Alex **的**"**动机**"）。
-- 表达方式：**Giles 的"being too old"是**"**全书对"年龄歧视"的**"**最**"**直白**"**的**"**描写**"**——**Giles **用**"**"太老了**"**来**"**刺激**"**Layla**——**Giles **的**"**"毒舌**"**是**"**"攻击**"**——**Giles **知道**"**Layla **的**"**痛点**"。
-- 为什么这样写：**"being too old"是**"**本书对"年龄歧视"的**"**最**"**直接**"**的**"**描写**"**——**Alex **用**"**"太老了**"**来**"**抛弃**"**Layla**——**这个**"**年龄歧视**"**是**"**本书对"年龄歧视"的**"**最**"**直接**"**的**"**呈现**"。
-- **读者视角提示**：**"being too old"是**"**Layla **的**"**动机**"**——**Layla **因为**"**"太老了**"**被**"**Alex **抛弃**"**——**Layla **的**"**年龄歧视**"**是**"**她**"**杀害**"**Alex **的**"**动机**"。
+- 关键词：**"being too old"**（"太老了"——Alex 用"太老了"来抛弃 Layla，年龄歧视是 Layla 杀害 Alex 的动机）；**"in my pants"**（"在我的裤子里"——Giles 用直白的性语言描述他和 Layla 的关系）。
+- 表达方式：Giles 的"being too old"是全书对"年龄歧视"最直白的描写——Giles 用"太老了"来刺激 Layla——Giles 的"毒舌"是"攻击"——Giles 知道 Layla 的痛点。
+- 为什么这样写："being too old"是本书对"年龄歧视"最直接的描写——Alex 用"太老了"来抛弃 Layla——这个"年龄歧视"是本书对"年龄歧视"最直接的呈现。
+- 读者视角提示："being too old"是 Layla 的动机——Layla 因为"太老了"被 Alex 抛弃——Layla 的"年龄歧视"是她杀害 Alex 的动机。
 
 **⑥** "'We're going to have to work out what we're going to say if…when…they find out we've been seeing each other for months. They'll realise we both had plenty of opportunity and motive to kill Alex. I don't want to go to prison because of that bastard.' 'Nor do I,' he replied, voice muffled. … 'I think we should just lay low until the whole thing blows over. They'll probably rule Alex's death as accidental due to recreational drug use, or something.'"
 - 中文理解："我们得想出他们发现我们偷情数月后该怎么说。他们会意识到我们都有充足的杀人机会和动机。我不想因为那个混蛋而坐牢。""我也不想，"他闷声回答。……"我觉得我们应该低调些直到一切过去。他们大概会把 Alex 的死判为因吸毒意外死亡之类的。"
-- 关键词：lay low（**"低调"**——Giles 和 Layla **用**"**"低调**"**来**"**描述**"**他们的**"**逃避策略**"**——**"lay low"是**"**全书最**"**"犯罪**"**的**"**词汇**"**——**"lay low"意味着**"**"逃避调查**"**——**Giles 和 Layla **的**"**"逃避**"**是**"**"共谋**"**的证据**"）、accidental due to recreational drug use（**"因吸毒意外死亡"**——Giles **用**"**"意外死亡**"**来**"**描述**"**Alex **的**"**死因**"**——**Giles **的**"**"意外死亡**"**是**"**"希望**"**——**Giles **希望**"**警方**"**把**"**Alex **的**"**死**"**判为**"**"意外**"**——**Giles **的**"**"希望**"**是**"**"逃避**"）。
-- 表达方式：**Giles 和 Layla 的"lay low"是**"**全书对"共谋"的**"**最**"**直接**"**的**"**描写**"**——**两人**"**讨论**"**"逃避调查**"**——**两人**"**都是**"**"知情者**"**——**两人**"**的**"**"逃避**"**是**"**"共谋**"**的证据**"。
-- 为什么这样写：**"lay low"是**"**本书对"共谋"的**"**最**"**直接**"**的**"**描写**"**——**Giles 和 Layla **讨论**"**"逃避**"**——**这个**"**"逃避**"**是**"**"共谋**"**的证据**"。
-- **读者视角提示**：**"lay low"和"accidental"是**"**本章最**"**关键**"**的**"**推理**"**——**Giles 和 Layla **希望**"**警方**"**把**"**Alex **的**"**死**"**判为**"**"意外**"**——**这个**"**"希望**"**是**"**"共谋**"**的证据**"。
+- 关键词：**"lay low"**（"低调"——Giles 和 Layla 用"低调"来描述他们的逃避策略，"lay low"意味着"逃避调查"，是"共谋"的证据）；**"accidental due to recreational drug use"**（"因吸毒意外死亡"——Giles 希望警方把 Alex 的死判为"意外"）。
+- 表达方式：Giles 和 Layla 的"lay low"是全书对"共谋"最直接的描写——两人讨论"逃避调查"——两人都是"知情者"——两人的"逃避"是"共谋"的证据。
+- 为什么这样写："lay low"是本书对"共谋"最直接的描写——Giles 和 Layla 讨论"逃避"——这个"逃避"是"共谋"的证据。
+- 读者视角提示："lay low"和"accidental"是本章最关键的推理——Giles 和 Layla 希望警方把 Alex 的死判为"意外"——这个"希望"是"共谋"的证据。
 
 **叙事技巧小结：**
 - **Clara 被捕**：灵魂茶含 kratom，不是 Angel's Trumpet——**Clara 的嫌疑从"直接凶手"降为"可能的共犯"**。
