@@ -56,52 +56,52 @@
 
 **①** "'Oi, knobhead. Come here.' … 'Alex Stibard, you know him?' … 'Yeah…and my boss wants payback. Stibard owed us money. A lot of money.' … 'I'm pretty sure he's not in a position to pay you back, you gimp. He's very dead.' 'You're not though, sweetheart. You can get us the cash.'"
 - 中文理解："喂，蠢货。过来。"……"Alex Stibard，你认识他？"……"认识……我老板想要回报。Stibard 欠我们钱。很多钱。"……"我很确定他现在没能力还你钱，瘸子。他已经死了。""你是活着的，甜心。你可以帮我们搞到钱。"
-- 关键词：knobhead（**"蠢货"**——Petrov 用英式粗话称呼 Sam，**Petrov 的"粗俗"是全书对"暴力者"的标签**）、gimp（**"瘸子"**——Sam 用"瘸子"回敬 Petrov，**Sam 的"反抗"是"嘴硬"**）、sweetheart（**"甜心"**——Petrov 用"甜心"称呼 Sam，**Petrov 的"甜心"是"虚伪的亲切"**——**Petrov 用最甜的话说最狠的事**）。
-- 表达方式：**Petrov 的"sweetheart"是全书最"虚伪"的称呼**——**Petrov 用"甜心"来"软化"他的威胁**——**Petrov 的"甜心"是"施暴者的糖衣"**。
-- 为什么这样写：**Petrov 的"sweetheart"是本书对"暴力者"的"心理画像"**——**Petrov 用"甜心"来"掩饰"他的暴力**——**Petrov 的"甜心"是"糖衣炮弹"**。
-- **读者视角提示**：**Petrov 的"sweetheart"是全书对"暴力者"的"最精准描写"**——**Petrov 用"甜心"来"软化"威胁——这个"软化"本身就是一种暴力**。
+- 关键词：**"knobhead"**（"蠢货"——Petrov 用英式粗话称呼 Sam）；**"gimp"**（"瘸子"——Sam 用"瘸子"回敬 Petrov，Sam 的"反抗"是"嘴硬"）；**"sweetheart"**（"甜心"——Petrov 用"甜心"称呼 Sam，用最甜的话说最狠的事）。
+- 表达方式：Petrov 的"sweetheart"是全书最"虚伪"的称呼——Petrov 用"甜心"来"软化"他的威胁——Petrov 的"甜心"是"施暴者的糖衣"。
+- 为什么这样写：Petrov 的"sweetheart"是本书对"暴力者"的"心理画像"——Petrov 用"甜心"来"掩饰"他的暴力——Petrov 的"甜心"是"糖衣炮弹"。
+- 读者视角提示：Petrov 的"sweetheart"是全书对"暴力者"最精准的描写——Petrov 用"甜心"来"软化"威胁——这个"软化"本身就是一种暴力。
 
 **②** "Sam was stunned by how fast the big man moved, his arm almost a blur as he lashed out. The blow against his cheek felt like a sledgehammer, making him spin around and stumble. Swaying for a moment, he fell to his knees into the mud, dazed with pain."
 - 中文理解：Sam 被那个大男人移动的速度震惊了，他的手臂几乎是一道残影。打在 Sam 脸颊上的拳头感觉像一柄雪橇锤，让他旋转跌倒。摇晃了一下后，他跪倒在泥里，因疼痛而眩晕。
-- 关键词：a blur（**"一道残影"**——Petrov 的"速度"是"非人的"——Petrov 的"暴力"是"超越常人"的）、sledgehammer（**"雪橇锤"**——Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工业化的"——Petrov 的拳头"不是拳头"，是"工具"）、dazed with pain（**"因疼痛而眩晕"**——Sam 的"眩晕"是"暴力的直接后果"——Sam 的"眩晕"是"全书对暴力"的"最真实"的描写"）。
-- 表达方式：**Petrov 的"sledgehammer"是全书对"暴力"的最精准比喻**——**Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工业化的"——Petrov 的暴力"不是人的暴力"，是"工具的暴力"**。
-- 为什么这样写：**Petrov 的"sledgehammer"是本书对"暴力"的"最诗意"的描写**——**Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工具"——Petrov 是"人形工具"**。
-- **读者视角提示**：**Petrov 的"sledgehammer"是全书对"暴力"的"最终极"的描写**——**Petrov 的"暴力"是"工业化的"——Petrov 不是"人"**，**Petrov 是"人形雪橇锤"**。
+- 关键词：**"a blur"**（"一道残影"——Petrov 的"速度"是"非人的"，暴力是"超越常人"的）；**"sledgehammer"**（"雪橇锤"——Petrov 的拳头是"雪橇锤"，暴力是"工业化的"——Petrov 的拳头"不是拳头"，是"工具"）；**"dazed with pain"**（"因疼痛而眩晕"——Sam 的"眩晕"是暴力的直接后果）。
+- 表达方式：Petrov 的"sledgehammer"是全书对"暴力"的最精准比喻——Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工业化的"——Petrov 的暴力"不是人的暴力"，是"工具的暴力"。
+- 为什么这样写：Petrov 的"sledgehammer"是本书对"暴力"的"最诗意"的描写——Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工具"——Petrov 是"人形工具"。
+- 读者视角提示：Petrov 的"sledgehammer"是全书对"暴力"的"最终极"的描写——Petrov 的"暴力"是"工业化的"——Petrov 不是"人"，Petrov 是"人形雪橇锤"。
 
 **③** "'I saw her, in the rain. She came for me.' … 'A Russian ghost,' he explained. 'My mum loves all that kind of stuff,' he continued, anticipating Kinnock's next question. 'An unquiet, dangerous spirit associated with water. In folklore, of course…not actual real life. My mum used to tell me how the rusalka could tickle a man to death while she laughed. And yes, she would tell me the tale while tickling me, of course. It's a mother thing…'"
 - 中文理解："我在雨里看见她了。她来找我。"……"一个俄罗斯鬼魂，"他解释。"我妈妈喜欢这类东西，"他继续说，预判 Kinnock 的下一个问题。"一个不安宁的、与水有关的危险灵魂。当然是民间传说……不是现实生活。我妈妈常告诉我 rusalka 能在笑的时候把人痒死。是的，她讲这个故事的时确实在痒我。当然。这是妈妈的作风……"
-- 关键词：Rusalka（**"水鬼"**——斯拉夫神话中的女鬼，**Petrov 用他的文化背景来解释 Lily**——**Petrov 的"水鬼"是"俄罗斯版的 Lily"**）、tickling a man to death（**"把人痒死"**——Petrov 妈妈讲的"水鬼故事"是"恐怖的"——Petrov 妈妈的"故事"是"爱的暴力"**——**"痒死"是"爱的暴力"**——Petrov 妈妈的"故事"和 Petrov 的"暴力"是"同一种东西"**）。
-- 表达方式：**Petrov 的"Rusalka"是全书对"鬼魂"的"文化相对"的最精彩描写**——**Petrov 用他的"俄罗斯神话"来解释 Lily**——**Lily 是"俄罗斯水鬼"，对 Petrov 来说**——**这个"文化翻译"是"全书对鬼魂"的"最有趣"的描写**"。
-- 为什么这样写：**Petrov 的"Rusalka"是本书对"鬼魂"的"文化相对"的最深刻描写**——**Petrov 用他的"文化"来"理解"Lily**——**Lily 是"俄罗斯水鬼"——Petrov 的"水鬼"是"文化投射"**。
-- **读者视角提示**：**Petrov 的"Rusalka"是全书对"鬼魂"的"最终极"的文化描写**——**Petrov 用"俄罗斯神话"来"解释"Lily**——**Lily 是"Petrov 的 Rusalka"**——**这个"文化翻译"是"全书对鬼魂"的"最诗意"的描写**。
+- 关键词：**"Rusalka"**（"水鬼"——斯拉夫神话中的女鬼，Petrov 用他的文化背景来解释 Lily——Lily 是"Petrov 的 Rusalka"）；**"tickling a man to death"**（"把人痒死"——Petrov 妈妈讲的"水鬼故事"是"恐怖的"——"痒死"是"爱的暴力"——Petrov 妈妈的"故事"和 Petrov 的"暴力"是"同一种东西"）。
+- 表达方式：Petrov 的"Rusalka"是全书对"鬼魂"的"文化相对"的最精彩描写——Petrov 用他的"俄罗斯神话"来解释 Lily——这个"文化翻译"是"全书对鬼魂"的"最有趣"的描写。
+- 为什么这样写：Petrov 的"Rusalka"是本书对"鬼魂"的"文化相对"的最深刻描写——Petrov 用他的"文化"来"理解"Lily——Lily 是"俄罗斯水鬼"——Petrov 的"水鬼"是"文化投射"。
+- 读者视角提示：Petrov 的"Rusalka"是全书对"鬼魂"的"最终极"的文化描写——Petrov 用"俄罗斯神话"来"解释"Lily——Lily 是"Petrov 的 Rusalka"——这个"文化翻译"是"全书对鬼魂"的"最诗意"的描写。
 
 **④** "'He murdered me to get my role and shag my woman. I'm going to tear his eyes out, and then I'm going to kill him.' He shook her off, his strength surprising her, then continued to prowl towards Giles, a swirl of energy gathering around his body."
 - 中文理解："他谋杀我，为了抢我的角色和我女人。我要挖出他的眼睛，然后我要杀了他。"他甩开她，他的力量让她惊讶，然后继续向 Giles 靠近，一团能量在他身体周围聚集。
-- 关键词：tear his eyes out（**"挖出他的眼睛"**——Alex 的"暴力"是"古代的"——Alex 的"挖眼"是"原始复仇"的宣言**——**Alex 的"挖眼"是"全书对复仇"的"最原始"的描写**）、a swirl of energy（**"一团能量"**——Alex 的"能量"是"他的愤怒的物理化"**——**Alex 的"能量"是"全书对鬼魂力量"的"最精确"的描写**"）。
-- 表达方式：**Alex 的"tear his eyes out"是全书对"复仇"的最原始描写**——**Alex 的"挖眼"是"古代的"**——**Alex 的"挖眼"是"原始的"**——**Alex 的"复仇"是"原始的"**。
-- 为什么这样写：**Alex 的"tear his eyes out"是本书对"复仇"的"最原始"的描写**——**Alex 的"挖眼"是"古代的"**——**Alex 的"复仇"是"原始的"**。
-- **读者视角提示**：**Alex 的"tear his eyes out"是全书对"复仇"的"最危险"的描写**——**Alex 的"挖眼"是"原始的"**——**Alex 的"复仇"是"原始的"**——**Alex 的"复仇"是"全书最危险的**"**时刻**"。
+- 关键词：**"tear his eyes out"**（"挖出他的眼睛"——Alex 的"暴力"是"古代的"，"挖眼"是"原始复仇"的宣言）；**"a swirl of energy"**（"一团能量"——Alex 的"能量"是"他的愤怒的物理化"）。
+- 表达方式：Alex 的"tear his eyes out"是全书对"复仇"的最原始描写——Alex 的"挖眼"是"古代的"——Alex 的"复仇"是"原始的"。
+- 为什么这样写：Alex 的"tear his eyes out"是本书对"复仇"的"最原始"的描写——Alex 的"挖眼"是"古代的"——Alex 的"复仇"是"原始的"。
+- 读者视角提示：Alex 的"tear his eyes out"是全书对"复仇"的"最危险"的描写——Alex 的"挖眼"是"原始的"——Alex 的"复仇"是"原始的"——Alex 的"复仇"是"全书最危险的"时刻。
 
 **⑤** "'Lily's in trouble,' he said, pointing towards Alex, worried by the vacant look on Lily's face. … Seeing the commotion, Ash dragged Rita towards Lily, pushing his way through the crowd now backing away from the unusual phenomenon… They were within touching distance when Alex suddenly threw back his head and roared, the blast of furious energy buffeting Giles and making him stagger."
 - 中文理解："'Lily 有麻烦了，'他说，指着 Alex，担心 Lily 脸上茫然的表情。……看到骚动，Ash 拉着 Rita 向 Lily 走去，挤过正在远离这 unusual 现象的人群……他们即将触及时，Alex 突然仰头咆哮，愤怒的能量冲击波让 Giles 踉跄。"
-- 关键词：vacant look（**"茫然的表情"**——Lily 的"茫然"是"她被 Alex 的"能量"吸引的标志"——Lily 的"茫然"是"她被吞噬的前兆**——**Lily 的"茫然"是"全书对'被愤怒吞噬'"的最精确的描写**）、unusual phenomenon（**"异常现象"**——围观者用"异常现象"来形容 Alex 的龙卷风——**围观者的"理性语言"和 Alex 的"超自然力量"形成对照**——**"unusual phenomenon"是"理性的无力"的表现**）、buffeting（**"冲击"**——Alex 的"能量"是"冲击波"**——**Alex 的"咆哮"是"全书对鬼魂力量"的"最强大"的描写**"）。
-- 表达方式：**"vacant look"和"unusual phenomenon"是全书对"超自然"的"最精妙的理性化描写"**——**Lily 的"茫然"是"理性的失效"**，**围观者的"异常现象"是"理性的无力"**——**两个词汇从两个方向描写同一个超自然事件**。
-- 为什么这样写：**"vacant look"和"unusual phenomenon"是本书对"超自然"的"最精妙的理性化"描写**——**作者用"理性词汇"来描写"超自然事件"**——**这种"理性化"让"超自然"变得"可信"**。
-- **读者视角提示**：**"vacant look"是 Lily 被吞噬的"第一个信号"**——**Lily 的"茫然"是"她被 Alex 的"能量"吸引的标志"**——**这个"信号"让读者在 Lily 消失前感到"预兆的恐惧"**。
+- 关键词：**"vacant look"**（"茫然的表情"——Lily 的"茫然"是"她被 Alex 的能量吸引的标志"，"她被吞噬的前兆"）；**"unusual phenomenon"**（"异常现象"——围观者用"理性语言"来描述 Alex 的龙卷风——"理性化"的无力）；**"buffeting"**（"冲击"——Alex 的"能量"是"冲击波"）。
+- 表达方式："vacant look"和"unusual phenomenon"是全书对"超自然"的"最精妙的理性化描写"——Lily 的"茫然"是"理性的失效"，围观者的"异常现象"是"理性的无力"——两个词汇从两个方向描写同一个超自然事件。
+- 为什么这样写："vacant look"和"unusual phenomenon"是本书对"超自然"的"最精妙的理性化"描写——作者用"理性词汇"来描写"超自然事件"——这种"理性化"让"超自然"变得"可信"。
+- 读者视角提示："vacant look"是 Lily 被吞噬的"第一个信号"——Lily 的"茫然"是"她被 Alex 的能量吸引的标志"——这个"信号"让读者在 Lily 消失前感到"预兆的恐惧"。
 
 **⑥** "Ash suddenly leapt forward and wrapped his arms around her, trying to ignore the intense cold that froze his skin. Shocked at the sudden contact, his essence so full of life, Lily blinked and stared around her, puzzled."
 - 中文理解：Ash 突然冲上前抱住她，试图无视冻结他皮肤的强烈寒意。Ash 充满生命的本质让 Lily 受到震惊，Lily 眨了眨眼，困惑地环顾四周。
-- 关键词：leapt forward（**"冲上前"**——Ash 的"冲动"是"本能的"**——**Ash 的"冲上前"是"全书对'爱'的"最本能"的描写"**——**Ash 的"爱"是"行动"，不是"语言"**）、essence so full of life（**"充满生命的本质"**——Ash 的"生命"是"他的"本质"**——**Ash 的"生命"是"对抗 Alex 的"死亡"**"的武器**——**Ash 的"生命"是"全书对'爱'的"最诗意"的描写"**）。
-- 表达方式：**Ash 的"leapt forward"和"essence so full of life"是全书对"爱"的最诗意描写**——**Ash 的"爱"是"冲动的"**——**Ash 的"爱"是"本能的"**——**Ash 的"生命"是"对抗死亡"的武器**。
-- 为什么这样写：**Ash 的"leapt forward"是本书对"爱"的"最本能"的描写**——**Ash 的"爱"是"行动"**——**Ash 的"爱"不是"语言"**，**Ash 的"爱"是"拥抱"**。
-- **读者视角提示**：**Ash 的"leapt forward"是 Lily 从"愤怒漩涡"中恢复的"关键"**——**Ash 的"拥抱"是"生命力"的"传递"**——**Ash 的"生命"让 Lily "清醒"**——**Ash 的"爱"是"Lily 的拯救"**。
+- 关键词：**"leapt forward"**（"冲上前"——Ash 的"冲动"是"本能的"，"Ash 的爱"是"行动"，不是"语言"）；**"essence so full of life"**（"充满生命的本质"——Ash 的"生命"是"对抗 Alex 的死亡"的武器）。
+- 表达方式：Ash 的"leapt forward"和"essence so full of life"是全书对"爱"的最诗意描写——Ash 的"爱"是"冲动的"——Ash 的"生命"是"对抗死亡"的武器。
+- 为什么这样写：Ash 的"leapt forward"是本书对"爱"的"最本能"的描写——Ash 的"爱"是"行动"——Ash 的"爱"不是"语言"，Ash 的"爱"是"拥抱"。
+- 读者视角提示：Ash 的"leapt forward"是 Lily 从"愤怒漩涡"中恢复的"关键"——Ash 的"拥抱"是"生命力"的"传递"——Ash 的"生命"让 Lily "清醒"——Ash 的"爱"是"Lily 的拯救"。
 
 **⑦** "'You were like a solid anchor in the water,' Lily said, moving to sit by his side, wishing she could lean against him. 'A rock full of life to keep me here. Thanks, Sam.' Seeing the tender look that passed between them, Rita sighed. This young love was going to be a tough one."
 - 中文理解："你就像水中的坚固锚点，"Lily 说，移动到他身边坐下，希望她能靠在他身上。"一块充满生命的石头让我留在这里。谢谢你，Sam。"看到他们之间温柔的目光，Rita 叹了口气。这段年轻的爱会很艰难。
-- 关键词：solid anchor（**"坚固的锚"**——Sam 是 Lily 的"人类锚点"**——**Sam 的"锚"是"全书对'爱'的"最精妙"的超自然隐喻"**——**Sam 的"锚"让 Lily "留在这里"**——**Sam 的"锚"是"爱的力量"的物理化**）、a rock full of life（**"一块充满生命的石头"**——Sam 是"石头"**——**Sam 的"石头"是"坚固的"**——**Sam 的"石头"是"永恒"**——**Sam 的"石头"是"全书对'爱'的"最稳固"的描写**"）。
-- 表达方式：**"solid anchor"和"a rock full of life"是全书对"爱"的最精妙超自然隐喻**——**Sam 是 Lily 的"锚"**——**Sam 的"锚"是"爱的力量"的物理化**——**Sam 的"爱"是"Lily 的"生存锚"**。
-- 为什么这样写：**Sam 的"solid anchor"是本书对"爱"的"最精妙"的超自然描写**——**Sam 的"爱"是"锚"**——**Sam 的"锚"让 Lily "留在这里"**——**Sam 的"爱"是"Lily 的"生存条件"**。
-- **读者视角提示**：**"solid anchor"是 Lily 和 Sam 关系的"最终定义"**——**Sam 是 Lily 的"锚"**——**Sam 的"锚"让 Lily "留在这里"**——**Sam 的"锚"是"Lily 和 Sam 关系的"核心"**——**这个"锚"也意味着"Lily 不能离开 Sam"——Lily 的"自由"和 Sam 的"爱"是"矛盾的"**。
+- 关键词：**"solid anchor"**（"坚固的锚"——Sam 是 Lily 的"人类锚点"——Sam 的"锚"让 Lily "留在这里"——Sam 的"锚"是"爱的力量"的物理化）；**"a rock full of life"**（"一块充满生命的石头"——Sam 的"石头"是"坚固的"——Sam 的"石头"是"永恒"）。
+- 表达方式："solid anchor"和"a rock full of life"是全书对"爱"的最精妙超自然隐喻——Sam 是 Lily 的"锚"——Sam 的"锚"是"爱的力量"的物理化——Sam 的"爱"是"Lily 的"生存锚"。
+- 为什么这样写：Sam 的"solid anchor"是本书对"爱"的"最精妙"的超自然描写——Sam 的"爱"是"锚"——Sam 的"锚"让 Lily "留在这里"——Sam 的"爱"是"Lily 的"生存条件"。
+- 读者视角提示："solid anchor"是 Lily 和 Sam 关系的"最终定义"——Sam 是 Lily 的"锚"——Sam 的"锚"让 Lily "留在这里"——Sam 的"锚"是"Lily 和 Sam 关系的"核心"——这个"锚"也意味着"Lily 不能离开 Sam"——Lily 的"自由"和 Sam 的"爱"是"矛盾的"。
 
 **叙事技巧小结：**
 - **Petrov 殴打 Sam**：Petrov 的"暴力"是"工业化的"——Petrov 的拳头是"雪橇锤"。
@@ -113,7 +113,7 @@
 
 **词汇（本章）：**
 - ⭐⭐⭐ Rusalka / Prizrak / sledgehammer / maelstrom / malevolence / malevolent / malevolently
-- ⭐⭐ precariously / languidly / languid / languid / languid / languid
+- ⭐⭐ precariously / languidly / languid / languor
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
 
 ---
