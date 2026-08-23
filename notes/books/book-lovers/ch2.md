@@ -51,7 +51,7 @@
 **⑥** "By the time we get back to the city, whatever little gaps have cropped up between us will be stitched closed again."
 - 中文理解：等我们回到城里，姐妹之间出现的那些小裂缝都会被缝合好。
 - 关键词：**stitched closed**（**"缝合好"**——**"stitched"是"缝合"，不是"glued"（粘好）**——**"缝合"暗示有伤口，而"粘好"只是表面**；Nora 用**"stitched"**承认姐妹关系确实**有伤口**。
-- 为什么这样写：**"stitched"** 是本章最精准的一个动词——**伤口需要缝合，不是粘好**。这是 Nora **承认姐妹关系确实有裂缝**——**"stitched"** 这个动词本身就暴露了她**知道问题存在**，但她**不想在飞机上讨论**。
+- 为什么这样写：**"stitched"** 是本章最精准的一个动词——**伤口需要缝合，不是粘好**。这是 Nora **承认姐妹关系确实有裂缝**—— 这个动词本身就暴露了她**知道问题存在**，但她**不想在飞机上讨论**。
 
 ---
 

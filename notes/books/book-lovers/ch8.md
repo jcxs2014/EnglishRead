@@ -79,4 +79,4 @@
 | Loggia Publishing | 出版社名 | — |
 | Goode Books | 书店名 | — |
 
-**一句话总结：** *"I want it. Dusty's book. Frigid. I want to work on it."* Charlie 主动要求编辑 Dusty 的书——**全书第一次"权力翻转"**；然后 Charlie 揭露秘密——**"I work here"**，**"my parents own this place"**——**Charlie 的父母拥有 Goode Books**；Nora 报复 Charlie，对着老奶奶说**"You must be Principal Schroeder"**——**Nora 用 Charlie 自己的武器反击**。
+**一句话总结：** *"I want it. Dusty's book. Frigid. I want to work on it."* Charlie 主动要求编辑 Dusty 的书——**全书第一次"权力翻转"**；然后 Charlie 揭露秘密——**"I work here"**，——**Charlie 的父母拥有 Goode Books**；Nora 报复 Charlie，对着老奶奶说——**Nora 用 Charlie 自己的武器反击**。

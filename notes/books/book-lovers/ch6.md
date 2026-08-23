@@ -23,7 +23,7 @@
 
 **①** "I'm from here, Stephens."
 - 中文理解："我是这里的人，Stephens。"
-- 关键词：**"from here"**——**Charlie 不是"来小镇的男人"，是"小镇的男人"**。
+- 关键词：**"from here"**——。
 - 为什么这样写：这是全书**最大的情节反转**。Prologue 到 Ch5 一直在建立 Nora 的"城市女人 vs 小镇男人"的叙事框架——Charlie 一开口说"from here"，**这个框架瞬间崩塌**：**Charlie 不属于"城市女人"和"小镇男人"的二元对立**——**他是第三种人**。
 
 **②** "Charlie Lastra is from Sunshine Falls."

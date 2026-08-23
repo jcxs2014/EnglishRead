@@ -73,4 +73,4 @@
 | pool | 台球 | — |
 | darts | 飞镖 | — |
 
-**一句话总结：** *"He smells like evergreens and impending rain."* Nora 走出旅馆门遇到"言情小说男主原型"金发男人，**第一次心跳加速**；然后走进咖啡店，**三次确认"It's him"**——Charlie 也在这里。**Nora 蹲在棋盘游戏书架后面发了一封"试探性"邮件**——**"how do you feel about talking animals?"**——**全书第一次"双主角同台"**。
+**一句话总结：** *"He smells like evergreens and impending rain."* Nora 走出旅馆门遇到"言情小说男主原型"金发男人，**第一次心跳加速**；然后走进咖啡店，——Charlie 也在这里。**Nora 蹲在棋盘游戏书架后面发了一封"试探性"邮件**——**"how do you feel about talking animals?"**——**全书第一次"双主角同台"**。
