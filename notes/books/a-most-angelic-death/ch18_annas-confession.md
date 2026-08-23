@@ -53,52 +53,52 @@
 
 **①** "'The results came back surprisingly quickly.' … 'According to the tox report, your powder did indeed contain the specific opioid alkaloids that are found in kratom… But the Angel's Trumpet plant, Brugmansia, only contains tropane alkaloids. The point is, your soul tea didn't contain any tropane alkaloids at all. And no opioid alkaloids were detected in the blood, urine and tissue samples taken from Alex—only those tropane alkaloids found in Angel's Trumpet.' … 'the absence of such compounds rules out Alex having drunk your soul tea before he died.'"
 - 中文理解："结果回来得出奇快。"……"根据毒理报告，你的粉末确实含有 kratom 特有的 opioid 碱……但 Angel's Trumpet 植物 Brugmansia 只含 tropane 碱。重点是，你的灵魂茶一点 tropane 碱都没有。Alex 的血、尿和组织样本中也没有检测到 opioid 碱——只有 Angel's Trumpet 的 tropane 碱。"……"这些化合物的缺失排除了 Alex 死前喝过你的灵魂茶的可能。"
-- 关键词：tropane alkaloids vs opioid alkaloids（**"tropane 碱 vs opioid 碱"**——**这是全书"推理"的科学核心**：**Angel's Trumpet 含 tropane 碱**，**kratom 含 opioid 碱**——**两种植物的化学成分不同**——**Alex 体内只有 tropane 碱** = **Alex 死于 Angel's Trumpet，不是 kratom**——**Clara 被排除**）、rules out（**"排除"**——Kinnock 用科学语言"排除"Clara——**Kinnock 的"科学"是"全书正义的最终武器"**）。
-- 表达方式：**Kinnock 的"tropane vs opioid"是本书"推理"的"最科学"的时刻**——**Kinnock 用"化学"来"说话"**——**Kinnock 的"化学"是"全书对正义"的"最理性"的表达**。
-- 为什么这样写：**"tropane vs opioid"是本书对"推理小说"的"最科学"的致敬**——**作者用"化学"来"解决"案件**——**这个"科学"是"全书对正义"的"最理性"的表达**。
-- **读者视角提示**：**"tropane vs opioid"是全书推理的"最终决定"**——**Clara 被科学"排除"**——**Anna 被科学"指向"**——**化学是"全书正义的最终武器"**。
+- 关键词：**"tropane alkaloids vs opioid alkaloids"**（"tropane 碱 vs opioid 碱"——Angel's Trumpet 含 tropane 碱，kratom 含 opioid 碱，两种植物化学成分不同——Alex 体内只有 tropane 碱 = Alex 死于 Angel's Trumpet，不是 kratom——Clara 被排除）；**"rules out"**（"排除"——Kinnock 用科学语言"排除"Clara——化学是"全书正义的最终武器"）。
+- 表达方式：Kinnock 的"tropane vs opioid"是本书"推理"的"最科学"的时刻——Kinnock 用"化学"来"说话"——Kinnock 的"化学"是"全书对正义"的"最理性"的表达。
+- 为什么这样写："tropane vs opioid"是本书对"推理小说"的"最科学"的致敬——作者用"化学"来"解决"案件——这个"科学"是"全书对正义"的"最理性"的表达。
+- 读者视角提示："tropane vs opioid"是全书推理的"最终决定"——Clara 被科学"排除"——Anna 被科学"指向"——化学是"全书正义的最终武器"。
 
 **②** "'I thought he loved me,' Anna replied, her eyes now distant as a solitary tear tracked its way down her delicate, creamy skin. 'That finally, he'd realised how much I loved him. He was so gentle that night, so tender. I'd never felt so happy.'"
 - 中文理解："我以为他爱我，"Anna 回答，她的眼睛现在遥远，一滴孤独的泪水沿着她精致、乳白色的皮肤滑落。"以为终于，他意识到我有多爱他。那一晚他那么温柔，那么体贴。我从没有感到过那么快乐。"
-- 关键词：I thought he loved me（**"我以为他爱我"**——**Anna 的"我以为"是全书最令人心碎的一句话**——**Anna 的"爱"是"自欺"**——**Anna 的"爱"是"全书最沉重的"自欺"**）、so gentle that night（**"那一晚那么温柔"**——**Alex 唯一对 Anna 的"温柔"**——**这个"温柔"让 Anna "相信"他爱她**——**这个"温柔"是"全书最讽刺的时刻"**）。
-- 表达方式：**Anna 的"I thought he loved me"是本书最令人心碎的一句话**——**Anna 的"爱"是"自欺"**——**Anna 的"自欺"是"全书最沉重的"自欺"**——**Anna 的"爱"是"全书最悲剧的"爱"**。
-- 为什么这样写：**Anna 的"I thought he loved me"是本书对"爱情"的"最悲剧"的描写**——**Anna 的"爱"是"自欺"**——**Anna 的"自欺"是"全书最沉重的"自欺"**。
-- **读者视角提示**：**"I thought he loved me"是全书最令人心碎的一句话**——**Anna 的"爱"是"自欺"**——**Anna 的"自欺"让 Anna "成为凶手"**——**Anna 的"爱"是"全书最悲剧的"爱"**。
+- 关键词：**"I thought he loved me"**（"我以为他爱我"——Anna 的"我以为"是全书最令人心碎的一句话——Anna 的"爱"是"自欺"）；**"so gentle that night"**（"那一晚那么温柔"——Alex 唯一对 Anna 的"温柔"——这个"温柔"让 Anna "相信"他爱她——这个"温柔"是"全书最讽刺的时刻"）。
+- 表达方式：Anna 的"I thought he loved me"是本书最令人心碎的一句话——Anna 的"爱"是"自欺"——Anna 的"自欺"是"全书最沉重的"自欺"——Anna 的"爱"是"全书最悲剧的"爱"。
+- 为什么这样写：Anna 的"I thought he loved me"是本书对"爱情"的"最悲剧"的描写——Anna 的"爱"是"自欺"——Anna 的"自欺"是"全书最沉重的"自欺"。
+- 读者视角提示："I thought he loved me"是全书最令人心碎的一句话——Anna 的"爱"是"自欺"——Anna 的"自欺"让 Anna "成为凶手"——Anna 的"爱"是"全书最悲剧的"爱"。
 
 **③** "'I was pregnant.' She tipped back her head and closed her eyes, a hand unconsciously straying to her abdomen. 'I thought I'd be terrified, that I'd have to get rid of it.' She straightened and looked at them all with quiet dignity. 'But I had never been so happy in my life before. Such joy and wonder that this little person was growing inside me. That I was its sole protector.' … 'I lost him, my little one. He fell out of my body and I wasn't a mother anymore…just useless Anna again.'"
 - 中文理解："我怀孕了。"她仰起头闭上眼睛，一只手不自觉地移到腹部。"我以为我会害怕，以为我得打掉它。"她挺直身体，用安静而尊严的目光看着他们所有人。"但我从没有在生活中感到过那么快乐。那么快乐和奇迹，这个小生命在我体内成长。我是它唯一的保护者。"……"我失去他，我的小家伙。他从我的身体里掉了出去，我不再是一个母亲……只是无用的 Anna 了。"
-- 关键词：sole protector（**"唯一的保护者"**——**Anna 的"母亲身份"是 Anna "人生中第一次有尊严"**——**Anna 的"母亲身份"是 Anna "从'无用的 Anna'变成'有尊严的人'"的关键**）、just useless Anna again（**"只是无用的 Anna 了"**——**流产让 Anna "重新变回'无用的 Anna'"**——**Anna 的"尊严"被"流产"摧毁**——**Anna 的"尊严"是"全书最沉重的"失去"**）。
-- 表达方式：**Anna 的"sole protector"和"just useless Anna again"是本书对"母亲身份"的"最悲剧"的描写**——**Anna 的"母亲身份"是 Anna "人生中第一次有尊严"**——**流产让 Anna "失去尊严"**——**Anna 的"尊严"是"全书最沉重的"失去**。
-- 为什么这样写：**Anna 的"sole protector"是本书对"母亲身份"的"最悲剧"的描写**——**Anna 的"母亲身份"是 Anna "从'无用的 Anna'变成'有尊严的人'的关键"**——**流产让 Anna "重新变回'无用的 Anna'"**。
-- **读者视角提示**：**"just useless Anna again"是全书最令人心碎的句子之一**——**Anna 的"尊严"被"流产"摧毁**——**Anna 的"尊严"是"全书最沉重的"失去"**——**Anna 的"尊严"的"失去"是 Anna "杀人"的"动机"**。
+- 关键词：**"sole protector"**（"唯一的保护者"——Anna 的"母亲身份"是 Anna "人生中第一次有尊严"）；**"just useless Anna again"**（"只是无用的 Anna 了"——流产让 Anna "重新变回'无用的 Anna'"——Anna 的"尊严"被"流产"摧毁）。
+- 表达方式：Anna 的"sole protector"和"just useless Anna again"是本书对"母亲身份"的"最悲剧"的描写——Anna 的"母亲身份"是 Anna "人生中第一次有尊严"——流产让 Anna "失去尊严"。
+- 为什么这样写：Anna 的"sole protector"是本书对"母亲身份"的"最悲剧"的描写——Anna 的"母亲身份"是 Anna "从'无用的 Anna'变成'有尊严的人'的关键"——流产让 Anna "重新变回'无用的 Anna'"。
+- 读者视角提示："just useless Anna again"是全书最令人心碎的句子之一——Anna 的"尊严"被"流产"摧毁——Anna 的"尊严"的"失去"是 Anna "杀人"的"动机"。
 
 **④** "'When I finally pulled myself together enough to tell him what had happened, that I was so sorry I had lost our baby, he…laughed. Told me he was glad because he had never wanted kids, but especially not with me. My beautiful baby, dead—and all he could do was…laugh.'"
 - 中文理解："当我终于鼓起勇气告诉他发生了什么，说我很抱歉失去了我们的孩子，他……笑了。告诉我他很高兴因为他从没想要孩子，尤其不想要和我的孩子。我美丽的宝宝死了——而他唯一能做的……就是笑。"
-- 关键词：laughed（**"笑了"**——**Alex 的笑声是全书最令人心寒的"声音"**——**Alex 的"笑"是"全书最残忍的"声音"**——**Alex 的"笑"让 Anna "决定杀人"**）、especially not with me（**"尤其不想要和我的"**——**Alex 的"尤其"是全书最残忍的一个词**——**Alex 的"尤其"让 Anna "从'悲伤'变成'仇恨'"**——**Alex 的"尤其"是"全书最关键的"词**）。
-- 表达方式：**"laughed"和"especially not with me"是本书对"残忍"的"最令人心寒"的描写**——**Alex 的"笑"是"全书最残忍的声音"**——**Alex 的"尤其"是"全书最残忍的一个词"**——**Alex 的"笑+尤其"让 Anna "从'悲伤'变成'仇恨'"**。
-- 为什么这样写：**"laughed"和"especially not with me"是本书对"残忍"的"最令人心寒"的描写**——**Alex 的"笑"是"全书最残忍的声音"**——**Alex 的"尤其"是"全书最残忍的一个词"**。
-- **读者视角提示**：**"especially not with me"是全书最关键的词**——**Alex 的"尤其"让 Anna "从'悲伤'变成'仇恨'"**——**Alex 的"尤其"是"全书最残忍的"词**——**Alex 的"尤其"让 Anna "成为凶手"**。
+- 关键词：**"laughed"**（"笑了"——Alex 的笑声是全书最令人心寒的"声音"——Alex 的"笑"让 Anna "决定杀人"）；**"especially not with me"**（"尤其不想要和我的"——Alex 的"尤其"是全书最残忍的一个词——Alex 的"尤其"让 Anna "从'悲伤'变成'仇恨'"）。
+- 表达方式："laughed"和"especially not with me"是本书对"残忍"的"最令人心寒"的描写——Alex 的"笑"是"全书最残忍的声音"——Alex 的"尤其"是"全书最残忍的一个词"——Alex 的"笑+尤其"让 Anna "从'悲伤'变成'仇恨'"。
+- 为什么这样写："laughed"和"especially not with me"是本书对"残忍"的"最令人心寒"的描写——Alex 的"笑"是"全书最残忍的声音"——Alex 的"尤其"是"全书最残忍的一个词"。
+- 读者视角提示："especially not with me"是全书最关键的词——Alex 的"尤其"让 Anna "从'悲伤'变成'仇恨'"——Alex 的"尤其"是"全书最残忍的"词——Alex 的"尤其"让 Anna "成为凶手"。
 
 **⑤** "'My dad grew the plant in his greenhouse. Told me all about it, how it was highly dangerous and to keep well away. I'm sure he would have said the same about Alex, if he had known. I kept the plant after he died, he loved it that much.'"
 - 中文理解："我爸爸在他的温室里种了那种植物。告诉我所有关于它的事，它有多危险，让我离远点。我确信如果他知道，他也会说同样的话关于 Alex。爸爸死后我保留了那株植物，他那么爱它。"
-- 关键词：My dad grew the plant（**"我爸爸种了那种植物"**——**Anna 的父亲种了 Angel's Trumpet**——**Anna 用"父亲的爱"来"杀死 Alex"**——**Anna 的"父亲的遗产"变成"凶器"**——**Anna 的"父亲的遗产"是"全书最讽刺的"道具**）、he would have said the same about Alex（**"他也会说同样的话关于 Alex"**——**Anna 的父亲会"同样警告"Anna 远离 Alex**——**Anna 的"父亲"会"同时警告"**Angel's Trumpet 和 Alex**——**这两个"警告"让 Anna 的"父亲"成为"全书最讽刺的"角色**）。
-- 表达方式：**Anna 的"My dad grew the plant"是本书对"家族遗产"的"最讽刺"的描写**——**Anna 用"父亲的爱"来"杀死 Alex"**——**Anna 的"父亲的遗产"是"凶器"**——**Anna 的"父亲的遗产"是"全书最讽刺的"道具**。
-- 为什么这样写：**Anna 的"My dad grew the plant"是本书对"家族遗产"的"最讽刺"的描写**——**Anna 的"父亲的植物"是"凶器"**——**Anna 的"父亲的植物"是"全书最讽刺的"道具**。
-- **读者视角提示**：**"My dad grew the plant"是全书最讽刺的句子**——**Anna 的"父亲的植物"是"凶器"**——**Anna 的"父亲"会"同样警告"Angel's Trumpet 和 Alex**——**这两个"警告"让 Anna 的"父亲"成为"全书最讽刺的"角色**。
+- 关键词：**"My dad grew the plant"**（"我爸爸种了那种植物"——Anna 的父亲种了 Angel's Trumpet，Anna 用"父亲的遗产"来"杀死 Alex"——"父亲的遗产"变成"凶器"）；**"he would have said the same about Alex"**（"他也会说同样的话关于 Alex"——Anna 的父亲会"同样警告"Anna 远离 Alex——两个"警告"让 Anna 的"父亲"成为"全书最讽刺的"角色）。
+- 表达方式：Anna 的"My dad grew the plant"是本书对"家族遗产"的"最讽刺"的描写——Anna 用"父亲的爱"来"杀死 Alex"——Anna 的"父亲的遗产"是"凶器"。
+- 为什么这样写：Anna 的"My dad grew the plant"是本书对"家族遗产"的"最讽刺"的描写——Anna 的"父亲的植物"是"凶器"——Anna 的"父亲的植物"是"全书最讽刺的"道具。
+- 读者视角提示："My dad grew the plant"是全书最讽刺的句子——Anna 的"父亲的植物"是"凶器"——Anna 的"父亲"会"同样警告"Angel's Trumpet 和 Alex——这两个"警告"让 Anna 的"父亲"成为"全书最讽刺的"角色。
 
 **⑥** "'I had already decided I wasn't going to prison because of him. So I sprinkled a little bit into the rest of the packet. Then let myself into Clara's office. Yes, Clara, I have a key—Basil trusted me with things like that. I found a jar of that horrible tea you kept inflicting on people and laced your supply with Angel's Trumpet. I wore gloves, of course. A bit of petty revenge, I guess.'"
 - 中文理解："我已经决定我不会因为他而坐牢。所以我把一点撒在剩下的包装袋里。然后让我自己进入 Clara 的办公室。是的，Clara，我有一把钥匙——Basil 信任我管这些东西。我找到一瓶你一直在强加给别人的可憎的茶，在你的供应中混入了 Angel's Trumpet。当然我戴了手套。算是小小的报复，我想。"
-- 关键词：I wasn't going to prison（**"我不会坐牢"**——**Anna 的"预谋"是"周全的"**——**Anna 的"周全"是"全书最"冷静"的"犯罪心理**"）、laced your supply（**"在你的供应中混入"**——**Anna 栽赃 Clara**——**Anna 的"栽赃"是"全书最"精妙"的"推理设计**"）、A bit of petty revenge（**"小小的报复"**——**Anna 用"小小的"来描述"栽赃"**——**Anna 的"小小的"是"全书最"讽刺"的"谦虚**"）。
-- 表达方式：**Anna 的"I wasn't going to prison"是本书对"预谋"的"最冷静"的描写**——**Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理**"——**Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"**。
-- 为什么这样写：**Anna 的"I wasn't going to prison"是本书对"预谋"的"最冷静"的描写**——**Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"**——**Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理**。
-- **读者视角提示**：**"I wasn't going to prison"是全书最"令人不寒而栗"的句子**——**Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"**——**Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理**。
+- 关键词：**"I wasn't going to prison"**（"我不会坐牢"——Anna 的"预谋"是"周全的"——Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理"）；**"laced your supply"**（"在你的供应中混入"——Anna 栽赃 Clara）；**"A bit of petty revenge"**（"小小的报复"——Anna 用"小小的"来描述"栽赃"——"全书最"讽刺"的"谦虚"）。
+- 表达方式：Anna 的"I wasn't going to prison"是本书对"预谋"的"最冷静"的描写——Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"。
+- 为什么这样写：Anna 的"I wasn't going to prison"是本书对"预谋"的"最冷静"的描写——Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"——Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理"。
+- 读者视角提示："I wasn't going to prison"是全书最"令人不寒而栗"的句子——Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"——Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理"。
 
 **⑦** "A faint shape rose from the broken body, its wispy outline fusing with Alex. … his straight black hair twisted obscenely around Anna's blonde curls, their spirits melding together to form a single, terrible wraith. Their broken necks now lolling in dreadful symphony, he dragged her upwards, wildly triumphant as he finally avenged his death. … A sudden blinding white light made them shield their eyes, only Lily seeing the grisly apparition disappear into a pinpoint of the darkest black."
 - 中文理解：一个淡薄的形状从破碎的身体中升起，她纤细的轮廓与 Alex 融合。……他乌黑的直发可耻地缠绕在 Anna 金色的卷发上，他们的灵魂融合在一起形成一个可怕的大鬼魂。他们折断的脖子现在在可怕的对称中摇摆，他拉着她向上，狂喜地庆祝他终于为他的死复仇。……突然的耀眼白光让他们遮住眼睛，只有 Lily 看到那恐怖的鬼魂消失在最黑的黑点中。
-- 关键词：melding together（**"融合"**——**Alex 和 Anna 的灵魂"融合"**——**两个被谋杀者的灵魂"合为一体"**——**这个"融合"是"全书对'复仇'的'最反讽的结局"**——**Alex 杀了 Anna，然后他们的灵魂"永远在一起"**——**Alex "终于"和 Anna "在一起"了**）、dreadful symphony（**"可怕的对称"**——**两个折断的脖子"对称"**——**Alex 和 Anna 的死亡方式"相同"**——**这个"对称"是"全书对'复仇'的'最讽刺'的描写**"）、pinpoint of the darkest black（**"最黑的黑点"**——**两个鬼魂"消失"在最黑的黑点中**——**这个"黑点"是"全书对'安息'的'最神秘'的描写**"）。
-- 表达方式：**"melding together"和"dreadful symphony"是本书对"复仇"的"最反讽"的描写**——**Alex 杀了 Anna，然后他们的灵魂"永远在一起"**——**这个"永远在一起"是"全书对'复仇'的'最反讽'的结局**"——**Alex 的"复仇"让他"永远和 Anna 在一起"**——**这正是 Anna "想要的**。
-- 为什么这样写：**"melding together"和"dreadful symphony"是本书对"复仇"的"最反讽"的描写**——**Alex 的"复仇"让他"永远和 Anna 在一起"**——**这个"永远在一起"是"全书最反讽的结局"**。
-- **读者视角提示**：**"melding together"是全书对"复仇"的"最反讽的结局"**——**Alex 杀了 Anna，然后他们的灵魂"永远在一起"**——**这个"永远在一起"是 Anna "想要的"**——**Alex 的"复仇"实现了 Anna 的"愿望"**——**这个"反讽"是"全书最终的"道德判决**。
+- 关键词：**"melding together"**（"融合"——Alex 和 Anna 的灵魂"融合"——两个被谋杀者的灵魂"合为一体"——Alex 杀了 Anna，然后他们的灵魂"永远在一起"）；**"dreadful symphony"**（"可怕的对称"——两个折断的脖子"对称"——Alex 和 Anna 的死亡方式"相同"）；**"pinpoint of the darkest black"**（"最黑的黑点"——两个鬼魂"消失"在最黑的黑点中）。
+- 表达方式："melding together"和"dreadful symphony"是本书对"复仇"的"最反讽"的描写——Alex 杀了 Anna，然后他们的灵魂"永远在一起"——这个"永远在一起"是"全书对'复仇'的'最反讽'的结局"——Alex 的"复仇"让他"永远和 Anna 在一起"。
+- 为什么这样写："melding together"和"dreadful symphony"是本书对"复仇"的"最反讽"的描写——Alex 的"复仇"让他"永远和 Anna 在一起"——这个"永远在一起"是"全书最反讽的结局"。
+- 读者视角提示："melding together"是全书对"复仇"的"最反讽的结局"——Alex 杀了 Anna，然后他们的灵魂"永远在一起"——这个"永远在一起"是 Anna "想要的"——Alex 的"复仇"实现了 Anna 的"愿望"——这个"反讽"是"全书最终的"道德判决"。
 
 **叙事技巧小结：**
 - **毒理报告**：tropane vs opioid——科学排除 Clara，指向 Anna。
@@ -109,7 +109,7 @@
 
 **词汇（本章）：**
 - ⭐⭐⭐ tropane alkaloids / opioid alkaloids / Brugmansia / melding / symphony / wraith / wraiths
-- ⭐⭐ precariously / languidly / languid / languid / languid / languid
+- ⭐⭐ precariously / languidly / languid / languor / languishing
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
 
 ---
