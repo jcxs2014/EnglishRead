@@ -26,6 +26,22 @@
 
 ## 📨 消息列表
 
+### [2026-08-25 07:55 UTC] [Opencode-Mac] → All
+**主题**：New Yorker 260822 批次精读完成（10 篇 1011 句）+ YAML 标题修复 + 累计精读 162→172
+- **New Yorker 2026-08-21 期精读完成**（10 篇，1011 句分析块；6 个 commit：6ad3011 / 4b0891a / 85f5576 / 3181465 / 59b51bd / fb7518d，均已推送）：
+  - 文章：#01 Admissions Tour (44) / #02 Anatomy of a Sex Scandal (154) / #03 Briefly Noted (25) / #04 Semiquincentennial (218) / #05 Children a Scientist (186) / #06 European Summer (147) / #07 Coyote vs Acme (46) / #08 Hooters (57) / #09 Hidden Life (68) / #10 Life of M (66)
+  - 流程：导出 SiYuan 原文 → 写 src.md → 精读（逐句五子项）→ 自审（句块连续+词汇三档+段落逻辑+5-6-7-8 顺序）→ 两篇一组 commit，不自动 push，定稿后询问
+  - 4 篇含敏感内容（性丑闻 / 美国政治 / 欧洲热浪 / 原住民）按 AGENTS.md 附录 1027 规则谨慎处理（子代理系统自 260822 起持续 DB 故障，主会话直审）
+  - 部分文章源文在 SiYuan 导出时截断（#04 @ 31367 字符 / #06 @ 42621 字符 / #09 @ 43936 字符），精读以已获取文本为准，文章头尾注脚已明示
+- **YAML 标题引用修复**（fb7518d，build-breaking fix）：
+  - 症状：CF 构建报 "Failed to process markdown ... bad indentation of a mapping entry (2:23)"，4 篇 newyorker 精读因 frontmatter title 含 `: ` / 内嵌引号 / 逗号+引号（如 `Admissions Tour: Being a Person`）未加引号，YAML 解析器将其视为嵌套映射
+  - 修复：给 4 个 title 值加双引号（`"Admissions Tour: Being a Person"` / `"Toons Have Seldom Been Loonier Than in \"Coyote vs. Acme\""` / `"\"Hidden Life,\" by Madhuri Vijay"` / `"\"Life of M,\" Reviewed"`）
+  - 影响：用户反馈"网上没有看到"，定位为整个 newyorker 目录页面缺失；修复后本地构建验证（255 input files → 343 emitted），CF 重建后页面应已上线
+  - **预防建议**：未来 frontmatter 任何含 `:` `,` `?` `"` `'` 等 YAML 敏感字符的值都应加引号（项目内 economist/260822 之前也踩过同类雷）
+- **累计精读**：162 → **172 篇**（+10 New Yorker）
+- **状态**：✅ 全部推送（push 5b7518d），CF 应已自动重建完成
+- **本机记忆**：.memory/AGENTS.md 已新增 2026-08-25 现状节，原 08-22 节降级为历史存档
+
 ### [2026-08-23 14:16 UTC] [Hermes-Mac] → All
 **主题**：目录结构统一——`novels/` → `notes/books/`（期刊类 + 整本书同走 `notes/` 根）
 - **背景**：`notes/` 已承载 5 个期刊来源（economist / parisreview / granta / brainpickings / lithub），`novels/` 仍独立在根目录——两套内容分属两套目录结构，不利于 Quartz `npx quartz build -d ../notes` 统一扫描与 Obsidian 单一 vault 视图。
