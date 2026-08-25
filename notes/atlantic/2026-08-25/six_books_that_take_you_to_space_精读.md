@@ -42,7 +42,7 @@
 
 ### 第1段：作者对外星生命的个人看法
 
-> **原句1:** When I look at the night sky, I don't wonder whether alien life is somewhere out there; I think it probably is.
+> **原句 1:** When I look at the night sky, I don't wonder whether alien life is somewhere out there; I think it probably is.
 
 - **中文理解：** 当我仰望夜空时，我不会去想外星生命是否存在于某处；我认为它很可能就在那里。
 
@@ -56,7 +56,7 @@
 
 ---
 
-> **原句2:** Considering the sheer number of stars in the cosmos, and the possibly larger number of planets that revolve around them, the idea that humans are alone in the universe strikes me as unlikely.
+> **原句 2:** Considering the sheer number of stars in the cosmos, and the possibly larger number of planets that revolve around them, the idea that humans are alone in the universe strikes me as unlikely.
 
 - **中文理解：** 考虑到宇宙中恒星的惊人数量，以及围绕它们运转的行星数量可能更多，人类在宇宙中孤独存在这一想法在我看来不太可能。
 
@@ -70,7 +70,7 @@
 
 ---
 
-> **原句3:** So, instead, I wonder: What is that life like, and will we ever encounter it?
+> **原句 3:** So, instead, I wonder: What is that life like, and will we ever encounter it?
 
 - **中文理解：** 所以，相反，我好奇的是：那种生命是什么样的，我们是否会遇到它？
 
@@ -90,7 +90,7 @@
 
 ### 第2段：科幻小说揭示人类真相的目的
 
-> **原句4:** Searching for extraterrestrials is, generally speaking, the province of scientists.
+> **原句 4:** Searching for extraterrestrials is, generally speaking, the province of scientists.
 
 - **中文理解：** 搜寻地外生命，一般来说，是科学家的领域。
 
@@ -104,7 +104,7 @@
 
 ---
 
-> **原句5:** But I'm a writer, and many of us also seek answers to equally fundamental questions about our fellow humans.
+> **原句 5:** But I'm a writer, and many of us also seek answers to equally fundamental questions about our fellow humans.
 
 - **中文理解：** 但我是个作家，我们中的许多人也在寻求关于我们同类人类的同样根本性的问题的答案。
 
@@ -118,7 +118,7 @@
 
 ---
 
-> **原句6:** As I found while working on my own novel, writing about aliens can be strangely helpful in this pursuit.
+> **原句 6:** As I found while working on my own novel, writing about aliens can be strangely helpful in this pursuit.
 
 - **中文理解：** 正如我在创作自己的小说时所发现的，写外星人在这个追求中可以出奇地有帮助。
 
@@ -132,7 +132,7 @@
 
 ---
 
-> **原句7:** Just as astronomers use telescopes to examine celestial objects light-years away, novelists can invoke imagined civilizations to reveal truths closer to home, in part by forcing their characters into contact with alien environments and worldviews.
+> **原句 7:** Just as astronomers use telescopes to examine celestial objects light-years away, novelists can invoke imagined civilizations to reveal truths closer to home, in part by forcing their characters into contact with alien environments and worldviews.
 
 - **中文理解：** 正如天文学家使用望远镜来观察数光年之外的天体，小说家也可以调用虚构的文明来揭示更贴近生活的真相，部分原因是通过迫使他们的角色接触外星环境和世界观。
 
@@ -146,7 +146,7 @@
 
 ---
 
-> **原句8:** These fictional interactions challenge assumptions about relationships and consciousness, allowing authors to ask how universal our values really are.
+> **原句 8:** These fictional interactions challenge assumptions about relationships and consciousness, allowing authors to ask how universal our values really are.
 
 - **中文理解：** 这些虚构的互动挑战了关于关系和意识的假设，让作者能够追问我们的价值观究竟有多普遍。
 
@@ -160,7 +160,7 @@
 
 ---
 
-> **原句9:** In the following six books, each writer looks to space to skillfully explore what it means to live on Earth.
+> **原句 9:** In the following six books, each writer looks to space to skillfully explore what it means to live on Earth.
 
 - **中文理解：** 在接下来的六本书中，每位作家都将目光投向太空，巧妙地探索在地球上生活的意义。
 
@@ -180,7 +180,7 @@
 
 ### 第3段：书评一《Contact》— Carl Sagan
 
-> **原句10:** This groundbreaking novel, first published in 1985, examines the divide between blind faith and evidence-based belief—and how readily one can blur into the other.
+> **原句 10:** This groundbreaking novel, first published in 1985, examines the divide between blind faith and evidence-based belief—and how readily one can blur into the other.
 
 - **中文理解：** 这部开创性的小说，最初出版于1985年，审视了盲目信仰与基于证据的信念之间的鸿沟——以及一方多么容易模糊为另一方。
 
@@ -194,7 +194,7 @@
 
 ---
 
-> **原句11:** When the Earth's population receives an alien radio signal that includes instructions for building a mysterious machine, people must decide together what to do with it.
+> **原句 11:** When the Earth's population receives an alien radio signal that includes instructions for building a mysterious machine, people must decide together what to do with it.
 
 - **中文理解：** 当地球居民收到一个包含建造神秘机器指令的外星无线电信号时，人们必须共同决定如何处理它。
 
@@ -208,7 +208,7 @@
 
 ---
 
-> **原句12:** In many ways, *Contact* celebrates humans' ability to work in unison, even as it acknowledges how easily our pursuit of progress can lead to self-destruction.
+> **原句 12:** In many ways, *Contact* celebrates humans' ability to work in unison, even as it acknowledges how easily our pursuit of progress can lead to self-destruction.
 
 - **中文理解：** 在许多方面，《Contact》歌颂了人类协同工作的能力，同时也承认我们对进步的追求多么容易导致自我毁灭。
 
@@ -222,7 +222,7 @@
 
 ---
 
-> **原句13:** The science advocate's passion for teaching comes through in his clear prose and clean explanations, and his novel offers a sense of hope that is rare in modern speculative fiction: When the advanced alien beings ultimately appear, they show their goodwill by taking the form of the humans' "deepest loves."
+> **原句 13:** The science advocate's passion for teaching comes through in his clear prose and clean explanations, and his novel offers a sense of hope that is rare in modern speculative fiction: When the advanced alien beings ultimately appear, they show their goodwill by taking the form of the humans' "deepest loves."
 
 - **中文理解：** 这位科学倡导者的教学热情通过他清晰的散文和简洁的解释传达出来，他的小说提供了一种在现代推想小说中罕见的希望感：当高等外星生物最终出现时，它们通过化身为人类"最深的爱"来表达善意。
 
@@ -242,7 +242,7 @@
 
 ### 第4段：书评二《Dawn》— Octavia E. Butler
 
-> **原句14:** Salvation and exploitation go hand in hand in this story by one of science fiction's all-time greats.
+> **原句 14:** Salvation and exploitation go hand in hand in this story by one of science fiction's all-time greats.
 
 - **中文理解：** 救赎与剥削在这个故事中携手并行，作者是科幻小说史上最伟大的作家之一。
 
@@ -256,7 +256,7 @@
 
 ---
 
-> **原句15:** *Dawn*'s main character, Lilith, awakens in the care of an alien species long after Earth has been destroyed by nuclear war.
+> **原句 15:** *Dawn*'s main character, Lilith, awakens in the care of an alien species long after Earth has been destroyed by nuclear war.
 
 - **中文理解：** 《Dawn》的主角莉莉丝在地球因核战争毁灭很久之后，在一个外星物种的照料下醒来。
 
@@ -270,7 +270,7 @@
 
 ---
 
-> **原句16:** These beings, the Oankali, seem magnanimous, but Lilith soon learns that they are not selfless; they are acting on a biological imperative to merge their genes with those of other taxons.
+> **原句 16:** These beings, the Oankali, seem magnanimous, but Lilith soon learns that they are not selfless; they are acting on a biological imperative to merge their genes with those of other taxons.
 
 - **中文理解：** 这些生物——奥安卡利人——看起来宽宏大量，但莉莉丝很快了解到它们并非无私；它们是在按照一种生物本能行事，将其基因与其他物种的基因融合。
 
@@ -284,7 +284,7 @@
 
 ---
 
-> **原句17:** Lilith is charged with preparing other awakened humans to help repopulate a revitalized Earth, but she knows that if she accepts and succeeds, future generations of her species will become something very different from her.
+> **原句 17:** Lilith is charged with preparing other awakened humans to help repopulate a revitalized Earth, but she knows that if she accepts and succeeds, future generations of her species will become something very different from her.
 
 - **中文理解：** 莉莉丝被委以重任，要为其他醒来的人类做准备，帮助重新繁衍一个复兴的地球，但她知道，如果她接受并成功，她这个物种的后代将变得与她非常不同。
 
@@ -298,7 +298,7 @@
 
 ---
 
-> **原句18:** Complex and unflinching, *Dawn* explores thorny issues involving consent and power; most forcefully, the novel contemplates what it truly means to love another being.
+> **原句 18:** Complex and unflinching, *Dawn* explores thorny issues involving consent and power; most forcefully, the novel contemplates what it truly means to love another being.
 
 - **中文理解：** 《Dawn》复杂而毫不退缩，探讨了涉及同意与权力的棘手问题；最有力的是，这部小说思考了真正爱另一个生命意味着什么。
 
@@ -318,7 +318,7 @@
 
 ### 第5段：书评三《Singer Distance》— Ethan Chatagnier
 
-> **原句19:** In the alternate reality of *Singer Distance*, an alien civilization exists on Mars—but it's not much interested in humans.
+> **原句 19:** In the alternate reality of *Singer Distance*, an alien civilization exists on Mars—but it's not much interested in humans.
 
 - **中文理解：** 在《Singer Distance》的架空现实中，一个外星文明存在于火星上——但它对人类并不怎么感兴趣。
 
@@ -332,7 +332,7 @@
 
 ---
 
-> **原句20:** Chatagnier's Martians blaze mathematical proofs across the surface of their planet, big enough to be visible by telescope, but they eschew all other forms of communication.
+> **原句 20:** Chatagnier's Martians blaze mathematical proofs across the surface of their planet, big enough to be visible by telescope, but they eschew all other forms of communication.
 
 - **中文理解：** Chatagnier笔下的火星人在其星球表面"燃烧"数学证明，大到足以通过望远镜看到，但他们回避所有其他形式的交流。
 
@@ -346,7 +346,7 @@
 
 ---
 
-> **原句21:** They deign to acknowledge our existence only when we display a correct answer across the Earth in turn.
+> **原句 21:** They deign to acknowledge our existence only when we display a correct answer across the Earth in turn.
 
 - **中文理解：** 只有当我们在地球上也展示出一个正确答案时，它们才屈尊承认我们的存在。
 
@@ -360,7 +360,7 @@
 
 ---
 
-> **原句22:** The story opens in the 1960s, during a long communication gap, as a group of MIT graduate students sets out to solve a proof that stumped the greatest minds of the previous generation (including Albert Einstein).
+> **原句 22:** The story opens in the 1960s, during a long communication gap, as a group of MIT graduate students sets out to solve a proof that stumped the greatest minds of the previous generation (including Albert Einstein).
 
 - **中文理解：** 故事设定在1960年代，在一个长期的通信中断期间，一群麻省理工学院的研究生着手解决一个让上一代最伟大的头脑（包括爱因斯坦）都困惑不已的证明。
 
@@ -374,7 +374,7 @@
 
 ---
 
-> **原句23:** This gorgeous novel explores obsession from multiple angles, asking how far people will go to find the answers that they feel they need.
+> **原句 23:** This gorgeous novel explores obsession from multiple angles, asking how far people will go to find the answers that they feel they need.
 
 - **中文理解：** 这部华丽的小说从多个角度探讨痴迷，追问人们为了找到他们觉得需要的答案会走多远。
 
@@ -388,7 +388,7 @@
 
 ---
 
-> **原句24:** And when a breakthrough with the Martians does come, it's enabled by another universal language—art—to beautiful and touching effect.
+> **原句 24:** And when a breakthrough with the Martians does come, it's enabled by another universal language—art—to beautiful and touching effect.
 
 - **中文理解：** 而当与火星人的突破终于到来时，它是被另一种普遍语言——艺术——所促成的，产生了美丽而动人的效果。
 
@@ -408,7 +408,7 @@
 
 ### 第6段：书评四《Providence》— Max Barry
 
-> **原句25:** Seven years before the start of this novel, an alien species slaughtered everyone aboard a human spaceship—Earth's first contact with extraterrestrials.
+> **原句 25:** Seven years before the start of this novel, an alien species slaughtered everyone aboard a human spaceship—Earth's first contact with extraterrestrials.
 
 - **中文理解：** 在这部小说开始的七年前，一个外星物种屠杀了人类飞船上的所有人——这是地球与地外生命的第一次接触。
 
@@ -422,7 +422,7 @@
 
 ---
 
-> **原句26:** *Providence* follows the four-person crew of an interstellar warship on a multiyear mission of revenge.
+> **原句 26:** *Providence* follows the four-person crew of an interstellar warship on a multiyear mission of revenge.
 
 - **中文理解：** 《Providence》讲述了一艘星际战舰上四人船员执行多年复仇任务的故事。
 
@@ -436,7 +436,7 @@
 
 ---
 
-> **原句27:** Through each voyager's distinct perspective, the book explores artificial intelligence, social media, and the effects of extended isolation.
+> **原句 27:** Through each voyager's distinct perspective, the book explores artificial intelligence, social media, and the effects of extended isolation.
 
 - **中文理解：** 通过每位旅行者不同的视角，本书探讨了人工智能、社交媒体以及长期隔离的影响。
 
@@ -450,7 +450,7 @@
 
 ---
 
-> **原句28:** One character doesn't care about these aliens' civilization; he is content just to kill as many as possible.
+> **原句 28:** One character doesn't care about these aliens' civilization; he is content just to kill as many as possible.
 
 - **中文理解：** 其中一个角色不在乎这些外星人的文明；他满足于尽可能多地杀死它们。
 
@@ -464,7 +464,7 @@
 
 ---
 
-> **原句29:** Another is driven to discover more; a third is focused on maintaining the morale of the others, even as she herself unravels.
+> **原句 29:** Another is driven to discover more; a third is focused on maintaining the morale of the others, even as she herself unravels.
 
 - **中文理解：** 另一个角色被驱使着去发现更多；第三个角色专注于维持其他人的士气，即使她自己正在崩溃。
 
@@ -478,7 +478,7 @@
 
 ---
 
-> **原句30:** And their captain has to balance their individual needs against the requirements of the mission.
+> **原句 30:** And their captain has to balance their individual needs against the requirements of the mission.
 
 - **中文理解：** 而他们的船长必须在个人需求和任务要求之间取得平衡。
 
@@ -492,7 +492,7 @@
 
 ---
 
-> **原句31:** Barry provides riveting, rewarding action without sacrificing smarts or character development.
+> **原句 31:** Barry provides riveting, rewarding action without sacrificing smarts or character development.
 
 - **中文理解：** Barry提供了扣人心弦、令人满足的动作场面，同时没有牺牲智慧或角色发展。
 
@@ -506,7 +506,7 @@
 
 ---
 
-> **原句32:** This quick read explores mankind's dueling urges to connect and destroy, our divergent responses to the unknown, and how far some among us will go to protect ourselves and the people we care about.
+> **原句 32:** This quick read explores mankind's dueling urges to connect and destroy, our divergent responses to the unknown, and how far some among us will go to protect ourselves and the people we care about.
 
 - **中文理解：** 这本快速读物探讨了人类连接与毁灭的矛盾冲动、我们对未知的分歧反应，以及我们中的一些人为了保护自己和我们关心的人会走多远。
 
@@ -526,7 +526,7 @@
 
 ### 第7段：书评五《If We Cannot Go at the Speed of Light》— Kim Choyeop
 
-> **原句33:** In Kim's first story collection translated into English, she takes a few different approaches to what connecting with extraterrestrials might be like.
+> **原句 33:** In Kim's first story collection translated into English, she takes a few different approaches to what connecting with extraterrestrials might be like.
 
 - **中文理解：** 在Kim被翻译成英文的第一部故事集中，她对与外星生命建立联系可能是什么样的，采取了几种不同的方式。
 
@@ -540,7 +540,7 @@
 
 ---
 
-> **原句34:** One story challenges the notion that contact with another species is likely to lead to conflict, instead tying the evolution of human morality to a symbiotic relationship with an alien race.
+> **原句 34:** One story challenges the notion that contact with another species is likely to lead to conflict, instead tying the evolution of human morality to a symbiotic relationship with an alien race.
 
 - **中文理解：** 其中一个故事挑战了"与另一个物种的接触可能导致冲突"的观念，转而将人类道德的进化与和外星种族的共生关系联系起来。
 
@@ -554,7 +554,7 @@
 
 ---
 
-> **原句35:** What might it mean if, perhaps, the basic goodness of children were rooted not in innocence but in another world's wisdom?
+> **原句 35:** What might it mean if, perhaps, the basic goodness of children were rooted not in innocence but in another world's wisdom?
 
 - **中文理解：** 如果，也许，孩子们的基本善良不是根植于天真，而是根植于另一个世界的智慧，这意味着什么？
 
@@ -568,7 +568,7 @@
 
 ---
 
-> **原句36:** In another story, set in the far future, a scientist who had disappeared decades earlier reappears in an emergency shuttle, claiming to have been saved by a technologically primitive alien race.
+> **原句 36:** In another story, set in the far future, a scientist who had disappeared decades earlier reappears in an emergency shuttle, claiming to have been saved by a technologically primitive alien race.
 
 - **中文理解：** 在另一个设定在遥远未来的故事中，一个几十年前失踪的科学家乘坐紧急穿梭机重新出现，声称被一个技术原始的外星种族救了。
 
@@ -582,7 +582,7 @@
 
 ---
 
-> **原句37:** In this scenario, our two species share many physical similarities but have one major divergence: These aliens do not appear to believe in death.
+> **原句 37:** In this scenario, our two species share many physical similarities but have one major divergence: These aliens do not appear to believe in death.
 
 - **中文理解：** 在这个设定中，我们两个物种有许多身体上的相似之处，但有一个主要的分歧：这些外星人似乎不相信死亡。
 
@@ -596,7 +596,7 @@
 
 ---
 
-> **原句38:** This culminates in one more hypothetical: What if art could literally transport a soul?
+> **原句 38:** This culminates in one more hypothetical: What if art could literally transport a soul?
 
 - **中文理解：** 这最终引出一个假设：如果艺术能够真正地运送一个灵魂呢？
 
@@ -616,7 +616,7 @@
 
 ### 第8段：书评六《The Zoologist's Guide to the Galaxy》— Arik Kershenbaum
 
-> **原句39:** In his nonfiction exploration, Kershenbaum asserts that our understanding of the evolution of life on Earth provides a solid scaffolding for projecting what alien organisms might really be like.
+> **原句 39:** In his nonfiction exploration, Kershenbaum asserts that our understanding of the evolution of life on Earth provides a solid scaffolding for projecting what alien organisms might really be like.
 
 - **中文理解：** 在他的非虚构探索中，Kershenbaum断言，我们对地球生命演化的理解为推想外星生物可能的真实面貌提供了坚实的框架。
 
@@ -627,80 +627,6 @@
 - **表达方式：** "solid scaffolding" 将抽象的理论框架比作具体的建筑脚手架，形象地说明了地球生命演化理论如何支撑对外星生物的推想。
 
 - **为什么这样写：** "scaffolding" 是一个精妙的比喻——脚手架是临时的、可调整的，暗示这种推想是初步的，但有坚实的基础。
-
----
-
-> **原句40:** An exoplanet with an Earth-like environment, for example, could give rise to species with similar adaptations to those we have here—which isn't to say that giraffes roam on faraway worlds, but instead that where the equivalent of tall trees grow, creatures with the equivalent of long necks are likely to evolve.
-
-- **中文理解：** 例如，一个拥有类地环境的系外行星可能孕育出与我们这里具有相似适应性的物种——这并不是说长颈鹿会在遥远的世界漫游，而是说在等同于高大树木生长的地方，具有等同于长脖子的生物很可能进化出来。
-
-- **句子结构：** 主句 "could give rise to" + "which isn't to say that A, but instead that B" 对比结构（否定一个误解，肯定正确理解）。
-
-- **关键词：** exoplanet（系外行星），give rise to（孕育，产生），adaptations（适应性），equivalent（等同物）。
-
-- **表达方式：** "which isn't to say that giraffes roam... but instead that..." 是一种"先破后立"的解释方式——先否定读者的误解，再给出正确的理解。
-
-- **为什么这样写：** 用长颈鹿这个具体例子说明"趋同演化"的原理——不是相同的物种会在外星出现，而是相似的环境压力会催生相似的适应性特征。
-
----
-
-> **原句41:** Intelligent species—ones we might think of as our peers—may also display adaptations such as language and cooperation, because they play key roles in our own survival.
-
-- **中文理解：** 智慧物种——我们可能视为同类的物种——也可能展现出语言和合作等适应性特征，因为它们在我们自身的生存中扮演着关键角色。
-
-- **句子结构：** 主句 + 破折号插入同位语 "ones we might think of as our peers" + "because" 原因状语从句。
-
-- **关键词：** intelligent species（智慧物种），peers（同类/同等者），adaptations（适应性），cooperation（合作）。
-
-- **表达方式：** "ones we might think of as our peers" 中的 "might think of as" 暗示一种谦逊——我们不确定外星智慧是否与我们"同等"，但我们倾向于这样认为。
-
-- **为什么这样写：** 将"语言"和"合作"视为生存的适应性特征，暗示智慧不是偶然的，而是演化的必然产物。
-
----
-
-> **原句42:** The zoologist's thought experiment, both enthralling and logically sound, addresses perception, communication, and intelligence, and he wonders whether we might one day expand the word *humanity* to include alien species.
-
-- **中文理解：** 这位动物学家的思想实验，既引人入胜又逻辑严密，探讨了感知、沟通和智力，他好奇我们是否有一天会将"人性"一词扩展到包括外星物种。
-
-- **句子结构：** 主语 "The zoologist's thought experiment" + 插入语 "both enthralling and logically sound" + 两个并列谓语 "addresses... and wonders whether..."。
-
-- **关键词：** thought experiment（思想实验），enthralling（引人入胜的），logically sound（逻辑严密的），perception（感知），expand the word *humanity*（扩展"人性"一词）。
-
-- **表达方式：** "both enthralling and logically sound" 用 "both... and..." 结构同时赞美了本书的可读性和学术严谨性。
-
-- **为什么这样写：** "expand the word *humanity*" 是全书最深刻的追问——如果我们发现外星智慧生命，"人类"这个概念是否需要重新定义？
-
----
-
-> **原句43:** At the same time, the book challenges readers to upend how they see the animals with whom we already share our planet.
-
-- **中文理解：** 同时，这本书挑战读者颠覆他们看待地球上已有动物的方式。
-
-- **句子结构：** "At the same time" 时间状语 + 主句 "challenges readers to upend" + "how" 引导的宾语从句。
-
-- **关键词：** upend（颠覆，翻转），share our planet（共享我们的星球）。
-
-- **表达方式：** "upend how they see" 比 "change how they see" 更有力——"upend" 暗示完全的、根本性的颠覆。
-
-- **为什么这样写：** 从"外星"回到"地球"——这本书不仅让我们思考外星生命，也让我们重新审视地球上的动物。形成"外星→地球"的视角转换。
-
----
-
-> **原句44:** Is there any sense in which they might be considered human too?
-
-- **中文理解：** 在某种意义上，它们是否也可以被视为"人类"呢？
-
-- **句子结构：** 简短的修辞性问句。"in which" 引导定语从句修饰 "sense"。
-
-- **关键词：** in any sense（在某种意义上），considered human（被视为人类）。
-
-- **表达方式：** 以问句结尾，留下开放式的思考空间。"human too" 将动物与人类并置，暗示"人性"可能比我们想象的更广泛。
-
-- **为什么这样写：** 这个问题呼应了前文的 "expand the word *humanity*"——从外星生命扩展到地球动物，"humanity" 的边界被不断推移。以问句结尾是书评的经典手法，让读者带着思考离开。
-
----
-
-**段落逻辑：** 介绍书的类型（非虚构）和核心论点（地球演化推想外星）→ 用具体例子说明"趋同演化"→ 讨论智慧物种的适应性特征 → 赞扬思想实验的价值 → 回到地球：重新审视动物 → 以开放性问题结尾。
 
 ---
 

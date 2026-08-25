@@ -41,7 +41,7 @@
 
 ### 第1段：珠穆朗玛峰的生动描写引入
 
-> **原句1:** When you stand at the summit of Mount Everest, the sky is a deep-blue bowl inverted above you, and the peaks of the Himalayas are a carpet at your feet.
+> **原句 1:** When you stand at the summit of Mount Everest, the sky is a deep-blue bowl inverted above you, and the peaks of the Himalayas are a carpet at your feet.
 
 - **中文理解：** 当你站在珠穆朗玛峰的顶峰时，天空就像一个倒扣在你上方的深蓝色碗，喜马拉雅山脉的峰顶就像你脚下的地毯。
 
@@ -53,7 +53,7 @@
 
 - **为什么这样写：** 通过强烈的视觉意象吸引读者，为后续介绍冒险书籍做铺垫。这种开场方式立即抓住了读者的注意力。
 
-> **原句2:** The sun on the snow is bright enough to blind you, even as your body starts failing in air so thin it can hardly sustain human life.
+> **原句 2:** The sun on the snow is bright enough to blind you, even as your body starts failing in air so thin it can hardly sustain human life.
 
 - **中文理解：** 雪地上的阳光明亮得足以刺瞎你的眼睛，即使你的身体在稀薄得几乎无法维持人类生命的空气中开始衰竭。
 
@@ -65,7 +65,7 @@
 
 - **为什么这样写：** 强调冒险环境的危险性和挑战性，为后续介绍"死亡挑战"类书籍做铺垫。
 
-> **原句3:** I know that not because I’ve been there myself, but because I’ve read Jon Krakauer’s *Into Thin Air* and other books about the world’s highest mountain.
+> **原句 3:** I know that not because I’ve been there myself, but because I’ve read Jon Krakauer’s *Into Thin Air* and other books about the world’s highest mountain.
 
 - **中文理解：** 我知道这些不是因为我自己去过那里，而是因为我读过Jon Krakauer的《Into Thin Air》和其他关于世界最高山的书籍。
 
@@ -81,7 +81,7 @@
 
 ### 第2段：冒险书籍的魔力
 
-> **原句4:** Krakauer survived a deadly ordeal on Everest—a high price to pay for a remarkable book.
+> **原句 4:** Krakauer survived a deadly ordeal on Everest—a high price to pay for a remarkable book.
 
 - **中文理解：** Krakauer在珠穆朗玛峰上幸存下来——这是为一本非凡书籍付出的高昂代价。
 
@@ -93,7 +93,7 @@
 
 - **为什么这样写：** 承认冒险书籍背后的现实代价，但强调其文学价值。
 
-> **原句5:** But thanks to the alchemy of his crisp, vivid writing, *Into Thin Air* genuinely manages to conjure the experience for readers, even those who might never trek there.
+> **原句 5:** But thanks to the alchemy of his crisp, vivid writing, *Into Thin Air* genuinely manages to conjure the experience for readers, even those who might never trek there.
 
 - **中文理解：** 但得益于他清晰、生动的文字的魔力，《Into Thin Air》确实能够为读者召唤这种体验，即使那些可能永远不会去那里徒步的人。
 
@@ -105,7 +105,7 @@
 
 - **为什么这样写：** 强调书籍的魔力——能让读者在安全的家中体验危险的冒险。这是文章的核心论点。
 
-> **原句6:** The shine of this magic trick hasn’t worn off, and my favorite place to encounter it is in a truly harrowing adventure story.
+> **原句 6:** The shine of this magic trick hasn’t worn off, and my favorite place to encounter it is in a truly harrowing adventure story.
 
 - **中文理解：** 这个魔法的魅力并未消退，我最喜欢在真正令人痛心的冒险故事中遇到它。
 
@@ -117,7 +117,7 @@
 
 - **为什么这样写：** 表达作者对冒险书籍的个人喜爱，建立与读者的共鸣。
 
-> **原句7:** Life-and-death stakes? Dangerous mysteries? Motley crews pitting themselves against impossible odds? Sign me up—but only vicariously, please.
+> **原句 7:** Life-and-death stakes? Dangerous mysteries? Motley crews pitting themselves against impossible odds? Sign me up—but only vicariously, please.
 
 - **中文理解：** 生死攸关？危险的谜团？杂牌军对抗不可能的赔率？算我一个——但只是在想象中，请。
 
@@ -129,7 +129,7 @@
 
 - **为什么这样写：** 通过幽默的方式表达作者对冒险书籍的偏好——只喜欢想象中的冒险。这符合文章的轻松基调。
 
-> **原句8:** I like my adventures paired with a cup of tea and my softest blanket.
+> **原句 8:** I like my adventures paired with a cup of tea and my softest blanket.
 
 - **中文理解：** 我喜欢我的冒险配上一杯茶和我最柔软的毯子。
 
@@ -145,7 +145,7 @@
 
 ### 第3段：引入七本书的推荐
 
-> **原句9:** Many readers, even the ones like me, are drawn to epics of disaster and survival, accounts of cross-country marathons and exceptional journeys to far reaches—transportive stories about ordinary people attempting extraordinary things.
+> **原句 9:** Many readers, even the ones like me, are drawn to epics of disaster and survival, accounts of cross-country marathons and exceptional journeys to far reaches—transportive stories about ordinary people attempting extraordinary things.
 
 - **中文理解：** 许多读者，甚至像我这样的人都被灾难和生存的史诗、跨国马拉松和前往遥远地区的非凡旅程所吸引——这些关于普通人尝试非凡事物的运输性故事。
 
@@ -157,7 +157,7 @@
 
 - **为什么这样写：** 引出文章的核心内容——七本冒险书籍推荐。强调这些书籍的共同特点：运输性（transportive）。
 
-> **原句10:** Here are seven books that I promise will spirit you to some of the planet’s wildest landscapes and greatest human feats, even when read in total comfort.
+> **原句 10:** Here are seven books that I promise will spirit you to some of the planet’s wildest landscapes and greatest human feats, even when read in total comfort.
 
 - **中文理解：** 这里有七本书，我保证即使在完全舒适的情况下阅读，也会将你带到地球上一些最荒野的景观和最伟大的人类壮举。
 
@@ -173,7 +173,7 @@
 
 ### 第4段：介绍《Endurance》
 
-> **原句11:** I’ve read a lot of books about the suffering endured by the 19th- and early-20th-century European explorers who, seeking to reach the North and South Poles, slogged and starved and (sometimes) cannibalized their way through enormous fields of ice.
+> **原句 11:** I’ve read a lot of books about the suffering endured by the 19th- and early-20th-century European explorers who, seeking to reach the North and South Poles, slogged and starved and (sometimes) cannibalized their way through enormous fields of ice.
 
 - **中文理解：** 我读过很多关于19世纪和20世纪初欧洲探险家所经历的苦难的书籍，他们为了到达北极和南极，在巨大的冰原上跋涉、挨饿（有时）同类相食。
 
@@ -185,7 +185,7 @@
 
 - **为什么这样写：** 建立作者在南极探险书籍方面的专业性，为推荐《Endurance》做铺垫。
 
-> **原句12:** So I feel well qualified to say: If you read only one book about a frozen expedition gone awry, make it *Endurance*, Lansing’s propulsive, compact, and rigorously researched narrative of Ernest Shackleton’s remarkable 1914 Imperial Trans-Antarctic Expedition.
+> **原句 12:** So I feel well qualified to say: If you read only one book about a frozen expedition gone awry, make it *Endurance*, Lansing’s propulsive, compact, and rigorously researched narrative of Ernest Shackleton’s remarkable 1914 Imperial Trans-Antarctic Expedition.
 
 - **中文理解：** 所以我觉得有资格说：如果你只读一本关于冰冻探险出错的书，那就选《Endurance》，这是Lansing对Ernest Shackleton 1914年帝国横穿南极探险的推动性的、紧凑的、严谨研究的叙述。
 
@@ -197,7 +197,7 @@
 
 - **为什么这样写：** 提供明确的推荐理由，强调书籍的文学和历史价值。
 
-> **原句13:** Shackleton and his crew had intended to make the first complete traversal of Antarctica.
+> **原句 13:** Shackleton and his crew had intended to make the first complete traversal of Antarctica.
 
 - **中文理解：** Shackleton和他的船员本打算首次完整横穿南极洲。
 
@@ -209,7 +209,7 @@
 
 - **为什么这样写：** 设置故事背景，让读者了解探险的原始目标。
 
-> **原句14:** But their ship, the Endurance, became trapped in sea ice before they even made it to the coast, kicking off a many-month struggle to survive—first on board their doomed vessel, and then adrift on a series of ice floes after it was crushed.
+> **原句 14:** But their ship, the Endurance, became trapped in sea ice before they even made it to the coast, kicking off a many-month struggle to survive—first on board their doomed vessel, and then adrift on a series of ice floes after it was crushed.
 
 - **中文理解：** 但他们的船"坚韧号"在他们到达海岸之前就陷入了海冰，引发了一场持续数月的生存斗争——首先在注定失败的船上，然后在一连串被压碎的浮冰上漂流。
 
@@ -221,7 +221,7 @@
 
 - **为什么这样写：** 描述故事的戏剧性转折，突出生存斗争的艰难。
 
-> **原句15:** Lansing, an American journalist, interviewed several of the remaining survivors in the 1950s and consulted diaries and other documents.
+> **原句 15:** Lansing, an American journalist, interviewed several of the remaining survivors in the 1950s and consulted diaries and other documents.
 
 - **中文理解：** Lansing，一位美国记者，在1950年代采访了几位幸存的船员，并查阅了日记和其他文件。
 
@@ -233,7 +233,7 @@
 
 - **为什么这样写：** 建立书籍的历史可信度，让读者相信这是基于真实历史的研究。
 
-> **原句16:** Every carefully chosen detail brings the icebound sailors’ plight to creaking, finger-blackening, stomach-growling life, and the result is riveting.
+> **原句 16:** Every carefully chosen detail brings the icebound sailors’ plight to creaking, finger-blackening, stomach-growling life, and the result is riveting.
 
 - **中文理解：** 每一个精心选择的细节都让被冰困的水手们的困境变得嘎吱作响、手指发黑、肚子咕咕叫的生活化，结果是引人入胜的。
 
@@ -249,7 +249,7 @@
 
 ### 第5段：介绍《A Walk in the Park》
 
-> **原句17:** Fedarko’s title is, presumably, a nod to *A Walk in the Woods*, Bill Bryson’s well-known memoir of hiking the Appalachian Trail, and the author initially takes a similarly bumbling and underprepared approach to his own long walk.
+> **原句 17:** Fedarko’s title is, presumably, a nod to *A Walk in the Woods*, Bill Bryson’s well-known memoir of hiking the Appalachian Trail, and the author initially takes a similarly bumbling and underprepared approach to his own long walk.
 
 - **中文理解：** Fedarko的标题大概是对Bill Bryson关于徒步阿巴拉契亚小径的著名回忆录《林中漫步》的致敬，作者最初对自己长途步行采取了同样笨拙和准备不足的方法。
 
@@ -261,7 +261,7 @@
 
 - **为什么这样写：** 将新书与已知作品联系起来，帮助读者理解书籍的风格和基调。
 
-> **原句18:** With a photographer joining him, he’s hoping to hike the entire length of the Grand Canyon, piecing together a barely there path between the rim and the river.
+> **原句 18:** With a photographer joining him, he’s hoping to hike the entire length of the Grand Canyon, piecing together a barely there path between the rim and the river.
 
 - **中文理解：** 一位摄影师加入他，他希望徒步走完整个大峡谷，在边缘和河流之间拼凑出一条几乎不存在的小径。
 
@@ -273,7 +273,7 @@
 
 - **为什么这样写：** 设置故事背景，展示探险的雄心和挑战。
 
-> **原句19:** But the risks in the Southwest’s canyon country are greater than those of a New England summer.
+> **原句 19:** But the risks in the Southwest’s canyon country are greater than those of a New England summer.
 
 - **中文理解：** 但美国西南部峡谷地区的风险比新英格兰的夏天更大。
 
@@ -285,7 +285,7 @@
 
 - **为什么这样写：** 制造紧张感，为后续的生存挑战做铺垫。
 
-> **原句20:** Fedarko, a former Colorado River raft guide, must enlist a fascinating array of veteran local hikers and slot canyoneers to help see his party through potentially fatal hazards: navigational challenges, extreme heat, scarce and unpredictable water sources, and gravelly cliff faces.
+> **原句 20:** Fedarko, a former Colorado River raft guide, must enlist a fascinating array of veteran local hikers and slot canyoneers to help see his party through potentially fatal hazards: navigational challenges, extreme heat, scarce and unpredictable water sources, and gravelly cliff faces.
 
 - **中文理解：** Fedarko，前科罗拉多河漂流向导，必须招募一群迷人的当地老练徒步者和狭缝峡谷探险家，帮助他的队伍穿越潜在的致命危险：导航挑战、极端炎热、稀缺且不可预测的水源，以及砾石悬崖面。
 
@@ -297,7 +297,7 @@
 
 - **为什么这样写：** 展示探险的实际挑战，强调团队合作的重要性。
 
-> **原句21:** This massive undertaking seems, at times, like a fool’s errand.
+> **原句 21:** This massive undertaking seems, at times, like a fool’s errand.
 
 - **中文理解：** 这项巨大的任务有时看起来像是一项愚蠢的差事。
 
@@ -309,7 +309,7 @@
 
 - **为什么这样写：** 增加叙述的真实性和幽默感，让读者产生共鸣。
 
-> **原句22:** But as Fedarko proceeds, his deep familiarity with, and love for, the region comes through strongly, and his vivid writing makes even the most miserable points of the journey sound at least a little bit tempting.
+> **原句 22:** But as Fedarko proceeds, his deep familiarity with, and love for, the region comes through strongly, and his vivid writing makes even the most miserable points of the journey sound at least a little bit tempting.
 
 - **中文理解：** 但随着Fedarko的进展，他对该地区的深厚熟悉和热爱强烈地表现出来，他生动的写作使旅程中最痛苦的时刻听起来至少有点诱人。
 
@@ -325,7 +325,7 @@
 
 ### 第6段：介绍《Coasting》
 
-> **原句23:** In *Coasting*, Raban chronicles his solo journey, in a sailboat, around the island of Great Britain.
+> **原句 23:** In *Coasting*, Raban chronicles his solo journey, in a sailboat, around the island of Great Britain.
 
 - **中文理解：** 在《Coasting》中，Raban记录了他独自乘帆船绕大不列颠岛航行的旅程。
 
@@ -337,7 +337,7 @@
 
 - **为什么这样写：** 设置故事背景，让读者了解探险的基本情况。
 
-> **原句24:** “Home is always the hardest place to get into sharp focus,” he writes; so, in his 40s, he hopes that floating just offshore will give him a clearer perspective on the nation that raised him.
+> **原句 24:** “Home is always the hardest place to get into sharp focus,” he writes; so, in his 40s, he hopes that floating just offshore will give him a clearer perspective on the nation that raised him.
 
 - **中文理解：** “家总是最难清晰聚焦的地方，”他写道；所以，在40多岁时，他希望漂浮在近海能让他对抚养他的国家有更清晰的视角。
 
@@ -349,7 +349,7 @@
 
 - **为什么这样写：** 解释作者探险的动机——通过距离获得对家乡的新视角。
 
-> **原句25:** England seen from the water is “a gloomy house, its shutters drawn, its eaves dripping”—but it’s not the only character in Raban’s narrative.
+> **原句 25:** England seen from the water is “a gloomy house, its shutters drawn, its eaves dripping”—but it’s not the only character in Raban’s narrative.
 
 - **中文理解：** 从水上看到的英格兰是“一座阴郁的房子，百叶窗紧闭，屋檐滴水”——但它不是Raban叙述中的唯一角色。
 
@@ -361,7 +361,7 @@
 
 - **为什么这样写：** 展示作者对英格兰的观察，为后续的社会批评做铺垫。
 
-> **原句26:** The ocean itself becomes a companion, as do the treacherous coast and the many people Raban meets on land along the way.
+> **原句 26:** The ocean itself becomes a companion, as do the treacherous coast and the many people Raban meets on land along the way.
 
 - **中文理解：** 海洋本身成为了一个伙伴，同样还有危险的海岸和Raban沿途在陆地上遇到的许多人。
 
@@ -373,7 +373,7 @@
 
 - **为什么这样写：** 扩展叙述的范围，从个人旅程扩展到更广泛的社会观察。
 
-> **原句27:** *Coasting* is partly a lovely work of nature writing, partly one Englishman’s uneasy memoir, and perhaps most of all a caustic, granular portrait of the Thatcher years.
+> **原句 27:** *Coasting* is partly a lovely work of nature writing, partly one Englishman’s uneasy memoir, and perhaps most of all a caustic, granular portrait of the Thatcher years.
 
 - **中文理解：** 《Coasting》部分是一部可爱的自然写作作品，部分是一个英国人不安的回忆录，也许最重要的是对撒切尔时代的一个尖刻、细致的描绘。
 
@@ -385,7 +385,7 @@
 
 - **为什么这样写：** 强调书籍的多层次价值，吸引不同兴趣的读者。
 
-> **原句28:** At one point, he arrives in port to learn that war has broken out in the Falkland Islands; the grotesque absurdity and jingoism surrounding that conflict are a target of his acid observations for the rest of the voyage.
+> **原句 28:** At one point, he arrives in port to learn that war has broken out in the Falkland Islands; the grotesque absurdity and jingoism surrounding that conflict are a target of his acid observations for the rest of the voyage.
 
 - **中文理解：** 在一个时刻，他抵达港口时得知福克兰群岛爆发了战争；围绕那场冲突的荒诞和沙文主义成为了他余下航程中尖酸观察的目标。
 
@@ -397,7 +397,7 @@
 
 - **为什么这样写：** 展示书籍的政治批判维度，证明其社会观察的深度。
 
-> **原句29:** As Colin Thubron wrote about *Coasting* in *The Times* of London 40 years ago: “The poetry is in the pitilessness.”
+> **原句 29:** As Colin Thubron wrote about *Coasting* in *The Times* of London 40 years ago: “The poetry is in the pitilessness.”
 
 - **中文理解：** 正如Colin Thubron 40年前在《伦敦时报》上关于《Coasting》所写的：“诗歌在于无情。”
 
@@ -413,7 +413,7 @@
 
 ### 第7段：介绍《A Hope Divided》
 
-> **原句30:** Cole’s suspenseful, sexy novel is both a historical romance and a breathtaking story of two people running for their lives.
+> **原句 30:** Cole’s suspenseful, sexy novel is both a historical romance and a breathtaking story of two people running for their lives.
 
 - **中文理解：** Cole的悬疑、性感的小说既是历史爱情故事，也是一个关于两人逃命的惊险故事。
 
@@ -425,7 +425,7 @@
 
 - **为什么这样写：** 吸引不同类型的读者，展示书籍的多样性和娱乐性。
 
-> **原句31:** During the American Civil War, Marlie, the daughter of a formerly enslaved Black woman and an affluent white man, is part of a network of Black Americans who spy on, undermine, and resist the Confederacy from within the South.
+> **原句 31:** During the American Civil War, Marlie, the daughter of a formerly enslaved Black woman and an affluent white man, is part of a network of Black Americans who spy on, undermine, and resist the Confederacy from within the South.
 
 - **中文理解：** 在美国内战期间，Marlie，一位前被奴役的黑人女性和一位富裕白人男性的女儿，是南方内部黑人美国人网络的一部分，他们监视、破坏和抵抗邦联。
 
@@ -437,7 +437,7 @@
 
 - **为什么这样写：** 设置历史背景，让读者了解故事的时代背景和社会环境。
 
-> **原句32:** She uses the relative freedom conferred by her father’s family to do what she can for the Union, including sheltering a white Union soldier, Ewan McCall, who’s escaped a prisoner-of-war camp.
+> **原句 32:** She uses the relative freedom conferred by her father’s family to do what she can for the Union, including sheltering a white Union soldier, Ewan McCall, who’s escaped a prisoner-of-war camp.
 
 - **中文理解：** 她利用父亲家庭赋予的相对自由，为联邦做她能做的事，包括庇护一位逃出战俘营的白人联邦士兵Ewan McCall。
 
@@ -449,7 +449,7 @@
 
 - **为什么这样写：** 推动情节发展，介绍主要角色和他们的关系。
 
-> **原句33:** Soon, Marlie and Ewan are forced to flee together.
+> **原句 33:** Soon, Marlie and Ewan are forced to flee together.
 
 - **中文理解：** 很快，Marlie和Ewan被迫一起逃跑。
 
@@ -461,7 +461,7 @@
 
 - **为什么这样写：** 推动情节发展，从庇护关系转变为共同逃亡。
 
-> **原句34:** Hunted by a sadistic Confederate officer, knowing that capture will mean torture and death, they follow the Underground Railroad through the Carolina wilds.
+> **原句 34:** Hunted by a sadistic Confederate officer, knowing that capture will mean torture and death, they follow the Underground Railroad through the Carolina wilds.
 
 - **中文理解：** 被一位虐待狂的邦联军官追捕，知道被捕意味着酷刑和死亡，他们沿着地下铁路穿越卡罗来纳的荒野。
 
@@ -473,7 +473,7 @@
 
 - **为什么这样写：** 强调逃亡的危险和紧迫性，增加故事的戏剧性。
 
-> **原句35:** They have to choose whom to trust, both in white communities and among the hidden pockets of escaped Black people who help them on their way; most of all, they have to figure out who they are to each other.
+> **原句 35:** They have to choose whom to trust, both in white communities and among the hidden pockets of escaped Black people who help them on their way; most of all, they have to figure out who they are to each other.
 
 - **中文理解：** 他们必须选择信任谁，无论是在白人社区还是在帮助他们前行的逃脱黑人隐藏群体中；最重要的是，他们必须弄清楚彼此是什么关系。
 
@@ -485,7 +485,7 @@
 
 - **为什么这样写：** 增加故事的深度，从外部冒险扩展到内部情感发展。
 
-> **原句36:** Cole’s novel is based on the real, little-known history of Black resistance to the Confederacy, and it’s also a gripping adventure.
+> **原句 36:** Cole’s novel is based on the real, little-known history of Black resistance to the Confederacy, and it’s also a gripping adventure.
 
 - **中文理解：** Cole的小说基于真实的、鲜为人知的黑人抵抗邦联的历史，同时也是一个扣人心弦的冒险故事。
 
@@ -501,7 +501,7 @@
 
 ### 第8段：介绍《In the Heart of the Sea》
 
-> **原句37:** In 1820, an American whaling ship was attacked by a whale—an incident that became so infamous, it helped inspire Herman Melville’s *Moby-Dick*.
+> **原句 37:** In 1820, an American whaling ship was attacked by a whale—an incident that became so infamous, it helped inspire Herman Melville’s *Moby-Dick*.
 
 - **中文理解：** 1820年，一艘美国捕鲸船遭到鲸鱼袭击——这一事件变得如此臭名昭著，以至于它帮助激发了Herman Melville的《白鲸记》。
 
@@ -513,7 +513,7 @@
 
 - **为什么这样写：** 建立书籍的历史重要性和文学价值。
 
-> **原句38:** *In the Heart of the Sea* is Philbrick’s National Book Award–winning nonfiction narrative about that disaster and the crew’s fight to get home.
+> **原句 38:** *In the Heart of the Sea* is Philbrick’s National Book Award–winning nonfiction narrative about that disaster and the crew’s fight to get home.
 
 - **中文理解：** 《In the Heart of the Sea》是Philbrick关于那场灾难和船员们回家斗争的国家图书奖获奖非虚构叙事。
 
@@ -525,7 +525,7 @@
 
 - **为什么这样写：** 建立书籍的文学声誉，吸引严肃文学读者。
 
-> **原句39:** Whereas Lansing’s treatment of Shackleton’s Antarctic survival epic is stirring, Philbrick’s tale of the Essex is more like a horror story.
+> **原句 39:** Whereas Lansing’s treatment of Shackleton’s Antarctic survival epic is stirring, Philbrick’s tale of the Essex is more like a horror story.
 
 - **中文理解：** Lansing对沙克尔顿南极生存史诗的处理是激动人心的，而Philbrick关于埃塞克斯号的故事更像一个恐怖故事。
 
@@ -537,7 +537,7 @@
 
 - **为什么这样写：** 帮助读者选择适合自己口味的书籍，展示书籍的多样性。
 
-> **原句40:** First, the men are menaced by an enormous, enraged sperm whale (terrifying, even as on some level the reader can’t help rooting for it against the harpoons), which rams and ultimately sinks their boat.
+> **原句 40:** First, the men are menaced by an enormous, enraged sperm whale (terrifying, even as on some level the reader can’t help rooting for it against the harpoons), which rams and ultimately sinks their boat.
 
 - **中文理解：** 首先，这些人受到一条巨大的、愤怒的抹香鲸的威胁（可怕的，即使在某种程度上读者不禁为它加油对抗鱼叉），它撞击并最终沉没了他们的船。
 
@@ -549,7 +549,7 @@
 
 - **为什么这样写：** 创造紧张感和道德复杂性，让读者对故事产生更深的共鸣。
 
-> **原句41:** The survivors, drifting on the open ocean, are then whittled down by hunger and thirst, by the varied dangers of the Pacific, and eventually by one another.
+> **原句 41:** The survivors, drifting on the open ocean, are then whittled down by hunger and thirst, by the varied dangers of the Pacific, and eventually by one another.
 
 - **中文理解：** 幸存者们在公海上漂流，然后被饥饿和口渴、太平洋的各种危险，以及最终被彼此所削弱。
 
@@ -561,7 +561,7 @@
 
 - **为什么这样写：** 展示生存斗争的残酷性，强调人性在极端环境下的考验。
 
-> **原句42:** This is survival rendered in its rawest, ugliest, most gut-churning form.
+> **原句 42:** This is survival rendered in its rawest, ugliest, most gut-churning form.
 
 - **中文理解：** 这是生存以最原始、最丑陋、最令人作呕的形式呈现。
 
@@ -577,7 +577,7 @@
 
 ### 第9段：介绍《The Sun Is a Compass》
 
-> **原句43:** Some of the most extreme adventures described in the books on this list were not matters of choice; their protagonists were forced into do-or-die journeys by circumstance or bad luck.
+> **原句 43:** Some of the most extreme adventures described in the books on this list were not matters of choice; their protagonists were forced into do-or-die journeys by circumstance or bad luck.
 
 - **中文理解：** 这份书单中描述的一些最极端的冒险不是选择的问题；他们的主人公被环境或坏运气逼入非生即死的旅程。
 
@@ -589,7 +589,7 @@
 
 - **为什么这样写：** 设置对比，突出后续书籍中主人公的主动选择。
 
-> **原句44:** Not so for the Alaskan wildlife biologist Caroline Van Hemert, who, disillusioned with laboratory life, attempted to regain her love for her field via a daring and physically demanding journey from coastal Washington to the Arctic.
+> **原句 44:** Not so for the Alaskan wildlife biologist Caroline Van Hemert, who, disillusioned with laboratory life, attempted to regain her love for her field via a daring and physically demanding journey from coastal Washington to the Arctic.
 
 - **中文理解：** 对于阿拉斯加野生动物生物学家Caroline Van Hemert来说则不是这样，她对实验室生活感到失望，试图通过从华盛顿沿海到北极的大胆且体力要求高的旅程重新获得对领域的热爱。
 
@@ -601,7 +601,7 @@
 
 - **为什么这样写：** 解释主人公探险的动机，展示其个人成长的故事。
 
-> **原句45:** Van Hemert and her husband traveled 4,000 miles under their own power—first in homemade rowboats through the damp, rocky gantlet of the Inside Passage, which connects the Pacific Northwest to the Gulf of Alaska, and then via a combination of ski mountaineering, canoeing, hiking, and rafting across the interior of the Yukon and Alaska.
+> **原句 45:** Van Hemert and her husband traveled 4,000 miles under their own power—first in homemade rowboats through the damp, rocky gantlet of the Inside Passage, which connects the Pacific Northwest to the Gulf of Alaska, and then via a combination of ski mountaineering, canoeing, hiking, and rafting across the interior of the Yukon and Alaska.
 
 - **中文理解：** Van Hemert和她的丈夫凭借自己的力量旅行了4000英里——首先乘坐自制划艇穿过潮湿、多岩石的内航道，该航道连接太平洋西北地区和阿拉斯加湾，然后通过滑雪登山、划独木舟、徒步和漂流的组合穿越育空和阿拉斯加的内陆。
 
@@ -613,7 +613,7 @@
 
 - **为什么这样写：** 强调旅程的物理挑战和多样性，证明其"demanding"的性质。
 
-> **原句46:** Meaningfully, Van Hemert chose a route that follows the northward migrations of birds, the creatures that first sparked her love of science and the wilderness.
+> **原句 46:** Meaningfully, Van Hemert chose a route that follows the northward migrations of birds, the creatures that first sparked her love of science and the wilderness.
 
 - **中文理解：** 有意义的是，Van Hemert选择了一条跟随鸟类北迁的路线，这些生物最初激发了她对科学和荒野的热爱。
 
@@ -625,7 +625,7 @@
 
 - **为什么这样写：** 展示旅程的象征意义——回归初心，呼应前文的"regain her love"。
 
-> **原句47:** Her time in the wild is dangerous and demanding, but it restores something important within her—and her book might also leave readers changed.
+> **原句 47:** Her time in the wild is dangerous and demanding, but it restores something important within her—and her book might also leave readers changed.
 
 - **中文理解：** 她在荒野中的时光是危险和 demanding 的，但它恢复了她内心重要的东西——她的书也可能让读者发生改变。
 
@@ -640,68 +640,6 @@
 **段落逻辑：** 对比自愿与被迫冒险 → 介绍主人公的动机和背景 → 描述旅程的艰巨性和象征意义 → 强调旅程的转化力量 → 总结书籍的个人成长价值
 
 ### 第10段：介绍《The Lost City of Z》
-
-> **原句48:** Percy Fawcett, the main character of Grann’s story of obsession, was a British explorer who vanished mysteriously with his son in 1925, while on the hunt for a mythical Amazonian city.
-
-- **中文理解：** Percy Fawcett，Grann痴迷故事的主角，是一位英国探险家，于1925年与儿子一起神秘失踪，当时正在寻找一个神话般的亚马逊城市。
-
-- **句子结构：** 复合句，包含同位语和"who"定语从句。
-
-- **关键词：** obsession（痴迷）, vanished（失踪）, mythical（神话般的）
-
-- **表达方式：** 悬疑的开场，立即抓住读者的好奇心。
-
-- **为什么这样写：** 设置故事的神秘基调，吸引喜欢悬疑和探险的读者。
-
-> **原句49:** As Grann starts to painstakingly reconstruct Fawcett’s voyages on the page, the longtime *New Yorker* staff writer also gets caught up in Fawcett’s mania.
-
-- **中文理解：** 当Grann开始在书页上 painstakingly 重建Fawcett的航行时，这位长期的《纽约客》撰稿人也陷入了Fawcett的狂热。
-
-- **句子结构：** 复合句，"As"引导的时间状语从句。
-
-- **关键词：** painstakingly（ painstakingly）, reconstruct（重建）, mania（狂热）
-
-- **表达方式：** 平行结构（作者和主人公都陷入痴迷），增加故事的层次。
-
-- **为什么这样写：** 展示书籍的双重叙事——历史研究和个人冒险。
-
-> **原句50:** He travels to South America himself, looking for clues about the mystery of both the city and its seekers.
-
-- **中文理解：** 他自己前往南美，寻找关于这座城市及其寻找者之谜的线索。
-
-- **句子结构：** 简单句，现在分词短语"looking for clues"表示伴随动作。
-
-- **关键词：** clues（线索）, mystery（谜团）, seekers（寻找者）
-
-- **表达方式：** 平行结构（the city and its seekers），强调双重谜团。
-
-- **为什么这样写：** 推动情节发展，展示作者的亲身冒险。
-
-> **原句51:** As a result, the book chronicles two parallel preoccupations, linked across a century: the subject’s and the author’s.
-
-- **中文理解：** 结果，这本书记录了两个跨越一个世纪联系在一起的平行关注点：主人公的和作者的。
-
-- **句子结构：** 复合句，破折号引导的解释性短语。
-
-- **关键词：** chronicles（记录）, parallel preoccupations（平行关注点）, linked（联系）
-
-- **表达方式：** 学术性的表达，强调书籍的结构复杂性。
-
-- **为什么这样写：** 总结书籍的独特结构，展示其文学价值。
-
-> **原句52:** Grann doesn’t find everything he’s looking for, but he discovers new evidence about what might have happened to Fawcett—and his book uncovers why this supposedly missing civilization was so ruinously compelling to the men searching for it.
-
-- **中文理解：** Grann没有找到他寻找的一切，但他发现了关于Fawcett可能发生了什么的新证据——他的书揭示了为什么这个据称失落的文明对寻找它的 men 来说如此 ruinously  compelling。
-
-- **句子结构：** 复合句，"but"连接的转折关系和破折号引导的解释性短语。
-
-- **关键词：** new evidence（新证据）, supposedly（据称）, ruinously compelling（ ruinously  compelling）
-
-- **表达方式：** 平行结构（doesn't find...but discovers），展示探索的复杂结果。
-
-- **为什么这样写：** 总结书籍的发现和洞察，强调其历史和心理价值。
-
-**段落逻辑：** 介绍主人公和神秘背景 → 展示作者的双重叙事 → 描述作者的亲身冒险 → 强调书籍的平行结构 → 总结书籍的发现和洞察
 
 ## 词汇分级
 
