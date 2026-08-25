@@ -1,5 +1,5 @@
 ---
-title: Admissions Tour: Being a Person
+title: "Admissions Tour: Being a Person"
 状态: 未读
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hidden Life," by Madhuri Vijay
+title: "\"Hidden Life,\" by Madhuri Vijay"
 状态: 未读
 ---
 
