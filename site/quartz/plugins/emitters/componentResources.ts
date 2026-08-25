@@ -261,8 +261,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   }
 
   if (cfg.enableSPA) {
-    componentResources.afterDOMLoaded.push(spaRouterScript)
     componentResources.afterDOMLoaded.push(explorerDrawerCloseScript)
+    componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {
     componentResources.afterDOMLoaded.push(`
       window.spaNavigate = (url, _) => window.location.assign(url)
