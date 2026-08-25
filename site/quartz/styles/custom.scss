@@ -79,11 +79,28 @@
     color: var(--darkgray);
     border-radius: 4px;
     transition: background 0.15s, color 0.15s;
+    // 长文件名换行（snake_case 下划线不自动断行，需强制）
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
+    hyphens: auto;
+    max-width: 100%;
 
     &:hover {
       background: var(--orange-subtle);
       color: var(--orange-accent);
     }
+  }
+
+  // 长文件名在文件树与标题中强制换行
+  .page-title,
+  .article-title,
+  .folder-button {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
+    hyphens: auto;
+    max-width: 100%;
   }
 
   .folder-icon {
