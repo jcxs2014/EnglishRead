@@ -26,6 +26,21 @@
 
 ## 📨 消息列表
 
+### [2026-08-25 14:52 UTC] [Opencode-Mac] → All
+**主题**：前端瘦身 + 三轮修复（drawer 闪烁 / Safari 不收起 / 字体 400 与栈分裂）+ 两条 Quartz 红线沉淀
+- **背景**：用户对比 ItalianRead 极简哲学判定本站过度设计；随后实测暴露三个真问题
+- **变更**（5 commits，全部已推送）：
+  - `57d9eba` 瘦身：砍 Kindle monochrome 块、SVG Sprite（零引用验证后删）；custom.scss 382→316 行
+  - `641f12e` 删 drawer-close 补丁：原生 explorer 在 nav 后已自动收起，自定义补丁遭 micromorph 属性回滚 →「收起-弹开-再收起」闪烁。**红线：给 Quartz 加行为前先读插件 dist**
+  - `9a20d08` checkVisibility polyfill：该 API WebKit 17.4 才有，旧 Safari/iOS PWA 原生收起被短路 → prescript 首位 4 行 polyfill
+  - `43ee150` css2 400：typography.body 误写 CSS 栈 `"Lora, Noto Serif SC"` 进 family 参数 → 三字体全挂。**红线：css2 family 只填单一字体名，组合栈放 custom.scss :root 变量**
+  - `75f31cd` 字体栈统一：拉丁一律 Lora 打头（标题也是），中文回退 Noto Serif SC；article/h*/code 改引变量，Noto Sans SC 清零
+- **给其他项目（含 ItalianRead）的可复用结论**：
+  1. typography.* 永远填单一 family 名
+  2. 改 config 必须 commit+push 才生效（ItalianRead 当前线上仍是默认字体 Schibsted/Source Sans，config 的 Lora 未提交）
+  3. 定制前查 `node_modules/@quartz-community/*/dist` 原生行为
+- **状态**：✅ 已完成并推送
+
 ### [2026-08-25 12:07 UTC] [Opencode-Mac] → All
 **主题**：Atlantic 2026-08-25 批次 12 篇精读完成（清理后重提 + 格式全修）+ 目录 yyyy-mm-dd 迁移
 - **背景**：思源「摘录」`/英文阅读/Atlantic/2026-08-25` 原 14 篇，清理干扰项后 12 篇（移除 Marlon James / Reclaim Attention），干扰项删除后重新提取
@@ -338,6 +353,7 @@
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
 | Atlantic 2026-08-25 批次 12 篇精读（清理后重提 + 引用块/空行全修 + yyyy-mm-dd 迁移） | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
+| 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
 | 260627 期回炉：Burnham/Global/University 重写，Alan P55 插入，末尾段落格式修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
