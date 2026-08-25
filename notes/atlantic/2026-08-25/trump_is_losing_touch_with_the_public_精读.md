@@ -101,7 +101,7 @@
 
 - **为什么这样写：** 以左右意外结盟证明共识的广度。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 75%民调→左翼法案→意外盟友Abbott自掘坟墓→共识广度
 ### 第 2 段：特朗普的反向
 
 > **原句 5:** Standing against this consensus is Donald Trump.
@@ -152,7 +152,7 @@
 
 - **为什么这样写：** 以其经济许诺句作为逻辑支点，后文将对比民意的非经济担忧。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 倒装对抗→big booster→mistake/throw off话术→lackey语境→经济许诺
 ### 第 3 段：反常定位
 
 > **原句 9:** This puts Trump, the most successful demagogue in American political history, in the unusual position of misreading, and opposing, a populist groundswell.
@@ -167,7 +167,7 @@
 
 - **为什么这样写：** 金句：以“最成功煽动家误读民粹”的悖论点题。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 最成功demagogue误读groundswell的反常悖论
 ### 第 4 段：2016 对比
 
 > **原句 10:** During his 2016 presidential campaign, Trump took many stands that were unpopular among establishment politicians.
@@ -218,7 +218,7 @@
 
 - **为什么这样写：** 将 2016 的成功归因于“捕捉被误判为 liability 的选民”。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 2016曾反建制捕捉liabilities选民→社保/贸易/gutter racism例证→建制误判
 ### 第 5-6 段：弧线差异与精英包围（节选）
 
 > **原句 14:** Initially, many officials seemed to back the centers, following exactly Trump’s logic: They offered jobs and tax benefits.
@@ -281,7 +281,7 @@
 
 - **为什么这样写：** 归因二：信息采纳机制的随意性。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 起初同逻辑→民意四因转向→政客转身而Trump未→被Sacks/Ellison包围→采纳最新所闻
 ### 第 7-8 段：反馈回路断裂与集会触觉（节选）
 
 > **原句 19:** Trump’s rallies and speeches once created a feedback loop in which he conveyed his message to voters and—crucially—they conveyed their thoughts to him.
@@ -332,7 +332,7 @@
 
 - **为什么这样写：** 以 2022 年案例证明即兴对议程的塑造力。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** feedback loop双向→精力/安保致外出少→wall救场与trans即兴塑造议程
 ### 第 9-11 段：信息茧房与裂痕清单
 
 > **原句 23:** The president has always been susceptible to fake news and bad at filtering information, but rallies provided a gut check about his base, if not about the broader national reality.

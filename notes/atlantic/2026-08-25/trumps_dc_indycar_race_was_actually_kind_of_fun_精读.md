@@ -111,7 +111,7 @@
 
 - **为什么这样写：** 以一件具体雕塑的“备战”形象，让抽象担忧变得可见且带同情。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 非赛车兴趣→担心艺术→25车147次→木板围护Calder备战→定调文物视角
 ### 第 2 段：现场反转
 
 > **原句 6:** But it turns out that playing art patrol is rather difficult at an IndyCar race, especially when you find yourself crammed into a sweaty crowd as blurs of color whiz by.
@@ -162,7 +162,7 @@
 
 - **为什么这样写：** 以最简单的词完成最大反转，保留分寸（in some moments）。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 难做art patrol→汗众彩blur→脚趾震动→非其他Freedom 250→fun?的惊讶反转
 ### 第 3 段：好感与赛道
 
 > **原句 10:** The good vibes began when I spotted the driver Sting Ray Robb’s maintenance truck, decorated with the ridiculously wholesome image of seven puppies climbing on his race car.
@@ -201,7 +201,7 @@
 
 - **为什么这样写：** 用完赛率说明赛道的真实挑战。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 小狗卡车→早撞→颠簸棘手→半数完赛→好感建立
 ### 第 4 段：政治化解读并非夸张
 
 > **原句 13:** Many might be tempted to slot the IndyCar race next to other Trumpian events that have disrupted life in the nation’s capital.
@@ -264,7 +264,7 @@
 
 - **为什么这样写：** 以民生细节让“干扰生活”可感。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 归入Trumpian合理→稀释保护法→非夸大→T恤风波→交通禁飞滋扰→民生细节
 ### 第 5 段：文物震动验证
 
 > **原句 18:** In the middle of the race, I put my hand on the boarded-up geometric I. M. Pei skylights outside the National Gallery and found them shaking like a cellphone on vibrate.
@@ -315,7 +315,7 @@
 
 - **为什么这样写：** 以不确定收束文物焦虑，保留开放判断。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 手触天窗如手机震动→Not great→Are we okay?→I’m not sure→触觉验证
 ### 第 6 段：reckless vs. exciting
 
 > **原句 22:** Reckless is one word for what unfolded in the capital yesterday.
@@ -378,7 +378,7 @@
 
 - **为什么这样写：** 以一句话收束“为何这场算 worked”的判断。
 
-**段落逻辑：** → 本段逻辑待补（已自动插入占位，需人工细化）
+**段落逻辑：** 一人鲁莽另一人刺激→oomph→Trump绕场混嘘→内外对比checkers压过MAGA→非关于Trump
 ### 第 7-10 段：空间与精度的收束（节选）
 
 > **原句 27:** “We don’t see a lot of people like us here,” Cole, who is Black, told me, noting some MAGA-hat sightings, too.
