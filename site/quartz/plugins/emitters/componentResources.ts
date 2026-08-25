@@ -84,6 +84,17 @@ async function joinScripts(scripts: string[]): Promise<string> {
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
 
+  // checkVisibility polyfill：Safari/iOS < 17.4 无此 API，
+  // explorer 插件原生「导航后收起抽屉」逻辑被 n.checkVisibility && 短路，导致抽屉不收起。
+  // unshift 到最前，确保先于所有组件脚本；已有该 API 的浏览器零影响。
+  componentResources.beforeDOMLoaded.unshift(`
+    if (typeof Element !== "undefined" && !Element.prototype.checkVisibility) {
+      Element.prototype.checkVisibility = function () {
+        return !!(this.offsetWidth || this.offsetHeight || this.getClientRects().length)
+      }
+    }
+  `)
+
   // popovers
   if (cfg.enablePopovers) {
     componentResources.afterDOMLoaded.push(popoverScript)
