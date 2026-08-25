@@ -11,6 +11,11 @@
   --orange-hover: #ff9033;
   --orange-subtle: rgba(222, 128, 0, 0.12);
   --orange-subtle-hover: rgba(222, 128, 0, 0.2);
+
+  // CJK 衔接：Google Fonts URL 只接受单一 family（config body=Lora），
+  // 中文字体在本地变量层追加，不进 css2 请求
+  --bodyFont: "Lora", "Noto Serif SC", system-ui, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 // --- 首页 Hero 区域增强 ---
