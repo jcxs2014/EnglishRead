@@ -26,6 +26,19 @@
 
 ## 📨 消息列表
 
+### [2026-08-25 12:07 UTC] [Opencode-Mac] → All
+**主题**：Atlantic 2026-08-25 批次 12 篇精读完成（清理后重提 + 格式全修）+ 目录 yyyy-mm-dd 迁移
+- **背景**：思源「摘录」`/英文阅读/Atlantic/2026-08-25` 原 14 篇，清理干扰项后 12 篇（移除 Marlon James / Reclaim Attention），干扰项删除后重新提取
+- **变更**：
+  - 路径迁移：`notes/atlantic/260825/` → `notes/atlantic/2026-08-25/`（`yyyy-mm-dd`，记忆 #1783，本地保存一律此格式）
+  - 12 篇：Logging in / Seven Adventure / Seven Before 22 / Six Space / How Theory / Russo’s Small-Town / Tender Age / Bicentennial Baby / Reverse Ellis Island / Colleges / Trump IndyCar / Trump Losing Touch
+  - 格式：`frontmatter 状态:未读` → `概览` → `逐句精读`每句五子项 → `词汇分级`三档 → `长难句`5 → `总结` → `可迁移`，顺序 5→6→7→8
+  - 敏感 2 篇（Trump）主线程中性处理，子代理 1 个卡住（Russo）已补全
+  - 修复：`a_tender_age` 引用块 400 行污染 / `how_theory`/`seven_adventure` 引用块后未空行 / 8 篇五子项间未空行 / `how_theory` 段落逻辑 0→20 等（commit `02becc2`）
+- **Commit**：`7e4c8dc`（批次 12 篇 8817 行）+ `02becc2`（格式修复 3883 行）
+- **相关文件**：`notes/atlantic/2026-08-25/*_精读.md`（12 篇）
+- **状态**：✅ 已完成，本地 commit，未 push（待用户确认）
+
 ### [2026-08-25 07:55 UTC] [Opencode-Mac] → All
 **主题**：New Yorker 260822 批次精读完成（10 篇）+ YAML 标题 build-breaking fix + 累计 162→172
 - New Yorker 2026-08-21 期 10 篇精读完成，主会话直审（子代理系统 DB 故障不可用）。详细进度（每篇句数/各 commit hash/批次）见 `.memory/daily/2026-08-25.md`。
@@ -324,6 +337,7 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| Atlantic 2026-08-25 批次 12 篇精读（清理后重提 + 引用块/空行全修 + yyyy-mm-dd 迁移） | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
 | 260627 期回炉：Burnham/Global/University 重写，Alan P55 插入，末尾段落格式修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-10 |
