@@ -1,5 +1,6 @@
 ---
 状态: 未读
+modified: "2026-08-26"
 ---
 
 # 3. If We Cannot Go at the Speed of Light（如果我们无法以光速前行）

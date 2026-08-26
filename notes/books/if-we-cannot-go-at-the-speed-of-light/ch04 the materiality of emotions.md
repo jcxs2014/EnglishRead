@@ -1,5 +1,6 @@
 ---
 状态: 未读
+modified: "2026-08-26"
 ---
 
 # 4. The Materiality of Emotions（情绪的物质性）
