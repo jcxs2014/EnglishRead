@@ -8,10 +8,10 @@
 ```
 ~/Documents/Works/EnglishRead/
 ├── README.md                ← 本文件（唯一权威项目文档）
-├── AGENTS.md                ← 本工作区 agent 操作手册（会话行为 / MiniMax 1027 详细流程）
+├── AGENTS.md                ← 精读操作手册（执行规则，入 git，所有 IDE 共享）
 ├── COLLABORATION.md         ← 多 IDE 协作消息板（入库，唯一跨机同步通道）
-├── .memory/                 ← 本机工作记忆（不入 git，各机独立维护）
-│   ├── AGENTS.md            ← 项目级低频规则
+├── .memory/                 ← 跨 IDE 共享记忆（协作基础设施，入 git）
+│   ├── AGENTS.md            ← 协作约定、机器信息、记忆系统说明
 │   └── daily/               ← 当日工作日志
 ├── index.md                 ← Quartz 首页内容
 ├── notes/                   ← 所有精读内容（来源 + 精读报告）
@@ -47,7 +47,18 @@
 **关键点**：
 - Quartz 内容源统一为 `notes/`（`npx quartz build -d ../notes`）：期刊类 + 整本书精读库全部走同一目录
 - 原文 `.src.md`（不入 git、不上网站）；精读 `.md`（无后缀）
-- `.memory/` 是本机工作记忆（不入 git）；跨机协调走 `COLLABORATION.md`
+- 两个 AGENTS.md 分工：根 = 执行规则（入 git）；.memory = 协作基础设施（入 git）
+
+## 两个 AGENTS.md 分工
+
+本项目有两份 `AGENTS.md`，职责严格分开：
+
+| 文件 | 入 git | 定位 | 内容 |
+|------|--------|------|------|
+| 根 `AGENTS.md` | ✅ | **执行规则** | 精读格式（期刊+小说）、文件命名、日期文件夹、git 策略、交互指令、Quartz 红线、MiniMax 1027 |
+| `.memory/AGENTS.md` | ✅ | **协作基础设施** | 项目定位、协作约定、机器信息、记忆系统说明、累计数据 |
+
+**核心原则**：根 = agent 执行精读时的行为规则（所有 IDE 共享）；.memory = 跨 IDE 协作的基础设施事实。不重复，不遗漏。
 
 ## 来源
 
@@ -155,9 +166,10 @@
 
 | 层 | 文件 | 内容 | 变动频率 |
 |---|---|---|---|
-| 项目级 | `.memory/AGENTS.md` | 协作协议、格式规则、配置约定 | 低 |
-| 当日 | `.memory/daily/YYYY-MM-DD.md` | 当日工作日志 | 高 |
-| 消息板 | `COLLABORATION.md` | 跨机消息、重要状态 | 事件触发 |
+| 执行规则 | 根 `AGENTS.md` | 精读格式、文件命名、git 策略、交互指令、Quartz 红线 | 低 |
+| 共享记忆 | `.memory/AGENTS.md` | 协作约定、机器信息、记忆系统说明 | 低 |
+| 当日日志 | `.memory/daily/YYYY-MM-DD.md` | 当日工作日志、调试过程、决策 | 高 |
+| 消息板 | `COLLABORATION.md` | 跨机消息、重要状态/决策 | 事件触发 |
 
 ### 两机 git 状态
 - Mac mini：`.git` 为 0 字节空壳（文件同步软件忽略 `.git`）
