@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Eight · Sam 看见 Lily + Clara 的审判
 
 > 文件：`text/CH10_chapter_eight_ash_yanked_open_the.txt`（约 3000 词）

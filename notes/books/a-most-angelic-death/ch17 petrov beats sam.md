@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Seventeen · Petrov 殴打 Sam + Alex 指控 Giles + 片场龙卷风
 
 > 文件：`text/CH19_chapter_seventeen_andcut_basil_roared_clapping.txt`（约 6500 词，**全书最密集章**）

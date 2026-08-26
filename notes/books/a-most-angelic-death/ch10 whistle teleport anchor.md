@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Ten · 哨子=传送锚 + Lily 获得自由移动
 
 > 文件：`text/CH12_chapter_ten_sam_bent_his_legs.txt`（约 2000 词）

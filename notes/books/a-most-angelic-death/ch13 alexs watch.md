@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Thirteen · Alex 的手表 + Kinnock 同意协助 + Marie 带 Joe 离开
 
 > 文件：`text/CH15_chapter_thirteen_ash_flicked_the_page.txt`（约 3000 词）

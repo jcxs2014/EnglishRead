@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Five · 宝丽来显形 + Giles 登场
 
 > 文件：`text/CH07_chapter_five_ash_smoothed_the_liquid.txt`（约 2200 词）

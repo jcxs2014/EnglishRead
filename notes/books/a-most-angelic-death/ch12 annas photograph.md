@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Twelve · Lily 触物确认 + Anna 家的神秘照片
 
 > 文件：`text/CH14_chapter_twelve_rita_were_back_ash.txt`（约 5000 词）

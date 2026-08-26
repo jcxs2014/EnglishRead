@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Eighteen · 追思会 + Anna 是凶手 + 双鬼魂融合
 
 > 文件：`text/CH20_chapter_eighteen_oh_its_so_cold.txt`（约 6300 词，**全书真相揭晓章**）

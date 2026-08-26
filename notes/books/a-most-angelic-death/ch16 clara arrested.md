@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Sixteen · Clara 被捕 + Giles-Layla 私情 + 嫌疑人缩窄
 
 > 文件：`text/CH18_chapter_sixteen_how_the_hell_am.txt`（约 4300 词）

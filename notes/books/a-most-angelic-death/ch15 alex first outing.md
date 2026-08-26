@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Fifteen · Alex 第一次出门 + Clara 触发 + 海之平静
 
 > 文件：`text/CH17_chapter_fifteen_rita_i_love_you.txt`（约 4800 词，**全书最戏剧性章**）

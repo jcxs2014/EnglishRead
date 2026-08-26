@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Nine · Kinnock & Marie + Anna 审讯
 
 > 文件：`text/CH11_chapter_nine_so_now_we_have.txt`（约 3000 词）

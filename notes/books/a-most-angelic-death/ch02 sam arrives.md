@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Two · Sam 与警方的入场
 
 > 文件：`text/CH04_chapter_two_there_you_are_marie.txt`（约 2000 词，对话为主）

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Eleven · 全员获知 + Clara "灵魂茶" 线索
 
 > 文件：`text/CH13_chapter_eleven_dont_fret_rita_she.txt`（约 3000 词）

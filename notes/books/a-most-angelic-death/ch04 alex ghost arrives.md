@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Four · Alex 的鬼魂到场
 
 > 文件：`text/CH06_chapter_four_the_soft_relentless_tick.txt`（约 3000 词）

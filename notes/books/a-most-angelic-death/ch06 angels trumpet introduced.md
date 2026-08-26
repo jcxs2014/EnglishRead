@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Six · Angel's Trumpet 与尸检结果
 
 > 文件：`text/CH08_chapter_six_there_you_go_marie.txt`（约 2800 词）

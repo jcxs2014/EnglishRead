@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Three · Lily 被看见
 
 > 文件：`text/CH05_chapter_three_ash_groaned_when_he.txt`（约 4000 词，全书迄今最长章）

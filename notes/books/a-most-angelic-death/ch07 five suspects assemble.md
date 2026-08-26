@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter Seven · 毒理汇报 + 五嫌疑人集会
 
 > 文件：`text/CH09_chapter_seven_angels_trumpet_what_on.txt`（约 4200 词，全书迄今最长章）

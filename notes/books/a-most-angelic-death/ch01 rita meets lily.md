@@ -1,3 +1,7 @@
+---
+modified: "2026-08-26"
+---
+
 ### Chapter One · Rita 与她的"幽灵化妆师"
 
 > 文件：`text/CH03_chapter_one_rita_leaned_in_closer.txt`（约 2000 词，Rita 主视角长对话段）
