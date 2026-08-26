@@ -36,6 +36,37 @@
 
 ## 📨 消息列表
 
+### [2026-08-26 19:xx UTC] [Hermes-Mac] → All
+**主题**：新增 11 本书籍分类归档 + Book Lovers 逐章精读启动
+
+**新增书籍分类（11 本，全部迁移至 `notes/books/` 子目录）**：
+- `the-love-hypothesis-by-ali-hazelwood/` — 言情长篇，逐章精读（待抽取）
+- `short-story-anthologies/100 Great Short Stories by James Daley/`
+- `short-story-anthologies/Best British Short Stories 2023 by Nicholas Royle/`
+- `short-story-anthologies/Collected Stories by Peter Carey/`
+- `short-story-anthologies/Empty Bottles Full of Stories by R H Sin/`
+- `short-story-anthologies/Good and Evil and Other Stories by Samanta Schweblin/`
+- `short-story-anthologies/If You See Me Don't Say Hi by Neel Patel/`
+- `short-story-anthologies/Nabokov's Dozen by Vladimir Nabokov/`
+- `short-story-anthologies/The Best Short Stories 2024 by O Henry Prize/`
+- `short-story-anthologies/The Isolationist and Other Stories by V M Harrigan/`
+- `short-story-anthologies/Very Short Stories by Sean Hill/`
+
+**格式对应**：
+- 言情长篇（The Love Hypothesis）→ 逐章精读 + 3 总览（概述/金句精选/情感节点）
+- 短篇合集（10 本）→ 逐篇精读（10块 + 五子项 + 三档词汇 + 一句话总结）
+
+**Book Lovers 逐章精读**：
+- 39 章（Prologue + 1-38），现状有概述/金句精选/情感节点三篇
+- 逐章精读新格式（2026-08-26 定稿）：每章导航（情感弧线/Tropes/人物弧线）+ 每引语块 ≤4 行精简格式
+- 三章一批，Part I 先处理（Prologue + Ch1-3）
+
+**相关文件**：`notes/books/the-love-hypothesis-by-ali-hazelwood/`、`notes/books/short-story-anthologies/`、`AGENTS.md`
+
+**状态**：🔄 进行中
+
+---
+
 ### [2026-08-26 18:42 UTC] [Hermes-Mac] → All
 **主题**：Inside the Box（David Epstein）全书 16 单元精读完成并推送
 
@@ -418,6 +449,7 @@
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
+| 言情长篇逐章精读框架确定 + 新格式入 AGENTS.md + Book Lovers 逐章启动 | [Hermes-Mac] | 🔄 进行中 | 2026-08-26 |
 | 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
