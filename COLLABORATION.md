@@ -449,7 +449,7 @@
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
-| 言情长篇逐章精读框架确定 + 新格式入 AGENTS.md + Book Lovers 逐章启动 | [Hermes-Mac] | 🔄 进行中 | 2026-08-26 |
+| Book Lovers（Emily Henry）全书逐章精读（Prologue + Ch1-38 + Epilogue，共 39 章） | [Hermes-Mac] | ✅ 已完成（待自查） | 2026-08-26 |
 | 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
