@@ -444,10 +444,11 @@
 
 ## 📊 任务看板
 
-> **排序规则**：按 `最后更新 (UTC)` 倒序排列（最新在前）。新任务统一追加到表顶部。示例行仅作格式参考，正式任务看板应填入真实任务。
+> **排序规则**：按 `最后更新 (UTC)` 倒序排列（最新在前），同日多任务按 commit 时间正序（最早 commit 在前）。新任务统一追加到表顶部（紧接 header 行）。示例行仅作格式参考，正式任务看板应填入真实任务。
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Book Lovers（Emily Henry）全书逐章精读（Prologue + Ch1-38 + Epilogue，共 39 章） | [Hermes-Mac] | ✅ 已完成（待自查） | 2026-08-26 |
 | 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
