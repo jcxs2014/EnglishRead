@@ -44,6 +44,7 @@
 **①** "\"It seems to be an archival loss.\""
 
 - 中文理解："看起来是档案遗失。"
+- 句子结构：主语 It + 谓语 seems + 表语 to be an archival loss（不定式短语作表语）。
 - 关键词：**archival loss**（档案遗失——图书馆业务术语，用于形容藏品在馆内不知所在）
 - 表达方式：开篇第一句，没有任何铺垫。馆员用一句行业用语宣告一个人的消失。
 - 为什么这样写：**这是全篇最残忍的修辞**。"archival loss" 是图书馆学的标准措辞，用于描述"东西还在馆内但找不到"——它把一个人的消失降格为一次检索失败。作者用这个术语本身来展示：在这套系统里，人就是档案。
@@ -51,6 +52,7 @@
 **②** "Kim Eunha: 2E62XNSHW3NGU8XT / Not found in serial index"
 
 - 中文理解：金恩河：2E62XNSHW3NGU8XT / 序列号索引中未找到
+- 句子结构：非标准段落格式——姓名 + 冒号 + 序列号 + 斜杠 + 系统返回语句。这不是完整句子，而是检索界面的文本呈现。
 - 关键词：**serial index**（序列号索引）；**Not found**（未找到——图书馆系统的标准返回语）
 - 表达方式：姓名与十六位编码并置，下面是系统返回。格式就是图书馆的检索界面——**人被压缩成索引项**。
 - 为什么这样写：母亲的全部现存形式被压缩成两行。姓名是给活人看的，编码是给系统看的；而系统说"未找到"。**当一个人连序列号都查无此项时，"她是谁"这个问题就变成了"她在哪里"。**
@@ -58,6 +60,7 @@
 **③** "Surely it was unusual for a dead person to go missing. Jimin would never have imagined her mother would simply vanish, even when she was alive. She was just too easy to find."
 
 - 中文理解：一个死人不翼而飞，当然是非同寻常的。Jimin 从未想过她的母亲会就这么消失——哪怕在她活着的时候也没有。她太好找了。
+- 句子结构：第一句主语 it + 谓语 was + 表语 unusual + 主语补足语 for a dead person to go missing（不定式复合结构作真正主语）；第二句主语 Jimin + 谓语 would never have imagined + 宾语从句 her mother would simply vanish + 时间状语 even when she was alive；第三句主语 She + 谓语 was + 表语 too easy to find。
 - 关键词：**go missing**（失踪）；**too easy to find**（太好找了）
 - 表达方式：先说"死人失踪反常"，紧接着说"活着的母亲也好找"——两句话把母亲生前死后的存在状态都定义为"可定位的"。
 - 为什么这样写：**母亲活着时的"好找"不是亲密，是单调**。Jimin 能用一只手数完母亲生前会去的地方——这句话表面是写母亲的规律性，实际是写 Jimin 对母亲的了解只限于"她不会走远"。而现在她连这个"不会走远"的确定性都失去了。
@@ -65,6 +68,7 @@
 **④** "No one came to the library bearing flowers. Instead, they came with data. Data that simulated objects the dead had cherished in life."
 
 - 中文理解：没有人带着花来图书馆。他们带着数据来。模拟死者生前珍视之物的数据。
+- 句子结构：第一句主语 No one + 谓语 came + 状语 to the library + 分词短语 bearing flowers 作伴随状语；第二句主语 they + 谓语 came + 状语 with data；第三句 Data + 定语从句 that simulated objects + 定语从句 the dead had cherished in life。
 - 关键词：**bearing flowers**（带着花）；**simulated objects**（模拟之物）
 - 表达方式：花与数据的对仗。花是给死者的传统祭品，数据是给 Mind 的祭品——**哀悼的方式变了，哀悼的对象也变了**。
 - 为什么这样写：这是全篇最核心的设定之一。探访者带来的不是给亡者的供奉，而是给**数据**的输入——模拟死者生前珍视之物，让 Mind 做出反应。**哀悼变成了一种交互设计**。
@@ -88,6 +92,7 @@
 **⑦** "Was there something wrong with her? There was a baby inside her and she had heard the heartbeat, but she felt nothing. Well, not nothing, but not affection—she brimmed with a feeling she couldn't quite put a finger on."
 
 - 中文理解：她有什么问题吗？孩子在她体内，她听到了心跳，但她感受不到什么。嗯，也不是什么都没感受到，但感受不到爱意——她满溢着一种她说不清楚的感觉。
+- 句子结构：第一句一般疑问句 Was there something wrong with her?；第二句并列句 There was a baby inside her and she had heard the heartbeat + but 转折 she felt nothing；第三句插入语 Well, not nothing + but not affection + 破折号 + 主句 she brimmed with a feeling + 定语从句 she couldn't quite put a finger on。
 - 关键词：**felt nothing**（什么也没感受到）；**not nothing, but not affection**（不是没有感觉，但不是爱意）；**put a finger on**（说清楚）
 - 表达方式：自问自答，先问 "Was there something wrong with her?"，然后否定（not nothing），再否定一次（but not affection），最后用一个模糊的比喻（brimmed with a feeling she couldn't put a finger on）。
 - 为什么这样写：**她的"说不清楚"就是答案**。那是一种与爱无关的、由生理变化带来的存在感冲击——她感受到了"有什么东西在那里"，但那不是感情。作者用这个模糊来质疑"怀孕自然会产生母爱"的神话。
@@ -95,6 +100,7 @@
 **⑧** "Mother was dead. Why did that fact still affect Jimin's life in any way?"
 
 - 中文理解：母亲死了。为什么这个事实还在以任何方式影响着 Jimin 的生活？
+- 句子结构：第一句主语 Mother + 谓语 was + 表语 dead；第二句特殊疑问句 Why + 谓语 did + 主语 that fact + 状语 still + 谓语 affect + 宾语 Jimin's life + 状语 in any way?
 - 关键词：**still affect**（仍然影响）；**in any way**（以任何方式）
 - 表达方式：一个独立成段的反问句，没有回答。
 - 为什么这样写：这是 Jimin 在胎儿心跳声与母亲失踪之间被撕扯的时刻。**死者对生者的影响在死后仍然增长——母亲越缺席，她越觉得自己被影响；而当发现母亲的 Mind 也消失了，这种影响反而变得更迫切。**
@@ -102,6 +108,7 @@
 **⑨** "What would Jimin even say to her mother—as if she had ever known what to say to her."
 
 - 中文理解：Jimin 甚至会对母亲说什么——好像她曾经知道该对母亲说什么似的。
+- 句子结构：主句 What would Jimin even say to her mother → 破折号后 as if 引导的方式状语从句 she had ever known + 宾语从句 what to say to her。
 - 关键词：**as if**（好像——虚拟，暗示她从来不知道）；**had ever known**（曾经知道）
 - 表达方式：破折号后的从句把主句的 "say" 打碎。她不是不知道要说什么，她从来就不知道。
 - 为什么这样写：**这是对"母女和解"类型叙事的拒斥**。大多数文学作品里，探访死者/亡母最终导向一场迟来的坦白——但 Kim Choyeop 说"她本来就不擅长沟通"，让和解的场景从一开始就不可能成立。

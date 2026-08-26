@@ -43,6 +43,7 @@
 **①** "I think Grandmother, inside her helmet, might have smiled a little herself. Unable to imagine what nightmares awaited her in space."
 
 - 中文理解：我想，头盔里的祖母自己或许也微微笑了。她无从想象太空中等着她的是怎样的噩梦。
+- 句子结构：第一句主语 I + 谓语 think + 宾语从句 Grandmother … might have smiled …；第二句 Unable to imagine … 是形容词短语独立成句，逻辑主语与主句一致（Grandmother）。
 - 关键词：**might have smiled**（或许笑了——孙女对照片的推测，不是事实）；**Unable to imagine**（无从想象——分词短语独立成句）
 - 表达方式：孙女在读一张老照片。前一句是温柔的猜测，后一句抽掉温度——同一张脸上叠加了"她当时不知道"的重量。
 - 为什么这样写：全篇是**后代重述前代**的结构。开篇就确立了这种叙述距离：讲述者只能靠照片、传闻和沉默来拼凑祖母，而祖母最重要的部分正是她拒绝说出的那部分。
@@ -50,6 +51,7 @@
 **②** "It had been forty years since her disappearance. But for Grandmother it had only been ten."
 
 - 中文理解：距她失踪已过去四十年。但对祖母而言只过了十年。
+- 句子结构：第一句主语 It + 谓语 had been + 表语 forty years + since 时间状语；第二句主语 it + 谓语 had been + 表语 ten + for Grandmother 对象状语；But 连接两句。
 - 关键词：**forty years** vs **only been ten**（相对论时间膨胀的最简表述）
 - 表达方式：两句并列、以 But 断开，没有任何解释相对论的段落。作者假定读者懂，把物理学当作情绪工具而非知识炫示。
 - 为什么这样写：这三十年的差额是全篇的悲剧核心——女儿等成了老人，母亲回来时还年轻。**书名 "If We Cannot Go at the Speed of Light" 的伦理代价，第一次在这里显影。**
@@ -59,8 +61,8 @@
 - 中文理解：谜团已不再是宇宙中是否存在其他智慧，而是他们为何要我们离他们远一点。
 - 句子结构：no longer A but B 结构；A = if 从句（是否存在），B = why 从句（为何拒绝）。
 - 关键词：**no longer … but**（不再是……而是——问题被整体置换）；**stay away from**（保持距离）
-- 为什么这样写：人类史上最大的问题被回答了，回答的方式却是**被拒绝**。作者用一句话完成了科幻史上"接触主题"的翻转：不是我们找不到他们，是他们不想见我们。
-- 读者视角提示：这句为祖母的沉默提前铺好了道德地基——如果被接触者有权拒绝，那么泄露坐标就是加害。
+- 表达方式：作者用一句话完成了科幻史上"接触主题"的翻转——不是我们找不到他们，是他们不想见我们。句式简洁，没有多余的修饰。
+- 为什么这样写：人类史上最大的问题被回答了，回答的方式却是**被拒绝**。这句为祖母的沉默提前铺好了道德地基——如果被接触者有权拒绝，那么泄露坐标就是加害。
 
 **④** "In the end, Grandmother was treated like a woman who had drifted in space on her own for four decades and gone half-mad, who eventually started to believe her own lies as a result."
 
@@ -73,6 +75,7 @@
 **⑤** "That's how Heejin met her first Louey."
 
 - 中文理解：Heejin 就这样遇见了她的第一个 Louey。
+- 句子结构：主语 That + 系动词 is + 表语 how 引导的方式状语从句。
 - 关键词：**her first Louey**（她的第一个 Louey——序数词 first 是全篇最大的伏笔）
 - 表达方式：短句收束整个惊险场面。刀已举起、痛没有到来、有人挡在中间——然后一句平静的陈述句落地。
 - 为什么这样写：**first** 这个词在初读时会被当作"她遇到的第一个该族个体"，但后文揭示 Louey 是一个**世代承袭的角色名**，她一生中遇到了不止一个 Louey。作者把整篇的时间纵深藏在一个序数词里。
@@ -80,13 +83,15 @@
 **⑥** "The use of tools, a system of symbolic language, social communication—clear evidence of sentient intelligence."
 
 - 中文理解：工具的使用、符号语言系统、社会性沟通——智慧生命的确切证据。
+- 句子结构：三项并列名词短语（The use of tools / a system of symbolic language / social communication）→ 破折号 → 结论 clear evidence of sentient intelligence。
 - 关键词：**sentient intelligence**（有感智慧）；破折号后的 **clear evidence**（确切证据）
-- 表达方式：三项并列 + 破折号 + 结论。这是**研究者的思维格式**——她在生死关头仍在做学术判定。
+- 表达方式：这是**研究者的思维格式**——她在生死关头仍在做学术判定。三项并列清单 + 破折号 + 结论，像论文摘要。
 - 为什么这样写：Heejin 的身份是生物学家，作者让她的恐惧和职业本能同时运转。这一句既是科学清单，也是她说服自己"他们可能不会杀我"的过程。
 
 **⑦** "She assumed that if she was lucky enough to meet an alien being someday, they would take the form of something beyond her imagination. / Yet here they were, disappointingly imaginable in their appearance."
 
 - 中文理解：她一直以为，如果哪天有幸遇上外星生命，对方会是某种超出她想象的形态。/ 然而他们就在这里，外形令人失望地可想象。
+- 句子结构：第一句主句 She assumed + that 宾语从句（含 if 条件状语从句 + 主句 they would take the form …）；第二句主语 they + 系动词 were + 表语 disappointingly imaginable；Yet 转折。
 - 关键词：**beyond her imagination**（超出想象）vs **disappointingly imaginable**（令人失望地可想象——反向造词，用 imaginable 制造反讽）
 - 表达方式：期待与现实的落差被压在两个同根词（imagination / imaginable）之间，中间夹一个 disappointingly。
 - 为什么这样写：这是对科幻类型自身的一次调侃——电影把外星人做得越不像人，观众越觉得真实（"the more alien they were, the more authentic they felt"）。真实的相遇却平庸得让人失落。**祛魅正是本篇的方法：接触的伦理重量恰恰来自对方并不奇异。**
@@ -96,12 +101,13 @@
 - 中文理解：意识到自己在浩瀚宇宙中的孤独处境、并渴望与另一个文明接触——这是否需要更高级形式的智慧？
 - 句子结构：主语是两个并列名词短语（the awareness of … and the desire to …），谓语 require，宾语 a more advanced form of intelligence。
 - 关键词：**one's lonely place in the vast universe**（自身在浩瀚宇宙中的孤独位置）；**require a more advanced form**（需要更高级的形式）
-- 为什么这样写：Heejin 在这里犯了一个**傲慢的错误**，而作者让读者陪她一起犯。她默认"想要接触"是智慧的高级标志，因此 Louey 一族的漠不关心成了智力不足的证据。后文将证明：他们不是不好奇，是用她读不到的方式在交流。
-- 读者视角提示：这个问句是全篇最重要的**认知陷阱**。人类把自己的孤独感当作智慧的度量尺——这也解释了篇 II 那个拒绝接触的文明为何被人类视为不可理解。
+- 表达方式：Heejin 在这里犯了一个**傲慢的错误**，而作者让读者陪她一起犯。她默认"想要接触"是智慧的高级标志，因此 Louey 一族的漠不关心成了智力不足的证据。后文将证明：他们不是不好奇，是用她读不到的方式在交流。
+- 为什么这样写：这个问句是全篇最重要的**认知陷阱**。人类把自己的孤独感当作智慧的度量尺——这也解释了篇 II 那个拒绝接触的文明为何被人类视为不可理解。
 
 **⑨** "At first, Heejin's hand would bruise if Louey merely grasped it to lead the way, as they hadn't understood that her skin was more delicate than theirs. But now their grasp was lighter."
 
 - 中文理解：起初，Louey 只是拉着她的手带路，她的手就会淤青，因为他们没意识到她的皮肤比他们的娇嫩。但现在他们的手劲变轻了。
+- 句子结构：第一句主句 Heejin's hand would bruise + if 条件状语从句 + as 原因状语从句；第二句主语 their grasp + 谓语 was + 表语 lighter；But 转折。
 - 关键词：**would bruise**（会淤青——过去的习惯性结果）；**their grasp was lighter**（手劲变轻了）
 - 表达方式：一个纯粹身体层面的细节。没有一句台词，没有语言学突破，只有**握力的变化**。
 - 为什么这样写：这是全篇对"沟通"最有力的定义。语言完全失败的两个物种之间，理解是通过**一次次弄疼对方再调整**完成的。Louey 不懂她的语言，但记住了她的脆弱。
@@ -110,6 +116,7 @@
 **⑩** "Heejin froze. Louey wasn't asleep. / Louey was dead."
 
 - 中文理解：Heejin 僵住了。Louey 不是睡着了。/ Louey 死了。
+- 句子结构：第一句主语 Heejin + 谓语 froze；第二句主语 Louey + 谓语 wasn't + 表语 asleep；第三句主语 Louey + 谓语 was + 表语 dead——三句独立成段。
 - 关键词：**wasn't asleep** → **was dead**（否定句先行，肯定句独立成段）
 - 表达方式：三个短句，逐句缩短，最后一句单独成段。前一段还在铺陈她握着飞船残件的绝望，死亡以最不设防的方式插入。
 - 为什么这样写：Louey 死在一幅未完成的画上，颜料流到地上。**画是他们唯一的沟通渠道**，而它中断在半途。作者不写 Heejin 的悲痛，只写她僵住——语言在这里再次失效，这次是她自己的语言。

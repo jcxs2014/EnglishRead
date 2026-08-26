@@ -44,6 +44,7 @@
 **①** "A green, squarish pebble. That's the only way I could describe it."
 
 - 中文理解：一块绿色的、方方正正的小石头。我只能这么形容它。
+- 句子结构：第一句名词短语独立成句（A green, squarish pebble）；第二句主语 That + 系动词 is + 表语 the only way + 定语从句 I could describe it。
 - 关键词：**squarish**（-ish 后缀表模糊近似）；**the only way I could describe it**（我只能这么形容）
 - 表达方式：两个残句，第二句承认描述能力的失败。编辑是靠语言吃饭的人，而她面对这个东西只能说"一块石头"。
 - 为什么这样写：全篇是关于**命名的权力**——公司给情绪起了名字（Essential Fear、Calm Soap），而叙述者连产品本身都说不清。谁能命名，谁就定义现实。
@@ -51,6 +52,7 @@
 **②** "It did say that Emotional Solids used to be a stationery company famous for pretty designs—or designs that looked pretty in photos."
 
 - 中文理解：介绍里确实提到，Emotional Solids 原本是一家以精美设计闻名的文具公司——或者说，是在照片里显得精美的设计。
+- 句子结构：主句 It did say + that 宾语从句（主语 Emotional Solids + 谓语 used to be + 表语 a stationery company + 定语 famous for pretty designs）；破折号后插入语 designs that looked pretty in photos。
 - 关键词：**famous for pretty designs** → 破折号自我修正 **looked pretty in photos**（在照片里好看）
 - 表达方式：破折号后的补语把前半句整体贬值。这是记者的笔法：先引述对方的说法，再补一句真相。
 - 为什么这样写：**"上照好看"就是这家公司唯一的核心能力**。它卖的从来不是文具，是可拍摄性。情绪产品线只是把同一套逻辑升级——现在卖的是可拍摄的内心状态。
@@ -66,13 +68,16 @@
 **④** "I could see how the Materiality of Emotions was a bit of targeted marketing for people who loved putting special meaning onto useless things."
 
 - 中文理解：我能看出，"情绪的物质性"是针对那些喜欢给无用之物赋予特殊意义的人做的精准营销。
+- 句子结构：主句 I could see + how 宾语从句（主语 the Materiality of Emotions + 谓语 was + 表语 a bit of targeted marketing + 介词短语 for people + 定语从句 who loved putting special meaning onto useless things）。
 - 关键词：**putting special meaning onto useless things**（给无用之物赋予特殊意义）；**targeted marketing**（精准营销）
-- 为什么这样写：这句是 Jungha 对女友 Bohyeon 的判词，说得刻薄而准确——Bohyeon 的柜子里全是旅途中买的小物件，每一件都"装着"当时的心情。但**"给无用之物赋予意义"正是人类保存记忆的唯一方式**，Jungha 把它当作可被营销利用的弱点。
+- 表达方式：这句是 Jungha 对女友 Bohyeon 的判词，说得刻薄而准确——Bohyeon 的柜子里全是旅途中买的小物件，每一件都"装着"当时的心情。
+- 为什么这样写：但**"给无用之物赋予意义"正是人类保存记忆的唯一方式**，Jungha 把它当作可被营销利用的弱点。
 - 读者视角提示：这一句已经预告了两人关系的裂痕所在。Jungha 认为意义是投射上去的（因此可疑），Bohyeon 认为意义就在物里。**当 Essential Depression 真的起作用时，赢的是 Bohyeon 的世界观。**
 
 **⑤** "Bohyeon's silence felt accusatory: *You still don't know what you did wrong?*"
 
 - 中文理解：Bohyeon 的沉默带着控诉的意味：*你还不知道自己错在哪儿？*
+- 句子结构：主语 Bohyeon's silence + 谓语 felt + 表语 accusatory + 冒号 + 斜体直接引语作同位语。
 - 关键词：**accusatory**（控诉性的）；斜体内心引语 **You still don't know**（你还不知道）
 - 表达方式：把沉默翻译成一句台词，并用斜体标出——这句话没有人说出口，是 Jungha 自己替对方配的音。
 - 为什么这样写：这是全篇的**沟通失败模型**。七天不回消息，Jungha 只能靠猜；而她猜出来的句子里已经预设了自己有罪却不知罪名。**情绪在这里是不可读的**——这正是"情绪商品化"能成立的市场条件：如果人能直接说清自己的感受，就不需要买一块写着 Essential Depression 的石头。
@@ -80,6 +85,7 @@
 **⑥** "Bohyeon was crying. There were opened delivery boxes at her feet and a small stone in her hand. A blue one."
 
 - 中文理解：Bohyeon 在哭。她脚边是拆开的快递箱，手里握着一块小石头。蓝色的。
+- 句子结构：第一句主语 Bohyeon + 谓语 was crying；第二句 There were + 表语 opened delivery boxes + 状语 at her feet + and + 表语 a small stone + 状语 in her hand；第三句 A blue one 是名词短语独立成句。
 - 关键词：**opened delivery boxes**（拆开的快递箱——复数，量很大）；**A blue one**（蓝色的——独立成句）
 - 表达方式：三个短句依次推进，最后用两个词的残句落下颜色。第①处的石头是绿色（Calm），这块是蓝色——读者在得到名字之前先得到了颜色。
 - 为什么这样写：**颜色先于命名到达**。下一句 Bohyeon 才说出 "Essential Depression"。作者让读者先看见一个哭着握石头的人，再给这块石头贴上标签——顺序决定了同情先于判断。
@@ -87,6 +93,7 @@
 **⑦** "\"Jungha, we are not practicing for marriage!\" / It remained a mystery to me why she was so angry."
 
 - 中文理解："Jungha，我们不是在为结婚做练习！"/ 她为什么这么生气，对我始终是个谜。
+- 句子结构：第一句直接引语作独立句；第二句主语 It + 谓语 remained + 表语 a mystery + 定语从句 to me why she was so angry。
 - 关键词：**practicing for marriage**（为结婚做练习）；**remained a mystery to me**（对我始终是个谜）
 - 表达方式：一句爆发的台词，紧接一句平铺直叙的困惑。中间没有任何反思段落。
 - 为什么这样写：Jungha 提议办一场"非法律意义的仪式"来安抚 Bohyeon 的家人，还提议同居以"合并资源"——她把对方毕生坚持的**不婚立场**当成了可以谈判的弹性空间（"surely there was some wiggle room"）。Bohyeon 的愤怒完全成立，而 Jungha 到此刻仍不明白。
@@ -95,6 +102,7 @@
 **⑧** "\"But the particles of pain scattered in the air will eventually enter my lungs once this hysteria ends.\" … \"Would that really be a better outcome?\""
 
 - 中文理解："可等这场狂热结束，散在空气里的痛苦颗粒终究会进到我的肺里。"……"那真的会是更好的结果吗？"
+- 句子结构：直接引语作独立句——第一句主语 The particles of pain + 定语 scattered in the air + 谓语 will enter + 宾语 my lungs + 时间状语 once this hysteria ends；第二句反问句 Would that really be a better outcome?
 - 关键词：**particles of pain**（痛苦的颗粒——把情绪彻底物质化的表述）；**this hysteria**（这场狂热——她自己也知道这是风潮）；**a better outcome**（更好的结果）
 - 表达方式：Bohyeon 说这句话时正把一块 Essential Depression 握起又放下。她的比喻是物理性的：情绪不会消失，只会改变形态和位置——被封在石头里，或者散进空气被吸入肺中。
 - 为什么这样写：这是全篇对 Jungha "去看专业医生"式建议的回答。**Bohyeon 不是不知道这是风潮，她是在两种承受方式之间做选择**——把抑郁握在手里，还是让它弥散着进入身体。她没有否认产品的荒谬，她只是问：另一个选项真的更好吗？
@@ -104,7 +112,8 @@
 - 中文理解：我意识到自己没有那种语言。某种重要的东西在那一刻离开了我的心，留下一阵寒意。不是一个念头或概念，而是一种我确实能感知到的感觉。/ 也许这意味着，我终究还是能稍微理解她的。
 - 句子结构：I realized + 宾语从句（省略 that 的定语从句 it would take for that）；Not A or B, but C 的否定—肯定对举；末句插入语 somewhat 削弱确定性。
 - 关键词：**didn't have the language**（没有那种语言）；**vacated**（腾空、撤离——公文式冷词用于内心）；**an actual feeling I could sense**（确实能感知到的感觉）
-- 为什么这样写：这是全篇的**主题落点，也是标题的兑现**。Jungha 一直站在"情绪不可能是物质"这一侧，直到她自己经历了一次**可被身体感知的情绪**——寒意、腾空、离开。她没有承认产品有效，但她承认了情绪有物质性。
+- 表达方式：Jungha 一直站在"情绪不可能是物质"这一侧，直到她自己经历了一次**可被身体感知的情绪**——寒意、腾空、离开。她没有承认产品有效，但她承认了情绪有物质性。
+- 为什么这样写：这是全篇的**主题落点，也是标题的兑现**。
 - 读者视角提示：注意 **vacated** 这个词。它通常用于房间、职位、席位——Jungha 用管理办公空间的动词描述自己的心。这个用词习惯正是她这类人的语言限度，而她刚刚发现这套语言不够用。
 
 **⑩** "A fragrance that lingers and then vanishes. Air that settles heavily. Sobs coming from behind a door. … The blue pebble that had rolled off the table and fallen onto the floor. And once more, silence. / How does materiality steal our hearts?"

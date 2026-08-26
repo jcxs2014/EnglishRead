@@ -44,6 +44,7 @@
 **①** "The old woman was already in place, her back to the station reception area as she stared outward."
 
 - 中文理解：老妇人已经在那儿了，背对着车站接待区，望向外面。
+- 句子结构：主语 The old woman + 谓语 was + 表语 already in place + 独立主格 her back to the station reception area + as 时间状语从句 she stared outward。
 - 关键词：**already in place**（早已就位——像布景的一部分，不像刚到的旅客）；**her back to**（背对着）
 - 表达方式：开篇不给她名字、不给她相貌，只给一个姿态：背对屋内、面朝窗外。整篇的姿势由此定型。
 - 为什么这样写：**already** 暗示她在这里已经很久了。她不是在等某一班船，她是长在这个空间站里的一部分——读者要读到后面才知道这个"久"有多久。
@@ -51,6 +52,7 @@
 **②** "According to the medical scanner, I'm not supposed to have any more caffeine."
 
 - 中文理解：医疗扫描仪说，我不该再喝咖啡因了。
+- 句子结构：状语 According to the medical scanner + 主语 I + 谓语 am not supposed to have + 宾语 any more caffeine。
 - 关键词：**not supposed to**（不该——被规定，不是自己决定）
 - 表达方式：老年身体的限制以一句家常话带出，没有自怜。橙汁与"戒糖"的男人形成小小的对照——两个都被身体规训过的人。
 - 为什么这样写：作者用最日常的细节建立她的可信度和尊严。她不是一个悲剧符号，是一个会因为体检报告而放弃咖啡的老人。
@@ -58,20 +60,23 @@
 **③** "It was no spaceship. More like a shuttle, the kind one used to go back and forth from Earth's surface to this satellite station."
 
 - 中文理解：那根本不是飞船。更像一架穿梭机，那种往返于地表和这座卫星站之间的东西。
+- 句子结构：第一句主语 It + 谓语 was + 表语 no spaceship；第二句主语（省略）+ 系动词（省略）+ 表语 More like a shuttle + 同位语 the kind + 定语从句 one used to go back and forth …。
 - 关键词：**It was no spaceship**（那根本不是飞船——no + 名词的强否定）；**used to go back and forth**（曾经往返）
-- 为什么这样写：她说"我的私人飞船"，实物却是一架接驳穿梭机。这不是虚荣，是**她的活动半径**：她能到的最远处只有这座轨道站。一个想去几百光年外的人，实际交通工具只够上下地表。
-- 读者视角提示：这一句已经把全篇的悲剧几何画出来了——**她与目的地的距离，和她的载具能力之间，差着整个宇宙。**
+- 表达方式：她说"我的私人飞船"，实物却是一架接驳穿梭机。这不是虚荣，是**她的活动半径**：她能到的最远处只有这座轨道站。
+- 为什么这样写：一个想去几百光年外的人，实际交通工具只够上下地表。这一句已经把全篇的悲剧几何画出来了——**她与目的地的距离，和她的载具能力之间，差着整个宇宙。**
 
 **④** "There were other features, like a timetable written in Common, crammed with unfamiliar time notations. Judging by the several logos on the wall, the station had probably once been the joint venture of many different travel companies, many if not all long defunct."
 
 - 中文理解：还有别的陈设，比如一份用通用语写的时刻表，塞满了陌生的时间标记。从墙上那几个标识看，这座站曾是多家旅行公司的合营项目，其中多数——如果不是全部——早已倒闭。
 - 句子结构：主句 There were other features → like 引出举例 → 分词 crammed with 修饰 timetable；第二句 Judging by … 分词状语 + 主句 + 同位插入 many if not all long defunct。
 - 关键词：**crammed with unfamiliar time notations**（塞满陌生的时间标记）；**long defunct**（早已停业）
-- 为什么这样写：时刻表还挂着，公司都没了。这是全篇的核心意象——**制度的残骸比人的等待消失得更快**。Anna 的票由一家不存在的公司签发，它在法律上有效，在现实中无处兑现。
+- 表达方式：时刻表还挂着，公司都没了。这是全篇的核心意象——**制度的残骸比人的等待消失得更快**。
+- 为什么这样写：Anna 的票由一家不存在的公司签发，它在法律上有效，在现实中无处兑现。
 
 **⑤** "Its forehead lights blinked lethargically, and its jaw moved to speak but there was no sound. It didn't look broken so much as dying."
 
 - 中文理解：它额上的灯懒懒地闪，下颌张合着要说话，却没有声音。它看上去不像坏了，更像正在死去。
+- 句子结构：第一句并列句 Its forehead lights blinked … and its jaw moved … but there was no sound；第二句主语 It + 谓语 didn't look + 表语 broken + 比较结构 so much as dying。
 - 关键词：**lethargically**（无力地、倦怠地）；**not … so much as**（不是……而更像是）；**dying**（正在死去）
 - 表达方式：把机器的故障写成生命的衰竭。**broken 是维修范畴，dying 是伦理范畴**——一个词的替换改变了读者对它的义务感。
 - 为什么这样写：这台失声的导览机器人是 Anna 的镜像：还在岗位上、还想说话、没人听得见、也没人来修。男人被派来"修"它，最终也要决定是否"处理"她——**作者把人与机器放进同一个待处置清单。**
@@ -79,6 +84,7 @@
 **⑥** "Ricordite had fallen out of use as of late."
 
 - 中文理解：ricordite 近来已经不再被使用了。
+- 句子结构：主语 Ricordite + 谓语 had fallen + 表语 out of use + 时间状语 as of late。
 - 关键词：**fallen out of use**（不再被使用——技术淘汰的中性说法）
 - 表达方式：一个短句，冷得像百科注解。前一句 Anna 还在讲太空电梯的举国狂热，紧接着就是这一句。
 - 为什么这样写：她丈夫和儿子迁往那颗星球的全部理由——那里出产建造太空电梯的关键矿物——已经作废。**他们为一个已经取消的未来搬了家。** 作者不写任何评论，只用时代的记忆断层完成这一刀。
@@ -86,6 +92,7 @@
 **⑦** "That's why I'm here."
 
 - 中文理解：所以我才在这儿。
+- 句子结构：表语 That + 系动词 is + 表语从句 why I'm here。
 - 关键词：**That's why**（正因如此——把"太远"这一否定理由反转为在场的理由）
 - 表达方式：四个词。男人说"那非常远"，她的回答不是辩解而是确认：远，所以我必须守在离得最近的地方等。
 - 为什么这样写：这是全篇的题旨句之一。**距离不能被克服，就只能被守候。** 她做不到光速，于是把余生站成一个坐标。
@@ -109,6 +116,7 @@
 **⑩** "The antifreezes we had couldn't completely stop cell damage, and that made cryostasis a twice-in-a-lifetime-only proposition."
 
 - 中文理解：我们手上的抗冻剂无法完全阻止细胞损伤，这使得冷冻休眠一生只能承受两次。
+- 句子结构：第一句主语 The antifreezes + 定语从句 we had + 谓语 couldn't stop + 宾语 cell damage；第二句主语 that + 谓语 made + 宾语 cryostasis + 宾语补足语 a twice-in-a-lifetime-only proposition；and 连接两句。
 - 关键词：**twice-in-a-lifetime-only**（一生仅两次——连字符造出的临床术语）；**proposition**（命题、可行方案——商业/技术措辞）
 - 表达方式：用冷静的技术表述说出最残酷的算术。**两次**：去一次，回一次。
 - 为什么这样写：这是全篇最锋利的设定。丈夫与儿子已经用掉一次（去）；他们剩下的那一次必须留给"醒来"。**所以只能是 Anna 去，而她需要一班船。** 技术不是障碍，是一道只允许算一次的账。

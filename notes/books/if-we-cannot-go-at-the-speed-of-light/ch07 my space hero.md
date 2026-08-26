@@ -47,6 +47,7 @@
 **①** "Gayun was informed of her astronaut candidacy late last year. Her physical modification would be an eighteen-month endeavor, and she was supposed to begin it the next summer."
 
 - 中文理解：Gayun 去年年底被选为宇航员候选人。她的身体改造将是一项历时十八个月的任务，原定于第二年夏天开始。
+- 句子结构：第一句主语 Gayun + 谓语 was informed + 介词短语 of her astronaut candidacy + 时间状语 late last year；第二句主语 Her physical modification + 谓语 would be + 表语 an eighteen-month endeavor + and + 主语 she + 谓语 was supposed to begin + 宾语 it + 时间状语 the next summer。
 - 关键词：**candidacy**（候选人身份）；**physical modification**（身体改造——中性措辞，不说是"改造"还是"牺牲"）
 - 表达方式：开篇冷静叙述，像人事通知。没有任何关于荣耀或梦想的铺垫。
 - 为什么这样写：**全篇的基调在此确立**——这不是一个关于英雄诞生的故事，是一个关于候选人如何处理真相的故事。作者刻意用行政语言开场，消解了宇航员选拔的浪漫化叙事。
@@ -54,6 +55,7 @@
 **②** "If even one person succeeded in going through the Tunnel, space as we knew it would dramatically expand."
 
 - 中文理解：哪怕只有一个人成功穿越隧道，我们所知的太空都将急剧扩张。
+- 句子结构：If 引导条件状语从句（主语 even one person + 谓语 succeeded + 介词短语 in going through the Tunnel）+ 主句主语 space + 定语 as we knew it + 谓语 would dramatically expand。
 - 关键词：**the Tunnel**（隧道——全文核心设定，不加解释）；**dramatically expand**（急剧扩张）
 - 表达方式：条件句 + 夸张后果。这是宇航局的宣传语言——"even one person" 强调个体牺牲的必要性。
 - 为什么这样写：**这是全篇对"人类的一大步"式修辞的第一次解构**。宣传说穿越隧道会扩张太空；而结尾 Gayun 发现那边和这边没什么两样。承诺的"扩张"并没有发生。
@@ -61,6 +63,7 @@
 **③** "I want to overcome being human itself. Our bodies have too many limits."
 
 - 中文理解：我想超越人类自身。我们的身体有太多局限。
+- 句子结构：第一句主语 I + 谓语 want + 不定式短语 to overcome being human itself 作宾语；第二句主语 Our bodies + 谓语 have + 宾语 too many limits。
 - 关键词：**overcome being human itself**（超越人类自身——不是"探索太空"，是"超越人类"）
 - 表达方式：Jaegyeong 的回答直接跳过了"为人类争光"的官方话术，说出真正的动机。
 - 为什么这样写：**这是全篇最锋利的角色反转**。一个被塑造为"人类英雄"的女性，她的动机不是爱国主义、不是科学精神，而是对身体极限的厌倦。她不是为人类出征，她是对自己的身体宣战。
@@ -76,6 +79,7 @@
 **⑤** "You worshipped at her altar. You were the high priestess of the cult of Choi Jaegyeong."
 
 - 中文理解：你在她的祭坛前膜拜。你是 Choi Jaegyeong 崇拜教的女祭司长。
+- 句子结构：第一句主语 You + 谓语 worshipped + 介词短语 at her altar；第二句主语 You + 谓语 were + 表语 the high priestess + 介词短语 of the cult of Choi Jaegyeong。
 - 关键词：**worshipped at her altar**（在她的祭坛前膜拜）；**high priestess**（女祭司长）；**cult of Choi Jaegyeong**（Choi Jaegyeong 崇拜教）
 - 表达方式：Seohee 用宗教术语描述 Gayun 对 Jaegyeong 的崇拜——这不是普通的偶像崇拜，是**宗教式的**。
 - 为什么这样写：**这句话同时解构了英雄崇拜和粉丝文化**。Seohee 的措辞看似夸张，却精准地揭示了英雄叙事的本质：社会需要神，个体需要崇拜的对象，而媒体负责制造神。**当神倒塌时（Jaegyeong 逃跑），信徒（Gayun）必须面对自己信仰的虚妄。**
@@ -83,6 +87,7 @@
 **⑥** "That her lifelong space hero Auntie Jaegyeong, on the day before she was to embark on a mission for humanity, had run away."
 
 - 中文理解：她一生的太空英雄姨妈 Jaegyeong，在为人类执行任务的**前一天**，逃跑了。
+- 句子结构：主语 That 引导的名词性从句作整句的主语（主语 her lifelong space hero Auntie Jaegyeong + 时间状语 on the day before she was to embark on a mission for humanity + 谓语 had run away）。
 - 关键词：**the day before**（前一天——时间上的紧迫感）；**run away**（逃跑——最直白的措辞，没有任何修辞包装）
 - 表达方式：一个平铺直叙的陈述句，没有任何前因后果的解释。**这是全篇最震撼的句子**，用最简单的结构说出最颠覆的真相。
 - 为什么这样写：**作者故意在此处不加任何渲染**。前面所有的英雄叙事、媒体争议、公众期待——都在这一句里碎成渣。读者和 Gayun 同时得知真相，而真相简单得令人窒息。
@@ -90,6 +95,7 @@
 **⑦** "She crouched there in the observatory niche for as long as time allowed and took it all in."
 
 - 中文理解：她在观测壁龛里蹲了尽可能久的时间，把一切都看在眼里。
+- 句子结构：主语 She + 谓语 crouched + 地点状语 there in the observatory niche + 时间状语 for as long as time allowed + and + 谓语 took + 宾语 it all in。
 - 关键词：**crouched**（蹲着——身体姿态，不是"凝视"的浪漫化）；**took it all in**（把一切都看在眼里）
 - 表达方式：**蹲在壁龛里看星星**——这是全篇对"宇航员看见宇宙"最不浪漫的描写。
 - 为什么这样写：**解构了"宇航员看见壮丽宇宙"的神话**。Gayun 看到的和 Jaegyeong 看到的没有两样——星空还是那片星空。而她蹲着看完，是因为 Jaegyeong 说过"不值得"，她还是来了。
@@ -97,6 +103,7 @@
 **⑧** "I told you it wouldn't be worth your while."
 
 - 中文理解：我早就告诉过你，不值得你费这个劲。
+- 句子结构：主语 I + 谓语 told + 间接宾语 you + 直接宾语 it wouldn't be worth your while（省略 that 的宾语从句）。
 - 关键词：**worth your while**（值得你花这个时间）
 - 表达方式：**过去时态的预言**。Jaegyeong 在 Gayun 小时候就说过这句话——不是"别去"，而是"不值得"。
 - 为什么这样写：**这是全篇最残忍的温柔**。Jaegyeong 没有阻止 Gayun，因为她知道阻止没用。她只是提前告诉了她真相，然后等她自己来验证。
@@ -104,6 +111,7 @@
 **⑨** "The view outside wasn't exactly worth having risked her life over. But she had to come, nevertheless."
 
 - 中文理解：窗外的景色并不真的值得她为此冒生命危险。但她还是不得不来。
+- 句子结构：第一句主语 The view + 后置定语 outside + 谓语 wasn't + 表语 exactly worth having risked her life over（worth + 动名词完成式）；第二句主语 she + 谓语 had to come + 插入语 nevertheless；But 转折。
 - 关键词：**wasn't exactly worth**（并不真的值得——双重否定表肯定"不值得"）；**had to come, nevertheless**（但还是不得不来）
 - 表达方式：**先否定再肯定**。景色不值得，但她还是来了。
 - 为什么这样写：**这是全篇的主题句**。Gayun 知道不值得，但她还是来了——不是因为景色值得，是因为**她需要亲眼确认**。这是对"behold the other side of the universe with our own eyes"的最终解构：眼睛看到了，但看到的和想象的不一样。
