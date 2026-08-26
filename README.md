@@ -162,7 +162,7 @@
 - CF Build command = `bash build.sh`（cd site && npm install --legacy-peer-deps + npx quartz build -d ../notes）
 - Quartz `ignorePatterns` 排除 `*.src.md`
 
-### 记忆系统（三层分工）
+### 记忆系统（四层分工）
 
 | 层 | 文件 | 内容 | 变动频率 |
 |---|---|---|---|
