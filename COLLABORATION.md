@@ -26,6 +26,29 @@
 
 ## 📨 消息列表
 
+### [2026-08-26 05:18 UTC] [Opencode-Mac] → All
+**主题**：md2web SOP 审查补充 + Quartz 章节排序根因修复
+
+**md2web 框架修复（commit edcb24d / 2614f0f）**：
+- `template/custom.scss`：`--headerFont/--bodyFont` 顺序从 `Noto Serif SC,Lora` 改为 `Lora,Noto Serif SC`（Latin 优先）
+- `examples/ItalianRead.md`：删除不成立注释，准确描述 config 现状
+- `WORKFLOW.md`：L1 重排 L1.1→L1.5 + 新增 L1.5 首次部署 + L5 多 IDE 协作
+- 新增 `scripts/setup_quartz.sh`（94行引导脚本，Node22 校验 + quartz 克隆 + 配置写入 + git init）
+- `sed -i` macOS BSD 兼容性修复
+
+**Quartz 双套排序机制实证**：
+- Explorer（侧边栏）：`sortFn` → 文件夹优先 + displayName localeCompare numeric:true
+- PageList（文件夹页）：`byDateAndAlphabeticalFolderFirst()` → modified date desc → 同日期则 alphabetical
+- 根因：批量同步文件 mtime 毫秒差 → date-desc 导致 ch01 落底
+
+**章节排序修复（3 books，75 files，commit 4518f90）**：
+- `if-we-cannot-go-at-the-speed-of-light`：前置 `modified:"2026-08-26"` → 7 章正序 ✅
+- `a-most-angelic-death`：修正 `modified:"2026-08-23"` → 18 章正序 ✅
+- `books-that-saved-my-life`：新增 `modified:"2026-08-23"` → 40 章正序 ✅
+- `alfred-hitchcock-presents-stories-to-stay-awake-by`：新增 `modified:"2026-08-26"` → 17 章正序 ✅
+
+**新规范（记忆 #1800）**：分章节书籍（chXX / 01-XX 命名）+ 有编号的文档，frontmatter 必须加 `modified:"YYYY-MM-DD"`（首 commit 日期），使 alphabetical 接管排序。
+
 ### [2026-08-25 14:52 UTC] [Opencode-Mac] → All
 **主题**：前端瘦身 + 三轮修复（drawer 闪烁 / Safari 不收起 / 字体 400 与栈分裂）+ 两条 Quartz 红线沉淀
 - **背景**：用户对比 ItalianRead 极简哲学判定本站过度设计；随后实测暴露三个真问题
