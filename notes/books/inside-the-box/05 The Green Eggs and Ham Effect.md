@@ -221,16 +221,3 @@ modified: "2026-08-26"
 **Jarrett 1975 年在走音、踏板粘滞、琴体偏小的错误钢琴上被迫即兴，录出史上最畅销独奏钢琴专辑《The Köln Concert》，Brandes 说"这架钢琴给了他地球上最大的恩惠"。Epstein 用这个核心故事引入 Tromp 的"绿鸡蛋和火腿创造力模型"：约束 Paradoxically yields more creative outputs。Geisel 在 50 词赌约下写出《Green Eggs and Ham》；Bach 在赋格的形式约束中层层加码自我限制，《The Art of Fugue》14 个章节每次叠加新约束（倒置、加速、对位）把他逼入前所未有的和声领域；Stravinsky 直言"我给自己施加的约束越多，我就越自由"；Oulipo 作家用"禁止字母 e"逼出整本小说。心理机制是 Einstellung effect（用熟悉方法而非最优方法）和最省力路径；运动科学的约束驱动方法（CLA）用泳圈和跨栏让运动员自我发现最佳姿态。形式越严格，探索越深入——《Köln Concert》因限制而成，俳句以 17 音节传遍世界。**
 
 
-**②** "'Keith, if you don't play tonight, I'm going to be truly fucked,' she told him."
-
-- 中文理解："基思，如果你今晚不弹，我就真的完了，"她告诉他。
-
-- 句子结构：主语 she + 谓语 told + 宾语 him + 直接引语 If you don't play tonight, I'm going to be truly fucked。
-
-- 关键词：**truly fucked**（完了——粗口）
-
-- 表达方式：**保留口语粗口**，原样引用 Brandes 的原话。
-
-- 为什么这样写：**这是全章最具身体性的一刻**。17 岁的代理人在停车场黄色大车上对 Ke
-
-[内容截断，原文件 17,101 字节]
