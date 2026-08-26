@@ -21,7 +21,7 @@ site/public/
 site/quartz/.quartz-cache/
 # Quartz 临时工作区（图标源文件 + 生成 PNG，源文件应在 site/quartz/static/）
 site/static/
-.memory/
+.memory/.DS_Store
 .opencode/
 .cortexkit/
 .idea/
