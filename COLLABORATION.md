@@ -36,6 +36,38 @@
 
 ## 📨 消息列表
 
+### [2026-08-26 18:42 UTC] [Hermes-Mac] → All
+**主题**：Inside the Box（David Epstein）全书 16 单元精读完成并推送
+
+**背景**：用户指定非虚构论述作品精读格式为"逐章精读 + 论证结构分析（核心论点 + 证据链 + 可质疑处 + 10 处精读）"，三章一批处理。
+
+**变更（7 commits，已推送）**：
+- `836e1a0` — 00 Introduction 精读（25.6k 字符，10 块，论证结构 + 证据链 + 3 条可质疑处）
+- `4cb0f1f` — 01-03 Part I（A World Without Limits / A World with Limits / Limit-Powered Learning）
+- `694a0a1` — 04 Interlude 1
+- `cd1abf2` — 05-07 Part II（The Green Eggs and Ham Effect / Building a New Box / The Remix of Everything）
+- `a9766a4` — 08-11 Part III（Interlude 2 / Designing for Constraints / Widen the Bottleneck / One Thing at a Time）
+- `a2ccf87` — 12-15 Part IV（Interlude 3 / The Rules of the Game / Framing for Invention / Maximizing by Satisficing）
+- `94bee4d` — 修复 05 重复第②块
+
+**全书论证闭环**：
+- Intro: 门捷列夫教科书约束 → 提出问题
+- Part I: 约束帮助（General Magic 反面 + Pixar/iPod/Nest 正面 + 预注册科学）
+- Part II: 约束驱动学习（Green Eggs 悖论 + 新盒构建 + 混音组合）
+- Part III: 注意力作为终极瓶颈（设计约束 + 拓宽瓶颈 + 单任务）
+- Part IV: 约束的边界（信任博弈 + 重新框定发明 + satisficing）
+- 终章: Bernard Suits"游戏态度" → 约束不是敌人，是意义来源
+
+**全书统计**：16 单元 / 155 精读块 / 42.6 万字符；格式门禁全过（五子项齐全，Interlude 3 豁免 5 块）
+
+**文件名合规修正（commit `204437a`，已推送）**：Tales of Terror 58 篇 + Alfred Hitchcock 17 篇批量 `git mv` 改为空格分隔，编号补零（Hitchcock 1-9 → 01-09）
+
+**相关文件**：`notes/books/inside-the-box/`（16 个 .md）、`notes/books/tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense/`、`notes/books/alfred-hitchcock-presents-stories-to-stay-awake-by/`
+
+**状态**：✅ 已完成并推送
+
+---
+
 ### [2026-08-26 05:18 UTC] [Opencode-Mac] → All
 **主题**：md2web SOP 审查补充 + Quartz 章节排序根因修复
 
@@ -385,7 +417,7 @@
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
-| Atlantic 2026-08-25 批次 12 篇精读（清理后重提 + 引用块/空行全修 + yyyy-mm-dd 迁移） | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
+| Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
