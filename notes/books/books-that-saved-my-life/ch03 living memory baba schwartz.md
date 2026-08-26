@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch03 · Living Memory · Baba Schwartz & Jacob Rosenberg
 
 **讨论的书**：*The May Beetles*（2016）· Baba Schwartz；*East of Time*（2005）· Jacob G. Rosenberg

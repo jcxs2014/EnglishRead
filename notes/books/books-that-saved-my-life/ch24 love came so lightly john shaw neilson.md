@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch24 · Love Came So Lightly · John Shaw Neilson
 
 **讨论的书**：*Love's Coming*（1896）· John Shaw Neilson

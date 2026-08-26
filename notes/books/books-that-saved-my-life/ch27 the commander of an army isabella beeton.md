@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch27 · The Commander of an Army · Isabella Beeton
 
 **讨论的书**：*Mrs Beeton's Book of Household Management*（1861）· Isabella Beeton

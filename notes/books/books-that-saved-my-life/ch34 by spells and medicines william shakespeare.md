@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch34 · By Spells and Medicines · William Shakespeare
 
 **讨论的书**：*Othello*（c. 1603）· William Shakespeare

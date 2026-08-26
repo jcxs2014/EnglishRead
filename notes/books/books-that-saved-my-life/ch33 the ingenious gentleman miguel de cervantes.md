@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch33 · The Ingenious Gentleman · Miguel de Cervantes
 
 **讨论的书**：*Don Quixote*（1605）· Miguel de Cervantes

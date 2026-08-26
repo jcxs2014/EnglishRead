@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch39 · My Tears Have Become My Bread · Torah / Bible / Qur'an
 
 **讨论的书**：*Psalms 63*、*Psalm 42*、*Mark's Gospel*、*Qur'an* 等

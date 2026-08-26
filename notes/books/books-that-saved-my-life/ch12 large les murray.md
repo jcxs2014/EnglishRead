@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch12 · Large · Les Murray
 
 **讨论的书**：*"An Absolutely Ordinary Rainbow"*（poem, 1969）· Les Murray

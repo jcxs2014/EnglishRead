@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch30 · Lonely Creature · Mary Shelley
 
 **讨论的书**：*Frankenstein*（1818）· Mary Shelley

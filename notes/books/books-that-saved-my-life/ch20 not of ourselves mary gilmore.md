@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch20 · Not of Ourselves · Mary Gilmore
 
 **讨论的书**：*The Passionate Heart*（1918）· Mary Gilmore

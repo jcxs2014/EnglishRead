@@ -1,5 +1,6 @@
 ---
 状态: 未读
+modified: "2026-08-26"
 ---
 
 # 3. Death by Judicial Hanging（司法绞刑）

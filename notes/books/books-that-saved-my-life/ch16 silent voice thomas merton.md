@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch16 · Silent Voice · Thomas Merton
 
 **讨论的书**：*The Sign of Jonas*（1953）· Thomas Merton

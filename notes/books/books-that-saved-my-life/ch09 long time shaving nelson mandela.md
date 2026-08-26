@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch09 · Long Time Shaving · Nelson Mandela
 
 **讨论的书**：*Long Walk to Freedom*（autobiography, 1994）· Nelson Mandela

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch15 · The Whole Story Is the Meaning · Flannery O'Connor
 
 **讨论的书**：*A Good Man Is Hard to Find*（1955）· Flannery O'Connor

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch11 · The Other Side of the River · Toni Morrison
 
 **讨论的书**：*Beloved*（1987）；*The Bluest Eye*（1970）；*Home*（2012）；*God Help the Child*（2015）· Toni Morrison

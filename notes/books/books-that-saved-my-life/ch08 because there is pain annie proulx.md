@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch08 · Because There Is Pain · Annie Proulx
 
 **讨论的书**：*Close Range*（essays, 1999，含 *Brokeback Mountain*）；*The Shipping News*（1993）· Annie Proulx

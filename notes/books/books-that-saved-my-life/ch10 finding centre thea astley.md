@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch10 · Finding Centre · Thea Astley
 
 **讨论的书**：*Reaching Tin River*（1990）& *Girl with a Monkey*（1958）· Thea Astley

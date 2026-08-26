@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch1 · An Introduction · Harper Lee《To Kill a Mockingbird》
 
 **讨论的书**：*To Kill a Mockingbird*（1960）· Harper Lee

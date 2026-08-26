@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch38 · Souvlaki · Homer
 
 **讨论的书**：*The Iliad*, Book 24（第八世纪 bce）· Homer

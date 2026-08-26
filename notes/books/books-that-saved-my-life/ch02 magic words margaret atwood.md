@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch02 · Magic Words · Margaret Atwood《Hag-Seed》
 
 **讨论的书**：*Hag-Seed*（2016）· Margaret Atwood（改写 Shakespeare《The Tempest》）

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch40 · The Way Home · Lao Tzu
 
 **讨论的书**：*Tao Te Ching*（约公元前六世纪）· Lao Tzu

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch14 · The Freshness of Good · Hannah Arendt
 
 **讨论的书**：*Eichmann in Jerusalem*（1963）· Hannah Arendt

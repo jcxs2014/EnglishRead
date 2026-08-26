@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch36 · How to Live · Seneca
 
 **讨论的书**：*On the Shortness of Life*（c. 55 ce）· Seneca

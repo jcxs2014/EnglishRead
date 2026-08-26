@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch37 · Monstrous Strange · Herodotus
 
 **讨论的书**：*The Histories*（第五世纪 bce）· Herodotus

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch35 · Plenty · Geoffrey Chaucer
 
 **讨论的书**：*The Canterbury Tales*（c. 1390）· Geoffrey Chaucer

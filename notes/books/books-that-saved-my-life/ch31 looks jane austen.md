@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch31 · Looks · Jane Austen
 
 **讨论的书**：*Persuasion*（1818）· Jane Austen

@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch18 · Loss · Vera Brittain
 
 **讨论的书**：*Testament of Youth*（1933）· Vera Brittain

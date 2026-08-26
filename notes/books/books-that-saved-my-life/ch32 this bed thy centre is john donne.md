@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch32 · This Bed Thy Centre Is · John Donne
 
 **讨论的书**：*"The Sunne Rising"*（early 17th century）· John Donne

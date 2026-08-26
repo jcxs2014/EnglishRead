@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch06 · The Bottom of the Pile · Genelle Guzman-McMillan
 
 **讨论的书**：*Angel in the Rubble*（2011）· Genelle Guzman-McMillan（与 William Croyle 合著）

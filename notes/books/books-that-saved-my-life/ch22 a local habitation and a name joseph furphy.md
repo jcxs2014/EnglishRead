@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch22 · A Local Habitation and a Name · Joseph Furphy
 
 **讨论的书**：*Such Is Life*（1903）· Joseph Furphy

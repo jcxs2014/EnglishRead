@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch05 · Honest to God · Jeanette Winterson
 
 **讨论的书**：*Why Be Happy When You Could Be Normal?*（2011）· Jeanette Winterson（早期作品 *Oranges Are Not the Only Fruit*, 1985）

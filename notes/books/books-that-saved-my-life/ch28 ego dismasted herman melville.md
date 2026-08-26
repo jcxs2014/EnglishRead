@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch28 · Ego Dismasted · Herman Melville
 
 **讨论的书**：*Moby-Dick*（1851）· Herman Melville

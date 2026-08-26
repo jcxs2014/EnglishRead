@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch17 · Sharp Elbows and a Hacking Cough · Dorothy Day
 
 **讨论的书**：*The Long Loneliness*（1952）· Dorothy Day

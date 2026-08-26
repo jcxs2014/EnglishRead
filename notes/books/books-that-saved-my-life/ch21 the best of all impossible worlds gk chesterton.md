@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch21 · The Best of All Impossible Worlds · G. K. Chesterton
 
 **讨论的书**：*Charles Dickens*（1906）· G. K. Chesterton

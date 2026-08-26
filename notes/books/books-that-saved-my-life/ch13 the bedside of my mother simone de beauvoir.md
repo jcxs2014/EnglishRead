@@ -1,3 +1,7 @@
+---
+modified: "2026-08-23"
+---
+
 # Ch13 · The Bedside of My Mother · Simone de Beauvoir
 
 **讨论的书**：*A Very Easy Death*（1964）· Simone de Beauvoir
