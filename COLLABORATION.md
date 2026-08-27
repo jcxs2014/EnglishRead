@@ -753,7 +753,8 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
-| Good and Evil（Schweblin）ch01-06 精读（引文 54/54 ✅；待整改：7 虚构词条+中文理解补翻译+modified/H1 格式） | [Opencode-Mac] | 🔄 待整改 | 2026-08-27 |
+| Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
+| The Isolationist（Harrigan）全书 7 篇精读（引文 66/66 ✅；词汇层 6 词条虚构+text/ 覆盖不全待修） | [Opencode-Mac] | 🔄 待整改 | 2026-08-27 |
 | 100 Great Short Stories 约 84 篇引文返工（任务书 docs/REWORK_INSTRUCTION_100GREAT.md） | [Hermes-Mac] | 🔄 进行中（P2+3批P1+ch26已commit；剩余 P0/P1 约 56 篇待主线程续做） | 2026-08-27 |
 | Best British Short Stories 2023 引文整改（引文 188/188 全绿✅；收尾：text/旧管线20文件已删(chapter_text)；词汇表6词确认 epub 不存在待重建；ch16 编号①=⑦重复属书写规范问题） | [Hermes-Mac] | ✅ 已完成 | 2026-08-27 |
 | The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
