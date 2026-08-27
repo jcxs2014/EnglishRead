@@ -30,13 +30,13 @@ modified: "2026-08-26"
 - 表达方式：**Gilloon 的外貌描写**——不协调、神秘、引人注目的怪癖。
 - 为什么这样写：**这是全篇对 Gilloon 形象的定论**。他像一个"神秘人物"——不协调的外貌，永远的笔记本。
 
-**③** "He claimed to be a writer for the pulp magazines— Argosy, Adventure, All-Story Weekly, Munsey's. Perhaps he was, but he steadfastly refused to discuss any of his fiction, or to divulge his pseudonym or pseudonyms."
+**③** "He lived in a boarding house in the center of the village and claimed to be a writer for the pulp magazines— Argosy, Adventure, All-Story Weekly, Munsey's."
 
-- 中文理解：他声称是通俗杂志的撰稿人——《阿戈西》、《冒险》、《全故事周刊》、《芒西的》。也许他是，但他坚决拒绝讨论他的小说，也不透露他的笔名或笔名们。
-- 句子结构：第一句主语 He + 谓语 claimed to be + 表语 a writer for the pulp magazines + 举例 Argosy, Adventure, All-Story Weekly, Munsey's；第二句插入语 Perhaps he was + but + 主语 he + 谓语 steadfastly refused to discuss + 宾语 any of his fiction + or + 不定式短语 to divulge his pseudonym or pseudonyms。
-- 关键词：**pulp magazines**（通俗杂志）；**pseudonym**（笔名）
-- 表达方式：**Gilloon 的掩护身份**。他声称是作家——但他拒绝讨论自己的作品。
-- 为什么这样写：**这是全篇对 Gilloon 身份的揭露**。他不是他声称的那个人——他的"作家身份"是掩护。
+- 中文理解：他住在村子中心的一家寄宿公寓里，自称是通俗杂志的撰稿人——《阿戈西》、《冒险》、《全故事周刊》、《芒西的》。
+- 句子结构：第一分句主语 He + 谓语 lived + 地点状语 in a boarding house in the center of the village；第二分句 and + 主语 He（承前省略）+ 谓语 claimed to be + 表语 a writer for the pulp magazines + 举例 Argosy, Adventure, All-Story Weekly, Munsey's。
+- 关键词：**boarding house**（寄宿公寓）；**pulp magazines**（通俗杂志——廉价畅销出版物）
+- 表达方式：**Gilloon 的掩护身份**。他自称是通俗杂志作家，还报了四个杂志名——显得真实具体，令人信以为真。
+- 为什么这样写：**以"真实细节"制造可信假象**。点出 Argosy、Adventure、All-Story Weekly、Munsey's 这些具体刊名，让"作家"身份看似可信——为后文他真实身份的惊人揭露埋伏笔。
 
 **④** "In my nine decades on this earth, I have never encountered a more fascinating or troubling enigma than this man whose path crossed mine for a few short weeks in 1916."
 

@@ -54,13 +54,13 @@ modified: "2026-08-26"
 - 表达方式：**Marie 的反应**。她说"这太荒谬了"——但她压低了声音，因为她不想被发现。
 - 为什么这样写：**这是全篇对 Marie 心理的揭露**。她知道这是"荒谬的"——但她必须完成使命。
 
-**⑥** "I gave them their license numbers and I got another lead I didn't tell you before. A clue, like."
+**⑥** "I assumed you hadn't summoned me all the way from Belgrade to chew the rag about Tanzanian politics."
 
-- 中文理解："我给了他们车牌号码，我还有另一个之前没告诉你的线索。像一个线索。"
-- 句子结构：第一句主语 I + 谓语 gave + 宾语 them + 宾语 their license numbers + and + 主语 I + 谓语 got + 宾语 another lead + 定语从句 I didn't tell you before；第二句同位语 A clue + 插入语 like。
-- 关键词：**license numbers**（车牌号码）；**lead**（线索）
-- 表达方式：**Jake 的线索**。他给了"车牌号码"——这是关键线索。
-- 为什么这样写：**这是全篇的关键伏笔**。车牌号码——这是"劫匪"的身份证明。
+- 中文理解："我猜你把我从贝尔格莱德一路召来，不是为了闲扯坦桑尼亚的政治吧。"
+- 句子结构：第一句主语 I + 谓语 assumed + 宾语从句 that you hadn't summoned me + 状语 all the way from Belgrade + 目的状语 to chew the rag about Tanzanian politics（chew the rag = 闲扯，口语）。
+- 关键词：**all the way from Belgrade**（从贝尔格莱德一路——远途）；**chew the rag**（闲扯——口语）
+- 表达方式：**Cutter 的不耐烦**。他"猜"——他不屑外交辞令，直奔主题。
+- 为什么这样写：**职业间谍的直白**。Cutter 用"chew the rag"这种粗话打断 Myerson 的外交套话，凸显他是"最后一批冒险家"的性格——这是全篇对他行事风格的刻画。
 
 **⑦** "With a courtly bow Ross turned briskly on his heel and marched away toward the trees without looking back."
 

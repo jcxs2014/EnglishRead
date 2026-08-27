@@ -54,13 +54,13 @@ modified: "2026-08-26"
 - 表达方式：**胖男人的警告**。他说"你会毁了一切"——这是警告。
 - 为什么这样写：**这是全篇对死后世界规则的描写**。他"警告"——这是规则。
 
-**⑥** "Don't be so rough on the boy," a woman beside me says. "He is new here and it's always a bit of a shock for them. I remember how you were when you came in," she adds sharply and the fat man blushes, turns around toward the screen again, his shoulders hunched."
+**⑥** "Don't be so rough on the boy," a woman beside me says. She is rather attractive although in no sexual fashion; perhaps motherly is the word I am seeking. "He is new here and it's always a bit of a shock for them. I remember how you were when you came in," she adds sharply and the fat man blushes, turns around toward the screen again, his shoulders hunched.
 
-- 中文理解："别对这男孩这么粗暴，"旁边的女人说。"他是新来的，对他们来说总是有点震惊。我记得你刚进来时的样子，"她尖锐地说，胖男人脸红了，又转向屏幕，肩膀耸着。
-- 句子结构：直接引语 Don't be so rough on the boy + 主语 a woman + 地点状语 beside me + 谓语 says；直接引语 He is new here and it's always a bit of a shock for them；直接引语 I remember how you were when you came in + 主语 she + 谓语 adds + 状语 sharply + and + 主语 the fat man + 谓语 blushes + 谓语 turns around toward the screen again + 独立主格 his shoulders hunched。
-- 关键词：**rough on the boy**（对男孩粗暴——严厉）；**shock**（震惊——不适）；**hunched**（耸着——紧张）
-- 表达方式：**女人的同情**。她说"别粗暴"——她同情。
-- 为什么这样写：**这是全篇对死者关系的同情**。她"同情"——她理解。
+- 中文理解："别对这男孩这么粗暴，"旁边的女人说。她相当有魅力，虽然谈不上性感；也许"慈祥"才是我要找的词。"他是新来的，对他们来说总是有点震惊。我记得你刚进来时的样子，"她尖锐地说，胖男人脸红了，又转向屏幕，肩膀耸着。
+- 句子结构：直接引语 Don't be so rough on the boy + 主语 a woman + 地点状语 beside me + 谓语 says；叙述句 She is rather attractive + 让步状语 although in no sexual fashion + 分号 + 插入语 perhaps motherly is the word I am seeking；直接引语 He is new here and it's always a bit of a shock for them + 直接引语 I remember how you were when you came in + 主语 she + 谓语 adds + 状语 sharply + and + 主语 the fat man + 谓语 blushes + 谓语 turns around toward the screen again + 独立主格 his shoulders hunched。
+- 关键词：**rather attractive although in no sexual fashion**（有魅力但不性感）；**motherly**（慈祥的——母亲般）；**hunched**（耸着——紧张）
+- 表达方式：**女人的同情与叙述者的观察**。女人安慰新来的死者；叙述者用"rather attractive... motherly"冷静地刻画她，与他身处"死亡放映室"的超现实处境形成反差。
+- 为什么这样写：**"死亡放映室"的诡异日常感**。死去的灵魂聚在一起看自己生平的"电影"，胖男人像管教孩子一样对新来的施压，女人出面安慰——这种"办公室式"的死后生活，把死亡写得既荒诞又温情。
 
 **⑦** "How did you die?" she says but with such concern and interest that I do not find the question offensive. "You're awfully young." "I missed a curve in the rain in an old Dodge," I say, "and ran off the road. The last thing I remember is heading toward a tree so I guess I must have been killed instantly. I never lost control of a car before."
 

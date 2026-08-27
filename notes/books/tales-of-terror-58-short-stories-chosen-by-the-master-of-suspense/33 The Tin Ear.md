@@ -86,9 +86,9 @@ modified: "2026-08-26"
 - 表达方式：**Brasil 的后悔**。他说"糟糕的时机"——他在后悔。
 - 为什么这样写：**这是全篇对 Brasil 心理的揭露**。他"后悔"——他出现了。
 
-**⑩** "You really weren't planning to blackmail anybody, weren't you?" Naida asked. "Wasn't I?" "No, you were just setting yourself up as a decoy to lure somebody out into the open, I guess." "Run over to the delicatessen and get me a sandwich. No chicken."
+**⑩** "You really weren't planning to blackmail anybody, were you?" Naida asked. "Wasn't I?" "No, you were just setting yourself up as a decoy to lure somebody out into the open, I guess." "Run over to the delicatessen and get me a sandwich. No chicken."
 
-- 中文理解："你真的没有打算勒索任何人，对吧？"奈达问。"我没有吗？""不，我猜你只是把自己当作诱饵，把某人引出来。""跑到熟食店给我买个三明治。不要鸡肉。"
+- 中文理解："你真的没有打算勒索任何人，是吗？"奈达问。"我没有吗？""不，我猜你只是把自己当作诱饵，把某人引出来。""跑到熟食店给我买个三明治。不要鸡肉。"
 - 句子结构：直接引语 You really weren't planning to blackmail anybody, weren't you + 主语 Naida + 谓语 asked；直接引语 Wasn't I；直接引语 No, you were just setting yourself up as a decoy to lure somebody out into the open, I guess；直接引语 Run over to the delicatessen and get me a sandwich；直接引语 No chicken。
 - 关键词：**blackmail**（勒索——威胁）；**decoy**（诱饵——引诱）
 - 表达方式：**Easy 的"无私"。奈达说"诱饵"——Easy 是诱饵。

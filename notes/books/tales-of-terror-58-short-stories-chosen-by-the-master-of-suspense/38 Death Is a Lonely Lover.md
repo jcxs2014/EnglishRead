@@ -46,13 +46,13 @@ modified: "2026-08-26"
 - 表达方式：**Carl 的仇恨**。他说"像额外器官一样"——这是仇恨。
 - 为什么这样写：**这是全篇对 Carl 心理的描写**。他"仇恨"——他要复仇。
 
-**⑤** "I had been ready a long time. I had the names, the addresses, the habits of all four. I had the weapons. I had the plan. All I needed was the nerve."
+**⑤** "I had been ready a long time because that little voice in my head told me that Lorrie was dead. Yet did you ever hear of a judge passing sentence on a hunch? No, I had to wait until her death was a fact."
 
-- 中文理解："我已经准备好了很长时间。我有所有四个人的名字、地址、习惯。我有武器。有计划。我只需要勇气。"
-- 句子结构：第一句主语 I + 谓语 had been ready + 时间状语 a long time；第二句主语 I + 谓语 had + 宾语 the names, the addresses, the habits of all four；第三句主语 I + 谓语 had + 宾语 the weapons；第四句主语 I + 谓语 had + 宾语 the plan；第五句主语 All + 定语从句 I needed + 谓语 was + 表语 the nerve。
-- 关键词：**habits**（习惯——了解）；**nerve**（勇气——决心）
-- 表达方式：**Carl 的准备**。他说"准备好了"——他有计划。
-- 为什么这样写：**这是全篇对 Carl 计划的描写**。他"准备好了"——他有计划。
+- 中文理解："我已经准备好了很长时间，因为脑海里那个微小的声音告诉我洛丽已经死了。可你听说过有哪个法官凭直觉判案的吗？不，我必须等到她的死成为事实。"
+- 句子结构：第一句主语 I + 谓语 had been ready + 时间状语 a long time + 原因状语从句 because that little voice in my head told me + 宾语从句 that Lorrie was dead；第二句特殊疑问句 Yet did you ever hear of a judge passing sentence on a hunch（passing sentence on a hunch = 凭直觉判案）；第三句 No, I had to wait + 时间状语从句 until her death was a fact。
+- 关键词：**voice in my head**（脑海中的声音——执念）；**passing sentence on a hunch**（凭直觉判案——反讽）
+- 表达方式：**自我正义**。Carl 认为"直觉"足以定罪，嘲笑法律"凭直觉判案"的荒谬——这正是他自己越界复仇的逻辑。
+- 为什么这样写：**Carl 与法律的对立**。他等不到"法律事实"，决定自己执行——"hunch"（直觉）与"fact"（事实）的对比揭示了他用私人正义取代司法系统的决心。
 
 **⑥** "I could easily have escaped and gone back to Carl, but I was never so happy, especially since Buzz and I were planning to remarry."
 

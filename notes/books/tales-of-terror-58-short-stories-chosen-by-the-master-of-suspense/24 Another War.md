@@ -54,9 +54,9 @@ modified: "2026-08-26"
 - 表达方式：**Mason 的困惑**。他说"太夸张了"——他不知道这是真实的战争。
 - 为什么这样写：**这是全篇对 Mason 无知的描写**。他不知道这是真实的战争。
 
-**⑥** "He drank, feeling an odd sort of tension building in his gut. It was almost the way he'd felt in Korea. Then something about the windows caught his eye, something he hadn't noticed before. He walked over to feel the folded shutters, then turned to Roderick Care. 'Since when do you need steel shutters on a hunting—'"
+**⑥** "Mason drank, feeling an odd sort of tension building in his gut. It was almost the way he'd felt in Korea. Then something about the windows caught his eye, something he hadn't noticed before. He walked over to feel the folded shutters, then turned to Roderick Care. 'Since when do you need steel shutters on a hunting—'"
 
-- 中文理解："他喝着，感到一种奇怪的紧张感在肚子里积聚。这几乎就像他在韩国时的感觉。然后窗户上的什么东西吸引了他的眼球，他以前没注意到的东西。他走过去摸折叠百叶窗，然后转向罗德里克·凯尔。'你们什么时候需要钢百叶窗来狩猎——'"
+- 中文理解："梅森喝着，感到一种奇怪的紧张感在肚子里积聚。这几乎就像他在韩国时的感觉。然后窗户上的什么东西吸引了他的眼球，他以前没注意到的东西。他走过去摸折叠百叶窗，然后转向罗德里克·凯尔。'你们什么时候需要钢百叶窗来狩猎——'"
 - 句子结构：第一句主语 He + 谓语 drank + 分词短语 feeling an odd sort of tension building in his gut；第二句主语 It + 谓语 was + 表语 almost the way + 定语从句 he'd felt in Korea；第三句时间状语 Then + 主语 something about the windows + 谓语 caught + 宾语 his eye + 同位语 something + 定语从句 he hadn't noticed before；第四句主语 He + 谓语 walked over + 目的状语 to feel the folded shutters + then + 谓语 turned + 方向状语 to Roderick Care；第五句直接引语 Since when do you need steel shutters on a hunting—。
 - 关键词：**steel shutters**（钢百叶窗——战争）；**Korea**（韩国——战争记忆）
 - 表达方式：**Mason 的觉醒**。他注意到"钢百叶窗"——他意识到这是战争。

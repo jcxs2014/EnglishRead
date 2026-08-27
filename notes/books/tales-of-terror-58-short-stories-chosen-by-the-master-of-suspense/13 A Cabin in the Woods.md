@@ -38,9 +38,9 @@ modified: "2026-08-26"
 - 表达方式：**真菌的蔓延**。它"覆盖所有家具"——这是不可阻挡的。
 - 为什么这样写：**这是全篇的恐怖高潮**。真菌无处不在——它覆盖了整个房子。
 
-**④** "He got the other can of gas from the station wagon. He went inside the house again and poured gas through the living room, splashing it against the wooden stairs, the pine walls."
+**④** "Michael got the other can of gas from the station wagon. He went inside the house again and poured gas through the living room, splashing it against the wooden stairs, the pine walls."
 
-- 中文理解：他从旅行车里又拿出一桶汽油。他再次走进房子，把汽油泼过客厅，泼向木楼梯、松木墙壁。
+- 中文理解：迈克尔从旅行车里又拿出一桶汽油。他再次走进房子，把汽油泼过客厅，泼向木楼梯、松木墙壁。
 - 句子结构：第一句主语 He + 谓语 got + 宾语 the other can of gas + 来源状语 from the station wagon；第二句主语 He + 谓语 went + 地点状语 inside the house again + and + 谓语 poured + 宾语 gas + 地点状语 through the living room + 分词短语 splashing it against the wooden stairs, the pine walls。
 - 关键词：**poured gas**（泼汽油）；**splashing**（泼溅）
 - 表达方式：**Michael 的绝望**。他泼汽油——他要烧毁房子。

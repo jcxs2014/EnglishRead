@@ -46,11 +46,11 @@ modified: "2026-08-26"
 - 表达方式：**Vallejo 的失望**。他说"这很痛苦"——他对 Saenz 的背叛感到失望。
 - 为什么这样写：**这是全篇最人性的时刻**。Vallejo 不是愤怒——他是失望。
 
-**⑤** "One million dollars in a secret Swiss bank account, Enrique. That is what El Jefe is willing to pay for the editorial."
+**⑤** "One million dollars in a secret Swiss or Bahamas account. You do not have to become a friend, merely cease to be an enemy. You do not have to support El Jefe, merely stop your attacks on him."
 
-- 中文理解："一个秘密的瑞士银行账户里有一百万美元，恩里克。这是埃尔·赫菲愿意为社论支付的价钱。"
+- 中文理解："一个秘密的瑞士或巴哈马账户里有一百万美元。你不必成为朋友，只需停止做敌人；你不必支持埃尔·赫菲，只需停止对他的攻击。"
 - 句子结构：主语 One million dollars + 地点状语 in a secret Swiss bank account + 呼语 Enrique；主语 That + 谓语 is + 表语 what El Jefe is willing to pay for the editorial。
-- 关键词：**one million dollars**（一百万美元）；**Swiss bank account**（瑞士银行账户）
+- 关键词：**Swiss or Bahamas account**（瑞士或巴哈马账户）；**cease to be an enemy**（停止做敌人）
 - 表达方式：**Saenz 的收买**。他用"一百万美元"来收买 Vallejo——但 Vallejo 拒绝了。
 - 为什么这样写：**这是全篇最关键的收买**。Saenz 用钱收买——但 Vallejo 拒绝了。
 

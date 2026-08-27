@@ -30,9 +30,9 @@ modified: "2026-08-26"
 - 表达方式：**Carey 的自我描述**——他承认自己像个傻瓜。
 - 为什么这样写：**这是全篇对 Carey 的定论**。他不是聪明的罪犯，他是个愚蠢的少年。
 
-**③** "I'd always been told that you don't argue with a policeman. But I couldn't help it. I had to explain."
+**③** "I'd always been told that you don't argue with cops, and there were two of them, one of them bigger than I am. I couldn't help it. I had to explain."
 
-- 中文理解：我总是被告知不要和警察争辩。但我忍不住。我必须解释。
+- 中文理解：我向来被告知不要和警察争辩，而当时有两个人，其中一个比我体格大。但我还是忍不住。我必须解释。
 - 句子结构：第一句主语 I + 谓语 had always been told + 宾语从句 that you don't argue with a policeman；第二句 But + 主语 I + 谓语 couldn't help + 宾语 it；第三句主语 I + 谓语 had to explain。
 - 关键词：**couldn't help it**（忍不住）
 - 表达方式：**Carey 的冲动**。他知道不该说话，但他忍不住。

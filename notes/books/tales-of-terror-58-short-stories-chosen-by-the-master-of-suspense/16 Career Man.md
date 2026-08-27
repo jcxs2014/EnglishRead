@@ -103,7 +103,7 @@ modified: "2026-08-26"
 | tapestry | 挂毯、绣帷 | "...looked at the tapestry." |
 | jewel | 珠宝、宝石 | "...eighteen thousand jewels..." |
 | emerald | 祖母绿、翡翠 | "...Emeralds, rubies, diamonds..." |
-| ruby | 红宝石 | "...Emeralds, rubies, diamonds..." |
+| rubies | 红宝石（复数） | "...Emeralds, rubies, diamonds..." |
 | sapphire | 蓝宝石 | "...Emeralds, rubies, diamonds and sapphires..." |
 | rupee | 卢比（印度货币） | "...five million rupees." |
 

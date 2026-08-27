@@ -111,7 +111,7 @@ modified: "2026-08-26"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| prostitute | 妓女 | "The Whitechapel Wantons" |
+| prowled | 游荡、徘徊 | "...as long as he prowled the streets..." |
 | lodging house | 出租屋、寄宿公寓 | "...a new lodgin' house." |
 | constable | 警察、巡警 | "Constable Divall!" |
 | trunk | 大衣箱 | "...it's me friend's trunk." |

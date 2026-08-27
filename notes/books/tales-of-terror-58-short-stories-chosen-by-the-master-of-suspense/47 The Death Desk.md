@@ -54,11 +54,11 @@ modified: "2026-08-26"
 - 表达方式：**报社的工作**。他"改写台"——他是编辑。
 - 为什么这样写：**这是全篇对报社工作的描写**。他"编辑"——他是记者。
 
-**⑥** "Bobby Hawks was on the obit desk. He lived at it for fourteen months. And I was the guy who was going to get him a new job."
+**⑥** "Poor Bobby had been slaving on the night obit desk for almost fourteen months and hadn't moved a quad's width toward advancement."
 
-- 中文理解："鲍比·霍克斯在讣告台工作。他在那里生活了十四个月。我是那个要给他找新工作的人。"
+- 中文理解："可怜的鲍比在夜班讣告台上干了将近十四个月，连一个活字宽度的晋升都没得到。"
 - 句子结构：第一句主语 Bobby Hawks + 谓语 was + 地点状语 on the obit desk；第二句主语 He + 谓语 lived at + 宾语 it + 时间状语 for fourteen months；第三句主语 I + 谓语 was + 表语 the guy + 定语从句 who was going to get him a new job。
-- 关键词：**obit desk**（讣告台——死亡）；**fourteen months**（十四个月——长期）
+- 关键词：**obit desk**（讣告台——死亡）；**slaving**（苦干）；**a quad's width**（一个活字宽度——毫无晋升）
 - 表达方式：**Bobby 的讣告台**。他"讣告台"——他写死亡。
 - 为什么这样写：**这是全篇对 Bobby 工作的描写**。他"讣告台"——他写死亡。
 

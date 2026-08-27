@@ -70,9 +70,9 @@ modified: "2026-08-26"
 - 表达方式：**Hamilton 的犹豫**。他"既然"——他犹豫。
 - 为什么这样写：**这是全篇对 Hamilton 犹豫的描写**。他"犹豫"——他矛盾。
 
-**⑧** "I knew of a stock selling at four and a half dollars that was going to go to fifty. 'How do you know?' I said. 'How do I know? I know, that's all.'"
+**⑧** "At the end of the week he told me that he knew of a stock selling at four and a half dollars that was going to go to fifty. 'How do you know?' I said. 'How do I know? I know, that's all.'"
 
-- 中文理解："我知道一只股票卖四美元半，它要涨到五十美元。'你怎么知道？'我说。'我怎么知道？我知道，就这样。'"
+- 中文理解："到了周末，他告诉我他清楚有一只股票以四美元半出售，会涨到五十美元。'你怎么知道？'我说。'我怎么知道？我知道，就这样。'"
 - 句子结构：直接引语 I knew of a stock selling at four and a half dollars that was going to go to fifty；直接引语 How do you know；主语 I + 谓语 said；直接引语 How do I know；直接引语 I know, that's all。
 - 关键词：**four and a half dollars**（四美元半——低价）；**go to fifty**（涨到五十——暴涨）
 - 表达方式：**Charlton 的"内幕"。他说"涨到五十"——这是内幕。
