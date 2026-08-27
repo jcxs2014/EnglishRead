@@ -70,7 +70,7 @@ modified: "2026-08-26"
 - 表达方式：**Martinho 的反击**。他用一句话就扭转了局面。
 - 为什么这样写：**这是全篇的终极反转**。Manuel 杀错了人——不是 Martinho，是 Martinho 的侄子。
 
-**⑧** "My doctors assured me yesterday that I am incurably ill. They give me, at the most, two months to live."
+**⑧** "My doctors assured me yesterday that I am incurably ill," he said. "They give me, at the most, two months to live."
 
 - 中文理解："昨天医生告诉我，我得了不治之症。他们说我最多还有两个月可活。"
 - 句子结构：主语 My doctors + 谓语 assured + 间接宾语 me + 时间状语 yesterday + 宾语从句 that I am incurably ill；主语 They + 谓语 give + 间接宾语 me + 插入语 at the most + 宾语 two months to live。
@@ -115,7 +115,7 @@ modified: "2026-08-26"
 | artifact | 手工艺品、古物 | "...pre-Columbian artifacts was world famous." |
 | curator | 馆长 | "...curator of which he is curator." |
 | anonymity | 匿名、无名 | "...lose my anonymity..." |
-| pseudonym | 笔名、假名 | "...used a pseudonym..." |
+| antiquities | 古物、文物 | "...collection of pre-Columbian antiquities..." |
 | incriminating | 使陷入罪名的、显示有罪的 | "...the incriminating film." |
 
 ### ⭐ 基础
@@ -127,7 +127,7 @@ modified: "2026-08-26"
 | gun | 枪 | "...took a gun out of his jacket pocket." |
 | nephew | 侄子、外甥 | "My nephew!" he said. "Who else would wish me dead?" |
 | death | 死亡 | "Who hired you to kill me?" |
-| disease | 疾病 | "My doctors assured me yesterday that I am incurably ill..." |
+| incurable | 不治之症 | "My doctors assured me yesterday that I am incurably ill..." |
 
 ## 一句话总结
 

@@ -100,8 +100,7 @@ modified: "2026-08-26"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| floral tribute | 鲜花祭 | "Floral Tribute" |
-| sanatorium | 疗养院 | "...they kept me there for nigh ten years..." |
+| bouquet | 花束 | "...he lifted the cluster from the marker." |
 | widow's mite | 寡妇的奉献（圣经用语） | "This little widow's mite of mine..." |
 | rheumatism | 风湿 | "...nothing as bad as the rheumatism I used to have." |
 | delusion | 幻觉、妄想 | "Talking about ghosts and spirits and delusions." |

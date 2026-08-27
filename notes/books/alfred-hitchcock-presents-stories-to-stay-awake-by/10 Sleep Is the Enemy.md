@@ -54,7 +54,7 @@ modified: "2026-08-26"
 - 表达方式：**Sally 用物质来衡量人**。Thelma 的珍珠是真的，而 Sally 的是"养殖的"——这是阶级差异的象征。
 - 为什么这样写：**这是全篇对 Sally 动机的揭露**。她恨 Thelma 不是因为她抢了 Ronnie，而是因为 Thelma 比她富有、比她高贵。
 
-**⑥** "I reached the porch, still carrying the roses, and I rang the bell. The door was opened by a maid. I said, 'Is Miss Bennett at home?' The maid said, 'Yes, miss, but she's practicing.' I said, 'I'll wait.' And I walked in."
+**⑥** "I reached the porch, still carrying the roses, though a few had dropped on the way. Yet someone must have seen me, because the door opened before I'd even rung the bell."
 
 - 中文理解：我走到门廊，仍然拿着花，按了铃。一个女仆开了门。我说：'Bennett 小姐在家吗？'女仆说：'在的，小姐，但她在练琴。'我说：'我等一下。'然后我走了进去。
 - 句子结构：主语 I + 谓语 reached + 宾语 the porch + 状语 still carrying the roses + and + 谓语 rang + 宾语 the bell；主语 The door + 谓语 was opened + 状语 by a maid；主语 I + 谓语 said + 直接引语 Is Miss Bennett at home；主语 The maid + 谓语 said + 直接引语 Yes, miss, but she's practicing；主语 I + 谓语 said + 直接引语 I'll wait；主语 I + 谓语 walked in。

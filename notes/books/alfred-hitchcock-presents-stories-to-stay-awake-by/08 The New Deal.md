@@ -101,9 +101,7 @@ modified: "2026-08-26"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | blackjack | 21 点（纸牌赌博） | "Rafferty was not the only one losing at the blackjack table..." |
-| pit boss | 赌场经理 | "Out of nowhere, the pit boss appeared." |
 | on the house | 免费、店家请客 | "...had offered him drinks on the house half a dozen times at least." |
-| deck | 一副牌 | "I want a new deck," Rafferty said. |
 | dealer | 发牌员、庄家 | "The dealer gave Rafferty two fives." |
 
 ### ⭐⭐ 进阶
@@ -114,7 +112,7 @@ modified: "2026-08-26"
 | double | 加倍 | "...to double his bet and took one card face down." |
 | queen | Q（纸牌） | "He sneaked a look under the corner: a queen." |
 | ace | A（纸牌） | "Then, an ace. Fourteen." |
-| croupier | 赌场雇员 | "The croupier gave Rafferty two fives." |
+| onlooker | 围观者、旁观者 | "...Rafferty had noticed an onlooker at the table." |
 
 ### ⭐ 基础
 
@@ -122,7 +120,7 @@ modified: "2026-08-26"
 |---|---|---|
 | gambling | 赌博 | "...Take away your gambling license, you're dead." |
 | license | 执照 | "...Take away your gambling license, you're dead." |
-| casino | 赌场 | "This was Las Vegas, and the Wanderlust was a brand-new hotel..." |
+| deck | 一副牌 | "I want a new deck," Rafferty said. |
 | hotel | 酒店 | "...the Wanderlust, Las Vegas' fanciest and newest hotel..." |
 | room | 房间 | "Suppose I told you I had a deck upstairs in my room." |
 

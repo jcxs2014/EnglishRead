@@ -62,7 +62,7 @@ modified: "2026-08-26"
 - 表达方式：狱卒在安慰他，但 Partridge 不是担心出差错——他是担心不出差错。
 - 为什么这样写：**Partridge 需要"没有差错"**。他需要绞刑顺利进行，需要绳子不断，需要一次成功。他不是怕死——他是怕死不了。
 
-**⑦** "What I mean is, if, as I understand, the rope breaks or the drop sticks, or anything like that happens, they try three times, and then, if you're still alive, they must reprieve you."
+**⑦** "What I mean is," pursued Mr. Partridge, "if, as I understand, the rope breaks or the drop sticks, or anything like that happens, they try three times, and then, if you're still alive, they must reprieve you."
 
 - 中文理解：我的意思是，如果，据我所知，绳子断了或者机关卡住了，或者发生类似的事情，他们会试三次，然后，如果你还活着，他们就必须赦免你。
 - 句子结构：主语 What I mean + 谓语 is + 表语从句 if + 插入语 as I understand + 条件从句 the rope breaks or the drop sticks + 主句 they try three times + and then + if 条件从句 you're still alive + 主句 they must reprieve you。
@@ -78,7 +78,7 @@ modified: "2026-08-26"
 - 表达方式：**公文式的冷峻**。没有解释，没有情感，只是一纸文书。
 - 为什么这样写：**这是全篇的终极反转**。Partridge 用尽全力求死，但国家不让他死。他必须活着——活着面对破产、耻辱、以及十三年的牢狱。
 
-**⑨** "You can appeal, you know, for your release on ticket of leave—after thirteen years."
+**⑨** "Yes," said the chaplain even more kindly than before, "you can appeal for your release on ticket of leave—after thirteen years."
 
 - 中文理解：你可以上诉，你知道，申请假释——十三年后。
 - 句子结构：主语 You + 谓语 can appeal + 插入语 you know + 目的状语 for your release on ticket of leave + 时间状语 after thirteen years。

@@ -38,7 +38,7 @@ modified: "2026-08-26"
 - 表达方式：用最粗鄙的现实主义解构"假扮夫妻"的情报叙事。
 - 为什么这样写：**这是全篇最残忍的现实主义**。部长不关心他们的感受，只关心伪装的可信度。这句话同时揭示了间谍工作的本质：它要求人用真实的情感来维持虚假的身份。
 
-**④** "He stabbed him in the heart and held the man's body close against him. For a moment, as the alarm continued to ring in the bright morning, the officers and guards milled and shouted, and no one noticed Hareet walking out into the courtyard, still carrying the guard upright against him."
+**④** "Hareet stabbed him in the heart and held the man's body close against him. For a moment, as the alarm continued to ring in the bright morning, the officers and guards milled and shouted, and no one noticed Hareet walking out into the courtyard, still carrying the guard upright against him."
 
 - 中文理解：他刺入他的心脏，把那人的身体紧紧贴在自己身上。在明亮的早晨，警报持续响起的那一刻，军官们和卫兵们乱转呼喊，没人注意到 Hareet 正走出院子，仍然把站着的卫兵尸体扛在身上。
 - 句子结构：第一句主语 He + 谓语 stabbed + 宾语 him + 状语 in the heart + and + 谓语 held + 宾语 the man's body + 状语 close against him；第二句 For a moment + 时间状语从句 as the alarm continued to ring + 主句 the officers and guards milled and shouted + and + 主语 no one + 谓语 noticed + 宾语 Hareet + 分词短语 walking out... + 状语 still carrying the guard upright against him。
@@ -70,7 +70,7 @@ modified: "2026-08-26"
 - 表达方式：Hitchcock 式恐怖——最血腥的描写用最克制的语言。
 - 为什么这样写：**这不是暴力，这是技术**。间谍不享受杀戮，但杀戮是任务的一部分。作者拒绝美化也不谴责，只呈现。
 
-**⑧** "The ragged fellahin servants continued to clean the courtyard while the officers prepared for war. The officers ignored the ragged peasants. One of the fellahin swept up a piece of discarded halvah. He dropped the halvah into a sack."
+**⑧** "The fellahin servants continued to clean the courtyard while the officers prepared for war. The officers ignored the ragged peasants. One of the fellahin swept up a piece of discarded halvah. He dropped the halvah into a sack."
 
 - 中文理解：衣衫褴褛的费拉仆人继续在院子里清扫，军官们准备战争。军官们无视这些褴褛的农民。一个费拉清扫起一块被丢弃的哈尔瓦糖。他把哈尔瓦扔进麻袋。
 - 句子结构：第一句主语 The ragged fellahin servants + 谓语 continued to clean + 宾语 the courtyard + 时间状语 while the officers prepared for war；第二句主语 The officers + 谓语 ignored + 宾语 the ragged peasants；第三句主语 One of the fellahin + 谓语 swept up + 宾语 a piece of discarded halvah；第四句主语 He + 谓语 dropped + 宾语 the halvah + 状语 into a sack。
@@ -101,7 +101,7 @@ modified: "2026-08-26"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | coy maiden | 羞怯的少女 | "Women who are not married tend to act like coy maidens at the wrong moment." |
-| fellahin | 埃及农民（阿拉伯语） | "The ragged fellahin servants continued to clean the courtyard..." |
+| fellahin | 埃及农民（阿拉伯语） | "The fellahin servants continued to clean the courtyard..." |
 | halvah | 哈尔瓦糖（中东芝麻糖） | "One of the fellahin swept up a piece of discarded halvah." |
 | peddler | 小贩、货郎 | "A pretty Italian tourist woman bought a small urn from the peddler." |
 | microfilm | 微缩胶卷 | "He checked the film in his breast pocket." |
@@ -125,7 +125,7 @@ modified: "2026-08-26"
 | ammunition dump | 弹药库 | "...the locations of their ammunition dumps, supply depots and fuel stores." |
 | scar | 伤疤 | "There was a long scar on his lean, tanned face." |
 | vault | 金库、保险库 | "...replaced the file in the vault and re-locked the vault." |
-| courtyard | 庭院、院子 | "The ragged fellahin servants continued to clean the courtyard..." |
+| courtyard | 庭院、院子 | "The fellahin servants continued to clean the courtyard..." |
 | urn | 瓮、罐 | "A pretty Italian tourist woman bought a small urn from the peddler." |
 | olive grove | 橄榄树林 | "...looked out toward the border beyond the orange trees and olive groves." |
 

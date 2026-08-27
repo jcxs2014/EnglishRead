@@ -22,7 +22,7 @@ modified: "2026-08-26"
 - 表达方式：**开篇就是忏悔**。叙述者已经意识到"for kicks"是个谎言。
 - 为什么这样写：**这是全篇的基调建立**。这不是一个关于刺激的故事，而是一个关于愧疚的故事。
 
-**②** "I've made about every scene in the world. I have balled all the chicks, red and yellow and black and white, and I have gotten high on muggles, bluejays, redbirds, and mescaline. I have even tried the white stuff a time or two. But—there is one kick I've never had, man. I've never watched an execution."
+**②** "I have made about every scene in the world. I have balled all the chicks, red and yellow and black and white, and I have gotten high on muggles, bluejays, redbirds, and mescaline. I have even tried the white stuff a time or two. But—there is one kick I have never had, man. I have never watched an execution."
 
 - 中文理解：我什么都玩过。我和各种女人上过床，吸过各种毒品。但——我从来没看过死刑执行。
 - 句子结构：第一句主语 I + 谓语 have made + 宾语 every scene in the world；第二句主语 I + 谓语 have balled + 宾语 all the chicks + 同位语 red and yellow and black and white + and + 主语 I + 谓语 have gotten high on + 宾语 muggles, bluejays, redbirds, and mescaline；第三句主语 I + 谓语 have even tried + 宾语 the white stuff + 频度状语 a time or two；第四句 But + there is one kick + 定语从句 I've never had + 插入语 man；第五句主语 I + 谓语 have never watched + 宾语 an execution。

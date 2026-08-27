@@ -115,7 +115,7 @@ modified: "2026-08-26"
 | objection | 反对、异议 | "Objection!" Sam Lubock, the defense lawyer, had leaped to his feet... |
 | sustained | 支持、维持 | "Sustained," snapped Judge Martin. |
 | defendant | 被告 | "I looked at the defendant, and a white sheet of fury blazed through me." |
-| prosecutor | 检察官、原告 | "I was still weak from temptation." |
+| perjuring | 作伪证的 | "testifying perjuring witnesses." |
 | gavel | 法槌 | "Judge Martin started banging with his gavel." |
 
 ### ⭐ 基础
