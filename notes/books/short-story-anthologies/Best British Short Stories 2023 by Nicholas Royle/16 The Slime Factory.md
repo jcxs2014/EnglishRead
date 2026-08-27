@@ -57,7 +57,7 @@ modified: "2026-08-26"
 - **为什么这样写**：这是叙述者的第一次质疑——他注意到时间错位。"not the 2040s"是他第一次说"不"。这句话是全篇的转折点：从"相信"到"怀疑"。1940s=战后重建期+前工业化农业=最"干净"的英国视觉记忆。
 - **读者视角提示**：这句话是全篇最重要的句子——它揭示了视频的真相：这不是2040s的英国，是被美化的1940s。
 
-⑦ "'I had a vision of a future,' he announced to camera in his sonorous Slavic tones, eyes twinkling inside their fatty pits, 'unshackled from our bondage to fossil fuels. Where organic computers run our lives without electricity and transportation is self-sustaining, self-repairing and even self-navigating.'"
+⑦ "'I have a vision of a future,' he announced to camera in his sonorous Slavic tones, eyes twinkling inside their fatty pits, 'unshackled from our bondage to fossil fuels. Where organic computers run our lives without electricity and transportation is self-sustaining, self-repairing and even self-navigating.'"
 
 - **中文理解**："我有一个关于未来的愿景，从我们对化石燃料的束缚中解放出来。"
 - **关键词**：**unshackled**（解放——自由的隐喻）；**bondage**（束缚——奴隶制的词汇）
