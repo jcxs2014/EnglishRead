@@ -1,100 +1,185 @@
 ---
-状态: 未读
-modified: "2026-08-26"
+状态: 精读完成
+modified: "2026-08-27"
 ---
 
-# 13. THE DISTRICT DOCTOR
+# 13. The District Doctor
 
-**作者**：Ivan S. Turgenev（1852）
+**作者**：Ivan Turgenev
 
 ## 一句话总结
 
-Turgenev 通过一个俄国乡村医生的故事，展示了19世纪俄国社会中阶级分化、医患关系和知识分子的自我反思——医生在病人家里喝茶聊天，最终讲述了一个关于"爱情与死亡"的奇怪故事。
+Turgenev 以第一人称医生自述，写他在一个秋天偶染风寒、借住乡间、遇见濒死少女 Aleksandra Andreyevna 并徒劳守候她离世的过程——一则关于医者无力、青春夭亡与"在死亡面前人人平等"的感伤短篇，结尾落在牌局小注"Trifon Ivanich won two rubles and a half from me"。
 
 ## 逐句精读（10 处）
 
 ① **"One day in autumn on my way back from a remote part of the country I caught cold and fell ill."**
-- 中文理解：Turgenev 用" one day in autumn"这个简单的时间标记来开始他的叙事——这是一个典型的俄国文学开场，用日常的"疾病"来建立故事的基础。
-- 句子结构：时间状语 + 主语 + 谓语 + 宾语；"on my way back"是地点状语，"from a remote part of the country"修饰" way back"。
-- 关键词：autumn / caught cold / fell ill——"autumn"是俄国文学中的典型"忧郁"季节；"caught cold"和"fell ill"是疾病的双重表达。
-- 表达方式：Turgenev 用" I"作为叙述者，建立了"第一人称叙事"的亲密感——读者被邀请进入叙述者的体验。
-- 为什么这样写：这是 Turgenev 的"疾病作为契机"技巧：在俄国文学中，疾病往往是叙事的起点——它让主人公进入一种"脆弱"的状态，从而打开了内心世界的大门。
 
-② **"In half-an-hour the district doctor appeared, a thin, dark-haired man of middle height."**
-- 中文理解：Turgenev 用一个简短的身体描述来建立医生的形象——他是" thin, dark-haired, middle height"，这是一个普通人的形象，没有任何特别的特征。
-- 句子结构：时间状语 + 主句 + 同位语；同位语"a thin, dark-haired man of middle height"修饰" the district doctor"。
-- 关键词：district doctor / thin, dark-haired / middle height——"district doctor"是俄国农村的社会阶层；"thin"暗示了他可能的生活条件；"middle height"是普通的体格。
-- 表达方式：Turgenev 用" appeared"而不是" came in"——" appeared"暗示医生的出现带有某种"突然性"或"神奇感"。
-- 为什么这样写：这是 Turgenev 的"人物建立"技巧：医生没有任何特殊的外貌特征，他是"普通人"——这个细节暗示了故事将探讨"普通人"的生活和心理。
+**中文理解**：秋天的一天，我在从乡间偏远地带返回途中受了寒，病倒了。
 
-③ **"He prescribed me the usual sudorific, ordered a mustard-plaster to be put on, very deftly slid a five-ruble note up his sleeve, coughing drily and looking away as he did so."**
-- 中文理解：Turgenev 用这个句子同时展示了两件事：医生的"职业行为"（开药方、上膏药）和他的"贿赂行为"（收五卢布）；而他" looking away"的动作暗示他知道这是不对的。
-- 句子结构：主语 + 三个并列动词（prescribed, ordered, slid）+ 伴随状语（coughing drily and looking away...）；这个句子展示了医生行为的双重性。
-- 关键词：sudorific / mustard-plaster / five-ruble note / sliding up his sleeve——"sudorific"是发汗剂；"mustard-plaster"是芥末膏药（当时的民间疗法）；"five-ruble note"是贿赂的金额；"slid up his sleeve"暗示这个动作是偷偷摸摸的。
-- 表达方式：Turgenev 用" very deftly"来形容"滑动"的动作——医生很熟练，说明他经常这样做。
-- 为什么这样写：这是 Turgenev 的"社会观察"：俄国乡村医生处于社会的底层，他的"额外收入"（五卢布纸币）是他的重要收入来源——这个细节展示了俄国社会中"医疗"与"金钱"的复杂关系。
+**句子结构**：One day in autumn 时间状语；on my way back from a remote part of the country 状语；I caught cold and fell ill 并列谓语。
 
-④ **"I don't know how I gained the confidence of my new friend—anyway, with nothing to leap up to it, he told me a rather curious incident."**
-- 中文理解：Turgenev 用" I don't know how I gained his confidence"来表达一种"意外的亲近感"——他不知道为什么医生突然愿意跟他分享一个私人故事。
-- 句子结构：主语 + 谓语 + 宾语从句 + 主句；破折号后是医生的动作描述。
-- 关键词：confidence / curious incident / with nothing to leap up to it——"confidence"暗示医生开始信任叙述者；" curious incident"是接下来故事的核心；" with nothing to leap up to it"是俄语式英语，意思是"没有任何预兆"。
-- 表达方式：Turgenev 用" with nothing to leap up to it"这个奇怪的短语来表达一种"莫名其妙"的语气——这个表达方式显示了原文是翻译作品。
-- 为什么这样写：这是 Turgenev 的"叙事嵌套"技巧：医生要讲一个"故事中的故事"，而这个" curious incident"是整个短篇的核心。
+**关键词**：one day in autumn（秋天的一天）/ on my way back（返回途中）/ a remote part of the country（乡间偏远地带）/ caught cold（受寒）/ fell ill（病倒）
 
-⑤ **"You don't happen to know the judge here, Mylov, Pavel Lukich? You don't know him? Well, it's all the same."**
-- 中文理解：医生用三个短句开始他的故事——这是口语化的表达，" You don't know him? Well, it's all the same"表示"你不知道也没关系"。
-- 句子结构：疑问句 + 重复疑问句 + 简短回应；这是典型的口语节奏——医生在回忆他的过去。
-- 关键词：judge / Mylov Pavel Lukich / all the same——"judge"是这个故事中的关键人物；"Pavel Lukich"是他的全名；" all the same"是口语化的回应。
-- 表达方式：Turgenev 用医生的"犹豫"（You don't...You don't...）来暗示他对这个故事的复杂情感——他不太确定该不该讲。
-- 为什么这样写：这是 Turgenev 的"人物心理"技巧：医生在讲故事之前先"确认"听众——这个动作暗示他要讲的内容可能涉及他认识的人，他需要确认叙述者是否知道这个人。
+**表达方式**：用平静的自述开场，把一场致命邂逅的起点写得像寻常旅途插曲。
 
-⑥ **"The thing happened, to tell you exactly without mistake, in Lent, at the very time of the thaws."**
-- 中文理解：医生开始讲述他的故事——时间是" Lent"（大斋期）和" thaws"（解冻期），这两个时间点的选择有象征意义。
-- 句子结构：主语 + 谓语 + 时间状语；"in Lent"和" at the very time of the thaws"是两个并列的时间修饰语。
-- 关键词：Lent / thaws / to tell you exactly without mistake——"Lent"是天主教的大斋期，象征"禁欲"和"内省"；"thaws"是解冻期，象征"情感的融化"。
-- 表达方式：Turgenev 用" to tell you exactly without mistake"这个插入语来强调时间的精确性——这是一个"讲故事的人"的典型动作，他希望听众相信故事的真实性。
-- 为什么这样写：这是 Turgenev 的"时间象征"技巧：Lent（禁欲期）和 thaws（解冻期）形成了对比——这个故事涉及禁欲与情感的冲突。
+**为什么这样写**：Turgenev 以这种不动声色的起笔，让后面的死亡更显无声无息。
 
-⑦ **"Our judge is a good fellow, and fond of playing preference."**
-- 中文理解：医生对法官的评价是" good fellow"和" fond of playing preference"——这是一个简单的人物描述，但" preference"（一种牌戏）的提及暗示了法官的日常生活。
-- 句子结构：主语 + 系动词 + 表语 + and + 谓语；两个并列谓语展示了法官的两个特点。
-- 关键词：good fellow / fond of playing preference——"good fellow"是俄语" хороший человек"的翻译；"preference"是一种流行的俄国牌戏。
-- 表达方式：Turgenev 用" good fellow"来表达一种"普通人"的印象——法官不是"伟大的人"，而是一个"不错的人"。
-- 为什么这样写：这是 Turgenev 的"去英雄化"技巧：在俄国文学中，" good fellow"是一个典型的人物类型——他不是坏人，但也不是英雄，他只是一个普通人。
+---
 
-⑧ **"Suddenly (the doctor made frequent use of the word 'suddenly,' and his stories always began with 'suddenly')..."**
-- 中文理解：Turgenev 用一个括号里的评论来嘲讽医生讲故事的技巧——医生经常用" suddenly"这个词，这是"讲故事的人"的典型特征。
-- 句子结构：括号插入语 + 叙述内容；括号里的评论是叙述者对医生的评论。
-- 关键词：suddenly / frequent use / stories always began——"suddenly"是故事中最常用的词之一——它创造了"意外感"；Turgenev 用这个细节来嘲讽"讲故事的人"的千篇一律。
-- 表达方式：Turgenev 用括号里的评论来打破"故事中的故事"的边界——读者被提醒这是"嵌套叙事"，而叙述者对医生的故事有一种轻微的嘲讽态度。
-- 为什么这样写：这是 Turgenev 的"元叙事"技巧：通过评论医生的" suddenly"的过度使用，Turgenev 暗示了"讲故事"的程式化和它与真实生活的距离。
+② **"And as she was poor herself, one could not expect more than two silver rubles, and even that problematic; and perhaps it might only be a matter of a roll of linen and a sack of oatmeal in payment."**
+
+**中文理解**：而她自己也很穷，能指望的不过两个银卢布，且连这也悬；或许只是以一卷亚麻、一袋燕麦抵酬。
+
+**句子结构**：And as she was poor herself 原因从句；one could not expect more than two silver rubles 主句；and even that problematic 并列；and perhaps it might only be a matter of … 递进。
+
+**关键词**：poor herself（自己也很穷）/ two silver rubles（两个银卢布）/ even that problematic（连这也悬）/ a roll of linen（一卷亚麻）/ a sack of oatmeal（一袋燕麦）
+
+**表达方式**：用"以物抵酬"的贫寒细节，把乡村医患关系写得真实而心酸。
+
+**为什么这样写**：Turgenev 以这串算计，衬托少女之家境，也为医者的无能为力铺垫。
+
+---
+
+③ **"They ask, 'How are you?' 'All right,' she says, and turns away."**
+
+**中文理解**：他们问"你好吗？""挺好，"她说，便转过身去。
+
+**句子结构**：They ask 主谓；'How are you?' 直接引语；'All right,' she says 倒装；and turns away 并列。
+
+**关键词**：How are you（你好吗）/ All right（挺好）/ turns away（转过身去）
+
+**表达方式**：用一句客套问答写少女的疏离，把"将死之人"的日常伪装轻轻点出。
+
+**为什么这样写**：Turgenev 借这个转身的细节，写她不愿被人怜悯的倔强。
+
+---
+
+④ **"I thought and thought, and suddenly decided to remain there, even though my other patients were expecting me."**
+
+**中文理解**：我想了又想，忽然决定留下，尽管别的病人还在等我。
+
+**句子结构**：I thought and thought 谓语重复；and suddenly decided to remain there 并列；even though my other patients were expecting me 让步从句。
+
+**关键词**：thought and thought（想了又想）/ suddenly decided（忽然决定）/ remain there（留下）/ other patients were expecting me（别的病人在等我）
+
+**表达方式**：用"抛下其他病人"的选择，写医生被这少女命运攫住。
+
+**为什么这样写**：Turgenev 以此转折，把职业责任让位于个人情感的牵绊。
+
+---
+
+⑤ **"You fancy then that you have forgotten everything you knew, and that the patient has no faith in you, and that other people begin to notice how distracted you are, and tell you the symptoms with reluctance."**
+
+**中文理解**：你便以为自己忘了所学的一切，以为病人不信你，以为旁人开始察觉你的慌乱，便不愿把症状讲给你听。
+
+**句子结构**：You fancy 主谓；that you have forgotten everything 宾从；and that the patient has no faith 并列宾从；and that other people begin to notice 并列；how distracted you are 宾从；and tell you the symptoms with reluctance 并列。
+
+**关键词**：forgotten everything you knew（忘了所学一切）/ no faith in you（不信你）/ how distracted you are（你多慌乱）/ tell you the symptoms with reluctance（不愿讲症状）
+
+**表达方式**：用一连串"你以为"的排比，把新手医生的自我怀疑写得淋漓。
+
+**为什么这样写**：Turgenev 以这段内心独白，让医者的无力感先于少女的死被人们看见。
+
+---
+
+⑥ **"Sometimes I held my head in my hands, and asked myself, 'What are you doing, villain?'."**
+
+**中文理解**：有时我双手抱头，自问："你在做什么，坏蛋？"
+
+**句子结构**：Sometimes I held my head in my hands 主谓宾；and asked myself 并列；'What are you doing, villain?' 直接引语。
+
+**关键词**：held my head in my hands（双手抱头）/ asked myself（自问）/ What are you doing, villain（你在做什么坏蛋）
+
+**表达方式**：用"抱头自问"的动作与"villain"的自责，把无力救人的愧疚写到极致。
+
+**为什么这样写**：Turgenev 借这句痛责，让医生与死神对峙的羞辱跃然纸上。
+
+---
+
+⑦ **"Aleksandra Andreyevna was gazing with intent eyes at me."**
+
+**中文理解**：Aleksandra Andreyevna 用专注的眼神望着我。
+
+**句子结构**：Aleksandra Andreyevna was gazing 主谓；with intent eyes 状语；at me 状语。
+
+**关键词**：gazing with intent eyes（用专注眼神望）/ at me（望着我）
+
+**表达方式**：用"专注的凝视"写少女对医者的信赖，与他的无能为力形成对照。
+
+**为什么这样写**：Turgenev 以这一目光，把医患间无言的托付写得沉甸甸。
+
+---
+
+⑧ **"I feel that my patient is killing herself; I see that she is not fully herself; I understand, too, that if she did not consider herself on the point of death, she would never have thought of me; and, in fact, she is dying."**
+
+**中文理解**：我感到我的病人在慢性自杀；我看她已非平时的她；我也明白，若她不认为自己濒临死亡，绝不会想到我；而事实上，她正在死去。
+
+**句子结构**：I feel that … 宾从；I see that … 并列；I understand … that if … she would never have thought of me 并列宾从含条件；and, in fact, she is dying 收束。
+
+**关键词**：my patient is killing herself（病人在慢性自杀）/ not fully herself（非平时的她）/ on the point of death（濒临死亡）/ never have thought of me（绝不会想到我）/ she is dying（她正在死去）
+
+**表达方式**：用三层"我感到/看见/明白"的递进，把医生清醒看着生命流逝的残忍剖开。
+
+**为什么这样写**：Turgenev 以此长句，让"知道却救不了"的折磨成为全篇核心。
+
+---
+
+⑨ **"And on the last night—only imagine to yourself—I was sitting near her, and kept praying to God for one thing only: 'Take her,' I said, 'quickly, and me with her.' Suddenly the old mother comes unexpectedly into the room."**
+
+**中文理解**：最后一夜——你且想想——我坐在她身旁，只向上帝祷告一件事："带她走，"我说，"快些，连我也一起带走。"忽然老母亲意外进了屋。
+
+**句子结构**：And on the last night 时间；only imagine to yourself 插入；I was sitting near her 主句；and kept praying to God for one thing only 并列；'Take her,' I said, 'quickly, and me with her' 直接引语倒装；Suddenly the old mother comes unexpectedly into the room 并列。
+
+**关键词**：on the last night（最后一夜）/ sitting near her（坐在她身旁）/ praying to God（向上帝祷告）/ Take her quickly（快带她走）/ the old mother comes unexpectedly（老母意外进屋）
+
+**表达方式**：用"愿同死"的祷告写医生 deep 的共情，又把老母推门写成冷酷的打断。
+
+**为什么这样写**：Turgenev 以这个夜的镜头，把私人悲痛与家庭现实并置，余味刺心。
+
+---
+
+⑩ **"Trifon Ivanich won two rubles and a half from me, and went home late, well pleased with his success."**
+
+**中文理解**：Trifon Ivanich 赢了我两个半卢布，深夜尽兴而归。
+
+**句子结构**：Trifon Ivanich won two rubles and a half from me 主谓双宾；and went home late 并列；well pleased with his success 状语。
+
+**关键词**：won two rubles and a half（赢两个半卢布）/ went home late（深夜回家）/ well pleased with his success（对战果满意）
+
+**表达方式**：用牌局小注收尾，把沉重的死亡故事落回日常的琐碎，反差极冷。
+
+**为什么这样写**：Turgenev 以此轻笔收束，让生死大事与输赢小利在同一页上并立——生命逝去，牌局照旧。
+
+## 一句话总结
+
+Turgenev 以医生第一人称，写秋日旅途中的一场徒劳守候：少女 Aleksandra Andreyevna 在贫病中死去，医者"知道却救不了"的羞辱与共情写满全程；故事在牌局小注里收尾——死亡发生，生活照旧。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| district doctor | 乡村医生 | "the district doctor appeared" |
-| sudorific | 发汗剂 | "prescribed me the usual sudorific" |
-| mustard-plaster | 芥末膏药 | "ordered a mustard-plaster to be put on" |
-| five-ruble note | 五卢布纸币 | "deftly slid a five-ruble note up his sleeve" |
+| a remote part of the country | ph. 乡间偏远地带 | on my way back from a remote part of the country |
+| caught cold and fell ill | ph. 受寒病倒 | I caught cold and fell ill |
+| with intent eyes | ph. 用专注的眼神 | gazing with intent eyes at me |
+| on the point of death | ph. 濒临死亡 | consider herself on the point of death |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| judge | 法官 | "the judge here, Mylov, Pavel Lukich" |
-| Lent | 大斋期 | "in Lent, at the very time of the thaws" |
-| preference | 一种牌戏 | "fond of playing preference" |
-| Russia | 俄国 | "Russian literature" |
+| two silver rubles | ph. 两个银卢布 | more than two silver rubles |
+| a roll of linen | ph. 一卷亚麻 | a matter of a roll of linen |
+| no faith in you | ph. 不信你 | the patient has no faith in you |
+| tell you the symptoms with reluctance | ph. 不愿讲症状 | tell you the symptoms with reluctance |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| fever | 发烧 | "I fell ill with fever" |
-| patient | 病人 | "the patient and the doctor" |
-| tea | 茶 | "Tea was served" |
-| story | 故事 | "a curious incident" |
-
-## 一句话总结
-
-《The District Doctor》是 Turgenev 的"社会观察"短篇：通过医生与病人之间的社会互动，展示了俄国社会中不同阶层之间的微妙关系——医生通过讲述一个"奇怪的故事"来建立与病人的信任，而这个故事最终涉及爱情与死亡的主题。
+| a patient | n. 病人 | my other patients were expecting me |
+| a villain | n. 坏蛋 | What are you doing, villain |
+| the mother | n. 母亲 | the old mother comes into the room |
+| a ruble | n. 卢布 | won two rubles and a half |
