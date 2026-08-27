@@ -170,7 +170,7 @@ modified: "2026-08-27"
 |---|---|---|
 | tzigane | adj. 吉普赛的 | one-tenth tzigane, one-seventh Russian peasant girl |
 | maecenas | n. 文艺赞助人 | she would do at the homes of her various Maecenases |
-| condole — 见 condone | condone v. 宽恕 | We shall condone the outburst |
+| meandered | v. 蜿蜒辗转（流亡路线的迂回） | when the great exodus began and they, as many others, meandered via Sirkedji to Motzstrasse |
 | alibi | n. 不在场证明 | This threadbare alibi was not intended for the patching up of past tenses |
 | exonerate | v. 使免罪、洗清 | Admiral Gromoboyev will be able to exonerate me |
 | laconically | adv. 简洁地 | a Soviet one laconically stated |

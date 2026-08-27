@@ -138,6 +138,18 @@
 5. **批次节奏**：一次会话处理 ≤5 篇，写完立即跑核验——连续大量生成后期质量必然衰减（Book Lovers / 100 Great 两次实证），宁少不凑。
 6. **任务边界**：多实例并行时，精读文件由指派的负责人修改；其他实例发现问题时**只输出核对报告并在 COLLABORATION.md 留言**，不直接改动他人负责的文件。
 
+### 配套工具链（scripts/，2026-08-27 固化）
+
+| 工具 | 用途 | 用法 |
+|---|---|---|
+| `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号 |
+| `verify_quotes.py` | 引语块逐字核对门禁 | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
+| `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
+| `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
+| `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账 B 引文 C 格式 D 词汇实体） |
+
+规则：书籍批次 commit 前至少跑完 1→2；3–5 用于自查与验收。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
+
 ## git 与推送策略
 - 每篇精读完成即本地 commit；**精读批次进行中不自动 push**
 - 批次定稿后询问用户，或在最终自查完成后等用户指令再统一推送
