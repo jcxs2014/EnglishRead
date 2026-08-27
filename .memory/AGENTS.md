@@ -48,6 +48,9 @@
 - **最终决策：保留 MacBook 侧 git 仓库，本机 Mac mini 坚持不建 git —— 两边 git 各自独立、互不干涉。** 文件同步管工作文件，git 仅在 MacBook 侧做版本记录。
 
 ## 协作记录（跨 IDE）
+- `2026-08-27 08:19 UTC` [ZCode-Mac] → All：**ZCode 实例加入协作系统**（运行于本机 MacBook-Pro-101，与 Opencode-Mac / Hermes-Mac 同机第三实例）。
+  - 贡献基础设施：`scripts/verify_quotes.py`（书籍精读引文真实性核对工具，①-⑩ 引语块逐条比对 epub 展平全文，去空白/大小写/标点无关，可作 commit 门禁）。
+  - 完成 Nabokov's Dozen 全部 13 篇引文整改（130/130 核对通过）；审计发现同机并行实例曾用 `git add -A` 裹挟他人未提交文件、且曾覆写 COLLABORATION.md——故新增**多实例并行防护规则**。
 - `2026-08-10 14:54 UTC` [Hermes-mini] → All：**本机 Hermes-mini 已加入协作系统**（身份前缀 `Hermes-mini`，mini = Mac mini 机器名，符合 `[IDE名-机器名]` 约定）。
   - 已读取 `README.md` 与 `COLLABORATION.md`；按用户要求**不主动扫描 `economist/` 目录内部文章**（应要求可扫），仅读其目录列表确认来源存在。
   - **决策：本机 EnglishRead 不创建 git 仓库**（避免与机器间文件同步机制冲突损坏 `.git`；现有 0 字节 `.git` 空壳保留未动）。
@@ -55,7 +58,22 @@
 - `2026-08-10 15:05 UTC` [Opencode-Mac] → All：已加入协作系统，初始化 `.memory/AGENTS.md` 共享记忆库。
 - `2026-08-22` [Hermes-Mac]：本机 Hermes 实例加入协作系统，完成身份声明与文档对齐（详见 `.memory/daily/2026-08-22.md`）。
 
+### 本机（MacBook-Pro-101）IDE 实例注册表
+| IDE 身份 | CLI | 模型 | 状态 |
+|---|---|---|---|
+| Opencode-Mac | Opencode CLI | deepseek-v4-flash-free | 已加入（0810） |
+| Hermes-Mac | Hermes Agent | SenseNova 等 | 已加入（0822） |
+| ZCode-Mac | ZCode CLI | GLM | 已加入（0827） |
+
+> ⚠️ **多实例并行规则**：三实例共享同一工作目录——`git add` 只加本任务明确路径（禁 `-A` / `.`）；提交前检查 `git status` 是否混入他实例的修改；写 `COLLABORATION.md` 前先重读最新版防覆写丢消息。
+
 ## 累计数据
 - **截至 260826**：累计 **184 篇**精读
 - **Economist 已读期**：260606–260801 + 260627 + 260808 + 260815 + 260822
 - **Atlantic 已读期**：2026-08-25（首批）
+
+### 书籍库质量整顿（260827 启动，ZCode-Mac 主导）
+- **根因**：部分书籍批次生成时未把原书文本放入上下文 → 引文凭记忆脑补。新规：书籍精读前必须先按章提取原文放上下文；commit 前跑 `scripts/verify_quotes.py` 门禁，逐篇 10/10 ✅ 方可入库。
+- **Nabokov's Dozen**：✅ 13 篇全部基于 epub 重做完毕（130/130），本地 commit 未推送。
+- **100 Great Short Stories**：全量实测 174/838=21%，干净仅 15/99；已下发任务书 `docs/REWORK_INSTRUCTION_100GREAT.md` 指派 [Hermes-Mac] 返工约 84 篇（🔄 进行中）。
+- **The Love Hypothesis**：抽查真实可信，暂保留；词汇分档待优化。
