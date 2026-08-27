@@ -29,7 +29,7 @@ modified: "2026-08-27"
 
 > **原句 1:** I jump into the water from the end of the pier and sink down, holding my nose. After the initial impact I open my eyes, surrendering to the fall as it grows softer, and to the colors all around me that seem new, denser, and more iridescent. I descend, holding my breath.
 
-**中文理解**：开篇直接进入自杀场景，没有铺垫，用第一人称 immediacy 把读者拉入叙述者的体验中。
+**中文理解**："我从码头尽头跳入水中，捏着鼻子下沉。初始冲击过后，我睁开眼睛，向下跌落，周围的色彩似乎更新、更密集、更闪烁。我屏住呼吸，继续下沉。"
 
 **句子结构**：三个句子构成递进——jump/sink → open eyes/surrender → descend，动作从主动到被动，暗示叙述者从"决定死"到"接受死"的心理转变。
 
@@ -43,7 +43,7 @@ modified: "2026-08-27"
 
 > **原句 2:** I touch the rocks, feeling for the knot. I'm not changing my mind; at this point, what's done is done. It's curiosity. I untie the rope and the rocks fall away.
 
-**中文理解**：叙述者解开绑在腰上的石头——这是自杀的工具，但她不是因为想活才解开，而是"好奇心"。
+**中文理解**："我触摸岩石，摸索绳结。我不是在改变主意；事已至此，覆水难收。是好奇心。我解开绳子，岩石坠落。"
 
 **句子结构**：短句堆叠，节奏冷静克制；"I'm not changing my mind" 是对读者预期的反驳——你以为她要放弃了，但她不是。
 
@@ -57,7 +57,7 @@ modified: "2026-08-27"
 
 > **原句 3:** I'm struck by the liquid feeling where there was always oxygen before, but above all I'm struck by how lucid I feel. How calm.
 
-**中文理解**：在水中窒息的体验被描述为"liquid feeling"，而最让叙述者惊讶的不是恐惧，而是"清醒"和"平静"。
+**中文理解**："在水中窒息的体验被描述为'液体感'，而最让叙述者惊讶的不是恐惧，而是'清醒'和'平静'。"
 
 **句子结构**：两个"I'm struck by"形成平行，但第二个更强调（above all）；"How lucid I feel. How calm." 两个短句独立成段，强调震惊的程度。
 
@@ -71,7 +71,7 @@ modified: "2026-08-27"
 
 > **原句 4:** To float and wonder for the rest of eternity: the first real fear I have that day. To be unable to move forward or backward, ever again, in any direction.
 
-**中文理解**：真正的恐惧不是死亡，而是"卡在中间"——既不能前进也不能后退，永远漂浮。
+**中文理解**："真正的恐惧不是死亡，而是'卡在中间'——既不能前进也不能后退，永远漂浮。"
 
 **句子结构**：冒号后的"the first real fear"是对前文的总结；两个"To"不定式并列，描述两种可怕的永恒状态。
 
@@ -85,7 +85,7 @@ modified: "2026-08-27"
 
 > **原句 5:** It's as if he had grabbed me by the throat with both hands. As if now he were waiting, without ever loosening his grip.
 
-**中文理解**：邻居的话语像掐住喉咙一样让叙述者窒息——这是对心理压迫的物理化描写。
+**中文理解**："邻居的话语像掐住喉咙一样让叙述者窒息——这是对心理压迫的物理化描写。"
 
 **句子结构**：两个"As if"构成比喻，把抽象的心理压迫转化为具体的物理暴力。
 
@@ -99,7 +99,7 @@ modified: "2026-08-27"
 
 > **原句 6:** "You think you can do whatever you please and then just change your mind?"
 
-**中文理解**：邻居的质问——你以为你可以为所欲为，然后随时反悔？这是对自杀者"权利"的质疑。
+**中文理解**："邻居的质问——你以为你可以为所欲为，然后随时反悔？这是对自杀者'权利'的质疑。"
 
 **句子结构**：反问句，语气严厉，不期待回答。
 
@@ -113,7 +113,7 @@ modified: "2026-08-27"
 
 > **原句 7:** "You have to open it like a book. If you have trouble doing it from the neck, open it at the belly, and from there go up and then down. Then you just have to pull, the skin comes right off."
 
-**中文理解**：邻居教叙述者剥兔子皮——把活物"像书一样打开"，是残忍与"知识"的黑色结合。
+**中文理解**："邻居教叙述者剥兔子皮——把活物'像书一样打开'，是残忍与'知识'的黑色结合。"
 
 **句子结构**：祈使句堆叠，节奏冷酷，像在教手工课。
 
@@ -127,7 +127,7 @@ modified: "2026-08-27"
 
 > **原句 8:** "Some pain every day, you follow? True pain. In someone you really love. You love your girls?"
 
-**中文理解**：邻居的核心教导——每天制造一点痛苦，在你爱的人身上。这是"内疚疗法"的核心。
+**中文理解**："邻居的核心教导——每天制造一点痛苦，在你爱的人身上。这是'内疚疗法'的核心。"
 
 **句子结构**：短句堆叠，节奏压迫；"you follow?" 是强迫性的确认。
 
@@ -141,7 +141,7 @@ modified: "2026-08-27"
 
 > **原句 9:** As soon as the rabbit twitches I press its neck against the mattress. If I loosen my grip its fur starts to slip through my hands. I grab it by the ears the way the man did, and the rabbit's feet are kicking the air.
 
-**中文理解**：叙述者在女儿床上抓兔子——她在实践邻居的教导，在爱的人（女儿）身上制造痛苦（杀死她心爱的兔子）。
+**中文理解**："叙述者在女儿床上抓兔子——她在实践邻居的教导，在爱的人（女儿）身上制造痛苦（杀死她心爱的兔子）。"
 
 **句子结构**：动作连贯，节奏紧张，像在描述犯罪现场。
 
@@ -155,7 +155,7 @@ modified: "2026-08-27"
 
 > **原句 10:** I set the knife aside, turning away from the rabbit in the sink, and it immediately jumps down to the floor and hops away. I leave the kitchen, too—neither of us could bear to stay.
 
-**中文理解**：叙述者放下刀，兔子跳走——两个生命都逃离了厨房，暗示叙述者最终没有杀死兔子，也没有杀死自己。
+**中文理解**："叙述者放下刀，兔子跳走——两个生命都逃离了厨房，暗示叙述者最终没有杀死兔子，也没有杀死自己。"
 
 **句子结构**：两个"离开"并列（turning away / leave），兔子和叙述者都在逃离。
 
