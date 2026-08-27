@@ -172,7 +172,7 @@ modified: "2026-08-27"
 | maecenas | n. 文艺赞助人 | she would do at the homes of her various Maecenases |
 | condole — 见 condone | condone v. 宽恕 | We shall condone the outburst |
 | alibi | n. 不在场证明 | This threadbare alibi was not intended for the patching up of past tenses |
-| cadaverous — 参考 exonerate | exonerate v. 使免罪 | Admiral Gromoboyev will be able to exonerate me |
+| exonerate | v. 使免罪、洗清 | Admiral Gromoboyev will be able to exonerate me |
 | laconically | adv. 简洁地 | a Soviet one laconically stated |
 
 ### ⭐ 基础
