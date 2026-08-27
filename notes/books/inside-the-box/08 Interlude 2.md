@@ -183,7 +183,7 @@ modified: "2026-08-26"
 | organize | 组织 | "organize material more coherently" |
 | focus | 聚焦 | "showing a problem solver where to focus" |
 | specific | 具体的 | "to a specific audience" |
-| clarity | 清晰 | "at least it was clear" |
+| autonomy | 自主性、自治 | "autonomy" |
 | challenge | 挑战 | "The challenge was difficult, but at least it was clear" |
 | definite principle | 确定的原则 | "based on some definite principle" |
 

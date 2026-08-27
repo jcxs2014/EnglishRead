@@ -169,7 +169,7 @@ modified: "2026-08-26"
 | frame a problem | 定义/框定问题 | "clearly framed the next problem for subsequent runners" |
 | standardization | 标准化 | "the weights of elements were standardized" |
 | octaves | 八度 | "likened it to musical octaves" |
-| predictive assertion | 预测性断言 | "daring predictions of as-yet-undiscovered elements" |
+| acknowledging | 承认、认可 | "acknowledging" |
 | constraints | 约束 | "the constraint was the standard" |
 | problem space | 问题空间 | "the problem space had been narrowed" |
 
@@ -179,7 +179,7 @@ modified: "2026-08-26"
 |---|---|---|
 | discover | 发现 | "discover the periodic pattern" |
 | independent | 独立的 | "entirely independently" |
-| systematize | 系统化 | "his system was relatively complete" |
+| adaptation | 适应、调整 | "adaptation" |
 | authority | 权威性 | "a unique authority that the others lacked" |
 | argue | 阐述/争论 | "Cannizzaro delivered his argument" |
 | publish | 发表 | "a publisher misplaced it" |

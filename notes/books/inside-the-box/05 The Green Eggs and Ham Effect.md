@@ -26,7 +26,7 @@ modified: "2026-08-26"
 | Dr. Seuss (Theodor Geisel)：Bennett Cerf 赌他 50 美元写不出只用 50 词的儿童书 → 写出《Green Eggs and Ham》 | 创作史经典案例 | 限制词汇量倒逼创造力 |
 | Catrinel Tromp "Green Eggs and Ham model of creativity"：约束 Paradoxically yields more creative outputs | 心理学家命名 | 给全书核心现象一个学术框架 |
 | Einstellung effect（定型效应）：解题者即使有更好的方法可用，仍倾向于只用熟悉的方法 | 心理学经典效应 | 完全自由→重复已知路径 |
-| 即兴演员被教导要"具体"而非泛泛（"it's a gun!" vs "the X-300 destroyer ray gun!"）| 表演训练实践 | 约束→更具体→更有创造力 |
+| 即兴演员被教导要"具体"而非泛泛（"it a gun!" vs "the X-300 destroyer ray gun!"）| 表演训练实践 | 约束→更具体→更有创造力 |
 | 玩具设计师实验：给定 5 个随机零件且必须全部用上 → 比自由选择一堆零件更有创造力 | 对照实验 | 强制整合约束 > 开放选择 |
 | Bach 的赋格（fugue）：每个声部从同一 12 音符主题开始，但此后各自发展；Bach 叠加多层自我约束 | 音乐史核心证据 | 约束层层叠加→无限创新 |
 | Peter Mendelsund 的亲身演示：《The Art of Fugue》的 14 个赋格章节，每次叠加新约束（倒置、加速、对位）→ 巴赫被迫走向全新和声领域 | 作者亲历的一手课 | 约束的压迫是创造逼出来的 |
@@ -178,9 +178,9 @@ modified: "2026-08-26"
 | Einstellung effect | 定型效应（用熟悉方法而非最优方法） | "the instinct of problem solvers to employ only familiar methods even if better ones are available" |
 | fugue | 赋格（音乐形式） | "...gravitated to an exceptionally rule-bound musical form known as fugue..." |
 | palindrome | 回文（正反读相同） | "The notes are the same forward and backward." |
-| catharsis | 情感宣泄 | "The audience clapped and whistled and hollered in a crescendoing cacophony..." |
+| aesthetic | 美学的、审美的 | "aesthetic judgment" |
 | ostinato | 固定音型（重复模式） | "He focused on ostinatos, or repetitive patterns of notes..." |
-| diatonic | 自然音阶的 | "And it leads to some harmonic territory..." |
+| absolute | 绝对的、绝对的 | "absolute music" |
 | improvisation | 即兴创作 | "...the greatest solo piano improvisation of all time..." |
 | iterate | 迭代 | "He iterated quickly, mixing and matching elements..." |
 | paradigm | 范式、模式 | "The form itself is the engine of creativity." |
@@ -196,7 +196,7 @@ modified: "2026-08-26"
 | labyrinth | 迷宫 | "rats who construct the labyrinth from which they plan to escape" |
 | specificity | 具体性 | "Specificity limits options but enhances creativity." |
 | problem space | 问题空间 | "cutting down a physical problem space leads to more active exploration" |
-| scaffolding | 脚手架 | "These were rules that were supposed to encourage a kind of freedom." |
+| accommodate | 容纳、适应 | "accommodate" |
 | constraints-led approach | 约束驱动方法（运动科学） | "an entire domain...known as the Constraints-Led Approach (CLA)" |
 | wicket | 小栏架（短跑训练器具） | "athletes running over 'wickets,' tiny hurdles..." |
 | template | 模板 | "use a template that shrunk the problem space" |
@@ -208,7 +208,7 @@ modified: "2026-08-26"
 | constraint | 约束 | "working with constraints can yield more creative outputs" |
 | creativity | 创造力 | "working with constraints can yield more creative outputs" |
 | improvisation | 即兴演奏 | "the greatest solo piano improvisation of all time" |
-| repetition | 重复 | "repetitive elements and anchored improvisations" |
+| experimentation | 重复 | "repetitive elements and anchored improvisations" |
 | novel | 新的 | "that was—a new way" |
 | rule | 规则 | "If you lay enough rules on yourself..." |
 | freedom | 自由 | "My freedom will be so much the greater..." |

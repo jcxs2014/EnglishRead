@@ -29,7 +29,7 @@ modified: "2026-08-26"
 | Murakami 短篇：两个孩子在街角相遇，认为对方是"100% 完美对象"，但知道永远不可能在一起 | 文学证据 | 完美主义与无限选择是满足感的敌人 |
 | 401(k) 选项过多→参与率下降；癌症治疗选项过多→决定质量下降 | 行为经济学数据 | 太多选择反而导致更差的决策 |
 | "socially prescribed perfectionism"在过去 25 年大幅上升（美国/加拿大/英国 4 万名学生数据） | 社会学数据 | 互联网+无限选择=完美主义增加 |
-| Epstein 个人实验：从追求"完全自主"到主动加入董事会、晚餐俱乐部、跳舞 | 自我实验 | 减少自主=增加意义 |
+| 完全自主实验：从追求"完全自主"到主动加入董事会、晚餐俱乐部、跳舞 | 自我实验 | 减少自主=增加意义 |
 
 **论证脉络**：General Magic 25 年后哈佛重聚 → Eisenmann 白板：失败原因=太多合作伙伴/太早/对可用技术限制关注太少 → 引出 Simon → Simon 1935 年 Milwaukee 游乐场案例（组织结构决定选择，不是完美计算） → Simon 的 satisficing 理论 → Simon 的个人生活（执拗的满意化者） → 最大化者 vs 满意化者研究：最大化者更不满足 → Murakami 短篇：两个孩子的"100% 完美对象"隐喻 → Epstein 个人经历：从追求"完全自主"到主动加入约束（社区董事会、晚餐俱乐部、跳舞） → 叙事价值观（narrative values）哲学 → Bernard Suits 的"游戏态度"（lusory attitude）→ haiku 作为"帮助性约束"的最简单案例 → 结论：约束不是敌人，而是意义的来源。
 
@@ -170,7 +170,7 @@ modified: "2026-08-26"
 | satisficing | 满意化 | "humans must 'satisfice': choose a 'good enough' option" |
 | maximizing | 最大化 | "maximizers are less satisfied with their decisions" |
 | rational-actor model | 理性行为者模型 | "the rational-actor model of decision-making" |
-| bounded rationality | 有限理性 | "Simon's bounded rationality theory" |
+| accomplishing | 完成、实现 | "accomplishing" |
 | lusory attitude | 游戏态度 | "the willing acceptance of constraints" |
 | narrative values | 叙事价值观 | "narrative values that help make sense of my journey" |
 | FOMO | 错失恐惧症 | "all this FOMO" |

@@ -30,7 +30,7 @@ modified: "2026-08-26"
 | Herbert Simon（1970）："信息丰富意味着注意力的贫乏" | 认知心理学家引语 | 信息爆炸时代注意力是终极稀缺资源 |
 | 外科医生在生日进行手术的患者死亡率更高（近百万手术数据） | 大规模医疗数据 | 注意力分散对专业任务的致命影响 |
 | 一百万台手术数据：外科医生生日手术患者存活率更低 | 统计数据 | 即使是专家，注意力干扰也导致可测量的伤害 |
-| Epstein 个人实验：缝针后被迫单任务→幸福感提升 | 自我实验 | 物理限制→强制单任务→更好的主观体验 |
+| 缝针实验：被迫单任务→幸福感提升 | 自我实验 | 物理限制→强制单任务→更好的主观体验 |
 | Katy Milkman 的"软性承诺装置"研究 | 行为科学研究 | 心理惩罚而非财务惩罚的承诺装置同样有效 |
 
 **论证脉络**：Isabel Allende 1981 年 1 月 8 日开始写《幽灵庄园》（letter to dying grandfather → novel）→ 从此每年 1 月 8 日开始新书，40 年如一日 → 她的 January 8 仪式是社会科学家所说的"承诺装置"（commitment device）→ Gloria Mark 的注意力研究：2004 年典型办公室工作者每 3 分钟切换任务，2022 年每 45 秒；每次被打断后恢复需要 25 分钟 → 注意力切换的认知机制：goal shifting + rule activation（Willingham）+ 注意力残留（attention residue）→ Charlie Munger 和医生的多任务错误 → Robert Johnson 的真实故事：传说他与魔鬼立约，实际是他在 Zimmerman 家的墓地里深夜独自练琴 → "他在墓地练琴因为那里足够安静，让他能够真正集中注意力"（Zimmerman 女儿证言）→ Epstein 个人实验（缝针后被迫单任务）→ Simon 的 1970 年预言："信息丰富意味着注意力贫乏"→ 作者自己的注意力管理改造：每日清单只写一件事；用 focus mode 减少通知；离开手机出房间；写下未完成任务以防认知残留 → 结论：最有力的创意来自单调任务——Allende 如此，Johnson 如此，门捷列夫如此。
@@ -190,7 +190,7 @@ modified: "2026-08-26"
 | distraction | 分心 | "external triggers...will unconsciously increase self-interrupting" |
 | focus | 专注 | "I want to learn guitar as quickly as possible" |
 | deep work | 深度工作 | "Cal Newport's Deep Work" |
-| burnout | 倦怠 | "mental fatigue" |
+| accomplished | 有成就的、有能力的 | "accomplished" |
 | attention | 注意力 | "attention is a fundamental bottleneck" |
 | rhythm | 节奏 | "maintain a rhythm of distraction" |
 | routine | 惯例/仪式 | "I need the silence...to hear the voices" |

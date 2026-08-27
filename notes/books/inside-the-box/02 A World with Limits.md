@@ -22,7 +22,7 @@ modified: "2026-08-26"
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
 | Ed Catmull（Pixar 联合创始人）亲述：用 1952 年《By Space Ship to the Moon》的"逐章拆月球"法、像素/微多边形精确估算（500 万像素/8000 万微多边形）、拒绝一次性建全功能 | 一手访谈 + 亲自观看 General Magic 纪录片 | Pixar 是"think slow"范本 |
-| Catmull 的 Pixar 制度：Three Pitches Rule（必须 pitch 三个想法防过早 fixation）、发展期小团队多年试错、dailies/Braintrust/事后复盘三套反馈机制、Jobs 被禁止参加 Braintrust 以免权重失衡 | 组织制度案例 | 约束无处不在且系统化 |
+| Catmull 的 Pixar 制度：Three Pitches Rule（必须 pitch 三个想法防过早 iteration 之前的过度承诺）、发展期小团队多年试错、dailies/Braintrust/事后复盘三套反馈机制、Jobs 被禁止参加 Braintrust 以免权重失衡 | 组织制度案例 | 约束无处不在且系统化 |
 | "the beautifully shaded penny"：动画师沉迷硬币阴影，导演沉迷鱼缸火焰，用"冰棍棒墙"（每根=一人一周工作量）把不可见约束变可见 | 内部轶事（Catmull 自传 Creativity, Inc.） | 刻意制造可见约束最有效 |
 | 作者亲身经历：2015 年给 This American Life 写 30 分钟音频稿，靠"新书柜后的密室/秒表朗读/新听众当边界"迭代到零困惑 | 亲历案例（mesearch） | 边界让新手迅速变专业 |
 | Tony Fadell（iPod/iPhone/Nest）：General Magic 崩后痴迷约束——"If you don't have constraints, then make up constraints!"；iPod 用外部技术边界条件、自设圣诞截止期、内部"心跳"deadline；Nest 直接做一个实体包装盒逼团队聚焦 | 一手访谈 + 职业史 | 约束思维可被教训习得并迁移 |

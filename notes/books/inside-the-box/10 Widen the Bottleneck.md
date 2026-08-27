@@ -173,7 +173,7 @@ modified: "2026-08-26"
 | rust barrier | 防锈屏障 | "forming a rust barrier" |
 | edible coating | 可食用涂层 | "an edible coating made of plant material" |
 | alloy | 合金 | "The alloy of iron and carbon" |
-| oxygen infiltration | 氧气渗透 | "prevent oxygen infiltration" |
+| algorithms | 算法、计算规则 | "algorithms" |
 | produce | 农产品 | "protect produce from spoiling" |
 
 ### ⭐⭐ 进阶

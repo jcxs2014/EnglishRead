@@ -168,8 +168,8 @@ modified: "2026-08-26"
 | expropriation | 征收/剥夺（这里指盗窃） | "the constant threat of expropriation" |
 | bargaining power | 议价能力 | "all of which diminish their bargaining power" |
 | collaboration | 协作 | "female entrepreneurs collaborate less overall than men" |
-| asymmetric information | 信息不对称 | "One party must act first...and then the other decides" |
-| equilibrium | 均衡 | "the equilibrium outcome is non-collaboration" |
+| accountability | 问责制、责任制 | "accountability" |
+| agreement | 协议、共识 | "agreement" |
 | third-party enforcement | 第三方执行 | "lack of third-party enforcement" |
 
 ### ⭐⭐ 进阶
