@@ -78,26 +78,25 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | outside | 外面的；外部的 | "the feeling of outsideness" |
-| starlight | 星光 | (文中未出现，删除) |
 | furrow | 皱眉 | "a furrowed brow" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| dance | 跳舞 | "women have been slow-dancing to staticky country music" |
+| slow-dancing | 慢舞 | "women have been slow-dancing to staticky country music" |
 | moonlight | 月光 | "deep shadows unfurl over picturesque valleys" |
 | jealousy | 嫉妒 | "That sounds like jealousy" |
 
 ## 精读结束总结
 
 ### 本文核心表达
-- "like it's happening to someone else" —— 疏离感作为"观察者"视角
+- "like something happening to someone else" —— 疏离感作为"观察者"视角
 - "like an Alka-Seltzer tab" —— 情感"扩散"的化学比喻
 - "That sounds like jealousy" —— 用"诊断"来测试情感
 
 ### 重要语法
-- like + 现在分词：like it's happening to someone else
+- like + 现在分词：like something happening to someone else
 - 现在分词作伴随状语：dispersing in every direction
 - 宾语 + 现在分词：watching him dispersing
 

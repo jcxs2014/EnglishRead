@@ -13,7 +13,7 @@ REPS=[
  ("10 The Thinker.md","**grunt** | 咕哝声；发牢骚","**thinker** | 深思的人（本篇题眼，反讽）"),
  # 11 Middle Ground
  ("11 Middle Ground.md","flora/fauna | 植物群/动物群 | （本篇未出现）","**foreground** | 前景（艺术构图术语） | From here, the primrose was the whole foreground |"),
- ("11 Middle Ground.md","| **barefoot** | 光脚的 | （未出现在本篇） |","| **dimmed** | 变暗；减弱 | The light touched the girls' cheeks and dimmed slightly |"),
+ ("11 Middle Ground.md","| **barefoot** | 光脚的 | （未出现在本篇） |","| **exposed** | 显露；揭开 | The light touched the girls' cheeks and exposed the down on them |"),
  # 12 Still Life
  ("12 Still Life.md","| method of loci | 记忆宫殿法","| **paramedics** | 急救医护人员 | The paramedics asked him what was wrong |"),
  ("12 Still Life.md","| unreliable narrator | 不可靠叙述者","| **laboured** | 吃力的；费劲的 | He explained in a laboured way that he was a taxi driver |"),

@@ -79,7 +79,6 @@ modified: "2026-08-27"
 |---------|------|------|
 | tipsy | 微醉的 | "without even getting past tipsy" |
 | demigod | 神的半；半神 | "The blond demigod is leaning against the far side of the fence" |
-| gauntlet | Running the gauntlet 穿过困难 | (文中未出现，删除) |
 
 ### ⭐ 基础
 
