@@ -29,7 +29,7 @@ modified: "2026-08-27"
 
 > **原句 1:** Nearly twenty years after the accident, Elena calls me in Lyon. I don't recognize her voice, but when she says her name, I know exactly who I'm talking to.
 
-**中文理解**：开篇直接切入主题——20 年后的电话，暗示叙述者一直在逃避这段记忆。
+**中文理解**："事故发生近二十年后，Elena 在里昂给我打电话。我没认出她的声音，但当她说出名字时，我确切地知道我在和谁说话。"
 
 **句子结构**：两个句子形成对比——"don't recognize" vs "know exactly"，暗示时间改变了声音，但没有改变记忆。
 
@@ -43,7 +43,7 @@ modified: "2026-08-27"
 
 > **原句 2:** I'm dying, Leila. That's why I'm calling.
 
-**中文理解**：Elena 直接说出真相——她快死了，这是打电话的原因。
+**中文理解**："我快死了，Leila。这就是我打电话的原因。"
 
 **句子结构**：两个短句，直接、残酷，没有铺垫。
 
@@ -57,7 +57,7 @@ modified: "2026-08-27"
 
 > **原句 3:** The horse's belly was so close that I could have reached my hand out of the car window and touched it. It looked swollen, disproportionate to the rest of its skinny body.
 
-**中文理解**：叙述者在前往 Elena 家的路上看到一匹马——这匹马后来神秘地出现在事故现场。
+**中文理解**："叙述者在前往 Elena 家的路上看到一匹马——这匹马后来神秘地出现在事故现场。"
 
 **句子结构**：用"so close that..."强调距离之近，暗示叙述者与马的特殊联系。
 
@@ -71,7 +71,7 @@ modified: "2026-08-27"
 
 > **原句 4:** I want someone to talk to me about my Peta.
 
-**中文理解**：Elena 的核心需求——她想听人谈论她的儿子，即使他已经死了 20 年。
+**中文理解**："Elena 的核心需求——她想听人谈论她的儿子，即使他已经死了 20 年。"
 
 **句子结构**：简单直接的请求，"my Peta" 用所有格强调母子关系。
 
@@ -85,7 +85,7 @@ modified: "2026-08-27"
 
 > **原句 5:** I pretend they're dead.
 
-**中文理解**：Peta 的"游戏"——假装父母死了，只回答客人的问题。
+**中文理解**："Peta 的'游戏'——假装父母死了，只回答客人的问题。"
 
 **句子结构**：简短的直接引语，语气天真但内容黑暗。
 
@@ -99,7 +99,7 @@ modified: "2026-08-27"
 
 > **原句 6:** Have you ever woken up in the middle of the night? I mean without anyone waking you up—have you ever woken up for real?
 
-**中文理解**：Peta 的哲学问题——什么是"真正的"醒来？
+**中文理解**："Peta 的哲学问题——什么是'真正的'醒来？"
 
 **句子结构**：两个问题形成递进，第二个问题更强调（for real）。
 
@@ -113,7 +113,7 @@ modified: "2026-08-27"
 
 > **原句 7:** Whatever happens now, it's not going to kill you, I thought. And I turned toward the street.
 
-**中文理解**：叙述者在事故后的心理——无论发生什么，都不会杀死你。她选择逃避。
+**中文理解**："叙述者在事故后的心理——无论发生什么，都不会杀死你。她选择逃避。"
 
 **句子结构**：两个句子形成转折——"Whatever happens" vs "turned toward the street"，暗示逃避。
 
@@ -127,7 +127,7 @@ modified: "2026-08-27"
 
 > **原句 8:** Lying on the pavement, under the faint light from the only streetlamp at the end of the block, the body was so big and disproportionate that at first I didn't understand what it was. It was a horse.
 
-**中文理解**：叙述者走出房子后看到一匹马躺在街上——这匹马神秘地出现在事故现场。
+**中文理解**："叙述者走出房子后看到一匹马躺在街上——这匹马神秘地出现在事故现场。"
 
 **句子结构**：用长句描述场景，最后揭示"It was a horse"，制造悬念。
 
@@ -141,7 +141,7 @@ modified: "2026-08-27"
 
 > **原句 9:** He is so enormous and beautiful, and I am asking for his forgiveness.
 
-**中文理解**：叙述者在梦中拥抱马，请求它的原谅——她对 Peta 的死感到内疚。
+**中文理解**："叙述者在梦中拥抱马，请求它的原谅——她对 Peta 的死感到内疚。"
 
 **句子结构**：两个并列句，"enormous and beautiful" vs "asking for forgiveness"，形成对比。
 
@@ -155,7 +155,7 @@ modified: "2026-08-27"
 
 > **原句 10:** Leila, I don't have time to waste, don't you realize that?
 
-**中文理解**：Elena 的催促——她快死了，没有时间浪费。
+**中文理解**："Elena 的催促——她快死了，没有时间浪费。"
 
 **句子结构**：反问句，语气急迫。
 
