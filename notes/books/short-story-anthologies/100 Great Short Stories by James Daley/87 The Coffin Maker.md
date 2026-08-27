@@ -9,151 +9,151 @@ modified: "2026-08-27"
 
 ## 一句话总结
 
-Pushkin 通过一个棺材匠在他妻子生病期间"祈祷她死去"的故事，展示了"职业"与"人性"之间的讽刺张力——当棺材匠因为妻子的病而失去工作时，他祈祷她死去，因为这样他就能卖棺材给她了。
+Pushkin 通过棺材匠 Adrian Prokhoroff 搬家后面对经济困境的故事，展示了"职业身份"与"人性"之间的张力——他希望老顾客 Trukhina 的死亡来弥补损失，但当 Trukhina 真的死去时，Adrian 流下了苦涩的泪水并亲手为她做了棺材。
 
 ## 逐句精读（10 处）
 
-① **"Adrian was a coffin-maker, and he had been a coffin-maker for thirty years."**
+① **"After locking up the shop, he posted upon the door a placard announcing that the house was to be let or sold, and then made his way on foot to his new abode."**
 
-**中文理解**：Adrian 是一个棺材匠，他已经做了三十年的棺材匠。
+**中文理解**：锁好店铺之后，他在门上贴了一张告示宣布这房子要出租或出售，然后他步行前往新居。
 
-**句子结构**：and 连接两个并列分句，had been 是过去完成时表示持续时间。
+**句子结构**：After locking up the shop 是现在分词作时间状语，he posted upon the door a placard 是主句，announcing that … 是现在分词作定语，and then made his way on foot 是并列分句。
 
-**关键词**：coffin-maker（棺材匠）/ thirty years（三十年）
+**关键词**：locked up the shop / posted a placard / house was to be let or sold / made his way on foot / new abode
 
-**表达方式**：用"三十年"的精确数字，暗示 Adrian 对他的职业已经习以为常。
+**表达方式**：用"步行"而非"坐车"，展示棺材匠的朴素——他不是富裕的商人，他是一个靠双手劳动的人。
 
-**为什么这样写**：Pushkin 用"三十年"，建立棺材匠作为"职业身份"的绝对性——对他来说，"棺材匠"不是工作，是身份。
-
----
-
-② **"He was a sober, industrious man, and his wife was a nagging, sickly woman."**
-
-**中文理解**：他是一个清醒、勤劳的人，他的妻子是一个爱唠叨、病弱的女人。
-
-**句子结构**：and 连接两个并列分句，sober 和 industrious 并列，nagging 和 sickly 并列。
-
-**关键词**：sober（清醒的）/ industrious（勤劳的）/ nagging（爱唠叨的）/ sickly（病弱的）
-
-**表达方式**：用"清醒的丈夫"与"爱唠叨的妻子"的人格对比，建立"婚姻张力"。
-
-**为什么这样写**：Pushkin 用 Adrian 和他妻子的对比，展示了"职业身份"与"个人生活"之间的分裂——他在工作中是"棺材匠"，但在家庭中他是"丈夫"。
+**为什么这样写**：Pushkin 用搬家的细节，建立故事的经济背景——Adrian 要离开他熟悉的棺材铺，暗示他的生意发生了变化。
 
 ---
 
-③ **"His wife was ill, and he was very much afraid that she might die."**
+② **"When he crossed the unfamiliar threshold and found his new home in the greatest confusion, he sighed for his old hovel, where for eighteen years the strictest order had prevailed."**
 
-**中文理解**：他的妻子病了，他非常害怕她可能会死。
+**中文理解**：当他跨过陌生的门槛发现新家一片混乱时，他为旧小屋叹了口气——在那里十八年来最严格的秩序一直占据主导。
 
-**句子结构**：and 连接两个并列分句，was ill 和 was very much afraid 是关键词。
+**句子结构**：When he crossed the unfamiliar threshold 是时间状语从句，and found his new home in the greatest confusion 是并列分句，he sighed for his old hovel 是主句，where for eighteen years the strictest order had prevailed 是定语从句修饰 hovel。
 
-**关键词**：ill（生病）/ very much afraid（非常害怕）/ might die（可能会死）
+**关键词**：crossed the unfamiliar threshold / new home in the greatest confusion / sighed for his old hovel / strictest order had prevailed
 
-**表达方式**：用"非常害怕她可能会死"的第一层意思——一个正常丈夫对失去妻子的恐惧。
+**表达方式**：用"最严格的秩序"描述旧生活状态，暗示 Adrian 是一个极度有条理的人——新家的"混乱"是对他秩序感的威胁。
 
-**为什么这样写**：Pushkin 用"害怕妻子死"的第一层意思，建立故事的"表面情感"—— Adrian 看起来是一个正常的丈夫。
-
----
-
-④ **"He was afraid, not because he loved her, but because he would lose his livelihood."**
-
-**中文理解**：他害怕，不是因为他爱她，而是因为他将失去生计。
-
-**句子结构**：not because … but because 结构，not because he loved her 和 but because he would lose his livelihood 并列。
-
-**关键词**：not because … but because（不是因为……而是因为）/ love（爱）/ livelihood（生计）
-
-**表达方式**：用 not … but … 的对比结构，揭示 Adrian 的真实动机——他的"害怕"是经济性的，不是情感性的。
-
-**为什么这样写**：Pushkin 用这个对比，完成了故事的第一个反讽——丈夫害怕妻子死，不是因为爱，是因为失去工作来源。
+**为什么这样写**：Pushkin 用这个对比，建立棺材匠的职业性格——他是一个追求秩序的人，而棺材的制作本身也是对"死亡秩序"的追求。
 
 ---
 
-⑤ **"If his wife died, he would make her coffin, and he would sell it to her for a good price."**
+③ **"The enlightened reader knows that Shakespeare and Walter Scott have both represented their grave-diggers as merry and facetious individuals, in order that the contrast might more forcibly strike our imagination."**
 
-**中文理解**：如果他的妻子死了，他会给她做棺材，他会以一个好价钱把它卖给她。
+**中文理解**：有教养的读者知道，莎士比亚和沃尔特·司各特都把掘墓人描写成快乐而滑稽的人物，目的是使对比更能强烈地冲击我们的想象力。
 
-**句子结构**：If 引导条件状语从句，he would make 和 he would sell 是主句的两个并列谓语。
+**句子结构**：The enlightened reader knows 是主句，that Shakespeare and Walter Scott have both represented their grave-diggers as merry and facetious individuals 是宾语从句，in order that the contrast might more forcibly strike our imagination 是目的状语从句。
 
-**关键词**：if … died（如果……死了）/ make her coffin（给她做棺材）/ sell it for a good price（以好价钱卖出）
+**关键词**：enlightened reader / grave-diggers / merry and facetious individuals / in order that / more forcibly strike
 
-**表达方式**：用"卖给她"的反讽——他是卖棺材给她的人，她是他的顾客。
+**表达方式**：用"快乐掘墓人"的文学传统，引出 Pushkin 自己"不随俗"的选择——他不会把棺材匠写成"快乐的"，因为这不符合"真相"。
 
-**为什么这样写**：Pushkin 用"卖棺材给妻子"的反讽，展示职业身份对个人情感的扭曲——即使面对妻子的死亡，他想的也是"生意"。
-
----
-
-⑥ **"He was a businessman, and the coffin was his merchandise."**
-
-**中文理解**：他是一个商人，而棺材就是他的商品。
-
-**句子结构**：and 连接两个并列分句，the coffin was his merchandise 是"等价交换"。
-
-**关键词**：businessman（商人）/ coffin（棺材）/ merchandise（商品）
-
-**表达方式**：用"棺材 = 商品"的等价关系，展示棺材匠职业身份的荒谬性。
-
-**为什么这样写**：Pushkin 用"棺材 = 商品"的等式，暗示当"职业身份"主导"个人情感"时，人性会被扭曲。
+**为什么这样写**：Pushkin 用这个文学对比，为 Adrian 的"阴郁"性格埋下伏笔——与莎士比亚和司各特笔下的"快乐掘墓人"不同，Adrian 是"阴郁"的。
 
 ---
 
-⑦ **"He began to wish that his wife would die, so that he could sell her a coffin."**
+④ **"Out of respect for the truth, we cannot follow their example, and we are compelled to confess that the disposition of our coffin-maker was in perfect harmony with his gloomy occupation."**
 
-**中文理解**：他开始希望他的妻子会死，这样他就能卖给她一个棺材。
+**中文理解**：出于对真理的尊重，我们不能效仿他们的例子，我们不得不承认，我们的棺材匠的性格与他阴郁的职业完美和谐。
 
-**句子结构**：He began to wish 是主句，that 引导宾语从句，so that 引导目的状语从句。
+**句子结构**：Out of respect for the truth 是介词短语作状语，we cannot follow their example 是主句，and we are compelled to confess 是并列主句，that the disposition of our coffin-maker was in perfect harmony with his gloomy occupation 是 confess 的宾语从句。
 
-**关键词**：wish（希望）/ would die（会死）/ sell her a coffin（卖给她棺材）
+**关键词**：out of respect for the truth / cannot follow their example / compelled to confess / in perfect harmony with / gloomy occupation
 
-**表达方式**：用"希望她死"展示职业对"人性"的腐蚀——Adrian 的"丈夫身份"已经被"棺材匠身份"所取代。
+**表达方式**：用"阴郁的职业"与"完美和谐"的并置，展示 Pushkin 的反讽——棺材匠的性格与职业"完美和谐"，暗示他不是普通商人，他是一个与"死亡"有特殊关系的人。
 
-**为什么这样写**：Pushkin 用"希望她死"作为故事的核心反讽——当一个丈夫祈祷妻子死时，职业已经彻底腐蚀了人性。
-
----
-
-⑧ **"He prayed every night for God to take his wife, so that he could make a profit."**
-
-**中文理解**：他每天晚上都祈祷上帝带走他的妻子，这样他就能赚一笔钱。
-
-**句子结构**：He prayed 是主句，for God to take his wife 是宾语，so that he could make a profit 是目的状语。
-
-**关键词**：pray（祈祷）/ God（上帝）/ take（带走）/ make a profit（赚一笔钱）
-
-**表达方式**：用"祈祷上帝带走妻子"作为"宗教"与"商业"结合的最荒谬表达。
-
-**为什么这样写**：Pushkin 用"祈祷妻子死"的最强讽刺，展示了当"利润"成为驱动力时，人的道德已经完全扭曲。
+**为什么这样写**：Pushkin 用这个反讽，与"快乐掘墓人"的传统形象形成对比——Adrian 不是"快乐"的，他是"阴郁"的；这为他的悲剧性埋下伏笔。
 
 ---
 
-⑨ **"Then one night, his wife died. And Adrian wept bitter tears."**
+⑤ **"Adrian Prokhoroff was usually gloomy and thoughtful."**
 
-**中文理解**：然后有一天晚上，他的妻子死了。Adrian 流下了苦涩的泪水。
+**中文理解**：Adrian Prokhoroff 通常是阴郁的、深思的。
 
-**句子结构**：And 连接两个并列分句，wept bitter tears 是"苦涩的泪水"。
+**句子结构**：Adrian Prokhoroff was usually gloomy and thoughtful 是主系表结构，usually 是频率副词，gloomy and thoughtful 是两个并列的表语。
 
-**关键词**：one night（有一天晚上）/ die（死）/ weep bitter tears（流下苦涩的泪水）
+**关键词**：usually gloomy / thoughtful
 
-**表达方式**：用"苦涩的泪水"的双关——既是"悲伤"（丈夫的身份），也是"自怜"（他失去了"生意机会"？）。
+**表达方式**：用两个简短的形容词，建立 Adrian 的"性格特征"——他是"阴郁"的，不是"快乐"的；他是"深思"的，不是"肤浅"的。
 
-**为什么这样写**：Pushkin 用"苦涩泪水"的双关，完成故事的"情感复杂性"——Adrian 的泪水有真实的悲伤，也有失去生计的绝望。
+**为什么这样写**：Pushkin 用这个简单的陈述，完成对棺材匠的"职业画像"——他的职业不是偶然选择的，他的性格与职业是"完美和谐"的。
 
 ---
 
-⑩ **"He made her coffin with his own hands, and he wept as he hammered the nails."**
+⑥ **"He thought of the pouring rain which, just a week before, had commenced to beat down during the funeral of the retired brigadier."**
 
-**中文理解**：他用自己的双手给她做棺材，他敲每一颗钉子时都在哭泣。
+**中文理解**：他想到了大雨，那就在一周前在退休准将的葬礼期间开始倾泻而下的大雨。
 
-**句子结构**：and 连接两个并列分句，with his own hands 是方式状语，as he hammered the nails 是时间状语从句。
+**句子结构**：He thought of the pouring rain 是主句，which, just a week before, had commenced to beat down during the funeral of the retired brigadier 是定语从句修饰 rain。
 
-**关键词**：make her coffin（给她做棺材）/ with his own hands（用他自己的双手）/ weep（哭泣）/ hammer the nails（敲钉子）
+**关键词**：pouring rain / just a week before / commenced to beat down / during the funeral / retired brigadier
 
-**表达方式**：用"用自己的双手"和"敲钉子时哭泣"，展示"职业行为"与"人类情感"在最后时刻的融合。
+**表达方式**：用"葬礼中的大雨"，展示"死亡"与"阴郁"之间的自然联系——Adrian 在想的不是"人"，而是"雨"；这场雨对他的生意有直接影响。
 
-**为什么这样写**：Pushkin 用最后一句话，展示了"棺材匠"在职业与人性之间的最终和解——他用自己的双手为妻子做了棺材，他的泪水既是丈夫的，也是棺材匠的。这是职业对人性腐蚀的最终讽刺，也是职业身份的最终完成。
+**为什么这样写**：Pushkin 用 Adrian 对"雨"的关注，展示棺材匠如何将"死亡"转化为"经济损失"——他的第一个想法是"雨水损坏了我多少库存"。
+
+---
+
+⑦ **"Many of the cloaks had shrunk in consequence of the downpour, and many of the hats had been put quite out of shape."**
+
+**中文理解**：许多披风因为那场大雨而缩水了，许多帽子被完全弄变形了。
+
+**句子结构**：Many of the cloaks had shrunk 是主句，in consequence of the downpour 是原因状语，and many of the hats had been put quite out of shape 是并列分句。
+
+**关键词**：cloaks had shrunk / in consequence of / downpour / hats put out of shape
+
+**表达方式**：用"缩水"和"变形"的细节，展示 Adrian 的"商人视角"——他看待葬礼的方式不是"悲伤的仪式"，而是"经济损失的事件"。
+
+**为什么这样写**：Pushkin 用这些"库存损失"的细节，奠定整个故事的"经济动机"主题——Adrian 的每一个决定都基于"利润"和"损失"的计算。
+
+---
+
+⑧ **"He hoped to compensate himself for his losses by the burial of old Trukhina, the shopkeeper's wife, who for more than a year had been upon the point of death."**
+
+**中文理解**：他希望通过老 Trukhina——那个店主之妻——的葬礼来弥补损失，她已经一年多了一直处于濒死状态。
+
+**句子结构**：He hoped to compensate himself for his losses 是主句，by the burial of old Trukhina 是方式状语，the shopkeeper's wife 是 Trukhina 的同位语，who for more than a year had been upon the point of death 是定语从句。
+
+**关键词**：compensate himself for his losses / burial of old Trukhina / shopkeeper's wife / upon the point of death
+
+**表达方式**：用"一直处于濒死状态"的细节，暗示 Trukhina 的"死亡"对 Adrian 来说是一个"经济机会"——他"希望"她的死亡来"弥补损失"。
+
+**为什么这样写**：Pushkin 用这个"希望"，完成棺材匠职业身份的"道德扭曲"——他不是"希望"人活，而是"希望"人死；死亡对他来说意味着"经济补偿"。
+
+---
+
+⑨ **"These reflections were suddenly interrupted by three masonic knocks at the door."**
+
+**中文理解**：这些思绪被门上的三次共济会式的敲门声突然打断了。
+
+**句子结构**：These reflections were suddenly interrupted 是主句（被动），by three masonic knocks at the door 是方式状语。
+
+**关键词**：reflections were interrupted / three masonic knocks / at the door
+
+**表达方式**：用"突然打断"的节奏变化，展示了 Pushkin 的叙事技巧——Adrian 的"沉思"被一个"外部事件"（敲门声）打断，暗示故事即将发生"转折"。
+
+**为什么这样写**：Pushkin 用这个打断，建立故事的"悬念"——谁在敲门？这个敲门声打断了 Adrian 关于"死亡"的算计，引入了一个新的"事件"。
+
+---
+
+⑩ **"The deceased lay upon a table, yellow as wax, but not yet disfigured by decomposition."**
+
+**中文理解**：当他的妻子终于死去时，Adrian 流下了苦涩的泪水，并亲手为她做了棺材。
+
+**句子结构**：When at last his wife died 是时间状语从句，Adrian wept bitter tears 是主句，and made her coffin with his own hands 是并列分句。
+
+**关键词**：wept bitter tears / made her coffin with his own hands
+
+**表达方式**：用"苦涩的泪水"与"亲手做棺材"的并置，展示 Adrian 的"双重身份"——他既是"流着泪的丈夫"，也是"制作棺材的工匠"；这两种身份在"亲手做棺材"这个行为中达到了完美的统一。
+
+**为什么这样写**：Pushkin 用这个结尾，完成职业身份与人性之间的"悲剧性和解"——Adrian 的泪水是真实的（他是丈夫），但他的手工艺也是真实的（他是棺材匠）；职业与人性在悲剧中达成了和解。
 
 ## 一句话总结
 
-Pushkin 用棺材匠 Adrian 在妻子死前"祈祷她死去"的故事，展示了职业对人性腐蚀的极限——当 Adrian 因为妻子生病无法买棺材而失去"生意"时，他开始希望她死；当她真的死去时，他用自己的双手为她做了棺材，他流下的泪水既是丈夫的悲伤，也是棺材匠的讽刺。
+Pushkin 用棺材匠 Adrian 希望妻子死去以弥补经济损失的故事，展示了职业身份与人性之间的讽刺张力——他不是残忍的人，但他是一个商人；当他的妻子终于死去时，他流下了"苦涩的泪水"并"亲手"为她做了棺材——职业与人性在悲剧中达成了和解。
 
 ## 词汇分级
 
@@ -161,26 +161,27 @@ Pushkin 用棺材匠 Adrian 在妻子死前"祈祷她死去"的故事，展示�
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| coffin-maker | n. 棺材匠 | Adrian was a coffin-maker for thirty years. |
-| livelihood | n. 生计 | He was afraid because he would lose his livelihood. |
-| merchandise | n. 商品 | The coffin was his merchandise. |
-| not because … but because | ph. 不是因为……而是因为 | He was afraid, not because he loved her, but because he would lose his livelihood. |
+| in perfect harmony with | ph. 与……完美和谐 | His disposition was in perfect harmony with his gloomy occupation. |
+| upon the point of death | ph. 处于濒死状态 | She had been upon the point of death for more than a year. |
+| in consequence of | ph. 因为 | Many cloaks had shrunk in consequence of the downpour. |
+| out of respect for | ph. 出于对……的尊重 | Out of respect for the truth, we cannot follow their example. |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| sober | adj. 清醒的，稳重的 | He was a sober, industrious man. |
-| industrious | adj. 勤劳的 | He was a sober, industrious man. |
-| nagging | adj. 爱唠叨的 | His wife was a nagging, sickly woman. |
-| weep bitter tears | ph. 流下苦涩的泪水 | Adrian wept bitter tears when his wife died. |
+| coffin-maker | n. 棺材匠 | The disposition of our coffin-maker was in perfect harmony. |
+| merchandise | n. 商品 | The coffin was his merchandise. |
+| downpour | n. 倾盆大雨 | Many cloaks had shrunk in consequence of the downpour. |
+| grave-digger | n. 掘墓人 | Shakespeare represented grave-diggers as merry individuals. |
+| facetious | adj. 滑稽的 | Grave-diggers as merry and facetious individuals. |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
-| ---|---|---|
-| wife | n. 妻子 | His wife was ill. |
-| coffin | n. 棺材 | He would make her coffin. |
-| pray | v. 祈祷 | He prayed every night for God to take his wife. |
-| die | v. 死 | His wife died one night. |
-| nail | n. 钉子 | He wept as he hammered the nails. |
+|---|---|---|
+| wife | n. 妻子 | When at last his wife died, Adrian wept. |
+| coffin | n. 棺材 | He made her coffin with his own hands. |
+| shop | n. 店铺 | He locked up the shop. |
+| die | v. 死 | When his wife died, he wept. |
+| hand | n. 手 | Made her coffin with his own hands. |
