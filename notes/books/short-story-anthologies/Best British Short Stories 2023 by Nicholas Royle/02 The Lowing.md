@@ -86,7 +86,7 @@ modified: "2026-08-27"
 - 表达方式：感官互换（synesthesia）——认知"轰然作响"，认知有声音的破坏力。
 - 为什么这样写：知识不是温和地到来——它是突然的撞击，discordant and cold。铃声的记忆和现实的沉默之间有不可弥合的裂缝。
 
-**⑩** "He shook himself."
+**⑩** "He shook himself down, billowing white lungfuls of air into the night, his eyes searching the darkness."
 
 - 中文理解：他抖了抖自己。
 - 句子结构：及物动词 + 反身代词——全篇最短的句子之一。

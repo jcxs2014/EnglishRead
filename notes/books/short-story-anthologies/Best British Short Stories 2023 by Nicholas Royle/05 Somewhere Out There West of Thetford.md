@@ -54,7 +54,7 @@ modified: "2026-08-27"
 - 表达方式：叙述者直接介入做价值判断——这是Billy比Mariette更深刻的地方：他看到了孤独，而她只看到了物质。
 - 为什么这样写：solitude vs. need 的区分是全篇的核心道德命题。送牛奶不是慈善，是陪伴的邀请。Billy识别出了这一点。
 
-**⑥** "'Billy ent it? You come round here one night,' she instructed, 'and I'll cook you some eels.'"
+**⑥** "'You come round here one night,' she instructed, as if this was the greatest favour ever done by woman to man, 'and I'll cook you some eels.'"
 
 - 中文理解："你叫比利，对吧？""你哪天过来一趟，"她吩咐道，"我给你做鳗鱼吃。"
 - 句子结构：两个引语——第一句是疑问（确认身份），第二句是命令（发出邀请）；ent it 是英国方言的反问。
