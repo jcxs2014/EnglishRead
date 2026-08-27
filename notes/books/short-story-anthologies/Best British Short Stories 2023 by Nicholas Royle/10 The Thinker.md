@@ -126,6 +126,6 @@ modified: "2026-08-27"
 |---------|------|------|
 | **witch** | 女巫 | Karen was a witch |
 | **barley** | 大麦 | In the middle of the barley |
-| **grunt** | 咕哝声；发牢骚 | Summat or summet（方言"something"） |
+| **thinker** | 深思的人（本篇题眼，反讽） | Summat or summet（方言"something"） |
 | **smelt** | 闻起来（smell 的过去式） | It smelt a bit like a pub |
 | **pacing** | 踱步 | I stood up and started pacing |

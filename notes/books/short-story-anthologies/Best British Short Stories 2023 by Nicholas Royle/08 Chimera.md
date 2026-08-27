@@ -84,7 +84,7 @@ modified: "2026-08-27"
 | **spectral** | 幽灵般的（单句强调） | Spectral. |
 | **unpeopled** | 无人的（正式/文学词汇） | Unpeopled, and vaguely medicinal |
 | **breast bone** | 胸骨（sternum） | You could feel it in your breast bone |
-| **lingerie** | 内衣（法语词，英语发音） | — |
+| **barman** | 调酒师 | The barman stood polishing a pint glass with a white tea-towel |
 
 ### ⭐⭐ 进阶
 

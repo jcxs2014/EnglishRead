@@ -92,8 +92,8 @@ modified: "2026-08-26"
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
 | domestic uncanny | 日常超自然 | The neighbour who cannot be refused entry. |
-| voyeurism | 窥视 | "I've seen you in your garden." |
-| power dynamics | 权力动态 | The kettle and the coffee — hospitality as control. |
+| **well-trimmed** | 修剪整齐的 | his neat silver hair and his well-trimmed moustache |
+| **cardigan** | 开襟毛衣 | his buttoned-up cardigan and his hand, which, when she took it, was cool and dry |
 | liminal space | 阈限空间 | The doorstep — neither in nor out. |
 
 ### ⭐⭐ 进阶

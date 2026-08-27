@@ -92,8 +92,8 @@ modified: "2026-08-26"
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
 | uncanny | 令人不安的，超自然的（弗洛伊德术语）| （本篇属 domestic uncanny 类型） |
-| method of loci | 记忆宫殿法 | The room in his head functions as a method of loci. |
-| unreliable narrator | 不可靠叙述者 | The "to my knowledge" marks unreliable narration. |
+| **paramedics** | 急救医护人员 | The paramedics asked him what was wrong | | The room in his head functions as a method of loci. |
+| **laboured** | 吃力的；费劲的 | He explained in a laboured way that he was a taxi driver | | The "to my knowledge" marks unreliable narration. |
 | liminal | 阈限的，边界状态的 | （未出现，用于词汇表） |
 
 ### ⭐⭐ 进阶
@@ -103,7 +103,7 @@ modified: "2026-08-26"
 | drawer | 抽屉 | The cheap drawer was left slightly open. |
 | passport | 护照 | Our passports were kept one on top of the other. |
 | laboured breathing | 吃力的呼吸 | Explaining in a laboured way that he was a taxi driver. |
-| receptionist | 接待员 | Walking through the quiet reception area at work. |
+| **pyjamas** | 睡衣（英式拼写） | I could see through the window a man in his pyjamas | | Walking through the quiet reception area at work. |
 | rattled | 叮当作响 | The drawer's contents rattling around inside of me. |
 
 ### ⭐ 基础

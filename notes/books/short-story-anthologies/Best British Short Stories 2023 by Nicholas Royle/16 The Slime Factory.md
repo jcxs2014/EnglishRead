@@ -91,11 +91,11 @@ modified: "2026-08-26"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| eco-dystopia | 生态反乌托邦 | The Slime Factory is pure eco-dystopia. |
+| **promotional** | 宣传的；推广的 | The promotional video came out of the blue | | The Slime Factory is pure eco-dystopia. |
 | oligarch | 寡头 | Slavic oligarch Roman Nesterov. |
 | propaganda | 宣传 | Corporate propaganda video. |
-| pastoral | 田园牧歌的 | Pastoral ideal of England. |
-| technocratic | 技术官僚的 | Technocratic utopia. |
+| **eccentric** | 古怪的；怪异的 | The eccentric billionaire had shut himself away inside his research complex |
+| **tubby** | 圆胖的（口语） | looking extraordinarily tubby |
 
 ### ⭐⭐ 进阶
 

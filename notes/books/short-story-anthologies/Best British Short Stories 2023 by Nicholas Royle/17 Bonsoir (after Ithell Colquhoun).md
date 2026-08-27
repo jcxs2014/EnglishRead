@@ -92,10 +92,10 @@ modified: "2026-08-26"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| collage | 拼贴艺术 | Scissors and paste — the raw materials of collage. |
+| **velvet** | 天鹅绒的 | on my door hangs a dark red velvet dress |
 | spell (n.) | 咒语 | Until it becomes like a spell. |
-| cut-up technique | 截断拼贴技术 | Burroughs/Brion Gysin random cutting method. |
-| occult | 神秘学 | Moon's only mansion — occult/astrological term. |
+| **spell** | 咒语；魔咒（双关：既是念咒，也是写作本身） | until it becomes like a spell |
+| **moon's only mansion** | 月亮唯一的宅邸（原文隐喻性短语，指月亮/夜晚本身） | powdered face, perfumed wrists, moon's only mansion, o sweet Andromeda |
 | liminal | 阈限的 | The door — liminal space between in and out. |
 
 ### ⭐⭐ 进阶

@@ -91,10 +91,10 @@ modified: "2026-08-26"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| deliberation | 深思熟虑，审议 | I deliberated for so long that I missed the chance. |
+| deliberated | 深思熟虑，犹豫不决 | And yet I deliberated for so long that I altogether missed the chance to go to the Trafford Centre. |
 | trauma | 创伤 | The misery and violence of his teenage years. |
 | witness (v.) | 见证 | I had been a witness to misery and violence. |
-| dissociation | 解离 | Trapped in the flat, unable to go anywhere. |
+| contemplation | 沉思，反思 | I learned tonight when, after long contemplation, I decided to leave my flat. |
 | class violence | 阶级暴力 | The violence of teenage Hayfield. |
 
 ### ⭐⭐ 进阶

@@ -107,8 +107,8 @@ Billy用一盒牛奶、一包消化饼和一碗鳗鱼，无声地建造了一座
 | **gnarled** | 粗糙多节的（树纹/人皮纹） | A tall, gnarled woman who looked as if she had been carved out of a tree |
 | **disintegrating** | 解体，腐烂 | The floor was slowly disintegrating into the mould |
 | **escarpment** | 陡坡，断崖 | They looked like medieval sentries on the escarpment |
-| **breach** | 违背；突破 | — |
-| **debateable lands** | 争议之地（边境，历史词） | The debatable lands where warring armies lurked |
+| **barbed-wire** | 带刺铁丝网 | Mrs Grote lived ... beneath the overhang of the elm trees. |
+| **Breckland** | 英格兰东部沼泽/荒野地带（诺福克-萨福克交界的荒凉区） | The wind chimes rattled constantly in the Breckland gales |（边境，历史词） | The debatable lands where warring armies lurked |
 
 ### ⭐⭐ 进阶
 

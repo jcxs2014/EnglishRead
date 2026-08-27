@@ -91,10 +91,10 @@ modified: "2026-08-26"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| surreality / surrealism | 超现实 | Tower block walking is pure surrealism. |
+| **hangovered** | 宿醉的 | Richie was scooping his hangovered behind out of an acquaintance's yard | | Tower block walking is pure surrealism. |
 | concertina | 手风琴（拟象比喻） | Like climbing a concertina up to Floor 29. |
-| carnivalesque | 嘉年华式的，颠覆性的 | （未出现） |
-| bathos | 突降法（高潮后的突然平淡）| Hysterically funny after near disaster. |
+| **hysterically** | 歇斯底里地；夸张地 | Last night it had seemed hysterically funny getting up to Floor 29 |
+| **concertina** | 手风琴（此处用作比喻：挤成一团） | like climbing a concertina || Hysterically funny after near disaster. |
 
 ### ⭐⭐ 进阶
 

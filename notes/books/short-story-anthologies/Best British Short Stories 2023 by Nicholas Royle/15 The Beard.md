@@ -92,7 +92,7 @@ modified: "2026-08-26"
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
 | body politics | 身体政治 | Beard volume = power: pure body politics. |
-| totalitarian aesthetic | 极权美学 | "Down like dominoes" — the totalitarian aesthetic of control. |
+| **shuffles** | 拖沓着走；蹒跚 | he shuffles in his cluster of thick, black, woollen robes | | thick, black, woollen **robes** | 厚重黑色羊毛长袍 | |
 | ritual cuts | 仪式性切割 | Thirty ritual cuts to forearms and calves. |
 | uncanny | 令人不安的超自然 | （未出现） |
 

@@ -95,7 +95,7 @@ modified: "2026-08-26"
 | sprawling | 蔓延的，无序扩展的 | The background was sprawling and difficult to comprehend. |
 | down (n.) | 细绒毛，桃毛 | The light touched the cheeks and exposed the down on them. |
 | comely | 标致的，容貌秀丽的 | （未出现在本篇，用于词汇表） |
-| flora/fauna | 植物群/动物群 | （本篇未出现） |
+| **foreground** | 前景（艺术构图术语） | From here, the primrose was the whole foreground | |
 
 ### ⭐⭐ 进阶
 
@@ -114,7 +114,7 @@ modified: "2026-08-26"
 | break time | 课间休息 | The girls at break time had a thing about primroses. |
 | cheek | 脸颊 | The light touched the girls' cheeks. |
 | arm-in-arm | 挽着胳膊 | They walked arm-in-arm around the trunk. |
-| barefoot | 光脚的 | （未出现在本篇） |
+| exposed | 显露；揭开 | The light touched the girls' cheeks and exposed the down on them. |
 | lime tree | 酸橙树（欧洲常见行道树）| The first primrose under the lime tree. |
 
 ## 一句话总结

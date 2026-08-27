@@ -92,10 +92,10 @@ modified: "2026-08-26"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| anamnesis | 记忆，追忆 | Memory as anamnesis — the past surfaces unbidden. |
+| **bridleway** | 徒步与骑马两用道（英式道路分类） | I pulled in before the bridleway and walked to the lookout |
 | elegy | 挽歌 | The reservoir as elegiac landscape. |
-| palimpsest | 羊皮纸手稿 | The landscape as palimpsest — old and new overlaid. |
-| epitaph | 墓志铭 | （未出现） |
+| **embankment** | 堤坝；河岸 | just an old man crossing the embankment |
+| **bracken-clad** | 蕨草覆盖的 | the wind plait myriad reflections of the bracken-clad hills |
 
 ### ⭐⭐ 进阶
 

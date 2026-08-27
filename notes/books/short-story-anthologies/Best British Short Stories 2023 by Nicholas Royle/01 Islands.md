@@ -104,7 +104,7 @@ modified: "2026-08-27"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| **one time**（Caribbean） | 从前（= once upon a time） | Islands one time, a daughter was born… |
+| **one time** | 从前（= once upon a time） | Islands one time, a daughter was born… |
 | **a stick of choice** | 挑选用的一根好棍子（体罚委婉语） | Don't tell the mother in case she get a beating with a stick of choice |
 | **if it wasn't for N** | 要不是有了 N（虚拟条件） | She thought she could manage if it wasn't for the mother and father having more daughters and a son |
 | **book learning** | 书本知识（区别于劳作实践，含阶级色彩） | No money for school to get the book learning she loved |
