@@ -29,7 +29,7 @@ modified: "2026-08-27"
 
 > **原句 1:** Nothing. Nothing. Nothing.
 
-**中文理解**：男孩回答父亲"你吞了什么？"时说的三个"Nothing"——这是他最后说出的词，也是他失去声音的开始。
+**中文理解**："没什么。没什么。没什么。"
 
 **句子结构**：三个相同的词重复，节奏沉重，像心跳停止。
 
@@ -43,7 +43,7 @@ modified: "2026-08-27"
 
 > **原句 2:** A sound that belongs to me but is broken.
 
-**中文理解**：叙述者描述自己的声音——属于他，但已经破碎。
+**中文理解**："一个属于我但已经破碎的声音。"
 
 **句子结构**：两个短语形成对比——"belongs to me" vs "is broken"。
 
@@ -57,7 +57,7 @@ modified: "2026-08-27"
 
 > **原句 3:** The problem is not that I can't speak; the problem is that because I don't speak, he won't look at me.
 
-**中文理解**：男孩的核心痛苦——不是不能说话，而是因为不说话，父亲就不看他。
+**中文理解**："男孩的核心痛苦——不是不能说话，而是因为不说话，父亲就不看他。"
 
 **句子结构**：两个"problem"形成对比，第二个更深层。
 
@@ -71,7 +71,7 @@ modified: "2026-08-27"
 
 > **原句 4:** If something happens, he will save me. If something happens, he will come to wherever I am and he'll save me.
 
-**中文理解**：男孩对父亲的信任——如果发生什么事，父亲会来救他。
+**中文理解**："男孩对父亲的信任——如果发生什么事，父亲会来救他。"
 
 **句子结构**：两个"If something happens"形成重复，强调信任的深度。
 
@@ -85,7 +85,7 @@ modified: "2026-08-27"
 
 > **原句 5:** Everything that wounds me hardens her.
 
-**中文理解**：母亲的反应——一切伤害男孩的东西都让她变得坚硬。
+**中文理解**："母亲的反应——一切伤害男孩的东西都让她变得坚硬。"
 
 **句子结构**：简短的陈述句，语气坚定。
 
@@ -99,7 +99,7 @@ modified: "2026-08-27"
 
 > **原句 6:** He has lost a capacity whose circuit is also connected to his embrace.
 
-**中文理解**：父亲失去的能力——不仅无法说话，也无法拥抱。
+**中文理解**："父亲失去的能力——不仅无法说话，也无法拥抱。"
 
 **句子结构**：长句，用"circuit"这个技术术语来描述情感连接。
 
@@ -113,7 +113,7 @@ modified: "2026-08-27"
 
 > **原句 7:** See how fast I always give you what you ask for?
 
-**中文理解**：Morris 的挑衅——你看我总是很快给你你想要的？
+**中文理解**："Morris 的挑衅——你看我总是很快给你你想要的？"
 
 **句子结构**：反问句，语气挑衅。
 
@@ -127,7 +127,7 @@ modified: "2026-08-27"
 
 > **原句 8:** I know something happened.
 
-**中文理解**：父亲的指控——他知道发生了什么。
+**中文理解**："父亲的指控——他知道发生了什么。"
 
 **句子结构**：简短的陈述句，语气坚定。
 
@@ -141,7 +141,7 @@ modified: "2026-08-27"
 
 > **原句 9:** I pretended to dial and I let him do his thing.
 
-**中文理解**：Morris 的解释——他假装拨号，让男孩做他的事。
+**中文理解**："Morris 的解释——他假装拨号，让男孩做他的事。"
 
 **句子结构**：两个动词形成并列——"pretended" vs "let him"。
 
@@ -155,7 +155,7 @@ modified: "2026-08-27"
 
 > **原句 10:** I put my finger inside that hole that's like an eye, and I touch inside. I touch my father inside, and I let him go.
 
-**中文理解**：叙述者在父亲去世后，用手指触摸喉咙里的"眼睛"，与父亲和解。
+**中文理解**："叙述者在父亲去世后，用手指触摸喉咙里的'眼睛'，与父亲和解。"
 
 **句子结构**：三个句子形成递进——put → touch → let go。
 
