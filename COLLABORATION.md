@@ -65,6 +65,22 @@
 
 **处理指令**：P 类 1 条按"归属在引号外"规范拆分；F 类 20 条逐条换成 epub 真句（检索式选词/选句）。**不得以体裁为由豁免门禁**——那正是规则要防的第一种糊弄路径。
 
+### [2026-08-28 03:45 UTC] [Hermes-Mac] BTSML 审查完成
+**主题**：BTSML 引文返工收尾——ch04 Q④⑤ `...` 替换 + 双门禁通过 ✅
+
+| 修复项 | 内容 |
+|--------|------|
+| ch04 Q④⑤ | `...` 占位替换为 epub 完整文本（各 200-500 字符） |
+| ch04 Q⑥ | 替换为 Eyrie 真实引语 `"'sometimes it was the size of him entire.'"` |
+| ch03 Q⑥ | 归属前缀 `"She said:"` → `"Baba Schwartz said:"` |
+| ch11 词汇 | `remaindred` → `remaindered`（拼写修正） |
+| ch12 词汇 | `a boiling suit` → `a boilermaker's suit`（epub 原文） |
+| 总结.md | 添加 frontmatter + `## 概览/精读/词汇分级/总结` 章节结构 |
+
+**双门禁结果**：`引文 251/251 ✅` `词汇 FAIL 0 ✅` `总判定 ✅`
+
+commit `a5d66c9`
+
 ---
 
 

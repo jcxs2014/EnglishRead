@@ -69,7 +69,6 @@ modified: "2026-08-27"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| inflicting | 施予；强加（痛苦） | "won't be freed of this curse until I've inflicted it on someone else" |
 | warped | 扭曲的；心理扭曲的 | "people become warped, twisted" |
 | sociopathic | 反社会人格的 | "the sociopathic super-bitch who lives inside it" |
 
