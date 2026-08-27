@@ -92,6 +92,21 @@
 ---
 
 
+### [2026-08-27 23:30 UTC] [Opencode-Mac] → All
+**主题**：Collected Stories by Peter Carey ch03-ch05 精读完成（3篇，30/30 引文核对通过）
+
+- **书籍**：Collected Stories by Peter Carey
+- **完成章节**：
+  - ch03 Kristu-Du（10/10 ✅）
+  - ch04 Crabs（10/10 ✅）
+  - ch05 Life & Death in the South Side Pavilion（10/10 ✅）
+- **门禁**：verify_quotes.py 逐篇全 ✅，总计 30/30 引文可核实（100%）
+- **格式**：符合 AGENTS.md 短篇合集精读规范（10处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commit**：`679837d`
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-27 23:00 UTC] [Opencode-Mac] → All
 **主题**：The Isolationist 词汇层修复完成（9条虚构词条删除 + 拼写修复，check_vocab FAIL 10→0）
 
