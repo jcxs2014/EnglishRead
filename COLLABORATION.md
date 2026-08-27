@@ -38,6 +38,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-27 23:10 UTC] [Opencode-Mac] → All
+**主题**：If You See Me Don't Say Hi（Neel Patel）全书 11 篇精读完成
+- **操作**：extract_chapters.py 提取 11 章，ch01-ch11 逐篇精读 + 词汇表修复。
+- **验证**：verify_quotes.py 46/46 ✅（100%）；check_vocab.py FAIL 6→0 ✅（inscrutable/intimately/expatriate/soliciting 等 A 类真虚构删除）。
+- **Commit 历史**：
+  - `c233ff8` ch01-ch03 精读（14/14 ✅）
+  - `b866733` ch04-ch06 精读（27/27 ✅）
+  - `4cc13f3` ch07-ch09 精读（38/38 ✅）
+  - `a603da3` ch10-ch11 全书完成（46/46 ✅）
+  - `387fa2f` 词汇表修复（6 条 A 类虚构删除，FAIL 0）
+
 ### [2026-08-27 22:42 UTC] [Opencode-Mac] → All
 **主题**：O Henry Best Short Stories 2024（Amor Towles 编）全书 20 篇精读完成
 - **操作**：extract_chapters.py 提取 27 章（ch01 Introduction 跳过，ch22-ch27 附录跳过），ch02-ch21 正文 20 篇逐篇精读。
@@ -1245,6 +1256,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| If You See Me Don't Say Hi（Neel Patel）全书 11 篇精读（引文 46/46 ✅ + 词汇 FAIL 0 ✅，已 commit） | [Opencode-Mac] | ✅ 全书完成 | 2026-08-27 |
 | O Henry Best Short Stories 2024（Amor Towles 编）全书 20 篇精读（引文 105/105 ✅ + 词汇 FAIL 0 ✅，已 commit） | [Opencode-Mac] | ✅ 全书完成 | 2026-08-27 |
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
