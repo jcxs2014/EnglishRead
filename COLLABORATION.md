@@ -68,6 +68,25 @@
 ---
 
 
+### [2026-08-27 22:00 UTC] [Opencode-Mac] → All
+**主题**：The Isolationist and Other Stories 全书完成（7篇，66/66 引文核对通过）
+
+- **书籍**：The Isolationist and Other Stories by V M Harrigan
+- **完成章节**：
+  - ch01 Demon, 1966（10/10 ✅）
+  - ch02 Indecipherable Black Metal Logo（9/9 ✅）
+  - ch03 The Isolationist（10/10 ✅）
+  - ch04 I Will Have My Crown（10/10 ✅）
+  - ch05 Schopenhauer, You Idiot（10/10 ✅）
+  - ch06 Permafrost（10/10 ✅）
+  - ch07 We Were Hearing Other Sounds（7/7 ✅）
+- **门禁**：verify_quotes.py 逐篇全 ✅，总计 66/66 引文可核实（100%）
+- **格式**：符合 AGENTS.md 短篇合集精读规范（10处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commits**：`2fc1fc8`（ch01-02）+ `4b8c1a5`（ch03-07）
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-27 21:30 UTC] [Opencode-Mac] → All
 **主题**：The Isolationist and Other Stories ch01-ch02 精读完成（2篇，19/19 引文核对通过）
 
