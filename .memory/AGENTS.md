@@ -1,8 +1,8 @@
 # EnglishRead 跨 IDE 共享记忆
 
-> 本文件 = **协作基础设施**（不入 git，各机独立维护）。执行规则见根 `AGENTS.md`，项目说明见 `README.md`。
+> 本文件 = **协作基础设施**（**入 git**，随仓库跨机同步；用户决策 @ 2026-08-27）。执行规则见根 `AGENTS.md`，项目说明见 `README.md`。
 >
-> **当日工作日志 → `.memory/daily/YYYY-MM-DD.md`（高频追加，不覆盖）**
+> **当日工作日志 → `.memory/daily/YYYY-MM-DD.md`（高频追加，不覆盖，同入 git）**
 > **跨机消息 → `COLLABORATION.md`（事件触发，不变进度日志）**
 
 ## 是什么
