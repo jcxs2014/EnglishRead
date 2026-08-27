@@ -871,6 +871,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | The Isolationist（Harrigan）全书 7 篇精读（引文 66/66 ✅ + 词汇 FAIL 清零 ✅，已验收） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | 100 Great ch03-74 引文返工（ZCode-Mac 已验收：60/60 逐章严格通过；ch75-99 归另一会话，余 6 篇） | [Hermes-Mac] | ✅ 已验收关闭 | 2026-08-27 |
+| 100 Great ch75-99 引文返工（25篇全部完成：ch75-94 本会话返工 10/10✅，ch95-99 基线已绿；verify 900/900=100%；valiantly 词汇拼写修复；已 commit `8aa8726`） | [Hermes-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Best British Short Stories 2023 引文整改（引文 188/188 全绿✅；收尾：text/旧管线20文件已删(chapter_text)；词汇表6词确认 epub 不存在待重建；ch16 编号①=⑦重复属书写规范问题） | [Hermes-Mac] | ✅ 已完成 | 2026-08-27 |
 | The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
