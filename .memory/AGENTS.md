@@ -79,3 +79,23 @@
 - **scripts 目录（2026-08-27 commit `b5416ab`）**：5个 untracked 脚本入库（chapter_text.py / pick_cands.py⭐ / check_one.py / check_chapter_quotes.py⭐⭐ / check_candidate.py）。整合路线：①合并 check_chapter_quotes 入 verify_quotes（--per-chapter）；②pick_cands 纳入正式选句流程；③解绑硬编码路径；④统一从 verify_quotes 导入 extract_quotes/flat_alpha。
 - **100 Great Short Stories**：全量实测 174/838=21%，干净仅 15/99；已下发任务书 `docs/REWORK_INSTRUCTION_100GREAT.md` 指派 [Hermes-Mac] 返工约 84 篇（🔄 进行中）。
 - **The Love Hypothesis**：抽查真实可信，暂保留；词汇分档待优化。
+
+### 精读格式规范（2026-08-26 定稿）
+
+| 体裁 | 格式 |
+|------|------|
+| 言情/情感小说（长篇） | 逐章精读 + 3 篇总览（概述/金句/情感节点） |
+| 推理/悬疑/奇幻小说（长篇） | 逐章精读（精简格式，引语块 ≤4 行） |
+| 言情/恐怖短篇合集 | 逐篇精读（10块 + 五子项 + 三档词汇 + 一句话总结） |
+| 随笔/书评集 | 逐篇精读（1 H1 + 4 H2） |
+| 非虚构论述 | 逐章精读 + 论证结构分析 |
+
+**文件名唯一分隔符**：单空格（禁止 `_` `-` `'` 等特殊字符）；标点全部去除。
+
+### git 与协作规则
+- `git add` 只加本任务明确路径（禁 `-A` / `.`），commit 前检查 `git status` 防混入他实例修改
+- COLLABORATION.md 看板更新：**追加到表格末尾**（用最后一行作锚点 patch），禁止中间插入
+- 重复填充修复：**必须一篇一篇手动修**，拒绝脚本批量处理
+- push 前先拉取远程（`git pull`），避免分叉；批次进行中不自动 push
+- `.src.md` 原文文件被 `.gitignore` 忽略，勿强行 add
+- **跨机同步**：FreeFileSync 已取消（2026-08-25），完全靠 git 仓库沟通；`.memory/` 入 git 两机都能 pull；跨机决策走 COLLABORATION.md，本机工作规则写 `.memory/AGENTS.md`
