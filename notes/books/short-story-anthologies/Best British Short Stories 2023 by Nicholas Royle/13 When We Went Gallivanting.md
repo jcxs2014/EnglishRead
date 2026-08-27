@@ -50,12 +50,12 @@ modified: "2026-08-26"
 - **为什么这样写**：对话简短到几乎像戏剧。女人已经知道发生了什么（她给塔楼命名了"Athena Righteous-Fury"），而 Richie 还蒙在鼓里。信息差是喜剧和悬念的双重来源。
 - **读者视角提示**：Richie 的"What?"是他贯穿全文的反应模式——他永远在追赶现实，而不是预见现实。
 
-⑥ "'– You feel that?'" and a sudden, meaty stench, as if they'd been rammed face-first into a butcher's shop."
+⑥ "– You feel that? asked the woman.\n\n– What? said Richie.\n\nHer reply was drowned out by a yawning, squealing metal sound, like all the cutlery in the world scraped against corrugated iron, and a sudden, meaty stench, as if they'd been rammed face-first into a butcher's shop."
 
-- **中文理解**：——"你感觉到吗？"然后一股突如其来的血腥味，好像他们被人正面撞进了一家肉店。
-- **关键词**：**meaty stench**（血肉的腐臭——紧接着塔楼开始移动，暗示建筑在"死亡"或"杀戮"）；**rammed face-first**（脸先撞进去——暴力的意象）；**butcher's shop**（肉店——工业化的死亡场所）
-- **为什么这样写**：超现实主义的一个核心技巧：用具体的、感官的细节来呈现抽象概念。"meaty stench"是死亡最直接的感知形式。塔楼在移动时散发出这种味道——它不是无生命的石头和混凝土，它在"呼吸"（前一页的"meat"隐喻）。
-- **读者视角提示**：这段描写的感官顺序：震动（听觉）→金属尖叫声（听觉）→血腥味（嗅觉）→视觉（塔楼在走）——这是沉浸式叙事的标准感官序列。
+- **中文理解**：女邻居问"你感觉到了吗？"，Richie 答"什么？"，然后她的回答被金属刮擦声淹没——突然一股血腥味，好像他们被正面撞进了一家肉店。
+- **关键词**：**asked the woman**（女邻居发问——她已知道塔楼会移动）；**yawning, squealing metal**（金属的哈欠声/尖叫声——塔楼行走的拟声）；**meaty stench**（血腥味——超现实主义的嗅觉意象）
+- **为什么这样写**：这一段用听觉→嗅觉的感官链代替视觉：塔楼移动时先被听见，再被闻到。金属刮擦声是工业化的死亡之音（"cutlery in the world"极言其普遍性），血腥味是"butcher's shop"——工业化屠宰隐喻。
+- **读者视角提示**：注意句式的压缩——"Her reply was drowned out"打断了直接引语的流畅性，制造出声音被淹没的真实感。
 
 ⑦ "The tower block began to move forward. Gaping, wordlessly screaming, Richie glared over the edge."
 

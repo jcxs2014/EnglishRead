@@ -54,13 +54,13 @@ modified: "2026-08-27"
 - 表达方式：名词密集堆叠——cogs and shafts, gears and pawls——工整的四字结构，模仿机械内部的几何秩序。
 - 为什么这样写：这是全文最技术性的段落，也是幽默的伏笔。不同排列=不同方程=不同噪音序列，而"独特"意味着可以被辨识——这正是玛莎计划的物理基础。
 
-**⑥** "'I need to leave on time today,' she said. Her brow was thoughtful. 'It's just that when that minute hand reaches ten past five I feel like a delinquent schoolgirl kept in detention,' she said."
+**⑥ "'I need to leave on time today,' she said. Her brow was thoughtful. 'For no reason in particular. It's just that when that minute hand reaches ten past five I feel like a delinquent schoolgirl kept in detention,' she said."
 
-- 中文理解："我今天必须准时离开，"她说。她的眉头若有所思。"我就是觉得——当时针走到五点十分时，我像个被留堂的坏女生，"她说。
-- 句子结构：直接引语嵌套——玛莎说，然后叙述者描述她的神态，然后玛莎又说（重复"I said"效果 = 强调）。
-- 关键词：**thoughtful brow**（若有所思——她在策划什么）；**delinquent schoolgirl kept in detention**（留堂的坏女生——对权威的隐秘反抗，她的人生档案）
-- 表达方式：重复引语框架（she said / she said）——话痨式引用，玛莎说两遍的话比说一遍更重要。
-- 为什么这样写：玛莎用"留堂"来表达不满——这揭示了她的过去，也暗示她的反抗有迹可寻。她不是临时起意，是有前科的叛逆者。
+- **中文理解**：玛莎说她必须准时离开（原因不明），然后若有所思地补充说——每到五点十分，她就觉得自己像个被留堂的坏女生。"For no reason in particular"是她对自己焦虑的自我辩护。
+- **句子结构**：直接引语中插入叙述者动作描写（Her brow was thoughtful）——小说中常见的"话打断"（speech interrupted by action），制造真实感；"For no reason"打断了引语的流畅性，体现真实对话中的犹豫。
+- **关键词**：**For no reason in particular**（没什么特别的原因——对自己情绪的合理性辩护）；**delinquent schoolgirl**（留堂的坏女生——成人躯体里的未成年感受）；**minute hand reaches ten past five**（五点十分——准时下班的执念）
+- **表达方式**：玛莎用具体的学校意象（留堂）来描述对时间秩序的焦虑——成年人的工作焦虑被翻译成学校规则的语言。
+- **为什么这样写**：玛莎的时间焦虑在此被具体化为一个隐喻：时钟不只是时钟，它是监管她的权力机构，而她永远在"留堂"中。五点十分是她的刑期。
 
 **⑦** "'Come five o'clock we have to find some way to stay his pitch,' she muttered."
 

@@ -70,7 +70,7 @@ modified: "2026-08-27"
 - 表达方式：叙述者对自己劳作的描述——她为他做的一切都是保护性的：帘子、针线、橘子、倾听。她是革命者背后沉默的照料者。
 - 为什么这样写：公共人物需要私人空间——叙述者用帘子为罗伯斯庇尔建造了一个历史叙事不允许存在的私密角落。
 
-**⑧** "I hated Condorcet for saying he led a sect among women, that he was a priest at the head of his worshippers."
+⑧ "I hated Condorcet for saying he led a sect among women, that there were always women around him, that he was a priest at the head of his worshippers."
 
 - 中文理解：我憎恨孔多塞，因为他竟敢说罗伯斯庇尔领导着一个女性圈子，说他像个牧师，身边围着一群信徒。
 - 句子结构：主句 I hated Condorcet + for 引导原因状语（两个 that-clause 并列）。

@@ -64,12 +64,12 @@ modified: "2026-08-26"
 - **为什么这样写**：叙述者发现：他记得最清楚的东西恰恰是那些他已经失去的东西。抽屉、五斗柜、房间——这些是记忆宫殿（method of loci）的组成部分，构成了他的内心地图。"well defined"与前文的"approaching the reality"形成对比——记忆可以是清晰的，但那是人为美化的清晰。
 - **读者视角提示**：这种"记忆比现实更清晰"的悖论是理解不可靠叙述的关键工具。
 
-⑧ "'Some days I found it slightly open, others I was convinced it was firmly shut. But I could never be sure.'"
+⑧ "Some days I found it slightly open, others sticking out of the cabinet like someone had opened it fully in a rush, and then, more often than not, tightly closed, pushed deep into the drawer's enclosure."
 
-- **中文理解**："有些日子我发现它微微开着，其他日子我确信它是紧紧关着的。但我永远无法确定。"
-- **关键词**：**some days... others**（反复出现的时间模式）；**firmly shut**（紧紧关着——与"slightly open"对立）；**never be sure**（永远无法确定——记忆的永恒困境）
-- **为什么这样写**：这句话是全篇的认知核心。抽屉在记忆中是"有时开有时关"——这是真实记忆的特征，还是强迫症式的执念？叙述者用具体的日常细节来定位一个他永远无法解决的认知困境。
-- **读者视角提示**：这种二元对立（open/shut, some days/others）贯穿全文，是理解叙述者心理状态的关键。
+- **中文理解**：有些日子我发现它微微开着，其他日子它从柜子里伸出来，像有人匆匆打开后又往里塞了回去，然后大多数时候，它又被紧紧推进抽屉深处，关得严严实实。
+- **关键词**：**sticking out of the cabinet**（从柜子里伸出来——被翻过的痕迹）；**more often than not**（大多数时候）；**tightly closed, pushed deep**（紧紧推进深处——被动过的抽屉）
+- **为什么这样写**：这段引文比原来的版本更具体：不是"有时开着有时关着"的抽象概括，而是"有时微微开着、有时从柜子里突出来、有时被紧紧塞进深处"的物理描述。这更符合叙述者作为"记忆侦探"的偏执视角——他在测量抽屉被翻动的物理痕迹。
+- **读者视角提示**：注意被动语态——抽屉被"推"（pushed）进深处，而不是主动关上。这是强迫症患者的具体物理描述，不是隐喻。
 
 ⑨ "'I suspect that other people can hear the drawer's contents rattling around inside of me while I walk through the quiet reception area at work.'"
 
