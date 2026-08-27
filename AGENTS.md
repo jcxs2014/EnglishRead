@@ -123,20 +123,24 @@
 
 1. **原文先行**：精读任何书籍篇章前，必须先把该章原文放入上下文——从 `library/*.epub` 按章提取纯文本存 `text/ch<NN>_<slug>.txt`（text/ 已 gitignore）。**禁止凭记忆引用原句**。
 2. **引文逐字**：精读文件中所有英文引语必须逐字取自提取文本；需省略中间文字用 `…` 且省略号两侧都必须是原词。改写式的"意思对了"不算数。
-3. **提交门禁**：书籍批次 commit 前必须跑核对脚本并全绿：
+3. **提交门禁（三件套全绿）**：书籍批次 commit 前必须依次跑三个检测器，任一 ❌ 回炉后才可 commit：
 
    ```bash
-   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>"
+   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>"      # 引文逐字（每篇 10/10 ✅）
+   python3 scripts/check_vocab.py "<书目录>"                     # 词汇表词条真实性（FAIL=0）
+   python3 scripts/check_entities.py "<书目录>"                  # 梗概实体一致性（未知实体=0）
    ```
 
-   每篇须 `10/10 ✅`（引语块不足十处的篇目按实际数量全命中），任一 ❌ 回炉后才可 commit。
+   有 text/ 逐章提取件的批次，加跑 `check_chapter_quotes.py` 逐章严格校验（引语必须命中**该章自己的**提取件，防跨故事搬句）。
 4. **多实例并行保护**：本机多 IDE 共目录作业——`git add` 只加本任务明确路径清单，**禁止 `git add -A` / `git add .`**；写 COLLABORATION.md 前先重读最新版防覆写丢消息。
 
-4. **梗概与词汇同受原文约束**（脚本不覆盖这两层，属人工自查区）：
+5. **梗概与词汇同受原文约束**（check_vocab / check_entities 已机械化，此条定义 FAIL 的处理规范）：
    - 故事梗概、作者归属必须能在提取文本中找到支撑（人名、地名、事件），禁止凭印象补情节——待确信的信息宁可去 COLLABORATION.md 提问，不许猜；
-   - 词汇表词条与例句须出自原文（自造例句仅允许用 `<原句>` 中真实出现过的短语组合），分档不许注水（常见词混入 ⭐⭐⭐ 高级档视为不合格）。
-5. **批次节奏**：一次会话处理 ≤5 篇，写完立即跑核验——连续大量生成后期质量必然衰减（Book Lovers / 100 Great 两次实证），宁少不凑。
-6. **任务边界**：多实例并行时，精读文件由指派的负责人修改；其他实例发现问题时**只输出核对报告并在 COLLABORATION.md 留言**，不直接改动他人负责的文件。
+   - 词汇表词条与例句须出自原文（自造例句仅允许用 `<原句>` 中真实出现过的短语组合），分档不许注水（常见词混入 ⭐⭐⭐ 高级档视为不合格）；
+   - **FAIL 的 A/B 裁决**：check_vocab 报 FAIL 时，先以 epub 展平全文终极裁决——epub 也查无 = A 类真虚构，换文中真实词；epub 有而 text/ 缺 = B 类语料缺失，优先改用文中真实词形（如 intoxicated 替代 intoxication），或重跑 `extract_chapters.py` 修复提取覆盖。禁止不裁决直接删词条了事；
+   - 实证背景：Schweblin 批次（引文全绿、词汇 7 条虚构）与 Isolationist 批次（10 FAIL 分 A/B）证明**引文门禁全绿不代表词汇层干净**，两道门都不可省。
+6. **批次节奏**：一次会话处理 ≤5 篇，写完立即跑核验——连续大量生成后期质量必然衰减（Book Lovers / 100 Great 两次实证），宁少不凑。
+7. **任务边界**：多实例并行时，精读文件由指派的负责人修改；其他实例发现问题时**只输出核对报告并在 COLLABORATION.md 留言**，不直接改动他人负责的文件。
 
 ### 配套工具链（scripts/，2026-08-27 固化）
 
@@ -146,6 +150,8 @@
 | `verify_quotes.py` | 引语块逐字核对门禁 | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
+| `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句，100 Great 专用） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
+| `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账 B 引文 C 格式 D 词汇实体） |
 
 规则：书籍批次 commit 前至少跑完 1→2；3–5 用于自查与验收。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
