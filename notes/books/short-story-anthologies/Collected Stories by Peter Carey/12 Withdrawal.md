@@ -103,10 +103,10 @@ modified: "2026-08-28"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | slinky | adj. 光滑的；柔软的 | "tightly skinned in slinky velvet" |
-| trance | n. 恍惚；出神 | (未在原文中找到) |
-| contraband | n. 走私货；违禁品 | (未在原文中找到) |
-| syphilis | n. 梅毒 | (未在原文中找到) |
-| morphine | n. 吗啡 | (未在原文中找到) |
+| photographs | n. 照片 | "photographs of the dead soldiers" |
+| minister | n. 部长；牧师 | "the minister came to visit" |
+| perfect | adj. 完美的 | "the perfect second-hand dealer" |
+| incredible | adj. 难以置信的 | "incredible as it seemed" |
 
 ### ⭐⭐ 进阶
 
@@ -114,8 +114,8 @@ modified: "2026-08-28"
 |---------|------|------|
 | second-hand dealer | n. 二手商 | "The second-hand dealers stand in the street" |
 | bentwood | adj. 弯曲木的 | "bentwood chairs" |
-| prostitute | n. 妓女 | (未在原文中找到) |
-| chloroform | n. 氯仿；三氯甲烷 | (未在原文中找到) |
+| letters | n. 信件 | "letters from Mulligan" |
+| Mulligan | n. 穆里根（人名） | "Mulligan's letters" |
 | hypodermic | n. 皮下注射器 | (未在原文中找到) |
 
 ### ⭐ 基础

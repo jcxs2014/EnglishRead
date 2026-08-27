@@ -187,7 +187,7 @@ modified: "2026-08-27"
 | cistern | n. 水箱；蓄水池 | "threw the small pieces of string down the cistern" |
 | listless | adj. 无精打采的；倦怠的 | "spent many listless hours by himself" |
 | disdain | n. 轻视；鄙视 | "he interpreted his passivity as disdain" |
-| obscuration | n. 模糊；晦涩 | (未在原文中找到，可能需要检查) |
+| performance | n. 表演 | "The performance was a masterpiece" |
 
 ### ⭐ 基础
 

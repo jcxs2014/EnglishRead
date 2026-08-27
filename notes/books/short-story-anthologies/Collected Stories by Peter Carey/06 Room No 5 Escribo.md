@@ -176,7 +176,7 @@ modified: "2026-08-27"
 |---------|------|------|
 | enigmatic | adj. 神秘的 | "Your smile is not so enigmatic" |
 | perspiration | n. 汗；出汗 | "beads of perspiration on your lip" |
-| barricade | n. 路障；障碍 | (未在原文中找到) |
+| shutters | n. 百叶窗 | "the wooden shutters" |
 | cascade | v. 倾泻；大量落下 | "water cascades through the ceiling" |
 | humid | adj. 潮湿的 | "The restaurant smells of piss and is humid" |
 
@@ -187,7 +187,7 @@ modified: "2026-08-27"
 | yoghurt | n. 酸奶 | "You wish for more yoghurt" |
 | bidet | n. 坐浴盆 | "water splashes into the bidet" |
 | Zundapp | n. 德国摩托车品牌 | "revving Zundapps" |
-| shilling | n. 先令 | (未在原文中找到) |
+| soldiers | n. 士兵 | "Trucks are filled with soldiers" |
 | cobbled | adj. 鹅卵石铺成的 | "cobbled streets" |
 
 ### ⭐ 基础

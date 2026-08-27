@@ -76,9 +76,9 @@ modified: "2026-08-28"
 |---------|------|------|
 | psychopath | n. 精神病患者 | "a tyrant, a psychopath, an aberrant accountant" |
 | decadence | n. 堕落；颓废 | "the very embodiment of sexual decadence" |
-| incarcerated | v. 监禁 | "incarcerating them all" |
 | vermin | n. 害虫；坏人 | "The vermin, may they feast on this" |
 | corset | v. 穿紧身衣 | "their bellies are corseted by expensively made jeans" |
+| tyrant | n. 暴君；专制者 | "a tyrant, a psychopath" |
 
 ### ⭐⭐ 进阶
 
@@ -86,8 +86,8 @@ modified: "2026-08-28"
 |---------|------|------|
 | Cadillac Eldorado | n. 凯迪拉克 Eldorado 汽车 | "a Cadillac Eldorado with leaking air-conditioning" |
 | accountant | n. 会计师 | "I was a young accountant" |
-| suburb | n. 郊区 | (未在原文中找到) |
 | unemployment | n. 失业 | "Unemployment had become a way of life" |
+| suburban | adj. 郊区的 | "the scrub was immersed in a hot haze" |
 | scrub | n. 灌木丛 | "the scrub was immersed in a hot haze" |
 
 ### ⭐ 基础

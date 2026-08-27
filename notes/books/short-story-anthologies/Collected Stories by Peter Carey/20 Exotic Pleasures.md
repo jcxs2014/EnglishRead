@@ -116,12 +116,6 @@ modified: "2026-08-28"
 | knitter | v. 编织 | "knitting baby clothes" |
 | pigeon | n. 鸽子 | "about the size of a very big pigeon" |
 | beak | n. 鸟嘴 | "a strong beak that looked just like mother of pearl" |
-| prairie | n. 大草原 | (未在原文中找到) |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
 | bird | n. 鸟 | "the most beautiful bird" |
 | blue | adj. 蓝色的 | "of every blue possibly imaginable" |
 | car | n. 汽车 | "in a beaten-up car" |

@@ -177,8 +177,8 @@ modified: "2026-08-27"
 | pavilion | n. 大厅；展馆 | "THE SOUTH SIDE PAVILION" |
 | bloated | adj. 肿胀的；发胀的 | "Its pale bloated body floats" |
 | reproachfully | adv. 责备地 | "They looked at me reproachfully" |
-| ephemeral | adj. 短暂的；瞬息的 | "ephemeral pleasures" |
 | melancholy | n. 忧郁；哀伤 | "the melancholy likeness of a whale" |
+| beautiful | adj. 美丽的 | "a beautiful beach" |
 
 ### ⭐⭐ 进阶
 
@@ -186,9 +186,9 @@ modified: "2026-08-27"
 |---------|------|------|
 | winch | n. 绞车 | "a truck fitted with winches" |
 | barbed wire | n. 铁丝网 | "a supply of barbed wire" |
-| detergent | n. 清洁剂 | (未在原文中找到) |
-| ullage | n. 损耗；不足 | (未在原文中找到) |
-| scintillating | adj. 闪烁的；才华横溢的 | "scintillating dialogue" |
+| beaches | n. 海滩 | "the beaches of the South Side" |
+| swimming | n. 游泳 | "a swimming pool" |
+| Company | n. 公司 | "the Company store" |
 
 ### ⭐ 基础
 

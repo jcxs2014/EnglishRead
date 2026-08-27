@@ -115,9 +115,8 @@ modified: "2026-08-28"
 |---------|------|------|
 | dog | n. 狗 | "his dog, old and worn" |
 | weeping | v. 哭泣 | "Turk Kershaw is weeping" |
-| whisky | n. 威士忌 | "a large gulp of the expensive whisky" |
 | suburb | n. 郊区 | "suburban swimming pools" |
-| classmate | n. 同学 | "when his name was mentioned in class" |
+| student | n. 学生 | "the students who would meet him" |
 
 ### ⭐ 基础
 

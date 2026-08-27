@@ -106,7 +106,7 @@ modified: "2026-08-28"
 |---------|------|------|
 | weatherboard | n. 护墙板；木瓦 | "a plain weatherboard house" |
 | shire | n. 郡；行政区 | "the shire offices" |
-| miniature | n. 微缩模型 | "a miniature model of the town" |
+| photographs | n. 照片 | "photographs of the model town" |
 | peopled | v. 居住于；布满 | "he had also peopled it" |
 | sentimental | adj. 感伤的 | "this view of my father's is a little sentimental" |
 

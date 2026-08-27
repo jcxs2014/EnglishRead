@@ -175,20 +175,20 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | upholstery | n. 内饰；装饰 | "leopard skin upholstery" |
-| crepuscular | adj. 黄昏的；微光的 | "crepuscular light" |
-| scintillating | adj. 闪烁的；才华横溢的 | "scintillating dialogue" |
-| ephemeral | adj. 短暂的；瞬息的 | "ephemeral pleasures" |
-| ubiquitous | adj. 无处不在的 | "ubiquitous presence" |
+| radiator | n. 散热器；汽车冷却系统 | "the radiator cap" |
+| perimeter | n. 周长；周围 | "around the perimeter of the crash scene" |
+| vehicle | n. 车辆；交通工具 | "a vehicle in good nick" |
+| highway | n. 公路；高速公路 | "break down on the highway" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | drive-in | n. 汽车影院 | "they're going to a drive-in tonight" |
-| hubcap | n. 轮毂盖 | "collecting petrol caps and hub caps" |
-| carburettor | n. 化油器 | "balancing the flow through the twin carbies" |
-| phalanx | n. 方阵；密集队形 | "phalanx of cars" |
-| squalid | adj. 肮脏的；悲惨的 | "squalid rows of huts" |
+| Karboys | n. 汽车拆解盗窃团伙 | "the Karboys have come about slowly" |
+| blankets | n. 毯子 | "the blankets over the windows" |
+| spanner | n. 扳手 | "a heavy-duty spanner" |
+| leopard | n. 豹子 | "leopard skin upholstery" |
 
 ### ⭐ 基础
 
@@ -196,9 +196,9 @@ modified: "2026-08-27"
 |---------|------|------|
 | Dodge | n. 道奇汽车 | "the 1956 Dodge" |
 | tow truck | n. 拖车 | "the tow truck game" |
-| spanner | n. 扳手 | "a heavy-duty spanner" |
-| piston | n. 活塞 | "the rhythm of its engine" |
-| chassis | n. 底盘 | "the chassis of the car" |
+| cop | n. 警察 | "the cops are there" |
+| boots | n. 靴子 | "motor-cycle boots" |
+| cigarettes | n. 香烟 | "she keeps using the cigarette lighter" |
 
 ---
 

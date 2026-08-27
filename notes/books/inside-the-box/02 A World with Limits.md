@@ -101,7 +101,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是把 General Magic 教训"产品化"的一句**。Fadell 的整个职业（iPod 外部边界、Nest 实体包装盒）都是这句口号的实践。它也是全书最易被读者记住并转述的短句之一——非虚构作者刻意在访谈中提炼出可引用的箴言。
 
-**⑥** "Eric Gilliam...coined the beautiful phrase 'long leash, narrow fence' to describe the ethos at Bell Labs in its heyday."
+**⑥** "Eric Gilliam, who studies and writes about innovation history, coined the beautiful phrase 'long leash, narrow fence' to describe the ethos at Bell Labs in its heyday."
 
 - 中文理解：埃里克·吉利姆……造出了"长绳窄篱"这个漂亮短语，用来描述鼎盛期贝尔实验室的精神气质。
 

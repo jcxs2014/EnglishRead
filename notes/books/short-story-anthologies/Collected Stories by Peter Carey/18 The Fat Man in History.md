@@ -107,7 +107,7 @@ modified: "2026-08-28"
 | propaganda | n. 宣传 | "fed to them by the propaganda of the revolution" |
 | clandestine | adj. 秘密的；隐蔽的 | "the clandestine 'Fat Men Against The Revolution'" |
 | oppression | n. 压迫；镇压 | "to be an oppressor" |
-| tyrannical | adj. 暴虐的；专制的 | (未在原文中找到) |
+| revolution | n. 革命 | "the revolution" |
 
 ### ⭐⭐ 进阶
 

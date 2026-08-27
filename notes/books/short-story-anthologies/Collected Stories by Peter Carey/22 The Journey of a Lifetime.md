@@ -101,11 +101,11 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| aristocracy | n. 贵族；贵族阶层 | "a tall man, very white-skinned, a rather cruel aristocratic nose" |
+| aristocratic | adj. 贵族的 | "a tall man, very white-skinned, a rather cruel aristocratic nose" |
 | mahogany | n. 桃花心木；红木 | "a drawer of a mahogany desk" |
 | crystal | n. 水晶；玻璃 | "the clink of fine crystal" |
-| ornament | n. 装饰物 | "the ornamental journeys" |
-| clergyman | n. 牧师；教士 | (未在原文中找到) |
+| locomotive | n. 火车头 | "the brutal power of its locomotive" |
+| scrapbook | n. 剪贴簿 | "my beautiful scrapbooks" |
 
 ### ⭐⭐ 进阶
 

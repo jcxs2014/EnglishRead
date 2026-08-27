@@ -115,8 +115,8 @@ modified: "2026-08-28"
 | lottery | n. 彩票 | "the Genetic Lottery" |
 | corpse | n. 尸体 | "the corpse was her grandfather" |
 | morgue | n. 停尸房 | "I got him from the morgue" |
-| cemetery | n. 墓地 | (未在原文中找到) |
-| burial | n. 埋葬 | (未在原文中找到) |
+| funeral | n. 葬礼 | "the funeral assistance plan" |
+| body | n. 身体 | "a different body" |
 
 ### ⭐ 基础
 

@@ -176,9 +176,9 @@ modified: "2026-08-27"
 |---------|------|------|
 | hologram | n. 全息图 | "holograms in the bigger villages" |
 | dematerialization | n. 物质消失 | "Behaviour of Those Dematerializing" |
-| annihilation | n. 毁灭；歼灭 | "thinking of annihilation" |
-| transfixing | v. 刺穿；使呆住 | "two of them struck, transfixing her through the chest" |
-| ubiquitous | adj. 无处不在的 | "ubiquitous presence of the soldiers" |
+| architect | n. 建筑师 | "he had built a machine that would keep these primitive people" |
+| building | n. 建筑 | "The building was a machine" |
+| minister | n. 部长；牧师 | "The minister was Oongala's right-hand man" |
 
 ### ⭐⭐ 进阶
 

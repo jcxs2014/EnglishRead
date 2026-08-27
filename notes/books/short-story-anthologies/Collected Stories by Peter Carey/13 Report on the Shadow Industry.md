@@ -121,8 +121,8 @@ modified: "2026-08-28"
 | carcinogenic | adj. 致癌的 | "carcinogenic chemicals used in the manufacture of shadows" |
 | apocalypse | n. 天启；世界末日 | "the dreadful beauty of the apocalypse" |
 | ambivalent | adj. 矛盾的 | "My own feelings about the shadows are ambivalent" |
-| alchemical | adj. 炼金术的 | (未在原文中找到) |
-| spectral | adj. 幽灵的；光谱的 | (未在原文中找到) |
+| bureau | n. 局；办公楼 | "the Bureau of Statistics" |
+| chimney | n. 烟囱 | "huge chimneys that reach far into the sky" |
 
 ### ⭐⭐ 进阶
 

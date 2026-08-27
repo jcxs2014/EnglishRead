@@ -178,16 +178,16 @@ modified: "2026-08-27"
 | exasperating | adj. 令人恼怒的 | "You're exasperating" |
 | suds | n. 泡沫；肥皂泡 | "lumps of soap suds in his hair" |
 | helmet | n. 头盔 | "Marie buckled up her helmet" |
-| accusatorially | adv. 指责地 | (未在原文中找到) |
+| seagull | n. 海鸥 | "a seagull ride the wind" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| seagull | n. 海鸥 | "a seagull ride the wind" |
 | water pump | n. 水泵 | "It's a water pump" |
 | cabbages | n. 卷心菜 | "little eggs all over the cabbages" |
 | buckle up | v. 系好安全带 | "Marie buckled up her helmet" |
+| soap | n. 肥皂 | "lumps of soap suds in his hair" |
 | Florence | n. 佛罗伦萨 | "I've always wanted to go to Florence" |
 
 ### ⭐ 基础

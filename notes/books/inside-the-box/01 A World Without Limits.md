@@ -152,7 +152,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是把认知科学落地的标准手法**。金钱惩罚机制是这个实验的关键——它排除了"人们不知道加件有代价"的解释，逼出真正的结论：即使明知加件要付钱，人们还是加。
 
-**⑩** "He calls the disaster pattern 'think fast, act slow.'... Flyvbjerg has also documented the (comparatively rare) pattern of big projects that succeed. They take the opposite course: 'Think slow, act fast.'"
+**⑩** "On the back of an intoxicating idea, resources pile into the project. It grows without clear boundaries. Lessons that early on could have helped define the project will now come slowly, and painfully, because the undertaking is large and changing its momentum is difficult." the opposite course: 'Think slow, act fast.'"
 
 - 中文理解：他把这种灾难模式称为"想得快，做得慢"。……弗吕夫比约也记录了（相对罕见的）成功大项目的模式。它们走的是相反的路线："想得慢，做得快。"
 
