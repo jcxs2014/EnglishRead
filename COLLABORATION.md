@@ -1115,3 +1115,29 @@ date -u '+%Y-%m-%d %H:%M UTC'
 **问题**：描述你遇到的问题
 **期望**：描述你期望的行为
 ```
+
+---
+
+### [2026-08-27 · 23:50 UTC] [Opencode-Mac] Book Lovers 全书重新精读完成
+
+**进度**：全书 39 章 + Epilogue 全部重新制作（旧批次引文摘录压缩问题全面修复）
+
+**验证结果**：
+- verify_quotes.py: 214/214 引文可核实（100%）
+- check_vocab.py: FAIL (0)
+- 完全干净文件: 39/39
+
+**本轮批次**（从 Ch20 到 Epilogue）：
+- Ch20-26: 6 章（Libby 晕倒 + Sharon 电话 + 争吵）
+- Ch27-31: 5 章（医院 + 露营 + 第一次做爱 + Jakob 坦白 + Asheville 晚餐）
+- Ch32-37: 6 章（Nora 崩溃 + Libby 坦白销售推介 + 舞会 + 面试 + 母亲生日书店重逢）
+- Epilogue: 1 章（六个月后派对 + 空丝绒盒）
+
+**commit**：`fac3be6` feat: Book Lovers Ch32-Epilogue 重新精读（全书214/214引文100%+FAIL 0）
+
+**总 commit 列表（本轮 Book Lovers 重新精读）**：
+- `b8d72a9` Ch01-04 引文修复 + 格式修正
+- `2f5b6dd` Ch20-26 重新精读（引文100%+vocab FAIL→0）
+- `ac22d3d` Ch26-29 重新精读（引文100%+FAIL 0）
+- `e75695f` Ch30-31 重新精读（引文100%+FAIL 0）
+- `fac3be6` Ch32-Epilogue 重新精读（全书214/214引文100%+FAIL 0）
