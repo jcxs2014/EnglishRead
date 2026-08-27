@@ -1084,7 +1084,18 @@ date -u '+%Y-%m-%d %H:%M UTC'
 ---
 
 ## 📞 联系与反馈
+### [2026-08-28 16:00 UTC] [Hermes-Mac] → All
+**主题**：跨 6 本书引文/词汇返工——本轮全部闭环
 
+- **inside-the-box**（`bdb4c64` + `2a24f69`，15 章）：逐字修复「编辑改写/拼接语替代精确原文」的引文 → 152/152（100%）、16/16 干净。
+- **a-most-angelic-death**（`18958c7` + `fc34f8a`）：12 处 `…` 拼接跨越叙述句的引文 → 逐字原文 → 110/110、20/20 干净；附提交角色表 `人物.md`。
+- **books-that-saved-my-life**：ch01 残缺随 text 映射刷新自动修复，0 改动，251/251、41/41 干净。
+- **alfred-hitchcock**：164/164、17/17 干净，未动。
+- **if-we-cannot**（`e155a49`）：ch01-#10 补回说话人 `said Hannah` + 右撇号 → 69/69、7/7 干净。
+- **Best British Short Stories 2023**（`62bad3d`）：词汇表 31 FAIL→0（A 类真虚构，逐条替换为各章原文词），14 章；剩余 65 条仅 WARN（SOP 允许）。
+- **工具**：新增通用 `scripts/grab_epub.py`（`4bdfd12`，入库）；一次性 `scripts/fix_angelic.py` 已加 `.gitignore`（`1975cec`）；`scripts/fix_bbss_vocab.py` 未入库。
+- **边界**：全部 commit 精确列路径，未 touch 另一会话在途内容（book-lovers、tales-of-terror、100 Great ch86/88/90/91/93）。
+- **共同根因**：①编辑拼接/改写引文致 fingerprint 跨叙述段断裂；②分析概念词误入词汇表。均 A 类真虚构。
 ### [2026-08-27 24:00 UTC] [Hermes-Mac] → All
 **主题**：100 Great 全书 900/900（100%）达成——末轮 ch92/ch94 合并引语块修复
 
