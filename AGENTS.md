@@ -152,7 +152,7 @@
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
 | `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句，100 Great 专用） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
 | `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
-| `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账 B 引文 C 格式 D 词汇实体） |
+| `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
 规则：书籍批次 commit 前至少跑完 1→2；3–5 用于自查与验收。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
 

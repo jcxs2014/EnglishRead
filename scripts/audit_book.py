@@ -66,6 +66,34 @@ def main():
     print(f"- {status_a} {'原文已提取' if texts else '**text/ 为空——先跑 extract_chapters.py**'}")
 
     full = flat_alpha(epub_flat_text(epub)) if epub else ''
+
+    # A2. text/ 语料一致性抽检（防语料污染：逐章取多点指纹回查 epub）
+    def probe_text_dir(texts, epub_flat, probes=6, frag=40):
+        results = []
+        for tp in texts:
+            ta = flat_alpha(open(tp, encoding='utf-8', errors='ignore').read())
+            if len(ta) < frag * (probes + 1):
+                results.append((os.path.basename(tp), 0, 1)); continue
+            start0 = int(len(ta) * 0.15)
+            # 探针 1 号取文件头（抓标题截断/头部拼接污染），其余均匀取样于中后段
+            span = max(1, (len(ta) - start0) // (probes - 1)) if len(ta) > start0 + frag * probes else len(ta) - frag
+            positions = [0] + [start0 + k * span for k in range(probes - 1)]
+            hits = sum(1 for pos in positions
+                       if ta[pos:pos + frag] in epub_flat)
+            results.append((os.path.basename(tp), hits, probes))
+        return results
+
+    text_bad = []
+    if texts and epub:
+        probes = probe_text_dir(texts, full)
+        suspicious = [(n, h, p) for n, h, p in probes if h < p - 1]
+        print(f"- text/ vs epub 一致性抽检：{len(probes)-len(suspicious)}/{len(probes)} 文件通过")
+        for n, h, p in suspicious:
+            text_bad.append(n)
+            print(f"  ⚠️ {n}: 语料命中率 {h}/{p}——提取件与 epub 出入大（疑污染/截断/异版本），逐章严格校验慎用此件")
+    elif texts and not epub:
+        print("- ⚠️ 无 epub，无法做语料一致性抽检")
+
     quote_fails, q_ok, q_total = [], 0, 0
     print("\n## B. 引文真实性（verify_quotes）")
     if not epub:
@@ -102,7 +130,7 @@ def main():
     print(f"- 实体未知文件 {len(e_files)} 个" + (f": {e_files}" if e_files else ""))
 
     print("\n## 结论")
-    total_fail = bool(quote_fails or fmt_issues or vres['fails'] or eres['fails'] or not texts)
+    total_fail = bool(quote_fails or fmt_issues or vres['fails'] or eres['fails'] or not texts or text_bad)
     print(f"- 引文：{q_ok}/{q_total} 可核实")
     verdict = "❌ 存在 fail——不可作为验收通过" if total_fail else "✅ 全部通过"
     print(f"- 总判定：{verdict}")
