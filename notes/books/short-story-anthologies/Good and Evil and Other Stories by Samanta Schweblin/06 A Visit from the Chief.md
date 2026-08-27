@@ -29,7 +29,7 @@ modified: "2026-08-27"
 
 > **原句 1:** If this isn't how people cling to their lives, then how do they keep going?
 
-**中文理解**：Lidia 对生活的思考——如果人们不是这样抓住生活，他们怎么继续下去？
+**中文理解**："如果人们不是这样抓住生活，他们怎么继续下去？"
 
 **句子结构**：反问句，语气困惑。
 
@@ -43,7 +43,7 @@ modified: "2026-08-27"
 
 > **原句 2:** Was there something that one was supposed to understand at some point? Something that one was meant to see or do?
 
-**中文理解**：Lidia 对生活的疑问——有没有什么东西是人们应该在某个时刻理解的？
+**中文理解**："有没有什么东西是人们应该在某个时刻理解的？"
 
 **句子结构**：两个反问句，语气困惑。
 
@@ -57,7 +57,7 @@ modified: "2026-08-27"
 
 > **原句 3:** You are this leaf. The wind blows it this way and that.
 
-**中文理解**：Joel 对 Lidia 的比喻——你就是这片叶子，风把它吹来吹去。
+**中文理解**："你就是这片叶子，风把它吹来吹去。"
 
 **句子结构**：两个句子形成比喻。
 
@@ -71,7 +71,7 @@ modified: "2026-08-27"
 
 > **原句 4:** Because I like to do it, period.
 
-**中文理解**：Joel 对自己行为的解释——因为我喜欢这样做，句号。
+**中文理解**："因为我喜欢这样做，句号。"
 
 **句子结构**：简短的陈述句，语气坚定。
 
@@ -85,7 +85,7 @@ modified: "2026-08-27"
 
 > **原句 5:** It's like a hobby, you know?
 
-**中文理解**：Joel 将抢劫比作爱好——就像爱好一样，你知道吗？
+**中文理解**："就像爱好一样，你知道吗？"
 
 **句子结构**：反问句，语气轻松。
 
@@ -99,7 +99,7 @@ modified: "2026-08-27"
 
 > **原句 6:** I think you're scared. You want to know how you're scared?
 
-**中文理解**：Joel 对 Lidia 的观察——我觉得你害怕了。你想知道你是怎么害怕的吗？
+**中文理解**："我觉得你害怕了。你想知道你是怎么害怕的吗？"
 
 **句子结构**：两个句子形成递进。
 
@@ -113,7 +113,7 @@ modified: "2026-08-27"
 
 > **原句 7:** Because you never seem like you mean it.
 
-**中文理解**：老妇人对 Joel 的评价——因为你看起来从来不像真心的。
+**中文理解**："因为你看起来从来不像真心的。"
 
 **句子结构**：简短的陈述句，语气平静。
 
@@ -127,7 +127,7 @@ modified: "2026-08-27"
 
 > **原句 8:** I hope everything is okay with your daughter.
 
-**中文理解**：Joel 对 Lidia 的关心——我希望你女儿一切都好。
+**中文理解**："我希望你女儿一切都好。"
 
 **句子结构**：简短的陈述句，语气关心。
 
@@ -141,7 +141,7 @@ modified: "2026-08-27"
 
 > **原句 9:** She's just traveling. She could come back any time.
 
-**中文理解**：Lidia 对女儿离开的解释——她只是在旅行。她随时可能回来。
+**中文理解**："她只是在旅行。她随时可能回来。"
 
 **句子结构**：两个句子形成对比——"just traveling" vs "come back any time"。
 
@@ -155,7 +155,7 @@ modified: "2026-08-27"
 
 > **原句 10:** Radio silence.
 
-**中文理解**：Joel 的命令——无线电静默。
+**中文理解**："无线电静默。"
 
 **句子结构**：简短的陈述句，语气命令。
 
