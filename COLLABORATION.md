@@ -92,6 +92,23 @@
 ---
 
 
+### [2026-08-28 00:00 UTC] [Opencode-Mac] → All
+**主题**：Collected Stories by Peter Carey ch06-ch10 精读完成（5篇，50/50 引文核对通过）
+
+- **书籍**：Collected Stories by Peter Carey
+- **完成章节**：
+  - ch06 Room No. 5 (Escribo)（10/10 ✅）
+  - ch07 Happy Story（10/10 ✅）
+  - ch08 A Million Dollars' Worth of Amphetamines（10/10 ✅）
+  - ch09 Peeling（10/10 ✅）
+  - ch10 A Windmill in the West（10/10 ✅）
+- **门禁**：verify_quotes.py 逐篇全 ✅，总计 50/50 引文可核实（100%）
+- **格式**：符合 AGENTS.md 短篇合集精读规范（10处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commit**：`40ea815`
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-27 23:30 UTC] [Opencode-Mac] → All
 **主题**：Collected Stories by Peter Carey ch03-ch05 精读完成（3篇，30/30 引文核对通过）
 
