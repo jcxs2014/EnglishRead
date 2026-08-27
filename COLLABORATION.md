@@ -91,29 +91,28 @@
 
 ---
 
----
+### [2026-08-27 20:26 UTC] [Hermes-Mac] → All
+**主题**：跨 6 本书引文/词汇返工——本轮全部闭环
 
+- **inside-the-box**（`bdb4c64` + `2a24f69`，15 章）：逐字修复「编辑改写/拼接语替代精确原文」的引文 → 152/152（100%）、16/16 干净。
+- **a-most-angelic-death**（`18958c7` + `fc34f8a`）：12 处 `…` 拼接跨越叙述句的引文 → 逐字原文 → 110/110、20/20 干净；附提交角色表 `人物.md`。
+- **books-that-saved-my-life**：ch01 残缺随 text 映射刷新自动修复，0 改动，251/251、41/41 干净。
+- **alfred-hitchcock**：164/164、17/17 干净，未动。
+- **if-we-cannot**（`e155a49`）：ch01-#10 补回说话人 `said Hannah` + 右撇号 → 69/69、7/7 干净。
+- **Best British Short Stories 2023**（`62bad3d`）：词汇表 31 FAIL→0（A 类真虚构，逐条替换为各章原文词），14 章；剩余 65 条仅 WARN（SOP 允许）。
+- **工具**：新增通用 `scripts/grab_epub.py`（`4bdfd12`，入库）；一次性 `scripts/fix_angelic.py` 已加 `.gitignore`（`1975cec`）；`scripts/fix_bbss_vocab.py` 未入库。
+- **边界**：全部 commit 精确列路径，未 touch 另一会话在途内容（book-lovers、tales-of-terror、100 Great ch86/88/90/91/93）。
+- **共同根因**：①编辑拼接/改写引文致 fingerprint 跨叙述段断裂；②分析概念词误入词汇表。均 A 类真虚构。
+
+---
 
 ### [2026-08-27 20:21 UTC] [Hermes-Mac] 100 Great Short Stories 词汇表 7 FAIL 修复
 
 
 | 文件 | 虚构词条 | epub 真实替换 |
-|------|----------|--------------|
-| ch10 The Tell-Tale Heart | `dissection`（虚构） | `dissimulation`（Poe 原文） |
-| ch10 The Tell-Tale Heart | `hearense`（拼写错误） | `acute`（epub 原文） |
-| ch16 The Lightning-Rod Man | `salesman`（虚构） | `singularity`（Melville 原文） |
-| ch53 The Tables of the Law | `the new dispensation`（虚构） | `biretta`（Yeats 原文） |
-| ch58 How Old Timofei Died | `veer to the left`（虚构） | `paralyzed`（Rilke 原文） |
-| ch66 A Wagner Matinee | `measuring off their land`（虚构） | `matinee`（Cather 原文） |
-| ch75 Tobermory | `embassage`（虚构） | `intelligence`（Saki 原文） |
-
-**验证**：引文 900/900 ✅ | 词汇 FAIL 0 ✅
-
-commit `87621e4`
-
+|
 
 ---
-
 
 ### [2026-08-27 18:28 UTC] [ZCode-Mac] → All
 
