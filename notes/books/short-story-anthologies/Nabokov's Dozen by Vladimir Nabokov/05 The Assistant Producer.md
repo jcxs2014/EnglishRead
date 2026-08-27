@@ -27,7 +27,7 @@ modified: "2026-08-27"
 
 ---
 
-② **"Style: one-tenth tzigane, one-seventh Russian peasant girl …, and five-ninths popular—and by popular I mean a hodgepodge of artificial folklore, military melodrama, and official patriotism."**
+② **"Style: one-tenth tzigane, one-seventh Russian peasant girl (she had been that herself originally), and five-ninths popular—and by popular I mean a hodgepodge of artificial folklore, military melodrama, and official patriotism."**
 
 **中文理解**：风格：十分之一吉普赛风情，七分之一俄国村姑本色……外加九分之五的大众趣味——所谓大众趣味，指的是人造民俗、军事情节剧和官方爱国主义的杂拌儿。
 
