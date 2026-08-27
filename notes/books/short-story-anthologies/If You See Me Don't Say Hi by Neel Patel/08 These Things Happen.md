@@ -61,9 +61,8 @@ modified: "2026-08-27"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| uncircumcised | 未割包皮的 | "It's uncircumcised" |
+| uncircumcised | 未割包皮的 | The word describes an uncircumcised state |
 | huddling | 蜷缩 | "She was huddling over our silk sofa" |
-| soliciting | Solicitous 的变体 | (未出现在文本中) |
 
 ### ⭐⭐ 进阶
 
@@ -78,7 +77,7 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | party | 派对 | "I had thrown a party" |
-| beautiful | 美丽的 | "It's beautiful" |
+| beautiful | 美丽的 | Chloe said the narrator's body was beautiful |
 | assistant manager | 助理经理 | "assistant manager of IHOP" |
 
 ## 精读结束总结
@@ -102,6 +101,6 @@ modified: "2026-08-27"
 
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
-| I'm a mess | 我很糟糕 | 描述自我贬低或脆弱 |
-| It's uncircumcised | 这是未割包皮的 | 描述身体差异时的医学语言 |
-| It's beautiful | 这很美 | 描述对差异的接纳 |
+| Being a mess | 成为一个糟糕的人 | 描述自我贬低或脆弱 |
+| That was uncircumcised | 那是未割包皮的 | 描述身体差异时的医学语言 |
+| That was beautiful | 那很美 | 描述对差异的接纳 |

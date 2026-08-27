@@ -63,7 +63,7 @@ modified: "2026-08-27"
 |---------|------|------|
 | vermilion | 朱红色 | "a coconut decorated with vermilion" |
 | ophthalmologist | 眼科医生 | "my father was an ophthalmologist" |
-| inscrutable | 难以理解的 | (未出现在文本中) |
+
 
 ### ⭐⭐ 进阶
 

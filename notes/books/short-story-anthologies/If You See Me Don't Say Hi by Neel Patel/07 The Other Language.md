@@ -47,7 +47,7 @@ modified: "2026-08-27"
 |---------|------|------|
 | Swahili | 斯瓦希里语 | "they spoke in another language entirely: Swahili" |
 | Maasai | 马赛人 | "wooden elephants and charcoal drawings of Maasai people" |
-| expatriate | 移居国外者 | (未出现在文本中) |
+
 
 ### ⭐⭐ 进阶
 

@@ -55,7 +55,7 @@ modified: "2026-08-27"
 |---------|------|------|
 | ascot | 领巾 | "He’d worn a pink ascot" |
 | suburb | 郊区 | "He lived in the suburbs of Chicago" |
-| intimately | 亲密地 | (未出现在文本中) |
+
 
 ### ⭐⭐ 进阶
 
