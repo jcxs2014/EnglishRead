@@ -43,7 +43,7 @@ modified: "2026-08-26"
 |---|---|---|
 | floating | 漂浮（出窍的状态） | "I can see the scene playing out like it's happening to someone else" |
 | strawberry ice cream | 草莓冰淇淋（家的定义） | "A carton of strawberry ice cream and three spoons" |
-| awakening | 觉醒（意识到自己在逃避） | "Nora realizes she's using Shepherd to avoid Charlie" |
+
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

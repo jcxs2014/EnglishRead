@@ -76,7 +76,7 @@ modified: "2026-08-26"
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| illegitimate | 非婚生的（Charlie 的出身） | "I wasn't like him. Didn't look like him." |
+
 | library and principal's office | 图书馆和校长室（Charlie 的童年避难所） | "half of middle school in the library and the other half in the principal's office" |
 | race car bed | 赛车床（Charlie 的童年创伤） | "childhood race car bed" |
 
@@ -85,7 +85,7 @@ modified: "2026-08-26"
 |---|---|---|
 | art curator | 艺术策展人（Charlie 的生父） | "My biological father's an art curator" |
 | thumbs stroking | 拇指画圆（安慰的触碰） | "thumbs moving in soothing strokes against my skin" |
-| confiding | 倾诉 | "his eyes blazing" |
+
 
 ## 一句话总结
 

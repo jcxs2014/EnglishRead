@@ -56,7 +56,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | Octavia Butler | 改变人生的书（阅读即救赎） | "Gave me an Octavia Butler book that changed my life" |
-| whorled stress hives | 压力性荨麻疹（自由的代价） | "Some people call it magic. I prefer to think of it as 'raging stress hives.'" |
+
 | two-dimensional caricatures | 二维漫画（家庭成员分类） | "Where exactly do they fall in your catalogue of two-dimensional caricatures?" |
 
 ### ⭐ 基础

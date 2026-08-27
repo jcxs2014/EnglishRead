@@ -43,7 +43,7 @@ modified: "2026-08-26"
 |---|---|---|
 | perfect | 完美（Charlie 对 Nora 的最终肯定） | "You're fucking perfect" |
 | third space | 第三空间（帐篷的最终形态） | "a temporary space between city and home" |
-| completion | 完成（关系的最终确认） | "the first time they finish what they started" |
+
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
@@ -57,7 +57,7 @@ modified: "2026-08-26"
 |---|---|---|
 | air mattress | 气垫床 | "the air mattress we bought at Target" |
 | sleeping bag | 睡袋 | "the blanket" |
-| campfire | 篝火 | "the fire pit" |
+
 
 ## 一句话总结
 

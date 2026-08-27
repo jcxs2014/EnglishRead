@@ -36,7 +36,6 @@ modified: "2026-08-26"
 |---|---|---|
 | curse | 诅咒（处理羞耻的叙事框架） | "I'm in a horror movie and I won't be freed of this curse" |
 | casino's neon sign | 赌场霓虹灯（兴奋+风险的隐喻） | "flash across my mind like a casino's neon sign" |
-| inflicting | 施予（痛苦转移） | "curse until I've inflicted it on someone else" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

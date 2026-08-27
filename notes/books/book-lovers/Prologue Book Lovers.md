@@ -3,7 +3,7 @@
 modified: "2026-08-26"
 ---
 
-# Prologue. Book Lovers
+# 01. Prologue: Book Lovers
 
 ## 本章导航
 

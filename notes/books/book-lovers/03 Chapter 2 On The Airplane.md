@@ -57,7 +57,7 @@ modified: "2026-08-26"
 |---|---|---|
 | déclassé | 低俗，没格调 | "Robbery sounds so déclassé" |
 | sours / curdles | 变酸/凝固（情绪隐喻） | "excitement sours... it curdles entirely" |
-| inboxes doubling | 邮件指数级堆积 | "the number of messages in my inbox has doubled" |
+| inbox | 收件箱 | "the new pages are waiting in my inbox" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

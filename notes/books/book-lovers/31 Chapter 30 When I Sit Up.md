@@ -36,7 +36,7 @@ modified: "2026-08-26"
 |---|---|---|
 | alone | 孤独（Nora 的核心创伤） | "You shouldn't have been alone through that" |
 | guilt | 罪恶感（Nora 的十年负担） | "She was with you that night, not where she should have been" |
-| redemption | 救赎（Charlie 的重新框架） | "You weren't the one who was supposed to save her" |
+
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

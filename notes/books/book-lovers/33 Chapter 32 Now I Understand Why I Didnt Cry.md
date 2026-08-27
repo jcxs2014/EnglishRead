@@ -41,7 +41,7 @@ modified: "2026-08-26"
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| breakdown | 崩溃 | "a dam has broken" |
+
 | helpless | 无助 | "weak, helpless, so fucking scared" |
 | support | 支持 | "He holds me and says nothing" |
 

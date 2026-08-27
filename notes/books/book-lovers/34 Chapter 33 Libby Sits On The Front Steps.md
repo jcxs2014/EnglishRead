@@ -42,8 +42,8 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | porch steps | 台阶（中间地带） | "Libby sits on the front steps" |
-| reconciliation | 和解 | "the first real conversation after the truth" |
-| maturity | 成熟 | "Libby is learning to be a sister, not a burden" |
+
+
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

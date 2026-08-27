@@ -43,7 +43,7 @@ modified: "2026-08-26"
 |---|---|---|
 | Wharton House Books | 出版公司（Charlie 的新工作） | "a new job at Wharton House Books" |
 | debut | 首发 | "her debut book" |
-| celebration | 庆祝 | "There are balloons in the window" |
+
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

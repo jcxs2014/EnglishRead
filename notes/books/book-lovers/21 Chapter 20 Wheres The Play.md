@@ -42,7 +42,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | preterm labor | 早产 | "I'm having the baby early" |
-| contractions | 宫缩 | "I had some contractions last night" |
+
 | hospital | 医院 | "They want to keep me here for observation" |
 
 ### ⭐ 基础

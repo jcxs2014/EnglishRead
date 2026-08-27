@@ -69,8 +69,8 @@ modified: "2026-08-26"
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| tripping | 绊倒 | "I trip over a root and go sprawling" |
-| dyed hair | 染发 | "slathers my hair in dye" |
+| leap | 跳跃；跨越 | "I leap over a gnarled root" |
+| hair | 头发 | "her pink hair" |
 | deer poop | 鹿粪 | "deer pellets / shit palace" |
 
 ## 一句话总结

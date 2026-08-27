@@ -42,7 +42,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | popcorn | 爆米花 | "I want to get popcorn and good seats" |
-| playwright | 剧作家 | "I didn't see you at the play" |
+
 | audience | 观众 | "the house lights drop" |
 
 ## 一句话总结

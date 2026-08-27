@@ -70,7 +70,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | umbrella | 雨伞（亲密空间） | "huddled under Charlie's umbrella" |
-| kidney punch | 肾脏冲击（意外的接触） | "kidney punch of laughter" |
+
 | fortuitous | 偶然的 | "I'd called it fortuitous" |
 
 ## 一句话总结

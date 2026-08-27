@@ -57,7 +57,7 @@ modified: "2026-08-26"
 |---|---|---|
 | sleeping bag | 睡袋 | "the blanket" |
 | mosquito net | 蚊帐 | "mosquito-netted roof" |
-| campfire | 篝火 | "the fire pit" |
+
 
 ## 一句话总结
 

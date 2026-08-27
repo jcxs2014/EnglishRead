@@ -34,7 +34,7 @@ modified: "2026-08-26"
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| campfire | 篝火 | "The fire gutters, then flares" |
+
 | perfect | 完美 | "You're fucking perfect" |
 | breath | 呼吸 | "our breath going shallow" |
 

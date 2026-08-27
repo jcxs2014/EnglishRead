@@ -64,7 +64,7 @@ modified: "2026-08-26"
 |---|---|---|
 | glazed donut | 糖霜甜甜圈（被热化的比喻） | "I feel like a glazed donut left out in the heat" |
 | lifestyle-swap | 价值观置换式分手 | "dumped in a full lifestyle-swap three times" |
-| buckled | 崩溃，撑不住 | "my sister seemed more buckled rather than closer" |
+| worn | 疲惫的，耗尽的 | "my sister seemed more worn rather than closer" |
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

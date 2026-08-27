@@ -28,14 +28,14 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | third space | 第三空间（帐篷的隐喻） | "neither the city nor the small town, neither work nor family" |
-| undercover sweetness | 隐形甜蜜 | "relationship developing under everyone's nose" |
+
 | anything for you | 互相表达（双关语） | "Nora says it to Libby; Charlie says it to Nora" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | Blue Moon Ball | 蓝月亮舞会 | "a huge fundraising opportunity" |
-| campfire | 篝火 | "camping under the stars" |
+
 | corn-lime cookies | 玉米青柠饼干 | "The corn-lime cookies are ready" |
 
 ### ⭐ 基础

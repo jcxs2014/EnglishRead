@@ -62,9 +62,8 @@ modified: "2026-08-26"
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| smorting | 微笑+撅嘴的混合词 | "smorting through his pout" |
+
 | deadpan | 冷面幽默 | "he says, deadpan" |
-| armchair psychology |  armchair psychology（心理分析） | "read you like a book / armchair psychologist" |
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

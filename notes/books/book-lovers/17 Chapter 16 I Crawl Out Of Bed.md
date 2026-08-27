@@ -36,12 +36,11 @@ modified: "2026-08-26"
 |---|---|---|
 | poison | 毒药（自我中毒） | "I drank enough to poison myself, without even getting past tipsy" |
 | ma'am | 女士（正式的称呼） | "'You okay, ma'am?'" |
-| post-climax drift | 高潮后的飘荡 | "Nora is still processing what happened with Charlie" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| hangover | 宿醉 | "my head pounding and my stomach feeling like a half-wrecked boat" |
+
 | demigod | 帅哥（神话般好看的男人） | "The blond demigod is leaning against the far side of the fence" |
 | tipsy | 微醉 | "without even getting past tipsy" |
 
