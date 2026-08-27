@@ -1,6 +1,6 @@
 ---
 状态: 精读完成
-modified: "2026-08-27"
+modified: "2026-08-26"
 ---
 
 # 94. A Country Doctor

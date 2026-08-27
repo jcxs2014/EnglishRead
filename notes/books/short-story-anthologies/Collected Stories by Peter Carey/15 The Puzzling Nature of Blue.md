@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-08-28"
+modified: "2026-08-27"
 ---
 
 # 15. The Puzzling Nature of Blue（精读分析）

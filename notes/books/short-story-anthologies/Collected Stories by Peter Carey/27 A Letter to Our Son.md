@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-08-28"
+modified: "2026-08-27"
 ---
 
 # 27. A Letter to Our Son（精读分析）

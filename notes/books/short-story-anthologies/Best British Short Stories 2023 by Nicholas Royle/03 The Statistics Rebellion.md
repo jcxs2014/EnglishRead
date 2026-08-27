@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-08-27"
+modified: "2026-08-26"
 ---
 
 # 3. The Statistics Rebellion（统计学起义）

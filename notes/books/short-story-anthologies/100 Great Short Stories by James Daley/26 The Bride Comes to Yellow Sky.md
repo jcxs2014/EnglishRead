@@ -1,6 +1,6 @@
 ---
 状态: 精读完成
-modified: "2026-08-27"
+modified: "2026-08-26"
 ---
 
 # 26. The Bride Comes to Yellow Sky
