@@ -1,114 +1,185 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 62. THE LEOPARD MAN'S STORY
+# 62. The Leopard Man's Story
 
-**作者**：Jack London
+**作者**：Lafcadio Hearn
 
 ## 一句话总结
 
-London 通过一个关于"身份"与"外表"的故事，展示了19世纪北美"真实自我"与"社会角色"之间的冲突——一个人被称为" Leopard Man"，但他看起来完全不像豹子，他有一个"梦幻的、遥远的眼神"，他的声音"温柔如少女"；London 用这个故事探讨了"外表"与"本质"之间的矛盾。
+Hearn 以"我"听马戏团驯豹人讲身世：他本皮货商，因不忍兽苦、绰号"豹人"，却见同行 De Ville 以妻为饵、暗下 snuff 害竞争对手 Wallace——一则把"驯兽者的温柔"与"人的狠"并置，结尾以暗算的 snuff 收束。
 
 ## 逐句精读（10 处）
 
-① **"He had a dreamy, far-away look in his eyes, and his sad, insistent voice, gentle-spoken as a maid's, seemed the placid embodiment of some deep-seated melancholy."**
-- 中文理解：London 用细腻的外貌描写开场——他的眼睛里有梦幻的、遥远的眼神，他悲伤的、坚持的声音，温柔得像少女，似乎是某种根深蒂固的忧郁的平静化身；这个" dreamy, far-away look"和" deep-seated melancholy"建立了主角的"内在世界"。
-- 句子结构：主语（He）+ 谓语（had）+ 宾语（a dreamy, far-away look）+ 地点状语（in his eyes）+ and + 主语（his sad, insistent voice）+ 同位语（gentle-spoken as a maid's）+ 谓语（seemed）+ 表语（the placid embodiment of some deep-seated melancholy）。
-- 关键词：dreamy far-away look / sad insistent voice / gentle-spoken as a maid's / deep-seated melancholy——" dreamy, far-away look"是"内向"的表现；" deep-seated melancholy"是"根深蒂固的忧郁"。
-- 表达方式：London 用" gentle-spoken as a maid's"来形容一个男人的声音——这个对比暗示了主角的"女性化"或"柔和"特质。
-- 为什么这样写：这是 London 的"外表与内在矛盾"开场：主角被称为" Leopard Man"，但他的外表和声音都"不像"豹子——他是"温柔的"、"忧郁的"。
+① **"His business in life, whereby he lived, was to appear in a cage of performing leopards before vast audiences, and to thrill those audiences by certain exhibitions of nerve for which his employers rewarded him."**
 
-② **"He was the Leopard Man, but he did not look it."**
-- 中文理解：London 用简洁的转折句建立了故事的核心矛盾——他是 Leopard Man，但他的外表完全不像豹子；这个" did not look it"是理解整个故事的关键。
-- 句子结构：主语（He）+ 系动词（was）+ 表语（the Leopard Man）+ but + 主语（he）+ 谓语（did not look it）。
-- 关键词：Leopard Man / did not look it——" did not look it"建立了"名字"与"外表"之间的矛盾。
-- 表达方式：London 用简洁的" but"来建立矛盾——他的名字是"豹子人"，但他看起来完全不像豹子。
-- 为什么这样写：这是 London 的"名字与身份矛盾"核心句：名字是" Leopard Man"，但外表"不像"——这个矛盾是整个故事的基础。
+**中文理解**：他赖以活计的营生，是在笼里与驯豹同现于众前，以某些胆识展演惊骇观众、换雇主酬。
 
-③ **"His business was the leather trade, and he had spent his life among the skins of wild animals."**
-- 中文理解：London 描述了主角的职业——他的职业是皮革贸易，他一生都在野生动物的皮毛中度过；这个" leather trade"和" skins of wild animals"解释了为什么他被称为" Leopard Man"。
-- 句子结构：主语（His business）+ 系动词（was）+ 表语（the leather trade）+ and + 主语（he）+ 谓语（had spent his life）+ 地点状语（among the skins of wild animals）。
-- 关键词：leather trade / spent his life / skins of wild animals——" leather trade"解释了"名字"的来源——他与"皮革"打交道。
-- 表达方式：London 用" spent his life among the skins"来暗示：主角一生都在"动物皮毛"中工作——他的"身份"来自于他的"职业"。
-- 为什么这样写：这是 London 的"职业解释身份"技巧：主角被称为" Leopard Man"是因为他从事皮革贸易——他的"名字"是"职业"的标签。
+**句子结构**：His business in life 主语；whereby he lived 定语；was to appear in a cage 系表；of performing leopards 定语；before vast audiences 状语；and to thrill those audiences 并列；by certain exhibitions of nerve 状语；for which his employers rewarded him 定语。
 
-④ **"He had seen the leopard skins coming in from Africa, and he had dreamed of the jungles where the leopards lived."**
-- 中文理解：London 描述了主角的"想象世界"——他见过从非洲进来的豹子皮，他梦想过豹子生活的丛林；这个" dreamed of the jungles"是主角"内心世界"的体现。
-- 句子结构：主语（He）+ 谓语（had seen the leopard skins）+ 地点状语（coming in from Africa）+ and + 主语（he）+ 谓语（had dreamed of the jungles）+ 定语从句（where the leopards lived）。
-- 关键词：seen the leopard skins / dreamed of the jungles / leopards lived——" dreamed of"暗示了主角的"想象"——他梦想着"豹子的世界"。
-- 表达方式：London 用" dreamed of"来暗示：主角的"内心世界"与他的"现实工作"不同——他梦想着"丛林"，但他生活在"皮革店"里。
-- 为什么这样写：这是 London 的"现实与梦想矛盾"技巧：主角在"皮革店"工作，但他"梦想"着"豹子的丛林"——他的"内心"与"外在"不符。
+**关键词**：His business in life（营生）/ whereby he lived（赖以活）/ appear in a cage of performing leopards（笼里与驯豹同现）/ before vast audiences（众前）/ thrill those audiences（惊骇观众）/ exhibitions of nerve（胆识展演）
 
-⑤ **"The name 'Leopard Man' had been given to him by his fellow workers, and it had stuck to him all his life."**
-- 中文理解：London 描述了"名字的来源"——" Leopard Man"这个称呼是工友们给他的，它跟了他一辈子；这个" given by his fellow workers"和" had stuck to him"建立了"名字的社会性"。
-- 句子结构：主语（The name 'Leopard Man'）+ 谓语（had been given to him）+ 方式状语（by his fellow workers）+ and + 主语（it）+ 谓语（had stuck to him）+ 时间状语（all his life）。
-- 关键词：given by his fellow workers / stuck to him all his life——" stuck to him"暗示了"名字"像"胶水"一样黏在他身上——他"无法摆脱"这个名字。
-- 表达方式：London 用" had stuck to him"来暗示：主角"无法摆脱"这个"名字"——即使他看起来不像豹子，这个名字仍然"跟着"他。
-- 为什么这样写：这是 London 的"名字的社会性"技巧：名字是"社会给的"——工友们给了他" Leopard Man"这个称呼，这个称呼"黏了他一辈子"。
+**表达方式**：用"笼里驯豹换酬"写职业的险与卑，开场即定调。
 
-⑥ **"But his heart was gentle, and he could not bear to see any creature suffer."**
-- 中文理解：London 描述了主角的"内心世界"——但他的心是温柔的，他不能忍受看到任何生物受苦；这个" heart was gentle"和" could not bear to see any creature suffer"与他的"豹子人"名字形成对比。
-- 句子结构：主语（But his heart）+ 系动词（was）+ 表语（gentle）+ and + 主语（he）+ 谓语（could not bear）+ 不定式短语（to see any creature suffer）。
-- 关键词：heart was gentle / could not bear / any creature suffer——" gentle"与" Leopard Man"形成对比——他的心是"温柔的"，不是"凶猛的"。
-- 表达方式：London 用" could not bear to see any creature suffer"来暗示：主角的"内在"是"温柔的"——他不能忍受任何生物受苦，即使是"豹子"。
-- 为什么这样写：这是 London 的"内在温柔 vs 外在名字"主题：主角有"豹子的名字"但有"温柔的心"——他的"本质"与他的"标签"不符。
+**为什么这样写**：Hearn 以此，让"豹人"的身分先落在生计上。
 
-⑦ **"He had a pet cat at home, and he loved it more than anything in the world."**
-- 中文理解：London 描述了主角的"宠物偏好"——他在家里有一只宠物猫，他爱它胜过爱世界上任何东西；这个" pet cat"和" loved it more than anything"与" Leopard Man"形成有趣的对比——豹子人爱猫。
-- 句子结构：主语（He）+ 谓语（had a pet cat at home）+ and + 主语（he）+ 谓语（loved it）+ 程度状语（more than anything in the world）。
-- 关键词：pet cat / loved it more than anything——" pet cat"是"家养的猫"——与" wild leopard"（野生豹子）形成对比。
-- 表达方式：London 用" loved it more than anything in the world"来暗示：主角的"温柔"体现在他爱他的"宠物猫"——他不是"凶猛的豹子"，他是"爱猫的人"。
-- 为什么这样写：这是 London 的"豹子人爱猫"反讽：被称为" Leopard Man"的人爱"猫"而不是"豹子"——这个"反讽"展示了"名字"与"本质"的矛盾。
+---
 
-⑧ **"He would sit for hours, stroking the cat, and dreaming of the jungles of Africa."**
-- 中文理解：London 描述了主角的"日常生活"——他会坐上几个小时，抚摸着他的猫，梦想着非洲的丛林；这个" stroking the cat"和" dreaming of the jungles"展示了主角的"双重生活"。
-- 句子结构：主语（He）+ 谓语（would sit for hours）+ 伴随状语（stroking the cat）+ and + 伴随状语（dreaming of the jungles of Africa）。
-- 关键词：sit for hours / stroking the cat / dreaming of the jungles——" stroking the cat"是他的"现实"；" dreaming of the jungles"是他的"梦想"——两者形成对比。
-- 表达方式：London 用" would sit for hours"来暗示：主角的"日常生活"是"安静的"、"内向的"——他花几个小时"抚摸猫"和"梦想"。
-- 为什么这样写：这是 London 的"现实与梦想并列"技巧：主角的现实是"抚摸猫"，他的梦想是"非洲丛林"——他的"生活"与他的"名字"完全不符。
+② **"With the far-away look in his eyes and his soft flow of words he showed me his scars."**
 
-⑨ **"The leopard skins that passed through his hands were like a dream to him, a dream of a world he would never see."**
-- 中文理解：London 描述了主角与豹子皮的关系——经过他手的豹子皮对他来说像一个梦，一个他永远不会看到的世界的梦；这个" like a dream"和" a world he would never see"是主角"永远无法实现的渴望"的体现。
-- 句子结构：主语（The leopard skins）+ 定语从句（that passed through his hands）+ 系动词（were）+ 表语（like a dream to him）+ 同位语（a dream of a world）+ 定语从句（he would never see）。
-- 关键词：passed through his hands / like a dream / a world he would never see——" a world he would never see"暗示了主角的"渴望"——他想看"豹子的世界"，但他"永远不会看到"。
-- 表达方式：London 用" like a dream"来暗示：豹子皮对他来说是"遥不可及的"——他处理豹子皮，但他从未见过"活着的豹子"。
-- 为什么这样写：这是 London 的"永远无法实现的渴望"主题：主角渴望"豹子的世界"，但他"永远不会看到"——这个"渴望"是他"身份矛盾"的体现。
+**中文理解**：他眼含远眺之色、语声柔缓，给我看他的疤。
 
-⑩ **"He was the Leopard Man, but he was more of a cat man than anyone could imagine."**
-- 中文理解：London 用简洁的总结句结束故事——他是 Leopard Man，但他是任何人都无法想象的更多的"猫人"；这个" more of a cat man"是故事的"最终反讽"。
-- 句子结构：主语（He）+ 系动词（was）+ 表语（the Leopard Man）+ but + 主语（he）+ 系动词（was）+ 表语（more of a cat man）+ 程度状语（than anyone could imagine）。
-- 关键词：Leopard Man / more of a cat man / than anyone could imagine——" more of a cat man"是"最终反讽"——被称为"豹子人"的人其实是"猫人"。
-- 表达方式：London 用" more of a cat man than anyone could imagine"来强调：主角的"本质"是"猫人"——他的"名字"是"豹子"，但他的"本质"是"猫"。
-- 为什么这样写：这是 London 的"外表与本质最终对比"技巧：主角是" Leopard Man"，但他实际上是" cat man"——这个名字是"社会给的"，但他的"本质"是"温柔的"、"内向的"。
+**句子结构**：With the far-away look in his eyes 状语；and his soft flow of words 并列；he showed me his scars 主谓宾。
+
+**关键词**：the far-away look in his eyes（眼含远眺）/ his soft flow of words（语声柔缓）/ showed me his scars（给我看疤）
+
+**表达方式**：用"远眺+柔声+示疤"写驯兽人的沉静与旧伤。
+
+**为什么这样写**：Hearn 以此，让硬汉的柔在先于狠显。
+
+---
+
+③ **"He paused and looked pensively at a sick lion in the cage opposite."**
+
+**中文理解**：他停住，若有所思地望向对面笼里病狮。
+
+**句子结构**：He paused 主谓；and looked pensively at a sick lion 并列；in the cage opposite 状语。
+
+**关键词**：paused（停住）/ looked pensively（若有所思望）/ a sick lion（病狮）/ in the cage opposite（对面笼里）
+
+**表达方式**：用"望病狮"写他对兽的怜，柔的落点。
+
+**为什么这样写**：Hearn 以此，让"不忍"在凝视里具体化。
+
+---
+
+④ **"Now, that's what I call patience," he continued, "and it's my style."**
+
+**中文理解**："瞧，这叫耐心，"他续道，"也正是我的做派。"
+
+**句子结构**：Now, that's what I call patience 主系表；he continued 插入；and it's my style 并列。
+
+**关键词**：that's what I call patience（这叫耐心）/ he continued（他续道）/ it's my style（我的做派）
+
+**表达方式**：用"这叫耐心+我的做派"写驯兽人对职业的自许。
+
+**为什么这样写**：Hearn 以此，让人物在自评里立住。
+
+---
+
+⑤ **"So the word went around to watch out for De Ville, and no one dared be more than barely civil to his wife."**
+
+**中文理解**：于是风声传开要提防 De Ville，无人敢对他妻逾矩客气。
+
+**句子结构**：So the word went around 主谓；to watch out for De Ville 主语；and no one dared be more than barely civil 并列；to his wife 状语。
+
+**关键词**：the word went around（风声传开）/ watch out for De Ville（提防 De Ville）/ no one dared（无人敢）/ more than barely civil（逾矩客气）/ to his wife（对他妻）
+
+**表达方式**：用"风声+无人敢"写 De Ville 的威吓场，暗流起。
+
+**为什么这样写**：Hearn 以此，让冲突的因先在群体中铺开。
+
+---
+
+⑥ **"Madame De Ville—" At an uproar behind us the Leopard Man turned quietly around.**
+
+**中文理解**："De Ville 夫人——"身后一阵喧，豹人静静转过身。
+
+**句子结构**：Madame De Ville 呼语（引语中断）；At an uproar behind us 状语；the Leopard Man turned quietly around 主谓。
+
+**关键词**：Madame De Ville（De Ville 夫人）/ an uproar behind us（身后喧）/ turned quietly around（静静转身）
+
+**表达方式**：用"话未竟+喧中转身"写叙事的断与警。
+
+**为什么这样写**：Hearn 以此，让平静里藏一触即发的紧张。
+
+---
+
+⑦ **"But I saw a glitter in his eyes which I had seen often in the eyes of wild beasts, and I went out of my way to give Wallace a final warning."**
+
+**中文理解**：我却见他眼里有光——那我常在野兽眼里见的；便特去给 Wallace 最后一句警。
+
+**句子结构**：But I saw a glitter in his eyes 主谓宾；which I had seen often in the eyes of wild beasts 定语；and I went out of my way 并列；to give Wallace a final warning 目的。
+
+**关键词**：a glitter in his eyes（眼里有光）/ in the eyes of wild beasts（野兽眼里）/ went out of my way（特去）/ give Wallace a final warning（给 Wallace 最后警）
+
+**表达方式**：用"兽之光的眼"把人比兽，写 De Ville 的野性。
+
+**为什么这样写**：Hearn 以此，让"豹人"反成最懂兽性的人，讽意深。
+
+---
+
+⑧ **"All the rest of the people in the dressing tent were watching the same thing, with the exception of De Ville, whom I noticed staring at Wallace with undisguised hatred."**
+
+**中文理解**：更衣棚里余众皆看同一景，唯 De Ville 例外——我注意到他毫不掩饰地以恨盯 Wallace。
+
+**句子结构**：All the rest of the people in the dressing tent were watching the same thing 主谓宾；with the exception of De Ville 状语；whom I noticed staring at Wallace 定语；with undisguised hatred 状语。
+
+**关键词**：the people in the dressing tent（更衣棚里人）/ watching the same thing（看同一景）/ with the exception of De Ville（唯 De Ville 例外）/ staring at Wallace with undisguised hatred（毫不掩饰恨盯 Wallace）
+
+**表达方式**：用"唯他恨盯"写众中独异的恶意，焦点收束。
+
+**为什么这样写**：Hearn 以此，让暗算的动机在"恨"里挑明。
+
+---
+
+⑨ **"King Wallace was doing his turn and holding the audience spellbound."**
+
+**中文理解**：Wallace 王正演他的场，把观众迷住。
+
+**句子结构**：King Wallace was doing his turn 主谓宾；and holding the audience spellbound 并列。
+
+**关键词**：King Wallace（Wallace 王）/ doing his turn（演他的场）/ holding the audience spellbound（迷住观众）
+
+**表达方式**：用"迷住观众"写 Wallace 的得意高峰，暗算将至前的亮。
+
+**为什么这样写**：Hearn 以此，让被害者在巅处更显将倾。
+
+---
+
+⑩ **"Snuff—that De Ville dropped on his hair in the dressing tent."**
+
+**中文理解**：鼻烟——De Ville 撒在他发上的，在更衣棚里。
+
+**句子结构**：Snuff 主语（截悬）；that De Ville dropped on his hair 定语；in the dressing tent 状语。
+
+**关键词**：Snuff（鼻烟）/ De Ville dropped on his hair（De Ville 撒他发上）/ in the dressing tent（更衣棚里）
+
+**表达方式**：用"发上鼻烟"的悬停结尾，把暗算写成未竟的毒。
+
+**为什么这样写**：Hearn 以此收尾，让狠在"snuff"一词里戛止，余味阴冷。
+
+## 一句话总结
+
+Hearn 借驯豹人之口，写皮货商成了"豹人"、不忍兽苦，却目睹同行 De Ville 以妻为饵、暗将 snuff 撒情敌 Wallace 发上——驯兽者的温柔反衬出人的狠，结尾在"snuff"一词里阴冷悬停。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| melancholy | 忧郁 | "deep-seated melancholy" |
-| embodiment | 化身 | "the placid embodiment of some deep-seated melancholy" |
-| jungle | 丛林 | "dreamed of the jungles of Africa" |
-| creature | 生物 | "any creature suffer" |
+| a cage of performing leopards | ph. 驯豹之笼 | appear in a cage of performing leopards |
+| exhibitions of nerve | ph. 胆识展演 | exhibitions of nerve for which he was rewarded |
+| the far-away look in his eyes | ph. 眼含远眺 | the far-away look in his eyes |
+| undisguised hatred | ph. 毫不掩饰的恨 | staring with undisguised hatred |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| leopard | 豹子 | "the leopard skins" |
-| leather trade | 皮革贸易 | "His business was the leather trade" |
-| gentle | 温柔的 | "his heart was gentle" |
-| stroke | 抚摸 | "stroking the cat" |
+| his soft flow of words | ph. 语声柔缓 | his soft flow of words |
+| looked pensively | ph. 若有所思望 | looked pensively at a sick lion |
+| the word went around | ph. 风声传开 | the word went around to watch out |
+| went out of my way | ph. 特去 | went out of my way to warn |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| cat | 猫 | "He had a pet cat at home" |
-| dream | 梦想 | "dreaming of the jungles" |
-| skin | 皮毛 | "the skins of wild animals" |
-| world | 世界 | "more than anything in the world" |
-
-## 一句话总结
-
-《The Leopard Man's Story》是 London 对"外表"与"本质"矛盾的描绘：通过一个被称为" Leopard Man"但实际上是一个温柔的、爱猫的男人的故事，London 展示了"社会标签"与"真实自我"之间的冲突——他的名字是"豹子人"，但他的心是"猫心"。
+| a lion | n. 狮 | a sick lion |
+| his wife | n. 妻 | civil to his wife |
+| the audience | n. 观众 | holding the audience spellbound |
+| his hair | n. 发 | dropped on his hair |
