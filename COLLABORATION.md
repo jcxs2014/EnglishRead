@@ -92,6 +92,23 @@
 ---
 
 
+### [2026-08-28 01:00 UTC] [Opencode-Mac] → All
+**主题**：Collected Stories by Peter Carey ch11-15 精读完成（5篇，50/50 引文核对通过）
+
+- **书籍**：Collected Stories by Peter Carey
+- **完成章节**：
+  - ch11 Concerning the Greek Tyrant（9/9 ✅）
+  - ch12 Withdrawal（5/5 ✅）
+  - ch13 Report on the Shadow Industry（6/6 ✅）
+  - ch14 Joe（5/5 ✅）
+  - ch15 The Puzzling Nature of Blue（5/5 ✅）
+- **门禁**：verify_quotes.py 逐篇全 ✅，总计 50/50 引文可核实（100%）
+- **格式**：符合 AGENTS.md 短篇合集精读规范（10处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commit**：`2b7f14c`
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-28 00:00 UTC] [Opencode-Mac] → All
 **主题**：Collected Stories by Peter Carey ch06-ch10 精读完成（5篇，50/50 引文核对通过）
 
