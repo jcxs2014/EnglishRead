@@ -29,7 +29,7 @@ modified: "2026-08-27"
 
 > **原句 1:** We are inspiration.
 
-**中文理解**：姐姐对诗人说的宣言——我们就是灵感。
+**中文理解**："我们就是灵感。"
 
 **句子结构**：简短的陈述句，语气坚定。
 
@@ -43,7 +43,7 @@ modified: "2026-08-27"
 
 > **原句 2:** "If you seek inspiration . . . ," she said, nodding at me to finish. ". . . you must surrender to the void," I blurted without thinking.
 
-**中文理解**：姐姐对诗人说的"灵感练习"——如果你寻求灵感，你必须向虚空投降。
+**中文理解**："如果你寻求灵感，你必须向虚空投降。"
 
 **句子结构**：条件句，语气神秘。
 
@@ -57,7 +57,7 @@ modified: "2026-08-27"
 
 > **原句 3:** It's tedium.
 
-**中文理解**：诗人对自杀原因的回答——是厌倦。
+**中文理解**："是厌倦。"
 
 **句子结构**：简短的陈述句，语气平静。
 
@@ -71,7 +71,7 @@ modified: "2026-08-27"
 
 > **原句 4:** Maybe not fully learning your lessons is ultimately what keeps you alive.
 
-**中文理解**：叙述者对诗人自杀未遂的思考——也许没有完全吸取教训最终让你活着。
+**中文理解**："也许没有完全吸取教训最终让你活着。"
 
 **句子结构**：长句，语气深思。
 
@@ -85,7 +85,7 @@ modified: "2026-08-27"
 
 > **原句 5:** "Are you ghosts?" When we didn't answer she turned on the light, and all three of us shielded our eyes.
 
-**中文理解**：诗人对两个女孩的疑问——你们是鬼还是吸血鬼？
+**中文理解**："你们是鬼还是吸血鬼？"
 
 **句子结构**：两个反问句，语气困惑。
 
@@ -99,7 +99,7 @@ modified: "2026-08-27"
 
 > **原句 6:** Always remain connected to your material.
 
-**中文理解**：姐姐对诗人说的"灵感规则"——永远与你的材料保持连接。
+**中文理解**："永远与你的材料保持连接。"
 
 **句子结构**：祈使句，语气权威。
 
@@ -113,7 +113,7 @@ modified: "2026-08-27"
 
 > **原句 7:** Inspiration!
 
-**中文理解**：叙述者成年后在诗人的房子里找到她时，诗人说的第一个词——灵感！
+**中文理解**："灵感！"
 
 **句子结构**：一个感叹词，语气惊喜。
 
@@ -127,7 +127,7 @@ modified: "2026-08-27"
 
 > **原句 8:** I get bored, I get sick, It's simple, I say. Everything that happens From the skin in Has to be this that I am.
 
-**中文理解**：诗人在戒酒一天后写的诗——我无聊，我生病，我说很简单。从皮肤里发生的一切，必须是这样的我。
+**中文理解**："我无聊，我生病，我说很简单。从皮肤里发生的一切，必须是这样的我。"
 
 **句子结构**：简短的诗行，语气平静。
 
@@ -141,7 +141,7 @@ modified: "2026-08-27"
 
 > **原句 9:** I put my finger inside that hole that's like an eye, and I touch inside. I touch my father inside, and I let him go.
 
-**中文理解**：叙述者在父亲去世后，用手指触摸喉咙里的"眼睛"，与父亲和解。
+**中文理解**："叙述者在父亲去世后，用手指触摸喉咙里的'眼睛'，与父亲和解。"
 
 **句子结构**：三个句子形成递进——put → touch → let go。
 
@@ -155,7 +155,7 @@ modified: "2026-08-27"
 
 > **原句 10:** She opens her hand and they drop from my palm into hers, like the little bones of minuscule creatures.
 
-**中文理解**：叙述者将从 Pitys 头发中取出的贝壳放进她手心——像微小生物的骨头。
+**中文理解**："她打开手，贝壳从我的手掌掉进她的手掌，像微小生物的骨头。"
 
 **句子结构**：长句，用比喻结尾。
 
