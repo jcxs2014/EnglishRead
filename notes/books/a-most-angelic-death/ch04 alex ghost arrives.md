@@ -54,7 +54,7 @@ modified: "2026-08-23"
 - 为什么这样写：**化妆箱被确认为"魔法媒介"**——它是 Lily 与物质世界的唯一通道，也是她**施展"化妆术"**的工具。这一幕把 Lily 从"被动的鬼"变成"**主动的参与者**"——她能做事，能改变外观，能**帮助活人**。
 - **读者视角提示**：**化妆箱是全书的关键道具**——谁控制它，谁就控制 Lily 的行动力。此后若化妆箱被移动、毁掉或被活人拿走，Lily 就会失去行动力。**化妆箱的安全 = Lily 的安全 = 全书的核心悬念**。
 
-**④** "‘I don't know anything else…but I am certain of that.’ To see him brighten was a relief to them all. Yet the darkness still shadowing his eyes troubled Marie."
+**④** “I don’t know anything else…but I am certain of that.”
 - 中文理解："我不知道其他什么……但我确信有人想杀我。"看到他一下子亮起来，大家都松了一口气。但 Alex 眼中依然笼罩着的黑暗还是让 Marie 担忧。
 - 关键词：certain of that（**"确信"**——Alex 的**唯一信念**）、darkness still shadowing his eyes（**"眼中的黑暗"**——既指**死者的灰暗**，也指**他灵魂中的愤怒与执念**），the darkness shadowing his eyes troubled Marie（Marie 的**母性直觉**——她看得出 Alex 不只是悲伤，是**危险**）。
 - 表达方式：**Alex 的愤怒被描写为"身体变黑 + 空气变冷"**——"his whole body beginning to darken. The air around him crackled slightly"。**鬼魂的愤怒是可见的、可感知的**。
@@ -68,7 +68,7 @@ modified: "2026-08-23"
 - 为什么这样写：**Ash 是本书的"现实主义锚"**——他不会被超自然吓到，不会被鬼魂感动，他只会问"能不能除臭"。这种**极度务实的幽默**让全书的**恐怖感保持平衡**，不至于变成纯鬼故事。
 - **读者视角提示**：Ash 对 Alex 的态度——**不敬畏、不同情、直球攻击**——是**本书"反恐怖"的核心手法**：作者不让鬼魂获得传统恐怖小说中的"畏惧特权"。
 
-**⑥** "‘We love you,‘ she added hurriedly. ‘We love you. But the thought of putting up with him doesn't fill me with joy.’ … ‘Yeah, get over yourself love. Being stuck here with you isn't my idea of a good time either. You're not exactly a looker…nice legs, shame about the face. Know what I mean?’"
+**⑥** “We love you. But the thought of putting up with him doesn’t fill me with joy.”
 - 中文理解："我们爱你，"她急忙补充道。"我们爱你。但想到要忍受他，我就觉得不快乐。"……"是啊，别太把自己当回事，亲爱的。被迫跟你们待在一起也不是我的享受。你长得也不怎么样……腿还行，可惜这脸。懂我意思吧？"
 - 关键词：get over yourself（**"别太把自己当回事"**——Alex 的**惯用口头禅**，活着时用，死了继续用）、nice legs, shame about the face（**"腿不错，可惜脸"**——Alex 的**侮辱模式**：先给一句假褒，再用"可惜"转折到人身攻击——这是**经典的被动攻击话术**）。
 - 表达方式：**Lily 的"爱"和 Alex 的"侮辱"被并置**——Rita 说"We love you"时急忙加补充，暴露了她**对 Alex 的厌恶**；Alex 回击的"nice legs, shame about the face"，是**典型的厌女 + 厌老双重侮辱**（Rita 五十岁、不算美女）。

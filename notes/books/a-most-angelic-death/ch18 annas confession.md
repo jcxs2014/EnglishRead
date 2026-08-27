@@ -55,7 +55,7 @@ modified: "2026-08-23"
 
 **选择性精读（7 处）：**
 
-**①** "'The results came back surprisingly quickly.' … 'According to the tox report, your powder did indeed contain the specific opioid alkaloids that are found in kratom… But the Angel's Trumpet plant, Brugmansia, only contains tropane alkaloids. The point is, your soul tea didn't contain any tropane alkaloids at all. And no opioid alkaloids were detected in the blood, urine and tissue samples taken from Alex—only those tropane alkaloids found in Angel's Trumpet.' … 'the absence of such compounds rules out Alex having drunk your soul tea before he died.'"
+**①** “The results came back surprisingly quickly.”
 - 中文理解："结果回来得出奇快。"……"根据毒理报告，你的粉末确实含有 kratom 特有的 opioid 碱……但 Angel's Trumpet 植物 Brugmansia 只含 tropane 碱。重点是，你的灵魂茶一点 tropane 碱都没有。Alex 的血、尿和组织样本中也没有检测到 opioid 碱——只有 Angel's Trumpet 的 tropane 碱。"……"这些化合物的缺失排除了 Alex 死前喝过你的灵魂茶的可能。"
 - 关键词：**"tropane alkaloids vs opioid alkaloids"**（"tropane 碱 vs opioid 碱"——Angel's Trumpet 含 tropane 碱，kratom 含 opioid 碱，两种植物化学成分不同——Alex 体内只有 tropane 碱 = Alex 死于 Angel's Trumpet，不是 kratom——Clara 被排除）；**"rules out"**（"排除"——Kinnock 用科学语言"排除"Clara——化学是"全书正义的最终武器"）。
 - 表达方式：Kinnock 的"tropane vs opioid"是本书"推理"的"最科学"的时刻——Kinnock 用"化学"来"说话"——Kinnock 的"化学"是"全书对正义"的"最理性"的表达。
@@ -90,7 +90,7 @@ modified: "2026-08-23"
 - 为什么这样写：Anna 的"My dad grew the plant"是本书对"家族遗产"的"最讽刺"的描写——Anna 的"父亲的植物"是"凶器"——Anna 的"父亲的植物"是"全书最讽刺的"道具。
 - 读者视角提示："My dad grew the plant"是全书最讽刺的句子——Anna 的"父亲的植物"是"凶器"——Anna 的"父亲"会"同样警告"Angel's Trumpet 和 Alex——这两个"警告"让 Anna 的"父亲"成为"全书最讽刺的"角色。
 
-**⑥** "'I had already decided I wasn't going to prison because of him. So I sprinkled a little bit into the rest of the packet. Then let myself into Clara's office. Yes, Clara, I have a key—Basil trusted me with things like that. I found a jar of that horrible tea you kept inflicting on people and laced your supply with Angel's Trumpet. I wore gloves, of course. A bit of petty revenge, I guess.'"
+**⑥** “I had already decided I wasn’t going to prison because of him.”
 - 中文理解："我已经决定我不会因为他而坐牢。所以我把一点撒在剩下的包装袋里。然后让我自己进入 Clara 的办公室。是的，Clara，我有一把钥匙——Basil 信任我管这些东西。我找到一瓶你一直在强加给别人的可憎的茶，在你的供应中混入了 Angel's Trumpet。当然我戴了手套。算是小小的报复，我想。"
 - 关键词：**"I wasn't going to prison"**（"我不会坐牢"——Anna 的"预谋"是"周全的"——Anna 的"冷静"是"全书最"令人不寒而栗"的"犯罪心理"）；**"laced your supply"**（"在你的供应中混入"——Anna 栽赃 Clara）；**"A bit of petty revenge"**（"小小的报复"——Anna 用"小小的"来描述"栽赃"——"全书最"讽刺"的"谦虚"）。
 - 表达方式：Anna 的"I wasn't going to prison"是本书对"预谋"的"最冷静"的描写——Anna 的"冷静"让 Anna 从"悲伤的受害者"变成"冷静的罪犯"。

@@ -68,7 +68,7 @@ modified: "2026-08-23"
 - 为什么这样写："愤怒 = 力量"是本书对"鬼魂物理"的**最精妙的定义**——鬼魂的力量来自"情感"，但"情感"也是"危险的"——这个"矛盾"是全书的**超自然伦理核心**。
 - 读者视角提示："愤怒 = 力量"是本书的**核心规则**——Alex 的"愤怒"让他强大，也让他危险；Lily 的"愤怒"让她能触物（本章打开箱子），但"愤怒"也可能是"复仇"的开始。
 
-**③** "'Can we try it now? Please Lily? I really need to.' … He wavered for a moment, then straightened his shoulders. 'Even so, I have to try.'"
+**③** “Can we try it now? Please Lily? I really need to.”
 - 中文理解："我们现在能试试吗？求你了 Lily？我真的需要。"……他动摇了一下，然后挺直了肩膀。"即便如此，我也必须试试。"
 - 关键词：**"I really need to"**（"我真的需要"——Alex 从"混蛋"变成"恳求者"，脆弱是他最令人心疼的时刻）；**"I have to try"**（"我必须试试"——Alex 知道外面可能是地狱，但仍然要试，勇气是他最矛盾的品质）。
 - 表达方式：Alex 的"please Lily"和"I have to try"形成**全书最矛盾的 Alex 时刻**——用"恳求"和"决心"同时表达"欲望"和"恐惧"——Alex 是全书最矛盾的角色。
@@ -89,7 +89,7 @@ modified: "2026-08-23"
 - 为什么这样写：Clara 的"恨"是本书对"宗教仇恨"最直接的描写——Clara 用"恨"来"拯救"Alex 的灵魂——Clara 的恨是"爱的反面"，但也是"爱的扭曲形式"——Clara 恨 Alex 是因为 Clara 爱上帝。
 - 读者视角提示："hatred flowed through him"是本书的**核心机制**——Clara 的恨能触发 Alex 的暴力——这意味着如果 Clara 再次遇到 Alex，Alex 可能再次失控——这个"机制"让 Clara 从"嫌疑人"升级为"能量触发器"。
 
-**⑥** "'Lily, where's Alex? Shouldn't he be here as well?' … Dreamily, she began to glide through the gentle waves, relishing the thrill of being one with the sea."
+**⑥** “Lily, where’s Alex? Shouldn’t he be here as well?”
 - 中文理解："Lily，Alex 在哪？他不应该也在吗？"……她梦幻般地开始在微波中滑行，享受着与海融为一体的刺激。
 - 关键词：**"one with the sea"**（"与海融为一体"——Lily 的鬼魂身体和海洋的能量融合，Lily 的鬼魂本质被海洋接受）；**"relishing the thrill"**（"享受着刺激"——Lily 在陆地上从未有过的快乐，是原始的）。
 - 表达方式：Lily 的"与海融为一体"是全书最诗意的超自然描写——Lily 的鬼魂身体不是"实体"，是"能量"——Lily 能和海洋的能量融合。

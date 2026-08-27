@@ -40,7 +40,7 @@ modified: "2026-08-23"
 
 **选择性精读（6 处）：**
 
-**①** "'I can move things!' she whispered, her face lighting up. 'I bashed Sam's popcorn all over the place.'"
+**①** “I can move things!” she whispered, her face lighting up. “I bashed Sam’s popcorn all over the place.”
 - 中文理解："我能移动东西了！"她低声说，脸上发亮。"我把 Sam 的爆米花全打飞了。"
 - 关键词：bashed（**"猛烈撞击"**——Lily 不是"轻轻碰到"，是**用力量把爆米花"打飞"**——**她是"有实体的鬼魂"**）、I can move things（**"我能移动东西"**——这是**全书超自然规则的第二个突破**：Lily 从"只能看见"升级到"能触物"）。
 - 表达方式：**Lily 用最轻快的语气说出最惊人的事实**——"I bashed Sam's popcorn all over the place"听起来像"**我在闹着玩**"，实际上是**"我成了实体幽灵"**。
@@ -68,14 +68,13 @@ modified: "2026-08-23"
 - 为什么这样写：**Clara 是本书对"好人不一定是好人"的**最典型代表**——**她的**"**善意**"**和**"**恶意**"**是**"**同一个行为**"**。**这种**"**道德模糊**"**是**"**本书最深刻的主题**"。
 - **读者视角提示**：**Clara 的"灵魂茶"是**"**本书最重要的物证**"**——**如果**"灵魂茶"里**含有**Angel's Trumpet**，**那**Clara 就是**"**无意的凶手**"**——**她**"下毒**"是为了**"帮助"**，**她的"帮助"是**"**致命的**"**。**这本书的**"真相**"**可能就是**"**一个好人不小心杀了人**"**。
 
-**⑤** "'I bet they did,' he muttered, peering at the dubious contents before handing it to DC Whitley… 'My herbal teas are renowned throughout the crew. Everybody insists that they are so good, they no longer need them.' 'I bet they do,' he muttered, peering at the dubious contents before handing it to DC Whitley waiting patiently by his side, holding open a large evidence bag.'
-- 中文理解：Kinnock 嘟哝"我打赌他们很需要。"他看着那可疑的内容，递给旁边耐心等候、举着大证物袋的 DC Whitley。"我的草本茶在整个剧组都很有名。大家都坚持说它们那么好，以至于他们不再需要它们了。""我打赌他们很需要，"Kinnock 嘟哝着。
+**⑤** “I bet they did that with my bacon roll as well,” Giles declared, his face red with indignation.我打赌他们很需要。"他看着那可疑的内容，递给旁边耐心等候、举着大证物袋的 DC Whitley。"我的草本茶在整个剧组都很有名。大家都坚持说它们那么好，以至于他们不再需要它们了。""我打赌他们很需要，"Kinnock 嘟哝着。
 - 关键词：renowned throughout the crew（**"在整个剧组都很有名"**——Clara 的"茶"是"全剧组都知道"的，**她不是秘密下毒**，**是"公开提供"）、dubious contents（**"可疑的内容"**——Kinnock **直接说"可疑"**——**他怀疑茶的成分**）、I bet they do（**"我打赌他们很需要"**——Kinnock **讽刺 Clara 的自夸**——**Clara 说"大家不再需要我的茶"**，**Kinnock 说"我打赌他们很需要"**——**Kinnock 的讽刺是本书最尖锐的**"**警方 vs 伪善者**"的对白**。
 - 表达方式：**Kinnock 的"I bet they do"是**"双重讽刺"**——**字面上是"我打赌他们很需要茶"**，**实际上**是**"我打赌他们很需要这种'宗教关怀'"**——**Kinnock 把 Clara 的"宗教关怀"降格为"药物需求"**。
 - 为什么这样写：**Kinnock 的"讽刺"是本书对"宗教伪善"的**最尖锐武器**——**Kinnock 是**"**理性的怀疑者**"**，**Clara 是**"**感性的信徒**"**——**两人的冲突是**"**理性 vs 信仰**"**。
 - **读者视角提示**：**Kinnock 的"dubious contents"是**"**证据链的关键一环**"**——**如果**"灵魂茶"被**化学分析**确认含有**Angel's Trumpet**，**那**Clara 的"宗教关怀"就是**"**谋杀**"**。**
 
-**⑥** "'BlackWall Security is a registered business…This is my registered office.' 'Oh, I'm sure it's all legal and above board, Mr Price,' Kinnock said dryly… 'Is it possible that your final warning involved slipping him a substance that—inadvertently, I'm sure—led directly to his death? Scopolamine, for example?' Magnus Price grew very still… 'We do not operate in such an intimidating fashion.'"
+**⑥** “BlackWall Security is a registered business, one that I established many years ago.”
 - 中文理解：Magnus Price 说 BlackWall Security 是注册企业。Kinnock 讽刺说"我确信一切合法透明，Price 先生。"然后直接问"你的最后通牒是否包括给他下了某种物质——无意的——导致了他的死亡？比如东莨菪碱？"Magnus Price 完全静止了。"我们不会用这种恐吓方式行事。"
 - 关键词：registered business（**"注册企业"**——Magnus 用"合法"来掩饰非法）、I'm sure it's all legal and above board（**"我确信一切合法透明"**——Kinnock **反讽**，"I'm sure"=**"我完全不信"**）、Scopolamine（**"东莨菪碱"**——Angel's Trumpet 主要致幻成分的**药理学名称**——Kinnock **用专业术语**，显示**他的**"**专业素养**"**）、grew very still（**"完全静止"**——Magnus **的**"静止"是**"被戳中要害"的反应**。
 - 表达方式：**Kinnock 的"I'm sure it's all legal and above board"是**"**警方的反讽标准句式**"**——**"I'm sure"=**"我不信"**。这种**"礼貌的反讽"**是**本书对"英国警方文化"**的**精准刻画**。

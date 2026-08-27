@@ -58,7 +58,7 @@ modified: "2026-08-23"
 
 **选择性精读（7 处）：**
 
-**①** "'Oi, knobhead. Come here.' … 'Alex Stibard, you know him?' … 'Yeah…and my boss wants payback. Stibard owed us money. A lot of money.' … 'I'm pretty sure he's not in a position to pay you back, you gimp. He's very dead.' 'You're not though, sweetheart. You can get us the cash.'"
+**①** “Oi, knobhead. Come here.”
 - 中文理解："喂，蠢货。过来。"……"Alex Stibard，你认识他？"……"认识……我老板想要回报。Stibard 欠我们钱。很多钱。"……"我很确定他现在没能力还你钱，瘸子。他已经死了。""你是活着的，甜心。你可以帮我们搞到钱。"
 - 关键词：**"knobhead"**（"蠢货"——Petrov 用英式粗话称呼 Sam）；**"gimp"**（"瘸子"——Sam 用"瘸子"回敬 Petrov，Sam 的"反抗"是"嘴硬"）；**"sweetheart"**（"甜心"——Petrov 用"甜心"称呼 Sam，用最甜的话说最狠的事）。
 - 表达方式：Petrov 的"sweetheart"是全书最"虚伪"的称呼——Petrov 用"甜心"来"软化"他的威胁——Petrov 的"甜心"是"施暴者的糖衣"。
@@ -72,7 +72,7 @@ modified: "2026-08-23"
 - 为什么这样写：Petrov 的"sledgehammer"是本书对"暴力"的"最诗意"的描写——Petrov 的拳头是"雪橇锤"——Petrov 的"暴力"是"工具"——Petrov 是"人形工具"。
 - 读者视角提示：Petrov 的"sledgehammer"是全书对"暴力"的"最终极"的描写——Petrov 的"暴力"是"工业化的"——Petrov 不是"人"，Petrov 是"人形雪橇锤"。
 
-**③** "'I saw her, in the rain. She came for me.' … 'A Russian ghost,' he explained. 'My mum loves all that kind of stuff,' he continued, anticipating Kinnock's next question. 'An unquiet, dangerous spirit associated with water. In folklore, of course…not actual real life. My mum used to tell me how the rusalka could tickle a man to death while she laughed. And yes, she would tell me the tale while tickling me, of course. It's a mother thing…'"
+**③** “A Russian ghost,” he explained. “My mum loves all that kind of stuff,” he continued.
 - 中文理解："我在雨里看见她了。她来找我。"……"一个俄罗斯鬼魂，"他解释。"我妈妈喜欢这类东西，"他继续说，预判 Kinnock 的下一个问题。"一个不安宁的、与水有关的危险灵魂。当然是民间传说……不是现实生活。我妈妈常告诉我 rusalka 能在笑的时候把人痒死。是的，她讲这个故事的时确实在痒我。当然。这是妈妈的作风……"
 - 关键词：**"Rusalka"**（"水鬼"——斯拉夫神话中的女鬼，Petrov 用他的文化背景来解释 Lily——Lily 是"Petrov 的 Rusalka"）；**"tickling a man to death"**（"把人痒死"——Petrov 妈妈讲的"水鬼故事"是"恐怖的"——"痒死"是"爱的暴力"——Petrov 妈妈的"故事"和 Petrov 的"暴力"是"同一种东西"）。
 - 表达方式：Petrov 的"Rusalka"是全书对"鬼魂"的"文化相对"的最精彩描写——Petrov 用他的"俄罗斯神话"来解释 Lily——这个"文化翻译"是"全书对鬼魂"的"最有趣"的描写。

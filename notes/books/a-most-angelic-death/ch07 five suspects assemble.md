@@ -48,7 +48,7 @@ modified: "2026-08-23"
 - 表达方式：**毒理学家用"of course"和"didn't take too much pride"来消解指纹证据**——见惯酒店卫生差。
 - 为什么这样写：**Anna 的嫌疑被"既明显又不足为奇"化**——明显（当天早上在场），不足为奇（酒店到处是她的指纹）。**Anna 可能是一个"红鲱鱼"**。
 
-**③** "'I'll explain later,' she said quietly. 'He'll disappear in a moment.' … Lily's heart tightened, knowing that Marie wasn't yet ready to learn that her son's spirit hadn't moved on. Especially since discovering they only seemed to linger if there were doubts about how they had died."
+**③** “I’ll explain later,” she said quietly. “He’ll disappear in a moment.”
 - 中文理解：Lily 看到 Andy 的鬼魂带着鬼泪流下面孔出现在 Marie 身旁，知道 Marie 还没准备好接受儿子没有安息的事实。Lily 还发现了超自然规则：**鬼魂只有对死因有疑才会滞留**。
 - 关键词：ghostly tears running down his face（**"鬼魂的泪流下脸"**——Andy 的鬼带着悲伤出现，不是安息的灵魂）、lingering if there were doubts（**"只有对死因有疑才会滞留"**——Lily 的**超自然理论被明确化**：鬼魂滞留 = 死因存疑。Andy 死因存疑 = **Andy 可能不是自杀**）。
 - 表达方式：**Andy 的鬼魂是全书最令人心碎的超自然画面**——一个哭泣的灵魂，站在他母亲旁边，她看不见他。这是**全书情感最重的一刻**。
