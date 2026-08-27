@@ -97,3 +97,7 @@ modified: "2026-08-27"
 | out of the blue | 突然地 | 描述意外的联系或事件 |
 | didn't want to be seen | 不想被看到 | 描述需要隐藏的关系或秘密 |
 | less concerned with...more concerned with | 更少关心...更多关心 | 描述优先级的变化 |
+
+## 一句话总结
+
+叙述者最终接受了 Ashwin 不会离开他的妻子——Patel 用"Or after we'd screwed"描述了秘密关系的残忍真相：性之后是关于另一个女人的问题。

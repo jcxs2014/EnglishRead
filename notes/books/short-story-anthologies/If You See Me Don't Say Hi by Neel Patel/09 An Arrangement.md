@@ -105,3 +105,7 @@ modified: "2026-08-27"
 | unwittingly belonged | 不知情地属于 | 描述被动地属于某个系统 |
 | made love sparingly | 很少做爱 | 描述欲望的缺席 |
 | not strong enough | 不够强 | 描述指责或批评 |
+
+## 一句话总结
+
+叙述者从未想要嫁给她丈夫，她最终选择了不怀孕——Patel 用"arrangement"描述了包办婚姻的空洞：不是没有爱，是没有欲望。

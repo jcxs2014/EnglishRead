@@ -105,3 +105,7 @@ modified: "2026-08-27"
 | Of course you didn't see me | 当然你没有看到我 | 描述单相思的预设失望 |
 | so black it shone blue | 黑得发蓝 | 描述记忆中的美 |
 | nothing like you | 和你完全不同 | 描述选择或对比 |
+
+## 一句话总结
+
+叙述者嫁给了 Jacob，但她在婚礼上看到了"你"——Patel 用 Radha 和 Krishna 描述了单相思的永恒：不是得到，是永远得不到。

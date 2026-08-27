@@ -103,5 +103,9 @@ modified: "2026-08-27"
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
 | the friction of life has a way of | 生活的摩擦有一种方式 | 描述时间对人的改变 |
+
+## 一句话总结
+
+叙述者最终接受了水管工 Ricky A. 不爱她的事实——Patel 用最少的词语描述了移民女性在网上约会中的最真实处境：不是被拒绝，是从未被选择。
 | a duller, slightly misshapen version of your former self | 更迟钝的、稍微变形的自己 | 描述经历后的自我变化 |
 | in the way that people on Facebook seem happy | 就像 Facebook 上的人看起来很幸福一样 | 描述社交媒体的表面幸福 |

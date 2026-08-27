@@ -89,3 +89,7 @@ modified: "2026-08-27"
 | another language entirely | 另一种完全不同的语言 | 描述语言或文化的差异 |
 | to help the British build the rail | 帮英国人修铁路 | 描述移民的历史背景 |
 | These people are thieves | 这些人是小偷 | 描述偏见或刻板印象 |
+
+## 一句话总结
+
+叙述者在肯尼亚的厨房里遇到了 houseboy，他微笑着——Patel 用"另一种语言"描述了东非印度人的身份困境：不是印度人，不是肯尼亚人，是两者都不是。

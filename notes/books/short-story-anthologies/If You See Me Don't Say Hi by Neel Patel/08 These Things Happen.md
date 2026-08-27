@@ -104,3 +104,7 @@ modified: "2026-08-27"
 | Being a mess | 成为一个糟糕的人 | 描述自我贬低或脆弱 |
 | That was uncircumcised | 那是未割包皮的 | 描述身体差异时的医学语言 |
 | That was beautiful | 那很美 | 描述对差异的接纳 |
+
+## 一句话总结
+
+Chloe 说"beautiful"，Ray 在 IHOP 欺负叙述者——Patel 用"这些事发生"描述了阶级和欲望的交织：有些人觉得你是垃圾，有些人觉得你是美丽的。

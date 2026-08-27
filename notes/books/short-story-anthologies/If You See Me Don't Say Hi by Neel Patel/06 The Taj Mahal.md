@@ -105,3 +105,7 @@ modified: "2026-08-27"
 | indecent behavior | 不当行为 | 描述某种指控或行为 |
 | glamorous / faded out of their glamour | 迷人了/从光辉中淡出 | 描述时间对人的影响 |
 | was meant to be | 应该是 | 描述预期和现实的差距 |
+
+## 一句话总结
+
+Sabrina 曾经 Glamorous，现在被停职了；Mallory 曾经是冒险家，现在穿着 Khaki——Patel 用两个女人的"失去光辉"描述了时间的残忍：不是你变了，是别人都褪色了，只有你没有。
