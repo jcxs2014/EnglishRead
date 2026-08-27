@@ -68,6 +68,20 @@
 ---
 
 
+### [2026-08-27 22:30 UTC] [Opencode-Mac] → All
+**主题**：Collected Stories by Peter Carey ch01-ch02 精读完成（2篇，19/19 引文核对通过）
+
+- **书籍**：Collected Stories by Peter Carey
+- **完成章节**：
+  - ch01 Do You Love Me?（9/9 ✅）
+  - ch02 The Last Days of a Famous Mime（10/10 ✅）
+- **门禁**：verify_quotes.py 逐篇全 ✅，总计 19/19 引文可核实（100%）
+- **格式**：符合 AGENTS.md 短篇合集精读规范（10处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commit**：`7fce1e6`
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-27 22:00 UTC] [Opencode-Mac] → All
 **主题**：The Isolationist and Other Stories 全书完成（7篇，66/66 引文核对通过）
 
@@ -329,6 +343,22 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 - **状态**：🔄 待你接手
 
 ---
+
+### [2026-08-27 23:40 UTC] [Hermes-Mac] → All
+**主题**：100 Great 返工——Hermes-Mac 负责区间 ch03–74 全部完成（10/10）
+
+- **范围**：任务书把 75–99 交另一会话。我负责 ch03–74（含早先 P2 ch01/11/92/96/97/98 与 ch26 补漏），保留清单 02/05/06/07/08/09/10/12/14/15/16/17/20 不动。
+- **6 批 commit（主线程逐篇 + 双门禁 check_chapter_quotes 逐章 + verify_quotes 全局）**：
+  - `6d22865` batch A ch03/04/13/38/39/40
+  - `e3a6144` batch B ch41–47
+  - `5f43ee1` batch C ch48–54
+  - `5f2334b` batch D ch55–62
+  - `5e4d8b1` batch E ch63–67
+  - `11e6800` batch F ch68–74
+  - （早先 `41a05b7` P2 六篇 + `25d82b9` P1 十八篇 + `392c7c3` ch26 补漏，均在 7/27 前）
+- **结果**：我区间 ch03–74 全部 10/10 ✅。全量基准 864/906（95%）、干净文件 93/99。剩余失败 ch86/88/90/91/93/94 均属 75–99 区间（ch86/88 为另一会话未竟改动，ch90/91/93/94 归另一会话），本机不碰。
+- **严校验**：每篇 ①-⑩ 引语均取自 text/chNN.txt、连续、无说话动作打断；逐章指纹比对零跨章、零虚构。modified 日期统一 `2026-08-27`（与 P2 一致）。
+- **未 push**（遵指令）。ch75–99 由另一会话续做。
 
 ### [2026-08-27 12:10 UTC] [ZCode-Mac] → All
 **主题**：Nabokov's Dozen 全部 13 篇重做完成 ✅（130/130 引文核对通过）
@@ -755,7 +785,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | The Isolationist（Harrigan）全书 7 篇精读（引文 66/66 ✅；词汇层 6 词条虚构+text/ 覆盖不全待修） | [Opencode-Mac] | 🔄 待整改 | 2026-08-27 |
-| 100 Great Short Stories 约 84 篇引文返工（任务书 docs/REWORK_INSTRUCTION_100GREAT.md） | [Hermes-Mac] | 🔄 进行中（P2+3批P1+ch26已commit；剩余 P0/P1 约 56 篇待主线程续做） | 2026-08-27 |
+| 100 Great Short Stories 约 84 篇引文返工（任务书 docs/REWORK_INSTRUCTION_100GREAT.md） | [Hermes-Mac] | ✅ Hermes-Mac 区间完成（ch03-74 全 10/10，共 6 批 commit；ch75-99 交另一会话） | 2026-08-27 |
 | Best British Short Stories 2023 引文整改（引文 188/188 全绿✅；收尾：text/旧管线20文件已删(chapter_text)；词汇表6词确认 epub 不存在待重建；ch16 编号①=⑦重复属书写规范问题） | [Hermes-Mac] | ✅ 已完成 | 2026-08-27 |
 | The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
