@@ -22,6 +22,8 @@ import re, sys, glob, html, zipfile, tempfile, os
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩'
 
 def flat_alpha(s: str) -> str:
+    # 先剥掉引文里手写的段落转义符（\n/\t 会被指纹误读为字母 nn/tt）
+    s = re.sub(r'\\+\s*[nt]', '', s)
     return re.sub(r'[^a-z0-9]', '', s.lower())
 
 def epub_flat_text(epub_path: str) -> str:
