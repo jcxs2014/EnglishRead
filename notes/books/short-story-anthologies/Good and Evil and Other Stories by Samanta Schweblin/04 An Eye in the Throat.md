@@ -1,8 +1,9 @@
 ---
 状态: 未读
+modified: "2026-08-27"
 ---
 
-# An Eye in the Throat（精读分析）
+# 04. An Eye in the Throat（精读分析）
 
 ## 概览
 

@@ -1,8 +1,9 @@
 ---
 状态: 未读
+modified: "2026-08-27"
 ---
 
-# A Fabulous Animal（精读分析）
+# 02. A Fabulous Animal（精读分析）
 
 ## 概览
 
@@ -185,7 +186,7 @@
 | raspy | adj. 沙哑的；刺耳的 | "Her voice is calm and raspy" |
 | balk | v. 犹豫；止步不前 | "It was balked, harnessed to a cart" |
 | gendarme | n. 警察；宪兵 | "his chest puffed out stiffly like a gendarme's" |
-| perturbation | n. 不安；烦恼 | "silence was always a symptom of Elena's unease" |
+| unease | n. 不安；忧虑 | "silence was always a symptom of Elena's unease" |
 | guttural | adj. 喉音的；粗野的 | "confused and guttural, as if she had swallowed something full of pain" |
 
 ### ⭐ 基础

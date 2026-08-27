@@ -1,8 +1,9 @@
 ---
 状态: 未读
+modified: "2026-08-27"
 ---
 
-# The Woman from Atlántida（精读分析）
+# 05. The Woman from Atlántida（精读分析）
 
 ## 概览
 
@@ -183,7 +184,7 @@
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | rancid | adj. 酸臭的；腐臭的 | "The rancid smell of alcohol didn't reach the main salon" |
-| bouillon | n. 肉汤；清汤 | (未在原文中找到，可能需要检查) |
+| alcohol | n. 酒精；含酒精饮料 | "The rancid smell of alcohol didn't reach the main salon" |
 | jagged | adj. 锯齿状的；粗糙的 | (未在原文中找到，可能需要检查) |
 | scotch tape | n. 透明胶带 | "She had cut out letters from different magazine headlines and was taping them to the paper one by one" |
 | bidet | n. 坐浴盆 | "She had been playing with her makeup, which was spread out on the counter under the mirror" |

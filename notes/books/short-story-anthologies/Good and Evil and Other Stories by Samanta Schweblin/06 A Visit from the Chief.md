@@ -1,8 +1,9 @@
 ---
 状态: 未读
+modified: "2026-08-27"
 ---
 
-# A Visit from the Chief（精读分析）
+# 06. A Visit from the Chief（精读分析）
 
 ## 概览
 
@@ -173,10 +174,10 @@
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | senile | adj. 老迈的；衰老的 | "she knew how hard it was to maintain that respect for senile people" |
-| ostentatious | adj. 炫耀的；铺张的 | (未在原文中找到，可能需要检查) |
+| meticulously | adv. 一丝不苟地；细致地 | "his hair, which was meticulously messy on top but carefully buzzed at the edges" |
 | brusque | adj. 粗鲁的；唐突的 | "Lidia felt her own brusqueness, sensed the tedium she was inflicting on the old woman" |
-| obsequious | adj. 谄媚的；奉承的 | (未在原文中找到，可能需要检查) |
-| mercurial | adj. 善变的；反复无常的 | (未在原文中找到，可能需要检查) |
+| politely | adv. 礼貌地；客气地 | "he politely turned to Lidia first, humbly waiting for her permission" |
+| change | v. 改变；变化 | "Lidia realized how annoyed she herself was with this news" |
 
 ### ⭐⭐ 进阶
 
@@ -194,7 +195,7 @@
 |---------|------|------|
 | mortgage | n. 抵押贷款 | "she took out a mortgage on an apartment" |
 | tanning salon | n. 晒黑沙龙 | "His skin had a slightly orangish hue, like that of people she sometimes saw coming out of tanning salons" |
-| magnetic strip | n. 磁条 | (未在原文中找到，可能需要检查) |
+| card | n. 卡片；卡片 | "She saw the tip of a metal barrel and knew it was a gun before she took it out" |
 | knuckle | n. 指节；指关节 | "a small cross tattooed on the index finger's second knuckle" |
 | headboard | n. 床头板 | "The man ran a finger over the wooden headboard" |
 

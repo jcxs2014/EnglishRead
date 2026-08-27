@@ -1,8 +1,9 @@
 ---
 状态: 未读
+modified: "2026-08-27"
 ---
 
-# William in the Window（精读分析）
+# 03. William in the Window（精读分析）
 
 ## 概览
 
@@ -28,7 +29,7 @@
 
 > **原句 1:** I just want it to be perfect.
 
-**中文理解**：叙述者用"完美"作为借口，逃避与 Andrés 的面对。
+**中文理解**："用'完美'作为借口，逃避与 Andrés 的面对。"
 
 **句子结构**：简短的直接引语，语气天真但内容沉重。
 
@@ -42,7 +43,7 @@
 
 > **原句 2:** But above all I was frightened by the suspicion that if Andrés died, I might die with him.
 
-**中文理解**：叙述者最深的恐惧——如果 Andrés 死了，她也会跟着死。
+**中文理解**："如果 Andrés 死了，她也会跟着死。"
 
 **句子结构**：长句，用"above all"强调最深的恐惧。
 
@@ -56,7 +57,7 @@
 
 > **原句 3:** "I do love my husband," she said. "It's not that I don't love him. But William is all I have."
 
-**中文理解**：Denyse 对丈夫的复杂情感——她爱他，但猫是她"全部拥有"的东西。
+**中文理解**："我确实爱我的丈夫，"她说。"不是我不爱他。但威廉是我唯一拥有的。"
 
 **句子结构**：三个句子形成转折——"love" → "not that I don't" → "But William is all I have"。
 
@@ -70,7 +71,7 @@
 
 > **原句 4:** At first you think he's a hero, after ten years he's more like a sucker, after twenty he's a blockhead, and by then it's too late to break up.
 
-**中文理解**：Denyse 对婚姻的 cynical 看法——从英雄到傻瓜，最后太晚了。
+**中文理解**："一开始你觉得他是英雄，十年后他更像傻瓜，二十年后他是笨蛋，到那时再分手就太晚了。"
 
 **句子结构**：四个阶段形成递进，节奏感强。
 
@@ -84,7 +85,7 @@
 
 > **原句 5:** He has strong, manly hands, with long fingers and square palms. I like that blurry mark he leaves of himself. It moves me somehow.
 
-**中文理解**：叙述者描述 Andrés 在浴室瓷砖上留下的手印——一个只有她能看到的"日常礼物"。
+**中文理解**："Andrés 在浴室瓷砖上留下的手印——一个只有她能看到的'日常礼物'。"
 
 **句子结构**：两个句子形成对比——"strong, manly hands" vs "blurry mark"。
 
@@ -98,7 +99,7 @@
 
 > **原句 6:** Madness scares you, it distracts you, but you have to look at it closely.
 
-**中文理解**：Denyse 对疯狂的看法——它吓人、分散注意力，但你必须仔细看。
+**中文理解**："疯狂吓人、分散注意力，但你必须仔细看。"
 
 **句子结构**：三个动词形成递进——scares → distracts → look at。
 
@@ -112,7 +113,7 @@
 
 > **原句 7:** I am rational and mature enough to understand that this cannot be happening. But if I'm going crazy, I need someone to stay with me.
 
-**中文理解**：Denyse 的理性与疯狂并存——她知道这不可能发生，但如果她疯了，她需要有人陪伴。
+**中文理解**："她知道这不可能发生，但如果她疯了，她需要有人陪伴。"
 
 **句子结构**：两个句子形成矛盾——"rational" vs "going crazy"。
 
@@ -126,7 +127,7 @@
 
 > **原句 8:** What if William really was in the room with us? And what if the mark had never been there, and I'd only imagined it? And what if Denyse had made it all up and there was no cat or son or husband? What if Andrés was already dead but no one had been able to reach me? What if I was crazy too, and I was losing all control over my life?
 
-**中文理解**：叙述者的"what if"恐惧连锁——从 William 的鬼魂到 Andrés 的死亡，再到自己的疯狂。
+**中文理解**："从 William 的鬼魂到 Andrés 的死亡，再到自己的疯狂。"
 
 **句子结构**：五个"What if"形成恐惧的连锁反应。
 
@@ -140,7 +141,7 @@
 
 > **原句 9:** She's going to survive.
 
-**中文理解**：叙述者对 Andrés 说的最重要的话——Denyse 会活下来。
+**中文理解**："Denyse 会活下来。"
 
 **句子结构**：简短的陈述句，语气坚定。
 
@@ -154,7 +155,7 @@
 
 > **原句 10:** William in the Kilkenny window, upright and attentive, finally turning toward me, recognizing me, granting me the certainty of his gaze.
 
-**中文理解**：叙述者在结尾看到 William 在 Kilkenny 窗口——它转向她，确认她的存在。
+**中文理解**："William 在 Kilkenny 窗口转向她，确认她的存在。"
 
 **句子结构**：三个动词形成递进——turning → recognizing → granting。
 
@@ -186,7 +187,7 @@
 | shriek | v. 尖叫 | "the girl started shrieking in pure rage" |
 | disconcerted | adj. 不安的；困惑的 | "so dramatic that I sat staring at the phone, disconcerted" |
 | facet | n. 方面；层面 | "this other kind of suffering" |
-| sloth | n. 懒惰；树懒 | "stoic and dignified" |
+| stoic | adj. 坚忍的；克制的 | "stoic and dignified" |
 
 ### ⭐ 基础
 
