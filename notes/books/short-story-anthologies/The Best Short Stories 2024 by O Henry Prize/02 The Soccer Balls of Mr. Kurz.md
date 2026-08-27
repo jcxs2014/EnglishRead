@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | even that beauty was anguished | 即使那种美也是痛苦的 | 描述"美"与"痛苦"的共存 |
 | found himself suddenly older | 发现自己突然老了 | 描述"瞬间成长"或"失去天真" |
 | the harm was locked in their hearts | 伤害锁在心里 | 描述情感创伤的持久性 |
+
+## 一句话总结
+
+在意大利寄宿学校的围墙那边，Mr. Kurz 永远没收所有踢过墙的足球——Michele Mari 用一个孩子的恐惧，讲述了我们对看不见的掠夺者的最早理解：我们害怕的不是失去，是那种失去本身。

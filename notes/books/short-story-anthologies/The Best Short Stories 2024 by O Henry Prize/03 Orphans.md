@@ -121,3 +121,7 @@ modified: "2026-08-28"
 | not so much warned as primed | 与其说是警告不如说是铺垫 | 描述"传言"的复杂性 |
 | the loneliness of obsolescence | 过时者的孤独 | 描述退休或不被需要的感受 |
 | Annabelle died, and everything ruptured | 安娜贝尔死了，一切都破裂了 | 描述突发丧失导致的全面崩溃 |
+
+## 一句话总结
+
+三条叙事线在 Annabelle 的死亡处交汇——Brad Felver 用 Gus、Macon 和 Ruth 三个孤儿，讲述了我们如何通过记忆来保护我们所爱的人：记忆是我们在失去之后唯一能抓住的东西。

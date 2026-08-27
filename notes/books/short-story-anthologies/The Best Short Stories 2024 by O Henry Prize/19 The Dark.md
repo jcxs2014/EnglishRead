@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | finds himself on his first date | 发现自己（意外地）在第一次约会中 | 描述意外或被动的情况 |
 | channeling his old self | 召唤他的旧我 | 描述试图重获过去的能力或特质 |
 | for some reason | 出于某种原因 | 描述无意识的行为 |
+
+## 一句话总结
+
+Doug 的妻子去世前让他提防金发女人，两年后他的第一次约会对象正是金发女人——Jess Walter 用指令和遵守的游戏，讲述了我们如何在失去之后，仍然不知道该怎么做。

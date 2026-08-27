@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | does not alter his routine | 没有改变他的日常 | 描述在巨变中保持不变的人 |
 | even the dead would need to evacuate | 连死去的人也需要撤离 | 描述损失的全面性 |
 | build Henry's coffin | 给 Henry 做棺材 | 描述为所爱之人的死亡做准备 |
+
+## 一句话总结
+
+1919 年，水坝要淹没 Willards Mill，Junior Ogilvy 守着年迈的父亲，拒绝离开——Katherine D. Stutzman 用极简的词语，讲述了我们如何在没有计划的情况下，仍然知道我们必须留下来。

@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | tripped up by her own cleverness | 被自己的聪明绊倒 | 描述聪明反被聪明误的情况 |
 | a responsible child | 负责任的孩子 | 描述"过去的他"与"现在的他"的对比 |
 | Careful, careful | 小心，小心 | 角色反转时使用 |
+
+## 一句话总结
+
+Mrs. Lee 找不到她藏起来的结婚戒指，她的儿子 Ken 是一个吸毒者——Caroline Kim 用藏和找的循环，讲述了我们如何创造一个好藏点，然后再也找不到它；我们如何把记忆藏起来，然后再也想不起来。

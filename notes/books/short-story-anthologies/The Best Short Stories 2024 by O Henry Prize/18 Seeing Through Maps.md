@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | My axe hung in the sky | 我的斧头悬在天空中 | 描述时间停止的一刻 |
 | embedded in | 嵌在...里 | 描述某物在另一物之中 |
 | let down your guard | 放下防备 | 描述对权威或规则的怀疑 |
+
+## 一句话总结
+
+叙述者在树木的年轮里发现了一个蓝色的墨水地图，那是邻居的书《Seeing Through Maps》里描述的为自己目的而作的地图——Madeline fitch 用尿和蓝墨水的交汇，讲述了我们如何通过研究地图来理解自己不理解的意义。

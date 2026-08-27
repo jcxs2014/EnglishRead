@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | inert, contained | 惰性的、有界限的 | 描述静态的、完美的、有边界的事物 |
 | the middle of nowhere | 荒郊野外 | 描述偏远的地方 |
 | the carefully worded promise | 精心措辞的承诺 | 描述请柬或合同的本质 |
+
+## 一句话总结
+
+Helen 在加州小镇独居，叔叔 Peter 住进她的车库——Dave Eggers 用邀请的语言，讲述了我们如何在远程的关系里，仍然保持在场。

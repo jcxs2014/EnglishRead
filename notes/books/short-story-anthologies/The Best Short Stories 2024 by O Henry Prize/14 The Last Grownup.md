@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | picking off a scab | 揭掉痂 | 描述愈合过程中的痛苦 |
 | Where was Debra hurt? | 伤痛在哪里？ | 描述无法解释的情感伤痛 |
 | buried her face in | 把脸埋进 | 描述在动物或他人身上寻求安慰 |
+
+## 一句话总结
+
+Debra 的女儿们和前夫离开，直到周日；她坐在沙发上哭泣，和狗 Max 在一起——Allegra Goodman 用空巢的碎片，讲述了我们如何在不照顾自己的日子里，找到让自己感到在家的方式。

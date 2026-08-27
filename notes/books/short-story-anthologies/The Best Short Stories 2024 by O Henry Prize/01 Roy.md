@@ -145,3 +145,7 @@ modified: "2026-08-28"
 | trapped in one's dark aquarium | 困在某人的黑暗水族馆里 | 描述精神状态被困 |
 | in living color | 活生生的 | 强调某人的真实存在 |
 | careened too fast | 疾驰而过快 | 描述鲁莽的驾驶或行动 |
+
+## 一句话总结
+
+在一个潮湿的夏天，九岁的 Roy 叔叔来到姐妹俩的身边，照顾她们直到奶奶去世——Emma Binder 用最少的词语描述了儿童对死亡的最早理解：不是理解，是感受。

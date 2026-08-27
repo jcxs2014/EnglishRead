@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | work it out | 弄清楚 | 描述推理或理解的过程 |
 | go through the hassle of | 必须经过...的麻烦 | 描述为了达到目的而必须付出的努力 |
 | switch on and off | 时开时关 | 描述间歇性的变化 |
+
+## 一句话总结
+
+Scully 在镇广场的公用电话上发现一张纸条：If

@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | take up even less space | 占据更少的空间 | 描述某人的自我压缩或防御性姿态 |
 | Does it hurt them? | 它们会痛吗？ | 追问道德模糊的实验或行为 |
 | getting better at controlling for that | 更好地控制它了 | 描述自我欺骗式的"改善"回答 |
+
+## 一句话总结
+
+十七岁的 Didi 被送到姑姑家改造，但姑姑自己也在对虾做某种改造——Amber Caron 用道德转移，讲述了我们如何通过评判他人来回避自己的伪善。

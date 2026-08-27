@@ -103,3 +103,7 @@ modified: "2026-08-28"
 | our domain | 我们的领地 | 描述对某个空间的"拥有感" |
 | no longer thought of ourselves as foreigners | 不再把自己当成外国人 | 描述"融入"的过程和局限 |
 | these are my sons | 这些是我的儿子们 | 用"家庭"语言来定义非血缘关系 |
+
+## 一句话总结
+
+一群墨西哥移民在拖车公园接待了来自 Sierra Madre 的 Serranos——Francisco González 用我们和他们的界限变化，讲述了我们如何在成为当地人之后，仍然对更新的移民保持距离。

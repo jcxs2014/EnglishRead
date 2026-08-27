@@ -113,3 +113,7 @@ modified: "2026-08-28"
 | the glue that held our marriage together | 把婚姻粘在一起的胶水 | 描述某物或某人在关系中的核心作用 |
 | These are very lonely times | 这些是非常孤独的时代 | 描述普遍的社会孤独感 |
 | afraid to enter or ruin it by moving | 害怕进入或因移动而打破它 | 描述旁观者对美好事物的珍视 |
+
+## 一句话总结
+
+一对夫妻在老猫死后去领养新猫，收养员 Sarah 说这些是非常孤独的时代——Morris Collins 用宠物、婚姻和孤独的交织，讲述了我们如何在两个人的确定性里，仍然感到孤独。

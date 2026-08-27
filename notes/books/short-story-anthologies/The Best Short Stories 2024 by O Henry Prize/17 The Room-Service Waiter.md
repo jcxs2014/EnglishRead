@@ -105,3 +105,7 @@ modified: "2026-08-28"
 | having your portrait painted | 被画肖像画 | 描述被记录或被记住的时刻 |
 | It would be exciting now, still | 现在仍然是令人兴奋的 | 描述持续的情感 |
 | I thought I was very wonderful | 我觉得当时的自己非常了不起 | 描述青春的自信 |
+
+## 一句话总结
+
+Charles 看着 1927 年 Soutine 给他画的肖像，回忆起年轻时在 Le Meurice 被画的那一刻——Tom Crewe 用记忆的层层叠加，讲述了我们如何在被画的那一刻，看到青春的自己。
