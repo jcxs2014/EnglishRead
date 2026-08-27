@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH04_chapter_two_there_you_are_marie.txt`（约 2000 词，对话为主）
 > 叙事功能：**人物网扩展 + 悬念升级**——Sam 首次出场、Basil 得知死讯、DCI Kinnock 与 policewoman 进场；死亡被定性为"**suspicious**"，把序言的"怪物追猎"从**私人噩梦**升级为**刑事案件**。叙事声音仍贴近 Rita/Marie 阵营。
+
+## 概览
 
 **场景：** 剧组化妆卡车（Sam 躲藏处）→ Basil 现场（雾中泥泞地）→ Rita 房车（警方问询点）。
 
@@ -25,7 +28,7 @@ modified: "2026-08-23"
 
 **结构性关键**：这一章的**最后一句**把 DCI 引入 Rita 的房车——而 Lily 就在房车内。这制造了一个**定时炸弹**：**DCI 即将进入一个"有鬼的封闭空间"**，但读者知道 Lily 只有 Rita 能看见——而 DCI 看不见 Lily 是否"正常"。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "‘I can't do it,’ he whispered, his face creased with worry. ‘I’m not good enough. God knows why I ever thought I could be an actor. They’ll just laugh at me, like they always do.’"
 - 中文理解："我做不到，"他低声说，脸上挤满了忧虑的皱纹。"我根本没那么好。上帝才知道我当初怎么就想当演员了。他们会笑话我，就像他们一直做的那样。"
@@ -72,10 +75,13 @@ modified: "2026-08-23"
 - **人物塑造手法**：Basil 用**颜色（purple）+ 声音（yelled/spittle）**写，Kinnock 用**光（beaming smile）+ 疲惫（worn face）**写，Sam 用**脸（creased with worry）+ 手（big warm hand）**写——三个角色的**感官标记**都不同。
 - **节奏控制**：先温情（Sam/Marie）→ 再暴怒（Basil）→ 再正式（Kinnock）→ 再温情（tea & cake），**情绪像过山车**，但每个弯道都在**为下一章埋线**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ exasperation / toerag / spluttered / quelled / implacable / incensed / derisively / overwrought
 - ⭐⭐ soulful / hulking / articulated lorry / spittle / meekly / beckoned
 - ⭐ DCI / campervan / post-mortem / charge nurse / counsellor
 
 ---
 
+## 一句话总结
+
+待补充。

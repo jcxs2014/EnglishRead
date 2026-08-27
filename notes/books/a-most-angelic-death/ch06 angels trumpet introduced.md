@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH08_chapter_six_there_you_go_marie.txt`（约 2800 词）
 > 叙事功能：**关键道具引入 + 警方调查并行 + Alex vs Lily 死亡差异揭示**——Layla 的 Brugmansia（Angel's Trumpet）毒花在片场出现，与序言中 Alex 的**幻觉症状直接呼应**；Kinnock 的**女儿 Josie**出场（暗示他的"visions"来源）；Alex 死后的**"外面"是地狱景象**，与 Lily 的"外面正常"形成对照；**初步尸检结果**传来，DCI 反应"Very interesting indeed…"。叙事声音**首次进入警方视角**（Kinnock/Whitley）。
+
+## 概览
 
 **场景（A）：** 片场花艺布置区（Layla 的展位）→ 片场（Kinnock 车队）→ Rita 房车（Kinnock 二次到访）。
 
@@ -29,7 +32,7 @@ modified: "2026-08-23"
 2. **Kinnock 的"visions"= Josie**：Kinnock 之所以能看见 Lily，是因为他**长期见到已故女儿的灵魂**——他是**天生的"通灵者"**（sensitive），不是偶然。这个设定把 Kinnock 从"警察"变成"**鬼魂侦探**"。
 3. **Alex 的地狱景象 vs Lily 的"外面正常"**：Lily 说"也许外面的景象反映灵魂的状态"——Alex 活着时是"一个混蛋"，所以他死后的"外面"是地狱；Lily 的"外面正常"说明她的灵魂是**平静的**。这个设定把**道德判断**与**超自然后果**绑定。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'I wouldn't get too close,‘ the woman warned. ‘You’d probably be fine, but it's pretty hallucinogenic if it gets into your skin or eyes. It's called Brugmansia, better known as the Angel's Trumpet. You can see why.’ … ‘Fever, delirium, intense hallucinations, nausea, blurred vision, seizures…you name it.’"
 - 中文理解："别靠太近，"女人警告说。"你大概没事，但它的汁液进皮肤或眼睛会有强烈致幻效果。它叫 Brugmansia，俗称 Angel's Trumpet，天使的号角，一看就知道。"……"发烧、谵妄、强烈幻觉、恶心、视物模糊、抽搐……你能想到的都有。"
@@ -80,10 +83,13 @@ modified: "2026-08-23"
 - **道德宇宙观**：Lily 的"外面反映灵魂"是全书的**道德哲学**——死亡是生前行为的结算。
 - **超自然规则完善**：鬼魂滞留是因为"未竟之事"（unfinished business），解决了"未竟之事"就会"安息"。Josie 已经安息，Lily 和 Alex 还在。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ hallucinogenic / Brugmansia / antiseptic / scalding / quelling / meekly / oblivion / lingering
 - ⭐⭐ mumbled / unconvinced / brandishing / scolding / pruning / matronly / scrabbling / scowled
 - ⭐ pruning shears / Angel's Trumpet / post-mortem / rota / clipboard / musky perfume / antiseptic soap
 
 ---
 
+## 一句话总结
+
+待补充。

@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH15_chapter_thirteen_ash_flicked_the_page.txt`（约 3000 词）
 > 叙事功能：**信息汇总 + Alex 的锚点发现 + 鬼魂能力继续增长**——Lily 向 Kinnock 汇报 Clara 办公室的"灵魂茶"发现；Kinnock 给出当前调查全景（Magnus Price 太粗暴不会下毒、Clara 茶正在化验、Layla 尚未问话、Giles 被 Basil 的"床戏指导"吓坏、Anna 的证词）；**Alex 发现他的锚点是那块假劳力士手表**——"I bloody loved that watch"；**Kinnock 同意把 Lily 的化妆品放进证物室，让 Alex 测试与手表的连接**——**警民合作达到新高度**；**Marie 把 Kinnock 带到自己的房车单独谈话**——情感线继续升温；**Alex 的手指无意中翻动了 Ash 书页**——**Alex 的触物能力继续增长**，"slight rustle when his finger caught the edge"。叙事声音：Rita 房车（全员会议）→ Marie 带 Kinnock 离开 → Alex 独自留在车里。
+
+## 概览
 
 **场景：** Rita 房车（全员汇报会议）→ Marie 的房车（私密谈话）。
 
@@ -41,7 +44,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章是**全书的"信息枢纽章"**——Kinnock 把**警方的调查进展**和**Rita 团队的超自然发现**汇聚在同一空间，让读者第一次看到**两条线索的完整拼图**。同时 **Alex 的锚点发现**让 Alex 的"逃离"成为可能，**Marie & Kinnock 独处**让情感线获得**私人空间**，**Alex 触碰书页**让危险线继续升级。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'She gave you your usual drink but you thought it smelled strange. It was in date though, she checked. Does that ring any bells?' Alex shook his head and shrugged, only the memory of the pain in his head clear in his mind."
 - 中文理解："她给你倒了你平常喝的饮料，但你觉得味道奇怪。不过在保质期内，她检查过。这让你想起什么吗？"Alex 摇头耸肩，只记得头痛的记忆。
@@ -92,7 +95,7 @@ modified: "2026-08-23"
 - **Marie & Kinnock**：Marie 主动邀约，Kinnock 脸红——**情感线升温**。
 - **Alex 的能力**：Alex 已经能"rustle"书页——**危险线继续升级**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ surreptitiously / placating / placated / nosing / appalled
 - ⭐⭐ gnarled / precariously / languidly / shell-shocked / shellshocked
 - ⭐ custard cream / sausage roll / cardigan / motorhome / spotlights / elevenses
@@ -102,3 +105,7 @@ modified: "2026-08-23"
 ### Chapter Fourteen · 预告
 
 > 下一章（CH16）以 "A memorial, Ash asked" 为开头——**Basil 为 Alex 举办"追思会"**（实为 PR 活动）。**Lily 通过化妆品进入证物室**，**测试与 Alex 手表的连接**。**Clara 的茶化验结果可能回来**。**Alex 的触物能力继续增长**。
+
+## 一句话总结
+
+待补充。

@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH16_chapter_fourteen_a_memorial_ash_asked.txt`（约 4500 词，**全书重大转折章**）
 > 叙事功能：**Lily 的死因揭晓 + Alex 获得锚点 + 双线谋杀案确立**——Marie 带 Lily 去海滩散步，Lily 展示身上的**刀伤**，Marie 用**急诊室护士的专业判断**确认："stab wounds…done with a fairly blunt kitchen knife"——**Lily 是被谋杀的**，死因是**预谋的刀刺**，死亡地点是**clifftop**（悬崖顶部），不是"坠落/自杀"而是**"被推下去"**。**两个谋杀案正式确立**：Alex（毒杀/致幻后车祸）+ Lily（刀刺后推下悬崖）。同时 **Kinnock 把 Lily 的睫毛笔偷偷放进 Alex 手表的证物箱**（Box 3359），让 Lily 能去证物室取手表——**Lily 获得 Alex 的锚点，Alex 可以离开房车**。Alex 的**触物能力继续增长**（"slight movement as it slid across the smooth surface"）。叙事声音：Marie & Lily 海滩（**全书最沉重的对话**）→ Kinnock 证物室潜入 → 全员得知 Lily 被谋杀的反应 → Lily 去证物室取表。
+
+## 概览
 
 **场景：** Marie 的房车（早餐）→ Skegness 海滩 → Kinnock 证物室潜入 → Rita 房车（全员反应）。
 
@@ -45,7 +48,7 @@ modified: "2026-08-23"
 3. **Marie 的专业角色**：Marie 用**急诊室护士的经验**做**"法医鉴定"**——**这是 Marie 从"护士"升级为"民间法医"**的关键时刻。
 4. **Lily 的"保护性失忆"**：Lily 不记得自己的死——**这是全书最沉重的心理揭示**——**她的记忆缺失是"自我保护"**，但**这也意味着她"不知道谁杀了她"**。
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** "'I want to ask her about those wounds she mentioned when Alex first appeared. I can't bear to think of her in pain, maybe there's something I can do?' 'She's dead, Marie. I think she's well past the point of help,' he said gently. 'That maybe so. But it's not going to stop me trying.'"
 - 中文理解："我想问她那些 Alex 刚出现时提到的伤口。我无法忍受想到她在痛苦中，也许我能做点什么？""她死了，Marie。我想她已经过了能被帮助的阶段了，"Ash 轻声说。"也许是这样。但这不会阻止我尝试。"
@@ -103,7 +106,7 @@ modified: "2026-08-23"
 - **Alex 的手表**：Alex 获得锚点，可以离开房车——**危险升级**。
 - **Lily 与活人的"温暖"**：Lily 的爷爷记忆通过温度唤醒——**全书最诗意的超自然描写**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ premeditated / stabbing / stab wounds / blunt knife / protective mechanism / companionship / comparably
 - ⭐⭐ precariously / languidly / shell-shocked / shellshocked / nosy / skimpily
 - ⭐ custard cream / sausage roll / motorhome / elevenses / tarot / tarot card / cardigan
@@ -113,3 +116,7 @@ modified: "2026-08-23"
 ### Chapter Fifteen · 预告
 
 > 下一章（CH17）以 "Rita, I love you" 为开头——**Lily 回到房车告知 Alex 手表到手**。Alex 终于离开房车，**但只能跟着 Lily**。Basil 的**追思会**在 Skegness 码头举行，**所有嫌疑人齐聚**——**Alex 可能当场"失控"**。**Giles 可能是凶手的新线索**。
+
+## 一句话总结
+
+待补充。

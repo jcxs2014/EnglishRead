@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH10_chapter_eight_ash_yanked_open_the.txt`（约 3000 词）
 > 叙事功能：**鬼魂显形规则的扩展 + Clara 的宗教狂热升级**——Sam 通过宝丽来照片**看见 Lily**（第二个"能看见鬼的活人"），成为新的"桥接者"；Lily 被 Sam 称"beautiful"后**脸红**（鬼魂能脸红！），**情绪让鬼魂发光**（aura）；Lily 揭示她能感知活人的**温度**（Sam = 温暖，Emily = 冰冷）；Clara 在晚餐上公开宣称 Alex 的死是"上帝的惩罚"，并**警告 Ash 将是下一个**——Rita 几乎打了她。木哨子作为**Lily 的身份锚**被 Sam 把玩。叙事声音：Ash → Sam → Lily → 全员 → Rita/Marie/Ash（晚餐闪回）。
+
+## 概览
 
 **场景：** Ash 房车（Sam 卸妆）→ 晚餐闪回（Clara 的审判）→ 回到化妆现场。
 
@@ -28,7 +31,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章**扩展了超自然规则**——**能看见鬼的人不止 Rita 和 Kinnock**，Sam 也是。同时**Lily 的"脸红 + aura"**揭示了**情绪→物理的对称规则**：**正面情绪让鬼魂发光**（Lily），**负面情绪让鬼魂变黑变冷**（Alex）。**Lily 被称"beautiful"后脸红**是全书 Lily 情感的最高潮——**她终于被当作"活着的人"来赞美**，而不是"一个鬼"**。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'They're both here right now Sam, honestly. Lily is standing beside me, Alex is over by the kettle. I know you can't see her, but that is what she looks like to me right this minute.' … Lily hung her head, sadness overwhelming her. 'What the hell?' he whispered. 'What in the actual hell was that?' … 'That, dear Sam, was our Lily. I could ask Alex to do the same, but nobody deserves that kind of contact.'"
 - 中文理解：Ash 告诉 Sam，Lily 是鬼，此刻就站在他旁边；Lily 握住 Sam 的手，Sam 感到刺骨的寒意后倒吸一口气。Ash 安慰他"那是我们的 Lily"，并说可以让 Alex 也这么做，但"没人该承受那样的接触"。
@@ -80,10 +83,13 @@ modified: "2026-08-23"
 - **Alex 的记忆衰退**：姑婆是唯一清晰的记忆——**时间压力显现**。
 - **Sam 的情感角色**：Sam 可能是 Lily 的"救赎"（被 Lily 暗恋的 Ash 之外，Sam 是第一个**让 Lily 感受到"被看见"**的人）。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ knackered / shambled / mollifying / convulsively / wistfully / stricken / aura / languidly
 - ⭐⭐ cowering / appreciatively / bashfully / bashful / bashfully / bashful / bashful
 - ⭐ whittling / polaroid / case / foundation / rubber gloves / kettle / pie / beer / coloured lenses
 
 ---
 
+## 一句话总结
+
+待补充。

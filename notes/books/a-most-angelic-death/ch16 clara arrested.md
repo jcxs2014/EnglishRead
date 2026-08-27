@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH18_chapter_sixteen_how_the_hell_am.txt`（约 4300 词）
 > 叙事功能：**Clara 被捕 + Giles 与 Layla 的私情揭露 + 嫌疑人缩窄**——Kinnock 用"匿名告密者"的借口进入 Clara 办公室搜查（"They were having their rest break—probably on that crate"），Clara 被捕（"on suspicion of administering a noxious substance"），灵魂茶成分揭晓——**Mitragyna speciosa (kratom)**，不是 Angel's Trumpet，但 Kinnock 警告"if this is actually Angel's Trumpet, then you are in very serious trouble indeed"；**Lily 潜入 Layla 的花车，通过通风口逃出，进入 Layla 的后花园**——发现 Giles 与 Layla 正在花房里亲吻（"Come here, sweetheart, give me a kiss"）；**Giles 和 Layla 的对话暴露**：两人**已经偷情数月**、两人都有杀害 Alex 的动机和机会、他们讨论"lay low until the whole thing blows over"。叙事声音：Kinnock & Sally（警方线）→ Lily 潜入 Layla 家（鬼魂侦查线）→ Ash & Lily 在海边讨论（推理汇总）。
+
+## 概览
 
 **场景：** 片场（Kinnock 走向 Clara 办公室）→ Clara 办公室（逮捕）→ Layla 的花车（Lily 潜入）→ Layla 家花园（Giles-Layla 私情）→ Joan's（Ash & Lily 讨论）。
 
@@ -42,7 +45,7 @@ modified: "2026-08-23"
 2. **Giles-Layla 线**：私情揭露，**两人都有动机**（Layla 被抛弃，Giles 被取代），**两人可能合谋**。
 3. **警方线**：Sally 起疑——**Kinnock 的"撒谎"可能**"**被发现**"——**Kinnock 的**"**职业风险**"**升级**。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'It was someone spying on Miss Knight. They wanted to remain anonymous because she would have them fired if she ever found out. They were having their rest break—probably on that crate, as a matter of fact. When they saw her return, they decided to have a peek. I think there's some kind of sweepstake going on. They're convinced she watches softcore films when she's alone in there. There was some mention of A Hard Habit to Break and Confess and Caress as being the top runners. They couldn't resist spying so they could win a few bob.'"
 - 中文理解："是有个人在偷窥 Knight 小姐。他们想保持匿名，因为她发现后会开除他们。他们正在休息——可能就在那个板条箱上。看到她要回来了，就决定偷看一眼。我觉得有个赌局。他们坚信她一个人在里面看软性情色片。有人提到《难戒的恶习》和《坦白与抚慰》是最热门的赌注。他们忍不住偷窥，好赢几块钱。"
@@ -92,7 +95,7 @@ modified: "2026-08-23"
 - **Sally 起疑**：Sally 注意到 Kinnock 的行为异常——**Kinnock 的"撒谎"可能被发现**。
 - **"delirious"双关**：Giles 的"make you delirious"是 Angel's Trumpet 效果的双关——**情欲与毒药是同一件事**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ Mitragyna speciosa / noxious substance / tribulation / precariously / euphoric
 - ⭐⭐ deadhead / secateurs / languidly / languid / languid / languid
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
@@ -102,3 +105,7 @@ modified: "2026-08-23"
 ### Chapter Seventeen · 预告
 
 > 下一章（CH19）以 "And cut, Basil roared" 为开头——**Basil 拍完最后一场戏**，**追思会在 Skegness 码头举行**。**Giles、Layla、Anna、Emily 等全员出席**。**Alex 可能出现在追思会**——**Alex 的"外面"现在是正常世界**。**真相可能揭晓**。
+
+## 一句话总结
+
+待补充。

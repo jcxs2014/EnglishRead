@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH14_chapter_twelve_rita_were_back_ash.txt`（约 5000 词）
 > 叙事功能：**Alex 暴力升级 + Lily 触物 + Anna 家潜入**——Alex 对 Rita 的**首次身体攻击**（"lunged"扑向 Rita，差点把她撞伤）；Lily 确认能**移动物品**（打飞 Sam 的爆米花），意识到**"如果我能触物，Alex 也能"**——**Alex 从"眼神攻击"升级为"实体攻击"**的悬念被点燃；Lily 潜入 Anna 家侦查，发现**Anna 父亲种的丁香花下藏着 Lily 的腮红刷**（Ash 偷放的锚点），以及 **Anna 对着相簿流泪——相簿里有一个"dark hair, a strangely familiar man"**——**Anna 与 Alex 的关系线索浮现**。叙事声音：Rita 房车（Alex 暴走）→ Sam 与 Lily 在片场（触物）→ Anna 的家（潜入侦查）。
+
+## 概览
 
 **场景：** Rita 房车 → 片场（Basil 的床戏）→ Anna 的家。
 
@@ -30,7 +33,7 @@ modified: "2026-08-23"
 2. **推理线**：Anna 的相簿里有一个"familiar man"——**这个男人可能是 Alex**，也可能是**Alex 的情人/合伙人**。
 3. **情感线**：Lily 对 Sam 的感情通过"触物"获得第一次身体接触（"a swift peck on the cheek, her eyes lighting up when she felt her lips brush his soft stubble"）——**Lily 与 Sam 的"鬼-人恋爱"获得第一个吻**。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'I almost hurt Rita,' he sobbed. 'If I could touch anything, I would probably have killed her. That's how bad it is, Lily. I don't want to be an evil spirit, I really don't.'"
 - 中文理解："我差点伤了 Rita，"他哭泣。"如果我能碰到任何东西，我大概会杀了她。情况就是这么糟，Lily。我不想成为恶灵，真的不想。"
@@ -80,7 +83,7 @@ modified: "2026-08-23"
 - **情感线**：Lily 对 Sam 的吻（"swift peck on the cheek"）——**鬼-人恋爱获得第一个身体接触**。
 - **世俗 vs 宗教**：Ash 与 Lily 对 Clara 的批判是**"**全书对'宗教控制'的道德宣言**"。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ resent / eavesdropping / surreptitiously / placating / placated
 - ⭐⭐ eavesdrop / titbits / scuttle / gnarled / precariously / languidly
 - ⭐ custard cream / handbrake / cardigan / motorhome / spotlights / detritus
@@ -90,3 +93,7 @@ modified: "2026-08-23"
 ### Chapter Thirteen · 预告
 
 > 下一章（CH15）以 "Ash flicked the page" 为开头，**Rita 团队整理嫌疑线索**——**Anna 的相簿可能成为关键**，**Lily 试图再次潜入 Anna 家**。**Clara 的"灵魂茶"被送去化验**，**结果可能揭示**"**Angel's Trumpet 的来源**"**。**全书进入"真相逼近"阶段**。
+
+## 一句话总结
+
+待补充。

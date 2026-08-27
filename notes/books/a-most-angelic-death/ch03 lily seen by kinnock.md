@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH05_chapter_three_ash_groaned_when_he.txt`（约 4000 词，全书迄今最长章）
 > 叙事功能：**超自然规则松动 + 警方调查正式化**——Lily 对 DCI Kinnock 可见（此前规则：只有 Rita 能看见），本书的**核心悬念被打破**。同时引入两条新副线：Ash 的性取向与宗教冲突、Kinnock 的个人情感缺口。叙事声音从 Rita 主视角**分散到 Ash → Kinnock → Marie**，但仍由 Lily 的"现身"统一。
+
+## 概览
 
 **场景：** 剧组休息棚外 → Kinnock 房车（茶+蛋糕）→ Rita 房车（审讯室）→ 再次进入 Rita 房车。
 
@@ -25,7 +28,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章的**核心戏剧点**是"Kinnock 能看见 Lily"。这**打破了** Chapter One 建立的超自然规则（"Lily 只对 Rita 可见"），也把本书的**悬念结构从'鬼是否存在'推向'鬼与人的关系'**。**读者必须重新评估：Kinnock 是可信的盟友，还是另一个需要提防的变量？**
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** "Ash groaned when he saw a tall, spare figure hovering near the refreshment van, her lined face tinged with blue in the cold air, breath steaming slightly from her hypnotically large nostrils."
 - 中文理解：Ash 看到休息棚旁那个又高又瘦的身影就 groan 了一声，她那张布满皱纹的脸在冷空气中泛着青蓝色，鼻息从那双**大得令人迷醉的鼻孔**里微微冒出蒸汽。
@@ -80,10 +83,13 @@ modified: "2026-08-23"
 - **人物关系图**：Lily ↔ Kinnock（新建立的"能互相看见"的关系）、Ash ↔ Clara（性取向 vs 宗教）、Marie ↔ Kinnock（情感空缺的互相吸引）、Sam ↔ Andy（Marie 的"影子儿子"）。
 - **宗教维度**：Clara 的引入把本书从"鬼故事"推向"宗教 vs 包容"的社会议题，是作者**价值观最明确的展示**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ crucifix / damnation / deviants / repent / piously / wistfully / blubbering / plumping cream
 - ⭐⭐ drawled / scurrying / berate / knackered / appraisingly / wryly / convulsive / plume
 - ⭐ plumping cream / captain's chair / spools of cable / bronzer / postmortem / crucifix
 
 ---
 
+## 一句话总结
+
+待补充。

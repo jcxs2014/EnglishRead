@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH17_chapter_fifteen_rita_i_love_you.txt`（约 4800 词，**全书最戏剧性章**）
 > 叙事功能：**Alex 首次离开房车 + 海洋平静 + Giles 审讯 + 全员出门的灾难**——Alex 拿到手表后终于第一次走出房车，发现"外面是正常世界"（"It's normal!"）——**这推翻了 Chapter Six 的"Alex 外面是地狱"的设定**（可能是因为 Alex 在 Chapter Eleven 中已经部分"触物"、能力改变了他"外面"的性质）；出门后遇到 Clara，**Clara 走过 Alex 身体**触发 Alex 的**仇恨风暴**（"tsunami"）——**Clara 的"恨"让 Alex 的能力爆发**；Lily 和 Alex 被冲到海里，**Lily 发现海洋能让她"平静到想永远留下"**（"I want to stay here, forever at peace"）；**Giles 被 Kinnock 审讯**（培根卷嫌疑），Giles **打了 Kinnock 一拳**（他练过拳击）。叙事声音：Rita 房车（Alex 出门前）→ 海边散步（Clara 触发）→ 海洋平静 → Giles 审讯 → 全员归来的震惊。
+
+## 概览
 
 **场景：** Rita 房车（出门前）→ Skegness 海滩（Clara 触发）→ 海洋（平静）→ Kinnock 片场（Giles 审讯）。
 
@@ -52,7 +55,7 @@ modified: "2026-08-23"
 3. **海洋的平静**：海洋能"洗去所有情感"——**Lily 的"安息诱惑"**——**如果 Lily 留在海里，她会"安息"，但 Alex 会永远留在房车**（因为"Alex can only leave with Lily"）。
 4. **Giles 审讯**：Giles 有动机（取代 Alex 的主角位置）+ 可能的机会（培根卷）+ 认识 Layla（"muted gasp"）——**Giles 的嫌疑升级**。
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** "'I am going to hurt you after all,' he whispered, a sickly grin twisting his mouth. He looked down at the table for something to throw, his eyes gleaming when he saw the glass pepper grinder. Before anyone could react, he lunged towards it, picked it up and smashed the end against the edge of the table, peppercorns cascading around him."
 - 中文理解："我终究会伤害你，"他低声说，病态的冷笑扭曲了他的嘴。他低头在桌上找可以扔的东西，眼睛在看到玻璃胡椒研磨器时发光。在任何人能反应之前，他扑向它，把它拿起来，把底端在桌子边上砸碎，胡椒粒在他周围倾泻。
@@ -110,7 +113,7 @@ modified: "2026-08-23"
 - **Alex 的"Snap out of it"**：Alex 用"爱"拯救 Lily——**Alex 的"爱"是全书最反讽的时刻**。
 - **Giles 审讯**：Giles 有动机+机会+认识 Layla——**Giles 嫌疑升级**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ vitriol / cascading / languidly / languid / languid / precipice
 - ⭐⭐ sneaking / sneered / gleaming / languid / placid / placidly
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
@@ -120,3 +123,7 @@ modified: "2026-08-23"
 ### Chapter Sixteen · 预告
 
 > 下一章（CH18）以 "How the hell am I" 为开头——**Rita 团队回到房车**，**Kinnock 可能已经得出结论**。**Lily 继续侦查**——**可能潜入 Layla 的花车**，**可能发现 Angel's Trumpet 的来源**。**Alex 的能力继续增长**，**下一次出门可能是"灾难"**。
+
+## 一句话总结
+
+待补充。

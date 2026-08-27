@@ -1,7 +1,14 @@
+---
+状态: 未读
+modified: "2026-08-23"
+---
+
 ### Prologue · Alex 之死
 
 > 文件：`text/CH02_prologue_alex_crept_down_the_dark.txt`（约 700 词，单段长镜头）
 > 叙事功能：**开篇死亡钩子**——用受害者视角把凶手伪装成"怪物"，制造第一层误导；叙事声音为**贴近的第三人称**（Rita 之外唯一的非可靠视角）。
+
+## 概览
 
 **场景：** 夜间某城郊小巷 + 主干道 → 路灯柱下。
 
@@ -13,7 +20,7 @@
 
 **段落逻辑链：** 小巷潜逃 → 找车 → 警报误触 + 流血 → 启动引擎 → 飙车 → 幻觉复现 → 警察拦截 → 失控撞灯柱 → 死亡。
 
-**选择性精读（5 处）：**
+## 选择性精读（5 处）：**
 
 **①** "Alex crept down the dark alley, pale fingers trailing along the old bricks to guide his path."
 - 中文理解：Alex 蹑手蹑脚地沿着阴暗的小巷前行，苍白的指尖在旧砖墙上摸路。
@@ -51,8 +58,11 @@
 - **悬念**：凶手存在性悬置（幻觉 vs 真实）；书名"Angelic"与序言中"leering, horrific creatures"形成**反讽种子**。
 - **风格**：感官密集、短句多、对话破碎——是**典型的惊悚片开场**语法。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ ragged breath / shambling run / throaty roar / strangled cry / gracelessly lurched
 - ⭐⭐ scrimmed / fob / snot / whimpering / fleeting regret
 - ⭐ seatbelt / handbrake / dashboard / articulated lorry / bonnet（英式：发动机盖）
 
+## 一句话总结
+
+待补充。

@@ -1,7 +1,14 @@
+---
+状态: 未读
+modified: "2026-08-23"
+---
+
 ### Epilogue · 尾声 + Marie-Kinnock 之吻 + Andy 的遗憾
 
 > 文件：`text/CH21_epilogue_so_thats_it_then_lily.txt`（约 950 词）
 > 叙事功能：**全书结局 + 三条情感线的收束**——**Alex 和 Anna 的灵魂已消失**（"He's gone for good"），**Marie 和 Kinnock 正式定情**（两人在雪夜中亲吻——"a long, lingering kiss"），**Andy 的鬼魂仍然在 Marie 身边，但 Marie 始终没有看见他**（"the shadowy outline of Andy in the dark night, his face distraught as he silently begged for her to notice him"），**Rita 团队要去苏格兰高地拍下一部戏**（Rita 已签合约），**Lily 获得"继续留在世上"的资格**（"thanking her lucky stars that death hadn't quite claimed her yet"）。叙事声音：Rita 房车（集体反思）→ Marie 和 Kinnock 夜路 → Andy 的遗憾。
+
+## 概览
 
 **场景：** Rita 房车（深夜，所有人疲惫）→ 房车外（Marie 和 Kinnock 夜路）。
 
@@ -39,7 +46,7 @@
 2. **Lily-Sam**：Lily 获得"继续留在世上"的资格——**但 Lily "仍不能安息"**，因为 Sam "不放手"。
 3. **Andy-Marie**：Andy 的鬼魂**仍然在 Marie 身边**，但 Marie **始终看不见**——**Andy 的"遗憾"是"全书最后的"超自然"留白"**。
 
-**选择性精读（4 处）：**
+## 选择性精读（4 处）：**
 
 **①** "'He got what he deserved,' Sam said, his voice stern and implacable. 'Two innocent lives destroyed because of him. I'm glad he's gone.'"
 - 中文理解："'他得到他应得的，'Sam 说，他的声音严厉而不可动摇。'两个无辜的生命因为他而毁灭。我很高兴他走了。'"
@@ -76,7 +83,7 @@
 - **Lily 的"继续留在世上"**：Lily 获得"继续存在"的资格——但"仍不能安息"。
 - **Rita 团队去苏格兰**：新的开始。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ implacable / lingering / distraught / shadowy outline
 - ⭐⭐ merlot / Glow Up / Highlands / Highland
 - ⭐ custard cream / motorhome / cardigan / sausage roll / tarot
@@ -100,3 +107,7 @@
 1. **复仇与安息**：Alex 和 Anna 的灵魂"融合"——"永远在一起"是"全书对复仇的最反讽结局"。
 2. **爱的力量**：Sam 是 Lily 的"锚"——Ash 的"拥抱"让 Lily 从"愤怒"中恢复——Kinnock 的"尊重"让 Marie "主动"——**爱的力量是"全书对超自然"的"最终回答"**。
 3. **遗憾与安息**：Andy 的"遗憾"是"全书最后的超自然留白"——**Andy 的"遗憾"让"全书"在"情感上"留下"最后的回声"**。
+
+## 一句话总结
+
+待补充。

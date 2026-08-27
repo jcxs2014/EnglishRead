@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH03_chapter_one_rita_leaned_in_closer.txt`（约 2000 词，Rita 主视角长对话段）
 > 叙事功能：**主角 + 超自然设定一次到位**——Rita、Lily、化妆箱、剧组全员在这章内全部登场；建立**双时间线悬念**（Alex 死 vs 全员以为他还活着）。叙事声音为**贴近的第三人称**，锚定在 Rita 身上。
+
+## 概览
 
 **场景：** Rita 的房车化妆间，Skegness 拍摄地清晨（周一，冬天，"freezing"、"misty field"）。
 
@@ -29,7 +32,7 @@ modified: "2026-08-23"
 
 **结构性关键**：这一章用对话把**Lily 已死**这个"不可能的事"写得像家常便饭——Rita 说"You're dead. You can't help being so cold." 语气就像说"You have a cold." **叙事语气反差**是本书的核心诡计：超自然恐怖被包裹在家庭剧的暖色调里。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "Rita leaned in closer, holding her breath so last night's garlic chicken wouldn't wrinkle that perfect brow yet again, and deftly swept the brush across a delicate cheek."
 - 中文理解：Rita 倾身靠近，憋住呼吸免得昨晚的蒜香鸡再熏皱那张完美的额头，然后轻巧地一刷扫过那精致的脸颊。
@@ -79,10 +82,13 @@ modified: "2026-08-23"
 - **基调**：英国乡镇日常剧（化妆、买蛋糕、骂粗话）+ 哥特悬疑（鬼魂、魔法化妆箱）——**两种类型的混合**是本书的风格特征。
 - **超自然规则初建**：Lily 只对 Rita 可见；Lily 的触碰是冰冷的；Lily 没有镜子倒影；化妆箱是魔法媒介。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ deftly / admonished / banquette / pyrographic / impudent / lithe / mortified / pensive
 - ⭐⭐ haughtily / squelching / apparition / cliche / squirreled / dogsbody / bender / understatement
 - ⭐ setting powder / handbrake / cardi（英式"开衫"）/ cuppa / motorhome / spotlights / banter
 
 ---
 
+## 一句话总结
+
+待补充。

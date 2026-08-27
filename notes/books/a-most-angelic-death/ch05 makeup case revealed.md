@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH07_chapter_five_ash_smoothed_the_liquid.txt`（约 2200 词）
 > 叙事功能：**超自然规则第三条 + 反派正式入场**——Lily 出现在 Ash 的宝丽来照片上（"鬼魂显形"规则确立）；Giles 首次完整出场，被揭穿**未上过 RADA**；Giles 与 Alex 之间埋下一条**偷窥线**。叙事声音再次分散：Ash（化妆）→ Lily（显形）→ Alex（复仇觉醒）→ Giles（登场）。
+
+## 概览
 
 **场景：** Ash 化妆车内部。
 
@@ -27,7 +30,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章**同时引入两条线索**——超自然（鬼魂在宝丽来上显形）与社会（Giles 登场 + Emily 动机）。宝丽来显形是**本书最重要的新规则**：**鬼魂在强烈情感驱动下能在物理介质上留下痕迹**——这条规则**为后文"证据出现"埋线**（如果 Lily 出现在照片上，那她也能在**监控录像、X光片**等介质上留下痕迹吗？）。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'Oh my god,' she whispered, watching as the shadowy image grew clearer…two figures clearly emerging, side by side. 'How is that possible?' A wide-eyed Ash didn't respond, instead quickly placing the photo face down on his makeup bench."
 - 中文理解："我的天，"她低声说，看着那张模糊的影像渐渐清晰……两个身影清晰地浮现出来，肩并肩。"这怎么可能？"瞪大眼睛的 Ash 没有回答，反而迅速把照片扣面朝下放在化妆台上。
@@ -78,10 +81,13 @@ modified: "2026-08-23"
 - **阶级讽刺**：Giles 用"演员 > 化妆师"的鄙视链压制 Rita，被 Rita 一句"你不懂真实生活"打回原形。
 - **叙事层**：鬼魂能听见活人的对话（"not hearing this ghostly exchange"）——这个设定让**鬼魂获得信息优势**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ languid / liquid latex / Stanislavsky / blustered / crestfallen / bluster / brandishing / wicked gleam
 - ⭐⭐ mischievously / abashed / dimpled / palsy / scrawny / shrivelled / imbued / superimposed
 - ⭐ polaroid / cologne / aftershave / makeup wipes / portfolio / liquid latex / Doc（靴子品牌）
 
 ---
 
+## 一句话总结
+
+待补充。

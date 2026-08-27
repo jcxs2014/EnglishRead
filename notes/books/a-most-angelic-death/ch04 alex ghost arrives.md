@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH06_chapter_four_the_soft_relentless_tick.txt`（约 3000 词）
 > 叙事功能：**超自然规则全面展开 + 主角团队扩容**——Alex 以鬼魂形式回到 Rita 房车，与 Lily 建立"同类相触"关系；Lily 发现**化妆箱是"生-死通道"**；Rita 正式发起**民间调查**；Ash 与 Alex 爆发暴力冲突。叙事声音从 Lily 主视角切入（"The soft, relentless tick of Rita's bedside clock burrowed deeper and deeper into Lily's brain"），是全书第一次**以鬼魂视角**书写。
+
+## 概览
 
 **场景：** Rita 房车夜间（Lily 失眠）→ Alex 鬼魂现身 → Marie/Ash 破门 → 全员围坐。
 
@@ -31,7 +34,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章**一次性建立了全书的超自然物理法则**，并把故事从"Alex 的谋杀案"升级为"Rita 团队的**超自然侦探**任务"。**Rita 自己说出"living in a real-life story"**——这是**meta 叙事**：Rita 清楚自己活在**一部侦探小说里**，她把现实当作小说来对待。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "The soft, relentless tick of Rita's bedside clock burrowed deeper and deeper into Lily's brain as she lay on the bunk, eyes wide open, desperately wishing she could at least sleep. But Rita's soft snoring on the other side of the motorhome meant there was no escape for her. As long as someone living was near her case, Lily would be wide awake."
 - 中文理解：Rita 床头钟轻柔却无情的滴答声，越来越深地钻进 Lily 的大脑——她躺在上铺，眼睛睁得大大的，拼命希望能睡个觉。但房车另一头的 Rita 的鼾声让她无处可逃。只要活人在她的化妆箱附近，Lily 就得睁着眼醒着。
@@ -82,8 +85,11 @@ modified: "2026-08-23"
 - **道德张力**：Alex 要求"复仇"，Marie 担忧他"眼中的黑暗"——团队面临**是否帮 Alex 复仇**的道德选择。
 - **人物关系图（更新）**：Rita-Lily（爱+忠诚）、Lily-Alex（同类+导师）、Marie-Alex（母性关怀+道德担忧）、Ash-Alex（对立+仇恨）、Rita-团队（领导者）。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ relentless / burrowed / superimposed / languid / necrophilia / languidly / raucous / grimacing
 - ⭐⭐ crumpled / bulging / wistful / limping / brandishing / libidinous / desolation / preoccupied
 - ⭐ foundation / sponge / bronzer / Brut（男士香水品牌）/ bunk / void / seatbelt
 
+## 一句话总结
+
+待补充。

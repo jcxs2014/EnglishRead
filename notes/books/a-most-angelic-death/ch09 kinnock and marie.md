@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH11_chapter_nine_so_now_we_have.txt`（约 3000 词）
 > 叙事功能：**情感线推进 + 审讯正式化 + Anna 嫌疑升级**——Kinnock 与 Marie 的关系从"同事般的温暖"走向"有意识的情感互涉"（"It's Joe" / "No problemo…Joe"）；Kinnock 首次正式**把 Anna 当作嫌疑人**并带到警局；Marie 在食堂偶遇 Clara 对峙，Clara 暗示"Angel's Trumpet 让 Alex 听见了上帝的号角"；**Lily 的宝丽来显形被 Kinnock 解释为"Lily likes Sam a lot"**（官方承认 Lily 暗恋 Sam）。叙事声音：Kinnock & Marie → Clara → Kinnock & Anna。
+
+## 概览
 
 **场景：** Marie 房车 → 片场迷路 → Clara 对峙 → 食堂 → Anna 被 Kinnock 正式当作嫌疑人。
 
@@ -33,7 +36,7 @@ modified: "2026-08-23"
 2. **道德线**：Kinnock 对 Anna 的"你是 Punching Bag"的谴责——**本书对"情感欺凌"的最清晰态度**。
 3. **调查线**：Anna 被正式列为嫌疑人；Clara 的偷听行为暴露了她的**"宗教侦探"**身份。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'Losing Josie almost destroyed me. It certainly destroyed my marriage. Cathy left me after she died, took our son with her. I wouldn't…couldn't stop working all the time. The lonely nights drove her away. Like she so often kept telling me, she was grieving too.' He looked up to see the pain on her face. 'There I go again,' he said sadly. 'Ignoring other people's feelings.'"
 - 中文理解：Kinnock 说"失去 Josie 几乎毁了我，当然也毁了我的婚姻。Cathy 在她死后离开了我，带走了我们的儿子。我停不下来……不能停止工作。那些孤独的夜晚把她推远了。就像她总是告诉我的，她也在悲伤。"他抬起头，看到 Marie 脸上的痛苦，"我又犯老毛病了，"他悲伤地说，"忽略别人的感受。"
@@ -84,10 +87,13 @@ modified: "2026-08-23"
 - **Clara 的"宗教侦探"身份**：Clara 偷听 Marie 和 Layla，暗示她知道一切——**Clara 有 Angel's Trumpet 的所有信息**。
 - **Lily 暗恋 Sam**：Kinnock 亲口说出"I think it's because Lily likes Sam a lot"——**Lily 的情感在官方层面被承认**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ surreptitiously / placating / nostrils / stalking / eavesdropping / titbits / scuttle / wryly
 - ⭐⭐ probing / gnarled / precariously / placating / placated / placating
 - ⭐ warrant card / canteen / elevenses / tarpaulin / pushover / roast lamb / wet towel
 
 ---
 
+## 一句话总结
+
+待补充。

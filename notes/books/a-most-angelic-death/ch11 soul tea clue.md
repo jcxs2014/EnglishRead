@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH13_chapter_eleven_dont_fret_rita_she.txt`（约 3000 词）
 > 叙事功能：**规则扩散 + 线索升级**——Lily 把哨子传送的奥秘告诉全员（Ash 第一个笑场，"Is that a ghost's whistle in your pocket, or are you just pleased to see me?"）；**Ash 获得睫毛夹作为新锚点，Lily 可以独立行动去片场侦查**；**Kinnock 正式承认毒理报告**（Angel's Trumpet 致幻确认），**Alex 的物品被警方扣押无法作为锚点**；**Lily 潜入 Clara 办公室偷看，发现 Clara 藏有"灵魂茶"粉末并跪地祈祷 "Oh, dear Lord, please forgive me"**——**Clara 的嫌疑从"宗教偏执"升级为"疑似投毒者"**。叙事声音：Rita 房车（全员对话）→ Kinnock 与 Ash/Lily 在码头 → Clara 办公室偷窥 → Kinnock 拜访毒贩 Magnus Price → Ash 与 Lily 在海滩讨论。
+
+## 概览
 
 **场景：** Rita 房车 → Skegness 码头 → Clara 办公室 → 毒贩 Magnus Price 的公寓 → 海滩。
 
@@ -38,7 +41,7 @@ modified: "2026-08-23"
 2. **推理线**：Clara 灵魂茶 = **直接投毒证据**；Magnus = 排除；**嫌疑人从 5 人缩窄到 3 人**（Clara、Layla、Anna）。
 3. **道德线**：Clara 的祈祷揭示她是"自以为善的恶人"——**她不是出于仇恨，是出于"拯救"**，这让她的行为**比纯粹的恶更可怕**——**这是本书对"宗教狂热"的核心讽刺**。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** “I can move things!” she whispered, her face lighting up. “I bashed Sam’s popcorn all over the place.”
 - 中文理解："我能移动东西了！"她低声说，脸上发亮。"我把 Sam 的爆米花全打飞了。"
@@ -87,7 +90,7 @@ modified: "2026-08-23"
 - **道德线**：Clara 的"善意之恶"是本书**"宗教狂热"的核心讽刺**；Magnus 的"商业伪善"是**"另一种伪善"**。
 - **人物线**：Alex 的"记忆残缺"是**"全书最深的谜题"**；Ash 提出"Rita 是真正的锚"是**"超自然规则的新解释"**。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ spiritual enlightenment / carnal body / prideful transgression / scopolamine /Brugmansia / transdermal
 - ⭐⭐ eavesdropping / eavesdrop / titbits / surreptitiously / placating / placated / scuttle
 - ⭐ warrant card / canteen / elevenses / tarpaulin / pushover / wet towel / custard cream
@@ -97,3 +100,7 @@ modified: "2026-08-23"
 ### Chapter Twelve · 预告
 
 > 下一章（CH14）以 "Rita, we're back" 为开头，**Ash 和 Lily 从片场侦查归来**。Rita 发现 **Lily 可以移动东西**——Alex 也学会了，**Alex 对 Rita 的攻击升级**。Sam 带 Lily 去片场看 Susie 跳舞，**Lily 潜入 Anna 的家侦查**。**凶手线索进一步聚焦**。
+
+## 一句话总结
+
+待补充。

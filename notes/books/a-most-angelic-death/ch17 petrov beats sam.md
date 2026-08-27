@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH19_chapter_seventeen_andcut_basil_roared_clapping.txt`（约 6500 词，**全书最密集章**）
 > 叙事功能：**Petov 殴打 Sam + Lily 救 Sam + Alex 认定 Giles 是凶手 + 片场龙卷风 + Lily 再次被海诱惑**——Petrov 找 Sam 讨 Alex 的欠款，把 Sam 打倒在地；Lily 突然出现在 Petrov 面前，**举起脚手架杆**（"holding a scaffolding pole in her hands, her face scrumpled in concentration as she tried to maintain her hold"）把 Petrov 吓跑——**Lily 的触物能力再次升级**（从"打开箱盖"到"举起金属杆"）；Petrov 逃跑时叫"Prizrak!"（俄语"鬼魂"）和"Rusalka"（斯拉夫水鬼）；**Alex 排除 Petrov 和 Magnus Price**（"He would have just punched me…A sadistic, brutal drug dealer"）；**Alex 看到 Giles 和 Layla 在一起**，**认定 Giles 是凶手**（"He murdered me to get my role and shag my woman"）；**Alex 在片场制造龙卷风攻击 Giles**——"a column of air moving towards him…leaves and blooms torn from her beloved plants"；**Lily 被 Alex 的"能量漩涡"吸引，手表从手中滑落**，**Ash 抱住 Lily 把她拉回现实**（"Ash suddenly leapt forward and wrapped his arms around her"）；**Sam 不得不把 Lily 的哨子扔进海里**来救 Lily（她再次被海洋吸引）。叙事声音：片场（Petrov 殴打 Sam）→ Lily 救 Sam → Rita 房车（全员讨论）→ Kinnock 找 Petrov → Ash 给 Giles 化妆（发现 Giles-Layla 私情）→ 片场龙卷风 → 全员恢复。
+
+## 概览
 
 **场景：** 片场雨中（Petrov 殴打 Sam）→ Rita 房车（全员讨论）→ Petrov 家（Kinnock 警告）→ Rita 房车（Ash 给 Giles 化妆）→ 片场（龙卷风）。
 
@@ -56,7 +59,7 @@ modified: "2026-08-23"
 4. **Lily 的"被吸引"**：Lily 被 Alex 的"能量漩涡"吸引——**Lily 正在被 Alex 的"愤怒"感染**——**Lily 可能"变成下一个 Alex"**。
 5. **Sam 的"锚点"角色**：Sam 成为 Lily 的"人类锚点"——**Sam 的角色从"暗恋者"升级为"Lily 的拯救者"**。
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** “Oi, knobhead. Come here.”
 - 中文理解："喂，蠢货。过来。"……"Alex Stibard，你认识他？"……"认识……我老板想要回报。Stibard 欠我们钱。很多钱。"……"我很确定他现在没能力还你钱，瘸子。他已经死了。""你是活着的，甜心。你可以帮我们搞到钱。"
@@ -115,7 +118,7 @@ modified: "2026-08-23"
 - **Ash 的拥抱**：Ash 的"生命"让 Lily 从"愤怒漩涡"中恢复。
 - **Sam 的锚**：Sam 成为 Lily 的"人类锚点"——Sam 是 Lily 的"生存条件"。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ Rusalka / Prizrak / sledgehammer / maelstrom / malevolence / malevolent / malevolently
 - ⭐⭐ precariously / languidly / languid / languor
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
@@ -125,3 +128,7 @@ modified: "2026-08-23"
 ### Chapter Eighteen · 预告
 
 > 下一章（CH20）以 "Oh, it's so cold" 为开头——**追思会在 Skegness 码头举行**。**所有嫌疑人出席**。**Alex 的"外面"是正常世界**。**真相可能揭晓**。
+
+## 一句话总结
+
+待补充。

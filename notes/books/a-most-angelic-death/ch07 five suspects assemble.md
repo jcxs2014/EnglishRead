@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH09_chapter_seven_angels_trumpet_what_on.txt`（约 4200 词，全书迄今最长章）
 > 叙事功能：**案件关键汇聚**——毒理学家确认 Angel's Trumpet 致幻 + 胃中植物残留；**五嫌疑人**（Anna / Clara / Giles / Lucie-Layla / Tony Petrov）一次确立；**Layla = Lucie（Alex 的前情人）**的**身份反转**揭穿；**Andy 的鬼魂出现**但无法被 Marie 看到——Marie 的儿子"未安息"的真相被 Lily 和 Alex 发现；Alex 的记忆开始**逐渐模糊**。叙事声音**再次分散到多方**：毒理学家 → Giles → Lily → Kinnock → 全员。
+
+## 概览
 
 **场景：** 病理学家办公室 → Rita 房车（Giles 发泄）→ 房车（Marie 擦 Giles + Andy 鬼魂闪现）→ 房车（Lily 与 Ash 独处）→ 房车（Kinnock 到场，全员围坐）。
 
@@ -33,7 +36,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 本章是**全书的"中场"**——**警方证据**（毒理）与**民间证据**（团队问询）**交汇**，案件从"鬼魂悬疑"正式升级为"**五嫌疑人推理**"。五嫌疑人清单**与全书结构绑定**——**此后每一章可能对应一个嫌疑人的深入**。同时**Andy 的鬼魂出现**把全书从"查 Alex 的凶手"扩展到"**帮助所有滞留的鬼魂**"。
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** "'A terrible way to die, if you must know. And death is usually inevitable, one way or another. If he was exposed, he is likely to have suffered extreme hallucinations. People have been known to cut off their tongue or gouge out their eyes after ingesting it. Some believe that demons are chasing them or have visions of hell. Others are convinced they can fly, only to wake up with a broken body and realise that they really can't.'"
 - 中文理解：毒理学家说 Angel's Trumpet 中毒"死亡通常不可避免，殊途同归"，并列举极端致幻案例——有人切舌、挖眼，有人以为有恶魔在追自己，有人以为自己会飞然后摔下来。
@@ -91,10 +94,13 @@ modified: "2026-08-23"
 - **Lily 的道德觉醒**：Lily 从"温柔的理解者"转变为"道德审判者"，标志着她与 Alex 关系的质变。
 - **Alex 的"情绪物理化"**：愤怒让鬼魂变实 → Alex 是一个有物理威胁的鬼魂。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ tropane alkaloids / hyperthermia / dilated / scopolamine / suggestible / forensic botanist / suspended animation / fang
 - ⭐⭐ painstaking / flapped / tutted / matronly / meekly / affronted / translucent / scowled
 - ⭐ dog tag / passing out ceremony / bruised / portfolio / polaroids / Brut（男士香水）/ scuff / docs
 
 ---
 
+## 一句话总结
+
+待补充。

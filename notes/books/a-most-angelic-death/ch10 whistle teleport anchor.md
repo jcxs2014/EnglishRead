@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH12_chapter_ten_sam_bent_his_legs.txt`（约 2000 词）
 > 叙事功能：**超自然规则突破 + Lily 情感线高潮**——Sam 口袋里的木哨子让 Lily 可以**脱离房车**，在哨子周围自由移动。Lily 发现自己能通过**随身携带的物品**（不只是化妆箱，也包括哨子）作为"传送锚"在不同地点间穿梭。**Lily 获得部分自由**，可以**到片场侦查嫌疑人**。同时**Ash 的身世被揭示**（爸爸给他取名"Rambo"是因为爸爸是军迷，结果 Ash 是同性恋→爸爸打他几乎致死）、**Lily 的暗恋被 Ash 官方承认**、**Lily 与 Sam 的关系正式确立**（Sam 说"some of us still need to go the long way round"暗示他知道自己的性取向）。叙事声音：Sam 的劳动场景 → 房车内的家庭对话（Ash 的身世 + Lily 的暗恋） → Sam 的酒店房间（哨子传送试验）。
+
+## 概览
 
 **场景：** 片场布景搭建（Sam & Tim）→ Rita 房车（家庭夜话）→ Sam 的酒店房间（哨子传送试验）。
 
@@ -35,7 +38,7 @@ modified: "2026-08-23"
 
 **结构性关键：** 这一章是**全书的"转折章"**——Lily 从"被困在房车里的鬼魂"变成"**能在片场自由行动的侦查者**"。**这个转变**让**调查从"静态的房车审讯"升级为"动态的现场侦查"**。**Lily 可以"隐身"进入任何嫌疑人的空间**——**她可能听到 Giles 的坦白、看到 Layla 的独白、发现 Anna 的秘密**。
 
-**选择性精读（6 处）：**
+## 选择性精读（6 处）：**
 
 **①** "'Rambo.' He rolled his eyes, mouth twisting ruefully when everybody screeched with laughter. 'That's the campest Rambo I've ever seen,' Rita eventually gasped… Ash joined in with their merriment, even Alex laughing in genuine amusement, no hint of mockery for a change. Watching Marie crease up in amusement, he remembered his joy when she asked him to move in with her. That final punch from his dad for not being the man old Jimmy wanted had almost killed him. He touched his brow, feeling the slight indentation under his fine hair—a permanent reminder of his head bouncing off the corner of the thick tiles surrounding the fireplace."
 - 中文理解：Ash 说爸爸给他取名"Rambo"（爸爸的电影偶像），全场大笑。Ash 也笑，连 Alex 也真心笑——这是 Alex **第一次"没有嘲讽"的笑**。看着 Marie 笑得前仰后合，Ash 想起 Marie 让他搬进来的那天的喜悦——**他爸爸因为Ash不是"old Jimmy 想要的那种男人"而打的最后一拳几乎杀了他**。他摸摸额头，细发下有一个永久的凹痕——**那是他的头撞上火炉周围的厚瓷砖角留下的**。
@@ -85,10 +88,13 @@ modified: "2026-08-23"
 - **Alex 的"真心的笑"**：Alex 因为 Marie 的快乐而笑——**Alex 的道德"低点"**，是全书"救赎可能性"的第一次暗示。
 - **侦查机制确立**：Lily 可以"隐身侦查"嫌疑人，Sam 是她的"地面联络人"。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ straining / precariously / detritus / simpering / coyly / fluttering / ruefully / screeched
 - ⭐⭐ bandana / whittling / dimpled / languid / languidly / languid / languid
 - ⭐ detritus / custard cream / bandana / bandanas / Rambo / silver lining / long way round
 
 ---
 
+## 一句话总结
+
+待补充。

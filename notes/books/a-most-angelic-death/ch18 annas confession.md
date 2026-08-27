@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -6,6 +7,8 @@ modified: "2026-08-23"
 
 > 文件：`text/CH20_chapter_eighteen_oh_its_so_cold.txt`（约 6300 词，**全书真相揭晓章**）
 > 叙事功能：**凶手揭晓 + 双谋杀案并案 + 超自然结局**——Kinnock 在码头追思会上宣布毒理报告结果：**Clara 的灵魂茶含 kratom（ opioid 类），不含 Angel's Trumpet（tropane 类），Alex 体内只有 tropane 碱**——**Clara 被排除为凶手**（但灵魂茶里"有微量 tropane 污染"，是 Anna 栽赃的）；**Anna 在 Sam 怀抱中崩溃**，**当众承认杀了 Alex**——动机：**Anna 怀了 Alex 的孩子**→ **流产**→ **Alex 嘲笑她**（"he was glad because he had never wanted kids, but especially not with me"）→ **Anna 在 Alex 的日常饮品中加入 Angel's Trumpet**；**Anna 还栽赃了 Clara**（在 Clara 的茶罐里混入 Angel's Trumpet 粉末）和**Giles**（在 Giles 买的培根卷上撒种子）；**Alex 暴走攻击 Anna**，**把 Anna 推向码头栏杆，Anna 从高处摔下撞死**——**Alex 杀了 Anna**；**两个鬼魂融合**——"his straight black hair twisted obscenely around Anna's blonde curls, their spirits melding together to form a single, terrible wraith"——**两个被谋杀者的灵魂融合成"一个可怕的鬼魂"**——**在"blinding white light"中消失**；**Kinnock 和 Marie 的关系确认**（Joe 约 Marie 晚餐，Ash 帮忙助攻）；**Andy 的鬼魂出现在 Marie 身边**（Lily 一直能看到，但 Marie 还不知道）。叙事声音：码头追思会 → Kinnock 宣布毒理结果 → Anna 崩溃 → Alex 暴走 → Anna 死亡 → 双鬼融合 → 尾声。
+
+## 概览
 
 **场景：** Skegness 码头追思会（下午，风大，冬天）。
 
@@ -53,7 +56,7 @@ modified: "2026-08-23"
 3. **超自然线**：双鬼融合——Alex 和 Anna 的灵魂**"合为一体"**——**两个被谋杀者"永远在一起"**——**这是全书对"复仇"的**"**最反讽的结局**"**：**Alex 杀了 Anna，然后**他们的灵魂融合**——**他们**"**永远在一起**"**，正如 Anna "想要的**。
 4. **情感线**：Joe 约 Marie 晚餐；Andy 的鬼魂出现在 Marie 身边；Lily 仍然不知道 Andy 的存在。
 
-**选择性精读（7 处）：**
+## 选择性精读（7 处）：**
 
 **①** “The results came back surprisingly quickly.”
 - 中文理解："结果回来得出奇快。"……"根据毒理报告，你的粉末确实含有 kratom 特有的 opioid 碱……但 Angel's Trumpet 植物 Brugmansia 只含 tropane 碱。重点是，你的灵魂茶一点 tropane 碱都没有。Alex 的血、尿和组织样本中也没有检测到 opioid 碱——只有 Angel's Trumpet 的 tropane 碱。"……"这些化合物的缺失排除了 Alex 死前喝过你的灵魂茶的可能。"
@@ -111,7 +114,7 @@ modified: "2026-08-23"
 - **双鬼融合**：Alex 杀了 Anna，两个鬼魂融合——"永远在一起"是"全书对复仇的最反讽结局"。
 - **情感线**：Joe 约 Marie 晚餐；Andy 的鬼魂在 Marie 身边。
 
-**词汇（本章）：**
+## 词汇分级
 - ⭐⭐⭐ tropane alkaloids / opioid alkaloids / Brugmansia / melding / symphony / wraith / wraiths
 - ⭐⭐ precariously / languidly / languid / languor / languishing
 - ⭐ custard cream / motorhome / cardigan / elevenses / sausage roll / tarot
@@ -121,3 +124,7 @@ modified: "2026-08-23"
 ### Epilogue · 预告
 
 > 下一章（CH21）以 "So that's it then" 为开头——**Lily 和 Sam 在码头**。**Lily 可以安息**。**Rita 团队的生活回到正轨**。**Marie 和 Kinnock 开始约会**。**Andy 的鬼魂被 Marie 发现**。
+
+## 一句话总结
+
+待补充。
