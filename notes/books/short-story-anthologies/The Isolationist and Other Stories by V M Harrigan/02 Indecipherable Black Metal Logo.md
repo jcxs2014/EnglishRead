@@ -194,7 +194,7 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | votive | adj. 祈愿的；还愿的 | "It retreated back into the page of scripture tacked to the wall" |
-| inscribed | v. 题写；雕刻 | "the inscription on a small ceramic bust" |
+| inscription | n. 题词；铭文 | "the inscription on a small ceramic bust" |
 | plectrum | n. 拨片；琴拨 | "strike metal strings with a plectrum" |
 | turntable | n. 转盘；唱机 | "He set the record jacket next to the turntable" |
 | stave church | n. 木板教堂 | "going through the park near the old stave church" |

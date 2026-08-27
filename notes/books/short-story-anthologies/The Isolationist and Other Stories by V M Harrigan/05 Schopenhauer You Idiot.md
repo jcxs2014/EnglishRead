@@ -184,7 +184,6 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | duplicate | n. 复制品；副本 | "Every time I turn around there's another duplicate of me" |
-| ascendancy | n. 优势；支配地位 | (未在原文中找到，可能需要检查) |
 | deflated | adj. 泄气的；沮丧的 | "a gray, deflated version of himself" |
 | gnarled | adj. 扭曲的；多节的 | "Gnarled, whitish knuckles" |
 | shroud | n. 裹尸布；覆盖物 | "It looked like a shroud" |

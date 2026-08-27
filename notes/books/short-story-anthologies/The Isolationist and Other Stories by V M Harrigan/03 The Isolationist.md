@@ -184,7 +184,6 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | equilibrium | n. 平衡；均衡 | "He closed his eyes in a desperate bid for equilibrium" |
-| meticulous | adj. 一丝不苟的；细致的 | (未在原文中找到，可能需要检查) |
 | incinerator | n. 焚化炉 | "burned away in a hospital incinerator" |
 | sterile | adj. 无菌的；不育的 | "all suspended in a sterile gelatin" |
 | abbot | n. 修道院院长 | "The abbot had to make him leave" |

@@ -186,10 +186,8 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stoma | n. 造口；气孔 | "a circle of stomas, white and evenly spaced" |
-| underwold | n. 地下世界 | "When we descend to the underworld to harvest it" |
-| anomalie | n. 异常；不规则 | (未在原文中找到，可能需要检查) |
-| inviolate | adj. 不受侵犯的；纯净的 | (未在原文中找到，可能需要检查) |
-| incantation | n. 咒语；祝圣词 | (未在原文中找到，可能需要检查) |
+| underworld | n. 地下世界 | "When we descend to the underworld to harvest it" |
+| anomaly | n. 异常；不规则 | "anomalies in the data" |
 
 ### ⭐ 基础
 
@@ -197,8 +195,6 @@ modified: "2026-08-27"
 |---------|------|------|
 | basket | n. 篮子 | "lower ourselves in a metal basket attached to chains" |
 | spears | n. 长矛 | "the same long-bladed spears we fought the monsters with" |
-| mound | n. 土墩；堆 | (未在原文中找到，可能需要检查) |
-| pate | n. 头顶；脑袋 | (未在原文中找到，可能需要检查) |
 | pallet | n. 简易床；托盘 | "she in her pallet next to me, he in his at the back of the room" |
 
 ---

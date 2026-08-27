@@ -186,7 +186,6 @@ modified: "2026-08-27"
 | conjure | v. 召唤；变戏法 | "I didn't develop some method in a laboratory or conjure some devil" |
 | privy | adj. 参与秘密的；知情的 | "I was privy to countless thoughts" |
 | culminate | v. 达到高潮；告终 | "thoughts that culminated in wildly profitable results" |
-| enlightenment | n. 启蒙；开明 | "the most enlightened people thinking and writing" |
 | exile | n./v. 流放；放逐 | "you exiled me here" |
 
 ### ⭐ 基础
@@ -194,10 +193,8 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | broadcast | v./n. 广播；播送 | "I will broadcast as often as I am inspired" |
-| menstruate | v. 月经（未在原文中找到） | (未在原文中找到) |
 | precipice | n. 悬崖；峭壁 | "below precipices" |
 | pack animals | n. 驮畜 | "We ate all the pack animals" |
-| intoxication | n. 醉酒；陶醉 | "Many of you stayed intoxicated to drown out my voice" |
 
 ---
 
