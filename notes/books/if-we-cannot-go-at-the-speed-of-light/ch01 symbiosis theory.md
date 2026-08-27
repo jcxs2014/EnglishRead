@@ -116,7 +116,7 @@ modified: "2026-08-26"
 - 为什么这样写：这是全篇高潮，且它发生在"噪声"里。Hannah 把团队准备丢掉的垃圾数据当作信号重新处理，才听见了这场合唱。**真相一直在，只是被归类为噪声。**
 - 读者视角提示：注意 *as it is* 到 *as it used to be* 的时态自我修正——寄居者也是在这一刻才知道故乡已毁。这句话里有一个物种的丧亲之痛。
 
-**⑩** "Something is inside the babies' brains. Something not human. Nothing else can explain it, unless we consider outside factors."
+**⑩** "Something is inside the babies’ brains,” said Hannah. “Something not human. Nothing else can explain it, unless we consider outside factors."
 
 - 中文理解：有什么东西在婴儿的大脑里。某种非人类的东西。除此之外无法解释，除非我们考虑外部因素。
 - 句子结构：三个短句——第一句主语 Something + 系动词 is + 表语 inside the babies' brains；第二句 Something + 后置定语 not human；第三句主语 Nothing else + 谓语 can explain + 宾语 it + 条件状语 unless we consider outside factors。
