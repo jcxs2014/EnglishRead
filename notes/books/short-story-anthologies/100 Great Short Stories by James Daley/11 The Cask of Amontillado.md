@@ -79,69 +79,63 @@ Poe 通过一个叙述者在嘉年华期间将 Fortunato 引诱进入地窖并�
 
 ---
 
-⑥ **"In the meantime I smiled, for I had at hand a means of imitation."**
+⑥ **"It must be understood, that neither by word nor deed had I given Fortunato cause to doubt my good-will. I continued, as was my wont, to smile in his face, and he did not perceive that my smile now was at the thought of his immolation."**
 
-**中文理解**：与此同时我微笑了，因为我手边有一种模仿的手段。
+**中文理解**：必须明白，我无论言语还是行为都没有给 Fortunato 任何怀疑我善意的理由。我继续如我惯常的那样在他面前微笑，而他并未察觉到我此刻的微笑，其实是在想着他的毁灭。
 
-**句子结构**：for 引导原因状语从句，I smiled 是主要动作，I had at hand a means of imitation 是原因。
+**句子结构**：It must be understood that 是强调结构，neither by word nor deed 是否定并列，as was my wont 是插入性同位语；后半段 I continued to smile / and he did not perceive that 是并列复合句。
 
-**关键词**：in the meantime（与此同时）/ smiled（微笑）/ at hand（手边）/ a means of imitation（模仿的手段）
+**关键词**：neither by word nor deed（无论言语还是行为）/ as was my wont（如我惯常）/ the thought of his immolation（他毁灭的想法）
 
-**表达方式**：用"微笑"（smiled）与"复仇"的并置，展示了叙述者的"冷静"——他在计划复仇时微笑着，这增加了故事的恐怖感。
-
----
-
-⑦ **"I continued, as was my wont, to smile in his face, and I did not open my mouth but to say: 'Montresor, my friend, I have a word to say to you.'"**
-
-**中文理解**：我继续，像我惯常的那样，在他面前微笑，而且我不开口，除非说："Montresor，我的朋友，我有话要对你说。"
-
-**句子结构**：as was my wont 是插入语，and 连接两个并列分句，but to say 表示"除非说"。
-
-**关键词**：as was my wont（如我惯常的那样）/ smile in his face（在他面前微笑）/ I did not open my mouth but to say（我不开口除非说）
-
-**表达方式**：用"如我惯常的那样"（as was my wont），展示"微笑"已经成为叙述者的"习惯"——他已经习惯于在 Fortunato 面前伪装。
+**表达方式**：用"微笑着想着对方的毁灭"（smile now was at the thought of his immolation），把"微笑"从"友善"变成"仪式感的预演"——这是全篇最阴森的画面之一。
 
 ---
 
-⑧ **"He had a weakness—he had but too freely expressed an opinion of the Amontillado sherry."**
+⑦ **"He had a weak point—this Fortunato—although in other regards he was a man to be respected and even feared. He prided himself on his connoisseurship in wine."**
 
-**中文理解**：他有一个弱点——他太过自由地表达了他对 Amontillado 雪利酒的看法。
+**中文理解**：他有一个弱点——这个 Fortunato——尽管在其他方面他是一个值得尊敬甚至令人畏惧的人。他以自己在葡萄酒鉴赏方面的造诣而自豪。
 
-**句子结构**：破折号后是同位语，He had but too freely expressed 是一个"过度表达"的行为。
+**句子结构**：弱语破折号引出插入语 this Fortunato，although 引导让步状语从句，prided himself on 是"以……自豪"。
 
-**关键词**：a weakness（一个弱点）/ too freely expressed（太过自由地表达）/ the Amontillado sherry（Amontillado 雪利酒）
+**关键词**：a weak point（一个弱点）/ in other regards（在其他方面）/ to be respected and even feared（值得尊敬甚至令人畏惧）/ prided himself on（以……自豪）/ connoisseurship in wine（葡萄酒鉴赏力）
 
-**表达方式**：用"Amontillado"（一种雪利酒）作为"诱饵"——Fortunato 自认为是一个葡萄酒鉴赏家，而"Amontillado"正是他的弱点。
-
-**为什么这样写**：Poe 用"葡萄酒鉴赏"作为"致命弱点"，展示了"傲慢"（hubris）如何导致毁灭——Fortunato 的自信让他毫无防备地走入了地窖。
+**表达方式**：先给出"他值得尊敬甚至令人畏惧"的反向抬高，再用"以葡萄酒鉴赏自豪"作为致命弱点——Fortunato 的骄傲正是他被俘获的入口。
 
 ---
 
-⑨ **"'My friend, no; not upon impulse alone. I have received a dish of Amontillado, and I have my doubts.'"**
+⑧ **"Few Italians have the true virtuoso spirit. For the most part their enthusiasm is adopted to suit the time and opportunity—to practise imposture upon the British and Austrian millionaires."**
 
-**中文理解**："我的朋友，不仅仅是凭冲动。我收到了一份 Amontillado，而且我有所怀疑。"
+**中文理解**：很少有意大利人具备真正的鉴赏家精神。他们大多数的热情是为了迎合时机和场合——为了在英、奥百万富翁身上行骗而采用的。
 
-**句子结构**：not upon impulse alone 是否定，I have received / I have my doubts 是两个并列陈述。
+**句子结构**：Few Italians have 是否定主谓，their enthusiasm is adopted 是被动语态，to practise imposture upon 是不定式作目的状语。
 
-**关键词**：not upon impulse alone（不仅仅是凭冲动）/ received a dish of Amontillado（收到了一份 Amontillado）/ I have my doubts（我有所怀疑）
+**关键词**：the true virtuoso spirit（真正的鉴赏家精神）/ enthusiasm is adopted（热情是被采用的）/ to practise imposture（行骗）/ the British and Austrian millionaires（英、奥百万富翁）
 
-**表达方式**：用"我有所怀疑"（I have my doubts）作为"激将法"——叙述者假装对 Amontillado 的真实性有所怀疑，从而激发 Fortunato 的自尊心。
-
-**为什么这样写**：Poe 用这个"激将法"，展示了"复仇者"的智慧——他不是强迫 Fortunato 进入地窖，而是让 Fortunato 自己要求进去。
+**表达方式**：Montresor 在批判国民性中暗藏对 Fortunato 的肯定——"他是少有的真专家"——这种肯定恰恰是诱饵的一部分。
 
 ---
 
-⑩ **"'Then it is not the Amontillado that you require?' 'Yes, the Amontillado, or I shall be sure to know who has been tampering with my coffers.'"**
+⑨ **"I said to him: 'My dear Fortunato, you are luckily met. How remarkably well you are looking to-day! But I have received a pipe of what passes for Amontillado, and I have my doubts.'"**
 
-**中文理解**："那么你要的不是 Amontillado 吗？""是的，Amontillado，否则我一定会知道是谁动过我的保险柜了。"
+**中文理解**：我对他说："亲爱的 Fortunato，你来得正好。你今天看起来气色真好！不过我收到了一桶冒牌的 Amontillado，我对此有所怀疑。"
 
-**句子结构**：Then it is not 是否定疑问句，Yes 是肯定回答，or 表示"否则"。
+**句子结构**：三个短句串联——寒暄、赞美、设饵——I have my doubts 是全句的钩子，以"怀疑"激发 Fortunato 的"专业权威感"。
 
-**关键词**：the Amontillado（Amontillado）/ I shall be sure to know（我一定会知道）/ tampering with my coffers（动过我的保险柜）
+**关键词**：luckily met（来得正好）/ remarkably well（气色极佳）/ a pipe of what passes for Amontillado（一桶冒牌的 Amontillado）/ I have my doubts（我有所怀疑）
 
-**表达方式**：用"知道谁动过我的保险柜"（know who has been tampering with my coffers）暗示"身份盗窃"的威胁——如果 Fortunato 不去鉴别这桶酒，他的名誉就会受损。
+**表达方式**：三重递进——寒暄、赞美、设饵——Montresor 用最短的对话把 Fortunato 引上钩。
 
-**为什么这样写**：Poe 用最后这句话，完成了"陷阱"的设置——Fortunato 被两个威胁逼入了地窖：一是"Amontillado 的荣誉"，二是"不被信任"——他必须去，否则他就是一个"不能辨别葡萄酒的冒牌鉴赏家"。
+---
+
+⑩ **"And yet some fools will have it that his taste is a match for your own. 'Come, let us go.' 'Whither?' 'To your vaults.'"**
+
+**中文理解**："然而一些蠢货竟然说他的品味能与你匹敌。""来吧，我们走。""去哪儿？""你的酒窖。"
+
+**句子结构**：蒙太奇式的四短句节奏，从一段独白迅速切到对话——"To your vaults"是全篇最沉重的一个词：他要去的地方，正是坟墓。
+
+**关键词**：some fools will have it（一些蠢货竟然认为）/ a match for your own（与你匹敌）/ your vaults（你的酒窖）
+
+**表达方式**：Montresor 用 Luchesi 的"挑衅"点燃 Fortunato 的嫉妒，而 Fortunato 自己说出"vaults"这个词——是他自愿走进自己的坟墓。
 
 ## 一句话总结
 

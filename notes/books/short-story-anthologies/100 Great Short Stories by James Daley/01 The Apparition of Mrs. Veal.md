@@ -87,33 +87,33 @@ Defoe 通过一个女人Mrs. Veal的鬼魂在她死后第九天拜访她朋友Mr
 
 **句子结构**：This thing has very much affected me 是主句，and I am as well satisfied as I am of the best-grounded matter of fact 是 as … as 比较结构。
 
-**关键词**：has very much affected me（非常影响了我）/ as well satisfied as（与……一样确定）/ the best-grounded matter of fact（最可靠的事实）
+**关键词**：has very much affected me（非常影响了我）/ as well satisfied as（与……一样确定）/ the best-grounded matter of fact（最可靠的事实）/ to dispute matter of fact（质疑事实本身）
 
 **表达方式**：用"as well satisfied as the best-grounded matter of fact"（与最可靠的事实一样确定），完成了 Defoe 的"见证者身份"的建立——他不是在"讲一个恐怖故事"，他是在"作证"。
 
 ---
 
-⑦ **"And why we should dispute this matter of fact, when we have had several such appearances, and everybody knows the great quantities of phantoms and visions that are to be met with in history?"**
+⑦ **"And why we should dispute matter of fact, because we cannot solve things of which we can have no certain or demonstrative notions, seems strange to me."**
 
-**中文理解**：为什么我们要质疑这个事实，当我们已经有过几次这样的显现，而且每个人都知道在历史中有大量的幽灵和幻象？
+**中文理解**：为什么我们要质疑事实本身，仅因为我们无法解释那些根本无法用确定或严格证明来理解的事物，这在我看来是很奇怪的。
 
-**句子结构**：Why we should dispute this matter of fact 是疑问句，when 引导原因状语，the great quantities of phantoms and visions 是"大量的幽灵和幻象"。
+**句子结构**：And why we should dispute matter of fact 是主语从句，because 引导原因状语从句，seems strange to me 是表语。
 
-**关键词**：dispute this matter of fact（质疑这个事实）/ several such appearances（几次这样的显现）/ great quantities of phantoms and visions（大量的幽灵和幻象）/ in history（在历史中）
+**关键词**：dispute matter of fact（质疑事实本身）/ to solve things（解释事物）/ certain or demonstrative notions（确定或可证明的概念）/ seems strange to me（在我看来很奇怪）
 
-**表达方式**：用"历史中的大量幽灵和幻象"（great quantities of phantoms and visions in history）来为"超自然"辩护——Defoe 把"鬼魂"放在了"历史证据"的框架里，而不是"文学虚构"的框架里。
+**表达方式**：Defoe 把"论证"与"事实"分离——即使解释不了"为何发生"，也不能动摇"已经发生"这个事实——这是经验主义认识论的雏形。
 
 ---
 
-⑧ **"She told me that she had no less than seven brothers and sisters, and that she thought she was the least favorite of them all."**
+⑧ **"If my senses be to be relied on, I am sure of it."**
 
-**中文理解**：她告诉我她至少有七个兄弟姐妹，而且她认为她是他们中最不被喜欢的一个。
+**中文理解**："如果我的感官值得信赖，那我对这件事就非常确定。"
 
-**句子结构**：She told me that 是间接引语，she had no less than seven brothers and sisters 是"她至少有七个兄弟姐妹"，I thought 是"我认为"，she was the least favorite of them all 是"她是他们中最不被喜欢的"。
+**句子结构**：If my senses be to be relied on 是虚拟语气的条件从句（be 为古体虚拟），I am sure of it 是主句。
 
-**关键词**：no less than seven（至少七个）/ brothers and sisters（兄弟姐妹）/ the least favorite（最不被喜欢的）
+**关键词**：if my senses be to be relied on（如果我的感官值得依赖）/ I am sure of it（我对它非常确定）
 
-**表达方式**：用"七个兄弟姐妹中最不被喜欢的"（the least favorite of them all），建立了 Mrs. Veal 的"受害者身份"——她不只是"死了"，她是在"被忽视"中长大的。
+**表达方式**：Mrs. Bargrave 用"虚拟条件"把自己降格——不是直接说"我记得"，而是"如果我的感官值得信任"，反而让这个"如果"显得更诚恳、更可信。
 
 ---
 
@@ -129,17 +129,17 @@ Defoe 通过一个女人Mrs. Veal的鬼魂在她死后第九天拜访她朋友Mr
 
 ---
 
-⑩ **"This thing has very much affected me, and I am as well satisfied as I am of the best-grounded matter of fact."**
+⑩ **"Had it not come to light by accident, it would never have been made public."**
 
-**中文理解**：这件事非常影响了我，而我对此的确定程度，与我对最可靠的事实一样。
+**中文理解**："如果不是偶然曝光，这件事本来永远不会公之于众。"
 
-**句子结构**：This thing has very much affected me 是主句，and I am as well satisfied 是 as … as 比较结构，as I am of the best-grounded matter of fact 是"与我对最可靠的事实一样"。
+**句子结构**：Had it not come to light 是虚拟语气倒装（= If it had not come to light），it would never have been made public 是主句。
 
-**关键词**：has very much affected me（非常影响了我）/ as well satisfied（一样确定）/ the best-grounded matter of fact（最可靠的事实）
+**关键词**：had it not come to light by accident（如果不是偶然曝光）/ it would never have been made public（永远不会公之于众）
 
-**表达方式**：重复开篇的最后一句话，完成了"见证者"的叙事闭环——Defoe 以"确定性"开始，也以"确定性"结束。
+**表达方式**：倒装虚拟语气，把"偶然"放在句首——强调"曝光"本身是偶然的，而非 Mrs. Bargrave 主动推动的，进一步排除作伪动机。
 
-**为什么这样写**：Defoe 用这个"首尾呼应"的结构，完成了"超自然作为新闻报道"的叙事框架——读者不是在读"小说"，而是在读"经过验证的目击证词"。
+**为什么这样写**：Defoe 借 Mrs. Bargrave 之口，给出"最消极的版本"——即使被曝光，也不是主动的；这种"被动性"是"可信度"的关键保障。
 
 ## 一句话总结
 

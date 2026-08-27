@@ -53,95 +53,89 @@ Dostoyevsky 通过一个男人在监狱服刑期间回忆他年轻时杀害一�
 
 ---
 
-④ **"I was not drunk, and did not want to join in the abuse and quarrelling; I wanted to think, and all day long I could not drive away one thought that had come to me the night before."**
+④ **"At last a sudden fury flamed up in my heart. A political prisoner called M. met me; he looked at me gloomily, his eyes flashed and his lips quivered."**
 
-**中文理解**：我没有喝醉，也不想加入辱骂和争吵；我想思考，而且我一整天都无法驱散前一夜来到我脑海里的那个念头。
+**中文理解**：最后我心里突然腾起一股怒火。一个叫 M. 的政治犯遇见了我；他阴沉地看着我，眼睛闪着光，嘴唇颤抖着。
 
-**句子结构**：and 连接两个并列分句，all day long 是时间状语，that had come to me 是定语从句修饰 thought。
+**句子结构**：At last a sudden fury flamed up 是"最后一股怒火腾起"，in my heart 是地点状语；分号后 A political prisoner called M. met me 是"一个叫 M. 的政治犯遇见我"，his eyes flashed and his lips quivered 是并列描写。
 
-**关键词**：not drunk（没有喝醉）/ did not want to join（不想加入）/ wanted to think（想要思考）/ could not drive away（无法驱散）/ the night before（前一夜）
+**关键词**：a sudden fury flamed up（一股怒火突然腾起）/ a political prisoner（一个政治犯）/ looked at me gloomily（阴沉地看着我）/ his eyes flashed（眼睛闪着光）/ his lips quivered（嘴唇颤抖）
 
-**表达方式**：用"无法驱散的念头"（could not drive away one thought），建立"罪恶感"的"入侵性"——这个念头不是他自己想要的，它自己"来了"。
+**表达方式**：用"怒火腾起 + 政治犯 M. 的阴沉目光"，建立"监狱节庆"作为"仇恨催化剂"的意象——在醉汉喧闹中，叙述者的愤怒与 M. 的法语仇恨（Je haïs ces brigands）彼此呼应。
 
----
-
-⑤ **"This thought was not a new one; I had been told in the prison that a convict named Marey, from the convict prison at K., was coming to our prison."**
-
-**中文理解**：这个念头不是一个新的念头；我在监狱里被告知一个名叫 Marey 的囚犯要从 K. 的囚犯监狱来到我们的监狱。
-
-**句子结构**：I had been told 是过去完成时的被动语态，that 引导宾语从句，named Marey 是 convict 的后置定语。
-
-**关键词**：was not a new one（不是一个新的念头）/ a convict named Marey（一个名叫 Marey 的囚犯）/ from the convict prison（从囚犯监狱）/ was coming（要来）
-
-**表达方式**：用"Marey"这个名字，建立"过去受害者"与"现在"的联系——这个囚犯 Marey 是叙述者过去认识的人，而他的到来唤醒了叙述者的回忆。
+**为什么这样写**：Dostoyevsky 用这个突发的"怒火"作为引子，引出 M. 这个对照人物——与后文农奴 Marey 的温柔回忆形成最尖锐的对照：同一个俄罗斯人间，有人只余仇恨，有人只存宽恕。
 
 ---
 
-⑥ **"And this Marey had once, in former times, been a serf of one of his (the prisoner's) relatives, and he had once struck him across the face with a whip."**
+⑤ **"This was the second day of the 'holidays' in the prison; the convicts were not taken out to work, there were numbers of men drunk, loud abuse and quarrelling was springing up continually in every corner."**
 
-**中文理解**：而这个 Marey 曾经在从前是（这名囚犯的）一个亲属的农奴，而且他曾经用鞭子抽过他的脸。
+**中文理解**：这是监狱"假期"的第二天；囚犯们没有被带出去工作，许多人喝醉了，粗俗的辱骂和争吵在每一个角落里不断爆发。
 
-**句子结构**：had once been 是过去完成时，and he had once struck 是并列的过去完成时，across the face 是"打脸"的介词短语。
+**句子结构**：分号连接两个并列分句，there were numbers of men drunk 是"许多人喝醉了"。
 
-**关键词**：a serf（农奴）/ one of his relatives（他的一个亲属）/ struck him across the face（抽过他的脸）/ with a whip（用鞭子）
+**关键词**：the holidays（假期）/ convicts were not taken out（囚犯没有被带出去）/ numbers of men drunk（许多人喝醉了）/ loud abuse and quarrelling（粗俗的辱骂和争吵）
 
-**表达方式**：用"打脸"（struck him across the face）这一具体动作，建立"羞辱"与"暴力"的关系——被打脸是一种"羞辱"，而这种羞辱会导致"复仇"。
-
----
-
-⑦ **"'A mere trifle,' you will say; but I do not agree with you. I know that I was not the only one who had to submit to that flogging."**
-
-**中文理解**："只是小事一桩，"你可能会说；但我不同意你的看法。我知道我并不是唯一一个不得不承受那次鞭打的人。
-
-**句子结构**：you will say 是插入语，but 表示对比，I do not agree 是否定，I know that 是宾语从句。
-
-**关键词**：a mere trifle（只是小事一桩）/ I do not agree（我不同意）/ submit to that flogging（承受那次鞭打）
-
-**表达方式**：用"只是小事一桩"（a mere trifle）作为"叙述者"与"听众"之间的分歧——在读者看来"打脸"是小事，但对罪犯来说，它是"不公正的羞辱"，是复仇的种子。
-
-**为什么这样写**：Dostoyevsky 用这个"小事"与"大罪"的对比，展示了"暴力循环"的本质：小的羞辱会导致大的暴力，而暴力又会制造新的羞辱。
+**表达方式**：用"监狱里的假期"（prison holidays），建立"节日"作为"暴力催化剂"的意象：在节日里，即使是囚犯也会喝醉并发生争吵。
 
 ---
 
-⑧ **"There was no one to protect the peasant's honour, and Marey the peasant had to submit to the insult."**
+⑥ **"Je haïs ces brigands!" he hissed to me through his teeth, and walked on.**
 
-**中文理解**：没有人来保护农民的荣誉，而农民 Marey 不得不忍受那次侮辱。
+**中文理解**："我痛恨这些暴徒！"他咬着牙、低声对我说，然后就走开了。
 
-**句子结构**：and 连接两个并列分句，There was no one 是否定性存在句，to protect the peasant's honour 是不定式作定语。
+**句子结构**：Je haïs ces brigands 是法语直接引语（意为"我痛恨这些暴徒"），he hissed to me through his teeth 是"咬牙低声"的动作描写，and walked on 是收尾动作。
 
-**关键词**：no one to protect（没有人来保护）/ the peasant's honour（农民的荣誉）/ had to submit（不得不忍受）/ the insult（侮辱）
+**关键词**：Je haïs ces brigands（法语"我痛恨这些暴徒"）/ hissed to me through his teeth（咬牙低声对我说）
 
-**表达方式**：用"没有人来保护"（There was no one to protect），展示"农民"作为"社会最底层"的无力感——他们无法保护自己的荣誉，只能"忍受"。
-
-**为什么这样写**：Dostoyevsky 用这个细节，揭示了"农奴制"的残酷性：农奴没有人保护，他们唯一的选择是"忍受"或者"反抗"——而反抗的代价往往是"死亡"。
+**表达方式**：波兰囚犯 M. 用一句法语喊出仇恨，与下一段对 Marey 农奴的温柔回忆形成尖锐对照——同一个俄罗斯囚牢，有人只有仇恨，有人只有宽恕。
 
 ---
 
-⑨ **"I could not sleep that night. I kept walking about the prison yard, thinking and thinking, until the morning came."**
+⑦ **"There, there, you have had a fright, little one!" And I remembered particularly the thick earth-stained finger with which he softly and with timid tenderness touched my quivering lips.**
 
-**中文理解**：那天晚上我无法入睡。我在监狱院子里走来走去，不停地想啊想，直到早晨来临。
+**中文理解**："好了好了，你吓坏了，小宝贝！"我尤其记得那根沾满泥土的粗指，他带着轻柔而怯生生的温柔，轻轻碰了碰我颤抖的嘴唇。
 
-**句子结构**：until the morning came 是时间状语从句，thinking and thinking 是现在分词的反复用法。
+**句子结构**：前半段是直接引语，后半段 I remembered particularly 是"我尤其记得"，with which he softly … touched 是定语从句修饰 finger。
 
-**关键词**：could not sleep（无法入睡）/ walking about the prison yard（在监狱院子里走来走去）/ thinking and thinking（想啊想）/ until the morning came（直到早晨来临）
+**关键词**：There there（安慰的口吻"好了好了"）/ had a fright（受惊吓）/ the thick earth-stained finger（沾满泥土的粗指）/ with timid tenderness（怯生生地温柔）
 
-**表达方式**：用"想啊想"（thinking and thinking）的反复，展示"罪恶感"的"无尽性"——思考不能解决问题，因为问题不是"理性"的，而是"情感"的。
-
-**为什么这样写**：Dostoyevsky 用"无法入睡"的夜晚，建立"罪恶感"作为"失眠症"的心理原型：罪犯不是因为"后悔"而失眠，而是因为"无法面对自己"而失眠。
+**表达方式**：Dostoyevsky 用一个"粗指碰嘴唇"的微观动作，承载了全篇的情感核心——一个粗野农奴对孩子的温柔，比任何大词都更有力。
 
 ---
 
-⑩ **"And I remembered everything: the moonlight on the steppe, the shadows of the wolves, and how the blood had flown from his temple."**
+⑧ **"He was our serf and I was his little master, after all. No one would know that he had been kind to me and reward him for it."**
 
-**中文理解**：然后我记得了一切：草原上的月光，狼的影子，以及血如何从他的太阳穴流出来。
+**中文理解**：他终究是我们的农奴，而我终究是他的小主人。没有人会知道他曾对我温柔过，也没有人会为此奖励他。
 
-**句子结构**：and 连接三个并列的宾语，how the blood had flown 是"如何"的名词性从句。
+**句子结构**：He was … and I was … 是平行对照，after all 是收束性的让步，No one would know / reward him 是并列否定。
 
-**关键词**：remembered everything（记得了一切）/ the moonlight on the steppe（草原上的月光）/ the shadows of the wolves（狼的影子）/ the blood had flown（血流出）
+**关键词**：our serf（我们的农奴）/ his little master（他的小主人）/ after all（终究）/ reward him for it（为此奖励他）
 
-**表达方式**：用"草原上的月光"与"狼的影子"的并置，建立"荒野"作为"罪恶发生地"的意象——在这个没有"文明"的地方，暴力是"自然法则"的一部分。
+**表达方式**：叙述者用"没有人知道，也没有人奖励"暴露了农奴制的冷酷——温柔是"免费的"，而"免费"的东西在制度里毫无价值。
 
-**为什么这样写**：Dostoyevsky 用最后这句话，完成了"记忆"作为"永恒现场"的陈述：罪犯不是"回忆"那个夜晚，他"再次经历"那个夜晚——月光、狼、血——每一个细节都像"现场录像"一样清晰。
+---
+
+⑨ **"Was he, perhaps, very fond of little children? Some people are."**
+
+**中文理解**：他是不是特别喜爱小孩子？有些人就是这样的。
+
+**句子结构**：Was he, perhaps, very fond of little children 是反问句（含插入语 perhaps），Some people are 是简短回答式的肯定。
+
+**关键词**：perhaps（也许）/ very fond of little children（特别喜欢小孩子）/ Some people are（有些人就是这样的）
+
+**表达方式**：Dostoyevsky 用一个看似轻描淡写的反问，把 Marey 的温柔"正常化"——"有些人就是这样的"——但正是这种"正常"与制度的"不正常"形成对照。
+
+---
+
+⑩ **"That shaven peasant, branded on his face as a criminal, bawling his hoarse, drunken song, may be that very Marey; I cannot look into his heart."**
+
+**中文理解**：那个剃光头、脸上烙着罪犯印记的农民，正粗声沙哑地唱着醉歌——那也许就是当年那个 Marey；我无法看透他的心。
+
+**句子结构**：That shaven peasant 是主语，branded on his face as a criminal 是后置定语，may be that very Marey 是猜测，I cannot look into his heart 是收束。
+
+**关键词**：shaven peasant（剃光头的农民）/ branded on his face as a criminal（脸上烙着罪犯印记）/ bawling his hoarse drunken song（粗声唱着醉歌）/ I cannot look into his heart（我无法看透他的心）
+
+**表达方式**：用"I cannot look into his heart"结尾——叙述者承认"人心不可见"。Dostoyevsky 把"罪恶感"的根源从"具体行为"推到"人心深处的不可知"上，这才是真正的恐怖。
 
 ## 一句话总结
 
