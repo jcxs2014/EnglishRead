@@ -164,7 +164,7 @@ Gorky 写无嗣的 Timofei 不能唱全父祖的歌、作家读故事伴他含�
 | Healthy people are so unreliable | ph. 健康人不可靠 | Healthy people are so unreliable |
 | the man without inheritance | ph. 无嗣者 | The man without inheritance |
 | his mute, dead dust | ph. 哑默死尘 | his mute, dead dust would lie upon these songs |
-| veer to the left | ph. 拐向左 | they suddenly veer to the left |
+| paralyzed | adj. 瘫痪的 | "what a real joy it is to tell stories to a paralyzed person" |
 
 ### ⭐⭐ 进阶
 

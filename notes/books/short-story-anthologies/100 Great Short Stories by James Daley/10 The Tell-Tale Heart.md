@@ -46,8 +46,8 @@ modified: "2026-08-26"
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| dissection | 解剖 | "I pulled the bed away" |
-| hearense | 听觉 | "the sense of hearing acute" |
+| dissimulation | 伪装、狡猾（文中指"谨慎行事"的伪装） | "with what dissimulation I went to work" |
+| acute | 敏锐的、尖锐的 | "the disease had sharpened my senses, not destroyed — above all was the sense of hearing acute" |
 | heartbeat | 心跳 | "the old man's heart" |
 
 ### ⭐ 基础

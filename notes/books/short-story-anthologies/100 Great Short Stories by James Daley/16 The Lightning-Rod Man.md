@@ -62,7 +62,7 @@ Melville 通过一个旅行推销员上门推销避雷针的故事，讽刺了19
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | thunder | 雷声 | "grand irregular thunder" |
-| salesman | 推销员 | "a traveling salesman" |
+| singularity | n. 独特性、奇异之处 | "His singularity impelled a closer scrutiny" |
 | hearthstone | 壁炉石 | "standing on my hearthstone" |
 | zigzag | 之字形 | "zigzag irradiations" |
 

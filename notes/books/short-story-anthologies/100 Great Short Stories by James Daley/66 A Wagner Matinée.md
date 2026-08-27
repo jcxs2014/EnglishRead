@@ -171,7 +171,7 @@ Cather 写叔母 Georgiana 从内布拉斯加荒原来波士顿、听瓦格纳�
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
 | left a small legacy | ph. 得薄产 | had been left a small legacy |
-| measuring off their land | ph. 自量地 | measured off their land themselves |
+| matinee | n. 午后演出（日场音乐会） | "a Wagner matinee"（Wagner作品的午后场） |
 | the faded mosquito netting | ph. 旧蚊帐 | through the faded mosquito netting |
 | weather-curled boards | ph. 风卷板 | with weather-curled boards |
 

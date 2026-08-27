@@ -173,7 +173,7 @@ Saki 用"会说话的马"Tobermory 的故事，展示了"真相"与"社交礼仪
 | rejoinder | n. 回嘴、反唇相讥 | "After all, it's not my Axminster," was Tobermory's rejoinder. |
 | frigidly | adv. 冷淡地 | "One does not usually discuss these matters in public," said Tobermory frigidly. |
 | discomfited | adj.狼狈不堪的、灰溜溜的 | "There's not a word of truth in it!" exclaimed the discomfited Agnes. |
-| embassage | n. 使者的使命（文中指 Tobermory 作为秘密载体） | 猫会说人话这一"可怕的成就"摧毁了 Tobermory 的命运 |
+| intelligence | n. 智慧、智力（猫开口说话代表"可怕的成就"） | "the intelligence of Tobermory" |
 | have someone destroyed | ph. 把某人处理掉 | The only thing is to have him destroyed as soon as possible. |
 
 ### ⭐ 基础

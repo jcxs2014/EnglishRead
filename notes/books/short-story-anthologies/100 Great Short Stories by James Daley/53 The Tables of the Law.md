@@ -163,7 +163,7 @@ Yeats 以"我"与 Aherne 在 chapel 的对话，写一盒"律法之表"被私藏
 |---|---|---|
 | half monk, half soldier of fortune | ph. 半僧半冒险家 | half monk, half soldier of fortune |
 | the penal times | ph. 刑禁年代 | secret worshippers of the penal times |
-| the new dispensation | ph. 新法（启示） | the revealers of the new dispensation |
+| biretta | n. 法学帽（天主教/犹太教神职人员戴的方帽） | "Why did you refuse the biretta, and almost at the last moment?" |
 | the flames of the Last Day | ph. 末日之焰 | perhaps the flames of the Last Day |
 
 ### ⭐⭐ 进阶
