@@ -1,159 +1,159 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 64. HOME SICKNESS
+# 64. Home Sickness
 
 **作者**：George Moore
 
 ## 一句话总结
 
-Moore 通过一个男人在异乡思念故乡的故事，展示了"乡愁"的深刻痛苦——一个人在伦敦生活多年，却始终无法融入这座城市，他的"家"永远在爱尔兰的某个地方。
+Moore 写旅美的爱尔兰人 Bryden 在异乡忽生乡思，车夫指给他看故乡旧识 Mike Scully，忆起绿丘、泥湖、芦与远湖——一则把"怀乡"写成离人梦中唯一清晰之景的短篇，结尾以"所见最清者皆故园"收束。
 
 ## 逐句精读（10 处）
 
-① **"He told the doctor he was due in the morning…"**
+① **"You will come back a new man." "I'd like to see Ireland again." And then he began to wonder how the people at home were getting on.**
 
-**中文理解**：他告诉医生他早上就要出发了。
+**中文理解**："你会成新人归来。""我想再看看爱尔兰。"而后他始想家乡人可好。
 
-**句子结构**：主句 + that 宾语从句，was due 表示"按计划应该"。
+**句子结构**：You will come back a new man 直接引语；I'd like to see Ireland again 引语。And then he began to wonder 主谓；how the people at home were getting on 宾从。
 
-**关键词**：due（预期的）/ tell（告诉）/ doctor（医生）
+**关键词**：come back a new man（成新人归来）/ I'd like to see Ireland again（想再看爱尔兰）/ how the people at home were getting on（家乡人可好）
 
-**表达方式**：用 was due 表示"确定性计划"，暗示人物对离开的迫切感。
+**表达方式**：用"想再看爱尔兰"写乡思的起，平白一句却重。
 
-**为什么这样写**：开头就建立了一个"即将离开"的紧迫感，为"乡愁"主题做铺垫。
-
----
-
-② **"His face was the color of bad cream, and his hands trembled as they lay upon the blanket."**
-
-**中文理解**：他的脸像坏掉的奶油一样黄，他的手躺在毯子上颤抖着。
-
-**句子结构**：and 连接两个并列分句，the color of bad cream 隐喻他的病态面容，as they lay 作时间状语。
-
-**关键词**：color of bad cream（病态黄）/ tremble（颤抖）/ blanket（毯子）
-
-**表达方式**：用颜色隐喻（bad cream）制造视觉上的厌恶感，暗示身体的衰弱。
-
-**为什么这样写**：身体的病态是"精神乡愁"的外化——他不是身体病了，而是灵魂想家了。
+**为什么这样写**：Moore 以此，让怀乡在对话里轻启。
 
 ---
 
-③ **"'I am going back to Ireland,' he said, 'and I shall get better when I get home.'"**
+② **"Suddenly his reverie was broken: the carman pointed with his whip, and Bryden saw a tall, finely-built, middle-aged man coming through the gates, and the driver said:— 'There's Mike Scully.'"**
 
-**中文理解**："我要回爱尔兰了，"他说，"我回家以后就会好起来的。"
+**中文理解**：忽而遐思被破：车夫鞭指，Bryden 见一高大健壮中年男穿门来，车夫道："那是 Mike Scully。"
 
-**句子结构**：and 连接两个并列分句，when 引导时间状语从句。
+**句子结构**：Suddenly his reverie was broken 主谓；the carman pointed with his whip 并列；and Bryden saw a tall, finely-built, middle-aged man 并列；coming through the gates 现在分词；and the driver said 并列；There's Mike Scully 引语。
 
-**关键词**：go back（回去）/ Ireland（爱尔兰）/ get better（好起来）
+**关键词**：his reverie was broken（遐思被破）/ the carman pointed with his whip（车夫鞭指）/ a tall, finely-built, middle-aged man（高大健壮中年男）/ coming through the gates（穿门来）/ There's Mike Scully（那是 Mike Scully）
 
-**表达方式**：用重复 go/going 的音韵效果制造"渴望"的节奏感。
+**表达方式**：用"鞭指+穿门来"写旧识突现，梦被现实戳破。
 
-**为什么这样写**：病人相信"回家"能治好他的病——这是心理作用对身体的奇妙影响。
-
----
-
-④ **"London had been his prison for fifteen years."**
-
-**中文理解**：伦敦对他来说已经是十五年的监狱。
-
-**句子结构**：主系表结构，for fifteen years 表示持续时间。
-
-**关键词**：prison（监狱）/ London（伦敦）/ fifteen years（十五年）
-
-**表达方式**：用"监狱"隐喻一个人无法逃离的精神枷锁。
-
-**为什么这样写**：用数字"十五年"量化一个人的痛苦——每一天都是刑期。
+**为什么这样写**：Moore 以此，让乡思落地成具体的人。
 
 ---
 
-⑤ **"He remembered the white roads and the little green fields…"**
+③ **"I don't think anyone except myself has a five pound note to his name." Bryden hoped he felt sufficiently sorry for Mike.**
 
-**中文理解**：他记得那些白色的路和绿色的小田野。
+**中文理解**："我想除我无人名下有五镑钞。"Bryden 盼自己对 Mike 够怜。
 
-**句子结构**：主谓宾结构，remembered 后接两个并列的名词短语。
+**句子结构**：I don't think anyone except myself has a five pound note 主谓宾从；to his name 状语。Bryden hoped 主谓；he felt sufficiently sorry for Mike 宾从。
 
-**关键词**：white roads（白色的路）/ green fields（绿色的田野）/ remember（记得）
+**关键词**：anyone except myself（除我无人）/ a five pound note to his name（名下五镑钞）/ hoped he felt sufficiently sorry（盼够怜）
 
-**表达方式**：用颜色词（white, green）制造"明信片式"的田园美景。
+**表达方式**：用"五镑钞"写移民的贫富落差，怜里带自得。
 
-**为什么这样写**：记忆中的风景总是比现实更美——这是乡愁的滤镜效应。
-
----
-
-⑥ **"In Ireland, the rain was softer, and the women were more beautiful."**
-
-**中文理解**：在爱尔兰，雨更轻柔，女人更美丽。
-
-**句子结构**：and 连接两个并列句，In Ireland 地点状语提前表示强调，more beautiful 形容词的比较级。
-
-**关键词**：rain（雨）/ softer（更轻柔的）/ women（女人）/ more beautiful（更美丽的）
-
-**表达方式**：用比较级 structures制造"比较"的修辞效果——现实中的伦敦什么都不如爱尔兰。
-
-**为什么这样写**：乡愁者把故乡理想化，把异乡丑化——这是人类心理的自我防御机制。
+**为什么这样写**：Moore 以此，让怀乡夹着阶层的距离。
 
 ---
 
-⑦ **"His mother would be standing at the door, waiting for him…"**
+④ **"There was a bat in the loft—a dog howled in the distance—and then he drew the clothes over his head."**
 
-**中文理解**：他的母亲会站在门口，等着他。
+**中文理解**：阁有蝠——远有犬嚎——他便把衣蒙过头。
 
-**句子结构**：would be standing 过去将来进行时，表示"可预见的未来动作"，waiting for him 现在分词作伴随状语。
+**句子结构**：There was a bat in the loft 存在句；a dog howled in the distance 并列；and then he drew the clothes over his head 并列。
 
-**关键词**：mother（母亲）/ standing at the door（站在门口）/ wait（等待）
+**关键词**：a bat in the loft（阁有蝠）/ a dog howled in the distance（远有犬嚎）/ drew the clothes over his head（衣蒙头）
 
-**表达方式**：用进行时表示"持续的画面"，制造"记忆中的电影"效果。
+**表达方式**：用"蝠+犬嚎+蒙头"写异乡的夜不成眠，孤在声里。
 
-**为什么这样写**：母亲的等待是乡愁中最温暖的部分——也是最深的精神羁绊。
-
----
-
-⑧ **"He fell asleep with his face to the window, dreaming of the bog water and the smell of turf smoke."**
-
-**中文理解**：他脸贴着窗户睡着了，梦里是沼泽水和泥煤烟的味道。
-
-**句子结构**：with his face to the window 独立主格结构作方式状语，dreaming of 伴随状语。
-
-**关键词**：fall asleep（睡着）/ bog water（沼泽水）/ turf smoke（泥煤烟的味道）
-
-**表达方式**：用感官词汇（smell of turf smoke）激活记忆的嗅觉层面。
-
-**为什么这样写**：嗅觉是最原始的记忆载体——泥煤烟的味道就是"家"的味道。
+**为什么这样写**：Moore 以此，让怀乡在失眠的细响里显形。
 
 ---
 
-⑨ **"But the doctor had written in his book: 'Patient must not travel.'"**
+⑤ **"As well as the great lake there was a smaller lake in the bog where the villagers cut their turf."**
 
-**中文理解**：但医生在他的本子上写着："病人不许旅行。"
+**中文理解**：除大湖，沼里还有小湖，村民在那割泥炭。
 
-**句子结构**：but 表示转折，had written 过去完成时表示"已经写下的"，直接引语作补语。
+**句子结构**：As well as the great lake 状语；there was a smaller lake in the bog 存在句；where the villagers cut their turf 定语。
 
-**关键词**：doctor（医生）/ must not travel（不许旅行）/ patient（病人）
+**关键词**：the great lake（大湖）/ a smaller lake in the bog（沼中小湖）/ the villagers cut their turf（村民割泥炭）
 
-**表达方式**：用引号内的命令句制造"外部阻碍"的戏剧冲突。
+**表达方式**：用"大小两湖+割泥炭"写故园地景的具体，怀乡有坐标。
 
-**为什么这样写**：医生的禁令与病人的渴望形成对立——精神想回家，但身体不允许。
+**为什么这样写**：Moore 以此，让记忆里的爱尔兰可被指认。
 
 ---
 
-⑩ **"And he knew that he would never see Ireland again."**
+⑥ **"But the obedience of these people to their priest surprised him."**
 
-**中文理解**：而他知道，他再也不会看到爱尔兰了。
+**中文理解**：但这些人对神父的顺从，令他讶。
 
-**句子结构**：that 引导宾语从句，never again 表示"永远不再"。
+**句子结构**：But the obedience of these people to their priest 主语；surprised him 谓宾。
 
-**关键词**：know（知道）/ never（永远不）/ see Ireland（看到爱尔兰）
+**关键词**：the obedience of these people（这些人的顺从）/ to their priest（对神父）/ surprised him（令他讶）
 
-**表达方式**：用 never again 的绝对否定表达无法改变的绝望。
+**表达方式**：用"对神父顺从"写故乡的宗教惯性，归人者亦异之。
 
-**为什么这样写**：小说的结尾与开头呼应——他"早上就要出发"，但实际上他永远也出发不了了。乡愁是一种无法治愈的病。
+**为什么这样写**：Moore 以此，让怀乡里掺一丝旁观的疏。
+
+---
+
+⑦ **"His father-in-law was learning him how to buy and sell cattle."**
+
+**中文理解**：他岳父正教他买卖牛。
+
+**句子结构**：His father-in-law was learning him 主谓宾；how to buy and sell cattle 宾从。
+
+**关键词**：His father-in-law（他岳父）/ learning him how to buy and sell cattle（教买卖牛）
+
+**表达方式**：用"岳父教买卖牛"写乡土生计的传递，归人即归艺。
+
+**为什么这样写**：Moore 以此，让怀乡落进可学的活计。
+
+---
+
+⑧ **"He agreed that he loved her, and that they would be married at once."**
+
+**中文理解**：他应：爱她，且即刻成婚。
+
+**句子结构**：He agreed 主谓；that he loved her 宾从；and that they would be married at once 并列。
+
+**关键词**：agreed that he loved her（应爱她）/ married at once（即刻成婚）
+
+**表达方式**：用"爱她+即刻婚"写乡思里也有姻缘的暖线。
+
+**为什么这样写**：Moore 以此，让怀乡不只有景，还有人。
+
+---
+
+⑨ **"I shall have to hurry not to miss the train." And then she asked him if he would ever come back.**
+
+**中文理解**："我得赶不误车。"而后她问他可会归来。
+
+**句子结构**：I shall have to hurry 主谓；not to miss the train 目的。And then she asked him 主谓；if he would ever come back 宾从。
+
+**关键词**：hurry not to miss the train（赶不误车）/ asked him if he would ever come back（问他可会归）
+
+**表达方式**：用"可会归"的问，写离别里未了的牵。
+
+**为什么这样写**：Moore 以此，让怀乡在"归否"的悬里收束。
+
+---
+
+⑩ **"The bar-room was forgotten and all that concerned it, and the things he saw most clearly were the green hillside, and the bog lake and the rushes about it, and the greater lake in the distance, and beyond the lake the hills."**
+
+**中文理解**：酒吧忘了，与之相关皆忘；他看得最清的，是绿坡、沼湖与畔芦、远的大湖、湖外山。
+
+**句子结构**：The bar-room was forgotten 主谓；and all that concerned it 并列；and the things he saw most clearly were 并列；the green hillside 表；and the bog lake and the rushes 并列；and the greater lake in the distance 并列；and beyond the lake the hills 并列。
+
+**关键词**：The bar-room was forgotten（酒吧忘了）/ the things he saw most clearly（看得最清的）/ the green hillside（绿坡）/ the bog lake and the rushes（沼湖与芦）/ the greater lake in the distance（远的大湖）/ beyond the lake the hills（湖外山）
+
+**表达方式**：用"酒吧忘、故园清"的对照，写离人心里唯故乡最真。
+
+**为什么这样写**：Moore 以此收尾，让怀乡在"最清之景"里定格。
 
 ## 一句话总结
 
-Moore 用一个"无法回家的旅人"的故事，展示了乡愁的致命力量——对于一个想家的人来说，"回不去"比任何疾病都更可怕。
+Moore 写旅美爱尔兰人 Bryden 忽生乡思，旧识 Mike 突现、忆起绿坡沼湖远湖山——当酒吧与周遭皆忘，他看得最清的唯故园，怀乡是离人梦里唯一不被模糊的景。
 
 ## 词汇分级
 
@@ -161,26 +161,25 @@ Moore 用一个"无法回家的旅人"的故事，展示了乡愁的致命力量
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| home sickness / homesickness | n. 乡愁，思乡病 | He suffered from terrible home sickness in London. |
-| prison | n. 监狱，牢笼 | London had been his prison for fifteen years. |
-| bog water | n. 沼泽水 | He was dreaming of the bog water and the smell of turf smoke. |
-| must not travel | ph. 不许旅行 | The doctor wrote: 'Patient must not travel.' |
+| his reverie was broken | ph. 遐思被破 | Suddenly his reverie was broken |
+| a tall, finely-built, middle-aged man | ph. 高大健壮中年男 | a tall, finely-built, middle-aged man |
+| cut their turf | ph. 割泥炭 | the villagers cut their turf |
+| the things he saw most clearly | ph. 看得最清的 | the things he saw most clearly were |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| due | adj. 预期的，预定要到的 | He was due in the morning. |
-| tremble | v. 颤抖 | His hands trembled as they lay upon the blanket. |
-| soft | adj. 轻柔的，柔软的 | In Ireland, the rain was softer. |
-| fall asleep | ph. 入睡，睡着 | He fell asleep with his face to the window. |
+| the carman pointed with his whip | ph. 车夫鞭指 | the carman pointed with his whip |
+| a five pound note to his name | ph. 名下五镑钞 | a five pound note to his name |
+| a bat in the loft | ph. 阁中蝠 | There was a bat in the loft |
+| learning him how to buy and sell cattle | ph. 教买卖牛 | learning him how to buy and sell cattle |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| doctor | n. 医生 | He told the doctor he was due in the morning. |
-| Ireland | n. 爱尔兰 | I am going back to Ireland. |
-| mother | n. 母亲 | His mother would be standing at the door. |
-| remember | v. 记得 | He remembered the white roads. |
-| never | adv. 永不，从不 | He would never see Ireland again. |
+| Ireland | n. 爱尔兰 | see Ireland again |
+| a dog | n. 犬 | a dog howled |
+| his priest | n. 神父 | obedience to their priest |
+| the train | n. 车 | miss the train |
