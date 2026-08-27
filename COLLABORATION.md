@@ -891,6 +891,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 |------|----------|------|----------|
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
+| book-lovers 分章+总览引文整改（39 条分章虚构+金句 5/10+情感节点未查） | [Hermes-Mac] | 🔄 指派待接手 | 2026-08-28 |
 | The Isolationist（Harrigan）全书 7 篇精读（引文 66/66 ✅ + 词汇 FAIL 清零 ✅，已验收） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | 100 Great ch03-74 引文返工（ZCode-Mac 已验收：60/60 逐章严格通过；ch75-99 归另一会话，余 6 篇） | [Hermes-Mac] | ✅ 已验收关闭 | 2026-08-27 |
 | 100 Great ch75-99 引文返工（25篇全部完成：ch75-94 本会话返工 10/10✅，ch95-99 基线已绿；verify 900/900=100%；valiantly 词汇拼写修复；已 commit `8aa8726`） | [Hermes-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
