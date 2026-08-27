@@ -1,114 +1,185 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 51. ROLLO LEARNING TO READ
+# 51. Rollo Learning to Read
 
-**作者**：Robert J. Burdette
+**作者**：Lewis Carroll (parody sketch)
 
 ## 一句话总结
 
-Burdette 以幽默的笔调描述了小男孩 Rollo 学习阅读的过程，展示了19世纪美国儿童教育的"快乐学习"与"机械记忆"之间的冲突——Rollo 把字母认成了他熟悉的东西，把" A"认成了"铁轨"，把" B"认成了"眼镜"，这个故事是对当时"死记硬背"教育方法的讽刺。
+Carroll 以"模范儿童 Rollo"的伪教育故事，写父亲用荒谬的高压法逼 Rollo 读书——十五小时一天、十年只读半本、错便骂"蠢孩子"——一则把维多利亚式儿童教化嘲成荒诞喜剧的戏仿，结尾 Rollo 那句"但不是今天"轻轻拆台。
 
 ## 逐句精读（10 处）
 
-① **"When Rollo was five years young, his father said to him one evening: 'Rollo, put away your roller skates and bicycle, carry that rowing machine out into the hall, and come to me. It is time for you to learn to read.'"**
-- 中文理解：Burdette 用家庭场景开场——当 Rollo 五岁时，他父亲一天晚上对他说：" Rollo，把你的旱冰鞋和自行车收好，把划船机搬到大厅去，然后过来找我。你该学阅读了。"这个" roller skates and bicycle"和" rowing machine"展示了19世纪美国家庭的生活场景。
-- 句子结构：时间状语（When Rollo was five years young）+ 主语（his father）+ 谓语（said to him）+ 时间状语（one evening）+ 直接引语。
-- 关键词：five years young / roller skates and bicycle / rowing machine / learn to read——" learn to read"是故事的核心事件；" roller skates and bicycle"暗示了 Rollo 的"玩耍"生活。
-- 表达方式：Burdette 用" five years young"而不是" five years old"——这个" young"暗示了 Rollo 的"年幼"。
-- 为什么这样写：这是 Burdette 的"童年场景建立"技巧：Rollo 的童年是"玩耍"的，现在他将要进入"学习"阶段。
+① **"When Rollo was five years young, his father said to him one evening: 'Rollo, put away your roller skates and bicycle, carry that rowing machine out into the hall, and come to me.'"**
 
-② **"'Now, Rollo,' said his father, 'I am going to teach you your letters. What is this?' pointing to the letter A."**
-- 中文理解：Burdette 描述了"教学"的开始——父亲说："现在，Rollo，我要教你字母。这是什么？"他指着字母 A；这个" pointing to the letter A"是"机械教学"的开始。
-- 句子结构：主语（'Now, Rollo,'）+ 谓语（said his father）+ 直接引语。
-- 关键词：teach you your letters / What is this / pointing to the letter A——" teach you your letters"是"机械教学"；" pointing to"暗示了"视觉辅助"教学法。
-- 表达方式：Burdette 用" What is this?"来暗示：父亲的教学法是"提问法"——他问 Rollo 字母是什么。
-- 为什么这样写：这是 Burdette 的"机械教学开场"技巧：父亲的教学法是"直接提问"——他指着字母问 Rollo 是什么。
+**中文理解**：Rollo 五岁那年，一日傍晚父亲对他说："Rollo，收起你的滚轴溜冰鞋和自行车，把划船机搬去门厅，过来。"
 
-③ **"Rollo looked at the letter A for a long time, and then said: 'That is a steel rail.'"**
-- 中文理解：Burdette 描述了 Rollo 的"创造性理解"——Rollo 看了字母 A 很久，然后说："那是一根铁轨。"这个" steel rail"是 Rollo 对字母 A 的"联想理解"——他把字母的形状认成了他见过的东西。
-- 句子结构：主语（Rollo）+ 谓语（looked at the letter A）+ 时间状语（for a long time）+ and + 时间状语（then）+ 主语（he）+ 谓语（said）+ 直接引语。
-- 关键词：looked at the letter A / for a long time / that is a steel rail——" steel rail"是 Rollo 对字母 A 形状的"联想"——他把字母 A 的尖顶认成了铁轨的形状。
-- 表达方式：Burdette 用" for a long time"来暗示：Rollo 在"思考"——他不是在"认出"字母，而是在"联想"它的形状。
-- 为什么这样写：这是 Burdette 的"创造性联想"技巧：Rollo 不是"死记硬背"字母，而是用他"熟悉的东西"来理解它们——他把字母 A 认成了"铁轨"。
+**句子结构**：When Rollo was five years young 时间；his father said to him 主谓；'Rollo, put away … and come to me' 直接引语含三个祈使。
 
-④ **"'No,' said his father, 'that is the letter A. It is pronounced ah. Say ah.'"**
-- 中文理解：Burdette 描述了父亲的"纠正"——父亲说："不，那是字母 A。它发'啊'的音。说'啊'。"这个" It is pronounced ah"是"机械教学"的核心——它告诉 Rollo 字母的"发音"，但不解释"为什么"。
-- 句子结构：主语（'No,'）+ 谓语（said his father）+ 直接引语。
-- 关键词：the letter A / It is pronounced ah / Say ah——" pronounced ah"是"机械教学"——它告诉 Rollo 字母的发音，但不解释为什么。
-- 表达方式：Burdette 用" No"来暗示：Rollo 的"联想理解"是"错的"——父亲要他"死记硬背"，而不是"联想理解"。
-- 为什么这样写：这是 Burdette 的"机械教学 vs 联想教学"对比：父亲要 Rollo"死记硬背"字母 A 的发音，而 Rollo 尝试用"联想"来理解它。
+**关键词**：five years young（五岁）/ put away your roller skates（收起溜冰鞋）/ bicycle（自行车）/ carry that rowing machine（搬划船机）/ come to me（过来）
 
-⑤ **"Rollo said 'ah,' and his father gave him a piece of candy."**
-- 中文理解：Burdette 描述了"奖励机制"——Rollo 说了"啊"，他父亲给了他一块糖果；这个" piece of candy"是"奖励机制"的象征——它是19世纪教育的常见方法。
-- 句子结构：主语（Rollo）+ 谓语（said 'ah')+ and + 主语（his father）+ 谓语（gave him a piece of candy）。
-- 关键词：said 'ah' / gave him a piece of candy——" piece of candy"是"奖励"；这个"奖励机制"是19世纪教育的常见方法。
-- 表达方式：Burdette 用" gave him a piece of candy"来暗示：Rollo 的"学习动机"是"糖果"——他学习是因为"奖励"，而不是因为"兴趣"。
-- 为什么这样写：这是 Burdette 的"奖励机制"描写：父亲用"糖果"来奖励 Rollo 的正确回答——这个"奖励机制"是当时教育的常见方法。
+**表达方式**：用一长串"收这搬那"的指令，写父亲把童趣当杂物清场。
 
-⑥ **"'What is this?' asked his father, pointing to the letter B."**
-- 中文理解：Burdette 继续描述"教学过程"——父亲问："这是什么？"他指着字母 B；这个" pointing to the letter B"是"机械教学"的继续。
-- 句子结构：主语（'What is this?'）+ 谓语（asked his father）+ 方式状语（pointing to the letter B）。
-- 关键词：What is this / pointing to the letter B——" B"是下一个字母；父亲继续用"提问法"教学。
-- 表达方式：Burdette 用重复的" What is this?"来暗示：父亲的教学法是"机械的"——他重复同样的问题模式。
-- 为什么这样写：这是 Burdette 的"机械教学重复"技巧：父亲重复同样的"提问"模式——这个"重复"展示了教学的"机械性"。
+**为什么这样写**：Carroll 以此，让"读书"以没收玩具开场，讽刺先立威。
 
-⑦ **"Rollo studied it seriously, and said: 'That is a pair of spectacles.'"**
-- 中文理解：Burdette 描述了 Rollo 对字母 B 的"联想理解"——Rollo 认真地研究了它，然后说："那是一副眼镜。"这个" spectacles"是 Rollo 对字母 B 形状的"联想"——他把字母 B 的两个圆圈认成了眼镜的形状。
-- 句子结构：主语（Rollo）+ 谓语（studied it seriously）+ and + 时间状语（then）+ 主语（he）+ 谓语（said）+ 直接引语。
-- 关键词：studied it seriously / a pair of spectacles——" spectacles"是"眼镜"；Rollo 把字母 B 的形状认成了"眼镜"。
-- 表达方式：Burdette 用" seriously"来暗示：Rollo 不是在"玩耍"，而是在"认真思考"——他真的在尝试理解字母。
-- 为什么这样写：这是 Burdette 的"认真联想"技巧：Rollo 认真地"联想"字母 B 的形状——他把它认成了"眼镜"。
+---
 
-⑧ **"His father explained that it was the letter B, and that it was pronounced bee."**
-- 中文理解：Burdette 描述了父亲的"再次纠正"——他父亲解释说那是字母 B，它发" bee"的音；这个" pronounced bee"是"机械教学"的继续。
-- 句子结构：主语（His father）+ 谓语（explained）+ 宾语从句（that it was the letter B）+ and + 宾语从句（that it was pronounced bee）。
-- 关键词：the letter B / pronounced bee——" pronounced bee"是字母 B 的发音；父亲继续用"死记硬背"法教学。
-- 表达方式：Burdette 用" explained"来暗示：父亲在"解释"——但他的"解释"只是"这是什么"和"它发什么音"，而不是"为什么"。
-- 为什么这样写：这是 Burdette 的"解释的空洞"技巧：父亲的"解释"是空洞的——他只告诉 Rollo"是什么"和"发什么音"，不解释"为什么"。
+② **"His plan was that Mary should teach Rollo fifteen hours a day for ten years, and by that time Rollo would be half through the beginning of the first volume, and would like it very much indeed."**
 
-⑨ **"Then his father showed him the letter C, and asked him what it was."**
-- 中文理解：Burdette 继续描述"教学过程"——然后他父亲给他看字母 C，问他那是什么；这个" showed him the letter C"和" asked him what it was"是"机械教学"的继续。
-- 句子结构：主语（Then his father）+ 谓语（showed him the letter C）+ and + 谓语（asked him what it was）。
-- 关键词：showed him the letter C / asked him what it was——" showed him"暗示了"视觉辅助"教学法；" asked him what it was"是"提问法"。
-- 表达方式：Burdette 用" showed"和" asked"的组合来暗示：父亲的教学法是"视觉+提问"的组合。
-- 为什么这样写：这是 Burdette 的"机械教学继续"技巧：父亲继续用同样的方法教字母 C。
+**中文理解**：他的计划是 Mary 每天教 Rollo 十五小时、连教十年；到时 Rollo 才读完第一卷开头一半，却确会十分喜欢。
 
-⑩ **"Rollo looked at it a moment, and said: 'That is a half-moon.' And his father gave him another piece of candy."**
-- 中文理解：Burdette 描述了 Rollo 对字母 C 的"联想理解"和"奖励"——Rollo 看了一会儿，说："那是一轮半月。"他父亲又给了他一块糖果；这个" half-moon"是 Rollo 对字母 C 形状的"联想"，而" another piece of candy"是"奖励机制"的继续。
-- 句子结构：主语（Rollo）+ 谓语（looked at it）+ 时间状语（a moment）+ and + 主语（he）+ 谓语（said）+ 直接引语 + 主语补语（And his father gave him another piece of candy）。
-- 关键词：half-moon / another piece of candy——" half-moon"是 Rollo 对字母 C 形状的"联想"；" another piece of candy"是"奖励"的继续。
-- 表达方式：Burdette 用" another"来暗示：Rollo 已经因为"正确回答"得到了一块糖果，现在又得到了"另一块"——这个"奖励机制"在持续运作。
-- 为什么这样写：这是 Burdette 的"奖励与联想的循环"技巧：Rollo 的"联想"每次都得到"糖果"奖励——但他的"联想"始终是"错的"——他永远不能"正确地"理解字母。
+**句子结构**：His plan was that Mary should teach Rollo 主系表宾从；fifteen hours a day for ten years 状语；and by that time Rollo would be half through the beginning 并列；and would like it very much indeed 并列。
+
+**关键词**：teach Rollo fifteen hours a day（每天教十五小时）/ for ten years（连教十年）/ half through the beginning of the first volume（第一卷开头一半）/ like it very much indeed（十分喜欢）
+
+**表达方式**：用"十年读半本开头"的夸张，把教育计划写成数学玩笑。
+
+**为什么这样写**：Carroll 以此，让"苦学"在荒诞计量里现出滑稽。
+
+---
+
+③ **"In the beginning she was so gentle and patient that her mother went away and cried, because she feared her dear little daughter was becoming too good for this sinful world, and might soon spread her wings."**
+
+**中文理解**：起初她温柔耐性，母亲竟走去哭，怕这乖女儿好得不宜此罪恶世间，不久便要展翅而去。
+
+**句子结构**：In the beginning she was so gentle and patient 主系表；that her mother went away and cried 结果；because she feared 原因；her dear little daughter was becoming too good 宾从；and might soon spread her wings 并列。
+
+**关键词**：so gentle and patient（温柔耐性）/ went away and cried（走去哭）/ too good for this sinful world（好得不宜此世）/ spread her wings（展翅而去）
+
+**表达方式**：用"母怕女太好要飞走"写反讽的圣母式担忧。
+
+**为什么这样写**：Carroll 以此，让"耐心"被夸张成一种要羽化的圣洁。
+
+---
+
+④ **"But it was not because she feared her mother was pining away."**
+
+**中文理解**：但这并非因她怕母亲憔悴。
+
+**句子结构**：But it was not because 主系表；she feared her mother was pining away 表语从。
+
+**关键词**：not because（并非因）/ feared her mother was pining away（怕母亲憔悴）
+
+**表达方式**：用一句"并非因母憔悴"的否认，把动机轻轻拨回女儿身上。
+
+**为什么这样写**：Carroll 以此，保持戏仿里逻辑的偷换趣味。
+
+---
+
+⑤ **"Now, Rollo, what is this letter?" "I dunno," said Rollo, resolutely.**
+
+**中文理解**："Rollo，这是什么字母？""我不知道，"Rollo 坚决地说。
+
+**句子结构**：Now, Rollo, what is this letter 呼语+疑问；I dunno 直接引语；said Rollo, resolutely 倒装。
+
+**关键词**：what is this letter（这是什么字母）/ I dunno（我不知道）/ said Rollo, resolutely（Rollo 坚决说）
+
+**表达方式**：用"坚决说不知道"写 Rollo 对逼学的无声反抗。
+
+**为什么这样写**：Carroll 以此，让孩童的钝成一种倔强的幽默。
+
+---
+
+⑥ **"When it came time to be meek, there was no boy this side of the planet Mars who could be meeker, on shorter notice."**
+
+**中文理解**：要到装乖时，火星这侧再找不出哪个男孩能在更短通知内变得更乖。
+
+**句子结构**：When it came time to be meek 时间；there was no boy 存在句；this side of the planet Mars 定语；who could be meeker 定语；on shorter notice 状语。
+
+**关键词**：time to be meek（装乖时）/ no boy this side of the planet Mars（火星这侧无男孩）/ could be meeker（更乖）/ on shorter notice（更短通知）
+
+**表达方式**：用"火星侧最乖"的宇宙级夸张，写 Rollo 装乖的应变。
+
+**为什么这样写**：Carroll 以此，让顺从也成一种夸张天赋。
+
+---
+
+⑦ **"That's right," his father said, in an encouraging tone; "you will learn to read one of these years if you give your mind to it."**
+
+**中文理解**："这就对了，"父亲鼓励地说，"只要你上心，这几年里总能学会读。"
+
+**句子结构**：That's right 直接引语；his father said 倒装；in an encouraging tone 状语；you will learn to read one of these years 引语；if you give your mind to it 条件。
+
+**关键词**：That's right（这就对了）/ in an encouraging tone（鼓励地）/ learn to read one of these years（这几年学会读）/ give your mind to it（上心）
+
+**表达方式**：用"鼓励 tone+这几年总能会"写父亲把读书记成遥遥无期。
+
+**为什么这样写**：Carroll 以此，让高压里夹一丝虚伪的温和。
+
+---
+
+⑧ **"I've a good mind to make you learn by the Pollard system, and begin where you leave off!"**
+
+**中文理解**：我真想让你用 Pollard 法来学，从你停处接着来！
+
+**句子结构**：I've a good mind to make you learn 主谓宾；by the Pollard system 状语；and begin where you leave off 并列。
+
+**关键词**：a good mind to（真想）/ learn by the Pollard system（用 Pollard 法学）/ begin where you leave off（从停处接着）
+
+**表达方式**：用"换系统从停处接着"的威胁，写教育的惩罚式想象。
+
+**为什么这样写**：Carroll 以此，让父亲的招数越出越荒唐。
+
+---
+
+⑨ **"Stupid, stupid child," he added as the little boy went weeping out of the room, "he'll never learn anything so long as he lives."**
+
+**中文理解**："蠢，蠢孩子，"小男孩哭着出屋时他补道，"只要活着，他永远学不会任何事。"
+
+**句子结构**：Stupid, stupid child 呼语；he added 主谓；as the little boy went weeping out of the room 时间；he'll never learn anything 引语；so long as he lives 条件。
+
+**关键词**：Stupid, stupid child（蠢蠢孩子）/ went weeping out of the room（哭着出屋）/ never learn anything（永远学不会）/ so long as he lives（只要活着）
+
+**表达方式**：用"哭着出屋+永学不会"写责骂的冷酷与预言式否定。
+
+**为什么这样写**：Carroll 以此，让讽刺在"蠢"的叠喊里到顶。
+
+---
+
+⑩ **"Some day, Rollo, you will thank me for teaching you to read." "Yes, sir," replied Rollo, respectfully, and then added, "but not this day." Rollo's head, though it had here and there traces of—"**
+
+**中文理解**："Rollo，总有一天你会谢我教你读。""是，先生，"Rollo 恭敬答，又补，"但不是今天。"Rollo 的头，虽这里那里有……的痕迹——
+
+**句子结构**：Some day, Rollo, you will thank me 呼语+主谓宾；Yes, sir, replied Rollo, respectfully 倒装；and then added 并列；but not this day 引语；Rollo's head … 主句（截断）。
+
+**关键词**：Some day you will thank me（总有一天谢我）/ Yes, sir（是先生）/ replied Rollo, respectfully（Rollo 恭敬答）/ but not this day（但不是今天）
+
+**表达方式**：用"但不是今天"的收尾，把全篇顺从轻轻翻成孩童的拖延术。
+
+**为什么这样写**：Carroll 以此，让戏仿在 Rollo 一句软钉子后落幕，幽默闭环。
+
+## 一句话总结
+
+Carroll 用"模范儿童 Rollo"的伪课本，把维多利亚式逼读写成十五小时一天、十年半本的荒诞；当 Rollo 恭敬答"总有一天谢您——但不是今天"，顺从的壳里藏着孩童最优雅的拖延。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| roller skates | 旱冰鞋 | "put away your roller skates" |
-| rowing machine | 划船机 | "carry that rowing machine" |
-| spectacles | 眼镜 | "a pair of spectacles" |
-| half-moon | 半月 | "that is a half-moon" |
+| five years young | ph. 五岁（戏谑） | When Rollo was five years young |
+| half through the beginning of the first volume | ph. 第一卷开头一半 | half through the beginning of the first volume |
+| too good for this sinful world | ph. 好得不宜此世 | becoming too good for this sinful world |
+| on shorter notice | ph. 更短通知内 | meeker on shorter notice |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| letter | 字母 | "the letter A" |
-| pronounced | 发音 | "it is pronounced ah" |
-| candy | 糖果 | "a piece of candy" |
-| seriously | 认真地 | "studied it seriously" |
+| put away your roller skates | ph. 收起溜冰鞋 | put away your roller skates |
+| a rowing machine | n. 划船机 | carry that rowing machine |
+| in an encouraging tone | ph. 鼓励地 | said his father in an encouraging tone |
+| the Pollard system | n. Pollard 法 | learn by the Pollard system |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| read | 阅读 | "learn to read" |
-| father | 父亲 | "his father said" |
-| boy | 男孩 | "Rollo was five years young" |
-| learn | 学习 | "It is time for you to learn" |
-
-## 一句话总结
-
-《Rollo Learning to Read》是 Burdette 对19世纪美国"机械教育"的幽默讽刺：通过 Rollo 把字母 A 认成"铁轨"、字母 B 认成"眼镜"、字母 C 认成"半月"的故事，Burdette 展示了"死记硬背"教育的荒谬——Rollo 的"联想理解"每次都被父亲的"正确答案"和"糖果奖励"所取代。
+| a father | n. 父亲 | his father said to him |
+| a letter | n. 字母 | what is this letter |
+| a boy | n. 男孩 | no boy this side of Mars |
+| to read | v. 读 | learn to read |

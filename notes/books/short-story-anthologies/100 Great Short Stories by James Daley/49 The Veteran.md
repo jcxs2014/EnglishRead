@@ -1,114 +1,185 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 49. THE VETERAN
+# 49. The Veteran
 
-**作者**：Stephen Crane（1897）
+**作者**：Stephen Crane
 
 ## 一句话总结
 
-Crane 通过一个年轻士兵在战场上的第一次经历，展示了战争的"恐怖"和"友谊"的交织——当年轻士兵 Friedenberg 第一次目睹战友死去时，他的"心理创伤"和"友情"之间的冲突让他陷入了深深的痛苦；Crane 用简洁而有冲击力的语言描绘了战争对年轻人心理的毁灭性影响。
+Crane 写老 Fleming 在乡邻笑谈中承认自己南北战争时"跑过"（临阵脱逃），多年后被孙子辈的男孩追问，仍坦然；当谷仓起火、众人抽水失灵，唯他这"逃兵"冷静扛住水龙——一则把"勇怯"翻案：真正扛事的人，不必澄清当年的腿软。
 
 ## 逐句精读（10 处）
 
-① **"Out of the low window could be seen three hickory trees placed irregularly in a meadow that was resplendent in springtime green."**
-- 中文理解：Crane 用" resplendent"（辉煌灿烂）来形容春天的草地，与后面战争的"暗淡"形成对比——窗外可以看到三棵山核桃树不规则地立在一片春天绿草辉煌的草地上；这个开场建立了"宁静的乡村"与"即将到来的战争"的对比。
-- 句子结构：地点状语（Out of the low window）+ 谓语（could be seen）+ 主语（three hickory trees）+ 分词短语（placed irregularly）+ 地点状语（in a meadow）+ 定语从句（that was resplendent in springtime green）。
-- 关键词：low window / hickory trees / irregularly / resplendent / springtime green——" resplendent"暗示了春天的"辉煌"；" springtime green"建立了"和平"的开场基调。
-- 表达方式：Crane 用" resplendent"来形容草地——这个形容词暗示了"生命力"和"繁荣"，与后面战争带来的"死亡"形成强烈对比。
-- 为什么这样写：这是 Crane 的"和平开场"技巧：春天的草地是"辉煌"的，但这个"辉煌"将被战争的"暗淡"打破。
+① **"Farther away, the old, dismal belfry of the village church loomed over the pines."**
 
-② **"Farther away, the old, dismal belfry of the village church loomed over the pines."**
-- 中文理解：Crane 描述了远处的"教堂钟楼"——更远处，村落教堂的古老的、阴暗的钟楼在松树上空若隐若现；这个" dismal"和" loomed"暗示了"不祥的预兆"。
-- 句子结构：地点状语（Farther away）+ 主语（the old, dismal belfry）+ 地点状语（of the village church）+ 谓语（loomed）+ 地点状语（over the pines）。
-- 关键词：old, dismal belfry / village church / loomed / pines——" dismal"是理解整个故事的关键——钟楼是"阴暗的"；" loomed"暗示了"不祥的逼近"。
-- 表达方式：Crane 用" dismal"来形容钟楼——这个形容词暗示了"不祥"和"阴暗"，为后面的战争埋下了伏笔。
-- 为什么这样写：这是 Crane 的"不祥预兆"技巧：钟楼在松树上空" loomed"——这个" loomed"暗示了战争即将"笼罩"这个宁静的村庄。
+**中文理解**：更远些，村庄教堂那座老旧阴沉的钟楼，在松林上方隐现。
 
-③ **"A horse meditating in the shade of one of the trees seemed the very spirit of the tranquil landscape."**
-- 中文理解：Crane 描述了"马"作为"宁静的化身"——一匹马在一棵树的阴凉下"沉思"，它似乎是宁静风景的"精神"；这个" meditating"和" spirit of the tranquil landscape"暗示了战前的"宁静"。
-- 句子结构：主语（A horse）+ 分词短语（meditating in the shade of one of the trees）+ 谓语（seemed）+ 表语（the very spirit of the tranquil landscape）。
-- 关键词：meditating / shade / spirit / tranquil landscape——" meditating"暗示了"沉思"；" spirit of the tranquil landscape"是理解整个故事的关键——这匹"沉思"的马是宁静风景的"灵魂"。
-- 表达方式：Crane 用" meditating"来形容马——这个动词暗示了"宁静"和"沉思"，与后面战争的"暴力"形成对比。
-- 为什么这样写：这是 Crane 的"宁静的化身"技巧：这匹"沉思"的马是宁静风景的"灵魂"——它代表了战前"和平"的生活。
+**句子结构**：Farther away 状语；the old, dismal belfry of the village church 主语；loomed over the pines 谓状。
 
-④ **"Young Friedenberg, who was sitting on the ground, looked at the horse and thought of his own horse at home, and of his mother and father, and of his girl."**
-- 中文理解：Crane 揭示了年轻士兵 Friedenberg 的"内心"——他坐在地上，看着那匹马，想起了他家里的马、他的母亲和父亲、还有他的女朋友；这个列举展示了 Friedenberg 与"战前生活"的联系。
-- 句子结构：主语（Young Friedenberg）+ 定语从句（who was sitting on the ground）+ 谓语（looked at the horse）+ and + 谓语（thought of）+ 宾语（his own horse at home, and of his mother and father, and of his girl）。
-- 关键词：sitting on the ground / thought of his own horse / mother and father / girl——这三个" thought of"（家里的马、母亲和父亲、女朋友）展示了 Friedenberg 与"和平生活"的联系。
-- 表达方式：Crane 用并列结构（his own horse...mother and father...his girl）来强调：Friedenberg 有"家庭"和"爱情"——他有"活下去的理由"。
-- 为什么这样写：这是 Crane 的"战前生活的联系"技巧：Friedenberg 有"活下去的理由"——家里的马、母亲、父亲、女朋友——这些联系将在他目睹战友死去时成为他的"心理负担"。
+**关键词**：the old, dismal belfry（老旧阴沉的钟楼）/ the village church（村教堂）/ loomed over the pines（在松林上方隐现）
 
-⑤ **"He tried to think of something else, but the thoughts of home would keep coming back to him."**
-- 中文理解：Crane 描述了 Friedenberg 的"心理状态"——他试图想别的事情，但关于家的想法总是不断回到他脑海中；这个" trying to think"和" keep coming back"是 Friedenberg 心理创伤的早期表现。
-- 句子结构：主语（He）+ 谓语（tried to think of something else）+ but + 主语（the thoughts of home）+ 谓语（would keep coming back）+ 主语补语（to him）。
-- 关键词：tried to think of something else / thoughts of home / keep coming back——" trying to think of something else"暗示了 Friedenberg 在"压抑"他的思乡之情；" keep coming back"暗示了这种思乡之情是"强迫性的"。
-- 表达方式：Crane 用" keep coming back"来暗示：Friedenberg 的思乡之情是"无法压抑"的——他越想"压抑"，它就越"回来"。
-- 为什么这样写：这是 Crane 的"强迫性思乡"技巧：Friedenberg 越想"压抑"思乡之情，它就越"回来"——这个"强迫性思维"是心理创伤的早期表现。
+**表达方式**：用"钟楼隐现松林"的远景，把回忆的庄重先铺在场景里。
 
-⑥ **"The company was drawn up in a long line, and the men waited in silence for the command to march."**
-- 中文理解：Crane 将场景从"宁静的乡村"转到"军事行动"——公司排成一长列，士兵们沉默地等待行军的命令；这个" in silence"和" waited"建立了战前的"紧张"。
-- 句子结构：主语（The company）+ 谓语（was drawn up）+ 地点状语（in a long line）+ and + 主语（the men）+ 谓语（waited）+ 方式状语（in silence）+ 目的状语（for the command to march）。
-- 关键词：drawn up in a line / waited in silence / command to march——" in silence"暗示了"紧张"；" command to march"是即将到来的"行动"的信号。
-- 表达方式：Crane 用" in silence"来强调：士兵们的等待是"沉默"的——这个沉默暗示了"紧张"和"不确定"。
-- 为什么这样写：这是 Crane 的"战前紧张"技巧：士兵们"沉默地"等待行军命令——这个"沉默"暗示了每个人都知道即将到来的"危险"。
+**为什么这样写**：Crane 以此，让战争记忆与乡村安宁同框。
 
-⑦ **"A sergeant passed along the line, telling them to look alive, and to remember that they were soldiers."**
-- 中文理解：Crane 描述了"军纪"对士兵的心理影响——一个军士走过队伍，告诉他们"精神点"，记住他们是士兵；这个" look alive"和" remember that they were soldiers"是军纪的"口头鼓励"。
-- 句子结构：主语（A sergeant）+ 谓语（passed along the line）+ 分词短语（telling them）+ 宾语补语（to look alive）+ and + 宾语补语（to remember that they were soldiers）。
-- 关键词：sergeant / passed along the line / look alive / remember that they were soldiers——" look alive"是"精神点"；" remember that they were soldiers"是"记住你是士兵"——这是军纪对士兵的"心理建设"。
-- 表达方式：Crane 用" look alive"来暗示：军士知道士兵们可能"不 alive"——他们可能因为恐惧而"失去活力"。
-- 为什么这样写：这是 Crane 的"军纪的心理影响"技巧：军士告诉士兵们"精神点"——这个"口头鼓励"暗示了士兵们可能因为恐惧而"失去活力"。
+---
 
-⑧ **"Friedenberg looked at the man next to him—a big, red-faced Dutchman—and felt a sudden rush of affection for him."**
-- 中文理解：Crane 描述了 Friedenberg 对战友的"突然的友爱"——Friedenberg 看着身边的人——一个高大的、红脸的荷兰人——对他产生了突如其来的友爱；这个" sudden rush of affection"是理解整个故事的关键。
-- 句子结构：主语（Friedenberg）+ 谓语（looked at the man next to him）+ 同位语（a big, red-faced Dutchman）+ and + 主语（he）+ 谓语（felt）+ 宾语（a sudden rush of affection）+ 介词短语（for him）。
-- 关键词：the man next to him / big, red-faced Dutchman / sudden rush of affection——" sudden rush of affection"暗示了 Friedenberg 在战前对战友的"友情"——这个友情将在战友死去时变成"痛苦"。
-- 表达方式：Crane 用" sudden rush"来暗示：Friedenberg 的友爱是"突然的"——它不是"深思熟虑"的，而是"直觉的"。
-- 为什么这样写：这是 Crane 的"战前友情"技巧：Friedenberg 在战前对战友产生了"突如其来的友爱"——这个友情是他"活下去的理由"之一，但它将在战友死去时变成"心理创伤"。
+② **"Perhaps it seemed strange and rather wonderful to them that a man should admit the thing, and in the tone of their laughter there was probably more admiration than if old Fleming had declared that he had—"**
 
-⑨ **"The battle began, and Friedenberg found himself in the midst of a perfect hell of noise and smoke."**
-- 中文理解：Crane 用" perfect hell"来形容战斗的开始——战斗开始了，Friedenberg 发现自己在"一个完美的噪音和烟雾的地狱"中；这个" perfect hell"和" noise and smoke"是 Crane 对战争"恐怖"的直接描写。
-- 句子结构：主语（The battle）+ 谓语（began）+ and + 主语（Friedenberg）+ 谓语（found himself）+ 地点状语（in the midst of a perfect hell）+ 地点状语（of noise and smoke）。
-- 关键词：battle began / perfect hell / noise and smoke——" perfect hell"是理解整个故事的关键——Crane 用" hell"来形容战争；" noise and smoke"是战争的"物理特征"。
-- 表达方式：Crane 用" perfect hell"来形容战争——这个比喻暗示了战争的"恐怖"是"完全的"和"地狱般的"。
-- 为什么这样写：这是 Crane 的"战争恐怖"直接描写技巧：Crane 用" hell"这个比喻来直接传达战争的"恐怖"——这不是"英雄主义"的战争，而是"地狱般"的战争。
+**中文理解**：或许他们觉得，一个人竟承认这事，既奇怪又颇令人钦佩；而他们笑声里，只怕比 Fleming 老汉若宣称自己曾……还多几分敬重。
 
-⑩ **"He saw the red-faced Dutchman fall, and something broke inside of him."**
-- 中文理解：Crane 用最简洁的句子来描述 Friedenberg 的心理创伤——他看到红脸的荷兰人倒下，他的内心某样东西破碎了；这个" something broke inside of him"是整个故事的核心——它代表了 Friedenberg 的"心理防线"的崩溃。
-- 句子结构：主语（He）+ 谓语（saw the red-faced Dutchman fall）+ and + 主语（something）+ 谓语（broke）+ 地点状语（inside of him）。
-- 关键词：saw the red-faced Dutchman fall / something broke inside of him——" saw...fall"是 Friedenberg 目睹战友死去；" something broke inside of him"是 Friedenberg 的"心理创伤"。
-- 表达方式：Crane 用" something broke inside of him"来暗示：Friedenberg 的"心理创伤"是"内部的"和"无形的"——它不是身体的伤害，而是心理的"破碎"。
-- 为什么这样写：这是 Crane 的"心理创伤"核心表达：Friedenberg 看到战友死去，他的内心"某样东西破碎了"——这个"破碎"代表了战争对年轻人心理的毁灭性影响。
+**句子结构**：Perhaps it seemed strange and rather wonderful 主系表；that a man should admit the thing 主语从；and in the tone of their laughter there was more admiration 并列存在句；than if old Fleming had declared 比较。
+
+**关键词**：seemed strange and rather wonderful（既奇怪又钦佩）/ admit the thing（承认这事）/ the tone of their laughter（笑声的调）/ more admiration（更多敬重）
+
+**表达方式**：用"笑里带敬"写乡邻对老汉坦承的复杂态度。
+
+**为什么这样写**：Crane 以此，让"逃"在村人眼里反成一种诚实的可爱。
+
+---
+
+③ **"So I run!" Two little triangles of wrinkles appeared at the corners of his eyes.**
+
+**中文理解**："我就跑了！"他眼角现出两小簇皱纹三角。
+
+**句子结构**：So I run! 直接引语；Two little triangles of wrinkles appeared 主谓；at the corners of his eyes 状语。
+
+**关键词**：So I run（我就跑了）/ Two little triangles of wrinkles（两小簇皱纹三角）/ at the corners of his eyes（眼角）
+
+**表达方式**：用"眼角皱成三角"写老汉说"跑"时的笑与自嘲。
+
+**为什么这样写**：Crane 以此，把羞事讲成逗趣，人物立体。
+
+---
+
+④ **"There's Sickles's colt over the medder, Jimmie," said the old man.**
+
+**中文理解**："Jimmie，草甸那头是 Sickles 的小马驹，"老汉说。
+
+**句子结构**：There's Sickles's colt over the medder 存在句；Jimmie 呼语；said the old man 倒装。
+
+**关键词**：Sickles's colt（Sickles 的小马驹）/ over the medder（草甸那头）/ Jimmie（男孩名）
+
+**表达方式**：用一句指物闲话，把战争回忆拉回眼下的农庄。
+
+**为什么这样写**：Crane 以此，让老汉的"现在"与"当年"轻轻叠着。
+
+---
+
+⑤ **"It appeared later that one of the purposes of the Swede was to get drunk."**
+
+**中文理解**：后来看出，那瑞典人的目的之一，是要喝醉。
+
+**句子结构**：It appeared later that one of the purposes … was to get drunk 主系表主语从。
+
+**关键词**：appeared later（后来看出）/ one of the purposes（目的之一）/ the Swede（瑞典人）/ to get drunk（喝醉）
+
+**表达方式**：用一句淡写，把配角动机说破，乡村群像更真。
+
+**为什么这样写**：Crane 以此，让旁观者也能被轻轻看穿。
+
+---
+
+⑥ **"What's th' matter?" When they dashed toward the barn it presented to their eyes its usual appearance, solemn, rather mystic in the black night."**
+
+**中文理解**："怎么了？"他们冲向谷仓时，仓在黑夜里仍是一贯的模样，肃穆，颇带神秘。
+
+**句子结构**：What's th' matter 疑问；When they dashed toward the barn 时间；it presented its usual appearance 主谓宾；solemn, rather mystic 补；in the black night 状语。
+
+**关键词**：What's th' matter（怎么了）/ dashed toward the barn（冲向谷仓）/ its usual appearance（一贯模样）/ solemn, rather mystic（肃穆带神秘）/ in the black night（黑夜里）
+
+**表达方式**：用"仓仍肃穆"写火灾前的平静假象，张力暗蓄。
+
+**为什么这样写**：Crane 以此，让灾变在惯常里突降，更惊心。
+
+---
+
+⑦ **"The men stormed at it, cursed it; but it continued to allow the buckets to be filled only after the wheezy windlass had howled many protests at the mad-handed men."**
+
+**中文理解**：众人对它咆哮、咒骂；可它直到那喘息的绞盘向疯手的人们哀号多遍，才肯让桶续上水。
+
+**句子结构**：The men stormed at it, cursed it 并列；but it continued to allow the buckets to be filled 转折；only after the wheezy windlass had howled many protests 状语；at the mad-handed men 定语。
+
+**关键词**：stormed at it, cursed it（咆哮咒骂）/ allowed the buckets to be filled（肯让桶续水）/ the wheezy windlass（喘息绞盘）/ howled many protests（哀号多遍）/ the mad-handed men（疯手的人们）
+
+**表达方式**：把抽水机拟人成"不肯配合的老顽固"，写人与机器的对抗。
+
+**为什么这样写**：Crane 以此，让救火的压力具象成机械的倔强。
+
+---
+
+⑧ **"Here, as at the well, the same thing happened to every man save one."**
+
+**中文理解**：此处如同井边，每人都遇上同一桩事，唯独一人例外。
+
+**句子结构**：Here, as at the well 状语；the same thing happened to every man 主谓状；save one 状语。
+
+**关键词**：as at the well（如同井边）/ the same thing happened（遇上同一事）/ to every man save one（每人唯独一人例外）
+
+**表达方式**：用"唯独一人例外"留白，把镜头引向那个不同的老汉。
+
+**为什么这样写**：Crane 以此，让 Fleming 的特异在对比里自然显形。
+
+---
+
+⑨ **"There was a long flare of crimson on the sky, which made remote people speculate as to the whereabouts of the fire."**
+
+**中文理解**：天边扯起一道长长的绯红火光，让远处人揣测火在何处。
+
+**句子结构**：There was a long flare of crimson on the sky 存在句；which made remote people speculate 定语；as to the whereabouts of the fire 状语。
+
+**关键词**：a long flare of crimson（长绯红火光）/ on the sky（天边）/ remote people（远处人）/ speculate as to the whereabouts（揣测何处）
+
+**表达方式**：用"天边绯红"写火势之大，把村外也拉进事件。
+
+**为什么这样写**：Crane 以此，让局部火灾有了全景的壮烈。
+
+---
+
+⑩ **"The smoke was tinted rose-hue from the flames, and perhaps the unutterable midnights of the universe will have no power to daunt the colour of this soul."**
+
+**中文理解**：烟被火焰染成玫瑰色；或许宇宙里那些不可言说的午夜，也无能吓退这灵魂的成色。
+
+**句子结构**：The smoke was tinted rose-hue from the flames 主谓（被动）；and perhaps the unutterable midnights … will have no power to daunt the colour of this soul 并列。
+
+**关键词**：tinted rose-hue（染玫瑰色）/ from the flames（被火焰）/ the unutterable midnights of the universe（宇宙不可言说午夜）/ no power to daunt（无能吓退）/ the colour of this soul（这灵魂的成色）
+
+**表达方式**：用"烟染玫瑰+宇宙午夜吓不退灵魂"把老汉的沉静升华为诗。
+
+**为什么这样写**：Crane 以此收尾，把"逃兵"在火前的镇定，写成灵魂的底色。
+
+## 一句话总结
+
+Crane 写老 Fleming 坦然承认战时"跑过"，却在谷仓大火中唯他扛住水龙——当年腿软的人，此刻是唯一的稳；勇怯在火光里被重新丈量。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| resplendent | 辉煌灿烂的 | "a meadow that was resplendent in springtime green" |
-| belfry | 钟楼 | "the old, dismal belfry of the village church" |
-| meditation | 沉思 | "A horse meditating in the shade" |
-| trauma | 心理创伤 | "something broke inside of him" |
+| the old, dismal belfry | ph. 老旧阴沉钟楼 | the old, dismal belfry of the village church |
+| rather wonderful | ph. 颇令人钦佩 | seemed strange and rather wonderful |
+| the wheezy windlass | ph. 喘息绞盘 | after the wheezy windlass had howled |
+| the unutterable midnights of the universe | ph. 宇宙不可言说午夜 | the unutterable midnights of the universe |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| veteran | 老兵/退伍军人 | "The Veteran" |
-| meadow | 草地 | "in a meadow" |
-| sergeant | 军士 | "A sergeant passed along the line" |
-| battle | 战斗 | "The battle began" |
+| loomed over the pines | ph. 在松林上方隐现 | loomed over the pines |
+| admit the thing | ph. 承认这事 | a man should admit the thing |
+| dashed toward the barn | ph. 冲向谷仓 | When they dashed toward the barn |
+| tinted rose-hue | ph. 染玫瑰色 | The smoke was tinted rose-hue |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| horse | 马 | "A horse meditating" |
-| war | 战争 | "the company was drawn up" |
-| smoke | 烟雾 | "noise and smoke" |
-| home | 家 | "thoughts of home" |
-
-## 一句话总结
-
-《The Veteran》是 Crane 对战争"恐怖"的深刻描绘：通过 Friedenberg 目睹战友死去的心理创伤，Crane 展示了战争对年轻人心理的毁灭性影响——当"红脸的荷兰人"倒下时，Friedenberg 的内心某样东西"破碎了"，这个"破碎"代表了战争对人类灵魂的摧毁。
+| the church | n. 教堂 | the village church |
+| a colt | n. 小马驹 | Sickles's colt |
+| the barn | n. 谷仓 | toward the barn |
+| the fire | n. 火 | the whereabouts of the fire |

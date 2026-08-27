@@ -1,114 +1,185 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 50. THE FORTUNE-TELLER
+# 50. The Fortune Teller
 
-**作者**：Joaquim Maria Machado de Assis（巴西文学大师）
+**作者**：Machado de Assis
 
 ## 一句话总结
 
-Assis 通过一个关于"算命"和"自我实现的预言"的故事，展示了19世纪巴西社会中"命运"与"自由意志"之间的哲学思考——Camillo 的算命师告诉他他将"背叛"他的爱人 Rita，而这个预言最终成为了"自我实现的预言"——Camillo 因为相信了算命师的预言而最终背叛了 Rita。
+Machado 写 Rita 向恋人 Camillo 谎称自己会算命，借"批命"套出他与自己丈夫 Villela 的紧张；真相是她早知匿名信的疑云，用一场戏中戏试探忠诚，末了丈夫闯入、两枪毙情夫——一则把"占卜"写成婚姻侦探术的精巧短篇。
 
 ## 逐句精读（10 处）
 
-① **"Hamlet observes to Horatio that there are more things in heaven and earth than are dreamt of in our philosophy."**
-- 中文理解：Assis 用 Hamlet 的经典台词来开场——Hamlet 对 Horatio 说："天地之间有比我们哲学中梦想的更多的东西。"这个开场建立了故事的"哲学"基调。
-- 句子结构：主语（Hamlet）+ 谓语（observes to Horatio）+ 宾语从句（that there are more things in heaven and earth than are dreamt of in our philosophy）。
-- 关键词：Hamlet / Horatio / more things in heaven and earth / dreamt of in our philosophy——" more things...than are dreamt of"暗示了"超出我们理解范围"的事物。
-- 表达方式：Assis 用 Hamlet 的话来建立故事的"哲学"基调——算命是否属于"超出我们哲学"的事物？
-- 为什么这样写：这是 Assis 的"哲学开场"技巧：Assis 用 Hamlet 的话来暗示：算命师预言的"背叛"可能是"超出我们哲学"的事物，但它仍然"存在"。
+① **"This was the selfsame explanation that was given by beautiful Rita to her lover, Camillo, on a certain Friday of November, 1869, when Camillo laughed at her for having gone, the previous evening, to consult a fortune-teller."**
 
-② **"This was the selfsame explanation that was given by beautiful Rita to her lover, Camillo, on a certain Friday of."**
-- 中文理解：Assis 引入了故事的"核心人物"——Rita 是一个美丽的女人，Camillo 是她的爱人；Rita 向 Camillo 解释了算命师的预言；这个" selfsame explanation"暗示了 Rita 的话和 Hamlet 的话是"一样的"。
-- 句子结构：主语（This）+ 系动词（was）+ 表语（the selfsame explanation）+ 定语从句（that was given by beautiful Rita to her lover, Camillo）+ 时间状语（on a certain Friday of）。
-- 关键词：beautiful Rita / her lover, Camillo / selfsame explanation / a certain Friday——" selfsame"是" same"的高级形式，强调"完全相同"。
-- 表达方式：Assis 用" selfsame"来强调：Rita 的解释和 Hamlet 的话是"完全一样"的——它们都在说"有超出我们理解范围的事物"。
-- 为什么这样写：这是 Assis 的" Hamlet 回声"技巧：Assis 用 Hamlet 的话来回声 Rita 的解释——这暗示了算命师的预言可能是" Hamlet 所说的那种超出我们哲学的事物"。
+**中文理解**：这同一套说法，是美丽的 Rita 在 1869 年十一月某个周五，对她情人 Camillo 讲的——那时许她笑她前一晚去算了命。
 
-③ **"Camillo had been to a fortune-teller, and the fortune-teller had told him that he would one day betray the woman he loved."**
-- 中文理解：Assis 描述了故事的"核心事件"——Camillo 去找了一个算命师，算命师告诉他，他有一天会背叛他爱的女人；这个" betray the woman he loved"是整个故事的核心冲突。
-- 句子结构：主语（Camillo）+ 谓语（had been）+ 地点状语（to a fortune-teller）+ and + 主语（the fortune-teller）+ 谓语（had told him）+ 宾语从句（that he would one day betray the woman he loved）。
-- 关键词：fortune-teller / would one day betray / the woman he loved——" fortune-teller"是"算命师"；" betray the woman he loved"是"背叛他爱的女人"。
-- 表达方式：Assis 用" one day"来暗示：这个"背叛"不是"立刻"发生的，而是"有一天"发生的——这个模糊的时间是故事张力的来源。
-- 为什么这样写：这是 Assis 的"命运预言"开场：算命师预言 Camillo 将"背叛"他爱的女人——这个预言将成为"自我实现的预言"。
+**句子结构**：This was the selfsame explanation 主系表；that was given by beautiful Rita 定语；to her lover, Camillo 状语；on a certain Friday of November, 1869 时间；when Camillo laughed at her 定语；for having gone to consult a fortune-teller 原因。
 
-④ **"Camillo was a sensitive young man, and the prediction troubled him deeply."**
-- 中文理解：Assis 描述了 Camillo 的"敏感"性格——Camillo 是一个敏感的年轻人，这个预言让他"深深地困扰"；这个" sensitive"和" troubled him deeply"是理解 Camillo 反应的关键。
-- 句子结构：主语（Camillo）+ 系动词（was）+ 表语（a sensitive young man）+ and + 主语（the prediction）+ 谓语（troubled him deeply）。
-- 关键词：sensitive young man / prediction troubled him deeply——" sensitive"暗示了 Camillo 的"神经质"；" troubled him deeply"暗示了预言对他的"心理影响"。
-- 表达方式：Assis 用" troubled him deeply"来暗示：算命师的预言对 Camillo 有"深刻"的心理影响——他不只是"担心"，而是"深深地困扰"。
-- 为什么这样写：这是 Assis 的"敏感性格建立"技巧：Camillo 的"敏感"性格是他后来"自我实现"预言的心理基础——一个"不敏感"的人可能不会受到预言的影响。
+**关键词**：the selfsame explanation（同一套说法）/ beautiful Rita（美丽的 Rita）/ her lover, Camillo（情人 Camillo）/ laughed at her（笑她）/ consult a fortune-teller（算命）
 
-⑤ **"He tried to put the thought out of his mind, but it returned again and again, like a haunting melody."**
-- 中文理解：Assis 描述了 Camillo 的"强迫性思维"——他试图把那个想法从脑海中驱逐出去，但它一次又一次地回来，像一首萦绕的旋律；这个" haunting melody"是理解整个故事的关键比喻。
-- 句子结构：主语（He）+ 谓语（tried）+ 不定式短语（to put the thought out of his mind）+ but + 主语（it）+ 谓语（returned）+ 方式状语（again and again）+ 方式状语（like a haunting melody）。
-- 关键词：put the thought out of his mind / returned again and again / haunting melody——" haunting melody"是"萦绕的旋律"——这个比喻暗示了 Camillo 的思维是"强迫性的"。
-- 表达方式：Assis 用" haunting melody"来暗示：Camillo 的思维是"音乐性"的——它像一首"萦绕的旋律"，无法"停止"。
-- 为什么这样写：这是 Assis 的"强迫性思维"技巧：Camillo 的思维像" haunting melody"一样无法驱逐——这个比喻暗示了"预言"已经"控制"了他的思维。
+**表达方式**：用"同一套说法"的回指，把叙事框成一场对质中的复述。
 
-⑥ **"Rita noticed the change in his manner, and she asked him what was wrong."**
-- 中文理解：Assis 描述了 Rita 对 Camillo 变化的"观察"——Rita 注意到了他态度的变化，她问他怎么了；这个" noticed the change"和" asked him what was wrong"建立了 Rita 的"关心"。
-- 句子结构：主语（Rita）+ 谓语（noticed the change in his manner）+ and + 主语（she）+ 谓语（asked him）+ 宾语补语（what was wrong）。
-- 关键词：noticed the change in his manner / asked him what was wrong——" noticed the change"暗示了 Rita 对 Camillo 的"关注"；" asked him what was wrong"是 Rita 的"关心"表现。
-- 表达方式：Assis 用" asked him what was wrong"来暗示：Rita 关心 Camillo，她想知道是什么让他"困扰"。
-- 为什么这样写：这是 Assis 的"恋人的观察"技巧：Rita 注意到 Camillo 的变化并问他怎么了——这个"关心"是理解 Rita 反应的背景。
+**为什么这样写**：Machado 以此，让"算命"从开场就带悬念与回环。
 
-⑦ **"Camillo told her about the fortune-teller and his prediction, and Rita laughed."**
-- 中文理解：Assis 描述了 Camillo 的"坦白"和 Rita 的"笑"——Camillo 告诉 Rita 关于算命师和他的预言，Rita 笑了；这个" laughed"是 Rita 对"命运"的"嘲笑"。
-- 句子结构：主语（Camillo）+ 谓语（told her about the fortune-teller and his prediction）+ and + 主语（Rita）+ 谓语（laughed）。
-- 关键词：told her about the fortune-teller / prediction / Rita laughed——" Rita laughed"是 Rita 对"命运"的反应——她不相信算命师的预言。
-- 表达方式：Assis 用" laughed"来暗示：Rita 是一个"理性"的人，她不相信"算命"——她认为 Camillo 的担心是"没有必要的"。
-- 为什么这样写：这是 Assis 的"理性与迷信的对比"技巧：Rita 对算命师的预言"笑了"——她不相信"命运"，而 Camillo 被"命运"困扰。
+---
 
-⑧ **"'You are a fool,' said Rita. 'Do you think that any fortune-teller can control your destiny?'"**
-- 中文理解：Assis 描述了 Rita 的"理性回应"——"你是个傻子，"Rita 说，"你认为任何算命师都能控制你的命运吗？"这个" control your destiny"是 Rita 的核心论点。
-- 句子结构：直接引语 + 主语（Rita）+ 谓语（said）+ 直接引语。
-- 关键词：You are a fool / fortune-teller / control your destiny——" control your destiny"是 Rita 的核心论点——她认为"命运"不是由"算命师"控制的。
-- 表达方式：Assis 用" Do you think"来暗示：Rita 在"挑战"Camillo 的信念——她认为"命运"是"自己的"，不是"算命师的"。
-- 为什么这样写：这是 Assis 的"自由意志 vs 命运"主题：Rita 认为"命运"是"自己的"，不是"算命师"能控制的——这是故事的"理性"声音。
+② **"But I express myself ill, for to deny is in a sense to affirm, and he did not formulate his unbelief."**
 
-⑨ **"But Camillo could not shake off the feeling that the prediction would come true."**
-- 中文理解：Assis 描述了 Camillo 的"无法摆脱"——但 Camillo 无法摆脱那个感觉：预言会成真；这个" could not shake off the feeling"是"自我实现预言"的心理学机制。
-- 句子结构：主语（But Camillo）+ 谓语（could not shake off the feeling）+ 宾语从句（that the prediction would come true）。
-- 关键词：could not shake off the feeling / the prediction would come true——" could not shake off"暗示了 Camillo 对预言的"执念"；" would come true"暗示了预言的"必然性"。
-- 表达方式：Assis 用" could not shake off"来暗示：Camillo 的"感觉"是"强迫性的"——他无法"摆脱"它。
-- 为什么这样写：这是 Assis 的"自我实现预言"机制：Camillo 因为"相信"预言会成真，所以他最终"实现"了预言——这是心理学中的"自我实现预言"效应。
+**中文理解**：但我表达得不好，因否认某种意义上即是承认，而他并未把不信说清。
 
-⑩ **"And one day, when Rita was away, Camillo found himself alone with another woman, and he betrayed Rita."**
-- 中文理解：Assis 描述了故事的"最终结局"——有一天，当 Rita 外出时，Camillo 发现自己和另一个女人独处，他背叛了 Rita；这个" betrayed Rita"是整个故事的"悲剧结局"。
-- 句子结构：主语（And one day）+ 时间状语（when Rita was away）+ 主语（Camillo）+ 谓语（found himself alone with another woman）+ and + 主语（he）+ 谓语（betrayed Rita）。
-- 关键词：one day / Rita was away / alone with another woman / betrayed Rita——" Rita was away"是"机会"；" alone with another woman"是"背叛的情境"；" betrayed Rita"是"结果"。
-- 表达方式：Assis 用" found himself"来暗示：Camillo 的背叛是"被动"的——他"发现自己"处于背叛的情境，而不是"主动"追求背叛。
-- 为什么这样写：这是 Assis 的"自我实现预言的悲剧"结局：Camillo 因为相信了算命师的预言，最终"实现"了它——他的"相信"本身导致了"背叛"的发生。
+**句子结构**：But I express myself ill 主谓；for to deny is in a sense to affirm 原因；and he did not formulate his unbelief 并列。
+
+**关键词**：express myself ill（表达得不好）/ to deny is to affirm（否认即承认）/ formulate his unbelief（把不信说清）
+
+**表达方式**：用"否认即承认"的悖论，写 Camillo 的不信含混而可被利用。
+
+**为什么这样写**：Machado 以此，让 Rita 的套话有了逻辑缝隙可钻。
+
+---
+
+③ **"The grave bearing of Villela gave him the appearance of being much older than his wife, while Camillo was but a child in moral and practical life."**
+
+**中文理解**：Villela 持重的神态让他显得比妻年长许多，而 Camillo 在道德与生活上不过孩童。
+
+**句子结构**：The grave bearing of Villela gave him the appearance 主谓宾；of being much older than his wife 定语；while Camillo was but a child 并列；in moral and practical life 状语。
+
+**关键词**：The grave bearing of Villela（Villela 持重神态）/ much older than his wife（比妻年长多）/ Camillo was but a child（Camillo 不过孩童）/ in moral and practical life（道德与生活上）
+
+**表达方式**：用"丈夫如父、情如孩童"的对照，写三角里成熟度的错位。
+
+**为什么这样写**：Machado 以此，让悲剧的因在人物性格里先埋好。
+
+---
+
+④ **"But the battle was short and the victory deliriously intoxicating."**
+
+**中文理解**：但交锋短暂，胜利却醉人至晕。
+
+**句子结构**：But the battle was short 主系表；and the victory deliriously intoxicating 并列。
+
+**关键词**：the battle was short（交锋短暂）/ the victory deliriously intoxicating（胜利醉人至晕）
+
+**表达方式**：用"短暂交锋+醉人胜利"写 Rita 套话得手的一刻。
+
+**为什么这样写**：Machado 以此，把心理博弈写成带快感的胜负。
+
+---
+
+⑤ **"With this Camillo disagreed; to appear after so many months was to confirm the suspicions and denunciations of the anonymous letters."**
+
+**中文理解**：对此 Camillo 不以为然；失踪数月后再露面，等于坐实了匿名信的猜疑与告发。
+
+**句子结构**：With this Camillo disagreed 主谓；to appear after so many months 主语；was to confirm the suspicions and denunciations 系表；of the anonymous letters 定语。
+
+**关键词**：Camillo disagreed（Camillo 不以为然）/ after so many months（数月后）/ confirm the suspicions（坐实猜疑）/ the denunciations（告发）/ the anonymous letters（匿名信）
+
+**表达方式**：用"露面=坐实匿名信"写 Camillo 的处境，危机从信里延来。
+
+**为什么这样写**：Machado 以此，让外部匿名信成为压垮的暗线。
+
+---
+
+⑥ **"But at once he rejected the idea, angry with himself, and hastened his step towards Carioca square, there to take a tilbury."**
+
+**中文理解**：但他立刻撇开这念头，自恼着，加快步子朝 Carioca 广场去，要在那儿雇辆双轮轻车。
+
+**句子结构**：But at once he rejected the idea 主谓宾；angry with himself 状语；and hastened his step towards Carioca square 并列；there to take a tilbury 目的。
+
+**关键词**：rejected the idea（撇开念头）/ angry with himself（自恼）/ hastened his step（加快步子）/ Carioca square（Carioca 广场）/ take a tilbury（雇双轮轻车）
+
+**表达方式**：用"自恼+加快步"写 Camillo 在犹豫与冲动间被推着走。
+
+**为什么这样写**：Machado 以此，让情夫的脚比脑子快，伏笔撞见。
+
+---
+
+⑦ **"Camillo found himself before a long, opaque veil."**
+
+**中文理解**：Camillo 发现自己立在一道长长的、不透明的帷幔前。
+
+**句子结构**：Camillo found himself before a long, opaque veil 主谓宾。
+
+**关键词**：found himself before（发现自己立于）/ a long, opaque veil（长而不透的帷幔）
+
+**表达方式**：用"不透明帷幔"写算命场景的神秘道具，也隐喻看不透的真相。
+
+**为什么这样写**：Machado 以此，让"占卜"的舞台感先立，戏中戏开演。
+
+---
+
+⑧ **"Camillo's eyes were riveted upon her in anxious curiosity."**
+
+**中文理解**：Camillo 的眼被钉在她身上，满是焦虑的好奇。
+
+**句子结构**：Camillo's eyes were riveted upon her 主谓（被动）；in anxious curiosity 状语。
+
+**关键词**：eyes were riveted upon her（眼钉在她身上）/ in anxious curiosity（焦虑好奇）
+
+**表达方式**：用"眼被钉住"写他被 Rita 的表演攫住。
+
+**为什么这样写**：Machado 以此，让试探者的反被吸引写成画面。
+
+---
+
+⑨ **"He entered and the driver whipped his horse into a fast trot."**
+
+**中文理解**：他上车，车夫一鞭让马快跑起来。
+
+**句子结构**：He entered 主谓；and the driver whipped his horse into a fast trot 并列。
+
+**关键词**：He entered（他上车）/ the driver whipped his horse（车夫鞭马）/ a fast trot（快跑）
+
+**表达方式**：用"上车疾驰"写逃离或奔赴，节奏陡转。
+
+**为什么这样写**：Machado 以此，让情节在帷幔后加速冲向结局。
+
+---
+
+⑩ **"Villela seized the lover by the throat and, with two bullets, stretched him dead upon the floor."**
+
+**中文理解**：Villela 掐住情人的喉，两枪过后，将他直挺挺打死在地。
+
+**句子结构**：Villela seized the lover by the throat 主谓宾；and, with two bullets, stretched him dead upon the floor 并列。
+
+**关键词**：seized the lover by the throat（掐情人喉）/ with two bullets（两枪）/ stretched him dead（打死）/ upon the floor（在地）
+
+**表达方式**：用"掐喉+两枪"的利落收束，把婚姻侦探术的真相写成血。
+
+**为什么这样写**：Machado 以此，让"算命"的试探终被丈夫以最直白的方式了结。
+
+## 一句话总结
+
+Machado 写 Rita 借"算命"套恋人、探丈夫疑云，一场占卜的戏中戏终被丈夫 Villela 两枪收场——"预言"原是婚姻里的侦查，真相从来不在星象，在人的妒。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| fortune-teller | 算命师 | "Camillo had been to a fortune-teller" |
-| prediction | 预言 | "the prediction troubled him deeply" |
-| destiny | 命运 | "control your destiny" |
-| self-fulfilling | 自我实现的 | "a self-fulfilling prophecy" |
+| the selfsame explanation | ph. 同一套说法 | This was the selfsame explanation |
+| to deny is in a sense to affirm | ph. 否认即承认 | to deny is in a sense to affirm |
+| the grave bearing of Villela | ph. Villela 持重神态 | The grave bearing of Villela |
+| deliriously intoxicating | ph. 醉人至晕 | the victory deliriously intoxicating |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| betray | 背叛 | "he would one day betray the woman he loved" |
-| haunting | 萦绕的 | "like a haunting melody" |
-| philosophy | 哲学 | "than are dreamt of in our philosophy" |
-| sensitive | 敏感的 | "Camillo was a sensitive young man" |
+| consult a fortune-teller | ph. 算命 | gone to consult a fortune-teller |
+| a child in moral and practical life | ph. 道德生活上的孩童 | Camillo was but a child |
+| the anonymous letters | ph. 匿名信 | the anonymous letters |
+| a long, opaque veil | ph. 长而不透帷幔 | before a long, opaque veil |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| love | 爱 | "the woman he loved" |
-| woman | 女人 | "alone with another woman" |
-| mind | 头脑 | "put the thought out of his mind" |
-| true | 真的 | "the prediction would come true" |
-
-## 一句话总结
-
-《The Fortune-Teller》是 Assis 对"命运"与"自由意志"的哲学思考：通过 Camillo 因为相信算命师的"背叛"预言而最终背叛了 Rita 的故事，Assis 展示了"自我实现的预言"的心理学机制——Camillo 的"相信"本身导致了预言的"实现"。
+| a lover | n. 情人 | her lover, Camillo |
+| his wife | n. 妻 | older than his wife |
+| eyes | n. 眼 | Camillo's eyes |
+| two bullets | ph. 两枪 | with two bullets |
