@@ -134,17 +134,17 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是 Epstein 对 Mendeleev 特殊地位的最终解释**。其他 5 位科学家可能也看到了模式，但没有人像 Mendeleev 那样做出具体的、可验证的预测——当这些预测被证实时，他的系统就不再是分类方案，而是自然法则。
 
-**⑨** "The real story of invention is not the isolated genius who conjures something from nothing, but the person who knows what problem to work on."
+**⑨** "Mendeleev really wanted to be known as the discoverer of the periodic law, so he fought for his claim."
 
-- 中文理解：发明的真实故事不是从无到有凭空创造的天才，而是知道该研究什么问题的人。
+- 中文理解：门捷列夫真的想被公认为周期律的发现者，因此他为自己的主张奋力争取。
 
-- 句子结构：The real story of invention is not X, but Y。X = the isolated genius who conjures something from nothing；Y = the person who knows what problem to work on。
+- 句子结构：主语 Mendeleev + 状语 really wanted + 不定式 to be known as the discoverer of the periodic law + 结果连词 so + 他 fought for his claim。
 
-- 关键词：**isolated genius**（孤独的天才）；**conjures something from nothing**（凭空创造）；**knows what problem to work on**（知道该研究什么问题）
+- 关键词：**really wanted to be known as**（真的想被公认为——个人的名望动机）；**fought for his claim**（为他的主张奋力争取）
 
-- 表达方式：**not X, but Y 的经典反转结构**：not...but...把"发明"的荣誉从"答案的创造者"转移到"问题的定义者"。
+- 表达方式：**把科学发现的人为因素摆上台面**。Epstein 不掩饰 Mendeleev 的野心——他知道名望很重要，所以他"争取"，而不是等被追认。这是对"孤胆天才"神话的又一次祛魅。
 
-- 为什么这样写：**这是全章的最终结论句**，也是 Epstein 对全书主题的又一次重申：约束（标准化、问题框架）决定什么是可发现的，而不仅仅是决定如何发现。
+- 为什么这样写：**这是 Epstein 对 Mendeleev 特殊地位的最终解释的补充**。前文讲了他的系统相对完整、做出了可验证预测；这句补充他的主观能动性——他知道要做什么问题、并且为此奋斗。发现不是天降，是主动争取的产物。
 
 **⑩** "When he presented his findings in a lecture to the London Chemical Society, he likened it to musical octaves."
 

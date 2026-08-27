@@ -62,7 +62,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是 Mendeleev 本人对自己动机的最直接描述**。不是"我要发现自然法则"，而是"我需要一个不任意的排列"——这种表述把科学发现降格为一个教学设计问题，与 Epstein 的全书主题完全一致。
 
-**③** "'The pedagogical demands of writing a textbook acted as a constraint which channeled Mendeleev's thoughts in terms of classification and comparison.'"
+**③** "'The pedagogical demands of writing a textbook,' wrote Nathan M. Brooks, a historian of Russian science, 'acted as a constraint which channeled Mendeleev's thoughts in terms of classification and comparison.'"
 
 - 中文理解："编写教材的教学需求作为一种约束，引导了门捷列夫在分类和比较方面的思考。"
 

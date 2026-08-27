@@ -116,17 +116,17 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是"注意力残留"（attention residue）最形象的表述**。"residue on that whiteboard"——不是"我分心了"这样的模糊说法，而是具体的白板意象：即使你切换回来了，旧内容还在上面干扰新内容。
 
-**⑦** "Johnson disappeared for a year, or possibly two. When he did, he was in Banks, Mississippi... 'And when he got through, all our mouths were standing open.'"
+**⑦** "House didn't see him again for a year, perhaps two. When he did, it was in Banks, Mississippi."
 
-- 中文理解：Johnson 消失了大约一年，甚至两年。当他再次出现时，他在密西西比州的班克斯……"当他弹完，所有人都张大了嘴巴。"
+- 中文理解：House 整整一年、甚至两年没有再见到他。当他再次出现时，是在密西西比州的班克斯。
 
-- 句子结构：Johnson disappeared for a year...When he did, he was in Banks, Mississippi + 直接引语 And when he got through, all our mouths were standing open。
+- 句子结构：第一句 House didn't see him again for a year, perhaps two（主语 House + 谓语 didn't see + 宾语 him + 时间状语 for a year, perhaps two）；第二句 When he did, it was in Banks, Mississippi（时间状语从句 + 地点补语）。
 
-- 关键词：**all our mouths were standing open**（所有人都张大了嘴巴——震惊/难以置信）
+- 关键词：**for a year, perhaps two**（一年，或许两年——强调消失之久）；**in Banks, Mississippi**（地点——乡村、与墓地安静的关联）
 
-- 表达方式：**悬疑叙事**：消失了 1-2 年后突然出现，然后 House 听到了他"scolded"的吉他的声音，弹完后所有人都"张嘴"——从被嘲笑（"a dog wouldn't want to hear it"）到"所有人都张嘴"，这是全章最戏剧性的叙事反转。
+- 表达方式：**克制留白的叙事**。Epstein 不直接说"他消失了"，而用"House 整整一年、或许两年没再见到他"——从他人的视角写消失，比自述更有余味。"Banks, Mississippi"这个具体地点也埋下伏笔：那里正是他练琴的墓地所在。
 
-- 为什么这样写：**这是 Epstein 用来连接"寂静与创造力"的关键故事**。传说 Johnson 与魔鬼立约，实际上他只是在一个寂静的地方（墓地）练习了 1-2 年—— Epstein 用这个故事来展示"寂静=进步"的等式。"所有人张嘴"是对他进步的最终认可，不需要与魔鬼立约才能解释。
+- 为什么这样写：**这是 Epstein 用来连接"寂静与创造力"的关键故事**。传说 Johnson 与魔鬼立约，实际上他只是在一个寂静的地方（墓地）练习了 1-2 年——用"消失 1-2 年"这个具体时间尺度，把抽象的"沉浸"变成了可测量的代价。
 
 **⑧** "He said [he'd go to the cemetery] 'cause he could play better 'cause it was still…real quiet. Real quiet….'"
 
@@ -152,7 +152,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是 Epstein 把"健康限制"翻译成"认知约束"的方式**。慢性疲劳综合征不是自我选择的约束，但它产生了与其他自我施加的约束相同的认知效果：减少选择、简化任务、增加单任务专注。
 
-**⑩** "In the words of Herbert Simon: 'In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients.'"
+**⑩** "In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention." (Herbert Simon)
 
 - 中文理解：用 Herbert Simon 的话说："在一个信息丰富的世界里，信息的丰富意味着另一种东西的贫乏：信息所消费的东西的稀缺。信息消费的是什么很明显：它消费的是接收者的注意力。"
 

@@ -152,17 +152,18 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是把认知科学落地的标准手法**。金钱惩罚机制是这个实验的关键——它排除了"人们不知道加件有代价"的解释，逼出真正的结论：即使明知加件要付钱，人们还是加。
 
-**⑩** "On the back of an intoxicating idea, resources pile into the project. It grows without clear boundaries. Lessons that early on could have helped define the project will now come slowly, and painfully, because the undertaking is large and changing its momentum is difficult." the opposite course: 'Think slow, act fast.'"
+**⑩** "On the back of an intoxicating idea, resources pile into the project. It grows without clear boundaries. Lessons that early on could have helped define the project will now come slowly, and painfully, because the undertaking is large and changing its momentum is difficult."
 
-- 中文理解：他把这种灾难模式称为"想得快，做得慢"。……弗吕夫比约也记录了（相对罕见的）成功大项目的模式。它们走的是相反的路线："想得慢，做得快。"
+- 中文理解：在一片令人陶醉的创意的推动下，资源不断涌入项目。它在没有清晰边界的情况下膨胀。本可以早些界定项目的经验教训，现在将缓慢而痛苦地浮现，因为这项事业体量庞大，改变其动量已十分困难。
 
-- 句子结构：第一句主语 He + 谓语 calls + 宾语 the disaster pattern + 宾补 'think fast, act slow'；后句主语 Flyvbjerg + 谓语 has documented + 宾语 the pattern of big projects that succeed + 插入语 (comparatively rare)；末句主语 They + 谓语 take + 宾语 the opposite course + 冒号 + 'Think slow, act fast'。
+- 句子结构：由四句因果递进的短句组成——resources pile in（因）→ It grows without boundaries（果）→ Lessons come slowly and painfully（次果）→ because the undertaking is large（深层原因）。
 
-- 关键词：**think fast, act slow**（想得快做得慢——失败模式）；**think slow, act fast**（想得慢做得快——成功模式）
+- 关键词：**on the back of an intoxicating idea**（凭一段令人陶醉的创意）；**pile into the project**（涌入项目）；**grow without clear boundaries**（无边界地膨胀）；**changing its momentum is difficult**（难以改变动量）
 
-- 表达方式：**四词对偶的镜像互换**。两个短语用完全相同的四个词，只交换 fast/slow 的位置，就造出两种相反的项目命运。
+- 表达方式：**用"动量"物理隐喻解释组织失速**。项目一旦大到难以掉头，早该学到的教训就变得"缓慢而痛苦"——这就是"act slow"的成因。
 
-- 为什么这样写：**这是本章给读者带走的唯一工具**。所有案例、实验、统计最终收束成一组可记住的对偶——而且它明确回应了 Kahneman 的《Thinking, Fast and Slow》，借读者已有的知识框架落地。章末不给答案（Pixar planning 是什么？），把动力留到下一章。
+- 为什么这样写：**把前文"想得快做得慢"的抽象标签落到具体机制**。读者不再只记住一句口号，而明白项目失速的物理逻辑——资源、边界、动量三者的关系，正是本章的总结论。
+
 
 ## 词汇分级
 

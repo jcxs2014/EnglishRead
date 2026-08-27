@@ -47,7 +47,7 @@ modified: "2026-08-26"
 
 ## 选择性精读
 
-**①** "King grew up in the folk-preaching tradition—in which borrowing words was not only encouraged but expected, and language was not thought of as proprietary."
+**①** "King grew up in the folk-preaching tradition—beginning with watching his father—in which borrowing words was not only encouraged but expected, and language was not thought of as proprietary."
 
 - 中文理解：King 在民间布道的传统中长大——在这个传统里，借用语言不仅被鼓励，而且是被期待的，语言不被视为私有财产。
 

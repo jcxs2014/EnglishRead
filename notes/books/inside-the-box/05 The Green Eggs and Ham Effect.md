@@ -61,7 +61,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是全章最简洁的叙事结论**。读者已经知道这是一架坏钢琴、已经知道 Jarrett 身心俱疲、已经知道他本打算取消——"magic" 一词把所有这些不利条件一笔勾销，让读者自己感受反差。
 
-**②** "The tuning effort was furious, and the dinner was late, and Jarrett didn't get onstage until close to 11:30 p.m."
+**②** "Between the furious tuning effort and the late dinner, Jarrett didn't get onstage until close to 11:30 p.m."
 
 - 中文理解：调音工作拼命赶工，晚餐拖得很晚，Jarrett 直到将近晚上 11 点半才登台。
 
@@ -73,7 +73,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是 Epstein 叙事节奏的示范**。用 and 连接三个简单陈述句，产生一种"祸不单行"的积累感，读者在节奏层面就感受到压力。
 
-**③** "The tuning effort was furious, and the dinner was late, and Jarrett didn't get onstage until close to 11:30 p.m. Finally, he sat down to play. It was magic from the very first notes."
+**③** "Finally, he sat down to play. It was magic from the very first notes."
 
 - 中文理解：调音工作拼命赶工，晚餐拖得很晚，Jarrett 直到将近晚上 11 点半才登台。终于，他坐下了，弹了起来。从第一个音符开始，就是魔法。
 
@@ -133,7 +133,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是 Mendelsund 课堂的终极结论，也是对 Bach 案例的升华**。它把"规则"从限制者变成载体——规则不是关住你的墙，而是把你送到你意想不到的创造空间的路。
 
-**⑧** "In the twelfth century, a Buddhist monk...brought with him the ideas of a sect called Chan, or, in Japanese: Zen. A core idea of the group was captured in the statement 'No depending on words or letters.'"
+**⑧** "In the twelfth century, a Buddhist monk who returned to Japan from his study abroad in China brought with him the ideas of a sect called Chan, or, in Japanese: Zen. A core idea of the group was captured in the statement 'No depending on words or letters.' It meant that spiritual insight should be gained by practice—particularly meditation and observation of nature—rather than through logical argument."
 
 - 中文理解：十二世纪，一位佛教僧人……把一个叫"禅"的宗派的思想带到了日本。其核心思想被一句话概括："不依文字。"
 

@@ -65,7 +65,7 @@ modified: "2026-08-26"
 
 - 为什么这样写：**这是"圣诞树效应"的根本原因**。正因为伤亡"all over the body"，所以陆军才不得不在每个部位都加防护——这是系统性问题，不是可以局部优化解决的。
 
-**③** "There was a Christmas tree effect: The Army added ever more armor to the soldier's body, like hanging more ornaments on a Christmas tree."
+**③** "a Christmas tree effect: The Army added ever more armor to the soldier's body, like hanging more ornaments on a Christmas tree. There was neck and throat protection, and a half-pound groin protector."
 
 - 中文理解：出现了"圣诞树效应"：陆军在士兵身上加了越来越多的防护，就像在圣诞树上挂越来越多的装饰品。
 
