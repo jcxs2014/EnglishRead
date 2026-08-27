@@ -109,6 +109,6 @@ modified: "2026-08-27"
 
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
-| like it's happening to someone else | 像发生在别人身上一样 | 描述疏离感或"旁观者"心态 |
+| like something happening to someone else | 像发生在别人身上一样 | 描述疏离感或"旁观者"心态 |
 | hit my brain like an Alka-Seltzer | 像泡腾片一样在脑中扩散 | 描述某人或某事突然占据整个思维 |
 | sounds like jealousy | 听起来像吃醋 | 用间接方式测试对方的情感 |
