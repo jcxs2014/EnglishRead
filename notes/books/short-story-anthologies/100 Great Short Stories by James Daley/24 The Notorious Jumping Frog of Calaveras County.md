@@ -1,114 +1,185 @@
 ---
-状态: 未读
-modified: "2026-08-26"
+状态: 精读完成
+modified: "2026-08-27"
 ---
 
-# 24. THE NOTORIOUS JUMPING FROG OF CALAVERAS COUNTY
+# 24. The Notorious Jumping Frog of Calaveras County
 
-**作者**：Mark Twain（1865）
+**作者**：Mark Twain
 
 ## 一句话总结
 
-Twain 以第一人称叙述者在加州 Calaveras 县的酒吧里，听到了一个赌徒讲述他如何训练一只青蛙参加跳远比赛并作弊的故事——这是 Twain 最早的全国性文学成功，也是美国西部幽默文学的代表作。
+Twain 用"我受朋友之托去打听一位 Leonidas W. Smiley"的框架，引出老 Simon Wheeler 絮叨讲述赌徒 Jim Smiley 训练跳蛙 Dan'l Webster、却被陌生人灌铅作弊的故事——一则关于"美国西部赌徒式天真"的幽默经典，叙事的滑稽全在 Wheeler 一本正经的腔调里。
 
 ## 逐句精读（10 处）
 
-① **"In compliance with the request of a friend of mine, who wrote me from the East, I called on good-natured, garrulous old Simon Wheeler, and inquired after my friend's friend, as he had requested me to do."**
-- 中文理解：Twain 用这个正式的开场白来建立叙事框架——叙述者去拜访" Simon Wheeler"是因为一个"来自东部的朋友"的请求；而 Wheeler 被描述为" good-natured, garrulous"（善良健谈的）——这个描述暗示了 Wheeler 是一个讲故事的人。
-- 句子结构：介词短语（In compliance with...）+ 主语（I）+ 谓语（called on）+ 同位语（good-natured, garrulous old Simon Wheeler）+ 宾语从句（and inquired...as he had requested...）。
-- 关键词：In compliance with / East / good-natured, garrulous / Simon Wheeler / as he had requested——"In compliance with"是正式的法律用语，增加了幽默感；"East"指的是美国东部；"garrulous"（健谈的）是 Wheeler 的核心特征。
-- 表达方式：Twain 用" In compliance with the request of a friend of mine, who wrote me from the East"这个超长的介词短语来模拟"正式叙事"的语调——这个语调与故事的"非正式内容"形成对比。
-- 为什么这样写：这是 Twain 的"叙事框架建立"技巧：通过建立这个"拜访 Wheeler"的叙事框架，Twain 为接下来的"嵌套故事"提供了一个自然的入口。
+① **"I told him that a friend of mine had commissioned me to make some inquiries about a cherished companion of his boyhood named Leonidas W. Smiley, a young minister of the Gospel, who he had heard was at one time a resident of Angel's Camp."**
 
-② **"I found him in the 'Dead Rise'—a lager-beer shop, just round the corner from Jake's Stable, a relic of the 'flush times' mining camp, with an average of about two custom."**
-- 中文理解：Twain 用精确的地点描述来建立 Wheeler 出现的场景——他在一个叫" Dead Rise"的小酒馆里，这是一个" lager-beer shop"（拉格啤酒馆）；Twain 还提到这个地方是" a relic of the 'flush times'"（繁荣时期的遗迹），暗示了加州淘金热（Gold Rush）时代已经过去。
-- 句子结构：主语（I）+ 谓语（found him）+ 地点状语（in the 'Dead Rise'）+ 同位语（a lager-beer shop）+ 插入语（just round...）+ 独立主格结构（with an average of about two custom）。
-- 关键词：Dead Rise / lager-beer shop / relic / flush times / mining camp / two custom——"Dead Rise"是一个虚构的地名；"flush times"指的是加州淘金热的繁荣时期；"two custom"暗示了这个酒馆只有两个顾客。
-- 表达方式：Twain 用" relic of the 'flush times'"来暗示时间的流逝——Wheeler 出没的地方是一个"遗迹"，暗示了故事的怀旧感。
-- 为什么这样写：这是 Twain 的"历史背景"建立：通过展示" Dead Rise"是" flush times"的遗迹，Twain 暗示了加州社会的变化——从繁荣的淘金营地到衰落的酒馆。
+**中文理解**：我告诉他，我的一位朋友委托我来打听他少年时代一位挚友，名叫 Leonidas W. Smiley，一位年轻的福音传教士，他听说这位曾一度住在 Angel's Camp。
 
-③ **"He recharged himself with an invoice of fresh water from the spring, and was so particular about this part of his performance that he looked into every can, and would not trust the water from the tap."**
-- 中文理解：Wheeler 坚持要用" spring"（泉水）而不是" tap water"（自来水）来给他的青蛙补水——这个细节展示了 Wheeler 对他的青蛙的认真态度，同时也暗示了他可能是一个"有迷信"的人。
-- 句子结构：主语（He）+ 谓语（recharged）+ 宾语（with an invoice of fresh water）+ 时间状语（from the spring）+ 并列句（and was so particular...that...）；结果状语从句使用了" would not trust"的否定结构。
-- 关键词：recharged / invoice of fresh water / particular / looked into every can / would not trust the tap——"recharged"是 Wheeler 的术语，暗示青蛙是"机械的"；"would not trust the tap water"暗示了 Wheeler 的迷信或讲究。
-- 表达方式：Twain 用" would not trust"来暗示 Wheeler 对他的青蛙的态度——他把青蛙当作一个"需要特别照顾"的存在。
-- 为什么这样写：这是 Twain 的"人物塑造"技巧：Wheeler 的每一个小动作都在展示他对青蛙比赛的认真——这个认真态度与他即将实施的"作弊"形成了讽刺。
+**句子结构**：I told him that 带宾语从句；a friend of mine had commissioned me to make some inquiries 嵌套；named Leonidas W. Smiley 为同位语；a young minister of the Gospel 再同位；who he had heard was … 定语从句。
 
-④ **"Jim Smiley was a man who would pitch into a bagatelle as long as he could get a customer, and lose his money as easy as he got it."**
-- 中文理解：Twain 用这个定义来介绍 Jim Smiley——他是一个"任何赌局都参加"的人，他输钱和赢钱一样容易；这个" lose his money as easy as he got it"暗示了 Smiley 是一个"赌棍"，不在乎输赢。
-- 句子结构：主语（Jim Smiley）+ 系动词（was）+ 表语（a man）+ 定语从句（who would pitch into...and lose...）；定语从句中有两个并列谓语。
-- 关键词：pitch into / bagatelle / as long as he could get a customer / lose his money as easy as he got it——" pitch into"是"参加"的意思；"bagatelle"是一种台球游戏；"as easy as he got it"暗示了 Smiley 对金钱的漠视。
-- 表达方式：Twain 用" would pitch...and lose..."的并列来展示 Smiley 的两个特点：爱赌和不在乎钱。
-- 为什么这样写：这是 Twain 的"人物类型"建立：Jim Smiley 是一个"赌棍"类型的人物——他爱赌，但他不是赌桌上的高手，他只是爱赌这个行为本身。
+**关键词**：commissioned me（委托我）/ make some inquiries（打听）/ a cherished companion（挚友）/ a young minister of the Gospel（年轻传教士）/ resident of Angel's Camp（Angel's Camp 的居民）
 
-⑤ **"He bet on all kinds of dogs, cats, and roosters; he would calculate his chances on the races, the fights, and even the weather."**
-- 中文理解：Twain 用三个并列来展示 Smiley 参与的各种赌博活动——从狗、猫、斗鸡到赛马、斗拳、甚至天气；这个列举展示了 Smiley 对赌博的全面投入。
-- 句子结构：主语（He）+ 谓语（bet on）+ 宾语（all kinds of dogs, cats, and roosters）+ 谓语（would calculate）+ 宾语（his chances）+ 地点状语（on the races, the fights, and even the weather）。
-- 关键词：bet on / all kinds of / roosters / calculate his chances / even the weather——"bet on all kinds of"暗示了 Smiley 赌博范围的广泛；"calculate his chances on the weather"是最荒谬的，因为天气无法预测。
-- 表达方式：Twain 用" even the weather"来展示 Smiley 赌博的荒谬性——连天气都可以赌。
-- 为什么这样写：这是 Twain 的"赌棍画像"：Smiley 不是一个选择性的赌徒，而是一个"无处不赌"的人——这个形象为后面的"青蛙"故事提供了背景。
+**表达方式**：用迂回的正式口吻（commissioned / inquiries / cherished companion）建立"我"作为文明访客的叙事框架，与后文 Wheeler 的土腔形成反差。
 
-⑥ **"One time a water-rat was brought in; but before the fight the dog got into the water through the crack of the door, and caught the rat, and worried it all to death, and every soul in the room was satisfied."**
-- 中文理解：Twain 描述了 Smiley 的一次赌博经历——他赌一只狗抓水鼠，但狗没有在岸上抓，而是在水里抓住了老鼠；这个结果让" every soul in the room was satisfied"——每个人都满意，因为每个人（包括 Smiley）都赢了。
-- 句子结构：主语（One time a water-rat was brought in）+ but + 原因状语从句（before the fight...）+ 谓语（caught, worried）+ 结果状语（and every soul...was satisfied）。
-- 关键词：water-rat / got into the water / crack of the door / worried it all to death / every soul was satisfied——"water-rat"是水鼠；"worried it all to death"是"担心到死"的委婉语；"every soul was satisfied"暗示了一个皆大欢喜的结果。
-- 表达方式：Twain 用" every soul in the room was satisfied"来暗示：在这个故事里，每个人都赢了——这是一个"理想"的赌博结局。
-- 为什么这样写：这是 Twain 的"幽默反转"技巧：狗在水里抓老鼠本来是"违规"，但结果却让每个人都满意——这个故事暗示了 Smiley 的"运气"。
+**为什么这样写**：Twain 借这个假正经的开场，把读者引进一个注定落空的打听——Leonidas 根本不存在，整段只是朋友捉弄"我"的幌子。
 
-⑦ **"He had a little small bull pup, that to look at him you'd think he warn't worth a cent, but to set up as a racer or a pit dog, he warn't worth a cent for that."**
-- 中文理解：Twain 用这个双重否定来描述 Smiley 的小狗——" you wouldn't think he was worth a cent"（你不会觉得他值一分钱），但是" to set up as a racer or a pit dog, he wasn't worth a cent for that"（作为赛狗或斗狗，他也不值一分钱）；这两个否定句建立了小狗的"无用"形象。
-- 句子结构：主语（He）+ 谓语（had）+ 宾语（a little small bull pup）+ 宾语补语（that to look at him you'd think...）+ but + 另一个宾语补语（to set up as...he warn't worth a cent for that）。
-- 关键词：bull pup / to look at him / warn't worth a cent / racer / pit dog——"bull pup"是一种斗牛犬品种；"warn't"（wasn't 的方言）；"racers"是赛狗；"pit dogs"是斗狗。
-- 表达方式：Twain 用" warn't"这个方言拼写来保持故事的"口头叙事"感。
-- 为什么这样写：这是 Twain 的"先抑后扬"技巧：Smiley 的小狗看起来"不值一分钱"，但后面将展示它在跳远方面的能力。
+---
 
-⑧ **"But for all the world he was the worst jumpin dog in the world, and the way he'd scamper, and the way he'd bite, and the way he'd run in circles, you'd break your heart to see him."**
-- 中文理解：Twain 用" for all the world"和" the worst"来强调这只狗的"最差"——它咬人、在圈子里跑，但正是这些"差劲"的动作让它在跳远方面表现出色。
-- 句子结构：But 连接的转折句；主语（the way he'd scamper, and the way he'd bite, and the way he'd run）+ 谓语（you'd break your heart）。
-- 关键词：the worst jumpin dog / scamper / bite / run in circles / break your heart——"worst"和"break your heart"形成对比——看起来最差的狗，实际上有特别的能力。
-- 表达方式：Twain 用" you'd break your heart to see him"的夸张来表达这只狗的"令人心疼"的程度。
-- 为什么这样写：这是 Twain 的"反转期望"技巧：这只狗看起来"最差"，但实际上它有自己的"天赋"——这个反转为"青蛙"故事做了铺垫。
+② **"Simon Wheeler backed me into a corner and blockaded me there with his chair, and then sat down and reeled off the monotonous narrative which follows this paragraph."**
 
-⑨ **"But somehow he couldn't get an even show; he was always getting cheated; he warn't the right dog for the place, you see."**
-- 中文理解：Twain 用" couldn't get an even show"和" always getting cheated"来暗示 Smiley 的狗总是"运气不好"——它虽然有能力，但总是被"欺骗"；这个细节暗示了赌博世界的不公平。
-- 句子结构：主语（he）+ 谓语（couldn't get）+ 宾语（an even show）+ but + 主语（he）+ 谓语（was getting cheated）+ 主语补语（he warn't the right dog for the place）。
-- 关键词：even show / getting cheated / the right dog for the place——"even show"是赌博术语，意思是"公平的机会"；"getting cheated"暗示 Smiley 总是在赌博中被欺骗。
-- 表达方式：Twain 用" you see"这个插入语来建立与听众的直接关系——这是口头叙事的典型特征。
-- 为什么这样写：这是 Twain 的"失败者同情"技巧：Smiley 的狗虽然有能力，但总是被欺骗——这个模式为后面"青蛙"故事建立了"受害者"的形象。
+**中文理解**：Simon Wheeler 把我逼到角落，用椅子把我堵在那里，然后坐下，滔滔不绝地讲起了下面这段单调的叙述。
 
-⑩ **"The wonder was, he was always in the right place; he'd always be in the way of whatever was going to happen."**
-- 中文理解：Twain 用" the wonder was"来暗示一个悖论：Smiley 的狗虽然总是输，但它"总是在正确的地方"——这个矛盾是 Twain 的幽默核心。
-- 句子结构：主语（The wonder）+ 系动词（was）+ 表语（he was always in the right place）+ 分号 + 重复说明（he'd always be in the way of whatever was going to happen）。
-- 关键词：the wonder was / always in the right place / in the way of / whatever was going to happen——"the wonder was"暗示了悖论；"in the way of"是双关语——既指"在...的路上"，也指"妨碍..."。
-- 表达方式：Twain 用" whatever was going to happen"来暗示这只狗似乎能"预见"未来——这是一个荒谬的声明。
-- 为什么这样写：这是 Twain 的"动物超自然能力"暗示：Smiley 的狗似乎有某种"预知"能力——这个细节为后面的"青蛙"故事的"非凡能力"做了铺垫。
+**句子结构**：Simon Wheeler backed me into a corner 主谓宾补；and blockaded me there with his chair 并列谓语；and then sat down and reeled off … 再并列；which follows this paragraph 定语从句。
+
+**关键词**：backed me into a corner（把我逼到角落）/ blockaded me（堵住我）/ reeled off（滔滔不绝地讲）/ the monotonous narrative（单调的叙述）
+
+**表达方式**：用"逼到角落 + 椅子堵门"的动作喜剧，把"我"的被困写得具象—— Wheeler 一旦开口就绝不让你走。
+
+**为什么这样写**：Twain 以这个身体封锁，预告了"我"将被漫长故事绑架的命运，幽默感由此而生。
+
+---
+
+③ **"I let him go on in his own way, and never interrupted him once."**
+
+**中文理解**：我由着他按自己的方式讲下去，一次也没有打断过他。
+
+**句子结构**：I let him go on in his own way 主谓宾补；and never interrupted him once 并列谓语（否定）。
+
+**关键词**：let him go on（由着他讲）/ in his own way（按自己的方式）/ never interrupted him once（一次也没打断）
+
+**表达方式**：用第一人称的"忍让"反衬 Wheeler 的不可阻挡——叙述者越 passive，读者的喜剧期待越强。
+
+**为什么这样写**：Twain 借"我"的沉默，把舞台完全让给 Wheeler，让土味故事自己说话。
+
+---
+
+④ **"If he even see a straddle-bug start to go anywheres, he would bet you how long it would take him to get to—to wherever he was going to, and if you took him up, he would find out."**
+
+**中文理解**：哪怕他看见一只八角虫要往哪儿爬，他都会跟你赌这虫子要多久才爬到——爬到它要去的地方；你要是跟他较真，他准能给你算出来。
+
+**句子结构**：If he even see a straddle-bug start to go anywheres 条件句；he would bet you how long … 主句带宾语从句；and if you took him up 并列条件；he would find out 结果。
+
+**关键词**：a straddle-bug（八角虫）/ bet you how long（跟你赌多久）/ took him up（跟他较真）/ find out（算出来）
+
+**表达方式**：用夸张到"虫子爬行"也要打赌的细节，把 Smiley 的赌徒本性推到荒诞的极致。
+
+**为什么这样写**：Twain 借这种无物不赌的执念，塑造了一个"除了赌什么都不在乎"的西部典型人物。
+
+---
+
+⑤ **"And he had a little small bull-pup, that to look at him you'd think he warn't worth a cent but to set around and look ornery and lay for a chance to steal something."**
+
+**中文理解**：他还有只小牛犬，单看长相你会觉得它一文不值，只会赖在那儿装凶，伺机偷点东西。
+
+**句子结构**：And he had a little small bull-pup 主句；that to look at him you'd think … 定语从句中嵌套 you'd think 宾语从句；but to set around and look ornery 与 lay for a chance 并列不定式。
+
+**关键词**：a little small bull-pup（小牛犬）/ warn't worth a cent（一文不值）/ set around（赖着）/ look ornery（装凶）/ lay for a chance（伺机）
+
+**表达方式**：用"其貌不扬"的外表铺垫后文的反转——这狗打架时凶猛无比，外表是骗人的。
+
+**为什么这样写**：Twain 擅长用"低估—反转"制造笑点，这只狗是 Smiley 诸多"丑东西赢大钱"故事的第一个。
+
+---
+
+⑥ **"It always makes me feel sorry when I think of that last fight of his'n, and the way it turned out."**
+
+**中文理解**：每当我想起他最后一次打架，以及那结局，心里总不是滋味。
+
+**句子结构**：It always makes me feel sorry 主句（it 形式主语）；when I think of … 时间状语从句；and the way it turned out 并列宾语。
+
+**关键词**：makes me feel sorry（让我心里不是滋味）/ that last fight（最后一次打架）/ the way it turned out（结局的样子）
+
+**表达方式**：用叙述者（Wheeler）本人的"遗憾"口吻讲一条狗的死，把荒诞故事讲出真情实感，反差更滑稽。
+
+**为什么这样写**：Twain 让 Wheeler 对狗的败北郑重哀悼，讽刺与温情混在一起，是这篇幽默的招牌笔法。
+
+---
+
+⑦ **"Why, I've seen him set Dan'l Webster down here on this floor—Dan'l Webster was the name of the frog—and sing out, 'Flies, Dan'l, flies!' and quicker'n you could wink he'd spring straight up."**
+
+**中文理解**：哎，我见过他把 Dan'l Webster 放这地板上——Dan'l Webster 是那青蛙的名字——喊"苍蝇，Dan'l，苍蝇！"话音未落它就蹦得老高。
+
+**句子结构**：Why, I've seen him set Dan'l Webster down 主句；Dan'l Webster was the name of the frog 破折号插入同位；and sing out … 并列谓语；quicker'n you could wink he'd spring straight up 时间状＋主句。
+
+**关键词**：set Dan'l Webster down（把 Dan'l 放地上）/ the name of the frog（青蛙的名字）/ sing out（喊）/ quicker'n you could wink（眨眼间）/ spring straight up（直蹦起来）
+
+**表达方式**：用拟声拟态（sing out / spring straight up）把青蛙的"跳远绝技"写得活灵活现，读者几乎看见那一下蹦跳。
+
+**为什么这样写**：Twain 借这只"听话的冠军蛙"把故事推到顶点，为结尾被灌铅、跳不起来的大反转蓄满势能。
+
+---
+
+⑧ **"Well, Smiley kep' the beast in a little lattice box, and he used to fetch him down-town sometimes and lay for a bet."**
+
+**中文理解**：嗯，Smiley 把这家伙养在小格笼里，时不时带它下镇，就为了找个打赌的机会。
+
+**句子结构**：Well, Smiley kep' the beast in a little lattice box 主句；and he used to fetch him down-town 并列；and lay for a bet 再并列。
+
+**关键词**：kep' the beast（养着这家伙）/ a little lattice box（小格笼）/ fetch him down-town（带它下镇）/ lay for a bet（等着打赌）
+
+**表达方式**：用"养在笼里 + 带下镇"的日常细节，把跳蛙写成 Smiley 的"摇钱道具"，荒诞又真实。
+
+**为什么这样写**：Twain 以这种煞有介事的驯养描写，让后文"蛙被灌铅"的作弊更显突兀可笑。
+
+---
+
+⑨ **"Smiley he went to the swamp and slopped around in the mud for a long time, and finally he ketched a frog, and fetched him in, and give him to this feller, and sot him down."**
+
+**中文理解**：Smiley 跑到沼泽，在泥里淌了好一阵，终于抓了只青蛙，带回来，交给那家伙，让他坐下。
+
+**句子结构**：Smiley he went to the swamp and slopped around 并列谓语；and finally he ketched a frog 递进；and fetched him in, and give him …, and sot him down 一连串动作谓语。
+
+**关键词**：went to the swamp（跑去沼泽）/ slopped around in the mud（在泥里淌）/ ketched a frog（抓了只蛙）/ fetched him in（带回来）/ sot him down（让他坐下）
+
+**表达方式**：用一连串土语动词（slopped / ketched / sot）把"抓替补蛙"写得像狩猎，节奏欢快。
+
+**为什么这样写**：Twain 以这个"现抓现赛"的桥段，让陌生人得以偷偷给 Dan'l 灌铅——情节的齿轮在此咬合。
+
+---
+
+⑩ **"At the door I met the sociable Wheeler returning, and he buttonholed me and recommenced: 'Well, thish-yer Smiley had a yaller one-eyed cow that didn't have no tail.'"**
+
+**中文理解**：在门口我又碰见爱搭话的 Wheeler 回来，他一把拽住我，又开了腔："嗯，这位 Smiley 还有头没尾巴的黄眼奶牛。"
+
+**句子结构**：At the door I met the sociable Wheeler returning 主句；and he buttonholed me and recommenced 并列；直接引语内含 had a yaller one-eyed cow 定语从句。
+
+**关键词**：met the sociable Wheeler（碰见爱搭话的 Wheeler）/ buttonholed me（一把拽住我）/ recommenced（又开腔）/ a yaller one-eyed cow（黄眼奶牛）/ didn't have no tail（没尾巴）
+
+**表达方式**：用"门口又被逮住"收束框架叙事，暗示故事没完没了—— Wheeler 还要讲牛、讲马、讲一切。
+
+**为什么这样写**：Twain 以这个开放式结尾，把"我"的逃脱写成不可能，读者和"我"一起被困在 Wheeler 的絮叨里，幽默闭环。
+
+## 一句话总结
+
+Twain 用"受托打听一个不存在的人"作框架，让 Simon Wheeler 以一本正经的土腔讲述 Jim Smiley 训蛙被骗的荒诞故事——笑点全在叙述者的认真与内容的滑稽之间的落差；这只名为 Dan'l Webster 的跳蛙，是美国西部幽默最著名的"冠军"。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| Calaveras County | 卡莱拉斯县 | "The Notorious Jumping Frog of Calaveras County" |
-| bagatelle | 小型台球游戏 | "pitch into a bagatelle" |
-| bull pup | 斗牛犬 | "a little small bull pup" |
-| pit dog | 斗狗 | "a racer or a pit dog" |
+| garrulous | adj. 絮叨的 | good-natured, garrulous old Simon Wheeler |
+| blockaded me with his chair | ph. 用椅子堵住我 | backed me into a corner and blockaded me there |
+| reeled off | ph. 滔滔不绝地讲 | sat down and reeled off the monotonous narrative |
+| a straddle-bug | n. 八角虫（土语） | If he even see a straddle-bug start to go anywheres |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| gambler | 赌徒 | "a man who would bet on anything" |
-| jumpin | 跳跃的（jumpin = jumping，方言） | "the worst jumpin dog in the world" |
-| scamper | 奔跑 | "the way he'd scamper" |
-| lager-beer | 拉格啤酒 | "a lager-beer shop" |
+| commissioned me | ph. 委托我 | a friend of mine had commissioned me to make inquiries |
+| bet you how long | ph. 跟你赌多久 | he would bet you how long it would take |
+| a bull-pup | n. 小牛犬 | he had a little small bull-pup |
+| lay for a bet | ph. 等着打赌 | fetch him down-town and lay for a bet |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| frog | 青蛙 | "a terrible mean bullfrog" |
-| dog | 狗 | "a bull pup" |
-| bet | 赌注 | "he'd bet on all kinds of" |
-| rat | 老鼠 | "a water-rat was brought in" |
-
-## 一句话总结
-
-《The Notorious Jumping Frog of Calaveras County》是 Twain 最著名的短篇：通过 Jim Smiley 的狗和青蛙的故事，展示了19世纪美国西部赌博文化的荒谬——Twain 用"嵌套叙事"（叙述者听 Wheeler 讲故事）和"反讽"（最差的狗/青蛙实际上最厉害）来创造幽默。
+| the swamp | n. 沼泽 | Smiley went to the swamp and slopped in the mud |
+| a frog | n. 青蛙 | Dan'l Webster was the name of the frog |
+| the door | n. 门口 | At the door I met the sociable Wheeler |
+| a cow | n. 奶牛 | Smiley had a yaller one-eyed cow |

@@ -1,113 +1,185 @@
 ---
-状态: 未读
-modified: "2026-08-26"
+状态: 精读完成
+modified: "2026-08-27"
 ---
 
-# 30. UNCLE REMUS AND THE WONDERFUL TAR-BABY STORY
+# 30. Uncle Remus and the Wonderful Tar-Baby Story
 
-**作者**：Joel Chandler Harris（1881）
+**作者**：Joel Chandler Harris
 
 ## 一句话总结
 
-Harris 通过 Uncle Remus 给小男孩讲述的" Tar-Baby"故事，展示了19世纪美国南方非洲裔美国人传统口述故事的魅力——这个故事的核心是 Brer Rabbit 陷入了一个由焦油娃娃设置的陷阱，而它的逃脱方式揭示了非洲裔美国人智慧的精髓。
+哈里斯以"萨莉小姐的孩子坐在老雷穆斯叔叔膝头"为叙事框，让雷穆斯用南方黑人口语讲"兔子和狐狸"的故事——狡猾的兔子先靠拖延戏弄狐狸，后又被"焦油娃娃"困住，最终却凭着"生于荆棘、长于荆棘"的天生本领全身而退，展示了"机智胜过蛮力"的民间智慧。
 
 ## 逐句精读（10 处）
 
-① **"One evening recently, the lady whom Uncle Remus calls 'Miss Sally' missed her little seven-year-old."**
-- 中文理解：Harris 用" One evening recently"来开场——这是一个日常的场景，Miss Sally 发现她的小儿子不见了；这个开场建立了故事的"家庭"背景。
-- 句子结构：时间状语（One evening recently）+ 主语（the lady）+ 定语从句（whom Uncle Remus calls 'Miss Sally'）+ 谓语（missed）+ 宾语（her little seven-year-old）。
-- 关键词：One evening recently / Miss Sally / little seven-year-old——"Miss Sally"是 Uncle Remus 对白人小男孩母亲的称呼；"seven-year-old"建立了小男孩的年龄。
-- 表达方式：Harris 用" the lady whom Uncle Remus calls 'Miss Sally'"的描述来建立 Uncle Remus 和 Miss Sally 之间的关系——这是一个主仆关系，但带着温情。
-- 为什么这样写：这是 Harris 的"家庭场景建立"技巧：通过建立这个"寻找孩子"的日常场景，Harris 为接下来的"讲故事"提供了一个自然的入口。
+① **"His head rested against the old man's arm, and he was gazing with an expression of the most intense interest into the rough, weather-beaten face that beamed so kindly upon him."**
 
-② **"She found him, after a while, in Uncle Remus's cabin, sitting on a chopping-block, listening with open eyes and mouth to the wonderful fairy-tales of the old man."**
-- 中文理解：Miss Sally 在 Uncle Remus 的小屋里找到了她的儿子——他坐在一个"劈柴块"上，" open eyes and mouth"地听着 Uncle Remus 讲" fairy-tales"；这个" open eyes and mouth"是一个关键的视觉细节，展示了小男孩的专注。
-- 句子结构：主语（She）+ 谓语（found him）+ 地点状语（after a while, in Uncle Remus's cabin）+ 伴随状语（sitting on a chopping-block）+ 方式状语（listening with open eyes and mouth）+ 补语（to the wonderful fairy-tales）。
-- 关键词：Uncle Remus's cabin / chopping-block / open eyes and mouth / fairy-tales / the old man——"cabin"是 Uncle Remus 的住所；"chopping-block"是劈柴用的木块；"fairy-tales"是 Miss Sally 对故事的称呼，但 Uncle Remus 可能会用"tricks"来形容。
-- 表达方式：Harris 用" with open eyes and mouth"这个细节来展示小男孩的专注程度——他的眼睛和嘴巴都张开着，被故事吸引住了。
-- 为什么这样写：这是 Harris 的"祖孙关系"技巧：小男孩坐在 Uncle Remus 的小屋里，听着" fairy-tales"——这个场景暗示了非洲裔美国人传统口述故事在跨种族家庭中的温情传递。
+**中文理解**：孩子的头靠在老人的手臂上，他带着最专注的神情，注视着那张布满风霜、却对他温柔微笑的粗糙面孔。
 
-③ **"Brer Rabbit's wife was a good housekeeper, and kept his house in the best of order."**
-- 中文理解：Uncle Remus 开始讲述 Brer Rabbit 的故事——Rabbit 的妻子是一个"好管家"，把他的房子收拾得"井井有条"；这个"好妻子"的描述与后面 Rabbit 的"诡计"形成对比。
-- 句子结构：主语（Brer Rabbit's wife）+ 系动词（was）+ 表语（a good housekeeper）+ and + 谓语（kept）+ 宾语（his house）+ 方式状语（in the best of order）。
-- 关键词：Brer Rabbit / good housekeeper / kept his house in the best of order——"Brer"是"Brother"的缩写；"good housekeeper"是 Rabbit 妻子的身份描述。
-- 表达方式：Harris 用" in the best of order"这个短语来暗示 Rabbit 的妻子是一个"完美主义者"——她的整洁与 Rabbit 的混乱形成对比。
-- 为什么这样写：这是 Harris 的"家庭动态"建立：Rabbit 有一个"好妻子"，这个细节暗示了 Brer Rabbit 故事中的家庭价值观。
+**句子结构**：两个分句 His head rested… 与 he was gazing… 并列；with an expression of the most intense interest 修饰 gazing；into the rough, weather-beaten face 介词短语指向对象；that beamed so kindly upon him 定语从句补完"脸"的温度。
 
-④ **"Brer Fox was so envious that he couldn't sleep, and he made up his mind to play some trick on Brer Rabbit."**
-- 中文理解：Uncle Remus 讲述了 Brer Fox 的动机——他因为"嫉妒"（envious）而睡不着觉，他决定要" play some trick"（搞恶作剧）在 Brer Rabbit 身上；这个"嫉妒"是故事的驱动力。
-- 句子结构：主语（Brer Fox）+ 系动词（was）+ 表语（so envious）+ 结果状语（that he couldn't sleep）+ and + 谓语（made up his mind）+ 不定式短语（to play some trick on Brer Rabbit）。
-- 关键词：Brer Fox / envious / couldn't sleep / made up his mind / play some trick——"envious"是 Fox 的核心情绪；"made up his mind"暗示了 Fox 的决定是经过思考的；"play some trick"是 Fox 的计划。
-- 表达方式：Harris 用" so...that..."的结构来强调 Fox 的嫉妒程度——他" so envious"以至于" couldn't sleep"。
-- 为什么这样写：这是 Harris 的"嫉妒驱动"主题：Fox 的嫉妒是故事的驱动力——这个主题在非洲裔美国人故事中很常见，它代表了"弱者对强者的反抗"。
+**关键词**：rested against the old man's arm（靠在老人手臂上）/ the most intense interest（最专注的神情）/ the rough, weather-beaten face（粗糙、布满风霜的脸）/ beamed so kindly（温柔地微笑）
 
-⑤ **"He went to work and built a Tar-Baby, and he built it so well that it looked like a real baby."**
-- 中文理解：Uncle Remus 讲述了 Fox 的计划——他建造了一个" Tar-Baby"（焦油娃娃），而且做得很好，看起来像一个真正的婴儿；这个" Tar-Baby"是故事的核心道具。
-- 句子结构：主语（He）+ 谓语（went）+ 方式状语（to work）+ and + 谓语（built）+ 宾语（a Tar-Baby）+ and + 主语（he）+ 谓语（built it）+ 方式状语（so well）+ 结果状语（that it looked like a real baby）。
-- 关键词：Tar-Baby / built it so well / looked like a real baby——"Tar-Baby"是故事的核心——它是一个用焦油做的人偶，用来捕捉 Rabbit；"so well"暗示了 Fox 的手工能力。
-- 表达方式：Harris 用" so well...that..."的结构来强调 Tar-Baby 的真实性——Fox 做得如此之好，以至于它看起来像真的。
-- 为什么这样写：这是 Harris 的"陷阱设置"技巧：Fox 的 Tar-Baby 是一个"完美的陷阱"——它看起来像一个真正的婴儿，引诱 Rabbit 上当。
+**表达方式**：用"靠在手臂上"与"温柔微笑的粗糙脸"两个细节，为雷穆斯讲故事这一场戏铺上温暖的底色。
 
-⑥ **"He sot the Tar-Baby right down in the middle of the road, and he sot himself down there too."**
-- 中文理解：Uncle Remus 描述了 Fox 放置 Tar-Baby 的位置——他把它放在" road"（路）的中间，然后他自己也坐在那里；这个" road"是兔子必经之路。
-- 句子结构：主语（He）+ 谓语（sot = set）+ 宾语（the Tar-Baby）+ 地点状语（right down in the middle of the road）+ and + 主语（he）+ 谓语（sot）+ 地点状语（right down there too）。
-- 关键词：sot / middle of the road / right down——"sot"是"sat"的方言形式；"right down"是"正好在"的强调。
-- 表达方式：Harris 用" sot"这个方言拼写来保持 Uncle Remus 讲故事的"口头叙事"感——这个拼写是19世纪美国南方的口语特征。
-- 为什么这样写：这是 Harris 的"等待场景"建立：Fox 和 Tar-Baby 在路中间等待——这个"等待"暗示了 Rabbit 将"必经"这条路。
+**为什么这样写**：哈里斯借这两个细节，把"讲故事"写成一种近乎亲昵的代际交流，让后文的民间故事有了情感的依托。
 
-⑦ **"Brer Rabbit came along, and he see the Tar-Baby, and he talk to it."**
-- 中文理解：Uncle Remus 描述了 Rabbit 的到来——他" came along"（走过来），看到了 Tar-Baby，然后他对它说话；这个" talk to it"是 Rabbit 的典型行为——他太喜欢说话了。
-- 句子结构：主语（Brer Rabbit）+ 谓语（came along）+ and + 主语（he）+ 谓语（see）+ 宾语（the Tar-Baby）+ and + 谓语（talked to it）。
-- 关键词：came along / see / talk to——"came along"暗示了 Rabbit 的悠闲；"see"是" saw"的方言；"talk to"是 Rabbit 的社交行为。
-- 表达方式：Harris 用简单的"came along, and he see, and he talk"来建立叙事的节奏——这是一个"然后...然后..."的节奏。
-- 为什么这样写：这是 Harris 的"动物拟人化"技巧：Rabbit 是一个"说话者"——他看到任何东西都会"说话"，这个特点导致了他的麻烦。
+---
 
-⑧ **"'Good mornin', Brer Fox! You look so smart and fine, I could kiss you!'"**
-- 中文理解：Rabbit 看到 Tar-Baby 后，误以为它是 Fox，所以他说了这句话——"你看起来真聪明、真漂亮，我都想亲你！"这个"赞美"是 Rabbit 的典型社交方式。
-- 句子结构：直接引语（Good mornin', Brer Fox!）+ 并列句（You look so smart and fine, I could kiss you!）；感叹号暗示了 Rabbit 的热情。
-- 关键词：Good mornin' / smart and fine / could kiss you——"smart and fine"是 Rabbit 对 Fox 的"赞美"；"could kiss you"是 Rabbit 的夸张表达。
-- 表达方式：Harris 用" Good mornin'"这个礼貌问候来展示 Rabbit 的"友好"——但这个"友好"是对着 Tar-Baby说的，它不会回应。
-- 为什么这样写：这是 Harris 的"误认陷阱"技巧：Rabbit 的"赞美"是他社交方式的一部分，但这个"赞美"对着一个"不会说话的 Tar-Baby"说出，导致了他的困境。
+② **"Brer Fox say to hisse'f dat Uncle Remus, he'd put up a game on Brer Rabbit, en he ain't mo'n got de wuds out'n his mout twel Brer Rabbit come a lopin' up de big road, lookin' des ez plump en ez fat en ez sassy ez a Moggin hoss in a barley-patch."**
 
-⑨ **"The Tar-Baby, she sot still, and she never said a word."**
-- 中文理解：Uncle Remus 描述了 Tar-Baby 的反应——它" sot still"（坐着一动不动），而且" never said a word"（一句话也不说）；这个沉默是 Tar-Baby 的"陷阱"——它不回应 Rabbit 的问候。
-- 句子结构：主语（The Tar-Baby）+ 谓语（she sot still）+ and + 谓语（she never said a word）。
-- 关键词：sot still / never said a word——"sot still"是"sat still"的方言；"never said a word"暗示了 Tar-Baby 的"陷阱"——它不回应任何话。
-- 表达方式：Harris 用" she sot still"的重复来暗示 Tar-Baby 的"静止"——它是"一动不动"的。
-- 为什么这样写：这是 Harris 的"沉默陷阱"技巧：Tar-Baby 的"不回应"是它的陷阱——Rabbit 习惯了社交中的"回应"，当没有回应时，他会变得"焦虑"并尝试更极端的方式。
+**中文理解**："狐狸心里盘算着，要在兔子身上设个局，还没等他开口，兔子就大摇大摆地从大路那头蹦过来了——看起来又肥又壮、又神气，活像大麦田里的一匹小马驹。"
 
-⑩ **"Brer Rabbit he talk so pretty, but the Tar-Baby, she never say nothing, and Brer Rabbit, he get mad, and he fool with the Tar-Baby."**
-- 中文理解：Uncle Remus 描述了 Rabbit 的反应——他说得" so pretty"（如此甜美），但 Tar-Baby 从不回应，所以 Rabbit" get mad"（生气了），然后他开始" fool with"（戏弄）Tar-Baby。
-- 句子结构：主语（Brer Rabbit）+ 谓语（he talk）+ 方式状语（so pretty）+ but + 主语（the Tar-Baby）+ 谓语（she never say nothing）+ and + 主语（Brer Rabbit）+ 谓语（he get mad）+ and + 谓语（he fool with）。
-- 关键词：talk so pretty / never say nothing / get mad / fool with——"talk so pretty"是 Rabbit 的特征；"never say nothing"是双重否定；"fool with"是"戏弄"的意思。
-- 表达方式：Harris 用" he get mad"来暗示 Rabbit 的情绪变化——他从" talk so pretty"变成" get mad"，这个变化导致了后面的"麻烦"。
-- 为什么这样写：这是 Harris 的"情绪升级"技巧：Rabbit 的情绪从"友好"升级到"愤怒"，这个升级导致了他伸手去" fool with" Tar-Baby——而这正是 Fox 的陷阱。
+**句子结构**：长句中 Brer Fox say to hisse'f dat 引出狐狸的内心独白；en he ain't mo'n got… 分句写"还没开口"；twel Brer Rabbit come a lopin'… 时间从句描写兔子出场；des ez plump en ez fat en ez sassy ez a Moggin hoss 连用三个"as… as"明喻递进。
+
+**关键词**：put up a game on（在……身上设局）/ come a lopin' up the big road（从大路那头蹦过来）/ plump / fat / sassy（又肥又壮又神气）/ a Moggin hoss in a barley-patch（大麦田里的一匹小马）
+
+**表达方式**：连用三个 as… as 的明喻（又肥、又壮、又神气）和"大麦田里的小马"这一南方比喻，把兔子的"得意忘形"写得鲜活可爱。
+
+**为什么这样写**：哈里斯借这种南方黑人口语化的夸张明喻，让兔子一出场就充满生命力，也预示他"聪明过头"的性格。
+
+---
+
+③ **"Brer Fox, he lay low. Brer Rabbit come prancin' long twel he spy de Tar-Baby, en den he fotch up on his behine legs like he was 'stonished."**
+
+**中文理解**：狐狸伏着不动；兔子大摇大摆走过来，直到一眼瞧见那个焦油娃娃，这才把后腿支起来，像被吓了一跳似的。
+
+**句子结构**：Brer Fox, he lay low 主谓补；Brer Rabbit come prancin' long 主谓状；twel he spy de Tar-Baby 时间状语从句；en den he fotch up on his behine legs like he was 'stonished 并列谓语+方式从句。
+
+**关键词**：lay low（伏着不动）/ prancin' long（大摇大摆走来）/ spy de Tar-Baby（瞧见焦油娃娃）/ fotch up on his behine legs（支起后腿）/ 'stonished（吓了一跳）
+
+**表达方式**：用"伏着"与"大摇大摆"的对照，把狐狸的静与兔子的动并置——兔子越是得意，越往陷阱上撞。
+
+**为什么这样写**：哈里斯以这段"兔子撞上 Tar-Baby"的镜头，把民间故事最经典的"自投罗网"瞬间写得活灵活现，为后文"越挣扎越黏"做铺垫。
+
+---
+
+④ **"Den Brer Fox know dat he bin swop off mighty bad."**
+
+**中文理解**：这时候狐狸知道，自己这次是彻底被骗惨了。
+
+**句子结构**：主谓宾简单句，Den 方言"then"；bin swop off mighty bad 用方言过去完成时与副词短语形容被骗的彻底程度。
+
+**关键词**：know（知道）/ bin swop off（被骗、中招）/ mighty bad（非常彻底）
+
+**表达方式**：用方言短句"彻底被骗惨了"点出狐狸的"醒悟"——简短有力，也是故事节奏的转折。
+
+**为什么这样写**：哈里斯用一个极短的方言短句，让狐狸从"得意"跌到"醒悟"，把民间故事的节拍控制在最紧凑的一拍里。
+
+---
+
+⑤ **"Brer Rabbit talk mighty 'umble."**
+
+**中文理解**：兔子这时候说话就变得谦卑极了。
+
+**句子结构**：主谓宾简单句，talk mighty 'umble 用方言副词 mighty 修饰谦卑的 'umble。
+
+**关键词**：talk（说话）/ mighty 'umble（非常谦卑）
+
+**表达方式**：用极其简单的句子描述兔子的"战术性谦卑"——他知道要示弱才能活命，语气越是平淡越是精妙。
+
+**为什么这样写**：哈里斯以这句"简短的话"暗示兔子的"大智若愚"，为后文"越示弱越占上风"的机智做铺垫。
+
+---
+
+⑥ **"Bimeby he hear somebody call 'im, en way up de hill he see Brer Rabbit settin' cross-legged on a chinkapin log koamin' de pitch outen his har wid a chip."**
+
+**中文理解**：不久他听见有人叫自己，往山坡上一望，看见兔子正盘腿坐在一根山核桃木头上，用一小片木头从自己毛里挑焦油。
+
+**句子结构**：长句中 he hear somebody call 'im 与 he see Brer Rabbit 两个并列主句；settin' cross-legged on a chinkapin log 与 koamin' de pitch outen his har wid a chip 是兔子出场的两个分词短语——悠闲又从容。
+
+**关键词**：Bimeby（不久之后）/ somebody call 'im（有人叫他）/ settin' cross-legged（盘腿坐着）/ a chinkapin log（一根山核桃木）/ koamin' de pitch outen his har（从毛里挑焦油）/ wid a chip（用一小片木头）
+
+**表达方式**：用一连串动作细节（盘腿、挑焦油、用木片）把兔子的"悠闲"写得栩栩如生，与狐狸的"惊慌"形成鲜明对比。
+
+**为什么这样写**：哈里斯借这种从容的细节让读者明白：狐狸自以为赢了，兔子却早已在笑——这是民间故事里"智慧战胜蛮力"的经典手法。
+
+---
+
+⑦ **"'Bred en bawn in a brier-patch, Brer Fox—bred en bawn in a brier-patch!'"**
+
+**中文理解**："我是荆棘里生、荆棘里长的，狐狸先生——荆棘里生、荆棘里长！"
+
+**句子结构**：直接引语，Bred en bawn in a brier-patch 重复两次，前后对称；破折号后再次重申，节奏上形成一种"宣告"的咏叹。
+
+**关键词**：Bred en bawn（生来就）/ in a brier-patch（在荆棘丛里）/ Brer Fox（狐狸先生）
+
+**表达方式**：用"荆棘里生、荆棘里长"这一反复的宣告，把兔子的"胜利"写成一种"天生的特权"——他不是靠智谋逃命，而是本来就是这里的主人。
+
+**为什么这样写**：哈里斯用一句反复的自我宣告收束这个故事，让"机智"升华为"身份"——兔子之所以赢，是因为他本来就属于那片荆棘。
+
+---
+
+⑧ **"He mout, en den agin he mountent."**
+
+**中文理解**："他可能吃了兔子，也可能没吃——不好说。"
+
+**句子结构**：并列短句，He mout（可能吃了）与 he mountent（可能没吃）正反对照，构成一个开放式结尾。
+
+**关键词**：mout（may have，可能）/ mountent（may not have，可能没有）
+
+**表达方式**：用两个短促的方言动词构成"可能/可能没"的并列，让故事在"未完结"的状态里收尾——民间故事的不确定性。
+
+**为什么这样写**：哈里斯借这种"悬而未决"的结尾，保留了民间故事特有的"留白"——让孩子自己想出各种可能。
+
+---
+
+⑨ **"Making search for him through the house and through the yard, she heard the sound of voices in the old man's cabin, and, looking through the window, saw the child sitting by Uncle Remus, his head resting against the old man's arm."**
+
+**中文理解**：（萨莉小姐）在屋里屋外找他，听见老人民 cabin 里有说话声，从窗子望进去，看见孩子坐在雷穆斯身边，脑袋靠着老人的胳膊。
+
+**句子结构**：Making search for him 为现在分词状语，she heard the sound of voices 主句；and, looking through the window, saw the child sitting by Uncle Remus 并列谓语，his head resting against the old man's arm 为独立主格补充。
+
+**关键词**：making search for him（找他）/ the sound of voices（说话声）/ the old man's cabin（老人的小屋）/ looking through the window（从窗子望）/ his head resting against the old man's arm（脑袋靠着老人的胳膊）
+
+**表达方式**：用萨莉小姐"寻声窥窗"的第三人称叙述，把故事从框架（白人女孩听故事）拉回雷穆斯讲述的现场——"孩子靠在老人臂弯"的静默画面，是整则口语故事的温柔底色。
+
+**为什么这样写**：哈里斯以框架叙事包裹民间故事，这个"听"的动作本身是全篇的开关；而孩子依偎老人的细节，暗示代际口头传承的温度。
+
+---
+
+⑩ **"En dey keep on waitin', but no Brer Fox ain't come. Atter 'while Brer Rabbit goes to de do', easy like, en peep out, en dar, stickin' out fum behine de cornder, wuz de tip-een' er Brer Fox's tail."**
+
+**中文理解**：（兔子和家人）一直等着，可 Brer Fox 始终没来。过了一会儿，兔子轻松溜到门边往外一探头——瞧，从墙角后面露出来的，正是 Brer Fox 尾巴尖儿。
+
+**句子结构**：En dey keep on waitin' 主句；but no Brer Fox ain't come 转折；Atter 'while Brer Rabbit goes to de do' 时间状语；easy like 方式；en peep out 并列；en dar, stickin' out fum behine de cornder 伴随；wuz de tip-een' er Brer Fox's tail 系表。
+
+**关键词**：keep on waitin'（一直等着）/ no Brer Fox ain't come（狐狸没来）/ goes to de do'（溜到门边）/ peep out（往外探头）/ de tip-een' er Brer Fox's tail（狐狸尾巴尖）
+
+**表达方式**：用"久等不至 + 探头发现尾巴"的镜头，把狐狸尾随的滑稽写成视觉笑点——兔子其实早察觉，反将一军。
+
+**为什么这样写**：哈里斯以这个结尾镜头收束"狐狸设局"的回合：狐狸自以为潜伏高明，尾巴却露了馅，为兔子一方占上风添一笔轻松的胜利。
+
+## 一句话总结
+
+哈里斯通过雷穆斯的南方黑人口语讲述了一个"狐狸设局—兔子中招—兔子靠出身反杀"的民间故事，展示了"机智胜过蛮力"、"天生本领胜过人为陷阱"的乡村智慧。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| Brer | 兄弟（Brother 的缩写） | "Brer Rabbit and Brer Fox" |
-| Tar-Baby | 焦油娃娃 | "built a Tar-Baby, and he built it so well" |
-| envy | 嫉妒 | "Brer Fox was so envious that he couldn't sleep" |
-| fairy-tales | 童话故事 | "the wonderful fairy-tales of the old man" |
+| weather-beaten face | ph. 布满风霜的脸 | Into the rough, weather-beaten face. |
+| bred and born in a brier-patch | ph. 生于荆棘、长于荆棘 | Bred en bawn in a brier-patch! |
+| swop off | ph. 被骗局中 | He bin swop off mighty bad. |
+| koamin' the pitch | ph. 挑焦油 | Koamin' de pitch outen his har. |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| cabin | 小屋 | "in Uncle Remus's cabin" |
-| chopping-block | 劈柴块 | "sitting on a chopping-block" |
-| trick | 恶作剧 | "to play some trick on Brer Rabbit" |
-| sot | 坐（sat 的方言） | "He sot the Tar-Baby right down" |
+| gazing with intense interest | ph. 极专注地凝视 | Gazing with the most intense interest. |
+| lay low | ph. 埋伏不动 | Brer Fox, he lay low. |
+| settin' cross-legged | ph. 盘腿坐着 | Settin' cross-legged on a chinkapin log. |
+| a Moggin hoss in a barley-patch | ph. 大麦田里的小马 | Lookin' sassy ez a Moggin hoss. |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| road | 路 | "in the middle of the road" |
-| house | 房子 | "kept his house in the best of order" |
-| baby | 婴儿 | "looked like a real baby" |
-
-## 一句话总结
-
-《Uncle Remus and the Wonderful Tar-Baby Story》是 Harris 对非洲裔美国人传统口述故事的经典记录：通过 Uncle Remus 讲述的 Brer Rabbit 和 Tar-Baby 的故事，展示了非洲裔美国人故事传统中的智慧和幽默——Rabbit 因为太喜欢说话和太自信而陷入了 Fox 的陷阱。
+| an expression | n. 表情、神情 | With an expression of intense interest. |
+| to beam | v. 微笑、露出笑容 | The face that beamed kindly upon him. |
+| a chip | n. 木片 | Wid a chip. |
+| cross-legged | adv. 盘腿 | Settin' cross-legged. |

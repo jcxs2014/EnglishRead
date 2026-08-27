@@ -1,112 +1,185 @@
 ---
-状态: 未读
-modified: "2026-08-26"
+状态: 精读完成
+modified: "2026-08-27"
 ---
 
-# 37. THE SPHINX WITHOUT A SECRET
+# 37. The Sphinx Without a Secret
 
-**作者**：Oscar Wilde（1891）
+**作者**：Oscar Wilde
 
 ## 一句话总结
 
-Wilde 通过一个"没有秘密的神秘女人"的故事，讽刺了19世纪伦敦社交界对"神秘感"的盲目追求——Lady Alroy 被称为"斯芬克斯"（无解之谜），但她的"神秘"只是她精心设计的社交面具，实际上她没有任何秘密。
+Wilde 用第一人称叙述者"我"串起两段：先是一则关于 Lord Murchison 的"神秘女人"的闲谈，再是"我"自己追踪一位美丽陌生女子、最终发现她所谓的"秘密"不过是按时去租来的客厅会客——把"谜"拆穿为无谜，嘲讽上流社会把寻常社交包装成传奇的做作。
 
 ## 逐句精读（10 处）
 
-① **"One afternoon I was sitting outside the Café de la Paix, watching the splendour and shabbiness of Parisian life, and wondering at its strange inconsistency."**
-- 中文理解：Wilde 用精确的场景描写来开场——他坐在" Café de la Paix"（巴黎和平咖啡馆）外面，观察着巴黎生活的"辉煌"与"破败"，并对这种"奇怪的矛盾"感到疑惑；这个" splended and shabbiness"和" strange inconsistency"的对比建立了故事的主题。
-- 句子结构：主语（One afternoon I）+ 谓语（was sitting）+ 地点状语（outside the Café de la Paix）+ 分词短语（watching the splendour and shabbiness...）+ 分词短语（wondering at its strange inconsistency）。
-- 关键词：Café de la Paix / splendour and shabbiness / Parisian life / strange inconsistency——"Café de la Paix"是巴黎的标志性咖啡馆；"splendour and shabbiness"建立了故事的核心对比。
-- 表达方式：Wilde 用" splended and shabbiness"和" strange inconsistency"来暗示：巴黎是一个充满矛盾的城市——它的辉煌和破败并存。
-- 为什么这样写：这是 Wilde 的"巴黎背景"建立：巴黎是19世纪欧洲文化的中心，它的"矛盾性"是 Wilde 探讨"外表与实质"主题的完美背景。
+① **"I turned round and saw Lord Murchison."**
 
-② **"When I looked at the people who passed me, I saw that most of them were happy, and I was sad."**
-- 中文理解：Wilde 用简洁的对比来描述他的心情——他看到大多数人是" happy"的，而他是" sad"的；这个对比建立了叙述者的"局外人"身份。
-- 句子结构：主语（When I）+ 谓语（looked）+ 宾语（the people）+ 时间状语（who passed me）+ 主语（I）+ 谓语（saw）+ 宾语（that most of them were happy）+ and + 主语（I）+ 谓语（was sad）。
-- 关键词：most of them were happy / I was sad——这个简单的对比建立了叙述者的"忧郁"状态。
-- 表达方式：Wilde 用最简单的词汇（happy/sad）来表达最深的情感——这个简洁性是 Wilde 文风的特征。
-- 为什么这样写：这是 Wilde 的"叙述者忧郁"建立：叙述者是一个"局外人"，他在巴黎的"辉煌"中感到"忧郁"——这个"忧郁"是故事的情感基调。
+**中文理解**：我转过身，看见了 Lord Murchison。
 
-③ **"I was thinking of my friend Lord Murchison, who had called upon me that morning, and who had told me of his engagement."**
-- 中文理解：Wilde 揭示了叙述者忧郁的原因——他想到了他的朋友 Lord Murchison，他那天早上来访并告诉叙述者他订婚了；这个" engagement"（订婚）是叙述者忧郁的原因。
-- 句子结构：主语（I）+ 谓语（was thinking）+ 地点状语（of my friend Lord Murchison）+ 定语从句（who had called upon me...）+ 定语从句（who had told me...）。
-- 关键词：Lord Murchison / called upon me / engagement——"called upon me"是正式拜访的意思；"engagement"是订婚。
-- 表达方式：Wilde 用" that morning"来建立时间线——Murchison 的来访是当天早上，而叙述者现在坐在咖啡馆里感到忧郁。
-- 为什么这样写：这是 Wilde 的"叙事框架"建立：通过引入 Murchison 的订婚，Wilde 为即将到来的" Lady Alroy"的故事提供了一个"情感背景"——叙述者可能在为某些事情感到忧郁，而 Murchison 的订婚可能加深了他的忧郁。
+**句子结构**：I turned round 并列谓语；and saw Lord Murchison 并列宾语。
 
-④ **"Lord Murchison had told me that he was engaged to be married to a certain Lady Alroy, and that she was the most mysterious woman in London."**
-- 中文理解：Wilde 揭示了 Lady Alroy 的"声誉"——她是"伦敦最神秘的女人"；这个" mysterious"是她被称为"斯芬克斯"的原因。
-- 句子结构：主语（Lord Murchison）+ 谓语（had told me）+ 宾语从句（that he was engaged...）+ and + 宾语从句（that she was the most mysterious woman）。
-- 关键词：engaged to be married / Lady Alroy / most mysterious woman in London——"most mysterious woman"是 Lady Alroy 的核心标签。
-- 表达方式：Wilde 用" most mysterious woman in London"来强调 Lady Alroy 的"神秘"程度——她是"最神秘的"，而不是"神秘的"。
-- 为什么这样写：这是 Wilde 的"神秘标签建立"技巧：通过 Murchison 的介绍，Wilde 建立了 Lady Alroy 作为"神秘女人"的社会声誉——这个"神秘"将被证明是空洞的。
+**关键词**：turned round（转过身）/ saw Lord Murchison（看见 Murchison 勋爵）
 
-⑤ **"I had known Lady Alroy for some years, and I had never been able to discover anything mysterious about her."**
-- 中文理解：Wilde 用" I had never been able to discover anything mysterious about her"来建立故事的反讽——叙述者认识 Lady Alroy 很多年了，但他从未发现她有任何"神秘"之处；这个" never"是反讽的核心。
-- 句子结构：主语（I）+ 谓语（had known）+ 宾语（Lady Alroy）+ 时间状语（for some years）+ and + 主语（I）+ 谓语（had never been able）+ 不定式短语（to discover anything mysterious about her）。
-- 关键词：had known for some years / never been able / anything mysterious——"never"是反讽的核心——Lady Alroy 被称为"最神秘的女人"，但叙述者从未发现任何神秘之处。
-- 表达方式：Wilde 用" anything mysterious"来暗示：Lady Alroy 的"神秘"不是"真正的神秘"，而是"声称的神秘"。
-- 为什么这样写：这是 Wilde 的"反讽建立"技巧：Lady Alroy 被称为"最神秘的女人"，但她周围的人从未发现任何神秘之处——这个"声誉"与"实质"之间的差距是 Wilde 讽刺的核心。
+**表达方式**：用最简的动作开场，把叙述者"我"直接放进巴黎咖啡馆的场景，引出人物。
 
-⑥ **"Lady Alroy was a woman of no particular position, of no particular beauty, of no particular gifts, but she was called mysterious."**
-- 中文理解：Wilde 用一连串的" no particular"来描述 Lady Alroy——她没有特别的地位、没有特别的美貌、没有特别的才华，但她被称为"神秘的"；这个" no particular...but"的对比是反讽的核心。
-- 句子结构：主语（Lady Alroy）+ 系动词（was）+ 表语（a woman）+ 介词短语（of no particular position...of no particular beauty...of no particular gifts）+ but + 主语补语（she was called mysterious）。
-- 关键词：no particular position / no particular beauty / no particular gifts / was called mysterious——三个" no particular"和一个" was called mysterious"形成对比——她没有任何特别之处，但她"被称为"神秘的。
-- 表达方式：Wilde 用" was called"（被称为）而不是" was"（是）——这个" called"暗示了"神秘"是她被赋予的标签，而不是她的实质。
-- 为什么这样写：这是 Wilde 的"标签与实质"主题建立：Lady Alroy 被"称为"神秘，但她的实质是" no particular"——这个对比是 Wilde 对维多利亚时代社交界"标签文化"的讽刺。
+**为什么这样写**：Wilde 以一句极简引子触发整则"神秘"故事，像翻开一本社交观察笔记。
 
-⑦ **"I met her at a ball at Lady Bernstein's, and I was struck by her manner."**
-- 中文理解：Wilde 描述了他与 Lady Alroy 的相遇——他在 Lady Bernstein 的舞会上遇到她，并被她的" manner"（举止）所打动；这个" manner"是 Lady Alroy 展示"神秘感"的主要方式。
-- 句子结构：主语（I）+ 谓语（met）+ 宾语（her）+ 地点状语（at a ball at Lady Bernstein's）+ and + 主语（I）+ 谓语（was struck）+ 方式状语（by her manner）。
-- 关键词：at a ball / Lady Bernstein's / struck by her manner——" manner"是 Lady Alroy 制造"神秘感"的主要工具。
-- 表达方式：Wilde 用" struck by her manner"来暗示：Lady Alroy 的"神秘"是通过她的"举止"来表现的——她的举止让人觉得她"有秘密"，即使她实际上没有。
-- 为什么这样写：这是 Wilde 的"神秘是通过举止表现的"技巧：Lady Alroy 的"神秘"不是内容，而是"方式"——她的举止让人觉得她有秘密。
+---
 
-⑧ **"She never spoke of herself, and she never spoke of other people."**
-- 中文理解：Wilde 用两个简单的否定句来描述 Lady Alroy 的社交策略——她从不说关于自己的事，她也从不说关于别人的事；这个"从不...也从不做"的并列暗示了这是她精心设计的"神秘"策略。
-- 句子结构：主语（She）+ 谓语（never spoke）+ 地点状语（of herself）+ and + 主语（she）+ 谓语（never spoke）+ 地点状语（of other people）。
-- 关键词：never spoke of herself / never spoke of other people——两个" never"暗示了 Lady Alroy 的社交策略：她既不说自己，也不说别人——她保持沉默，从而制造"神秘感"。
-- 表达方式：Wilde 用" never...never"的并列来强调 Lady Alroy 的"双重沉默"——她既不自白，也不八卦——这个沉默就是她的"神秘"。
-- 为什么这样写：这是 Wilde 的"沉默作为神秘"技巧：Lady Alroy 的"神秘"是通过她的"沉默"来制造的——她既不谈论自己，也不谈论别人——这个沉默让人"觉得"她有秘密。
+② **"We had not met since we had been at college together, nearly ten years before, so I was delighted to come across him again, and we shook hands warmly."**
 
-⑨ **"She told me that she had a secret, and she told me that it was a very strange one."**
-- 中文理解：Wilde 用 Lady Alroy 自己的话来建立故事的"表面神秘"——她告诉叙述者她有一个秘密，而且这个秘密"很奇怪"；但这个"奇怪"从未被揭示。
-- 句子结构：主语（She）+ 谓语（told）+ 宾语（me）+ 宾语从句（that she had a secret）+ and + 谓语（she told me）+ 宾语从句（that it was a very strange one）。
-- 关键词：had a secret / a very strange one——Lady Alroy 声称有秘密，但这个秘密从未被揭示——这就是" the Sphinx without a secret"。
-- 表达方式：Wilde 用" a very strange one"来暗示 Lady Alroy 的话：这个秘密很奇怪——但我们从未知道它是什么，因为这个秘密实际上不存在。
-- 为什么这样写：这是 Wilde 的"声称但未揭示的秘密"技巧：Lady Alroy 声称有秘密，但这个秘密从未被揭示——这就是"没有秘密的斯芬克斯"——她有"斯芬克斯"的外表，但没有"秘密"的内容。
+**中文理解**：我们自大学同窗后将近十年没见，所以再次偶遇我满心欢喜，我们热情地握了手。
 
-⑩ **"The next day I called upon Lady Alroy, and I asked her what her secret was."**
-- 中文理解：Wilde 描述了叙述者的行动——他第二天去拜访 Lady Alroy，问她的秘密是什么；这个" asked her what her secret was"是故事的关键时刻。
-- 句子结构：主语（The next day I）+ 谓语（called upon）+ 宾语（Lady Alroy）+ and + 主语（I）+ 谓语（asked）+ 宾语（her）+ 宾语从句（what her secret was）。
-- 关键词：called upon / asked her what her secret was——叙述者直接问 Lady Alroy 她的秘密是什么——这个"直接"是故事的关键转折点。
-- 表达方式：Wilde 用" The next day"来建立时间线——叙述者没有等待，他第二天就去问" what her secret was"。
-- 为什么这样写：这是 Wilde 的"揭穿时刻"技巧：叙述者的直接问题揭穿了 Lady Alroy 的"神秘"——她的秘密实际上不存在。
+**句子结构**：We had not met since we had been at college 主句带 since 从句；nearly ten years before 状语；so I was delighted 结果句；and we shook hands warmly 并列。
+
+**关键词**：not met since college（大学后未再见）/ nearly ten years before（近十年前）/ delighted to come across（偶遇欣喜）/ shook hands warmly（热情握手）
+
+**表达方式**：用"十年同窗 + 热情重逢"铺垫友情，为后文 Murchison 的"心事"提供倾诉语境。
+
+**为什么这样写**：Wilde 以这种体面社交的寒暄，确立叙述者与 Murchison 的信任，使后者愿吐露"秘密"。
+
+---
+
+③ **"I had liked him immensely, he was so handsome, so high-spirited, and so honourable."**
+
+**中文理解**：我一向极喜欢他——他是那么英俊、那么朝气蓬勃，又那么正直。
+
+**句子结构**：I had liked him immensely 主句；he was so handsome, so high-spirited, and so honourable 并列表语解释原因。
+
+**关键词**：liked him immensely（极喜欢他）/ handsome（英俊）/ high-spirited（朝气蓬勃）/ honourable（正直）
+
+**表达方式**：用三个"so"排比形容，把 Murchison 写成完美绅士，反衬后文他对"女人之谜"的无能为力。
+
+**为什么这样写**：Wilde 借这套赞美，让"正直人也会被神秘吸引"的悖论更明显。
+
+---
+
+④ **"He looked anxious and puzzled, and seemed to be in doubt about something."**
+
+**中文理解**：他神色焦虑又困惑，似乎对什么事拿不定主意。
+
+**句子结构**：He looked anxious and puzzled 系表；and seemed to be in doubt 并列系表；about something 状语。
+
+**关键词**：anxious and puzzled（焦虑又困惑）/ seemed to be in doubt（似乎拿不定主意）
+
+**表达方式**：用"焦虑困惑"的表情，把平静重逢扭成悬念——这位完美绅士心里有鬼。
+
+**为什么这样写**：Wilde 以这个表情变化，正式把故事推入"神秘"轨道。
+
+---
+
+⑤ **"'My dear Gerald,' I said, 'women are meant to be loved, not to be understood.' 'I cannot love where I cannot trust,' he replied."**
+
+**中文理解**："我亲爱的 Gerald，"我说，"女人是用来被爱的，不是用来被理解的。""我无法去爱一个我不信任的人，"他答道。
+
+**句子结构**：'My dear Gerald,' I said, 倒装引语；women are meant to be loved, not to be understood 并列被动不定式；'I cannot love where I cannot trust,' he replied 带 where 状语从句。
+
+**关键词**：meant to be loved（注定被爱）/ not to be understood（而非被理解）/ cannot love where I cannot trust（不信任就不爱）
+
+**表达方式**：用"爱而非理解"的格言式对白，点出全篇主题——理解与否，本是旁观者（叙述者）的执念。
+
+**为什么这样写**：Wilde 借这句机锋，让叙述者的"探究欲"与 Murchison 的"信任观"形成对立。
+
+---
+
+⑥ **"Its beauty was a beauty moulded out of many mysteries— the beauty, in fact, which is psychological, not plastic—and the faint smile that just played across the lips."**
+
+**中文理解**：她的美是由诸多谜团塑成的美——事实上那是一种心理上的、而非形体上的美——以及那浮在唇边淡淡的微笑。
+
+**句子结构**：Its beauty was a beauty moulded out of many mysteries 主系表带过去分词；the beauty … which is psychological, not plastic 破折号同位定语从句；and the faint smile that … 并列宾语带定语从句。
+
+**关键词**：moulded out of many mysteries（由谜团塑成）/ psychological, not plastic（心理的而非形体的）/ the faint smile（淡淡的微笑）/ played across the lips（浮过唇边）
+
+**表达方式**：用"心理之美 vs 形体之美"的区分，把"神秘女子"的美学化，呼应标题的 sphinx（斯芬克斯）。
+
+**为什么这样写**：Wilde 以这段肖像，把"无秘密"的真相先包装成"有深度"，为结尾反差蓄势。
+
+---
+
+⑦ **"I wandered up and down that wretched Row, peering into every carriage, and waiting for the yellow brougham; but I could not find ma belle inconnue, and at last gave it up."**
+
+**中文理解**：我在那条讨厌的林荫道上徘徊，窥探每一辆马车，等着那辆黄色双轮轿厢；可我没能找到我的"无名美人"，终于放弃了。
+
+**句子结构**：I wandered up and down 主谓；peering into … and waiting for … 伴随分词；but I could not find … 转折；and at last gave it up 并列。
+
+**关键词**：wandered up and down（徘徊）/ peering into every carriage（窥探每辆马车）/ the yellow brougham（黄色轿厢）/ ma belle inconnue（我的无名美人）/ gave it up（放弃）
+
+**表达方式**：用侦探式的"逐车窥探"，把叙述者的追踪写成滑稽的单恋式守候。
+
+**为什么这样写**：Wilde 以自嘲的追踪失败，暗示"谜"本就追不到——因为它不存在。
+
+---
+
+⑧ **"She hesitated for a moment, glanced round to see if any one was near us, and then said, 'Yes; to-morrow at a quarter to five.'"**
+
+**中文理解**：她犹豫了片刻，四下张望有没有人近前，然后说："好；明天四点三刻。"
+
+**句子结构**：She hesitated 主谓；glanced round to see … 并列伴随；and then said 并列；直接引语带时间。
+
+**关键词**：hesitated for a moment（犹豫片刻）/ glanced round（四下张望）/ if any one was near（是否有人近前）/ to-morrow at a quarter to five（明天四点三刻）
+
+**表达方式**：用"张望无人才答应"的神秘动作，把一次普通约会写得像密谋，强化 sphinx 错觉。
+
+**为什么这样写**：Wilde 借这个戏剧化细节，让"秘密"的仪式感达到顶点，以便结尾轻松拆穿。
+
+---
+
+⑨ **"She stood up, and, looking me straight in the face, said, 'Lord Murchison, there is nothing to tell you.'—'You went to meet some one,' I cried; 'this is your mystery.'"**
+
+**中文理解**：她站起身，直视我的眼睛，说："Murchison 勋爵，没什么可告诉您的。"——"您是去见什么人，"我喊道，"这就是您的秘密。"
+
+**句子结构**：She stood up 并列；looking me straight in the face 伴随分词；said 直接引语；破折号后 'You went to meet some one,' I cried 倒装引语；this is your mystery 收束。
+
+**关键词**：stood up（站起身）/ looking me straight in the face（直视我）/ there is nothing to tell you（没什么可告诉您）/ went to meet some one（去见什么人）/ this is your mystery（这就是您的秘密）
+
+**表达方式**：用"直视 + 否认"与叙述者的"喊破"，把谜面与谜底正面相撞——她否认，他却坚信有秘密。
+
+**为什么这样写**：Wilde 以这场对峙，凸显"神秘"纯属旁观者（叙述者）的投射。
+
+---
+
+⑩ **"He took out the morocco case, opened it, and looked at the photograph."**
+
+**中文理解**：他掏出那个摩洛哥皮夹，打开，端详起那张照片。
+
+**句子结构**：He took out the morocco case 并列谓语；opened it 并列；and looked at the photograph 并列。
+
+**关键词**：took out the morocco case（掏出摩洛哥皮夹）/ opened it（打开）/ looked at the photograph（端详照片）
+
+**表达方式**：用三个短促动作收尾，把"秘密"落到一个实物——一张照片，悬念轻轻落地。
+
+**为什么这样写**：Wilde 以这个去戏剧化的结尾，让"斯芬克斯无秘密"的主题尘埃落定：所谓谜，只是上流社交的做作。
+
+## 一句话总结
+
+Wilde 用两段巴黎社交轶事（Murchison 的"神秘女人"与叙述者自追的"无名美人"）说明：所谓"斯芬克斯般的秘密"往往并不存在，它只是旁观者把寻常约会包装成传奇的想象——美在心理，谜在人心，而真相朴素得近乎无趣。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| Sphinx without a secret | 没有秘密的斯芬克斯 | "The Sphinx Without a Secret" |
-| mysterious | 神秘的 | "the most mysterious woman in London" |
-| splender and shabbiness | 辉煌与破败 | "the splendour and shabbiness of Parisian life" |
-| inconsistency | 矛盾 | "wondering at its strange inconsistency" |
+| high-spirited | adj. 朝气蓬勃的 | he was so handsome, so high-spirited, and so honourable |
+| moulded out of many mysteries | ph. 由诸多谜团塑成 | a beauty moulded out of many mysteries |
+| psychological, not plastic | ph. 心理的而非形体的 | the beauty which is psychological, not plastic |
+| ma belle inconnue | ph. 我的无名美人（法） | I could not find ma belle inconnue |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| engagement | 订婚 | "his engagement to Lady Alroy" |
-| manner | 举止 | "I was struck by her manner" |
-| Café de la Paix | 和平咖啡馆 | "outside the Café de la Paix" |
+| anxious and puzzled | ph. 焦虑又困惑 | He looked anxious and puzzled |
+| the yellow brougham | n. 黄色轿厢马车 | waiting for the yellow brougham |
+| glanced round | ph. 四下张望 | glanced round to see if any one was near |
+| the morocco case | n. 摩洛哥皮夹 | He took out the morocco case |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| secret | 秘密 | "she had a secret" |
-| ball | 舞会 | "at a ball at Lady Bernstein's" |
-| London | 伦敦 | "the most mysterious woman in London" |
-
-## 一句话总结
-
-《The Sphinx Without a Secret》是 Wilde 对维多利亚时代社交界"神秘感崇拜"的讽刺：Lady Alroy 被称为"最神秘的女人"，但她的"神秘"只是精心设计的社交面具——Wilde 用这个"没有秘密的斯芬克斯"来批判那些"制造神秘感"却"没有实质"的人。
+| a diary | n. 日记 | I turned round and saw Lord Murchison |
+| college | n. 大学 | since we had been at college together |
+| a smile | n. 微笑 | the faint smile that played across the lips |
+| a photograph | n. 照片 | looked at the photograph |

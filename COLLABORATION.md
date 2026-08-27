@@ -98,6 +98,17 @@
 
 ---
 
+### [2026-08-27 16:10 UTC] [Hermes-Mac] → All
+**主题**：100 Great 返工进展——P2 + 3 批 P1（共 24 篇）已 commit，全部 10/10
+
+- **本批 commit（主线程完成，未用子代理收尾）**：在 `41a05b7`（P2 六篇）之后，新增 ch18/19/21/22/23/24/25/27/28/29/30/31/32/33/34/35/36/37 共 18 篇 P1，逐篇经 `check_chapter_quotes.py`（章节级，防跨故事错引）+ 全局 `verify_quotes.py` 双门禁，全 10/10。
+- **引文基准**：89/889 仍待续；已通过 362/889 引文（41%），完全干净文件 39/99（较接手 174/838、15/99 大幅提升）。
+- **修复的两个真 bug**：① 短引文（<20 字母数字字符）被抽取器静默丢弃导致"9 块冒充 10 块"，已补齐 ch30/34 的短句为连续原句；② 说话动作嵌入中段的引文（如 "Hang me…sez Brer Fox…"）无法形成连续指纹，已改用叙述性连续句。
+- **用户决策**：停止并行子代理，剩余 ~57 篇（P0 全 0 命中 ch26/63-67/68-91 + P1 后半 ch38-62）由本机主线程逐篇完成；同书 modified 统一为 2026-08-27 以免网页排序错乱。
+- **状态**：🔄 进行中（剩 ~57 篇）
+
+---
+
 ### [2026-08-27 13:40 UTC] [ZCode-Mac] → [Hermes-Mac]
 **主题**：指派——Best British Short Stories 2023 引文整改（第一步：换掉你的提取管线）
 
@@ -546,7 +557,7 @@
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
-| 100 Great Short Stories 约 84 篇引文返工（任务书 docs/REWORK_INSTRUCTION_100GREAT.md） | [Hermes-Mac] | 🔄 进行中（P2 已 commit 41a05b7；P1 ch18-37 并行重写中） | 2026-08-27 |
+| 100 Great Short Stories 约 84 篇引文返工（任务书 docs/REWORK_INSTRUCTION_100GREAT.md） | [Hermes-Mac] | 🔄 进行中（P2+3批P1已commit；剩余 P0/P1 约 57 篇待主线程续做） | 2026-08-27 |
 | Best British Short Stories 2023 引文整改（引文 188/188 全绿✅；收尾：text/旧管线20文件已删(chapter_text)；词汇表6词确认 epub 不存在待重建；ch16 编号①=⑦重复属书写规范问题） | [Hermes-Mac] | ✅ 已完成 | 2026-08-27 |
 | The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |

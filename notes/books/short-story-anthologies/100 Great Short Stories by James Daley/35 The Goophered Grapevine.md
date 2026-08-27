@@ -1,113 +1,185 @@
 ---
-状态: 未读
-modified: "2026-08-26"
+状态: 精读完成
+modified: "2026-08-27"
 ---
 
-# 35. THE GOOPHERED GRAPEVINE
+# 35. The Goophered Grapevine
 
-**作者**：Charles Waddell Chesnutt（1889）
+**作者**：Charles Waddell Chesnutt（1888）
 
 ## 一句话总结
 
-Chesnutt 通过 Uncle Julius 讲述的"被诅咒的葡萄藤"的故事，展示了19世纪美国南方社会中种族关系和民间传说的交织——一个白人夫妇买下了一个前奴隶的葡萄园，却发现这个葡萄园被" goopher"（巫术）诅咒。
+来自北方的白人种植园主在 Patesville 的葡萄园里听到 Uncle Julius 讲述一个"被施了魔咒的葡萄园"的故事——葡萄藤的命运被一个名叫 Henry 的黑人奴隶的头发与生命力所绑定，一旦藤枯萎，Henry 也随之消亡；Chesnutt 借这个"恐怖故事"，微妙地质疑了北方资本对南方土地与奴隶制伤痛的无知。
 
 ## 逐句精读（10 处）
 
 ① **"Some years ago my wife was in poor health, and our family doctor, in whose skill and honesty I had implicit confidence, advised a change of climate."**
-- 中文理解：Chesnutt 用第一人称叙述者开始他的故事——他的妻子健康状况不佳，医生建议"换换气候"；这个" change of climate"是整个故事的触发点。
-- 句子结构：主语（Some years ago my wife）+ 谓语（was）+ 表语（in poor health）+ and + 主语（our family doctor）+ 非限制性定语从句（in whose skill...）+ 谓语（advised）+ 宾语（a change of climate）。
-- 关键词：poor health / family doctor / implicit confidence / advised a change of climate——"implicit confidence"建立了叙述者对医生的信任；"change of climate"是医生建议的治疗方案。
-- 表达方式：Chesnutt 用" Some years ago"来建立叙事的时间框架——这是一个"回忆"式的叙事。
-- 为什么这样写：这是 Chesnutt 的"健康危机"开场：妻子的" poor health"是触发整个故事的事件——为了妻子的健康，叙述者决定搬到乡下。
 
-② **"We found a small place in one of the quiet, sunny valleys among the foothills of the Blue Ridge."**
-- 中文理解：Chesnutt 描述了他们找到的地方——一个在蓝岭山脉丘陵地带的"安静、阳光明媚的山谷"中的"小地方"；这个" quiet, sunny"描述建立了故事的"田园"背景。
-- 句子结构：主语（We）+ 谓语（found）+ 宾语（a small place）+ 地点状语（in one of the quiet, sunny valleys）+ 地点状语（among the foothills of the Blue Ridge）。
-- 关键词：small place / quiet, sunny valleys / foothills / the Blue Ridge——"quiet, sunny"建立了田园氛围；"Blue Ridge"是阿巴拉契亚山脉的一部分。
-- 表达方式：Chesnutt 用" small place"来暗示：这个家是"谦逊的"，不是"奢华的"。
-- 为什么这样写：这是 Chesnutt 的"田园背景建立"技巧：通过描述这个"安静、阳光明媚"的山谷，Chesnutt 为接下来的"民间传说"故事建立了一个理想的叙事环境。
+**中文理解**：几年前，我妻子身体不好；我们的家庭医生，我完全信任他的医术与诚实，建议我们换个气候。
 
-③ **"A more desirable place to those who were in search of health and quiet could not have been found in all the broad South."**
-- 中文理解：Chesnutt 用这个句子来强调这个地方的优势——对于那些"寻找健康和宁静"的人来说，这个地方是整个南方最理想的；这个" health and quiet"暗示了叙述者搬家的目的。
-- 句子结构：主语（A more desirable place）+ 谓语（could not have been found）+ 地点状语（in all the broad South）。
-- 关键词：more desirable place / in search of health and quiet / the broad South——"the broad South"是南方的文学性称呼。
-- 表达方式：Chesnutt 用否定句（could not have been found）来强调肯定的事实——这是最高级的表达方式。
-- 为什么这样写：这是 Chesnutt 的"理想田园"建立：这个地方的"理想"与后面的"诅咒"形成对比——一个看似完美的地方，却有着隐藏的秘密。
+**句子结构**：主句 my wife was in poor health；并列 and 连接 our family doctor advised a change of climate，其中 in whose skill and honesty I had implicit confidence 是嵌套的非限定定语从句，插入于 doctor 与 advised 之间。
 
-④ **"My wife was not long in gaining strength, and we were so much attached to the place that we concluded to buy it."**
-- 中文理解：Chesnutt 描述了妻子的康复和他们对这个地方的" attachment"（依恋）——他们决定买下这个地方；这个" attachment"暗示了他们对这个地方的情感投入。
-- 句子结构：主语（My wife）+ 谓语（was）+ 表语（not long）+ 方式状语（in gaining strength）+ and + 主语（we）+ 谓语（were so much attached）+ 结果状语（that we concluded to buy it）。
-- 关键词：not long in gaining strength / attached to the place / concluded to buy——"attached"暗示了情感投入；"concluded to buy"暗示了他们把这个地方当作"家"。
-- 表达方式：Chesnutt 用" so much attached...that..."的结构来暗示：他们的"依恋"是强烈的。
-- 为什么这样写：这是 Chesnutt 的"家庭建立"技巧：叙述者和他的妻子在这个地方找到了"家"的感觉——这个"家"的感觉将因为 Uncle Julius 的故事而变得复杂。
+**关键词**：in poor health / implicit confidence / a change of climate —— "implicit confidence"既是"对医生"的信任，也是叙述者自我标榜的"理性人"姿态。
 
-⑤ **"We had not been long in the house, however, before we began to find that there were disagreeable things about it."**
-- 中文理解：Chesnutt 用" however"来转折——他们住进去不久就开始发现这个房子有"令人不快的方面"；这个" disagreeable things"是故事的转折点。
-- 句子结构：主语（We）+ 谓语（had not been long）+ 地点状语（in the house）+ 时间状语（however, before...）+ 主语（we）+ 谓语（began to find）+ 宾语从句（that there were disagreeable things...）。
-- 关键词：not long in the house / disagreeable things——"disagreeable things"是故事的关键词，它暗示了" goopher"（巫术）的存在。
-- 表达方式：Chesnutt 用" however"来暗示：接下来要说的事情与前面的"健康"和"宁静"形成对比。
-- 为什么这样写：这是 Chesnutt 的"转折点"技巧：通过" however"的转折，Chesnutt 引入了故事中的"冲突"——这个看似完美的地方有"问题"。
+**表达方式**：Chesnutt 用一个"理性叙述者"的声音开篇——他是医生、是北方人、是"有判断力的人"，这种口吻本身就是故事反讽的一部分。
 
-⑥ **"The first thing that troubled us was the grapevine."**
-- 中文理解：Chesnutt 用最简单的句子来引入"葡萄藤"——这是第一个让他们困扰的东西；这个" grapevine"是故事的核心道具。
-- 句子结构：主语（The first thing）+ 谓语（that troubled us）+ 系动词（was）+ 表语（the grapevine）。
-- 关键词：first thing / troubled us / the grapevine——" grapevine"是故事的关键词，它与标题" goophered grapevine"直接相关。
-- 表达方式：Chesnutt 用最简单的句子来引入最重要的道具——这个简洁性与故事的"复杂性"形成对比。
-- 为什么这样写：这是 Chesnutt 的"核心道具引入"技巧：通过最简单的句子，Chesnutt 建立了"葡萄藤"作为故事核心道具的地位。
+**为什么这样写**：叙述者的"理性自信"与后面 Uncle Julius 口口声声的"荒诞故事"形成张力——真正天真的可能是这个北方人。
 
-⑦ **"It was a large, flourishing vine, that bore the largest grapes I had ever seen."**
-- 中文理解：Chesnutt 描述了葡萄藤的外观——它是一根" large, flourishing"（大而茂盛）的藤，长着"最大的葡萄"；这个" largest grapes"暗示了某种"超自然"的存在。
-- 句子结构：主语（It）+ 系动词（was）+ 表语（a large, flourishing vine）+ 定语从句（that bore the largest grapes）+ 主语（I）+ 谓语（had ever seen）。
-- 关键词：large, flourishing / bore the largest grapes / I had ever seen——" largest I had ever seen"暗示了这个葡萄藤的"非凡性"。
-- 表达方式：Chesnutt 用" flourishing"来形容葡萄藤的健康——这个"健康"与后面的" goopher"（巫术）形成对比。
-- 为什么这样写：这是 Chesnutt 的"超自然暗示"技巧：通过描述葡萄藤的"非凡"大小，Chesnutt 暗示了这个葡萄藤不是"普通"的——它是" goophered"（被诅咒的）。
+---
 
-⑧ **"One day Uncle Julius came to see us, and we asked him about the grapevine."**
-- 中文理解：Chesnutt 引入了一个关键人物—— Uncle Julius；叙述者问 Uncle Julius 关于葡萄藤的事情；这个" Uncle Julius"是故事的讲述者。
-- 句子结构：主语（One day Uncle Julius）+ 谓语（came）+ 地点状语（to see us）+ and + 主语（we）+ 谓语（asked him）+ 宾语（about the grapevine）。
-- 关键词：Uncle Julius / asked him about the grapevine——"Uncle"暗示了这个人物是黑人仆人的身份。
-- 表达方式：Chesnutt 用" Uncle Julius"这个称呼来建立 Uncle Julius 在故事中的特殊地位——他是一个"讲述者"，而不是"听众"。
-- 为什么这样写：这是 Chesnutt 的"嵌套叙事"建立：通过引入 Uncle Julius 作为"讲故事的人"，Chesnutt 建立了一个"故事中的故事"的结构——叙述者听 Uncle Julius 讲关于葡萄藤的故事。
+② **"There was a red brick market-house in the public square, with a tall tower, which held a four-faced clock that struck the hours, and from which there pealed out a curfew at nine o'clock."**
 
-⑨ **"Uncle Julius was a middle-aged man of the African race, who had been born and raised on the place, and who had, as it seemed, known all about it for years."**
-- 中文理解：Chesnutt 描述了 Uncle Julius 的身份——他是一个"非洲裔"的中年男子，出生并成长于这个地方，他似乎对这个地方了如指掌；这个" known all about it for years"暗示了 Uncle Julius 知道这个葡萄园的秘密。
-- 句子结构：主语（Uncle Julius）+ 系动词（was）+ 表语（a middle-aged man）+ 定语从句（of the African race）+ 定语从句（who had been born and raised...）+ 定语从句（who had...known all about it for years）。
-- 关键词：middle-aged / African race / born and raised on the place / known all about it for years——"born and raised on the place"建立了 Uncle Julius 与这个地方的深层联系；"known all about it for years"暗示了他知道" goopher"的秘密。
-- 表达方式：Chesnutt 用" as it seemed"来暗示：Uncle Julius 的知识可能超出他的" seem"（看起来）。
-- 为什么这样写：这是 Chesnutt 的"民间智慧承载者"建立：Uncle Julius 是非洲裔美国人传统民间故事的承载者，他对这个地方的了解比任何人都深。
+**中文理解**：公共广场上有一座红砖的市场大楼，带一座高塔，塔上挂着一座四面钟，每到整点报时，九点时则鸣响宵禁钟声。
 
-⑩ **"'De vin', said Uncle Julius, 'is goophered, and nobody but me knows who did it.'"**
-- 中文理解：Uncle Julius 说了这个故事的核心台词——葡萄藤被" goophered"（巫术诅咒）了，只有他知道是谁做的；这个" goophered"是整个故事的核心。
-- 句子结构：直接引语；主语（De vin）+ 谓语（said Uncle Julius）+ 宾语从句（is goophered）+ and + 宾语从句（nobody but me knows who did it）。
-- 关键词：goophered / nobody but me knows——"goophered"是故事的关键词，它是一种非洲裔美国人传统中的巫术诅咒。
-- 表达方式：Chesnutt 用 Uncle Julius 的方言（" De vin" = "The vine"）来建立他的"口述故事"身份。
-- 为什么这样写：这是 Chesnutt 的"故事核心揭示"技巧：通过 Uncle Julius 的这句话，Chesnutt 揭示了故事的核心——葡萄藤被" goopher"诅咒了，而 Uncle Julius 是唯一知道真相的人。
+**句子结构**：主句 There was a red brick market-house；with a tall tower 作后置定语；which held a four-faced clock 定语从句；that struck the hours 嵌套定语从句；and from which there pealed out a curfew at nine o'clock 并列定语从句，which 指代 the tall tower。
+
+**关键词**：a red brick market-house / a tall tower / a four-faced clock / a curfew at nine o'clock —— "curfew"（宵禁钟声）暗示 Patesville 并非完全的"太平"。
+
+**表达方式**：Chesnutt 用建筑细节把"南方小城"具象化——四面钟、宵禁钟声、红砖市场，都是"秩序"的符号。
+
+**为什么这样写**：这一句是叙述者"观察"的示范——他习惯用"细节堆叠"来建立"客观印象"，正是这种"观察习惯"让他在后文轻易被 Uncle Julius 的故事迷惑。
+
+---
+
+③ **"The vines—here partly supported by decayed and broken-down trellises, there twining themselves among the branches of the slender saplings which had sprung up among them—grew in wild and unpruned luxuriance"**
+
+**中文理解**：葡萄藤——有的还被朽坏倒塌的棚架支着，有的自己缠在从它们中间长出来的小树苗的枝干上——长得狂放而无人修剪。
+
+**句子结构**：主句 The vines grew in wild and unpruned luxuriance；中间两个破折号之间的插入语，here … there … 对照，present participle partly supported 与 twining themselves 并列，作 vines 的方式说明；which had sprung up among them 定语从句。
+
+**关键词**：decayed and broken-down trellises / twining themselves / wild and unpruned luxuriance —— "twining themselves"的自反代词暗示藤蔓"自行其是"的生命力。
+
+**表达方式**：Chesnutt 用"无人看管的狂长"来暗示这片土地曾经被战争撕碎——藤蔓的野蛮，是"文明缺席"的视觉证据。
+
+**为什么这样写**：葡萄园的"荒废"是整个故事的舞台背景，也是后来"北方资本开发南方"叙事的视觉铺垫。
+
+---
+
+④ **"Dey smoked on awhile, en bimeby ole mars say, 'Well, a bahgin's a bahgin, but you en me is good fren's, en I doan wan' ter see you lose all de money you paid fer dat nigger;"**
+
+**中文理解**：他们又抽了一阵子烟，过一会儿老主人说："好吧，买卖归买卖，可你我也是好朋友，我不想看你赔光买下那个黑鬼的钱。"
+
+**句子结构**：Dey smoked on awhile 主句；en bimeby ole mars say 顺接；其后整段是直接引语，a bahgin's a bahgin 是押韵谚语，but 引出转折；you en me is good fren's 是方言化的主系表句。
+
+**关键词**：a bahgin's a bahgin / good fren's / lose all de money —— "bahgin's a bahgin"（买卖归买卖）是 Uncle Julius 故事的经典句式。
+
+**表达方式**：Chesnutt 用"方言拼写"（bahgin / fren's / doan wan' ter）让 Uncle Julius 的声音鲜活可听，也让读者第一次意识到"故事的讲述者本身就是一个角色"。
+
+**为什么这样写**：这是 Uncle Julius 的"交易伦理"登场——他懂得"好买卖"比"好道德"更重要，这也是后文"倒卖 Henry"的伏笔。
+
+---
+
+⑤ **"a nigger w'at he could make a thousan' dollars a year off'n didn' grow on eve'y huckleberry bush."**
+
+**中文理解**：一个能让他每年赚一千美元的黑鬼，可不是到处都能碰到的。
+
+**句子结构**：省略主语的完整句，a nigger w'at he could make a thousan' dollars a year off'n 主语，didn' grow 谓语，on eve'y huckleberry bush 地点状语。
+
+**关键词**：a thousan' dollars a year / didn' grow on eve'y huckleberry bush —— "huckleberry bush"是"随处可见的灌木"，与"稀有资产"形成荒诞对照。
+
+**表达方式**：Uncle Julius 用一句"经济学的比喻"把奴隶当作"会下蛋的鹅"——这个比喻既是故事的笑点，也是 Chesnutt 对奴隶制的冷峻控诉。
+
+**为什么这样写**：这一句把 Henry 的"生命"量化成"一千美元"——他的头发、他的年龄，都成了可以买卖的数字。
+
+---
+
+⑥ **"Mars Dugal' had all de dirt dug away fum under de roots er all de scuppernon' vimes, an' let 'em stan' dat away fer a week er mo'."**
+
+**中文理解**：马·杜加尔让所有人把每个 scuppernong 葡萄藤根下的土都挖开，就这么晾着一周多。
+
+**句子结构**：Mars Dugal' had all de dirt dug away 使役结构（have + 宾语 + 过去分词）；fum under de roots er all de scuppernon' vimes 地点状语；an' let 'em stan' dat away fer a week er mo' 并列谓语，stand dat away 表"就这么晾着"。
+
+**关键词**：all de dirt dug away / fum under de roots / a week er mo' —— "挖根晾根"是" Yankee 科学"对葡萄园的第一次"外科手术"。
+
+**表达方式**：Uncle Julius 用一句冷静的动作描写，暗示 Yankee 的科学方法对土地的伤害——他把根挖出来晾着，就像病人被打开胸膛。
+
+**为什么这样写**：Yankee 的"科学"在这里第一次露出狰狞——它以"改良"的名义破坏土地，也为后文"魔咒"的兑现埋下引线。
+
+---
+
+⑦ **"When de vimes sta'ted ter wither, Henry 'mence' ter complain er his rheumatiz; en when de leaves begin ter dry up, his ha'r 'mence' ter drap out."**
+
+**中文理解**：当葡萄藤开始枯萎，Henry 就抱怨起风湿；当叶子开始干枯，他的头发也开始脱落。
+
+**句子结构**：两个并列 when 时间从句 + 主句——When de vimes sta'ted ter wither, Henry 'mence' ter complain / when de leaves begin ter dry up, his ha'r 'mence' ter drap out；结构完全对称，把"藤"与"人"绑在一起。
+
+**关键词**：withers ↔ complain of rheumatiz / leaves dry up ↔ hair drop out —— 藤的枯萎与人的衰老形成一一对应的"同步运动"。
+
+**表达方式**：Chesnutt 用"平行句"把魔咒的机制写清楚——藤衰则人衰，藤荣则人荣，这是"共生"的恐怖版。
+
+**为什么这样写**：这一句是"魔咒"的核心机制——Henry 的生命被移植到葡萄藤上，人的健康成了植物的晴雨表。
+
+---
+
+⑧ **"when de big vime whar he got de sap ter 'n'int his head withered en turned yaller en died, Henry died too,—des went out sorter like a cannel."**
+
+**中文理解**：当那根他拿树液涂头的那棵大葡萄藤枯萎、变黄、死去时，Henry 也死了——就像蜡烛熄灭那样。
+
+**句子结构**：when 引导长定语从句 whar he got de sap ter 'n'int his head 修饰 de big vime；主句 withered en turned yaller en died 三个动词并列；转折主句 Henry died too；破折号后 des went out sorter like a cannel 补语，cannel = candle。
+
+**关键词**：the big vime / withered and turned yellow and died / Henry died too / like a cannel —— "like a candle"是最克制的死亡比喻——光"被吹灭"了。
+
+**表达方式**：Uncle Julius 用"蜡烛"这个家常比喻把 Henry 的死写得"自然"而"平静"——这正是故事最恐怖的地方。
+
+**为什么这样写**：Chesnutt 用"蜡烛"的意象把 Henry 的死与"灯灭"等同——他的生命就是被移植到藤上的那一点光。
+
+---
+
+⑨ **"W'en de wah broke out, Mars Dugal' raise' a comp'ny, en went off ter fight de Yankees."**
+
+**中文理解**：战争爆发时，马·杜加尔拉起一支连队，跑去打北方佬了。
+
+**句子结构**：W'en de wah broke out 时间从句；主句 Mars Dugal' raise' a comp'ny and went off ter fight de Yankees；两个谓语并列。
+
+**关键词**：W'en de wah broke out / raise' a comp'ny / fight de Yankees —— "war"指美国内战，"fight de Yankees"是 Uncle Julius 口中的"复仇"。
+
+**表达方式**：Uncle Julius 用一句轻描淡写的话把"内战"带进来——对他是"终于有机会报复 Yankee 的日子"。
+
+**为什么这样写**：这一句揭示了 DuGall 对 Yankee 的仇恨——他后来被 Yankee 杀（据传说），正是这种仇恨的反噬。
+
+---
+
+⑩ **"I bought the vineyard, nevertheless, and it has been for a long time in a thriving condition, and is often referred to by the local press as a striking illustration of the opportunities open to Northern capital in the development of Southern industries."**
+
+**中文理解**：我尽管还是买下了这座葡萄园；它很久以来一直长势良好，还被当地报纸称作"北方资本开发南方产业的突出例证"。
+
+**句子结构**：主句 I bought the vineyard；nevertheless 转折连接词置于主句之后；and 连接两个并列谓语 has been in a thriving condition / is often referred to by the local press …；as a striking illustration of … 表语性名词短语。
+
+**关键词**：nevertheless / a thriving condition / a striking illustration / Northern capital in the development of Southern industries —— 最后一句是叙述者的"政治宣言"。
+
+**表达方式**：Chesnutt 用一句"现代经济学术语"（Northern capital / Southern industries）收尾，把 Uncle Julius 的"民间传说"完全纳入叙述者的"理性框架"。
+
+**为什么这样写**：叙述者自认为"征服"了魔咒，却恰恰证明了 Uncle Julius 是对的——"魔咒"以"产业机会"的另一种形式继续存在。Chesnutt 的讽刺在此达到顶点。
+
+## 一句话总结
+
+《被施魔咒的葡萄园》是 Chesnutt 最精妙的"双层故事"：Uncle Julius 用一根葡萄藤和一个奴隶的头发，讲出了一个关于"共生与掠夺"的恐怖寓言；而那个自诩理性的北方叙述者，最终用"北方资本开发南方产业"这样一套漂亮话，把整个寓言装进了自己的口袋——魔咒并没有被破除，只是换了名字。
 
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| goophered | 被巫术诅咒的 | "De vin is goophered" |
-| African race | 非洲裔 | "a middle-aged man of the African race" |
-| grapevine | 葡萄藤 | "the first thing that troubled us was the grapevine" |
-| conjurer | 巫师 | "An old conjurer was brought in" |
+| implicit confidence | ph. 完全信任 | I had implicit confidence in the doctor's skill and honesty. |
+| in wild and unpruned luxuriance | ph. 狂放而无人修剪地生长 | The vines grew in wild and unpruned luxuriance. |
+| Northern capital in the development of Southern industries | ph. 北方资本开发南方产业 | a striking illustration of Northern capital in the development of Southern industries |
+| a striking illustration | ph. 突出的例证 | referred to by the local press as a striking illustration |
 
 ### ⭐⭐ 进阶
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| health | 健康 | "in search of health and quiet" |
-| foothills | 丘陵地带 | "among the foothills of the Blue Ridge" |
-| valley | 山谷 | "one of the quiet, sunny valleys" |
-| grapes | 葡萄 | "the largest grapes I had ever seen" |
+| a curfew | n. 宵禁 | a curfew at nine o'clock |
+| decayed and broken-down trellises | ph. 朽坏倒塌的棚架 | supported by decayed and broken-down trellises |
+| twining themselves | ph. 自我缠绕 | twining themselves among the branches |
+| a thousan' dollars a year | ph. 每年一千美元 | a thousan' dollars a year off'n him |
 
 ### ⭐ 基础
-| 词汇 | 释义 | 例句 |
+
+| 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| wife | 妻子 | "my wife was in poor health" |
-| place | 地方 | "a small place in the valley" |
-| house | 房子 | "we had not been long in the house" |
-
-## 一句话总结
-
-《The Goophered Grapevine》是 Chesnutt 对非洲裔美国人传统民间故事的经典记录：通过 Uncle Julius 讲述的"被诅咒的葡萄藤"的故事，展示了19世纪美国南方的种族关系和民间传说的交织——Chesnutt 用"嵌套叙事"结构，让 Uncle Julius 作为"故事讲述者"，传递了非洲裔美国人社区的口述传统。
+| a change of climate | ph. 换气候 | advised a change of climate |
+| a four-faced clock | n. 四面钟 | a tall tower which held a four-faced clock |
+| scuppernong vines | n. scuppernong 葡萄藤 | scuppernong vines withered and turned yellow |
+| like a cannel | ph. 像蜡烛一样 | went out sorter like a cannel |
