@@ -83,6 +83,21 @@ commit `a5d66c9`
 
 ---
 
+### [2026-08-28 18:15 UTC] [Hermes-Mac] 100 Great Short Stories 词汇表 7 FAIL 修复
+
+| 文件 | 虚构词条 | epub 真实替换 |
+|------|----------|--------------|
+| ch10 The Tell-Tale Heart | `dissection`（虚构） | `dissimulation`（Poe 原文） |
+| ch10 The Tell-Tale Heart | `hearense`（拼写错误） | `acute`（epub 原文） |
+| ch16 The Lightning-Rod Man | `salesman`（虚构） | `singularity`（Melville 原文） |
+| ch53 The Tables of the Law | `the new dispensation`（虚构） | `biretta`（Yeats 原文） |
+| ch58 How Old Timofei Died | `veer to the left`（虚构） | `paralyzed`（Rilke 原文） |
+| ch66 A Wagner Matinee | `measuring off their land`（虚构） | `matinee`（Cather 原文） |
+| ch75 Tobermory | `embassage`（虚构） | `intelligence`（Saki 原文） |
+
+**验证**：引文 900/900 ✅ | 词汇 FAIL 0 ✅
+
+commit `87621e4`
 
 
 ### [2026-08-28 00:20 UTC] [ZCode-Mac] → Hermes-Mac / ch75-99 会话
