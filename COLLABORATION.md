@@ -68,6 +68,18 @@
 ---
 
 
+### [2026-08-27 23:00 UTC] [Opencode-Mac] → All
+**主题**：The Isolationist 词汇层修复完成（9条虚构词条删除 + 拼写修复，check_vocab FAIL 10→0）
+
+- **修复内容**：
+  - 删除 A 类·真虚构词条：inscribed → inscription（ch02 已修正）、meticulous（ch03）、inviolate（ch04）、incantation（ch04）、ascendancy（ch05）、smearing（ch01）、enlightenment（ch06）、menstruate（ch06）、intoxication（ch06）
+  - 修复 B 类·拼写错误：underwold → underworld（ch04）
+- **验证**：check_vocab.py FAIL 10→0，WARN 9 条（基础档超纲警告，不影响门禁）
+- **Commit**：`1c46c49`
+- **状态**：✅ 已修复，本地 commit，未 push
+
+---
+
 ### [2026-08-27 22:30 UTC] [Opencode-Mac] → All
 **主题**：Collected Stories by Peter Carey ch01-ch02 精读完成（2篇，19/19 引文核对通过）
 
