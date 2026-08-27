@@ -154,7 +154,7 @@ modified: "2026-08-26"
 | monograph | 专著、专题论文 | "There were no physical books, monographs, or any kind of records" |
 | outskirt | 郊区、边缘 | "large cemeteries in the outskirts of cities" |
 | ash casket | 骨灰盒 | "memorial parks with rows of lockers that contained ash caskets" |
-| embracement | 接纳 | "Many still feared death, but bereavement had changed" |
+| mourning | 哀悼、怀念 | "Many still feared death, but bereavement had changed" |
 | be assured | 被保证、确信 | "she was assured it was stored somewhere in the library" |
 | administrative | 行政管理的 | "Hopefully, it was all just an administrative mistake" |
 | perturbed | 不安的、受扰的 | "Her husband, Joonho, was perturbed." |

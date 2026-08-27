@@ -260,7 +260,7 @@ modified: "2026-08-26"
 | fatigue | 疲劳 | "required only four hours of sleep to relieve all traces of fatigue" |
 | leak | 泄露 | "It then leaked that tens of billions of dollars had been invested" |
 | billions | 十亿 | "tens of billions of dollars" |
-| investment | 投资 | "invested in the transition part of the project alone" |
+| invested | 投入、投入的 | "invested in the transition part of the project alone" |
 | public relations | 公共关系 | "To help with public relations and spread the word" |
 | exhibition | 表演、展示 | "made their modified astronauts do exhibition swims" |
 | international | 国际的 | "international swimming competitions" |
