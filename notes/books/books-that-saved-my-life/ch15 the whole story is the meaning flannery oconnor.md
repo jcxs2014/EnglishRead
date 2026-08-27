@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*A Good Man Is Hard to Find*（1955）· Flannery O'Connor
 **核心叙事**：O'Connor 9 岁时画了一幅卡通——父母和她说"把头抬起来"，她回答：**"我在哪里读到有人因为把头抬得太高而死"**（I was readin where someone died of holding their head up）。她 39 岁死于红斑狼疮（lupus），父亲也死于同样的病——**"她父亲去世时，从她的生活中带走了唯一理解她尖锐幽默节拍的人"**。她住在 Andalusia 农场，电话 1956 年才接通——**"我在那里没看到什么。我是作家，我在摇椅上种田"**（I farm from the rocking chair）。
 
-## 核心论证
+## 概览
 
 1. **"只有在我们信念坚定时，我们才能看到宇宙的滑稽面"**（Only if we are secure in our beliefs can we see the comical side of the universe.）——O'Connor 认为**幽默与信念同源**。
 2. **O'Connor 的写作哲学**：**"写作一部小说是一种可怕的经历——头发会掉，牙齿会烂。写作是深入现实，对系统来说是一种极大的震撼……没有希望的人不仅不写小说，也不读小说。"**

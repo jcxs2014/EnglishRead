@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*"An Absolutely Ordinary Rainbow"*（poem, 1969）· Les Murray
 **核心叙事**：Murray 是"比生活更大的人"（larger than life），"被捧为诺贝尔文学奖候选，被贬为政治偏执"。McGirr 在悉尼大学第一次听他读诗——"像听了 Peter, Paul and Mary 甜美的 *Blowin' in the Wind* 之后再听 Bob Dylan 粗粝的原版"。**Murray 的朗读"糟糕"是因为"他根本不做表演"**。这首诗写一个在 Martin Place 哭泣的男人——**"他流出的不是话语而是悲伤，不是信息而是痛苦，硬如大地，纯粹如大海"**。McGirr 在堪培拉电台让 Murray 读这首诗——**"人们停下汽车来听"**，正如诗中所写。
 
-## 核心论证
+## 概览
 
 1. **Murray 的"不表演"哲学**：Murray 朗读"太急、含糊、不看观众"——**"恰恰就是重点：他的诗之所以精彩，是因为他和诗都没有傲慢"**（because both he and it are lacking in arrogance）。**"他的诗会倾听：对语言最微妙的韵律有惊人的听觉。"**
 2. **"An Absolutely Ordinary Rainbow"的哭泣者**：诗中一个无名的男人在 Martin Place 哭泣——**"他不要求任何东西，像大地一样"**（like the earth, requires nothing）；他哭出的"**不是话语而是悲伤，不是信息而是痛苦，硬如大地，纯粹如大海**"（hard as the earth, sheer, present as the sea）；哭完后他"用一个人的尊严擦着脸"走了。
@@ -17,7 +18,7 @@ modified: "2026-08-23"
 
 ## 选择性精读
 
-**①** "The weeping man, like the earth, requires nothing...and cries out of his writhen face and ordinary body not words, but grief, not messages, but sorrow, hard as the earth, sheer, present as the sea—and when he stops, he simply walks between us mopping his face with the dignity of one man who has wept, and now has finished weeping."
+**①** "But the weeping man, like the earth, requires nothing, the man who weeps ignores us, and cries out of his writhen face and ordinary body not words, but grief, not messages, but sorrow, hard as the earth, sheer, present as the sea—and when he stops, he simply walks between us mopping his face with the dignity of one man who has wept, and now has finished weeping."
 - 中文理解：哭泣的男人"像大地一样不需要任何东西"——他"从扭曲的脸和普通的身体中哭出的**不是话语而是悲伤，不是信息而是痛苦**，**硬如大地，纯粹，像大海一样在场**"——哭完后他"用**一个哭过、现在哭完了的人的尊严**擦着脸"从人群中走过。
 - 写作技巧：**"not words, but grief; not messages, but sorrow"**——两组"not X, but Y"的对偶，把"哭泣"从"表达行为"翻转为"**纯粹的存在**"。**"hard as the earth, sheer, present as the sea"** 三个自然比喻（大地/纯粹/大海）把"痛苦"从"情感"变成"**地质/气象现象**"——**"痛苦不是情绪，是存在本身"**。
 - 关键表达：**requires nothing, like the earth**（"像大地一样不需要任何东西"）；**not words, but grief; not messages, but sorrow**（"不是话语而是悲伤，不是信息而是痛苦"）；**hard as the earth, sheer, present as the sea**（"硬如大地，纯粹，像大海一样在场"）；**with the dignity of one man who has wept**（"用哭过的人的尊严"——**本章最重要的句子**）。
@@ -74,7 +75,7 @@ modified: "2026-08-23"
 |---------|------|------|
 | cut someone down to size | 让人减减气势 | *"people who have wanted to cut him down to size"* |
 | larger than life | 比生活更大（大人物） | — |
-| a boiling suit | 锅炉工服（Murray 穿去读诗） | — |
+| a boilermaker's suit | 锅炉工服（Murray 穿去读诗） | — |
 | lacking in arrogance | 没有傲慢 | — |
 | the black dog | 黑狗（丘吉尔对抑郁症的比喻） | — |
 | a modest amount | 区区的金额 | — |

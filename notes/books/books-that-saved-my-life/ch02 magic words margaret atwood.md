@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Hag-Seed*（2016）· Margaret Atwood（改写 Shakespeare《The Tempest》）
 **核心叙事**：McGirr 从"F 词"入手——年轻学生用它当拐杖（crutch），想显得成熟却只暴露出"除了陈词滥调（cliché）一无所有"。他带学生用莎士比亚的骂人词替代：先是"Shakespeare Insult Kit"（你 + 形容词 + 名词 = 一句莎士比亚式谩骂），再是 Atwood《Hag-Seed》中 Felix 强迫囚犯只用《暴风雨》里的咒骂词——**"释放语言，就是释放人"**。
 
-## 核心论证
+## 概览
 
 1. **语言的匮乏 = 自我的匮乏**：年轻人"F-off"只会一种音调，因为"clichés"是唯一的表达工具；莎士比亚能"change lives"，因为它"liberate people's language"。
 2. **Hag-Seed = 一个被囚禁的导演的复仇与救赎**：Felix（Prospero 对应）被 Tony（Antonio 对应）夺走职务，妻女相继去世，最终在 Fletcher 监狱里导演《暴风雨》——用莎士比亚的"magic words"取代 F 词，囚犯们在语言中被重新定义。
@@ -72,7 +73,7 @@ modified: "2026-08-23"
 | acrobatics | 杂技 | *"it does acrobatics to get the reader's mind moving"* |
 | visceral | 发自内脏的、发自内心的 | *"responded in a visceral way"* |
 | inured | 麻木、习以为常 | *"become inured by constant exposure"* |
-| obfuscation | 模糊化、晦涩 | — |
+| prisoners | 囚徒 | *"prisoners" — Atwood 用 'prisoners' 把 '语言' 从 '工具' 变成 '牢笼'* |
 
 **⭐⭐ 进阶**
 

@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*The Long Loneliness*（1952）· Dorothy Day
 **核心叙事**：1980 年 11 月 Dorothy Day 去世，McGirr 当时 19 岁，在墨尔本内城区的"House of Welcome"（好客之家）帮忙——这是 Day 在纽约 1930 年代创办的"Houses of Hospitality"（好客之家）的姐妹组织。Day 的死亡对墨尔本贫民区的影响竟然**"超过了十天后约翰·列侬的死亡"**——**"列侬是名人；Dorothy Day 庆祝别人：穷人、无声者、古怪者、被排斥者、不美者"**。Day 的咳嗽折磨了 Chris Jenkins 一整夜——**"她有尖锐的肘部和顽固的咳嗽"（sharp elbows）**——**"让 Day 从神坛上跌落到街面水平"（got Dorothy Day off her pedestal and brought her back to street level）**。
 
-## 核心论证
+## 概览
 
 1. **Day 的"对街人的影响大于列侬"**：1980 年 11 月 Day 去世——**"约翰·列侬十天后也死了，但他的死似乎没有击中如此柔软的神经"**（did not seem to strike such a tender nerve）——**"列侬是名人；Day 庆祝的是别人：穷人、无声者、古怪者、被排斥者、不美者"**。
 2. **"sharp elbows"——Day 的立体感**：Chris Jenkins 在纽约 Bowery 的 Maryhouse 住过，床位就在 Day 房间正下方——**"她是一个有尖锐肘部的女人"**（a lady with sharp elbows）——**"她整夜咳嗽，让他无法睡觉"**。**"我喜欢这个故事。它把 Dorothy Day 从神坛上掉下来，带回到街面水平。"（It got Dorothy Day off her pedestal and brought her back to street level.）**——**"没有让你至少惹恼一个人，你就不算真正的人"**（You can't be properly human without getting on the nerves of at least someone.）。
@@ -25,7 +26,7 @@ modified: "2026-08-23"
 - 关键表达：**a celebrity**（"一个名人"——Lennon 的身份）；**celebrated others**（"庆祝别人"——Day 的动词用法）；**the poor, the voiceless, the odd, the left-out, the unlovely**（"穷人、无声者、古怪者、被排斥者、不美者"——**五个排比，最后一个是"不美者"**）。
 - 可迁移：**用"X 是 Y；X 庆祝 Z"描述"自我庆祝 vs 庆祝他人"**——"他是名人；Day 庆祝别人"。
 
-**②** "'She was a lady with sharp elbows.' Chris remembers her as 'very straightforward'...For him, it was a nuisance more than anything else. She coughed all night and he couldn't get any decent sleep."
+**②** "Chris remembers her as 'very straightforward', a woman who spoke her mind bluntly. 'She was a lady with sharp elbows.' Chris was assigned a bed directly beneath her room. For him, it was a nuisance more than anything else."
 - 中文理解：Chris Jenkins 回忆 Day——**"她是一个有尖锐肘部的女人"**（a lady with sharp elbows）——**"她整夜咳嗽，他无法好好睡觉"**。
 - 写作技巧：**"sharp elbows"这个身体细节**——McGirr 用"**尖锐的肘部**"这个物理特征描述 Day 的"**不圆润、不圆滑**"——**"sharp elbows"是"不礼貌"的隐喻，但也是"**真人"的标志**"——**"一个有尖锐肘部的人是会挤人的人"**——**"会挤人 = 不会让人舒服 = 真人"**。Day 的咳嗽（"hacking cough"——**"干咳/呛咳"**）和"尖锐的肘部"共同构成 Day 的"立体感"——**"Day 不是圣徒，Day 是一个会挤人和会咳嗽的老人"**。
 - 关键表达：**sharp elbows**（"尖锐的肘部"——**本章标题**）；**a hacking cough**（"干咳/呛咳"——Day 的身体细节）；**very straightforward**（"非常直率"——Day 的性格）；**a nuisance**（"令人烦恼的东西"——Chris 对 Day 的评价——**"圣徒 = 令人烦恼"**）。

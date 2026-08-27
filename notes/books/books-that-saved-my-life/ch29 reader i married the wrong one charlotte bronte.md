@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Jane Eyre*（1847）· Charlotte Brontë
 **核心叙事**：McGirr 在重读 *Jane Eyre* 时**第一次注意到书中"terror"（恐惧）这个词出现的频率**——**这是当今世界"最有分量的词之一"**。小说结尾"与圣经相同的字：'Come, Lord Jesus.'"（来，主耶稣）——**"如果你必须抄袭，为什么不抄最好的？"**（If you have to plagiarise an author, why not go to the top?）。Charlotte Brontë 与父亲的助理牧师 Arthur Nicholls 结婚——**" Ellen Nussey 觉得这段婚姻非常困难——她似乎认为 Charlotte 嫁错了人"**——**本章标题"Reader, I Married the Wrong One"是"Reader, I Married Rochester"（*Jane Eyre* 著名的开场白）的反转**。
 
-## 核心论证
+## 概览
 
 1. **"Reader, I Married the Wrong One"**：*Jane Eyre* 以"Reader, I married Rochester"（读者，我嫁了 Rochester）开篇——McGirr 把标题翻转为"Reader, I Married the Wrong One"（读者，我嫁错了人）——**这是关于 Charlotte Brontë 自己的婚姻**——**"Arthur Nicholls，父亲的助理牧师，一贫如洗，无趣"**（the penniless and unexciting Arthur Nicholls）——**Charlotte 在他第一次怀孕时死于"精疲力竭和脱水"**——**"只有 39 岁，但活过了所有兄弟姐妹"**——**"读者，我嫁错了人" = "Charlotte 的反讽"**。
 2. **Jane 与 Bertha 的物化**：Jane 称自己为"a heterogeneous thing"（"一个异质的东西"）——**"thing"是这段中最强的词——Jane 甚至不被允许拥有作为人的尊严"**。Bertha 被称为"an 'it'"（"一个'它'"）——**"Rochester 的两个妻子都被物化了——两个边缘化的女性必须成为对手，真遗憾"**——**"一位评论家甚至说她们是同一个人的两面"**（two sides of the one person）——**Jane = 理智的、节俭的；Bertha = 狂热的、被禁闭的**。
@@ -43,13 +44,13 @@ modified: "2026-08-23"
 - 关键表达：**hide her gift in a napkin**（"把天赋藏在头巾里"——**"女性才能的束缚"**）；**labour to do what is not impossible**（"努力做不可能的事"——**Charlotte 的责任**）；**God would not have set her to do it**（"神不会让她做"——**"责任"的来源**）；**the imagination fighting free**（"想象力搏斗着自由"——**McGirr 的核心定义**）——**本章对 Charlotte Brontë 的核心定义**：**"头巾中的想象力 = 搏斗着自由 = 神让她做不可能的事"**。
 - 可迁移：**用"把 X 藏在 Y 里"描述"才能的束缚"**——"把天赋藏在头巾里"。
 
-**⑤** "They weren't entrusted to any patron saint but merely to the prayers of a community, which is invisible among so many day visitors but evidently still alive."
+**⑤** "They aren't entrusted to any patron saint but merely to the prayers of a community, which is invisible among so many day visitors but evidently still alive."
 - 中文理解：McGirr 描述祈祷树——**"她们没有被托付给任何守护圣人，而是仅仅托付给一个社区的祈祷，这个社区在如此多的日间游客中是看不见的，但显然仍然活着。"**
 - 写作技巧：**"not entrusted to any patron saint but merely to the prayers of a community"**——McGirr 用"**没有托付给任何守护圣人，而是仅仅托付给一个社区的祈祷**"这个"对比"来描述"祈祷树"的本质——**"守护圣人"是"天主教的、个人化的、制度化的"**；**"社区的祈祷"是"新教的、集体化的、非制度化的"**——**"不是天主教式的 = 是社区式的"**——**"看不见" vs "仍然活着"用"**看不见**"和"**仍然活着**"这两个短语的对比来描述"社区的存在"**——**"看不见" = "被游客遮蔽"**；**"仍然活着" = "真实存在"**——**"看不见 = 仍然活着 = 真正的虔诚"**——**"女孩们写了 13 岁朋友的母亲的名字"用"**写下名字**"来描述"祈祷树"的功能**——**"这些'打扰博物馆'的女孩 = 真正的虔诚"**——**"女孩们的'打扰' = 祈祷树 = 社区的祈祷 = 看不见的活着"**。
 - 关键表达：**not entrusted to any patron saint**（"没有被托付给任何守护圣人"——**"不是天主教的"**）；**merely to the prayers of a community**（"仅仅托付给一个社区的祈祷"——**"是社区式的"**）；**invisible among so many day visitors**（"在如此多的日间游客中是看不见的"——**"被遮蔽"**）；**evidently still alive**（"显然仍然活着"——**"真实存在"**）——**本章对"祈祷树"的核心定义**：**"看不见 = 仍然活着 = 真正的虔诚"**。
 - 可迁移：**用"看不见 = 仍然活着"描述"被遮蔽的存在"**——"看不见的社区仍然活着"。
 
-**⑥** "'It smells Catholic,' said the old woman loudly. 'Don't you think it smells Catholic?' The entire graveyard outside turned in one movement."
+**⑥** "'This must be Catholic,' said the old woman loudly. 'It smells Catholic. Don't you think it smells Catholic?'"
 - 中文理解：一位盲人老妇人在 Haworth 教堂说——**"'闻起来像天主教，'老妇人大声说。'你不觉得闻起来像天主教吗？'**——**"外面的整个墓地同时转了过来。"**
 - 写作技巧：**"It smells Catholic" + "The entire graveyard turned"**——McGirr 用"**闻起来像天主教**"和"**整个墓地同时转了过来**"这两个动作来描述"一句话的力量"——**"闻起来像天主教"是"感官的判断"**——**"闻"是"最原始的判断"**——**"天主教" = "气味 = 宗教身份"**——**"老妇人用鼻子判断宗教" = "天主教 = 可闻的"**——**"整个墓地同时转了过来"用"**同时转了过来**"来描述"这句话的社会效果"**——**"整个墓地 = 所有人的注意力"——"从各自的祈祷转到老妇人的话"**——**"同时转了过来 = 集体反应"**——**"这句话的'突然性'和'全体性' = '整个墓地' = '集体转向'**"——**"老妇人的话 = 整个墓地的反应 = McGirr 的'幽默'**"——**"本章对'老妇人的话'的定义" = "闻起来像天主教" = "整个墓地的转向"**——**"这句话是关于'宗教身份的感官判断'和'集体反应'"**。
 - 关键表达：**It smells Catholic**（"闻起来像天主教"——**老妇人的判断**）；**in one movement**（"同时"——**集体转向**）——**本章对"老妇人的话"的核心定义**：**"闻起来像天主教" = "整个墓地的集体转向"**。

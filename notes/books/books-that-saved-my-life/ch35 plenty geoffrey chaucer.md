@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*The Canterbury Tales*（c. 1390）· Geoffrey Chaucer
 **核心叙事**：Chaucer（1342–1400）**"有所有理由成为一个乏味的无聊者"**——他的父亲是酒商（vintner），他成为外交官——**"这意味着他靠琐碎闲聊和冗长的废话谋生"**（made a living out of inconsequential small talk and high-sounding verbiage）——他与 Philippa 结婚是"明智的而不是热情的"**——他"是一个可靠的但乏味公务员，写作是副业"——负责"收集进口羊毛的小关税"**。但他侥幸逃过了黑死病——**"Chaucer 是每一种幸运的专家"**——Chesterton 说 Chaucer 是**"一个幸运而孤独的精灵，发现了一缕阳光并在其中跳舞"**（a lucky and lonely elf, who found a sunbeam and danced in it.）。
 
-## 核心论证
+## 概览
 
 1. **"Here is God's plenty"（"这里有上帝的丰盛"**）**：17 世纪诗人 Dryden 说 *The Canterbury Tales*——**"这里有上帝的丰盛"**——**"《坎特伯雷故事集》充满了生命，既神圣又世俗。对 Chaucer 来说，这是一个虚假的二分法，对每个人来说都应该是"**——**"plenty"这个词最常出现在食物语境中"**——**"我们说'有足够的吃的'和'如果你还饿着还有更多'；如果问我们是否够，我们说'已经很多了'"**——**"Chaucer 从未满足"**——**"他的世界是多种风味的一场盛宴"**——**本章标题 = "Plenty" = "上帝的丰盛"**。
 2. **"The Miller's Tale"——粗俗与喜剧**：*The Knight's Tale* 是"关于宫廷爱情本质的端庄而优雅的阐述"**——**"真正有趣的部分在 Chaucer 从公共服务退休后开始"**——**"他写了他一生中大部分的故事，似乎 Chaucer 被死亡打断时未完成"**——**"他决定'有辱地老去，这是一种恩典'"**（a kind of grace）——**"Miller's Tale 讲述年轻女子 Alison 与木匠 John 的故事"**——**"Alison 把屁股伸出厕所洞让 Absalom 吻她的脸颊"**——**"Nicholas 被烙在屁股上——上帝带我们去天堂"**——**Coghill 现代版的结尾："Nicholas 被烙在屁股上，上帝带我们去天堂。"**

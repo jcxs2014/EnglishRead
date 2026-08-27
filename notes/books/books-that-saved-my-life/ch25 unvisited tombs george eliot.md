@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Middlemarch*（1871）· George Eliot
 **核心叙事**：McGirr 在耶稣会 21 年后结婚——他"对社交线索很慢"（slow with social clues）。Jenny 的"前任是上帝"。McGirr 发现 George Eliot 小说中的婚姻求婚是"文学史上最糟糕的求婚"之一——**最毁灭性的是 Casaubon 向 Dorothea Brooke 的求婚**——Casaubon 在寻找一个"prisoner to share his cell"（分享牢房的囚犯）。**Dorothea 接受了——她用了六行简短的话**：**"我能期待的幸福，没有比与你的幸福合而为一更好的了。"**
 
-## 核心论证
+## 概览
 
 1. **Casaubon 求婚 = 寻找囚犯**：**"如果 Collins 找一个附属品，Rivers 找廉价劳动力，Casaubon 找一个分享牢房的囚犯"**（Casaubon is looking for a prisoner to share his cell）。Casaubon 是一个"old fossil of a clergyman"（老化石般的牧师），毕生编译"**Key to All Mythologies**"（万有神话钥匙）——一项"干燥而无生命的学术工程"，成为"**他躲避应对世界或建立关系能力不足**的藏身之处"。
 2. **Dorothea 的接受**：**"Dorothea Brooke 与 Elizabeth Bennet 和 Jane Eyre 的不同之处在于——Dorothea 接受了这个求婚，尽管它明显的自私"**。她用了六行简短的话：**"我能期待的幸福，没有比与你的幸福合而为一更好的了。"**——**"接受 = 牺牲自我"**。

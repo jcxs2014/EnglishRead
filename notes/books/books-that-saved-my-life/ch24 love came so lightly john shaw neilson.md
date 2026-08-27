@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Love's Coming*（1896）· John Shaw Neilson
 **核心叙事**：Neilson（1872–1942）活在墨尔本 Footscray 墓地的一个坟墓里——**"作为朝圣地来说，这 hardly Arlington（根本不像阿灵顿）"**——**他的墓地夹在两条主干道之间，每天有数千辆卡车轰鸣而过**。McGirr 的母亲 2011 年去世后，他有时会去 Neilson 的墓。**Neilson 是"把石头变成空气的炼金术士"**（an alchemist who turns stone into air）——**生活是"无尽的身体困苦"，诗歌是"炎热的日子里轻柔的微风"**——**"哪里有悲伤，他就撒下希望"**。
 
-## 核心论证
+## 概览
 
 1. **"炼金术士：把石头变成空气"**：**Neilson 的诗歌能把"最坚硬的地方"变得柔软**——**"他是炼金术士，把石头变成空气"**（He is an alchemist who turns stone into air）——**生活是"无尽的身体困苦"**，诗歌是"炎热的日子里轻柔的微风"**——**"哪里有悲伤，他就撒下希望"**（Where there is grief, he sows hope）。
 2. **Neilson 的 200+ 份工作**：Neilson 在 30 年里干过**"200 多份不同的工作"**（more than two hundred different jobs in thirty years）——Mary Gilmore 见到他后惊呼——**"当我看到他因磨石磨到指尖血肉的手指，我心头一紧"**（I felt a stone in my heart）——Neilson 常常步行 120 公里去找下一份工作——**"通常缺水"**。
@@ -66,7 +67,7 @@ modified: "2026-08-23"
 | asperity | 严厉、粗暴 | — |
 | recompense | 补偿 | *"the recompense of song"* |
 | gossamer | 极轻薄的 | *"gossamer poetry"* |
-| abrasive | 磨蚀的 | — |
+| loneliness | 磨蚀的 | — |
 | arid | 干旱的 | — |
 
 **⭐⭐ 进阶**

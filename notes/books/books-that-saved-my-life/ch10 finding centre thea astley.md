@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Reaching Tin River*（1990）& *Girl with a Monkey*（1958）· Thea Astley
 **核心叙事**：McGirr 与 Thea Astley 和她弟弟 Phillip 共同生活过六年——Thea 是"四次迈尔斯·弗兰克林奖得主"（无人更多），Phillip 是"一个圣人"（a saint）。Phillip 晚年是同性恋、深抑郁、五年几乎不说话——但在临终时"大声宣布'我是同性恋'"，"他不在乎谁听到——他自由了"。**Thea 的语言是"罪疚"，Phillip 的语言是"无罪"**。McGirr 认为 Thea 的写作室像 Phillip 能找到平静的房间——**"两架键盘密切相关"**（Her two keyboards were closely related: 打字机 = 写作，钢琴 = Phillip 的祈祷）。
 
-## 核心论证
+## 概览
 
 1. **Thea 的"护城河"与"坦诚"**：Thea 对作品"严格保密"（strictly off limits），但"她比她想让人知道的更善良"（far more kind than she wanted people to know）。她能"背诵所有坏评论"。
 2. **"凤尾鱼酱"的写作哲学**：Thea 说她**"把故事当凤尾鱼酱"**——"spread them as much as possible to cover every corner of the toast"（尽量铺开，覆盖吐司的每个角落）——**"不浪费素材"**。

@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Angel in the Rubble*（2011）· Genelle Guzman-McMillan（与 William Croyle 合著）
 **核心叙事**：McGirr 从"书店里回忆录泛滥"切入——"most memoirs have a short shelf life"，因为"名人 = 好书"的假设不成立。**真正的例外是 Genelle**——她是 9/11 世贸北塔废墟中**"最后一个被活着的救出的人"**（last person rescued alive）。她在废墟下等了 27 小时，被一位名叫 Paul 的陌生人握住手——Paul 在她获救前悄悄离开，Genelle 至今未再见他。**在黑暗中她转向祈祷——"一种聆听"（a kind of listening）——并决定"活得更爱一点"**（to try to live in a more loving way）。
 
-## 核心论证
+## 概览
 
 1. **回忆录市场的"自恋症"**：McGirr 批评"narcissistic culture"——"eminent career ≠ eminent book"；"writing careers sometimes start where they used to end: with some kind of personal narrative"（写作生涯有时从它过去结束的地方开始：个人叙事）。
 2. **9/11 = "人类历史黑暗中的一个关键时刻"**：McGirr 把 Genelle 的回忆录与 Hersey《广岛》（1946）、Levi《这是一个人吗》（1947）并列——**"对人类历史黑暗的见证行为"（an act of witness to one of the pivotal moments in the history of humanity's darkness）**。

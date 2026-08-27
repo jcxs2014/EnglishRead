@@ -1,9 +1,14 @@
+---
+状态: 未读
+modified: "2026-08-23"
+---
+
 # Epilogue · Words That Don't Come Easy
 
 **讨论的书**：*The Spiritual Exercises*（1548）· Ignatius of Loyola
 **核心叙事**：McGirr 带毕业生去墨尔本公墓做最后的 retreat——Scullin 总理的墓、Hitler 大屠杀犹太幸存者、Burke & Wills 纪念碑、Ned Kelly 法官 Barry 的墓、St Joseph's 初代修士的墓。**"我们不是来这里进行历史快感之旅的"**——**"我们是为了 Ignatius of Loyola 的《神操》而来"**——**"生命可以走近乎无限的方向。但所有路似乎通向这一个地方"**——**"文学是已经死去或将死去的人的作品"**——**"我们需要的是诚实——谦逊的血兄弟"**——**"我热爱不容易到来的字——那些真正在人与人之间建立桥梁的字"**——**"那是拯救我生命的东西"**。
 
-## 核心论证
+## 概览
 
 1. **"a cemetery is an overview of their diverse community"**：墨尔本公墓是学生的缩影——总理 Scullin（1929–32，大萧条时期）；大萧条犹太幸存者；Burke & Wills 纪念碑（1861 年横穿澳洲大陆失败的探险队）；Ned Kelly 法官 Barry（Barry 在 Kelly 死后不到两周去世——**"让几代人猜想 Kelly 是否会在死后审判法官"**）；Barry 的伴侣 Louisa Barrow（被遗忘 130 年）。
 2. **"Heroism is more soothing to survivors than wretched bad luck"**：**"英雄主义比糟糕的运气更能安慰幸存者"**——Burke & Wills 几乎到达目标但死在了荒原——被定为"英雄式的失败"。
@@ -60,10 +65,10 @@
 | blood brother | 血兄弟 | *"honesty, the blood brother of humility"* |
 | excruciating | 痛苦的 | — |
 | elusive | 难以捉摸的 | — |
-| epitaph | 墓志铭 | — |
+| shapeless | 无定形的、无形态的 | — |
 | obelisk | 方尖碑 | — |
 | distillation | 蒸馏、精华 | — |
-| insidious | 隐秘的 | — |
+| subsequently | 随后、后来 | — |
 
 **⭐⭐ 进阶**
 

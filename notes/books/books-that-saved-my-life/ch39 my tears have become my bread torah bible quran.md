@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Psalms 63*、*Psalm 42*、*Mark's Gospel*、*Qur'an* 等
 **核心叙事**：McGirr 每天早上让圣经"随机翻开"，**"它总停在 Psalm 63"**——**"我的灵魂渴望你，我的肉体思念你，如干旱疲乏无水之地"**——**"这么多年，我没有耗尽这些古老的字，也没有厌倦它们"**——**"这些字是神圣的"**。McGirr 的父亲 1979 年去世时（他差一个月满 18 岁），他"坚持愚蠢的计划加入耶稣会"——母亲**"拖着两个圣经版本穿过悉尼的街道，袋子把手撕裂了，她像抱婴儿一样抱着它，拒绝一切帮助"**——**"献给亲爱的 Michael。为了你亲爱的父亲 Gregory McGirr 的记忆。永远爱你，妈妈。XO。"**
 
-## 核心论证
+## 概览
 
 1. **"Psalm 63 是 McGirr 每天新的一天起点"**：**"我的灵魂渴望你，我的肉体思念你——如干旱疲乏无水之地"**——**"这么多年，我没有耗尽这些古老的字，也没有厌倦它们，也没有放弃它们所庆祝的追寻，也没有真正理解它们所呼唤的脆弱"**——**"这些都属于使字成为神圣的一部分"**。
 2. **"scripture is sacred because of the life of the community"**：**"不是因为它让学者们开心"**——**"经文之所以神圣是因为培育经文的社区的生活"**——**"仅仅诵念 Psalm 63 的字就能为它们所指的干旱疲乏之地浇水"**。
@@ -31,7 +32,7 @@ modified: "2026-08-23"
 - 关键表达：**the life of the community**（"社区的生活"——**"神圣"的来源**）；**nurtured by it**（"被经文培育"——**"经文"和"社区"的关系**）——**本章对"经文的神圣性"的核心定义**：**"经文 = 社区 = 生活 = 神圣"**。
 - 可迁移：**用"X 之所以 Y 是因为 Z"描述"一种本质"**——"经文之所以神圣是因为社区的生活"。
 
-**③** "Zero is a wonderful image of eternity. A perfect circle with nothing to enclose: it has neither beginning nor end."
+**③** "Zero is a wonderful image of eternity. If you try to divide anything by zero, you have an experience of both the eternal and the absurd right before your eyes, beneath the tip of a cheap pencil."
 - 中文理解：McGirr 描述零——**"零是永恒的完美图像。一个什么都没有围住的完美圆：它既无起点也无终点。"**
 - 写作技巧：**"a wonderful image of eternity" + "a perfect circle with nothing to enclose" + "neither beginning nor end"**——McGirr 用**"永恒的完美图像"和"什么都没有围住的完美圆"和"既无起点也无终点"**这三个短语来描述"零"**——**"永恒的完美图像" = 零 = 永恒**；**"什么都没有围住的完美圆" = 零 = 空**；**"既无起点也无终点" = 零 = 无限**——**"永恒 + 空 + 无限 = 零 = McGirr 的核心定义"**——**"如果你尝试用任何东西除以零，你会体验到永恒和荒谬"用**"除以零"把"零"从"数字"变成"体验"**——**"永恒和荒谬" = 零 = 体验 = 铅笔尖下"**——**"零 = 永恒 + 空 + 无限 = 体验 = 永恒的荒谬"**。
 - 关键表达：**a wonderful image of eternity**（"永恒的完美图像"——**零的"形象"**）；**a perfect circle with nothing to enclose**（"什么都没有围住的完美圆"——**零的"形状"**）；**neither beginning nor end**（"既无起点也无终点"——**零的"性质"**）——**本章对"零"的核心定义**：**"零 = 永恒 + 空 + 无限 = 永恒的荒谬"**。
@@ -63,8 +64,8 @@ modified: "2026-08-23"
 |----|------|------|
 | foolhardy | 鲁莽的 | *"my foolhardy plan"* |
 | parched | 干旱的 | *"parched, weary and waterless"* |
-| elusiveness | 难以捉摸 | — |
-| voluble | 健谈的 | — |
+| vulnerability | 难以捉摸 | — |
+| inaccessible | 健谈的 | — |
 | pebble in my shoe | 鞋中的小石子（比喻：持续的困扰） | — |
 | voluntourism | 志愿旅游 | — |
 | tokenism | 表面姿态 | — |

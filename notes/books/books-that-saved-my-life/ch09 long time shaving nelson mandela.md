@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Long Walk to Freedom*（autobiography, 1994）· Nelson Mandela
 **核心叙事**：McGirr 在 Robben Island 狱中秘密写回忆录，手稿埋在监狱菜园里——被发现将后果严重。McGirr 在南非种族隔离博物馆看到 Casspir 装甲车"如压纸板般推倒窝棚"；他看着曼德拉剃须的视频**"花了十五分钟"**——曼德拉作为总统仍沿用狱中"不变的仪式"（inflexible pattern）：自己做床、床边做操、"字迹工整"。**"总统仍是那个囚犯"**（the president was still the prisoner）。
 
-## 核心论证
+## 概览
 
 1. **"Free Nelson Mandela"到"Free Wi-Fi"的符号转换**：McGirr 长大时"每道栅栏和每块广告牌都贴着'Free Nelson Mandela'"——现在**"所有牌子都写'Free Wi-Fi'"**。用 Wi-Fi 取代曼德拉，暗示**"政治承诺的遗忘"**。
 2. **曼德拉的剃须 = 冥想/自由**：McGirr 看着曼德拉剃须的视频，反思自己"在淋浴时快速剃须以省时间"——曼德拉的剃须是**"一种冥想，一种自由的标志"**（a meditation, a sign of freedom）。**"即使总统，仍有囚犯的纪律"**。

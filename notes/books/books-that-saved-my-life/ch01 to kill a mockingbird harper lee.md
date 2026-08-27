@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*To Kill a Mockingbird*（1960）· Harper Lee
 **核心叙事**：McGirr 是墨尔本的老师，带 16 岁学生参加"正义教育"——去流浪者救助站、去法庭观察判决。一个叫 Antonio 的学生英语考得年级顶尖，却从未读过 *To Kill a Mockingbird*，只用了 Google 的 plot summary 应付考试。McGirr 用这个故事引出全书主旨：**"真正的阅读"不是效率工具，而是对更广阔世界的体验**。
 
-## 核心论证
+## 概览
 
 1. **慢阅读 > 快摘要**：*To Kill a Mockingbird* 的 nuance 是任何 plot summary 无法替代的；McGirr 用 Mrs Dubose 的"dirty pillow-case"意象举例——synopsis 会漏掉它，但正是它让读者理解毒瘾者。
 2. **阅读是"共同活动中的独自行动"**（Reading is among the few communal activities that you do on your own）——阅读培养 empathy 和 compassion，这两者"无法衡量，但社会正因为缺少它们而痛苦"。

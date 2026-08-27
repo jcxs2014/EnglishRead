@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Beloved*（1987）；*The Bluest Eye*（1970）；*Home*（2012）；*God Help the Child*（2015）· Toni Morrison
 **核心叙事**：McGirr 1989 年在昆士兰一个偏远杂货店发现 *Beloved*——**"八美元精装本，和日历日记一起打折清仓"**。他当时被校长派去带学生从悉尼到昆士兰大堡礁，在 4500 公里车程中读到。**"Beloved"这个名字的由来**：母亲 Sethe 是前奴隶，想给死婴墓碑刻"Dearly beloved"（基督徒墓碑常用语），钱不够只能刻"Beloved"——所以那个婴孩就叫 Beloved。
 
-## 核心论证
+## 概览
 
 1. **Morrison 是"把痛苦变成意义"的作家**：McGirr 说 Morrison "**不是让我落泪，而是把我提升到泪水中**"（elevated me to tears）——**"Morrison 能用眼泪打破干旱"**（can use tears to break a drought）。
 2. **Beloved 的发现场景**：1989 年昆士兰杂货店，**"不知道自己在买什么，只知道不想读空日记"**（I just knew that I didn't feel like reading an empty diary）——**"空日记" vs "Morrison 的书" = "空白 vs 充满"**。
@@ -74,7 +75,7 @@ modified: "2026-08-23"
 |----|------|------|
 | conundrum | 难题、谜语 | *"a genetic conundrum"* |
 | gradations | 细微差别、色阶 | *"gradations of prejudice"* |
-| remaindred | 清仓打折（书籍） | *"had been remaindered"* |
+| remaindered | 清仓打折（书籍） | *"had been remaindered"* |
 | replete | 饱足的 | *"so replete that it staves off emotion"* |
 | unshed | 未流的 | *"tears unshed for fifteen years"* |
 | bottling up | 憋着（情感） | — |

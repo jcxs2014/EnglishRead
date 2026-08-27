@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Othello*（c. 1603）· William Shakespeare
 **核心叙事**：McGirr 在旧书摊花 4.5 美元买了一套 *Works of Shakespeare*——有**"衬垫封面和金色边缘"**，感觉更像"放在架子上的物品"而不是"享用的一本书"——里面有**一块捐赠牌匾**，表明这本书在维多利亚州 Bairnsdale 的 Convent Notre Dame de Sion High School 颁发给 Miss M. O'Loughlin 作为"学校 Dux（优秀生）"**。书里有两个手工书签——第一个：**"我亲爱的宝贝小 Molly 祝圣诞快乐，来自她老母亲。Sion。1920 年圣诞。"**书签夹在 *Othello* 的最后一场——**第二个：**"圣帕特里克荣耀日 1920 年**"**夹在 *The Tempest* 里。
 
-## 核心论证
+## 概览
 
 1. **"Iago = 恶魔的乐队指挥"**：Iago 是 Othello 的三把手，他"缓慢而不可阻挡地摧毁 Othello 和 Desdemona 之间的关系"——**McGirr 从未教过一个学生不被 Iago 的"细微和技巧"迷住**——**"William Booth（救世军创始人）抱怨魔鬼有所有最好的曲子。Iago 在 *Othello* 中确实带领乐队；他甚至用音乐的图像来描述他如何玩弄 Othello"**——**"Iago 操纵了所有人，可能除了他的妻子 Emilia"**。
 2. **"now, now, very now"——Iago 的色情视觉化**：Iago 对 Brabantio 喊——**"就现在，现在，非常现在，一头老黑公羊正在和一头白羊交配"**（an old black ram is tupping your white ewe）——**"对'now, now, very now'的强调为痛苦的父亲创造了一个即时的视觉画面"**——**"Iago 除了什么都不是，是个色情制造者"**（a pornographer）——**"他的性方法是完全视觉的：他是一个旁观者，把其他人降低到同样的通过窗户看的水平"**。

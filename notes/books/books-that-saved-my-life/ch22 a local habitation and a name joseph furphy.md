@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Such Is Life*（1903）· Joseph Furphy
 **核心叙事**：Furphy 是"最不成功的成功家庭成员"——哥哥 John 发明了著名的 Furphy Water Cart（澳洲军队在 WWI 期间围着这种水车交换谣言，所以"不可靠的消息"在澳洲被称为 **furphies**）。Joseph 是"沉默"的，但书里的叙述者 Tom Collins 却"外向而兴高采烈"。Furphy 在工厂做了 20 年机械工（每天 54 小时/6 天），回到小屋后面的"**铁皮棚**"写作——**"那个棚是沙漠中的洞穴"**（That shed was a cave in the desert.）。手稿于 1897 年 4 月送到 *The Bulletin* 主编 Archibald 的办公室——**"1200 页铜版书写的巨大手稿"**。
 
-## 核心论证
+## 概览
 
 1. **Twain 与 Furphy 的"倾听"**：Twain 的天才来自"**倾听**"——他"听到了声音，声音是真实的"（He heard voices and they were real）。Aunt Polly 的经典台词"**What's gone with that boy?**"取代了原来的"Where is that boy?"——**读者在读到名字之前就听到了 Polly 的声音**。Furphy 是"与 Twain 并肩的、澳洲最水银般的天才"。
 2. **"oxide of hydrogen" = "water"**：叙述者 Tom Collins 在讨论氢氧化物时说——他指的是水。一个在讲述 drover（赶牛人）的书里，在**1890 年代大旱和萧条**中，McGirr 在自己身上看到了"一些自命不凡"。Collins 在 drover 中坚持用"sanguinary"代替"bloody"，用"sheol"代替"hell"——**一种"荒谬的谦虚"**。

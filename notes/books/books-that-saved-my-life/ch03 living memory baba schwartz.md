@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*The May Beetles*（2016）· Baba Schwartz；*East of Time*（2005）· Jacob G. Rosenberg
 **核心叙事**：McGirr 从"文学为人类经验作证"（Literature bears witness to the entire experience of the human family）出发，引出一个无家可归诗人 David 的故事——他在庇护所的朋友帮他印了 200 本诗集，最关键的**不是书本身，而是他们帮他申请了一个 ISBN**：这意味着国家图书馆永久收藏两本，让"无家可归者的故事不会丢失"。接着 McGirr 引向大屠杀记忆文学——Jacob Rosenberg 的回忆录和 Baba Schwartz（90 岁大屠杀幸存者）的证词。
 
-## 核心论证
+## 概览
 
 1. **ISBN = 文明的承诺**：ISBN 让一个"无永久居所"的人的作品被国家图书馆永久收藏——"这是人道文明的一个标志"（a hallmark of a humane civilisation）：它愿意**倾听并记住**。
 2. **记忆的选择性荒诞**：社会有"记不住真正重要的事，却牢记某名人衣橱 malfunction 超过十年"的能力；新纳粹（neo-Nazis）再度抬头——"记忆"本身是政治性的。
@@ -47,7 +48,7 @@ modified: "2026-08-23"
 - 关键表达：**figure of freedom**（"自由的化身"）；**when to hold on and when to let go**（"何时坚持，何时放手"——本章的核心人生哲学）；**she wanted them to have their own lives**（"她想让她的女儿拥有自己的生活"——再婚的理由是"放手"，不是"再找伴侣"）。
 - 可迁移：**用"when to X and when to Y"结构表达"二元平衡的智慧"**——"know when to hold on and when to let go"是最常见的版本，但可以套用到任何二元对立。
 
-**⑥** "She said: 'There only needs to be a small complement of goodness in any person to turn him away from all the evil things he might imagine.'"
+**⑥** "Baba Schwartz said: 'There only needs to be a small complement of goodness in any person to turn him away from all the evil things he might imagine.'"
 - 中文理解：Baba 说：**"任何人只要有一小撮善良（a small complement of goodness），就能让他远离他想象得到的一切邪恶"**。
 - 写作技巧：**用"a small complement"（一小撮/一小部分）降低"善良"的门槛**——不是说"你必须是好人"，而是"你只要有'一点点'善良就够"——这比"你必须是善良的"更鼓励人。
 - 关键表达：**a small complement of goodness**（"一小撮善良"——McGirr 用"complement"这个词把"善良"从"品质"变成"剂量"）；**turn him away from all the evil things he might imagine**（"让他远离他想象得到的一切邪恶"——不是"所有邪恶"，而是"他想象得到的邪恶"，更精准）。
@@ -62,7 +63,7 @@ modified: "2026-08-23"
 | hallmark | 标志、特征 | *"a hallmark of a humane civilisation"* |
 | beggar belief | 令信仰破产、难以相信 | *"reasons that beggar belief"* |
 | mellow | 醇厚的、深思熟虑的 | *"Few accounts of inhumanity are as mellow as this one"* |
-| indignant | 愤慨的 | — |
+| entitlement | 愤慨的 | — |
 | unblemished | 无瑕的 | *"beneath the unblemished blue of an indifferent cosmic cupola"* |
 | cupola | 穹顶 | *"cosmic cupola"* |
 | plaintively | 哀伤地、恳求地 | *"Rosenberg adds plaintively"* |

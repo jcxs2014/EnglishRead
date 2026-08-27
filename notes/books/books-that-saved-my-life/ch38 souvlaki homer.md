@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*The Iliad*, Book 24（第八世纪 bce）· Homer
 **核心叙事**：McGirr 说 humbles souvlaki（希腊烤肉串）——**"卑微的 souvlaki 在历史中有一个可敬的地位。它是所有文学中最伟大时刻之一的支点"**（the pivot on which turns one of the great moments in all literature）。*Iliad* 最后一章，**"整个世界都筋疲力尽"**（the whole world is exhausted）——**"在西方叙事史上这么早达到这个最低点是令人不舒服的"**。Achilles 杀死 Hector 后进行了 12 天侮辱尸体——**然后 Troy 国王 Priam 独自去 Achilles 的帐篷请求带回儿子的遗体**——**"在最关键时刻，Achilles 给了 Priam 一个 souvlaki——羊肉，在烤架上旋转烤制，切成小块，放在面包里。两个男人第一次重新品尝食物。他们开始从悲伤中回家的漫长旅程。他们成了朋友。卑微的 souvlaki 取得了和任何帝国盛宴一样多的成就。"**
 
-## 核心论证
+## 概览
 
 1. **"Rage"（"愤怒"**）**：*Iliad* 的第一个词是"愤怒"——**"Robert Fagles 当代翻译的第一词是'Rage'；18 世纪 Pope 翻译的第一词是'Wrath'"**——**"不容易错过这个信息"**——**"*Iliad* 谈论每一次战斗过的战争和每一次家庭暴力场景"**——**"它处理愤怒和暴力，特别是男性的愤怒和男性的暴力——它们把人类历史推入无数悲剧"**。
 2. **Achilles 的愤怒 = "构造力"**：Achilles 是神的母亲 Thetis 和凡人父亲 Peleus 的儿子——**"Achilles 的愤怒是这首诗的发动机"**——Patroclus 死在 Hector 手里，**"Achilles 与 Hector 战斗并杀死了他。仅仅杀死还不够"**——**"十二天，Achilles 对 Hector 的尸体进行侮辱——他把 Hector 的尸体拖在战车后面一圈又一圈——毫无疑问希望他复活这样他可以再杀他一次"**。
@@ -80,7 +81,7 @@ modified: "2026-08-23"
 | pathetically small image of masculinity | 可耻的小男子气概形象 | — |
 | humility breaks the deadlock | 谦卑打破了僵局 | — |
 | the whole world is tired of conflict | 整个世界厌倦了冲突 | — |
-| imperially banquet | 帝国盛宴 | — |
+| extraordinary banquet | 帝国盛宴 | — |
 | rage | 愤怒 | — |
 | wrath | 愤怒 | — |
 

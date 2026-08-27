@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Mrs Beeton's Book of Household Management*（1861）· Isabella Beeton
 **核心叙事**：McGirr 把菜谱类书籍视为"披萨送到时阅读的消遣"（something to read while you wait for the pizza to be delivered）。但 Mrs Beeton "对我有眼力"——**她"不断务实"**（Mrs Beeton is ever practical）——她说 macaroons 太麻烦，**去买**；sea turtle soup 也是，**买罐装的**。除此之外有 1800 个菜谱——"几乎都是从别处偷来的"（nearly all pilfered from other sources）。她**"描绘女主人是'军队的指挥官'"**（the commander of an army）——**本章的标题**。
 
-## 核心论证
+## 概览
 
 1. **"recipe = imperative vs invitation"（"菜谱 = 命令 vs 邀请"）**：**"我不喜欢'recipe'这个词"**——recipe 源自拉丁语动词，是命令式，意思是"取"（take）。第一个字永远是"take"——**"Take two eggs, a cup of water and something else."**——**同样的词在配药时使用**——**烹饪是化学的一种形式**。但 McGirr 说："**我们称为 recipe 的不是命令，是邀请**"（what we call a recipe is not an imperative at all. It is an invitation）——**"邀请是问题"（An invitation is a question）**——**"菜谱想把很多经验传递给你，但同时也要求你找到自己的路"**。
 2. **妈妈的小厨房**：妈妈在厨房挂了一台双胞胎洗衣机旁边的小空间——**"厨房是我们家最小的房间，但它是妈妈的地方，也是所有我们的人受邀作客的地方"**——冬天点燃气烤箱取暖——**"我们几乎住在里面"**——**"妈妈的鞋子放在烤箱里给我们学校用"**——**"我确信我认为烤箱是洗衣设备"**——**妈妈讨厌寒冷**——**"她把'门不关好'说成'put the board in the hole'"**——**每年把壁橱翻个底朝天**——**发现丢失的东西和带故事的东西**——**"厨房才是真正的家庭博物馆"**（the kitchen was the real family museum）。

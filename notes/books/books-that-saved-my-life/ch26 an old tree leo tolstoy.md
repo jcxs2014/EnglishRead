@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*War and Peace*（1869）· Leo Tolstoy
 **核心叙事**：Tolstoy 年轻时赌博、拈花惹草、充满不安全感、无法控制冲动；中年时对妻子 Sonya 提出荒谬要求——Sonya 16 岁嫁给他时他 36 岁——**他要求她读他的日记**，日记详细记录了他之前的各种关系——**"他有 13 个孩子，坚持要求她生在一个他们做爱时用的破旧皮沙发上"**。但他对 McGirr 的债"**可能比任何其他作家都大**"——因为 McGirr 的爸爸 1974 年 6 月 15 日（周五）因肾衰竭在悉尼医院去世，McGirr 全家去医院说最后一遍再见——回家后发现 BBC 的 *War and Peace* 首播——**McGirr 12 岁，被迷住了**。
 
-## 核心论证
+## 概览
 
 1. **"pleasantness ≠ happiness"（"愉快 ≠ 幸福"）**：**"Tolstoy 理解'愉快'和'幸福'之间的区别"**（Tolstoy understood the difference between pleasantness and happiness）——**"愉快的事情关于符合别人的观念，用时尚来衡量你的生命。幸福是关于自由"**——**"幸福包括从取悦的暴政中解脱，尤其是从取悦自己的暴政中解脱"**（freedom from the tyranny of pleasing, especially the tyranny of pleasing yourself）。
 2. **Pierre 寻找意义**：Pierre Bezukhov 是一个伯爵的私生子——继承巨额财富——**"他过着愉快但极度不幸的生活"**——**他尝试一切：不幸福的婚姻、赌博、决斗、共济会、考虑参军"**——**作为共济会入会仪式，面对骷髅、棺材和燃烧的蜡烛——他不满意因为它们不够极端**——**"Pierre 希望能进入一个与旧生活完全脱离的新生活"**。
@@ -18,7 +19,7 @@ modified: "2026-08-23"
 
 ## 选择性精读
 
-**①** "He asks God to lie him down like a stone every night and in the morning raise him up like new bread."
+**①** "Platon asks God to lie him down like a stone every night and in the morning raise him up like new bread."
 - 中文理解：Platon Karataev 祈祷——**"他请求神每天夜里把他像石头一样放下，早上把他像新面包一样升起。"**
 - 写作技巧：**"like a stone" + "like new bread"**——Tolstoy 用"**石头**"和"**新面包**"这两个具体的物质来描述"死亡和重生"——**"石头 = 沉重的、冰冷的、无生命的 = 夜晚的安眠"**；**"新面包 = 新鲜的、温暖的、可食用的 = 白天的重生"**——**"每晚像石头 = 完全放下 = 完全休息"**；**"每天早上像新面包 = 完全新鲜 = 完全有用"**——**"石头的夜晚 → 新面包的早晨 = 死亡 → 重生 = 每日循环"**——**"Platon 的生活态度 = 每天死一次，每天重生一次"**——**"a great approach to life"（"一种伟大的生活态度"）**——**McGirr 的评论**。
 - 关键表达：**like a stone**（"像石头一样"——**"夜晚"**）；**raise him up like new bread**（"像新面包一样升起"——**"早晨"**）——**本章对"Platon 的祈祷"的核心定义**：**"石头 = 夜晚的安眠；新面包 = 早晨的重生"**；**a great approach to life**（"一种伟大的生活态度"——**McGirr 的评论**）。

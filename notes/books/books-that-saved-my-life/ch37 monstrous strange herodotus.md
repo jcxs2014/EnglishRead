@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*The Histories*（第五世纪 bce）· Herodotus
 **核心叙事**：McGirr 说他整个东西都可以读——**"你不会无聊"**——Herodotus 的 *Histories* 据说是最早的非虚构著作，但"这是一个有问题的主张，因为很大一部分是如此光荣地不可信"（a problematic claim because large parts of it are so gloriously improbable.）。Herodotus 用的"历史"词实际上更像是"探究"或"研究"**——**"历史学家在只想证明一个观点时是乏味的，在发现事物并暴露那些事物到不舒服的问题时是迷人的"**。Herodotus 和苏格拉底都"用无尽的问题不安世界"——**但苏格拉底用问题"把世界蒸馏到其本质"——怀疑；Herodotus"用问题庆祝世界的复杂性"——轻信**。
 
-## 核心论证
+## 概览
 
 1. **Herodotus vs Socrates**：两人都在"雅典那个相对小世界"中认识彼此——**"苏格拉底用问题把世界蒸馏到其本质——怀疑的习惯"**；**"Herodotus 用问题庆祝世界的复杂性——轻信的习惯"**——**"Herodotus 不是让一件事导向另一件事的历史学家——任何事都可以导向几十种方向"**——**"他对联系和因果关系同样感兴趣"**。
 2. **希腊 vs 波斯**：第五世纪前半，希腊联盟击退了波斯帝国的计划吞并——**"聪明的钱押在波斯身上，但希腊人挡住了他们"**——**"如果结果相反，希腊非凡的思想文化繁荣很可能从未发生——不会有苏格拉底、柏拉图或亚里士多德"**——**"我们将只有更多的战场和更多的尸体——上帝知道历史已经有足够多了"**。
@@ -42,7 +43,7 @@ modified: "2026-08-23"
 - 关键表达：**not an anonymous official version**（"不是匿名的官方版本"——**Herodotus 的"署名"**）；**a creative imagination at work**（"创造性的想象力在工作"——**Herodotus 的"创造"**）——**本章对 Herodotus 的核心定义**：**"不是匿名的官方版本 + 创造性的想象力 + 有人在承担责任 = Herodotus 的作者性"**。
 - 可迁移：**用"X 不是 Y 而是 Z"描述"一种真正的定义"**——"历史不是匿名的官方版本而是作者的创造"。
 
-**⑤** "Homer finds immortality in the gods. Herodotus finds immortality in our present realm, in collective human memory."
+**⑤** "Herodotus finds immortality in our present realm, in collective human memory."
 - 中文理解：McGirr 对比 Homer 和 Herodotus——**"Homer 在不朽的神中寻找；Herodotus 在我们现在的领域中寻找不朽——在集体的人类记忆中。"**
 - 写作技巧：**"Homer finds immortality in the gods" + "Herodotus finds immortality in our present realm, in collective human memory"**——McGirr 用**"Homer 在不朽的神中寻找"和"Herodotus 在我们现在的领域中寻找不朽——在集体的人类记忆中"**这两个短语的对比来描述 Homer 和 Herodotus 的"不朽策略"**——**"神" = 超自然的 = Homer 的"不朽"**；**"集体的人类记忆" = 自然的 = Herodotus 的"不朽"**——**"神 vs 人类记忆 = Homer vs Herodotus = 超自然 vs 自然"**——**"Homer 的神是不守本分的顽皮小鬼"用**"不守本分的顽皮小鬼"把"神"从"神圣"变成"不成熟"**——**"Herodotus 的人类往往比生命本身更伟大"用**"比生命本身更伟大"把"人类"从"渺小"变成"伟大"**——**"神 = 不守本分；人类 = 比生命更伟大 = Homer vs Herodotus 的对比"**——**"后来思想家会意识到这两种方法没有非常不同"用**"没有非常不同"把"Homer vs Herodotus"从"对立"变成"互补"**。
 - 关键表达：**Homer finds immortality in the gods**（"Homer 在不朽的神中寻找"——**Homer 的"不朽"**）；**collective human memory**（"集体的人类记忆"——**Herodotus 的"不朽"**）——**本章对 Herodotus vs Homer 的核心定义**：**"Homer = 神 = 不守本分；Herodotus = 集体人类记忆 = 比生命更伟大"**。

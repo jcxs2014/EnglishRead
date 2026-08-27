@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*On the Shortness of Life*（c. 55 ce）· Seneca
 **核心叙事**：McGirr 说拉丁语——**"琐碎的思想在拉丁语中听起来更好。这是让这种语言在最后一个角斗士咽气数百年后仍然活着的原因之一"**（It's one thing that keeps the language alive so many centuries after the last gladiator bit the dust.）。McGirr 最喜爱的拉丁谚语是一位老修女给他的——**"omni quique proprius stercus bene olet"——"对每个人来说，他们自己的屎闻起来最好"**——**"我一直以来都努力实现这一点"**（I have always tried to live up to that）。McGirr 16 岁时在 Tyrell's Bookshop 花了 1 美元买了一本 *Latin Elegy, Lyric and Epigram*，在其中发现了 Seneca 的句子——**"Omnia mors poscit. Lex est, non poena, perire."**——**"死亡拥有一切。毁灭是法律，不是惩罚。"**——**"Seneca 是'一个让我灵魂味蕾振奋的人，就像第一次尝到发霉的奶酪'"**——McGirr 爱上了"对苍凉做作的喜爱"。
 
-## 核心论证
+## 概览
 
 1. **"琐碎的思想在拉丁语中听起来更好"**：**"拉丁语对讨论电脑问题、火箭科学或干洗并不擅长"**——但**"当涉及到'尽力而为'或'寻求真理'这样崇高的情感时，没有什么比拉丁语更好"**——**"说'克服困难'是一回事，而说 *per ardua ad astra*（穿过逆境到达星辰）是另一回事"**——**"拉丁语的陈词滥调从不听起来像陈词滥调——它们听起来像纹章的一部分"**。
 2. **"stercus"谚语**：老修女给 McGirr 的谚语——**"omni quique proprius stercus bene olet"（"对每个人来说，他们自己的屎闻起来最好"）**——**"我一直以来都努力实现这一点"**——**"这是对'自我'的自嘲式描述"——"每个人都觉得自己最好"——"修女用拉丁语说脏话 = 智慧"**。

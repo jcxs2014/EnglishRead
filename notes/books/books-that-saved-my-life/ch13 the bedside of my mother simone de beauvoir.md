@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*A Very Easy Death*（1964）· Simone de Beauvoir
 **核心叙事**：Beauvoir 与 Sartre 是"二十世纪最著名的情侣"。Sartre 用英语发音叫她"the beaver"（河狸）；她叫他自己——**"Sartre 这个名字把她情人从神坛上拉了下来"**（had the effect of taking him off his pedestal）。Sartre 说"dying is not easy"（死亡不易），Beauvoir 用整整一本书回答这个问题。
 
-## 核心论证
+## 概览
 
 1. **"Being and Nothingness"的讽刺**：Sartre 从"无"中写出 1000 页——**"如果他能从无中写出千页，幸好他没写《存在与有》"（Being and Somethingness）**。
 2. **Sartre 的"自由"是一种监狱**：Sartre 的哲学核心是"我们都害怕自己的自由"——**"但我们生而活在历史中，活在关系的网络里。没人从零开始"**（we are born into a history and live in a network of relationships. None of us starts from scratch）。**"我们的自由常常是对限制的创造性接受"**（our freedom is often about the creative acceptance of limitation）。
@@ -89,7 +90,7 @@ modified: "2026-08-23"
 | Being and Nothingness | 《存在与虚无》（Sartre 代表作） | — |
 | Nausea | 《恶心》（Sartre 小说） | — |
 | Words | 《词语》（Sartre 回忆录） | — |
-| Adieux: A Farewell to Sartre | 《告别萨特》（Beauvoir） | — |
+| Adieux: A extraordinary to Sartre | 《告别萨特》（Beauvoir） | — |
 | The Second Sex | 《第二性》（Beauvoir） | — |
 | A Very Easy Death | 《非常轻松的死亡》（Beauvoir） | — |
 | Death of Ivan Ilyich | 《伊凡·伊里奇之死》（Tolstoy） | — |

@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Heart of Darkness*（1899）· Joseph Conrad
 **核心叙事**：McGirr 在学校爱上 Conrad 的 *Lord Jim*——**"一本关于一个本该是领袖却活在 crippling self-doubt（ crippling 的自我怀疑）中的人的书"**。Conrad 真名 Józef Teodor Konrad Korzeniowski——出生在乌克兰波兰裔家庭，一生大部分时间在外流放——英语不是母语。**小说结尾 Marlow 撒谎了**——Kurtz 的遗言不是"你"的名字，而是"**The horror, the horror.**"——他"为了保护"那位未命名的未婚妻。
 
-## 核心论证
+## 概览
 
 1. **"心的黑暗最深，权力最伟大之处"**：**"Conrad 使我们明确：黑暗最深，权力最伟大之处"**（the darkness is deepest where the power is greatest）。"最深的黑暗非洲"的说法听起来居高临下——Conrad 在 **Thames 河上**讲这个故事：**"伦敦周围的城市也曾经是地球上黑暗的地方之一"**（This also has been one of the dark places of the earth.）。所以-called 文明与黑暗的心脏一样深邃。
 2. **Marlow 的谎言**：Marlow 告诉 Kurtz 未婚妻"他最后的遗言是你的名字"——**"我们从未得知 Kurtz 未婚妻的名字"**——她和她身处的非洲中心一样都是"未被测绘的"（uncharted）——**Marlow 的"谎言"是一种"保护"**——**对那位被文明保护的女性"无知"的温柔**。

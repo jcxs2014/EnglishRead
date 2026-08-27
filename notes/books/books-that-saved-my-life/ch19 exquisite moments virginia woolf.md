@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Mrs Dalloway*（1925）· Virginia Woolf
 **核心叙事**：McGirr 住的房子建于 1925 年——**"同年 Virginia Woolf 出版了她的第四部长篇小说 *Mrs Dalloway*"**。McGirr 邀请 84 岁的 John Doenau 来家里吃午饭——John 发现**他就在 McGirr 街上出生**，他父亲是加里波利战役老兵，这整条街是"**为退伍士兵建造的住房**"。**"John 说：'我在这块地板上爬过'"**——McGirr 突然意识到他住在一个"充满痛苦和挣扎的历史"的地方——**"这正是 Virginia Woolf 在《Mrs Dalloway》中处理的：在体面生活无波无澜的外表下，持续存在的痛苦"**（the pain that endures beneath the unruffled exterior of a respectable existence）。
 
-## 核心论证
+## 概览
 
 1. **1925 年 = 一个被打破的世界的文学回应**：McGirr 指出 1922 年（Woolf 的 Hogarth Press 出版 Eliot 的 *The Waste Land*）和 1925 年（*Mrs Dalloway* 出版）是"**文学意识到一个准备自我毁灭的物种无法被维多利亚/爱德华时代'有始有终、有可靠叙述者'的小说结构所代表**"的年份——**"文学在 1922 年意识到了这一点"**。
 2. **Woolf 的传记式"破碎"**：Woolf 的父亲是著名知识分子、**"一个直言不讳的无神论者，容易在压力之下暴怒"（a strident atheist and prone to fits of bone-shaking rage）**；母亲在 Woolf 13 岁时去世；继姐 Stella 在 Woolf 15 岁时婚后三个月去世；**"Woolf 被她同父异母的哥哥 George 和 Gerald 性侵"**——**"所有这些发生在她成年之前"**——**"她自己的心理健康'脆弱'就不奇怪了"**（it is no surprise that her own mental health was...delicate）。
@@ -31,7 +32,7 @@ modified: "2026-08-23"
 - 关键表达：**makes things up**（"编造事物"——小说的表面行为）；**sheds light on reality**（"照亮现实"——**小说的真正功能**）；**discovery more than invention**（"发现多于发明"——**本章对"小说"的核心定义**）。
 - 可迁移：**用"X 是 Y 多于 Z"重新定义"X"**——"小说是发现多于发明"。
 
-**③** "The word 'moment'...Daryl Barclay has counted more than seventy occasions in Mrs Dalloway where Woolf uses the word 'moment'. He had printed on it the words from early in the book 'one must pay back from this secret deposit of exquisite moments.'"
+**③** "A friend and colleague of mine, Daryl Barclay, has counted more than seventy occasions in Mrs Dalloway where Woolf uses the word 'moment'. He even had a fridge magnet made to give to his literature students in their final year of school when they were studying the book. He had printed on it the words from early in the book 'one must pay back from this secret deposit of exquisite moments.'"
 - 中文理解：McGirr 的同事 Daryl Barclay 数过《Mrs Dalloway》中 Woolf 用了"moment"这个词**70 多次**——他给学生发冰箱磁铁，上面印着：**"必须从'精美时刻的秘密储备'中偿还"**（one must pay back from this secret deposit of exquisite moments）。
 - 写作技巧：**"secret deposit" + "pay back"**——Woolf/McGirr 用"**秘密储备**"和"**偿还**"这两个金融/银行术语来定义"**精美时刻**"——**"精美时刻不是'享受的'，是'储备'的"**；**"你'偿还'它们"——**"精美时刻"是一个**"银行"——你存进去，再取出来"**——**"Woolf 把'精美时刻'从'个人的愉悦'变成'集体的债务'**"——**"你必须'偿还'你的精美时刻"**——**"精美时刻不是一种权利，是一种责任"**。
 - 关键表达：**seventy occasions**（"70 多次"——"moment"这个词的重复）；**a secret deposit**（"秘密储备"——**精美时刻的"银行化"**）；**exquisite moments**（"精美时刻"——**本章标题**）；**pay back**（"偿还"——**精美时刻的"责任化"**）。

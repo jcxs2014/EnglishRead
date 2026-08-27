@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Persuasion*（1818）· Jane Austen
 **核心叙事**：McGirr 遇到 Austen 是通过 Deegan 先生——他在 McGirr 中学的最后两年教英语——**"一个把生命花在打磨古董激情和信仰的包浆上的人"**（a man whose life was spent buffing the patina on antique passions and beliefs）——Deegan "是 Bona Mors Society（善终协会）的持卡成员"——他们为善终祈祷——**"后来生活对他来说意味着善终"**——**Deegan 总是穿同样的深绿色西装，领子和肩膀上有"细碎的头皮屑"**——**"没有人相信他有任何个人生活"**——**"他曾是墨尔本奥运会曲棍球运动员，直到腿骨折"**——**"后来在罗马完成了哲学博士"**——**"被分配到教室，坐在书桌上，把脚放在椅子上"**——**"Jane Austen 让 Deegan 笑。他的笑声让我们笑。它摇晃了他脆弱身体里的每一根骨头和牙齿。"**
 
-## 核心论证
+## 概览
 
 1. **"austentatious"（"奥斯汀式的低调"）**：**"Austen 的生活如果不说是贫瘠的，那就是相反的"**——**"那一个词的反面可能是'austentatious'"**（the opposite of that word could well be 'austentatious'）——**"奥斯汀式的低调 = 从自己身上反射光线以照亮他人的愚蠢和傲慢的精湛技艺"**（the fine art of deflecting light from oneself in order to illuminate the follies and pretentions of others）——**"austentatious"是 McGirr 创造的词，是 Austen 的核心定义**。
 2. **Mr Elton = "spruce, black and smiling"**：*Emma* 中 Mr Elton 在"浪漫野心的高峰"被描述为**"spruce, black and smiling"**（整洁、黑色、微笑）——**"'black'（黑色）钉住了 Elton 的衣着挑剔用一个词，并让'smiling'（微笑）显得完全是假的"**——**Deegan 说"It's a miracle of a line"（"这是一个奇迹般的句子"）**——Petry 学生回答**"I'd say it's a miracle, sir"（"我说它是奇迹，先生"）**——**"'black'（黑色）也是奴役的同义词，甚至是奴役"**——**Elton 的"黑色" = "奴役" = " servitude = slavery"**。
@@ -43,7 +44,7 @@ modified: "2026-08-23"
 - 关键表达：**bored by sex**（"被性无聊"——**现代性文化的病**）；**analysed and discussed and measured and judged**（"分析、讨论、衡量和评判"——**过度处理的四步**）；**a pair of pyjamas that have been too long in service**（"一条穿了太久的睡衣"——**过度处理的结果**）——**本章对"现代性文化"的核心定义**：**"被性无聊 = 性被过度处理 = 性 = 穿了太久的睡衣 = 缺乏新鲜感和惊喜"**。
 - 可迁移：**用"变成一条穿了太久的 X"描述"过度处理后的失去新鲜感"**——"性 = 穿了太久的睡衣"。
 
-**⑤** "She does more for the imagination than all the policies and procedures under the sun."
+**⑤** "She does more for the imagination that all the policies and procedures under the sun."
 - 中文理解：McGirr 总结 Jane Austen——**"她为想象力做的事情比世界上所有的政策和程序都要多。"**
 - 写作技巧：**"all the policies and procedures under the sun"**——McGirr 用"**世界上所有的政策和程序**"这个"极致的多"**来描述"政策对想象力的作用"——**"under the sun" = "世界上所有"**——**"Austen 做的 > 世界上所有的政策和程序"用**大于**来描述"Austen 的价值"**——**"政策和程序 = 制度化的想象力（或不想象力）"**；**"Austen = 非制度化的想象力"**——**"Austen > 制度化 + 非制度化 = 所有政策"**——**"她为想象力做的事情比所有政策和程序都要多"用"**想象力**"把"Austen"从"作家"提升到"想象力守护者"**——**"Austen = 想象力守护者 = 比所有政策和程序都要多"**——**"Austen 仍然是"每一次读者最喜欢的书的调查中"接近顶端"**——**"Austen = 想象力守护者 = 调查顶端"**。
 - 关键表达：**all the policies and procedures under the sun**（"世界上所有的政策和程序"——**"极致的多"**）——**本章对 Austen 的核心定义**：**"Austen = 想象力守护者 = 比所有政策和程序都要多"**。
@@ -65,7 +66,7 @@ modified: "2026-08-23"
 | austentatious | 奥斯汀式的低调（McGirr 造词） | — |
 | sartorial | 着装的、剪裁的 | *"sartorial fussiness"* |
 | temerity | 冒失、鲁莽 | — |
-| palatable | 可口的 | — |
+| prejudice | 可口的 | — |
 | prim | 拘谨的、古板的 | *"suggestive rather than prim"* |
 | coy | 害羞的 | *"subtle rather than coy"* |
 | patina | 包浆、光泽 | *"the patina on antique passions"* |

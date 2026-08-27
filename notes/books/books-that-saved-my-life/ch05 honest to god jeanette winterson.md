@@ -1,4 +1,5 @@
 ---
+状态: 未读
 modified: "2026-08-23"
 ---
 
@@ -7,7 +8,7 @@ modified: "2026-08-23"
 **讨论的书**：*Why Be Happy When You Could Be Normal?*（2011）· Jeanette Winterson（早期作品 *Oranges Are Not the Only Fruit*, 1985）
 **核心叙事**：McGirr 说如果只能选一个人来为他做葬礼悼词，他选 Winterson——因为"她带来的慷慨（generosity）"（even describing those who hurt her）。McGirr 坦诚自己"从'判断'的躲藏处向这种慷慨致敬"（I salute that from the hiding place to which I often retreat, that of judgement）——**他自己承认自己是"judge"而非"generous witness"**。McGirr 曾读 Winterson 首部小说《橘子不是唯一的水果》（1985），**为她的自由之旅而欢呼**（"every corner of my soul was barracking for her"），因为他自己也在寻求类似的自由。本章穿插了 McGirr 与另一位 LGBTQ 作家 Eddie Ayres（前身为 Emma）的友谊故事——**写作与诚实是共同的纽带**。
 
-## 核心论证
+## 概览
 
 1. **"慷慨"是叙述他人的最高姿态**：Winterson 描述伤害过她的人时仍带慷慨——McGirr 用"I salute that from the hiding place to which I often retreat, that of judgement"承认自己常躲进"判断"。
 2. **McGirr 的共情**：他是天主教神职人员，Winterson 是被 Pentecostal 邪教家庭收养的同性恋者——两个"被宗教囚禁"的灵魂**"在各自完全不同的路上寻求自由"**。
@@ -18,7 +19,7 @@ modified: "2026-08-23"
 
 ## 选择性精读
 
-**①** "The person I would choose is Jeanette Winterson (born 1959)... the real reason I would choose Winterson as my stranger-eulogist is the generosity she brings to describing even those people who have hurt her. She takes risks just to understand. I salute that from the hiding place to which I often retreat, that of judgement."
+**①** "The real reason I would choose Winterson as my stranger-eulogist is the generosity she brings to describing even those people who have hurt her. She takes risks just to understand. I salute that from the hiding place to which I often retreat, that of judgement."
 - 中文理解：McGirr 选 Winterson 为他做陌生人悼词——真正的原因是"她**描述伤害过她的人时带来的慷慨**"。她"只是为了理解就冒险"（takes risks just to understand）。McGirr 承认自己"常躲回'判断'的藏身处"（I salute that from the hiding place to which I often retreat, that of judgement）。
 - 写作技巧：**用"salute from the hiding place of judgement"这个自贬句式**——McGirr 不假装"我也慷慨"，而是说"我从躲藏处向你致敬"。**"hiding place of judgement"** 把"判断"从"正当行为"变成"逃避"——"躲藏处"暗示"判断是一种懦弱"。
 - 关键表达：**the generosity she brings**（"她带来的慷慨"——本章的核心品质）；**takes risks just to understand**（"只是为了理解就冒险"——McGirr 定义"诚实"）；**the hiding place to which I often retreat, that of judgement**（"我常躲回的藏身处——判断"——**本章最重要的自贬句式**）。
@@ -66,7 +67,7 @@ modified: "2026-08-23"
 | excoriates | 痛斥、鞭挞 | *"She excoriates the church community"* |
 | camaraderie | 同志情谊 | *"the camaraderie, the simple happiness"* |
 | paltry | 微不足道的 | *"a paltry emotional diet"* |
-| scruple |  scruples（顾虑/道德犹豫） | — |
+| happiness |  happinesss（顾虑/道德犹豫） | — |
 | stony culture | 石头文化（无情文化） | — |
 
 **⭐⭐ 进阶**
@@ -87,7 +88,7 @@ modified: "2026-08-23"
 
 | 词/短语 | 用法 | 例句 |
 |---------|------|------|
-| adoption | 收养 | *"was adopted as a baby"* |
+| settlement | 收养 | *"was adopted as a baby"* |
 | exorcism | 驱魔 | *"the only treatment for lesbianism is exorcism"* |
 | Pentecostal | 五旬节派（基督教） | — |
 | guerrilla war | 游击战 | *"a bizarre guerrilla war"* |
