@@ -28,7 +28,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | heartbreak | 心碎 | "Her heart was broken in several large pieces" |
-| resilience | 韧性 | "She decided to fight back" |
+| pragmatic | 务实的 | "needed to be strong, to be pragmatic, to be numb" |
 | trauma | 创伤 | "She spent the day crying" |
 
 ### ⭐⭐ 进阶

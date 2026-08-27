@@ -35,7 +35,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | sexual harassment | 性骚扰 | "Tom tried to force himself on Olive" |
-| breakdown | 崩溃 | "She was crying for a solid twenty minutes" |
+| embarrassment | 尴尬 | "secondhand embarrassment" |
 | falling in love | 掉进爱里 | "You just had to go and make me fall for you" |
 
 ### ⭐⭐ 进阶

@@ -35,7 +35,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | lap | 大腿（Adam 的身体） | "top fifth percentile for comfort" |
-| branded | 烙印（身体接触的强度） | "It felt like being branded" |
+| crimson | 涨红的（脸色的反应） | "she felt her cheeks go crimson" |
 | auditorium | 会议室 | "the moment Olive opened the door of the auditorium" |
 
 ### ⭐⭐ 进阶

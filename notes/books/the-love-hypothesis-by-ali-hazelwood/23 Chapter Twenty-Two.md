@@ -29,14 +29,14 @@ modified: "2026-08-26"
 |---|---|---|
 | vulnerability | 脆弱 | "Adam didn't act embarrassed" |
 | humor | 幽默 | "Holden's embarrassing stories" |
-| intimacy | 亲密 | "they were all laughing together" |
+| exhilarated | 兴奋的 | "exhilarated for him" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | fortune cookie | 幸运饼干 | "a large bowl of fortune cookies" |
 | restaurant | 餐厅 | "on their way out of the restaurant" |
-| childhood | 童年 | "six years old" |
+| young | 年轻的 | "peel the youngest off you" |
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

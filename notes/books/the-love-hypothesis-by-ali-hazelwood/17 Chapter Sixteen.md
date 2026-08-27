@@ -42,7 +42,7 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | hotel room | 酒店房间 | "in a hotel room in Boston" |
-| intimacy | 亲密 | "their first time" |
+| intimate | 亲密的 | "something this intimate" |
 | first time | 第一次 | "after the conference" |
 
 ### ⭐ 基础

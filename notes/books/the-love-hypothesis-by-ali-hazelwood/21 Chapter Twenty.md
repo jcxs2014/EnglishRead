@@ -27,9 +27,9 @@ modified: "2026-08-26"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| declaration of love | 表白 | "the woman I love" |
+| consequences | 后果 | "deal with the consequences" |
 | protection | 保护 | "I'm going to kill you" |
-| confrontation | 对抗 | "Adam pinned Tom against the wall" |
+| frighteningly | 令人恐惧地 | "something dark and dangerous and frighteningly still" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

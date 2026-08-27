@@ -27,14 +27,14 @@ modified: "2026-08-26"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| intimacy | 亲密 | "He didn't let go" |
+| intense | 强烈的 | "intense act" |
 | staying | 停留 | "His hand closed tight around her waist" |
 | emotional connection | 情感连接 | "He stayed by her side" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| afterglow | 余温 | "the mattress dip" |
+| curled | 蜷缩 | "remained curled up" |
 | water | 水 | "a fresh glass of water" |
 | sleeping | 睡觉 | "She drifted off" |
 

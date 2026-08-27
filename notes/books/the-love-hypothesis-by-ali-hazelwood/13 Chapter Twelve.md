@@ -27,9 +27,9 @@ modified: "2026-08-26"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| emptiness | 空旷感 | "Campus felt strangely empty" |
+| absence | 缺席 | "Adam's absence most acutely" |
 | denial | 否认 | "she likely wouldn't have met him anyway" |
-| separation | 分离 | "with Adam gone" |
+| unreciprocated | 不对等的 | "unreciprocated crush" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

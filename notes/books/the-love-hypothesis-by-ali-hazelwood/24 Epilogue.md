@@ -28,8 +28,8 @@ modified: "2026-08-26"
 | 词汇 | 释义 | 例句 |
 |---|---|---|
 | happy ending | 幸福结局 | "when I fall in love, things don't turn out to be that bad" |
-| growth | 成长 | "She was going to start working at Berkeley" |
-| reciprocity | 互惠 | "May I kiss you, Dr. Carlsen?" |
+| indulgent | 纵容的（自我宽待） | "indulgent" |
+| reconstructed | 重建的 | "reconstructed" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |

@@ -27,7 +27,7 @@ modified: "2026-08-26"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| reunion | 重逢 | "with Adam back" |
+| accomplishments | 成就 | "Adam's scientific accomplishments" |
 | inevitable | 不可避免的 | "only one room left" |
 | proximity | 接近 | "sharing a room" |
 
@@ -36,7 +36,7 @@ modified: "2026-08-26"
 |---|---|---|
 | conference | 会议 | "SBD conference" |
 | hotel | 酒店 | "only one room available" |
-| reservation | 预订 | "the booking system" |
+| repercussions | 后果 | "without repercussions" |
 
 ### ⭐ 基础
 | 词汇 | 释义 | 例句 |

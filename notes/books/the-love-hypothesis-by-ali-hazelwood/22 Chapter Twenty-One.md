@@ -27,9 +27,9 @@ modified: "2026-08-26"
 ### ⭐⭐⭐ 高级
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| recognition | 认可 | "I was very impressed with her work" |
+| impressed | 印象深刻的 | "I was very impressed with her work" |
 | career | 职业 | "her work on early detection tools" |
-| independence | 独立 | "her research had its own value" |
+| serendipitous | 偶然的（美好的） | "serendipitous dinner" |
 
 ### ⭐⭐ 进阶
 | 词汇 | 释义 | 例句 |
