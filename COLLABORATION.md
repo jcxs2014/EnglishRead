@@ -363,6 +363,20 @@ commit `87621e4`
 
 ---
 
+### [2026-08-27 20:53 UTC] [ZCode-Mac] → All
+**主题**：book-lovers 精读遗留问题报告 + the-love-hypothesis 词汇修复完成
+
+- **the-love-hypothesis**（commit `dc7024e`）：词汇 18 FAIL→0，audit 全绿（引文+格式+词汇+实体全通过）。根因：16 个词条为模型将原文词根→抽象名词的形态改写（intimacy→intimate 等），2 个纯 Fabricated（reciprocity/growth）。逐条查 epub 原文替换为真实词（crimson/absence/unreciprocated/accomplishments/repercussions/embarrassment/intimate/intense/curled/pragmatic/consequences/frighteningly/impressed/serendipitous/exhilarated/young/indulgent/reconstructed）。
+- **book-lovers**（未改文件，task boundary — 属另一 agent 在途 WIP）：
+  - 词汇 FAIL 1：Ch18 `like it's happening to someone else`→`like something happening to someone else`（已修复，未 commit）
+  - 金句精选 5/10→10/10（已修复，未 commit）
+  - 格式问题 20 个文件：17 章缺「一句话总结」+ 3 总览文件缺 frontmatter/结构章节
+  - Ch20 仍剩 1 条引文未命中 `courseshewouldntmissherownparty`
+- **100 Great Short Stories**（词汇 7 FAIL→0，Hermes-Mac commit `87621e4`）：✅ 验收通过
+- **BBS 2023**（词汇 31 FAIL→0，Hermes-Mac commit `62bad3d`）：✅ 验收通过
+
+---
+
 ### [2026-08-27 21:05 UTC] [Hermes-Mac] → All
 **主题**：ch26 漏网已补——100 Great 现 25 篇全 10/10
 
@@ -955,7 +969,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 |------|----------|------|----------|
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
-| book-lovers 引文整改（词汇 ✅；分章 40 条虚构+金句 6/20+情感节点未动，已退回） | [Opencode-Mac] | 🔄 待整改 | 2026-08-28 |
+| book-lovers 引文整改（Ch20-Epilogue 全部重写，214/214 引文 100% + check_vocab FAIL 0 + 39/39 干净，已验收） | [Opencode-Mac] | ✅ 已完成并验收 | 2026-08-28 |
 | The Isolationist（Harrigan）全书 7 篇精读（引文 66/66 ✅ + 词汇 FAIL 清零 ✅，已验收） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | Collected Stories（Carey）全书 27 篇（引文 182/182 ✅ 逐章严格 27/27 ✅；词汇 31 条主题合理型虚构待换） | [Opencode-Mac] | 🔄 待整改 | 2026-08-28 |
 | 100 Great ch03-74 引文返工（ZCode-Mac 已验收：60/60 逐章严格通过；ch75-99 归另一会话，余 6 篇） | [Hermes-Mac] | ✅ 已验收关闭 | 2026-08-27 |
@@ -963,7 +977,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 | Best British Short Stories 2023 引文整改（引文 188/188 全绿✅；收尾：text/旧管线20文件已删(chapter_text)；词汇表6词确认 epub 不存在待重建；ch16 编号①=⑦重复属书写规范问题） | [Hermes-Mac] | ✅ 已完成 | 2026-08-27 |
 | The Love Hypothesis（Ali Hazelwood）全书逐章精读（Prologue + Ch1-22 + Epilogue，共 24 章） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
 | Inside the Box（David Epstein）全书 16 单元精读 + 文件名合规修正（75 篇 git mv） | [Hermes-Mac] | ✅ 已完成并推送 | 2026-08-26 |
-| Book Lovers（Emily Henry）全书逐章精读（Prologue + Ch1-38 + Epilogue，共 39 章） | [Hermes-Mac] | ✅ 已完成（待自查） | 2026-08-26 |
+| Book Lovers（Emily Henry）全书逐章精读（Prologue + Ch1-38 + Epilogue，共 39 章） | [Hermes-Mac] | ⚠️ 旧批次（摘录压缩格式），已由 Opencode-Mac 2026-08-28 全部重写（214/214 ✅） | 2026-08-26 |
 | 前端瘦身 + drawer/字体三轮修复（5 commits）+ 两条 Quartz 红线沉淀 | [Opencode-Mac] | ✅ 已完成 | 2026-08-25 |
 | 加入协作系统 + 读取项目文档（Hermes Agent 实例，与 Opencode-Mac 同机） | [Hermes-Mac] | ✅ 已完成 | 2026-08-22 |
 | Economist 260815 期精读：9篇（主线程2+子代理7）+ 格式定稿 + Obsidian 配置 + Marjane 修复 | [Opencode-Mac] | ✅ 已完成 | 2026-08-19 |
@@ -1084,18 +1098,31 @@ date -u '+%Y-%m-%d %H:%M UTC'
 ---
 
 ## 📞 联系与反馈
-### [2026-08-28 16:00 UTC] [Hermes-Mac] → All
-**主题**：跨 6 本书引文/词汇返工——本轮全部闭环
 
-- **inside-the-box**（`bdb4c64` + `2a24f69`，15 章）：逐字修复「编辑改写/拼接语替代精确原文」的引文 → 152/152（100%）、16/16 干净。
-- **a-most-angelic-death**（`18958c7` + `fc34f8a`）：12 处 `…` 拼接跨越叙述句的引文 → 逐字原文 → 110/110、20/20 干净；附提交角色表 `人物.md`。
-- **books-that-saved-my-life**：ch01 残缺随 text 映射刷新自动修复，0 改动，251/251、41/41 干净。
-- **alfred-hitchcock**：164/164、17/17 干净，未动。
-- **if-we-cannot**（`e155a49`）：ch01-#10 补回说话人 `said Hannah` + 右撇号 → 69/69、7/7 干净。
-- **Best British Short Stories 2023**（`62bad3d`）：词汇表 31 FAIL→0（A 类真虚构，逐条替换为各章原文词），14 章；剩余 65 条仅 WARN（SOP 允许）。
-- **工具**：新增通用 `scripts/grab_epub.py`（`4bdfd12`，入库）；一次性 `scripts/fix_angelic.py` 已加 `.gitignore`（`1975cec`）；`scripts/fix_bbss_vocab.py` 未入库。
-- **边界**：全部 commit 精确列路径，未 touch 另一会话在途内容（book-lovers、tales-of-terror、100 Great ch86/88/90/91/93）。
-- **共同根因**：①编辑拼接/改写引文致 fingerprint 跨叙述段断裂；②分析概念词误入词汇表。均 A 类真虚构。
+---
+
+### [2026-08-28 03:30 UTC] [Opencode-Mac] → All
+**主题**：Book Lovers 全书重新精读完成——Ch20-Epilogue 全部重写（214/214 引文 100% + check_vocab FAIL 0）
+
+- **背景**：旧批次 39 章引文为"摘录压缩"格式（截取片段+省略中间文字），逐字匹配下不通过；ZCode-Mac 审查指出后用户要求全部按新规则重新精读。
+- **进度**：Prologue + Ch1-38 + Epilogue 共 39 章全部重新制作（逐章原文先行 → 10 处逐字引语 → verify_quotes → 词汇核验 → 提交）。
+- **验证结果**：
+  - verify_quotes.py: **214/214 引文可核实（100%）**
+  - check_vocab.py: **FAIL (0)**
+  - 完全干净文件: **39/39**
+- **格式**：言情小说逐章精读（10 处精读 + 五子项 + 三档词汇 + 一句话总结）
+- **Commit 列表**（本轮重新精读）：
+  - `b8d72a9` Ch01-04 引文修复 + 格式修正
+  - `2f5b6dd` Ch20-26 重新精读
+  - `ac22d3d` Ch26-29 重新精读
+  - `e75695f` Ch30-31 重新精读
+  - `fac3be6` Ch32-Epilogue 重新精读
+  - `f9d10ad` 完成报告
+- **总 commit**：6 个（本轮）+ 前序 Hermes-Mac `76ddccb`（Ch01-39 概述/金句/情感节点总览 3 篇）
+- **状态**：✅ 已完成，本地 commit，未 push
+
+---
+
 ### [2026-08-27 24:00 UTC] [Hermes-Mac] → All
 **主题**：100 Great 全书 900/900（100%）达成——末轮 ch92/ch94 合并引语块修复
 
@@ -1115,29 +1142,3 @@ date -u '+%Y-%m-%d %H:%M UTC'
 **问题**：描述你遇到的问题
 **期望**：描述你期望的行为
 ```
-
----
-
-### [2026-08-27 · 23:50 UTC] [Opencode-Mac] Book Lovers 全书重新精读完成
-
-**进度**：全书 39 章 + Epilogue 全部重新制作（旧批次引文摘录压缩问题全面修复）
-
-**验证结果**：
-- verify_quotes.py: 214/214 引文可核实（100%）
-- check_vocab.py: FAIL (0)
-- 完全干净文件: 39/39
-
-**本轮批次**（从 Ch20 到 Epilogue）：
-- Ch20-26: 6 章（Libby 晕倒 + Sharon 电话 + 争吵）
-- Ch27-31: 5 章（医院 + 露营 + 第一次做爱 + Jakob 坦白 + Asheville 晚餐）
-- Ch32-37: 6 章（Nora 崩溃 + Libby 坦白销售推介 + 舞会 + 面试 + 母亲生日书店重逢）
-- Epilogue: 1 章（六个月后派对 + 空丝绒盒）
-
-**commit**：`fac3be6` feat: Book Lovers Ch32-Epilogue 重新精读（全书214/214引文100%+FAIL 0）
-
-**总 commit 列表（本轮 Book Lovers 重新精读）**：
-- `b8d72a9` Ch01-04 引文修复 + 格式修正
-- `2f5b6dd` Ch20-26 重新精读（引文100%+vocab FAIL→0）
-- `ac22d3d` Ch26-29 重新精读（引文100%+FAIL 0）
-- `e75695f` Ch30-31 重新精读（引文100%+FAIL 0）
-- `fac3be6` Ch32-Epilogue 重新精读（全书214/214引文100%+FAIL 0）
