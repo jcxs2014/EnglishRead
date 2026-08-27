@@ -23,7 +23,7 @@ modified: "2026-08-26"
 |---|---|---|
 | 门捷列夫写作《化学原理》：先按实验室操作习惯组织（杂乱无章）→ 再按字母序排列元素（最直觉的方案）→ 被出版合同篇幅逼得放弃字母序、尝试按族分类 | 史料（Epstein 重新讲述） | 直觉路径不产生突破，被迫改变才有 |
 | 心理学家 1980 年代提出"认知吝啬鬼"（cognitive misers）：人类用有限认知资源时，倾向于取用容易、直觉的方案，不是因为好，而是因为熟悉 | 认知科学理论 | 人性默认走最熟悉路径 |
-| Daniel Willingham："The brain is not designed for thinking. It's designed to save you from having to think." | 认知科学家引语 | 大脑天然逃避深度思考 |
+| Daniel Willingham："The brain is not designed for thinking. It is designed to save you from having to think." | 认知科学家引语 | 大脑天然逃避深度思考 |
 | 门捷列夫尝试"化合价递增排列"（部分成功但不够）→ 最终发现元素族分类 | 具体试错过程 | 突破是逼出来的，不是想出来的 |
 
 **论证脉络**：门捷列夫在写《化学原理》时的认知挣扎开场（直觉/字母序/版面限制）→ 抛出"认知吝啬鬼"理论（轻松获得解决方案 vs 真正好方案）→ 门捷列夫案例：直觉方案（按实验室操作、按字母序）全部失败 → 外部约束（出版合同）强迫他尝试新方案 → 逐步发现"元素族"思路 → Willingham 的认知科学引语把个人经历升格为普遍机制 → 全书核心命题：Total freedom is the enemy of creativity, and constraint its companion. → 留下悬念：Part II 将展开"如何设计约束"。

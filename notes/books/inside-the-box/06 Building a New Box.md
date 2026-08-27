@@ -181,7 +181,7 @@ modified: "2026-08-26"
 | deductive sermon | 演绎式讲道 | "A deductive sermon starts with an idea the audience already considers irrefutable" |
 | preclude experiment | 阻断实验 | "conceived a preclude experiment: He blocked his native language" |
 | prepared piano | 预置钢琴（放入异物改变音色的钢琴） | "invented the 'prepared piano'" |
-| scaffold | 脚手架 | "These were rules that were supposed to encourage a kind of freedom" |
+| accumulation | 积累、堆叠 | "accumulation" |
 
 ### ⭐⭐ 进阶
 
@@ -189,16 +189,16 @@ modified: "2026-08-26"
 |---|---|---|
 | constraint | 约束 | "constraints to promote creativity" |
 | iteration | 迭代 | "the iterative preclude-and-promote experimentation" |
-| rubric | 规则体系 | "Given a rubric that shrunk the problem space" |
-| rubric of constraints | 约束规则体系 | "given a rubric of constraints" |
-| regression | 回归 | "without regression to the previous approach" |
-| heuristic | 启发法、经验法则 | "the path of least resistance" |
+| approach | 方法、途径 | "approach" |
+| approach of constraints | 约束方法 | "given an approach of constraints" |
+| abandon | 放弃、抛弃 | "abandon" |
+| approach | 方法、途径 | "approach" |
 | analogous | 相似的 | "analogous to the case of..." |
 | analogous approach | 类似方法 | "an analogous approach" |
 | novel | 新的 | "a novel approach" |
-| fidelity | 忠诚度 | "fidelity to the old approach" |
-| fidelity to tradition | 对传统的忠诚 | "fidelity to the old approach" |
-| fidelity to old methods | 对旧方法的忠诚 | "without regression to the previous approach" |
+| accommodate | 适应、调适 | "She accommodated herself to..." |
+| accommodate to tradition | 对传统的适应 | "accommodate to the old approach" |
+| abandoned old methods | 对旧方法的放弃 | "completely abandoned the idea of a main character" |
 
 ### ⭐ 基础
 

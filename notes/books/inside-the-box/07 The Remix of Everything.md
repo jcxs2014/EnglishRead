@@ -180,7 +180,7 @@ modified: "2026-08-26"
 | cloaking | 裹在…斗篷里 | "initially cloaking it in the mantle of established institutions" |
 | create around copyright | 绕过版权创作 | "Lucas was forced to 'create around copyright'" |
 | archetype | 原型 | "Joseph Campbell's work on archetypal myths" |
-| fidelity to tradition | 对传统的忠诚 | "the fidelity to the old approach" |
+| adaptation to tradition | 对传统的适应 | "the adaptation to the old approach" |
 
 ### ⭐⭐ 进阶
 
@@ -189,10 +189,10 @@ modified: "2026-08-26"
 | novel | 新颖的 | "the degree of novelty" |
 | novelty | 新颖性 | "the degree of novelty of an individual study" |
 | blockbuster | 热门/大片 | "scientific blockbusters" |
-| hybrid | 混合的 | "a hybrid of novelty and familiarity" |
+| combination | 组合、混合 | "a combination of novelty and familiarity" |
 | harness | 利用 | "harness existing knowledge" |
-| derivative work | 衍生作品 | "an adaptation of a French prose story" |
-| intertextuality | 互文性 | "intertextuality is not plagiarism" |
+| adaptation | 改编、衍变 | "an adaptation of a French prose story" |
+| combination | 组合、结合 | "combinations" |
 | anchor | 锚定 | "Familiarity acts as an anchor for radical ideas" |
 | trope | 比喻/意象 | "the familiar and the novel" |
 | iteration | 迭代 | "the latest iteration in a deep lineage" |
