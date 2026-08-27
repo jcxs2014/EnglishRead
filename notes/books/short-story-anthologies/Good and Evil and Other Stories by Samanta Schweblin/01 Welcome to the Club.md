@@ -27,17 +27,45 @@ modified: "2026-08-27"
 
 ## 精读
 
-> **原句 1:** I jump into the water from the end of the pier and sink down, holding my nose. After the initial impact I open my eyes, surrendering to the fall as it grows softer, and to the colors all around me that seem new, denser, and more iridescent. I descend, holding my breath.
+> **原句 1a:** I jump into the water from the end of the pier and sink down, holding my nose.
 
-**中文理解**："我从码头尽头跳入水中，捏着鼻子下沉。初始冲击过后，我睁开眼睛，向下跌落，周围的色彩似乎更新、更密集、更闪烁。我屏住呼吸，继续下沉。"
+**中文理解**："我从码头尽头跳入水中，捏着鼻子下沉。"
 
-**句子结构**：三个句子构成递进——jump/sink → open eyes/surrender → descend，动作从主动到被动，暗示叙述者从"决定死"到"接受死"的心理转变。
+**句子结构**：第一个句子，动作从主动到被动，暗示叙述者从"决定死"到"接受死"的心理转变。
 
-**关键词**：surrendering（投降/放弃控制）、iridescent（彩虹色的，暗示濒死体验的超现实感）、holding my breath（屏息=屏住生命）
+**关键词**：jump（跳入=主动选择）、sink down（下沉=被动接受）
 
-**表达方式**：用现在时态制造临场感；"colors all around me that seem new, denser" 用感官细节而非心理描写来传达濒死体验。
+**表达方式**：用现在时态制造临场感。
 
-**为什么这样写**：Schweblin 不写"我想死"，而是用身体动作和感官细节让读者自己推断——这是 show-don't-tell 的极致。
+**为什么这样写**：Schweblin 不写"我想死"，而是用身体动作让读者自己推断——这是 show-don't-tell 的极致。
+
+---
+
+> **原句 1b:** After the initial impact I open my eyes, surrendering to the fall as it grows softer, and to the colors all around me that seem new, denser, and more iridescent.
+
+**中文理解**："初始冲击过后，我睁开眼睛，向下跌落，周围的色彩似乎更新、更密集、更闪烁。"
+
+**句子结构**：第二个句子，动作从主动到被动，暗示叙述者从"决定死"到"接受死"的心理转变。
+
+**关键词**：surrendering（投降/放弃控制）、iridescent（彩虹色的，暗示濒死体验的超现实感）
+
+**表达方式**：用感官细节而非心理描写来传达濒死体验。
+
+**为什么这样写**：Schweblin 用"colors all around me that seem new, denser" 用感官细节而非心理描写来传达濒死体验。
+
+---
+
+> **原句 1c:** I descend, holding my breath.
+
+**中文理解**："我屏住呼吸，继续下沉。"
+
+**句子结构**：第三个句子，动作从主动到被动，暗示叙述者从"决定死"到"接受死"的心理转变。
+
+**关键词**：holding my breath（屏息=屏住生命）
+
+**表达方式**：用简短的句子传达叙述者的决心。
+
+**为什么这样写**：Schweblin 用简短的句子来传达叙述者的决心——她决定继续下沉。
 
 ---
 
