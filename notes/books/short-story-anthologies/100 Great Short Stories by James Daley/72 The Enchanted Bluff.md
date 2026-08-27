@@ -1,159 +1,159 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 72. THE ENCHANTED BLUFF
+# 72. The Enchanted Bluff
 
 **作者**：Willa Cather
 
 ## 一句话总结
 
-Cather 通过一群在内布拉斯加草原上露营的年轻人的故事，展示了"冒险"与"想象"之间的张力——当他们看到远处山崖上"神秘的光芒"时，每个人都用自己的想象来解释它，而这个谜团最终被证明是一个平凡的现实。
+Cather 写一群河边长大的男孩听 Arthur 讲崖上印第安遗民的传说，自此把"魔法崖"当共同的梦；二十年过去无人真爬，Bert 仍只念那崖——一则把童年传说写成终身未竟之乡的短篇，结尾以"只念那崖"收束。
 
 ## 逐句精读（10 处）
 
-① **"We had our swim before sundown, and then we lay on the grass and watched the sun go down."**
+① **"The translucent red ball itself sank behind the brown stretches of corn field as we sat down to eat, and the warm layer of air that had rested over the water and our clean sand bar grew fresher and smelled of the river."**
 
-**中文理解**：太阳下山之前我们去游泳了，然后我们躺在草地上看太阳落山。
+**中文理解**：透红球自沉于褐玉蜀黍田后，我们坐食；覆水与净沙洲的暖气层渐清、带河味。
 
-**句子结构**：and 连接两个并列分句，before sundown 作时间状语，watched the sun go down 是 see + 宾语 + 宾补结构。
+**句子结构**：The translucent red ball itself sank behind the brown stretches of corn field 主谓；as we sat down to eat 时间；and the warm layer of air 并列；that had rested over the water and our clean sand bar 定语；grew fresher and smelled of the river 谓。
 
-**关键词**：swim（游泳）/ before sundown（太阳下山前）/ lie on the grass（躺在草地上）/ go down（落下）
+**关键词**：The translucent red ball（透红球=落日）/ sank behind the brown corn field（沉褐田后）/ sat down to eat（坐食）/ the warm layer of air（暖气层）/ our clean sand bar（净沙洲）/ grew fresher and smelled of the river（渐清带河味）
 
-**表达方式**：用"太阳下山"的意象建立"一天的结束"，同时也是故事的开始。
+**表达方式**：用"落日沉田+暖气带河味"写河滨黄昏的柔，开场即忆的色调。
 
-**为什么这样写**：Cather 用"看日落"这个简单的行为，展示了草原生活的节奏——没有城市的干扰，最简单的事情就是享受自然。
-
----
-
-② **"The sky was like a furnace door left open, and the light that came through it was the color of gold."**
-
-**中文理解**：天空像一扇打开的炉门，透过它而来的光是金色的。
-
-**句子结构**：and 连接两个并列分句，that came through it 定语从句修饰 light，the color of gold 作表语。
-
-**关键词**：furnace door（炉门）/ open（打开的）/ light（光）/ the color of gold（金色）
-
-**表达方式**：用"炉门"的比喻制造"温暖"的视觉感——草原上的日落是金色的。
-
-**为什么这样写**：Cather 用"金色"的阳光象征年轻时代的"光辉"——他们的人生还没有经历"黑暗"。
+**为什么这样写**：Cather 以此，让传说先在自然里被喂养。
 
 ---
 
-③ **"Frank and I had climbed the Enchanted Bluff before, and we knew what was there."**
+② **"I was already homesick at the thought of quitting the boys with whom I had always played; of leaving the river, and going up into a windy plain that was all windmills and corn fields and big pastures;"**
 
-**中文理解**：Frank 和我以前爬过那个"有魔力的山崖"，我们知道那里有什么。
+**中文理解**：想到要离常玩的同伙、离河、上那尽是风车玉黍大牧场的风原，我已先乡思。
 
-**句子结构**：and 连接 Frank 和 I 作主语，had climbed … before 过去完成时表示"之前已经"，what was there 作宾语。
+**句子结构**：I was already homesick 主系表；at the thought of quitting the boys 状语；with whom I had always played 定语；of leaving the river 并列；and going up into a windy plain 并列；that was all windmills and corn fields 定语。
 
-**关键词**：climb（爬）/ the Enchanted Bluff（魔法山崖，有魔力的山崖）/ before（以前）/ know（知道）
+**关键词**：already homesick（已乡思）/ quitting the boys（离同伙）/ leaving the river（离河）/ a windy plain（风原）/ all windmills and corn fields（尽风车玉黍）
 
-**表达方式**：用"知道那里有什么"建立"秘密分享者"的关系——Frank 和"我"是知道真相的人。
+**表达方式**：用"离河上风原"写童年的将逝，乡思在预告里起。
 
-**为什么这样写**：Cather 用"知道真相"建立 Frank 和"我"作为叙述者的权威性——我们是"知情者"。
-
----
-
-④ **"There was a tradition among the boys that there was treasure buried somewhere on the top."**
-
-**中文理解**：在男孩们中间有一个传说，说山顶的某个地方埋着宝藏。
-
-**句子结构**：that 引导同位语从句修饰 tradition，buried somewhere on the top 是 treasure 的后置定语。
-
-**关键词**：tradition（传说）/ treasure（宝藏）/ buried（埋藏）/ somewhere（某个地方）/ the top（山顶）
-
-**表达方式**：用"传说"建立故事的"神秘感"——草原男孩们对这座山崖有无限的想象。
-
-**为什么这样写**：Cather 用"宝藏传说"反映年轻人对"冒险"的渴望——在平原上，山崖就是"未知"的象征。
+**为什么这样写**：Cather 以此，让河与崖成为值得恋的故。
 
 ---
 
-⑤ **"The Frenchmen had camped there once, long ago, and had buried their gold."**
+③ **"Arthur's mother was dead, and his father, who was feverishly absorbed in promoting schemes, wanted to send the boy away to school and get him off his hands; but Arthur always begged off for another year."**
 
-**中文理解**：很久以前，法国人在那里扎过营，并把他们的金子埋了起来。
+**中文理解**：Arthur 母亡，父热中筹划、欲送儿上学脱手；Arthur 总乞再延一年。
 
-**句子结构**：and 连接两个并列谓语，long ago 作时间状语，had buried 是过去完成时。
+**句子结构**：Arthur's mother was dead 主系表；and his father wanted to send the boy away 并列；who was feverishly absorbed in promoting schemes 定语；and get him off his hands 并列；but Arthur always begged off for another year 转折。
 
-**关键词**：Frenchmen（法国人）/ camp（扎营）/ long ago（很久以前）/ bury（埋）/ gold（金子）
+**关键词**：Arthur's mother was dead（Arthur 母亡）/ feverishly absorbed in promoting schemes（热中筹划）/ send the boy away to school（送上学）/ get him off his hands（脱手）/ begged off for another year（乞延一年）
 
-**表达方式**：用"法国人埋金"的故事增加"异域感"——草原上的男孩们对外来者的浪漫想象。
+**表达方式**：用"父欲脱手+儿乞延"写 Arthur 赖在河边的执，传说的讲述者先被惜。
 
-**为什么这样写**：Cather 用"法国人"暗示草原与"外部世界"的连接——即使在最偏僻的地方，历史也会留下痕迹。
-
----
-
-⑥ **"The light on the bluff changed from gold to rose, and then to a faint, uncertain color, like a dead fire."**
-
-**中文理解**：山崖上的光从金色变成玫瑰色，然后变成一种暗淡而不确定的颜色，像熄灭的火。
-
-**句子结构**：and then 连接三个并列结构，from gold to rose 和 to a faint … color 是 from … to … to … 的句型。
-
-**关键词**：bluff（山崖）/ change from … to …（从……变成……）/ rose（玫瑰色）/ dead fire（熄灭的火）
-
-**表达方式**：用颜色的渐变（gold → rose → dead fire）制造"希望到绝望"的象征轨迹。
-
-**为什么这样写**：Cather 用颜色变化暗示故事的走向——山崖的"魔力"正在消退，年轻人们的想象也在消退。
+**为什么这样写**：Cather 以此，让梦的载体有舍不得离的因。
 
 ---
 
-⑦ **"One of the boys said he saw a light burning on the top of the bluff."**
+④ **"I wonder what would happen to us down here if anything went wrong with it?" Arthur chuckled.**
 
-**中文理解**：其中一个男孩说他看到山顶上有光在燃烧。
+**中文理解**："我想若它出岔，咱们在这可怎？"Arthur 笑。
 
-**句子结构**：that 引导宾语从句，burning 是现在分词作补语，on the top of the bluff 作地点状语。
+**句子结构**：I wonder what would happen to us down here 主谓宾从；if anything went wrong with it 条件；Arthur chuckled 主谓。
 
-**关键词**：one of the boys（其中一个男孩）/ see（看到）/ a light（光）/ burning（燃烧）/ the top（山顶）
+**关键词**：what would happen to us down here（咱们在这可怎）/ if anything went wrong with it（若它出岔）/ Arthur chuckled（Arthur 笑）
 
-**表达方式**：用"看到光"建立"神秘事件"的悬念——这个光是什么？是宝藏的信号吗？
+**表达方式**：用"若它出岔"写对河的赖，笑里带童的真忧。
 
-**为什么这样写**：Cather 用一个男孩的"目击"打破了一直以来"我们知道"的权威感——即使是知情者也有不知道的事情。
-
----
-
-⑧ **"'It's the treasure,' Frank said, and his voice was low and reverent."**
-
-**中文理解**："是宝藏，"Frank 说，他的声音低沉而虔诚。
-
-**句子结构**：and 连接两个并列分句，Frank said 是插入语，his voice was low and reverent 描述声音。
-
-**关键词**：treasure（宝藏）/ low（低沉的）/ reverent（虔诚的）/ voice（声音）
-
-**表达方式**：用"虔诚的"声音描述，显示 Frank 对"冒险"的认真态度——他真的相信宝藏存在。
-
-**为什么这样写**：Frank 的"虔诚"与"我"的"知情者"身份形成张力——Frank 相信想象，而我只是旁观者。
+**为什么这样写**：Cather 以此，让河成活的依存。
 
 ---
 
-⑨ **"But when we got to the top, we found only an old camp fire, with the embers still glowing."**
+⑤ **"His brother laughed at him, but Arthur took his suggestion seriously."**
 
-**中文理解**：但当我们到达山顶时，我们只发现了一堆旧营火，余烬还在发着光。
+**中文理解**：兄笑他，Arthur 却认真待其议。
 
-**句子结构**：when 引导时间状语从句，but 表示转折，with the embers still glowing 独立主格结构。
+**句子结构**：His brother laughed at him 主谓；but Arthur took his suggestion seriously 转折。
 
-**关键词**：get to the top（到达山顶）/ only（只是）/ old camp fire（旧营火）/ embers（余烬）/ glow（发光）
+**关键词**：His brother laughed at him（兄笑他）/ took his suggestion seriously（认真待其议）
 
-**表达方式**：用"只有"（only）制造反高潮——期待中的"宝藏"变成了"余烬"。
+**表达方式**：用"兄笑他认真"写传说的轻与重分落两人。
 
-**为什么这样写**：Cather 用"余烬"揭示真相——山崖上没有宝藏，只是一个普通的营地遗址。但这个"平凡的发现"并不削弱故事的意义，因为它证明了年轻人们的冒险精神曾经真实存在。
+**为什么这样写**：Cather 以此，让信者显其纯。
 
 ---
 
-⑩ **"The enchantment was not in the bluff, but in the hearts of the young men who climbed it."**
+⑥ **"You have to go on mules, and you run out of water before you get there and have to drink canned tomatoes." "Well, go on, kid."**
 
-**中文理解**：魔法不在山崖上，而在那些攀登它的年轻人的心里。
+**中文理解**："得骑骡去，未到水尽、得喝罐番茄。""嗯，接着说，小子。"
 
-**句子结构**：not … but … 结构，was not in the bluff 和 was in the hearts of the young men 并列。
+**句子结构**：You have to go on mules 主谓；and you run out of water 并列；before you get there 时间；and have to drink canned tomatoes 并列。Well, go on, kid 引语。
 
-**关键词**：enchantment（魔法）/ bluff（山崖）/ in the hearts（在心里）/ young men（年轻人）/ climb（攀登）
+**关键词**：go on mules（骑骡去）/ run out of water（水尽）/ drink canned tomatoes（喝罐番茄）/ go on, kid（接着说小子）
 
-**表达方式**：用 not … but … 的对比结构，将"魔法"从外部物体转移到内心——这是 Cather 的主题升华。
+**表达方式**：用"骑骡喝罐番茄"写远行的苦，传说的边料成趣。
 
-**为什么这样写**：Cather 用最后一句话总结了全文主题：真正的魔法不在外部世界，而在人的心中。年轻人们对山崖的想象，使它成为了"有魔力的山崖"——而这个想象本身才是真正的宝藏。
+**为什么这样写**：Cather 以此，让荒原的细节可触。
+
+---
+
+⑦ **"They starved to death up there, and when the war party came back on their way north, they could hear the children crying from the edge of the bluff where they had crawled out, but they didn't see a single one."**
+
+**中文理解**：他们在上饿死；北归战队行经，能闻孩泣于崖沿——他们爬出处，却未见一个。
+
+**句子结构**：They starved to death up there 主谓；and when the war party came back 时间；they could hear the children crying 并列；from the edge of the bluff 状语；where they had crawled out 定语；but they didn't see a single one 转折。
+
+**关键词**：starved to death up there（在上饿死）/ the war party came back（战队北归）/ the children crying from the edge of the bluff（孩泣崖沿）/ where they had crawled out（爬出处）/ didn't see a single one（未见一个）
+
+**表达方式**：用"孩泣崖沿未见"写传说的惨，魔崖的由在血里。
+
+**为什么这样写**：Cather 以此，让" enchant"先有悲的底。
+
+---
+
+⑧ **"We ran to the edge of the island, hoping we might see her alight, but she wavered southward along the rivercourse until we lost her."**
+
+**中文理解**：我们奔岛沿，盼见她落，她却沿河身南摇，直至失。
+
+**句子结构**：We ran to the edge of the island 主谓；hoping we might see her alight 现在分词；but she wavered southward 转折；along the rivercourse 状语；until we lost her 时间。
+
+**关键词**：ran to the edge of the island（奔岛沿）/ hoping to see her alight（盼见落）/ wavered southward along the rivercourse（沿河身南摇）/ until we lost her（直至失）
+
+**表达方式**：用"奔沿盼落终失"写鸟（或舟）的远，童眼的追。
+
+**为什么这样写**：Cather 以此，让未竟在"失"里成常。
+
+---
+
+⑨ **"Although that was twenty years ago, none of us have ever climbed the Enchanted Bluff."**
+
+**中文理解**：虽已二十载，无人曾爬魔法崖。
+
+**句子结构**：Although that was twenty years ago 状语；none of us have ever climbed the Enchanted Bluff 主谓宾。
+
+**关键词**：twenty years ago（二十载）/ none of us have ever climbed（无人曾爬）/ the Enchanted Bluff（魔法崖）
+
+**表达方式**：用"二十载无人爬"写梦的永悬，成人也未竟。
+
+**为什么这样写**：Cather 以此，让童年的崖成终身的未登。
+
+---
+
+⑩ **"Bert has been let into the story, and thinks of nothing but the Enchanted Bluff."**
+
+**中文理解**：Bert 已听进这故事，只念魔法崖。
+
+**句子结构**：Bert has been let into the story 主谓；and thinks of nothing but the Enchanted Bluff 并列。
+
+**关键词**：been let into the story（听进故事）/ thinks of nothing but the Enchanted Bluff（只念魔法崖）
+
+**表达方式**：用"只念那崖"收尾，写传说在下一代续，梦不灭。
+
+**为什么这样写**：Cather 以此收尾，让"未爬"在 Bert 的念里成传承。
 
 ## 一句话总结
 
-Cather 用"山崖"与"宝藏"的故事，展示了"想象"与"现实"之间的永恒张力——当年轻人们发现山顶只有一堆余烬时，他们并没有失败，因为真正的宝藏是他们的想象力和冒险精神。
+Cather 写河边长大的男孩听 Arthur 讲崖上印第安遗民的惨传说，把"魔法崖"当共同的梦；二十载无人真爬，Bert 仍只念那崖——童年传说成终身未竟之乡，在代际间续。
 
 ## 词汇分级
 
@@ -161,26 +161,25 @@ Cather 用"山崖"与"宝藏"的故事，展示了"想象"与"现实"之间的�
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| the Enchanted Bluff | n. 有魔力的山崖 | We had climbed the Enchanted Bluff before. |
-| enchantment | n. 魔法，魅力 | The enchantment was not in the bluff, but in the hearts. |
-| reverent | adj. 虔诚的，恭敬的 | His voice was low and reverent. |
-| treasure | n. 宝藏 | The tradition was that treasure was buried on the top. |
+| the translucent red ball | ph. 透红球（落日） | The translucent red ball sank |
+| a windy plain all windmills | ph. 尽风机风原 | a windy plain that was all windmills |
+| feverishly absorbed in promoting schemes | ph. 热中筹划 | feverishly absorbed in promoting schemes |
+| the children crying from the edge of the bluff | ph. 孩泣崖沿 | the children crying from the edge of the bluff |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| bluff | n. 陡崖，山崖 | The light on the bluff changed from gold to rose. |
-| embers | n. 余烬 | We found only an old camp fire, with the embers still glowing. |
-| sundown | n. 日落 | We had our swim before sundown. |
-| tradition | n. 传说，传统 | There was a tradition among the boys about buried treasure. |
+| our clean sand bar | ph. 净沙洲 | our clean sand bar |
+| already homesick | ph. 已乡思 | I was already homesick |
+| run out of water | ph. 水尽 | run out of water before you get there |
+| drank canned tomatoes | ph. 喝罐番茄 | have to drink canned tomatoes |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| gold | n. 金子，金色 | The light was the color of gold. |
-| climb | v. 爬，攀登 | We had climbed the bluff before. |
-| fire | n. 火 | We found only an old camp fire. |
-| top | n. 顶部 | When we got to the top, we found an old fire. |
-| young | adj. 年轻的 | The enchantment was in the hearts of the young men. |
+| the river | n. 河 | leaving the river |
+| his brother | n. 兄 | His brother laughed |
+| the island | n. 岛 | edge of the island |
+| the story | n. 故事 | let into the story |

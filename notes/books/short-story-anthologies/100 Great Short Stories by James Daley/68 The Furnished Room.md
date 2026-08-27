@@ -1,159 +1,159 @@
 ---
-状态: 未读
+状态: 精读完成
 modified: "2026-08-27"
 ---
 
-# 68. THE FURNISHED ROOM
+# 68. The Furnished Room
 
 **作者**：O. Henry
 
 ## 一句话总结
 
-O. Henry 通过一个男人在纽约寻找"带家具出租房间"的故事，展示了现代城市生活中的"孤独"和"短暂的连接"——一个人在城市中漂泊，他的每一个"家"都只是另一个空洞的房间，没有人会记得他。
+O. Henry 写一青年在红砖区挨间寻租曾住此的失踪爱人，终在闻到她常佩的 mignonette 香、拾得旧帕后，于房内开煤气自尽——而房东太太随后说上一任房客正是那女子。一则把"错过与殉情"写成都市孤绝的短篇，结尾以"那痣"收束。
 
 ## 逐句精读（10 处）
 
-① **"Restless, shifting, fugacious as time itself…"**
+① **"Restless, shifting, fugacious as time itself is a certain vast bulk of the population of the red brick district of the lower West Side."**
 
-**中文理解**：不安的、游移的、短暂的，就像时间本身。
+**中文理解**：如时间般不安、游移、易逝的，是下西城红砖区那庞大的人潮。
 
-**句子结构**：三个并列形容词，as time itself 表示"如同时间本身"。
+**句子结构**：Restless, shifting, fugacious as time itself 主语（倒装形容词前置）；is a certain vast bulk of the population 系表；of the red brick district 定语；of the lower West Side 定语。
 
-**关键词**：restless（不安的）/ shifting（游移的）/ fugacious（短暂的，诗语）/ time itself（时间本身）
+**关键词**：Restless, shifting, fugacious（不安游移易逝）/ as time itself（如时间）/ a vast bulk of the population（庞大的人潮）/ the red brick district（红砖区）/ the lower West Side（下西城）
 
-**表达方式**：用"时间"作为比喻对象，暗示城市生活的流动性和短暂性。
+**表达方式**：用"如时间般易逝"写漂泊人口的命，开场即苍。
 
-**为什么这样写**：开篇用隐喻建立"城市漂泊者"的主题——这个人在时间中漂泊，没有根。
-
----
-
-② **"He was looking for a room, and he found one in a large house on a side street."**
-
-**中文理解**：他在找一个房间，在一个巷子里的一个大房子里找到了一个。
-
-**句子结构**：and 连接两个并列分句，in a large house 作地点状语。
-
-**关键词**：look for a room（找房间）/ find（找到）/ side street（巷子）
-
-**表达方式**：用"一个房间"代表"一个家"——在城市里，房间就是家的全部。
-
-**为什么这样写**：O. Henry 用最简单的语言建立戏剧性——一个人在找地方住，这个需求本身就很"城市"。
+**为什么这样写**：O. Henry 以此，让都市的浮萍感先立。
 
 ---
 
-③ **"The room was like all furnished rooms — it was furnished like all rooms."**
+② **"Should you wish to look at it?" The young man followed her up the stairs.**
 
-**中文理解**：这个房间像所有带家具的房间一样——它像所有房间一样布置。
+**中文理解**："您要看看吗？"青年随她上楼。
 
-**句子结构**：like … — it was like … 形成重复强调结构，furnished 是关键词。
+**句子结构**：Should you wish to look at it 疑问；The young man followed her up the stairs 主谓。
 
-**关键词**：furnished room（带家具的房间）/ like all rooms（像所有房间一样）
+**关键词**：Should you wish to look at it（您要看看吗）/ followed her up the stairs（随她上楼）
 
-**表达方式**：用重复结构（like … — it was like …）制造"空洞"的感觉。
+**表达方式**：用"随上楼"写寻人的机械重复，叙事推进。
 
-**为什么这样写**：O. Henry 用"所有房间都一样"揭示现代城市的可替换性——没有哪个房间是独特的。
-
----
-
-④ **"There was a bed, and a table, and a chair, and a picture on the wall."**
-
-**中文理解**：有一张床，一张桌子，一把椅子，墙上一幅画。
-
-**句子结构**：and 连接四个并列的名词短语，用"There was"开头制造"清单"效果。
-
-**关键词**：bed（床）/ table（桌子）/ chair（椅子）/ picture on the wall（墙上的画）
-
-**表达方式**：用简单名词列举制造"空洞"的视觉感——房间里只有最基本的物件。
-
-**为什么这样写**：这四样东西就是城市"房间"的标准配置——床（睡觉）、桌子（工作）、椅子（坐着）、画（装饰）。
+**为什么这样写**：O. Henry 以此，让焦急藏在动作的平里。
 
 ---
 
-⑤ **"He sat down on the bed and stared at the wall."**
+③ **"It never stays idle long." "Do you have many theatrical people rooming here?" asked the young man.**
 
-**中文理解**：他在床上坐下，盯着墙看。
+**中文理解**："它从闲不久。""这儿住许多戏子吗？"青年问。
 
-**句子结构**：and 连接两个并列谓语，stared at the wall 表示"空洞的凝视"。
+**句子结构**：It never stays idle long 主谓；Do you have many theatrical people rooming here 疑问；asked the young man 倒装。
 
-**关键词**：sit down on the bed（坐在床上）/ stare at（盯着看）/ wall（墙）
+**关键词**：never stays idle long（从闲不久）/ many theatrical people rooming（许多戏子住）/ asked the young man（青年问）
 
-**表达方式**：用"盯着墙看"这个无目的的动作，暗示人物的精神状态。
+**表达方式**：用"戏子"点爱人的身份，寻的线渐清。
 
-**为什么这样写**：O. Henry 用"看墙"这个无意义动作，表达一个人在城市中的"精神空白"。
-
----
-
-⑥ **"The room smelled of furniture polish and stale air."**
-
-**中文理解**：这个房间闻起来有家具蜡和沉闷空气的味道。
-
-**句子结构**：smelled of 感官动词 + 两个并列名词，furniture polish（家具蜡）和 stale air（沉闷空气）。
-
-**关键词**：smell of（闻起来有……）/ furniture polish（家具蜡）/ stale air（沉闷空气）
-
-**表达方式**：用嗅觉词汇（smell）激活"空洞房间"的感官记忆。
-
-**为什么这样写**：furniture polish（新鲜感）和 stale air（陈旧感）并列，暗示这个房间曾经被很多人用过。
+**为什么这样写**：O. Henry 以此，让线索落在职业上。
 
 ---
 
-⑦ **"There was a loud knock on the door, and a landlady stood in the hallway with a determined look."**
+④ **"He was sure that since her disappearance from home this great, water-girt city held her somewhere, but it was like a monstrous quicksand, shifting its particles constantly, with no foundation, its upper surface drifted by the winds."**
 
-**中文理解**：门上传来一阵响亮的敲门声，一个房东太太站在走廊里，表情很坚定。
+**中文理解**：他确信她离家后，这环水巨城某处藏着她；却如巨流沙，粒常移、无基，表层随风漂。
 
-**句子结构**：and 连接两个并列分句，with a determined look 介词短语作伴随状语。
+**句子结构**：He was sure that this great city held her somewhere 主谓宾从；since her disappearance 状语；but it was like a monstrous quicksand 转折；shifting its particles constantly 定语；with no foundation 定语；its upper surface drifted by the winds 独立主格。
 
-**关键词**：loud knock（响亮的敲门声）/ landlady（房东太太）/ determined look（坚定的表情）
+**关键词**：since her disappearance from home（她离家后）/ this great, water-girt city（环水巨城）/ held her somewhere（某处藏她）/ a monstrous quicksand（巨流沙）/ shifting its particles（粒常移）/ no foundation（无基）
 
-**表达方式**：用"坚定的表情"暗示房东太太的性格——她是一个精明的生意人。
+**表达方式**：用"巨流沙"喻城，写寻人的无望与城的冷漠。
 
-**为什么这样写**：房东太太的出现打破了房间的"空洞"——但她代表的是城市生活中"交易"的一面。
-
----
-
-⑧ **"'No one has taken this room for a month,' she said. 'It has a nice, airy sentiment.'"**
-
-**中文理解**："没有人租这个房间一个月了，"她说，"它有一种宜人的通风感。"
-
-**句子结构**：No one has taken … 是完成时态，It has a nice, airy sentiment 是反讽——air 可以是"通风"，也可以是"忧郁"。
-
-**关键词**：take the room（租房间）/ a month（一个月）/ airy sentiment（通风感，诗意）
-
-**表达方式**：用 airy sentiment（通风感）的双重含义制造"反讽"——这个房间已经被空了一个月。
-
-**为什么这样写**：O. Henry 用"一个月都没人租"暗示这个房间"有问题"——也许与死亡有关。
+**为什么这样写**：O. Henry 以此，让孤绝在隐喻里成形。
 
 ---
 
-⑨ **"He asked about the price, and she quoted a figure that was within his budget."**
+⑤ **"A splattered stain, raying like the shadow of a bursting bomb, witnessed where a hurled glass or bottle had splintered with its contents against the wall."**
 
-**中文理解**：他问了价格，她报了一个在他预算范围内的数字。
+**中文理解**：一摊溅渍，如爆弹之影放射，证一掷出的杯瓶连内容碎在墙上。
 
-**句子结构**：and 连接两个并列分句，that was within his budget 定语从句修饰 a figure。
+**句子结构**：A splattered stain 主语；raying like the shadow of a bursting bomb 定语；witnessed 谓；where a hurled glass or bottle had splintered 宾从；with its contents 状语；against the wall 状语。
 
-**关键词**：ask about the price（问价格）/ quote a figure（报一个数字）/ within his budget（在预算内）
+**关键词**：A splattered stain（一摊溅渍）/ raying like the shadow of a bursting bomb（如爆弹影放射）/ witnessed where（证…处）/ a hurled glass or bottle（掷出杯瓶）/ splintered with its contents（连内容碎）
 
-**表达方式**：用"在预算内"说明这个房间便宜——便宜的背后总有原因。
+**表达方式**：用"爆弹影般的渍"写租屋的狼藉，细节里藏过往的乱。
 
-**为什么这样写**：租金便宜是"空洞房间"的标志——房东太太在急着出租。
+**为什么这样写**：O. Henry 以此，让房间的痕成为无声的史。
 
 ---
 
-⑩ **"He paid the rent and the landlady left. Then he locked the door and sat down on the bed again."**
+⑥ **"Then suddenly, as he rested there, the room was filled with the strong, sweet odor of mignonette."**
 
-**中文理解**：他付了房租，房东太太离开了。然后他锁上门，再次在床上坐下。
+**中文理解**：忽而，他歇处，房满是浓甜 mignonette 香。
 
-**句子结构**：Then 连接三个并列分句，locked the door 和 sat down on the bed again。
+**句子结构**：Then suddenly 状语；as he rested there 时间；the room was filled with the strong, sweet odor 主谓；of mignonette 定语。
 
-**关键词**：pay the rent（付房租）/ lock the door（锁门）/ sit down on the bed again（再次坐在床上）
+**关键词**：as he rested there（他歇处）/ the room was filled（房满）/ the strong, sweet odor（浓甜香）/ of mignonette（mignonette）
 
-**表达方式**：用"再次坐在床上"呼应前文，暗示这个人的唯一动作就是"坐着"。
+**表达方式**：用"忽满 mignonette 香"写灵味的突至，爱人的迹近在咫尺。
 
-**为什么这样写**：O. Henry 用循环结构（坐下，起来，再坐下）暗示城市生活的"无意义重复"。
+**为什么这样写**：O. Henry 以此，让错过的悲在香里最刺。
+
+---
+
+⑦ **"Ransacking the drawers of the dresser he came upon a discarded, tiny, ragged handkerchief."**
+
+**中文理解**：翻梳妆抽屉，他撞见一方弃的小破帕。
+
+**句子结构**：Ransacking the drawers of the dresser 现在分词；he came upon a discarded, tiny, ragged handkerchief 主谓宾。
+
+**关键词**：Ransacking the drawers of the dresser（翻梳妆抽屉）/ came upon（撞见）/ a discarded, tiny, ragged handkerchief（弃的小破帕）
+
+**表达方式**：用"破帕"写遗物的轻与重，证她确曾在此。
+
+**为什么这样写**：O. Henry 以此，让确证落在最私的小物上。
+
+---
+
+⑧ **"He ran from the haunted room downstairs and to a door that showed a crack of light."**
+
+**中文理解**：他自那闹鬼的房奔下楼，奔向漏一线光之门。
+
+**句子结构**：He ran from the haunted room 主谓；downstairs and to a door 状语；that showed a crack of light 定语。
+
+**关键词**：ran from the haunted room（自闹鬼房奔）/ downstairs（下楼）/ a door that showed a crack of light（漏光之门）
+
+**表达方式**：用"闹鬼房+漏光门"写他求答案的急与怖。
+
+**为什么这样写**：O. Henry 以此，让叙事在门的意象里收束向谜底。
+
+---
+
+⑨ **"When all was snug and taut he turned out the light, turned the gas full on again and laid himself gratefully upon the bed."**
+
+**中文理解**：一切妥帖，他熄灯、再把煤气开满，欣然躺上床。
+
+**句子结构**：When all was snug and taut 时间；he turned out the light 主谓宾；turned the gas full on again 并列；and laid himself gratefully upon the bed 并列。
+
+**关键词**：all was snug and taut（一切妥帖）/ turned out the light（熄灯）/ turned the gas full on again（煤气开满）/ laid himself gratefully upon the bed（欣然躺床）
+
+**表达方式**：用"开满煤气躺床"写赴死的平静，惨在从容。
+
+**为什么这样写**：O. Henry 以此，让殉情在"欣然"里最沉。
+
+---
+
+⑩ **"Purdy, assenting but critical, 'but for that mole she had a-growin' by her left eyebrow.'"**
+
+**中文理解**："Purdy 应着却挑剔，'只那痣——她左眉旁正长着的那颗。'"
+
+**句子结构**：Purdy, assenting but critical 呼语带状语；but for that mole 状语；she had a-growin' by her left eyebrow 主谓。
+
+**关键词**：Purdy, assenting but critical（Purdy 应着却挑剔）/ but for that mole（只那痣）/ a-growin' by her left eyebrow（左眉旁正长）
+
+**表达方式**：用"只那痣"的收尾，把上一任房客=爱人点破，错过成定局。
+
+**为什么这样写**：O. Henry 以此收尾，让全篇的寻在"她刚在此"的迟里炸裂。
 
 ## 一句话总结
 
-O. Henry 用"带家具的房间"作为城市的隐喻，展示了现代生活中"空洞"和"孤独"的本质——每一个房间都是一样的，每一个住进去的人都是孤独的。
+O. Henry 写青年在红砖区挨间寻失踪爱人，闻到她常佩的 mignonette、拾得旧帕后开煤气殉情；房东太太随之说"上一位房客正是她、左眉有痣"——寻与殉，隔着一层楼板，错过成最冷的定局。
 
 ## 词汇分级
 
@@ -161,26 +161,25 @@ O. Henry 用"带家具的房间"作为城市的隐喻，展示了现代生活中
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| fugacious | adj. 短暂的，转瞬即逝的（诗语） | Restless, shifting, fugacious as time itself. |
-| furnished room | n. 带家具出租的房间 | He was looking for a furnished room. |
-| stale air | n. 沉闷的空气，不新鲜的空气 | The room smelled of furniture polish and stale air. |
-| airy sentiment | n. 通风感（双关：忧郁） | It has a nice, airy sentiment. |
+| Restless, shifting, fugacious | ph. 不安游移易逝 | Restless, shifting, fugacious as time itself |
+| the red brick district | ph. 红砖区 | population of the red brick district |
+| a monstrous quicksand | ph. 巨流沙 | like a monstrous quicksand |
+| the strong, sweet odor of mignonette | ph. 浓甜 mignonette 香 | the strong, sweet odor of mignonette |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| shift | v. 移动，变换 | Restless, shifting, fugacious as time itself. |
-| furniture polish | n. 家具蜡 | The room smelled of furniture polish. |
-| determined look | n. 坚定的表情 | A landlady stood in the hallway with a determined look. |
-| budget | n. 预算 | The price was within his budget. |
+| theatrical people rooming | ph. 住着的戏子 | many theatrical people rooming here |
+| a splattered stain | ph. 一摊溅渍 | A splattered stain raying |
+| the haunted room | ph. 闹鬼的房 | ran from the haunted room |
+| turned the gas full on | ph. 煤气开满 | turned the gas full on again |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| room | n. 房间 | He was looking for a room. |
-| bed | n. 床 | There was a bed, and a table, and a chair. |
-| door | n. 门 | There was a loud knock on the door. |
-| pay the rent | ph. 付房租 | He paid the rent and the landlady left. |
-| lock | v. 锁 | He locked the door and sat down on the bed again. |
+| the stairs | n. 楼 | followed her up the stairs |
+| the city | n. 城 | this great city |
+| a handkerchief | n. 帕 | a ragged handkerchief |
+| the light | n. 光 | turned out the light |
