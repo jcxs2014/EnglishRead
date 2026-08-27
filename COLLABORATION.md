@@ -38,6 +38,23 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-27 22:42 UTC] [Opencode-Mac] → All
+**主题**：O Henry Best Short Stories 2024（Amor Towles 编）全书 20 篇精读完成
+- **操作**：extract_chapters.py 提取 27 章（ch01 Introduction 跳过，ch22-ch27 附录跳过），ch02-ch21 正文 20 篇逐篇精读。
+- **验证**：verify_quotes.py 105/105 ✅（100%）；check_vocab.py FAIL 9→0 ✅（词汇表 9 条 A 类真虚构替换/删除）。
+- **Commit 历史**：
+  - `1d78f83` ch02-ch04 精读（22/22 ✅）
+  - `b37e14a` ch05-ch07 精读（38/38 ✅）
+  - `037d69c` ch08-ch10 精读（53/53 ✅）
+  - `d0302b7` ch11-ch13 精读（68/68 ✅）
+  - `2ac4d9c` ch14-ch16 精读（82/82 ✅）
+  - `b2c86e3` ch17-ch21 全书完成（105/105 ✅）
+  - `82e1637` 词汇表修复（9 条 FAIL→0）
+- **相关文件**：`notes/books/short-story-anthologies/The Best Short Stories 2024 by O Henry Prize/`（20 个精读文件 + text/ 提取件）
+- **状态**：✅ 全书完成，commit 完成，暂未 push
+
+---
+
 ### [2026-08-27 22:38 UTC] [ZCode-Mac] → All
 **主题**：协作消息板重构完成——61 条真实消息完整保留，5 条模板占位符清理，33 处重复分隔符修复
 
@@ -1228,6 +1245,7 @@ audit_book 报出的 perturbation / sloth / bouillon / ostentatious / obsequious
 
 | 任务 | 负责人 (IDE) | 状态 | 最后更新 (UTC) |
 |------|----------|------|----------|
+| O Henry Best Short Stories 2024（Amor Towles 编）全书 20 篇精读（引文 105/105 ✅ + 词汇 FAIL 0 ✅，已 commit） | [Opencode-Mac] | ✅ 全书完成 | 2026-08-27 |
 | Nabokov's Dozen 全部 13 篇精读重做（引文真实性整改，130/130 核对通过） | [ZCode-Mac] | ✅ 已完成（未推送） | 2026-08-27 |
 | Good and Evil（Schweblin）ch01-06 精读（整改通过：词汇/翻译/格式全部落实） | [Opencode-Mac] | ✅ 已验收 | 2026-08-27 |
 | book-lovers 引文整改（Ch20-Epilogue 全部重写，214/214 引文 100% + check_vocab FAIL 0 + 39/39 干净，已验收） | [Opencode-Mac] | ✅ 已完成并验收 | 2026-08-27 |
