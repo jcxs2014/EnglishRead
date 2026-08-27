@@ -13,147 +13,147 @@ Joyce 通过一个都柏林男孩在去"阿拉伯市场"的集市上买礼物给
 
 ## 逐句精读（10 处）
 
-① **"North Richmond Street, being blind, was a quiet street."**
+① **"North Richmond Street, being blind, was a quiet street except at the hour when the Christian Brothers' School set the boys free."**
 
-**中文理解**：北里士满街，因为是死胡同，是一条安静的街道。
+**中文理解**：北里士满街，是一条死胡同，除了在基督教兄弟会学校放学的时间外，一直是安静的。
 
-**句子结构**：being blind 是现在分词作原因状语，being 后接形容词表示"因为是……"。
+**句子结构**：North Richmond Street, being blind, was a quiet street 是主句，except at the hour when the Christian Brothers' School set the boys free 是 except 介词短语作状语。
 
-**关键词**：North Richmond Street（北里士满街）/ blind（死胡同，此处双关：既是"盲的"也是"不通的"）/ quiet street（安静的街道）
+**关键词**：blind（盲的，死胡同的）/ Christian Brothers' School（基督教兄弟会学校）/ set the boys free（让男孩们自由）
 
-**表达方式**：用 blind 的双关（既是"失明"也是"死胡同"），建立都柏林城市生活的"精神闭塞"主题。
+**表达方式**：用"盲"来形容街道，建立"都柏林的封闭"主题——这条街是"盲的"，意味着它是尽头，没有出口；街道两旁的房子"互相凝视"，但它们都看不见真正重要的东西。
 
-**为什么这样写**：Joyce 用"失明的街道"的双关，暗示都柏林的精神状态——这条街既是"盲的"，住在这里的人也是"精神盲目"的。
-
----
-
-② **"The former tenant had left the house in a state of decay."**
-
-**中文理解**：之前的租户把房子留在了 一种破败的状态中。
-
-**句子结构**：had left 是过去完成时，in a state of decay 介词短语作宾语补语。
-
-**关键词**：former tenant（之前的租户）/ leave in a state of decay（留在破败状态中）/ decay（衰败）
-
-**表达方式**：用"衰败"形容房子，建立"失落"的主题——这个男孩的生活也在"衰败"中。
-
-**为什么这样写**：Joyce 用"破败的房子"，暗示"精神衰败"的社会背景——这个男孩生活的环境是衰败的。
+**为什么这样写**：Joyce 用开篇的街道描写，建立整个故事的隐喻框架——"盲的街道"象征着都柏林人的精神状态：他们活着，但他们看不见真正重要的东西。
 
 ---
 
-③ **"The boy lived in a world of his own, filled with the light of his imagination."**
+② **"The former tenant of our house, a priest, had died in the back drawing-room."**
 
-**中文理解**：男孩生活在自己的世界里，充满了他的想象力之光。
+**中文理解**：我们房子的前租户，一个牧师，已经死在了后客厅里。
 
-**句子结构**：filled with the light of his imagination 是过去分词短语作后置定语，修饰 a world of his own。
+**句子结构**：The former tenant of our house, a priest, had died in the back drawing-room 是主句，a priest 是 The former tenant 的同位语。
 
-**关键词**：a world of his own（自己的世界）/ filled with（充满）/ imagination（想象力）/ light（光）
+**关键词**：former tenant（前租户）/ priest（牧师）/ had died（已经死了）/ the back drawing-room（后客厅）
 
-**表达方式**：用"想象力之光"与"破败房子"的对比，建立"理想主义"与"现实"的对立。
+**表达方式**：用"牧师"和"后客厅"这两个具体细节，建立都柏林衰败的主题——宗教权威（牧师）死在了房子的"后面"，暗示都柏林的教会权威已经空洞化。
 
-**为什么这样写**：Joyce 用"想象力之光"，展示这个男孩的"青春期灵魂"——他生活在自己想象的世界里，还没有接触现实。
-
----
-
-④ **"Her name was like a spell, and the boy repeated it to himself in the dark."**
-
-**中文理解**：她的名字像一个咒语，男孩在黑暗中对自己重复念着它。
-
-**句子结构**：Her name was like a spell 是主系表结构，the boy repeated it 是并列分句，in the dark 地点状语。
-
-**关键词**：spell（咒语）/ repeat to himself（对自己重复）/ in the dark（在黑暗中）
-
-**表达方式**：用"咒语"（spell）的比喻，暗示 Mangan's sister 在男孩心中的"魔力"——她是他幻想的核心。
-
-**为什么这样写**：Joyce 用"咒语"和"在黑暗中重复"，展示青春期爱情的"秘密性"和"魔力"——她的名字是他的"咒语"。
+**为什么这样写**：Joyce 用"牧师的死"，暗示都柏林的精神衰败——这个牧师把所有的钱都留给了机构，把家具留给了他的妹妹，他是一个"慈善的"人，但他的慈善是空洞的。
 
 ---
 
-⑤ **"She was waiting for them, motionless, and when she saw her brother she greeted him."**
+③ **"When she came out on the doorstep my heart leaped."**
 
-**中文理解**：她正在等他们，一动不动，当她看到她哥哥时她跟他打了招呼。
+**中文理解**：当她走到门口时，我的心跳了起来。
 
-**句子结构**：and 连接两个并列分句，motionless 是形容词作伴随状语，when 引导时间状语从句。
+**句子结构**：When she came out on the doorstep 是时间状语从句，my heart leaped 是主句。
 
-**关键词**：wait for（等待）/ motionless（一动不动的）/ greet（打招呼）
+**关键词**：came out on the doorstep（走到门口）/ my heart leaped（我的心跳了起来）
 
-**表达方式**：用"一动不动"的形容词，展示 Mangan's sister 的"超然"——她像一尊雕像，等待着"被唤醒"。
+**表达方式**：用"心跳"这个身体反应，展示男孩对 Mangan's sister 的"本能反应"——他的心不是"跳动"，而是"跳跃"；这种超越常规的词选择，暗示青春爱情的强烈。
 
-**为什么这样写**：Joyce 用"一动不动"的 Mangan's sister，暗示"性启蒙"的开始——她的"静止"等待被"行动"打破。
-
----
-
-⑥ **"The boy's heart danced upon her voice, and he was trembling with joy."**
-
-**中文理解**：男孩的心在她的声音上跳舞，他因喜悦而发抖。
-
-**句子结构**：and 连接两个并列分句，upon her voice 是"在……上"的比喻，trembling with joy 表示"因喜悦而发抖"。
-
-**关键词**：heart dance upon her voice（心在她的声音上跳舞）/ tremble with joy（因喜悦而发抖）
-
-**表达方式**：用"心在声音上跳舞"的意象，展示青春期的"情感过度"——每一个声音都像音符一样跳动。
-
-**为什么这样写**：Joyce 用"跳舞的心"和"发抖"，展示青春期爱情的"生理反应"——身体的反应超出了理性的控制。
+**为什么这样写**：Joyce 用"跳跃"而非"跳动"，展示青春期爱情的"非理性"本质——这种爱不是深思熟虑的结果，而是一种本能的身体反应。
 
 ---
 
-⑦ **"He wanted to go to the bazaar, the Araby bazaar, to buy her a gift."**
+④ **"Her name was like a summons to all my foolish blood."**
 
-**中文理解**：他想去那个集市，那个阿拉伯市场，给她买一个礼物。
+**中文理解**：她的名字就像是对我所有愚蠢的血液的一声召唤。
 
-**句子结构**：He wanted to go … 是主句，to buy her a gift 动词不定式作目的状语。
+**句子结构**：Her name was like a summons to all my foolish blood 是主系表结构。
 
-**关键词**：bazaar（集市）/ Araby（阿拉伯的，集市名）/ buy her a gift（给她买礼物）
+**关键词**：summons（召唤）/ foolish blood（愚蠢的血液，"blood"在此处暗示"本能"和"青春"）
 
-**表达方式**：用"阿拉伯市场"的名字，暗示"异域"和"神秘"的欲望——他想要去一个"魔法"的地方。
+**表达方式**：用"愚蠢的血液"这个表达，暗示青春期本能的力量——名字不是召唤"理智"，而是召唤"血液"和"本能"。
 
-**为什么这样写**：Joyce 用"阿拉伯市场"的名称，展示这个男孩的"幻想"——他把这个集市想象成"魔法市场"，他在寻找"魔法的礼物"来赢得她的心。
-
----
-
-⑧ **"His uncle, who came home late, had forgotten to give him money."**
-
-**中文理解**：他的叔叔，那个很晚才回家的人，忘了给他钱。
-
-**句子结构**：who came home late 是非限制性定语从句修饰 uncle，had forgotten 是过去完成时。
-
-**关键词**：come home late（很晚回家）/ forget（忘记）/ give him money（给他钱）
-
-**表达方式**：用"忘了给钱"建立"阻碍"——男孩的愿望被延迟了。
-
-**为什么这样写**：Joyce 用叔叔的"忘记"，暗示"成人世界"对"青春欲望"的阻碍——大人们有自己的生活，他们不会把青少年的"恋爱任务"当成优先事项。
+**为什么这样写**：Joyce 用这个表达，展示了青春期爱情的"非理性"本质——他被"召唤"的不是她的身份，而是他自己的身体反应。
 
 ---
 
-⑨ **"He arrived at the bazaar late, and found that many of the stalls were closed."**
+⑤ **"She asked me was I going to Araby."**
 
-**中文理解**：他很晚才到集市，发现很多货摊都已经关门了。
+**中文理解**：她问我是不是要去阿拉伯市场。
 
-**句子结构**：and 连接两个并列分句，found that … 是宾语从句，were closed 是被动语态。
+**句子结构**：She asked me was I going to Araby 是主句，was I going to Araby 是直接问句在间接引语中的形式。
 
-**关键词**：arrive at（到达）/ bazaar（集市）/ late（晚了）/ stalls（货摊）/ closed（关门的）
+**关键词**：She asked me（她问我）/ was I going to Araby（是不是要去阿拉伯市场）
 
-**表达方式**：用"很多货摊关门了"，暗示"幻想的破灭"——他来得太晚了，集市已经结束。
+**表达方式**：用"她问我"这个简单的动作，展示 Mangan's sister 的"主动"——她主动和男孩说话，这是他"去阿拉伯市场"这个想法的来源。
 
-**为什么这样写**：Joyce 用"货摊关门"，literal地展示"幻灭"——他的"魔法市场"只是一个普通的集市，而且他来晚了。
+**为什么这样写**：Joyce 用这个细节，建立"Araby"这个承诺的"女性来源"——男孩去 Araby 不是为了自己，而是为了"她"；但这种"为了女性"的行为本身，就是他"虚荣"的一部分。
 
 ---
 
-⑩ **"Gazing up into the darkness, he saw himself as a creature driven and derided by vanity."**
+⑥ **"If I go, I said, I will bring you something."**
 
-**中文理解**：凝视着上方的黑暗，他看到自己是一个被虚荣驱使和嘲弄的存在。
+**中文理解**："如果我去，"我说，"我会给你带一个礼物。"
 
-**句子结构**：Gazing up into the darkness 是现在分词作伴随状语，saw himself as a creature 是主要结构，driven and derided by vanity 是过去分词短语作后置定语。
+**句子结构**：If I go 是条件状语从句，I said 是主句，I will bring you something 是主句的宾语。
 
-**关键词**：gaze up into（凝视上方）/ darkness（黑暗）/ driven by vanity（被虚荣驱使）/ deride（嘲弄）
+**关键词**：If I go（如果我去）/ I will bring you something（我会给你带一个礼物）
 
-**表达方式**：用"被虚荣驱使和嘲弄"描述自己，展示"自我觉醒"——他终于看到了自己的虚荣。
+**表达方式**：用"如果"和"我会"的承诺，展示男孩的"过度承诺"——他不确定自己能不能去，但他已经承诺了"礼物"；这种承诺本身就是他"虚荣"的表现。
 
-**为什么这样写**：Joyce 用故事的结尾，展示青春期的"幻灭"的高潮——当男孩在黑暗中看到自己时，他终于意识到他的"爱情朝圣"其实是"虚荣心"的产物。他的 Arab 幻想已经破灭，留下的只有黑暗中的自我认知。
+**为什么这样写**：Joyce 用这个"承诺"，建立男孩的"英雄主义幻想"——他想象自己是去"阿拉伯"探险的骑士，他要给她带回"神秘的礼物"；但实际上，他只是一个在都柏林街上行走的男孩。
+
+---
+
+⑦ **"My aunt said: 'I'm afraid you may put off your bazaar for this night of Our Lord.' At nine o'clock I heard my uncle's latchkey in the hall-door."**
+
+**中文理解**：我的姑妈说："我担心你可能会为了我们主的夜晚而推迟你的集市。"九点钟时，我听到我叔叔的钥匙在厅门里的声音。
+
+**句子结构**：My aunt said: 'I'm afraid …' 是主句，At nine o'clock I heard my uncle's latchkey in the hall-door 是并列主句。
+
+**关键词**：put off your bazaar（推迟你的集市）/ this night of Our Lord（我们主的这个夜晚，暗示周六）/ uncle's latchkey（叔叔的钥匙）
+
+**表达方式**：用"我们主的夜晚"这个宗教表达，展示"世俗世界"（姑妈）和"宗教世界"（叔叔）的对立——姑妈担心他"推迟"集市，叔叔在"主的夜晚"回来；这两个细节都暗示 Araby 的失败是"命中注定"的。
+
+**为什么这样写**：Joyce 用姑妈和叔叔的出场，建立"成人世界"对"少年梦想"的压迫——姑妈用宗教来约束他，叔叔用钥匙来锁住他；这个男孩的"Araby 之行"从一开始就被"大人的世界"所阻碍。
+
+---
+
+⑧ **"I held a florin tightly in my hand as I strode down Buckingham Street towards the station."**
+
+**中文理解**：当我大步沿着白金汉街走向车站时，我把钱币紧紧握在手里。
+
+**句子结构**：I held a florin tightly in my hand 是主句，as I strode down Buckingham Street towards the station 是时间状语从句。
+
+**关键词**：florin（弗罗林，英国旧币）/ tightly（紧紧地）/ strode（阔步）/ towards the station（走向车站）
+
+**表达方式**：用"紧紧握住"和"弗罗林"这两个细节，展示男孩对"金钱"的极度重视——这枚钱币代表着他对她的承诺。
+
+**为什么这样写**：Joyce 用这个细节，展示了男孩的"执念"——他把硬币"紧紧握住"，不只是为了"不丢钱"，更是为了"不放弃对她的承诺"；他的"英雄之旅"变成了"守护钱币"。
+
+---
+
+⑨ **"I recognised a silence like that which pervades a church after a service."**
+
+**中文理解**：我认出了一种寂静，就像教堂礼拜结束后的那种寂静。
+
+**句子结构**：I recognised a silence 是主句，like that which pervades a church after a service 是 like 介词短语作定语。
+
+**关键词**：recognised（认出）/ a silence like that（就像……的那种寂静）/ pervades a church after a service（弥漫在教堂礼拜结束后）
+
+**表达方式**：用"教堂礼拜后的寂静"这个意象，展示 Araby 集市的"精神死亡"——集市已经结束了，就像礼拜结束后的教堂，只剩下空洞的寂静。
+
+**为什么这样写**：Joyce 用这个比较，完成了从"幻想"到"现实"的坠落——当男孩到达 Araby 时，他发现集市已经结束了；他站在空荡荡的摊位中，感受着"教堂礼拜后的寂静"；这是他幻想破灭的时刻。
+
+---
+
+⑩ **"Gazing up into the darkness I saw myself as a creature driven and derided by vanity; and my eyes burned with anguish and anger."**
+
+**中文理解**：凝视着黑暗，我把自己看作一个被虚荣驱使和嘲弄的生物；我的眼睛因痛苦和愤怒而燃烧。
+
+**句子结构**：Gazing up into the darkness 是现在分词作方式状语，I saw myself as a creature … 是主句，and my eyes burned with anguish and anger 是并列分句。
+
+**关键词**：Gazing up into the darkness（凝视黑暗）/ driven and derided by vanity（被虚荣驱使和嘲弄）/ burned with anguish and anger（因痛苦和愤怒而燃烧）
+
+**表达方式**：用"被虚荣驱使和嘲弄"这个表达，完成了对整个故事的"道德批判"——男孩的 Araby 之行，从一开始就是"虚荣"的产物：他去集市不是为了自己，而是为了"给她留下深刻印象"；这种虚荣最终导致了幻灭。
+
+**为什么这样写**：Joyce 用这个结尾，完成了他对都柏林精神状态的批判——这个男孩在 Araby 的幻灭，不是个人的失败，而是整个都柏林社会的症状；他被"虚荣"所驱动，他最终被"虚荣"所嘲弄。
 
 ## 一句话总结
 
-Joyce 用"阿拉伯市场"的幻灭，展示了青春期"欲望"与"幻灭"的必然循环——当男孩到达集市时，他发现一切都结束了；他站在黑暗中，看到自己被虚荣驱使和嘲弄，这是成长的代价，也是都柏林精神闭塞的隐喻。
+Joyce 用 Araby 这个故事，完成了对都柏林精神状态的经典批判——一个男孩在黑暗中凝视自己，看到自己被"虚荣"所驱使；他去了阿拉伯市场，但他找到的只是空洞的寂静和对自己的最终认识。
 
 ## 词汇分级
 
@@ -161,25 +161,31 @@ Joyce 用"阿拉伯市场"的幻灭，展示了青春期"欲望"与"幻灭"的�
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| deride | v. 嘲弄，嘲笑 | He saw himself as a creature driven and derided by vanity. |
-| driven by vanity | ph. 被虚荣驱使 | He saw himself as a creature driven and derided by vanity. |
-| spell | n. 咒语 | Her name was like a spell to him. |
-| bazaar | n. 集市，市场 | He wanted to go to the bazaar to buy her a gift. |
+| driven and derided by vanity | ph. 被虚荣驱使和嘲弄 | I saw myself as a creature driven and derided by vanity. |
+| a silence like that which pervades a church | ph. 就像教堂礼拜结束后弥漫的那种寂静 | I recognised a silence like that which pervades a church after a service. |
+| foolish blood | ph. 愚蠢的血液（本能和青春） | Her name was like a summons to all my foolish blood. |
+| blind | adj. 盲的（死胡同的） | North Richmond Street, being blind, was a quiet street. |
+| heart leaped | ph. 心跳（飞跃） | When she came out on the doorstep my heart leaped. |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| imagination | n. 想象力 | The boy lived in a world of his own, filled with the light of his imagination. |
-| vanity | n. 虚荣心 | He saw himself as a creature driven and derided by vanity. |
-| stall | n. 货摊 | Many of the stalls were closed when he arrived. |
-| darkness | n. 黑暗 | Gazing up into the darkness, he saw himself. |
+| recognise | v. 认出 | I recognised a silence like that which pervades a church. |
+| set free | ph. 让……自由 | Christian Brothers' School set the boys free. |
+| straddle | v. 阔步走 | I strode down Buckingham Street towards the station. |
+| a florin | n. 弗罗林（英国旧银币） | I held a florin tightly in my hand. |
+| chapel | n. 教堂 | The lamp flared above the chapel. |
+| bazaar | n. 集市 | I may go to Araby. |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| heart | n. 心 | The boy's heart danced upon her voice. |
-| joy | n. 喜悦 | He was trembling with joy. |
-| late | adj. 晚了 | He arrived at the bazaar late. |
-| buy | v. 买 | He wanted to buy her a gift. |
+| street | n. 街道 | North Richmond Street, being blind. |
+| house | n. 房子 | The former tenant of our house. |
+| priest | n. 牧师 | A priest had died in the back drawing-room. |
+| heart | n. 心 | My heart leaped. |
+| darkness | n. 黑暗 | Gazing up into the darkness. |
+| angry | adj. 愤怒的 | My eyes burned with anguish and anger. |
+| door | n. 门 | She came out on the doorstep. |

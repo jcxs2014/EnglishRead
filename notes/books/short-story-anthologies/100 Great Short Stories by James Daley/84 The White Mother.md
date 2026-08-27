@@ -9,151 +9,151 @@ modified: "2026-08-27"
 
 ## 一句话总结
 
-Sologub 通过一个女人在复活节前夜"看到"死去儿子的幻象故事，展示了"母爱"与"死亡"之间的永恒连接——当她在复活节前夜独自等待时，她的"白母亲"（象征死亡的幽灵）来带她离开，她最终在爱与死之间找到了平静。
+Sologub 通过中年单身男人 Saksaulov 在复活节前偶遇走失孤儿 Lesha 并最终收养他的故事，展示了"记忆"与"新生"的主题——Saksaulov 的亡妻 Tamara（"白母亲"）在他梦中出现并暗示他收养 Lesha，Lesha 最终成为连接 Saksaulov 与亡妻、以及他与现实世界（Valeria）的桥梁。
 
 ## 逐句精读（10 处）
 
-① **"Easter was drawing near, and the house was filled with a strange stillness."**
+① **"Easter was drawing near. Esper Konstantinovitch Saksaulov was in a worried, weary mood."**
 
-**中文理解**：复活节正在临近，房子里充满了一种奇怪的寂静。
+**中文理解**：复活节即将来临。Esper Konstantinovitch Saksaulov 处于忧虑而疲惫的情绪中。
 
-**句子结构**：and 连接两个并列分句，was drawing near 表示"正在临近"，filled with a strange stillness 是被动结构。
+**句子结构**：Easter was drawing near 是主句，Esper Konstantinovitch Saksaulov was in a worried, weary mood 是并列主句。
 
-**关键词**：Easter（复活节）/ draw near（临近）/ still（寂静）/ strange stillness（奇怪的寂静）
+**关键词**：Easter was drawing near（复活节即将来临）/ in a worried, weary mood（处于忧虑而疲惫的情绪中）
 
-**表达方式**：用"复活节"的宗教背景和"奇怪的寂静"建立故事的神秘氛围。
+**表达方式**：用"复活节"这个时间节点和"忧虑疲惫"的情绪，建立 Sologub 式的"俄国忧郁"基调——复活节是"重生"的节日，但 Saksaulov 感到的只有"疲惫"。
 
-**为什么这样写**：Sologub 用"复活节"的时间设定，建立"死亡与复活"的主题——复活节是关于死而复活的节日，而这个故事探讨的是"母爱"能否超越死亡。
-
----
-
-② **"She was an old woman now, and her son had been dead for many years."**
-
-**中文理解**：她现在是一个老妇人了，她的儿子已经死了很多年了。
-
-**句子结构**：and 连接两个并列分句，had been dead 是过去完成时表示"已经死了"。
-
-**关键词**：old woman（老妇人）/ son（儿子）/ dead（死了）/ many years（很多年）
-
-**表达方式**：用"很多年"的时间长度，暗示这个母亲已经"学会"与丧子之痛相处——但她没有忘记。
-
-**为什么这样写**：Sologub 用"老妇人"和"儿子死了很多年"，建立"时间的流逝"与"母爱的永恒"之间的对比——时间可以流逝，但母亲的爱不会减少。
+**为什么这样写**：Sologub 用"复活节"和"忧虑"的对比，建立故事的核心张力——Saksaulov 即将经历一次"精神的复活"，但他目前还处于"疲惫"之中。
 
 ---
 
-③ **"She sat alone by the window, waiting for something she could not name."**
+② **"Saksaulov was eligible in the eyes of mothers of grown-up daughters, and this fact irritated him. He regarded himself as an old bachelor, and he was only thirty-seven."**
 
-**中文理解**：她独自坐在窗边，等待着某种她无法命名的东西。
+**中文理解**：在成年女儿的母亲们眼里，Saksaulov 是一个合适的人选，这个事实让他恼火。他把自己当作一个老单身汉，而他只有三十七岁。
 
-**句子结构**：waiting for something she could not name 是现在分词短语作伴随状语。
+**句子结构**：Saksaulov was eligible … and this fact irritated him 是主句，He regarded himself as an old bachelor 是并列主句，and he was only thirty-seven 是递进并列句。
 
-**关键词**：sit alone（独自坐着）/ wait for（等待）/ something she could not name（无法命名的东西）
+**关键词**：eligible（合适的）/ irritated him（让他恼火）/ regarded himself as（把自己当作）/ old bachelor（老单身汉）/ only thirty-seven（只有三十七岁）
 
-**表达方式**：用"无法命名的东西"制造悬念——她在等什么？这是故事的核心问题。
+**表达方式**：用"三十七岁"和"老单身汉"的矛盾，展示 Saksaulov 的"自我认同"困境——他被社会定义为"大龄单身汉"，但他自己并不这么认为；他有自己的生活方式。
 
-**为什么这样写**：Sologub 用"无法命名"，暗示这个"东西"是死亡本身——母亲在等待与儿子的"重逢"。
-
----
-
-④ **"The snow fell silently outside, and the world seemed to hold its breath."**
-
-**中文理解**：雪在外面无声地飘落，整个世界似乎屏住了呼吸。
-
-**句子结构**：and 连接两个并列分句，seemed to hold its breath 是"屏住呼吸"的拟人化。
-
-**关键词**：snow（雪）/ fall silently（无声飘落）/ hold breath（屏住呼吸）/ world（世界）
-
-**表达方式**：用"世界屏住呼吸"的拟人化，建立"关键时刻"的氛围——这是生死之间的瞬间。
-
-**为什么这样写**：Sologub 用"世界屏住呼吸"，暗示"自然"在见证这个"过渡时刻"——母亲即将与儿子重逢。
+**为什么这样写**：Sologub 用这个细节，建立 Saksaulov 的"孤独哲学"——他不是不想结婚，他只是不想和一个"不够好"的人结婚；他的标准不是社会标准，而是"亡妻 Tamara"的影子。
 
 ---
 
-⑤ **"Then she saw a white figure standing in the doorway."**
+③ **"Pale, delicate, with slender waist, blue-eyed, fair-haired, she had seemed to him an almost celestial creature, a product of air and mist, accidentally cast by fate for a short span into the city din."**
 
-**中文理解**：然后她看到一个白色的身影站在门口。
+**中文理解**：苍白、精致、细腰、碧眼、淡发，她在他看来几乎是一个天上的造物，是空气和雾的产品，被命运偶然地抛入城市的喧嚣中短暂停留。
 
-**句子结构**：Then 开头，she saw 是主要动词结构，a white figure standing 是宾语+补语结构。
+**句子结构**：Pale, delicate, with slender waist, blue-eyed, fair-haired 是五个并列形容词短语，she had seemed to him an almost celestial creature 是主句，a product of air and mist 是 creature 的同位语，accidentally cast by fate 是过去分词短语作定语，for a short span into the city din 是地点时间状语。
 
-**关键词**：white figure（白色的身影）/ standing in the doorway（站在门口）
+**关键词**：celestial creature（天上的造物）/ a product of air and mist（空气和雾的产品）/ accidentally cast by fate（被命运偶然地抛入）/ the city din（城市的喧嚣）
 
-**表达方式**：用"白色的身影"作为"白母亲"（死亡）的视觉符号——白色在西方文化中既是纯洁的象征，也是死亡的象征。
+**表达方式**：用"空气和雾"的意象，展示 Tamara 的"非尘世性"——她不属于这个世界，她是一个"天上的造物"；Saksaulov 对她的爱情也是"非尘世的"。
 
-**为什么这样写**：Sologub 用"白母亲"的形象，展示死亡不是"可怕的"，而是"温柔的"——她来接母亲，就像母亲曾经接孩子一样。
-
----
-
-⑥ **"She recognized him immediately. It was her son, as young as the day he died."**
-
-**中文理解**：她立刻认出了他。是她的儿子，和他死去的那天一样年轻。
-
-**句子结构**：It was her son 是强调句型，as young as the day he died 是比喻结构。
-
-**关键词**：recognize（认出）/ immediately（立刻）/ as young as（和……一样年轻）/ the day he died（他死去的那天）
-
-**表达方式**：用"和死去那天一样年轻"，暗示死亡"冻结"了时间——对死者来说，时间停止了。
-
-**为什么这样写**：Sologub 用"永远年轻"的儿子，暗示母亲看到的不是"鬼魂"，而是"永恒的青春"——死亡在母爱面前变得不可怕了。
+**为什么这样写**：Sologub 用这段描述，建立 Tamara 的"圣女"形象——她不是普通的人类，她是"空气和雾"的女儿；她最后的死也是"回到空气中"——她死于一场"轻微的感冒"，但实际上她死于"太过完美"。
 
 ---
 
-⑦ **"'Mother,' he said, 'I have come to take you home.'"**
+④ **""First I had a white mother and now I have a black mother," the boy explained."**
 
-**中文理解**："母亲，"他说，"我来接你回家。"
+**中文理解**："我先有一个白母亲，现在我有一个黑母亲，"男孩解释道。
 
-**句子结构**：'Mother'是称呼语，I have come to take you home 是直接引语。
+**句子结构**：First I had a white mother and now I have a black mother 是直接引语，the boy explained 是主句。
 
-**关键词**：mother（母亲）/ come to take（来接）/ home（回家）
+**关键词**：white mother（白母亲）/ black mother（黑母亲）
 
-**表达方式**：用"回家"的双关——对儿子来说，"家"是坟墓；对母亲来说，"家"是与儿子团聚的地方。
+**表达方式**：用"白母亲"和"黑母亲"的对比，建立故事的标题意象——"白母亲"是 Lesha 的生母（死于未知原因），"黑母亲"是他的继母；Saksaulov 的亡妻 Tamara 也是"白母亲"——她穿着白裙，像雪山顶上的雪。
 
-**为什么这样写**：Sologub 用"回家"的双关，完成"死亡作为回家"的主题——对母亲来说，死亡不是终结，是"与儿子团聚"。
-
----
-
-⑧ **"She rose from her chair without effort, as if she had no weight."**
-
-**中文理解**：她毫不费力地从椅子上站起来，好像她没有重量。
-
-**句子结构**：as if 引导方式状语从句，without effort 是"毫不费力"。
-
-**关键词**：rise from（从……站起来）/ without effort（毫不费力）/ no weight（没有重量）
-
-**表达方式**：用"没有重量"表示她正在"被带走"——她的身体正在失去与地球的连接。
-
-**为什么这样写**：Sologub 用"没有重量"的母亲，暗示"灵魂离开身体"的过程——死亡是"轻盈的"，不是"沉重的"。
+**为什么这样写**：Sologub 用"白/黑母亲"的对比，完成故事的主题构建——Lesha 的"白母亲"是天堂的，她在他三岁时去世；Saksaulov 的"白母亲"（Tamara）也是天堂的；收养 Lesha 是两个"白母亲"在尘世的交汇。
 
 ---
 
-⑨ **"The white figure took her hand, and it was as cold as snow."**
+⑤ **""Why don't you adopt him?" Valeria Michailovna suggested."**
 
-**中文理解**：那个白色的身影握住她的手，它是和雪一样冰冷的。
+**中文理解**："你为什么不收养他呢？"Valeria Michailovna 建议道。"你独自生活，你没有任何亲人。无论如何，你会有人和你交换复活节的问候。"
 
-**句子结构**：and 连接两个并列分句，as cold as snow 是比喻结构。
+**句子结构**：Why don't you adopt him? 是直接问句，Valeria Michailovna suggested 是主句；You live alone 是主句，you have no one belonging to you 是并列分句，You will have someone with whom to exchange the greeting 是结果分句。
 
-**关键词**：take her hand（握住她的手）/ as cold as snow（和雪一样冰冷）
+**关键词**：adopt him（收养他）/ You live alone（你独自生活）/ no one belonging to you（没有任何亲人）/ exchange the greeting（交换复活节的问候）
 
-**表达方式**：用"和雪一样冰冷"，建立"死亡"与"自然"的连接——冰冷不是"可怕"的，是"自然"的。
+**表达方式**：用"独自生活"和"交换问候"的建议，Valeria 实际上是 Saksaulov 的"现实桥梁"——她帮他找到了生活的意义；她让他收养 Lesha，而 Lesha 让他和 Tamara 的记忆连接。
 
-**为什么这样写**：Sologub 用"冰冷的触感"，展示死亡的"温柔"——这不是恐惧，这是平静的告别。
+**为什么这样写**：Sologub 用 Valeria 的话，建立"社会关系"的可能性——Saksaulov 不是孤岛，他有人关心他；Valeria 的建议让他走出了"对 Tamara 的执念"，走向"新的生活"。
 
 ---
 
-⑩ **"Together they walked toward the light, and the snow covered their footsteps behind them."**
+⑥ **"Her eyes became tender and radiant. Altogether she was permeated with the same gentleness that had emanated from Tamara."**
 
-**中文理解**：他们一起向着光走去，身后的雪覆盖了他们的脚印。
+**中文理解**：她的眼睛变得温柔而明亮。总的来说，她散发着和 Tamara 同样的温柔。
 
-**句子结构**：and 连接两个并列分句，Together 提前表示强调，covered their footsteps 表示"覆盖脚印"。
+**句子结构**：Her eyes became tender and radiant 是主句，Altogether she was permeated with the same gentleness 是并列主句，that had emanated from Tamara 是定语从句。
 
-**关键词**：together（一起）/ toward the light（向着光）/ snow（雪）/ cover footsteps（覆盖脚印）
+**关键词**：tender and radiant（温柔而明亮）/ permeated with（散发着）/ the same gentleness（同样的温柔）/ emanated from Tamara（从 Tamara 身上散发出来的）
 
-**表达方式**：用"雪覆盖脚印"作为"无痕迹"的象征——他们走过，但雪会掩盖一切，就像死亡会掩盖生命的痕迹。
+**表达方式**：用"温柔"和"散发"的意象，Valeria 开始散发出和 Tamara 同样的"温柔"——这两个女人之间有某种神秘的连接；Saksaulov 开始意识到，Valeria 可能是"Tamara 的延续"。
 
-**为什么这样写**：Sologub 用"向着光走去"和"脚印被雪覆盖"，完成故事的"死亡即回家"主题——母亲和儿子一起走向光，而他们的痕迹被自然所吸收。复活节的意义在这里实现了：死亡不是终结，是复活。
+**为什么这样写**：Sologub 用这个观察，建立"亡妻"与"活妻"的联系——Saksaulov 开始在 Valeria 身上看到 Tamara 的影子；他不需要在"记住 Tamara"和"爱上 Valeria"之间做选择，因为她们本质上是同一个"温柔"的化身。
+
+---
+
+⑦ **"With a gentle smile she bent over him, and—unutterable joy!—Saksaulov felt a gentle touch on his lips."**
+
+**中文理解**：带着温柔的微笑她俯身向他，——难以言说的喜乐！——Saksaulov 感到嘴唇上有一个温柔的触碰。
+
+**句子结构**：With a gentle smile she bent over him 是主句，and—unutterable joy!—Saksaulov felt a gentle touch on his lips 是并列分句。
+
+**关键词**：a gentle smile（温柔的微笑）/ unutterable joy（难以言说的喜乐）/ a gentle touch on his lips（嘴唇上有一个温柔的触碰）
+
+**表达方式**：用"温柔的微笑"和"嘴唇的触碰"的意象，展示"复活"的真正含义——这不是宗教意义上的复活，而是"爱情"的复活；Saksaulov 感到的"喜乐"是因为 Lesha 的触碰让他想起了 Tamara。
+
+**为什么这样写**：Sologub 用这个场景，完成对"复活节"的最终诠释——在复活节的夜晚，Saksaulov 以为他梦到了 Tamara（"温柔的触碰"），实际上他是被 Lesha 唤醒的；这是"记忆"和"现实"的交汇。
+
+---
+
+⑧ **"This was Lesha, who had climbed on to his knee to give him the Easter greeting."**
+
+**中文理解**：这是 Lesha，他爬到他的膝盖上来给他复活节的问候。
+
+**句子结构**：This was Lesha 是主句，who had climbed on to his knee to give him the Easter greeting 是非限制性定语从句。
+
+**关键词**：climbed on to his knee（爬到他的膝盖上）/ give him the Easter greeting（给他复活节的问候）
+
+**表达方式**：用 Lesha 爬上膝盖的动作，替代⑦中"温柔的触碰"的来源——这不是梦中的 Tamara，这是真实的 Lesha；Saksaulov 在复活节的早晨被 Lesha"吻醒"。
+
+**为什么这样写**：Sologub 用这个转折，完成从"梦"到"现实"的过渡——Saksaulov 以为他被 Tamara 吻了，实际上是 Lesha；但这种"混淆"正是故事的精髓——Lesha 就是 Tamara 在尘世的延续。
+
+---
+
+⑨ **""White Mother has sent it," he lisped; "I will give it you and you must give it to Auntie Valeria.""**
+
+**中文理解**："白母亲送来了它，"他含糊地说；"我会把它给你，你必须把它给 Valeria 阿姨。"
+
+**句子结构**：White Mother has sent it 是直接引语，he lisped 是主句；I will give it you 是主句，and you must give it to Auntie Valeria 是并列分句。
+
+**关键词**：White Mother has sent it（白母亲送来了它）/ give it to Auntie Valeria（把它给 Valeria 阿姨）
+
+**表达方式**：用"白母亲"这个词，Lesha 把 Easter egg（复活节彩蛋）来源归于"白母亲"——这既是 Lesha 的生母（已经去世），也是 Saksaulov 的亡妻 Tamara；两个"白母亲"在同一个 Easter egg 上合二为一。
+
+**为什么这样写**：Sologub 用这个细节，完成故事的核心主题——Lesha 是"白母亲"（Tamara）送给 Saksaulov 的礼物；通过收养 Lesha，Saksaulov 完成了对 Tamara 的承诺——他"收养"了她在尘世的孩子（尽管 Lesha 不是她的亲生儿子，但他是她"故事"的延续）。
+
+---
+
+⑩ **"But it seemed to Saksaulov at the moment to be a present from Tamara. And he was glad, because soon he would see Valeria, and because he was not alone any more."**
+
+**中文理解**：但在那一刻，这个彩蛋在 Saksaulov 看来是来自 Tamara 的礼物。他很高兴，因为他很快就要见到 Valeria，而且因为他不再孤单了。
+
+**句子结构**：But it seemed to Saksaulov at the moment to be a present from Tamara 是主句，And he was glad 是并列主句，because soon he would see Valeria 是原因从句，and because he was not alone any more 是并列原因从句。
+
+**关键词**：a present from Tamara（来自 Tamara 的礼物）/ he was glad（他很高兴）/ soon he would see Valeria（他很快就要见到 Valeria）/ not alone any more（不再孤单）
+
+**表达方式**：用"来自 Tamara"和"不再孤单"的并置，Tamara 和 Valeria 都是"白母亲"的不同化身——一个是记忆中的，一个是现实中的；Saksaulov 的"复活"不是选择一个放弃另一个，而是同时拥有两个。
+
+**为什么这样写**：Sologub 用这个结尾，完成对"复活"的最终诠释——Saksaulov 在 Lesha 身上看到了 Tamara，在 Valeria 身上看到了新生活的可能；他不再是"三十七岁的老单身汉"，他是一个有"过去"也有"未来"的人。
 
 ## 一句话总结
 
-Sologub 用"白母亲"的故事，在复活节的背景下完成了对"母爱与死亡"的终极思考——当母亲在复活节前夜看到死去的儿子时，她没有恐惧，因为她终于可以"回家"了；死亡在母爱面前变成了"光"，而不是"黑暗"。
+Sologub 用 Lesha 的"白母亲"彩蛋，完成了对"复活"的最高诠释——Saksaulov 在复活节的早晨发现，他不再孤单了；他有了 Lesha（来自"白母亲"的礼物）和 Valeria（新生活的可能）；Tamara 没有复活，但她的"温柔"复活了——在 Valeria 身上，在 Lesha 的爱里。
 
 ## 词汇分级
 
@@ -161,26 +161,29 @@ Sologub 用"白母亲"的故事，在复活节的背景下完成了对"母爱与
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| the White Mother | n. 白母亲（死亡的拟人化） | The white figure in the doorway was the White Mother. |
-| Easter | n. 复活节 | Easter was drawing near, and the house was filled with silence. |
-| hold one's breath | ph. 屏住呼吸 | The world seemed to hold its breath. |
-| as cold as snow | ph. 和雪一样冰冷 | The white figure's hand was as cold as snow. |
+| celestial creature | n. 天上的造物 | She had seemed to him an almost celestial creature. |
+| White Mother | n. 白母亲 | First I had a white mother and now I have a black mother. |
+| emanate from | ph. 从……散发出来 | The same gentleness that had emanated from Tamara. |
+| Easter greeting | n. 复活节的问候 | To give him the Easter greeting. |
+| unutterable joy | n. 难以言说的喜乐 | Unutterable joy! Saksaulov felt a gentle touch on his lips. |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| white figure | n. 白色的身影 | She saw a white figure standing in the doorway. |
-| cover footprints | ph. 覆盖脚印 | The snow covered their footprints behind them. |
-| still | adj. 寂静的 | The house was filled with a strange stillness. |
-| without effort | ph. 毫不费力 | She rose from her chair without effort. |
+| adopt | v. 收养 | Why don't you adopt him? |
+| radiant | adj. 明亮的 | Her eyes became tender and radiant. |
+| permeated with | ph. 散发着 | She was permeated with the same gentleness. |
+| lisped | v. 含糊地说 | "White Mother has sent it," he lisped. |
+| a product of air and mist | ph. 空气和雾的产品 | A product of air and mist. |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| snow | n. 雪 | The snow fell silently outside. |
-| son | n. 儿子 | Her son had been dead for many years. |
-| mother | n. 母亲 | Mother, I have come to take you home. |
-| light | n. 光 | Together they walked toward the light. |
-| hand | n. 手 | The white figure took her hand. |
+| Easter | n. 复活节 | Easter was drawing near. |
+| mother | n. 母亲 | I had a white mother. |
+| alone | adj. 独自的 | You live alone. |
+| give | v. 给 | I will give it you. |
+| glad | adj. 高兴的 | He was glad. |
+| smile | n./v. 微笑 | With a gentle smile she bent over him. |

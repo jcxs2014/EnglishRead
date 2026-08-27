@@ -5,155 +5,155 @@ modified: "2026-08-27"
 
 # 83. THE SIGNAL
 
-**作者**：Vsevolod M. Garshin
+**作者**：Vsevolod Garshin（1879）
 
 ## 一句话总结
 
-Garshin 通过一个铁路信号员 Semyon Ivanov 在战争期间坚守岗位的故事，展示了"职责"与"死亡"之间的冲突——当他被困在岗位上时，他的最后职责是用信号灯警告即将到来的火车，但这个职责意味着他将无法在火车到来前离开。
+Garshin 通过 Semyon Ivanov 这位铁路巡道员发现同事 Vasily 企图松动铁轨导致列车脱轨后，用血旗示警救下整列火车的故事，展示了"责任"与"牺牲"的主题——Semyon 从战场上幸存下来，带着战争的创伤和人生的悲痛，但他最终用自己的生命守护了铁路的安全。
 
 ## 逐句精读（10 处）
 
-① **"Semyon Ivanov was a track-walker, and he had worked on the railway for twenty years."**
+① **"Semyon Ivanov was a track-walker. His hut was ten versts away from a railroad station in one direction and twelve versts away in the other."**
 
-**中文理解**：Semyon Ivanov 是一个铁路巡道员，他已经在铁路上工作了二十年。
+**中文理解**：Semyon Ivanov 是一名巡道员。他的小屋在一个方向距离火车站十俄里，在另一个方向距离火车站十二俄里。
 
-**句子结构**：and 连接两个并列分句，had worked 是过去完成时表示持续时间。
+**句子结构**：Semyon Ivanov was a track-walker 是主句，His hut was ten versts away … in one direction and twelve versts away in the other 是并列句。
 
-**关键词**：track-walker（铁路巡道员）/ work on the railway（在铁路上工作）/ twenty years（二十年）
+**关键词**：track-walker（巡道员）/ ten versts（十俄里）/ in one direction（在一个方向）/ twelve versts away（十二俄里远）
 
-**表达方式**：用"二十年"的精确数字，暗示 Semyon 的"尽职尽责"——这是他一生的工作。
+**表达方式**：用"十俄里"和"十二俄里"的精确距离，展示 Semyon 孤独的工作环境——他是唯一一个在这个路段工作的人，他与世隔绝。
 
-**为什么这样写**：Garshin 用"二十年"建立 Semyon 的"职责感"——他不是新人，他是一个把一生都献给铁路的老兵。
-
----
-
-② **"The war had broken out, and the railway was the most important line of communication."**
-
-**中文理解**：战争爆发了，铁路是最重要的通信线路。
-
-**句子结构**：and 连接两个并列分句，had broken out 是过去完成时，the most important 最高级。
-
-**关键词**：war（战争）/ break out（爆发）/ railway（铁路）/ the most important（最重要的）/ communication（通信）
-
-**表达方式**：用"最重要的通信线路"，暗示战争期间铁路的战略价值——铁路是军队的血管。
-
-**为什么这样写**：Garshin 用"铁路 = 生命线"，建立 Semyon 职责的重要性——他不是一个普通的工人，他是战争中的关键一环。
+**为什么这样写**：Garshin 用精确的地理描述，建立"孤独"的主题——Semyon 在战场上幸存下来，现在他在铁路沿线过着同样孤独的生活；战争没有给他带来救赎，只带来了"风湿病"和"寡妇一样的"生活。
 
 ---
 
-③ **"He stood at his post in the night, and he watched the darkness."**
+② **"The bullets hummed about him and rattled viciously against the rocks. Semyon was terrified and cried sometimes, but still he kept right on."**
 
-**中文理解**：他在夜晚站在他的岗位上，看着黑暗。
+**中文理解**：子弹在他周围嗡嗡作响，狠狠地撞击着岩石。Semyon 害怕极了，有时会哭，但他仍然继续前进。
 
-**句子结构**：and 连接两个并列谓语，in the night 是时间状语。
+**句子结构**：The bullets hummed … and rattled viciously against the rocks 是并列主句，Semyon was terrified and cried sometimes 是主句，but still he kept right on 是转折并列句。
 
-**关键词**：stand at his post（站在岗位上）/ night（夜晚）/ watch the darkness（看着黑暗）
+**关键词**：hummed（嗡嗡作响）/ rattled viciously（狠狠地撞击）/ terrified（害怕极了）/ kept right on（继续前进）
 
-**表达方式**：用"看黑暗"的意象，建立"守望者"的主题——Semyon 在黑暗中守望，他的责任就是"看"。
+**表达方式**：用"害怕但继续前进"的并置，展示 Semyon 的"战场英雄主义"——他不是英雄，他只是一个害怕的普通人，但他仍然完成了任务。
 
-**为什么这样写**：Garshin 用"看黑暗"，暗示 Semyon 的孤独——在黑暗中，只有他一个人在工作。
-
----
-
-④ **"The enemy was near, and he could hear the sound of cannon in the distance."**
-
-**中文理解**：敌人在附近，他能听到远处的大炮声。
-
-**句子结构**：and 连接两个并列分句，could hear 是感官动词结构，in the distance 是地点状语。
-
-**关键词**：enemy（敌人）/ near（附近）/ hear the sound of cannon（听到大炮声）/ in the distance（在远处）
-
-**表达方式**：用"远处的大炮声"，暗示 Semyon 处于危险之中——战争已经近在咫尺。
-
-**为什么这样写**：Garshin 用"大炮声"建立"紧张感"——Semyon 不只是在黑暗中工作，他在战争边缘工作。
+**为什么这样写**：Garshin 用这个细节，揭示 Semyon 的内心创伤来源——他参加过战争，他亲眼目睹了死亡，他"害怕但继续前进"；这种"创伤后的坚持"贯穿他的一生，也是他最终牺牲的伏笔。
 
 ---
 
-⑤ **"He knew that a train was coming, and he must show the red signal."**
+③ **""Where are you off to?" "I cannot tell you, sir." "Idiot! What do you mean by 'cannot tell you?'""**
 
-**中文理解**：他知道一列火车正在驶来，他必须显示红色信号。
+**中文理解**："你要去哪里？""我不能告诉你，先生。""白痴！你的'不能告诉你'是什么意思？"
 
-**句子结构**：and 连接两个并列分句，knew that + 宾语从句，must show 表示"必须"。
+**句子结构**：Where are you off to? 是直接问句，I cannot tell you, sir 是回答，Idiot! 是感叹，What do you mean by 'cannot tell you?' 是追问。
 
-**关键词**：train（火车）/ coming（正在来）/ must show（必须显示）/ red signal（红色信号）
+**关键词**：Where are you off to?（你要去哪里？）/ I cannot tell you（我不能告诉你）/ Idiot!（白痴！）
 
-**表达方式**：用"must show the red signal"（必须显示红色信号），建立"职责的绝对性"——不管发生什么，他必须执行命令。
+**表达方式**：用军官和 Semyon 之间的问答，展示 Semyon 在战后的困境——他不知道自己要"去哪里"，因为他无处可去；他的"不能告诉你"不是秘密，而是"无能为力"。
 
-**为什么这样写**：Garshin 用"必须显示红色信号"，建立故事的"核心冲突"——他必须显示信号，但他也知道显示红色信号意味着火车必须停下，而他可能来不及离开。
-
----
-
-⑥ **"The red light was the signal for the train to stop."**
-
-**中文理解**：红灯是让火车停下的信号。
-
-**句子结构**：The red light was the signal 是主系表结构，for the train to stop 动词不定式作定语。
-
-**关键词**：red light（红灯）/ signal（信号）/ for the train to stop（让火车停下）
-
-**表达方式**：用简单的定义句，建立"信号"的意义系统——在铁路上，红色就是"停下"。
-
-**为什么这样写**：Garshin 用"红色 = 停下"的定义，暗示 Semyon 的困境——如果他显示红色，火车会停下，但敌人也会发现他。
+**为什么这样写**：Garshin 用这段对话，暗示 Semyon 战后的迷失——他失去了父亲和儿子，他失去了家，他甚至不知道自己要"去哪里"；他流浪了一辈子，最后只能靠妻子的工资生活。
 
 ---
 
-⑦ **"But he could not leave his post. It was his duty to stay."**
+④ **""Ah, friend, if it were not for men we should not be poking in these huts," said Vasily, on one occasion."**
 
-**中文理解**：但他不能离开他的岗位。留下来是他的职责。
+**中文理解**："啊，朋友，如果不是因为这些男人，我们就不应该蹲在这些小屋里，"Vasily 一次说道。
 
-**句子结构**：It was his duty to stay 是主系表结构，to stay 动词不定式是真实主语。
+**句子结构**：Ah, friend, if it were not for men we should not be poking in these huts 是直接引语，said Vasily 是主句，on one occasion 是时间状语。
 
-**关键词**：cannot leave（不能离开）/ his post（他的岗位）/ duty（职责）/ stay（留下）
+**关键词**：if it were not for men（如果不是为了男人）/ poking in these huts（蹲在小屋里）/ we should not be（我们就不应该）
 
-**表达方式**：用"It was his duty to stay"（留下来是他的职责），建立"职责的道德绝对性"——他不能走，因为这是他的职责。
+**表达方式**：用 Vasily 的抱怨，展示俄国底层工人的不满——他们被迫在偏远的铁路沿线工作，工资低微，生活艰苦；Vasily 把这一切归咎于"男人"，暗示他对社会制度的不满。
 
-**为什么这样写**：Garshin 用"职责的绝对性"，展示 Semyon 的"职责感"——这是他的信仰，是他的存在意义。
-
----
-
-⑧ **"The train came closer, and he raised his lamp to show the red light."**
-
-**中文理解**：火车越来越近了，他举起灯显示红灯。
-
-**句子结构**：and 连接两个并列分句，came closer 是过去式，raised his lamp 是主要动作。
-
-**关键词**：train（火车）/ come closer（越来越近）/ raise his lamp（举起灯）/ show the red light（显示红灯）
-
-**表达方式**：用"举起灯"的动作，象征 Semyon 的"牺牲行为"——他用这个动作完成了他的职责。
-
-**为什么这样写**：Garshin 用"举起灯显示红色"，展示 Semyon 的"最终选择"——他选择了职责，而不是生命。
+**为什么这样写**：Garshin 用 Vasily 的话，建立"社会批判"的维度——Vasily 是一个有反抗精神的工人，他的不满最终会导致他做出"松动铁轨"的破坏行为；他是 Semyon 的"反面"。
 
 ---
 
-⑨ **"He did not run away. He stayed at his post until the very end."**
+⑤ **"He had loosened a rail, so that it would move to one side. A mist swam before Semyon's eyes; he wanted to cry out, but could not."**
 
-**中文理解**：他没有跑掉。他一直留在岗位上，直到最后。
+**中文理解**：他已经松动了一根铁轨，所以铁轨可以移到一边。一层雾气在 Semyon 眼前旋转；他想要叫出来，但叫不出来。
 
-**句子结构**：and 连接两个并列分句，did not run away 是否定，until the very end 是时间状语。
+**句子结构**：He had loosened a rail 是主句，so that it would move to one side 是结果状语从句；A mist swam before Semyon's eyes 是主句，he wanted to cry out, but could not 是转折并列句。
 
-**关键词**：did not run away（没有跑掉）/ stay at his post（留在岗位上）/ until the very end（直到最后）
+**关键词**：loosened a rail（松动了铁轨）/ move to one side（移到一边）/ A mist swam before Semyon's eyes（雾气在眼前旋转）/ could not（不能）
 
-**表达方式**：用"直到最后"（the very end）表示"终点"的绝对性——没有折扣，没有借口。
+**表达方式**：用"雾气在眼前旋转"和"叫不出来"的细节，展示 Semyon 发现 Vasily 破坏行为时的震惊——他被恐惧和愤怒所冲击，他的身体僵住了。
 
-**为什么这样写**：Garshin 用 Semyon 的"没有跑掉"，展示"职责"与"自我保存"之间的选择——他选择了职责，这是他的荣耀。
+**为什么这样写**：Garshin 用这个发现场景，建立整个故事的核心冲突——Semyon 面对的是"同事的背叛"，Vasily 要杀死一火车的人；这是一个"责任"与"生存"的选择。
 
 ---
 
-⑩ **"The train was saved, and Semyon Ivanov was found dead at his post."**
+⑥ **""Come back! Save your soul from sin!" Vasily did not look back, but disappeared into the woods."**
 
-**中文理解**：火车得救了，Semyon Ivanov 被发现死在岗位上。
+**中文理解**："拯救你的灵魂免于罪恶！"Semyon 没有回头，消失在了森林里。
 
-**句子结构**：and 连接两个并列分句，was found dead 是被动语态，at his post 是地点状语。
+**句子结构**：Save your soul from sin! 是 Vasily 的直接引语，Semyon did not look back 是主句，but disappeared into the woods 是转折并列句。
 
-**关键词**：train was saved（火车得救了）/ find dead（发现死了）/ at his post（在岗位上）
+**关键词**：Save your soul from sin（拯救你的灵魂免于罪恶）/ did not look back（没有回头）/ disappeared into the woods（消失在了森林里）
 
-**表达方式**：用"火车得救"和"Semyon 死在岗位上"的并置，展示"交换"的逻辑——一个人的生命换了一列火车的安全。
+**表达方式**：用 Vasily 的"拯救你的灵魂"，暗示"破坏火车"是一种"罪恶"——Vasily 知道自己在犯罪，他用"拯救灵魂"来回应 Semyon 的恳求，这展示了 Vasily 的"清醒的堕落"。
 
-**为什么这样写**：Garshin 用"火车得救"和"死在岗位上"的并置，完成了"职责的最终意义"——他的死不是无意义的，他的职责完成了，他的生命换来了别人的安全。
+**为什么这样写**：Garshin 用 Vasily 的话，展示"罪恶意识"的复杂性——Vasily 不是不知道这是犯罪，他只是不在乎；他被生活的不公所扭曲，他要用破坏来报复社会。
+
+---
+
+⑦ **"A train was due; not a freight, but a passenger-train. And he had nothing with which to stop it, no flag."**
+
+**中文理解**：一列火车要来了；不是货运火车，而是客运火车。他没有任何东西可以阻止它，没有旗帜。
+
+**句子结构**：A train was due 是主句，not a freight, but a passenger-train 是同位语；And he had nothing with which to stop it 是主句，no flag 是 nothing 的同位语。
+
+**关键词**：A train was due（一列火车要来了）/ passenger-train（客运火车）/ nothing with which to stop it（没有任何东西可以阻止它）/ no flag（没有旗帜）
+
+**表达方式**：用"没有旗帜"这个绝望的细节，展示 Semyon 面临的绝境——火车来了，他没有工具，他只有自己的身体和一块手帕；他必须做出选择。
+
+**为什么这样写**：Garshin 用这个细节，建立"英雄主义的条件"——英雄不是因为有工具才成为英雄，而是因为在没有工具的情况下仍然行动；Semyon 的"没有旗帜"是他成为英雄的前提。
+
+---
+
+⑧ **"Semyon did not run on to the hut, but turned back and ran faster than before."**
+
+**中文理解**：Semyon 没有继续跑向小屋，而是转身跑回去，比之前更快。
+
+**句子结构**：Semyon did not run on to the hut 是主句，but turned back and ran faster than before 是并列动词短语。
+
+**关键词**：did not run on to the hut（没有继续跑向小屋）/ turned back（转身）/ ran faster than before（比之前跑得更快）
+
+**表达方式**：用"转身"这个决定，展示 Semyon 的"道德选择"——他没有跑向小屋拿工具（来不及），他转身跑向火车；他选择了用自己的身体示警。
+
+**为什么这样写**：Garshin 用这个转折，展示 Semyon 从"逃跑"到"面对"的内心转变——他曾经是一个"害怕但继续前进"的战场幸存者，现在他再次选择"面对"而不是"逃跑"。
+
+---
+
+⑨ **"Pulling off his cap, he took out of it a cotton scarf, drew his knife out of the upper part of his boot, and crossed himself."**
+
+**中文理解**：他脱下帽子，从里面拿出一块棉围巾，从靴子的上部抽出刀，在自己身上画了个十字。
+
+**句子结构**：Pulling off his cap 是现在分词作方式状语，he took out of it a cotton scarf, drew his knife out of the upper part of his boot, and crossed himself 是三个并列动词短语。
+
+**关键词**：Pulling off his cap（脱下帽子）/ cotton scarf（棉围巾）/ drew his knife（抽出刀）/ crossed himself（画十字）
+
+**表达方式**：用"帽子、围巾、刀、十字"的道具组合，展示 Semyon 的"俄国灵魂"——他是东正教信徒，他在面对死亡前画十字；他同时也是一个实用的人，用围巾做旗帜。
+
+**为什么这样写**：Garshin 用这些细节，完成 Semyon 的"英雄形象"——他不是英雄，他只是一个普通人，他用围巾和血做了一面旗帜；但正是这种"普通人的行动"才是真正的英雄主义。
+
+---
+
+⑩ **"The engineer saw it, shut the regulator, and reversed steam. The train came to a standstill."**
+
+**中文理解**：工程师看到了它，关闭了调节器，并 reversal 蒸汽。火车停了下来。
+
+**句子结构**：The engineer saw it, shut the regulator, and reversed steam 是三个并列动词短语，The train came to a standstill 是结果分句。
+
+**关键词**：saw it（看到了它）/ shut the regulator（关闭了调节器）/ reversed steam（反转了蒸汽）/ came to a standstill（停了下来）
+
+**表达方式**：用火车"停了下来"的结局，完成整个故事的"英雄主义叙事"——Semyon 的牺牲得到了回报，一百名乘客得救了。
+
+**为什么这样写**：Garshin 用这个结局，完成了对"责任"的最终诠释——Semyon 守护铁路的安全，这是他的职责；他不是因为想做英雄才去救火车，他只是"做了他应该做的事"；Garshin 暗示，这才是真正的英雄主义。
 
 ## 一句话总结
 
-Garshin 用 Semyon Ivanov 在战争期间坚守岗位的故事，展示了"职责"与"生命"之间的终极选择——当他被困在岗位上时，他选择了显示红色信号来拯救火车，而不是逃跑；他的死是他的职责的最终完成，也是他对职责的最终见证。
+Garshin 用 Semyon 的血旗故事，展示了"责任"与"牺牲"的真正含义——Semyon 从战场的"害怕但继续前进"，到铁路上的"转身面对危险"，他一生都在"履行职责"；他的牺牲不是英雄主义的光环，而是一个人"做了他应该做的事"。
 
 ## 词汇分级
 
@@ -161,26 +161,28 @@ Garshin 用 Semyon Ivanov 在战争期间坚守岗位的故事，展示了"职�
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| track-walker | n. 铁路巡道员 | Semyon Ivanov was a track-walker on the railway. |
-| duty | n. 职责，责任 | It was his duty to stay at his post until the very end. |
-| the very end | ph. 真正的终点，最后 | He stayed at his post until the very end. |
-| save | v. 拯救，挽救 | The train was saved because he showed the signal. |
+| track-walker | n. 铁路巡道员 | Semyon Ivanov was a track-walker. |
+| save your soul from sin | ph. 拯救你的灵魂免于罪恶 | "Save your soul from sin!" Vasily did not look back. |
+| reversed steam | ph. 反转蒸汽 | The engineer reversed steam. The train came to a standstill. |
+| come to a standstill | ph. 停下来 | The train came to a standstill. |
 
 ### ⭐⭐ 进阶
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| post | n. 岗位 | He could not leave his post. |
-| signal | n. 信号 | The red light was the signal for the train to stop. |
-| cannon | n. 大炮 | He could hear the sound of cannon in the distance. |
-| raise | v. 举起 | He raised his lamp to show the red light. |
+| loosen | v. 松动 | He had loosened a rail. |
+| a mist swam before one's eyes | ph. 雾气在眼前旋转 | A mist swam before Semyon's eyes. |
+| cross himself | ph. 在自己身上画十字 | He drew his knife and crossed himself. |
+| regulator | n. 调节器 | The engineer shut the regulator. |
+| passenger-train | n. 客运火车 | A train was due; not a freight, but a passenger-train. |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| train | n. 火车 | A train was coming closer. |
-| war | n. 战争 | The war had broken out. |
-| red light | n. 红灯 | He raised his lamp to show the red light. |
-| die | v. 死 | Semyon was found dead at his post. |
-| night | n. 夜晚 | He stood at his post in the night. |
+| train | n. 火车 | A train was due. |
+| hut | n. 小屋 | His hut was ten versts away. |
+| run | v. 跑 | Semyon started running towards his hut. |
+| flag | n. 旗帜 | He had nothing with which to stop it, no flag. |
+| kill | v. 杀 | The bullets hummed about him. |
+| cry out | ph. 叫出来 | He wanted to cry out, but could not. |
