@@ -71,7 +71,7 @@ modified: "2026-08-28"
 |---------|------|------|
 | valet | 贴身仆人 | "of waiters, pastry cooks, valets, bellboys" |
 | chambermaid | 女仆 | "She was a chambermaid" |
-| exhumed | 挖出的 | (未出现在文本中) |
+| canvas | 挖出的 | (未出现在文本中) |
 
 ### ⭐ 基础
 

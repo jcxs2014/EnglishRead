@@ -62,8 +62,6 @@ modified: "2026-08-28"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | corrugated | 波纹的 | "A wall of corrugated tin surrounded our five-acre community" |
-| repatriate | 驱逐出境 | "the people who had been rounded up and repatriated" |
-| vigil | 守夜 | "keeping vigil" |
 
 ### ⭐⭐ 进阶
 

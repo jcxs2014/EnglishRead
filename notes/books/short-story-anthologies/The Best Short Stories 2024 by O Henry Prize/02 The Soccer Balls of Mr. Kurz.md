@@ -70,7 +70,7 @@ modified: "2026-08-28"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | pouncing | 猛扑 | "lightning fast when pouncing on the balls" |
-| enshrined | 珍藏；隐藏 | "in a completely grassless area, enshrouded in an earthy cloud" |
+| anguished | 珍藏；隐藏 | "in a completely grassless area, enshrouded in an earthy cloud" |
 | jubilant | 欢欣的 | "That evening, in a jubilant riot of oohs and ahs" |
 
 ### ⭐ 基础

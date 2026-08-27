@@ -61,7 +61,7 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| evacuation | 撤离 | "Willards Mill is to be evacuated and flooded" |
+| evacuate | 撤离 | "Willards Mill is to be evacuated and flooded" |
 | reluctant | 犹豫的 | "He feels a heavy reluctance to move his father" |
 | coffin | 棺材 | "build Henry's coffin" |
 

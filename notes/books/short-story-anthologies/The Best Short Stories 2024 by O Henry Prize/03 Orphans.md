@@ -78,7 +78,7 @@ modified: "2026-08-28"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | obsolescence | 过时；淘汰 | "the loneliness of obsolescence" |
-| rupturing | 破裂；断裂 | "Annabelle died, and everything ruptured" |
+| ruptured | 破裂；断裂 | "Annabelle died, and everything ruptured" |
 | barricade | 障碍物；隔阂 | "two decades of silence, an impenetrable barricade" |
 
 ### ⭐⭐ 进阶

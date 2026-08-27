@@ -70,7 +70,7 @@ modified: "2026-08-28"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | tattered | 破烂的 | "assembled through tattered bits of small talk" |
-| negligence | 疏忽 | "a look of raunchy hunger thickening my gaze" |
+| hijacking | 疏忽 | "a look of raunchy hunger thickening my gaze" |
 | hijacking | 劫持 | "the asshole hijacking our home" |
 
 ### ⭐ 基础

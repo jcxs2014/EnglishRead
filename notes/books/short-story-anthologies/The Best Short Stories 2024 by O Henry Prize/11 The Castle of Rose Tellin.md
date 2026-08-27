@@ -47,11 +47,9 @@ modified: "2026-08-28"
 - 表达方式：where 引导的定语从句——"无限"的两个定义：不会结束 and 不断延续。
 - 为什么这样写：这是"认知框架"——Thomas 用"无限"来帮助 Pen 理解"小丑车"，但"无限"本身就是可怕的。
 
-⑤ "Her mother said, 'Jesus Christ, I've never seen a kid cry about the clown car. And I've seen everything.'"
 
 - 中文理解：妈妈说"我的天啊，我从没见过因为小丑车而哭的孩子"，但"我什么都见过"。
 - 句子结构：主语（Her mother）+ 谓语（said）+ 直接引语（Jesus Christ, I 've never seen a kid cry about the clown car）+ 修饰语（And I 've seen everything）。
-- 关键词：I've seen everything——"我什么都见过"；DiCapillo 用这个来描述母亲的"矛盾"——她"什么都说见过"，但她"从没见过这种事"。
 - 表达方式：I 've seen everything vs I 've never seen——"我什么都见过"和"我从没见过"的对比，这是"自相矛盾"。
 - 为什么这样写：这是"母亲的不可靠"——她声称"什么都知道"，但她的表述暴露了她的"不知道"。
 
@@ -102,6 +100,5 @@ modified: "2026-08-28"
 
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
-| I've seen everything | 我什么都见过 | 描述声称知道一切的人的矛盾 |
 | clown after clown | 一个小丑接一个小丑 | 描述无限连续的事物 |
 | where nothing ever ends | 什么都不会结束的地方 | 描述"无限"的概念 |

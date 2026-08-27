@@ -63,7 +63,7 @@ modified: "2026-08-28"
 |---------|------|------|
 | inert | 惰性的 | "They were inert, contained" |
 | contained | 有界限的 | "They were inert, contained" |
-| purgatary | 炼狱 | "the purgatory of Covid" |
+| purgatory | 炼狱 | "the purgatory of Covid" |
 
 ### ⭐⭐ 进阶
 
