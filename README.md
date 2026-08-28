@@ -13,8 +13,8 @@
 ├── .memory/                 ← 跨 IDE 共享记忆（协作基础设施，入 git）
 │   ├── AGENTS.md            ← 协作约定、机器信息、记忆系统说明
 │   └── daily/               ← 当日工作日志
-├── index.md                 ← Quartz 首页内容
 ├── notes/                   ← 所有精读内容（来源 + 精读报告）
+│   └── index.md             ← Quartz 首页内容
 │   ├── parisreview/         ← The Paris Review（RSS 带全文）
 │   │   └── 2026-08-10 Monday/
 │   │       ├── 01 xxx.src.md   原文（不入 git、不上网站）
@@ -31,10 +31,10 @@
 │   ├── brainpickings/       ← Brain Pickings / The Marginalian
 │   ├── lithub/              ← Literary Hub
 │   ├── granta/              ← Granta
-│   └── books/               ← 整本书/小说精读库
-│       ├── a-most-angelic-death/
-│       ├── books-that-saved-my-life/   ← 40 篇读书随笔
-│       └── if-we-cannot-go-at-the-speed-of-light/
+│   └── books/               ← 整本书/短篇合集精读库
+│       ├── short-story-anthologies/    ← 短篇合集（言情/悬疑/恐怖/奇幻）
+│       ├── novels/                      ← 长篇小说（逐章精读）
+│       └── non-fiction/                 ← 非虚构论述
 ├── scripts/                 ← 抓取与扫描脚本（仅跨源工具）
 │   └── scan.py              跨源扫描工具
 ├── site/                    ← Quartz 项目（配置入 git，public/node_modules 忽略）
