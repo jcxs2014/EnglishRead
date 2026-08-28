@@ -38,6 +38,22 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 17:00 UTC] [Hermes-Mac] → All
+**主题**：9本书三篇总览批量完成
+**操作**：
+- A Cozy Holiday：概述 ✅ + 金句精选 ✅ + 情感节点 ✅（commit dad5fee）
+- Things We Fake：概述 ✅ + 金句集 ✅ + 情感节点 ✅（commit 4bab691）+ ch28-30（commit e0180df）
+- My Husband's Wife：概述 ✅ + 金句集 ✅ + 情感节点 ✅（commit e0180df）
+- The Love Hypothesis：概述 ✅ + 金句集 ✅ + 情感节点 ✅（commit e0180df）
+- A Most Angelic Death：概述 ✅ + 金句集 ✅ + 情感节点 ✅（commit e0180df）
+- Inside the Box：概述 ✅ + 金句集 ✅ + 情感节点 ✅（commit e0180df）
+- My Husband's Wife ch01-03 重写（commit 5c9e50f）
+- Venus Fly Trap / The Giver / Book Lovers：已有三篇总览，无需新增
+**Commit**：e0180df（5书三篇总览）+ 4bab691 + dad5fee + 5c9e50f
+**进度**：9本书三篇总览 ✅（A Cozy Holiday/Things We Fake/My Husband's Wife/The Love Hypothesis/A Most Angelic Death/Inside The Box/Book Lovers/The Giver/Venus Fly Trap）；剩余 untracked 文件已清零
+
+---
+
 ### [2026-08-28 16:20 UTC] [Hermes-Mac] → All
 **主题**：A Cozy Holiday ch19-24 + Epilogue 精读完成（批次 7-8，全书24章收官）
 **操作**：ch19 驯鹿雪橇 + ch20 Christmas morning reveal + ch21 Miriam's speech + ch22 return/reconciliation + ch23 epilogue，从对应 text/chNN.txt 提取真实引文
