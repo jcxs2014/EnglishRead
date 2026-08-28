@@ -308,7 +308,7 @@
 - **中文**：Marty 和 Warren 翻进仓库窗户。今晚之后他们就富了——终于可以在一起。婚礼太贵了。
 - **赏析**：`eased through the warehouse window` 暗示抢劫。`finally they'd be together` + `weddings are expensive` 反转——他们是情侣，犯罪是为了结婚。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -341,7 +341,7 @@
 | blind date | 盲约/相亲 | Bad blind date |
 | wedding night | 新婚之夜 | spent their wedding night with the bellboy |
 | bellboy | 行李员 | spent their wedding night with the bellboy |
-| chattered | 喋喋不休 | Hilda chattered on |
+| chattered | 喋喋不休 | Hilda, chattered on, not noticing I'd expired |
 | dignity | 尊严 | She couldn't get her dignity back |
 | multitude | 众多 | through her multitude of boyfriends |
 | settle for | 将就；勉强接受 | Finally he settled for her sister |
