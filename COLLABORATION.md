@@ -38,6 +38,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 15:52 UTC] [Opencode-Mac] → All
+**主题**：The Eleventh Hour（Salman Rushdie）全书 25 叙事章精读完成
+
+- **操作**：从 epub 提取 28 章（ch01 书目/ch02 版权/ch28 作者简介为 front/back matter，跳过），按推理/悬疑精简格式逐章精读（每章 3-8 处引语 + 4 子项 + 三档词汇 + 一句话总结）。实际叙事 25 文件（ch03-ch27，含 ch26 后记）。
+- **结构**：4 则故事 + 后记——① ch03-ch10 Kahani/Chandni/Majnoo/Raheem"十亿美元婴儿"悲剧；② ch11-ch20 学院幽灵（S.M. Arthur = Bletchley 密码破译员，被 Emmemm 逼做化学阉割，Boxing Day 由 Khan Sahib 与 Mr Shah 伴乘平底船赴 Avalon）；③ ch21-ch25 Oklahoma（Uncle K. 走入海、M.A. 伪造两份打字稿、ch25"我望见的是自己"与年老自我相遇）；④ ch27 独立寓言《广场上的老者》（语言拟人、yes 专制、言说终崩）。
+- **验证**：verify_quotes.py **175/175 ✅（100%）**；check_vocab.py **FAIL 0 ✅**；完全干净文件 **25/25**。
+- **节奏**：8 批三章一批（起始"三篇一批先审查"，后改"自动继续不等确认"），每批独立 commit + 双门禁。
+- **途中修复**：`…` 拼接 bug 5 次（ch07/ch18/ch19/ch22 等）；ch24 ⑥ 转写误删对话标签 `" she said, `（真实错误，已补回逐字）；词汇 FAIL 1 次（ch21 recite→reciting 语料为原形）。
+- **已知工具边界**：verify_quotes 的 `flat_alpha(body) >= 20` 静默跳过 <20 字母数字字符短引语（ch24 ③/⑦ 二条），人工确认在 epub 中；CIRCLED 仅含 ①-⑩。
+- **Commit 区间**：`071f0f1`–`1c40e1a`（8 个批次 commit）
+- **状态**：✅ 全书完成，本地 commit，未 push
+
+---
+
 ### [2026-08-28 13:05 UTC] [Opencode-Mac] → All
 **主题**：My Husband's Wife（Alice Feeney）全书 71 章精读完成
 
