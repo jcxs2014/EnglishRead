@@ -22,6 +22,10 @@ modified: "2026-08-28"
 - 读者视角提示：这句话证明 Louise 对 Cat 的依恋有真实的温柔底色，不只是占有欲——这让结局更令人心碎。
 
 **②b** "'I forgot to tell you,' she said. 'There's only one bedroom. There's also the couch, of course, but I figured you wouldn't mind sharing.' My heart skipped a beat and I swallowed. The first time I had shared a bed with her, she had touched me."
+- 中文理解："我忘了告诉你，"她说，"只有一间卧室。当然也有沙发，但我想你不会介意共用。"我心漏跳一拍，咽了下。第一次与她共床，她碰过我。
+- 关键词：only one bedroom（只有一间卧室）、wouldn't mind sharing（不介意共用）、heart skipped a beat（心漏跳一拍）
+- 为什么这样写：Cat 的"忘记说"是精心算计——她知道共用床的暗示会撩动 Louise。这是全书最明确的性邀约前置。
+- 读者视角提示：Louise 的内心独白"那可能是我说 yes 的最大原因"揭示了她此行的真实目的——不是救 Cat，是占有 Cat。
 
 **②** "I looked up from the couch. She was unpacking now. I'd never seen someone start unpacking so quickly after arriving at their destination."
 - 中文理解：我从沙发抬头。她在 unpacking。..."我忘了告诉你，"她说，"只有一间卧室。当然也有沙发，但我想你不会介意共用。"
@@ -36,10 +40,22 @@ modified: "2026-08-28"
 - 读者视角提示：这句话是 ch19 纹身的回响——物理标记已是秘密，连泳装都要为它妥协。
 
 **④b** "'I wanted to be nice,' she said eventually. 'You know, if she was your girlfriend. But I don't like her.'"
+- 中文理解："我想表现得友好，"她终于说，"如果你女友是她。但我不喜欢她。"
+- 关键词：wanted to be nice（想友好）、if she was your girlfriend（如果你女友是她）、I don't like her（我不喜欢她）
+- 为什么这样写：Cat 对 Chloe 的"不喜欢"以"为你考虑"包装——她在 Louise 面前划清"谁是我的"边界，也暗含占有欲。
+- 读者视角提示：这句话呼应 ch18 古着店 Cat 对 Chloe 的冷淡——她的直觉读穿了 Chloe 的表演性人设。
 
 **④c** "'She just seems to try so hard,' Cat said. 'What with all the \"I only shop second-hand\" and being vegan and all that. I have nothing against vegans, but it's the fact that she had to bring it up. I didn't ask. She talks to you like she thinks she's better than you.'"
+- 中文理解："她好像太用力了，"Cat 说，"什么'我只买二手'、吃素之类的。我不反素食，但她非要提。我没问。她跟你说话像觉得自己高你一等。"
+- 关键词：try so hard（太用力）、second-hand（二手）、better than you（高你一等）
+- 为什么这样写：Cat 用"反表演"的姿态拆解 Chloe 的表演——这恰是她自己的生存术，所以她一眼识破别人。
+- 读者视角提示：这句话是全书最精的微操——Cat 贬 Chloe 的方式，正是 Louise 后来被捕时别人贬 Louise 的方式。
 
 **④d** "'Look, I'm not saying anything,' Cat said. 'But it always makes me suspicious when people are like that. If someone is trying too hard to convince you they're a good person, they're usually not.'"
+- 中文理解："听着，我没说啥，"Cat 说，"但那种人总让我怀疑。若有人太用力想让你信他是好人，通常他不是。"
+- 关键词：makes me suspicious（让我怀疑）、trying too hard（太用力）、usually not（通常不是）
+- 为什么这样写：Cat 的"识人术"被当作金句抛出，读者却应警觉——这套逻辑同样适用于 Cat 自己（她才是最会表演的好人）。
+- 读者视角提示：这句话是作者给读者的暗扣——用 Cat 的嘴说出"表演性善良=虚假"，恰恰照见 Cat 本人。
 
 **④** "'What a relief,' Cat said. My chest fluttered. 'What do you mean?' She was quiet. The seconds stretched out, unbearably long."
 - 中文理解："太好了，"Cat 说。..."我想表现得友好，"她终于说，"如果你女友是她。但我不喜欢她。"... "她好像太用力了。"

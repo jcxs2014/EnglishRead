@@ -22,8 +22,16 @@ modified: "2026-08-28"
 - 读者视角提示：这句话让 Introduction 尸体的方式（刺杀）提前曝光——作者不藏凶器，只藏"谁、何时"。
 
 **②** "'You have to do it.'"
+- 中文理解："你来做。"
+- 关键词：You have to do it（你来做）
+- 为什么这样写：全书最冷的五个字——Cat 把谋杀的主动权和罪名一并推给 Louise。这句话是共谋关系的真正起点，也是 Louise 坠入陷阱的入口。
+- 读者视角提示：这句话与 ch16 "他打了你" 形成对照——那时 Cat 否认受害，此刻她用"受害"换得 Louise 的顶罪承诺。
 
 **②a** "'I'm the significant other,' Cat said. 'I would be the prime suspect.'"
+- 中文理解："我是伴侣，"Cat 说，"我会是头号嫌疑。"
+- 关键词：significant other（伴侣）、prime suspect（头号嫌疑）
+- 为什么这样写：Cat 的法律算计是全书的道德拐点——她不是被拖入，是主动设计（自己脱罪、Louise 动手）。这让她从"伤者"变为"共谋者"。
+- 读者视角提示：这句话重写 ch16 "他打了你"——那时 Cat 否认受害，此刻她用受害（受虐）作为让 Louise 顶罪的理由，读者需重新评判她。
 
 **②b** "'I need a watertight alibi,' she said. 'And to be very far away from … where it's going to happen.'"
 - 中文理解："你来做。"... "我是伴侣，"Cat 说，"我会是头号嫌疑。""我需要无懈可击的不在场证明，"她说，"且要远离... 事发地。"
@@ -44,8 +52,16 @@ modified: "2026-08-28"
 - 读者视角提示：这句话呼应 ch23 Henry "alienate victim from friends"——Cat 此刻的论调恰好是受虐者被洗脑后的反向输出，还是真觉醒？作者留白。
 
 **⑤** "'I think the best way would be to stab him,' she said."
+- 中文理解："我觉得最好刺死他，"她说。
+- 关键词：best way would be to stab him（最好刺死）
+- 为什么这样写：全书最 chilling 的提案——两人像在计划旅行一样讨论杀人手法。谋杀被日常化，恐怖感来自平淡。
+- 读者视角提示：这句话是 Introduction 的终极预告——读者已知 Louise 会刺 Henry，剩下只是"她能否脱罪"与"Cat 是否背叛"。
 
 **⑤a** "'You can practise,' said Cat. 'It can't be that hard, can it?'"
+- 中文理解："你可以练，"Cat 说，"不会太难吧？"
+- 关键词：You can practise（你可以练）、can't be that hard（不会太难）
+- 为什么这样写：Cat 把杀人轻描淡写成"练一下就行"——她的冷酷在此达到顶点，也暴露她早有此念、只是在等执行者。
+- 读者视角提示：这句话呼应 ch26 的枕头练刀——Louise 的练习是 Cat 授意的，共谋从计划落到训练。
 
 **⑤b** "'You're right,' I said. 'I'll stab him.'"
 - 中文理解："我觉得最好刺死他，"她说。... "你可以练，"Cat 说，"不会太难吧？"... "你说得对，"我说，"我会刺他。"

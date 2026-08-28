@@ -28,8 +28,16 @@ modified: "2026-08-28"
 - 读者视角提示：这句话让 ch19"纹 Cat 玫瑰"、ch22"偷 Cat 内裤"的执念有了统一解释：所有亲密对象都是 Cat 的影子。
 
 **③** "'He pays to spend time with me.'"
+- 中文理解："他付钱陪我。"
+- 关键词：He pays to spend time with me（他付钱陪我）
+- 为什么这样写：Chloe 撞破 Alistair 短信后，Louise 的坦白——sugar daddy 关系在此被友人以最直白的方式戳破。
+- 读者视角提示：这句话呼应 ch04 的"therapist 说停止 sugar daddy"——Louise 从没真正听进去，直到被 Chloe 逼到墙角。
 
 **③a** "'I'm not a prostitute. I don't have anyone else except him, and he pays for more than the sex.'"
+- 中文理解："我不是妓女。除他之外没别人，他付的不止性。"
+- 关键词：not a prostitute（不是妓女）、pays for more than the sex（付的不止性）
+- 为什么这样写：Louise 的辩护"他付的不止性"暗示情感劳动也是交易——呼应她论文"假装爱"的主题，也暴露她对自己的物化。
+- 读者视角提示：这句话让 ch04 的"每月津贴"有了心理注脚——她用"陪伴费"自我合理化，直到 Chloe 的鄙夷击穿它。
 
 **③b** "'It's the same thing, isn't it?'"
 - 中文理解："他付钱陪我。"... "我不是妓女。除他之外没别人，他付的不止性。"... "是一回事，不是吗？"
@@ -44,6 +52,10 @@ modified: "2026-08-28"
 - 读者视角提示：这句话呼应 ch18 古着店——Chloe 一直以为 Louise 是那个"有巴塞罗那夏屋的女孩"，而那其实是 Cat。面具的代价在此刻显形。
 
 **⑤** "Her voice was so beautiful. I closed my eyes and listened to it."
+- 中文理解：她的声音如此美。我闭眼听。
+- 关键词：voice was so beautiful（声音美）、closed my eyes and listened（闭眼听）
+- 为什么这样写：全书最安静的结尾——Louise 潜回卧室，不敢出声，只听 Cat 唱歌。这是 ch23 决裂后第一次"近距离无声重逢"，温柔得残忍。
+- 读者视角提示：这句话是 ch18 钢琴的回声——Cat 的歌声（而非钢琴）再次成为 Louise 的安抚，但这一次隔着一道她自己撞上的门。
 
 **⑤a** "I lay in bed, afraid to make a sound. She went about her business in the lounge and in the kitchen, singing some old Celine Dion songs to herself."
 - 中文理解：她的声音如此美。我闭眼听。她在客厅厨房忙自己的，自顾自唱着老 Celine Dion 歌。

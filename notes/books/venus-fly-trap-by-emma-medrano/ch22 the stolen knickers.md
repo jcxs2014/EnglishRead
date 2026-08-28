@@ -34,6 +34,10 @@ modified: "2026-08-28"
 - 读者视角提示：这句话呼应 ch19"我从未口头称她为挚爱"——Louise 的沉默被 Cat 打破，这是信任的终极交付。
 
 **④** "'It means a lot that you would trust me with that.'"
+- 中文理解："你愿意把这事托付给我，意义重大。"
+- 关键词：It means a lot（意义重大）、trust me with that（托付我此事）
+- 为什么这样写：Barcelona 沙滩上 Cat 听完 Maisie 死因自白后的回应——她没有评判，只接住了 Louise 的脆弱。这是两人关系最柔软的瞬间。
+- 读者视角提示：这句话证明 Louise 对 Cat 的依恋有真实的温柔底色，不只是占有欲——这让结局更令人心碎。
 
 **④a** "'You make me feel that way, you know. The way you said she made you feel. Like someone finally understood you. Because you make me feel like – like someone finally sees me for who I really am.'"
 - 中文理解："你愿意信任我这些，意义重大。"... "你让我有那种感觉，你知道。像你说她让你有的感觉。像终于有人懂你。因为你让我觉得——像终于有人看见真实的我。"
@@ -42,8 +46,16 @@ modified: "2026-08-28"
 - 读者视角提示：这句话是 ch18 钢琴四手联弹的回响——Cat 一直说"你让我觉得被看见"，但读者要问：她是真心的，还是在收编 Louise？
 
 **⑤** "'I didn't want the threesome,' she said."
+- 中文理解："三人行不是我要的，"她说。
+- 关键词：I didn't want the threesome（三人行不是我要的）
+- 为什么这样写：Barcelona 沙滩 Cat 第一次推翻"三人行是 Henry 要的"叙事（ch07）——为 ch29 Henry 揭穿"是 Cat 的主意"埋线。
+- 读者视角提示：这句话与 ch29 Henry 的"she suggested the threesome"形成直接矛盾，读者此刻还不知道谁真谁假。
 
 **⑤a** "'But Henry did,' said Cat. 'And …' 'Yes.' Neither of us had to say it out loud."
+- 中文理解："但 Henry 要，"Cat 说。"而且…""是的。"我们都不必说出口。
+- 关键词：But Henry did（但 Henry 要）、Neither of us had to say（都不必说）
+- 为什么这样写：省略号后的"是的"是两人对"Henry 该死"的默契——不宣之于口，却已共谋。
+- 读者视角提示：这句话是 ch21 "我希望他死"的回响，至此共谋从念头变成两人共享的秘密。
 
 **⑤b** "'I didn't want the threesome,' she said again, smiling this time, 'but I'd do it all over again in a heartbeat.'"
 - 中文理解："我不想要三人行，"她说。... "但 Henry 要。"... "我不想要三人行，"她又说，这次微笑，"但我会毫不犹豫重来一次。"

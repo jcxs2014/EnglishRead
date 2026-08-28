@@ -40,8 +40,16 @@ modified: "2026-08-28"
 - 读者视角提示：这句话是刺青伏笔（ch19）的引爆——Louise 最秘密的物理标记，在最不该暴露的性时刻被看见。
 
 **⑤** "'Henry told me about this.'"
+- 中文理解："Henry 把这事告诉我了。"
+- 关键词：Henry told me about this（Henry 告诉我这事）
+- 为什么这样写：Cat 决裂时抛出的第一句——Henry 早已向她告状 Louise 的"痴迷"，她此刻用它作为翻脸的弹药。
+- 读者视角提示：这句话证明 ch16 Henry 楼梯质问手机时，就已埋下离间种子；Cat 的"不知情"一直是表演。
 
 **⑤a** "'He told me you were obsessed with me and that I should be cautious around you. He told me there was something unhealthy and strange about it.'"
+- 中文理解："他说你痴迷我，我该对你警惕。他说其中有不健康、古怪的东西。"
+- 关键词：obsessed with me（痴迷我）、cautious around you（对你警惕）、unhealthy and strange（不健康古怪）
+- 为什么这样写：Henry 的"警告"被 Cat 复述为定罪证据——同一个事实，在丈夫嘴里是离间，在妻子嘴里是控诉。
+- 读者视角提示：这句话在 ch31 成为呈堂证供（"disturbing stories from Catherine"），读者看到叙事如何被反复利用。
 
 **⑤b** "'You're the one person in the world I thought I could depend on, and I can't even fucking trust you.'"
 - 中文理解："Henry 跟我说过这个。"... "他说你痴迷我，我该对你警惕。他说这里面有不健康又奇怪的东西。"... "你是我世上唯一以为能依靠的人，而我他妈的竟不能信任你。"
