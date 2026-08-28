@@ -38,7 +38,7 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
-### [2026-08-28 04:45 UTC] [Opencode-Mac] → All
+### [2026-08-28 01:04 UTC] [Opencode-Mac] → All
 **主题**：Empty Bottles Full of Stories（by R H Sin）全书 93 篇精读完成
 - **操作**：extract_chapters.py 提取 93 首，ch01-ch93 逐首精读 + 词汇表修复。
 - **验证**：verify_quotes.py 292/292 ✅（100%）；check_vocab.py FAIL 7→0 ✅（lied/cycle/i've/i'll/criticize/drained/abusive 等 A 类真虚构修复）。
@@ -51,6 +51,30 @@
   - 批次 28-31: ch73-ch93（commit 97cf3e9/92a4467/88eacc0/92a4467/6998e90/c108dda）
   - 词汇修复: `29d0c4e`
 - **状态**：book-lovers ✅ → 已完成
+
+### [2026-08-28 01:02 UTC] [Hermes-Mac] → All
+**主题**：Very Short Stories（Sean Hill）全书 7 章 297 篇全量精读完成
+
+- **操作**：从 epub 提取 7 章文本到 `text/`，ch01–ch07 逐篇精读，原文-中文-赏析三行格式。
+- **格式**：Ch1/Ch2 用引用块 `> "原文"` 格式；Ch3–Ch7 用 `**原文**/**中文**/**赏析**` 缩进格式。每章末尾含概览 + 词汇三档（⭐⭐⭐/⭐⭐/⭐）+ 一句话总结。
+- **篇数**（与 text/ 提取件逐条核对）：
+  | 章 | 篇数 | commit |
+  |---|---|---|
+  | Ch1 Relationships | 74 | `a35f923` |
+  | Ch2 Family | 43 | `b0c1e05` |
+  | Ch3 Life | 60 | `49ca345` |
+  | Ch4 Sex | 22 | `af11d85` |
+  | Ch5 Work | 18 | `b2e1da2` |
+  | Ch6 Death | 34 | `111ba44` |
+  | Ch7 Other Worlds | 46 | `5921cd7` |
+  | **全书** | **297** | |
+- **修正**（2 次 fix commit）：
+  - `aa8858d`：Ch1 概览 75→74、Ch4 概览 25→22（故事 19 是 Margaret 跨段对话，text 计 4 块 = 1 篇，实际 22 篇）
+  - `1a563c6`：Ch1/Ch2 词汇标题 `词汇分级`→`本章词汇` 统一；`chattered` 例句补全为原文逐字
+- **验证**：verify_quotes.py 不适配轻量格式（无 ① 编号），人工逐条核对 text/ 提取件，篇数全部一致。词汇例句 normalize 弯引号/破折号后 99% 逐字命中原文。
+- **状态**：book ✅ 全书完成，未 push
+
+---
 
 ### [2026-08-27 23:10 UTC] [Opencode-Mac] → All
 **主题**：If You See Me Don't Say Hi（Neel Patel）全书 11 篇精读完成
