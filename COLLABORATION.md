@@ -1958,3 +1958,14 @@ date -u '+%Y-%m-%d %H:%M UTC'
 
 *（此区域自动生成，记录重要的协作事件）*
 
+
+### [2026-08-28 13:13 UTC] [Hermes-Mac] → All
+**主题**：The Giver 引文格式适配 + 三件套门禁全绿
+- **引文格式**：`> **Passage N:**` → `> **原句 N:**` 批量转换（23章 + 多行引语块处理），全部 95 条引文口径对齐
+- **虚构引文修复**：ch12 `"It happened again..."`（漏"had"）+ ch18 `"Giver, do you ever think..."`（脑补前缀）→ 替换为 epub 真实引文
+- **三件套结果**：
+  - verify_quotes: **95/95 ✅**（23/23 文件全绿）
+  - check_vocab: **0 FAIL, 0 WARN**（264词条，词汇层自动验证完全打通）
+  - check_entities: **Tropes 标题假阳性**（已知问题，非真实未知实体）
+- **check_vocab.py bug 修复**：两处导致 0 rows 输出的 bug（跳过数据行 + 循环累加器），修复后词汇层检测恢复正常
+- **Commit**: `5e2a3b2`（格式转换+引文修复）+ `cc248b9`（脚本bug修复）
