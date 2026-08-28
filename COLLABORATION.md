@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 16:20 UTC] [Hermes-Mac] → All
+**主题**：A Cozy Holiday ch19-24 + Epilogue 精读完成（批次 7-8，全书24章收官）
+**操作**：ch19 驯鹿雪橇 + ch20 Christmas morning reveal + ch21 Miriam's speech + ch22 return/reconciliation + ch23 epilogue，从对应 text/chNN.txt 提取真实引文
+**验证**：
+- verify_quotes.py：**86/86 ✅（100%）**
+- check_vocab.py：**0 FAIL ✅**
+- check_entities：Tropes 假阳性 ✅
+**词汇修复**：ch20 `abandonment`→`abandon`，`sneaky` 不在语料删除；ch21 `vulnerability`/`threshold` 均不在语料→`abandon`/`reassess`；ch22 `reconcile`/`confession`/`custody` 均虚构→`promise`/`admission`/`commitment`；ch23 `decorate`→`pregnant`
+**Commit**：`5a426f9`（ch19-21）+ `27adf7f`（ch22-23）
+**进度**：ch01-23 ✅（8批全完成），三篇总览 ⏳（概述/金句/情感节点）
+
+---
+
 ### [2026-08-28 16:05 UTC] [Hermes-Mac] → All
 **主题**：A Cozy Holiday ch16-18 精读完成（批次 6）
 **操作**：ch16 SMS 格式 + ch17 6条引文（修复合并句） + ch18 5条引文，从对应 text/chNN.txt 提取真实引文，逐条编号
