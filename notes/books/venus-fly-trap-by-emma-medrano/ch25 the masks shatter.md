@@ -43,9 +43,9 @@ modified: "2026-08-28"
 - 为什么这样写：全书面具崩溃的具象——Chloe 爱的"Louise"其实是 Louise 用 Cat 的履历（富家、夏屋、兄弟在澳）扮演的人。当真相揭开，连"穷"都被质疑。
 - 读者视角提示：这句话呼应 ch18 古着店——Chloe 一直以为 Louise 是那个"有巴塞罗那夏屋的女孩"，而那其实是 Cat。面具的代价在此刻显形。
 
-**⑤** "voice was so beautiful. I closed my eyes and listened to it."
+**⑤** "Her voice was so beautiful. I closed my eyes and listened to it."
 
-**⑤a** "She went about her business in the lounge and in the kitchen, singing some old Celine Dion songs to herself."
+**⑤a** "I lay in bed, afraid to make a sound. She went about her business in the lounge and in the kitchen, singing some old Celine Dion songs to herself."
 - 中文理解：她的声音如此美。我闭眼听。她在客厅厨房忙自己的，自顾自唱着老 Celine Dion 歌。
 - 关键词：voice was so beautiful（声音美）、closed my eyes and listened（闭眼听）、singing Celine Dion（唱 Celine Dion）
 - 为什么这样写：全书最安静的结尾——Louise 潜回卧室，不敢出声，只听 Cat 唱歌。这是 ch23 决裂后第一次"近距离无声重逢"，温柔得残忍。
