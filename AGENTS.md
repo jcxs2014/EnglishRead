@@ -141,6 +141,30 @@
    - 实证背景：Schweblin 批次（引文全绿、词汇 7 条虚构）与 Isolationist 批次（10 FAIL 分 A/B）证明**引文门禁全绿不代表词汇层干净**，两道门都不可省。
 6. **批次节奏**：一次会话处理 ≤5 篇，写完立即跑核验——连续大量生成后期质量必然衰减（Book Lovers / 100 Great 两次实证），宁少不凑。
 7. **任务边界**：多实例并行时，精读文件由指派的负责人修改；其他实例发现问题时**只输出核对报告并在 COLLABORATION.md 留言**，不直接改动他人负责的文件。
+8. **第一遍内联验证流程**（2026-08-29 新增，针对"生成后检查"而非"边生成边验证"的根因漏洞）：
+
+   > 背景：The Giver 批次生成时凭空捏造 25 条词汇条目（A 类虚构），根本原因是生成时未锚定原文——词汇靠印象分档、例句靠改写、引文靠记忆，核验被推到 commit 后才发现 FAIL。
+
+   **每章精读完成的强制 Gate（不等 commit 前才跑）**：
+
+   a. **引文**：写完每章后，用 `grep` 或 `pick_quotes.py` 从 `text/chNN.txt` 提取真实引文，禁止凭记忆构造。示例：
+      ```bash
+      grep -i "关键词" text/chNN.txt   # 验证引文在原文存在
+      python3 scripts/pick_quotes.py <NN> 5   # 等距抽取 5 句候选引文
+      ```
+   b. **词汇表**：每个词条写入前必须 `grep -i "word" text/chNN.txt` 验证真实存在，不存在于原文的词不许写入。示例：
+      ```bash
+      grep -i "scrutinized" text/ch01_it_was_almost.txt   # 有输出=词在原文，可写；无输出=虚构，不许写
+      ```
+   c. **例句**：直接从原文复制粘贴，不改写。不允许自造例句（即便意思接近）。
+   d. **章末核验**：每章写完立即跑 `verify_quotes` 和 `check_vocab`，**FAIL=0 才推进下一章**。不等到批次 commit 前才跑：
+
+      ```bash
+      python3 scripts/verify_quotes.py "<书目录>" "<epub>"   # 必须 100%
+      python3 scripts/check_vocab.py "<书目录>"               # 必须 FAIL=0（含 WARN 也视为需排查）
+      ```
+
+   **本质**：把"先生成后检查"变为"边生成边验证"——核验是生成的最后一个步骤，而非 commit 前的一个可选检查站。
 
 ### 配套工具链（scripts/，2026-08-27 固化）
 
