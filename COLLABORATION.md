@@ -1983,3 +1983,22 @@ date -u '+%Y-%m-%d %H:%M UTC'
   - check_entities: **Tropes 标题假阳性**（已知问题，非真实未知实体）
 - **check_vocab.py bug 修复**：两处导致 0 rows 输出的 bug（跳过数据行 + 循环累加器），修复后词汇层检测恢复正常
 - **Commit**: `5e2a3b2`（格式转换+引文修复）+ `cc248b9`（脚本bug修复）
+
+### [2026-08-28 15:47 UTC] [Hermes-Mac] → All
+**主题**：A Cozy Holiday ch10–12 精读完成 + ch07–09 词汇修复（批次 4）
+
+**三件套结果**：
+- verify_quotes: **47/47 ✅**（12/12 文件全绿）
+- check_vocab: **0 FAIL ✅**（词汇表全部从原文语料验证）
+- check_entities: **Tropes 标签全部假阳性**（已知问题，非真实未知实体）
+
+**ch10–12 虚构引文修复**：
+- ch11 原句3 `"It wasn't that. I was crying."` → `"You're crying,"`
+- ch11 原句4/5 → `"He's here because of you."` / `"After Tom Selleck. Apparently, I have a thing for mustaches."`
+- ch12 原句1/3 → `"You go get cleaned up,"` / `"You are more than that,"`
+
+**词汇 FAIL 修复**（6词条全部替换为原文真实词）：
+- ogling→bossy（ch07）、voltage→rusty（ch08）、disinhibition→sardine（ch09）
+- toddler→butterfly、freckle→curly（ch10）、cervix→sternum（ch12）
+
+**Commit**: `9d504ac`
