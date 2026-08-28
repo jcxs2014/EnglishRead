@@ -121,7 +121,7 @@
   | Venus Fly Trap（Emma Medrano） | 32 | 542,760 |
   | The Eleventh Hour（Salman Rushdie） | 28 | 401,653 |
   | A Cozy Holiday（Denise & Kels Stone） | 24 | 270,327 |
-  | Things We Fake（Melinda De Ross） | 36 | 551,269 |
+  | Things We Fake（Melinda De Ross） | 36 | 551,269 | 276/276 ✅ |
 - **状态**：text/ 已提取，目录建立完成，待精读；未 push
 
 ---
