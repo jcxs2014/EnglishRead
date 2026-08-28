@@ -54,7 +54,7 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | shatter | 破碎 | "when hearts are shattered" |
-| cycle | 循环 | "and so it all begins again" |
+
 | enemy | 敌人 | "then enemies in the end" |
 
 ### ⭐⭐ 进阶

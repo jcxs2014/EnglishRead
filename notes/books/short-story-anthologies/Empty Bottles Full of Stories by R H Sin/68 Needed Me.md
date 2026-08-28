@@ -66,4 +66,4 @@ modified: "2026-08-27"
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
 | i only needed me | 我只需要我自己 | 描述自给自足 |
-| i'll be everything for myself | 我会为自己成为一切 | 描述自爱 |
+| will be everything for myself | 我会为自己成为一切 | 描述自爱 |

@@ -39,7 +39,7 @@ modified: "2026-08-27"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| criticize | 批评 | "filled with criticism" |
+| criticism | 批评 | "filled with criticism" |
 | threaten | 威胁 | "do not be threatened by hills" |
 | maintain | 维护 | "reserve and maintain the right" |
 

@@ -111,5 +111,5 @@ modified: "2026-08-27"
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
 | breathe life into | 给...注入生命 | 描述救赎或激活 |
-| lying to myself while you lied to me | 我骗自己，你骗我 | 描述双重欺骗 |
+| lying to myself while you continued to lie to me | 我骗自己，你继续骗我 | 描述双重欺骗 |
 | the death of our union | 我们结合的死亡 | 描述关系的终结 |

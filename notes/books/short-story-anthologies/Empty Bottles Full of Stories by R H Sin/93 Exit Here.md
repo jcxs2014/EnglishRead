@@ -41,7 +41,7 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | regret | 遗憾 | "My greatest regret" |
-| drain | 消耗 | "drained by my own inability" |
+| ripped apart | 撕碎 | "Ripped apart by my own inability" |
 
 ### ⭐ 基础
 
@@ -49,7 +49,7 @@ modified: "2026-08-27"
 |---------|------|------|
 | leave | 离开 | "didn't leave sooner" |
 | dreams | 梦想 | "trample upon my dreams" |
-| abusive | 虐待的 | "emotional abuse" |
+| abuse | 虐待 | "emotional abuse" |
 
 ## 精读结束总结
 

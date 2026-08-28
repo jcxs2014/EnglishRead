@@ -42,7 +42,7 @@ modified: "2026-08-27"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | open up | 开放 | "that opens me up" |
-| wish for | 希望 | "everything i've always wished for" |
+| wish for | 希望 | "everything i wished for" |
 
 ### ⭐ 基础
 
@@ -71,4 +71,4 @@ modified: "2026-08-27"
 | 英文表达 | 中文释义 | 使用场景 |
 |---------|---------|---------|
 | a love that helps me see | 帮助我看见的爱 | 描述健康的爱 |
-| opens me up to everything i've always wished for | 让我开放给一直希望的一切 | 描述爱带来的可能性 |
+
