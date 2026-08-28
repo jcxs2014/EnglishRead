@@ -1,5 +1,10 @@
 ---
 状态: 未读
+modified: "2026-08-28"
+---
+
+---
+状态: 未读
 ---
 
 # Chapter 3: Life
@@ -268,7 +273,7 @@
 | elaborate | 详尽的/精心编造的 | tell the elaborate tale |
 | neglected | 被忽视的 | cared for his mom's neglected plants |
 | discarded | 丢弃 | I discarded it and continued |
-| cramped / comb-over pompadour | 秃顶大背头 | mastering the comb-over pompadour |
+| comb-over | 秃顶遮盖发型（大背头） | mastering the comb-over pompadour |
 | taunted | 嘲讽 | Kevin taunted in his Facebook status |
 
 ### ⭐ 基础
@@ -276,7 +281,7 @@
 |---------|------|------|
 | wrinkle | 皱纹 | Each new wrinkle was a mark of a lesson |
 | fortune | 财富/算命 | inheriting my fortune / fortune-teller |
-| craving / acquired | 获取（含暴力意味） | the shiny stop signs I'd acquired |
+| acquired | 获取（含暴力意味） | the shiny stop signs I'd acquired |
 | record | 记录/录制 | David likes to record. He documents each moment. |
 
 ## 一句话总结

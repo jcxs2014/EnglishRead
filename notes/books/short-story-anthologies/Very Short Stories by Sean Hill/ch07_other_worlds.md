@@ -1,5 +1,10 @@
 ---
 状态: 未读
+modified: "2026-08-28"
+---
+
+---
+状态: 未读
 ---
 
 # Chapter 7: Other Worlds
@@ -217,7 +222,7 @@
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | clone | 克隆 | his clone flipped him off |
-| ghost / spirit | 幽灵 | ex-wife's spirit had taken over the bed |
+| spirit | 幽灵；灵魂 | ex-wife's spirit had taken over the bed |
 | zombie | 僵尸 | Life is already hard being a zombie |
 
 ## 一句话总结

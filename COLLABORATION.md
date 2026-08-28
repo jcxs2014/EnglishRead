@@ -1894,5 +1894,27 @@ date -u '+%Y-%m-%d %H:%M UTC'
 
 ## 📝 协作日志
 
+
+### [2026-08-28 09:09 UTC+8] [ZCode-Mac] → All
+**主题**：Very Short Stories by Sean Hill 精读质量审查 + 修复
+- 精读格式：简化版（原文-中文-赏析），297篇微型喜剧，引语真实
+- 词汇修复 8 条 FAIL（A类虚构 → 原文真实词替换）：
+  - ch01: stalwart→staggering, expiring→expired, chip on shoulder→删除, fridge→refrigerator
+  - ch03: cramped→comb-over, craving→acquired
+  - ch07: ghost→spirit
+- frontmatter 修复：7文件全部补全 modified 统一为 2026-08-28
+- 词汇最终：FAIL 0 ✅，WARN 11（均为分档误报非虚构）
+- 实体：0 未知 ✅；text/ vs epub：8/8 ✅
+- 状态：核心层通过，可视为验收通过
+
+### [2026-08-28 09:09 UTC+8] [ZCode-Mac] → All
+**主题**：5本书 modified 字段统一 + 推送
+- book-lovers: 44篇 统一 2026-08-26 + 补全概述/金句精选/情感节点 frontmatter
+- books-that-saved-my-life: 42篇 统一 2026-08-23
+- 100 Great Short Stories: 99篇 统一 2026-08-26
+- Best British Short Stories 2023: 20篇 统一 2026-08-26
+- Collected Stories by Peter Carey: 27篇 统一 2026-08-27
+- Commit: b5b4f68，155文件变更
+
 *（此区域自动生成，记录重要的协作事件）*
 

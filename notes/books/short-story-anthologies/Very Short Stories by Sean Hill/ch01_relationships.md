@@ -1,5 +1,6 @@
 ---
 状态: 未读
+modified: "2026-08-28"
 ---
 
 # Chapter 1: Relationships
@@ -317,8 +318,7 @@
 | cougar | （俚语）追求年轻男性的年长女性 | Chris likes cougars. They're experienced. |
 | serendipity | 意外发现美好事物的运气 | The serendipity of the situation amused Carl. |
 | serenade | 在窗外为恋人唱歌献情 | Mark stood in the moonlight, serenading Vicky. |
-| stalwart | 坚定、可靠（文中未直接出现，但 `staggering` 反义概念） | — |
-| stalwart | 坚定地支持（文中 `staggering` 意为"令人震惊地"） | Darla's beauty was staggering. |
+| staggering | 令人震惊的（褒贬均可） | Darla's beauty was staggering. |
 | tarnish | 使失色/玷污 | I won't let one indiscretion tarnish her memory. |
 | indiscretion | 不当行为（尤指风流韵事） | I won't let one indiscretion tarnish her memory. |
 | cerebral cortex | 大脑皮层 | Justin probed Mary's cerebral cortex. |
@@ -334,7 +334,7 @@
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| expiring / expired | 咽气；到期 | not noticing I'd expired |
+| expired | 咽气；死亡 | not noticing I'd expired |
 | impure thoughts | 杂念/不纯洁的念头 | she had impure thoughts |
 | elope | 私奔 | thrilled to elope |
 | pen pal | 笔友 | waiting on his pen pal's letter |
@@ -355,7 +355,6 @@
 | nuance | 细微差别 | discuss the nuances of Bach |
 | commitment | 承诺 | "I need commitment" |
 | permanent marker | 记号笔 | wrote "Amy's" on his chest in permanent marker |
-| chip on shoulder | 愤愤不平 | — |
 | cubs | （幼兽）崽 | In spring, we had cubs |
 | pebble | 小石子 | Ty softly tossed a pebble |
 | overdrive | 超负荷运转 | Albert's brain went into overdrive |
@@ -369,7 +368,7 @@
 | curb | 路边 | I put myself on the curb |
 | trash truck | 垃圾车 | waited for the trash truck |
 | romance novel | 言情小说 | deep in a romance novel |
-| fridge / refrigerator | 冰箱 | cuddling the refrigerator |
+| refrigerator | 冰箱 | cuddling the refrigerator |
 | beach | 海滩 | Met Alysa on the beach |
 | aquarium | 水族馆 | dropped her at the aquarium |
 | poison | 毒药 | I put the poison in the cup |
