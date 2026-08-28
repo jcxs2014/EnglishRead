@@ -15,23 +15,20 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Jonas 第一次撒谎）
-> "You slept soundly, Jonas?" his mother asked at the morning meal. "No dreams?"
+> **原句 1:** "You slept soundly, Jonas?" his mother asked at the morning meal. "No dreams?"
 > Jonas simply smiled and nodded, not ready to lie, not willing to tell the truth. "I slept very soundly," he said.
 - **中文理解**：" Jonas，你睡得好吗？"母亲在早餐时问道。"没有做梦吗？"Jonas 只是微笑着点头，不想撒谎，也不想说出真相。"我睡得很好，"他说。
 - **关键词**：not ready to lie / not willing to tell the truth / slept very soundly
 - **为什么这样写**：Jonas 的内心状态是全书最微妙的时刻之一——他不想撒谎（因为他从小被教育不要撒谎），但他也不能说真相（因为他被禁止讨论训练）。他选择了"not ready to lie, not willing to tell the truth"——这是他在社区规则和个人良心之间的第一次妥协。
 - **读者视角提示**：这是 Jonas 第一次利用"You may lie"规则——虽然他还没有完全意识到这一点。
 
-> **Passage 2**（Jonas 无法向朋友描述体验）
-> "How could you describe a sled without describing a hill and snow; and how could you describe a hill and snow to someone who had never felt height or wind or that feathery, magical cold?"
+> **原句 2:** "How could you describe a sled without describing a hill and snow; and how could you describe a hill and snow to someone who had never felt height or wind or that feathery, magical cold?"
 - **中文理解**："你怎么描述一辆雪橇而不描述一座雪山？你怎么向一个从未感受过高度、风或那羽毛般神奇的寒冷的人描述雪山？"
 - **关键词**：how could you describe / never felt / precision of language
 - **为什么这样写**：这是全书中关于语言局限性的最深刻反思之一：即使社区花了十二年教他们精确语言，有些体验仍然无法用语言传递。记忆传递是一种直接的心智体验，不是语言能描述的。这与社区用语言控制感知的策略形成尖锐对比。
 - **读者视角提示**：语言是社区控制的工具——而真正的体验超出了语言的范围。The Giver 用的不是语言，而是直接传递体验。
 
-> **Passage 3**（Fiona 的 seeing beyond）
-> "It happened again: the thing that he thought of now as 'seeing beyond.' This time it had been Fiona who had undergone that fleeting indescribable change."
+> **原句 3:** "It had happened again: the thing that he thought of now as \"seeing beyond.\""
 - **中文理解**："它又发生了：他现在称之为'超越视域'的东西。这一次，经历这短暂而无法描述的变化的是 Fiona。"
 - **关键词**：seeing beyond / Fiona / fleeting indescribable change
 - **为什么这样写**：Fiona 也有 seeing beyond 的能力——这暗示社区里不止 Jonas 一个人有特殊感知。但只有 Jonas 被选为 The Receiver，因为他的能力足够强到可以被 The Giver 传递记忆。Fiona 的能力可能是次级的。

@@ -15,36 +15,31 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Gabriel 的 pale eyes）
-> “Isn’t he cute? Look how tiny he is! And he has funny eyes like yours, Jonas!”
+> **原句 1:** "Isn’t he cute? Look how tiny he is! And he has funny eyes like yours, Jonas!"
 - **中文理解**："他不可爱吗？看他多小啊！而且他有和你一样的有趣的眼睛，Jonas！也许他和你的 Birthmother 是同一个。"
 - **关键词**：funny eyes / Birthmother / tiny
 - **为什么这样写**：Lily 第一个指出 Gabriel 有"funny eyes"——颜色是 Sameness 的第一个裂缝。Lily 以为 Birthmother 是原因，但 pale eyes 不是血缘标记，而是"能接收记忆"的命运标记。
 - **读者视角提示**：在 Sameness 里，眼睛颜色是差异的视觉标记——而 Jonas 自己的 pale eyes 将决定他成为 The Receiver。
 
-> **Passage 2**（Birthmother 没有荣誉）
-> “Don’t say that. There’s very little honor in that Assignment.”
+> **原句 2:** "Don’t say that. There’s very little honor in that Assignment."
 - **中文理解**："别那么说。那个 Assignment 几乎没有荣誉可言。三个孩子，然后就结束了。之后她们一辈子都做体力劳动者。"
 - **关键词**：Birthmother / three births / Laborers
 - **为什么这样写**：Birthmother 是社区里最残酷的 Assignment——生育三次后就被降级为体力劳动者，连自己生的孩子都不能见。"Little honor"是社区对生育价值的真实定义：女性=生育工具。
 - **读者视角提示**：母亲在用制度语言压制 Lily 的理想——这种压制本身说明 Birthmother 制度是多么不人道。
 
-> **Passage 3**（Jonas 询问苹果）
-> “Does anything seem strange to you? About the apple?”
+> **原句 3:** "Does anything seem strange to you? About the apple?"
 - **中文理解**："有什么看起来奇怪的吗？关于这个苹果？"
 - **关键词**：strange / apple / seem
 - **为什么这样写**：Jonas 第一次主动询问 Asher 是否看到了他看到的东西——但他不知道如何描述这个"变化"，只能问"看起来奇怪吗"。这与"wrong word"母题再次呼应：语言是认知的边界。
 - **读者视角提示**：Jonas 不会问"苹果是什么颜色的"，因为在 Sameness 里苹果没有颜色。他只能问"看起来奇怪吗"。
 
-> **Passage 4**（Asher 看不到变化）
-> “It jumps out of my hand onto the ground!”
+> **原句 4:** "It jumps out of my hand onto the ground!"
 - **中文理解**："它从我手里跳到地上了！"
 - **关键词**：jumps out / ground / hand
 - **为什么这样写**：Asher 把 Jonas 感知到的"颜色变化"理解为"苹果掉了"。不同的大脑看到不同的世界。Jonas 看到红色，其他人看到苹果掉了——物理事实相同，感知内容截然不同。
 - **读者视角提示**：Asher 永远不知道自己错过了什么。Jonas 即将被迫知道自己看见了别人看不见的东西。
 
-> **Passage 5**（Volunteer hours 发现自我）
-> “When you’re an Eight and start your volunteer hours, you can try some at the Nurturing Center,”
+> **原句 5:** "When you’re an Eight and start your volunteer hours, you can try some at the Nurturing Center,"
 - **中文理解**："当你八岁开始志愿服务时，你可以尝试不同的种类。那时候大多数人会发现自己擅长什么、喜欢什么。"
 - **关键词**：volunteer hours / Eight / figure out
 - **为什么这样写**：社区通过"志愿服务时数"让孩子们在成人之前体验各种职业。表面是"发现自我"，实际上是"被社区分类"——这两个过程的混淆是反乌托邦的典型特征。

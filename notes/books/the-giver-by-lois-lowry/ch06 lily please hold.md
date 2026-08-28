@@ -15,22 +15,19 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Ribbon 争吵）
-> “But I also know that they constantly come loose and more often than not, they're dangling down your back by afternoon. Today, at least, we want them to be neatly tied and to stay neatly tied.”
+> **原句 1:** "But I also know that they constantly come loose and more often than not, they're dangling down your back by afternoon. Today, at least, we want them to be neatly tied and to stay neatly tied."
 - **中文理解**："但我也知道它们总是松开的，而且大多数时候，到下午它们就垂到你背后了。今天，至少，我们想让它们整整齐齐地系好，保持整齐。"
 - **关键词**：constantly come loose / dangling down / neatly tied
 - **为什么这样写**：开篇的母亲-女儿对话建立了社区对"秩序"的执着——Ribbon 要"保持整齐"。这与即将发生的 Twelve 典礼形成主题呼应：社区通过仪式和规则让一切"整整齐齐"，包括人的命运。
 - **读者视角提示**：Lily 的"dangle"和母亲的"neatly tied"是社区对失控的隐喻。
 
-> **Passage 2**（Lily 希望 Jonas 当 Pilot）
-> “I hope you get Pilot. And that you take me flying!”
+> **原句 2:** "I hope you get Pilot. And that you take me flying!"
 - **中文理解**："我希望你能当飞行员！然后你带我飞！"
 - **关键词**：Pilot / take me flying / parachute
 - **为什么这样写**：Lily 对飞行员的热烈幻想与 Jonas 即将被分配的角色形成尖锐对比——飞行员是社区最受尊敬的角色之一，而 The Receiver 是社区最孤独的角色。Liyi 不知道她哥哥即将承担的重量。
 - **读者视角提示**：Jonas 的回答"If I get Pilot I'll put in an appeal"——他已经隐约知道自己不会得到常规 Assignment。
 
-> **Passage 3**（Asher 对河流的注视）
-> “But Asher wasn't reassured. He was eyeing the river where it was visible behind the Auditorium.”
+> **原句 3:** "But Asher wasn't reassured. He was eyeing the river where it was visible behind the Auditorium."
 - **中文理解**："但 Asher 不放心。他盯着窗外可见的河流。"
 - **关键词**：wasn't reassured / eyeing the river / behind the Auditorium
 - **为什么这样写**：Asher 盯着河流——这条河在全书末尾将成为 Jonas 逃离社区的通道。Asher 不知道，但他已经在身体上感受到了社区的边界：河流是"Elsewhere"的隐喻，而"Elsewhere"是被禁止的。Asher 的玩笑（跳河去别的社区）在这里有了真实的情感重量。

@@ -15,36 +15,31 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Jonas 看到释放录像）
-> "It's just an ordinary room," he commented. "I thought maybe they'd have it in the Auditorium, so that everybody could come."
+> **原句 1:** "It's just an ordinary room," he commented. "I thought maybe they'd have it in the Auditorium, so that everybody could come."
 - **中文理解**："这只是一个普通的房间，"他评论道。"我以为他们会在礼堂里进行，这样每个人都能来。"
 - **关键词**：ordinary room / Auditorium / private ceremony
 - **为什么这样写**：Jonas 对释放过程的期待与现实形成巨大落差——他以为会是庄严的仪式，结果只是一个普通的小房间。这暗示了"释放"在社区里的平常性：它不是例外，而是一种常规操作。
 - **读者视角提示**：这个细节揭示了社区对"释放"的去神圣化——它就像日常的 nurture 工作一样普通。
 
-> **Passage 2**（父亲进入房间）
-> "That's my father." Jonas found himself whispering, as if he might wake the little ones if he spoke aloud.
+> **原句 1:** "That's my father." Jonas found himself whispering, as if he might wake the little ones if he spoke aloud."
 - **中文理解**："那是我父亲。" Jonas 不自觉地低声说，就好像如果他大声说话，可能会吵醒那些小婴儿。
 - **关键词**：that's my father / whispering / wake the little ones
 - **为什么这样写**：Jonas 对父亲的描述"as if he might wake the little ones"是全书最具讽刺性的时刻之一：他不知道接下来会发生什么，仍然用"照顾婴儿"的逻辑在思考。而观众（和读者）知道，这正是父亲的工作。
 - **读者视角提示**：这是 Lowry 最有力的叙事策略之一——让读者比 Jonas 知道得更多，形成悲剧性讽刺。
 
-> **Passage 3**（Jonas 请求看释放录像）
-> "Do you want to see this morning's release?"
+> **原句 2:** "Do you want to see this morning's release?"
 - **中文理解**："你想看今天早上的释放吗？"
 - **关键词**：do you want to see / this morning's release / closed records
 - **为什么这样写**：The Giver 的这个问题是一种苏格拉底式的教学——他知道 Jonas 还没有准备好，但他也知道 Jonas 必须看到。这是 The Giver 对 Jonas 的最后一次"入门测试"：你是否愿意面对真相？
 - **读者视角提示**：Jonas 说"it's too late for this one"——他已经错过了，但 The Giver 说"all ceremonies are recorded"，这是 Jonas 唯一能看到真相的方式。
 
-> **Passage 4**（The Giver 揭示录像的存在）
-> "All private ceremonies are recorded. They're in the Hall of Closed Records."
+> **原句 3:** "All private ceremonies are recorded. They're in the Hall of Closed Records."
 - **中文理解**："所有私人仪式都有录像。它们在封闭记录大厅里。"
 - **关键词**：all private ceremonies / closed records / Hall of Closed Records
 - **为什么这样写**：社区有"公开记录大厅"（Hall of Open Records）和"封闭记录大厅"——这个分类本身就说明社区有它不想让公民知道的东西。The Giver 告诉 Jonas 这个存在，是给他开了一个巨大的口子。
 - **读者视角提示**：这是 Jonas 第一次意识到社区有"隐藏知识"——而他现在可以接触它了。
 
-> **Passage 5**（Jonas 想要看父亲工作）
-> "I wish I could watch," he added, as an afterthought. He liked the thought of seeing his father perform the ceremony.
+> **原句 2:** "I wish I could watch," he added, as an afterthought. He liked the thought of seeing his father perform the ceremony."
 - **中文理解**："我希望我能看，"他补充道。他喜欢想象父亲执行仪式的样子。
 - **关键词**：I wish I could watch / his father / gentle man
 - **为什么这样写**：Jonas 对父亲的"gentle man"印象在此刻达到顶峰——他想要看父亲"perform the ceremony"。但当我们知道他接下来会看到什么时，这句话就成了最残酷的反讽。

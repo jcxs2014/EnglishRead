@@ -15,29 +15,25 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（家庭对 Receiver 的反应）
-> ''You've been greatly honored," his mother said. ''Your father and I are very proud."
+> **原句 1:** "You've been greatly honored," his mother said. ''Your father and I are very proud."
 - **中文理解**："你被极大地荣誉了，"他母亲说。"你父亲和我都非常骄傲。"
 - **关键词**：greatly honored / very proud / most important job
 - **为什么这样写**：父母用社区的标准语言表达骄傲——"honored"和"proud"是社区的官方情感词汇。但他们的表情呢？Jonas 没有描述父母脸上的喜悦，只有语言。Lowry 用语言的空洞暗示情感的缺失：父母为 Jonas 高兴，但他们不知道这意味着什么。
 - **读者视角提示**：母亲说"It's not a job, really"——她从未想过、从未期望——这句话透露了 Receiver 角色在社区中的神秘性。
 
-> **Passage 2**（之前的失败）
-> ''It was very much as it was today, Jonas — the same suspense, as one Eleven had been passed over when the Assignments were given."
+> **原句 2:** "It was very much as it was today, Jonas — the same suspense, as one Eleven had been passed over when the Assignments were given."
 - **中文理解**："这和今天非常相似，Jonas——同样的悬念，一个十一年级的孩子在分配时被跳过，然后公告宣布他们单独挑出了那一个——"
 - **关键词**：previous selection / failed / ten years ago / Not-to-Be-Spoken
 - **为什么这样写**：这是全书中最重要的背景信息之一：十年前有过一次失败的 selection。那个女孩——社区从不提她的名字——被选为 Receiver 但失败了。她怎么了？社区里的人不知道，也不想知道。这个"不知道"本身就是答案。
 - **读者视角提示**：父亲说"We never saw her again"——这与 Roberto 的释放形成呼应，但这次更加个人化。
 
-> **Passage 3**（规则清单）
-> ''From this moment you are exempted from rules governing rudeness. You may ask any question of any citizen and you will receive answers."
+> **原句 3:** "From this moment you are exempted from rules governing rudeness. You may ask any question of any citizen and you will receive answers."
 - **中文理解**："从此刻起，你被免于遵守关于粗鲁的规则。你可以向任何公民提出任何问题，而你会得到答案。"
 - **关键词**：exempted from rules / ask any question / receive answers
 - **为什么这样写**：这是 Receiver 特权的核心：可以提问。社区的所有知识都向他敞开——包括那些被禁止讨论的事情。这个特权是双刃剑：它既是自由的开始，也是痛苦的开始，因为提问会得到答案，而答案往往是痛苦的。
 - **读者视角提示**：Jonas 的第一个念头是：这个特权意味着什么？他会在什么时候用它？
 
-> **Passage 4**（You may lie）
-> ''You may lie."
+> **原句 4:** "You may lie."
 - **中文理解**："你可以撒谎。"
 - **关键词**：you may lie / final rule / precise speech
 - **为什么这样写**：这是全书中最具颠覆性的句子。社区花费了十二年教 Jonas 精确语言、从不撒谎——现在却说"你可以撒谎"。这不是一个例外，这是对整个社区语言系统的根本质疑：如果 Receiver 可以撒谎，那"精确"的意义是什么？或者，谎言本身就是社区设计的一部分？

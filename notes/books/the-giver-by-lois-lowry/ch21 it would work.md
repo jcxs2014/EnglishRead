@@ -15,36 +15,31 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（父亲的"温柔"谎言）
-> "It's bye-bye to you, Gabe, in the morning," Father had said, in his sweet, sing-song voice.
+> **原句 1:** "It's bye-bye to you, Gabe, in the morning," Father had said, in his sweet, sing-song voice."
 - **中文理解**："明天就跟你说再见了，小 Gabe，"父亲用他甜美、像唱歌一样的声调说道。
 - **关键词**：bye-bye / sweet sing-song voice / in the morning
 - **为什么这样写**：父亲用"bye-bye"这个词——这是他对婴儿说话的方式，他真的以为这是在帮 Gabriel。但 Jonas 现在知道了"bye-bye"的真正含义。这个反差是全书最残忍的时刻之一。
 - **读者视角提示**：父亲说这句话时的语气是" sweet, sing-song"——社区把杀害婴儿包装成温柔的行为。
 
-> **Passage 2**（Jonas 偷自行车）
-> "Third, he had stolen his father's bicycle. He had hesitated for a moment, standing beside the bikeport in the darkness, not wanting anything of his father's."
+> **原句 1:** "Third, he had stolen his father's bicycle. He had hesitated for a moment, standing beside the bikeport in the darkness, not wanting anything of his father's."
 - **中文理解**："第三，他偷了父亲的自行车。他犹豫了一会儿，在黑暗中站在自行车棚旁边，不想要父亲的任何东西。"
 - **关键词**：stolen his father's bicycle / hesitated / not wanting anything of his father's
 - **为什么这样写**：Jonas 对偷父亲自行车有道德上的犹豫——他"不想要父亲的任何东西"。但他还是偷了，因为 Gabriel 需要婴儿座椅。这个道德困境在社区的语境下变得复杂：他是在偷，还是在救？
 - **读者视角提示**：Jonas 特意选择父亲的自行车，因为"it had the child seat attached"——这是他救 Gabriel 的唯一方法。
 
-> **Passage 3**（Jonas 带着 Gabriel 离开）
-> "And he had taken Gabriel, too."
+> **原句 2:** "And he had taken Gabriel, too."
 - **中文理解**："他还带着 Gabriel。"
 - **关键词**：taken Gabriel / too / escape
 - **为什么这样写**：这句话是 Jonas 对自己的行为的总结：他不只是逃跑，他是在救 Gabriel。如果他留下，Gabriel 会在第二天早上被"释放"。Jonas 做了一个违反所有社区规则的决定：他把一个婴儿从社区里偷走了。
 - **读者视角提示**：Jonas 传递了一个舒缓的记忆给 Gabriel——让他在自行车后座上沉睡。这是他学到的最温柔的记忆传递。
 
-> **Passage 4**（Jonas 的内心平静）
-> "He felt, surprisingly, no fear, nor any regret at leaving the community behind."
+> **原句 3:** "He felt, surprisingly, no fear, nor any regret at leaving the community behind."
 - **中文理解**："他惊讶地发现自己没有恐惧，也没有离开社区的遗憾。"
 - **关键词**：no fear / no regret / leaving behind
 - **为什么这样写**：这是 Jonas 情感成熟的最终标志：他做出了选择，并为此承担后果。他不后悔，也不害怕——只有"deep sadness"失去 The Giver 和朋友。这种平静是真正的自由。
 - **读者视角提示**：这种平静也暗示了 Jonas 的成长：他不再被社区的规则和情感控制，他有了自己的价值观。
 
-> **Passage 5**（Jonas 对 The Giver 的无声告别）
-> "He called back and hoped that with his capacity for hearing-beyond, The Giver would know that Jonas had said goodbye."
+> **原句 4:** "He called back and hoped that with his capacity for hearing-beyond, The Giver would know that Jonas had said goodbye."
 - **中文理解**："他用心智呼唤回去，希望凭借他超越听觉的能力，The Giver 会知道 Jonas 已经说了再见。"
 - **关键词**：called back / hearing-beyond / said goodbye
 - **为什么这样写**：Jonas 不能大声说再见——他必须保持沉默。他的"超越听觉的能力"在这里变成了情感沟通的工具：他不只是物理地在逃跑，他也在与 The Giver 建立最后的连接。

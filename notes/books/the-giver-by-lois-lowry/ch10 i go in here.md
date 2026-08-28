@@ -15,22 +15,19 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（The Giver 的第一句话）
-> ''I know. Welcome, Receiver of Memory."
+> **原句 1:** "I know. Welcome, Receiver of Memory."
 - **中文理解**："我知道。欢迎，记忆接收者。"
 - **关键词**：I know / welcome / Receiver of Memory
 - **为什么这样写**：The Giver 的第一句话没有"你好"或"请坐"——他直接用 Jonas 的新身份称呼他。"I know"说明 The Giver 早已知道 Jonas 会来，这个身份不是什么秘密。这是师徒关系的第一句话：不是欢迎，而是确认。
 - **读者视角提示**：The Giver 的 pale eyes 与 Jonas 的 pale eyes 第一次对视——两人是彼此的倒影。
 
-> **Passage 2**（从此刻起你就是 The Receiver）
-> ''Beginning today, this moment, at least to me, you are The Receiver."
+> **原句 2:** "Beginning today, this moment, at least to me, you are The Receiver."
 - **中文理解**："从今天起，这一刻，至少对我来说，你就是 The Receiver。"
 - **关键词**：beginning today / to me / The Receiver
 - **为什么这样写**："To me"是这句话的关键——对社区来说他仍然是"Jonas"；只有对 The Giver 来说，他才是"The Receiver"。这个区分建立了两人之间排他的师徒关系，与社区的集体性形成尖锐对比。
 - **读者视角提示**：The Giver 用这句话给了 Jonas 一个新身份——这个身份只存在于他们两人之间。
 
-> **Passage 3**（书籍的存在）
-> ''The books in his own dwelling were the only books that Jonas had ever seen. He had never known that other books existed."
+> **原句 3:** "The books in his own dwelling were the only books that Jonas had ever seen. He had never known that other books existed."
 - **中文理解**："Jonas 自己住所里的书是他唯一见过的书。他从来不知道其他书的存在。"
 - **关键词**：other books existed / hundreds / thousands
 - **为什么这样写**：书籍是全书中最重要的物质符号之一——社区只有规则和参考书，而 The Giver 的房间有上千本书。这是知识与无知的物质化对照。Jonas 对书籍的反应（"rules beyond the rules?"）显示他完全无法想象还有什么比规则更重要的知识。

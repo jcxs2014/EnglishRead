@@ -15,22 +15,19 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Jonas 主动承担 The Giver 的痛苦）
-> "Unless maybe there's something I can do to help."
+> **原句 1:** "Unless maybe there's something I can do to help."
 - **中文理解**："除非也许有什么我可以帮忙的。"
 - **关键词**：something I can do to help / take some of the pain
 - **为什么这样写**：这是 Jonas 第一次主动提出帮助 The Giver——他不再是纯粹的接收者，而是开始理解 The Giver 也需要帮助。这个转变是从"学生"到"伙伴"的关键时刻。
 - **读者视角提示**：The Giver 在极度痛苦中无法开口请求帮助——这说明他的脆弱是真实的，不是表演。
 
-> **Passage 2**（受伤士兵的最后一口水）
-> "Water," the voice said in a parched, croaking whisper.
+> **原句 1:** "Water," the voice said in a parched, croaking whisper."
 - **中文理解**："水，"那个声音用干涩、嘶哑的嗓音说道。
 - **关键词**：water / parched / croaking whisper / the boy seemed not much older than himself
 - **为什么这样写**：受伤的男孩与 Jonas 年龄相仿——这个细节让痛苦更加个人化。Jonas 把水递到男孩嘴里，看着他死去。这是全书中死亡最直接、最个人的时刻。
 - **读者视角提示**：Lowry 用"gray uniform"暗示这可能是内战或某种集体暴力——不是"坏人"杀了这个男孩，而是系统性的战争暴力。
 
-> **Passage 3**（The Giver 请求宽恕）
-> "Forgive me," he said.
+> **原句 2:** "Forgive me," he said."
 - **中文理解**："请原谅我，"他说。
 - **关键词**：forgive me / could not bear to see / what he had done to Jonas
 - **为什么这样写**：The Giver 的道歉是双重的：他为 Jonas 承受的痛苦道歉，也为他无法保护自己免受这种痛苦道歉。但 Jonas 主动进入了这个记忆——The Giver 的道歉显示他仍然把 Jonas 视为需要保护的孩子，而 Jonas 的行为已经证明他可以保护自己了。

@@ -15,36 +15,31 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **Passage 1**（Jonas 对颜色消失的愤怒）
-> "But I want them!"
+> **原句 1:** "But I want them!"
 - **中文理解**："但我想要它们！"
 - **关键词**：want / colors / not fair
 - **为什么这样写**：这是 Jonas 第一次直接表达愤怒。"Not fair"是社区的禁忌词——孩子们从小被教导"Fairness is the basis of the community"。Jonas 的愤怒指向一个他无法改变的现实：社区的 Sameness 政策消灭了颜色，也消灭了选择。
 - **读者视角提示**：Jonas 的愤怒是真实的，但也揭示了一个困境：他想要的不是"选择"，而是"漂亮的颜色"。The Giver 立刻抓住这一点追问。
 
-> **Passage 2**（选择的哲学）
-> "It's the choosing that's important, isn't it?"
+> **原句 2:** "It's the choosing that's important, isn't it?"
 - **中文理解**："选择的本身才是重要的，不是吗？"
 - **关键词**：choosing / important / blue tunic or red one
 - **为什么这样写**：The Giver 没有直接回答 Jonas 的愤怒，而是把问题从"颜色"转向"选择"。这是一个苏格拉底式的反问——Jonas 自己说出了答案。选择的权利比选择的结果更重要。
 - **读者视角提示**：Jonas 在这个对话中完成了从感性（想要颜色）到理性（理解选择）的转变。
 
-> **Passage 3**（社区不允许选择配偶和工作）
-> "What if they were allowed to choose their own mate? And chose wrong?"
+> **原句 3:** "What if they were allowed to choose their own mate? And chose wrong?"
 - **中文理解**："如果允许他们自己选择配偶呢？选错了怎么办？"
 - **关键词**：choose their own mate / chose wrong / protect people
 - **为什么这样写**：Jonas 的推理揭示了社区恐惧的核心：如果允许选择，就会有错误的选择；如果有错误的选择，就会有人受苦；如果有人受苦，社区就不再"公平"。这是社区逻辑的极限。
 - **读者视角提示**：Lowry 让 Jonas 自己说出社区的逻辑，然后用"但他仍然感到沮丧"来暗示这个逻辑的不足。
 
-> **Passage 4**（大象的哀悼）
-> "Finally it tilted its massive head, raised its trunk, and roared into the empty landscape. Jonas had never heard such a sound."
+> **原句 4:** "Finally it tilted its massive head, raised its trunk, and roared into the empty landscape. Jonas had never heard such a sound."
 - **中文理解**："最后它倾斜着巨大的头颅，抬起鼻子，向着空旷的大地咆哮。Jonas 从未听过这样的声音。"
 - **关键词**：tilted its massive head / roared / empty landscape / rage and grief
 - **为什么这样写**：大象把树枝盖在同伴的尸体上，然后哀嚎——这是动物具有情感和仪式感的证据。Lowry 用这个场景来暗示：痛苦、死亡和哀悼是所有生命共享的体验，而社区通过消除记忆消除了这种共享。
 - **读者视角提示**：The Giver 传递这个记忆时，是他对 Jonas 最仁慈的时刻之一——因为这个记忆虽然悲伤，却包含了对生命的尊重。
 
-> **Passage 5**（Jonas 试图向 Asher 传递颜色感知）
-> "What's the matter?" Asher asked uneasily. "Is something wrong?"
+> **原句 5:** "What's the matter?" Asher asked uneasily. "Is something wrong?"
 - **中文理解**："怎么了？"Asher 不安地问。"有什么不对吗？"
 - **关键词**：what's the matter / something wrong / extremely rude
 - **为什么这样写**：Jonas 试图通过身体接触传递颜色感知，但 Asher 感受到的只是"有人碰了我的肩膀"——这对社区来说是非常粗鲁的行为。Jonas 的超能力在社区里无法施展，因为社区没有为这种能力准备任何语言和礼仪。
