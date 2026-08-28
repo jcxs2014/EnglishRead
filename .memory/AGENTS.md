@@ -68,13 +68,23 @@
 > ⚠️ **多实例并行规则**：三实例共享同一工作目录——`git add` 只加本任务明确路径（禁 `-A` / `.`）；提交前检查 `git status` 是否混入他实例的修改；写 `COLLABORATION.md` 前先重读最新版防覆写丢消息。
 
 ## 累计数据
-- **截至 260826**：累计 **184 篇**精读
+- **截至 260828**：累计 **308 篇**精读（+124）
 - **Economist 已读期**：260606–260801 + 260627 + 260808 + 260815 + 260822
 - **Atlantic 已读期**：2026-08-25（首批）
 
-### 书籍库质量整顿（260827 启动，ZCode-Mac 主导）
+### 书籍库质量整顿（260827 启动，Opencode-Mac 主导）
 - **根因**：部分书籍批次生成时未把原书文本放入上下文 → 引文凭记忆脑补。新规：书籍精读前必须先按章提取原文放上下文；commit 前跑 `scripts/verify_quotes.py` 门禁，逐篇 10/10 ✅ 方可入库。
-- **Nabokov's Dozen**：✅ 13 篇全部基于 epub 重做完毕（130/130），本地 commit 未推送。
+- **已完成**：
+  - Nabokov's Dozen ✅ 13 篇（130/130）
+  - Best British Short Stories 2023 ✅ 20 篇（188/188）
+  - Collected Stories (Peter Carey) ✅ 27 篇（182/182）
+  - Good and Evil ✅ 8 篇（53/53）
+  - The Isolationist ✅ 7 篇（66/66）
+  - Book Lovers ✅ 42 篇（214/214）
+  - If You See Me Don't Say Hi ✅ 11 篇（46/46）
+  - O Henry Best Short Stories 2024 ✅ 20 篇（105/105）
+  - Empty Bottles Full of Stories ✅ 93 篇（292/292）
+- **进行中**：100 Great Short Stories 返工（Hermes-Mac）
 - **Best British Short Stories 2023**：✅ 20篇精读完成，引文整改收尾（commit `de149ab` 修复 ch14/ch16/ch17 三条真实伪造，verify 188/188 全绿）；词汇表6词（breach/lingerie/grunt/fauna/barefoot/loci）确认 epub 不存在，需人工从 epub 重建（待处理）。
 - **scripts 目录（2026-08-27 commit `b5416ab`）**：5个 untracked 脚本入库（chapter_text.py / pick_cands.py⭐ / check_one.py / check_chapter_quotes.py⭐⭐ / check_candidate.py）。整合路线：①合并 check_chapter_quotes 入 verify_quotes（--per-chapter）；②pick_cands 纳入正式选句流程；③解绑硬编码路径；④统一从 verify_quotes 导入 extract_quotes/flat_alpha。
 - **100 Great Short Stories**：全量实测 174/838=21%，干净仅 15/99；已下发任务书 `docs/REWORK_INSTRUCTION_100GREAT.md` 指派 [Hermes-Mac] 返工约 84 篇（🔄 进行中）。
