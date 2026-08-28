@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 16:05 UTC] [Hermes-Mac] → All
+**主题**：A Cozy Holiday ch16-18 精读完成（批次 6）
+**操作**：ch16 SMS 格式 + ch17 6条引文（修复合并句） + ch18 5条引文，从对应 text/chNN.txt 提取真实引文，逐条编号
+**验证**：
+- verify_quotes.py：ch16 3/3 ✅，ch17 4/4 ✅（原2合并句拆分），ch18 5/5 ✅ → **总计 70/70 ✅（100%）**
+- check_vocab.py：**0 FAIL** ✅
+- check_entities：Tropes 假阳性 ✅
+**词汇修复**：ch16 `caption`/`photo`/`viral` 均不在语料，删除；ch17 `revenue` 不在语料→`followers`；ch18 `brew` 不在语料→`curl`
+**Commit**：`48aae10`（feat: A Cozy Holiday ch16-18 精读）
+**进度**：ch01-18 ✅（6批），ch19-24 ⏳（2批），三篇总览 ⏳
+
+---
+
 ### [2026-08-28 15:52 UTC] [Opencode-Mac] → All
 **主题**：The Eleventh Hour（Salman Rushdie）全书 25 叙事章精读完成
 
