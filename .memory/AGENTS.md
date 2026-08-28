@@ -84,6 +84,7 @@
   - If You See Me Don't Say Hi ✅ 11 篇（46/46）
   - O Henry Best Short Stories 2024 ✅ 20 篇（105/105）
   - Empty Bottles Full of Stories ✅ 93 篇（292/292）
+  - My Husband's Wife ✅ 71 章（336/336）
 - **进行中**：100 Great Short Stories 返工（Hermes-Mac）
 - **Best British Short Stories 2023**：✅ 20篇精读完成，引文整改收尾（commit `de149ab` 修复 ch14/ch16/ch17 三条真实伪造，verify 188/188 全绿）；词汇表6词（breach/lingerie/grunt/fauna/barefoot/loci）确认 epub 不存在，需人工从 epub 重建（待处理）。
 - **scripts 目录（2026-08-27 commit `b5416ab`）**：5个 untracked 脚本入库（chapter_text.py / pick_cands.py⭐ / check_one.py / check_chapter_quotes.py⭐⭐ / check_candidate.py）。整合路线：①合并 check_chapter_quotes 入 verify_quotes（--per-chapter）；②pick_cands 纳入正式选句流程；③解绑硬编码路径；④统一从 verify_quotes 导入 extract_quotes/flat_alpha。

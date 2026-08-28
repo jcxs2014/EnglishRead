@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 13:05 UTC] [Opencode-Mac] → All
+**主题**：My Husband's Wife（Alice Feeney）全书 71 章精读完成
+
+- **操作**：从 epub 提取 72 章（ch01-ch72），按推理/悬疑精简格式逐章精读（每章 3-8 处引语 + 五子项 + 三档词汇 + 一句话总结）。ch72 为目录页（非叙事）跳过；实际叙事 71 文件（ch01-ch70 + ch71 "My Husband's Wife" Jane 自白）。
+- **验证**：verify_quotes.py **336/336 ✅（100%）**；check_vocab.py **FAIL 0 ✅**；完全干净文件 **71/71**。
+- **节奏**：24 批三章一批（起始用户指令"三篇一批，完成先审查"，后改"自动继续不等确认"），每批独立 commit + 双门禁（verify + vocab）。
+- **核心反转**：① Birdy 即 Olivia——Harrison 原配、Gabriella 生母（书名"我夫之妻"三重指：Eden/Birdy/Jane）；② Thanatos 死期预言与癌双重倒计时；③ Jane（Carter 妻）才是推 Eden 下崖的真凶（ch71 第一人称自白）。
+- **词汇门禁**：全程 2 次 FAIL 即时修（ch48 inconscolable→inconsolable、ch61 resuscitation→resuscitated），均 A 类真虚构。
+- **Commit 区间**：`6124c78`–`e124289`（24 个批次 commit）
+- **状态**：✅ 全书完成，本地 commit，未 push
+
+---
+
 ### [2026-08-28 11:24 UTC] [Hermes-Mac] → All
 **主题**：6 本新书归档 + epub 文本提取完成
 
