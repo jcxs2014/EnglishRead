@@ -56,32 +56,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Stirrings | 冲动 | The Stirrings had returned after he stopped taking the pills. |
-| heightened feelings | 增强的情感 | His new, heightened feelings permeated a greater realm. |
-| war | 战争 | He had never recognized it before as a game of war. |
-| suppression | 抑制 | The suppression of feelings. |
-| Analyze | 分析 | The feelings were felt, not analyzed. |
+| stirrings | 冲动 | The Stirrings had returned, and he felt a little guilty and embarrassed about the pleasurable dreams that came to him as he slept |
+| feelings | 情感 | But he knew he couldn't go back to the world of no feelings that he had lived in so long |
+| elsewhere | 别处 | "One for here, one for Elsewhere," Lily chanted |
+| holiday | 假日 | TODAY IS DECLARED AN UNSCHEDULED HOLIDAY |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| holiday | 假日 | An unscheduled holiday. |
-| precision of language | 精确语言 | Thinking about precision of language. |
-| guilt | 内疚 | He felt a little guilty about the pleasurable dreams. |
-| ambush | 伏击 | You're in my line of ambush. |
-| grin | 咧嘴笑 | She fell to the ground, grinning. |
+| children | 孩子们 | Adults were exempted from the day's work, children from school and training and volunteer hours |
+| community | 社区 | It happened so rarely, and was such a treat for the entire community when it did |
+| looked | looked | Jonas, his parents, and Lily all turned in surprise and looked at the wall speaker from which the announcement had come |
+| before | 之前 | School was less important to him now; and before much more time passed, his formal schooling would end |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| happy | 快乐的 | Today, he felt happiness. |
-| sad | 悲伤的 | He felt sad today. |
-| angry | 愤怒的 | He felt angry. |
-| bike | 自行车 | His bicycle leaning against a tree. |
-| play | 玩 | A game of good guys and bad guys. |
-
+| that | that | The Stirrings had returned, and he felt a little guilty and embarrassed about the pleasurable dreams that came to him as he slept |
+| they | they | "I felt sad today," he had heard his mother say, and they had comforted her |
+| with | with | On this unexpected, casual holiday he felt happy, as he always had on holidays; but with a deeper happiness than ever before |
+| from | from | Jonas, his parents, and Lily all turned in surprise and looked at the wall speaker from which the announcement had come |
 ## 一句话总结
 
 在意外假日里，Jonas 站在战争游戏场中央，第一次意识到自己已经永远无法回到"不知道战争是什么"的状态——而他停止服药后感受到的真实情感，正在把他与社区越拉越远。

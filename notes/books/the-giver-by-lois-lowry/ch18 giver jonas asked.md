@@ -56,32 +56,26 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| release | 释放 | Do you ever think about release? |
-| Rosemary | 罗斯玛丽（人名） | Her name was Rosemary. |
-| transfer | 传递 | Transfer pain to her. |
-| luminous | 明亮的；闪耀的 | Her eyes were very luminous. |
-| failure | 失败 | The previous failure ten years ago. |
-
+| rosemary | 罗斯玛丽 | "Her name was Rosemary," he told Jonas, finally |
+| release | 释放 | "Giver," Jonas asked the next afternoon, "Do you ever think about release |
+| training | 训练 | He was not looking forward to the end of the training, when he would become the new Receiver |
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| self-possessed | 沉着的 | She was very self-possessed and serene. |
-| serene | 宁静的 | Very self-possessed and serene. |
-| thrilled | 兴奋的 | She was eager and thrilled. |
-| heart | 心 | It broke my heart. |
-| job | 工作 | It was my job. |
+| memories | 记忆（复数） | He wouldn't want his gentle friend to suffer the way he had, taking on the memories |
+| receiver | 接收者 | But I'm not permitted to do that until the new Receiver is trained |
+| happened | happened | But he still did not know what had happened ten years before |
+| little | 小的 | The new Receiver was puzzled and a little frightened, as you were |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| name | 名字 | Her name was Rosemary. |
-| love | 爱 | I loved her. |
-| pain | 疼痛 | Transfer pain. |
-| hear | 听说 | I heard about it. |
-| talk | 谈话 | We talked. |
-
+| that | that | But I'm not permitted to do that until the new Receiver is trained |
+| giver | giver | "I guess I do think about it occasionally," The Giver said |
+| what | what | But I don't know exactly what I meant |
+| they | they | They hammered out those rules after the failure ten years ago |
 ## 一句话总结
 
 The Giver 第一次说出了那个被社区禁止的名字——Rosemary——并承认他爱过她，而她的失败和他被迫给她传递痛苦，是他永远无法愈合的伤口。

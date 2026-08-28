@@ -56,32 +56,29 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Sameness | 同一性；无差异化原则 | The community had achieved Sameness. |
-| lurking | 潜伏的；隐藏的 | Things might lurk which hadn't been discovered yet. |
-| self-conscious | 自我意识到的 | He felt self-conscious about his pale eyes. |
-| mid-air | 在半空中 | The apple had changed in mid-air. |
-| magnifying glass | 放大镜 | He held a magnifying glass to the apple. |
+| apple | 苹果 | He had, of course, disposed of the apple and made his apology to the Recreation Director the next morning, before school |
+| newchild | 新生儿 | It was the first thing Jonas noticed as he looked at the newchild peering up curiously from the basket |
+| noticed | 注意到 | It was the first thing Jonas noticed as he looked at the newchild peering up curiously from the basket |
+| basket | 篮子 | But Father was busy unstrapping the carrying basket from the back of his bicycle |
+| announcement | 公告 | Everyone had known, he remembered with humiliation, that the announcement ATTENTION |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| pale eyes | 浅色眼睛 | He has funny eyes like yours, Jonas! |
-| Birthmother | 生育母亲 | Three births, and that's all. |
-| release | 释放（委婉语） | If none had been released. |
-| stirring | 搅动；不安 | The newchild with the knowing eyes stirred in his basket. |
-| routine | 日常 | The evening proceeded in routine. |
+| evening | evening | That evening, before his parents and Lily arrived at the dwelling, he had held it in his hands and looked at it carefully |
+| mentioned | mentioned | He didn’t like it that she had mentioned his eyes |
+| looked | looked | It was the first thing Jonas noticed as he looked at the newchild peering up curiously from the basket |
+| parents | parents | His parents did, and Lily did, and so did all of his group members and friends |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| apple | 苹果 | Does anything seem strange to you? About the apple? |
-| bicycle | 自行车 | Father unstrapped the basket from his bicycle. |
-| comfort object | 安慰物 | Lily held her stuffed elephant. |
-| family | 家庭 | They gathered in the family dwelling. |
-| basket | 篮子 | The newchild peered from the basket. |
-
+| that | that | He didn’t like it that she had mentioned his eyes |
+| eyes | eyes | And he has funny eyes like yours, Jonas |
+| were | were | But there were a few exceptions: Jonas himself, and a female Five who he had noticed had the different, lighter eyes |
+| been | been | But he had been startled by the newchild’s eyes |
 ## 一句话总结
 
 Gabriel 和 Jonas 都有 pale eyes——这种眼睛能看见别人看不见的东西。苹果在空中变了的那一瞬间，Jonas 的真实世界第一次短暂闪现。

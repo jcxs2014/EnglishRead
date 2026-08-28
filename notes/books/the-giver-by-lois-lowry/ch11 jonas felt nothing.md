@@ -42,32 +42,27 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Sameness | 同一性 | Climate Control and Sameness eliminated snow. |
-| snow | 雪 | He saw a bright, whirling torrent of crystals. |
-| sled | 雪橇 | He sat on a thing called sled. |
-| frigid | 严寒的 | The sharp intake of frigid air. |
-| breathless glee | 令人窒息的狂喜 | The breathless glee that overwhelmed him. |
+| sensation | 感觉 | The sensation made him smile |
+| warmth | 温暖 | The warmth spread, extending across his shoulders, up his neck, onto the side of his face |
+| hands | 手 | He felt only the light touch of the old man's hands on his back |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hill | 山坡 | The hill was covered with snow. |
-| memory | 记忆 | I have a whole world of them in my memory. |
-| wind | 风 | His face cut through the frigid air. |
-| balance | 平衡 | The feeling of balance and excitement and peace. |
-| exhausted | 筋疲力尽的 | It was exhausting. But you know, even transmitting that tiny memory. |
+| through | 穿过 | It was given to me when I was a new Receiver, and the previous Receiver had to pull it through a long time period, too |
+| little | 小的 | But you know, even transmitting that tiny memory to you — I think it lightened me just a little |
+| memory | memory | But you know, even transmitting that tiny memory to you — I think it lightened me just a little |
+| moment | 时刻 | He sat there for a moment, panting, holding the rope in his cold hands |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cold | 冷的 | The air was cold. |
-| fast | 快的 | He sped downward on the sled. |
-| ride | 骑行 | He took one ride on the sled. |
-| snow | 雪 | The snow was piled around the sled. |
-| fun | 快乐 | But it was such fun! |
-
+| that | that | He realized that the touch of the hands felt, suddenly, cold |
+| said | said | "Surprised," he said, after a moment |
+| sled | 雪橇 | He was sitting on a thing called sled |
+| felt | felt | Jonas felt nothing unusual at first |
 ## 一句话总结
 
 在第一次记忆传递中，Jonas 感受到了雪、清冽的空气和雪橇下坡的狂喜——而 The Giver 说"这只是我记忆中的一小块地方"，揭示了他承载着整个世界的人类记忆。

@@ -42,32 +42,26 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| warfare | 战争 | He learned what warfare meant. |
-| cannon | 大炮 | The thud of cannons in the distance. |
-| carnage | 大屠杀 | The colors of the carnage were grotesquely bright. |
-| anguish | 极度痛苦 | He could bear it no longer. |
-| stench | 恶臭 | The fearsome stench of the battlefield. |
+| blood | 血液 | He lay sprawled, his gray uniform glistening with wet, fresh blood |
+| death | 死亡 | But the noise continued all around: the cries of the wounded men, the cries begging for water and for Mother and for death |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| battlefield | 战场 | The fearsome stench for hours on the battlefield. |
-| wounded | 受伤的 | The cries of the wounded men. |
-| grenade | 手榴弹 | (implied by the explosion sounds) |
-| whispered | 低语 | The boy whispered for water. |
-| grieve | 哀悼 | The elephant grieved for its dead. |
+| looked | looked | The Giver looked up at him, his face contorted with suffering |
+| across | across | Around him, everywhere, far across the expanse of what seemed to be a field, lay groaning men |
+| something | something | "Unless maybe there's something I can do to help |
+| through | 穿过 | The hands came, and the pain came with them and through them |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| blood | 血 | Blood drenched the coarse cloth. |
-| hurt | 疼痛 | He was hurt. |
-| forgive | 原谅 | Forgive me. |
-| help | 帮助 | Something I can do to help. |
-| water | 水 | Water, the voice said. |
-
+| with | with | The Giver looked up at him, his face contorted with suffering |
+| that | that | Jonas entered the Annex room and realized immediately that it was a day when he would be sent away |
+| giver | giver | The Giver was rigid in his chair, his face in his hands |
+| pain | pain | "Please," he gasped, "take some of the pain |
 ## 一句话总结
 
 Jonas 第一次主动伸手接过了 The Giver 的重担——看着一个与自己年龄相仿的士兵在战场上死去，而 The Giver 只能颤抖着说"请原谅我"。

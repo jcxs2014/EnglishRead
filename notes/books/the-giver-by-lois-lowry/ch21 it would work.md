@@ -56,32 +56,25 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| escape | 逃跑 | He was forced to flee. |
-| steal | 偷 | He had stolen his father's bicycle. |
-| bye-bye | 再见 | It's bye-bye to you, Gabe. |
-| hear beyond | 超越听觉 | His capacity for hearing-beyond. |
-| shadow | 阴影 | Staying in the shadows. |
-
+| bicycle | 自行车 | Now he was on the bridge, hunched over on the bicycle, pedaling steadily |
+| escape | 逃跑 | He knew that he had the remaining hours of night be-fore they would be aware of his escape |
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bicycle | 自行车 | He rode the bicycle across the bridge. |
-| river | 河流 | The dark, churning water far below. |
-| bridge | 桥 | He was on the bridge. |
-| night | 夜晚 | The sky became dark and the community still. |
-| community | 社区 | Leaving the community behind. |
+| planes | planes | The most terrifying thing was the planes |
+| dwelling | dwelling | He left the dwelling shortly after the sky became dark and the community still |
+| community | 社区 | He left the dwelling shortly after the sky became dark and the community still |
+| himself | 他自己 | So he rode hard, steadily, willing himself not to tire as the minutes and miles passed |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| baby | 婴儿 | The little newchild. |
-| ride | 骑行 | He rode away from the community. |
-| leave | 离开 | He left the dwelling. |
-| sleep | 睡觉 | Gabriel was sleeping soundly. |
-| go | 走 | He couldn't go back. |
-
+| they | they | They could make it work, Jonas told him-self again and again throughout the day |
+| when | when | "Well, you know he wasn't here when you got home this morning because we had him stay overnight at the Nurturing Center |
+| that | that | But that evening everything changed |
+| with | with | Beyond the Plaza he could see the House of the Old, with the Annex behind it, outlined against the night sky |
 ## 一句话总结
 
 在父亲宣布"明天就跟 Gabe 说再见"的同一个晚上，Jonas 带着 Gabriel 骑着偷来的自行车消失在黑暗中，而他的最后一个希望是 The Giver 能通过"超越听觉"的能力知道他说了一声再见。

@@ -43,32 +43,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| seeing beyond | 超越视域 | The thing that he thought of as "seeing beyond." |
-| precision of language | 精确语言 | Even trained in precision of language. |
-| sleepless | 失眠的 | Gabriel was fretful at night. |
-| indescribable | 无法描述的 | A fleeting indescribable change. |
-| frosted | 结霜的 | The cold air was frosted. |
+| color | 颜色 | "You're beginning to see the color red |
+| colors | 颜色（复数） | "There were a lot of colors, and one of them was called red |
+| describe | 描述 | There was no way to describe to his friends what he had experienced there in the Annex room |
+| beyond | 超越 | It had happened again: the thing that he thought of now as "seeing beyond |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| sled | 雪橇 | How could you describe a sled? |
-| snow | 雪 | Describe a snow to someone who never felt it. |
-| hill | 山坡 | A hill and snow. |
-| wind | 风 | Never felt wind or that feathery, magical cold. |
-| bicycle | 自行车 | He rode beside Fiona to the House of the Old. |
+| looked | looked | "I looked for you yesterday," she told him, "so we could ride home together |
+| happened | happened | It had happened again: the thing that he thought of now as "seeing beyond |
+| before | 之前 | First, the apple a few weeks before |
+| seemed | seemed | School seemed a little different today |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| mother | 母亲 | His mother asked about his sleep. |
-| dream | 梦 | No dreams? |
-| morning | 早晨 | At the morning meal. |
-| breakfast | 早餐 | He ate breakfast with his family. |
-| soundly | 安稳地 | You slept soundly, Jonas? |
-
+| that | that | But it was not true that he had no dreams |
+| said | said | "I slept very soundly," he said |
+| giver | giver | I will ask The Giver, he decided |
+| with | with | The basket was on the floor beside him; in its corner, beside Gabriel's head, the stuffed hippo sat staring with its blank eyes |
 ## 一句话总结
 
 在第一次记忆传递后的早晨，Jonas 第一次对家人撒谎——不是-ready to lie，not willing to tell the truth——而 Fiona 也在他面前经历了一次"seeing beyond"的闪烁变化。

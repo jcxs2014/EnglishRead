@@ -60,32 +60,29 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| The Receiver | 接收者（社区最高长老） | The Receiver was the most important Elder. |
-| aptitude | 天赋；资质 | It was clear to me what my aptitude was. |
-| volunteer hours | 志愿服务时数 | He spent volunteer hours at the Nurturing Center. |
-| observation | 观察；监视 | The Elders were increasing their observation. |
-| committee | 委员会 | A committee was studying the idea. |
+| ceremony | 典礼 | The Ceremony for the Ones was always noisy and fun |
+| assignment | 分配 | Because I was already fairly certain of what my Assignment was to be |
+| committee | 委员会 | “The committee always makes the list in advance, and it’s right there in the office at the Nurturing Center |
+| nurturing | 养育 | “The committee always makes the list in advance, and it’s right there in the office at the Nurturing Center |
+| volunteer | 志愿者 | I spent al-most all of my volunteer hours helping in the Nurturing Center |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Assignment | 角色分配 | His Assignment was announced as Nurturer. |
-| Nurturing Center | 养育中心 | Father worked at the Nurturing Center. |
-| comfort object | 安慰物 | Lily's comfort object was a stuffed elephant. |
-| recreation hours | 休闲时光 | No more recreation hours after Twelve. |
-| Birthmother | 生育母亲 | Birthmothers had three births then became Laborers. |
+| always | 总是 | The Ceremony for the Ones was always noisy and fun |
+| twelve | twelve | “When I was an Eleven,” his father said now, “as you are, Jonas, I was very impatient, waiting for the Ceremony of Twelve |
+| elders | elders | They said that the committee members would become Elders by the time the rule change was made |
+| course | course | “The year we got Lily, we  knew, of course, that we’d receive our female, because we’d made our application and been approved |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ceremony | 典礼 | The Ceremony of Twelve was the most important. |
-| bicycle | 自行车 | She became a Nine and got her bicycle. |
-| friend | 朋友 | Asher was his best friend. |
-| family unit | 家庭单位 | Each family unit had two children. |
-| childhood | 童年 | He missed his childhood recreation after Twelve. |
-
+| that | that | He remembered when his family received Lily, the day she was named, the day that she had become a One |
+| when | when | “You know,” his father finally said, “every December was exciting to me when I was young |
+| said | said | “You know,” his father finally said, “every December was exciting to me when I was young |
+| there | there | “The committee always makes the list in advance, and it’s right there in the office at the Nurturing Center |
 ## 一句话总结
 
 父亲的违规之爱与母亲的现实警告共同揭示：社区制度终将夺走你最深的关系，而这一切都发生在你毫不知情的时候。

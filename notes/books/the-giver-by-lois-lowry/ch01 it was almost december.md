@@ -56,32 +56,30 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| apprehensive | 忧虑的；不安的 | Jonas was beginning to be frightened. No. Wrong word. Apprehensive. |
-| scrutinized | 被仔细审视的 | The Elders scrutinized the Elevens. |
-| grim statement | 严酷的陈述 | Jonas knew what a grim statement "RELEASED" had been. |
-| ironic tone | 讽刺的语气 | The speaker delivered "RELEASED" with an ironic tone. |
-| distorted | 扭曲的；失真的 | He distorted language. |
+| community | 社区 | Frightened was the way he had felt a year ago when an unidentified aircraft had overflown the community twice |
+| feelings | 情感 | “Who wants to be the first tonight, for feelings |
+| frightened | 感到害怕的 | It was almost December, and Jonas was beginning to be frightened |
+| release | 释放 | Release of newchildren was always sad, because they hadn’t had a chance to enjoy life within the community yet |
+| ceremony | 典礼 | But it’s the Ceremony that I’m apprehensive about |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| release (euphemism) | 释放/处死（委婉语） | NEEDLESS TO SAY, HE WILL BE RELEASED. |
-| ritual | 仪式 | It was one of the rituals, the evening telling of feelings. |
-| assignment | 分配/角色分配 | He didn't know his Assignment. |
-| stature | 身材 | He wasn't growing as fast as he should. |
-| supplementary nurturing | 补充养育 | He was in the extra care section for supplementary nurturing. |
+| little | 小的 | His parents were both at work, and his little sister, Lily, was at the Childcare Center where she spent her after-school hours |
+| feeling | 感觉 | Frightened meant that deep, sickening feeling of something terrible about to happen |
+| before | 之前 | Desperately the Pilot had been trying to make his way back before his error was noticed |
+| nodded | nodded | ”
+Lily shrugged, and nodded |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| frightened | 恐惧的 | Jonas was beginning to be frightened. |
-| community | 社区 | He lived in the community. |
-| ceremony | 典礼 | The Ceremony of Twelve was coming. |
-| apple | 苹果 | A bright red apple. |
-| bicycle | 自行车 | He rode his bicycle home. |
-
+| that | that | Frightened meant that deep, sickening feeling of something terrible about to happen |
+| were | were | His parents were both at work, and his little sister, Lily, was at the Childcare Center where she spent her after-school hours |
+| they | they | LEAVE YOUR BICY-CLES WHERE THEY ARE |
+| been | been | At first, he had been only fascinated |
 ## 一句话总结
 
 Jonas 用"apprehensive"找到了描述自己感受的精确词汇——这个词比社区里任何他能说出的词都更接近真相，而社区已经开始注意到他的"不同"。

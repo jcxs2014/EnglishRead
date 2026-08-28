@@ -56,32 +56,29 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| fractured leg | 腿部骨折 | He was thrown into the air with his leg twisted under him. |
-| relief-of-pain | 止痛 | May I have relief-of-pain, please? |
-| excruciating | 剧烈的 | Excruciating hunger and starvation. |
-| warfare | 战争 | It was followed by warfare. |
-| desperately | 绝望地 | The realization made him feel desperately lonely. |
+| wisdom | 智慧 | "It gives us wisdom," The Giver replied |
+| release | 释放 | Able to move now, he rocked his own body back and forth, breathing deeply to release the remembered pain |
+| hunger | 饥饿 | "But what wisdom do you get from hunger |
+| gabriel | 加布里埃尔 | "We have Gabriel this year, and it's fun, having a third child |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ankle | 脚踝 | The runners skittered sideways. |
-| ache | 疼痛 | The leg ached horribly. |
-| wisdom | 智慧 | It gives us wisdom. |
-| starvation | 饥饿 | Excruciating hunger and starvation. |
-| agonizing | 极度痛苦的 | The agony of the fractured leg. |
+| before | 之前 | "
+"But you said that that was before my birth |
+| memories | 记忆（复数） | "Why do you and I have to hold these memories |
+| memory | memory | His stomach still hurt, though the memory had ended |
+| seemed | seemed | Sometimes it had seemed humorous to him |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| pain | 疼痛 | The pain grew. |
-| cry | 哭 | He screamed. |
-| tired | 累的 | He felt tired. |
-| lonely | 孤独的 | He felt desperately lonely. |
-| medicine | 药物 | Would you like some medication? |
-
+| that | that | Limping, Jonas walked home, pushing his bicycle, that evening |
+| they | they | But the runners, this time, couldn't slice through the frozen expanse as they had on the other, snow-cushioned hill |
+| said | said | But The Giver said no, and looked away |
+| giver | giver | But The Giver said no, and looked away |
 ## 一句话总结
 
 Jonas 在骨头断裂的剧痛和历史记忆的饥饿中明白了一个道理：他正在承受社区所有人应该知道却选择忘记的东西——而这种孤独的重量，远比骨折更难忍受。

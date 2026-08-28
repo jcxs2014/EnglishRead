@@ -42,32 +42,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Receiver of Memory | 记忆接收者 | I know. Welcome, Receiver of Memory. |
-| pale eyes | 浅色眼睛 | Jonas looked self-consciously into the pale eyes that mirrored his own. |
-| concentrated | 专注的 | The Receiver needs concentration. |
-| embossed | 压印的；浮雕的 | The book titles were embossed in shiny letters. |
-| unremarkable | 普通的；不引人注目的 | The Annex door was unremarkable. |
+| receiver | 接收者 | "Welcome, Receiver of Memory," she said respectfully |
+| privacy | 隐私 | "The locks are simply to insure The Receiver's privacy because he needs concentration,'' she explained |
+| contained | contained | The lobby was very small and contained only a desk at which a female Attendant sat working on some papers |
+| instructions | 指示 | I have read the instructions," Jonas said |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| privacy | 隐私 | The locks are simply to insure The Receiver's privacy. |
-| privacy | 隐私 | The locks were for the Receiver's privacy. |
-| privacy | 隐私 | Jonas needed privacy for training. |
-| annex | 附属建筑 | He went to the Annex behind the House of the Old. |
-| concentration | 专注 | He needed concentration during training. |
+| before | 之前 | "I've been here so often before |
+| community | 社区 | No doors in the community were locked, ever |
+| questions | questions | He sat forward suddenly, opened his eyes, and said, ''You may ask questions |
+| seemed | seemed | Then she seemed to notice his discomfort and to realize its origin |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| door | 门 | He reached for the heavy handle. |
-| books | 书 | The walls were covered by books. |
-| house | 房子 | He walked into the House of the Old. |
-| welcome | 欢迎 | Welcome, Receiver of Memory. |
-| chair | 椅子 | He sat beside the table. |
-
+| that | that | ” A click indicated that the door had been unlatched |
+| said | said | "I don't want to be late," she said hastily, and started up the steps |
+| were | were | No doors in the community were locked, ever |
+| this | this | All of those things were in this spacious room, though each was slightly different from those in his own dwelling |
 ## 一句话总结
 
 在 The Giver 的房间里，Jonas 第一次看到了上千本书——他从来不知道其他书存在——而 The Giver 的第一句话是"从此刻起，你对我来说就是 The Receiver"。

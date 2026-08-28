@@ -56,32 +56,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| grandparent | 祖父母 | They were called Grandparents. |
-| Christmas | 圣诞节 | A holiday with family, gifts, and grandparents. |
-| treasure | 珍视 | All the things he had learned to treasure. |
-| firelight | 壁炉火光 | Firelight glowing on a hearth. |
-| unwrap | 打开（礼物） | They untied the ribbons and unwrapped the packages. |
+| memories | 记忆（复数） | He didn't want the memories, didn't want the honor, didn't want the wisdom, didn't want the pain |
+| grandparents | 祖父母 | "They were called Grandparents |
+| family | 家庭 | The family in the memory seemed a little more — " He faltered, not able to find the word he wanted |
+| firelight | 火光 | He was in a room filled with people, and it was warm, with firelight glowing on a hearth |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| honor | 荣誉 | Didn't want the honor. |
-| burden | 负担 | Selected to bear their burden. |
-| wisdom | 智慧 | Didn't want the wisdom. |
-| holiday | 假日 | A holiday with family celebration. |
-| celebration | 庆祝 | It was a celebration of some sort. |
+| parents | parents | "So actually, there could be parents-of-the-parents-of-theparents-of-the parents |
+| memory | memory | The Giver was gentle with him for many days following the terrible shared memory of war |
+| things | things | By now Jonas had experienced countless bits of happiness, things he had never known of before |
+| through | 穿过 | He had walked through woods, and sat at night beside a campfire |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| family | 家庭 | A family celebration. |
-| present | 礼物 | Wrapped presents under the tree. |
-| tree | 树 | A tree inside the room. |
-| warm | 温暖的 | It was warm in the room. |
-| happy | 快乐的 | Warmth and happiness. |
-
+| that | that | But this time he fit right in and felt the happiness that pervaded the memory |
+| there | there | There were colored lights: red and green and yellow, twinkling from a tree which was, oddly, inside the room |
+| they | they | And they won't be part of my life anymore |
+| could | could | He had visited museums and seen paintings filled with all the colors he could now recognize and name |
 ## 一句话总结
 
 Jonas 在抗拒与回归之间挣扎，最终从 The Giver 那里得到了第一个纯粹的快乐记忆——Christmas——并第一次理解了 grandparents 和"爱"的概念，而这一切都指向一个他不敢追问的问题：我的祖父母在哪里？

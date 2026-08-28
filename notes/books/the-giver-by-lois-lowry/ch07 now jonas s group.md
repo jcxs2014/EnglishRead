@@ -42,32 +42,29 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| duplicate | 重复；副本 | There were two Eleven-nineteens for a few hours. |
-| assignment | 分配/角色 | Each announcement was lengthy, accompanied by a speech. |
-| ceremony | 典礼 | The Ceremony of Twelve was the most important day. |
-| congregation | 聚集；集会 | The congregation sat in the Auditorium. |
-| verbatim | 逐字的；完整的 | The speech was much the same each year. |
+| assignment | 分配 | He would receive his Assignment fourth |
+| committee | 委员会 | The Committee of Elders stood and was acknowledged by applause |
+| elevens | 十一岁组 | And today, now that the new Elevens had been advanced this morning, there were two Eleven-nineteens |
+| chief | 首席 | Then the Chief Elder moved ahead in her speech |
+| elder | 长者 | Then the Chief Elder moved ahead in her speech |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Speaker | 发言人（Asher 的 Assignment） | Asher would become the community's Speaker. |
-| birth number | 出生编号 | Jonas was Nineteen, the nineteenth born that year. |
-| group-mate | 同龄群体成员 | He knew his group-mates well. |
-| worrier | 杞人忧天者 | Pierre was a worrier and tattletale. |
-| trait | 特质 | Intelligence was one of the required traits. |
+| number | number | But each child knew his number, of course |
+| always | 总是 | Jonas always chuckled when he heard a parent, exasperated, call sharply to a whining toddler, "That's enough, Twenty-three |
+| though | though | He would be an adult, like his parents, though a new one and untrained still |
+| speech | speech | Then the Chief Elder moved ahead in her speech |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| stage | 舞台 | One by one they went to the stage. |
-| applause | 鼓掌 | The audience applauded. |
-| badge | 徽章 | She wore the new badge designating her role. |
-| crowd | 人群 | The crowd murmured with confusion. |
-| number | 编号 | He was Nineteen. |
-
+| that | that | Sometimes parents used them in irritation at a child's misbehavior, indicating that mischief made one unworthy of a name |
+| with | with | At the midday break he had exchanged smiles with the new one, a shy female named Harriet |
+| would | would | Very soon he would not be an Eleven but a Twelve, and age would no longer matter |
+| were | were | They were arranged by their original numbers, the numbers they had been given at birth |
 ## 一句话总结
 
 在十二岁典礼的喧嚣中，Asher 获得了 Speaker 的 Assignment——一个用语言谋生的人，因为从小就在语言上出错；而 Jonas 等待自己的命运，却听到了"这将不同于以往"的预告。

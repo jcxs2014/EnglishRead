@@ -42,32 +42,27 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ceremony | 典礼 | The entire community attended the Ceremony each year. |
-| ceremony of twelve | 十二岁典礼 | The Ceremony of Twelve was the most important. |
-| assignment | 分配/角色 | He received the Assignment of Receiver. |
-| The Receiver | 接收者（最高秘密角色） | He was singled out to become The Receiver. |
-| ineligible | 不合格的 | He was labeled Inadequate and released. |
+| ceremony | 典礼 | The entire community attended the Ceremony each year |
+| newchild | 新生儿 | Father grinned and waved back, then held up the hand of the newchild on his lap, making it wave, too |
+| gabriel | 加布里埃尔 | Instead, as a result of Father's plea, Gabriel had been labeled Uncertain and given the additional year |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| pilot | 飞行员 | I hope you get Pilot. |
-| ribbons | 发带 | Lily complained about her hair ribbons. |
-| bicycle | 自行车 | She would get her bicycle next year. |
-| Auditorium | 礼堂 | They sat in the huge Auditorium. |
-| replacement | 替代 | The Murmur-of-Replacement Ceremony. |
+| little | 小的 | "I know that," Mother replied, straightening the hair ribbons on the little girl's braids |
+| community | 社区 | The entire community attended the Ceremony each year |
+| family | 家庭 | He would continue to be nurtured at the Center and would spend his nights with Jonas's family unit |
+| bicycle | 自行车 | "Next year I get my bicycle, too," she added more cheerfully |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| mother | 母亲 | Mother straightened Lily's ribbons. |
-| family | 家庭 | Each family unit had two children. |
-| name | 名字 | Newchildren received their names at the Naming. |
-| river | 河流 | He eyed the river behind the Auditorium. |
-| community | 社区 | The entire community attended. |
-
+| that | that | "I know that," Mother replied, straightening the hair ribbons on the little girl's braids |
+| would | would | Father, though, would not join Mother in the audience right away |
+| they | they | "But I also know that they constantly come loose and more often than not, they're dangling down your back by afternoon |
+| year | year | I'm glad I only have to wear them one more year," Lily said irritably |
 ## 一句话总结
 
 在十二岁典礼上，Jonas 被分配了社区最孤独的角色——The Receiver of Memory——而 Asher 望向窗外河流的那一刻，两个朋友的命运从此分道扬镳。

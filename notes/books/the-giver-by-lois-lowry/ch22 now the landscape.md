@@ -56,32 +56,27 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| exquisite happiness | 极度的快乐 | Simple moments of exquisite happiness. |
-| starve | 挨饿 | Now he was starving. |
-| flagging | 衰退的 | The flagging power of his memory. |
-| tantalizing | 令人更加渴望的 | Brief, tantalizing fragments. |
-| Elsewhere | 别处 | The road to Elsewhere. |
+| starving | 饥饿的 | " You have never been starving, he had been told |
+| trees | 树（复数） | Trees became more numerous, and the forests beside the road were dark and thick with mystery |
+| landscape | 风景 | Now the landscape was changing |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| landscape | 地形 | The landscape was changing. |
-| waterfall | 瀑布 | They saw their first waterfall. |
-| deer | 鹿 | They saw deer. |
-| wildflower | 野花 | Wildflowers along the road. |
-| starve | 挨饿 | He was starving. |
+| choice | 选择 | Once he had yearned for choice |
+| himself | 他自己 | Painfully he righted himself and the bike, and reassured Gabe |
+| became | became | Trees became more numerous, and the forests beside the road were dark and thick with mystery |
+| beside | beside | Trees became more numerous, and the forests beside the road were dark and thick with mystery |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bird | 鸟 | It was a bird. |
-| fish | 鱼 | He caught two fish. |
-| hungry | 饥饿的 | They were always hungry. |
-| cold | 冷的 | They became cold and wet. |
-| walk | 走 | He began to walk up the hill. |
-
+| they | they | They saw streams more frequently now and stopped often to drink |
+| that | that | He was newly aware that Gabriel's safety depended entirely upon his own continued strength |
+| when | when | One night Jonas fell, when the bike jolted to a sudden stop against a rock |
+| with | with | Trees became more numerous, and the forests beside the road were dark and thick with mystery |
 ## 一句话总结
 
 在穿越未知地形的旅程中，Jonas 第一次感受到了最简单的快乐——野花、鸟鸣、风的移动——而他的胃却在提醒他：如果留下，我会在灵魂上饥饿；如果离开，我会在肉体上饥饿。

@@ -56,32 +56,27 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| release | 释放 | The release of the twin. |
-| lie | 撒谎 | I am empowered to lie. |
-| betray | 背叛 | You lied to me! |
-| empowered | 被授权的 | The Receiver is empowered to lie. |
-| sarcasm | 讽刺 | A cruel, sarcastic voice. |
+| community | 社区 | "If you get away, if you get beyond, if you get to Elsewhere, it will mean that the community has |
+| ceremony | 典礼 | Then, in the middle of the night before the Ceremony, Jonas would secretly leave his dwelling |
+| receiver | 接收者 | They'll choose a new Receiver |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| sob | 哭泣 | Jonas sobbed and shouted. |
-| pound | 捶打 | Pounded the bed with his fists. |
-| mimic | 模仿 | Jonas mimicked the voice. |
-| betray | 背叛 | But he lied to me! |
-| collapse | 崩溃 | He collapsed in sobs. |
+| memories | 记忆（复数） | But the memories tell us that it has not always been |
+| people | people | For people who break the rules three times |
+| before | 之前 | "You said that to me once before |
+| because | because | "I said it because it's true |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| home | 家 | I won't go home! |
-| cry | 哭 | He was weeping. |
-| angry | 愤怒的 | He was so angry. |
-| quiet | 安静的 | You must be quiet. |
-| eat | 吃 | First, I will order our evening meal. |
-
+| would | would | He would not look at The Giver |
+| that | that | "No one heard that little twin cry, either |
+| giver | giver | "Sit up, Jonas," The Giver told him firmly |
+| they | they | We know that they once felt things like pride, and sorrow, and — " |
 ## 一句话总结
 
 Jonas 在看到释放的真相后彻底崩溃——他的温柔父亲是杀手，他的社区是谎言，而他唯一能说的是"我不能回去"。

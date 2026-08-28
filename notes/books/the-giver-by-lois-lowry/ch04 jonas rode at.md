@@ -56,32 +56,26 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| release | 释放/处死（委婉语） | We celebrated the release of Roberto. |
-| rehabilitation | 康复/修复 | Benjamin worked in the Rehabilitation Center. |
-| tabulated | 被记录在案的 | Volunteer hours would be carefully tabulated. |
-| attendant | 护理人员；服务员 | The attendant at the front desk signed him in. |
-| confessional | 忏悔的；告解的 | She confided with a mischievous look. |
+| volunteer | 志愿者 | But now, with Twelve coming so soon and the volunteer hours ending, it didn’t seem to matter |
+| nurturing | 养育 | Jonas slowed and looked at the nametags on the bicycles lined up outside the Nurturing Center |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| House of the Old | 老人之家 | He entered the House of the Old. |
-| volunteer hours | 志愿服务时数 | He did his volunteer hours at the House of the Old. |
-| telling | 叙述；讲述（生命故事） | They told his whole life before they released him. |
-| ceremony | 典礼 | The Ceremony of Twelve was approaching. |
-| committee | 委员会 | Except the committee. |
+| always | 总是 | The Eights always set out on their first volunteer hour a little nervously, giggling and staying in groups of friends |
+| larissa | larissa | “Your turn, Larissa,” he said, reading the nametag onthe woman’s robe |
+| beside | beside | Jonas rode at a leisurely pace, glancing at the bikeports beside the buildings to see if he could spot Asher’s |
+| little | 小的 | The Eights always set out on their first volunteer hour a little nervously, giggling and staying in groups of friends |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bathtub | 浴缸 | He helped the Old into the bathtub. |
-| bathing room | 浴室 | He worked in the bathing room. |
-| elderly | 年老的 | He bathed a gentle elderly woman. |
-| bicycle | 自行车 | He parked his bicycle neatly in the port. |
-| schedule | 日程 | The release threw the schedule off. |
-
+| with | with | But now, with Twelve coming so soon and the volunteer hours ending, it didn’t seem to matter |
+| that | that | He remembered when he had become an Eight, as Lily would do shortly, and had been faced with that freedom of choice |
+| they | they | “They told his whole life before they released him,” she said |
+| would | would | He remembered when he had become an Eight, as Lily would do shortly, and had been faced with that freedom of choice |
 ## 一句话总结
 
 Larissa 用"pure happiness"形容 Roberto 被"释放"时的表情——而 Jonas 的追问"Where exactly did Roberto go?"第一次展示了他对真相的本能渴望。

@@ -49,32 +49,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Stirrings | 欲望/性冲动（社区委婉语） | It was your first Stirrings. |
-| dosage | 剂量 | The dosage must be adjusted. |
-| suppression | 压制；抑制 | Through medication, the community suppresses desire. |
-| pill | 药片 | He swallowed the small pill that his mother handed him. |
-| treatment | 治疗 | That's the treatment for Stirrings. |
+| stirrings | 冲动 | It was your first Stirrings |
+| treatment | 治疗 | AReminder THAT STIRRINGS MUST BE REPORTED IN ORDER FOR TREATMENT TO TAKE PLACE |
+| pills | 药片 | You’re ready for the pills, that’s all |
+| dream | 梦 | They all listened carefully and discussed with Lily the warning that the dream had given |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dream | 梦 | He had dreamed very vividly the night before. |
-| ritual | 仪式 | At the morning ritual, the family told their dreams. |
-| bathtub | 浴缸 | But only one tub in the dream. |
-| desire | 欲望 | The wanting was the strongest feeling. |
-| sponge | 海绵 | I had the sponge in my hand. |
+| morning | morning | Usually, at the morning ritual when the family members told their dreams, Jonas didn’t contribute much |
+| feelings | 情感 | But the feelings were clear, and flooded him again now as he thought |
+| because | because | I was perspiring, because it was so warm |
+| though | though | They always asked, though they knew how rarely Jonas had a dream to tell |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| mother | 母亲 | Mother explained the Stirrings to him. |
-| family | 家庭 | They sat together at the morning ritual. |
-| school | 学校 | He wouldn't be late for school. |
-| rule | 规则 | ATTENTION. STIRRINGS MUST BE REPORTED. |
-| child | 孩子 | Jonas was Twelve, nearly a man. |
-
+| that | that | They all listened carefully and discussed with Lily the warning that the dream had given |
+| your | your | “Thank you for your dream, Lily |
+| said | said | Father said that he had had no dreams |
+| they | they | They all listened carefully and discussed with Lily the warning that the dream had given |
 ## 一句话总结
 
 "我可以感觉到那股欲望贯穿全身"——Jonas 的第一次 Stirrings 是社区最系统化的情感控制实验，而他在服药后感到的"oddly proud"说明这场实验已经成功了一半。

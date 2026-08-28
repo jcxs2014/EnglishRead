@@ -49,32 +49,26 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| You may lie | 你可以撒谎 | The final rule said: You may lie. |
-| exempted from rules | 被免于遵守规则 | He was exempted from rules governing rudeness. |
-| prohibited from | 被禁止 | He was prohibited from discussing his training. |
-| Not-to-Be-Spoken | 不可言说者 | A name designated Not-to-Be-Spoken. |
-| reciprocity | 互惠 | The rule of reciprocity: he could ask, and would receive. |
+| medication | 药物 | Except for illness or injury unrelated to your training, do not apply for any medication |
+| training | 训练 | He remembered what the Chief Elder had said: that his training would be alone and apart |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| folder | 文件夹 | He opened the startlingly empty folder. |
-| prescription | 处方；药物 | He was prohibited from applying for medication. |
-| recreation | 娱乐 | His schedule left no time for recreation. |
-| precision | 精确性 | The reason for precision of language was to prevent unintentional lies. |
-| unblemished | 无污点的 | His training left no time for recreation. |
+| thought | 想 | He thought he could hear whispers |
+| parents | parents | Jonas saw his parents watching him from the place where their own bicycles were waiting |
+| starving | 饥饿的 | Once, when he had been a Four, he had said, just prior to the midday meal at school, ''I'm starving |
+| called | called | " he called, spotting his friend near the rows of bicycles |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dwelling | 住所 | He rode directly to his dwelling. |
-| rule | 规则 | The rules in his folder were startlingly few. |
-| honor | 荣誉 | You've been greatly honored. |
-| training | 训练 | His training would begin tomorrow. |
-| medication | 药物 | He was prohibited from applying for medication. |
-
+| that | that | He remembered what the Chief Elder had said: that his training would be alone and apart |
+| been | been | Lily had already been strapped into her seat |
+| said | said | "Congratulations," Asher said |
+| would | would | He remembered what the Chief Elder had said: that his training would be alone and apart |
 ## 一句话总结
 
 在第一个没有秘密的夜晚，Jonas 收到了八条规则——最后一条是"You may lie"——而他的最后一个问题是：如果所有成人都在十二岁时被告知可以撒谎，那他们的精确语言还有任何意义吗？

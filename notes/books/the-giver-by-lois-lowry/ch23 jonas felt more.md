@@ -56,32 +56,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| snowflake | 雪花 | Snowflakes. They fall down from the sky. |
-| summit | 顶点 | He approached the summit of the hill. |
-| sled | 雪橇 | He found the sled waiting for them. |
-|Elsewhere | 别处 | The place that was waiting, the Elsewhere. |
-| memory | 记忆 | The memories of joy flooded through him. |
+| warmth | 温暖 | Could he hold onto a last bit of warmth |
+| strength | 力量 | Did he still have the strength to Give |
+| memory | memory | Aching from the effort, he forced the memory of warmth into the thin, shivering body in his arms |
+| summit | 山顶 | As he approached the summit of the hill at last, some-thing began to happen |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hill | 山坡 | He began to walk up the hill. |
-| warmth | 温暖 | A memory of warmth. |
-| freeze | 冻结 | The freezing mound around his feet. |
-| climb | 攀登 | He began to walk up the hill. |
-| destination | 目的地 | The destination lay ahead. |
+| himself | 他自己 | Warming himself ever so briefly had shaken away the lethargy and resignation and restored his will to survive |
+| through | 穿过 | Jonas looked down through the dusk at the little head against his chest |
+| moment | 时刻 | For a moment it seemed that nothing came to him, that his power was completely gone |
+| briefly | briefly | Gabriel moved feebly against him and whimpered briefly into the silence that surrounded them |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| snow | 雪 | It's called snow. |
-| cold | 冷的 | He was so cold. |
-| walk | 走 | He began to walk. |
-| go | 去 | They started down. |
-| near | 近的 | Almost there. |
-
+| that | that | Jonas felt more and more certain that the destination lay ahead of him, very near now in the night that was approaching |
+| they | they | They fall down from the sky, and they're very beautiful |
+| snow | 雪 | "It's called snow, Gabe," Jonas whispered |
+| there | there | There was no response from the child who had once been so curious and alert |
 ## 一句话总结
 
 在暴风雪中，Jonas 把最后一点温暖的记忆传递给 Gabriel，然后找到了那辆等待他们的雪橇——他说"我记得这个地方"，然后他们开始向下去，向那个他一直感受到在等待着他的别处冲去。

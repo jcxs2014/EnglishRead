@@ -56,32 +56,26 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Sameness | 同一性 | They chose Sameness instead of color. |
-| choosing | 选择 | It's the choosing that's important. |
-| vibrance | 活力 | The vibrance his own life was taking on. |
-| alter | 改变 | He could not alter that for them. |
-| elephant | 大象 | Once there really were elephants. |
+| memories | 记忆（复数） | He could still hear it when he opened his eyes and lay anguished on the bed where he received the memories |
+| elephant | 大象 | Going closer, he watched them hack the tusks from a motionless elephant on the ground and haul them away, spattered with blood |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| color | 颜色 | He began to see colors in his ordinary life. |
-| geranium | 天竺葵 | A bed of geraniums near the Hall of Open Records. |
-| tusk | 象牙 | They hacked the tusks from a motionless elephant. |
-| roar | 咆哮 | It roared into the empty landscape. |
-| concentrate | 集中 | He concentrated on the red of the petals. |
+| receiver | 接收者 | You remember the rule that says the new Receiver can't talk about his training |
+| things | things | I want to wake up in the morning and decide things |
+| nodded | nodded | Jonas nodded again, but he was puzzled |
+| really | really | He's not my brother, not really |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| flowers | 花 | Look at those flowers very carefully. |
-| red | 红色 | Bright red or bright yellow. |
-| angry | 愤怒 | He was often angry, now. |
-| tired | 累的 | He felt tired. |
-| matter | 重要 | What's the matter? |
-
+| that | that | The Giver told him that it would be a very long time before he had the colors to keep |
+| giver | giver | The Giver told him that it would be a very long time before he had the colors to keep |
+| they | they | "What if they were allowed to choose their own mate |
+| with | with | "Definitely not safe," Jonas said with certainty |
 ## 一句话总结
 
 Jonas 在颜色的诱惑与选择的哲学之间徘徊，最终意识到社区的"保护"逻辑无懈可击——但他的愤怒却越来越强烈，因为他已经知道了另一种可能。

@@ -56,32 +56,27 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Receiver of Memory | 接收记忆者 | Jonas was selected to be the next Receiver. |
-| Capacity to See Beyond | 超越视域的能力 | The current Receiver called it the Capacity to See Beyond. |
-| attribute | 属性；品质 | Intelligence, integrity, courage, and wisdom are attributes. |
-| magnitude | 巨大；程度 | Pain of a magnitude beyond our experience. |
-| apart | 分离的；孤独的 | The training would be alone and apart. |
+| receiver | 接收者 | In a firm, commanding voice she announced, ''Jonas has been selected to be our next Receiver of Memory |
+| training | 训练 | Sometimes we worry that the one assigned might not develop, through training, every attribute necessary |
+| audience | 观众 | The audience was clearly ill at ease |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| selection | 选择；选拔 | A selection is very, very rare. |
-| apprentice | 学徒 | He would be the Receiver-in-training. |
-| unanimous | 全体一致的 | It must be a unanimous choice of the Committee. |
-| courage | 勇气 | Courage was one of the required attributes. |
-| training | 训练 | The training involved pain of unimaginable magnitude. |
+| community | 社区 | The community, relieved from its discomfort very slightly by her benign statement, seemed to breathe more easily |
+| looked | looked | That is what we looked for |
+| himself | 他自己 | We hoped, also, that he would present himself promptly for chastisement, and he has always done so |
+| understand | understand | And still he did not understand |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| audience | 观众 | The audience gasped in astonishment. |
-| stage | 舞台 | He walked to the stage. |
-| community | 社区 | The community accepted his new role. |
-| chant | 齐声诵念 | They began the collective murmur of his name. |
-| pain | 痛苦 | The training involved physical pain. |
-
+| that | that | Jonas moved his hands together, clapping, but it was an automatic, meaningless gesture that he wasn't even aware of |
+| with | with | It was a man Jonas had never noticed before, a bearded man with pale eyes |
+| have | have | That you feel I have made a mistake |
+| said | said | "I know," she said in her vibrant, gracious voice, "that you are all concerned |
 ## 一句话总结
 
 当首席长老宣布 Jonas 将成为 Receiver of Memory 时，全场倒吸一口冷气——而 Jonas 第一次说"我想这是真的"，承认自己"看见了一些东西"，即使他还不理解那是什么。

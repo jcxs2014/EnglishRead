@@ -56,32 +56,28 @@ modified: "2026-08-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| release | 释放 | Watch a release of the twin. |
-| twin | 双胞胎 | A twin. He has to select one and release the other. |
-| Closed Records | 封闭记录 | In the Hall of Closed Records. |
-| ceremony | 仪式 | Private ceremonies are recorded. |
-| scale | 秤 | He recognized a scale. |
+| release | 释放 | "I was only asking about release be-cause my father is releasing a newchild today |
+| syringe | 注射器 | He took out a syringe and a small bottle |
+| newchild | 新生儿 | "I was only asking about release be-cause my father is releasing a newchild today |
+| screen | 屏幕 | Jonas watched the video screen above the row of switches |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Nurturing Center | 养育中心 | At the Nurturing Center. |
-| video screen | 屏幕 | The video screen flickered. |
-| father | 父亲 | That's my father. |
-| whisper | 低语 | He found himself whispering. |
-| gentle | 温柔的 | Such a gentle man. |
+| little | 小的 | He liked the thought of seeing his father perform the ceremony, and making the little twin clean and comfy |
+| himself | 他自己 | "I wish they wouldn't do that," he said quietly, almost to himself |
+| turned | turned | His father turned and opened the cupboard |
+| morning | morning | I think it was this morning |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| room | 房间 | It's just an ordinary room. |
-| baby | 婴儿 | A tiny newchild wrapped in a blanket. |
-| watch | 观看 | Do you want to watch? |
-| morning | 早晨 | This morning's release. |
-| door | 门 | The door opened. |
-
+| that | that | There was so much work to be done, always, that he and The Giver seldom simply sat and talked, the way they just had |
+| they | they | There was so much work to be done, always, that he and The Giver seldom simply sat and talked, the way they just had |
+| giver | giver | There was so much work to be done, always, that he and The Giver seldom simply sat and talked, the way they just had |
+| said | said | "I'm sorry that I wasted so much time with my questions," Jonas said |
 ## 一句话总结
 
 Jonas 带着对父亲的信任请求看释放录像，却不知道他即将看到的是：自己温柔的父亲，亲手将双胞胎婴儿之一送进了解剖机。
