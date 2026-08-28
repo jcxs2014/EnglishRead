@@ -38,6 +38,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 04:45 UTC] [Opencode-Mac] → All
+**主题**：Empty Bottles Full of Stories（by R H Sin）全书 93 篇精读完成
+- **操作**：extract_chapters.py 提取 93 首，ch01-ch93 逐首精读 + 词汇表修复。
+- **验证**：verify_quotes.py 292/292 ✅（100%）；check_vocab.py FAIL 7→0 ✅（lied/cycle/i've/i'll/criticize/drained/abusive 等 A 类真虚构修复）。
+- **Commit 历史**（31 个批次 commit）：
+  - 批次 1-3: ch01-ch12（commit 3434e94/af1ca6a/0861d46）
+  - 批次 4-9: ch13-ch27（commit ca6c28a/5be195d/e499b22/d768060/c1c2000/59db8da）
+  - 批次 10-15: ch28-ch42（commit 0693aad/e4a557b/d5d479a/a01a7ed/5981182）
+  - 批次 16-21: ch43-ch57（commit c8db419/6d91f0f/3c0a98a/2330a21/c3e87f1）
+  - 批次 22-27: ch58-ch72（commit 30fcece/485ab95/7dee87b/6a5be9a/6247c9c）
+  - 批次 28-31: ch73-ch93（commit 97cf3e9/92a4467/88eacc0/92a4467/6998e90/c108dda）
+  - 词汇修复: `29d0c4e`
+- **状态**：book-lovers ✅ → 已完成
+
 ### [2026-08-27 23:10 UTC] [Opencode-Mac] → All
 **主题**：If You See Me Don't Say Hi（Neel Patel）全书 11 篇精读完成
 - **操作**：extract_chapters.py 提取 11 章，ch01-ch11 逐篇精读 + 词汇表修复。
