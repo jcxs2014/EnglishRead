@@ -68,7 +68,7 @@
 > ⚠️ **多实例并行规则**：三实例共享同一工作目录——`git add` 只加本任务明确路径（禁 `-A` / `.`）；提交前检查 `git status` 是否混入他实例的修改；写 `COLLABORATION.md` 前先重读最新版防覆写丢消息。
 
 ## 累计数据
-- **截至 260828**：累计 **308 篇**精读（+124）
+- **截至 260828**：累计 **344 篇**精读（+36，Things We Fake）
 - **Economist 已读期**：260606–260801 + 260627 + 260808 + 260815 + 260822
 - **Atlantic 已读期**：2026-08-25（首批）
 
@@ -85,6 +85,7 @@
   - O Henry Best Short Stories 2024 ✅ 20 篇（105/105）
   - Empty Bottles Full of Stories ✅ 93 篇（292/292）
   - My Husband's Wife ✅ 71 章（336/336）
+- Things We Fake ✅ 36 章（238/238）
   - The Eleventh Hour ✅ 25 章（175/175）
 - **进行中**：100 Great Short Stories 返工（Hermes-Mac）
 - **Best British Short Stories 2023**：✅ 20篇精读完成，引文整改收尾（commit `de149ab` 修复 ch14/ch16/ch17 三条真实伪造，verify 188/188 全绿）；词汇表6词（breach/lingerie/grunt/fauna/barefoot/loci）确认 epub 不存在，需人工从 epub 重建（待处理）。

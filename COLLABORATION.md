@@ -2044,3 +2044,31 @@ date -u '+%Y-%m-%d %H:%M UTC'
 - toddler→butterfly、freckle→curly（ch10）、cervix→sternum（ch12）
 
 **Commit**: `9d504ac`
+
+---
+
+### 2026-08-28 · Things We Fake（Melinda De Ross）完成
+
+**时间**：16:50 UTC（commit `b864916`）
+
+**交付物**：
+- 36 章节精读（ch01–ch36，含 Epilogue）
+- 三篇总览（`00_全书概述.md` / `00_金句集.md` / `00_情感节点.md`）
+
+**核验状态**：
+- verify_quotes **238/238 ✅（100%）**
+- check_vocab **FAIL 0 ✅**（35 WARN 均为分档轻度差异，非虚构）
+- 引文问题：3 次「漏写桥接句」bug（ch15 ④⑤、ch24 ⑥、ch25 ④），已全部修复
+- ch29 第⑧条（"Yes, sir... Best decision I ever made"）因 text/ 与 epub 措辞不同而删除（第⑧条本身为真实引语，仅与 epub 不符，不影响理解）
+- vocab 末次修复：manipulative→vindictive / confrontation→expression / vindication→situation / closure→protective（ch34，4词条均为真实 epub 词汇，WARN 为分档存疑）
+
+**格式**：长篇言情逐章精读格式（本章导航 + 4 子项 + 三档词汇 + 一句话总结）
+
+**三幕结构**：
+- 第一幕（ch01–14）：Fake boyfriend 诞生
+- 第二幕（ch15–30）：Fake engagement 升级→真心告白→真相引爆
+- 第三幕（ch31–36）：废墟寻根→「You're my forever home」
+
+**总览文件**：概述含三幕/主题/人物弧光/节奏图；金句集含 30 条（全部 epub 逐字核验）；情感节点含 21 个情绪转折 + 三种爱对照 + 读者情绪管理建议
+
+**Commit**: `b864916`
