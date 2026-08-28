@@ -45,6 +45,7 @@ def load_corpus(book_dir):
 def check_book(book_dir, verbose=False):
     corpus, src = load_corpus(book_dir)
     fails, warns = [], []
+    total_rows = 0
     for f in sorted(glob.glob(os.path.join(book_dir, '*.md'))):
         name = os.path.basename(f)
         tier = None
@@ -53,7 +54,7 @@ def check_book(book_dir, verbose=False):
             hm = TIER_PAT.match(line.strip())
             if hm:
                 tier = hm.group(1); continue
-            if not line.strip().startswith('|') or SENTINEL.match(line) or '|---' in line:
+            if SENTINEL.match(line) or '|---' in line:
                 continue
             cells = [c.strip() for c in line.strip().strip('|').split('|')]
             if len(cells) < 2 or not any(re.search(r'[A-Za-z]{2,}', c) for c in cells[:1]):
@@ -85,7 +86,8 @@ def check_book(book_dir, verbose=False):
                 warns.append((name, tier, f"基础档疑含超纲词", entry))
             elif tier == '高级' and words and all(w in COMMON for w in words):
                 warns.append((name, tier, f"高级档混入常用词", entry))
-    return {'fails': fails, 'warns': warns, 'rows': n_rows, 'src': src}
+        total_rows += n_rows
+    return {'fails': fails, 'warns': warns, 'rows': total_rows, 'src': src}
 
 def main(book_dir, verbose=False):
     r = check_book(book_dir, verbose)
