@@ -96,7 +96,7 @@ modified: "2026-08-28"
 |------|------|------|
 | jolt |n./vi. 猛冲/电击感（身体反应）|"The contact sparks a ridiculous jolt through me." |
 | flip-flop |vi. 翻跟头（胃部的反应）|"My stomach does a little flip-flop." |
-| ogling |n./vt. 盯着看|"If being ogled comes with compliments like that." |
+| bossy |adj. 霸道的（指使人的）|"You're bossy." |
 
 ### ⭐ 基础
 

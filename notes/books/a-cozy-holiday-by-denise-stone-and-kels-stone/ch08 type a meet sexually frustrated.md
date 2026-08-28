@@ -87,7 +87,7 @@ modified: "2026-08-28"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | rugged |adj. 粗犷的（男性外表描写）|"Rugged that comes from actual physical labor." |
-| voltage |n. 电压（心理紧张感）|"The pulsing of that damn voltage." |
+| rusty |adj. 生疏的/荒废的（太久没做某事）|"I'm rusty." |
 | vulnerable |adj. 脆弱的（愿意分享 back story）|"I've never met a man so okay with being vulnerable." |
 
 ### ⭐⭐ 进阶

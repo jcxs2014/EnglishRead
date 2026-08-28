@@ -86,9 +86,7 @@ modified: "2026-08-28"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| disinhibition |n. 去抑制（酒精效果）|"There's still a buzz in my ear to check my email or download more research papers." |
 | garter belt |n. 吊袜带（服饰细节）|"Underneath, I'm wearing tights attached to a garter belt and the little black dress." |
-| sardine |n. 沙丁鱼（拥挤感）|"Everyone is pressed in like sardines trying to avoid the polar vortex." |
 
 ### ⭐⭐ 进阶
 
