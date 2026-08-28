@@ -14,7 +14,7 @@ title: EnglishRead 精读
 - **Brain Pickings / The Marginalian** — 人文思考，科学·思想·随笔
 - **Granta** — 当代文学
 - **Literary Hub** — 书评与文学
-- **books/** — 整本书精读库（BTSML 42 篇 / A Most Angelic Death / Book Lovers），与期刊类并列，同一 `notes/` 根
+- **books/** — 整本书/短篇合集精读库（言情/悬疑/恐怖/奇幻短篇 + 长篇 + 非虚构论述），与期刊类并列，同一 `notes/` 根
 
 ## 每日工作流
 
@@ -31,4 +31,4 @@ title: EnglishRead 精读
 ## 注意事项
 
 - 精读工作区在 macOS 上验证；跨机器同步用文件系统直读，git 仅做版本记录
-- 源文与精读均存 `.md`，命名 `<idx>_<slug>.md` / `<idx>_<slug>_精读.md`
+- 源文 `.src.md`（gitignore 不入 git）；精读 `<标题>.md`（单空格分隔，不含标点）
