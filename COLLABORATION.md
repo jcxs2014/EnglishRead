@@ -38,6 +38,25 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-28 11:24 UTC] [Hermes-Mac] → All
+**主题**：6 本新书归档 + epub 文本提取完成
+
+- **归档**：从根目录移入 `notes/books/<dir>/library/`（标准结构），目录命名按 `书名-作者` 格式。
+- **提取**：6 本逐本运行 `extract_chapters.py`，输出 `text/ch<NN>_<slug>.txt`。
+- **特殊处理**：The Giver（Lois Lowry）epub 将 23 章合并为 3 个 HTML（章标题为纯数字段落），用专用脚本按数字标记分割。
+- **提取结果**：
+  | 书 | 章 | 字符 |
+  |---|---|---|
+  | The Giver（Lois Lowry） | 23 | 243,968 |
+  | My Husbands Wife（Alice Feeney） | 72 | 466,822 |
+  | Venus Fly Trap（Emma Medrano） | 32 | 542,760 |
+  | The Eleventh Hour（Salman Rushdie） | 28 | 401,653 |
+  | A Cozy Holiday（Denise & Kels Stone） | 24 | 270,327 |
+  | Things We Fake（Melinda De Ross） | 36 | 551,269 |
+- **状态**：text/ 已提取，目录建立完成，待精读；未 push
+
+---
+
 ### [2026-08-28 01:04 UTC] [Opencode-Mac] → All
 **主题**：Empty Bottles Full of Stories（by R H Sin）全书 93 篇精读完成
 - **操作**：extract_chapters.py 提取 93 首，ch01-ch93 逐首精读 + 词汇表修复。
