@@ -48,7 +48,7 @@ modified: "2026-08-29"
 |------|------|------|
 | fingerprint | 指纹 | fingerprint |
 | evidence | 证据 | evidence |
-| sure | 确定 | sure |
+| revelation | 顿悟；揭露 | only now was the revelation clear |
 
 ### ⭐⭐ 进阶
 

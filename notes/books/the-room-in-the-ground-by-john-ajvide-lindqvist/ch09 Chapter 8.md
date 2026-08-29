@@ -24,21 +24,36 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 2:** "There are some things . . . like that flash drive in the cuckoo clock . . . That was a comic touch!"
+> **原句 2:** "It's true, there are some things . . . like that flash drive in the cuckoo clock . . ."
 
-- 中文理解：有些东西……比如藏在布谷鸟钟里的 U 盘……那可是一个喜剧细节！
-- 关键词：cuckoo clock 的争议；Julia 的 heightened reality。
-- 为什么这样写：Irma 和 Ylva 都用 cuckoo clock 来评价 Julia 的小说——同一个细节在不同人眼中有不同解读。Julia 认为这是 realism（她小说中的 tech 细节），而 Irma 和 Ylva 认为这是 heightened reality（fantasy element）。
+- 中文理解：确实，有些东西……比如藏在布谷鸟钟里的 U 盘……
+
+- 关键词：cuckoo clock 争议；heightened reality。
+
+- 为什么这样写：Irma 用 Julia 自己小说里的 cuckoo clock 细节举例——这个 Julia 视为 realism 的 tech 道具，在 Irma 眼里恰恰是 heightened reality。同一细节两人解读相反，点破 Julia 的"真实"其实是 fantasy。
+
 - 读者视角提示：联系 Chapter 3 的 TV4 审片场景——Julia 对自己的作品被"cleaned up"的失望，现在 Irma 告诉她真实的现实她自己也在做。
 
 ---
 
-> **原句 3:** "You simply must understand that people want to enjoy getting away from the ordinary. There's hardly a single bestseller that's not a fantasy on some level or other."
+> **原句 3:** "Ylva used the same example! Am I never going to hear the last of that cuckoo clock? It was a comic touch!"
+
+- 中文理解：Ylva 也举了同样的例子！我什么时候才能不再听到那只布谷鸟钟？那是个喜剧细节！
+
+- 关键词：Julia 的反驳；cuckoo clock 的反复出现。
+
+- 为什么这样写：Julia 的恼火暴露了她对"被误解"的敏感——Ylva 和 Irma 都拿同一个细节说她不真实。她辩称"那只是 comic touch"，恰恰承认了那不是 realism。
+
+- 读者视角提示：Julia 在防守中自相矛盾——她一边追求 realism，一边为自己的 fantasy 元素辩护。
+
+---
+
+> **原句 4:** "You simply must understand that people want to enjoy getting away from the ordinary. There's hardly a single bestseller that's not a fantasy on some level or other."
 
 - 中文理解：你必须明白，人们想要逃离平凡的生活。几乎没有任何一本畅销书不是某种程度上的幻想。
 - 关键词：escapism 的必然性；Julia 的 realism 的天真。
 - 为什么这样写：Irma 的这句话是全章的 theme statement——文学的 escapism 本质不是缺陷，而是 feature。Julia 追求的"pure realism"是一个 impossibility。这是 Lindqvist 对 literary creation 的 meta-commentary。
-- 读者视角提示：联系 Chapter 4 的 TV series criticism——Julia 抱怨 TV 把她的 work 变成 escapism，但她自己的 work 也是 escapism。
+- 读者视角提示：联系 Chapter 3 的 TV series criticism——Julia 抱怨 TV 把她的 work 变成 escapism，但她自己的 work 也是 escapism。
 
 ## 本章词汇
 

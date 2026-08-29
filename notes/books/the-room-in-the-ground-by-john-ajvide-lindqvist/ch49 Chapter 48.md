@@ -20,7 +20,7 @@ modified: "2026-08-29"
 - 中文理解：什么办法都没有用！
 - 关键词：Astrid 的 frustration；她对动物权益运动的态度。
 - 为什么这样写：Astrid 的绝望——humane methods 无效，只有 radical action 才能带来改变。这是她的 radicalization 的声明。
-- 读者视角提示：联系 Chapter 6——Astrid 对动物权益的 commitment。
+- 读者视角提示：联系 Chapter 24 的 Animal Action forum——Astrid 对动物权益的 commitment。
 
 ---
 

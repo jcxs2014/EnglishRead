@@ -38,7 +38,7 @@ modified: "2026-08-29"
 - 中文理解：你不要谈我的父母！
 - 关键词：Astrid 的底线；她的愤怒。
 - 为什么这样写：这是 Astrid 的 emotional trigger——Rudbeck 提到她的父母，导致她的愤怒爆发。这是她的 protection mechanism。
-- 读者视角提示：联系 Chapter 4 的 Midsummer Eve——Astrid 的父母被枪击，她不能容忍任何人提起他们。
+- 读者视角提示：联系 Chapter 7 的 Midsummer Eve——Astrid 的父母被枪击，她不能容忍任何人提起他们。
 
 ## 本章词汇
 
@@ -46,9 +46,9 @@ modified: "2026-08-29"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| door | 门；门板 | heavy steel door |
+| slovenly | 邋遢的；马虎的 | slovenly security |
 | scalpel | 手术刀 | picked up a scalpel |
-| verdict | 判决；判断 | Astrid's verdict |
+| snoop | 爱打探的人 | a born snoop |
 
 ### ⭐⭐ 进阶
 

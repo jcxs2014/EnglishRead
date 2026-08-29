@@ -56,13 +56,14 @@ modified: "2026-08-29"
 |------|------|------|
 | abortion | 流产；堕胎 | birth defects |
 | elite | 精英；上层 | The elite |
+| messenger | 信使；传信人 | A messenger |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | wine | 酒；葡萄酒 | a glass of white wine |
-| messenger | 信使；传信人 | A messenger |
+| kitchen | 厨房 | on the kitchen table |
 
 ## 一句话总结
 

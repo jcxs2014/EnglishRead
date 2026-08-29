@@ -3,7 +3,7 @@
 modified: "2026-08-29"
 ---
 
-# 06. Chapter 6
+# 06. Chapter 5
 
 ## 本章导航
 
@@ -38,7 +38,7 @@ modified: "2026-08-29"
 - 中文理解：Martin Rudbeck 医生刚刚开始他应得的假期。
 - 关键词：讽刺的结局；Kim 的报复。
 - 为什么这样写：这是全章的反讽结尾——Rudbeck 的"vacation"实际上是被绑架。这个句子用最平淡的语气描述最黑暗的现实。
-- 读者视角提示：联系 Chapter 5 的 police investigation——他们追踪的"vacation"实际上是一个幽灵行程。
+- 读者视角提示：联系 Chapter 4 的 police investigation——他们追踪的"vacation"实际上是一个幽灵行程。
 
 ## 本章词汇
 

@@ -20,7 +20,7 @@ modified: "2026-08-29"
 - 中文理解：那姑娘有胆量。
 - 关键词：Kim 对 Astrid 的 admiration；他的认可。
 - 为什么这样写：这是 Kim 对 Astrid 的评价——他在 Midsummer Eve 枪击案后就有这种感觉。她的 resilience 和 attitude 让他印象深刻。
-- 读者视角提示：联系 Chapter 4 的 Midsummer Eve——Kim 在危机时刻救了 Astrid，现在他继续接纳她。
+- 读者视角提示：联系 Chapter 7 的 Midsummer Eve——Kim 在危机时刻救了 Astrid，现在他继续接纳她。
 
 ---
 
@@ -57,13 +57,14 @@ modified: "2026-08-29"
 | laptop | 笔记本电脑 | brand-new MacBook Air |
 | freezer | 冰柜；冷冻室 | freezer compartment |
 | cheese | 奶酪 | cheese sandwich |
+| vegetarian | 素食者 | Astrid the vegetarian |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | meat | 肉 | package of ham slices |
-| vegetarian | 素食者 | Astrid the vegetarian |
+| kitchen | 厨房 | watching him from the kitchen window |
 | laugh | 大笑 | laughed out loud |
 
 ## 一句话总结

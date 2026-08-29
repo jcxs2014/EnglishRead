@@ -48,7 +48,7 @@ modified: "2026-08-29"
 |------|------|------|
 | surveillance | 监视；监控 | surveillance |
 | revelation | 揭示；揭露 | revelation |
-| think | 认为；想 | think |
+| mystified | 茫然不解的 | Mystified, Jonny turned the little plastic object over |
 
 ### ⭐⭐ 进阶
 

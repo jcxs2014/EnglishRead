@@ -57,12 +57,13 @@ modified: "2026-08-29"
 | bomber jacket | 飞行员夹克 | bomber jacket |
 | beard | 胡须 | cultivated a beard |
 | tunnel | 隧道 | pedestrian tunnel |
+| sunglasses | 太阳镜 | wore sunglasses |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sunglasses | 太阳镜 | wore sunglasses |
+| underground | 地铁；地下通道 | the Hötorget underground |
 | rose | 玫瑰 | single rose |
 | phone | 电话 | Julia's phone |
 

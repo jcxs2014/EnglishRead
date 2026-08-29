@@ -47,7 +47,7 @@ modified: "2026-08-29"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | bias | 偏见；偏压 | bias |
-| case | 案件 | case |
+| speculative | 猜测性的；推测的 | Hear how vague and speculative all this is? |
 | evidence | 证据 | evidence |
 
 ### ⭐⭐ 进阶

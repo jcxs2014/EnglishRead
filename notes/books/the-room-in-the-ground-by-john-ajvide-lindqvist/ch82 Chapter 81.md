@@ -47,7 +47,7 @@ modified: "2026-08-29"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | nightmare | 噩梦 | nightmare |
-| time | 时间 | time |
+| recollection | 回忆；追忆 | at the recollection of her fingers under his chin |
 | evidence | 证据 | evidence |
 
 ### ⭐⭐ 进阶

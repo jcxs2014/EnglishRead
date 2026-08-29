@@ -56,13 +56,14 @@ modified: "2026-08-29"
 |------|------|------|
 | clever | 聪明的 | clever |
 | warrant | 搜查令 | get a warrant |
+| ambulance | 救护车 | ambulance |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | ring | 戒指 | ring |
-| ambulance | 救护车 | ambulance |
+| window | 窗户 | through the kitchen window |
 
 ## 一句话总结
 

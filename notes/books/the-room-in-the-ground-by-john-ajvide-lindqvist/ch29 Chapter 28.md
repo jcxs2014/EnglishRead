@@ -29,7 +29,7 @@ modified: "2026-08-29"
 - 中文理解：一切都变黑了。
 - 关键词：Astrid 的 trigger；她的 dissociation。
 - 为什么这样写：这是全章最重要的句子——Astrid 的 violence 是被 dissociation 触发的。她不记得发生了什么，但她的身体按下了按钮。这是她的 PTSD 的爆发。
-- 读者视角提示：联系 Chapter 4 的 Midsummer Eve——Astrid 有 PTSD，她的 violence trigger 与她父母的死亡有关。
+- 读者视角提示：联系 Chapter 7 的 Midsummer Eve——Astrid 有 PTSD，她的 violence trigger 与她父母的死亡有关。
 
 ---
 

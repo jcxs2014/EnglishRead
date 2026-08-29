@@ -33,12 +33,15 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 3:** "Jolifanto bambla ô falli bambla!"
+> **原句 3:** "A rhythmic chanting was part of the general uproar, but Julia couldn't make out a single word, unless 'jolifanto' counted as a word."
 
-- 中文理解：（达达主义诗歌的无意义音节）
-- 关键词：Animal Action flash mob 的 chant；他们的 Dadaist protest。
-- 为什么这样写：Julia 看到视频中白色锥形帽子的人群吟诵这首无意义的诗歌——这是 Animal Action 的 flash mob。Astrid 也在其中。
-- 读者视角提示：联系 Chapter 71——Astrid 参与的 Animal Action counterdemonstration。
+- 中文理解：有节奏的吟唱是这场喧闹的一部分，但 Julia 一个字也听不清，除非 "jolifanto" 算一个词。
+
+- 关键词：rhythmic chanting；jolifanto；Julia 的旁观视角。
+
+- 为什么这样写：Julia 在视频里只能勉强辨认出 "jolifanto" 一个词——这是达达主义诗歌的音节（呼应 Chapter 71 Animal Action 的 flash mob）。她听不清全部，恰恰点出这场抗议的荒诞无意义。
+
+- 读者视角提示：联系 Chapter 71——那场 flash mob 的完整 chant "Jolifanto bambla ô falli bambla" 在 Astrid 参与的 counterdemonstration 中出现过，这里 Julia 只在视频里捕捉到残片。
 
 ## 本章词汇
 

@@ -20,7 +20,7 @@ modified: "2026-08-29"
 - 中文理解：自从父母去世后就占据着她的那种空虚感开始消退，让她的精神得以苏醒。
 - 关键词：Astrid 的疗愈；她的精神复苏。
 - 为什么这样写：这是 Astrid 的情感转折点——她的 emptiness 正在消退。这是全章最温暖的句子，表明她正在从创伤中恢复。
-- 读者视角提示：联系 Chapter 4 的 Midsummer Eve 枪击案——Astrid 的疗愈是缓慢的，但正在发生。
+- 读者视角提示：联系 Chapter 7 的 Midsummer Eve 枪击案——Astrid 的疗愈是缓慢的，但正在发生。
 
 ---
 
@@ -56,7 +56,8 @@ modified: "2026-08-29"
 |------|------|------|
 | forum | 论坛 | Animal Action forum |
 | basement | 地下室 | closed sliding door in the basement |
-|Villa | 别墅 | villa |
+| villa | 别墅 | villa |
+| nightgown | 睡衣 | changed into the nightgown |
 
 ### ⭐ 基础
 
@@ -64,7 +65,7 @@ modified: "2026-08-29"
 |------|------|------|
 | bed | 床 | crawled into bed |
 | window | 窗户 | window open |
-| nightgown | 睡衣 | changed into the nightgown |
+| meal | 一餐饭 | during the meal |
 
 ## 一句话总结
 

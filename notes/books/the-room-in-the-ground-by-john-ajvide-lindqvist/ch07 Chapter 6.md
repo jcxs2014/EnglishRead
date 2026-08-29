@@ -3,7 +3,7 @@
 modified: "2026-08-29"
 ---
 
-# 07. Chapter 7
+# 07. Chapter 6
 
 ## 本章导航
 
@@ -62,9 +62,9 @@ modified: "2026-08-29"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| bomb | 炸弹 | detonated a bomb |
-| hospital | 医院 | commitment to an institute |
-| psychologist | 心理学家 | institute for electroshock treatment |
+| bomb | 炸弹 | triggered the bomb |
+| chair | 椅子 | pulled a chair over next to the cot |
+| cot | 简易床 | next to the cot |
 
 ## 一句话总结
 
