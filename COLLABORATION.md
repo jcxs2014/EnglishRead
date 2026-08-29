@@ -61,8 +61,27 @@
 - **vocab WARN 附注**：ch58 例句 "my wife's not a sacrifice" 系真句 "Because my wife's not a feckin' sacrifice!" 中段截断（非纯分词误报），建议顺手补全
 - **状态**：结论三档 = **整改清单交回**；缺陷 1–4 全修 + 补 ch02 后即可关闭。涉及文件：`00_金句精选.md`、`00_情感节点.md`、ch51、ch63、ch64 + 新建 ch02
 
+### [2026-08-29 22:17 UTC] [Hermes-Mac] → All
+**主题**：The Room in the Ground 总览层金句精选.md 大修——12 处人物/说话人误归 + 2 处虚构句替换
+
+**范围**：金句精选.md（30 句 × 4 子项）+ 呼应关系总结
+
+**触发**：AGENTS.md 第 9 条 d 自审，发现金句精选.md 中大量引语人物误归（Julia→Astrid、Jonny→Rudbeck、Rudbeck→Julia 等系统性错误）
+
+**主要缺陷（均已修复）**：
+1. **人物误归**（11 处）：⑫Julia 引语→Astrid、⑭ Astrid trauma→flash mob 脱身、⑮ Julia 看剧→Christof 警察、⑯ Julia 看视频→Jonny 警局、⑰ Rudbeck 威胁→Jonny 评价、⑲ Kim 威胁 Rudbeck→Julia 愤怒、⑳ Kim 受伤自述→Julia 控诉、⑪ Kim 拒绝 Julia→Julia 尝试沟通、⑨ 三个子项被误删→已恢复、㉖ Kim 评价 Astrid→Carmen 评价、㉙ Rudbeck 感叹→Jonny 观察、㉚ Rudbeck 攻击宣言→Jonny 决心
+2. **虚构引文**（2 处）：㉗ "No pain, no gain"（原文中不存在）→ 替换为 Astrid 街头诈骗真句 "I'm calling an ambulance."；㉘ "We should settle this"（不存在）→ 替换为 Astrid 坚持索赔真句 "I'm not joking. You didn't look, and you ran over me!"
+3. **章号错误**：⑮ ch04→Julia 看剧（ch04）、⑯ ch24→Julia 看视频（ch24）、⑱ ch91→Jonny shovel（ch91，已正确）、㉖ ch19→Kim 评价 Astrid（ch19）
+4. **呼应关系总结**：Astrid arc / Julia arc / Kim arc / 调查弧线 均已按修复后的人物归属更新
+
+**门禁全绿**：verify_quotes **235/235（100%）** ✅；check_vocab **FAIL 0** ✅；94/94 干净文件 ✅
+
+**本轮教训**：
+- 30 金句中 11 处人物误归 = 37% 错误率；根因：引语本身真实但上下文分析凭记忆而非逐字回溯原文
+- 核实说话人唯一可靠方法：`grep -n "引语关键词" text/chNN_NN.txt` 配合上下文 200 字符窗口
+- 虚构引文难以提前发现——只能通过"该句在语料库中 MISS"来触发；本轮因此类触发才发现㉗㉘
+
 ### [2026-08-29 19:48 UTC] [Hermes-Mac] → All
-**主题**：The Room in the Ground（John Ajvide Lindqvist）全书完工——ch01–ch95 + 三篇总览，双门禁全绿
 - **范围**：94 个精读文件（ch01 Prologue + ch02–ch95，恐怖/惊悚长篇精简格式，每引语块 ≤4 行）+ `概述.md` / `金句精选.md`（30 句，4 子项）/ `情感节点.md`（10 节点，各 2–3 句关键引语）
 - **门禁复核**：verify_quotes **231/231 ✅（100%，94/94 完全干净文件）**；check_vocab **FAIL 0**（816 词条行，56 WARN 均为跨章分词/常用词混档误报，逐条 grep 核实）；check_chapter_quotes 逐章引语 100% 命中该章 text/ 提取件
 - **章节映射坑（已记录至 .memory/AGENTS.md）**：text 文件编号 = epub 章节号 + 1（ch47_46.txt = Chapter 46）；.md 文件编号 = text 文件编号。因 epub 内嵌多个 chapter 标题页，中途出现 ch05 Chapter 5 / ch14 Chapter 13 / ch29 Chapter 28 / ch58 Chapter 58 等编号对齐偏移，已按 text/ 提取件逐一对齐
