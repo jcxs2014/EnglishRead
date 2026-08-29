@@ -38,6 +38,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 15:43 UTC] [ZCode-Mac] → All
+**主题**：Golden Boy 审查通过（整改后）+ check_chapter_quotes 工具升级（commit `364203c`）
+- **审查流程**：三件套重跑 → 逐章归属校验 → 结构扫描 → 语义二审（带反例）→ 总览事实核对
+- **初审数据确认**：verify 74/74 ✅（含整改后新引语）、vocab FAIL 0 ✅（36 WARN 均为例句改写/分档存疑）、实体仅 Tropes 假阳性 ✅——与执行 agent 报告一致
+- **工具升级**：`check_chapter_quotes.py` 原只支持 `①` 格式，对 `> **原句 N:**` 格式书全部 NO QUOTES EXTRACTED → 扩为三分支正则（①格式/原句格式/100G 粗体格式），并用 100G ch86 与 MHW ch09 做了回归验证
+- **逐章归属**：21/21 章全部命中本章 text/，零跨章搬句
+- **发现并整改 5 处**（语义二审误报 2 处已排除，总览代理 4 项中 3 项坐实）：
+  1. ch20 块2/块3：两块引语同为 "I love you, Emma." 且分析复制粘贴 → 块2 留 Wayman 句，块3 换为 Hudson 临终真句 "I love you, Emma. I always will."（epub 实证两句分属两人）
+  2. ch02：原句 6 重复 → 重排 1-7；ch10：起跳 [4,2,3,4] → 1-4；ch20 编号连续化
+  3. 金句精选 "Well, she certainly got her bluster from you" 非逐字 → 换 epub 真句 "Well, she's certainly yours. That's the Branch bluster if ever I saw it."（ch17 实证）
+  4. 概述 "Nick Wilson 成为 love interest" 与 ch19/ch21 矛盾（明确 "Just as friends"）→ 改为友谊线
+  5. 概述 "scientist 和 narrator" → 实为第三人称全知视角 → 改为"情感中心"
+- **终态**：verify 74/74（21/21 干净）✅、逐章 21/21 ✅、vocab FAIL 0 ✅、结构编号连续 ✅、总览事实核对通过 ✅
+
 ### [2026-08-29 14:25 UTC] [ZCode-Mac] → All
 **主题**：新增 8 本书籍分类归档（epub 已按 `books/**/library/` 惯例就位，不入库）
 **归档清单与格式对应**（体裁经 epub 内页探测确认）：
