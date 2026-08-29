@@ -44,7 +44,7 @@ modified: "2026-08-29"
 
 > **原句 4:** "Make this a winning season."
 
-- 中文理解：让这个赛季赢。否则这将是你最后一个（赛季）。
+- 中文理解：让这个赛季赢下来。
 - 关键词：threat——Dixie Majors 的最后通牒；winning season——Wayman 的生存条件。
 - 为什么这样写：Dixie Majors 是本书第一个纯粹的 antagonist——她用 Southern belle 的糖衣包裹着职业威胁。她的"bless their hearts"语气让威胁更加 condescending。这是 Emma 家庭经济压力的外部来源。
 - 读者视角提示：Wayman 被逼到墙角，他的失败直接威胁到 Emma 的未来（如果他们被迫离开 Sparta，Emma 的 animals 怎么办？这是 Emma 在 ch04 担心的核心问题）。

@@ -15,7 +15,7 @@ modified: "2026-08-29"
 
 ## 精读
 
-> **原句 4:** "There wasn't anything that Emma loved more."
+> **原句 1:** "There wasn't anything that Emma loved more."
 
 - 中文理解：没有什么比 Emma 更喜欢的了。
 - 关键词：Emma 的 intellectual vanity——喜欢证明自己是对的；her father's attention。

@@ -24,7 +24,7 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 1:** "I love you, Emma."
+> **原句 2:** "I love you, Emma."
 
 - 中文理解：我爱你，Emma。
 - 关键词：Wayman 第一次对 Emma 说这句话；全章最重要的台词。
@@ -33,12 +33,12 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 3:** "I love you, Emma."
+> **原句 3:** "I love you, Emma. I always will."
 
-- 中文理解：我爱你，Emma。
-- 关键词：Wayman 第一次对 Emma 说这句话；全章最重要的台词。
-- 为什么这样写：这是 Wayman 全书中第一次对 Emma 说"I love you"。在 ICU 的生死关头，他终于能够表达他的感情。这是父女关系的最终和解。
-- 读者视角提示：联系全文——Wayman 一直用 action 而非 words 表达感情。现在他终于 both 了。
+- 中文理解：我爱你，Emma。我会永远爱你。
+- 关键词：Hudson 的临终告白；I always will——超越死亡的时态。
+- 为什么这样写：与 Wayman 的"I love you, Emma"（原句 2）形成回声结构——一父一犬，同章同句；但 Hudson 多了"I always will"将来时，他用呼吸尚存的最后力气把承诺延伸到自己看不见的未来。
+- 读者视角提示：这一句是全书的情感落点——读者刚刚在 Wayman 处收下"和解"，紧接着在 Hudson 处收下"永别"。两次告白的间隔越短，眼泪来得越快。
 
 ---
 

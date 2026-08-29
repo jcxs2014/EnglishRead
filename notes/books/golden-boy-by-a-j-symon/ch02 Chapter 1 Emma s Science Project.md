@@ -69,7 +69,7 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 6:** "There, larger than life on the monitor, her computer desktop was on full display for the entire world. A photo of quarterback Nick Wilson in uniform took up the whole screen."
+> **原句 7:** "There, larger than life on the monitor, her computer desktop was on full display for the entire world. A photo of quarterback Nick Wilson in uniform took up the whole screen."
 
 - 中文理解：Nick Wilson 穿球衣的照片占据了整个屏幕，尺寸比真人还大，向全世界公开展示。
 - 关键词：desktop wallpaper——Emma 的 crush 被公开处刑；larger than life——讽刺性的尺寸夸张。
