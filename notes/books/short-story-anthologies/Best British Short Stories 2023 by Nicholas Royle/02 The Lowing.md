@@ -88,7 +88,7 @@ modified: "2026-08-26"
 
 **⑩** "He shook himself down, billowing white lungfuls of air into the night, his eyes searching the darkness."
 
-- 中文理解：他抖了抖自己。
+- 中文理解：他抖了抖身子，向夜色里呼出一团团白气，目光搜寻着黑暗。
 - 句子结构：及物动词 + 反身代词——全篇最短的句子之一。
 - 关键词：**shook himself**（甩开自己——也是甩开那个记忆/悲伤的姿态）
 - 表达方式：句末的极简动作，替代任何情感描述。农夫不哭泣、不愤怒，只是抖了抖——农业男人的情感表达方式。

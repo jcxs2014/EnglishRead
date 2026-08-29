@@ -9,7 +9,7 @@ modified: "2026-08-26"
 
 ## 一句话总结
 
-Pushkin 通过棺材匠 Adrian Prokhoroff 搬家后面对经济困境的故事，展示了"职业身份"与"人性"之间的张力——他希望老顾客 Trukhina 的死亡来弥补损失，但当 Trukhina 真的死去时，Adrian 流下了苦涩的泪水并亲手为她做了棺材。
+Pushkin 通过棺材匠 Adrian Prokhoroff 搬家后被一句祝酒词刺伤、赌气邀请亡者赴宴的故事，展示了"职业身份"与"人性"之间的讽刺张力——他围着死者做生意、对死亡毫无敬畏，而当亡者真的登门道谢时，他吓昏过去；醒来后连"Trukhina 太太死了"都只是一场醉梦。
 
 ## 逐句精读（10 处）
 
@@ -141,19 +141,19 @@ Pushkin 通过棺材匠 Adrian Prokhoroff 搬家后面对经济困境的故事�
 
 ⑩ **"The deceased lay upon a table, yellow as wax, but not yet disfigured by decomposition."**
 
-**中文理解**：当他的妻子终于死去时，Adrian 流下了苦涩的泪水，并亲手为她做了棺材。
+**中文理解**：死者躺在桌上，肤色蜡黄，但尚未因分解而变形。
 
-**句子结构**：When at last his wife died 是时间状语从句，Adrian wept bitter tears 是主句，and made her coffin with his own hands 是并列分句。
+**句子结构**：The deceased lay upon a table 是主谓与地点状语，yellow as wax 是形容词短语作主语补足语，but not yet disfigured by decomposition 是转折的过去分词短语（被动含义）。
 
-**关键词**：wept bitter tears / made her coffin with his own hands
+**关键词**：The deceased / yellow as wax / not yet disfigured by decomposition
 
-**表达方式**：用"苦涩的泪水"与"亲手做棺材"的并置，展示 Adrian 的"双重身份"——他既是"流着泪的丈夫"，也是"制作棺材的工匠"；这两种身份在"亲手做棺材"这个行为中达到了完美的统一。
+**表达方式**："yellow as wax"（蜡黄）把尸体物化成棺材匠手里的"材料"——在 Adrian 的职业眼光里，逝者首先是一桩生意；"尚未变形"既写实尸况，又冷静得不近人情。
 
-**为什么这样写**：Pushkin 用这个结尾，完成职业身份与人性之间的"悲剧性和解"——Adrian 的泪水是真实的（他是丈夫），但他的手工艺也是真实的（他是棺材匠）；职业与人性在悲剧中达成了和解。
+**为什么这样写**：Pushkin 用这具尸体特写确立 Adrian 的观看方式——他围着死者张罗生意，对死亡毫无敬畏；正是这种麻木招来了夜里死人赴宴的"报答"，也为故事的幻象结局埋下现实根基。
 
 ## 一句话总结
 
-Pushkin 用棺材匠 Adrian 希望妻子死去以弥补经济损失的故事，展示了职业身份与人性之间的讽刺张力——他不是残忍的人，但他是一个商人；当他的妻子终于死去时，他流下了"苦涩的泪水"并"亲手"为她做了棺材——职业与人性在悲剧中达成了和解。
+Pushkin 的《棺材匠》：棺材匠 Adrian 搬进新居，在邻居寿宴上被一句"为你的主顾们干杯——那些死人"刺伤，醉后赌气邀请"我的主顾们"赴宴；当夜他梦见经手的尸体悉数登门道谢，惊醒后发现 Trukhina 太太根本没死。故事以职业的麻木换来一场亡者的筵席——恐惧才是棺材匠对死亡唯一一次真正的凝视。
 
 ## 词汇分级
 

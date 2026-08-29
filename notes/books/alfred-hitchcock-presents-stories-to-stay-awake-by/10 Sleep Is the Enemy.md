@@ -56,11 +56,11 @@ modified: "2026-08-26"
 
 **⑥** "I reached the porch, still carrying the roses, though a few had dropped on the way. Yet someone must have seen me, because the door opened before I'd even rung the bell."
 
-- 中文理解：我走到门廊，仍然拿着花，按了铃。一个女仆开了门。我说：'Bennett 小姐在家吗？'女仆说：'在的，小姐，但她在练琴。'我说：'我等一下。'然后我走了进去。
-- 句子结构：主语 I + 谓语 reached + 宾语 the porch + 状语 still carrying the roses + and + 谓语 rang + 宾语 the bell；主语 The door + 谓语 was opened + 状语 by a maid；主语 I + 谓语 said + 直接引语 Is Miss Bennett at home；主语 The maid + 谓语 said + 直接引语 Yes, miss, but she's practicing；主语 I + 谓语 said + 直接引语 I'll wait；主语 I + 谓语 walked in。
-- 关键词：**still carrying the roses**（仍然拿着花——花是武器，也是象征）
-- 表达方式：**Sally 走进 Thelma 的家**——不是被邀请，是自己走进去的。
-- 为什么这样写：**这是全篇最关键的一步**。Sally 主动走进 Thelma 的家，就像飞蛾扑火——她不知道等待她的是什么。
+- 中文理解：我走到门廊，手里还拿着玫瑰花，虽然路上掉了几朵。可一定有人看见了我，因为还没等我按铃，门就开了。
+- 句子结构：主语 I + 谓语 reached + 宾语 the porch + 伴随状语 still carrying the roses + 让步状语从句 though a few had dropped on the way；Yet 连接的第二个分句里，someone must have seen me 是 must have done 的推测结构，because 引导原因状语从句（the door opened before I'd even rung the bell，before 引导时间从句）。
+- 关键词：**still carrying the roses**（仍然拿着花——花是武器，也是象征）；**before I'd even rung the bell**（还没按铃门就开了）
+- 表达方式：**"must have seen me"的推测语气**——门不是应铃而开，而是应"人"而开：屋里的人一直在等她。被观察感不靠惊吓词汇，全靠这一个时态制造。
+- 为什么这样写：**这是全篇最关键的一步**。Sally 以为自己在主动接近 Thelma，实际上每一步都被看不见的目光注视——"还没按铃门就开了"宣告了她早已落入圈套，飞蛾扑火的门是为自己打开的。
 
 **⑦** "I told her she couldn't marry Ronnie and she came at me with a pair of scissors." / "Scissors?" / "Well, no, now I come to think of it, it was a paper knife. I warned her it was too sharp to be left lying about."
 

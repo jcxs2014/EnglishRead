@@ -113,15 +113,15 @@ Pirandello 通过一个镇上居民对 Mrs. Frola 和 Mr. Ponza 这对翁婿之�
 
 ⑧ **"And she did indeed arrive five or six days later; and Mr. Ponza, all alone, went to meet her at the station, took her to the apartment and left her there by herself."**
 
-**中文理解**：Ponza 三个月前作为总督办公室的秘书来到 Valdana。
+**中文理解**："她果然在五六天后到了；Ponza 先生独自一人去车站接她，把她送到公寓，然后让她一个人留在那里。"
 
-**句子结构**：Ponza arrived in Valdana three months ago 是主句，as a secretary in the governor's office 是方式/身份状语。
+**句子结构**：And she did indeed arrive five or six days later 是主句（did 对 arrive 的强调）；and Mr. Ponza, all alone, went... took... and left... 是三个并列谓语构成的动作链，all alone 是插入语。
 
-**关键词**：arrived in Valdana / three months ago / secretary in the governor's office
+**关键词**：did indeed arrive / all alone / left her there by herself
 
-**表达方式**：用"作为总督办公室秘书"的身份，引入 Ponza 的"官僚背景"——他不是普通人，他是"政府"的一部分，这为他的"控制"提供了制度性的权力基础。
+**表达方式**：三个连续动词（went—took—left）节奏干脆，画出一条"接到即隔离"的动线；"all alone"与"by herself"前后呼应，把孤独强调两次——接站是丈夫唯一的在场，随后即刻撤离。
 
-**为什么这样写**：Pirandello 用这个身份引入，建立故事的"权力动态"——Ponza 的权威来自于他的"政府职位"，这让整个小镇在判断他是否"疯狂"时处于更加复杂的位置。
+**为什么这样写**：Pirandello 用最平淡的接待流程写出一种制度化的隔离——岳母被接来即被独自安置，两位女眷互不见面的谜团由此奠基；"果然"（did indeed）暗示镇上流言一直在围观这场家庭安排。
 
 ---
 

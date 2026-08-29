@@ -113,47 +113,47 @@ Kafka 通过 Georg 在周日早晨给在俄国的老朋友写信告知自己订�
 
 ⑧ **"You wanted to cover me up, I know, offspring of mine, but I'm not covered up yet."**
 
-**中文理解**："你没有叔叔，"他的父亲叫道，他的声音因愤怒而发出爆裂声。
+**中文理解**："你想把我盖住，我知道，我的孩子——可我还没被盖住呢。"
 
-**句子结构**：You have no uncle 是直接引语，his father cried 是主句，his voice crackling with fury 是独立主格结构作伴随状语。
+**句子结构**：You wanted to cover me up 是主句（want + 宾语 + 不定式补足语），I know 是插入语，offspring of mine 是呼语（双重属格结构），but I'm not covered up yet 是转折分句（被动语态）。
 
-**关键词**：You have no uncle / cried / voice crackling with fury
+**关键词**：cover me up / offspring of mine / not covered up yet
 
-**表达方式**：用"你没有叔叔"这个否定，展示父亲对 Georg 的"历史"的否认——Georg 认为他的叔叔是一个重要的亲戚，但父亲说"你没有叔叔"。
+**表达方式**：cover up 一语双关——字面上是 Georg 刚给父亲盖好被子，隐喻上是他想把父亲"掩盖"进床笫与过去；"offspring of mine"用倒装的物主结构称呼儿子，讥讽里带着扭曲的亲昵。
 
-**为什么这样写**：Kafka 用这个否定，揭示"父权"的绝对权威——父亲可以否认现实，他可以创造和抹去 Georg 的"历史"。
+**为什么这样写**：Kafka 把"照料"翻转为"压制"——Georg 每个照顾动作（抱父亲上床、掖好被子）在父亲眼里都是剥夺；父亲掀被而起、一手轻触天花板，虚弱的老人瞬间膨胀为巨人，这句话就是那场权力翻转的宣言。
 
 ---
 
 ⑨ **"Of course I know your friend. He would have been a son after my own heart. And that is why you have cheated him all these years."**
 
-**中文理解**："现在我比你更了解你的那个朋友，"他父亲叫道，"现在他会得到适当的照顾！"
+**中文理解**："我当然认识你的朋友。他本会是我称心的儿子。所以这些年你一直在骗他。"
 
-**句子结构**：Now I know more about that friend of yours than you do yourself 是直接引语，his father shouted 是主句，and now he will be taken care of properly! 是第二个直接引语分句。
+**句子结构**：Of course I know your friend 是陈述主句；He would have been a son after my own heart 是虚拟语气（would have been），after my own heart 是介词短语作后置定语；that is why you have cheated him all these years 是表语从句。
 
-**关键词**：know more about that friend than you do / will be taken care of properly
+**关键词**：a son after my own heart / cheated him all these years
 
-**表达方式**：用"我比你更了解"的声称，展示父权的"全知性"——父亲知道 Georg 不知道的事情，他有能力"照顾" Georg 无法照顾的人。
+**表达方式**："would have been"的虚拟语气凭空造出一个从未存在的"理想儿子"——父亲把 Georg 的朋友抬上想象中的神位，再用他反衬 Georg 的"欺骗"。
 
-**为什么这样写**：Kafka 用父亲的"全知声称"，完成父权对"外部世界"的控制——不只是 Georg，连 Georg 的朋友也在父亲的"控制范围"内。
+**为什么这样写**：父亲从未见过这位朋友，却"当然认识"——Kafka 用全知口吻展现父权对现实的改写：它不需要事实，它宣布事实；朋友由此从"人"变成父亲手中的道德刑具。
 
 ---
 
 ⑩ **"Dear parents, I did always love you," and let himself fall.**
 
-**中文理解**：他在床上完全直立了起来。
+**中文理解**：'"亲爱的爸爸妈妈，我一直爱着你们，"说完便让自己坠落。'
 
-**句子结构**：He stood completely upright on the bed 是主句，completely upright 是主语补足语，on the bed 是地点状语。
+**句子结构**：直接引语 "Dear parents, I did always love you" 后接 and let himself fall，构成引语与并列谓语的衔接；did always love 用强调助动词 did 强化时态与情感。
 
-**关键词**：stood completely upright / on the bed
+**关键词**：Dear parents / did always love / let himself fall
 
-**表达方式**：用"完全直立"的意象，展示父亲的"身体权威"——父亲在床上"直立"，而不是躺在床上；他不再是"虚弱的老人"，他是"审判者"。
+**表达方式**：坠桥前的最后一句话不是控诉而是爱的告白——"did"把"一直"钉死在句子里；"let himself fall"用反身代词把自杀写成一次主动的交付。
 
-**为什么这样写**：Kafka 用这个结尾动作，建立"父权"的最终视觉形象——父亲在床上"直立"，象征着他对 Georg 的绝对控制；Georg 的"服从"将在下一个动作中完成——他将跳出窗外。
+**为什么这样写**：Kafka 让 Georg 至死沿用父亲的语法——他被"判处"投河，却把它执行成对父母的献礼；顺从早已长在儿子的语言里，死亡成了他第一次也是最后一次自主的"孝顺"。
 
 ## 一句话总结
 
-Kafka 用"审判"的故事，展示了父权与个人自由之间的永恒冲突——当 Georg 试图通过订婚来宣告自己的独立时，父亲用"你没有叔叔"和"我比你更了解你的朋友"来否认 Georg 的独立身份；Georg 以为父亲是"虚弱的老人"，但实际上父权无处不在、无所不知，最终 Georg 只能选择服从——从窗户跳下去。
+Kafka 的《判决》：Georg 给远在彼得堡的朋友写完订婚信，走进父亲昏暗的房间——一场"盖被子"的照料引爆父亲的审判：父亲否认朋友的存在、宣布自己才是朋友真正的代表，最终判处儿子"投河而死"。Georg 喊着"亲爱的爸爸妈妈，我一直爱着你们"跃下桥去——父权不需要事实，它改写事实；而顺从早已长在儿子的语言里。
 
 ## 词汇分级
 
@@ -161,11 +161,11 @@ Kafka 用"审判"的故事，展示了父权与个人自由之间的永恒冲突
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| crackling with fury | ph. 因愤怒而发出爆裂声 | His voice crackling with fury. |
+| offspring of mine | ph. 我的孩子（倒装物主结构） | You wanted to cover me up, I know, offspring of mine. |
+| condemn | v. 判处；谴责 | I now condemn you to death by drowning! |
 | take a wrong course | ph. 走错路 | A man who had obviously taken a wrong course. |
 | grown-up child | n. 成年孩子 | He was just a grown-up child who should merely obey. |
-| taken care of properly | ph. 得到适当照顾 | He will be taken care of properly. |
-| stand upright | ph. 直立 | He stood completely upright on the bed. |
+| with my last strength | ph. 用我最后的力气 | Even if I am doing this with my last strength, it is enough. |
 
 ### ⭐⭐ 进阶
 
@@ -173,16 +173,16 @@ Kafka 用"审判"的故事，展示了父权与个人自由之间的永恒冲突
 |---|---|---|
 | childhood friend | n. 发小 | A letter to a childhood friend living abroad. |
 | literally fled | ph. 实际上是逃跑了 | He had literally fled to Russia. |
-| shout | v. 叫喊 | His father shouted. |
-| crackle | v. 发出爆裂声 | His voice crackling with fury. |
+| radiant | adj. 容光焕发的；放光的 | He was radiant with insight. |
 | merely | adv. 仅仅 | He should merely obey. |
+| fling | v. 猛地伸出 | And he stood completely unsupported and flung out his legs. |
 
 ### ⭐ 基础
 
 | 词汇/短语 | 释义 | 例句 |
 |---|---|---|
-| father | n. 父亲 | His father cried. |
+| father | n. 父亲 | His father was sitting by the window. |
 | friend | n. 朋友 | A letter to his friend. |
 | room | n. 房间 | Sat in his room. |
-| bed | n. 床 | He stood on the bed. |
+| bed | n. 床 | He carried his father to bed in his arms. |
 | window | n. 窗户 | Looked out the window. |

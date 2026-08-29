@@ -53,17 +53,17 @@ Tomlinson 通过一个男人在1915年一战期间在伦敦经历 Zeppelin 飞�
 
 ---
 
-④ **"It was the next morning, when we met over to the Park, that Mrs. Hartsell made the remark that she wasn't getting no exercise."**
+④ **"It strengthens one's faith to discover the Pleiades over London; it is not true that their delicate glimmer has been put out by the remarkable incandescent energy of our power stations."**
 
-**中文理解**：那是第二天早上，我们在公园相遇的时候，Hartsell 太太说她没有得到什么锻炼。
+**中文理解**：发现昴星团还悬在伦敦上空，这让人重拾信念——说它们微弱的星光已被我们发电站的白炽能量所掩盖，那不是真的。
 
-**句子结构**：It was … that 是强调结构，when we met over to the Park 是时间状语，that she wasn't getting no exercise 是名词性从句。
+**句子结构**：It strengthens one's faith to discover... 是 it 作形式主语的结构；分号后的 it is not true that... 是第二个强调句型，that 从句里含现在完成时的被动语态（has been put out）。
 
-**关键词**：the next morning（第二天早上）/ met over to the Park（在公园相遇）/ wasn't getting no exercise（没有得到锻炼，非标准语法）
+**关键词**：the Pleiades（昴星团）/ delicate glimmer（微弱星光）/ incandescent energy（白炽能量）
 
-**表达方式**：用"wasn't getting no"（双重否定表示肯定）的非标准语法，展示"工人阶级英语"的节奏和韵律——这是 Lardner 的风格，不是 Tomlinson 的。
+**表达方式**：把"熄灯管制"的战争夜空写成一场天文发现——人造的光被强行关掉，星星才重新被看见；"delicate glimmer"与"incandescent energy"是一组柔与刚、古老与工业的对峙。
 
-**为什么这样写**：这是前一篇"The Golden Honeymoon"的引文被错误地混入此处——这是"逐句精读"质量的另一个证据：即使在"核实过的"引文中，标注也可能错误。
+**为什么这样写**：Tomlinson 在战争散文里插入这一笔星光，是刻意的抒情间歇——停电让伦敦人重新拥有星空，灾难意外归还了宇宙；而后文探照灯的光柱将撕破这片宁静，此处的安宁是为即将到来的恐惧预支的。
 
 ---
 
