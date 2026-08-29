@@ -72,6 +72,19 @@
 - **Economist 已读期**：260606–260801 + 260627 + 260808 + 260815 + 260822
 - **Atlantic 已读期**：2026-08-25（首批）
 
+### 书籍阅读进度追踪（迁移自系统记忆，2026-08-29 起统一存放于此文件）
+
+| 书 | 状态 | 进度 | 备注 |
+|---|---|---|---|
+| The Room in the Ground (John Ajvide Lindqvist) | ✅ 全部完成 | ch01-95 / 223 引文 / 0 FAIL vocab / 91/91 干净 / 46 commits | HEAD `35b1768` feat: ch80-ch95 终章精读；总览 3 篇待完成 |
+| Golden Boy (A. J. Symon) | ✅ ch01-19 | 69/69 引文全绿 / 0 FAIL vocab | ch20-21 + 总览待完成 |
+| Things We Fake | ✅ 完成 | 36 章 / 238/238 引文 | |
+| The Eleventh Hour | ✅ 完成 | 25 章 / 175/175 引文 | |
+
+**verify_quotes 失败主因**：引文含 speech tag 打断 fingerprint（须保留 tag 如 `said Christof`）；check_vocab FAIL=虚构词不在语料（换原文有词如 help/sure/chase/crowd/time/night/office/wordless/carry/patronizing）。
+
+**Room 章节映射**：text 文件编号 = epub 章节号 + 1（ch47_46.txt = Chapter 46 内容）；.md 文件编号 = text 文件编号。epub 章节映射补充：`index_split_070.html`=Chapter 64（ch65.md）、`index_split_073.html`=Chapter 68（ch69.md）、`index_split_077.html`=Chapter 73（ch74.md）、`index_split_080.html`=Chapter 76（ch77.md）、`index_split_096.html`=Chapter 89（ch90.md）、`index_split_099.html`=Chapter 92（ch93.md）、`index_split_101.html`=Chapter 94（ch95.md，epilogue）。
+
 ### 书籍库质量整顿（260827 启动，Opencode-Mac 主导）
 - **根因**：部分书籍批次生成时未把原书文本放入上下文 → 引文凭记忆脑补。新规：书籍精读前必须先按章提取原文放上下文；commit 前跑 `scripts/verify_quotes.py` 门禁，逐篇 10/10 ✅ 方可入库。
 - **已完成**：
