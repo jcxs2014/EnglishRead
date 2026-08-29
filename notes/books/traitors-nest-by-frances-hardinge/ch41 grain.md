@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 41. Chapter 40: Grain
 
+## 本章导航
+
+- **一句话概括**：壕沟里假摔的少年掷下火种、gargoyle 上的山羊骗空了庭院，中箭的 Daegal 留下五词遗言'为了播种谷种'——蛛腿砸塌墙基，'安分佃农'扛着镐锄镰刀攻入红堡。
+- **情感弧线位置**：总攻章：假难民两秒换装成农具军。
+- **叙事手法**：叙事手法：临终和解串场（Heather/Rill、Wake/布尔）+拟声火线。
+- **人物弧光**：人物弧光：Wake 的 bat wing 真相翻转其人设；Daegal 以'笑也是痛的'谢幕。
+
 ## 精读
 
 ① "I hope I really can dig my way out. Or I will suffocate down here."

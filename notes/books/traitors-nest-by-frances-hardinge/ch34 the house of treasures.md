@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 34. Chapter 33: The House of Treasures
 
+## 本章导航
+
+- **一句话概括**：渡河入钥匙孔门：派系政治的一课、bat wing 咒术的曝光与'你像个 Player'的指控——门后是'宝藏之家'：一座有武装的流动图书馆。
+- **情感弧线位置**：世界观最大翻转：宝藏是书，弓手守护知识公有。
+- **叙事手法**：叙事手法：other-sameness 的人文主义书写+考据破冰（诗集与蟋蟀）。
+- **人物弧光**：人物弧光：布尔吃醋吃得像个孩子，也第一次把'同伴'看成了'棋手'。
+
 ## 精读
 
 ① "'There are too many of our faction in one boat,'"
@@ -91,7 +98,7 @@ modified: "2026-08-29"
 | tassels | 流苏 | swaying their long tassels and scattering diamonds of light |
 | octagonal | 八角形的 | Burr found himself stepping into an octagonal wood-panelled room |
 | fraught | 充满紧张的 | There had been fraught silences and frowns of concentration |
-| exquisite | 精美绝伦的 | gazing down at the exquisite volume |
+| exquisite | 精美绝伦的 | Lady Berenice's face lit up as she gazed down at the exquisite volume |
 | parchment | 羊皮纸 | 'This is not parchment!' she exclaimed |
 | tetchiness | 易怒 | 'I can only use the words I know!' Berenice said with a hint of tetchiness |
 | tribute | 贡赋 | looting and demanding tribute |

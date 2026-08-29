@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 27. Chapter 26: Judgement
 
+## 本章导航
+
+- **一句话概括**：Pirin 偷肉是为养三只小狮子；布尔顶罪受枷，以身挡住全场的泥雪——'他们早就恨你了，连喜欢你的人也恨'。
+- **情感弧线位置**：全书情感最低谷之一：羞辱的机制被当众解剖。
+- **叙事手法**：叙事手法：mob 心理三刀（断线/剪网/怪物出笼）+清水一桶的复杂和解。
+- **人物弧光**：人物弧光：布尔把'挡不住'变成'陪着'；Daegal 的水桶让恨意出现第一道裂缝。
+
 ## 精读
 
 ① "'It must have been their parent! And they were really little with no fur, and their eyes weren't even open, and I couldn't leave them to starve! They're orphans, like us!'"

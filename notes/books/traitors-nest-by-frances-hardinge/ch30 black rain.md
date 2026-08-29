@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 30. Chapter 29: Black Rain
 
+## 本章导航
+
+- **一句话概括**：松懈的日常里三连跳把城堡甩上河心岛，叛誓绿的受诅咒城堡倾泻黑雨——Seedrift 成了第一个阵亡者；棋盘外的 Joett 用尽了那一手。
+- **情感弧线位置**：战争纪元的开端：运气用完，死亡入场。
+- **叙事手法**：叙事手法：松懈编年史开篇+棋盘外'悬停的手'收尾。
+- **人物弧光**：人物弧光：布尔从'不可触碰的幻觉'跌进'开始死去'的预感；Wake 被丧友推向鹰派。
+
 ## 精读
 
 ① "Then you settle into routines that start to feel comfortable, and you forget to scan the sky for falling thunderbolts."

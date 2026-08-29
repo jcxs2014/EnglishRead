@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 26. Chapter 25: The Meaning of the Magpies
 
+## 本章导航
+
+- **一句话概括**：Whippet 领布尔下井入神殿：喜鹊少女的完整神格（冥门守卫/引路者）与初王毁约起源浮出；夜里伏击擒获的偷肉贼竟是 Pirin。
+- **情感弧线位置**：考据与反转齐飞：神话补完，悬念砸地。
+- **叙事手法**：叙事手法：地下神殿的'博物馆导览'式信息释放。
+- **人物弧光**：人物弧光：Sorrel 为喜鹊'不再来'落泪——世俗解释（食腐）与神圣期待同框。
+
 ## 精读
 
 ① "But he knew that nobody would listen, and it wasn't even true. You were never the same person you were yesterday."

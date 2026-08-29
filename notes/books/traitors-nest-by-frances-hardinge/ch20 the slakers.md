@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 20. Chapter 19: The Slakers
 
+## 本章导航
+
+- **一句话概括**：'他们造出了一个 Player'的惊呼、'不过是农夫'的驳斥与'我想要的是翅膀'； earnestly using it 的城堡定义、旧 Chively 的陨落与'虎逃回草丛'的笑。
+- **情感弧线位置**：Slakers 的目的揭晓：他们的研究对象是'什么让城堡成为城堡'。
+- **叙事手法**：叙事手法：对话体论文+孤儿玩笑的诡计。
+- **人物弧光**：人物弧光：Sorrel 的旗帜哲学第一次获得神学背书。
+
 ## 精读
 
 ① "'They've done it! They've created a Player!'"

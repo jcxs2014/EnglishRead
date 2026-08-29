@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 32. Chapter 31: Served Cold
 
+## 本章导航
+
+- **一句话概括**：孔雀羽的物证链牵出藏箭的 Rill 与被冤的 Heather；Berenice 在浑浊窗彩下拆掉布尔'父亲不原谅'的心结，空箭袋的心证逼出真凶 Chick——'根本不算人'。
+- **情感弧线位置**：侦探章：以信任为破案工具。
+- **叙事手法**：叙事手法：缝纫疗愈戏+心证推理（有机会嫁祸而不嫁祸）。
+- **人物弧光**：人物弧光：Berenice 的'背影之问'松动了布尔 42 章的心结。
+
 ## 精读
 
 ① "No . . . no, I don't believe it! The enemy archers could have had one brown-feathered arrow, couldn't they?"

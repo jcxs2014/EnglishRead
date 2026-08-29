@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 40. Chapter 39: A Choice of Treachery
 
+## 本章导航
+
+- **一句话概括**：红堡的城门下挂着认不出的人头；Daegal 摊牌双面间谍（'哪个誓言套住了我'），以'为播种谷种而战'选择背叛的方向——Berenice 的药酒放倒Stephen一家，舱门阖上：'你只能靠自己'。
+- **情感弧线位置**：双面间谍章：全书最复杂的忠诚账本。
+- **叙事手法**：叙事手法：地窖剖白+药酒喜剧减压+cut绳结尾。
+- **人物弧光**：人物弧光：Daegal 从'被像水一样花掉的人'变成'把谷种当战略的人'；布尔第一次真正独自行动。
+
 ## 精读
 
 ① "There was still a misshapen object mounted above it, but it was now barely recognisable as a head."

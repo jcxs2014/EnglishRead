@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 09. Chapter 8: Large Prey
 
+## 本章导航
+
+- **一句话概括**：压垮骆驼的稻草聚成人群、'是我干的'式招募；'狼用两条腿走路'的谣言、'真希望我是 Joett'的悲愿与 Rill 的'城堡人抓走我姑妈'。
+- **情感弧线位置**：反抗从个人悲情滚成集体的雪球。
+- **叙事手法**：叙事手法：谣言与招募令交叉剪辑，mob 的形成过程被慢放。
+- **人物弧光**：人物弧光：布尔从复仇者变成'被推上去的旗帜'。
+
 ## 精读
 
 ① "Safety in numbers is often an illusion, but when those numbers can be seen slipping way, panic sets in."

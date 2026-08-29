@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 38. Chapter 37: Smoke Without Fire
 
+## 本章导航
+
+- **一句话概括**：'有烟无火'的骗局吞掉灰堡：布尔在沟渠里捡到独脚的 Berenice，背负、递刀、一秒入戏——'塔中少女'押着'有用的人质'走进红堡。
+- **情感弧线位置**：逃亡与易装章：谣言成为通行证。
+- **叙事手法**：叙事手法：piggyback 的越界温情+dragonfly 思维的即兴表演。
+- **人物弧光**：人物弧光：布尔对 Berenice 的定义从'怕'翻成'怕而不乱'。
+
 ## 精读
 
 ① "Perhaps it was the mail shirt that lent him authority, or perhaps they saw something in him now that they had not seen before."

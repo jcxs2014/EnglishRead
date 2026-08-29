@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 39. Chapter 38: Traitor Gate
 
+## 本章导航
+
+- **一句话概括**：假火真袭，叛军的隧道成了绞索：降旗易主、狮子开笼、汤泼敌、狮跃救老——Sorrel 潜行到 Stephen 桌底，Pirin 被掳宣告'护林官的孩子'成了人质。
+- **情感弧线位置**：全面开战章：多线混战+棋盘边的'野兽与洪水'之辩。
+- **叙事手法**：叙事手法：'poetry'自嘲+水文隐喻统摄正义观。
+- **人物弧光**：人物弧光：Joett 以'洪水'立誓；Robin 用'至少活着看见了海'完成最轻的赴死。
+
 ## 精读
 
 ① "He supposed there was a poetry in using the rebels' own tunnel against them. He disliked poetry, though. The rhymes rang bells in his head."

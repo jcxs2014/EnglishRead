@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 13. Chapter 12: The Colour of Treachery
 
+## 本章导航
+
+- **一句话概括**：'你太有价值了不能死'的信条、'城堡生气了'与'它想我们死'；'爸爸死得毫无意义'的控诉与执拗的微光。
+- **情感弧线位置**：被诅咒的怀疑升级成生存恐惧。
+- **叙事手法**：叙事手法：把政治污名（叛贼色）转译为物理污染。
+- **人物弧光**：人物弧光：布尔第一次为'父亲之死的意义'给出辩护。
+
 ## 精读
 
 ① "When they come for you, you will be calm, she told herself, and you will look perfect. You will look too valuable for them to risk breaking you."

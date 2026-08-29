@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 15. Chapter 14: The Face Among the Leaves
 
+## 本章导航
+
+- **一句话概括**：獠牙与'不是羊是狗'、封蜡印般的齿列、'信他的准头'与血与恐惧结成的纽带；'找到你的心'与树丛里的人脸。
+- **情感弧线位置**：狮子崇拜的真相：怪物长着人脸，恐惧长着人名。
+- **叙事手法**：叙事手法：兽面/人心的恐怖谷书写。
+- **人物弧光**：人物弧光：布尔发现最吓人的野兽也在'尽力活着'。
+
 ## 精读
 
 ① "You've all shown me your fangs. And that's what I want by my side right now. Hunting dogs, not sheep."

@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 08. Chapter 7: Slate
 
+## 本章导航
+
+- **一句话概括**：城堡'讨厌他们'的视角、'根本没用'的挫败与'We did'的逃生重构；'或者是个奇迹。现在就走！'——越过栅栏，狐狸进笼。
+- **情感弧线位置**：夺堡后的头几天：一切补救都像在给裂缝刷漆。
+- **叙事手法**：叙事手法：短暂切入城堡 POV，确立'建筑有心智'的设定。
+- **人物弧光**：人物弧光：布尔第一次承认无能为力，也是第一次接受'奇迹'作为变量。
+
 ## 精读
 
 ① "The grey castle had no heart to beat, no mind to remember. And yet it hated, with every chill inch of its stones."

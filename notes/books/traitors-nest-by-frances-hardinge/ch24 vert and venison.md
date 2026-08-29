@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 24. Chapter 23: Vert and Venison
 
+## 本章导航
+
+- **一句话概括**：绿林看守拖来偷猎案，布尔假扮'侍童'传话，罗宾硬着头皮主持厅审：一小时示众枷替代绞刑——'我们自己偷猎了一座城堡！'
+- **情感弧线位置**：升温章：正义的第一次落地，也是治理成本的第一次结算。
+- **叙事手法**：叙事手法：庭审主线与 magpie maiden 的'誓言三连问'幻境交织。
+- **人物弧光**：人物弧光：罗宾从怯场到立判，布尔在 Berenice 咬短的指甲里第一次看见'人'。
+
 ## 精读
 
 ① "'Did you think that owning a castle just meant eating roast swan and wearing fancy clothes? You people have duties too!'"

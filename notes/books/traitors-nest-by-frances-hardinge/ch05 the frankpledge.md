@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 05. Chapter 4: The Frankpledge
 
+## 本章导航
+
+- **一句话概括**：十户联保的罗网：闯入者的陷阱、被监视的谈话、弹弓奖品的诱饵与 robber hour 的潜入；鹿与盐的推理链条收束于'will 而不是 would'。
+- **情感弧线位置**：布尔发现有人（或某物）在替他'修正'语言——超自然第一次插手日常。
+- **叙事手法**：叙事手法：侦探式细节推理+语法级异常的惊悚。
+- **人物弧光**：人物弧光：布尔的观察力成为武器，也被更大的视线回望。
+
 ## 精读
 
 ① "A decent woodward should have noticed signs of trespassers before they became a danger to everyone."

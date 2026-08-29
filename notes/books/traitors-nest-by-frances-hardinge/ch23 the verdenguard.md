@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 23. Chapter 22: The Verdenguard
 
+## 本章导航
+
+- **一句话概括**：羊胫骨冰鞋、不愈的抓痕与'头晕、被注视'；'从没想到活着看见'新堡现身、'Joett 领主！'的脱口而出与'成年人的冰鞋'——'终于抓到他了'。
+- **情感弧线位置**：绿林看守登场：一场'法律事务'把布尔们拽向厅审。
+- **叙事手法**：叙事手法：滑冰的欢快反衬伤情的阴冷。
+- **人物弧光**：人物弧光：Pirin 的秘密（抓痕）开始记账。
+
 ## 精读
 
 ① "They were just sheep shin-bones worn smooth, with holes bored through them so that slender leather cords could be attached."

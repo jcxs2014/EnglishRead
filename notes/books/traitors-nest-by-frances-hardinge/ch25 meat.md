@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 25. Chapter 24: Meat
 
+## 本章导航
+
+- **一句话概括**：鹿肉汤的暖意只维持到日落：鸽子肉失窃触发全员互搜，Wake 翻出旧账'规矩不适用于你们'，Daegal 的包裹里滚出一颗心脏。
+- **情感弧线位置**：低谷章：共同体的断层线在互搜中显形。
+- **叙事手法**：叙事手法：以'食物=生存'的群体心理驱动悬疑。
+- **人物弧光**：人物弧光：布尔看清 Daegal'捕食者与哀悼者同体'，Wake 吞下'dog pack'的旧词。
+
 ## 精读
 
 ① "There was a feeling in Burr's blood and muscles that was almost an ache. Yes, this is what we've been needing all this time."

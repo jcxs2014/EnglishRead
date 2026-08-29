@@ -5,6 +5,13 @@ modified: "2026-08-29"
 
 # 42. Chapter 41: The Flood
 
+## 本章导航
+
+- **一句话概括**：Whippet 的蛇旗对上烧不毁的凤旗，Sorrel 用投石机把造神者发射出墙；Stephen 逼出的'死者不为活人做主'换来曼提科兽的颚——少女把毁约者送进'心之所欲'的永恒。
+- **情感弧线位置**：洪水章：神学裁决全部执行完毕。
+- **叙事手法**：叙事手法：'我说谎'的免责声明+Sorrel 的价值审判三连。
+- **人物弧光**：人物弧光：Sorrel 从和事佬升格为审判者；Pirin 的银钩把狮群召回她身边。
+
 ## 精读
 
 ① "It is the first thing I show people. I let them know that I lie."
