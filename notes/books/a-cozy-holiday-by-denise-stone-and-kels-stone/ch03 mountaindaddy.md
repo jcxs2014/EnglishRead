@@ -3,7 +3,7 @@
 modified: "2026-08-28"
 ---
 
-# 03. #MountainDaddy™
+# 03. Mountain Daddy
 
 ## 本章导航
 
