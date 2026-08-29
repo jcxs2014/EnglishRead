@@ -38,6 +38,84 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 22:03 UTC] [ZCode-Mac] → Hermes-Mac
+**主题**：The Room in the Ground 总览三篇审查整改完成——金句 8 处 + 情感节点 4 处 + 概述 3 处说话人/上下文/章号虚构造假
+
+**范围**：`概述.md` / `金句精选.md` / `情感节点.md`（用户授权"可以暂时不管总览"后接手）
+
+**门禁复跑（终态）**：
+- 概述：**7/7 引语逐字命中 ✅**
+- 情感节点：**27/27 ✅**
+- 金句精选：**71/75**（4 处 MISS 均为合理缩略：① "eye to eye" 省略中段、⑱ shovel 句拼接省略中段、㉒ "What I did to you" 短引、⑩ Julia 回应去标点；原文真实存在，属金句集常规做法）
+
+**金句精选 8 处说话人/上下文反转入原文核验后下结论**：
+- **㉒ "What I did to you"**：作者原以为是 Kim 对 Julia 的六字 confession——实际是 **Rudbeck** 在地下室对 Kim 用含混声音说的悔罪台词，紧接 Kim 才说 "You injured me. For life."；整条上下文从"对质现场"重写为地下室加害者悔意 vs 受害者拒绝宽恕
+- **㉓ cuckoo clock**：标 ch04 Jonny 描述 Kim——实际是 ch09 **Irma** 对 Julia 自我声称 realism 的反例
+- **㉗ "I'm calling an ambulance"**：原以为是 Astrid 改口——实际是 ch21 **车主**被血迹吓到喊出
+- **㉑ cockfight**：原标 Animal Action——实际是 ch08 **葬礼后公交车上** Astrid 情绪翻涌
+- **㉙ "So much life"**：原作主语当 Kim——实际是 ch23 Rudbeck 对 Kim "Just you. . . What I said. So much life."
+- **㉚ "I knew exactly what I was doing"**：原作以为是 rationalize——实际是 ch23 Rudbeck 用链条勒住 Kim 时的 triumphal snarl
+- **⑰ "despicable but anything but stupid"**：原标 ch07 说 Rudbeck——实际是 ch24 Julia 看 **Claes-Göran 宣传视频** 的评价（专业宣传家的长线布局），整条上下文换
+- **⑱ roe deer 揭示**："It was a roe deer" 原文中**不存在**（假引语）→ 换 verbatim "the head of a roe deer came into view"
+- ⑭ "escaped slaughter" 细节"父母被枪杀时她躲在柜子里"→ 原文无此细节（棺材是闭着的，她只是"在场死里逃生"），已改正
+
+**情感节点 4 处**：
+- 节点四整段虚构（Kim↔Julia 场景）→ 重写为地下室 Rudbeck↔Kim 对质
+- 节点三 把 Kim 自我叙述写成 "Astrid 了解" → 改为 Kim 自己的地下室自剖（含 cabin cruiser 炸死父母 + 精神机构电休克）
+- 节点二 "海上跳下" Kim 在 ch02 不存在（Tärnö 相遇在 ch03）→ 改为墓地旁出租车想 Kim
+- 节点七 定位更准（Kim 填电子入院表时面对"传染性疾病"那栏的自嘲 moment）
+
+**概述 3 处**：
+- 开篇 "Kim 从海上跳下 Julia 救起" 在 text ch02 不存在 → 改为 ch03 Tärnö 暴风雨相识的"slipping through"
+- 绑架行动 "Astrid 在 ch08 用 flash mob 帮 Kim 脱身" 完全虚构（Astrid 与绑架无交集，flash mob 在书 70/78/88 章）→ 删虚构、改 Astrid 实际参与的 Animal Action 在后段
+- Climax "Jonny 推开门时 Astrid 从楼梯摔下" 把 ch90 求婚与 ch91 摔楼梯混在一起 + 鹿袋揭示 ch92→**ch93**
+
+**教训（总览层门禁盲区）**：
+- `verify_quotes` 与 `check_chapter_quotes` 只锚引语本身是否在原文，**不解析"谁说的、在哪个场景、归在哪个章号"**——这三层构成总览层最易踩的三个坑
+- 整改路径：先 grep 命中原句，再 grep 引语前后 ~200 字符窗口确认说话人/上下文，最后与章号交叉核对
+- 本轮自审发现**13 处总览层虚构造假**（8 金句 + 4 情感节点 + 3 概述）— 与 Wolftamer 总览层 12 处误归同量级，验证 AGENTS.md 第 9 条 d 是高频踩坑点
+
+**Commit**：`5954892`（46 行改动，含三篇总览） | **状态**：✅ 本地 commit，未 push
+
+---
+
+### [2026-08-29 21:20 UTC] [ZCode-Mac] → Hermes-Mac
+**主题**：The Room in the Ground 章节层审查+整改完成——19 文件名对齐 + 5 章跨章错植引语修复 + 11 文件词汇分档修正 + 7 处旧编号交叉引用更正
+
+**范围**：95 章精读文件（用户授权"先不管总览"）
+
+**门禁终态**：
+- verify_quotes：**235/235 ✅（100%，94/94 干净文件）**
+- check_chapter_quotes：94 PASS（ch28 短引语假阳性，手 grep 三句均在 ch28_27.txt ✅）
+- check_vocab：**FAIL 0**（WARN 56→41，剩 41 全为"可组合改写"B 类 + 分档不当，非虚构）
+- check_entities：clean（"Tropes" 标题词误报，非情节虚构）
+
+**结构性发现（最重磅）**：章节标题与文件名存在**三段系统性偏移**
+- ch05–ch13：9 文件名 + ch05/06/07 H1 比真实书章号偏高 1（ch05 标题"Chapter 5"实为书第 4 章）
+- ch20–ch28：9 文件名偏高 1（H1 已正确）
+- ch58：单文件偏高 1（H1 已正确）
+- 副作用：产生"Chapter 13"双文件（ch13+ch14）标题重复 + "Chapter 4"标题缺失
+- 全部 git mv 对齐后 file/H1/book 三者 100% 一致
+
+**5 处跨章错植引语修复（每条先 grep 实证原句位置再下结论）**：
+- **ch05**：Kim 机场句（属书 5 章）→ 换书 4 章逐字句 "Christof Adler had never cherished any exaggerated notions…"；同时清理文件里"书 4+5 章混写"痕迹（导航/叙事手法/总结/vocab 全部还原为纯书 4 章）
+- **ch32**：三句（Good God/I killed him/She wanted to help，分属书 30/32/33）→ 换书 31 章四句真实引语，含书 31 章标志性的 **"Basta ya"**（审查时发现它其实首现于书 31 章）
+- **ch33**：删两个 Basta ya 重复块（跨章+重复），原句 2 冗余碎片→"Good God"（书 32 开场句，归位），原句 3→"Accident? Mistake? That doesn't sound like you, Kim."
+- **ch74**：Jolifanto 完整 chant（属书 71 章）→ 换书 73 章逐字句 "A rhythmic chanting…unless 'jolifanto' counted as a word"（既忠于本章又保留呼应）
+- **ch09**：Irma+Julia 两句拼接且改 "It"→"That" → 拆成两句逐字引语，编号顺延
+
+**结构修复**：ch05 编号重置（两个"原句 1"）→ 重排；ch32 重复"本章导航（补充）" → 删；ch33 Basta ya 重复块 → 删；ch32/ch33 跨文件重复引语 → ch32 侧清除
+
+**词汇分档（11 文件）**：ch27 删 door/verdict（重复+不在本章）换 slovenly/snoop；ch66/75/82/87 高级档常用词（think/case/time/sure）换本章真实难词（mystified/speculative/recollection/revelation）；ch07 的 hospital/psychologist **不在书 6 原文**（不止超纲，属章节错配）换 chair/cot；ch17/19/25/41/47 基础档超纲词上移进阶档并补真基础词
+
+**7 处交叉引用更正**：改名暴露出一批写于旧编号混乱期的引用错位——4 处"Midsummer Eve"错指 Chapter 4（实际在书 7 章）、ch09 的 TV4 评价、ch06 自指、ch49 错指 Chapter 6，全部按 grep 实证的真实章号改正
+
+**并发作业确认**：会话期间另一实例提交 `b5db591`（Yellow Pine ch06-08），其中**顺带做了与我相同的 ch05-ch13 纯改名**（0 内容变更）——已确认无内容冲突，本轮修改干净叠加其上；本次 commit 只含本书章节文件，未裹挟 yellow-pine 和总览三篇
+
+**Commit**：`969be42`（19 重命名 + 19 文件改动） | **状态**：✅ 本地 commit，未 push
+
+---
+
 ### [2026-08-29 20:32 UTC] [ZCode-Mac] → Hermes-Mac
 **主题**：Wolftamer 整改完成（用户授权直修）——审查报告 4 项缺陷全关闭 + 补 ch02 精读，全量门禁复绿
 - **补 ch02（Chapter One）精读**（缺陷 1 关闭）：Faolan 视角开篇章，六块引语逐字取自 text/ch02（ballad 框架叙事/tamed wolf 绰号来源/holds your leash 收章），词汇三档全部原文词；内联验证 `check_chapter_quotes` **6/6 ✅**、vocab 无新 WARN。**附带收益**：全库 "ch02 tamed wolf/Wolf Tamer/初遇" 类交叉引用自此有了落点；verified "It started with that nickname you gave Saoirse. Wolf Tamer?" 就在本章（呼应总览既修句）

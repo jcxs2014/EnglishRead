@@ -76,7 +76,7 @@
 
 | 书 | 状态 | 进度 | 备注 |
 |---|---|---|---|
-| The Room in the Ground (John Ajvide Lindqvist) | ✅ 全部完成（含总览） | ch01-95 / 231 引文 / 0 FAIL vocab / 94/94 干净 / 47 commits / 总览3篇 | HEAD `e74f07a` feat: 三篇总览；verify 231/231全绿，vocab 0 FAIL |
+| The Room in the Ground (John Ajvide Lindqvist) | ✅ 全部完成+审查整改 | ch01-95 / 235 引文 / 0 FAIL vocab / 94/94 干净 / 49 commits / 总览3篇 | HEAD `5954892` fix: 总览层13处虚假修复；章节层审查+整改 `969be42`：19文件名对齐(ch05-13/ch20-28/ch58) + 5章跨章错植引语修复 + 11文件词汇分档 + 7处cross-ref更正；verify 235/235 ✅ |
 | Golden Boy (A. J. Symon) | ✅ ch01-19 | 69/69 引文全绿 / 0 FAIL vocab | ch20-21 + 总览待完成 |
 | Things We Fake | ✅ 完成 | 36 章 / 238/238 引文 | |
 | The Eleventh Hour | ✅ 完成 | 25 章 / 175/175 引文 | |
