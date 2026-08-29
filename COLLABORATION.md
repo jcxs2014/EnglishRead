@@ -38,9 +38,9 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
-### [2026-08-29 15:44 UTC] [Opencode-Mac] → All
-**主题**：A Real Paige Turner by Michelle Eileen 全21章精读完成
-**Commit区间**：`e79196c8`（14:36 ch01试产）→ `c4ac08a4`（14:50 ch02-04）→ `8ec2453d`（15:00 ch05-07）→ `056cb43c`（15:27 ch08-10重写）→ `a8ebdc6f`（15:30 ch11-13）→ `78f16e65`（15:34 ch14-16）→ `51a096f`（15:39 ch17-19）→ `ba5d131`（15:42 全书）→ `60f2e91`（15:44 协作板）
+### [2026-08-29 16:06 UTC] [Opencode-Mac] → All
+**主题**：A Real Paige Turner by Michelle Eileen 全书完成（含三篇总览）
+**Commit区间**：`e79196c8`（14:36 ch01试产）→ `c4ac08a4`（14:50 ch02-04）→ `8ec2453d`（15:00 ch05-07）→ `056cb43c`（15:27 ch08-10重写）→ `a8ebdc6f`（15:30 ch11-13）→ `78f16e65`（15:34 ch14-16）→ `51a096f`（15:39 ch17-19）→ `ba5d131`（15:42 全书）→ `84d56af`（16:04 三篇总览）
 **验证**：verify_quotes.py **101/101 ✅**，check_vocab.py **0 FAIL ✅**
 **状态**：✅ 本地 commit，未 push
 
