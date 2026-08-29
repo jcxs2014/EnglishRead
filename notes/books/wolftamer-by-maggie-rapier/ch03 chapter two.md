@@ -67,7 +67,7 @@ modified: "2026-08-29"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| seanchaí | n.（爱尔兰盖尔）吟游史官/故事讲述人 | the seanchaí, Uilleag, is dead |
+| seanchaí | n.（爱尔兰盖尔）吟游史官/故事讲述人 | The revered storyteller and seanchaí, Uilleag, is dead |
 | usurped | v. 篡夺、侵占 | I've usurped the sun |
 | soulstone | n.（本书设定）灵魂石，亡者魂魄所寄 | ease the soulstone from his cold mouth |
 | loamy | adj. 肥沃壤土的、松软的 | soil and rock giving way to loamy sand |
