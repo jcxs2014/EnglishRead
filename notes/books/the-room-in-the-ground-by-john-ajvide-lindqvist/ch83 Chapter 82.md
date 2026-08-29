@@ -7,7 +7,7 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Jonny 早上醒来收到 Carmen 的短信说 Rudbeck 的物品已secured；他回顾了和 Moa 的夜晚，两人喝咖啡后准备去 lab 处理 passport。
+- **一句话概括**：Jonny 早上醒来收到 Carmen 的短信说 Rudbeck 的物品已 secured；他回顾了和 Moa 的 night 两人喝咖啡后准备去 lab 处理 passport；他的 desire to put Kim behind bars 被 personal happiness 取代。
 - **情感弧线位置**：Jonny 和 Moa 的 intimacy 后——Jonny 的 personal life 和 professional life 开始 balance。
 - **Tropes 兑现/反转**：Jonny 的 vulnerability——他和 Moa 的 lovemaking 让他感到 younger。
 - **人物弧线**：Jonny 的 relationship——他开始 want this relationship with Moa。
@@ -33,12 +33,12 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 3:** "Things had gotten a bit wild there at first."
+> **原句 3:** "His desire to put Kim Ribbing behind bars suddenly seemed far, far away."
 
-- 中文理解：事情一开始有点疯狂。
-- 关键词：Jonny 和 Moa 的 first night；他们的 awkward beginning。
-- 为什么这样写：Jonny 回顾他们的 lovemaking——一开始有 awkwardness，然后变得"marvelous"。这是一个关于 vulnerability 和 intimacy 的评论。
-- 读者视角提示：Jonny 的 sexual confidence 被 Moa 恢复了。
+- 中文理解：他把 Kim Ribbing 投入监狱的欲望突然变得非常遥远。
+- 关键词：Jonny 的 shifted priorities；他的 personal vs professional。
+- 为什么这样写：Jonny 和 Moa 的 night 改变了他的 perspective——他的 personal happiness 现在比抓捕 Kim 更重要。
+- 读者视角提示：Jonny 的 obsession with the case 开始减弱。
 
 ## 本章词汇
 

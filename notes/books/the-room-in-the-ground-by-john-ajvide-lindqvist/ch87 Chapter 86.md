@@ -7,7 +7,7 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Moa 确认 Kim Ribbing 的指纹在 Rudbeck 的护照和手机上（98% 确定）；Jonny 兴奋地说"Good God"——他们终于有足够的证据申请搜查令了。
+- **一句话概括**：Moa 确认 Kim Ribbing 的 fingerprint 在 Rudbeck 的 passport 和手机上（98% 确定）；Jonny 兴奋地说"Good God"——他们终于有足够的 evidence 申请搜查令了。
 - **情感弧线位置**：investigation breakthrough——Jonny 和团队终于有了确凿证据。
 - **Tropes 兑现/反转**：evidence——fingerprint match 是 detective story 的关键证据。
 - **人物弧线**：Jonny 的 vindication——他的 instinct about Kim 被证实了。

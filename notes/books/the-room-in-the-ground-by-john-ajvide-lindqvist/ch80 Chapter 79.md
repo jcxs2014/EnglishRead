@@ -7,11 +7,11 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Christof 在监视 Kim 的别墅，看到 Kim 拿着铲子出来挖土；Julia 和 Astrid 到达，Christof 观察到他们的互动，Kim 注意到被 surveillance。
-- **情感弧线位置**：convergence——多个 storyline 在 Kim 的别墅汇聚。
-- **Tropes 兑现/反转**：surveillance——Christof 监视 Kim，但 Kim 察觉到了。
-- **人物弧线**：Christof 的 romantic subplot——他给 Cecilia 发调情短信但被 Matilda 收到。
-- **叙事手法**：Christof 的 POV——他的 surveillance duty 和内心独白。
+- **一句话概括**：Christof 在树林里监视 Kim 的别墅，看到 Kim 拿着 shovel 出来挖土；他注意到 Julia 和 Astrid 到达但听不到他们在说什么。
+- **情感弧线位置**：Christof 的 surveillance duty——他在执行 Jonny 的命令。
+- **Tropes 兑现/反转**：surveillance——Christof 正在观察一个 criminal。
+- **人物弧线**：Christof 的耐心——他在无聊的监视中保持专注。
+- **叙事手法**：Christof 的 POV——他的 surveillance notes 和内心独白。
 
 ## 精读
 
@@ -24,21 +24,21 @@ modified: "2026-08-29"
 
 ---
 
-> **原句 2:** "What the hell?"
+> **原句 2:** "An excavation was imminent in the back garden."
 
-- 中文理解：搞什么鬼？
-- 关键词：Christof 的 confusion；他的 observation。
-- 为什么这样写：Christof 看到 Kim 拿着铲子出来，感到困惑。这是他的 detective instinct 的反应。
-- 读者视角提示：Christof 不知道 Kim 在计划什么。
+- 中文理解：后花园即将进行挖掘。
+- 关键词：Christof 的 anticipation；他的 observation。
+- 为什么这样写：Christof 看到 Kim 拿着铲子去后花园——他推测即将进行挖掘。这是一个关键的 detective observation。
+- 读者视角提示：联系 Chapter 65-66——Kim 的 Tärnö 计划。
 
 ---
 
-> **原句 3:** "KR comes out with shovel, walks to garden."
+> **原句 3:** "Astrid seemed upset."
 
-- 中文理解：KR 拿着铲子出来，走向花园。
-- 关键词：Christof 的 surveillance note；他的 documentation。
-- 为什么这样写：Christof 记录下他的 observation——这是一个 surveillance report 的格式。他的笔记格式显示了他的 methodical nature。
-- 读者视角提示：Christof 正在追踪 Kim 的行动。
+- 中文理解：Astrid 似乎很不安。
+- 关键词：Astrid 的 emotional state；她的 frustration。
+- 为什么这样写：Astrid 对 Julia 和 Kim 的互动感到 upset——她是唯一能"take charge"的成年人。她的 frustration 显示了她对 adults 的失望。
+- 读者视角提示：Astrid 的情绪和她作为照顾者的角色相关。
 
 ## 本章词汇
 
@@ -47,8 +47,8 @@ modified: "2026-08-29"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | surveillance | 监视；监控 | surveillance |
-| observation | 观察；观察结果 | observation |
 | excavation | 挖掘；发掘 | excavation |
+| observation | 观察；观察结果 | observation |
 
 ### ⭐⭐ 进阶
 
@@ -68,4 +68,4 @@ modified: "2026-08-29"
 
 ## 一句话总结
 
-Christof 在别墅外监视 Kim，看到他拿铲子出来挖土，Julia 和 Astrid 到达，Christof 记录下他们的互动。
+Christof 在别墅外监视 Kim，看到他拿铲子出来挖土，Julia 和 Astrid 到达但他听不到他们在说什么。

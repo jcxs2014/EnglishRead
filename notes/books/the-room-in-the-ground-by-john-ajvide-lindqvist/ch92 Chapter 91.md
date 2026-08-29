@@ -7,38 +7,38 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：hearse 到来，Kim 让 funeral home 的 Björn 和 Albin 把装着 Martin Rudbeck 遗体的 seaman's chest 带走；Julia 编了一个关于 Rudbeck 想要海葬的故事；chest 被放入 hearse 开走。
-- **情感弧线位置**：disposal——Kim 和 Julia 的 plan 成功执行。
-- **Tropes 兑现/反转**：funeral——Rudbeck 的 body 被以 Johan Andersson 的名义火化。
-- **人物弧线**：Julia 的 commitment——她帮助 Kim 完成 disposal。
-- **叙事手法**：Kim 的 plan execution——他的 meticulous planning 得到回报。
+- **一句话概括**：hearse 到来，funeral home 的 Björn 和 Albin 把装着 Martin Rudbeck 遗体的 seaman's chest 带走；Julia 编了一个关于 Rudbeck 想要海葬的故事；chest 被装进 hearse。
+- **情感弧线位置**：disposal 的最后阶段——Rudbeck 的遗体被运走。
+- **Tropes 兑现/反转**：body disposal——Kim 的 plan 成功完成。
+- **人物弧线**：Julia 的 commitment——她帮助 Kim 的 disposal plan。
+- **叙事手法**：场景切换——从 police search 到 funeral home 的 hearse。
 
 ## 精读
 
-> **原句 1:** "Yes, well, this is rather, uh . . . unconventional."
+> **原句 1:** "It was his dying wish," said Julia. "Sailing was his passion. He was mad about the sea."
 
-- 中文理解：是的，这个相当……不寻常。
-- 关键词：Björn 的反应；他对 unconventional request 的 discomfort。
-- 为什么这样写：funeral manager Björn 觉得用 seaman's chest 装运尸体是非常不寻常的——这是他们的 plan 的关键弱点之一。
-- 读者视角提示：联系 Chapter 44——Rudbeck 的 dying wish 故事是 Julia 编造的。
+- 中文理解：这是他临终的愿望，Julia 说。航海是他的热情。他对海疯狂痴迷。
+- 关键词：Julia 的 cover story；她的 quick thinking。
+- 为什么这样写：Julia 编造了 Rudbeck 想要海葬的故事——这是一个 quick thinking 的时刻。她用这个 story 来解释 seaman's chest 的存在和里面的船长帽。
+- 读者视角提示：Julia 的 ability to think on her feet 救了 Kim。
 
 ---
 
-> **原句 2:** "It was his dying wish," said Julia. "Sailing was his passion."
+> **原句 2:** "Okay, then. All we have to do is load it and take him away."
 
-- 中文理解：这是他临终的遗愿，Julia 说。航海是他的热爱。
-- 关键词：Julia 的 lie；她的 storytelling ability。
-- 为什么这样写：Julia 编造了 Rudbeck 想要海葬的故事——这是一个 theatrical lie。她的 novelist 技能在这里派上用场。
-- 读者视角提示：Julia 的 novelist 身份帮助了 Kim 的 plan。
+- 中文理解：好的。那么，我们只需要把它装上车然后把他带走。
+- 关键词：Björn 的 acceptance；他的 professionalism。
+- 为什么这样写：Björn 接受了这个 job——他不想问太多问题。这显示了 funeral home 的 professionalism。
+- 读者视角提示：这是 disposal plan 的最后一步。
 
 ---
 
 > **原句 3:** "Kim and Julia held hands and waved as the vehicle glided away along Lidovägen."
 
-- 中文理解：Kim 和 Julia 手牵手，挥手告别，车辆沿着 Lidovägen 滑行而去。
-- 关键词：他们的 relief；他们的 shared secret。
-- 为什么这样写：这是他们的 plan 成功的时刻——他们 shared secret 和 relief。这是一个 emotional 的时刻。
-- 读者视角提示：Rudbeck 的 disposal 完成，但 Jonny 的调查仍在进行。
+- 中文理解：Kim 和 Julia 手牵手，当车沿着 Lidovägen 滑行离开时，他们挥手。
+- 关键词：Kim 和 Julia 的 connection；他们的 shared secret。
+- 为什么这样写：Julia 和 Kim 挥手目送 hearse 离开——他们共同完成了这个 plan。这是一个 moment of connection。
+- 读者视角提示：这个挥手是他们关系的 pivotal moment。
 
 ## 本章词汇
 
@@ -46,26 +46,26 @@ modified: "2026-08-29"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| finish | 完成 | finish |
 | funeral | 葬礼 | funeral |
-| unconventional | 不寻常的 | unconventional |
+| carry | 携带；搬运 | carry |
+| burial | 埋葬 | burial |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| hearse | 柩车 | hearse |
 | chest | 箱子 | chest |
-| vehicle | 车辆 | vehicle |
-| basement | 地下室 | basement |
+| sea | 海 | sea |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| hand | 手 | hand |
-| door | 门 | door |
-| wish | 愿望 | wish |
+| car | 车 | car |
+| body | 身体 | body |
+| end | 结束 | end |
 
 ## 一句话总结
 
-hearse 到来，Julia 编造海葬故事，Björn 和 Albin 把装着 Rudbeck 的 chest 带走火化，Kim 和 Julia 松了一口气挥手告别。
+hearse 到来，funeral home 的人把装着 Rudbeck 遗体的箱子运走，Julia 编造海葬故事，箱子被装进柩车。

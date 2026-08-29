@@ -7,11 +7,11 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Jonny 在 Moa 的公寓组装 IKEA 家具，两人有亲密时刻；Julia、Kim 和 Astrid 在地下室 scrub Martin Rudbeck 的痕迹；Algot 在家打游戏想念 Astrid；凌晨 Sören Bolinder 从泰国回来，Carmen 在 Arlanda 机场接他，拿回 Rudbeck 的护照和手机。
-- **情感弧线位置**：多条 storylines 的 convergence——所有角色在同一时间不同地点行动。
-- **Tropes 兑现/反转**：parallel editing——同一时间不同地点的多个 storyline 交叉剪辑。
-- **人物弧线**：Julia 的 commitment——她帮助 Kim scrub 证据。
-- **叙事手法**：时间跳跃——从晚上 10 点到凌晨 4 点的多个角色的同一晚上。
+- **一句话概括**：同一时间不同地点——Jonny 在 Moa 的 apartment 组装 IKEA 家具；Julia、Kim 和 Astrid 在 basement 清洁犯罪现场；Algot 在家打游戏；凌晨 Sören Bolinder 从泰国回来，Carmen 在 Arlanda 机场拿到 Rudbeck 的 passport 和手机。
+- **情感弧线位置**：多条 storylines 的 convergence——同一时间不同地点的多条线汇聚。
+- **Tropes 兑现/反转**：parallel editing——同一晚上多个角色的生活交叉剪辑。
+- **人物弧线**：Julia 的 commitment——她帮助 Kim 处理尸体。
+- **叙事手法**：时间跳跃——从晚上10点到凌晨4点的时间线推进。
 
 ## 精读
 
@@ -19,8 +19,8 @@ modified: "2026-08-29"
 
 - 中文理解：地下室充满了 Ajax 和漂白剂的气味。
 - 关键词：Julia 的 cleaning；她的 crime scene cleanup。
-- 为什么这样写：Julia、Kim 和 Astrid 在 scrub 地下室的证据——这是他们 disposal plan 的一部分。他们在消除 Rudbeck 的生物痕迹。
-- 读者视角提示：联系 Chapter 53——Rudbeck 的尸体在地下室。
+- 为什么这样写：Julia、Kim 和 Astrid 在清洁地下室的证据——这是他们 disposal plan 的一部分。他们在消除 Rudbeck 的生物痕迹。
+- 读者视角提示：联系 Chapter 65——Rudbeck 的尸体在地下室。
 
 ---
 
@@ -68,4 +68,4 @@ modified: "2026-08-29"
 
 ## 一句话总结
 
-Jonny 和 Moa 在公寓组装 IKEA 家具，Julia、Kim 和 Astrid scrub 地下室证据，Algot 在家想念 Astrid，凌晨 Sören 从泰国回来，Carmen 拿到 Rudbeck 的护照和手机。
+Jonny 在 apartment 组装 IKEA 家具，Julia、Kim 和 Astrid 清洁 basement，Algot 在家想念 Astrid，凌晨 Sören 从泰国回来，Carmen 拿到 Rudbeck 的 passport 和手机。

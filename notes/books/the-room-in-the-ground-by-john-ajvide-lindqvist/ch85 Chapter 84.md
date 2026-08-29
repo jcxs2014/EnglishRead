@@ -19,7 +19,7 @@ modified: "2026-08-29"
 
 - 中文理解：越快越好？
 - 关键词：Carmen 对 Jonny 的观察；他的 communication style。
-- 为什么这样写：Carmen 指出 Jonny 对 Moa 说话太命令式——"the quicker, the better"听起来像是对下属说话，而不是对 lover说话。这是一个关于 gender dynamics 和 communication 的评论。
+- 为什么这样写：Carmen 指出 Jonny 对 Moa 说话太命令式——"the quicker, the better"听起来像是对下属说话，而不是对 lover 说话。这是一个关于 gender dynamics 和 communication 的评论。
 - 读者视角提示：Jonny 的 professional communication style 正在伤害他的 personal relationship。
 
 ---

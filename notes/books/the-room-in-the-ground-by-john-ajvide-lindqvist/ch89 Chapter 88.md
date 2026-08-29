@@ -7,8 +7,8 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Astrid 在 Fältöversten flash mob 后成功逃脱，她用wig、cap和Santa Muerte衬衫制造了false trail；她打车离开，希望给 Kim 和 Julia 争取时间。
-- **情感弧线位置**：Astrid 的 deception成功——她的 flash mob 是她精心策划的 distraction。
+- **一句话概括**：Astrid 在 Fältöversten flash mob 后成功逃脱，她用 wig、cap 和 Santa Muerte 衬衫制造了 false trail；她打车离开，希望给 Kim 和 Julia 争取时间。
+- **情感弧线位置**：Astrid 的 deception 成功——她的 flash mob 是她精心策划的 distraction。
 - **Tropes 兑现/反转**：Astrid 的 master plan——她的 flash mob 是精心策划的，而不只是为了宣传。
 - **人物弧线**：Astrid 的 intelligence——她比成年人都更懂得如何操作局面。
 - **叙事手法**：Astrid 的 POV——她回顾自己的 flash mob 和对结果的满意。
@@ -28,7 +28,7 @@ modified: "2026-08-29"
 
 - 中文理解：她希望她用长距离漫步铺设的 false trail 能给 Kim 和 Julia 足够的时间做他们需要做的事。
 - 关键词：Astrid 的 sacrifice；她的 selfless help。
-- 为什么这样写：Astrid 用自己作为 distraction——她花钱打车、买wig，帮助 Kim 和 Julia。这是她的 selfless 行为。
+- 为什么这样写：Astrid 用自己作为 distraction——她花钱打车、买 wig，帮助 Kim 和 Julia。这是她的 selfless 行为。
 - 读者视角提示：Astrid 的动机是帮助 Kim，而不是为了自己。
 
 ## 本章词汇
@@ -59,4 +59,4 @@ modified: "2026-08-29"
 
 ## 一句话总结
 
-Astrid 在 Fältöversten flash mob 后用wig、cap和Santa Muerte衬衫制造 false trail，成功逃脱，希望给 Kim 和 Julia 争取时间。
+Astrid 在 Fältöversten flash mob 后用 wig、cap 和 Santa Muerte 衬衫制造 false trail，成功逃脱，希望给 Kim 和 Julia 争取时间。

@@ -7,7 +7,7 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Christof 在别墅外继续监视，带了 parabolic microphone；他看到 Kim 穿着 Santa Muerte 衬衫出来，走向 Gärdet 方向；Christof 决定跟踪 Kim 而不是监视别墅。
+- **一句话概括**：Christof 在别墅外继续监视，带了 parabolic microphone 和 cushion；他看到 Kim 穿着 Santa Muerte 衬衫出来，走向 Gärdet 方向；他决定跟踪 Kim 而不是监视别墅。
 - **情感弧线位置**：Christof 的 boredom——他的 surveillance duty 开始无聊。
 - **Tropes 兑现/反转**：surveillance——Christof 从 observer 变成 follower。
 - **人物弧线**：Christof 的 patience——他在无聊的 surveillance 中保持专注。
@@ -15,9 +15,9 @@ modified: "2026-08-29"
 
 ## 精读
 
-> **原句 1:** "A hedgehog waddled out from the bushes, softly snuffling."
+> **原句 1:** "A hedgehog waddled out from the bushes."
 
-- 中文理解：一只刺猬从灌木丛中摇摇晃晃地走出来，轻轻地嗅着。
+- 中文理解：一只刺猬从灌木丛中摇摇晃晃地走出来。
 - 关键词：Christof 的 boredom；他的环境观察。
 - 为什么这样写：Christof 太无聊了，以至于 hedgehog 成为他一天的"high point"。这强调了他的孤独和无聊。
 - 读者视角提示：Christof 是一个 social creature，他不喜欢独自一人。
@@ -26,7 +26,7 @@ modified: "2026-08-29"
 
 > **原句 2:** "Santa Muerte."
 
-- 中文理解： Santa Muerte（墨西哥死亡圣神）。
+- 中文理解：Santa Muerte（墨西哥死亡圣神）。
 - 关键词：Kim 的 Santa Muerte 衬衫；他的 identity。
 - 为什么这样写：Christof 认出 Kim 的衬衫——这是 Santa Muerte，墨西哥的死亡圣神。这和 Kim 的 criminal 身份以及他处理尸体的行为形成 thematic resonance。
 - 读者视角提示：Santa Muerte 是死亡相关的主题，和小说中的尸体处理主题相呼应。
