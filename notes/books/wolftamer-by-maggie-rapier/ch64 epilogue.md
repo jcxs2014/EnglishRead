@@ -8,7 +8,7 @@ modified: "2026-08-29"
 ## 本章导航
 
 - **一句话概括**：数年后，Saoirse 在床边给女儿 Gráinne 讲七神（Slaughtered Ones）故事，小女要听海盗不要听神。Faolan 抱婴 Cillian 入，二人争讲——他泄露"你娘几乎跳海追我、还斩了石王"。唱改词版 Daughter of the Knowing Sea。交代后续：Kiara 冬至登 Ríona Ard，Aidan 归岛、Callen 回 Claw、Aisling 戴祖母盔；Lost Souls 池成常水。新船命名 Nessa。终："We are mortals. Mythmakers. Legends." / "Legends don't die."——收 ch41 标语。
-- **情感弧线位置**：ch63 重逢后的"岁月静好与传说封印"章——"Legends don't die" 把 ch41 原标语、ch62 "all we're made of stories"、ch63 "Legends don't d—" 收成全书环；"We are mortals. Mythmakers. Legends" 写出他们从凡人到 legend 的弧；Nessa 船名把 ch50 死、ch2 团魂写成纪念；Gráinne "要听海盗" 把 ch2 初遇、ch41 "I've made you a pirate" 推到下一代。
+- **情感弧线位置**：ch63 重逢后的"岁月静好与传说封印"章——"Legends don't die" 把 ch41 原标语、ch62 "all we're made of stories"、ch63 "Legends don't d—" 收成全书环；"We are mortals. Mythmakers. Legends" 写出他们从凡人到 legend 的弧；Nessa 船名把 ch50 死、ch2 团魂写成纪念；Gráinne "要听海盗" 把 ch2 初遇、ch14 "I'm a pirate" 推到下一代。
 - **叙事手法**：卧室（星图被、婴啼、夫妻拥女）作尾声舞台；七神名单（Odhrán 至 Muireal）把 ch28 七神、ch33 翻案收成传给孩子的"史"；改词歌谣（ocean eyes / Daughter of Knowing Sea）回扣 ch62 Faolan 海上歌；结尾 "Legends don't die" 如全书最后一声。
 - **人物弧光**：Saoirse 从 ch14 困岛女神、ch35 殉、ch61 弑敌、ch63 自承 pirate，到此成讲故事的母——魔仍在脉却"无羞无符，是温柔的觉他"；Faolan 从 ch1 狂傲王、ch62 与 Wolf 和解，到此为夫为父，"Trouble" 昵妻、讲狼与海怪哄女；wolves 的后续（Kiara 登位、Aidan 归、Callen 回、Aisling 戴盔）把 ch2 团魂写成各得其所。
 
@@ -23,14 +23,14 @@ modified: "2026-08-29"
 ② "'Mam, I don't want to hear about the gods. I want to hear about the pirates!'"
 - 中文理解："妈，我不想听神。我要听海盗！"
 - 关键词：want to hear about the pirates（要听海盗）
-- 为什么这样写：Gráinne 童言，把 ch2 初遇、ch41 "I've made you a pirate"、ch63 "I really am a pirate" 推到下一代——她要的是父母不是神。
+- 为什么这样写：Gráinne 童言，把 ch2 初遇、ch14 "I'm a pirate"、ch63 "I really am a pirate" 推到下一代——她要的是父母不是神。
 - 读者视角提示：呼应 ch2 初遇、ch63 承海盗，读者见这 goddess 之女只要海盗故事，全书身份弧落子辈。
 
 ③ "'You are a pirate, my love. Look at you, stealing more hours right now when you ought to be in bed.'"
 - 中文理解："你是海盗，亲爱的。看你现在偷时辰不睡。"
 - 关键词：You are a pirate（你是海盗）
-- 为什么这样写：Saoirse 对 Gráinne 的昵，把 ch41 造海盗、ch63 自承收成母女间玩笑；写出她终以 pirate 为荣。
-- 读者视角提示：呼应 ch41 造海盗、ch63 承海盗，读者见她从 ch14 拒离岛到以此逗女，身份全然翻转。
+- 为什么这样写：Saoirse 对 Gráinne 的昵，把 ch14 "I'm a pirate"、ch63 自承收成母女间玩笑；写出她终以 pirate 为荣。
+- 读者视角提示：呼应 ch14 自称海盗、ch63 承海盗，读者见她从 ch14 拒离岛到以此逗女，身份全然翻转。
 
 ④ "'Your own mother,' Faolan says, dropping his voice like it's a secret, 'almost leapt into the sea after me. She felled the Stone King to do it, too.'"
 - 中文理解："你娘，" Faolan 压声如秘，"几乎跳海追我。她还斩了石王。"
@@ -83,4 +83,4 @@ modified: "2026-08-29"
 
 ## 一句话总结
 
-**Epilogue 是"岁月静好与传说封印"章：数年后 Saoirse 在床边给女儿 Gráinne 讲七神（Slaughtered Ones）故事，小女要听海盗不要听神——把 ch2 初遇、ch41 "I've made you a pirate" 推到下一代。Faolan 抱婴 Cillian 入，泄"你娘几乎跳海追我、还斩了石王"（ch61），唱改词版 Daughter of the Knowing Sea（回扣 ch62 海上歌、ch28 骨戒誓，Unbound soul 写出她终自由）。交代后续：Kiara 冬至登 Ríona Ard（替 Maccus/Frozen Hearth/Ashen Flame）、Aidan 归岛、Callen 回 Claw、Aisling 戴祖母盔；Lost Souls 池成常水（ch37 逼吞、ch61 解契了）。新船命名 Nessa（ch50 死、ch2 团魂写成纪念）。终："We are mortals. Mythmakers. Legends." / "Legends don't die."——收 ch41 标语、ch62 故事观、ch63 "Legends don't d—"。读者随那句"Legends don't die"才懂：全书从 ch2 "喜鹊吻狼" 起、到"Wolf 归喜鹊"、到"凡人成 Legend" 终，环成；而 Saoirse 从 ch14 困岛女神、ch35 殉、ch61 弑敌、ch63 自承 pirate，到此成讲故事的母——魔仍在脉却"无羞无符，是温柔的觉他"，英雄叙事彻底让位给活着的、造故事的凡人。**
+**Epilogue 是"岁月静好与传说封印"章：数年后 Saoirse 在床边给女儿 Gráinne 讲七神（Slaughtered Ones）故事，小女要听海盗不要听神——把 ch2 初遇、ch14 "I'm a pirate" 推到下一代。Faolan 抱婴 Cillian 入，泄"你娘几乎跳海追我、还斩了石王"（ch61），唱改词版 Daughter of the Knowing Sea（回扣 ch62 海上歌、ch28 骨戒誓，Unbound soul 写出她终自由）。交代后续：Kiara 冬至登 Ríona Ard（替 Maccus/Frozen Hearth/Ashen Flame）、Aidan 归岛、Callen 回 Claw、Aisling 戴祖母盔；Lost Souls 池成常水（ch37 逼吞、ch61 解契了）。新船命名 Nessa（ch50 死、ch2 团魂写成纪念）。终："We are mortals. Mythmakers. Legends." / "Legends don't die."——收 ch41 标语、ch62 故事观、ch63 "Legends don't d—"。读者随那句"Legends don't die"才懂：全书从 ch2 "喜鹊吻狼" 起、到"Wolf 归喜鹊"、到"凡人成 Legend" 终，环成；而 Saoirse 从 ch14 困岛女神、ch35 殉、ch61 弑敌、ch63 自承 pirate，到此成讲故事的母——魔仍在脉却"无羞无符，是温柔的觉他"，英雄叙事彻底让位给活着的、造故事的凡人。**

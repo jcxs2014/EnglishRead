@@ -8,7 +8,7 @@ modified: "2026-08-29"
 ## 本章导航
 
 - **一句话概括**：Saoirse 在甲板嘶"Come back"、欲跃海寻 Faolan，被 Lorcan/Tavin 拦。她崩溃——"He promised me!"，忆一生丧亲（Conal、Nessa），以为终得自由却失他。正当众人围慰，Faolan 自海归，滴盐站甲板、痞笑："Legends don't d—" 被她扑回。二人拥吻，wolves 依次拥他。Kiara 唤"cousin" 释前怨。Saoirse："我真是海盗了？"他："So you are, love." 他收尾："It all started the night the Magpie kissed the Wolf."
-- **情感弧线位置**：ch62 上浮、ch61 弑敌后的"死别翻生"章——Faolan 归把 ch60 跳、ch61 "gone"、ch62 上浮写成虚惊，全书最大反转；Saoirse "He promised me" 把 ch43 "I love you"、ch58 "together"、ch61 吼海收成她要的不是神是活夫，此处夫归；"I really am a pirate now" 回扣 ch2 初遇、ch41 "I've made you a pirate"——她终承身份。
+- **情感弧线位置**：ch62 上浮、ch61 弑敌后的"死别翻生"章——Faolan 归把 ch60 跳、ch61 "gone"、ch62 上浮写成虚惊，全书最大反转；Saoirse "He promised me" 把 ch43 "I love you"、ch58 "together"、ch61 吼海收成她要的不是神是活夫，此处夫归；"I really am a pirate now" 回扣 ch2 初遇、ch14 "I'm a pirate"——她终承身份。
 - **叙事手法**：甲板（风掀发、众人围）作生还舞台；"He's gone" 三叠如丧钟，被 Faolan 出场斩；"Legends don't d—" 未完被扑，回扣 ch41 原标语、ch62 "all we're made of stories"——legend 在此被爱盖；结尾 Magpie/Wolf 句把 ch2 初遇（magpie wing 臂、wolf tamed）收成全书环。
 - **人物弧光**：Saoirse 从 ch14 困岛女神、ch35 殉、ch51 被辱、ch61 弑敌，到此以"扑回拥夫" 写成完整的人——她不再是 lamb 也不是 goddess，是失而复得、自承 pirate 的妻子；Faolan 从 ch1 狂傲王、ch41 legend、ch62 与 Wolf 和解，到此以"trickster" 自嘲归队，英雄叙事彻底让位给丈夫/海盗；wolves 的依次拥写出 ch2 团魂终圆。
 
@@ -41,8 +41,8 @@ modified: "2026-08-29"
 ⑤ "'I really am a pirate now, aren't I?'"
 - 中文理解："我真成海盗了，对吧？"
 - 关键词：really am a pirate now（真成海盗）
-- 为什么这样写：Saoirse 见己弑 Maccus 后自承，回扣 ch2 初遇、ch41 "I've made you a pirate"；写出她终承 ch14 拒离岛后的身份。
-- 读者视角提示：呼应 ch2 初遇、ch41 造海盗，读者见这 goddess 至此自认 pirate，全书身份弧闭合。
+- 为什么这样写：Saoirse 见己弑 Maccus 后自承，回扣 ch2 初遇、ch14 "I'm a pirate"；写出她终承 ch14 拒离岛后的身份。
+- 读者视角提示：呼应 ch2 初遇、ch14 自称海盗，读者见这 goddess 至此自认 pirate，全书身份弧闭合。
 
 ⑥ "'It all started the night the Magpie kissed the Wolf.'"
 - 中文理解："一切始于喜鹊吻狼那夜。"

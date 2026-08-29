@@ -7,10 +7,10 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Maccus 入 Ashen Flame 堡议和，携真 Clodagh 之钵与枯槁的 Etain（被逼显"藏了五十年之真相"）。他摊牌：要 Saoirse 献祭入知海"再造魔"，并扬言七神非生而神、是夺魔而成——她是"听话的羔羊"。Tavin 掷刀伤其手，Maccus 当众吞魂石愈手、以"医 Etain" 诱 Aisling。Saoirse 终斥："你造不出任何东西，我见过你的灵魂。"他："那便无可失。"
+- **一句话概括**：Maccus 入 Ashen Flame 堡议和，携真 Clodagh 之钵与枯槁的 Etain（被逼显"藏了五十年之真相"）。他摊牌：要 Saoirse 献祭入知海"再造魔"，并扬言七神非生而神、是夺魔而成——她是"听话的羔羊"。Brona 掷刀伤其手（Tavin/Lorcan 拽开 Saoirse 掩护），Maccus 当众吞魂石愈手、以"医 Etain" 诱 Aisling。Saoirse 终斥："你造不出任何东西，我见过你的灵魂。"他："那便无可失。"
 - **情感弧线位置**：ch49 灰帆压境后的面对面摊牌章——Maccus 把 ch44 通牒、ch33 翻案坐实成"献祭 Saoirse 入知海"；"obedient little lamb" 是 ch2 "tamed wolf" 的镜像羞辱，她以"见过你的灵魂"（ch35 幻象）反杀。Etain 枯槁写出 ch44 人质线的代价。
 - **叙事手法**：堡厅（无王座，plain travel clothes）作对峙舞台；Clodagh 真钵现（abalone 嵌、金剥唇）回扣 ch45 伪钵、ch44 集器；"Slaughtered Ones" 回扣 ch46 Maira 被杀、ch28 七神之死；carnyx 再起如战前鼓。
-- **人物弧光**：Saoirse 从 ch45 "拒躲"、ch47 "家在狼群" 到此成直面敌的审判者——"seen your soul" 把 ch35 吞石幻象变武器；Maccus 的"make magic anew / seven gods" 把 ch33 成神升级为"七神共治" 的极权梦；Tavin（ch41 伤腿）掷刀显 wolves 护她不惜破规。
+- **人物弧光**：Saoirse 从 ch45 "拒躲"、ch47 "家在狼群" 到此成直面敌的审判者——"seen your soul" 把 ch35 吞石幻象变武器；Maccus 的"make magic anew / seven gods" 把 ch33 成神升级为"七神共治" 的极权梦；Tavin（ch41 伤腿）与 Lorcan 曳开 Saoirse 作掩护，Brona 掷刀显 wolves 护她不惜破规。
 
 ## 精读
 
@@ -35,8 +35,8 @@ modified: "2026-08-29"
 ④ "'Get your fecking hands off my friend!'"
 - 中文理解："把你他妈的手从我朋友身上拿开！"
 - 关键词：Get your fecking hands off（拿开你手）
-- 为什么这样写：Tavin 掷刀伤 Maccus 手后的吼，写出 wolves 破规护她；"friend" 把 ch2 "Wolf Tamer" 的羁绊喊成实词。
-- 读者视角提示：呼应 ch41 伤腿、ch30 "we believe in you"，读者见这导航员不惜破议和规也要护她。
+- 为什么这样写：Brona 掷刀伤 Maccus 手后的吼（原文 "Brona steps back, another knife in her hand" 的 "another" 自证首刀也是她掷的），写出 wolves 破规护她；"friend" 把 ch2 "Wolf Tamer" 的羁绊喊成实词。
+- 读者视角提示：呼应 ch26 "act like a pirate"、ch30 "we believe in you"，读者见这狼群不惜破议和规也要护她。
 
 ⑤ "'You'll create nothing. You forget, Maccus, I've seen your soul.'"
 - 中文理解："你造不出任何东西。你忘了，Maccus，我见过你的灵魂。"
@@ -77,4 +77,4 @@ modified: "2026-08-29"
 
 ## 一句话总结
 
-**Chapter Fifty 是"堡厅摊牌"章：Maccus 携真 Clodagh 之钵与枯槁的 Etain（被逼显藏了五十年的真相）入 Ashen Flame 堡，摊牌要 Saoirse 献祭入知海"再造魔"，并翻案七神非生而神、是夺魔而成——她只是"听话的羔羊"。Tavin 掷刀伤其手，Maccus 当众吞魂石愈手、以"医 Etain" 诱 Aisling。Saoirse 终以 ch35 幻象为武器斥："你造不出任何东西，我见过你的灵魂。"他应："那便无可失。"读者随那句"obedient little lamb"才懂：ch2 的"驯狼" 在此被敌用作羞辱镜，而她以"seen your soul" 把这镜砸碎——谈判崩，决战起。**
+**Chapter Fifty 是"堡厅摊牌"章：Maccus 携真 Clodagh 之钵与枯槁的 Etain（被逼显藏了五十年的真相）入 Ashen Flame 堡，摊牌要 Saoirse 献祭入知海"再造魔"，并翻案七神非生而神、是夺魔而成——她只是"听话的羔羊"。Brona 掷刀伤其手，Maccus 当众吞魂石愈手、以"医 Etain" 诱 Aisling。Saoirse 终以 ch35 幻象为武器斥："你造不出任何东西，我见过你的灵魂。"他应："那便无可失。"读者随那句"obedient little lamb"才懂：ch2 的"驯狼" 在此被敌用作羞辱镜，而她以"seen your soul" 把这镜砸碎——谈判崩，决战起。**

@@ -18,7 +18,7 @@ modified: "2026-08-29"
 - 中文理解："别管了，Trouble。都过去了。"
 - 关键词：Leave it（别管了）、Trouble（Faolan 对 Saoirse 昵称）
 - 为什么这样写：Saoirse 忆 Faolan 拒收她补好的旧外套——他挥开 coat 说"都过去了"，显出他当时对"伤痕"的回避；nickname "Trouble" 写出他的亲昵。
-- 读者视角提示：呼应 ch02 "Trouble?"、ch28 她抚血迹旧 coat，读者见他不愿面对自己被 Maccus 所伤的那段。
+- 读者视角提示：呼应 ch03 "looking all over for you, Trouble"、ch28 她抚血迹旧 coat，读者见他不愿面对自己被 Maccus 所伤的那段。
 
 ② "'The Knowing Sea does not lie. Our time is coming to an end.'"
 - 中文理解："知海从不说谎。我们的时日将尽。"

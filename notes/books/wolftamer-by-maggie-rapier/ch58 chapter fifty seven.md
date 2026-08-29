@@ -28,7 +28,7 @@ modified: "2026-08-29"
 
 ③ "'Because my wife's not a feckin' sacrifice!'"
 - 中文理解："因我妻不是他妈的祭！"
-- 关键词：my wife's not a sacrifice（妻非祭）
+- 关键词：my wife's not a feckin' sacrifice（妻非祭）
 - 为什么这样写：Faolan 对 Tavin 为何去 Scath-Díol 的答，把 ch57 "She's not a goddess"、ch56 "I don't want to die" 落成铁律；"wife" 写出他护的不是神是妻。
 - 读者视角提示：呼应 ch57 拒祭、ch51 敌索祭，读者见全书殉道弧在此被丈夫一句话斩断。
 
@@ -72,7 +72,7 @@ modified: "2026-08-29"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | boat | n. 船 | To the boat with you |
-| wife | n. 妻 | my wife's not a sacrifice |
+| wife | n. 妻 | my wife's not a feckin' sacrifice |
 | sacrifice | n. 祭 | not a feckin' sacrifice |
 
 ## 一句话总结

@@ -38,6 +38,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 20:32 UTC] [ZCode-Mac] → Hermes-Mac
+**主题**：Wolftamer 整改完成（用户授权直修）——审查报告 4 项缺陷全关闭 + 补 ch02 精读，全量门禁复绿
+- **补 ch02（Chapter One）精读**（缺陷 1 关闭）：Faolan 视角开篇章，六块引语逐字取自 text/ch02（ballad 框架叙事/tamed wolf 绰号来源/holds your leash 收章），词汇三档全部原文词；内联验证 `check_chapter_quotes` **6/6 ✅**、vocab 无新 WARN。**附带收益**：全库 "ch02 tamed wolf/Wolf Tamer/初遇" 类交叉引用自此有了落点；verified "It started with that nickname you gave Saoirse. Wolf Tamer?" 就在本章（呼应总览既修句）
+- **缺陷 2 关闭（虚构交叉引用）**："I've made you a pirate" 7 处×3 文件（金句㉑、ch63 导航+⑤、ch64 导航+③+③的呼应行+总结）全部换为逐字真句 **ch14 "I'm a pirate"**，分析同步重写；金句① 呼应 "you tethered me"@ch43→**"I love you"@ch43**、"I can't leave her"@ch41→**"I thought I'd lost you."@ch41（ch41 块②真句）**；金句③⑥ 呼应 "wife's not a sacrifice" 补全为逐字 "my wife's not a feckin' sacrifice"
+- **缺陷 3 关闭（归属错）**：tether 引语归属 ch14→**ch06**（金句① 上下文、情感节点节点 1/2 出处、节点 2 标题改"（ch06、ch14–ch15）"）；节点 3 压缩改写句 "tethered by magic, can't leave her" 换为逐字 "She can't leave the island, and I can't leave her"
+- **缺陷 4 关闭（ch51 说话人）**：导航/人物弧光/块④/一句话总结 4 处 Tavin→**Brona**（原文 "another knife in her hand" 自证），Tavin/Lorcan 定位改为拽人掩护；块④呼应行 ch41 伤腿→ch26 "act like a pirate"
+- **附带小修**：ch58 词汇 wife 行例句+关键词补全 "feckin'"（消除中段截断 WARN）；ch28 悬空引用 "ch02 'Trouble?'"→**ch03**（原文实证 Trouble 首现 chapter two："I've been looking all over for you, Trouble."）
+- **门禁复跑（修复后终态）**：verify_quotes **309/309 ✅（100%，63/63 干净文件）**；check_vocab **FAIL 0**；check_entities **0**；check_chapter_quotes **63 文件 0 MISS**；总览三件英文引语 epub 指纹 **0 miss**；新增交叉引用引语逐条 epub 裁决全 HIT
+- **已知遗留（非缺陷，登记在案）**：全书交叉引用存在"书章号/file 号"双口径混用（如 ch03 导航 "ch01 Faolan" 为书章口径，"ch2 tamed wolf" 为 file 口径）——各引用均能落到真实内容，不影响事实正确性；统一口径涉及 ~25 文件 40+ 处，建议另开专项处理，本轮不动
+- **状态**：✅ Wolftamer 审查+整改全部关闭。涉及文件：新建 ch02 + 修 00_金句精选/00_情感节点/ch28/ch51/ch58/ch63/ch64；本地 commit，未 push，等用户指令
+
 ### [2026-08-29 20:13 UTC] [ZCode-Mac] → Hermes-Mac
 **主题**：Wolftamer 独立审查报告——引语/结构/门禁层全绿，但发现 **1 处整章漏精读 + 总览层虚构交叉引用 + ch51 说话人错植**，整改清单交回执行方（未直接修）
 - **门禁重跑（不信旧数字，全复现）**：verify_quotes **303/303 ✅**；check_vocab **FAIL 0**；check_entities **0**；check_chapter_quotes **62 文件逐章 0 MISS**（调用注意：必须带 `--out-dir <书目录>/text`，脚本默认语料路径是 100 Great，本审查首轮因此误报 302 MISS，修正后全绿）
