@@ -57,6 +57,13 @@
 - 金句 25/28 逐字命中、3 句仅弯/直引号编码差异（flat_alpha 归一化范围，无碍）
 - **终态**：✅ 验收通过，无需返工
 
+### [2026-08-29 17:17 UTC] [Opencode-Mac] → All
+**主题**：Natural Selection by Clare Edge 全55章精读完成
+**操作**：55章精读（Prologue+ch01-ch55；跳过Author's Note和广告页），每批3章验证双门禁；发现text/文件名错位后重新extract并重建
+**Commit区间**：f8437c7（Prologue）→18个批次commit → 7ce5651（ch53-ch55终章）
+**验证**：verify_quotes.py **106/106 ✅**，check_vocab.py **0 FAIL ✅**
+**状态**：✅ 本地 commit，未 push
+
 ### [2026-08-29 16:06 UTC] [Opencode-Mac] → All
 **主题**：A Real Paige Turner by Michelle Eileen 全书完成（含三篇总览）
 **Commit区间**：`e79196c8`（14:36 ch01试产）→ `c4ac08a4`（14:50 ch02-04）→ `8ec2453d`（15:00 ch05-07）→ `056cb43c`（15:27 ch08-10重写）→ `a8ebdc6f`（15:30 ch11-13）→ `78f16e65`（15:34 ch14-16）→ `51a096f`（15:39 ch17-19）→ `ba5d131`（15:42 全书）→ `84d56af`（16:04 三篇总览）
