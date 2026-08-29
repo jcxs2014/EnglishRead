@@ -165,6 +165,16 @@
       ```
 
    **本质**：把"先生成后检查"变为"边生成边验证"——核验是生成的最后一个步骤，而非 commit 前的一个可选检查站。
+9. **引语修复同步规则**（2026-08-29 新增，源于全库 24 书语义对应审计：~20 处"引语已换、分析停旧句"在 verify_quotes 全绿下漏网）：
+
+   > 背景：verify_quotes 只锚引语层。100G ch86 ⑧⑨⑩（引语 "You wanted to cover me up..."，分析却在讲"你没有叔叔"）、Angelic Death 概述（Sam 写成侦探、假结局）等缺陷全部出在分析/总结/词汇/总览层——这些层不进引语提取口径，属门禁盲区，必须靠流程规则补位。
+
+   a. **修复即同步**：引语被替换/拆分/补全时，该块下方**全部分析子项**（中文理解/句子结构/关键词/表达方式/为什么这样写等）必须基于新引语重写，禁止"改引语留分析"。
+   b. **关键词回查**：块内"关键词"的英文词必须能在该块引语中找到（允许词形变化）；语境延伸词必须在"为什么这样写"中有呼应，否则替换为引语逐字词。
+   c. **结构完整**：拆分/删除引语块后必须重排编号保持连续；每块必须"引语行 + 全部分析子项"齐全，孤儿块（有分析无引语）与重复块（同引语出现两次）均视为缺陷。
+   d. **总览层事实核对**：概述/情感节点/金句集的人物身份、人物关系、结局走向、叙事结构（如是否双时间线）必须与章节精读文件交叉核对；金句集引语必须逐字取自原文（过 verify_quotes 同口径）。
+   e. **逐章归属校验推广**：凡有 `text/` 逐章提取件的书，核验一律加跑 `check_chapter_quotes.py`（取消原"100 Great 专用"限定）——防跨章/跨故事搬句（Schweblin 05 实证）。
+   f. **审查任务书附反例**：委派代理做语义审查时，指令必须附 1–2 个本库真实失败案例（如 100G ch86 ⑧"引语讲遮盖、分析讲没有叔叔"）——实证表明不带反例的审查指令漏报率显著偏高。
 
 ### 配套工具链（scripts/，2026-08-27 固化）
 
@@ -174,7 +184,7 @@
 | `verify_quotes.py` | 引语块逐字核对门禁 | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
-| `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句，100 Great 专用） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
+| `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
 | `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
