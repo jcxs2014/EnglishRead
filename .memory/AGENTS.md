@@ -192,6 +192,18 @@ print('OK' if flat(q) in corpus else 'MISS')
 - A Real Paige Turner 概述虚构 POV、戒指来源；情感节点 3 处假引语
 - Golden Boy / In a Heartbeat / Paige Turner 三本书累计 6 处审查代理幻觉报警——报警前须先确认引语行与中文理解行真实存在于同一 md 且相邻
 
+#### Room in the Ground 实战补强（2026-08-29，71d909c SOP 增补）
+
+> 五步审查 SOP 落地时撞出的额外条款，与上节"经验性条款"互补但侧重**结构性 + 跨章 + 并发**。
+
+- **章节标题/文件名系统性偏移——必须全库 audit，不能只查首尾**：本轮发现 19 个文件名 + 3 个 H1 比真实书章号偏高 1，集中在 ch05–ch13 / ch20–ch28 / ch58 三段（块状聚集），非随机散布。**预防**：审查第一步上 `audit_book.py` 后，必须补一次自写脚本对每文件 filename-chapter vs H1-chapter vs text-suffix（book-chapter）三者交叉比对，发现 >2 个连续偏移即可判定有块状命名坑
+- **说话人反转是总览层高发坑（SOP 第 1 类仅列"角色身份"虚构，未含"同一句被转引为不同说话人"）**：金句 ㉒ "What I did to you" 原作者以为是 Kim 对 Julia 的 confession，实为 ch12 **Rudbeck** 对 Kim 的悔罪台词——同一英文逐字命中，但总览层说话人完全反转。**预防**：总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人，并把说话人名与原始章节精读的说话人核对一致
+- **cliffhanger 跨章场景——前一章以悬念收尾、对话在后一章展开时，禁止把整场戏的引语放进前一章**：金句 ㉑ cockfight 误标为 Animal Action（实为葬礼巴士）、㉒ What I did to you 误归 Kim——都是把"前一章末尾铺垫 + 后一章展开"对话压缩归在前章。**预防**：总览层核对时，遇到两章边界的引语必须同时读前后章 text/ 各 ~100 行确认引语实际发生章节
+- **复合引语/拼接句按所属说话人分别核实**：ch09 把 Irma 的 "...cuckoo clock..." 与 Julia 的 "It was a comic touch!" 拼成一句（拼接两句）；ch74 "Jolifanto" 单词在本章但完整 chant "Jolifanto bambla ô falli bambla!" 在前两章（半句归本句）；verify_quotes 靠 flat 前缀匹配会让尾段非逐字漏网。**预防**：引语长度 >40 字符且含 `…` 或 `. . .` 中段省略的，必须单独 grep 前后两段确认各自落在原文何处
+- **跨实例并发纯改名 commit——验证"修改干净叠加无内容冲突"是审计之外的并发安全条款**：会话期间另一实例提交 `b5db591`（Yellow Pine ch06-08）顺带做了与我相同的 ch05-ch13 纯改名（0 内容变更），本轮修改干净叠加。**预防**：审查期间若 `git pull` 后发现 `git log` 出现新 commit 涉及本任务文件，立即 `git show <新commit> --stat` 与自己未提交修改比对；冲突时按"内容优先于文件名"裁定取舍
+- **check_chapter_quotes 对长篇同样必要——非短篇合集专属**：71d909c SOP 第 2 步已要求但 Room 这轮实证出长篇 5 章跨章错植（ch05/ch32/ch33/ch74/ch09），均为前次 commit 漏网。**预防**：长篇审查时尤其要跑 check_chapter_quotes，特别是 `--out-dir` 必须指向本书 text/（脚本默认是 100 Great 路径，否则会全量误报）
+- **章节编号错位会联动 cross-ref 失效**：ch13 改"Chapter 12"后，4 处写于旧编号期的"Midsummer Eve 在 Chapter 4"引用实际全在书 7 章；批量整改 TV4 审片（ch03 vs ch04）、Animal Action（ch24 vs ch06）等 7 处 cross-ref。**预防**：执行阶段凡改任何章节标题/H1/文件名，必须全库 grep "Chapter N" 引用（N∈[改前值,改后值]）逐条核对落点
+
 ### git 与协作规则
 - `git add` 只加本任务明确路径（禁 `-A` / `.`），commit 前检查 `git status` 防混入他实例修改
 - COLLABORATION.md 看板更新：**追加到表格末尾**（用最后一行作锚点 patch），禁止中间插入
