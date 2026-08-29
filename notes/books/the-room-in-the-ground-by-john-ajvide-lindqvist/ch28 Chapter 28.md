@@ -47,14 +47,12 @@ modified: "2026-08-29"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | wild | 疯狂的；狂野的 | she'd been wild and loose |
-| independence | 独立；自主 | independence from Kim |
+| reggae | 雷鬼音乐 | reggae beat |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| reggae | 雷鬼音乐 | reggae beat |
-| weed | 大麻 | weed |
 | espresso | 浓缩咖啡 | espresso |
 
 ### ⭐ 基础
