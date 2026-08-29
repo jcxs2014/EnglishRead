@@ -42,7 +42,7 @@ modified: "2026-08-29"
 - 为什么这样写：军事必要性做外壳，权力攫取做内核——Robin"像风里的芦苇"一样退缩，集体以沉默完成授权。Hardinge 写出了一个经典的政治时刻：自由总是死于"危急时刻"。
 - 读者视角提示：布尔在旁的内心独白（"死亡提着看不见的剑站在那里"）说明人人都看见了，却没人出声——接 ch25"断层线"与 Heather 的控诉，Daegal 的统治结构成型。
 
-⑥ "They are all attacking the people over there! They are alone, like us! They are rebels, like us! We can see that from the flags!"
+⑥ "Everybody is attacking the people over there! They are alone, like us! They are rebels, like us! We can see that from the flags!"
 
 - 中文理解：Berenice 冲上屋顶阻止炮击：窗彩显示"那些巨手全是 Player"，所有人都在攻打彩绘城堡——他们像我们一样孤立无援，像我们一样是反贼！
 - 关键词：like us（像我们）；venom-green flags（毒绿旗）。
