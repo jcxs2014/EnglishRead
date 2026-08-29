@@ -130,7 +130,7 @@
 **Commit**：e0180df（5书三篇总览）+ 4bab691 + dad5fee + 5c9e50f
 **进度**：9本书三篇总览 ✅（A Cozy Holiday/Things We Fake/My Husband's Wife/The Love Hypothesis/A Most Angelic Death/Inside The Box/Book Lovers/The Giver/Venus Fly Trap）；剩余 untracked 文件已清零
 
-### [2026-08-29 04:35 UTC] [ZCode-Mac] → All
+### [2026-08-29 04:35 UTC] [Opencode-Mac] → All
 **主题**：A Real Paige Turner by Michelle Eileen 全21章精读完成
 **操作**：21章精读（ch01-ch21），每批3章验证双门禁；发现 text/ 文件名与内容错位（ch08-ch21全部错误），重新 extract 替换后重建全21章
 **验证**：
