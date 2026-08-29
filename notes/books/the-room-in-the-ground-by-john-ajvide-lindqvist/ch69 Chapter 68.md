@@ -7,38 +7,38 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Jonny 向 Carmen 和 Christof 展示 dashcam 视频——但现在视频里是一个卷发的中年男人，不是 Kim Ribbing；Carmen 指出这不是 Kim，Jonny 坚持说被篡改了；Christof 出发去 riot duty。
-- **情感弧线位置**：investigation twist——Jonny 看到的 Kim 影像被 digital manipulation 了。
-- **Tropes 兑现/反转**：deep fake reveal——Ces 真的篡改了 dashcam 视频。
-- **人物弧线**：Jonny 的 obsession——他坚持相信自己看到的，但证据不支持他。
-- **叙事手法**：Jonny 的 detective scene——他展示视频的高潮时刻。
+- **一句话概括**：Jonny 展示 dashcam 视频——但视频里是一个卷发的中年男人，不是 Kim；Christof 和 Carmen 都说不是 Kim，Jonny 坚持视频被篡改了。
+- **情感弧线位置**：investigation 的转折——证据指向了错误的方向。
+- **Tropes 兑现/反转**：dashcam 视频被 deep fake 替换。
+- **人物弧线**：Jonny 的 obsession——他坚信自己看到的。
+- **叙事手法**：三人场景——Jonny、Carmen、Christof 观看视频。
 
 ## 精读
 
-> **原句 1:** ""That's a hell of a thing," said Christof. "So there was somebody inside the ambulance. I thought—""
+> **原句 1:** "That's a hell of a thing," said Christof. "So there was somebody inside the ambulance."
 
-- 中文理解："这真是见鬼了"，Christof 说。"所以真的有人在救护车里面。我以为——"
+- 中文理解：这真是见鬼了，Christof 说。所以救护车里面真的有人。
 - 关键词：Christof 的 realization；他们的 discovery。
-- 为什么这样写：Christof 意识到真的有人在 ambulance 里面——这证实了他们之前的 suspicion。dashcam 拍到了证据。
-- 读者视角提示：联系 Chapter 56-57——他们一直在调查 ambulance 里的尸体。
+- 为什么这样写：Christof 意识到救护车里有人——这改变了他们对 case 的理解。但他们看到的人不是 Kim。
+- 读者视角提示：这是 investigation 的关键转折。
 
 ---
 
-> **原句 3:** "That's not Kim Ribbing. No resemblance at all."
+> **原句 2:** "That's not Kim Ribbing. No resemblance at all."
 
-- 中文理解：那不是 Kim Ribbing。一点都不像。
-- 关键词：Carmen 的 observation；她对 Kim 的识别。
-- 为什么这样写：Carmen 指出视频里的人不是 Kim——Jonny 看到的是 deep fake。Ces 真的做到了 digital face swap。
-- 读者视角提示：联系 Chapter 67——Ces 说"Nice curls, right?"
+- 中文理解：那不是 Kim Ribbing。完全不像。
+- 关键词：Carmen 的 observation；她的 skepticism。
+- 为什么这样写：Carmen 直接说这不是 Kim——她的 objectivity 和 Jonny 的 bias 形成对比。她没有被 Jonny 的坚持所说服。
+- 读者视角提示：Carmen 的 forensic expertise 使她能够保持客观。
 
 ---
 
-> **原句 4:** "It was Ribbing," growled Jonny Munther and clenched his jaws.
+> **原句 3:** "It was Kim Ribbing! Just now!"
 
-- 中文理解：是 Ribbing，Jonny Munther 低吼着，咬紧牙关。
-- 关键词：Jonny 的 certainty；他的 obsession。
-- 为什么这样写：Jonny 坚持相信自己看到的——他不愿意接受被骗的事实。他的 detective instinct 和 personal stake 在冲突。
-- 读者视角提示：Jonny 和 Kim 之间有 personal history，他的 bias 影响了他的判断。
+- 中文理解：就是 Kim Ribbing！就是刚才！
+- 关键词：Jonny 的 certainty；他的 insistence。
+- 为什么这样写：Jonny 坚持他看到的是 Kim——他的 certainty 是基于他自己的亲眼所见。但 video now shows something else。
+- 读者视角提示：Jonny 的 obsession 让他无法接受其他解释。
 
 ## 本章词汇
 
@@ -46,26 +46,26 @@ modified: "2026-08-29"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| manipulation | 操纵；篡改 | manipulation |
-| resemblance | 相似；相似之处 | resemblance |
-| obsession | 执着；困扰 | obsession |
+| obsession | 痴迷 | obsession |
+| alteration | 篡改 | alteration |
+| certainty | 确定性 | certainty |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| riot | 暴动 | riot |
+| ambulance | 救护车 | ambulance |
 | video | 视频 | video |
-| helmet | 头盔 | helmet |
+| dashcam | 行车记录仪 | dashcam |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| screen | 屏幕 | screen |
+| face | 脸 | face |
 | police | 警察 | police |
-| office | 办公室 | office |
-| car | 车 | car |
 
 ## 一句话总结
 
-Jonny 展示被篡改的 dashcam 视频——里面的脸已换成卷发男人，Carmen 指出不是 Kim，Jonny 坚持声称被骗了。
+Jonny 展示 dashcam 视频——显示卷发男人而非 Kim，Christof 和 Carmen 都说不是 Kim，Jonny 坚持视频被篡改。

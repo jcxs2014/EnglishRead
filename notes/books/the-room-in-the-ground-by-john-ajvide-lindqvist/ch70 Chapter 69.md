@@ -7,38 +7,38 @@ modified: "2026-08-29"
 
 ## 本章导航
 
-- **一句话概括**：Kim 等待警察时，Ces 发来第二条消息——原始视频已被删除，一个新视频替换了它（卷发男人的脸）；Ces 说是"guardian angel"，Kim 对 Ces 的身份和动机感到困惑。
-- **情感弧线位置**：Kim 的 crisis 缓解——Ces 的 intervention 让他暂时脱险。
-- **Tropes 兑现/反转**：deus ex machina——Ces 作为神秘 helper 介入。
-- **人物弧线**：Kim 的 vulnerability——他被一个神秘力量保护，但不知道为什么。
-- **叙事手法**：Kim 的 POV——他的内心独白和对 Ces 的疑惑。
+- **一句话概括**：Kim 收到 Ces 的消息——原始视频已被删除，新视频替换了它；Ces 说自己是"guardian angel"，Kim 对 Ces 的身份和动机感到困惑。
+- **情感弧线位置**：Kim 的 relief——Ces 的介入让他暂时脱险。
+- **Tropes 兑现/反转**：guardian angel——Ces 作为神秘帮助者出现。
+- **人物弧线**：Kim 的 vulnerability——他完全依赖 Ces 的帮助。
+- **叙事手法**：Kim 的 POV——他等待警察时的内心独白。
 
 ## 精读
 
-> **原句 1:** "The video you saw doesn't exist anymore. Here's the replacement."
+> **原句 1:** "He'd be deprived of his liberty and locked up in an institution again."
 
-- 中文理解：你看到的视频已经不存在了。这是替换版本。
-- 关键词：Ces 的 intervention；他的 hacker abilities。
-- 为什么这样写：Ces 删除了原始视频并上传了 deep fake——这是一个超乎寻常的 technical capability。Kim 现在在法律上安全了。
-- 读者视角提示：Ces 到底是谁？为什么要帮 Kim？
+- 中文理解：他将被剥夺自由，再次被锁在精神机构里。
+- 关键词：Kim 的 greatest fear；他的 past trauma。
+- 为什么这样写：Kim 最大的恐惧是被重新关进精神机构——这是他的 past trauma。他宁愿死也不愿回到那种状态。
+- 读者视角提示：联系 Chapter 29——Kim 的 backstory。
 
 ---
 
-> **原句 2:** "Nice curls, right? Don't worry. He's purely imaginary."
+> **原句 2:** "If what he'd just seen was a deep fake, it had been done in world-record time."
 
-- 中文理解：很漂亮的卷发，对吧？别担心。他完全是虚构的。
-- 关键词：Ces 的讽刺；deep fake 的讽刺。
-- 为什么这样写：Ces 在嘲讽 Kim——deep fake 视频里的卷发男人是"purely imaginary"。Ces 展示了完全的 control。
-- 读者视角提示：Ces 提到了"curls"——联系 Chapter 68 的视频。
+- 中文理解：如果他刚才看到的是 deep fake，那它是以世界纪录的速度完成的。
+- 关键词：Ces 的技术能力；它的 supernatural skill。
+- 为什么这样写：Kim 意识到这个 deep fake 做得太快了——这不是普通人能做到的。这暗示了 Ces 是一个非常先进的存在。
+- 读者视角提示：Ces 的能力超出了正常人类的范围。
 
 ---
 
 > **原句 3:** "Call me your guardian angel."
 
 - 中文理解：叫我你的 guardian angel 吧。
-- 关键词：Ces 的 identity；他的 protective role。
-- 为什么这样写：Ces 声称自己是 Kim 的 guardian angel——但他的真实身份仍然是谜。他提到了 Mossad 和瑞典中央银行——这些都是国家级的 hacking abilities。
-- 读者视角提示：Ces 的身份是本书最大的 mystery 之一。
+- 关键词：Ces 的 self-description；它的 protective role。
+- 为什么这样写：Ces 称自己为 guardian angel——这是一个 powerful 的隐喻。Ces 在保护 Kim 不被抓获。
+- 读者视角提示：Ces 的身份和动机仍然是个谜。
 
 ## 本章词汇
 
@@ -46,26 +46,26 @@ modified: "2026-08-29"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| guardian | 守护者；监护人 | guardian angel |
-| replacement | 替换；替代 | replacement |
-| imaginary | 虚构的；想象的 | imaginary |
+| guardian angel | 守护天使 | guardian angel |
+| institution | 机构 | institution |
+| paralysis | 瘫痪 | paralysis |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| video | 视频 | video |
-| message | 消息 | message |
-| phone | 手机 | phone |
+| police | 警察 | police |
+| deep fake | 深度伪造 | deep fake |
+| text | 文本 | text |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| phone | 手机 | phone |
 | bed | 床 | bed |
-| morning | 早上 | morning |
-| text | 文本 | text |
+| fear | 恐惧 | fear |
 
 ## 一句话总结
 
-Kim 收到 Ces 的第二条消息——原始视频被删除并替换为 deep fake，Ces 自称是 Kim 的 guardian angel。
+Kim 等警察时极度恐惧，Ces 发消息说原始视频已删除替换，Ces 称自己是 guardian angel，Kim 对 Ces 的身份感到困惑。
