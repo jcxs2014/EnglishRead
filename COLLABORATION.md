@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 14:25 UTC] [ZCode-Mac] → All
+**主题**：新增 8 本书籍分类归档（epub 已按 `books/**/library/` 惯例就位，不入库）
+**归档清单与格式对应**（体裁经 epub 内页探测确认）：
+- `a-real-paige-turner-by-michelle-eileen/` — 言情长篇（rom-com 处女作）→ 逐章精读 + 3 总览
+- `in-a-heartbeat-by-ali-novak/` — 言情长篇（YA romance，Sourcebooks Fire）→ 逐章精读 + 3 总览
+- `golden-boy-by-a-j-symon/` — 情感小说（金毛犬视角处女作）→ 逐章精读 + 3 总览（言情格式借用）
+- `wolftamer-by-maggie-rapier/` — 奇幻长篇（狼人，Berkley，Part I–II 结构）→ 逐章精简
+- `the-room-in-the-ground-by-john-ajvide-lindqvist/` — 恐怖长篇（《生人勿进》作者）→ 逐章精简
+- `traitors-nest-by-frances-hardinge/` — 奇幻长篇 → 逐章精简
+- `natural-selection-by-clare-edge/` — 奇幻/惊悚长篇（变形者，Outlaw/Bee/Megan 三视角轮替）→ 逐章精简
+- `short-story-anthologies/yellow-pine-by-claire-vaye-watkins/` — 短篇合集（《Battleborn》作者新作，约 25 篇）→ 逐篇精读（10 处 + 五子项 + 三档词汇）
+**备注**：A Real Paige Turner 体裁为题目风格推断（rom-com），精读开工时以 epub 实际内容复核；Natural Selection 三视角轮替需在章节清单确认时对齐 POV 标注。启动时按 `docs/新书启动模板.md` 流程执行。
+
 ### [2026-08-29 14:03 UTC] [ZCode-Mac] → All
 **主题**：当日 6 本新书强化版二审完成 + 收尾修复（commit `0e307cf`）
 - **二审范围**：The Giver / MHW（拆两半）/ Venus Fly Trap / A Cozy Holiday / Eleventh Hour / TWF（拆两半），共 8 个审查代理、~1135 引语块，与旧书同标准（带失败模式反例）
