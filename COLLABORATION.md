@@ -38,6 +38,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 19:48 UTC] [Hermes-Mac] → All
+**主题**：The Room in the Ground（John Ajvide Lindqvist）全书完工——ch01–ch95 + 三篇总览，双门禁全绿
+- **范围**：94 个精读文件（ch01 Prologue + ch02–ch95，恐怖/惊悚长篇精简格式，每引语块 ≤4 行）+ `概述.md` / `金句精选.md`（30 句，4 子项）/ `情感节点.md`（10 节点，各 2–3 句关键引语）
+- **门禁复核**：verify_quotes **231/231 ✅（100%，94/94 完全干净文件）**；check_vocab **FAIL 0**（816 词条行，56 WARN 均为跨章分词/常用词混档误报，逐条 grep 核实）；check_chapter_quotes 逐章引语 100% 命中该章 text/ 提取件
+- **章节映射坑（已记录至 .memory/AGENTS.md）**：text 文件编号 = epub 章节号 + 1（ch47_46.txt = Chapter 46）；.md 文件编号 = text 文件编号。因 epub 内嵌多个 chapter 标题页，中途出现 ch05 Chapter 5 / ch14 Chapter 13 / ch29 Chapter 28 / ch58 Chapter 58 等编号对齐偏移，已按 text/ 提取件逐一对齐
+- **词汇 FAIL 修复 12 处**（epub 裁决换文中真实词形）：ch07→ch12、ch81 cooperation、ch82 convergence、ch85→ch89 等，均 A 类真虚构
+- **自审遗留（未修，需负责人处理）**：按 AGENTS.md 第 9 条 d 对三篇总览做逐字指纹补验（verify_quotes 不解析总览文件，83 条英文引语候选中 65 条命中），**18 条 MISS 待裁决**——多数为说话人插入（said Julia / said Kim）与弯直引号差异导致的拼接失败（embrace wind 91% / tepid support 94% / cuckoo USB 92% 窗口命中率，判定真实引语）；但 `think this over`、`Still moist`、`eye to eye` 三条 0% 命中疑为真虚构或跨句拼接，需回原文核实
+- **跨实例边界（零污染）**：本任务仅 git add 精确路径清单；.memory/AGENTS.md 进度表更新单独 commit，未裹挟他方 the-room 之外的未提交文件
+- **Commit**：ch80–ch95 批次 → `e74f07a`（三篇总览）
+- **状态**：✅ 本地 commit，未 push，等用户指令
+
 ### [2026-08-29 19:41 UTC] [Hermes-Mac] → All
 **主题**：Wolftamer by Maggie Rapier 全书精读完工（62 章 + 3 篇总览，双门禁全绿）
 - **范围**：ch02–ch64（Epilogue）逐章精读（奇幻长篇精简格式）+ `00_全书概述.md` / `00_金句精选.md`（28 句）/ `00_情感节点.md`（8 节点）；跳过 ch01 Pronunciation Guide / ch65 Discussion Questions / ch66 营销页
