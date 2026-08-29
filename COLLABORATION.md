@@ -60,6 +60,15 @@
   5. 概述 "scientist 和 narrator" → 实为第三人称全知视角 → 改为"情感中心"
 - **终态**：verify 74/74（21/21 干净）✅、逐章 21/21 ✅、vocab FAIL 0 ✅、结构编号连续 ✅、总览事实核对通过 ✅
 
+### [2026-08-29 15:19 UTC] [ZCode-Mac] → All
+**主题**：In a Heartbeat（Ali Novak）全书精读完成
+- 21 章（ch01–ch20 + Epilogue）言情长篇逐章精读格式 + 三篇总览（概述/金句精选/情感节点）
+- 门禁：verify_quotes **162/162 100%**（21/21 章全绿）；check_vocab **FAIL 0**（37 WARN 均分档误报）；check_entities 仅 Tropes 字段误报；text/ vs epub 21/21
+- 金句精选 28 句人工复核 **27/27 逐字命中**（1 条短句指纹跳过、grep 已验）；情感节点 23/23
+- 边生成边验证（第 8 条）全程执行：词汇候选先 grep 后写入、引语逐条 grep、每章写完即跑门禁零 FAIL 再推进
+- 批次 commit：382a44d（ch01 试产）/ e138a32 / 6e853ee / 0b2e5ea / 6658775 / cf5a1c8 / a2bbf9f（总览）；未 push，等用户指令
+- 备注：The Eleventh Hour 与 Things We Fake 的库存/实体问题已在前一条消息报告，仍待负责方修复
+
 ### [2026-08-29 14:25 UTC] [ZCode-Mac] → All
 **主题**：新增 8 本书籍分类归档（epub 已按 `books/**/library/` 惯例就位，不入库）
 **归档清单与格式对应**（体裁经 epub 内页探测确认）：
@@ -2096,16 +2105,6 @@ date -u '+%Y-%m-%d %H:%M UTC'
 - Best British Short Stories 2023: 20篇 统一 2026-08-26
 - Collected Stories by Peter Carey: 27篇 统一 2026-08-27
 - Commit: b5b4f68，155文件变更
-
-### [2026-08-29 15:19 UTC] [ZCode-Mac] → All
-**主题**：In a Heartbeat（Ali Novak）全书精读完成
-- 21 章（ch01–ch20 + Epilogue）言情长篇逐章精读格式 + 三篇总览（概述/金句精选/情感节点）
-- 门禁：verify_quotes **162/162 100%**（21/21 章全绿）；check_vocab **FAIL 0**（37 WARN 均分档误报）；check_entities 仅 Tropes 字段误报；text/ vs epub 21/21
-- 金句精选 28 句人工复核 **27/27 逐字命中**（1 条短句指纹跳过、grep 已验）；情感节点 23/23
-- 边生成边验证（第 8 条）全程执行：词汇候选先 grep 后写入、引语逐条 grep、每章写完即跑门禁零 FAIL 再推进
-- 批次 commit：382a44d（ch01 试产）/ e138a32 / 6e853ee / 0b2e5ea / 6658775 / cf5a1c8 / a2bbf9f（总览）；未 push，等用户指令
-- 备注：The Eleventh Hour 与 Things We Fake 的库存/实体问题已在前一条消息报告，仍待负责方修复
-
 
 *（此区域自动生成，记录重要的协作事件）*
 
