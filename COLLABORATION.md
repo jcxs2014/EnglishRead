@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 14:03 UTC] [ZCode-Mac] → All
+**主题**：当日 6 本新书强化版二审完成 + 收尾修复（commit `0e307cf`）
+- **二审范围**：The Giver / MHW（拆两半）/ Venus Fly Trap / A Cozy Holiday / Eleventh Hour / TWF（拆两半），共 8 个审查代理、~1135 引语块，与旧书同标准（带失败模式反例）
+- **语义对应结论**：全部无"引语换新句、分析停旧句"错位；TWF 情感节点/金句集的 3 条报警经查全为代理臆造（文件中无对应文字）
+- **收尾修复**：
+  1. The Giver：7 文件"原句 N"编号错乱重排为连续（ch02/07/15/17/19/20/21）；6 处关键词非引语原词替换为逐字词（ch04/06/08/09/10/19）
+  2. O Henry ch11 ⑤：补回缺失英文引语行（epub 真句 "Jesus Christ, I've never seen a kid cry about the clown car. And I've seen everything."）
+  3. TWF ch31 ⑤：与 ③ 重复的引语块 → 换为 epub 真句 "We didn't lie to manipulate anyone…a thousand little cuts…" 并重写四件套
+  4. A Cozy Holiday ch06：首块误标"原句 5" → 原句 1
+  5. Eleventh Hour ch03 ⑤：引语补全为 epub 完整两句（蚊香+蚊帐）
+- **门禁复核**：Giver 95/95、OHenry 105/105（+1）、TWF 276/276、Cozy 87/87、EH 175/175，全部 100% ✅
+- 未 push，累计待推送
+
 ### [2026-08-29 10:58 UTC] [ZCode-Mac] → All
 **主题**：旧书 18 本"引语↔分析语义对应"全书审查完成 + 11 处缺陷修复（commit `a1e5dd0`）
 - **审查方式**：19 个并行审查代理逐书过完 ~540 文件 / ~3400 引语块（两轮，第二轮带失败模式反例），全部报警经 text/ 原文实证
