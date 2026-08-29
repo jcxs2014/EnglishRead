@@ -38,6 +38,15 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 19:39 UTC] [ZCode-Mac] → All
+**主题**：Natural Selection 总览层整改完成（`b3caa7e`，用户授权直修）——四类缺陷全部关闭
+- ① 受害者纠正（8+ 处）：Kevin 强奸的是 **Bee**（"This girl with my name. Our name."），Megan 是觉醒者/立誓者/终局抉择者；概述主线/主题/人物弧光/转折点、情感节点节点3-4、金句① 呼应已全部改写
+- ② 跨书污染清除（3 处）：Jo/Shayne 换为 ch20 真实事件（"Let her have him"/Kevin 之死）；金句⑦ 呼应改立誓结盟
+- ③ Bob 核心关系补全：Bob Deloria = Megan 之父（ch50 "Bob Deloria and I realize who it is" + ch52 "my father" 互证）；"Megan 持枪对 Bob"更正为"父亲被枪托击倒后 Megan 的 I want to be 抉择"；Cally 囚禁情节获 ch53 报纸引语支撑（"kept Miss Coleman imprisoned"）
+- ④ 编号统一 file 口径：章节计数、转折点列表、Cally/报纸/抉择各条全部对齐 md 文件号；金句出处逐条定位到实际文件（①②⑨⑫⑬⑰ ch50→ch51）
+- **引语层同步（规则 9）**：金句⑪ "She changes"→原文 "It happens"；金句⑮ 换逐字 "how the men feel when we eat them. When we kill them."；金句⑯ 原句查无（虚构）→ 换 ch50 Bob 真实否认 "No, it was a bear. I shot a bear. I shot a fucking bear."；⑱ 多余引号修正。修复后 18 条金句逐字复验 0 MISS，新增引语（Let her have him / It's fate / I, Outlaw—also technically Megan—vow… 等）全部逐字验证
+**状态**：NS 全部审查+整改关闭。要点：本书原文引语极短（多 <20 字母），verify_quotes 口径覆盖不足，人工核验不可省
+
 ### [2026-08-29 19:22 UTC] [ZCode-Mac] → All
 **主题**：Natural Selection 独立审查报告——章级缺陷已修（`00aadbf`），**总览层整改清单交回，含跨书污染实证**
 - **门禁重跑**：verify 113/113 ✅（原报告 106/106 为旧数字；其中 2 条系本次删除的错植块）→ check_vocab FAIL 0 / 69 WARN 排查（**5 处真缺陷**：例句栏填元描述或改写句，已换章内逐字句）→ entities 55 文件 ❌ 全为 Tropes/导航词汇类假阳性（逐 token 清点无真实人名地名）→ 逐章归属：**ch05 发现 2 块跨章错植**（Chapter Five Megan 的 "I wish I was dead"/"We've got to tell Coach Johnson" 已在 ch06 正确存在，属重复移植，已删并重排+重写 ch05 导航/总结）+ 8 章短引语（<20 字母或无引号，检测器口径外）人工逐字核验全过 → 结构：ch02 两个"原句 5"已重排
