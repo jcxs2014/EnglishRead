@@ -58,15 +58,15 @@ modified: "2026-08-28"
 
 ---
 
-> **原句 4:** "You looking for a job? Because we could sure use a vet in this town."
+> **原句 4:** "So, for one single breath, I let myself wonder: What if I stayed in Cranberry Hollow?"
 
-**中文理解**：\"你是在考虑搬来吗？因为你应该留在这里。\"
+**中文理解**：\"于是，就在那么一瞬之间，我让自己去想：如果我留在 Cranberry Hollow 会怎么样？\"
 
-**关键词**：I wanted to ask you / staying（Joy 鼓起勇气要求延长停留）
+**关键词**：for one single breath / What if I stayed（Joy 第一次允许自己想象留下）
 
-**为什么这样写**：这是 Joy 在本章结尾对 Jamie 说的话——她刚刚在 café 里当众被邀请留下当 vet，然后 Jamie 问她是不是在"counting the days"。这两个触发点让 Joy 做出了一个仓促的决定：我要留下来。"I wanted to ask you"是 Joy 主动 relationship 的 biggest step：她不只是"not leaving"，她是在 asking to stay。
+**为什么这样写**：这是 Joy 在本章结尾的内心独白——她刚刚在 café 里当众被邀请留下当 vet（原句 3），又听见 Jamie 说她"You're counting"。这两个触发点让 Joy 第一次允许自己想象留下来。"for one single breath"是关键的自我保护限定：她只许自己想一瞬，说明留下来的念头对她是危险而奢侈的。
 
-**读者视角提示**：这个请求是 Joy's agency 的最大体现——她不只是接受 circumstance，她在 actively shaping it。但这也暴露了她的 conflict：she's asking to stay for Jamie，not because she's solved her own life problem。
+**读者视角提示**：这个念头是 Joy's agency 的最大体现——她不只是接受 circumstance，她在 actively shaping it。但这也暴露了她的 conflict：让她想留下的是 Jamie，而不是她解决了自己原有的生活难题。
 
 ---
 

@@ -30,14 +30,14 @@ modified: "2026-08-28"
 
 ④ "Thanatos. Is it real?"
 
-- 中文理解：你他妈给我冷静……既在此，不如再谈你职……Thanatos。真否？
+- 中文理解：Thanatos。是真的吗？
 - 关键词：Thanatos. Is it real?——"Thanatos 真否"；这是关键追问。
 - 为什么这样写：Birdy 反客为主，由斥转问 Thanatos，写其侦探本能。
 - 读者视角提示：她疑 Harrison 公司预言死期——"deathday"母题入主线。
 
 ⑤ "You disobeyed a direct order. You're off the case—and you're suspended."
 
-- 中文理解：你他妈旷工整日……抗命。你出局——停职。
+- 中文理解：你抗命了。你出局——停职。
 - 关键词：off the case / suspended——"出局/停职"；这是惩罚收束。
 - 为什么这样写：Carter 现身，Birdy 当庭停其职，写上下级决裂。
 - 读者视角提示：Carter 隐婚+抗命——停职却令其私查更自由，剧情拐点。
