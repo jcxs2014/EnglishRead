@@ -79,7 +79,7 @@ modified: "2026-08-26"
 |---------|------|------|
 | gazebo | 凉亭 | "the moonlit gazebo" |
 | beheading | 斩首 | "I'd take a swift beheading" |
-| shred | 撕碎 | "shred it all up" |### ⭐ 基础
+| shred | 撕碎 | "shred it all up" |⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
