@@ -1,7 +1,6 @@
 ---
 状态: 未读
 modified: "2026-08-26"
-title: "36. Chapter 34: THE GIRLS ARE TUCKED INTO THE AIR MATTRESS"
 ---
 
 # 36. Chapter 34: THE GIRLS ARE TUCKED INTO THE AIR MATTRESS
