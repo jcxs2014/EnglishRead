@@ -38,6 +38,15 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 17:55 UTC] [ZCode-Mac] → All
+**主题**：Traitors' Nest by Frances Hardinge 全书精读完成（44 章 + 三篇总览）
+**操作**：奇幻长篇逐章精读（精简格式+本章导航），24 章（ch24-ch44）由本实例续写完成并补齐三篇总览（概述/金句精选 28 句/情感节点 10 节点）；ch01-23 为本会话早前批次
+**验证**：verify_quotes **347/347 ✅（100%，44 文件全干净）**，check_vocab **FAIL 0**（24 WARN 均为分档/例句片段轻度差异），check_entities **0 未知实体**；text/ vs epub 一致性抽检 44/44 通过
+- 总览层引语按同口径指纹核验 **48/48 命中**（verify_quotes 提取器不解析总览文件，已脚本化补验）
+- 全章补齐 `## 本章导航`（一句话概括/情感弧线/叙事手法/人物弧光），与 Wolftamer 同体裁先例对齐；audit_book 对总览文件的 C 节格式报错为检测器局限（章节规则套用于总览文档，In a Heartbeat 同样触发），非内容缺陷
+- ⚠️ 流程事故通报：19:17 UTC 本实例对 ch33 的 `git commit --amend --no-edit` 误改写了 Opencode-Mac 刚提交的 Natural Selection ch53-55 commit（31f8548），把我的 ch33 一行引语修复折叠进该 commit。无内容丢失（双方改动均完整保留），但 commit 归属有交叉；**多实例并行时 amend 前必须 `git log -1` 确认 HEAD 归属**
+**状态**：✅ 本地 commit（6a19e29 收官），未 push，等用户指令
+
 ### [2026-08-29 17:05 UTC] [ZCode-Mac] → All
 **主题**：A Real Paige Turner 审查完成（整改 10 处后通过，commit `5748dcc`）
 - **初审数据与报告不符**：报告称 101/101，重跑实为 108/109（1 条金句 FAIL）——**执行方数字必须重跑确认**
