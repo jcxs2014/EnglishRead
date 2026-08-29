@@ -122,7 +122,18 @@
 
 > 场景：本机/他机另一实例（或过去自己）完成某本书的精读并交付，本节为审查方的标准流程。
 > 与根 `AGENTS.md` 第 10 条呼应，本节为详细 checklist。
-> 实战样本：Traitors' Nest（4 项外围修复）、Natural Selection（10+ 处总览层整改）；两书在 verify_quotes 主门禁全绿下仍漏网的事实级缺陷，均由本 SOP 兜底。
+> 实战样本：Traitors' Nest（4 项外围修复）、Natural Selection（10+ 处总览层整改）、Room in the Ground（章节层 5 跨章 + 总览层 13 虚假）；多书在 verify_quotes 主门禁全绿下仍漏网的事实级缺陷，均由本 SOP 兜底。
+
+#### 完成报告硬要求（执行方交付审查时必填，2026-08-29 立）
+
+> 与根 `AGENTS.md` 第 10 条"完成报告硬要求"段呼应；本节为详细操作规范。
+
+| 项 | 操作 | 不达标处理 |
+|---|---|---|
+| 三件套原始输出 | `verify_quotes` / `check_vocab` / `check_chapter_quotes` 三份原始逐行结果贴 commit message 或 COLLABORATION.md | 只贴"X/X ✅"和数字 → 审查方拒收 |
+| 总览层引语 grep | 概述/金句集/情感节点的每条英文引语附 `grep -c "<关键词>" text/ch*.txt` 结果，MISS=0 | MISS > 0 → 退回执行方 |
+| 总览层人物身份/关系/结局 grep | "做了什么"陈述附 grep 人名/地名 + 原文行号支撑 | 无支撑行号 → 退回执行方 |
+| 跨书污染自检 | 不熟悉的人名/地名先 `grep -rl "<name>" notes/books/` | 在他书命中且本任务未识别 → 退回执行方 |
 
 #### 五步审查法
 
@@ -141,6 +152,27 @@
 - **人物关系**（"A 是 B 的母亲/父亲"等）→ 在关键章 grep 实词。NS 实锤：概述完全没提 **Bob = Megan 父亲**这一全书终局冲突的轴心
 - **结局走向**（"他被绳之以法"等）→ 在最后两章 grep 结局动词
 - **叙事结构**（"双时间线""POV 切换"等）→ 数章节标题/段首 POV 标记
+
+**1a. 说话人反转**（SOP 第 1 类子项，2026-08-29 Room 实战新增）——总览层 grep 命中后必须二次确认说话人：
+- 同一英文逐字命中 ≠ 说话人正确。Room 实证 8 处金句说话人错位：
+  - **㉒ "What I did to you"**：标 Kim→实为 **Rudbeck** 对 Kim 的悔罪台词（ch12）
+  - **㉓ cuckoo clock**：标 Jonny 描述 Kim→实为 **Irma** 对 Julia（ch09）
+  - **㉗ "I'm calling an ambulance"**：标 Astrid 改口→实为 **车主**（ch21）
+  - **㉑ cockfight**：标 Animal Action→实为 ch08 葬礼巴士上的 Astrid
+  - **㉙ "So much life"**：标 Kim→实为 Rudbeck 对 Kim "Just you"
+  - **㉚ "I knew exactly what I was doing"**：标 Rudbeck rationalize→实为 Rudbeck 用链条勒住 Kim 时的 snarl
+  - **⑰ "despicable but anything but stupid"**：标 Rudbeck→实为 ch24 Julia 看 **Claes-Göran 宣传视频** 的评价
+  - **⑭ "escaped slaughter"**：标 Astrid 躲在柜子里→原文无此细节，实为葬礼现场
+- **预防**：总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人，并把说话人名与原始章节精读文件的说话人核对一致
+- **子代理委派必附**：本类失败案例 + 防幻觉条款（见根 `AGENTS.md` 第 9 条 f）
+
+**1b. cliffhanger 跨章场景**（2026-08-29 Room 实战新增）——前一章以悬念收尾、对话在后一章展开时，禁止把整场戏的引语放进前一章：
+- Room 实证：㉑ cockfight 误归前一章（ch08 末葬礼 + Animal Action 在 ch71 跨 67 章）+ ㉒ What I did to you 误归前一章
+- **预防**：遇到两章边界的引语必须同时读前后章 text/ 各 ~100 行确认引语实际发生章节（不是尾段所在章节）
+
+**1c. 复合引语/拼接句**（2026-08-29 Room 实战新增）——总览引语长度 >40 字符且含 `…` 或 `. . .` 中段省略的，verify_quotes 靠 flat 前缀匹配会让尾段非逐字漏网：
+- Room 实证：ch09 把 Irma 的"...cuckoo clock..."与 Julia 的 "It was a comic touch!" 拼成一句；ch74 "Jolifanto" 单词在本章但完整 chant "Jolifanto bambla ô falli bambla!" 在前两章
+- **预防**：必须单独 grep 前后两段确认各自落在原文何处；拼接句要按所属说话人分别核实
 
 **2. 跨书污染**——从其他书的设定串入本批：
 - **NS 实证**：概述/金句/情感节点 3 处写"Jo 愤怒驱赶 Shayne"——这两人是《A Real Paige Turner》人物，NS 全文 `grep -rl "Jo\|Shayne" text/` 查无
@@ -168,6 +200,20 @@ print('OK' if flat(q) in corpus else 'MISS')
 - **写入/审查前**：`grep -i "word" text/chNN.txt` 验证
 - **分档注水**：常见词混 ⭐⭐⭐ 高级档视为不合格（NS ch09 "afternoon"、ch11 "prisoners"/"breakfast"、ch18 "flashlight"、ch19 "scratches" 等被检出）
 - **A/B 裁决**（规则 5）：epub 也查无 = A 类真虚构（换文中真实词）；epub 有而 text/ 缺 = B 类语料缺失（重跑 `extract_chapters.py` 修复或换真实词形）
+
+**5. 章节标题/文件名系统性偏移**（2026-08-29 Room 实战新增）——审计阶段必须全库比对：
+- **操作**：自写脚本对每文件 `filename-chapter` vs `H1-chapter` vs `text-suffix`（book-chapter）三者交叉，发现 >2 个连续偏移即判块状命名坑
+- **Room 实证**：19 文件名 + 3 个 H1 比真实书章号偏高 1，集中在 **ch05–ch13 / ch20–ch28 / ch58** 三段（块状聚集），非随机散布；副作用："Chapter 13" 双文件标题重复 + "Chapter 4" 标题缺失
+- **预防**：审查第一步上 `audit_book.py` 后必补此三向比对
+
+**6. 章节编号改动联动 cross-ref 失效**（2026-08-29 Room 实战新增）——执行阶段凡改任何章节标题/H1/文件名：
+- **必须全库 grep** `"Chapter N"` 引用（N ∈ [改前值, 改后值]）逐条核对落点
+- **Room 实证**：ch13 改"Chapter 12"后 4 处"Midsummer Eve 在 Chapter 4"引用实际全在书 7 章；批量整改 TV4 审片（ch03 vs ch04）、Animal Action（ch24 vs ch06）等 7 处 cross-ref
+- **预防**：所有 cross-ref 改动必须附 grep 实证行号
+
+**7. 跨实例并发纯改名 commit**（2026-08-29 Room 实战新增）——审计之外的并发安全条款：
+- **场景**：会话期间另一实例可能顺带做了与本任务相同的纯文件名改名（0 内容变更），本轮修改干净叠加
+- **预防**：审查期间若 `git pull` 后发现 `git log` 出现新 commit 涉及本任务文件，立即 `git show <新commit> --stat` 与自己未提交修改比对；冲突时按"内容优先于文件名"裁定取舍
 
 #### 经验性条款（必读）
 
