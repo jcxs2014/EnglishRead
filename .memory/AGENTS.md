@@ -118,6 +118,80 @@
 
 **文件名唯一分隔符**：单空格（禁止 `_` `-` `'` 等特殊字符）；标点全部去除。
 
+### 独立审查 SOP（独立审查员专节，2026-08-29 立）
+
+> 场景：本机/他机另一实例（或过去自己）完成某本书的精读并交付，本节为审查方的标准流程。
+> 与根 `AGENTS.md` 第 10 条呼应，本节为详细 checklist。
+> 实战样本：Traitors' Nest（4 项外围修复）、Natural Selection（10+ 处总览层整改）；两书在 verify_quotes 主门禁全绿下仍漏网的事实级缺陷，均由本 SOP 兜底。
+
+#### 五步审查法
+
+| 步骤 | 工具/口径 | 必跑项 | 失败处理 |
+|---|---|---|---|
+| 1. 三件套重跑 | `verify_quotes` / `check_vocab` / `check_entities` | 全部从本机重跑；**不信报告数字** | 任一 FAIL → 退回执行方 |
+| 2. 逐章归属 | `check_chapter_quotes.py <NN> <md> --out-dir text/` | 每章必须"X/X in chNN text" | MISS → 标记跨章错植，定位原属章节后从执行方拿正确引语 |
+| 3. 结构扫描 | 行首引语块正则扫 | 编号连续 / 四件套齐全 / 零孤儿块 / 零重复块 | 编号跳序、缺字段、重复行 → 列出章节清单交回 |
+| 4. 语义二审 | 子代理或主会话逐对核对 | "引语↔中文理解"逐对；子代理委派必附反例+防幻觉条款（见根 `AGENTS.md` 第 9 条 f） | 引语换新句但分析停旧句 → 触发规则 9 修复即同步 |
+| 5. 总览事实核对 | 人工 grep 实体+引语 | 概述/金句/情感节点逐句校验 | 见下方"四类高发坑位" |
+
+#### 四类高发坑位（NS / TN 实证）
+
+**1. 总览层情节虚构**——`verify_quotes` 主口径不解析 `00_金句精选.md` / `00_情感节点.md` / `概述.md`，必须人工 grep：
+- **角色身份**（"主角是侦探/演员"等）→ grep 人名 + 读章节文件交叉核对。NS 实锤：概述把 Megan 写成"被 Kevin 强奸"——实为 Bee
+- **人物关系**（"A 是 B 的母亲/父亲"等）→ 在关键章 grep 实词。NS 实锤：概述完全没提 **Bob = Megan 父亲**这一全书终局冲突的轴心
+- **结局走向**（"他被绳之以法"等）→ 在最后两章 grep 结局动词
+- **叙事结构**（"双时间线""POV 切换"等）→ 数章节标题/段首 POV 标记
+
+**2. 跨书污染**——从其他书的设定串入本批：
+- **NS 实证**：概述/金句/情感节点 3 处写"Jo 愤怒驱赶 Shayne"——这两人是《A Real Paige Turner》人物，NS 全文 `grep -rl "Jo\|Shayne" text/` 查无
+- **Room in the Ground 实证**：Schöneberg 实为他书角色
+- **预防**：任何不熟悉的人名/地名先 `grep -rl "<name>" notes/books/` 排除其他书同名人物
+
+**3. 总览引语虚构**——主门禁通过不代表总览层全过。NS 实证：
+- ⑯ "Bob, you're hunting girls. Not bears." **全书查无**（属改写台词）
+- ⑮ "We ate them. When we kill men." 改写自原文 "how the men feel when we eat them. When we kill them."
+- ⑱ 重复引号错误
+- **预防**：总览引语必须逐句 grep 验证（见下方 grep 模板）
+
+```bash
+python3 -c "
+import re,glob,sys
+sys.path.insert(0,'scripts')
+from check_chapter_quotes import flat
+q='<引语原文>'
+corpus=flat(''.join(open(f).read() for f in glob.glob('text/ch*.txt')))
+print('OK' if flat(q) in corpus else 'MISS')
+"
+```
+
+**4. A 类词汇虚构**——分档注水/常见词进 ⭐⭐⭐ / 例句改写：
+- **写入/审查前**：`grep -i "word" text/chNN.txt` 验证
+- **分档注水**：常见词混 ⭐⭐⭐ 高级档视为不合格（NS ch09 "afternoon"、ch11 "prisoners"/"breakfast"、ch18 "flashlight"、ch19 "scratches" 等被检出）
+- **A/B 裁决**（规则 5）：epub 也查无 = A 类真虚构（换文中真实词）；epub 有而 text/ 缺 = B 类语料缺失（重跑 `extract_chapters.py` 修复或换真实词形）
+
+#### 经验性条款（必读）
+
+- **先重跑，不信报告数字**：执行方报告"73/73 ✅"时审查方必须复跑——NS 报告 101/101 实为 108/109 含 1 FAIL；TN 报告 44/44 包含 1 处错植未被报
+- **短引语人工核验不可省**：verify_quotes 指纹阈值 ≥20 alnum 字符外的引语（NS 8 章出现）必须人工逐条 grep 文本+核验分析对应
+- **金句集/总览层必须逐字 grep 复验**：主口径不解析 `00_*.md`，主脚本通过不代表总览层全过
+- **子代理额度耗尽时主会话自执行不可省**：语义二审发现问题但子代理被 Token Plan 拦下时（NS 137 块三件代理被拦），主会话逐对核对仍可完成全部——发现配额不足前先评估"主会话能不能做"
+- **用户授权"直接修"=默认分工例外**：独立审查 SOP 默认只审不改；用户明确授权后可批量执行（如 NS 总览层整改 `b3caa7e`）
+- **COLLABORATION.md 必留**：审查完成后必写一条带 commit 引用的审查报告，按"主题/五步结果/整改清单/状态"四段式
+
+#### 工具链现状
+
+- `scripts/audit_book.py` 是单书一键总账（4 节 + 退出码），可作 push 前巡检；含 text/ vs epub 一致性抽检（防语料污染）
+- 但**全库语义对应审计必须人工**（无自动化方案）：子代理委派 + 防幻觉条款 + 文本实证三件套
+- 配套工具链全部用法见根 `AGENTS.md` 配套工具链小节
+
+#### 已知失效样本（审查员"防幻觉"训练数据）
+
+- 100G ch86 ⑧"引语讲遮盖、分析讲没有叔叔"——引语换新句但分析停旧句
+- Angelic Death 概述 Sam 写成侦探、假结局
+- Alfred Hitchcock 10 ⑥ 引语讲 A 场景、分析讲 B 场景
+- A Real Paige Turner 概述虚构 POV、戒指来源；情感节点 3 处假引语
+- Golden Boy / In a Heartbeat / Paige Turner 三本书累计 6 处审查代理幻觉报警——报警前须先确认引语行与中文理解行真实存在于同一 md 且相邻
+
 ### git 与协作规则
 - `git add` 只加本任务明确路径（禁 `-A` / `.`），commit 前检查 `git status` 防混入他实例修改
 - COLLABORATION.md 看板更新：**追加到表格末尾**（用最后一行作锚点 patch），禁止中间插入
