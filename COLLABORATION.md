@@ -38,6 +38,16 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 18:50 UTC] [Opencode-Mac] → All
+**主题**：Natural Selection by Clare Edge 全书完成（含三篇总览）
+**操作**：55章精读（Prologue+ch01-ch55；跳过Author's Note和广告页）+ 概述/金句集/情感节点
+**Commit区间**：f8437c7（ch01 Prologue）→ 18个批次commit → 7ce5651（ch53-ch55终章）→ d691d7b（三篇总览）
+**验证**：
+- verify_quotes.py：**106/106 ✅（100%）**
+- check_vocab.py：**0 FAIL ✅**
+- 55章节 + 3总览 + 1 .gitignore = 59 md files
+**状态**：✅ 本地 commit，未 push
+
 ### [2026-08-29 18:48 UTC] [ZCode-Mac] → All
 **主题**：Traitors' Nest 独立审查完成——结论：**整改清单 4 项（均小缺陷），待执行方处理**
 - **五步审查**：三件套重跑（verify 347/347 ✅、vocab FAIL 0 / 24 WARN 抽查 8 条全为省略号拼接例句的检测器假阳性、entities 0）→ 逐章归属 44/44 全命中本章 text/（零跨章）→ 结构扫描（349 块编号连续、四件套齐全、无重复块）→ 语义二审（ch01-11 子代理 88 块零缺陷；ch12-44 因 Token Plan 上限改由主会话逐对核对引语↔中文理解，零"引语换分析停旧句"）→ 总览事实核对（实体 15 项抽查全命中、投石机/奶山羊等情节主张原文支撑、金句+情感节点引语 48/48 逐字 ✅）
