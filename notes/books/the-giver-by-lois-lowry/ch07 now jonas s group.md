@@ -21,13 +21,13 @@ modified: "2026-08-28"
 - **为什么这样写**：这句话是典礼的核心悖论：社区花了十二年消灭差异，现在却说"差异决定未来"。这不是真正的自由选择，而是为命运的分配涂上"尊重"的油彩。
 - **读者视角提示**：Jonas 听到这句话时的紧张——因为他没有"差异"可以"被尊重"。
 
-> **原句 1:** "''All of us in the community know and enjoy Asher," the Chief Elder began."
+> **原句 2:** "''All of us in the community know and enjoy Asher," the Chief Elder began."
 - **中文理解**："我们社区所有人都认识和喜爱 Asher。"
 - **关键词**：know and enjoy / Speaker / language acquisition
 - **为什么这样写**：Chief Elder 用幽默的方式开始 Asher 的 Assignment 介绍——"Enjoy"暗示 Asher 的语言混乱是社区娱乐的来源。这种幽默是双刃剑：它既让 Asher 的失误显得无害，也为他的最终 Assignment 埋下伏笔。Speaker 负责语言精确性，而 Asher 从小就在语言上出错——这是社区最深刻的讽刺。
 - **读者视角提示**：社区把"不同"变成职业优势——Asher 的语言障碍恰好是 Speaker 职业的核心技能。
 
-> **原句 2:** "Have you checked the rules, Jonas?" Pierre was always whispering solemnly. "I'm not sure that's within the rules."
+> **原句 3:** "Have you checked the rules, Jonas?" Pierre was always whispering solemnly. "I'm not sure that's within the rules."
 - **中文理解**："Jonas，你检查过规则了吗？"Pierre 总是庄严地低声说。"我不确定那是否符合规则。"
 - **关键词**：checked the rules / not within the rules / worrier
 - **为什么这样写**：Pierre 是社区的"规则型人格"——他的存在提醒读者社区里有人完全内化了规则。Jonas 对 Pierre 的"不喜欢"透露了他的价值观：规则是工具，不是枷锁。这与 Jonas 最终的选择形成呼应。

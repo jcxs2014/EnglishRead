@@ -17,7 +17,7 @@ modified: "2026-08-28"
 
 > **原句 1:** "You've been greatly honored," his mother said. ''Your father and I are very proud."
 - **中文理解**："你被极大地荣誉了，"他母亲说。"你父亲和我都非常骄傲。"
-- **关键词**：greatly honored / very proud / most important job
+- **关键词**：greatly honored / very proud
 - **为什么这样写**：父母用社区的标准语言表达骄傲——"honored"和"proud"是社区的官方情感词汇。但他们的表情呢？Jonas 没有描述父母脸上的喜悦，只有语言。Lowry 用语言的空洞暗示情感的缺失：父母为 Jonas 高兴，但他们不知道这意味着什么。
 - **读者视角提示**：母亲说"It's not a job, really"——她从未想过、从未期望——这句话透露了 Receiver 角色在社区中的神秘性。
 

@@ -33,13 +33,13 @@ modified: "2026-08-28"
 - **为什么这样写**：Jonas 在看 Asher 和其他孩子玩"好人打坏人"的游戏时，突然意识到这模拟的是战争。他有了战争的真实记忆——真实的死亡、真实的痛苦——所以他无法再把这个游戏当作"无害的娱乐"。这个认识让他走向了游戏场的中央。
 - **读者视角提示**：这是全书中最重要的隐喻之一：社区里的孩子从小玩 war 游戏，却不知道真正的战争是什么。这种"不知道"是社区设计的一部分。
 
-> **原句 1:** "You got me!" she called, and fell to the ground, grinning."
+> **原句 4:** "You got me!" she called, and fell to the ground, grinning."
 - **中文理解**："你打中我了！"她叫道，然后倒在地上，咧嘴笑着。
 - **关键词**：you got me / fell to the ground / grinning
 - **为什么这样写**：Tanya 倒下时咧嘴笑——这是社区里"假装死亡"的标准反应。孩子们知道这不是真的，所以很好玩。但 Jonas 现在知道了真正的"倒下"是什么——是那个战场上给他递水的男孩，再也没有起来。这种对比是 Lowry 对战争最深刻的批判。
 - **读者视角提示**：Jonas 站在游戏场中央，看着笑着假装死去的孩子们——他的表情和反应会让孩子们不安，因为他已经不是他们中的一员了。
 
-> **原句 4:** "Today, he felt happiness."
+> **原句 5:** "Today, he felt happiness."
 - **中文理解**："今天，他感受到了幸福。"
 - **关键词**：felt happiness / new depth of feelings / deeper
 - **为什么这样写**：这是 Jonas 情感成熟的最终标志：他不再需要分析或讨论他的感受，他只是感受它。这种"幸福感"与社区里的"treat"不同——它是真实的、深刻的、自足的。这与前面的"real sadness"、"real anger"一起，构成了 Jonas 新情感能力的完整图景。

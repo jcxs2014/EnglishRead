@@ -23,7 +23,7 @@ modified: "2026-08-28"
 
 > **原句 2:** "I hope you get Pilot. And that you take me flying!"
 - **中文理解**："我希望你能当飞行员！然后你带我飞！"
-- **关键词**：Pilot / take me flying / parachute
+- **关键词**：Pilot / take me flying
 - **为什么这样写**：Lily 对飞行员的热烈幻想与 Jonas 即将被分配的角色形成尖锐对比——飞行员是社区最受尊敬的角色之一，而 The Receiver 是社区最孤独的角色。Liyi 不知道她哥哥即将承担的重量。
 - **读者视角提示**：Jonas 的回答"If I get Pilot I'll put in an appeal"——他已经隐约知道自己不会得到常规 Assignment。
 

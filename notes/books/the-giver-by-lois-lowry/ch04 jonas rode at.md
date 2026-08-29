@@ -23,7 +23,7 @@ modified: "2026-08-28"
 
 > **原句 2:** "This morning we celebrated the release of Roberto,"
 - **中文理解**："今天上午我们庆祝了 Roberto 的释放。"
-- **关键词**：celebrated the release of Roberto / wonderful
+- **关键词**：celebrated the release of Roberto / release of Roberto
 - **为什么这样写**：Larissa 用"wonderful"形容一个被处死之人的庆典。全书最残酷的反讽之一：社区将谋杀包装成值得庆祝的事件，而参与者真诚地认为这是好事。Larissa 不是伪君子——她是真的觉得好，因为她相信官方的叙述。
 - **读者视角提示**：第2章父亲的话"RELEASED... with an ironic tone"——现在读者终于理解了为什么是"ironic"。
 

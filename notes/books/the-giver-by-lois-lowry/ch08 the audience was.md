@@ -35,7 +35,7 @@ modified: "2026-08-28"
 
 > **原句 4:** "The fourth essential attribute," the Chief Elder said, "is wisdom. Jonas has not yet acquired that. The acquisition of wisdom will come through his training. We are convinced that Jonas has the ability to acquire wisdom. Finally, The Receiver must have one more quality, and it is one which I can only name, but not describe. I do not understand it. You members of the community will not understand it, either. Perhaps Jonas will, because the current Receiver has told us that Jonas already has this quality. He calls it the Capacity to See Beyond."
 - **中文理解**："第四个必要品质，"首席长老说，"是智慧。Jonas 还没有获得智慧。智慧的获得将通过训练而来。我们相信 Jonas 有能力获得智慧。最后，接收者必须还有一种品质，而这是一种我只能命名、却无法描述的品质。我不理解它。你们也不理解。但 Jonas 也许会理解，因为现在的接收者告诉我们 Jonas 已经拥有这种品质。他称之为'超越视域的能力'。"
-- **关键词**：Capacity to See Beyond / I can only name but not describe / pale eyes
+- **关键词**：Capacity to See Beyond / I can only name but not describe
 - **为什么这样写**：这是全书中"pale eyes"能力的官方命名。Chief Elder 承认她自己不理解这个品质——这是社区权威第一次公开承认有东西超出了它的理解范围。The Receiver（The Giver）知道 Jonas 有这种能力，而社区通过他的 pale eyes 看到了证据。
 - **读者视角提示**：Now Jonas 的 pale eyes 有了名字——"超越视域的能力"。这个能力让他能看见颜色（苹果事件），而颜色的看见是通往真实感知的第一步。
 

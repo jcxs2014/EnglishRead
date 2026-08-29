@@ -29,7 +29,7 @@ modified: "2026-08-28"
 
 > **原句 3:** "The books in his own dwelling were the only books that Jonas had ever seen. He had never known that other books existed."
 - **中文理解**："Jonas 自己住所里的书是他唯一见过的书。他从来不知道其他书的存在。"
-- **关键词**：other books existed / hundreds / thousands
+- **关键词**：other books existed / the only books Jonas had ever seen
 - **为什么这样写**：书籍是全书中最重要的物质符号之一——社区只有规则和参考书，而 The Giver 的房间有上千本书。这是知识与无知的物质化对照。Jonas 对书籍的反应（"rules beyond the rules?"）显示他完全无法想象还有什么比规则更重要的知识。
 - **读者视角提示**：这些书将在后续章节中被 The Giver 用来传递历史记忆——包括那些社区想要抹去的历史。
 

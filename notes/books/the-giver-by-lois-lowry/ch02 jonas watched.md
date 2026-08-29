@@ -21,7 +21,7 @@ modified: "2026-08-28"
 - **为什么这样写**：Father 主动承认违规，但内疚是因为"看了不该看的 list"，而非给 newchild 取名本身。社区规范已被内化——即使违规，也要为违规行为道歉。这与母亲负责"adherence to the rules"形成对照。
 - **读者视角提示**：父亲的违规和内疚说明：社区制度再严，也无法完全压制父母之爱。
 
-> **原句 1:** "His name—if he makes it to the Naming without being released, of course—is to be Gabriel. So I whisper that to him when I feed him every four hours, and during exercise and playtime. If no one can hear me."
+> **原句 2:** "His name—if he makes it to the Naming without being released, of course—is to be Gabriel. So I whisper that to him when I feed him every four hours, and during exercise and playtime. If no one can hear me."
 
 
 
@@ -31,19 +31,19 @@ modified: "2026-08-28"
 - **为什么这样写**：条件句"If he makes it"是全书最令人心碎的短语之一。明知 Gabriel 随时可能被处死，父亲仍然每四小时呼唤他的名字。这种明知无望仍然付出的人性，是社区制度下最有力的反抗。
 - **读者视角提示**：记住 Gabe 这个名字——它将在第23章成为全书最残酷的细节之一。
 
-> **原句 2:** "I re-member when Asher was a newchild at the Nurturing Center, before he was named. He never cried. He giggled and laughed at everything. All of us on the staff enjoyed nurturing Asher."
+> **原句 3:** "I re-member when Asher was a newchild at the Nurturing Center, before he was named. He never cried. He giggled and laughed at everything. All of us on the staff enjoyed nurturing Asher."
 - **中文理解**："我记得 Asher 在养育中心当 newchild 的时候，还没命名。他从来不哭。他对什么都咯咯笑。"
 - **关键词**：never cried / giggled / Nurturing Center
 - **为什么这样写**：Asher 婴儿时不哭有双重含义：表面是说天生乐观；深层暗示他是"不同"的孩子。讽刺的是，最终分配给 Asher 的 Assignment 是 Speaker——一个用语言谋生的人，语言混乱却成了职业优势。
 - **读者视角提示**：Asher 的语言混乱与 Speaker Assignment 形成互文——社区把"不同"变成职业优势。
 
-> **原句 3:** "Andrei later designed the bridge that crosses the river to the west of town,"
+> **原句 4:** "Andrei later designed the bridge that crosses the river to the west of town,"
 - **中文理解**："Andrei 后来设计了大桥，横跨镇子西边的河流。"
 - **关键词**：Andrei / bridge / river
 - **为什么这样写**：Andrei 是社区"不同"如何在职业中得到善待的案例。"bridge that crosses the river"——河流是全书隐喻的核心，连接 Sameness 的表层和记忆的深处。The Receiver 隐居在河流的另一侧。
 - **读者视角提示**：Jonas 将跨越这条河到达 The Giver，并最终带着 Gabriel 逃离社区。
 
-> **原句 4:** "that you’ll move into a new group. And each of your friends will. You’ll no longer be spending your time with your group of Elevens. After the Ceremony of Twelve, you’ll be with your Assignment group, with those in training. No more volunteer hours. No more recreation hours. So your friends will no longer be as close."
+> **原句 5:** "that you’ll move into a new group. And each of your friends will. You’ll no longer be spending your time with your group of Elevens. After the Ceremony of Twelve, you’ll be with your Assignment group, with those in training. No more volunteer hours. No more recreation hours. So your friends will no longer be as close."
 - **中文理解**："你会进入一个新的群体。你的每个朋友也会。你们不再会和十一年级的群体一起度过时间了。"
 - **关键词**：move into a new group / Elevens / Assignment
 - **为什么这样写**：母亲用非常实际的语言描述社区的剥夺机制：友谊的终结是制度设计，不是自然结果。Jonas 的" Asher and I will always be friends"是青少年信念的完美写照——他们还不知道社会的结构力量有多强大。

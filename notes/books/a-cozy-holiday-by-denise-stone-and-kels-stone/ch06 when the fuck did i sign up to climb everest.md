@@ -22,7 +22,7 @@ modified: "2026-08-28"
 
 ## 精读
 
-> **原句 5:** "You strapped on snowshoes, threw yourself down a hill, and agreed to be my daughters' makeup artist."
+> **原句 1:** "You strapped on snowshoes, threw yourself down a hill, and agreed to be my daughters' makeup artist."
 
 **中文理解**："你套上雪地鞋、把自己摔下山坡、还答应做我女儿们的化妆师。"
 

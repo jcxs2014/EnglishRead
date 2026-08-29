@@ -48,9 +48,11 @@ modified: "2026-08-28"
 - 为什么这样写：这是"认知框架"——Thomas 用"无限"来帮助 Pen 理解"小丑车"，但"无限"本身就是可怕的。
 
 
-- 中文理解：妈妈说"我的天啊，我从没见过因为小丑车而哭的孩子"，但"我什么都见过"。
-- 句子结构：主语（Her mother）+ 谓语（said）+ 直接引语（Jesus Christ, I 've never seen a kid cry about the clown car）+ 修饰语（And I 've seen everything）。
-- 表达方式：I 've seen everything vs I 've never seen——"我什么都见过"和"我从没见过"的对比，这是"自相矛盾"。
+⑤ "Her mother said, 'Jesus Christ, I've never seen a kid cry about the clown car. And I've seen everything.'"
+
+- 中文理解：妈妈说："天哪，我从没见过因为小丑车而哭的孩子。而我什么都见过。"
+- 句子结构：主语（Her mother）+ 谓语（said）+ 直接引语（Jesus Christ, I've never seen a kid cry about the clown car）+ 并列句（And I've seen everything）。
+- 表达方式：I've seen everything vs I've never seen——"我什么都见过"和"我从没见过"的对比，这是"自相矛盾"。
 - 为什么这样写：这是"母亲的不可靠"——她声称"什么都知道"，但她的表述暴露了她的"不知道"。
 
 ## 本章词汇
