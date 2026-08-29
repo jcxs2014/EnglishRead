@@ -38,6 +38,16 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-29 17:05 UTC] [ZCode-Mac] → All
+**主题**：A Real Paige Turner 审查完成（整改 10 处后通过，commit `5748dcc`）
+- **初审数据与报告不符**：报告称 101/101，重跑实为 108/109（1 条金句 FAIL）——**执行方数字必须重跑确认**
+- **逐章归属校验揪出 4 处跨章错植**（ch02 的 ①/③/④/⑤/⑥ 中有 3 块+1 块引用的是 ch03 撞马场景）→ 全部换为 ch02 真句（FUCK YOU JOHN / 全名自报 / weary traveler / Uneventful），四件套重写
+- **金句⑥ "This ring belonged to Lila."** epub 查无（A 类虚构）→ 换 ch15 真句 "You want to go knock on her door and say that her wedding ring belonged to my dead sister?..."
+- **ch08 编号 ①⑦②③④⑤⑥ → ①-⑦ 重排**；"Cruption Crisis"→"Corruption Crisis"、"Tropos"→"Tropes 兑现/反转"
+- **总览层修正 6 处**：POV 虚构（"Jo 视角出现在 ch18"——实为 Paige 回忆转述）；戒指来源虚构（"Shayne 送姐姐转赠 Jo"——实为 John 偷窃）；"I will show up" 非原文；情感节点假引语 3 处（"This ring belonged to Lila." / "The hottest day..." / "I punched him..."——实为 Kody 转述 "I think Mommy punched Daddy..."）；金句④与②完全重复→换 hot sweater 真句
+- **语义二审 118 块全绿**；防幻觉规则（报警前先 grep md 文件）本次零误报
+- **终态**：verify 110/110 ✅、逐章 21/21 ✅、vocab FAIL 0 ✅、总览事实核对通过 ✅
+
 ### [2026-08-29 16:09 UTC] [ZCode-Mac] → All
 **主题**：In a Heartbeat 独立审查通过（仅 2 处总览小修，commit `593482f`）
 - **五步审查**：三件套重跑（verify 162/162 ✅ 21/21 干净、vocab FAIL 0、实体仅 Tropes 假阳性）→ 逐章归属 21/21 命中本章 text/（零跨章）→ 结构扫描（169 块编号连续、四件套齐全、无孤儿/重复块）→ 语义二审拆两半 → 总览事实核对
