@@ -250,6 +250,17 @@ print('OK' if flat(q) in corpus else 'MISS')
 - **check_chapter_quotes 对长篇同样必要——非短篇合集专属**：71d909c SOP 第 2 步已要求但 Room 这轮实证出长篇 5 章跨章错植（ch05/ch32/ch33/ch74/ch09），均为前次 commit 漏网。**预防**：长篇审查时尤其要跑 check_chapter_quotes，特别是 `--out-dir` 必须指向本书 text/（脚本默认是 100 Great 路径，否则会全量误报）
 - **章节编号错位会联动 cross-ref 失效**：ch13 改"Chapter 12"后，4 处写于旧编号期的"Midsummer Eve 在 Chapter 4"引用实际全在书 7 章；批量整改 TV4 审片（ch03 vs ch04）、Animal Action（ch24 vs ch06）等 7 处 cross-ref。**预防**：执行阶段凡改任何章节标题/H1/文件名，必须全库 grep "Chapter N" 引用（N∈[改前值,改后值]）逐条核对落点
 
+#### Wolftamer 实战补强（2026-08-29，9b2ab04 整改新增）
+
+> 本轮独立审查发现执行方完工声明通过后、总览层仍含传播性虚构引语；修复期间又挖出"完工覆盖缺口"和"工具调用陷阱"，与 Room 款经验互补。
+
+- **完工消息"章数"必须用 md 数 vs text 章数对账**：执行方声称"ch02–ch64 逐章精读（62 章）"，但 md 文件实为 ch03–ch64（62 个文件），第一章（Chapter One，约 1900 词 Faolan 视角）无精读文件——"62 章"是文件数非覆盖数。**预防**：验收方收到完工报告后，第一件事 `ls text/*.txt | wc -l` 对比 `ls ch*.md | wc -l`，有缺口立即报。
+- **交叉引用引语（呼应关系/前瞻/回扣 里的英文片段）与主句一样要过 epub 裁决**："I've made you a pirate" 在金句㉑ 上下文里被标为 ch41 回扣，但全书 epub 查无（真句是 ch14 "I'm a pirate"）；verify_quotes 只检主句不检呼应收引语，导致这条虚构片段随"回扣/前瞻"句式扩散到 7 处 × 3 文件才被发现。**预防**：审查总览层时，用 epub flat 指纹对金句/情感节点/概述里所有英文引语片段（不只是加粗主句）做逐字 grep，包括弯引号包裹的短片段。
+- **Brona/Tavin/Lorcan 说话人错植是章级高频坑**：ch51 精读把"Get your fecking hands off my friend!"归给 Tavin，原文"another knife in her hand"自证首刀也是 Brona 掷的（Tavin/Lorcan 是拽人掩护者）。**预防**：语义抽查时，对"喊话/掷刀/弑敌"类动作句的说话人必须 grep text/chNN.txt 前后 5 行实证，不能凭分析文本的描述归因。
+- **check_chapter_quotes 必须显式传 `--out-dir`（脚本默认值是 100 Great 路径）**：本轮首轮误报 302 MISS 是因为跨书调用漏传 `--out-dir`，校验器拿 100 Great 的 text/ 比对 Wolftamer 产生全量假 MISS。正确用法：`python3 scripts/check_chapter_quotes.py <NN> "<md>" --out-dir <书目录>/text`。
+- **完工报告的 commit message 或 COLLABORATION.md 留言要贴三件套原始逐行输出**：不能只贴"X/X ✅"，要贴 verify_quotes / check_vocab / check_chapter_quotes 的原始逐行，便于审查方复验和追踪（NS/Traitors' Nest 两轮实证：数字干净≠内容干净）。
+- **总览层自查三项（审查方和执行方自查都适用）**：①概述/金句集/情感节点的英文引语逐句 `grep` epub 展平全文；②人物身份/关系/结局的"做了什么"陈述须 grep 实体（人名/地名）并核对原文支撑；③任何不熟悉的人名/地名先 `grep -rl "<name>" notes/books/` 排除跨书污染（NS 的 Jo/Shayne 即《A Real Paige Turner》人物）。
+
 ### git 与协作规则
 - `git add` 只加本任务明确路径（禁 `-A` / `.`），commit 前检查 `git status` 防混入他实例修改
 - COLLABORATION.md 看板更新：**追加到表格末尾**（用最后一行作锚点 patch），禁止中间插入
