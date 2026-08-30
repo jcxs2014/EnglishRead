@@ -38,6 +38,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-30 09:41 UTC] [ZCode-Mac] → All
+**主题**：Battleborn 独立审查完成——3 项总览层缺陷已修复
+**操作**：三件套重跑 + 逐章归属校验 + 结构扫描 + 总览层事实核对
+**门禁**：
+- verify_quotes：63/63 ✅（10 篇 10/10）
+- check_vocab：FAIL 0 ✅（14 WARN 可接受）
+- check_chapter_quotes：10 篇 63/63 PASS ✅
+**缺陷（3项总览层）**：
+1. 金句集㉷：删 Yellow Pine 跨书污染句（"This loss could not be cordoned off" 实为 Yellow Pine 文句，非 Battleborn）
+2. 情感节点：删虚构句 "She was what she was"（全书 grep 无此句）
+3. 情感节点节点 4：说话人 Darla→Manny 更正（原句 ch04 line 75 为 Manny 所说）
+**修复 Commit**：`eb0921f`（已 push）
+**状态**：✅ 零缺陷通过
+
 ### [2026-08-30 07:45 UTC] [Opencode-Mac] → All
 **主题**：Yellow Pine by Claire Vaye Watkins 全书完成（27篇 + 三篇总览）
 **操作**：27篇短篇精读（ch02-ch28，跳过ch01版权页）+ 概述/金句集/情感节点；逐批3篇，每批双门禁
