@@ -3,104 +3,173 @@
 modified: "2026-08-30"
 ---
 
-# 24. The Blasphemous Enlightment Of Prof. Francis Wayland Thurston（弗朗西斯·韦兰·瑟斯顿教授的渎神启蒙 / 1985）
+# 24. The Blasphemous Enlightment of Prof. Francis Wayland Thurston of Boston, Providence, and the Human Race（弗朗西斯·韦兰·瑟斯顿教授的亵渎性启示 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：封稿与崩溃——「no other person ever to lay eyes on」
-
-① In the late 1920s Prof. Thurston is putting a few final touches to a manuscript he intends no other person ever to lay eyes on, so that no one else will have to suffer unnecessarily in the way he has this past year or so. When it's all done with, he just sits in silence for a few moments in the library of his Boston home (summer sunlight wandering over the oak walls), and then he breaks down and weeps like a lost soul for the better part of the day, letting up later that night.
-
-中文理解：1920 年代末，瑟斯顿教授正为他一份手稿做最后润色；他决意不让任何其他人有朝一日读到它，好教旁人不必像他这约一年来这般无谓受苦。全写完后，他只在波士顿故居的书房里默坐片刻（夏阳在橡木墙上游移），随即崩溃，如迷失之魂哭了大半日，入夜才稍歇。
-
-句子结构：In the late 1920s 时间状语 + 主句 Prof. Thurston is putting… a manuscript + 定语从句 he intends no other person ever to lay eyes on + so that 目的从句 + When it's all done 起 + he sits in silence + and then he breaks down and weeps like a lost soul + letting up later。
-
-关键词：final touches（最后润色）、manuscript（手稿）、no other person ever to lay eyes on（决意无人读到）、suffer unnecessarily（无谓受苦）、breaks down and weeps（崩溃哭泣）、like a lost soul（如迷失之魂）
-
-表达方式：用「summer sunlight wandering over the oak walls」的静景反衬崩溃，把恐怖收束成私人的、无声的崩塌。
-
-为什么这样写：Ligotti 把洛夫克拉夫特式的「不可知之怖」内化——手稿不是要发表，而是要封存，因为「知道」本身就是诅咒。开篇即定调：知识即苦难。
+Prof. Thurston 发现了远古邪神的邪教，准备被暗杀但杀手从未来，他娶了一个学生，在蜜月期间试图用人类的美好来合理化他的可怕知识——但在新婚最后一夜，他的妻子也是邪教成员，他们一起「 embrace the new world」。
 
 ---
 
-### 第2处：邪教的真相——「ante-prehistoric monstrosities which will unseat the human race」
+## 精读（10处）
 
-① They discovered, positively, that throughout the world there exist savage cults which practice strange rites: degenerate Eskimos in the Arctic, degenerate Caucasians in New England seaport towns, and degenerate Indiand and mulattoes in the Louisiana swamps not far from Tulane University, New Orleans. The two professors also discovered that the primary aim of these cults is to await and welcome the return of ante-prehistoric monstrosities which will unseat the human race, overrun the earth, and generally have their way with our world.
+### 第1处：手稿的结尾——「他哭得像一个迷失的灵魂」
 
-中文理解：他们确凿地发现，全球皆有奉行怪仪的野蛮邪教：北极堕落的因纽特人、新英格兰海港镇堕落的白人、以及新奥尔良杜兰大学不远处的路易斯安那沼泽里堕落的印第安人与穆拉托人。两位教授还发现，这些邪教的首要目的，是等待并欢迎那些「前史前」巨怪的归来——它们将推翻人类、席卷大地，大体上为所欲为于我们的世界。
+> **原句 1:** When it's all done with, he just sits in silence for a few moments in the library of his Boston home (summer sunlight wandering over the oak walls), and then he breaks down and weeps like a lost soul for the better part of the day, letting up later that night.
 
-句子结构：They discovered, positively 起 + that 从句（there exist savage cults which practice strange rites）+ 冒号列举三类 degenerate 群体 + The two professors also discovered that 从句（the primary aim… is to await and welcome the return of ante-prehistoric monstrosities + which 定语从句 will unseat… overrun… have their way）。
+中文理解：当一切都完成后，他在波士顿家中的图书馆里静静地坐了一会儿（夏日的阳光在橡木墙上游荡），然后他崩溃了，像一个迷失的灵魂一样哭了差不多一整天，直到那天晚上才停下来。
 
-关键词：savage cults（野蛮邪教）、strange rites（怪仪）、degenerate（堕落的）、ante-prehistoric monstrosities（前史前巨怪）、unseat the human race（推翻人类）、have their way with our world（为所欲为）
+句子结构：When it's all done with 是时间状语从句；he just sits in silence for a few moments… 是主句；and then he breaks down and weeps like a lost soul… 是并列谓语；letting up later that night 是分词状语。
 
-表达方式：用「degenerate Eskimos / Caucasians / Indians」的种族列举，复制洛夫克拉夫特式的种族化恐慌语域，但语气带戏拟的疏离。
+关键词：breaks down（崩溃）、weeps like a lost soul（像迷失的灵魂一样哭）、for the better part of the day（差不多一整天）
 
-为什么这样写：Ligotti 在此既致敬又拆解洛夫克拉夫特——把「非人巨怪将取代人类」的宇宙恐怖直白列出。ante-prehistoric（前史前）一词巧妙把威胁推到时间起点之前，暗示人类本就是后来者、篡位者。
+表达方式：「summer sunlight wandering over the oak walls」是阳光的拟人化——它「游荡」在墙上，暗示一种不安的平静。
 
----
-
-### 第3处：知情者的地狱——「the most miserable being on earth」
-
-① For some reason, however, the followers of the Great Old Ones (as the extraterrestrial entities are referred to) never follow through, and Prof. Thurston appears to escape assassination, at least for an indefinite period of time. But this is of little comfort, because knowing what he knows, Prof. Thurston is the most miserable being on earth. He grieves for his lost dream of life, and even the skies of spring and flowers of summer are a horror to his eyes.
-
-中文理解：然而不知为何，那些「伟大旧日存在」（对这些地外实体的称呼）的追随者从未真的下手，瑟斯顿教授似乎逃过了刺杀，至少暂时。但这聊胜于无：正因知晓他所知的，瑟斯顿教授成了地球上最悲惨的存在。他为失落的生之梦哀悼，连春空与夏花在他眼中都是恐怖。
-
-句子结构：For some reason 转折 + the followers never follow through + and Prof. Thurston appears to escape assassination + But this is of little comfort + because 原因（knowing what he knows）+ 主句 he is the most miserable being on earth + He grieves + and even the skies… are a horror to his eyes。
-
-关键词：followers of the Great Old Ones（伟大旧日存在的追随者）、never follow through（从未真下手）、escape assassination（逃过刺杀）、of little comfort（聊胜于无）、the most miserable being on earth（地上最悲惨的存在）、a horror to his eyes（在他眼中是恐怖）
-
-表达方式：用「even the skies of spring and flowers of summer are a horror」把最温和的景也翻成恐怖，写尽知情者的世界崩解。
-
-为什么这样写：这是全篇的题眼。洛夫克拉夫特原作里「知情者被灭口」是外部恐怖；Ligotti 改成「知情者活着、且因此最惨」——死的慈悲被剥夺，留下的是永昼般的煎熬。这比死亡更冷。
+为什么这样写：Thurston 完成手稿后的哭泣是他无法分享他的知识的绝望表达——他必须独自承受这个可怕的真相。
 
 ---
 
-### 第4处：日常的空壳——「a joyless requisite for survival and no more」
+### 第2处：Gammell Angell 的传承——「考古学和人类学的发掘」
 
-① After months of boredom and a personal devastation far worse than any worldwide apocalypse could possibly be, he decides to return to his old job at the university. Not that he believes any longer in the hollow conclusions of his once beloved anthropology, but at least it would give him a way to occupy himself, to lose himself. Still, he continues to be profoundly despondent and his looks degenerate beyond polite comment.
+> **原句 2:** Prof. Thurston is the nephew of George Gammell Angell, also a professor (at Brown U., Providence, PJ), whose archaeological and anthropological unearthings led him, and after his death led his nephew, to some disturbing conclusions concerning the nature and fate of human life, with implications universal even in their least astounding aspects.
 
-中文理解：在数月的无聊与一场远惨过任何世界末日的个人崩毁之后，他决定回大学老本行。倒不是他再信那昔日钟爱的人类学之空洞结论，但至少能让他有个消磨、迷失自己的方式。然而他仍深陷沮丧，形容憔悴到不堪置评。
+中文理解：瑟斯顿教授是乔治·加梅尔·安吉尔教授的侄子，后者也在布朗大学（普罗维登斯）任教，他的考古学和人类学发掘让他，然后在死后让他的侄子，得出了关于人类生命的本质和命运的令人不安的结论，即使在最不令人震惊的方面也有普遍的含义。
 
-句子结构：After months of boredom and a personal devastation 起 + he decides to return to his old job + Not that 从句（he believes… in the hollow conclusions）+ but at least it would give him a way to occupy himself + Still 转折（he continues despondent + his looks degenerate）。
+句子结构：Prof. Thurston is the nephew of George Gammell Angell… 是主句；whose archaeological and anthropological unearthings led him… to some disturbing conclusions 是定语从句；with implications universal… 是独立形容词短语。
 
-关键词：personal devastation（个人崩毁）、far worse than any worldwide apocalypse（远惨过任何世界末日）、hollow conclusions（空洞结论）、occupy himself, to lose himself（消磨、迷失自己）、profoundly despondent（深陷沮丧）、degenerate beyond polite comment（憔悴到不堪置评）
+关键词：archaeological and anthropological unearthings（考古学和人类学发掘）、disturbing conclusions（令人不安的结论）、the nature and fate of human life（人类生命的本质和命运）
 
-表达方式：用「far worse than any worldwide apocalypse」把个人精神崩溃置于宇宙灾难之上，反崇高。
+表达方式：这是 Ligotti 对 Lovecraft 的直接引用——《克苏鲁的呼唤》中的角色安吉尔教授的侄子。
 
-为什么这样写：Ligotti 在此点出——对知情者而言，内在的虚无比外部末日更致命。回归学术只是「占用自己」的麻醉，人类学结论已空，他连逃避的壳都嫌薄。
-
----
-
-### 第5处：蜜月与强撑——「a joyless requisite for survival and no more」
-
-① The couple honeymoons at a picturesque little town on the seacost of Massachusetts. To all appearances, several sublime days pass without one ripple of grief. One day, as he and his bride watch the sun descend into a perfectly unwrinkled ocean, Prof. Thurston almost manages to rationalize into nonexistence his dreadful knowledge.
-
-中文理解：二人在麻省海滨一座如画小镇蜜月。外表看，数日崇高无一丝悲痕。一日，当他与新娘望着太阳沉入全然无皱的海洋，瑟斯顿教授几乎要把那可怕的知识理性化到不复存在。
-
-句子结构：The couple honeymoons + To all appearances 起 + several sublime days pass without one ripple of grief + One day 起 + as 从句（he and his bride watch the sun descend）+ Prof. Thurston almost manages to rationalize into nonexistence his dreadful knowledge。
-
-关键词：picturesque little town（如画小镇）、seacost of Massachusetts（麻省海滨）、sublime days（崇高之日）、without one ripple of grief（无一丝悲痕）、perfectly unwrinkled ocean（全然无皱的海洋）、rationalize into nonexistence（理性化到不复存在）
-
-表达方式：用「perfectly unwrinkled ocean」写一种虚假的、易于催眠的平静；「rationalize into nonexistence」把自我欺骗写成主动手术。
-
-为什么这样写：蜜月是短暂的麻醉。Ligotti 让「无皱之海」成为遗忘的隐喻——但读者已知这平静是假的，因为末夜旧主必临。悬停的幸福最是残忍。
+为什么这样写：Thurston 继承了安吉尔的知识，但这是一种诅咒，不是礼物。
 
 ---
 
-### 第6处：新主降临与长嚎——「the long, abandoned howl of a madman or a beast」
+### 第3处：邪教的普遍性——「北极的退化爱斯基摩人、新英格兰海港的退化白人」
 
-① He awakens in darkness from a strange dream he cannot recall. Outside the window of the bedroom it sounds as though the whole town is in an ambivalent uproar—hysterical voices blending festival and catastrophe. And there are weirdly colored lights quivering upon the bedroom wall. Prof. Thurston's wife is also awake, and she says to her husband: "The new masters have come in the night to their chosen city. Have you dreamed of them?" There passes a moment of silence. Then, at last, Prof. Thurston answers his wife with the long, abandoned howl of a madman or a beast, for he too has dreamed the new dream and, without his conscious knowledge or consent, has embraced the new world.
+> **原句 3:** They discovered, positively, that throughout the world there exist savage cults which practice strange rites: degenerate Eskimos in the Arctic, degenerate Caucasians in New England seaport towns, and degenerate Indiand and mulattoes in the Louisiana swamps not far from Tulane University, New Orleans.
 
-中文理解：他在黑暗中从一场记不起的怪梦醒来。卧室外整座城仿佛陷入矛盾的喧腾——歇斯底里的声音里节庆与灾祸交融。怪色之光在卧室墙上颤动。瑟斯顿妻也醒着，对丈夫道：「新主已于夜中降临他们择定的城。你可梦到他们了？」静默片刻。终于，瑟斯顿教授以疯人或野兽那悠长、弃绝的嚎叫应答妻子——因他也梦了那新梦，且在不自知的状况下，已拥抱了新世界。
+中文理解：他们积极地发现，整个世界存在着实行奇怪仪式的野蛮邪教：北极退化的爱斯基摩人、新英格兰海港城镇退化的白人、路易斯安那沼泽地离杜兰大学不远的退化印第安人和黑白混血儿。
 
-句子结构：He awakens in darkness + Outside the window 起（it sounds as though the whole town is in an ambivalent uproar）+ And there are weirdly colored lights + Prof. Thurston's wife is awake + and she says 直接引语 + There passes a moment of silence + Then 起 + Prof. Thurston answers with the long, abandoned howl + for 原因（he too has dreamed the new dream + and has embraced the new world）。
+句子结构：They discovered, positively, that throughout the world there exist savage cults… 是宾语从句；which practice strange rites 是 cults 的定语从句；degenerate Eskimos… 是 rites 的同位语。
 
-关键词：ambivalent uproar（矛盾的喧腾）、hysterical voices blending festival and catastrophe（节庆与灾祸交融的歇斯底里）、weirdly colored lights（怪色之光）、the new masters have come（新主已降临）、long, abandoned howl of a madman or a beast（疯人或野兽悠长弃绝的嚎叫）、embraced the new world（已拥抱新世界）
+关键词：savage cults（野蛮邪教）、degenerate（退化的）、throughout the world（整个世界）
 
-表达方式：用「节庆与灾祸交融」写降临的双重性；「long, abandoned howl」把回应写成非人的宣泄，呼应前文「most miserable being」的终局。
+表达方式：Ligotti 在这里引用了 Lovecraft 的种族主义语言——「degenerate」这个词暗示这些群体在种族上低等。这是 Lovecraft 作品的已知问题。
 
-为什么这样写：终局反转洛夫克拉夫特——原作里人类抵抗/被灭，此处人类「拥抱」了新世界，连最痛苦的知情者也在梦中归顺。Ligotti 的冷意在于：恐怖不是被强加，而是被无意识地接纳；「without his conscious knowledge or consent」让屈服变得比暴力更彻底。嚎叫既是崩溃，也是归队。
+为什么这样写：Ligotti 模仿 Lovecraft 的风格，包括他的种族主义偏见——这是一种批判性的模仿，不是认同。
+
+---
+
+### 第4处：Great Old Ones 的漠不关心——「这些生物本身对人类的价值类别是漠不关心的」
+
+> **原句 4:** These beings are as detestably inhuman as humanly imaginable, though no more so. From the common individual's viewpoint their nature is one of supreme evil and insanity, notwithstanding that the creatures themselves are indifferent to, if not totally unaware of, such mundane categories of value.
+
+中文理解：这些存在是人类想象中同样可恶的非人类，但也不过如此。从普通人的角度来看，他们的本质是极端邪恶和精神错乱的，尽管这些生物本身对人类的价值类别是漠不关心的，如果不是完全不了解的话。
+
+句子结构：These beings are as detestably inhuman as humanly imaginable 是主句；though no more so 是让步状语；From the common individual's viewpoint their nature is one of supreme evil and insanity 是并列主句；notwithstanding that the creatures themselves are indifferent to… 是让步状语从句。
+
+关键词：detestably inhuman（可恶的非人类）、supreme evil and insanity（极端邪恶和精神错乱）、indifferent to（对…漠不关心）、mundane categories of value（世俗的价值类别）
+
+表达方式：Great Old Ones 对人类价值观的漠不关心是全篇的核心——它们的「邪恶」只是人类的投射，它们本身没有道德感。
+
+为什么这样写：这是 Ligotti 对 Lovecraft 宇宙观的哲学思考——宇宙不在乎人类的价值观。
+
+---
+
+### 第5处：Thurston 的无间地狱——「他比世界上任何生物都痛苦」
+
+> **原句 5:** But this is of little comfort, because knowing what he knows, Prof. Thurston is the most miserable being on earth. He grieves for his lost dream of life, and even the skies of spring and flowers of summer are a horror to his eyes.
+
+中文理解：但这几乎没有给他安慰，因为知道他所知道的，瑟斯顿教授是地球上最痛苦的生物。他为他失去的生命梦想而悲伤，甚至春天的天空和夏天的花朵对他来说都是一种恐惧。
+
+句子结构：But this is of little comfort 是主句；because knowing what he knows 是原因状语；Prof. Thurston is the most miserable being on earth 是主句；He grieves for his lost dream of life 是并列句；and even the skies of spring… are a horror to his eyes 是并列句。
+
+关键词：of little comfort（几乎没有安慰）、the most miserable being on earth（地球上最痛苦的生物）、grieves for his lost dream of life（为他失去的生命梦想而悲伤）
+
+表达方式：春天和夏天变成「恐怖」是全篇最有力的意象之一——正常的自然美被他的知识所污染。
+
+为什么这样写：知识本身就是一种诅咒——Thurston 知道真相后，他无法再享受正常的美。
+
+---
+
+### 第6处：学生的爱——「他可以看到她真的在乎」
+
+> **原句 6:** The professor glances up at the girl. After only the briefest gaze into her eyes he can see that she really cares.
+
+中文理解：教授抬头看向女孩。只用了最短的时间凝视她的眼睛，他就能看到她真的在乎。
+
+句子结构：The professor glances up at the girl 是主句；After only the briefest gaze into her eyes 是时间状语；he can see that she really cares 是主句。
+
+关键词：glances up at（抬头看向）、the briefest gaze（最短的凝视）、she really cares（她真的在乎）
+
+表达方式：「她真的在乎」是 Thurston 找到的第一个真正的人类连接——他的知识让他与正常人隔绝，但这个女人突破了这个障碍。
+
+为什么这样写：这是全篇最温暖的时刻——Thurston 在绝望中找到了一线希望。
+
+---
+
+### 第7处：蜜月的理性化——「他几乎成功地将可怕的知识理性化为不存在」
+
+> **原句 7:** One day, as he and his bride watch the sun descend into a perfectly unwrinkled ocean, Prof. Thurston almost manages to rationalize into nonexistence his dreadful knowledge.
+
+中文理解：有一天，当他和新娘看着太阳沉入一个完全没有皱纹的海洋时，瑟斯顿教授几乎成功地将他可怕的知识理性化为不存在。
+
+句子结构：One day, as he and his bride watch the sun descend into a perfectly unwrinkled ocean 是时间状语；Prof. Thurston almost manages to rationalize into nonexistence his dreadful knowledge 是主句。
+
+关键词：the sun descend into a perfectly unwrinkled ocean（太阳沉入一个完全没有皱纹的海洋）、to rationalize into nonexistence（理性化为不存在）、dreadful knowledge（可怕的知识）
+
+表达方式：「perfectly unwrinkled ocean」是完美的视觉比喻——Thurston 想要他的知识像这个海洋一样没有褶皱，不存在。
+
+为什么这样写：这是 Thurston 的「最后一次尝试」来合理化他的知识——他想相信人类的美好足以抵消宇宙的恐怖。
+
+---
+
+### 第8处：拍照——「他爱她，但他她的天真正在撕裂他」
+
+> **原句 8:** He loves her dearly, but her innocence is tearing him apart. How long can he conceal the terrible things he knows about himself, about her, and about the world?
+
+中文理解：他深深地爱着她，但她 的天真正在撕裂他。他能隐瞒多久关于他自己、她、和这个世界的可怕事情？
+
+句子结构：He loves her dearly 是主句；but her innocence is tearing him apart 是并列谓语；How long can he conceal… 是疑问句。
+
+关键词：loves her dearly（深深地爱着她）、her innocence is tearing him apart（她的天真正在撕裂他）、to conceal the terrible things（隐瞒可怕的事情）
+
+表达方式：「her innocence is tearing him apart」是双关——她的天真既是吸引他的东西，也是折磨他的东西。
+
+为什么这样写：Thurston 无法向他的妻子透露真相，因为她的天真是他爱她的原因，也是他痛苦的原因。
+
+---
+
+### 第9处：最后一夜——「新主人已经在夜里来到他们选定的城市」
+
+> **原句 9:** "The new masters have come in the night to their chosen city. Have you dreamed of them?" There passes a moment of silence.
+
+中文理解：「新主人已经在夜里来到他们选定的城市。你梦到过他们吗？」沉默了一会儿。
+
+句子结构：The new masters have come in the night to their chosen city 是直接引语；Have you dreamed of them? 是直接引语；There passes a moment of silence 是独立句。
+
+关键词：the new masters have come in the night（新月主已经在夜里来了）、their chosen city（他们选定的城市）、Have you dreamed of them?（你梦到过他们吗？）
+
+表达方式：这是全篇最黑暗的揭示——Thurston 的妻子是邪教成员，她一直在等待这一刻。
+
+为什么这样写：Thurston 以为他找到了救赎，但他只是被邪教更深入地吸收了。
+
+---
+
+### 第10处：「他用疯子或野兽的长时间被抛弃的咆哮回答」
+
+> **原句 10:** Then, at last, Prof. Thurston answers his wife with the long, abandoned howl of a madman or a beast, for he too has dreamed the new dream and, without his conscious knowledge or consent, has embraced the new world.
+
+中文理解：然后，最终，瑟斯顿教授用疯子或野兽的长时间被抛弃的咆哮回答了他的妻子，因为他也梦到了新的梦，而且在没有他的意识知识或同意的情况下，已经拥抱了新世界。
+
+句子结构：Then, at last, Prof. Thurston answers his wife with the long, abandoned howl of a madman or a beast 是主句；for he too has dreamed the new dream 是原因状语从句；and, without his conscious knowledge or consent, has embraced the new world 是并列谓语。
+
+关键词：the long, abandoned howl（长时间被抛弃的咆哮）、dreamed the new dream（梦到了新的梦）、without his conscious knowledge or consent（在他的意识知识或同意之外）、embraced the new world（拥抱了新世界）
+
+表达方式：「without his conscious knowledge or consent」是全篇最恐怖的一行——Thurston 被转化了，但他没有选择。
+
+为什么这样写：这是全篇最黑暗的结局——Thurston 以为他选择了人类的爱，但他实际上是被宇宙恐怖所选中。
 
 ---
 
@@ -109,37 +178,35 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| manuscript | 手稿 | a manuscript he intends no other person ever to lay eyes on |
-| prehistoric / ante-prehistoric | 史前的 / 前史前的 | ante-prehistoric monstrosities which will unseat the human race |
-| monstrosity | 巨怪；畸形物 | ante-prehistoric monstrosities |
-| unseat | 推翻；使离位 | monstrosities which will unseat the human race |
-| despondent | 沮丧的 | he continues to be profoundly despondent |
-| apocalypse | 末日；大灾难 | far worse than any worldwide apocalypse |
-| ambivalent | 矛盾的 | the whole town is in an ambivalent uproar |
+|---------|------|------|
+| to break down and weep | 崩溃并哭泣 | …and then he breaks down and weeps like a lost soul… |
+| to grieve for one's lost dream of life | 为失去的生命梦想而悲伤 | He grieves for his lost dream of life… |
+| to be a horror to one's eyes | 对某人来说是恐惧 | …even the skies of spring and flowers of summer are a horror to his eyes. |
+| to rationalize into nonexistence | 理性化为不存在 | …almost manages to rationalize into nonexistence his dreadful knowledge. |
+| to embrace the new world | 拥抱新世界 | …has embraced the new world. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| enlightenment | 启蒙（原文拼写 enlightment） | The Blasphemous Enlightment Of Prof. Francis Wayland Thurston |
-| savage | 野蛮的 | savage cults which practice strange rites |
-| degenerate | 堕落的 | degenerate Eskimos in the Arctic |
-| extraterrestrial | 地外的 | as the extraterrestrial entities are referred to |
-| rationalize | 合理化 | rationalize into nonexistence his dreadful knowledge |
+|---------|------|------|
+| archaeological and anthropological unearthings | 考古学和人类学发掘 | …whose archaeological and anthropological unearthings led him… |
+| savage cults | 野蛮邪教 | …there exist savage cults which practice strange rites… |
+| supreme evil and insanity | 极端邪恶和精神错乱 | …their nature is one of supreme evil and insanity… |
+| to be indifferent to | 对…漠不关心 | …the creatures themselves are indifferent to, if not totally unaware of… |
+| the briefest gaze | 最短的凝视 | After only the briefest gaze into her eyes… |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| cult | 邪教；崇拜 | savage cults which practice strange rites |
-| dream | 梦 | Have you dreamed of them |
-| wife | 妻 | Prof. Thurston's wife is also awake |
-| night | 夜 | The new masters have come in the night |
-| world | 世界 | has embraced the new world |
+|---------|------|------|
+| the most miserable being on earth | 地球上最痛苦的生物 | …Prof. Thurston is the most miserable being on earth. |
+| to watch the sun descend | 看着太阳落下 | …as he and his bride watch the sun descend into a perfectly unwrinkled ocean… |
+| to love dearly | 深深地爱 | He loves her dearly, but her innocence is tearing him apart. |
+| the new masters | 新主人 | The new masters have come in the night to their chosen city. |
+| a madman or a beast | 疯子或野兽 | …with the long, abandoned howl of a madman or a beast… |
 
 ---
 
 ## 一句话总结
 
-> 一篇洛夫克拉夫特《克苏鲁的呼唤》反转结局：Thurston 教授得知古老者将取代人类后未被害灭口，反而因「知晓真相」成地上最惨存在；蜜月夜新主降临，妻问「你梦到他们了吗」，他发野兽般长嚎——因他已在无意识中拥抱新世界。把「无知即福/知晓即死」翻成「知晓即永受煎熬」。
+Thurston 发现远古邪神的真相后准备被暗杀但杀手从未到来，他与一个学生结婚试图用人类的美来合理化宇宙的恐怖，但在新婚最后一夜他发现妻子也是邪教成员，他已经在梦中「拥抱了新世界」——他以为的救赎其实是更深的堕落。
