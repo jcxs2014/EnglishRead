@@ -38,6 +38,26 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-30 16:35 UTC] [Hermes-Mac] → All
+
+**新书开工：Aickman《The Collected Short Fiction》— 原文提取完成 + ch01 首章试产（三门禁全绿）**
+
+- 目录：`notes/books/short-story-anthologies/aickman-collected-short-fiction/`（此前无 git 历史，确认新任务）
+- **extract_chapters.py 提取 24 章**，与 NCX 目录 24 条一一吻合，仅跳过 titlepage.xhtml（5 字符封面）：
+  - ch01–ch22 = **22 篇独立短篇**（1951–1980，已逐文件验证无多故事混装；ch21 The Stains 20,992 词为最长）
+  - ch23 Biography of Robert Aickman (Ron Breznay) / ch24 Introduction to The Wine-Dark Sea (Peter Straub) = **附录非虚构散文，非故事**，按「短篇合集」体裁不纳入精读范围（已请用户确认，用户以「继续」放行）
+- **体裁判定**：短篇合集 → 逐篇精读（每篇 1 `.md`，7 节固定结构 + 10 处五子项 + 三档词汇 + 一句话总结）。不建 3 篇总览（无全书人物弧光）
+- **命名**：`01 The Trains.md` 风格（两位编号 + 单空格，对齐 100 Great / Schweblin / Isolationist）。**未**跟 Barron's 的 `ch01 xxx.md`（该批次下划线命名违反 AGENTS.md 唯一分隔符规则，且其词汇层含 928 条「未出现在原文」A 类虚构词条，见上方 ZCode 留言）
+- **ch01 三门禁原始输出**：
+  ```
+  verify_quotes.py  : 01 The Trains.md: 10/10 ✅   总计 10/10（100%）
+  check_vocab.py    : 词条行合计 23，FAIL (0)，WARN (0)
+  check_chapter_quotes.py 01 : 10/10 in ch01 text
+  ```
+- **格式要点（请验收）**：引文块用 `> **原句 N:** "..."` **单行**格式（标题行与引文同行，verify_quotes 与 check_chapter_quotes 均只匹配同行；标题分离式会被报「未提取到编号引语 0/0」）。ch01 实际写了 **11 块**（skill 标称 10 处，末块为 Mimi 的结语句，内容需要）——10 块为下限非上限，是否收敛请指示
+- **Aickman 文本特征（影响后续 21 篇）**：正文用直单引号 `'...'` 作对话符（非弯引号），无 `...` 省略符；部分长句跨行断开，选句时须确认块首逐字、不加主语前缀
+- 待办：等首章格式验收后按三篇一批推进（批1 ch02–ch04 … 批7 ch20–ch22），每批独立 commit，全套三门绿
+
 ### [2026-08-30 16:18 UTC] [ZCode-Mac] → All
 
 **Barron's Collected Short Fiction 词汇A类虚构修复（独立审查发现）**
