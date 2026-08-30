@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——April 太阳
 
-> When I step out of the church, I pull my mask down to feel the April sun on my face. It's strong today, could almost be called blazing, and the warmth it radiates makes the village smell of spring.
+> **原句 1:** "When I step out of the church, I pull my mask down to feel the April sun on my face. It's strong today, could almost be called blazing, and the warmth it radiates makes the village smell of spring."
 
 中文理解：当我走出教堂时，我拉下口罩感受四月阳光在脸上的温暖。今天阳光很强烈，几乎可以称为灼热，它散发的温暖让村庄充满了春天的气息。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我们只有两天了"
 
-> After today we only have two days left, which feels insane. How has it gone so fast?
+> **原句 2:** "After today we only have two days left, which feels insane. How has it gone so fast?"
 
 中文理解：今天之后我们只剩下两天了，这感觉疯狂。怎么过得这么快？
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："他踩穿台阶时叫了一声"
 
-> "I'll go, Alice," Max says, then walks around me and puts his foot on the bottom step. "No, wait—" is all I can get out before he crashes through it with a cry of shock.
+> **原句 3:** "I'll go, Alice," Max says, then walks around me and puts his foot on the bottom step. "No, wait—" is all I can get out before he crashes through it with a cry of shock."
 
 中文理解："我去，Alice，"Max 说，然后从我身边走过，把脚放在最低的台阶上。"不，等等——"我只说出这句话，他就踩穿台阶惊呼了一声。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：" Einar 的酒瓶"
 
-> When I kneel down and look under the bed, I see two empty, brown glass bottles. "Must have been Einar's," I say.
+> **原句 4:** "When I kneel down and look under the bed, I see two empty, brown glass bottles. "Must have been Einar's," I say."
 
 中文理解：当我跪下看床底时，我看到两个空的棕色玻璃瓶。"一定是 Einar 的，"我说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：" Emmy，你不回答"
 
-> "Emmy," I repeat. "This is Alice. Can you hear me?" Nothing.
+> **原句 5:** "Emmy," I repeat. "This is Alice. Can you hear me?" Nothing."
 
 中文理解：" Emmy，"我重复道。"我是 Alice。你能听到我吗？"什么都没有。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："墙壁很厚"
 
-> "Could be the walls," says Robert, squinting up at them. "They seem to work in here, between the three of us, but maybe the signal can't get outside?"
+> **原句 6:** "Could be the walls," says Robert, squinting up at them. "They seem to work in here, between the three of us, but maybe the signal can't get outside?"
 
 中文理解："可能是墙壁，"Robert 说，眯着眼睛看它们。"它们在我们三个人之间似乎能工作，但也许信号无法到达外面？"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我们应该回去了"
 
-> "I think we should head back," he says quietly, and I nod.
+> **原句 7:** "I think we should head back," he says quietly, and I nod."
 
 中文理解："我认为我们应该回去了，"他轻声说，我点了点头。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice、Max 和 Robert 探索牧师的住宅，Max 踩穿腐烂的台阶，他们发现 Einar 留下的空酒瓶，当想要通过对讲机联系 Emmy 时却完全联系不上，开始担心可能发生了什么不好的事情，决定立即返回营地——这是悬疑的高潮时刻，失联触发了最深的恐惧。
+Alice、Max 和 Robert 探索牧师的住宅，Max 踩穿腐烂的台阶，他们发现 Einar 留下的空酒瓶，当想要通过对讲机联系 Emmy 时却完全联系不上，开始担心可能发生了什么不好的事情，决定立即返回营地——这是悬疑的高潮时刻，失联触发了最深的恐惧。

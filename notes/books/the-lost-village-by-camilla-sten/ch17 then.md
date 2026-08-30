@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——"绝望"
 
-> There's a twinge in her chest, a sinking feeling. It's an unfamiliar sensation, and it takes her a few seconds to put her finger on it. Hopelessness.
+> **原句 1:** "There's a twinge in her chest, a sinking feeling. It's an unfamiliar sensation, and it takes her a few seconds to put her finger on it. Hopelessness."
 
 中文理解：她的胸口有一阵刺痛，沉沦的感觉。这是一种陌生的感觉，她花了几秒钟才说出它的名字。绝望。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："他看起来像一个酒鬼"
 
-> He looks like a drunkard, the way Einar always looked whenever she'd found him in the church and had to haul him back into the chapel to sleep it off.
+> **原句 2:** "He looks like a drunkard, the way Einar always looked whenever she'd found him in the church and had to haul him back into the chapel to sleep it off."
 
 中文理解：他看起来像一个酒鬼，就像 Einar 每次在她在教堂发现他、不得不把他拖回教堂让他睡一觉时看起来的那样。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她没有心"
 
-> She waits for the anger, as does Staffan—she can see it from the way he contracts beneath her gaze. But she doesn't have the heart. She feels no anger. Only sadness.
+> **原句 3:** "She waits for the anger, as does Staffan—she can see it from the way he contracts beneath her gaze. But she doesn't have the heart. She feels no anger. Only sadness."
 
 中文理解：她等待愤怒，Staffan 也是——她可以从他在她目光下收缩的样子看出来。但她没有心。她感觉不到愤怒。只有悲伤。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他内心的火花似乎熄灭了"
 
-> It's as though the spark within him has died.
+> **原句 4:** "It's as though the spark within him has died."
 
 中文理解：就好像他内心的火花已经熄灭了。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："但她醒来时有一种感觉，她无法呼吸"
 
-> But now she wakes up in the mornings with the feeling that she can't breathe.
+> **原句 5:** "But now she wakes up in the mornings with the feeling that she can't breathe."
 
 中文理解：但现在她每天早上醒来时都有一种无法呼吸的感觉。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："如果他们离开，谁来照顾 Birgitta？"
 
-> The house isn't the only reason why they can't leave Silvertjärn. For if they left, then who would look after Birgitta?
+> **原句 6:** "The house isn't the only reason why they can't leave Silvertjärn. For if they left, then who would look after Birgitta?"
 
 中文理解：房子不是他们不能离开 Silvertjärn 的唯一原因。因为如果他们离开了，那谁来照顾 Birgitta？
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：走向 Birgitta 的小屋
 
-> The morning air is cold and crisp, with a late-winter sharpness. The village stands in stark relief against the brightening sky, which is high and clear.
+> **原句 7:** "The morning air is cold and crisp, with a late-winter sharpness. The village stands in stark relief against the brightening sky, which is high and clear."
 
 中文理解：早晨的空气寒冷而清新，带着冬末的锋利。村庄在明亮的天空的鲜明映衬下矗立，高远而清晰。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 早上发现丈夫 Staffan 醉酒睡觉，感到绝望——矿山关闭后没有工作，他们被困在 Silvertjärn，但即使想离开也不能，因为"谁来照顾 Birgitta"——这是"经济绝望"与"照顾者责任"的困境，以及一个即将崩溃的村庄的缩影。
+Elsa 早上发现丈夫 Staffan 醉酒睡觉，感到绝望——矿山关闭后没有工作，他们被困在 Silvertjärn，但即使想离开也不能，因为

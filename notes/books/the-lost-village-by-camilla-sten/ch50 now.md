@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："锁她在楼上"
 
-> "Lock her upstairs," I say. The words sound foreign.
+> **原句 1:** "Lock her upstairs," I say. The words sound foreign."
 
 中文理解："锁她在楼上，"我说。话听起来很陌生。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："一些原始的恐惧被触发"
 
-> Something triggers a sort of primal fear in me—not for her, but for them.
+> **原句 2:** "Something that triggers a sort of primal fear in me—not for her, but for them."
 
 中文理解：有什么在我身上触发了一种原始的恐惧——不是为她，而是为他们。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我达到了一定的极限"
 
-> I've reached some sort of limit.
+> **原句 3:** "I've reached some sort of limit."
 
 中文理解：我达到了一定的极限。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："这是我一直想要的吗？"
 
-> All I wanted was to know what happened. Was that so wrong?
+> **原句 4:** "All I wanted was to know what happened. Was that so wrong?"
 
 中文理解：我一直想要的就是知道发生了什么。那有那么错吗？
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："奶奶从墙上盯着我"
 
-> Elsa stares down at me from the wall. I close my eyes to escape hers.
+> **原句 5:** "Elsa stares down at me from the wall. I close my eyes to escape hers."
 
 中文理解：Elsa 从墙上盯着我。我闭上眼睛来逃避她的目光。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我坐在沙发上"
 
-> I sit down carefully on one of the two puffy sofas.
+> **原句 6:** "I sit down carefully on one of the two puffy sofas."
 
 中文理解：我小心翼翼地坐在两张蓬松沙发中的一张上。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我不知道我什么时候睡着的"
 
-> I don't know when I fall asleep.
+> **原句 7:** "I don't know when I fall asleep."
 
 中文理解：我不知道我什么时候睡着的。
 
@@ -150,4 +150,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 把 Tone 锁在奶奶家的楼上卧室后，筋疲力尽地瘫倒在沙发上，看着墙上 Elsa 穿越时光凝视着她的家庭照片，在思考自己最初只是想了解这个地方发生了什么是否真的有错后沉沉睡去——在身体和心理的双重崩溃前给自己最后片刻的休息。
+Alice 把 Tone 锁在奶奶家的楼上卧室后，筋疲力尽地瘫倒在沙发上，看着墙上 Elsa 穿越时光凝视着她的家庭照片，在思考自己最初只是想了解这个地方发生了什么是否真的有错后沉沉睡去——在身体和心理的双重崩溃前给自己最后片刻的休息。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："打火机油"
 
-> "The lighter fluid," Emmy says quietly.
+> **原句 1:** "The lighter fluid," Emmy says quietly."
 
 中文理解："打火机油，"Emmy 轻声说。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："不是我们四个人中的一个"
 
-> "It wasn't one of us four," Emmy says. "It can't have been one of us four."
+> **原句 2:** "It wasn't one of us," Emmy says. "It can't have been one of us four."
 
 中文理解："不是我们四个中的一个，"Emmy 说。"不可能是我们四个中的一个。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："Tone 的妈妈是他们在学校发现的婴儿"
 
-> "Tone's mom is the baby they found in the school," he says. "That's how she and Alice first met. Alice found her two years ago while she was doing research for the film."
+> **原句 3:** "Tone's mom is the baby they found in the school," he says. "That's how she and Alice first met. Alice found her two years ago while she was doing research for the film."
 
 中文理解："Tone 的妈妈是他们在学校发现的婴儿，"他说。"这就是她和 Alice 最初相遇的方式。Alice 两年前在做调查时找到了她。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我看到了那些药"
 
-> "I saw them in your tent," he goes on. "In the toiletry bag, when I was borrowing your toothpaste. Abilify."
+> **原句 4:** "I saw them in your tent," he goes on. "In the toiletry bag, when I was borrowing your toothpaste. Abilify."
 
 中文理解："我在你的帐篷里看到它们的，"他继续说。"在洗漱包里，当时我在借你的牙膏。阿立哌唑。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："Tone 有精神病"
 
-> "Tone has a psychotic disorder," he says, both clarifying and aggravating.
+> **原句 5:** "Tone has a psychotic disorder."
 
 中文理解："Tone 有精神病，"他说，既是澄清也是加剧。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她只是有一次发作"
 
-> "No, it's not like that," I say. "She's just had one episode, and that was over a year ago. She's not psychotic and she's not dangerous!"
+> **原句 6:** "No, it's not like that," I say, blinking frenetically against the tears that are about to brim over. "She's just had one episode, and that was over a year ago. She's not psychotic and she's not dangerous!"
 
 中文理解："不，不是那样的，"我说。"她只是有一次发作，那是一年多以前的事了。她不是精神病，她不危险！"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："这是我的错"
 
-> And then it dawns on me, light and brittle and clear, like day-old ice. This is my fault.
+> **原句 7:** "And then it dawns on me, light and brittle and clear, like day-old ice. This is my fault."
 
 中文理解：然后我明白了，轻盈、脆弱而清晰，就像一天的冰。这是我的错。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 爆炸后 Max 揭露了他看到 Tone 服用的抗精神病药物，Alice 被迫承认 Tone 有精神病史并且可能停止了服药，Alice 意识到 Tone 可能的心理问题导致了这一切而这是她的错，因为她作为唯一知道 Tone 病史的人没有尽到保护朋友的责任。
+爆炸后 Max 揭露了他看到 Tone 服用的抗精神病药物，Alice 被迫承认 Tone 有精神病史并且可能停止了服药，Alice 意识到 Tone 可能的心理问题导致了这一切而这是她的错，因为她作为唯一知道 Tone 病史的人没有尽到保护朋友的责任。

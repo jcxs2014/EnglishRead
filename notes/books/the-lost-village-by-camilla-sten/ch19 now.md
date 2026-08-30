@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——雨声
 
-> The rain is clattering against the roof of the van. It's chilly here in the back, much colder than it has been, but I've wrapped myself up in a blanket.
+> **原句 1:** "The rain is clattering against the roof of the van. It's chilly here in the back, much colder than it has been, but I've wrapped myself up in a blanket."
 
 中文理解：雨打在货车车顶上。在后面这里很冷，比之前冷多了，但我把自己裹在毯子里。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："让孩子在场"
 
-> It makes me uneasy to think a child could have been there in that room, with the person writing what was on those pages.
+> **原句 2:** "It makes me uneasy to think a child could have been there in that room, with the person writing what was on those pages."
 
 中文理解：想到一个孩子可能在那个人写那些页面的房间里，这让我感到不安。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："这些词让我想起了可怜的、被殴打的 Birgitta Lidman"
 
-> The words make me think of poor, battered Birgitta Lidman. An outsider, an outcast, even before Pastor Mattias arrived.
+> **原句 3:** "The words make me think of poor, battered Birgitta Lidman. An outsider, an outcast, even before Pastor Mattias arrived."
 
 中文理解：这些词让我想起了可怜的、被殴打的 Birgitta Lidman。一个局外人，一个被抛弃的人，甚至在 Mattias 牧师到来之前就是如此。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："这些页面是从什么时候开始的"
 
-> The next page must have been written at a different point in time. There are no crossings-out here; everything is written in one great sweep, and the handwriting is different, too. It's bigger, more sprawling, as though written in a rapturous frenzy.
+> **原句 4:** "The next page must have been written at a different point in time. There are no crossings-out here; everything is written in one great sweep, and the handwriting is different, too. It's bigger, more sprawling, as though written in a rapturous frenzy."
 
 中文理解：下一页一定是在不同的时间写的。这里没有划掉的内容；一切都是一口气写完的，笔迹也不同了。它更大，更潦草，就好像在狂喜的疯狂中写成的。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："真正的道路既不甜蜜也不诱人"
 
-> The true path is neither sweet nor seductive. The true path is not straight, but winds.
+> **原句 5:** "The true path is neither sweet nor seductive. The true path is not straight, but winds."
 
 中文理解：真正的道路既不甜蜜也不诱人。真正的道路不是直的，而是弯曲的。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："你必须成为他的战士"
 
-> You are His warriors. You are his chosen ones. But you must choose Him.
+> **原句 6:** "You are His warriors. You are his chosen ones. But you must choose Him."
 
 中文理解：你们是他的战士。你们是他挑选的人。但你必须选择他。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："是这些页面开始的吗"
 
-> Was it on these pages that it began, the process that would end with Birgitta Lidman being bound to a pole in the village square and stoned to death?
+> **原句 7:** "Was it on these pages that it began, the process that would end with Birgitta Lidman being bound to a pole in the village square and stoned to death?"
 
 中文理解：是在这些页面上开始的吗，这个最终导致 Birgitta Lidman 被绑在村庄广场的柱子上被石头砸死的过程？
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在暴风雨中的货车后座阅读从教堂带来的文件，发现讲道稿宣扬"上帝的战士"和"穿越黑暗看到光明"，伴随着孩子画的潦草涂鸦，她开始理解这些文件可能导致了 Birgitta Lidman 被绑在柱子上被石头砸死的命运——这是"言论"与"暴力"之间的联系，也是"宗教狂热"的危险。
+Alice 在暴风雨中的货车后座阅读从教堂带来的文件，发现讲道稿宣扬

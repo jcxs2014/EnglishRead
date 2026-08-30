@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："我的焦虑是冰冷的，它的指甲很锋利"
 
-> My anxiety is cold, and its nails are sharp.
+> **原句 1:** "My anxiety is cold, and its nails are sharp."
 
 中文理解：我的焦虑是冰冷的，它的指甲很锋利。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我 creep across the square"
 
-> I creep across the square, trying to go as quietly as possible.
+> **原句 2:** "I creep across the square, trying to go as quietly as possible."
 
 中文理解：我悄悄地穿过广场，尽量让自己尽可能安静。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："猎物"
 
-> Prey.
+> **原句 3:** "Prey."
 
 中文理解：猎物。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我能听到什么吗？"
 
-> "Do you hear something?" Emmy asks quietly, her face tense.
+> **原句 4:** "Do you hear something?" Emmy asks quietly, her face tense."
 
 中文理解："你能听到什么吗？"Emmy 轻声问，她的表情紧张。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我把脚放在剩下的轮子上"
 
-> I put my foot on what's left of the wheel and lift myself up.
+> **原句 5:** "I put my foot on what's left of the wheel and lift myself up."
 
 中文理解：我把脚放在剩下的轮子上，然后把自己拉起来。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："在黑暗中，我听到了它"
 
-> And then, in the darkness, I hear it.
+> **原句 6:** "And then, in the darkness, I hear it."
 
 中文理解：然后，在黑暗中，我听到了它。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："有东西在移动"
 
-> Something moving.
+> **原句 7:** "Something moving."
 
 中文理解：有东西在移动。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 不相信 Tone 会点燃面包车，她爬进黑暗的面包车寻找发电机，在翻找器材时听到另一个呼吸声与她一起在黑暗中，她的身体在恐惧中僵住，慢慢适应黑暗后看到一个柔软的细长形状在移动，她低声呼唤失踪的朋友 Tone。
+Alice 不相信 Tone 会点燃面包车，她爬进黑暗的面包车寻找发电机，在翻找器材时听到另一个呼吸声与她一起在黑暗中，她的身体在恐惧中僵住，慢慢适应黑暗后看到一个柔软的细长形状在移动，她低声呼唤失踪的朋友 Tone。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："第四个房子"
 
-> This is the fourth house we've checked, and I've started to give up all hope of finding anything.
+> **原句 1:** "This is the fourth house we've checked, and I've started to give up all hope of finding anything."
 
 中文理解：这是我们检查的第四个房子，我已经开始放弃找到任何东西的所有希望。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我很好奇 Robert 是否会挑战 Emmy"
 
-> I wonder if Robert would ever challenge Emmy; he seems to view her authority as absolute.
+> **原句 2:** "I wonder if Robert would ever challenge Emmy; he seems to view her authority as absolute."
 
 中文理解：我好奇 Robert 是否会挑战 Emmy；他似乎把她的权威视为绝对。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我只是想有机会寻找 Tone"
 
-> I don't think we'll find any food, I just wanted a chance to look for Tone.
+> **原句 3:** "I don't think we'll find any food, I just wanted a chance to look for Tone."
 
 中文理解：我不认为我们会找到任何食物，我只是想有机会寻找 Tone。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："一扇绿色的门"
 
-> A green door.
+> **原句 4:** "A green door."
 
 中文理解：一扇绿色的门。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："这是我能吻他，但我只是用一个简单的"谢谢"来满足"
 
-> I could kiss him, but I make do with a simple "Thanks."
+> **原句 5:** "I could kiss him, but I make do with a simple "Thanks."
 
 中文理解：我能吻他，但我只是用一个简单的"谢谢"来满足。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："这解锁了我内心的某种东西"
 
-> Still, it feels like it unlocks something inside me.
+> **原句 6:** "Still, it feels like it unlocks something inside me."
 
 中文理解：仍然，它感觉像是解锁了我内心的某种东西。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："蜂蜜如果没有被污染就不会变坏"
 
-> "Honey doesn't go off if it hasn't been contaminated," he says.
+> **原句 7:** "Honey doesn't go off if it hasn't been contaminated," he says."
 
 中文理解："蜂蜜如果没有被污染就不会变坏，"他说。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Robert 在村子里搜寻食物时 Alice 认出了奶奶家那扇独特的绿色门，她说服 Robert 让她进去查看，在厨房里找到了蜂蜜和沙丁鱼罐头这些可以维持他们生存的物资，同时也触碰到了与这个被遗弃村庄相关的家族历史。
+Alice 和 Robert 在村子里搜寻食物时 Alice 认出了奶奶家那扇独特的绿色门，她说服 Robert 让她进去查看，在厨房里找到了蜂蜜和沙丁鱼罐头这些可以维持他们生存的物资，同时也触碰到了与这个被遗弃村庄相关的家族历史。

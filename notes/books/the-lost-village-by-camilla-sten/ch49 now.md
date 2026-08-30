@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："她正在向河边跑去"
 
-> She's running as fast as she can down toward the river, but that isn't quick.
+> **原句 1:** "She's running as fast as she can down toward the river, but that isn't quick."
 
 中文理解：她正尽可能快地朝河边跑去，但速度不快。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她的眼睛是游离的"
 
-> Her eyes are flitting around, unfocused. I try to meet her gaze, but there's no recognition there.
+> **原句 2:** "Her eyes are flitting around, unfocused. I try to meet her gaze, but there's no recognition there."
 
 中文理解：她的眼睛是游离的，游移不定。我试图与她对视，但那里没有认出。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："像受伤的动物一样挣扎"
 
-> Tone is struggling like a wounded animal, kicking and trying to bite at them.
+> **原句 3:** "Tone is struggling like a wounded animal, kicking and trying to bite at them."
 
 中文理解：Tone 像受伤的动物一样挣扎，踢他们并试图咬他们。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她不能听到你"
 
-> "She can't hear you," Robert says thickly.
+> **原句 4:** "She can't hear you," Robert says thickly."
 
 中文理解："她不能听到你，"Robert 含糊地说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："她太强壮了，这不可能"
 
-> Emmy's much stronger, it wouldn't have been possible, Tone could never have overpowered her.
+> **原句 5:** "Emmy's much stronger, it wouldn't have been possible, Tone could never have overpowered her."
 
 中文理解：Emmy 更强壮，这不可能，Tone 永远不可能制服她。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："如果她的肋骨断了？"
 
-> And if her ribs were broken?
+> **原句 6:** "And if her ribs were broken?"
 
 中文理解：如果她的肋骨断了？
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我在 dirt 和阳光中盯着她"
 
-> I stare at her in the dirt and sunlight with dry, swollen eyes, unable to escape the recognition growing within me.
+> **原句 7:** "I stare at her in the dirt and sunlight with dry, swollen eyes, unable to escape the recognition growing within me."
 
 中文理解：我在 dirt 和阳光中盯着她，眼睛干涩肿胀，无法逃避在我内心不断增长的认知。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在村庄里追上了受伤的 Tone，但 Tone 处于疯狂状态一拳打在 Alice 太阳穴上，Max 和 Robert 控制住她后 Alice 看着这个蓬头垢面、眼睛游离、像受伤动物一样挣扎的女人，意识到她可能是杀了 Emmy 的凶手——这个令人无法逃避的认知在她心中不断增长。
+Alice 在村庄里追上了受伤的 Tone，但 Tone 处于疯狂状态一拳打在 Alice 太阳穴上，Max 和 Robert 控制住她后 Alice 看着这个蓬头垢面、眼睛游离、像受伤动物一样挣扎的女人，意识到她可能是杀了 Emmy 的凶手——这个令人无法逃避的认知在她心中不断增长。

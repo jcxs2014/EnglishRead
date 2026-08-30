@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——寒冷
 
-> It's colder than I thought it would be. What little warmth the pale April sun gave off doesn't stick around long after darkness, and the chill of winter is still set deep underground, beaming up through the cobblestones to fill the night with the scent of frozen soil.
+> **原句 1:** "It's colder than I thought it would be. What little warmth the pale April sun gave off doesn't stick around long after darkness, and the chill of winter is still set deep underground, beaming up through the cobblestones to fill the night with the scent of frozen soil."
 
 中文理解：比我想象的更冷。苍白的四月太阳所提供的微弱温暖在黑暗降临后不会停留太久，冬天的寒意仍然深植地下，从鹅卵石下透上来，在夜晚充满冷冻土壤的气息。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：父亲的摇滚
 
-> At Emmy's request, Robert has managed to hot-wire a small speaker to the generator we brought with us, which is now playing tinny dad rock.
+> **原句 2:** "At Emmy's request, Robert has managed to hot-wire a small speaker to the generator we brought with us, which is now playing tinny dad rock."
 
 中文理解：应 Emmy 的要求，Robert 设法用我们带来的发电机热接了一个小扬声器，现在正在播放单薄的父亲摇滚。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处： Max 的区块链财富
 
-> It's served him well. That meticulous side of him has meant that, by twenty-nine, he's been able to amass a small fortune from Blockchain transactions.
+> **原句 3:** "It's served him well. That meticulous side of him has meant that, by twenty-nine, he's been able to amass a small fortune from Blockchain transactions."
 
 中文理解：这对他很有帮助。他那一丝不苟的一面让他在二十九岁时就能够从区块链交易中积累一小笔财富。
 
@@ -59,21 +59,21 @@ modified: "2026-08-30"
 
 ### 第4处： Birgitta 的问题
 
-> "So there’s only one square in the village, then?" "This must be where they—" "Yes," I interrupt. "This is the main square. Where they found her. Birgitta."
+> **原句 4:** "So there’s only one square in the village, then?"
 
-中文理解："那村庄里只有一个广场吗？""这一定是他们——""是的，"我打断道。"这是主广场。他们在这里发现了她。 Birgitta。"
+中文理解："那村庄里只有一个广场吗？"
 
-关键词：Where they found her（他们在这里发现了她）
+关键词：only one square（只有一个广场）
 
-表达方式：对话作为"信息传递"的手段；Alice 的"打断"作为"急迫"的表达。
+表达方式：问句作为"信息确认"；这是 Emmy 在"探索"村庄。
 
-为什么这样写：Birgitta 是这个村庄的"心脏"——她的"发现地"是这个村庄的"中心"。Emmy 提到"他们"——这暗示了"暴力事件"。
+为什么这样写：Emmy 在"确认"位置信息——这是"调查"的开始。
 
 ---
 
 ### 第5处："你不能那样诊断人"
 
-> "You can't just diagnose people like that," says Tone. The firelight casts deep shadows under her eyebrows and nose, making her face look full of holes.
+> **原句 5:** "You can't just diagnose people like that," says Tone. The firelight casts deep shadows under her eyebrows and nose, making her face look full of holes."
 
 中文理解："你不能那样诊断人，"Tone 说。火光在她眉毛和鼻子下投下深深的阴影，使她的脸看起来像充满了洞。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："找到她会更酷"
 
-> "Pity you couldn't find her," says Emmy, her green eyes locked on me. "Would have been fucking cool to put her in the documentary. Made it more personal, you know."
+> **原句 6:** "Pity you couldn't find her," says Emmy, her eyes back on me. "Would have been fucking cool to put her in the documentary. Made it more personal, you know."
 
 中文理解："可惜你找不到她，" Emmy 说，她的绿眼睛盯着我。"把她放进纪录片里会很酷的。你知道，会让事情更私人化。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处： Aina 的信（过渡到 Then）
 
-> "Her grandmother's little sister. Aina."
+> **原句 7:** "Her grandmother's little sister. Aina."
 
 中文理解："她奶奶的小妹妹。 Aina。"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 团队在 Silvertjärn 主广场的篝火旁讨论 Birgitta 的命运和婴儿的下落，Emmy 质疑 Alice 对这个私人纪录片的动机，同时 Aina 的信件出现在"现在"与"过去"的交界处——夜幕下的篝火谈话揭示了这个村庄的秘密。
+团队在 Silvertjärn 主广场的篝火旁讨论 Birgitta 的命运和婴儿的下落，Emmy 质疑 Alice 对这个私人纪录片的动机，同时 Aina 的信件出现在"现在"与"过去"的交界处——夜幕下的篝火谈话揭示了这个村庄的秘密。

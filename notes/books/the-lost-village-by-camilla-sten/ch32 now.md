@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："Alice！你在这里做什么？"
 
-> "Alice! What are you doing?" I try to wrest back my hand, but the grip around my wrist is tight.
+> **原句 1:** "Alice! What are you doing?" I try to wrest back my hand, but the grip around my wrist is tight."
 
 中文理解："Alice！你在这里做什么？"我试图抽回我的手，但手腕上的抓握很紧。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我听到里面有声音。某人。"
 
-> There’s someone in there. Someone.
+> **原句 2:** "There’s someone in there."
 
 中文理解：里面有某人。某人。
 
@@ -57,7 +57,7 @@ modified: "2026-08-30"
 
 ### 第4处："也许是全在我的脑子里？"
 
-> Was it all in my head?
+> **原句 3:** "Was it all in my head?"
 
 中文理解：也许是全在我的脑子里？
 
@@ -71,7 +71,7 @@ modified: "2026-08-30"
 
 ### 第5处："我不是歇斯底里的"
 
-> "There was nothing there. She was just seeing things. Hysterical."
+> **原句 4:** "There was nothing there. She was just seeing things. Hysterical."
 
 中文理解："那里什么都没有。她只是在看到东西。歇斯底里的。"
 
@@ -85,7 +85,7 @@ modified: "2026-08-30"
 
 ### 第6处："有门可以关上。把什么东西关在外面。也把什么东西关在里面。"
 
-> Doors to shut out. And in.
+> **原句 5:** "Doors to shut out. And in."
 
 中文理解：门可以关上。把什么东西关在外面。也把什么东西关在里面。
 
@@ -99,7 +99,7 @@ modified: "2026-08-30"
 
 ### 第7处："教堂。我们去教堂。"
 
-> "The church," she says. "Let's go to the church."
+> **原句 6:** "The church," she says. "Let's go to the church."
 
 中文理解："教堂，"她说。"我们去教堂。"
 
@@ -150,4 +150,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 从翻倒的面包车里出来后试图向 Emmy 隐瞒她在黑暗中听到的另一个呼吸声，她不确定那是真实的还是她精神紧张想象出来的，Emmy 建议去教堂寻求庇护——这里曾经是邪教的中心，现在却成了他们唯一的避难所。
+Alice 从翻倒的面包车里出来后试图向 Emmy 隐瞒她在黑暗中听到的另一个呼吸声，她不确定那是真实的还是她精神紧张想象出来的，Emmy 建议去教堂寻求庇护——这里曾经是邪教的中心，现在却成了他们唯一的避难所。

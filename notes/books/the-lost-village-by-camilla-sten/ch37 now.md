@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："空气中有灰尘颗粒在跳舞"
 
-> Dust particles are dancing around in the air.
+> **原句 1:** "Dust particles are dancing around in the air."
 
 中文理解：灰尘颗粒在空气中跳舞。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："这看起来像经典电影中的甜蜜女孩的房间"
 
-> It looks like a sweet girls' room from a classic film.
+> **原句 2:** "It looks like a sweet girls' room from a classic film."
 
 中文理解：这看起来像经典电影中的甜蜜女孩的房间。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我脖子后部的短毛汗毛竖起来"
 
-> The short, sweaty hairs on the back of my neck are standing on end.
+> **原句 3:** "The short, sweaty hairs on the back of my neck are standing on end."
 
 中文理解：脖子后部的短毛汗毛竖起来了。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："一种奇怪的、不协和的噪音"
 
-> It's a strange, dissonant noise that sounds like interference yet isn't.
+> **原句 4:** "It's a strange, dissonant noise that sounds like interference yet isn't."
 
 中文理解：这是一种奇怪的、不协和的噪音，听起来像干扰但又不是。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："它变成了一个如此大声和意想不到的 bellow"
 
-> It intensifies to a bellow, one so loud and so unexpected that it makes me shrink away.
+> **原句 5:** "It intensifies to a bellow, one so loud and so unexpected that it makes me shrink away."
 
 中文理解：它变成了一个如此大声和意想不到的咆哮，让我缩回去。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我们尽快赶回教堂"
 
-> We take the steps quickly and carelessly, faster than is safe.
+> **原句 6:** "We take the steps quickly and carelessly, faster than is safe."
 
 中文理解：我们尽快赶回教堂，更快而不是更安全。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我仍然听到那个声音"
 
-> "Did you hear that?" I ask.
+> **原句 7:** "Did you hear that?" I ask."
 
 中文理解："你听到那个了吗？"我问。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Robert 在奶奶家楼上搜索时 Alice 感受到脖子后部汗毛竖起的恐惧，她找到了 Aina 的 papers 后对讲机突然发出一种奇怪的咆哮声不是 Emmy 的声音，他们跑回教堂但 Alice 仍然听到某种声音——在这被邪教渗透的村庄里，超自然的威胁正在逼近。
+Alice 和 Robert 在奶奶家楼上搜索时 Alice 感受到脖子后部汗毛竖起的恐惧，她找到了 Aina 的 papers 后对讲机突然发出一种奇怪的咆哮声不是 Emmy 的声音，他们跑回教堂但 Alice 仍然听到某种声音——在这被邪教渗透的村庄里，超自然的威胁正在逼近。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："Kristina Lidman"
 
-> "Kristina Lidman," I say. "Birgitta Lidman was the mother of the baby they found here. Birgitta Lidman was Tone's grandma."
+> **原句 1:** "Kristina Lidman," I say. "Birgitta Lidman was the mother of the baby they found here. Birgitta Lidman was Tone's grandma."
 
 中文理解："Kristina Lidman，"我说。"Birgitta Lidman 是他们在这里发现的婴儿的妈妈。Birgitta Lidman 是 Tone 的外婆。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："父亲：未知"
 
-> FATHER: UNKNOWN.
+> **原句 2:** "FATHER: UNKNOWN."
 
 中文理解：父亲：未知。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："Emmy 再也不会喜欢任何东西了"
 
-> She will never like anything again.
+> **原句 3:** "She will never like anything again."
 
 中文理解：她再也不会喜欢任何东西了。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："它们是手指的印记"
 
-> They're hand impressions.
+> **原句 4:** "They're hand impressions."
 
 中文理解：它们是手指的印记。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："她的眼睛充血了"
 
-> "They're bloodshot," he says. "I've read that the whites go bloodshot if a person's been…"
+> **原句 5:** "They're bloodshot," he says, his voice strange. "I've read that the whites go bloodshot if a person's been…"
 
 中文理解："它们充血了，"他说。"我读过，如果一个人被……眼白会充血。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："不是刺穿软组织的断肋"
 
-> No broken ribs that pierced soft, vulnerable tissue. No unlucky fall. No accident.
+> **原句 6:** "No broken ribs that pierced soft, vulnerable tissue. No unlucky fall. No accident."
 
 中文理解：不是刺穿软组织的断肋。不是不幸的摔倒。没有任何意外。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："某个人在这里"
 
-> Someone has been here.
+> **原句 7:** "Someone has been here."
 
 中文理解：某个人在这里。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 发现宝丽来照片记录了 Tone 外婆 Kristina Lidman 的出生证明，而 Max 在帮 Emmy 整理遗体时注意到她脖子上有手指形状的淤痕——这意味着 Emmy 不是死于楼梯坠落而是被人勒死，在这个被邪教渗透的村庄里有一个杀手存在。
+Alice 发现宝丽来照片记录了 Tone 外婆 Kristina Lidman 的出生证明，而 Max 在帮 Emmy 整理遗体时注意到她脖子上有手指形状的淤痕——这意味着 Emmy 不是死于楼梯坠落而是被人勒死，在这个被邪教渗透的村庄里有一个杀手存在。

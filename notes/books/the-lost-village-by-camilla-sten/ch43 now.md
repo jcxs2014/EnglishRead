@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：" Emmy！我在这里！"
 
-> "Here. I'm up here." The relief swells over me, temporarily subduing the throbbing pain in my back.
+> **原句 1:** "Here. I'm up here." The relief swells over me, temporarily subduing the throbbing pain in my back."
 
 中文理解："这里。我在这里。"宽慰涌上心头，暂时抑制了我背部阵阵的疼痛。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："别动！"
 
-> "Don't move!" Robert shouts, his voice surprisingly shrill.
+> **原句 2:** "Don't move!" Robert shouts, his voice surprisingly shrill."
 
 中文理解："别动！"Robert 喊道，他的声音出人意料地尖锐。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："不到二十四小时警察就到了"
 
-> It's after twelve. Less than twenty-four hours until the police arrive.
+> **原句 3:** "It's after twelve. Less than twenty-four hours until the police arrive."
 
 中文理解：已经过了十二点。不到二十四小时警察就到了。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："如果我没有坚持来这里就好了"
 
-> If only I hadn't insisted on coming here, if only I'd just listened to them, if only I hadn't persuaded Emmy to come with me …
+> **原句 4:** "If only I hadn't insisted on coming here, if only I'd just listened to them, if only I hadn't persuaded Emmy to come with me …"
 
 中文理解：要是我没有坚持来这里就好了，要是我听了他们的话就好了，要是我没有说服 Emmy 和我一起来的就好了……
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："消防通道"
 
-> It's the fire escape behind them.
+> **原句 5:** "It's the fire escape behind them."
 
 中文理解：是他们身后的消防通道。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："它承受不住你"
 
-> "It won't hold you," I say. "It's rusted."
+> **原句 6:** "It won't hold you," I say.
 
 中文理解："它承受不住你，"我说。"它生锈了。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我会去"
 
-> "I'll go," I say.
+> **原句 7:** "I'll go," I say."
 
 中文理解："我会去，"我说。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Max、Robert 在学校外面找到消防通道准备爬上二楼救 Emmy，Alice 克服自己背部受伤的剧痛决定亲自攀爬这个生锈的消防通道，因为她最轻可以减少通道断裂的风险——她在身体极限和意志力的对抗中向上攀爬去救受伤的 Emmy。
+Alice 和 Max、Robert 在学校外面找到消防通道准备爬上二楼救 Emmy，Alice 克服自己背部受伤的剧痛决定亲自攀爬这个生锈的消防通道，因为她最轻可以减少通道断裂的风险——她在身体极限和意志力的对抗中向上攀爬去救受伤的 Emmy。

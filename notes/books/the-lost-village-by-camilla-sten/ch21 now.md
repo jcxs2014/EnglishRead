@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——醒来
 
-> I wake up. My heart is pounding, but I blink and sit up in my sleeping bag, trying to shake off the nightmare.
+> **原句 1:** "I wake up. My heart is pounding, but I blink and sit up in my sleeping bag, trying to shake off the nightmare."
 
 中文理解：我醒来。我的心跳得很快，但我眨了眨眼，在睡袋里坐起来，试图摆脱噩梦。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我不敢相信她会 Sabotage 这个项目"
 
-> I can't believe that she would sabotage this project. But then … I have wondered why she agreed to come on board—despite us paying peanuts, despite having to work under me.
+> **原句 2:** "I can't believe that she would sabotage this project. But then … I have wondered why she agreed to come on board—despite us paying peanuts, despite having to work under me."
 
 中文理解：我不敢相信她会破坏这个项目。但然后……我一直想知道她为什么同意加入——尽管我们支付的报酬微薄，尽管她不得不在我手下工作。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："奶奶的信"
 
-> The letter was short. The handwriting wasn't Aina's usual style… It was written in a jerky, slipshod hand, on ink-stained paper, and was both incoherent and incomprehensible. She wrote that the hour was nigh, and that I must return to them before it was too late.
+> **原句 3:** "The letter was short. The handwriting wasn't Aina's usual style, which everyone had always praised for its elegance. It was written in a jerky, slipshod hand, on ink-stained paper, and was both incoherent and incomprehensible. She wrote that the hour was nigh, and that I must return to them before it was too late."rky, slipshod hand, on ink-stained paper, and was both incoherent and incomprehensible. She wrote that the hour was nigh, and that I must return to them before it was too late."
 
 中文理解：这封信很短。笔迹不是 Aina 通常的风格……它是用一种断断续续、草率的笔迹写的，写在沾了墨水的纸上，既混乱又难以理解。她写道时刻已临近，我必须在太晚之前回到他们身边。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他们看到了 Birgitta 的身体"
 
-> A pole had been raised in the middle of the square, and from it hung a limp body bound by ropes. Gitta must have been there for many long days, for the flies were swarming around her, and she had swollen in the late summer heat.
+> **原句 4:** "A pole had been raised in the middle of the square, and from it hung a limp body bound by ropes. Gitta must have been there for many long days, for the flies were swarming around her, and she had swollen in the late summer heat."
 
 中文理解：广场中央竖起了一根柱子，一具松软的身体被绳子绑着从柱子上垂下来。Gitta 一定在那里已经有很多天了，因为苍蝇在她周围嗡嗡叫，她在夏末的炎热中肿胀起来。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："爷爷发誓他看到她的头转过来看他们"
 
-> But when they looked at her, your grandfather swore—on the name of God the Father himself—that he saw her turn her head to look at them.
+> **原句 5:** "But when they looked at her, your grandfather swore—on the name of God the Father himself—that he saw her turn her head to look at them."
 
 中文理解：但当他们看着她时，你的爷爷以天父的名义发誓，他看到她的头转过来看他们。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："他们听到婴儿的哭声"
 
-> But in the midst of that silence they heard a baby's cries. They found the baby naked on the floor of the school's nurse's room. It was no more than a few days old.
+> **原句 6:** "But in the midst of that silence they heard a baby's cries. They found the baby naked on the floor of the school's nurse's room. It was no more than a few days old."
 
 中文理解：但在寂静中，他们听到了婴儿的哭声。他们在学校护士室的地板上发现了那个婴儿，一丝不挂。它不过出生几天。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："就像他们从未存在过一样"
 
-> Gone. As though they had never existed.
+> **原句 7:** "Gone. As though they had never existed."
 
 中文理解：消失了。就像他们从未存在过一样。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 从噩梦中醒来后回忆起奶奶讲述的故事——1959 年 8 月爷爷和 Nils 到达 Silvertjärn 发现 Birgitta 被绑在广场柱子上腐烂的尸体，整个村庄空无一人，只有一个几天大的婴儿在学校护士室的地板上哭泣，而 887 名居民就像从未存在过一样消失了——这是悬疑的核心揭示，也是家族创伤的源头。
+Alice 从噩梦中醒来后回忆起奶奶讲述的故事——1959 年 8 月爷爷和 Nils 到达 Silvertjärn 发现 Birgitta 被绑在广场柱子上腐烂的尸体，整个村庄空无一人，只有一个几天大的婴儿在学校护士室的地板上哭泣，而 887 名居民就像从未存在过一样消失了——这是悬疑的核心揭示，也是家族创伤的源头。

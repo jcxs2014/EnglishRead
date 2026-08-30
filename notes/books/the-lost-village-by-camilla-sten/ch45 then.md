@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："这太可怕了，就像一头无法忍受痛苦的动物"
 
-> It's a terrible sound, like an animal in unbearable pain, a muffled bellow that hardly seems like it could come from a human throat.
+> **原句 1:** "It's a terrible sound, like an animal in unbearable pain, a muffled bellow that hardly seems like it could come from a human throat."
 
 中文理解：这太可怕了，就像一头无法忍受痛苦的动物的叫声，一个几乎不像是人类喉咙发出的低沉咆哮。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她已经开始几个小时了"
 
-> "It started a few hours ago," she says, in response to the question Elsa has not yet asked.
+> **原句 2:** "It started a few hours ago," she says, in response to the question Elsa has not yet asked."
 
 中文理解："它已经开始几个小时了，"她说，回应 Elsa 还没来得及问的问题。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："Birgitta 正在分娩。我们必须把她带到 Ingrid 那里。"
 
-> "Birgitta is giving birth. We must get her to Ingrid."
+> **原句 3:** "Birgitta is giving birth. We must get her to Ingrid."
 
 中文理解："Birgitta 正在分娩。我们必须把她带到 Ingrid 那里。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她的羊水已经破了"
 
-> "But her waters have already broken. We must hurry."
+> **原句 4:** "But her waters have already broken. We must hurry."
 
 中文理解："但她的羊水已经破了。我们必须快点。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："恐惧完全绽放"
 
-> The fear in Elsa comes into full bloom.
+> **原句 5:** "The fear in Elsa comes into full bloom."
 
 中文理解：Elsa 心中的恐惧完全绽放。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："在昏暗的窗户光线下很难看清"
 
-> In the dim light of the window it's difficult to see much, but Elsa squints and leans in a little.
+> **原句 6:** "In the dim light of the window it's difficult to see much, but Elsa squints and leans in a little."
 
 中文理解：在昏暗的窗户光线下很难看清，但 Elsa 眯起眼睛，稍微向前倾。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："她弄脏了自己"
 
-> The edge of Birgitta's loose brown dress is darker. She has soiled herself.
+> **原句 7:** "The edge of Birgitta's loose brown dress is darker. She has soiled herself."
 
 中文理解：Birgitta 宽松棕色裙子的边缘更深了。她弄脏了自己。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 听到 Birgitta 小屋传来可怕的咆哮声赶过去，发现怀孕的 Birgitta 正在分娩而羊水已经破了，在这个被邪教渗透的村庄里她必须尽快把 Birgitta 带到助产士 Ingrid 那里——而威胁不仅来自分娩的紧迫性，还来自 Pastor Mattius 的追随者可能随时出现。
+Elsa 听到 Birgitta 小屋传来可怕的咆哮声赶过去，发现怀孕的 Birgitta 正在分娩而羊水已经破了，在这个被邪教渗透的村庄里她必须尽快把 Birgitta 带到助产士 Ingrid 那里——而威胁不仅来自分娩的紧迫性，还来自 Pastor Mattius 的追随者可能随时出现。

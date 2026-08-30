@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——"靠我更近"
 
-> "Lean into me more," I say to Tone. "Don't put any weight on that foot, I can support you."
+> **原句 1:** "Lean into me more," I say to Tone. "Don't put any weight on that foot, I can support you."
 
 中文理解："靠我更近，"我对 Tone 说。"不要把任何重量放在那只脚上，我可以支撑你。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：" Tylenol"
 
-> "Tylenol," Max says.
+> **原句 2:** "Tylenol," Max says."
 
 中文理解："泰诺，" Max 说。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："那是最糟糕的"
 
-> "That's the worst of it over," I lie, and she tries to respond with a faint smile that, in its own way, is worse than the tears.
+> **原句 3:** "That's the worst of it over," I lie, and she tries to respond with a faint smile that, in its own way, is worse than the tears."
 
 中文理解："最糟糕的已经过去了，"我撒谎说，她试图用一个微弱的微笑回应，而那微笑在某种意义上比眼泪更糟糕。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我听到了脚步声"
 
-> "Footsteps," she says. "There was someone walking around down there."
+> **原句 4:** "Footsteps," she says. "There was someone walking around down there."
 
 中文理解："脚步声，"她说。"有人在下面走动。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："你确定你听到的是……真实的吗？"
 
-> "Are you sure that … I mean, are you sure what you heard was … real?"
+> **原句 5:** "Are you sure that … I mean, are you sure what you heard was … real?"
 
 中文理解："你确定……我是说，你确定你听到的是……真实的吗？"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："对讲机里的呻吟声"
 
-> "Someone was calling into their walkie-talkie. Moaning in pain."
+> **原句 6:** "Someone was calling into their walkie-talkie. Moaning in pain."
 
 中文理解："有人在用对讲机呼叫。痛苦地呻吟着。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："让我看看可以吗？"
 
-> "All right if I take a look?" she asks.
+> **原句 7:** "All right if I take a look?" she asks."
 
 中文理解："让我看看可以吗？"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Tone 在学校楼梯受伤后，Alice 帮她脱下靴子，Tone 透露她在学校下方听到了脚步声，Emmy 和 Robert 跑来发现对讲机在发出声音——这是"受伤"与"神秘声音"并存的悬疑时刻，暗示可能有人藏在废弃的学校里。
+Tone 在学校楼梯受伤后，Alice 帮她脱下靴子，Tone 透露她在学校下方听到了脚步声，Emmy 和 Robert 跑来发现对讲机在发出声音——这是

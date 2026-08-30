@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——尖叫
 
-> A loud scream yanks me out of my sleep.
+> **原句 1:** "A loud scream yanks me out of my sleep."
 
 中文理解：一声响亮的尖叫把我从睡梦中拽了出来。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："像用赤裸的手压碎玻璃"
 
-> Being woken by a scream is like the feeling of crushing glass with your bare hands: instantaneous, distinct, painful.
+> **原句 2:** "Being woken by a scream is like the feeling of crushing glass with your bare hands: instantaneous, distinct, painful."
 
 中文理解：被尖叫惊醒就像用赤裸的手压碎玻璃的感觉：即时、清晰、痛苦。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处： Emmy 在内衣中
 
-> Emmy's leaning against the driver's side of the van, her misshapen white T-shirt seemingly melting into the paintwork. Her henna-red hair is dangling messily around her shoulders, and she isn't wearing any pants—just a pair of underwear and the big, white T-shirt she had on yesterday.
+> **原句 3:** "Emmy's leaning against the driver's side of the van, her misshapen white T-shirt seemingly melting into the paintwork. Her henna-red hair is dangling messily around her shoulders, and she isn't wearing any pants—just a pair of underwear and the big, white T-shirt she had on yesterday."
 
 中文理解：Emmy 斜靠在货车驾驶员一侧，她变形的白 T 恤似乎融入了车身。她指甲花粉红色的头发凌乱地垂在肩膀上，她没穿裤子——只有内衣和昨天穿的大白 T 恤。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我看到有人"
 
-> "I saw someone," she says, and I can't tell if she's very pale, or if all of us look like monochrome ghosts out here in the square.
+> **原句 4:** "I saw someone," she says, and I can't tell if she's very pale, or if all of us look like monochrome ghosts out here in the square."
 
 中文理解："我看到有人，"她说，我无法判断她是特别苍白，还是我们所有人在广场上都看起来像单色幽灵。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："他们的眼睛在盯着我看"
 
-> It was just a silhouette, but it was definitely a person. I could see their eyes. They were looking straight at me.
+> **原句 5:** "It was just a silhouette, but it was definitely a person. I could see their eyes. They were looking straight at me."
 
 中文理解：这只是一个剪影，但这绝对是一个人。我能看到他们的眼睛。他们正直视着我。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我看到广场另一边有人"
 
-> There, on the other side of the square. By the corner of the school. There's someone standing there. A slim, dark figure. Unmistakably human.
+> **原句 6:** "There, on the other side of the square. By the corner of the school. There's someone standing there. A slim, dark figure. Unmistakably human."
 
 中文理解：在那里，在广场的另一边。学校的角落。有个人站在那里。一个纤细的、黑暗的身影。绝对是人类。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处： Tone 的出现
 
-> "Oh. Hey."
+> **原句 7:** "Oh. Hey."
 
 中文理解："哦。嘿。"
 
@@ -115,7 +115,7 @@ modified: "2026-08-30"
 
 ### 第8处："我从来没有说那是鬼魂"
 
-> "I never said it was a ghost," Emmy says without looking at me, a certain roughness to her voice.
+> **原句 8:** "I never said it was a ghost," Emmy says without looking at me, a certain roughness to her voice."
 
 中文理解："我从来没有说那是鬼魂，"Emmy 说，没有看我，她的声音带着某种粗糙。
 
@@ -166,4 +166,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Emmy 在午夜尖叫说她看到一个身影站在货车前盯着她看，Alice 和 Robert 跑出去发现那只是 Tone 半夜起来上厕所的身影——这是一个"假警报"，但 Emmy 不相信这只是睡眠麻痹，她坚持说她是清醒的，她看到的是一个真实的人。
+Emmy 在午夜尖叫说她看到一个身影站在货车前盯着她看，Alice 和 Robert 跑出去发现那只是 Tone 半夜起来上厕所的身影——这是一个

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："天气太可怕了"
 
-> "Oh, you know. The weather's just frightful," she says, as though it were a personal affliction, rather than one felt by the whole village.
+> **原句 1:** "Oh, you know. The weather's just frightful," she says, as though it were a personal affliction, rather than one felt by the whole village."
 
 中文理解："哦，你知道的。天气太可怕了，"她说，仿佛这是她个人的苦难，而不是整个村庄都能感受到的。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我怀疑不是为了想要孩子"
 
-> Elsa suspects that it isn't for want of trying.
+> **原句 2:** "Elsa suspects that it isn't for want of trying."
 
 中文理解：Elsa 怀疑这不是为了想要孩子。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："狗失踪了"
 
-> "Ran away a few days ago, apparently," she says. "That's what they're saying, at least. Personally, I think we have bears in the forest."
+> **原句 3:** "Ran away a few days ago, apparently," she says. "That's what they're saying, at least. Personally, I think we have bears in the forest."
 
 中文理解："几天前跑掉了，显然，"她说。"至少他们是这样说的。就个人而言，我认为森林里有熊。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："来自 Birgitta 小屋的噪音"
 
-> "Now, there was something I wanted to talk to you about, Elsa," Dagny says, looking slightly discomfited. "You see, there's been rather a din coming from Birgitta's hut of late."
+> **原句 4:** "Now, there was something I wanted to talk to you about, Elsa," Dagny says, looking slightly discomfited. "You see, there's been rather a din coming from Birgitta's hut of late."
 
 中文理解："现在，有件我想和你谈谈的事，Elsa，"Dagny 说，看起来有点不安。"你看，最近从 Birgitta 的小屋里传来了相当大的噪音。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我不喜欢传播关于 Birgitta 的废话"
 
-> "Well, you know I'm not one of those who—I'm not one to run around spreading nonsense about Birgitta," she says. "And I daresay some of the things people in the parish are saying about her are outrageous."
+> **原句 5:** "Well, you know I'm not one of those who—I'm not one to run around spreading nonsense about Birgitta," she says. "And I daresay some of the things people in the parish are saying about her are outrageous."
 
 中文理解："嗯，你知道我不是那种人——我不是到处传播关于 Birgitta 的废话的人，"她说。"我敢说，教堂里一些人对她的评价是离谱的。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我认为她最好小心一点"
 
-> "I think it would be good for her to be careful," she says, casting a long, anxious look in the direction of Birgitta's hut.
+> **原句 6:** "I think it would be good for her to be careful," she says, casting a long, anxious look in the direction of Birgitta's hut."
 
 中文理解："我认为她最好小心一点，"她说，向 Birgitta 的小屋方向投去长久而焦虑的目光。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：Elsa 的心跳开始加速
 
-> Elsa's heart starts to pound.
+> **原句 7:** "Elsa's heart starts to pound."
 
 中文理解：Elsa 的心跳开始加速。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在街上遇到 Dagny，Dagny 一边抱怨天气一边透露村里的狗失踪可能被熊吃掉，然后暗示 Birgitta 的小屋最近晚上传来奇怪的噪音让邻居们议论纷纷，Dagny 警告 Elsa 应该让 Birgitta 小心，因为教区里的人已经在说她的闲话了——这是村庄开始集体排斥 Birgitta 的转折点。
+Elsa 在街上遇到 Dagny，Dagny 一边抱怨天气一边透露村里的狗失踪可能被熊吃掉，然后暗示 Birgitta 的小屋最近晚上传来奇怪的噪音让邻居们议论纷纷，Dagny 警告 Elsa 应该让 Birgitta 小心，因为教区里的人已经在说她的闲话了——这是村庄开始集体排斥 Birgitta 的转折点。

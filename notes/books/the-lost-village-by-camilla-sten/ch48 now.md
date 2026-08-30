@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："他的食指放在嘴唇上"
 
-> His face is still, and his index finger is raised to his lips.
+> **原句 1:** "His face is still, and his index finger is raised to his lips."
 
 中文理解：他的脸是静止的，他的食指放在嘴唇上。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她一直在做那个动作"
 
-> "She's been doing that for a while," Robert says quietly. "Peeking out and then disappearing."
+> **原句 2:** "She's been doing that for a while," Robert says quietly, without moving his lips. "Peeking out and then disappearing."eking out and then disappearing."
 
 中文理解："她一直在做那个动作，"Robert 轻声说。"探出头然后消失。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："你的意思是……"
 
-> "We looked at … at Emmy." How much time has passed?
+> **原句 3:** "We looked at … at Emmy." How much time has passed?"
 
 中文理解："我们看了…… Emmy。"已经过去了多少时间？
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："你"
 
-> "You," he says, swinging that single syllable like a weapon.
+> **原句 4:** "You," he says, swinging that single syllable like a weapon."
 
 中文理解："你，"他说，把这个音节像武器一样甩出去。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："她想留在那里，那里是安全的。但你强迫我们来救她。"
 
-> "She wanted to stay there, where it was safe. But you forced us here anyway. To save her."
+> **原句 5:** "She wanted to stay there, where it was safe. But you forced us here anyway. To save her."
 
 中文理解："她想留在那里，那里是安全的。但你还是强迫我们来救她。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她躺在外面的地板上，她死了。"
 
-> "And now she's lying out there," he whispers. "She's out there lying on the floor, and she's dead."
+> **原句 6:** "And now she's lying out there," he whispers. "She's out there lying on the floor, and she's dead."
 
 中文理解："现在她躺在外面，"他低声说。"她躺在外面的地板上，她死了。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他用床单覆盖了她"
 
-> He has covered her in the sheet we left beside her, and she looks so small under the white.
+> **原句 7:** "He has covered her in the sheet we left beside her, and she looks so small under the white."
 
 中文理解：他用我们留在她身边的床单覆盖了她，她在白色下面显得如此小。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Max 告诉 Robert 关于 Emmy 被勒死的真相，Robert 意识到 Tone 可能杀了 Emmy，他愤怒地指责 Alice 坚持来找 Tone 导致了这个悲剧，然后他跪在 Emmy 的尸体旁用床单轻轻覆盖她——这个失去朋友的痛苦场景成了整个小队最绝望的时刻。
+Alice 和 Max 告诉 Robert 关于 Emmy 被勒死的真相，Robert 意识到 Tone 可能杀了 Emmy，他愤怒地指责 Alice 坚持来找 Tone 导致了这个悲剧，然后他跪在 Emmy 的尸体旁用床单轻轻覆盖她——这个失去朋友的痛苦场景成了整个小队最绝望的时刻。

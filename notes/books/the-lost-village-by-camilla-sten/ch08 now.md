@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——失眠
 
-> My sleeping bag rustles as I twist and roll over onto my other side. The tent is big and fairly spacious, but it's hardly a hotel room: it's cold and basic, and smells of a mix of plastic and something slightly nauseating that I can't put my finger on.
+> **原句 1:** "My sleeping bag rustles as I twist and roll over onto my other side. The tent is big and fairly spacious, but it's hardly a hotel room: it's cold and basic, and smells of a mix of plastic and something slightly nauseating that I can't put my finger on."
 
 中文理解：我的睡袋在我翻身滚到另一侧时沙沙作响。帐篷很大而且相当宽敞，但这绝不是酒店房间：又冷又简陋，混合着塑料和某种说不出名字的轻微恶心气味。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处： Tone 的睡眠问题
 
-> Tone has sleep problems. It was one of the first things I ever learned about her, that first time we met, in an anonymous coffee chain by Odenplan just over two years ago.
+> **原句 2:** "Tone has sleep problems. It was one of the first things I ever learned about her, that first time we met, in an anonymous coffee chain by Odenplan just over two years ago."
 
 中文理解：Tone 有睡眠问题。这是我第一次见到她时最早了解到的事情之一，两年多前在 Odenplan 附近一家连锁咖啡店。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：" Does she know?"
 
-> "Does she know?" Tone asks out of the blue, all trace of laughter gone from her voice.
+> **原句 3:** "Does she know?" Tone asks out of the blue, all trace of laughter gone from her voice."
 
 中文理解："她知道吗？"Tone 突然问道，她声音里所有的笑意都消失了。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：" Mom would never do it"
 
-> "Mom would never do it," says Tone, as she has done so many times.
+> **原句 4:** "Mom would never do it," says Tone, as she has done so many times."
 
 中文理解："妈妈永远不会做的，"Tone 说，就像她已经说过很多次一样。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：奶奶的信件
 
-> But Grandma's letters aren't.
+> **原句 5:** "But Grandma's letters aren't."
 
 中文理解：但奶奶的信件不是（分类的）。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：找到 Tone 的过程
 
-> It took me sending an unseemly number of emails to Hélène to realize that she was never going to reply.
+> **原句 6:** "It took me sending an unseemly number of emails to Hélène to realize that she was never going to reply."
 
 中文理解：我给 Hélène 发了大量 emails 才意识到她永远不打算回复。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我注意到 Hélène 的时间线上有一张照片"
 
-> I noticed a photo on Hélène's timeline. It was right down near the bottom of her page, one that she hadn't posted—someone else had tagged her in it.
+> **原句 7:** "I noticed a photo on Hélène's timeline. It was right down near the bottom of her page, one that she hadn't posted—someone else had tagged her in it."
 
 中文理解：我在 Hélène 的时间线上注意到一张照片。就在她页面底部附近，一张不是她发的——而是被别人标记的照片。
 
@@ -115,7 +115,7 @@ modified: "2026-08-30"
 
 ### 第8处： Tone 是"不寻常的关系"
 
-> My friendship with Tone is one of my life's more unusual relationships.
+> **原句 8:** "My friendship with Tone is one of my life's more unusual relationships."
 
 中文理解：我与 Tone 的友谊是我生命中最不寻常的关系之一。
 
@@ -166,4 +166,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在帐篷中失眠，Tone 透露她的母亲是 1959 年在 Silvertjärn 废弃学校发现的婴儿，Alice 解释了她如何通过奶奶的信件和调查找到 Tone，以及 Tone 的母亲拒绝与这个村庄有任何关系——这是"个人历史"与"集体悬疑"的交汇。
+Alice 在帐篷中失眠，Tone 透露她的母亲是 1959 年在 Silvertjärn 废弃学校发现的婴儿，Alice 解释了她如何通过奶奶的信件和调查找到 Tone，以及 Tone 的母亲拒绝与这个村庄有任何关系——这是"个人历史"与"集体悬疑"的交汇。

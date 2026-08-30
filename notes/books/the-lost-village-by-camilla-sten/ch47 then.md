@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："下午的炎热已经被更凉爽的晚风取代"
 
-> The afternoon heat has given way to a cooler evening air.
+> **原句 1:** "The afternoon heat has given way to a cooler evening air."
 
 中文理解：下午的炎热已经被更凉爽的晚风取代。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她的膝盖在发抖，她的手酸痛和柔软"
 
-> Her knees are almost shaking, her hands are sore and tender.
+> **原句 2:** "Her knees are almost shaking, her hands are sore and tender."
 
 中文理解：她的膝盖在发抖，她的手酸痛和柔软。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她是一个完美的小女孩，有浓密的深色头发"
 
-> She's beautiful; a perfectly formed little girl with thick, dark hair.
+> **原句 3:** "She's beautiful; a perfectly formed little girl with thick, dark hair."
 
 中文理解：她很漂亮；一个完美的小女孩，有浓密的深色头发。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他们必须离开这里"
 
-> "We must try to get them out of here," says Elsa. "Away from the pastor and his congregation. Away from Silvertjärn."
+> **原句 4:** "We must try to get them out of here," says Elsa. "Away from the pastor and his congregation. Away from Silvertjärn."
 
 中文理解："我们必须尝试让他们离开这里，"Elsa 说。"远离牧师和他的会众。远离 Silvertjärn。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我们必须给她取个名字"
 
-> "We must give her a name," says Dagny.
+> **原句 5:** "We must give her a name," says Dagny."
 
 中文理解："我们必须给她取个名字，"Dagny 说。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："明天下午三点有火车"
 
-> "The next train leaves tomorrow at three, no?" says Ingrid behind her back.
+> **原句 6:** "The next train leaves tomorrow at three, no?" says Ingrid behind her back."
 
 中文理解："下一班火车明天下午三点出发，不是吗？"Ingrid 在背后说。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他们只需要首先离开 Silvertjärn"
 
-> They just have to get out of Silvertjärn first.
+> **原句 7:** "They just have to get out of Silvertjärn first."
 
 中文理解：他们只需要首先离开 Silvertjärn。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在 Ingrid 助产士的帮助下为临产的 Birgitta 接生了一个女孩，他们给她取名 Kristina Lidman 以纪念她已故的母亲，在邪教合唱声笼罩村庄的威胁下 Elsa 知道他们必须尽快逃离，明天下午三点的火车是她们唯一的机会。
+Elsa 在 Ingrid 助产士的帮助下为临产的 Birgitta 接生了一个女孩，他们给她取名 Kristina Lidman 以纪念她已故的母亲，在邪教合唱声笼罩村庄的威胁下 Elsa 知道他们必须尽快逃离，明天下午三点的火车是她们唯一的机会。

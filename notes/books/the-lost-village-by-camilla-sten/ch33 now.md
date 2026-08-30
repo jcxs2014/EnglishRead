@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："我们必须堵住门"
 
-> "We have to barricade the doors," Emmy says to Max and Robert.
+> **原句 1:** "We have to barricade the doors," Emmy says to Max and Robert."
 
 中文理解："我们必须堵住门，"Emmy 对 Max 和 Robert 说。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："如果你的妈妈要在 48 小时后报警，而你几个小时前给她打了电话，他们应该在后天早上到这里"
 
-> "If your mom was going to call the police after forty-eight hours, and you called her a few hours ago, they should be here in the morning of the day after tomorrow," he says.
+> **原句 2:** "If your mom was going to call the police after forty-eight hours, and you called her a few hours ago, they should be here in the morning of the day after tomorrow," he says."
 
 中文理解："如果你的妈妈要在 48 小时后报警，而你几个小时前给她打了电话，他们应该在后天早上到这里，"他说。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我们不能就这样把她留在外面"
 
-> "We can't just leave her out there," I say.
+> **原句 3:** "We can't just leave her out there," I say."
 
 中文理解："我们不能就这样把她留在外面，"我说。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她不危险！"
 
-> "She's not dangerous!" I explode.
+> **原句 4:** "She's not dangerous!" I explode."
 
 中文理解："她不危险！"我爆发了。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："如果你当初愿意告诉我们你的搭档有问题，就不用这样了"
 
-> "Well, we wouldn't have to do that if you'd cared to tell us your partner's disturbed."
+> **原句 5:** "Well, we wouldn't have to do that if you'd cared to tell us your partner's disturbed."
 
 中文理解："好吧，要是你当初愿意告诉我们你的搭档有问题，我们就不用这样做了。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我投留下等警察来"
 
-> "Hands up who votes to stay here till the police arrive."
+> **原句 6:** "Hands up who votes to stay here till the police arrive."
 
 中文理解："投留下等警察来的人举手。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："所以就这样了"
 
-> "So there we have it," says Emmy.
+> **原句 7:** "So there we have it," says Emmy."
 
 中文理解："所以就这样了，"Emmy 说。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 在教堂里 Emmy 用长凳堵住门后众人讨论是否该去寻找失踪的 Tone，Alice 认为 Tone 只是生病了不危险但 Emmy 和 Max 认为她点燃了面包车是危险的，他们投票决定留下等警察来，Alice 被少数服从多数击败只能眼睁睁看着同伴们决定把 Tone 留在外面的黑暗里。
+在教堂里 Emmy 用长凳堵住门后众人讨论是否该去寻找失踪的 Tone，Alice 认为 Tone 只是生病了不危险但 Emmy 和 Max 认为她点燃了面包车是危险的，他们投票决定留下等警察来，Alice 被少数服从多数击败只能眼睁睁看着同伴们决定把 Tone 留在外面的黑暗里。

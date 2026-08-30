@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：创作初衷
 
-> When I first set out to write The Lost Village, I wanted to write a book just for me—a book I would enjoy writing.
+> **原句 1:** "When I first set out to write The Lost Village, I wanted to write a book just for me—a book I would enjoy writing."
 
 中文理解：当我最初开始写《失落的村庄》时，我想写一本只属于自己的书——一本我会享受写作的书。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："事情从来不那么简单"
 
-> A book is, at the end of the day, always a reflection of its writer. Things you never intended to write about sneak into the story, worm their way into the text, and at the end of the day you're sitting with a very different book than you thought you were writing.
+> **原句 2:** "A book is, at the end of the day, always a reflection of its writer. Things you never intended to write about sneak into the story, worm their way into the text, and at the end of the day you're sitting with a very different book than you thought you were writing."
 
 中文理解：一本书最终总是反映它的作者。你从未打算写的东西悄悄潜入故事，钻进文本，最终你坐拥一本与你想象中非常不同的书。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：书的"主题"列表
 
-> The Lost Village is a book about a lot of things—isolation, fear, the terrifying power of groupthink, and how desperation can drive us to do things we never thought we'd stoop to.
+> **原句 3:** "The Lost Village is a book about a lot of things—isolation, fear, the terrifying power of groupthink, and how desperation can drive us to do things we never thought we'd stoop to."
 
 中文理解：《失落的村庄》是一本关于很多事情的书——孤独、恐惧、群体思维的可怕力量，以及绝望如何驱使我们做出我们从未想过会做的的事情。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：女性与心理健康
 
-> And maybe more than anything, it is a book about how society views women suffering from mental illness.
+> **原句 4:** "And maybe more than anything, it is a book about how society views women suffering from mental illness."
 
 中文理解：也许最重要的是，这是一本关于社会如何看待患有精神疾病的女性的书。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："双重标准"
 
-> We perceive women suffering from mental illness with a sort of paradoxical double-sidedness; both victims and monsters, simultaneously infantilized and feared.
+> **原句 5:** "We perceive women suffering from mental illness with a sort of paradoxical double-sidedness; both victims and monsters, simultaneously infantilized and feared."
 
 中文理解：我们看待患有精神疾病的女性有一种矛盾的双重性——既是受害者也是怪物，同时被幼稚化也被恐惧。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："功能失调被接受"
 
-> A certain level of dysfunction is accepted—after all, women who are suffering mild depression and starving themselves aren't going to leave their husbands or start revolutions, which is very practical indeed.
+> **原句 6:** "A certain level of dysfunction is accepted—after all, women who are suffering mild depression and starving themselves aren't going to leave their husbands or start revolutions, which is very practical indeed."
 
 中文理解：一定程度的 dysfunction 被接受——毕竟，患有轻度抑郁症和自我饥饿的女性不会离开她们的丈夫或发起革命，这确实非常实用。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：严重焦虑/躁狂的女性
 
-> A woman suffering from severe anxiety or untreated mania isn't going to have dinner on the table by 6 o'clock. No longer is she fulfilling that crucial, limited role she's expected to fulfill.
+> **原句 7:** "A woman suffering from severe anxiety or untreated mania isn't going to have dinner on the table by 6 o'clock. No longer is she fulfilling that crucial, limited role she's expected to fulfill."
 
 中文理解：一个患有严重焦虑或未经治疗的躁狂症的女性不会在六点前把晚餐摆上桌。她不再履行她被期望履行的那个关键而有限的角色。
 
@@ -115,7 +115,7 @@ modified: "2026-08-30"
 
 ### 第8处：历史上的处置方式
 
-> Throughout history, women suffering from mental illness have been hidden away, burned at the stake, lobotomized, and sterilized.
+> **原句 8:** "Throughout history, women suffering from mental illness have been hidden away, burned at the stake, lobotomized, and sterilized."
 
 中文理解：纵观历史，患有精神疾病的女性被藏匿起来，被烧死在火刑柱上，被实施脑白质切除术，被绝育。
 
@@ -129,7 +129,7 @@ modified: "2026-08-30"
 
 ### 第9处：三个女性角色
 
-> There are three female characters in the book suffering from mental illness, and they are all perceived and treated differently. One of them has recovered, one is in recovery, and one was never given the chance.
+> **原句 9:** "There are three female characters in the book suffering from mental illness, and they are all perceived and treated differently. One of them has recovered, one is in recovery, and one was never given the chance."
 
 中文理解：书中有三个患有精神疾病的女性角色，她们都被不同地看待和对待。其中一个已经康复，一个正在康复，一个从未被给予机会。
 
@@ -143,7 +143,7 @@ modified: "2026-08-30"
 
 ### 第10处："写这本书帮助了我"
 
-> Writing this book helped me to accept that, my own undeniable humanity even while sick, filtered through the kaleidoscope of my own fictional characters.
+> **原句 10:** "Writing this book helped me to accept that, my own undeniable humanity even while sick, filtered through the kaleidoscope of my own fictional characters."
 
 中文理解：写这本书帮助我接受了我自己的不可否认的人性，即使在生病时，通过我自己的虚构角色的万花筒过滤出来。
 
@@ -195,4 +195,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Camilla Sten 在前言中表明《失落的村庄》表面上是一个关于瑞典废弃村庄恐怖失踪事件的悬疑故事，但实际上是她作为曾经的心理学家和抑郁症康复者对"社会如何对待精神疾病女性"这一核心主题的深度探讨——通过三个女性角色（已康复/正在康复/从未被给予机会）展示了从"被接受"到"被恐惧"的双重标准。
+Camilla Sten 在前言中表明《失落的村庄》表面上是一个关于瑞典废弃村庄恐怖失踪事件的悬疑故事，但实际上是她作为曾经的心理学家和抑郁症康复者对

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇—— Elsa 的例行路线
 
-> Elsa is on her way home from Agneta Lindberg's house when she realizes something isn't right.
+> **原句 1:** "Elsa is on her way home from Agneta Lindberg's house when she realizes something isn't right."
 
 中文理解：Elsa 在从 Agneta Lindberg 家步行回家的路上时，她意识到有些事情不对劲。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：周三午餐——"嚼舌头"的社交
 
-> Nothing much ever gets done at those lunches; in essence they're just a chance for some of the village ladies to get together and chew the fat, sip coffee from dainty little cups, and feel a fleeting sense of superiority.
+> **原句 2:** "Nothing much ever gets done at those lunches; in essence they're just a chance for some of the village ladies to get together and chew the fat, sip coffee from dainty little cups, and feel a fleeting sense of superiority."
 
 中文理解：那些午餐上没什么大事要做；本质上只是一些乡村女士聚在一起嚼舌头，从小杯子里抿咖啡，感到短暂的优越感的机会。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她首先想到的是谁会看到她的嬉闹"
 
-> How it would look if she were to pull up her skirt and start splashing around, like a little girl without a care in the world? That really would give the village women something to gossip about!
+> **原句 3:** "How it would look if she were to pull up her skirt and start splashing around, like a little girl without a care in the world? That really would give the village women something to gossip about!"
 
 中文理解：如果她拉起裙子开始像无忧无虑的小女孩一样玩水，那看起来会怎么样？那真的会给村里的女人们一些嚼舌头的话题！
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：异常的寂静
 
-> Despite the warm weather, there's not a soul to be seen in gardens or out on front steps, and not a single window is open. No one has bustled outside to say hello after seeing Elsa pass, even though she can see movements behind the kitchen curtains and closed windows.
+> **原句 4:** "Despite the warm weather, there's not a soul to be seen in gardens or out on front steps, and not a single window is open. No one has bustled outside to say hello after seeing Elsa pass, even though she can see movements behind the kitchen curtains and closed windows."
 
 中文理解：尽管天气温暖，花园里或门前台阶上看不到一个人，没有一扇窗户开着。没有人看到 Elsa 经过后忙着出来打招呼，尽管她能看到厨房窗帘和紧闭窗户后的动静。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：她的胃翻江倒海
 
-> Her stomach turns.
+> **原句 5:** "Her stomach turns."
 
 中文理解：她的胃翻江倒海。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：矿山关闭的消息
 
-> "They're shutting down the mine, Elsie. We found out today. They sent us all home."
+> **原句 6:** "They're shutting down the mine, Elsie. We found out today. They sent us all home."
 
 中文理解："他们要关闭矿山了，Elsie。我们今天发现的。他们把我们所有人都送回家了。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处： Elsa 晕倒了
 
-> … she faints on the spot for the first and only time in her life.
+> **原句 7:** "… she faints on the spot for the first and only time in her life."
 
 中文理解：……她当场晕倒了，这是她一生中第一次也是唯一一次。
 
@@ -153,4 +153,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在 Silvertjärn 村庄的路上步行回家时注意到异常的寂静——没有人出来打招呼——她不安地回到家，发现丈夫 Staffan 告诉她矿山即将关闭，所有工人都将失业，这让她当场晕倒——这是"村庄死亡"的第一个预兆。
+Elsa 在 Silvertjärn 村庄的路上步行回家时注意到异常的寂静——没有人出来打招呼——她不安地回到家，发现丈夫 Staffan 告诉她矿山即将关闭，所有工人都将失业，这让她当场晕倒——这是"村庄死亡"的第一个预兆。

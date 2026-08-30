@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——Tone 需要休息
 
-> "Why don't you go rest in the tent?" I say, less a question than a command.
+> **原句 1:** "Why don't you go rest in the tent?" I say, less a question than a command."
 
 中文理解："你为什么不去帐篷里休息？"我说，与其说这是一个问题，不如说是一个命令。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：" Alice，我们需要谈谈"
 
-> "Alice, we need to talk," she says, then sits down cross-legged on the cobblestones.
+> **原句 2:** "Alice, we need to talk," she says, then sits down cross-legged on the cobblestones."
 
 中文理解：" Alice，我们需要谈谈，"她说，然后盘腿坐在鹅卵石上。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她正在胡言乱语"
 
-> "Don't try that shit with me, you can see she's not well. We both saw her in Gitta's house—she was raving, for fuck's sake! She's probably delirious."
+> **原句 3:** "Don't try that shit with me, you can see she's not well. We both saw her in Gitta's house—she was raving, for fuck's sake! She's probably delirious."
 
 中文理解："别跟我耍花招，你能看出她不舒服。我们俩都在 Gitta 的房子里看到了她——她当时正在胡言乱语！她可能是神志不清。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我不是她妈妈！"
 
-> "It's not like I'm her mom!" I say. "Do you think I haven't talked to her? Do you think I haven't asked? I've asked her time and time again, but she's insisting she wants to stay."
+> **原句 4:** "It's not like I'm her mom!" I say. "Do you think I haven't talked to her? Do you think I haven't asked? I've asked her time and time again, but she's insisting she wants to stay."
 
 中文理解："我又不是她妈妈！"我说。"你以为我没跟她谈过？你以为我没问过？我问了她一次又一次，但她坚持要留下。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："你从来不像一个会担心别人福祉的人"
 
-> "It's great that you're so worried about Tone," I say, "you've never struck me as someone to worry about someone else's well-being before."
+> **原句 5:** "It's great that you're so worried about Tone," I say, "you've never struck me as someone to worry about someone else's well-being before."
 
 中文理解："你担心 Tone 真是太好了，"我说，"我以前一直不觉得你是一个会担心别人福祉的人。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我眼镜变黑的愤怒"
 
-> I've heard the expression of someone's eyes turning black with anger before, but never before have I seen it. Emmy's pupils dilate.
+> **原句 6:** "I've heard the expression of someone's eyes turning black with anger before, but never before have I seen it. Emmy's pupils dilate."
 
 中文理解：我以前听说过某人的眼睛因愤怒而变黑的表达，但从未见过。Emmy 的瞳孔放大了。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我留下来"
 
-> "I'm staying here," Emmy says.
+I'm staying here. （原句太短，保留作为叙事节点）"
 
 中文理解："我留下来，"Emmy 说。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Emmy 围绕 Tone 的健康状况发生激烈冲突，互相指责对方自私，Emmy 决定留在营地照顾 Tone 并整理制作进度，两人之间的紧张关系和未解决的过往在这个封闭的鬼屋村庄里达到了临界点。
+Alice 和 Emmy 围绕 Tone 的健康状况发生激烈冲突，互相指责对方自私，Emmy 决定留在营地照顾 Tone 并整理制作进度，两人之间的紧张关系和未解决的过往在这个封闭的鬼屋村庄里达到了临界点。

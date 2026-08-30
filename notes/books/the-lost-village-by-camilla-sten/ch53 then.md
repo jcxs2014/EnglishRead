@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："fine"
 
-> "Fine," Elsa replies, quietly, so as not to wake the others. "It's been fine."
+> **原句 1:** "Fine," Elsa replies, quietly, so as not to wake the others. "It's been fine."
 
 中文理解："很好，"Elsa 轻声回答，以免吵醒其他人。"一直很好。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我不能离开 Aina 在 Silvertjärn"
 
-> She can't leave Aina in Silvertjärn.
+> **原句 2:** "She can't leave Aina in Silvertjärn."
 
 中文理解：她不能把 Aina 留在 Silvertjärn。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："当 Elsa 把 Kristina 放在 Birgitta 张开的手臂里"
 
-> When Elsa reaches the edge of the bed Birgitta does something inconceivable: she holds out her arms.
+> **原句 3:** "When Elsa reaches the edge of the bed Birgitta does something inconceivable: she holds out her arms."
 
 中文理解：当 Elsa 到达床边时，Birgitta 做了件不可思议的事：她张开手臂。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：" Kristina 的小嘴找到了乳头，含住了"
 
-> Kristina's little mouth finds the nipple and latches on.
+> **原句 4:** "Kristina's little mouth finds the nipple and latches on."
 
 中文理解：Kristina 的小嘴找到了乳头，含住了。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："也许这是某种像希望的东西"
 
-> Perhaps this might be something resembling hope.
+> **原句 5:** "Perhaps this might be something resembling hope."
 
 中文理解：也许这是某种像希望的东西。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她不能留下 Aina 在 Silvertjärn"
 
-> She can't leave Aina in Silvertjärn.
+> **原句 6:** "She can't leave Aina in Silvertjärn."
 
 中文理解：她不能留下 Aina 在 Silvertjärn。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：" Elsa 不能想象她是否理解"
 
-> Elsa can't imagine that she does.
+> **原句 7:** "Elsa can't imagine that she does."
 
 中文理解：Elsa 不能想象她是否理解。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在凌晨与 Ingrid 讨论如何带着 Birgitta 和新生婴儿 Kristina 逃离村庄，她看着 Birgitta 笨拙但本能地给女儿喂奶这个生命延续的奇迹让她感受到某种像希望的火花，同时她决心不能把被邪教控制的 Aina 留在村庄里——在黑暗的村庄中，人性的光辉仍然存在。
+Elsa 在凌晨与 Ingrid 讨论如何带着 Birgitta 和新生婴儿 Kristina 逃离村庄，她看着 Birgitta 笨拙但本能地给女儿喂奶这个生命延续的奇迹让她感受到某种像希望的火花，同时她决心不能把被邪教控制的 Aina 留在村庄里——在黑暗的村庄中，人性的光辉仍然存在。

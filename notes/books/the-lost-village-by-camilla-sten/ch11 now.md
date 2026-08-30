@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——清晨醒来
 
-> I'm the first to wake up, although I can't have had more than a couple of hours' sleep. I've always been an early riser. It's worse when I'm hungover—then I can't even sleep past dawn.
+> **原句 1:** "I'm the first to wake up, although I can't have had more than a couple of hours' sleep. I've always been an early riser. It's worse when I'm hungover—then I can't even sleep past dawn."
 
 中文理解：我是第一个醒来的，虽然我最多只睡了两三个小时。我一直是早起者。宿醉醒来更糟——那样我甚至睡不过黎明。我只是躺在那里，眼睛睁得大大的，嘴巴干涩，心脏狂跳，直到最终放弃，拖着疲惫的身躯进厨房，准备漫长而不安的一天。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："像霜冻的玻璃"
 
-> The air out here is colder than the heavy, sleep-stale air warmed by our dozing bodies in the tent; out here it's crisp and cool, like frosted glass.
+> **原句 2:** "The air out here is colder than the heavy, sleep-stale air warmed by our dozing bodies in the tent; out here it's crisp and cool, like frosted glass."
 
 中文理解：外面的空气比帐篷里被我们打盹的身体捂暖的沉重、陈腐的空气更冷；外面清新而凉爽，像霜冻的玻璃。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："像一张活着的照片"
 
-> It's like a living photograph, a relic of a bygone age.
+> **原句 3:** "It's like a living photograph, a relic of a bygone age."
 
 中文理解：这就像一张活着的照片，一个逝去时代的遗物。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："奶奶的眼睛"
 
-> She had beautiful eyes, my grandma. Light-gray and mottled, like polished granite. Until the cataracts came creeping over her corneas like misty white rot, taking her sight just as the dementia would take her mind.
+> **原句 4:** "She had beautiful eyes, my grandma. Light-gray and mottled, like polished granite. Until the cataracts came creeping over her corneas like misty white rot, taking her sight just as the dementia would take her mind."
 
 中文理解：她有一双美丽的眼睛，我的奶奶。浅灰色，斑驳的，像抛光的花岗岩。直到白内障像白色雾气腐烂一样爬上她的角膜，夺走她的视力，就像老年痴呆症会夺走她的心智一样。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："这个地方有点诡异"
 
-> "This place is kinda spooky, though," he says, looking around as he steps toward me. "You can see why people think it's haunted."
+> **原句 5:** "This place is kinda spooky, though," he says, looking around as he steps toward me. "You can see why people think it's haunted."
 
 中文理解："不过，这个地方有点诡异，"他一边说一边朝我走来，环顾四周。"你能理解为什么人们认为这里闹鬼。"
 
@@ -86,7 +86,7 @@ modified: "2026-08-30"
 
 ### 第6处："这不是《马尔莫谋杀案》"
 
-> "This isn't Midsomer Murders—it's not like we're about to suddenly discover Pastor Mattias's secret diary or something."
+> **原句 6:** "This isn't Midsomer Murders—it's not like we're about to suddenly discover Pastor Mattias's secret diary or something."
 
 中文理解："这不是《马尔莫谋杀案》——我们不可能突然发现马蒂亚斯牧师的秘密日记什么的。"
 
@@ -100,7 +100,7 @@ modified: "2026-08-30"
 
 ### 第7处："但这不意味着女孩不能做梦"
 
-> And of course I know that it's unlikely to the point of impossible. But it doesn't mean a girl can't dream.
+> **原句 7:** "And of course I know that it's unlikely to the point of impossible. But it doesn't mean a girl can't dream."
 
 中文理解：当然我知道这不可能到不切实际的地步。但这不意味着女孩不能做梦。
 
@@ -151,4 +151,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在黎明时分醒来，在光线中看到 Silvertjärn "像活着的照片"一样美丽，与 Max 讨论这个地方是否"闹鬼"，召开团队会议讨论探索计划，Emmy 质疑他们是否能找到任何新线索，而 Alice 虽然知道希望渺茫但仍然相信"女孩可以做梦"——这是"悬疑"与"乐观"的交汇。
+Alice 在黎明时分醒来，在光线中看到 Silvertjärn 

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——"令人窒息的八月下午"
 
-> It was a stiflingly hot August afternoon, so much so that the breeze coming in through the open windows did almost nothing to lift the swelter inside the car.
+> **原句 1:** "It was a stiflingly hot August afternoon, so much so that the breeze coming in through the open windows did almost nothing to lift the swelter inside the car."
 
 中文理解：这是一个令人窒息的八月下午，穿过敞开窗户的微风几乎无法减轻车内的闷热。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：Albin 的性格——"两年没能从 Gustaf 那里得到超过几个字"
 
-> For almost two years now they had been working together on the force, and in that time Albin hadn't been able to get more than a few words out of him on any one subject.
+> **原句 2:** "For almost two years now they had been working together on the force, and in that time Albin hadn't been able to get more than a few words out of him on any one subject."
 
 中文理解：近两年来他们一直在警局共事，但在这段时间里，Albin 在任何单一话题上都没能从 Gustaf 那里得到超过几个字。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：" God knows"
 
-> "God knows."
+> **原句 3:** "God knows."
 
 中文理解："天知道。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：沉默的村庄
 
-> It wasn't that he had heard something. It was that he hadn't heard anything. The whole place was completely silent.
+> **原句 4:** "It wasn't that he had heard something. It was that he hadn't heard anything. The whole place was completely silent."
 
 中文理解：不是他听到了什么。而是他什么都没听到。整个地方完全沉默。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：孩子的缺席
 
-> It was half past four in the afternoon on a Wednesday in late summer, in a village in the middle of the forest. Where were all the kids out playing? Where were the young women out on their doorsteps, taking fans to their shiny foreheads and wilted locks?
+> **原句 5:** "It was half past four in the afternoon on a Wednesday in late summer, in a village in the middle of the forest. Where were all the kids out playing? Where were the young women out on their doorsteps, taking fans to their shiny foreheads and wilted locks?"
 
 中文理解：这是夏末一个周三下午四点半，在一个森林深处的村庄里。所有的孩子都在哪里玩耍？年轻的女性都在哪里，在门廊上拿着扇子扇着闪亮的额头和枯萎的发丝？
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：灯柱上的尸体
 
-> It was only when the stench found its way into the car that the pieces finally fell into place. No one was hugging any lamppost. It was a body, tied to a rough-hewn pole.
+> **原句 6:** "It was only when the stench found its way into the car that the pieces finally fell into place. No one was hugging any lamppost. It was a body, tied to a rough-hewn pole."
 
 中文理解：只有当腐臭飘进车里时，碎片才终于拼凑起来。没有人抱着灯柱。是一具尸体，被绑在一根粗凿的木柱上。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：" What in God's name has happened here?"
 
-> "What in God's name has happened here?" Gustaf asked, his tone of voice betraying a hint of what could only be described as wonder.
+> **原句 7:** "What in God's name has happened here?" Gustaf asked, his tone of voice betraying a hint of what could only be described as wonder."
 
 中文理解："这里到底发生了什么？"Gustaf 问道，他的语气中透露出一丝只能被描述为好奇的意味。
 
@@ -115,7 +115,7 @@ modified: "2026-08-30"
 
 ### 第8处：婴儿哭声
 
-> "What the…" Gustaf muttered, turning to look at the school on the opposite side of the square. A window was open on the second floor. "I think it's a child," said Albin. "A baby."
+> **原句 8:** "What the…" Gustaf muttered, turning to look at the school on the opposite side of the square. A window was open on the second floor. "I think it's a child," said Albin. "A baby."
 
 中文理解："什么……"Gustaf 低声说，转身看着广场对面的学校。二楼有一扇窗户开着。"我想这是一个孩子，"Albin 说。"一个婴儿。"
 
@@ -166,4 +166,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 1959 年 8 月，警察 Albin 和 Gustaf 驾车抵达沉默的 Silvertjärn 废弃村庄，发现一具尸体绑在灯柱上，同时听到学校二楼传来婴儿哭声——这是悬疑小说"失踪村庄"谜团的开篇。
+1959 年 8 月，警察 Albin 和 Gustaf 驾车抵达沉默的 Silvertjärn 废弃村庄，发现一具尸体绑在灯柱上，同时听到学校二楼传来婴儿哭声——这是悬疑小说"失踪村庄"谜团的开篇。

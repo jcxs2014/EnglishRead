@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——"我希望我们有 Silvertjärn 全盛时期的录音"
 
-> I wish we had recordings of Silvertjärn as it looked in its heyday, before the mine shut. All we have are a few dim, shaky images in black-and-white and sepia.
+> **原句 1:** "I wish we had recordings of Silvertjärn as it looked in its heyday, before the mine shut. All we have are a few dim, shaky images in black-and-white and sepia."
 
 中文理解：我希望我们有 Silvertjärn 全盛时期的录音，在矿山关闭之前的样子。我们只有一些黑白和棕褐色的暗淡、摇晃的图像。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我感到幽闭恐惧"
 
-> I feel claustrophobic wearing it, but when we stop at the top of the crumbling front steps into the school I'm glad I have it.
+> **原句 2:** "I feel claustrophobic wearing it, but when we stop at the top of the crumbling front steps into the school I'm glad I have it."
 
 中文理解：我戴着它感到幽闭恐惧，但当我们停在学校摇摇欲坠的前台阶顶部时，我很庆幸戴着它。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："像牙医的候诊室"
 
-> Were it not for the clumps of peeling paint and the bulging, warped floorboards, this could just as well be a dentist's waiting room.
+> **原句 3:** "Were it not for the clumps of peeling paint and the bulging, warped floorboards, this could just as well be a dentist's waiting room."
 
 中文理解：要不是有剥落的油漆团块和凸起、翘曲的地板，这完全可以是一个牙医的候诊室。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："没有昆虫"
 
-> "There aren't any insects," she says. "On the windowsills. No dead flies, no mosquitoes…"
+> **原句 4:** "There aren't any insects," she says. "On the windowsills. No dead flies, no mosquitoes…"
 
 中文理解："没有任何昆虫，"她说。"在窗台上。没有死苍蝇，没有蚊子……"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：胎儿罐
 
-> They are filled with some sort of brownish preservative, giving the objects within them a sepia tone. Some contain plants and roots, others formless clumps that could be either fungi or organs. But at the far end of the shelf stand three jars of what can only be some sort of fetuses.
+> **原句 5:** "They are filled with some sort of brownish preservative, giving the objects within them a sepia tone. Some contain plants and roots, others formless clumps that could be either fungi or organs. But at the far end of the shelf stand three jars of what can only be some sort of fetuses."
 
 中文理解：它们装着某种棕褐色的防腐剂，使里面的物体呈现棕褐色。一些装着植物和根，其他的是无定形的团块，可能是真菌或器官。但在架子远端站着三个罐子，里面只能是某种胎儿。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："那些真的很恶心"
 
-> "Those are really gross," I say, trying to lighten the mood.
+> **原句 6:** "Those are really gross," I say, trying to lighten the mood."
 
 中文理解："那些真的很恶心，"我说，试图缓和气氛。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：楼梯坍塌
 
-> The step creaks a little, but it doesn't sound like it's about to cave in. When I take my other foot off the ground I'm half-expecting the wood to give way beneath me, but now it doesn't make a sound.
+> **原句 7:** "The step creaks a little, but it doesn't sound like it's about to cave in. When I take my other foot off the ground I'm half-expecting the wood to give way beneath me, but now it doesn't make a sound."
 
 中文理解：台阶发出一点嘎吱声，但听起来不像是要塌下去。当我把另一只脚抬离地面时，我一半期望木头会在我脚下让开，但它没有发出任何声音。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Tone 进入 Silvertjärn 学校探索，戴着口罩沿着走廊和楼梯向上，在二楼化学实验室发现装在防腐液中的胎儿标本罐，然后 Tone 在楼梯上踩穿腐烂的木板受伤——这是"发现"与"受伤"并存的悬疑时刻。
+Alice 和 Tone 进入 Silvertjärn 学校探索，戴着口罩沿着走廊和楼梯向上，在二楼化学实验室发现装在防腐液中的胎儿标本罐，然后 Tone 在楼梯上踩穿腐烂的木板受伤——这是

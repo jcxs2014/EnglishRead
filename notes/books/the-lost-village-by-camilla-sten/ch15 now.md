@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——夜晚降临
 
-> Night falls soft as a sigh over the village. When Max and I get back to camp sunset has already started to lick its fiery tongues across the sky.
+> **原句 1:** "Night falls soft as a sigh over the village. When Max and I get back to camp sunset has already started to lick its fiery tongues across the sky."
 
 中文理解：夜晚像一声叹息一样轻柔地降临在村庄上。当 Max 和我回到营地时，日落已经开始用火红的舌头舔着天空。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："那个矮小的女孩"
 
-> I'd seen the petite girl with the green eyes, tousled hair, and rocker clothes before, but I hadn't given her a second thought until I made a comment in class that I felt was both thoughtful and well-reasoned, only to watch in shock as it was cut to shreds by that very same girl.
+> **原句 2:** "I'd seen the petite girl with the green eyes, tousled hair, and rocker clothes before, but I hadn't given her a second thought until I made a comment in class that I felt was both thoughtful and well-reasoned, only to watch in shock as it was cut to shreds by that very same girl."
 
 中文理解：我以前见过那个有着绿色眼睛、乱糟糟头发和摇滚风格衣服的矮小女孩，但我没有多想，直到我在课堂上发表了一个我认为深思熟虑、理由充分的评论，却震惊地看着它被那个同样的女孩批得体无完肤。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我从来没有从那晚的桥上恢复过来"
 
-> I've never been the same since that night on the bridge. I learned something about people that night. And something about myself.
+> **原句 3:** "I've never been the same since that night on the bridge. I learned something about people that night. And something about myself."
 
 中文理解：自从那晚的桥上之后，我从来没有一样过。那晚我了解了一些关于人的事情。也了解了一些关于我自己的事情。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："一个半愈合的伤口"
 
-> Seven years have passed since then, almost a quarter of my life. And all this time she's been like a half-healed wound, a scab I can never quite seem to stop myself from scratching.
+> **原句 4:** "Seven years have passed since then, almost a quarter of my life. And all this time she's been like a half-healed wound, a scab I can never quite seem to stop myself from scratching."
 
 中文理解：从那以后七年过去了，几乎是我生命的四分之一。这一路走来，她就像一个半愈合的伤口，一个我似乎永远无法停止抓挠的痂。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我暂停并再次播放"
 
-> I pause. Hesitate. But then I turn up the volume as high as it can go and rewind again.
+> **原句 5:** "I pause. Hesitate. But then I turn up the volume as high as it can go and rewind again."
 
 中文理解：我暂停。犹豫。但然后我把音量调到最大，再倒带一次。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："听起来像笑声"
 
-> It doesn't sound like a cough, no; it sounds like laughter. Husky and stifled, like a child hiding in a closet, trying to repress a snigger.
+> **原句 6:** "It doesn't sound like a cough, no; it sounds like laughter. Husky and stifled, like a child hiding in a closet, trying to repress a snigger."
 
 中文理解：它听起来不像咳嗽，不；它听起来像笑声。低沉而压抑，像一个藏在壁橱里试图抑制笑声的孩子。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："学校就在广场另一边五十码外"
 
-> And yet I'm suddenly, irreversibly aware that the school is just fifty yards away on the other side of the square, its doors hanging open like a gaping mouth.
+> **原句 7:** "And yet I'm suddenly, irreversibly aware that the school is just fifty yards away on the other side of the square, its doors hanging open like a gaping mouth."
 
 中文理解：然而，我突然、不可逆转地意识到，学校就在广场另一边五十码外，它的门像张大的嘴巴一样敞开着。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在笔记本电脑上查看视频时，意外发现 Tone 录到了楼梯的视频，在最后几秒听到了一个低沉、压抑的笑声，像孩子藏在壁橱里试图抑制的笑声——这是"悬疑的高潮"，证实了"有人在这里"，但笔记本电脑在这个时候没电了，留下她独自面对这个令人不安的发现。
+Alice 在笔记本电脑上查看视频时，意外发现 Tone 录到了楼梯的视频，在最后几秒听到了一个低沉、压抑的笑声，像孩子藏在壁橱里试图抑制的笑声——这是

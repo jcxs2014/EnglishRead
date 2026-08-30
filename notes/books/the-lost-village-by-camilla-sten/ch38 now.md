@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："账单上的注释"
 
-> Someone has annotated them with a "paid" in a narrow, compact hand—that someone probably being Elsa—and I find myself staring at them longer than is probably unreasonable.
+> **原句 1:** "Someone has annotated them with a "paid" in a narrow, compact hand—that someone probably being Elsa—and I find myself staring at them longer than is probably unreasonable."
 
 中文理解：有人在上面用窄小、紧凑的笔迹注释了"已付"——那人可能是 Elsa——我发现自己盯着它们看的时间超出了合理的范围。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：" Aina 仍然只是一个倔强的刚进入青春期的小女孩"
 
-> In it, Aina is still just a sulky little girl on the verge of puberty, with straight, dark eyebrows and short, dark blond hair.
+> **原句 2:** "In it, Aina is still just a sulky little girl on the verge of puberty, with straight, dark eyebrows and short, dark blond hair."
 
 中文理解：在照片里，Aina 仍然只是一个倔强的刚进入青春期的小女孩，有着直的深色眉毛和短深的金发。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："整个村庄都被迷住了"
 
-> The entire village is all but entranced, your sister included.
+> **原句 3:** "The entire village is all but entranced, your sister included."
 
 中文理解：整个村庄都被迷住了，包括你的妹妹。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我听说他们在仪式上用方言说话"
 
-> I have heard them speaking in tongues during services.
+> **原句 4:** "I have heard them speaking in tongues during services."
 
 中文理解：我听说他们在仪式上用方言说话。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："你是他的右手"
 
-> Your sister is his right hand.
+> **原句 5:** "Your sister is his right hand."
 
 中文理解：你的妹妹是他的右手。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："他们说她是女巫和 succubus"
 
-> They say that she is a witch and succubus, that she is possessed by demons and serves the devil.
+> **原句 6:** "They say that she is a witch and succubus, that she is possessed by demons and serves the devil."
 
 中文理解：他们说她是女巫和 succubus，她被恶魔附身并为魔鬼服务。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："信突然中断"
 
-> Here the letter comes to an abrupt end. No period, no sign-off. As though she were interrupted mid-sentence.
+> **原句 7:** "Here the letter comes to an abrupt end. No period, no sign-off. As though she were interrupted mid-sentence."
 
 中文理解：信在这里突然中断。没有句号，没有签名。仿佛她写到一半被打断了。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在教堂里阅读从奶奶家拿来的文件，发现 Elsa 写给在 Stockholm 的女儿 Margareta 的求救信，信中描述了整个村庄如何被 Pastor Mattias 邪教迷住，Aina 已成为其左右手，而怀孕的 Birgitta 被指责为女巫，信未写完就在恐惧中被中断——过去村庄的历史正在当前重演。
+Alice 在教堂里阅读从奶奶家拿来的文件，发现 Elsa 写给在 Stockholm 的女儿 Margareta 的求救信，信中描述了整个村庄如何被 Pastor Mattias 邪教迷住，Aina 已成为其左右手，而怀孕的 Birgitta 被指责为女巫，信未写完就在恐惧中被中断——过去村庄的历史正在当前重演。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："对不起"
 
-> "Sorry," says Max, quickly moving his arm away.
+> **原句 1:** "Sorry," says Max, quickly moving his arm away."
 
 中文理解："对不起，"Max 说，迅速移开他的手臂。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我感觉完全迟钝了"
 
-> "Empty, somehow," he says. "Does that sound weird? I feel completely blunted."
+> **原句 2:** "Empty, somehow," he says. "Does that sound weird? I feel completely blunted."
 
 中文理解："某种程度上的空虚，"他说。"这听起来奇怪吗？我感觉完全迟钝了。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她"
 
-> She. As though she were a monster, a ghost.
+> **原句 3:** "She. As though she were a monster, a ghost."
 
 中文理解：她。仿佛她是一个怪物，一个幽灵。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他亲吻我的头"
 
-> Max kisses my head. Dry lips on my sweaty scalp.
+> **原句 4:** "Max kisses my head. Dry lips on my sweaty scalp."
 
 中文理解：Max 亲吻我的头。干燥的嘴唇贴在我汗湿的头皮上。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："他把手放在我的脖子上，把我的脸拉向他，亲吻我"
 
-> His caress turns into a light grip on my neck, and he pulls my face into his and kisses me.
+> **原句 5:** "His caress turns into a light grip on my neck, and he pulls my face into his and kisses me."
 
 中文理解：他的爱抚变成对我脖子上的轻轻抓握，他把我的脸拉向他，亲吻我。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："你在做什么？"
 
-> "What the fuck are you doing?" I ask.
+> **原句 6:** "What the fuck are you doing?" I ask."
 
 中文理解："你他妈的到底在做什么？"我问。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我以为那是你想要的"
 
-> "I thought it was what you wanted," says Max. "I was trying to comfort you."
+> **原句 7:** "I thought it was what you wanted," says Max. "I was trying to comfort you."
 
 中文理解："我以为那是你想要的，"Max 说。"我试图安慰你。"
 
@@ -148,4 +148,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在奶奶家沙发上睡着后醒来被 Max 不小心碰到伤口，他在 Alice 崩溃哭泣时试图安慰她却强行亲吻了她，Alice 感到愤怒和被侵犯，Max 却以"我以为那是你想要的"和"我只是想安慰你"作为借口——这是危机中不当行为的典型呈现。
+Alice 在奶奶家沙发上睡着后醒来被 Max 不小心碰到伤口，他在 Alice 崩溃哭泣时试图安慰她却强行亲吻了她，Alice 感到愤怒和被侵犯，Max 却以

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："像需要怜悯的人"
 
-> She looks more like someone to pity than fear.
+> **原句 1:** "She looks more like someone to pity than fear."
 
 中文理解：她看起来更像一个需要怜悯的人，而不是需要害怕的人。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她在战斗中像为自己生命而战"
 
-> Even when kicking and trying to break free, she had seemed more like someone fighting for her own life.
+> **原句 2:** "Even when kicking and trying to break free, she had seemed more like someone fighting for her own life."
 
 中文理解：即使在踢蹬和试图挣脱时，她似乎更像是在为自己的生命而战。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她像陌生人一样观看"
 
-> It's like watching a stranger.
+> **原句 3:** "It's like watching a stranger."
 
 中文理解：就像观看一个陌生人。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："铅笔尖断了"
 
-> The tip of the pencil breaks.
+> **原句 4:** "The tip of the pencil breaks."
 
 中文理解：铅笔尖断了。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："她画得就像 Birgitta"
 
-> She draws just like her grandmother.
+> **原句 5:** "She draws just like her grandmother."
 
 中文理解：她画得就像她外婆。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："当 Tone 听到那个名字时，她直视我的眼睛"
 
-> When Tone hears the name she looks me straight in the eye.
+> **原句 6:** "When Tone hears the name she looks me straight in the eye."
 
 中文理解：当 Tone 听到那个名字时，她直视我的眼睛。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："就像 Birgitta"
 
-> "Just like Birgitta," I say.
+> **原句 7:** "Just like Birgitta," I say."
 
 中文理解："就像 Birgitta，"我说。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在奶奶家楼上的卧室里找到蜷缩在角落里的 Tone，给了她一支铅笔后 Tone 开始在地板上画一个漩涡状的嘴和长发的怪物，就像 Alice 在 Birgitta 桌上见过的那样，当 Alice 说出 Birgitta 这个名字时 Tone 第一次直视她的眼睛——这是跨越时空的家族创伤通过艺术和名字形成的连接时刻。
+Alice 在奶奶家楼上的卧室里找到蜷缩在角落里的 Tone，给了她一支铅笔后 Tone 开始在地板上画一个漩涡状的嘴和长发的怪物，就像 Alice 在 Birgitta 桌上见过的那样，当 Alice 说出 Birgitta 这个名字时 Tone 第一次直视她的眼睛——这是跨越时空的家族创伤通过艺术和名字形成的连接时刻。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："像怪物一样潜伏"
 
-> The school looms like a monster on the short edge of the square.
+> **原句 1:** "The school looms like a monster on the short edge of the square."
 
 中文理解：学校像怪物一样潜伏在广场的边缘。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："门已经掉下来了"
 
-> The explosion was clearly the last straw for one of the doors, which seems to have fallen off its hinges completely.
+> **原句 2:** "The explosion was clearly the last straw for one of the doors, which seems to have fallen off its hinges completely."
 
 中文理解：爆炸显然是其中一扇门的最后一根稻草，它似乎已经完全从铰链上掉下来了。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："墙上的血迹"
 
-> Someone has tossed the chairs around and flipped the desks. A slender, writhing chill plants itself at the pit of my stomach.
+> **原句 3:** "Someone has tossed the chairs around and flipped the desks."
 
 中文理解：有人把椅子扔得到处都是，把桌子都翻了过来。一股纤细的、扭曲的寒意在我胃里生根。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她对自己做了什么？"
 
-> What has she done to herself?
+> **原句 4:** "What has she done to herself?"
 
 中文理解：她对自己做了什么？
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我会第一个去"
 
-> "I'll go first," I say. "I've done this before."
+> **原句 5:** "I'll go first," I say. "I've done this before."
 
 中文理解："我会第一个去，"我说。"我之前做过这个。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："地面在我脚下消失"
 
-> The ground disappears beneath me, leaving me hanging in the air for a dizzying split second.
+> **原句 6:** "The ground disappears beneath me, leaving me hanging in the air for a dizzying split second."
 
 中文理解：地面在我脚下消失，让我在眩晕的瞬间悬在空中。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：" Emmy 在哪里？"
 
-> Max. Robert. Where's Emmy?
+> **原句 7:** "Max. Robert. Where's Emmy?"
 
 中文理解：Max。Robert。Emmy 在哪里？
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Emmy、Max、Robert 一起前往学校寻找 Tone，在教室里发现被翻乱的桌椅和墙上的血迹暗示 Tone 可能在自我伤害，他们开始上楼时楼梯突然坍塌，Alice 和 Max、Robert 都摔了下来受伤，而 Emmy 在上面摔断了肋骨——这个决定性的时刻将他们的搜寻任务变成了救援自己。
+Alice 和 Emmy、Max、Robert 一起前往学校寻找 Tone，在教室里发现被翻乱的桌椅和墙上的血迹暗示 Tone 可能在自我伤害，他们开始上楼时楼梯突然坍塌，Alice 和 Max、Robert 都摔了下来受伤，而 Emmy 在上面摔断了肋骨——这个决定性的时刻将他们的搜寻任务变成了救援自己。

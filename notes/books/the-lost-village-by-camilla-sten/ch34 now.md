@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你他妈的在哪里？"
 
-> "Mad doesn't even come close," I say. "I don't get how you could do that, Max. Of everybody here…"
+> **原句 1:** "Mad doesn't even come close," I say. "I don't get how you could do that, Max. Of everybody here…"
 
 中文理解："疯狂都不足以形容，"我说。"我不明白你怎么能这样做，Max。这里所有人中……"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我不得不说出来"
 
-> "I had to say something, Alice," he says. "I had no choice."
+> **原句 2:** "I had to say something, Alice," he says. "I had no choice."
 
 中文理解："我不得不说出来，Alice，"他说。"我没有选择。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："那不是我的秘密可以讲的"
 
-> "It wasn't my secret to tell," I try to say. Again.
+> **原句 3:** "It wasn't my secret to tell," I try to say. Again."
 
 中文理解："那不是我的秘密可以讲的，"我试图再次说。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："你必须知道我从不想伤害你"
 
-> "You have to know that I'd never want to hurt you, never."
+> **原句 4:** "You know I'd never want to hurt you, never."
 
 中文理解："你必须知道我从未想要伤害你从未。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我们很快就会出去"
 
-> "We'll be out of here in no time," he mumbles into my shoulder while squeezing me hard.
+> **原句 5:** "We'll be out of here in no time," he mumbles into my shoulder while squeezing me hard."
 
 中文理解："我们很快就会出去，"他埋在我肩膀里用力挤着我咕哝道。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我的手指又笨又笨拙"
 
-> My fingers blunt and unwieldy, I unfold and inspect them.
+> **原句 6:** "My fingers blunt and unwieldy, I unfold and inspect them."
 
 中文理解：我的手指又笨又笨拙，我展开检查它们。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我今天早上在 Birgitta 的桌上看到过这些火柴人"
 
-> I saw these stick figures this morning, on Birgitta's table. She must have drawn these.
+> **原句 7:** "I saw these stick figures this morning, on Birgitta's table. She must have drawn these."
 
 中文理解：我今天早上在 Birgitta 的桌上看到过这些火柴人。她一定画了这些。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在教堂的小堂里独自消化被 Max 背叛的痛苦时，发现她从面包车里抢救出来的纸张上那些笨拙的火柴人画和今天早上在 Birgitta 桌上看到的一模一样，但这不可能——因为据他所知 Birgitta 几十年来从未离开过她的小屋，这些画怎么会出现在教堂里？
+Alice 在教堂的小堂里独自消化被 Max 背叛的痛苦时，发现她从面包车里抢救出来的纸张上那些笨拙的火柴人画和今天早上在 Birgitta 桌上看到的一模一样，但这不可能——因为据他所知 Birgitta 几十年来从未离开过她的小屋，这些画怎么会出现在教堂里？

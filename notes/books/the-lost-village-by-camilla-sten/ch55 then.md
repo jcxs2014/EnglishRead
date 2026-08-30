@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："就像某个人没有秘密"
 
-> The pastor often sermonizes about having no secrets before God or the congregation.
+> **原句 1:** "The pastor often sermonizes about having no secrets before God or the congregation."
 
 中文理解：牧师经常讲道说在上帝或会众面前没有秘密。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她的丈夫 Staffan"
 
-> And two steps from her lies Staffan. Staffan. Her beloved husband.
+> **原句 2:** "And two steps from her lies Staffan. Staffan. Her beloved husband."
 
 中文理解：离她两步远的地方躺着 Staffan。Staffan。她亲爱的丈夫。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她意识到她失去了他"
 
-> She realizes that she has lost him.
+> **原句 3:** "She realizes that she has lost him."
 
 中文理解：她意识到她失去了他。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她想用她自己的双手杀死 Pastor Mattias"
 
-> She wishes she could kill Pastor Mattias with her own bare hands.
+> **原句 4:** "She wishes she could kill Pastor Mattias with her own bare hands."
 
 中文理解：她想用她自己的双手杀死 Pastor Mattias。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："这是我现在的家人"
 
-> "This is my family now," she says.
+> **原句 5:** "This is my family now," she says."
 
 中文理解："这是我现在的家人，"她说。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："不是 Elsa 的 Aina 在说话"
 
-> It isn't Elsa's Aina speaking.
+> **原句 6:** "It isn't Elsa's Aina speaking."
 
 中文理解：不是 Elsa 的 Aina 在说话。
 
@@ -145,4 +145,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在黎明时分回到教堂准备带走 Aina，却看到她的丈夫 Staffan 也躺在教堂地板上和其他人一起沉睡，她在小教堂里找到被 Pastor Mattias 控制的女儿，Aina 说"这是我现在的家人"并拒绝离开——Elsa 意识到她已经失去了丈夫和女儿，这个曾经充满爱的家庭彻底破碎了。
+Elsa 在黎明时分回到教堂准备带走 Aina，却看到她的丈夫 Staffan 也躺在教堂地板上和其他人一起沉睡，她在小教堂里找到被 Pastor Mattias 控制的女儿，Aina 说

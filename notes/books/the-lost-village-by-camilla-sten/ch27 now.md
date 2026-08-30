@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："系统地做这件事会更容易"
 
-> "It'll be easier if we do it systematically," he says. "Check street by street. Otherwise we might miss her."
+> **原句 1:** "It'll be easier if we do it systematically," he says. "Check street by street. Otherwise we might miss her."
 
 中文理解："如果我们系统地做这件事会更容易，"他说。"一条街一条街地检查。否则我们可能会错过她。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："你的眼睛里有什么？"
 
-> He hesitates, shifty-eyed. His pupils look tiny in his hazelnut irises.
+> **原句 2:** "He hesitates, shifty-eyed. His pupils look tiny in his hazelnut irises."
 
 中文理解：他犹豫了，眼神躲闪。他的瞳孔在榛子色的虹膜里显得很小。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："你事先知道 Emmy 要这么做？"
 
-> "Did you know Emmy was going to take off?"
+> **原句 3:** "Did you know Emmy was going to take off?"
 
 中文理解："你事先知道 Emmy 要开车离开？"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我们会沉下去，生长到墙壁里，与衰变和沉默融为一体"
 
-> Soon we'll be completely swallowed up. We'll sink down into the soil, grow into the walls, coalesce with the decay and the silence.
+> **原句 4:** "Soon we'll be completely swallowed up. We'll sink down into the soil, grow into the walls, coalesce with the decay and the silence."
 
 中文理解：很快我们就会被完全吞噬。我们会沉入土壤，生长到墙壁里，与衰变和沉默融为一体。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我们在这里并不孤单"
 
-> We're not alone here.
+> **原句 5:** "We're not alone here."
 
 中文理解：我们在这里并不孤单。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："时间碎成毫秒"
 
-> Time shatters into milliseconds. One frame where I stop. One where I raise my hands to my ears. One where I crouch down low, hunch my back.
+> **原句 6:** "Time shatters into milliseconds. One frame where I stop. One where I raise my hands to my ears. One where I crouch down low, hunch my back."
 
 中文理解：时间碎成毫秒。一帧是我停下来。一帧是我抬手捂住耳朵。一帧是我蹲下，弓起背。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："这是一场爆炸，就在广场上"
 
-> It's an explosion. And it's in the square.
+> **原句 7:** "It's an explosion. And it's in the square."
 
 中文理解：这是一场爆炸。就在广场上。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Robert 一起寻找 Tone，Alice 发现 Robert 事先知道 Emmy 的计划感到愤怒和被背叛，当 Alice 在村庄里喊 Tone 的名字时，时间突然慢下来，她看到爆炸在村庄广场上发生——这是整本书的转折点，危机从"失踪"升级为"爆炸"，她们被困在这个鬼屋里。
+Alice 和 Robert 一起寻找 Tone，Alice 发现 Robert 事先知道 Emmy 的计划感到愤怒和被背叛，当 Alice 在村庄里喊 Tone 的名字时，时间突然慢下来，她看到爆炸在村庄广场上发生——这是整本书的转折点，危机从

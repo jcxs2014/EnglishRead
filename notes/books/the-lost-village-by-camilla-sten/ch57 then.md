@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你应该感到什么在你的最后一次希望离开 Silvertjärn"
 
-> She should have felt something at her last hope leaving Silvertjärn.
+> **原句 1:** "She should have felt something at her last hope leaving Silvertjärn."
 
 中文理解：她应该感到她的最后一次希望离开 Silvertjärn 时的感觉。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："你的最后一次希望"
 
-> Her last hope.
+> **原句 2:** "Her last hope."
 
 关键词：Her last hope（她的最后一次希望）
 
@@ -43,7 +43,7 @@ modified: "2026-08-30"
 
 ### 第3处："Birgitta 被绑在柱子上"
 
-> Birgitta is tied to the pole.
+> **原句 3:** "Birgitta is tied to the pole."
 
 中文理解：Birgitta 被绑在柱子上。
 
@@ -57,7 +57,7 @@ modified: "2026-08-30"
 
 ### 第4处："血液已经顺着她的腿内侧流下来"
 
-> Blood has run down the inside of her legs, drying on her feet.
+> **原句 4:** "Blood has run down the inside of her legs, drying on her feet."
 
 中文理解：血液已经顺着她的腿内侧流下来，在她的脚上干涸。
 
@@ -71,7 +71,7 @@ modified: "2026-08-30"
 
 ### 第5处："是时候选择光明了"
 
-> "Time to choose—and to choose the light."
+> **原句 5:** "Time to choose—and to choose the light."
 
 中文理解：是时候选择——选择光明。
 
@@ -85,7 +85,7 @@ modified: "2026-08-30"
 
 ### 第6处："他举起他的手臂"
 
-> He raises his arms.
+> **原句 6:** "He raises his arms."
 
 中文理解：他举起他的手臂。
 
@@ -99,7 +99,7 @@ modified: "2026-08-30"
 
 ### 第7处："Kaj Andersson 带领队伍"
 
-> Kaj Andersson leads the ranks.
+> **原句 7:** "Kaj Andersson leads the ranks."
 
 中文理解：Kaj Andersson 带领队伍。
 
@@ -145,4 +145,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 被从牧师宅邸的地窖里拖出来押到广场，看到整个村庄的人都已经聚集在那里，Birgitta 被扒光衣服绑在广场中央的柱子上，血液顺着她的腿流下来，Pastor Mattias 向众人宣告是时候驱除邪恶选择光明，当他举起手臂时全场沉默，然后 Kaj Andersson 这样的执行者开始带领仪式——邪教的极端暴力即将降临。
+Elsa 被从牧师宅邸的地窖里拖出来押到广场，看到整个村庄的人都已经聚集在那里，Birgitta 被扒光衣服绑在广场中央的柱子上，血液顺着她的腿流下来，Pastor Mattias 向众人宣告是时候驱除邪恶选择光明，当他举起手臂时全场沉默，然后 Kaj Andersson 这样的执行者开始带领仪式——邪教的极端暴力即将降临。

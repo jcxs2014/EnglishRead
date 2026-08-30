@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："每位作家都知道每本书的无名英雄是背后的人"
 
-> Every writer knows that the unsung heroes of every book are the people who lie behind it.
+> **原句 1:** "Every writer knows that the unsung heroes of every book are the people who lie behind it."
 
 中文理解：每位作家都知道每本书的无名英雄是背后的人。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："一位好出版商就像一位教练"
 
-> A good publisher is like a coach—someone who peps you up, supports and inspires you.
+> **原句 2:** "A good publisher is like a coach—someone who peps you up, supports and inspires you."
 
 中文理解：一位好出版商就像一位教练——一个激励你、支持你和启发你的人。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："你让 Alice、Emmy、Elsa 和 Aina 走向世界"
 
-> Not only have you made sure that Alice, Emmy, Elsa, and Aina made it out into the world.
+> **原句 3:** "Not only have you made sure that Alice, Emmy, Elsa, and Aina made it out into the world."
 
 中文理解：你不仅确保了 Alice、Emmy、Elsa 和 Aina 走向世界。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："你的性格说的比你写作说的多"
 
-> That says a lot more about your character than it does about my writing.
+> **原句 4:** "My new manuscripts says a lot more about your character than it does about my writing."
 
 中文理解：那说的关于你的性格的比说的关于我的写作的多得多。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："你是仍然是我生命中最大的惊喜"
 
-> You are still the best surprise of my life.
+> **原句 5:** "You are still the best surprise of my life."
 
 中文理解：你仍然是我生命中最大的惊喜。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："感谢我的妈妈"
 
-> Thank you to my mom. For reading, supporting, giving the best advice, and kindly telling me what an idiot I'm being.
+> **原句 6:** "Thank you to my mom. For reading, supporting, giving the best advice, and kindly telling me what an idiot I'm being."
 
 中文理解：感谢我的妈妈。感谢阅读、支持、给予最好的建议，以及善意地告诉我什么时候我是个傻瓜。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："所有这些都是为了你"
 
-> All of this is for you.
+> **原句 7:** "All of this is for you."
 
 中文理解：所有这些都是为了你。
 
@@ -150,4 +150,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Camilla Sten 在致谢页中感谢她的出版商 Erika、编辑 John、经纪人 Anna 和 Johanna、朋友们、家人，以及那只在百忙之中抽空阅读她书籍的猫，最后她向每一位读到这里的人说——所有这些都是为了你，没有你阅读这本书这一切都不可能。
+Camilla Sten 在致谢页中感谢她的出版商 Erika、编辑 John、经纪人 Anna 和 Johanna、朋友们、家人，以及那只在百忙之中抽空阅读她书籍的猫，最后她向每一位读到这里的人说——所有这些都是为了你，没有你阅读这本书这一切都不可能。

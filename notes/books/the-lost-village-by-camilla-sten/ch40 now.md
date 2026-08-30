@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："泥泞的脚印"
 
-> And dotted with smeared, muddy footsteps.
+> **原句 1:** "And dotted with smeared, muddy footsteps."
 
 中文理解：还有泥泞的脚印点缀着。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："粉笔"
 
-> "Chalk," she says quietly.
+> **原句 2:** "Chalk," she says quietly."
 
 中文理解："粉笔，"她轻声说。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："这改变不了任何事情"
 
-> "This changes nothing," says Emmy. "I know it might feel like it, but it doesn't. Not really. We voted that it's safest to stay here."
+> **原句 3:** "This changes nothing," says Emmy. "I know it might feel like it, but it doesn't. Not really. We voted that it's safest to stay here."
 
 中文理解："这改变不了任何事情，"Emmy 说。"我知道可能感觉像是变了，但不是的。真的不是。我们投票决定最安全的是留在这里。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："那些电影没有展示的是"
 
-> But what those movies don't show is the guilt surging like a current through my skin.
+> **原句 4:** "But what those movies don't show is the guilt surging like a current through my skin."
 
 中文理解：但那些电影没有展示的是，内疚像电流一样在我的皮肤上涌动。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："留下的羞耻感可能比离开的恐惧更重"
 
-> What the moviegoers don't see is that the shame of staying can weigh heavier than the fear of going.
+> **原句 5:** "What the moviegoers don't see is that the shame of staying can weigh heavier than the fear of going."
 
 中文理解：电影观众看不到的是，留下的羞耻感可能比离开的恐惧更重。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："那我就一个人去"
 
-> "Then I'll go alone," I say.
+> **原句 6:** "Then I'll go alone," I say."
 
 中文理解："那我就一个人去，"我说。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："太阳刺痛了我的眼睛"
 
-> The sun stings my eyes.
+> **原句 7:** "The sun stings my eyes."
 
 中文理解：太阳刺痛了我的眼睛。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在教堂台阶上发现泥泞的脚印和粉笔痕迹，推断 Tone 昨晚来过并可能被困在学校里，Emmy 以投票结果为由拒绝离开，Alice 感到内疚比恐惧更重，于是宣布她将独自一人去学校寻找 Tone——这是她的决定性时刻，从恐惧走向行动。
+Alice 在教堂台阶上发现泥泞的脚印和粉笔痕迹，推断 Tone 昨晚来过并可能被困在学校里，Emmy 以投票结果为由拒绝离开，Alice 感到内疚比恐惧更重，于是宣布她将独自一人去学校寻找 Tone——这是她的决定性时刻，从恐惧走向行动。

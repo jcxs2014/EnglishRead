@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："在燃烧之前我闻到了烟味"
 
-> I smell the smoke before I see it.
+> **原句 1:** "I smell the smoke before I see it."
 
 中文理解：在看到烟之前我就闻到了它的味道。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："看起来像战争电影里的东西"
 
-> The square looks like something out of a war film.
+> **原句 2:** "The square looks like something out of a war film."
 
 中文理解：广场看起来像战争电影里的东西。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："轮子似乎在高温下融化了"
 
-> Its white body is flecked with black soot, and the wheels appear to have melted in the heat.
+> **原句 3:** "Its white body is flecked with black soot, and the wheels appear to have melted in the heat." have melted in the heat."
 
 中文理解：它的白色车身被黑色烟灰斑点覆盖，轮子似乎在高温下融化了。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："内部器官会变成汤"
 
-> I've heard that it isn't the fire you need to worry about but the shock waves; that they can make soup of your internal organs.
+> **原句 4:** "I've heard that it isn't the fire you need to worry about but the shock waves; that they can make soup of your internal organs."
 
 中文理解：我听说你不需要担心火，而是冲击波；它们能让你的内部器官变成汤。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："Robert 拥抱 Emmy 如此用力，看起来她快要断了"
 
-> He hugs Emmy so hard that it looks like she's about to snap.
+> **原句 5:** "He hugs Emmy so hard that it looks like she's about to snap."
 
 中文理解：他如此用力地拥抱 Emmy，看起来她快要断了。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我感到一种奇怪的内疚，只会变得更糟"
 
-> I feel a strange ache inside me, made only worse when Max gives me a hug.
+> **原句 6:** "I feel a strange ache inside me, made only worse when Max gives me a hug."
 
 中文理解：我感到一种奇怪的内疚，只会变得更糟，当 Max 给我一个拥抱时。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："另一辆面包车可能会爆炸"
 
-> "The other van could blow," she says.
+> **原句 7:** "The other van could blow."
 
 中文理解："另一辆面包车可能会爆炸，"她说。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 爆炸摧毁了他们的两辆面包车和所有设备，Alice 闻到了烟味并看到燃烧的残骸，Emmy 和 Max 跑来，Robert 和 Emmy 紧紧拥抱，而 Alice 感到奇怪的内疚，当 Emmy 说另一辆面包车可能会爆炸时，Alice 跟随她逃跑——她们必须在这个超自然的村庄里生存下来。
+爆炸摧毁了他们的两辆面包车和所有设备，Alice 闻到了烟味并看到燃烧的残骸，Emmy 和 Max 跑来，Robert 和 Emmy 紧紧拥抱，而 Alice 感到奇怪的内疚，当 Emmy 说另一辆面包车可能会爆炸时，Alice 跟随她逃跑——她们必须在这个超自然的村庄里生存下来。

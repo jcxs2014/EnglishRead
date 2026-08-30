@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你"
 
-> "You," she says, nodding at me. "Bind his hands."
+> **原句 1:** "You," she says, nodding at me. "Bind his hands."
 
 中文理解："你，"她说，朝我点头。"绑住他的手。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："你认为自己这次能成功，对吧？"
 
-> "You thought you'd do it this time, didn't you?"
+> **原句 2:** "You thought you'd do it this time, didn't you?"
 
 中文理解："你认为自己这次能成功，对吧？"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："那是你死时所唱的歌，巫婆"
 
-> "It was the hymn you died to, witch."
+> **原句 3:** "It was the hymn you died to, witch."
 
 中文理解："那是你死时所唱的歌，巫婆。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她左边眼睛下面有一颗痣"
 
-> And she has a birthmark under one eye—dark, oddly elegant.
+> **原句 4:** "And she has a birthmark under one eye—dark, oddly elegant."
 
 中文理解：她左边眼睛下面有一颗痣——深色的，奇怪地优雅。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："Aina？"
 
-> "Aina?" I say.
+> **原句 5:** "Aina?" I say."
 
 中文理解："Aina？"我说。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她离开了我"
 
-> "She left me here," she says. "She abandoned me."
+She left me here, she says. She abandoned me.
 
 中文理解："她离开了我，"她说。"她抛弃了我。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我在这里"
 
-> "I'm here," I say. "I came here. To find you."
+> **原句 7:** "I'm here," I say. "I came here. To find you."
 
 中文理解："我在这里，"我说。"我来这里找你。"
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 发现持刀劫持 Tone 的老妇人就是 Elsa 失踪60年的女儿 Aina，她一直被遗弃在这个村子里等待救援，现在认为 Tone 是她已故母亲 Birgitta 的化身必须归还从她这里偷走的东西，当 Alice 试图用亲情打动她说自己是 Margareta 的孙女来找她时，Aina 愤怒地说 Margareta抛弃了她——60年的囚禁和被抛弃的怨恨让这个老妇人陷入了疯狂的妄想。
+Alice 发现持刀劫持 Tone 的老妇人就是 Elsa 失踪60年的女儿 Aina，她一直被遗弃在这个村子里等待救援，现在认为 Tone 是她已故母亲 Birgitta 的化身必须归还从她这里偷走的东西，当 Alice 试图用亲情打动她说自己是 Margareta 的孙女来找她时，Aina 愤怒地说 Margareta抛弃了她——60年的囚禁和被抛弃的怨恨让这个老妇人陷入了疯狂的妄想。

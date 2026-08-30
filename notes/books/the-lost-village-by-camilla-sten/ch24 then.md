@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——教堂长椅很硬
 
-> The church pews are hard and worn, and in recent years her hips have started aching whenever she sits in the same position too long.
+> **原句 1:** "The church pews are hard and worn, and in recent years her hips have started aching whenever she sits in the same position too long."
 
 中文理解：教堂的长椅又硬又破旧，近年来她的臀部开始在她长时间保持同一姿势时疼痛。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：" merge with Christ"
 
-> "… it is not that Jesus loves only the worthy; but that the only way to prove one's worthiness is to merge with Christ."
+> **原句 2:** "… it is not that Jesus loves only the worthy; but that the only way to prove one's worthiness is to merge with Christ."
 
 中文理解："……这并不是说耶稣只爱有价值的人；而是证明自己价值的唯一方式是 与基督合一。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：" Aina 的目光燃烧着专注的愤怒"
 
-> Aina's eyes are brimming with a concentrated rage. Elsa scrabbles to find a response, but Aina has already turned back to the altar, her face transformed from rage to adoration.
+> **原句 3:** "Aina's eyes are brimming with a concentrated rage. Elsa scrabbles to find a response, but Aina has already turned back to the altar, her face transformed from rage to adoration."
 
 中文理解：Aina 的眼中充满了集中的愤怒。Elsa 努力寻找回应，但 Aina 已经转回祭坛，她的表情从愤怒变成崇拜。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："没有人 budge"
 
-> Elsa clears her throat politely, but no one budges; no one even looks at her.
+> **原句 4:** "Elsa clears her throat politely, but no one budges; no one even looks at her."
 
 中文理解：Elsa 礼貌地清了清嗓子，但没有人动；甚至没有人看她一眼。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："他的眼睛像石头一样冷"
 
-> The corners of his mouth are pulled up into his usual mild smile, but his eyes are cold as stone.
+> **原句 5:** "The corners of his mouth are pulled up into his usual mild smile, but his eyes are cold as stone."
 
 中文理解：他的嘴角向上翘起，露出他平时温和的微笑，但他的眼睛像石头一样冷。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：" Einar 已经搬走了"
 
-> "Einar has chosen to step down, Fru Kullman," he says. "He has moved south to live with his sister. For the sake of his health."
+> **原句 6:** "Einar has chosen to step down, Fru Kullman," he says. "He has moved south to live with his sister. For the sake of his health."
 
 中文理解：" Einar 已经选择退位了，Kullman 女士，"他说。"他搬到南方和他妹妹住在一起了。为了他的健康。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："没有人看她；甚至没有人注意到她在那里"
 
-> No one is looking at her; no one even seems to notice she's there. Not even the pastor.
+> **原句 7:** "No one is looking at her; no one even seems to notice she's there. Not even the pastor."
 
 中文理解：没有人看她；甚至没有人似乎注意到她在那里。甚至连牧师都没有。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在教堂听 Pastor Mattias 讲道时，发现他越来越狂热，而她的女儿 Aina 用狂热的崇拜看着他，Elsa 试图挑战 Mattias 让 Einar 回来讲道，却被告知 Einar 已经自愿离开，Mattias 用冷漠的微笑和如石头般冷的眼睛看着 Elsa，而整个教堂没有人注意到她的存在——这是村庄被邪教渗透的转折点。
+Elsa 在教堂听 Pastor Mattias 讲道时，发现他越来越狂热，而她的女儿 Aina 用狂热的崇拜看着他，Elsa 试图挑战 Mattias 让 Einar 回来讲道，却被告知 Einar 已经自愿离开，Mattias 用冷漠的微笑和如石头般冷的眼睛看着 Elsa，而整个教堂没有人注意到她的存在——这是村庄被邪教渗透的转折点。

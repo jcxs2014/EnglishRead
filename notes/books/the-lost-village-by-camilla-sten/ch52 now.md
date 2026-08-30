@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："我试着打了一面墙"
 
-> "I tried to punch a wall," he says, sounding almost put off.
+> **原句 1:** "I tried to punch a wall," he says, sounding almost taken aback.
 
 中文理解："我试着打了一面墙，"他说，听起来几乎是沮丧的。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我不明白"
 
-> "I don't understand." I don't know if it's a statement or a question, but it's the truth.
+> **原句 2:** "I don't understand." I don't know if it's a statement or a question, but it's the truth."
 
 中文理解："我不明白。"我不知道这是一个陈述还是一个问题，但这是事实。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我们是在谈论 Tone 还是 Emmy 还是 Silvertjärn"
 
-> I don't know if we're talking about Tone or Emmy or Silvertjärn. Perhaps we're talking about all three.
+> **原句 3:** "I don't know if we're talking about Tone or Emmy or Silvertjärn. Perhaps we're talking about all three."
 
 中文理解：我不知道我们是在谈论 Tone 还是 Emmy 还是 Silvertjärn。也许我们三样都在谈论。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他指节上的血"
 
-> Sharp little drops of blood emerge from under the broken scab, like jewels.
+> **原句 4:** "Sharp little drops of blood emerge from under the broken scab, like jewels."
 
 中文理解：sharp little drops of blood 从破裂的疤下出现，像珠宝一样。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："如果你听到我在地板上踩踏，就上来"
 
-> "If you hear me stamping on the floor, come up."
+> **原句 5:** "If you hear me stamping on the floor, come up."
 
 中文理解："如果你听到我在地板上踩踏，就上来。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："他的拳头仍然紧紧握着"
 
-> His fists are still tightly clenched.
+> **原句 6:** "His fists are still tightly clenched."
 
 中文理解：他的拳头仍然紧紧握着。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我waver"
 
-> I waver.
+> **原句 7:** "I waver."
 
 中文理解：我犹豫了。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在厨房里找到 Robert，他们讨论了无法理解的一切——Tone、Emmy 和这个村庄，Robert 透露他曾愤怒地打墙来让自己感受点什么，他们建立了一个安全协议让 Alice 上楼去给被锁起来的 Tone 送水，而 Robert 会在楼下等待她发出的信号——两个疲惫而破碎的人在沉默中形成了生存联盟。
+Alice 在厨房里找到 Robert，他们讨论了无法理解的一切——Tone、Emmy 和这个村庄，Robert 透露他曾愤怒地打墙来让自己感受点什么，他们建立了一个安全协议让 Alice 上楼去给被锁起来的 Tone 送水，而 Robert 会在楼下等待她发出的信号——两个疲惫而破碎的人在沉默中形成了生存联盟。

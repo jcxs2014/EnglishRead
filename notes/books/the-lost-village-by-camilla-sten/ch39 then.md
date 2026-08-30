@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你必须讲道理——停止挑战牧师"
 
-> "You must be reasonable—stop challenging the pastor," he said. "Folk have started talking, Elsie. Enough, now. Enough."
+> **原句 1:** "You must be reasonable—stop challenging the pastor," he said. "Folk have started talking, Elsie. Enough, now. Enough."
 
 中文理解："你必须讲道理——停止挑战牧师，"他说。"人们开始议论了，Elsie。够了，够了。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："在那一刻，我感到我的心分裂成两半"
 
-> In that instant she had felt her heart split in two.
+> **原句 2:** "In that instant she had felt her heart split in two."
 
 中文理解：在那一刻，我感到我的心分裂成两半。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："第二晚他根本没有回家"
 
-> The next night he hadn't come home at all.
+> **原句 3:** "The next night he hadn't come home at all."
 
 中文理解：第二晚他根本没有回家。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："当 evensong 扫过 Silvertjärn 时"
 
-> When evensong had swept over Silvertjärn, Elsa had thought, impossible as it was, that she could hear Staffan's voice among them.
+> **原句 4:** "When evensong had swept over Silvertjärn, Elsa had thought, impossible as it was, that she could hear Staffan's voice among them."
 
 中文理解：当 evensong 扫过 Silvertjärn 时，Elsa 认为，尽管不可能，她能听到 Staffan 的声音在他们中间。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："他们开始举行弥撒"
 
-> They have started holding mass in
+> **原句 5:** "They have started holding mass in"
 
 中文理解：他们开始举行弥撒
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："前门猛地关上"
 
-> The front door slams downstairs.
+> **原句 6:** "The front door slams downstairs."
 
 中文理解：前门猛地关上。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："是 Birgitta。你必须来。"
 
-> "It's Birgitta. You must come."
+> **原句 7:** "It's Birgitta. You must come."
 
 中文理解："是 Birgitta。你必须来。"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在给女儿写求救信时丈夫 Staffan 回来要求她停止挑战牧师然后失踪了，她在 evensong 歌声中听到丈夫的声音参与其中，信写到他们开始举行邪教弥撒时被打断，Dagny 跑来告诉她 Birgitta 出事了必须过去——这个家庭和村庄正在崩溃。
+Elsa 在给女儿写求救信时丈夫 Staffan 回来要求她停止挑战牧师然后失踪了，她在 evensong 歌声中听到丈夫的声音参与其中，信写到他们开始举行邪教弥撒时被打断，Dagny 跑来告诉她 Birgitta 出事了必须过去——这个家庭和村庄正在崩溃。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——"从未亲眼见过"
 
-> I've never seen Silvertjärn with my own eyes. I've pictured it, sure, based on Grandma's stories, spent late nights googling like a woman possessed, searching for some kind of description, but I've found next to nothing.
+> **原句 1:** "I've never seen Silvertjärn with my own eyes. I've pictured it, sure, based on Grandma's stories, spent late nights googling like a woman possessed, searching for some kind of description, but I've found next to nothing."
 
 中文理解：我从未亲眼见过 Silvertjärn。我根据奶奶的故事想象过它，疯狂地熬夜搜索，寻找某种描述，但我几乎什么都没找到。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："像一朵即将凋落花瓣的过度绽放的玫瑰"
 
-> It's beautiful, but in an almost obscene way, like an overblown rose about to shed its petals.
+> **原句 2:** "It's beautiful, but in an almost obscene way, like an overblown rose about to shed its petals."
 
 中文理解：它很美，但以一种近乎下流的方式，像一朵即将凋落花瓣的过度绽放的玫瑰。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处： Tone 的半笑容
 
-> "I guess I just never thought I'd actually get here—that it would go this far. It hasn't really hit me that we're here yet."
+> **原句 3:** "I guess I just never thought I'd actually get here—that it would go this far. It hasn't really hit me that we're here yet."
 
 中文理解："我想我只是从没想过我真的会到这里——事情会走到这一步。我还没有真正意识到我们到了。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："你是一台该死的推土机"
 
-> "Because you, Alice, are a fucking bulldozer."
+> **原句 4:** "Because you, Alice, are a fucking bulldozer."
 
 中文理解："因为 Alice，你是一台该死的推土机。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处： Emmy 的出现
 
-> Emmy's leaning against the driver's side of the van, her misshapen white T-shirt seemingly melting into the paintwork. Her henna-red hair is tied up in a messy ponytail, and the jeans she's wearing are big enough to fit the guy standing next to her.
+> **原句 5:** "Emmy's leaning against the driver's side of the van, her misshapen white T-shirt seemingly melting into the paintwork. Her henna-red hair is tied up in a messy ponytail, and the jeans she's wearing are big enough to fit the guy standing next to her."
 
 中文理解：Emmy 斜靠在货车驾驶员一侧，她变形的白 T 恤似乎融入了车身。她指甲花粉红色的头发扎成一个凌乱的马尾，她穿的牛仔裤大到可以装下站在她旁边的家伙。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：黑暗开始降临
 
-> We should probably get a move on, she says, and it's then I realize that darkness has started to fall.
+> **原句 6:** "We should probably get a move on, she says, and it's then I realize that darkness has started to fall."
 
 中文理解：我们可能应该快点，她说，直到那时我才意识到黑暗已经开始降临。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："小心驾驶——我们不想损坏设备！"
 
-> But drive carefully—we don't want to damage the equipment!
+> **原句 7:** "But drive carefully—we don't want to damage the equipment!"
 
 中文理解：小心驾驶——我们不想损坏设备！
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和团队终于到达 Silvertjärn 废弃村庄，在山坡上俯瞰废墟的美景，Tone 拍照，Emmy 质疑计划，天色已暗，他们必须在天黑前到达主广场扎营——这是"到达"的高潮与"未知"的开始。
+Alice 和团队终于到达 Silvertjärn 废弃村庄，在山坡上俯瞰废墟的美景，Tone 拍照，Emmy 质疑计划，天色已暗，他们必须在天黑前到达主广场扎营——这是"到达"的高潮与"未知"的开始。

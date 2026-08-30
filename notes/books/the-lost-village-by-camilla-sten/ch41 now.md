@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你不能阻止我"
 
-> "You can't stop me," I say, even though some small part of me really hopes she can.
+> **原句 1:** "You can't stop me," I say, even though some small part of me really hopes she can."
 
 中文理解："你不能阻止我，"我说，尽管我内心的一小部分真的希望她能。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："每个人都想像英雄"
 
-> "Everyone wants to be heroes, Alice! Everyone wants to run around fixing everything, but this isn't a movie!"
+> **原句 2:** "Everyone wants to be heroes, Alice! Everyone wants to run around fixing everything, but this isn't a movie!"
 
 中文理解："每个人都想像英雄，Alice！每个人都想像无头苍蝇一样到处修这修那，但这不是电影！"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我像姐妹一样爱你"
 
-> "I loved you, Alice." Her lips quiver as she says it. "You were like a sister to me."
+> **原句 3:** "I loved you, Alice." Her lips quiver as she says it. "You were like a sister to me."
 
 中文理解："我爱你，Alice。"她说这话时嘴唇颤抖。"你像姐妹一样爱我。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："你在我床上睡了三个星期"
 
-> "Do you have any idea how painful it was to see you like that? To see you contract, shrink down until you could hardly get out of bed?"
+> **原句 4:** "Do you have any idea how painful it was to see you like that? To see you contract, shrink down until you could hardly get out of bed?"
 
 中文理解："你知道看到你那个样子有多痛苦吗？看到你萎缩、收缩，几乎下不了床？"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我所能做的就是哭"
 
-> "Alice, the first time you said you wanted to die, I called my mom and just cried."
+> **原句 5:** "Alice, the first time you said you wanted to die, I called my mom and just cried."
 
 中文理解："Alice，你第一次说你想死的时候，我给我妈妈打电话，只是哭。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我恨我自己"
 
-> "I didn't hate you," I choke. "I don't hate you. Or maybe I did. Once. Because I hated myself."
+> **原句 6:** "I didn't hate you," I choke, the words so thin and strained that they twist out of shape.id. Once. Because I hated myself."
 
 中文理解："我不恨你，"我哽咽道。"我不恨你。或者我曾经恨过你。因为我恨我自己。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："所以我们一起做吧"
 
-> "OK," she says. "Then let's do it."
+> **原句 7:** "OK," she says. "Then let's do it."
 
 中文理解："好，"她说。"那我们一起做吧。"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Emmy 在教堂小堂里爆发了关于过去七年友谊与背叛的对抗性对话，Emmy 透露她在 Alice 抑郁最严重时期所承受的痛苦，Alice 承认她当时恨的是自己而非 Emmy，最终两人达成了不完美的和解并决定一起去学校寻找 Tone。
+Alice 和 Emmy 在教堂小堂里爆发了关于过去七年友谊与背叛的对抗性对话，Emmy 透露她在 Alice 抑郁最严重时期所承受的痛苦，Alice 承认她当时恨的是自己而非 Emmy，最终两人达成了不完美的和解并决定一起去学校寻找 Tone。

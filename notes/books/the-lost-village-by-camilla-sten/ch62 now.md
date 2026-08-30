@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："如果你跑我就割开她的喉咙"
 
-> "If you run I'll slit her throat open."
+> **原句 1:** "If you run I'll slit her throat open."
 
 中文理解："如果你跑我就割开她的喉咙。"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我想到 Max 被砸碎的头和张开的手"
 
-> I think of Max's smashed-in head and outstretched hand.
+> **原句 2:** "I think of Max's smashed-in head and outstretched hand."
 
 中文理解：我想到 Max 被砸碎的头和张开的手。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我不能让步"
 
-> I can't go in there. I can't step into that darkness.
+> **原句 3:** "I can't go in there. I can't step into that darkness."
 
 中文理解：我不能让步。我不能踏入那片黑暗。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："只有通过允许黑暗拥抱我们我们才能踏入光明"
 
-> Only by allowing the darkness to embrace us can we step into the light.
+> **原句 4:** "Only by allowing the darkness to embrace us can we step into the light."
 
 中文理解：只有通过允许黑暗拥抱我们，我们才能踏入光明。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："矿井"
 
-> "The mine," I say. "It leads to the mine."
+> **原句 5:** "The mine," I say. "It leads to the mine."
 
 中文理解："矿井，"我说。"它通向矿井。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："跳"
 
-> "Jump," she says.
+> **原句 6:** "Jump," she says."
 
 中文理解："跳，"她说。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我感觉脚踢在我背上"
 
-> I feel a foot against my back, a quick kick.
+> **原句 7:** "I feel a foot against my back, a quick kick."
 
 中文理解：我感觉脚踢在我背上，快速的一脚。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 被 Aina 威胁如果逃跑就杀死 Tone，被迫和 Robert 一起走向森林深处的矿井，那是他们被警告过要避开的地面不稳定区域——当 Alice 在矿井边缘犹豫时 Aina 再次用 Tone 的生命逼迫她，然后一脚把她踢入黑暗的深渊。
+Alice 被 Aina 威胁如果逃跑就杀死 Tone，被迫和 Robert 一起走向森林深处的矿井，那是他们被警告过要避开的地面不稳定区域——当 Alice 在矿井边缘犹豫时 Aina 再次用 Tone 的生命逼迫她，然后一脚把她踢入黑暗的深渊。

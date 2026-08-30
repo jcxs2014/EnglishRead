@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——" Max 仰起头大喊"
 
-> Max throws back his head and shouts. "Hello!"
+> **原句 1:** "Max throws back his head and shouts. "Hello!"
 
 中文理解：Max 仰起头大喊。"你好！"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："对不起，我想我有点紧张"
 
-> "Sorry," I say. "I guess I'm a little tense."
+> **原句 2:** "Sorry," I say. "I guess I'm a little tense."
 
 中文理解："对不起，"我说。"我想我有点紧张。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："她曾经是我最好的朋友"
 
-> "She was my best friend," I say.
+> **原句 3:** "She was my best friend," I say."
 
 中文理解："她曾经是我最好的朋友，"我说。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："第三年我记得不太清楚"
 
-> But the third year I don't remember so well. What I do remember are blackened lights, darkness outside; silent tears streaming down onto the pillow; Emmy making toast and tea, rubbing my back with unpainted nails until I'd fall asleep, exhausted.
+> **原句 4:** "But the third year I don't remember so well. What I do remember are blackened lights, darkness outside; silent tears streaming down onto the pillow; Emmy making toast and tea, rubbing my back with unpainted nails until I'd fall asleep, exhausted."
 
 中文理解：但第三年我记得不太清楚。我记得的是路灯的黑化，外面的黑暗；无声的眼泪流到枕头上；Emmy 做烤面包和茶，用没涂指甲油的手指揉我的背，直到我累得睡着。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："七年来她就像一个半愈合的伤口"
 
-> Seven years have passed since then, almost a quarter of my life. And all this time she's been like a half-healed wound, a scab I can never quite seem to stop myself from scratching.
+> **原句 5:** "Seven years have passed since then, almost a quarter of my life. And all this time she's been like a half-healed wound, a scab I can never quite seem to stop myself from scratching."
 
 中文理解：从那以后七年过去了，几乎是我生命的四分之一。这一路走来，她就像一个半愈合的伤口，一个我似乎永远无法停止抓挠的痂。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我们讨论过毕业后要一起工作，革新瑞典电影业"
 
-> We were always talking about what we'd do after we graduated, about how we'd work together, revolutionize the Swedish film industry. You know. As you do.
+> **原句 6:** "We were always talking about what we'd do after we graduated, about how we'd work together, revolutionize the Swedish film industry. You know. As you do."
 
 中文理解：我们总是在谈论毕业后我们要做什么，我们要如何一起工作，革新瑞典电影业。你知道的。就像任何人一样。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："你知道我上大学的时候有……问题"
 
-> "You know that I had … problems … when I was at college."
+> **原句 7:** "You know that I had … problems … when I was at college."
 
 中文理解："你知道我上大学的时候有……问题……"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Max 在火车站探索，Max 测试回声，Alice 回忆与 Emmy 的大学时代——她们曾经是最好的朋友，有共同的梦想，但后来因为 Alice 的"问题"而疏远，现在 Emmy 在团队里显得"专横"，Alice 在 Max 面前首次承认这段过去——这是"未解决的过去"与"当前紧张关系"的交汇。
+Alice 和 Max 在火车站探索，Max 测试回声，Alice 回忆与 Emmy 的大学时代——她们曾经是最好的朋友，有共同的梦想，但后来因为 Alice 的

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："她不在这里"
 
-> "No," she says, shaking her head. She looks at the other van. "No, she was … she was here, she…"
+> **原句 1:** "No," she says, shaking her head. She looks at the other van. "No, she was … she was here, she…"
 
 中文理解："不，"她摇摇头说。她看着另一辆面包车。"不，她当时在……她当时在这里，她……"
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："所以你他妈的去了哪里？"
 
-> "So where the fuck have you been?" I ask Emmy.
+> **原句 2:** "So where the fuck have you been?" I ask Emmy."
 
 中文理解："所以你他妈的去了哪里？"我问 Emmy。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我妈妈是护士"
 
-> "My mom," she says. "You know she's a nurse. I wanted to ask about Tone's foot. And to have some contact with the outside world."
+> **原句 3:** "My mom," she says. "You know she's a nurse. I wanted to ask about Tone's foot. And to have some contact with the outside world."
 
 中文理解："我妈妈，"她说。"你知道她是个护士。我想问她关于 Tone 的脚伤。也想和外部世界取得联系。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："这里有人"
 
-> "There's somebody here, Alice!" Emmy hurls out of her mouth.
+> **原句 4:** "There's somebody here, Alice!" Emmy hurls out of her mouth."
 
 中文理解："这里有人，Alice！"Emmy 厉声说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我只是想离开死区打个电话"
 
-> "I wasn't even gone two hours. OK? Tone was asleep when I left. We had more than enough gas—I didn't waste anything. I just wanted to get out of the dead zone to make a phone call."
+> **原句 5:** "I wasn't even gone two hours. OK? Tone was asleep when I left. We had more than enough gas—I didn't waste anything. I just wanted to get out of the dead zone to make a phone call."
 
 中文理解："我离开还不到两小时。好吗？Tone 我走的时候在睡觉。我们有足够的汽油——我没有浪费。我只是想离开死区打个电话。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她的眼睛从空洞变成狂野"
 
-> Her eyes have gone from glassy to wild, and her red ponytail is gleaming like a traffic light in the sun.
+> **原句 6:** "Her eyes have gone from glassy to wild, and her red ponytail is gleaming like a traffic light in the sun."
 
 中文理解：她的眼睛从空洞变成狂野，她的红色马尾辫在阳光下像红绿灯一样闪烁。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："重要的是我们在她伤害自己之前找到她"
 
-> "It's OK. You go with Alice," she says. "The important thing is that we find Tone before she does herself any harm."
+> **原句 7:** "It's OK. You go with Alice," she says. "The important thing is that we find Tone before she does herself any harm."
 
 中文理解："没关系。你和 Alice 一起去，"她说。"重要的是我们在她伤害自己之前找到她。"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Max 返回营地发现 Tone 失踪，与 Emmy 对质后得知她擅自开车出去打电话给护士妈妈，Emmy 透露她看到过"某个人"在村庄里，而 Alice 和 Emmy 之间的信任彻底破裂，她们必须先找到 Tone 才能解决彼此之间的问题。
+Alice 和 Max 返回营地发现 Tone 失踪，与 Emmy 对质后得知她擅自开车出去打电话给护士妈妈，Emmy 透露她看到过

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——十一月的寒冷
 
-> When Elsa nears the church doors, she is surprised to find them wide open. It's a cold day even for late November, less than thirty degrees, and over the course of the day only the odd isolated snowflake has sailed down from the bright sky.
+> **原句 1:** "When Elsa nears the church doors, she is surprised to find them wide open. It's a cold day even for late November, less than thirty degrees, and over the course of the day only the odd isolated snowflake has sailed down from the bright sky."
 
 中文理解：当 Elsa 接近教堂门时，她惊讶地发现它们敞开着。即使在十一月底，这也是寒冷的一天，不到三十度，一整天只有零星的雪片从明亮的天空中飘落。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处： Elisabet 和她的婴儿
 
-> The baby was wearing a homemade crocheted hat, cooing through a toothless grin. Elisabet had said that they still didn't have a name for her, but they ought to get on with it: the girl is almost three months old, and children can't go on without a name forever.
+> **原句 2:** "The baby was wearing a homemade crocheted hat, cooing through a toothless grin. Elisabet had said that they still didn't have a name for her, but they ought to get on with it: the girl is almost three months old, and children can't go on without a name forever."
 
 中文理解：婴儿戴着一顶自制钩针帽，咿咿呀呀地发出无牙的笑容。Elisabet 说他们还没有给她取名字，但他们应该抓紧了：女孩快三个月大了，孩子不能永远没有名字。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### ### 第3处：新牧师 Mattias
 
-> The man now walking down the aisle toward her is neatly dressed in a casual shirt and well-ironed trousers. He's considerably younger than Einar—can scarce be more than thirty—with short blond hair that curls slightly over his forehead. A shy smile plays on his face.
+> **原句 3:** "The man now walking down the aisle toward her is neatly dressed in a casual shirt and well-ironed trousers. He's considerably younger than Einar—can scarce be more than thirty—with short blond hair that curls slightly over his forehead. A shy smile plays on his face."
 
 中文理解：现在沿着通道向她走来的男人穿着休闲衬衫和熨烫平整的裤子，打扮整洁。他比 Einar 年轻很多——可能不过三十岁，有着轻微卷曲的金色短发的额头。羞涩的微笑浮现在他脸上。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我会帮助 Einar"
 
-> "I shall be helping Einar. Times are tough, and Einar—well, when Einar…"
+> **原句 4:** "I shall be helping Einar. Times are tough, and Einar—well, when Einar…"
 
 中文理解："我将帮助 Einar。时代艰难，而 Einar——嗯，当 Einar……"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：教堂的气味变化
 
-> It's clean and tidy, with everything in its rightful place, and the subtle yet unmistakable scent of schnapps that usually hangs in the air is gone.
+> **原句 5:** "It's clean and tidy, with everything in its rightful place, and the subtle yet unmistakable scent of schnapps that usually hangs in the air is gone."
 
 中文理解：它干净整洁，一切都放在应有的位置，空气中通常弥漫的淡淡的但明显的烈酒气味消失了。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处： Mattias 的眼睛
 
-> His eyes are gray, Elsa now sees, with dark rings around his irises. Perhaps it's those eyes that make him seem so charming. They're big and round like a child's, and they make him look younger than he surely must be.
+> **原句 6:** "His eyes are gray, Elsa now sees, with dark rings around his irises. Perhaps it's those eyes that make him seem so charming. They're big and round like a child's, and they make him look younger than he surely must be."
 
 中文理解：Elsa 现在看到他的眼睛是灰色的，虹膜周围有深色的环。也许是这些眼睛让他看起来如此有魅力。它们像孩子的眼睛一样又大又圆，让他看起来比他实际的年龄更年轻。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："她可以信任他。他可以帮助她。"
 
-> She can trust him. He can help her.
+> **原句 7:** "She can trust him. He can help her."
 
 中文理解：她可以信任他。他可以帮助她。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在十一月底去教堂寻找帮助，却发现新来的年轻牧师 Mattias 取代了沉迷酒精的 Einar，Mattias 年轻整洁、眼睛迷人，愿意帮助照顾临终的 Agneta——这是"新时代"与"旧问题"的交替，但 Mattias 的真实意图仍然未知。
+Elsa 在十一月底去教堂寻找帮助，却发现新来的年轻牧师 Mattias 取代了沉迷酒精的 Einar，Mattias 年轻整洁、眼睛迷人，愿意帮助照顾临终的 Agneta——这是"新时代"与"旧问题"的交替，但 Mattias 的真实意图仍然未知。

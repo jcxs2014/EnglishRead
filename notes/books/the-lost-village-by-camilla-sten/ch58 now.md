@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："赞美诗"
 
-> "That word above all earthly pow'rs—No thanks to them—abideth:
+> **原句 1:** "That word above all earthly pow'rs—No thanks to them—abideth:"
 
 The Spirit and the gifts are ours Thro' Him who with us sideth."
 
@@ -35,7 +35,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第2处："我们将要死在这里"
 
-> "We're going to die here," Robert mumbles.
+> **原句 2:** "We're going to die here," Robert mumbles."
 
 中文理解："我们要死在这里了，"Robert 喃喃地说。
 
@@ -49,7 +49,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第3处："我们必须穿过森林"
 
-> "We'll have to go through the forest. We can't wait for the police."
+> **原句 3:** "We'll have to go through the forest. We can't wait for the police."
 
 中文理解："我们必须穿过森林。我们不能等警察了。"
 
@@ -63,7 +63,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第4处："村庄本身似乎试图吞噬我们"
 
-> The village itself seems to be trying to swallow us up.
+> **原句 4:** "The village itself is trying to swallow us up."
 
 中文理解：村庄本身似乎试图吞噬我们。
 
@@ -77,7 +77,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第5处："刀刃在光线中闪烁红色"
 
-> The knife blade flashes red-hot in the light.
+> **原句 5:** "The knife blade flashes red-hot in the light."
 
 中文理解：刀刃在光线中闪烁红色。
 
@@ -91,7 +91,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第6处："她的脸被灰白色的纠结头发遮住了"
 
-> Its face is covered by tangles of gray-white hair.
+> **原句 6:** "Its face is covered by tangles of gray-white hair."
 
 中文理解：它的脸被灰白色的纠结头发遮住了。
 
@@ -105,7 +105,7 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ### 第7处："一个声音"
 
-> "One sound and I slit her throat."
+> **原句 7:** "One sound and I slit her throat."
 
 中文理解："一声声音我就割开她的喉咙。"
 
@@ -151,4 +151,4 @@ The Spirit and the gifts are ours Thro' Him who with us sideth."
 
 ## 一句话总结
 
-> Alice 和 Robert 决定穿过森林逃跑，但当他们回到奶奶家接 Tone 时，发现一个灰白头发、眼睛凸起的老妇人正用刀架在 Tone 的脖子上威胁说如果发出任何声音就割开她的喉咙——被困在房间里的 Alice 在 Robert 上楼来的瞬间意识到他们陷入了更危险的境地。
+Alice 和 Robert 决定穿过森林逃跑，但当他们回到奶奶家接 Tone 时，发现一个灰白头发、眼睛凸起的老妇人正用刀架在 Tone 的脖子上威胁说如果发出任何声音就割开她的喉咙——被困在房间里的 Alice 在 Robert 上楼来的瞬间意识到他们陷入了更危险的境地。

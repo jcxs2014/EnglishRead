@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："是 Max 伸出手闭上了她的眼睛"
 
-> It's Max who reaches out and closes her eyes.
+> **原句 1:** "It's Max who reaches out and closes her eyes."
 
 中文理解：是 Max 伸出手闭上了她的眼睛。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我一遍又一遍地说：我不明白"
 
-> "I don't understand," I whisper to myself. I say it again and again, probe it.
+> **原句 2:** "I don't understand," I whisper to myself. I say it again and again, probe it."
 
 中文理解："我不明白，"我低声对自己说。我一遍又一遍地说，探索它。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我咬到感觉皮肤裂开，血的味道充满了我的嘴巴"
 
-> I bite it hard, bite until I feel the skin break and the taste of blood fills my mouth.
+> **原句 3:** "I bite it hard, bite until I feel the skin break and the taste of blood fills my mouth."
 
 中文理解：我狠狠地咬，直到我感觉皮肤裂开，血的味道充满了我的嘴巴。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："Emmy 值得被干净、完整的东西覆盖"
 
-> Emmy deserves to be shrouded in something clean. And whole.
+> **原句 4:** "Emmy deserves to be shrouded in something clean. And whole."
 
 中文理解：Emmy 值得被干净、完整的东西覆盖。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："这是我一直在寻找的突破"
 
-> Here it is. Finally. The breakthrough I've been looking for.
+> **原句 5:** "Here it is. Finally. The breakthrough I've been looking for."
 
 中文理解：在这里。终于。这是我一直在寻找的突破。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："我从未想过我会付出这个代价"
 
-> I just never could have guessed the price I would have to pay.
+> **原句 6:** "I just never could have guessed the price I would have to pay."
 
 中文理解：我从未想过我会付出这个代价。
 
@@ -138,4 +138,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在 Emmy 死后陷入震惊和无法理解的状态，她找到了一条干净的床单想给 Emmy 最后的尊严，在柜子里发现了记录1959年出生记录的宝丽来照片——这是她纪录片一直在寻找的突破，但她意识到为此付出的代价是失去最好的朋友，这个发现变得毫无意义。
+Alice 在 Emmy 死后陷入震惊和无法理解的状态，她找到了一条干净的床单想给 Emmy 最后的尊严，在柜子里发现了记录1959年出生记录的宝丽来照片——这是她纪录片一直在寻找的突破，但她意识到为此付出的代价是失去最好的朋友，这个发现变得毫无意义。

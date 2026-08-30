@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你太他妈的自私了"
 
-> You're so fucking selfish.
+> **原句 1:** "You're so fucking selfish."
 
 中文理解：你太他妈的自私了。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她说'Birgitta'"
 
-> "Birgitta," I say.
+> **原句 2:** "Birgitta," I say."
 
 中文理解："Birgitta，"我说。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我以为我在 Silvertjärn。我听到了声音。有时我听到 Birgitta。"
 
-> I thought I was in Silvertjärn. I heard voices. Sometimes I heard Birgitta.
+> **原句 3:** "I thought I was in Silvertjärn. I heard voices. Sometimes I heard Birgitta."
 
 中文理解：我以为我在 Silvertjärn。我听到了声音。有时我听到 Birgitta。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："Jesus 在祭坛上方似乎在嘲笑"
 
-> The Jesus above the altar seems to be grinning mockingly.
+> **原句 4:** "The Jesus above the altar seems to be grinning mockingly."
 
 中文理解：Jesus 在祭坛上方似乎在嘲笑。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我正在失去每个人，一个接一个"
 
-> I'm losing everyone, one by one.
+> **原句 5:** "I'm losing everyone, one by one."
 
 中文理解：我正在失去每个人，一个接一个。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："也许是我一直失去他们"
 
-> But maybe it isn't Silvertjärn I've lost them to; maybe it was me all along.
+> **原句 6:** "But maybe it isn't Silvertjärn I've lost them to; maybe it was me all along."
 
 中文理解：但也许不是我失去他们给 Silvertjärn；也许一直都是因为我。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："小屋里没有人"
 
-> He nods.
+> **原句 7:** "He nods."
 
 中文理解：他点头。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Robert 发现 Max 长时间没回来感到不安，他们锁好 Tone 后去教堂找他，但 Max 不在教堂，蜂蜜和沙丁鱼罐头不见了表明他来过又被带走了，Alice 看着墙上嘲笑般咧嘴笑的 Jesus 塑像感到自己正在一个接一个地失去所有人，开始怀疑是不是自己的错，而 Robert 看着小教堂紧闭的门无声地确认了 Max 不在这里——不祥的预感开始笼罩。
+Alice 和 Robert 发现 Max 长时间没回来感到不安，他们锁好 Tone 后去教堂找他，但 Max 不在教堂，蜂蜜和沙丁鱼罐头不见了表明他来过又被带走了，Alice 看着墙上嘲笑般咧嘴笑的 Jesus 塑像感到自己正在一个接一个地失去所有人，开始怀疑是不是自己的错，而 Robert 看着小教堂紧闭的门无声地确认了 Max 不在这里——不祥的预感开始笼罩。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——奶奶的档案
 
-> The folder labeled MATTIAS ÅKERMAN is so old that the cardboard is almost fraying.
+> **原句 1:** "The folder labeled MATTIAS ÅKERMAN is so old that the cardboard is almost fraying."
 
 中文理解：标签为 MATTIAS ÅKERMAN 的文件夹太旧了，硬纸板几乎要磨损了。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我以为我们会有更多时间"
 
-> I thought we would have more time. I guess that's always the way.
+> **原句 2:** "I thought we would have more time. I guess that's always the way."
 
 中文理解：我以为我们会有更多时间。我想事情总是这样。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：医院的记录
 
-> The next clipping isn't from the press. It's the copies of some hospital records for a Mattias Åkerman, then eleven years of age. According to these, a Mattias with the same date of birth was admitted to hospital three times in the years 1939 and 1940: once for a broken rib, once for stomach pains, and once for a broken arm.
+> **原句 3:** "The next clipping isn't from the press. It's the copies of some hospital records for a Mattias Åkerman, then eleven years of age. According to these, a Mattias with the same date of birth was admitted to hospital three times in the years 1939 and 1940: once for a broken rib, once for stomach pains, and once for a broken arm."
 
 中文理解：下一份剪报不是来自媒体。这是一些 Mattias Åkerman 的医院记录，当时他十一岁。根据这些记录，一个出生日期相同的 Mattias 在 1939 年和 1940 年三次入院：一次是肋骨骨折，一次是胃痛，一次是手臂骨折。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处：" Linnea 拒绝给出父亲的名字"
 
-> Linnea refuses to give the father's name. She is kept in hospital for three days for observation.
+> **原句 4:** "Linnea refuses to give the father's name. She is kept in hospital for three days for observation."
 
 中文理解：Linnea 拒绝给出父亲的名字。她在医院被留观三天。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："申请被拒绝"
 
-> June 1955: a Mattias Åkerman applies to study for the clergy. Application rejected. June 1956: a Mattias Åkerman applies to study for the clergy. Application rejected.
+> **原句 5:** "June 1955: a Mattias Åkerman applies to study for the clergy. Application rejected. June 1956: a Mattias Åkerman applies to study for the clergy. Application rejected."
 
 中文理解：1955 年 6 月：一个 Mattias Åkerman 申请学习神职。申请被拒绝。1956 年 6 月：一个 Mattias Åkerman 申请学习神职。申请被拒绝。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："那个婴儿可能是 Aina 的女儿吗？"
 
-> Could the baby have been Aina's daughter? I've never quite allowed myself to ask that question.
+> **原句 6:** "Could the baby have been Aina's daughter? I've never quite allowed myself to ask that question."
 
 中文理解：那个婴儿可能是 Aina 的女儿吗？我从来没有让自己问过这个问题。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他的仆人在你们中间行走"
 
-> His servants walk among you.
+> **原句 7:** "His servants walk among you."
 
 中文理解：他的仆人在你们中间行走。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在暴风雨中的货车后座阅读奶奶关于 Mattias Åkerman 的档案，发现他童年被虐待、母亲去世、两次申请神学院被拒绝、与堂妹的性侵案关联，以及他最终来到 Silvertjärn 成为牧师的轨迹——她开始问自己那个婴儿是否可能是 Aina 的女儿，而这个想法让她在暴风雨中感到一种深深的不安。
+Alice 在暴风雨中的货车后座阅读奶奶关于 Mattias Åkerman 的档案，发现他童年被虐待、母亲去世、两次申请神学院被拒绝、与堂妹的性侵案关联，以及他最终来到 Silvertjärn 成为牧师的轨迹——她开始问自己那个婴儿是否可能是 Aina 的女儿，而这个想法让她在暴风雨中感到一种深深的不安。

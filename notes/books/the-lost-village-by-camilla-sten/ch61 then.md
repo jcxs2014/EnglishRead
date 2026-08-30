@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："她没有战斗 left"
 
-> By now she has no fight left in her.
+> **原句 1:** "By now she has no fight left in her."
 
 中文理解：到现在她已经没有战斗 left 在她身上了。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："最后的希望随着 Birgitta 死在广场上"
 
-> The last of her hope died with Birgitta in the square.
+> **原句 2:** "The last of her hope died with Birgitta in the square."
 
 中文理解：她的最后的希望随着 Birgitta 死在广场上而死去了。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："森林像母亲一样包围着我们"
 
-> The forest envelops them like a mother.
+> **原句 3:** "The forest envelops them like a mother."
 
 中文理解：森林像母亲一样包围着我们。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："在他们里面是他们真正的教堂在等待"
 
-> In it their true church awaits.
+> **原句 4:** "In it their true church awaits."
 
 中文理解：在它里面他们真正的教堂在等待。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："他的眼睛像银子一样闪闪发光"
 
-> His eyes gleam like silver.
+> **原句 5:** "His eyes gleam like silver."
 
 中文理解：他的眼睛像银子一样闪闪发光。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："她永远不会离开这片森林"
 
-> She will never leave this forest.
+> **原句 6:** "She will never leave this forest."
 
 中文理解：她永远不会离开这片森林。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："与其说是打击，不如说是抚摸"
 
-> The realization that comes to her is more of a caress than a blow.
+> **原句 7:** "The realization that comes to her is more of a caress than a blow."
 
 中文理解：来到她的这个认识与其说是打击，不如说是抚摸。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 被邪教队伍带进黑暗的森林深处，她早已失去反抗的意志，而最后的希望——目睹 Birgitta 被处决——也已经死去，当她看向 Pastor Mattias 看到他眼中毫无人性的银色光芒时，她意识到她将永远无法离开这片森林，而这个认识对她来说与其说是打击不如说是解脱——她终于可以停止战斗了。
+Elsa 被邪教队伍带进黑暗的森林深处，她早已失去反抗的意志，而最后的希望——目睹 Birgitta 被处决——也已经死去，当她看向 Pastor Mattias 看到他眼中毫无人性的银色光芒时，她意识到她将永远无法离开这片森林，而这个认识对她来说与其说是打击不如说是解脱——她终于可以停止战斗了。

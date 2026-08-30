@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——下坡
 
-> I bite the inside of my cheek in concentration as I try to negotiate the steep bank.
+> **原句 1:** "I bite the inside of my cheek in concentration as I try to negotiate the steep bank."
 
 中文理解：我咬着脸颊内侧集中精神，试图驾驭那陡峭的坡道。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处： Emmy 是"最后手段"
 
-> Emmy was a last resort. I tried to pull in every contact I have in the industry, put out advertisements and announcements on social media, but it was no good.
+> **原句 2:** "Emmy was a last resort. I tried to pull in every contact I have in the industry, put out advertisements and announcements on social media, but it was no good."
 
 中文理解：Emmy 是最后手段。我尽了一切努力在行业里动用所有关系，在社交媒体上发布广告和公告，但没有用。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处：瑞典小屋风格
 
-> They are built in the classic Swedish cottage style, with gabled roofs and small windows.
+> **原句 3:** "They are built in the classic Swedish cottage style, with gabled roofs and small windows."
 
 中文理解：它们是经典的瑞典小屋风格建造的，带着山墙屋顶和小窗户。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："像控诉的骷髅"
 
-> The houses stand like accusatory skeletons, windows glaringly empty.
+> **原句 4:** "The houses stand like accusatory skeletons, windows glaringly empty."
 
 中文理解：房屋像控诉的骷髅一样站立，窗户空洞地瞪视。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：过去的幻象
 
-> For a moment I'm struck by an image so powerful it feels more real than the decay around us: these same houses, only with fresh layers of bright paint and lush little gardens; kids playing on the road we're driving down, without having to worry about cars or even bikes...
+> **原句 5:** "For a moment I'm struck by an image so powerful it feels more real than the decay around us: these same houses, only with fresh layers of bright paint and lush little gardens; kids playing on the road we're driving down, without having to worry about cars or even bikes..."
 
 中文理解：有那么一刻，我被一个如此强大的影像所震撼，它比我们周围的衰败更真实：同样的房屋，只是有了新鲜的光亮油漆和郁郁葱葱的小花园；孩子们在我们行驶的道路上玩耍，无需担心汽车甚至自行车……
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：桥的坍塌
 
-> The mining company's report had led me to believe that the western bridge was made of stone, but it must have been made of wood. It seems incomprehensible to me that only twenty years ago it could ever have been deemed safe; all that remains of it are rotting blackened stumps on either side of the river.
+> **原句 6:** "The mining company's report had led me to believe that the western bridge was made of stone, but it must have been made of wood. It seems incomprehensible to me that only twenty years ago it could ever have been deemed safe; all that remains of it are rotting blackened stumps on either side of the river."
 
 中文理解：矿业公司的报告让我相信西桥是石头造的，但它一定是木头造的。仅仅二十年前它被认为安全这一点在我看来是不可思议的；河两岸只剩下腐烂发黑的树桩。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："我能感觉到房子在通过它们的黑暗眼窝看着我"
 
-> Out of the corner of my eye I can feel the houses watching me through their dark eye sockets.
+> **原句 7:** "Out of the corner of my eye I can feel the houses watching me through their dark eye sockets."
 
 中文理解：从眼角我能感觉到房子在通过它们的黑暗眼窝看着我。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 驾车进入 Silvertjärn 废弃村庄，描述了瑞典小屋风格的废弃房屋、曾经的繁荣幻象、木桥的坍塌，以及她感到被黑暗眼窝般的窗户注视的不安——桥断了，村庄在等待。
+Alice 驾车进入 Silvertjärn 废弃村庄，描述了瑞典小屋风格的废弃房屋、曾经的繁荣幻象、木桥的坍塌，以及她感到被黑暗眼窝般的窗户注视的不安——桥断了，村庄在等待。

@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——教堂在风中若隐若现
 
-> The wind has picked up this morning, and the building looms ominously against a background of heavy, dark clouds.
+> **原句 1:** "The wind has picked up this morning, and the building looms ominously against a background of heavy, dark clouds."
 
 中文理解：今天早上风变大了，建筑在厚重、乌云背景下若隐若现地显得阴森恐怖。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："Fucking hell"
 
-> "Fucking hell," Emmy says quietly. When I turn around, her eyes are also fixed on the figure.
+> **原句 2:** "Fucking hell," Emmy says quietly. When I turn around, her eyes are also fixed on the figure."
 
 中文理解："该死的，"Emmy 轻声说。当我转过身时，她的眼睛也盯着那个雕像。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："一个瘦削、流血的耶稣"
 
-> An emaciated, bleeding Jesus on the cross above the altar stares down at us with empty eyes. It's enormous, and hard not to stare at, much larger than the majority of crucifixes I've seen.
+> **原句 3:** "An emaciated, bleeding Jesus on the cross above the altar stares down at us with empty eyes. It's enormous, and hard not to stare at, much larger than the majority of crucifixes I've seen."
 
 中文理解：祭坛上方十字架上一个瘦削、流血的耶稣用空洞的眼睛俯视着我们。它是巨大的，很难不看，比我见过的大多数十字架都大得多。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："他总是让我最着迷"
 
-> He was always what fascinated me most about Grandma's story.
+> **原句 4:** "He was always what fascinated me most about Grandma's story."
 
 中文理解：他（牧师）总是让我最着迷的是奶奶的故事。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："纯净的心没有什么可隐藏的"
 
-> He who is true and faithful to God need have no secrets.
+> **原句 5:** "He who is true and faithful to God need have no secrets."
 
 中文理解：真正对上帝忠诚的人不需要有秘密。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："这不是特别宽容的"
 
-> "Not particularly forgiving," Emmy remarks quietly.
+> **原句 6:** "Not particularly forgiving," Emmy remarks quietly."
 
 中文理解："这不是特别宽容的，"Emmy 轻声评论。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他阅读了四遍圣经"
 
-> He had an unshaking belief in the Bible, Pastor Mattias. He said that he had read it four times cover to cover.
+> **原句 7:** "He had an unshaking belief in the Bible, Pastor Mattias. He said that he had read it four times cover to cover."
 
 中文理解：他对圣经有不可动摇的信仰，Mattias 牧师。他说他已经从头到尾阅读了四遍。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和团队在教堂发现了一个令人不安的瘦削、流血耶稣受难像，黑暗的眼睛像深湖一样，以及一个满是讲道稿的房间，这些讲道稿宣扬"纯净的心没有什么可隐藏的"——这是"邪教意识形态"的物证，而 Mattias 牧师对圣经的 literal belief 是这种极端信仰的根源。
+Alice 和团队在教堂发现了一个令人不安的瘦削、流血耶稣受难像，黑暗的眼睛像深湖一样，以及一个满是讲道稿的房间，这些讲道稿宣扬

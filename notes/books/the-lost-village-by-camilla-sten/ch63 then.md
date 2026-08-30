@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："他是在黑暗中他们追随的光"
 
-> He is the light they follow in darkness.
+> **原句 1:** "He is the light they follow in darkness."
 
 中文理解：他是他们在黑暗中追随的光。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她可以看到血在他们口中起泡"
 
-> She has seen the saliva frothing at their mouths.
+> **原句 2:** "She has seen the saliva frothing at their mouths."
 
 中文理解：她已经看到唾液在他们口中起泡。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："在黑暗中看到骨头断裂的喘息"
 
-> the intoxicated joy of their breathless gasps at the crack of bones.
+> **原句 3:** "the intoxicated joy of their breathless gasps at the crack of bones."
 
 中文理解：他们在骨头断裂时屏息的喘息中那种陶醉的喜悦。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我在地下创造了我的天堂"
 
-> "I have created my Heaven on Earth," he says.
+> **原句 4:** "I have created my Heaven on Earth," he says."
 
 中文理解："我在地下创造了我的天堂，"他说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我在地下是上帝"
 
-> "Down here I am God."
+> **原句 5:** "Down here I am God."
 
 中文理解："在地下我是上帝。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："每一张脸都充满了尊敬"
 
-> There is reverence in the air.
+> **原句 6:** "There is reverence in the air."
 
 中文理解：空气中充满了尊敬。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他在黑暗中举起火把"
 
-> He stops at the water's edge and raises the torch.
+> **原句 7:** "He stops at the water's edge and raises the torch."
 
 中文理解：他在水的边缘停下，举起火把。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 被邪教队伍带进地下矿井深处，Pastor Mattias 在洞穴中举起火把宣告这里是他在地上建立的天堂，他的声音虽然轻如呼吸却让每个人都能听见他说的"我在地下是上帝"——这个疯狂邪教领袖的神化宣言在地下洞穴的回声中显得格外真实，而 Elsa 已经看到过他们看到血时口中起泡的兴奋和听到骨头断裂时的陶醉喜悦。
+Elsa 被邪教队伍带进地下矿井深处，Pastor Mattias 在洞穴中举起火把宣告这里是他在地上建立的天堂，他的声音虽然轻如呼吸却让每个人都能听见他说的

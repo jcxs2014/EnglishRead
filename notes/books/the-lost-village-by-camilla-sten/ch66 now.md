@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："我会把它留在这里"
 
-> "I'll leave it here," I say quietly.
+> **原句 1:** "I'll leave it here," I say quietly."
 
 中文理解："我会把它留在这里，"我轻声说。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我非常抱歉"
 
-> "I'm so sorry," I say. "I'm so, so sorry. Forgive me."
+> **原句 2:** "I'm so sorry," I say. "I'm so, so sorry. Forgive me."
 
 中文理解："我非常抱歉，"我说。"我非常、非常抱歉。请原谅我。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："谢谢你"
 
-> "Thank you," I whisper.
+> **原句 3:** "Thank you," I whisper."
 
 中文理解："谢谢你，"我低声说。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她从未停止后悔"
 
-> "She never stopped regretting it," he says.
+> **原句 4:** "She never stopped regretting it."
 
 中文理解："她从未停止后悔，"他说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："她救了我的命"
 
-> "She saved my life."
+> **原句 5:** "She saved my life."
 
 中文理解："她救了我的命。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："这是自我们来到这里以来我看到的第一只鸟"
 
-> "That's the first bird I've seen since we got here," I say.
+> **原句 6:** "That's the first bird I've seen since we got here," I say."
 
 中文理解："这是自我们来到这里以来我看到的第一只鸟，"我说。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："但它是美丽的"
 
-> "But it's beautiful."
+> **原句 7:** "But it's beautiful."
 
 中文理解："但它是美丽的。"
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 和 Robert 带着受伤的 Tone 回到村庄，在广场上过完在 Silvertjärn 的最后一夜，Alice 去学校拿毯子时向死去的朋友 Emmy 做最后的告别并亲吻她冰冷的额头，然后把那枚金心项链交给 Robert 请他转交给 Emmy 的母亲，Robert 说 Emmy 从未停止后悔当初来的决定，但 Alice 说她救了我的命——当她们围着火堆坐下时一只鸟在学校的檐沟上鸣叫，这是他们到达以来看到的第一只鸟，预示着春天的结束和新的开始，而 Alice 终于能够说出但它是美丽的。
+Alice 和 Robert 带着受伤的 Tone 回到村庄，在广场上过完在 Silvertjärn 的最后一夜，Alice 去学校拿毯子时向死去的朋友 Emmy 做最后的告别并亲吻她冰冷的额头，然后把那枚金心项链交给 Robert 请他转交给 Emmy 的母亲，Robert 说 Emmy 从未停止后悔当初来的决定，但 Alice 说她救了我的命——当她们围着火堆坐下时一只鸟在学校的檐沟上鸣叫，这是他们到达以来看到的第一只鸟，预示着春天的结束和新的开始，而 Alice 终于能够说出但它是美丽的。

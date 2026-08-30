@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："某种事情正在发生"
 
-> Something is afoot.
+> **原句 1:** "Something is afoot."
 
 中文理解：某种事情正在发生。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处：" Birgitta 的眼睛在疯狂地飞舞"
 
-> Birgitta's eyes are downcast as usual, but they are flitting around in frenzied terror, and she is humming quietly while rocking to and fro.
+> **原句 2:** "Birgitta's eyes are downcast as usual, but they are flitting around in frenzied terror, and she is humming quietly while rocking to and fro."
 
 中文理解：Birgitta 的眼睛像往常一样低垂，但它们在疯狂地飞舞着，充满恐惧，她轻轻地哼着歌，前后摇晃。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："你不能控制我！我是上帝的选民之一！"
 
-> "You have no power over me! I'm one of God's chosen ones. You can't tell me what to do, and I have better things to do than look after that monster!"
+> **原句 3:** "You have no power over me! I'm one of God's chosen ones. You can't tell me what to do, and I have better things to do than look after that monster!"
 
 中文理解："你不能控制我！我是上帝的选民之一！你不能告诉我该做什么，我最好去照顾那个怪物！"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我从未打过我的孩子"
 
-> Elsa has never hit one of her children before, has never raised her hand against anyone in anger.
+> **原句 4:** "Elsa has never hit one of her children before, has never raised her hand against anyone in anger."
 
 中文理解：Elsa 从未打过她的孩子，从未在愤怒中对任何人举手。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处：" Aina 眼中闪烁的光芒像胜利"
 
-> A look that resembled triumph.
+> **原句 5:** "A look that resembled triumph."
 
 中文理解：一种像胜利一样的表情。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："指纹形状的深色斑块"
 
-> Patches shaped like fingers.
+> **原句 6:** "Patches shaped like fingers."
 
 中文理解：指纹形状的深色斑块。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："晚祷已经开始"
 
-> Evensong has begun.
+> **原句 7:** "Evensong has begun."
 
 中文理解：晚祷已经开始。
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 去 Birgitta 的小屋发现她已陷入疯狂状态，被她殴打后进去看到蜡笔和陌生人的脚印，而她的女儿 Aina 已经被邪教完全招募甚至称自己的母亲为怪物，Elsa 在 Birgitta 脖子上看到指纹形状的伤痕，远处传来晚祷的合唱声——整个村庄已经被邪教渗透，她的家庭正在破碎。
+Elsa 去 Birgitta 的小屋发现她已陷入疯狂状态，被她殴打后进去看到蜡笔和陌生人的脚印，而她的女儿 Aina 已经被邪教完全招募甚至称自己的母亲为怪物，Elsa 在 Birgitta 脖子上看到指纹形状的伤痕，远处传来晚祷的合唱声——整个村庄已经被邪教渗透，她的家庭正在破碎。

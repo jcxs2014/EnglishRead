@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——被"噼啪声"惊醒
 
-> I'm woken by a shrill crackling noise that takes me from dozing to a dazed wakefulness in the blink of an eye.
+> **原句 1:** "I'm woken by a shrill crackling noise that takes me from dozing to a dazed wakefulness in the blink of an eye."
 
 中文理解：我被一声尖锐的噼啪声惊醒，在眨眼之间从打盹变成迷糊的清醒。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："死区的开始"
 
-> "Must be the start of the dead zone," I say, feeling a fizz of excitement in my belly.
+> **原句 2:** "Must be the start of the dead zone," I say, feeling a fizz of excitement in my belly."
 
 中文理解："一定是死区的开始了，"我说，感到腹部一阵兴奋的悸动。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处： Instagram 更新
 
-> "Getting closer! Almost inside the dead zone. See you in five days, if the ghosts don't get us.…"
+> **原句 3:** "Getting closer! Almost inside the dead zone. See you in five days, if the ghosts don't get us.…"
 
 中文理解："越来越近了！几乎在死区里了。五天后见，如果鬼魂不抓到我们的话。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我们的粉丝"
 
-> "Our fans," Tone quips. "All eleven of them."
+> **原句 4:** "Our fans," Tone quips. "All eleven of them."
 
 中文理解："我们的粉丝，"Tone 俏皮地说。"一共十一个。"
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处： Tone 的外貌描写
 
-> She's one of those people who's more beautiful in profile than front-on, with her enviably chiseled jawline and straight patrician nose.
+> **原句 5:** "She's one of those people who's more beautiful in profile than front-on, with her enviably chiseled jawline and straight patrician nose."
 
 中文理解：她是那种侧面比正面更漂亮的人，有着令人羡慕的轮廓分明的下颌线和笔直的贵族鼻子。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处：废弃的出口
 
-> The old exit doesn't exist on GPS, as we discovered when trying to plan our route. We've had to use old maps from the forties and fifties, cross-referencing them with the Swedish Transport Administration's archive on where the train tracks used to run.
+> **原句 6:** "The old exit doesn't exist on GPS, as we discovered when trying to plan our route. We've had to use old maps from the forties and fifties, cross-referencing them with the Swedish Transport Administration's archive on where the train tracks used to run."
 
 中文理解：老出口在 GPS 上不存在，就像我们计划路线时发现的那样。我们不得不用四五十年代的旧地图，与瑞典交通管理局的档案交叉参考，看看火车轨道以前在哪里运行。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处：到达——"树木像奇迹一样为我们打开"
 
-> Just when I start to worry that we've gotten it wrong—that this was just a forest path, a walking trail, and that we'll keep on driving further and further into the forest, until we get mired in the weight of our vans and equipment, our stupidity and ambition—the trees open up like a miracle before our eyes.
+> **原句 7:** "Just when I start to worry that we've gotten it wrong—that this was just a forest path, a walking trail, and that we'll keep on driving further and further into the forest, until we get mired in the weight of our vans and equipment, our stupidity and ambition—the trees open up like a miracle before our eyes."
 
 中文理解：就在我开始担心我们错了——这只是森林小路，一条步行道，我们会一直开进森林越来越深，直到我们的货车和设备的重量、我们的愚蠢和野心把我们困住——树木像奇迹一样在我们眼前打开。
 
@@ -115,7 +115,7 @@ modified: "2026-08-30"
 
 ### 第8处： Silvertjärn 的景象
 
-> The church looms large over the small buildings on the eastern side of the village, its tall, proud spire topped by a slender cross that glistens, impossibly bright, in the light of the setting sun.
+> **原句 8:** "The church looms large over the small buildings on the eastern side of the village, its tall, proud spire topped by a slender cross that glistens, impossibly bright, in the light of the setting sun."
 
 中文理解：教堂矗立在村庄东侧的小建筑上，高耸而骄傲的尖顶被一根纤细的十字架覆盖，在落日的余晖中闪烁着不可思议的明亮光芒。
 
@@ -166,4 +166,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 纪录片制作人"我"和 Tone 驾车接近 Silvertjärn 废弃村庄，在失去信号前发布最后一条社交媒体更新，描述他们对这个"死区"的期待和焦虑，最终树木分开，村庄在夕阳中显现——这是一个"到达"的高潮时刻。
+纪录片制作人

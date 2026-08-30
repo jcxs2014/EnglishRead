@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："你是被感染的"
 
-> "You're infected," she mutters to herself.
+> **原句 1:** "You're infected," she mutters to herself."
 
 中文理解："你是被感染的，"她自言自语。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："她离开了我！她抛弃了我！"
 
-> "She left me here! She abandoned me. I wrote to her, but she never came."
+> **原句 2:** "She left me here! She abandoned me. I wrote to her, but she never came."
 
 中文理解："她离开了我！她抛弃了我。我给她写了信，但她从来没有来。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我在这里。我来找你。"
 
-> "I'm here," I say. "I came here. To find you."
+> **原句 3:** "I'm here," I say. "I came here. To find you."
 
 中文理解："我在这里。我来这里找你。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："她更努力地压在 Tone 的脖子上"
 
-> Her knife presses even harder against Tone's neck.
+> **原句 4:** "Her knife presses even harder against Tone's neck."
 
 中文理解：她的刀更用力地压在 Tone 的脖子上。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："一血滴顺着她的脖子流下来"
 
-> A hypnotically red drop of blood make its way down her neck.
+> **原句 5:** "A hypnotically red drop of blood make its way down her neck."
 
 中文理解：一滴催眠般红色的血顺着她的脖子流下来。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："你要把它们归还给我"
 
-> "You're going to give them back to me."
+> **原句 6:** "You're going to give them back to me."
 
 中文理解："你要把它们归还给我。"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："你要归还什么？"
 
-> "Give what back?" a whisper rushes out of my throat.
+> **原句 7:** "Give what back?" a whisper rushes out of my throat."
 
 中文理解："归还什么？"我低声问。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 试图用 Margareta 亲属的身份和 Tone 已经死了很久的事实来打动 Aina，但 Aina 完全陷入在自己的妄想中认为 Alice 也被感染了，当 Alice 问出"她要归还什么"这个问题时没有人能回答——Aina 想要回的是她失去的孩子，而这个要求永远不可能被满足。
+Alice 试图用 Margareta 亲属的身份和 Tone 已经死了很久的事实来打动 Aina，但 Aina 完全陷入在自己的妄想中认为 Alice 也被感染了，当 Alice 问出

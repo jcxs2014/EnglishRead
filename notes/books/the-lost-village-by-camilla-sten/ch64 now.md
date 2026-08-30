@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："Aina 拿着一个旧煤油灯"
 
-> Aina is holding an old kerosene lamp made of glass and steel.
+> **原句 1:** "Aina is holding an old kerosene lamp made of glass and steel."
 
 中文理解：Aina 拿着一个由玻璃和钢制成的旧煤油灯。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我必须用血来洗去罪恶"
 
-> "I must wash the sin away with blood."
+> **原句 2:** "I must wash the sin away with blood."
 
 中文理解："我必须用血来洗去罪恶。"
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："我说了仪式 over 其他两个"
 
-> "I said the rites over the other two," she says.
+> **原句 3:** "I said the rites over the other two," she says."
 
 中文理解："我说了仪式 over 其他两个，"她说。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我看到血从他的脸上涌出水中"
 
-> I see blood bloom out into the water from his face.
+> **原句 4:** "I see blood bloom out into the water from his face."
 
 中文理解：我看到血从他的脸上涌出，在水中绽放。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："刀尖从她的脖子迸发出来"
 
-> The knifepoint that has sprung through her neck releases a trickle of blood.
+> **原句 5:** "The knifepoint that has sprung through her neck releases a trickle of blood."
 
 中文理解：从她脖子迸发的刀尖释放出一股血。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："慢慢地她倒下，从 Robert 身边倒下，沉到下面"
 
-> Slowly she falls off Robert and down under the surface.
+> **原句 6:** "Slowly she falls off Robert and down under the surface."
 
 中文理解：慢慢地她从 Robert 身边倒下，沉到下面。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他的眼睛 flutter 打开"
 
-> His eyes flutter open.
+> **原句 7:** "His eyes flutter open."
 
 中文理解：他的眼睛颤动着打开了。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Alice 在黑暗的矿井水淹到膝盖的通道里听到 Aina 透露她已经用仪式杀死了另外两个人（Emmy 和 Max），然后 Aina 准备用刀在 Tone 脖子上进行宗教仪式，Tone 在关键时刻用 Robert 绑着的双手举起的力量撞开 Aina 使她溺死在水里，而 Robert 也活着睁开了眼睛——暴力循环终于结束了。
+Alice 在黑暗的矿井水淹到膝盖的通道里听到 Aina 透露她已经用仪式杀死了另外两个人（Emmy 和 Max），然后 Aina 准备用刀在 Tone 脖子上进行宗教仪式，Tone 在关键时刻用 Robert 绑着的双手举起的力量撞开 Aina 使她溺死在水里，而 Robert 也活着睁开了眼睛——暴力循环终于结束了。

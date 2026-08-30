@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处：开篇——第一颗星星
 
-> The first stars are already shimmering as we finish eating, which is when Tone opens the van door and hops out gingerly.
+> **原句 1:** "The first stars are already shimmering as we finish eating, which is when Tone opens the van door and hops out gingerly."
 
 中文理解：我们吃完的时候，第一批星星已经在闪烁了，这时 Tone 打开货车门，小心翼翼地跳了出来。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："我想我见过你的银河"
 
-> So many stars. Before Silvertjärn I'd never seen the Milky Way.
+> **原句 2:** "So many stars. Before Silvertjärn I'd never seen the Milky Way."
 
 中文理解：这么多星星。在 Silvertjärn 之前我从未见过银河。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："最平凡的理论"
 
-> "The most banal theory is that it was some kind of voluntary migration; that the pastor convinced them all that God had commanded him to take them north, or something like that."
+> **原句 3:** "The most banal theory is that it was some kind of voluntary migration; that the pastor convinced them all that God had commanded him to take them north, or something like that."
 
 中文理解："最平凡的理论是，这是某种自愿迁移；牧师说服他们所有人，上帝命令他带他们北上，或者类似的什么。"
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："这让我想起十三世纪的儿童十字军"
 
-> The history blog Our Dark Past compares it to the Children's Crusades in the thirteenth century. Religious fixation can make people do very odd things.
+> **原句 4:** "The history blog Our Dark Past compares it to the Children's Crusades in the thirteenth century. Religious fixation can make people do very odd things."
 
 中文理解：历史博客"我们的黑暗过去"将其比作十三世纪的儿童十字军。宗教执着可以让人们做出非常奇怪的事情。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："仍然很奇怪他们什么都没找到"
 
-> "Still, it's weird they never found anything," says Max. "You'd think they would leave some sort of tracks. Nine hundred people migrating would leave its mark—on the immediate surroundings, if nothing else."
+> **原句 5:** "Still, it's weird they never found anything," says Max. "You'd think they would leave some sort of tracks. Nine hundred people migrating would leave its mark—on the immediate surroundings, if nothing else."
 
 中文理解："仍然很奇怪他们从未找到任何东西，" Max 说。"你会认为他们会留下某种痕迹。九百人迁移会在周围环境中留下痕迹——至少在周边。"
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："但这不能解释婴儿"
 
-> "And it doesn't explain the baby," says Emmy. "Right?"
+> **原句 6:** "And it doesn't explain the baby," says Emmy. "Right?"
 
 中文理解："但这不能解释婴儿，" Emmy 说。"对吧？"
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他们必须以某种方式联系"
 
-> "No, of course it has to all be linked, somehow," I say. "The most banal theory is that it was some kind of voluntary migration…"
+> **原句 7:** "No, of course it has to all be linked, somehow," I say. "The most banal theory is that it was some kind of voluntary migration…"
 
 中文理解："不，当然它必须以某种方式联系，"我说。"最平凡的理论是，这是某种自愿迁移……"
 
@@ -152,4 +152,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> 团队在篝火旁讨论 Silvertjärn 失踪事件的各种理论——大规模自杀、外星人绑架、强制性迁移——以及这些理论为何无法解释婴儿的发现，Emmy 坚持认为"教堂和牧师"必须与此事有关，而 Alice 在 Max 的支持下成为这场讨论的中心人物——这是"悬疑"与"推理"的碰撞，每个理论都被逐一检验和质疑。
+团队在篝火旁讨论 Silvertjärn 失踪事件的各种理论——大规模自杀、外星人绑架、强制性迁移——以及这些理论为何无法解释婴儿的发现，Emmy 坚持认为

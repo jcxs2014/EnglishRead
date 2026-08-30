@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："我等了，但没有人来"
 
-> I waited, but no one came.
+> **原句 1:** "I waited, but no one came."
 
 中文理解：我等了，但没有人来。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："他说他会回来的"
 
-> He promised he'd come back if I waited.
+He promised he'd come back if I waited.
 
 中文理解：他说如果我等他就会回来。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："罪恶必须用血来洗"
 
-> Sin must be cleansed with blood.
+> **原句 3:** "Sin must be cleansed with blood."
 
 中文理解：罪恶必须用血来洗。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我让他们照顾我"
 
-> I let the rest of the congregation look after me.
+> **原句 4:** "I let the rest of the congregation look after me."
 
 中文理解：我让其余的会众照顾我。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："我听到他们在唱歌"
 
-> I heard them singing.
+> **原句 5:** "I heard them singing."
 
 中文理解：我听到他们在唱歌。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："所以我等了"
 
-> So I waited.
+> **原句 6:** "So I waited."
 
 中文理解：所以我等了。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："他们告诉我必须做什么"
 
-> They told me what I had to do.
+> **原句 7:** "They told me what I had to do."
 
 中文理解：他们告诉我必须做什么。
 
@@ -144,4 +144,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Aina 在 Silvertjärn 等待了 60 年相信 Pastor Mattias 会从矿井中回来，她把婴儿交给路过的人后在隧道里靠偷来的食物生存，当水位上升时她几乎放弃但又听到地下的歌声以为他们终于回来了，她在幻觉中继续执行死去邪教成员的指令用血来洗去罪恶，她永远在等待——这是一个被邪教洗脑囚禁一生的女人最后的疯狂独白。
+Aina 在 Silvertjärn 等待了 60 年相信 Pastor Mattias 会从矿井中回来，她把婴儿交给路过的人后在隧道里靠偷来的食物生存，当水位上升时她几乎放弃但又听到地下的歌声以为他们终于回来了，她在幻觉中继续执行死去邪教成员的指令用血来洗去罪恶，她永远在等待——这是一个被邪教洗脑囚禁一生的女人最后的疯狂独白。

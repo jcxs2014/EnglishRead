@@ -17,7 +17,7 @@ modified: "2026-08-30"
 
 ### 第1处："今天我们迈出了伟大的一步"
 
-> "Today we have taken a great step," he says.
+> **原句 1:** "Today we have taken a great step," he says."
 
 中文理解："今天我们迈出了伟大的一步，"他说。
 
@@ -31,7 +31,7 @@ modified: "2026-08-30"
 
 ### 第2处："上帝的怀抱向你敞开"
 
-> "God's arms are open to you," he says.
+> **原句 2:** "God's arms are open to you," he says."
 
 中文理解："上帝的怀抱向你敞开，"他说。
 
@@ -45,7 +45,7 @@ modified: "2026-08-30"
 
 ### 第3处："他把她拉向后，暴露她的脖子"
 
-> He digs his fingers into her hair and pulls her head back, exposing her neck.
+> **原句 3:** "He digs his fingers into her hair and pulls her head back, exposing her neck."
 
 中文理解：他用手指挖进她的头发，把她的头向后拉，暴露她的脖子。
 
@@ -59,7 +59,7 @@ modified: "2026-08-30"
 
 ### 第4处："我把这灵魂提交给你"
 
-> "I submit this soul to You, O Lord," he orates.
+> **原句 4:** "I submit this soul to You, O Lord, for You to welcome her into Your Grace and cleanse her of the sin"
 
 中文理解："我把这灵魂提交给你，主啊，"他庄严地说。
 
@@ -73,7 +73,7 @@ modified: "2026-08-30"
 
 ### 第5处："一声雷鸣从他们头顶的岩石中传来"
 
-> A rumble above their heads. It runs through the rock above them like a peal of thunder.
+> **原句 5:** "A rumble above their heads. It runs through the rock above them like a peal of thunder."
 
 中文理解：一声雷鸣从他们头顶的岩石中传来。它像雷声一样在岩石中轰鸣。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 
 ### 第6处："当世界崩溃时，短暂的哭声变成恐慌的尖叫"
 
-> As the world comes crashing down the short cries turn into panicked screams.
+> **原句 6:** "As the world comes crashing down the short cries turn into panicked screams."
 
 中文理解：当世界崩溃时，短暂的哭声变成恐慌的尖叫。
 
@@ -101,7 +101,7 @@ modified: "2026-08-30"
 
 ### 第7处："岩石的轰鸣听起来就像 Birgitta"
 
-> The muffled roar of the rock above them sounds just like Birgitta.
+> **原句 7:** "The muffled roar of the rock above them sounds just like Birgitta."
 
 中文理解：他们头顶岩石的低沉轰鸣声听起来就像 Birgitta。
 
@@ -147,4 +147,4 @@ modified: "2026-08-30"
 
 ## 一句话总结
 
-> Elsa 在地下洞穴中被 Pastor Mattias 进行最后的宗教仪式准备处决，当他说到"以圣父、圣子和圣灵之名"时头顶的矿井结构终于承受不住多年挖掘的压力开始坍塌，尖叫和岩石的轰鸣声中整个邪教群体被埋葬，而 Elsa 最后的念头是这岩石崩塌的声音听起来就像 Birgitta——她在死亡中找到了与儿媳的团聚。
+Elsa 在地下洞穴中被 Pastor Mattias 进行最后的宗教仪式准备处决，当他说到
