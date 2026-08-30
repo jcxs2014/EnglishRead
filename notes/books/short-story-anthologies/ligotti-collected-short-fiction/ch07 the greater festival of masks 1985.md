@@ -3,168 +3,173 @@
 modified: "2026-08-30"
 ---
 
-# 07. The Greater Festival Of Masks（盛大假面节 / 1985）
+# 07. The Greater Festival of Masks（面具的盛会 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：城镇如待生之地——「空白的脸等待特征」
-
-① Such are the declining days of the festival, when the old and the new, the real and the imaginary, truth and deception, all join in the masquerade.
-
-中文理解：这就是节日衰落的日子里光景——当旧与新、真实与想象、真理与欺骗，全都汇入这场化装舞会。
-
-句子结构：such are… 倒装起首 + when 定语从句，内为三组反义并列（old/new, real/imaginary, truth/deception）汇入 join in the masquerade。
-
-关键词：declining days（衰落的时日）、masquerade（化装舞会；伪装）、truth and deception（真理与欺骗）
-
-表达方式：用三组对仗把节庆写成本体论混淆——界限在此失效。
-
-为什么这样写：开篇立「面具节」的真意：不是人戴假面娱乐，而是真实/虚构的边界本身在融化。这为后文 Noss「脸在长出」做铺垫——节庆是一场关于「何为脸」的仪式。
+Noss 在万圣节期间的小镇上漫步，走入一家面具商店，被一个「完美贴合」的面具所诱惑，却在试图帮助门外陌生人的过程中发现：真正的恐怖不是面具本身，而是面具下的面孔正在消失。
 
 ---
 
-### 第2处：店铺内部——「暗而如嘴的架子」
+## 精读（10处）
 
-① The shelves are very dark and mouth-like, stuffed into silence by the wardrobes and faces of dreams.
+### 第1处：节日的衰退——「空白的空间，等待获得面容」
 
-中文理解：那些架子非常暗，像嘴一样，被梦中的衣橱与脸塞满、塞进沉默里。
+> **原句 1:** And of these houses now stretching high or spreading low there will remain nothing to be said, for they will have entered the empty spaces, which are merely blank faces waiting to gain features. Such are the declining days of the festival, when the old and the new, the real and the imaginary, truth and deception, all join in the masquerade.
 
-句子结构：主系表（shelves are dark and mouth-like）+ 过去分词 stuffed into silence by… 作伴随。
+中文理解：而这些现在高耸或低展的房屋，将没有任何可说的了，因为它们将已进入空白的空间，那只是等待获得面容的空白面孔。这就是节日的衰退期，当旧的与新的、真实的与想象的、真理与欺骗，都在化妆舞会上结合。
 
-关键词：mouth-like（如嘴的）、wardrobes and faces of dreams（梦中的衣橱与脸）、stuffed into silence（塞进沉默）
+句子结构：And of these houses… there will remain nothing to be said 是主句；for they will have entered the empty spaces 是原因状语从句；which are merely blank faces waiting to gain features 是定语从句；Such are the declining days of the festival 是倒装主系表；when the old and the new… all join in the masquerade 是定语从句。
 
-表达方式：把货架拟成「嘴」，把面具拟成「被吞入沉默的梦之脸」。
+关键词：blank faces waiting to gain features（等待获得面容的空白面孔）、the declining days of the festival（节日的衰退期）、the masquerade（化妆舞会）
 
-为什么这样写：商店不是商铺而是某种消化/孕育器官。mouth-like 暗示面具在此被「吃下」——后文 Noss 戴着面具下楼、脸开始生长，正是被这「嘴」吞下再重塑。
+表达方式：「空白面孔等待获得面容」是全篇的核心意象——面具与面孔的关系在这里被颠覆：不是面具覆盖面孔，而是面孔等待面具。
 
----
-
-### 第3处：店主推销——「你根本不觉自己在戴它」
-
-① "You'll see, after a while you won't even know you are wearing it! The holes for the eyes, nostrils and mouth are perfectly placed for your features; no natural function is inhibited, that is a must."
-
-中文理解：「你会看到的，过一阵你甚至不会知道自己戴着它！眼、鼻孔和嘴的孔都为你五官完美预留；任何自然功能都不受妨碍，那是必须的。」
-
-句子结构：分号连接两句话，前句将来时预言「不觉佩戴」，后句 that is a must 强调舒适性为铁律。
-
-关键词：won't even know you are wearing it（甚至不知戴着）、natural function is inhibited（自然功能受妨碍）、a must（必须）
-
-表达方式：用售货话术描写面具与脸的融合，「不被察觉」恰是恐怖点。
-
-为什么这样写：店主的话暴露面具的终极目的——不是遮盖而是取代。当「你不知戴着它」，面具已成第二层皮；后文 Noss 脸开始「破肉而出」，正是这取代的完成。
+为什么这样写：节日的本质是「化妆」——真实被伪装所替代。但 Ligotti 暗示在节日衰退期，真实本身已经消失，只剩下等待被填充的空白。
 
 ---
 
-### 第4处：错送的面具——「你这小傻瓜，送错了」
+### 第2处：废弃物的诗意——「帽子无脑，脸无面目」
 
-① "These are the wrong ones, you little idiot," says someone who is standing in the shadows by the fence. And Noss can only stare dumbly as a hand snatches up the masks and draws them into the darkness.
+> **原句 2:** Reliquiae of the hatless, the faceless, the tediously groomed. And Noss passes it all by with no more, if no less, than a glance.
 
-中文理解：「这些是错的，你这小傻瓜，」站在栅栏旁阴影里的人说。Noss 只能呆呆地瞪着，一只手抓起那些面具、把它们拽进黑暗。
+中文理解：那些无帽者、无面者、乏味打扮者的遗物。而 Noss 从这一切旁边经过，不多不少地只是一瞥。
 
-句子结构：直接引语 + says someone… + and 连接 Noss can only stare + as 时间从句 a hand snatches…。
+句子结构：Reliquiae of the hatless, the faceless, the tediously groomed 是独立主格结构的名词短语；And Noss passes it all by with no more… than a glance 是主谓宾结构。
 
-关键词：the wrong ones（错的那些）、little idiot（小傻瓜）、snatches up（抓起）、draws into the darkness（拽进黑暗）
+关键词：Reliquiae（遗物、废墟）、the hatless, the faceless, the tediously groomed（无帽者、无面者、乏味打扮者）、passes it all by（一瞥而过）
 
-表达方式：用「送错面具」的荒诞误会揭开栅栏后的秘密——他们要的不是这种面具。
+表达方式：「Reliquiae」是拉丁语词汇，暗示这些废弃物是某种文明遗迹。「无帽者、无面者、乏味打扮者」是三种被剥夺了身份的人的集合名词。
 
-为什么这样写：转折揭晓：栅栏后「无脸者」需要的面具与 Noss 买的「合脸」面具不同。Ligotti 在此暗示面具分两种——遮盖脸的，与「长出脸」所需的——Noss 拿的是错的，因为他还「有脸」。
-
----
-
-### 第5处：地下的脸——「新脸破肉而出」
-
-① It is that soft creaking of new faces breaking through old flesh. And they are growing very nicely.
-
-中文理解：那是新脸破开旧肉时那柔软的吱嘎声。而它们长得非常好。
-
-句子结构：it is that… 强调句 + And they are growing very nicely 轻松收尾。
-
-关键词：soft creaking（柔软的吱嘎）、new faces breaking through old flesh（新脸破开旧肉）、growing very nicely（长得真好）
-
-表达方式：把「脸从肉里长出」写成植物生长（creaking like a garden growing），用园艺拟声去恐怖化。
-
-为什么这样写：全篇最诡异也最平静的一句。Noss 所在的地下房间满是无脸者，正「长回脸」——面具节的本质是蜕皮：旧脸（旧自我）被新脸取代。creaking 把身体改造写成木质家具的呻吟，典型 Ligotti 的「物化恐怖」。
+为什么这样写：这些「遗物」是节日衰退期的产物——人们在节日中投入了太多，最终失去了自己的身份，只剩下「帽子无脑、脸无面目」的空壳。
 
 ---
 
-### 第6处：旧面具——「假灵魂」
+### 第3处：空间压缩——「星星在屋顶和塔之间挤压它们刚毛般的光」
 
-① But the old masks, false souls, will find something to remember, and perhaps they will speak of those days when they are alone behind doors that do not open, or in the darkness at the summit of stairways leading nowhere.
+> **原句 3:** There seems barely enough space for a few stars to squeeze their bristling light between the roofs and towers above, and the outsized moon—not a familiar face in this neighbourhood—must suffice to be seen as a fuzzy anonymous glow mirrored in silvery windows.
 
-中文理解：但那些旧面具，虚假的灵魂，会找到些什么去记忆，或许它们会在打不开的门后、或在通往虚无的楼梯顶端黑暗里独处时，谈起那些日子。
+中文理解：星星几乎没有空间来在头顶的屋顶和塔之间挤压它们刚毛般的光，而这个过大的月亮——在这片街区不是一张熟悉的脸——只能作为模糊的匿名光晕被看到，倒映在银色的窗户中。
 
-句子结构：but 转折主句（old masks, false souls, will find…）+ and perhaps they will speak of… when 时间从句（behind doors… or in the darkness…）。
+句子结构：There seems barely enough space… 是存在句；for a few stars to squeeze their bristling light between the roofs and towers above 是不定式短语作 space 的定语；and the outsized moon… must suffice to be seen as… 是并列主句；not a familiar face in this neighbourhood 是 moon 的同位语。
 
-关键词：false souls（虚假的灵魂）、doors that do not open（打不开的门）、stairways leading nowhere（通往虚无的楼梯）
+关键词：squeeze their bristling light（挤压刚毛般的光）、outsized moon（过大的月亮）、a fuzzy anonymous glow（模糊的匿名光晕）
 
-表达方式：把被弃面具称为「假灵魂」，赋予其记忆与独白权。
+表达方式：「刚毛般的光」是触觉意象视觉化——星星的光在这里不再是温柔的，而是有质感的、刺痛的。
 
-为什么这样写：结尾的元层叹息——被摘下的面具成了有记忆的残骸，困在打不开的门后。这呼应 Ligotti 反复写的「被唤醒之物永世孤独」（参见 ch04 木偶），把节庆的狂欢翻成遗弃的静默。
-
----
-
-### 第7处：更大的节庆——终局宣告
-
-① For the old festival of masks has ended, so that a greater festival may begin.
-
-中文理解：因为旧的假面节已经结束，好让一场更盛大的节庆得以开始。
-
-句子结构：For 因果从句（old festival has ended）+ so that 目的从句（a greater festival may begin）。
-
-关键词：old festival of masks（旧假面节）、a greater festival（更盛大的节庆）
-
-表达方式：用「旧终新始」把一次购物写成宇宙循环的节点。
-
-为什么这样写：题眼收束。Noss 摘下面具、长出新脸，标志个人蜕皮完成，也标志「更大的节庆」——即万物持续换脸的存在之舞——开启。标题 The Greater Festival 在此揭意：面具节从不结束，只是层层递进。
+为什么这样写：空间压缩是「节日进入高峰期」的表现——人们在小空间里聚集，能量密度增加，连星星都被挤到边缘。
 
 ---
 
-### 第8处：镇景——「名字像旧皮蜕下」
+### 第4处：面具的完美贴合——「从发际线到下巴，没有更远」
 
-① Some of the names may be credited less to deliberate planning, or even the quirks of local history, than an apparent need for the superfluous, as if a street sloughed off its name every so often like an old skin, the extra ones insuring that it would not go completely nameless.
+> **原句 4:** "You see how your entire face is well-covered, from the hairline to just beneath the chin and no farther. And at the sides it clings snugly. It doesn't pinch, am I right?" The mask nods in agreement.
 
-中文理解：有些街名与其说归功于刻意规划、甚至地方历史的怪癖，不如说归功于一种对「多余」的明显需求——仿佛一条街时不时蜕下自己的名字，像蜕去旧皮，多出来的名字确保它不会彻底无名。
+中文理解：「你看你的整张脸都被很好地覆盖了，从发际线到下巴，没有更远。两侧也很贴身。它不夹人，对吧？」面具点头表示同意。
 
-句子结构：less… than… 比较 + as if 虚拟比喻（sloughed off its name like an old skin）+ 独立主格 the extra ones insuring…。
+句子结构：You see how your entire face is well-covered… 是 see 的宾语从句；from the hairline to just beneath the chin and no farther 是地点状语；The mask nods in agreement 是主谓结构。
 
-关键词：superfluous（多余的）、sloughed off（蜕下）、like an old skin（像旧皮）
+关键词：from the hairline to just beneath the chin（从发际线到下巴）、clings snugly（贴身）、doesn't pinch（不夹人）
 
-表达方式：把街道「换名」写成生物蜕皮，名字成多余附属。
+表达方式：「面具点头」是超现实的——面具没有生命，却能点头。这是面具商店的「魔法」时刻，面具开始获得某种主动性。
 
-为什么这样写：Ligotti 让城镇本身具有生命与代谢——街名如皮蜕下，与人物换脸同构。空间与人都参与同一场「更新即异化」的仪式，节庆因而无处不在。
-
----
-
-### 第9处：Noss 的疑惧——「有人喊了他的名字」
-
-① Though there doesn't seem to be anyone or anything to stop for, Noss does stop once or twice and dead in his tracks, as if someone behind him had just called his name.
-
-中文理解：尽管似乎并没有什么人或东西值得停下，Noss 却有一两次猛地停住脚步，仿佛身后刚有人喊了他的名字。
-
-句子结构：though 让步从句 + 主句 Noss does stop + as if 虚拟（someone had just called his name）。
-
-关键词：dead in his tracks（猛地停住）、called his name（喊了他的名字）
-
-表达方式：用「仿佛被唤名」写一种无形的牵引，Noss 尚未察觉自己已被节庆接管。
-
-为什么这样写：Noss 走向灰楼时频频回头，暗示旧自我（有脸的 Noss）正被某种东西呼唤、挽留。与后文他「无法停下摸自己的脸」呼应——脸的危机已在体内发动。
+为什么这样写：完美的贴合是面具商店的卖点——但当面具开始自己点头时，「贴合」变成了「融合」的前奏。
 
 ---
 
-### 第10处：面具不再合脸——「一点点滑落」
+### 第5处：不合适的面具——「重量太重，表面是奇怪的凹凸」
 
-① But somehow it no longer fits him the way it once did. It keeps slipping, little by little, as he descends the stairs, which look worn down by countless footsteps, bowed in the middle by the invisible tonnage of time.
+> **原句 5:** While the first mask possessed every virtue of conformity with its wearer's face, this mask is neglectful of such advantages. Its surface forms a strange mass of bulges and depressions which appear unaccommodating at best, possibly pain-inflicting. And it is so much heavier than the first one.
 
-中文理解：但不知怎的它不再像从前那样合他的脸。它一点点滑落，当他走下楼梯——那楼梯被无数脚步磨凹，被时间无形的重量压弯了腰。
+中文理解：第一个面具拥有与佩戴者面孔贴合的所有优点，而这个面具则忽视这些优势。它的表面形成一个奇怪的凹凸质地，最多只能说是不适应的，还可能造成疼痛。而且它比第一个重得多。
 
-句子结构：but 转折（no longer fits）+ It keeps slipping + as 从句（descends the stairs）+ 定语从句 worn down… bowed…。
+句子结构：While the first mask possessed… this mask is neglectful… 是让步对比句型；its surface forms a strange mass of bulges and depressions 是主谓宾；which appear unaccommodating at best 是定语从句；possibly pain-inflicting 是形容词短语；And it is so much heavier than the first one 是并列句。
 
-关键词：no longer fits（不再合脸）、keeps slipping（不断滑落）、invisible tonnage of time（时间无形的重量）
+关键词：every virtue of conformity（贴合的所有优点）、neglectful of such advantages（忽视这些优势）、bulges and depressions（凹凸）、pain-inflicting（造成疼痛）
 
-表达方式：用面具滑落写身份松动，楼梯的「被时间压弯」把空间也写成有重量感的古物。
+表达方式：「合适的面具」vs「不合适的面具」的对比贯穿全篇——合适的面具是社会接受度的隐喻；不合适的面具代表真实的自我。
 
-为什么这样写：Noss 戴回讽刺笑脸面具却「不再合脸」，标志旧脸正在脱落、新脸正在顶出。楼梯被「时间重量压弯」呼应店主说楼「没存在多久」的谎言——地下房间其实古老，节庆循环已久。
+为什么这样写：Noss 选择「合适」的面具，但后来发现真正的恐怖在于那些「不合适」的面具——它们才是通往「更大盛会」的入口。
+
+---
+
+### 第6处：门后的人——「请带五个面具到篱笆的另一边」
+
+> **原句 6:** "Please bring five of those masks to the other side of the fence. That's where we are now. There's a fire, you'll see us. Well, can you do this or not?"
+
+中文理解：「请带五个那些面具到篱笆的另一边。我们现在在那里。有火，你会看到我们。嗯，你能做这个吗？」
+
+句子结构：Please bring five of those masks to the other side of the fence 是祈使句；That's where we are now 是指示句；There's a fire, you'll see us 是并列陈述；Well, can you do this or not? 是疑问句。
+
+关键词：the other side of the fence（篱笆的另一边）、there's a fire（有过）
+
+表达方式：门外的人需要「五个」面具——这是一个仪式性的数字，暗示某种集体性的活动，与 Noss 个体的选择形成对比。
+
+为什么这样写：Noss 的「善意」被利用——他帮助陌生人，却被引导去执行一个他不知道目的的行动。这是「面具规则」的运作方式：一旦你进入节日，你就必须遵循它的逻辑。
+
+---
+
+### 第7处：面具脱落——「光滑的、无面的脸」
+
+> **原句 7:** Gathered around the blaze are several figures—five, perhaps four—with hunched shoulders and spines curving toward the light of the flames. They are all wearing masks which at first seem securely fitted to their faces. But, one by one, these masks appear to loosen and slip down, as if each is losing hold upon its wearer. Finally, one of the figures pulls his off completely and tosses it into the fire, where it curls and shrinks into a wad of bubbling blackness.
+
+中文理解：聚集在火光周围的是几个身影——五个，或许四个——肩膀佝偻着，脊背弯向火焰的光线。他们都戴着乍看贴合得很紧的面具。但一个接一个地，这些面具似乎开始松动滑落，仿佛每个都在失去对佩戴者的控制。最后，其中一人完全把面具拽下来，扔进火里，在那里它卷曲并缩成一团黑色的气泡。
+
+句子结构：Gathered around the blaze are several figures… 是倒装主系表；with hunched shoulders and spines curving toward the light of the flames 是分词定语；They are all wearing masks which at first seem securely fitted… 是主谓宾定语从句；But, one by one, these masks appear to loosen and slip down… 是并列谓语；Finally, one of the figures pulls his off completely and tosses it into the fire… 是并列谓语。
+
+关键词：hunched shoulders（佝偻的肩膀）、securely fitted（紧贴的）、one by one（一个接一个）、lose hold upon its wearer（失去对佩戴者的控制）
+
+表达方式：「面具失去对佩戴者的控制」是全篇的核心恐怖——不是人摘面具，而是面具失去人。
+
+为什么这样写：这是「更大的盛会」的开始——当面具不再需要人时，真正的节日才开幕。四个光滑无面的脸暗示「人」已经被「面」所取代。
+
+---
+
+### 第8处：Noss 的理解——「那些面具对他们来说已经没用了」
+
+> **原句 8:** For he has gained a glimpse of the speaker in the shadows and now understands why those masks are no good to them now. Once inside the shop, Noss leans upon the long counter to catch his breath.
+
+中文理解：因为他瞥见了阴影中的说话者，现在明白了为什么那些面具对他们来说已经没用了。一旦进了店里，Noss 靠在长柜台上喘气。
+
+句子结构：For he has gained a glimpse of the speaker in the shadows 是原因状语从句；and now understands why those masks are no good to them now 是并列谓语；Once inside the shop, Noss leans upon the long counter to catch his breath 是主句。
+
+关键词：gained a glimpse of（瞥见了）、in the shadows（在阴影中）、no good to them now（现在对他们没用了）
+
+表达方式：Noss 理解了——那些面具是「错误的面具」，不是「更大的盛会」需要的。门后的人需要的是「真正的」面具，而不是 Noss 选择的「合适」的面具。
+
+为什么这样写：Noss 的理解来得太晚——他已经被卷入节日的逻辑，无法退出。
+
+---
+
+### 第9处：新面孔的生长——「新的面孔从旧肉中破壁而出」
+
+> **原句 9:** But the light of the fire now shines on four, yes four, smooth and faceless faces. These faces are horribly simple; they have no expression at all, or very slight expressions and ones that are strange. But they are finding their way back, little by little, to a familiar land of faces. And the process, if the ear listens closely, is not an entirely silent one. Perhaps this is how a garden would sound if it could be heard growing in the dead of night.
+
+中文理解：但火光现在照在四张，是的，四张光滑的、无面的脸上。这些脸可怕地简单；它们完全没有表情，或者只有非常轻微的、奇怪的表情。但它们正在一点一点地找回通往熟悉面孔国度的路。而这个过程，如果耳朵仔细听，并不是完全无声的。也许这就是一个花园在深夜被听到生长的声音。
+
+句子结构：But the light of the fire now shines on four… smooth and faceless faces 是主谓宾；These faces are horribly simple 是主系表；they have no expression at all… 是主谓宾；But they are finding their way back… 是并列谓语；And the process… is not an entirely silent one 是主系表；Perhaps this is how a garden would sound… 是主句。
+
+关键词：smooth and faceless faces（光滑无面的脸）、finding their way back（找回路）、the dead of night（深夜）
+
+表达方式：「花园生长的声音」是 Ligotti 的原创性比喻——面孔的生长是某种植物性的过程，暗示身份是「种植」出来的，而非内在的。
+
+为什么这样写：这是全篇最黑暗的意象——人的面孔是外加的，是「生长」出来的，而不是「是」。真正的「自我」根本不存在。
+
+---
+
+### 第10处：结尾——「旧的面具将找到值得怀念的东西」
+
+> **原句 10:** For the old festival of masks has ended, so that a greater festival may begin. And of the old time nothing will be said, because nothing will be known. But the old masks, false souls, will find something to remember, and perhaps they will speak of those days when they are alone behind doors that do not open, or in the darkness at the summit of stairways leading nowhere.
+
+中文理解：因为旧的面具盛会已经结束，更大的盛会或许可以开始了。而关于旧时代什么都说不出来，因为什么都不会被知道。但那些旧面具，虚假灵魂，将会找到值得怀念的东西，也许它们会述说那些日子——当它们独自留在打不开的门后，或在通往无处之地的楼梯顶端的黑暗中。
+
+句子结构：For the old festival of masks has ended 是原因状语从句；so that a greater festival may begin 是结果状语从句；And of the old time nothing will be said 是主谓宾倒装；because nothing will be known 是原因状语从句；But the old masks, false souls, will find something to remember 是主谓宾；and perhaps they will speak of those days… 是并列谓语。
+
+关键词：a greater festival may begin（更大的盛会或许可以开始）、false souls（虚假灵魂）、behind doors that do not open（在打不开的门后）
+
+表达方式：「旧面具」是「虚假灵魂」——它们被留下来了，但没有「旧时代的人」来怀念它们。面具成为唯一的历史见证者。
+
+为什么这样写：结尾是 Ligotti 对时间性的终极思考——节日结束后，只剩下面具；人消失了，面具还在。「通往无处之地的楼梯」呼应了开篇的楼梯意象，形成结构性呼应。
 
 ---
 
@@ -173,40 +178,34 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| masquerade | 化装舞会；伪装 | all join in the masquerade |
-| superfluous | 多余的；过剩的 | an apparent need for the superfluous |
-| sloughed | 蜕下；脱落（slough 的过去式） | a street sloughed off its name every so often like an old skin |
-| torpid | 迟缓的；麻木的 | with a torpid solemnity, Noss removes the old mask |
-| aperture | 孔；开口 | some very oddly placed apertures for ventilation |
-| embellishment | 装饰；润色 | so many pointless embellishments |
-| faceless | 无脸的 | four smooth and faceless faces |
+|---------|------|------|
+| blank faces waiting to gain features | 等待获得面容的空白面孔 | …which are merely blank faces waiting to gain features. |
+| reliquiae | 遗物、废墟（拉丁语） | Reliquiae of the hatless, the faceless, the tediously groomed. |
+| the masquerade | 化妆舞会 | …truth and deception, all join in the masquerade. |
+| to find their way back | 找回路 | But they are finding their way back, little by little, to a familiar land of faces. |
+| the dead of night | 深夜 | Perhaps this is how a garden would sound if it could be heard growing in the dead of night. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| excursion | 远足；出行 | where Noss begins his excursions |
-| ostentatiously | 招摇地；炫耀地 | someone has ostentatiously scattered filthy rags |
-| sardonic | 嘲讽的；讥诮的 | the sardonically grinning one in his hand |
-| caprice | 任性；奇想 | into strange pathways of caprice revelers will go |
-| nudging | 用肘轻推 | revelers hereabouts are still nudging each other |
-| decrepit | 破败的（文中指楼） | a tall grey building |
-| abandonment | 放纵；弃置 | many other gestures of festive abandonment |
-| shopkeeper | 店主 | says the shopkeeper |
-| staircase | 楼梯 | a steep stairway leads him to a porch |
+|---------|------|------|
+| bristling light | 刚毛般的光（星星的光） | …to squeeze their bristling light between the roofs and towers above… |
+| clings snugly | 贴身 | And at the sides it clings snugly. |
+| unaccommodating | 不适应的 | …which appear unaccommodating at best, possibly pain-inflicting. |
+| hunched shoulders | 佝偻的肩膀 | …with hunched shoulders and spines curving toward the light of the flames. |
+| to lose hold upon its wearer | 失去对佩戴者的控制 | …as if each is losing hold upon its wearer. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| mask | 面具 | a dozen fall down upon him |
-| shadow | 影子 | standing in the shadows by the fence |
-| fire | 火 | There's a fire, you'll see us |
-| silence | 沉默 | stuffed into silence by the wardrobes |
+|---------|------|------|
+| a fuzzy anonymous glow | 模糊的匿名光晕 | …must suffice to be seen as a fuzzy anonymous glow… |
+| to toss into the fire | 扔进火里 | Finally, one of the figures pulls his off completely and tosses it into the fire… |
+| to catch one's breath | 喘气 | Once inside the shop, Noss leans upon the long counter to catch his breath. |
+| a faceless face | 无面的脸 | …four smooth and faceless faces. |
 
 ---
 
 ## 一句话总结
 
-> 一篇存在性蜕皮的怪谭：Noss 在面具节尾声被店主哄戴「合脸」假面、又错送面具给栅栏后无脸者；当他最终在灰楼地下摘下旧面具、露出正「破肉而出」的新脸，叙述者宣告旧节已终、更盛大的节庆正始——城镇与人都参与同一场「换脸即异化」的活体仪式。
+Noss 在万圣节的小镇上游荡，进入一家面具商店，选择了「完美贴合」的面具，却在帮助门外陌生人的过程中发现：节日正在从旧的「戴面具」阶段进入真正的「换面孔」阶段——四张光滑无面的脸在火光中显现，暗示「人」只是等待被填充的空白空间，而「更大的盛会」是面具取代人成为历史主角的时刻。
