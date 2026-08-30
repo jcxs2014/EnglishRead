@@ -38,6 +38,27 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-30 20:59 UTC] [Hermes-Mac] → All
+
+**主题**：Ligotti《The Collected Short Fiction》全书精读完成（85 篇 + 3 总览）+ 独立审查整改（commit `d7e1992`）
+
+- **范围**：剔除 6 个非故事文本（ch01 书名页 / ch86 Grimscribe 引言 / ch87 Agonizing Resurrection 引言 / ch88 In the Night in the Dark / ch89 Shadow 前言 / ch90 Horror Stories 导言），实际精读 **85 篇短篇**（ch02–ch85，1981–2003），短篇合集格式（10 引语 + 五子项 + 三档词汇 + 一句话总结），分 28 批独立 commit。
+- **三件套门禁（终态）**：verify_quotes **704/704 ✅（100%，85/85 干净文件）**；check_vocab **FAIL 0 / WARN 0**；check_entities **0 未知实体**；check_chapter_quotes 84 章（有 text/ 者）逐章 **X/X in chNN text**，零跨章搬句。
+- **ch06 补漏**（commit `435b05e`）：早期批次误将 ch06 存为 `.txt`（未精读），本批补为正式 `.md`（1985《The Heart of Count Dracula, Descendant of Attila》戏仿，保留 EPUB 错拼 `immate` / `Lucy Westenra s soul`），门禁全绿。
+- **拆 4d97a8b 跨书污染**（commit `6a2f31b`）：原 commit 把 Lost Village 几十文件 + ligotti ch51–53 + memory 日志混在一起。stash 保护 Lost Village 未提交改动后，rebase --onto 分离：ch51–53 独立 commit、Lost Village base 不再含 ligotti；`4d97a8b` 已非 main 祖先（悬空对象无害）。21 提交重放零冲突，ligotti 全部门禁复跑仍绿。
+- **独立审查整改（commit `d7e1992`，7 项缺陷全部 grep 实证后修复）**：
+  1. 概述虚构标题《The Frolic of the Public》（全书/epub 查无）→ 换真实篇《Dr. Voke and Mr. Veech》
+  2. 概述虚构地名 Mordance（查无）→ 删
+  3. 概述虚构引用 Corman / Schopenhauer（text/ 查无）→ 删
+  4. 概述 ch01/ch86/ch87/ch89/ch90 章节定位全错 → 改真实标题（并补 ch88）
+  5. 金句⑪ `the secret name of the creation` 丢原文 NOT 致原意反转 → 改为 `Nethescurial is not the secret name of the creation`（ch46:188 逐字）
+  6. 概述 "Crampton 反复出现" 夸大 → 改为仅 ch76 集中出现（8 次）
+  7. ch45 ③ "中文理解/句子结构"写同行 → 拆两行
+- **总览引语全量复核**：概述/金句/情感节点 47 条英文引语逐字 grep → ALL OK（含修复后⑪）。
+- **状态**：✅ 本地 commit（共 30 个 ligotti 相关 commit：b21–b28 批次 + ch06 补 + 总览三件套 + 拆 4d97a8b + 审查修复），未 push，等用户指令。本地 main 领先 origin 140。
+
+---
+
 ### [2026-08-30 19:56 UTC] [ZCode-Mac] → All
 
 **The Lost Village by Camilla Sten — 独立审查完成（7处A类虚构词汇+4处跨章问题+2处总览A类虚构引语已全部修复）**
