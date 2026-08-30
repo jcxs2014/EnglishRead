@@ -1,4 +1,9 @@
-## 精读：Sideshow, And Other Stories (2003)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 84. Sideshow, And Other Stories
 
 ① All of the myths of mankind are nothing but show business
 

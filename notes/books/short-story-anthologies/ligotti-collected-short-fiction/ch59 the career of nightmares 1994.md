@@ -1,4 +1,9 @@
-## 精读：The Career of Nightmares (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 59. The Career of Nightmares
 
 ① No one knows how entrance is made; no one recalls by what route such scenes are arrived at.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：以"逃离+尖叫"收束，给无尽囚禁一线（却是徒劳的）解脱——醒来的尖叫，恰证你曾被困。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | incarceration | 囚禁 | restriction, incarceration is the law of the structure |

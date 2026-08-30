@@ -1,4 +1,9 @@
-## 精读：The Night School (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 49. The Night School
 
 ① Instructor Carniero was holding class once again.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：结尾把 Carniero 的污秽宇宙观坐实为叙述者眼中所见，暗示他虽逃出学校，却已带着亡灵的视角看世界——同化悄然完成。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | septic | 腐败的、脓毒的 | the doctrines of a truly septic curriculum |

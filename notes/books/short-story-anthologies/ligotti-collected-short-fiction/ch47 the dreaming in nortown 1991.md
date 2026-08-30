@@ -1,4 +1,9 @@
-## 精读：The Dreaming In Nortown (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 47. The Dreaming In Nortown
 
 ① There are those who require witnesses to their doom.
 

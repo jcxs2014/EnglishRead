@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 33. Mad Night Of Atonement（赎罪狂夜 / 1989）
 
-## 一句话总结
-
-一篇「伪先知布道」：失踪多年的科学家 Haxhausen 归来，宣称在橱窗人偶（造物主的尘世形）口中领受「圣谕」——造物主只爱 unreal 之境（废墟、残败、木偶），世界的真实命运是「解体」；他造「圣光机器」要把全人类转化成蜡木木偶，终在演出夜自缢于机器上，而当夜天空真现异彩极光——叙事反转：讲故事的「我」正是那造物主，因对人类动了怜悯而被逐出天堂。把「完美的执念」写成对造物本意的违逆。
 
 ## 精读
 
@@ -185,7 +182,7 @@ modified: "2026-08-30"
 | blasphemy | 亵渎 | cursed it as a blasphemy |
 | abomination | 可憎物 | a blasphemy and an abomination |
 | numinous | 神圣的 | a numinous death descends |
-| tableau mort | 死景（静态画面） | his tableau mort |
+| tableau mort | 死景（静态画面） | Dr Haxhausen's tableau mort |
 | iridescent | 虹彩的 | its single, iridescent eye |
 
 ### ⭐⭐ 进阶

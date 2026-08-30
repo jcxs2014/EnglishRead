@@ -1,4 +1,9 @@
-## 精读：The Nameless Horror (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 65. The Nameless Horror
 
 ① To him it seemed abandoned, yet who knows?
 
@@ -138,9 +143,9 @@
 
 为什么这样写：终极反讽——无名恐怖终于有名，但听众已死；"命名"的企图与"死亡"的沉默碰撞，存在性虚无收束。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | nameless | 无名的 | The Nameless Horror |

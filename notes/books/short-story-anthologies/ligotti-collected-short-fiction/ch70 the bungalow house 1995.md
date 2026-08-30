@@ -1,4 +1,9 @@
-## 精读：The Bungalow House (1995)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 70. The Bungalow House
 
 ① 'There was far more to deal with in the bungalow house than simply an infestation of vermin,'
 
@@ -120,9 +125,9 @@
 
 为什么这样写：收尾回扣开头——叙述者从 Dalha 的废物篮偷走的那只"翡翠绿塑料手臂"，最终成为她死亡的实体，闭环"未付费的代价"。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

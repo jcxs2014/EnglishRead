@@ -1,4 +1,9 @@
-## 精读：The Physic (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 60. The Physic
 
 ① Everyone was very ill-looking, the worst I've seen, but elegant somehow.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环反转——表面是"我"替医生善后，实则两人都是这出腐朽剧的共谋与受害者；"bonus"收尾更显交易的冰冷。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | considerateness | 体贴、周到 | the doctor showing great considerateness in this detail |

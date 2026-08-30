@@ -1,4 +1,9 @@
-## 精读：Invocation to the Void (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 66. Invocation to the Void
 
 ① Five candles burned the whole time, at the five points of the star.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：以血色土收束全文，仪式以"埋"为假象、以"血色"为真痕，神秘余韵不散。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | invocation | 召唤、祷唤 | Invocation to the Void |

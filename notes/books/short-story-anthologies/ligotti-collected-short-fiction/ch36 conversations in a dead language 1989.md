@@ -1,4 +1,9 @@
-## 精读：Conversations In A Dead Language (1989)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 36. Conversations In A Dead Language
 
 ① Conveniens vitae mors fuit ista suae.
 

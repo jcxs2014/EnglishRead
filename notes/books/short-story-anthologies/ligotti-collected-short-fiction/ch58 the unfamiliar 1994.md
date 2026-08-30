@@ -1,4 +1,9 @@
-## 精读：The Unfamiliar (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 58. The Unfamiliar
 
 ① He had lost his guide—or else had been abandoned by this seething, wiry native of the city—and now he was wandering through strange streets alone.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：结尾的残酷慈悲——能"带着惊奇死去"竟比永囚更幸运，存在论恐怖的终极反讽。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | seething | 躁动的、沸腾的 | this seething, wiry native of the city |

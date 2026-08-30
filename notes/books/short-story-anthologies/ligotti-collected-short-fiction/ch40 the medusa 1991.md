@@ -1,4 +1,9 @@
-## 精读：The Medusa (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 40. The Medusa
 
 ① We may hide from horror only in the heart of horror.
 

@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 08. One Thousand Painful Variations Performed Upon Divers Creatures Undergoing The Treatment Of Dr. Moreau, Humanist（人道者莫罗医生施于诸受术生灵的千百痛楚变奏 / 1985）
 
-## 一句话总结
-
-一篇对威尔斯《莫罗博士岛》的极短戏拟：莫罗医生把 manwolf（狼人）从兽性「缓慢而折磨地」剥离，又暗中测试它是否对漂亮女助手动情；当狼人果然跪在助手面前如「谵妄的骑士」，莫罗一掌将其头打偏四十五度，骂「蠢货」，并走向那扇藏着「不可想象的痛之器具」的大门——把经典科幻重写成施虐者以「为你好」为名的冷漠酷刑。
 
 ## 精读
 

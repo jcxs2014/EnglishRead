@@ -1,4 +1,9 @@
-## 精读：Our Temporary Supervisor (2001)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 82. Our Temporary Supervisor
 
 ① I work in a factory situated just outside one of those small, decaying towns
 

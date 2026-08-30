@@ -1,4 +1,9 @@
-## 精读：The Bells Will Sound Forever (1997)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 78. The Bells Will Sound Forever
 
 ① Deliriously preposterous
 
@@ -120,9 +125,9 @@
 
 为什么这样写：全篇闭环——铃声不限于 Pyk 宅，而是边境镇共同的梦魇，读者亦被牵入。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

@@ -1,4 +1,9 @@
-## 精读：The Heart of Count Dracula, Descendant of Attila, Scourge of God (1985)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 06. The Heart of Count Dracula, Descendant of Attila, Scourge of God
 
 ① Count Dracula recalls how he was irresistibly drawn to Mina Harker
 

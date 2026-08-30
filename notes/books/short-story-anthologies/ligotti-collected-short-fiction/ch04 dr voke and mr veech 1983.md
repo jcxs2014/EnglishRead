@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 04. Dr. Voke And Mr. Veech（沃克医生与维奇先生 / 1983）
 
-## 一句话总结
-
-Cheev（即 Veech）为摆脱两段无望恋情爬上沃克隐居的歪楼梯，沃克指点他借「摇摆群峰街」把恋人 Prena 与 Lamm「解决」掉；当木偶售票员与沃克先后狂笑、沃克打开棺材露出一具被永生的少女尸体、最终自己狂笑着坠下楼梯，只剩那个「活过来」的木偶在废弃阁楼里独自流血、眼珠乱转——一篇关于「木偶之恐怖在于它自己也在恐惧」的诡异寓言。
 
 ## 精读
 
@@ -182,7 +179,7 @@ Cheev（即 Veech）为摆脱两段无望恋情爬上沃克隐居的歪楼梯，
 | brocade | 锦缎；织锦 | an armless, backless couch of complex brocade |
 | harlequin | 丑角；五彩斑驳的小丑 | the better part of a harlequin dangles into view |
 | cachinnation | 大笑；狂笑 | Their cachinnations stir up the stagnant air |
-| ultramarine | 深蓝（群青） | the only color left in the room was the ultramarine of the flames |
+| ultramarine | 深蓝（群青） | the only color left in the room is the ultramarine of the flames burning on the walls |
 | tenebrous | 幽暗的；阴沉的 | soars up into the tenebrous rafters |
 | lacquered | 上了漆的；漆面的 | warm drops of blood sliding over his lacquered cheeks |
 
@@ -196,7 +193,7 @@ Cheev（即 Veech）为摆脱两段无望恋情爬上沃克隐居的歪楼梯，
 | mincing | 扭捏的；小步的 | he ascends in weird mincing movements |
 | somnambulist | 梦游者 | the tentative postures of somnambulists |
 | splay | 张开；叉开 | five widely splayed fingers pushing against the door |
-| plummets | 坠落 | he goes over the railing and falls without a sound |
+| falls | 坠落、倒下 | he goes over the railing and falls without a sound |
 
 ### ⭐ 基础
 

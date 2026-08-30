@@ -1,4 +1,9 @@
-## 精读：My Case For Retributive Action (2001)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 81. My Case For Retributive Action
 
 ① It was my first day working as a processor of forms in a storefront office.
 

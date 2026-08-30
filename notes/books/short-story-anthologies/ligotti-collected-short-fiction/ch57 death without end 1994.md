@@ -1,4 +1,9 @@
-## 精读：Death Without End (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 57. Death Without End
 
 ① "If they could only see what things are really like, rotting all around me."
 
@@ -138,9 +143,9 @@
 
 为什么这样写：开放式结尾——死亡不是终点，那股痒会借记忆与联想寄生在生者身上，呼应标题"Death Without End"。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | extrastellar | 星外的 | a subterranean or extrastellar phosphorescence |

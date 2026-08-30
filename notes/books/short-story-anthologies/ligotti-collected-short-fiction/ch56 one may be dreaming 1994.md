@@ -1,4 +1,9 @@
-## 精读：One May Be Dreaming (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 56. One May Be Dreaming
 
 ① Beyond the windows a dense fog spreads across the graveyard, and a few lights beam within hazy depths, glowing like old lamps along an empty street.
 
@@ -138,15 +143,15 @@
 
 为什么这样写：以反讽收束——"安全"只在梦中，而梦正不断变暗，安慰本身即是陷阱，余味森冷。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | encompass | 包含、环绕 | dying in one's sleep would encompass dreaming itself |
 | infinity | 无限 | the very face of infinity |
 | contemplate | 凝望、沉思 | a burial-ground in the clouds that I contemplate |
-| dissipate | 消散（可替换 dimming） | a black fog in which everything will drown and dissipate |
+| dimming | 变暗、黯淡 | a black fog in which everything will drown and dim |
 | perpendicular | 垂直的 | framed within the wall perpendicular to the window |
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）

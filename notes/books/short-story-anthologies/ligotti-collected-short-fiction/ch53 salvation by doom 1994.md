@@ -1,4 +1,9 @@
-## 精读：Salvation by Doom (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 53. Salvation by Doom
 
 ① "I am measuring my own coffin," he whispered to himself while staring intently at the splotched stones of the floor.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环——囚徒以丈量对抗死亡，最终死亡以"无尺寸可言的虚无"胜出；标题"Salvation by Doom"在此坐实：毁灭即解脱。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | aperture | 开口、孔 | This aperture, the only means of escape aside from the low door |

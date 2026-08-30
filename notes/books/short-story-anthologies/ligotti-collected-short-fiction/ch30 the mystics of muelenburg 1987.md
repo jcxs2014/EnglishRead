@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 30. The Mystics Of Muelenburg（穆伦堡的神秘主义者 / 1987）
 
-## 一句话总结
-
-一篇「万物液化」的元恐怖：叙述者访通灵者 Klingman，听其讲中世纪小镇 Muelenburg 如何被一场永昼般的灰光吞噬——镇人面孔融化、万物溶于「 indefinite twilight」的灰漩涡，终入黑寂又全体遗忘；Klingman 自陈是「混沌寄生物」，预言世界终将重归 fluidity。把「现实只是暂时被众人之心智勉强撑住」写成一种随时会松弛的负荷。
 
 ## 精读
 

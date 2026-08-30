@@ -1,4 +1,9 @@
-## 精读：The Tsalal (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 51. The Tsalal
 
 ① Blessed is the seed that is planted forever in darkness.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：全文落在存在性虚无——不仅世界被吞没，连"曾存在"本身都是幻影；与开篇"种子"预言形成绝望闭环。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | katechon | 拦阻者（神学） | the katechon, the one who restrains |

@@ -1,4 +1,9 @@
-## 精读：The Clown Puppet (1996)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 75. The Clown Puppet
 
 ① It has always seemed to me that my existence consisted purely and exclusively of nothing but the most outrageous nonsense.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：收束存在主义反讽——你以为自己是被命运挑中的特例，其实只是无数"被线操控的木偶"之一，nonsense 毫无新意。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

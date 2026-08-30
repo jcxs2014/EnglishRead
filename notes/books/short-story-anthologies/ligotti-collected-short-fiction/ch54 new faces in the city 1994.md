@@ -1,4 +1,9 @@
-## 精读：New Faces in the City (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 54. New Faces in the City
 
 ① One must speak of the impostor city.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：结尾留一丝未散的诡异——即便识破伪城，裂缝里仍有东西在动，余韵不收。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | impostor | 冒名者、伪物 | One must speak of the impostor city |

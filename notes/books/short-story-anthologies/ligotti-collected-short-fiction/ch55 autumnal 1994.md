@@ -1,4 +1,9 @@
-## 精读：Autumnal (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 55. Autumnal
 
 ① When all the landscape is dying, descending fragrantly to earth, we alone rise up.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：以感官细节让"秋之亡灵苏醒"具身可感，比直陈更有浸入感。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | posthumous | 死后的 | the power of a posthumous lethargy |

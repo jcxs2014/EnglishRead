@@ -1,4 +1,9 @@
-## 精读：The Master's Eyes Shining with Secrets (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 52. The Master's Eyes Shining with Secrets
 
 ① Those bells ringing on the mist-covered mountain signify that the Master of the Temple is dead.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：作为文本中可被单独引用的金句，凝缩 Ligotti 的存在论——觉悟即交出处身的掌控权。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | enlightenment | 觉悟、启蒙 | students of enlightenment |

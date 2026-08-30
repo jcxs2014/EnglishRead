@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 07. The Greater Festival Of Masks（盛大假面节 / 1985）
 
-## 一句话总结
-
-Noss 在面具节尾声走进一家面具店，店主哄他戴上「正合他脸」的假面、又支使他给栅栏后「无脸者」送错面具；当他最终在灰楼地下的沉默房间里摘下旧面具、露出正在「破肉而出」的新脸，叙述者宣告：旧假面节已终结，一场更盛大的假面节正要开始——一篇把「戴面具」写成存在性蜕皮、把城镇写成活体仪式的怪谭。
 
 ## 精读
 
@@ -179,7 +176,7 @@ Noss 在面具节尾声走进一家面具店，店主哄他戴上「正合他脸
 |---|---|---|
 | masquerade | 化装舞会；伪装 | all join in the masquerade |
 | superfluous | 多余的；过剩的 | an apparent need for the superfluous |
-| sloughed | 蜕下；脱落（slough 的过去式） | a street sloughed off its name like an old skin |
+| sloughed | 蜕下；脱落（slough 的过去式） | a street sloughed off its name every so often like an old skin |
 | torpid | 迟缓的；麻木的 | with a torpid solemnity, Noss removes the old mask |
 | aperture | 孔；开口 | some very oddly placed apertures for ventilation |
 | embellishment | 装饰；润色 | so many pointless embellishments |

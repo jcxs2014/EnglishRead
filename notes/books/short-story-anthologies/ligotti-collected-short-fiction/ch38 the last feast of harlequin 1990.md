@@ -1,4 +1,9 @@
-## 精读：The Last Feast Of Harlequin (1990)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 38. The Last Feast Of Harlequin
 
 ① To me the title of Clown has always carried connotations of a noble sort.
 

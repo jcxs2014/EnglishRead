@@ -1,4 +1,9 @@
-## 精读：The Library Of Byzantium (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 50. The Library Of Byzantium
 
 ① My earliest philosophy regarding the great priestly tribe was therefore not a simple one by any means; rather, it comprised a thick maze of propositions, a labyrinthine layering of systems in which abstract dread and a bizarre sort of indebtedness were forever confronting each other.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：Ligotti 式冷幽默与虚无——获得"脸"（艺术圆满）的代价是背叛神秘；结尾的满足微笑让读者脊背发凉。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | labyrinthine | 迷宫般的 | a labyrinthine layering of systems |

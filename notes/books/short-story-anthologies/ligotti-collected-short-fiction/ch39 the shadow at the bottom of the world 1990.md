@@ -1,4 +1,9 @@
-## 精读：The Shadow At The Bottom Of The World (1990)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 39. The Shadow At The Bottom Of The World
 
 ① Something dark, something abysmal always finds its way into the bland beauty of such pictures.
 

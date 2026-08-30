@@ -1,4 +1,9 @@
-## 精读：The Demon Man (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 61. The Demon Man
 
 ① halftone freaks parading translucent until they faded with the dawn
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环——开篇"被榨走一夜"在此兑现为永夜；"forever"把短暂惊惧拉成无限刑期。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | halftone | 半色调（印刷） | halftone freaks parading translucent |

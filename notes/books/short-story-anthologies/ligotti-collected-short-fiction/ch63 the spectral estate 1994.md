@@ -1,4 +1,9 @@
-## 精读：The Spectral Estate (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 63. The Spectral Estate
 
 ① One may be alone in the house and yet not alone.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：收束于"无主之镜语"，存在彻底失锚，是 Ligotti 式悬置结局的典范。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | spectral | 幽灵的 | the company of the spectral |

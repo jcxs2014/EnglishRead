@@ -1,4 +1,9 @@
-## 精读：The Mocking Mystery (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 67. The Mocking Mystery
 
 ① Where ultimate knowledge is denied, mystery must rule.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：以"不朽的恐怖"收束——神秘制造的新世界不过是一场永不落幕的惊惧巡游，嘲弄（mocking）之名坐实。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | necropolis | 死者之城、大墓城 | the ideal of the necropolis appears to be annihilation |

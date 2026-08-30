@@ -1,4 +1,9 @@
-## 精读：When You Hear The Singing, You Will Know It Is Time (1997)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 80. When You Hear The Singing, You Will Know It Is Time
 
 ① When you hear the singing, you will know it is time.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：与"other town 只是背景"的温和说相反，给出最耸动版本——但无论哪版，结论都是"你会被拖入别处"。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

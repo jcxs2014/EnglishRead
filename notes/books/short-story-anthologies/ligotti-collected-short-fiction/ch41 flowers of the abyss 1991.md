@@ -1,4 +1,9 @@
-## 精读：Flowers Of The Abyss (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 41. Flowers Of The Abyss
 
 ① I must whisper my words in the wind, knowing somehow that they will reach you who sent me here.
 
@@ -129,7 +134,7 @@
 | bowed and buckled | 弓曲起皱的 | its greyish-white planks, bowed and buckled and oddly spotted |
 | maimed | 残损的、伤残的 | a great mass of maimed things writhing |
 | writhing | 扭动、蠕动 | writhing upon the shore of a beautiful dark sea |
-| abyssal / abyss | 深渊的、深渊 | Flowers Of The Abyss |
+| abyss | 深渊 | Flowers Of The Abyss |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

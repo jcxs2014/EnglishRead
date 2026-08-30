@@ -1,4 +1,9 @@
-## 精读：The Red Tower (1996)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 71. The Red Tower
 
 ① The ruined factory stood three stories high in an otherwise featureless landscape.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：终局收束于"不可见"——红塔是集体潜意识里的幽灵，人人谈论却无人亲见，把恐怖升华为文化癔症。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

@@ -1,4 +1,9 @@
-## 精读：In The Shadow Of Another World (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 48. In The Shadow Of Another World
 
 ① the infinite sky itself, across which the sun spreads its expansive light, is merely a blurry little window with a crack in it—a jagged fracture beyond which one may see, at twilight, what occupies and envelops a vacant street lined with gently stirring trees and old silent houses.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：在全篇怀疑论与理论化之后，用一句冷峻结语确认 nightmare 才是唯一真实——Ligotti 式虚无主义定调。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | chimera | 奇美拉、幻兽 | for the house seemed to have acquired its present form through a fabulous conglomeration of properties |

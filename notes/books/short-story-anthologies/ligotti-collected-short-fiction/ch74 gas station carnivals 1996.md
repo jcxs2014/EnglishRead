@@ -1,4 +1,9 @@
-## 精读：Gas Station Carnivals (1996)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 74. Gas Station Carnivals
 
 ① Outside the walls of the Crimson Cabaret was a world of rain and darkness.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：收束于"他终将转身 claim me for the abyss"的悬停，把全篇的等待感钉在"即将发生"的最后一瞬。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

@@ -1,4 +1,9 @@
-## 精读：The Interminable Equation (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 68. The Interminable Equation
 
 ① After tabulating our number of days on this earth, we would still have to multiply this sum several times in order to take into account our dreams
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环标题"interminable equation"——方程永算不尽，直到跌入双遗忘；存在被算到归零再归零，虚无主义定调。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | tabulating | 列表统计 | After tabulating our number of days on this earth |

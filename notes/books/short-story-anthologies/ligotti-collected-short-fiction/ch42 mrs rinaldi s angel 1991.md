@@ -1,4 +1,9 @@
-## 精读：Mrs Rinaldi's Angel (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 42. Mrs Rinaldi's Angel
 
 ① They are parasites—maggots of the mind and soul, feeding on the mind and soul as ordinary maggots feed on the body.
 

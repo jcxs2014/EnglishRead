@@ -1,4 +1,9 @@
-## 精读：Purity (2003)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 83. Purity
 
 ① We must actively embrace the reality of non-ownership
 

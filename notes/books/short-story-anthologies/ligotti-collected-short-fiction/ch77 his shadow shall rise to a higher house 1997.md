@@ -1,4 +1,9 @@
-## 精读：His Shadow Shall Rise To A Higher House (1997)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 77. His Shadow Shall Rise To A Higher House
 
 ① Then I remembered that there was a hilltop graveyard that hovered not far beyond the edge of town.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：终局留白——Ascrobius 或许从未消失，只是在更高处继续"非创"；房屋也会"失踪"，恐怖无终点。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

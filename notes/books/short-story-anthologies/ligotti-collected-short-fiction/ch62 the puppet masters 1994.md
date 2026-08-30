@@ -1,4 +1,9 @@
-## 精读：The Puppet Masters (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 62. The Puppet Masters
 
 ① none of their mouths move unless I make them
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环——它们从不被真正 silencing，只是偶尔惩罚；永恒的低语即叙述者无法逃脱的囚笼。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | insufferable | 难以忍受的 | an insufferable vacuum of silence |

@@ -1,4 +1,9 @@
-## 精读：The Order Of Illusion (1989)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 37. The Order Of Illusion
 
 ① It seemed to him that the old mysteries had been made for another universe.
 

@@ -1,4 +1,9 @@
-## 精读：The Glamour (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 43. The Glamour
 
 ① It had long been my practice to wander late at night and often to attend movie theaters at this time.
 

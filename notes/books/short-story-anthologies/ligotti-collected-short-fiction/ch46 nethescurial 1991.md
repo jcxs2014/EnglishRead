@@ -1,4 +1,9 @@
-## 精读：Nethescurial (1991)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 46. Nethescurial
 
 ① Beneath dark waters and across moonlit skies below earth mound and above mountain peak.
 

@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 15. The Eternal Devotion Of The Governess To The Residents Of Bly（家庭女教师对布莱庄园住户的永恒献身 / 1985）
 
-## 一句话总结
-
-一篇对詹姆斯《螺丝在拧紧》的「回忆录补述」：女教师为求 Harley Street 那位叔父的垂青，对 Flora 与 Miles 倾注全身心，与死者 Quint/Jessel 争夺孩子灵魂；Miles 魂已碎、争抢中心脏停跳死在她怀中，她活到高寿却永失布莱——把经典「保护孩童」重写为一场以男人为目的的、注定落空的献身。
 
 ## 精读
 

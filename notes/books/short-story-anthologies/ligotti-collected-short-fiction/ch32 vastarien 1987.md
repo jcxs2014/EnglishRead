@@ -5,9 +5,6 @@ modified: "2026-08-30"
 
 # 32. Vastarien（瓦斯塔利恩 / 1987）
 
-## 一句话总结
-
-一篇「书即世界」的元小说：书痴 Victor Keirion 在十二边书店购得灰色小书《Vastarien》——它不描述、而是「就是」那个 unreal 世界之实体；乌鸦人代付全款，实为借 Keirion 之眼窃梦，Keirion 终被锁进金属门小室、绑上床注射，喃「Stealing my dreams」。把「对 unreal 的迷恋」写成一种被书寄生、夺走现实人生的绝症。
 
 ## 精读
 
@@ -120,7 +117,6 @@ modified: "2026-08-30"
 | liturgy | 礼文 | a liturgy of shadows, catechism of phantoms |
 | catechism | 教理问答 | catechism of phantoms |
 | miscreation | 误造 | marvels of miscreation |
-| delirium | 癫狂 | spoke the supreme delirium (cf. ch31) |
 | invocation | 召唤 | the invocation of Vastarien |
 | transfixed | 凝定 | transfixed in the order of the unreal |
 

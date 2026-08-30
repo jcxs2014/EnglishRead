@@ -1,4 +1,9 @@
-## 精读：Teatro Grottesco (1996)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 72. Teatro Grottesco
 
 ① The first thing I learned was that no one anticipates the arrival of the Teatro.
 
@@ -120,9 +125,9 @@
 
 为什么这样写：首尾呼应，把一篇"剧团传说"提纯为存在论断言——可控的只有幻觉，真实永远突袭。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级
+---### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|

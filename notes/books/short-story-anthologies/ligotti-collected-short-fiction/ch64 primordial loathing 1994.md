@@ -1,4 +1,9 @@
-## 精读：Primordial Loathing (1994)
+---
+状态: 未读
+modified: "2026-08-30"
+---
+
+# 64. Primordial Loathing
 
 ① I cannot imagine how this voice invaded the dream, yet did not belong to it.
 
@@ -138,9 +143,9 @@
 
 为什么这样写：闭环——爬虫的史前天堂终将重临，"远方"与"虚空"都将被那盖吞没，虚无主义收束。
 
----
+## 词汇分级
 
-### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+---### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | primordial | 原初的、史前的 | Primordial Loathing |
