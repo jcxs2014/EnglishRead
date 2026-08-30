@@ -26,9 +26,9 @@
 
 ③ The infinitely diverse sensations beyond all common understanding.
 
--中文理解：那超出一切常识理解的、无限多样的感官。Dublanc 描述 Catch 博士从研究中获得的"禁忌之悦"。
+中文理解：那超出一切常识理解的、无限多样的感官。Dublanc 描述 Catch 博士从研究中获得的"禁忌之悦"。
 
--句子结构：The infinitely diverse sensations（主语） + beyond all common understanding（后置定语）。
+句子结构：The infinitely diverse sensations（主语） + beyond all common understanding（后置定语）。
 
 关键词：infinitely diverse（无限多样）、sensations（感官/感受）、beyond all common understanding（超乎常识）
 
