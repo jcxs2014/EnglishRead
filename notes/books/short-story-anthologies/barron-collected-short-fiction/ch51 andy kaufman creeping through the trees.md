@@ -159,25 +159,25 @@ Julie Vellum（ JV）在 1998 年回忆她高中最后一年——她父亲患�
 |---|---|---|
 | andy kaufman creeping through the trees | Andy Kaufman 穿过树木爬行 | Barron collection title |
 | friend camp | 朋友阵营 | Steely J resides in the friend camp |
- miscarriages | （原文：miscarriages） |  
- disconnected | （原文：disconnected） |  
- transformation | （原文：transformation） |  
- period | （原文：period） |  
- police | （原文：police） |  
- visualize | （原文：visualize） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- gangster | （原文：gangster） |  
- injuries | （原文：injuries） |  
- dressed | （原文：dressed） |  
- everyone | （原文：everyone） |  
- floating | （原文：floating） |  
- doomsday | （原文：doomsday） |  
- yours | （原文：yours） |  
- counts | （原文：counts） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,12 +186,12 @@ Julie Vellum（ JV）在 1998 年回忆她高中最后一年——她父亲患�
 | father | 父亲 | Cancer is eating my father |
 | cancer | 癌症 | Cancer is eating my father alive |
 | friend | 朋友 | Steely J in the friend camp |
- friend | （原文：friend） |  
- called | （原文：called） |  
- wraps | （原文：wraps） |  
- tapes | （原文：tapes） |  
- heavy | （原文：heavy） |  
- junk | （原文：junk） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 | high school | 高中 | Senior year of high school |
 
 ---

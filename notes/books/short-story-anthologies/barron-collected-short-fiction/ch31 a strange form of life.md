@@ -160,25 +160,25 @@ modified: "2026-08-30"
 | a strange form of life | 一种奇怪的生命形式 | Title reference |
 | great dark | 伟大的黑暗 | The Great Dark's bootlickin' servants |
 | skin walkers | 皮肤行者 | Indians got skin walkers |
- overcrowding | （原文：overcrowding） |  
- accelerating | （原文：accelerating） |  
- sentimentality | （原文：sentimentality） |  
- picked | （原文：picked） |  
- guards | （原文：guards） |  
- allegedly | （原文：allegedly） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- everyone | （原文：everyone） |  
- corroded | （原文：corroded） |  
- gleamed | （原文：gleamed） |  
- euphoria | （原文：euphoria） |  
- colonies | （原文：colonies） |  
- controls | （原文：controls） |  
- heavy | （原文：heavy） |  
- called | （原文：called） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -188,12 +188,12 @@ modified: "2026-08-30"
 | guard | 守卫 | the guard |
 | convict | 囚犯 | the convict |
 | demon | 恶魔 | They were demons |
- along | （原文：along） |  
- trysts | （原文：trysts） |  
- smirks | （原文：smirks） |  
- waking | （原文：waking） |  
- oddly | （原文：oddly） |  
- hear | （原文：hear） |  
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| darkness | 黑暗 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 
 ---
 

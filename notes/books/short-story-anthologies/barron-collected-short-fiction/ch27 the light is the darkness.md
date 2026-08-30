@@ -160,25 +160,25 @@ Conrad Navarro 寻找失踪的 FBI 特工姐姐 Imogene，她正在追捕可能�
 | the light is the darkness | 光就是黑暗 | Title reference |
 | drake | Drake（人名/博士） | Dr. Drake |
 | cryptozoic | 隐生的 | Cryptozoic bacteria |
- connotations | （原文：connotations） |  
- firecrackers | （原文：firecrackers） |  
- septuagenarian | （原文：septuagenarian） |  
- drains | （原文：drains） |  
- picked | （原文：picked） |  
- languages | （原文：languages） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- caligula | （原文：caligula） |  
- thickets | （原文：thickets） |  
- dressed | （原文：dressed） |  
- casually | （原文：casually） |  
- scorched | （原文：scorched） |  
- ravenous | （原文：ravenous） |  
- chubs | （原文：chubs） |  
- guards | （原文：guards） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ Conrad Navarro 寻找失踪的 FBI 特工姐姐 Imogene，她正在追捕可能�
 | sister | 姐姐 | his sister Imogene |
 | brother | 哥哥 | his brother Ezra |
 | island | 岛屿 | remote Polynesian island |
- morose | （原文：morose） |  
- far | （原文：far） |  
- dusty | （原文：dusty） |  
- cooked | （原文：cooked） |  
- bushes | （原文：bushes） |  
- sell | （原文：sell） |  
- heads | （原文：heads） |  
+| glacier | 冰川 | （未出现在原文） |
+| ice | 冰 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
 
 ---
 

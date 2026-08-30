@@ -159,26 +159,26 @@ modified: "2026-08-30"
 |---|---|---|
 | men from porlock | Porlock 的人 | Title reference |
 | slango camp | Slango 营地 | Slango Camp |
- satisfaction | （原文：satisfaction） |  
- newspapermen | （原文：newspapermen） |  
- fortifications | （原文：fortifications） |  
- logger | （原文：logger） |  
- picked | （原文：picked） |  
- explosion | （原文：explosion） |  
- weyerhaeuser | （原文：weyerhaeuser） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
+| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- theories | （原文：theories） |  
- terraced | （原文：terraced） |  
- dressed | （原文：dressed） |  
- casually | （原文：casually） |  
- roosting | （原文：roosting） |  
- disliked | （原文：disliked） |  
- floyd | （原文：floyd） |  
- toting | （原文：toting） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ modified: "2026-08-30"
 | camp | 营地 | Slango Camp |
 | forest | 森林 | the deep forest |
 | hunter | 猎人 | hunting party |
- junk | （原文：junk） |  
- yours | （原文：yours） |  
- resume | （原文：resume） |  
- friend | （原文：friend） |  
- hear | （原文：hear） |  
- shore | （原文：shore） |  
- cussed | （原文：cussed） |  
+| wolf | 狼 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| soldier | 士兵 | （未出现在原文） |
 
 ---
 

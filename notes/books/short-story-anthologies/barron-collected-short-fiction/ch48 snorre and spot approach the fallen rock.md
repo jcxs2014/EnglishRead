@@ -95,17 +95,17 @@ modified: "2026-08-30"
 
 ---
 
-### 第7处：冰柱与眼泪
+### 第7处：标题" Snorre And Spot Approach The Fallen Rock" 的含义
 
-> Icicles snapped from his beard. Tiny icicle tears snapped from his lashes when he blinked.
+> Snorre And Spot Approach The Fallen Rock（Snorre 和 Spot 接近坠落岩石——一个关于"接近"的故事）
 
-中文理解：冰柱从他的胡子上断裂。当他眨眼时，微小的冰泪从睫毛上断裂。
+中文理解："接近"是一个过程——人接近狗，狗接近主人。
 
-关键词：Icicles snapped（冰柱断裂）
+关键词：Approach（接近）
 
-表达方式：冰柱作为"寒冷"的具象化；"冰泪"作为"人类情感"的隐喻。
+表达方式：接近作为"关系"的隐喻；"坠落岩石"作为"终点"的象征。
 
-为什么这样写：Barron 将"寒冷"写成"冰柱"，将"眼泪"写成"冰泪"——这是一种"情感冻结"的意象。男人在追踪他的狗，但他的眼泪也"冻结"了。
+为什么这样写：这个故事是"关于接近"的——男人在"接近"他的狗（通过追踪），狗在"接近"男人（通过血迹）。"坠落岩石"是"终点"——或者"起点"。
 
 ---
 
@@ -118,13 +118,25 @@ modified: "2026-08-30"
 | snorre | Snorre（男人名字） | the man |
 | spot | Spot（狗名字） | his gray, rheumy-eyed dog |
 | fallen rock | 坠落岩石 | Barron collection title |
-
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -135,9 +147,11 @@ modified: "2026-08-30"
 | blood | 血 | Flakes of old blood |
 | snow | 雪 | it began to snow |
 | north | 北方 | North |
-
- wrong | （原文：wrong） |  
- many | （原文：many） |  
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 
 ---
 

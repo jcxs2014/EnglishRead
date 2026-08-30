@@ -160,25 +160,25 @@ modified: "2026-08-30"
 | worms crawl in | 虫子爬进来 | childhood rhyme |
 | fortunato | Fortunato（爱伦坡角色） | I've come to think of him as Fortunato |
 | fubar | 搞砸了 | The shape is fubar |
- interference | （原文：interference） |  
- regurgitates | （原文：regurgitates） |  
- optimistically | （原文：optimistically） |  
- picked | （原文：picked） |  
- period | （原文：period） |  
- despoiled | （原文：despoiled） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- eclipses | （原文：eclipses） |  
- maneuver | （原文：maneuver） |  
- expanse | （原文：expanse） |  
- funerals | （原文：funerals） |  
- everyone | （原文：everyone） |  
- rendered | （原文：rendered） |  
- wraps | （原文：wraps） |  
- counts | （原文：counts） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ modified: "2026-08-30"
 |---|---|---|
 | grave | 坟墓 | looks like a grave |
 | wife | 妻子 | my wife Ferris |
- resume | （原文：resume） |  
- called | （原文：called） |  
- tonsil | （原文：tonsil） |  
- sixty | （原文：sixty） |  
- shore | （原文：shore） |  
- heavy | （原文：heavy） |  
- fang | （原文：fang） |  
- romero | （原文：romero） |  
+| affair | 风流韵事 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| revenge | 复仇 | （未出现在原文） |
 
 ---
 

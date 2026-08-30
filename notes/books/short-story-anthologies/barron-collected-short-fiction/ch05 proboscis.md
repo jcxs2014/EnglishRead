@@ -161,11 +161,11 @@ modified: "2026-08-30"
 | reduviid | 猎蝽科的 | Reduviidae |
 | meninges | 脑膜 | Right through your meninges |
 | haplotype | 单倍型 | As an X haplotype |
- picked | （原文：picked） |  
- police | （原文：police） |  
- simultaneously | （原文：simultaneously） |  
- disappointed | （原文：disappointed） |  
- developments | （原文：developments） |  
+| imago | 成虫（完全变态昆虫的成虫阶段） | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| corpus delicti | 犯罪证据 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
@@ -174,11 +174,11 @@ modified: "2026-08-30"
 | bounty hunter | 赏金猎人 | bounty hunters |
 | siphon | 虹吸管 | Sorta like a siphon |
 | parasite | 寄生虫 | wasp nests and wasps |
- thickets | （原文：thickets） |  
- doomsday | （原文：doomsday） |  
- lighted | （原文：lighted） |  
- regaling | （原文：regaling） |  
- rendered | （原文：rendered） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
 
 ### ⭐ 基础
 

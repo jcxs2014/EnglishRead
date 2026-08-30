@@ -160,25 +160,25 @@ Carol 和 Franco 是一对情侣，住在奥林匹克市的 Broadsword Hotel—�
 | jaws of saturn | 土星之颚 | Barron collection title |
 | broadsword hotel | Broadsword Hotel | monument to the Roaring Twenties |
 | hypnotist | 催眠师 | I've been seeing a hypnotist |
- occasionally | （原文：occasionally） |  
- dreadfulness | （原文：dreadfulness） |  
- claustrophobia | （原文：claustrophobia） |  
- picked | （原文：picked） |  
- friend | （原文：friend） |  
- furniture | （原文：furniture） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- pictured | （原文：pictured） |  
- eclipsed | （原文：eclipsed） |  
- dressed | （原文：dressed） |  
- casually | （原文：casually） |  
- delirium | （原文：delirium） |  
- coercion | （原文：coercion） |  
- yours | （原文：yours） |  
- called | （原文：called） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,12 +187,12 @@ Carol 和 Franco 是一对情侣，住在奥林匹克市的 Broadsword Hotel—�
 | hotel | 酒店 | Broadsword Hotel |
 | dream | 梦 | I dreamt about this lowlife |
 | eye | 眼睛 | The iris of her left eye |
- popped | （原文：popped） |  
- waking | （原文：waking） |  
- virus | （原文：virus） |  
- heavy | （原文：heavy） |  
- carol | （原文：carol） |  
- hear | （原文：hear） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 | light | 光 | creepy red light |
 
 ---

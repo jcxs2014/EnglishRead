@@ -161,24 +161,24 @@ Jessica Mace 在蒙大拿州 Screaming Elk 镇的酒吧中被认出是" Eagle Ta
 | femme fatale | 蛇蝎美人 | play the femme fatale |
 | dancing star | 舞蹈之星 | you're a dancing star |
 | gallows brothers carnival | 断头台兄弟马戏团 | Gallows Brothers Carnival |
- respectively | （原文：respectively） |  
- skullduggery | （原文：skullduggery） |  
- unfortunately | （原文：unfortunately） |  
- police | （原文：police） |  
- bailey | （原文：bailey） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- everyone | （原文：everyone） |  
- floating | （原文：floating） |  
- dressed | （原文：dressed） |  
- doomsday | （原文：doomsday） |  
- clutched | （原文：clutched） |  
- ravenous | （原文：ravenous） |  
- bosom | （原文：bosom） |  
- counts | （原文：counts） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ Jessica Mace 在蒙大拿州 Screaming Elk 镇的酒吧中被认出是" Eagle Ta
 | bar | 酒吧 | tavern in Screaming Elk |
 | cowboy | 牛仔 | shitkicker |
 | carnival | 马戏团 | Gallows Brothers Carnival |
- friend | （原文：friend） |  
- flexed | （原文：flexed） |  
- bills | （原文：bills） |  
- alert | （原文：alert） |  
- hondo | （原文：hondo） |  
- fang | （原文：fang） |  
- called | （原文：called） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| violence | 暴力 | （未出现在原文） |
 
 ---
 

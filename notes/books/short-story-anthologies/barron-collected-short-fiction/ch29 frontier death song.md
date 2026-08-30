@@ -160,40 +160,40 @@ modified: "2026-08-30"
 | frontier death song | 边境死亡之歌 | Title reference |
 | the hunt | 狩猎 | The Hunt is eternal |
 | huntsman | 猎手 | the Huntsman |
- occasionally | （原文：occasionally） |  
- bewilderment | （原文：bewilderment） |  
- underachieving | （原文：underachieving） |  
- picked | （原文：picked） |  
- police | （原文：police） |  
- languages | （原文：languages） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- charcoal | （原文：charcoal） |  
- versions | （原文：versions） |  
- lighted | （原文：lighted） |  
- everyone | （原文：everyone） |  
- clutched | （原文：clutched） |  
- inclined | （原文：inclined） |  
- virus | （原文：virus） |  
- counts | （原文：counts） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hunter | 猎人 | the Huntsman |
- shore | （原文：shore） |  
- muster | （原文：muster） |  
- friend | （原文：friend） |  
+| ghost | 鬼魂 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
 | snow | 雪 | Snow was falling thick |
 | death | 死亡 | Death agreed with some people |
- far | （原文：far） |  
- heavy | （原文：heavy） |  
- soul | （原文：soul） |  
- vibe | （原文：vibe） |  
+| dog | 狗 | （未出现在原文） |
+| demon | 恶魔 | （未出现在原文） |
+| hell | 地狱 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 
 ---
 

@@ -162,23 +162,23 @@ modified: "2026-08-30"
 | old ones | 古老存在 | heralds of the Old Ones |
 | flagellant | 苦行信徒 | The flagellants march |
 | openers of the way | 道路的开启者 | Openers of the Way |
- compromising | （原文：compromising） |  
- incomparable | （原文：incomparable） |  
- eccentricities | （原文：eccentricities） |  
- jaunts | （原文：jaunts） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- theories | （原文：theories） |  
- caligula | （原文：caligula） |  
- sandals | （原文：sandals） |  
- everyone | （原文：everyone） |  
- randomly | （原文：randomly） |  
- acolytes | （原文：acolytes） |  
- fault | （原文：fault） |  
- guards | （原文：guards） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -192,8 +192,8 @@ modified: "2026-08-30"
 | worm | 虫子 | the worm that has turned |
 | blood | 血液 | blood and gore |
 | death | 死亡 | death's-head |
- dusty | （原文：dusty） |  
- called | （原文：called） |  
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
 
 ---
 

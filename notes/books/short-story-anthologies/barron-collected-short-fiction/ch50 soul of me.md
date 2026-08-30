@@ -161,24 +161,24 @@ Rex 是一个 positronic 脑的机器战犬，他在梦中回忆起自己作为�
 | positronic brain | positronic 大脑 | Isaac Asimov reference |
 | gore king | Gore King（怪兽名） | The Gore King slaughters all comers |
 | post-singularity | 奇点后 | post-singularity point |
- recalibrated | （原文：recalibrated） |  
- domesticated | （原文：domesticated） |  
- nanotechnology | （原文：nanotechnology） |  
- picked | （原文：picked） |  
- friend | （原文：friend） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- eclipsed | （原文：eclipsed） |  
- vectored | （原文：vectored） |  
- dressed | （原文：dressed） |  
- sufficed | （原文：sufficed） |  
- shepherd | （原文：shepherd） |  
- emerging | （原文：emerging） |  
- along | （原文：along） |  
- called | （原文：called） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ Rex 是一个 positronic 脑的机器战犬，他在梦中回忆起自己作为�
 |---|---|---|
 | dog | 狗 | You were only a dog |
 | lizard | 蜥蜴 | A monstrous lizard |
- gored | （原文：gored） |  
- savage | （原文：savage） |  
- voices | （原文：voices） |  
+| robot | 机器人 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
 | blood | 血 | A monstrous lizard wants your blood |
- bitch | （原文：bitch） |  
- teeth | （原文：teeth） |  
- melt | （原文：melt） |  
- far | （原文：far） |  
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| war | 战争 | （未出现在原文） |
 
 ---
 

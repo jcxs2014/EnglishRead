@@ -158,26 +158,26 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | manitou | 曼尼图（神灵） | legends such as the Manitou |
- satisfaction | （原文：satisfaction） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
 | subterranean | 地下的 | the subterranean depths |
- embarrassingly | （原文：embarrassingly） |  
- cloths | （原文：cloths） |  
- picked | （原文：picked） |  
- dismissal | （原文：dismissal） |  
- disconsolate | （原文：disconsolate） |  
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
+| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- landlord | （原文：landlord） |  
- stinging | （原文：stinging） |  
- dressed | （原文：dressed） |  
- thickets | （原文：thickets） |  
- casually | （原文：casually） |  
- roosting | （原文：roosting） |  
- doses | （原文：doses） |  
- police | （原文：police） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -189,10 +189,10 @@ modified: "2026-08-30"
 | wall | 墙 | behind plaster |
 | voice | 声音 | strange and breathy voices |
 | ghost | 鬼 | ghost stories |
- counts | （原文：counts） |  
- friend | （原文：friend） |  
- pete | （原文：pete） |  
- sixty | （原文：sixty） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
 
 ---
 

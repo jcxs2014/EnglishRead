@@ -159,26 +159,26 @@ modified: "2026-08-30"
 |---|---|---|
 | d.t. | 震颤谵妄/二重身理论 | Title reference |
 | doppelganger | 二重身 | I am the doppelganger |
- investigating | （原文：investigating） |  
+| arkham county | 阿克姆县 | （未出现在原文） |
 | megalith | 巨石 | investigating a megalith |
- occasionally | （原文：occasionally） |  
- frankenstein | （原文：frankenstein） |  
- counterbalance | （原文：counterbalance） |  
- muster | （原文：muster） |  
- friend | （原文：friend） |  
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- casually | （原文：casually） |  
- funerals | （原文：funerals） |  
- dressed | （原文：dressed） |  
- everyone | （原文：everyone） |  
- sweating | （原文：sweating） |  
- jeopardy | （原文：jeopardy） |  
- heavy | （原文：heavy） |  
- flexed | （原文：flexed） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ modified: "2026-08-30"
 |---|---|---|
 | author | 作家 | The author was two decades older |
 | editor | 编辑 | The editor was young and wily |
- punch | （原文：punch） |  
- socket | （原文：socket） |  
- popped | （原文：popped） |  
- soul | （原文：soul） |  
- sell | （原文：sell） |  
- heads | （原文：heads） |  
- chair | （原文：chair） |  
- hudson | （原文：hudson） |  
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| love | 爱 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| agent | 代理人 | （未出现在原文） |
+| stranger | 陌生人 | （未出现在原文） |
 
 ---
 

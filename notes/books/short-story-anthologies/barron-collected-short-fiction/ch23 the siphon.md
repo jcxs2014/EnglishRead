@@ -157,28 +157,28 @@ modified: "2026-08-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- inconsequentialities | （原文：inconsequentialities） |  
- picked | （原文：picked） |  
- collegiality | （原文：collegiality） |  
- satisfaction | （原文：satisfaction） |  
- ecclesiastical | （原文：ecclesiastical） |  
- police | （原文：police） |  
- muster | （原文：muster） |  
- endeavors | （原文：endeavors） |  
- abominations | （原文：abominations） |  
+| roache enterprises | Roache 企业 | （未出现在原文） |
+| siphon | 虹吸管 | （未出现在原文） |
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
+| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- flawless | （原文：flawless） |  
- casually | （原文：casually） |  
- dressed | （原文：dressed） |  
- everyone | （原文：everyone） |  
- acolytes | （原文：acolytes） |  
- clutched | （原文：clutched） |  
- bosom | （原文：bosom） |  
- friend | （原文：friend） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ modified: "2026-08-30"
 |---|---|---|
 | spy | 间谍 | Lancaster was an NSA asset |
 | company | 公司 | Roache Enterprises |
- mooned | （原文：mooned） |  
- yours | （原文：yours） |  
- called | （原文：called） |  
- voices | （原文：voices） |  
- domes | （原文：domes） |  
- reps | （原文：reps） |  
- lloyd | （原文：lloyd） |  
- virus | （原文：virus） |  
+| hunter | 猎人 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| dream | 梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| devil | 恶魔 | （未出现在原文） |
 
 ---
 

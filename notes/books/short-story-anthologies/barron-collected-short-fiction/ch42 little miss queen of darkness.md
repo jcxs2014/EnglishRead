@@ -160,25 +160,25 @@ modified: "2026-08-30"
 | queen of darkness | 黑暗女王 | Barron collection title |
 | blood eagle | 血鹰（北欧献祭） | price for betrayal is a blood eagle |
 | ouroboros | 咬尾蛇 | Is this the Ouroboros? |
- occasionally | （原文：occasionally） |  
- frankenstein | （原文：frankenstein） |  
- reconstructive | （原文：reconstructive） |  
- drains | （原文：drains） |  
- police | （原文：police） |  
- despoiled | （原文：despoiled） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- casually | （原文：casually） |  
- everyone | （原文：everyone） |  
- dressed | （原文：dressed） |  
- corroded | （原文：corroded） |  
- rendered | （原文：rendered） |  
- gemstone | （原文：gemstone） |  
- yours | （原文：yours） |  
- counts | （原文：counts） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ modified: "2026-08-30"
 | ring | 戒指 | the ring is formed of thick strands |
 | party | 派对 | debutante ball |
 | blood | 血 | blood eagle |
- friend | （原文：friend） |  
- mildew | （原文：mildew） |  
- heavy | （原文：heavy） |  
- brags | （原文：brags） |  
- soul | （原文：soul） |  
- called | （原文：called） |  
- worm | （原文：worm） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| tunnel | 隧道 | （未出现在原文） |
+| cave | 洞穴 | （未出现在原文） |
 
 ---
 

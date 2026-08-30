@@ -160,25 +160,25 @@ Delia Dolores Andersen（ aka Dee Dee Gamma）是一个珠宝劫匪，在一次�
 | black kaleidoscope | 黑色万花筒 | before the Black Kaleidoscope takes over |
 | ultimate form | 终极形态 | Don't Make Me Assume My Ultimate Form |
 | gamma rays | 伽马射线 | burst into a fountain of gamma rays |
- satisfaction | （原文：satisfaction） |  
- interference | （原文：interference） |  
- hallucinations | （原文：hallucinations） |  
- drains | （原文：drains） |  
- muster | （原文：muster） |  
- sphincter | （原文：sphincter） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- thickets | （原文：thickets） |  
- everyone | （原文：everyone） |  
- lighted | （原文：lighted） |  
- scorched | （原文：scorched） |  
- corroded | （原文：corroded） |  
- ravenous | （原文：ravenous） |  
- yours | （原文：yours） |  
- friend | （原文：friend） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ Delia Dolores Andersen（ aka Dee Dee Gamma）是一个珠宝劫匪，在一次�
 |---|---|---|
 | criminal | 罪犯 | career criminal |
 | partner | 搭档 | your partner |
- called | （原文：called） |  
- triple | （原文：triple） |  
- bills | （原文：bills） |  
- fault | （原文：fault） |  
- sixty | （原文：sixty） |  
- hear | （原文：hear） |  
- morose | （原文：morose） |  
- savage | （原文：savage） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| violence | 暴力 | （未出现在原文） |
+| transformation | 转变 | （未出现在原文） |
 
 ---
 

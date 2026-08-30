@@ -160,25 +160,25 @@ Custer Poe 是一个在阿拉斯加荒野生活的老人，他年轻时是南北
 | beatification | 列真福品（天主教仪式） | The Beatification of Custer Poe |
 | war of northern aggression | 北方侵略战争（南方视角的南北战争） | assassinated Mordecai Jefferson |
 | mordecai jefferson | Mordecai Jefferson（人名） | Captain Mordecai Jefferson |
- disappointed | （原文：disappointed） |  
- cantankerous | （原文：cantankerous） |  
- manifestation | （原文：manifestation） |  
- gettin | （原文：gettin） |  
- muster | （原文：muster） |  
- whetstone | （原文：whetstone） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- inhabits | （原文：inhabits） |  
- shitfire | （原文：shitfire） |  
- corrupt | （原文：corrupt） |  
- children | （原文：children） |  
- chuckles | （原文：chuckles） |  
- together | （原文：together） |  
- heavy | （原文：heavy） |  
- cussed | （原文：cussed） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,13 +186,13 @@ Custer Poe 是一个在阿拉斯加荒野生活的老人，他年轻时是南北
 |---|---|---|
 | bear | 熊 | beheld a bear |
 | assassin | 刺客 | I am an assassin |
- risin | （原文：risin） |  
- bushes | （原文：bushes） |  
- parson | （原文：parson） |  
- bears | （原文：bears） |  
- along | （原文：along） |  
- tailed | （原文：tailed） |  
- pete | （原文：pete） |  
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| revenge | 复仇 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
 | war | 战争 | the War of Northern Aggression |
 
 ---

@@ -162,22 +162,22 @@ modified: "2026-08-30"
 | belphegor | 伯elphegor（Moabite 邪教神） | Belphegor |
 | baal-peer | 巴力毘珥（Moabite 邪教神） | Baal-Peeor |
 | chemosh | 基抹（Moabite 邪教神） | Chemosh |
- improvements | （原文：improvements） |  
- encroachment | （原文：encroachment） |  
- unintelligible | （原文：unintelligible） |  
- gettin | （原文：gettin） |  
+| subterranean | 地下的 | （未出现在原文） |
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- dressed | （原文：dressed） |  
- scorched | （原文：scorched） |  
- rendered | （原文：rendered） |  
- buddies | （原文：buddies） |  
- quarters | （原文：quarters） |  
- marry | （原文：marry） |  
- sufficed | （原文：sufficed） |  
+| malaria | 疟疾 | （未出现在原文） |
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
+| corpus delicti | 犯罪证据 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -190,9 +190,9 @@ modified: "2026-08-30"
 | photograph | 照片 | snapping another picture |
 | crow | 乌鸦 | A crow drifted |
 | skeleton | 骨骼 | Squirrel bones |
- alert | （原文：alert） |  
- picked | （原文：picked） |  
- mating | （原文：mating） |  
+| ghost | 鬼 | （未出现在原文） |
+| hunter | 猎人 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
 
 ---
 

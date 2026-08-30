@@ -161,24 +161,24 @@ modified: "2026-08-30"
 | left hand path | 左边路径（黑魔法） | Five days along the Left Hand Path |
 | jon foot | Jon Foot（巫师名） | warlock Jon Foot |
 | black forest | 黑森林 | Emperor's Highway ended a few leagues south of the Black Forest |
- abominations | （原文：abominations） |  
- occasionally | （原文：occasionally） |  
- transformation | （原文：transformation） |  
- logger | （原文：logger） |  
- friend | （原文：friend） |  
+| antediluvian | 古老的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- thickets | （原文：thickets） |  
- delirium | （原文：delirium） |  
- dressed | （原文：dressed） |  
- versions | （原文：versions） |  
- everyone | （原文：everyone） |  
- floating | （原文：floating） |  
- yours | （原文：yours） |  
- called | （原文：called） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ modified: "2026-08-30"
 | uncle | 叔叔 | her uncle |
 | deathbed | 临终 | deathbed confession |
 | forest | 森林 | Black Forest |
- ouncle | （原文：ouncle） |  
- bushes | （原文：bushes） |  
- bills | （原文：bills） |  
- moral | （原文：moral） |  
- bears | （原文：bears） |  
- junk | （原文：junk） |  
- along | （原文：along） |  
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| witch | 女巫 | （未出现在原文） |
 
 ---
 

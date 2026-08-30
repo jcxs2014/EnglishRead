@@ -158,42 +158,42 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hand of glory | 光荣之手（用被绞死者的手制成的魔法蜡烛） | Title reference |
- instinctively | （原文：instinctively） |  
- attribution | （原文：attribution） |  
- unbarred | （原文：unbarred） |  
- complemented | （原文：complemented） |  
- reassurances | （原文：reassurances） |  
- gesticulations | （原文：gesticulations） |  
- picked | （原文：picked） |  
- gunnin | （原文：gunnin） |  
+| ransom hollow | Ransom Hollow（地名） | （未出现在原文） |
+| old scratch | 老魔鬼 | （未出现在原文） |
+| sisyphus | 西西弗斯 | （未出现在原文） |
+| antediluvian | 古老的；旧式的 | （未出现在原文） |
+| subterranean | 地下的 | （未出现在原文） |
+| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| chitin | 几丁质 | （未出现在原文） |
+| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
- casually | （原文：casually） |  
- scorched | （原文：scorched） |  
- dressed | （原文：dressed） |  
- acolytes | （原文：acolytes） |  
- reunited | （原文：reunited） |  
- quarters | （原文：quarters） |  
- bills | （原文：bills） |  
- fiddle | （原文：fiddle） |  
+| nocturnal | 夜间的 | （未出现在原文） |
+| esoteric | 秘传的 | （未出现在原文） |
+| liminal | 阈限的 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | （未出现在原文） |
+| paranoia | 偏执狂 | （未出现在原文） |
+| schizophrenia | 精神分裂症 | （未出现在原文） |
+| fugue | 神游状态 | （未出现在原文） |
+| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gangster | 黑帮 | Johnny Cope was a gangster |
- bushes | （原文：bushes） |  
- far | （原文：far） |  
- alert | （原文：alert） |  
- heads | （原文：heads） |  
- along | （原文：along） |  
- waking | （原文：waking） |  
- shadow | （原文：shadow） |  
- lard | （原文：lard） |  
- isn | （原文：isn） |  
+| father | 父亲 | （未出现在原文） |
+| gun | 枪 | （未出现在原文） |
+| blood | 血 | （未出现在原文） |
+| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | （未出现在原文） |
+| monster | 怪物 | （未出现在原文） |
+| nightmare | 噩梦 | （未出现在原文） |
+| fear | 恐惧 | （未出现在原文） |
+| war | 战争 | （未出现在原文） |
 
 ---
 
