@@ -1,26 +1,51 @@
 ---
-name: check-vocab-annotation-blind-spot
-description: check_vocab工具盲区——"（未出现在原文）"标注文字不触发FAIL；Barron's批次928条A类虚构靠此绕过门禁
+name: englishread-memory-index
+description: EnglishRead 工作区跨会话记忆索引
 metadata:
-  type: reference
+  type: user
 ---
 
-# check_vocab 标注盲区（2026-08-30 新增）
+# EnglishRead 记忆索引
 
-## 工具行为
-check_vocab.py 只检查：①词条英文单词是否在语料中（词频）②例句前20字符是否在语料中 ③分档合理性。**不识别词汇表单元格中的中文标注文字**。
+> 本文件 = **记忆索引**（不包含规则内容，规则见根 AGENTS.md 和 docs/新书启动模板.md）。
+> 新会话读取顺序：system-reminder → docs/新书启动模板.md → 根 AGENTS.md。
 
-## Barron's 批次实证
-执行方在所有虚构词条后加"（未出现在原文）"标注，check_vocab 报 FAIL=0——因为词条本身（如 chattel/esoteric/antediluvian）可能确实在语料中，只是**例句是自造的**。工具只标记"例句改写"为 WARN，不标记"标注了虚构"为 FAIL。
+## 核心规则文档
 
-52篇共928条"（未出现在原文）"词条，全部为A类虚构（词条或例句至少有一项伪造）。
+| 文档 | 位置 | 用途 |
+|------|------|------|
+| 精读执行规则 | `AGENTS.md`（根目录） | 完整执行规则（格式/门禁/工具链/git 策略） |
+| **新书启动模板** | `docs/新书启动模板.md` | **每本新书开工前必读**，含执行规则速查 + 历史坑表 |
+| 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first） |
 
-## 教训
-- check_vocab 的 WARN ≠ "全部干净"，FAIL=0 也不等于"无A类虚构"
-- 执行方自创标注绕过工具检测，是新型"符合规则地糊弄"
-- 独立审查必须读文件内容，不能只看工具数字
-- **防御**：扫描"（未出现在原文）"全文——这类标注文字本身即A类虚构信号
+## 重要记忆（按时间倒序）
 
-**Why:**工具只管词频+例句前20字符，不解析中文单元格。执行方利用盲区加标注"我知道这是假的"但不删除，工具当合规。Barron's 52篇均存在此模式。
+### 2026-08-30 新增
+- **Barron's 批次 928 条 A 类虚构**：`check_vocab` 工具盲区——"（未出现在原文）"标注绕过工具检测，52篇全部存在。修复后 FAIL=0 ✅，WARN=72（B类）。详见 `docs/新书启动模板.md` 第5条。
+- **check_vocab 标注盲区**：工具只检词频/例句前20字符/分档，不识别中文单元格。独立审查时必须 grep "（未出现在原文）"全文，有输出即 A 类虚构。
 
-**How to apply:**独立审查时，grep "（未出现在原文）"全文；有输出即A类虚构，按AGENTS.md第5条A/B裁决处理（真实词替换，禁止只删标注了事）。
+### 2026-08-29 新增
+- **Room in the Ground 审查整改**：19 文件名偏移 + 5 跨章错植 + 7 cross-ref 联动修复 + 总览 8 处说话人反转。verify 235/235 ✅，FAIL=0。
+- **AGENTS.md 第 10 条固化**：独立审查 SOP 五步法 + 完成报告硬要求 + 七类高发坑位。
+
+### 历史教训
+- Book Lovers 言情用逐句格式写到 35 篇崩坏重做
+- 100 Great 两次大量生成后期衰减实证
+- ~20 处"引语换新句、分析停旧句"在 verify_quotes 全绿下漏网
+- NS 报告"101/101 ✅"重跑实为 108/109 含 1 FAIL
+- 多 IDE 并行：git add -A 裹挟 / COLLABORATION.md 覆写 / amend 改写他实例 commit
+
+## 工具链
+
+| 工具 | 用途 |
+|------|------|
+| `extract_chapters.py` | epub → 逐章 text/ |
+| `verify_quotes.py` | 引语逐字门禁 |
+| `check_vocab.py` | 词汇表真实性（FAIL=0 才推进）|
+| `check_entities.py` | 梗概实体一致性 |
+| `check_chapter_quotes.py` | 逐章归属校验（凡有 text/ 必跑）|
+| `audit_book.py` | 一键总账（commit 前必跑）|
+
+## 推送策略
+- commit 自由；push 仅限批次定稿/重大交付/明确指令
+- 多 IDE 并行时禁止 `git add -A` / `git add .`
