@@ -160,25 +160,12 @@ modified: "2026-08-30"
 | worms crawl in | 虫子爬进来 | childhood rhyme |
 | fortunato | Fortunato（爱伦坡角色） | I've come to think of him as Fortunato |
 | fubar | 搞砸了 | The shape is fubar |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| paranoia | 偏执狂 | ...-Tale Heart” had succumbed to guilt and paranoia and eventually fled the country. |
 
 ### ⭐ 基础
 
@@ -186,14 +173,12 @@ modified: "2026-08-30"
 |---|---|---|
 | grave | 坟墓 | looks like a grave |
 | wife | 妻子 | my wife Ferris |
-| affair | 风流韵事 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| revenge | 复仇 | （未出现在原文） |
+| monster | 怪物 | I loved monster movies as a kid. |
+| nightmare | 噩梦 | Dear lord, the apocalyptic nightmares I suffered: oceans of blood, rivers of maggots, the damned leading the damned across plains of fire and ash. |
+| blood | 血 | But yeah, I published a few pieces in lit journals over the years, had one chapbook about blood and vengeance picked up by Pudding House when I was younger and angrier. |
+| death | 死亡 | I could stop a clock by beaming death-thoughts at it. |
+| ghost | 鬼 | Dad’s ghost muttered in my ear. |
+| fear | 恐惧 | The Collected Short Fiction      The Worms Crawl In,    First published in Fearful Symmetries, May 2014    the worms crawl out. |
 
 ---
 

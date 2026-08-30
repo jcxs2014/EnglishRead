@@ -161,24 +161,14 @@ Tom Mandibole 是一个神秘的存在，在一个喜马拉雅寺庙中拜访了
 | bane of your existence | 你存在的诅咒 | I am the bane of your existence |
 | mandibole | Mandibole（人名） | Tom Mandibole |
 | wendigo | Wendigo（北美神话生物） | to rape the Wendigo |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+| antediluvian | 古老的 | “Impressive stuff with antediluvian mounds in New Guinea. |
+| subterranean | 地下的 | Its mainframe occupied a massive subterranean vault beneath corporate HQ in Kingston, New York. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | ...te and a peculiar obsession of numerous esoterically minded scientists. |
 
 ### ⭐ 基础
 
@@ -187,13 +177,12 @@ Tom Mandibole 是一个神秘的存在，在一个喜马拉雅寺庙中拜访了
 | meteor | 流星 | a meteor streaked across the sky |
 | brother | 兄弟 | The Tooms brothers |
 | temple | 寺庙 | Mountain Leopard Temple |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| war | 战争 | （未出现在原文） |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | Lie still.”   “The awful sound…”   “Okay, an awful sound,” Mac said, recalling the fragment of the nightmare he’d experienced before Berrien jolted him awake. |
+| blood | 血 | We come to smoke the northern lights, to rape the Wendigo, to melt igloos with streams of hot, bloody piss. |
+| death | 死亡 | Death of a Thousand Cuts   We smoke the northern lights. |
+| fear | 恐惧 | Ruthless discipline disguised his fear. |
+| war | 战争 | Lovecraft, 2015    The White Devil   The boy awakened in the night, although he had cultivated sufficient wariness to not move a muscle beneath the leopard- and yak-hide blankets. |
 
 ---
 

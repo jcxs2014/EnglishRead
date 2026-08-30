@@ -160,25 +160,11 @@ modified: "2026-08-30"
 | more dark | 更黑暗 | Barron collection title |
 | tom l | Tom L（人名） | L the author |
 | void | 空洞 | his smile was the void |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +172,13 @@ modified: "2026-08-30"
 |---|---|---|
 | author | 作家 | the reclusive horror author |
 | friend | 朋友 | my friend John |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+| ghost | 鬼 | The lights were low and he looked ghostly with his wild hair and strange eyes. |
+| monster | 怪物 |  |
 | train | 火车 | the afternoon train |
-| death | 死亡 | （未出现在原文） |
-| gun | 枪 | （未出现在原文） |
-| demon | 恶魔 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| death | 死亡 | Nobody enjoyed receiving death threats or dead rats in the post. |
+| gun | 枪 | I dreamed about that fucking gun all of the time. |
+| demon | 恶魔 | They descend from a demonic line parallel to mimes and clowns and are wholly of the devil, especially the lifelike variety. |
+| fear | 恐惧 | ...ing lost her wits due to S's relentless fear campaign, sneaked upon him and cracked his skull with a ball peen hammer, cut o... |
 
 ---
 

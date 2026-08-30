@@ -160,25 +160,11 @@ Rex 是一个被称为" Rex Series"的军用机器战犬，由" Dad"操作——
 | ears prick up | 耳朵竖起 | Barron collection title |
 | rex series | Rex 系列 | my whole series |
 | happy hunting grounds | 快乐的狩猎场 | retire us to the Happy Hunting Grounds |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +173,13 @@ Rex 是一个被称为" Rex Series"的军用机器战犬，由" Dad"操作——
 | dog | 狗 | most decorated canine soldier |
 | war | 战争 | canine soldier in the war |
 | empire | 帝国 | valorous service to the Empire |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| weapon | 武器 | （未出现在原文） |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | The odor I whiff from his pores is tinted with the same metal as his thrashing nightmares. |
+| blood | 血 | ... while I lunged to and fro, hip deep in blood and mud the way dearly departed Kennel Master Callys and his best dog, Shotsum-... |
+| death | 死亡 | I belched hellfire and howled sonic death. |
+| ghost | 鬼 | It is true, what this ghost voice says. |
+| fear | 恐惧 | Fear pumped acid through my blood and accelerated my reactions. |
+| weapon | 武器 | I leaped in front of Dad as somebody opened up on him with an antipersonnel weapon and got shot a whole bunch for my troubles. |
 
 ---
 

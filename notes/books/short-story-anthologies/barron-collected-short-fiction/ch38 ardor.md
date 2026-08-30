@@ -161,24 +161,11 @@ Johnny Cope 在 1975 年 2 月的阿拉斯加飞机失事中幸存，回忆起�
 | bluefield | R. M. Bluefield（人名） | Victorian mystic |
 | renfield | Renfield（德古拉角色） | Stoker's Renfield character |
 | blood rites | 血液仪式 | immortality through blood rites |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -188,11 +175,10 @@ Johnny Cope 在 1975 年 2 月的阿拉斯加飞机失事中幸存，回忆起�
 | plane | 飞机 | the Beaver |
 | crash | 坠机 | I come to after the crash |
 | ghost | 鬼 | someone else's ghost |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| monster | 怪物 | His oeuvre mainly consisted of crappy black-and-white monster flicks that would’ve mildly entertained my twelve-year-old self. |
+| nightmare | 噩梦 | Obligingly, the world rolls over and shows its belly—    —I come to after the crash and call Conway’s name the way I sometimes do upon surfacing from a nightmare. |
+| blood | 血 | His particular interest lay in the notion that it might be obtained through certain blood rites or the consumption of animal organs. |
+| death | 死亡 | Think the sailing stones of Death Valley. |
 | wound | 伤口 | This wound won't close |
 
 ---

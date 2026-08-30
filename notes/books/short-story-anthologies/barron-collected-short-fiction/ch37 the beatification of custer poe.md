@@ -160,25 +160,11 @@ Custer Poe 是一个在阿拉斯加荒野生活的老人，他年轻时是南北
 | beatification | 列真福品（天主教仪式） | The Beatification of Custer Poe |
 | war of northern aggression | 北方侵略战争（南方视角的南北战争） | assassinated Mordecai Jefferson |
 | mordecai jefferson | Mordecai Jefferson（人名） | Captain Mordecai Jefferson |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,13 +172,11 @@ Custer Poe 是一个在阿拉斯加荒野生活的老人，他年轻时是南北
 |---|---|---|
 | bear | 熊 | beheld a bear |
 | assassin | 刺客 | I am an assassin |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| revenge | 复仇 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| ghost | 鬼 | Mama gave up the ghost after droppin’ the last of the litter and straight away Pappy got himself hitched to a sweet filly from Nashville. |
+| nightmare | 噩梦 | Well, I happened to open my eyes from a nightmare about bein’ scalped by a blue-belly regular and a whipcrack bolt of fire whizze... |
+| blood | 血 | Four of my brothers were rubbed out in saloon fights and blood feuds. |
+| death | 死亡 | We Poes trapped and hunted and brewed moonshine and was known far and wide as a mighty cantankerous clan that held onto a grudge like grim death. |
+| fear | 恐惧 | Johnston seemed a mite disappointed that my demeanor wasn’t more fearsome, but he wrote it all down in his little book. |
 | war | 战争 | the War of Northern Aggression |
 
 ---

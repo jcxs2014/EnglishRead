@@ -160,24 +160,14 @@ modified: "2026-08-30"
 | mysterium tremendum | 令人敬畏的奥秘（神学术语） | Title reference |
 | moderor de caliginis | 黑色指南（拉丁语） | Moderor de Caliginis |
 | kalamov dolmen | Kalamov 巨石碑 | the Kalamov Dolmen |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| subterranean | 地下的 | I crawled under the covers and slept, but not before I spent a few unhappy moments envisioning Tommy lying in subterranean darkness, his legs shattered. |
+| ichor | 神之血液 | Sunless seas of warm ichor sloshed with the gravitational spin of those hollow, lightless worlds, spoiled yolks within eggshells. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
 | esoteric | 秘传的 | secret attractions, hidden places |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
 | fossil | 化石 | a blackened bone |
 
 ### ⭐ 基础
@@ -192,8 +182,7 @@ modified: "2026-08-30"
 | forest | 森林 | flying above an endless forest |
 | cave | 洞穴 | a cave that swallowed me whole |
 | tomb | 坟墓 | the tomb on the Olympic Peninsula |
-| nightmare | 噩梦 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
+| monster | 怪物 | “Maybe the monsters enslave the ones they don’t eat,” he said in a half-serious manner. |
 
 ---
 

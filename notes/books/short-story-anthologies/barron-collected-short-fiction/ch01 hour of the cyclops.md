@@ -174,14 +174,9 @@ modified: "2026-08-30"
 |---|---|---|
 | siphon | 抽吸；虹吸 | they siphoned the blood from my body |
 | arcane | 秘密的；神秘的 | certain, shall we say arcane, experiments |
-| nocturnal | 夜间的 | （未出现在原文） |
 
-| coagulate | 凝结 | （未出现在原文） |
 | subterranean | 地下的 | the infinite seep of subterranean water |
-| egress | 出口；离开 | （未出现在原文） |
 
-| labyrinthine | 迷宫般的 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -189,14 +184,11 @@ modified: "2026-08-30"
 |---|---|---|
 | rescue | 救援 | Here to rescue the virgin, hmm? |
 | chains | 锁链；镣铐 | I dangled from rusty chains |
-| corpse | 尸体 | （未出现在原文） |
 | sacrifice | 献祭；牺牲 | the Virgin Offering |
-| priest | 祭司 | （未出现在原文） |
 | torture | 酷刑；折磨 | the best torments your febrile brain can devise |
 | cavern | 洞穴；洞窟 | a deep dark cavern |
 | altar | 祭坛 | an altar was erected near the water's edge |
 | agony | 剧痛 | a game to occupy my conscious in agonies past |
-| destiny | 命运 | （未出现在原文） |
 
 ---
 

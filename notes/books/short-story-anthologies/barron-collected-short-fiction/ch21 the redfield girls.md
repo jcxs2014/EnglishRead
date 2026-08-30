@@ -159,26 +159,11 @@ modified: "2026-08-30"
 |---|---|---|
 | redfield girls | Redfield 女孩们 | the Redfield Girls |
 | lady of the lake | 湖中女士 | she was the Lady of the Lake |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -191,9 +176,8 @@ modified: "2026-08-30"
 | dream | 梦 | I had a really bizarre dream |
 | murder | 谋杀 | the murder |
 | forest | 森林 | the woods |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+| ghost | 鬼 | Dad barbequed and told ghost stories, because that's what one did when one spent a long, lonely night near the water. |
+| nightmare | 噩梦 | Uncertain how to respond, she resisted the temptation to confide her own nightmares. |
 
 ---
 

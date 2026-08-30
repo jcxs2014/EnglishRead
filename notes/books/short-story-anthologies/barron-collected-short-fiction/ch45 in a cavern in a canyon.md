@@ -160,25 +160,11 @@ modified: "2026-08-30"
 | good samaritan | 好撒玛利亚人 | Husband number one referred to me as the Good Samaritan |
 | midnight road | 午夜路 | drove north along Midnight Road |
 | eagle talon | Eagle Talon | we lived in Eagle Talon |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +173,12 @@ modified: "2026-08-30"
 | dog | 狗 | Orlando the dog |
 | father | 父亲 | my father disappeared |
 | forest | 森林 | birch and alder |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| darkness | 黑暗 | （未出现在原文） |
+| monster | 怪物 | I get bombed enough, or stoned enough, I ask if anybody else has heard of the Help Me Monster. |
+| nightmare | 噩梦 | I won’t bore you with the nightmares that got worse and worse with time. |
+| blood | 血 | By pale, I mean bone-white and bloodless. |
+| death | 死亡 | Fool dog would be the death of me, or so I suspected. |
+| fear | 恐惧 | There were worse things than porcupines in these woods—black bears, angry moose, wolves—and I feared my precious idiot would run into one of them. |
+| darkness | 黑暗 | Clouds drifted in and the darkness was so complete it wrapped us in a cocoon. |
 
 ---
 

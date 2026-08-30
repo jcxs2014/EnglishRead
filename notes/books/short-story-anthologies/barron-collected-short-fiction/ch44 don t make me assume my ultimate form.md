@@ -160,25 +160,12 @@ Delia Dolores Andersen（ aka Dee Dee Gamma）是一个珠宝劫匪，在一次�
 | black kaleidoscope | 黑色万花筒 | before the Black Kaleidoscope takes over |
 | ultimate form | 终极形态 | Don't Make Me Assume My Ultimate Form |
 | gamma rays | 伽马射线 | burst into a fountain of gamma rays |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| ichor | 神之血液 | The ichor of the cosmos drowns your senses. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +173,11 @@ Delia Dolores Andersen（ aka Dee Dee Gamma）是一个珠宝劫匪，在一次�
 |---|---|---|
 | criminal | 罪犯 | career criminal |
 | partner | 搭档 | your partner |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| violence | 暴力 | （未出现在原文） |
-| transformation | 转变 | （未出现在原文） |
+| blood | 血 | You stepped in blood to collect the prize and you leave a trail. |
+| death | 死亡 | ...gured a way to construct a pocket-sized death-ray.”    Mace: “Or the kitten will be up another tree.”    Sloan: “We ennoble t... |
+| ghost | 鬼 | Now you’ve got the case with the diamonds and you’re cat-footing through the ghost-lighted lobby for the doors. |
+| fear | 恐惧 | He seems fearful. |
+| violence | 暴力 | Could be an occasion for violence. |
 
 ---
 

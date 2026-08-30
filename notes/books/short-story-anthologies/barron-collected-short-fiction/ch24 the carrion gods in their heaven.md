@@ -159,26 +159,13 @@ Lorna 和她的情人 Miranda 躲进了华盛顿州山区的 Haugstad 小屋，�
 |---|---|---|
 | carrion gods | 腐肉之神 | Title reference |
 | haugstad | Haugstad（人名） | Haugstad cabin |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | Tucked away as a footnote, the author included a few esoteric quotes and bits of trivia; among these were comments by the Chief Medical Examiner who'd overseen the autopsies. |
+| fossil | 化石 | The Haugstad Cabin was practically a fossil and possessed of a dark history that Miranda hinted at, but coyly refused to disclose. |
 
 ### ⭐ 基础
 
@@ -186,14 +173,12 @@ Lorna 和她的情人 Miranda 躲进了华盛顿州山区的 Haugstad 小屋，�
 |---|---|---|
 | wolf | 狼 | A wolf howled |
 | cabin | 小屋 | Haugstad cabin |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| love | 爱 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
+| ghost | 鬼 | The ghost of old man Haugstad didn't speak to Lorna; instead, her dreams transported her to the barren slopes above the tree line of the valley. |
+| fear | 恐惧 | Bruce was a vengeful man, and Lorna feared him the way she might fear a hurricane, a volcano, a flood. |
+| love | 爱 | Two weeks prior, Lorna had fled into the wilderness to an old hunting cabin with her lover Miranda. |
+| death | 死亡 | What in the heck compelled you to scamper around in a deathtrap in the middle of the woods? |
 | hunter | 猎人 | hunter's blind |
-| skin | 皮 | （未出现在原文） |
+| skin | 皮 | She was tall; her hair long and burnished auburn, her skin dusky and unblemished. |
 
 ---
 

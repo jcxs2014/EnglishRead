@@ -160,25 +160,18 @@ Conrad Navarro 寻找失踪的 FBI 特工姐姐 Imogene，她正在追捕可能�
 | the light is the darkness | 光就是黑暗 | Title reference |
 | drake | Drake（人名/博士） | Dr. Drake |
 | cryptozoic | 隐生的 | Cryptozoic bacteria |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| subterranean | 地下的 | Later, when the other drunks were migrating in pods and the bartender began to sadly sweep, Conrad made it to his feet and drifted down the long corridor of swollen, subterranean murk to his room. |
+| ichor | 神之血液 | Are you prepared to become a superhuman, my boy?”    The cathode dilated and spewed ichor of the gods into his veins. |
+| psychosis | 精神病 | Dad was in his cups, straddling the border of utter psychosis, thus when he explained the nature of his research, his hypotheses regarding Dr. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | ...rought books he’d requested; the musty, esoteric kinds of tomes hoarded in the trunks of Far Eastern antiquarians, many of them ... |
+| paranoia | 偏执狂 | Alas, I am compelled by reasons of appetite and paranoia to abscond with the young man. |
+| fugue | 神游状态 | ...d through the frame, reshaped his pagan fugue into the sterile thrum of a modern world full of telephone poles and bellied wi... |
+| fossil | 化石 | ...dities: Cryptozoic bacteria writ large, fossilized palm fronds of ages when blood-warm oceans and perpetual fog wrapped hemisp... |
 
 ### ⭐ 基础
 
@@ -187,13 +180,13 @@ Conrad Navarro 寻找失踪的 FBI 特工姐姐 Imogene，她正在追捕可能�
 | sister | 姐姐 | his sister Imogene |
 | brother | 哥哥 | his brother Ezra |
 | island | 岛屿 | remote Polynesian island |
-| glacier | 冰川 | （未出现在原文） |
-| ice | 冰 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
+| glacier | 冰川 | Marty Cardinal and Dorsey chuckled and the glacier receded. |
+| ice | 冰 | He’d practice with the heavy weapons: chains, mauls, the Visigoth axes, the great iron mace f... |
+| ghost | 鬼 | Lately, Conrad wasn’t sure whether he was chasing Imogene or her ghost. |
+| monster | 怪物 | He let that monster eat our brother to advance some goddamned occult hypothesis. |
+| nightmare | 噩梦 | ...onally, shadows and mist coalesced into nightmares of massive tendrils uncoiling from a vast and dreamless void, and visions of a... |
+| fear | 恐惧 | Project TALLHAT, I think.” He waited for a flicker of recognition, of fear or surprise, but the agents just stared like fish. |
+| death | 死亡 | ...Drake’s decade long absence as proof of death (he’d been older than the oldest Nazi war criminals last anyone saw him in publ... |
 
 ---
 

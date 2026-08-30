@@ -160,25 +160,12 @@ modified: "2026-08-30"
 | supercolony | 超群落（蚂蚁） | a supercolony of ants |
 | entomologist | 昆虫学家 | an entomologist |
 | mangrove | 红树林 | mangrove forests |
-| fugue | 神游状态 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | tarantula | 塔兰托毒蛛 | a tarantula from the box |
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| schizophrenic | 精神分裂的 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -192,8 +179,8 @@ modified: "2026-08-30"
 | film | 电影；拍摄 | a documentary filmmaker |
 | friend | 朋友 | old friend Toshi |
 | ant | 蚂蚁 | ants that outnumber |
-| hunter | 猎人 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
+| hunter | 猎人 |  |
+| monster | 怪物 | A monster of a house, yet somehow hunched upon itself. |
 
 ---
 

@@ -159,26 +159,12 @@ modified: "2026-08-30"
 |---|---|---|
 | men from porlock | Porlock 的人 | Title reference |
 | slango camp | Slango 营地 | Slango Camp |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+| subterranean | 地下的 | "Them sonsabitches snatched Thad!"    As if in response to the light, a faint, ghostly moan echoed up the passage from great subterranean depths. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +173,11 @@ modified: "2026-08-30"
 | camp | 营地 | Slango Camp |
 | forest | 森林 | the deep forest |
 | hunter | 猎人 | hunting party |
-| wolf | 狼 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| soldier | 士兵 | （未出现在原文） |
+| ghost | 鬼 | "Oh, they's a passel o' ghosts an' evil spirits, an' sich," Bane said, again glancing into the night. |
+| monster | 怪物 | Miller was fine with that arrangement—all day yesterday the Pole worked with him on an eight-foot saw, a misery whip, to take down an old monster cedar. |
+| nightmare | 噩梦 | He was focused upon the nightmare taking shape in his mind. |
+| fear | 恐惧 | However, something within him, perhaps the resident animal, empathized with the kid's fear. |
+| death | 死亡 | They didn't send an official death notice until several weeks after the funeral, which I could not attend. |
 
 ---
 

@@ -162,23 +162,12 @@ modified: "2026-08-30"
 | old ones | 古老存在 | heralds of the Old Ones |
 | flagellant | 苦行信徒 | The flagellants march |
 | openers of the way | 道路的开启者 | Openers of the Way |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| fossil | 化石 | ...tew while my former brain contracts and fossilizes to the approximate size of a walnut and adopts an entirely new set of opera... |
 
 ### ⭐ 基础
 
@@ -192,8 +181,7 @@ modified: "2026-08-30"
 | worm | 虫子 | the worm that has turned |
 | blood | 血液 | blood and gore |
 | death | 死亡 | death's-head |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
+| monster | 怪物 | What kind of monsters eat Yokohama and leave Tokyo standing? |
 
 ---
 

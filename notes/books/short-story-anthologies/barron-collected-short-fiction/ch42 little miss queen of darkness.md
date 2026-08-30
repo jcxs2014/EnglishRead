@@ -160,25 +160,11 @@ modified: "2026-08-30"
 | queen of darkness | 黑暗女王 | Barron collection title |
 | blood eagle | 血鹰（北欧献祭） | price for betrayal is a blood eagle |
 | ouroboros | 咬尾蛇 | Is this the Ouroboros? |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +173,11 @@ modified: "2026-08-30"
 | ring | 戒指 | the ring is formed of thick strands |
 | party | 派对 | debutante ball |
 | blood | 血 | blood eagle |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| tunnel | 隧道 | （未出现在原文） |
-| cave | 洞穴 | （未出现在原文） |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | It has to be a nightmare because I instantly recognize the late 90s. |
+| death | 死亡 | The shank is set with the aforementioned gory gemstone that also, if you squint, resembles a death’s head in the way a thundercloud might resemble the skull of an angry god. |
+| tunnel | 隧道 | The unfinished basement with the raw earth and a tunnel that smells of mildew and dankness. |
+| cave | 洞穴 | The table is slightly concave. |
 
 ---
 

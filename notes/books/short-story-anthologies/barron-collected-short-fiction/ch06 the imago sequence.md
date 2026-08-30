@@ -161,11 +161,8 @@ modified: "2026-08-30"
 | parallax | 视差 | Parallax Alpha |
 | hominid | 类人猿；人科动物 | the location of this hominid |
 | ostracize | 排斥；放逐 | being labeled crackpots |
-| subterranean | 地下的 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| fossilize | 化石化 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
+| subterranean | 地下的 | Shot on black and white, it detailed a slab of rock, which I assumed was subterranean. |
+| fossilize | 化石化 | Do you think Ammon actually photographed a fossilized cave man?"    "That's absurd. |
 
 ### ⭐⭐ 进阶
 
@@ -175,10 +172,6 @@ modified: "2026-08-30"
 | shroud | 裹尸布；遮盖物 | Like the Shroud of Turin |
 | pictograph | 岩画；象形文字 | pictographs carved |
 | Paleolithic | 旧石器时代的 | Paleolithic characters |
-| esoteric | 秘传的 | （未出现在原文） |
-| nocturnal | 夜间的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -190,9 +183,7 @@ modified: "2026-08-30"
 | museum | 博物馆 | the Seattle Art Museum |
 | face | 面孔 | a face waiting to be born |
 | artist | 艺术家 | educated savage |
-| journalist | 记者 | （未出现在原文） |
-| detective | 侦探 | （未出现在原文） |
-| hunter | 猎人 | （未出现在原文） |
+| hunter | 猎人 |  |
 | cave | 洞穴 | A dung fire sputtered |
 
 ---

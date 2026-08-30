@@ -118,25 +118,11 @@ modified: "2026-08-30"
 | snorre | Snorre（男人名字） | the man |
 | spot | Spot（狗名字） | his gray, rheumy-eyed dog |
 | fallen rock | 坠落岩石 | Barron collection title |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -147,11 +133,6 @@ modified: "2026-08-30"
 | blood | 血 | Flakes of old blood |
 | snow | 雪 | it began to snow |
 | north | 北方 | North |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
 
 ---
 

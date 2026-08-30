@@ -164,8 +164,6 @@ modified: "2026-08-30"
 | subterranean | 地下的 | The mountain is nicer, the shafts go so deep |
 
 | anthropoid | 类人的；像人的 | a fossilized anthropoid |
-| chattel | 动产；奴隶 | （未出现在原文） |
-| egress | 出口；离开 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
@@ -175,10 +173,7 @@ modified: "2026-08-30"
 | remote viewer | 远程观看者 | She's a remote viewer |
 
 | esoteric | 秘传的；只有内行才懂的 | esoteric anthropology |
-| liminal | 阈限的；处于过渡状态的 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
 
-| coagulate | 凝结 | （未出现在原文） |
 | subterranean | 地下的 | deep shafts scored the subterranean |
 
 

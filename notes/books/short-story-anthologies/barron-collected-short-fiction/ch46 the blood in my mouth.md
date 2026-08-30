@@ -160,25 +160,13 @@ modified: "2026-08-30"
 | blood in my mouth | 我嘴里的血 | Barron collection title |
 | lake iliamna | Lake Iliamna（阿拉斯加湖泊） | monsters swimming in Lake Iliamna |
 | dracula's brides | 德古拉的新娘 | witchiest-bitchiest of Dracula's brides |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| subterranean | 地下的 | Rob and Willy were moles recently emerged from a subterranean habitat: pale and soft and dressed in pajamas. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| fossil | 化石 | The fossil record of a typical childhood: Lite Brite and Etch-a-Sketch and stars painted on the ceiling; stacks of Cosmopolitan and Seventeen and a poster of Mick Jagger as a sweet young thing. |
 
 ### ⭐ 基础
 
@@ -187,13 +175,13 @@ modified: "2026-08-30"
 | father | 父亲 | my dad said when I was eleven |
 | blood | 血 | The taste of blood in my mouth |
 | death | 死亡 | I died this evening |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| violence | 暴力 | （未出现在原文） |
-| war | 战争 | （未出现在原文） |
-| lake | 湖 | （未出现在原文） |
+| monster | 怪物 | Pop swore there were monsters swimming in the depths of Lake Iliamna; a whole pod, big as whales—hell, as big as nuclear submarines. |
+| nightmare | 噩梦 | Wasn’t until much later that we were hanging around after Dad’s funeral and she got plastered on Scotch and confessed to having the same recurring nightmare during her own youth. |
+| ghost | 鬼 | Maybe it was Pop’s ghost a few years before the fact. |
+| fear | 恐惧 | ...oved north due to job opportunities and fear of earthquakes. |
+| violence | 暴力 | Violence gave him a measure of joy that he’d lost after the war ended and only discovered again in wilderness flight. |
+| war | 战争 | He dropped them with his .7mm, bang-bang, and we got busy skinning and quartering amid the swamp stink and the swarming bugs. |
+| lake | 湖 | Pop swore there were monsters swimming in the depths of Lake Iliamna; a whole pod, big as whales—hell, as big as nuclear submarines. |
 
 ---
 

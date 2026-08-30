@@ -159,25 +159,12 @@ Julie Vellum（ JV）在 1998 年回忆她高中最后一年——她父亲患�
 |---|---|---|
 | andy kaufman creeping through the trees | Andy Kaufman 穿过树木爬行 | Barron collection title |
 | friend camp | 朋友阵营 | Steely J resides in the friend camp |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| machiavellian | 马基雅维利式的 | Best part is, once I grew tits I magically became eligible for her Machiavellian advice, which she dispenses freely. |
 
 ### ⭐ 基础
 
@@ -186,12 +173,9 @@ Julie Vellum（ JV）在 1998 年回忆她高中最后一年——她父亲患�
 | father | 父亲 | Cancer is eating my father |
 | cancer | 癌症 | Cancer is eating my father alive |
 | friend | 朋友 | Steely J in the friend camp |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| blood | 血 | Got to propitiate them old black gods with rivers of blood, y’know. |
+| death | 死亡 | In the 1920s, missionaries brought it here from South American death cults. |
+| fear | 恐惧 | Rumor is, he gophers for them since he can pass for legal, has a boss fake ID, knows no fear, and, most importantly, is scruple-free. |
 | high school | 高中 | Senior year of high school |
 
 ---

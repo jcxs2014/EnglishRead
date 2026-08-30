@@ -160,25 +160,13 @@ Craven 是一个"流浪汉"，在 Deborah 的豪宅中生活，同时回忆起�
 | strident caller | 刺耳的呼唤者 | Barron collection title |
 | conversing with a barbed tongue | 用带刺的舌头交谈 | dream book title |
 | hammer film | Hammer Films（英国恐怖电影公司） | Hammer Film hybrid |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| ichor | 神之血液 | Strident Caller is like a needle that pierces the black membrane and sucks ichor of the devil gods. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | His library shelves creaked with leather-bound tomes of esoteric lore. |
 
 ### ⭐ 基础
 
@@ -187,12 +175,9 @@ Craven 是一个"流浪汉"，在 Deborah 的豪宅中生活，同时回忆起�
 | house | 房子 | Hammer Film house |
 | dream | 梦 | Deborah's dream |
 | book | 书 | old book with gilt lettering |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| blood | 血 | The marble fountain frothed—twin columns of nymphs supported a basin carved into the improbable likeness of a bloodthirsty ape. |
+| death | 死亡 | A brief mention in Variety also played the death coyly. |
+| fear | 恐惧 | The dog feared few things except storms. |
 | dog | 狗 | Artemis the pit bull |
 
 ---

@@ -161,24 +161,11 @@ modified: "2026-08-30"
 | hercules | 大力神 | The goldfish is named Hercules |
 | infernal dreadnaught | 深渊恐惧战列舰 | I am the custodian of an infernal dreadnaught |
 | demonic possession | 恶魔占有 | door number three: demonic possession |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,12 +174,12 @@ modified: "2026-08-30"
 | goldfish | 金鱼 | The goldfish is named Hercules |
 | father | 父亲 | My father killed me |
 | son | 儿子 | My twelve year-old son Larry |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | I had nightmares. |
+| blood | 血 | Ka-fucking-BOOM and White Fang got taken in two while my boy, covered in blood, described a snow angel with his convulsions. |
+| death | 死亡 | The gray wolf was caught fast in a leghold trap and had frozen to death. |
+| ghost | 鬼 | But, damn, the ghost of Yul Brynner must’ve haunted the machine. |
+| fear | 恐惧 | You give him an inferiority complex.”    “He’s a world class scientist.”    “Doesn’t mean he isn’t dumb enough to fear what he misunderstands.”    “But why?”    “He thinks you’re special. |
 | wolf | 狼 | The gray wolf |
 
 ---

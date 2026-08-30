@@ -158,26 +158,13 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | manitou | 曼尼图（神灵） | legends such as the Manitou |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
 | subterranean | 地下的 | the subterranean depths |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| paranoia | 偏执狂 | Don’t be so uptight.” Obviously, this served to heighten his paranoia. |
 
 ### ⭐ 基础
 
@@ -189,10 +176,10 @@ modified: "2026-08-30"
 | wall | 墙 | behind plaster |
 | voice | 声音 | strange and breathy voices |
 | ghost | 鬼 | ghost stories |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | Pershing fell asleep with his back against the mossy bole and was plunged into nightmares of stumbling through the foggy woods. |
+| fear | 恐惧 | It was a grave situation, although, that evening as the two camped in a steady downpour, embarrassment figured more prominently than fear of imminent peril. |
+| death | 死亡 | Her husband had drunk himself to death. |
 
 ---
 

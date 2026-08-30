@@ -159,26 +159,14 @@ modified: "2026-08-30"
 |---|---|---|
 | d.t. | 震颤谵妄/二重身理论 | Title reference |
 | doppelganger | 二重身 | I am the doppelganger |
-| arkham county | 阿克姆县 | （未出现在原文） |
+| arkham county | 阿克姆县 | –He was investigating a megalith in Arkham County. |
 | megalith | 巨石 | investigating a megalith |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | Working title D T, and damned if she could decipher from the increasingly esoteric text what that meant. |
 
 ### ⭐ 基础
 
@@ -186,14 +174,13 @@ modified: "2026-08-30"
 |---|---|---|
 | author | 作家 | The author was two decades older |
 | editor | 编辑 | The editor was young and wily |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| love | 爱 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| agent | 代理人 | （未出现在原文） |
-| stranger | 陌生人 | （未出现在原文） |
+| ghost | 鬼 | Ghosts and demons had come swooping from the wings to bear him away to Valhalla in a plume of fire. |
+| monster | 怪物 |  |
+| nightmare | 噩梦 | He’d once mentioned a nightmare of being buried to the neck in sand as the ocean tide came in while world-famou... |
+| love | 爱 | His lover, the editor, didn’t know how to help him. |
+| death | 死亡 | Her mostly untouched Long Island Ice Tea had sweated to death in the meanwhile. |
+| agent | 代理人 | The author was two decade’s older than the editor and had recently sent his agent novel number seven. |
+| stranger | 陌生人 | A stranger stepped from the haze. |
 
 ---
 

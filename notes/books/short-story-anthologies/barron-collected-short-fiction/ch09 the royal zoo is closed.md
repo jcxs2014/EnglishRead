@@ -158,27 +158,13 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | supernumerary | 冗员；多余的人 | HERE LIES A Supernumerary |
-| premonition | 预感；预兆 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| parallax | 视差 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+| subterranean | 地下的 | Remote and subterranean, a whale kept calling for its pod. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | Rorschach | 罗尔沙赫氏测验 | the Rorschach-eats-Escher quality |
-| psychosis | 精神病 | （未出现在原文） |
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -191,9 +177,6 @@ modified: "2026-08-30"
 | coffee | 咖啡 | He ordered coffee |
 | blood | 血液 | blood in his neck |
 | death | 死亡 | mass extinction |
-| dream | 梦 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
 
 ---
 

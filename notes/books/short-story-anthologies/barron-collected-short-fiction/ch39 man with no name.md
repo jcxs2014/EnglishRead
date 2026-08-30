@@ -161,24 +161,13 @@ Nanashi 是一个患有健忘症的日本黑帮成员，为 Heron 家族服务�
 | nanashi | Nanashi（日语"无名"） | protagonist's name |
 | heron | Heron 家族 | yakuza syndicate |
 | komodo | 科莫多巨蜥 | like the eyes of a Komodo |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+| subterranean | 地下的 | Nanashi wondered who’d betrayed his brothers to the Dragon; a passing thought not unlike a stray cloud floating across the subterranean sky. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| fossil | 化石 | He knew if archeologists dug into this hillside they’d unearth a fossil record of carnage that burrowed into the yawning mouth of antiquity. |
 
 ### ⭐ 基础
 
@@ -188,12 +177,12 @@ Nanashi 是一个患有健忘症的日本黑帮成员，为 Heron 家族服务�
 | dream | 梦 | Nanashi dreamed |
 | cave | 洞穴 | chamber hewn from rock |
 | finger | 手指 | pinky in a jar |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| monster | 怪物 | Such was the awful beauty of that particular monster. |
+| nightmare | 噩梦 | ...tried to convince myself that this is a nightmare.”    “Awake or dreaming, there’s no appreciable distinction.”    “Who are you? |
+| blood | 血 | This tribe allegedly practiced black magic and shrunk the heads of its enemies after drinking their blood and devouring their hearts. |
+| death | 死亡 | Why is that so difficult to remember in the present?”    “Because death and destruction follow the Man with No Name wherever he goes. |
+| ghost | 鬼 | Or ghosts made angry bird cries from the forest depths, urging trespassers to turn away,... |
+| fear | 恐惧 | He woke within the dream to splashing, the gurgle of water through pipes, and sat upright, convulsed with fear. |
 
 ---
 

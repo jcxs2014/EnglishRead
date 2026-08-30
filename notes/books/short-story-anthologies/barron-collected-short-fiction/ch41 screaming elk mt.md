@@ -161,24 +161,11 @@ Jessica Mace 在蒙大拿州 Screaming Elk 镇的酒吧中被认出是" Eagle Ta
 | femme fatale | 蛇蝎美人 | play the femme fatale |
 | dancing star | 舞蹈之星 | you're a dancing star |
 | gallows brothers carnival | 断头台兄弟马戏团 | Gallows Brothers Carnival |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +174,13 @@ Jessica Mace 在蒙大拿州 Screaming Elk 镇的酒吧中被认出是" Eagle Ta
 | bar | 酒吧 | tavern in Screaming Elk |
 | cowboy | 牛仔 | shitkicker |
 | carnival | 马戏团 | Gallows Brothers Carnival |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| violence | 暴力 | （未出现在原文） |
+| monster | 怪物 | No need for werewolves or shadow monsters.”    They exchanged unhappy glances. |
+| nightmare | 噩梦 | The Collected Short Fiction      Screaming Elk, MT    First published in Nightmare Carnival, September 2014    One night, a trucker dropped me at a tavern in Screaming Elk, MT, population 333. |
+| blood | 血 | But, I must admit, the crunch of the cowpoke’s jawbone and the fast-spreading blood on the scuffed floorboards thrilled me a little. |
+| death | 死亡 | Bad, very bad.” Over the stench of death, I whiffed something else, something born of musk, dank fur, sweat, and piss. |
+| ghost | 鬼 | Trap the ghost, or werewolf? |
+| fear | 恐惧 | Once Beasley and I got going he held back for fear of breaking me, the fool. |
+| violence | 暴力 | Violence, at least the threat of violence, is a rush. |
 
 ---
 

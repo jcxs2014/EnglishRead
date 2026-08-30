@@ -158,42 +158,30 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hand of glory | 光荣之手（用被绞死者的手制成的魔法蜡烛） | Title reference |
-| ransom hollow | Ransom Hollow（地名） | （未出现在原文） |
-| old scratch | 老魔鬼 | （未出现在原文） |
-| sisyphus | 西西弗斯 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+| ransom hollow | Ransom Hollow（地名） | ...ed in the charred ruins of a mansion in Ransom Hollow, Washington:    That buffalo charges across the eternal prairie, mad black eye ... |
+| old scratch | 老魔鬼 | The photographer is Old Scratch's left hand man. |
+| sisyphus | 西西弗斯 | That poor buffalo is Sisyphus without the stone, without the hill, without a larger sense of futility. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| esoteric | 秘传的 | Father's store of esoteric theory. |
+| paranoia | 偏执狂 | "I hope your animal paranoia serves you well all the days of your life. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gangster | 黑帮 | Johnny Cope was a gangster |
-| father | 父亲 | （未出现在原文） |
-| gun | 枪 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| war | 战争 | （未出现在原文） |
+| father | 父亲 | 1925         This is the house my father built stone by stone in Anno Domini 1898. |
+| gun | 枪 | Dad didn't stop to think about the gun being a one-shot rig-he took three strides and whacked her in the back of the head with the mattock handle. |
+| blood | 血 | Blood foams at its muzzle. |
+| death | 死亡 | Death's blue-eyed boy himself, like Mr. |
+| ghost | 鬼 | ...nt, and thank Holy Mother Mary it was a ghost town from the shelling or else I'd have been ventilated inside of twenty paces. |
+| monster | 怪物 | Wily monsters, the Corning women. |
+| fear | 恐惧 | Fear is a second heartbeat, my following shadow. |
+| war | 战争 | Hell of a housewarming. |
 
 ---
 

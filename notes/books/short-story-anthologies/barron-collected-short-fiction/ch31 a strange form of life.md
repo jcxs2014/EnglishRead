@@ -160,25 +160,11 @@ modified: "2026-08-30"
 | a strange form of life | 一种奇怪的生命形式 | Title reference |
 | great dark | 伟大的黑暗 | The Great Dark's bootlickin' servants |
 | skin walkers | 皮肤行者 | Indians got skin walkers |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -188,12 +174,8 @@ modified: "2026-08-30"
 | guard | 守卫 | the guard |
 | convict | 囚犯 | the convict |
 | demon | 恶魔 | They were demons |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| darkness | 黑暗 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| monster | 怪物 | —Monsters don’t need no brand of religion to do what they do. |
+| darkness | 黑暗 | Here the darkness was almost complete except for the distant glow of a lamp at the intersection. |
 
 ---
 

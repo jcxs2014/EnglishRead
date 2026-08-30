@@ -161,39 +161,25 @@ modified: "2026-08-30"
 | termination dust | 终止尘 | sourdoughs call it |
 | constant reader | 亲爱的读者 | Stephen King reference |
 | andy kaufman | Andy Kaufman（人名） | Andy Kaufman is alive |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+| fugue | 神游状态 | I experienced the fugue as an exploding kaleidoscope of imagery. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | killer | 杀手 | constant reader |
-| hunter | 猎人 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
+| hunter | 猎人 |  |
+| monster | 怪物 | Except instead of going passive, I turned into a monster, waited twenty-plus years, and went on a killing spree. |
+| blood | 血 | Deputy Newcastle found a lot of blood in Langtree’s bed, though. |
+| death | 死亡 | He’s the king of death.” This was overheard at the packed Caribou Creek Tavern on a Friday night about thirty seconds before bartender Lonnie DeForrest tossed his sorry ass out onto a snowbank. |
+| ghost | 鬼 | His ghost makes itself known. |
 | snow | 雪 | Termination dust |
-| fear | 恐惧 | （未出现在原文） |
+| fear | 恐惧 | He’s also afraid to mention his invisible friend to anyone for fear of enforced medical leave and/or reassignment to a desk in the city. |
 | village | 村庄 | Eagle Talon village |
 
 ---

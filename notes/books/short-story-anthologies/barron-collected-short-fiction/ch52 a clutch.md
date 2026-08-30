@@ -161,24 +161,11 @@ modified: "2026-08-30"
 | left hand path | 左边路径（黑魔法） | Five days along the Left Hand Path |
 | jon foot | Jon Foot（巫师名） | warlock Jon Foot |
 | black forest | 黑森林 | Emperor's Highway ended a few leagues south of the Black Forest |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -187,13 +174,13 @@ modified: "2026-08-30"
 | uncle | 叔叔 | her uncle |
 | deathbed | 临终 | deathbed confession |
 | forest | 森林 | Black Forest |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| witch | 女巫 | （未出现在原文） |
+| monster | 怪物 | Artists render him as a monster: red eyes, spiked horns, a death’s head. |
+| nightmare | 噩梦 | Nightmares lashed me, surely as Vanger’s whip. |
+| blood | 血 | You were my father’s blood returned home at our darkest hour. |
+| death | 死亡 | Death whetted his culling knife out in the night gloom, ready to cut another soul off at the knees. |
+| ghost | 鬼 | I will reside here, an unfamiliar ghost of myself, alone. |
+| fear | 恐惧 | “I don’t take your meaning.”    “I fear it will come to you.”         When I was young, the Emperor’s Highway ended a few leagues south of the Black Forest. |
+| witch | 女巫 | King Mingy’s mother died birthing him and he was raised by a witch from the Far East. |
 
 ---
 

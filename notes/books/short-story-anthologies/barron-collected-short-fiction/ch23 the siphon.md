@@ -157,28 +157,13 @@ modified: "2026-08-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| roache enterprises | Roache 企业 | （未出现在原文） |
-| siphon | 虹吸管 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+| roache enterprises | Roache 企业 | Around Halloween of 1989, he accepted a job as a field representative with another Wichita firm called Roache Enterprises. |
+| siphon | 虹吸管 | The Collected Short Fiction      The Siphon    First published in Blood and Other Cravings, September 2011    Lancaster gra... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -186,14 +171,14 @@ modified: "2026-08-30"
 |---|---|---|
 | spy | 间谍 | Lancaster was an NSA asset |
 | company | 公司 | Roache Enterprises |
-| hunter | 猎人 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| dream | 梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| devil | 恶魔 | （未出现在原文） |
+| hunter | 猎人 |  |
+| ghost | 鬼 | "Except for ghosts. |
+| monster | 怪物 | Lamias, vorvolakas, lycanthropes, the Loch Ness Monster-"    "Rakshasa."    "Yes, Rakshasa. |
+| nightmare | 噩梦 | He would awaken from such nightmares and grope for the special wooden box in its secret place in the dresser. |
+| dream | 梦 | Later that institutional light would seep into Lancaster's dreams. |
+| fear | 恐惧 | Diamond as he suspected she'd fear the excessive display of Midwest provincialism. |
+| death | 死亡 | ...ht in the wake of 9/11 and the untimely deaths of forty-seven Roache employees who'd staffed an office in the North Tower, he... |
+| devil | 恶魔 | The Devil staring at him from the pit? |
 
 ---
 

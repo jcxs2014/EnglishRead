@@ -160,25 +160,16 @@ modified: "2026-08-30"
 | procession | 行列；队伍 | Procession Of The Black Sloth |
 | sloth | 树懒；懒惰 | Procession Of The Black Sloth |
 | demeter | 得墨忒耳（希腊大地女神） | Demeter Lounge |
-| supernumerary | 冗员 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+| subterranean | 地下的 | ...f intention, a shibboleth that spoke of subterranean things; and some late nights, he spied their movements in the courtyard as they... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | espionage | 间谍活动 | corporate espionage |
-| paranoia | 偏执狂 | （未出现在原文） |
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
+| paranoia | 偏执狂 | Hyper-sensitivity, too much liquor and caffeine, cigarettes and lack of sleep coupled paranoia and mania to birth a form of high-functioning schizophrenia. |
+| esoteric | 秘传的 | She was a dilettante spiritualist who'd managed some travel and vacillated between Buddhism, Taoism and more esoteric systems according to whim. |
+| schizophrenia | 精神分裂症 | Hyper-sensitivity, too much liquor and caffeine, cigarettes and lack of sleep coupled paranoia and mania to birth a form of high-functioning schizophrenia. |
 
 ### ⭐ 基础
 
@@ -190,9 +181,9 @@ modified: "2026-08-30"
 | apartment | 公寓 | the Lord Raleigh Arms |
 | bathroom | 浴室 | The rear facilities were vacant |
 | blood | 血液 | black ooze |
-| death | 死亡 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
+| death | 死亡 | Such were the hazards of his occupation; alongside venereal disease from liaisons with barflies and unscrupulous prostitutes, and death or imprisonment at the hands of disgruntled foreign interests. |
+| monster | 怪物 |  |
+| ghost | 鬼 | ...changeable way of babies; they were the ghosts of teachers, librarians and neighbors who'd populated his childhood, although ... |
 
 ---
 

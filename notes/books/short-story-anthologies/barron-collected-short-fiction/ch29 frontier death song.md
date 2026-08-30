@@ -160,40 +160,27 @@ modified: "2026-08-30"
 | frontier death song | 边境死亡之歌 | Title reference |
 | the hunt | 狩猎 | The Hunt is eternal |
 | huntsman | 猎手 | the Huntsman |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+| psychosis | 精神病 | That eldritch psychosis leached from them into me, gathered in effluvial dankness in the back of my throat, lay on my tongue as a foul taint. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hunter | 猎人 | the Huntsman |
-| ghost | 鬼魂 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+| ghost | 鬼魂 | All those forgotten or ignored wounds blooming in a chorus of ghostly pain, reminders of longstanding debts, reminders that a man can’t always outrun provenance. |
+| monster | 怪物 | Graham’s powerful, he’s a spirit, or a monster, whatever. |
+| nightmare | 噩梦 | The Collected Short Fiction      Frontier Death Song    First published in Nightmare Magazine, October 2012    Night descended on Interstate-90 as I crossed over into the Badlands. |
 | snow | 雪 | Snow was falling thick |
 | death | 死亡 | Death agreed with some people |
-| dog | 狗 | （未出现在原文） |
-| demon | 恶魔 | （未出现在原文） |
-| hell | 地狱 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+| dog | 狗 | Years ago, when I raced sled dogs for a living, I knew a fellow named Steven Graham, a disgraced lit professor from the University of Colorado. |
+| demon | 恶魔 | The Devil’s smoke demons on the hunt. |
+| hell | 地狱 | Not simply a horn, but one that could easily be imagined as the hollowed relic from a giant, perverted ram with blood-specked foam lathering its muzzle and hellfire beaming from its eyes. |
+| fear | 恐惧 | ..., instead of expressing bewilderment or fear for my sanity, Jack just said, “Right. |
 
 ---
 
