@@ -119,4 +119,3 @@ notes/books/tags
 notes/books/**/*.DS_Store
 
 scripts/fix_angelic.py
-COLABORATION.md
