@@ -3,104 +3,173 @@
 modified: "2026-08-30"
 ---
 
-# 20. The Transparent Alias Of William Wilson, Sportsman And Scoundrel（威廉·威尔逊的透明别名：运动员与无赖 / 1985）
+# 20. The Transparent Alias of William Wilson, Sportsman and Scoundrel（威廉·威尔逊的透明别名 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：同名者与驱逐——「Hounded beyond all human endurance」
-
-① William Wilson has a namesake who looks exactly like him, walks like him, and is equal in any game of wits. They first meet at Dr. Bransbys school for boys, in England. There Wilson's namesake is constantly thwarting his designs, challenging his superior status among their peers, and on the whole making things difficult for him. Hounded beyond all human endurance, William Wilson one night takes leave of the school, aborting his academic career but at least ridding himself of his obnoxious twin.
-
-中文理解：威廉·威尔逊有个同名者，长得与他分毫不差、走姿相同、在任何斗智游戏里都与他势均力敌。他们初遇于英格兰 Bransby 博士男校。在那儿，同名者不断挫败他的图谋、挑战他在同侪间的优越地位，总之处处给他使绊。被逼到超出常人忍耐的极限，威廉·威尔逊某夜离校而去，中止了学业，但至少摆脱了那讨人厌的双生。
-
-句子结构：主句 William Wilson has a namesake + 三个并列谓（looks / walks / is equal）+ They first meet… + There 主句（namesake is thwarting / challenging / making things difficult）+ 分词短语 Hounded beyond all human endurance 作原因 + 主句 William Wilson takes leave… aborting… but at least ridding himself。
-
-关键词：namesake（同名者）、equal in any game of wits（斗智势均力敌）、thwarting his designs（挫败他的图谋）、superior status（优越地位）、Hounded beyond all human endurance（被逼超常忍限）、obnoxious twin（讨人厌的双生）
-
-表达方式：用「equal in any game of wits」把双生写成镜像竞争者；「Hounded beyond all human endurance」把逃亡写成被自己逼走。
-
-为什么这样写：Ligotti 先立经典的 doppelgänger 框架，但把「恶人逃离良知」写得像逃离一个太像自己的室友——降低崇高、抬升荒诞，为后文「良知归来」埋线。
+William Wilson 在学校被一个同名者不断挑战，长大后这个同名者持续干涉他的放荡生活，最终 Wilson 用剑杀死了他——但临死的同名者预言他杀死的只是他自己，后来这个鬼魂从死里复活，告诉他「这个地方的运转完全靠摩擦原理」，而 Wilson 把他砍成碎片喂狗后，自己因停不下来的笑而饿死。
 
 ---
 
-### 第2处：四处破坏——「to put a damper on his debauched parties」
+## 精读（10处）
 
-① Later on, however, Wilson's namesake intrudes upon his life at the most inopportune times: to put a damper on his debauched parties at Eton by reminding him that immoderate and late hours are bad for the soul; to expose his cheating at cards at Oxford; and overall to meddle in his nefarious affairs in most of the major cities of Europe (including, of all places, Moscow).
+### 第1处：两个 William Wilson——「看起来完全一样，走路一样，在任何智慧游戏中平等」
 
-中文理解：然而后来，威尔逊的同名者在最不合时宜的时刻闯入他的人生：在伊顿用「过度与熬夜伤魂」的提醒，给他放荡的宴会泼冷水；在牛津揭穿他打牌作弊；总之在他欧洲多数大城（包括偏是莫斯科）的卑劣勾当里插手。
+> **原句 1:** William Wilson has a namesake who looks exactly like him, walks like him, and is equal in any game of wits.
 
-句子结构：Later on 起 + namesake intrudes upon his life at the most inopportune times + 冒号后三个 to 不定式并列（to put a damper / to expose / and overall to meddle）+ 括号插入（including, of all places, Moscow）。
+中文理解：威廉·威尔逊有一个同名者，看起来完全和他一样，走路一样，在任何智慧游戏中都平等。
 
-关键词：intrudes upon his life（闯入他的人生）、most inopportune times（最不合时宜的时刻）、put a damper on（泼冷水）、debauched parties（放荡的宴会）、nefarious affairs（卑劣勾当）
+句子结构：William Wilson has a namesake 是主谓宾；who looks exactly like him, walks like him, and is equal in any game of wits 是定语从句。
 
-表达方式：用「including, of all places, Moscow」的喜剧式插入，把全球追踪写成滑稽的跟踪狂叙事。
+关键词：a namesake（同名者）、looks exactly like him（看起来完全一样）、is equal in any game of wits（在任何智慧游戏中平等）
 
-为什么这样写：良知被写成一位跨洲尾随的管家式人物——既崇高（阻止堕落）又恼人（永不缺席）。Ligotti 借此消解坡原作的严肃，把「良心」喜剧化、又让它无处不在。
+表达方式：两个 Wilson 的「平等」是全篇的张力所在——他们无法分出胜负，这种永恒的平等是 Wilson 痛苦的根源。
 
----
-
-### 第3处：决斗与遗言——「William Wilson has killed only himself」
-
-① Eventually there is a showdown with swords between the two William Wilsons, and William Wilson, the original, wins. Before he dies, the bloodied namesake utters the awesome pronouncement that William Wilson has killed only himself, not to mention all hopes of ever becoming a sane and decent individual.
-
-中文理解：终于，两个威廉·威尔逊以剑决斗，正本的威廉·威尔逊胜出。死前，那染血的同名者吐出可畏的断言：威廉·威尔逊杀的只是他自己，更别提杀掉了成为健全正派之人的所有希望。
-
-句子结构：Eventually 起 + there is a showdown with swords + and 主句 the original wins + Before he dies 时间从句 + 主句 the bloodied namesake utters the awesome pronouncement that（同位从句 William Wilson has killed only himself…）。
-
-关键词：showdown with swords（以剑决斗）、the original（正本的）、bloodied namesake（染血的同名者）、awesome pronouncement（可畏的断言）、killed only himself（杀的只是自己）、sane and decent individual（健全正派之人）
-
-表达方式：用「killed only himself」把胜利翻成自杀——赢家才是死者。
-
-为什么这样写：坡原作的金句在此被直接引用并坐实：杀掉良知=杀掉自己。Ligotti 让这句话成为后文「孪生者归来」的伏笔——你以为杀完了，其实没杀完。
+为什么这样写：这是经典的「分身」主题——Wilson 与他的分身无法共存，因为他们的存在互相否定。
 
 ---
 
-### 第4处：死而复归——「back from the dead」
+### 第2处：无法忍受的骚扰——「超出人类耐受极限」
 
-① While he's writing, there's a knock at the door. At first Wilson doesn't bother to answer it (write, Wilson, write), but the knocking is so persistent that he finally does. Standing in the doorway, dripping wet from the storm outside and suddenly illuminated by a flash of lightning, is William Wilson's namesake, back from the dead.
+> **原句 2:** Hounded beyond all human endurance, William Wilson one night takes leave of the school, aborting his academic career but at least ridding himself of his obnoxious twin.
 
-中文理解：他写作时，门外有叩声。起初威尔逊懒得应（写吧，威尔逊，写吧），但敲门声如此执拗，他终是开了。立在门道里、被门外暴雨淋得湿透、又忽被一道闪电照亮的，是威廉·威尔逊的同名者——死而复归。
+中文理解：在超出人类耐受极限的骚扰下，威廉·威尔逊有一天晚上离开学校，中断了他的学业，但也至少摆脱了他讨厌的分身。
 
-句子结构：While 从句 + there's a knock + At first Wilson doesn't bother + but 转折（the knocking is so persistent that he finally does）+ 倒装 Standing in the doorway… is William Wilson's namesake, back from the dead（插入 dripping wet… illuminated by a flash of lightning 作伴随）。
+句子结构：Hounded beyond all human endurance 是分词短语作状语；William Wilson one night takes leave of the school 是主句；aborting his academic career but at least ridding himself of his obnoxious twin 是分词状语。
 
-关键词：doesn't bother to answer（懒得应）、so persistent（如此执拗）、dripping wet from the storm（被暴雨淋透）、illuminated by a flash of lightning（被闪电照亮）、back from the dead（死而复归）
+关键词：Hounded beyond all human endurance（超出人类耐受极限的骚扰）、takes leave of the school（离开学校）、aborting his academic career（中断学业）、ridding himself of his obnoxious twin（摆脱讨厌的分身）
 
-表达方式：用「write, Wilson, write」的旁白式插入，把写作写成被鬼催稿；闪电照亮湿透的孪生者，是标准哥特亮相却带滑稽。
+表达方式：「obnoxious twin」是 Wilson 对他分身的称呼——他视分身为令人讨厌的，而不是他自我的另一面。
 
-为什么这样写：良知不是被杀死，只是「暂时离场」。Ligotti 让坡的结局失效——你杀的那具只是肉身，真正的同名者淋着雨回来了，带着更绝望的讯息。
-
----
-
-### 第5处：普遍堕落的启示——「the machinery of this place operates entirely on the principle of friction」
-
-① "I'm afraid you are wrong, so wrong," continues Wilson's exasperated namesake, shaking his blood- stained head. "It's not just you, it's everyone. You're just a little fish, my friend. You think you were out to get yourself, you think you were perverse. I don't want to play the alarmist, but I've been some places and seen some things and believe me there's nothing but perversity. The machinery of this place operates entirely on the principle of friction, my friend."
-
-中文理解：「恐怕你错了，大错特错，」威尔逊那恼火的同名者摇着血染的头继续道。「不止是你，是人人。你不过是小鱼，朋友。你以为你在毁自己，以为你变态。我本不想危言耸听，可我去过些地方、见过些事，信我，除了乖僻别无所有。这地方的机器，完全靠摩擦的原理运转，朋友。」
-
-句子结构：直接引语长段——"I'm afraid you are wrong" + continues 叙述 + shaking his blood-stained head + 引号内多句（It's not just you / You're just a little fish / You think… / I don't want to play the alarmist / there's nothing but perversity / The machinery of this place operates entirely on the principle of friction）。
-
-关键词：exasperated namesake（恼火的同名者）、blood-stained head（血染的头）、not just you, it's everyone（不止你，是人人）、little fish（小鱼）、nothing but perversity（除了乖僻别无所有）、machinery operates on the principle of friction（机器靠摩擦原理运转）
-
-表达方式：用「little fish」「machinery of friction」把存在之恶写成物理学——堕落不是个人选择，是世界的运转法则。
-
-为什么这样写：这是全篇的题眼。孪生者带回的不是「改过」的劝谕，而是「人人皆然、世界本恶」的虚无启示。Ligotti 把坡的个人良知剧扩成宇宙悲观论——你逃不掉的不是良心，而是普遍腐败。
+为什么这样写：Wilson 通过逃跑来解决问题——但他的分身不会消失，只会在其他地方重新出现。
 
 ---
 
-### 第6处：剁碎与饿死——「savagely hacks him to bits」/「starves to death」
+### 第3处：分身的干涉——「在剑桥、 Eton 、牛津、欧洲主要城市」
 
-① But William Wilson will not hear any more of this insanity. He's already suffered enough at the hands of his twin. Taking up his sword, Wilson attacks the specter and savagely hacks him to bits. ("There's my peace with you!" he shouts.) Then he goes around feeding the hunks of flesh to the dogs in the neighborhood, all the while admiring the simple hunger of the devouring beasts. William Wilson soon afterward starves to death, for when he returns home he finds that the thought of what he's done won't let him stop laughing long enough to take any nourishment, or even a drink of water.
+> **原句 3:** Later on, however, Wilson's namesake intrudes upon his life at the most inopportune times: to put a damper on his debauched parties at Eton by reminding him that immoderate and late hours are bad for the soul; to expose his cheating at cards at Oxford; and overall to meddle in his nefarious affairs in most of the major cities of Europe (including, of all places, Moscow).
 
-中文理解：可威廉·威尔逊不愿再听这疯话。他已在孪生者手里受够。抄起剑，威尔逊扑向那幽影，野蛮地将其剁成碎块。（「这便是我与你的和平！」他喊。）随后他四下把肉块喂给邻里的狗，一边始终欣赏那些吞噬之兽单纯的饥饿。不久后威廉·威尔逊饿死，因为回家后他发现，对自己所为之事的念头让他止不住狂笑，连片刻进食、甚至喝口水都做不到。
+中文理解：然而后来，威尔逊的同名者在他最不方便的时候干涉他的生活：在 Eton 打断他放荡的派对，提醒他无节制的深夜对灵魂有害；在牛津揭发他打牌作弊；总的来说，在欧洲大多数主要城市干涉他邪恶的事务（包括所有地方中的莫斯科）。
 
-句子结构：But 起 + will not hear + He's suffered enough + Taking up his sword 分词 + Wilson attacks and savagely hacks him to bits + 括号内直接引语 + Then 主句 feeding the hunks to the dogs + admiring the simple hunger + William Wilson starves to death + for 因果（the thought… won't let him stop laughing long enough to take nourishment）。
+句子结构：Later on, however, Wilson's namesake intrudes upon his life at the most inopportune times 是主句；to put a damper on his debauched parties… 是 intrudes 的同位语；to expose his cheating at cards at Oxford 是并列同位语；and overall to meddle in his nefarious affairs… 是并列同位语。
 
-关键词：will not hear any more of this insanity（不愿再听这疯话）、savagely hacks him to bits（野蛮剁成碎块）、There's my peace with you（这便是我与你的和平）、feeding the hunks of flesh to the dogs（把肉块喂狗）、simple hunger of the devouring beasts（吞噬之兽单纯的饥饿）、starves to death（饿死）、won't let him stop laughing（让他止不住狂笑）
+关键词：to intrude upon his life（干涉他的生活）、at the most inopportune times（在他最不方便的时候）、to put a damper on（打断）、to expose his cheating（揭发他的作弊）
 
-表达方式：用「admiring the simple hunger of the dogs」把暴行写成对「纯粹吞噬」的欣赏；结局「笑到无法进食」把疯狂收束成生理死因。
+表达方式：分身的「干涉」都是道德性的——他不是来帮助 Wilson 作恶，而是来阻止他。分身扮演的是 Wilson 的良心。
 
-为什么这样写：终局点题——Wilson 拒绝「人人皆恶」的启示，用更彻底的暴力回应，却因自己的暴行笑到饿死。Ligotti 的闭环：你越想杀死良知，良知越以「你终于成了它所说的人」的方式获胜。笑到饿死，是比鬼更空的结局——没有复仇者，只有自我消耗的虚无。
+为什么这样写：Ligotti 在这里反转了 Poe 的原版《威廉·威尔逊》——在 Poe 版本中，分身代表良心；在 Ligotti 版本中，分身仍然是良心，但 Wilson 的反应更加暴力。
+
+---
+
+### 第4处：剑的对决——「临死的同名者说出可怕的宣言」
+
+> **原句 4:** Eventually there is a showdown with swords between the two William Wilsons, and William Wilson, the original, wins. Before he dies, the bloodied namesake utters the awesome pronouncement that William Wilson has killed only himself, not to mention all hopes of ever becoming a sane and decent individual.
+
+中文理解：最终两个威廉·威尔逊之间有一次剑的对决，威廉·威尔逊，原版，赢了。在他死去之前，满身鲜血的同名者说出可怕的宣言：威廉·威尔逊只杀死了他自己，更不用说所有成为一个理智正派人士的希望了。
+
+句子结构：Eventually there is a showdown with swords between the two William Wilsons 是主句；and William Wilson, the original, wins 是并列主句；Before he dies 是时间状语从句；the bloodied namesake utters the awesome pronouncement 是主句；that William Wilson has killed only himself 是 pronouncement 的同位语从句；not to mention all hopes of ever becoming a sane and decent individual 是插入语。
+
+关键词：a showdown with swords（剑的对决）、the original（原版）、the bloodied namesake（满身鲜血的同名者）、the awesome pronouncement（可怕的宣言）
+
+表达方式：「not to mention all hopes of ever becoming a sane and decent individual」暗示杀死分身就是杀死自己向善的可能性。
+
+为什么这样写：这是全篇的核心悲剧——Wilson 杀死了他的良心，他杀死了他可能成为的「理智正派人士」。
+
+---
+
+### 第5处：鬼魂从死里复活——「从门外进来，满身湿透，被闪电照亮」
+
+> **原句 5:** Standing in the doorway, dripping wet from the storm outside and suddenly illuminated by a flash of lightning, is William Wilson's namesake, back from the dead.
+
+中文理解：站在门口，从外面的暴风雨中湿透，突然被一道闪电照亮的，是威廉·威尔逊的同名者，从死里复活了。
+
+句子结构：Standing in the doorway, dripping wet from the storm outside and suddenly illuminated by a flash of lightning 是分词短语作状语；is William Wilson's namesake 是倒装主系表；back from the dead 是 namesake 的同位语。
+
+关键词：Standing in the doorway（站在门口）、dripping wet（湿透）、illuminated by a flash of lightning（被闪电照亮）、back from the dead（从死里复活）
+
+表达方式：闪电照亮的鬼魂是典型的哥特式形象——暴风雨和闪电是超自然入侵的背景。
+
+为什么这样写：分身从死里复活这一事实证明了 Wilson 无法通过谋杀来消除他的良心——良心是永恒的。
+
+---
+
+### 第6处：「你只是个小人物」——「这个地方的运转完全靠摩擦原理」
+
+> **原句 6:** "You're just a little fish, my friend. You think you were out to get yourself, you think you were perverse. I don't want to play the alarmist, but I've been some places and seen some things and believe me there's nothing but perversity. The machinery of this place operates entirely on the principle of friction, my friend."
+
+中文理解：「你只是个小人物，我的朋友。你认为你在和自己作对，你认为你是反常的。我不想危言耸听，但我去过一些地方，见过一些事情，相信我，除了反常什么都没有。这个地方的运转完全靠摩擦原理，我的朋友。」
+
+句子结构：You're just a little fish, my friend 是直接引语；You think you were out to get yourself, you think you were perverse 是直接引语；I don't want to play the alarmist 是直接引语；but I've been some places and seen some things 是并列句；and believe me there's nothing but perversity 是并列句；The machinery of this place operates entirely on the principle of friction, my friend 是直接引语。
+
+关键词：a little fish（小人物）、to be out to get oneself（和自己作对）、perversity（反常）、The machinery of this place（这个地方的运转）、the principle of friction（摩擦原理）
+
+表达方式：「the principle of friction」是分身的哲学核心——这个世界的运转靠摩擦、冲突、矛盾，没有什么是和谐的。
+
+为什么这样写：这是 Ligotti 的宇宙悲观主义——世界本身就是反常的，个人的「反常」只是反映了宇宙的秩序。
+
+---
+
+### 第7处：「我已经失去了天堂的希望」
+
+> **原句 7:** "I've lost the hope of heaven," interjects William Wilson. "Heaven, forget heaven," replies the namesake. "Heaven will be when the big, brainless William Wilson has torn everything up so bad that it'll have to suck the whole mess back in and start over."
+
+中文理解：「我已经失去了天堂的希望，」威廉·威尔逊插话说。「天堂，忘了天堂吧，」同名者回答。「当天大的、无脑的威廉·威尔逊把一切都撕得太糟，以至于它不得不把整个烂摊子吸回去重新开始的时候，天堂才会到来。」
+
+句子结构：I've lost the hope of heaven 是直接引语；interjects William Wilson 是引述句；Heaven, forget heaven 是直接引语；replies the namesake 是引述句；Heaven will be when… 是直接引语；the big, brainless William Wilson has torn everything up so bad 是 when 的宾语从句；that it'll have to suck the whole mess back in and start over 是结果状语从句。
+
+关键词：the hope of heaven（天堂的希望）、the big, brainless William Wilson（天大的、无脑的威廉·威尔逊）、to tear everything up（把一切都撕碎）、to start over（重新开始）
+
+表达方式：「the big, brainless William Wilson」是分身对「宇宙/上帝」的描述——一个巨大的、愚蠢的存在，创造了混乱然后不得不清理。
+
+为什么这样写：这是 Ligotti 的宇宙论——宇宙本身是「brainless」（无脑的），它的运转没有目的或理智。
+
+---
+
+### 第8处：再次杀死——「他把鬼魂砍成碎片喂狗」
+
+> **原句 8:** Taking up his sword, Wilson attacks the specter and savagely hacks him to bits. ("There's my peace with you!" he shouts.) Then he goes around feeding the hunks of flesh to the dogs in the neighborhood, all the while admiring the simple hunger of the devouring beasts.
+
+中文理解：拿起他的剑，威尔逊攻击鬼魂，粗暴地把他砍成碎片。（「这是我和你的和平！」他喊道。）然后他在附近走来走去，把一块块肉喂给狗，一边欣赏着吞噬野兽的简单饥饿。
+
+句子结构：Taking up his sword 是分词状语；Wilson attacks the specter and savagely hacks him to bits 是主句；There's my peace with you! 是直接引语；he shouts 是引述句；Then he goes around feeding the hunks of flesh to the dogs 是并列谓语；all the while admiring the simple hunger of the devouring beasts 是分词状语。
+
+关键词：to take up his sword（拿起他的剑）、to hack him to bits（砍成碎片）、There's my peace with you（这是我和你的和平）、the simple hunger of the devouring beasts（吞噬野兽的简单饥饿）
+
+表达方式：「There's my peace with you」是讽刺——威尔逊用暴力来寻求「和平」，这本身就是矛盾的。
+
+为什么这样写：威尔逊把肉喂给狗——他欣赏狗的「简单饥饿」，这暗示他渴望一种没有道德约束的纯粹本能生活。
+
+---
+
+### 第9处：饥饿而死——「他停不下来的笑」
+
+> **原句 9:** William Wilson soon afterward starves to death, for when he returns home he finds that the thought of what he's done won't let him stop laughing long enough to take any nourishment, or even a drink of water.
+
+中文理解：威廉·威尔逊不久之后就饿死了，因为当他回到家时，他发现他对所做的事情的想法让他停不下来笑，无法摄取任何营养，甚至一口水都喝不了。
+
+句子结构：William Wilson soon afterward starves to death 是主句；for when he returns home he finds that… 是原因状语从句；the thought of what he's done won't let him stop laughing long enough to take any nourishment 是 that 的宾语从句。
+
+关键词：starves to death（饿死）、the thought of what he's done（他对所做的事情的想法）、won't let him stop laughing（让他停不下来笑）、to take any nourishment（摄取营养）
+
+表达方式：威尔逊的笑是「停不下来」的——这种笑可能是歇斯底里的，也可能是对自己行为的彻底绝望的否定。
+
+为什么这样写：这是全篇最黑暗的结局——威尔逊杀死了他的良心（分身），然后他的「笑」阻止他进食，最终饿死。这是一种精神自杀。
+
+---
+
+### 第10处：分身的最后一句话——「你杀死的只是你自己」
+
+> **原句 10:** "I've found out a few things since the last time we saw each other," Wilson's namesake begins. "You'll recall that I was always admonishing you to change your ways and so on and so forth? Well, I know now that my efforts were actually quite pointless. There was nothing I could do or you could do or anyone else."
+
+中文理解：「自从我们上次见面以来，我发现了一些事情，」威尔逊的同名者开始说。「你会记得我总是告谏你改变你的行为方式等等吧？好吧，我现在知道我的努力实际上是相当徒劳的。没有什么是我能做的或你能做的或任何其他人能做的。」
+
+句子结构：I've found out a few things since the last time we saw each other 是直接引语；Wilson的 namesake begins 是引述句；You'll recall that I was always admonishing you to change your ways and so on and so forth? 是直接引语；Well, I know now that my efforts were actually quite pointless 是直接引语；There was nothing I could do or you could do or anyone else 是直接引语。
+
+关键词：admonishing you to change your ways（告谏你改变你的行为方式）、quite pointless（相当徒劳的）
+
+表达方式：分身的「发现」是：改变是不可能的——这是一种决定论，暗示人的性格是固定的，无法被「良心」改变。
+
+为什么这样写：这是 Ligotti 对「良心」概念的最终质疑——良心是否有能力改变人的行为？分身的回答是「不能」。
 
 ---
 
@@ -109,37 +178,35 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| namesake | 同名者 | William Wilson has a namesake who looks exactly like him |
-| thwarting | 挫败；阻挠 | constantly thwarting his designs |
-| debauched | 放荡的 | put a damper on his debauched parties |
-| nefarious | 卑劣的；邪恶的 | meddle in his nefarious affairs |
-| pronouncement | 断言；宣告 | utters the awesome pronouncement |
-| perversity | 乖僻；反常 | there's nothing but perversity |
-| exasperated | 恼火的 | Wilson's exasperated namesake |
+|---------|------|------|
+| to be equal in any game of wits | 在任何智慧游戏中平等 | …and is equal in any game of wits. |
+| the awesome pronouncement | 可怕的宣言 | …the bloodied namesake utters the awesome pronouncement… |
+| to hack to bits | 砍成碎片 | Wilson attacks the specter and savagely hacks him to bits. |
+| the principle of friction | 摩擦原理 | The machinery of this place operates entirely on the principle of friction. |
+| to starve to death | 饿死 | William Wilson soon afterward starves to death… |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| hounded | 被追逼 | Hounded beyond all human endurance |
-| inopportune | 不合时宜的 | at the most inopportune times |
-| showdown | 决斗；对决 | a showdown with swords |
-| specter | 幽影 | attacks the specter and savagely hacks him |
-| nourishment | 营养；食物 | stop laughing long enough to take any nourishment |
+|---------|------|------|
+| to take leave of the school | 离开学校 | …one night takes leave of the school, aborting his academic career… |
+| an obnoxious twin | 讨厌的分身 | …ridding himself of his obnoxious twin. |
+| to put a damper on | 打断/泼冷水 | …to put a damper on his debauched parties at Eton… |
+| to expose his cheating | 揭发他的作弊 | …to expose his cheating at cards at Oxford… |
+| to meddle in one's affairs | 干涉某人的事务 | …to meddle in his nefarious affairs in most of the major cities of Europe… |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| twin | 双生 | ridding himself of his obnoxious twin |
-| sword | 剑 | a showdown with swords |
-| dead | 死的 | back from the dead |
-| dogs | 狗 | feeding the hunks of flesh to the dogs |
-| laugh | 笑 | won't let him stop laughing |
+|---------|------|------|
+| a namesake | 同名者 | William Wilson has a namesake who looks exactly like him… |
+| a showdown | 对决 | …there is a showdown with swords between the two William Wilsons… |
+| to back from the dead | 从死里复活 | …is William Wilson's namesake, back from the dead. |
+| to drip wet | 湿透 | …dripping wet from the storm outside… |
+| to feed to the dogs | 喂给狗 | …feeding the hunks of flesh to the dogs in the neighborhood… |
 
 ---
 
 ## 一句话总结
 
-> 一篇爱伦·坡《威廉·威尔逊》的反写续集：同名者屡破 Wilson 恶行，决斗中被杀却断言「你只杀了自己」；Wilson 写自传时死去的孪生者淋雨归来，告诉他「人人皆然、这世界机器全靠摩擦运转」，Wilson 不信、将幻影剁碎喂狗，终因止不住狂笑而饿死——「双重自我」改写成普遍堕落与自我消耗的存在恐怖。
+William Wilson 的一生被他的分身（良心）不断挑战，他两次用剑杀死分身，第二次更是砍成碎片喂狗，但他的笑停不下来使他最终饿死——分身的预言实现：「你杀死的只是你自己」，而宇宙的运转靠摩擦原理，没有救赎的可能。
