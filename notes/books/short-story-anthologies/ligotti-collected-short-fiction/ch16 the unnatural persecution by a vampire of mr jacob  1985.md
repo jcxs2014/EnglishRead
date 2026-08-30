@@ -3,104 +3,109 @@
 modified: "2026-08-30"
 ---
 
-# 16. The Unnatural Persecution, By A Vampire, Of Mr. Jacob J.（雅各布先生遭吸血鬼的非自然迫害 / 1985）
+# 16. The Unnatural Persecution, by a Vampire, of Mr. Jacob J.（吸血鬼对雅各布先生的不自然迫害 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：传闻与否认——「Have you heard about the vampire」
-
-① "Have you heard about the vampire, Mr. Jacob ?" she asks him, squinting in the bright afternoon sunlight. The girl goes on to describe the vampire and its activities as they in turn have been related to her, principally from eyewitness accounts. "Of course, I know all that," replies Mr. Jacob. "Well, see you tomorrow," he says crushing a cigarette underfoot. (He doesn't like his students to see him smoking if he can help it.)
-
-中文理解：「你听说那吸血鬼了吗，Jacob 先生？」她眯眼迎着午后烈日问他。女孩接着描述吸血鬼及其行径，那些说辞又是从别人那儿听来、主要来自目击者的。「我当然全知道，」Jacob 先生答。「那明天见，」他说着把烟踩灭。（只要能避免，他不愿让学生看见自己抽烟。）
-
-句子结构：直接引语开头 + she asks him + 现在分词 squinting… + The girl goes on to describe… as they have been related to her + "Of course, I know all that," replies Mr. Jacob + "Well, see you tomorrow," he says crushing a cigarette + 括号补充。
-
-关键词：Have you heard about the vampire（你听说那吸血鬼了吗）、squinting in the sunlight（眯眼迎烈日）、eyewitness accounts（目击者讲述）、crushing a cigarette underfoot（把烟踩灭）
-
-表达方式：用「踩灭烟」这一日常小动作写人物的体面与克制，与后文崩坏形成落差。
-
-为什么这样写：开场把吸血鬼当闲谈八卦处理——Jacob 的「我当然知道」是理性人的轻蔑。Ligotti 在此拆解哥特：恐怖起初只是流言，且被踩进土里。
+教师 Mr. Jacob 听说吸血鬼的传闻后整夜守在窗边手持十字架，最终吸血鬼离开后他反而陷入更深的偏执——整个夏天他喝得太多，有一天从窗口坠落身亡。
 
 ---
 
-### 第2处：夜不成寐——「somehow it seems as if he's just noticed this for the first time」
+## 精读（6处）
 
-① That night Mr. Jacob can't sleep. He knows this business with the vampire is just nonsense, but in the middle of the night certain things can get on your nerves that normally you wouldn't think twice about. He drags himself out of bed and opens the only window in his room. How quiet everything is at this hour. Somehow it seems as if he's just noticed this for the first time.
+### 第1处：「当然，我什么都知道」——理性主义者的傲慢
 
-中文理解：那夜 Jacob 先生无法入睡。他明知这吸血鬼之事纯属胡扯，可半夜时分，某些平日绝不会多想的东西会钻进你的神经。他拖自己下床，打开房内唯一的窗。这时刻一切多静。不知怎的，仿佛他是头一回注意到这寂静。
+> **原句 1:** "Have you heard about the vampire, Mr. Jacob?" she asks him, squinting in the bright afternoon sunlight. The girl goes on to describe the vampire and its activities as they in turn have been related to her, principally from eyewitness accounts. "Of course, I know all that," replies Mr. Jacob.
 
-句子结构：That night 起 + Mr. Jacob can't sleep + He knows… but 转折（certain things can get on your nerves）+ He drags himself + opens the window + How quiet… + Somehow it seems as if 从句。
+中文理解：「你听说过吸血鬼吗，雅各布先生？」她问他，在明亮的午间阳光下眯着眼睛。女孩继续描述吸血鬼及其活动，这些都是她从目击者那里听来的。「当然，我什么都知道，」雅各布先生回答。
 
-关键词：just nonsense（纯属胡扯）、get on your nerves（钻进神经/惹人烦）、drags himself out of bed（拖自己下床）、the only window（唯一的窗）、just noticed this for the first time（头回注意到这）
+句子结构：Have you heard about the vampire, Mr. Jacob? 是疑问句；she asks him 是主谓宾；squinting in the bright afternoon sunlight 是分词状语；The girl goes on to describe the vampire and its activities… 是主句；as they in turn have been related to her 是方式状语；Of course, I know all that 是直接引语。
 
-表达方式：用「唯一的窗」把场景锁进一个窄口，用「头回注意到寂静」把日常陌生化。
+关键词：squinting in the bright afternoon sunlight（在明亮的阳光下眯眼）、to have been related to（被讲述给）、eyewitness accounts（目击者的说法）
 
-为什么这样写：恐惧的开关不是怪物，而是「半夜对平日事物的重新知觉」。Ligotti 写的是理性人在寂静中自我瓦解——哥特的恐怖被内移到神经层面。
+表达方式：女孩的「眯眼」与「吸血鬼」形成对比——在阳光下吸血鬼不应该存在，但她的描述让 Mr. Jacob 开始怀疑。
 
----
-
-### 第3处：守夜与十字架——「a large crucifix across his lap」
-
-① Tonight Mr. Jacob is taking no chances. He sits by the sole window in his room hour after hour with a large crucifix across his lap. Every little while he forgets himself and dozes off, but each time he manages to startle his mind back to alertness with just one thought about the vampire.
-
-中文理解：今夜 Jacob 先生绝不冒险。他挨着房内那扇唯一的窗，一连数小时坐着，膝上横放一个大十字架。每隔一会儿他便忘我打盹，可每次都靠「只想吸血鬼一件事」把心神惊回清醒。
-
-句子结构：Tonight 起 + Mr. Jacob is taking no chances + He sits by the sole window hour after hour with a crucifix across his lap + Every little while 从句（forgets himself and dozes off）+ but each time 从句（manages to startle his mind back with one thought）。
-
-关键词：taking no chances（绝不冒险）、the sole window（唯一的窗）、hour after hour（一连数小时）、a large crucifix across his lap（膝上横放大十字架）、startle his mind back to alertness（把心神惊回清醒）
-
-表达方式：用「膝上横放十字架」这一滑稽又悲的守护姿势，写理性人向迷信投降。
-
-为什么这样写：crucifix 本是驱邪物，此刻却成 obsessive 的锚点——Jacob 用「想吸血鬼」来保持清醒，等于让恐惧当值守人。Ligotti 让护符变成执念的具象。
+为什么这样写：Mr. Jacob 的「当然，我什么都知道」是他的理性主义傲慢——他认为自己知道吸血鬼只是胡说，但这正是他即将被吸血鬼式恐惧所困扰的开始。
 
 ---
 
-### 第4处：身体的背叛——「coughs up some blood into his hand」
+### 第2处：深夜的觉醒——「他似乎第一次注意到这一切」
 
-① As the days go by, the situation worsens. Many more bodies are found drained of blood. Mr. Jacob hasn't had a decent rest since this terrible season of death began. All night long he sits gazing deep into the darkness beyond that idiotic little window. And he's smoking too much. One day he coughs up some blood into his hand—right in the middle of a grammar lesson!
+> **原句 2:** That night Mr. Jacob can't sleep. He knows this business with the vampire is just nonsense, but in the middle of the night certain things can get on your nerves that normally you wouldn't think twice about. He drags himself out of bed and opens the only window in his room. How quiet everything is at this hour. Somehow it seems as if he's just noticed this for the first time.
 
-中文理解：日子过去，情势恶化。更多尸体被发现吸干血。自这恐怖的死亡季开始，Jacob 先生就没好好休息过。整夜他坐着，凝望那扇蠢极的小窗外更深的黑暗。而他烟也抽得太凶。有一天，他竟在语法课中间，咳了些血到手上！
+中文理解：那天晚上雅各布先生睡不着。他知道吸血鬼这件事不过是胡说，但在深夜，某些平时你不会多想的事情会让人神经紧张。他把自己拖下床，打开房间里唯一的窗户。这个时候一切多么安静。不知怎么的，他似乎第一次注意到这一切。
 
-句子结构：As the days go by + 主句 worsens + Many more bodies are found + Mr. Jacob hasn't had rest + All night long he sits gazing + And he's smoking + One day he coughs up blood + 破折号插入（right in the middle of a grammar lesson）。
+句子结构：That night Mr. Jacob can't sleep 是主句；He knows this business with the vampire is just nonsense 是宾语从句；but in the middle of the night certain things can get on your nerves… 是并列句；He drags himself out of bed and opens the only window in his room 是并列谓语；How quiet everything is at this hour 是感叹句；Somehow it seems as if he's just noticed this for the first time 是主句。
 
-关键词：situation worsens（情势恶化）、drained of blood（吸干血）、decent rest（好好休息）、idiotic little window（蠢极的小窗）、coughs up some blood into his hand（咳血到手上）
+关键词：can't sleep（睡不着）、just nonsense（不过是胡说）、to get on your nerves（让人神经紧张）、to notice for the first time（第一次注意到）
 
-表达方式：用「语法课中间咳血」把荒诞感钉进最日常的现场——恐怖渗进教职。
+表达方式：深夜打开窗户是全篇的转折点——Mr. Jacob 开始「注意」他平时忽略的东西。这种「注意」是吸血鬼恐惧的开始。
 
-为什么这样写：Jacob 的身体开始替恐惧「出血」。烟、失眠、咳血构成一条生理崩坏链；「idiotic little window」这贬称，显出他与那扇窗已结成病态关系。
-
----
-
-### 第5处：虚惊与「false sense of security」
-
-① The next day there is good news. The vampire has moved on, everyone is safe once more. Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring. Children are singing for joy in the street. He suddenly closes the window and turns back toward his little room. For Mr. Jacob knows that everyone is suffering from a false sense of security. He stays on his guard. Night upon night he waits by the window, thinking one day the vampire will return….But for some reason she never does.
-
-中文理解：次日传来好消息。吸血鬼已离开，众人再次安全。Jacob 先生数周来头回在早春一个明媚清晨打开窗。街上孩童欢唱。他忽又关窗，转身回那小屋。因为 Jacob 先生知道，大家都陷在虚假的安全感里。他保持警戒。一夜复一夜他在窗边等，想着吸血鬼终有一日会归来……可不知为何，她从未回来。
-
-句子结构：The next day 起 + good news + The vampire has moved on + Mr. Jacob opens his window + Children are singing + He suddenly closes + For 因果（everyone is suffering from a false sense of security）+ He stays on guard + Night upon night he waits + thinking 从句 + But 转折（she never does）。
-
-关键词：moved on（已离开）、radiant morning（明媚清晨）、false sense of security（虚假的安全感）、stays on his guard（保持警戒）、she never does（她从未回来）
-
-表达方式：用「她从未回来」把悬念抽成空——恐惧的对象走了，恐惧本身留下。
-
-为什么这样写：核心反转让「吸血鬼」性别化为 she、且「never does」——怪物早不是问题，Jacob 自己成了永不撤退的守夜人。false sense of security 反用于他人，他困在自己造的警戒里。
+为什么这样写：Ligotti 在这里展示了理性主义者在面对「深夜的未知」时的脆弱——理性无法抵御黑暗本身。
 
 ---
 
-### 第6处：终局——「lost his balance and fell onto the street far below」
+### 第3处：验尸官的确认——「他无法准确指出」
 
-① Late that summer nobody in town is surprised to hear that one evening Mr. Jacob lost his balance and fell onto the street far below. He'd started drinking heavily, poor man. An unfortunate mishap… and just as autumn semester was to begin!
+> **原句 3:** The next day the reports about the vampire are verified by several honest and reliable persons. The body of a man from out of town was found that morning in his hotel room—drained of blood. Mr. Jacob, along with many others, concurs that he felt something strange was up the last few days...something, well, something he couldn't exactly put his finger on.
 
-中文理解：那年夏末，镇上无人惊诧地听说，有天晚上 Jacob 先生失足跌落到下方远处的街面。可怜的人，他近来酗酒成性。一场不幸的意外……偏偏就在秋季学期要开始时！
+中文理解：第二天，关于吸血鬼的报告被几个诚实可靠的人证实了。一个外地人的尸体那天早上在酒店房间里被发现——血被抽干了。雅各布先生和其他很多人一样，认同他感觉到过去几天有些奇怪的事情……某种他无法准确指出的东西。
 
-句子结构：Late that summer 起 + nobody is surprised to hear that 从句（Mr. Jacob lost his balance and fell onto the street far below）+ He'd started drinking + An unfortunate mishap + and just as 时间从句。
+句子结构：The next day the reports about the vampire are verified… 是主句；The body of a man… was found… drained of blood 是并列主句；Mr. Jacob, along with many others, concurs that… 是并列主句；something he couldn't exactly put his finger on 是 something 的定语从句。
 
-关键词：lost his balance（失足）、fell onto the street far below（跌到下方远处街面）、started drinking heavily（酗酒成性）、unfortunate mishap（不幸意外）、autumn semester was to begin（秋季学期将始）
+关键词：to be verified by several honest and reliable persons（被几个诚实可靠的人证实）、drained of blood（血被抽干了）、something he couldn't exactly put his finger on（无法准确指出的东西）
 
-表达方式：用旁观者的轻描淡写（「无人惊诧」「可怜的人」「偏偏」）把死写成例行公事。
+表达方式：「couldn't put his finger on」是固定表达——他知道有什么不对，但无法具体说清楚。这种「模糊的恐惧」比明确的威胁更折磨人。
 
-为什么这样写：终局没有吸血鬼、没有对决，只有酗酒失足——怪物从未来过，毁掉 Jacob 的是他自己的守夜。Ligotti 把哥特奇观压成一句市政讣告式的闲笔，恐怖在无事件里收尾。
+为什么这样写：吸血鬼的存在被「证实」了，但 Mr. Jacob 无法准确指出他的「感觉」是什么——这种不确定性是恐惧的根源。
+
+---
+
+### 第4处：十字架守夜——「每个小动作他都会惊醒」
+
+> **原句 4:** Tonight Mr. Jacob is taking no chances. He sits by the sole window in his room hour after hour with a large crucifix across his lap. Every little while he forgets himself and dozes off, but each time he manages to startle his mind back to alertness with just one thought about the vampire.
+
+中文理解：今晚雅各布先生不冒险。他坐在房间里唯一的窗户旁，一小时又一小时，膝上放着一个大十字架。每隔一小会儿他会忘记自己打瞌睡，但每次他都能用一个关于吸血鬼的念头把自己惊醒，恢复警觉。
+
+句子结构：Tonight Mr. Jacob is taking no chances 是主句；He sits by the sole window in his room hour after hour with a large crucifix across his lap 是主谓宾；Every little while he forgets himself and dozes off 是并列谓语；but each time he manages to startle his mind back to alertness with just one thought about the vampire 是并列谓语。
+
+关键词：taking no chances（不冒险）、hour after hour（一小时又一小时）、with a large crucifix across his lap（膝上放着大十字架）、to doze off（打瞌睡）
+
+表达方式：「with just one thought about the vampire」是讽刺——他用对吸血鬼的恐惧来防止自己睡着，这种「治疗」实际上是疾病的一部分。
+
+为什么这样写：Mr. Jacob 的「预防措施」变成了他的折磨——他用恐惧来对抗恐惧，结果只是加深了恐惧。
+
+---
+
+### 第5处：血液——「在语法课中间咳血」
+
+> **原句 5:** Many more bodies are found drained of blood. Mr. Jacob hasn't had a decent rest since this terrible season of death began. All night long he sits gazing deep into the darkness beyond that idiotic little window. And he's smoking too much. One day he coughs up some blood into his hand—right in the middle of a grammar lesson!
+
+中文理解：更多的尸体被发现血被抽干了。雅各布先生从这个可怕的死亡季节开始就没有好好休息过。他整夜坐在那里，凝视着那个愚蠢的小窗户之外的黑暗。他抽烟太多了。有一天他在语法课中间咳血到手上！
+
+句子结构：Many more bodies are found drained of blood 是并列主句；Mr. Jacob hasn't had a decent rest… 是并列主句；All night long he sits gazing deep into the darkness… 是并列谓语；And he's smoking too much 是并列句；One day he coughs up some blood into his hand 是并列句。
+
+关键词：drained of blood（血被抽干）、hasn't had a decent rest（没有好好休息）、to cough up some blood（咳血）
+
+表达方式：「idiotic little window」是 Mr. Jacob 对窗户的称呼——他知道窗户是他偏执的焦点，但他仍然无法离开它。
+
+为什么这样写：咳血是 Mr. Jacob 身体崩溃的信号——他的偏执正在杀死他，就像吸血鬼一样。
+
+---
+
+### 第6处：坠落——「他开始喝很多酒」
+
+> **原句 6:** Late that summer nobody in town is surprised to hear that one evening Mr. Jacob lost his balance and fell onto the street far below. He'd started drinking heavily, poor man. An unfortunate mishap... and just as autumn semester was to begin!
+
+中文理解：那年夏天晚些时候，听说有一天晚上雅各布先生失去平衡，摔到了下面的街道上，城里没有人感到惊讶。他开始喝很多酒，真可怜。一个不幸的意外……正好是秋季学期要开始的时候！
+
+句子结构：Late that summer nobody in town is surprised to hear that… 是主句；Mr. Jacob lost his balance and fell onto the street far below 是 that 的宾语从句；He'd started drinking heavily, poor man 是独立句；An unfortunate mishap 是独立句。
+
+关键词：to lose one's balance（失去平衡）、to fall onto the street far below（摔到下面的街道上）、to drink heavily（喝很多酒）、an unfortunate mishap（一个不幸的意外）
+
+表达方式：吸血鬼从未直接攻击 Mr. Jacob——他的「被害」是自我毁灭的，不是被吸血鬼杀死。结尾暗示他的死亡是「不幸的意外」，但实际上这是偏执的最终结果。
+
+为什么这样写：Ligotti 的讽刺在于——吸血鬼只是 Mr. Jacob 内心恐惧的投射，真正的怪物是他自己的偏执。
 
 ---
 
@@ -109,36 +114,35 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| persecution | 迫害 | The Unnatural Persecution, by a Vampire |
-| vampire | 吸血鬼 | Have you heard about the vampire |
-| eyewitness | 目击者 | principally from eyewitness accounts |
-| crucifix | 十字架 | a large crucifix across his lap |
-| alertness | 警觉；清醒 | startle his mind back to alertness |
-| drained of blood | 被吸干血 | Many more bodies are found drained of blood |
+|---------|------|------|
+| to get on your nerves | 让人神经紧张 | …certain things can get on your nerves that normally you wouldn't think twice about. |
+| to put one's finger on | 准确指出 | …something he couldn't exactly put his finger on. |
+| to take no chances | 不冒险 | Tonight Mr. Jacob is taking no chances. |
+| to startle one's mind back to alertness | 把思想惊醒恢复警觉 | …each time he manages to startle his mind back to alertness… |
+| to cough up blood | 咳血 | One day he coughs up some blood into his hand… |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| squinting | 眯眼 | squinting in the bright afternoon sunlight |
-| nonsense | 胡扯 | this business with the vampire is just nonsense |
-| dozes off | 打盹 | he forgets himself and dozes off |
-| decent | 像样的 | hasn't had a decent rest |
-| mishap | 意外；不幸 | An unfortunate mishap |
+|---------|------|------|
+| to be verified by | 被…证实 | …the reports about the vampire are verified by several honest and reliable persons. |
+| drained of blood | 血被抽干 | …found that morning in his hotel room—drained of blood. |
+| hour after hour | 一小时又一小时 | He sits by the sole window in his room hour after hour… |
+| to doze off | 打瞌睡 | Every little while he forgets himself and dozes off… |
+| to drink heavily | 喝很多酒 | He'd started drinking heavily, poor man. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| window | 窗 | the only window in his room |
-| blood | 血 | coughs up some blood into his hand |
-| night | 夜 | All night long he sits gazing |
-| children | 孩子们 | Children are singing for joy |
-| guard | 警戒 | He stays on his guard |
+|---------|------|------|
+| a vampire | 吸血鬼 | Have you heard about the vampire, Mr. Jacob? |
+| a crucifix | 十字架 | …with a large crucifix across his lap. |
+| to gaze into the darkness | 凝视黑暗 | All night long he sits gazing deep into the darkness… |
+| to lose one's balance | 失去平衡 | Mr. Jacob lost his balance and fell onto the street far below. |
+| an unfortunate mishap | 一个不幸的意外 | An unfortunate mishap… |
 
 ---
 
 ## 一句话总结
 
-> 一篇「吸血鬼恐慌」市井改写：青年教师 Mr. Jacob 本不信传闻，却在夜不成寐中守着十字架枯坐数夜、咳血、日渐癫狂；吸血鬼离去后他仍不敢松懈，终某夜醉酒失足坠街而死——哥特怪物被写成一场由恐惧自身执行的心理迫害，怪物从未真正到场。
+Mr. Jacob 用理性主义否认吸血鬼的存在，却在深夜打开窗户后陷入偏执——整夜守在窗边手持十字架、抽烟太多、咳血，最终在吸血鬼离开后因饮酒过度而从窗口坠落，吸血鬼从未真正出现在他的生活中，是他自己的恐惧杀死了他。

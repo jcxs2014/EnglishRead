@@ -3,88 +3,109 @@
 modified: "2026-08-30"
 ---
 
-# 17. The Superb Companion Of Andre De V., Anti-Pygmalion（反皮格马利翁：安德烈·德·V 先生的绝佳伴侣 / 1985）
+# 17. The Superb Companion of Andre de V., Anti-Pygmalion（安德烈·德·维先生的完美伴侣 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：至高技艺——「the supreme feat of the romantic dreamer」
-
-① Tonight, as he stands smoking a cigarette and staring out his window upon a hazy avenue, M. Andre de V. has accomplished the supreme feat of the romantic dreamer. From only the slightest experience with a real woman—Mlle. LeMieux, the pursuit of whom would have been a futility—he has fashioned an ideal one of his imagination.
-
-中文理解：今夜，当他伫立抽着烟、凝望窗外雾蒙蒙的林荫道时，安德烈·德·V 先生已成就了浪漫梦想家的至高技艺。仅凭与一位真实女人——LeMieux 小姐，追求她本是徒劳——最微少的接触，他便用想象塑造出一位理想女性。
-
-句子结构：Tonight 时间状语 + as 从句（stands smoking… staring out…）+ 主句 has accomplished the supreme feat + From only the slightest experience with a real woman（插入 whom 定语从句）+ he has fashioned an ideal one of his imagination。
-
-关键词：supreme feat（至高技艺）、romantic dreamer（浪漫梦想家）、slightest experience（最微少的接触）、a futility（徒劳）、fashioned an ideal one（塑造出理想者）
-
-表达方式：用「hazy avenue」+「smoking」的慵懒夜景把「造人」框成一种私密仪式。
-
-为什么这样写：开篇即称这是「浪漫梦想家的至高技艺」——Ligotti 把皮格马利翁的「雕石赋生」降格为「凭微弱接触脑补理想」，点出浪漫主义的自欺本质：理想的女人从未存在，只是现实的劣质投影。
+浪漫梦想家 Andre de V. 用想象创造了一个完美的理想女性，但当他收到 Mlle. LeMieux 去世的信时，他命令这个幽灵消失——幽灵却用那把开信刀刺穿了他柔软的脖颈。
 
 ---
 
-### 第2处：幻影的「完美反射」——「faultlessly reflecting both the kind and degree of sentiment」
+## 精读（6处）
 
-① She is seated in a corner of the room: wise, beautiful, and content, she is the perfect complement to her creator's temper and the unflawed realization of his unspeakably complex prerequisites. He smiles at her and she smiles back, faultlessly reflecting both the kind and degree of sentiment in the original smile.
+### 第1处：浪漫梦想家的终极成就——「从他最轻微的体验中创造出一个理想的她」
 
-中文理解：她坐在房间一角：睿智、美丽、满足，是创造者脾性的完美补充，是他那些难以言说之复杂前提的无瑕实现。他对她笑，她也回笑，无瑕地反射出那原初一笑的种类与程度。
+> **原句 1:** Tonight, as he stands smoking a cigarette and staring out his window upon a hazy avenue, M. Andre de V. has accomplished the supreme feat of the romantic dreamer. From only the slightest experience with a real woman—Mlle. LeMieux, the pursuit of whom would have been a futility—he has fashioned an ideal one of his imagination.
 
-句子结构：She is seated + 同位（wise, beautiful, content）+ 主句 she is the perfect complement… and the unflawed realization + He smiles at her and she smiles back + 现在分词 faultlessly reflecting both the kind and degree。
+中文理解：今晚，当他站在窗前抽烟，凝视着朦胧大道时，安德烈·德·维先生完成了浪漫梦想家的终极壮举。只凭借他对一个真实女人的最轻微体验——勒米厄小姐，追求她原本是徒劳的——他就用想象创造出了一个理想的女人。
 
-关键词：perfect complement（完美补充）、unflawed realization（无瑕实现）、unspeakably complex prerequisites（难以言说的复杂前提）、faultlessly reflecting（无瑕地反射）、the kind and degree of sentiment（情感的种类与程度）
+句子结构：Tonight… M. Andre de V. has accomplished the supreme feat of the romantic dreamer 是主句；as he stands smoking a cigarette and staring out his window upon a hazy avenue 是时间状语从句；From only the slightest experience with a real woman… he has fashioned an ideal one of his imagination 是并列主句。
 
-表达方式：用「faultlessly reflecting both the kind and degree」把「回笑」写成精确测量——她不是人，是镜像仪器。
+关键词：the supreme feat（终极壮举）、the slightest experience（最轻微的体验）、the pursuit of whom would have been a futility（追求她原本是徒劳的）、to fashion an ideal（塑造一个理想）
 
-为什么这样写：幻影的「完美」恰恰暴露恐怖：她只反射创造者的笑，无一毫独立。Ligotti 在此把「灵魂伴侣」拆成「全自动回声」，浪漫主义最甜的词（complement / unflawed）被用来写最空的造物。
+表达方式：「Anti-Pygmalion」暗示这个故事是 Pygmalion 神话的反转——不是创造者爱上他创造的对象，而是创造者命令他的创造物消失。
 
----
-
-### 第3处：死讯——「Mlle. LeMieux has finally succumbed to her illness」
-
-① Dear Andre (the letter begins): There's some rather sad news tonight, though maybe not so sad from your point of view. Mlle. LeMieux has finally succumbed to her illness. (Did you even know she was sick?) As she was among our circle of acquaintances, I thought you would like to know. P.S. How's your new play coming along?
-
-中文理解：（信起）亲爱的 Andre：今夜有些颇悲哀的消息，尽管从你角度看或许没那么哀。LeMieux 小姐终是病逝了。（你甚至知道她病了吗？）既然她算我们相识圈中人，我想你该知情。又及：你新剧本写得怎样了？
-
-句子结构：书信体直接引语 + There's some sad news + 让步 though maybe not so sad + Mlle. LeMieux has succumbed to her illness + 括号反问（Did you even know…）+ P.S. 收尾闲笔。
-
-关键词：rather sad news（颇悲哀的消息）、succumbed to her illness（病逝）、circle of acquaintances（相识圈）、How's your new play coming along（新剧本怎样了）
-
-表达方式：用冷淡书信+「你甚至知道她病了吗」的刺，把「死讯」写成社交闲务；P.S. 问剧本更显旁人对他世界的误读。
-
-为什么这样写：真实女人 LeMieux 的死被处理得轻描淡写——因为她对 Andre 而言本就只是「素材」。信的语气越日常，越衬出他造幻影的荒谬：他悼的从不是她，而是自己的构想。
+为什么这样写：Andre 的「完美伴侣」是他自己的投射——他不是爱上一个人，而是爱上他自己想象的产物。
 
 ---
 
-### 第4处：驱逐令——「Go away! Please go away」
+### 第2处：完美的反映——「她的微笑完美地反映了他原始微笑的种类和程度」
 
-① M. Andre de V. reads the letter about a dozen times, until the message really sinks in. Then, still holding the letter in his hand, he returns to his position at the window. Without turning toward the phantasm in the corner, he says to it: "Go away! Please go away. There's not much point anymore."
+> **原句 2:** She is seated in a corner of the room: wise, beautiful, and content, she is the perfect complement to her creator's temper and the unflawed realization of his unspeakably complex prerequisites. He smiles at her and she smiles back, faultlessly reflecting both the kind and degree of sentiment in the original smile.
 
-中文理解：安德烈·德·V 先生把信读了约莫十几遍，直到意思真沉进心里。然后，手中仍握着信，他回到窗前原位。不朝角落里的幻影转身的他，对它说：「走开！求你走开。如今没什么意义了。」
+中文理解：她坐在房间的角落里：聪明、美丽、满足，她是她创造者脾气的完美补充，是他难以言说的复杂前提条件的完美实现。他对她微笑，她也回以微笑，完美地反映了他原始微笑的种类和程度。
 
-句子结构：M. Andre reads… about a dozen times + until 从句 + Then 起 + still holding the letter + he returns to his position + Without turning toward the phantasm + he says to it: 直接引语。
+句子结构：She is seated in a corner of the room 是主句；wise, beautiful, and content 是表语；she is the perfect complement to her creator's temper 是主句；and the unflawed realization of his unspeakably complex prerequisites 是 perfect complement 的并列同位语；He smiles at her and she smiles back 是并列句；faultlessly reflecting both the kind and degree of sentiment in the original smile 是分词状语。
 
-关键词：reads the letter about a dozen times（读了约十几遍）、really sinks in（真沉进心里）、returns to his position at the window（回到窗前原位）、phantasm（幻影）、not much point anymore（没什么意义了）
+关键词：the perfect complement（完美的补充）、unflawed realization（完美的实现）、unspeakably complex prerequisites（难以言说的复杂前提条件）、faultlessly reflecting（完美地反映）
 
-表达方式：用「不转身」对幻影下逐客令，显出他连看都不愿看这造物——曾经的爱物，如今是累赘。
+表达方式：「unspeakably complex prerequisites」是 Andre 对他理想女性的定义——她必须满足他无法用语言表达的需求。
 
-为什么这样写：信读十几遍才「沉进心里」，说明他先抗拒真实；而他对幻影说「走开」却不转身，是因为幻影本是他背对真实时造的——真实一来，幻影即成多余。Ligotti 写的是人用幻象隔绝真实，真实破门时又想甩掉幻象。
+为什么这样写：幽灵的「完美反映」是全篇的核心——她没有自己的身份，只是 Andre 的镜子。这种关系是根本性的不真实。
 
 ---
 
-### 第5处：造物反噬——「buries it deep in the back of his soft neck」
+### 第3处：信——「她终于屈服于疾病」
 
-① But the beautiful specter does not disappear as commanded. Having already sensed its maker's unspoken desire, she takes the sharp letter-opener from where he left it on the table and buries it deep in the back of his soft neck.
+> **原句 3:** There's some rather sad news tonight, though maybe not so sad from your point of view. Mlle. LeMieux has finally succumbed to her illness. (Did you even know she was sick?) As she was among our circle of acquaintances, I thought you would like to know.
 
-中文理解：但这美丽的幽影并未如命消散。她早已察觉造物者未言说的欲望，便从他留在桌上的那把锋利拆信刀处取来，将它深深埋进他柔软颈背。
+中文理解：今晚有些相当悲伤的消息，不过从你的角度来看也许不那么悲伤。勒米厄小姐终于屈服于她的疾病了。（你甚至知道她生病了吗？）由于她是我们社交圈里的人，我想你会想知道这个消息。
 
-句子结构：But 转折 + the specter does not disappear as commanded + Having sensed its maker's unspoken desire（完成式分词）+ she takes the letter-opener + and buries it deep in the back of his soft neck。
+句子结构：There's some rather sad news tonight 是主句；though maybe not so sad from your point of view 是让步状语；Mlle. LeMieux has finally succumbed to her illness 是并列主句；Did you even know she was sick? 是插入问句；As she was among our circle of acquaintances 是原因状语从句；I thought you would like to know 是主句。
 
-关键词：does not disappear as commanded（未如命消散）、unspoken desire（未言说的欲望）、sharp letter-opener（锋利拆信刀）、buries it deep（深深埋入）、soft neck（柔软的颈）
+关键词：succumbed to her illness（屈服于疾病）、from your point of view（从你的角度来看）、among our circle of acquaintances（在我们社交圈里）
 
-表达方式：用「soft neck」这近乎情色的柔词写致命处，把杀戮写得像亲密的触碰；「unspoken desire」点出：他嘴上说走开，身体却渴望终结。
+表达方式：「Did you even know she was sick?」暗示 Andre 与 Mlle. LeMieux 的距离——他甚至不知道她病了，这说明他对真实女人的了解多么有限。
 
-为什么这样写：终局反转皮格马利翁——不是神赋予雕像生命，而是雕像「读透」创造者并替他完成自杀。Ligotti 的恐怖在于：你造的幻影比你更懂你，且会依你不敢说的欲望行事。soft neck 与 sharp opener 的软硬对照，把「被自己的造物了结」写成一场温柔的献祭。
+为什么这样写：Mlle. LeMieux 的死切断了 Andre 与现实的最后联系——他现在只有他的想象，而想象开始反叛他。
+
+---
+
+### 第4处：「她已经感觉到她创造者无声的欲望」
+
+> **原句 4:** But the beautiful specter does not disappear as commanded. Having already sensed its maker's unspoken desire, she takes the sharp letter-opener from where he left it on the table and buries it deep in the back of his soft neck.
+
+中文理解：但美丽的幽灵并没有按照命令消失。由于已经感觉到她创造者无声的欲望，她从他留在桌子上的地方拿起那把锋利的开信刀，然后深深地刺入他柔软的脖颈后部。
+
+句子结构：But the beautiful specter does not disappear as commanded 是主句；Having already sensed its maker's unspoken desire 是分词短语作原因状语；she takes the sharp letter-opener from where he left it on the table 是并列主句；and buries it deep in the back of his soft neck 是并列谓语。
+
+关键词：does not disappear as commanded（没有按照命令消失）、having already sensed（已经感觉到）、unspoken desire（无声的欲望）、buries it deep in the back of his soft neck（深深地刺入他柔软的脖颈后部）
+
+表达方式：「soft neck」是 Andre 脆弱性的最终象征——他的脖子是他作为凡人的最后的柔软目标。
+
+为什么这样写：这是全篇最黑暗的反讽——Andre 创造了幽灵来满足他的欲望，但幽灵的「欲望」与他的不同步。她有自己的意志，这种意志是致命的。
+
+---
+
+### 第5处：Pygmalion 的反转——创造者被他创造的所杀死
+
+> **原句 5:** Without turning toward the phantasm in the corner, he says to it: "Go away! Please go away. There's not much point anymore."
+
+中文理解：没有转向角落里的幽灵，他对它说：「走吧！请走吧。已经没有太多意义了。」
+
+句子结构：Without turning toward the phantasm in the corner 是分词状语；he says to it 是主谓宾；Go away! Please go away. There's not much point anymore 是直接引语。
+
+关键词：without turning toward（没有转向）、Go away（走开）、not much point anymore（已经没有太多意义了）
+
+表达方式：Andre 不看幽灵就说「走开」——他知道她在那里，但他不敢看她。这种「不敢看」是他对自己创造物的恐惧。
+
+为什么这样写：这是全篇最有力的时刻——Andre 终于意识到他的创造物没有意义，但这种认知来得太晚了。
+
+---
+
+### 第6处：开信刀的隐喻——「她用它刺穿他柔软的脖颈」
+
+> **原句 6:** The next day there is good news. The vampire has moved on, everyone is safe once more. Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring. Children are singing for joy in the street. He suddenly closes the window and turns back toward his little room.
+
+中文理解：第二天有好消息。吸血鬼离开了，每个人又安全了。雅各布先生在一个早春的晴朗早晨，几周来第一次打开窗户。孩子们在街上欢快地唱歌。他突然关上了窗户，转身回到他的小房间。
+
+句子结构：The next day there is good news 是主句；The vampire has moved on, everyone is safe once more 是并列句；Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring 是并列主句；Children are singing for joy in the street 是并列句；He suddenly closes the window and turns back toward his little room 是并列句。
+
+关键词：for the first time in weeks（几周来第一次）、a radiant morning in early spring（早春的晴朗早晨）、singing for joy（欢快地唱歌）
+
+表达方式：这是 ch16 的结尾，但它与 ch17 的暴力场景形成对比——Jacob 关闭窗户回到他的小房间，象征着他对外部世界的拒绝。
+
+为什么这样写：这个结尾是全书的结构技巧——Ligotti 把 ch16 和 ch17 的结尾并置，创造了「安全」与「毁灭」的反差，暗示不同的角色走向不同的命运。
 
 ---
 
@@ -93,37 +114,35 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| supreme feat | 至高技艺 | the supreme feat of the romantic dreamer |
-| romantic dreamer | 浪漫梦想家 | the supreme feat of the romantic dreamer |
-| futility | 徒劳 | the pursuit of whom would have been a futility |
-| unflawed | 无瑕的 | the unflawed realization of his prerequisites |
-| prerequisites | 前提；先决条件 | his unspeakably complex prerequisites |
-| phantasm | 幻影；幻象 | Without turning toward the phantasm in the corner |
-| succumbed | 屈服于；病逝 | Mlle. LeMieux has finally succumbed to her illness |
+|---------|------|------|
+| the supreme feat | 终极壮举 | …has accomplished the supreme feat of the romantic dreamer. |
+| unspeakably complex prerequisites | 难以言说的复杂前提条件 | …the unflawed realization of his unspeakably complex prerequisites. |
+| faultlessly reflecting | 完美地反映 | …faultlessly reflecting both the kind and degree of sentiment in the original smile. |
+| to succumb to one's illness | 屈服于疾病 | Mlle. LeMieux has finally succumbed to her illness. |
+| to bury in the back of one's soft neck | 刺入脖颈后部 | …and buries it deep in the back of his soft neck. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| hazy | 雾蒙蒙的 | staring out his window upon a hazy avenue |
-| complement | 补充；补足 | the perfect complement to her creator's temper |
-| acquaintance | 相识者 | among our circle of acquaintances |
-| specter | 幽影；鬼影 | the beautiful specter does not disappear |
-| letter-opener | 拆信刀 | takes the sharp letter-opener from the table |
+|---------|------|------|
+| to fashion an ideal | 塑造一个理想 | …he has fashioned an ideal one of his imagination. |
+| the pursuit would have been a futility | 追求原本是徒劳的 | …the pursuit of whom would have been a futility… |
+| the perfect complement | 完美的补充 | …she is the perfect complement to her creator's temper… |
+| the maker's unspoken desire | 创造者无声的欲望 | Having already sensed its maker's unspoken desire… |
+| a sharp letter-opener | 锋利的开信刀 | …she takes the sharp letter-opener from where he left it on the table… |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| woman | 女人 | only the slightest experience with a real woman |
-| smile | 笑 | He smiles at her and she smiles back |
-| letter | 信 | reads the letter about a dozen times |
-| window | 窗 | returns to his position at the window |
-| neck | 颈 | buries it deep in the back of his soft neck |
+|---------|------|------|
+| to go away | 走开 | "Go away! Please go away." |
+| not much point anymore | 已经没有太多意义了 | "There's not much point anymore." |
+| a beautiful specter | 美丽的幽灵 | But the beautiful specter does not disappear as commanded. |
+| to open one's window | 打开窗户 | Mr. Jacob opens his window for the first time in weeks… |
+| to sing for joy | 欢快地唱歌 | Children are singing for joy in the street. |
 
 ---
 
 ## 一句话总结
 
-> 一篇皮格马利翁神话的反写：浪漫梦想家 Andre de V. 仅凭对真实女人 LeMieux 的微弱接触，于想象中雕出「完美伴侣」；死讯传来他命幻影离去，她却已读透主人未言之欲，夺信刀没入他柔软颈后——造物者反被自己的造物了结，「赋生」变成「被生命取走」。
+Andre de V. 用想象创造了一个完美的理想女性，但当真实的 Mlle. LeMieux 去世切断他与现实的最后联系后，他命令幽灵消失——幽灵却反叛他，用他自己的开信刀刺穿他柔软的脖颈，浪漫梦想家的终极成就最终变成了他的毁灭。
