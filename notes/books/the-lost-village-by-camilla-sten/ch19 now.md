@@ -133,7 +133,6 @@ modified: "2026-08-30"
 | clatter | 叮当作响 | The rain is clattering against the roof |
 | huddle | 蜷缩 | I've wrapped myself up in a blanket |
 | scribble | 潦草 | some incoherent scribbles |
-| stray | 迷路 | （未出现在原文） |
 | rucksack | 背包 | I feel the rucksack at my feet |
 | flinch | 畏缩 | I flinch and then laugh |
 

@@ -134,7 +134,6 @@ modified: "2026-08-30"
 | miscarriage | 流产 | the bleeding turns out to be an early miscarriage |
 | clergy | 神职人员 | applies to study for the clergy |
 | registration records | 登记记录 | National registration records reveal |
-| scrawl | 潦草 | some incoherent scribbles |
 | understimulated | 刺激不足的 | he might want some company |
 
 ### ⭐ 基础

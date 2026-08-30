@@ -133,8 +133,6 @@ modified: "2026-08-30"
 | ninth month | 第九个月 | I was in my ninth month, and practically bedridden |
 | dusk | 黄昏 | It was already dusk when Grandpa and Nils got off the train |
 | combed | 搜索 | They combed the forest but found no one |
-| rusted | 生锈的 | （未出现在原文） |
-| hunch | 预感 | （未出现在原文） |
 
 
 ### ⭐ 基础

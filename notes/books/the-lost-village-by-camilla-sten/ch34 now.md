@@ -7,9 +7,9 @@ modified: "2026-08-30"
 
 ## 本章导航
 
-- **一句话概括**：Alice 独自坐在教堂的 chapel 里，Max 来找她，告诉她他"不得不"揭露 Tone 的秘密。Alice 感到被"背叛"，但 Max 认为他"做了必须做的事"。他们拥抱后，Alice 发现她从面包车里拿出的纸张上有 Bunritta 的画——但 Bunritta 从不离开她的小屋。这些画是怎么出现在教堂里的？
+- **一句话概括**：Alice 独自坐在教堂的 chapel 里，Max 来找她，告诉她他"不得不"揭露 Tone 的秘密。Alice 感到被"背叛"，但 Max 认为他"做了必须做的事"。他们拥抱后，Alice 发现她从面包车里拿出的纸张上有 Birgitta 的画——但 Birgitta 从不离开她的小屋。这些画是怎么出现在教堂里的？
 - **情感弧线位置**：情感高潮——"背叛"与"和解"的交织。
-- **Tropes 兑现/反转**："画"是"连接过去与现在"的线索；"Bunritta 从不离开她的小屋"是"已知的事实"——但这个事实被"画"的存在"颠覆"了。
+- **Tropes 兑现/反转**："画"是"连接过去与现在"的线索；"Birgitta 从不离开她的小屋"是"已知的事实"——但这个事实被"画"的存在"颠覆"了。
 - **人物弧线**：Alice 的"愤怒"开始"软化"——她"不完全原谅" Max，但她"理解"他。
 - **叙事手法**：第一人称限制性（跟随 Alice），Now 时间线，内部独白与"画"的发现交织。
 
@@ -130,8 +130,6 @@ modified: "2026-08-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| stale | 走味的 | The seat cushion is moldy and half-disintegrated |
-
 | creak | 嘎吱作响 | The legs creaked when I dropped down |
 | rucksack | 背包 | I had it in my rucksack |
 | stifle | 抑制 | The distaste I've just stifled |

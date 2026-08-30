@@ -124,7 +124,6 @@ modified: "2026-08-30"
 | turgid | 沉闷的 | The language is turgid but compelling |
 | muddled | 混乱的 | The pages are muddled up |
 | scribble | 潦草的涂鸦 | some incoherent scribbles |
-| persevere | 坚持 | （未出现在原文） |
 
 ### ⭐⭐ 进阶
 

@@ -99,17 +99,17 @@ She left me here, she says. She abandoned me.
 
 ---
 
-### 第7处："我在这里"
+### 第7处："你会把它们还给我，你听到了吗？"
 
-> **原句 7:** "I'm here," I say. "I came here. To find you."
+> **原句 7:** "You'll give them back to me, you hear? I know it was you," she hisses in Tone's ear. "Do you hear them singing? They're waiting for me."
 
-中文理解："我在这里，"我说。"我来这里找你。"
+中文理解："你会把它们还给我，你听到了吗？我知道是你，"她对着 Tone 的耳朵低声说。"你听到他们在唱歌吗？他们在等我。"
 
-关键词：I came here to find you（我来这里找你）
+关键词：Do you hear them singing（你听到他们在唱歌吗）
 
-表达方式：这是"联系"的"尝试"——Alice 在"建立""家族纽带"；这是"救赎"的"尝试"。
+表达方式：这是"妄想"的"巅峰"——Aina 在"命令"" Tone"（被妄想为 Birgitta）"归还"孩子；她"听到"不存在的声音。这是"精神分裂症"的"高潮"。
 
-为什么这样写：Alice "想要连接"——她"想要"" Aina"知道"她没有被遗忘"。这是"家庭的修复"的"尝试"。
+为什么这样写：Aina 的"妄想"在"最后"达到了"顶峰"——她"听到"孩子们的歌声。这暗示她的"精神状态"已经"完全断裂"。这是"恐怖"的"终极形式"——"现实"与"幻觉"的融合。
 
 ---
 
@@ -140,7 +140,6 @@ She left me here, she says. She abandoned me.
 | neck | 脖子 | pressing even harder against Tone's neck |
 | blood | 血 | A hypnotically red drop of blood |
 | birthmark | 痣 | a birthmark under one eye |
-| grandmother | 祖母 | Margareta is my grandma |
 | sister | 姐妹 | Your big sister |
 
 ---

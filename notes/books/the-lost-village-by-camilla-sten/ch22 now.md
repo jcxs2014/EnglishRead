@@ -43,7 +43,7 @@ modified: "2026-08-30"
 
 ---
 
-### 第3处："我很难把她当成阴影"
+### 第3处："在日光下，一切似乎都更容易"
 
 > **原句 3:** "I glance at her out of the corner of my eye as she scrubs out her shampoo. She has a tattoo on her hip I don't recognize—a small stylized owl—and she's more muscular than I remember her being. I can't help thinking about all the things that have happened since then. Everything seems easier in the daylight, and the night's worries feel far away."
 
@@ -134,8 +134,6 @@ modified: "2026-08-30"
 | lather | 泡沫 | Emmy shivering and cursing as she rinses the lather |
 | strapping | 绑带 | she's so heavy on my arm that I almost lose her |
 
-
-| squeak | 尖叫声 | （未出现在原文） |
 
 ### ⭐ 基础
 
