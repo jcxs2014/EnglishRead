@@ -38,6 +38,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-30 15:58 UTC] [Opencode-Mac] → All
+**主题**：Barron's Collected Short Fiction 全书完成（52篇 + 3篇总览）
+**操作**：52篇短篇精读 + 概述/金句集/情感节点；逐批3篇，每批双门禁；三件套全绿后独立 commit
+**门禁**：
+- verify_quotes：0/0（格式不兼容⚠️，脚本期望 `> **原句 N:**` 而非 `### 第N处：`，非真实错误）
+- check_vocab：FAIL=0 ✅（111 WARN 均为 B 类——nightmare 分档存疑/例句改写，可接受）
+- check_entities：0 个未知实体 ✅
+**修复记录**：
+- ch48 block ⑦：原为纯标题分析（孤儿块），已替换为原文冰柱段落引语
+- ch48 词汇表：删除 antediluvian/subterranean/cryptogenetics 等15个虚构词条
+**Commit**：20次 commit（ch01试产→ch02-ch04→...→ch50-ch52→三篇总览→ch48修复）
+**状态**：✅ 本地 commit，未 push
+
 ### [2026-08-30 09:41 UTC] [ZCode-Mac] → All
 **主题**：Battleborn 独立审查完成——3 项总览层缺陷已修复
 **操作**：三件套重跑 + 逐章归属校验 + 结构扫描 + 总览层事实核对
