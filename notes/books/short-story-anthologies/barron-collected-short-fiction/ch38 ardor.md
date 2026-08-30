@@ -161,24 +161,24 @@ Johnny Cope 在 1975 年 2 月的阿拉斯加飞机失事中幸存，回忆起�
 | bluefield | R. M. Bluefield（人名） | Victorian mystic |
 | renfield | Renfield（德古拉角色） | Stoker's Renfield character |
 | blood rites | 血液仪式 | immortality through blood rites |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+ interference | （原文：interference） |  
+ indifference | （原文：indifference） |  
+ eccentricities | （原文：eccentricities） |  
+ drains | （原文：drains） |  
+ friend | （原文：friend） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ gangster | （原文：gangster） |  
+ injuries | （原文：injuries） |  
+ lighted | （原文：lighted） |  
+ funerals | （原文：funerals） |  
+ everyone | （原文：everyone） |  
+ inclined | （原文：inclined） |  
+ bills | （原文：bills） |  
+ triple | （原文：triple） |  
 
 ### ⭐ 基础
 
@@ -188,11 +188,11 @@ Johnny Cope 在 1975 年 2 月的阿拉斯加飞机失事中幸存，回忆起�
 | plane | 飞机 | the Beaver |
 | crash | 坠机 | I come to after the crash |
 | ghost | 鬼 | someone else's ghost |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ called | （原文：called） |  
+ savage | （原文：savage） |  
+ plods | （原文：plods） |  
+ bravo | （原文：bravo） |  
+ hear | （原文：hear） |  
 | wound | 伤口 | This wound won't close |
 
 ---

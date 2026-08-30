@@ -161,24 +161,24 @@ modified: "2026-08-30"
 | hercules | 大力神 | The goldfish is named Hercules |
 | infernal dreadnaught | 深渊恐惧战列舰 | I am the custodian of an infernal dreadnaught |
 | demonic possession | 恶魔占有 | door number three: demonic possession |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+ interference | （原文：interference） |  
+ geologically | （原文：geologically） |  
+ ineluctability | （原文：ineluctability） |  
+ called | （原文：called） |  
+ socket | （原文：socket） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ syndrome | （原文：syndrome） |  
+ scorched | （原文：scorched） |  
+ dressed | （原文：dressed） |  
+ floating | （原文：floating） |  
+ everyone | （原文：everyone） |  
+ reassess | （原文：reassess） |  
+ yours | （原文：yours） |  
+ popped | （原文：popped） |  
 
 ### ⭐ 基础
 
@@ -187,12 +187,12 @@ modified: "2026-08-30"
 | goldfish | 金鱼 | The goldfish is named Hercules |
 | father | 父亲 | My father killed me |
 | son | 儿子 | My twelve year-old son Larry |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ filled | （原文：filled） |  
+ mother | （原文：mother） |  
+ tykes | （原文：tykes） |  
+ fault | （原文：fault） |  
+ sixty | （原文：sixty） |  
+ fang | （原文：fang） |  
 | wolf | 狼 | The gray wolf |
 
 ---

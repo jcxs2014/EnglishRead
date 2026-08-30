@@ -160,38 +160,38 @@ modified: "2026-08-30"
 | blood and stardust | 血与星尘 | Barron collection title |
 | hammer films | Hammer Films 电影公司 | I watch nearly every evening |
 | wicker man | 柳条人 | Christopher Lee film reference |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+ acknowledges | （原文：acknowledges） |  
+ unimaginably | （原文：unimaginably） |  
+ intellectually | （原文：intellectually） |  
+ picked | （原文：picked） |  
+ period | （原文：period） |  
+ explosion | （原文：explosion） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ multiply | （原文：multiply） |  
+ quarters | （原文：quarters） |  
+ dressed | （原文：dressed） |  
+ flailing | （原文：flailing） |  
+ creature | （原文：creature） |  
+ children | （原文：children） |  
+ dusty | （原文：dusty） |  
+ toting | （原文：toting） |  
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | doctor | 博士 | Dr. Kob |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+ trysts | （原文：trysts） |  
+ popped | （原文：popped） |  
 | blood | 血 | Blood and Stardust |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| demon | 恶魔 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ heavy | （原文：heavy） |  
+ bears | （原文：bears） |  
+ along | （原文：along） |  
+ hear | （原文：hear） |  
 | storm | 暴风雨 | Storms unnerve me |
 | house | 房子 | big Gothic mansion |
 

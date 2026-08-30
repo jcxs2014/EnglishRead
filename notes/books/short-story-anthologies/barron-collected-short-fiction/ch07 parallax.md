@@ -161,11 +161,11 @@ Jack Carson 在妻子 Miranda 六年前失踪后，被前警官 Marchland 追踪
 | basilisk | 蛇怪；致命的凝视 | He's a basilisk |
 | petrified | 石化的；惊呆的 | petrified apples |
 | threshing | 打谷；脱粒 | threshing scythes |
-| shroud | 裹尸布；遮盖 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
+ drains | （原文：drains） |  
+ unseasonably | （原文：unseasonably） |  
+ michelangelo | （原文：michelangelo） |  
+ claustrophobic | （原文：claustrophobic） |  
+ picked | （原文：picked） |  
 
 ### ⭐⭐ 进阶
 
@@ -174,11 +174,11 @@ Jack Carson 在妻子 Miranda 六年前失踪后，被前警官 Marchland 追踪
 | Rottweiler | 罗特韦尔犬 | a Rottweiler at her feet |
 | gothic | 哥特式的 | her gothic sensibilities |
 | paraffin | 石蜡 | petrified apples oozing beneath a glaze of paraffin |
-| trig | 触发器 | （未出现在原文） |
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
+ pete | （原文：pete） |  
+ theories | （原文：theories） |  
+ casually | （原文：casually） |  
+ dressed | （原文：dressed） |  
+ maneuver | （原文：maneuver） |  
 
 ### ⭐ 基础
 
@@ -191,9 +191,9 @@ Jack Carson 在妻子 Miranda 六年前失踪后，被前警官 Marchland 追踪
 | dream | 梦 | bad dreams rattling |
 | sculpture | 雕塑 | wax sculptures |
 | anniversary | 周年纪念 | Happy anniversary |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| hunter | 猎人 | （未出现在原文） |
+ marry | （原文：marry） |  
+ police | （原文：police） |  
+ counts | （原文：counts） |  
 
 ---
 

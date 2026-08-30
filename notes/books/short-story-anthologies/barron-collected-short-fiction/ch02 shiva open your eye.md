@@ -162,22 +162,22 @@ modified: "2026-08-30"
 | coomb | 峡谷；深谷 | dredged from an old and abiding coomb |
 | obliquangular | 不等角的；倾斜的 | an obliquangular mass of smeared and clotted material |
 | glaucous | 灰绿色的；蓝绿色的 | glaucous clay |
-| firmament | 天空；苍穹 | （未出现在原文） |
-| ichor | （神话中神的）血液 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cataclysm | 大灾难；洪水 | （未出现在原文） |
+ explosion | （原文：explosion） |  
+ picked | （原文：picked） |  
+ impoverished | （原文：impoverished） |  
+ squatting | （原文：squatting） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| siphon | 抽吸；虹吸 | （未出现在原文） |
+ police | （原文：police） |  
 | arcane | 秘密的；神秘的 | Our large one |
 | nocturnal | 夜间的 | Like a nocturnal flower |
-| permafrost | 永冻层 | （未出现在原文） |
+ atheists | （原文：atheists） |  
 
-| labyrinthine | 迷宫般的 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
+ analysis | （原文：analysis） |  
+ floating | （原文：floating） |  
 
 ### ⭐ 基础
 
@@ -191,8 +191,8 @@ modified: "2026-08-30"
 | eternal | 永恒的 | A creature of habit, eternal |
 | cycle | 循环 | A cycle, indeed a cycle |
 | appetite | 欲望；食欲 | A world of appetite |
-| shrine | 圣所；神龛 | （未出现在原文） |
-| victim | 受害者 | （未出现在原文） |
+ counts | （原文：counts） |  
+ mating | （原文：mating） |  
 
 ---
 

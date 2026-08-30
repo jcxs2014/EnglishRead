@@ -164,15 +164,15 @@ Pinkerton 侦探 Jonah Koenig 追捕逃离精神病院的变种人马戏团大�
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | charlatan | 骗子；江湖郎中 | What a charmin' tale |
-| chattel | 动产；奴隶 | （未出现在原文） |
+ dressed | （原文：dressed） |  
 | machiavellian | 马基雅维利式的 | he was Machiavelli with a hard-on |
-| esoteric | 秘传的；只有内行才懂的 | （未出现在原文） |
-| liminal | 阈限的；处于过渡状态的 | （未出现在原文） |
+ analysis | （原文：analysis） |  
+ pickers | （原文：pickers） |  
 
 | subterranean | 地下的 | the shafts go so deep |
-| coagulate | 凝结 | （未出现在原文） |
-| egress | 出口；离开 | （未出现在原文） |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
+ examples | （原文：examples） |  
+ picked | （原文：picked） |  
+ everyone | （原文：everyone） |  
 
 ### ⭐ 基础
 

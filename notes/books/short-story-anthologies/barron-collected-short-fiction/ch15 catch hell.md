@@ -159,26 +159,26 @@ modified: "2026-08-30"
 |---|---|---|
 | malachite | 孔雀石 | malachite ring |
 | folklore | 民间传说 | cultural anthropology folklore |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+ contemptible | （原文：contemptible） |  
+ archeologist | （原文：archeologist） |  
+ eccentricities | （原文：eccentricities） |  
+ picked | （原文：picked） |  
+ period | （原文：period） |  
+ languages | （原文：languages） |  
+ occasionally | （原文：occasionally） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ pictured | （原文：pictured） |  
+ syndrome | （原文：syndrome） |  
+ dressed | （原文：dressed） |  
+ gangster | （原文：gangster） |  
+ thickets | （原文：thickets） |  
+ eclipsed | （原文：eclipsed） |  
+ bills | （原文：bills） |  
+ police | （原文：police） |  
 
 ### ⭐ 基础
 
@@ -189,11 +189,11 @@ modified: "2026-08-30"
 | storm | 风暴 | a towering storm cloud |
 | husband | 丈夫 | her husband Sonny |
 | marriage | 婚姻 | the thirteenth year of their union |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| dream | 梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ twine | （原文：twine） |  
+ called | （原文：called） |  
+ cooked | （原文：cooked） |  
+ sixty | （原文：sixty） |  
+ hear | （原文：hear） |  
 
 ---
 

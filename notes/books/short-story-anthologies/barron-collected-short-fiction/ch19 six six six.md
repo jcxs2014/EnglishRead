@@ -158,27 +158,27 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | six six six | 兽的数字（圣经） | Title reference |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
+ romanticized | （原文：romanticized） |  
+ performances | （原文：performances） |  
+ phantasmagoria | （原文：phantasmagoria） |  
+ police | （原文：police） |  
+ pursed | （原文：pursed） |  
+ furniture | （原文：furniture） |  
+ surprisingly | （原文：surprisingly） |  
+ pollen | （原文：pollen） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
-| supercolony | 超群落 | （未出现在原文） |
+ pictured | （原文：pictured） |  
+ disliked | （原文：disliked） |  
+ dressed | （原文：dressed） |  
+ everyone | （原文：everyone） |  
+ floating | （原文：floating） |  
+ corroded | （原文：corroded） |  
+ called | （原文：called） |  
+ colorado | （原文：colorado） |  
 
 ### ⭐ 基础
 
@@ -191,9 +191,9 @@ modified: "2026-08-30"
 | cat | 猫 | Their black cat, Elvira |
 | mirror | 镜子 | the mirror over the fireplace |
 | death | 死亡 | helicopter accident |
-| dream | 梦 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
+ tykes | （原文：tykes） |  
+ bushes | （原文：bushes） |  
+ popped | （原文：popped） |  
 
 ---
 

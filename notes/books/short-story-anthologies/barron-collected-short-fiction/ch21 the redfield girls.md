@@ -159,26 +159,26 @@ modified: "2026-08-30"
 |---|---|---|
 | redfield girls | Redfield 女孩们 | the Redfield Girls |
 | lady of the lake | 湖中女士 | she was the Lady of the Lake |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+ satisfaction | （原文：satisfaction） |  
+ occasionally | （原文：occasionally） |  
+ hyperawareness | （原文：hyperawareness） |  
+ logger | （原文：logger） |  
+ picked | （原文：picked） |  
+ ourselves | （原文：ourselves） |  
+ northlanders | （原文：northlanders） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ eclipsed | （原文：eclipsed） |  
+ disliked | （原文：disliked） |  
+ gleamed | （原文：gleamed） |  
+ everyone | （原文：everyone） |  
+ floating | （原文：floating） |  
+ scorched | （原文：scorched） |  
+ bills | （原文：bills） |  
+ friend | （原文：friend） |  
 
 ### ⭐ 基础
 
@@ -191,9 +191,9 @@ modified: "2026-08-30"
 | dream | 梦 | I had a really bizarre dream |
 | murder | 谋杀 | the murder |
 | forest | 森林 | the woods |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+ shore | （原文：shore） |  
+ called | （原文：called） |  
+ driven | （原文：driven） |  
 
 ---
 

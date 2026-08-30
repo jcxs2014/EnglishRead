@@ -159,26 +159,26 @@ Lorna 和她的情人 Miranda 躲进了华盛顿州山区的 Haugstad 小屋，�
 |---|---|---|
 | carrion gods | 腐肉之神 | Title reference |
 | haugstad | Haugstad（人名） | Haugstad cabin |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
-| hallucigenia | 怪诞虫 | （未出现在原文） |
+ occasionally | （原文：occasionally） |  
+ deteriorated | （原文：deteriorated） |  
+ unintelligible | （原文：unintelligible） |  
+ picked | （原文：picked） |  
+ friend | （原文：friend） |  
+ bartender | （原文：bartender） |  
+ crisscrossed | （原文：crisscrossed） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ eclipsed | （原文：eclipsed） |  
+ colonies | （原文：colonies） |  
+ gleamed | （原文：gleamed） |  
+ quarters | （原文：quarters） |  
+ emerging | （原文：emerging） |  
+ suburban | （原文：suburban） |  
+ bosom | （原文：bosom） |  
+ flexed | （原文：flexed） |  
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ Lorna 和她的情人 Miranda 躲进了华盛顿州山区的 Haugstad 小屋，�
 |---|---|---|
 | wolf | 狼 | A wolf howled |
 | cabin | 小屋 | Haugstad cabin |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| love | 爱 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
+ bills | （原文：bills） |  
+ called | （原文：called） |  
+ savage | （原文：savage） |  
+ hear | （原文：hear） |  
+ vibe | （原文：vibe） |  
+ heavy | （原文：heavy） |  
 | hunter | 猎人 | hunter's blind |
-| skin | 皮 | （未出现在原文） |
+ fade | （原文：fade） |  
 
 ---
 

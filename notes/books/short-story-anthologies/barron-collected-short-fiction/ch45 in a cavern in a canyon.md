@@ -160,25 +160,25 @@ modified: "2026-08-30"
 | good samaritan | 好撒玛利亚人 | Husband number one referred to me as the Good Samaritan |
 | midnight road | 午夜路 | drove north along Midnight Road |
 | eagle talon | Eagle Talon | we lived in Eagle Talon |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+ occasionally | （原文：occasionally） |  
+ subconscious | （原文：subconscious） |  
+ inscrutability | （原文：inscrutability） |  
+ picked | （原文：picked） |  
+ friend | （原文：friend） |  
+ toughness | （原文：toughness） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ quarters | （原文：quarters） |  
+ overpass | （原文：overpass） |  
+ invalid | （原文：invalid） |  
+ shepherd | （原文：shepherd） |  
+ venomous | （原文：venomous） |  
+ stricken | （原文：stricken） |  
+ floyd | （原文：floyd） |  
+ called | （原文：called） |  
 
 ### ⭐ 基础
 
@@ -187,13 +187,13 @@ modified: "2026-08-30"
 | dog | 狗 | Orlando the dog |
 | father | 父亲 | my father disappeared |
 | forest | 森林 | birch and alder |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
-| darkness | 黑暗 | （未出现在原文） |
+ driven | （原文：driven） |  
+ keeffe | （原文：keeffe） |  
+ yours | （原文：yours） |  
+ heavy | （原文：heavy） |  
+ punch | （原文：punch） |  
+ soul | （原文：soul） |  
+ bushes | （原文：bushes） |  
 
 ---
 

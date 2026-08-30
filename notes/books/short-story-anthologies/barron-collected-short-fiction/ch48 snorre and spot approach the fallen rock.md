@@ -136,8 +136,8 @@ modified: "2026-08-30"
 | snow | 雪 | it began to snow |
 | north | 北方 | North |
 
-| death | 死亡 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ wrong | （原文：wrong） |  
+ many | （原文：many） |  
 
 ---
 

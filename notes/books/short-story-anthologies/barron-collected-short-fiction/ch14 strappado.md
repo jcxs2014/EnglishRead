@@ -155,25 +155,25 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | strappado | 吊刑（古老酷刑） | Title reference |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+ satisfaction | （原文：satisfaction） |  
+ disconsolate | （原文：disconsolate） |  
+ disintegrating | （原文：disintegrating） |  
+ picked | （原文：picked） |  
+ police | （原文：police） |  
+ anonymous | （原文：anonymous） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ terraced | （原文：terraced） |  
+ flawless | （原文：flawless） |  
+ dressed | （原文：dressed） |  
+ casually | （原文：casually） |  
+ delirium | （原文：delirium） |  
+ everyone | （原文：everyone） |  
+ lucid | （原文：lucid） |  
+ friend | （原文：friend） |  
 
 ### ⭐ 基础
 
@@ -187,8 +187,8 @@ modified: "2026-08-30"
 | bulldozer | 推土机 | a red bulldozer |
 | memory | 记忆 | remembered nothing |
 | nightmare | 噩梦 | a recurring nightmare |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
+ dusty | （原文：dusty） |  
+ called | （原文：called） |  
 
 ---
 

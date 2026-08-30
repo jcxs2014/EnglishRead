@@ -161,24 +161,24 @@ Nanashi 是一个患有健忘症的日本黑帮成员，为 Heron 家族服务�
 | nanashi | Nanashi（日语"无名"） | protagonist's name |
 | heron | Heron 家族 | yakuza syndicate |
 | komodo | 科莫多巨蜥 | like the eyes of a Komodo |
-| antediluvian | 古老的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
+ satisfaction | （原文：satisfaction） |  
+ vainglorious | （原文：vainglorious） |  
+ specifications | （原文：specifications） |  
+ pinged | （原文：pinged） |  
+ peddle | （原文：peddle） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ syndrome | （原文：syndrome） |  
+ gangster | （原文：gangster） |  
+ dressed | （原文：dressed） |  
+ casually | （原文：casually） |  
+ disliked | （原文：disliked） |  
+ injuries | （原文：injuries） |  
+ yours | （原文：yours） |  
+ whaler | （原文：whaler） |  
 
 ### ⭐ 基础
 
@@ -188,12 +188,12 @@ Nanashi 是一个患有健忘症的日本黑帮成员，为 Heron 家族服务�
 | dream | 梦 | Nanashi dreamed |
 | cave | 洞穴 | chamber hewn from rock |
 | finger | 手指 | pinky in a jar |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
-| blood | 血 | （未出现在原文） |
-| death | 死亡 | （未出现在原文） |
-| ghost | 鬼 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ picked | （原文：picked） |  
+ police | （原文：police） |  
+ fault | （原文：fault） |  
+ sixty | （原文：sixty） |  
+ shore | （原文：shore） |  
+ hear | （原文：hear） |  
 
 ---
 

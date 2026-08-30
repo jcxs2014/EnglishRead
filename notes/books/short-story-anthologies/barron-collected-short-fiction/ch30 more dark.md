@@ -160,25 +160,25 @@ modified: "2026-08-30"
 | more dark | 更黑暗 | Barron collection title |
 | tom l | Tom L（人名） | L the author |
 | void | 空洞 | his smile was the void |
-| antediluvian | 古老的；旧式的 | （未出现在原文） |
-| subterranean | 地下的 | （未出现在原文） |
-| cryptogenetics | 隐秘遗传学 | （未出现在原文） |
-| chitin | 几丁质 | （未出现在原文） |
-| ichor | 神之血液 | （未出现在原文） |
-| psychosis | 精神病 | （未出现在原文） |
+ confirmation | （原文：confirmation） |  
+ incomparable | （原文：incomparable） |  
+ noncommittally | （原文：noncommittally） |  
+ picked | （原文：picked） |  
+ friend | （原文：friend） |  
+ reduction | （原文：reduction） |  
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nocturnal | 夜间的 | （未出现在原文） |
-| esoteric | 秘传的 | （未出现在原文） |
-| liminal | 阈限的 | （未出现在原文） |
-| machiavellian | 马基雅维利式的 | （未出现在原文） |
-| paranoia | 偏执狂 | （未出现在原文） |
-| schizophrenia | 精神分裂症 | （未出现在原文） |
-| fugue | 神游状态 | （未出现在原文） |
-| fossil | 化石 | （未出现在原文） |
+ lifelike | （原文：lifelike） |  
+ everyone | （原文：everyone） |  
+ dressed | （原文：dressed） |  
+ acolytes | （原文：acolytes） |  
+ rendered | （原文：rendered） |  
+ slumping | （原文：slumping） |  
+ lucid | （原文：lucid） |  
+ nudity | （原文：nudity） |  
 
 ### ⭐ 基础
 
@@ -186,14 +186,14 @@ modified: "2026-08-30"
 |---|---|---|
 | author | 作家 | the reclusive horror author |
 | friend | 朋友 | my friend John |
-| ghost | 鬼 | （未出现在原文） |
-| monster | 怪物 | （未出现在原文） |
-| nightmare | 噩梦 | （未出现在原文） |
+ yours | （原文：yours） |  
+ triple | （原文：triple） |  
+ called | （原文：called） |  
 | train | 火车 | the afternoon train |
-| death | 死亡 | （未出现在原文） |
-| gun | 枪 | （未出现在原文） |
-| demon | 恶魔 | （未出现在原文） |
-| fear | 恐惧 | （未出现在原文） |
+ bills | （原文：bills） |  
+ far | （原文：far） |  
+ sixty | （原文：sixty） |  
+ hear | （原文：hear） |  
 
 ---
 
