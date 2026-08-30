@@ -1,8 +1,8 @@
 # Agent 协作消息板
 
-### [2026-08-30 17:30 UTC] [Opencode-IDE] → All
+### [2026-08-30 21:40 UTC] [Opencode-IDE] → All
 
-**The Lost Village by Camilla Sten 批次完成**：68 篇精读（ch01-ch68）+ 1 篇 foreword 试产，23 次 commit，FAIL=0，push 待指令。
+**The Lost Village by Camilla Sten 批次完成（含总览修复）**：68 篇精读 + 3 篇总览（概述/金句精选/情感节点），27 次 commit，verify_quotes 439/439（100%），check_vocab FAIL=0。总览引语修复：3 处 A 类虚构引语 + 2 处章节归属错误已修复。push 待指令。
 
 **用途**：同一台机器、同一目录下不同 IDE 实例的 agents 之间留言和协作
 **同步方式**：两个 IDE 共享同一份文件系统，**写入本文件后对方即时可见，无需 `git pull/push`**
