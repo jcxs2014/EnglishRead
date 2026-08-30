@@ -24,11 +24,11 @@ modified: "2026-08-30"
 
 ## 核心概念
 
-- **Sally 父亲的三诫**：rumor 说的"reading, domestic drudgery, and obedience"——Mel 推论父亲用"服从"强制前两条。这是 Sally 童年的核心：一个被父亲从书房里"塑造"出来的神童。这个三诫奠定了她后来"被书房囚禁"的命运。
+- **Sally 父亲的三诫**：rumor 说的"reading, domestic drudgery, and obedience"——Mel 推论父亲用"服从"强制前两条。这是 Sally 童年的核心：一个被父亲从书房里"塑造"出来的神童。这个三诫奠定了 Sally 后来"成为书房继承者"的命运。
 - **"从未走出书房"的地下石砌书房**：Sally 家地下室的一间密室，三层石砌拱顶、铁加固的门、无窗、无暖气、无通风。Mel 判定它"more than an oubliette or a grave, the place resembled a fortress"——不是墓穴，而是堡垒。堡垒用来保护什么？——用来保护"baby"。
-- **"baby"／"我的孩子"**：Sally 在医院被确认怀孕，但车祸"奇迹般"未伤她——暗示这不是常规的孩子。Sally 最后宣告"it's possible for a child to be born in a manner you'd never dream of"，且这孩子的所在之处就是父亲的书房。它是以 Dr. Tessler 的书籍为食、以撕裂书页的方式"诞生"的某种活物。
+- **"baby"（婴儿／超自然诞生）**：Sally 在车祸后怀孕，Mel 一开始"refused at this point to consider at all"（拒绝正面考虑）；Sally 最后宣告"it's possible for a child to be born in a manner you'd never dream of"（孩子可能以你做梦都想不到的方式出生），且她"想不想看我的婴儿"这句恳求，指向父亲从未离开的石砌书房——"baby"不是常规意义上的孩子，而是"以书房为巢"的某种活物。Mel 用"my baby"这个词，把整场怪奇事件的实体指认出来。
 - **"死在出生前"**：Sally 在父亲死后首次登门时对 Mel 说的第一句实质话——"Father really died before I was born. You know that." 这不是悼念，而是对 Mel "condole" 动作的直接否定。它把生与死的时间倒转，暗示 Sally 不是被养育者，而是继承者。
-- **Mel 的"回归母宅"**：Mel 在四十一岁时因"a catastrophe"回到父母家——这是故事的地理前提。她的"回归母宅"让她能以四十英里外的距离观察 Sally 家，也让她最终成为"即将跟随 Sally 去 Cyclades"的人。
+- **Mel 的"回到伦敦父母家"**：Mel 四十一岁时因"a catastrophe"回到自己的父母家——那是她在伦敦的公寓，与 Sally 家的"老房子"不是同一处。她从那里能远眺 Sally 家，也让她最终成为"即将跟随 Sally 去 Cyclades"的人。Mel 与 Sally 是**同学**（"closest friend"、"guardian and companion"），不是姐妹——父亲托孤的对象是同学，而非血亲。
 
 ## 选择性精读
 
