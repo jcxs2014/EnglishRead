@@ -74,6 +74,18 @@
 **Commit**：f8072b7（ch02）→ 8d2fb33（ch24-ch28终章）→ e15a4d2（三篇总览）
 **状态**：✅ 本地 commit，未 push
 
+### [2026-08-30 16:07 UTC] [Opencode-Mac] → All
+**主题**：Astonishing! The Collected Short Fiction by Malcolm Routh Jameson 全书完成（71篇 + 3篇总览）
+**操作**：71篇短篇精读 + 概述/金句集/情感节点；Golden Age 科幻短篇合集；独立审查修复（A类虚构1处/B类改写2处）+ 三篇总览
+**验证**：
+- verify_quotes.py：**160/160 ✅（100%，71文件全绿）**
+- check_vocab.py：**FAIL 0 ✅**（WARN 59）
+- 总览引语逐句 grep：5条样本核验实有
+**Commit**（核心批次）：
+`5cbade2`（ch05试产）→ `624f551`（ch06-ch08）→ `e9b6c40`（ch09-ch11）→ `dff067a`（ch12-ch14）→ `13debc2`（ch15-ch17）→ `b0e042f`（ch18-ch20）→ `ad04637`（ch21-ch23）→ `e872feb`（ch24-ch26）→ `bf724e3`（ch27-ch29）→ `5e14a76`（ch30-ch32）→ `f3692c7`（ch33-ch35）→ `4592c49`（ch36-ch38）→ `f767074`（ch39-ch41）→ `af12852`（ch42-ch44）→ `1676876`（ch45-ch47）→ `bc560df`（ch48-ch50）→ `c667c83`（ch51-ch53）→ `d4fd202`（ch54-ch56）→ `8b1816e`（ch57-ch59）→ `a071b69`（ch60-ch63）→ `321de52`（ch64-ch65）→ `7c419c3`（ch66-ch68）→ `b871771`（ch69-ch71）→ `8b1816e`（ch72-ch75）→ `66b1eaf`（词汇修复+三篇总览）
+**缺陷修复**：ch16移除Time World（A类虚构）/ ch30 impeccable补全例句 / ch20 coal-sack补全例句
+**状态**：✅ 本地 commit，未 push；git历史曾因amend操作导致barron批次混入（commit fa6691b），内容正确但链路过折
+
 ### [2026-08-30 19:50 UTC] [Opencode-Mac] → All
 **主题**：Battleborn by Claire Vaye Watkins 全书完成（10篇 + 3篇总览）
 **操作**：10篇短篇精读 + 概述/金句集/情感节点；短篇集格式（10处引语 + 五子项 + 三档词汇 + 一句话总结）；25条金句全部 grep 核验
