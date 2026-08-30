@@ -3,104 +3,109 @@
 modified: "2026-08-30"
 ---
 
-# 09. The Excruciating Final Days Of Dr. Henry Jekyll, Englishman（亨利·杰基尔医生的极度痛苦末日 / 1985）
+# 09. The Excruciating Final Days of Dr. Henry Jekyll, Englishman（亨利·杰基尔博士的最后日子 / 1985）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：困守实验室——「抹除 insatiable Hyde」
-
-① Dr. Henry Jekyll has been locked in his laboratory off a busy London bystreet for almost a week now, trying to find the formula that would destroy the insatiable Edward Hyde forever, or at least dissolve him into a few chemicals harmlessly suspended in one's system.
-
-中文理解：亨利·杰基尔医生把自己锁在繁忙伦敦一条僻巷后的实验室里已近一周，试图找出能永远摧毁那永不满足的 Edward Hyde 的配方，或至少把他溶成几种无害地悬浮于人体内的化学物质。
-
-句子结构：主谓（has been locked… for almost a week）+ 现在分词 trying to find the formula 作伴随 + that 定语从句（would destroy… or at least dissolve him…）。
-
-关键词：locked in his laboratory（锁在实验室）、bystreet（僻巷）、insatiable（永不满足的）、dissolve him into chemicals（溶成化学物质）
-
-表达方式：用「溶成无害悬浮的化学物」把消灭写成化学处理，去道德化。
-
-为什么这样写：开篇即把杰基尔写成主动的、冷静的谋杀策划者，而非史蒂文森笔下被 Hyde 吞噬的受害者。Ligotti 重写经典时把「人格分裂的悲剧」翻成「蓄意清除麻烦自我」的算计。
+Jekyll 把毒药喂给虚弱的 Hyde，想永久消灭他，却在工作坊门口得知一位女士来找 Hyde——而他必须告诉这个女人 Hyde 已死于「科学意外」。
 
 ---
 
-### 第2处：Hyde 再现——「缩小的形体半醒」
+## 精读（6处）
 
-① Late Sunday morning Dr. Jekyll awakens on the floor and discovers, to his amazement, the shrunken form of Hyde stirring half-consciously beside him.
+### 第1处：被锁一周——「摧毁无法满足的爱德华·海德的公式」
 
-中文理解：周日清晨晚些时候，杰基尔医生在地板上醒来，惊讶地发现 Hyde 那缩小的形体正在他身旁半意识地蠕动。
+> **原句 1:** Dr. Henry Jekyll has been locked in his laboratory off a busy London bystreet for almost a week now, trying to find the formula that would destroy the insatiable Edward Hyde forever, or at least dissolve him into a few chemicals harmlessly suspended in one's system.
 
-句子结构：时间状语 Late Sunday morning + 主谓（Jekyll awakens… and discovers… the shrunken form… stirring…）。
+中文理解：亨利·杰基尔博士已经被锁在伦敦繁忙小街附近的实验室里快一周了，试图找到一种能永远摧毁无法满足的爱德华·海德的配方，或者至少把他分解成无害地悬浮在人体系统中的几种化学物质。
 
-关键词：to his amazement（令他惊讶地）、shrunken form（缩小的形体）、stirring half-consciously（半意识地蠕动）
+句子结构：Dr. Henry Jekyll has been locked in his laboratory… 是主句；trying to find the formula… 是分词短语作状语；that would destroy… forever 是定语从句修饰 formula；or at least dissolve him into… 是并列宾语。
 
-表达方式：用「缩小」「半醒」写 Hyde 的虚弱，颠覆其原本的暴戾。
+关键词：locked in his laboratory（被锁在实验室里）、insatiable Edward Hyde（无法满足的爱德华·海德）、harmlessly suspended in one's system（无害地悬浮在系统里）
 
-为什么这样写：Hyde 不再可怕而是「萎缩、半醒」——杰基尔占了上风。这削弱经典恐怖，转为一种近乎滑稽的支配关系，是 Ligotti「反哥特」戏拟的调性。
+表达方式：Jekyll 想把 Hyde「溶解」成无害的化学物质——这是对「消灭他」的一种科学化的表达，暗示 Jekyll 无法接受直接谋杀的道德重量。
 
----
-
-### 第3处：投毒——「我正好有这东西」
-
-① "I have just the thing," says Dr. Jekyll, cradling Hyde's head with one arm and forcing a beaker of bubbling fluid to his lips.
-
-中文理解：「我正好有这东西，」杰基尔医生说，用一只手臂托着 Hyde 的头，把一杯冒泡的液体强灌进他嘴里。
-
-句子结构：直接引语 + says Dr. Jekyll + 现在分词 cradling… and forcing… 表伴随动作。
-
-关键词：I have just the thing（我正好有这东西）、cradling（托着）、forcing a beaker（强灌杯子）
-
-表达方式：用温柔的「托头」配冰冷的「强灌」，动作矛盾制造寒意。
-
-为什么这样写：杰基尔以照顾的姿态行毒杀，「I have just the thing」像药剂师推荐成药。这种日常化、职业化的残忍是 Ligotti 重写哥特的核心笔法。
+为什么这样写：Jekyll 用「科学」来合理化他对 Hyde 的处置——他不是要「杀死」Hyde，而是要「溶解」他，这是一种心理距离化。
 
 ---
 
-### 第4处：谎称死讯——「科学的不幸事故」
+### 第2处：海德被 rendered innocuous——「野兽性的残留影响」
 
-① "Just a minute, Poole," answers Dr. Jekyll, smoothing out his crumpled cravat and preparing to deliver the regrettable news that Hyde died days ago in an unfortunate accident of science. The man would drink anything he could get his hands on, and he knew nothing of chemistry!
+> **原句 2:** Dr. Jekyll can see that Hyde's ferocious being has been rendered innocuous and tame, the lingering effects, no doubt, of his debauched life.
 
-中文理解：「等一下，Poole，」杰基尔医生回答，抚平皱巴巴的领结，准备传达那令人遗憾的消息：Hyde 几天前死于一场不幸的科学事故。那家伙什么能到手的都喝，他对化学一窍不通！
+中文理解：杰基尔博士能看到海德的凶猛存在已经被变得无害和驯服了，毫无疑问，这是他放荡生活的残留影响。
 
-句子结构：直接引语 + 现在分词 smoothing… and preparing to deliver… + 后接补充说明句 The man would drink anything…。
+句子结构：Dr. Jekyll can see that Hyde's ferocious being has been rendered innocuous and tame 是宾语从句；the lingering effects, no doubt, of his debauched life 是独立主格作同位语。
 
-关键词：smoothing out his crumpled cravat（抚平皱领结）、unfortunate accident of science（不幸的科学事故）、knew nothing of chemistry（对化学一窍不通）
+关键词：rendered innocuous and tame（被变得无害和驯服）、the lingering effects（残留影响）、debauched life（放荡的生活）
 
-表达方式：用「整理领结」的体面动作配编造的死因，反差讽刺。
+表达方式：「rendered」是被动语态的使役形式——Hyde 被「被弄得」无害，不是他自己的选择。
 
-为什么这样写：杰基尔对仆人 Poole 的谎言把谋杀包装成「Hyde 自己乱喝东西的化学事故」。Ligotti 在此嘲笑经典叙事——恶不是被击败，而是被体面地抹除并归咎于死者无知。
-
----
-
-### 第5处：焚尸——「practically immortal」
-
-① My God, this poor creature is practically immortal, he thinks as he drags the faintly gasping body of Edward Hyde toward the gaping and fiery incinerator.
-
-中文理解：我的天，这可怜家伙简直是不死的，他边想边把 Edward Hyde 那微弱喘息的躯体拖向那张着大口、烈焰熊熊的焚化炉。
-
-句子结构：My God… 独白 + 主句 he thinks as he drags… toward the gaping and fiery incinerator。
-
-关键词：practically immortal（简直不死）、faintly gasping（微弱喘息）、gaping and fiery incinerator（张嘴烈焰的焚化炉）
-
-表达方式：用「几乎不死」的反讽点出 Hyde 生命力顽强，与「拖向焚化炉」形成冷幽默。
-
-为什么这样写：终局的讽刺峰值——杰基尔一边感叹 Hyde 难杀，一边把它拖进焚炉。gaping（张嘴）的焚化炉像另一种吞食之口，呼应 Ligotti 反复写的「被赋意识之物终遭销毁」母题。
+为什么这样写：Hyde 的「无害化」是 Jekyll 改造实验的副产品——但「tame」（驯服）暗示 Hyde 仍然是某种动物，只是被控制了。
 
 ---
 
-### 第6处：门外的少女——未竟的对照
+### 第3处：「我正好有东西」——喂毒
 
-① Someone is now knocking at the laboratory door (the one that leads into the house). "Dr. Jekyll, sir, there's a young lady here asking for Mr. Hyde. What should I tell her?"
+> **原句 3:** "I have just the thing," says Dr. Jekyll, cradling Hyde's head with one arm and forcing a beaker of bubbling fluid to his lips.
 
-中文理解：此刻有人在敲实验室的门（那扇通进屋里的门）。「杰基尔医生，先生，有位年轻女士来问 Hyde 先生。我该怎么回她？」
+中文理解：「我正好有东西，」杰基尔博士说，用一只手臂托着海德的头，强迫他把一杯冒泡的液体灌进他嘴里。
 
-句子结构：Someone is knocking… + 直接引语（there's a young lady… asking for Mr. Hyde）。
+句子结构：I have just the thing 是直接引语；says Dr. Jekyll 是主谓；cradling Hyde's head with one arm 是分词短语；and forcing a beaker of bubbling fluid to his lips 是并列分词短语。
 
-关键词：knocking at the laboratory door（敲实验室门）、young lady asking for Mr. Hyde（问 Hyde 的年轻女士）
+关键词：cradling Hyde's head（托着海德的头）、forcing a beaker of bubbling fluid to his lips（强迫把冒泡液体灌进嘴里）
 
-表达方式：用门外求见 Hyde 的少女，把经典里 Hyde 对女性的威胁改写为一种未发生的、被截断的遭遇。
+表达方式：「I have just the thing」是日常性表达，对应着一个毒杀行动——Jekyll 用随意的语气来掩盖谋杀的本质。
 
-为什么这样写：少女的出现让杰基尔的谎言有了听众——他正准备告诉她 Hyde 已死。这个未展开的支线强化了「杰基尔掌控叙事、Hyde 被抹去」的改写主旨，也留下经典读者才懂的反讽。
+为什么这样写：Jekyll 的「cradling」与「forcing」之间的张力——他一边「温柔地」托着 Hyde 的头，一边强迫他喝下毒药。
+
+---
+
+### 第4处：毒发——「扭曲的痉挛」
+
+> **原句 4:** Then Dr. Jekyll backs away and watches Hyde being overtaken by wrenching convulsions from the poison he has unwittingly ingested.
+
+中文理解：然后杰基尔博士退后，看着海德被他无意中摄入的毒药引起的剧烈痉挛所征服。
+
+句子结构：Then Dr. Jekyll backs away 是主句；and watches Hyde being overtaken by wrenching convulsions 是并列谓语；from the poison he has unwittingly ingested 是痉挛的定语。
+
+关键词：wrenching convulsions（扭曲的痉挛）、unwittingly ingested（无意中摄入的）
+
+表达方式：「unwittingly ingested」暗示 Hyde 不知道他喝的是什么——Jekyll 对他的欺骗是全过程的。
+
+为什么这样写：Jekyll 观看 Hyde 死亡的过程——这个场景把他的「科学家」身份和他的「谋杀者」身份并置。
+
+---
+
+### 第5处：女访客——「一位年轻女士找海德先生」
+
+> **原句 5:** "Dr. Jekyll, sir, there's a young lady here asking for Mr. Hyde. What should I tell her?"
+
+中文理解：「杰基尔博士，先生，有一位年轻女士在这里找海德先生。我该怎么跟她说？」
+
+句子结构：there's a young lady here asking for Mr. Hyde 是 there be 句型 + 分词定语；What should I tell her? 是疑问句。
+
+关键词：asking for Mr. Hyde（找海德先生）
+
+表达方式：女士来找 Hyde——这暗示 Hyde 在 Jekyll 不知情的情况下与一位女士有来往，打破了 Jekyll 对 Hyde 的完全控制。
+
+为什么这样写：Jekyll 刚刚「处理掉」Hyde，就有人来找他——这讽刺性地暗示 Hyde 有一个 Jekyll 不知道的生活。
+
+---
+
+### 第6处：「他会喝他所能得到的任何东西」
+
+> **原句 6:** The man would drink anything he could get his hands on, and he knew nothing of chemistry!
+
+中文理解：这个男人会喝他所能得到的任何东西，而且他对化学一窍不通！
+
+句子结构：The man would drink anything he could get his hands on 是主句；and he knew nothing of chemistry 是并列句。
+
+关键词：drink anything he could get his hands on（喝他所能得到的任何东西）、knew nothing of chemistry（对化学一窍不通）
+
+表达方式：Jekyll 向仆人 Poole 解释 Hyde 的「死因」——他把Hyde 描述为一个无知的酒鬼，而不是一个被谋杀的受害者。
+
+为什么这样写：Jekyll 正在编造一个关于 Hyde 死亡的「科学意外」故事——他把谋杀包装成「意外中毒」，这是他自我欺骗的最终形式。
 
 ---
 
@@ -109,37 +114,33 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| insatiable | 永不满足的 | destroy the insatiable Edward Hyde |
-| bystreet | 僻巷；小街（by-street 变体） | off a busy London bystreet |
-| incinerator | 焚化炉 | the gaping and fiery incinerator |
-| formula | 配方；公式 | the formula that would destroy Hyde |
-| crumpled | 皱的 | smoothing out his crumpled cravat |
-| innocuous | 无害的 | Hyde's ferocious being has been rendered innocuous |
+|---------|------|------|
+| insatiable | 无法满足的 | …the formula that would destroy the insatiable Edward Hyde forever… |
+| to render innocuous | 使变得无害 | …Hyde's ferocious being has been rendered innocuous and tame… |
+| a debauched life | 放荡的生活 | …the lingering effects, no doubt, of his debauched life. |
+| wrenching convulsions | 扭曲的痉挛 | …watching Hyde being overtaken by wrenching convulsions… |
+| unwittingly ingested | 无意中摄入的 | …from the poison he has unwittingly ingested. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| laboratory | 实验室 | locked in his laboratory |
-| groggy | 昏沉的；眩晕的 | They are both a little groggy |
-| beaker | 烧杯 | forcing a beaker of bubbling fluid |
-| convulsions | 抽搐 | overtaken by wrenching convulsions |
-| debauched | 放纵的；堕落无度的 | the lingering effects, no doubt, of his debauched life |
-| regretful | 令人遗憾的 | the regrettable news that Hyde died |
+|---------|------|------|
+| to dissolve into | 分解成 | …or at least dissolve him into a few chemicals harmlessly suspended in one's system. |
+| to cradle one's head | 托着某人的头 | …cradling Hyde's head with one arm… |
+| to force to one's lips | 强迫灌进嘴里 | …forcing a beaker of bubbling fluid to his lips. |
+| to back away | 退后 | Then Dr. Jekyll backs away… |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| poison | 毒药 | the poison he has unwittingly ingested |
-| corpse | 尸体 | examine the corpse of his evil twin |
-| cravat | 领结 | smoothing out his crumpled cravat |
-| twin | 孪生 | his evil twin |
-| door | 门 | knocking at the laboratory door |
+|---------|------|------|
+| a busy bystreet | 繁忙的小街 | …off a busy London bystreet… |
+| to be locked in | 被锁在…里 | Dr. Henry Jekyll has been locked in his laboratory… |
+| a young lady | 年轻女士 | …there's a young lady here asking for Mr. Hyde. |
+| to know nothing of | 对…一窍不通 | …and he knew nothing of chemistry! |
 
 ---
 
 ## 一句话总结
 
-> 一篇《化身博士》事后补述：杰基尔锁在实验室近一周想配药抹除 Hyde，趁其缩小半醒时灌毒、对门外求见 Hyde 的少女谎称其「死于科学事故」，终把「几乎不死」的恶体拖入焚化炉——经典双重人格被重写为一场以科学为借口的冷静谋杀。
+Jekyll 终于找到方法「溶解」Hyde，却在喂毒后得知有女士来找 Hyde——他必须用「他会喝任何东西」的谎言来掩盖谋杀，科学与道德的冲突以自我欺骗告终。
