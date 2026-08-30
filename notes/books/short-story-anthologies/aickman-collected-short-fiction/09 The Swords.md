@@ -32,7 +32,7 @@ modified: "2026-08-30"
 
 ## 精读
 
-> **原句 1:** "There was this pile of swords. They were stacked criss-cross, like cheese-straws, on top of a low stool, square and black."
+> **原句 1:** "This pile of swords. They were stacked criss-cross, like cheese-straws, on top of a low stool, square and black."
 
 **中文理解**：剑的展示方式——堆叠成交叉状，像芝士脆条一样码在一个黑色方凳上。这不是装饰性摆设，而是某种仪轨的道具。
 
@@ -46,7 +46,7 @@ modified: "2026-08-30"
 
 ---
 
-> **原句 2:** "'Stick it in,' said the seaman."
+> **原句 2:** "Stick it in."
 
 **中文理解**：主持人对刺剑者的命令——以最粗鄙、最日常化的语言发出仪轨指令。
 
