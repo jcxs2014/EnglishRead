@@ -159,7 +159,7 @@ modified: "2026-08-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| dusk | 暮色 | the cat lay sleeping in the fading light of dusk |
+| twilight | 黄昏；暮光 | the shadows of the failing twilight deepened |
 | twilight | 暮光 | A land of perfect twilight |
 | hybrid | 混血；杂合 | who was only a half-breed, hybrid |
 | mulatto | 穆拉托人（混血） | who was only a half-breed, hybrid, a mere mulatto of the soul |

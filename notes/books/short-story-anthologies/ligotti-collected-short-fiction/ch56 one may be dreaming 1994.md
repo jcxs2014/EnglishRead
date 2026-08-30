@@ -151,7 +151,7 @@ modified: "2026-08-30"
 | encompass | 包含、环绕 | dying in one's sleep would encompass dreaming itself |
 | infinity | 无限 | the very face of infinity |
 | contemplate | 凝望、沉思 | a burial-ground in the clouds that I contemplate |
-| dimming | 变暗、黯淡 | a black fog in which everything will drown and dim |
+| dissipating | 消散（现在分词） | a black fog in which everything will drown and all my thoughts will be gone forever |
 | perpendicular | 垂直的 | framed within the wall perpendicular to the window |
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）

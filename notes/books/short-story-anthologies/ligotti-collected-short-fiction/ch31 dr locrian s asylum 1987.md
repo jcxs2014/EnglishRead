@@ -131,7 +131,7 @@ modified: "2026-08-30"
 | imperishable | 不朽的 | a thing utterly without destiny and thus imperishable |
 | vacuity | 空寂 | that infinite vacuity which is the essence of all that is immortal |
 | intern | 囚禁 | my mind has been interned |
-| immure | 幽禁于墙内 | immured another soul within the black walls |
+| immure | 幽禁于墙内 | immured another soul within the black and boundless walls |
 | lunatic | 疯子 | the wonderful music of those lunatics |
 | reverberate | 回荡 | echoed in all the remote places |
 | admonition | 告诫 | disregarded my parents' admonitions |

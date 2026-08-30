@@ -131,7 +131,7 @@ modified: "2026-08-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | connotation | 内涵、言外之意 | the title of Clown has always carried connotations of a noble sort |
-| ambiguous | 暧昧的、多义的 | Clowns have often had ambiguous and contradictory roles |
+| ambiguous | 暧昧的、多义的 | Clowns have often had ambiguous and sometimes contradictory roles |
 | subterranean | 地下的 | victims of this subterranean sabbath |
 | melancholy mummers | 忧郁的哑剧伶人 | this group of melancholy mummers constituted nothing less than an entirely independent festival |
 | pallid | 苍白的、无生气的 | the festival of those depressingly pallid clowns |

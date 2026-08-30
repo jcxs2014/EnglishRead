@@ -159,7 +159,6 @@ modified: "2026-08-30"
 |---|---|---|
 | homily | 讲道、训诫 | that collection of sermons, of prayers and homilies |
 | incantation | 咒语、吟诵 | the incantations of a dead language |
-| reverberant | 回响的 | the reverberant words that sounded from the other side |
 | visage | 面容、面貌 | a visage grown rigid at the sight of unimaginable horrors |
 | absconded | 潜逃、消失 | the three figures had absconded to their refuge of shadows |
 

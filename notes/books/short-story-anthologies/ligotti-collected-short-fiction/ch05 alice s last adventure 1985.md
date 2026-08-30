@@ -188,7 +188,6 @@ modified: "2026-08-30"
 |---|---|---|
 | gyring | 旋转；盘绕（gyre 的现在分词） | a tiny, misshapen figure seemed to be gyring about |
 | primamateria | （拉丁）原初质料；创作素材 | whose exploits served as the primamateria for my books |
-| somnambulist | 梦游者 | the tentative postures of somnambulists |
 | lucidity | 神志清明 | to attempt to confirm my lucidity by writing it all out |
 | corpore sano | （拉丁）于健康的身体中（mens sana in corpore sano） | it has always resided in corpore sano |
 | authoress | 女作家（旧式） | a rich, retired authoress-widow |

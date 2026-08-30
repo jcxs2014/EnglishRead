@@ -178,7 +178,6 @@ modified: "2026-08-30"
 | thralldom | 奴役；受支配状态 | in her era of thralldom |
 | oneiric | 梦的；梦境的 | afflicted with some kind of oneiric aphasia |
 | solipsism | 唯我论（认为只有自我真实） | a corollary to solipsism even occurred to me |
-| numinosity | 神圣/奇妙感（numinous 的名词） | zones of fractured numinosity |
 | eidola | （希腊）幻象；表象（复数） | those eidola on my poor patient's mental screen |
 | hypnopompic | 半醒的；将醒时的（幻觉） | The hypnopompic hallucination that followed |
 | animus | 敌意；内在驱动力 | the mannikins become the focus of her animus |
@@ -187,8 +186,6 @@ modified: "2026-08-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| somnambulist | 梦游者 | the tentative postures of somnambulists |
-| cachinnation | 大笑；狂笑 | Their cachinnations stir up the stagnant air |
 | incubus | 梦魇；压胸的恶魔 | that imaginary incubus sitting upon their chest |
 | portentous | 不祥的；预示的 | a certain kind of portentous mood |
 | delirium | 谵妄；神志昏乱 | the incoherent language of delirium |

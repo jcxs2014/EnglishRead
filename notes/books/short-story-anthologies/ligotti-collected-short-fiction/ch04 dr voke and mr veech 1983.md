@@ -176,7 +176,6 @@ modified: "2026-08-30"
 |---|---|---|
 | loft | 阁楼；顶层工作室 | the obscure loft where Voke, the recluse, has cloistered himself |
 | recluse | 隐居者 | Voke, the recluse, has cloistered himself |
-| brocade | 锦缎；织锦 | an armless, backless couch of complex brocade |
 | harlequin | 丑角；五彩斑驳的小丑 | the better part of a harlequin dangles into view |
 | cachinnation | 大笑；狂笑 | Their cachinnations stir up the stagnant air |
 | ultramarine | 深蓝（群青） | the only color left in the room is the ultramarine of the flames burning on the walls |

@@ -204,7 +204,7 @@ modified: "2026-08-30"
 | face | 脸 | His small ovoid face |
 | window | 窗 | my face looking in the window |
 | night | 夜 | in the moonlight |
-| field | 原野 | out to that old field |
+| field | 原野 | out to see if we can find that old field again |
 
 ---
 
