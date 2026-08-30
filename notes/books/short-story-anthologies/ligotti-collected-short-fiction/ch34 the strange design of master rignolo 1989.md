@@ -3,168 +3,175 @@
 modified: "2026-08-30"
 ---
 
-# 34. The Strange Design Of Master Rignolo（里尼奥洛大师的奇诡设计 / 1989）
+# 34. The Strange Design Of Master Rignolo（1989）
 
+## 一句话总结
 
-## 精读
-
-### 第1处：与虚空共融——「a living communion with the void」
-
-① So you see, my critics, what we have in these little pictures is a living communion with the void, a vital annihilation and a thoroughly decorative eternity of—
-
-中文理解：故诸君可见，这小画中所具者，是与虚空之活共融、一种鲜活的寂灭、一场极尽装饰的永恒——
-
-句子结构：So you see + what we have in these little pictures is a living communion with the void + a vital annihilation + and a thoroughly decorative eternity（破折号收束）
-
-关键词：living communion with the void（与虚空之活共融）、vital annihilation（鲜活的寂灭）、thoroughly decorative eternity（极尽装饰的永恒）
-
-表达方式：用三组矛盾修饰（活/虚空、鲜活/寂灭、装饰/永恒）把绘画写成一种主动的虚无体验。
-
-为什么这样写：Rignolo 自辩其画「目的」是让人安居于虚无——不是描绘，而是接入。Ligotti 在此把艺术定义为「与虚空交通」的仪式，装饰性反成永恒的面具。
+Nolon 和 Grissul 在一个月夜见面，讨论 Grissul 在野外发现的地面上的巨大面孔，随后被邀请去参观 Rignolo 的画室；Rignolo 向他们展示了他能让人进入画中世界的「主作品」，Grissul 进入后尖叫着说一切都是欺骗，最终消失在那张巨大的面孔中，而 Nolon 和 Grissul 回到他们见面的公园， Grissul 说他必须「你知道的」——暗示他必须自杀。
 
 ---
 
-### 第2处：邻于无——「which neighbor on nothingness and stand next door to endlessness」
+## 精读（10处）
 
-① …but may loiter in perpetuity in these lands of mine, which neighbor on nothingness and stand next door to endlessness.
+### 第1处：公园——「像一块破碎玻璃的三角地带」
 
-中文理解：……却可永驻于吾之境，彼境邻于无、与无尽门对门。
+> **原句 1:** This was a long, thin stretch of land—vaguely triangular in shape, like a piece of broken glass—bordered by three streets of varying breadth, varying evenness of surface, and of varying stages of disintegration as each thoroughfare succumbed in its own way and in its own time to the subtle but continuous movements of the slumbering earth below.
 
-句子结构：but may loiter in perpetuity + in these lands of mine + which neighbor on nothingness + and stand next door to endlessness
+中文理解：这是一块狭长的土地——形状模糊地呈三角形，像一块破碎的玻璃——被三条不同宽度、不同平整度、不同解体阶段的街道所包围，因为每条大道都以自己的方式和时间屈服于下方沉睡地球的微妙但持续的运动。
 
-关键词：loiter in perpetuity（永驻闲荡）、these lands of mine（吾之境）、neighbor on nothingness（邻于无）、stand next door to endlessness（与无尽门对门）
+句子结构：This was a long, thin stretch of land 是主句；vaguely triangular in shape, like a piece of broken glass 是 land 的同位语；bordered by three streets… 是分词状语；of varying breadth, varying evenness of surface, and of varying stages of disintegration 是 streets 的定语；as each thoroughfare succumbed… 是时间状语从句。
 
-表达方式：用「邻于无/与无尽门对门」把画中境写成介于虚无与永恒之间的居所；「loiter」写无目的的安居。
+关键词：vaguely triangular in shape（形状模糊地呈三角形）、a piece of broken glass（像一块破碎的玻璃）、varying stages of disintegration（不同解体阶段）、succumbed to（屈服于）
 
-为什么这样写：Rignolo 的风景不是逃逸到某处，而是悬在「无」与「无尽」之间。Ligotti 写的是一种无方向、无事件的永驻——比死更静，比生更空。
+表达方式：「broken glass」是全篇的第一个意象——暗示这个世界是不完整的、易碎的。
 
----
-
-### 第3处：终极暗之外——「that ultimate darkness beyond dreams」
-
-① …who may thus never reach that ultimate darkness beyond dreams, but may loiter in perpetuity in these lands of mine…
-
-中文理解：……遂永不能抵那梦外之终极暗，却可永驻于吾之境……
-
-句子结构：who may never reach that ultimate darkness beyond dreams + but may loiter in perpetuity in these lands of mine
-
-关键词：ultimate darkness beyond dreams（梦外之终极暗）、loiter in perpetuity（永驻闲荡）、these lands of mine（吾之境）
-
-表达方式：用「梦外之终极暗」把更深的虚无写成连画中眠行者都到不了之处；Rignolo 的画是暗前的门厅。
-
-为什么这样写：画家把「终极暗」设为比自己画境更深的终点——他的风景只是中继站。Ligotti 在此分级虚无：画中是暂歇，梦外之暗才是归处。
+为什么这样写：这是 Ligotti 对「风景」的典型描绘——不是稳定的，而是处于持续的解体过程中。
 
 ---
 
-### 第4处：带装饰的深渊——「The abyss with a decor, the ultimate flight」
+### 第2处：Rignolo 的宣言——「我的风景不是为了让你进入而设计的」
 
-① I've put myself into the scene at last. The abyss with a decor, the ultimate flight! In short—survival in the very maw of oblivion.
+> **原句 2:** Think anything you like about these scenes, it's all the same to me. Whisper to each other, my hearing is wonderfully bad. Say that my landscapes do not invite one's eyes to pass into them and wander, let alone linger for the briefest moment. Nevertheless, that is exactly their purpose, and as far as I am concerned they are quite adequate to it, meticulously efficient.
 
-中文理解：吾终入此景。带装饰之深渊，终极之逃！简言之——存活于遗忘之咽喉中。
+中文理解：对这些场景有任何想法对我来说都一样。互相窃窃私语，我的听力差得惊人。说我的风景不邀请人的眼睛进入并漫游，更不用说停留片刻了。然而，这正是它们的目的，就我而言，它们非常适合这个目的，非常高效。
 
-句子结构：I've put myself into the scene at last + The abyss with a decor + the ultimate flight + In short—survival in the very maw of oblivion
+句子结构：Think anything you like about these scenes 是祈使句；it's all the same to me 是主句；Whisper to each other, my hearing is wonderfully bad 是并列祈使句；Say that my landscapes do not invite one's eyes to pass into them and wander 是宾语从句；let alone linger for the briefest moment 是状语；Nevertheless, that is exactly their purpose 是主句；and as far as I am concerned they are quite adequate to it 是并列主句。
 
-关键词：put himself into the scene（入此景）、abyss with a decor（带装饰之深渊）、ultimate flight（终极之逃）、survival in the maw of oblivion（存活于遗忘之咽喉）
+关键词：my landscapes do not invite one's eyes to pass into them（我的风景不邀请眼睛进入其中）、let alone linger（更不用说停留）、that is exactly their purpose（这正是它们的目的）、meticulously efficient（非常高效）
 
-表达方式：用「带装饰之深渊」把自杀式逃逸写成有审美包装的坠落；「maw of oblivion」把遗忘写成吞噬之口。
+表达方式：Rignolo 的「低效」实际上是一种「高效」——他的画不是为了「让人进入」而设计的，而是为了让「眼睛」进入。
 
-为什么这样写：Rignolo 自认已把自己放进画里——「带装饰的深渊」是全书的题眼：艺术是美化过的自我消灭。Ligotti 让画家以得意口吻宣告自己的消亡。
-
----
-
-### 第5处：万物以异眼视你——「everything looks at you with strange eyes」
-
-① That's the way it is out there—everything looks at you with strange eyes. But you can get around this intolerable situation, jump the fence, so to speak, and trespass into a world where you belong for a change.
-
-中文理解：外间即是如此——万物以异眼视你。然你可绕此难忍之境，不妨说跳篱而入一属你之界，暂得其所。
-
-句子结构：That's the way it is out there + everything looks at you with strange eyes + But you can get around this intolerable situation + jump the fence + and trespass into a world where you belong
-
-关键词：everything looks at you with strange eyes（万物以异眼视你）、intolerable situation（难忍之境）、jump the fence（跳篱）、trespass into a world where you belong（擅入属你之界）
-
-表达方式：用「万物以异眼视你」写真实世界的敌意凝视；「跳篱」把逃逸写成擅入私人领地。
-
-为什么这样写：Rignolo 劝人逃离「真实」——因为真实里的万物都在异样地盯着你。Ligotti 把现实写成一场被监视的难堪，画境反是「你所属」的安宁。
+为什么这样写：这是 Ligotti 对「风景画」传统的颠覆——传统的风景画邀请观者「进入」画面，但 Rignolo 的画是让「眼睛」进入，而不是让「身体」进入。
 
 ---
 
-### 第6处：终极暗前——「the ultimate darkness beyond dreams」
+### 第3处：Rignolo 的哲学——「在我们的世界里，一切都用奇怪的眼睛看着你」
 
-① a paradise for sleepwalkers, but only those sleepwalkers who never rise to their feet… who may thus never reach that ultimate darkness beyond dreams
+> **原句 3:** That's the way it is out there—everything looks at you with strange eyes. But you can get around this intolerable situation, jump the fence, so to speak, and trespass into a world where you belong for the change.
 
-中文理解：眠行者之天堂，然仅那些永不起身之眠行者……遂永不能抵那梦外之终极暗
+中文理解：这就是外面的情况——一切都用奇怪的眼睛看着你。但你可以绕过这种无法忍受的情况，可以说是跳过栅栏，非法进入一个你属于那里的世界。
 
-句子结构：（见第3处）此处重提终极暗作为画境之外的更深处
+句子结构：That's the way it is out there 是主句；everything looks at you with strange eyes 是主句的补足语；But you can get around this intolerable situation 是并列主句；jump the fence, so to speak 是宾语补足语；and trespass into a world where you belong for the change 是并列谓语。
 
-关键词：paradise for sleepwalkers（眠行者天堂）、never rise to their feet（永不起身）、ultimate darkness beyond dreams（梦外终极暗）
+关键词：everything looks at you with strange eyes（一切都用奇怪的眼睛看着你）、to get around this intolerable situation（绕过这种无法忍受的情况）、jump the fence（跳过栅栏）、trespass into a world（非法进入一个世界）
 
-表达方式：重复「终极暗」作为画中人都到不了的地；sleepwalker 意象写无觉的安居。
+表达方式：「奇怪的眼睛」是全篇的核心意象——世界不是被动的，而是主动地「看着」我们，这是一种监控性的凝视。
 
-为什么这样写：嵌套强调——画境是眠行者的天堂，但连他们都停在前厅。Ligotti 用层叠的「不到达」制造虚无的纵深。
-
----
-
-### 第7处：逐入成为——「each of those little swirls is a cove which one may enter into and become」
-
-① each of those little swirls is a cove which one may enter into and become; each line—jagged or merely jittery—is a cartographer's shoreline which may be explored at all points at once
-
-中文理解：每一小漩涡皆为一小湾，人可入而化为之；每一线——锯齿或仅颤者——皆为制图者之岸线，可一时遍探其所有点
-
-句子结构：each of those little swirls is a cove + which one may enter into and become + each line is a cartographer's shoreline + which may be explored at all points at once
-
-关键词：little swirls is a cove（小漩涡即小湾）、enter into and become（入而化为）、cartographer's shoreline（制图者岸线）、explored at all points at once（一时遍探）
-
-表达方式：用「入而化为」把观画写成与笔触合一；「遍探所有点」取消顺序，写非时序的沉浸。
-
-为什么这样写：Rignolo 描述画中体验是「成为」笔触而非「看」画。Ligotti 把艺术欣赏重写为本体论溶解——你不是旁观者，你是被画吸收的元素。
+为什么这样写：这是 Ligotti 对「异化」的描绘——在现实世界中，我们被世界所「注视」，而在 Rignolo 的世界中，我们可以「属于」那里。
 
 ---
 
-### 第8处：无面之貌——「His small ovoid face was as lifeless as a mask」
+### 第4处：进入主作品——「黑暗中有史以来最黑暗的房间」
 
-① His small ovoid face was as lifeless as a mask: his skin had the same faded complexion as his clothes and was just as slack, flabby; his lips were the same color as his skin but more full and taut…
+> **原句 4:** The door slammed closed and for a moment there was no place on earth darker than that little room.
 
-中文理解：他小巧卵形脸如面具般无生：肤呈与衣同之褪色调，且同样松弛、虚浮；唇与肤同色而更饱满紧绷……
+中文理解：门砰地关上，有片刻的时间，地球上没有比那个小房间更黑暗的地方了。
 
-句子结构：His small ovoid face was as lifeless as a mask + 冒号 his skin had the same faded complexion + and was just as slack + his lips were the same color but more full and taut
+句子结构：The door slammed closed 是主句；and for a moment there was no place on earth darker than that little room 是并列主句。
 
-关键词：small ovoid face（小巧卵形脸）、lifeless as a mask（如面具无生）、faded complexion（褪色调）、slack, flabby（松弛虚浮）、full and taut（饱满紧绷）
+关键词：slammed closed（砰地关上）、for a moment（有一刻）、no place on earth darker than（地球上没有比…更黑暗的地方）
 
-表达方式：用「脸如面具」写画家已半是画中物；肤色衣色同质化消泯人形边界。
+表达方式：这是进入 Rignolo 的「主作品」的入口——不是光明，而是终极的黑暗。
 
-为什么这样写：Rignolo 本人已像自己画里的人偶——他不是描绘虚无，而是已活成虚无的标本。Ligotti 让「作者=作品」在形象上先兑现。
-
----
-
-### 第9处：跳篱——「jump the fence, so to speak」
-
-① But you can get around this intolerable situation, jump the fence, so to speak, and trespass into a world where you belong for a change.
-
-中文理解：然你可绕此难忍之境，不妨说跳篱，擅入一属你之界，暂得其所。
-
-句子结构：（见第5处）jump the fence 作插说
-
-关键词：jump the fence（跳篱）、trespass（擅入）、world where you belong（属你之界）
-
-表达方式：用「跳篱」口语化把形而上学逃逸写成翻越围墙；trespass 暗示这「归属」本是非法的。
-
-为什么这样写：呼应前文「everything looks at you with strange eyes」——真实是围场，画境是翻墙偷入的归属。Ligotti 把存在选择写成一场轻微越界。
+为什么这样写：这是 Ligotti 对「启蒙」的颠覆——不是从黑暗进入光明，而是从光明进入终极的黑暗。
 
 ---
 
-### 第10处：渐入永恒——「Little by little, then... forever」
+### 第5处：主作品的幻象——「宇宙的风景」
 
-① I've got my foot in the door, my face looking in the window. Little by little, then... forever. True? No, don't say anything.
+> **原句 5:** And they emerged on all sides of the spectator, above and below as well, so that an irresistible conviction was instilled that the tiny gravelike room had expanded into a star-strewn corridor of night, the certainty created that one was suspended in space without practical means of remaining there.
 
-中文理解：吾足已入门，面已窥窗。那么，一点点地……永恒。是耶？不，莫语。
+中文理解：它们在观众的四面八方出现，也在上方和下方出现，因此一种无法抗拒的信念被灌输进来：这个小小的坟墓般的房间已经扩展成了一个充满星光的夜晚走廊，一种确定性被创造出来：一个人被悬浮在空间中，没有实际的方法停留在那里。
 
-句子结构：I've got my foot in the door + my face looking in the window + Little by little, then... forever + True? + No, don't say anything
+句子结构：And they emerged on all sides of the spectator, above and below as well 是主句；so that an irresistible conviction was instilled 是结果状语从句；that the tiny gravelike room had expanded into a star-strewn corridor of night 是 conviction 的同位语从句；the certainty created that one was suspended in space 是独立主格结构；without practical means of remaining there 是状语。
 
-关键词：foot in the door（足入门）、face looking in the window（面窥窗）、Little by little, then... forever（一点点地……永恒）、True?（是耶）
+关键词：emerged on all sides（四面八方出现）、a star-strewn corridor of night（充满星光的夜晚走廊）、suspended in space（被悬浮在空间中）、without practical means of remaining there（没有实际的方法停留在那里）
 
-表达方式：用「足入门/面窥窗」写部分进入；「一点点地……永恒」把缓慢消融写成终点。
+表达方式：这是 Rignolo 的「主作品」的核心——不是一幅画，而是一个「空间」，一个让人悬浮在其中的宇宙。
 
-为什么这样写：Rignolo 知道自己只是「刚进门」，但宣告将「一点点地」直到永恒。Ligotti 以得意又疯癫的口吻，让画家把自我消灭讲成一项进行中的成就。
+为什么这样写：这是 Ligotti 对「艺术」力量的最终描绘——艺术不只是「反映」现实，而是创造新的现实。
+
+---
+
+### 第6处：宇宙的风景——「稻草、绳索和宇宙的沼泽」
+
+> **原句 6:** Finally, enormous stalks shot out of nowhere, quickly crisscrossed to form interesting and well-balanced patterns, and suddenly froze. They were a strange shade of green and wore burry crowns of a pinkish color, like prickly brains.
+
+中文理解：最后，巨大的稻草从无处射出，快速地交叉形成有趣且平衡的模式，然后突然冻结。它们是一种奇怪的绿色，戴着粉红色的多刺王冠，像多刺的大脑。
+
+句子结构：Finally, enormous stalks shot out of nowhere 是主句；quickly crisscrossed to form interesting and well-balanced patterns 是并列谓语；and suddenly froze 是并列谓语；They were a strange shade of green 是主句；and wore burry crowns of a pinkish color 是并列谓语；like prickly brains 是比喻。
+
+关键词：enormous stalks（巨大的稻草）、crisscrossed（交叉的）、interesting and well-balanced patterns（有趣且平衡的模式）、a strange shade of green（一种奇怪的绿色）
+
+表达方式：「prickly brains」是全篇最令人不安的意象之一——稻草不是植物，而是大脑，是思想的物质化。
+
+为什么这样写：这是 Ligotti 对「自然」的最终异化——自然不是有机的，而是机械的、像大脑一样的。
+
+---
+
+### 第7处：面孔——「在泥土中，有一张巨大的面孔」
+
+> **原句 7:** "The face," he said, leaning back in his chair. "It was right there, about the size of, I don't know, a window or a picture hanging on a wall, except that it was in the ground and it was a big oval, not rectangular in any way. Just as if someone had partly buried a giant, or better yet, a giant's mask."
+
+中文理解：「面孔，」他说，靠在椅背上。「它就在那里，大约大小，我也不知道，像一扇窗户或一幅挂在墙上的画，只不过它在 ground 里，是一个巨大的椭圆形，而不是任何方式的矩形。就像有人 partly 埋了一个巨人，或者更好的说法是，一个巨人的面具。」
+
+句子结构：The face 是主语；he said 是插入语；leaning back in his chair 是分词状语；It was right there 是主句；about the size of, I don't know, a window or a picture hanging on a wall 是同位语；except that it was in the ground 是状语；and it was a big oval 是并列谓语；not rectangular in any way 是状语；Just as if someone had partly buried a giant 是比喻状语；or better yet, a giant's mask 是并列比喻。
+
+关键词：a big oval（一个巨大的椭圆形）、not rectangular in any way（而不是任何方式的矩形）、partly buried a giant（partly 埋了一个巨人）、a giant's mask（一个巨人的面具）
+
+表达方式：面孔是「面具」——这暗示面孔不是真实的，而是某种伪装或角色。
+
+为什么这样写：这是 Grissul 发现的核心——在地下有一张巨大的面孔，它是「面具」而不是真实的脸，这暗示现实只是某种更大的面具的一部分。
+
+---
+
+### 第8处：Rignolo 的最终目的——「我把我的脸放在窗口往里看」
+
+> **原句 8:** I've put myself into the scene at last. The abyss with a decor, the ultimate flight! In short—survival in the very maw of oblivion. Oh, perhaps there's still some work to be done. But I've made a good start, haven't I? I've got my foot in the door, my face looking in the window.
+
+中文理解：我终于把自己放进了场景中。有装饰的深渊，最终的飞行！简而言之——在遗忘的嘴巴里的生存。哦，也许还有一些工作要做。但我已经做了一个好的开始，不是吗？我已经把我的脚放进了门口，我的脸正往窗口里看。
+
+句子结构：I've put myself into the scene at last 是主句；The abyss with a decor, the ultimate flight 是主语的补足语；In short—survival in the very maw of oblivion 是主语的补足语；But I've made a good start 是并列主句；haven't I 是反义疑问句；I've got my foot in the door 是主句；my face looking in the window 是独立主格结构。
+
+关键词：to put oneself into the scene（把自己放进场景中）、the abyss with a decor（有装饰的深渊）、the ultimate flight（最终的飞行）、survival in the very maw of oblivion（在遗忘的嘴巴里的生存）
+
+表达方式：「my face looking in the window」是全篇的最后意象——Rignolo 正在把自己变成他所描绘的风景的一部分。
+
+为什么这样写：这是 Ligotti 对「艺术与艺术家融合」的最终描绘——艺术家不是站在作品之外，而是成为作品的一部分。
+
+---
+
+### 第9处：Grissul 的消失——「他尖叫着说这是欺骗」
+
+> **原句 9:** And why did he scream that way, why did he say it was all a trick, a mockery of his dreams, that "filthy thing in the earth"? Why did he scream not to be "buried forever in that strange, horrible mask"?
+
+中文理解： And why did he scream that way, why did he say it was all a trick, a mockery of his dreams, that "filthy thing in the earth"? Why did he scream not to be "buried forever in that strange, horrible mask"?
+
+中文理解：他为什么要那样尖叫，为什么他说这一切都是欺骗，对他梦想的嘲笑，「那个大地上的肮脏东西」？他为什么尖叫着不要「永远被埋葬在那个奇怪、可怕的面具里」？
+
+句子结构：And why did he scream that way 是主句；why did he say it was all a trick 是并列主句；a mockery of his dreams 是 trick 的同位语；that "filthy thing in the earth" 是 a mockery 的同位语；Why did he scream not to be "buried forever in that strange, horrible mask" 是并列主句。
+
+关键词：it was all a trick（这一切都是欺骗）、a mockery of his dreams（对他梦想的嘲笑）、the filthy thing in the earth（大地上的肮脏东西）、buried forever in that strange, horrible mask（永远被埋葬在那个奇怪、可怕的面具里）
+
+表达方式：Rignolo 的尖叫揭示了他进入画中世界后的恐怖——不是变成风景的一部分，而是被「面具」所吞噬。
+
+为什么这样写：这是 Ligotti 对「逃避现实」的警告——试图逃避到艺术世界中，最终只会被艺术世界所吞噬。
+
+---
+
+### 第10处：最后的对话——「他试图离开，却又想用他不知道的东西来逃离」
+
+> **原句 10:** "He was trying to get away, to get away with something." "That's right," said Nolon just as softly, looking around. "Because he wanted to escape from here without having to you-know-what. How would that look?"
+
+中文理解：「他正试图逃跑，企图逃脱一些事情。」「没错，」Nolon 同样轻声地说，环顾四周。「因为他想从这里逃脱而不必你知道的。那会是什么样子？」
+
+句子结构：He was trying to get away 是主句；to get away with something 是主语的补足语；That's right 是主句；said Nolon just as softly 是插入语；looking around 是分词状语；Because he wanted to escape from here 是原因状语从句；without having to you-know-what 是状语；How would that look 是主句。
+
+关键词：to get away（逃跑）、to get away with something（企图逃脱一些事情）、to escape from here（从这里逃脱）、without having to you-know-what（不必你知道的）
+
+表达方式：「you-know-what」是未说出的「死亡」——Grissul 必须死亡才能完成 Rignolo 的设计。
+
+为什么这样写：这是 Ligotti 对「逃避」的最终悖论——Rignolo 试图通过死亡来逃避，但他不知道死亡正是他所设计的命运。
 
 ---
 
@@ -173,41 +180,35 @@ modified: "2026-08-30"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| ovoid | 卵形的 | His small ovoid face |
-| communion | 共融 | a living communion with the void |
-| annihilation | 寂灭 | a vital annihilation |
-| perpetuity | 永驻 | loiter in perpetuity |
-| oblivion | 遗忘 | survival in the very maw of oblivion |
-| abyss | 深渊 | The abyss with a decor |
-| cartographer | 制图者 | a cartographer's shoreline |
-| jagged | 锯齿的 | each line—jagged or merely jittery |
-| burry | 具刺毛的 | wore burry crowns of a pinkish color |
-| locale | 地点 | actual locales on which my pictures are based |
+|---------|------|------|
+| paradise for sleepwalkers | 梦游者的天堂 | …at best they are a paradise for sleepwalkers… |
+| to inhabit one's landscapes | 栖居于某人的风景中 | …one must, in no figurative sense, grow into them. At best they are a paradise for sleepwalkers… |
+| to grow into them | 成长为它们 | …one must, in no figurative sense, grow into them. |
+| the abyss with a decor | 有装饰的深渊 | The abyss with a decor, the ultimate flight! |
+| survival in the very maw of oblivion | 在遗忘的嘴巴里的生存 | …survival in the very maw of oblivion. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| decor | 装饰 | The abyss with a decor |
-| swirl | 漩涡 | each of those little swirls is a cove |
-| trespass | 擅入 | trespass into a world where you belong |
-| sleepwalker | 眠行者 | a paradise for sleepwalkers |
-| studio | 画室 | Rignolo's studio |
-| niche | 壁龛 | this shapeless gallery of nooks |
+|---------|------|------|
+| to trespass into a world | 非法进入一个世界 | …trespass into a world where you belong for the change. |
+| everything looks at you with strange eyes | 一切都用奇怪的眼睛看着你 | That's the way it is out there—everything looks at you with strange eyes. |
+| to put oneself into the scene | 把自己放进场景中 | I've put myself into the scene at last. |
+| a mockery of his dreams | 对他梦想的嘲笑 | …a mockery of his dreams, that "filthy thing in the earth"? |
+| to be buried forever in that mask | 永远被埋葬在那个面具里 | Why did he scream not to be "buried forever in that strange, horrible mask"? |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| picture | 画 | these little pictures |
-| face | 脸 | His small ovoid face |
-| window | 窗 | my face looking in the window |
-| night | 夜 | in the moonlight |
-| field | 原野 | out to see if we can find that old field again |
+|---------|------|------|
+| a piece of broken glass | 像一块破碎的玻璃 | …vaguely triangular in shape, like a piece of broken glass… |
+| a vague hint of material forms | 物质形式的模糊暗示 | A vague hint of material forms might emerge here and there… |
+| to jump the fence | 跳过栅栏 | …jump the fence, so to speak, and trespass into a world… |
+| to get away with something | 企图逃脱一些事情 | He was trying to get away, to get away with something. |
+| the filthy thing in the earth | 大地上的肮脏东西 | …that "filthy thing in the earth"? |
 
 ---
 
 ## 一句话总结
 
-> 一篇画中逃逸：侏儒画家 Rignolo 以「风景画」为饵，把夜游者 Nolon、Grissul 引入暗室——墙上图景活化为一片长着人脸的沼泽荒地，Rignolo 自己扑入那「地里的巨脸」消失；结尾三人剪影走入原野，矮个没入草丛只留一只鞋。把「艺术=遁入虚无」写成一种可坠入的活景，画家以自身为祭完成「带装饰的深渊」。
+Nolon 和 Grissul 在月夜的公园见面，讨论 Grissul 在野外发现的地面上的巨大面孔，随后被邀请去参观 Rignolo 的画室；Rignolo 向他们展示了他能让人进入画中世界的主作品，Grissul 进入后尖叫着说一切都是对他梦想的嘲笑，最终消失在那张巨大的面孔中，而 Nolon 和 Grissul 回到公园，讨论 Rignolo 的命运——他必须「你知道的」才能完成他的逃避。
