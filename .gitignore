@@ -104,6 +104,9 @@ sync_memory.sh
 # --- Hermes 项目记忆系统（本地缓存，不纳入 git）---
 HERMES_MEMORY/
 
+# --- ZCode CLI 本地计划（plan-sess_*.md，IDE 独立缓存）---
+.zcode/
+
 # --- 原文源文件（只跟踪精读 _精读.md，原文 .src.md 忽略）---
 *.src.md
 
