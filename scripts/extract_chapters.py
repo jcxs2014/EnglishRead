@@ -11,6 +11,7 @@ extract_chapters.py — 把书籍 epub 拆分为逐章纯文本（精读前的"�
   - 输出 <out-dir>/ch<NN>_<slug>.txt，打印每章字数与推断标题。
 """
 import re, sys, html, os, zipfile, argparse, glob, posixpath
+from urllib.parse import unquote
 
 def clean(raw: str) -> str:
     t = re.sub(r'<(p|div|h[1-6]|li|br)\b[^>]*>', '\n', raw)
@@ -52,7 +53,7 @@ def main():
     for it in re.findall(r'<item\b[^>]*/?>', opf):
         idm = re.search(r'id="([^"]+)"', it); hm = re.search(r'href="([^"]+)"', it)
         tm = re.search(r'media-type="([^"]+)"', it)
-        if idm and hm: manifest[idm.group(1)] = (posixpath.normpath(posixpath.join(opf_path, hm.group(1))), (tm.group(1) if tm else ''))
+        if idm and hm: manifest[idm.group(1)] = (posixpath.normpath(posixpath.join(opf_path, unquote(hm.group(1)))), (tm.group(1) if tm else ''))
 
     # TOC 标签映射 href -> title
     labels = {}
@@ -62,9 +63,9 @@ def main():
             for blk in ncx.split('<navPoint ')[1:]:
                 lm = re.search(r'<text>(.*?)</text>', blk); sm = re.search(r'<content\s+src="([^"]+)"', blk)
                 if lm and sm:
-                    labels[posixpath.normpath(posixpath.join(opf_path, html.unescape(sm.group(1)).split('#')[0]))] = html.unescape(lm.group(1))
+                    labels[posixpath.normpath(posixpath.join(opf_path, unquote(html.unescape(sm.group(1)).split('#')[0])))] = html.unescape(lm.group(1))
 
-    skip_pat = re.compile(r'(cover|copyright|colophon|\bcontents\b|\btoc\b|title[_ ]?page|other ?books|dedication|acknowledg|\bnotes\b|appendix|translator|bibliograph|\bindex\b|epigraph|about ?the ?author|praise ?for|excerpt)', re.I)
+    skip_pat = re.compile(r'(cover|copyright|colophon|\bcontents\b|\btoc\b|title[_ ]?page|other ?books|dedication|acknowledg|\bnotes\b(?! on the writing)|appendix|translator|bibliograph|\bindex\b|epigraph|about ?the ?author|praise ?for|excerpt)', re.I)
     out_dir = a.out_dir or '.'
     os.makedirs(out_dir, exist_ok=True)
     written, skipped = [], []
