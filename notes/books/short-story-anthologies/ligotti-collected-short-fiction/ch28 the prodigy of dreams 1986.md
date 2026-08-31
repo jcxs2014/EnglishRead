@@ -22,7 +22,7 @@ modified: "2026-08-30"
 为什么这样写：开篇即把「死」浪漫化为一场艺术化的告别——Emerson 不是怕死，而是渴望一场配得上自己的死。Ligotti 点出全书核心：对形而上的迷恋终将招来它所恋慕之物。
 
 ### 第2处：不可见之境——「a swirling, fluttering motion that was belied by the relative order of the seen」
-> **原句 1:** For within these imagined or divined spheres there existed a certain... confusion, a swirling, fluttering motion that was belied by the relative order of the seen. Only on rare occasions could he enter these unseen spaces, and always unexpectedly.
+> **原句 2:** For within these imagined or divined spheres there existed a certain... confusion, a swirling, fluttering motion that was belied by the relative order of the seen. Only on rare occasions could he enter these unseen spaces, and always unexpectedly.
 
 中文理解：因在这些想象或直觉到的界域里，存着某种……混乱，一种漩涡般、扑动般的运动，与可见之物相对的秩序恰成反衬。他仅于罕见时刻能进入这些不可见之空间，且总在出其不意时。
 
@@ -35,7 +35,7 @@ modified: "2026-08-30"
 为什么这样写：Emerson 的学者生涯即在追这「相对的秩序」之后的混乱。Ligotti 在此建立全书的认识论：所见是表层，真相是下方翻涌的混沌——而学者偏偏能偶入其中。
 
 ### 第3处：Cynothoglys 现身——「the god without shape, the god of changes and confusion」
-> **原句 1:** "It could be distantly related, perhaps, to those numina of Roman cesspools and sewage systems. But it is not a mere Cloacina, not a Mephitis or Robigo. In name, the god is known as Cynothoglys: the god without shape, the god of changes and confusion, the god of decompositions, the mortician god of both gods and men, the metamortician of all things. There is no fee demanded."
+> **原句 3:** "It could be distantly related, perhaps, to those numina of Roman cesspools and sewage systems. But it is not a mere Cloacina, not a Mephitis or Robigo. In name, the god is known as Cynothoglys: the god without shape, the god of changes and confusion, the god of decompositions, the mortician god of both gods and men, the metamortician of all things. There is no fee demanded."
 
 中文理解：「它或许与罗马阴沟污水之神有远亲。但它非仅 Cloacina，非 Mephitis 或 Robigo。其名，神称为 Cynothoglys：无形之神、变化与混乱之神、衰败之神、诸神与人类的殡葬之神、万有之超殡者。不取分文。」
 
@@ -48,7 +48,7 @@ modified: "2026-08-30"
 为什么这样写：Cynothoglys 是 Ligotti 自创的「衰变之神」，集所有腐坏与终结于一身。它「不取分文」暗示：你主动祈求，它便免费履约——正是 Emerson 年轻时所求。神名本身是 Ligotti 宇宙的锚点。
 
 ### 第4处：祭坛前之祈——「And as others only sink into their deaths—into mine I would soar」
-> **原句 1:** I conceived the primal salvation of tearing flesh, of seizure by the god and the ecstatic rending of the frail envelope of skin and sinew. And as others only sink into their deaths—into mine I would soar.
+> **原句 4:** I conceived the primal salvation of tearing flesh, of seizure by the god and the ecstatic rending of the frail envelope of skin and sinew. And as others only sink into their deaths—into mine I would soar.
 
 中文理解：我构想了那原初的救赎：撕肉，被神攫取，狂喜地裂开那脆弱的皮与腱之囊。而他人只沉入他们的死——我的死，我将翱翔而入。
 
@@ -61,7 +61,7 @@ modified: "2026-08-30"
 为什么这样写：青年 Emerson 在祭坛前把「死」许愿成艺术化的飞升。Ligotti 让读者看到：这「理想之死」是一份契约，多年后神来兑现。此处埋下终局「翱翔的惨叫」的伏笔。
 
 ### 第5处：地窖尸阵——「Like a trail of dominos winding round and round」
-> **原句 1:** "None of the animals actually seem to have been eaten," he quietly observed, and that curious piping in his throat sounded almost louder than his words. "No," Arthur Emerson agreed with some bewilderment. He then reached up to grasp a thick black extension cord… "Like a trail of dominos winding round and round. But no true sense to it."
+> **原句 5:** "None of the animals actually seem to have been eaten," he quietly observed, and that curious piping in his throat sounded almost louder than his words. "No," Arthur Emerson agreed with some bewilderment. He then reached up to grasp a thick black extension cord… "Like a trail of dominos winding round and round. But no true sense to it."
 
 中文理解：「这些动物实则似皆未被食，」他轻声道，喉间那古怪的哨音几乎盖过言语。「不，」Emerson 略带困惑地认同。他遂伸手抓住一根粗黑延长线……「如一环环骨牌绕圈蜿蜒。但无真意于其中。」
 
@@ -74,7 +74,7 @@ modified: "2026-08-30"
 为什么这样写：猫把猎物尸首摆成仪式阵却未食——这不是饥饿，是「祭祀的雏形」。Emerson 想看图案的「意义」，而 Graff（已被无形之神渗透）的哨音暗示意义在别处。Ligotti 写的是预兆的累积：每一桩怪事都是神临前的脚印。
 
 ### 第6处：墙上的梦痕——「the shapeless, groping horror that appeared to have crawled from his own dream」
-> **原句 1:** "What? No," decided Arthur Emerson as he gazed at the shapeless, groping horror that appeared to have crawled from his own dream and stained itself into the stone before him. "Leave everything exactly as it is," he ordered the old whistling servant.
+> **原句 6:** "What? No," decided Arthur Emerson as he gazed at the shapeless, groping horror that appeared to have crawled from his own dream and stained itself into the stone before him. "Leave everything exactly as it is," he ordered the old whistling servant.
 
 中文理解：「什么？不，」Emerson 决然道，凝视那无形状、摸索般的恐怖——它仿佛从他自己的梦中爬出，把自己染进面前的石壁。「原样留着一切，」他命令那吹哨的老仆。
 
@@ -87,7 +87,7 @@ modified: "2026-08-30"
 为什么这样写：墙上的痕是 Emerson 自身梦的实体化——他追寻的不可见之境，已反渗进他的居所。Ligotti 在此让「内在」与「外在」的边界崩解：你凝视深渊，深渊爬上墙来。
 
 ### 第7处：神之降临——「the god, like some obedient slave, descended upon its victim」
-> **原句 1:** Risking an accusation of bad manners, Arthur Emerson failed to rise from his chair to greet the guest he had invited so long ago. "You are too late," he said in a dry voice. "But since you have taken the trouble..." And the god, like some obedient slave, descended upon its victim.
+> **原句 7:** Risking an accusation of bad manners, Arthur Emerson failed to rise from his chair to greet the guest he had invited so long ago. "You are too late," he said in a dry voice. "But since you have taken the trouble..." And the god, like some obedient slave, descended upon its victim.
 
 中文理解：冒着失礼之嫌，Emerson 未离座起立去迎那邀请已久的客。「你来迟了，」他干声道。「既你已费心……」而那神，如某驯顺之奴，降临其牺牲之上。
 
@@ -100,7 +100,7 @@ modified: "2026-08-30"
 为什么这样写：终局反转期待：不是神破门而入，而是 Emerson 端坐等它——因为那是他青年时亲自祈下的约。Ligotti 让「被动受害」变成「主动履约」，恐怖因此更冷：他等了一辈子，只为这一刻。
 
 ### 第8处：惨叫与天鹅——「his voice indeed became confused with the screaming of the swans」
-> **原句 1:** It was only at the very end that Arthur Emerson's attitude of incuriosity abandoned him. As he had guessed, perhaps even wished, his voice indeed became confused with the screaming of the swans, soaring high into the muffling fog.
+> **原句 8:** It was only at the very end that Arthur Emerson's attitude of incuriosity abandoned him. As he had guessed, perhaps even wished, his voice indeed became confused with the screaming of the swans, soaring high into the muffling fog.
 
 中文理解：直至最末，Emerson 那无好奇之态才弃他而去。如他所料、甚至所愿，他的声音确与天鹅的尖鸣混为一体，高翱入那窒闷的雾中。
 

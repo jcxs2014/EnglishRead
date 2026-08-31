@@ -36,7 +36,7 @@ modified: "2026-08-30"
 
 为什么这样写：Riggers 正在建立一个写作教学框架，但他同时在暗示这个框架的局限性——技巧只是「tricks」，不是真正的艺术。
 
-### 第3处：Nathan 的本质追求——「magic、timeless、profound」
+### 第3处：Nathan 的本质追求——「something magic, something timeless, something profound」
 
 > **原句 3:** For Nathan, peculiar essences inhere in certain items of apparel, not to mention certain other articles small and large, certain happenings in time and space, certain people, and certain notions. In Nathan's view, yes, every facet of one's life should shine with these essences which alone make things really real. What are they? Nathan, over a period of time, has narrowed the essential elements down to three: something magic, something timeless, something profound.
 
@@ -46,7 +46,7 @@ modified: "2026-08-30"
 
 关键词：peculiar essences（特殊的本质）、inhere in（固有于）、to make things really real（使事物真正真实）、something magic, something timeless, something profound
 
-表达方式：「magic、timeless、profound」是全篇的核心三位一体——这三个词在故事中反复出现，代表 Nathan 对「真正真实」的追求。
+表达方式：「something magic, something timeless, something profound」是全篇的核心三位一体——这三个词在故事中反复出现，代表 Nathan 对「真正真实」的追求。
 
 为什么这样写：这是 Ligotti 对「本质主义」价值观的探索——Nathan 相信事物有「真正的本质」，这种信仰导致了他的毁灭。
 
