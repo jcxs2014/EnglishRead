@@ -178,7 +178,7 @@ modified: "2026-08-30"
 | induplicable | 不可复制的 | …that peculiar drunkenness of a child's brain, induplicable once grown-up sobriety has set perniciously in. |
 | un tidiness | 不整洁（父亲的密码语） | "Not tidy. We know what that means, don't we?" |
 | to be get up on | 对…在行（美式口语） | Now, I have to confess that I'm not up on the lunar phases… |
-| liminal | 阈限的、边缘的 | no |
+
 | concave / convex | 凹陷 / 凸出 | Where it used to be concaving to the right, it's now comparing in that direction… |
 | spectral | 幽灵的、鬼魂的 | The old queen is now in play. |
 | uncanny | 诡异的 | …I had suffered the uncanny experience of having almost no recognition of my own words. |
@@ -198,7 +198,7 @@ modified: "2026-08-30"
 | jack-o'-lantern | 南瓜灯 | …two rows of jack-o'-lanterns shining bright orange and yellow in the darkness. |
 | to gape | 目瞪口呆 | Two complete strangers gawking at each other through a window… |
 | to ogling | 盯着看 | But there he was now, ogling the back of my head. |
-| to fidget | 坐立不安 | no |
+
 
 ### ⭐ 基础
 
