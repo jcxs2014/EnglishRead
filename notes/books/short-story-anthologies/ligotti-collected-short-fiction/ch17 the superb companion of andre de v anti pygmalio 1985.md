@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 17. The Superb Companion of Andre de V., Anti-Pygmalion（安德烈·德·维先生的完美伴侣 / 1985）
 
-## 一句话总结
-
-浪漫梦想家 Andre de V. 用想象创造了一个完美的理想女性，但当他收到 Mlle. LeMieux 去世的信时，他命令这个幽灵消失——幽灵却用那把开信刀刺穿了他柔软的脖颈。
-
----
 
 ## 精读（6处）
 

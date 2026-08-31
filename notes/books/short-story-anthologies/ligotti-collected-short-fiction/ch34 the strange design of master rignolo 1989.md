@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 34. The Strange Design Of Master Rignolo（1989）
 
-## 一句话总结
-
-Nolon 和 Grissul 在一个月夜见面，讨论 Grissul 在野外发现的地面上的巨大面孔，随后被邀请去参观 Rignolo 的画室；Rignolo 向他们展示了他能让人进入画中世界的「主作品」，Grissul 进入后尖叫着说一切都是欺骗，最终消失在那张巨大的面孔中，而 Nolon 和 Grissul 回到他们见面的公园， Grissul 说他必须「你知道的」——暗示他必须自杀。
-
----
 
 ## 精读（10处）
 

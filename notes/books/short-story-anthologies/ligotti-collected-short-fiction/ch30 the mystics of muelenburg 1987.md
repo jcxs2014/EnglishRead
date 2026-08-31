@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 30. The Mystics Of Muelenburg（穆伦堡的 mystic / 1987）
 
-## 一句话总结
-
-叙述者遇到 Klaus Klingman，一个声称自己曾在中世纪 Muelenburg 镇（现已消失在历史的精神错乱中）生活过的 mystic；Klingman 描述了 Muelenburg 的人们如何在某个秋日陷入永恒的黄昏，他们的记忆被抹去，而叙述者在离开后意识到 Klingman 消失了，只留下一个关于「现实本质是 fluid」的信息。
-
----
 
 ## 精读（6处）
 

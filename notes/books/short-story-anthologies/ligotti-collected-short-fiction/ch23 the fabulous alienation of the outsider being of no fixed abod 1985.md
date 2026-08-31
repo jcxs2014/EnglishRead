@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 23. The Fabulous Alienation of the Outsider, being of no fixed Abode（ outsider 的绝佳疏离 / 1985）
 
-## 一句话总结
-
-一个 outsider 从地下世界来到地面，被派对上的人尖叫着逃避，他在镜中看到「那是你」后逃回地下，但当他再次回到地面时，世界已经毁灭——他最终的痛苦爆发将碎片散落到地球上，让死去的太阳复活，新的生命从他碎片中诞生。
-
----
 
 ## 精读（10处）
 

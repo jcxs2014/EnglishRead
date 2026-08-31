@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 20. The Transparent Alias of William Wilson, Sportsman and Scoundrel（威廉·威尔逊的透明别名 / 1985）
 
-## 一句话总结
-
-William Wilson 在学校被一个同名者不断挑战，长大后这个同名者持续干涉他的放荡生活，最终 Wilson 用剑杀死了他——但临死的同名者预言他杀死的只是他自己，后来这个鬼魂从死里复活，告诉他「这个地方的运转完全靠摩擦原理」，而 Wilson 把他砍成碎片喂狗后，自己因停不下来的笑而饿死。
-
----
 
 ## 精读（10处）
 

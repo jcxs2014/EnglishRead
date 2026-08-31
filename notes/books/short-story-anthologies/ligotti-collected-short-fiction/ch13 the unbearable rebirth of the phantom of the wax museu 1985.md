@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 13. The Unbearable Rebirth of the Phantom of the Wax Museum（蜡像馆魅影的难耐重生 / 1985）
 
-## 一句话总结
-
-蜡像馆魅影在用沸蜡处死新女友时被侦探阻止，临死前他想起了 Marie Antoinette——那个他刚完成几小时的美丽蜡像，是他最后的纯真记忆。
-
----
 
 ## 精读（6处）
 

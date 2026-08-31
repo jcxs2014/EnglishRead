@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 15. The Eternal Devotion of the Governess to the Residents of Bly（家庭女教师的永恒忠诚 / 1985）
 
-## 一句话总结
-
-一位女教师爱上雇主的叔叔，被派去照顾两个孤儿，她与威胁孩子们灵魂的鬼魂作战，最终孩子们获救——但 Miles 在她与鬼魂 Quint 争夺他的灵魂时死于心脏骤停。
-
----
 
 ## 精读（6处）
 

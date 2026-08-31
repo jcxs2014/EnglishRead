@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 26. Notes on the Writing of Horror: A Story（论恐怖小说的写作：一则故事 / 1985）
 
-## 一句话总结
-
-Ligotti 以 Gerald K. Riggers 的笔名写了一篇元小说，展示了如何用写恐怖小说的三种技巧（现实主义、哥特式、实验性）来讲述 Nathan 的「魔法裤子」故事——一种关于本质、命运和自我毁灭的故事。
-
----
 
 ## 精读（10处）
 

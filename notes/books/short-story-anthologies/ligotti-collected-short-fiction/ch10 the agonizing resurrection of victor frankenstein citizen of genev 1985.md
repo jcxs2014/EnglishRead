@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 10. The Agonizing Resurrection of Victor Frankenstein, Citizen of Geneva（维克多·弗兰肯斯坦的痛苦复活 / 1985）
 
-## 一句话总结
-
-Hans Hoffmann 用从医学院偷来的尸体和维克多·弗兰肯斯坦的大脑创造了一个生物，但生物在寻找它「记得很久以前的那张脸」时，唯一的安慰源——维克多·弗兰肯斯坦——已经在北极的冰冻荒原上火化了自己。
-
----
 
 ## 精读（6处）
 

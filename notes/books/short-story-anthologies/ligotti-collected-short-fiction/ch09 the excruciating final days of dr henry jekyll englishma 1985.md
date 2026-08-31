@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 09. The Excruciating Final Days of Dr. Henry Jekyll, Englishman（亨利·杰基尔博士的最后日子 / 1985）
 
-## 一句话总结
-
-Jekyll 把毒药喂给虚弱的 Hyde，想永久消灭他，却在工作坊门口得知一位女士来找 Hyde——而他必须告诉这个女人 Hyde 已死于「科学意外」。
-
----
 
 ## 精读（6处）
 

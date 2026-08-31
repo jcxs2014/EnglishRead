@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 25. The Premature Death of H.P. Lovecraft, Oldest Man in New England（新英格兰最老的人 H.P. 洛夫克拉夫特的过早死亡 / 1985）
 
-## 一句话总结
-
-H.P. Lovecraft 在普罗维登斯医院死于胃癌，两个护士来检查尸体，对他的外表发表了轻率的评论后离开——但她们都没有注意到，在她们眼前，H.P. Lovecraft 微微地朝她们微笑了。
-
----
 
 ## 精读（6处）
 

@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 11. The Insufferable Salvation of Lawrence Talbot the Wolfman（劳伦斯·塔尔博特的狼人 / 1985）
 
-## 一句话总结
-
-Lawrence Talbot 被爱人用银子弹射杀后躺在地上，狩猎队讨论如何处理他的尸体（切割心脏还是焚烧），而他仍能听到爱人的声音，却无法回应。
-
----
 
 ## 精读（6处）
 

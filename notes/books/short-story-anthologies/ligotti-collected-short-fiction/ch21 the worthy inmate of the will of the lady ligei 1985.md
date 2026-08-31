@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 21. The Worthy Inmate of the Will of the Lady Ligeia（Lady Ligeia 意志的合格囚徒 / 1985）
 
-## 一句话总结
-
-丈夫在 Ligeia 死后娶了 Rowena，却在封闭房间里用鸦片和意志力梦回 Ligeia，最终让 Ligeia 复活在 Rowena 的身体里——但这个复活是幻觉，他实际上通过意志力将自己梦入了 Ligeia 的领域，一个没有人能逃脱的地方。
-
----
 
 ## 精读（6处）
 

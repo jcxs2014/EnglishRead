@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 24. The Blasphemous Enlightment of Prof. Francis Wayland Thurston of Boston, Providence, and the Human Race（弗朗西斯·韦兰·瑟斯顿教授的亵渎性启示 / 1985）
 
-## 一句话总结
-
-Prof. Thurston 发现了远古邪神的邪教，准备被暗杀但杀手从未来，他娶了一个学生，在蜜月期间试图用人类的美好来合理化他的可怕知识——但在新婚最后一夜，他的妻子也是邪教成员，他们一起「 embrace the new world」。
-
----
 
 ## 精读（10处）
 

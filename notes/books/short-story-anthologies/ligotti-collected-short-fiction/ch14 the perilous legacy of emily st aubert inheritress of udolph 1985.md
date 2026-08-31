@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 14. The Perilous Legacy of Emily St. Aubert, Inheritress of Udolpho（艾米丽·圣·奥伯特的危险遗产 / 1985）
 
-## 一句话总结
-
-Emily 被 Montoni 带到 Udolpho 城堡后获救并嫁给 Valancourt，但 Valancourt 在听到她梦中喃喃的秘密后不久发疯，而 Emily 独自写诗度日，最终再次面对 Udolpho 这个名字时，发现它已经与 Valancourt 的崩溃联系在一起。
-
----
 
 ## 精读（6处）
 

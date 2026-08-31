@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 08. One Thousand Painful Variations Performed Upon Divers Creatures Undergoing The Treatment of Dr. Moreau, Humanist（莫罗博士的一千种痛苦变化 / 1985）
 
-## 一句话总结
-
-Dr. Moreau 在实验室里检查他改造的狼人，故意松开束缚考验他对助手的反应——结果狼人跪倒在恐惧中的助手面前，像一位 delirious knight（谵妄的骑士）去拯救被威胁的女子。
-
----
 
 ## 精读（6处）
 

@@ -5,11 +5,6 @@ modified: "2026-08-30"
 
 # 18. The Ever-Vigilant Guardians of Secluded Estates（隐居庄园的永恒守护者 / 1985）
 
-## 一句话总结
-
-一个年轻人坐在房子深处的老椅子上， Old servant 送来他没点的饮料，年轻人注意到 servant 苍白消瘦的脸感到恐惧，决定出门——却发现另一个房间里坐着一个和他一样留着稀疏胡子的年轻人，而 servant 叹息「很久以前就已经太晚了」。
-
----
 
 ## 精读（6处）
 
