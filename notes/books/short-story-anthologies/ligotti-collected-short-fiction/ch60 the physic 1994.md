@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 60. The Physic
-
-① Everyone was very ill-looking, the worst I've seen, but elegant somehow.
+> **原句 1:** Everyone was very ill-looking, the worst I've seen, but elegant somehow.
 
 中文理解：每个人都病容满面，是我见过最糟的，却不知怎的透着优雅。叙述者（职业"清理人"）描述一场怪诞聚会。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：开篇即用反差建立 Ligotti 式"腐朽优雅"——这群人将死，却比活人更"体面"。
 
 ---
-
-② the doctor showing great considerateness in this detail
+> **原句 2:** the doctor showing great considerateness in this detail
 
 中文理解：医生在这细节上显出极大的体贴。指他特意让香槟无色，免得泼洒显痕。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：叙述者以旁观冷眼写医生的"体贴"，暗示这是一场被操弄的临终秀。
 
 ---
-
-③ "You never wear either hat or glasses," I replied.
+> **原句 3:** "You never wear either hat or glasses," I replied.
 
 中文理解："你从不戴帽子也不戴眼镜，"我答。叙述者点破医生不遮掩的自信。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：侧面写医生的"超然"——他不似病客需遮丑，因为他本就是操盘者而非受害者。
 
 ---
-
-④ "I'm their doctor. Though they may occasionally despise me for it, in their hearts they're glad I'm not as they are."
+> **原句 4:** "I'm their doctor. Though they may occasionally despise me for it, in their hearts they're glad I'm not as they are."
 
 中文理解："我是他们的医生。虽他们偶尔为此鄙视我，内心却高兴我不似他们。"医生自陈身份与权力关系。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：点出权力不对等的核心，为结尾"医生求我杀之"的荒诞反转让步。
 
 ---
-
-⑤ "Wrong, wrong, all wrong."
+> **原句 5:** "Wrong, wrong, all wrong."
 
 中文理解："错了，错了，全错了。"医生掩面半泣，发现聚会出了岔子。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：转折信号——此前从容的医生突然崩溃，氛围从怪诞滑向真实恐怖。
 
 ---
-
-⑥ "They all ran out the back door," he said, pointing.
+> **原句 6:** "They all ran out the back door," he said, pointing.
 
 中文理解："他们都从后门跑了，"他指着想。客人们逃向屋后湖边。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：把恐惧具象为"逃窜"，暗示变形已无法在屋内掩饰，被迫暴露于自然光下。
 
 ---
-
-⑦ "They still have much of their brains left," he answered
+> **原句 7:** "They still have much of their brains left," he answered
 
 中文理解："他们还留着大半脑子，"他答。医生揭示这次变形的可怕差异。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：关键反转——"不像以往"，这次他们清醒地知道自己正变成怪物，求死成了慈悲。
 
 ---
-
-⑧ none of them was larger than a dinner plate and their multiple radiating legs (with pincers by now) made them look like unholy pinwheels spinning in the moonlight.
+> **原句 8:** none of them was larger than a dinner plate and their multiple radiating legs (with pincers by now) made them look like unholy pinwheels spinning in the moonlight.
 
 中文理解：它们无一大于餐盘，多出的放射状腿（已生钳）使它们像月光中不洁的风车旋转。湖边变形后的众生。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：以具体尺寸（餐盘）与明喻把抽象"变形"落到可怖质感，月夜放大诡异美感。
 
 ---
-
-⑨ "Kill us, kill us," they chanted in their many tiny voices.
+> **原句 9:** "Kill us, kill us," they chanted in their many tiny voices.
 
 中文理解："杀了我们，杀了我们，"它们以无数细小声音齐诵。怪物们清醒祈求终结。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：全篇情感落点——清醒的受难者乞怜，把恐怖转为悲悯，叙述者成"仁慈的执行者"。
 
 ---
-
-⑩ He didn't challenge me on it. Needed to believe me, poor man.
+> **原句 10:** He didn't challenge me on it. Needed to believe me, poor man.
 
 中文理解：他没质疑我。他需要相信我，可怜的人。叙述者谎称全杀光，医生甘愿被骗。
 

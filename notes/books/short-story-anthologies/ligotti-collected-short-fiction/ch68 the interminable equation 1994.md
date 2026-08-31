@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 68. The Interminable Equation
-
-① After tabulating our number of days on this earth, we would still have to multiply this sum several times in order to take into account our dreams
+> **原句 1:** After tabulating our number of days on this earth, we would still have to multiply this sum several times in order to take into account our dreams
 
 中文理解：在统计此生天数之后，我们仍须将这总数乘上数次，以计入我们的梦。开篇以算术隐喻重算"一生"。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 以数学口吻解构生命——你以为的一生，加上梦中的一生，才是真账，虚无从计数开始。
 
 ---
-
-② those in which the dead continue to live and those in which the living are dead
+> **原句 2:** those in which the dead continue to live and those in which the living are dead
 
 中文理解：那些死者续活、生者已死的（梦）。列举梦之悖论类型的对仗句。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：以最简对仗点出梦的"反法则"本质——它专事颠倒，为后文"nullification"铺垫。
 
 ---
-
-③ those in which everything appears frightening and harmful and those in which indifference is the single note that sounds throughout
+> **原句 3:** those in which everything appears frightening and harmful and those in which indifference is the single note that sounds throughout
 
 中文理解：那些一切显得可怖有害的梦，与那些唯余冷漠一音贯穿始终的梦。梦的两种极端。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：对比恐怖与冷漠——梦既能极端惊惧也能极端枯寂，情绪的两极皆在梦的账上。
 
 ---
-
-④ These contradictions make our dreams seem negligible
+> **原句 4:** These contradictions make our dreams seem negligible
 
 中文理解：这些矛盾使我们的梦显得无足轻重。解释梦为何被排除在"天数"之外。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：点出人类自欺：用"矛盾"作借口把梦逐出生命账，实则是逃避其重量。
 
 ---
-
-⑤ These are the leftover dreams, our dark days, which have yet to fall victim to mathematics
+> **原句 5:** These are the leftover dreams, our dark days, which have yet to fall victim to mathematics
 
 中文理解：这些是残余之梦、我们的暗日，尚未沦为数学的牺牲品。叙述者标出"真正的"梦。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：反转④——被忽略的梦才是"唯一算数"的，存在主义的价值倒置。
 
 ---
-
-⑥ Only a few of those escape nullification by contradiction
+> **原句 6:** Only a few of those escape nullification by contradiction
 
 中文理解：其中仅少数能逃脱"因矛盾而作废"。清醒日亦难幸免。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：把日常"清醒"也纳入抵消机制——连现实都被梦的逻辑消解，虚无扩及全存在。
 
 ---
-
-⑦ neither dreams nor days ever survive long before their counterparts annihilate them
+> **原句 7:** neither dreams nor days ever survive long before their counterparts annihilate them
 
 中文理解：梦与日皆活不久，便被其对应者相互湮灭。核心论断——一切成对相杀。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：把生命写成永远在自我抵消的算式，呼应标题"interminable equation"（无尽方程）。
 
 ---
-
-⑧ there will be nothing left which we might look back on as a lifetime
+> **原句 8:** there will be nothing left which we might look back on as a lifetime
 
 中文理解：到末了，将无一物可供回望为"一生"。临终视角的虚无宣判。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：存在性终极恐惧——不是死，而是死前发现"我"从未 accumulation 成一生，空无。
 
 ---
-
-⑨ this nothingness itself
+> **原句 9:** this nothingness itself
 
 中文理解：这虚无本身。叙述者追问虚无是否也将被抵消，提及其"自身"。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：把虚无推入下一层怀疑——即便空无，也未必是终点，ligotti 的无限后退。
 
 ---
-
-⑩ terminating at last in a kind of double oblivion
+> **原句 10:** terminating at last in a kind of double oblivion
 
 中文理解：终而止于一种"双重遗忘"。全文收束于叠加的湮灭。
 

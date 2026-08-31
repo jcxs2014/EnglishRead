@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 40. The Medusa
-
-① We may hide from horror only in the heart of horror.
+> **原句 1:** We may hide from horror only in the heart of horror.
 
 中文理解：我们唯能在恐怖的核心处躲避恐怖。Dregler 笔记箴言，也是全文（及 Ligotti 全集）的签名命题——直面/沉入恐怖才是唯一庇护。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：悖论式格言，把"避难所"设在恐惧最深处，倒转常识求生逻辑。
 
 为什么这样写：Dregler 一生践行此句——他主动追索 Medusa 而非逃离，结尾"窥房"即投身恐怖之心，命题即人物命运。
-
-② The sinister, the terrible never deceive: the state in which they leave us is always one of enlightenment.
+> **原句 2:** The sinister, the terrible never deceive: the state in which they leave us is always one of enlightenment.
 
 中文理解：凶邪与可怖从不欺骗：它们把我们留下的状态，总是一种"开悟"。Dregler 另一则笔记，宣称直面恐怖反得清明。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：以哲学断言写恐怖的"诚实"，与浪漫主义遮蔽相反，是 Cioran 式悲观理智。
 
 为什么这样写：为 Dregler 的"frigid melancholy grants full possession of ourselves"立论，说明他追 Medusa 是为占有自我而非逃避。
-
-③ Nothing that asks for your arguments is worth arguing, just as nothing that solicits your belief is worth believing. The real and the unreal lovingly cohabit in our terror, the only "sphere" that matters.
+> **原句 3:** Nothing that asks for your arguments is worth arguing, just as nothing that solicits your belief is worth believing. The real and the unreal lovingly cohabit in our terror, the only "sphere" that matters.
 
 中文理解：凡乞求你争辩的都不值得争；凡乞求你信的都不值得信。真实与虚幻在我们恐怖中亲昵同居——那唯一要紧的"领域"。Gleer 与 Dregler 共识的箴言。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：用对称否定+肯定收束，把真实/虚幻的二分在"恐怖"中取消，是 Ligotti 的认识论核心。
 
 为什么这样写：Dregler 与 Gleer 的关系建立在"secretiveness"上——不信任何求信之物，唯恐怖是真领域，为后文"书店恶作剧"的虚实难辨埋论。
-
-④ It is possible that only the dead are not in league with the Medusa.
+> **原句 4:** It is possible that only the dead are not in league with the Medusa.
 
 中文理解：也许唯有死者不与 Medusa 结盟。Dregler 书中句：生者皆为其同谋，唯死逃脱。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以"可能"弱化却更冷——把全人类判为 Medusa 盟友，死亡才是唯一豁免。
 
 为什么这样写：呼应 Dregler 对"活"的厌弃，也为结尾"成石"做注：石化=终于不与她为盟，却也非生非死。
-
-⑤ Ah, to be a thing without eyes. What a break to be born a stone!
+> **原句 5:** Ah, to be a thing without eyes. What a break to be born a stone!
 
 中文理解：啊，做个无眼之物。生而为石，何等侥幸！Dregler 书中感叹：无眼即不见 Medusa，石头免遭凝视之劫。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：反讽式艳羡——把"石化"写成福分，颠覆希腊神话中石化的惩罚义。
 
 为什么这样写：Medusa 神话里石化是死，Dregler 却视其为解脱；但结尾他"成石"时并非解脱而是被吞噬，反讽落空。
-
-⑥ The Medusa will see to it that we are protected, sealing our eyelids closed with the gluey spittle of her snakes, while their bodies elongate and slither past our lips to devour us from the inside.
+> **原句 6:** The Medusa will see to it that we are protected, sealing our eyelids closed with the gluey spittle of her snakes, while their bodies elongate and slither past our lips to devour us from the inside.
 
 中文理解：Medusa 会确保我们受保护——用蛇的黏涎封住我们眼皮，而蛇身伸长滑过唇间，由内吞噬我们。Dregler 书中描绘"保护即吞噬"的悖论。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：把"保护"与"内化吞噬"并置，Medusa 的庇护即殖民，是 Ligotti 对"慰藉"的恐怖重写。
 
 为什么这样写：对应 ①"hide in heart of horror"——她封你眼让你不见真恐怖，却从内占有你；所谓庇护是最深的囚禁。
-
-⑦ Regarding dread, intensity in itself is no assurance of validity.
+> **原句 7:** Regarding dread, intensity in itself is no assurance of validity.
 
 中文理解：论及恐惧，强度本身并不保证有效性。Dregler 书中句，提醒惊惧不等于真实。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：冷智注脚，防止读者把"怕得厉害"当"怕得有理"，是 Ligotti 对哥特滥情的节制阀。
 
 为什么这样写：Dregler 在书店地下室"playful panic"时以此自警，说明他区分妄想与真恐怖——但结尾真恐怖来时，这句反而衬出他早已知晓。
-
-⑧ A mannikin, or a frozen figure of some kind.
+> **原句 8:** A mannikin, or a frozen figure of some kind.
 
 中文理解：一个木偶，或某种冻僵的人形。Dregler 从裂缝镜中看到的自己——已半石化的 naked paralyzed form。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以迟疑的"或"把活人降为物件，镜中身份模糊即石化进程。
 
 为什么这样写：Dregler 曾用"mannikin"作灵魂状态的修辞，此刻成真——想象中的石化在镜里具身，reflection 曾给它 charm，如今直面即终结。
-
-⑨ Reflection had given it charm, made it acceptable to sanity.
+> **原句 9:** Reflection had given it charm, made it acceptable to sanity.
 
 中文理解：反射曾赋予它魅力，使它可被理智接纳。Dregler 悟到：镜与文字的"折射"把蛇与 Medusa 变得如画而非石化。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：以"反射"双关（镜面+文学再现）解释为何人能消费恐怖而不死。
 
 为什么这样写：点明 Dregler 一辈子靠书写/想象"反射"Medusa 而幸存；但推开那门、直视本体时，反射失效，他终于被捕获。
-
-⑩ In its own rose-tinted heart, his horror had at last found him.
+> **原句 10:** In its own rose-tinted heart, his horror had at last found him.
 
 中文理解：在它那玫瑰色调的心中，他的恐怖终于找到了他。结尾：Dregler 成石瞬间，恐怖以其本来的红光照见他。
 

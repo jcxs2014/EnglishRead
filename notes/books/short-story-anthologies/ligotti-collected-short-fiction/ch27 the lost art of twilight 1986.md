@@ -9,8 +9,7 @@ modified: "2026-08-30"
 ## 精读
 
 ### 第1处：画暮光者——「I am an offspring of the dead」
-
-① I am an offspring of the dead. I am descended from the deceased. I am the progeny of phantoms. My ancestors are the illustrious multitudes of the defunct, grand and innumerable. My lineage is longer than time. My name is written with embalming fluid in the book of death. A noble name is mine.
+> **原句 1:** I am an offspring of the dead. I am descended from the deceased. I am the progeny of phantoms. My ancestors are the illustrious multitudes of the defunct, grand and innumerable. My lineage is longer than time. My name is written with embalming fluid in the book of death. A noble name is mine.
 
 中文理解：我是死者的后裔。我承自亡者。我是幽魂的子息。我的祖先是已故者中显赫的众群，宏大而不可数。我的世系长于时间。我的名以防腐液写在死亡之书上。我的名，是贵名。
 
@@ -25,8 +24,7 @@ modified: "2026-08-30"
 ---
 
 ### 第2处：母之死与诞生——「They pinned her heart with a single spike」
-
-① They lay in wait for my mother, righteous soul-hunters. They followed her drifting form as it returned to the mausoleum when daybreak was imminent. They removed the great stone lid of the sarcophagus and found her inside. "Diabolique," someone exclaimed. There was some question about how many times and in what places she should be impaled. In the end they pinned her heart with a single spike to the velvet bed on which she lay.
+> **原句 1:** They lay in wait for my mother, righteous soul-hunters. They followed her drifting form as it returned to the mausoleum when daybreak was imminent. They removed the great stone lid of the sarcophagus and found her inside. "Diabolique," someone exclaimed. There was some question about how many times and in what places she should be impaled. In the end they pinned her heart with a single spike to the velvet bed on which she lay.
 
 中文理解：他们伏击我母亲，一群义愤的捕魂者。他们尾随她漂游的身形，待破晓将至时回到墓穴。他们掀开石棺巨盖，发现她在内。「Diabolique（恶魔）」，有人惊呼。关于该刺她几处、刺何地，略有争议。终局他们以一钉将她的心钉在身下那张天鹅绒卧榻上。
 
@@ -41,8 +39,7 @@ modified: "2026-08-30"
 ---
 
 ### 第3处：两界之间——「Neither living nor dead, unalive or undead」
-
-① Was my nature to be souled humanness or soulless vampirism? The answer: neither. I existed between two worlds and had little claim upon the assets or liabilities of either. Neither living nor dead, unalive or undead, not having anything crucial to do with such tedious polarities, such tiresome opposites, which ultimately are no more different from each other than a pair of imbecilic monozygotes.
+> **原句 1:** Was my nature to be souled humanness or soulless vampirism? The answer: neither. I existed between two worlds and had little claim upon the assets or liabilities of either. Neither living nor dead, unalive or undead, not having anything crucial to do with such tedious polarities, such tiresome opposites, which ultimately are no more different from each other than a pair of imbecilic monozygotes.
 
 中文理解：我的本性该是有魂的人性，还是无魂的吸血鬼性？答案是：皆非。我存在于两界之间，对任一界的资产或负债都少有主张。非生非死、非活非不死，与这类乏味的二元、可厌的对立毫无要务相干——它们到头来彼此之差，不过如一对愚笨的单卵双胞胎。
 
@@ -57,8 +54,7 @@ modified: "2026-08-30"
 ---
 
 ### 第4处：暮光降临——「a land of perfect twilight」
-
-① It was an unusual sunset. Having sat behind opaque drapery all day, I had not realized that a storm was pushing in and that much of the sky was the precise shade of old suits of armor one finds in museums. At the same time, patches of brilliance engaged in a territorial dispute with the oncoming onyx of the storm. Light and darkness mingled in strange ways both above and below… A scene of contradiction and ambivalence, a tragicomedic haze over all. A land of perfect twilight.
+> **原句 1:** It was an unusual sunset. Having sat behind opaque drapery all day, I had not realized that a storm was pushing in and that much of the sky was the precise shade of old suits of armor one finds in museums. At the same time, patches of brilliance engaged in a territorial dispute with the oncoming onyx of the storm. Light and darkness mingled in strange ways both above and below… A scene of contradiction and ambivalence, a tragicomedic haze over all. A land of perfect twilight.
 
 中文理解：那是个不寻常的落日。整日坐在不透明帘后，我未察觉风暴正逼来，天大半已呈博物馆旧盔甲之色。同时，明辉斑块与来袭的风暴黑曜展开领地之争。光与暗以奇异方式在上下交织……矛盾与暧昧之景，悲喜剧的薄雾笼罩一切。一片完美的暮光之地。
 
@@ -73,8 +69,7 @@ modified: "2026-08-30"
 ---
 
 ### 第5处：归家所见——「It was the ravaged body of Aunt T. herself」
-
-① It appeared so. But if Aunt T. sometimes had me consume the forbidden fruit of flesh and blood, it was never directly from the branches, never the sap taken warm from the tree of life itself. But here in fact were spread the remains of such a feast. It was the ravaged body of Aunt T. herself, though they'd barely left enough on her bones for identification. The thick white linen was clotted like an unwrapped bandage.
+> **原句 1:** It appeared so. But if Aunt T. sometimes had me consume the forbidden fruit of flesh and blood, it was never directly from the branches, never the sap taken warm from the tree of life itself. But here in fact were spread the remains of such a feast. It was the ravaged body of Aunt T. herself, though they'd barely left enough on her bones for identification. The thick white linen was clotted like an unwrapped bandage.
 
 中文理解：看来如此。纵姨母曾让我啖血肉这禁果，也从不直取枝头，从不取那尚温的生之树液。可此处铺陈的，正是这样一场宴的残骸。那是姨母她自己被摧残的躯体，虽他们留于骨上的已不足以辨认。厚白亚麻如拆开的绷带般凝块。
 
@@ -89,8 +84,7 @@ modified: "2026-08-30"
 ---
 
 ### 第6处：被吸干与新生——「They drained my body dry」
-
-① They were not driven by hunger, for they had already feasted. They were not frenzied with a murderer's bloodlust, for they were cautious and methodical. This was simply a family reunion, a sentimental gathering. Now I understood how the Duvals could afford to be sans préjugé. They were worse than I, who was only a half-breed, hybrid, a mere mulatto of the soul: neither a blood-warm human nor a blood-drawing devil. But they—who came from an Aix on the map—were the purebreds of the family. And they drained my body dry.
+> **原句 1:** They were not driven by hunger, for they had already feasted. They were not frenzied with a murderer's bloodlust, for they were cautious and methodical. This was simply a family reunion, a sentimental gathering. Now I understood how the Duvals could afford to be sans préjugé. They were worse than I, who was only a half-breed, hybrid, a mere mulatto of the soul: neither a blood-warm human nor a blood-drawing devil. But they—who came from an Aix on the map—were the purebreds of the family. And they drained my body dry.
 
 中文理解：他们不为饥饿所驱，因早已宴毕。他们不携凶手之嗜血狂乱，因他们谨慎而有条理。这不过是一场家族团聚，一场多愁的集会。此刻我懂了 Duval 家何以能「无偏见」。他们比我更糟——我不过是杂种、混血、灵魂的小小穆拉托人：既非血温的人，亦非吸血的魔。但他们——来自地图上的 Aix——是家族的纯种。而他们把我的身体吸干。
 
@@ -105,8 +99,7 @@ modified: "2026-08-30"
 ---
 
 ### 第7处：成为他们——「I was one of them now, reborn into a hungry death」
-
-① When I regained awareness once more, it was still dark and there was a great deal of dust in my throat. Not actually dust, of course, but a strange dryness I had never before experienced. And there was another new experience: hunger. I felt as if there were a chasm of infinite depth within me, a great abyss which needed to be filled—flooded with oceans of blood. I was one of them now, reborn into a hungry death.
+> **原句 1:** When I regained awareness once more, it was still dark and there was a great deal of dust in my throat. Not actually dust, of course, but a strange dryness I had never before experienced. And there was another new experience: hunger. I felt as if there were a chasm of infinite depth within me, a great abyss which needed to be filled—flooded with oceans of blood. I was one of them now, reborn into a hungry death.
 
 中文理解：当我重获知觉，仍是一片黑，喉中满是尘。当然不是真尘，而是一种前所未历的奇异干涸。另一桩新体验是：饥。我觉得体内似有一道无限深壑，需被填满——以血之汪洋灌入。我如今是他们之一，重生于饥渴的死。
 
@@ -121,8 +114,7 @@ modified: "2026-08-30"
 ---
 
 ### 第8处：永恒的夜——「Night, night, night, night」
-
-① Night, night, night, night. Night, night, night. Now twilight is an alarm, a noxious tocsin which rouses me to an endless eve. There is a sound in my new language for that transitory time of day just before the dark hours. The new twilight is a violator, desecrator, stealthy graverobber; death-bell, life-knell, curtain-riser; banshee, siren, howling she-wolf. And the old twilight is dead. I am even learning to despise it, just as I am learning to love my eternal life and eternal death.
+> **原句 1:** Night, night, night, night. Night, night, night. Now twilight is an alarm, a noxious tocsin which rouses me to an endless eve. There is a sound in my new language for that transitory time of day just before the dark hours. The new twilight is a violator, desecrator, stealthy graverobber; death-bell, life-knell, curtain-riser; banshee, siren, howling she-wolf. And the old twilight is dead. I am even learning to despise it, just as I am learning to love my eternal life and eternal death.
 
 中文理解：夜，夜，夜，夜。夜，夜，夜。如今暮光成了警铃，一支剧毒的钟号，将我唤起至无尽的黄昏。我的新语里有一个词指天黑前那短暂时刻。新暮光是侵犯者、亵渎者、隐秘的盗墓人；死钟、生钟、启幕者；报丧女妖、塞壬、嚎狼。而旧暮光已死。我甚至学着鄙夷它，正如我学着爱上我永恒的生命与永恒的死亡。
 

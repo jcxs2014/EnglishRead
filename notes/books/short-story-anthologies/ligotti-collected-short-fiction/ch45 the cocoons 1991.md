@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 45. The Cocoons
-
-① The integrity of material forms is only a prejudice, at most a point of view.
+> **原句 1:** The integrity of material forms is only a prejudice, at most a point of view.
 
 中文理解：物质形态的完整性只是一种偏见，至多是一种观点。Dr. Dublanc 在放完"人体孵黑蛛怪"胶片后向叙述者宣示——形体稳固是幻觉。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：以哲学断言瓦解常识，把"身体稳固"降为偏见，为后文人体爆虫做认知铺垫。
 
 为什么这样写：Ligotti 的核心命题——现实的非稳固性；Dublanc 以此"治疗"叙述者的焦虑，却把他推向更深的虚无。
-
-② That the so-called anatomy of a human being might burst forth as a fantastic insect should be no cause for consternation.
+> **原句 2:** That the so-called anatomy of a human being might burst forth as a fantastic insect should be no cause for consternation.
 
 中文理解：所谓人体解剖竟爆裂成一只有形昆虫，不应令人惊惶。Dublanc 对片中"人变虫"的冷静解说。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：用学术腔描述恐怖蜕变，平淡语气制造反差——越冷静越骇人。
 
 为什么这样写：把"人体孵化怪物"正常化为科学演示，呼应 ①"形态只是偏见"，让超自然成实验室日常。
-
-③ The infinitely diverse sensations beyond all common understanding.
+> **原句 3:** The infinitely diverse sensations beyond all common understanding.
 
 中文理解：那超出一切常识理解的、无限多样的感官。Dublanc 描述 Catch 博士从研究中获得的"禁忌之悦"。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：以名词短语写"不可言说的愉悦"，把堕落写成审美体验。
 
 为什么这样写：Catch 的"研究"实为纵欲于形变的快感——Ligotti 把知识欲与感官沉溺等同，暗示追索真相即自我瓦解。
-
-④ The balancing point between an anxious flight from the abyss and the temptation to plunge into it.
+> **原句 4:** The balancing point between an anxious flight from the abyss and the temptation to plunge into it.
 
 中文理解：在焦虑逃离深渊与纵身跃入的诱惑之间，那个平衡点。结尾叙述者短暂达到的"中间地带"。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以对立张力定义"治愈"，说明健康只是两害间的暂息。
 
 为什么这样写：回应 Dublanc 所谓"middle ground"——叙述者以为被治愈，实则只是短暂平衡；上车后感觉即蒸发，虚无复涌。
-
-⑤ An entranced spectator casting a clinical gaze at the chaotic tumult both around and within him.
+> **原句 5:** An entranced spectator casting a clinical gaze at the chaotic tumult both around and within him.
 
 中文理解：一个入迷的旁观者，以临床之眼凝视周身与体内的混沌骚动。叙述者短暂"超脱"的自我描述。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：把自身写成"观察自己疯狂的观众"，疏离即防御。
 
 为什么这样写：与 ④ 同构——他以旁观姿态暂脱恐惧，但"体内"的骚动仍在，临床眼终将失效。
-
-⑥ I turned abruptly to the doctor. "The pills you gave me."
+> **原句 6:** I turned abruptly to the doctor. "The pills you gave me."
 
 中文理解：我猛地转向医生。"你给我的那两粒药。"叙述者识破药即 Catch 的"卵"，拒绝吞下。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：极简对话暴露骗局——药即寄生卵，叙事在此反转。
 
 为什么这样写：叙述者"不信医生的方法"救了自己；与 Catch 不同，他未成宿主，故未被吞——这是 Ligotti 少有的"逃脱"结局。
-
-⑦ I can't claim that I ever had much faith in your methods.
+> **原句 7:** I can't claim that I ever had much faith in your methods.
 
 中文理解：我不能说我对你的方法曾有多少信心。叙述者把卵掷还 Dublanc 时说。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：克制讥讽，以"无信心"轻轻卸下医生的控制。
 
 为什么这样写：与 Dublanc"我尽力帮你们俩"对照——叙述者看穿善意幌子下的寄生图谋，拒绝成为下一个 Catch。
-
-⑧ Things again appeared to be changing, ready to burst forth from their sagging cocoons and take on uncertain forms.
+> **原句 8:** Things again appeared to be changing, ready to burst forth from their sagging cocoons and take on uncertain forms.
 
 中文理解：万物再度似在变异，随时要从萎靡的茧中迸出、化作不定之形。结尾出租车离区时叙述者的感知。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以"茧"收束标题——城市即巨茧，万物待爆；呼应片中"卵孵化"。
 
 为什么这样写：标题 The Cocoons 在此点题：现实是待破的茧，安稳是假象；叙述者虽逃，世界仍在变异。
-
-⑨ The following day I started looking for a new doctor.
+> **原句 9:** The following day I started looking for a new doctor.
 
 中文理解：次日我便开始寻找新医生。结尾最后一句，叙述者弃 Dublanc 而去。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：平淡收束，以"换医生"轻描惊魂一夜。
 
 为什么这样写：反讽——他逃离的是寄生邪教而非普通医疗；"新医生"暗示循环将续，恐怖在日常中延续。
-
-⑩ Dr. Dublanc emitted the shadow of a laugh.
+> **原句 10:** Dr. Dublanc emitted the shadow of a laugh.
 
 中文理解：Dublanc 发出一声笑的影子。医生见叙述者识破、弃药离去时的反应。
 

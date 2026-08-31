@@ -9,8 +9,7 @@ modified: "2026-08-30"
 ## 精读
 
 ### 第1处：密室与宝物——「the room of secret mystery」
-
-① It was not by any means a spacious room, and its enclosed atmosphere was thickened, as Plomb would have emphasized, by its claustrophobic arrangement of tall cabinets, ceiling-high shelves, and various trunks and crates. This is simply how things worked out over a period of time. In any case, Plomb seemed to favor this state of affairs. "Ah, the room of secret mystery," he said. "Where all your treasures are kept, all the raw wonders cached away."
+> **原句 1:** It was not by any means a spacious room, and its enclosed atmosphere was thickened, as Plomb would have emphasized, by its claustrophobic arrangement of tall cabinets, ceiling-high shelves, and various trunks and crates. This is simply how things worked out over a period of time. In any case, Plomb seemed to favor this state of affairs. "Ah, the room of secret mystery," he said. "Where all your treasures are kept, all the raw wonders cached away."
 
 中文理解：这绝非宽敞之室，其密闭的氛围，如 Plomb 定会强调的，被高柜、及顶书架与诸般箱箧的幽闭式陈设而加厚。事情本就如此演变。无论如何，Plomb 似偏爱此态。「啊，秘密神秘之室，」他说。「你所有宝藏都在此，所有生料般的奇观都窖藏其间。」
 
@@ -25,8 +24,7 @@ modified: "2026-08-30"
 ---
 
 ### 第2处：伪典戏拟——「The lost grimoire of the Abbot of Tine」
-
-① "The lost grimoire of the Abbot of Tine," he giggled. "Transcribed in the language of—" "A wild guess," I interjected. "And a wrong one." "Then the forbidden Psalms of the Silent. The book without an author." "Without a living author, if you will recall what I told you about it. But you're very wide of the mark."
+> **原句 1:** "The lost grimoire of the Abbot of Tine," he giggled. "Transcribed in the language of—" "A wild guess," I interjected. "And a wrong one." "Then the forbidden Psalms of the Silent. The book without an author." "Without a living author, if you will recall what I told you about it. But you're very wide of the mark."
 
 中文理解：「Abbot of Tine 失传的魔法书，」他咯咯笑。「以……之语抄录——」「瞎猜，」我插嘴。「而且错了。」「那么是《静默的禁诗篇》。那本无作者之书。」「若无生者作者，若你还记得我所说——但你差得远了。」
 
@@ -41,8 +39,7 @@ modified: "2026-08-30"
 ---
 
 ### 第3处：眼镜与血视——「your sight is one with its object」
-
-① "Your eyes are now fused with those fantastic lenses, and your sight is one with its object. And what exactly is that object? Obviously it is everything that fascinates, everything that has power over your gaze and your dreams. You cannot even conceive the wish to look away… an infinite and overwhelming scene expanding before you."
+> **原句 1:** "Your eyes are now fused with those fantastic lenses, and your sight is one with its object. And what exactly is that object? Obviously it is everything that fascinates, everything that has power over your gaze and your dreams. You cannot even conceive the wish to look away… an infinite and overwhelming scene expanding before you."
 
 中文理解：「你的眼现已与那些奇透镜熔合，你的视与其对象为一。那对象究竟是何？显然是一切令你迷、一切掌控你凝视与梦境之物。你连移开目光的愿望都无法构想……一幅无限而压倒性的景象在你面前展开。」
 
@@ -57,8 +54,7 @@ modified: "2026-08-30"
 ---
 
 ### 第4处：镜中惊鸿——「hidden beneath the dust, was the face of Plomb」
-
-① I had squatted down before this rectangular relic, whose frame reminded me of the decorated borders of old books, and wiped my bare hand across its dusty surface. And there, hidden beneath the dust, was the face of Plomb, who must have just entered the shop and was standing a room's length away.
+> **原句 1:** I had squatted down before this rectangular relic, whose frame reminded me of the decorated borders of old books, and wiped my bare hand across its dusty surface. And there, hidden beneath the dust, was the face of Plomb, who must have just entered the shop and was standing a room's length away.
 
 中文理解：我在那矩形遗物前蹲下，其框令我想起旧书装饰性的边栏，以 bare 手拂过积尘之面。而那尘下所藏，正是 Plomb 的脸——他必是刚进店，立于隔室之遥。
 
@@ -73,8 +69,7 @@ modified: "2026-08-30"
 ---
 
 ### 第5处：镜室与解体——「multiplied these visions into infinity, creating oceans of his own blood」
-
-① In his attempt to exhaust or exaggerate the visions to which he had apparently become enslaved, Plomb had done nothing less than multiplied these visions into infinity, creating oceans of his own blood and enabling himself to see with countless eyes. Entranced by such aspiration, I gazed at the mirrors in speechless wonder.
+> **原句 1:** In his attempt to exhaust or exaggerate the visions to which he had apparently become enslaved, Plomb had done nothing less than multiplied these visions into infinity, creating oceans of his own blood and enabling himself to see with countless eyes. Entranced by such aspiration, I gazed at the mirrors in speechless wonder.
 
 中文理解：在他试图穷尽或夸大那显然已奴役他的幻象之际，Plomb 所做的无非是将这些幻象乘为无穷，造出自身血的汪洋，并使己得以以无数眼视物。为这般志业所迷，我失语惊视那些镜。
 
@@ -89,8 +84,7 @@ modified: "2026-08-30"
 ---
 
 ### 第6处：追随之灵——「He now travels with me to the ends of the earth」
-
-① And even when I abandoned my home, with its hideous attic storeroom, Plomb still followed me in my dreams. He now travels with me to the ends of the earth, initiating me night after night into his unspeakable wonders. I can only hope that we will not meet in another place, one where the mysteries are always new and dreams never end. Oh, Plomb, will you not stay in that box where they have put your riven body?
+> **原句 1:** And even when I abandoned my home, with its hideous attic storeroom, Plomb still followed me in my dreams. He now travels with me to the ends of the earth, initiating me night after night into his unspeakable wonders. I can only hope that we will not meet in another place, one where the mysteries are always new and dreams never end. Oh, Plomb, will you not stay in that box where they have put your riven body?
 
 中文理解：即便我弃了那狰狞阁楼密室之家，Plomb 仍在梦中随我。他如今与我同行至天涯，夜夜引我入他不可言说之奇观。我只盼我们莫在他界相逢——那处谜恒新、梦永不尽。哦 Plomb，你何不留在他们安放你裂躯的那匣中？
 

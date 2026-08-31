@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 66. Invocation to the Void
-
-① Five candles burned the whole time, at the five points of the star.
+> **原句 1:** Five candles burned the whole time, at the five points of the star.
 
 中文理解：五支烛整夜燃着，位于星的五个尖端。开篇布置仪式场景——五芒星阵与五烛。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：以几何化的 occult 符号开场，把"召唤虚空"的企图具象为可测量的法阵。
 
 ---
-
-② Book of the Damned.
+> **原句 2:** Book of the Damned.
 
 中文理解：《被诅者之书》。男人跪于星心所读之书的书名，单句独立。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 化用 Fort《Lo!》的"被诅者"概念，把异界召唤锚定到一份"受咒文本"。
 
 ---
-
-③ He had visions, visions in the smoke of the candles
+> **原句 3:** He had visions, visions in the smoke of the candles
 
 中文理解：他有了幻象——烛烟中的幻象。仪式生效，异界在烟影中显形。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：把宏大"召唤"落于微物（烟），诡异从熟悉处渗出，是 Ligotti 的恐怖笔法。
 
 ---
-
-④ Worlds bloomed and withered, spun and stopped, flourished and decayed.
+> **原句 4:** Worlds bloomed and withered, spun and stopped, flourished and decayed.
 
 中文理解：诸世界绽开又凋萎，旋转又停驻，繁盛又朽坏。幻象中众界生灭的排比。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：以世界生灭的壮丽反衬后文"皆仿我界"的失望——宏大不过是自己的镜像。
 
 ---
-
-⑤ "These worlds merely mimic my own."
+> **原句 5:** "These worlds merely mimic my own."
 
 中文理解："这些世界只是模仿我自己的。"男人在幻象中醒悟，呼喊"不要更多血"后的判词。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：核心反转——召唤来的"他界"无非自身世界的投影，神秘失效，唯余徒劳。
 
 ---
-
-⑥ The candles, the moon, the patterns on the wall, and the howling wind heard; and all agreed to welcome him to this other world
+> **原句 6:** The candles, the moon, the patterns on the wall, and the howling wind heard; and all agreed to welcome him to this other world
 
 中文理解：烛、月、壁上纹样与嗥风皆听见；并一致同意迎他入这"他界"——那本已是它们的。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：把被动的物写成主动的接纳者——他求的异界，其实一直在等他，恐怖在于"被需要"。
 
 ---
-
-⑦ Now it would be his.
+> **原句 7:** Now it would be his.
 
 中文理解：此刻它将归他所有。简短宣告，召唤完成、世界易主。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：反转期待——得到异界非胜利，而是"属于它"的另一种说法，为结尾"未死"埋线。
 
 ---
-
-⑧ A beautiful, bloodless white.
+> **原句 8:** A beautiful, bloodless white.
 
 中文理解：一种美丽的、无血的苍白。男人坍入星阵时面色的描写。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：以"美"修饰濒死之白，Ligotti 式把恐怖审美化——陨落也是一幅画。
 
 ---
-
-⑨ How foolish they were who thought he was dead
+> **原句 9:** How foolish they were who thought he was dead
 
 中文理解：那些以为他死了的人多愚。结尾讥讽埋葬者，揭示他未死。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：闭环——开篇仪式与结尾"未死"呼应，召唤成功，凡人的埋葬只是错认。
 
 ---
-
-⑩ And dark as blood.
+> **原句 10:** And dark as blood.
 
 中文理解：而暗如血。补述埋他之土的色泽——湿暖夏土，暗红如血。
 

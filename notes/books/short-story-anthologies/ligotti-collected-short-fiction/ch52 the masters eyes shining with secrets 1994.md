@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 52. The Master's Eyes Shining with Secrets
-
-① Those bells ringing on the mist-covered mountain signify that the Master of the Temple is dead.
+> **原句 1:** Those bells ringing on the mist-covered mountain signify that the Master of the Temple is dead.
 
 中文理解：雾覆山上响起的钟声，意味着圣殿之主已死。开篇陈述，用"钟声=死讯"的哥特母题定调。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：以"死讯"起笔却随即揭示是僧侣弑师——反转"圣者离世"的庄严，制造道德不安。
 
 ---
-
-② At one point an extra head sprouted from the side of the Master's neck, and this ugly little thing started to issue all sorts of commands and instructions to the monks which only their lofty sense of decency and order prevented them from carrying out.
+> **原句 2:** At one point an extra head sprouted from the side of the Master's neck, and this ugly little thing started to issue all sorts of commands and instructions to the monks which only their lofty sense of decency and order prevented them from carrying out.
 
 中文理解：一度，大师颈侧长出一颗额外的头，这颗丑陋小东西向僧侣们下达各种指令——若非僧侣们高尚的体面与秩序感，他们早照做了。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：把"觉悟的代价"具象为肉体失控，暗示超越常规认知即丧失人之形——Ligotti 对"启蒙"的恐怖诠释。
 
 ---
-
-③ It is whispered among students of enlightenment that one may achieve a state of being in which enlightenment itself loses all meaning, with the consequence that one thereby becomes subject to all manner of strange destinies.
+> **原句 3:** It is whispered among students of enlightenment that one may achieve a state of being in which enlightenment itself loses all meaning, with the consequence that one thereby becomes subject to all manner of strange destinies.
 
 中文理解：在求道者间私相传说：人可达一种"觉悟本身失去意义"的生存状态，其结果便是臣服于种种奇异命运。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：点题——本文核心是"觉悟的终结即恐怖的开端"，为结尾"大师死后仍赐下恐怖启示"铺垫。
 
 ---
-
-④ the monks there finally killed him.
+> **原句 4:** the monks there finally killed him.
 
 中文理解：那里的僧侣最终杀了他。平铺直叙的短句，交代弑师结局。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：把骇人行为写得稀松平常，强化"秩序对异端的清除"这一冷酷逻辑。
 
 ---
-
-⑤ this once wise and beloved teacher was looked after like an animal.
+> **原句 5:** this once wise and beloved teacher was looked after like an animal.
 
 中文理解：这位曾智慧而受爱戴的师长，被像动物一样照料。描述大师被囚后的遭遇。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：同情与恐怖并存——读者既怜大师，又惊于僧侣的残忍，道德立场被搅乱。
 
 ---
-
-⑥ For several years the monks put up with the noises he made, the diverse shapes he took.
+> **原句 6:** For several years the monks put up with the noises he made, the diverse shapes he took.
 
 中文理解：数年之间，僧侣们忍受他发出的声响、他采取的种种异形。补述囚禁期间的忍耐。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：以"忍受"细节拉长恐怖——畸变非一瞬，而是经年的缓慢异化。
 
 ---
-
-⑦ Some hid out in other monasteries, while others went back to live among the everyday inhabitants of this earth.
+> **原句 7:** Some hid out in other monasteries, while others went back to live among the everyday inhabitants of this earth.
 
 中文理解：一些人藏身其他寺院，另一些则返回尘世常人之中生活。弑师后僧侣四散。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：暗示弑师未能切断羁绊——他们逃避的"过去"会追上来（呼应下句）。
 
 ---
-
-⑧ But it was not as if they could escape their past by fleeing it, no more than they could rid themselves of their old master by killing him.
+> **原句 8:** But it was not as if they could escape their past by fleeing it, no more than they could rid themselves of their old master by killing him.
 
 中文理解：但他们并非能借逃离而逃脱过去，正如杀掉旧主也摆脱不了他。点明"逃避无用"的母题。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：全文核心命题——你无法杀死已发生之事；为结尾"死后仍赐启示"提供逻辑支点。
 
 ---
-
-⑨ For even after the death of his material self, the Master of the Temple sought out those who were once under his guidance; and upon these unhappy disciples he now bestowed, somewhat insistently, his terrible illumination.
+> **原句 9:** For even after the death of his material self, the Master of the Temple sought out those who were once under his guidance; and upon these unhappy disciples he now bestowed, somewhat insistently, his terrible illumination.
 
 中文理解：因为即便肉身已死，圣殿之主仍寻访昔日门徒；并以几分执拗，赐下他可怕的"启示"。结尾句，全篇落点。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：闭环——"觉悟超越意义"（句③）在此兑现：大师死而未逝，反以更怖形式"开示"弟子，存在论的恐怖收束全篇。
 
 ---
-
-⑩ With the consequence that one thereby becomes subject to all manner of strange destinies.
+> **原句 10:** With the consequence that one thereby becomes subject to all manner of strange destinies.
 
 中文理解：其结果便是，人由此臣服于种种奇异的命运。句③尾句独立成意，可作全篇题眼。
 

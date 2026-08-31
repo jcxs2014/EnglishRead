@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 67. The Mocking Mystery
-
-① Where ultimate knowledge is denied, mystery must rule.
+> **原句 1:** Where ultimate knowledge is denied, mystery must rule.
 
 中文理解：终极知识被拒之处，神秘必掌权。开篇立论——知识的缺席即神秘的统治。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 以哲学命题开篇，把哥特恐怖升为认识论论断，全篇围绕"神秘即统治"展开。
 
 ---
-
-② Above all does it live in the ruins of certain cities
+> **原句 2:** Above all does it live in the ruins of certain cities
 
 中文理解：它（神秘）尤活于某些城市的废墟之中。点出神秘栖居的具体场所。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：为后文"废墟崇拜"铺景——神秘不在旷野而在文明的残骸，反差生怖。
 
 ---
-
-③ A type of worship may even be devoted to the ruined state
+> **原句 3:** A type of worship may even be devoted to the ruined state
 
 中文理解：甚至可有某种崇拜，奉献给那废墟之态。叙述者揭示对衰败的宗教化。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：反转价值——废墟不是尽头而是神圣态，ligotti 的"毁灭美学"核心。
 
 ---
-
-④ the ideal of the necropolis appears to be annihilation
+> **原句 4:** the ideal of the necropolis appears to be annihilation
 
 中文理解：死者之城的理想，似乎是湮灭。对"necropolis"（亡者之城）本质的判定。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：把废墟的终极指向定为"无"，呼应虚无主义，为"新 genesis"的反转埋伏。
 
 ---
-
-⑤ an invasion of vitality still threatens the ruins of certain cities
+> **原句 5:** an invasion of vitality still threatens the ruins of certain cities
 
 中文理解：一股生命力的侵入，仍在威胁某些城市的废墟。衰败中的不安定因素。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：颠覆生存本能——在 ligotti 的废墟里，"活"才是入侵者，恐怖逻辑自洽。
 
 ---
-
-⑥ the outcome will be the same: a new genesis.
+> **原句 6:** the outcome will be the same: a new genesis.
 
 中文理解：结局将同一：一场新的创世。无论伪装如何，废墟终将重生。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：点出神秘制造者的本质——它拆毁只为以新形重建，轮回即惩罚。
 
 ---
-
-⑦ skeletons have broken the silence with moans of life and the stones themselves have emerged from sleep
+> **原句 7:** skeletons have broken the silence with moans of life and the stones themselves have emerged from sleep
 
 中文理解：骷髅以生之呻吟破寂，顽石自身亦自睡中醒来。复活时的异象。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：把"复活"写成全物的苏醒，神秘制造者连石块都重赋形，规模骇人。
 
 ---
-
-⑧ nothing is allowed a face but that it may be only a mask without a constant soul
+> **原句 8:** nothing is allowed a face but that it may be only a mask without a constant soul
 
 中文理解：无一物被许以面孔，除非那只是无恒魂之面具。存在即伪装。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：存在论宣判——你以为的"自己"只是会被撕下的面具，虚无收束。
 
 ---
-
-⑨ For wherever mystery serves as a foundation, only ruins may be erected.
+> **原句 9:** For wherever mystery serves as a foundation, only ruins may be erected.
 
 中文理解：因为凡以神秘为基之处，只能建起废墟。全篇题眼式的因果。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：闭环首句"mystery must rule"——统治的果实就是废墟，逻辑自洽而绝望。
 
 ---
-
-⑩ figures parade in a state of terror which is immortal, unchanging
+> **原句 10:** figures parade in a state of terror which is immortal, unchanging
 
 中文理解：众影列队游行于一种恐怖之境——那恐怖不朽、不变。结尾定格的永恒惊惧。
 

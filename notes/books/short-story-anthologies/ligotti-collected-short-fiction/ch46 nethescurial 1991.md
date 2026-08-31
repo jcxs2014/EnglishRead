@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 46. Nethescurial
-
-① Beneath dark waters and across moonlit skies below earth mound and above mountain peak.
+> **原句 1:** Beneath dark waters and across moonlit skies below earth mound and above mountain peak.
 
 中文理解：在暗水之下、明月天空之上，土丘之下、山峰之上。古籍吟唱片段，列举 Nethescurial 神"无所不在"的位所。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：用空间全囊括的排比写神的遍在，与后文"创世秘密之名"呼应。
 
 为什么这样写：开篇即以 chant 定调——此神不在某处而在一切处，恐怖来自"无处可逃"，是 Ligotti 泛在恶的签名。
-
-② Evil, beloved and menacing evil, may show itself anywhere precisely because it is everywhere.
+> **原句 2:** Evil, beloved and menacing evil, may show itself anywhere precisely because it is everywhere.
 
 中文理解：邪恶，被爱也被畏的邪恶，可在任何处显现，正因它无所不在。叙述者（档案发现者）论"恶之显现"的随笔。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：把恶写成"既可爱又可畏"的矛盾体，地点无碍因其遍在。
 
 为什么这样写：点明 Nethescurial 的本质——恶即创世本身，爱畏同源；读者对恶的迷恋恰是邪教吸引力的写照。
-
-③ All of creation as a mere mask for the foulest evil.
+> **原句 3:** All of creation as a mere mask for the foulest evil.
 
 中文理解：一切造物不过是至恶的面具。叙述者赞叹手稿核心幻想：宇宙即恶的伪装。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：以"面具"喻现实，恶在面具后，呼应 ① 遍在。
 
 为什么这样写：Ligotti 的本体论悲观——存在即恶的化装；与 ch43"影院是面纱"、ch41"暗海"同构，所见皆伪。
-
-④ Imagine the universe as the dream, the feverish nightmare of a demonic demiurge.
+> **原句 4:** Imagine the universe as the dream, the feverish nightmare of a demonic demiurge.
 
 中文理解：试想宇宙即一场梦，一个恶魔式造物主的狂热噩梦。叙述者邀读者把宇宙视为邪神之梦。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以"梦/噩梦"重写宇宙起源，把创世神降为做噩梦的 demiurge。
 
 为什么这样写：呼应 ch41"暗海之梦"、ch44"无限之国"——现实是某存在的梦，梦主即恶，闭环于 Ligotti 的"世界即噩梦"母题。
-
-⑤ Nethescurial is not the secret name of the creation.
+> **原句 5:** Nethescurial is not the secret name of the creation.
 
 中文理解：Nethescurial 并非那创世的秘密之名。结尾叙述者强作否认，却已深知它就是。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：以否定句做终局否认，越否认越坐实——反讽收束。
 
 为什么这样写：全文绕"Nethescurial 是否=创世之名"；结尾嘴上否认，笔却变大、手变小，烟形侵入——否认即沦陷，是 Ligotti 的"知恶即被吞"。
-
-⑥ That color which somehow makes me think of rotted lichen.
+> **原句 6:** That color which somehow makes me think of rotted lichen.
 
 中文理解：那颜色，莫名令我想起腐生苔藓。叙述者写梦中景观的单一阴色。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：以"腐苔色"写梦中恶的视觉基调，把神圣降为霉变。
 
 为什么这样写：Nethescurial 的"色"即腐败绿，贯穿梦与醒后现实；后面叙述者见万物皆此色蠕动，色即恶的介质。
-
-⑦ The idol and its sacrifice were becoming one within each other.
+> **原句 7:** The idol and its sacrifice were becoming one within each other.
 
 中文理解：偶像与其祭品在彼此之内正合为一。梦中 skeletal 信徒向偶像献出体内发光烟魂，二者交融。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：以"祭品入偶像"写占有/同一，崇拜即自我消解。
 
 为什么这样写：与 ch38 Thoss"他是我们之一"、ch40 Medusa"由内吞噬"同构——献身者被神吞并，崇拜的终点是无我。
-
-⑧ A manuscript whose ink was of a certain color.
+> **原句 8:** A manuscript whose ink was of a certain color.
 
 中文理解：一份墨色特殊的手稿。叙述者把稿投入壁炉，其墨色即 Nethescurial 之绿。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以"墨色"关联邪神，稿即寄生体，焚之仍冒同色烟。
 
 为什么这样写：呼应 ⑥ 腐苔色——邪神借墨色活在手稿里，百年等待下一个失魂者；焚稿不能净，烟形续侵，闭环。
-
-⑨ That shape is not the cancerous totality of all creatures.
+> **原句 9:** That shape is not the cancerous totality of all creatures.
 
 中文理解：那形并非一切造物的癌性全体。结尾叙述者嘴上否认烟中巨形即万生之恶。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：与 ⑤ 同构的否定否认，巨形=万物之恶的具身。
 
 为什么这样写：cancerous 把恶写成增殖之疾，呼应 ⑥ 腐色与 ③ 面具——否认句暴露叙述者已被同化，笔变大手变小即证据。
-
-⑩ Within each group of islands, whatever language was used to name them, there was always one called Nethescurial.
+> **原句 10:** Within each group of islands, whatever language was used to name them, there was always one called Nethescurial.
 
 中文理解：在每一群岛中，无论用以命名的是何语言，总有一座叫 Nethescurial。叙述者梦中读地图，发现恶名遍植全球。
 

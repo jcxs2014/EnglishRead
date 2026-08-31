@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 47. The Dreaming In Nortown
-
-① There are those who require witnesses to their doom.
+> **原句 1:** There are those who require witnesses to their doom.
 
 中文理解：有些人需要有人见证他们的覆灭。开篇定调：Quinn 即此类——他索求观众以成全其坠落的壮观。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：以旁观者视角开篇，把自身置于"记录者"位，暗示叙事即见证仪式。
 
 为什么这样写：Ligotti 常写"需观众的自我毁灭"——Quinn 的夜游是表演，叙述者是被迫的见证人，呼应 ch45 Dublanc 的"有益相见"。
-
-② Glimpsing the inferno with eyes of ice.
+> **原句 2:** Glimpsing the inferno with eyes of ice.
 
 中文理解：以冰之眼窥见地狱。Quinn 笔记本中反复出现的"力量咒文"短句。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：以冷眼视恐怖写教派的"渎神宿命论"——直面恶而不动容。
 
 为什么这样写：教派信条即"以冷静直面恐怖"；与 ch43 老妇紫光眼、ch44 Plarr 发眼同属"凝视即占有"母题，此处是主动窥地狱。
-
-③ The glistening inner skin of deadliest nightshade.
+> **原句 3:** The glistening inner skin of deadliest nightshade.
 
 中文理解：最毒颠茄那闪亮的内皮。Quinn 笔记本描述"zone"之景的短语。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：以植物毒喻异界之美，把恐怖写得好看。
 
 为什么这样写：zone 的"色毒"即前文 ch45 茧、ch46 腐色的同类——异界以绚色诱人，nightshade 点其致死本质。
-
-④ They're dreaming too they're dreaming shaping things with their dreams.
+> **原句 4:** They're dreaming too they're dreaming shaping things with their dreams.
 
 中文理解：它们也在梦，它们也在梦，以梦塑造万物。Quinn 在剧院梦中向叙述者呼救——那些"兽"以梦重塑现实。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：重复"dreaming"制造呓语节奏，呼救即启示。
 
 为什么这样写：与 ch41"以黑暗观暗"、ch44"发声刺空"同构——异界存在以"梦"运作现实；Quinn 被它们梦入己身，呼应 ② 的 zone。
-
-⑤ A rainbow staining the sky after a poison deluge.
+> **原句 5:** A rainbow staining the sky after a poison deluge.
 
 中文理解：一场毒雨后染亮天空的彩虹。叙述者描述剧院外那"不可名状之彩"的喻体之一。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：以"毒雨彩虹"写异界之彩——美而致命。
 
 为什么这样写：与 ③ nightshade 同调——彩即毒；剧院外 Quinn 被"多彩兽"吞并的辉光即此彩虹，绚烂即毁灭。
-
-⑥ They dreamed him through a hideous series of grotesque transfigurations.
+> **原句 6:** They dreamed him through a hideous series of grotesque transfigurations.
 
 中文理解：它们以一连串可怖的怪异形变将他梦出。结尾叙述者梦中所见：多彩兽把 Quinn 梦成其中之一。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：以"梦"作及物动词写占有——它们"梦"Quinn 即重塑他。
 
 为什么这样写：闭环 ④"以梦塑物"——兽用梦把人变兽；Quinn 的"成为其一员"即被梦改写，与 ch38 虫化、ch40 石化同属形变吞噬。
-
-⑦ They were dreaming things out of him and dreaming things into him.
+> **原句 7:** They were dreaming things out of him and dreaming things into him.
 
 中文理解：它们正从他身上梦出某些东西，又把某些东西梦入他身。叙述者写兽对 Quinn 的双向改写。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：对称写"掏空+填入"，占有即置换自我。
 
 为什么这样写：与 ch40 Medusa"由内吞噬"、ch42"梦使用你"同构——被占有的极致是内容被换，Quinn 成空壳再填以兽性。
-
-⑧ Perhaps he will never suspect that I am now its carrier.
+> **原句 8:** Perhaps he will never suspect that I am now its carrier.
 
 中文理解：或许他永不会怀疑，如今我才是它的携带者。结尾叙述者自白：Quinn 消失，噩梦转移至自己。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以"携带者"收束，把寄生写成可传疾病，叙事反转。
 
 为什么这样写：与 ch45 叙述者"逃脱"相反——此处叙述者才是被感染体；见证人反成宿主，闭环于 Ligotti 的"见证即同化"。
-
-⑨ Windows are the eyes of the soulless.
+> **原句 9:** Windows are the eyes of the soulless.
 
 中文理解：窗即无魂者之眼。酒吧外两"教授"对窥视的叙述者所言。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：以"窗=眼"写建筑的凝视，物皆有观。
 
 为什么这样写：与 ch43 影院窗后老妇紫眼、ch44 Plarr 窗后发影同属"窗即注视"母题——被看者早已在回望。
-
-⑩ Perhaps these were Quinn's leftover visions or terrors still haunting the apartment.
+> **原句 10:** Perhaps these were Quinn's leftover visions or terrors still haunting the apartment.
 
 中文理解：或许这些是学生 Quinn 遗下的幻见或惊惧，仍在这公寓作祟。Quinn 消失后叙述者梦其续变，自忖梦源。
 

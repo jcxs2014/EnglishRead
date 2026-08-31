@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 78. The Bells Will Sound Forever
-
-① Deliriously preposterous
+> **原句 1:** Deliriously preposterous
 
 中文理解："疯狂地荒谬"。Crumm 踏入 Pyk 老宅时对自己处境的评语。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：用"疯狂地荒谬"定调，荒诞感贯穿全篇。
 
 为什么这样写：Ligotti 招牌式"存在即 preposterous"——为后文木偶戏式结局铺陈"不应认真"的恐怖。
-
-② the jingle-jangle sound
+> **原句 2:** the jingle-jangle sound
 
 中文理解：那叮铃哐啷的声响。Pyk 宅中反复出现的铃铛声。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：拟声词 jingle-jangle，把恐怖写成童谣铃声。
 
 为什么这样写：铃声即"被操控"的信号——每响一次，Crumm 离"成为棍上头"更近，呼应小丑木偶母题。
-
-③ a fool's motley complete with soft slippers turned up at the toes and a two-pronged cap that jangled its bells
+> **原句 3:** a fool's motley complete with soft slippers turned up at the toes and a two-pronged cap that jangled its bells
 
 中文理解：一整套小丑彩衣，配尖头翻翘软鞋与一顶会叮当响的双角帽。Crumm 在阁楼寻得的戏服。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：以戏服细节写"身份置换"——穿上即不再是原人。
 
 为什么这样写：小丑=被观看的痴人，Crumm 主动披上彩衣，隐喻"人甘愿沦为存在的玩笑"。
-
-④ the slack face of a fool in the mirror
+> **原句 4:** the slack face of a fool in the mirror
 
 中文理解：镜中那张小丑松弛的脸。Crumm 试装后看到的自己。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：镜中脸与"我"剥离，自我异化。
 
 为什么这样写：镜像母题——凝视镜中已非己身，存在被外部戏服接管。
-
-⑤ to be a head on a stick held in the wooden hand of Mrs Pyk
+> **原句 5:** to be a head on a stick held in the wooden hand of Mrs Pyk
 
 中文理解：成为一根棍子顶端的人头，握在 Pyk 的木制手中。Crumm 最终所见的自身。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：把人降格为"棍上头颅玩偶"，极致物化。
 
 为什么这样写：收束——所谓"阁楼奇遇"是 Pyk 把他变成提线（棍）傀儡，呼应全篇"人为 pawn"的真相。
-
-⑥ Forever... forever.
+> **原句 6:** Forever... forever.
 
 中文理解："永远……永远。"Crumm 脑海中最后的执念。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：无主句的"永远"，把诅咒写成永恒状态。
 
 为什么这样写：铃响不止、傀儡不歇——"永远"即存在被囚的终极时态。
-
-⑦ May I come to stay again?
+> **原句 7:** May I come to stay again?
 
 中文理解："我可以再来住吗？"Crumm 离宅时的恳求。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：受害者反求再入囚笼，惊悚的反转。
 
 为什么这样写：点出 Pyk 的掌控——被吞者自愿回归，自由意志彻底失效。
-
-⑧ artificial wooden hand
+> **原句 8:** artificial wooden hand
 
 中文理解：那只木制的假手。Pyk 被宿敌砍去左手后装的义肢。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以"木手"暗示 Pyk 本身即非人操控者。
 
 为什么这样写：木手=操纵的具象，她用木手摇响"Crumm 棍头"，她是更大棋局的执行者。
-
-⑨ You were only a pawn
+> **原句 9:** You were only a pawn
 
 中文理解："你只是枚棋子。"公园里叙述者对 Crumm 的点破。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：用棋局隐喻收束——Crumm 与所有住客皆是势力博弈的筹码。
 
 为什么这样写：回扣 Pyk vs Glimm 的宿怨，把个人恐怖升为"老镇势力"的代理战争。
-
-⑩ the faint jingle-jangle of bells in the blackness
+> **原句 10:** the faint jingle-jangle of bells in the blackness
 
 中文理解：黑暗中那微弱的叮铃哐啷。叙述者夜不能寐时似听见的余响。
 

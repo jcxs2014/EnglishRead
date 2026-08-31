@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 55. Autumnal
-
-① When all the landscape is dying, descending fragrantly to earth, we alone rise up.
+> **原句 1:** When all the landscape is dying, descending fragrantly to earth, we alone rise up.
 
 中文理解：当整片风景死去、芬芳坠地，唯独我们升起。秋日亡灵以第一人称"我们"宣告自己的时节。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 以"秋之亡灵"口吻叙事，把季节轮回写成一场有目的的收割，恐怖而诗意。
 
 ---
-
-② This is our season to be reborn.
+> **原句 2:** This is our season to be reborn.
 
 中文理解：这是我们的重生之时。亡灵视秋天为自身的复活季。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：确立亡灵的视角逻辑，让读者以"被收割者"的姿态重新理解秋天。
 
 ---
-
-③ we do not particularly enjoy being pulled up into the burning air for the amusement of some unknown mischief maker, some cosmic prankster, master of the trick.
+> **原句 3:** we do not particularly enjoy being pulled up into the burning air for the amusement of some unknown mischief maker, some cosmic prankster, master of the trick.
 
 中文理解：我们并不特别享受被拽入灼烧的空气，供某个无名捣蛋鬼、某个宇宙恶作剧者取乐。亡灵自嘲被更高存在玩弄。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 式虚无——连亡灵也只是更高存在消遣的玩具，存在荒诞到可笑。
 
 ---
-
-④ However put out we may feel, we are hopelessly superstitious about shirking certain obligations, for there are some which even the power of a posthumous lethargy cannot refuse.
+> **原句 4:** However put out we may feel, we are hopelessly superstitious about shirking certain obligations, for there are some which even the power of a posthumous lethargy cannot refuse.
 
 中文理解：无论多不情愿，我们对逃避某些义务抱有不可救药的迷信——有些义务连死后倦怠之力也无法推拒。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：赋予恐怖以"职责"的庄严——亡灵非恶，只是无法拒绝被指派的任务。
 
 ---
-
-⑤ Our horror is an expected one, given the unnatural propensities of the season.
+> **原句 5:** Our horror is an expected one, given the unnatural propensities of the season.
 
 中文理解：我们的恐怖是预期之中的，鉴于此季那不合自然的倾向。亡灵深知自己带来的是"被预期的恐怖"。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：消解读者的侥幸：秋日恐怖不是偶发，而是结构性的必然。
 
 ---
-
-⑥ We take as many as we can back to the grave with us, because that is our task.
+> **原句 6:** We take as many as we can back to the grave with us, because that is our task.
 
 中文理解：我们尽数带人同归坟墓，因为那是我们的任务。点明亡灵的"工作"。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：呼应④的"义务"——收割是职务，亡灵是执行者，冷酷中带着悲悯。
 
 ---
-
-⑦ deviates of matter longing to bring an end to the charade of all seasons, natural or supernatural.
+> **原句 7:** deviates of matter longing to bring an end to the charade of all seasons, natural or supernatural.
 
 中文理解：我们是物质的异类，渴望终结一切季节的假面——无论自然或超自然。亡灵自述终极目的。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：升华主题——亡灵不只是收割者，更是"反存在"的代理人，要拆穿宇宙的戏。
 
 ---
-
-⑧ we are always dreaming of the day when all the fires of summer are defunct
+> **原句 8:** we are always dreaming of the day when all the fires of summer are defunct
 
 中文理解：我们总梦见那一天——夏之火尽灭。亡灵向往终极的冷却与终结。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：把"死亡"写成亡灵的乡愁，恐怖中透出奇异的温柔向往。
 
 ---
-
-⑨ when everyone like a shrivelled leaf sinks into the cooling ground of a sunless earth
+> **原句 9:** when everyone like a shrivelled leaf sinks into the cooling ground of a sunless earth
 
 中文理解：当每个人都如枯叶沉入无日之地的冷却泥土。亡灵描绘终极图景。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：以衰败意象收束世界观，呼应秋之凋零，形成圆环结构。
 
 ---
-
-⑩ The supple swish of summer trees has become a dry rattle in a cooling wind, and our ears begin to tingle as we lie dark and deep in our beds.
+> **原句 10:** The supple swish of summer trees has become a dry rattle in a cooling wind, and our ears begin to tingle as we lie dark and deep in our beds.
 
 中文理解：夏树的柔韧沙沙声已变成冷却风中的干裂咯咯声，而我们深埋暗床，耳尖发麻。开篇与亡灵苏醒的感官对照。
 

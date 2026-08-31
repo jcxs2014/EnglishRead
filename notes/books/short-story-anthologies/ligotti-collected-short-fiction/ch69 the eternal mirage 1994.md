@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 69. The Eternal Mirage
-
-① Illusions struggle with illusions.
+> **原句 1:** Illusions struggle with illusions.
 
 中文理解：幻象与幻象彼此角力。开篇点题——所见皆虚，且虚与虚相争。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：短句并置，把"幻象"实体化为互相搏斗的力量。
 
 为什么这样写：以悖论式开场确立全篇的虚无基调——连幻象都没有确定性，真实更无从谈起。
-
-② All space is virtual; the infinite is illusory.
+> **原句 2:** All space is virtual; the infinite is illusory.
 
 中文理解：一切空间皆是虚拟的；无限是虚假的。两句并列，否定空间与无限的真实。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：格言式对仗，分号收束，语气决断。
 
 为什么这样写：把宇宙的两种基本维度（空间、无限）一并判为虚假，是 Ligotti 式虚无主义的浓缩宣言。
-
-③ a dimension has died, annihilating depth and leaving behind only a lustrous image
+> **原句 3:** a dimension has died, annihilating depth and leaving behind only a lustrous image
 
 中文理解：一个维度已死，消灭了纵深，只留下一层璀璨的影像。纵深（真实的空间层次）消亡，只剩表面镜像。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：把几何维度拟人化地"死亡"，影像成为唯一遗存。
 
 为什么这样写：用"维度的死亡"解释为何世界只剩平面幻象——为后文"玻璃海"的镜像世界提供本体论依据。
-
-④ For below, one may vow, extends another blackness, an endless ebony plateau whose surface is like polished stone
+> **原句 4:** For below, one may vow, extends another blackness, an endless ebony plateau whose surface is like polished stone
 
 中文理解：因为下方，可断言，延伸着另一片黑暗——无垠的乌木台原，表面如磨光之石。天空倒影的"下界"仍是一片死寂黑暗。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以"可发誓"（one may vow）强化陈述的不可置疑，再用大理石般的台原具象化虚无。
 
 为什么这样写：上下皆黑，镜像世界失去依托——"下方"并非另一重真实，而是与上方同构的虚无。
-
-⑤ brilliant debris of its dreams
+> **原句 5:** brilliant debris of its dreams
 
 中文理解：它（天空）梦境的璀璨残骸。星星被比作天空抛弃的梦之碎片。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：隐喻——星是"天空之梦的残骸"，赋予天体以心理创伤意味。
 
 为什么这样写：把星空降格为"废弃的梦"，呼应虚无主义：连光都是被丢弃的幻影。
-
-⑥ the sky has gazed too long and too deeply, reaching into itself and embracing its own visions
+> **原句 6:** the sky has gazed too long and too deeply, reaching into itself and embracing its own visions
 
 中文理解：天空凝视过久过深，探入自身、拥抱自己的幻象。天空以大地为镜自恋，沉溺于自我投射。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：将天空拟人为自恋者，凝视行为导致主客不分。
 
 为什么这样写：解释"镜像世界"的成因——天空因长久自视为镜像所困，真实与幻象彼此吞噬。
-
-⑦ Even the emptiness that separates the starlight from its reflection upon the great glassy plain is an imitation void.
+> **原句 7:** Even the emptiness that separates the starlight from its reflection upon the great glassy plain is an imitation void.
 
 中文理解：连分隔星光与其在大片玻璃般平原上倒影的那片虚空，也是伪造的虚空。连"空"都是假的。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：递进否定——不仅空间、无限是虚，连"无"也是仿制品。
 
 为什么这样写：把虚无主义推到极致：没有任何一层是真实的，连虚无都是拟态。
-
-⑧ this ocean is itself merely a starry phantasm glimpsed in certain eyes
+> **原句 8:** this ocean is itself merely a starry phantasm glimpsed in certain eyes
 
 中文理解：这片海洋本身不过是在某些眼中所瞥见的星之幻影。海与天互为镜像，皆是他者眼中的幻。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：收回前文的"海洋"，指认为"眼中的幻影"，闭环到观察者。
 
 为什么这样写：将外部世界收束为感知的产物——没有独立的海，只有眼中的星之残像。
-
-⑨ eyes that are like two stars laid deep in a black mirror
+> **原句 9:** eyes that are like two stars laid deep in a black mirror
 
 中文理解：那双眼如同深嵌于黑色镜中的两颗星。以"黑镜中的星"回扣全篇的镜像母题。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：回环意象——星在黑镜中，正如眼在黑暗中，观察者与被观察者同构。
 
 为什么这样写：收束于"眼"，把宇宙的镜像结构浓缩进一只凝视的眼，呼应"天空自视"的主题。
-
-⑩ quivering bodies held captive in the unbroken web of blackness
+> **原句 10:** quivering bodies held captive in the unbroken web of blackness
 
 中文理解：在不曾断裂的黑暗之网中被囚的颤动身躯。光点（星）被比作困于黑网中的活物。
 

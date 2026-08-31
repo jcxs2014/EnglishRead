@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 51. The Tsalal
-
-① Blessed is the seed that is planted forever in darkness.
+> **原句 1:** Blessed is the seed that is planted forever in darkness.
 
 中文理解：蒙福的是那粒永远种在黑暗中的种子。老妇人不经意吐露的祷词，后揭示是 Reverend Maness 的预言——Andrew 即那粒"种子"。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：开篇以镇民口中无意识的谶语定调，把末世预言藏于日常闲谈，余音贯穿全篇（结尾"seed... planted in a dark place"回收）。
 
 ---
-
-② Written in dark ink upon its cover was the word TSALAL.
+> **原句 2:** Written in dark ink upon its cover was the word TSALAL.
 
 中文理解：封面以黑墨写着一个词：TSALAL。Andrew 合上父亲所写之书的动作收束，书名揭示。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：以"书中之书"的封面词收束第2节，把抽象恐怖锚定到一个专有名词，开启后文对"Tsalal=无律无理由者"的阐释。
 
 ---
-
-③ "The mystery of lawlessness doth already work," he said.
+> **原句 3:** "The mystery of lawlessness doth already work," he said.
 
 中文理解："不法之奥秘已经发动，"他说。父亲用圣经帖撒罗尼迦后书经文指认儿子体内的"兽"。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 惯用正统宗教文本作恐怖框架——把儿子写成"不法者"降世，反转基督教道成肉身叙事。
 
 ---
-
-④ "You must become the other one, the katechon, the one who restrains."
+> **原句 4:** "You must become the other one, the katechon, the one who restrains."
 
 中文理解："你必须成为另一个——katechon，那拦阻者。"父亲要儿子做"阻挡末日"的人（katechon 出自同上经文"那拦阻的"）。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：点明父辈企图——他们召唤了 Tsalal，又想让儿子当"刹车"。儿子拒绝，使毁灭不可逆。
 
 ---
-
-⑤ All changes in things are grotesque. The very possibility of changes in things is grotesque. And the beast is the author of all changes.
+> **原句 5:** All changes in things are grotesque. The very possibility of changes in things is grotesque. And the beast is the author of all changes.
 
 中文理解：万物之变化皆怪诞；变化之可能本身即怪诞；而兽是一切变化的作者。父亲对"变化"的病理化指控。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：这是 Reverend Maness 哲学的核心——任何变动都是堕落；为后文"Tsalal=变化即真理"的正反对立铺设。
 
 ---
-
-⑥ "There is no nature to things," you wrote in the book. "There are no faces except masks held tight against the pitching chaos behind them."
+> **原句 6:** "There is no nature to things," you wrote in the book. "There are no faces except masks held tight against the pitching chaos behind them."
 
 中文理解："事物本无本性，"你在书中写，"除了紧贴背后摇摇欲坠之混沌的面具，别无他面。"Andrew 朗读父亲手稿原句。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：揭露父亲言行矛盾——他口头说"变化是恶"，笔下却写"无本性、唯面具"，实为同一套虚无哲学。
 
 ---
-
-⑦ A blackness no one had ever seen.
+> **原句 7:** A blackness no one had ever seen.
 
 中文理解：一种无人曾见过的黑暗。全篇反复出现的短语，指 Tsalal 的显形，超越寻常夜色。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：作为 motif 出现 4 次，逐步从修饰语升格为末日景象主体（结尾"黑 unity"吞噬全镇）。
 
 ---
-
-⑧ "It was not much more than a century ago that the people of this world betrayed their awareness of a new god that was not a god."
+> **原句 8:** "It was not much more than a century ago that the people of this world betrayed their awareness of a new god that was not a god."
 
 中文理解："不过百余年以前，这世界的人泄露了他们对一位'非神之神'的觉察。"父亲讲述 Tsalal 在近世才浮现为"新神"。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：给虚无主义一个"诞生时刻"，暗示现代哥特文学正是这神显形的征兆——元小说式自指。
 
 ---
-
-⑨ Tsalal, Tsalal, Tsalal.
+> **原句 9:** Tsalal, Tsalal, Tsalal.
 
 中文理解：Tsalal，Tsalal，Tsalal。镇民在教堂齐声吟诵，被同化为 Tsalal 的信徒。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：叙事转折点——受害者主动拥抱毁灭，呼应前文"他们活在错处太久了"，宿命闭环。
 
 ---
-
-⑩ The nothingness of the blackness no one had ever seen... or would ever see. For no one had ever lived except as a shadow of the blackness of the Tsalal.
+> **原句 10:** The nothingness of the blackness no one had ever seen... or would ever see. For no one had ever lived except as a shadow of the blackness of the Tsalal.
 
 中文理解：那无人曾见……也永不会见的黑之虚无。因为无人曾活过，except 作为 Tsalal 之黑的影子。结尾哲思收束。
 

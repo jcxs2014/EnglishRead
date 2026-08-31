@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 56. One May Be Dreaming
-
-① Beyond the windows a dense fog spreads across the graveyard, and a few lights beam within hazy depths, glowing like old lamps along an empty street.
+> **原句 1:** Beyond the windows a dense fog spreads across the graveyard, and a few lights beam within hazy depths, glowing like old lamps along an empty street.
 
 中文理解：窗外浓雾漫过墓地，几盏灯在朦胧深处放光，如空街上的旧灯。开篇以窗景建立"墓园-雾-灯"的封闭意境。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：首句即定调——叙述者困于一室，窗外是缓缓吞噬一切的雾与墓地，呼应标题"或许只是在做梦"。
 
 ---
-
-② it is a burial-ground in the clouds that I contemplate through the window.
+> **原句 2:** it is a burial-ground in the clouds that I contemplate through the window.
 
 中文理解：我透过窗所凝望的，是云中的葬地。叙述者点破窗外之景的非尘世性。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：埋下"这是梦中之梦"的伏笔——连墓园都在云里，地面本身可疑。
 
 ---
-
-③ There is no door.
+> **原句 3:** There is no door.
 
 中文理解：没有门。一句独立短句，宣告房间的封闭与不可逃。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 式密闭恐惧的浓缩；四个字即可让读者感到被困，与"无路可出"的梦境同构。
 
 ---
-
-④ I never dreamed that dying in one's sleep would encompass dreaming itself.
+> **原句 4:** I never dreamed that dying in one's sleep would encompass dreaming itself.
 
 中文理解：我从未梦到，在睡梦中死去竟会包含"做梦"本身。核心悖论——死是更深的梦。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：标题"One May Be Dreaming"的哲理内核——你以为醒着，其实是梦中人将死，而那死去本身又是一场梦。
 
 ---
-
-⑤ my other body somewhere lies still and without hope
+> **原句 5:** my other body somewhere lies still and without hope
 
 中文理解：我的另一具身体某处静止而无望地躺着。叙述者意识到有"醒着的尸身"与"梦中的血色形"。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：把"濒死体验"写成自我裂为两半，恐怖在于"梦里的我以为活着，其实两边都死"。
 
 ---
-
-⑥ they are no more real than I am
+> **原句 6:** they are no more real than I am
 
 中文理解：它们（窗外灯火雾墓）不比我更真实。叙述者否定窗外景与自身两者的实在性。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：推进⑤的虚无——不仅我虚，连我以为的"外部真实"也虚，彻底的 solipsism 恐怖。
 
 ---
-
-⑦ The next dream will be darker still
+> **原句 7:** The next dream will be darker still
 
 中文理解：下一个梦会更暗。叙述者预见梦境层层递暗、记忆剥落。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：把死亡过程写成不断变暗的梦链，呼应④的"梦包含梦"，无终点的消解。
 
 ---
-
-⑧ Those lights flickering in the fog seem the very face of infinity, the spare features of an empty mask.
+> **原句 8:** Those lights flickering in the fog seem the very face of infinity, the spare features of an empty mask.
 
 中文理解：雾中闪烁的灯，似乎是 infinity 本身的脸，一张空面具的稀疏五官。将灯火抽象为"无限的空面"。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：把局部景物升格为形而上学符号，梦的尽头是"空面具般的无限"，虚无具象化。
 
 ---
-
-⑨ Everything is dimming, dissolving...
+> **原句 9:** Everything is dimming, dissolving...
 
 中文理解：一切在变暗、溶解……叙述者目送景象与自我一同消散。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：临近终局的语感——连陈述都开始碎裂，语言随梦境一同溶解。
 
 ---
-
-⑩ But for the moment I am safe in my dream, this dream.
+> **原句 10:** But for the moment I am safe in my dream, this dream.
 
 中文理解：但此刻我在我的梦里，这梦里，是安全的。结尾一句，脆弱的安慰。
 

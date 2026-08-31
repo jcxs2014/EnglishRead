@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 59. The Career of Nightmares
-
-① No one knows how entrance is made; no one recalls by what route such scenes are arrived at.
+> **原句 1:** No one knows how entrance is made; no one recalls by what route such scenes are arrived at.
 
 中文理解：无人知晓如何进入；无人记得是经哪条路抵达这些场景。开篇即申明梦魇的无入口性。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 以"无法追溯入口"定义噩梦本质——你已在其中，却不知如何进来，存在即困。
 
 ---
-
-② a gallery of mannikins abruptly wakes and they all take up their roles in mid-speech, without a beginning to go back to.
+> **原句 2:** a gallery of mannikins abruptly wakes and they all take up their roles in mid-speech, without a beginning to go back to.
 
 中文理解：一排人偶骤然醒转，全在半句话里接上角色，无起点可回。梦的"无首"特性。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：把噩梦比作一场无头戏剧，演员不知剧本开头——强化"被困于进行中"的焦虑。
 
 ---
-
-③ But the significant thing is not to begin but to continue, not to arrive but to stay.
+> **原句 3:** But the significant thing is not to begin but to continue, not to arrive but to stay.
 
 中文理解：但关键不在开始而在继续，不在抵达而在停留。点出梦魇的核心是"滞留"。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：全篇题眼——噩梦之恐怖不在降临而在无法脱身，为后文"incarceration is the law"铺垫。
 
 ---
-
-④ restriction, incarceration is the law of the structure.
+> **原句 4:** restriction, incarceration is the law of the structure.
 
 中文理解：限制、囚禁，是这结构的法则。叙述者揭示梦建筑的本体规律。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：冷峻定调——你不是偶然被困，而是被"结构之法"注定囚禁，虚无主义收束。
 
 ---
-
-⑤ as if perfectly painted mountains had been left without a lake or sky on a wide white canvass.
+> **原句 5:** as if perfectly painted mountains had been left without a lake or sky on a wide white canvass.
 
 中文理解：仿佛画得完美的山，被留在阔白画布上，没有湖也没有天。喻梦之孤立无境。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：以绘画意象写梦的"无背景性"，呼应"不知如何进入"，空间即断层。
 
 ---
-
-⑥ it is very late, and the time has somehow slipped by for a crucial appointment.
+> **原句 6:** it is very late, and the time has somehow slipped by for a crucial appointment.
 
 中文理解：已经很晚了，而某个关键约会的时辰不知怎的溜走了。梦中典型的"误事"焦虑。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：把存在性困局翻译为人人皆有的梦体验，让读者切身代入"来不及"的恐惧。
 
 ---
-
-⑦ All the hallways look the same—without proper lighting or helpful passersby—and none of the rooms is numbered.
+> **原句 7:** All the hallways look the same—without proper lighting or helpful passersby—and none of the rooms is numbered.
 
 中文理解：所有走廊长得一样——没有适当照明也没有可问的路人——房间皆无编号。迷楼意象。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：把"找不到路"具象为建筑学困境，是 Ligotti 对卡夫卡式官僚迷宫的哥特改写。
 
 ---
-
-⑧ That vital meeting has already been missed and nothing in the world can make up for this loss.
+> **原句 8:** That vital meeting has already been missed and nothing in the world can make up for this loss.
 
 中文理解：那场要紧的会已经错过，世间无一物可弥补此失。梦中错失的终极宣判。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：梦魇的情感落点——不是危险而是"无可挽回的错失"，一种纯净的绝望。
 
 ---
-
-⑨ multitudes of huge spiders hang ill drooping webs above and around you.
+> **原句 9:** multitudes of huge spiders hang ill drooping webs above and around you.
 
 中文理解：成群巨蛛在你上方与四周垂下病态的网。楼梯下"避难所"里的反转。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：在"避难所"里出现更恐怖之物——所谓安全只是更深的陷阱，梦境层层嵌套。
 
 ---
-
-⑩ Everyone recalls this final flight from the nightmare; everyone knows how to scream.
+> **原句 10:** Everyone recalls this final flight from the nightmare; everyone knows how to scream.
 
 中文理解：人人都记得这从噩梦中的最后逃离；人人都知道如何尖叫。结尾——逃离是唯一的共识。
 

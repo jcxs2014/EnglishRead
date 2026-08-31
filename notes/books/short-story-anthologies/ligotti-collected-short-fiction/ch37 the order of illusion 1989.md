@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 37. The Order Of Illusion
-
-① It seemed to him that the old mysteries had been made for another universe.
+> **原句 1:** It seemed to him that the old mysteries had been made for another universe.
 
 中文理解：在他看來，那些古老的秘仪是为另一个宇宙而设的。叙述者（旧秘仪学徒）感到自己信仰的体系已错位于现世。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：以"错位"开篇，把信仰危机写成空间性流放，奠定全文"旧神不适用于此世"的哀歌基调。
 
 为什么这样写：一句看似神学感慨，实为叙述者背离师门、自创邪教的心理起点——旧秩序失效，才有后文他造自己的秩序。
-
-② The mask with seven eyes, the idol of moons.
+> **原句 2:** The mask with seven eyes, the idol of moons.
 
 中文理解：七眼的面具，月之偶像。叙述者为自己新造的神祇肖像，七眼象征全视，月呼应夜与幻。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：以器物命名神，把抽象"幻"具身为可崇拜之物，是 Ligotti 式的"用道具造宗教"。
 
 为什么这样写：面具与偶像即"秩序之幻"的具身，后文他终被这偶像回收，形成闭环。
-
-③ The ceremony called the Night of the Night.
+> **原句 3:** The ceremony called the Night of the Night.
 
 中文理解：那被称为"夜之夜"的仪典。他发明的新祭名，叠用 night 强调极夜、虚无之庆。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：用同词复沓造神秘专有名词，仪式名本身即咒语。
 
 为什么这样写：自创祭名暴露他是在"扮演"秘仪大师，与开篇"旧秘仪为别宇宙而造"形成他造替代品的讽刺。
-
-④ Dolls with broken faces he put on display in corners.
+> **原句 4:** Dolls with broken faces he put on display in corners.
 
 中文理解：他把破脸的娃娃摆在角落展示。他布置邪教圣物，残破人偶即被弃信仰的遗骸。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：宾语前置突出"破脸娃娃"，与后文 disfigured dolls 呼应，把创伤物变为祭品。
 
 为什么这样写：娃娃=被他毁掉的旧自我/旧信徒，陈列即展览自己的弑师之罪。
-
-⑤ His old wonder had been ravaged and his hunger for mockery fulfilled.
+> **原句 5:** His old wonder had been ravaged and his hunger for mockery fulfilled.
 
 中文理解：他旧日的惊奇已被摧残，而他嘲弄的饥渴却得了满足。叙述者承认信仰死灭、只剩讥讽。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：对称结构（wonder 毁 / hunger 满）写信仰与亵渎的此消彼长。
 
 为什么这样写：点明他造邪教不是为了信，而是为了嘲——mockery 是 Ligotti 人物的典型驱动力。
-
-⑥ The pathetic, lusterless world he had made, and labored to make low, had rebelliously elevated itself beyond its surface decrepitude.
+> **原句 6:** The pathetic, lusterless world he had made, and labored to make low, had rebelliously elevated itself beyond its surface decrepitude.
 
 中文理解：他那可悲、无光的世界——他亲手造出、又费力压低的世界——竟叛逆地自我抬升，越过了表层的破败。叙述者发现自己的造物反客为主。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：长句用嵌套定语把"造世—贬世—世反噬"压缩于一气，语法即情节。
 
 为什么这样写：他以为能掌控幻象，幻象却自立——这是 Ligotti 对"创作者被自己造物吞噬"的元叙事。
-
-⑦ Each of the disfigured dolls, vile and insane mimics of the human nightmare, gave up their evil.
+> **原句 7:** Each of the disfigured dolls, vile and insane mimics of the human nightmare, gave up their evil.
 
 中文理解：每一个毁容的娃娃——人性噩梦的卑劣而疯狂的摹本——都交出了它们的恶。旧圣物在他新仪中"弃恶"，暗示他被净化/被收编。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：把娃娃拟人化并赋予"弃恶"动作，使静物参与仪典，模糊物我界限。
 
 为什么这样写：娃娃弃恶 = 他也交出了反抗，为结尾"加入他们"铺垫——旧造物反成接纳他的母体。
-
-⑧ He joined them.
+> **原句 8:** He joined them.
 
 中文理解：他加入了它们。最短的结局句，他最终归入自己造的破脸娃娃之群。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以最简陈述收束，不解释不感伤，留白即恐怖。
 
 为什么这样写：全篇铺陈叛离与造序，结尾却是不加修辞的"归队"——他造的幻最终收容了他。
-
-⑨ His the face behind the mask with seven eyes.
+> **原句 9:** His the face behind the mask with seven eyes.
 
 中文理解：那七眼面具之后的脸，是他的。叙述者揭示自己就是面具之神，造物与造主同一。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：物主代词提前的破碎句式，像铭文，宣告身份同一。
 
 为什么这样写：回应 ② 的七眼面具——面具后原来是他自己，自造神即自拜，闭环信仰的虚妄。
-
-⑩ And he is the one who stands in shining robes before the massive idol of moons, trembling the while with wonder.
+> **原句 10:** And he is the one who stands in shining robes before the massive idol of moons, trembling the while with wonder.
 
 中文理解：而那人——身着熠熠长袍、立于巨大月之偶像前、同时因惊奇而颤抖的——就是他。终幕定格：他成仪典中心，却仍因"惊奇"而抖，旧 wonder 归来。
 

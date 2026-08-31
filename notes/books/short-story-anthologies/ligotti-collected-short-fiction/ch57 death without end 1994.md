@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 57. Death Without End
-
-① "If they could only see what things are really like, rotting all around me."
+> **原句 1:** "If they could only see what things are really like, rotting all around me."
 
 中文理解："要是他们能看见真实景象就好了——四周一切都在腐烂。"死者生前总向他人掩饰居所的破败，这是他想象中自己的独白。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：开篇即用腐烂意象定调，把"死亡=腐朽"的生理真实前置，反讽活人伪装。
 
 ---
-
-② He was sitting in a plump, stuffed chair which was sprouting in several places through the worn upholstery.
+> **原句 2:** He was sitting in a plump, stuffed chair which was sprouting in several places through the worn upholstery.
 
 中文理解：他坐在一张丰满的填塞椅里，填料的破损处正多处冒出。椅子的"活体感"暗示物与人同朽。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：椅子的"鼓胀冒出"与结尾死者手指抠进同款椅形成闭环，物是人尸的共生意象。
 
 ---
-
-③ "Late afternoon in a perpetual autumn?"
+> **原句 3:** "Late afternoon in a perpetual autumn?"
 
 中文理解："是那种永远的秋日午后吗？"他满怀希望地问想象中的引导者，把死后的世界猜成恒秋。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：设置叙述者的预期——他以为死是诗意的恒秋，为后续"真相比这更糟"的落差铺垫。
 
 ---
-
-④ "Not exactly," the gentleman answered. "Please keep watching."
+> **原句 4:** "Not exactly," the gentleman answered. "Please keep watching."
 
 中文理解："不完全是，"绅士答，"请继续看。"引导者语带反讽，因为眼前已无物可看。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：反复"Not exactly / Not precisely"的推拖，把死亡真相一层层剥向不可名状，是 Ligotti 的悬停式恐怖。
 
 ---
-
-⑤ a subterranean or extrastellar phosphorescence
+> **原句 5:** a subterranean or extrastellar phosphorescence
 
 中文理解：一种地下或星外的磷光。死者"看见"尸体时，尸身发出的幽光。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：用科学式定语（subterranean/extrastellar）把灵异现象"术语化"，是 Ligotti 把恐怖学术化的惯技。
 
 ---
-
-⑥ the flesh of the cadaver was in gauzy tatters, lips shrivelled to a powdery smudge on a pale shroud of a face
+> **原句 6:** the flesh of the cadaver was in gauzy tatters, lips shrivelled to a powdery smudge on a pale shroud of a face
 
 中文理解：尸身之肉成纱状破片，唇皱成苍白裹尸布脸上的一抹粉渍。对" radiant corpse"的工笔描摹。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：以近乎唯美的笔触写尸腐，是 Ligotti "恐怖即美学"的典型——腐烂被写成一种质地。
 
 ---
-
-⑦ This feeling was simply that of an eternally prolonged itching sensation.
+> **原句 7:** This feeling was simply that of an eternally prolonged itching sensation.
 
 中文理解：这感觉不过是一种永无止境的痒。死者最终"体验"到的死亡本质。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：反转——人怕的是"不可想象的恐怖"，死却只是无休止的痒；把终极恐惧降格为生理烦腻，余味荒诞。
 
 ---
-
-⑧ "The true knowledge shall be yours."
+> **原句 8:** "The true knowledge shall be yours."
 
 中文理解："真知将归你所有。"另一个陌生声音许诺，取代原先想象的绅士。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：声音切换标记恐怖升级——从想象引导者到未知存在，死亡的"真知"即将揭晓却戛然而止（正文中断于许诺）。
 
 ---
-
-⑨ its bony fingers digging into the tattered material of a plump, stuffed armchair
+> **原句 9:** its bony fingers digging into the tattered material of a plump, stuffed armchair
 
 中文理解：它（尸体）的枯指抠进那张丰满填塞椅的破料里。现实层：死者被发现时的姿态。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：回收开篇②的椅子意象——他死时就抠在这张椅里，物我同腐闭环收束。
 
 ---
-
-⑩ a tiny scratch or two just behind the ears or at the base of the neck.
+> **原句 10:** a tiny scratch or two just behind the ears or at the base of the neck.
 
 中文理解：耳后或颈根处挠上两三下。发现者无意识搔痒，暗示"死之痒"会传染。
 

@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 54. New Faces in the City
-
-① One must speak of the impostor city.
+> **原句 1:** One must speak of the impostor city.
 
 中文理解：必须言说这座冒名之城。开篇定调——此城是"冒牌货"，真实面目可疑。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 式"伪现实"母题——城市是现实的仿冒品，为后文"假面崩塌"铺设。
 
 ---
-
-② Destination is always elsewhere.
+> **原句 2:** Destination is always elsewhere.
 
 中文理解：目的地永远在别处。抵达此城的旅人，终点总错位。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：呼应"impostor city"——你以为到了大都会，其实只是伪制品，目的地永远滑脱。
 
 ---
-
-③ Yet everything also seems above sensible question.
+> **原句 3:** Yet everything also seems above sensible question.
 
 中文理解：然而一切又似乎超乎理性质疑。城市表面合理，诱人放下怀疑。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：制造"信任→怀疑"的落差，是恐怖张力的来源。
 
 ---
-
-④ Dark houses bulge; neither stone nor wood, their surface might be of decaying flesh, breaking away at the slightest touch.
+> **原句 4:** Dark houses bulge; neither stone nor wood, their surface might be of decaying flesh, breaking away at the slightest touch.
 
 中文理解：黑暗的屋子鼓胀着；非石非木，其表面或许是腐肉，稍触即脱。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：伪城的真容——房屋是皮囊，呼应"impostor"的肉身隐喻。
 
 ---
-
-⑤ a stuffed and dangling arm with a hand whose fingers are too many or too few
+> **原句 5:** a stuffed and dangling arm with a hand whose fingers are too many or too few
 
 中文理解：一条塞满填充物、悬荡着的胳膊，手上的手指或太多或太少。诡异细节。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：以微小畸变累积不安，是 Ligotti 的"细节恐怖"手法。
 
 ---
-
-⑥ a sham of menace that has no life and deceives no one
+> **原句 6:** a sham of menace that has no life and deceives no one
 
 中文理解：一场无生命、骗不了任何人的虚假威胁。叙述者点破伪城的虚弱。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：欲扬先抑——先说假威胁可笑，再引真威胁（现实本身的溃散）更骇人。
 
 ---
-
-⑦ Everything seems to be on the verge of disclosing its unreality and drifting off into the shadows.
+> **原句 7:** Everything seems to be on the verge of disclosing its unreality and drifting off into the shadows.
 
 中文理解：一切似乎濒临暴露其非真实，并漂入阴影之中。旅人疑窦爆发。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：全篇枢纽——从"伪城可疑"跃升到"整个现实将散"，恐怖升维。
 
 ---
-
-⑧ the shadows themselves collapse and slide down rooftops, trickle down walls and into the streets like black rain
+> **原句 8:** the shadows themselves collapse and slide down rooftops, trickle down walls and into the streets like black rain
 
 中文理解：阴影自身崩塌、从屋顶滑落，沿墙淌入街道，如黑色之雨。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：把⑦的"drifting into shadows"反转为"阴影涌出"，现实与阴影的边界彻底溶解。
 
 ---
-
-⑨ one's own eyes stare absently in the mirror; one's mouth drops open in horror.
+> **原句 9:** one's own eyes stare absently in the mirror; one's mouth drops open in horror.
 
 中文理解：你自己的眼睛茫然瞪着镜中；你的嘴因恐惧而张开。真正的威胁落在自身。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：闭环——伪城之外，连"我"也成了不可信的幻影，存在论恐怖收束。
 
 ---
-
-⑩ This figure is only that of a dead-eyed dummy; yet, when someone tries to step over the thing, its mouth suddenly drops open.
+> **原句 10:** This figure is only that of a dead-eyed dummy; yet, when someone tries to step over the thing, its mouth suddenly drops open.
 
 中文理解：这身影只是个死眼木偶；然而当人试图跨过时，它的嘴突然张开。伪威胁的最后一搏。
 

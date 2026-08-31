@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 48. In The Shadow Of Another World
-
-① the infinite sky itself, across which the sun spreads its expansive light, is merely a blurry little window with a crack in it—a jagged fracture beyond which one may see, at twilight, what occupies and envelops a vacant street lined with gently stirring trees and old silent houses.
+> **原句 1:** the infinite sky itself, across which the sun spreads its expansive light, is merely a blurry little window with a crack in it—a jagged fracture beyond which one may see, at twilight, what occupies and envelops a vacant street lined with gently stirring trees and old silent houses.
 
 中文理解：无限的天空不过是墙上一个有裂缝的小窗——透过裂缝，黄昏时能看见包裹着那条空街的事物。叙述者否定日常现实的本体地位：天空是窗，窗外才是真实。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：开篇即立论——我们以为稳固的世界只是另一世界投下的影子；用"窗+裂缝"的意象把抽象哲学具象化，为后文魔术玻璃窗的设定埋下伏笔。
 
 ---
-
-② And this was not the full extent of its resemblance to a true chimera, for the house seemed to have acquired its present form through a fabulous conglomeration of properties: conceivably, it had not been forever limited to a single nature and function.
+> **原句 2:** And this was not the full extent of its resemblance to a true chimera, for the house seemed to have acquired its present form through a fabulous conglomeration of properties: conceivably, it had not been forever limited to a single nature and function.
 
 中文理解：这还不足以说明它与奇美拉（吐火兽）的相似——这房子似乎由各种属性胡乱拼凑而成，也许它本就不只有一种本质与功能。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：强化"房屋非房屋"的恐怖核心——它的物质性是伪装的，为结尾"房子被另一世界占据"回收。
 
 ---
-
-③ a pristine laboratory where a fearful genius had practiced his science of nightmares.
+> **原句 3:** a pristine laboratory where a fearful genius had practiced his science of nightmares.
 
 中文理解：一座 pristine 的实验室，一位可怖的天才曾在其中实践他的噩梦科学。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：点出前屋主的身份——他不是巫师而是"科学家"，用实验方法研究恐怖；也解释为何房子被清理得异常干净（隔离幻象）。
 
 ---
-
-④ "We sleep," he read, "among the shadows of another world. These are the unshapely substance inflicted upon us and the prime material to which we give the shapes of our understanding."
+> **原句 4:** "We sleep," he read, "among the shadows of another world. These are the unshapely substance inflicted upon us and the prime material to which we give the shapes of our understanding."
 
 中文理解："我们睡在另一世界的阴影里，"他念道，"这些阴影是强加给我们的无形质料，也是我们赋予其理解之形的原始材料。"
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：这是全篇的理论支点，把前述的视觉奇观归纳为一套"噩梦本体论"，使怪谈升格为形而上学。
 
 ---
-
-⑤ All the world was a pageant of nightmares....
+> **原句 5:** All the world was a pageant of nightmares....
 
 中文理解：全世界都是一场噩梦的盛大游行。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：从局部窗景跃升到全球论断，把个人惊悚扩张为普遍本体状况。
 
 ---
-
-⑥ This achievement, however futile or perverse, now elicited from me tremendous admiration as a monument to Terror and the stricken ingenuity it may inspire.
+> **原句 6:** This achievement, however futile or perverse, now elicited from me tremendous admiration as a monument to Terror and the stricken ingenuity it may inspire.
 
 中文理解：这一成就（清空幻影）无论多徒劳或反常，此刻却引我生出巨大敬意——它是恐怖及其所激发的受创巧思的纪念碑。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：叙述者立场微妙——他既恐惧异界，又敬佩前屋主用理性隔离恐怖的壮举，体现 Ligotti 对"恐怖之美"的迷恋。
 
 ---
-
-⑦ As I had thought, these windows were for looking in as well as out. And from where I stood, the sights were now all inside the house, which had become an edifice possessed by the festivities of another world.
+> **原句 7:** As I had thought, these windows were for looking in as well as out. And from where I stood, the sights were now all inside the house, which had become an edifice possessed by the festivities of another world.
 
 中文理解：如我所想，这些窗既能向外看也能向内看。从我站处看，景象全在房子内部了——它已成了一座被另一世界节庆占据的建筑物。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：首尾闭环：开头说房子"凝视外部"，结尾揭示它"被内部占据"，逻辑自洽地收束。
 
 ---
-
-⑧ They cannot see, nor even wish to see, that world of shadows with which they consort every moment of their brief and innocent lives.
+> **原句 8:** They cannot see, nor even wish to see, that world of shadows with which they consort every moment of their brief and innocent lives.
 
 中文理解：他们看不见，甚至不愿看见，那个阴影世界——他们每时每刻都在与之厮混，度过短暂而无辜的一生。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：落点从个人历险转向人类普遍处境——我们都活在与异影的亲密共谋中而不自知，余韵悠长。
 
 ---
-
-⑨ But now I could no longer ignore those phosphorescent panes which focused or reflected the incredible brilliance of the sky that night.
+> **原句 9:** But now I could no longer ignore those phosphorescent panes which focused or reflected the incredible brilliance of the sky that night.
 
 中文理解：但我再也无法忽视那些磷光窗格——它们汇聚或反射着那夜天空难以置信的光辉。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：叙事转折点标记——"ignore"的失败意味着叙述者被拉入异界经验，无法再做怀疑论者。
 
 ---
-
-⑩ All that existed for the moment was the irreducible certainty of nightmare.
+> **原句 10:** All that existed for the moment was the irreducible certainty of nightmare.
 
 中文理解：那一刻唯一存在的，是噩梦那不可化约的确定性。
 

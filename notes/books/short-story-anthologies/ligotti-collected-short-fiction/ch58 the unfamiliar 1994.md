@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 58. The Unfamiliar
-
-① He had lost his guide—or else had been abandoned by this seething, wiry native of the city—and now he was wandering through strange streets alone.
+> **原句 1:** He had lost his guide—or else had been abandoned by this seething, wiry native of the city—and now he was wandering through strange streets alone.
 
 中文理解：他丢了向导——或被这位城市里躁动、精瘦的土著遗弃——如今独自在陌生街巷游荡。开篇即迷失。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：经典 Ligotti 式"异城迷途"开场——旅人脱离引导，自由即刻转为危险。
 
 ---
-
-② the narrow entranceway of a certain street or the shadowed spires of a certain structure appeared as mildly menacing to the prophetic edges of his vision, pleasantly threatening.
+> **原句 2:** the narrow entranceway of a certain street or the shadowed spires of a certain structure appeared as mildly menacing to the prophetic edges of his vision, pleasantly threatening.
 
 中文理解：某街的窄门廊、某建筑的阴影尖塔，在他视域的"预言性边缘"显得微具威胁，令人愉悦地吓人。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：点出旅人对异域的 ambivalent 迷恋——恐惧中带着兴奋，为后文"黑热情欲"铺垫。
 
 ---
-
-③ as if the city had annexed the shadows and expanded under the cover of darkness
+> **原句 3:** as if the city had annexed the shadows and expanded under the cover of darkness
 
 中文理解：仿佛城市并吞了阴影、在黑暗掩护下扩张。入夜后城市如活物般生长。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：城市拟人化——它不是背景而是捕食者，随夜色吞没旅人，恐怖悄然升级。
 
 ---
-
-④ this man, who must have been the proprietor, was barely noticeable, for the color and texture of his attire somehow caused him to blend, chameleon-like, into the surrounding decor
+> **原句 4:** this man, who must have been the proprietor, was barely noticeable, for the color and texture of his attire somehow caused him to blend, chameleon-like, into the surrounding decor
 
 中文理解：这人想必是店主，几乎不被注意——其衣着的色泽质地让他如变色龙般融入周遭装潢。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：把"陌生"具象为"不可被看见"，铺垫后文店主将旅人变为"商品"的诡计。
 
 ---
-
-⑤ True curiosities in a thousand twisting shapes
+> **原句 5:** True curiosities in a thousand twisting shapes
 
 中文理解：真好奇物，以千万种扭曲形态。店内货品令旅人目眩。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：货架即异界的缩影——万物以陌生姿态存在，强化"unfamiliar"主题。
 
 ---
-
-⑥ They might have been trinkets for strange gods, toys for monsters.
+> **原句 6:** They might have been trinkets for strange gods, toys for monsters.
 
 中文理解：它们或许是给陌生神祇的小玩意，给怪物玩的玩具。旅人对器物的惊骇猜测。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：以尺度错位（神↔玩具）制造不安——这些物超出人类认知框架，暗示更大的恶意秩序。
 
 ---
-
-⑦ He now felt himself as the victim of some vast conspiracy that involved the remotest quarters of the cosmos, countless plots all converging upon him.
+> **原句 7:** He now felt himself as the victim of some vast conspiracy that involved the remotest quarters of the cosmos, countless plots all converging upon him.
 
 中文理解：他此刻自觉是某庞大阴谋的受害者——那阴谋牵涉宇宙最远的角落，无数图谋齐向他汇聚。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 标志性的"个体被宇宙暗局锁定"——自由感在此刻反转成被猎感。
 
 ---
-
-⑧ Underground, perhaps, beneath the shop with the peculiar merchandise.
+> **原句 8:** Underground, perhaps, beneath the shop with the peculiar merchandise.
 
 中文理解：或许在地下，在那家卖古怪货品的店铺之下。叙述跳接，暗示旅人后来的囚所。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：断点即恐怖——自由浏览的旅人已被移入地下，时间跳跃藏起暴行，留白更怖。
 
 ---
-
-⑨ (The victim of a horrible magic, the guide would whisper.)
+> **原句 9:** (The victim of a horrible magic, the guide would whisper.)
 
 中文理解：（"可怕魔法之受害者，"向导会低语。）括号内的旁白，点破旅人命运。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：把旅人降格为"展品"——括号即展签，呼应结尾"访客付费观看怪物"，闭环残忍。
 
 ---
-
-⑩ meeting their deaths with a fresh sense of that exotic wonder which they had travelled so far to experience
+> **原句 10:** meeting their deaths with a fresh sense of that exotic wonder which they had travelled so far to experience
 
 中文理解：访客带着"曾远道而来所求的那种异域惊奇"的新鲜感死去，比他幸运——对他而言距离与异魅早已在囚禁中消逝。
 

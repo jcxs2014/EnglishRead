@@ -9,8 +9,7 @@ modified: "2026-08-30"
 ## 精读
 
 ### 第1处：理想之死——「growing overnight like some gaudy fungus in a forgotten cellar」
-
-① I conceived my ideal leavetaking from this earth—a drama prepared by strange portents, swiftly developed by dreams and visions nurtured in an atmosphere of sublime dread, growing overnight like some gaudy fungus in a forgotten cellar, and always with the awful hand of the mortician god working the machinery behind the scenes.
+> **原句 1:** I conceived my ideal leavetaking from this earth—a drama prepared by strange portents, swiftly developed by dreams and visions nurtured in an atmosphere of sublime dread, growing overnight like some gaudy fungus in a forgotten cellar, and always with the awful hand of the mortician god working the machinery behind the scenes.
 
 中文理解：我构想了我离此尘世的理想告别——一场由怪异预兆铺陈、由在崇高恐惧氛围中滋长的梦与幻象迅速展开之戏剧，如遗忘地窖中某株艳俗真菌一夜长成，且总有那殡葬之神的怖手在幕后勤摇机关。
 
@@ -25,8 +24,7 @@ modified: "2026-08-30"
 ---
 
 ### 第2处：不可见之境——「a swirling, fluttering motion that was belied by the relative order of the seen」
-
-① For within these imagined or divined spheres there existed a certain... confusion, a swirling, fluttering motion that was belied by the relative order of the seen. Only on rare occasions could he enter these unseen spaces, and always unexpectedly.
+> **原句 1:** For within these imagined or divined spheres there existed a certain... confusion, a swirling, fluttering motion that was belied by the relative order of the seen. Only on rare occasions could he enter these unseen spaces, and always unexpectedly.
 
 中文理解：因在这些想象或直觉到的界域里，存着某种……混乱，一种漩涡般、扑动般的运动，与可见之物相对的秩序恰成反衬。他仅于罕见时刻能进入这些不可见之空间，且总在出其不意时。
 
@@ -41,8 +39,7 @@ modified: "2026-08-30"
 ---
 
 ### 第3处：Cynothoglys 现身——「the god without shape, the god of changes and confusion」
-
-① "It could be distantly related, perhaps, to those numina of Roman cesspools and sewage systems. But it is not a mere Cloacina, not a Mephitis or Robigo. In name, the god is known as Cynothoglys: the god without shape, the god of changes and confusion, the god of decompositions, the mortician god of both gods and men, the metamortician of all things. There is no fee demanded."
+> **原句 1:** "It could be distantly related, perhaps, to those numina of Roman cesspools and sewage systems. But it is not a mere Cloacina, not a Mephitis or Robigo. In name, the god is known as Cynothoglys: the god without shape, the god of changes and confusion, the god of decompositions, the mortician god of both gods and men, the metamortician of all things. There is no fee demanded."
 
 中文理解：「它或许与罗马阴沟污水之神有远亲。但它非仅 Cloacina，非 Mephitis 或 Robigo。其名，神称为 Cynothoglys：无形之神、变化与混乱之神、衰败之神、诸神与人类的殡葬之神、万有之超殡者。不取分文。」
 
@@ -57,8 +54,7 @@ modified: "2026-08-30"
 ---
 
 ### 第4处：祭坛前之祈——「And as others only sink into their deaths—into mine I would soar」
-
-① I conceived the primal salvation of tearing flesh, of seizure by the god and the ecstatic rending of the frail envelope of skin and sinew. And as others only sink into their deaths—into mine I would soar.
+> **原句 1:** I conceived the primal salvation of tearing flesh, of seizure by the god and the ecstatic rending of the frail envelope of skin and sinew. And as others only sink into their deaths—into mine I would soar.
 
 中文理解：我构想了那原初的救赎：撕肉，被神攫取，狂喜地裂开那脆弱的皮与腱之囊。而他人只沉入他们的死——我的死，我将翱翔而入。
 
@@ -73,8 +69,7 @@ modified: "2026-08-30"
 ---
 
 ### 第5处：地窖尸阵——「Like a trail of dominos winding round and round」
-
-① "None of the animals actually seem to have been eaten," he quietly observed, and that curious piping in his throat sounded almost louder than his words. "No," Arthur Emerson agreed with some bewilderment. He then reached up to grasp a thick black extension cord… "Like a trail of dominos winding round and round. But no true sense to it."
+> **原句 1:** "None of the animals actually seem to have been eaten," he quietly observed, and that curious piping in his throat sounded almost louder than his words. "No," Arthur Emerson agreed with some bewilderment. He then reached up to grasp a thick black extension cord… "Like a trail of dominos winding round and round. But no true sense to it."
 
 中文理解：「这些动物实则似皆未被食，」他轻声道，喉间那古怪的哨音几乎盖过言语。「不，」Emerson 略带困惑地认同。他遂伸手抓住一根粗黑延长线……「如一环环骨牌绕圈蜿蜒。但无真意于其中。」
 
@@ -89,8 +84,7 @@ modified: "2026-08-30"
 ---
 
 ### 第6处：墙上的梦痕——「the shapeless, groping horror that appeared to have crawled from his own dream」
-
-① "What? No," decided Arthur Emerson as he gazed at the shapeless, groping horror that appeared to have crawled from his own dream and stained itself into the stone before him. "Leave everything exactly as it is," he ordered the old whistling servant.
+> **原句 1:** "What? No," decided Arthur Emerson as he gazed at the shapeless, groping horror that appeared to have crawled from his own dream and stained itself into the stone before him. "Leave everything exactly as it is," he ordered the old whistling servant.
 
 中文理解：「什么？不，」Emerson 决然道，凝视那无形状、摸索般的恐怖——它仿佛从他自己的梦中爬出，把自己染进面前的石壁。「原样留着一切，」他命令那吹哨的老仆。
 
@@ -105,8 +99,7 @@ modified: "2026-08-30"
 ---
 
 ### 第7处：神之降临——「the god, like some obedient slave, descended upon its victim」
-
-① Risking an accusation of bad manners, Arthur Emerson failed to rise from his chair to greet the guest he had invited so long ago. "You are too late," he said in a dry voice. "But since you have taken the trouble..." And the god, like some obedient slave, descended upon its victim.
+> **原句 1:** Risking an accusation of bad manners, Arthur Emerson failed to rise from his chair to greet the guest he had invited so long ago. "You are too late," he said in a dry voice. "But since you have taken the trouble..." And the god, like some obedient slave, descended upon its victim.
 
 中文理解：冒着失礼之嫌，Emerson 未离座起立去迎那邀请已久的客。「你来迟了，」他干声道。「既你已费心……」而那神，如某驯顺之奴，降临其牺牲之上。
 
@@ -121,8 +114,7 @@ modified: "2026-08-30"
 ---
 
 ### 第8处：惨叫与天鹅——「his voice indeed became confused with the screaming of the swans」
-
-① It was only at the very end that Arthur Emerson's attitude of incuriosity abandoned him. As he had guessed, perhaps even wished, his voice indeed became confused with the screaming of the swans, soaring high into the muffling fog.
+> **原句 1:** It was only at the very end that Arthur Emerson's attitude of incuriosity abandoned him. As he had guessed, perhaps even wished, his voice indeed became confused with the screaming of the swans, soaring high into the muffling fog.
 
 中文理解：直至最末，Emerson 那无好奇之态才弃他而去。如他所料、甚至所愿，他的声音确与天鹅的尖鸣混为一体，高翱入那窒闷的雾中。
 

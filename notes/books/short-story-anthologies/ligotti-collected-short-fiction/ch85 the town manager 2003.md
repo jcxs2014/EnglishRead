@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 85. The Town Manager
-
-① the town manager was not in his office and seemed nowhere to be found
+> **原句 1:** the town manager was not in his office and seemed nowhere to be found
 
 中文理解："镇经理不在办公室，似乎哪儿也找不着。"全镇骚动的起因。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：用"失踪"开启循环叙事，平淡中藏制度恐怖。
 
 为什么这样写：Ligotti 以官僚空缺隐喻存在的无主状态，定调全书终篇。
-
-② He has left us.
+> **原句 2:** He has left us.
 
 中文理解：""他离开了我们。"电灯亮起后人群中认命的叹息。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：极简句，集体默许权力真空。
 
 为什么这样写：把"被弃"说成"离开"，弱化的被动显顺从。
-
-③ a fair search of the town and its environs
+> **原句 3:** a fair search of the town and its environs
 
 中文理解：""对镇子及其周边的一次公正搜查"。"镇宪章规定的程序。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：宪章辞令，形式主义仪式的依据。
 
 为什么这样写：揭示规矩只是世代因循的空壳。
-
-④ DUSTROY TROLY.
+> **原句 4:** DUSTROY TROLY.
 
 中文理解：""摧毁电车。"新镇经理以焦木写就的指令（原文拼错 TROLY）。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：用烧痕错字凸显"非人"管理者的原始粗暴。
 
 为什么这样写：拼法失真=权力脱离文明，恐怖在失序。
-
-⑤ Burned into his chest were the words: DUSTROY TROLY.
+> **原句 5:** Burned into his chest were the words: DUSTROY TROLY.
 
 中文理解：""烙在他胸口的字是：摧毁电车。"电车司机 Carnes 尸体的细节。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：把指令烙上人身，暴政具象化。
 
 为什么这样写：以肉体铭刻权力，回收 DUSTROY 指令的残忍。
-
-⑥ NXT YUR JBS WULL CHNG
+> **原句 6:** NXT YUR JBS WULL CHNG
 
 中文理解：""下一步你们的工作会变"新镇经理第二张字条（原文错拼）。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：错拼如蛮语，暗示管理者非属此世。
 
 为什么这样写：与 DUSTROY 同款失真，强化"他者统治"。
-
-⑦ FUNNY TOWN
+> **原句 7:** FUNNY TOWN
 
 中文理解：""趣怪镇"游客手册封面标语。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：把衰镇包装成游乐场，反讽极致。
 
 为什么这样写：镇民沦为"边角秀怪人"，呼应 ch84 sideshow 母题。
-
-⑧ WELCOME TO FUNNY TOWN
+> **原句 8:** WELCOME TO FUNNY TOWN
 
 中文理解：""欢迎来到趣怪镇"横幅标语。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：欢迎辞与荒芜现实形成刺眼反差。
 
 为什么这样写：点明狂欢化终局，旅宿业式虚无。
-
-⑨ It seemed the only course of action left to me was to make an end of it.
+> **原句 9:** It seemed the only course of action left to me was to make an end of it.
 
 中文理解：""似乎我仅剩的出路就是了结这一切。"流浪叙述者的绝望判词。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：用公文腔说自杀，冷峻荒诞。
 
 为什么这样写：与 ch79 "To make an end of it"、ch80 自杀主题跨篇呼应。
-
-⑩ Town management
+> **原句 10:** Town management
 
 中文理解：""镇务管理"搭讪者给"我"开出的新职业。
 

@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 43. The Glamour
-
-① It had long been my practice to wander late at night and often to attend movie theaters at this time.
+> **原句 1:** It had long been my practice to wander late at night and often to attend movie theaters at this time.
 
 中文理解：深夜游荡、常去电影院，向来是我的习惯。叙述者开篇立"夜行观影"者身份，为后文误入被诅咒影院做铺垫。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：以习惯陈述制造"日常感"，让超自然入侵显得只是惯例的延伸，恐怖由此潜入寻常。
 
 为什么这样写：把诡异体验框入"个人习惯"，读者随叙述者自然步入影院，不知这是陷阱——Ligotti 式"日常即 portal"。
-
-② This movie theater was merely a virtual image, a veil upon a complex collage of other places.
+> **原句 2:** This movie theater was merely a virtual image, a veil upon a complex collage of other places.
 
 中文理解：这影院不过是一重虚像，是覆在别处复杂拼贴之上的面纱。叙述者悟到影院是其他空间的投影。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：用"面纱/虚像"写空间套叠，影院是表象，其下是墓地/下水道/疯人院。
 
 为什么这样写：点明全篇空间结构——所见皆伪装，真实是更暗的"别处"，呼应 ch41 "暗海"的层叠不可见。
-
-③ The roundbacked seats were at the same time rows of headstones in a graveyard.
+> **原句 3:** The roundbacked seats were at the same time rows of headstones in a graveyard.
 
 中文理解：圆背座椅同时也是墓园里成排的墓碑。叙述者描述影院座位在感知中幻化为坟头。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：单物双视（座椅=墓碑）写感知置换，Ligotti 招牌"物之恐怖变形"。
 
 为什么这样写：把观影者的坐席写成坟，暗示观众即死者——后文众人被发丝织入、成"新主人"的猎物，座椅即棺。
-
-④ The fabric of the seat, the inner webbing of swirling fibers, had composed a pattern in the image of a face.
+> **原句 4:** The fabric of the seat, the inner webbing of swirling fibers, had composed a pattern in the image of a face.
 
 中文理解：座椅的织物、内部旋绕纤维的网，已织出一张脸的图案。叙述者发现空座椅的纤维自行组成老妇之脸。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以"织物自织脸"写无机物主动显形，恐怖来自物有了意图。
 
 为什么这样写：承接 ③ 座椅即坟，此处坟/椅的纤维活成脸——老妇（glamour 之主）借织物凝视观众，铺垫银幕上的占有仪式。
-
-⑤ All the stringy, writhing cobwebs of that theater, as I now discovered, were the reaching tendrils of a vast netting of hairs.
+> **原句 5:** All the stringy, writhing cobwebs of that theater, as I now discovered, were the reaching tendrils of a vast netting of hairs.
 
 中文理解：那影院里所有细绳般扭动的蛛网，我此时发现，竟是一张巨网的毛发触须。叙述者点破"蛛网"实为老妇头发蔓延所成。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：把"蛛网"重写为"头发网"，自然物→人体物，老妇的毛发即剧院的神经系统。
 
 为什么这样写：与 ch42 Rinaldi 的"天使盒"、ch44 Plarr 的"发"同源——Ligotti 以"女性头发"为占有/缠绕的母题符号，此处它吞噬整座影院。
-
-⑥ The old puppet-master who was setting the helpless creature with new strings and placing him under the control of a new owner.
+> **原句 6:** The old puppet-master who was setting the helpless creature with new strings and placing him under the control of a new owner.
 
 中文理解：那位老提线师，正给无助的造物换上新弦、置于新主人掌控之下。银幕上叙述者视角的"隐形外科医"即老妇，她在重组被占有者。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：以"木偶师"隐喻写占有仪式，被占者是被换线的偶，新主人即老妇。
 
 为什么这样写：回扣 ch03 "dream of a mannikin"、ch40 Dregler"mannikin"——Ligotti 惯用木偶喻被操控的人；此处"新主人"呼应剧院"under new ownership"的幌子。
-
-⑦ She has taken him. He cannot feel who he is any longer, only her presence within him.
+> **原句 7:** She has taken him. He cannot feel who he is any longer, only her presence within him.
 
 中文理解：她已占有了他。他再也感觉不到自己是谁，只有她在他体内的存在。邻座男子解说银幕上被占有者。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：以最简对白写"自我消解"，占有即身份抹除，是 Ligotti 对人的最终判决。
 
 为什么这样写：与 ch40 Medusa"由内吞噬"、ch42"梦使用你"同构——被占有的极致是"不再是我"，只余她在内。
-
-⑧ Two shafts of the purest purple light that shot through the darkness of the auditorium.
+> **原句 8:** Two shafts of the purest purple light that shot through the darkness of the auditorium.
 
 中文理解：两道最纯的紫光，射穿观众席的黑暗。叙述者窥见投影窗后老妇双眼射出的紫光。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以老妇之眼为投影源，把"观看"倒转为"被看"——观众在银幕上看见她，她也在窗后凝视观众。
 
 为什么这样写：闭环影院的空间套叠——银幕里的她与窗后的她同一，观众同时是观看者与被观者，glamour 即双向凝视的网。
-
-⑨ Henceforth the theater would be closed to the public.
+> **原句 9:** Henceforth the theater would be closed to the public.
 
 中文理解：此后影院将向公众关闭。叙述者离场发现招牌撤下，此为最后一场。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：以公告式短句收束，把超自然体验定为"一次性末场"，余味即不可复得。
 
 为什么这样写：与开篇"常去影院"习惯对照——此影院永久关闭，暗示他再也回不到无害的夜行，已被 glamour 标记。
-
-⑩ But how sure I was that in each one of those dark windows I passed was the even darker silhouette of an old woman with glowing eyes and a great head of monstrous hair.
+> **原句 10:** But how sure I was that in each one of those dark windows I passed was the even darker silhouette of an old woman with glowing eyes and a great head of monstrous hair.
 
 中文理解：但我何其确知——我途经的每一扇暗窗后，都立着那位眼发亮、披巨发的更暗老妇之影。结尾：整条街的店铺皆被老妇占据。
 

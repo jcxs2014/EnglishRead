@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 65. The Nameless Horror
-
-① To him it seemed abandoned, yet who knows?
+> **原句 1:** To him it seemed abandoned, yet who knows?
 
 中文理解：对他而言它似已遭弃，然而谁知道呢？叙述者步入旧画室，对"空置"存疑。
 
@@ -18,8 +17,7 @@ modified: "2026-08-30"
 为什么这样写：开篇即拒绝确定——恐怖生于"看似空却未必"，为后文"无名之物"的现身铺垫。
 
 ---
-
-② The panes of the skylight were caked with it.
+> **原句 2:** The panes of the skylight were caked with it.
 
 中文理解：天窗的玻璃被尘垢结结实实地糊住。写画室的尘封状态。
 
@@ -32,8 +30,7 @@ modified: "2026-08-30"
 为什么这样写：以物象的壅塞暗示"被占据"——尘不是缺席，而是某物存在的遗迹。
 
 ---
-
-③ So intricate, everything in them was made of tiny, tiny hairs or little veins, insect veins.
+> **原句 3:** So intricate, everything in them was made of tiny, tiny hairs or little veins, insect veins.
 
 中文理解：如此繁密，画中万物皆由细极的毛、或细小的脉——虫之脉——构成。
 
@@ -46,8 +43,7 @@ modified: "2026-08-30"
 为什么这样写：画不是画，而是活体结构的拓印——无名恐怖寄身于"细节的繁密"中。
 
 ---
-
-④ something about the shape of the shapes, their twistings and the way they flared around, was so horrible
+> **原句 4:** something about the shape of the shapes, their twistings and the way they flared around, was so horrible
 
 中文理解：关于那些"形状的形状"、它们的扭曲与四散燃开之态，有某种东西如此可怖。
 
@@ -60,8 +56,7 @@ modified: "2026-08-30"
 为什么这样写：Ligotti 标志——恐怖不在可名之物，而在"无法命名的形式"的结构里，呼应标题"Nameless"。
 
 ---
-
-⑤ It looked like the tail of an animal, but a very intricate tail.
+> **原句 5:** It looked like the tail of an animal, but a very intricate tail.
 
 中文理解：它看着像动物的尾，却是一条极繁密的尾。雨中沟里漂来的异物。
 
@@ -74,8 +69,7 @@ modified: "2026-08-30"
 为什么这样写：把"画中形态"溢出到现实——雨沟里的尾是纸上恐怖的实体化，虚实打通。
 
 ---
-
-⑥ those involved patterns in which he thought he saw a face smiling so peacefully
+> **原句 6:** those involved patterns in which he thought he saw a face smiling so peacefully
 
 中文理解：那些纠缠的图样中，他自以为看见一张笑得极安详的脸。尾的纹理里浮现脸。
 
@@ -88,8 +82,7 @@ modified: "2026-08-30"
 为什么这样写：标题"Nameless Horror"在此具象——那脸无名、那笑平安，却正因其无名而怖。
 
 ---
-
-⑦ some unsavory enigma about the place
+> **原句 7:** some unsavory enigma about the place
 
 中文理解：关于这地方某种令人不快的谜。避雨小棚里的气味与轮廓。
 
@@ -102,8 +95,7 @@ modified: "2026-08-30"
 为什么这样写：留白技法——不揭谜底，只给"血？"的暗示，让读者自填恐怖。
 
 ---
-
-⑧ What was it that happened in here, and could that be a little blood over there?
+> **原句 8:** What was it that happened in here, and could that be a little blood over there?
 
 中文理解：这里发生过什么？那边那点会不会是血？叙述者自问，逼近谜底却不敢确认。
 
@@ -116,8 +108,7 @@ modified: "2026-08-30"
 为什么这样写：极限处的收束——不写惨状只写"一点血？"，想象的空白比直陈更骇。
 
 ---
-
-⑨ its intricately tangled hair came tumbling down into the moonlight
+> **原句 9:** its intricately tangled hair came tumbling down into the moonlight
 
 中文理解：它那纠缠繁复的头发倾泻而下，落入月光。棚中佝偻人影抬头。
 
@@ -130,8 +121,7 @@ modified: "2026-08-30"
 为什么这样写：把"繁密"从画与尾转移到人——无名之物终于以人形（半形）现身，恐怖落地。
 
 ---
-
-⑩ "Let me tell you what my name is."
+> **原句 10:** "Let me tell you what my name is."
 
 中文理解："让我告诉你我的名字是什么。"那对竖瞳开口，要向死人耳语其名。
 

@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 44. Miss Plarr
-
-① Her black hair glistened in the light from the vestibule.
+> **原句 1:** Her black hair glistened in the light from the vestibule.
 
 中文理解：她的黑发在门厅灯光下闪亮。叙述者（孩童）初见女管家 Plarr 的第一印象，发即人物标记。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：以"发之光"开篇，把头发写成有生命的光体，伏笔后文发之蔓延。
 
 为什么这样写：Ligotti 以"女性巨发"为占有/缠绕母题（同 ch43 glamour 老妇），此处 Plarr 的发即是她带来异界的触角。
-
-② That great ebony turban of hair, folded so elaborately into itself again and again yet in some way rebelling against this discipline.
+> **原句 2:** That great ebony turban of hair, folded so elaborately into itself again and again yet in some way rebelling against this discipline.
 
 中文理解：那巨大的乌木色发髻，反复精巧地自我折叠，却又以某种方式反抗这般规训。叙述者细写 Plarr 之发的体积与反抗性。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：把发写成"既被束又欲爆"的矛盾体，暗示其下压着不可控的异界。
 
 为什么这样写：发的"反抗"预告 Plarr 终将失控——后文她发松散、缠成噩梦之网，纪律崩即异界涌。
-
-③ My drawings appeared to illustrate scenes from a tale of some strange and cruel kingdom.
+> **原句 3:** My drawings appeared to illustrate scenes from a tale of some strange and cruel kingdom.
 
 中文理解：我的画似乎在描绘某个奇异而残酷王国的事迹。孩童叙述者受 Plarr 激发，画出的不是她而是"异界王国"。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：以孩童画作作"自动书写"，画比人更早触及真相，是 Ligotti 的"艺术泄密"手法。
 
 为什么这样写：画中王国=Plarr 带入的异界（后文雾中死城即其实体），说明感染先于认知，艺术是无意识的探针。
-
-④ "In a room such as this," Miss Plarr asserted, "one may learn certain things of the greatest importance."
+> **原句 4:** "In a room such as this," Miss Plarr asserted, "one may learn certain things of the greatest importance."
 
 中文理解：在这样一个房间里，人可学到某些极重要之事。Plarr 在阁楼"教室"开课前的宣言。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：以格言式短句赋予阁楼教室神性，平淡房间即启蒙场。
 
 为什么这样写：回扣 ch41 陌生人"暗境"、ch42 Rinaldi 后室——Ligotti 的"密室启蒙"原型，重要真相总在小黑屋里交付。
-
-⑤ Lands whose chief feature was a kind of brutality and an air of exile.
+> **原句 5:** Lands whose chief feature was a kind of brutality and an air of exile.
 
 中文理解：那些以某种暴虐与流放之气为特征的土地。Plarr 讲课带出的异界地理：蛮荒、被弃之地。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：以地理写心理地形——"流放"即人与正常世界的割裂，异界即被逐者的归宿。
 
 为什么这样写：Plarr 所授即她来自的"被弃之境"，呼应她作为 housekeeper 却"无处安顿"——她本人即流放者，讲课是招魂。
-
-⑥ Do you know the sound of something that stings the air?
+> **原句 6:** Do you know the sound of something that stings the air?
 
 中文理解：你可知道某物刺穿空气的声音？Plarr 以戒尺喻威胁，实则指异界传来的鞭翼之声。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：把"惩罚"与"异界声"双关，教师的威胁即宇宙的威胁，声成为跨界通道。
 
 为什么这样写：与 ch41 花园"蠕动物发声"、ch42"梦之蛆"同源——声音是暗界侵入日常的缝隙，Plarr 用戒尺掩盖真义。
-
-⑦ A monstrous world defined itself before our eyes, forcing its way through the surface of the fog.
+> **原句 7:** A monstrous world defined itself before our eyes, forcing its way through the surface of the fog.
 
 中文理解：一个 monstrous 世界在眼前显形，强行破雾而出。孩童随 Plarr 入雾，死城自雾中涌出。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：以"破雾而出"写异界具象化，雾即现实与暗界的薄膜，被强行撕裂。
 
 为什么这样写：呼应 ③ 画作王国成真——Plarr 把孩童画中的死城带入现实，证明她一直是要把他领去"那儿"的向导。
-
-⑧ All residents were entombed within its walls or they were nowhere.
+> **原句 8:** All residents were entombed within its walls or they were nowhere.
 
 中文理解：所有居民皆被葬入墙内，或根本不存在。叙述者写雾中死城：无活人，唯墙葬。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：以"墙葬/虚无"二选一写城中居民的命运，城即巨墓。
 
 为什么这样写：与 ch43 座椅即墓碑同构——Ligotti 的"建筑即殡葬"母题；死城是 Plarr 异界的终极形态，居民已被结构吞没。
-
-⑨ That infinite country which hovers beyond fogs and mists and gray heaping skies.
+> **原句 9:** That infinite country which hovers beyond fogs and mists and gray heaping skies.
 
 中文理解：那悬于雾霭与灰堆天空之外的无限之国。叙述者命名 Plarr 异界的终极位所——恒在云天之外的暴国。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：以"悬于天外"把异界推到宇宙尺度，雾/天空即现实与它的界膜。
 
 为什么这样写：收束 Plarr 所授地理的总名——她带来的不是一城而是"无限之国"，呼应 ch39"暗之境"、ch41"暗海"，皆为不可归所的彼岸。
-
-⑩ I revisited its drafty spaces on several occasions over the years.
+> **原句 10:** I revisited its drafty spaces on several occasions over the years.
 
 中文理解：多年来我数次重访那间透风的阁楼。结尾：叙述者成年后仍回阁楼，听灰雾外的声。
 

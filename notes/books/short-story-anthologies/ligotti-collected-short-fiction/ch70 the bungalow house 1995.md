@@ -4,8 +4,7 @@ modified: "2026-08-30"
 ---
 
 # 70. The Bungalow House
-
-① 'There was far more to deal with in the bungalow house than simply an infestation of vermin,'
+> **原句 1:** 'There was far more to deal with in the bungalow house than simply an infestation of vermin,'
 
 中文理解："平房里要应付的远不止虫患。"叙述者（画廊访客）转述录音带里的声音，暗示房子有更深的恐怖。
 
@@ -16,8 +15,7 @@ modified: "2026-08-30"
 表达方式：借录音带中人物之口，用轻描淡写的"虫患"反衬真正的阴森。
 
 为什么这样写：以"虫患"作障眼，先把读者引向日常恐惧，再揭开房子是意识囚笼的真相。
-
-② the bodies on the carpet, the lamps without any lightbulbs
+> **原句 2:** the bodies on the carpet, the lamps without any lightbulbs
 
 中文理解：地毯上的尸体，没有灯泡的灯。录音带描绘平房内部的死寂与荒诞细节。
 
@@ -28,8 +26,7 @@ modified: "2026-08-30"
 表达方式：意象并置——"尸体"与"无灯泡的灯"同列，平静中透出诡异。
 
 为什么这样写：用静物清单式白描营造梦境般的"廉价恐怖"（dreamlike crumminess），是 Ligotti 招牌笔法。
-
-③ The infinite terror and dreariness of an infested bungalow house, I whispered to myself.
+> **原句 3:** The infinite terror and dreariness of an infested bungalow house, I whispered to myself.
 
 中文理解："一栋生了虫的平房，那无限的恐惧与凄凉，我对自己低语。"叙述者听录音时沉溺其中，自语点题。
 
@@ -40,8 +37,7 @@ modified: "2026-08-30"
 表达方式：把"虫患平房"升格为"无限的恐惧"，夸张与日常混搭。
 
 为什么这样写：展现录音如何 hypnotize 听者——普通屋子被感知为无边恐怖，呼应"沉浸"主题。
-
-④ A bungalow universe, I then thought without speaking aloud.
+> **原句 4:** A bungalow universe, I then thought without speaking aloud.
 
 中文理解："一座平房宇宙，我当时在心里想，没说出口。"听者把平房体验扩写为整个宇宙。
 
@@ -52,8 +48,7 @@ modified: "2026-08-30"
 表达方式：内心独白，用"宇宙"放大"平房"，荒诞感拉满。
 
 为什么这样写：点明核心隐喻——这栋房子就是一整个世界（囚禁感知的宇宙），为后文"three stark principles"铺垫。
-
-⑤ This is Dalha, she always said.
+> **原句 5:** This is Dalha, she always said.
 
 中文理解："这是达尔哈，她总这么说。"画廊主 Dalha 介绍自己的作品/身份。
 
@@ -64,8 +59,7 @@ modified: "2026-08-30"
 表达方式：短促指认，重复"总是说"暗示一种执念式自我标榜。
 
 为什么这样写：Dalha 作为艺术家/操控者登场，她的"作品"即那盘诱人沉溺的录音带。
-
-⑥ 'That's gone now,' she replied in a frigid tone
+> **原句 6:** 'That's gone now,' she replied in a frigid tone
 
 中文理解："那现在没了，"她用冰冷语气答道。Dalha 对某事（某件作品/某人）的漠然确认。
 
@@ -76,8 +70,7 @@ modified: "2026-08-30"
 表达方式：冰冷语气与"没了"形成情感真空，暗示某种丧失或被抹除。
 
 为什么这样写：用寒意暗示 Dalha 世界的空洞——她贩卖的"体验"背后并无温度。
-
-⑦ 'that one was not for sale. It was a performance piece. There was a charge, but you didn't pay.'
+> **原句 7:** 'that one was not for sale. It was a performance piece. There was a charge, but you didn't pay.'
 
 中文理解："那件不卖。它是行为作品。收费的，但你没付。"Dalha 解释某展品的性质，暗指听者已"消费"未付费。
 
@@ -88,8 +81,7 @@ modified: "2026-08-30"
 表达方式：把录音体验定性为"行为艺术/收费项目"，把听者置于"窃取者"位置。
 
 为什么这样写：为结尾 Dalha 的死（玩具娃娃手臂塞喉）埋下"未付费的代价"暗示——艺术即陷阱。
-
-⑧ three stark principles: first, that there was nowhere for you to go; second, that there was nothing for you to do; and third, that there was no one for you to know.
+> **原句 8:** three stark principles: first, that there was nowhere for you to go; second, that there was nothing for you to do; and third, that there was no one for you to know.
 
 中文理解：三条冷酷原则：一、你无处可去；二、你无事可做；三、你无人可识。平房宇宙对居住者的绝对囚禁。
 
@@ -100,8 +92,7 @@ modified: "2026-08-30"
 表达方式：三重排比否定（无处/无事/无人），用"原则"包装绝望。
 
 为什么这样写： summarizing the bungalow universe's total confinement——把虚无主义写成屋子的物理法则，是 Ligotti 对"存在即囚禁"的提纯。
-
-⑨ 'Go into the bathroom like you did the other day and talk to yourself in the mirror.'
+> **原句 9:** 'Go into the bathroom like you did the other day and talk to yourself in the mirror.'
 
 中文理解："像那天那样进浴室，对着镜子自言自语。"录音带（或 Dalha）指示听者重复自我凝视的仪式。
 
@@ -112,8 +103,7 @@ modified: "2026-08-30"
 表达方式：直接指令，把"对镜自语"写成可复现的仪式动作。
 
 为什么这样写：镜子=自我镜像的母题在此显形——平房宇宙要求居住者不断与自己的倒影确认囚禁。
-
-⑩ the 'small plastic arm of a toy doll'
+> **原句 10:** the 'small plastic arm of a toy doll'
 
 中文理解："玩具娃娃的小塑料手臂"。警方在 Dalha 喉中发现、致其窒息的异物。
 
