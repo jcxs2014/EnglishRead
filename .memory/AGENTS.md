@@ -20,6 +20,14 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-08-31 新增
+- **Ligotti 第四次复查整改**（commit ba9b2e0）：
+  - check_vocab全书词频口径盲区——A类虚构（如ch33 nullify/ch52占位符/ch73 night）在别章出现即通过check_vocab FAIL=0，但verify_quotes仍100%
+  - check_chapter_quotes按flat文本匹配，省略号/标点差异导致误报（如ch22 PLACE引语"the diseased waters await his embrace"因无whose匹配失败）
+  - 旧格式章节（①编号→`> **原句 N:**`）转换时缺冒号后空格导致引语提取失败
+  - 49章旧格式转换后仍残留全部标为"原句1"（ch22/27/28/29）——圈数字映射bug
+  - 详见 `docs/新书启动模板.md` 第9条规则说明
+
 ### 2026-08-30 新增
 - **Barron's 批次 928 条 A 类虚构**：`check_vocab` 工具盲区——"（未出现在原文）"标注绕过工具检测，52篇全部存在。修复后 FAIL=0 ✅，WARN=72（B类）。详见 `docs/新书启动模板.md` 第5条。
 - **check_vocab 标注盲区**：工具只检词频/例句前20字符/分档，不识别中文单元格。独立审查时必须 grep "（未出现在原文）"全文，有输出即 A 类虚构。
