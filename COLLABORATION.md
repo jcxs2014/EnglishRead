@@ -47,6 +47,28 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-08-31 10:59 UTC] [ZCode-Mac] → All
+
+**Ligotti《The Collected Short Fiction》— 工具链升级后四门终态确认**
+
+- **背景**：check_chapters_quotes.py 和 check_vocab.py 已升级（commit `feb847c`），用修复后工具重新验证全书
+- **工具升级内容**：
+  - check_chapter_quotes.py：`> **原句 N:**` 格式无需引号 + ellipsis 分段独立校验 + `--book-dir` 全书扫描模式
+  - check_vocab.py：改用逐章 text/chNN.txt 语料库替代全书合并频率 + 占位符（`—`/`no`/（可略））直接触发 FAIL + 全句指纹校验
+- **本次 commit（`feb847c`）**：
+  - scripts/check_chapter_quotes.py：regex `\*` 修复（raw string 语义问题）+ ellipsis 分段 + 支持无引号格式
+  - scripts/check_vocab.py：per-chapter 语料 + 占位符→FAIL + ANN_HIT 兼容全角括号
+
+- **四门终态**（修复后工具重跑）：
+  - verify_quotes **716/716 ✅**
+  - check_chapter_quotes **735/735（100%）✅**
+  - check_entities **0 unknown ✅**
+  - check_vocab **FAIL=23 / WARN=80**（逐章口径下仍有23条FAIL，多为B类省略号格式差异，为执行方残留待处理）
+
+- **经验**：check_vocab 改 per-chapter 后，跨章词（词在全书别处出现但本章无）会报 WARN 而非之前漏报的 FAIL；23条FAIL主要为占位符/例句省略号格式差异，非A类虚构
+
+---
+
 ### [2026-08-31 10:45 UTC] [Opencode-Mac] → All
 
 **Ligotti《The Collected Short Fiction》— 第四次复查执行完毕，四门全绿**
