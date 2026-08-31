@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 通过 Riggers 角色对「严肃文学」与「类型小说」关系的评论——他用幽默来处理这个话题。
 
----
-
 ### 第2处：三种技巧——「现实主义、传统哥特式、实验性」
 
 > **原句 2:** The way I plan to proceed is quite simple. First, I'm going to sketch out the basic plot, characters, and various other features of a short horror story. Next, I will offer suggestions on how these raw elements may be treated in a few of the major styles which horror writers have exploited over the years. Each style is different and has its own little tricks.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「little tricks」是 Riggers 对写作技巧的轻描淡写——他把写作技术称为「小技巧」，这是对「文学技巧」概念的讽刺性降格。
 
 为什么这样写：Riggers 正在建立一个写作教学框架，但他同时在暗示这个框架的局限性——技巧只是「tricks」，不是真正的艺术。
-
----
 
 ### 第3处：Nathan 的本质追求——「magic、timeless、profound」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「本质主义」价值观的探索——Nathan 相信事物有「真正的本质」，这种信仰导致了他的毁灭。
 
----
-
 ### 第4处：裤子的诅咒——「它们感觉有点僵硬，甚至还有点滑稽」
 
 > **原句 4:** Strange how? Strange as in a little stiff, and even then some. A little funny. Nonsense, he's just nervous about his date with lovely Lorna McFickel.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：Nathan 试图用「紧张」来合理化他的腿的奇怪感觉——但这只是他自我欺骗的一部分。
 
 为什么这样写：这是全篇的关键时刻——Nathan 知道他裤子的感觉「奇怪」，但他选择忽视这个警告信号。
-
----
 
 ### 第5处：现实主义技巧的核心——「超自然必须伪装成 plain brown package」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Riggers 对现实主义恐怖小说写作的批评——它要求超自然被伪装成正常的东西，这是一种自我审查。
 
----
-
 ### 第6处：哥特式技巧的核心——「Gothic 世界的运转完全靠情感而不是逻辑」
 
 > **原句 6:** These ones needed no convincing, for nothing needed to seem real to their little minds as long as it felt real to their blood. A gullible bunch of creatures, these.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：这是 Riggers 对 Gothic 世界观的描述——Gothic 故事不需要「看起来真实」，只需要「感觉真实」。这对读者来说是一种恭维，暗示他们愿意放弃理性来接受感觉。
 
 为什么这样写：这是 Ligotti 对 Gothic 传统的辩护——它不是「不理性」，而是「超理性」，它依赖于情感真理而不是逻辑真理。
-
----
 
 ### 第7处：实验性技巧的核心——「故事不是实验，实验是实验」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「实验性」标签的质疑——它可能只是一个营销工具，而不是真正的创新。
 
----
-
 ### 第8处：最后的风格——「恐怖的真实风格是 personal confession」
 
 > **原句 8:** In other words, the proper style of horror is really that of the personal confession, and nothing but: manuscripts found in lonely places.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对恐怖小说本质的最终陈述——恐怖不是关于怪物，而是关于孤独和自我暴露。
 
----
-
 ### 第9处：Nathan 就是 Riggers——「在他的笔名面具下，我就是 Nathan Jeremy Stein」
 
 > **原句 9:** For behind my pseudonymic mask of Gerald Karloff Riggers, I am no one if not Nathan Jeremy Stein.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：这是 Riggers/Nathan 的最终身份声明——他创造的角色就是他自己的投射。
 
 为什么这样写：这是 Ligotti 对「作者=角色」关系的元小说陈述——Riggers 就是 Nathan，Nathan 就是 Ligotti。
-
----
 
 ### 第10处：最后的场景——「请死吧，Desiderata」
 

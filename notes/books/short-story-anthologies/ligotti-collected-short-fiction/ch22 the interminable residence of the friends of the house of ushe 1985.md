@@ -21,8 +21,6 @@ modified: "2026-08-30"
 
 为什么这样写：坡原作的「逃离者」在此一逃出便撞见更诡异的景：树无叶、根出土。Ligotti 暗示逃离厄舍不等于逃离厄舍的法则——外部世界也被同化。
 
----
-
 ### 第2处：Roderick 的病——「impressed his childhood friend as a very sick man」
 > **原句 1:** The man of average height and features was spending a few days at the House of Usher at the invitation of a friend and former classmate, Roderick, who along with his twin sister, Madeline, owned the house and a fair amount of surrounding property, including a graveyard. Roderick immediately impressed his childhood friend as a very sick man. Only the softest sounds, the dimmest light, and a generally immobile routine could be tolerated by his morbidly keen senses and nervous system.
 
@@ -35,8 +33,6 @@ modified: "2026-08-30"
 表达方式：用「only the softest… dimmest… immobile」的极端耐受阈值写 Roderick 的病，把哥特病弱写成感官的囚笼。
 
 为什么这样写：访客是「被邀的普通人」，与 Roderick 的病形成对照——后者是「家族遗传的弱者」，前者是「自投的常人」。这为终局「自愿同沉」的论断铺下身份对照。
-
----
 
 ### 第3处：Madeline 之「死」——「locked Madeline in the family crypt while she was still alive」
 > **原句 1:** His housemate tries to calm him down by reading from a storybook. But Roderick is inconsolable and now claims that the two of them locked Madeline in the family crypt while she was still alive. His friend is unnerved by this outburst. He had no idea things were so bad. This was madness!
@@ -51,8 +47,6 @@ modified: "2026-08-30"
 
 为什么这样写：坡原作的核心恐怖（活埋 Madeline）被压缩成一句「claims」——Ligotti 让访客「不信」，把悬念从「是否活埋」转为「旁观者的共谋无觉」。这正指向终局主题：你「没问」就是同谋。
 
----
-
 ### 第4处：崩塌与幸存——「both end up as a lifeless heap on the floor」
 > **原句 1:** Even worse, Roderick is proved to be telling the truth when his sister staggers into the room, falls upon her twin, and they both end up as a lifeless heap on the floor. The man of average height and features barely manages to get out of the house before that too goes down. He stares at the empty lot where the House of Usher used to be, and then he turns away to seek a haven far removed from the site of this terrible ordeal.
 
@@ -65,8 +59,6 @@ modified: "2026-08-30"
 表达方式：用「empty lot」把轰然倒塌收束成一片虚无；「转身寻避难地」是经典幸存者的本能动作。
 
 为什么这样写：到此仍是坡的骨架。但 Ligotti 让叙事在此「停一拍」——幸存者以为故事结束了，下一句才揭破：他根本无处可去。这是反哥特的关键转折。
-
----
 
 ### 第5处：无处可去——「the diseased waters await his embrace」
 > **原句 1:** But before he can take a single step he realizes that there is no longer anyplace he can go, no longer anyone who will have him. Oh, the books, the shadows, and the horrible entombment of that poor girl. How did he ever get into this one! While the Ushers were effortlessly delivered to their doom by the hereditary freaks and weaknesses of their family, he came to the house, and stayed, of his own free will, and by the same will, without asking a single question, he too must now be consumed by the tarn whose diseased waters await his embrace.

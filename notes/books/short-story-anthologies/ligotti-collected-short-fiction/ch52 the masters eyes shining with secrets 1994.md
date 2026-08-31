@@ -135,28 +135,20 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | enlightenment | 觉悟、启蒙 | students of enlightenment |
-| incarnation | （此处未用，可略） | — |
 | bestow | 赐予、授予 | upon these unhappy disciples he now bestowed his terrible illumination |
 | illumination | 启示、照亮 | his terrible illumination |
-| consecrated | （可略） | — |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | sprouted | 长出、萌发 | an extra head sprouted from the side of the Master's neck |
 | decency | 体面、廉耻 | their lofty sense of decency and order |
-| emaciated | （可略） | — |
 | diverse | 多样的 | the diverse shapes he took |
 | insistently | 执拗地 | somewhat insistently, his terrible illumination |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | master | 大师、师父 | the Master of the Temple is dead |

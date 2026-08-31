@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | aperture | 开口、孔 | This aperture, the only means of escape aside from the low door |
@@ -143,10 +143,7 @@ modified: "2026-08-30"
 | indiscernible | 不可辨的 | its lofty, almost indiscernible ceiling |
 | formidable | 可怖的、强大的 | a formidable array of devices |
 | unconsciousness | 无意识、昏迷 | collapsing into unconsciousness |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hoisted | 吊起 | His body was put in harness and hoisted |
@@ -154,9 +151,7 @@ modified: "2026-08-30"
 | grazed | 擦过 | the tips of his toes barely grazed the floor |
 | hooded | 戴兜帽的 | a hooded figure holding a lamp |
 | unbroken | 不间断的 | a single unbroken scream |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | coffin | 棺材 | I am measuring my own coffin |

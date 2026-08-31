@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是经典的「分身」主题——Wilson 与他的分身无法共存，因为他们的存在互相否定。
 
----
-
 ### 第2处：无法忍受的骚扰——「超出人类耐受极限」
 
 > **原句 2:** Hounded beyond all human endurance, William Wilson one night takes leave of the school, aborting his academic career but at least ridding himself of his obnoxious twin.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「obnoxious twin」是 Wilson 对他分身的称呼——他视分身为令人讨厌的，而不是他自我的另一面。
 
 为什么这样写：Wilson 通过逃跑来解决问题——但他的分身不会消失，只会在其他地方重新出现。
-
----
 
 ### 第3处：分身的干涉——「在剑桥、 Eton 、牛津、欧洲主要城市」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 在这里反转了 Poe 的原版《威廉·威尔逊》——在 Poe 版本中，分身代表良心；在 Ligotti 版本中，分身仍然是良心，但 Wilson 的反应更加暴力。
 
----
-
 ### 第4处：剑的对决——「临死的同名者说出可怕的宣言」
 
 > **原句 4:** Eventually there is a showdown with swords between the two William Wilsons, and William Wilson, the original, wins. Before he dies, the bloodied namesake utters the awesome pronouncement that William Wilson has killed only himself, not to mention all hopes of ever becoming a sane and decent individual.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「not to mention all hopes of ever becoming a sane and decent individual」暗示杀死分身就是杀死自己向善的可能性。
 
 为什么这样写：这是全篇的核心悲剧——Wilson 杀死了他的良心，他杀死了他可能成为的「理智正派人士」。
-
----
 
 ### 第5处：鬼魂从死里复活——「从门外进来，满身湿透，被闪电照亮」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：分身从死里复活这一事实证明了 Wilson 无法通过谋杀来消除他的良心——良心是永恒的。
 
----
-
 ### 第6处：「你只是个小人物」——「这个地方的运转完全靠摩擦原理」
 
 > **原句 6:** "You're just a little fish, my friend. You think you were out to get yourself, you think you were perverse. I don't want to play the alarmist, but I've been some places and seen some things and believe me there's nothing but perversity. The machinery of this place operates entirely on the principle of friction, my friend."
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「the principle of friction」是分身的哲学核心——这个世界的运转靠摩擦、冲突、矛盾，没有什么是和谐的。
 
 为什么这样写：这是 Ligotti 的宇宙悲观主义——世界本身就是反常的，个人的「反常」只是反映了宇宙的秩序。
-
----
 
 ### 第7处：「我已经失去了天堂的希望」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 的宇宙论——宇宙本身是「brainless」（无脑的），它的运转没有目的或理智。
 
----
-
 ### 第8处：再次杀死——「他把鬼魂砍成碎片喂狗」
 
 > **原句 8:** Taking up his sword, Wilson attacks the specter and savagely hacks him to bits. ("There's my peace with you!" he shouts.) Then he goes around feeding the hunks of flesh to the dogs in the neighborhood, all the while admiring the simple hunger of the devouring beasts.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：威尔逊把肉喂给狗——他欣赏狗的「简单饥饿」，这暗示他渴望一种没有道德约束的纯粹本能生活。
 
----
-
 ### 第9处：饥饿而死——「他停不下来的笑」
 
 > **原句 9:** William Wilson soon afterward starves to death, for when he returns home he finds that the thought of what he's done won't let him stop laughing long enough to take any nourishment, or even a drink of water.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：威尔逊的笑是「停不下来」的——这种笑可能是歇斯底里的，也可能是对自己行为的彻底绝望的否定。
 
 为什么这样写：这是全篇最黑暗的结局——威尔逊杀死了他的良心（分身），然后他的「笑」阻止他进食，最终饿死。这是一种精神自杀。
-
----
 
 ### 第10处：分身的最后一句话——「你杀死的只是你自己」
 

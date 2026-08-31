@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Moreau 的「Humanist」自称暗示他的目标是通过消除兽性来「人性化」这些生物——但他的方法本身就是一种兽行。
 
----
-
 ### 第2处：好奇心测试——「他必须求助于一个经验性测试」
 
 > **原句 2:** Today Dr. Moreau is curious. He sees the manwolf gazing at his pretty assistant. He first tries to read the truth in the manwolf's eyes but cannot. Now he must resort to an empirical test.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「pretty assistant」是明显的性化描述——Moreau 对他的助手的态度是工具性的，她只是实验的一部分。
 
 为什么这样写：Moreau 的「好奇心」是虐待性的——他不是关心狼人的内在状态，而是想通过观察狼人对女助手的反应来「测试」他的改造是否成功。
-
----
 
 ### 第3处：松开束缚——「然后安静地离开房间」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Moreau 的「实验」设计是操纵性的——他创造了一个「测试场景」，让狼人面对诱惑，然后观察结果。
 
----
-
 ### 第4处：狼人的选择——「像一位谵妄的骑士」
 
 > **原句 4:** Well so much for that, he thinks, and suddenly steps into the room to confront his two subjects—the assistant; standing rigid with terror; the manwolf: down on one knee like a delirious knight before the manaced lady he would gladly save.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「delirious knight」是浪漫骑士的讽刺版本——狼人不再是 monster，而是被浪漫化的拯救者，与他的「改造」目的形成反差。
 
 为什么这样写：狼人的反应让 Moreau 失望——他希望看到的是攻击性，他看到的是骑士风度的跪倒。这说明 Moreau 的「humanizing」改造实际上唤醒了狼人更高尚的情感。
-
----
 
 ### 第5处：「笨蛋」——「我们和这些野兽还有很长的路要走」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：Moreau 对狼人跪倒的反应是暴力而非认可——他不能接受狼人的「humanity」表现，因为这会质疑他整个改造哲学的基础。
 
----
-
 ### 第6处：小金钥匙——「通往无法想象之痛的门」
 
 > **原句 6:** Then, with disgust, he takes a little gold key from his vest pocket and walks toward a huge door, behind which is a perplexing array of powerful drugs and instruments of unimaginable pain.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「小金钥匙」与「无法想象的痛苦」的对比——这把钥匙看起来微不足道，但它打开的是无尽的折磨。
 
 为什么这样写：结尾停在 Moreau 走向那扇门的时刻——他即将对狼人进行更多的「改造」。这把小金钥匙是权力的象征，也是他「Humanist」自称的最终讽刺。
-
----
 
 ### 第7处：「用缓慢而痛苦的方式撕离」——Moreau的改造哲学
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：Moreau 的「Humanist」方法不是教育或发展，而是外科手术式的暴力——这使得他的「humanizing」改造自相矛盾。
 
----
-
 ### 第8处：「从狼人的眼中读出真相」——凝视的失败
 
 > **原句 8:** He first tries to read the truth in the manwolf's eyes but cannot.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：凝视的失败是 Moreau 作为「观察者」身份的关键时刻——他无法真正理解他创造的东西，这驱使他转向更操纵性的「经验性测试」。
 
----
-
 ### 第9处：「故意创造机会」——Moreau的实验设计
 
 > **原句 9:** He waits a few moments in the hallway, anxious to allow them enough time.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：「anxious to allow them enough time」是 Moreau 故意创造机会的证据——他想看狼人在无人看管时对女助手做什么。
 
 为什么这样写：这是 Moreau 实验操纵性的核心——他不只是观察，而是主动设计场景来诱发他想要的结果。
-
----
 
 ### 第10处：狼人的双重反应——「僵硬」与「跪倒」
 

@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「风景」的典型描绘——不是稳定的，而是处于持续的解体过程中。
 
----
-
 ### 第2处：Rignolo 的宣言——「我的风景不是为了让你进入而设计的」
 
 > **原句 2:** Think anything you like about these scenes, it's all the same to me. Whisper to each other, my hearing is wonderfully bad. Say that my landscapes do not invite one's eyes to pass into them and wander, let alone linger for the briefest moment. Nevertheless, that is exactly their purpose, and as far as I am concerned they are quite adequate to it, meticulously efficient.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：Rignolo 的「低效」实际上是一种「高效」——他的画不是为了「让人进入」而设计的，而是为了让「眼睛」进入。
 
 为什么这样写：这是 Ligotti 对「风景画」传统的颠覆——传统的风景画邀请观者「进入」画面，但 Rignolo 的画是让「眼睛」进入，而不是让「身体」进入。
-
----
 
 ### 第3处：Rignolo 的哲学——「在我们的世界里，一切都用奇怪的眼睛看着你」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「异化」的描绘——在现实世界中，我们被世界所「注视」，而在 Rignolo 的世界中，我们可以「属于」那里。
 
----
-
 ### 第4处：进入主作品——「黑暗中有史以来最黑暗的房间」
 
 > **原句 4:** The door slammed closed and for a moment there was no place on earth darker than that little room.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：这是进入 Rignolo 的「主作品」的入口——不是光明，而是终极的黑暗。
 
 为什么这样写：这是 Ligotti 对「启蒙」的颠覆——不是从黑暗进入光明，而是从光明进入终极的黑暗。
-
----
 
 ### 第5处：主作品的幻象——「宇宙的风景」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「艺术」力量的最终描绘——艺术不只是「反映」现实，而是创造新的现实。
 
----
-
 ### 第6处：宇宙的风景——「稻草、绳索和宇宙的沼泽」
 
 > **原句 6:** Finally, enormous stalks shot out of nowhere, quickly crisscrossed to form interesting and well-balanced patterns, and suddenly froze. They were a strange shade of green and wore burry crowns of a pinkish color, like prickly brains.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「prickly brains」是全篇最令人不安的意象之一——稻草不是植物，而是大脑，是思想的物质化。
 
 为什么这样写：这是 Ligotti 对「自然」的最终异化——自然不是有机的，而是机械的、像大脑一样的。
-
----
 
 ### 第7处：面孔——「在泥土中，有一张巨大的面孔」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Grissul 发现的核心——在地下有一张巨大的面孔，它是「面具」而不是真实的脸，这暗示现实只是某种更大的面具的一部分。
 
----
-
 ### 第8处：Rignolo 的最终目的——「我把我的脸放在窗口往里看」
 
 > **原句 8:** I've put myself into the scene at last. The abyss with a decor, the ultimate flight! In short—survival in the very maw of oblivion. Oh, perhaps there's still some work to be done. But I've made a good start, haven't I? I've got my foot in the door, my face looking in the window.
@@ -133,8 +119,6 @@ modified: "2026-08-30"
 表达方式：「my face looking in the window」是全篇的最后意象——Rignolo 正在把自己变成他所描绘的风景的一部分。
 
 为什么这样写：这是 Ligotti 对「艺术与艺术家融合」的最终描绘——艺术家不是站在作品之外，而是成为作品的一部分。
-
----
 
 ### 第9处：Grissul 的消失——「他尖叫着说这是欺骗」
 
@@ -151,8 +135,6 @@ modified: "2026-08-30"
 表达方式：Rignolo 的尖叫揭示了他进入画中世界后的恐怖——不是变成风景的一部分，而是被「面具」所吞噬。
 
 为什么这样写：这是 Ligotti 对「逃避现实」的警告——试图逃避到艺术世界中，最终只会被艺术世界所吞噬。
-
----
 
 ### 第10处：最后的对话——「他试图离开，却又想用他不知道的东西来逃离」
 

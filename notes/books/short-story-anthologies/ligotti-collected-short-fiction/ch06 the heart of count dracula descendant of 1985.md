@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：德古拉爱上米娜不是出于本能的饥饿，而是某种更深层的执念——这暗示他的诅咒不仅是生理上的，也是情感上的。
 
----
-
 ### 第2处：Carfax——「冻结的音乐」
 
 > **原句 2:** "Ah, such architecture," said Count Dracula while gazing uncontrollably at Mina, "is truly frozen music."
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「建筑是冻结的音乐」是德国浪漫主义的美学观（歌德），德古拉用它来形容米娜，暗示他将米娜视为艺术品而非人。
 
 为什么这样写：凝视「不可控制」泄露了德古拉的情感失控——他本应是猎人，却在米娜面前成了被动的欣赏者，这种逆转是他的诅咒的核心。
-
----
 
 ### 第3处：千年诅咒的荒谬
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是德古拉的元叙事反思——他在质疑自己存在的逻辑，这种质疑本身就是他诅咒的一部分（永远无法得到答案）。
 
----
-
 ### 第4处：露西的灵魂得救，雷菲尔的从未危险
 
 > **原句 4:** Lucy Westenra's soul was saved, Renfield's soul was never in any real danger...but Count Dracula, one of the true children of the night from which all things are born, has no soul.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「万物皆从夜晚诞生」是泛神论的观点——德古拉将自己定位为夜的子民，与基督教的「光之子」对立。
 
 为什么这样写：德古拉的诅咒不仅是「没有灵魂」，而是他「没有灵魂」这个事实本身——其他角色（露西、雷菲尔德）即使死亡也能得救，但德古拉永远被排除在救赎之外。
-
----
 
 ### 第5处：十字架下的永恒痛苦
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：德古拉对米娜的执念是他的「自由选择」，但这个选择导致了永恒的诅咒——他被钉在十字架下，永远无法摆脱。
 
----
-
 ### 第6处：农夫的对话——「给那些该死的狗」
 
 > **原句 6:** "Over here," one of them shouts, "in this broken down convent or whatever it is. I think I've found something we can give those damned dogs. Good thing, too. Christ, I'm sick of their endless whining."
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：农夫们用粗俗的语言谈论处理德古拉的尸体——这是对崇高恐怖的反讽，吸血鬼的永恒诅咒在农民眼中只是「该死的狗的哀号」。
 
 为什么这样写：结尾的对话将德古拉从「悲剧英雄」降格为「待处理的尸体」——他的千年诅咒、他的爱与悔恨，都被简化为农民眼中「该死的狗」。
-
----
 
 ### 第7处：塞克利斯人的血统——「为祖国而战」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：德古拉不仅是「吸血鬼」，更是一个「民族」的成员——他的诅咒不是个人的，而是集体的、历史性的。
 
----
-
 ### 第8处：五个世纪的延续——「supernatural powers」
 
 > **原句 8:** And for centuries, at least five and maybe more, he has managed to perpetuate, with the aid of supernatural powers, his existence as a vampire.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：吸血鬼的「永恒」在 Ligotti 笔下变成了「历史」——他是一个有时间跨度的主体，而不是一个超越时间的概念。
 
----
-
 ### 第9处：木桩的讽刺——「那些傻瓜把他的颤抖的心钉在了耻辱柱上」
 
 > **原句 9:** Now he has only this painful, perpetual awareness that he is doomed to wriggle beneath this infernal stake which those fools—Harker, Seward, Van Helsing, and the others—have stuck in his trembling heart.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：「颤抖的心」是双重讽刺——它既是物理上被钉的心脏，也是情感上的隐喻；而「那些傻瓜」是对经典吸血鬼猎人的降格称呼。
 
 为什么这样写：德古拉被「那些傻瓜」（而非英雄）杀死——这消解了经典吸血鬼叙事的崇高性，将悲剧变成了平庸的暴力。
-
----
 
 ### 第10处：普通的声音——「乡下人的声音」
 

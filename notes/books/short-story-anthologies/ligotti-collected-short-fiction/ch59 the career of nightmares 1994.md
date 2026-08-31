@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | incarceration | 囚禁 | restriction, incarceration is the law of the structure |
@@ -143,10 +143,7 @@ modified: "2026-08-30"
 | mannikins | 人偶、假人 | a gallery of mannikins abruptly wakes |
 | terminus | 终点、尽头 | toward a shadowy terminus |
 | canvass | 画布 | on a wide white canvass |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | streamlined | 流线型的 | a vague streamlined enclosure |
@@ -154,9 +151,7 @@ modified: "2026-08-30"
 | incarceration | 囚禁 | （见高级，此处可去重） |
 | futile | 徒劳的 | going from empty room to empty room is futile |
 | drooping | 垂下的、萎垂的 | hang ill drooping webs |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | dream | 梦 | no front door to the dream |

@@ -21,8 +21,6 @@ modified: "2026-08-30"
 
 为什么这样写：开篇即把「死」浪漫化为一场艺术化的告别——Emerson 不是怕死，而是渴望一场配得上自己的死。Ligotti 点出全书核心：对形而上的迷恋终将招来它所恋慕之物。
 
----
-
 ### 第2处：不可见之境——「a swirling, fluttering motion that was belied by the relative order of the seen」
 > **原句 1:** For within these imagined or divined spheres there existed a certain... confusion, a swirling, fluttering motion that was belied by the relative order of the seen. Only on rare occasions could he enter these unseen spaces, and always unexpectedly.
 
@@ -35,8 +33,6 @@ modified: "2026-08-30"
 表达方式：用「扑动的运动 vs 可见的秩序」把不可见之境写成可见世界的暗面；倒装「Only on rare occasions could he enter」写出进入的偶然。
 
 为什么这样写：Emerson 的学者生涯即在追这「相对的秩序」之后的混乱。Ligotti 在此建立全书的认识论：所见是表层，真相是下方翻涌的混沌——而学者偏偏能偶入其中。
-
----
 
 ### 第3处：Cynothoglys 现身——「the god without shape, the god of changes and confusion」
 > **原句 1:** "It could be distantly related, perhaps, to those numina of Roman cesspools and sewage systems. But it is not a mere Cloacina, not a Mephitis or Robigo. In name, the god is known as Cynothoglys: the god without shape, the god of changes and confusion, the god of decompositions, the mortician god of both gods and men, the metamortician of all things. There is no fee demanded."
@@ -51,8 +47,6 @@ modified: "2026-08-30"
 
 为什么这样写：Cynothoglys 是 Ligotti 自创的「衰变之神」，集所有腐坏与终结于一身。它「不取分文」暗示：你主动祈求，它便免费履约——正是 Emerson 年轻时所求。神名本身是 Ligotti 宇宙的锚点。
 
----
-
 ### 第4处：祭坛前之祈——「And as others only sink into their deaths—into mine I would soar」
 > **原句 1:** I conceived the primal salvation of tearing flesh, of seizure by the god and the ecstatic rending of the frail envelope of skin and sinew. And as others only sink into their deaths—into mine I would soar.
 
@@ -65,8 +59,6 @@ modified: "2026-08-30"
 表达方式：用「撕裂皮囊」写与神合一的狂喜；「他人沉、我翱翔」把自杀式升华写成特权。
 
 为什么这样写：青年 Emerson 在祭坛前把「死」许愿成艺术化的飞升。Ligotti 让读者看到：这「理想之死」是一份契约，多年后神来兑现。此处埋下终局「翱翔的惨叫」的伏笔。
-
----
 
 ### 第5处：地窖尸阵——「Like a trail of dominos winding round and round」
 > **原句 1:** "None of the animals actually seem to have been eaten," he quietly observed, and that curious piping in his throat sounded almost louder than his words. "No," Arthur Emerson agreed with some bewilderment. He then reached up to grasp a thick black extension cord… "Like a trail of dominos winding round and round. But no true sense to it."
@@ -81,8 +73,6 @@ modified: "2026-08-30"
 
 为什么这样写：猫把猎物尸首摆成仪式阵却未食——这不是饥饿，是「祭祀的雏形」。Emerson 想看图案的「意义」，而 Graff（已被无形之神渗透）的哨音暗示意义在别处。Ligotti 写的是预兆的累积：每一桩怪事都是神临前的脚印。
 
----
-
 ### 第6处：墙上的梦痕——「the shapeless, groping horror that appeared to have crawled from his own dream」
 > **原句 1:** "What? No," decided Arthur Emerson as he gazed at the shapeless, groping horror that appeared to have crawled from his own dream and stained itself into the stone before him. "Leave everything exactly as it is," he ordered the old whistling servant.
 
@@ -96,8 +86,6 @@ modified: "2026-08-30"
 
 为什么这样写：墙上的痕是 Emerson 自身梦的实体化——他追寻的不可见之境，已反渗进他的居所。Ligotti 在此让「内在」与「外在」的边界崩解：你凝视深渊，深渊爬上墙来。
 
----
-
 ### 第7处：神之降临——「the god, like some obedient slave, descended upon its victim」
 > **原句 1:** Risking an accusation of bad manners, Arthur Emerson failed to rise from his chair to greet the guest he had invited so long ago. "You are too late," he said in a dry voice. "But since you have taken the trouble..." And the god, like some obedient slave, descended upon its victim.
 
@@ -110,8 +98,6 @@ modified: "2026-08-30"
 表达方式：用「你来迟了」写主人等对已久的淡漠；「如驯顺之奴」把神写成履约的仆，反讽。
 
 为什么这样写：终局反转期待：不是神破门而入，而是 Emerson 端坐等它——因为那是他青年时亲自祈下的约。Ligotti 让「被动受害」变成「主动履约」，恐怖因此更冷：他等了一辈子，只为这一刻。
-
----
 
 ### 第8处：惨叫与天鹅——「his voice indeed became confused with the screaming of the swans」
 > **原句 1:** It was only at the very end that Arthur Emerson's attitude of incuriosity abandoned him. As he had guessed, perhaps even wished, his voice indeed became confused with the screaming of the swans, soaring high into the muffling fog.

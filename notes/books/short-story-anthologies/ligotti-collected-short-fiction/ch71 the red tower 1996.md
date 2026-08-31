@@ -117,7 +117,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
@@ -126,9 +126,6 @@ modified: "2026-08-30"
 | peculiar | 奇异的、特别的 | that peculiar color for which it ultimately earned its fame |
 | gruesome | 可怖的 | a gruesome array of goods |
 | hyper-organisms | 超有机体 | These new productions were also of a fundamentally extreme nature |
----
----
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句（原文） |
@@ -138,8 +135,6 @@ modified: "2026-08-30"
 | novelty items | 新奇小商品 | could perhaps best be described as novelty items |
 | mysterious ways | 诡秘的方式 | the Red Tower worked in mysterious ways |
 | betrayal | 背叛 | a betrayal, a breaking-off |
----
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |

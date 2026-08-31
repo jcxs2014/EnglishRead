@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇的核心主题——梦境不是发生在睡眠中的事件，而是能够入侵清醒世界的实体。
 
----
-
 ### 第2处：身份的侵蚀——「更多的他自身滑入梦想的黑镜」
 
 > **原句 2:** At first he would regain some of his losses of the previous night, but less of his own life was being returned to his possession. Their presence was now with him, an invisible mist surrounding him and distorting his senses.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对「身份侵蚀」的描绘——不是失去睡眠，而是失去「生命」，每次梦都从梦者身上拿走一部分。
 
 为什么这样写：这是 Ligotti 对「成瘾」的隐喻——每次梦都会导致更多的损失，而这种损失是累积性的、不可逆转的。
-
----
 
 ### 第3处：世界的扭曲——「他走的街道似乎倾斜在他脚下」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「异化」的典型描绘——梦者与现实世界的关系被颠倒，现实变得不真实而梦境变得更真实。
 
----
-
 ### 第4处：追逐——「他成为人群的寻求者，但人群变薄并抛弃了他」
 
 > **原句 4:** He became a seeker of crowds, but the crowds thinned and abandoned him. He became a seeker of lights, but the lights grew strange and led him into desolate places.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「绝望」的描绘——梦者试图通过与他人联系来逃避梦境，但每一次尝试都失败了。
 
----
-
 ### 第5处：城市的夜晚——「每所房子都是一个破旧、裂缝的黑暗容器」
 
 > **原句 5:** Now the lights were reflected in the black, shining surface of wetted streets. Every house in that neighborhood was a battered, cracking vessel of darkness; every tree was perfectly still. There was not another soul to companion him, and the moon was a fool.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对「城市夜景」的典型描绘——不是美丽的，而是一个充满破旧容器和可笑月亮的世界。
 
 为什么这样写：这是 Ligotti 对「疏离」的描绘——即使是在城市环境中，梦者也感到完全孤独，世界对他毫无意义。
-
----
 
 ### 第6处：最后的相遇——「你喜欢你的恶魔梦吗？」
 

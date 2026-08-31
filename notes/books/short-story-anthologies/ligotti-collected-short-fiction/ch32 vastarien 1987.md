@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Vastarien 的开场意象——一个由不稳定的、倾斜的建筑组成的城市，暗示这是一个「错误」的世界。
 
----
-
 ### 第2处：Vastarien 的本质——「每个形状都暗示一千个其他形状」
 
 > **原句 2:** Vastarien, where every shape suggested a thousand others, every sound disseminated everlasting echoes, every word founded a world.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对 Vastarien 的最终定义——这是一个意义无限增殖的地方。
 
 为什么这样写：这是全篇的核心——Vastarien 是「超现实」空间的完美表达，每个元素都指向无限的其他元素。
-
----
 
 ### 第3处：现实与 Vastarien——「这个世界只是一个受限的天堂」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Keirion 哲学的核心——他认为这个世界只是一个通往「其他地方」的入口，而那个地方才是真正的家园。
 
----
-
 ### 第4处：缺失的元素——「现实缺少的unreal品质」
 
 > **原句 4:** The word unearthly reverberated in the room. In that place and at that hour, the paradoxical absence, the missing quality, became clear to him: it was the element of the unreal.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：Keirion 发现现实世界缺少的是「unreal」品质——这是全篇最核心的发现。
 
 为什么这样写：这是 Keirion 哲学的悖论——为了使世界「真实」，它必须首先包含「unreal」的元素。
-
----
 
 ### 第5处：书店——「一个由十一面组成的圆形空间」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：书店本身就是 Vastarien 的一个缩影——它的形状是「不完美的」，暗示这是一个通往其他世界的地方。
 
----
-
 ### 第6处：关于这本书——「它实际上本身就是那个东西」
 
 > **原句 6:** "Have you ever heard of a book, an extremely special book, that is not about something, but actually is that something?"
@@ -102,8 +92,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「书与现实」关系的最终思考——有些书不只是描述世界，而是创造世界。
 
----
-
 ### 第7处：Vastarien 的本质——「一种超自然的 essence，向导到另一个领域」
 
 > **原句 7:** The book, indeed, did not merely describe that strange world but, in some obscure fashion, was a true composition of the thing itself, its very form incarnate.
@@ -117,8 +105,6 @@ modified: "2026-08-30"
 表达方式：这本书和 Vastarien 之间的关系是「 incarnate」——不是描述，而是变成了那个东西本身。
 
 为什么这样写：这是 Keirion 发现的核心——他找到的书不只是关于 Vastarien，而是 Vastarien 本身的一个碎片。
-
----
 
 ### 第8处：夜间梦——「扭曲的纪念碑变得清晰，一个伟大的身影在地平线上」
 
@@ -136,8 +122,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Keirion 的最终视像——他意识到 Vastarien 有一个主人，而这个主人正在接管他的梦。
 
----
-
 ### 第9处：被关押——「他试图从窗户逃走」
 
 > **原句 9:** When the door was opened and some men in uniforms entered the room, they found Victor Keirion screaming to the raucous limits of his voice and trying to scale the thick metal mesh veiling the window, as if he were dragging himself along some unlikely route of liberation.
@@ -151,8 +135,6 @@ modified: "2026-08-30"
 表达方式：Keirion 的尖叫和逃跑尝试是他试图「打破」现实和他的梦想世界之间障碍的最后尝试。
 
 为什么这样写：这是 Keirion 命运的悲剧——他被关进了精神病院，但他的「疯狂」实际上是一种对更高现实的追求。
-
----
 
 ### 第10处：最终的话语——「在 unreal 的秩序中被永远转移的所有事物中」
 

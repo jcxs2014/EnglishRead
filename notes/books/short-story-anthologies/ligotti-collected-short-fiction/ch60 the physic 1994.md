@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | considerateness | 体贴、周到 | the doctor showing great considerateness in this detail |
@@ -143,10 +143,7 @@ modified: "2026-08-30"
 | trapezoid | 梯形 | Sat in a trapezoid of moonlight |
 | unholy | 不洁的、亵渎的 | unholy pinwheels spinning in the moonlight |
 | consolingly | 安慰地 | I said consolingly |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ill-looking | 病容的 | Everyone was very ill-looking |
@@ -154,9 +151,7 @@ modified: "2026-08-30"
 | elaborately | 精细地 | Elaborate eye make-up helped them enormously |
 | scolded | 责怪 | You could have also worn a hat, you know, he scolded |
 | pinwheels | 风车 | unholy pinwheels spinning in the moonlight |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | doctor | 医生 | I'm their doctor |

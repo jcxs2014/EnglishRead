@@ -117,7 +117,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
@@ -126,9 +126,6 @@ modified: "2026-08-30"
 | sacrament | 圣事 | the highest sacrament in the great gray ritual |
 | malevolence | 恶意 | bland malevolence |
 | amnesia | 失忆 | Amnesia may well be the highest sacrament |
----
----
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句（原文） |
@@ -137,8 +134,6 @@ modified: "2026-08-30"
 | haven | 避风港 | a haven for an interminable series |
 | metaphysical | 形而上学的 | METAPHYSICAL LECTURE I |
 | lodging house | 寄宿公寓 | Mrs. Glimm's lodging house |
----
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |

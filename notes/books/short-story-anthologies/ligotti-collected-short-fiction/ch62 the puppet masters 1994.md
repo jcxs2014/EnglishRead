@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「依赖关系」的描绘——这些生物需要「我」作为它们的媒介，但这种依赖是单向的。
 
----
-
 ### 第2处：到处都是——「他们遍布我的房间」
 
 > **原句 2:** And they are all over my room. This one is on the floor, lying flat on its little stomach with its head propped within the crux of its two hands, a tiny foot waving in the air behind.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对「无处不在的注视」的描绘——这些生物不是隐藏的，而是明显地存在于视野中，每个位置都有一个。
 
 为什么这样写：这是 Ligotti 对「监控」恐惧的描绘——不是被一个人监视，而是被无数小存在从每个角落监视。
-
----
 
 ### 第3处：依赖——「他们依赖我」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「叙述者与被叙述者」关系的探索——谁真正拥有故事？是经历者还是叙述者？
 
----
-
 ### 第4处：沉默——「所有的声音突然停止」
 
 > **原句 4:** Absent-mindedly I began confessing some trivial worry, I've completely forgotten what it was. And at that moment all their voices suddenly stopped, every one of them, leaving an insufferable vacuum of silence.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「单向关系」的维护——这些生物可以向「我」倾诉，但「我」不能向它们倾诉，这种不对称是神圣的、不可侵犯的。
 
----
-
 ### 第5处：邪恶的表情——「他们脸上无限的邪恶表情」
 
 > **原句 5:** But I shall never forget that interim of terrible silence, just as I shall never forget the expression of infinite evil on their faces which rendered me speechless thereafter.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对「惩罚」的描绘——当「我」试图打破规则时，惩罚是「沉默」和「失去声音能力」。
 
 为什么这样写：这是 Ligotti 对「违反禁忌」后果的描绘——不是身体的惩罚，而是存在性的惩罚，被剥夺了说话的能力。
-
----
 
 ### 第6处：永恒的对话——「他们继续说话」
 

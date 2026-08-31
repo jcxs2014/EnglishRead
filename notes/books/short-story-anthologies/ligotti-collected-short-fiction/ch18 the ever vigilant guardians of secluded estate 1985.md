@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：年轻人的生活是「隐居」的终极版本——他在自己的房子里游荡，拒绝与外部世界接触。
 
----
-
 ### 第2处：不被习惯的 mental images——「灯火通明的地方、人群、柔软的笑声」
 
 > **原句 2:** Tonight, however, he is disturbed by certain mental images he is not used to experiencing: brightly lit places, crowds of people, and soft laughter.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「soft laughter」是「soft」形容笑声——这种笑声与房间里的「dreamy half-lights」形成对比，代表外部世界的温暖。
 
 为什么这样写：年轻人被这些「外部世界」的意象所困扰——他隐居的生活被这些他不习惯的图像入侵。
-
----
 
 ### 第3处：仆人送来饮料——「他没点但出于纯粹礼貌呷了几口」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：仆人的「thoughtful」（体贴）可能是讽刺——他真的在照顾主人，还是有其他目的？
 
----
-
 ### 第4处：sour odor——「他似乎是第一次看到仆人苍白的脸」
 
 > **原句 4:** When the servant bends down to collect the empty glass, the young man detects a slightly sour odor and seems to be viewing the servant's gaunt face for the very first time.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最关键的恐怖时刻——年轻人「第一次」真正看到仆人的脸，而这张脸是「gaunt」（苍白消瘦的），暗示死亡。
 
----
-
 ### 第5处：另一个自己——「和他一样留着稀疏胡子的年轻人」
 
 > **原句 5:** But the next room is exactly like the one he has just left. And seated in a chair before him is a young man with a sparse mustache.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：这是一个经典的「分身」（doppelgänger）时刻——年轻人在另一个房间里看到了自己。
 
 为什么这样写：这是全篇的核心恐怖——年轻人发现他的房子不是「他的」，而是一个无限循环的空间，他的「另一个自己」已经在那里等着他。
-
----
 
 ### 第6处：「很久以前就已经太晚了」
 

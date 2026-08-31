@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 在这里颠倒了传统的有神论——不是人类被爱，而是人类被用作制造提线木偶的原材料。
 
----
-
 ### 第2处：机器——「一个由粗糙金属组成的疯狂灌木丛」
 
 > **原句 2:** To the average eye, granted, Dr Haxhausen's invention might have appeared as no more than a bizarre scrapheap, a hybrid of some inscrutable fancy. Dense and unbeautiful, it branched out wildly in every direction, a mad foliage of ragged metal.
@@ -38,8 +36,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「科技与宗教融合」的描绘——机器不是工具，而是某种神圣的、恐怖的东西。
 
----
-
 ### 第3处：创造者的伟大设计——「世界是为了解体而存在的」
 
 > **原句 3:** I noticed that there were mechanisms built into the system of reality that nullified all our advancements in this world, that rerouted them into a hidden laboratory where these so-called blessings were cancelled out altogether, if not converted into formulas for our collapse.
@@ -53,8 +49,6 @@ modified: "2026-08-30"
 表达方式：这是 Haxhausen 对世界的「系统分析」——不是偶然的，而是被设计来取消进步的系统。
 
 为什么这样写：这是 Ligotti 对「进步」概念的最终质疑——所谓的「进步」实际上是被设计来导致解体的。
-
----
 
 ### 第4处：「完美从来不是重点」
 
@@ -72,8 +66,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对线性历史的否定——历史不是走向完美，而是走向废墟。
 
----
-
 ### 第5处：赎罪之夜——「冬天是神圣的，永恒的冬天即将来临」
 
 > **原句 5:** For the ultimate winter draws near, ladies and gentlemen: the cycle of seasons, so the Creator has told me, is about to stop.
@@ -87,8 +79,6 @@ modified: "2026-08-30"
 表达方式：冬天是「神圣的」——这是 Haxhausen 的核心隐喻，终极的静止是世界的目的。
 
 为什么这样写：这是 Ligotti 对「永恒静止」的描绘——不是永恒的生命，而是永恒的死亡/静止。
-
----
 
 ### 第6处：「这个世界只是通往其他地方的一个受限的天堂」
 
@@ -106,8 +96,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对宗教地理的重新诠释——神圣的地方不是人造的，而是「地球」本身的属性。
 
----
-
 ### 第7处：机器的启示——「古老的表面必须被剥离和处理」
 
 > **原句 7:** See how the shafts of color pour down upon this stark scene, overlaying surfaces with an uncanny kaleidoscopic tint. It is the old surfaces that must be stripped away and disposed of.
@@ -124,8 +112,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「转化」的描绘——不是渐进的改变，而是瞬间的覆盖，旧世界被新世界所取代。
 
----
-
 ### 第8处：Haxhausen 的信息——「创造者只喜爱废墟和提线木偶」
 
 > **原句 8:** We have all done this, all attempted to resurrect the defunct. And this is precisely where we have separated ourselves from the law and the truth of the Creator. Were we in harmony with Him, our gaze would fall upon a thriving scene and perceive nothing there but ruins and the ghosts of puppets.
@@ -140,8 +126,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「乐观主义」的最终质疑——对世界的乐观看法实际上是幻觉，真正的「现实」是废墟。
 
----
-
 ### 第9处：Haxhausen 的消失——「在机器的烟囱上轻轻摇摆」
 
 > **原句 9:** When the world famous hallucinator did not appear at the publicized time, someone took it upon himself to pull back the makeshift curtain of a makeshift stage. And there, gently swinging from the long sooty gibbet of his fantastic machine, hung Dr Haxhausen.
@@ -155,8 +139,6 @@ modified: "2026-08-30"
 表达方式：「makeshift」一词的重复是讽刺——Haxhausen 的「神圣表演」实际上只是临时搭建的舞台。
 
 为什么这样写：这是 Haxhausen 命运的悲剧——他声称要展示神圣真理，但最终他的「机器」变成了他的 gibbet。
-
----
 
 ### 第10处：最后的宣告——「你们是多么永恒废墟的美好」
 
@@ -192,7 +174,6 @@ modified: "2026-08-30"
 |---------|------|------|
 | a bizarre scrapheap | 奇怪的废料堆 | …might have appeared as no more than a bizarre scrapheap… |
 | a mad foliage of ragged metal | 粗糙金属的疯狂叶片 | …a mad foliage of ragged metal. |
-| to nullify all our advancements | 取消我们所有的进步 | …that nullified all our advancements in this world… |
 | convenient pretexts | 便利的借口 | …were merely convenient pretexts for our true destiny… |
 | to be stripped away and disposed of | 被剥离和处理 | It is the old surfaces that must be stripped away and disposed of. |
 

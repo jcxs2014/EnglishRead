@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | septic | 腐败的、脓毒的 | the doctrines of a truly septic curriculum |
@@ -143,10 +143,7 @@ modified: "2026-08-30"
 | disintegration | 解体、崩解 | things sinking into a common disintegration |
 | cesspool | 粪池、污秽之源 | a blossom of the cemetery or the cesspool |
 | scatology | 粪便学、污秽论 | The excrement of space, scatology of creation |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | freakish | 怪异的 | a kind of freakish growth in a dumping ground |
@@ -155,9 +152,7 @@ modified: "2026-08-30"
 | effluvia | 臭气、渗出物 | unreflecting effluvia that here moved even more thickly down the walls |
 | assiduous | 勤奋的、热心的 | one of the instructor's most assiduous students |
 | instructor | 教员 | a true instructor must share everything |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | class | 课 | Instructor Carniero was holding class once again |

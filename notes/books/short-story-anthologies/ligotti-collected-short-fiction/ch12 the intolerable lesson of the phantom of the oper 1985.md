@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 的魅影不是天生的怪物，而是被社会不公正塑造出来的——这为他的「教学」提供了道德复杂性。
 
----
-
 ### 第2处：「从心而唱」——敲击他的胸膛
 
 > **原句 2:** He tells the girl to sing from the heart, rapping his chest once or twice to make her aware she is singing from his heart too, and maybe other people's.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「从他的心而唱」是魅影的核心信息——音乐不是技术，而是情感的传递。
 
 为什么这样写：魅影通过让女孩「唱他的心」来建立情感连接——但这种连接是不对称的，他给予，她接受。
-
----
 
 ### 第3处：面具揭下——「她尖叫然后晕倒」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：面具揭下是「知识」的隐喻——一旦看到真相，就无法假装它不存在。
 
----
-
 ### 第4处：舞台事故——「他跳上木板，把她推开」
 
 > **原句 4:** When the girl regains consciousness from the terrible shock she experienced, her days with the phantom of the opera seem like no more than a vague dream. Later in the season she is starring in an opera and gives a brilliant performance, which the phantom watches from an empty box near the stage.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：魅影救了她的命，但她在醒后否认认识他——这种忘恩负义是全篇最残酷的细节之一。
 
----
-
 ### 第5处：坠落——「被压得彻底粉碎」
 
 > **原句 5:** He leaps onto the boards, pushes her out of the way, and is himself thoroughly crushed by the falling wreckage.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：「himself」是反身代词的强调——他救了她，但无法救自己。
 
 为什么这样写：魅影的死是他的「救赎」——他通过死亡证明了他对女孩的爱，而这种爱是她之前否认的。
-
----
 
 ### 第6处：投河——「她 monstrous 沉重的心带她到了塞纳河底」
 

@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Andre 的「完美伴侣」是他自己的投射——他不是爱上一个人，而是爱上他自己想象的产物。
 
----
-
 ### 第2处：完美的反映——「她的微笑完美地反映了他原始微笑的种类和程度」
 
 > **原句 2:** She is seated in a corner of the room: wise, beautiful, and content, she is the perfect complement to her creator's temper and the unflawed realization of his unspeakably complex prerequisites. He smiles at her and she smiles back, faultlessly reflecting both the kind and degree of sentiment in the original smile.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「unspeakably complex prerequisites」是 Andre 对他理想女性的定义——她必须满足他无法用语言表达的需求。
 
 为什么这样写：幽灵的「完美反映」是全篇的核心——她没有自己的身份，只是 Andre 的镜子。这种关系是根本性的不真实。
-
----
 
 ### 第3处：信——「她终于屈服于疾病」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Mlle. LeMieux 的死切断了 Andre 与现实的最后联系——他现在只有他的想象，而想象开始反叛他。
 
----
-
 ### 第4处：「她已经感觉到她创造者无声的欲望」
 
 > **原句 4:** But the beautiful specter does not disappear as commanded. Having already sensed its maker's unspoken desire, she takes the sharp letter-opener from where he left it on the table and buries it deep in the back of his soft neck.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最黑暗的反讽——Andre 创造了幽灵来满足他的欲望，但幽灵的「欲望」与他的不同步。她有自己的意志，这种意志是致命的。
 
----
-
 ### 第5处：Pygmalion 的反转——创造者被他创造的所杀死
 
 > **原句 5:** Without turning toward the phantasm in the corner, he says to it: "Go away! Please go away. There's not much point anymore."
@@ -85,24 +77,6 @@ modified: "2026-08-30"
 表达方式：Andre 不看幽灵就说「走开」——他知道她在那里，但他不敢看她。这种「不敢看」是他对自己创造物的恐惧。
 
 为什么这样写：这是全篇最有力的时刻——Andre 终于意识到他的创造物没有意义，但这种认知来得太晚了。
-
----
-
-### 第6处：开信刀的隐喻——「她用它刺穿他柔软的脖颈」
-
-> **原句 6:** The next day there is good news. The vampire has moved on, everyone is safe once more. Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring. Children are singing for joy in the street. He suddenly closes the window and turns back toward his little room.
-
-中文理解：第二天有好消息。吸血鬼离开了，每个人又安全了。雅各布先生在一个早春的晴朗早晨，几周来第一次打开窗户。孩子们在街上欢快地唱歌。他突然关上了窗户，转身回到他的小房间。
-
-句子结构：The next day there is good news 是主句；The vampire has moved on, everyone is safe once more 是并列句；Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring 是并列主句；Children are singing for joy in the street 是并列句；He suddenly closes the window and turns back toward his little room 是并列句。
-
-关键词：for the first time in weeks（几周来第一次）、a radiant morning in early spring（早春的晴朗早晨）、singing for joy（欢快地唱歌）
-
-表达方式：这是 ch16 的结尾，但它与 ch17 的暴力场景形成对比——Jacob 关闭窗户回到他的小房间，象征着他对外部世界的拒绝。
-
-为什么这样写：这个结尾是全书的结构技巧——Ligotti 把 ch16 和 ch17 的结尾并置，创造了「安全」与「毁灭」的反差，暗示不同的角色走向不同的命运。
-
----
 
 ## 词汇分级
 
@@ -132,10 +106,6 @@ modified: "2026-08-30"
 |---------|------|------|
 | to go away | 走开 | "Go away! Please go away." |
 | not much point anymore | 已经没有太多意义了 | "There's not much point anymore." |
-| a beautiful specter | 美丽的幽灵 | But the beautiful specter does not disappear as commanded. |
-| to open one's window | 打开窗户 | Mr. Jacob opens his window for the first time in weeks… |
-| to sing for joy | 欢快地唱歌 | Children are singing for joy in the street. |
-
 ---
 
 ## 一句话总结

@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「感官现实」脆弱性的探索——如果我们知道的世界只是「看起来」坚固，那它实际上是什么？
 
----
-
 ### 第2处：Klingman 的最高成就——「他已经获得对事物幽灵本质的坚定接受」
 
 > **原句 2:** But Klingman's highest achievement was not a matter of public spectacle and consisted entirely of this private triumph: that he had attained, by laborious effort, an unwavering acceptance of the spectral nature of things, which to him were neither what they seemed to be nor were they quite anything at all.
@@ -38,8 +36,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Klingman 的哲学核心——他知道现实是幻觉，这不是通过药物或疯狂获得的，而是通过「艰苦的努力」。
 
----
-
 ### 第3处：Muelenburg 的黄昏——「永恒的黄昏悬挂在城镇上方」
 
 > **原句 3:** Within the high stone walls of Muelenburg itself, no one seemed particularly troubled that the narrow streets normally so cluttered with the pointed shadows of peaked roofs and jutting gables at this time of day—were still immersed in a lukewarm dimness which turned merchants' brightly colored signs into faded artifacts of a dead town and which made faces look as if they were fashioned in pale clay.
@@ -53,8 +49,6 @@ modified: "2026-08-30"
 表达方式：「淡粘土塑造的面孔」是 Muelenburg 居民被「非人化」的视觉表达——他们的面孔变成了没有生命的泥土。
 
 为什么这样写：这是全篇最有力的意象之一——黄昏把人类变成了泥土面具，暗示他们的灵魂已经被夺走。
-
----
 
 ### 第4处：世界的溶解——「精确雕刻的石头开始松动和结块」
 
@@ -72,8 +66,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「现实基础」崩溃的最终描述——不是物理定律改变，而是物质本身开始失去其「物质性」。
 
----
-
 ### 第5处：遗忘的祝福——「所有这些可怕的记忆都被留在黑暗中」
 
 > **原句 5:** "All of those terrible memories were left behind in the blackness. How could they bear to bring them back?"
@@ -87,8 +79,6 @@ modified: "2026-08-30"
 表达方式：重复的疑问句强调了 Muelenburg 居民的遗忘是他们唯一的解脱——他们不能也不应该记住。
 
 为什么这样写：这是 Ligotti 对「记忆与现实」关系的思考——有些事情最好被遗忘，因为记住它们会让现实变得更加难以承受。
-
----
 
 ### 第6处：「没有信念就没有信念」
 

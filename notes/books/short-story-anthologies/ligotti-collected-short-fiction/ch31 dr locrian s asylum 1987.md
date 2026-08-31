@@ -24,8 +24,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「被压抑的过去」的经典开场——疗养院是镇上每个人都知道但没人谈论的东西。
 
----
-
 ### 第2处：疗养院的窗户——「那些不是人类的生物在凝视回来」
 
 > **原句 2:** It was not until many years later that my father attempted to explain everything to me, as I now am attempting to explain it to you.
@@ -41,8 +39,6 @@ modified: "2026-08-30"
 表达方式：这是 Mr. Locrian 对 Crane 的解释——他inherit 了家族的秘密，现在试图把它传递给 Crane。
 
 为什么这样写：这是全篇的核心结构——信息通过一代又一代传递，每一代都试图向下一代解释，但最终这个负担落在了 Crane 身上。
-
----
 
 ### 第3处：Dr. Locrian 的野心——「不是减轻患者的疯狂，而是让它充气」
 
@@ -60,8 +56,6 @@ modified: "2026-08-30"
 
 为什么这样写：Dr. Locrian 的动机不是治疗，而是推进疯狂的边界——他相信疯狂是一种通向「更大的东西」的门。
 
----
-
 ### 第4处：「既作为可悲的提线木偶又作为星星一样壮观」
 
 > **原句 4:** The result was something as pathetic as a puppet and as magnificent as the stars, something at once dead and never dying, a thing utterly without destiny and thus imperishable, possessing that abysmal absence of mind, that infinite vacuity which is the essence of all that is immortal.
@@ -77,8 +71,6 @@ modified: "2026-08-30"
 表达方式：这是 Dr. Locrian 实验的最终产物——一种既可悲又壮观的存在，既是木偶又是星星。
 
 为什么这样写：这是 Ligotti 对「永生」概念的黑暗重新诠释——不朽不是祝福，而是诅咒。
-
----
 
 ### 第5处：大火——「疗养院的窗户中，天石化身像框架中的肖像」
 
@@ -96,8 +88,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「记忆与毁灭」的最终思考——大火可以烧毁身体，但不能抹去精神形象。
 
----
-
 ### 第6处：现在的疗养院——「我的 mind 被关在那个废墟的阴影中」
 
 > **原句 6:** But now, after the passing of so many years, it is not the ashen rubble of that town which haunts each of my hours; it is that one great ruin in whose shadow my mind has been interned.
@@ -114,8 +104,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最黑暗的结局——Crane 成为 Mr. Locrian 的下一个受害者，被关在精神疗养院中，永远无法逃脱。
 
----
-
 ### 第7处：「星星永远像明亮的提线木偶一样跳舞」
 
 > **原句 7:** For Mr. Locrian has been true to his promise; he has told me of certain things when I was ready to hear them. And he has other things to tell me, secrets surpassing all insanity.
@@ -131,8 +119,6 @@ modified: "2026-08-30"
 表达方式：这是 Crane 对 Mr. Locrian 的最终谴责——他被告知了秘密，现在他被永远关在疗养院中。
 
 为什么这样写：这是全篇最绝望的结局——Crane 不仅被关押，还被承诺有更多的秘密要告诉他，这意味着他的折磨是永恒的。
-
----
 
 ### 第8处：窗户中的鬼魂——「穿着formal and funereal 衣服的身影」
 

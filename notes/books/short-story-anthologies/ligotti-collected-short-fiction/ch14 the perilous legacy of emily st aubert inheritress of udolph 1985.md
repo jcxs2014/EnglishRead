@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对 Radcliffe 原版《尤多弗》的引用，但「秘密」在此不仅是哥特式装饰，而是心理创伤的隐喻。
 
----
-
 ### 第2处：蜡像尸体——「她以为是真的，也可能真的是」
 
 > **原句 2:** At one point Emily sees the wax replica of a corpse with a worm-eaten face which she takes to be real. And it might as well have been.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「it might as well have been」是双重否定——蜡像尸体和真正的尸体之间没有区别，因为两者都代表死亡。
 
 为什么这样写：这是 Ligotti 对「恐怖」本质的思考——真实与复制之间的边界在 Udolpho 已经溶解。
-
----
 
 ### 第3处：Valancourt 的纯真——「他们简单、日常的本质保持无损和完整」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最乐观的时刻，但它是短暂的——Valancourt 即将崩溃，显示「intact」只是一个假象。
 
----
-
 ### 第4处：梦中的喃喃——「秘密的事情」
 
 > **原句 4:** At night, however, Valancourt lies awake in bed, involuntarily eavesdropping on the things Emily unknowingly whispers in her sleep: secret things.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：艾米丽在梦中喃喃的「秘密」是她创伤的流露，Valancourt 不自觉地吸收了这些创伤，最终导致他的发疯。
 
----
-
 ### 第5处：发疯——「几个月后他就彻底疯了」
 
 > **原句 5:** After a few weeks of this, Valancourt is looking very haggard. In a matter of months he is hopelessly insane, and one day goes running off for parts unknown.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：「for parts unknown」是文学性的说法——他去了某个没有人知道的地方，这是逃避现实的终极形式。
 
 为什么这样写：Valancourt 的发疯是「传染性创伤」的极端版本——他吸收了艾米丽的创伤，导致他自己的崩溃。
-
----
 
 ### 第6处：Udolpho 的名字——「啊，是的……Udolpho」
 

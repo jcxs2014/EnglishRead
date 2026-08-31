@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Preston Penn 是 Alice 父亲创造的哲学理想的化身——拒绝接受现实的「秩序」，拥抱混乱的「half-world」。Alice 本人也在这条路上走了很远（酗酒、神经质的晚年），而 Halloween 夜是这条路的终点。
 
----
-
 ### 第2处：父亲的万圣节哲学——「Not tidy」
 
 > **原句 2:** "See, honey," he would say while rereading Through the Looking Glass to me, "see how smart little Alice right away notices that the room on the other side of the mirror is not as 'tidy as the one she just came from. Not as tidy? he repeated with professorial emphasis but chuckling like a child, a strange little laugh that I inherited from him. "Not tidy. We know what that means, don't we?"
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「Not tidy」是父女之间的密码——它意味着「reality is not orderly; chaos is the true nature」，这是 Preston 哲学的基础，也是 Alice 最终陷入的异界。
 
 为什么这样写：父亲通过 Lewis Carroll 传授给 Alice 的不是文学欣赏，而是对「不整洁」的拥抱——这种哲学使她后来创造 Preston Penn，也使她在晚年无法区分虚构与现实。
-
----
 
 ### 第3处：镜子中的尸体——「镜面起雾，出现一张苍白的尸脸」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇第一个真正的恐怖时刻——Alice 在清醒（微醉）状态下主动凝视镜子，却看到了尸体——这预告了 Halloween 夜的真实恐怖。
 
----
-
 ### 第4处：浴室事件——Sandal 的恐惧与「水中生物」
 
 > **原句 4:** Sandal was with me, lying atop the toilet tank and scrutinizing the waters of the bowl below. She was actually staring very hard and deliberately at something. I'd never seen a cat stare at its own reflection and have always been under the impression that they cannot see reflected images of themselves. But this one saw something. "What is it, Sandal?" I asked with the patronizing voice of a pet owner. Her tail had a life of its own; she stood up and hissed, then yowled in that horribly demonic falsetto of threatened felines.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：Sandal（猫）的反应先于 Alice——动物能感知人类感知不到的东西，Sandal 的恐惧是 Alice 即将看到的东西的预兆。
 
 为什么这样写：Sandal 是「另一个 Alice」的感知先锋——她能看到 Alice 看不到的东西（超自然存在），而 Alice 必须通过她的反应来间接感知危险。
-
----
 
 ### 第5处：万圣节图书馆——「低于正常视线的主持台」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：地下室是「below」的极致——它比正常地面更下，是异界入口的隐喻。两扇绿色大门相对而立，暗示某种仪式性的入口。
 
----
-
 ### 第6处：Jack-o'-lanterns——「同样的脸，同样的嘴」
 
 > **原句 6:** And for the first time I noticed that facing each other on opposite sides of the room were two rows of jack-o'-lanterns shining bright orange and yellow in the darkness. They all had identical faces—triangular eyes and noses, wailing O's for mouths— and could have been mirror reflections of themselves.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「镜子倒影」是全篇核心意象——Jack-o'-lanterns 是 Alice 自己的镜子版本，它们的同一性暗示 Alice 正在失去个体独特性，被 Preston 的「其他人」吸收。
 
 为什么这样写：Jack-o'-lanterns 是万圣节的标志——它们本应是「鬼脸」，却在这里变成了「镜子」——现实中的「假面具」（mask）与 Alice 脸上的「假面具」（她的作者身份）重叠。
-
----
 
 ### 第7处：阅读时的失神——「我自己的话，我不认识了」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Alice 身份危机的核心——她不再是「她」写的书的主人了，Preston 已经接管了那个身份，就像她父亲当年创造「Alice」这个角色一样。
 
----
-
 ### 第8处：反转的月亮——「写字只能通过镜子来读」
 
 > **原句 8:** Now, I have to confess that I'm not up on the lunar phases ("loony faces," as Preston might say), but there seems to have been a switch since I last peeked out the window—the thing looks reversed. Where it used to be concaving to the right, it's now comparing in that direction, last quarter changed to first quarter, or something of that nature.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：月相反转是「Not tidy」的实现——现实不再按照「tidy」的规则运转，月亮应该凸向的方位现在反了，暗示整个宇宙秩序都颠倒了。
 
----
-
 ### 第9处：Preston 的笑声——「Aaaaa ha-ha-ha-ha-ha」
 
 > **原句 9:** Aaaaa ha-ha-ha-ha-ha. Aaaaa ha-ha-ha-ha-ha.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：笑声的重复是全篇最恐怖的时刻——这个笑声在故事开头是 Preston 的声音，在此刻它不再是「书中的声音」，而是真实存在于走廊中的声音。
 
 为什么这样写：笑声是 Preston 从「角色」变成「实体」的临界点——Alice 再也无法用「这只是虚构」来安慰自己，笑声就在那里，在现实中。
-
----
 
 ### 第10处：最后的话——「我看不见了，救我，父亲」
 

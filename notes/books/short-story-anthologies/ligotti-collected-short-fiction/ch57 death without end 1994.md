@@ -135,18 +135,14 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | extrastellar | 星外的 | a subterranean or extrastellar phosphorescence |
 | cadaver | 尸体 | the flesh of the cadaver was in gauzy tatters |
 | perpetuity | （此处用 perpetual） | Late afternoon in a perpetual autumn |
-| incandescent | （可略） | — |
 | shroud | 裹尸布 | a pale shroud of a face |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | plump | 丰满的 | a plump, stuffed chair |
@@ -154,9 +150,7 @@ modified: "2026-08-30"
 | shrivelled | 皱缩的 | lips shrivelled to a powdery smudge |
 | gauzy | 纱状的 | the flesh of the cadaver was in gauzy tatters |
 | morose | 忧郁的 | Feeling somewhat morose |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | death | 死 | how it feels to be dead |

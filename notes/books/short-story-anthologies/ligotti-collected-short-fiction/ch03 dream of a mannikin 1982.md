@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：书信体格式暗示叙述者与收信人之间的权力/情感博弈。「long ago you had a doll」暗示情人曾对某人有类似的精神控制——Amy 只是最新猎物。
 
----
-
 ### 第2处：梦境背景——「换装模特」的奴役隐喻
 
 > **原句 2:** It appears that the duties of her new job require her to change the clothes of the mannikins in the front window, this according to some mysterious and unfathomable schedule. She in fact feels as if her entire existence is slavishly given over to doing nothing but dressing and undressing these dummies.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「换装」是高度性暗示的动作——给无生命的裸体穿衣/脱衣，暗示对他人身体的控制权。主人公被这个工作奴役，是她身份危机的核心。
 
 为什么这样写：梦中的「换装工作」是主角在清醒世界被情人（Dr. ——）操控的隐喻——她只是另一个被不断「换装」的娃娃，没有自主性。
-
----
 
 ### 第3处：梦中梦——「她不是 hers」的元叙事声明
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是弗洛伊德式梦理论的恐怖版本：梦中的主角意识到自己的意识是被设计的，不是「真正」属于自己的——揭示叙述者对情人「植入思想」能力的恐惧。
 
----
-
 ### 第4处：缺失的墙——「宇宙中迷失的点」
 
 > **原句 4:** There is a wall that from the floor to the lofty ceiling is completely missing. In place of the absent wall is a view of star-clustered blackness, which she sees either through a great window or irrationally in the depths of an equally great mirror.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「缺失的墙」与「镜子」并置，暗示现实与超现实的边界消解——墙是分隔内外世界的界限，缺失意味着边界消失。
 
 为什么这样写：「墙的缺失」是超现实主义绘画中的经典意象（de Chirico），Ligotti 用它表达主角所在的安全空间（非真实）正在被异界侵蚀。
-
----
 
 ### 第5处：不可转头的恐怖——「第三身」自视
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：这正是 Dr. —— 所研究的「other worlds」中「harassments of the self」的特征——超自然区域会破坏自我的统一性，让意识从内部被对象化。
 
----
-
 ### 第6处：「她正在做梦」——无处不在的标语
 
 > **原句 6:** The words "she is dreaming" somehow form a ubiquitous motif for the present situation: as a legend written somewhere at the bottom of the dream, as echoing voices bouncing here and there around the room, as a motto printed upon fortune cookie-like strips of paper and hidden in bureau drawers, and as a broken record repeating itself on an ancient Victrola inside the dreamer's head.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：多种媒介（文字/声音/印刷品/留声机）同时传达同一信息，渲染「她正在做梦」这个事实已渗透到感知的每个层面，无法逃脱。
 
 为什么这样写：这是元叙事的恐怖版——故事不断提醒主角她只是被书写的对象，剥夺她的主体感。
-
----
 
 ### 第7处：触摸嘴唇的手指——「像粗蜡笔」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：触觉意象是本篇最有力的恐怖工具——「温暖的手」本应亲密，却来自一个她无法看见的存在，且用于消音——这是最原始的强制沉默。
 
----
-
 ### 第8处：叙述者的噩梦——「变成我们的模样，甜心。死入我们」
 
 > **原句 8:** But people or dolls, their heads are all turned in my direction as I emerge from the bedroom, and their eyes shine in the white darkness. Frozen—yes, with terror—I merely return a fixed gaze, for some reason wondering if my eyes are shining the same as theirs. Then one of the doll people, slouching against the wall on my near left, turns its head laboriously upon a stiffened neck and looking upward speaks to me. Its voice is an horrific cackling parody of speech, but even more horrible are its words. It says: "Become as we are, sweetie. Die into us."
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇的核心恐怖：个体意识被集体吸收。叙述者被自己的噩梦说服——这是 Dr. —— 的「influence」造成的，噩梦是她的思想病毒的结果。
 
----
-
 ### 第9处：情人的「区域」理论——「宇宙静态」
 
 > **原句 9:** Why posit these "little zones," as I've heard you call them, having such hideous attributes, or should I say anti-attributes (to keep up with your lingo). To whimsically joke about them, as I've heard you do, with phrases like "pockets of interference" and "cosmic static," belies your talents as a thinker in general.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：引号词（"little zones", "pockets of interference", "cosmic static"）是情人 Dr. —— 的专业术语，叙述者在模仿/引用时带着轻蔑，显示他对超自然理论的理性主义抵制。
 
 为什么这样写：这是叙述者对情人理论的显式抵制，但全篇梦境叙述本身就是「zones」理论的实例——他的抵制越强烈，说明她的影响越深。
-
----
 
 ### 第10处：最后的恳求——「只有第一和第二人称重要」
 
@@ -177,11 +159,6 @@ modified: "2026-08-30"
 | oneiric aphasia | 梦魇性失语症（梦中无法组织语言） | afflicted with some kind of oneiric aphasia she cannot articulate any words… |
 
 | uncanny | 诡异的（弗洛伊德式） | …zones of the metaphysically flayed self… the uncanny… |
-| benighted | 被黑暗笼罩的；愚昧的（此处双关：喝醉） | Day was benighted by several exotic drinks… |
-| chromatic integrity | 色彩完整性 | This strange radiance contrasts with but does not threaten the chromatic integrity… |
-| precipitate | 促使、加速（此处指唤起记忆） | …precipitate a conscious recollection… |
-| scrutinize | 仔细审视 | She sat on the sofa, scraping her lower lip with a nervous forefinger. |
-| exculpate | 开脱、使无罪 | This was my feeble attempt to exculpate my creation… |
 | divine masochism | 神圣受虐狂（情人Dr.的理论） | …the most repellent concept you've developed… divine masochism… |
 | a score of | 许多的（score = 20） | …in a score of ambiguous, half-hesitant ways. |
 

@@ -117,7 +117,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
@@ -126,9 +126,6 @@ modified: "2026-08-30"
 | freakshow | 怪胎秀 | a 'one-man artistic and philosophical freakshow' |
 | metamorphic | 变形的、蜕变的 | his metamorphic recovery |
 | obfuscation | 混淆、遮掩 | Words are a total obfuscation of the most basic fact |
----
----
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句（原文） |
@@ -138,8 +135,6 @@ modified: "2026-08-30"
 | conspiracy | 阴谋 | An Investigation into the Conspiracy against the Human Race |
 | gastrointestinal | 胃肠的 | a severe gastrointestinal disorder |
 | abysmal | 深渊的、可怖的 | the nucleus of the abysmal |
----
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |

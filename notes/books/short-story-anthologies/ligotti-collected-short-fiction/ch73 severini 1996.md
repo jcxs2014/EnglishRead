@@ -117,7 +117,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
@@ -126,9 +126,6 @@ modified: "2026-08-30"
 | illicit | 非法的、禁制的 | the illicit practice |
 | spectacle | 奇观、景观 | the spectacle of Severini |
 | sympathetic | 共感的、同频的 | You and Severini are sympathetic organisms |
----
----
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句（原文） |
@@ -138,15 +135,12 @@ modified: "2026-08-30"
 | exhibits | 展品 | Exhibits from the Imaginary Museum |
 | tropical | 热带的 | a tropical sewer |
 | emerged | 涌现、浮现 | that great black life from which we have all emerged |
----
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
 | shack | 棚屋 | Severini's shack |
 | face | 脸 | The face of Severini appeared at the shack |
-| night | 夜 | on a rainy night |
 | life | 生命 | that great black life |
 
 ---

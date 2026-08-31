@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：女教师的「奉献」有两个对象：孩子们和 Harley Street 的男人。但她的最终目标是后者——孩子们只是工具。
 
----
-
 ### 第2处：Bly 的恐怖——「两个前雇员的鬼魂」
 
 > **原句 2:** The governess now writes of the horrors at Bly: how the ghosts of two former retainers, Miss Jessel and Peter Quint, are trying to possess the souls of the children and through them perpetuate the unholy romantic alliance that this notorious twosome carried in life.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「unholy romantic alliance」暗示 Miss Jessel 和 Peter Quint 之间的关系是通奸或乱伦——这增加了故事的禁忌感。
 
 为什么这样写：Ligotti 的 Bly 版本保留了 Henry James《螺丝在拧紧》的核心冲突——但 Ligotti 更明确地指出了「不圣洁的浪漫联盟」，使性元素更加突出。
-
----
 
 ### 第3处：女教师的胜利——「她征服了她的恐惧」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 在这里暗示女教师的「保护」可能是过度和有害的——她的坚定信念本身可能是危险的一部分。
 
----
-
 ### 第4处：两个面孔——「昆特的脸和女教师的脸」
 
 > **原句 4:** Inside the house Miles is standing fixed with fear when the governess comes to collect him. Staring at him through the paned windows of a pair of French doors is the face of Quint, while hovering over him is the face of the governess, and each is making a bid for the boy's soul.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最黑暗的时刻——女教师不是在与鬼魂战斗，而是在与鬼魂竞争。她的「爱」和鬼魂的「恶」都是对孩子的威胁。
 
----
-
 ### 第5处：Miles 的死亡——「他的心脏停止跳动」
 
 > **原句 5:** But Miles' soul is already shattered beyond repair, wrecked. Tragically the ensuing struggle causes his heart to stop beating. He lies dead in the arms of the governess.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：「in the arms of the governess」是讽刺——她试图保护他，但她的「保护」导致了他的死亡。
 
 为什么这样写：Miles 的死亡是对女教师「奉献」的最终反讽——她对他的爱毁灭了他。
-
----
 
 ### 第6处：「但 Harley Street 的男人永远不会来」
 

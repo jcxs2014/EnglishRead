@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：outsider 是「局外人」的原型——他不知道他是谁，从哪里来，为什么住在地下。
 
----
-
 ### 第2处：月光引导——「他从未真正见过的发光的月亮」
 
 > **原句 2:** One night the outsider emerges from his underground domain and, guided solely by the glowing moon he has never really seen before, scrambles down a dark road, searching for friendly lights and, he hopes, friendly faces.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「he has never really seen before」暗示 outsider 之前可能在某种恍惚或睡眠状态下见过月亮，但这是他第一次「真正」看到。
 
 为什么这样写：月亮是 outsider 与外部世界的第一个接触点——它既是希望也是危险的象征。
-
----
 
 ### 第3处：被尖叫着逃避——「每个人一看到 outsider 就尖叫着逃跑」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：outsider 寻找「友好的面孔」，却发现他的外表是恐惧的根源——这种「被拒绝」是他的疏离的核心。
 
----
-
 ### 第4处：镜子回答——「那是你」
 
 > **原句 4:** "What was it?" he asks himself, posing the question over and over with seemingly infinite repitition before finally collecting wits to squint a little to one side. "What was it?" he asks for the infinite time add one or two. "It was you," answers the mirror. "It was you."
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「It was you」是镜子对 outsider 问题的回答——镜子揭示了「那是什么」的真相： outsider 自己的倒影是「怪物」。
 
 为什么这样写：这是全篇最有力的时刻——outsider 在镜子里看到了自己，他的问题「那是什么」的答案是「那是你」。
-
----
 
 ### 第5处：返回地下的决定——「他不应该离开的那个地下 envelope」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：outsider 的选择是「回归」——他意识到他的「出生权利」在地下，不在地上。
 
----
-
 ### 第6处：世界末日——「所有活着的东西都被荒凉所窒息」
 
 > **原句 6:** A senile sun throbs with deadly dimness, and every living thing on the face of the land has been choked by desolation and by an equivocal gloom which has perhaps already lasted millenia, if not longer.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「senile sun」是拟人化的世界末日意象——太阳已经衰老，失去了能量。
 
 为什么这样写：这是 outsider 第二次回到地面时发现的情景——世界在他不在的时候已经毁灭了。
-
----
 
 ### 第7处：outsider 的永恒孤独——「没有人在外面了」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最悲伤的陈述——如果没有人被排斥，就不存在「outsider」的身份。outsider 的存在是社会性的。
 
----
-
 ### 第8处：最终的爆发——「他聚集了他存在的中心的所有力量」
 
 > **原句 8:** In the middle of this revelation, a feeling begins to well up in the outsider, an incalculable sorrow deep inside. From the center of his being (which now is the center of all being that remains in existence) he summons a suicidal outburst of pain whose force shatters his rotting shape into innumerable fragments.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 outsider 的「终极行为」——他不是被动地接受孤独，而是主动地用他的死来创造新的生命。
 
----
-
 ### 第9处：太阳的复活——「遥远的太阳被温暖和光线的输血所复活」
 
 > **原句 9:** Catastrophically enough, this antic, designed to conclude universal genocide, gives off such energy that the distant sun is revived by a transfusion of warmth and light.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：「transfusion」是医学术语——太阳的复活像是一次输血，outsider 的死亡能量输给了太阳。
 
 为什么这样写：这是 Ligotti 的宇宙乐观主义结尾——即使在最黑暗的毁灭之后，也有复兴的可能性。
-
----
 
 ### 第10处：新生命的诞生——「永远不知道他们起源的新的生命」
 

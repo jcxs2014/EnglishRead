@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Thurston 完成手稿后的哭泣是他无法分享他的知识的绝望表达——他必须独自承受这个可怕的真相。
 
----
-
 ### 第2处：Gammell Angell 的传承——「考古学和人类学的发掘」
 
 > **原句 2:** Prof. Thurston is the nephew of George Gammell Angell, also a professor (at Brown U., Providence, PJ), whose archaeological and anthropological unearthings led him, and after his death led his nephew, to some disturbing conclusions concerning the nature and fate of human life, with implications universal even in their least astounding aspects.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对 Lovecraft 的直接引用——《克苏鲁的呼唤》中的角色安吉尔教授的侄子。
 
 为什么这样写：Thurston 继承了安吉尔的知识，但这是一种诅咒，不是礼物。
-
----
 
 ### 第3处：邪教的普遍性——「北极的退化爱斯基摩人、新英格兰海港的退化白人」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 模仿 Lovecraft 的风格，包括他的种族主义偏见——这是一种批判性的模仿，不是认同。
 
----
-
 ### 第4处：Great Old Ones 的漠不关心——「这些生物本身对人类的价值类别是漠不关心的」
 
 > **原句 4:** These beings are as detestably inhuman as humanly imaginable, though no more so. From the common individual's viewpoint their nature is one of supreme evil and insanity, notwithstanding that the creatures themselves are indifferent to, if not totally unaware of, such mundane categories of value.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：Great Old Ones 对人类价值观的漠不关心是全篇的核心——它们的「邪恶」只是人类的投射，它们本身没有道德感。
 
 为什么这样写：这是 Ligotti 对 Lovecraft 宇宙观的哲学思考——宇宙不在乎人类的价值观。
-
----
 
 ### 第5处：Thurston 的无间地狱——「他比世界上任何生物都痛苦」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：知识本身就是一种诅咒——Thurston 知道真相后，他无法再享受正常的美。
 
----
-
 ### 第6处：学生的爱——「他可以看到她真的在乎」
 
 > **原句 6:** The professor glances up at the girl. After only the briefest gaze into her eyes he can see that she really cares.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「她真的在乎」是 Thurston 找到的第一个真正的人类连接——他的知识让他与正常人隔绝，但这个女人突破了这个障碍。
 
 为什么这样写：这是全篇最温暖的时刻——Thurston 在绝望中找到了一线希望。
-
----
 
 ### 第7处：蜜月的理性化——「他几乎成功地将可怕的知识理性化为不存在」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Thurston 的「最后一次尝试」来合理化他的知识——他想相信人类的美好足以抵消宇宙的恐怖。
 
----
-
 ### 第8处：拍照——「他爱她，但他她的天真正在撕裂他」
 
 > **原句 8:** He loves her dearly, but her innocence is tearing him apart. How long can he conceal the terrible things he knows about himself, about her, and about the world?
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：Thurston 无法向他的妻子透露真相，因为她的天真是他爱她的原因，也是他痛苦的原因。
 
----
-
 ### 第9处：最后一夜——「新主人已经在夜里来到他们选定的城市」
 
 > **原句 9:** "The new masters have come in the night to their chosen city. Have you dreamed of them?" There passes a moment of silence.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：这是全篇最黑暗的揭示——Thurston 的妻子是邪教成员，她一直在等待这一刻。
 
 为什么这样写：Thurston 以为他找到了救赎，但他只是被邪教更深入地吸收了。
-
----
 
 ### 第10处：「他用疯子或野兽的长时间被抛弃的咆哮回答」
 

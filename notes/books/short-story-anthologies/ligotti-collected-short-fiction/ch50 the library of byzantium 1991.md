@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | labyrinthine | 迷宫般的 | a labyrinthine layering of systems |
@@ -143,19 +143,14 @@ modified: "2026-08-30"
 | petrified | 石化的 | a visage petrified into spectral stone |
 | unarticulated | 未言明的 | unarticulated narratives of a certain kind |
 | prodigious | 惊人的、巨大的 | the monstrously dense and prodigious layers of that book |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | homily | 讲道、训诫 | that collection of sermons, of prayers and homilies |
 | incantation | 咒语、吟诵 | the incantations of a dead language |
 | visage | 面容、面貌 | a visage grown rigid at the sight of unimaginable horrors |
 | absconded | 潜逃、消失 | the three figures had absconded to their refuge of shadows |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | book | 书 | the law of the book is broken |

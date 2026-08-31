@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Mr. Jacob 的「当然，我什么都知道」是他的理性主义傲慢——他认为自己知道吸血鬼只是胡说，但这正是他即将被吸血鬼式恐惧所困扰的开始。
 
----
-
 ### 第2处：深夜的觉醒——「他似乎第一次注意到这一切」
 
 > **原句 2:** That night Mr. Jacob can't sleep. He knows this business with the vampire is just nonsense, but in the middle of the night certain things can get on your nerves that normally you wouldn't think twice about. He drags himself out of bed and opens the only window in his room. How quiet everything is at this hour. Somehow it seems as if he's just noticed this for the first time.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：深夜打开窗户是全篇的转折点——Mr. Jacob 开始「注意」他平时忽略的东西。这种「注意」是吸血鬼恐惧的开始。
 
 为什么这样写：Ligotti 在这里展示了理性主义者在面对「深夜的未知」时的脆弱——理性无法抵御黑暗本身。
-
----
 
 ### 第3处：验尸官的确认——「他无法准确指出」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：吸血鬼的存在被「证实」了，但 Mr. Jacob 无法准确指出他的「感觉」是什么——这种不确定性是恐惧的根源。
 
----
-
 ### 第4处：十字架守夜——「每个小动作他都会惊醒」
 
 > **原句 4:** Tonight Mr. Jacob is taking no chances. He sits by the sole window in his room hour after hour with a large crucifix across his lap. Every little while he forgets himself and dozes off, but each time he manages to startle his mind back to alertness with just one thought about the vampire.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：Mr. Jacob 的「预防措施」变成了他的折磨——他用恐惧来对抗恐惧，结果只是加深了恐惧。
 
----
-
 ### 第5处：血液——「在语法课中间咳血」
 
 > **原句 5:** Many more bodies are found drained of blood. Mr. Jacob hasn't had a decent rest since this terrible season of death began. All night long he sits gazing deep into the darkness beyond that idiotic little window. And he's smoking too much. One day he coughs up some blood into his hand—right in the middle of a grammar lesson!
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：「idiotic little window」是 Mr. Jacob 对窗户的称呼——他知道窗户是他偏执的焦点，但他仍然无法离开它。
 
 为什么这样写：咳血是 Mr. Jacob 身体崩溃的信号——他的偏执正在杀死他，就像吸血鬼一样。
-
----
 
 ### 第6处：坠落——「他开始喝很多酒」
 
@@ -135,6 +125,26 @@ modified: "2026-08-30"
 | to gaze into the darkness | 凝视黑暗 | All night long he sits gazing deep into the darkness… |
 | to lose one's balance | 失去平衡 | Mr. Jacob lost his balance and fell onto the street far below. |
 | an unfortunate mishap | 一个不幸的意外 | An unfortunate mishap… |
+
+---
+
+
+### 第7处：吸血鬼离开后——「他几周来第一次打开窗户」
+
+> **原句 7:** The next day there is good news. The vampire has moved on, everyone is safe once more. Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring. Children are singing for joy in the street. He suddenly closes the window and turns back toward his little room.
+
+中文理解：第二天有好消息。吸血鬼离开了，每个人又安全了。雅各布先生在一个早春的晴朗早晨，几周来第一次打开窗户。孩子们在街上欢快地唱歌。他突然关上了窗户，转身回到他的小房间。
+
+句子结构：The next day there is good news 是主句；The vampire has moved on, everyone is safe once more 是并列句；Mr. Jacob opens his window for the first time in weeks on a radiant morning in early spring 是并列主句；Children are singing for joy in the street 是并列句；He suddenly closes the window and turns back toward his little room 是并列句。
+
+关键词：for the first time in weeks（几周来第一次）、a radiant morning in early spring（早春的晴朗早晨）、singing for joy（欢快地唱歌）
+
+表达方式：这是 ch16 的结尾，但它与 ch17 的暴力场景形成对比——Jacob 关闭窗户回到他的小房间，象征着他对外部世界的拒绝。
+
+为什么这样写：这个结尾是全书的结构技巧——Ligotti 把 ch16 和 ch17 的结尾并置，创造了「安全」与「毁灭」的反差，暗示不同的角色走向不同的命运。
+| to open one's window | 打开窗户 | Mr. Jacob opens his window for the first time in weeks… |
+| to sing for joy | 欢快地唱歌 | Children are singing for joy in the street. |
+
 
 ---
 

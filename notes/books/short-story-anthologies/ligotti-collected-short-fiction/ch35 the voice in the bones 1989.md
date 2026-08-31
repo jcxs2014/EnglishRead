@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「异化」的描绘——在监狱塔楼中，每一个形状都在吞噬另一个形状，形成一个无限的复制和变异链。
 
----
-
 ### 第2处：声音——「一个声音在低语」
 
 > **原句 2:** "Listen," the voice said. "Are you listening now? I am also a prisoner, but it is not the same for me. Things have changed in this place. I know that you wonder about those ones who brought you here, and about other things."
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：声音不是来自外部，而是来自「骨骼」——一种由物质和意识混合的存在。
 
 为什么这样写：这是 Ligotti 对「孤独」的描绘——在这个监狱塔楼中，即使是囚禁者也是囚禁者，他们都是「骨骼中的声音」的囚徒。
-
----
 
 ### 第3处：阴影的本质——「阴影是真实的，骨骼只是它们的 pale 影子」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「物质与精神」关系的颠覆——不是精神依赖于物质，而是物质依赖于精神。
 
----
-
 ### 第4处：堕影伸骨——「阴影寻找他的骨骼，他感到他的骨骼延伸到黑暗中」
 
 > **原句 4:** And now the stairs descended only into blackness, a blackness that was rising into the room as a great shadow around him. Shadows and their blackness and the voices they possessed. The one who had dreamed of bones and shadows—bones and shadows together—spoke in these voices and knew the name to speak, the name that would flay the flesh, the true name that called its bearer into the shadows as folds of blackness fell upon him and wrapped him in their shroud.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：这是全篇的高潮——阴影不再是隐喻，而是实际的实体，它们「包裹」主角，就像裹尸布一样。
 
 为什么这样写：这是 Ligotti 对「同化」的最终描绘——主角最终被阴影所同化，变成了「骨骼中的声音」的又一个声音。
-
----
 
 ### 第5处：骨与影的契约——「骨和影的集合，影与骨的结合」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「恐怖」类型的最终重新诠释——恐怖不是关于身体的破坏，而是关于身体被精神所同化。
 
----
-
 ### 第6处：被遗弃的图书馆——「长书架上排列着无数本书，几乎没有被稀疏地支撑着」
 
 > **原句 6:** Wide and lofty cabinets seemed to waver, barely settled upon the uneven floor. The straight lines of tall shelves took on a slight tilt and threatened to disgorge the countless books so tenuously supported there.
@@ -102,8 +92,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「知识」或「历史」的描绘——不是稳定的积累，而是处于持续的崩塌和瓦解状态。
 
----
-
 ### 第7处：最终的召唤——「现在他们召唤他，现在他在他们身边」
 
 > **原句 7:** Now they had summoned him, now he was with them. Things had changed yet everything continued as before. And he cried out as the shadow sought his bones and as he felt his bones reaching into the blackness.
@@ -117,8 +105,6 @@ modified: "2026-08-30"
 表达方式：这是主角被同化的最后阶段——不是他进入阴影，而是阴影进入他，同时他的骨骼延伸到阴影中。
 
 为什么这样写：这是 Ligotti 对「边界渗透」的描绘——主角和阴影之间的界限完全崩溃，他们变成了同一个存在。
-
----
 
 ### 第8处：最后的形象——「但那不再是他自己的声音，而是奇怪尖叫群体的回响」
 

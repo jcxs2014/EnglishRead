@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Jekyll 用「科学」来合理化他对 Hyde 的处置——他不是要「杀死」Hyde，而是要「溶解」他，这是一种心理距离化。
 
----
-
 ### 第2处：海德被 rendered innocuous——「野兽性的残留影响」
 
 > **原句 2:** Dr. Jekyll can see that Hyde's ferocious being has been rendered innocuous and tame, the lingering effects, no doubt, of his debauched life.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「rendered」是被动语态的使役形式——Hyde 被「被弄得」无害，不是他自己的选择。
 
 为什么这样写：Hyde 的「无害化」是 Jekyll 改造实验的副产品——但「tame」（驯服）暗示 Hyde 仍然是某种动物，只是被控制了。
-
----
 
 ### 第3处：「我正好有东西」——喂毒
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Jekyll 的「cradling」与「forcing」之间的张力——他一边「温柔地」托着 Hyde 的头，一边强迫他喝下毒药。
 
----
-
 ### 第4处：毒发——「扭曲的痉挛」
 
 > **原句 4:** Then Dr. Jekyll backs away and watches Hyde being overtaken by wrenching convulsions from the poison he has unwittingly ingested.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：Jekyll 观看 Hyde 死亡的过程——这个场景把他的「科学家」身份和他的「谋杀者」身份并置。
 
----
-
 ### 第5处：女访客——「一位年轻女士找海德先生」
 
 > **原句 5:** "Dr. Jekyll, sir, there's a young lady here asking for Mr. Hyde. What should I tell her?"
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：女士来找 Hyde——这暗示 Hyde 在 Jekyll 不知情的情况下与一位女士有来往，打破了 Jekyll 对 Hyde 的完全控制。
 
 为什么这样写：Jekyll 刚刚「处理掉」Hyde，就有人来找他——这讽刺性地暗示 Hyde 有一个 Jekyll 不知道的生活。
-
----
 
 ### 第6处：「他会喝他所能得到的任何东西」
 

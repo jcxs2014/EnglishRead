@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇的核心悲剧——杀死 Lawrence 的人是他爱的人，也是爱他的人。这是「仁慈的谋杀」。
 
----
-
 ### 第2处：猎人的误解——「他从来没有碰过这个女人」
 
 > **原句 2:** A tall man in a tweed sportcoat puts his arms around the woman. "Don't worry, he can't harm you anymore," the tall man says to her. But the wolfman never even touched the woman to begin with. Literally.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「Literally」是插入的强调——它强调 Lawrence 从来没有攻击过这个女人，狩猎队的假设是错误的。
 
 为什么这样写：Lawrence 被描绘成 monster，但实际上他从来没有伤害过这个女人。这种误解是他的悲剧的核心。
-
----
 
 ### 第3处：狼人的月光诅咒——「他知道他的人生已经结束」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：Lawrence 的诅咒不是变成狼人，而是「知道」自己变成了什么。这种自我认知的羞耻是他无法承受的。
 
----
-
 ### 第4处：承诺——「我承诺」
 
 > **原句 4:** "I promise," she said solemnly, though she understood neither the promise itself, nor the solemnity with which she uttered it.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：Lawrence 要求她承诺把他埋在庄园的墓室里，但她的承诺没有意义——她不理解这个承诺的重量。
 
----
-
 ### 第5处：狼人的听觉——「能听到她的声音，却无法回应」
 
 > **原句 5:** Lawrence Talbot wanted to know he would still be close to this woman after his death. But he never imagined that he would also be able to hear her voice, and other voices, while unfortunately being unable to respond.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：Lawrence 的「死后愿望」有两个层面——物理上的接近（埋在庄园）和听觉上的联系。但第二个愿望以悲剧的方式实现：他能听到，但无法回应。
 
 为什么这样写：这是全篇最残酷的细节——Lawrence 将在死后「听到」他的爱人来访，但无法与她交流。这种存在的折磨是他的最终诅咒。
-
----
 
 ### 第6处：潮湿的柴火——「被某种野兽的油腻口水浸湿」
 

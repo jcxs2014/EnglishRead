@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | necropolis | 死者之城、大墓城 | the ideal of the necropolis appears to be annihilation |
@@ -143,10 +143,7 @@ modified: "2026-08-30"
 | genesis | 创世、始源 | the outcome will be the same: a new genesis |
 | consecrating | 祝圣、献祭 | consecrating earthly objects that in their decrepitude |
 | substrata | 下层基底 | beneath lie the wavering substrata |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | decrepitude | 衰朽 | in their decrepitude have attained a divine status |
@@ -154,9 +151,7 @@ modified: "2026-08-30"
 | effacing | 抹消 | things are effacing or disguising their existence |
 | revivification | 复活、复生 | Preceding the moment of revivification |
 | inviolable | 不可侵犯的 | their only inviolable birthright |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | mystery | 神秘 | Where ultimate knowledge is denied, mystery must rule |

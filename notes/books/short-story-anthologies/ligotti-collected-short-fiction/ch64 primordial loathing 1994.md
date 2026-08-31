@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「梦境边界渗透」的描绘——梦境不是封闭的系统，外部的存在可以进入。
 
----
-
 ### 第2处：史前的伊甸园——「这个 dull slab 是涌动海洋的王座」
 
 > **原句 2:** "If only you could gaze with me from this mere rock, this dull slab which is yet a throne to roiling seas and to the mist which veils a rustling paradise."
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是蜥蜴向「我」描述的「史前伊甸园」——不是传统意义上的天堂，而是一个充满原始力量的世界。
 
 为什么这样写：这是 Ligotti 对「原始自然」的描绘——不是一个理想的、和平的自然，而是一个充满涌动力量和雾气的世界。
-
----
 
 ### 第3处：海怪——「在那翻涌的水下——一个昏暗怪兽世界的缓慢强烈音乐」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「未知恐惧」的典型描绘——深海代表了我们意识中最深处的恐惧，那里充满了未知的、 monstrous 的东西。
 
----
-
 ### 第4处：无辜的希望——「这个神圣的世界无辜于希望」
 
 > **原句 4:** "O fallen beast, if only you could see all this through my lidless eyes, this sacred world innocent of hope, how willingly you would then follow the death of all your empty dreams."
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「悲观主义」的最终陈述——希望是空洞的，超越希望才是真正的自由。
 
----
-
 ### 第5处：对史前世界的蔑视——「我蔑视你的雄辩和你的世界」
 
 > **原句 5:** "I scorn your eloquence and your world, the poetry of a living oblivion, and now seek a simpler style of annihilation."
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：这是「我」醒来后对蜥蜴的回应——不是被它的世界所吸引，而是蔑视它，并寻求一种「更简单的」结局。
 
 为什么这样写：这是 Ligotti 对「人类骄傲」的描绘——即使面对神圣的史前世界，人类仍然拒绝谦卑，而是寻求自己的道路。
-
----
 
 ### 第6处：永恒的嘲笑——「它将在所有潮湿的历史夜晚嘲笑和疯狂」
 

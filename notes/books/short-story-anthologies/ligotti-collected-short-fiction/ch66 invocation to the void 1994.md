@@ -135,28 +135,21 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | invocation | 召唤、祷唤 | Invocation to the Void |
 | taut | 紧绷的 | his forehead taut |
 | mimic | 模仿 | These worlds merely mimic my own |
 | bloodless | 无血的 | A beautiful, bloodless white |
-| necropolis | 死者之城（见 ch67） | — |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | withered | 凋萎的 | Worlds bloomed and withered |
 | flourished | 繁盛 | flourished and decayed |
 | howling | 嗥叫的 | the howling wind heard |
 | sticky | 黏湿的 | buried him in that sticky earth |
-| effacing | （可略） | — |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | candle | 烛 | Five candles burned the whole time |

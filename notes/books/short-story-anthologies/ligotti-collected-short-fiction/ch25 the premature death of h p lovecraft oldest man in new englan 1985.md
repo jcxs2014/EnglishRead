@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 在这里哀悼 Lovecraft 的死亡，同时暗示他的死亡本身就像他写的一个故事——没有人在场，表面上没有意义。
 
----
-
 ### 第2处：护士的发现——「他死了，这是不可避免的」
 
 > **原句 2:** Two nurses come to look in on the gentleman in the private room and are the first to discover that he has, not unexpectedly, passed away. They have already seen death many times in their nursing careers, though they're still quite young, and neither is alarmed. They know nothing can be done for the dead man.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「not unexpectedly」是讽刺——护士对 Lovecraft 的死亡毫不惊讶，因为死亡对她们来说是日常工作。
 
 为什么这样写：护士的冷漠是全篇的对比——她们对 Lovecraft 的死亡无动于衷，但 Lovecraft 的死亡可能是他最伟大的故事。
-
----
 
 ### 第3处：打开窗户——「屋里太闷了」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对 Lovecraft 死亡的「日常化」处理——他的死亡被降格为医院例行公事。
 
----
-
 ### 第4处：「确实是」——三月中旬的清爽微风
 
 > **原句 4:** "Sure is," replies the other. A crisp mid-March breeze freshens the room.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：三月中旬的微风与 Lovecraft 的死亡形成对比——世界继续运转，不管有没有 Lovecraft。
 
----
-
 ### 第5处：「他绝对不是那种适合做丈夫的人」
 
 > **原句 5:** "Do you remember if he had a wife or anybody that visited him?" The other nurse shakes her head negatively, then adds: "Are you kidding! He's not exactly the husband type. I mean, just take a look at that face."
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：护士对 Lovecraft 外表的评价是全篇最残忍的细节——即使在他死后，他的外表仍然被认为是「不适合做丈夫的」。
 
 为什么这样写：这是 Ligotti 对 Lovecraft 作为「孤独者」身份的强化——即使在死后，他仍然是孤独的，被排除在正常人类关系之外。
-
----
 
 ### 第6处：死后的微笑——「他轻轻地朝她们微笑」
 

@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：旧妇人的评价揭示了「外表」的局限性——即使戴着漂亮面具，本质仍然能被感知。这是全篇关于「内在 vs 外表」主题的早期声明。
 
----
-
 ### 第2处：从温柔艺术家到 sadistic demon artist
 
 > **原句 2:** He, however, escaped, though in a badly disfigured condition, and from that day on he was mentally deranged, a sadistic demon artist who every so often submerged young women in vats of boiling wax and afterward displayed them for profit.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是一个经典的「 Jekyll & Hyde」转变——温柔的艺术家变成了残忍的恶魔。但 Ligotti 暗示这种转变是对不公正的反应（被欺骗、被烧毁）。
 
 为什么这样写：魅影的「恶魔化」是对社会不公正的回应——被骗、被烧、毁容——这种「因痛苦而变成怪物」的主题贯穿 Ligotti 的所有哥特仿作。
-
----
 
 ### 第3处：最后一刻的纯真记忆——「他记得他是谁」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最人性化的时刻——在死前，魅影记起了他曾经是谁。这种「记起」是救赎性的，尽管太晚了。
 
----
-
 ### 第4处：Marie Antoinette——「他几小时前完成的美丽蜡像」
 
 > **原句 4:** But at the moment of his death the fortunate phantom of the wax museum could remember only one girl: his beautiful Marie Antoinette, which he'd finished a few hours ago, or so it seemed, and which he knew he would never see again.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：Marie Antoinette 是魅影作为「温柔艺术家」时代的最后遗物——他创造的美丽东西，现在成了他死亡时刻的唯一记忆。
 
----
-
 ### 第5处：「如果这个世界有正义」——「那个怪物将永沸」
 
 > **原句 5:** "If there's any justice in this life, that monster'll boil for eternity. He killed at least five lovely girls!"
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：侦探的话是全篇的「道德裁决」——但它是在魅影已经死了之后说的，没有实际的法律后果。
 
 为什么这样写：这是 Ligotti 对「正义」的悲观观点——正义只是言辞，永远无法弥补已经发生的罪行。
-
----
 
 ### 第6处：正义的讽刺——「永沸」
 

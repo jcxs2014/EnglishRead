@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：节日的本质是「化妆」——真实被伪装所替代。但 Ligotti 暗示在节日衰退期，真实本身已经消失，只剩下等待被填充的空白。
 
----
-
 ### 第2处：废弃物的诗意——「帽子无脑，脸无面目」
 
 > **原句 2:** Reliquiae of the hatless, the faceless, the tediously groomed. And Noss passes it all by with no more, if no less, than a glance.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「Reliquiae」是拉丁语词汇，暗示这些废弃物是某种文明遗迹。「无帽者、无面者、乏味打扮者」是三种被剥夺了身份的人的集合名词。
 
 为什么这样写：这些「遗物」是节日衰退期的产物——人们在节日中投入了太多，最终失去了自己的身份，只剩下「帽子无脑、脸无面目」的空壳。
-
----
 
 ### 第3处：空间压缩——「星星在屋顶和塔之间挤压它们刚毛般的光」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：空间压缩是「节日进入高峰期」的表现——人们在小空间里聚集，能量密度增加，连星星都被挤到边缘。
 
----
-
 ### 第4处：面具的完美贴合——「从发际线到下巴，没有更远」
 
 > **原句 4:** "You see how your entire face is well-covered, from the hairline to just beneath the chin and no farther. And at the sides it clings snugly. It doesn't pinch, am I right?" The mask nods in agreement.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「面具点头」是超现实的——面具没有生命，却能点头。这是面具商店的「魔法」时刻，面具开始获得某种主动性。
 
 为什么这样写：完美的贴合是面具商店的卖点——但当面具开始自己点头时，「贴合」变成了「融合」的前奏。
-
----
 
 ### 第5处：不合适的面具——「重量太重，表面是奇怪的凹凸」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：Noss 选择「合适」的面具，但后来发现真正的恐怖在于那些「不合适」的面具——它们才是通往「更大盛会」的入口。
 
----
-
 ### 第6处：门后的人——「请带五个面具到篱笆的另一边」
 
 > **原句 6:** "Please bring five of those masks to the other side of the fence. That's where we are now. There's a fire, you'll see us. Well, can you do this or not?"
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：门外的人需要「五个」面具——这是一个仪式性的数字，暗示某种集体性的活动，与 Noss 个体的选择形成对比。
 
 为什么这样写：Noss 的「善意」被利用——他帮助陌生人，却被引导去执行一个他不知道目的的行动。这是「面具规则」的运作方式：一旦你进入节日，你就必须遵循它的逻辑。
-
----
 
 ### 第7处：面具脱落——「光滑的、无面的脸」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是「更大的盛会」的开始——当面具不再需要人时，真正的节日才开幕。四个光滑无面的脸暗示「人」已经被「面」所取代。
 
----
-
 ### 第8处：Noss 的理解——「那些面具对他们来说已经没用了」
 
 > **原句 8:** For he has gained a glimpse of the speaker in the shadows and now understands why those masks are no good to them now. Once inside the shop, Noss leans upon the long counter to catch his breath.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：Noss 的理解来得太晚——他已经被卷入节日的逻辑，无法退出。
 
----
-
 ### 第9处：新面孔的生长——「新的面孔从旧肉中破壁而出」
 
 > **原句 9:** But the light of the fire now shines on four, yes four, smooth and faceless faces. These faces are horribly simple; they have no expression at all, or very slight expressions and ones that are strange. But they are finding their way back, little by little, to a familiar land of faces. And the process, if the ear listens closely, is not an entirely silent one. Perhaps this is how a garden would sound if it could be heard growing in the dead of night.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：「花园生长的声音」是 Ligotti 的原创性比喻——面孔的生长是某种植物性的过程，暗示身份是「种植」出来的，而非内在的。
 
 为什么这样写：这是全篇最黑暗的意象——人的面孔是外加的，是「生长」出来的，而不是「是」。真正的「自我」根本不存在。
-
----
 
 ### 第10处：结尾——「旧的面具将找到值得怀念的东西」
 

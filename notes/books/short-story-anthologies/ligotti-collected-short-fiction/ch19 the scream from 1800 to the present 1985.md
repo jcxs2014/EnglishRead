@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligotti 在这里建立了鬼魂的「人性」动机——他不是因为邪恶而滞留，而是因为不公正感和未完成的梦想。
 
----
-
 ### 第2处：压抑的尖叫——「他无法从喉咙里发出任何声音」
 
 > **原句 2:** In his final moments he would have settled for the small satisfaction of releasing a scream to relieve somewhat the purely physical anguish of being strangled to death. But his murderer, an expert waylayer, is pulling the rope too tight and not a sound is able to escape from William B.'s throat.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：William B. 甚至在死亡时也无法尖叫——这是他的「压抑」的最终象征，他的愤怒和痛苦永远无法表达。
 
 为什么这样写：这是全篇的核心悲剧——死亡本身就是一种沉默，而他的尖叫被压抑在他体内200年。
-
----
 
 ### 第3处：鬼魂的计划——「让尖叫杀死凶手」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：鬼魂的复仇计划是「marvelous」（绝妙的）——这个词暗示 Ligotti 对复仇的复杂态度，复仇本身就是一种扭曲的创造力。
 
----
-
 ### 第4处：凶手从未被找到——「凶手毫无疑问已经死了」
 
 > **原句 4:** But the strangler is never found. Eventually the passing years exceed the longest possible human life span. The murderer has undoubtedly been dead for some time.
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：「the longest possible human life span」是 Ligotti 的方式说「凶手已经死了很久」——这是一种迂回的说法，暗示时间的无情。
 
 为什么这样写：鬼魂的复仇计划从一开始就是不可能的——凶手在鬼魂能够行动之前就已经死了。
-
----
 
 ### 第5处：被困在家里——「看着一代又一代人来来去去」
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是鬼魂的「妥协」——他无法复仇，所以他在一个隐蔽的房子里等待，看着人类世代更替。
 
----
-
 ### 第6处：压抑的尖叫——「那种他无法为之找到接受者的绝望」
 
 > **原句 6:** Always, though, the spirit feels the suppressed scream it carries inside and the hopelessness of finding someone for whom this scream of his would mean something.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：「someone for whom this scream of his would mean something」是全篇最悲伤的句子——鬼魂需要的不是复仇对象，而是一个能够理解他的听众。
 
 为什么这样写：这是 Ligotti 对「沟通」本质的思考——有些体验如果没有人理解，就完全没有意义。
-
----
 
 ### 第7处：孤独的女孩——「他开始午夜拜访她」
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：鬼魂在200年后终于找到了一个可能的「听众」——一个孤独的女孩，这给了他新的存在理由。
 
----
-
 ### 第8处：尖叫是他的存在——「只要他有尖叫，他就能留在地球上被看到」
 
 > **原句 8:** The spirit is now thankful for its fate, realizing that it is his anguished and imprisoned scream sustaining his presence. While he has the scream within him he can stay on earth and be seen.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：鬼魂的「感谢」是悲剧性的——他被囚禁在他自己的愤怒中，而这种囚禁是唯一让他继续存在的东西。
 
----
-
 ### 第9处：幻灭——「她既不孤独也不爱他」
 
 > **原句 9:** One night the spirit is keeping his appointment by the girl's bedside when he sees it's all been a mistake: the girl is neither lonely nor in love with him, though she is more beautiful than ever. And someone else is lying next to her in the bed.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：「neither lonely nor in love」是全篇最残酷的发现——鬼魂200年的等待建立在一个错误的前提上。
 
 为什么这样写：这是鬼魂的「最终幻灭」——他以为找到了一个孤独的人，但实际上她并不孤独，他的存在理由消失了。
-
----
 
 ### 第10处：尖叫之死——「他自己的尖叫也死了」
 

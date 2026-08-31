@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：Ligeia 的秘密身份暗示她不是普通人类——她的真名可能是某种咒语的一部分。
 
----
-
 ### 第2处：征服死亡的意志——「Ligeia 经常谈论征服死亡的意志」
 
 > **原句 2:** When living, the Lady Ligeia often spoke of the will to conquer death, the will to survive its terrible, seemingly inevitable victory.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：「the will」这个词在全篇重复出现——它不仅是主题，也是字面意义上的力量。
 
 为什么这样写：Ligeia 对「意志」的讨论是全篇的核心——她的丈夫最终用他的意志力将她带回来。
-
----
 
 ### 第3处：第二个妻子的衰退——「她的健康不明原因地下降」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最黑暗的暗示——丈夫的第一任和第二任妻子都经历了相同的「衰退」，这暗示丈夫的「意志」在消耗她们的生命力。
 
----
-
 ### 第4处：Rowena 的假死——「脸上出现颜色，心脏微弱跳动」
 
 > **原句 4:** At the same time the corpse of his second wife, Lady Rowena, seems to be exhibiting incredible signs of revived life—color in the face, faint pulsing of the heart—which then disappear, only to reappear after a brief interval.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：Rowena 的「假死」是全篇的核心悬念——她是真死还是假死？Ligotti 的暗示是两者都不是——这是一个纯粹的意志建构。
 
----
-
 ### 第5处：他梦入了她的领域——「没有人能逃脱的地方」
 
 > **原句 5:** For all his efforts, their husband hadn't dreamed either of them anywhere but has succeeded only in dreaming himself out of one world and into another. Through this exercise of will he has finally merited the love of the dark woman whose raven hair is now spreading from the shadows of her shroud.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：「dreaming himself out of one world and into another」是全篇的核心意象——丈夫不是把 Ligeia 带回来，而是把自己送入她的世界。
 
 为什么这样写：这是 Ligotti 对 Poe 原版的反转——在 Poe 版本中，Ligeia 复活在 Rowena 的身体里；在 Ligotti 版本中，是丈夫用意志力将自己送入了 Ligeia 的领域。
-
----
 
 ### 第6处：永恒锁定——「没有人能听到他的尖叫」
 

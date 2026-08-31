@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对原版《弗兰肯斯坦》的讽刺性倒置——维克多曾经试图通过创造生命来战胜死亡，但最终他自己都无法被接收。
 
----
-
 ### 第2处：Hans Hoffmann 的野心——「据他所知从未被尝试过」
 
 > **原句 2:** Hans Hoffmann, a prodigy in comparative anatomy at the University of Ingolstadt, is conducting a series of experiments in his apartment. He has assembled, and is quite sure he can vivify, a human being from various body parts he has bought or stolen.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：Hans Hoffmann 重复了 Frankenstein 的错误——用偷来的身体部位创造生命。但他的动机是「成名」，而不是对死亡的恐惧。
 
 为什么这样写：Ligotti 在维克多死后立即展示另一个「弗兰肯斯坦式」的科学家——暗示这种欲望是循环的，不是单个科学家的疯狂，而是科学的本质。
-
----
 
 ### 第3处：生物的目光——「仿佛在期待看到某个人」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是全篇最悲伤的时刻——生物在寻找它的创造者，但它的创造者已经死了。这种「寻找」是存在性的，它在寻找意义。
 
----
-
 ### 第4处：Hans 的威胁——「你有一天会求我给你造一个同伴」
 
 > **原句 4:** "Oh ho," says the scientist, "I can see I'm going to have trouble with you. You'll be begging me one of these days to make you a companion, someone of your own kind."
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：但这里有一个关键区别——Hans 说「我不需要女人」，显示他对女性的厌弃，这与原版 Frankenstein 的浪漫线索形成对比。
 
----
-
 ### 第5处：生物的「荒凉表情」——「可能只是因为几块肌肉塌陷」
 
 > **原句 5:** Nevertheless, it has an extremely desolate expression on its face (just possibly due to a few collapsed muscles).
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：Hans 用科学解释（「塌陷的肌肉」）来否认生物的情感——但「desolate」这个词本身就暗示了情感。
 
 为什么这样写：这是 Ligotti 对「什么是人」的科学主义观点的批评——Hans 无法接受生物有情感，所以他用机械解释来否认。
-
----
 
 ### 第6处：维克多的火化——「在北极冰冻荒原深处的猛烈柴堆上」
 

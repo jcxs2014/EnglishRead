@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：第一句就把叙述者的双重身份钉死：表面是坠入爱河的男人，底层是处理过一具「消失」尸体的凶手。把「花店」同时设为旧猎物（Clare）的悼念地与新猎物（Daisy）的工作地，空间重合暗示狩猎模式的可复制性。
 
----
-
 ### 第2处：墓园——「随意认领」的冷漠
 
 > **原句 2:** With the vegetation nestled in my arm I songfully walked out of the store. I then proceeded directly to Chapel Gardens cemetary. For a while I sincerely made the effort to find a headstone that might by coincidence display my lost one's name. And any dates would just have to do.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：用「找一块碰巧同名的墓碑」取代真正祭奠——连悼念都是随机的，暴露 Clare 对他而言只是「处理掉的对象」，碑文姓名无关紧要。
 
 为什么这样写：Ligotti 用极小的冷漠细节制造寒意：凶手给受害者献花，却连刻在碑上的名字都不在意，只求「随便哪个日期」凑数。这种去人格化的仪式感，比直写杀戮更瘆人。
-
----
 
 ### 第3处：Daisy 的「夜花」知识——暗示她的特殊性
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是猎物筛选的第一次暗示。Daisy 对夜花的兴趣不是偶然——叙述者判断她「imagination」特殊，能接受他的「offbeat」世界。Clare 也是被这样一步步引入的。
 
----
-
 ### 第4处：雕塑暴露——「舌状花器」的第一次揭露
 
 > **原句 4:** "It has little teeth," she observed, "on those big tongue things."
@@ -69,8 +63,6 @@ modified: "2026-08-30"
 表达方式：借 Daisy 的天真观察命名雕塑——她先于叙述者把「植物雕塑」说成「有舌有齿的动物」，无意间戳破了伪装。
 
 为什么这样写：这是「花舌怪物」意象的第一次露面。叙述者家中那座「毛茸茸、像要爬走」的雕塑，正是教团所崇拜之物的微缩；Daisy 的童言无忌恰好说中了它非植物的本质。
-
----
 
 ### 第5处：Daisy 揭露雕塑的动物性
 
@@ -86,8 +78,6 @@ modified: "2026-08-30"
 
 为什么这样写：叙述者此前辩称「这只是雕塑」，Daisy 的复述却让怪物性无可回避。「I felt like crawling away myself」暴露他清楚这东西活着的真相。
 
----
-
 ### 第6处：侦探线——「白栅栏梦境」的反讽
 
 > **原句 6:** I myself had despaired to find within Clare's dark and promisingly moody borders lay a disappointing dreamland of white picket fences and flower-printed curtains.
@@ -101,8 +91,6 @@ modified: "2026-08-30"
 表达方式：把 Clare 本应具有的「dark moody」吸引力与她实际的平庸（白人郊区生活）做对比，暗示叙述者对她的幻灭是谋杀动机之一。
 
 为什么这样写：「白栅栏与花窗帘」与叙述者追求的「dark paradise」完全对立——Clare 无法进入他的世界，所以必须被处理掉。
-
----
 
 ### 第7处：教团——「offbeat 组织」的真正性质
 
@@ -118,8 +106,6 @@ modified: "2026-08-30"
 
 为什么这样写：侦探 Briceberg 代表正常社会对「offbeat」的感知边界——叙述者成功越过了这道防线，证明他作为凶手/教众的反社会能力。
 
----
-
 ### 第8处：热带度假——进入「异界」的门槛
 
 > **原句 8:** As some point, with almost no effort at all, I successfully managed our full departure from known geography, and our transition from a sub- into a superlunary realm.
@@ -134,8 +120,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是叙述者将 Daisy 引入异界的关键步骤。「No, don't speak. Look, look」暗示他展示的不是物理空间，而是教团的神秘领域。
 
----
-
 ### 第9处：画作「Sanctum Obscurum」——秘密的视觉化
 
 > **原句 9:** Beyond the window too is a sanctuary of sorts, but not of man or terrestrial nature. Outside is an over-opulent kingdom of glittering, velvety jungle-shapes. Their hyper-radiant colours are calmed by the glass, so that this strange radiance contrasts with but does not threaten the chromatic integrity of the orderly world inside.
@@ -149,8 +133,6 @@ modified: "2026-08-30"
 表达方式：用「玻璃窗」的隐喻解释教团与日常世界的隔离关系——异界之美被克制地观察，不威胁有序生活（直到 Daisy 真正「看到」）。
 
 为什么这样写：「Sanctum Obscurum」（黑暗圣所）是教团世界观的视觉化。叙述者希望这幅画能唤醒 Daisy 对那夜的真实记忆，完成她的启蒙。
-
----
 
 ### 第10处：灭口决定——教团的裁决
 

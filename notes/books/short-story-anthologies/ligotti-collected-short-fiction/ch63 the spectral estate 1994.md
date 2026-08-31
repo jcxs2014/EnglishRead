@@ -22,8 +22,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「存在孤独」的典型描绘——即使在物理上独处，某种「其他」的存在也总是与我们同在。
 
----
-
 ### 第2处：房子的振动——「 dusty chandeliers send a stirring through the air」
 
 > **原句 2:** Every object and surface of the house seems darkly vibrant, a medium for distant agitations which are felt but not always seen or heard: dusty chandeliers send a stirring through the air above, walls ripple within patterns of raised filigree, grimy portraits shudder inside their gilded frames.
@@ -37,8 +35,6 @@ modified: "2026-08-30"
 表达方式：这是 Ligotti 对「活着的房子」的典型描绘——不是静态的结构，而是动态的、充满内部运动的存在。
 
 为什么这样写：这是 Ligotti 对「物质的精神化」的描绘——每个物体都承载着某种「振动」，即使它不被人感知。
-
----
 
 ### 第3处：追求幽灵——「我们寻求的是幽灵的陪伴」
 
@@ -54,8 +50,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「追求神秘」的描绘——不是为了控制或理解，而是为了体验和陪伴，这是一种对未知的纯粹渴望。
 
----
-
 ### 第4处：另一个人的故事——「他变成了奇怪景象和声音的观众」
 
 > **原句 4:** After passing a short time within the cavernous and elaborate solitude of the place, he becomes a spectator to strange sights and sounds.
@@ -70,8 +64,6 @@ modified: "2026-08-30"
 
 为什么这样写：这是 Ligotti 对「异化」的描绘——他变成观众而不是参与者，这意味着他与他的经历是分离的。
 
----
-
 ### 第5处：房子的疯狂——「是房子本身疯了」
 
 > **原句 5:** Faith in his mental soundness has been triumphantly restored: it is the house itself which is mad.
@@ -85,8 +77,6 @@ modified: "2026-08-30"
 表达方式：这是那个人的「发现」——他的理智没有问题，是房子有问题，这种发现是一种「安慰」，但也是一种更深层恐惧的开始。
 
 为什么这样写：这是 Ligotti 对「外部化」的描绘——通过将疯狂归于房子，他暂时保护了自己的理智，但这只是一厢情愿的想法。
-
----
 
 ### 第6处：更大的疯狂——「 Lunatics 的阴谋」
 

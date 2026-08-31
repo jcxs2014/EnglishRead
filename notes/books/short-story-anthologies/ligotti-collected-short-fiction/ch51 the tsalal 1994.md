@@ -135,7 +135,7 @@ modified: "2026-08-30"
 
 ## 词汇分级
 
----### ⭐⭐⭐ 高级（词/短语 | 释义 | 例句）
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | katechon | 拦阻者（神学） | the katechon, the one who restrains |
@@ -143,19 +143,14 @@ modified: "2026-08-30"
 | incarnation | 化身、道成肉身 | a worldly incarnation of the thing itself |
 | apocalypse | 末日、启示 | the seed of the coming apocalypse |
 | transmutation | 蜕变、嬗变 | whose sole principle was that of senseless transmutation |
----
----
-
-### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
+### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | lawlessness | 不法、无律 | The mystery of lawlessness doth already work |
 | usurped | 篡夺、取代 | easily silenced and usurped by those other words |
 | emaciated | 消瘦的 | even more emaciated than the day before |
 | blackness | 黑暗 | a blackness no one had ever seen |
----
-
-### ⭐ 基础（词/短语 | 释义 | 例句）
+### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | seed | 种子 | Blessed is the seed that is planted forever in darkness |
