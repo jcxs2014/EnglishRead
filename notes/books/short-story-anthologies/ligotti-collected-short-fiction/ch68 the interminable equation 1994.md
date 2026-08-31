@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | nullification | 作废、抵消 | Only a few of those escape nullification by contradiction |
 | annihilation | 湮灭 | their counterparts annihilate them |
 | oblivion | 遗忘、虚无 | terminating at last in a kind of double oblivion |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -160,6 +162,7 @@ modified: "2026-08-30"
 | interminable | 无尽的 | The Interminable Equation |
 | multiply | 乘 | we would still have to multiply this sum |
 | counterpart | 对应者 | their counterparts annihilate them |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

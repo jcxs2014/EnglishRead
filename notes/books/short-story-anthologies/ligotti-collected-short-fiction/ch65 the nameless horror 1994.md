@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | unsavory | 令人不快的、秽的 | some unsavory enigma about the place |
 | placidly | 安详地 | smiling so placidly |
 | enigma | 谜 | some unsavory enigma about the place |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | sluicing | 冲洗 | the rain was sluicing vigorously in the gutters |
 | frayed | 磨损的 | the frayed edges of shadows waving |
 | tangled | 缠结的 | its intricately tangled hair came tumbling down |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | proprietor | 店主、所有者 | this man, who must have been the proprietor |
 | remotest | 最远的 | the remotest quarters of the cosmos |
 | incarceration | 囚禁 | the cramped and nameless incarceration |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | chameleon-like | 如变色龙的 | blend, chameleon-like, into the surrounding decor |
 | curiosities | 奇物、古玩 | True curiosities in a thousand twisting shapes |
 | trinkets | 小玩意、饰物 | trinkets for strange gods |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

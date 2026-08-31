@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | indiscernible | 不可辨的 | its lofty, almost indiscernible ceiling |
 | formidable | 可怖的、强大的 | a formidable array of devices |
 | unconsciousness | 无意识、昏迷 | collapsing into unconsciousness |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | grazed | 擦过 | the tips of his toes barely grazed the floor |
 | hooded | 戴兜帽的 | a hooded figure holding a lamp |
 | unbroken | 不间断的 | a single unbroken scream |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

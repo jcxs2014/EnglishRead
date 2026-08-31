@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | contemplate | 凝望、沉思 | a burial-ground in the clouds that I contemplate |
 | dissipating | 消散（现在分词） | a black fog in which everything will drown and all my thoughts will be gone forever |
 | perpendicular | 垂直的 | framed within the wall perpendicular to the window |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | dimming | 变暗的 | Everything is dimming, dissolving |
 | flickering | 闪烁的 | Those lights flickering in the fog |
 | dissipating | 消散的 | dissipating like a fog around me |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

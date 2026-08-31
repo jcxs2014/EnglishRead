@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | pageant | 盛装游行、景象 | All the world was a pageant of nightmares |
 | consort | 厮混、结交 | that world of shadows with which they consort every moment of their brief and innocent lives |
 | irreducible | 不可化约的 | All that existed for the moment was the irreducible certainty of nightmare |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -164,6 +166,7 @@ modified: "2026-08-30"
 | perverse | 反常的、悖谬的 | This achievement, however futile or perverse |
 | brilliance | 光辉 | the incredible brilliance of the sky that night |
 | nightmare | 噩梦 | All the world was a pageant of nightmares |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

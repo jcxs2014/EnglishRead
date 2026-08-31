@@ -104,6 +104,70 @@ modified: "2026-08-30"
 
 ---
 
+### 第7处：塞克利斯人的血统——「为祖国而战」
+
+> **原句 7:** Count Dracula is descended from the noble race of the Szekelys, a people of many bloodlines, all of them fierce and warlike. He fought for his country against the invading Turks.
+
+中文理解：德古拉出身于塞克利斯基人的高贵血统，一个有着众多血脉的民族，所有人都凶猛而善战。他为祖国而战，抵抗入侵的土耳其人。
+
+句子结构：Count Dracula is descended from the noble race of the Szekelys 是主句；a people of many bloodlines 是 Szekelys 的同位语；all of them fierce and warlike 是独立分词结构；He fought for his country against the invading Turks 是并列谓语。
+
+关键词：descended from the Szekelys（出身于塞克利斯基人）、fierce and warlike（凶猛而善战）、fought for his country（为祖国而战）
+
+表达方式：德古拉的「匈牙利」血统将他定位为欧洲边缘的存在——塞克利斯人被认为是吸血鬼的原始血统，这为他的诅咒提供了「民族」基础。
+
+为什么这样写：德古拉不仅是「吸血鬼」，更是一个「民族」的成员——他的诅咒不是个人的，而是集体的、历史性的。
+
+---
+
+### 第8处：五个世纪的延续——「supernatural powers」
+
+> **原句 8:** And for centuries, at least five and maybe more, he has managed to perpetuate, with the aid of supernatural powers, his existence as a vampire.
+
+中文理解：而且几个世纪以来，至少五年，或许更多，他得以在超自然力量的帮助下，将他作为吸血鬼的存在延续下去。
+
+句子结构：And for centuries 是时间状语；at least five and maybe more 是 centuries 的同位语；he has managed to perpetuate… his existence 是主句；with the aid of supernatural powers 是方式状语；as a vampire 是主语补足语。
+
+关键词：for centuries（几个世纪）、to perpetuate his existence（延续他的存在）、with the aid of supernatural powers（在超自然力量的帮助下）
+
+表达方式：「五个世纪」是具体的时间长度——德古拉的存在不是「永恒」，而是具体的、有期限的时间积累。
+
+为什么这样写：吸血鬼的「永恒」在 Ligotti 笔下变成了「历史」——他是一个有时间跨度的主体，而不是一个超越时间的概念。
+
+---
+
+### 第9处：木桩的讽刺——「那些傻瓜把他的颤抖的心钉在了耻辱柱上」
+
+> **原句 9:** Now he has only this painful, perpetual awareness that he is doomed to wriggle beneath this infernal stake which those fools—Harker, Seward, Van Helsing, and the others—have stuck in his trembling heart.
+
+中文理解：现在他只有这痛苦的、永恒的意识：他注定要在这根该死的木桩下蠕动——那些傻瓜——哈克、苏厄德、范海辛和其他人——已经把木桩钉进了他颤抖的心脏。
+
+句子结构：Now he has only this painful, perpetual awareness 是主句；that he is doomed to wriggle beneath this infernal stake 是 awareness 的同位语从句；which those fools… have stuck in his trembling heart 是 stake 的定语从句。
+
+关键词：painful, perpetual awareness（痛苦而永恒的意识）、to wriggle beneath（在…下蠕动）、the infernal stake（该死的木桩）、his trembling heart（他颤抖的心）
+
+表达方式：「颤抖的心」是双重讽刺——它既是物理上被钉的心脏，也是情感上的隐喻；而「那些傻瓜」是对经典吸血鬼猎人的降格称呼。
+
+为什么这样写：德古拉被「那些傻瓜」（而非英雄）杀死——这消解了经典吸血鬼叙事的崇高性，将悲剧变成了平庸的暴力。
+
+---
+
+### 第10处：普通的声音——「乡下人的声音」
+
+> **原句 10:** And now he hears voices, common voices, peasants from the countryside.
+
+中文理解：现在他听到了声音，普通的声音，来自乡下的人。
+
+句子结构：And now he hears voices 是主句；common voices 是 voices 的同位语；peasants from the countryside 是 voices 的同位语。
+
+关键词：common voices（普通的声音）、peasants from the countryside（来自乡下的农民）
+
+表达方式：「普通的声音」是相对「超自然声音」而言——德古拉在临终时听到的不是亡灵的低语，而是普通农夫的声音。
+
+为什么这样写：结尾的声音将德古拉从「超自然存在」降格为「普通人」——他临终时听到的不是他千年历史中的重要人物，而是「无名的乡下人」。
+
+---
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

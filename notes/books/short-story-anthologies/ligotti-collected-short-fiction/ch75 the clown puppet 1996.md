@@ -135,6 +135,8 @@ modified: "2026-08-30"
 | marionette | 提线木偶 | a puppet figure of some archaic type |
 | stupefied | 呆滞的、懵然的 | an utterly nonsensical expression of stupefied viciousness |
 | archaic | 远古的、古旧的 | a puppet figure of some archaic type |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -145,6 +147,7 @@ modified: "2026-08-30"
 | viciousness | 恶毒 | stupefied viciousness and cruelty |
 | cruelty | 残忍 | stupefied viciousness and cruelty |
 | puppet | 木偶、傀儡 | its dead puppet eyes |
+---
 
 ### ⭐ 基础
 

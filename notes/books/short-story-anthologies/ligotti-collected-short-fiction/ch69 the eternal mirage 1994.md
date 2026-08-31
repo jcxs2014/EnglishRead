@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | lustrous | 有光泽的、璀璨的 | leaving behind only a lustrous image which seems to float far and wide |
 | ebony | 乌木色的、漆黑的 | an endless ebony plateau whose surface is like polished stone |
 | phantasm | 幻影、幽灵 | this ocean is itself merely a starry phantasm glimpsed in certain eyes |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | debris | 残骸、碎片 | the brilliant debris of its dreams |
 | plateau | 高原、台原 | an endless ebony plateau whose surface is like polished stone |
 | captive | 被囚的 | quivering bodies held captive in the unbroken web of blackness |
+---
 
 ### ⭐ 基础
 

@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | disintegration | 解体、崩解 | things sinking into a common disintegration |
 | cesspool | 粪池、污秽之源 | a blossom of the cemetery or the cesspool |
 | scatology | 粪便学、污秽论 | The excrement of space, scatology of creation |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -163,6 +165,7 @@ modified: "2026-08-30"
 | effluvia | 臭气、渗出物 | unreflecting effluvia that here moved even more thickly down the walls |
 | assiduous | 勤奋的、热心的 | one of the instructor's most assiduous students |
 | instructor | 教员 | a true instructor must share everything |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

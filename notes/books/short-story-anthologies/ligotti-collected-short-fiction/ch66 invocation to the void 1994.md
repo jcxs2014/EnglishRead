@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | mimic | 模仿 | These worlds merely mimic my own |
 | bloodless | 无血的 | A beautiful, bloodless white |
 | necropolis | 死者之城（见 ch67） | — |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | howling | 嗥叫的 | the howling wind heard |
 | sticky | 黏湿的 | buried him in that sticky earth |
 | effacing | （可略） | — |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

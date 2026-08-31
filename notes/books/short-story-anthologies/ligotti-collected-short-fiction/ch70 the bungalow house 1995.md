@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | frigid | 冰冷的（语气/态度） | she replied in a frigid tone |
 | vermin | 害虫、孽虫 | simply an infestation of vermin |
 | performance piece | 行为艺术作品 | It was a performance piece |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | stark | 冷酷的、刻板的 | three stark principles |
 | charge | 费用 | There was a charge, but you didn't pay |
 | plastic | 塑料的 | the small plastic arm of a toy doll |
+---
 
 ### ⭐ 基础
 

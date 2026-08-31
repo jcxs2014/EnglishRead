@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | petrified | 石化的 | a visage petrified into spectral stone |
 | unarticulated | 未言明的 | unarticulated narratives of a certain kind |
 | prodigious | 惊人的、巨大的 | the monstrously dense and prodigious layers of that book |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -161,6 +163,7 @@ modified: "2026-08-30"
 | incantation | 咒语、吟诵 | the incantations of a dead language |
 | visage | 面容、面貌 | a visage grown rigid at the sight of unimaginable horrors |
 | absconded | 潜逃、消失 | the three figures had absconded to their refuge of shadows |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

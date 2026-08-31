@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | perpetuity | （此处用 perpetual） | Late afternoon in a perpetual autumn |
 | incandescent | （可略） | — |
 | shroud | 裹尸布 | a pale shroud of a face |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | shrivelled | 皱缩的 | lips shrivelled to a powdery smudge |
 | gauzy | 纱状的 | the flesh of the cadaver was in gauzy tatters |
 | morose | 忧郁的 | Feeling somewhat morose |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | delusion | 妄想 | you're definitely delusional |
 | miniature | 微型的 | miniature merry-go-round |
 | art-magic | 艺术魔法 | suffering from a magical delusion... art-magic |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | carnivals | 嘉年华 | The gas station carnivals |
 | Showman | 演出者 | the Showman |
 | affliction | 折磨、病患 | victim of a severe stomach disorder / affliction |
+---
 
 ### ⭐ 基础
 

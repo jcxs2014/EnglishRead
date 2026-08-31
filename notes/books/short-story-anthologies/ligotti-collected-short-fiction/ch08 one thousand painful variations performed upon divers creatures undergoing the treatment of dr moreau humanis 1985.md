@@ -104,6 +104,70 @@ modified: "2026-08-30"
 
 ---
 
+### 第7处：「用缓慢而痛苦的方式撕离」——Moreau的改造哲学
+
+> **原句 7:** He has worked very hard on this one, tearing him by slow and torturous degrees away from his bestial origins.
+
+中文理解：他在这个上面花了很大功夫，用缓慢而痛苦的方式把他从兽性本源中撕离出来。
+
+句子结构：He has worked very hard on this one 是主谓；tearing him by slow and torturous degrees away from his bestial origins 是分词短语作状语。
+
+关键词：by slow and torturous degrees（用缓慢而痛苦的方式）、away from his bestial origins（从他的兽性本源中撕离）
+
+表达方式：「撕离」暗示 Moreau 的改造不是渐进的发展，而是暴力性的脱离——狼人必须被「撕」出他的本性。
+
+为什么这样写：Moreau 的「Humanist」方法不是教育或发展，而是外科手术式的暴力——这使得他的「humanizing」改造自相矛盾。
+
+---
+
+### 第8处：「从狼人的眼中读出真相」——凝视的失败
+
+> **原句 8:** He first tries to read the truth in the manwolf's eyes but cannot.
+
+中文理解：他首先试图从狼人的眼中读出真相，但读不出来。
+
+句子结构：He first tries to read the truth in the manwolf's eyes 是主谓宾；but cannot 是省略谓语的并列句。
+
+关键词：to read the truth in the manwolf's eyes（从狼人的眼中读出真相）、but cannot（但读不出来）
+
+表达方式：Moreau 试图通过「凝视」来理解狼人——但他失败了。这暗示狼人的内在世界对 Moreau 来说是不可及的。
+
+为什么这样写：凝视的失败是 Moreau 作为「观察者」身份的关键时刻——他无法真正理解他创造的东西，这驱使他转向更操纵性的「经验性测试」。
+
+---
+
+### 第9处：「故意创造机会」——Moreau的实验设计
+
+> **原句 9:** He waits a few moments in the hallway, anxious to allow them enough time.
+
+中文理解：他在走廊里等了一会儿，急于给他们足够的时间。
+
+句子结构：He waits a few moments in the hallway 是主谓；anxious to allow them enough time 是分词短语作状语。
+
+关键词：in the hallway（在走廊里）、anxious to allow them enough time（急于给他们足够的时间）
+
+表达方式：「anxious to allow them enough time」是 Moreau 故意创造机会的证据——他想看狼人在无人看管时对女助手做什么。
+
+为什么这样写：这是 Moreau 实验操纵性的核心——他不只是观察，而是主动设计场景来诱发他想要的结果。
+
+---
+
+### 第10处：狼人的双重反应——「僵硬」与「跪倒」
+
+> **原句 10:** Well so much for that, he thinks, and suddenly steps into the room to confront his two subjects—the assistant; standing rigid with terror; the manwolf: down on one knee like a delirious knight before the manaced lady he would gladly save.
+
+中文理解：好吧，这下清楚了，他想着，然后突然走进房间去面对他的两个对象——女助手；僵硬地站在恐怖中；狼人：单膝跪地，像一位谵妄的骑士，在他乐于拯救的被威胁的女子面前。
+
+句子结构：Well so much for that, he thinks 是插入的思维活动；and suddenly steps into the room to confront his two subjects 是主谓宾；the assistant; standing rigid with terror 是独立主格作同位语；the manwolf: down on one knee like a delirious knight 是独立主格同位语；before the manaced lady he would gladly save 是定语从句。
+
+关键词：standing rigid with terror（僵硬地站在恐怖中）、down on one knee（单膝跪地）、a delirious knight（谵妄的骑士）
+
+表达方式：两个对象的对比——女助手的「僵硬」是恐惧的反应，而狼人的「跪倒」是骑士风度的表现。
+
+为什么这样写：Moreau 看到的是狼人的「humanity」表现——跪倒、保护欲——而非他期望的攻击性。这让他愤怒，因为这威胁到他整个改造哲学的基础。
+
+---
+
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

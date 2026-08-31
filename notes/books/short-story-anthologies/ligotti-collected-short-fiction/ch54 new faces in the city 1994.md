@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | sham | 假象、伪装 | a sham of menace that has no life |
 | stagnant | 停滞的（此处雾） | the mist, which hovers thick and stagnant |
 | debris | 残骸、碎屑 | scraps of debris hop about |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | crumpled | 皱缩的 | Drab, crumpled buildings |
 | absently | 茫然地 | one's own eyes stare absently in the mirror |
 | obscured | 遮蔽的 | an unseasonable mist which may obscure its earthward landmarks |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

@@ -135,6 +135,8 @@ modified: "2026-08-30"
 | troupe | 剧团、戏班 | this cruel troupe |
 | destructive | 破坏性的 | intensely destructive of everything that I conceived of as art |
 | unreality | 非真实感 | I delighted in the unreality of the Teatro stories |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -145,6 +147,7 @@ modified: "2026-08-30"
 | phenomenon | 现象 | a phenomenon intensely destructive of everything |
 | conception | 构想 | everything that I conceived of as art |
 | anticipate | 预见 | You can never anticipate the Teatro |
+---
 
 ### ⭐ 基础
 

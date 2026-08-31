@@ -182,7 +182,7 @@ modified: "2026-08-30"
 | tenebrous | 阴暗的、黑暗的 | …soars up into the tenebrous rafters and beyond… |
 | cachinnation | 狂笑、放声大笑 | Their cachinnations stir up the stagnant air of the loft… |
 | derangement | 精神错乱 | …the liberating laughter of an innocent derangement, of a virgin madness. |
-| scupper | 舷窗（?），但此处指惊恐 | no |
+
 | gyre | 旋转、循环 | …his laughter grows worse as he gyres aimlessly… |
 
 ### ⭐⭐ 进阶

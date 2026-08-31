@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | illicit | 非法的、禁制的 | the illicit practice |
 | spectacle | 奇观、景观 | the spectacle of Severini |
 | sympathetic | 共感的、同频的 | You and Severini are sympathetic organisms |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | exhibits | 展品 | Exhibits from the Imaginary Museum |
 | tropical | 热带的 | a tropical sewer |
 | emerged | 涌现、浮现 | that great black life from which we have all emerged |
+---
 
 ### ⭐ 基础
 

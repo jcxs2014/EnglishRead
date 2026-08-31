@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | bestow | 赐予、授予 | upon these unhappy disciples he now bestowed his terrible illumination |
 | illumination | 启示、照亮 | his terrible illumination |
 | consecrated | （可略） | — |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | emaciated | （可略） | — |
 | diverse | 多样的 | the diverse shapes he took |
 | insistently | 执拗地 | somewhat insistently, his terrible illumination |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

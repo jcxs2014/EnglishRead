@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | uncreation | 非创（自造词） | the uncreation of his whole life |
 | meddle | 妄加干涉 | Thou shalt not meddle |
 | resurrection | 复活 | the 'resurrection of the uncreated' |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | contemplative | 沉思的 | his intensely contemplative nature |
 | graveyard | 墓地 | the hilltop graveyard |
 | escapade | 风波、闹剧 | the Ascrobius escapade |
+---
 
 ### ⭐ 基础
 

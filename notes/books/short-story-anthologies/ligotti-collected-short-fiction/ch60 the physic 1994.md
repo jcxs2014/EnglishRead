@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | trapezoid | 梯形 | Sat in a trapezoid of moonlight |
 | unholy | 不洁的、亵渎的 | unholy pinwheels spinning in the moonlight |
 | consolingly | 安慰地 | I said consolingly |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | elaborately | 精细地 | Elaborate eye make-up helped them enormously |
 | scolded | 责怪 | You could have also worn a hat, you know, he scolded |
 | pinwheels | 风车 | unholy pinwheels spinning in the moonlight |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

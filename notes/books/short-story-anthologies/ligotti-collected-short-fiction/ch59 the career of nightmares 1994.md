@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | mannikins | 人偶、假人 | a gallery of mannikins abruptly wakes |
 | terminus | 终点、尽头 | toward a shadowy terminus |
 | canvass | 画布 | on a wide white canvass |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | incarceration | 囚禁 | （见高级，此处可去重） |
 | futile | 徒劳的 | going from empty room to empty room is futile |
 | drooping | 垂下的、萎垂的 | hang ill drooping webs |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |

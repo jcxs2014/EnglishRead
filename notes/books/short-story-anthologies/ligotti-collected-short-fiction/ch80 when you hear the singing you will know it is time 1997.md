@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | threshold | 阈值、门槛 | some type of threshold |
 | leathery | 皮革般的 | the trap door's leathery and irregular surface |
 | unsuspected | 未被察觉的 | previously and entirely unsuspected |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | disappearances | 消失（事件） | the word 'disappearances' |
 | graveyard | 墓地 | the hilltop graveyard outside of town |
 | illusions | 幻象 | the most insidious illusions |
+---
 
 ### ⭐ 基础
 

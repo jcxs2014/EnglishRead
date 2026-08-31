@@ -136,6 +136,8 @@ modified: "2026-08-30"
 | motley | 小丑彩衣 | a fool's motley complete with soft slippers |
 | artificial | 人造的、假的 | artificial wooden hand |
 | delirious | 谵妄的、神志昏乱的 | the 'deliriously preposterous' position |
+---
+---
 
 ### ⭐⭐ 进阶
 
@@ -146,6 +148,7 @@ modified: "2026-08-30"
 | paralyzed | 瘫痪的、僵滞的 | a state of sleepy paralysis |
 | attics | 阁楼 | the mystery of an old attic |
 | pawn | 棋子、爪牙 | You were only a pawn |
+---
 
 ### ⭐ 基础
 

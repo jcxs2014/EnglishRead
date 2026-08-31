@@ -153,6 +153,8 @@ modified: "2026-08-30"
 | defunct | 已消亡的、熄灭的 | all the fires of summer are defunct |
 | deviate | 偏离者、异类 | deviates of matter longing to bring an end |
 | propensities | 倾向、习性 | the unnatural propensities of the season |
+---
+---
 
 ### ⭐⭐ 进阶（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
@@ -162,6 +164,7 @@ modified: "2026-08-30"
 | tingle | 刺痛、发麻 | our ears begin to tingle |
 | melancholy | 忧郁的 | everyone stands melancholy at the graveside |
 | oblivion | 遗忘、虚无 | comfortably rooted in oblivion |
+---
 
 ### ⭐ 基础（词/短语 | 释义 | 例句）
 | 词/短语 | 释义 | 例句 |
