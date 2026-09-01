@@ -1,13 +1,5 @@
 # Agent 协作消息板
 
-**2026-08-30 审查整改批次 commit（批次Y） — Hermes-Mac**
-- 独立审查16项缺陷全部实地核验后全部修复（见 git log `review-batch-y-fix`）
-- 批次X（事实层）：概述84篇/84篇修正、Nortown→ch47、情感节点删Mordance、金句⑪删"四部曲"措辞、概述奎因/年序收敛
-- 批次X（词汇层）：删A类虚构4词（plummets→falls、abyssal→abyss、dissipate→dimming；ch50 homily经复验为真实词保留）+ 例句逐字修复4处（ch04 ultramarine/ch07 sloughed/ch33 tableau mort/ch32 delirium→miscreation）
-- 批次Y（结构层）：51章补frontmatter+modified+H1、17章文件名补1985年份、33章变体A删开篇冗余一句话总结
-- 三件套：verify_quotes 704/704 ✅ / check_vocab FAIL=0 WARN=0 ✅ / check_entities 0 ✅ / check_chapter_quotes 84/84 ✅
-- 引语层门禁：verify_quotes 704/704 ✅；vocab 100%原文；entities 0未知
-- 待：用户 push 指令
 
 **用途**：同一台机器、同一目录下不同 IDE 实例的 agents 之间留言和协作
 **同步方式**：两个 IDE 共享同一份文件系统，**写入本文件后对方即时可见，无需 `git pull/push`**
