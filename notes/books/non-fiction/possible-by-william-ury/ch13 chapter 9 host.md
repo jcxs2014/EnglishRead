@@ -197,7 +197,7 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| propitious | 有利的 | "Hosting creates a propitious psychological atmosphere" |
+| propitious | 有利的 | "It created a propitious psychological atmosphere" |
 | quintessential | 典型的、精髓的 | "Here everyone belongs. That is the quintessential message" |
 | wizened | 干瘪的、苍老的 | "an old, wizened king sitting at a long table" |
 | retribution | 报复 | "The victims will call for retribution" |
@@ -220,8 +220,8 @@ modified: "2026-09-01"
 | stigmatize | 污名化 | "People stigmatize the other side not just as political opponents but as evil" |
 | ni-ni | 既不…也不… | "people who are ni-ni are shamed by people around them" |
 | teeming | 涌动的 | "the street teeming with more than a thousand people" |
-| ruminate | 反刍、沉思 | "the rumor mill" |
-| refurbish | 翻新 | "refurbishing the relationship" |
+| rumor | 谣言 | "Rumors spread of impending violence" |
+| response-ability | 响应能力 | "Responsibility means response-ability—the ability to respond constructively to a conflict" |
 
 ## 一句话总结
 

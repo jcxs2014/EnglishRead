@@ -205,10 +205,10 @@ modified: "2026-09-01"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | gutter | 阴沟 | "Going to the balcony is the opposite of going to the gutter" |
-| demonize | 妖魔化 | "the name-calling and demonizing of the other" |
+| demonizing | 妖魔化 | "the name-calling and demonizing of the other" |
 | straitjacket | 束缚 | "Reducing everything to two sides is like a straitjacket" |
 | evolutionary | 进化的 | "they seized their evolutionary chance" |
-| coalesce | 联合、合并 | "coalesce into a critical mass" |
+| innate | 先天的 | "We don't need to learn to be a possibilist. It is innate" |
 
 ### ⭐ 基础
 

@@ -208,8 +208,8 @@ modified: "2026-09-01"
 | counsel | 咨询 | "To offer counsel is different from simply offering advice" |
 | clarifying questions | 澄清性问题 | "The key is to begin by asking clarifying questions" |
 | facilitate | 促进 | "We can facilitate clear communication and genuine dialogue" |
-| arbitrate | 仲裁 | "Mediation is often confused with arbitration" |
-| responsiveness | 响应能力 | "We can assume response-ability" |
+| arbitration | 仲裁 | "Mediation is often confused with arbitration" |
+| standstill | 停滞 | "The talks are at a standstill" |
 
 ### ⭐ 基础
 

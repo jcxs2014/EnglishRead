@@ -198,7 +198,6 @@ modified: "2026-09-01"
 | incinerated | 被焚烧 | "All of us in the room would likely have been incinerated in an atomic blast" |
 | annihilation | 毁灭 | "haunted by how close we had come to mutual annihilation" |
 | ominous | 不祥的 | "He ended his speech by somberly warning Americans" |
-| inexorable | 不可阻挡的 | "the inexorable logic of escalation" |
 | quintessential | 典型的 | "the quintessential message of the third side" |
 
 ### ⭐⭐ 进阶
@@ -208,7 +207,6 @@ modified: "2026-09-01"
 | immune system | 免疫系统 | "An analogy for the third side is our body's immune system" |
 | social immune system | 社会免疫系统 | "The third side can be understood as a social immune system" |
 | thirdsider | 第三方参与者 | "each of us is a potential thirdsider" |
-| integrity | 完整性、正直 | "acting with integrity" |
 | reconciliation | 和解 | "There must be a reconciliation of the parties" |
 
 ### ⭐ 基础
@@ -219,7 +217,7 @@ modified: "2026-09-01"
 | ostracize | 排斥 | "Sports federations voted to ostracize South African teams" |
 | divest | 撤资 | "demanding that corporations and universities divest from their investments" |
 | apartheid | 种族隔离 | "the formal system of apartheid came to an end" |
-| refurbish | 翻新 | "refurbishing the relationship" |
+| mobilize | 动员 | "the world community came together to create a critical mass of persuasive influence" |
 
 ## 一句话总结
 

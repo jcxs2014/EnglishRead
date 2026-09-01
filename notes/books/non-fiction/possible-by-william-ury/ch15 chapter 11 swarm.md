@@ -210,13 +210,13 @@ modified: "2026-09-01"
 | interlocutor | 对话者 | "our new interlocutor for the exchange is Ri Su Yong" |
 | mob | 动员 | "mobilizing the latent potential of the community" |
 | remarkable | 非凡的 | "an extraordinary swarm by the community" |
-| endorse | 支持 | "the community endorses" |
+| coalition | 联盟 | "a gathering of community power so strong that it can bring about a peaceable outcome" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| swarm | 蜂群 | "we swarm tough, seemingly impossible software problems" |
+| swarm | 蜂群、群集 | "To swarm a conflict means to surround it with a critical mass of ideas and influence" |
 | SWAT team | 特别行动小组 | "We nicknamed ourselves a SWAT team for peace" |
 | facilitator | 促进者 | "a masterful facilitator of collective intelligence" |
 | veteran | 老兵、资深的 | "a military veteran" |
