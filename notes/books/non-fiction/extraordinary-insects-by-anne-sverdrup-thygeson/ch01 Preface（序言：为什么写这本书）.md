@@ -58,7 +58,7 @@ modified: "2026-09-01"
 
 - 句子结构：主句 The insects come to the dead trees in their hordes；第二句三个分句并列：Bark beetles party + longhorn beetle larvae trace + 介词短语 like tiny crocodiles + wireworms greedily snap up；第三句 Together + thousands of insects, fungi and bacteria + 谓语 work + 目的补语 to break down...and transform it into new life。
 
-- 关键词：**in their hordes**（成群地——horde 表"群" 兼具野蛮感）；**party**（开派对——拟人化动词）；**ferments**（发酵——暗指酒精意象）；**ingenious**（精巧的、有创造力的）；**trace patterns**（描绘图案——暗指因果报应之"trace"）；**greedily snap up**（贪吃地扑抢——拟动物捕食）；**break down...and transform it into new life**（分解并转化为新生命）
+- 关键词：**in their hordes**（成群地——horde 表"群" 兼具野蛮感）；**party**（开派对——拟人化动词）；**ferments**（发酵——暗指酒精意象）；**ingenious**（精巧的、有创造力的）；**trace patterns**（勾勒图案——天牛幼虫在朽木表面留下的进食痕迹具有装饰感）；**greedily snap up**（贪吃地扑抢——拟动物捕食）；**break down...and transform it into new life**（分解并转化为新生命）
 
 - 表达方式：**用动词联动造出动与静的对比**。"party / trace / snap up" 三个动词从悠闲到细致到凶猛，给读者一份潜意识的"劳动编年史"。
 

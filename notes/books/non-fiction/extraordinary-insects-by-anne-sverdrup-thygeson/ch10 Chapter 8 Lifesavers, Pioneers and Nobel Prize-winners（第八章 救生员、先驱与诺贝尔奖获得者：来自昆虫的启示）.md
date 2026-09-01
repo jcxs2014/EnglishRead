@@ -86,7 +86,7 @@ modified: "2026-09-01"
 
 句子结构：主干为 `It turns out that...`（事实证明，结果是……），that 从句的核心是 `an ingenious system of air channels uses temperature oscillations ... to create a draught that runs through...`；其中 `over the course of the day and night` 是时间状语，`to create a draught` 为目的，`that runs through the construction` 为定语从句限定 draught。
 
-关键词：ingenuous（精巧的）、temperature oscillations（温度波动）、draught（气流/穿堂风）、runs through（贯穿）。
+关键词：ingenious（精巧的）、temperature oscillations（温度波动）、draught（气流/穿堂风）、runs through（贯穿）。
 
 表达方式：`It turns out that...` 是科普写作揭示"原本想不到的事实"的常用引导句；本句通过层层附加成分（时间状语、目的、定语从句）把一个复杂的物理机制压缩进单个长句，信息密度极高。
 

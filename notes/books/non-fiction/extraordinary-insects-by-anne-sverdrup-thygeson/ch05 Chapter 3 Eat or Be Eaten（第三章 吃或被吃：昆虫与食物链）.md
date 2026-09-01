@@ -73,7 +73,7 @@ modified: "2026-09-01"
 
 **④** "The virus accumulates in the brain and is controlled by a timing mechanism that paralyses the ladybird at the precise moment when the larva is squeezing its way out, so the virus enables the wasp to take over the brain of the ladybird, making it serve not just as baby food but also as a babysitter."
 
-**中文理解**：揭示寄生蜂操控女贞虫的机制——病毒作为"定时器"。
+**中文理解**：揭示寄生蜂操控**瓢虫**的机制——病毒作为"定时器"，在幼虫钻出瓢虫的瞬间将其麻痹，从而将瓢虫变成幼虫的食粮和保镖。
 
 **句子结构**：复杂长句，包含定语从句（that paralyses...）、时间状语从句（when the larva...）、结果状语从句（so the virus...）。
 
