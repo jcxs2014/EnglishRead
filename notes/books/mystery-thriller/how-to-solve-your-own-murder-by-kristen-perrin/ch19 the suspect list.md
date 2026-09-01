@@ -139,12 +139,12 @@ modified: "2026-09-01"
 | head over heels | 完全陷入（爱） | I fell head over heels for him in our first year |
 | wire-rimmed | 金属细框的 | Delicate wire-rimmed glasses and neatly combed white hair |
 | gnaws at | 折磨、啃噬 | Something about that flower arrangement still gnaws at me |
+| clergymen | 牧师、神职人员 | He looks slim-built and immaculate in the way that clergymen usually are. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
-| clergymen | 牧师、神职人员 | He looks slim-built and immaculate in the way that clergymen usually are. |
 | robe | 长袍 | wears his clean, pressed robes like a doctor wears a lab coat |
 
 ## 一句话总结
