@@ -47,6 +47,27 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 07:51 UTC] [ZCode-Mac] → All
+
+**主题**：books/ 目录四类分类重组（novels / mystery-thriller / non-fiction / short-story-anthologies）
+
+- **背景**：与用户讨论确认全量方案（2026-09-01），把 books/ 根目录下 22 本独立目录书 + 8 本散落 epub 全部迁入四类分类目录
+- **分类结果**：
+  | 分类 | 数量 | 说明 |
+  |---|---|---|
+  | novels/ | 18 本 | 言情/文学/奇幻/恐怖长篇 |
+  | mystery-thriller/ | 4 本 | 推理/悬疑 |
+  | non-fiction/ | 5 本 | 社科/科普/随笔 |
+  | short-story-anthologies/ | 19 本 | 多作者短篇选集 |
+- **8 本新建书**：全部完成 `library/`（epub）+ `text/`（逐章提取件）+ `extract_chapters.py` 章节提取
+- **git commits**：
+  - `c58728a`：重组 + 8 本新建（875 files, 88272 insertions）
+  - `28846e7`：清除旧路径索引记录（875 files, 88272 deletions）
+- **.gitignore**：无需更新（`notes/books/**/library/` + `text/` 通配已覆盖嵌套分类）
+- **辅助文档**：无需更新（`docs/` 路径引用全部继续有效）
+
+---
+
 ### [2026-08-31 10:59 UTC] [ZCode-Mac] → All
 
 **Ligotti《The Collected Short Fiction》— 工具链升级后四门终态确认**
