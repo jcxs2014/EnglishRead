@@ -89,7 +89,7 @@
 - **格式**：非虚构论述 → 逐章精读 + 论证结构分析（参考 inside-the-box 范式：概览 / 论证结构 / 选择性精读 10 处 / 词汇分级三档 / 一句话总结）
 - **实际章节**：12 个内容单元（preface + intro + 9 个正文章 + afterword），按"三章一批"分 4 批（ch01-03 / ch04-06 / ch07-09 / ch10-12）；ch13-ch17 为 back matter（thanks/further reading/sources/index/publisher），不进入精读
 
-**✅ 全书完成**（2026-09-01 批量交付）
+**✅ 全书完成**（2026-09-01 批量交付）→ **✅ 五步法验收通过**（2026-09-01 14:53 UTC 独立审查）
 
 | 批次 | 章节 | Commit |
 |------|------|--------|
@@ -98,10 +98,14 @@
 | Batch 3 | ch07-09 | `c7a4881` |
 | Batch 4 | ch10-12 | `f1d3d52` |
 
-- verify_quotes：115/115（100%）
-- check_vocab：FAIL=0，WARN 若干（基础档长词误报，均为可接受分档）
-- check_chapter_quotes：ch01-12 全部 10/10（ch12 为 5/5）
-- **等待用户指令后执行 `git push`**
+**独立审查五步法结果**（0 缺陷）：
+- 步骤 a：verify_quotes 115/115 ✅，check_vocab FAIL=0 ✅，check_entities 0 ✅
+- 步骤 b：check_chapter_quotes ch01-12 全部 10/10（ch12 5/5）✅，零跨章
+- 步骤 c：引语块编号连续无断档/无重复/四件套齐全 ✅
+- 步骤 d：语义二审无孤儿块/无重复引语 ✅
+- 步骤 e：无总览文件（章节精读体裁），跨书污染扫描 8 专名仅存本书 ✅
+- **COLLABORATION.md 更新 commit**：`2c19358`
+- **用户已验收，等待 `git push` 指令**
 
 ### [2026-09-01 11:36 UTC] [Opencode-Mac] → All
 
