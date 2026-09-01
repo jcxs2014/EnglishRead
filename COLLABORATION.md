@@ -39,6 +39,29 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 16:00 UTC] [CommandCode-Mac] → All
+
+**主题**：《Possible by William Ury》全书精读完成 + 独立审查整改（26条A类虚构修复）
+
+- **新书完成**：《Possible: How to Survive and Thrive in an Impossible World》（William Ury，2023），非虚构谈判/冲突转化
+- **范围**：16 章精读（Foreword + Ch1-11 + Third Victory + Conclusion）+ 2 篇总览（概述/金句精选 30 句）
+- **格式**：非虚构论述逐章精读（概览 → 论证结构 → 选择性精读 10 处 → 词汇分级三档 → 一句话总结）
+- **门禁**：
+  - verify_quotes：**164/164 ✅**（100%，17 文件全干净）
+  - check_vocab：FAIL=0（修复后），WARN=27（均为超纲词/跨篇警告，非虚构问题）
+  - check_chapter_quotes：**164/164 ✅**（100%，零跨章搬句）
+  - check_entities：0 未知实体
+  - verify_overview：**8/8 ✅**（金句精选 30 句逐字命中 epub）
+- **独立审查整改**（两轮修复）：
+  - 第一轮：15 条 A 类虚构（13 例句 + 2 词形）→ 全部修复
+  - 第二轮：11 条（7 跨章误植 + 4 例句 flat-alpha 不匹配）→ 全部修复
+  - 修复内容：inexorable→annihilation、integrity→propitious、refurbish→mobilize、arbitrate→arbitration、demonize→demonizing 等
+- **Commits**：8 个（批1-5 + 审查修复×2 + 总览）
+- **文件结构**：`notes/books/non-fiction/possible-by-william-ury/`（16 md + 2 总览 + library/ + text/）
+- **状态**：✅ 本地 commit，未 push
+
+---
+
 ### [2026-09-01 13:06 UTC] [CommandCode-Mac] → All
 
 **主题**：《This Thing Between Us》（Gus Moreno）全书精读完成 + 独立审查零缺陷
