@@ -59,9 +59,9 @@ modified: "2026-09-01"
 
 ### 第4处：第二块板——Emily Sparrow, last seen August 21, 1966
 
-> **原句 4:** It’s another murder board. ... An old photograph of a girl with hair the color of bleached straw is at the middle of all this organized chaos, with her name scrawled carefully on a piece of paper underneath. Emily Sparrow, last seen August 21, 1966.
+> **原句 4:** An old photograph of a girl with hair the color of bleached straw is at the middle of all this organized chaos, with her name scrawled carefully on a piece of paper underneath. Emily Sparrow, last seen August 21, 1966. It’s another murder board.
 
-中文理解：这是另一块谋杀调查板。……在这场井然有序的混乱中央，是一张旧照片，照片里的女孩头发像漂白的麦秆，下方一张纸上工整地潦草写着她的名字。Emily Sparrow，最后现身于 1966 年 8 月 21 日。
+中文理解：在这场井然有序的混乱中央，是一张旧照片，照片里的女孩头发像漂白的麦秆，下方一张纸上工整地潦草写着她的名字。Emily Sparrow，最后现身于 1966 年 8 月 21 日。这是另一块谋杀调查板。
 
 关键词：organized chaos（有序的混乱）/ last seen（最后现身）
 
