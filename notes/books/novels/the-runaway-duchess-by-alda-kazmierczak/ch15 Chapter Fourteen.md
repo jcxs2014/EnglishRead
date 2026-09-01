@@ -63,7 +63,7 @@ modified: "2026-09-01"
 |---------|------|------|
 | sweltering | 闷热的 | "In the third sweltering stove house of orchids." |
 | pebble | 鹅卵石 | "kicking away a pebble." |
-| glittered | 闪烁，闪耀 | "The jewels glittered." |
+| gleamed | 闪耀，闪光 | "Her waving tresses gleamed in the light like beaten copper." |
 
 ## 一句话总结
 

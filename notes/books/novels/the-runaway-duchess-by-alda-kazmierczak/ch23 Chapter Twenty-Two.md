@@ -54,7 +54,7 @@ modified: "2026-09-01"
 | begrudge | 嫉妒，吝惜 | "Neal couldn't begrudge her that." |
 | condole | 吊唁，慰问 | "Society was eager to condole with her." |
 | malfeasance | 渎职，违法行为 | "her father's malfeasance, the wrongs he'd perpetrated." |
-| detrimental | 有害的，不利的 | "the noxious Duke of Cranbrook." |
+| noxious | 有害的，有毒的 | "She'd been rid of the noxious Duke of Cranbrook and remained a duchess." |
 | trajectory | 轨迹，弹道 | "Such a dizzying trajectory was bound to produce a mix of emotions." |
 
 ### ⭐ 基础
@@ -62,7 +62,7 @@ modified: "2026-09-01"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | beamed | 眉开眼笑 | "Mrs. Buddington sat on a bench, beaming mildly." |
-| rigmarole | 繁琐的程序 | （本章未出现此词，但 Lavinia 的社交义务即是 rigmarole） |
+| besieged | 包围，围困 | "She discharged a solicitor only to be besieged by a countess." |
 | smirks | 假笑，得意的笑 | "His death…occasioned smirks, not suspicion." |
 
 ## 一句话总结

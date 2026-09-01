@@ -15,10 +15,10 @@ modified: "2026-09-01"
 
 ## 精读
 
-> **原句 1:** "She sat, in trousers and morning coat, on a green sofa in a black-and-gold room crowded with cabinets and curios."
+> **原句 1:** "He sat, in trousers and morning coat, on a green sofa in a black-and-gold room crowded with cabinets and curios."
 
 - **中文理解**：Lucy 画中的 Anthony——穿着裤子和晨礼服，坐在堆满柜子和古董的房间里
-- **关键词**：trousers and morning coat（男装——Effie 穿男装暗示她的性格或处境）、black-and-gold room（黑金房间——财富与压抑的象征）
+- **关键词**：trousers and morning coat（男装——Anthony 的正式着装）、black-and-gold room（黑金房间——财富与压抑的象征）
 - **为什么这样写**：用极其具体的画面细节（颜色、家具、服装）构建一个压抑而华丽的世界——这就是 Lavinia 曾经生活的世界
 - **读者视角提示**：这幅画是 Lavinia 的"镜子"——她在这对兄妹身上看到了自己的罪疚
 

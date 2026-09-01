@@ -54,7 +54,7 @@ modified: "2026-09-01"
 | bickering | 争吵，口角 | "Her childhood self, bickering with Anthony." |
 | exploratory | 探索性的 | "Her writerly self, newly confident, exploratory." |
 | decipher | 辨认，解读 | "as she tried to decipher his opening." |
-| illegible | 难以辨认的 | "His script was bad, his syntax worse." |
+| legible | 清晰可读的 | "they'd produced a legible document Anthony could read on the floor." |
 | griffin | 狮鹫 | "twin griffins, stone keys clutched in their stone claws." |
 
 ### ⭐ 基础

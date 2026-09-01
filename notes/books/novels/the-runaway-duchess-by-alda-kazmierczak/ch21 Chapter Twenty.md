@@ -42,10 +42,11 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| dyspeptic | 消化不良的，脾气坏的 | "plump, dyspeptic Professor Murray." |
-| hangers-on | 随从，谄媚者 | "All of the people who'd attended the ill-fated wedding." |
-| congregate | 聚集 | "would congregate gleefully for the funeral." |
-| speculations | 推测，猜测 | "Speculations would circulate regarding the circumstances." |
+| hysteria | 歇斯底里 | "It might have looked and sounded like hysteria." |
+| thugs | 暴徒，打手 | "Granite-face and Tweed, the thugs." |
+| sunken | 凹陷的 | "His face was livid, his cheeks sunken." |
+| livid | 铅灰色的，青紫的 | "His face was livid, his cheeks sunken." |
+| fondle | 爱抚，抚摸 | "Cranbrook had dared to pinch and fondle her." |
 
 ### ⭐⭐ 进阶
 

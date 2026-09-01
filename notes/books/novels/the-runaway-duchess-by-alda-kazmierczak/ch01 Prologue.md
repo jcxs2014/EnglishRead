@@ -47,7 +47,7 @@ modified: "2026-09-01"
 
 - **中文理解**：Lavinia 自嘲地盘点自己唯一会的事——全是维多利亚淑女的无用技能
 - **关键词**：cossetted（被溺爱/被圈养）、little world（她的世界被缩小为"little"）
-- **为什么这样写**：用清单式罗列（dance, hold a tune, play the piano, speak French, flirt, sulk…）制造荒诞感——一个被精心培养的"花瓶"在现实面前毫无用处
+- **为什么这样写**：承接上文的清单式罗列（dance, hold a tune, play the piano, speak French, flirt, sulk…），用"cossetted little world"给这些技能定性——全是养在笼中的无用本领
 - **读者视角提示**：这段是 Lavinia 自我认知的最清醒时刻，也为她后来的转变埋下伏笔——她知道自己需要学新东西
 
 > **原句 6:** "The marriage might be, in a sense, a success. A man so old, so besotted, so doddering and goatish, perversely fixated—she'd be able to wrap him around her finger."
