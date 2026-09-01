@@ -73,9 +73,9 @@ modified: "2026-09-01"
 
 ### 第5处：藏身方案——"I think we can persuade him"
 
-> **原句 5:** “You mean, hide out at the Gravesdown estate?” ... “I think we can persuade him,” she said. And the look on her face was coy. I didn’t like it, so I suggested another idea.
+> **原句 5:** “I think we can persuade him,” she said. And the look on her face was coy. I didn’t like it, so I suggested another idea.
 
-中文理解："你是说，藏进 Gravesdown 庄园？"……"我想我们能说服他，"她说。她脸上的表情有点忸怩作态。我不喜欢它，于是提了另一个主意。
+中文理解："我想我们能说服他，"她说。她脸上的表情有点忸怩作态。我不喜欢它，于是提了另一个主意。
 
 关键词：persuade（说服）/ coy（忸怩作态的）
 
