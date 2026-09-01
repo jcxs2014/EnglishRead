@@ -109,7 +109,6 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
-| gravestones | 墓碑 | weaving between lopsided gravestones and sprawling yew trees |
 | yew | 紫杉 | weaving between lopsided gravestones and sprawling yew trees |
 
 ## 一句话总结
