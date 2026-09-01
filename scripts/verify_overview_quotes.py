@@ -14,7 +14,7 @@ verify_overview_quotes.py — 总览文件引文真实性核对工具
 """
 import re, sys, glob, html, zipfile, tempfile, os
 
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩'
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 
 def flat_alpha(s: str) -> str:
     s = re.sub(r'\\+\s*[nt]', '', s)
