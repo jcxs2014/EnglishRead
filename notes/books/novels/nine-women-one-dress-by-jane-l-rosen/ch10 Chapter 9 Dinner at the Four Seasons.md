@@ -22,10 +22,10 @@ modified: "2026-09-01"
 - 为什么这样写：用"衣帽间/权力午餐"这两个细节建立 Felicia 的"局外人"位置——她一直在权力与爱情的门槛外，连递文件都隔着门房。
 - 读者视角提示："power lunch"这个词在四季酒店被发明——Felicia 用这种"文化地标"的开篇，暗示今晚对她而言不只是吃饭，是进入她从未进入的世界。
 
-② "It wasn't long after that power lunch before I started calling him Mr. Winters. It wasn't long after that before I had fallen in love with him."
+② "It wasn't long after that power lunch before I started calling him Arthur. Not much longer than that before I had fallen in love with him."
 
 - 中文理解：那次权力午餐后不久，她开始改口叫他"Arthur"——又没过多久，她就爱上了他。
-- 关键词：started calling him Mr. Winters / fallen in love——从"Winters 先生"到"Arthur"再到"爱"的递进，把十八年浓缩成两句。
+- 关键词：started calling him Arthur / fallen in love——从"Winters 先生"到"Arthur"再到"爱"的递进，把十八年浓缩成两句。
 - 为什么这样写：用"称呼的改变"作为爱恋开始的刻度——她第一次叫他 Arthur 的时刻，就是她沦陷的时刻；称呼是全章的时间坐标。
 - 读者视角提示：注意"Mr. Winters→Arthur"的称呼变迁——这是 Felicia 对 Arthur 感情的分水岭，也解释了她后来所有"我该跳槽却没跳"的选择。
 

@@ -18,7 +18,7 @@ modified: "2026-09-01"
 ① "It was madness. I had been measured at least five times at casting. I thought that would be the worst part, fifty eager models lined up in black slips, dreaming of cheeseburgers."
 
 - 中文理解：后台一片混乱，Sally 在试装时已被量了至少五次尺寸；她原以为那是最糟的部分——五十个穿着黑色吊带裙、饿到梦着汉堡的模特挤在一起排队。
-- 关键词：madness / cattle call——把模特面试比作"牲口过筛"，既写竞争残酷，也写模特群体的物化处境。
+- 关键词：madness / measured at least five times / lined up——"一片混乱"是后台状态；"量了至少五次尺寸"与"排队站成一排"写模特被反复审视、物化的处境。
 - 为什么这样写：用"我以为那是人生最糟时刻"的句式作开场铺垫——暗示更糟的还在后头，也为她"现在是全场最胖的女孩"的冲击做反差。
 - 读者视角提示："dreaming of cheeseburgers"是全书模特形象的第一次定调——她们是饿着肚子的普通女孩，不是杂志封面上的女神。
 

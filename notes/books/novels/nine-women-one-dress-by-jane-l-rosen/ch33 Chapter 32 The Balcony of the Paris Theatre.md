@@ -88,14 +88,14 @@ modified: "2026-09-01"
 ⑪ "Your wife, Caroline, hired me a few months ago to try and find evidence that you were having an affair so she could take advantage of the infidelity clause in your prenup. ... I'm sorry, John, but it turned out she was the one having an affair. She's cheating on you but wanted to make it look the other way around, for the money."
 
 - 中文理解：Andie 坦白——Caroline 几个月前雇她找 John 出轨的证据，想利用婚前协议里的"不忠条款"；但调查发现 Caroline 才是出轨的人，她想栽赃 John，"为了钱"。
-- 关键词：the infidelity clause in your prenup / she was the one having an affair / wanted to make it look the other way around, for the money——"婚前协议不忠条款"是动机；"她才是出轨者"是真相；"为了钱栽赃"是 Carline 的计划。
+- 关键词：the infidelity clause in your prenup / she was the one having an affair / wanted to make it look the other way around, for the money——"婚前协议不忠条款"是动机；"她才是出轨者"是真相；"为了钱栽赃"是 Caroline 的计划。
 - 为什么这样写：用"她才是出轨者"揭晓全书侦探线最大的反转——Caroline 从头到尾在演受害者，实际是"为了钱"设计 John；这让 John 的震惊与 Andie 的愧疚都有了落点。
 - 读者视角提示："for the money"是全书 Caroline 行为的最终动机——她不是爱错人，是要钱；这解释了她在前面所有章节的"完美受害者"表演。
 
 ⑫ "'John, I don't want to contribute to her false case against you. As of now there isn't one compromising photo of us—we came out of the theater like two friends who just saw a movie. If I need to, I will testify to the truth—that she's trying to set you up and that there's nothing going on between us.'"
 
 - 中文理解：Andie 承诺——她不想帮助 Caroline 的假案；目前没有任何"越界照片"（他们像两个刚看完电影的朋友一样走出影院）；如果需要，她愿意作证说真话——是 Caroline 在设局，他们之间什么都没有。
-- 关键词：her false case against you / there isn't one compromising photo of us / I will testify to the truth / she's trying to set you up——"假案"是 Caroline 的栽赃；"没有越界照片"是她的清白证明；"作证说真话"是她的承诺；"设局"是 Carline 的手段。
+- 关键词：her false case against you / there isn't one compromising photo of us / I will testify to the truth / she's trying to set you up——"假案"是 Caroline 的栽赃；"没有越界照片"是她的清白证明；"作证说真话"是她的承诺；"设局"是 Caroline 的手段。
 - 为什么这样写：用"我可以作证"写 Andie 的担当——她愿意牺牲职业（作证揭穿雇主）来保护 John；这是她从"侦探"走向"为爱作证"的关键转变。
 - 读者视角提示：注意"nothing going on between us"——Andie 嘴上说"我们之间什么都没有"，心里却早已沦陷；这个"口是心非"是全书 Andie 线最动人的细节。
 
@@ -109,7 +109,7 @@ modified: "2026-09-01"
 ⑭ "My wife of twelve years wanted to get away from me so badly that she had resorted to entrapment, and Andie couldn't stay away from me. My silence must have scared her, because her next words were spoken in a tone that was all business."
 
 - 中文理解：John 恍然——十二年的妻子想离开他到不惜设局栽赃，而 Andie 却离不开他；他的沉默吓到了她，她下一句话变得公事公办。
-- 关键词：resorted to entrapment / Andie couldn't stay away from me / her next words were spoken in a tone that was all business——"设局栽赃"是 Carline 的极端；"Andie 离不开我"是爱；"公事公办的口吻"是 Andie 的自我保护。
+- 关键词：resorted to entrapment / Andie couldn't stay away from me / her next words were spoken in a tone that was all business——"设局栽赃"是 Caroline 的极端；"Andie 离不开我"是爱；"公事公办的口吻"是 Andie 的自我保护。
 - 为什么这样写：用"妻子要逃 vs Andie 要留"的对照让 John 看清——Caroline 想毁掉他，Andie 想保护他；这个对照让他的"吻或打官司"的选择变得理所当然。
 - 读者视角提示："entrapment"（设局诱捕）是本章的法律关键词——Caroline 的手段不只是出轨，是犯罪级的栽赃。
 
@@ -117,8 +117,8 @@ modified: "2026-09-01"
 
 - 中文理解：John 脑中闪过从《克莱默夫妇》到《玫瑰战争》的所有离婚电影画面；在最传奇的纽约地标（Plaza 前），他捧起 Andie 的脸，用多年未有的激情吻她——脑中仿佛听到摄影师快门的咔哒声。
 - 关键词：divorce movie from Kramer vs. Kramer to The War of the Roses / took Andie Rand's face in my hands / kissed her with a passion / the shutter of the photographer's camera——"离婚电影"是婚姻的注脚；"捧脸亲吻"是爱情的决断；"快门声"是他对"栽赃照片"的主动拥抱。
-- 为什么这样写：用"离婚电影"与"激情之吻"的并置写 John 的选择——他在脑中看完所有离婚剧本后，选择用"真实的吻"回应 Carline 的栽赃；"快门声"是他故意让摄影师拍到的"出轨证据"。
-- 读者视角提示：注意"shutter of the photographer's camera"——John 的吻是"故意的"：与其被动被拍"假出轨"，不如主动给摄影师一张"真吻"，宣告他与 Carline 的决裂。
+- 为什么这样写：用"离婚电影"与"激情之吻"的并置写 John 的选择——他在脑中看完所有离婚剧本后，选择用"真实的吻"回应 Caroline 的栽赃；"快门声"是他故意让摄影师拍到的"出轨证据"。
+- 读者视角提示：注意"shutter of the photographer's camera"——John 的吻是"故意的"：与其被动被拍"假出轨"，不如主动给摄影师一张"真吻"，宣告他与 Caroline 的决裂。
 
 ⑯ "She broke away in protest. 'What are you doing? Are you crazy?' I smiled at her, feeling sure of myself for the first time in a long time. 'Kiss the girl or waste months in a drawn-out court battle with my cheating wife and, let's not forget, the mother of my child? I am most definitely not crazy.'"
 
@@ -138,8 +138,8 @@ modified: "2026-09-01"
 
 - 中文理解：John 提议"生蚝酒吧怎么样？"，Andie 说"是约会"；John 说"我们的第一次"，牵起她的手，两人几乎跳着走下第五大道，身后跟着他们"私人的摄影师"；他知道前路有很多重要决定，但此刻他只专注第一个：龙虾浓汤还是蛤蜊浓汤？
 - 关键词：It's a date / Our first / practically skipped down Fifth Avenue / our own personal photographer in tow / lobster bisque or clam chowder——"是约会"是确认；"我们的第一次"是开始；"跳着走"是喜悦；"私人的摄影师"是反讽的幽默；"龙虾汤还是蛤蜊汤"是全书最轻的结尾。
-- 为什么这样写：用"龙虾汤还是蛤蜊汤"收束全章——John 从"重大决定（离婚、官司、爱情）"落到"选哪种汤"，把生活的重量化作最轻的日常；"our own personal photographer in tow"把 Carline 的阴谋变成两人的幽默背景。
-- 读者视角提示："lobster bisque or clam chowder"是全书最完美的"收尾镜头"——它宣告 John 与 Andie 即将开始新生活，而那条"私人摄影师"的尾巴让 Carline 的阴谋彻底变成他们爱情的注脚。
+- 为什么这样写：用"龙虾汤还是蛤蜊汤"收束全章——John 从"重大决定（离婚、官司、爱情）"落到"选哪种汤"，把生活的重量化作最轻的日常；"our own personal photographer in tow"把 Caroline 的阴谋变成两人的幽默背景。
+- 读者视角提示："lobster bisque or clam chowder"是全书最完美的"收尾镜头"——它宣告 John 与 Andie 即将开始新生活，而那条"私人摄影师"的尾巴让 Caroline 的阴谋彻底变成他们爱情的注脚。
 
 ## 本章词汇
 
@@ -184,4 +184,4 @@ modified: "2026-09-01"
 
 ## 一句话总结
 
-Chapter 32 让 Andie-John 线迎来真相与决断：John 在巴黎剧院阳台"偶遇" Andie、黑暗中牵手看完电影，却在 Plaza 前得知广场对面的摄影师是妻子雇来栽赃他的——Andie 坦白她才是被 Carline 雇的侦探、Caroline 才是出轨者；John 的回应是当着摄影师的面吻了 Andie，"Kiss the girl or waste months in court"成为全书最机智的爱情宣言，而"龙虾汤还是蛤蜊汤"则把生活的重量化作最轻的日常。
+Chapter 32 让 Andie-John 线迎来真相与决断：John 在巴黎剧院阳台"偶遇" Andie、黑暗中牵手看完电影，却在 Plaza 前得知广场对面的摄影师是妻子雇来栽赃他的——Andie 坦白她才是被 Caroline 雇的侦探、Caroline 才是出轨者；John 的回应是当着摄影师的面吻了 Andie，"Kiss the girl or waste months in court"成为全书最机智的爱情宣言，而"龙虾汤还是蛤蜊汤"则把生活的重量化作最轻的日常。
