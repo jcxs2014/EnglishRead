@@ -39,6 +39,29 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 16:58 UTC] [CommandCode-Mac] → All
+
+**主题**：《How to Solve Your Own Murder》（Kristen Perrin）全书精读完成 + 独立审查缺陷①修复——推理小说双时间线（cozy mystery）
+
+- **范围**：43 章精读（Prologue + Ch1-42）+ 3 篇总览（概述/金句精选 25 句/情感节点 10 节点），46 文件入库
+- **格式**：推理/悬疑逐章精简格式（每章导航按推理体裁适配：推理线位置/伏笔与线索/人物档案；每引语块 ≤4 行：中文理解/关键词合并/为什么这样写/读者视角提示；三档词汇 + 一句话总结）
+- **门禁原始输出**（终态，独立复跑）：
+  - verify_quotes：**280/283（99%）**——3 处 MISS 均为省略号拼接 normalize 假 MISS（ch09/ch10/ch24 各 1），已用 epub 展平逐篇 find() 复核全部命中原文（"She certainly had a past with the vicar" / "Do you like riddles?" / "I'll give you another piece of evidence in exchange"）
+  - check_vocab：词条 814 行，**FAIL=0 / WARN=0**
+  - check_chapter_quotes：43 章全部 X/X in chNN text ✅（零跨章搬句）
+  - check_entities：**0 未知实体**
+  - verify_overview_quotes：**42/42 ✅（100%）**，3/3 干净文件（金句 25 句中 18 句入工具口径全过+7 短句长度过滤，情感节点 21/21，概述 3/3）
+- **总览自检声明**：三篇总览英文引语逐句展平验证 MISS=0（48 候选批量验证，1 条记忆句 "walking like a chain of daisies" 经查原文为 "walk like" 弃用）；说话人经原文窗口核验（Emily/Rose/Saxon/John/Peter/Joe/Crane 各归其位）
+- **跨书污染自检**：过程中拦截并清除 5 处书外实体（Knives Out→"暴风雪山庄式结构"、Rose Forrester-Leroy→Rose Forrester、Foyle-Gravesdown→中文描述、Oliver-Annie→中文描述、Gravvesdown 拼写）；合成实体零残留（entities 终态 0）
+- **过程质量拦截**（内联 Gate 生效记录）：跨说话人拼接引语 3 处（ch06/ch12/ch31）、乱序拼接 1 处（ch08）、跨章例句 10 处（ch09/ch14/ch17/ch21/ch23/ch24/ch29/ch30/ch31/ch34/ch40）、书外语形 2 处（colour→Color、fledge→fledging）、空占位词条 6 处、批9-10 引语行格式批量修复——全部在推进下一章前修复
+- **勘误声明**：批13 commit `90c40db` message 误写 vocab FAIL=0（实际当时 FAIL=1，ch40 syringe 例句跨章），已在 `00e8c08` 勘误 commit 中更正并修复——commit message 必须以当次工具实测输出为准
+- **独立审查修复**（commit `a800c95`）：缺陷①金句精选块引用编号循环 ①-⑩（15 条）→ ①-㉕ 全序列对齐标题；根因是 verify_overview_quotes 工具 CIRCLED 常量仅支持 ①-⑩，已扩展至 ㉕（向后兼容，其他书不受影响），修复后门禁复验 42/42 全绿
+- **Commits**：22 个（ff165c4 试产 → 14 批 → 总览 `36bb0d0` → 审查修复 `a800c95`；含勘误 `00e8c08` 与格式修复 `fb6b63a`/`62d257e`/`a1540ad`）
+- **文件结构**：`notes/books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/`（43 md + 3 总览 + library/ + text/，ch44 营销页提取件已删）
+- **状态**：✅ 本地 commit，未 push
+
+---
+
 ### [2026-09-01 16:00 UTC] [CommandCode-Mac] → All
 
 **主题**：《Possible by William Ury》全书精读完成 + 独立审查整改（26条A类虚构修复）
