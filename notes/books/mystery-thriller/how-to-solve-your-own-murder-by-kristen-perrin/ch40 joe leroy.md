@@ -113,7 +113,7 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句（原文） |
 |---|---|---|
-| syringe | 注射器 | He’s already got a syringe in his hand |
+| syringe | 注射器 | I try not to look at the syringe in Joe’s hand as he takes another step toward me |
 | gloves | 手套 | “No, it’ll be impossible. I had my gloves on,” |
 
 ## 一句话总结
