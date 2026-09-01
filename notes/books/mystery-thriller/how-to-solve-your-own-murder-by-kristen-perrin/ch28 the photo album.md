@@ -17,7 +17,7 @@ modified: "2026-09-01"
 
 ### 第1处：花刺虚惊——Frances 的最后一束花
 
-> 原句 1: “Mum pricked a finger on a thorn in one of the flower arrangements that Frances gave her.” His eyes dart to the wilting flowers on the reception desk. “She had a panic that she’d been poisoned, but she’s fine.”
+> **原句 1:** “Mum pricked a finger on a thorn in one of the flower arrangements that Frances gave her.” His eyes dart to the wilting flowers on the reception desk. “She had a panic that she’d been poisoned, but she’s fine.”
 
 中文理解："妈妈被 Frances 送的插花里的一根刺扎破了手指。"他的眼神瞟向前台那些蔫掉的花。"她吓坏了，以为自己中了毒，但她没事。"
 
@@ -31,7 +31,7 @@ modified: "2026-09-01"
 
 ### 第2处：误认暴怒——"叫 Laura 滚回伦敦"
 
-> 原句 2: “If that’s Laura,” the voice snaps from the next room, “tell her to bugger off back to London!” ... It occurs to me that she must have thought for a moment that I was Mum, and I wonder what on earth Mum did to upset her.
+> **原句 2:** “If that’s Laura,” the voice snaps from the next room, “tell her to bugger off back to London!” ... It occurs to me that she must have thought for a moment that I was Mum, and I wonder what on earth Mum did to upset her.
 
 中文理解："如果是 Laura，"隔壁房间的声音厉声道，"叫她滚回伦敦去！"……我意识到她刚才准是有一瞬间以为我就是妈妈，我纳闷妈妈到底做了什么惹恼了她。
 
@@ -45,7 +45,7 @@ modified: "2026-09-01"
 
 ### 第3处：Rose 的判词——"更像 Frances，这是好兆头"
 
-> 原句 3: “But you know, when I see you properly…” Rose’s face softens into a smile. “You remind me more of Frances than of her. That’s a good sign, I think.” ... “Frances liked to write in little books too,” Rose says. Her eyes crinkle at the memory, but I can sense it’s a fond one.
+> **原句 3:** “But you know, when I see you properly…” Rose’s face softens into a smile. “You remind me more of Frances than of her. That’s a good sign, I think.” ... “Frances liked to write in little books too,” Rose says. Her eyes crinkle at the memory, but I can sense it’s a fond one.
 
 中文理解："不过你看，当我好好看你的时候……"Rose 的脸舒展成一个微笑。"比起她，你更像 Frances。我觉得这是个好兆头。"……"Frances 也喜欢在小本子上写字，"Rose 说。回忆让她的眼睛皱起来，我能感觉到那是温柔的。
 
@@ -59,7 +59,7 @@ modified: "2026-09-01"
 
 ### 第4处：Saxon 的终身定性——"骗子加窥视狂"
 
-> 原句 4: Rose’s expression instantly sharpens. “Saxon? Don’t listen to Saxon. He’s always been a liar and a snoop.”
+> **原句 4:** Rose’s expression instantly sharpens. “Saxon? Don’t listen to Saxon. He’s always been a liar and a snoop.”
 
 中文理解：Rose 的表情瞬间锐利起来。"Saxon？别听 Saxon 的。他从来就是个骗子和窥视狂。"
 
@@ -73,7 +73,7 @@ modified: "2026-09-01"
 
 ### 第5处：剪贴簿——"我们都没走出失去 Emily 的日子"
 
-> 原句 5: “Frances hated that I had these, she always said we needed to move forward and look to the future.” Rose smiles weakly. “Always so concerned with her future, that Frances. But we were so alike, you see. Frances spent as much time as I did thinking about our youth, maybe more. Because we all never really got over losing Emily.”
+> **原句 5:** “Frances hated that I had these, she always said we needed to move forward and look to the future.” Rose smiles weakly. “Always so concerned with her future, that Frances. But we were so alike, you see. Frances spent as much time as I did thinking about our youth, maybe more. Because we all never really got over losing Emily.”
 
 中文理解："Frances 讨厌我留着这些，她总说我们要向前看、看向未来。"Rose 虚弱地笑了笑。"她就是那么关心'未来'。但你瞧，我们其实很像。Frances 和我花在回想青春上的时间一样多，甚至更多。因为我们谁都没真正走出失去 Emily 的日子。"
 
@@ -87,7 +87,7 @@ modified: "2026-09-01"
 
 ### 第6处：大肚照片——"Mum."
 
-> 原句 6: I pause over a picture of Emily, sitting in the garden of our Chelsea house, her belly absolutely huge. ... “Mum,” I murmur as I run a finger over the bump in the picture.
+> **原句 6:** I pause over a picture of Emily, sitting in the garden of our Chelsea house, her belly absolutely huge. ... “Mum,” I murmur as I run a finger over the bump in the picture.
 
 中文理解：我在一张照片前停下——Emily 坐在我们 Chelsea 家的花园里，肚子已经大得惊人。……"妈妈，"我低声说，手指抚过照片上的隆起。
 

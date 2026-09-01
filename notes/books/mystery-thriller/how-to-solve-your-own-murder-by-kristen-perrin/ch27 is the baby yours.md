@@ -17,7 +17,7 @@ modified: "2026-09-01"
 
 ### 第1处：Chelsea 安置——"我是为了 Frances"
 
-> 原句 1: Peter said, “This is amazingly generous of you, Ford, what you’re doing for us. And for Emily.” And Ford said, “I’m glad to help you all, but I’ll be honest. I’m not doing it for you, and I’m not doing it for Emily. I’m doing it for Frances.”
+> **原句 1:** Peter said, “This is amazingly generous of you, Ford, what you’re doing for us. And for Emily.” And Ford said, “I’m glad to help you all, but I’ll be honest. I’m not doing it for you, and I’m not doing it for Emily. I’m doing it for Frances.”
 
 中文理解：Peter 说："Ford，你为我们做的一切、为 Emily 做的一切，实在慷慨得惊人。"Ford 说："很高兴能帮你们，但说实话，我不是为你，也不是为 Emily。我是为 Frances。"
 
@@ -31,7 +31,7 @@ modified: "2026-09-01"
 
 ### 第2处：直球对峙——"Is the baby yours?"
 
-> 原句 2: I crossed my arms over my chest and gave him a level stare. “Is the baby yours?” One corner of his mouth twitched upward, as if he was impressed at my boldness. “I don’t know,” he said plainly.
+> **原句 2:** I crossed my arms over my chest and gave him a level stare. “Is the baby yours?” One corner of his mouth twitched upward, as if he was impressed at my boldness. “I don’t know,” he said plainly.
 
 中文理解：我双臂抱胸，给了他一个平视的注视。"孩子是你的吗？"他嘴角的一角向上抽动，仿佛被我的大胆取悦了。"我不知道，"他直截了当地说。
 
@@ -45,7 +45,7 @@ modified: "2026-09-01"
 
 ### 第3处：rake 自白——"她不比任何漂亮女人更有趣"
 
-> 原句 3: “So I let her seduce me. But I’m careful.” He looked at me pointedly. “I used protection, I’m not an idiot. And I told her it was a onetime thing. She hated that. I don’t think she realized until later that she was no more interesting than any other pretty woman I’ve met.”
+> **原句 3:** “So I let her seduce me. But I’m careful.” He looked at me pointedly. “I used protection, I’m not an idiot. And I told her it was a onetime thing. She hated that. I don’t think she realized until later that she was no more interesting than any other pretty woman I’ve met.”
 
 中文理解："所以我任她勾引。但我很小心。"他直勾勾地看着我。"我做了防护，我不是傻子。而且我告诉她这是一次性的。她恨这个。我想她直到后来才意识到，她并不比我见过的任何漂亮女人更有趣。"
 
@@ -59,7 +59,7 @@ modified: "2026-09-01"
 
 ### 第4处：战利品书房——"Father was a conqueror"
 
-> 原句 4: “This library,” I said slowly. “These were all your father’s things.” His voice grew quieter. “Father was a conqueror.” ... “When my wife left me, I let my heartless streak consume me. I took the farm from the Foyles, scattering their family who knows where.”
+> **原句 4:** “This library,” I said slowly. “These were all your father’s things.” His voice grew quieter. “Father was a conqueror.” ... “When my wife left me, I let my heartless streak consume me. I took the farm from the Foyles, scattering their family who knows where.”
 
 中文理解："这间书房，"我缓缓地说，"这些都是你父亲的东西。"他的声音低下去。"父亲是个征服者。"……"我妻子离开我之后，我放任自己的无情吞噬我。我从 Foyle 家手里夺走了农场，把他们一家散落到天知道哪里。"
 
@@ -73,7 +73,7 @@ modified: "2026-09-01"
 
 ### 第5处：引力——"Ford had become that for me"
 
-> 原句 5: But there was the pull now—it felt like gravity. Something so subtle and constant that it lives in your bones and your body can do nothing but obey its rules. Ford had become that for me. ... I was silly enough to believe that hearts can work that way. I didn’t know yet how much stronger gravity gets when you see the messy pieces of a person and breathe them in, make them yours.
+> **原句 5:** But there was the pull now—it felt like gravity. Something so subtle and constant that it lives in your bones and your body can do nothing but obey its rules. Ford had become that for me. ... I was silly enough to believe that hearts can work that way. I didn’t know yet how much stronger gravity gets when you see the messy pieces of a person and breathe them in, make them yours.
 
 中文理解：但那种引力已经在了——它像地心引力。如此微妙而恒常，住在你的骨头里，身体除了服从它的规则别无他法。Ford 对我而言成了那样。……我当时傻到相信心可以那样运作。我还不知道，当你看见一个人杂乱的碎片、吸入它们、把它们变成你的，引力会变得多强。
 
@@ -87,7 +87,7 @@ modified: "2026-09-01"
 
 ### 第6处：创造性惩罚——面包店妈妈
 
-> 原句 6: After that I got weekends full of rather creative punishments, under close supervision. I organized the garage all through May, and spent June and July clearing the overgrown back garden. ... So, thanks to Mother, I didn’t see Ford for weeks. ... And I started to worry, because I missed him.
+> **原句 6:** After that I got weekends full of rather creative punishments, under close supervision. I organized the garage all through May, and spent June and July clearing the overgrown back garden. ... So, thanks to Mother, I didn’t see Ford for weeks. ... And I started to worry, because I missed him.
 
 中文理解：那之后我的周末都填满了颇具创造性的惩罚，全程有人盯着。整个五月我在整理车库，六月和七月清理荒长的后花园。……所以，多亏了妈妈，我几个星期没见着 Ford。……然后我开始担心，因为我想他了。
 

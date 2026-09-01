@@ -45,7 +45,7 @@ modified: "2026-09-01"
 
 ### 第3处：白玫瑰花田——凶器的出生地
 
-> 原句 3: White long-stemmed roses are bursting from rows of bushes, majestic in the summer sun. I feel a sinister chill when I look at the stems. They’re the same variety of roses that had the needles in them, I’m certain of it. Whoever sent the flowers to Great Aunt Frances, they started life on this farm.
+> **原句 3:** White long-stemmed roses are bursting from rows of bushes, majestic in the summer sun. I feel a sinister chill when I look at the stems. They’re the same variety of roses that had the needles in them, I’m certain of it. Whoever sent the flowers to Great Aunt Frances, they started life on this farm.
 
 中文理解：白色长茎玫瑰从成排的灌木里迸出来，在夏日阳光下气象堂皇。看着那些花茎，我感到一阵阴冷的战栗。它们和插着针头的那些玫瑰是同一品种——我确定。给姑婆 Frances 送花的人，这些花就出生在这座农场。
 
@@ -59,7 +59,7 @@ modified: "2026-09-01"
 
 ### 第4处：诊所失窃——"我以为贼要的是 ketamine"
 
-> 原句 4: “We had a break-in about a week ago, and I was a bit late in reporting it, but a report’s been filed now.” ... “But honestly? At the time, I thought whoever robbed me was just after the ketamine.”
+> **原句 4:** “We had a break-in about a week ago, and I was a bit late in reporting it, but a report’s been filed now.” ... “But honestly? At the time, I thought whoever robbed me was just after the ketamine.”
 
 中文理解："大约一周前我们遭了贼，我报案晚了些，但现在已经立案。"……"不过说实话？当时我以为贼要的就是 ketamine。"
 
@@ -73,7 +73,7 @@ modified: "2026-09-01"
 
 ### 第5处：polytunnels——"脆弱的生态系统"
 
-> 原句 5: So I decide to ignore his instructions about the polytunnels, and I walk straight into his “fragile ecosystem.” ... Which, it turns out, is row after row of extremely healthy-looking marijuana plants.
+> **原句 5:** So I decide to ignore his instructions about the polytunnels, and I walk straight into his “fragile ecosystem.” ... Which, it turns out, is row after row of extremely healthy-looking marijuana plants.
 
 中文理解：于是我决定无视他关于大棚的嘱咐，径直走进他的"脆弱生态系统"。……结果发现，那是一排又一排长势极其喜人的大麻。
 
@@ -87,7 +87,7 @@ modified: "2026-09-01"
 
 ### 第6处：交易成立——"I give you my word"
 
-> 原句 6: “I give you my word I won’t go to the police about your side business,” I say carefully. This wouldn’t keep me from dropping facts that might lead them there, but I’m not in a rush to do that.
+> **原句 6:** “I give you my word I won’t go to the police about your side business,” I say carefully. This wouldn’t keep me from dropping facts that might lead them there, but I’m not in a rush to do that.
 
 中文理解："我向你保证，我不会为你的副业去找警察，"我字斟句酌地说。这并不妨碍我丢出一些可能把他们引过去的事实，但我不急着那么做。
 
