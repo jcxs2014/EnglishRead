@@ -117,117 +117,33 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| discreet | 谨慎的，小心的 | the great fathers in their discreet wisdom |
-| inflorescence | 开花，花朵 | the inflorescence of joy |
-| vibrant | 充满活力的，鲜艳的 | yield the most vibrant fruit |
-| briefcase | 公文包，手提箱 | his father's old briefcase |
-| peruse | 仔细阅读，详阅 | he sat down to watch her peruse the documents |
-| swaggering | 大摇大摆地，神气活现地 | swaggering slightly |
-| abracadabra | 咒语，胡言乱语 | "Abracadabra—you will see." |
-| detached | 分开的，分离的 | detaching himself |
-| speechless | 说不出话的，无语 | I am speechless |
-| sacrifice | 牺牲，献祭 | I am not worth this sacrifice |
-| destroyed | 破坏，摧毁 | You have destroyed yourself |
-| cleave | 劈开，分开 | his heart now cleaved |
-| lithe | 柔软的，轻盈的 | with every lithe step visible |
-| fabric | 织物，布料 | through the fabric of her tight skirt |
-| skirt | 裙子，短裙 | through the fabric of her tight skirt |
-| motorcycle | 摩托车，机车 | a man on a motorcycle raced past |
-| hissed | 发出嘶声，用嘶声表示不满 | She hissed at the man |
-| vehicle | 车辆，交通工具 | his vehicle whining |
-| cleaved | 劈开，分开 | his heart now cleaved |
-| hastened | 急忙，赶紧 | hastened to her |
-| disappearing | 消失的，不见的 | at the disappearing man |
-| empty | 空的，空洞的 | as if the world had itself suddenly become empty |
-| occurred | 发生，出现 | it occurred to him that this might be what she most feared |
-| prying | 爱打听的，窥探的 | exposed to the prying eyes of other men |
-| interim | 临时的，间歇的 | in the interim |
-| fervently | 热烈地，热心地 | he said these things so fervently |
-| steeped | 沉浸的，沉入的 | she was no longer steeped in sorrow |
-| ankara | 安卡拉布（非洲印花布） | in an ankara print gown |
-| calico | 棉布，白棉布 | a calico head scarf |
-| stirring | 搅拌，搅动 | stirring tea in a cup |
-| memorable | 值得纪念的，难忘的 | that memorable morning of life |
-| taken aback | 吃惊，惊愕 | He was so taken aback that he struggled to find words |
-| crate | 板条箱，塑料箱 | one of the plastic crates |
-| dozen | 十二个，一打 | its dozen egg-holding cups nearly filled with eggs |
-| broilers | 肉鸡，童子鸡 | "Those ones are from the broilers?" |
-| collected | 收集，采集 | I collected them around six o'clock |
-| laying | 产卵，下蛋 | They are even even still laying more |
-| fascinated | 着迷的，入迷的 | She was fascinated by the phenomenon of egg laying |
-| phenomenon | 现象，迹象 | the phenomenon of egg laying |
-| rapidly | 迅速地，快速地 | how rapidly it occurred in chickens |
-| okay | 好的，可以 | "It is okay, Nonso. It is okay." |
-| Ogbete | 奥贝泰（尼日利亚地名） | "Mommy, okay, but Ogbete market is—" |
-| confused | 困惑的，糊涂的 | He was somewhat perplexed by what she'd said |
-| treat | 对待，处理 | "I don't like you treating me like I'm an egg." |
-| egg | 蛋，卵 | "I don't like you treating me like I'm an egg." |
-| like | 像，如同 | "I don't like you treating me like I'm an egg." |
-| ankara | 安卡拉布（非洲印花布） | in an ankara print gown |
+| discreet | 谨慎的，小心的 | An Orchestra of Minorities 9 Crossing the Threshold A GBARADIKE, the great fathers in their discreet wisdom say that ... |
+| inflorescence | 开花，花朵 | So my host, in the days following his meeting with his old schoolmate, shielded from the world the inflorescence of j... |
+| vibrant | 充满活力的，鲜艳的 | An Orchestra of Minorities 9 Crossing the Threshold A GBARADIKE, the great fathers in their discreet wisdom say that ... |
+| briefcase | 公文包，手提箱 | He hid his father’s old briefcase, in which he stored the documents he collected, under the bed. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| secret | 秘密的，保密的 | seeds sown in secret |
-| joy | 快乐，喜悦 | the inflorescence of joy |
-| heart | 心，心脏 | along the edges of his heart |
-| world | 世界，地球 | shielded from the world |
-| father | 父亲，爸爸 | his father's old briefcase |
-| briefcase | 公文包，手提箱 | his father's old briefcase |
-| documents | 文件，文档 | the documents he collected |
-| bed | 床，床铺 | under the bed |
-| attached | 附加的，连接的 | He attached his heart to the bag |
-| bag | 袋子，口袋 | He attached his heart to the bag |
-| contained | 包含，容纳 | as if it contained everything he owned |
-| life | 生命，生活 | his very life |
-| days | 天，日子 | in the days following his meeting |
-| meeting | 会议，会面 | his meeting with his old schoolmate |
-| schoolmate | 同学，同班同学 | his old schoolmate |
-| shielded | 遮蔽，保护 | shielded from the world |
-| inflorescence | 开花，花朵 | the inflorescence of joy |
-| grew | 生长，成长 | that grew along the edges of his heart |
-| edges | 边缘，边沿 | along the edges of his heart |
-| hid | 隐藏，隐瞒 | He hid his father's old briefcase |
-| stored | 储存，存放 | in which he stored the documents |
-| collected | 收集，采集 | the documents he collected |
-| attached | 附加的，连接的 | He attached his heart to the bag |
-| contained | 包含，容纳 | as if it contained everything he owned |
-| very | 非常，极其 | his very life |
-| days | 天，日子 | in the days following his meeting |
-| meeting | 会议，会面 | his meeting with his old schoolmate |
-| schoolmate | 同学，同班同学 | his old schoolmate |
-| shielded | 遮蔽，保护 | shielded from the world |
-| inflorescence | 开花，花朵 | the inflorescence of joy |
-| grew | 生长，成长 | that grew along the edges of his heart |
-| edges | 边缘，边沿 | along the edges of his heart |
-| hid | 隐藏，隐瞒 | He hid his father's old briefcase |
-| stored | 储存，存放 | in which he stored the documents |
-| collected | 收集，采集 | the documents he collected |
-| attached | 附加的，连接的 | He attached his heart to the bag |
-| contained | 包含，容纳 | as if it contained everything he owned |
-| very | 非常，极其 | his very life |
+| secret | 秘密的，保密的 | An Orchestra of Minorities 9 Crossing the Threshold A GBARADIKE, the great fathers in their discreet wisdom say that ... |
+| joy | 快乐，喜悦 | So my host, in the days following his meeting with his old schoolmate, shielded from the world the inflorescence of j... |
+| heart | 心，心脏 | So my host, in the days following his meeting with his old schoolmate, shielded from the world the inflorescence of j... |
+| father | 父亲，爸爸 | An Orchestra of Minorities 9 Crossing the Threshold A GBARADIKE, the great fathers in their discreet wisdom say that ... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| secret | 秘密的，保密的 | seeds sown in secret |
-| joy | 快乐，喜悦 | the inflorescence of joy |
-| heart | 心，心脏 | along the edges of his heart |
-| world | 世界，地球 | shielded from the world |
-| father | 父亲，爸爸 | his father's old briefcase |
-| briefcase | 公文包，手提箱 | his father's old briefcase |
-| documents | 文件，文档 | the documents he collected |
-| bed | 床，床铺 | under the bed |
-| attached | 附加的，连接的 | He attached his heart to the bag |
-| bag | 袋子，口袋 | He attached his heart to the bag |
-| contained | 包含，容纳 | as if it contained everything he owned |
-| life | 生命，生活 | his very life |
+| secret | 秘密的，保密的 | An Orchestra of Minorities 9 Crossing the Threshold A GBARADIKE, the great fathers in their discreet wisdom say that ... |
+| joy | 快乐，喜悦 | So my host, in the days following his meeting with his old schoolmate, shielded from the world the inflorescence of j... |
+| heart | 心，心脏 | So my host, in the days following his meeting with his old schoolmate, shielded from the world the inflorescence of j... |
 
 ## 一句话总结
 

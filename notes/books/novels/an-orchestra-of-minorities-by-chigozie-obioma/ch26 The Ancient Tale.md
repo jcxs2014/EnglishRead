@@ -117,35 +117,31 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| capabilities | 能力，才能 | man is limited in his capabilities |
-| constrained | 约束的，受限的 | constrained by nature and time |
-| luminous | 光辉的，明亮的 | in this luminous court |
-| render | 陈述，呈现 | I must render only the details |
-| conclusion | 结论，结局 | lead to the conclusion |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| capabilities | 能力，才能 | An Orchestra of Minorities 23 The Ancient Tale E CHETAOBIESIKE, I have said already that man is limited in his capabi... |
+| constrained | 约束的，受限的 | Like everyone else, he is constrained by nature and time. |
+| luminous | 光辉的，明亮的 | Because I do not want to take much more time in this luminous court, and because I must render only the details that ... |
+| render | 陈述，呈现 | Because I do not want to take much more time in this luminous court, and because I must render only the details that ... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| undone | 无法挽回的 | cannot be undone |
-| circumstance | 环境，情况 | if one cannot change a circumstance |
-| give up | 放弃 | is give up and move forward |
-| beyond | 超越 | gone over and beyond |
-| turmoil | 混乱，动荡 | he fell into a turmoil |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| undone | 无法挽回的 | Therefore, there are things that, once one has done them, cannot be undone. |
+| circumstance | 环境，情况 | All one can do, if one cannot change a circumstance, is give up and move forward, in another direction. |
+| give up | 放弃 | All one can do, if one cannot change a circumstance, is give up and move forward, in another direction. |
+| beyond | 超越 | You have gone over and beyond and must now stop. |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| wisdom | 智慧 | this wisdom came back |
-| store | 商店 | poultry-feed store |
-| friends | 朋友 | best friends |
-| chance | 机会 | took your chance |
-| ghost | 鬼 | seen a ghost in daylight |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| ghost | 鬼 | It was as if she had seen a ghost in daylight. |
 
 ## 一句话总结
 

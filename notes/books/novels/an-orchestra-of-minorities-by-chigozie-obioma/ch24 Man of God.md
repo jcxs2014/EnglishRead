@@ -117,35 +117,31 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| magnanimous | 宽宏大量的 | the magnanimous fathers |
-| accommodating | 容纳的 | capable of accommodating hatred |
-| unfed | 未喂食的 | an unfed tiger |
-| communion | 交流，沟通 | cannot afford communion |
-| vandalism | 破坏行为 | hatred is a vandalism |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| magnanimous | 宽宏大量的 | An Orchestra of Minorities 21 Man of God G AGANAOGWU, the magnanimous fathers often say that if one keeps a record of... |
+| accommodating | 容纳的 | This is because they know that you did not create the human heart to be capable of accommodating hatred. |
+| unfed | 未喂食的 | To harbor hatred in the heart is to keep an unfed tiger in a house filled with children and the feeble, for it cannot... |
+| communion | 交流，沟通 | To harbor hatred in the heart is to keep an unfed tiger in a house filled with children and the feeble, for it cannot... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| harbor | 豢养，怀有 | to harbor hatred |
-| nurture | 养育，培养 | the man who has nurtured it |
-| devour | 吞噬，吞食 | it falls upon the man who has nurtured it and devours him |
-| retributive | 报复的 | retributive acts |
-| dispense | 施行，分发 | must dispense it as quickly as possible |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| harbor | 豢养，怀有 | To harbor hatred in the heart is to keep an unfed tiger in a house filled with children and the feeble, for it cannot... |
+| nurture | 养育，培养 | No sooner has it rested enough and woken up in need of food again than it falls upon the man who has nurtured it and ... |
+| devour | 吞噬，吞食 | No sooner has it rested enough and woken up in need of food again than it falls upon the man who has nurtured it and ... |
+| retributive | 报复的 | As is common with men, they often realize this truth long after the hatred has driven them into retributive acts. |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| hatred | 仇恨 | accommodating hatred |
-| tiger | 老虎 | an unfed tiger |
-| clinic | 诊所 | took him to the clinic |
-| wounds | 伤口 | attended to his wounds |
-| robbers | 抢劫者 | attacked by armed robbers |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| robbers | 抢劫者 | “He was attacked by armed robbers,” he said. |
 
 ## 一句话总结
 

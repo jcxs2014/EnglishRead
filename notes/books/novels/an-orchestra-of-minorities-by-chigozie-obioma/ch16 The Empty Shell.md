@@ -117,35 +117,31 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| incineration | 烧毁，焚烧 | the scars of his partial incineration |
-| anguish | 痛苦，悲惨 | the burden of anguish |
-| minorities | 少数者 | the minorities of this world |
-| orchestra | 管弦乐队 | join this universal orchestra |
-| recourse | 出路，求助 | whose only recourse was to join |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| incineration | 烧毁，焚烧 | They would look and see that the light in his eyes was that of a man who had danced through life’s theater of fire an... |
+| anguish | 痛苦，悲惨 | So he walked on, carrying on his back the burden of anguish like a damp sack of decayed things. |
+| minorities | 少数者 | An Orchestra of Minorities 14 The Empty Shell A GBATTA-ALUMALU, in the land of the fathers, if a man is weeping in br... |
+| orchestra | 管弦乐队 | An Orchestra of Minorities 14 The Empty Shell A GBATTA-ALUMALU, in the land of the fathers, if a man is weeping in br... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| decayed | 腐烂的 | a damp sack of decayed things |
-| plundered | 被掠夺的 | whose lands have been plundered |
-| indifference | 冷漠 | looked at him with bald indifference |
-| interminable | 无休止的 | a road that appeared interminable |
-| stagnancy | 停滞 | the freedom of stagnancy |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| decayed | 腐烂的 | So he walked on, carrying on his back the burden of anguish like a damp sack of decayed things. |
+| plundered | 被掠夺的 | All who have been chained and beaten, whose lands have been plundered, whose civilizations have been destroyed, who h... |
+| indifference | 冷漠 | The men seated on chairs under awnings outside restaurants, on balconies sucking at pipes, or standing outside some b... |
+| interminable | 无休止的 | One headed northwards into a road that appeared interminable, another forked into a dead end, another led back the wa... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| weeping | 哭泣 | a man is weeping |
-| station | 站 | near the police station |
-| bag | 袋子 | You forgot your bag |
-| blood | 血 | donate blood |
-| nurse | 护士 | the nurse called after him |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| nurse | 护士 | As he watched, one of the nurses broke from the group and walked frantically from person to person, saying something ... |
 
 ## 一句话总结
 

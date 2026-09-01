@@ -81,56 +81,29 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| kaleidoscopic | 千变万化的，万花筒般的 | in their kaleidoscopic profundity |
-| profundity | 深度，深刻 | in their kaleidoscopic profundity |
-| fringed | 以…为边缘，镶边 | fringed with threads of sorrowful darkness |
-| confidant | 知己，密友 | his friend and confidant in secondary school |
-| brawny | 强壮的，肌肉发达的 | had become brawny with biceps |
-| articulated | 表达，清晰地说出 | the grievances the men articulated |
-| grievances | 不满，委屈 | the grievances the men articulated |
-| dalliance | 嬉戏，调情 | I feared his dalliance with this group |
-| actualization | 实现，现实化 | advocating for the actualization of the sovereign state |
-| encroached | 侵占，蚕食 | red ants had not just encroached but also completely infested |
-| infested | 大批滋生的，遍布的 | completely infested the land |
-| privation | 贫困，匮乏 | covered with signs of privation |
-| genuflecting | 屈膝，跪拜 | the woman said, genuflecting slightly |
-| discomposure | 不安，窘迫 | His discomposure came from the strange familiarity |
-| bereaved | 丧失亲人的，哀悼的 | a person who is bereaved or in a state of extreme anxiety |
+| kaleidoscopic | 千变万化的，万花筒般的 | the venerable fathers, in their kaleidoscopic profundity, say that no matter the weight of grief |
+| dalliance | 嬉戏，纠缠（此处含危险意味） | I feared his dalliance with this group would lead him to harm |
+| privation | 贫困，匮乏 | her face, which was rough and covered with signs of privation |
+| genuflecting | 屈膝，微微鞠躬（尼日利亚礼节） | "Good afternoon, sir," the woman said, genuflecting slightly |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| venerable | 值得尊敬的，德高望重的 | the venerable fathers, in their kaleidoscopic profundity, say |
-| swarthy | 黑皮肤的，黝黑的 | a plump, swarthy woman |
+| discomposure | 不安，窘迫 | His discomposure came from the strange familiarity of her voice |
+| bereaved | 丧失亲人的 | a kind of sickness related to indigestion which flares in the pit of the stomach of a person who is bereaved |
+| venerable | 值得尊敬的，德高望重的 | the venerable fathers, in their kaleidoscopic profundity |
+| swarthy | 黝黑的 | a plump, swarthy woman who looked his age |
 | indolent | 懒惰的，好逸恶劳的 | only the lazy, indolent, infirm, or accursed lacked |
-| accursed | 被诅咒的，可憎的 | the lazy, indolent, infirm, or accursed |
-| abject | 卑鄙的，下贱的 | living in abject poverty |
-| dejected | 沮丧的，情绪低落的 | dejected, the children of the fathers turned back |
-| unlatched | 打开，开启 | He unlatched the two large coops |
-| cobwebs | 蜘蛛网，尘埃 | the big yarn of cobwebs that stretched across the ceiling |
-| quivering | 颤抖，发抖 | focused on his own slightly quivering hands |
-| visage | 脸，面容 | passed across her visage in succession |
-| perplexing | 令人困惑的，复杂的 | held her mouth in a perplexing O shape |
-| wither | 枯萎，衰退 | when he began to suddenly wither |
-| slingshot | 弹弓，投掷器 | with one slingshot, she had silenced his grief |
-| epiphany | 顿悟，灵感 | as if by epiphany, how heavy his history had become |
-| prospicience | 预知，先见 | man is without the powers of prospicience |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| encounter | 遭遇，邂逅 | the encounter with the woman on the bridge |
-| fourth | 第四的，四个的 | By the fourth month |
-| ceased | 停止，终止 | almost ceased grieving |
-| grieving | 悲伤，忧伤 | almost ceased grieving |
-| happy | 快乐的，幸福的 | It was not that he was happy now |
-| bright | 明亮的，光明的 | the garments of his brightest days |
-| sorrowful | 悲伤的，悲哀的 | threads of sorrowful darkness |
-| friend | 朋友，友人 | his friend and confidant |
-| group | 组，团体 | the group that was sweeping young Igbo men with an old broom |
-| broom | 扫帚，笤帚 | with an old broom |
+| epiphany | 顿悟，突然的领悟 | he became aware, as if by epiphany, how heavy his history had become |
+| brawny | 强壮的，肌肉发达的 | who was always slender, had become brawny with biceps |
+| encroached | 侵占，蚕食 | red ants had not just encroached but also completely infested the land |
+| confidant | 知己，密友 | his friend and confidant in secondary school |
 
 ## 一句话总结
 

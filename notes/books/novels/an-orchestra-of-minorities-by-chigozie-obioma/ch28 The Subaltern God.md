@@ -117,35 +117,25 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| unrivaled | 无与伦比的 | in their unrivaled wisdom |
-| subaltern | 次等的，从属的 | fear is a subaltern god |
-| controller | 控制者 | the silent controller |
-| phenomenon | 现象 | fear is a great phenomenon |
-| permanent | 永久的 | fear becomes a permanent part |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| unrivaled | 无与伦比的 | An Orchestra of Minorities 25 The Subaltern God A KWAAKWURU, the great fathers in their unrivaled wisdom used to say ... |
+| subaltern | 次等的，从属的 | An Orchestra of Minorities 25 The Subaltern God A KWAAKWURU, the great fathers in their unrivaled wisdom used to say ... |
+| controller | 控制者 | Fear is a subaltern god, the silent controller of the universe of mankind. |
+| phenomenon | 现象 | But it is true that fear is a great phenomenon in the life of a man. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| folly | 愚蠢 | it is folly to ask |
-| dominate | 统治，控制 | dominated by fear |
-| caution | 小心，谨慎 | cross the street with caution |
-| clinic | 诊所 | going to a clinic |
-| brawl | 斗殴，打架 | killed his brother-in-law in a brawl |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| fear | 恐惧 | what a man is afraid of |
-| chi | 守护灵 | greater than his chi |
-| death | 死亡 | fear of death |
-| son | 儿子 | his son |
-| husband | 丈夫 | Ndali's husband |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| folly | 愚蠢 | It is folly to ask, how may one be free from fear? Well, isn’t it fear itself—perhaps the fear of having one’s mind d... |
+| dominate | 统治，控制 | It is folly to ask, how may one be free from fear? Well, isn’t it fear itself—perhaps the fear of having one’s mind d... |
+| caution | 小心，谨慎 | Why does he cross the street with caution? Why are that man and his child going to a clinic? Fear. |
+| brawl | 斗殴，打架 | Gaganaogwu, consider the story of Azuka, the man who killed his brother-in-law in a brawl three hundred and seventy y... |
 
 ## 一句话总结
 

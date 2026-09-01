@@ -117,35 +117,28 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| anticipation | 预期，期待 | anticipation is one of the most curious habits |
-| vicious | 恶毒的，恶性的 | a drop of vicious blood |
-| perpetually | 永远地，永恒地 | perpetually dominate an individual's thoughts |
-| alchemy | 炼金术，转变 | the alchemy of anxiety |
-| unformed | 未形成的 | peek into the unformed time |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| anticipation | 预期，期待 | An Orchestra of Minorities 20 Reckoning I KUKUAMANAONYA, anticipation is one of the most curious habits of the human ... |
+| vicious | 恶毒的，恶性的 | It is a drop of vicious blood in the vein of time. |
+| perpetually | 永远地，永恒地 | An action delayed by the natural agency of time or human intervention comes to perpetually dominate an individual’s t... |
+| alchemy | 炼金术，转变 | This is the alchemy of anxiety, for it is hinged on the promise of something, an event, a meeting, for which a partic... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| vein | 静脉，血管 | in the vein of time |
-| renders | 使，使得 | renders a person incapable |
-| intervention | 干预，介入 | human intervention |
-| unblinkingly | 一眨不眨地 | eyes are unblinkingly fastened |
-| hinge on | 依赖于，取决于 | it is hinged on the promise |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| intervention | 干预，介入 | An action delayed by the natural agency of time or human intervention comes to perpetually dominate an individual’s t... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| anxiety | 焦虑 | when a person is anxious |
-| future | 未来 | hopes to build on it in the future |
-| past | 过去 | his own past malevolence |
-| present | 当下 | bears down against the present |
-| food | 食物 | when a child's food is cooking |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| food | 食物 | It is why the old fathers say that when a child’s food is cooking, the child’s eyes are unblinkingly fastened to the ... |
 
 ## 一句话总结
 

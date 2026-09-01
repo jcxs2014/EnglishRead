@@ -117,35 +117,16 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| pestilence | 瘟疫，灾害 | a day of rain, and hail, and pestilence |
-| battered | 破碎的，受摧残的 | the battered image of himself |
-| gashes | 伤口，裂痕 | gasping at the gashes |
-| pulp | 软肉，烂肉 | the pulp on the lips |
-| geniality | 亲切，友好 | with the utmost geniality |
-
-### ⭐⭐ 进阶
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| dither | 犹豫，迟疑 | why he'd dithered for so long |
-| trivial | 琐碎的，微不足道的 | something as trivial as a phone credit |
-| exhausted | 耗尽的 | his credit was exhausted |
-| whiplash | 鞭打，突然的冲击 | came to him as a whiplash on his mind |
-| disarm | | This would disarm her |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| stairs | 楼梯 | climbing the stairs |
-| bottle | 瓶子 | holding the bottle of drink |
-| phone | 电话 | call Ndali again |
-| credit | 话费 | his credit was exhausted |
-| letter | 信 | her letter |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| pestilence | 瘟疫，灾害 | An Orchestra of Minorities 15 All the Trees in the Land Have Been Removed B AABADUUDU, I have spoken at length about ... |
+| battered | 破碎的，受摧残的 | For the first time in days, he was not gazing at the battered image of himself before the mirror in his head and gasp... |
+| gashes | 伤口，裂痕 | For the first time in days, he was not gazing at the battered image of himself before the mirror in his head and gasp... |
+| pulp | 软肉，烂肉 | For the first time in days, he was not gazing at the battered image of himself before the mirror in his head and gasp... |
 
 ## 一句话总结
 

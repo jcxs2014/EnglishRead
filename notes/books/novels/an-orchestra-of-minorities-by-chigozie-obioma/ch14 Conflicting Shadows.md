@@ -117,35 +117,16 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| privation | 贫困，匮乏 | bodies punished by privation |
-| relinquish | 放下，放弃 | would undoubtedly soon relinquish |
-| brooded | 沉思，沉迷 | he brooded so much on this man |
-| transformation | 转变，蜕变 | the transformation the unremembered voice had warned him against had been completed |
-| phantom | 幽灵，幻影 | the conflicting shadow of Jamike |
-
-### ⭐⭐ 进阶
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| bewilderment | 困惑，茫然 | one of so much bewilderment |
-| incessantly | 不停地 | my host's heart pounded incessantly |
-| palpable | 可触摸的，明显的 | words remain in the air, palpable |
-| fetid | 恶臭的 | A fetid pool, in the time of drought |
-| spectacles | 景象，奇观 | greatly shaken by the spectacle |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| station | 警察局 | walked into the police station |
-| counter | 柜台 | three counters, like the bank's |
-| portrait | 肖像 | large portraits of two men |
-| tremble | 颤抖 | trembling in his hand |
-| bottle | 瓶子 | two bottles of strong drinks |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| privation | 贫困，匮乏 | This was not like the police station in Nigeria, where violent and hungry men with weather-beaten faces and bodies pu... |
+| relinquish | 放下，放弃 | The cross he now bore, he bore for him and would undoubtedly soon relinquish, perhaps by sunset, or at the latest by ... |
+| brooded | 沉思，沉迷 | Ebubedike, he brooded so much on this man that by late evening, when the native darkness had almost completely covere... |
+| transformation | 转变，蜕变 | Ebubedike, he brooded so much on this man that by late evening, when the native darkness had almost completely covere... |
 
 ## 一句话总结
 

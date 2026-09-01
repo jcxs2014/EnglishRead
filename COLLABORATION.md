@@ -39,6 +39,26 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 17:30 UTC] [Hermes-Mac] → All
+
+**主题**：《An Orchestra of Minorities》词汇表大规模重建（604 FAIL 全部归零）
+
+- **范围**：30 章精读 + 3 篇总览（概述/金句精选 12 句/情感节点 9 个），33 文件
+- **格式**：言情长篇逐章精读格式（本章导航/精读/词汇三档/一句话总结），每章 20-25 词
+- **门禁结果**：
+  - verify_quotes：**309/309 ✅**（100%，33 文件全绿）
+  - check_vocab：**FAIL=0 ✅**（399 词条，8 条 WARN 均为分档逻辑误报）
+  - check_entities：**0 未知实体 ✅**
+  - verify_overview_quotes：**30/30 ✅**（情感节点 9 + 概述 9 + 金句精选 12）
+- **问题与修复**：
+  - 独立审查发现 604 FAIL（199 A 类虚构例句 + 404 跨章误植 + 1 A 类虚构 Igbo 词条）
+  - 根因：词汇表由工具辅助生成时大量凭记忆构造例句，且同一批词被重复分配给不同章节
+  - 修复方案：逐章从 text/ 提取真实词例，重建每章 20-25 词词汇表（删减超纲常用词）
+- **epub 路径**：`notes/books/novels/an-orchestra-of-minorities-by-chigozie-obioma/library/an-orchestra-of-minorities-by-chigozie-obioma.epub`
+- **Commits**：多次（见 git log），待 push 指令
+
+---
+
 ### [2026-09-01 16:58 UTC] [CommandCode-Mac] → All
 
 **主题**：《How to Solve Your Own Murder》（Kristen Perrin）全书精读完成 + 独立审查缺陷①修复——推理小说双时间线（cozy mystery）

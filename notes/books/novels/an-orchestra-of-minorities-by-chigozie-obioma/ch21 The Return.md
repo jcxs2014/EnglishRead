@@ -117,35 +117,31 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| miasma | 烟雾，瘴气 | gathering around the miasma |
-| circumscribed | 限定的，受限的 | in a circumscribed space |
-| monotony | 单调，乏味 | the monotony of living |
-| anguish | 痛苦，悲惨 | the anguish of still life |
-| choreography | 舞蹈，编排 | the choreography of ants |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| miasma | 烟雾，瘴气 | An Orchestra of Minorities 18 The Return A KANAGBAJIIGWE, the universe does not dwell on the past, gathering around t... |
+| circumscribed | 限定的，受限的 | They are locked in like captured animals in a circumscribed space. |
+| monotony | 单调，乏味 | To chronicle these four years, to labor over the monotony of living, the anguish of still life, is comparable only to... |
+| anguish | 痛苦，悲惨 | To chronicle these four years, to labor over the monotony of living, the anguish of still life, is comparable only to... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| forges | 锻造，前进 | it forges ahead |
-| halt | 停止 | his personal universe has halted |
-| stir | 动弹，移动 | they do not so much as stir |
-| diameter | 直径 | his diameter marked out |
-| confinement | 禁闭，关押 | this is what happens in confinement |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| forges | 锻造，前进 | Rather, it forges ahead, always on the winding path of the future, stopping only briefly at the present to rest its f... |
+| halt | 停止 | But although the universe continues its journey, carrying all the living with it, there is a place where a man can re... |
+| stir | 动弹，移动 | They do not so much as stir. |
+| diameter | 直径 | One who is here has his diameter marked out as if by an invisible ink that says, “From this wall to this wall, from t... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| prison | 监狱 | in this place |
-| cell | 牢房 | the bars of his cell |
-| wall | 墙 | from this wall to this wall |
-| memory | 记忆 | no new memory can form |
-| years | 年 | four years |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| years | 年 | My host stayed in this state for four years. |
 
 ## 一句话总结
 

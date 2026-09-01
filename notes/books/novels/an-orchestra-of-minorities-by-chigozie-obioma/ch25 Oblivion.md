@@ -117,34 +117,30 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| elusive | 难以捉摸的 | this great, elusive thing |
-| dibias | 伊博文化中的智者/祭司 | the wisest amongst the great fathers, the dibias |
-| secret | 秘密 | if a secret is kept for too long |
-| pharmacy | 药房 | the new pharmacy near the big supermarket |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| elusive | 难以捉摸的 | It is true, also, what the wisest amongst the great fathers, the dibias, those who are second to you, Chukwu, say tha... |
+| dibias | 伊博文化中的智者/祭司 | It is true, also, what the wisest amongst the great fathers, the dibias, those who are second to you, Chukwu, say tha... |
+| pharmacy | 药房 | ” “Immediately when I went to the cyber cafe, I opened it and saw she had posted a photo of the new pharmacy near the... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| leash | 缰绳，束缚 | escaped from the leash |
-| restrain | 阻止，抑制 | if his feet do not restrain him |
-| cyber | 网络的 | the cyber cafe |
-| complexion | 肤色，面色 | fair in complexion |
-| weave | 假发 | a black weave on her head |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| leash | 缰绳，束缚 | My host’s feet had chased after this great, elusive thing, this thing which had escaped from the leash he had bound t... |
+| restrain | 阻止，抑制 | It is true, also, what the wisest amongst the great fathers, the dibias, those who are second to you, Chukwu, say tha... |
+| cyber | 网络的 | I will show you when next we go to the cyber cafe. |
+| complexion | 肤色，面色 | I saw her face—she is fair in complexion with a very beautiful face. |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| secret | 秘密 | if a secret is kept for too long |
-| deaf | 聋子 | even the deaf will come to hear |
-| brother | 兄弟 | my brother Solomon |
-| face | 脸 | I saw her face |
-| friend | 朋友 | friend request |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| friend | 朋友 | I sent her a friend request and she accepted just today. |
 
 ## 一句话总结
 

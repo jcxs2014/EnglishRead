@@ -117,35 +117,22 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| proverbial | 寓言的，谚语的 | told as a proverbial tale |
-| trampled | 践踏，踩踏 | trampled on the personal liberty |
-| primal | 原始的，最初的 | the primal law of coexistence |
-| betrothed | 未婚妻 | calling his betrothed |
-| possessed | 被附身的 | an angered spirit possessed a leopard |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| proverbial | 寓言的，谚语的 | Although even amongst the old fathers this was told as a proverbial tale, you know that it happened at a time when Al... |
+| trampled | 践踏，踩踏 | The people constructed rectangular houses made from mud bricks, kept their shrines in their obis, consulted their anc... |
+| primal | 原始的，最初的 | The people constructed rectangular houses made from mud bricks, kept their shrines in their obis, consulted their anc... |
+| betrothed | 未婚妻 | ) Orjinta, a young man who had made a habit of calling his betrothed before she grew the age of a clear moon, would c... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| shrines | 神龛，圣地 | kept their shrines in their obis |
-| obis | 灵魂之屋（伊博文化中的精神中心） | in their obis |
-| crouch | 蹲下，蜷缩 | would crouch behind her father's compound |
-| viper | 毒蛇，蝰蛇 | crawl into a viper's hole |
-| saplings | 幼苗，树苗 | trampling young saplings underfoot |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| hunter | 猎人 | the mighty hunter |
-| forest | 森林 | through the forest |
-| whistle | 口哨 | whistle at night |
-| leopard | 豹子 | possessed a leopard |
-| prison | 监狱 | second year in prison |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| saplings | 幼苗，树苗 | As he whistled one night, an angered spirit possessed a leopard and drove the beast through the forest, howling, tram... |
 
 ## 一句话总结
 

@@ -117,35 +117,28 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| djinn | 精灵，妖怪 | became a djinn |
-| vagabond | 流浪者，游荡者 | a vagabond, a descaled wanderer |
-| outcast | 被遗弃者 | self-exiled outcast |
-| vehemently | 激烈地，激烈地 | vowed, vehemently |
-| conflagration | 大火，火灾 | the great conflagration |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| djinn | 精灵，妖怪 | Egbunu, my host became a djinn, a man-spirit, a vagabond, a descaled wanderer, a thing creeping in the bush, a self-e... |
+| vagabond | 流浪者，游荡者 | Egbunu, my host became a djinn, a man-spirit, a vagabond, a descaled wanderer, a thing creeping in the bush, a self-e... |
+| outcast | 被遗弃者 | Egbunu, my host became a djinn, a man-spirit, a vagabond, a descaled wanderer, a thing creeping in the bush, a self-e... |
+| vehemently | 激烈地，激烈地 | He vowed, vehemently, that he would get his son back. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| lurk | 潜伏，埋伏 | began again to lurk |
-| accost | 接近，搭讪 | tried to accost her |
-| counsel | 劝告，建议 | listen to the counsel |
-| unleash | 释放，放开 | the memory it unleashed |
-| dungeon | 牢房，地牢 | the bare floor of the dungeon |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| dungeon | 牢房，地牢 | And when he slept that night, a time in the past appeared, and he heard her voice say, “Nonso, you have destroyed you... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| fire | 火 | lit the match and threw it |
-| son | 儿子 | get his son back |
-| car | 汽车 | raced into the gloom |
-| house | 房子 | spiders in the house of men |
-| match | 火柴 | lit the match |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| match | 火柴 | It was, Egbunu, a single memory that did it: that one strike of a match that sets an entire building on fire. |
 
 ## 一句话总结
 

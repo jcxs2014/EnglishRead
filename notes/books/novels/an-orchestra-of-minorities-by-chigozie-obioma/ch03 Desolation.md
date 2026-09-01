@@ -121,66 +121,30 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| agwu | 伊博语：精神，神灵附体 | The agwu of pain afflicted him |
-| vertiginously | 眩晕地，头晕目眩地 | He walked through the world vertiginously |
-| emasculated | 被阉割的，被削弱的 | so broken, so lean, so emasculated |
-| reticulated | 网状的，呈网状的 | The world he'd known…suddenly became reticulated |
-| chink | 裂缝，缺陷 | Nothing his father did repaired the chink in his soul |
-| satiated | 满足的，充分供给的 | the very moment it could be satiated |
-| iridescent | 彩虹色的，闪亮的 | He saw iridescent light tempered with darkness |
-| tranquilizing | 使镇静的，使平静的 | submit to the tranquilizing spell of remorse |
-| subterranean | 地下的，隐秘的 | have already occurred long before in some subterranean realm |
-| privy | 知情的，了解内情的 | one becomes privy to things beyond the realm of man |
-| concourse | 大厅，广场 | the crowded concourse of Benmuo |
-| writhed | 扭动，翻滚 | spirits of all kinds writhed like a can of invisible worms |
-| bloated | 膨胀的，肿胀的 | It had bloated and now lay on the surface |
-| elongated | 拉长的，延长的 | Its neck seemed to have elongated |
-| palpitating | 悸动的，心跳加速的 | his heart palpitating |
-| raffia | 拉菲亚草（非洲棕榈） | The main raffia plaiting had loosened |
-| befallen | 发生，降临 | The ill luck that has befallen a man |
-| mystifying | 神秘的，令人困惑的 | This is a mystifying thing! |
-| rigor mortis | 尸僵，死后僵硬 | his father in the hard grip of rigor mortis |
-| immensity | 广大，巨大 | He stepped back at the full glare of her female immensity |
+| agwu | 伊博语：神灵附体/精神失控 | The agwu of pain afflicted him night and day and made of him an empty house |
+| vertiginously | 眩晕地，天旋地转地 | He walked through the world vertiginously, as if on a tightrope |
+| emasculated | 被阉割的，被彻底击垮的 | when he found his nephew so broken, so lean, so emasculated, he was moved |
+| rigor mortis | 尸僵，死后僵硬 | of his father in the hard grip of rigor mortis |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| exquisite | 剧烈的，精致的 | a pain that was exquisite beyond anything |
-| traumatic | 创伤性的，痛苦的 | traumatic memories of his family |
-| riotous | 暴动的，骚乱的 | Their riotous squawking in protest |
-| foment | 煽动，助长 | allowed a collection of insects to foment the resultant decay |
-| mercurial | 多变的，无常的 | with a strained mercurial awe |
-| craving | 渴望，热望 | he found himself craving something |
-| fitful | 不安的，不稳定的 | with fitful curiosity |
-| rebuffed | 拒绝，驳回 | but she rebuffed him |
-| buxom | 丰满的，健美的 | a body that was buxom and attractive |
-| novice | 新手，初学者 | a sudden acute self-awareness of himself as a novice |
-| flurry | 一阵，慌乱 | With this came a flurry of images |
-| plopping | 扑通声，咕叽声 | She sucked with plopping sounds |
-| exhausted | 疲惫的，筋疲力尽的 | shocked and exhausted |
-| rechargeable | 可充电的 | He lifted his rechargeable lamp |
-| wool-white | 雪白的，羊毛白的 | the wool-white rooster |
-| phenomenon | 现象，迹象 | it is a common phenomenon among mankind |
-| precedence | 优先，居先 | to flip precedence |
-| nocturnal | 夜间的，夜行的 | the nocturnal noise filling his ears |
-| concentric | 同心的，同轴的 | a concentric fold in the air |
-| frantically | 疯狂地，拼命地 | He waved frantically to swat them away |
+| subterranean | 地下的，隐秘的 | the things that happen to a man have already occurred long before in some subterranean realm |
+| writhed | 扭动，翻滚 | spirits of all kinds writhed like a can of invisible worms |
+| exquisite | 剧烈的，极致的 | leaving him with a pain that was exquisite beyond anything he'd ever felt |
+| foment | 煽动，助长 | he allowed a collection of insects to foment the resultant decay |
+| mercurial | 多变的，难以捉摸的 | merely observed the people around him with a strained mercurial awe |
+| nocturnal | 夜间的，夜间活动的 | the nocturnal noise filling his ears |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| pain | 痛苦，疼痛 | a pain that was exquisite |
-| died | 死亡，去世 | His father had died |
-| empty | 空的，空洞的 | made of him an empty house |
-| world | 世界，地球 | He walked through the world |
-| tightrope | 绷索，钢丝 | as if on a tightrope |
-| farm | 农场，农庄 | the small farm |
-| sorrow | 悲伤，忧伤 | He became one with sorrow |
-| help | 帮助，援助 | he resisted all help |
-| hole | 洞，孔 | a hole had been bored |
-| life | 生命，生活 | into his life |
+| concourse | 大厅，集散地 | the crowded concourse of Benmuo |
+| palpitating | 悸动的，心怦怦跳的 | his heart palpitating |
+| precariously | 不稳定地，摇摇欲坠地 | the gosling perched precariously on a fence |
+| disembodied | 脱离肉体的，无形的 | the road to anywhere in a disembodied form isn't the same as when one is borne by a human vessel |
 
 ## 一句话总结
 

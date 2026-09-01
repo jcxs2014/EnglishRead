@@ -121,34 +121,27 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| gosling | 小鹅，雏鹅 | He told her about the gosling |
-| desperate | 绝望的，拼命的 | he'd become desperate |
-| shank | 胫骨，小腿 | hit it on the shank |
-| disturbed | 打扰，困扰 | disturbed my host very much |
-| mourned | 哀悼，悲伤 | mourned the loss |
-| feathers | 羽毛，羽翼 | smell of a thousand feathers |
+| inextricably | 不可分割地，密不可分地 | every man is inextricably chained to his past and may always fear that the past might repeat itself |
+| mired | 陷入（困境/泥沼）的 | she were not the same woman who had been mired in grief the night he first met her |
+| demeanor | 举止，风度 | there was a lushness to her demeanor and appearance |
+| facility | 天赋，才能（此处指语言能力） | not only her presence but also her facility with this language, which he rarely used |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| unpleasant | 使人不愉快的 | unpleasant event |
-| define | 定义，解释 | something he could not define |
-| presence | 存在，出席 | not only her presence |
-| neither | 也不，两者都不 | neither can his chi |
+| intimidating | 令人敬畏的，令人生畏的 | He found her intimidating, not only her presence but also her facility with this language |
+| feistiness | 好斗的，活泼的 | the strange mixture of poise and feistiness of Miss J |
+| ramshackle | 破旧的，摇摇欲坠的 | nothing like the ramshackle outlook of Motu |
+| enamored | 喜爱的，迷恋的 | Ejike, with whom he'd been best friends, was particularly enamored of the bird |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| man | 人，男人 | when a man encounters |
-| woman | 女人，妇女 | in the woman's eyes |
-| chi | 守护灵，分身 | neither can his chi |
-| heart | 心，心脏 | shrine of her heart |
-| life | 生命，生活 | changed his life |
-| bird | 鸟，禽类 | shot at the bird |
-| stone | 石头，石块 | with the stone |
-| father | 父亲，爸爸 | his father was forced |
+| resolute | 坚定的，果断的 | "I am fine now, Mommy," he said even more resolutely |
+| retrace | 折返，原路返回 | he may retrace his steps and reconsider whether to reenter |
+| permed | 烫过的（头发） | her forehead shone from the backwards pull of her permed hair |
 
 ## 一句话总结
 

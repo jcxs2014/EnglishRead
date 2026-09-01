@@ -117,35 +117,22 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| fettered | 被束缚的 | being in a fettered state |
-| dangling | 悬挂的，摇摆的 | dangling flashing images |
-| incantation | 咒语，念诵 | the sublime incantation of the soul |
-| concrete | 具体的 | the peace that concrete hope brings |
-| sublime | 崇高的，卓越的 | the sublime incantation of the soul |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| fettered | 被束缚的 | An Orchestra of Minorities 16 Visions of White Birds E BUBEDIKE, the great fathers speak of a man who is anxious and ... |
+| dangling | 悬挂的，摇摆的 | It held him bound for the last portion of the night, dangling flashing images of other men having romance with her in... |
+| incantation | 咒语，念诵 | It is the sublime incantation of the soul. |
+| concrete | 具体的 | OSIMIRIATAATA, the peace that concrete hope brings to a man who has suffered cruel defeat is difficult to describe. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| salvation | 拯救，救赎 | promise of salvation |
-| compassion | 同情，怜悯 | common thread of compassion |
-| lowly | 低微的，卑微的 | a man who is wounded, or poor, or lowly |
-| thread | 线，线索 | common thread of compassion |
-| tattered | 破旧的，破烂的 | tattered, broken |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| church | 教堂 | if he would go to church |
-| letter | 信 | after he read Ndali's letter |
-| door | 门 | Tobe knocked and asked from behind the door |
-| husband | 丈夫 | Ahmed, wow, welcome |
-| blood | 血 | his face and mouth covered in blood |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| tattered | 破旧的，破烂的 | This is why a white woman in a foreign land can see a man from the land of the fathers, tattered, broken, and offer h... |
 
 ## 一句话总结
 

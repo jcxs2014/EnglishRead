@@ -117,185 +117,33 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| illiterate | 文盲的，未受教育的 | you are marrying an illiterate |
-| embarrassing | 使人尴尬的，使人窘迫的 | you are embarrassing us |
-| riffraff | 流氓，下层人 | marrying that riffraff |
-| adversity | 逆境，苦难 | patient in adversity |
-| proclivity | 倾向，癖好 | a natural proclivity to be patient in adversity |
-| unhurrying | 不慌不忙的，从容的 | unhurrying, and measured |
-| sluggish | 迟钝的，缓慢的 | a slow and sluggish emanation |
-| long-limbed | 长肢的，长腿的 | his dreams were long-limbed |
-| accentuation | 强调，重音 | my frequent accentuation by flashes of thoughts |
-| buttressed | 支持，支撑 | which I often buttressed with the proverb |
-| treetop | 树梢，树顶 | a child cannot see even from a treetop |
-| inessential | 不重要的，非必需的 | passing only three inessential subjects |
-| debilitating | 使人衰弱的，削弱 | plunging his father into a debilitating depression |
-| matriculation | 入学考试，录取 | university matriculation exams |
-| malpractice | 玩忽职守，渎职 | widespread malpractice |
-| itinerant | 流动的，巡回的 | the itinerant fear that now returned to him |
-| skeletal | 骨骼的，骷髅般的 | a skeletal dance of worry across the corridor of serenity |
-| pollinates | 授粉，使受精 | Every occasion pollinates it |
-| begotten | 产生，引起 | a seed is begotten |
-| flagellation | 鞭打，鞭挞 | a continuing act of unintended self-flagellation |
-| riveted | 铆接，固定 | So, riveted by her words, he looked up at her |
-| provincial | 省的，地方的 | a reclusive, provincial life |
-| miracle | 奇迹，奇事 | the extra-lesson center turned into a miracle center |
-| leaked | 泄漏，泄露 | the teachers began to come to the class with leaked question papers |
-| canceled | 取消，撤销 | One of the papers, economics, was canceled |
-| vanished | 消失，突然不见 | All the peace that had returned vanished at once |
-| buried | 埋葬，掩埋 | every thought of school was buried |
+| illiterate | 文盲的，未受教育的 | “Yet they say it, all the time: ‘Ndali, you are marrying an illiterate’; ‘Ndali, you are embarrassing us’; ‘Ndali, pl... |
+| embarrassing | 使人尴尬的，使人窘迫的 | “Yet they say it, all the time: ‘Ndali, you are marrying an illiterate’; ‘Ndali, you are embarrassing us’; ‘Ndali, pl... |
+| riffraff | 流氓，下层人 | “Yet they say it, all the time: ‘Ndali, you are marrying an illiterate’; ‘Ndali, you are embarrassing us’; ‘Ndali, pl... |
+| adversity | 逆境，苦难 | He did not realize that he had grown up in adversity and had become resigned to it. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| poor | 贫穷的，贫困的 | Because I am poor |
-| degree | 学位，学历 | you don't have a big degree |
-| think | 想，认为 | Can you tell me why? |
-| reason | 理由，原因 | Can you give me one reason? |
-| family | 家庭，家人 | her family |
-| accept | 接受，认可 | to be accepted by her family |
-| school | 学校，学院 | return to school |
-| solution | 解决之道，办法 | that could be the solution |
-| problem | 问题，难题 | I have a problem |
-| brother | 哥哥，弟弟 | my brother |
-| love | 爱，爱情 | I love Ndali very much |
-| life | 生命，生活 | she came into my life |
-| changed | 改变，变化 | Everything has changed |
-| degree | 学位，学历 | get a degree |
-| Cyprus | 塞浦路斯 | Cyprus is the solution |
-| cheap | 便宜的，廉价的 | everything is cheap |
-| easy | 容易的，轻易的 | easy to get |
-| job | 工作，职业 | easy to get jobs |
-| help | 帮助，援助 | I can be able to help you |
-| person | 人，个人 | this person |
-| classmate | 同学，同班同学 | old classmate |
-| school | 学校，学院 | schools in this beautiful country |
-| country | 国家，国家 | this beautiful country |
-| beautiful | 美丽的，美好的 | beautiful country |
-| years | 年，岁 | many, many years |
-| living | 生活的，居住的 | living abroad |
-| abroad | 国外的，海外的 | living abroad |
-| overseas | 海外的，国外的 | living in overseas |
-| island | 岛，岛屿 | It is an island in Europe |
-| Europe | 欧洲 | It is an island in Europe |
-| small | 小的，少的 | A very small country |
-| electricity | 电，电力 | Electricity was constant |
-| food | 食物，食品 | food was cheap |
-| hospitals | 医院，诊所 | hospitals were plentiful and free |
-| free | 免费的，自由的 | hospitals were plentiful and free |
-| student | 学生，学者 | if you were a student |
-| own | 拥有，所有 | A student could own a Jeep |
-| Jeep | 吉普车，吉普 | A student could own a Jeep |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | an E-class Mercedes-Benz |
-| returned | 返回，回来 | he'd returned to Nigeria |
-| sports | 运动，体育 | a sports car |
-| car | 汽车，轿车 | a sports car |
-| parents | 父母，双亲 | he had now given to his parents |
-| way | 方式，方法 | On their way to the restaurant |
-| restaurant | 餐馆，餐厅 | the Pepper Soup place |
-| adjacent | 相邻的，邻近的 | on the adjacent street |
-| street | 街道，马路 | on the adjacent street |
-| benches | 长凳，工作台 | sat on one of the rows of benches |
-| earthen | 泥土的，陶制的 | on the earthen floor |
-| sun | 太阳，日 | The sun had increased in intensity |
-| sweating | 出汗，流汗 | they were sweating |
-| ceiling | 天花板，顶棚 | sat under one of the ceiling fans |
-| fan | 风扇，扇子 | sat under one of the ceiling fans |
-| stereo | 立体声，音响 | beside a stereo from which a low tune slowly rose |
-| tune | 曲调，曲子 | a low tune slowly rose |
-| barely | 仅仅，只不过 | He could barely wait to sit down |
-| sit | 坐，就座 | He could barely wait to sit down |
-| down | 向下，下去 | He could barely wait to sit down |
-| portrait | 肖像，画像 | Jamike had painted a portrait of the place |
-| place | 地方，地点 | the place where he lived |
-| order | 命令，秩序 | everything was in order |
-| constant | 不变的，恒定的 | Electricity was constant |
-| plentiful | 丰富的，充裕的 | hospitals were plentiful |
-| student | 学生，学者 | if you were a student |
-| own | 拥有，所有 | A student could own a Jeep |
-| returned | 返回，回来 | he'd returned to Nigeria |
-| sports | 运动，体育 | a sports car |
-| car | 汽车，轿车 | a sports car |
-| parents | 父母，双亲 | he had now given to his parents |
-| way | 方式，方法 | On their way to the restaurant |
-| restaurant | 餐馆，餐厅 | the Pepper Soup place |
-| adjacent | 相邻的，邻近的 | on the adjacent street |
-| street | 街道，马路 | on the adjacent street |
-| benches | 长凳，工作台 | sat on one of the rows of benches |
-| earthen | 泥土的，陶制的 | on the earthen floor |
-| sun | 太阳，日 | The sun had increased in intensity |
-| sweating | 出汗，流汗 | they were sweating |
-| ceiling | 天花板，顶棚 | sat under one of the ceiling fans |
-| fan | 风扇，扇子 | sat under one of the ceiling fans |
-| stereo | 立体声，音响 | beside a stereo from which a low tune slowly rose |
-| tune | 曲调，曲子 | a low tune slowly rose |
-| barely | 仅仅，只不过 | He could barely wait to sit down |
-| sit | 坐，就座 | He could barely wait to sit down |
-| down | 向下，下去 | He could barely wait to sit down |
-| portrait | 肖像，画像 | Jamike had painted a portrait of the place |
-| place | 地方，地点 | the place where he lived |
-| order | 命令，秩序 | everything was in order |
-| constant | 不变的，恒定的 | Electricity was constant |
-| plentiful | 丰富的，充裕的 | hospitals were plentiful |
-| student | 学生，学者 | if you were a student |
-| own | 拥有，所有 | A student could own a Jeep |
-| returned | 返回，回来 | he'd returned to Nigeria |
-| sports | 运动，体育 | a sports car |
-| car | 汽车，轿车 | a sports car |
-| parents | 父母，双亲 | he had now given to his parents |
+| poor | 贫穷的，贫困的 | “No answer? Can you tell me why?” “Because I am poor,” he said. |
+| degree | 学位，学历 | It is because you don’t have a big degree. |
+| think | 想，认为 | So even before he vowed to Ndali that he would never leave her, he’d already begun to think of a solution. |
+| reason | 理由，原因 | You think they just don’t like you? Eh? Okay, can you tell me why? Can you give me one reason why they don’t like you... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| poor | 贫穷的，贫困的 | Because I am poor |
-| degree | 学位，学历 | you don't have a big degree |
-| think | 想，认为 | Can you tell me why? |
-| reason | 理由，原因 | Can you give me one reason? |
-| family | 家庭，家人 | her family |
-| accept | 接受，认可 | to be accepted by her family |
-| school | 学校，学院 | return to school |
-| solution | 解决之道，办法 | that could be the solution |
-| problem | 问题，难题 | I have a problem |
-| brother | 哥哥，弟弟 | my brother |
-| love | 爱，爱情 | I love Ndali very much |
-| life | 生命，生活 | she came into my life |
-| changed | 改变，变化 | Everything has changed |
-| degree | 学位，学历 | get a degree |
-| Cyprus | 塞浦路斯 | Cyprus is the solution |
-| cheap | 便宜的，廉价的 | everything is cheap |
-| easy | 容易的，轻易的 | easy to get |
-| job | 工作，职业 | easy to get jobs |
-| help | 帮助，援助 | I can be able to help you |
-| person | 人，个人 | this person |
-| classmate | 同学，同班同学 | old classmate |
-| school | 学校，学院 | schools in this beautiful country |
-| country | 国家，国家 | this beautiful country |
-| beautiful | 美丽的，美好的 | beautiful country |
-| years | 年，岁 | many, many years |
-| living | 生活的，居住的 | living abroad |
-| abroad | 国外的，海外的 | living abroad |
-| overseas | 海外的，国外的 | living in overseas |
-| island | 岛，岛屿 | It is an island in Europe |
-| Europe | 欧洲 | It is an island in Europe |
-| small | 小的，少的 | A very small country |
-| electricity | 电，电力 | Electricity was constant |
-| food | 食物，食品 | food was cheap |
-| hospitals | 医院，诊所 | hospitals were plentiful and free |
-| free | 免费的，自由的 | hospitals were plentiful and free |
-| student | 学生，学者 | if you were a student |
-| own | 拥有，所有 | A student could own a Jeep |
-| Jeep | 吉普车，吉普 | A student could own a Jeep |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | an E-class Mercedes-Benz |
-| returned | 返回，回来 | he'd returned to Nigeria |
-| sports | 运动，体育 | a sports car |
-| car | 汽车，轿车 | a sports car |
-| parents | 父母，双亲 | he had now given to his parents |
+| poor | 贫穷的，贫困的 | “No answer? Can you tell me why?” “Because I am poor,” he said. |
+| degree | 学位，学历 | It is because you don’t have a big degree. |
+| think | 想，认为 | So even before he vowed to Ndali that he would never leave her, he’d already begun to think of a solution. |
 
 ## 一句话总结
 

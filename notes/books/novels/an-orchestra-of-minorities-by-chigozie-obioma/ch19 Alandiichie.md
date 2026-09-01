@@ -117,35 +117,31 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| succor | 慰藉，帮助 | found succor in the white woman |
-| wary | 警惕的，小心的 | wary as to how I would explain |
-| ethereal | 天上的，灵界的 | vision of the ethereal world |
-| phantasmagoria | 幻影，变幻莫测的景象 | the living phantasmagoria |
-| perpetually | 永远地，永恒地 | perpetually standing there |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| succor | 慰藉，帮助 | My host had found succor in the white woman, but this same place where he’d found succor is where he now lay, wounded... |
+| wary | 警惕的，小心的 | Frantic, unable to do anything, and wary as to how I would explain this tragic end to you, Chukwu, and to his ancesto... |
+| ethereal | 天上的，灵界的 | The veil of consciousness that occludes my vision of the ethereal world now torn away, I beheld for a second time the... |
+| phantasmagoria | 幻影，变幻莫测的景象 | The veil of consciousness that occludes my vision of the ethereal world now torn away, I beheld for a second time the... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| cautionary | 警示性的 | cautionary wisdom |
-| frantic | 发狂的，狂乱的 | frantic, unable to do anything |
-| occludes | 遮挡，遮蔽 | occludes my vision |
-| torn away | 撕开，扯掉 | now torn away |
-| unattended | 无人陪伴的 | unattended by other spirits |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| cautionary | 警示性的 | An Orchestra of Minorities 17 Alandiichie E BUBEDIKE, the old fathers in their cautionary wisdom say that the same pl... |
+| frantic | 发狂的，狂乱的 | Frantic, unable to do anything, and wary as to how I would explain this tragic end to you, Chukwu, and to his ancesto... |
+| occludes | 遮挡，遮蔽 | The veil of consciousness that occludes my vision of the ethereal world now torn away, I beheld for a second time the... |
+| torn away | 撕开，扯掉 | The veil of consciousness that occludes my vision of the ethereal world now torn away, I beheld for a second time the... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| blood | 血 | blinded by his own blood |
-| house | 房子 | the same place |
-| children | 孩子 | the three children |
-| song | 歌 | they were singing |
-| spirits | 灵魂 | spirits of all kinds |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| spirits | 灵魂 | Once out, I saw that spirits of all kinds had gathered in the room like dark auxiliaries marching upon the entire arm... |
 
 ## 一句话总结
 

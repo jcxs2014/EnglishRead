@@ -21,7 +21,7 @@ modified: "2026-09-01"
 
 **关键词：** peripatetic wisdom / one's own language / never difficult
 
-**为什么这样写：** chi 用伊博谚语开场——"自己的语言不难"暗示 Chinonso 在异国他乡的语言障碍。"peripatetic wisdom" 暗示 chi 的智慧来自多次轮回的游历。
+**为什么这样写：** chi 用伊博谚语开场——"自己的语言不难"暗示 Chinonso 在异国他乡的语言障碍。\"peripatetic wisdom\" 暗示 chi 的智慧来自多次轮回的游历。
 
 **读者视角提示：** 这是 chi 的叙述框架——他用宇宙观的视角来解读宿主的个人遭遇。
 
@@ -31,7 +31,7 @@ modified: "2026-09-01"
 
 **关键词：** new country / things were different / unaware / awaited
 
-**为什么这样写：** "unaware of what awaited him" 暗示 Chinonso 即将面临的困境——他不知道 Jamike 的骗局正在等待着他。
+**为什么这样写：** \"unaware of what awaited him\" 暗示 Chinonso 即将面临的困境——他不知道 Jamike 的骗局正在等待着他。
 
 **读者视角提示：** 这段描写为后续的剧情转折埋下伏笔——Chinonso 的命运即将改变。
 
@@ -41,7 +41,7 @@ modified: "2026-09-01"
 
 **关键词：** uninterrupted electricity / plugged in his phone / charge all night / did not hear a cock crow
 
-**为什么这样写：** "did not hear a cock crow" 暗示 Chinonso 与家乡的联系被切断了——尼日利亚的公鸡打鸣声是日常生活的标志，而这里没有。
+**为什么这样写：** \"did not hear a cock crow\" 暗示 Chinonso 与家乡的联系被切断了——尼日利亚的公鸡打鸣声是日常生活的标志，而这里没有。
 
 **读者视角提示：** 这段描写为后续 Chinonso 发现真相埋下伏笔——他即将失去所有的联系。
 
@@ -51,7 +51,7 @@ modified: "2026-09-01"
 
 **关键词：** noise / grinding / shouts / weeping / honking / acclamations / church drums / singing / muezzins / mosques / megaphones / loud music / party / full swing / boundless / innumerable / abhorred calm / silence
 
-**为什么这样写：** chi 用一长串声音的列举来对比尼日利亚与塞浦路斯的差异——尼日利亚是嘈杂的，而塞浦路斯是寂静的。"abhorred calm" 暗示尼日利亚文化对静态的排斥。
+**为什么这样写：** chi 用一长串声音的列举来对比尼日利亚与塞浦路斯的差异——尼日利亚是嘈杂的，而塞浦路斯是寂静的。\"abhorred calm\" 暗示尼日利亚文化对静态的排斥。
 
 **读者视角提示：** 这段描写为后续 Chinonso 的孤独感埋下伏笔——他进入了一个寂静的世界。
 
@@ -61,7 +61,7 @@ modified: "2026-09-01"
 
 **关键词：** certain / scams / comparing the similarities
 
-**为什么这样写：** "scams" 是全书的关键词之一——Jamike 的骗局是尼日利亚"雅虎男孩"（yahoo boy）文化的一部分。Tobe 的确定暗示 Chinoso 不是唯一的受害者。
+**为什么这样写：** \"scams\" 是全书的关键词之一——Jamike 的骗局是尼日利亚"雅虎男孩"（yahoo boy）文化的一部分。Tobe 的确定暗示 Chinoso 不是唯一的受害者。
 
 **读者视角提示：** 这段对话为后续 Chinonso 发现真相埋下伏笔——他即将意识到自己被骗了。
 
@@ -91,7 +91,7 @@ modified: "2026-09-01"
 
 **关键词：** must be fake / try to find him / possible / not what we think / drank / forgot / party / phone card / call him / picks up
 
-**为什么这样写：** Tobe 的话展现了尼日利亚留学生之间的互助精神——即使他怀疑 Jamike 是假的，他仍然愿意帮助 Chinonso 寻找他。"people party a lot on this island" 暗示塞浦路斯是一个聚会频繁的地方。
+**为什么这样写：** Tobe 的话展现了尼日利亚留学生之间的互助精神——即使他怀疑 Jamike 是假的，他仍然愿意帮助 Chinonso 寻找他。\"people party a lot on this island\" 暗示塞浦路斯是一个聚会频繁的地方。
 
 **读者视角提示：** 这段对话为后续 Chinonso 发现真相埋下伏笔——他即将面对现实。
 
@@ -101,7 +101,7 @@ modified: "2026-09-01"
 
 **关键词：** school fees / only partly paid / only one semester / not two / one thousand five hundred euros / not three thousand / accommodation / nothing was paid / maintenance / verified bank account / live on / work illegally / nonexistent
 
-**为什么这样写：** 这段描写揭示了骗局的细节——Jamike 只支付了部分学费，而住宿费和生活费根本没有支付。"nothing was paid" 的重复强调 Chinonso 的绝望。
+**为什么这样写：** 这段描写揭示了骗局的细节——Jamike 只支付了部分学费，而住宿费和生活费根本没有支付。\"nothing was paid\" 的重复强调 Chinonso 的绝望。
 
 **读者视角提示：** 这段描写是全书最心碎的瞬间之一——Chinonso 意识到他失去了所有的钱。
 
@@ -111,9 +111,11 @@ modified: "2026-09-01"
 
 **关键词：** real / paid your school fees / looked my host in the eye / scratched / on-campus accommodation
 
-**为什么这样写：** Atif 的话展现了学校工作人员的专业性——他能够区分真实的录取通知和虚假的承诺。"looked my host in the eye" 暗示 Atif 的同情。
+**为什么这样写：** Atif 的话展现了学校工作人员的专业性——他能够区分真实的录取通知和虚假的承诺。\"looked my host in the eye\" 暗示 Atif 的同情。
 
 **读者视角提示：** 这段对话为后续 Chinonso 发现真相埋下伏笔——他即将面对现实。
+
+## 本章词汇
 
 ## 本章词汇
 
@@ -121,531 +123,28 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| peripatetic | 游历的，巡回的 | the early fathers say in their peripatetic wisdom |
-| boundless | 无限的，无边无际的 | the source of the constant animated sound is boundless, innumerable |
-| innumerable | 无数的，数不清的 | the source of the constant animated sound is boundless, innumerable |
-| abhorred | 憎恨，厌恶 | the world of the country abhorred calm |
-| calm | 平静，镇静 | the world of the country abhorred calm |
-| silence | 沉默，寂静 | But here, there was calm. Even silence. |
-| hirsute | 多毛的，有须的 | this shirtless hirsute man |
-| discreet | 谨慎的，小心的 | trying to decide whether or not to be discreet |
-| excruciating | 极痛苦的，折磨人的 | he spoke in excruciating detail |
-| duped | 被欺骗，被诈骗 | he was certain he'd been duped |
-| scams | 骗局，诈骗 | describing many scams he'd heard about |
-| fake | 假的，伪造的 | the number was fake |
-| certain | 确定的，必然的 | I am certain |
-| similarities | 相似，类似 | comparing the similarities |
-| party | 聚会，派对 | people party a lot on this island |
-| island | 岛，岛屿 | people party a lot on this island |
-| phone card | 电话卡，电话充值卡 | Let us go buy a phone card |
-| call him | 打电话给他 | you can call him until he picks up |
-| picks up | 接电话，拿起 | you can call him until he picks up |
-| school fees | 学费，学校费用 | The school fees he thought had been paid |
-| partly | 部分地，在一定程度上 | had been only partly paid |
-| semester | 学期，半年 | Only one semester, not two |
-| euros | 欧元（货币单位） | One thousand, five hundred euros, not three thousand |
-| accommodation | 住宿，膳宿 | In regard to the accommodation he thought he had paid |
-| maintenance | 维护，生活费 | "Maintenance"—which Jamike had said the school required |
-| verified | 经过验证的，核实的 | deposit in a verified bank account |
-| bank account | 银行账户，存款账户 | deposit in a verified bank account |
-| illegally | 非法地，违法地 | so you do not need to work illegally |
-| nonexistent | 不存在的，虚无的 | that, too, was nonexistent |
-| puzzled | 困惑的，糊涂的 | this woman, Dehan, was puzzled by the term maintenance |
-| perplexity | 困惑，茫然 | gazing with perplexity at them |
-| lied | 说谎，撒谎 | He lied to you, Solomon. Really. He lied to you. |
-| sorry | 抱歉，对不起 | I'm very sorry for this |
-| comforting | 安慰的，令人欣慰的 | carrying Dehan's comforting words |
-| banner | 旗帜，横幅 | like a banner of peace |
-| dire | 可怕的，悲惨的 | said to a man in dire need |
-| assurance | 保证，担保 | who had given him the assurance |
-| countenance | 面容，表情 | a countenance that communicates to the person |
-| comforted | 安慰，使舒适 | they have been comforted by their words |
-| original | 原始的，最初的 | the original copy of his admission letter |
-| unconditional | 无条件的，无保留的 | unconditional admission letters |
-| receipt | 收据，收条 | the receipt for his school fees |
-| bore | 承受，忍受 | which was the only document that bore Jamike's name |
-| date | 日期，时间 | and the date: 6 August 2007 |
-| payment | 支付，付款 | the day he received the full payment for his compound |
-| million | 百万，百万个 | one million, two hundred thousand naira |
-| naira | 奈拉（尼日利亚货币） | one million, two hundred thousand naira |
-| nylon | 尼龙，聚酰胺 | a black nylon bag |
-| wide-eyed | 睁大眼睛的，惊讶的 | He and Elochukwu, wide-eyed, had counted it |
-| hands | 手，手掌 | his hands shaking |
-| voice | 声音，嗓音 | his voice cracking |
-| enormity | 巨大，庞大 | from the enormity of what he had just done |
-| bargain | 交易，讨价还价 | could wait until he found a good bargain |
-| cyber | 网络的，计算机的 | he drove to the cyber cafe on Jos Street |
-| cafe | 咖啡馆，咖啡厅 | he drove to the cyber cafe on Jos Street |
-| document | 文件，文档 | the document Jamike had said he needed |
-| visa | 签证，背签 | the document Jamike had said he needed for the visa |
-| medium | 媒介，介质 | sent to him through this medium |
-| calligraphed | 书法的，用美术字写的 | an arrangement of calligraphed words on a screen |
-| screen | 屏幕，银幕 | an arrangement of calligraphed words on a screen |
-| unconditional | 无条件的，无保留的 | the "unconditional admission letter" |
-| equivalent | 等价物，等同物 | its equivalent in Turkish beneath it |
-| inscribed | 刻，题写 | On its body was inscribed NEAR EAST UNIVERSITY |
-| Turkish | 土耳其的，土耳其人的 | its equivalent in Turkish beneath it |
-| gleeful | 欢快的，高兴的 | the gleeful countenance of a person who had returned home |
-| betrayed | 背叛，出卖 | Nothing in him betrayed the dire situation |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司机，驾驶员 | "They are taxi drivers," T.T. said |
-| cap | 帽子，便帽 | He'd put on a cap |
-| countenance | 面容，表情 | the gleeful countenance of a person who had returned home |
-| dire | 可怕的，悲惨的 | Nothing in him betrayed the dire situation |
-| painstakingly | 煞费苦心地，辛勤地 | he'd so painstakingly described |
-| curious | 好奇的，古怪的 | Still wearing that curious smile on his face |
-| smile | 微笑，笑容 | Still wearing that curious smile on his face |
-| unusual | 不平常的，非凡的 | an unusual white man |
-| wrinkled | 有皱纹的，皱褶的 | This one's face was wrinkled beyond normal |
-| complexion | 肤色，面色 | his complexion, although white, seemed to have an unusual dark hue |
-| hue | 色彩，色度 | seemed to have an unusual dark hue |
-| gray | 灰色的，灰白的 | but the roots at the sides of his head were gray |
-| beckoned | 示意，召唤 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths, beckoned to him |
-| Mercedes-Benz | 梅赛德斯-奔驰（品牌） | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| V-booths | 小型出租车，黄包车 | Turkish-speaking men, gesturing towards various black Mercedes-Benz or V-booths |
-| taxi | 出租车，计程车 | "They are taxi drivers," T.T. said |
-| drivers | 司
+| peripatetic | 游历的，巡回的 | An Orchestra of Minorities 11 The Wayfarer in a Foreign Land E ZECHITAOKE, the early fathers say in their peripatetic... |
+| boundless | 无限的，无边无际的 | It seemed that in the country from which he’d come, there was noise, constant grinding of some machines, constant sho... |
+| innumerable | 无数的，数不清的 | It seemed that in the country from which he’d come, there was noise, constant grinding of some machines, constant sho... |
+| abhorred | 憎恶，嫌弃 | It seemed as if the world of the country abhorred calm. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| scam | 骗局，诈骗 | “I am certain,” Tobe said, and then began describing many scams he’d heard about, comparing the similarities. |
+| fake | 假的，伪造的 | “Wait, and when you called him, er, you discovered the number was fake?” Tobe said presently. |
+| partly | 部分地，在一定程度上 | Tobe, seeming certain that he would see things, began looking through the papers and counted the new revelations as h... |
+| semester | 学期 | “There are three Nigerians there, and all of them came last semester. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| silence | 沉默，寂静 | Even silence. |
+| party | 聚会 | It seemed that in the country from which he’d come, there was noise, constant grinding of some machines, constant sho... |
+| sorry | 抱歉，对不起 | I’m very sorry for this. |
+
+## 一句话总结
+
+Chinonso 在塞浦路斯发现 Jamike 的骗局：他不仅没有来机场接机，所承诺的学费、住宿费和生活费几乎全是假的——Tobe 和 Dehan 的善意让他直面残酷现实。

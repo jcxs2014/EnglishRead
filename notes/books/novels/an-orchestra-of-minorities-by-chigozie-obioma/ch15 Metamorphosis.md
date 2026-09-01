@@ -117,35 +117,22 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| elaborate | 精心设计的 | the plan had been elaborate |
-| calabash | 葫芦 | a rattlesnake in a calabash of food |
-| deity | 神灵 | prayed to the White Man's alusi |
-| facade | 正面，表面 | a facade like nothing he'd ever seen |
-| seedlings | 幼苗，萌芽 | seedlings of concern |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| elaborate | 精心设计的 | They had told him in clear words that the plan had been elaborate. |
+| calabash | 葫芦 | He may be offering a rattlesnake in a calabash of food. |
+| deity | 神灵 | But where the fathers would have offered prayers to their ikenga, or their chi, or their agwu, or even another deity,... |
+| facade | 正面，表面 | This man took him close to the building, which had a facade like nothing he’d ever seen before. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| trap | 陷阱 | a mouse cannot knowingly enter into a trap |
-| concealed | 隐藏的 | that which is concealed |
-| garnish | 装饰，加料 | He may garnish it by saying |
-| corrupt | 腐蚀，败坏 | To do so would be to corrupt the truth |
-| potent | 有力的 | how this potent idea had escaped his thoughts |
-
-### ⭐ 基础
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| mouse | 老鼠 | a mouse cannot knowingly enter |
-| snake | 蛇 | offering a rattlesnake |
-| bench | 长椅 | sat at a bench beside a pool |
-| bus | 公共汽车 | the 8:15 bus had pulled up |
-| phone | 电话 | his phone rang |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| potent | 有力的 | ” “Chai, da’alu nu,” he said, almost breaking into tears, for he wondered again how this potent idea had escaped his ... |
 
 ## 一句话总结
 

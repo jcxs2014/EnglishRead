@@ -117,35 +117,33 @@ modified: "2026-09-01"
 
 ## 本章词汇
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| unrequited | 无回报的，单相思的 | unrequited love |
-| obsession | 执念，着迷 | caught in the obsession |
-| vantage | 有利位置 | from this vantage point |
-| infused | 注入，充满 | as heavy as a thing infused with lead |
-| relief | 安慰，减轻 | return home with a measure of relief |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| unrequited | 无回报的，单相思的 | An Orchestra of Minorities 24 Castaway A GBATTA-ALUMALU, nothing cripples a human being more than unrequited love. |
+| obsession | 执念，着迷 | With Jamike gone in the following week, he became caught in the obsession of pursuing her. |
+| vantage | 有利位置 | And from this vantage point, with his face concealed behind dark glasses, he would gaze at the pharmacy from the dist... |
+| infused | 注入，充满 | Then, after he’d watched and thought about her so much that his heart would feel as heavy as a thing infused with lea... |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| cripple | 摧残，使跛 | nothing cripples a human being |
-| generosity | 慷慨，大方 | his act of generosity |
-| revelation | 揭示，真相 | Jamike's revelation |
-| conceal | 隐藏，遮掩 | face concealed behind dark glasses |
-| blur | 模糊 | rain would blur his vision |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| cripple | 摧残，使跛 | An Orchestra of Minorities 24 Castaway A GBATTA-ALUMALU, nothing cripples a human being more than unrequited love. |
+| generosity | 慷慨，大方 | Although Ndali once told him that she would not have drowned anyway, his act of generosity in trying to get her off t... |
+| revelation | 揭示，真相 | He was defeated in the days following Jamike’s revelation. |
+| conceal | 隐藏，遮掩 | And from this vantage point, with his face concealed behind dark glasses, he would gaze at the pharmacy from the dist... |
 
 ### ⭐ 基础
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| bridge | 桥 | get her off the bridge |
-| bank | 银行 | worked in a bank |
-| pharmacy | 药房 | gaze at the pharmacy |
-| rain | 雨 | the July rain |
-| son | 儿子 | He has my name |
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| bridge | 桥 | Although Ndali once told him that she would not have drowned anyway, his act of generosity in trying to get her off t... |
+| bank | 银行 | And now her heart had been taken away from him by a man who worked in a bank and knew nothing of the sacrifices he ha... |
+| pharmacy | 药房 | He fought hard against it at first by going to work and trying to focus on his store, but every day after closing, he... |
 
 ## 一句话总结
 
