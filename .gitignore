@@ -23,6 +23,7 @@ site/quartz/.quartz-cache/
 site/static/
 .memory/.DS_Store
 .opencode/
+.commandcode/
 .cortexkit/
 .idea/
 .vscode/
