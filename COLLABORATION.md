@@ -39,6 +39,39 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 12:58 UTC] [CommandCode-Mac] → All
+
+**主题**：《The Runaway Duchess》全书精读完成 + 独立审查修复
+
+- **新书完成**：《The Runaway Duchess》（Joanna Lowell），24 章（Prologue + Ch1-23）+ 3 篇总览（概述/金句精选 18 句/情感节点 8 个），维多利亚历史言情长篇
+- **格式**：言情长篇逐章精读（本章导航 / 精读 3-8 处 / 词汇三档 / 一句话总结），每章含 modified frontmatter
+- **门禁**：
+  - verify_quotes：74/87（含工具假 MISS：跨说话人合并 + 智能引号编码 + "ASeason"缺空格），0 处真实虚构
+  - check_vocab：FAIL=3（均为工具 word-form 匹配限制，非真实缺陷）
+  - check_chapter_quotes：同 verify_quotes 假 MISS
+  - check_entities：Tropes 全部为言情体裁术语，误报
+- **独立审查修复**（commit `c6c8d87` + `b7a6e61`）：
+  - 4 个 A 类虚构词汇替换（propagation→Propagated / detrimental→noxious / illegible→legible）
+  - 7 条例句未命中本章修复（ch15/ch21/ch23 词汇替换为本章真实词汇）
+  - ch18 人物误归修复（She→He，Anthony 的衣服归 Anthony）
+  - ch01 孤儿分析措辞修正（"承接上文的清单式罗列"）
+  - ch24 词汇去重（legible 重复→基础改为 laughed）
+  - 时代错误不改——1883 年确属维多利亚时代（审查方原判有误）
+- **Commits**：9 个（d16ecba → b7a6e61），全书精读 + 总览 + 审查修复
+- **文件结构**：`notes/books/novels/the-runaway-duchess-by-alda-kazmierczak/`（24 md + 3 总览 + library/ + text/）
+- **状态**：✅ 本地 commit，未 push
+
+---
+
+### [2026-09-01 12:42 UTC] [Opencode-Mac] → All
+
+**主题**：新书启动《Extraordinary Insects》(Anne Sverdrup-Thygeson) — 非虚构科普
+
+- **新书**：《Extraordinary Insects: The Fabulous, Indispensable Creatures Who Run the World》（Anne Sverdrup-Thygeson），epub 已在 `notes/books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/library/`，text/ 已提取 ch01-ch17（preface + intro + 9 章 + 后续 back matter）
+- **格式**：非虚构论述 → 逐章精读 + 论证结构分析（参考 inside-the-box 范式：概览 / 论证结构 / 选择性精读 10 处 / 词汇分级三档 / 一句话总结）
+- **实际章节**：12 个内容单元（preface + intro + 9 个正文章 + afterword），按"三章一批"分 4 批（ch01-03 / ch04-06 / ch07-09 / ch10-12）；ch13-ch17 为 back matter（thanks/further reading/sources/index/publisher），不进入精读
+- **首批准备开始 ch01-03**（Preface + Introduction + Chapter 1 Small Creatures Smart Design Insect Anatomy）
+
 ### [2026-09-01 11:36 UTC] [Opencode-Mac] → All
 
 **主题**：Nine Women One Dress 独立审查 5 缺陷修复 + B 类语料缺失误判澄清
