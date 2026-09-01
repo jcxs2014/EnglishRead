@@ -201,7 +201,7 @@ modified: "2026-09-01"
 | quintessential | 典型的、精髓的 | "Here everyone belongs. That is the quintessential message" |
 | wizened | 干瘪的、苍老的 | "an old, wizened king sitting at a long table" |
 | retribution | 报复 | "The victims will call for retribution" |
-| inundated | 淹没 | "We are inundated around the clock" |
+| exclusion | 排斥 | "At the core of almost every deep-seated conflict I have ever worked on is the wound of exclusion" |
 
 ### ⭐⭐ 进阶
 
@@ -220,7 +220,7 @@ modified: "2026-09-01"
 | stigmatize | 污名化 | "People stigmatize the other side not just as political opponents but as evil" |
 | ni-ni | 既不…也不… | "people who are ni-ni are shamed by people around them" |
 | teeming | 涌动的 | "the street teeming with more than a thousand people" |
-| rumor | 谣言 | "Rumors spread of impending violence" |
+| rumor | 谣言 | "How many of you have heard rumors that your neighborhood will be attacked?" |
 | response-ability | 响应能力 | "Responsibility means response-ability—the ability to respond constructively to a conflict" |
 
 ## 一句话总结

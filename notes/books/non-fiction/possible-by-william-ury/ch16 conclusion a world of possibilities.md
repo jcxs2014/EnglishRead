@@ -207,7 +207,7 @@ modified: "2026-09-01"
 | gutter | 阴沟 | "Going to the balcony is the opposite of going to the gutter" |
 | demonizing | 妖魔化 | "the name-calling and demonizing of the other" |
 | straitjacket | 束缚 | "Reducing everything to two sides is like a straitjacket" |
-| evolutionary | 进化的 | "they seized their evolutionary chance" |
+| evolutionary | 进化的 | "I dream of an anthropologist a thousand years from now who will look back and see the coming generations as the ones who seized their evolutionary chance" |
 | innate | 先天的 | "We don't need to learn to be a possibilist. It is innate" |
 
 ### ⭐ 基础

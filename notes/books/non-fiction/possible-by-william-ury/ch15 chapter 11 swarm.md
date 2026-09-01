@@ -220,7 +220,7 @@ modified: "2026-09-01"
 | SWAT team | 特别行动小组 | "We nicknamed ourselves a SWAT team for peace" |
 | facilitator | 促进者 | "a masterful facilitator of collective intelligence" |
 | veteran | 老兵、资深的 | "a military veteran" |
-| dispatch | 派遣 | "dispatched the negotiators back to Havana" |
+| dispatch | 派遣 | "The North Korea swarm allowed me to glimpse my dream" |
 
 ## 一句话总结
 

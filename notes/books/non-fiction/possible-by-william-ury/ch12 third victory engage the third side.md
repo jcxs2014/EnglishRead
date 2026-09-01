@@ -195,10 +195,9 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| incinerated | 被焚烧 | "All of us in the room would likely have been incinerated in an atomic blast" |
-| annihilation | 毁灭 | "haunted by how close we had come to mutual annihilation" |
+| annihilation | 毁灭 | "I emerged from those freezing cold days in Moscow haunted by how close we had come to mutual annihilation" |
 | ominous | 不祥的 | "He ended his speech by somberly warning Americans" |
-| quintessential | 典型的 | "the quintessential message of the third side" |
+| community | 社区 | "The community acts for the benefit of the whole" |
 
 ### ⭐⭐ 进阶
 

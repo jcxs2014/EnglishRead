@@ -218,8 +218,8 @@ modified: "2026-09-01"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | ominous | 不祥的 | "he had added ominously" |
-| daunting | 令人畏惧的 | "Understanding the complexities may seem daunting" |
-| inundated | 淹没、充斥 | "We are inundated around the clock with news" |
+| iconic | 标志性的 | "An iconic photo is the visual tool of a possibilist" |
+| reputation | 声誉 | "His word could be counted on" |
 | spate | 一连串 | "marked by a spate of wildcat strikes" |
 | reciprocate | 回报 | "The opposition leaders reciprocated with a signal" |
 

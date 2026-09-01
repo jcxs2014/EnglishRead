@@ -205,8 +205,8 @@ modified: "2026-09-01"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| counsel | 咨询 | "To offer counsel is different from simply offering advice" |
-| clarifying questions | 澄清性问题 | "The key is to begin by asking clarifying questions" |
+| counsel | 咨询 | "To offer counsel is different, in my experience, from simply offering advice" |
+| clarifying questions | 澄清性问题 | "The key, in my experience, is to begin by asking clarifying questions" |
 | facilitate | 促进 | "We can facilitate clear communication and genuine dialogue" |
 | arbitration | 仲裁 | "Mediation is often confused with arbitration" |
 | standstill | 停滞 | "The talks are at a standstill" |
@@ -217,9 +217,9 @@ modified: "2026-09-01"
 |---------|------|------|
 | standstill | 停滞 | "The talks are at a standstill" |
 | contention | 争端 | "the issue in contention" |
-| demur | 表示异议 | "he had demurred because of his wife's and his strong personal feelings" |
+| demur | 表示异议 | "He left Havana and flew back to Bogotá" |
 | agitated | 不安的 | "I found him in a state of agitation" |
-| elation | 兴高采烈 | "I feel deep elation" |
+| elation | 兴高采烈 | "It was a huge relief to me personally" |
 
 ## 一句话总结
 
