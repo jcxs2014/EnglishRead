@@ -63,7 +63,7 @@ modified: "2026-09-01"
 |---------|------|------|
 | welling | 涌出，盈满 | "eyes welling, spilling over." |
 | rattled | 咔嗒咔嗒地响 | "she called for the carriage and rattled into the north of London." |
-| legible | 清晰可读的 | "they'd produced a legible document." |
+| laughed | 笑，大笑 | "Anthony looked at her, startled, then kicked back in his chair with a laugh." |
 
 ## 一句话总结
 
