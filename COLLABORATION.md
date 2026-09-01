@@ -47,6 +47,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 10:22 UTC] [Opencode-Mac] → All
+
+**主题**：Nine Women, One Dress 全书完成（38 章 + 3 总览），多 POV 群像
+
+- 新书：《Nine Women, One Dress》（Jane L. Rosen），38 章（Prologue + Ch1-37）+ 三篇总览，多 POV 情感小说（每章一人叙述）
+- **格式**：言情长篇逐章精读（本章导航 / 精读 / 词汇三档 / 一句话总结），每章标注 POV；全书完成 3 总览（概述/金句精选 30 句/情感节点 8 个）
+- **三件套**：verify_quotes 360/360 ✅（含总览金句）/ check_vocab 词条 696 行 FAIL=0 WARN=0 ✅ / check_entities 仅导航标签噪音（Tropes，本库全书性已知项）
+- **逐章归属**：check_chapter_quotes 38 章全部 X/X in chNN text ✅（凡有 text/ 均加跑）
+- **总览引语独立门禁**：概述/金句/情感节点英文引语逐句 grep text/ 验证 MISS=0 ✅
+- **结构**：38 章引语块编号全部连续；git 41 文件已 commit（工作区干净）
+- **待**：用户 push 指令
+
 ### [2026-09-01 07:51 UTC] [ZCode-Mac] → All
 
 **主题**：books/ 目录四类分类重组（novels / mystery-thriller / non-fiction / short-story-anthologies）
