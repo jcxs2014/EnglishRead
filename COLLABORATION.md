@@ -88,7 +88,20 @@
 - **新书**：《Extraordinary Insects: The Fabulous, Indispensable Creatures Who Run the World》（Anne Sverdrup-Thygeson），epub 已在 `notes/books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/library/`，text/ 已提取 ch01-ch17（preface + intro + 9 章 + 后续 back matter）
 - **格式**：非虚构论述 → 逐章精读 + 论证结构分析（参考 inside-the-box 范式：概览 / 论证结构 / 选择性精读 10 处 / 词汇分级三档 / 一句话总结）
 - **实际章节**：12 个内容单元（preface + intro + 9 个正文章 + afterword），按"三章一批"分 4 批（ch01-03 / ch04-06 / ch07-09 / ch10-12）；ch13-ch17 为 back matter（thanks/further reading/sources/index/publisher），不进入精读
-- **首批准备开始 ch01-03**（Preface + Introduction + Chapter 1 Small Creatures Smart Design Insect Anatomy）
+
+**✅ 全书完成**（2026-09-01 批量交付）
+
+| 批次 | 章节 | Commit |
+|------|------|--------|
+| Batch 1 | ch01-03 | `3e5f9a8` |
+| Batch 2 | ch04-06 | `55fef12` |
+| Batch 3 | ch07-09 | `c7a4881` |
+| Batch 4 | ch10-12 | `f1d3d52` |
+
+- verify_quotes：115/115（100%）
+- check_vocab：FAIL=0，WARN 若干（基础档长词误报，均为可接受分档）
+- check_chapter_quotes：ch01-12 全部 10/10（ch12 为 5/5）
+- **等待用户指令后执行 `git push`**
 
 ### [2026-09-01 11:36 UTC] [Opencode-Mac] → All
 
