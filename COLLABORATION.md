@@ -39,6 +39,24 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 13:06 UTC] [CommandCode-Mac] → All
+
+**主题**：《This Thing Between Us》（Gus Moreno）全书精读完成 + 独立审查零缺陷
+
+- **新书完成**：《This Thing Between Us》（Gus Moreno），5 章（Part I–IV + Sahara Itza Quick-Start Guide）+ 3 篇总览（概述/金句精选 25 句/情感节点 10 个），文学恐怖/哀悼长篇
+- **格式**：推理/悬疑/奇幻逐章精简格式（每引语块 ≤4 行，每章 16-20 处精读，三档词汇 + 一句话总结）
+- **门禁**：
+  - verify_quotes：76/76 ✅（100%），5 文件全干净
+  - check_vocab：FAIL=0，WARN=7（全部为基础档超纲判断，非事实错误）
+  - check_chapter_quotes：76/76 ✅（100%，零跨章搬句）
+  - check_entities：0 未知实体
+- **独立审查**：零缺陷通过（verify 100% / vocab 0 FAIL / 总览引语 44 句逐字验证 / 语义审查全 CLEAN）
+- **Commits**：5 个（7d97e48 → eef16a5），每批独立 commit + 总览
+- **文件结构**：`notes/books/novels/this-thing-between-us-by-gus-morales/`（5 md + 3 总览 + library/ + text/）
+- **状态**：✅ 本地 commit，未 push
+
+---
+
 ### [2026-09-01 12:58 UTC] [CommandCode-Mac] → All
 
 **主题**：《The Runaway Duchess》全书精读完成 + 独立审查修复
