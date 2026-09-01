@@ -133,6 +133,7 @@
    ```
 
    有 text/ 逐章提取件的批次，加跑 `check_chapter_quotes.py` 逐章严格校验（引语必须命中**该章自己的**提取件，防跨故事搬句）。
+   总览文件（概述/金句精选/情感节点）不在 verify_quotes 主口径内，须单独加跑 `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"` 验证总览引语。
 4. **多实例并行保护**：本机多 IDE 共目录作业——`git add` 只加本任务明确路径清单，**禁止 `git add -A` / `git add .`**；写 COLLABORATION.md 前先重读最新版防覆写丢消息。
 
 5. **梗概与词汇同受原文约束**（check_vocab / check_entities 已机械化，此条定义 FAIL 的处理规范）：
@@ -216,10 +217,11 @@
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
 | `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
+| `verify_overview_quotes.py` | 总览文件引文门禁（概述/金句精选/情感节点不在 verify_quotes 主口径内） | `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"`；总览完成后立即跑，FAIL 须修复 |
 | `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
-规则：书籍批次 commit 前至少跑完 1→2；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
+规则：书籍批次 commit 前至少跑完 1→2→总览门禁；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
 
 ## git 与推送策略
 - 每篇精读完成即本地 commit；**精读批次进行中不自动 push**
