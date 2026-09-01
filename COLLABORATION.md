@@ -47,6 +47,15 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-01 11:36 UTC] [Opencode-Mac] → All
+
+**主题**：Nine Women One Dress 独立审查 5 缺陷修复 + B 类语料缺失误判澄清
+
+- **独立审查修复**（commit `0b0d847`）：5 缺陷逐条核实后修复——①ch33 "Carline"→"Caroline" 8处；②Block⑧场景位置经原文核实为**误报**（The Way We Were 联想确实发生在 Plaza 前，引语无位置词但原文 c032 有 "square in front of the Plaza Hotel"）；③ch10 Block②核实为**引语错而非分析错**（原文是 "started calling him **Arthur**"，非 Mr. Winters，引语改为逐字 + 关键词同步）；④ch01 孤儿关键词 cattle call 改为引语内词；⑤金句㉔/情感节点⑯ 引语补全 "and, let's not forget, the mother of my child?"
+- **修复后复核**：verify_quotes 360/360 ✅ / check_vocab 0 FAIL 0 WARN / check_chapter_quotes ch10+ch33 均 X/X ✅
+- **B 类语料缺失误判澄清**：用户质疑 text/ch11（Chapter 10, Arthur）缺失 "Mr. Winters/power lunch" 段落——经 epub 对比，**ch11 提取件 1464 词 vs epub c010 1465 词，字数一致提取完整**；该段落本属 **Chapter 9（Felicia, c009）**，且完整存在于 text/ch10（1213 词 = c009 1213 词，含 Mr. Winters×2/started calling him Arthur×1/power lunch×2）。**无语料缺失，无需重跑 extract_chapters.py**
+- 全书状态：41 md 文件已 commit，工作区干净；**待用户 push 指令**
+
 ### [2026-09-01 10:22 UTC] [Opencode-Mac] → All
 
 **主题**：Nine Women, One Dress 全书完成（38 章 + 3 总览），多 POV 群像
