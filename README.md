@@ -32,11 +32,17 @@
 │   ├── lithub/              ← Literary Hub
 │   ├── granta/              ← Granta
 │   └── books/               ← 整本书/短篇合集精读库
-│       ├── short-story-anthologies/    ← 短篇合集（言情/悬疑/恐怖/奇幻）
 │       ├── novels/                      ← 长篇小说（逐章精读）
-│       └── non-fiction/                 ← 非虚构论述
-├── scripts/                 ← 抓取与扫描脚本（仅跨源工具）
-│   └── scan.py              跨源扫描工具
+│       ├── non-fiction/                 ← 非虚构论述
+│       └── mystery-thriller/            ← 推理/悬疑小说
+├── scripts/                 ← 工具脚本
+│   ├── scan.py              跨源扫描工具
+│   ├── verify_quotes.py     书籍引语逐字核对
+│   ├── check_vocab.py       词汇表真实性检测
+│   ├── check_entities.py    梗概实体一致性检测
+│   ├── check_chapter_quotes.py  逐章引语归属校验
+│   ├── verify_overview_quotes.py 总览文件引文门禁
+│   └── extract_chapters.py  epub 按章提取纯文本
 ├── site/                    ← Quartz 项目（配置入 git，public/node_modules 忽略）
 │   ├── quartz.config.yaml   package.json  wrangler.jsonc
 │   └── public/              构建产物（gitignore）
@@ -142,10 +148,19 @@
 - `## 词汇分级` 下分三档 `### ⭐⭐⭐ 高级` / `### ⭐⭐ 进阶` / `### ⭐ 基础`
 - 每档一张 3 列表格（词/短语 | 释义 | 例句）
 
-### 小说精读格式（三档体裁对应）
-- **言情/情感小说**：3 篇（概述 + 金句精选 + 情感节点），不逐句
-- **推理/悬疑/奇幻小说**：逐章精读（精简格式），每引语块 ≤4 行
-- **随笔集/书评集**：逐篇精读（每篇 1 H1 + 4 H2）
+### 小说/整本书精读格式
+
+| 体裁 | 格式 | 说明 |
+|------|------|------|
+| **言情/情感小说（长篇）** | 逐章精读 + 3 篇总览 | 有情感弧线、人物成长、tropes 兑现/反转 |
+| **推理/悬疑/奇幻小说（长篇）** | 逐章精读（精简格式） | 有推理线/线索/嫌疑人结构 |
+| **随笔集/书评集** | 逐篇精读（1 H1 + 4 H2） | 每篇独立 |
+| **短篇合集** | 逐篇精读（10处 + 五子项 + 三档词汇） | 每篇独立故事 |
+| **非虚构论述** | 逐章精读 + 论证结构分析 | 核心价值在论证链（概览→论证结构→选择性精读→词汇分级→一句话总结） |
+
+每章格式统一为：本章导航 → 精读 → 本章词汇（⭐⭐⭐/⭐⭐/⭐ 三档）→ 一句话总结。
+
+**书籍门禁**：`notes/books/` 下所有精读须跑三件套——`verify_quotes`（引语逐字）+ `check_vocab`（词汇真实性）+ `check_entities`（实体一致性），FAIL=0 才可 commit。
 
 ## Quartz 配置红线
 
