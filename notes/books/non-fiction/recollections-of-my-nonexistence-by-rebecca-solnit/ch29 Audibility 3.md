@@ -68,7 +68,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 
 > **原句 2:** Two years before, I had left the studio apartment for a more spacious attic dwelling six blocks south. My friend Marina had just moved in with me there, in flight from an awful soon-to-be-ex, and I was delighted to have her with me. By the time of the alarming diagnosis I'd received that winter, we were close friends. The diagnosis meant major surgery a few weeks before this time, so we were nestled in, convalescing, each in our own way.
 
-
 **中文理解**：Solnit 用"in flight from an awful soon-to-be-ex"将"友谊"定义为一种"避难"：不是"社交"，而是"避难"；不是"选择"，而是"需要"。
 
 **句子结构**：复合句，"Two years before, I had left the studio apartment for a more spacious attic dwelling six blocks south"。
@@ -84,7 +83,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 ### ③
 
 > **原句 3:** The herringbone clouds letter didn't mention that I had been joking that night, as I had for years, about writing an essay called "Men Explain Things to Me." I'd brought it up at the dinner on my little drop-leaf oak dining table with the massive vaselike center legs, the one I'd bought from the elderly lesbian couple next door. When I did, Marina had energetically urged me to write the piece and said how much young women like her sister needed it.
-
 
 **中文理解**：Solnit 用"joking that night, as I had for years"将"文章"定义为一种"笑话"：不是"计划"，而是"笑话"；不是"严肃"，而是"日常"。
 
@@ -102,7 +100,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 
 > **原句 4:** I was an early riser, and she was catching up on much-needed sleep, and the attic had just two large rooms. The kitchen and the daybed on which guests slept were in the west room. The east room was my bedroom and office, with a long, built-in desktop held up at its center by the old spindle-legged desk. So the morning of the 25th, rather than disturb her rest, I sat down at that desk once again and did her bidding. The essay poured out with ease or rather tumbled out seemingly of its own accord.
 
-
 **中文理解**：Solnit 用"poured out with ease or rather tumbled out seemingly of its own accord"将"写作"定义为一种"诞生"：不是"努力"，而是"诞生"；不是"创造"，而是"发现"。
 
 **句子结构**：长复合句，"I was an early riser, and she was catching up on much-needed sleep, and the attic had just two large rooms" + "So the morning of the 25th, rather than disturb her rest, I sat down at that desk once again and did her bidding"。
@@ -118,7 +115,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 ### ⑤
 
 > **原句 5:** What I wrote that morning startled me, because when I had been joking the night before, I hadn't connected men explaining things to me to what I would write that morning. The essay's beginning is comedy: in an incident from five years earlier, a man talks over me to explain my own book to me and is briefly stunned to realize (when my companion finally succeeds in interrupting him) that I, the person he's already dismissed and turned into an audience, am the author of that "very important book" on Muybridge on which he is holding forth.
-
 
 **中文理解**：Solnit 用"startled me"将"写作"定义为一种"惊讶"：不是"计划"，而是"惊讶"；不是"预期"，而是"意外"。
 
@@ -136,7 +132,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 
 > **原句 6:** I've sometimes been taken to task by people as though I equate minor indignities with major crimes, people who don't or prefer not to understand that we talk about a lot of things on a spectrum, and we can distinguish the different points on the spectrum, but the point is that it's one spectrum. Making black people drink out of separate drinking fountains and lynching them are different in degree and kind, but they both emerge from the same effort to enforce segregation and inequality, and almost no one has trouble understanding that.
 
-
 **中文理解**：Solnit 用"spectrum"（光谱）将"暴力"定义为一种"连续"：不是"二元"，而是"连续"；不是"非此即彼"，而是"亦此亦彼"。
 
 **句子结构**：超长复合句，"I've sometimes been taken to task by people as though I equate minor indignities with major crimes..."
@@ -152,7 +147,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 ### ⑦
 
 > **原句 7:** Since the essay I wrote that morning was published, I've heard from lawyers, scientists, doctors, scholars in many fields, athletes and mountaineers, mechanics, builders, film technicians, and other women who've had their field of expertise explained to them by men who didn't have any idea what they were talking about but thought the world was so ordered that knowledge was inherent in them as lack of it was in women, that listening was our natural state and obligation and holding forth their right, perhaps that it is her job to let his sense of self expand as hers shrivels.
-
 
 **中文理解**：Solnit 用"knowledge was inherent in them as lack of it was in women"将"知识"定义为一种"权力"：不是"事实"，而是"权力"；不是"中立"，而是"性别化"。
 
@@ -170,7 +164,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 
 > **原句 8:** When I was very young and just beginning to get what feminism was about and why it was necessary, I had a boyfriend whose uncle was a nuclear physicist. One Christmas, he was telling—as though it were a light and amusing subject—how a neighbor's wife in his suburban bomb-making community had come running out of her house naked in the middle of the night screaming that her husband was trying to kill her. How, I asked, did you know that he wasn't trying to kill her? He explained, patiently, that they were respectable middle-class people. Therefore, her-husband-trying-to-kill-her was simply not a credible explanation for her fleeing the house yelling that her husband was trying to kill her. That she was crazy, on the other hand. . . .
 
-
 **中文理解**：Solnit 用"respectable middle-class people"将"可信度"定义为一种"阶级"：不是"事实"，而是"阶级"；不是"证据"，而是"身份"。
 
 **句子结构**：超长复合句，"When I was very young and just beginning to get what feminism was about and why it was necessary, I had a boyfriend whose uncle was a nuclear physicist"。
@@ -187,7 +180,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 
 > **原句 9:** The same assumption that you are incompetent in your field of expertise may mean you're viewed as incompetent to know if someone is trying to kill you. It's an assumption that has resulted in death for many victims of domestic violence and stalking. This essay headed to places I did not know I was going to go.
 
-
 **中文理解**：Solnit 用"This essay headed to places I did not know I was going to go"将"写作"定义为一种"旅程"：不是"计划"，而是"旅程"；不是"控制"，而是"发现"。
 
 **句子结构**：复合句，"The same assumption that you are incompetent in your field of expertise may mean you're viewed as incompetent to know if someone is trying to kill you"。
@@ -203,7 +195,6 @@ Solnit 以"In those days I often headed my emails to Tina with weather reports"�
 ### ⑩
 
 > **原句 10:** And in all that I am ordinary. After all, I live in a society where rape kits and campus stalking awareness month and domestic violence shelters in which women and children are supposed to hide from husbands and fathers are normal fixtures.
-
 
 **中文理解**：Solnit 用"I am ordinary"将"自己"定义为一种"平凡"：不是"特殊"，而是"平凡"；不是"例外"，而是"常态"。
 
