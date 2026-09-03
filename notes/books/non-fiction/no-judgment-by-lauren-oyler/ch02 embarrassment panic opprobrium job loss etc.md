@@ -129,7 +129,7 @@ modified: "2026-09-03"
 
 **句子结构**：六词警句，today/tomorrow 时间对仗，gossip/news 身份对仗。
 
-**关键词**：`tagline`（口号——这句话本身就是 Gawker 的广告语，预言兼自我实现）
+**关键词**：`gossip/news`（八卦/新闻——身份对仗，这句话本身就是 Gawker 的广告语 tagline）、`today/tomorrow`（今日/明日——时间对仗，预言兼自我实现）
 
 **表达方式**：Oyler 称之为 brilliant：它既是描述也是授权——报道八卦就是在制造新闻。
 
