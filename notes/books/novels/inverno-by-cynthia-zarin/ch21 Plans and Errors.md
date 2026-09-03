@@ -56,15 +56,12 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| syntactical | 句法的 | "without syntax"（语境中） |
 | afficordo | （意大利语）我记得 | "Here is a word I just learned, **afficordo**" |
-| concupiscence | 色欲；渴望 | （本节未出现） |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| intervale | 州际公路 | "She drove through the falling snow on the **interstate**" |
 | lurch | 猛然前倾 | "Then it **lurched**" |
 
 ## 一句话总结

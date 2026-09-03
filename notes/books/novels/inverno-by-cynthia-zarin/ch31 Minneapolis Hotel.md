@@ -64,7 +64,6 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| talisman | 护身符 | （本节未出现） |
 | focolare | （意大利语）壁炉 | "Do you remember the word for hearth...**Il focolare**" |
 
 ## 一句话总结

@@ -58,7 +58,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | patron | 赞助人 | "a **patron** of the arts" |
 | enamored | 迷恋的 | "was not **enamored** of the snow" |
-| clamboard | 护墙板 | "a low nineteenth-century **clapboard** house" |
+| clapboard | 护墙板 | "a low nineteenth-century **clapboard** house" |
 
 ### ⭐ 基础
 

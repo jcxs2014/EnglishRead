@@ -56,7 +56,7 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| carneline | 光玉髓（宝石） | "a round-faced woman who has an old ailing poodle and a **carnelian** ring" |
+| carnelian | 光玉髓（宝石） | "a round-faced woman who has an old ailing poodle and a **carnelian** ring" |
 | latchkey | 门锁钥匙 | "She takes her coat and an apple and her **latchkey**" |
 | deter | 阻止；威慑 | "Nothing must **deter** her from putting one foot in front of the other" |
 

@@ -59,13 +59,11 @@ modified: "2026-09-03"
 |---------|------|------|
 | superstitious | 迷信的 | "Caroline became **superstitious** about this lightbulb" |
 | dispensation | 处置；豁免 | "the **dispensation** of his estate should she die" |
-| embroderies | 刺绣；修饰 | "she **embroiders** it and then rips it apart" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| vestule | 门厅（vestibule 拼写） | "A child stands in the **vestibule** inside a stand of boxwood" |
 | barrette | 发夹 | "missing keys, erasers, **barrettes**" |
 
 ## 一句话总结

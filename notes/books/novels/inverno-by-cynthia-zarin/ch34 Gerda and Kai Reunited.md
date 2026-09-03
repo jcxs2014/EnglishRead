@@ -57,7 +57,6 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | mastodon | 乳齿象 | "like the teeth of an enormous animal, a **mastodon**" |
-| annihilation | 毁灭 | "a streak of skywriting, which **annihilates** itself" |
 
 ### ⭐ 基础
 

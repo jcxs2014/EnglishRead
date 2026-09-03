@@ -27,6 +27,8 @@ modified: "2026-09-03"
 
 **为什么这样写**：Zarin 用"picking herself up after a fall"描述 Caroline 的思考——思考不是坐着进行的，而是摔倒后爬起来进行的。"Not drowning"是对 Alastair 问题的回答，但也是对全书"水"意象的回应——她没有溺水，但她一直在水中。
 
+**读者视角提示**：注意"Not drowning"——这是对全书"水"意象的回应。Caroline 一直在水中（Snow Queen 的冰湖、瀑布后的洞穴、Alastair 的 river），但她"没有溺水"——她在水上漂浮，而非沉没。
+
 ---
 
 ## 本章词汇

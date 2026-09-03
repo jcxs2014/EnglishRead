@@ -57,7 +57,6 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | furtively | 偷偷摸摸地 | "he had once, **furtively**, undressed her" |
-| quadrille | 方阵舞 | （本节未出现） |
 | talcum | 爽身粉 | "something else—**talcum** powder" |
 
 ### ⭐ 基础

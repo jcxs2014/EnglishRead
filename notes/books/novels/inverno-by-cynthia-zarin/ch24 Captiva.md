@@ -57,7 +57,6 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | eddies | 漩涡；回流 | "the **eddies** around the letters rearrange themselves" |
-| throttle | 节流；扼杀 | "the catch in her throat **throttling** her" |
 | houndstooth | 千鸟格 | "his **houndstooth** jacket and mustache" |
 
 ### ⭐ 基础

@@ -44,7 +44,6 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | cordless | 无线的 | "Caroline did not want only **cordless** phones" |
-| propeller | 螺旋桨 | （本节未出现） |
 
 ### ⭐ 基础
 

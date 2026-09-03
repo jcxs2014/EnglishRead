@@ -50,7 +50,6 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | Quonset hut | 半圆形棚屋（军事建筑） | "in this … **Quonset hut** of the past" |
-| annihilation | 毁灭；消灭 | "You Are **Annihilating** Me"（天空写字） |
 | feverfew | 小白菊（药草） | "**Feverfew** spackled the sun-splotched lawn" |
 
 ### ⭐⭐ 进阶

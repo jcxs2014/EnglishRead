@@ -49,7 +49,7 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| constriction | 收缩；紧缩 | "What **constricts** the heart is emotion that is withheld" |
+| constricts | 束缚；使窒息 | "What **constricts** the heart is emotion that is withheld" |
 
 ### ⭐⭐ 进阶
 

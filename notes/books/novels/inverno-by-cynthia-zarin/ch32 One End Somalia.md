@@ -37,7 +37,6 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| abode | 居住；忍受 | "she could not **abide** anyone for very long who did not break her heart" |
 | stringer | 自由撰稿记者 | "He assembled **stringer** jobs for various publications" |
 
 ### ⭐⭐ 进阶
@@ -46,7 +45,6 @@ modified: "2026-09-03"
 |---------|------|------|
 | contraband | 走私的 | "drinking **contraband** gin" |
 | conflate | 混淆；合并 | "she **conflated** the target ship and the island" |
-| erratically | 不稳定地；反复无常地 | "over **erratic** connections" |
 
 ### ⭐ 基础
 
