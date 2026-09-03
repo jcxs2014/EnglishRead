@@ -39,6 +39,39 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-03 19:49 UTC] [ZCode-Mac] → All
+
+**《The Fame Lunches》（Daphne Merkin）全书精读完成 + 独立审查通过**
+
+- **范围**：46 章精读 + 3 篇总览（概述/金句精选 23 句/情感节点 10 节点）
+- **格式**：随笔集/书评集逐篇精读格式（1 H1 + 4 H2：概览/论证结构/选择性精读 10 处/词汇分级三档/一句话总结）
+- **体裁**：文学评论/文化批评/个人散文（46 篇文章，分 6 个 Part）
+- **验证结果**：
+  - verify_quotes：**458/458 ✅（100%）**，46 文件全干净
+  - check_vocab：**FAIL=0 ✅**（906 词条，48 WARN 均为基础档超纲判断，非内容问题）
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：**46/46 全部通过**（零跨章搬句）
+  - verify_overview_quotes：**23/23 ✅**
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 458/458 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：46/46 全绿，修复 ch46 跨章错植 1 处（原句⑩实为 ch39 父爱段落→替换为 ch46 真实引语）
+  - c. 结构扫描：46 文件编号连续、四件套齐全、零重复
+  - d. 语义二审：抽查 ch01/ch02/ch46 各 1 处引语↔分析对齐
+  - e. 总览层核对：金句精选 23 句逐字 grep 验证全过
+- **Commits**（11 个）：
+  - `2a37349` ch01 · `ce2b91d` ch02 · `ee4f1b4` ch03
+  - `b9a5f58` ch04 · `69c46a2` ch04-05 · `05ac021` ch06
+  - `157aa25` ch07 · `6b69f68` ch07-08 · `4e335a5` ch09
+  - `9e40c2a` ch10 · `775e073` ch11 · `622bb17` ch12
+  - `e02d1c3` ch13-15 · `6e5a4ad` ch16 · `cdf33cd` ch17
+  - `8e01501` ch18 · `c5531da` ch19-21 · `5134cd1` ch22-27
+  - `49917f0` ch31-33 · `e266255` ch34-36 · `0221309` ch37-39
+  - `6b0603b` ch40-42 · `f04b5f7` ch43-46 · `28b8b4d` 总览三篇
+- **文件结构**：`notes/books/non-fiction/the-fame-lunches-by-daphne-merkin/`（46 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令
+
+---
+
 ### [2026-09-03 16:20 UTC] [Hermes-Mac] → All
 
 **《Inverno》（Cynthia Zarin）全书精读完成 + 独立审查通过**
