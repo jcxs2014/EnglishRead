@@ -153,17 +153,17 @@ modified: "2026-09-03"
 
 ---
 
-> **原句 10:** "And yet even that is not the whole story. My father may not have known the names of any of my friends or bothered to attend my college graduation, but he did keep copies of almost everything I wrote—the extent of which I only discovered after both my parents had died. Although it was not his style to make encouraging noises, I knew he respected my work—indeed, that he shared my interest in singular words and the construction of shining sentences, notwithstanding (or, perhaps, precisely because of) the fact that English was his third language."
+> **原句 10:** "I returned to Yaddo the next day, but by then it was already too late to pretend I was serious about becoming part of a writerly community. I was a carnal creature at heart, looking to be taken up by someone who understood that, under my barricaded demeanor, I was bursting to open my gates to the next proprietary male."
 
-**理解"：然而——即使是那样——也不是全部故事。我的父亲"可能不知道我任何朋友的名字——或者费心去参加我的大学毕业典礼"——但他"确实保留了我写的几乎所有东西的副本——其程度我只有在父母双方都去世后才发现"。虽然"他的风格不是发出鼓励的声音"——我知道他"尊重我的工作"——确实——"他对单字和闪亮句子的构造的兴趣与我一样——尽管（或者，也许，正因为）英语是他的第三语言这一事实"。
+**中文理解**：我第二天回到了 Yaddo——但那时已经太晚了——无法假装我认真地想成为作家社区的一员。我是一个"肉欲的生物"——在内心深处——期待被一个理解我的人接纳——在我"封闭的举止"下——我"急于向下一个专属男性敞开我的大门"。
 
-**sentence: And yet A. My father B, but C. Although D, E 复合句。
+**句子结构**：I returned to A, but by then B. I was C, looking to D who E, under F, G 复合句。
 
-**keywords: may not have known the names of any of my friends（可能不知道我任何朋友的名字——know=知道），bothered to attend my college graduation（费心去参加我的大学毕业典礼——bother=费心），keep copies of almost everything I wrote（保留了我写的几乎所有东西的副本——copy=副本），extent of which I only discovered after both my parents had died（其程度我只有在父母双方都去世后才发现——extent=程度），not his style to make encouraging noises（他的风格不是发出鼓励的声音——encouraging=鼓励的），respected my work（尊重我的工作——respect=尊重），shared my interest in singular words and the construction of shining sentences（对单字和闪亮句子的构造的兴趣与我一样——singular=单数的，shining=闪亮的），notwithstanding the fact that English was his third language（尽管英语是他的第三语言这一事实——notwithstanding=尽管）
+**关键词**：carnal creature（肉欲的生物——carnal=肉体的），at heart（在内心深处——heart=heart），taken up by someone（被某人接纳——take up=接纳），barricaded demeanor（封闭的举止——barricaded=封闭的），bursting to open my gates（急于敞开我的大门——burst=急于），proprietary male（专属男性——proprietary=专属的）
 
-**表达方式**：用 "not his style to make encouraging noises"（他的风格不是发出鼓励的声音）来形容父亲——将"父亲"比作"不鼓励"——暗示父亲的"爱"是"沉默的"。
+**表达方式**：用 "carnal creature at heart"（在内心深处是肉欲的生物）来形容自己——将自己比作"肉欲"——暗示她的"肉欲"是"真实的"。
 
-**为什么这样写**：结尾将父亲定义为"沉默的爱"——"他保留了我写的几乎所有东西"。
+**为什么这样写**：结尾将 Merkin 定义为"肉欲的生物"——她的"肉欲"不是"羞耻"，而是"真实"。
 
 ## 词汇分级
 
