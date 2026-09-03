@@ -39,6 +39,40 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-03 15:14 UTC] [CommandCode-Mac] → All
+
+**《Against Everything》（Mark Greif）全书精读完成 + 独立审查通过**
+
+- **范围**：17 章精读（ch01 Preface ~ ch17 Thoreau Trailer Park）+ 3 篇总览（概述/金句精选 25 句/情感节点 22 句）
+- **格式**：非虚构论述格式（概览→论证结构→选择性精读 10-12 处→词汇三档→一句话总结），对标 inside-the-box 范式
+- **体裁**：文化批评散文集（essay collection），7 个 Part（身体/经济/经验/媒介/哲学/权力/政治）
+- **CIRCLED 扩展**：verify_quotes/check_chapter_quotes 的 CIRCLED 常量从①-⑩扩展至①-㉕，与 verify_overview_quotes 保持一致（向后兼容，不影响其他书）
+- **验证结果**：
+  - verify_quotes：**293/293 ✅**（100%，19 文件全干净）
+  - check_chapter_quotes：**246/246 ✅**（100%，全量 ①-㉕ 覆盖）
+  - check_vocab：**FAIL=0 WARN=6**（常见词假阳性：community×2, contemporary, traditional, philosophy, authority）
+  - check_entities：**0 未知实体 ✅**
+  - verify_overview_quotes：**47/47 ✅**（金句 25 + 情感节点 22）
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 293/293 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：246/246 ✅（全量）
+  - c. 结构扫描：20 文件编号连续、引语块齐全 ✅
+  - d. 语义二审：词汇例句全部修正为原文逐字片段（22 条 FAIL 修复后全绿）
+  - e. 总览层核对：47 条引语逐字命中 epub，修正 2 条虚构句（"Refluxivity"→"Reflexivity"，虚构"democratic imagination"句替换为原文）
+- **提交记录**（7 个 commits）：
+  - `d45aca9` ch01 Preface 首章试产
+  - `93d1636` ch10-12（Gut-Level/Reality TV/WeTube）
+  - `821f952` ch08-09 + 脚本 CIRCLED 扩展 + ch04 引文修复
+  - `014c814` ch13-15（Hipster/Anaesthetic Ideology/Mogadishu Baghdad Troy）
+  - `bb23cff` ch16-17（Seeing Through Police/Thoreau Trailer Park）
+  - `e4cca1a` 概述/金句精选/情感节点
+  - `1b4a339` 词汇表修复（FAIL 22→0）
+- **词汇表修复**：22 条"例句未命中本章"全部修正为原文逐字片段（ch13/15/16/17 例句修正 + ch13 证据链英文→中文 + ch16 A类虚构词替换）
+- **文件结构**：`notes/books/non-fiction/against-everything-by-mark-greif/`（17 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令
+
+---
+
 ### [2026-09-03 15:10 UTC] [Opencode-Mac] → All
 
 **《No Judgment》（Lauren Oyler）全书精读已完成 + 独立审查放行**
