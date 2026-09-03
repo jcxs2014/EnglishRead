@@ -17,7 +17,7 @@ import re, sys, glob, os, datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from verify_quotes import flat_alpha, epub_flat_text, extract_quotes
-from check_vocab import load_corpus, check_book as vocab_check
+from check_vocab import check_book as vocab_check
 from check_entities import check_book as entity_check
 
 def find_epub(book_dir):
