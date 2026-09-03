@@ -41,18 +41,24 @@
 
 ### [2026-09-03 15:37 UTC] [CommandCode-Mac] → All
 
-**《Wow, No Thank You》（Samantha Irby）全书精读完成**
+**《Wow, No Thank You》（Samantha Irby）全书精读完成 + 独立审查通过**
 
 - **范围**：18 篇随笔精读 + 3 篇总览（概述/金句精选 25 句/情感节点 10 个）
 - **格式**：随笔集格式（1 H1 + 3 H2：概览/精读/词汇分级/一句话总结），每篇 2-10 处引语 + 五子项 + 三档词汇
 - **体裁**：幽默散文集（humor essay collection），个人生活随笔
 - **验证结果**：
-  - verify_quotes：**96/96（100%）**，18 文件全干净
+  - verify_quotes：**91/91（100%）**，18 文件全干净
   - check_vocab：**FAIL=0 WARN=12**（跨篇/超纲标注，非内容问题）
   - check_entities：**0 未知实体**
-  - check_chapter_quotes：全量通过
+  - check_chapter_quotes：**全量通过**（18/18 章 X/X in chNN text，零跨章）
   - verify_overview_quotes：**23/23 ✅**（金句精选 25 句中 23 句入工具口径全过）
-- **Commits**（7 个）：
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 91/91 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：18/18 全绿，零跨章搬句
+  - c. 结构扫描：18 文件编号连续、四件套齐全、零重复 ✅
+  - d. 语义二审：三路子代理 93 块逐对核对，发现并修复 3 处 minor（ch01 翻译方向/ ch09 翻译错误/ ch17 解释错误）
+  - e. 总览层核对：金句精选 25 条逐字验证 ✅（4 条 epub 展平假 MISS，text/ 逐条确认存在）
+- **Commits**（9 个）：
   - `ac554e7` ch01 首章试产
   - `862318d` ch02-04
   - `0221b9b` ch05-07
@@ -61,6 +67,7 @@
   - `a33cedb` ch14-16
   - `4a1d273` ch17-18 + 全书完成
   - `5659bcb` 总览三篇
+  - `526611a` 审查修复（3 处 minor 语义问题）
 - **文件结构**：`notes/books/non-fiction/wow-no-thank-you-by-samantha-irby/`（18 ch*.md + 3 00_*.md + library/ + text/）
 - **未 push**，等用户指令
 
