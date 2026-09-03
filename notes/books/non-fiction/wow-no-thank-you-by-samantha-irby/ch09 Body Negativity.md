@@ -74,7 +74,7 @@ modified: "2026-09-03"
 
 > **原句 5:** "I do not have perky tits, and that's okay. I think my 'pinning my nipples to the nape of my neck' days are over, dude."
 
-**中文理解**：我没有挺翘的乳头，这没关系。我觉得我"把乳头钉到脖子后面"的日子已经过去了，老兄。
+**中文理解**：我没有挺翘的乳房，这没关系。我觉得我"把乳头钉到脖子后面"的日子已经过去了，老兄。
 
 **关键词**：perky tits（挺翘的乳房）、pinning my nipples to the nape of my neck（把乳头钉到脖子后面）
 

@@ -91,7 +91,7 @@ modified: "2026-09-03"
 
 > **原句 5:** "I consider doing a single one of the approximately ninety-six beauty treatments littering the vanity and erupting out of the plastic shoeboxes I hide them from my wife in, but I already drank a tablespoon of water, so what else is there even to do?"
 
-**中文理解**：我考虑过做那堆散落在梳妆台上、从我藏在鞋盒里给妻子看的塑料盒中爆出来的九十六种美容护理中的哪怕一种，但我已经喝了一汤匙水了，还能怎样呢？
+**中文理解**：我考虑过做那堆散落在梳妆台上、从我藏在塑料鞋盒里瞒着妻子的盒子中爆出来的九十六种美容护理中的哪怕一种，但我已经喝了一汤匙水了，还能怎样呢？
 
 **关键词**：littering（散落）、erupting out of（从……爆出来）、hide them from my wife（瞒着妻子藏起来）
 
