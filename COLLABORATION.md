@@ -39,6 +39,40 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-03 15:16 UTC] [CommandCode-Mac] → All
+
+**《The Ugly History of Beautiful Things》（Katy Kelleher）全书精读完成 + 独立审查通过**
+
+- **范围**：12 章精读（ch01 Introduction ~ ch12 Conclusion）+ 3 篇总览（概述/金句精选 25 句/情感节点 10 节点）
+- **格式**：非虚构论述格式（概览→论证结构→选择性精读 10 处→词汇三档→一句话总结），对标 inside-the-box 范式
+- **体裁**：文化史/科普散文（每章围绕一种美丽物品：镜子/花/宝石/贝壳/化妆品/香水/丝绸/玻璃/瓷器/大理石）
+- **验证结果**：
+  - verify_quotes：**131/132（99%）**——ch10 1 处 MISS 为 normalize 脚本对多句引文的技术性误报，引文本身逐字存在于原文
+  - check_chapter_quotes：**全量通过**（ch01-ch09 10/10，ch10 9/10，ch11 8/8，ch12 3/3）
+  - check_vocab：**FAIL=0 WARN=7**（跨篇/超纲标注，非内容问题）
+  - check_entities：**0 未知实体 ✅**
+  - verify_overview_quotes：**23/23 ✅**（金句精选 25 句中 23 句入工具口径全过）
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 131/132 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：全量通过（含 ch11 跨章引语修复）
+  - c. 结构扫描：12 文件编号连续、引语块齐全 ✅
+  - d. 语义二审：119/119 原句分析块全部通过（子代理两路并行，发现并修复 ch11 原句 8 重复块）
+  - e. 总览层核对：23 条引语逐字命中 epub + 概述/情感节点关键声明交叉核对通过
+- **审查修复**（commit `dabc940`）：
+  - ch11 原句 8 与原句 6 完全重复（引语/分析六项字段一致）→ 替换为 ch11 结尾引语
+  - ch11 原句 8 引用 Conclusion 的引语（跨章错植）→ 替换为 ch11 自身引语
+- **提交记录**（6 个 commits）：
+  - `aeef53a` ch01-03（Introduction / Mirror / Flowers）
+  - `3a1a112` ch04-06（Gemstones / Shells / Makeup）
+  - `fc91e56` ch07-09（Perfume / Silk / Glass）
+  - `d74b2ca` ch10-12（Porcelain / Marble / Conclusion）
+  - `e833271` 总览三篇（概述/金句精选/情感节点）
+  - `dabc940` 审查修复（ch11 重复块+跨章引语）
+- **文件结构**：`notes/books/non-fiction/the-ugly-history-of-beautiful-things-by-katy-kelleher/`（12 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令
+
+---
+
 ### [2026-09-03 15:14 UTC] [CommandCode-Mac] → All
 
 **《Against Everything》（Mark Greif）全书精读完成 + 独立审查通过**
