@@ -37,7 +37,7 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| vestibule | 门厅；前厅 | "A child stands in the **vestibule**" |
+
 
 ### ⭐⭐ 进阶
 

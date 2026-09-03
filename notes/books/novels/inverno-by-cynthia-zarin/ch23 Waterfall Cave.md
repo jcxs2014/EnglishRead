@@ -59,3 +59,4 @@ modified: "2026-09-03"
 ## 一句话总结
 
 瀑布后的洞穴——水声"像即将砸下的浪"——是 Caroline 最古老的身体记忆；她牵着孩子的手在海里时，这个记忆复活了——保护=恐惧，代际传递的不是爱而是恐惧。
+| towel rack | 毛巾架 | "holding on to the white **towel rack**" |

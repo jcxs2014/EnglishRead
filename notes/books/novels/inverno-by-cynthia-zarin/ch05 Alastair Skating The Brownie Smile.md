@@ -75,7 +75,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | proprioception | 本体感觉（身体对自身位置的感知） | "Through what she would later know was **proprioception**" |
 | draconian | 严厉的；残酷的 | "can lead to **draconian** measures" |
-| abject | 卑微的；悲惨的 | "opportunities in which to be **abject**" |
+
 
 ### ⭐⭐ 进阶
 
@@ -84,15 +84,15 @@ modified: "2026-09-03"
 | malleable | 可塑的 | "Caroline was less—**malleable**" |
 | garrote | 绞索；勒杀 | "circled her like a **garrote**" |
 | troubadour | 游吟诗人 | "an old grandfather, a **troubadour** of the woods" |
-| insular | 岛屿的；偏狭的 | "He is asking Caroline what **insular** means" |
-| planchette | 占卜板（Ouija 用的小滑板） | "the feel of the **planchette** moving under her hands" |
+
+
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | slovenly | 懒散的；邋遢的 | "Mary and Tommy are **slovenly** and ill-mannered" |
-| tin foil | 锡箔纸 | "a piece of **tinfoil** that the troop leader had cut" |
+| tin foil | 锡箔纸 | "must have been a number of pieces of **tinfoil**" |
 
 ## 一句话总结
 

@@ -65,7 +65,7 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| towel rack | 毛巾架 | "holding on to the white **towel rack**" |
+
 
 ## 一句话总结
 

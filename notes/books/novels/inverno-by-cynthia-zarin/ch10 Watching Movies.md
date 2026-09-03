@@ -51,7 +51,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | exonerate | 免罪；证明无罪 | "she is the only one who can **exonerate** him" |
 | gimcrack | 廉价花哨的东西 | "a **gimcrack** table" |
-| aperçu | 敏锐的观察；警句 | "An **aperçu**, a tiny dart" |
+
 
 ### ⭐⭐ 进阶
 

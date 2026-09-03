@@ -62,8 +62,9 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lurch | 猛然前倾 | "Then it **lurched**" |
+| lurch | 猛然前倾 | "Then it **lurches**" |
 
 ## 一句话总结
 
 Caroline 坚持制定计划（也许是个错误），但Burroughs说"把错误当作隐藏的意图来尊重"——她关上车门进入"ago和again之间的无地之地"，在冻结的河边承认"他是疯子，我也是"——疯狂是他们唯一的共同语言。
+| clotted | 凝结的 | "sand **clotted** along the stitches" |

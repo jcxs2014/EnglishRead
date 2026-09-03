@@ -51,6 +51,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | Quonset hut | 半圆形棚屋（军事建筑） | "in this … **Quonset hut** of the past" |
 | feverfew | 小白菊（药草） | "**Feverfew** spackled the sun-splotched lawn" |
+| spackled | 填补；星点分布 | "Feverfew **spackled** the sun-splotched lawn" |
 
 ### ⭐⭐ 进阶
 

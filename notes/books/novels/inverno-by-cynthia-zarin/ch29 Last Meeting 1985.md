@@ -51,6 +51,8 @@ modified: "2026-09-03"
 |---------|------|------|
 | self-deprecating | 自嘲的 | "a **self-deprecating** air that she would retain into middle age" |
 | telescopic | 望远镜的；伸缩的 | "about the **telescopic** nature of adultery" |
+| portents | 预兆；征兆 | "she is the kind of person who...looks for **portents** and spells" |
+| conjured | 变魔术般地召唤 | "Angelina had **conjured** up these cans from—where?" |
 
 ### ⭐⭐ 进阶
 
@@ -59,6 +61,9 @@ modified: "2026-09-03"
 | patron | 赞助人 | "a **patron** of the arts" |
 | enamored | 迷恋的 | "was not **enamored** of the snow" |
 | clapboard | 护墙板 | "a low nineteenth-century **clapboard** house" |
+| lashed | 被绑住的；被鞭打的 | "she had **lashed** herself with a runner of brambles" |
+| entranced | 着迷的；出神的 | "She was then too **entranced** to imagine" |
+| cocoon | 蛹；保护层 | "the **cocoon** of her marriage" |
 
 ### ⭐ 基础
 
@@ -70,3 +75,5 @@ modified: "2026-09-03"
 ## 一句话总结
 
 Caroline 在 Minneapolis 酒店镜中雪里穿衣——她保存别人不要的东西（包括 Alastair）；他们让彼此不幸福的方式没有尽头——包括"让他幸福"；Alastair 的信中梦到 25 岁时坚持要娶她——"醒来时在哭泣"。
+| immaterial | 无关紧要的 | "It was **immaterial**, really" |
+| entranced | 着迷的 | "She was then too **entranced** to imagine" |

@@ -44,14 +44,14 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | improbably | 不可思议地 | "**Improbably** she spoke English" |
-| relinquish | 放弃；放开 | "some mirrors that will not **relinquish** a gaze" |
+
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | station wagon | 旅行车 | "an old **station wagon** which had belonged to her father" |
-| lay-by | 路边停车带 | "pulled the car into a **lay-by**" |
+
 
 ## 一句话总结
 

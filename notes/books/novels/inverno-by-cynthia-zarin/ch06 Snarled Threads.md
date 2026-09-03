@@ -64,6 +64,7 @@ modified: "2026-09-03"
 | incongruent | 不协调的；矛盾的 | "an impossible and **incongruent** image" |
 | shagreen | 鲨鱼皮（革） | "a dark blue **shagreen** box" |
 | planchette | 占卜板 | "the feel of the **planchette** moving under her hands" |
+| abject | 卑微的；悲惨的 | "opportunities in which to be **abject**" |
 
 ### ⭐⭐ 进阶
 
@@ -73,6 +74,8 @@ modified: "2026-09-03"
 | skittering | 窸窣作响的；轻快掠过的 | "The **skittering** opening bars, like squirrels" |
 | ramshackle | 摇摇欲坠的 | "a **ramshackle** house by a cove" |
 | willy-nilly | 随意地；不管愿不愿意 | "she doesn't bother to count them but sticks them **willy-nilly**" |
+| insular | 岛屿的；偏狭的 | "He is asking Caroline what **insular** means" |
+| planchette | 占卜板（Ouija 用的小滑板） | "the feel of the **planchette** moving under her hands" |
 
 ### ⭐ 基础
 

@@ -37,22 +37,22 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| portents | 预兆；征兆 | "she is the kind of person who...looks for **portents** and spells" |
-| conjured | 变魔术般地召唤 | "Angelina had **conjured** up these cans from—where?" |
+
+
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lashed | 被绑住的；被鞭打的 | "she had **lashed** herself with a runner of brambles" |
-| entranced | 着迷的；出神的 | "She was then too **entranced** to imagine" |
-| cocoon | 蛹；保护层 | "the **cocoon** of her marriage" |
+
+
+
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| immaterial | 无关紧要的 | "It was **immaterial**, really" |
+
 | hearthrug | 炉边地毯 | "the dog sleeping on the **hearthrug**" |
 
 ## 一句话总结

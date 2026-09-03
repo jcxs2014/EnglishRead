@@ -52,6 +52,7 @@ modified: "2026-09-03"
 | gnomon | 日晷指针；三角板 | "a **gnomon** in the snow, indicating nothing" |
 | aperçu | 敏锐的观察 | "An **aperçu**, a tiny dart" |
 | remit | 范围；职责 | "A childhood whose **remit** was nicking the roots" |
+| aperçu | 敏锐的观察；警句 | "An **aperçu**, a tiny dart" |
 
 ### ⭐⭐ 进阶
 

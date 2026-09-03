@@ -52,6 +52,7 @@ modified: "2026-09-03"
 | phantom limb | 幻肢（截肢后仍感觉存在的肢体） | "as if a part of Caroline had come alive again—a **phantom limb**" |
 | autocrat | 独裁者 | "her father, who is an **autocrat**" |
 | propensity | 倾向；习性 | "this **propensity** to imagine her death" |
+| vestibule | 门厅；前厅 | "A child stands in the **vestibule**" |
 
 ### ⭐⭐ 进阶
 
@@ -59,6 +60,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | superstitious | 迷信的 | "Caroline became **superstitious** about this lightbulb" |
 | dispensation | 处置；豁免 | "the **dispensation** of his estate should she die" |
+| relinquish | 放弃；放开 | "some mirrors that will not **relinquish** a gaze" |
 
 ### ⭐ 基础
 
@@ -69,3 +71,4 @@ modified: "2026-09-03"
 ## 一句话总结
 
 Caroline 给孩子读 Little Bear 时意识到"有人给另一个人穿脱衣服"是她最深的欲望——她没有母亲所以通过照顾来弥补；与 Alastair 重新说话是"幻肢"般的复活；全章以第二任丈夫的"They didn't marry you"冷结尾：被爱不等于被选择。
+| lay-by | 路边停车带 | "pulled the car into a **lay-by**" |

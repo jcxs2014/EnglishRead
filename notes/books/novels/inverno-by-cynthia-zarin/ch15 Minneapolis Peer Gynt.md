@@ -50,7 +50,7 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | banshee | 女妖（爱尔兰传说） | "A **banshee**. The jangle of the Snow Queen's sled sounded like that scream" |
-| spackled | 填补；星点分布 | "Feverfew **spackled** the sun-splotched lawn" |
+
 
 ### ⭐⭐ 进阶
 

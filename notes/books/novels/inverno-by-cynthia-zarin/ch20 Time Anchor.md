@@ -66,7 +66,7 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | insulate | 隔热；绝缘 | "The glass was **insulated**" |
-| clotted | 凝结的 | "sand **clotted** along the stitches" |
+
 
 ## 一句话总结
 
