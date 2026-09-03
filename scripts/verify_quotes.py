@@ -19,7 +19,7 @@ verify_quotes.py — 书籍精读引文真实性核对工具
 """
 import re, sys, glob, html, zipfile, tempfile, os
 
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩'
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 
 def flat_alpha(s: str) -> str:
     # 先剥掉引文里手写的段落转义符（\n/\t 会被指纹误读为字母 nn/tt）

@@ -259,7 +259,7 @@ modified: "2026-09-03"
 
 - 为什么这样写：把前文分散的批评收束成一个定义：健康是把"关怀"异化为"储蓄"的系统。stored care 是对 health 的重新定义——不是活着，而是"存着"。
 
-**⑰** "Modern prophets reformulated this for our changed times...: Become what you are."
+**⑰** "Modern prophets reformulated this for our changed times, once we had become complacent about scientific examination, but stayed mystified by how to be: Become what you are."
 
 - 中文理解：现代先知为我们的时代重写了这条古训……：成为你本来的样子。
 

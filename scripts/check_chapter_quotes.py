@@ -23,7 +23,7 @@ Exit 1 = at least one MISS.
 """
 import re, sys, os, glob
 
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩'
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 flat = lambda s: re.sub(r'[^a-z0-9]', '', s.lower())
 
 # Pattern: ①/②… 圈数字 + optional quotes
