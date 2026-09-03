@@ -165,31 +165,29 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| anathema | 憎恶、令人厌恶之物 | ...the police perception of, and **anathema** toward, any symbol of disorder or mess. |
 | constabulary | 警察（总称） | Not because each person has his or her own subjective view on the **constabulary**. |
-| obverse | 对立面、反面 | The inevitable **obverse** of awe is shame. |
-| symbiosis | 共生 | The **symbiosis** between police and citizens. |
-| epistemology | 认识论 | The **epistemology** of policing and knowledge. |
-| autonomy | 自主、自治 | The **autonomy** of police decision-making. |
+| dramaturgy | 戏剧性、舞台效果 | Both the "law and order" lobby and its Left critics have failed to take on board the implications of a mass of research on the **police**. |
+| equivocal | 模棱两可的、含糊的 | The donut is **equivocal**. It is not loved as apple pie is. |
+| pacification | 安抚、平定 | Pacification, in a civil democracy, is no bad thing intrinsically. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| jurisprudence | 法学、法理学 | Police is the second general division of **jurisprudence**. |
+| surveillance | 监视、监控 | First abolished by the Revolution, police **surveillance** was reconstituted a decade later under Napoleon. |
 | enforcement | 执行、强制 | Criminal law **enforcement** is something that most of them do with the frequency located somewhere between virtually never and very rarely. |
-| apparatus | 机构、机制 | The police **apparatus** and its functions. |
-| methodology | 方法论 | The **methodology** of police observation and study. |
-| jurisdiction | 管辖权 | The police's **jurisdiction** over public space. |
-| surveillance | 监视、监控 | Police **surveillance** and its democratic implications. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| officer | 警官、军官 | The **officer** forbade him to touch it. |
-| protest | 抗议、示威 | In confrontations at a **protest**. |
-| community | 社区、共同体 | The **community** and police relations. |
-| justice | 正义、公正 | The pursuit of **justice** in policing. |
-| authority | 权威、当局 | The **authority** of police officers. |
+| officer | 警官 | An **officer** forbade him to touch it. |
+| protest | 抗议、示威 | A policeman allowing **protesters** to cross the street touches you on the arm. |
+| community | 社区、共同体 | Their adherence is to **community**, not to the State. |
+| justice | 正义、公正 | Very rarely are police or even criminal **justice** ever brought in. |
+| authority | 权威、当局 | ...the fault of a municipal organization of **authority** that keeps legal thinking at a level "above their pay grade." |
 
 ## 一句话总结
 

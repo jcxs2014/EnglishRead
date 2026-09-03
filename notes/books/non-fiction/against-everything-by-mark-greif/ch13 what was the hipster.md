@@ -39,7 +39,7 @@ modified: "2026-09-03"
 | 证据 | 类型 | 支撑什么 |
 |------|------|----------|
 | Thomas Frank 的"叛逆消费者"概念 | 文化批评 | hipster 与消费的关系 |
-| Richard Lloyd 的 Wicker Park 民族志 | 社会学 | neo-bohemia 如何转化为 late-capitalism 的温床 |
+| Richard Lloyd 的 Wicker Park 民族志 | 社会学 | 新波西米亚如何转化为晚期资本主义的温床 |
 | Anatole Broyard《Portrait of the Hipster》 | 文学批评 | hipster 关于"前验知识"的核心定义 |
 | Norman Mailer《The White Negro》 | 文学批评 | 白人 hipster 如何挪用黑人"酷" |
 | Vice/Alife/美国服装的商业实践 | 产业分析 | hipster 亚文化的商业基础设施 |
@@ -205,8 +205,8 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| milieu | 环境、氛围 | Lloyd showed how a culture of aspiring artists could unintentionally provide a **milieu** for new, late-capitalist commerce. |
-| weltanschauung | 世界观（德语） | Over the years, there developed something like a characteristic attitude and **weltanschauung**. |
+| milieu | 环境、氛围 | Lloyd showed how a culture of aspiring artists who worked day jobs in bars and coffee shops could unintentionally provide a **milieu** for new, late-capitalist commerce in design, marketing, and Web development. |
+| weltanschauung | 世界观（德语） | ...something like a characteristic attitude and **weltanschauung**. |
 | primordial | 原始的、太古的 | ...seemed about to dissipate into the **primordial** subcultural soup. |
 | reorganization | 重组、重构 | ...only to undergo a **reorganization** and creeping spread from 2004 to the present. |
 
@@ -215,7 +215,7 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | consumerism | 消费主义 | The matrix from which the hipster emerged included the dimension of nineties youth culture that defined itself by its rejection of **consumerism**. |
-| subcultural | 亚文化的 | Specifically, he was a **subcultural** figure of the late forties. |
+| subcultural | 亚文化的 | When we talk about the contemporary hipster, we're talking about a **subcultural** figure who emerged by 1999. |
 | whiteness | 白人身份、白人属性 | As the White Negro had once fetishized blackness, the White Hipster fetishized the violence of lower-middle-class **whiteness**. |
 | violence | 暴力 | The White Hipster fetishized the **violence**, instinctiveness, and rebelliousness of lower-middle-class "white trash." |
 

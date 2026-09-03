@@ -166,11 +166,10 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| oblong | 长方形的 | ...flat-roofed **oblong** trailer homes. |
-| fabricated | 制造的、组装的 | **Fabricated** to move, these homes had lost their mobility. |
-| upholstered | 装饰的、覆面的 | The **upholstered** lives of the comfortable. |
+| oblong | 长方形的 | ...a congregation of flat-roofed **oblong** trailer homes, like caskets of ivory. |
+| garish | 刺眼的、俗艳的 | not poor enough to lack **garish** collections of cars which nosed up to vinyl siding.
+| economy | 经济、节约 | Thoreau's fire burned to irradiate a fundamental mutation into 'economy'.
 | cairn | 石堆、路标 | Visitors have deposited a **cairn** of rocks. |
-| inexorable | 不可阻挡的 | The **inexorable** logic of simplification. |
 
 ### ⭐ 基础
 
@@ -180,7 +179,7 @@ modified: "2026-09-03"
 | economy | 经济、节约 | **Economy** for him followed from his theorem. |
 | liberty | 自由 | The **liberty** of Liberty Square. |
 | jail | 监狱 | Jail is the other notable site with which Thoreau is associated. |
-| protest | 抗议、抗议活动 | **Occupy Wall Street** was a form of direct action **protest**. |
+| protest | 抗议、抗议活动 | This mutual irresponsibility proved essential to **Occupy**, as the mayor and realtors dithered over who should suffer the bad press of destroying it. |
 
 ## 一句话总结
 

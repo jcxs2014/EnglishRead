@@ -223,7 +223,7 @@ modified: "2026-09-03"
 |---------|------|------|
 | Epicureanism | 伊壁鸠鲁主义 | **Epicureanism** and Stoicism survived, even predominated, for centuries. |
 | Stoicism | 斯多葛主义 | **Stoicism** seems to have come into its most emphatic and lasting form many generations afterward. |
-| phenomenon | 现象 | I've paid too little attention to a **phenomenon** which is the opposite. |
+| phenomenon | 现象 | I've felt I paid too little attention to a **phenomenon** which is the opposite: the desperate wish for anti-experience. |
 | aestheticism | 审美主义 | They are, in a sense, **aestheticism**'s and perfectionism's inverse. |
 | hedonism | 享乐主义 | **Hedonism** said that pleasure and pain are prior to all other motivations. |
 

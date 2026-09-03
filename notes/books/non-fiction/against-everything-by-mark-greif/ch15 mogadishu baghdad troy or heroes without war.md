@@ -137,7 +137,7 @@ modified: "2026-09-03"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | mutilation | 肢解、残害 | The **mutilations** were unusual, though. |
-| contemporary | 当代的、现代的 | The way the US military currently trains its best soldiers to fight on the ground, especially in urban or unconventional surroundings. |
+| contemporary | 当代的、现代的 | ...the United States fights its **contemporary** ground wars. |
 | Homeric | 荷马式的、史诗般的 | It is American fighters who have become **Homeric**. |
 | postmodern | 后现代的 | Theories of **postmodern** war. |
 
@@ -145,7 +145,7 @@ modified: "2026-09-03"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| mutilate | 肢解、残害 | The bodies of three US soldiers were captured by a local crowd. They were **mutilated** by dragging, in the dusty city streets. |
+| mutilate | 肢解、残害 | A local crowd **mutilated** the bodies. Cheering and chanting "Fallujah is the graveyard of Americans". |
 | extraction | 撤出、撤离（军事术语） | Any other injury will be reparable, practically, as long as the mechanisms of **extraction** work successfully to take a soldier off the field. |
 | engagement | 交战、交火 | Their "rules of **engagement**" dictate they "shoot only at someone who pointed a weapon at them." |
 | reparable | 可修复的 | Any other injury will be **reparable**, practically, as long as the mechanisms of extraction work. |
