@@ -144,17 +144,17 @@ modified: "2026-09-03"
 
 ---
 
-> **原句 8:** "There's always stars more beautiful than diamonds, clouds softer than silk."
+> **原句 8:** "I don't always live my life with burning intensity, but in these moments, when I remember my death and, more important, my incredible fortune at being alive, then, when I'm staring at the sea and thinking of the water crashing, then, when I'm with myself in my body, not wanting anything more than this salt air and this hard world, then, when I'm wanting for nothing, lacking nothing, loving the world as it is, on its own terms, then, I do."
 
-**中文理解**：总有比钻石更美的星星，比丝绸更柔软的云。
+**中文理解**：我并非总是以燃烧的强度生活，但在那些时刻——当我记住自己的死亡，更重要的是记住我活着的不可思议的幸运——我做到了。
 
-**句子结构**：两个并列的比较句。"more beautiful than diamonds"和"softer than silk"将自然物与人造奢侈品对比。
+**句子结构**：长句，五个"then, when"排比，节奏层层递进，最终以"then, I do"收束——简洁有力。
 
-**关键词**：stars / diamonds / clouds / silk
+**关键词**：burning intensity / remember my death / incredible fortune / wanting for nothing / loving the world
 
-**表达方式**：将自然物（星星、云）与人造奢侈品（钻石、丝绸）对比——星星免费而美，钻石昂贵而丑（开采暴力）；云免费而柔软，丝绸昂贵而残忍（蚕的活煮）。
+**表达方式**：五个"then, when"构成一个仪式般的节奏——不是说教，而是描述一种状态的到达。"wanting for nothing"呼应全章对欲望的反思——不是没有欲望，而是在特定时刻"不需要任何东西"。
 
-**为什么这样写**：全书最后一句话的前半部分——从钻石到丝绸，从人造到自然，美不在价格标签上，而在你抬头看到的星空里。
+**为什么这样写**：全章最后一句话，从大理石的物理属性（硬、冷、永恒）过渡到人的存在状态——石头提醒我们死亡，但也提醒我们活着的幸运。"then, I do"用最短的句子宣告最深的体验。
 
 ## 词汇分级
 
