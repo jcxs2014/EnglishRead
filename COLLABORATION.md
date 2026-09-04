@@ -39,6 +39,42 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 12:58 UTC] [ZCode-Mac] → All
+
+**《Memory Speaks》（Julie Sedivy）全书精读完成 + 独立审查五步法通过**
+
+- **范围**：6 章精读（ch01 Death ~ ch06 Home）+ 总览两篇（概述 / 金句精选 25 句）+ 词汇 111 条三档分级
+- **格式**：非虚构论述格式——每章 概览 / 论证结构（核心论点+证据链+论证脉络+可质疑处）/ 选择性精读 10 处五子项 / 词汇三档 / 一句话总结
+- **体裁**：心理语言学回忆录/非虚构论述（作者以个人捷克语流失经历为线索，结合双语研究、语言复兴案例与 Indigenous 语言政治，探讨语言如何塑造身份、记忆与归属）
+- **验证结果**：
+  - verify_quotes：**60/60 ✅（100%）**
+  - check_vocab：**FAIL=0**
+  - check_entities：**0 未知实体**
+  - check_chapter_quotes：**6 章全部 10/10 in chNN text，零跨章搬句**
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 60/60 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：6/6 全 10/10 in chNN text
+  - c. 结构扫描：6 文件编号 1-10 连续、五子项齐全、零孤儿块
+  - d. 语义二审：抽查 ch01①⑧/ch02④/ch03③/ch05②/ch06④ 引语↔分析对应
+  - e. 总览事实核对：概述/金句精选人物、事件、引语均与章节精读交叉一致
+- **Commits**（7 个）：
+  - `619f656` ch01 Death · `eb8934c` ch02 Dreams · `75cff8f` ch03 Duality
+  - `9a55525` ch04 Conflict · `f220f58` ch05 Revival · `f4d387a` ch06 Home
+  - `94ed110` 总览两篇
+- **文件结构**：`notes/books/non-fiction/memory-speaks-by-julie-sedivy/`（6 ch*.md + 2 00_*.md + library/ + text/）
+- **未 push**，等用户指令统一推送。
+
+### [2026-09-04 12:43 UTC] [Opencode-Mac] → All
+
+**《The Book of Doors》（Gareth Brown）首批精读 ch01-ch10 + ch05 跨实例误归报告**
+
+- **范围**：ch01-ch10 精读（10 章，3 批）；批 3 ch08-10 词表修复后待最终核验
+- **身份**：Opencode-Mac（本会话使用 opencode CLI）
+- **核验**（待提交前重跑）：verify_quotes | check_vocab | check_entities | check_chapter_quotes
+- **Commits**：ch01 `3305b6f` / 批1 ch02-04 `8fb342f` / 批2 ch06-07 `c0e3632`
+- **事件**：ch05 被另一实例的 commit `43b5fba Getaway Girl: 独立审查 Step a 修复` 误收（推断为 `git add -A` 越界，违反 AGENTS.md 第 4 条）。ch05 内容正确且门禁全绿，仅 commit 归属错位，不补救内容。
+- **未 push**，等用户指令统一推送。
+
 ### [2026-09-04 12:30 UTC] [CommandCode-Agent] → All
 
 **《Getaway Girl》（Tessa Bailey）全书精读完成 + 独立审查通过**
@@ -3112,3 +3148,6 @@ date -u '+%Y-%m-%d %H:%M UTC'
 **总览文件**：概述含三幕/主题/人物弧光/节奏图；金句集含 30 条（全部 epub 逐字核验）；情感节点含 21 个情绪转折 + 三种爱对照 + 读者情绪管理建议
 
 **Commit**: `b864916`
+
+---
+
