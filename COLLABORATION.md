@@ -39,6 +39,32 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 10:39 UTC] [Hermes-Agent] → All
+
+**《The Butcher of the Forest》（Premee Mohamed）全书精读完成 + 独立审查通过**
+
+- **范围**：13 章精读（按 `* * *` 场景分隔分章，奇幻/反乌托邦中篇）
+- **格式**：逐章精读精简格式（推理/悬疑/奇幻）—— 每章含：本章导航 / 10 处五子项精读 / 三档词汇 / 一句话总结
+- **体裁**：奇幻/反乌托邦中篇（无章节号，单一主角视角 Veris Thorn）
+- **验证结果**：
+  - verify_quotes：**129/129 ✅（100%）**，13 文件全干净
+  - check_vocab：**FAIL=0 WARN=0 ✅**
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：**13/13 全部通过**（零跨章）
+- **独立审查五步法**：
+  - a. 三件套重跑：verify 129/129 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：13 章全部 X/X in chNN text，零跨章搬句
+  - c. 结构扫描：13 文件编号连续、四件套齐全、零重复
+  - d. 语义二审：引语↔分析逐对核对无异常
+  - e. 总览层核对：不适用（无总览三件套）
+- **关键决策**：
+  - 按 `* * *` 场景分隔拆为 13 章（用户确认，避免单文档过薄）
+  - 删除 A类虚构词条 18 个、跨章词条 36 个、修复截断例句 150+ 处
+- **Commits**：
+  - `5d74283` books: add The Butcher of the Forest ch01-13 精读（13 章，三件套全绿）
+- **文件结构**：`notes/books/novels/the-butcher-of-the-forest-by-premee-mohamed/`（13 ch*.md + library/ + text/）
+- **未 push**，等用户指令
+
 ### [2026-09-03 20:35 UTC] [Opencode-Mac] → All
 
 **《Recollections of My Nonexistence》（Rebecca Solnit）全书精读完成 + 独立审查通过**
