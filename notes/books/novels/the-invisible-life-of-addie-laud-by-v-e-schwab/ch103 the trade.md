@@ -90,7 +90,6 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | decisions | 决定 | Some decisions happen… |
-| once | 一次 | …all at once. |
 | darkness | 黑暗 | …deal with the darkness… |
 | dreaming | 梦想 | …years of dreaming. |
 | set him free | 让他自由 | …set him free. |
@@ -99,7 +98,6 @@ modified: "2026-09-04"
 | spins | 旋转 | …spins it… |
 | coin | 硬币 | …like a coin… |
 | wobble | 摇晃 | …begins to wobble… |
-| tip | 倾斜 | …and tip… |
 | smooth | 光滑的 | …smooth and strong… |
 | strong | 强壮的 | …smooth and strong… |
 | withdrawn | 收回 | …hand has withdrawn… |
@@ -109,7 +107,6 @@ modified: "2026-09-04"
 | trade | 交易 | …a trade. |
 | let him go | 让他走 | Let Henry go. |
 | let him live | 让他活 | Let him live. |
-| let him remember | 让他记住 | Let him remember me… |
 | soul | 灵魂 | …surrender your soul? |
 
 ### ⭐ 基础
