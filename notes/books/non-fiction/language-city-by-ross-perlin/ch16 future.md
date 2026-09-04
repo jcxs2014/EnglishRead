@@ -26,7 +26,7 @@ modified: "2026-09-04"
 | Touray Tower 火灾（17 死）/飓风 Ida（11 亚裔移民） | 灾难个案 | 隐形社区的死亡代价 |
 | bodega 词源链（希腊→拉丁→西语→纽约英语）+ ock | 词源学 | 城市混合体的活体标本 |
 | 纽约十种 citywide 语言/双语学校扩张 | 制度雏形 | linguistic infrastructure 的现实起点 |
-| Jackson Heights：全国最多样的一平方英里 | 民族志 | Queens 的 bizarro 模范 |
+| 杰克逊高地：全国最多样的一平方英里 | 民族志 | 皇后区的另类示范与 7 号线 |
 | 旅行者金唱片/罗塞塔计划/月球档案 | 科技意象 | 记录的终极紧迫性 |
 
 **论证脉络**：peak diversity 的质问 → 政治威胁（新 1924 的可能）→ COVID 与语言=生死 → 语言自身的退潮（六位说话人的现状一句话总结）→ 城市作为语言环境之难 → 新语言形态（Ramaluk/translanguaging/multiethnolects）→ 混合之城（bodega/ock/二代）→ 纲领：linguistic infrastructure 与语言正义 → Queens 的证明与 7 号线 → 月球上的档案（落点：与此同时，我们都能听）。
