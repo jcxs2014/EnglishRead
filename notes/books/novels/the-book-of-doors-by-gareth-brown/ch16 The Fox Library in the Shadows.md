@@ -75,7 +75,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：用一句权威定义把 Fox Library 升格——"biggest single collection"是历史陈述的常用技巧：精确限定 + 权威形容词。紧接上文 Cassie 惊呼"Seventeen?"（十七本），这句解释把数字变成地位：全世界的魔法书几乎都在这里。Cassie 的反应"eyebrows shooting up in surprise"说明这规模让读者也惊讶。
 
-**读者视角提示**：记住"十七本"——ch13 中 The Woman 杀死了 5-7 个 book hunters 并取走他们的书，加上她自己的 7 本，总数 17。这意味着 The Woman 的目标是占领 Fox Library 的全部——ch34-40 的剧情就是她来清空这里。
+**读者视角提示**：记住"十七本"——ch13 明确馆藏"seventeen books in total"（二十世纪建成）。而 ch12 揭示 The Woman 正在系统猎杀藏书人（"one more book hunter was now dead"、逢人必问 Fox Library 下落）。她的目标正是这十七本——馆藏总数即她的购物清单。
 
 ---
 

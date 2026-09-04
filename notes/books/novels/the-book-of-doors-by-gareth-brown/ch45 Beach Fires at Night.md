@@ -87,7 +87,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：篝火两端的开场白都是"你死了"——Izzy 对 Cassie（失踪三月），Cassie 对 Izzy（目睹爆头）。死亡误认是重逢的底色：活着已是奇迹。
 
-**读者视角提醒**：后文解释门照片（"everywhere we stopped I sent you a photo of the door"）——Izzy 的 breadcrumbs（面包屑引路）。她没放弃找 Cassie，正如 Cassie 没放弃找她。
+**读者视角提示**：后文解释门照片（"everywhere we stopped I sent you a photo of the door"）——Izzy 的 breadcrumbs（面包屑引路）。她没放弃找 Cassie，正如 Cassie 没放弃找她。
 
 ---
 
