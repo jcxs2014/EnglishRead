@@ -83,7 +83,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：Roya 的怕器官：stone（石头）vs Cyrus 的 doom（末日）：妈的怕是 mineral（矿物），儿子的怕是 organ（器官）。"moon pulling blood to skin"（月拉血到皮）：怕的天文。后文 head-on-shoulder（靠肩）是石头的解：怕还在，肩来了。Leila 的"our friends"（鹿+你）：怕的陪。
 
-**读者视角提醒**：记住 stone organ。Roya 的石（肠）、Cyrus 的 doom（喉）、Ali 的 plaque（心）、Arash 的堵（鼻）：一家四口，四种结石。结石即爱。
+**读者视角提示**：记住 stone organ。Roya 的石（肠）、Cyrus 的 doom（喉）、Ali 的 plaque（心）、Arash 的堵（鼻）：一家四口，四种结石。结石即爱。
 
 ## 本章词汇
 

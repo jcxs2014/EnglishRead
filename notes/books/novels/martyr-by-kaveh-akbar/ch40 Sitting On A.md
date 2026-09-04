@@ -15,7 +15,7 @@ modified: "2026-09-04"
 
 ## 精读
 
-> **原句 1:** "Was Orkideh my mother?"
+> **原句 1:** "Was Orkideh my mother? It came out of his mouth like a bullet shredding through porcelain."
 
 **中文理解**：Cyrus 憋不住：Orkideh 是我妈吗？（bullet shredding porcelain：子弹穿瓷器，隔断碎。）
 

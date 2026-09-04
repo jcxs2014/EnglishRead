@@ -59,7 +59,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：结尾的并置：妈（ruby）+毒贩（剑）：圣与俗同墓。Zulfiqar（阿里叉剑：Arash 的剑、毒贩的纹身、Cyrus 的诗）：三代同剑。"time spilling over, unbearable, pestilent"（时间溢、难忍、有瘴）：结尾三词，时间是病。这是 Cyrus 给妈的遗物清单：ruby+剑+布（canvas 空白）：妈=物，物=爱。
 
-**读者视角提醒**：记住 Zulfiqar。三代同剑（Arash 战场/Cyrus 毒贩/Cyrus 诗）：剑是 Shams/Shirazi 家的传家宝，传的是叉（分岔）。分岔即命运。
+**读者视角提示**：记住 Zulfiqar。三代同剑（Arash 战场/Cyrus 毒贩/Cyrus 诗）：剑是 Shams/Shirazi 家的传家宝，传的是叉（分岔）。分岔即命运。
 
 ## 本章词汇
 

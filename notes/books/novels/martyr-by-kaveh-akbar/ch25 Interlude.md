@@ -47,7 +47,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：散铜是全章的高光：诗人不认账（铜≠诗价），但认人（仆人要活）。"take this copper and begin your new lives far away from traitorous Mahmud"（拿铜远走）：散尽即诅咒。后文 bounty（血钱）的用法（Cyrus 花得恶心）是这句的美国版：脏钱洗成机票/地/羊，钱不认，认人。
 
-**读者视角提醒**：记住"散"。Ferdowsi 散铜、Tahmina 建桥（用金）、Cyrus 散钱（纽约）：散是诗人的财政。钱散了，桥来了。
+**读者视角提示**：记住"散"。Ferdowsi 散铜、Tahmina 建桥（用金）、Cyrus 散钱（纽约）：散是诗人的财政。钱散了，桥来了。
 
 ---
 

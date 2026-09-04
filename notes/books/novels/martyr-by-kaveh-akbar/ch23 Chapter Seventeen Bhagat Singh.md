@@ -59,7 +59,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：结尾的温柔：死不是壮烈，是微（barely）+暖（gently）+性（love）。"is it vanity? if it is, then I stand for it"（虚荣吗？是就认）：mustache 是虚荣，虚荣是人。后文"all of us fighting like it still matters"（还打，好像还重要）：打即活。这是 Cyrus 最不"martyr"的 martyr 诗：死得像活着。
 
-**读者视角提醒**：记住"微死"。Singh 的死是全书最轻的死（gently/barely），和 Roya 的尘（dust）同级。轻，是 Cyrus 的最高评价。
+**读者视角提示**：记住"微死"。Singh 的死是全书最轻的死（gently/barely），和 Roya 的尘（dust）同级。轻，是 Cyrus 的最高评价。
 
 ## 本章词汇
 

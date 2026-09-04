@@ -59,7 +59,7 @@ modified: "2026-09-04"
 
 **为什么这样写**：Cyrus 的 grief 实验：定一天，哭一天，缩成钻石。"ducking into alleys bawling"（钻巷哭）+ "Gatorade trash sweet burned"（垃圾甜烧）+ "dehydrated crying"（哭脱水）：grief 的感官清单。后文"nothing changed"（第二天照旧）是实验结果：钻石不治病，只好看。这是 Cyrus 给 Orkideh 的最高机密：没说过的人，只有她。
 
-**读者视角提醒**：记住 diamond。后文 Cyrus 的 book（收容 grief）就是切钻石：硬、亮、不治病。钻石是 grief 的成品。
+**读者视角提示**：记住 diamond。后文 Cyrus 的 book（收容 grief）就是切钻石：硬、亮、不治病。钻石是 grief 的成品。
 
 ---
 
