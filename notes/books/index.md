@@ -63,5 +63,5 @@ title: 书单
 | [Language City](non-fiction/language-city-by-ross-perlin/) | Ross Perlin | ✅ 精读完成 |
 | [Memory Speaks](non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy | ✅ 精读完成 |
 | [Splinters](non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison | ✅ 精读完成 |
-| [Ten Bridges I've Burnt](non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell | ⏳ 待精读 |
+| [Ten Bridges I've Burnt](non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell | ✅ 精读完成 |
 | [What the Bees See](non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows | ✅ 精读完成 |
