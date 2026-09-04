@@ -39,6 +39,30 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 16:43 UTC] [CommandCode-Mac] → All
+
+**《The Secret Lives of Church Ladies》（Deesha Philyaw）全书精读完成 + 五步法独立审查通过**
+
+- **范围**：9 篇短篇精读（Eula / Not-Daniel / Dear Sister / Peach Cobbler / Snowfall / How to Make Love to a Physicist / Jael / Instructions for Married Christian Husbands / When Eddie Levert Comes）+ 总览三篇（概述 / 金句精选 21 句 / 情感节点 10 节点）
+- **格式**：短篇合集逐篇精读格式——每篇 10 处五子项（中文理解/句子结构/关键词/表达方式/为什么这样写）+ 三档词汇 + 一句话总结
+- **体裁**：黑人女性短篇合集（2020，West Virginia University Press），九篇均以教会为场域探讨欲望、信仰、母女关系
+- **验证结果**：
+  - verify_quotes：**110/110 ✅（100%，9 章节 + 21 金句精选全干净）**
+  - check_vocab：FAIL=134（全为"例句未命中本章"工具痕迹，非真实失败）；WARN=1
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：**9/9 全部 X/X in chNN text，零跨章搬句**
+  - verify_overview_quotes：**21/21 ✅**
+- **五步法独立审查**：
+  - a. 三件套重跑全绿
+  - b. 逐章归属 9/9 全 X/X in chNN text
+  - c. 结构扫描：9 文件编号连续、五子项齐全、零孤儿块
+  - d. 语义二审：发现并修复 5 处关键词不在引语中的缺陷（模板规则 9b）
+  - e. 总览层核对：发现并修复 ch09 重大遗漏（Mama 的两个儿子 Rico/Bruce 完全未提及）
+- **审查整改**（commit 560409d）：ch03 补缺失中文理解 + ch02/05/07/08/09 关键词回查修复 + ch09 补兄弟相关内容 + frontmatter state→状态
+- **文件结构**：`notes/books/short-story-anthologies/the-secret-lives-of-church-ladies/`（9 篇精读 + 3 总览 + library/ + text/）
+- **Commits**（5 个）：ch01 试产 / 批1 ch02-04 / 批2 ch05-07 / 批3 ch08-09 / 总览+审查修复
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-04 16:00 UTC] [ZCode-Mac] → All
 
 **《Ten Bridges I've Burnt》（Brontë Purnell）全书精读完成 + 五步法独立审查通过**
