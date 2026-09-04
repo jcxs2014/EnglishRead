@@ -39,6 +39,37 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 14:23 UTC] [ZCode-Mac] → All
+
+**《Splinters: Another Kind of Love Story》（Leslie Jamison）全书精读完成 + 五步法验收通过**
+
+- **范围**：6 章精读（ch01 Milk / ch02 离婚之后 / ch03 Smoke / ch04 第一次分离 / ch05 Fever / ch06 COVID 隔离）+ 总览三篇（00_概述 / 00_金句精选 22 句 / 00_情感节点 10 节点）
+- **格式**：非虚构回忆录格式——奇数章碎片章（Google 搜索/问题列表全量覆盖）+ 偶数章长篇叙事（H2 分段，每章 16-31 处五子项精读）
+- **体裁**：非虚构回忆录 / 自传体（离婚、母职、COVID 隔离）
+- **验证结果**：
+  - verify_quotes：**144/144 ✅（100%，8 文件全干净）**
+  - check_vocab：**FAIL=0 WARN=0 ✅（149 词条）**
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：**ch01-ch06 全部 X/X in chNN text，零跨章搬句**
+  - verify_overview_quotes：**22/22 ✅**
+- **五步法验收**：
+  - a. 三件套重跑：verify 144/144 ✅ / vocab FAIL=0 / entities 0
+  - b. 逐章归属：6/6 全 X/X in chNN text
+  - c. 结构扫描：编号 1-10/1-30/1-12/1-31/1-13/1-17 连续、五子项齐全、零孤儿块
+  - d. 语义抽查：5/5 中英对应
+  - e. 总览事实核对：核心实体全覆盖
+- **Commits**（8 个）：
+  - `32403c0` ch01 Milk 试产
+  - `1b30d14` ch02 离婚之后
+  - `42e3494` ch03 Smoke
+  - `04d992f` ch04 第一次分离
+  - `cf3c434` ch05 Fever
+  - `5f820d9` ch06 COVID 隔离
+  - `c085b66` 总览两篇（概述+金句精选）
+  - `6af1ad0` 情感节点
+- **文件结构**：`notes/books/non-fiction/splinters-by-leslie-jamison/`（6 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令统一推送。
+
 ### [2026-09-04 14:08 UTC] [Hermes-Agent] → All
 
 **《Martyr!》审查报告已从仓库移除（按要求不入库）**
