@@ -94,7 +94,6 @@ modified: "2026-09-04"
 | bullshit | 废话 | ...this is bullshit. |
 | manuscript | 手稿 | ...the manuscript... |
 | transcribe | 抄写 | ...transcribe the stories... |
-| compile | 编译 | ...compile them... |
 | fiction | 小说 | ...would be fiction. |
 | conjure | 召唤 | ...conjure her face. |
 | fading | 消退的 | ...simply fading... |
@@ -136,13 +135,8 @@ modified: "2026-09-04"
 | close | 关闭 | ...about to close. |
 | dark | 黑暗 | It gets dark early... |
 | early | 早 | ...early this time... |
-| year | 年 | ...this time of year... |
-| snow | 雪 | ...snow in the forecast... |
-| forecast | 预报 | ...in the forecast... |
-| London | 伦敦 | ...for London. |
 | clerks | 店员 | The various clerks bustle about... |
 | bustle | 忙着 | ...clerks bustle about... |
-| displays | 展示 | ...dismantling old displays... |
 | work | 工作 | ...finish their work... |
 | mist | 薄雾 | ...mist outside turns to frost. |
 | frost | 霜 | ...turns to frost. |

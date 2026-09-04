@@ -81,25 +81,17 @@ modified: "2026-09-04"
 | storm | 风暴 | ...by the storm. |
 | rain | 雨 | ...rain falls... |
 | roof | 屋顶 | ...on the roof. |
-| clock | 时钟 | ...clock has stopped... |
 | spinning | 旋转 | ...head spinning. |
 | dizzy | 头晕的 | ...feels dizzy... |
-| sick | 恶心的 | ...feels sick... |
-| sway | 摇晃 | ...sway beneath him. |
 | pleads | 恳求 | Why? he pleads. |
 | thank-you | 感谢 | ...a thank-you... |
 | second chance | 第二次机会 | ...second chance. |
-| grip | 握 | ...grip tightens. |
-| sighs | 叹息 | ...sighs... |
 | given | 给 | ...given me so much... |
 | forehead | 额头 | ...forehead presses... |
 | remember | 记住 | ...remember. |
 | slipping | 滑动 | ...hold slipping... |
 | darkness | 黑暗 | ...darkness washes... |
-| washes | 洗 | ...darkness washes... |
-| blotting | 抹去 | ...blotting out... |
 | skyline | 天际线 | ...the skyline... |
-| folding | 折叠 | ...folding herself... |
 | whispers | 低语 | Promise, she whispers... |
 
 ### ⭐ 基础
@@ -108,29 +100,21 @@ modified: "2026-09-04"
 |---------|------|------|
 | No | 不 | No, says Henry... |
 | stones | 石头 | ...as a stone... |
-| wear | 磨损 | ...wear away... |
-| away | 离开 | ...wear away... |
 | nothing | 什么都不是 | ...to nothing. |
 | done | 完成 | It is already done. |
 | wrong | 错的 | ...wrong. |
 | love | 爱 | You don't love him. |
 | sad | 悲伤的 | ...sad smile... |
-| smile | 微笑 | ...sad smile... |
-| share | 份额 | ...my share of love... |
 | time | 时间 | ...it is time... |
 | vision | 视野 | ...vision is blurring... |
-| blurring | 模糊 | ...is blurring... |
 | edges | 边缘 | ...edges going black. |
-| black | 黑 | ...going black. |
 | Listen | 听 | Listen to me. |
 | urgent | 紧急的 | ...urgent now. |
 | long | 长 | ...very long... |
 | fast | 快 | ...goes so fast. |
 | glassy | 含泪的 | ...glassy with tears... |
 | tears | 眼泪 | ...with tears... |
-| smiling | 微笑 | ...she is smiling. |
 | life | 生活 | ...a good life... |
-| pull | 拉 | ...pull away... |
 
 ## 一句话总结
 

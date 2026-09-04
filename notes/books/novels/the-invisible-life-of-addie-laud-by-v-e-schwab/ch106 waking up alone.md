@@ -90,16 +90,11 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| dreaming | 做梦的 | ...was dreaming... |
-| pleasant | 愉快的 | ...very pleasant... |
-| relief | 宽慰 | ...deep relief... |
 | whispers | 低语 | ...whispers her name... |
 | strange | 奇怪的 | ...strange pleasure... |
 | tucked | 埋 | ...face tucked... |
-| knows | 知道 | ...he knows... |
 | remembers | 记住 | ...he remembers. |
 | night before | 前一晚 | ...the night before. |
-| last night | 最后一晚 | ...last night of his life. |
 | damp | 潮湿的 | ...damp concrete... |
 | concrete | 混凝土 | ...concrete smell... |
 | rooftop | 屋顶 | ...of the rooftop... |
@@ -119,21 +114,16 @@ modified: "2026-09-04"
 | alone | 独自 | ...alone in bed. |
 | bed | 床 | ...in bed. |
 | Sunlight | 阳光 | ...Sunlight spills... |
-| spills | 洒落 | ...spills through... |
 | curtains | 窗帘 | ...in the curtains... |
 | buildings | 建筑物 | ...the buildings... |
 | rain | 雨 | ...aftermath of rain. |
 | girl | 女孩 | The girl he loves... |
-| loves | 爱 | ...he loves... |
 | first | 第一 | ...first to wake. |
-| wake | 醒来 | ...to wake. |
 | sheets | 床单 | ...beneath the sheets... |
 | fingers | 手指 | ...her fingers... |
 | skin | 皮肤 | ...on his skin... |
-| rouse | 唤醒 | ...rouse him... |
 | knees | 膝盖 | ...knees curled up... |
 | pillows | 枕头 | ...against the pillows... |
-| rainy | 下雨的 | ...rainy morning... |
 | morning | 早晨 | ...rainy morning... |
 
 ## 一句话总结
