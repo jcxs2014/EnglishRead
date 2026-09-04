@@ -103,7 +103,7 @@ modified: "2026-09-04"
 
 **中文理解**：瘾在变坏之前，好得不得了。当然。魔法。近到能用睫毛扇上帝一下。（Sonic Youth+雨后臭氧+葡萄柚汁变 ambrosia。）
 
-**关键词**：really, really good（好×2：瘾的蜜月）、bop him with an eyelash（睫毛扇上帝：渎神的亲昵）、transubstantiated（变体：葡萄柚汁变神酒，圣餐术语）
+**关键词**：really, really good（好×2：瘾的蜜月）、bop him with an eyelash（睫毛扇上帝：渎神的亲昵）、Magic（魔法：瘾的神学术语，句尾点题）
 
 **为什么这样写**：瘾的诚实广告：先好，后坏。"If he'd had a mother she'd be delirious with pride"（要是有妈，她会骄傲疯）： crying（哭）+crown（王冠）+sinless（无罪）——瘾的加冕礼。ch01 的上帝不回话，这里的上帝近到可扇：瘾是更好的神（faithful/omnipresent/predictable，ch06）。全章的巅峰，也是深渊的电梯口。
 

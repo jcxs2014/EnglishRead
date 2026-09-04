@@ -43,7 +43,7 @@ modified: "2026-09-04"
 
 **中文理解**：Cyrus 担心 Fox News 标题（Death Cult Manifesto），Orkideh 问：恨你的人怎么想你的艺术，你操心干嘛？
 
-**关键词**：people who hate you（恨你的人：double-consciousness 的甲方）、your art（你的艺术：不是你的死，是你的 art）、guns and prisons（枪+监狱：恨的硬件，Cyrus 的答）
+**关键词**：people who hate you（恨你的人：double-consciousness 的甲方）、your art（你的艺术：不是你的死，是你的 art）、worried（操心：Orkideh 质疑的正是这个动词，who 在替恨你的人操心）
 
 **为什么这样写**：Du Bois（double-consciousness：黑人总从白人眼里看自己）被 Cyrus 平移到"Iranian vaguely Muslim man"（伊朗模糊穆斯林男）：写 martyr 时总想"恨我的人咋想"。Orkideh 的问题是解药：art 的甲方不是恨你的人。但 Cyrus 的答（枪+监狱）也是实的：恨有硬件。后文"imagining headlines"（没写先想标题）是这句的病，Orkideh 开了药（别想）。
 

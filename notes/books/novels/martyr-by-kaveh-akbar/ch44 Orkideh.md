@@ -53,11 +53,11 @@ modified: "2026-09-04"
 
 > **原句 4:** "You know not everything is connected, don't you?"
 
-**中文理解**：Sang 命名 Death-Speak 后：你知道非事事相连吧？不必互为象征？（I know×4：知道知道知道知道。）
+**中文理解**：Sang 命名 Death-Speak 后：你知道非事事相连吧？不必互为象征？（Orkideh 连答三个 I know：知道知道知道。）
 
-**关键词**：not connected（非连：Sang 的判）、stand in（互为象征：Orkideh 的病）、I know×4（四知：Orkideh 的答）
+**关键词**：not connected（非连：Sang 的判）、don't you（对吧：问句的钩子，Sang 在要 Orkideh 认账）、You know（你知道：开场即断言对方已知，判的语气）
 
-**为什么这样写**：Sang 的判：别连（Lisa 语，ch07 回魂：别压扁象征）。"You don't have to do this"（不必做）：Sang 的劝。I know×4（知）：Orkideh 的答（做）。后文展（做）是这句的续：判完做，做即展。
+**为什么这样写**：Sang 的判：别连（Lisa 语，ch07 回魂：别压扁象征）。"You don't have to do this"（不必做）：Sang 的劝。I know×3（知）：Orkideh 的答（做）。后文展（做）是这句的续：判完做，做即展。
 
 **读者视角提示**：记住非连。Sang 的非连（判）、Lisa 的非连（珊瑚，ch07）、Cyrus 的连（book 全连）：三连同源。连即病。
 

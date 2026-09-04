@@ -43,7 +43,7 @@ modified: "2026-09-04"
 
 **中文理解**："我们把心当王冠，当 autonomy 上的华丽王冠。但心不是王冠，是钟。"
 
-**关键词**：crowns（王冠：自主、尊严、加冕）、clocks（钟：计时、有限、到点）、magnificent×2（华丽重复两次，反讽加倍）
+**关键词**：crowns（王冠：自主、尊严、加冕）、clocks（钟：计时、有限、到点）、aren't（不是：全句的支点，一词把王冠翻成钟）
 
 **为什么这样写**：crown→clock，一个字母之差（cr-own/cl-ock），意义从"统治"掉到"倒计时"。Roya 拆的是人本主义的最后布景：心不是宝座，是计时器。所以"我们把一切押在故事上"（invest everything in our stories）——故事是"时间的排泄物"（excrement of time）：钟产出屎，屎就是故事。Akbar 让死人讲出全书最刻薄的文论。
 
@@ -67,7 +67,7 @@ modified: "2026-09-04"
 
 **中文理解**：Lisa 讲完自己打牙模吸笑气"飞"的经历，Roya 笑，Lisa 懂了："我也不怕。上一秒还在飞，下一秒就是尘了，对吧？"Roya："对。"
 
-**关键词**：flying→dust（一秒之隔：飞与尘之间没有过程）、wasn't afraid either（"也"：母子跨时空的共谋，Cyrus 的"不怕"基因）、Turned into dust×2（两人各说一遍，像对暗号）
+**关键词**：flying→dust（一秒之隔：飞与尘之间没有过程）、wasn't afraid either（"也"：母子跨时空的共谋，Cyrus 的"不怕"基因）、One second…the next（上一秒/下一秒：时间被压成两帧，无中间态）
 
 **为什么这样写**：ch04 的官方公文（"turned into dust"）在此变成母子…母女的私房话。Lisa 的笑气飞行（牙科）和 Roya 的航班（死亡）被"飞"字缝在一起：一个是麻醉，一个是尘。两人各说一遍"Turned into dust"，哀悼完成——不需要眼泪，对暗号就行。
 

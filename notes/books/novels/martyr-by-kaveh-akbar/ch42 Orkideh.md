@@ -17,7 +17,7 @@ modified: "2026-09-04"
 
 > **原句 1:** My name is Roya Shams. I died in a plane crash on July 23rd, 1988, when the USS Vincennes shot down my plane over the Strait of Hormuz.
 
-**中文理解**：Orkideh 开篇：我是 Roya Shams，死于 1988-07-23（ cushion 日期存疑，实为 7-03，Roya 记错或 Akbar 设错，且看），文森斯击落我机于霍尔木兹。（两枚 RIM-66，一中左翼，撕碎，290 人，eviscerated。）
+**中文理解**：Orkideh 开篇：我是 Roya Shams，死于 1988-07-23（日期存疑，实为 7-03，Roya 记错或 Akbar 设错，且看），文森斯击落我机于霍尔木兹。（两枚 RIM-66，一中左翼，撕碎，290 人，eviscerated。）
 
 **关键词**：Roya Shams（妈：自报名）、died（死：自述死）、Vincennes（舰：凶手具名）
 

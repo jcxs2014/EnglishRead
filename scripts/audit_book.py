@@ -137,7 +137,8 @@ def main():
 
     if save:
         os.makedirs('docs/audits', exist_ok=True)
-        fn = f"docs/audits/{re.sub(r'[^\w]+','_',name_short)[:50]}-{datetime.date.today().isoformat()}.md"
+        safe_name = re.sub(r'[^\w]+', '_', name_short)[:50]
+        fn = f"docs/audits/{safe_name}-{datetime.date.today().isoformat()}.md"
         print(f"\n（--save 模式请用重定向保存：audit_book.py … > {fn}）")
     sys.exit(1 if total_fail else 0)
 

@@ -31,7 +31,7 @@ modified: "2026-09-04"
 
 **中文理解**：因为刻薄"感觉起来和'无'不一样。而清醒就全是无。无。各个方向都是无。"
 
-**关键词**：different than nothing（差别即意义：只要不是无，就是好）、Nothing 独句×2（虚无被说两次，第二次还加了方向）、textureless middle（前文：一切都在无质感的中间地带）
+**关键词**：different than nothing（差别即意义：只要不是无，就是好）、Nothing 独句×2（虚无被说两次，第二次还加了方向）、in every direction（各个方向：无被写成空间，前后左右全堵死）
 
 **为什么这样写**：这是 Cyrus 的快乐微积分：极乐和剧痛（ecstasy / white-light pain）是唯二有质感的东西，毒品把中间全部砂纸磨平（sandpapered），戒酒后中间回来了，但全是"无"。短句"Nothing."单独成句两次，像往虚无里钉钉子。"in every direction"把无写成空间：前后左右全堵死。
 
@@ -79,7 +79,7 @@ modified: "2026-09-04"
 
 **中文理解**：剥到最后，Cyrus 轻声说："我想死。我想我一直想。"
 
-**关键词**：whispered（前文 snarled/exasperated 之后突然压低，音量即诚实度）、always（把想死写成出厂设置，不是近况）、Hm（Gabe 的回应只有一个语气词+We'll revisit that，专业得可怕）
+**关键词**：I want（想要：死是想要的东西，欲望句式）、always（把想死写成出厂设置，不是近况）、I think（我想：供词式的犹豫，think 给"想死"留了条缝）
 
 **为什么这样写**：六个词，全书的心脏。Akbar 让它以 whisper 出现——喊出来的都是表演（AA 分享、咖啡馆吵架），只有这句是供词。"I think I always have"把自杀欲从事件变成体质，为后文一切（martyr 渴望、Orkideh 共鸣）提供地基。Gabe 不接招（"We'll revisit that. Keep going."）是高手：不给这句话加冕，继续往下剥，剥出"rounding error"那段。
 
