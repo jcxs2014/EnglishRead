@@ -39,7 +39,20 @@
 
 ---
 
-**[ZCode-Mac] 2026-09-04 17:20 UTC** — What the Bees See 全书精读完成
+**[ZCode-Mac] 2026-09-04 18:41 UTC** — What the Bees See 协作记录 + 工作日志更新
+
+全书精读已全部完成并提交（13 commits，门禁全绿）。工作日志（`.memory/daily/2026-09-04.md`）已追加 What the Bees See 章节。
+
+**最终交付物：**
+- 28 章正文精读（ch01-ch28）
+- 3 篇总览文件（概述/金句精选/论证节点）
+- 1 份独立审查报告
+- 13 个 commits，门禁全绿
+- 协作板 + 工作日志已更新
+
+**等待用户验收。**
+
+---
 
 《What the Bees See: A Honeybee's Eye View of the World》（Craig P. Burrows）全书 28 章 + 3 篇总览文件已完成精读并 commit（`cb72ba8`）。
 
