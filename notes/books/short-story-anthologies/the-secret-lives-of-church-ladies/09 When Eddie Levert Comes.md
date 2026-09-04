@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "09 When Eddie Levert Comes"
 ---
@@ -10,7 +10,7 @@ title: "09 When Eddie Levert Comes"
 
 - **来源**：*The Secret Lives of Church Ladies* by Deesha Philyaw
 - **体裁**：短篇——照护叙事 / 母女关系 / 信仰与欲望
-- **主题**：Datter 日复一日照顾患血管性痴呆的母亲，而母亲每天都在等待 1970 年代 O'Jays 乐队主唱 Eddie Levert 的到来；在这"等待"的循环中，Daughter 逐渐揭开母亲过去的伤疤——种族、信仰、失去与爱。
+- **主题**：Daughter 日复一日照顾患血管性痴呆的母亲，而母亲每天都在等待 1970 年代 O'Jays 乐队主唱 Eddie Levert 的到来；在这"等待"的循环中，Daughter 逐渐揭开母亲过去的伤疤——种族、信仰、失去与爱。她的两个兄弟（Bruce 已死于毒品，Rico 住在城另一头）从不帮忙照护，凸显了家庭中的性别不平等。
 - **结构**：日常（早餐、梳头、等待）→ 回忆（母亲的过去：肤色主义、教会、失去）→ 现在（梳头、和解）
 - **核心金句**："Today's the day." / "You're someone who can't give me what I need. But you're not nobody."
 
@@ -76,17 +76,17 @@ title: "09 When Eddie Levert Comes"
 
 **为什么这样写**：母亲的"皈依"不是虚假——她是真心寻求救赎；但这种救赎能否持续，是故事未回答的问题。
 
-⑥ **> Unfortunately the zeal of the newly converted is bewildering to the children of the newly converted.**
+⑥ **> Meanwhile her brothers Rico and Bruce had been called by their given names and did only what they pleased.**
 
-**中文理解**：不幸的是，新皈依者的狂热让新皈依者的孩子们困惑。
+**中文理解**：与此同时，她的兄弟们 Rico 和 Bruce 被叫全名，只做自己高兴的事。
 
-**句子结构**：SVC；"the + 形容词"表示一类人。
+**句子结构**：SVO + and 并列；过去完成时。
 
-**关键词**：zeal（热情；狂热）/ newly converted（新皈依者）/ bewildering（令人困惑的）
+**关键词**：brothers Rico and Bruce / given names（全名）/ did only what they pleased（只做自己高兴的事）
 
-**表达方式**："the newly converted"用两次——一次指母亲，一次指孩子；这种句法上的镜像暗示了"狂热"的传染性；"bewildering"是温和的词，暗示孩子的困惑而非愤怒。
+**表达方式**：与"Daughter"形成对比——女儿被叫"女儿"（职能），儿子被叫全名（个体）；"did only what they pleased"是特权，与"Slave"对照。
 
-**为什么这样写**：这是全文最幽默的句子之一——母亲的"皈依"对孩子来说不是祝福，是困惑；宗教狂热的代价常由孩子承担。
+**为什么这样写**：一句话揭示家庭中的性别不平等——儿子是"人"，女儿是"职能"；这是 Daughter 照护者角色的根源。
 
 ⑦ **> The O'Jays were still Mama's favorite group, and Eddie Levert was still her favorite in the group. Mama B.C. (Before Church, as Daughter thought of her) would tell her girlfriends… "Eddie Levert can have me anytime, anywhere, and anyway he want it, honey!"**
 
@@ -118,7 +118,7 @@ title: "09 When Eddie Levert Comes"
 
 **句子结构**：对话体；省略号。
 
-**关键词**：Daughter（女儿）/ take good care of her（好好照顾她）
+**关键词**：Daughter（女儿）/ Eddie called / he's going to be late
 
 **表达方式**：Daughter 把 Eddie Levert 的话套在自己身上——"好好照顾她"既是 Eddie 的嘱托，也是 Daughter 的祈祷；"Daughter?" / "Yes, Mama. It's me. Daughter."是全文最心碎的一刻。
 
@@ -130,7 +130,7 @@ title: "09 When Eddie Levert Comes"
 
 **句子结构**：对话 + SVC + but 转折。
 
-**关键词**：remember me（记得我）/ wanted her to believe she did（想让她相信她记得）
+**关键词**：remember me（记得我）/ Sure I do（当然记得）
 
 **表达方式**："wanted her to believe she did"——不是"记得"，是"想让你相信记得"；这种区分是照护者最深的孤独：你无法确认的爱。
 
@@ -154,7 +154,7 @@ title: "09 When Eddie Levert Comes"
 |---------|------|------|
 | chifforobe | 衣柜（衣柜+抽屉的组合） | …opened a chifforobe drawer… |
 | recliner | 躺椅 | …led Mama away from the bed and into her recliner… |
-| zeal | 热情；狂热 | …the zeal of the newly converted… |
+| given names | 全名（vs 职能称呼） | …called by their given names… |
 | DNA roulette | DNA 轮盘赌（比喻） | …She played a kind of DNA roulette… |
 | Realtor | 房地产经纪人 | …until she became a Realtor… |
 

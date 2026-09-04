@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "07 Jael"
 ---
@@ -118,7 +118,7 @@ title: "07 Jael"
 
 **句子结构**：短句 + 短句 + 省略句。
 
-**关键词**：Jael（雅亿——圣经人物）/ finger landed / didn't stop to read
+**关键词**：Jael（雅亿——圣经人物）/ finger landed / right on top of the name
 
 **表达方式**："didn't stop to read"是全文最深的伏笔——如果 Granny D 读了，她会发现圣经中的 Jael 用橛子杀了敌人；命名是预言。
 
@@ -146,7 +146,7 @@ title: "07 Jael"
 | reprobate | 堕落的；拒绝悔改的（宗教用语） | …coming with a reprobate mind? |
 | principalities | 执政的灵（圣经用语） | …against principalities, against powers… |
 | abomination | 可憎之物（圣经对同性恋的定性） | …I don't want no abomination living under my roof. |
-| smote | 击杀（圣经用语） | And she smote Sisera; she crushed his head… |
+| smote | 击杀（圣经用语） | …she smote Sisera; she crushed his head… |
 
 ### ⭐⭐ 进阶
 

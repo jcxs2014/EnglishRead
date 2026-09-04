@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "08 Instructions for Married Christian Husbands"
 ---
@@ -118,7 +118,7 @@ title: "08 Instructions for Married Christian Husbands"
 
 **句子结构**：祈使句 + 解释句 + SVC。
 
-**关键词**：wedding band（婚戒）/ nightstand（床头）/ lifesaver（救生圈）/ floating away（沉溺）
+**关键词**：wedding band（婚戒）/ nightstand（床头）/ place（放置——祈使语气）
 
 **表达方式**："lifesaver"是双关——婚戒既是"提醒你已婚"的标记，也是防止她"沦陷"的保护；"floating away"写出欲望的淹没感。
 

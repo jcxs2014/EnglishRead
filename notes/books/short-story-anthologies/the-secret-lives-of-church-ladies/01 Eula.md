@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "01 Eula"
 ---

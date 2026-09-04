@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "03 Dear Sister"
 ---
@@ -41,6 +41,8 @@ title: "03 Dear Sister"
 **为什么这样写**：承认"缺席的父亲"有时是一种解脱——这种坦诚打破了"所有孩子都需要父亲"的迷思。
 
 ③ **> They picked me to write this because I shoot straight and don't mince words. But I also have tact, unlike Tasheta.**
+
+**中文理解**：他们选我写这封信，因为我说话直接、不拐弯抹角。但我也懂得圆滑，不像 Tasheta。
 
 **句子结构**：并列句 + because 原因状语 + but 转折比较。
 

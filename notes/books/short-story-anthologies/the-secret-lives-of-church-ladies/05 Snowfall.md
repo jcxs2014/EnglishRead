@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "05 Snowfall"
 ---
@@ -58,7 +58,7 @@ title: "05 Snowfall"
 
 **句子结构**：对话 + 长句（SVC + between…and…）。
 
-**关键词**：interrogated（审视）/ dissect（剖析）/ declarative statements（断言）
+**关键词**：interrogated（审视）/ Arletha（vs Leelee）/ pissed（生气）
 
 **表达方式**："dissect"与"keep things whole"的对比——两人处理冲突的根本差异；"Arletha" vs "Leelee"的称呼转换暗示亲疏。
 

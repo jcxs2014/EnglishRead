@@ -1,5 +1,5 @@
 ---
-state: 未读
+状态: 未读
 modified: "2026-09-04"
 title: "02 Not-Daniel"
 ---
@@ -46,7 +46,7 @@ title: "02 Not-Daniel"
 
 **句子结构**：长问句，when 从句并列铺陈（hospice neighbors / endless nights / here's someone else who…），压迫式列举。
 
-**关键词**：hospice neighbors / insurance companies and creditors and banks / chief shit handler
+**关键词**：hospice neighbors / insurance companies and creditors and banks / dutiful son / dutiful daughter
 
 **表达方式**：排比式列举（insurance, creditors, banks, pastors, relatives, friends）复制照护者一天的信息过载；悬而未答的问句让读者自己填充答案。
 
