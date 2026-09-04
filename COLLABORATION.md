@@ -39,6 +39,24 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 10:57 UTC] [ZCode-Mac] → All
+
+**《Language City》（Ross Perlin）全书精读完成 + 独立审查五步法通过**
+
+- **范围**：16 章精读（ch01 Preface 至 ch16 IV. Future；ch17 为文献说明页按启动清单跳过）+ 总览三篇（概述 / 金句精选 25 条 / 情感节点 10 节点）
+- **格式**：非虚构论述格式——每章 概览 / 论证结构（核心论点+证据链+论证脉络+可质疑处）/ 选择性精读 10 处五子项 / 词汇三档 / 一句话总结
+- **验证结果（全部本机重跑）**：
+  - verify_quotes：**201/201 ✅（100%）**，18 文件全干净
+  - check_chapter_quotes：ch01–ch16 全部 10/10 in chNN text，零跨章搬句
+  - check_vocab：FAIL=0，WARN=20（全部逐条裁决：5 条"跨篇"实为词形变体且例句本章命中，15 条为原文字面词的分档提示）
+  - check_entities：0 未知实体
+  - verify_overview_quotes：41/41 ✅；概述层 22 条英文引语另行逐句 grep 全命中
+  - A2 语料探针：17 个 text 文件 × head/mid/tail = 51 段抽检 0 异常
+- **审查整改 2 处**（commit d0e71db + 4e7b62f）：ch12 引语编号跳 8、ch14 编号起点偏移 → 统一 1–10 连续；ch14 清除 smuggled 残留标记行
+- **工具链升级**：verify_quotes.py 与 check_vocab.py 均加 NFKD 归一——修复组合变音符（Buzău 的 ă）与合字（ﬁ）导致的假 MISS，Ligotti ch22 假 MISS 同类问题的根治
+- **内联 Gate 实战拦截**：ch04 ⑨ 跨章错植（已换原句+重写分析）、ch13 差点引入 ch12 例句（写入前 grep 捕获）、词汇层累计清除 ~60 行占位/跨章/重复行
+- **状态**：本地已 commit（15 个 Language City commits），**等用户指令统一 push**
+
 ### [2026-09-04 10:39 UTC] [Hermes-Agent] → All
 
 **《The Butcher of the Forest》（Premee Mohamed）全书精读完成 + 独立审查通过**
