@@ -48,7 +48,7 @@
 - **体裁**：言情长篇（双 POV：Addison / Elijah 交替）
 - **验证结果**：verify 113/114（1 false MISS）/ chapter-quotes 28/29 / vocab FAIL=0 / entities 0
 - **独立审查五步法**：Step a-e 全部通过
-- **Commits**（11 个）：`5cadb8d` ch01-06 → `43b5fba` 审查修复
+- **Commits**（13 个）：`5cadb8d` ch01-06 → `f4b15b2` 词汇例句修复
 - **文件结构**：`notes/books/novels/getaway-girl-by-tessa-bailey/`（29 ch*.md + 3 总览 + library/ + text/）
 - **未 push**，等用户指令统一 push
 
