@@ -40,7 +40,7 @@ modified: "2026-09-04"
 
 ### ① 爱抚式后缀
 
-> **原句 3:** My dear little outside? Nokuentla has to be my kuentla, and nokuentlahtzin my dear little kuentla, because -tzin is the Nahuatl "caressive" suffix, a verbal caress conveying fondness and devotion.
+> **原句 1:** My dear little outside? Nokuentla has to be my kuentla, and nokuentlahtzin my dear little kuentla, because -tzin is the Nahuatl "caressive" suffix, a verbal caress conveying fondness and devotion.
 
 **中文理解**：我亲爱的小外面？Nokuentla 必然是 my kuentla（我的外面），而 nokuentlahtzin 是"我亲爱的小外面"——因为 -tzin 是纳瓦特尔语的"爱抚式"后缀，一个词语层面的爱抚，传达亲昵与深情。
 
@@ -54,7 +54,7 @@ modified: "2026-09-04"
 
 ### ② tonalli 的理论
 
-> **原句 4:** Tonalli is the kind of word that crystallizes a whole theory of body and spirit and then spins a widening web of semantic associations—a little like Chinese qi or Greek pneuma, which also link breath, life, soul, and character.
+> **原句 2:** Tonalli is the kind of word that crystallizes a whole theory of body and spirit and then spins a widening web of semantic associations—a little like Chinese qi or Greek pneuma, which also link breath, life, soul, and character.
 
 **中文理解**：Tonalli 是那种能把整套身体与灵魂理论结晶成型、再织出一张不断扩大的语义之网的词——有点像中文的"气"或希腊语的 pneuma，它们同样把呼吸、生命、灵魂与品格连在一起。
 
@@ -68,7 +68,7 @@ modified: "2026-09-04"
 
 ### ③ 洗澡快，但忘了重要的东西
 
-> **原句 5:** "The shower is fast," admits Irwin, "but they forget about something important with temazcal. I told my mother, Don't touch the temazcal. If you take it out, you won't see me again."
+> **原句 3:** "The shower is fast," admits Irwin, "but they forget about something important with temazcal. I told my mother, Don't touch the temazcal. If you take it out, you won't see me again."
 
 **中文理解**："淋浴快，"欧文承认，"但他们在 temazcal 身上忘掉了某种重要的东西。我跟我母亲说：别动 temazcal。你把它拆了，就再也见不到我了。"
 
@@ -82,7 +82,7 @@ modified: "2026-09-04"
 
 ### ④ 秘密语言
 
-> **原句 6:** Already in the 1980s, it was becoming "a language of passwords, a secret language which people use exclusively to validate identity and their right to walk in the towns and on their lands."
+> **原句 4:** Already in the 1980s, it was becoming "a language of passwords, a secret language which people use exclusively to validate identity and their right to walk in the towns and on their lands."
 
 **中文理解**：早在 1980 年代，它（纳瓦特尔语）就正在变成"一种口令语言——人们专用来验证身份、验证自己有权行走在这些镇子和土地上的秘密语言"。
 
@@ -96,7 +96,7 @@ modified: "2026-09-04"
 
 ### ⑤ 冷火之外：警察的手电
 
-> **原句 7:** "You stand up when the police point the lights, you freeze and you've got to move, otherwise you're going to get a ticket," remembers Irwin. "Officer discretion, they called it."
+> **原句 5:** "You stand up when the police point the lights, you freeze and you've got to move, otherwise you're going to get a ticket," remembers Irwin. "Officer discretion, they called it."
 
 **中文理解**："警察用手电照过来的时候你就得站起来，你僵住、然后必须走开，不然就要吃罚单，"欧文回忆道。"他们管这叫'警官自由裁量权'。"
 
@@ -110,7 +110,7 @@ modified: "2026-09-04"
 
 ### ⑥ 假装是阿帕奇
 
-> **原句 8:** Irwin didn't feel comfortable in English, so he responded in Nahuatl. It worked, possibly because the guard took it for Apache.
+> **原句 6:** Irwin didn't feel comfortable in English, so he responded in Nahuatl. It worked, possibly because the guard took it for Apache.
 
 **中文理解**：欧文说英语不自在，于是他用纳瓦特尔语回答。居然管用了——也许因为边防把纳瓦特尔当成了阿帕奇语。
 
@@ -124,7 +124,7 @@ modified: "2026-09-04"
 
 ### ⑦ 词里藏着信息
 
-> **原句 9:** "The information is in the word," Irwin says, and there is no Mexican cooking without the Nahuatl language.
+> **原句 7:** "The information is in the word," Irwin says, and there is no Mexican cooking without the Nahuatl language.
 
 **中文理解**："信息就在词里面，"欧文说，没有纳瓦特尔语就没有墨西哥菜。
 
@@ -138,7 +138,7 @@ modified: "2026-09-04"
 
 ### ⑧ 已经-我-女人-死了
 
-> **原句 10:** Even more compressed and idiomatic meaning-making is possible, as in ōnicihuāmic, literally already-I-woman-died, but really I have become a widower.
+> **原句 8:** Even more compressed and idiomatic meaning-making is possible, as in ōnicihuāmic, literally already-I-woman-died, but really I have become a widower.
 
 **中文理解**：还有更凝练、更惯用的意义构造，比如 ōnicihuāmic——字面是"已经-我-女人-死了"，实际意思是"我成了鳏夫"。
 
@@ -152,7 +152,7 @@ modified: "2026-09-04"
 
 ### ⑨ 姐夫的熟人
 
-> **原句 11:** "So my sister-in-law asks, Why don't you pay attention to her? Because 'es una india sucia.' She's a dirty Indian."
+> **原句 9:** "So my sister-in-law asks, Why don't you pay attention to her? Because 'es una india sucia.' She's a dirty Indian."
 
 **中文理解**："所以我嫂子问：你怎么不理她？回答是：'es una india sucia。'她是个脏印第安人。"
 
@@ -166,7 +166,7 @@ modified: "2026-09-04"
 
 ### ⑩ 无人羞于开口
 
-> **原句 12:** There is a confidence and conviction in the voices as we go around now, saying who we are and what we're doing here. No one is ashamed of speaking their language.
+> **原句 10:** There is a confidence and conviction in the voices as we go around now, saying who we are and what we're doing here. No one is ashamed of speaking their language.
 
 **中文理解**：此刻我们轮流说着自己是谁、在这里做什么，声音里有自信与笃定。没有人羞于说自己的语言。
 

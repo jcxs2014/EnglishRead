@@ -137,7 +137,7 @@ modified: "2026-09-04"
 
 ### ⑧ 温床里的复兴
 
-> **原句 9:** It's not simply a language movement, but the historic mission of a people set apart by the will of der eybershter, a Germanic word for uppermost which came to mean G-d in Yiddish, as communicated through holy scripture and the rebbes.
+> **原句 8:** It's not simply a language movement, but the historic mission of a people set apart by the will of der eybershter, a Germanic word for uppermost which came to mean G-d in Yiddish, as communicated through holy scripture and the rebbes.
 
 **中文理解**：这不只是一场语言运动，而是一个民族的历史使命——这个民族被"至高者"（der eybershter，一个日耳曼词，本义"最高处"，在意第绪语中转指上帝）的意志分别出来，这一意志经由圣典与拉比传达。
 
@@ -151,7 +151,7 @@ modified: "2026-09-04"
 
 ### ⑨ 一人报纸的真相
 
-> **原句 10:** "In truth," admits Boris, "the whole paper was being written and put out by one person, Mordkhe Strigler, zikhroyne livrocho, of blessed memory."
+> **原句 9:** "In truth," admits Boris, "the whole paper was being written and put out by one person, Mordkhe Strigler, zikhroyne livrocho, of blessed memory."
 
 **中文理解**："说实话，"鲍里斯承认，"整份报纸其实是由一个人写出来、办出来的——莫德赫·斯特里格勒，愿他蒙福的纪念。"
 
@@ -165,7 +165,7 @@ modified: "2026-09-04"
 
 ### ⑩ 楼梯上的话
 
-> **原句 11:** Trepverter, literally words on the staircase, are a last blast of wit, a final retort, as you head for the exit.
+> **原句 10:** Trepverter, literally words on the staircase, are a last blast of wit, a final retort, as you head for the exit.
 
 **中文理解**：Trepverter——字面意思是"楼梯上的话"——是临出门时最后迸出的一句俏皮话、一次终极回击。
 
