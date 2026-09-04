@@ -20,12 +20,12 @@ check_vocab.py — 词汇表真实性/分档检测（逐章版）
   4. 占位/自标注：例句列"—"/"no"/释义含"可略"/"未出现" → FAIL
 退出码：存在 fail 则非 0。
 """
-import re, sys, glob, os, zipfile, html as htmlmod
+import re, sys, glob, os, zipfile, html as htmlmod, unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from verify_quotes import epub_flat_text, read_html
 
-flat = lambda s: re.sub(r'[^a-z0-9]', '', s.lower())
+flat = lambda s: re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', s).lower())
 
 # ~200 个最高频英文词（分档合理性检测用）
 COMMON = set("""the be to of and a in that have i it for not on with he as you do at this but his
