@@ -91,476 +91,67 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bullshit | 废话 | …this is bullshit." |
-| Bea | 碧翠丝（人名） | …says Bea. |
-| slams | 摔 | …slams the last page… |
-| page | 页 | …last page… |
-| coffee | 咖啡 | …coffee counter… |
-| counter | 柜台 | …coffee counter… |
-| cat | 猫 | …startling the cat… |
-| books | 书 | …tower of books. |
-| manuscript | 手稿 | …the manuscript… |
-| chest | 胸口 | …to her chest… |
-| title | 标题 | …title page… |
-| The Invisible Life of Addie LaRue | 艾迪·拉鲁的隐形生命（书名） | …The Invisible Life of Addie LaRue. |
-| happened | 发生 | …happened to her? |
-| Luc | 吕克（人名） | …go with Luc? |
-| assume | 假设 | "I assume so." |
-| truth | 真相 | …he doesn’t know. |
-| months | 月 | …six months… |
-| transcribe | 抄写 | …transcribe the stories… |
-| notebooks | 笔记本 | …in the notebooks… |
-| compile | 编译 | …compile them… |
-| draft | 草稿 | …into this draft. |
-| nights | 夜晚 | …every night… |
-| hands | 手 | …his hands… |
-| cramped | 抽筋 | …had cramped… |
-| head | 头 | …his head… |
-| ache | 疼痛 | …begun to ache… |
-| computer | 电脑 | …computer screen… |
-| screen | 屏幕 | …computer screen… |
-| collapse | 倒下 | …collapse into bed… |
-| bed | 床 | …into bed… |
-| smell | 闻 | …smell like her… |
-| wonder | 想知道 | …wonder how it ends. |
-| ends | 结束 | …how it ends. |
-| wrote | 写 | …wrote a dozen… |
-| dozen | 十二 | …a dozen different… |
-| endings | 结局 | …different endings… |
-| happy | 快乐的 | …she was happy… |
-| not | 不 | …where she was not… |
-| madly | 疯狂地 | …madly in love… |
-| love | 爱 | …in love… |
-| dragon | 龙 | …like a dragon… |
-| treasure | 宝藏 | …with its treasure… |
-| belonged | 属于 | …belonged to him… |
-| story | 故事 | …his story… |
-| fiction | 小说 | …would be fiction. |
-| real | 真的 | …this is real… |
-| know | 知道 | …ever know it. |
-| hope | 希望 | …he can hope. |
-| happy | 快乐的 | …she is happy. |
-| brimming | 充满的 | …still brimming with… |
-| defiant | 反抗的 | …defiant joy… |
-| joy | 快乐 | …defiant joy… |
-| stubborn | 固执的 | …stubborn hope. |
-| method actor | 方法演员 | …method actor… |
-| true | 真的 | …it’s all true. |
-| met | 遇见 | …she met Addie… |
-| friends | 朋友 | …been friends. |
-| believe | 相信 | …believe him… |
-| fiction | 小说 | …as fiction. |
-| like | 喜欢 | …you like it?" |
-| grin | 笑容 | …breaks into a grin. |
-| fog | 雾 | …no fog in her eyes… |
-| eyes | 眼睛 | …in her eyes… |
-| grateful | 感激的 | …more grateful… |
-| truth | 真相 | …have the truth. |
-| good | 好的 | …really, really good." |
-| taps | 轻拍 | …taps the title page. |
-| acknowledgments | 致谢 | …in the acknowledgments." |
-| thesis | 论文 | …My thesis. |
-| pieces | 作品 | …in those pieces. |
-| ghost | 幽灵 | …ghost in the frame. |
-| frame | 画面 | …in the frame. |
-| runs | 放 | …runs his hand… |
-| manuscript | 手稿 | …over the manuscript… |
-| relieved | 宽慰的 | …relieved and sad… |
-| sad | 悲伤的 | …relieved and sad… |
-| done | 完成 | …it is done. |
-| lived | 生活 | …have lived with it… |
-| glad | 高兴的 | …glad to have it. |
-| forget | 忘记 | …beginning to forget. |
-| victim | 受害者 | …victim to her curse. |
-| curse | 诅咒 | …her curse. |
-| erased | 抹去的 | …been erased… |
-| fading | 消退的 | …simply fading… |
-| things | 事情 | …as all things do… |
-| glossing | 模糊 | …glossing over… |
-| degrees | 程度 | …by degrees… |
-| mind | 头脑 | …the mind loosening… |
-| loosening | 放松 | …loosening its hold… |
-| hold | 把握 | …its hold on… |
-| past | 过去 | …on the past… |
-| future | 未来 | …for the future. |
-| let go | 放手 | …want to let go. |
-| trying | 试 | …trying not to… |
-| lies | 躺 | …lies in bed… |
-| night | 夜晚 | …at night… |
-| closes | 关闭 | …closes his eyes… |
-| eyes | 眼睛 | …his eyes… |
-| conjure | 召唤 | …conjure her face. |
-| face | 脸 | …her face. |
-| curve | 曲线 | …curve of her mouth… |
-| mouth | 嘴 | …her mouth… |
-| shade | 色调 | …shade of her hair… |
-| hair | 头发 | …of her hair… |
-| lamp | 灯 | …bedside lamp… |
-| cheekbone | 颧骨 | …left cheekbone… |
-| temple | 太阳穴 | …her temple… |
-| chin | 下巴 | …her chin. |
-| laughter | 笑声 | …her laughter… |
-| voice | 声音 | …her voice… |
-| edge | 边缘 | …edge of sleep. |
-| sleep | 睡眠 | …of sleep. |
-| details | 细节 | …these details… |
-| important | 重要的 | …as important as… |
-| bear | 忍受 | …can’t bear to lose… |
-| lose | 失去 | …to lose them yet. |
-| Belief | 信念 | Belief is a bit… |
-| gravity | 重力 | …like gravity. |
-| people | 人 | …Enough people… |
-| believe | 相信 | …believe a thing… |
-| solid | 坚实的 | …as solid… |
-| real | 真实的 | …and real… |
-| ground | 地面 | …as the ground… |
-| feet | 脚 | …beneath your feet. |
-| only one | 只有一个 | …the only one… |
-| holding | 抓住 | …holding on to… |
-| idea | 想法 | …an idea… |
-| memory | 记忆 | …a memory… |
-| girl | 女孩 | …a girl… |
-| hard | 困难 | …hard to keep… |
-| floating | 飘走 | …from floating away. |
-| away | 离开 | …floating away. |
-| writer | 作家 | …be a writer," |
-| trappings | 装饰 | …the trappings… |
-| denial | 否认 | …in denial." |
-| absently | 心不在焉地 | …he says absently. |
-| sell | 卖 | …going to sell it… |
-| agent | 代理人 | …get an agent… |
-| auction | 拍卖 | …go to auction… |
-| condition | 条件 | …on one condition… |
-| name | 名字 | …only one name… |
-| cover | 封面 | …on the cover… |
-| agree | 同意 | …they will agree. |
-| clever | 聪明的 | …clever marketing… |
-| marketing | 营销 | …marketing trick… |
-| trick | 噱头 | …marketing trick… |
-| heart | 心 | …his heart… |
-| thrill | 激动 | …will thrill… |
-| reading | 阅读 | …reading these words… |
-| words | 文字 | …these words… |
-| lips | 嘴唇 | …from lips to lips… |
-| mind | 头脑 | …from mind to memory. |
-| memory | 记忆 | …to memory. |
-| Addie | 艾迪（人名） | Addie, Addie, Addie. |
+| bullshit | 废话 | ...this is bullshit. |
+| manuscript | 手稿 | ...the manuscript... |
+| transcribe | 抄写 | ...transcribe the stories... |
+| compile | 编译 | ...compile them... |
+| fiction | 小说 | ...would be fiction. |
+| conjure | 召唤 | ...conjure her face. |
+| fading | 消退的 | ...simply fading... |
+| glossing | 模糊 | ...glossing over... |
+| loosening | 放松 | ...loosening its hold... |
+| gravity | 重力 | ...like gravity. |
+| forfeit | 失败 | ...of forfeit... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bullshit | 废话 | …bullshit… |
-| Bea | 碧翠丝 | …Bea… |
-| slams | 摔 | …slams… |
-| page | 页 | …page… |
-| coffee | 咖啡 | …coffee… |
-| counter | 柜台 | …counter… |
-| cat | 猫 | …cat… |
-| books | 书 | …books… |
-| manuscript | 手稿 | …manuscript… |
-| chest | 胸口 | …chest… |
-| title | 标题 | …title… |
-| happened | 发生 | …happened… |
-| Luc | 吕克 | …Luc… |
-| assume | 假设 | …assume… |
-| truth | 真相 | …truth… |
-| months | 月 | …months… |
-| transcribe | 抄写 | …transcribe… |
-| notebooks | 笔记本 | …notebooks… |
-| compile | 编译 | …compile… |
-| draft | 草稿 | …draft… |
-| nights | 夜晚 | …nights… |
-| hands | 手 | …hands… |
-| cramped | 抽筋 | …cramped… |
-| head | 头 | …head… |
-| ache | 疼痛 | …ache… |
-| computer | 电脑 | …computer… |
-| screen | 屏幕 | …screen… |
-| collapse | 倒下 | …collapse… |
-| bed | 床 | …bed… |
-| smell | 闻 | …smell… |
-| wonder | 想知道 | …wonder… |
-| ends | 结束 | …ends… |
-| wrote | 写 | …wrote… |
-| dozen | 十二 | …dozen… |
-| endings | 结局 | …endings… |
-| happy | 快乐的 | …happy… |
-| not | 不 | …not… |
-| madly | 疯狂地 | …madly… |
-| love | 爱 | …love… |
-| dragon | 龙 | …dragon… |
-| treasure | 宝藏 | …treasure… |
-| belonged | 属于 | …belonged… |
-| story | 故事 | …story… |
-| fiction | 小说 | …fiction… |
-| real | 真的 | …real… |
-| know | 知道 | …know… |
-| hope | 希望 | …hope… |
-| happy | 快乐的 | …happy… |
-| brimming | 充满的 | …brimming… |
-| defiant | 反抗的 | …defiant… |
-| joy | 快乐 | …joy… |
-| stubborn | 固执的 | …stubborn… |
-| method actor | 方法演员 | …method actor… |
-| true | 真的 | …true… |
-| met | 遇见 | …met… |
-| friends | 朋友 | …friends… |
-| believe | 相信 | …believe… |
-| fiction | 小说 | …fiction… |
-| like | 喜欢 | …like… |
-| grin | 笑容 | …grin… |
-| fog | 雾 | …fog… |
-| eyes | 眼睛 | …eyes… |
-| grateful | 感激的 | …grateful… |
-| truth | 真相 | …truth… |
-| good | 好的 | …good… |
-| taps | 轻拍 | …taps… |
-| acknowledgments | 致谢 | …acknowledgments… |
-| thesis | 论文 | …thesis… |
-| pieces | 作品 | …pieces… |
-| ghost | 幽灵 | …ghost… |
-| frame | 画面 | …frame… |
-| runs | 放 | …runs… |
-| manuscript | 手稿 | …manuscript… |
-| relieved | 宽慰的 | …relieved… |
-| sad | 悲伤的 | …sad… |
-| done | 完成 | …done… |
-| lived | 生活 | …lived… |
-| glad | 高兴的 | …glad… |
-| forget | 忘记 | …forget… |
-| victim | 受害者 | …victim… |
-| curse | 诅咒 | …curse… |
-| erased | 抹去的 | …erased… |
-| fading | 消退的 | …fading… |
-| things | 事情 | …things… |
-| glossing | 模糊 | …glossing… |
-| degrees | 程度 | …degrees… |
-| mind | 头脑 | …mind… |
-| loosening | 放松 | …loosening… |
-| hold | 把握 | …hold… |
-| past | 过去 | …past… |
-| future | 未来 | …future… |
-| let go | 放手 | …let go… |
-| trying | 试 | …trying… |
-| lies | 躺 | …lies… |
-| night | 夜晚 | …night… |
-| closes | 关闭 | …closes… |
-| eyes | 眼睛 | …eyes… |
-| conjure | 召唤 | …conjure… |
-| face | 脸 | …face… |
-| curve | 曲线 | …curve… |
-| mouth | 嘴 | …mouth… |
-| shade | 色调 | …shade… |
-| hair | 头发 | …hair… |
-| lamp | 灯 | …lamp… |
-| cheekbone | 颧骨 | …cheekbone… |
-| temple | 太阳穴 | …temple… |
-| chin | 下巴 | …chin… |
-| laughter | 笑声 | …laughter… |
-| voice | 声音 | …voice… |
-| edge | 边缘 | …edge… |
-| sleep | 睡眠 | …sleep… |
-| details | 细节 | …details… |
-| important | 重要的 | …important… |
-| bear | 忍受 | …bear… |
-| lose | 失去 | …lose… |
-| Belief | 信念 | …Belief… |
-| gravity | 重力 | …gravity… |
-| people | 人 | …people… |
-| believe | 相信 | …believe… |
-| solid | 坚实的 | …solid… |
-| real | 真实的 | …real… |
-| ground | 地面 | …ground… |
-| feet | 脚 | …feet… |
-| only one | 只有一个 | …only one… |
-| holding | 抓住 | …holding… |
-| idea | 想法 | …idea… |
-| memory | 记忆 | …memory… |
-| girl | 女孩 | …girl… |
-| hard | 困难 | …hard… |
-| floating | 飘走 | …floating… |
-| away | 离开 | …away… |
-| writer | 作家 | …writer… |
-| trappings | 装饰 | …trappings… |
-| denial | 否认 | …denial… |
-| absently | 心不在焉地 | …absently… |
-| sell | 卖 | …sell… |
-| agent | 代理人 | …agent… |
-| auction | 拍卖 | …auction… |
-| condition | 条件 | …condition… |
-| name | 名字 | …name… |
-| cover | 封面 | …cover… |
-| agree | 同意 | …agree… |
-| clever | 聪明的 | …clever… |
-| marketing | 营销 | …marketing… |
-| trick | 噱头 | …trick… |
-| heart | 心 | …heart… |
-| thrill | 激动 | …thrill… |
-| reading | 阅读 | …reading… |
-| words | 文字 | …words… |
-| lips | 嘴唇 | …lips… |
-| mind | 头脑 | …mind… |
-| memory | 记忆 | …memory… |
-| Addie | 艾迪 | …Addie… |
+| Bea | 碧翠丝 | ...says Bea. |
+| slams | 摔 | ...slams the last page... |
+| cat | 猫 | ...startling the cat... |
+| Henry | 亨利 | ...really Henry... |
+| story | 故事 | ...telling her story. |
+| assume | 假设 | I assume so. |
+| truth | 真相 | ...he doesn't know. |
+| months | 月 | ...six months... |
+| nights | 夜晚 | ...every night... |
+| hands | 手 | ...his hands... |
+| head | 头 | ...his head... |
+| ache | 疼痛 | ...begun to ache... |
+| computer | 电脑 | ...computer screen... |
+| screen | 屏幕 | ...computer screen... |
+| collapse | 倒下 | ...collapse into bed... |
+| bed | 床 | ...into bed... |
+| smell | 闻 | ...smell like her... |
+| wonder | 想知道 | ...wonder how it ends. |
+| ends | 结束 | ...how it ends. |
+| wrote | 写 | ...wrote a dozen... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bullshit | 废话 | …bullshit… |
-| Bea | 碧翠丝 | …Bea… |
-| slams | 摔 | …slams… |
-| page | 页 | …page… |
-| coffee | 咖啡 | …coffee… |
-| counter | 柜台 | …counter… |
-| cat | 猫 | …cat… |
-| books | 书 | …books… |
-| manuscript | 手稿 | …manuscript… |
-| chest | 胸口 | …chest… |
-| title | 标题 | …title… |
-| happened | 发生 | …happened… |
-| Luc | 吕克 | …Luc… |
-| assume | 假设 | …assume… |
-| truth | 真相 | …truth… |
-| months | 月 | …months… |
-| transcribe | 抄写 | …transcribe… |
-| notebooks | 笔记本 | …notebooks… |
-| compile | 编译 | …compile… |
-| draft | 草稿 | …draft… |
-| nights | 夜晚 | …nights… |
-| hands | 手 | …hands… |
-| cramped | 抽筋 | …cramped… |
-| head | 头 | …head… |
-| ache | 疼痛 | …ache… |
-| computer | 电脑 | …computer… |
-| screen | 屏幕 | …screen… |
-| collapse | 倒下 | …collapse… |
-| bed | 床 | …bed… |
-| smell | 闻 | …smell… |
-| wonder | 想知道 | …wonder… |
-| ends | 结束 | …ends… |
-| wrote | 写 | …wrote… |
-| dozen | 十二 | …dozen… |
-| endings | 结局 | …endings… |
-| happy | 快乐的 | …happy… |
-| not | 不 | …not… |
-| madly | 疯狂地 | …madly… |
-| love | 爱 | …love… |
-| dragon | 龙 | …dragon… |
-| treasure | 宝藏 | …treasure… |
-| belonged | 属于 | …belonged… |
-| story | 故事 | …story… |
-| fiction | 小说 | …fiction… |
-| real | 真的 | …real… |
-| know | 知道 | …know… |
-| hope | 希望 | …hope… |
-| happy | 快乐的 | …happy… |
-| brimming | 充满的 | …brimming… |
-| defiant | 反抗的 | …defiant… |
-| joy | 快乐 | …joy… |
-| stubborn | 固执的 | …stubborn… |
-| method actor | 方法演员 | …method actor… |
-| true | 真的 | …true… |
-| met | 遇见 | …met… |
-| friends | 朋友 | …friends… |
-| believe | 相信 | …believe… |
-| fiction | 小说 | …fiction… |
-| like | 喜欢 | …like… |
-| grin | 笑容 | …grin… |
-| fog | 雾 | …fog… |
-| eyes | 眼睛 | …eyes… |
-| grateful | 感激的 | …grateful… |
-| truth | 真相 | …truth… |
-| good | 好的 | …good… |
-| taps | 轻拍 | …taps… |
-| acknowledgments | 致谢 | …acknowledgments… |
-| thesis | 论文 | …thesis… |
-| pieces | 作品 | …pieces… |
-| ghost | 幽灵 | …ghost… |
-| frame | 画面 | …frame… |
-| runs | 放 | …runs… |
-| manuscript | 手稿 | …manuscript… |
-| relieved | 宽慰的 | …relieved… |
-| sad | 悲伤的 | …sad… |
-| done | 完成 | …done… |
-| lived | 生活 | …lived… |
-| glad | 高兴的 | …glad… |
-| forget | 忘记 | …forget… |
-| victim | 受害者 | …victim… |
-| curse | 诅咒 | …curse… |
-| erased | 抹去的 | …erased… |
-| fading | 消退的 | …fading… |
-| things | 事情 | …things… |
-| glossing | 模糊 | …glossing… |
-| degrees | 程度 | …degrees… |
-| mind | 头脑 | …mind… |
-| loosening | 放松 | …loosening… |
-| hold | 把握 | …hold… |
-| past | 过去 | …past… |
-| future | 未来 | …future… |
-| let go | 放手 | …let go… |
-| trying | 试 | …trying… |
-| lies | 躺 | …lies… |
-| night | 夜晚 | …night… |
-| closes | 关闭 | …closes… |
-| eyes | 眼睛 | …eyes… |
-| conjure | 召唤 | …conjure… |
-| face | 脸 | …face… |
-| curve | 曲线 | …curve… |
-| mouth | 嘴 | …mouth… |
-| shade | 色调 | …shade… |
-| hair | 头发 | …hair… |
-| lamp | 灯 | …lamp… |
-| cheekbone | 颧骨 | …cheekbone… |
-| temple | 太阳穴 | …temple… |
-| chin | 下巴 | …chin… |
-| laughter | 笑声 | …laughter… |
-| voice | 声音 | …voice… |
-| edge | 边缘 | …edge… |
-| sleep | 睡眠 | …sleep… |
-| details | 细节 | …details… |
-| important | 重要的 | …important… |
-| bear | 忍受 | …bear… |
-| lose | 失去 | …lose… |
-| Belief | 信念 | …Belief… |
-| gravity | 重力 | …gravity… |
-| people | 人 | …people… |
-| believe | 相信 | …believe… |
-| solid | 坚实的 | …solid… |
-| real | 真实的 | …real… |
-| ground | 地面 | …ground… |
-| feet | 脚 | …feet… |
-| only one | 只有一个 | …only one… |
-| holding | 抓住 | …holding… |
-| idea | 想法 | …idea… |
-| memory | 记忆 | …memory… |
-| girl | 女孩 | …girl… |
-| hard | 困难 | …hard… |
-| floating | 飘走 | …floating… |
-| away | 离开 | …away… |
-| writer | 作家 | …writer… |
-| trappings | 装饰 | …trappings… |
-| denial | 否认 | …denial… |
-| absently | 心不在焉地 | …absently… |
-| sell | 卖 | …sell… |
-| agent | 代理人 | …agent… |
-| auction | 拍卖 | …auction… |
-| condition | 条件 | …condition… |
-| name | 名字 | …name… |
-| cover | 封面 | …cover… |
-| agree | 同意 | …agree… |
-| clever | 聪明的 | …clever… |
-| marketing | 营销 | …marketing… |
-| trick | 噱头 | …trick… |
-| heart | 心 | …heart… |
-| thrill | 激动 | …thrill… |
-| reading | 阅读 | …reading… |
-| words | 文字 | …words… |
-| lips | 嘴唇 | …lips… |
-| mind | 头脑 | …mind… |
-| memory | 记忆 | …memory… |
-| Addie | 艾迪 | …Addie… |
+| bookstore | 书店 | The bookstore is about to close. |
+| close | 关闭 | ...about to close. |
+| dark | 黑暗 | It gets dark early... |
+| early | 早 | ...early this time... |
+| year | 年 | ...this time of year... |
+| snow | 雪 | ...snow in the forecast... |
+| forecast | 预报 | ...in the forecast... |
+| London | 伦敦 | ...for London. |
+| clerks | 店员 | The various clerks bustle about... |
+| bustle | 忙着 | ...clerks bustle about... |
+| displays | 展示 | ...dismantling old displays... |
+| work | 工作 | ...finish their work... |
+| mist | 薄雾 | ...mist outside turns to frost. |
+| frost | 霜 | ...turns to frost. |
+| lingers | 徘徊 | She lingers nearby... |
+| thumb | 拇指 | ...thumb skating... |
+| skating | 滑行 | ...skating along the ring... |
+| ring | 戒指 | ...along the ring... |
+| throat | 喉咙 | ...at her throat... |
+| read | 读 | ...you read it yet? |
 
 ## 一句话总结
 

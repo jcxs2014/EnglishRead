@@ -91,81 +91,13 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ends | 结束 | This is how it ends. |
-| candles | 蜡烛 | …candles burning… |
-| sill | 窗台 | …on the sill… |
-| shadows | 阴影 | …long shadows… |
-| window | 窗户 | …open window… |
-| summer | 夏天 | …first blush of summer… |
-| home | 家 | …is home. |
-| love | 爱 | …is love. |
-| forgotten | 忘记的 | …forgotten something. |
-| worst | 最糟糕的 | …worst part. |
-| man | 男人 | …not a man. |
-| life | 生命 | …not a life. |
-| games | 游戏 | …games, and battles… |
-| battles | 战斗 | …games, and battles… |
-| war | 战争 | …all a kind of war. |
-| teeth | 牙齿 | …like teeth… |
-| skin | 皮肤 | …against her skin. |
-| yours | 你的 | "I am not yours,"… |
-| together | 一起 | …we are together. |
-| belong | 属于 | …belong together. |
-| love | 爱 | "Do you love me?"… |
-| let me go | 让我走 | "Then let me go." |
-| holding | 持有 | …not holding you here. |
-| free | 自由的 | "Set me free." |
-| bend | 弯曲 | …bend it.” |
-| change | 改变 | …change the terms.” |
-| terms | 条款 | …change the terms.” |
-| surrender | 投降 | …surrender.” |
-| word | 词 | …a cold shock. |
-| curtain | 幕布 | …A curtain falling… |
-| play | 戏剧 | …on a play… |
+| surrender | 投降 | “All you have to do is surrender.” |
+| terms | 条款 | “Perhaps I could change the terms.” |
+| curtain | 幕布 | A curtain falling on a play… |
 | stagings | 舞台 | …the stagings… |
-| actors | 演员 | …trained actors… |
-| order | 命令 | …An order whispered… |
-| warning | 警告 | …A warning given… |
-| demand | 要求 | …A demand made… |
-| peace | 和平 | …peace instead of war. |
-| idiot | 白痴 | …think me an idiot, Luc.” |
-| patience | 耐心 | …had the patience. |
-| chase | 追逐 | …fond of the chase.” |
-| monster | 怪物 | …a monster, Luc.” |
-| kindness | 善良 | …even kindness. |
-| game | 游戏 | …another game.” |
-| tiresome | 无聊的 | …tiresome game it’s been.” |
-| crack | 裂开 | …cracked before… |
-| breaking | 破碎 | …now she is breaking. |
-| hand | 手 | …different hand.” |
-| everything | 一切 | …given you everything.” |
-| real | 真实的 | …None of it was real!” |
-| cry | 哭 | …will not cry. |
-| suffering | 受苦 | …seeing her suffer. |
-| fight | 战斗 | …the fight begins. |
-| instant | 瞬间 | …not the work of an instant. |
-| days | 天 | …over days, or weeks… |
-| weeks | 周 | …over days, or weeks… |
 | kindling | 引火物 | …gathering their kindling… |
 | flames | 火焰 | …stoking their flames. |
-| centuries | 世纪 | …forged over centuries. |
-| world | 世界 | …turning of the world… |
-| era | 时代 | …passing of an era… |
-| collision | 碰撞 | …collision of a girl and the dark. |
-| fire | 火 | …how the fire started. |
-| candles | 蜡烛 | …candles she swept… |
-| lamp | 灯 | …lamp she tore… |
 | spite | 恶意 | …last act of spite. |
-| strength | 力量 | …strength to ruin anything… |
-| ruin | 毁灭 | …ruin anything… |
-| Bourbon | 波旁（街名） | …on Bourbon Street… |
-| flames | 火焰 | …go up in flames… |
-| firefighters | 消防员 | …firefighters come… |
-| ashes | 灰烬 | …only ashes. |
-| smoke | 烟 | …up in smoke. |
-| key | 钥匙 | …key in her pocket. |
-| pocket | 口袋 | …key in her pocket. |
-| throat | 喉咙 | …at her throat. |
 | ruins | 废墟 | …smoking ruins… |
 | walks away | 走开 | …walks away. |
 
@@ -173,165 +105,34 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ends | 结束 | …ends. |
-| candles | 蜡烛 | …candles… |
-| sill | 窗台 | …sill… |
-| shadows | 阴影 | …shadows… |
-| window | 窗户 | …window… |
-| summer | 夏天 | …summer… |
-| home | 家 | …home. |
-| love | 爱 | …love. |
-| forgotten | 忘记的 | …forgotten… |
-| worst | 最糟糕的 | …worst… |
-| man | 男人 | …man. |
-| life | 生命 | …life. |
-| games | 游戏 | …games… |
-| battles | 战斗 | …battles… |
-| war | 战争 | …war. |
-| teeth | 牙齿 | …teeth… |
-| skin | 皮肤 | …skin. |
-| yours | 你的 | …yours… |
-| together | 一起 | …together. |
-| belong | 属于 | …belong… |
-| love | 爱 | …love… |
-| let me go | 让我走 | …let me go.” |
-| holding | 持有 | …holding… |
-| free | 自由的 | …free.” |
-| bend | 弯曲 | …bend… |
-| change | 改变 | …change… |
-| terms | 条款 | …terms.” |
-| surrender | 投降 | …surrender.” |
-| word | 词 | …word. |
-| curtain | 幕布 | …curtain… |
-| play | 戏剧 | …play… |
-| stagings | 舞台 | …stagings… |
-| actors | 演员 | …actors… |
-| order | 命令 | …order… |
-| warning | 警告 | …warning… |
-| demand | 要求 | …demand… |
-| peace | 和平 | …peace… |
-| idiot | 白痴 | …idiot… |
-| patience | 耐心 | …patience. |
-| chase | 追逐 | …chase.” |
-| monster | 怪物 | …monster… |
-| kindness | 善良 | …kindness. |
-| game | 游戏 | …game.” |
-| tiresome | 无聊的 | …tiresome… |
-| crack | 裂开 | …crack… |
-| breaking | 破碎 | …breaking. |
-| hand | 手 | …hand.” |
-| everything | 一切 | …everything.” |
-| real | 真实的 | …real!” |
-| cry | 哭 | …cry. |
-| suffering | 受苦 | …suffer. |
-| fight | 战斗 | …fight… |
-| instant | 瞬间 | …instant. |
-| days | 天 | …days… |
-| weeks | 周 | …weeks… |
-| kindling | 引火物 | …kindling… |
-| flames | 火焰 | …flames. |
-| centuries | 世纪 | …centuries. |
-| world | 世界 | …world… |
-| era | 时代 | …era… |
-| collision | 碰撞 | …collision… |
-| fire | 火 | …fire… |
-| candles | 蜡烛 | …candles… |
-| lamp | 灯 | …lamp… |
-| spite | 恶意 | …spite. |
-| strength | 力量 | …strength… |
-| ruin | 毁灭 | …ruin… |
-| Bourbon | 波旁 | …Bourbon… |
-| flames | 火焰 | …flames… |
-| firefighters | 消防员 | …firefighters… |
-| ashes | 灰烬 | …ashes. |
-| smoke | 烟 | …smoke. |
-| key | 钥匙 | …key… |
-| pocket | 口袋 | …pocket. |
-| throat | 喉咙 | …throat. |
-| ruins | 废墟 | …ruins… |
-| walks away | 走开 | …walks away. |
+| sill | 窗台 | …on the sill… |
+| shadows | 阴影 | …long shadows… |
+| forgotten | 忘记的 | …forgotten something. |
+| worst | 最糟糕的 | …worst part. |
+| bend | 弯曲 | …bend it.” |
+| tiresome | 无聊的 | …tiresome game it’s been.” |
+| breaking | 破碎 | …now she is breaking. |
+| patience | 耐心 | …had the patience. |
+| chase | 追逐 | …fond of the chase.” |
+| monster | 怪物 | …a monster, Luc.” |
+| kindness | 善良 | …even kindness. |
+| collision | 碰撞 | …collision of a girl and the dark. |
+| firefighters | 消防员 | …firefighters come… |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ends | 结束 | …ends. |
-| candles | 蜡烛 | …candles… |
-| sill | 窗台 | …sill… |
-| shadows | 阴影 | …shadows… |
-| window | 窗户 | …window… |
-| summer | 夏天 | …summer… |
-| home | 家 | …home. |
-| love | 爱 | …love. |
-| forgotten | 忘记的 | …forgotten… |
-| worst | 最糟糕的 | …worst… |
-| man | 男人 | …man. |
-| life | 生命 | …life. |
-| games | 游戏 | …games… |
-| battles | 战斗 | …battles… |
-| war | 战争 | …war. |
-| teeth | 牙齿 | …teeth… |
-| skin | 皮肤 | …skin. |
-| yours | 你的 | …yours… |
-| together | 一起 | …together. |
-| belong | 属于 | …belong… |
-| love | 爱 | …love… |
-| let me go | 让我走 | …let me go.” |
-| holding | 持有 | …holding… |
-| free | 自由的 | …free.” |
-| bend | 弯曲 | …bend… |
-| change | 改变 | …change… |
-| terms | 条款 | …terms.” |
-| surrender | 投降 | …surrender.” |
-| word | 词 | …word. |
-| curtain | 幕布 | …curtain… |
-| play | 戏剧 | …play… |
-| stagings | 舞台 | …stagings… |
-| actors | 演员 | …actors… |
-| order | 命令 | …order… |
-| warning | 警告 | …warning… |
-| demand | 要求 | …demand… |
-| peace | 和平 | …peace… |
-| idiot | 白痴 | …idiot… |
-| patience | 耐心 | …patience. |
-| chase | 追逐 | …chase.” |
-| monster | 怪物 | …monster… |
-| kindness | 善良 | …kindness. |
-| game | 游戏 | …game.” |
-| tiresome | 无聊的 | …tiresome… |
-| crack | 裂开 | …crack… |
-| breaking | 破碎 | …breaking. |
-| hand | 手 | …hand.” |
-| everything | 一切 | …everything.” |
-| real | 真实的 | …real!” |
-| cry | 哭 | …cry. |
-| suffering | 受苦 | …suffer. |
-| fight | 战斗 | …fight… |
-| instant | 瞬间 | …instant. |
-| days | 天 | …days… |
-| weeks | 周 | …weeks… |
-| kindling | 引火物 | …kindling… |
-| flames | 火焰 | …flames. |
-| centuries | 世纪 | …centuries. |
-| world | 世界 | …world… |
-| era | 时代 | …era… |
-| collision | 碰撞 | …collision… |
-| fire | 火 | …fire… |
-| candles | 蜡烛 | …candles… |
-| lamp | 灯 | …lamp… |
-| spite | 恶意 | …spite. |
-| strength | 力量 | …strength… |
-| ruin | 毁灭 | …ruin… |
-| Bourbon | 波旁 | …Bourbon… |
-| flames | 火焰 | …flames… |
-| firefighters | 消防员 | …firefighters… |
-| ashes | 灰烬 | …ashes. |
-| smoke | 烟 | …smoke. |
-| key | 钥匙 | …key… |
-| pocket | 口袋 | …pocket. |
-| throat | 喉咙 | …throat. |
-| ruins | 废墟 | …ruins… |
-| walks away | 走开 | …walks away. |
+| candles | 蜡烛 | …candles burning… |
+| window | 窗户 | …open window… |
+| summer | 夏天 | …first blush of summer… |
+| belong | 属于 | …belong together. |
+| let me go | 让我走 | “Then let me go.” |
+| free | 自由的 | “Set me free.” |
+| fire | 火 | …how the fire started. |
+| ashes | 灰烬 | …only ashes. |
+| smoke | 烟 | …up in smoke. |
+| throat | 喉咙 | …at her throat. |
 
 ## 一句话总结
 

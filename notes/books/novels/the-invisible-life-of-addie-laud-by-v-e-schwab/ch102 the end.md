@@ -79,369 +79,43 @@ Addie 在说什么，但手表停止了移动，它现在毫无重量地挂在�
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| almost time | 几乎到了 | It is almost time… |
-| roof | 屋顶 | …on the roof. |
-| full-circle | 圆满的 | …full-circle moment… |
-| feels right | 感觉对 | …it feels right. |
 | grounding | 接地的 | …grounding force… |
-| storm | 风暴 | …rising storm. |
-| watch | 手表 | …on the watch… |
-| midnight | 午夜 | …from midnight… |
-| Bea | 碧翠丝（人名） | …Bea’s voice… |
-| death | 死亡 | …your own death. |
-| early | 早 | …arrive early… |
-| smiles | 笑 | …Henry smiles… |
-| wishes | 希望 | …wishes he had said… |
-| good-byes | 告别 | …made his good-byes… |
-| sorry | 对不起 | …he is sorry… |
-| glad | 高兴的 | …glad they have each other. |
-| tightens | 变紧 | …hand tightens… |
-| soul | 灵魂 | …lose a soul. |
-| heart attack | 心脏病发作 | …like a heart attack… |
-| falling asleep | 入睡 | …as easy as falling asleep. |
-| forms | 形式 | …so many forms. |
-| darkness | 黑暗 | …darkness appear… |
-| chest | 胸膛 | …into his chest… |
-| ribs | 肋骨 | …between his ribs… |
-| magic trick | 魔术 | …like a magic trick? |
-| force | 力 | …some force compel… |
-| edge | 边缘 | …edge of the roof… |
-| street | 街道 | …on the street below… |
-| jumped | 跳 | …as if he’d jumped? |
-| ready | 准备好的 | He is ready. |
-| not ready | 没准备好 | He is not ready. |
-| ready | 准备好的 | He wasn’t ready… |
-| music | 音乐 | …Music streams… |
-| tinny | 尖锐的 | …thin and tinny… |
-| window | 窗户 | …open window… |
-| thoughts | 想法 | …pulls his thoughts back… |
-| death | 死亡 | …from death… |
-| edge | 边缘 | …edge of the roof… |
-| girl | 女孩 | …the girl… |
-| dance | 跳舞 | …telling him to dance… |
-| close | 近 | …pulls her close… |
-| summer | 夏天 | …smells of summer… |
-| time | 时间 | …smells of time… |
-| home | 家 | …smells of home. |
-| promised | 承诺的 | …has promised… |
-| end | 结束 | …until the end. |
-| echoes | 回响 | …echoes through his head… |
-| clock | 钟 | …like the striking of a clock… |
-| vanishing | 消失 | …vanishing so fast. |
-| dozen | 十二 | …a dozen things… |
-| lost | 迷失的 | …lost and scared… |
-| scared | 害怕的 | …lost and scared… |
-| grateful | 感激的 | …and grateful… |
-| sorry | 对不起 | …sorry and happy… |
-| happy | 快乐的 | …sorry and happy… |
-| afraid | 害怕的 | …and afraid. |
-| alone | 独自的 | …not alone. |
-| rain | 雨 | …rain again… |
-| damp | 潮湿的 | …gone damp… |
-| metallic | 金属的 | …metallic scent… |
-| scent | 气味 | …metallic scent… |
-| storms | 风暴 | …storms in the city… |
-| symmetry | 对称 | …something to be said for symmetry. |
-| circle | 圆圈 | …turn in a slow circle… |
-| slept | 睡 | …not slept well… |
-| legs | 腿 | …legs heavy… |
-| heavy | 沉重的 | …legs heavy… |
-| mind | 头脑 | …mind too slow… |
-| slow | 慢的 | …mind too slow… |
-| minutes | 分钟 | …minutes speeding up… |
-| speeding | 加速 | …minutes speeding up… |
-| louder | 更大声 | …music were louder… |
-| lighter | 更亮 | …sky were lighter… |
-| more time | 更多时间 | …a little more time. |
-| ready | 准备好的 | …ready to die. |
-| die | 死 | …ready to die. |
-| time | 时间 | …it is time. |
-| time | 时间 | …it is time. |
-| saying | 说 | …saying something… |
-| watch | 手表 | …watch has stopped moving… |
-| stopped | 停止 | …watch has stopped moving… |
 | weightless | 无重量 | …hangs weightless… |
-| time | 时间 | …it is time… |
 | slipping | 滑动 | …feel himself slipping… |
-| edges | 边缘 | …edges of his mind… |
-| soft | 柔软的 | …going soft… |
-| night | 夜晚 | …night heavy… |
-| stranger | 陌生人 | …stranger will step out… |
-| dark | 黑暗 | …out of the dark. |
-| guiding | 引导 | …guiding his face… |
-| face | 脸 | …face to hers… |
-| saying | 说 | …saying something… |
-| good-bye | 再见 | …afraid it’s a good-bye… |
-| hold on | 抓住 | …hold on to this moment… |
-| moment | 时刻 | …this moment… |
-| last | 持续 | …make it last… |
-| still | 仍然 | …will it still… |
-| freeze frame | 定格 | …into a freeze frame… |
-| end | 结束 | …let that be the end… |
-| darkness | 黑暗 | …not darkness… |
-| nothing | 什么也不是 | …not nothing… |
 | permanent | 永久的 | …a permanent moment. |
-| memory | 记忆 | …A memory… |
+| freeze frame | 定格 | …into a freeze frame… |
 | amber | 琥珀 | …trapped in amber… |
-| glass | 玻璃 | …in glass… |
-| time | 时间 | …in time. |
-| speaking | 说 | …still speaking. |
-| promised | 承诺的 | …promised you would listen… |
-| listen | 听 | …you would listen… |
-| write it down | 写下来 | …write it down.” |
-| understand | 理解 | …doesn’t understand. |
-| journals | 日记 | …journals are on the shelf. |
-| shelf | 架子 | …on the shelf. |
-| story | 故事 | …written her story… |
-| shaking | 摇 | …shaking her head. |
-| head | 头 | …shaking her head. |
-| how it ends | 结局 | …how it ends.” |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| almost | 几乎 | …almost… |
-| time | 时间 | …time. |
-| roof | 屋顶 | …roof. |
-| full-circle | 圆满的 | …full-circle… |
-| feels right | 感觉对 | …feels right. |
-| grounding | 接地的 | …grounding… |
-| storm | 风暴 | …storm. |
-| watch | 手表 | …watch… |
-| midnight | 午夜 | …midnight… |
-| Bea | 碧翠丝 | …Bea… |
-| death | 死亡 | …death. |
-| early | 早 | …early… |
-| smiles | 笑 | …smiles… |
-| wishes | 希望 | …wishes… |
-| good-byes | 告别 | …good-byes… |
-| sorry | 对不起 | …sorry… |
-| glad | 高兴的 | …glad… |
-| tightens | 变紧 | …tightens… |
-| soul | 灵魂 | …soul. |
-| heart attack | 心脏病发作 | …heart attack… |
-| falling asleep | 入睡 | …falling asleep. |
-| forms | 形式 | …forms. |
-| darkness | 黑暗 | …darkness… |
-| chest | 胸膛 | …chest… |
-| ribs | 肋骨 | …ribs… |
-| magic trick | 魔术 | …magic trick? |
-| force | 力 | …force… |
-| edge | 边缘 | …edge… |
-| street | 街道 | …street… |
-| jumped | 跳 | …jumped? |
-| ready | 准备好的 | …ready. |
-| not ready | 没准备好 | …not ready. |
-| ready | 准备好的 | …ready… |
-| music | 音乐 | …music… |
-| tinny | 尖锐的 | …tinny… |
-| window | 窗户 | …window… |
-| thoughts | 想法 | …thoughts… |
-| death | 死亡 | …death… |
-| edge | 边缘 | …edge… |
-| girl | 女孩 | …girl… |
-| dance | 跳舞 | …dance… |
-| close | 近 | …close… |
-| summer | 夏天 | …summer… |
-| time | 时间 | …time… |
-| home | 家 | …home. |
-| promised | 承诺的 | …promised… |
-| end | 结束 | …end. |
-| echoes | 回响 | …echoes… |
-| clock | 钟 | …clock… |
-| vanishing | 消失 | …vanishing… |
-| dozen | 十二 | …dozen… |
-| lost | 迷失的 | …lost… |
-| scared | 害怕的 | …scared… |
-| grateful | 感激的 | …grateful… |
-| sorry | 对不起 | …sorry… |
-| happy | 快乐的 | …happy… |
-| afraid | 害怕的 | …afraid. |
-| alone | 独自的 | …alone. |
-| rain | 雨 | …rain… |
-| damp | 潮湿的 | …damp… |
-| metallic | 金属的 | …metallic… |
-| scent | 气味 | …scent… |
-| storms | 风暴 | …storms… |
-| symmetry | 对称 | …symmetry. |
-| circle | 圆圈 | …circle… |
-| slept | 睡 | …slept… |
-| legs | 腿 | …legs… |
-| heavy | 沉重的 | …heavy… |
-| mind | 头脑 | …mind… |
-| slow | 慢的 | …slow… |
-| minutes | 分钟 | …minutes… |
-| speeding | 加速 | …speeding… |
-| louder | 更大声 | …louder… |
-| lighter | 更亮 | …lighter… |
-| more time | 更多时间 | …more time. |
-| ready | 准备好的 | …ready. |
-| die | 死 | …die. |
-| time | 时间 | …time. |
-| time | 时间 | …time. |
-| saying | 说 | …saying… |
-| watch | 手表 | …watch… |
-| stopped | 停止 | …stopped… |
-| weightless | 无重量 | …weightless… |
-| time | 时间 | …time… |
-| slipping | 滑动 | …slipping… |
-| edges | 边缘 | …edges… |
-| soft | 柔软的 | …soft… |
-| night | 夜晚 | …night… |
-| stranger | 陌生人 | …stranger… |
-| dark | 黑暗 | …dark. |
-| guiding | 引导 | …guiding… |
-| face | 脸 | …face… |
-| saying | 说 | …saying… |
-| good-bye | 再见 | …good-bye… |
-| hold on | 抓住 | …hold on… |
-| moment | 时刻 | …moment… |
-| last | 持续 | …last… |
-| still | 仍然 | …still… |
-| freeze frame | 定格 | …freeze frame… |
-| end | 结束 | …end… |
-| darkness | 黑暗 | …darkness… |
-| nothing | 什么也不是 | …nothing… |
-| permanent | 永久的 | …permanent. |
-| memory | 记忆 | …memory… |
-| amber | 琥珀 | …amber… |
-| glass | 玻璃 | …glass… |
-| time | 时间 | …time. |
-| speaking | 说 | …speaking. |
-| promised | 承诺的 | …promised… |
-| listen | 听 | …listen… |
-| write it down | 写下来 | …write it down.” |
-| understand | 理解 | …understand. |
-| journals | 日记 | …journals… |
-| shelf | 架子 | …shelf. |
-| story | 故事 | …story… |
-| shaking | 摇 | …shaking… |
-| head | 头 | …head. |
-| how it ends | 结局 | …how it ends.” |
+| till | 收银台 | …moved off to the till… |
+| roof | 屋顶 | …on the roof. |
+| midnight | 午夜 | …from midnight… |
+| death | 死亡 | …your own death. |
+| ready | 准备好的 | He is ready. |
+| not ready | 没准备好 | He is not ready. |
+| dozen | 十二 | …a dozen things… |
+| lost | 迷失的 | …lost and scared… |
+| scared | 害怕的 | …lost and scared… |
+| grateful | 感激的 | …and grateful… |
+| damp | 潮湿的 | …gone damp… |
+| metallic | 金属的 | …metallic scent… |
+| symmetry | 对称 | …something to be said for symmetry. |
+| circle | 圆圈 | …turn in a slow circle… |
+| sober | 清醒的 | …face them sober. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| almost | 几乎 | …almost… |
-| time | 时间 | …time. |
-| roof | 屋顶 | …roof. |
-| full-circle | 圆满的 | …full-circle… |
-| feels right | 感觉对 | …feels right. |
-| grounding | 接地的 | …grounding… |
-| storm | 风暴 | …storm. |
-| watch | 手表 | …watch… |
-| midnight | 午夜 | …midnight… |
-| Bea | 碧翠丝 | …Bea… |
-| death | 死亡 | …death. |
-| early | 早 | …early… |
-| smiles | 笑 | …smiles… |
-| wishes | 希望 | …wishes… |
-| good-byes | 告别 | …good-byes… |
-| sorry | 对不起 | …sorry… |
-| glad | 高兴的 | …glad… |
-| tightens | 变紧 | …tightens… |
-| soul | 灵魂 | …soul. |
-| heart attack | 心脏病发作 | …heart attack… |
-| falling asleep | 入睡 | …falling asleep. |
-| forms | 形式 | …forms. |
-| darkness | 黑暗 | …darkness… |
-| chest | 胸膛 | …chest… |
-| ribs | 肋骨 | …ribs… |
-| magic trick | 魔术 | …magic trick? |
-| force | 力 | …force… |
-| edge | 边缘 | …edge… |
-| street | 街道 | …street… |
-| jumped | 跳 | …jumped? |
-| ready | 准备好的 | …ready. |
-| not ready | 没准备好 | …not ready. |
-| ready | 准备好的 | …ready… |
-| music | 音乐 | …music… |
-| tinny | 尖锐的 | …tinny… |
-| window | 窗户 | …window… |
-| thoughts | 想法 | …thoughts… |
-| death | 死亡 | …death… |
-| edge | 边缘 | …edge… |
-| girl | 女孩 | …girl… |
-| dance | 跳舞 | …dance… |
-| close | 近 | …close… |
-| summer | 夏天 | …summer… |
-| time | 时间 | …time… |
-| home | 家 | …home. |
-| promised | 承诺的 | …promised… |
-| end | 结束 | …end. |
-| echoes | 回响 | …echoes… |
-| clock | 钟 | …clock… |
-| vanishing | 消失 | …vanishing… |
-| dozen | 十二 | …dozen… |
-| lost | 迷失的 | …lost… |
-| scared | 害怕的 | …scared… |
-| grateful | 感激的 | …grateful… |
-| sorry | 对不起 | …sorry… |
-| happy | 快乐的 | …happy… |
-| afraid | 害怕的 | …afraid. |
-| alone | 独自的 | …alone. |
-| rain | 雨 | …rain… |
-| damp | 潮湿的 | …damp… |
-| metallic | 金属的 | …metallic… |
-| scent | 气味 | …scent… |
-| storms | 风暴 | …storms… |
-| symmetry | 对称 | …symmetry. |
-| circle | 圆圈 | …circle… |
-| slept | 睡 | …slept… |
-| legs | 腿 | …legs… |
-| heavy | 沉重的 | …heavy… |
-| mind | 头脑 | …mind… |
-| slow | 慢的 | …slow… |
-| minutes | 分钟 | …minutes… |
-| speeding | 加速 | …speeding… |
-| louder | 更大声 | …louder… |
-| lighter | 更亮 | …lighter… |
-| more time | 更多时间 | …more time. |
-| ready | 准备好的 | …ready. |
-| die | 死 | …die. |
-| time | 时间 | …time. |
-| time | 时间 | …time. |
-| saying | 说 | …saying… |
-| watch | 手表 | …watch… |
-| stopped | 停止 | …stopped… |
-| weightless | 无重量 | …weightless… |
-| time | 时间 | …time… |
-| slipping | 滑动 | …slipping… |
-| edges | 边缘 | …edges… |
-| soft | 柔软的 | …soft… |
-| night | 夜晚 | …night… |
-| stranger | 陌生人 | …stranger… |
-| dark | 黑暗 | …dark. |
-| guiding | 引导 | …guiding… |
-| face | 脸 | …face… |
-| saying | 说 | …saying… |
-| good-bye | 再见 | …good-bye… |
-| hold on | 抓住 | …hold on… |
-| moment | 时刻 | …moment… |
-| last | 持续 | …last… |
-| still | 仍然 | …still… |
-| freeze frame | 定格 | …freeze frame… |
-| end | 结束 | …end… |
-| darkness | 黑暗 | …darkness… |
-| nothing | 什么也不是 | …nothing… |
-| permanent | 永久的 | …permanent. |
-| memory | 记忆 | …memory… |
-| amber | 琥珀 | …amber… |
-| glass | 玻璃 | …glass… |
-| time | 时间 | …time. |
-| speaking | 说 | …speaking. |
-| promised | 承诺的 | …promised… |
-| listen | 听 | …listen… |
-| write it down | 写下来 | …write it down.” |
-| understand | 理解 | …understand. |
-| journals | 日记 | …journals… |
-| shelf | 架子 | …shelf. |
-| story | 故事 | …story… |
-| shaking | 摇 | …shaking… |
-| head | 头 | …head. |
-| how it ends | 结局 | …how it ends.” |
+| watch | 手表 | …on the watch… |
+| Bea | 碧翠丝 | …Bea's voice… |
+| early | 早 | …arrive early… |
+| agent | 代理人 | …get an agent… |
+| auction | 拍卖 | …go to auction… |
+| agree | 同意 | …they will agree. |
 
 ## 一句话总结
 

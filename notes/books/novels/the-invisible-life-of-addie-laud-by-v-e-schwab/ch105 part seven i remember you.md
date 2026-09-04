@@ -79,163 +79,51 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Title | 标题 | Title of Piece:… |
-| Girl | 女孩 | …The Girl… |
-| Got Away | 逃离 | …Who Got Away |
-| Description | 描述 | Description:… |
-| Collection | 集合 | …Collection of… |
-| photographs | 照片 | …six (6) photographs… |
-| girl | 女孩 | …a girl in motion… |
-| motion | 运动 | …in motion… |
-| features | 特征 | …her features… |
-| erased | 抹去 | …erased… |
-| obscured | 遮蔽的 | …obscured… |
-| unreadable | 无法辨认的 | …or otherwise unreadable. |
-| final | 最后的 | …The final photo… |
-| different | 不同的 | …is different. |
-| living room | 客厅 | …living room floor… |
-| floor | 地板 | …living room floor… |
-| edge | 边缘 | …edge of a table… |
-| table | 桌子 | …a table… |
-| books | 书 | …a pile of books… |
-| feet | 脚 | …a pair of feet… |
-| visible | 可见的 | …visible at the bottom. |
-| Background | 背景 | Background:… |
-| subject | 主题 | …subject of the photos… |
-| speculation | 猜测 | …intense speculation… |
-| author | 作者 | …the author's relationship… |
-| relationship | 关系 | …relationship to the source material. |
-| flash | 闪光灯 | …The flash has erased… |
-| details | 细节 | …all meaningful details… |
-| medium | 媒介 | …but the medium… |
-| remarkable | 引人注目的 | …makes the pieces remarkable. |
-| photography | 摄影 | …standard photography… |
-| exposure | 曝光 | …long exposure… |
-| motion | 运动 | …effect of motion… |
-| Polaroid | 宝丽来 | …but the Polaroid's… |
-| shutter | 快门 | …fixed shutter speed… |
-| speed | 速度 | …shutter speed… |
-| illusion | 幻觉 | …illusion of movement… |
-| movement | 运动 | …illusion of movement… |
-| impressive | 令人印象深刻的 | …all the more impressive. |
-| Value | 价值 | Estimated Value:… |
-| Not for sale | 不出售 | Not for sale |
-| display | 展示 | …on display at… |
-| Modern Museum of Art | 现代艺术博物馆 | …Modern Museum of Art… |
-| exhibit | 展览 | …exhibit In Search… |
-| Search | 寻找 | …In Search of… |
-| Real | 真实的 | …the Real Addie LaRue… |
-| curated | 策展 | …curated by… |
-| Beatrice Caldwell | 碧翠丝·考德威尔（人名） | …Beatrice Caldwell… |
-| Columbia | 哥伦比亚大学 | …PhD, Columbia. |
+| speculation | 猜测 | ...intense speculation... |
+| remarkable | 引人注目的 | ...makes the pieces remarkable. |
+| impressive | 令人印象深刻的 | ...all the more impressive. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Title | 标题 | …Title… |
-| Girl | 女孩 | …Girl… |
-| Got Away | 逃离 | …Got Away |
-| Description | 描述 | …Description… |
-| Collection | 集合 | …Collection… |
-| photographs | 照片 | …photographs… |
-| girl | 女孩 | …girl… |
-| motion | 运动 | …motion… |
-| features | 特征 | …features… |
-| erased | 抹去 | …erased… |
-| obscured | 遮蔽的 | …obscured… |
-| unreadable | 无法辨认的 | …unreadable. |
-| final | 最后的 | …final… |
-| different | 不同的 | …different. |
-| living room | 客厅 | …living room… |
-| floor | 地板 | …floor… |
-| edge | 边缘 | …edge… |
-| table | 桌子 | …table… |
-| books | 书 | …books… |
-| feet | 脚 | …feet… |
-| visible | 可见的 | …visible… |
-| Background | 背景 | …Background… |
-| subject | 主题 | …subject… |
-| speculation | 猜测 | …speculation… |
-| author | 作者 | …author… |
-| relationship | 关系 | …relationship… |
-| flash | 闪光灯 | …flash… |
-| details | 细节 | …details… |
-| medium | 媒介 | …medium… |
-| remarkable | 引人注目的 | …remarkable. |
-| photography | 摄影 | …photography… |
-| exposure | 曝光 | …exposure… |
-| motion | 运动 | …motion… |
-| Polaroid | 宝丽来 | …Polaroid… |
-| shutter | 快门 | …shutter… |
-| speed | 速度 | …speed… |
-| illusion | 幻觉 | …illusion… |
-| movement | 运动 | …movement… |
-| impressive | 令人印象深刻的 | …impressive. |
-| Value | 价值 | …Value… |
-| Not for sale | 不出售 | …Not for sale |
-| display | 展示 | …display… |
-| Modern Museum of Art | 现代艺术博物馆 | …Modern Museum of Art… |
-| exhibit | 展览 | …exhibit… |
-| Search | 寻找 | …Search… |
-| Real | 真实的 | …Real… |
-| curated | 策展 | …curated… |
-| Beatrice Caldwell | 碧翠丝·考德威尔 | …Beatrice Caldwell… |
-| Columbia | 哥伦比亚大学 | …Columbia. |
+| photographs | 照片 | ...six (6) photographs... |
+| depicting | 描绘 | ...depicting a girl... |
+| features | 特征 | ...her features... |
+| erased | 抹去 | ...erased... |
+| obscured | 遮蔽的 | ...obscured... |
+| unreadable | 无法辨认的 | ...unreadable. |
+| flash | 闪光灯 | ...The flash has erased... |
+| medium | 媒介 | ...but the medium... |
+| photography | 摄影 | ...standard photography... |
+| exposure | 曝光 | ...long exposure... |
+| illusion | 幻觉 | ...illusion of movement... |
+| movement | 运动 | ...illusion of movement... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Title | 标题 | …Title… |
-| Girl | 女孩 | …Girl… |
-| Got Away | 逃离 | …Got Away |
-| Description | 描述 | …Description… |
-| Collection | 集合 | …Collection… |
-| photographs | 照片 | …photographs… |
-| girl | 女孩 | …girl… |
-| motion | 运动 | …motion… |
-| features | 特征 | …features… |
-| erased | 抹去 | …erased… |
-| obscured | 遮蔽的 | …obscured… |
-| unreadable | 无法辨认的 | …unreadable. |
-| final | 最后的 | …final… |
-| different | 不同的 | …different. |
-| living room | 客厅 | …living room… |
-| floor | 地板 | …floor… |
-| edge | 边缘 | …edge… |
-| table | 桌子 | …table… |
-| books | 书 | …books… |
-| feet | 脚 | …feet… |
-| visible | 可见的 | …visible… |
-| Background | 背景 | …Background… |
-| subject | 主题 | …subject… |
-| speculation | 猜测 | …speculation… |
-| author | 作者 | …author… |
-| relationship | 关系 | …relationship… |
-| flash | 闪光灯 | …flash… |
-| details | 细节 | …details… |
-| medium | 媒介 | …medium… |
-| remarkable | 引人注目的 | …remarkable. |
-| photography | 摄影 | …photography… |
-| exposure | 曝光 | …exposure… |
-| motion | 运动 | …motion… |
-| Polaroid | 宝丽来 | …Polaroid… |
-| shutter | 快门 | …shutter… |
-| speed | 速度 | …speed… |
-| illusion | 幻觉 | …illusion… |
-| movement | 运动 | …movement… |
-| impressive | 令人印象深刻的 | …impressive. |
-| Value | 价值 | …Value… |
-| Not for sale | 不出售 | …Not for sale |
-| display | 展示 | …display… |
-| Modern Museum of Art | 现代艺术博物馆 | …Modern Museum of Art… |
-| exhibit | 展览 | …exhibit… |
-| Search | 寻找 | …Search… |
-| Real | 真实的 | …Real… |
-| curated | 策展 | …curated… |
-| Beatrice Caldwell | 碧翠丝·考德威尔 | …Beatrice Caldwell… |
-| Columbia | 哥伦比亚大学 | …Columbia. |
+| bookstore | 书店 | The bookstore is about to close. |
+| close | 关闭 | ...about to close. |
+| dark | 黑暗 | It gets dark early... |
+| early | 早 | ...early this time... |
+| year | 年 | ...this time of year... |
+| snow | 雪 | ...snow in the forecast... |
+| forecast | 预报 | ...in the forecast... |
+| London | 伦敦 | ...for London. |
+| clerks | 店员 | The various clerks bustle about... |
+| bustle | 忙着 | ...clerks bustle about... |
+| displays | 展示 | ...dismantling old displays... |
+| work | 工作 | ...finish their work... |
+| mist | 薄雾 | ...mist outside turns to frost. |
+| frost | 霜 | ...turns to frost. |
+| lingers | 徘徊 | She lingers nearby... |
+| thumb | 拇指 | ...thumb skating... |
+| skating | 滑行 | ...skating along the ring... |
+| ring | 戒指 | ...along the ring... |
+| throat | 喉咙 | ...at her throat... |
+| read | 读 | ...you read it yet? |
 
 ## 一句话总结
 

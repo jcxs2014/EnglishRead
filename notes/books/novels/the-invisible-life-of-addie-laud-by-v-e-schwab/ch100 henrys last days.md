@@ -91,337 +91,52 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| happiest | 最快乐的 | These are the happiest days of Henry's life. |
 | freedom | 自由 | …strange freedom… |
 | knowing | 知道 | …comfort in the knowing. |
-| end | 结束 | …end is rushing… |
-| falling | 坠落 | …falling toward it. |
-| scared | 害怕的 | …should be scared. |
-| storm | 风暴 | …storm clouds… |
-| clouds | 云 | …clouds to roll in… |
-| panic | 恐慌 | …panic to climb… |
-| chest | 胸口 | …inside his chest… |
-| afraid | 害怕的 | …not afraid. |
-| friends | 朋友 | …worried about his friends… |
-| bookstore | 书店 | …about the bookstore… |
-| cat | 猫 | …and the cat. |
 | calm | 平静的 | …strange calm… |
 | steadiness | 稳定 | …steadiness… |
 | relief | 宽慰 | …incredible relief… |
-| Addie | 艾迪（人名） | …found Addie… |
-| happy | 快乐的 | He is happy. |
-| ready | 准备的 | He is ready. |
-| afraid | 害怕的 | He is not afraid. |
-| upstate | 北州 | …go upstate. |
-| stars | 星星 | …see the stars. |
-| car | 汽车 | …rents a car… |
-| Hudson | 哈德逊河 | …up the Hudson… |
-| family | 家庭 | …met his family… |
-| Rosh Hashanah | 犹太新年 | …until Rosh Hashanah… |
-| gone | 离开的 | …gone by then. |
-| exit | 出口 | …this exit… |
-| good-bye | 再见 | …say good-bye. |
-| breathe | 呼吸 | …breathe again… |
-| fruit | 水果 | …fresh fruit… |
-| peaches | 桃子 | …buy peaches… |
-| sandwiches | 三明治 | …sandwiches… |
-| park | 公园 | …state park… |
-| trees | 树 | …beneath the trees… |
-| picnic | 野餐 | …make a picnic… |
-| stars | 星星 | …and the stars. |
-| tent | 帐篷 | …no tent… |
-| blanket | 毯子 | …on a blanket… |
-| Milky Way | 银河 | …Milky Way… |
-| deal | 交易 | …make the deal?" |
-| wars | 战争 | …through wars… |
-| revolution | 革命 | …revolution and rebirth. |
-| rebirth | 重生 | …revolution and rebirth. |
-| art | 艺术 | …works of art… |
-| marvels | 奇迹 | …seen marvels… |
-| mad | 疯狂的 | …gone mad… |
-| snowbanks | 雪堆 | …danced in snowbanks… |
-| frozen | 冻死 | …frozen to death… |
-| Seine | 塞纳河 | …along the Seine. |
-| darkness | 黑暗 | …darkness many times… |
-| human | 人类 | …human once. |
-| tired | 累的 | …tired. |
-| lived | 活过 | …has lived. |
-| good | 好的 | …all good or all bad… |
-| bad | 坏的 | …all good or all bad… |
-| messy | 混乱的 | …messier than that.” |
-| joy | 欢乐 | …joy worth… |
-| sorrow | 悲伤 | …stretches of sorrow? |
-| beauty | 美 | …beauty worth… |
-| pain | 痛苦 | …years of pain? |
-| Always | 永远 | "Always." |
-| asleep | 睡着的 | …beneath the stars… |
-| morning | 早晨 | …in the morning… |
-| season | 季节 | …another season… |
-| afraid | 害怕的 | …not afraid. |
-| weeks | 周 | …weeks turn into days. |
-| days | 天 | …weeks turn into days. |
-| good-byes | 告别 | …good-byes he has to make. |
-| Merchant | 商人（酒吧名） | …at the Merchant… |
-| Bea | 碧翠丝（人名） | …Bea and Robbie… |
-| Robbie | 罗比（人名） | …Bea and Robbie… |
-| space | 空间 | …giving him space. |
-| remember | 记住 | …needs them to remember. |
-| normal | 正常的 | …painfully normal. |
-| thesis | 论文 | …thesis proposal… |
-| premiere | 首演 | …show's premiere… |
-| show | 演出 | …show's premiere… |
-| stage | 舞台 | …on the stage… |
-| Bowie | 鲍伊（人名） | …Bowie's flare… |
-| magic | 魔法 | …magic all his own. |
-| town | 城镇 | …out of town. |
-| parents | 父母 | …see his parents. |
-| cousins | 表亲 | …cousins visiting… |
-| weekend | 周末 | …the weekend… |
-| store | 商店 | …work the store. |
-| cat | 猫 | …feed the cat. |
-| yes | 是 | …say yes… |
-| tab | 账单 | …pays the tab… |
-| kiss | 亲吻 | …kisses his cheek… |
-| hug | 拥抱 | …hug… |
-| gone | 走了 | …they are gone. |
-| period | 句号 | …Not a period… |
-| ellipsis | 省略号 | …but an ellipsis… |
-| door | 门 | …door left open. |
-| sleep | 睡眠 | …drifting off to sleep. |
-| afraid | 害怕的 | …not afraid. |
-| okay | 好的 | …he is okay. |
-| doubt | 怀疑 | …begins to doubt… |
-| hand | 手 | …Addie's hand… |
-| home | 家 | …back home. |
-| bed | 床 | …climb into bed… |
-| storm | 风暴 | …against the storm. |
-| night | 夜晚 | …middle of the night… |
-| watch | 手表 | …the watch… |
-| midnight | 午夜 | …closer to midnight. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| happiest | 最快乐的 | …happiest days… |
-| freedom | 自由 | …freedom… |
-| knowing | 知道 | …knowing. |
-| end | 结束 | …end… |
-| falling | 坠落 | …falling… |
-| scared | 害怕的 | …scared. |
-| storm | 风暴 | …storm… |
-| clouds | 云 | …clouds… |
-| panic | 恐慌 | …panic… |
-| chest | 胸口 | …chest… |
-| afraid | 害怕的 | …afraid. |
-| friends | 朋友 | …friends… |
-| bookstore | 书店 | …bookstore… |
-| cat | 猫 | …cat. |
-| calm | 平静的 | …calm… |
-| steadiness | 稳定 | …steadiness… |
-| relief | 宽慰 | …relief… |
-| Addie | 艾迪 | …Addie… |
-| happy | 快乐的 | …happy. |
-| ready | 准备的 | …ready. |
-| afraid | 害怕的 | …afraid. |
-| upstate | 北州 | …upstate. |
-| stars | 星星 | …stars. |
-| car | 汽车 | …car… |
-| Hudson | 哈德逊河 | …Hudson… |
-| family | 家庭 | …family… |
-| Rosh Hashanah | 犹太新年 | …Rosh Hashanah… |
-| gone | 离开的 | …gone… |
-| exit | 出口 | …exit… |
-| good-bye | 再见 | …good-bye. |
-| breathe | 呼吸 | …breathe… |
-| fruit | 水果 | …fruit… |
-| peaches | 桃子 | …peaches… |
+| upstate | 北州 | …go upstate. |
+| stars | 星星 | …see the stars. |
+| Rosh Hashanah | 犹太新年 | …until Rosh Hashanah… |
+| peaches | 桃子 | …buy peaches… |
 | sandwiches | 三明治 | …sandwiches… |
-| park | 公园 | …park… |
-| trees | 树 | …trees… |
-| picnic | 野餐 | …picnic… |
-| stars | 星星 | …stars. |
-| tent | 帐篷 | …tent… |
-| blanket | 毯子 | …blanket… |
+| picnic | 野餐 | …make a picnic… |
+| tent | 帐篷 | …no tent… |
 | Milky Way | 银河 | …Milky Way… |
-| deal | 交易 | …deal… |
-| wars | 战争 | …wars… |
-| revolution | 革命 | …revolution… |
-| rebirth | 重生 | …rebirth. |
-| art | 艺术 | …art… |
-| marvels | 奇迹 | …marvels… |
-| mad | 疯狂的 | …mad… |
-| snowbanks | 雪堆 | …snowbanks… |
-| frozen | 冻死 | …frozen… |
-| Seine | 塞纳河 | …Seine. |
-| darkness | 黑暗 | …darkness… |
-| human | 人类 | …human… |
+| deal | 交易 | …make the deal? |
+| wars | 战争 | …through wars… |
+| revolution | 革命 | …revolution and rebirth. |
+| rebirth | 重生 | …revolution and rebirth. |
+| marvels | 奇迹 | …seen marvels… |
+| mad | 疯狂的 | …gone mad… |
+| snowbanks | 雪堆 | …danced in snowbanks… |
+| frozen | 冻死 | …frozen to death… |
 | tired | 累的 | …tired. |
-| lived | 活过 | …lived. |
-| good | 好的 | …good… |
-| bad | 坏的 | …bad… |
-| messy | 混乱的 | …messy… |
-| joy | 欢乐 | …joy… |
-| sorrow | 悲伤 | …sorrow… |
-| beauty | 美 | …beauty… |
-| pain | 痛苦 | …pain… |
-| Always | 永远 | …Always." |
-| asleep | 睡着的 | …asleep… |
-| morning | 早晨 | …morning… |
-| season | 季节 | …season… |
-| afraid | 害怕的 | …afraid. |
-| weeks | 周 | …weeks… |
-| days | 天 | …days… |
-| good-byes | 告别 | …good-byes… |
-| Merchant | 商人 | …Merchant… |
-| Bea | 碧翠丝 | …Bea… |
-| Robbie | 罗比 | …Robbie… |
-| space | 空间 | …space. |
-| remember | 记住 | …remember. |
-| normal | 正常的 | …normal. |
-| thesis | 论文 | …thesis… |
-| premiere | 首演 | …premiere… |
-| show | 演出 | …show… |
-| stage | 舞台 | …stage… |
-| Bowie | 鲍伊 | …Bowie… |
-| magic | 魔法 | …magic… |
-| town | 城镇 | …town. |
-| parents | 父母 | …parents. |
-| cousins | 表亲 | …cousins… |
-| weekend | 周末 | …weekend… |
-| store | 商店 | …store. |
-| cat | 猫 | …cat. |
-| yes | 是 | …yes… |
-| tab | 账单 | …tab… |
-| kiss | 亲吻 | …kiss… |
-| hug | 拥抱 | …hug… |
-| gone | 走了 | …gone. |
-| period | 句号 | …period… |
-| ellipsis | 省略号 | …ellipsis… |
-| door | 门 | …door… |
-| sleep | 睡眠 | …sleep. |
-| afraid | 害怕的 | …afraid. |
-| okay | 好的 | …okay. |
-| doubt | 怀疑 | …doubt… |
-| hand | 手 | …hand… |
-| home | 家 | …home. |
-| bed | 床 | …bed… |
-| storm | 风暴 | …storm. |
-| night | 夜晚 | …night… |
-| watch | 手表 | …watch… |
-| midnight | 午夜 | …midnight. |
+| lived | 活过 | …has lived. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| happiest | 最快乐的 | …happiest… |
-| freedom | 自由 | …freedom… |
-| knowing | 知道 | …knowing. |
-| end | 结束 | …end… |
-| falling | 坠落 | …falling… |
-| scared | 害怕的 | …scared. |
-| storm | 风暴 | …storm… |
-| clouds | 云 | …clouds… |
-| panic | 恐慌 | …panic… |
-| chest | 胸口 | …chest… |
-| afraid | 害怕的 | …afraid. |
-| friends | 朋友 | …friends… |
-| bookstore | 书店 | …bookstore… |
-| cat | 猫 | …cat. |
-| calm | 平静的 | …calm… |
-| steadiness | 稳定 | …steadiness… |
-| relief | 宽慰 | …relief… |
-| Addie | 艾迪 | …Addie… |
-| happy | 快乐的 | …happy. |
-| ready | 准备的 | …ready. |
-| afraid | 害怕的 | …afraid. |
-| upstate | 北州 | …upstate. |
-| stars | 星星 | …stars. |
-| car | 汽车 | …car… |
-| Hudson | 哈德逊河 | …Hudson… |
-| family | 家庭 | …family… |
-| Rosh Hashanah | 犹太新年 | …Rosh Hashanah… |
-| gone | 离开的 | …gone… |
-| exit | 出口 | …exit… |
-| good-bye | 再见 | …good-bye. |
-| breathe | 呼吸 | …breathe… |
-| fruit | 水果 | …fruit… |
-| peaches | 桃子 | …peaches… |
-| sandwiches | 三明治 | …sandwiches… |
-| park | 公园 | …park… |
-| trees | 树 | …trees… |
-| picnic | 野餐 | …picnic… |
-| stars | 星星 | …stars. |
-| tent | 帐篷 | …tent… |
-| blanket | 毯子 | …blanket… |
-| Milky Way | 银河 | …Milky Way… |
-| deal | 交易 | …deal… |
-| wars | 战争 | …wars… |
-| revolution | 革命 | …revolution… |
-| rebirth | 重生 | …rebirth. |
-| art | 艺术 | …art… |
-| marvels | 奇迹 | …marvels… |
-| mad | 疯狂的 | …mad… |
-| snowbanks | 雪堆 | …snowbanks… |
-| frozen | 冻死 | …frozen… |
-| Seine | 塞纳河 | …Seine. |
-| darkness | 黑暗 | …darkness… |
-| human | 人类 | …human… |
-| tired | 累的 | …tired. |
-| lived | 活过 | …lived. |
-| good | 好的 | …good… |
-| bad | 坏的 | …bad… |
-| messy | 混乱的 | …messy… |
-| joy | 欢乐 | …joy… |
-| sorrow | 悲伤 | …sorrow… |
-| beauty | 美 | …beauty… |
-| pain | 痛苦 | …pain… |
-| Always | 永远 | …Always." |
-| asleep | 睡着的 | …asleep… |
-| morning | 早晨 | …morning… |
-| season | 季节 | …season… |
-| afraid | 害怕的 | …afraid. |
-| weeks | 周 | …weeks… |
-| days | 天 | …days… |
-| good-byes | 告别 | …good-byes… |
-| Merchant | 商人 | …Merchant… |
-| Bea | 碧翠丝 | …Bea… |
-| Robbie | 罗比 | …Robbie… |
-| space | 空间 | …space. |
-| remember | 记住 | …remember. |
-| normal | 正常的 | …normal. |
-| thesis | 论文 | …thesis… |
-| premiere | 首演 | …premiere… |
-| show | 演出 | …show… |
-| stage | 舞台 | …stage… |
-| Bowie | 鲍伊 | …Bowie… |
-| magic | 魔法 | …magic… |
-| town | 城镇 | …town. |
-| parents | 父母 | …parents. |
-| cousins | 表亲 | …cousins… |
-| weekend | 周末 | …weekend… |
-| store | 商店 | …store. |
-| cat | 猫 | …cat. |
-| yes | 是 | …yes… |
-| tab | 账单 | …tab… |
-| kiss | 亲吻 | …kiss… |
-| hug | 拥抱 | …hug… |
-| gone | 走了 | …gone. |
-| period | 句号 | …period… |
-| ellipsis | 省略号 | …ellipsis… |
-| door | 门 | …door… |
-| sleep | 睡眠 | …sleep. |
-| afraid | 害怕的 | …afraid. |
-| okay | 好的 | …okay. |
-| doubt | 怀疑 | …doubt… |
-| hand | 手 | …hand… |
-| home | 家 | …home. |
-| bed | 床 | …bed… |
-| storm | 风暴 | …storm. |
-| night | 夜晚 | …night… |
-| watch | 手表 | …watch… |
-| midnight | 午夜 | …midnight. |
+| Hudson | 哈德逊河 | …up the Hudson… |
+| park | 公园 | …state park… |
+| trees | 树 | …beneath the trees… |
+| blanket | 毯子 | …on a blanket… |
+| joy | 欢乐 | …joy worth… |
+| sorrow | 悲伤 | …stretches of sorrow? |
+| beauty | 美 | …beauty worth… |
+| pain | 痛苦 | …years of pain? |
+| Always | 永远 | Always. |
+| Bea | 碧翠丝 | …Bea and Robbie… |
+| Robbie | 罗比 | …Bea and Robbie… |
+| good-bye | 再见 | …say good-bye. |
+| ellipsis | 省略号 | …but an ellipsis… |
 
 ## 一句话总结
 

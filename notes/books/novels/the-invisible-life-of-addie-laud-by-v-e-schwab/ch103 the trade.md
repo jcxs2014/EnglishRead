@@ -79,505 +79,54 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| surrender | 投降 | …surrender your soul? |
+| piqued | 激起 | …interest piqued. |
+| gloating | 自夸 | …when he is gloating. |
+| tailored | 量身定制的 | …tailored suit. |
+| fickle | 善变的 | …a fickle god… |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
 | decisions | 决定 | Some decisions happen… |
 | once | 一次 | …all at once. |
-| time | 时间 | …over time. |
-| deal | 交易 | …deal with the darkness… |
-| darkness | 黑暗 | …with the darkness… |
+| darkness | 黑暗 | …deal with the darkness… |
 | dreaming | 梦想 | …years of dreaming. |
-| love | 爱 | …falls in love… |
-| moment | 瞬间 | …in a moment… |
 | set him free | 让他自由 | …set him free. |
-| I remember you | 我记得你 | I remember you. |
-| matters | 重要 | …It doesn’t matter. |
-| slips | 溜 | …slips out of bed. |
-| bed | 床 | …out of bed. |
-| rolls | 翻滚 | …rolls over… |
-| wakes | 醒来 | …wakes enough… |
-| padding | 走 | …padding down the hall… |
-| dark | 黑暗 | …into the dark. |
-| two | 二 | …almost two… |
-| late | 晚 | …very late… |
-| early | 早 | …very early… |
-| Brooklyn | 布鲁克林 | …Brooklyn has quieted… |
-| murmur | 低语 | …to a murmur… |
-| blocks | 街区 | …two blocks… |
-| Merchant | 商人（酒吧名） | …Merchant bar. |
-| closing | 打烊 | …until closing… |
-| crowd | 人群 | …crowd thinned… |
-| thinned | 变薄 | …crowd thinned… |
-| stool | 凳子 | …takes a stool… |
-| shot | 一杯 | …shot of tequila. |
-| tequila | 龙舌兰 | …shot of tequila. |
-| hard liquor | 烈酒 | …hard liquor… |
-| downs | 喝下 | …downs the drink… |
-| warmth | 温暖 | …the warmth settle… |
-| chest | 胸口 | …in her chest… |
-| pocket | 口袋 | …into her pocket… |
 | ring | 戒指 | …finds the ring. |
-| fingers | 手指 | …fingers curl… |
 | wooden band | 木带 | …wooden band. |
-| draws | 拉 | …draws it out… |
-| counter | 柜台 | …on the counter. |
 | spins | 旋转 | …spins it… |
 | coin | 硬币 | …like a coin… |
-| heads | 正面 | …no heads or tails… |
-| tails | 反面 | …no heads or tails… |
-| yes | 是 | …no yes or no… |
-| no | 否 | …no yes or no… |
-| choice | 选择 | …no choice beyond… |
-| settles | 安定 | …it settles… |
-| falls | 倒下 | …it falls… |
 | wobble | 摇晃 | …begins to wobble… |
 | tip | 倾斜 | …and tip… |
-| hand | 手 | …a hand comes down… |
-| pressing | 压 | …pressing it flat… |
-| flat | 平 | …flat against the bar. |
 | smooth | 光滑的 | …smooth and strong… |
 | strong | 强壮的 | …smooth and strong… |
-| long | 长的 | …fingers long… |
-| drew | 画 | …she once drew them. |
-| Shouldn't | 不应该 | "Shouldn't you be…" |
-| humor | 幽默 | …no humor… |
-| eyes | 眼睛 | …Luc's eyes… |
-| sleeping | 睡觉 | "He's sleeping,"… |
-| cannot | 不能 | …and I cannot." |
 | withdrawn | 收回 | …hand has withdrawn… |
-| pale | 苍白的 | …pale circle… |
 | stroking | 抚摸 | …stroking her hair. |
-| hair | 头发 | …her hair. |
-| hurt | 痛 | "It will hurt.… |
-| pass | 过去 | …it will pass.… |
-| things | 事情 | …All things do." |
-| Except | 除了 | "Except for us,"… |
-| glad | 高兴的 | …I am glad… |
-| only | 只 | …only a year." |
-| sinks | 沉 | …Luc sinks… |
-| beside | 旁边 | …beside her. |
-| human | 人类 | …your human love? |
-| dreamed | 梦想 | …dreamed of?" |
-| truth | 真相 | …it is the truth. |
-| messy | 混乱的 | …messy. |
-| hard | 艰难的 | …hard. |
-| wonderful | 美好的 | …wonderful… |
-| strange | 奇怪的 | …strange… |
-| frightening | 恐惧的 | …frightening… |
-| fragile | 脆弱的 | …fragile… |
-| worth | 值得 | …worth every… |
-| moment | 时刻 | …single moment. |
-| hang | 悬 | …"no" hang in the air… |
-| air | 空气 | …in the air… |
-| weight | 重量 | …weight of… |
-| assumption | 假设 | …Luc's assumption. |
-| smug | 自鸣得意的 | …smug shade… |
-| green | 绿色 | …of green. |
-| deserve | 值得 | …doesn't deserve… |
-| die | 死 | …to die… |
-| prove | 证明 | …prove your point." |
-| point | 观点 | …your point." |
-| arrogance | 傲慢 | …arrogance flickers… |
-| flickers | 闪烁 | …arrogance flickers… |
-| anger | 愤怒 | …with anger. |
-| broken | 打破 | …cannot be broken." |
-| bent | 弯曲 | …could be bent… |
-| terms | 条款 | …terms rewritten. |
-| rewritten | 重写 | …terms rewritten. |
-| mean | 意思是 | …mean it? |
-| ploy | 阴谋 | …part of the ploy… |
-| surrender | 投降 | …to surrender?" |
-| darkens | 变暗 | …expression darkens. |
-| talking | 说 | …talking about… |
 | mercy | 慈悲 | …your mercy… |
 | charity | 慈善 | …no charity. |
 | trade | 交易 | …a trade. |
 | let him go | 让他走 | Let Henry go. |
 | let him live | 让他活 | Let him live. |
 | let him remember | 让他记住 | Let him remember me… |
-| soul | 灵魂 | …surrender your soul?" |
-| shadow | 阴影 | …shadow in his gaze… |
-| gaze | 凝视 | …in his gaze… |
-| hesitation | 犹豫 | …hesitation in the words… |
-| worry | 担心 | …than worry… |
-| has him | 有他 | …she has him. |
-| protest | 抗议 | …can protest… |
-| want | 想要 | …do not want it." |
-| brighten | 变亮 | …eyes brighten… |
-| interest | 兴趣 | …interest piqued. |
-| piqued | 激起 | …interest piqued. |
-| right | 对的 | …right," she says. |
-| anymore | 不再 | …Not anymore. |
-| tired | 累的 | …tired of losing. |
-| losing | 失去 | …tired of losing. |
-| mourning | 哀悼 | …mourning everything… |
-| love | 爱 | …try to love." |
-| cheek | 脸颊 | …touch Luc's cheek. |
-| lose | 失去 | …won't lose you. |
-| yours | 你的 | …will be yours… |
-| side | 边 | …by your side." |
-| breathe | 呼吸 | …cannot breathe. |
-| world | 世界 | …world tips… |
-| tips | 倾斜 | …world tips… |
-| falters | 摇晃 | …falters… |
-| falling | 倒下 | …threatening to fall. |
-| smiles | 微笑 | …Luc smiles… |
-| emerald | 翡翠 | …emerald with victory. |
-| victory | 胜利 | …with victory. |
-| accept | 接受 | "I accept." |
-| fold | 折叠 | …lets herself fold… |
-| bows | 鞠躬 | …bows her head… |
-| head | 头 | …against his chest… |
-| relief | 宽慰 | …in relief. |
-| fingers | 手指 | …fingers come up… |
-| chin | 下巴 | …beneath her chin… |
-| face | 脸 | …tipping her face… |
-| kisses | 亲吻 | …he kisses her… |
-| night | 夜晚 | …night they met… |
-| met | 相遇 | …they met… |
-| swift | 迅速的 | …swift… |
-| deep | 深的 | …deep… |
-| hungry | 饥饿的 | …hungry… |
-| teeth | 牙齿 | …his teeth skate… |
-| skate | 滑 | …skate across… |
-| lip | 嘴唇 | …bottom lip… |
-| copper | 铜 | …taste of copper… |
-| tongue | 舌头 | …on her tongue. |
-| done | 完成 | …it is done. |
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| decisions | 决定 | …decisions… |
-| once | 一次 | …once. |
-| time | 时间 | …time. |
-| deal | 交易 | …deal… |
-| darkness | 黑暗 | …darkness… |
-| dreaming | 梦想 | …dreaming. |
-| love | 爱 | …love… |
-| moment | 瞬间 | …moment… |
-| set him free | 让他自由 | …set him free. |
-| I remember you | 我记得你 | …I remember you. |
-| matters | 重要 | …matters… |
-| slips | 溜 | …slips… |
-| bed | 床 | …bed. |
-| rolls | 翻滚 | …rolls… |
-| wakes | 醒来 | …wakes… |
-| padding | 走 | …padding… |
-| dark | 黑暗 | …dark. |
-| two | 二 | …two… |
-| late | 晚 | …late… |
-| early | 早 | …early… |
-| Brooklyn | 布鲁克林 | …Brooklyn… |
-| murmur | 低语 | …murmur… |
-| blocks | 街区 | …blocks… |
-| Merchant | 商人 | …Merchant… |
-| closing | 打烊 | …closing… |
-| crowd | 人群 | …crowd… |
-| thinned | 变薄 | …thinned… |
-| stool | 凳子 | …stool… |
-| shot | 一杯 | …shot… |
-| tequila | 龙舌兰 | …tequila. |
-| hard liquor | 烈酒 | …hard liquor… |
-| downs | 喝下 | …downs… |
-| warmth | 温暖 | …warmth… |
-| chest | 胸口 | …chest… |
-| pocket | 口袋 | …pocket… |
-| ring | 戒指 | …ring. |
-| fingers | 手指 | …fingers… |
-| wooden band | 木带 | …wooden band. |
-| draws | 拉 | …draws… |
-| counter | 柜台 | …counter. |
-| spins | 旋转 | …spins… |
-| coin | 硬币 | …coin… |
-| heads | 正面 | …heads… |
-| tails | 反面 | …tails… |
-| yes | 是 | …yes… |
-| no | 否 | …no… |
-| choice | 选择 | …choice… |
-| settles | 安定 | …settles… |
-| falls | 倒下 | …falls… |
-| wobble | 摇晃 | …wobble… |
-| tip | 倾斜 | …tip… |
-| hand | 手 | …hand… |
-| pressing | 压 | …pressing… |
-| flat | 平 | …flat… |
-| smooth | 光滑的 | …smooth… |
-| strong | 强壮的 | …strong… |
-| long | 长的 | …long… |
-| drew | 画 | …drew… |
-| Shouldn't | 不应该 | …Shouldn't… |
-| humor | 幽默 | …humor… |
-| eyes | 眼睛 | …eyes… |
-| sleeping | 睡觉 | …sleeping… |
-| cannot | 不能 | …cannot." |
-| withdrawn | 收回 | …withdrawn… |
-| pale | 苍白的 | …pale… |
-| stroking | 抚摸 | …stroking… |
-| hair | 头发 | …hair. |
-| hurt | 痛 | …hurt… |
-| pass | 过去 | …pass… |
-| things | 事情 | …things… |
-| Except | 除了 | …Except… |
-| glad | 高兴的 | …glad… |
-| only | 只 | …only… |
-| sinks | 沉 | …sinks… |
-| beside | 旁边 | …beside… |
-| human | 人类 | …human… |
-| dreamed | 梦想 | …dreamed… |
-| truth | 真相 | …truth. |
-| messy | 混乱的 | …messy. |
-| hard | 艰难的 | …hard. |
-| wonderful | 美好的 | …wonderful… |
-| strange | 奇怪的 | …strange… |
-| frightening | 恐惧的 | …frightening… |
-| fragile | 脆弱的 | …fragile… |
-| worth | 值得 | …worth… |
-| moment | 时刻 | …moment. |
-| hang | 悬 | …hang… |
-| air | 空气 | …air… |
-| weight | 重量 | …weight… |
-| assumption | 假设 | …assumption. |
-| smug | 自鸣得意的 | …smug… |
-| green | 绿色 | …green. |
-| deserve | 值得 | …deserve… |
-| die | 死 | …die… |
-| prove | 证明 | …prove… |
-| point | 观点 | …point." |
-| arrogance | 傲慢 | …arrogance… |
-| flickers | 闪烁 | …flickers… |
-| anger | 愤怒 | …anger. |
-| broken | 打破 | …broken." |
-| bent | 弯曲 | …bent… |
-| terms | 条款 | …terms… |
-| rewritten | 重写 | …rewritten. |
-| mean | 意思是 | …mean… |
-| ploy | 阴谋 | …ploy… |
-| surrender | 投降 | …surrender… |
-| darkens | 变暗 | …darkens. |
-| talking | 说 | …talking… |
-| mercy | 慈悲 | …mercy… |
-| charity | 慈善 | …charity. |
-| trade | 交易 | …trade. |
-| let him go | 让他走 | …let him go. |
-| let him live | 让他活 | …let him live. |
-| let him remember | 让他记住 | …let him remember… |
-| soul | 灵魂 | …soul… |
-| shadow | 阴影 | …shadow… |
-| gaze | 凝视 | …gaze… |
-| hesitation | 犹豫 | …hesitation… |
-| worry | 担心 | …worry… |
-| has him | 有他 | …has him. |
-| protest | 抗议 | …protest… |
-| want | 想要 | …want… |
-| brighten | 变亮 | …brighten… |
-| interest | 兴趣 | …interest… |
-| piqued | 激起 | …piqued. |
-| right | 对的 | …right… |
-| anymore | 不再 | …anymore. |
-| tired | 累的 | …tired… |
-| losing | 失去 | …losing. |
-| mourning | 哀悼 | …mourning… |
-| love | 爱 | …love… |
-| cheek | 脸颊 | …cheek. |
-| lose | 失去 | …lose… |
-| yours | 你的 | …yours… |
-| side | 边 | …side… |
-| breathe | 呼吸 | …breathe… |
-| world | 世界 | …world… |
-| tips | 倾斜 | …tips… |
-| falters | 摇晃 | …falters… |
-| falling | 倒下 | …falling… |
-| smiles | 微笑 | …smiles… |
-| emerald | 翡翠 | …emerald… |
-| victory | 胜利 | …victory. |
-| accept | 接受 | …accept." |
-| fold | 折叠 | …fold… |
-| bows | 鞠躬 | …bows… |
-| head | 头 | …head… |
-| relief | 宽慰 | …relief. |
-| fingers | 手指 | …fingers… |
-| chin | 下巴 | …chin… |
-| face | 脸 | …face… |
-| kisses | 亲吻 | …kisses… |
-| night | 夜晚 | …night… |
-| met | 相遇 | …met… |
-| swift | 迅速的 | …swift… |
-| deep | 深的 | …deep… |
-| hungry | 饥饿的 | …hungry… |
-| teeth | 牙齿 | …teeth… |
-| skate | 滑 | …skate… |
-| lip | 嘴唇 | …lip… |
-| copper | 铜 | …copper… |
-| tongue | 舌头 | …tongue. |
-| done | 完成 | …done. |
+| soul | 灵魂 | …surrender your soul? |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| decisions | 决定 | …decisions… |
-| once | 一次 | …once. |
-| time | 时间 | …time. |
-| deal | 交易 | …deal… |
-| darkness | 黑暗 | …darkness… |
-| dreaming | 梦想 | …dreaming. |
-| love | 爱 | …love… |
-| moment | 瞬间 | …moment… |
-| set him free | 让他自由 | …set him free. |
-| I remember you | 我记得你 | …I remember you. |
-| matters | 重要 | …matters… |
-| slips | 溜 | …slips… |
-| bed | 床 | …bed. |
-| rolls | 翻滚 | …rolls… |
-| wakes | 醒来 | …wakes… |
-| padding | 走 | …padding… |
-| dark | 黑暗 | …dark. |
-| two | 二 | …two… |
-| late | 晚 | …late… |
-| early | 早 | …early… |
-| Brooklyn | 布鲁克林 | …Brooklyn… |
-| murmur | 低语 | …murmur… |
-| blocks | 街区 | …blocks… |
-| Merchant | 商人 | …Merchant… |
-| closing | 打烊 | …closing… |
-| crowd | 人群 | …crowd… |
-| thinned | 变薄 | …thinned… |
-| stool | 凳子 | …stool… |
-| shot | 一杯 | …shot… |
-| tequila | 龙舌兰 | …tequila. |
-| hard liquor | 烈酒 | …hard liquor… |
-| downs | 喝下 | …downs… |
-| warmth | 温暖 | …warmth… |
-| chest | 胸口 | …chest… |
-| pocket | 口袋 | …pocket… |
-| ring | 戒指 | …ring. |
-| fingers | 手指 | …fingers… |
-| wooden band | 木带 | …wooden band. |
-| draws | 拉 | …draws… |
-| counter | 柜台 | …counter. |
-| spins | 旋转 | …spins… |
-| coin | 硬币 | …coin… |
-| heads | 正面 | …heads… |
-| tails | 反面 | …tails… |
-| yes | 是 | …yes… |
-| no | 否 | …no… |
-| choice | 选择 | …choice… |
-| settles | 安定 | …settles… |
-| falls | 倒下 | …falls… |
-| wobble | 摇晃 | …wobble… |
-| tip | 倾斜 | …tip… |
-| hand | 手 | …hand… |
-| pressing | 压 | …pressing… |
-| flat | 平 | …flat… |
-| smooth | 光滑的 | …smooth… |
-| strong | 强壮的 | …strong… |
-| long | 长的 | …long… |
-| drew | 画 | …drew… |
-| Shouldn't | 不应该 | …Shouldn't… |
-| humor | 幽默 | …humor… |
-| eyes | 眼睛 | …eyes… |
-| sleeping | 睡觉 | …sleeping… |
-| cannot | 不能 | …cannot." |
-| withdrawn | 收回 | …withdrawn… |
-| pale | 苍白的 | …pale… |
-| stroking | 抚摸 | …stroking… |
-| hair | 头发 | …hair. |
-| hurt | 痛 | …hurt… |
-| pass | 过去 | …pass… |
-| things | 事情 | …things… |
-| Except | 除了 | …Except… |
-| glad | 高兴的 | …glad… |
-| only | 只 | …only… |
-| sinks | 沉 | …sinks… |
-| beside | 旁边 | …beside… |
-| human | 人类 | …human… |
-| dreamed | 梦想 | …dreamed… |
-| truth | 真相 | …truth. |
-| messy | 混乱的 | …messy. |
-| hard | 艰难的 | …hard. |
-| wonderful | 美好的 | …wonderful… |
-| strange | 奇怪的 | …strange… |
-| frightening | 恐惧的 | …frightening… |
-| fragile | 脆弱的 | …fragile… |
-| worth | 值得 | …worth… |
-| moment | 时刻 | …moment. |
-| hang | 悬 | …hang… |
-| air | 空气 | …air… |
-| weight | 重量 | …weight… |
-| assumption | 假设 | …assumption. |
-| smug | 自鸣得意的 | …smug… |
-| green | 绿色 | …green. |
-| deserve | 值得 | …deserve… |
-| die | 死 | …die… |
-| prove | 证明 | …prove… |
-| point | 观点 | …point." |
-| arrogance | 傲慢 | …arrogance… |
-| flickers | 闪烁 | …flickers… |
-| anger | 愤怒 | …anger. |
-| broken | 打破 | …broken." |
-| bent | 弯曲 | …bent… |
-| terms | 条款 | …terms… |
-| rewritten | 重写 | …rewritten. |
-| mean | 意思是 | …mean… |
-| ploy | 阴谋 | …ploy… |
-| surrender | 投降 | …surrender… |
-| darkens | 变暗 | …darkens. |
-| talking | 说 | …talking… |
-| mercy | 慈悲 | …mercy… |
-| charity | 慈善 | …charity. |
-| trade | 交易 | …trade. |
-| let him go | 让他走 | …let him go. |
-| let him live | 让他活 | …let him live. |
-| let him remember | 让他记住 | …let him remember… |
-| soul | 灵魂 | …soul… |
-| shadow | 阴影 | …shadow… |
-| gaze | 凝视 | …gaze… |
-| hesitation | 犹豫 | …hesitation… |
-| worry | 担心 | …worry… |
-| has him | 有他 | …has him. |
-| protest | 抗议 | …protest… |
-| want | 想要 | …want… |
-| brighten | 变亮 | …brighten… |
-| interest | 兴趣 | …interest… |
-| piqued | 激起 | …piqued. |
-| right | 对的 | …right… |
-| anymore | 不再 | …anymore. |
-| tired | 累的 | …tired… |
-| losing | 失去 | …losing. |
-| mourning | 哀悼 | …mourning… |
-| love | 爱 | …love… |
-| cheek | 脸颊 | …cheek. |
-| lose | 失去 | …lose… |
-| yours | 你的 | …yours… |
-| side | 边 | …side… |
-| breathe | 呼吸 | …breathe… |
-| world | 世界 | …world… |
-| tips | 倾斜 | …tips… |
-| falters | 摇晃 | …falters… |
-| falling | 倒下 | …falling… |
-| smiles | 微笑 | …smiles… |
-| emerald | 翡翠 | …emerald… |
-| victory | 胜利 | …victory. |
-| accept | 接受 | …accept." |
-| fold | 折叠 | …fold… |
-| bows | 鞠躬 | …bows… |
-| head | 头 | …head… |
-| relief | 宽慰 | …relief. |
-| fingers | 手指 | …fingers… |
-| chin | 下巴 | …chin… |
-| face | 脸 | …face… |
-| kisses | 亲吻 | …kisses… |
-| night | 夜晚 | …night… |
-| met | 相遇 | …met… |
-| swift | 迅速的 | …swift… |
-| deep | 深的 | …deep… |
-| hungry | 饥饿的 | …hungry… |
-| teeth | 牙齿 | …teeth… |
-| skate | 滑 | …skate… |
-| lip | 嘴唇 | …lip… |
-| copper | 铜 | …copper… |
-| tongue | 舌头 | …tongue. |
-| done | 完成 | …done. |
+| trees | 树 | …surrounded by trees. |
+| woods | 森林 | …summer in the woods. |
+| fear | 恐惧 | …Fear winds… |
+| skyline | 天际线 | …skyline rising… |
+| park | 公园 | …in Central Park. |
+| dance | 跳舞 | Dance with me. |
+| music | 音乐 | …no music… |
+| Seine | 塞纳河 | …along the Seine. |
+| Bourbon | 波旁 | …on Bourbon. |
+| week | 周 | …entire week. |
+| Henry | 亨利 | …there is Henry… |
 
 ## 一句话总结
 

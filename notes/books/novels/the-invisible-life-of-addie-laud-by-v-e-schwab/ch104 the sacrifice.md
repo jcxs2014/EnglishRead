@@ -67,289 +67,70 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| No | 不 | "No," says Henry… |
-| swallowed | 吞没 | …half-swallowed… |
-| storm | 风暴 | …by the storm. |
-| rain | 雨 | …rain falls… |
-| falls | 落下 | …falls hard… |
-| hard | 重 | …hard and fast… |
-| fast | 快 | …hard and fast… |
-| roof | 屋顶 | …on the roof. |
-| clock | 时钟 | …clock has stopped… |
-| stopped | 停止 | …has stopped… |
-| hand | 手 | …hand thrown up… |
-| surrender | 投降 | …in surrender. |
-| spinning | 旋转 | …head spinning. |
-| won't | 不会 | "I won't let you." |
-| let | 让 | …won't let you." |
-| pitying | 怜悯的 | …pitying look… |
-| stop | 停止 | …stop her. |
-| stones | 石头 | …as a stone… |
-| wear | 磨损 | …wear away… |
-| away | 离开 | …wear away… |
-| nothing | 什么都不是 | …to nothing. |
-| done | 完成 | "It is already done,"… |
-| dizzy | 头晕的 | …feels dizzy… |
-| sick | 恶心的 | …feels sick… |
-| ground | 地面 | …ground sway… |
-| sway | 摇晃 | …sway beneath him. |
-| pleads | 恳求 | "Why?" he pleads. |
-| thank-you | 感谢 | "Think of it as a thank-you,"… |
-| seeing | 看 | …for seeing me. |
-| seen | 被看到 | …to be seen. |
-| loved | 被爱的 | …To be loved. |
-| second chance | 第二次机会 | …second chance. |
-| find | 找到 | …find people… |
-| people | 人 | …find people… |
-| see | 看 | …who see you." |
-| wrong | 错的 | …wrong. |
-| love | 爱 | "You don't love him." |
-| sad | 悲伤的 | …sad smile… |
-| smile | 微笑 | …sad smile… |
-| share | 份额 | …my share of love,"… |
-| time | 时间 | …it is time… |
-| vision | 视野 | …vision is blurring… |
-| blurring | 模糊 | …is blurring… |
-| edges | 边缘 | …edges going black. |
-| black | 黑 | …going black. |
-| Listen | 听 | "Listen to me." |
-| urgent | 紧急的 | …urgent now. |
-| long | 长 | …very long… |
-| fast | 快 | …goes so fast." |
-| glassy | 含泪的 | …glassy with tears… |
-| tears | 眼泪 | …with tears… |
-| smiling | 微笑 | …she is smiling. |
-| life | 生活 | …a good life,… |
-| pull | 拉 | …pull away… |
-| grip | 握 | …grip tightens. |
-| tightens | 变紧 | …grip tightens. |
-| sighs | 叹息 | …sighs… |
-| fingers | 手指 | …fingers threading… |
-| threading | 穿过 | …threading through… |
-| hair | 头发 | …through his hair. |
-| given | 给 | …given me so much,… |
-| forehead | 额头 | …forehead presses… |
-| presses | 压 | …presses against his. |
-| remember | 记住 | …remember." |
-| hold | 把握 | …hold slipping… |
-| slipping | 滑动 | …hold slipping… |
-| darkness | 黑暗 | …darkness washes… |
-| washes | 洗 | …darkness washes… |
-| vision | 视野 | …across his vision… |
-| blotting | 抹去 | …blotting out… |
-| skyline | 天际线 | …the skyline… |
-| roof | 屋顶 | …and the roof… |
-| folding | 折叠 | …folding herself… |
-| Promise | 答应 | "Promise me,"… |
-| smudge | 模糊 | …beginning to smudge… |
-| swipe | 挥动 | …swipe of her lips… |
-| lips | 嘴唇 | …her lips… |
-| brown | 棕色 | …brown curls… |
-| curls | 卷发 | …brown curls… |
-| heart | 心 | …heart-shaped face… |
-| eyes | 眼睛 | …two wide eyes… |
-| seven | 七 | …seven freckles… |
-| freckles | 雀斑 | …seven freckles… |
-| stars | 星星 | …like stars. |
-| whispers | 低语 | "Promise," she whispers… |
-| lifting | 抬起 | …lifting his hands… |
-| hands | 手 | …his hands… |
-| arms | 手臂 | …his arms close… |
-| close | 合拢 | …arms close… |
-| gone | 走了 | …she is gone. |
-| falling | 坠落 | …he is falling. |
+| swallowed | 吞没 | ...half-swallowed... |
+| surrender | 投降 | ...in surrender. |
+| pitying | 怜悯的 | ...pitying look... |
+| threading | 穿过 | ...threading through... |
+| smudge | 模糊 | ...beginning to smudge... |
+| freckles | 雀斑 | ...seven freckles... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| No | 不 | …No… |
-| swallowed | 吞没 | …swallowed… |
-| storm | 风暴 | …storm. |
-| rain | 雨 | …rain… |
-| falls | 落下 | …falls… |
-| hard | 重 | …hard… |
-| fast | 快 | …fast… |
-| roof | 屋顶 | …roof. |
-| clock | 时钟 | …clock… |
-| stopped | 停止 | …stopped… |
-| hand | 手 | …hand… |
-| surrender | 投降 | …surrender. |
-| spinning | 旋转 | …spinning. |
-| won't | 不会 | …won't… |
-| let | 让 | …let… |
-| pitying | 怜悯的 | …pitying… |
-| stop | 停止 | …stop… |
-| stones | 石头 | …stones… |
-| wear | 磨损 | …wear… |
-| away | 离开 | …away… |
-| nothing | 什么都不是 | …nothing. |
-| done | 完成 | …done… |
-| dizzy | 头晕的 | …dizzy… |
-| sick | 恶心的 | …sick… |
-| ground | 地面 | …ground… |
-| sway | 摇晃 | …sway… |
-| pleads | 恳求 | …pleads… |
-| thank-you | 感谢 | …thank-you… |
-| seeing | 看 | …seeing… |
-| seen | 被看到 | …seen… |
-| loved | 被爱的 | …loved… |
-| second chance | 第二次机会 | …second chance. |
-| find | 找到 | …find… |
-| people | 人 | …people… |
-| see | 看 | …see… |
-| wrong | 错的 | …wrong. |
-| love | 爱 | …love… |
-| sad | 悲伤的 | …sad… |
-| smile | 微笑 | …smile… |
-| share | 份额 | …share… |
-| time | 时间 | …time… |
-| vision | 视野 | …vision… |
-| blurring | 模糊 | …blurring… |
-| edges | 边缘 | …edges… |
-| black | 黑 | …black. |
-| Listen | 听 | …Listen… |
-| urgent | 紧急的 | …urgent… |
-| long | 长 | …long… |
-| fast | 快 | …fast… |
-| glassy | 含泪的 | …glassy… |
-| tears | 眼泪 | …tears… |
-| smiling | 微笑 | …smiling. |
-| life | 生活 | …life… |
-| pull | 拉 | …pull… |
-| grip | 握 | …grip… |
-| tightens | 变紧 | …tightens. |
-| sighs | 叹息 | …sighs… |
-| fingers | 手指 | …fingers… |
-| threading | 穿过 | …threading… |
-| hair | 头发 | …hair. |
-| given | 给 | …given… |
-| forehead | 额头 | …forehead… |
-| presses | 压 | …presses… |
-| remember | 记住 | …remember… |
-| hold | 把握 | …hold… |
-| slipping | 滑动 | …slipping… |
-| darkness | 黑暗 | …darkness… |
-| washes | 洗 | …washes… |
-| vision | 视野 | …vision… |
-| blotting | 抹去 | …blotting… |
-| skyline | 天际线 | …skyline… |
-| roof | 屋顶 | …roof… |
-| folding | 折叠 | …folding… |
-| Promise | 答应 | …Promise… |
-| smudge | 模糊 | …smudge… |
-| swipe | 挥动 | …swipe… |
-| lips | 嘴唇 | …lips… |
-| brown | 棕色 | …brown… |
-| curls | 卷发 | …curls… |
-| heart | 心 | …heart… |
-| eyes | 眼睛 | …eyes… |
-| seven | 七 | …seven… |
-| freckles | 雀斑 | …freckles… |
-| stars | 星星 | …stars. |
-| whispers | 低语 | …whispers… |
-| lifting | 抬起 | …lifting… |
-| hands | 手 | …hands… |
-| arms | 手臂 | …arms… |
-| close | 合拢 | …close… |
-| gone | 走了 | …gone. |
-| falling | 坠落 | …falling. |
+| storm | 风暴 | ...by the storm. |
+| rain | 雨 | ...rain falls... |
+| roof | 屋顶 | ...on the roof. |
+| clock | 时钟 | ...clock has stopped... |
+| spinning | 旋转 | ...head spinning. |
+| dizzy | 头晕的 | ...feels dizzy... |
+| sick | 恶心的 | ...feels sick... |
+| sway | 摇晃 | ...sway beneath him. |
+| pleads | 恳求 | Why? he pleads. |
+| thank-you | 感谢 | ...a thank-you... |
+| second chance | 第二次机会 | ...second chance. |
+| grip | 握 | ...grip tightens. |
+| sighs | 叹息 | ...sighs... |
+| given | 给 | ...given me so much... |
+| forehead | 额头 | ...forehead presses... |
+| remember | 记住 | ...remember. |
+| slipping | 滑动 | ...hold slipping... |
+| darkness | 黑暗 | ...darkness washes... |
+| washes | 洗 | ...darkness washes... |
+| blotting | 抹去 | ...blotting out... |
+| skyline | 天际线 | ...the skyline... |
+| folding | 折叠 | ...folding herself... |
+| whispers | 低语 | Promise, she whispers... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| No | 不 | …No… |
-| swallowed | 吞没 | …swallowed… |
-| storm | 风暴 | …storm. |
-| rain | 雨 | …rain… |
-| falls | 落下 | …falls… |
-| hard | 重 | …hard… |
-| fast | 快 | …fast… |
-| roof | 屋顶 | …roof. |
-| clock | 时钟 | …clock… |
-| stopped | 停止 | …stopped… |
-| hand | 手 | …hand… |
-| surrender | 投降 | …surrender. |
-| spinning | 旋转 | …spinning. |
-| won't | 不会 | …won't… |
-| let | 让 | …let… |
-| pitying | 怜悯的 | …pitying… |
-| stop | 停止 | …stop… |
-| stones | 石头 | …stones… |
-| wear | 磨损 | …wear… |
-| away | 离开 | …away… |
-| nothing | 什么都不是 | …nothing. |
-| done | 完成 | …done… |
-| dizzy | 头晕的 | …dizzy… |
-| sick | 恶心的 | …sick… |
-| ground | 地面 | …ground… |
-| sway | 摇晃 | …sway… |
-| pleads | 恳求 | …pleads… |
-| thank-you | 感谢 | …thank-you… |
-| seeing | 看 | …seeing… |
-| seen | 被看到 | …seen… |
-| loved | 被爱的 | …loved… |
-| second chance | 第二次机会 | …second chance. |
-| find | 找到 | …find… |
-| people | 人 | …people… |
-| see | 看 | …see… |
-| wrong | 错的 | …wrong. |
-| love | 爱 | …love… |
-| sad | 悲伤的 | …sad… |
-| smile | 微笑 | …smile… |
-| share | 份额 | …share… |
-| time | 时间 | …time… |
-| vision | 视野 | …vision… |
-| blurring | 模糊 | …blurring… |
-| edges | 边缘 | …edges… |
-| black | 黑 | …black. |
-| Listen | 听 | …Listen… |
-| urgent | 紧急的 | …urgent… |
-| long | 长 | …long… |
-| fast | 快 | …fast… |
-| glassy | 含泪的 | …glassy… |
-| tears | 眼泪 | …tears… |
-| smiling | 微笑 | …smiling. |
-| life | 生活 | …life… |
-| pull | 拉 | …pull… |
-| grip | 握 | …grip… |
-| tightens | 变紧 | …tightens. |
-| sighs | 叹息 | …sighs… |
-| fingers | 手指 | …fingers… |
-| threading | 穿过 | …threading… |
-| hair | 头发 | …hair. |
-| given | 给 | …given… |
-| forehead | 额头 | …forehead… |
-| presses | 压 | …presses… |
-| remember | 记住 | …remember… |
-| hold | 把握 | …hold… |
-| slipping | 滑动 | …slipping… |
-| darkness | 黑暗 | …darkness… |
-| washes | 洗 | …washes… |
-| vision | 视野 | …vision… |
-| blotting | 抹去 | …blotting… |
-| skyline | 天际线 | …skyline… |
-| roof | 屋顶 | …roof… |
-| folding | 折叠 | …folding… |
-| Promise | 答应 | …Promise… |
-| smudge | 模糊 | …smudge… |
-| swipe | 挥动 | …swipe… |
-| lips | 嘴唇 | …lips… |
-| brown | 棕色 | …brown… |
-| curls | 卷发 | …curls… |
-| heart | 心 | …heart… |
-| eyes | 眼睛 | …eyes… |
-| seven | 七 | …seven… |
-| freckles | 雀斑 | …freckles… |
-| stars | 星星 | …stars. |
-| whispers | 低语 | …whispers… |
-| lifting | 抬起 | …lifting… |
-| hands | 手 | …hands… |
-| arms | 手臂 | …arms… |
-| close | 合拢 | …close… |
-| gone | 走了 | …gone. |
-| falling | 坠落 | …falling. |
+| No | 不 | No, says Henry... |
+| stones | 石头 | ...as a stone... |
+| wear | 磨损 | ...wear away... |
+| away | 离开 | ...wear away... |
+| nothing | 什么都不是 | ...to nothing. |
+| done | 完成 | It is already done. |
+| wrong | 错的 | ...wrong. |
+| love | 爱 | You don't love him. |
+| sad | 悲伤的 | ...sad smile... |
+| smile | 微笑 | ...sad smile... |
+| share | 份额 | ...my share of love... |
+| time | 时间 | ...it is time... |
+| vision | 视野 | ...vision is blurring... |
+| blurring | 模糊 | ...is blurring... |
+| edges | 边缘 | ...edges going black. |
+| black | 黑 | ...going black. |
+| Listen | 听 | Listen to me. |
+| urgent | 紧急的 | ...urgent now. |
+| long | 长 | ...very long... |
+| fast | 快 | ...goes so fast. |
+| glassy | 含泪的 | ...glassy with tears... |
+| tears | 眼泪 | ...with tears... |
+| smiling | 微笑 | ...she is smiling. |
+| life | 生活 | ...a good life... |
+| pull | 拉 | ...pull away... |
 
 ## 一句话总结
 
