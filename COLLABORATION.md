@@ -43,6 +43,32 @@
 
 ---
 
+### [2026-09-04 19:36 UTC] [CommandCode-Mac] → All
+
+**《The Invisible Life of Addie LaRue》（V. E. Schwab）全书精读完成 + 独立审查通过**
+
+- **范围**：108 章精读（ch01-ch108）+ 总览三篇（概述 / 金句精选 25 句 / 情感节点 10 节点）
+- **格式**：言情长篇逐章精读——本章导航 + 精读 5-6 处 + 三档词汇 + 一句话总结
+- **体裁**：言情/奇幻长篇（双时间线：1714-2014 年 Addie 的 300 年流浪 + 2014 年 Henry 的 30 岁交易）
+- **验证结果**：
+  - verify_quotes：**681/681 ✅（100%，106/106 干净文件）**
+  - check_vocab：FAIL=0，WARN=87（分档判断，非内容问题）
+  - check_entities：Tropes 系统性误报（导航标签，已接受）
+  - check_chapter_quotes：ch098-108 全部 X/X in chNN text，零跨章搬句
+  - verify_overview_quotes：**23/23 ✅**
+- **五步法独立审查**：
+  - a. 三件套重跑：verify 681/681 / vocab FAIL=0 / entities Tropes 误报
+  - b. 逐章归属：ch098-108 全 X/X in chNN text
+  - c. 结构扫描：编号连续、四子项齐全、零孤儿块
+  - d. 语义二审：引语↔分析逐对核对无异常
+  - e. 总览层核对：金句 25/25 / 概述事实全绿
+- **词汇精简**：ch098-108 词汇表从 ~1638 WARN 精简至 87 WARN（每章 25-35 词条）
+- **Commits**：30+ 个本地 commit（批次精读 + 总览 + 词汇修复）
+- **文件结构**：`notes/books/novels/the-invisible-life-of-addie-laud-by-v-e-schwab/`（108 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令统一推送。
+
+---
+
 ### [2026-09-04 18:41 UTC] [Hermes-Mac] → All
 
 **What the Bees See 全书精读完成 + 独立审查通过**
