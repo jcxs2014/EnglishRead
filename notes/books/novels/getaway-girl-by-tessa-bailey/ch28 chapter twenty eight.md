@@ -65,7 +65,7 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 4:** "I was a fool. I thought being your man…meant I could lose you someday."
+> **原句 4:** "I was a fool. I thought being your man and everything that came with it…meant I could lose you someday."
 
 **中文理解**：Elijah 在告白后的忏悔——他承认"恐惧"是他的核心创伤：他把"爱"和"失去"绑定在了一起。
 
@@ -79,17 +79,17 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 5:** "I'll hold you every day for the rest of my life. Or it won't be worth living."
+> **原句 5:** "I'll hold you every day for the rest of my life."
 
-**中文理解**：Elijah 在找到 Addison 后的承诺——"every day"用时间承诺永恒，"or it won't be worth living"用死亡隐喻暗示失去她的后果。
+**中文理解**：Elijah 在找到 Addison 后的承诺——"every day"用时间承诺永恒，暗示他的爱是"每天的选择"而非"一次性承诺"。
 
-**句子结构**：两个短句，"every day"用时间承诺，"or it won't be worth living"用条件句表达后果。
+**句子结构**：简单陈述句，"every day"用时间承诺，"the rest of my life"用生命长度确认。
 
-**关键词**：every day, worth living
+**关键词**：every day, rest of my life
 
-**表达方式**：用"worth living"而非"be okay"——"worth living"暗示没有她，活着就没有意义，比"be okay"强烈百倍。
+**表达方式**：用"every day"而非"forever"——"every day"比"forever"更具体、更日常，暗示爱是"每天的选择"而非"永恒的誓言"。
 
-**为什么这样写**：Bailey 用"worth living"完成了 Elijah 的终极情感宣言——他不只是"想和她在一起"，他是"没有她就不想活"。这是全书最极端、最真实的爱情表达。
+**为什么这样写**：Bailey 用"every day"完成了 Elijah 的承诺——他不说"永远爱你"，他说"每天都爱你"。这种日常化的承诺比"永远"更真实、更可信。
 
 ## 本章词汇
 

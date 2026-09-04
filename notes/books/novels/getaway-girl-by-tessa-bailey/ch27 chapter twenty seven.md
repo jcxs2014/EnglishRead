@@ -79,13 +79,13 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 5:** "Three words—and all of this could have been avoided."
+> **原句 5:** "Three words—words I've had inside me as long as Addison kept the same ones for me—and all of this could have been avoided."
 
 **中文理解**：Elijah 在冲向河边时的悔恨——他意识到如果他说了"I love you"，Addison 就不会离开。
 
-**句子结构**：两个短句，"three words"用最少的词表达最大的悔恨，"all of this"指代一切痛苦。
+**句子结构**：长句用破折号插入补充说明（"words I've had inside me..."），末尾"all of this could have been avoided"用虚拟语气表达悔恨。
 
-**关键词**：three words, all of this, avoided
+**关键词**：three words, avoided
 
 **表达方式**：用"three words"而非"I love you"——"three words"比"I love you"更简洁、更痛：他在说"就差三个字"。
 

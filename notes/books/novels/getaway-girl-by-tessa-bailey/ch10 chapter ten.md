@@ -66,13 +66,13 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 4:** "We could be more than friends. Just for tonight."
+> **原句 4:** "We could be more than friends."
 
-**中文理解**：Addison 在办公室里主动邀请 Elijah 越界——"just for今晚"用时间限制降低承诺感，是她给自己留的退路：如果他拒绝，她可以假装"我只是开玩笑"。
+**中文理解**：Addison 在办公室里主动邀请 Elijah 越界——"could"用虚拟语气暗示可能性而非确定性，是她给自己留的退路：如果他拒绝，她可以假装"我只是开玩笑"。
 
-**句子结构**：两个短句，"could"用虚拟语气暗示可能性而非确定性，"just for tonight"用时间限定消解永久性。
+**句子结构**：六个词的短句，"could"用虚拟语气暗示可能性而非确定性，"more than friends"用比较级暗示"超越友谊"。
 
-**关键词**：could, just, tonight
+**关键词**：could, more than friends
 
 **表达方式**：用"could"而非"want to"——"could"暗示"有这个可能性"，比"want to"更安全、更不暴露真心。
 
