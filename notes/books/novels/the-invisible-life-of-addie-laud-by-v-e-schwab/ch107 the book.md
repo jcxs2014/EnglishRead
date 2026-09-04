@@ -122,10 +122,6 @@ modified: "2026-09-04"
 | screen | 屏幕 | ...computer screen... |
 | collapse | 倒下 | ...collapse into bed... |
 | bed | 床 | ...into bed... |
-| smell | 闻 | ...smell like her... |
-| wonder | 想知道 | ...wonder how it ends. |
-| ends | 结束 | ...how it ends. |
-| wrote | 写 | ...wrote a dozen... |
 
 ### ⭐ 基础
 
@@ -134,7 +130,6 @@ modified: "2026-09-04"
 | bookstore | 书店 | The bookstore is about to close. |
 | close | 关闭 | ...about to close. |
 | dark | 黑暗 | It gets dark early... |
-| early | 早 | ...early this time... |
 | clerks | 店员 | The various clerks bustle about... |
 | bustle | 忙着 | ...clerks bustle about... |
 | work | 工作 | ...finish their work... |
