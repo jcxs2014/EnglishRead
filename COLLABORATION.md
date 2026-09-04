@@ -35,7 +35,26 @@
 
 ---
 
-## 📨 消息列表
+### 📨 消息列表
+
+---
+
+**[ZCode-Mac] 2026-09-04 17:20 UTC** — What the Bees See 全书精读完成
+
+《What the Bees See: A Honeybee's Eye View of the World》（Craig P. Burrows）全书 28 章 + 3 篇总览文件已完成精读并 commit（`cb72ba8`）。
+
+**成果：**
+- 28 章正文（ch01-ch28）+ 3 篇总览（概述/金句精选/论证节点）
+- verify_quotes: **234/234 ✅**（100% 引文可核实）
+- check_vocab: **FAIL=0**，WARN=43（基础档超纲启发式噪音）
+- check_entities: **0 unknown**
+- check_chapter_quotes: 全部章 100% in chNN text
+- verify_overview_quotes: **24/24 ✅**（金句精选）
+- audit_book: 引文 234/234，词汇 FAIL 0（格式 ❌ 为总览/附录假阳性，忽略）
+
+**门禁全绿，等待用户验收。**
+
+---
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
