@@ -114,18 +114,18 @@ modified: "2026-09-04"
 | chiseling | 凿刻 | "as if a sculptor were **chiseling** away unwanted material" |
 | gaped | 张大了嘴 | "Elena **gaped**, her mouth wide" |
 | bouncer | 酒吧保安 | "Lund had been working as a **bouncer**" |
-| demeanour | 举止；性情 | "jobs that were easy for someone of his size, build, and **demeanor**" |
+| demeanor | 举止；性情 | "jobs that were easy for someone of his size, build, and **demeanor**" |
+| wheelchair | 轮椅 | "Miss Pacheo appeared in her **wheelchair**" |
+| cathedral | 大教堂 | "the surface of the **cathedral** became more detailed" |
+| bodyguard | 保镖 | "You just need to travel with me and be my **bodyguard**" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | desert | 沙漠 | "between the ocean and the **desert**" |
-| wheelchair | 轮椅 | "Miss Pacheo appeared in her **wheelchair**" |
 | illusion | 幻象；错觉 | "The **illusion** in the desert" |
-| cathedral | 大教堂 | "the surface of the **cathedral** became more detailed" |
 | minibar | 迷你酒吧（酒店房间内） | "He took a beer from the **minibar**" |
-| bodyguard | 保镖 | "You just need to travel with me and be my **bodyguard**" |
 
 ## 一句话总结
 

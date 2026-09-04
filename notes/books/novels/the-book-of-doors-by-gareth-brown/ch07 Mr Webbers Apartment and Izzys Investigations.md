@@ -31,15 +31,15 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 3:** "Unbelievable," she murmured, smiling. ... She was developing a relationship with the book.
+> **原句 3:** "Unbelievable," she murmured, smiling.
 
-**中文理解**："难以置信，"她低声说着，微笑着。……她正在与这本书建立一种关系。
+**中文理解**："难以置信，"她低声说，微笑着。
 
-**关键词**：developing a relationship（建立关系——书成为她的伴侣）、Unbelievable（难以置信）
+**关键词**：Unbelievable（难以置信——对魔法的持续惊叹）、smiling（微笑——惊奇带来的愉悦）
 
-**为什么这样写**："relationship"是全书对"人与魔法书"关系最准确的概括——Cassie 不是在使用工具，而是在与一个会回应她的存在相处。她翻书看图、书随之变化（插图从暗室变威尼斯再变走廊），这种双向互动是"关系"的具体化。
+**为什么这样写**：这句独立的惊叹道出 Cassie 每次用书后的典型反应——"unbelievable"成了她的口头禅式回应。作者用重复的惊叹词制造"魔法日常化"的节奏：虽然难以置信，但已开始习惯。
 
-**读者视角提示**：注意每次 Cassie 用书，书都会"记住"她看到的地方并更新插画。这个设定会让读者期待：书究竟想把她引向哪里？
+**读者视角提示**：注意她"翻书看图、书随之更新插图"的习惯——书在记录她的每一次使用。Cassie 与书的"relationship"正在建立，这是全书"人书羁绊"主题的开端。
 
 ---
 
@@ -110,18 +110,19 @@ modified: "2026-09-04"
 | clucking | 啧啧（表示不赞同） | "shaking her head and **clucking** her tongue" |
 | baubles | 廉价小玩意；珠宝 | "selling those expensive **baubles**" |
 | crosswalk | 人行横道 | "They waited at a **crosswalk**" |
-| dismissed | 挥去（情绪）；打发 | "she **pushed** it away"（语境对照，见基础档） |
+| sighed | 叹了口气 | "Mrs. Kellner **sighed** and gazed off into the shop" |
+| murmured | 低声说 | "“Unbelievable,” she **murmured**, smiling." |
+| stubbornly | 顽固地 | "the door remained **stubbornly** shut" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | rattled | 咔嗒作响 | "but it **rattled** securely" |
-| stubbornly | 顽固地 | "the door remained **stubbornly** shut" |
 | hallway | 走廊 | "stepping straight into the **hallway** beyond" |
-| apartment | 公寓 | "the hallway of Mr. Webber's **apartment**" |
+| building | 大楼 | "The door to the **building** was locked" |
 | stroller | 婴儿车 | "pushing a toddler in a **stroller**" |
-| froze | 冻住了；凝固 | "frozen snow"（语境延伸，见下） |
+| wandered | 闲逛；漫步 | "Cassie **wandered** back toward the counter" |
 
 ## 一句话总结
 
