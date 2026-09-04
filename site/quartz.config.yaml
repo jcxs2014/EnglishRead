@@ -91,10 +91,10 @@ plugins:
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
-    enabled: false
+    enabled: true
     options:
-      enableSiteMap: false
-      enableRSS: false
+      enableSiteMap: true
+      enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: false
   - source: "@quartz-community/og-image"
