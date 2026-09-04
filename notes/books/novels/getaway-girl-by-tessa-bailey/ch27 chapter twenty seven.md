@@ -115,7 +115,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | voicemail | 语音信箱 | "Straight to voicemail" |
 | shoe rack | 鞋架 | "her shoe rack is gone" |
-| plaster | 石膏 | "tiny holes in the plaster" |
+| plaster | 石膏 | There are tiny, almost imperceptible holes where it used to be drilled into the plaster. |
 | hail | 冰雹 | "Or is that hail?" |
 
 ## 一句话总结

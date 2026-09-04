@@ -117,7 +117,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | macaroon | 杏仁饼 | "Macaroons are good for frayed nerves" |
 | clipboard | 写字板 | "the harried woman holding a clipboard" |
-| headset | 耳机 | "she presses a finger to the device" |
+| headset | 耳机 | ” The woman holds up a finger, leaning into the headset and scribbling down a few more notes. |
 | badge | 徽章，证件 | "Preston already has his badge out" |
 | stoop | 门阶 | "I would leave his butt on the stoop" |
 

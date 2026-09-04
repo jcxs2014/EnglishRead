@@ -118,7 +118,7 @@ modified: "2026-09-04"
 | grandfather clock | 落地钟 | "the tick-tick-ticking of the grandfather clock" |
 | pillow | 枕子 | "Her head uses my shoulder as a pillow" |
 | comforter | 被子 | "the fluff of the comforter" |
-| spine | 脊柱 | "trail my fingertips down the curve of her spine" |
+| spine | 脊柱 | ” I brush my fingertips down the curve of her spine, laughing quietly when she whimpers and snuggles closer.sterday’s recycling?” When Elijah throws back his head an... |
 | sweatpants | 运动裤 | "usually when I'm wearing sweatpants" |
 
 ## 一句话总结

@@ -98,8 +98,7 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | magnitude | 规模，量级 | "I'm scared of its magnitude" |
-| magnitude | 地震等级（比喻） | "its magnitude" |
-| transient | 短暂的，临时的 | "they feel temporary" |
+| temporary | 短暂的，临时的 | "they feel temporary" |
 
 ### ⭐⭐ 进阶
 
@@ -117,8 +116,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | earbuds | 耳塞 | "I've lost my earbuds" |
 | tampon | 卫生棉条 | "even to buy tampons" |
-| canoe | 独木舟 | "Only room for one in a kayak" |
-| tampon | 卫生棉条 | "Yes, even to buy tampons" |
+| boat | 船 | "Only room for one in a kayak" |
 | SUV | 运动型多用途车 | "shiny government SUV" |
 
 ## 一句话总结

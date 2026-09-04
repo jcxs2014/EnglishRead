@@ -111,7 +111,7 @@ modified: "2026-09-04"
 | piques | 激起（好奇心等） | "piques my interest" |
 | stoop | 弯腰，屈尊 | "he stoops down to shake the driver's hand" |
 | whittle | 削减，削弱 | "whittled us down to roommates" |
-| trappings | 装饰，外部标志 | "the faulty trappings of couplehood" |
+| trappings | 装饰，外部标志 | So am I satisfied that she’s giving me exactly what I wanted? Sex and companionship without the faulty trappings of c... |
 
 ### ⭐ 基础
 

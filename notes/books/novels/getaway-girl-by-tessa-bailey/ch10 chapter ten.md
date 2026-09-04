@@ -108,7 +108,7 @@ modified: "2026-09-04"
 | tuxedo | 燕尾服 | "still wearing his tuxedo" |
 | pant | 喘息 | "my cock is heavy and uncomfortable" |
 | throb | 悸动，跳动 | "his cock throb" |
-| whimper | 呜咽 | "she whimpers a little" |
+| whimper | 呜咽 | I climbed him, whimpering and sobbing, sinking down onto his rigid inches while he watched me, his lips curled in a c... |
 
 ## 一句话总结
 

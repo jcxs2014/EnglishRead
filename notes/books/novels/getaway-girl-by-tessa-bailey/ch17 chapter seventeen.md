@@ -116,7 +116,9 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | axe | 斧头 | "leaning up against the corner of the shed is an axe" |
-| headboard | 床头板 | "burying the axe in the center of the headboard" |
+| headboard | 床头板 | ”
+
+Since that doesn’t require an answer, I kick open the bedroom door, take two steps and bury the axe in the center ... moment to breach the top step with a headboard. |
 | mattress | 床垫 | "I shove the mattress out the window" |
 | domed | 圆顶的 | "this ceiling is domed" |
 | shed | 棚屋 | "I throw open the shed door" |

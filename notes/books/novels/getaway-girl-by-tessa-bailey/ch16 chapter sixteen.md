@@ -120,8 +120,8 @@ modified: "2026-09-04"
 | lounge | 躺椅 | "I drop down on a chaise lounge" |
 | knee | 膝盖 | "using his thighs for balance" |
 | buckle | 搭扣 | "his belt buckle brushes my knees" |
-| tendon | 肌腱 | "His neck muscles are strained" |
-| groin | 腹股沟 | "his hand slides lower" |
+| muscle | 肌肉 | "His neck muscles are strained" |
+| groin | 腹股沟 | I can’t operate when half my brain cells have relocated to my groin. |
 
 ## 一句话总结
 

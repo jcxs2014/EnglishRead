@@ -37,9 +37,9 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 2:** "If you can't see she's incredible—if you can't evolve with me—then get the fuck out."
+> **原句 2:** "If you can't see she's incredible—if you can't evolve with me and stop living solely for public approval—then get the fuck out."
 
-**中文理解**：Elijah 对父亲的最后通牒——"get the fuck out"用粗口打破父子关系的等级，"evolve with me"暗示他不只是在选 Addison，而是在选择一种新的生活方式。
+**中文理解**：Elijah 对父亲的最后通牒——"get the fuck out"用粗口打破父子关系的等级，"evolve with me and stop living solely for public approval"明确要求父亲放弃对公众评价的执念，不只是选 Addison，而是选择一种新的生活方式。
 
 **句子结构**：两个"if"条件句递进，从"看不到她的好"到"跟不上我的进化"，末尾"get the fuck out"用粗口制造最大的冲击。
 

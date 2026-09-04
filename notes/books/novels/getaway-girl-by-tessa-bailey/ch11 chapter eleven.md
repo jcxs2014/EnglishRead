@@ -122,7 +122,7 @@ modified: "2026-09-04"
 | squeak | 吱吱声 | "her bare backside squeaking" |
 | jiggling | 颤动，摇晃 | "jiggling enough to drive me insane" |
 | spasm | 痉挛，抽搐 | "her pussy spasming" |
-| whimper | 呜咽 | "satisfied whimpers" |
+| whimper | 呜咽 | She whimpers a little and a devastating current passes through me, my tongue tracing her lower lip, rubbing more full... rigid inches while he watched me, his lips curled in a c... |
 
 ## 一句话总结
 

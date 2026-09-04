@@ -109,7 +109,7 @@ modified: "2026-09-04"
 | petrified | 惊呆的，石化的 | "In this petrified state" |
 | berate | 严厉斥责 | "all I can do is berate myself" |
 | hoarse | 沙哑的 | "my voice hoarse" |
-| gruff | 粗哑的 | "the gruff timbre of Elijah's voice" |
+| gruff | 粗哑的 | “Your nose is sunburned, Goose,” he says gruffly, into my hair. |
 
 ### ⭐ 基础
 

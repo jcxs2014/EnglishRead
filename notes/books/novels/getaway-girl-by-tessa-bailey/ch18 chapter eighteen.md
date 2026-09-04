@@ -121,7 +121,7 @@ modified: "2026-09-04"
 | areola | 乳晕 | "running the very tip of his tongue around my areola" |
 | pelvis | 骨盆 | "my pelvis lifting up" |
 | clitoris | 阴蒂 | "treating my clit like a queen" |
-| abdomen | 腹部 | "lies rigid on his abdomen" |
+| abdomen | 腹部 | “I’m going to come,” I say on an exhale, my abdomen twisting lower and lower, light burning holes in my sight.id on his abdomen, veins running in every direction and b... |
 
 ## 一句话总结
 

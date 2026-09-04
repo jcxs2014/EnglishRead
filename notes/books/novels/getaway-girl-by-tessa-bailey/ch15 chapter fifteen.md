@@ -121,7 +121,7 @@ modified: "2026-09-04"
 | curtain | 窗帘 | "All the curtains are open" |
 | buckle | 搭扣 | "his belt buckle brushes my knees" |
 | kneecap | 膝盖骨 | "his knuckles on my knee" |
-| groin | 腹股沟 | "his hand slides lower" |
+| groin | 腹股沟 | I can’t operate when half my brain cells have relocated to my groin. |
 
 ## 一句话总结
 

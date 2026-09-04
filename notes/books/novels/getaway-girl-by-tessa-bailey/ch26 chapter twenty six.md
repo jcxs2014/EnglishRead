@@ -116,7 +116,7 @@ modified: "2026-09-04"
 | umbrella | 雨伞 | "Make sure your umbrellas are in working order" |
 | kayak | 皮划艇 | "I need to rent a kayak" |
 | urn | 骨灰盒 | "Mrs. Claus urn holding my grandmother's ashes" |
-| hail | 冰雹 | "Or is that hail?" |
+| hail | 冰雹 | Or is that hail? My pulse begins slamming against my eardrums. |
 
 ## 一句话总结
 

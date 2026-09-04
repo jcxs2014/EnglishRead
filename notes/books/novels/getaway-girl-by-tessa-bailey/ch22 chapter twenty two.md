@@ -94,8 +94,8 @@ modified: "2026-09-04"
 | impromptu | 即兴的 | "the impromptu photo session" |
 | garner | 获得，博得 | "garner attention" |
 | amends | 赔偿，补偿 | "make amends" |
-| amenable | 顺从的，愿意的 | "amendable to speaking with Naomi" |
-| peephole | 窥视孔 | "I watch through the peephole" |
+| willing | 愿意的，乐意的 | "amendable to speaking with Naomi" |
+| peephole | 窥视孔 | Knowing it’s probably just Ricky and Kyle checking in, I jog to the door and glance through the peephole to confirm. |
 
 ### ⭐ 基础
 

@@ -107,7 +107,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | compel | 迫使，驱使 | "compelled to reach him" |
 | saunter | 闲逛，漫步 | "I would have sauntered" |
-| snare | 诱捕，套住 | "their trap, as usual" |
+| trap | 陷阱，圈套 | "their trap, as usual" |
 
 ### ⭐ 基础
 
@@ -115,7 +115,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | choir | 唱诗班 | "It's a choir" |
 | rafters | 椽子 | "the sound whips around the rafters" |
-| snowflake | 雪花 | "When I catch a flake in my palm" |
+| crystal | 水晶，晶体 | "When I catch a flake in my palm" |
 | tiptoes | 脚尖 | "going up on tiptoes" |
 
 ## 一句话总结

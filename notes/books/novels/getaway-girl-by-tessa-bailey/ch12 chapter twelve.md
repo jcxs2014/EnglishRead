@@ -116,7 +116,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | chandelier | 枝形吊灯 | "Light from an overhead chandelier" |
 | foyer | 门厅，大厅 | "the massive foyer" |
-| balcony | 阳台 | "a balcony on each level" |
+| balcony | 阳台 | I spent most of the night sitting on the third-floor balcony watching the boats.k wrought-iron rails and pillars. |
 | tour | 参观，导览 | "the hospitable thing to do would be to give me a tour" |
 | furniture | 家具 | "You're getting furniture" |
 
