@@ -24,6 +24,9 @@ CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓
 def flat_alpha(s: str) -> str:
     # 先剥掉引文里手写的段落转义符（\n/\t 会被指纹误读为字母 nn/tt）
     s = re.sub(r'\\+\s*[nt]', '', s)
+    # NFKD 归一：组合变音符（如 Buzău = a+U+030C）拆解后丢弃，防组合字符假 MISS（Language City ch03 实证）
+    import unicodedata
+    s = unicodedata.normalize('NFKD', s)
     return re.sub(r'[^a-z0-9]', '', s.lower())
 
 def epub_flat_text(epub_path: str) -> str:
