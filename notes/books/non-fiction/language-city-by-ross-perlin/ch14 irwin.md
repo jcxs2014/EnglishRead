@@ -207,7 +207,6 @@ modified: "2026-09-04"
 | holdout | n. 坚守者 | This corner of Puebla was a holdout |
 | mestizaje | n. 混血化 | The Mexican government may call it mestizaje |
 | relentless | adj. 无情的 | there is relentless pressure |
-| smuggled | v. 走私（重复 ch08） | （ch13 用法，删） |
 | detonating | v. 引爆 | a series of social and economic shocks were detonating in Mexico |
 | discretion | n. 自由裁量 | "Officer discretion, they called it" |
 | harassment | n. 骚扰 | their leaders soon faced relentless harassment |
