@@ -51,11 +51,11 @@ modified: "2026-09-04"
 
 ---
 
-> **原句 4:** the bars of men rust
+> **原句 4:** you lucky and shaved, naked, mint, skylark: the bars of men rust
 
-**中文理解**：男人们的栏杆生锈了。（结尾：监狱栏杆锈，Sands 肉身朽，锈赢了。）
+**中文理解**：结尾两行：Sands 先被还原成感官清单（幸运、刮净、裸体、薄荷、云雀），然后男人们的栏杆生锈了——物比人长寿，锈比人诚实。
 
-**关键词**：bars（双关：栏杆/酒吧/乐句）、rust（锈：时间的胜利）、收束（全诗从街名开始，到锈结束：命名→腐朽）
+**关键词**：感官清单（lucky/shaved/naked/mint/skylark：死亡的收据）、bars（双关：栏杆/酒吧/乐句）、rust（锈：时间的胜利）
 
 **为什么这样写**：结尾三词：bars（囚）of men（人）rust（锈）。主语是栏杆，动词是锈——物比人长寿，锈比人诚实。"you lucky and shaved, naked, mint, skylark"（你幸运，刮净，裸体，薄荷，云雀）——Sands 被还原成感官清单：幸运（死了）、刮净（胡子？遗体？）、裸（囚服之外）、薄荷（没吃到的）、云雀（没听到的）。死亡的收据。
 

@@ -119,7 +119,7 @@ modified: "2026-09-04"
 | divining | 占卜的 | "like a **divining** crystal dangling" |
 | squalid | 肮脏的 | "The apartment wasn't messy, it was **squalid**" |
 | enumerate | 列举 | "I didn't count, I **enumerated**" |
-| syncopate | 切分（syncopating 错拍） | "syncopating each other's fever dance" |
+| syncopating | 切分，错拍 | "syncopating each other's fever dance" |
 | gallant | 英勇的 | "a tidy, **gallant** idea about leaving life" |
 | scorched | 烫焦的 | "He felt **scorched**, confused, suddenly alive" |
 
@@ -140,7 +140,7 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bounce | 跳动 | "His right knee was **bouncing** manically" |
+| bouncing | 跳动 | "His right knee was **bouncing** manically" |
 | sweat | 汗 | "A thin layer of **sweat** formed on his brow" |
 | widen | 睁大 | "Cyrus's eyes **widened**" |
 | glaze | 蒙上（雾） | "which had begun to **glaze** dully" |
