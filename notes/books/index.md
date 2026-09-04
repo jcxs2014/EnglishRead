@@ -29,10 +29,11 @@ title: 书单
 | [This Thing Between Us](novels/this-thing-between-us-by-gus-morales/) | Gus Morales | ✅ 精读完成 |
 | [Traitors' Nest](novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge | ✅ 精读完成 |
 | [Wolftamer](novels/wolftamer-by-maggie-rapier/) | Maggie Rapier | ✅ 精读完成 |
-| The Book of Doors | Gareth Brown | ⏳ 待精读 |
-| The Butcher of the Forest | Premee Mohamed | ⏳ 待精读 |
-| The Invisible Life of Addie LaRue | V.E. Schwab | ⏳ 待精读 |
-| Getaway Girl | Tessa Bailey | ⏳ 待精读 |
+| [Getaway Girl](novels/getaway-girl-by-tessa-bailey/) | Tessa Bailey | ✅ 精读完成 |
+| [Martyr!](novels/martyr-by-kaveh-akbar/) | Kaveh Akbar | ⏳ 精读进行中 |
+| [The Book of Doors](novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown | ✅ 精读完成 |
+| [The Butcher of the Forest](novels/the-butcher-of-the-forest-by-premee-mohamed/) | Premee Mohamed | ⏳ 精读进行中 |
+| [The Invisible Life of Addie LaRue](novels/the-invisible-life-of-addie-laud-by-v-e-schwab/) | V.E. Schwab | ⏳ 精读进行中 |
 
 ## 推理 / 悬疑
 
@@ -59,9 +60,8 @@ title: 书单
 | [Why We Read](non-fiction/why-we-read-shannon-reed-2024/) | Shannon Reed | ✅ 精读完成 |
 | [Wow, No Thank You](non-fiction/wow-no-thank-you-by-samantha-irby/) | Samantha Irby | ✅ 精读完成 |
 | [If We Cannot Go at the Speed of Light](non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — | ✅ 精读完成 |
-| Language City | Ross Perlin | ⏳ 待精读 |
-| Martyr! | Kaveh Akbar | ⏳ 待精读 |
-| Memory Speaks | Julie Sedivy | ⏳ 待精读 |
-| Splinters | Leslie Jamison | ⏳ 待精读 |
-| Ten Bridges I've Burnt | Brontez Purnell | ⏳ 待精读 |
-| What the Bees See | Craig Burrows | ⏳ 待精读 |
+| [Language City](non-fiction/language-city-by-ross-perlin/) | Ross Perlin | ⏳ 精读进行中 |
+| [Memory Speaks](non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy | ⏳ 精读进行中 |
+| [Splinters](non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison | ⏳ 精读进行中 |
+| [Ten Bridges I've Burnt](non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell | ⏳ 待精读 |
+| [What the Bees See](non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows | ⏳ 精读进行中 |
