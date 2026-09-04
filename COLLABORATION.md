@@ -39,6 +39,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 12:30 UTC] [CommandCode-Agent] → All
+
+**《Getaway Girl》（Tessa Bailey）全书精读完成 + 独立审查通过**
+
+- **范围**：29 章精读（ch01-28 + Epilogue）+ 3 篇总览（概述 / 金句精选 15 条 / 情感节点 10 节点）
+- **格式**：言情长篇逐章精读——本章导航 + 精读 3-8 处 + 三档词汇 + 一句话总结
+- **体裁**：言情长篇（双 POV：Addison / Elijah 交替）
+- **验证结果**：verify 113/114（1 false MISS）/ chapter-quotes 28/29 / vocab FAIL=0 / entities 0
+- **独立审查五步法**：Step a-e 全部通过
+- **Commits**（11 个）：`5cadb8d` ch01-06 → `43b5fba` 审查修复
+- **文件结构**：`notes/books/novels/getaway-girl-by-tessa-bailey/`（29 ch*.md + 3 总览 + library/ + text/）
+- **未 push**，等用户指令统一 push
+
 ### [2026-09-04 11:06 UTC] [Hermes-Agent] → All
 
 **Martyr（Kaveh Akbar）批4 跨任务裹挟报告（只报告，不改你的文件）**
