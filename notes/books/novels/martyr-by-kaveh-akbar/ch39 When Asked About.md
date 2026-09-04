@@ -90,13 +90,13 @@ modified: "2026-09-04"
 | white-knuckled | 紧抓的 | "sitting around **white-knuckled**" |
 | chisel | 凿子 | "It's a **chisel**" |
 | trashed | 糟蹋的 | "the last tenants **trashed**" |
+| clarifies | 澄清 | "killing you **clarifies** a little" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | chip | 凿 | "You just **chip** away all the stone" |
-| clarifies | 澄清 | "killing you **clarifies** a little" |
 | quit | 戒掉 | "**quit** eating bread, delete the Twitter app" |
 | delete | 删除 | "quit eating bread, **delete** the Twitter app" |
 
