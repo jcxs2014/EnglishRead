@@ -93,31 +93,17 @@ modified: "2026-09-04"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| precariat | 不稳定阶层（喻） | "the precariousness of it all" |
-| germinate | 萌芽，产生 | "Relief germinates in my chest" |
-| onslaught | 猛攻，冲击 | "raw from the onslaught of jealousy" |
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| cursory | 粗略的，匆忙的 | "A cursory consult" |
-| preamble | 前言，序曲 | "without preamble" |
 | husky | 沙哑的 | "that husky middle-of-the-night sleepiness" |
-| harried | 疲惫不堪的 | "the harried woman holding a clipboard" |
-| throng | 人群 | "the throng of people" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | macaroon | 杏仁饼 | "Macaroons are good for frayed nerves" |
-| clipboard | 写字板 | "the harried woman holding a clipboard" |
-| headset | 耳机 | ” The woman holds up a finger, leaning into the headset and scribbling down a few more notes. |
 | badge | 徽章，证件 | "Preston already has his badge out" |
 | stoop | 门阶 | "I would leave his butt on the stoop" |
 

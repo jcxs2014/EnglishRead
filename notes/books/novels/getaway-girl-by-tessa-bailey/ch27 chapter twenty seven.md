@@ -97,16 +97,12 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| gutted | 剖腹的，极度沮丧的 | "I'm gutted where I stand" |
-| catastrophic | 灾难性的 | "The loss of the reality is catastrophic" |
 | deluge | 洪水，暴雨 | "a deluge of moving pictures" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| maneuvered | 操纵，策划 | "She's been maneuvered enough" |
-| bereft | 失去的，缺乏的 | "bereft of all hope" |
 | barren | 贫瘠的，空荡的 | "It's barren" |
 
 ### ⭐ 基础

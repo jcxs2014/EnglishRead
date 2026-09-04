@@ -97,10 +97,7 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| prop | 支撑，倚靠 | "he props himself" |
 | languid | 倦怠的，懒洋洋的 | "a languid head nod" |
-| abrasive | 刺耳的，粗暴的 | "the abrasive thought" |
-| precariat | 不稳定阶层（喻） | "the precariousness of it all" |
 
 ### ⭐⭐ 进阶
 
@@ -108,9 +105,9 @@ modified: "2026-09-04"
 |---------|------|------|
 | pout | 撅嘴 | "I pull my lips into the pout" |
 | hiked | 提起，拉起 | "my bra hiked up near my collarbone" |
-| writhing | 扭动，翻滚 | "I'm writhing beneath him" |
-| grinding | 磨擦，碾压 | "his hips grinding down" |
-| spasming | 痉挛的 | "I'm still spasming" |
+| writhing | 扭动，翻滚 | "until I'm writhing beneath him" |
+| grinding | 磨擦，碾压 | "his heavy hips grinding down on my sensitive clit" |
+| spasming | 痉挛的 | "I'm still spasming when his hips hitch" |
 | guttural | 喉音的，粗哑的 | "a guttural growl" |
 
 ### ⭐ 基础
@@ -119,9 +116,8 @@ modified: "2026-09-04"
 |---------|------|------|
 | sternum | 胸骨 | "his lips track down my sternum" |
 | areola | 乳晕 | "running the very tip of his tongue around my areola" |
-| pelvis | 骨盆 | "my pelvis lifting up" |
-| clitoris | 阴蒂 | "treating my clit like a queen" |
-| abdomen | 腹部 | “I’m going to come,” I say on an exhale, my abdomen twisting lower and lower, light burning holes in my sight.id on his abdomen, veins running in every direction and b... |
+| pelvis | 骨盆 | “my pelvis lifting up” |
+| abdomen | 腹部 | “my abdomen twisting lower and lower” |
 
 ## 一句话总结
 

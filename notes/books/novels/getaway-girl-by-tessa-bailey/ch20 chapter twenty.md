@@ -106,7 +106,6 @@ modified: "2026-09-04"
 |---------|------|------|
 | disarray | 凌乱 | "My hair is in disarray" |
 | throng | 人群 | "the throng of people" |
-| garner | 获得，博得 | "garner attention" |
 | reconcile | 和解， reconcile | "Does she wish to reconcile" |
 | reconcile | 调和， reconcile | "reconcile with the mayor-elect" |
 

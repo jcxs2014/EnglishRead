@@ -107,9 +107,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | cursory | 粗略的，匆忙的 | "A cursory consult" |
 | harried | 疲惫不堪的 | "the harried woman holding a clipboard" |
-| husky | 沙哑的 | "that husky middle-of-the-night sleepiness" |
-| peephole | 窥视孔 | "I watch through the peephole" |
-| throng | 人群 | “Are you living here permanently? Do you have the ex-mayor’s blessing?” My feet try to tangle together, but Kyle is t... |
+| husky | 沙哑的 | "Addison's body shakes with a husky laugh" |
 
 ### ⭐ 基础
 

@@ -98,18 +98,12 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | precarious | 不稳定的，危险的 | "everything seem so precarious" |
-| guileless | 坦率的，不狡猾的 | "a total lack of guile" |
-| strategize | 制定策略 | "strategize a way to spin" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | peeved | 恼怒的 | "a peeved Addison" |
-| parted | 分开的 | "my parted lips" |
-| drape | 悬挂，披挂 | "drape a towel" |
-| stoop | 弯腰，屈尊 | "he stoops down" |
-| grudging | 勉强的 | "her grudging smile" |
 
 ### ⭐ 基础
 

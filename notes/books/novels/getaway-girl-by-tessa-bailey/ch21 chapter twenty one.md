@@ -107,8 +107,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | drowsy | 昏昏欲睡的 | "a drowsy smile" |
 | unguarded | 不设防的 | "She's unguarded right now" |
-| blindsided | 被打个措手不及 | "blindsided by them on my wedding day" |
-| stoop | 弯腰，屈尊 | "He stoops down" |
+| blindsided | 被打个措手不及 | "I almost told her my ex was back in town, so she wouldn't be blindsided" |
 | purr | 低沉柔和的声音 | "the satisfied purr in her voice" |
 
 ### ⭐ 基础
@@ -117,8 +116,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | grandfather clock | 落地钟 | "the tick-tick-ticking of the grandfather clock" |
 | pillow | 枕子 | "Her head uses my shoulder as a pillow" |
-| comforter | 被子 | "the fluff of the comforter" |
-| spine | 脊柱 | ” I brush my fingertips down the curve of her spine, laughing quietly when she whimpers and snuggles closer.sterday’s recycling?” When Elijah throws back his head an... |
+| spine | 脊柱 | “I brush my fingertips down the curve of her spine, laughing quietly when she whimpers and snuggles closer” |
 | sweatpants | 运动裤 | "usually when I'm wearing sweatpants" |
 
 ## 一句话总结

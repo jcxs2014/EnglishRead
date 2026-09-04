@@ -99,8 +99,8 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | possessiveness | 占有欲 | "Possessiveness crackles in my middle" |
-| uninhibited | 无拘无束的 | "How uninhibited she was" |
-| fasten | 紧握，注视 | "His eyes fasten on my mouth" |
+| resistance | 抵抗，抗拒 | "There's no resistance or pretense" |
+| fasten | 紧握，注视 | "she sits forward and begins to unfasten my belt" |
 | spasming | 痉挛的 | "her pussy spasming around me" |
 
 ### ⭐⭐ 进阶
@@ -110,19 +110,19 @@ modified: "2026-09-04"
 | purr | 低沉柔和的声音 | "The persuasive purr in her voice" |
 | plume | 翻腾，升腾 | "Sparks plume in her gaze" |
 | grind | 磨擦，碾压 | "I grind her against my lap" |
-| knead | 揉捏 | "He kneads my bottom" |
-| beckon | 招手，吸引 | "beckoning to passing sailors" |
-| deja vu | 似曾相识 | "I get this odd déjà vu feeling" |
+| molded | 塑形，塑造 | "begging to be molded" |
+| corresponds | 对应，相符 | "Her mouth corresponds to mine" |
+| pretense | 假装，掩饰 | "There's no resistance or pretense" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | orgasm | 高潮 | "bourbon-bolstered orgasm" |
-| squeak | 吱吱声 | "her bare backside squeaking" |
+| squeak | 吱吱声 | "Addison's bare backside squeaking up and back on the desk" |
 | jiggling | 颤动，摇晃 | "jiggling enough to drive me insane" |
 | spasm | 痉挛，抽搐 | "her pussy spasming" |
-| whimper | 呜咽 | She whimpers a little and a devastating current passes through me, my tongue tracing her lower lip, rubbing more full... rigid inches while he watched me, his lips curled in a c... |
+| whimper | 呜咽 | "She whimpers a little" |
 
 ## 一句话总结
 

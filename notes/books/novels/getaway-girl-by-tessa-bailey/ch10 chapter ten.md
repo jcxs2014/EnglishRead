@@ -105,10 +105,9 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | bourbon | 波本威士忌 | "a tumbler of bourbon" |
-| tuxedo | 燕尾服 | "still wearing his tuxedo" |
-| pant | 喘息 | "my cock is heavy and uncomfortable" |
-| throb | 悸动，跳动 | "his cock throb" |
-| whimper | 呜咽 | I climbed him, whimpering and sobbing, sinking down onto his rigid inches while he watched me, his lips curled in a c... |
+| restless | 不安的，焦躁的 | "my thighs have felt restless beneath my dress" |
+| throb | 悸动，跳动 | "Makes me throb between my legs" |
+| hem | 边缘，裙边 | "twisting in the hem of my dress" |
 
 ## 一句话总结
 

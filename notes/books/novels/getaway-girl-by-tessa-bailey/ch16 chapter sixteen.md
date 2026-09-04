@@ -117,11 +117,9 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lounge | 躺椅 | "I drop down on a chaise lounge" |
+| lounge | 躺椅 | push him backward on the lounge |
 | knee | 膝盖 | "using his thighs for balance" |
-| buckle | 搭扣 | "his belt buckle brushes my knees" |
 | muscle | 肌肉 | "His neck muscles are strained" |
-| groin | 腹股沟 | I can’t operate when half my brain cells have relocated to my groin. |
 
 ## 一句话总结
 

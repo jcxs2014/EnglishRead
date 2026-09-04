@@ -99,19 +99,14 @@ modified: "2026-09-04"
 |---------|------|------|
 | preoccupation | 全神贯注，惦记 | "somewhat of a preoccupation with her" |
 | lethargy | 倦怠，无精打采 | "a weird lethargy" |
-| hallucination | 幻觉 | "a dream or a hallucination" |
 | cacophony | 刺耳的声音 | "the cacophony of sounds" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| guileless | 坦率的，不狡猾的 | "I keep my features guileless" |
-| grudgingly | 勉强地，不情愿地 | "her grudging smile" |
+| grudgingly | 勉强地，不情愿地 | Her mean remarks and grudging smile are what make me happy. |
 | piques | 激起（好奇心等） | "piques my interest" |
-| stoop | 弯腰，屈尊 | "he stoops down to shake the driver's hand" |
-| whittle | 削减，削弱 | "whittled us down to roommates" |
-| trappings | 装饰，外部标志 | So am I satisfied that she’s giving me exactly what I wanted? Sex and companionship without the faulty trappings of c... |
 
 ### ⭐ 基础
 

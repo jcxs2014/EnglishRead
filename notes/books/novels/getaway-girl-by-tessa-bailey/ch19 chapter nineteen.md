@@ -108,9 +108,6 @@ modified: "2026-09-04"
 |---------|------|------|
 | knucklehead | 笨蛋 | "Not some knucklehead college student" |
 | poster child | 典范，代言人 | "the poster child for getting laid" |
-| maniac | 疯子 | "a raving maniac" |
-| vindictive | 报复心强的 | "being vindictive" |
-| garner | 获得，博得 | "garner attention" |
 
 ### ⭐ 基础
 
@@ -118,7 +115,6 @@ modified: "2026-09-04"
 |---------|------|------|
 | voicemail | 语音信箱 | "nine voicemails from my father" |
 | rearview | 后视镜 | "I check the rearview mirror" |
-| motorcycle | 摩托车 | "a motorcycle crash" |
 | suitcase | 行李箱 | "I take the handle of my suitcase" |
 | plexus | 丛（神经丛） | "a fist into my solar plexus" |
 

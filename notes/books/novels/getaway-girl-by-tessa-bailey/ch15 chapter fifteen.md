@@ -98,9 +98,8 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | obsessed | 着迷的，痴迷的 | "a man obsessed with you" |
-| worshipping | 崇拜，膜拜 | "her eyes squeezed shut, worshipping it" |
+| worshipping | 崇拜，膜拜 | her worshipping it, her eyes squeezed shut |
 | hypnotist | 催眠师 | "like a hypnotist" |
-| percussive | 敲击的，震动的 | "percussive rhythm" |
 
 ### ⭐⭐ 进阶
 
@@ -119,9 +118,7 @@ modified: "2026-09-04"
 |---------|------|------|
 | chaise lounge | 躺椅 | "I drop down on a chaise lounge" |
 | curtain | 窗帘 | "All the curtains are open" |
-| buckle | 搭扣 | "his belt buckle brushes my knees" |
-| kneecap | 膝盖骨 | "his knuckles on my knee" |
-| groin | 腹股沟 | I can’t operate when half my brain cells have relocated to my groin. |
+| buckle | 搭扣 | wrestling with my belt buckle |
 
 ## 一句话总结
 

@@ -98,7 +98,6 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | capsize | 倾覆，翻船 | "anything that could capsize me" |
-| deluge | 洪水，暴雨 | "a deluge of moving pictures" |
 | splintered | 碎裂的 | "my heart has splintered with loss" |
 
 ### ⭐⭐ 进阶
@@ -108,8 +107,7 @@ modified: "2026-09-04"
 | chopper | 直升机 | "a police chopper bringing up the rear" |
 | petrified | 惊呆的，石化的 | "In this petrified state" |
 | berate | 严厉斥责 | "all I can do is berate myself" |
-| hoarse | 沙哑的 | "my voice hoarse" |
-| gruff | 粗哑的 | “Your nose is sunburned, Goose,” he says gruffly, into my hair. |
+| hoarse | 沙哑的 | “my voice hoarse” |
 
 ### ⭐ 基础
 

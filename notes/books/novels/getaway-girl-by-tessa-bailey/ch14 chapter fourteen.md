@@ -106,7 +106,6 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| wonderful | 令人愉悦的，美好的 | "he's so wonderful" |
 | yearning | 渴望 | "no yearning for some elusive contentment" |
 | masochism | 受虐倾向 | "chemicals and masochism" |
 | nincompoop | 笨蛋 | "standing in the same exact spot like a nincompoop" |
@@ -117,7 +116,6 @@ modified: "2026-09-04"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| tapas | 小吃（西班牙菜） | And I can see no amount of reason is going to convince you they’re just having tapas and going dancing. |
 | bourbon | 波本威士忌 | "Bourbon, please. Neat." |
 | gin and tonic | 金汤力 | "A gin and tonic, please" |
 | bartender | 酒保 | "the bartender says" |

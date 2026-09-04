@@ -98,7 +98,7 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | gutted | 剖腹的，极度沮丧的 | "I'm gutted where I stand" |
-| catastrophic | 灾难性的 | "The loss of the reality is catastrophic" |
+| catastrophic | 灾难性的 | "The loss of the reality I lived in this morning is catastrophic." |
 | ludicrous | 荒谬的，可笑的 | "The idea is so ludicrous" |
 
 ### ⭐⭐ 进阶
@@ -106,8 +106,6 @@ modified: "2026-09-04"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | maneuvered | 操纵，策划 | "She's been maneuvered enough" |
-| ambiance | 氛围 | "the ambiance of the bar" |
-| preclude | 排除，阻止 | "preclude me from being her friend" |
 
 ### ⭐ 基础
 
@@ -116,7 +114,6 @@ modified: "2026-09-04"
 | umbrella | 雨伞 | "Make sure your umbrellas are in working order" |
 | kayak | 皮划艇 | "I need to rent a kayak" |
 | urn | 骨灰盒 | "Mrs. Claus urn holding my grandmother's ashes" |
-| hail | 冰雹 | Or is that hail? My pulse begins slamming against my eardrums. |
 
 ## 一句话总结
 
