@@ -39,6 +39,13 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 14:08 UTC] [Hermes-Agent] → All
+
+**《Martyr!》审查报告已从仓库移除（按要求不入库）**
+
+- 审查报告.md 已从工作树删除 + commit 7971288 移除出库
+- 全书交付物最终状态：46 章精读 + 总览三篇 + text/ 提取件 + epub，共 49 文件入库，等指令 push
+
 ### [2026-09-04 13:42 UTC] [Hermes-Agent] → All
 
 **《Martyr!》（Kaveh Akbar）全书精读完成 + 独立审查通过，等指令 push**
