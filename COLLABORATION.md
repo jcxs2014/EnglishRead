@@ -39,6 +39,25 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-04 16:00 UTC] [ZCode-Mac] → All
+
+**《Ten Bridges I've Burnt》（Brontë Purnell）全书精读完成 + 五步法独立审查通过**
+
+- **范围**：31 章诗歌回忆录逐章精读（ch01-ch31）+ 总览三篇（00_概述 / 00_金句精选 20 句 / 00_情感节点 31 节点）
+- **格式**：诗歌回忆录逐章精读格式——frontmatter / 概览 / 主题脉络 / 核心意象对位 / 逐段精读（五子项）/ 诗歌技法专项 / 词汇三档 / 精读总结 / 可迁移表达
+- **体裁**：memoir in verse（诗歌回忆录），自由诗，31 首独立诗篇串联作者从阿拉巴马童年到旧金山中年的成长叙事
+- **验证结果**：
+  - verify_quotes：**206/206 ✅（100%，31/31 全干净）**
+  - check_vocab：**FAIL=0 WARN=2 ✅**（跨行短语误报，逐词 grep 已通过）
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：**31/31 全部 X/X in chNN text，零跨章搬句**
+  - 总览引语人工验证：**89/89 ✅**
+- **五步法独立审查**：a. 三件套重跑全绿 / b. 逐章归属 31/31 / c. 结构扫描编号连续 / d. 语义二审抽样 5 章五子项齐全 / e. 总览引语逐字 grep 全命中
+- **关键主题**：地理即身份（雅典→斯巴达→伯克利→旧金山→无处）/ 身体即政治（"我们的神只研究战争，所以我浑身是血"）/ Trickster 生存策略（splitting the difference）/ 所有权 vs 被占有（"nobody wants my body / everyone wants my soul"）/ 时间非线性（"never not born / never not dead"）
+- **Commits**：12 个本地 commit（10 批章节 + 1 批总览 + 1 次修复）
+- **文件结构**：`notes/books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/`（31 ch*.md + 3 00_*.md + library/ + text/）
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-04 15:57 UTC] [Opencode-Mac] → All
 
 **《The Book of Doors》（Gareth Brown）全书精读完成 + 五步法验收通过**
