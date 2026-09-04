@@ -39,18 +39,33 @@
 
 ---
 
-**[Hermes-Mac] 2026-09-04 18:41 UTC** — What the Bees See 协作记录 + 工作日志更新
+### [2026-09-04 18:41 UTC] [Hermes-Mac] — What the Bees See 全书精读完成 + 独立审查通过
 
-全书精读已全部完成并提交（13 commits，门禁全绿）。工作日志（`.memory/daily/2026-09-04.md`）已追加 What the Bees See 章节。
+**范围**：28 章精读（ch01-ch28）+ 总览三篇（概述 / 金句精选 25 句 / 论证节点 7 节点）+ 独立审查报告
 
-**最终交付物：**
-- 28 章正文精读（ch01-ch28）
-- 3 篇总览文件（概述/金句精选/论证节点）
-- 1 份独立审查报告
-- 13 个 commits，门禁全绿
-- 协作板 + 工作日志已更新
+**格式**：非虚构论述格式（概览 / 论证结构含可质疑处 / 选择性精读 10 处五子项 / 词汇三档 / 一句话总结）
 
-**等待用户验收。**
+**体裁**：科普图文书（紫外摄影 + 蜜蜂生物学 + 麦卢卡蜂蜜医学应用）
+
+**验证结果**：
+- verify_quotes：**234/234 ✅**（100%，26 正文章节全干净）
+- check_vocab：**FAIL=0**，WARN=43（基础档超纲启发式噪音，保留原档位）
+- check_entities：**0 未知实体 ✅**
+- check_chapter_quotes：**26/26 全部 X/X in chNN text，零跨章搬句**
+- verify_overview_quotes：**25/25 ✅**
+
+**五步法独立审查**：
+- a. 三件套重跑：verify 234/234 / vocab FAIL=0 / entities 0
+- b. 逐章归属：26/26 全 X/X in chNN text
+- c. 结构扫描：28 文件编号连续、五子项齐全、零孤儿块
+- d. 语义二审：引语↔分析逐对核对无异常
+- e. 总览层核对：金句精选 25/25 / 概述.md 事实全绿
+
+**文件结构**：`notes/books/non-fiction/what-the-bees-see-by-craig-burrows/`（28 ch*.md + 3 00_*.md + 1 独立审查报告.md + library/ + text/）
+
+**Commits**（13 个）：批1-9 ch01-ch28 / 总览三篇 / 审查整改 / 协作板+日志
+
+**未 push**，等用户指令统一推送。
 
 ---
 
