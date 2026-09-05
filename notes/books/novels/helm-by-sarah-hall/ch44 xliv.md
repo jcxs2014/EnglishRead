@@ -100,24 +100,20 @@ modified: "2026-09-05"
 | `windsock` | 风向袋 | the orange windsock is |
 | `sailplane` | 竞速滑翔机 | in which the sailplanes are stacked tidily on the diagonal |
 | `winch launch` | 绞盘牵引起飞 | Better than a winch launch, I say |
-| `hangarage` | 机库群 | past a khaki military helicopter, its blades drooping, to the hangarage |
 | `lee wave` | 背风波 | activity in the lee wave along Great Dun |
 | `scotched` | 被搅黄 | has had his own plans scotched by the Met Office too |
 | `turboprop` | 涡桨飞机 | A red-and-white turboprop is parked on the north apron. |
-
 | `hangarage` | 机库群 | past a khaki military helicopter, its blades drooping, to the hangarage |
-
-| `helicopter` | 直升机 | He drives past a khaki military helicopter, its blades drooping, to the hangarage |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| `hangar` | 机库 | He drives past a khaki military helicopter, to the hangarage |
+| `hangar` | 机库 | to the hangarage |
+| `helicopter` | 直升机 | He drives past a khaki military helicopter, its blades drooping, to the hangarage |
 | `coffee` | 咖啡 | a small enamel cup of black coffee |
-| `snow` | 雪 | There’s snow on the tops |
 | `camera` | 相机 | Have you got your camera? |
-| `helicopter` | 直升机 | He drives past a khaki military helicopter |
+| `snow` | 雪 | There’s snow on the tops |
 | `radio` | 无线电 | we’ll radio you in |
 
 ---
