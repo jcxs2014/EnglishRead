@@ -82,9 +82,7 @@ modified: "2026-09-05"
 | turn | 转身 | "turn back to the washing" |
 | washing | 洗衣服 | "turn back to the washing" |
 | stop | 停止 | "she sees them stop" |
-| distance | 距离 | "a short distance from the lighthouse" |
 | discussion | 讨论 | "in discussion about something" |
-| argue | 吵架 | "Are they arguing" |
 | face-to-face | 面对面 | "standing like that face-to-face" |
 | anger | 愤怒 | "There is no anger" |
 | posture | 姿态 | "in their postures" |
@@ -102,7 +100,6 @@ modified: "2026-09-05"
 | father | 父亲 | "their father having followed" |
 | follow | 跟随 | "having followed Rowan south" |
 | come | 来 | "Fen has come up" |
-| lighthouse | 灯塔 | "to the lighthouse" |
 | check | 检查 | "to check on her brothers" |
 | brother | 弟弟 | "her brothers" |
 | help | 帮忙 | "help with the chores" |

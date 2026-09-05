@@ -36,7 +36,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | mad | 疯狂的 | "I must be mad for thinking any of this" |
-| imagine | 想象 | "must be imagining things" |
 | leaps | 跳起 | "she leaps, is falling" |
 | beneath | 在……下方 | "sees them beneath her" |
 | massive | 巨大的 | "angling that massive body away from them" |

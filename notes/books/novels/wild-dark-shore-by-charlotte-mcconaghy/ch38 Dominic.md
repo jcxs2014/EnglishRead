@@ -52,7 +52,6 @@ modified: "2026-09-05"
 | child | 孩子 | "he was not her child" |
 | way | 方式 | "a very small way to look at love" |
 | love | 爱 | "to look at love" |
-| lose | 失去 | "he's lost" |
 | terror | 恐惧 | "sick with the terror" |
 
 ## 一句话总结

@@ -49,7 +49,6 @@ modified: "2026-09-05"
 | substantially | 大幅地 | "has spread substantially" |
 | laborer | 劳工 | "And another laborer" |
 | disturbs | 不安 | "What disturbs me" |
-| pulled | 拉扯 | "pulled in another direction" |
 | become | 成为 | "she and I could never … become" |
 | excuses | 借口 | "have simply been excuses" |
 
@@ -66,7 +65,6 @@ modified: "2026-09-05"
 | seal | 密封 | "under the seal on the door" |
 | door | 门 | "on the door" |
 | top | 此外 | "On top of which" |
-| identify | 发现 | "Rowan identified" |
 | spread | 扩散 | "has spread substantially" |
 | four weeks | 四周 | "Four weeks until the boat" |
 | boat | 船 | "until the boat" |
@@ -90,7 +88,6 @@ modified: "2026-09-05"
 | north | 北方 | "return north" |
 | seed | 种子 | "seed vault" |
 | vault | 地下室 | "seed vault" |
-| cold | 冷 | "minus ten" |
 | water | 水 | "water from the tunnel" |
 | start | 开始 | "has started seeping" |
 | under | 在……下方 | "under the seal" |
@@ -102,7 +99,6 @@ modified: "2026-09-05"
 | home | 家 | "On the walk home" |
 | say | 说 | "what she said" |
 | one | 一个 | "I'm not the only one" |
-| direction | 方向 | "in another direction" |
 | last | 最后 | "the last few nights" |
 | day | 天 | "since the day" |
 | tell | 告诉 | "I told myself" |

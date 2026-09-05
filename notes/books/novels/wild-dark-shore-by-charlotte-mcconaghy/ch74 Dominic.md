@@ -78,7 +78,6 @@ modified: "2026-09-05"
 | you | 你 | "you loved" |
 | in | 进 | "and I wade in" |
 | are | 是 | "are still asleep" |
-| it's | 它是 | "it's morning" |
 | they | 它们 | "they will come later" |
 | I | 我 | "I sink beneath the cold surface" |
 | the | 这个 | "beneath the cold surface" |

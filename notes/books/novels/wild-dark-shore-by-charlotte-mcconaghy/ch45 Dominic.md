@@ -63,7 +63,6 @@ modified: "2026-09-05"
 | morning | 早晨 | "I remember a morning" |
 | bleed | 流血 | "all bleed together in my mind" |
 | mind | 头脑 | "in my mind" |
-| rise | 起身 | "A morning I rose" |
 | grief | 悲伤 | "shattered by grief" |
 | weariness | 疲惫 | "and weariness" |
 | living room | 客厅 | "our living room in the city" |
@@ -90,7 +89,6 @@ modified: "2026-09-05"
 | know | 知道 | "she is going to know" |
 | lose | 失去 | "lose someone suddenly" |
 | suddenly | 突然 | "lose someone suddenly" |
-| understand | 理解 | "I understand what it means" |
 | mean | 意味着 | "what it means to lose" |
 | word | 话 | "words unspoken" |
 | unspoken | 未说出的 | "words unspoken" |

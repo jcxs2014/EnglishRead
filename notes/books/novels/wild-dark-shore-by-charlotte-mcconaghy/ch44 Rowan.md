@@ -56,8 +56,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | impossible choice | 不可能的选择 | "presented with an impossible life, an impossible choice" |
-| vessel | 容器 | "loved me as a vessel" |
-| essence | 本质 | "in my essence, a purpose other than to carry children" |
 | resting places | 安息之地 | "I will disturb no more resting places" |
 
 ### ⭐⭐ 进阶

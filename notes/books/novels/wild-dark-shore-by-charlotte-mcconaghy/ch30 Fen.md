@@ -68,7 +68,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | surface | 水面 | "rises to the surface for air" |
-| seafloor | 海床 | "sits on the ocean floor" |
 | kelp | 海藻 | "mostly kelp" |
 | drift | 飘荡 | "something different slides into her eyeline" |
 | dream state | 梦境状态 | "relaxing into its deep dream state" |
@@ -77,7 +76,6 @@ modified: "2026-09-05"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| water | 水 | "Under the surface" |
 | sit | 坐 | "sitting on the ocean floor" |
 | count | 数 | "counting the seconds" |
 | hair | 头发 | "Her hair drifts around her" |

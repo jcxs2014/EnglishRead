@@ -93,7 +93,6 @@ modified: "2026-09-05"
 | decide | 决定 | "I decide I'd better not let" |
 | let | 让 | "I'd better not let the fucker drown" |
 | want | 想要 | "I don't want her to bear" |
-| lose | 失去 | "the same loss I have" |
 | death | 死亡 | "carry his death" |
 | meet | 遇见 | "meet his ghost" |
 | daughter | 女儿 | "to scare my daughter" |

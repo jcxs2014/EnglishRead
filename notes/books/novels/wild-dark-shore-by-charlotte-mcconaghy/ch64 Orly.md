@@ -111,7 +111,6 @@ modified: "2026-09-05"
 |---------|------|------|
 | have | 有 | "If you have anything" |
 | down | 下 | "down in that storage room" |
-| it's | 这是 | "it's time to move it" |
 | what | 什么 | "That's what she said" |
 | been | 一直 | "it has been ringing" |
 | in | 在 | "in his ears" |

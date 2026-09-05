@@ -51,7 +51,6 @@ modified: "2026-09-05"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| absence | 缺失 | "I notice the absence immediately" |
 | greedy | 贪婪的 | "like a greedy dragon hoarding treasure" |
 | hoarding | 囤积 | "hoarding treasure" |
 | queasy | 恶心的 | "I feel a bit queasy" |
@@ -79,7 +78,6 @@ modified: "2026-09-05"
 | loudly | 大声地 | "Orly says more loudly" |
 | hit | 击中 | "It hits me" |
 | wrong | 错的 | "How wrong this is" |
-| hide | 藏 | "Hiding away her belongings" |
 | dragon | 龙 | "a greedy dragon" |
 | treasure | 宝藏 | "hoarding treasure" |
 | share | 分享 | "instead of sharing them" |
@@ -91,7 +89,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | notice | 注意 | "I notice the absence" |
-| immediately | 立刻 | "immediately" |
 | reach | 伸手 | "reach for clean clothes" |
 | after | 之后 | "after my shower" |
 | all | 所有 | "All of Claire's things" |
@@ -112,7 +109,6 @@ modified: "2026-09-05"
 | didn't | 没有 | "I didn't know" |
 | long | 久 | "For a while" |
 | notice | 注意 | "You didn't notice" |
-| become | 变得 | "that is becoming" |
 | crystal | 水晶 | "crystal clear" |
 | see | 看见 | "I need to see her" |
 

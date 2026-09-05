@@ -63,7 +63,6 @@ modified: "2026-09-05"
 | rust converter | 除锈剂 | "There is no rust converter" |
 | scaffolding | 脚手架 | "a scaffolding tray between them" |
 | flaking | 剥落的 | "chip away all the flaking concrete" |
-| patch up | 修补 | "we can't patch up this problem" |
 | painfully | 痛苦地 | "She has gone painfully silent" |
 | unbearable | 无法忍受的 | "The tension between them is unbearable" |
 | divide | 裂痕 | "I can see how this divide could grow" |

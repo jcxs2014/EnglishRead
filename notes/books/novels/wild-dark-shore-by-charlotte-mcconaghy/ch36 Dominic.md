@@ -70,10 +70,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | arm | 手臂 | "My arm" |
-| okay | 好的 | "It's okay" |
-| alive | 活着的 | "you're alive" |
-| broken | 断的 | "Raff's wrist is swollen" |
-| hurt | 受伤的 | "I bandage it" |
 
 ## 一句话总结
 

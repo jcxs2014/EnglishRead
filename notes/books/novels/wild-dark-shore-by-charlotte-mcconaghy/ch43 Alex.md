@@ -95,7 +95,6 @@ modified: "2026-09-05"
 | flimsy | 脆弱的 | "this flimsy matchbox house" |
 | secular | 世俗的 | "raised firmly secular" |
 | unbearable | 无法承受的 | "It is unbearable" |
-| cradled | 被抱 | "cradled together" |
 
 ### ⭐⭐ 进阶
 

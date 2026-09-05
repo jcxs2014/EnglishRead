@@ -59,7 +59,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | determined | 决心 | "I am determined to cover a little ground" |
-| pause | 暂停 | "pausing the film she's put on" |
 | irritated | 烦躁的 | "she says, irritated" |
 | swept under | 被冲走 | "More children swept under" |
 | impossibly | 不可能地 | "this impossibly high tide" |
@@ -74,7 +73,6 @@ modified: "2026-09-05"
 | mother | 母亲 | "My mother and I have not spoken" |
 | spoken | 说话 | "have not spoken much" |
 | time | 时间 | "in the time we've spent" |
-| sofa | 沙发 | "here on her couches" |
 | many | 许多 | "in many years, really" |
 | cover | 涉及 | "cover a little ground" |
 | ground | 话题 | "cover a little ground" |
@@ -86,7 +84,6 @@ modified: "2026-09-05"
 | boat | 船 | "Why did we live on the boat" |
 | choose | 选择 | "what made you choose it" |
 | first | 首先 | "in the first place" |
-| adventure | 冒险 | "some story of wanting a adventure" |
 | flood | 洪水 | "A flood destroyed our home" |
 | home | 家 | "destroyed our home" |
 | cent | 分 | "we didn't have a cent" |

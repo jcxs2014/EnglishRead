@@ -60,7 +60,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | churn | 翻涌 | "The churn of the sea" |
-| battered | 被击打的 | "My body tumbled" |
 | tumble | 翻滚 | "I am tumbled head over tail" |
 | stillness | 平静 | "grasp any stillness" |
 | calm | 平静 | "any hint of calm" |

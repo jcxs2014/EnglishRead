@@ -60,7 +60,6 @@ modified: "2026-09-05"
 | hinges | 铰链 | "grinding the rusted hinges off" |
 | eerie | 诡异的 | "with eerie certainty" |
 | certainty | 确定 | "with eerie certainty" |
-| vigil | 警惕 | "his vigil on his father" |
 | frantic | 焦急 | "I can see how frantic Dom is" |
 | submerged | 被淹没 | "even when the shaft is entirely submerged" |
 | armor | 盔甲 | "armor against the way she blamed me" |

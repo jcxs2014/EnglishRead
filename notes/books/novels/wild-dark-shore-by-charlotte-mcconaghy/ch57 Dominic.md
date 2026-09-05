@@ -141,7 +141,6 @@ modified: "2026-09-05"
 | any | 任何 | "no response from any of it" |
 | see | 看到 | "I can already see" |
 | job | 工作 | "any part of this job" |
-| easy | 容易 | "It's not difficult" |
 | want | 想要 | "Hank didn't want anyone" |
 | call | 呼叫 | "to be able to call for help" |
 | finish | 完成 | "before he'd finished" |

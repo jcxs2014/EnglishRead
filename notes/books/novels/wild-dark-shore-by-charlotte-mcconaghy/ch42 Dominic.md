@@ -86,7 +86,6 @@ modified: "2026-09-05"
 | go | 去 | "where she's going" |
 | kid | 孩子 | "doesn't let the kids go" |
 | come back | 回来 | "waiting for her to come back" |
-| force | 强迫 | "forcing myself not" |
 | mine | 我的 | "She is not mine" |
 
 ## 一句话总结

@@ -143,7 +143,6 @@ modified: "2026-09-05"
 |---------|------|------|
 | see | 看到 | "when she first sees Hank" |
 | someone | 有人 | "shouting at someone" |
-| drive | 开车 | "driving the Frog onto land" |
 | land | 陆地 | "onto land" |
 | wait | 等待 | "they need to wait" |
 | pair | 一对 | "a pair of gentoos" |

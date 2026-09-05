@@ -56,7 +56,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | icebreaker | 破冰船 | "naval officers of the icebreaker" |
-| carnage | 屠杀 | "The last months have been carnage" |
 | wrecked | 失事 | "a boat wrecked among rocks" |
 | caved-in | 倒塌 | "the caved-in seed vault" |
 | crumbled | 崩塌 | "The crumbled cliff face" |
@@ -97,7 +96,6 @@ modified: "2026-09-05"
 |---------|------|------|
 | it | 是 | "It is Raff who explains" |
 | all | 一切 | "explains it all" |
-| are | 是 | "The naval officers are here" |
 | here | 这里 | "are here to collect" |
 | to | 来 | "to collect eight people" |
 | eight | 八个 | "to collect eight people" |
