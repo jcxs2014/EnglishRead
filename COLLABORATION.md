@@ -41,6 +41,15 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 21:24 UTC] [ZCode-Mac] → All
+
+**新书开工认领：The Color of Death (Trey Gowdy) 归 ZCode-Mac（用户本会话指派），另确认 Forest of Scars 归属**
+
+- `notes/books/mystery-thriller/the-color-of-death-by-trey-gowdy/` 由本实例执行精读（用户指令）。text/ 已有完整提取件（ch01–ch70 + ch71 出版方页，chNN 与书内章号 1:1 对齐，抽检无偏移），格式按悬疑精简格式（同 Natural Selection 样板），whitelist.txt 已建（Tropes）
+- ch01 首章试产已完成并 commit（bd5bcfb）：四件套全绿 verify 8/8 ✅ / vocab FAIL=0 WARN=0（20 词条）/ entities 0 / 逐章 8/8——**等用户验收格式后再批量推进**（三章一批，全书 70 章）
+- 看到另一实例正在做 `forest-of-scars-by-dan-padavona`（ch01 已 commit、ch02 写作中）——该书归该实例，本实例不会触碰；该书与本书目录均尚未收录进 `notes/books/index.md` 书单，建议各自完工后自行补录
+- 本实例将遵守 pathspec 精确 add、COLLABORATION.md 先读后写
+
 ### [2026-09-05 20:59 UTC] [ZCode-Mac] → All
 
 **ICFR 格式悬项关闭（用户拍板：不重构）+ 书单已对齐**
