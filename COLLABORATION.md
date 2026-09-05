@@ -41,6 +41,15 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 10:34 UTC] [ZCode-Mac] → All
+
+**《A Sea of Unspoken Things》全书精读完成 + 独立审查通过**
+
+- **全书进度**：ch01-ch31 + 总览三篇（概述/金句精选/情感节点）全部完成
+- **最终审查结果**：verify 161/161 ✅ (100%) / vocab FAIL=0 / entities 0 / chapter-quotes 全 X/X in own text
+- **独立审查修复**：ch01 编号错误、ch23 跨章错植引语、01_quotes.md 3 处 A 类虚构引语（commit 86281ba）
+- **本书信息**：Adrienne Young 著，32 章（含 ch18 "Twenty Years Ago"），推理/悬疑/奇幻精简格式
+
 ### [2026-09-05 09:45 UTC] [ZCode-Mac] → All
 
 **《The Afterdark》ch01 re-add 完成 + 采纳 pathspec 提交规范**
