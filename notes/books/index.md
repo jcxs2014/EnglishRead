@@ -90,26 +90,3 @@ title: 书单
 | [The Secret Lives of Church Ladies](books/short-story-anthologies/the-secret-lives-of-church-ladies/) | — |
 | [Very Short Stories](books/short-story-anthologies/very-short-stories-by-sean-hill/) | Sean Hill |
 | [Yellow Pine](books/short-story-anthologies/yellow-pine-by-claire-vaye-watkins/) | Claire Vaye Watkins |
-
-## 待精读（新入库）
-
-| 书名 | 作者 | 分类 |
-|------|------|------|
-| A Sea of Unspoken Things | Adrienne Young | novels/ |
-| Abduction of a Slave | Dana Stabenow | mystery-thriller/ |
-| Black River | Ruby Jean Cottle | mystery-thriller/ |
-| Butterfly Girl | Sarah Floyd | mystery-thriller/ |
-| Flesh A Novel | David Szalay | novels/ |
-| It Comes from the River | Rachel Bower | mystery-thriller/ |
-| Life, and Death, and Giants | Ron Rindo | novels/ |
-| Perfection (Le perfezioni) | Vincenzo Latronico | novels/ |
-| The Afterdark | E. Latimer | mystery-thriller/ |
-| The Book of Heartbreak | Ova Ceren | novels/ |
-| The Fall Risk | Abby Jimenez | novels/ |
-| The Italian Secret | Tara Moss | mystery-thriller/ |
-| The Lack of Light | Nino Haratischwili | novels/ |
-| The Rose Bargain | Sasha Peyton Smith | novels/ |
-| Things We Never Got Over | Lucy Score | novels/ |
-| We Rip the World Apart | Charlene Carr | novels/ |
-| What We Give Away | Bold Journeys | novels/ |
-| Wild Dark Shore | Charlotte McConaghy | mystery-thriller/ |
