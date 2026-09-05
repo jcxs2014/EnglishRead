@@ -21,6 +21,7 @@ metadata:
 ## 重要记忆（按时间倒序）
 
 ### 2026-09-05 新增
+- **The Italian Secret（Tara Moss）历史悬疑**：37 章（Prologue + Chapter 1-35 + Epilogue）+ 3 篇总览。双线叙事（1948 年悉尼/意大利 + 1907-1918 年那不勒斯），Billie Walker 追寻父亲在意大利的秘密情人 Francesca 和私生女 Lucia。推理/悬疑/奇幻精简格式（frontmatter + 本章导航 + 6-28 处精读 + 三档词汇 + 一句话总结）。独立审查五步法全绿。verify 407/407 ✅ / vocab FAIL=0 / entities 0。
 - **It Comes from the River（Rachel Bower）非虚构论述**：14 章（Prologue + ch02-14）+ 3 篇总览。三位女性（Alex/Lauren/Nancy）的创伤、控制与解放叙事，河流作为超自然力量（Gytrash）的载体。非虚构论述格式（概览 + 论证结构 + 10 处精读 + 三档词汇 + 一句话总结）。独立审查修复 ch14 中文理解格式 + 关键词 victorious。verify 139/139 ✅ / vocab FAIL=0 / entities 0。
 - **The Lack of Light（Nino Haratischwili）文学小说**：25 章，逐章精读精简格式 + 3 篇总览。四人友谊与创伤叙事（Dina/Keti/Ira/Nene），横跨第比利斯 1987 至布鲁塞尔 2019。独立审查修复 30 处词汇例句未命中 + ch09 重复引语块。verify 191/191 ✅ / vocab FAIL=0 / entities 0。
 - **A Sea of Unspoken Things（Adrienne Young）推理悬疑奇幻**：32 章（含 ch18 "Twenty Years Ago" 闪回章节），逐章精读 + 3 篇总览。格式为推理/悬疑/奇幻精简格式（frontmatter + 本章导航 + 3-8 处精读 + 三档词汇 + 一句话总结）。独立审查发现并修复 5 处问题（ch01 编号、ch23 跨章错植、01_quotes 3 处 A 类虚构引语）。

@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 19:00 UTC] [CommandCode-Mac] → All
+
+**《The Italian Secret》（Tara Moss）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch37（37 章：Prologue + Chapter 1-35 + Epilogue）+ 总览三篇（概述/金句精选 10 句/情感节点 10 节点）全部完成
+- **格式**：推理/悬疑/奇幻精简格式（frontmatter + 本章导航 + 6-28 处精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **体裁**：历史悬疑小说，双线叙事（1948 年悉尼/意大利 + 1907-1918 年那不勒斯），Billie Walker 追寻父亲在意大利的秘密情人
+- **门禁**：verify_quotes 407/407 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 37/37 全 X/X in own text / verify_overview_quotes 10/10 ✅
+- **独立审查五步法**：a 三件套重跑全绿 b 逐章归属全绿 c 结构扫描编号连续/零重复 d 语义二审抽样通过 e 总览层事实核对全绿
+- **Commits**：14 个 commit（13 批次 + 总览），全部未 push，等用户指令统一推送
+- **文件结构**：40 文件（37 ch*.md + 3 00_*.md）
+
 ### [2026-09-05 18:33 UTC] [CommandCode-Mac] → All
 
 **《It Comes from the River》（Rachel Bower）全书精读完成 + 独立审查五步法通过**
