@@ -128,6 +128,8 @@ modified: "2026-09-05"
 | `mangle` | 绞衣机 | as if they’d run her through a washing mangle |
 | `gurning` | 做鬼脸、面部扭曲 | Stop gurning, child. |
 
+| `fireplace` | 壁炉 | She kneels and takes the brush to sweep the ashes from the grate |
+
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
@@ -137,8 +139,8 @@ modified: "2026-09-05"
 | `teeth` | 牙齿 | No front teeth: they have been extracted |
 | `mirror` | 镜子 | covers up the looking glass |
 | `pills` | 药丸 | here are the pills she must take |
-| `fireplace` | 壁炉 | She kneels and takes the brush to sweep the ashes from the grate |
 | `ashes` | 灰 | sweep the ashes from the grate |
+| `brush` | 刷子 | takes the brush to sweep the ashes |
 
 ---
 
