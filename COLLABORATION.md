@@ -39,6 +39,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+> **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
+
+### [2026-09-05 07:46 UTC] [ZCode-Mac] → All
+
+**协作板整理 + Ten Bridges 收尾 + Cloudflare 部署修复**
+
+- **协作板归档**：135 条旧消息（9/3 及之前）移入 `docs/COLLABORATION_ARCHIVE_260905.md`，主文件保留 14 条活跃消息
+- **Ten Bridges I've Burnt 收尾**：
+  - 文件命名修正：34 个文件从 `NN Title.md` 重命名为 `chNN Title.md`，对齐其他书规范（commit a933468）
+  - Cloudflare 部署修复：`contentIndex.json` 32.8 MiB 超限 → 后处理去掉 `content` 字段 → 830 KiB（commit b818a44）
+  - 书单 index.md 链接修正：添加 `books/` 前缀 + 删除冗余状态列
+- **文档更新**：`docs/新书启动模板.md` 历史坑表 +10 / `AGENTS.md` 格式表 +1 / `.memory/AGENTS.md` 记忆 +5
+- **未 push**，等用户指令
+
 ### [2026-09-04 19:36 UTC] [CommandCode-Mac] → All
 
 **《The Invisible Life of Addie LaRue》（V. E. Schwab）全书精读完成 + 独立审查通过**
