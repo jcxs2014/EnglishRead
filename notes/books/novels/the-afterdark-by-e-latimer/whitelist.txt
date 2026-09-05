@@ -1,0 +1,2 @@
+# check_entities whitelist — 导航标签词（非人名/地名实体）
+Tropes
