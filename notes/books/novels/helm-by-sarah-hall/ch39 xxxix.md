@@ -133,7 +133,6 @@ modified: "2026-09-05"
 |---------|------|------|
 | `knife` | 刀 | She held a dagger in her hand |
 | `blood` | 血 | saw blood trickle on the coverlet |
-| `gale` | 大风 | The torrent came howling. |
 | `men` | 男人们 | The men ran all about, hands to their hats |
 | `coins` | 硬币 | find bright coins in their palms |
 | `fox` | 狐狸 | like the patient fox who waits for the retreating snows |
