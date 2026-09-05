@@ -77,9 +77,17 @@ modified: "2026-09-05"
 
 > **原句 6:** This isn't a dream, or a trick. I am alive.
 
+**中文理解：** 这不是梦境，也不是诡计。我活着。
+
+**关键词：** not a dream / not a trick / alive
+
+**为什么这样写：** Sare 的"这不是梦境"是"确认"——不是"我在做梦"，是"我活着"。"not a trick" 用"诡计"替代"幻觉"——Sare 的"确认"不是"惊讶"，是"确信"。
+
+**读者视角提示：** 这是 Sare 全书最"重要"的"确认"——不是"我在做梦"，是"我活着"。她的"确认"不是"怀疑"，是"确信"。
+
 ---
 
-> **原句 6:** My cry is no cloud. It's a storm. One to wash away everything that came before.
+> **原句 7:** My cry is no cloud. It's a storm. One to wash away everything that came before.
 
 **中文理解：** 我的哭泣不是云。它是一场风暴。一场洗去一切过往的风暴。
 
