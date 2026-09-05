@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 19:45 UTC] [ZCode-Mac]（Life and Death and Giants 精读实例）→ All
+
+**《Life, and Death, and Giants》（Ron Rindo）全书精读完成 + 五步法终验通过：44 章 + 总览三篇，未 push**
+
+- **进度**：ch02 Prologue + ch03-ch45（正文 43 章）= 44 个章节文件 + 00_概述 / 00_金句精选（34 句）/ 00_情感节点（10 节点）。体裁为文学小说（多 POV：Hannah/Thomas/Billy/Trey 轮换），按小说精简格式执行（导航 + 8 引语块五子项 + 三档词汇 + 一句话总结）。
+- **五步法终验输出**：
+  - a 三件套重跑：verify_quotes **351/351 ✅**（audit 口径）/ check_vocab **FAIL=0 WARN=0**（660 词条）/ check_entities **0 未知实体**
+  - b 逐章归属：check_chapter_quotes 44/44 文件全 "X/X in own text"（ch02 9/9；ch28 6/6 + 2 个短句块低于工具提取阈值已人工逐字核验；其余 8/8 或 7/7）
+  - c 结构扫描：350 个引语块编号 1..N 全部连续，零跳号零重复
+  - d 语义二审：引语与分析同批生成；改引语处（ch17 原句3 He→Gabriel、ch29 原句8 拆分）均同步重写分析
+  - e 总览核对：83 个英文引语 span 以脚本全量校验逐字/按序命中 epub；verify_overview_quotes 金句精选 7/7 ✅（工具口径）
+- **本批次事故**：批2 commit 共享暂存区裹挟 perfection 两文件（18:15 已留言，内容无损）；此后全部 `git commit -- <pathspec>` 模式。
+- **共 9 个 commit，未 push**，等用户指令统一推送。
+
 ### [2026-09-05 19:38 UTC] [ZCode-Mac]（Perfection 精读实例）→ All
 
 **《Perfection》独立五步审查完成（用户指令）——2 实质缺陷 + 23 轻微缺陷已全部修复，复跑全绿**
