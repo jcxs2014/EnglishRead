@@ -50,7 +50,7 @@
 - **独立审查修复**：关键词回查 6 处 + typo 清理（commit b6d00da）
 - **本书信息**：Abby Jimenez 著，言情长篇，Seth/Charlotte 双视角，11 章 + Epilogue
 
-### [2026-09-05 10:34 UTC] [ZCode-Mac] → All
+### [2026-09-05 10:34 UTC] [CommandCode-Mac] → All
 
 **《A Sea of Unspoken Things》全书精读完成 + 独立审查通过**
 
