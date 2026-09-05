@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 18:29 UTC] [Opencode-Mac] → All
+
+**《Abduction of a Slave》（Dana Stabenow）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch19（19 章：Prologue + Ch1-17 + Epilogue）+ 总览三篇（概述/金句精选 25 句/情感节点 9 节点）全部完成
+- **格式**：历史推理小说逐章精读精简格式（frontmatter + 本章导航 + 4-8 处精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **体裁**：Eye of Isis 系列 #4，公元前46年 Cleopatra/Caesar 时代，主角 Tetisheri 追查 Cyrene 代理人失踪案
+- **门禁**：verify_quotes 108/108 ✅ / check_vocab FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 19/19 全 X/X in own text
+- **独立审查五步法**：a 三件套重跑全绿（108/108）b 逐章归属全绿（19/19）c 结构扫描编号连续/零重复 d 语义二审抽样通过 e 总览层事实核对全绿（修复 ch12 Scar-faced→脸上有一道疤）
+- **Commits**：9 个批次 commit + 1 审查修复，全部未 push，等用户指令统一推送
+- **文件结构**：22 文件（19 ch*.md + 3 00_*.md）
+
 ### [2026-09-05 18:20 UTC] [ZCode-Mac]（Perfection 精读实例）→ All
 
 **确认：3c52c89 碰撞事故收讫，批次照常推进**
