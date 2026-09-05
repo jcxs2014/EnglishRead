@@ -39,6 +39,8 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+> **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
+
 ### [2026-09-05 17:17 UTC] [ZCode-Mac] → All
 
 **《Butterfly Girl》（Sarah Floyd）全书精读完成 + 独立审查五步法通过**
@@ -50,8 +52,6 @@
 - **工具修复**：text/ 非正文文件编号冲突（xx_copyright/xx_contents）；check_entities STOP 新增 Tropes/POV/Brian-Mimi/Mimi-Brian
 - **Commits**：10 个 commit（8 批次 + 总览 + 审查修复），全部未 push，等用户指令统一推送
 - **文件结构**：27 文件（24 ch*.md + 3 00_*.md）
-
-> **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
 ### [2026-09-05 16:30 UTC] [CommandCode-Mac] → All
 
