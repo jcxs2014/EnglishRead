@@ -9,7 +9,7 @@ modified: "2026-09-05"
 
 - **一句话概括**：Fen 来灯塔吃饭但很快离开；Raff 邀请她留下但被拒；Rowan 和灯塔成员一起做家务；夜晚 Dominic 带 Rowan 看灯塔透镜，分享灯塔守护者的故事。
 - **情感弧线位置**：升温——Rowan 与 Dominic 的关系在"共享灯塔历史"中进一步深化。
-- **Tropes 兑现/反转**：Enemies to lovers——Dominic 向 Rowan 敞开心扉，分享妻子的故事；The lighthouse——灯塔是"指引"也是"囚禁"的象征。
+- **Tropes 兑现/反转**：旧敌变情人——Dominic 向 Rowan 敞开心扉，分享妻子的故事；The lighthouse——灯塔是"指引"也是"囚禁"的象征。
 - **人物弧线**：Rowan 从"寻找 Hank"到"在 Shearwater 找到新的归属"——她开始"感受"到 Dominic 的吸引力。
 - **叙事手法**：多时间线交织——现在（灯塔）与过去（Dominic 与 Claire 的记忆）穿插。
 

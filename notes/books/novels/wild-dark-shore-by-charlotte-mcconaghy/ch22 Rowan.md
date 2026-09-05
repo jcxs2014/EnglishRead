@@ -9,7 +9,7 @@ modified: "2026-09-05"
 
 - **一句话概括**：Rowan 因告诉 Orly 世界末日的真相而受到 Dominic 责备；她随 Dominic 和 Orly 前往种子库，在隧道中感受到岛屿的"鬼魂"；夜晚她躺在 Hank 的床上，感觉"独自一人"——但她的"心"正在转向 Dominic。
 - **情感弧线位置**：升温——Rowan 与 Dominic 的关系从"敌意"转向"理解"。
-- **Tropes 兑现/反转**：Enemies to lovers——Rowan 和 Dominic 的"化学反应"在共同工作中浮现；The haunted island——Orly 的"鬼魂叙事"与 Rowan 的"现实观察"形成对比。
+- **Tropes 兑现/反转**：旧敌变情人——Rowan 和 Dominic 的"化学反应"在共同工作中浮现；The haunted island——Orly 的"鬼魂叙事"与 Rowan 的"现实观察"形成对比。
 - **人物弧线**：Rowan 从"寻找 Hank"到"在 Shearwater 找到归属"。
 - **叙事手法**：多时间线交织——现在与过去穿插。
 

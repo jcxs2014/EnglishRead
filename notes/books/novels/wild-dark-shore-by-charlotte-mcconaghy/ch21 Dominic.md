@@ -9,7 +9,7 @@ modified: "2026-09-05"
 
 - **一句话概括**：Dominic 带 Rowan 去基地仓库取工具，一起为太阳能电池换新屋顶；Rowan 的伤口又裂开了，Dominic 为她重新缝合；夜晚 Raff 因噩梦哭泣，Dominic 带他去拳击袋。
 - **情感弧线位置**：建置——Dominic 与 Rowan 的关系从"看守/囚犯"转变为"搭档/共谋"；他开始对她产生感情。
-- **Tropes 兑现/反转**：The protector——Dominic 的"保护"正在变得"私人化"；Enemies to lovers——Dominic 和 Rowan 从"敌对"到"合作"。
+- **Tropes 兑现/反转**：The protector——Dominic 的"保护"正在变得"私人化"；旧敌变情人——Dominic 和 Rowan 从"敌对"到"合作"。
 - **人物弧线**：Dominic 从"压抑"到"释放"——他承认自己被 Rowan 吸引，但试图"否认"。
 - **叙事手法**：第一人称回顾式叙事，Dominic 的"白天"（理性、功能）与"夜晚"（幻觉、情感）形成对比。
 

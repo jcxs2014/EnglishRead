@@ -8,7 +8,7 @@ modified: "2026-09-05"
 ## 本章导航
 - **一句话概括**：Rowan 发现 Alex 是 Raff 的爱人；她决定不再追问 Hank 的下落；她与 Dominic 在海上游泳、做爱；她回忆与 Hank 的婚姻，向 Dominic 坦承自己不愿生育的原因。
 - **情感弧线位置**：高潮——Rowan 与 Dominic 的关系从"共谋"变为"爱人"。
-- **Tropes 兑现/反转**：Enemies to lovers——Rowan 和 Dominic 从"敌对"到"亲密"；The truth——Hank 不是"被谋杀"而是"精神失常后离开"。
+- **Tropes 兑现/反转**：旧敌变情人——Rowan 和 Dominic 从"敌对"到"亲密"；The truth——Hank 不是"被谋杀"而是"精神失常后离开"。
 - **人物弧线**：Rowan 从"寻找"到"放下"——她接受 Hank 的"离开"。
 - **叙事手法**：多时间线交织——现在（与 Dominic 的亲密）与过去（与 Hank 的婚姻）穿插。
 
