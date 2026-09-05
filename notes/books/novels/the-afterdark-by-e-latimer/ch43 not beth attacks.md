@@ -60,16 +60,7 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 6:** "We need to get off this island."
-
-- 中文理解：我们需要离开这座岛。
-- 关键词：get off this island——逃离。
-- 为什么这样写：Holland 在战斗后再次提出"逃离"——"get off this island"（离开这座岛）是 Holland 的"执念"。但 Evie 的回应是"我需要这片森林"。
-- 读者视角提示："get off this island"与 ch40 的"get off this island. Now."（离开这座岛。现在。）对照——Holland 的紧迫感在升级。
-
----
-
-> **原句 7:** "I need the forest."
+> **原句 6:** "I need the forest."
 
 - 中文理解：我需要这片森林。
 - 关键词：need the forest——对森林的渴望。

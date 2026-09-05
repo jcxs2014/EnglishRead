@@ -86,13 +86,6 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 9:** "It feels like the earth is going to split open and devour us whole."
-
-- 中文理解：感觉地球就要裂开，把我们整个吞掉。
-- 关键词：split open / devour us whole——吞噬。
-- 为什么这样写：Evie 的"恐惧"——"devour us whole"（把我们整个吞掉）是全书对"Afterdark"最直接的比喻。
-- 读者视角提示："split open"与 ch57 的"pathway opens"（路径打开）对照：从"路径打开"到"地球裂开"。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
