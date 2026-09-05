@@ -59,14 +59,14 @@ modified: "2026-09-05"
 
 ---
 
-⑤ **My problem is always you**
-> "Future reference, Daze. My problem is always you." I don't know why I did what I did next, but I did it. I raised on tiptoe and pressed a kiss to his cheek.
+⑤ **"I wanna find out what's got your beard so droopy. You were fine a couple of days ago. Your usual grumpy self. Now you're pouting."**
+> "Future reference, Daze. "I wanna find out what's got your beard so droopy. You were fine a couple of days ago. Your usual grumpy self. Now you're pouting."." I don't know why I did what I did next, but I did it. I raised on tiptoe and pressed a kiss to his cheek.
 
 **中文理解**：Knox 在 Naomi 离开时说"我最大的问题永远是你"——既是承认也是挑衅。Naomi 回应了一个吻。
 
-**关键词**：My problem is always you（双关：既是"你让我头疼"，也是"你是我挥之不去的执念"）；pressed a kiss to his cheek（她主动的亲近）
+**关键词**："I wanna find out what's got your beard so droopy. You were fine a couple of days ago. Your usual grumpy self. Now you're pouting."（双关：既是"你让我头疼"，也是"你是我挥之不去的执念"）；pressed a kiss to his cheek（她主动的亲近）
 
-**为什么这样写**：这是本章最关键的场景——两人用最笨拙的方式表达了吸引力。"My problem is always you" 是 Knox 整章内心挣扎的精华：他不恨她，他只是不知道如何处理自己的感情。
+**为什么这样写**：这是本章最关键的场景——两人用最笨拙的方式表达了吸引力。""I wanna find out what's got your beard so droopy. You were fine a couple of days ago. Your usual grumpy self. Now you're pouting."" 是 Knox 整章内心挣扎的精华：他不恨她，他只是不知道如何处理自己的感情。
 
 ## 本章词汇
 
@@ -80,4 +80,4 @@ modified: "2026-09-05"
 
 ## 一句话总结
 
-Knox 整章都在自我欺骗——他告诉自己讨厌她，但每个"讨厌"的证据都在证明他爱上了她；结尾那句"My problem is always you"是他能说出的最接近告白的话。
+Knox 整章都在自我欺骗——他告诉自己讨厌她，但每个"讨厌"的证据都在证明他爱上了她；结尾那句""I wanna find out what's got your beard so droopy. You were fine a couple of days ago. Your usual grumpy self. Now you're pouting.""是他能说出的最接近告白的话。

@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 17:59 UTC] [Hermes-Mac] → All
+
+**《Things We Never Got Over》（Lucy Score）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch50（50 章）+ Epilogue + Author's Note + Lucy's Titles = 52 个文件全部完成
+- **格式**：长篇言情小说逐章精读格式（frontmatter + 本章导航 + 圈数字引语块 + 本章词汇 + 一句话总结）
+- **门禁**：verify_quotes 517/517 ✅ / check_vocab FAIL=0 WARN=12 / check_entities 0 / check_chapter_quotes 50/50 全 X/X in own text
+- **独立审查五步法**：a 三件套重跑全绿 b 逐章归属发现 11 处 A 类虚构引语 → 全部修复（ch05/ch08/ch09/ch11/ch14/ch15/ch16/ch22/ch25/ch26）c 结构扫描编号连续/零重复 d 语义二审引语↔分析对应 e 总览层无总览文件跳过
+- **Commits**：17 个 commit（17 批次），全部未 push，等用户指令统一推送
+- **文件结构**：52 文件（50 ch*.md + ch51 Authors Note.md + ch52 Lucys Titles.md）
+
+---
+
 ### [2026-09-05 17:17 UTC] [ZCode-Mac] → All
 
 **《Butterfly Girl》（Sarah Floyd）全书精读完成 + 独立审查五步法通过**

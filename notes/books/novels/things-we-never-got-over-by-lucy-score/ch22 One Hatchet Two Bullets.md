@@ -49,7 +49,7 @@ modified: "2026-09-05"
 ---
 
 **Money and Stubbornness**
-> **原句 4:** "I gave him money," Knox said. "Or tried to at least. The stubborn son of a bitch said he didn't want it."
+> **原句 4:** """She thinks we're both idiots," I said when the nurse left."
 
 **中文理解**：Knox 讲述过去——他曾试图用钱买 Nash 的顺从，Nash 拒绝了。
 

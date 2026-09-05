@@ -50,9 +50,9 @@ modified: "2026-09-05"
 **为什么这样写**：用"dogs" 比喻家人之间的纠缠，展现温情。
 **读者视角提示**：建立母亲对家庭的感情归属。
 
-⑤ **"I need some Advil or something," Dad muttered, rubbing his forehead. "You shouldn't have a headache, Lou. Our daughter is fine."**
+⑤ **""Let me know what you find from the office and the storage unit," Nash said from the bed. His color was a bit better. "You shouldn't have a headache, Lou. Our daughter is fine."**
 
-> **原句 5:** "I need some Advil or something," Dad muttered, rubbing his forehead.
+> **原句 5:** ""Let me know what you find from the office and the storage unit," Nash said from the bed. His color was a bit better.
 
 **中文理解**：Naomi 父亲头疼，用 Advil 作为止痛药。
 **关键字**：Advil（止痛药）；muttered（咕咕称）；rubbing his forehead（揉前额）

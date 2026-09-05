@@ -54,8 +54,8 @@ modified: "2026-09-05"
 
 ---
 
-④ **"Oh, but I don't know what time I'll get off," I hedged.**
-> "Oh, but I don't know what time I'll get off," I hedged. "It could be very late."
+④ **"""The computers are over there near the coffee bar and the restrooms, Aunt Naomi. I'll be on the second floor if you need anything."n show you how to use it.**
+> """The computers are over there near the coffee bar and the restrooms, Aunt Naomi. I'll be on the second floor if you need anything."n show you how to use it. "It could be very late."
 
 **中文理解**：Naomi 担心给 Liza J 添麻烦，试图推脱深夜才回来的 childcare 任务。
 

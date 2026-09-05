@@ -28,8 +28,8 @@ modified: "2026-09-05"
 
 ---
 
-② **You two aren't fucking staying here.**
-> "You two aren't fucking staying here."
+② **"Used to run it as a small lodge," she began, setting the bottles on top of the buffet. "Don't anymore. Guess you'll be wanting to stay for a while."**
+> ""Used to run it as a small lodge," she began, setting the bottles on top of the buffet. "Don't anymore. Guess you'll be wanting to stay for a while.""
 
 **中文理解**：Naomi 内心独白：她不想告诉 Knox 关于 Honky Tonk 的工作机会，因为他"可能会有意见"。
 

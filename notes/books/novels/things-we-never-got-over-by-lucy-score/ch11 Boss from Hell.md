@@ -81,7 +81,7 @@ modified: "2026-09-05"
 
 ---
 
-⑦ **You better do something.**
+⑦ **"You do that. We'll start with the drinks for my eight-top."**
 > "You better do something," Silver said, pinning me with a glare. "She's good." "And she's trying to support a kid, Knoxy. Have a heart," Max pointed out.
 
 **中文理解**：Silver 和 Max 都站在 Naomi 这边，恳求 Knox 采取行动留住她。

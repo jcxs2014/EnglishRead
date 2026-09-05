@@ -57,16 +57,16 @@ modified: "2026-09-05"
 **为什么这样写**：用简短句展现 Naomi 的愤怒和决心。
 **读者视角提示**：从轻松到愤怒的转折。
 
-⑥ **"I treat her the way the daughter of a whore deserves to be treated," Mrs. Felch snarled. The lines on her face carved deeper.**
+⑥ **""No, but Mrs. Felch is about to be. Mind covering for me until I get back?" The lines on her face carved deeper.**
 
-> **原句 6:** "I treat her the way the daughter of a whore deserves to be treated," Mrs. Felch snarled.
+> **原句 6:** ""No, but Mrs. Felch is about to be. Mind covering for me until I get back?"
 
 **中文理解**：Felch 老师恶毒地说她按"婊子女儿应得的方式"对待 Waylay。
 **关键字**：daughter of a whore（婊子女儿）；snarled（咆哮）；lines carved deeper（皱纹更深）
 **为什么这样写**：直接引语展现老师的恶毒，为 Naomi 的愤怒提供正当性。
 **读者视角提示**：从冲突升级到道德审判。
 
-⑦ **"You didn't deserve what happened to you," Naomi said again, her voice softer now. "But neither does Waylay. And I'm not going to let anyone make her feel like she's responsible for the decisions adults make."**
+⑦ **""I'm not Tina. I'm Naomi Witt. My niece, Waylay, is in your class, and I'd like to talk to you about how you've been treating her." "But neither does Waylay. And I'm not going to let anyone make her feel like she's responsible for the decisions adults make."**
 
 > **原句 7:** "A movement out of the corner of my eye caught my attention, and I realized that I had a much bigger problem than a horrible sixth-grade teacher."
 

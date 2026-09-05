@@ -28,8 +28,8 @@ modified: "2026-09-05"
 
 ---
 
-② **You two aren't fucking staying here.**
-> "You two aren't fucking staying here."
+② **"Stay here," he ordered without looking at me or Waylay..**
+> ""Stay here," he ordered without looking at me or Waylay.."
 
 **中文理解**：Knox 在 trailer 外明确表态：你们不能住在这里。
 
