@@ -84,7 +84,7 @@ modified: "2026-09-05"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | cloaked | 穿斗篷的 | a group of black-clad figures approaches |
-| stoic | 坚忍的；无动于衷的 | standing stoic in that blank white mask |
+| inducive | 诱导的；不适合的 | The bastard isn't inducive to reading. |
 | rumpled | 皱巴巴的 | his hair is full bed head this morning |
 | aviators | 太阳镜 | He's wearing a pair of tinted aviators |
 | commotion | 骚动 | a commotion across the pond draws my attention |
@@ -94,7 +94,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pond | 池塘 | I bike down to the duck pond |
+| pond | 池塘 | After check-in, I use my spare to bike down to the duck pond. |
 | bruise | 淤青 | a mottled chain of purple and black spreading up his neck |
 | letter | 信 | I've been undecided on this one |
 

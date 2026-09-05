@@ -95,7 +95,7 @@ modified: "2026-09-05"
 | intestines | 肠子 | stringy pink ribbons of her intestines spilled out |
 | violently | 剧烈地 | I'd be the only one to end up violently ill |
 | trickle | 缓慢流动 | memories trickle back slowly |
-| comatose | 昏迷的 | Beth was practically comatose the first week |
+| uneven | 不均匀的 | We end up in an uneven semicircle in front of the cold fireplace. | |
 | fireplace | 壁炉 | in front of the cold fireplace |
 
 ### ⭐ 基础
@@ -104,7 +104,6 @@ modified: "2026-09-05"
 |------|------|------|
 | temple | 太阳穴 | the black dot on her temple |
 | door | 门 | following her to the door |
-| erratic | 不稳定的 | his behavior has become more and more erratic |
 
 ## 一句话总结
 四个人第一次坐成一圈，把 Afterdark 的秘密摊开——Beth 曾被标记、被 Gorski 威胁送进精神病院；Evie 想起 Ada 杀猫、下毒、磨尖十字架的日子，终于确认：Ada 是那个不稳定的复制品；Holland 决定去找 Rook，而 Evie 在她走开时感到胸口有一根线绷紧——她们之间的联结，比任何标记都更早存在。

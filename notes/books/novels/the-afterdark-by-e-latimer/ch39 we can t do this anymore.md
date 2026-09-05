@@ -92,7 +92,6 @@ modified: "2026-09-05"
 |------|------|------|
 | armpit | 腋下 | hooking my hands under her armpits |
 | vanity | 梳妆台 | slamming it hard into the vanity mirror |
-| shatter | 粉碎 | Something in me shatters |
 | coaxing | 哄劝 | several seconds of coaxing |
 | prying | 撬开 | gently prying her hands off her face |
 

@@ -100,7 +100,6 @@ modified: "2026-09-05"
 |------|------|------|
 | tree | 树 | the towering black walnut tree |
 | roots | 树根 | full of roots and rocks |
-| heart | 心 | the beating heart of the Afterdark |
 
 ## 一句话总结
 Evie 在"日落后"的森林中看到 Aukley 的尸体——"Even in death, the Afterdark won't let him go"；Leta 昏迷在树下，父亲正在"安抚" Afterdark；"Can she leave?"——父亲摇头；Evie 放下刀："Show me." 她决定"成为宿主"来换 Holland 自由。

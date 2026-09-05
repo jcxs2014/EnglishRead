@@ -54,9 +54,8 @@ modified: "2026-09-05"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | rust | 生锈 | rusting the shiny metal flagpoles |
-| flake | 剥落 | metal flaking down |
+| 剥落 | metal flaking down |
 | peel | 剥落 | paint peeling and flaking |
-| sag | 下垂 | the dome of the roof slowly sagging |
 
 ### ⭐ 基础
 
@@ -64,7 +63,6 @@ modified: "2026-09-05"
 |------|------|------|
 | building | 建筑 | the buildings collapse |
 | gate | 门 | the rot reaches the gate |
-| sign | 标志 | the sign collapses in on itself |
 
 ## 一句话总结
 渡轮上，Evie 回望北克罗夫特——"falls away a piece at a time"；建筑倒塌、腐烂、被黑色藤蔓吞噬；校训"Veritas Ante Omnia"在腐烂中碎裂消失；学校"collapses in on itself"——就像它从未存在过。

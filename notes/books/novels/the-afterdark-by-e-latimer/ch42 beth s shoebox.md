@@ -93,7 +93,6 @@ modified: "2026-09-05"
 |------|------|------|
 | dust | 灰尘 | yank the dust curtains up |
 | shoebox | 鞋盒 | revealing an old shoebox |
-| ferry | 渡轮 | The ferry passes were inside |
 | faded | 褪色的 | old, faded ones |
 | receipt | 收据 | they're receipts |
 | bundle | 捆 | Neatly bundled with a pink heart-shaped paper clip |

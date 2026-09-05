@@ -82,7 +82,6 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| barricade | 路障 | We need to barricade the window |
 | sickening | 令人作呕的 | a sickening thud |
 | brandish | 挥舞 | I brandish the poker |
 | keening | 哀号的 | with a keening wail |

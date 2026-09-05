@@ -85,14 +85,12 @@ modified: "2026-09-05"
 | patter | 啪嗒声 | the patter of droplets on leaves |
 | bloated | 肿胀的 | Her body is bloated and putrid |
 | putrid | 腐烂的 | Her body is bloated and putrid |
-| sloughing | 剥落 | water sloughing off her sodhen dress |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | corpse | 尸体 | The corpse of my sister |
-| sagging | 松弛的 | Her face sagging and gray-skinned |
 | sodden | 湿透的 | her sodden dress |
 | silhouette | 轮廓 | a tall, slender silhouette |
 | sleep-tossed | 睡乱的 | long, sleep-tossed red hair |

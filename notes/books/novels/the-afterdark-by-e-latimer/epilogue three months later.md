@@ -81,26 +81,24 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| comfortingly | 舒适地 | comfortingly beige |
-| course | 路线 | the universe might course correct |
-| compact | 紧凑的 | a perfectly compact rectangle |
+
+
+
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| beige | 米色的 | comfortingly beige |
-| murmur | 低语 | the quiet murmur of Channel Four News |
-| flicker | 闪烁 | the gentle blue flicker of the screen |
-| grasp | 怀抱 | slip into the grasp of sleep |
+
+
+
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| TV | 电视 | fall asleep to the TV |
-| window | 窗 | pad over to the window |
-| paper | 纸 | a small white square of paper |
+
+
 
 ## 一句话总结
 三个月后，Evie 与 Leta 住在 Leta 母亲家中；她失眠、观看 Holland 的照片——"caught forever laughing, green eyes fixed on me"；窗外出现一张纸条——"Still with you."：全书在三个字中结束，既是 Holland 的"回归信号"，也是 Evie 的"等待回答"。

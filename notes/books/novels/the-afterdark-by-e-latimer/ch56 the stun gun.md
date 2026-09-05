@@ -83,7 +83,6 @@ modified: "2026-09-05"
 |------|------|------|
 | unraveled | 瓦解 | coming unraveled |
 | stun | 电击 | a stun gun |
-| delusional | 妄想的 | She's delusional |
 
 ### ⭐⭐ 进阶
 
@@ -91,7 +90,7 @@ modified: "2026-09-05"
 |------|------|------|
 | solitary | 孤独的 | a solitary figure |
 | prong | 尖刺 | a set of metal prongs |
-| electrocute | 电击 | By electrocuting me? |
+| 电击 | By electrocuting me? |
 | martyr | 殉道者 | some ridiculous martyr |
 
 ### ⭐ 基础

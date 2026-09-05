@@ -122,7 +122,6 @@ modified: "2026-09-05"
 | ceremony | 仪式 | the gravity of ceremony |
 | rhythmic | 有节奏的 | a strange, rhythmic sound |
 | nausea | 恶心 | trembling nausea |
-| translucent | 半透明的 | translucent, moonlight skin |
 
 ### ⭐ 基础
 

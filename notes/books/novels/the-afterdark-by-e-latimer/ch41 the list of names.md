@@ -83,7 +83,7 @@ modified: "2026-09-05"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | scrap | 碎片；纸片 | a scrap of paper |
-| obituary | 讣告 | obituaries and school newsletters |
+| 讣告 | obituaries and school newsletters |
 | sibilant | 嘶嘶的 | Beth's voice is a sibilant hiss |
 | vile | 恶劣的 | like it's something vile |
 

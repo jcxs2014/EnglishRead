@@ -86,7 +86,7 @@ modified: "2026-09-05"
 | elevator | 电梯 | It's…an elevator, the old-fashioned kind |
 | alumni | 校友 | Crown and Grave alumni |
 | seers | 烧灼 | the liquid seers my throat |
-| decanter | 玻璃酒瓶 | a gorgeous decanter, a blown-glass bottle |
+| decanter | 玻璃酒瓶 | There's a gorgeous decanter there, a blown-glass bottle with a delicate carving of a sunken ship in the center. |e |
 
 ### ⭐⭐ 进阶
 
@@ -104,8 +104,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| mask | 面具 | his blank white mask |
-| drink | 饮品 | I take a drink with a murmured thanks |
+| mask | 面具 | I weave my way through the crowd and the white mask swivels as I approach. |
 | watch | 手表 | peering at the face of a thick silver watch |
 
 ## 一句话总结

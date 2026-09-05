@@ -92,7 +92,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| tolling | 钟声 | A long, ponderous tolling from somewhere behind me |
+| tolling | 钟声 | There's another long, ponderous tolling from somewhere behind me. | behind me |
 | lashed | 鞭打；捆绑 | lashed to the gates |
 | frantic | 发疯似的 | I yank at the zip tie again, letting out a strangled gasp |
 | skittering | 疾行的 | Skittering spiders |

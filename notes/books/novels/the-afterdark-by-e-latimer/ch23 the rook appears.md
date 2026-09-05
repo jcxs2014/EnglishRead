@@ -84,7 +84,7 @@ modified: "2026-09-05"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | predictable | 可预测的 | his weekend schedule is so predictable |
-| snicker | 窃笑 | A few of the Gravesmen at the long table are snickering. |
+| snicker | 窃笑 | A few of the Gravesmen at the long table at the back of the room are snickering. |
 | hoot | 大叫；起哄 | A few of the Gravesmen hoot and slap Cooper on the back. |
 | withering | 令人难堪的 | he fixes the Rook with a withering stare |
 | muted | 低沉的；闷声的 | His voice from beneath the mask is low. Slightly muffled. |

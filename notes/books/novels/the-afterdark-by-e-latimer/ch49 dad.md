@@ -81,7 +81,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| confrontation | 对峙 | Holland and the creature face off |
+| 对峙 | Holland and the creature face off |
 | tilt | 倾斜 | the ground tilts beneath me |
 | hollow | 空心的 | the huge shell of the lightning-struck tree |
 
