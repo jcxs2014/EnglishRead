@@ -159,9 +159,7 @@ def main():
 
     nn = int(args[0])
     md = args[1]
-    text_dir = out_dir or os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                                       '..', 'notes', 'books', 'short-story-anthologies',
-                                       '100 Great Short Stories by James Daley', 'text')
+    text_dir = out_dir or os.path.join(os.path.dirname(os.path.abspath(md)), 'text')
     ok, tot, miss, err = check_chapter(nn, md, text_dir)
     if err:
         print(f'NO_QUOTES_EXTRACTED')
