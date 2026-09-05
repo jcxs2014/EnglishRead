@@ -27,6 +27,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"beloved"建立 Dom 的"爱"——他"爱"她。
 - 读者视角提示：Dom 的"被爱的"是全书的"爱"主题——她是"被爱的"。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -62,45 +63,6 @@ modified: "2026-09-05"
 | clothes | 衣服 | "I shed my clothes" |
 | albatross | 信天翁 | "The albatross are still asleep" |
 | still | 还 | "are still asleep" |
-| asleep | 睡觉 | "are still asleep" |
-| morning | 早晨 | "it's morning" |
-| come | 来 | "they will come later" |
-| later | 晚些 | "they will come later" |
-| sink | 沉入 | "I sink beneath the cold surface" |
-| cold | 冰冷 | "beneath the cold surface" |
-| somehow | 不知何故 | "Somehow I can feel you here" |
-| feel | 感觉 | "I can feel you here" |
-| here | 这里 | "I can feel you here" |
-| knew | 知道 | "I knew I would" |
-| would | 会 | "I knew I would" |
-| not | 不 | "Not a haunting" |
-| something | 一些 | "but something gentler" |
-| think | 想 | "I think of how you returned" |
-| returned | 还 | "you returned my children to me" |
-| children | 孩子 | "my children to me" |
-| each | 每一个 | "each one of them" |
-| one | 一个 | "each one of them" |
-| go | 回 | "I will go back to your body" |
-| body | 身体 | "I will go back to your body" |
-| beautiful | 美丽 | "This beautiful body" |
-| strong | 坚强 | "This strong body" |
-| all | 所有 | "all it could" |
-| stay | 陪 | "I will stay with it" |
-| wash | 洗 | "I will wash it" |
-| wrap | 包裹 | "wrap it" |
-| hold | 抱 | "and hold it as we leave" |
-| leave | 离开 | "as we leave this place" |
-| place | 地方 | "this place" |
-| carry | 带 | "I will carry it across the sea" |
-| across | 过 | "across the sea" |
-| sea | 海 | "across the sea" |
-| return | 还 | "I will return it to your land" |
-| land | 土地 | "I will return it to your land" |
-| live | 住 | "to live among the snow gums" |
-| among | 在……之间 | "among the snow gums" |
-| just | 只是 | "It is just a body" |
-| was | 是 | "but it was yours" |
-| yours | 你的 | "but it was yours" |
 
 ### ⭐ 基础
 
@@ -121,34 +83,6 @@ modified: "2026-09-05"
 | I | 我 | "I sink beneath the cold surface" |
 | the | 这个 | "beneath the cold surface" |
 | I | 我 | "Somehow I can feel you here" |
-| you | 你 | "I can feel you here" |
-| I | 我 | "I knew I would" |
-| of | 的 | "I think of how you returned" |
-| how | 如何 | "how you returned" |
-| my | 我的 | "my children to me" |
-| to | 给 | "my children to me" |
-| me | 我 | "to me" |
-| them | 他们 | "each one of them" |
-| now | 现在 | "I will go back to your body" |
-| this | 这 | "This beautiful body" |
-| that | 那个 | "that endured all it could" |
-| it | 它 | "all it could" |
-| could | 能够 | "it could" |
-| with | 和 | "I will stay with it" |
-| it | 它 | "I will stay with it" |
-| and | 和 | "and wrap it" |
-| as | 当 | "as we leave this place" |
-| we | 我们 | "we leave this place" |
-| this | 这个 | "this place" |
-| it | 它 | "I will carry it across the sea" |
-| the | 这个 | "across the sea" |
-| to | 给 | "to your land" |
-| your | 你的 | "your land" |
-| to | 住 | "to live among the snow gums" |
-| the | 这个 | "the snow gums" |
-| it | 它 | "It is just a body" |
-| a | 一个 | "a body" |
-| but | 但 | "but it was yours" |
 
 ## 一句话总结
 

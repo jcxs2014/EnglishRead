@@ -42,6 +42,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"son of a bitch"建立 Dom 的"愤怒"——他"恨" Hank。
 - 读者视角提示：Dom 的"直接"是全书的"行动"主题——他"去"救 Hank。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -63,25 +64,6 @@ modified: "2026-09-05"
 | over | 结束 | "will be over" |
 | preparing | 准备 | "I have been preparing myself" |
 | ruthlessness | 残酷 | "the ruthlessness of the captivity" |
-| captivity | 监禁 | "the ruthlessness of the captivity" |
-| lies | 谎言 | "all the lies I told her" |
-| end | 结束 | "one of them will end us" |
-| horror | 恐惧 | "the horror in her eyes" |
-| retreat | 退缩 | "felt the retreat within her" |
-| coming | 要来 | "I knew it was coming" |
-| realize | 意识到 | "I did not realize it would feel so bad" |
-| bad | 糟糕 | "feel so bad, so ruinous" |
-| ruinous | 毁灭性 | "feel so bad, so ruinous" |
-| preparation | 准备 | "no preparation for this kind of pain" |
-| pain | 痛苦 | "no preparation for this kind of pain" |
-| really | 真的 | "It is really fucking sad" |
-| fucking | 他妈的 | "It is really fucking sad" |
-| sad | 可悲 | "It is really fucking sad" |
-| loss | 失去 | "it should take loss to know" |
-| know | 知道 | "to know the precise quality of love" |
-| precise | 确切地 | "the precise quality of love" |
-| quality | 品质 | "the precise quality of love" |
-| love | 爱 | "the precise quality of love" |
 
 ### ⭐⭐ 进阶
 
@@ -102,57 +84,6 @@ modified: "2026-09-05"
 | shut | 关闭 | "rusted shut for many years" |
 | many | 许多 | "rusted shut for many years" |
 | years | 年 | "rusted shut for many years" |
-| require | 需要 | "will require an angle grinder" |
-| open | 打开 | "to open" |
-| look | 看 | "I look through the curtain" |
-| rain | 雨 | "through the curtain of rain" |
-| barely | 几乎不 | "can barely make out" |
-| make out | 看见 | "can barely make out the black inflatable boat" |
-| up ahead | 在前面 | "up ahead" |
-| thing | 东西 | "in that thing" |
-| should | 应该 | "I should have made Orly ride" |
-| ride | 骑马 | "made Orly ride with me" |
-| loves | 爱 | "but he loves being with Rowan" |
-| being | 陪伴 | "being with Rowan" |
-| point | 时刻 | "At some point very soon" |
-| very | 非常 | "very soon" |
-| soon | 很快 | "very soon" |
-| lives | 生活 | "our lives together on Shearwater" |
-| together | 一起 | "lives together on Shearwater" |
-| day | 天 | "the day she'd find Hank" |
-| find | 发现 | "she'd find Hank" |
-| told | 告诉 | "the lies I told her" |
-| saw | 看见 | "I saw the horror in her eyes" |
-| eyes | 眼睛 | "the horror in her eyes" |
-| felt | 感觉到 | "felt the retreat within her" |
-| within | 之内 | "felt the retreat within her" |
-| knew | 知道 | "I knew it was coming" |
-| coming | 要来 | "I knew it was coming" |
-| so | 如此 | "feel so bad" |
-| kind | 一种 | "this kind of pain" |
-| take | 需要 | "it should take loss" |
-| reach | 到达 | "As I reach our beach" |
-| beach | 海滩 | "our beach" |
-| drive | 开车 | "drive the Frog up onto the sand" |
-| sand | 沙 | "onto the sand" |
-| can | 能够 | "I can make out" |
-| reflective | 反光的 | "the reflective red lights" |
-| red | 红 | "the reflective red lights" |
-| lights | 灯 | "the reflective red lights" |
-| back | 后面 | "on the back of the quad bike" |
-| quad | 四轮车 | "the back of the quad bike" |
-| bike | 车 | "the quad bike" |
-| halfway | 半山腰 | "already halfway up the hill" |
-| hill | 山 | "halfway up the hill" |
-| let | 让 | "I will let them come back" |
-| come back | 回来 | "come back for the seeds" |
-| seeds | 种子 | "for the seeds in my boat" |
-| boat | 船 | "the seeds in my boat" |
-| while | 而 | "while I go straight for the tools" |
-| straight | 直接 | "while I go straight for the tools" |
-| tools | 工具 | "for the tools to get" |
-| out | 出来 | "to get the son of a bitch out" |
-| son | 混蛋 | "the son of a bitch" |
 
 ### ⭐ 基础
 
@@ -173,52 +104,6 @@ modified: "2026-09-05"
 | back | 回 | "The only way back in" |
 | in | 进去 | "The only way back in" |
 | too | 太 | "now that the vault is too dangerous" |
-| down | 通过 | "down the shaft" |
-| for | 有 | "rusted shut for many years" |
-| will | 将 | "will require an angle grinder" |
-| look | 看 | "I look through the curtain" |
-| rain | 雨 | "through the curtain of rain" |
-| can | 能够 | "can barely make out" |
-| black | 黑色的 | "the black inflatable boat" |
-| boat | 船 | "the black inflatable boat" |
-| they | 他们 | "They'll be drenched" |
-| in | 在 | "in that thing" |
-| should | 应该 | "I should have made Orly ride" |
-| with | 和 | "ride with me" |
-| but | 但 | "but he loves being with Rowan" |
-| all | 所有人 | "the way we all do" |
-| at | 在 | "At some point very soon" |
-| our | 我们的 | "our lives together on Shearwater" |
-| on | 在 | "on Shearwater" |
-| been | 一直 | "I have been preparing myself" |
-| for | 为 | "for the day she'd find Hank" |
-| if | 如果 | "I don't know if it will be" |
-| or | 或 | "or all the lies I told her" |
-| one | 一个 | "one of them will end us" |
-| saw | 看见 | "I saw the horror in her eyes" |
-| felt | 感觉到 | "felt the retreat within her" |
-| knew | 知道 | "I knew it was coming" |
-| yet | 但 | "and yet I did not realize" |
-| would | 会 | "it would feel so bad" |
-| so | 如此 | "feel so bad, so ruinous" |
-| no | 没有 | "no preparation for this kind of pain" |
-| this | 这种 | "this kind of pain" |
-| it | 它 | "It is really fucking sad" |
-| that | 那 | "that it should take loss" |
-| to | 来 | "to know the precise quality of love" |
-| as | 当 | "As I reach our beach" |
-| drive | 开车 | "drive the Frog up onto the sand" |
-| onto | 到 | "onto the sand" |
-| can | 能够 | "I can make out" |
-| on | 在 | "on the back of the quad bike" |
-| already | 已经 | "already halfway up the hill" |
-| up | 上 | "halfway up the hill" |
-| let | 让 | "I will let them come back" |
-| for | 拿 | "for the seeds in my boat" |
-| while | 而 | "while I go straight for the tools" |
-| go | 去 | "while I go straight for the tools" |
-| for | 拿 | "for the tools to get" |
-| get | 弄出来 | "to get the son of a bitch out" |
 
 ## 一句话总结
 

@@ -34,6 +34,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"hope"建立 Orly 的"希望"——他"希望"。
 - 读者视角提示：Orly 的"希望如此"是全书的"希望"主题——他"希望"。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -55,11 +56,6 @@ modified: "2026-09-05"
 | corridors | 走廊 | "hunt within their corridors" |
 | marine | 海洋的 | "marine mammals like otters" |
 | mammals | 哺乳动物 | "marine mammals like otters and sea lions" |
-| otters | 水獭 | "like otters and sea lions" |
-| sea lions | 海狮 | "like otters and sea lions" |
-| shelter | 庇护所 | "use them for shelter" |
-| refuge | 庇护 | "found refuge from the storm" |
-| saltwater | 盐水 | "These wild and rich saltwater worlds" |
 
 ### ⭐⭐ 进阶
 
@@ -80,88 +76,6 @@ modified: "2026-09-05"
 | too | 也 | "Should I tell you, too" |
 | think | 认为 | "I think you gave something back" |
 | gave | 给 | "you gave something back" |
-| back | 回 | "gave something back to this place" |
-| place | 地方 | "this place" |
-| thing | 一些 | "a thing it had been longing for" |
-| been | 一直 | "it had been longing for" |
-| has | 有 | "Shearwater has no trees" |
-| no | 没有 | "Shearwater has no trees" |
-| trees | 树 | "Shearwater has no trees" |
-| that's | 那是 | "that's what you said" |
-| said | 说 | "that's what you said" |
-| told | 告诉 | "you told me you missed them" |
-| missed | 想念 | "you missed them" |
-| them | 它们 | "you missed them" |
-| not | 不 | "it's not exactly true" |
-| exactly | 完全 | "it's not exactly true" |
-| true | 真的 | "it's not exactly true" |
-| all | 所有 | "All around its shores" |
-| around | 周围 | "All around its shores" |
-| shores | 岸 | "All around its shores" |
-| are | 是 | "are underwater forests" |
-| forests | 森林 | "underwater forests" |
-| like | 像 | "Like forests on land" |
-| land | 陆地 | "forests on land" |
-| these | 这些 | "these are ecosystems" |
-| with | 有 | "with canopies, understories, and forest floors" |
-| forest | 森林 | "and forest floors" |
-| floors | 地面 | "and forest floors" |
-| made | 组成 | "they're made of kelp" |
-| should | 应该 | "You should know this" |
-| know | 知道 | "You should know this" |
-| this | 这 | "You should know this" |
-| washed | 冲 | "you washed up on our beach" |
-| up | 上 | "washed up on our beach" |
-| beach | 海滩 | "on our beach" |
-| curtain | 窗帘 | "in a curtain of it" |
-| it | 它 | "in a curtain of it" |
-| they're | 它们 | "They're abundant, these forests" |
-| can | 可以 | "They can be home to thousands" |
-| home | 家园 | "be home to thousands of species" |
-| species | 物种 | "thousands of species" |
-| types | 种 | "Hundreds of types of fish" |
-| fish | 鱼 | "Hundreds of types of fish" |
-| make | 做 | "make nurseries within them" |
-| within | 在……里面 | "nurseries within them" |
-| many | 许多 | "and many feed on the kelp" |
-| feed | 以……为食 | "many feed on the kelp" |
-| worms | 虫 | "There are worms, prawns, snails, crabs" |
-| prawns | 对虾 | "There are worms, prawns, snails, crabs" |
-| snails | 蜗牛 | "There are worms, prawns, snails, crabs" |
-| crabs | 蟹 | "There are worms, prawns, snails, crabs" |
-| sharks | 鲨鱼 | "Sharks are known to hunt within their corridors" |
-| known | 已知 | "Sharks are known to hunt" |
-| hunt | 捕猎 | "to hunt within their corridors" |
-| while | 而 | "while marine mammals" |
-| like | 如 | "marine mammals like otters" |
-| even | 甚至 | "even sea birds, even whales" |
-| sea | 海 | "even sea birds, even whales" |
-| birds | 鸟 | "even sea birds, even whales" |
-| whales | 鲸鱼 | "even whales" |
-| use | 用 | "use them for shelter" |
-| how | 如何 | "This is how Fen's seals survived" |
-| seals | 海豹 | "Fen's seals survived" |
-| survived | 幸存 | "Fen's seals survived" |
-| in the end | 最终 | "in the end" |
-| swam | 游 | "They swam, even the little ones" |
-| little | 小 | "even the little ones" |
-| ones | 些 | "the little ones" |
-| found | 找到 | "they found refuge from the storm" |
-| from | 从 | "refuge from the storm" |
-| storm | 风暴 | "refuge from the storm" |
-| among | 在……之中 | "among the kelp forests" |
-| wild | 野生 | "These wild and rich saltwater worlds" |
-| rich | 丰富 | "These wild and rich saltwater worlds" |
-| worlds | 世界 | "These wild and rich saltwater worlds" |
-| wondered | 想知道 | "I wondered if you might be" |
-| might | 可能 | "if you might be a part of that now" |
-| part | 部分 | "a part of that now" |
-| that | 那 | "a part of that now" |
-| now | 现在 | "a part of that now" |
-| where | 哪里 | "If that's where you've gone" |
-| gone | 去 | "where you've gone" |
-| hope | 希望 | "I hope so" |
-| so | 如此 | "I hope so" |
 
 ### ⭐ 基础
 
@@ -182,60 +96,6 @@ modified: "2026-09-05"
 | what | 什么 | "that's what you said" |
 | you | 你 | "you told me" |
 | me | 我 | "you told me" |
-| they | 它们 | "you missed them" |
-| it | 它 | "it's not exactly true" |
-| around | 周围 | "All around its shores" |
-| its | 它的 | "All around its shores" |
-| are | 是 | "are underwater forests" |
-| on | 在 | "Like forests on land" |
-| with | 有 | "with canopies, understories, and forest floors" |
-| and | 和 | "with canopies, understories, and forest floors" |
-| they | 它们 | "they're made of kelp" |
-| of | 的 | "made of kelp" |
-| this | 这 | "You should know this" |
-| our | 我们的 | "on our beach" |
-| they | 它们 | "They're abundant, these forests" |
-| be | 是 | "be home to thousands of species" |
-| to | 到 | "to thousands of species" |
-| of | 的 | "thousands of species" |
-| of | 的 | "Hundreds of types of fish" |
-| and | 和 | "and many feed on the kelp" |
-| on | 以 | "many feed on the kelp" |
-| the | 这个 | "the kelp" |
-| are | 有 | "There are worms, prawns, snails, crabs" |
-| to | 在 | "to hunt within their corridors" |
-| their | 它们的 | "within their corridors" |
-| while | 而 | "while marine mammals" |
-| and | 和 | "and sea lions" |
-| for | 来 | "use them for shelter" |
-| them | 它们 | "use them for shelter" |
-| this | 这 | "This is how Fen's seals survived" |
-| is | 是 | "This is how Fen's seals survived" |
-| how | 如何 | "This is how Fen's seals survived" |
-| Fen's | 芬的 | "Fen's seals survived" |
-| in | 在 | "in the end" |
-| the | 这个 | "the end" |
-| end | 结束 | "the end" |
-| they | 它们 | "They swam, even the little ones" |
-| even | 即使 | "even the little ones" |
-| the | 这个 | "the little ones" |
-| and | 和 | "and they found refuge from the storm" |
-| they | 它们 | "they found refuge from the storm" |
-| from | 从 | "from the storm" |
-| the | 这个 | "the storm" |
-| the | 这个 | "the kelp forests" |
-| these | 这些 | "These wild and rich saltwater worlds" |
-| and | 和 | "and rich saltwater worlds" |
-| I | 我 | "I wondered if you might be" |
-| if | 如果 | "if you might be a part of that now" |
-| be | 是 | "be a part of that now" |
-| a | 一个 | "a part of that now" |
-| of | 的 | "of that now" |
-| that | 那 | "that now" |
-| if | 如果 | "If that's where you've gone" |
-| that's | 那是 | "that's where you've gone" |
-| you've | 你 | "you've gone" |
-| I | 我 | "I hope so" |
 
 ## 一句话总结
 

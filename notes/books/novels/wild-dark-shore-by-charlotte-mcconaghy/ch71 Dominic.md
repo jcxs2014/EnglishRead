@@ -21,6 +21,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"unforgivably"建立 Dom 的"内疚"——他"花了太长时间"。
 - 读者视角提示：Dom 的"她走了"是全书的"死亡"主题——Rowan"死"了。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -53,33 +54,6 @@ modified: "2026-09-05"
 | kicking | 踢 | "kicking for the surface" |
 | surface | 水面 | "kicking for the surface" |
 | use | 用 | "I use the ladder" |
-| ladder | 梯子 | "I use the ladder" |
-| carry | 带 | "to carry her up" |
-| hatch | 舱口 | "out of the hatch" |
-| took | 花 | "I took too long to open" |
-| long | 长 | "too long to open" |
-| open | 打开 | "to open" |
-| place | 放 | "I place her beside Orly" |
-| beside | 在……旁边 | "beside Orly" |
-| awake | 醒着 | "Orly is awake and breathing" |
-| not | 不 | "and Rowan is not" |
-| chest | 胸口 | "I pump her chest" |
-| mouth | 嘴 | "breathe into her mouth" |
-| work | 工作 | "I work on her body" |
-| keep | 继续 | "I think I could keep going always" |
-| always | 永远 | "I think I could keep going always" |
-| crying | 哭 | "Orly is crying" |
-| feel | 感觉 | "I can feel that she's gone" |
-| arms | 手臂 | "I take my son in my arms" |
-| hold | 抱 | "and hold him" |
-| little | 一点 | "After a little while" |
-| while | 会儿 | "After a little while" |
-| maybe | 也许 | "or maybe I move us" |
-| lying | 躺 | "we are lying with her" |
-| stay | 留 | "we stay like this in the rain" |
-| rain | 雨 | "we stay like this in the rain" |
-| earth | 大地 | "the earth crumbles away beneath us" |
-| beneath | 在……下面 | "beneath us" |
 
 ### ⭐ 基础
 
@@ -100,27 +74,6 @@ modified: "2026-09-05"
 | too | 太 | "too long to open" |
 | her | 她 | "I place her beside Orly" |
 | is | 是 | "Orly is awake and breathing" |
-| and | 和 | "and breathing" |
-| her | 她的 | "I pump her chest" |
-| into | 进 | "breathe into her mouth" |
-| on | 在 | "I work on her body" |
-| for | 了 | "for a long time" |
-| a | 一个 | "a long time" |
-| I | 我 | "I think I could keep going always" |
-| could | 可以 | "I could keep going always" |
-| going | 继续 | "keep going" |
-| is | 在 | "Orly is crying" |
-| that | 那 | "I can feel that she's gone" |
-| my | 我的 | "I take my son in my arms" |
-| after | 在……之后 | "After a little while" |
-| he | 他 | "he moves us" |
-| us | 我们 | "he moves us" |
-| we | 我们 | "we are lying with her" |
-| like | 像 | "we stay like this" |
-| this | 这样 | "we stay like this" |
-| in | 在 | "in the rain" |
-| while | 而 | "while the earth crumbles away" |
-| us | 我们 | "beneath us" |
 
 ## 一句话总结
 
