@@ -22,7 +22,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：清单内容全部温和无害——革命一词被降格为消费者偏好。第二句的两个 not 叠进完成判决：匮乏的不再是勇气而是想象力本身，比怯懦更彻底。
 
-**读者视角提示**：与 ch07 "too many choices" 连读：不是没有未来，是未来在无限分支里失去了形状。
+**读者视角提示**：与同段前文 "too many choices" 连读：不是没有未来，是未来在无限分支里失去了形状。
 
 > **原句 2:** That nostalgia was a little hypocritical. The migration crisis had hovered at the edges of the headlines for years, but they had dismissed it as a Mediterranean problem, and therefore no longer theirs.
 
@@ -50,7 +50,7 @@ modified: "2026-09-05"
 
 **关键词**：detachment / a tiny discarded thing
 
-**为什么这样写**：照片细描停在两个"不自然"的对照上：士兵的漠然与男孩的渺小。discarded thing 把一个孩子降格为物——这不是作者冷血，是让读者亲历图像的暴力：照片本来就这样剥夺死者的名字与身份。
+**为什么这样写**：照片细描停在两个"不自然"的对照上：军装男子的漠然与男孩的渺小。discarded thing 把一个孩子降格为物——这不是作者冷血，是让读者亲历图像的暴力：照片本来就这样剥夺死者的名字与身份。
 
 **读者视角提示**：对照原句 3 的"无名"——文本拒绝给男孩姓名，恰恰复现了那张照片的运作方式。
 

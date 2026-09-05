@@ -20,7 +20,7 @@ modified: "2026-09-05"
 
 **关键词**：will come / will try
 
-**关键词功能**：全章时态革命的开启——前十一章的 would（习惯性过去）在此升格为 will（命定将来）：叙述者不再回忆，而是预言。will try 的 try 延续 ch10 的 "They tried traveling"——他们永远在"试"，从未在"是"。
+**为什么这样写**：全章时态革命的开启——前十一章的 would（习惯性过去）在此升格为 will（命定将来）：叙述者不再回忆，而是预言。will try 的 try 延续 ch10 的 "They tried traveling"——他们永远在"试"，从未在"是"。
 
 **读者视角提示**：注意叙事者已从"回顾者"变成"先知"——全知口吻的确定性本身就是判词：这一切毫无悬念。
 
@@ -42,7 +42,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：ch03 的"推论"（fact/deduction）在将来时里被重新开庭：当年以为把热情变成工作，如今发现是生活萎缩成工作。nothing remains but the work 的倒装把全部重量压在 nothing 上——自由叙事的最后一块木板被抽走。
 
-**读者视角提示**：三个 will tell themselves / will realize 的嵌套提示：连这次醒悟也将是转述性的——他们用自省的姿势完成自我安抚。
+**读者视角提示**：两处 will tell themselves / will realize 的嵌套提示：连这次醒悟也将是转述性的——他们用自省的姿势完成自我安抚。
 
 > **原句 4:** Intensely disoriented, they will find themselves unable to disentangle one from the other; and this, their sudden inability to access a version of their past unfiltered by nostalgia, will be their understanding of nostalgia.
 
@@ -60,7 +60,7 @@ modified: "2026-09-05"
 
 **关键词**：In theory, forever.
 
-**为什么这样写**：设问自答的结构再次出现（呼应 ch05 的选择题）——"永远"由 theory 发放，暗示现实另有账本。两个词的第二句是对全书幸福公式最简短的讽刺：他们的生活经得起论证，经不起周一早晨。
+**为什么这样写**：设问自答的结构再次出现（呼应 ch05 的选择题）——"永远"由 theory 发放，暗示现实另有账本。三个词的第二句是对全书幸福公式最简短的讽刺：他们的生活经得起论证，经不起周一早晨。
 
 **读者视角提示**：此句紧接遗产通知到来——"理论上的永远"立即被现实续写，命运的动作快得近乎滑稽。
 
@@ -92,7 +92,7 @@ Anna 和 Tom 将在德国秋初南下参加葬礼，在那里住两晚——但�
 
 **为什么这样写**：民宿首周末的裂痕首次显形：带刺的评论对应 ch11 的 bicker——指责的语法原样移植到新生活。without proposing any solutions 与 ch09 的 Command-Z 呼应：他们擅长回滚与抱怨，从不擅长修理。
 
-**读者视角提示**：这是全书对"他们会不会重蹈覆辙"最直白的剧透——注意它被安放在五条五星好评到来之前。
+**读者视角提示**：这是全书对"他们会不会重蹈覆辙"最直白的剧透——注意它被安放在三条五星好评到来之前。
 
 > **原句 9:** It's all completely perfect, the story will say. It's just like it is in the pictures.
 
@@ -100,7 +100,7 @@ Anna 和 Tom 将在德国秋初南下参加葬礼，在那里住两晚——但�
 
 **关键词**：the story will say / It's just like it is in the pictures.
 
-**为什么这样写**：终句由"他人之口"（a reviewer's post）说出，完成全书最大的一次镜像闭环：ch01 那间公寓的图片曾经许诺生活，如今他们亲手把自家的图片变成他人的许诺。just like it is in the pictures 逐字回收书名 Perfection——完美不再是许诺，而是永动的生产循环：新的房客正在加载他们的旧梦。
+**为什么这样写**：终句由"他人之口"（a reviewer's post）说出，完成全书最大的一次镜像闭环：ch01 那间公寓的图片曾经许诺生活，如今他们亲手把自家的图片变成他人的许诺。整段回收书名 Perfection 的意涵（perfect 见于前一句 It's all completely perfect）——完美不再是许诺，而是永动的生产循环：新的房客正在加载他们的旧梦。
 
 **读者视角提示**：合上书回看 ch01 的第一缕阳光——你会发现全书其实只有一章，只是换了房东。
 

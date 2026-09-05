@@ -50,7 +50,7 @@ modified: "2026-09-05"
 
 **关键词**：just out of reach / believed it / content merely being contented
 
-**为什么这样写**：全章论点在此落地：真正的匮乏不是缺什么，而是"说不出缺什么"。believed it 三个词完成叙事分离——话是说给自己听的，信是为了让话生效。content merely being contented 把满足拆成自我指涉的空转，是全书最锋利的一句心理判词。
+**为什么这样写**：全章论点在此落地：真正的匮乏不是缺什么，而是"说不出缺什么"。believed it 两个词完成叙事分离——话是说给自己听的，信是为了让话生效。content merely being contented 把满足拆成自我指涉的空转，是全书最锋利的一句心理判词。
 
 **读者视角提示**：与 ch01 "The life promised by these images" 呼应：图像许诺生活，他们便以"图像合格率"审计自己——连卧室也不例外。
 

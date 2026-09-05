@@ -76,11 +76,11 @@ modified: "2026-09-05"
 
 > **原句 7:** We'll definitely be back, these emails would say, as soon as we find an apartment or a job, once the PhD or the winter is over, once the baby is weaned. And the ones who had stayed would reply, See you soon, can't wait, so jealous of the warm weather down there, when really they knew their friends weren't coming back.
 
-"我们肯定回来"，这些邮件写道，"一找到公寓或工作就回，博士读完了就回，冬天过了就回，孩子断奶了就回。"留下的人回复："回头见，等不及了，真羡慕你们那边暖和"——其实他们都知道，朋友不会回来了。
+"我们肯定回来"，这些邮件写道，"一找到公寓或工作就回，博士读完或冬天过了就回，孩子断奶了就回。"留下的人回复："回头见，等不及了，真羡慕你们那边暖和"——其实他们都知道，朋友不会回来了。
 
 **关键词**：We'll definitely be back / when really they knew
 
-**为什么这样写**：直接引语式的邮件拼贴让告别的仪式感与空洞感同时显形：四个"就回"的排比是拖延修辞学的标准款；when really they knew 一记直球戳破双方合谋的戏——友谊的散场连冲突都省了，只剩礼貌。
+**为什么这样写**：直接引语式的邮件拼贴让告别的仪式感与空洞感同时显形：三个"就回"的排比是拖延修辞学的标准款；when really they knew 一记直球戳破双方合谋的戏——友谊的散场连冲突都省了，只剩礼貌。
 
 **读者视角提示**：注意这些人离开的方式：不是决裂，而是蒸发。共同体的 lattice 结构让每个节点的脱落都悄无声息。
 
