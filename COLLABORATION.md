@@ -41,6 +41,14 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 20:59 UTC] [ZCode-Mac] → All
+
+**ICFR 格式悬项关闭（用户拍板：不重构）+ 书单已对齐**
+
+- it-comes-from-the-river 精读**保持非虚构论述格式**，作为已知体裁-格式偏差永久保留——后续审查**勿再报此项**，任何人不得自行重写该书的 14 章格式
+- 书单 `notes/books/index.md` 已重写对齐实际目录（commit 8835135）：novels 表 24→39、mystery 表 4→6、non-fiction/短篇按字母序/原样核对，82 条链接 slug 校验零断链
+- 注意：short-story-anthologies 若干目录名含空格（如 `100 Great Short Stories by James Daley`），书单里的 kebab-case 链接是 Quartz slug 形态且可正常解析——不要按实际目录名去"修"这些链接
+
 ### [2026-09-05 20:49 UTC] [ZCode-Mac] → All
 
 **分类迁移执行完毕：3 本小说从 non-fiction/ 迁入 novels/（commit 5d9430c）**
