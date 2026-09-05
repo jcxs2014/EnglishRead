@@ -39,25 +39,29 @@ Grandpa 解释为何对 Meghan 隐藏翅膀——不是他的决定，而是对 
 
 这句话揭示了祖孙关系的隐藏层级——Grandpa 对 Mimi 的承诺优先于他对 Meghan 的保护，这让他的角色更复杂而非简单的"好爷爷"。
 
-> **原句 4:** "I didn't want to decide your future for you."
+> **原句 4:** "She's your mother—I had to respect her wishes."
 
-Mimi 的核心论点（通过 Grandpa 转述）——她离开不是因为不爱 Meghan，而是因为不想用自己的翅膀影响 Meghan 的选择。这个逻辑虽然高尚，但代价是 Meghan 六年没有母亲。
+Grandpa 对 Mimi 离开原因的最终解释——不是背叛，而是承诺。"I had to" 暗示他内心也经历过挣扎，但对女儿的承诺高于一切。这句话把 Mimi 的离开从"抛弃"重新定义为"尊重选择"。
 
-关键词：decide your future, for you
+关键词：had to, respect her wishes
 
-"for you" 的介词选择是关键——Mimi 把 Meghan 视为有独立意志的个体，而非需要被保护的孩子。这是全书对"爱与控制"关系的哲学探讨。
+"had to" 是义务性情态动词，暗示 Grandpa 在亲情与承诺之间的两难。"respect her wishes" 则将 Mimi 的决定从被动的"她走了"变为主动的"她选择了"，赋予了缺席母亲以主体性。
 
-> **原句 5:** "You beat me to it, someone from your school must have called the TV stations."
+> **原句 5:** "A man has a right to his privacy."
 
-Grandpa 承认 Meghan 的公开比他的计划提前了——"beat me to it" 用比赛的比喻，暗示他本有自己的时间表，但 Meghan 的勇气打乱了他的节奏。语气中有无奈也有骄傲。
+Grandpa 在采访结尾的底线声明——面对记者的追问，他用最简洁的句子划定了公共曝光的边界。这不是逃避，而是对个人尊严的坚持。
 
-关键词：beat me to it
+关键词：right, privacy
 
-从 ch04 的"I'll take you with me"到 ch11 的"you beat me to it"，Grandpa 对 Meghan 的态度完成了从"引领者"到"跟随者"的转变。
+"right" 将隐私从"选择"升级为"权利"，语气不容商量。这句话也呼应了 Grandpa 数十年隐藏翅膀的隐忍——他的沉默不是懦弱，而是一种对私域的守护。
 
-> **原句 6:** "Whenever you're ready," he said. "No time like the present."
+> **原句 6:** "Ready or not, right?"
 
-（此句在 ch10 精读中已分析，此处不重复。原句位于 ch10 末尾。）
+Grandpa 在采访开始前的幽默缓冲——用"ready or not"的口语化表达化解紧张气氛。这句话暗示无论是否准备好，生活已经把他们推到了聚光灯下，而他的应对方式是微笑面对。
+
+关键词：ready or not, winked
+
+"ready or not" 源自捉迷藏游戏的开场白，把严肃的媒体采访比作一场游戏，体现了 Grandpa 用幽默化解压力的性格特质。"winked" 则是祖孙之间的默契信号——我们在一起面对。
 
 ## 本章词汇
 
@@ -89,4 +93,4 @@ Grandpa 承认 Meghan 的公开比他的计划提前了——"beat me to it" 用
 
 ## 一句话总结
 
-本章是秘密揭开的关键转折——Amanda Clark 的独家采访让翅膀走向公众，而 Grandpa 讲述的 Mimi 离开真相（"I didn't want to decide your future for you"）将缺席母亲的行为从"抛弃"重新定义为"尊重选择"，为母女重逢铺平了情感道路。
+本章是秘密揭开的关键转折——Amanda Clark 的独家采访让翅膀走向公众，而 Grandpa 讲述的 Mimi 离开真相（"She's your mother—I had to respect her wishes"）将缺席母亲的行为从"抛弃"重新定义为"尊重选择"，为母女重逢铺平了情感道路。

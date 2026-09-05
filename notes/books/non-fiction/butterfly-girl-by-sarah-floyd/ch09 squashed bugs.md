@@ -23,13 +23,13 @@ Greta 的嘲讽策略——用"昆虫"比喻把 Meghan 的翅膀从"神奇"降�
 
 "oversized insects" 把人降格为虫——这是霸凌的核心机制：去人化（dehumanization）。
 
-> **原句 2:** "Don't let her get to you," she said, and sat down next to Meghan.
+> **原句 2:** "She's just bent because Danny T was talking to you," Jade said. "I think she has a crush on him."
 
-Jade 在更衣室的安慰——没有长篇大论，只有行动（坐在身边）。"Don't let her get to you" 是简洁的闺蜜智慧，暗示 Meghan 需要学会情感隔离而非逃避。
+Jade 的回应不是空洞的安慰，而是帮 Meghan 理解 Greta 行为背后的动机——嫉妒。这种"翻译"式的支持比简单的"别在意"更有力量，因为它把 Greta 的恶意从"针对你的攻击"重新定义为"她自己的问题"。
 
-关键词：get to you, sat down next to
+关键词：bent, crush on him
 
-"sat down next to" 是物理上的陪伴——Jade 不是站在远处说安慰话，而是靠近 Meghan，用身体语言表达"我在这里"。
+"bent" 是口语化的愤怒表达，Jade 用轻松的语气消解了 Greta 恶意的分量。"crush on him" 则揭示了霸凌背后的情感根源——Greta 的攻击不是因为 Meghan 的翅膀，而是因为 Danny 对 Meghan 的关注。
 
 > **原句 3:** "If you're happy with yourself, it doesn't matter what others say."
 

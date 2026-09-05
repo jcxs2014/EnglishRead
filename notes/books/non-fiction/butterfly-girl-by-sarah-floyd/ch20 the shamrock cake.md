@@ -39,29 +39,29 @@ Grandpa 的最后警告——"first sign of sunset" 用精确的时间点划定�
 
 从 ch04 的"no turning back"到 ch20 的"first sign of sunset"，Grandpa 对魔法的描述始终伴随着警告——他不是魔法的推广者，而是魔法的守护者。
 
-> **原句 4:** "She's trying to save your life, you ungrateful little twit."
+> **原句 4:** "Let's see who's hanging out at the soccer field. There's usually a few kids from school, but we can warn them not to take our picture."
 
-Kayla 对 Nikki 的威胁——用"save your life"把删除照片从"遵守规则"升级为"生死攸关"。"ungrateful little twit" 是 Kayla 少有的粗鲁时刻，暗示她被 Nikki 的自私激怒了。
+Jade 提议去 soccer field——这是她们获得翅膀后的第一次"社交飞行"。"warn them not to take our picture" 说明 Grandpa 的警告已经内化为她们的行动准则。
 
-关键词：save your life, ungrateful little twit
+关键词：soccer field, warn, not to take our picture
 
-"save your life" 的夸张是策略性的——Kayla 知道只有恐惧才能让 Nikki 删除照片，而 wizard 故事是最有效的恐惧工具。
+"warn" 而非 "tell" 暗示这不是友好的提醒，而是严肃的警告——Jade 已经理解了翅膀暴露的严重性。soccer field 作为学校场景，是她们最熟悉的社交空间，选择这里作为首飞目的地很合理。
 
-> **原句 5:** "Her grandfather will give you green toad skin or grow horns on your head."
+> **原句 5:** "Whatever you do, don't let anyone take your picture. We'd have those blasted reporters swarming all over us again, asking questions."
 
-Kayla 编造的 wizard 惩罚——"green toad skin" 和 "horns on your head" 用童话式的惩罚意象制造恐惧。这些惩罚虽然虚构，但它们的效果是真实的：Nikki 立刻删除了照片。
+Grandpa 对照片的严厉警告——从"don't let anyone"的命令语气到"blasted reporters"的愤怒措辞，他把照片曝光与过去的创伤（记者围堵）直接关联。
 
-关键词：green toad skin, horns on your head
+关键词：don't let anyone, blasted reporters, swarming
 
-Kayla 的 wizard 编造是全书最聪明的即兴发挥——她用 Meghan 不愿说的真相（魔法）的夸张版本来保护秘密，这比沉默更有效。
+"blasted reporters" 用粗口式的修饰表达了 Grandpa 对媒体的深层厌恶。"swarming" 则把记者比作蜂群，暗示一旦曝光就无法控制——这种恐惧来自真实经历。
 
-> **原句 6:** "This wizard thing is working out nicely."
+> **原句 6:** "I always suspected he was a wizard. He has that wise old soul thing about him."
 
-Meghan 对 Kayla 策略的评价——"wizard thing" 用轻松的语气承认了 Kayla 的编造，"working out nicely" 暗示她对这个意外解决方案的满意。这句话也暗示 Meghan 开始接受"让别人误解"作为保护秘密的手段。
+Jade 对 Grandpa 的评价——用 "wise old soul" 而非具体的 wizard 行为来定义她的怀疑。这种模糊的直觉比逻辑推理更有说服力，因为它来自多年相处的感性认知。
 
-关键词：wizard thing, working out nicely
+关键词：suspected, wizard, wise old soul
 
-从 ch03 的"it's not a spell"到 ch20 的"wizard thing is working out nicely"，Meghan 对魔法的态度从否认变为策略性利用——她不再纠结于"魔法是什么"，而是关注"魔法能做什么"。
+"wise old soul" 是一种人格化的神秘感——Jade 不是看到了魔法证据，而是感受到了 Grandpa 气质中的"不同"。这种基于直觉的判断比基于证据的推理更难反驳。
 
 ## 本章词汇
 

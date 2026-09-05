@@ -47,21 +47,21 @@ Grandpa 对 Jade 和 Kayla 肩膀酸痛的轻描淡写——"probably" 和 "a da
 
 从 ch03 的"no turning back"到 ch22 的"ache for a day or two"，Grandpa 对魔法的描述始终包含不确定性——他不是全知者，他也在学习。
 
-> **原句 5:** "I’m still kind of making up my mind," Meghan said.
+> **原句 5:** "I’m pretty sure she’ll at least give it a try, especially when I tell her how much I want us to stay here. And before long she’ll be so in love with Brian that she’ll never want to leave."
 
-Meghan 在 Mimi 回来后的首次犹豫——"still kind of" 用模糊语气暗示她之前可能已经做了决定，但现在又动摇了。这句话让 Mimi 和 Grandpa 都感到意外，因为 Meghan 之前一直说"I can't go with you"。
+Meghan 对 Jade 的乐观预测——她用两层逻辑说服自己：第一层是 house rental，第二层是 Brian 的魅力。"pretty sure" 的自信背后是恐惧——她害怕妈妈真的离开。
 
-关键词：still kind of, making up my mind
+关键词：pretty sure, give it a try, so in love with Brian
 
-"making up my mind" 回到了全书的核心主题——选择权。从 ch12 的"I didn't want to decide your future"到 ch22 的"I'm still making up my mind"，Meghan 终于拥有了真正的选择权。
+"pretty sure" 而非 "certain" 暗示 Meghan 的信心并不坚定。"so in love with Brian" 则暴露了她的策略：用爱情留住妈妈，这比任何翅膀魔法都更复杂。
 
-> **原句 6:** "But now you can come with me."
+> **原句 6:** "I would give you the moon and the stars," he whispered, in a voice only he could hear.
 
-Mimi 对 Meghan 的请求——"but now" 暗示她认为 Meghan 之前不能跟她走是因为年龄或条件，现在障碍消除了。"it would make me so happy" 用情感而非逻辑来劝说，暗示 Mimi 知道自己的计划缺乏理性基础。
+Grandpa 对 Meghan 的低语——"the moon and the stars" 用宇宙级的意象表达无限的爱。"in a voice only he could hear" 暗示这不是说给 Meghan 听的，而是 Grandpa 内心的独白——他在对命运说话。
 
-关键词：now you can come with me, make me so happy
+关键词：moon and the stars, only he could hear
 
-"make me so happy" 的自私性在于：Mimi 在用 Meghan 的爱来绑架她的选择——如果 Meghan 拒绝，她就是在"不让妈妈快乐"。
+"only he could hear" 是全书最温柔的细节之一——Grandpa 的爱不需要被听见，它存在于沉默中。这句话也暗示 Grandpa 知道分离即将到来，他在用最私密的方式说再见。
 
 ## 本章词汇
 

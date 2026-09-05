@@ -31,21 +31,21 @@ Brian 的第二个秘密——他不仅在准备浪漫晚餐，还在研究如�
 
 "step-parents" 的出现让 Brian 的角色从"妈妈的男朋友"升级为"未来的家庭成员"——他不是在追求 Mimi，他是在追求整个 McCoy 家族。
 
-> **原句 3:** "I think he's going to ask you to marry him."
+> **原句 3:** "I bet he's planning to wrap a ring in ravioli and pop the question," Jade said. "Soft music, candles, a romantic dinner—he's going to propose!"
 
-Meghan 向 Mimi 泄露 Brian 的计划——她本想保密（"Sorry Brian, I have to tell her"），但为了留住妈妈，她选择了背叛 Brian 的惊喜。这个选择揭示了 Meghan 的优先级：她更害怕失去妈妈，而不是破坏一个浪漫惊喜。
+Jade 的推理链条——从 cookbooks 到 ring in ravioli 到 propose，用三个具体意象构建了一个完整的求婚场景。她的想象力把 Brian 的图书馆之旅变成了一场浪漫阴谋论。
 
-关键词：ask you to marry him, Sorry Brian
+关键词：wrap a ring, pop the question, propose
 
-"Sorry Brian" 的道歉暗示 Meghan 知道自己在做什么——她在用 Brian 的秘密作为留住妈妈的筹码，这比任何翅膀魔法都更复杂。
+"wrap a ring in ravioli" 是全书最具画面感的猜测之一——把珠宝藏在意大利饺子中，这个荒诞又浪漫的意象完美捕捉了少女对爱情的想象方式。连续三个动词（planning/wrap/pop）制造了紧迫感。
 
-> **原句 4:** "I'm not in love with him, sweetie. We're just enjoying each other's company."
+> **原句 4:** "Wow!" Meghan said. "He's seriously getting serious."
 
-Mimi 对 Brian 感情的否认——与 Meghan 的观察（falling in love / meant to be）形成反差。"enjoying each other's company" 是对关系的降级描述，暗示 Mimi 可能有其他计划。
+Meghan 对 Brian 行为的总结——从 cookbooks 到 step-parents，Brian 的每一步都在加深承诺。"seriously getting serious" 用叠词强化了 Meghan 的震惊和兴奋。
 
-关键词：not in love, enjoying each other's company
+关键词：seriously, getting serious
 
-"not in love" 与 "enjoying company" 的对比揭示了 Mimi 的真实态度——她喜欢 Brian 但不打算为他留下，这与她对马戏团事业的热情形成呼应。
+两个 "serious" 的叠加不是语病，而是 Meghan 语言能力的真实反映——她用最直白的方式表达了最复杂的观察。这种"笨拙的精确"是青少年语言的典型特征。
 
 > **原句 5:** "It's a costume, sweetie, like the one I wear when I perform."
 
@@ -55,9 +55,13 @@ Mimi 把绿色礼服定义为"costume"——这个措辞暗示她仍然把自己
 
 "costume" 在全书中有多重含义：ch03 中 Grandpa 说翅膀"a part of you, not a costume"，现在 Mimi 把礼服称为 costume——两代人对"身份 vs. 表演"的理解开始分歧。
 
-> **原句 6:** "She’s falling in love!" Meghan smiled. Looks like it's meant to be.
+> **原句 6:** "Well, you’re my princess." Mimi came around the table and stood behind Meghan, gazing down at the dress.
 
-（此句在 ch16 精读中已分析，此处不重复。）
+Mimi 把 Meghan 称为"princess"并亲手为她披上礼服——这个动作既是母亲对女儿的宠爱，也是一种身份的传承。"gazing down" 的视角暗示 Mimi 在 Meghan 身上看到了自己年轻时的影子。
+
+关键词：princess, gazing down
+
+"princess" 在全书中是一个反复出现的身份标签——从 Grandpa 的 "You’re my princess" 到 Mimi 的重复，这个词承载了两代人对 Meghan 的期待：她不仅是翅膀的继承者，更是家族尊严的守护者。
 
 ## 本章词汇
 

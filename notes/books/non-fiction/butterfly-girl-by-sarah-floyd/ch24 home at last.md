@@ -23,9 +23,13 @@ Meghan 的最终宣言——"I love this place" 用最简单的语言表达了�
 
 "don't want your life" 是全书最勇敢的拒绝——Meghan 不是在拒绝妈妈，她是在拒绝一种不属于她的生活。这是 ch12 "I'm still learning" 的终极答案。
 
-> **原句 2:** "You want me to be happy, don't you?"
+> **原句 2:** "Can you ever forgive me? Please don't hate me."
 
-（此句在 ch23 精读中已分析，此处不重复。）
+Mimi 的最终恳求——"Can you ever" 用疑问句而非祈使句，暗示她不确定自己是否值得被原谅。"Please don't hate me" 是全书最脆弱的时刻——一个母亲害怕被自己的孩子恨。
+
+关键词：forgive me, don't hate me
+
+"Please" 的加入让这句话从请求变成了哀求。Mimi 不是在要求原谅，她是在乞求不被恨——这比要求原谅更卑微，也更真实。
 
 > **原句 3:** "How could I hate you?"
 

@@ -47,21 +47,21 @@ Mimi 的回应——"I guess" 保留了犹豫感，但 "it's a date" 是明确�
 
 "I guess" 的犹豫是真实的——Mimi 不是轻率地开始新恋情，而是在深思熟虑后做出的选择。
 
-> **原句 5:** Meghan caught the look her mother gave him and swallowed a smile. You little flirt.
+> **原句 5:** "All right, then," she said. "I guess it's a date."
 
- Meghan 观察 Mimi 和 Brian 的互动——"swallowed a smile" 用身体动作描述她憋笑的样子，"You little flirt" 是女儿对母亲的调皮评价。这个视角转换（从女儿看母亲调情）制造了轻松的喜剧效果。
+Mimi 对 Brian 邀请的最终回应——从犹豫到接受，"I guess" 保留了矜持，但 "it's a date" 是明确的承诺。这是 Mimi 丧偶后第一次接受约会，标志着她从过去的阴影中走出来。
 
-关键词：swallowed a smile, little flirt
+关键词：I guess, it's a date
 
-从 ch02 的"Mom is dead to me"到 ch14 的" You little flirt"，Meghan 对妈妈的态度完成了从怨恨到接纳再到调侃的完整弧线。
+"I guess" 的犹豫是真实的——Mimi 不是轻率地开始新恋情，而是在深思熟虑后做出的选择。"it's a date" 则用轻松的口语确认了这段新关系的开始。
 
-> **原句 6:** "It takes a lot of energy to hate a person. We only get one turn on this earth, and I'm not wasting mine carrying a load of hate on my back."
+> **原句 6:** "My rule is one mistake per customer. Try it again and I call the police, no more Mr. Nice Guy."
 
-Grandpa 对 Von Stratton 盗用形象事件的回应——他选择不追究，因为他不想把精力浪费在仇恨上。"carrying a load of hate on my back" 用负重的物理意象描述仇恨的心理代价。
+Brian 作为超市经理的处事原则——对初犯者宽容，对再犯者果断。这个看似简单的规则体现了他对人性的理解：给人改正的机会，但也守住底线。
 
-关键词：energy to hate, one turn on this earth, carrying a load
+关键词：one mistake per customer, no more Mr. Nice Guy
 
-Grandpa 的人生哲学：生命有限，精力应该用在有意义的事上，而不是仇恨。这与 ch09 中"pain spills over"的心理分析形成呼应——理解痛苦但不被其控制。
+"one mistake per customer" 用商业语言包装了一种人生哲学——宽容是有额度的。"no more Mr. Nice Guy" 则用幽默的方式划定了最后通牒，既保持了友好又不失威严。
 
 ## 本章词汇
 

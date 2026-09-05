@@ -47,13 +47,13 @@ Mimi 的最终告白——"never was" 暗示她从一开始就不满足于 Apple
 
 "never was" 的时间跨度覆盖了 Mimi 在 Apple Creek 的全部岁月——从少女到母亲到寡妇，她一直觉得自己"不属于这里"。这让她的离开不再是一个"事件"，而是一种"本性"。
 
-> **原句 5:** "Maybe love was all her real mother could give her. Maybe that was enough."
+> **原句 5:** "I never meant to be away so long." Mimi wiped her eyes with the backs of her hands.
 
-Meghan 的内心独白——全书最成熟的思考。"maybe" 的重复暗示这不是确定的结论，而是正在形成的信念。"that was enough" 是对"完美母亲"幻想的放弃——她接受了一个不完美的、无法留下的母亲，但仍然相信爱是真实的。
+Mimi 的忏悔——"never meant to" 用过去时态承认了计划与现实的偏差。她不是故意离开六年，但结果就是如此。这句话是 Mimi 全书最诚实的时刻之一。
 
-关键词：maybe, love was all, that was enough
+关键词：never meant to, away so long
 
-从 ch02 的"Sometimes it feels like she's dead"到 ch23 的"Maybe love was enough"，Meghan 对母爱的理解完成了从"全有或全无"到"接受残缺"的弧线。
+"never meant to" 的无力感——意图与结果的鸿沟是 Mimi 角色的核心悲剧。她不是一个坏母亲，但她的选择造成了伤害。"away so long" 的 "so" 暗示连她自己都觉得时间太长了。
 
 > **原句 6:** "You want me to be happy, don't you?"
 

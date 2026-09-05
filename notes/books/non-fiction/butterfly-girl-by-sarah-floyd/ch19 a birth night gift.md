@@ -15,21 +15,21 @@ modified: "2026-09-05"
 
 ## 精读
 
-> **原句 1:** "I wish my friends could fly."
+> **原句 1:** "Oh . . . " Jade's mouth dropped open. "I'll miss you so much!" Her lower lip began to tremble.
 
-Meghan 生日许愿——这个愿望与 ch02 的"I wish I could fly"形成呼应。从"我想飞"到"我想让朋友飞"，Meghan 的愿望从个人欲望升级为分享的渴望——她不再只想自己拥有翅膀，她想让最亲近的人也体验飞翔。
+Jade 对 Meghan 可能搬去 Seattle 的第一反应——不是祝福而是悲伤。"mouth dropped open" 和 "lower lip began to tremble" 用连续的身体动作描述震惊到崩溃的过程，展现了友谊的深度。
 
-关键词：wish, friends, could fly
+关键词：miss you so much, tremble
 
-"could" 用虚拟语气暗示这个愿望可能实现——与 ch02 的"I wish I could fly"（纯粹幻想）不同，这次 Meghan 手中有魔法诗。
+"so much" 的强调语气和 "began to tremble" 的渐进式悲伤——Jade 不是突然大哭，而是从震惊慢慢过渡到无法控制的情绪。这种克制的悲伤比嚎啕大哭更有感染力。
 
-> **原句 2:** "A birth night gift 'til dusk to lend."
+> **原句 2:** "I have a little birthday present for you." He was holding a black book tight under his arm—The McCoy Family Register.
 
-魔法诗的核心句——"birth night gift" 定义了魔法的性质：只在生日夜有效，只借到日落。"lend" 而非 "give" 暗示翅膀是暂时的，不是永久的——这既是限制也是保护。
+Grandpa 给 Meghan 的生日礼物——不是普通的玩具或衣服，而是家族秘籍。"tight under his arm" 暗示这本书的珍贵和私密性，而 "The McCoy Family Register" 的出现标志着 Meghan 正式继承家族遗产。
 
-关键词：birth night gift, dusk to lend
+关键词：birthday present, black book, McCoy Family Register
 
-"dusk to lend" 用时间限制制造紧迫感——朋友的翅膀只有一天，这让飞翔变得更珍贵。
+"black book" 的视觉意象——一本黑色的、不起眼的书里藏着改变命运的魔法。Grandpa 选择在生日这天送出，暗示这是他等了很久的时刻。
 
 > **原句 3:** "I grew wings!"
 
@@ -39,13 +39,13 @@ Jade 醒来发现翅膀——"I grew wings" 的措辞与 Meghan 在 ch04 醒来�
 
 "grew" 的选择是关键——它暗示翅膀不是外加的装饰，而是身体的一部分，与 Grandpa 的 "a part of you, not a costume" 设定一致。
 
-> **原句 4:** "They're only for the day," she said. "You'll be back to normal by sunset."
+> **原句 4:** "It's worth a try. But you've got to be sure it wouldn't frighten your friends. Not right to surprise someone with a thing like that if it's not welcome."
 
-Meghan 告诉朋友翅膀的时限——"only for the day" 既分享了真相也设定了期待。"back to normal" 暗示 Meghan 把自己的永久翅膀视为"不正常"，而朋友的暂时翅膀是"例外"。
+Grandpa 对魔法诗的审慎态度——他鼓励尝试（"worth a try"），但设定了道德边界（不能吓到朋友）。这种"开放但负责任"的态度是 Grandpa 教育方式的核心。
 
-关键词：only for the day, back to normal
+关键词：worth a try, frighten, not welcome
 
-"back to normal" 的措辞暗示 Meghan 对自己永久翅膀的复杂情感——她爱翅膀，但也知道它们让她"不同"。
+"not right to surprise someone" 体现了 Grandpa 对他人边界的尊重——魔法不是用来强迫的，而是需要被接受的礼物。这句话也为后续朋友的反应埋下伏笔。
 
 > **原句 5:** "Don't take any chances."
 
@@ -55,13 +55,13 @@ Grandpa 对 Jade 和 Kayla 飞翔的警告——简短、严肃、不容商量�
 
 从 ch04 的"I'll take you with me"到 ch20 的"don't take any chances"，Grandpa 对飞翔的态度从邀请变为警告——不是因为飞翔变了，而是因为拥有翅膀的人变了。
 
-> **原句 6:** "If it were up to me, I'd give you wings right now."
+> **原句 6:** "Don't thank me yet. There's no guarantee about anything except you staying up too late." He grinned.
 
-Meghan 对朋友的承诺——虚拟语气 "if it were up to me" 暗示她知道自己没有这个能力，但魔法诗让她实现了这个承诺。这句话是 Meghan 最无私的时刻——她用生日愿望为朋友打开了飞翔的大门。
+Grandpa 的幽默回应——在 Meghan 感谢他之前就降低期待。"no guarantee about anything" 是对魔法不确定性的诚实声明，而 "staying up too late" 则用日常琐事消解了神秘感。
 
-关键词：if it were up to me, give you wings
+关键词：no guarantee, staying up too late
 
-"give you wings" 从字面意义上实现了—— Meghan 通过魔法诗真的给了朋友翅膀。这是全书对"分享"主题的最高表达。
+Grandpa 的智慧在于：他既给了 Meghan 希望（魔法诗），又不让她盲目乐观（没有保证）。这种平衡是全书对"魔法与现实"关系的核心态度——魔法存在，但它不是万能的。
 
 ## 本章词汇
 
