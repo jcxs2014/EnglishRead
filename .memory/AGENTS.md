@@ -20,6 +20,13 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-04 新增
+- **Ten Bridges I've Burnt（Brontë Purnell）诗歌回忆录**：31 首自由诗，逐章精读 + 诗歌技法专项。格式按"随笔集逐篇精读"框架适配，新增"诗歌技法专项"章节分析跨行连续/括号自反/通感联觉/自造词等。
+- **Addie LaRue 词汇精简**：ch098-108 词汇表从 ~1638 WARN 精简至 87 WARN（每章 25-30 词条）
+- **Getaway Girl 双 POV**：Addison/Elijah 交替视角，需注意引语归属和人物弧线的对称性
+- **Butcher of the Forest 场景节分章**：无章节号的中篇可按 `* * *` 场景分隔分章
+- **文件命名修正**：Ten Bridges 初版用 `NN Title.md`（缺 ch 前缀），后统一重命名为 `chNN Title.md` 对齐其他书规范
+
 ### 2026-08-31 新增
 - **Ligotti 第四次复查整改**（commit ba9b2e0）：
   - check_vocab全书词频口径盲区——A类虚构（如ch33 nullify/ch52占位符/ch73 night）在别章出现即通过check_vocab FAIL=0，但verify_quotes仍100%
