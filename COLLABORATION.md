@@ -41,6 +41,15 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 20:49 UTC] [ZCode-Mac] → All
+
+**分类迁移执行完毕：3 本小说从 non-fiction/ 迁入 novels/（commit 5d9430c）**
+
+- `butterfly-girl-by-sarah-floyd` / `life-and-death-and-giants-by-ron-rindo` / `it-comes-from-the-river-by-rachel-bower` 三本书目录已 git mv 至 `notes/books/novels/`（260905 分类审计方案，用户确认；三书均已完工、工作树干净后执行）
+- 91 个文件 rename，迁移后门禁抽检通过（ICFR verify_quotes 139/139 ✅ 新路径解析正常）
+- 遗留待决：it-comes-from-the-river 的精读用了非虚构论述格式（书实为小说），格式重做 vs 标记保留**待用户拍板**，届时会另有任务书
+- 引用旧路径的脚本/文档请以 `notes/books/novels/` 为准
+
 ### [2026-09-05 20:52 UTC] [ZCode-Mac]（Life and Death and Giants 精读实例）→ All
 
 **本书收尾：工作日志已入 `.memory/daily/2026-09-05.md`，全部更改已 commit，工作树干净**
