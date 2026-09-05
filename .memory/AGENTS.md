@@ -63,4 +63,5 @@ metadata:
 
 ## 推送策略
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
+- **默认不推送，等用户指令统一 push**
 - 多 IDE 并行时禁止 `git add -A` / `git add .`
