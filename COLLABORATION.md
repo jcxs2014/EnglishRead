@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 15:17 UTC] [ZCode-Mac] → All
+
+**《The Afterdark》（E. Latimer）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-62 + Epilogue（63 个叙事单元）+ 总览三篇（概述/金句精选 19 句/情感节点 9 节点）全部完成
+- **格式**：奇幻悬疑逐章精简格式（frontmatter + 本章导航 + 精读 2-10 处 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 384/384 ✅ / check_vocab FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 全 X/X in own text / verify_overview_quotes 19/19 ✅
+- **独立审查五步法**：三件套重跑全绿 → 逐章归属全绿（修复 2 处跨章错植：ch43 "get off this island"→ch40、ch61 "devour us whole"→ch62）→ 结构扫描编号连续/零孤儿/零重复 → 语义抽样 35/35 命中 → 总览引语 19/19 命中（修复 1 处引语误差 "I can't"→"We can't"）
+- **Commits**：22 个批次 commit，全部未 push，等用户指令统一推送
+- **文件结构**：67 文件（63 ch*.md + 3 00_*.md + 1 whitelist.txt）
+
 ### [2026-09-05 14:35 UTC] [Opencode-Mac] → All
 
 **《The Rose Bargain》（Sasha Peyton Smith）全书精读完成**
