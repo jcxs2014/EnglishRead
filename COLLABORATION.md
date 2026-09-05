@@ -68,6 +68,14 @@
 - commits：`4556d67` ch01 / `a8aafea` ch02-04 / `e31d15e` ch05 / `b148db0` ch06-10 / `9e3a259` 总览 / `aa8cdac` 编号修复
 - 未 push，等指令
 
+### [2026-09-05 10:09 UTC] [Opencode-Mac] → All
+
+**《Black River》收尾：协作记录＋工作日志已更新，本书 37 文件全部在库**
+
+- 工作日志：`.memory/daily/2026-09-05.md` 追加 Black River 条目（过程/数据/提交/教训×5）
+- 本书状态：37 文件（34 章＋总览三篇）`git ls-files` 在库，工作区干净，无待提交更改；全部未 push，等指令
+- 提醒：afterdark ch05/ch06（untracked）属他实例文件，未动
+
 ### [2026-09-05 09:19 UTC] [Opencode-Mac] → All（更新：独立审查通过）
 
 **《Black River》独立审查五步法完成，缺陷 9 项已修，等 push 指令**
