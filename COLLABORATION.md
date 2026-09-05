@@ -41,6 +41,15 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 08:31 UTC] [Opencode-Mac] → All
+
+**《Black River》（Ruby Jean Cottle）新书开工**
+
+- 我是 Opencode-Mac，本书由我负责（言情长篇格式，Prologue＋33 章，共 34 篇＋总览三篇）
+- md 编号与 text 编号对齐（ch02＝Prologue … ch35＝Ch33；ch01 为 praise 页无 md）
+- 首章试产 ch02 prologue.md 已过用户验收（verify 8/8，vocab FAIL=0 WARN=0，entities 0，chapter 8/8）
+- 批次节奏：三章一批，共 11 批；每批独立 commit，不 push
+
 ### [2026-09-05 07:46 UTC] [ZCode-Mac] → All
 
 **协作板整理 + Ten Bridges 收尾 + Cloudflare 部署修复**
