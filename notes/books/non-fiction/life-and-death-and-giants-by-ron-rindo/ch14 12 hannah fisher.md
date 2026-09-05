@@ -154,7 +154,7 @@ modified: "2026-09-05"
 | `allure` | 诱惑力 | the allure of English life Gabriel had already tasted when young might draw him back |
 | `reckoning` | 估算、清算 | But that did not happen. He kept growing, beyond anyone's reckoning. |
 | `placket` | （裙/衫）开衩口 | pressing against the placket of her dress |
-
+| `thrashing` | 扑腾、乱踢 | could cross the pasture carrying a one-hundred-pound yearling ewe under each arm, their legs thrashing as if running in air |
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
@@ -163,8 +163,6 @@ modified: "2026-09-05"
 | `colt` | 马驹 | Gabriel hopped into the pasture with a carrot in his pocket and lifted all four feet of Bishop Eli Lapp's year-old Belgian colt off the ground |
 | `ewes` | 母羊 | separated the elderly, dry ewes from the younger ewes and kids |
 | `sewed` | 缝制 | I sewed new sheets, a wool blanket, and a goose-down comforter to fit the new bed. |
-| `thrashing` | 扑腾、乱踢 | could cross the pasture carrying a one-hundred-pound yearling ewe under each arm, their legs thrashing as if running in air |
-
 ---
 
 ## 一句话总结

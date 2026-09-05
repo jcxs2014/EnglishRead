@@ -156,13 +156,11 @@ modified: "2026-09-05"
 | `decipher` | 破译 | By some heavenly Morse code only the faithful can decipher? |
 | `bleachers` | 露天看台 | As he streaked down the sidelines, you could hear his mama shouting from the bleachers |
 | `sidelines` | 边线 | As he streaked down the sidelines, you could hear his mama shouting from the bleachers |
-
-### ⭐ 基础
+| `touchdown` | 达阵 | Every time Jesus or Julio scored a touchdown, the Waushara High School marching band would break into a raucous version of "La Bamba" |### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | `mudroom` | 门厅杂物间 | Hannah and Gabriel entered the mudroom, Hannah first in her kapp and cape |
-| `touchdown` | 达阵 | Every time Jesus or Julio scored a touchdown, the Waushara High School marching band would break into a raucous version of "La Bamba" |
 | `puking` | 呕吐 | or you'd see them on their hands and knees, puking through their face masks. |
 
 ---
