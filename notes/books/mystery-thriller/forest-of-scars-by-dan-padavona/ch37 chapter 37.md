@@ -44,9 +44,9 @@ modified: "2026-09-05"
 
 **读者视角提示**：尸体被搬走意味着两件事：凶手还在按策展流程工作（死亡不是终点，是入库）；以及——Hayes 现在挂在哪儿、以什么姿势，是下一章的开幕画面。
 
-> **原句 4:** Laughter.
+> **原句 4:** And in the distance, over the hammering storm, a new sound rose. / Laughter.
 
-**中文理解**：笑声。
+**中文理解**：而在远处，越过锤击的风暴，一种新的声音升起。 / 笑声。
 
 **关键词**：Laughter（笑声）—— 一个词的登场。
 
@@ -76,9 +76,7 @@ modified: "2026-09-05"
 
 > **原句 7:** Cicatrex's voice echoed in his thoughts. "No one dies, Jamie. They transcend." / A lie.
 
-**中文理解**：Cicatrex 的声音在他脑海里回响："没有人会死，Jamie。他们只是超脱。" / 谎言。
-
-**关键词**：echoed in his thoughts（在脑海里回响）/ A lie（谎言）—— 一个词的祛魅。
+**中文理解**：Cicatrex 的声音在他脑海里回响："没有人会死，Jamie。他们只是超脱。" / 谎言。**关键词**：echoed in his thoughts（在脑海里回响）/ A lie（谎言）—— 一个词的祛魅。
 
 **为什么这样写**：凶手的教义以内心声音的形式回放——洗脑完成的标志：他不录自传，你在脑内替他背书。而 Jamie 的回应只有一个词：A lie.——这是全书对"超脱神学"最简短的终审判决，来自唯一有资格宣判的人。在窒息的边缘，语言退化为真伪的二值判断。
 
