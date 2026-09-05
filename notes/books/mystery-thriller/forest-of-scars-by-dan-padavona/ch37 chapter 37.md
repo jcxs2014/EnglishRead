@@ -14,9 +14,9 @@ modified: "2026-09-05"
 
 ## 精读
 
-> **原句 1:** The sky grew fangs.
+> **原句 1:** The sky grew fangs. / Agent Sinclair sprinted through the downpour.
 
-**中文理解**：天空长出了獠牙。
+**中文理解**：天空长出了獠牙。 / Sinclair 探员在暴雨中狂奔。
 
 **关键词**：grew fangs（长出獠牙）—— 三个词的兽化。
 
