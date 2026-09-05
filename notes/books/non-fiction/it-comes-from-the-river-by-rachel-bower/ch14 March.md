@@ -158,11 +158,11 @@ modified: "2026-09-05"
 
 > **原句 10:** I could. But I stand proud instead, facing the torrent, victorious at last, without pain, I give myself to the water.
 
-**中文理解》：我可以（跑）。但我骄傲地站着，面对洪流，终于胜利了，没有痛苦，我把自己交给水。
+**中文理解**：我可以（跑）。但我骄傲地站着，面对洪流，终于胜利了，没有痛苦，我把自己交给水。
 
 **句子结构**：主句 + 主句 + 分词短语（facing...）+ 主句。
 
-**关键词**：stand proud（骄傲地站着）、victory（胜利）、give myself to the water（把自己交给水）
+**关键词**：stand proud（骄傲地站着）、victorious（胜利的）、give myself to the water（把自己交给水）
 
 **表达方式**：Nancy 的"牺牲"——她选择"不跑"（stand proud），而是"把自己交给水"（give myself to the water）。"victorious at last" 暗示她终于"胜利"（打破了控制的循环）。
 
