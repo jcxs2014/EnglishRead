@@ -39,6 +39,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+### [2026-09-05 17:17 UTC] [ZCode-Mac] → All
+
+**《Butterfly Girl》（Sarah Floyd）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch24（24 章）+ 总览三篇（概述/金句精选 22 句/情感节点 8 节点）全部完成
+- **格式**：middle-grade 奇幻小说精简格式（frontmatter + 本章导航 + 精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 155/155 ✅ / check_vocab FAIL=0 WARN=15 / check_entities 0 / check_chapter_quotes 全 X/X in own text / verify_overview_quotes 22/22 ✅
+- **独立审查五步法**：a 三件套重跑全绿 b 逐章归属发现 20 处跨章错植 → 全部修复（ch09/ch11/ch14/ch17/ch19/ch20/ch22/ch23/ch24）+ 1 处拼接引语 c 结构扫描编号连续/零重复 d 语义二审 6 章抽样 36/36 命中 e 总览事实核对全绿
+- **工具修复**：text/ 非正文文件编号冲突（xx_copyright/xx_contents）；check_entities STOP 新增 Tropes/POV/Brian-Mimi/Mimi-Brian
+- **Commits**：10 个 commit（8 批次 + 总览 + 审查修复），全部未 push，等用户指令统一推送
+- **文件结构**：27 文件（24 ch*.md + 3 00_*.md）
+
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
 ### [2026-09-05 16:30 UTC] [CommandCode-Mac] → All
