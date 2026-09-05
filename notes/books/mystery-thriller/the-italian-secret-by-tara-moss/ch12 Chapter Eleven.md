@@ -155,13 +155,15 @@ modified: "2026-09-05"
 
 **读者视角提示**：Billie 的"假期"不是逃避——它是追寻真相的旅程。
 
-> **原句 15:** The intriguing advertisement for the cruise had come into Billie's mind the moment she left Moretti yesterday, standing in the shadows. The cruise was going to Naples, and Naples was just a few hours' train ride from Taranto, where that photograph of her father and the mystery woman and child had been taken. She might not find that woman, that child, but she needed to know more. Her late father had—intentionally or not—left a trail that led to Italy. How could she not follow? He'd taught her well, or in any event, the need to know was in her blood.
+> **原句 15:** Instinctively, Billie covered her hesitation by taking out her cigarette case and tapping out a Lucky Strike, as if it were the reason for her stopping.
 
-**中文理解**：那个诱人的邮轮广告在昨天她离开 Moretti 的那一刻就进入了 Billie 的脑海，站在阴影中。邮轮将去那不勒斯，而那不勒斯距离她父亲和那个神秘女人及孩子拍摄照片的地方塔兰托只有几小时的火车车程。她可能找不到那个女人，那个孩子，但她需要知道更多。她已故的父亲——有意或无意地——留下了一条通往意大利的线索。她怎么能不跟随？他教她很好，或者无论如何，求知欲在她的血液里。
+**中文理解**：本能地，Billie 通过拿出烟盒、敲出一支 Lucky Strike 来掩盖她的犹豫，仿佛这就是她停下来的原因。
 
-**关键词**：intriguing（诱人的）；cruise（邮轮）；Taranto（塔兰托）；trail（线索）；intentionally or not（有意或无意地）
+**关键词**：covered her hesitation（掩盖她的犹豫）；tapping out（敲出）
 
-**为什么这样写**："intentionally or not"=父亲是否故意留下线索？这是 Billie 的疑问。"need to know was in her blood"=侦探本能是遗传的。
+**为什么这样写**：Billie 的"掩饰"=她的专业训练——永远不要让敌人知道你发现了他们。
+
+**读者视角提示**：Billie 的冷静是训练出来的——她能在危险中保持表面平静。
 
 **读者视角提示**：Billie 的决定——去意大利——是全书的转折点——从悉尼到意大利，从现实到过去。
 
@@ -209,13 +211,6 @@ modified: "2026-09-05"
 | disreputable | 声名狼藉 | …the most disreputable PI in town. |
 | let go | 放下 | 'You have to let the Moretti thing go, Billie…' |
 | resigned | 无奈的 | …in a resigned tone… |
-| intriguing | 诱人的 | The intriguing advertisement for the cruise… |
-| cruise | 邮轮 | The intriguing advertisement for the cruise… |
-| Naples | 那不勒斯 | The cruise was going to Naples… |
-| Taranto | 塔兰托 | …just a few hours' train ride from Taranto… |
-| trail | 线索 | …left a trail that led to Italy. |
-| intentionally or not | 有意或无意地 | …intentionally or not—left a trail… |
-| need to know | 求知欲 | …the need to know was in her blood. |
 
 ### ⭐⭐ 进阶
 
@@ -271,7 +266,6 @@ modified: "2026-09-05"
 | manage | 设法 | …she managed, folding her hands… |
 | fold | 折叠 | …folding her hands… |
 | close | 关闭 | …and closing her eyes… |
-| moment | 时刻 | …for a moment… |
 | gaze | 凝视 | …before gazing once more… |
 | bleak | 凄凉的 | …across that bleak story of betrayal… |
 | betrayal | 背叛 | …bleak story of betrayal… |
@@ -391,7 +385,6 @@ modified: "2026-09-05"
 | exchange | 交换 | The women exchanged smiles. |
 | smile | 微笑 | …exchanged smiles. |
 | late | 晚的 | 'It's getting late,' Billie said. |
-| need | 需要 | 'Remember, if you need anything further from us…' |
 | further | 进一步的 | …anything further from us…' |
 | always | 总是 | …we are always happy to assist.' |
 | assist | 协助 | …happy to assist.' |
@@ -433,7 +426,6 @@ modified: "2026-09-05"
 | family | 家庭 | …or their families. |
 | like | 喜欢 | She liked boundaries. |
 | helpful | 有用的 | Boundaries were helpful… |
-| teach | 教 | …her father had taught her. |
 | thought | 想法 | And with that thought came… |
 | letter | 信 | …those blasted letters… |
 | save | 保存 | …he had lovingly saved in his cabinet. |
@@ -448,23 +440,6 @@ modified: "2026-09-05"
 | cheated | 被欺骗的 | …on behalf of their cheated wives. |
 | wife | 妻子 | …cheated wives. |
 | while | 在…的同时 | …all while having his own affairs? |
-| come into | 进入 | …came into Billie's mind… |
-| mind | 头脑 | …into Billie's mind… |
-| moment | 时刻 | …the moment she left Moretti yesterday… |
-| leave | 离开 | …she left Moretti yesterday… |
-| shadow | 阴影 | …standing in the shadows. |
-| go | 去 | The cruise was going to Naples… |
-| train | 火车 | …a few hours' train ride from Taranto… |
-| ride | 乘坐 | …train ride from Taranto… |
-| take | 拍摄 | …that photograph of her father… |
-| mystery | 神秘的 | …and the mystery woman and child… |
-| find | 找到 | She might not find that woman… |
-| need | 需要 | …but she needed to know more. |
-| late | 已故的 | Her late father had— |
-| lead | 引导 | —left a trail that led to Italy. |
-| follow | 跟随 | How could she not follow? |
-| teach | 教 | He'd taught her well… |
-| blood | 血液 | …the need to know was in her blood. |
 
 ### ⭐ 基础
 
@@ -521,7 +496,6 @@ modified: "2026-09-05"
 | manage | 设法 | …she managed, folding her hands… |
 | fold | 折叠 | …folding her hands… |
 | close | 关闭 | …and closing her eyes… |
-| moment | 时刻 | …for a moment… |
 | gaze | 凝视 | …before gazing once more… |
 | bleak | 凄凉的 | …across that bleak story of betrayal… |
 | betrayal | 背叛 | …bleak story of betrayal… |
@@ -641,7 +615,6 @@ modified: "2026-09-05"
 | exchange | 交换 | The women exchanged smiles. |
 | smile | 微笑 | …exchanged smiles. |
 | late | 晚的 | 'It's getting late,' Billie said. |
-| need | 需要 | 'Remember, if you need anything further from us…' |
 | further | 进一步的 | …anything further from us…' |
 | always | 总是 | …we are always happy to assist.' |
 | assist | 协助 | …happy to assist.' |
@@ -683,7 +656,6 @@ modified: "2026-09-05"
 | family | 家庭 | …or their families. |
 | like | 喜欢 | She liked boundaries. |
 | helpful | 有用的 | Boundaries were helpful… |
-| teach | 教 | …her father had taught her. |
 | thought | 想法 | And with that thought came… |
 | letter | 信 | …those blasted letters… |
 | save | 保存 | …he had lovingly saved in his cabinet. |
@@ -698,23 +670,6 @@ modified: "2026-09-05"
 | cheated | 被欺骗的 | …on behalf of their cheated wives. |
 | wife | 妻子 | …cheated wives. |
 | while | 在…的同时 | …all while having his own affairs? |
-| come into | 进入 | …came into Billie's mind… |
-| mind | 头脑 | …into Billie's mind… |
-| moment | 时刻 | …the moment she left Moretti yesterday… |
-| leave | 离开 | …she left Moretti yesterday… |
-| shadow | 阴影 | …standing in the shadows. |
-| go | 去 | The cruise was going to Naples… |
-| train | 火车 | …a few hours' train ride from Taranto… |
-| ride | 乘坐 | …train ride from Taranto… |
-| take | 拍摄 | …that photograph of her father… |
-| mystery | 神秘的 | …and the mystery woman and child… |
-| find | 找到 | She might not find that woman… |
-| need | 需要 | …but she needed to know more. |
-| late | 已故的 | Her late father had— |
-| lead | 引导 | —left a trail that led to Italy. |
-| follow | 跟随 | How could she not follow? |
-| teach | 教 | He'd taught her well… |
-| blood | 血液 | …the need to know was in her blood. |
 
 ## 一句话总结
 Billie 完成 Darlene 案件后发现 Moretti 在跟踪，决定去意大利度假——表面是度假，实际是追寻父亲的秘密。

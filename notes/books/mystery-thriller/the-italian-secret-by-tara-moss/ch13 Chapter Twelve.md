@@ -579,7 +579,7 @@ modified: "2026-09-05"
 | quip | 讽刺 | '…her mother quipped. |
 | night | 夜晚 | Ella was already in her night things… |
 | extravagant | 奢华的 | …an extravagant embroidered velvet robe… |
-| embroidered | 刺绣的 | …embellished embroidered velvet robe… |
+| embroidered | 刺绣的 | …extravagant embroidered velvet robe… |
 | velvet | 天鹅绒 | …embroidered velvet robe… |
 | robe | 长袍 | …velvet robe… |
 | over | 在…上面 | …worn over pressed striped pyjamas… |
@@ -614,7 +614,7 @@ modified: "2026-09-05"
 | announce | 宣布 | 'I need a holiday,' she announced… |
 | miss | 错过 | …not missing a beat. |
 | beat | 拍子 | …not missing a beat. |
-| more | 更多 | 'And what's more, you need a holiday too.' |
+| more | 更多 | …you need a holiday too.' |
 | seat | 座位 | 'Come and have a seat, Alma,' Billie invited. |
 | invite | 邀请 | 'Come and have a seat, Alma,' Billie invited. |
 | care | 在乎 | 'And I don't care if it's a bit warm still…' |
