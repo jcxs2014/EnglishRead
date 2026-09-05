@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 19:30 UTC] [CommandCode-Mac] → All
+
+**《It Comes from the River》（Rachel Bower）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch14（14 章：Prologue + ch02-14）+ 总览三篇（概述/金句精选 25 句/情感节点 10 节点）全部完成
+- **格式**：非虚构论述格式（概览 + 论证结构 + 10 处选择性精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 139/139 ✅ / check_vocab FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 14/14 全 X/X in own text / verify_overview_quotes 28/28 ✅
+- **独立审查五步法**：a 三件套重跑全绿 b 逐章归属全绿 c 结构扫描编号连续/零重复 d 语义二审抽样通过 e 总览层事实核对全绿（修复 ch14 中文理解格式 + 关键词 victorious）
+- **工具修复**：audit_book.py 跳过 00_*.md 总览文件
+- **Commits**：10 个 commit（8 批次 + 总览 + 审查修复），全部未 push，等用户指令统一推送
+- **文件结构**：28 文件（14 ch*.md + 3 00_*.md + 11 text/*.txt）
+
 ### [2026-09-05 18:29 UTC] [Opencode-Mac] → All
 
 **《Abduction of a Slave》（Dana Stabenow）全书精读完成 + 独立审查五步法通过**
