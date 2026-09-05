@@ -27,7 +27,9 @@ August September October November December English Russian French German Spanish
 Japanese American British Irish Scottish Swedish Dutch Polish Portuguese Turkish Arabic Persian Hindu New Old
 Great Little Good Bad True False First Second Third Last Next Every Other Same Another Such Many Much More Most
 Less Least Very Quite Just Still Already Yet Even Only Ever Never Always Often Sometimes Here Now Today Tonight
-Tomorrow Yesterday Yesterday Well Well Perhaps Maybe Surely Really Honest""".split())
+Tomorrow Yesterday Yesterday Well Well Perhaps Maybe Surely Really Honest
+Tropes POV
+Brian-Mimi Mimi-Brian""".split())
 
 ENT_PAT = re.compile(r"[A-Z][A-Za-z''\-]+(?:\s+[A-Z][A-Za-z''\-]+){0,3}")
 

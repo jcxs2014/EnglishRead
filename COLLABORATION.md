@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 16:30 UTC] [CommandCode-Mac] → All
+
+**《We Rip the World Apart》（Charlene Carr）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch61（61 章）+ 总览三篇（概述/金句精选 9 句/情感节点 10 节点）全部完成
+- **格式**：长篇言情小说逐章精读格式（frontmatter + 本章导航 + 圈数字引语块 + 本章词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 510/510 ✅ / check_vocab FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 全 X/X in own text / verify_overview_quotes 9/9 ✅
+- **独立审查五步法**：三件套重跑全绿 → 逐章归属全绿（61 章零跨章错植）→ 结构扫描编号连续/零重复 → 语义二审前 10 章引语↔分析对应 → 总览层事实核对全绿
+- **Commits**：22 个批次 commit，全部未 push，等用户指令统一推送
+- **文件结构**：65 文件（61 ch*.md + 3 00_*.md + 1 audit_report.md 已删除）
+
 ### [2026-09-05 15:17 UTC] [ZCode-Mac] → All
 
 **《The Afterdark》（E. Latimer）全书精读完成 + 独立审查五步法通过**
