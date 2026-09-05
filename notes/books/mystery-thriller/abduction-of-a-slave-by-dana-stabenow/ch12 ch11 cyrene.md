@@ -10,7 +10,7 @@ modified: "2026-09-05"
 - **一句话概括**：Apollodorus 和 Tetisheri 在 Laurus 家的灌木丛中重逢——他透露自己在 Juba 宫廷卫队中潜伏；他们带着 Urania 和她的女儿逃回旅馆；Aurelius Cotta 已在等他们——要求征用 Hapi II 为 Caesar 运粮；Neb 拒绝离开 Tetisheri，坚持让她带船去 Alexandria；Neb 向 Tetisheri 揭示 Timur 被酷刑杀死、Fulvio 也死在 Timur 家中。
 - **推理线位置**：多线交汇——Apollodorus 的间谍身份、Cotta 的征用令、Timur 的死讯、Urania 的营救——全部在这一章碰撞；Neb 选择让 Tetisheri 离开而自己留下 = 父女般的牺牲。
 - **伏笔与线索**：①Urania 有一个女儿——之前拒绝离开是因为"the man she sent said there was no room for a child"——第一次营救失败的原因是没给孩子留位置；②Cotta 说"Caesar is coming"——战争迫在眉睫；③Neb 说"I will not leave you here alone"——他的保护本能与 Tetisheri 的独立意志冲突；④Fulvio 被杀 = Cotta 的人也在调查 Timur——两股势力在 Timur 的房子里交叉。
-- **人物档案**：Apollodorus（Tetisheri 的恋人，Cleopatra 的间谍，Juba 宫廷卫队成员）、Aurelius Cotta（Caesar 的堂弟和私人代表，留守 Alexandria 监视 Cleopatra；Scar-faced，总是微笑但不可信）。
+- **人物档案**：Apollodorus（Tetisheri 的恋人，Cleopatra 的间谍，Juba 宫廷卫队成员）、Aurelius Cotta（Caesar 的堂弟和私人代表，留守 Alexandria 监视 Cleopatra；脸上有一道疤，总是微笑但不可信）。
 - **叙事手法**：场景急转——从灌木丛的私密重逢到旅馆的政治对峙，节奏从慢到快；Neb 的"No"是全章的转折点——他第一次对抗权威。
 
 ## 精读
