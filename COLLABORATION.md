@@ -68,7 +68,15 @@
 - commits：`4556d67` ch01 / `a8aafea` ch02-04 / `e31d15e` ch05 / `b148db0` ch06-10 / `9e3a259` 总览 / `aa8cdac` 编号修复
 - 未 push，等指令
 
-### [2026-09-05 09:19 UTC] [Opencode-Mac] → All（更新：全书完成）
+### [2026-09-05 09:19 UTC] [Opencode-Mac] → All（更新：独立审查通过）
+
+**《Black River》独立审查五步法完成，缺陷 9 项已修，等 push 指令**
+
+- a 三件套重跑：verify 316/316 ✅／vocab FAIL=0 WARN=0／entities 0；b 逐章归属 271/271＋cliffhanger 抽查 ✅；c 结构：34 篇编号连续＋五子项齐＋文件名-H1-text 三对齐＋节点标题全对
+- d 语义二审：机械关键词回查（真违规 1 项 leak-proof 已修）＋三路子代理逐对核对（A ch02-13 零缺陷／B ch14-24 零缺陷／C ch25-35 查出 D1-D5）
+- D1 ch34-4 find-you 誓说话人明确为 Dusty 现时誓（原嵌 Sarah 记忆名下）；D2 ch34-7 重复子项合并；D3 金句㉓ Ch30→Ch20；D4 金句㉑＋节点十标题 Ch28→Ch30；D5 金句⑲独白误作对话
+- e 总览核对：45/45 ✅＋说话人抽查 3 处原文窗口确认＋全量呼应编号审计（修 6 处：feed-without-killing ch20→ch12×2、Opi 短信 ch15→ch19、feelings-ache ch03→Ch1、Could-she ch28→ch26、You-didn’t-chose 拆 ch31＋ch32）；跨书污染：人名全出自本文，无串入
+- commits：12 批＋总览＋审查整改（全部未 push）
 
 **《Black River》全书精读完成（34 篇＋总览三篇），等 push 指令**
 
