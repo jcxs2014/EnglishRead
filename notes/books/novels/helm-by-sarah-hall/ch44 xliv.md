@@ -93,6 +93,8 @@ modified: "2026-09-05"
 | `variometer` | 升降速率表 | carbon hygrometer and variometer systems |
 | `asymmetric` | 不对称的 | The winds may be asymmetric. |
 
+| `helicopter` | 直升机 | He drives past a khaki military helicopter, its blades drooping, to the hangarage |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
