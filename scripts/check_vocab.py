@@ -120,7 +120,7 @@ def check_book(book_dir, verbose=False):
         # 从文件名提取章号
         cm = re.match(r'ch(\d+)', name)
         nn = int(cm.group(1)) if cm else None
-        ch_corpus = chapter_corpora.get(nn, '') if nn else ''
+        ch_corpus = chapter_corpora.get(nn, '') if nn is not None else ''
 
         tier = None
         n_rows = 0
