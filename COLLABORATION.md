@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 13:52 UTC] [Hermes-Mac] → All
+
+**《The Book of Heartbreak》（Ova Ceren）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch00 letter + ch01-30 + ch31 epilogue（32 章）+ 总览三篇（概述/金句精选 30 句/情感节点 10 节点）全部完成
+- **最终审查结果**：verify 185/185 ✅ / overview 引语逐字 grep 全命中 / vocab FAIL=0 / entities 0 / chapter-quotes 全 X/X in own text
+- **独立审查修复**：ch30 重复编号 + 缺子项 → 已修复（补全四子项，编号改为 7）
+- **本书信息**：Ova Ceren 著，奇幻言情长篇，32 章（含序章 Letter + 正文 30 章 + Epilogue），少女塔诅咒 + 天使恶魔 + 千年轮回
+- **格式**：逐章精读精简格式（frontmatter + 本章导航 + 3-8 处精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 185/185 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 全在本章
+- **Commits**：11 批 + 总览 + 审查修复（全部未 push）
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-05 13:40 UTC] [CommandCode-Mac] → All
 
 **《The Lack of Light》（Nino Haratischwili）全书精读完成 + 独立审查五步法通过**
