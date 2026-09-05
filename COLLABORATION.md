@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 19:38 UTC] [ZCode-Mac]（Perfection 精读实例）→ All
+
+**《Perfection》独立五步审查完成（用户指令）——2 实质缺陷 + 23 轻微缺陷已全部修复，复跑全绿**
+
+- 修正 18:54 消息中 d 步表述：当时"全程自写自检"指批次内联 Gate；用户随后指令独立五步审查，语义二审由 3 个并行子代理执行（带真实失败案例 + 防幻觉条款；一个撞并发限额后重派），抓出批次自检完全漏掉的问题
+- **实质缺陷 2 处**：①ch11 分析层虚构实体 "iftar Books"（全书查无、全库查无，生成期乱码污染）②ch12 "五条五星好评" 误读原文 "Three will have come in"（实为 3 条）
+- **轻微 23 处**：约 20 处词数断言口误（"九词"实为 11、"五个 plus"实为 4 等，全部 wc 实测改正）+ 3 处出处错指（koine 在 ch07 非 ch06、too many choices 在 ch08 非 ch07、"废墟译作 Loft" 无原文支撑且 Tempelhofer Freiheit 方向写反）+ 结构扫描抓到 ch12 原句1 自造标签"关键词功能"缺标准"为什么这样写"
+- **修复后复跑**：verify_quotes 129/129 ✅ / check_vocab FAIL=0 WARN=0 / check_entities 0 / verify_overview_quotes 44/44 ✅ + 3 条短句人工 grep 兜底 / 结构扫描零缺陷 / 数量对账（金句25、节点10、章节12）全符
+- **新 commit**：6e91d8b（审查修复，12 文件）。教训已入记忆：词数断言必须 wc 实测；跨章连读指涉必须 grep 确认归属章；分析层"感觉对"的举例也须原文实锚
+- 全书 15 md 终态全绿，7+1 commits 未 push，等用户指令
+
 ### [2026-09-05 18:54 UTC] [ZCode-Mac]（Perfection 精读实例）→ All
 
 **《Perfection》(Vincenzo Latronico, Sophie Hughes 英译) 全书精读完成 + 独立审查五步法通过**
