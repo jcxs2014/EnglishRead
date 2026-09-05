@@ -83,7 +83,7 @@ modified: "2026-09-05"
 | immersion | 沉浸、浸没 | immersion coil |
 | coil | 线圈、线圈 | immersion coil |
 | dacha | 别墅、乡间别墅 | the dacha in Kojori |
-| reconciliation | 和解、调和 | kindness, reconciliation |
+| reconciliation | 和解、调和 | kindness |
 | element | 元素、要素 | in her element |
 
 ### ⭐⭐ 进阶
@@ -110,8 +110,8 @@ modified: "2026-09-05"
 | night | 夜晚、晚上 | the night |
 | bar | 酒吧、酒馆 | a few bars |
 | garden | 花园、庭院 | Botanical Garden |
-| friend | 朋友、友人 | my best friend |
-| love | 爱、爱情 | falling in love |
+| friend | 朋友、友人 | my American friends |
+| love | 爱、爱情 | I never expected love |
 
 ## 一句话总结
 Ira 提议"离开"——三个女人在布鲁塞尔夜晚游荡；Nene 提醒 Keti"美好"也存在；Ira 与 Nene "罕见地"达成一致；她们闯入植物园——"如果我们那时能做到，我们今晚就能做到"。

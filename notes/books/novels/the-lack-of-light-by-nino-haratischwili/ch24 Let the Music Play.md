@@ -84,8 +84,8 @@ modified: "2026-09-05"
 | naive | 天真的、幼稚的 | defend her naïvete |
 | slaughter | 屠杀、杀戮 | every time it was slaughtered |
 | prosecutor | 检察官、公诉人 | public prosecutor |
-| untouchable | 不可触碰的、无可挑剔的 | he was untouchable |
-| expose | 揭露、揭发 | I could expose them |
+| untouchable | 不可触碰的、无可挑剔的 | all-powerful |
+| expose | 揭露、揭发 | Tomorrow it'll be public knowledge |
 
 ### ⭐⭐ 进阶
 
@@ -116,9 +116,9 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | night | 夜晚、晚上 | the night |
-| love | 爱、爱情 | falling in war |
-| friend | 朋友、友人 | my best friend |
-| truth | 真相、事实 | the only truth |
+| love | 爱、爱情 | my love life |
+| friend | 朋友、友人 | our party-loving friend |
+| truth | 真相、事实 | the years don't change a thing |
 | past | 过去、往事 | the past |
 
 ## 一句话总结

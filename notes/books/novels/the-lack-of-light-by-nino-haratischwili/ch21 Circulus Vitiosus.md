@@ -115,7 +115,7 @@ modified: "2026-09-05"
 | war | 战争、冲突 | the war |
 | brother | 兄弟、哥哥 | my brother |
 | father | 父亲、爸爸 | my father |
-| friend | 朋友、友人 | my best friend |
+| friend | 朋友、友人 | my friend had sold her body |
 
 ## 一句话总结
 "恶性循环"是 Dina 的阿布哈兹系列——战争、死亡、以及 Dina 的导师 Posner 之死；Rati 被"认证"为精神病以避免监禁；Keti 与 Reso 在基辅工作——她"逃离"了第比利斯，但"记忆"如影随形。

@@ -94,7 +94,7 @@ modified: "2026-09-05"
 | greats | 伟大的人物 | one of the greats |
 | fall for | 爱上、倾心 | the person you've fallen for |
 | give away | 泄露、暴露 | What had given me away |
-| relinquish | 放弃、放手 | don't want to relinquish the moment |
+| relinquish | 放弃、放手 | didn't want to relinquish the moment |
 | hirsute | 多毛的、有毛的 | his hirsute hand |
 | hubris | 傲慢、狂妄 | a façade of hubris |
 

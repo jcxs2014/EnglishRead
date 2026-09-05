@@ -130,7 +130,7 @@ modified: "2026-09-05"
 | picture | 照片、图画 | heading toward a picture |
 | brother | 兄弟、哥哥 | my brother locked up |
 | marriage | 婚姻、结婚 | shortly after the wedding |
-| death | 死亡、逝世 | Saba. Is. Dead. |
+| death | 死亡、逝世 | let them shoot that boy dead |
 
 ## 一句话总结
 Keti 回避"动物园"照片——Dina 为救 Rati"操了"Zotne，Nene 为 Saba 提供不在场证明，Ira 为 Nene 牺牲了自己的自尊；Saba 被 Otto 射杀，Nene 目睹了一切——这是一个由男孩主导的世界，女孩们用身体和尊严支付代价。

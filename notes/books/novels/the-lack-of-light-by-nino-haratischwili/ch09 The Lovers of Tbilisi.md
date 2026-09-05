@@ -54,15 +54,15 @@ modified: "2026-09-05"
 
 **读者视角提示**：Oliko 把衣服给 Keto 的举动——她让女儿"取代"自己失去的女儿。
 
-> **原句 5:** "It was Esma's favorite. She wore it a lot, to every special occasion. She used to say it brought her luck. It's been packed away in my closet. I think it'll suit you."
+> **原句 5:** The lovers of Tbilisi . . . Where have they all gone? The city of my childhood and youth, as depicted here, no longer exists.
 
-"这是 Esma 的最爱。她经常穿它，每个特殊场合。她常说它带来好运。它一直打包在我的衣柜里。我觉得它适合你。"
+第比利斯的恋人们……他们都去了哪里？我童年和青春的城市，如这里所描绘的，已不复存在。
 
-**关键词**：packed away / brought her luck
+**关键词**：lovers of Tbilisi / childhood and youth / no longer exists
 
-**为什么这样写**：Keti 穿母亲的蓝色薄纱舞裙——这是 Oliko 对女儿的纪念。"brought her luck" 是反讽——Esma 死于山区。
+**为什么这样写**：Keti 的"追问"——"他们都去了哪里？"是对"失去"的"哀悼"。"no longer exists" 是 Keti 的"结论"——城市还在，但"她们的城市"已经"消失"。
 
-**读者视角提示**：Oliko 把衣服给 Keto 的举动——她让女儿"取代"自己失去的女儿。
+**读者视角提示**：标题的"双关"——"第比利斯的恋人们"既是 Dina 的照片标题，也是 Keti 对"她们四人"的"称呼"。
 
 > **原句 6:** "We've got eleven cooperatives under our protection now. So that's eleven lots of profit that aren't going to Tapora and his kind."
 

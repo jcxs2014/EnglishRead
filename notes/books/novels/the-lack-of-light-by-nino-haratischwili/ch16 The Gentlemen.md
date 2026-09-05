@@ -94,9 +94,9 @@ Dina 手中握着快门释放线，它的长电缆像蛇一样蜷曲在她脚下
 | ruthless | 无情的、残忍的 | ruthless self-exploitation |
 | exploitation | 剥削、利用 | self-exploitation |
 | disheveled | 凌乱的、不整洁的 | Her hair is disheveled |
-| revulsion | 厌恶、强烈的反感 | with revulsion |
+| revulsion | 厌恶、强烈的反感 | horror and bloodshed |
 | gauzy | 薄纱的、轻薄的 | beautiful, gauzy clothes |
-| lukewarm | 微温的、不冷不热的 | that lukewarm September night |
+| lukewarm | 微温的、不冷不热的 | that night |
 
 ### ⭐⭐ 进阶
 
@@ -112,7 +112,7 @@ Dina 手中握着快门释放线，它的长电缆像蛇一样蜷曲在她脚下
 | ritual | 仪式、例行公事 | certain rituals |
 | wobble | 摇晃、摇摆 | She wobbled |
 | vomit | 呕吐、吐出 | vomit all the awfulness |
-| hungrily | 渴望地、贪婪地 | when I loved so hungrily |
+| hungrily | 渴望地、贪婪地 | I love you |
 
 ### ⭐ 基础
 
@@ -120,8 +120,8 @@ Dina 手中握着快门释放线，它的长电缆像蛇一样蜷曲在她脚下
 |---------|------|------|
 | photograph | 照片、相片 | her photographs |
 | picture | 照片、图画 | this picture |
-| love | 爱、爱情 | falling in war |
-| war | 战争、冲突 | the war in Ossetia |
+| love | 爱、爱情 | I love you, you know I want nothing more than |
+| war | 战争、冲突 | a decisive battle |
 | knife | 刀、刀具 | rammed it into his thigh |
 
 ## 一句话总结

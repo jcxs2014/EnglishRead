@@ -99,7 +99,7 @@ Guga 在医院。一张我从未见过的照片。Dina 一定去探望过他。�
 | disfigured | 毁容的、残缺的 | so disfigured |
 | rescue | 拯救、援救 | She wanted to rescue you |
 | mistake | 错误、过失 | biggest mistake |
-| silence | 沉默、寂静 | breaking our long silence |
+| silence | 沉默、寂静 | in silence, in the dark |
 
 ### ⭐ 基础
 
@@ -109,7 +109,7 @@ Guga 在医院。一张我从未见过的照片。Dina 一定去探望过他。�
 | photo | 照片、相片 | A photo I've never seen |
 | face | 脸、面部 | His battered face |
 | brother | 兄弟、哥哥 | her brother |
-| friend | 朋友、友人 | my best friend |
+| friend | 朋友、友人 | accompanying his friend |
 
 ## 一句话总结
 Guga 被殴打致重伤；Keti 在 Dina 面前展示自己的伤疤——"我们的庆典"是"毁灭与解放的庆典"；Ira 与 Nene 的冲突终于"爆发"——"我想让你自由" vs "我从未想被拯救"。

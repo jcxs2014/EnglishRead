@@ -81,7 +81,7 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | scratchy | 沙哑的、刺耳的 | Her scratchy laugh |
-| relentlessly | 不懈地、无情地 | love her relentlessly |
+| relentlessly | 不懈地、无情地 | love her |
 | safety net | 安全网、保障 | without a safety net |
 | smothered | 闷死、窒息 | thought I would be smothered |
 | tourniquet | 止血带、压脉器 | the tourniquet still on his arm |
@@ -93,7 +93,7 @@ modified: "2026-09-05"
 |---------|------|------|
 | sparkling | 闪亮的、闪烁的 | her sparkling eyes |
 | come to terms with | 接受、妥协 | come to terms with |
-| recklessly | 不顾一切地、鲁莽地 | love her recklessly |
+| recklessly | 不顾一切地、鲁莽地 | love her |
 | fear | 恐惧、害怕 | without fear |
 | remember | 记得、想起 | remember who I am |
 | stupid | 愚蠢的、笨的 | feeling stupid |
@@ -111,9 +111,9 @@ modified: "2026-09-05"
 |---------|------|------|
 | garden | 花园、庭院 | the crowded garden |
 | photo | 照片、相片 | the photos |
-| friend | 朋友、友人 | my best friend |
-| death | 死亡、逝世 | Guga's death |
-| art | 艺术、美术 | works of art |
+| friend | 朋友、友人 | Nene, heavily pregnant |
+| death | 死亡、逝世 | The first face I saw was Guga's |
+| art | 艺术、美术 | his angels and cherubim |
 
 ## 一句话总结
 Keti 在展览花园中与 Nene 和 Ira 重聚；Gyo（红发男孩）出现，认出了 Keti；Guga 死于海洛因过量；Keti 在威尼斯研究丁托列托的"天堂"——她在"艺术"中找到了"天堂"，但"天堂"中也有她的"死者"。

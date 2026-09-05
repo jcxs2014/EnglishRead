@@ -112,7 +112,7 @@ modified: "2026-09-05"
 | death | 死亡、逝世 | their deaths |
 | darkness | 黑暗、阴暗 | staring into the darkness |
 | deny | 否认、拒绝 | I didn't find |
-| shock | 震惊、惊讶 | I was frozen in shock |
+| shock | 震惊、惊讶 | I was so appalled |
 | scream | 尖叫、喊叫 | I scream |
 | might | 力量、威力 | with all my might |
 | lungs | 肺、肺部 | squeezed from my lungs |
@@ -131,7 +131,7 @@ modified: "2026-09-05"
 |---------|------|------|
 | exhibition | 展览、陈列 | the exhibition |
 | photo | 照片、相片 | the photo |
-| death | 死亡、逝世 | Dina's death |
+| death | 死亡、逝世 | To us, and Dina |
 | son | 儿子 | my son |
 | drawing | 绘画、图画 | the drawing |
 

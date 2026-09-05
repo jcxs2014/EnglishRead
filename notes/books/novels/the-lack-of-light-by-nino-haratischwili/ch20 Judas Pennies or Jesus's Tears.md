@@ -94,7 +94,7 @@ modified: "2026-09-05"
 | turns | 转折、转变 | peculiar turns |
 | vases | 花瓶、瓶 | large Chinese vases |
 | disciple | 门徒、信徒 | one of his disciples |
-| betrayed | 背叛、出卖 | had betrayed him |
+| betrayed | 背叛、出卖 | both betrayers and betrayed |
 | silver | 银、银币 | pieces of silver |
 | midnight | 午夜、子夜 | at midnight |
 | abandoned | 被废弃的、被抛弃的 | abandoned factory |

@@ -110,8 +110,8 @@ modified: "2026-09-05"
 | war | 战争、冲突 | the warzone |
 | photo | 照片、相片 | the photos |
 | Istanbul | 伊斯坦布尔 | to Istanbul |
-| death | 死亡、逝世 | Oliko's death |
-| work | 工作、劳动 | restoration work |
+| death | 死亡、逝世 | Can I speak to Oliko |
+| work | 工作、劳动 | the work |
 
 ## 一句话总结
 Dina 前往阿布哈兹记录战争，Keti 逃往伊斯坦布尔与 Reso 修复壁画；Oliko 去世，Keti 未能见她最后一面；Keti 在伊斯坦布尔找到"平静"，但 Dina 在战争中找到了"死亡"。

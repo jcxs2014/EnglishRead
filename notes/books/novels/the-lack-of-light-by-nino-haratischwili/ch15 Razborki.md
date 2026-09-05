@@ -64,15 +64,15 @@ Zotne 一定觉得自己像《教父》里的黑手党老大——最重要的�
 
 **读者视角提示**：Zotne 的"残忍"——他知道这句话会"杀死"Rati，但他还是说了。
 
-> **原句 6:** And with that, she ended her confession. Her voice was suddenly calm again; these final words were considered, her tone controlled. He was sitting on the corner of his bed, his head bowed. She couldn't see his eyes.
+> **原句 6:** I find it hard to think about Zotne's love, even now. His love competes with my brother's; and yes, I am that petty, I can't leave even the dead alone, I still weigh them up, weigh them against each other, compare.
 
-就这样，她结束了她的忏悔。她的声音突然又平静了；这些最后的措辞是经过考虑的，她的语调受控。他坐在床角，低着头。她看不到他的眼睛。
+我甚至现在都很难思考 Zotne 的爱。他的爱与我兄弟的爱竞争；是的，我那么小气，我甚至不能让死者安息，我仍然权衡它们，将它们相互比较。
 
-**关键词**：confession / considered / controlled / head bowed
+**关键词**：love / competes / petty / weigh them up
 
-**为什么这样写**：Dina 的"冷静"——她的"忏悔"不是"哭泣"，而是"陈述"。"head bowed" 是 Rati 的"失败"——他无法面对 Dina 的眼睛。
+**为什么这样写**：Keti 的"比较"——她"比较"Zotne 和 Rati 的"爱"。"petty"（小气）是 Keti 的"自我认知"——她知道自己"小气"。
 
-**读者视角提示**：Dina 的"力量"——即使在"忏悔"中，她也是"控制"的一方。
+**读者视角提示**：Keti 的"矛盾"——她"评判"Dina 与 Zotne 的关系，但自己也"比较"两个男人的"爱"。
 
 ## 本章词汇
 
@@ -87,6 +87,7 @@ Zotne 一定觉得自己像《教父》里的黑手党老大——最重要的�
 | provocative | 挑衅的、刺激的 | provocative stare |
 | surreptitious | 秘密的、偷偷摸摸的 | surreptitious investigation |
 | mannerisms | 举止、习惯 | investigation of her mannerisms |
+| confessed | 承认、坦白 | he confessed to her |
 
 ### ⭐⭐ 进阶
 
@@ -99,7 +100,7 @@ Zotne 一定觉得自己像《教父》里的黑手党老大——最重要的�
 | adolescence | 青春期、青少年 | Prior to adolescence |
 | disapproval | 不赞成、反对 | hide her disapproval |
 | expert | 专家、能手 | he became an expert |
-| confession | 忏悔、供认 | she ended her confession |
+| confession | 忏悔、供认 | he confessed to her that he had wandered |
 
 ### ⭐ 基础
 
@@ -107,8 +108,8 @@ Zotne 一定觉得自己像《教父》里的黑手党老大——最重要的�
 |---------|------|------|
 | photograph | 照片、相片 | standing in front of it |
 | picture | 照片、图画 | this picture |
-| love | 爱、爱情 | falling in war |
-| war | 战争、冲突 | the war in Ossetia |
+| love | 爱、爱情 | a man in love |
+| war | 战争、冲突 | there's a war going on down there |
 | girlfriend | 女朋友、情人 | Let me have your girlfriend |
 
 ## 一句话总结
