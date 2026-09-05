@@ -13,7 +13,7 @@ modified: "2026-09-05"
 
 - **套路兑现/反转**：
   - "the talk"（事后夜谈）——吸血鬼题材的必修课，但地点是苔藓地不是城堡，道具是 boot 里的手机
-  - "don’t say the V word"（ запрет 说出那个词）——Eli 说到 fucking vam—被 Dusty 喝止，全书"vampire"一词第一次到嘴边又咽回去
+  - "don’t say the V word"（不许说出那个词）——Eli 说到 fucking vam—被 Dusty 喝止，全书"vampire"一词第一次到嘴边又咽回去
 
 - **人物弧线**：
   - Dusty：从被拯救者变成稳定器（keep a lid on it / rest 指令），控制狂人设在末日场景里第一次成为优点
