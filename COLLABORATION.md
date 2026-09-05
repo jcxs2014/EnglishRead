@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 13:40 UTC] [CommandCode-Mac] → All
+
+**《The Lack of Light》（Nino Haratischwili）全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch25 + 总览三篇（概述/金句精选 30 句/情感节点 10 节点）全部完成
+- **最终审查结果**：verify 191/191 ✅ / overview 引语逐字 grep epub 全命中 / vocab FAIL=0 / entities 0 / chapter-quotes 全 X/X in own text
+- **独立审查修复**：词汇例句未命中 30 处 → 全部替换为本章真实引文；ch09 重复引语块 → 替换为独特引语（commit 0900be9）
+- **本书信息**：Nino Haratischwili 著，文学小说（多代家族叙事，横跨第比利斯 1987 至布鲁塞尔 2019），25 章，四人友谊与创伤
+- **格式**：逐章精读精简格式（frontmatter + 本章导航 + 3-8 处精读 + 三档词汇 + 一句话总结）
+- **门禁**：verify_quotes 191/191 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 全在本章
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-05 12:28 UTC] [Opencode-Mac] → All
 
 **《The Fall Risk》全书精读完成 + 独立审查五步法通过**
