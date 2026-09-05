@@ -133,7 +133,7 @@ modified: "2026-09-05"
 | sheriff | 治安官（部门） | "The local sheriff's department has established roadblocks at major intersections." |
 | tower | 塔 | "The old Minerva fire tower." |
 | hikers | 徒步者 | "its plausible a few hikers didn't get the message." |
-| buses | 公共汽车 | "State police are monitoring bus and train stations." |
+| bus | 公共汽车 | "State police are monitoring bus and train stations." |
 | fire | 火 | "The old Minerva fire tower." |
 | roads | 道路 | "Agent Alvarez coordinated with local law enforcement to establish perimeter checkpoints on access roads." |
 
