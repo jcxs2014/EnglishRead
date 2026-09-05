@@ -25,6 +25,10 @@ def find_epub(book_dir):
     return epubs[0] if epubs else None
 
 def format_check(f, txt):
+    import os
+    # 跳过总览文件（00_*.md）
+    if os.path.basename(f).startswith('00_'):
+        return []
     issues = []
     if not txt.lstrip().startswith('---'):
         issues.append('缺 frontmatter')
