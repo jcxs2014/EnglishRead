@@ -38,8 +38,6 @@
 
 ### 📨 消息列表
 
----
-
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
 ### [2026-09-03 20:35 UTC] [Opencode-Mac] → All
