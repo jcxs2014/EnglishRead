@@ -168,10 +168,10 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | `dystocia` | 难产 | Dystocia in lambs and goats was not uncommon. |
-| `fetotomy` | 胎体切除术 | He had been summoned at three in the morning to perform an emergency fetotomy on an Arabian dam. |
-| `lambing snare` | 助产套索 | He found a lambing snare. |
-| `perineum` | 会阴 | Rachel's perineum had already torn. |
-| `mastitis` | 乳腺炎 | Half a dozen frozen fryers in exchange for treating mastitis in a heifer. |
+| `fetotomy` | 胎体切除术 | where he'd been summoned at three in the morning to perform an emergency fetotomy on an Arabian dam |
+| `lambing snare` | 助产套索 | dug into his medical kit, and found a lambing snare. |
+| `perineum` | 会阴 | Rachel's perineum had already torn |
+| `mastitis` | 乳腺炎 | accepting a half dozen frozen fryers in exchange for treating mastitis in a heifer |
 
 ### ⭐⭐ 进阶
 
@@ -182,19 +182,19 @@ modified: "2026-09-05"
 | `anonymity` | 匿名状态 | The locals treasured anonymity. |
 | `taciturnity` | 沉默寡言 | Their taciturnity often rivaled his own. |
 | `bayed` | 像幼狼般啼哭 | He opened his mouth, bayed like a young coyote. |
+| `contraction` | 宫缩 | He worked a long time at this, pausing with each contraction, but he abandoned the prospect as impossible. |
+| `crossroads` | 十字路口 | little more than a rural crossroads where County Roads JJ and Y meet |
+| `swampland` | 沼泽地 | tangled swampland of willow, dogwood, and boggy prairie |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| `crossroads` | 十字路口 | Little more than a rural crossroads. |
 | `refuge` | 避难所 | Lakota felt like a refuge. |
-| `swampland` | 沼泽地 | Tangled swampland of willow, dogwood. |
-| `contraction` | 宫缩 | He abandoned the prospect as impossible. |
-| `crown` | 露冠 | The crown of the infant's head emerged. |
+| `crown` | 露冠 | the crown of the infant's head moved a bit farther into the birth canal |
 
 ---
 
 ## 一句话总结
 
-Thomas Kennedy 以逃离开场，却以接生 Gabriel——一个日后将改变整个 Lakota 命运的孩子——完成了他人生中最不可能的一次介入；全书"生死与巨人"的主题在 Prologue 的最后一个词"behind"中已然确立：每一个人的身后，都有一个更大的故事。
+Thomas Kennedy 以逃离开场，却以接生 Gabriel——一个将改变整个 Lakota 命运的巨人婴孩——完成了他人生中最不可能的一次介入；婴儿的第一声啼哭与母亲的死亡几乎同刻发生，全书"生与死"的对位自此定调。
