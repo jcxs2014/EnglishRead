@@ -41,6 +41,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("epub"); ap.add_argument("--out-dir"); ap.add_argument("--start", type=int, default=1)
     ap.add_argument("--prefix", default="ch")
+    ap.add_argument("--min-len", type=int, default=600, help="最小正文字符数（默认 600；短篇插叙章节书可降到 200）")
     a = ap.parse_args()
 
     z = zipfile.ZipFile(a.epub)
@@ -65,7 +66,7 @@ def main():
                 if lm and sm:
                     labels[posixpath.normpath(posixpath.join(opf_path, unquote(html.unescape(sm.group(1)).split('#')[0])))] = html.unescape(lm.group(1))
 
-    skip_pat = re.compile(r'(cover|copyright|colophon|\bcontents\b|\btoc\b|title[_ ]?page|other ?books|dedication|acknowledg|\bnotes\b(?! on the writing)|appendix|translator|bibliograph|\bindex\b|epigraph|about ?the ?author|praise ?for|excerpt)', re.I)
+    skip_pat = re.compile(r'(cover|copyright|colophon|\bcontents\b|toc|title[_ ]?page|other ?books|dedication|acknowledg|\bnotes\b(?! on the writing)|appendix|translator|bibliograph|\bindex\b|epigraph|about ?the ?author|praise ?for|excerpt|newsletter|noteon|sign.?up)', re.I)
     out_dir = a.out_dir or '.'
     os.makedirs(out_dir, exist_ok=True)
     written, skipped = [], []
@@ -78,7 +79,7 @@ def main():
         raw = z.read(path).decode('utf-8', errors='ignore')
         text = clean(raw)
         title = labels.get(posixpath.normpath(path), '')
-        is_story = len(text) > 600 and not (skip_pat.search(title) or skip_pat.search(path.split('/')[-1]))
+        is_story = len(text) > a.min_len and not (skip_pat.search(title) or skip_pat.search(path.split('/')[-1]))
         if not is_story:
             skipped.append((path.split('/')[-1], title or '(no label)', len(text)))
             continue
