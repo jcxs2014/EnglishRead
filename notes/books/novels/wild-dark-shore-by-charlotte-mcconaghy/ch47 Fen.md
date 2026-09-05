@@ -49,6 +49,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"freed"建立 Fen 的"解放"——她"解放"父亲。
 - 读者视角提示：Fen 的"放在火上"是全书的"行动"主题——她"做"了。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -90,81 +93,6 @@ modified: "2026-09-05"
 | stun | 震惊 | "Fen watches, stunned" |
 | dad | 爸爸 | "her dad reaches for Rowan's face" |
 | reach | 伸手 | "her dad reaches for Rowan's face" |
-| face | 脸 | "reaches for Rowan's face" |
-| jaw | 下巴 | "his hand at her jaw" |
-| tilt | 抬起 | "tilting it up" |
-| gaze | 凝视 | "gazing at each other" |
-| stand | 站 | "standing closer now" |
-| speak | 说话 | "he is speaking again" |
-| murmur | 低语 | "something murmured" |
-| feel | 感觉 | "Fen feels an explosion" |
-| explosion | 爆炸 | "an explosion in her chest" |
-| chest | 胸部 | "explosion in her chest" |
-| space | 空间 | "the space between heartbeats" |
-| heartbeat | 心跳 | "the space between heartbeats" |
-| identify | 确认 | "to identify this sensation" |
-| sensation | 感觉 | "identify this sensation" |
-| afternoon | 下午 | "all afternoon" |
-| touch | 触摸 | "touch in the same way" |
-| follow | 跟随 | "she follows her dad up to his room" |
-| room | 房间 | "up to his room" |
-| heart | 心脏 | "her heart already sinking" |
-| know | 知道 | "with the knowing" |
-| hear | 听 | "she hears him talking" |
-| dead | 死的 | "his dead wife" |
-| wife | 妻子 | "his dead wife" |
-| talk | 说话 | "talking to his dead wife" |
-| all | 所有 | "all her relief sputters out" |
-| know | 知道 | "Fen knows what she has to do" |
-| give | 给 | "To give Dom and Rowan a chance" |
-| chance | 机会 | "a chance for something new" |
-| new | 新的 | "something new" |
-| wait | 等待 | "She waits until her dad is in the shower" |
-| shower | 淋浴 | "in the shower" |
-| move | 移动 | "she moves quickly" |
-| quickly | 快速地 | "she moves quickly" |
-| minute | 分钟 | "only a few minutes now" |
-| fill | 装 | "She fills a bag" |
-| bag | 包 | "She fills a bag" |
-| last | 最后 | "the last of her mother's belongings" |
-| belongings | 遗物 | "her mother's belongings" |
-| book | 书 | "more books" |
-| jewelry | 珠宝 | "trinkets, jewelry" |
-| clothes | 衣服 | "jewelry, clothes" |
-| bound | 跳 | "bounds down the stairs" |
-| stairs | 楼梯 | "bounds down the stairs" |
-| pull | 穿 | "to pull on her coat" |
-| coat | 外套 | "pull on her coat" |
-| beach | 海滩 | "On the beach" |
-| campfire | 篝火 | "a small campfire" |
-| keep | 保持 | "she tries to keep lit" |
-| lit | 燃烧的 | "she tries to keep lit" |
-| add | 加入 | "she adds driftwood" |
-| driftwood | 浮木 | "she adds driftwood" |
-| kelp | 海藻 | "and the kelp she has been drying" |
-| dry | 晒干 | "she has been drying" |
-| bonfire | 篝火 | "to make a bonfire" |
-| gather | 收集 | "She gathers the items" |
-| boathouse | 船屋 | "from her boathouse" |
-| lay | 铺 | "lays them all out" |
-| black sand | 黑沙滩 | "on the black sand" |
-| look | 看 | "looking at each" |
-| uncertainty | 不确定 | "a moment of uncertainty" |
-| memory | 记忆 | "The memories she has" |
-| wear | 穿着 | "her mother wearing these things" |
-| precious | 珍贵的 | "are precious to her" |
-| undoubtedly | 毫无疑问 | "undoubtedly Dom has more" |
-| tie | 系 | "memories tied to every single thing" |
-| single | 每一件 | "every single thing here" |
-| without | 没有 | "without the items" |
-| disappear | 消失 | "will those memories disappear" |
-| want | 想要 | "Is that what Fen wants?" |
-| free | 解放 | "her dad must be freed" |
-| ghost | 鬼魂 | "freed of his ghost" |
-| one by one | 一件一件 | "one by one" |
-| start | 开始 | "she starts placing" |
-| place | 放 | "placing her mother's belongings" |
-| fire | 火 | "on the fire" |
 
 ### ⭐ 基础
 
@@ -195,23 +123,6 @@ modified: "2026-09-05"
 | shower | 淋浴 | "in the shower" |
 | only | 只有 | "only a few minutes now" |
 | more | 更多 | "more books" |
-| down | 下 | "bounds down the stairs" |
-| keep | 保持 | "tries to keep lit" |
-| make | 做 | "to make a bonfire" |
-| out | 出 | "lays them all out" |
-| each | 每一个 | "looking at each" |
-| have | 有 | "has a moment" |
-| mom | 妈妈 | "her mother wearing" |
-| thing | 东西 | "these things" |
-| here | 这里 | "every single thing here" |
-| those | 那些 | "those memories" |
-| disappear | 消失 | "will those memories disappear" |
-| what | 什么 | "what Fen wants" |
-| must | 必须 | "her dad must be freed" |
-| so | 所以 | "So, one by one" |
-| start | 开始 | "she starts" |
-| put | 放 | "placing" |
-| fire | 火 | "on the fire" |
 
 ## 一句话总结
 

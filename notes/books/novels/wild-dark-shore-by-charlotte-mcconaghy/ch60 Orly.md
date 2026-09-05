@@ -49,6 +49,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"bursting free"建立 banksia 的"生命"——生命"迸发"。
 - 读者视角提示：Orly 的"迸发"是全书的"希望"主题——他"看到"希望。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -102,74 +105,6 @@ modified: "2026-09-05"
 | precious | 珍贵的 | "our precious, diverse botanicals" |
 | able | 能够 | "are able to survive" |
 | survive | 生存 | "are able to survive" |
-| such | 如此 | "such a harsh and rugged environment" |
-| environment | 环境 | "such a harsh and rugged environment" |
-| flower | 花 | "The banksia's flower" |
-| large | 大 | "The banksia's flower is large" |
-| cone-like | 圆锥形 | "large and cone-like" |
-| thousands | 数千 | "thousands of tiny florets" |
-| tiny | 微小的 | "thousands of tiny florets" |
-| florets | 小花 | "thousands of tiny florets" |
-| bright | 明亮的 | "bright vibrant colors" |
-| colors | 颜色 | "bright vibrant colors" |
-| shaped | 形成 | "shaped into spikes and spirals" |
-| spikes | 穗状 | "shaped into spikes and spirals" |
-| spirals | 螺旋状 | "shaped into spikes and spirals" |
-| describe | 描述 | "I can't describe them" |
-| stop | 停止 | "I'll stop trying" |
-| picture | 图片 | "just look at a picture" |
-| chance | 机会 | "when you get a chance" |
-| take | 需要 | "They take months to develop" |
-| months | 月 | "They take months to develop" |
-| develop | 发育 | "months to develop" |
-| weeks | 周 | "weeks to open" |
-| open | 开放 | "weeks to open" |
-| wildfires | 野火 | "Wildfires are common things" |
-| common | 常见 | "Wildfires are common things" |
-| bushland | 丛林 | "in our bushland" |
-| Indigenous | 土著的 | "Indigenous peoples" |
-| peoples | 人 | "Indigenous peoples" |
-| known | 知道 | "have known for millennia" |
-| fire | 火 | "fire brings with it life" |
-| brings | 带来 | "fire brings with it life" |
-| life | 生命 | "fire brings with it life" |
-| seeds | 种子 | "The banksia's seeds" |
-| long | 长 | "take a long time to mature" |
-| mature | 成熟 | "take a long time to mature" |
-| held | 包裹 | "are held within" |
-| hard | 坚硬的 | "a hard, woody capsule" |
-| woody | 木质的 | "a hard, woody capsule" |
-| two | 两个 | "that has two valves" |
-| open | 打开 | "These valves will open" |
-| high | 高 | "extremely high temperatures" |
-| temperatures | 温度 | "extremely high temperatures" |
-| like | 像 | "like those you get in a bushfire" |
-| bushfire | 丛林大火 | "like those you get in a bushfire" |
-| wait | 等待 | "The banksia will wait" |
-| come | 来 | "wait for this fire to come" |
-| flames | 火焰 | "Only with flames and smoke" |
-| smoke | 烟雾 | "and smoke licking at everything" |
-| licking | 舔舐 | "smoke licking at everything around it" |
-| around | 周围 | "licking at everything around it" |
-| let | 让 | "let its seeds be taken" |
-| taken | 带走 | "be taken on this hot, burning wind" |
-| hot | 炽热的 | "this hot, burning wind" |
-| burning | 燃烧的 | "this hot, burning wind" |
-| wind | 风 | "this hot, burning wind" |
-| black | 黑色的 | "Only to black ground" |
-| ground | 土地 | "Only to black ground" |
-| ash | 灰烬 | "only to ash" |
-| give | 给出 | "will the banksia give its seed" |
-| seed | 种子 | "will the banksia give its seed" |
-| within | 在……内 | "only within this scorched wasteland" |
-| wasteland | 荒地 | "this scorched wasteland" |
-| find | 找到 | "find a way to thrive" |
-| way | 方式 | "find a way to thrive" |
-| beneath | 在……下方 | "From beneath the carpet of ash" |
-| eye | 眼睛 | "the untrained eye" |
-| see | 看到 | "would look at and see death" |
-| death | 死亡 | "would look at and see death" |
-| comes | 来 | "comes life, bursting free" |
 
 ### ⭐ 基础
 
@@ -200,82 +135,6 @@ modified: "2026-09-05"
 | us | 我们 | "famous to us Aussies" |
 | very | 非常 | "it's very well loved" |
 | of | 的 | "a particular favorite of many" |
-| because | 因为 | "probably because" |
-| the | 这个 | "the banksia is a symbol" |
-| is | 是 | "the banksia is a symbol" |
-| we | 我们 | "we live upon" |
-| upon | 在……上 | "we live upon" |
-| our | 我们的 | "our precious, diverse botanicals" |
-| how | 如何 | "how our precious, diverse botanicals" |
-| such | 如此 | "such a harsh and rugged environment" |
-| is | 是 | "The banksia's flower is large" |
-| and | 和 | "large and cone-like" |
-| with | 有 | "with thousands of tiny florets" |
-| in | 在 | "in bright vibrant colors" |
-| into | 形成 | "shaped into spikes and spirals" |
-| can't | 不能 | "I can't describe them" |
-| them | 它们 | "I can't describe them" |
-| trying | 尝试 | "I'll stop trying" |
-| just | 只是 | "just look at a picture" |
-| look | 看 | "just look at a picture" |
-| when | 当 | "when you get a chance" |
-| get | 得到 | "when you get a chance" |
-| they | 它们 | "They take months" |
-| to | 到 | "months to develop" |
-| to | 到 | "weeks to open" |
-| are | 是 | "Wildfires are common things" |
-| things | 东西 | "Wildfires are common things" |
-| our | 我们的 | "in our bushland" |
-| have | 已经 | "have known for millennia" |
-| for | 有 | "for millennia" |
-| that | 那 | "fire brings with it life" |
-| with | 带来 | "fire brings with it" |
-| it | 它 | "fire brings with it life" |
-| which | 哪个 | "which take a long time" |
-| a | 一个 | "a long time" |
-| time | 时间 | "a long time" |
-| are | 被 | "are held within" |
-| a | 一个 | "a hard, woody capsule" |
-| that | 那个 | "that has two valves" |
-| has | 有 | "that has two valves" |
-| these | 这些 | "These valves will open" |
-| will | 将 | "These valves will open" |
-| to | 来 | "to release the seeds" |
-| only | 只有 | "only in extremely high temperatures" |
-| those | 那些 | "like those you get" |
-| you | 你 | "like those you get" |
-| get | 得到 | "like those you get" |
-| in | 在 | "in a bushfire" |
-| will | 会 | "The banksia will wait" |
-| and | 和 | "and wait, and wait" |
-| for | 等待 | "wait for this fire to come" |
-| this | 这个 | "wait for this fire to come" |
-| to | 来 | "this fire to come" |
-| only | 只有 | "Only with flames and smoke" |
-| with | 有 | "Only with flames and smoke" |
-| and | 和 | "and smoke licking at everything" |
-| at | 在 | "licking at everything around it" |
-| everything | 一切 | "licking at everything around it" |
-| it | 它 | "licking at everything around it" |
-| will | 会 | "will it open its valves" |
-| its | 它的 | "will it open its valves" |
-| and | 和 | "and let its seeds be taken" |
-| be | 被 | "be taken on this hot, burning wind" |
-| on | 在 | "on this hot, burning wind" |
-| to | 到 | "Only to black ground" |
-| to | 到 | "only to ash" |
-| will | 会 | "will the banksia give its seed" |
-| its | 它的 | "will the banksia give its seed" |
-| and | 和 | "and find a way to thrive" |
-| a | 一个 | "find a way to thrive" |
-| from | 从 | "From beneath the carpet of ash" |
-| the | 这个 | "the carpet of ash" |
-| which | 哪个 | "which the untrained eye" |
-| the | 这个 | "the untrained eye" |
-| would | 会 | "would look at and see death" |
-| at | 看 | "would look at and see death" |
-| and | 和 | "and see death" |
-| comes | 来 | "comes life, bursting free" |
 
 ## 一句话总结
 

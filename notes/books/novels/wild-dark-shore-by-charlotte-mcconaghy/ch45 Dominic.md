@@ -35,6 +35,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"survive"建立 Dominic 的"父性"——他"为了孩子"生存。
 - 读者视角提示：Dominic 的"第一个微笑"是全书的"爱"主题——他"爱"孩子。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -75,12 +78,6 @@ modified: "2026-09-05"
 | laid | 躺 | "laid around him" |
 | fingers | 手指 | "their fingers tickling his belly" |
 | tickling | 挠痒 | "tickling his belly" |
-| belly | 肚子 | "tickling his belly" |
-| smile | 微笑 | "and his smile, his first smile" |
-| first | 第一个 | "his first smile" |
-| look up | 抬头看 | "They looked up at me" |
-| delight | 喜悦 | "such delight" |
-| survive | 生存 | "this is why we survive" |
 
 ### ⭐ 基础
 
@@ -111,14 +108,6 @@ modified: "2026-09-05"
 | hear | 听 | "why I could hear no crying" |
 | call | 喊叫 | "morning calls for a bottle" |
 | see | 看到 | "seeing my son" |
-| son | 儿子 | "my son" |
-| body | 身体 | "the small lean bodies" |
-| around | 周围 | "laid around him" |
-| touch | 触摸 | "their fingers tickling" |
-| smile | 微笑 | "his smile" |
-| look | 看 | "They looked up at me" |
-| dad | 爸爸 | "Dad!" |
-| think | 想 | "I thought" |
 
 ## 一句话总结
 

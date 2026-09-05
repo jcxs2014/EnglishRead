@@ -42,6 +42,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"splits"建立 Rowan 的"喜悦"——她"喜欢"这个主意。
 - 读者视角提示：Dom 的"最好的主意"是全书的"家庭"主题——他们"团聚"了。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -82,26 +85,6 @@ modified: "2026-09-05"
 | share | 分享 | "instead of sharing them" |
 | fuck | 该死 | "What the fuck is wrong with me" |
 | take | 拿 | "I need to see her" |
-| make sure | 确保 | "Make sure she's okay" |
-| tell | 告诉 | "I will tell her" |
-| sorry | 对不起 | "I'm sorry for not checking" |
-| check in | 查看 | "not checking in sooner" |
-| thing | 东西 | "her mother's things" |
-| jewelry | 珠宝 | "the jewelry and the clothes" |
-| belong | 属于 | "should belong to her" |
-| steal | 偷 | "she shouldn't have to steal it" |
-| eyes | 眼睛 | "I meet her eyes" |
-| beach | 海滩 | "down to the beach" |
-| evening | 晚上 | "this evening" |
-| eat | 吃 | "eat with Fen" |
-| sound | 声音 | "make sounds of excitement" |
-| excitement | 兴奋 | "sounds of excitement" |
-| smile | 微笑 | "a smile splits Rowan's face" |
-| split | 绽开 | "a smile splits Rowan's face" |
-| face | 脸 | "Rowan's face" |
-| best | 最好的 | "the best idea" |
-| idea | 想法 | "the best idea you've ever had" |
-| ever | 曾经 | "you've ever had" |
 
 ### ⭐ 基础
 
@@ -132,18 +115,6 @@ modified: "2026-09-05"
 | become | 变得 | "that is becoming" |
 | crystal | 水晶 | "crystal clear" |
 | see | 看见 | "I need to see her" |
-| okay | 好的 | "she's okay" |
-| soon | 早点 | "sooner" |
-| stuff | 东西 | "All that stuff" |
-| now | 现在 | "should be Fen's now" |
-| feel | 感觉 | "I feel a bit queasy" |
-| a bit | 一点 | "a bit queasy" |
-| think | 想 | "I think we should" |
-| take | 拿 | "take our dinner" |
-| tonight | 今晚 | "this evening" |
-| with | 和 | "eat with Fen" |
-| make | 做 | "make sounds of excitement" |
-| ever | 曾经 | "you've ever had" |
 
 ## 一句话总结
 

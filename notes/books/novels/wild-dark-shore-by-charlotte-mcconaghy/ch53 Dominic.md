@@ -42,6 +42,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"relief"建立 Dom 的"解脱"——他"放下"了。
 - 读者视角提示：Dom 的"那是她想要的"是全书的"父性"主题——他"给予"。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -86,91 +89,6 @@ modified: "2026-09-05"
 | heavy | 沉重的 | "too heavy a thing" |
 | carry | 承受 | "for children to carry" |
 | dance | 跳舞 | "We dance on the hill" |
-| hill | 山 | "We dance on the hill" |
-| watch | 看 | "I watch them" |
-| think | 想 | "I think that I have been holding them hostage" |
-| leave | 离开 | "we will leave this place" |
-| let | 让 | "I will let them go" |
-| become | 成为 | "I will let them become" |
-| yet | 还 | "Not Orly yet" |
-| one day | 有一天 | "but one day" |
-| first time | 第一次 | "for the first time I realize" |
-| realize | 意识到 | "I realize that this will not lessen" |
-| love | 爱 | "how I love them" |
-| protect | 保护 | "I stop protecting them" |
-| lay down | 献出 | "would not lay down my life for them" |
-| every | 每一 | "every second that they need me" |
-| second | 秒 | "every second that they need me" |
-| just | 只是 | "It just means" |
-| anymore | 再 | "worry about me anymore" |
-| whatever | 无论什么 | "Whatever that takes" |
-| woman | 女人 | "the woman who has made all of this clear" |
-| clear | 清楚 | "made all of this clear to me" |
-| gift | 礼物 | "has given us this gift" |
-| beautiful | 美丽的 | "She is so beautiful" |
-| glow | 光环 | "in the glow of the rising sun" |
-| rising | 升起的 | "the rising sun" |
-| sun | 太阳 | "the rising sun" |
-| tilts | 仰头 | "she tilts her head back" |
-| laugh | 笑 | "laugh with my children" |
-| first | 第一 | "the first moment" |
-| moment | 时刻 | "the first moment I set eyes on her" |
-| set eyes | 看到 | "I set eyes on her" |
-| later | 后来 | "Later, we huddle" |
-| huddle | 蜷缩 | "we huddle in front of the fireplace" |
-| fireplace | 壁炉 | "in front of the fireplace" |
-| warm | 温暖 | "to get warm" |
-| rises | 起身 | "Rowan rises for bed" |
-| bed | 床 | "rises for bed" |
-| rest | 其余 | "before the rest of us" |
-| take | 拿 | "I take her hand" |
-| stay | 留住 | "wanting to stay her" |
-| enjoy | 享受 | "enjoy the moment with my kids" |
-| done | 做了 | "She has done this for us" |
-| move | 移动 | "Fen moves to sit beside me" |
-| beside | 在……旁边 | "sit beside me" |
-| hurt | 伤害 | "I feel no hurt or betrayal" |
-| betrayal | 背叛 | "no hurt or betrayal" |
-| trickled | 流走 | "all of that has trickled out of me" |
-| terrible | 可怕的 | "how terrible it must have been" |
-| such | 这样的 | "to do such a thing" |
-| reach | 伸手 | "I reach out and run my hand" |
-| hand | 手 | "run my hand over her short spiky hair" |
-| short | 短的 | "her short spiky hair" |
-| spiky | 刺状的 | "her short spiky hair" |
-| hair | 头发 | "her short spiky hair" |
-| eyes | 眼睛 | "In her eyes is a question" |
-| question | 问题 | "In her eyes is a question" |
-| impossible | 不可能 | "Impossible to tell from the seals now" |
-| seals | 海豹 | "Impossible to tell from the seals now" |
-| smile | 微笑 | "and she smiles" |
-| takes | 拿出 | "Fen takes something out of her pocket" |
-| pocket | 口袋 | "out of her pocket" |
-| saved | 留了 | "I saved these" |
-| wedding | 婚礼 | "Claire's three wedding rings" |
-| rings | 戒指 | "three wedding rings" |
-| engagement | 订婚 | "The first engagement band" |
-| band | 戒指 | "The first engagement band" |
-| saved up | 攒钱 | "I saved up for" |
-| early | 早期 | "in our early twenties" |
-| twenties | 二十多岁 | "our early twenties" |
-| anniversary | 周年 | "on our tenth anniversary" |
-| tenth | 第十 | "our tenth anniversary" |
-| died | 死 | "not long before she died" |
-| wave | 浪潮 | "An immense wave of emotion" |
-| emotion | 情绪 | "An immense wave of emotion" |
-| rises | 升起 | "rises up in me" |
-| sight | 看到 | "at the sight of them" |
-| desire | 欲望 | "the desire to take them" |
-| close | 握 | "close my palm around them" |
-| palm | 掌心 | "close my palm around them" |
-| hardly | 几乎不 | "I can hardly breathe" |
-| breathe | 呼吸 | "I can hardly breathe" |
-| need | 需要 | "I only need to look at my children" |
-| passes | 过去 | "and it passes" |
-| yours | 你们的 | "Those are yours" |
-| each | 每个 | "One for each of you" |
-| want | 想要 | "That's what she'd want" |
 
 ### ⭐ 基础
 
@@ -201,22 +119,6 @@ modified: "2026-09-05"
 | sit | 坐 | "Fen moves to sit beside me" |
 | feel | 感觉 | "I feel no hurt" |
 | out | 出 | "trickled out of me" |
-| must | 必须 | "it must have been" |
-| think | 想 | "to think she had to do it" |
-| run | 跑 | "run my hand over her short spiky hair" |
-| now | 现在 | "Impossible to tell from the seals now" |
-| tell | 分辨 | "Impossible to tell" |
-| something | 东西 | "takes something out of her pocket" |
-| these | 这些 | "I saved these" |
-| three | 三个 | "three wedding rings" |
-| twenty | 二十 | "our early twenties" |
-| long | 久 | "not long before she died" |
-| like | 像 | "Something like love and loss" |
-| pain | 痛苦 | "love and loss and pain and relief" |
-| strong | 强 | "so strong I can hardly breathe" |
-| look | 看 | "I only need to look at my children" |
-| each | 每个 | "One for each of you" |
-| she | 她 | "That's what she'd want" |
 
 ## 一句话总结
 

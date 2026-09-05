@@ -70,6 +70,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"prisoner"建立 Dom 的"现实"——他"承认" Hank 是囚犯。
 - 读者视角提示：Dom 的"释放他"是全书的"真相"主题——Rowan"来"了。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -117,123 +120,6 @@ modified: "2026-09-05"
 | equipment | 设备 | "every piece of equipment dead" |
 | dead | 死的 | "every piece of equipment dead" |
 | animal | 动物 | "some kind of rabid animal" |
-| wires | 电线 | "Wires have been cut" |
-| cut | 割断 | "Wires have been cut" |
-| instruments | 仪器 | "instruments have been cracked" |
-| cracked | 砸破 | "instruments have been cracked" |
-| holes | 洞 | "holes have been punched" |
-| punched | 砸 | "holes have been punched" |
-| buttons | 按钮 | "I try a few buttons" |
-| nothing | 没有 | "there's nothing" |
-| response | 反应 | "no response from any of it" |
-| beyond | 超出 | "well beyond my capacity" |
-| capacity | 能力 | "my capacity to fix" |
-| fix | 修复 | "my capacity to fix" |
-| great | 擅长 | "I'm not great at" |
-| electricals | 电气 | "it's the electricals" |
-| difficult | 困难 | "It's not difficult to piece together" |
-| finished | 完成 | "before he'd finished destroying" |
-| destroying | 摧毁 | "destroying what's in the vault" |
-| vault | 仓库 | "what's in the vault" |
-| murdering | 谋杀 | "Or murdering my daughter" |
-| daughter | 女儿 | "murdering my daughter" |
-| back | 回 | "I go back to the lighthouse" |
-| gently | 轻轻地 | "gently try to explain" |
-| explain | 解释 | "try to explain it to Fen" |
-| consider | 考虑 | "I consider not" |
-| deserves | 值得 | "she deserves to know" |
-| know | 知道 | "she deserves to know" |
-| flinches | 退缩 | "She flinches" |
-| stuck | 困住 | "be stuck on this island" |
-| months | 月 | "for two more months" |
-| letting | 让 | "I'm not letting him anywhere near you" |
-| near | 靠近 | "anywhere near you" |
-| promise | 承诺 | "I promise her" |
-| safe | 安全 | "You're safe" |
-| shaking | 摇头 | "she is shaking her head" |
-| believe | 相信 | "she doesn't believe me" |
-| why | 为什么 | "Why would she" |
-| gets out | 逃出 | "Hank gets out of the hospital" |
-| hospital | 医院 | "gets out of the hospital" |
-| twice | 两次 | "twice he makes his way" |
-| way | 路 | "makes his way down to the vault" |
-| throwing | 扔 | "starts throwing packets of seeds" |
-| packets | 包 | "packets of seeds" |
-| ocean | 海洋 | "into the ocean" |
-| amount | 数量 | "No amount of reasoning" |
-| reasoning | 理由 | "No amount of reasoning" |
-| through | 通过 | "will get through to him" |
-| third | 第三 | "a third time" |
-| agree | 同意 | "before the others agree" |
-| needs | 需要 | "he needs to be contained" |
-| tells | 告诉 | "Orly who tells us" |
-| storage | 储藏 | "the storage room" |
-| room | 房间 | "the storage room" |
-| wrong | 有问题 | "something is wrong with Hank" |
-| sick | 生病 | "he's sick" |
-| threat | 威胁 | "a threat to the seeds" |
-| cares | 关心 | "which Orly cares about" |
-| showed | 展示 | "a room Hank showed him" |
-| together | 一起 | "when they were down here together" |
-| rolling | 翻滚的 | "a state of rolling nausea" |
-| nausea | 恶心 | "rolling nausea" |
-| thought | 想法 | "at the thought of how much time" |
-| spend | 度过 | "I let that man spend alone" |
-| alone | 单独 | "spend alone with my children" |
-| children | 孩子 | "alone with my children" |
-| arguing | 争论 | "There is a lot of arguing" |
-| talk | 谈论 | "Talk of it being inhumane" |
-| worse | 更糟 | "Worse than a prison cell" |
-| prison | 监狱 | "a prison cell" |
-| cell | 牢房 | "a prison cell" |
-| mention | 更不用说 | "Not to mention right beneath" |
-| beneath | 在……下方 | "right beneath the seeds" |
-| trying | 试图 | "he's trying to destroy" |
-| destroy | 破坏 | "he's trying to destroy" |
-| sure | 确定 | "we can be sure is secure" |
-| secure | 安全的 | "is secure" |
-| bother | 费心 | "I don't bother getting involved" |
-| involved | 参与 | "getting involved" |
-| wait | 等待 | "I wait it out" |
-| knowing | 知道 | "knowing he's going down" |
-| going down | 下去 | "he's going down in that cement hole" |
-| cement | 混凝土 | "that cement hole" |
-| hole | 洞 | "that cement hole" |
-| whether | 是否 | "whether the others agree to it or not" |
-| mind | 头脑 | "My mind is made up" |
-| made up | 下定决心 | "My mind is made up" |
-| moment | 时刻 | "the moment I explain the idea" |
-| idea | 想法 | "explain the idea to Fen" |
-| relief | 解脱 | "see relief in her eyes" |
-| come up with | 想出 | "we come up with a regimen" |
-| toileted | 上厕所 | "He needs to be toileted" |
-| fed | 喂食 | "and fed" |
-| wash | 洗澡 | "he needs to be able to wash" |
-| company | 陪伴 | "he needs company" |
-| health | 健康 | "his health and well-being checked on" |
-| well-being | 福祉 | "his health and well-being checked on" |
-| checked | 检查 | "checked on" |
-| books | 书 | "he needs books and things to do" |
-| clear | 清楚 | "Naija is very clear on this" |
-| comfortable | 舒适 | "make him as comfortable as we can" |
-| letting out | 让他出来 | "we will not be letting him out" |
-| until | 直到 | "Not until the ship comes" |
-| ship | 船 | "until the ship comes" |
-| soon | 很快 | "Soon they are dead" |
-| dead | 死 | "Soon they are dead" |
-| first | 首先 | "Naija and Tom first" |
-| then | 然后 | "and then Alex" |
-| digging | 挖 | "digging graves" |
-| graves | 坟墓 | "digging graves" |
-| keeping | 维持 | "keeping our prisoner alive" |
-| alive | 活着 | "keeping our prisoner alive" |
-| barely | 勉强 | "we are barely holding our heads" |
-| above | 露出 | "holding our heads above water" |
-| water | 水 | "above water" |
-| when | 这时 | "and that's when a woman" |
-| woman | 女人 | "a woman washes ashore" |
-| seeking | 寻找 | "seeking to find this man" |
-| set free | 释放 | "and set him free" |
 
 ### ⭐ 基础
 
@@ -264,54 +150,6 @@ modified: "2026-09-05"
 | tell | 告诉 | "try to explain it to Fen" |
 | know | 知道 | "she deserves to know" |
 | so | 所以 | "So we're trapped here" |
-| just | 只是 | "We're just going to be stuck" |
-| two | 两个 | "for two more months" |
-| let | 让 | "I'm not letting him" |
-| you | 你 | "anywhere near you" |
-| safe | 安全 | "You're safe" |
-| why | 为什么 | "Why would she" |
-| get | 得到 | "Hank gets out" |
-| make | 做 | "makes his way down" |
-| start | 开始 | "starts throwing packets" |
-| throw | 扔 | "starts throwing packets" |
-| into | 进入 | "into the ocean" |
-| will | 将 | "No amount of reasoning will" |
-| take | 需要 | "it takes it happening" |
-| time | 时间 | "a third time" |
-| before | 在……之前 | "before the others agree" |
-| tell | 告诉 | "Orly who tells us" |
-| something | 某些东西 | "something is wrong" |
-| more | 更 | "cares about more than anything" |
-| show | 展示 | "a room Hank showed him" |
-| down | 下 | "down here together" |
-| let | 让 | "I let that man spend" |
-| with | 和 | "alone with my children" |
-| a lot | 很多 | "There is a lot of arguing" |
-| talk | 谈论 | "Talk of it being inhumane" |
-| than | 比 | "Worse than a prison cell" |
-| right | 正好 | "right beneath the seeds" |
-| only | 唯一 | "the only place" |
-| be | 是 | "we can be sure" |
-| don't | 不 | "I don't bother" |
-| wait | 等待 | "I wait it out" |
-| go | 去 | "he's going down" |
-| whether | 是否 | "whether the others agree" |
-| or | 或 | "or not" |
-| make | 做 | "My mind is made up" |
-| when | 当 | "the moment I explain" |
-| see | 看到 | "see relief in her eyes" |
-| come | 来 | "we come up with a regimen" |
-| need | 需要 | "He needs to be toileted" |
-| until | 直到 | "Not until the ship comes" |
-| soon | 很快 | "Soon they are dead" |
-| then | 然后 | "and then Alex" |
-| dig | 挖 | "digging graves" |
-| keep | 维持 | "keeping our prisoner alive" |
-| above | 露出 | "holding our heads above water" |
-| when | 这时 | "and that's when" |
-| come | 来 | "a woman washes ashore" |
-| find | 找到 | "seeking to find this man" |
-| free | 自由 | "and set him free" |
 
 ## 一句话总结
 

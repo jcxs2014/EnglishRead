@@ -21,6 +21,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"ferocious"建立 Hank 的"死亡"——海浪"带走"了他。
 - 读者视角提示：Fen 的"紧紧抱住"是全书的"幸存"主题——她"被救"了。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -62,28 +65,6 @@ modified: "2026-09-05"
 | strong | 猛 | "they are so strong" |
 | lung | 肺 | "She has the lung capacity" |
 | capacity | 容量 | "She has the lung capacity" |
-| survive | 度过 | "to survive the time underwater" |
-| time | 时间 | "the time underwater" |
-| underwater | 水下 | "the time underwater" |
-| sure | 确定 | "she isn't sure she can withstand" |
-| if | 如果 | "if they take her" |
-| did | 做 | "as they did Hank" |
-| no | 不是 | "she will be no match for them" |
-| match | 对手 | "she will be no match for them" |
-| hands | 手 | "Her hands are starting to slip" |
-| starting | 开始 | "Her hands are starting to slip" |
-| slip | 滑 | "Her hands are starting to slip" |
-| then | 然后 | "And then a grip so strong" |
-| grip | 抓住 | "a grip so strong upon her arms" |
-| upon | 在……上 | "upon her arms" |
-| arms | 手臂 | "upon her arms" |
-| reaching | 够 | "reaching for her" |
-| pulling | 拉 | "pulling her free" |
-| free | 出来 | "pulling her free" |
-| hold | 抱 | "They hold each other" |
-| each | 每个 | "They hold each other" |
-| other | 另一个 | "They hold each other" |
-| brother | 哥哥 | "she and her brother" |
 
 ### ⭐ 基础
 
@@ -114,25 +95,6 @@ modified: "2026-09-05"
 | back | 回 | "climb back up" |
 | up | 上 | "climb back up" |
 | into | 进入 | "into the boathouse" |
-| so | 如此 | "they are so strong" |
-| her | 她 | "they are battering her" |
-| and | 和 | "and the calm to survive" |
-| the | 这个 | "the time underwater" |
-| but | 但 | "but she isn't sure" |
-| she | 她 | "she can withstand the waves" |
-| the | 这个 | "the waves" |
-| as | 就像 | "as they did Hank" |
-| for | 对 | "no match for them" |
-| her | 她的 | "Her hands are starting to slip" |
-| to | 开始 | "starting to slip" |
-| and | 和 | "And then a grip so strong" |
-| a | 一个 | "a grip so strong" |
-| so | 如此 | "so strong" |
-| her | 她的 | "upon her arms" |
-| for | 够 | "reaching for her" |
-| her | 她 | "pulling her free" |
-| they | 她们 | "They hold each other" |
-| her | 她的 | "she and her brother" |
 
 ## 一句话总结
 

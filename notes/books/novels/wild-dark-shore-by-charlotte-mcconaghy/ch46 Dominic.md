@@ -35,6 +35,9 @@ modified: "2026-09-05"
 - 为什么这样写：用"free"建立 Dominic 的"渴望"——他"想要"自由地爱。
 - 读者视角提示：Dominic 的"触碰"是全书的"爱"主题——他们"连接"了。
 
+
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -79,30 +82,6 @@ modified: "2026-09-05"
 | tool | 工具 | "I'm gonna need tools" |
 | walk | 走 | "On the walk home" |
 | think | 想 | "I think a lot" |
-| field hut | 田野小屋 | "what she said in the field hut" |
-| statement | 陈述 | "the truth of this statement" |
-| know | 知道 | "Rowan knows it" |
-| night | 晚上 | "For the last few nights" |
-| tell | 告诉 | "I have been telling myself" |
-| reason | 理由 | "if there is a reason" |
-| roof | 屋顶 | "we replaced the roof" |
-| house | 房子 | "she told me of her house" |
-| kids | 孩子 | "it was my kids" |
-| power | 力量 | "beyond my power to solve" |
-| solve | 解决 | "beyond my power to solve" |
-| walk | 走 | "as we walk across Shearwater" |
-| head | 朝 | "headed north to our lighthouse" |
-| lighthouse | 灯塔 | "to our lighthouse" |
-| wonder | 想知道 | "I wonder if those things" |
-| simply | 只是 | "have simply been excuses" |
-| free | 自由 | "would I be free to love her" |
-| truly | 真正地 | "Truly, and with all of myself" |
-| wife | 妻子 | "My wife moves at my side" |
-| warm | 温暖的 | "the warm rustle of her" |
-| rustle | 沙沙声 | "the warm rustle of her" |
-| light | 轻的 | "A light touch" |
-| touch | 触碰 | "A light touch of her fingers" |
-| fingers | 手指 | "of her fingers on mine" |
 
 ### ⭐ 基础
 
@@ -133,7 +112,6 @@ modified: "2026-09-05"
 | lighthouse | 灯塔 | "to our lighthouse" |
 | love | 爱 | "free to love her" |
 | move | 移动 | "moves at my side" |
-| side | 边 | "at my side" |
 
 ## 一句话总结
 
