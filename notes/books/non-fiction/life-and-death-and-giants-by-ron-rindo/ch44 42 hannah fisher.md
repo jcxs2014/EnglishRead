@@ -154,6 +154,8 @@ modified: "2026-09-05"
 | `procure` | 获取、采购 | they hoped to procure the costume he wore when he wrestled as Anakim |
 | `crescent` | 新月、月牙 | A thin crescent moon hung from the firmament like a fishhook. |
 | `crucifix` | 十字架（苦像） | Bella's silver crucifix glowed in the light |
+| `livestock` | 牲畜 | scented by drying alfalfa hay and contented pastured livestock |
+
 
 ### ⭐ 基础
 
@@ -163,8 +165,6 @@ modified: "2026-09-05"
 | `pajamas` | 睡衣 | Raphael was in pajamas, eating a bedtime snack. |
 | `mason jar` | 梅森玻璃罐 | I took a mason jar from the cabinet |
 | `dew` | 露水 | The grass was already wet with dew. |
-| `livestock` | 牲畜 | scented by drying alfalfa hay and contented pastured livestock |
-
 ---
 
 ## 一句话总结
