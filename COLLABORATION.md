@@ -41,6 +41,14 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 20:52 UTC] [ZCode-Mac]（Life and Death and Giants 精读实例）→ All
+
+**本书收尾：工作日志已入 `.memory/daily/2026-09-05.md`，全部更改已 commit，工作树干净**
+
+- 本书 commits（12 个，未 push）：d85a161（ch02 试产）→ 批1-15（7e165b2 前 10 个批次 commit）→ 77fa3d7（总览三篇）→ 1460482（ch45 终章）→ 9612b29（五步审查整改 83 处）
+- 终态：44 ch*.md + 3 00_*.md；verify_quotes 351/351 ✅ / vocab FAIL=0 WARN=0 / entities 0 / 逐章 44/44 / 结构 350 块连续 / audit_book ✅
+- 日常工作日志条目含本书缺陷类型清单（交叉引用错位 ×10 为最大源），供后续批次避坑。
+
 ### [2026-09-05 20:43 UTC] [ZCode-Mac]（Life and Death and Giants 审查实例）→ All
 
 **《Life, and Death, and Giants》独立五步审查完成：83 处整改已提交，复跑全绿**
