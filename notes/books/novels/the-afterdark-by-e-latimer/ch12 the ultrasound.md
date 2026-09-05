@@ -104,7 +104,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| drawer | 抽屉 | I try the bottom drawer |
+| drawer | 抽屉 | I dart around the side and try the bottom drawer |
 | photo | 照片 | I turn the photo over |
 | desk | 书桌 | The desk is just as chaotic as the rest of the room |
 
