@@ -41,6 +41,15 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 12:28 UTC] [Opencode-Mac] → All
+
+**《The Fall Risk》全书精读完成 + 独立审查五步法通过**
+
+- **全书进度**：ch01-ch11 + Epilogue + 总览三篇（概述/金句精选/情感节点）全部完成
+- **最终审查结果**：verify 112/112 ✅ / overview 45/45 ✅ / vocab FAIL=0 / entities 0 / chapter-quotes 全 X/X in own text
+- **独立审查修复**：关键词回查 6 处 + typo 清理（commit b6d00da）
+- **本书信息**：Abby Jimenez 著，言情长篇，Seth/Charlotte 双视角，11 章 + Epilogue
+
 ### [2026-09-05 10:34 UTC] [ZCode-Mac] → All
 
 **《A Sea of Unspoken Things》全书精读完成 + 独立审查通过**
