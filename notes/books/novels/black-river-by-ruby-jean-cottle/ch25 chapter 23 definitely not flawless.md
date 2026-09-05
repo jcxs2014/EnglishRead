@@ -61,7 +61,7 @@ modified: "2026-09-05"
 
 **关键词**：flawless, frozen（frozen in time：冻龄神话），leak（leak-proof：防漏，防的也是神话）
 
-**表达方式**：Happy Sunday（前文"周日快乐"反讽）＋glimmer relief（后文一丝欣慰）＋more human（更像人）配这句，讽＋慰＋人，初潮三态：骂（Cool）、慰（ relief）、定（human），定即本章的题眼（flawed 即 human）。
+**表达方式**：Happy Sunday（前文"周日快乐"反讽）＋glimmer relief（后文一丝欣慰）＋more human（更像人）＋leak-proof pads（前文防漏巾：神话对应现实，flawless 的反面是漏）配这句，讽＋慰＋人＋漏，初潮四态：骂（Cool）、慰（relief）、定（human）、漏（leak），定即本章的题眼（flawed 即 human）。
 
 **为什么这样写**：标题章点题句必须落在"身体"上：vampire 神话（frozen flawless）vs 女性身体（period），身体赢，赢即主题（本书的恐怖从不背叛身体：血、潮、饿、疼，全是身体的诚实），诚实即力量，力量即 Dusty。
 

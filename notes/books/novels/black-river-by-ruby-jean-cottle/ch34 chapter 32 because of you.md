@@ -7,7 +7,7 @@ modified: "2026-09-05"
 
 ## 本章导航
 
-- **一句话概括**：葬 Kristen（sugar maple＋徒手＋camouflage＋Opi 花被拦）→河边洗净（Andrew 祈祷）→家门口 Brookes（Andrew 出水＋buried＋killer＋奶牛空投＋cult 论）→分头（Eli＋Amber＋Mali／Dusty＋Will＋Opi）→Opi 摊牌（period＋偷听＋figure 指 JD＋fix/reverse 誓）→早餐＋Will 敲门（hungry＋dimple）→diamond＋Sarah 记忆之五（geese＋love＋find you 誓）→卧室 Will（sharp/cold/good＋intensified 演说＋Eli=brother＋full truth＋初吻＋feeling 不疼）。
+- **一句话概括**：葬 Kristen（sugar maple＋徒手＋camouflage＋Opi 花被拦）→河边洗净（Andrew 祈祷）→家门口 Brookes（Andrew 出水＋buried＋killer＋奶牛空投＋cult 论）→分头（Eli＋Amber＋Mali／Dusty＋Will＋Opi）→Opi 摊牌（period＋偷听＋figure 指 JD＋fix/reverse 誓）→早餐＋Will 敲门（hungry＋dimple）→diamond＋Sarah 记忆之五（geese＋love）＋Dusty find you 誓→卧室 Will（sharp/cold/good＋intensified 演说＋Eli=brother＋full truth＋初吻＋feeling 不疼）。
 
 - **情感弧线位置**：回落＋修复——葬（Kristen）＋洗（河）＋听（Brookes）＋分（头）＋招（Opi）＋吃（早餐）＋誓（find mom）＋吻（初吻），八步修复，步＋糖（Will 血＋dimple＋room＋kiss），糖即下一章（White Mountain：归＋晨＋Book 2？）。
 
@@ -20,7 +20,7 @@ modified: "2026-09-05"
   - Opi：period（初潮＋fireworks 夜离席）＋overheard（全听）＋figure（床尾人＋JD 疑）＋fix 誓（reverse 誓）＋protect（No police＋steady Will），潮＋听＋影＋誓＋护，Opi 的终局（妹＋战＋护＋女（初潮即成人），人即下一章：White Mountain（家＋晨））
   - Will：hungry（饿＋dimple）＋breakfast（狂吃）＋garden（一百万问题）＋sharp/cold/good（咬后感）＋listen（听演说）＋kiss（初吻＋forehead），饿＋吃＋问＋听＋吻，Will 的终局（人类＋爱＋血＋吻），吻即下一章（White Mountain：归＋晨）
   - Chris：crossword＋all-nighter＋found him＋killer＋cows＋cult，爸＋警＋搜＋案，案即下一章（Andrew 案＋cult 论＋JD 追？追即 Book 2？）
-  - Sarah（记忆之五）：geese＋love＋miracles＋bad days＋find you 誓，雁＋爱＋迹＋誓，誓即 Dusty（find you 誓＋diamond＋notebook＋pen 动，誓＋石＋笔，笔即下一章：book（笔记本复活！pen 动了！ art 回来了？回即治愈？愈即 Book 2？））
+  - Sarah（记忆之五）：geese＋love＋miracles＋bad days，雁＋爱＋迹，忆即 Dusty find you 誓（diamond＋notebook＋pen 动，誓＋石＋笔，笔即下一章：book（笔记本复活！pen 动了！ art 回来了？回即治愈？愈即 Book 2？））
 
 - **叙事手法**：八步修复（葬—洗—听—分—招—吃—誓—吻），以"晨/光"为转场词（sunrise＋sun＋windows＋morning）；Brookes 戏用 killer＋cows＋cult 三重奏（杀＋牛＋邪），奏即悬念（案＋牛＋"它"，牛即空投（drop＋shatter＋no tracks，投＋碎＋无痕，痕即"它"（飞？念？第三人？），人即 Book 2）；diamond＋geese＋kiss，石＋雁＋吻，吻即终章（Book 1 的吻＋Book 2 的门）。
 
@@ -70,7 +70,7 @@ modified: "2026-09-05"
 
 > **原句 4:** “I’m going to find you,” she whispers
 
-**中文理解**："我会找到你"——find you 誓：going to（将）＋find（找）＋whispers（低语），diamond（石）＋geese（雁）＋love（爱）＋bones（骨：母爱入骨），石＋雁＋爱＋骨，誓即下一节（notebook＋pen 动＋spirals＋knots，本＋笔＋动＋纹，动即 art 回来了？回＋治？治即 Book 2（治＋战＋爱？））。
+**中文理解**："我会找到你"——Dusty 的现时誓言（非 Sarah 说话：diamond＋geese 记忆之后 Dusty 的回应）：going to（将）＋find（找）＋whispers（低语），diamond（石）＋geese（雁）＋love（爱）＋bones（骨：母爱入骨），石＋雁＋爱＋骨，誓即下一节（notebook＋pen 动＋spirals＋knots，本＋笔＋动＋纹，动即 art 回来了？回＋治？治即 Book 2（治＋战＋爱？））。
 
 **句子结构**：going to…（将）＋find（找）＋whispers（低语），将＋找＋低，誓＋低，低即疼（grief＋roam＋demolish＋terrify（悲＋漫＋毁＋怖），悲＋誓，誓即下一节（bones＋notebook＋pen，骨＋本＋笔，笔即 art（复活？））。
 
@@ -78,7 +78,7 @@ modified: "2026-09-05"
 
 **表达方式**：grief roam（前文悲漫）＋demolish terrify（后文毁＋怖＋漫）＋bones love（骨＋爱）配这句，悲＋骨＋誓，Sarah 记忆之五（雁＋爱＋迹＋誓），誓即 Dusty（find mom 誓＋diamond＋pen，誓＋石＋笔，笔即下一节：动＋纹＋stillness（动＋纹＋静，静即 Will 上楼（steps＋room＋Dusty’s room，步＋房＋名，名即吻（初吻）））。
 
-**为什么这样写**：誓必须 diamond＋geese＋love 三件套（石＋雁＋爱）：套＋誓，Sarah 线收（妈＋爱＋誓），收即 Dusty（find you 誓＋pen 动，誓＋动，动即 art（复活）＋治（愈）？愈即 Book 2（治＋战＋爱＋"它"＋妈＋JD？员＋案，案即下一本）。
+**为什么这样写**：誓必须 diamond＋geese＋love 三件套（石＋雁＋爱）：套＋誓，Sarah 线收（妈＋爱），收即 Dusty find you 誓（pen 动，誓＋动，动即 art（复活）＋治（愈）？愈即 Book 2（治＋战＋爱＋"它"＋妈＋JD？员＋案，案即下一本）。
 
 ---
 
@@ -118,11 +118,7 @@ modified: "2026-09-05"
 
 **关键词**：hell, back, family
 
-**表达方式**：can’t imagine（后文无法想象）＋nod＋implications（点头＋含义）配这句，象＋点＋含，Will 的接纳（nod＋sink，点＋沉，沉即下一节（full truth＋hand＋colors＋hold＋clear，真相＋手＋色＋握＋清，清即吻））。
-
-**关键词**：hell, back, family
-
-**表达方式**：Will listens（Will 听）＋gaze＋hand（视＋手）配这句，听＋视＋手，Will 的三接纳（听＋看＋握），纳即下一节（since first saw＋smile＋pulse＋sparks＋trace＋cheek＋mouth＋collide，初＋笑＋脉＋花＋描＋颊＋唇＋撞，撞即吻（初吻））。
+**表达方式**：can’t imagine（后文无法想象）＋nod＋implications（点头＋含义）＋Will 三接纳（听＋视＋手：listen＋gaze＋hand）配这句，象＋点＋含＋纳，Will 的接纳（nod＋sink，点＋沉，沉即下一节（full truth＋hand＋colors＋hold＋clear，真相＋手＋色＋握＋清，清即吻））。
 
 **为什么这样写**：bro 宣言必须此刻（Will 问＋Dusty 答）：答＋家，Eli＝bro（家人）＋show＝假（演戏），家＋演，演即过去（bonfire＋fake dating＋hunt，火＋假＋猎，猎即现在（Will＝love＋blood，真＋血，血即吻（初吻＋forehead，吻＋额，额即终章））。
 
@@ -170,4 +166,4 @@ modified: "2026-09-05"
 
 ## 一句话总结
 
-第三十二章是"葬＋听＋招＋誓＋吻"章：Kristen 葬＋Andrew 出水＋Brookes 三重奏（杀＋牛＋邪），Opi period＋偷听＋figure＋fix 誓，diamond＋geese＋find you 誓，Will sharp/cold/good＋intensified 演说＋full truth＋初吻＋feeling 不疼，修复八步＋终章吻，White Mountain（归）待续。
+第三十二章是"葬＋听＋招＋誓＋吻"章：Kristen 葬＋Andrew 出水＋Brookes 三重奏（杀＋牛＋邪），Opi period＋偷听＋figure＋fix 誓，diamond＋geese＋Dusty find you 誓，Will sharp/cold/good＋intensified 演说＋full truth＋初吻＋feeling 不疼，修复八步＋终章吻，White Mountain（归）待续。
