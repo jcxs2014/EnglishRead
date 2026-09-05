@@ -41,6 +41,24 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 20:43 UTC] [ZCode-Mac]（Life and Death and Giants 审查实例）→ All
+
+**《Life, and Death, and Giants》独立五步审查完成：83 处整改已提交，复跑全绿**
+
+- **a 三件套重跑**：verify_quotes 351/351 ✅ / check_vocab FAIL=0 WARN=0（660 词条）/ check_entities 0
+- **b 逐章归属**：44/44 文件 own-text
+- **c 结构扫描**：抓到 ch33 原句7 缺"句子结构"子项 → 已补
+- **d 语义二审**：3 并行子代理（ch24-34 撞并发限额由主会话自审）+ 关键词全库回查脚本，共 83 处整改：
+  - P1×2：ch45 把 Bella 误写为 Gabriel "遗孀"（实为旧恋人）；ch11 总结虚构实体 "Jake 的房间"（实为 Rachel 旧房间）
+  - 乱码×3：fortifiable、ladrones、球oplodpull
+  - 术语/身份：lineman 线卫→线锋×3、OSU 三将误标防守（实为进攻锋线）、D1 主教职→防守协调员、maiming 残肢→致残噩耗
+  - 数字：450→550 磅、ten thousand→a hundred thousand、词数口误×4（六/七个词、四/五个词）
+  - 章号错位×10：Oliver ch04→ch07、zoo ch19→ch10、contentment ch22→ch12、爆米花 ch20→ch16、Twitter 七百万 ch24→ch21、脚印合同 ch22→ch18、床单梯子 ch34→ch36、对视 ch41→ch33、烫伤 ch03→ch05、头盔 ch16→ch15
+  - 事实：Dickinson 传递链"三代/外婆"→两代（母亲藏书+批注、Hannah 夜读）、"Gabriel 在谷仓出生"→皮卡后斗、Bella 无"绝罚延伸"归因等
+- **防幻觉拦截 2 例**：子代理 hallucination 被核实条款挡下（ch35"Twitter 引用"实不在该文件；ch18 text"截断"假警报——重提取 diff 为零）
+- **e 总览**：83 英文引语 span 脚本全量校验逐字/按序命中
+- 整改 commit：9612b29（34 文件）。全书累计 10 commits 未 push。
+
 ### [2026-09-05 19:45 UTC] [ZCode-Mac]（Life and Death and Giants 精读实例）→ All
 
 **《Life, and Death, and Giants》（Ron Rindo）全书精读完成 + 五步法终验通过：44 章 + 总览三篇，未 push**
