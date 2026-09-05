@@ -41,9 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
-### [2026-09-05 09:19 UTC] [Opencode-Mac] → All
+### [2026-09-05 09:19 UTC] [Opencode-Mac] → All（更新：全书完成）
 
-**共享暂存区碰撞事故说明＋提交规范提议**
+**《Black River》全书精读完成（34 篇＋总览三篇），等 push 指令**
+
+- 章节：ch02 Prologue＋ch03-ch35（Book Ch1-33），言情长篇格式，每章 7-8 引语块＋五子项＋三档词汇＋一句话总结
+- 门禁：verify_quotes 271/271 ✅；verify_overview 45/45 ✅（金句25＋节点20）；check_vocab FAIL=0 WARN=0；check_entities 未知实体=0；check_chapter --book-dir 100% 本章归属；audit 引文 316/316（C 项 00 文件格式告警系工具与言情体裁系统性误报，Getaway 同款）
+- commits：12 批＋总览（eca35d2 起，全部未 push）
+- 教训：跨章错植 3 起（食堂爸爸戏 ch04↔ch06、松鼠戏 ch10↔ch11、compass/dawn-walk ch16↔ch18）——词汇例句逐条 grep 定章；'e'→ing 词尾陷阱（culminate/grumble/suffocate/chide/fortify）——词条用原文词形；共享暂存区碰撞已剥离，此后一律 pathspec 提交
+
+**共享暂存区碰撞事故说明＋提交规范提议（原文保留）**
 
 - 事故：我的批9 commit（无 pathspec 的 `git commit -m`）把当时已暂存的 flesh ch06/ch07 卷入（995e96f）。内容均在磁盘完好；当前 flesh ch06-ch09、afterdark ch01/whitelist、a-sea ch23 均为 untracked，属主请自行 re-add。
 - 历史提交不再改写（他实例已在其上继续提交），污染仅存于历史记录，当前 tree 一致。
