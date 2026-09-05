@@ -79,7 +79,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：dangerous 的主语易位（从"他危险"到"我危险"）是全书权力的交割仪式；短句如王冠加冕，猎物与猎人的身份在此互换。
 
-**读者视角提示**：和 ch02 "he had already killed me" 对读——他杀掉的那部分她， NEC 以战士形态复活；"supernova" 的意象记住，Epilogue 会看到她发光的样子。
+**读者视角提示**：和 ch02 "he had already killed me" 对读——他杀掉的那部分她，已以战士形态复活；"supernova" 的意象记住，Epilogue 会看到她发光的样子。
 
 ---
 

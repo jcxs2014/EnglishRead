@@ -43,7 +43,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：lioness/kitten 的体型反差写出"在爱人面前收起爪子"的信任；turned 的完成时说明变化已稳定，副线 CP 的弧光一句封顶。
 
-**读者视角提示**：和 ch01 "cornered raccoon/wolverine" 对读——Izzy 的凶是 spun 保卫闺蜜，Gabe 让她不必再凶；副线证明本书主题：对的人让你卸甲。
+**读者视角提示**：和 ch01 "cornered raccoon/wolverine" 对读——Izzy 的凶是为了保卫闺蜜，Gabe 让她不必再凶；副线证明本书主题：对的人让你卸甲。
 
 ---
 
@@ -55,7 +55,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：dead plants（ch04 "balcony of death"）的回收：植物活了=她活了；brought back 的被动语态诚实——复活不是自助，是 Seth/Izzy/根系合力的结果。
 
-**读者视角提示**：植物是 Charlotte 的状态仪表盘：ch04 全死→ch09 Seth 抢救→Epilogue 复活，拿植物线单独读就是她的康复史。
+**读者视角提示**：植物是 Charlotte 的状态仪表盘：ch04 全死→ch09 他接手浇水→Epilogue 复活，拿植物线单独读就是她的康复史。
 
 ---
 
