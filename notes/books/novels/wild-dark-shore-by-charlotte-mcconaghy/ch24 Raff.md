@@ -17,7 +17,7 @@ modified: "2026-09-05"
 
 ① "He plays for his sister, because she asks. He doesn't want to, might even be a little frightened of it, but the truth is he would do anything for her."
 
-- 中文理解：他为妹妹演奏，因为她要求。他不想，甚至可能有点害怕，但真相是他愿意为她做任何事。
+- 中文理解：他为妹妹演奏，因为他要求。他不想，甚至可能有点害怕，但真相是他愿意为她做任何事。
 - 关键词：plays for——为……演奏；frightened——害怕的；truth——真相。
 - 为什么这样写：用"plays for"建立 Raff 的"音乐"身份——他通过音乐表达情感。
 - 读者视角提示：Raff 的"害怕"是全书的"失去"主题——他害怕音乐带来的情感释放。
@@ -32,7 +32,7 @@ modified: "2026-09-05"
 ③ "Fen is sprawled on his bed to listen. Raff tries something upbeat at first, because the point of this is to make her worry less about him, but soon the music overcomes, it sweeps him away and morphs into something else, an expression of something obscured. He is powerless to it, in the same way he is powerless to his anger."
 
 - 中文理解：Fen 摊开四肢躺在床上听。Raff 起初尝试欢快的曲子，因为这样做的目的是让她少担心他，但很快音乐战胜了他，把他卷走，变成了别的什么，某种被遮蔽的表达。他对它无能为力，就像他对自己的愤怒无能为力一样。
-- 关键词：upbeat——欢快的；overcomes——战胜；sweeps him away——把他卷走；morphs——变形；powerless——无能为力。
+- 关键词：upbeat——欢快的；overcomes——战胜；sweeps away——卷走；powerless——无能为力。
 - 为什么这样写：用"powerless"建立 Raff 的"无力"——他无法控制自己的情感。
 - 读者视角提示：Raff 的"无能为力"是全书的"失去"主题——他无法控制失去。
 
@@ -50,6 +50,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"numb"建立 Raff 的"创伤"——他"麻木"而非"悲伤"。
 - 读者视角提示：Raff 的"独自走"是全书的"孤独"主题——他独自承受一切。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -61,37 +62,20 @@ modified: "2026-09-05"
 | upbeat | 欢快的 | "Raff tries something upbeat at first" |
 | overcomes | 战胜 | "the music overcomes, it sweeps him away" |
 | sweeps away | 卷走；淹没 | "it sweeps him away and morphs into something else" |
-| morphs | 变形 | "sweeps him away and morphs into something else" |
-| obscured | 被遮蔽的 | "an expression of something obscured" |
 | powerless | 无能为力的 | "He is powerless to it" |
 | conjured | 召唤 | "as if conjured by his song" |
-| numb | 麻木的 | "He makes this walk alone. Numb." |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | plays for | 为……演奏 | "He plays for his sister" |
-| asks | 请求 | "because she asks" |
 | frightened | 害怕的 | "might even be a little frightened of it" |
-| truth | 真相 | "but the truth is he would do anything for her" |
 | tune | 调音 | "to tune the fiddle quickly" |
-| ear | 耳朵 | "with an ear honed over years of practice" |
-| hold | 持握 | "He doesn't hold the instrument high under his chin" |
-| rests | 搁放 | "rests it almost lazily on his shoulder" |
 | sprawled | 摊开四肢 | "Fen is sprawled on his bed" |
-| upbeat | 欢快的 | "Raff tries something upbeat at first" |
 | point | 目的 | "because the point of this is" |
-| worry | 担心 | "to make her worry less about him" |
-| music | 音乐 | "the music overcomes" |
 | rolls in | 滚来 | "a thick fog rolls in from the ocean" |
 | closing off | 隔离 | "closing them off from the rest of the world" |
-| fuel tanks | 燃料罐 | "The fuel tanks" |
-| happens | 发生 | "on the day it happens" |
-| visible | 可见的 | "makes the sight visible from a great distance" |
-| entire | 整个 | "the entire walk down the hill" |
-| alone | 独自 | "He makes this walk alone" |
-| swinging body | 摇摆的身体 | "Eyes on the swinging body" |
 
 ### ⭐ 基础
 
@@ -104,43 +88,6 @@ modified: "2026-09-05"
 | little | 一点 | "might even be a little frightened" |
 | anything | 任何事 | "he would do anything for her" |
 | sits | 坐 | "He sits by his bedroom window" |
-| window | 窗户 | "by his bedroom window" |
-| quickly | 迅速地 | "to tune the fiddle quickly" |
-| years | 年 | "over years of practice" |
-| tightens | 收紧 | "He tightens the bow strings" |
-| instrument | 乐器 | "the instrument" |
-| shoulder | 肩膀 | "on his shoulder" |
-| bed | 床 | "Fen is sprawled on his bed" |
-| listen | 听 | "to listen" |
-| first | 起初 | "at first" |
-| make | 使 | "to make her worry less" |
-| worry | 担心 | "worry less about him" |
-| soon | 很快 | "but soon the music overcomes" |
-| takes | 拿走 | "it sweeps him away" |
-| changes | 变化 | "and morphs into something else" |
-| can't | 不能 | "He is powerless to it" |
-| same | 相同的 | "in the same way" |
-| when | 当……时 | "While he plays" |
-| from | 来自 | "rolls in from the ocean" |
-| ocean | 海洋 | "from the ocean" |
-| world | 世界 | "from the rest of the world" |
-| sits up | 坐起来 | "Fen sits up to watch it" |
-| watches | 观看 | "to watch it" |
-| continues | 继续 | "but Raff keeps playing" |
-| needs | 需要 | "He doesn't need to see" |
-| knows | 知道 | "to know where they are" |
-| there | 那里 | "where they are" |
-| happens | 发生 | "on the day it happens" |
-| no | 没有 | "There is no fog" |
-| that | 那 | "on the day it happens" |
-| makes | 使得 | "makes the sight visible" |
-| far | 远的 | "from a great distance" |
-| can | 能够 | "you can see" |
-| walk | 步行 | "the entire walk down the hill" |
-| down | 向下 | "down the hill" |
-| by himself | 独自 | "He makes this walk alone" |
-| dead | 麻木的 | "Numb" |
-| eyes | 眼睛 | "Eyes on the swinging body" |
 
 ## 一句话总结
 

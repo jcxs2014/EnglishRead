@@ -36,6 +36,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"alone"的绝对暗示 Dominic 的"孤独"——他只能"独自"面对。
 - 读者视角提示：Dominic 的"独自惊叹"是全书的"孤独"主题。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -49,8 +50,6 @@ modified: "2026-09-05"
 | deliberate | 深思熟虑 | "help me process and deliberate and delight in" |
 | awestruck | 惊叹的 | "To be awestruck with her" |
 | profound | 深刻的 | "what profound creations we have made together" |
-| immensity | 巨大 | "the immensity of feeling they hold within" |
-| marvel | 惊叹 | "I marvel at them alone" |
 
 ### ⭐⭐ 进阶
 
@@ -63,12 +62,6 @@ modified: "2026-09-05"
 | laugh | 笑 | "I want to laugh with her" |
 | wonder | 惊叹 | "look at me in wonder" |
 | acknowledging | 承认 | "acknowledging what profound creations" |
-| together | 一起 | "we have made together" |
-| wisdom | 智慧 | "but the wisdom" |
-| feeling | 情感 | "the immensity of feeling" |
-| within | 内心 | "they hold within" |
-| instead | 相反 | "Instead I marvel at them alone" |
-| alone | 独自 | "I marvel at them alone" |
 
 ### ⭐ 基础
 

@@ -29,6 +29,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"stomach plummets"建立 Dominic 的"恐惧"——他的"秘密"即将暴露；"game of chicken"的比喻暗示 Dominic 的"幼稚"——他还在"玩游戏"。
 - 读者视角提示：Dominic 的"懦夫游戏"是全书的"谎言"主题——他即将"崩溃"并说出真相。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -42,7 +43,6 @@ modified: "2026-09-05"
 | despising | 鄙视 | "back to despising her" |
 | position | 处境 | "putting him in that position" |
 | issue | 问题 | "there wouldn't be an issue" |
-| chicken | 懦夫 | "a game of chicken" |
 
 ### ⭐⭐ 进阶
 
@@ -55,12 +55,6 @@ modified: "2026-09-05"
 | glances | 瞥一眼 | "He glances at me" |
 | morning | 早晨 | "This morning" |
 | boat | 船 | "before we went to the boat" |
-| Hank | 汉克（人名） | "asking me about Hank" |
-| hide | 隐藏 | "if we didn't have anything to hide" |
-| game | 游戏 | "a game of chicken" |
-| break | 崩溃 | "One of us will have to break first" |
-| admit | 承认 | "admit we know that something is wrong" |
-| lying | 撒谎 | "that one of us is lying" |
 
 ### ⭐ 基础
 
@@ -73,16 +67,6 @@ modified: "2026-09-05"
 | candle | 蜡烛 | "a single candle" |
 | weather | 天气 | "ignore the weather outside" |
 | room | 空间 | "He makes room for me" |
-| climb | 爬 | "to climb in next to him" |
-| relieved | 宽慰的 | "relieved, probably" |
-| company | 陪伴 | "to have some company" |
-| storm | 风暴 | "during the storm" |
-| older brother | 哥哥 | "his older brother" |
-| watching | 看 | "watching us" |
-| eyes | 眼睛 | "His eyes meet mine" |
-| filled | 充满 | "filled with the same sense" |
-| impending | 即将发生的 | "impending disaster" |
-| disaster | 灾难 | "impending disaster" |
 
 ## 一句话总结
 

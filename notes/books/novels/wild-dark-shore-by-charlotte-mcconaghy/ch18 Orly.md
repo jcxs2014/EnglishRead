@@ -50,6 +50,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"compelled"建立 buzzy burr 的"被迫"——它不是"选择"旅行而是"必须"旅行；"impossibly wide"的惊叹暗示 Orly 的"敬畏"——他对自然感到"惊奇"。
 - 读者视角提示：Orly 的"三次环绕"是全书的"旅程"主题——种子绕地球三圈，Rowan 绕了多远？
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -63,9 +64,6 @@ modified: "2026-09-05"
 | talons | 爪子 | "hooked like talons" |
 | propagate | 繁衍；传播 | "compelled to spread, to propagate" |
 | albatross | 信天翁 | "the mighty wandering albatross" |
-| immense | 巨大的 | "an immense journey" |
-| fjords | 峡湾 | "among its glaciers and fjords" |
-| deposit | 安置；存放 | "deposit the seed into its new home" |
 
 ### ⭐⭐ 进阶
 
@@ -78,17 +76,6 @@ modified: "2026-09-05"
 | delicate | 精致的 | "less delicate" |
 | purple | 紫色的 | "a dark-purple color" |
 | propellers | 螺旋桨 | "flying propellers" |
-| hooked | 钩状的 | "hooked like talons" |
-| cling | 粘附 | "They don't fly—they cling" |
-| grab | 抓取 | "They grab" |
-| spiky | 多刺的 | "This spiky little seed" |
-| traveler | 旅行者 | "a world traveler" |
-| hitch a ride | 搭便车 | "to hitch a ride with" |
-| mighty | 强大的 | "the mighty wandering albatross" |
-| circle | 环绕 | "circle the globe" |
-| stretches | 延伸 | "long stretches of ocean" |
-| alpine | 高山的 | "in the alpine reserve" |
-| glaciers | 冰川 | "among its glaciers" |
 
 ### ⭐ 基础
 
@@ -101,16 +88,6 @@ modified: "2026-09-05"
 | seeds | 种子 | "its seeds aren't attached" |
 | wind | 风 | "carry it on the wind" |
 | fly | 飞 | "They don't fly" |
-| see | 看 | "you see" |
-| world | 世界 | "a world traveler" |
-| leave | 离开 | "ready to leave its chick" |
-| wings | 翅膀 | "impossibly wide wings" |
-| journey | 旅程 | "an immense journey" |
-| globe | 地球 | "circle the globe" |
-| ocean | 海洋 | "long stretches of ocean" |
-| year | 年 | "in a single year" |
-| trip | 旅行 | "on this third trip" |
-| home | 家 | "its new home" |
 
 ## 一句话总结
 

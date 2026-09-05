@@ -50,6 +50,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"spat out"建立大海的"暴力"——它不是"温柔的"而是"暴力的"；"stupid"的出口是全书的"父亲"主题——Dominic 的"爱"总是以"伤害"的形式出现。
 - 读者视角提示：Dominic 的"说错话"是全书的"男性气质"主题——他用"愤怒"表达"恐惧"。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -63,8 +64,6 @@ modified: "2026-09-05"
 | charcoal | 炭黑色 | "The sky is charcoal" |
 | spattering | 飞溅；零星 | "a spattering of rain" |
 | gymnastics | 体操 | "really good at gymnastics" |
-| callousness | 冷酷无情 | "in response to my callousness" |
-| asshole | 混蛋 | "I am an asshole" |
 
 ### ⭐⭐ 进阶
 
@@ -77,12 +76,6 @@ modified: "2026-09-05"
 | crammed | 挤满 | "all crammed together on the couch" |
 | panic | 恐慌 | "something in me panics" |
 | stupid | 愚蠢的 | "you could be so stupid" |
-| darling | 亲爱的 | "my darling girl" |
-| earnest | 认真地 | "It starts to rain in earnest" |
-| grappling | 努力应对 | "grappling with the reflection" |
-| failures | 失败 | "the reflection of my failures" |
-| simultaneously | 同时 | "simultaneously keeping her from drifting away" |
-| complexities | 复杂性 | "its beauties and its complexities" |
 
 ### ⭐ 基础
 
@@ -95,13 +88,6 @@ modified: "2026-09-05"
 | join | 加入 | "I would have joined them easily" |
 | four | 四个 | "the four of us" |
 | ask | 问 | "thinking to ask" |
-| see | 看到 | "have to see a body" |
-| sea | 海 | "spat out by the sea" |
-| drink | 喝 | "drink hot chocolate" |
-| mouth | 嘴 | "out of my mouth" |
-| face | 脸 | "Her face falls" |
-| sorry | 对不起 | "I'm sorry" |
-| agree | 同意 | "I agree with him" |
 
 ## 一句话总结
 

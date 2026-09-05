@@ -15,7 +15,7 @@ modified: "2026-09-05"
 
 ## 精读
 
-① "I am greeted, at breakfast, with 'You got a screw loose?'" Dominic is angry because I told Orly that if he doesn't burn or drown he'll starve. "He asked. He's smart." Dominic stares at me, astonished.
+① "I am greeted, at breakfast, with 'You got a screw loose?'"
 
 - 中文理解："你脑子有病吧？" Dominic 在早餐时责备我，因为我告诉 Orly 他不被烧死就会被淹死或饿死。"他问的。他很聪明。" Dominic 惊讶地盯着我。
 - 关键词：screw loose——脑子有病；astonished——惊讶的。
@@ -50,6 +50,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"cleared out"建立 Hank 的"消失"——他"清空"了自己；"no smell"暗示 Rowan 的"记忆"——她通过"气味"记忆 Hank。
 - 读者视角提示：Rowan 的"独自一人"是全书的"孤独"主题——她失去了一切。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -63,11 +64,6 @@ modified: "2026-09-05"
 | possessed | 驱使 | "what possessed me" |
 | chastised | 受责骂的 | "I look down at my hands, chastised" |
 | firebreak | 防火带 | "the firebreak or so it's called" |
-| blaze | 大火 | "There is no stopping this blaze" |
-| tears through | 撕裂 | "it's already arrived, tearing through the hills" |
-| eucalypts | 桉树 | "But there were eucalypts, three of them" |
-| leaped | 跳跃 | "the flames, they leaped" |
-| cleared out | 清空 | "He has cleared it out completely" |
 
 ### ⭐⭐ 进阶
 
@@ -80,22 +76,6 @@ modified: "2026-09-05"
 | lifts | 举起 | "He lifts his hands" |
 | touching | 触摸 | "he hasn't been touching the table" |
 | remotely | 丝毫 | "anything remotely in the realm" |
-| curious | 好奇的 | "He's curious" |
-| dark | 黑暗的 | "dark bloody thoughts" |
-| bloody | 血腥的 | "dark bloody thoughts" |
-| pop | 弹出 | "pop into your head" |
-| image | 图像 | "the image in his head" |
-| none | 没有 | "None of us can cope" |
-| too right | 太对了 | "Too right" |
-| woke | 醒来 | "He woke up screaming" |
-| insides | 内脏 | "My insides plummet" |
-| mug | 马克杯 | "holding the coffee mug in my lap" |
-| felt | 感觉 | "It felt wrong" |
-| hasn't | 还没有 | "He hasn't seen the way the world is" |
-| contemplates | 沉思 | "Dominic contemplates this" |
-| fixed | 固定的 | "his eyes fixed on the sky" |
-| common sense | 常识 | "Bit of common sense'd do the trick" |
-| reckon | 认为 | "in whatever way I reckon" |
 
 ### ⭐ 基础
 
@@ -108,15 +88,6 @@ modified: "2026-09-05"
 | smart | 聪明的 | "He's smart" |
 | kids | 孩子 | "you don't have kids" |
 | say | 说 | "You don't just say" |
-| head | 头 | "pop into your head" |
-| able | 能够 | "he's able to cope" |
-| burning | 燃烧 | "animals burning" |
-| wrong | 错误的 | "It felt wrong" |
-| world | 世界 | "the way the world is" |
-| mine | 我的 | "They're mine to prepare" |
-| long | 长的 | "There is a long silence" |
-| silence | 沉默 | "There is a long silence" |
-| thought | 想法 | "I thought it would be the body" |
 
 ## 一句话总结
 

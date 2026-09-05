@@ -50,6 +50,7 @@ modified: "2026-09-05"
 - 为什么这样写：用"hard edges"建立 Fen 的"秘密"——她"偷走"了父亲的东西；"walk past"的恐惧是全书的"超自然"主题——Shearwater 有"鬼魂"。
 - 读者视角提示：Fen 的"恐惧"是全书的"恐怖"主题——她第一次感到"不安全"。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -75,16 +76,6 @@ modified: "2026-09-05"
 | pity | 怜悯 | "the world shows no pity" |
 | peel open | 剥开 | "Was she peeled open" |
 | spilling | 溢出 | "and spilling before" |
-| peaceful | 平静的 | "Did she look peaceful" |
-| rough | 粗暴的 | "Were they careful with her, or rough?" |
-| silently | 默默地 | "crying silently as she walks" |
-| bursting out | 爆发 | "always bursting out of her body" |
-| undress | 脱衣服 | "as they undressed her" |
-| naked | 赤裸的 | "She has never been naked with another woman" |
-| connection | 联结 | "a connection to her own woman-ness" |
-| gather up | 聚集 | "to gather up this body" |
-| care for | 照顾 | "try to care for it" |
-| treated | 对待 | "other ways for bodies to be treated" |
 
 ### ⭐ 基础
 
@@ -97,11 +88,6 @@ modified: "2026-09-05"
 | alive | 活着的 | "If she was alive" |
 | body | 身体 | "her mother's body look like Rowan's does now" |
 | age | 年龄 | "Would they be the same age?" |
-| woman | 女人 | "another woman before" |
-| first time | 第一次 | "for the first time in her life" |
-| right | 对的 | "it felt right" |
-| long time | 很久 | "than she has in a long time" |
-| become | 成为 | "the woman she wants to become" |
 
 ## 一句话总结
 
