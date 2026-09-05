@@ -65,7 +65,7 @@ modified: "2026-09-05"
 
 > **原句 4:** But when she lifted her arms and waved her hands over her head, he accidentally punched through two of the ceiling tiles, which fell from their frames down to the floor in a shower of dust.
 
-**中文理解**：可当她举起双臂在头顶挥舞时，他一不留神打穿了兩块天花板，它们从框里脱落，带着一阵灰尘砸到地板上。
+**中文理解**：可当她举起双臂在头顶挥舞时，他一不留神打穿了两块天花板，它们从框里脱落，带着一阵灰尘砸到地板上。
 
 **句子结构**：when 时间从句埋伏笔 + 主句的连锁灾难（punched through / fell / shower of dust）。
 

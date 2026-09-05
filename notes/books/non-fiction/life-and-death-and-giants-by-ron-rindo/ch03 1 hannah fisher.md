@@ -107,7 +107,7 @@ modified: "2026-09-05"
 
 > **原句 7:** I know of many Amish families and young widows suffering from poverty, illness, or some other affliction and short of firewood who woke up one frigid winter morning to discover two free cords of slab wood had been delivered secretly in the night, cut and stacked and already seasoned, ready for burning.
 
-**中文理解**：许多陷入贫困、疾病或其他苦难又缺柴火的阿米什家庭和年轻寡妇，在严寒的冬夜醒来后发现，夜里有人偷偷送来了两垛免费的板皮柴——已劈好、码好、晾干，随时可以烧。
+**中文理解**：许多陷入贫困、疾病或其他苦难又缺柴火的阿米什家庭和年轻寡妇，在严寒的冬日清晨醒来后发现，夜里有人偷偷送来了两垛免费的板皮柴——已劈好、码好、晾干，随时可以烧。
 
 **句子结构**：长句——主语（I know of many...families and widows）+ 多重后置修饰（suffering from... / short of firewood / who woke up...）+ 宾语从句（discover two free cords...）。
 
@@ -115,7 +115,7 @@ modified: "2026-09-05"
 
 **表达方式**：句子的冗长堆叠模仿了"好事不张扬"的叙事节奏——慷慨被藏在从句深处，正如善行藏在夜里。
 
-**为什么这样写**：父亲形象的复杂性在此翻转：白天的暴君在夜里做无名善事。作者拒绝把任何人写成单色，Hannah 对父亲的矛盾记忆（"我认为他是 fortifiable 最虔诚慷慨的人"）为全书"信仰者的罪与恩"主题提供了第一个立体样本。
+**为什么这样写**：父亲形象的复杂性在此翻转：白天的暴君在夜里做无名善事。作者拒绝把任何人写成单色，Hannah 对父亲的矛盾记忆（"我认为他是我认识的最虔诚慷慨的人"）为全书"信仰者的罪与恩"主题提供了第一个立体样本。
 
 ---
 

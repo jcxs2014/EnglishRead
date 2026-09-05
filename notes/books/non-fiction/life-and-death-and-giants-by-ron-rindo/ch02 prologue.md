@@ -39,9 +39,9 @@ modified: "2026-09-05"
 
 **中文理解**：有时候，决定你落脚何处的不是你追求什么，而是你逃避什么。
 
-**句子结构**：It isn't X but rather Y + that determines Z——it 是形式主语，but rather 连接的并列结构是真正主语，that determines 是定语从句。
+**句子结构**：it-cleft 强调句型：被强调的主语 = not X but rather Y（what you're running from 的名词化结构），that determines Z 是强调句的 that-从句。
 
-**关键词**：`running from`（逃避驱动）/ `refuge`（避难所意象）
+**关键词**：`running from`（逃避驱动）/ `where you find yourself`（落脚之处）
 
 **表达方式**："反因果"逻辑——以"不是目的地决定你，而是出发点决定你"翻转传统自我实现叙事。
 
@@ -51,7 +51,7 @@ modified: "2026-09-05"
 
 > **原句 3:** An introvert who preferred the company of animals to human beings, Doc Kennedy had moved his veterinary practice from Milwaukee to Lakota at the age of forty-seven following the horrifying death of his wife, Angela.
 
-**中文理解**：Thomas Kennedy 是个内向的人，比起人他更喜欢动物的陪伴。47 岁时，在妻子 Angela 可怕的死亡之后，他关闭了密尔沃基的兽医诊所，搬到了 Lakota。
+**中文理解**：Thomas Kennedy 是个内向的人，比起人他更喜欢动物的陪伴。47 岁时，在妻子 Angela 可怕的死亡之后，他把兽医诊所从密尔沃基搬到了 Lakota。
 
 **句子结构**：主语 + 同位语（An introvert...）+ 谓语 + 时间状语（following...）。
 
@@ -69,9 +69,9 @@ modified: "2026-09-05"
 
 **句子结构**：直接引语 + 引述动词（无修饰的 said）。
 
-**关键词**：`Jasper`（新人物）/ `desperate plea`（绝望请求）
+**关键词**：`You got to help us`（绝望的请求）
 
-**表达方式**：极简对话（4 词），无任何引述副词修饰——说话者已无余力选择措辞的信号。
+**表达方式**：极简对话（5 词），无任何引述副词修饰——说话者已无余力选择措辞的信号。
 
 **为什么这样写**：引号外无 "shouted" 或 "pleaded"，只有赤裸的 "said"——在文学语境中，这种无修饰的直接引语意味着说话者处于极端状态。Jasper 的阶级与教育背景全部压缩在这一个句子里。
 
@@ -97,7 +97,7 @@ modified: "2026-09-05"
 
 **句子结构**：简短直接引语，无引述动词——Jasper 以最精简的方式否定 Thomas 的拒绝。
 
-**关键词**：`Jasper` / `defiant affirmation`（反抗性肯定）
+**关键词**：`Yes, you can`（最简抗辩）
 
 **表达方式**：极简对话，Jasper 不解释、不争辩，只否定。
 
@@ -125,7 +125,7 @@ modified: "2026-09-05"
 
 **句子结构**：直接引语（两段）+ 引述动词，第二段引语以 `"God's waiting for her."` 揭示 Jasper 的宗教逻辑。
 
-**关键词**：`God's waiting`（宗教信念）/ `negotiation`（谈判策略）
+**关键词**：`God's waiting for her`（宗教信念）/ `Save the babies then`（条件交换）
 
 **表达方式**：Jasper 用宗教语言完成谈判——他不是求情，是引用母亲的信仰作为行动的许可。
 
@@ -139,7 +139,7 @@ modified: "2026-09-05"
 
 **句子结构**：主语 + 并列谓语（lubricated and inserted）+ 目的状语（until...）+ 宾语（the crown of an infant's head）。
 
-**关键词**：`veterinary procedure`（兽医技术）/ `human/animal boundary`（人兽边界模糊）
+**关键词**：`lubricated and inserted`（兽医操作）/ `the crown of an infant's head`（胎儿露冠）
 
 **表达方式**：物理细节的精确性——lubricated / inserted / fingertips / crown of head，保留侵入性身体干预的质感。
 
@@ -147,7 +147,7 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 10:** "It's a boy," Thomas said. "Jasper, you have a brother." He put the squirming baby on his mother's chest, and then clamped and cut the cord.
+> **原句 10:** "It's a boy," Thomas said. "Jasper, you have a brother." He put the squirming baby on his mother's chest, and then clamped and cut the cord. He dipped the stub in a cup of iodine, and the child came to life.
 
 **中文理解**："是个男孩，"Thomas 说。"Jasper，你有个弟弟了。"他把扭动的婴儿放在他母亲的胸口，然后夹住并剪断脐带。
 

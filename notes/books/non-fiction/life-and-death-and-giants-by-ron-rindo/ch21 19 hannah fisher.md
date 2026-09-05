@@ -23,7 +23,7 @@ modified: "2026-09-05"
 
 > **原句 1:** Yet the day Josiah and I learned of Gabriel's maiming, something new opened in me, a tiny wound as fine as a needle's point.
 
-**中文理解**：然而，在 Josiah 和我得知 Gabriel 残肢的那天，我心里裂开了一样新东西——一道细如针尖的小伤口。
+**中文理解**：然而，在 Josiah 和我得知 Gabriel 致残噩耗的那天，我心里裂开了一样新东西——一道细如针尖的小伤口。
 
 **句子结构**：Yet 转折 + 主句 + as fine as a needle's point 明喻。
 
@@ -73,7 +73,7 @@ modified: "2026-09-05"
 
 **表达方式**：把信仰的两难压进四个词——教义与体验各占一半。
 
-**为什么这样写**：这行批注是 Hannah 夜访诗集的枢纽：母亲在几十年前已经预演了她的今天——用"感觉真实"给"有罪"辩护。三代女性的 secret 抵抗（外婆藏书、母亲批注、Hannah 夜读）在此完成交接。注意 Hannah 的反应不是恐惧而是"tip the book closer"（凑近烛光）——继承的时刻。
+**为什么这样写**：这行批注是 Hannah 夜访诗集的枢纽：母亲在几十年前已经预演了她的今天——用"感觉真实"给"有罪"辩护。两代女性的 secret 抵抗（母亲藏书并写下批注、Hannah 深夜阅读）在此完成交接。注意 Hannah 的反应不是恐惧而是"tip the book closer"（凑近烛光）——继承的时刻。
 
 ---
 

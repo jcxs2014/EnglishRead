@@ -105,7 +105,7 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 7:** They ascended like winged cherubim, and though my own eyes remained closed, I knew Gabriel's earthly life rose with them, up off the bed, above the house, and then over the trees.
+> **原句 7:** They ascended like winged cherubim, and though my own eyes remained closed, I knew Gabriel's earthly life rose with them, up off the bed, above the house, and then over the trees. Unmoored from Earth, from sickness and pain, from hardship and affliction, arrayed in heavenly light, Gabriel's soul departed.
 
 **中文理解**：它们如带翼的基路伯升天——我闭着眼，却知道 Gabriel 的尘世生命随它们一同升起：离开床榻，越过屋顶，然后越过树林。
 
@@ -129,7 +129,7 @@ modified: "2026-09-05"
 
 **表达方式**：以花束的语法装羽毛——神迹退场后留在地上的物证。
 
-**为什么这样写**：这是全书最伟大的一笔留白：没有解说、没有神学结论，只有一个无神论者弯腰捡了一路。bouquet（花束）是给死亡的献花礼仪的变体——Angela 的坟前他没来得及放的、Samuel 的摇篮里没来得及放的，此刻以一千根羽毛的形状补齐。他把最漂亮的几根放在 Gab 胸口：科学的手，做完了信仰的事。
+**为什么这样写**：这是全书最伟大的一笔留白：没有解说、没有神学结论，只有一个无神论者弯腰捡了一路。bouquet（花束）是给死亡的献花礼仪的变体——没能对亡妻说完的告别、Samuel 的摇篮里没来得及放的，此刻以一千根羽毛的形状补齐。他把最漂亮的几根放在 Gab 胸口：科学的手，做完了信仰的事。
 
 ---
 

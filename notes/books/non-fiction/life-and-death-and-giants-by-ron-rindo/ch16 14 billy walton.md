@@ -51,11 +51,11 @@ modified: "2026-09-05"
 
 > **原句 3:** he ran over the center and had a lineman hanging on each leg as he roared into the backfield, but it was like a couple of remoras fluttering along the flanks of a great white shark.
 
-**中文理解**：他碾过对方中锋，两条腿上各挂着一个对方线卫，咆哮着冲进后场——但那就像两条鮣鱼贴在大白鲨身侧游动。
+**中文理解**：他碾过对方中锋，两条腿上各挂着一个对方线锋，咆哮着冲进后场——但那就像两条鮣鱼贴在大白鲨身侧游动。
 
 **句子结构**：让步转折（but）+ like 明喻把挣扎降格为共生鱼群。
 
-**关键词**：`a lineman hanging on each leg`（双腿各挂一线卫）/ `remoras`（鮣鱼）/ `great white shark`（大白鲨）
+**关键词**：`a lineman hanging on each leg`（双腿各挂一线锋）/ `remoras`（鮣鱼）/ `great white shark`（大白鲨）
 
 **表达方式**：海洋生态明喻——阻力被写成吸附，力量被写成物种差。
 
@@ -129,7 +129,7 @@ modified: "2026-09-05"
 
 **表达方式**：全书竞技线的凯歌以一句"缺席清单"收尾——欢呼的反义词是名单。
 
-**为什么这样写**：这是 Billy 视角能给出的最深一击：教堂不来了（绝罚延伸）、Jasper 死了、祖父母与社区在家门口被狗仔逼疯——万人为他沸腾，家一个人都没来。作者把"成功"与"代价"压进同一句话，不让任何一句欢呼干净地落地。
+**为什么这样写**：这是 Billy 视角能给出的最深一击：教堂不在场、Jasper 已死、祖父母被狗仔逼得闭门自守——万人为他沸腾，家一个人都没来。作者把"成功"与"代价"压进同一句话，不让任何一句欢呼干净地落地。
 
 ---
 

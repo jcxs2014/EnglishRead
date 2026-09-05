@@ -23,7 +23,7 @@ modified: "2026-09-05"
 
 > **原句 1:** When Thomas called to tell me doctors had discovered an inoperable tumor the size of a grapefruit in Gabe Fisher's brain, and that he'd gone blind and was coming home to Lakota, my guts felt like they'd turned into a tangled knot of rattlesnakes.
 
-**中文理解**：Thomas 打电话告诉我，医生在 Gab Fisher 脑中发现一个柚子大小、无法手术的肿瘤，他瞎了，要回 Lakota——我的内脏像拧成了一团响尾蛇结。
+**中文理解**：Thomas 打电话告诉我，医生在 Gabe Fisher 脑中发现一个柚子大小、无法手术的肿瘤，他瞎了，要回 Lakota——我的内脏像拧成了一团响尾蛇结。
 
 **句子结构**：长句叙事 + 内脏的蛇结明喻。
 
@@ -31,7 +31,7 @@ modified: "2026-09-05"
 
 **表达方式**：以水果的尺寸写绝症，以毒蛇的扭结写哀恸——德州教练的度量衡从不失手。
 
-**为什么这样写**：响尾蛇结是 Trey 对无能为力的第一反应（后文他将详细分解这种痛），而"coming home to Lakota"被嵌入病讯——他的痛里掺着一点说不清的欣慰：这个被他的球oplodpull进 English 世界的孩子，终于要回来了。他拒绝别人怪他，Hannah 却只给了善意（本章明写）——这笔道德账他记了一辈子。
+**为什么这样写**：响尾蛇结是 Trey 对无能为力的第一反应（后文他将详细分解这种痛），而"coming home to Lakota"被嵌入病讯——他的痛里掺着一点说不清的欣慰：这个被他的球队拉进 English 世界的孩子，终于要回来了。他拒绝别人怪他，Hannah 却只给了善意（本章明写）——这笔道德账他记了一辈子。
 
 ---
 
@@ -129,7 +129,7 @@ modified: "2026-09-05"
 
 **表达方式**：以猎手的短句收束侦探戏——搜索引擎的深夜被一句耳语盖章。
 
-**为什么这样写**：这个"Found you"是 Trey 全部角色弧线的句点：他找过成功（大学主教职）、找过遗忘（毒品与酒）、找过重生（Birdy 的农场），最后一次寻找，是为了别人。"aloud"泄露了仪式感——这不是搜索完成，是祷词应验。下一章 Bella 的回电将把本书最后一扇门推开：这一次，是 English 世界为阿米什巨人递回一件它欠他的东西。
+**为什么这样写**：这个"Found you"是 Trey 全部角色弧线的句点：他找过成功（大学主教职）、找过遗忘（毒品与酒）、找过重生（Birdy 的农场），最后一次寻找，是为了别人。"aloud"泄露了仪式感——这不是搜索完成，是祷词应验。章末 Bella 的回电已经把本书最后一扇门推开（她将在 ch40 携子叩门）：这一次，是 English 世界为阿米什巨人递回一件它欠他的东西。
 
 ---
 

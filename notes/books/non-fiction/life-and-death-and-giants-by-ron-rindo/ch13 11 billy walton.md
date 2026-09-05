@@ -101,7 +101,7 @@ modified: "2026-09-05"
 
 **表达方式**：握手的礼貌被拥抱的力量覆盖——体格差距写成一次失重。
 
-**为什么这样写**：这是 Billy 与 Gabriel 的最后一面（在本叙事线里）：孩子的身体已经大到能把成年人举起。作者让"举"完成告别——曾把他放进苹果箱、给他称重、买 XL 球衣的所有人，如今都在他掌心里。离别的伤感不靠抒情，靠重力。
+**为什么这样写**：这是 Billy 与 Gabriel 在棒球语境里的最后一面：孩子的身体已经大到能把成年人举起。作者让"举"完成告别——曾把他放进苹果箱、给他称重、买 XL 球衣的所有人，如今都在他掌心里。离别的伤感不靠抒情，靠重力。
 
 ---
 
@@ -156,7 +156,9 @@ modified: "2026-09-05"
 | `decipher` | 破译 | By some heavenly Morse code only the faithful can decipher? |
 | `bleachers` | 露天看台 | As he streaked down the sidelines, you could hear his mama shouting from the bleachers |
 | `sidelines` | 边线 | As he streaked down the sidelines, you could hear his mama shouting from the bleachers |
-| `touchdown` | 达阵 | Every time Jesus or Julio scored a touchdown, the Waushara High School marching band would break into a raucous version of "La Bamba" |### ⭐ 基础
+| `touchdown` | 达阵 | Every time Jesus or Julio scored a touchdown, the Waushara High School marching band would break into a raucous version of "La Bamba" |
+
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|

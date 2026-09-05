@@ -107,7 +107,7 @@ modified: "2026-09-05"
 
 > **原句 7:** He'd had some success domesticating the opossum, named Virginia Woolf. (His mother was an English professor, so she inevitably christened his pets with literary names.)
 
-**中文理解**：他曾成功地驯养过一只负鼠，取名 Virginia Woolf。（他母亲是英文教授，所以他的宠物 inevitably 都得了文学名字。）
+**中文理解**：他曾成功地驯养过一只负鼠，取名 Virginia Woolf。（他母亲是英文教授，所以他的宠物无一例外都得了文学名字。）
 
 **句子结构**：陈述 + 括号内的来源注释——括号承担了全部幽默。
 
@@ -129,7 +129,7 @@ modified: "2026-09-05"
 
 **表达方式**：失眠者与断翼的猫头鹰——两个无法入睡/无法飞翔的生命在凌晨互为陪伴。
 
-**为什么这样写**：这个画面是 Thomas 精神的源头：他后来对 Gabriel 的一切——不问回报的周五鱼排、 scale 上的称量、周末出诊的陪伴——都是"给猫头鹰朗读"的复刻。爱在无用之处发生，是 Thomas 家族的语法。
+**为什么这样写**：这个画面是 Thomas 精神的源头：他后来对 Gabriel 的一切——不问回报的周五鱼排、体重秤上的称量、周末出诊的陪伴——都是"给猫头鹰朗读"的复刻。爱在无用之处发生，是 Thomas 家族的语法。
 
 ---
 
@@ -169,4 +169,4 @@ modified: "2026-09-05"
 
 ## 一句话总结
 
-本章让"巨人"长出灵魂——Gabriel 的尺寸 dazzle 了所有人，但让 Thomas 决定守在他身边的，是他与动物之间近乎语言的东西；一个曾为负鼠取名 Virginia Woolf、听母亲深夜为断翼猫头鹰朗读的人，把这个孤儿接进了同一条爱的谱系。
+本章让"巨人"长出灵魂——Gabriel 的尺寸令所有人目眩，但让 Thomas 决定守在他身边的，是他与动物之间近乎语言的东西；一个曾为负鼠取名 Virginia Woolf、听母亲深夜为断翼猫头鹰朗读的人，把这个孤儿接进了同一条爱的谱系。

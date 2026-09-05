@@ -31,7 +31,7 @@ modified: "2026-09-05"
 
 **表达方式**：以"书自己翻开"的物理巧合开场——包裹在偶然里的必然。
 
-**为什么这样写**：这是 Hannah 对 Dickinson 传递链的最后一投：外婆藏进 kapp、母亲写批注、她夹进一朵花——如今书落到 Thomas 手里。延龄草（trillium）是三叶圣花，"三"的数字一直贯穿这条链（三代女性、三次相赠）。"For Thomas"四个词是 Hannah 全书对他说过的最直白的话——用铅笔，因为铅笔可以被原谅。
+**为什么这样写**：这是 Hannah 对 Dickinson 传递链的最后一投：母亲藏进 kapp 并写下批注、她夹进一朵花——如今书落到 Thomas 手里。延龄草（trillium）是三叶圣花，而这本书的旅程恰好三段：母亲、Hannah、Thomas。"For Thomas"两个词是 Hannah 全书对他说过的最直白的话——用铅笔，因为铅笔可以被原谅。
 
 ---
 
@@ -45,7 +45,7 @@ modified: "2026-09-05"
 
 **表达方式**：以流体力学的耐心写告别——连撒骨灰都注意风向的人。
 
-**为什么这样写**：Thomas 连母亲的最后一程都做得像一次兽医操作：选下风处、观察表面张力、目送下沉。这个细节回收了 ch19 的 zoo 之母（教他万物的名字）与 ch30 的"读得到相互原谅"——他终于以自己的方式（科学家的手）完成了教堂的仪式。母亲"死后还替他把事情变容易"（连纪念仪式都免了）——她的最后一份礼物是不给他添任何需要回答的问题。
+**为什么这样写**：Thomas 连母亲的最后一程都做得像一次兽医操作：选下风处、观察表面张力、目送下沉。这个细节回收了 ch10 的 zoo 之母（教他万物的名字）与 ch30 的"读得到相互原谅"——他终于以自己的方式（科学家的手）完成了教堂的仪式。母亲"死后还替他把事情变容易"（连纪念仪式都免了）——她的最后一份礼物是不给他添任何需要回答的问题。
 
 ---
 
@@ -63,7 +63,7 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 4:** "What I saw was the biggest hatch of fireflies I've ever seen in my life. Family Lampyridae, according to my field guide. An amazing volume of insects. Maybe the birds came to eat the insects. And the other animals, well, mammals can be curious creatures."
+> **原句 4:** "What I saw was the biggest hatch of fireflies I've ever seen in my life. Family Lampyridae, according to my field guide. An amazing volume of insects. Maybe the birds came to eat the insects. And the other animals, well, mammals can be curious creatures. I think a lot of them might have come out just to see what all the fuss was about. I don't know. It's a hypothesis, a conjecture.""
 
 **中文理解**："我看到的是我这辈子见过最大的一次萤火虫羽化爆发。按我的野外手册——萤科。数量惊人的虫子。也许鸟是来吃虫的。至于其他动物嘛——哺乳动物是好奇的生物。"
 
