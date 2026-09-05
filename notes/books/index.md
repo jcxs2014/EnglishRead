@@ -65,3 +65,51 @@ title: 书单
 | [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
 | [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
 | [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
+
+## 短篇合集
+
+| 书名 | 作者 |
+|------|------|
+| [100 Great Short Stories](books/short-story-anthologies/100-great-short-stories-by-james-daley/) | James Daley |
+| [Aickman Collected Short Fiction](books/short-story-anthologies/aickman-collected-short-fiction/) | — |
+| [Alfred Hitchcock Presents: Stories to Stay Awake](books/short-story-anthologies/alfred-hitchcock-presents-stories-to-stay-awake-by/) | — |
+| [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
+| [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
+| [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
+| [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
+| [Collected Stories](books/short-story-anthologies/collected-stories-by-peter-carey/) | Peter Carey |
+| [Empty Bottles Full of Stories](books/short-story-anthologies/empty-bottles-full-of-stories-by-r-h-sin/) | R.H. Sin |
+| [Good and Evil and Other Stories](books/short-story-anthologies/good-and-evil-and-other-stories-by-samanta-schweblin/) | Samanta Schweblin |
+| [If You See Me Don't Say Hi](books/short-story-anthologies/if-you-see-me-dont-say-hi-by-neel-patel/) | Neel Patel |
+| [Ligotti Collected Short Fiction](books/short-story-anthologies/ligotti-collected-short-fiction/) | — |
+| [Nabokov's Dozen](books/short-story-anthologies/nabokovs-dozen-by-vladimir-nabokov/) | Vladimir Nabokov |
+| [Seven Stories for a Summer Afternoon](books/short-story-anthologies/seven-stories-for-a-summer-afternoon-by-loes-jossy/) | Loes Jossy |
+| [Tales of Terror](books/short-story-anthologies/tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense/) | — |
+| [The Best Short Stories 2024](books/short-story-anthologies/the-best-short-stories-2024-by-o-henry-prize/) | O. Henry Prize |
+| [The Isolationist and Other Stories](books/short-story-anthologies/the-isolationist-and-other-stories-by-v-m-harrigan/) | V.M. Harrigan |
+| [The Secret Lives of Church Ladies](books/short-story-anthologies/the-secret-lives-of-church-ladies/) | — |
+| [Very Short Stories](books/short-story-anthologies/very-short-stories-by-sean-hill/) | Sean Hill |
+| [Yellow Pine](books/short-story-anthologies/yellow-pine-by-claire-vaye-watkins/) | Claire Vaye Watkins |
+
+## 待精读（新入库）
+
+| 书名 | 作者 | 分类 |
+|------|------|------|
+| A Sea of Unspoken Things | Adrienne Young | novels/ |
+| Abduction of a Slave | Dana Stabenow | mystery-thriller/ |
+| Black River | Ruby Jean Cottle | mystery-thriller/ |
+| Butterfly Girl | Sarah Floyd | mystery-thriller/ |
+| Flesh A Novel | David Szalay | novels/ |
+| It Comes from the River | Rachel Bower | mystery-thriller/ |
+| Life, and Death, and Giants | Ron Rindo | novels/ |
+| Perfection (Le perfezioni) | Vincenzo Latronico | novels/ |
+| The Afterdark | E. Latimer | mystery-thriller/ |
+| The Book of Heartbreak | Ova Ceren | novels/ |
+| The Fall Risk | Abby Jimenez | novels/ |
+| The Italian Secret | Tara Moss | mystery-thriller/ |
+| The Lack of Light | Nino Haratischwili | novels/ |
+| The Rose Bargain | Sasha Peyton Smith | novels/ |
+| Things We Never Got Over | Lucy Score | novels/ |
+| We Rip the World Apart | Charlene Carr | novels/ |
+| What We Give Away | Bold Journeys | novels/ |
+| Wild Dark Shore | Charlotte McConaghy | mystery-thriller/ |
