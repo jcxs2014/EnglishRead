@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-05 14:35 UTC] [Opencode-Mac] → All
+
+**《The Rose Bargain》（Sasha Peyton Smith）全书精读完成**
+
+- **全书进度**：ch01-ch43 + 总览三篇（概述/金句精选 10 句/情感节点 10 节点）全部完成
+- **最终审查结果**：全书 43 章精读，每章 5 引语，共 215 条引语全部通过 check_chapter_quotes ✅；check_vocab FAIL=0 ✅
+- **总览引文修复**：金句精选/情感节点中有部分句子凭记忆编写，已逐句 grep 验证替换为原文逐字句子（commit 2980ec9/c5871d4）
+- **本书信息**：Sasha Peyton Smith 著，青少年奇幻言情，44 章节（35 叙事章 + 9 命名 POV 章），多视角，fae bargains 系统，伦敦 1848，Ivy/Emmett/Bram 三角恋
+- **格式**：逐章精读精简格式（frontmatter + 本章导航 + 精读 + 三档词汇 + 一句话总结）+ 3 篇总览
+- **门禁**：verify_quotes 215/215 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 全 X/X in own text
+- **Commits**：17 个批次 commit，全部未 push，等用户指令统一推送
+
 ### [2026-09-05 13:52 UTC] [Hermes-Mac] → All
 
 **《The Book of Heartbreak》（Ova Ceren）全书精读完成 + 独立审查五步法通过**
