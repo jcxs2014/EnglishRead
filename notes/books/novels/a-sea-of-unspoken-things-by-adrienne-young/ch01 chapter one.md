@@ -54,7 +54,7 @@ modified: "2026-09-05"
 
 **读者视角提示**：这是 James 坚信 Johnny 之死并非意外的核心证据 —— 她"亲历"了死亡瞬间。但读者需要判断：这是真实的心灵感应，还是悲伤导致的幻觉？
 
-> **原章 5:** Accidental firearm deaths weren't unheard of in the wilderness that surrounded Six Rivers, especially during the elk season that brought hunters from all over the country to town. But I also knew that accidents didn't happen in that forest. Not really. There was almost nothing that was random or by chance because the place was alive—intentional.
+> **原句 5:** Accidental firearm deaths weren't unheard of in the wilderness that surrounded Six Rivers, especially during the elk season that brought hunters from all over the country to town. But I also knew that accidents didn't happen in that forest. Not really. There was almost nothing that was random or by chance because the place was alive—intentional.
 
 **中文理解**：在 Six Rivers 周围的荒野中，意外枪击死亡并非没有先例，尤其是在带来全国各地猎人的麋鹿季。但我也知道那片森林里不会发生意外。不会真的发生。几乎没有什么是随机的或偶然的，因为那个地方是活的 —— 有意识的。
 

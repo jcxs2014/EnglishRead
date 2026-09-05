@@ -85,7 +85,7 @@ modified: "2026-09-05"
 
 **呼应关系**：与 James 怀孕呼应——"父子"主题从 Johnny/Ben 转移到 James/Micah 的未出生孩子。
 
-⑨ It was an accident. I honestly don't remember who was first one to say it—me or Micah. I only know that it immediately became true.
+⑨ I honestly don't remember who was the first one to say it—me or Micah. I only know that it immediately became true.
 
 **中文理解**：那是个意外。我真的不记得谁先说出来的——我还是 Micah。我只知道它立即变成了真的。
 
@@ -235,17 +235,17 @@ modified: "2026-09-05"
 
 **呼应关系**：与 James 最终"确认" Johnny 没有杀 Autumn 呼应——Micah 是对的。
 
-㉔ It doesn't matter much now, does it? / It mattered to me.
+㉔ "It doesn't matter much now, does it?" / "But it did. It mattered more than she could know."
 
-**中文理解**：现在不重要了，对吧？/ 这对我来说很重要。
+**中文理解**："现在不重要了，对吧？"/"但它确实重要。它比她知道的更重要。"
 
-**上下文**：James 与 Amelia 的对话，关于 Johnny 的"意外"理论。
+**上下文**：James 与 Josie 的对话，关于 Johnny 的"偷猎"行为。
 
 **为什么重要**：这揭示了 James 的"转变"——从"接受官方结论"到"质疑"到"要求真相"。
 
 **呼应关系**：与最终"真相"呼应——Johnny 的死不是意外，是被 Sadie 枪杀。
 
-㉕ We're here tonight to say goodbye to Johnny Golden. A soft soul with a wild heart.
+㉕ "We're here tonight to say goodbye to Johnny Golden," Sadie began. "A soft soul with a wild heart."
 
 **中文理解**：我们今晚在这里向 Johnny Golden 告别。一个温柔的灵魂，一颗狂野的心。
 

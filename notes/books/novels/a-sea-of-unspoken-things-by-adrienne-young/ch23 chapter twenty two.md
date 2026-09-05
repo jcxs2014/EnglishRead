@@ -44,15 +44,15 @@ modified: "2026-09-05"
 
 **读者视角提示**：注意"what the hell"—— Amelia 的语气从"官方"变为"个人"，暗示她也感到困惑。
 
-> **原句 4:** I'd wondered if I'd imagined it, and my blood had run cold at the thought that maybe it was Johnny who'd somehow taken it. But what I hadn't considered was that there was one other person who'd been in the cabin—Ben.
+> **原句 4:** "It's Autumn Fischer's backpack," I said.
 
-**中文理解**：我想知道我是否想象了它，一想到可能是 Johnny 拿走了它，我的血液就冷了。但我没有考虑过还有另一个人在小屋里——Ben。
+**中文理解**："这是 Autumn Fischer 的背包，"我说。
 
-**关键词**：blood had run cold（血液冷了）/ imagined（想象）—— 恐惧与怀疑。
+**关键词**：Autumn Fischer's backpack（Autumn Fischer 的背包）—— 证据的确认。
 
-**为什么这样写**：用"blood had run cold"—— 这是身体对威胁的反应。
+**为什么这样写**：用直接引语 —— 这是 James 对照片的"确认"，也是调查的"转折点"。
 
-**读者视角提示**：注意"one other person"—— James 终于意识到 Ben 可能拿了纸条。
+**读者视角提示**：注意"I said"—— 这是 James 的"陈述"而非"疑问"，暗示她已经"知道"答案。
 
 ## 本章词汇
 
