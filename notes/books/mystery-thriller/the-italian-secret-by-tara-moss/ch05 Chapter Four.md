@@ -97,7 +97,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -106,18 +106,8 @@ modified: "2026-09-05"
 | flickered with a crackling hum | 发出噼啪声闪烁 | …flickered with a crackling hum. |
 | clenched her hands | 握紧双手 | Lucia glanced at them and clenched her hands. |
 | made it through | 穿透；到达 | No daylight or sound from the surface made it through… |
-| pulled her gaze | 移开目光 | Lucia pulled her gaze from the glowing bulbs… |
-| trade for | 交换 | …a thick wool blanket she had managed to trade for a brooch. |
-| scurrying about | 东奔西走 | …Marco scurrying about the city… |
-| huddled | 蜷缩 | …below which they huddled… |
-| bereft of | 失去 | Bereft of sunrises or sunsets… |
-| days blended together | 日子混为一体 | …days blended together… |
-| marking the passing days | 标记流逝的日子 | …marking the passing days with pencil… |
-| utter destruction | 彻底的毁灭 | What they found was utter destruction. |
-| for fear of | 害怕 | …for fear of losing it… |
-| venture to | 冒险前往 | …did not often venture to the surface anymore. |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -126,66 +116,16 @@ modified: "2026-09-05"
 | glowing bulbs | 发光的灯泡 | …pulled her gaze from the glowing bulbs… |
 | with effort | 费力地 | With effort, Lucia pulled her gaze… |
 | push aside | 抛到脑后 | She tried to push it aside… |
-| sore and exhausted | 酸痛而疲惫 | …sore and exhausted but eager to escape… |
-| eager to | 渴望 | …eager to escape to fresh air… |
-| return home | 回家 | …and return home. |
-| shelter | 庇护所 | …could not leave their shelter… |
-| for fear of | 害怕 | …for fear of losing it… |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | beneath | 在…下方 | Deep beneath the city of Naples… |
 | string | 一串 | …a string of bare lights… |
 | flicker | 闪烁 | …lights flickered… |
-| crackling | 噼啪声 | …crackling hum. |
 | depth | 深处 | …to these depths— |
 | surface | 地面；表面 | …sound from the surface… |
-| trade | 交换 | …trade for a brooch. |
-| brooch | 胸针 | …for a brooch. |
-| blanket | 毯子 | …a thick wool blanket… |
-| damp | 潮湿的 | …the damp cold… |
-| cold | 寒冷 | …the damp cold… |
-| wrap | 包裹 | …wrapping her tightly… |
-| tightly | 紧紧地 | …wrapping her tightly… |
-| daughter | 女儿 | …her daughter, Giorgia… |
-| son | 儿子 | …her son wrestled… |
-| father | 父亲 | …Paolo's and Giorgia's father… |
-| mother | 母亲 | …her madre, her mother… |
-| bomb | 炸弹 | …safe from the bombs… |
-| survive | 生存 | …they needed in order to survive. |
-| underground | 地下 | …living underground. |
-| shelter | 庇护所 | …seeking shelter. |
-| raid | 空袭 | …bombing raids… |
-| sirens | 警报器 | …the sirens had sounded… |
-| rubble | 瓦砾 | …made rubble… |
-| belongings | 财物 | …all of their belongings… |
-| ash | 灰烬 | …broken wood and ash. |
-| wounded | 受伤的 | …killed or severely wounded… |
-| neighbours | 邻居 | …their dearest neighbours… |
-| dispersed | 分散的 | …dispersed and unreachable. |
-| quarry | 采石场 | …neighbours in the quarry… |
-| makeshift | 临时的 | …their makeshift home… |
-| mattress | 床垫 | …a salvaged mattress… |
-| sideboard | 餐具柜 | …a mostly intact kitchen sideboard… |
-| singed | 烧焦的 | …broken and singed down one side. |
-| wallpapered | 贴墙纸 | She wallpapered the walls with newspaper… |
-| wildflowers | 野花 | …any cut wildflowers… |
-| dried | 变干 | …until they dried and turned brown… |
-| walking stick | 手杖 | …using a walking stick… |
-| fashioned | 制作 | …he fashioned from a branch… |
-| travel sack | 旅行袋 | …added a travel sack… |
-| caverns | 洞穴 | …these caverns and tunnels… |
-| tide | 潮汐 | …like a tide with each new bombing raid… |
-| toilets | 厕所 | …where the stinking toilets had been dug… |
-| cisterns | 蓄水池 | …pull up water from the ancient cisterns… |
-| stench | 恶臭 | …save for the stench of human needs. |
-| air-raid | 空袭 | …hear the air-raid sirens… |
-| blessing | 幸事 | That was a blessing. |
-| stubbornly | 固执地 | …she stubbornly would not move from it. |
-| assault | 攻击 | This latest assault had been heavy. |
-| steady | 稳定的 | …falling into a steady hum again. |
 
 ## 一句话总结
 本章将视角从悉尼切换到1943年那不勒斯，Lucia 一家的战时地下生活揭示了战争对普通人的摧残——灯光是生命线，家已成瓦砾。

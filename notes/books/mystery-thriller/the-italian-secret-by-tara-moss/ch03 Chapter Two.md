@@ -137,7 +137,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -146,61 +146,18 @@ modified: "2026-09-05"
 | man's inhumanity to man | 人类对人类的残酷 | …demonstrated up close man's inhumanity to man… |
 | brushed up against | 触及；接触到 | …regularly brushed up against those aspects… |
 | very much one's father's daughter | 非常像父亲的女儿 | …she was very much her father's daughter. |
-| dominoes | 多米诺骨牌 | Almost like dominoes, each male head swivelled… |
-| heart lifted | 心跳加速；心情雀跃 | …Billie's heart lifted at the slight of the lanky inspector… |
-| flecks of gold | 金色斑点 | …with flecks of gold that matched the colour in his hazel eyes. |
-| intentional barrier | 有意的屏障 | …as if to create an intentional barrier between them. |
-| brace oneself | 做好心理准备 | …she'd need to brace herself for. |
-| steeling oneself | 使自己坚强 | …steeling herself for whatever this bombshell was. |
-| bombshell | 爆炸性消息 | …whatever this bombshell was. |
-| heart flip over | 心脏翻转（心跳加速） | …hadn't just made her heart flip over in her chest. |
-| blissful silence | 幸福的沉默 | …enjoying the rest of her stroll to lunch in blissful silence… |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | ogled | 色迷迷地看 | …she found herself being ogled… |
 | without losing her stride | 脚步不停地 | Without losing her stride, Billie passed by him… |
 | leer | 色迷迷的目光 | …his leer pierced a hole in her back like a stiletto. |
-| stiletto | 细高跟鞋；匕首 | …like a stiletto. |
 | with some regularity | 相当频繁地 | …brought her with some regularity. |
 | turn away from | 回避；转身离开 | …aspects of human nature many chose to turn away from. |
-| swivelled | 转动 | …each male head swivelled in turn… |
-| inspecting | 打量；检查 | …inspecting her as she emerged. |
-| lanky | 瘦长的 | …the lanky inspector… |
-| sprawled | 懒散地摊开 | …sprawled out at the desk… |
-| fond of | 喜欢的 | …a tie she was quite fond of… |
-| hazel | 榛子色的 | …the colour in his hazel eyes. |
-| resuming | 恢复 | …resuming this formality… |
-| formality | 正式；拘谨 | …resuming this formality… |
-| frustrated | 令人沮丧的 | …a frustrating habit… |
-| tardiness | 迟到 | …apologise for my tardiness… |
-| ajar | 微开的 | …left ajar in anticipation of her arrival. |
-| respite | 暂时的休息 | …welcoming the respite from the stares… |
-| scrutiny | 审视；注视 | …their scrutiny like pressure on the backs of her stocking seams. |
-| stocking seams | 长袜缝（背后那道线） | …on the backs of her stocking seams. |
-| divulging | 透露 | …not divulging, but then added… |
-| grudge | 怨恨 | …had a grudge against Billie's father… |
-| disdain | 蔑视 | …strong disdain for women in the field… |
-| liberated | 解放的 | …any liberated woman in general. |
-| chills | 寒意；恐惧 | …still gave Billie chills… |
-| steeling | 使自己坚强 | …steeling herself for… |
-| flip over | 翻转 | …her heart flip over… |
-| annulled | 宣告无效 | …her marriage was now annulled… |
-| impromptu | 即兴的 | …impromptu wartime wedding… |
-| tempered | 使缓和；调和 | …was tempered by the knowledge… |
-| betrayed | 被背叛 | …she had been betrayed terribly. |
-| woodwork | 木制品（此处指暗处） | …disappear back into the woodwork. |
-| stifling | 令人窒息的 | …the air had become stifling… |
-| suffocate | 使窒息 | …enough to suffocate a small bird. |
-| off kilter | 不平衡；不稳定 | Billie left the station feeling off kilter. |
-| soldiered on | 继续前进 | …she rolled her eyes and soldiered on… |
-| snatch | 抓住 | …Billie snatched that wandering hand… |
-| relenting | 屈服；让步 | He screeched in pain, relenting. |
-| pondering | 思考 | …pondering on what Cooper had said. |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -208,75 +165,7 @@ modified: "2026-09-05"
 | greasy | 油腻的 | A man with greasy hair… |
 | stride | 步伐 | Without losing her stride… |
 | pierce | 刺穿 | …his leer pierced a hole in her back… |
-| masonry | 石造建筑 | …under the grand masonry arch… |
 | sordid | 肮脏的；卑鄙的 | …its sordid inhabitants… |
-| booming | 兴隆的 | …business was always booming. |
-| anaesthetising | 麻醉的 | …the anaesthetising luncheons and pretty frills… |
-| blinkered | 被蒙蔽的 | …blinkered and kept from the truth. |
-| sting | 刺痛 | …felt the sting of matrimony's disappointment. |
-| wayward | 任性的；不忠的 | …wayward, dangerous or neglectful husbands… |
-| clutches | 掌控 | …release their wives from their clutches. |
-| clad | 穿着 | Billie made her entrance… clad in her usual trench coat… |
-| cast an eye | 扫视 | …cast an eye over the familiar scene… |
-| unoccupied | 未被占用的 | …currently unoccupied… |
-| smouldering | 冒烟的 | …cigarettes smouldering between their fingers… |
-| once-over | 打量 | …giving her a once-over… |
-| wet behind the ears | 乳臭未干的 | …surely wet behind the ears. |
-| sparsely | 稀疏地 | …sparsely occupied… |
-| assortment | 各种各样 | …a depressing assortment of citizens… |
-| down on their luck | 运气不佳 | …presently down on their luck. |
-| balding | 变秃的 | …a balding fur coat… |
-| tugging | 拉扯 | …tugging at Billie's heart. |
-| sneak up on | 悄悄接近 | …sneak up on me like that? |
-| exuded | 散发 | …exuded the capable air of an outdoorswoman. |
-| square-jawed | 方下巴的 | …square-jawed and stocky… |
-| stocky | 矮壮的 | …square-jawed and stocky… |
-| athletic | 运动的；健壮的 | …athletic forearms… |
-| dearly | 非常地 | …so dearly needed… |
-| allotted | 分配的 | …every position allotted for a woman. |
-| venereal | 性病的 | …suffering from venereal disease… |
-| benched | 被搁置 | …benched or put to work as receptionists… |
-| adieu | 再见（法语） | She bid her friend adieu… |
-| on one's heel | 转身 | …turned on her heel… |
-| ajar | 微开的 | …left ajar… |
-| of one's own accord | 自动地 | …it opened of its own accord… |
-| underlings | 下属 | …Cooper's colleagues and underlings… |
-| lanky | 瘦长的 | …the lanky inspector… |
-| sprawled | 懒散地摊开 | …sprawled out at the desk… |
-| flecks | 斑点 | …flecks of gold… |
-| hazel | 榛子色的 | …his hazel eyes. |
-| pinching | 皱起 | His brows pinched together. |
-| glean | 收集（信息） | …from what I can glean… |
-| upstanding | 正直的 | …as upstanding a citizen… |
-| ring any bells | 听起来熟悉吗 | 'Does the name Andrew JElliott ring any bells?' |
-| shiner | 黑眼圈 | …a pretty nasty shiner… |
-| lay charges | 提出指控 | …wives don't want to lay charges. |
-| muster | 聚集 | …as fast a divorce as the law could muster… |
-| dissolution | 解散 | …encouraging the dissolution of good marriages… |
-| morgue | 太平间 | …the poor house or the morgue… |
-| blast | 该死（感叹词） | Blast. |
-| grudge | 怨恨 | …had a grudge against… |
-| bribery | 贿赂 | …booked Moretti on bribery charges… |
-| disdain | 蔑视 | …strong disdain for women… |
-| liberated | 解放的 | …any liberated woman… |
-| chills | 寒意 | …still gave Billie chills… |
-| threes | 三个一组 | Things usually came in threes. |
-| baying for blood | 嗜血叫嚣 | Husband baying for blood… |
-| divulging | 透露 | …not divulging… |
-| bombshell | 爆炸性消息 | …this bombshell was. |
-| flip over | 翻转 | …her heart flip over… |
-| annulled | 宣告无效 | …her marriage was now annulled… |
-| impromptu | 即兴的 | …impromptu wartime wedding… |
-| tempered | 缓和 | …was tempered by the knowledge… |
-| betrayed | 背叛 | …she had been betrayed terribly. |
-| woodwork | 木制品 | …disappear back into the woodwork. |
-| stifling | 令人窒息的 | …the air had become stifling… |
-| suffocate | 窒息 | …enough to suffocate a small bird. |
-| off kilter | 不平衡 | …feeling off kilter. |
-| soldiered on | 继续前进 | She rolled her eyes and soldiered on… |
-| snatch | 抓住 | …Billie snatched that wandering hand… |
-| relenting | 屈服 | He screeched in pain, relenting. |
-| pondering | 思考 | …pondering on what Cooper had said. |
 
 ## 一句话总结
 

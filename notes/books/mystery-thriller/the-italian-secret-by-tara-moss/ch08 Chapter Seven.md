@@ -97,7 +97,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -105,61 +105,19 @@ modified: "2026-09-05"
 | clad in sequins | 穿着亮片的 | …sliding between the bodies clad in sequins… |
 | flashed gold and ivory | 闪烁着金色和象牙色 | …that flashed gold and ivory in the candlelight. |
 | coupe glass | 香槟杯 | …a coupe glass of bubbly liquid… |
-| cropped | 剪短的 | Her cropped black hair swung… |
 | with the kind of awe | 带着一种敬畏 | …with the kind of awe one might feel… |
-| elegant swan | 优雅的天鹅 | …watching an elegant swan— |
-| merely a duckling | 只是一只小鸭 | —oneself merely a duckling. |
-| in their finery | 穿着盛装 | …adults in their finery… |
-| so close to, and yet apart from | 如此接近却又分离 | …she was so close to, and yet apart from. |
-| pane of stained glass | 彩色玻璃窗 | …with its pane of stained glass… |
-| taper candle | 细蜡烛 | …save for a taper candle… |
-| heart swelled | 心跳膨胀 | Her heart swelled… |
-| threw open | 推开 | …she threw open the door… |
-| lean | 瘦削的 | …returned from the war, lean… |
-| look in his eye | 眼中的神情 | …with a look in his eye that seemed not to have been there before. |
-| scuffle | 扭打 | There was a scuffle at the steps… |
-| etched on his face | 刻在他的脸上 | …anger etched on his face. |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| crowded | 拥挤的 | …into the crowded room… |
-| slide | 滑动 | …sliding between the bodies… |
-| sequin | 亮片 | …clad in sequins… |
-| candlelight | 烛光 | …in the candlelight. |
-| laughing | 笑着 | Her mother was laughing… |
-| bubbly | 气泡酒 | …a coupe glass of bubbly liquid… |
 | cropped | 剪短的 | Her cropped black hair swung… |
 | sway | 摇摆 | …as she swayed… |
 | baroness | 男爵夫人 | …the baroness did not seem to notice… |
 | gaze | 凝视 | …who gazed at her mum… |
-| awe | 敬畏 | …with the kind of awe… |
 | merely | 仅仅 | …merely a duckling. |
-| finery | 盛装 | …adults in their finery… |
-| glamourous | 迷人的 | …a mysterious and glamourous world… |
-| wove | 穿行 | She wove through the room… |
-| emerge | 出现 | …and emerged at the hall… |
-| stained glass | 彩色玻璃 | …its pane of stained glass… |
-| comparatively | 相对地 | …colder and comparatively quiet… |
-| save for | 除了 | …dark, save for a taper candle… |
-| glow | 发光 | …glowing softly through the coloured glass. |
-| refuse | 拒绝 | Billie had refused to go to bed… |
-| swell | 膨胀 | Her heart swelled… |
-| throw open | 推开 | …threw open the door… |
-| return | 返回 | …returning from work. |
-| alone | 独自的 | He was not alone. |
-| less than | 不到 | It had been less than two years… |
-| look | 神情 | …a look in his eye… |
-| recognise | 认识 | Something Billie did not quite recognise. |
-| scuffle | 扭打 | There was a scuffle… |
-| fist | 拳头 | The woman's hands were in fists… |
-| wrist | 手腕 | …he had her by the wrists… |
-| push | 推 | …pushing her away… |
-| anger | 愤怒 | …anger etched on his face. |
-| happen | 发生 | What was happening? |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -168,56 +126,6 @@ modified: "2026-09-05"
 | gold | 金色 | …flashed gold and ivory… |
 | ivory | 象牙色 | …gold and ivory… |
 | light | 光 | …in the candlelight. |
-| mother | 母亲 | Her mother was laughing… |
-| hand | 手 | …in one hand. |
-| hair | 头发 | Her cropped black hair swung… |
-| music | 音乐 | …to the music… |
-| piano | 钢琴 | …played on their piano. |
-| chin | 下巴 | Chin high… |
-| eye | 眼睛 | …eyes closed… |
-| notice | 注意 | …did not seem to notice… |
-| mum | 妈妈 | …gazed at her mum… |
-| swan | 天鹅 | …an elegant swan— |
-| duckling | 小鸭 | —merely a duckling. |
-| adult | 成年人 | …adults in their finery… |
-| talk | 谈笑 | …swayed and talked and laughed… |
-| call out | 喊叫 | …and called out… |
-| world | 世界 | …part of a world Billie did not quite understand. |
-| mysterious | 神秘的 | …a mysterious and glamourous world… |
-| close | 接近的 | …so close to… |
-| apart | 分离的 | …and yet apart from. |
-| hall | 大厅 | …emerged at the hall… |
-| door | 门 | …by the front door… |
-| pane | 窗格 | …with its pane of stained glass… |
-| breath | 呼吸 | …and took a breath. |
-| cold | 冷的 | Here it was colder… |
-| quiet | 安静的 | …comparatively quiet… |
-| dark | 黑暗的 | …and dark… |
-| candle | 蜡烛 | …a taper candle… |
-| table | 桌子 | …on a hallway table… |
-| outside | 外面 | …and the light on outside… |
-| coloured | 有色的 | …through the coloured glass. |
-| father | 父亲 | Father. |
-| him | 他 | It was him… |
-| work | 工作 | …returning from work. |
-| Daddy | 爸爸 | Daddy, Daddy, Daddy. |
-| bed | 床 | …refused to go to bed… |
-| home | 家 | …until he was home. |
-| heart | 心脏 | Her heart swelled… |
-| door | 门 | …threw open the door… |
-| receive | 迎接 | …to receive him. |
-| dad | 爸爸 | Dad? |
-| alone | 独自 | He was not alone. |
-| war | 战争 | …returned from the war… |
-| lean | 瘦削的 | …lean… |
-| look | 神情 | …a look in his eye… |
-| woman | 女人 | …close to a woman… |
-| know | 知道 | …she didn't know. |
-| hands | 手 | The woman's hands were in fists… |
-| wrists | 手腕 | …he had her by the wrists… |
-| push | 推 | …pushing her away… |
-| anger | 愤怒 | …anger etched on his face. |
-| happen | 发生 | What was happening? |
 
 ## 一句话总结
 本章将时间跳回1920年，通过小 Billie 的眼睛目睹父亲与一神秘女人的争执——这是 Billie 童年记忆中的裂缝，也是全书意大利秘密的起点。

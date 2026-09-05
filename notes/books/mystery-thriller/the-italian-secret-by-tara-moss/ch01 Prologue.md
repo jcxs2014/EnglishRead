@@ -97,51 +97,35 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | torn violently from | 被暴力地从…拽离 | The young woman woke with a start, torn violently from troubled dreams… |
 | creature scrambling to escape | 拼命逃窜的生物 | Her heart was pounding in her chest like a creature scrambling to escape… |
 | devoid of | 完全缺乏；剥离 | This ugly narrative, devoid of the love that should have been at the centre of it… |
-| all-forgiving | 全然宽恕的 | …the painting of the Madonna was watching, serene and all-forgiving… |
 | ran out of puff | 喘不过气；喊哑嗓子 | …until her brother ran out of puff and she heard him collapse against the door… |
 | bawling uncontrollably | 无法控制地号啕大哭 | …she heard him collapse against the door, bawling uncontrollably. |
-| slur | 侮辱性字眼；污蔑 | …repeating the slur that he'd heard their father say… |
-| squarely | 正对着；结结实实地 | …he punched her squarely in the mouth… |
-| staggered | 蹒跚；踉跄 | …sending her staggering backwards. |
-| wrought | 造成（古体/文学） | …defiant yet scared at what he'd wrought… |
-| streaked with tears | 泪水纵横 | …his face streaked with tears. |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | woke with a start | 猛然惊醒 | The young woman woke with a start… |
 | split the night | 劈开夜色 | …a banging that split the night. |
-| panicked heartbeat | 惊慌的心跳 | …rushing blood and her panicked heartbeat loud in her ears. |
-| scrambling | 爬动；慌乱地挣扎 | …like a creature scrambling to escape… |
-| serene | 安详的；平静的 | …the painting of the Madonna was watching, serene and all-forgiving… |
-| pale moonlight | 苍白的月光 | …glowing faintly in the pale moonlight coming through her window. |
-| angry sobs | 愤怒的抽泣 | …her little brother said through the door between angry sobs. |
-| sprawling | 四脚朝天地倒下 | …her brother fell into the room, sprawling at her feet… |
-| heaving | （胸部）剧烈起伏 | …his chest heaving. |
-| defiant | 挑衅的；不服的 | …defiant yet scared at what he'd wrought… |
-| bawling | 号啕大哭 | …bawling uncontrollably. |
+| trembling | 颤抖的 | She held her face with a trembling hand… |
+| sprawled | 四脚朝天地倒下 | …her brother fell into the room, sprawling at her feet… |
+| spat | 恶狠狠地说（spit 过去式） | …he spat. |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | pounding | 剧烈跳动 | Her heart was pounding in her chest… |
+| scrambling | 爬动；慌乱地挣扎 | …like a creature scrambling to escape… |
 | respite | 喘息；暂时的缓解 | …looking for respite from her father's anger… |
 | slur | 辱骂 | …repeating the slur that he'd heard their father say… |
 | pyjamas | 睡衣 | …angrily wiped it on his pyjamas. |
-| spat | 吐出（spit 的过去式） | …the little boy spat, pushing his sister into the bed… |
-| frame | （床）架 | …she hit her head on the hard wooden frame… |
-| hallway | 走廊 | …as he ran into the dark hallway of the family home. |
-| daybreak | 黎明；破晓 | …to give her shelter until daybreak. |
-| led away | 被带走 | …as her mother and father led her away. |
 
 ## 一句话总结
 

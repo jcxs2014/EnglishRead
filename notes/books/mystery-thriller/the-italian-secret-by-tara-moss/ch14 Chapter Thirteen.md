@@ -77,7 +77,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -86,113 +86,26 @@ modified: "2026-09-05"
 | swollen | 肿胀的 | …her swollen body… |
 | exhausted to the core | 疲惫到核心 | …exhausted to the core… |
 | belly stirred | 腹部悸动 | Her belly stirred with new life… |
+
+### ⭐⭐
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
 | fell away | 消失 | …her old life fell away… |
 | desolation | 凄凉 | The days had passed in desolation… |
 | steaming | 航行 | …the ship steaming along unfamiliar coastlines… |
 | sandstone cliffs | 砂岩悬崖 | …the sandstone cliffs of Australia… |
 | befriended | 与…交朋友 | …had befriended her at least… |
-| sizing up | 打量 | …sizing up her swelling belly… |
-| without judgement | 没有评判 | …seemingly without judgement. |
-| disowned her | 与她断绝关系 | …parents who had disowned her… |
-| growing burden | 增长的负担 | …a growing burden in her stomach… |
-| bleak and wide open | 凄凉而开阔 | …as bleak and wide open as the seas… |
-| tossing the vessel | 托着船 | …the seas tossing the vessel that held her. |
 
-### ⭐⭐ 进阶
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | wool blanket | 羊毛毯 | …into her wool blanket… |
 | cold | 寒冷的 | …feeling feverish and cold… |
 | body | 身体 | …her swollen body… |
-| exhausted | 疲惫的 | …body exhausted to the core… |
 | alive | 有活力的 | …more alive than it had ever been. |
 | belly | 腹部 | Her belly stirred… |
-| new life | 新生命 | …with new life… |
-| old life | 旧生活 | …her old life fell away… |
-| miles | 英里 | …so many miles behind her. |
-| days | 日子 | The days had passed… |
-| ship | 船 | …the ship steaming… |
-| coastline | 海岸线 | …along unfamiliar coastlines… |
-| Australia | 澳大利亚 | …the sandstone cliffs of Australia… |
-| disappear | 消失 | …soon disappeared in the open ocean. |
-| open ocean | 开阔的海洋 | …disappeared in the open ocean. |
-| lip | 嘴唇 | Her lip was healing. |
-| heart | 心脏 | Her heart would take longer. |
-| heal | 愈合 | Her lip was healing. |
-| take longer | 需要更长时间 | Her heart would take longer. |
-| kindly | 善良的 | One kindly old Italian woman… |
-| old | 老的 | …old Italian woman… |
-| Italian | 意大利的 | …old Italian woman… |
-| woman | 女人 | …old Italian woman… |
-| at least | 至少 | …had befriended her at least… |
-| shrug | 耸肩 | …with a shrug… |
-| seemingly | 似乎地 | …seemingly without judgement. |
-| judgement | 评判 | …without judgement. |
-| dialect | 方言 | …in a dialect she did not fully understand… |
-| discern | 辨别 | …but from what she could discern… |
-| escape | 逃离 | …to escape some kind of difficult circumstance… |
-| terremoto | 地震（意大利语） | …there had been a terremoto—an earthquake— |
-| earthquake | 地震 | …terremoto—an earthquake— |
-| birth place | 出生地 | …in her birth place… |
-| determined | 坚定的 | …she was determined to return… |
-| village | 村庄 | …to what remained of her village… |
-| intention | 意图 | …with the intention of making her way… |
-| cemetery | 墓地 | …into the cemetery when the time came. |
-| connection | 联系 | Some connection. |
-| letter | 信 | A letter from parents… |
-| parents | 父母 | …from parents who had disowned her… |
-| burden | 负担 | …a growing burden in her stomach… |
-| stomach | 胃 | …in her stomach… |
-| address | 地址 | …the address of a family of strangers. |
-| strangers | 陌生人 | …a family of strangers. |
-| future | 未来 | It seemed to her that the future… |
-| bleak | 凄凉的 | …was as bleak and wide open… |
-| seas | 大海 | …as the seas tossing the vessel… |
-| vessel | 船只 | …the vessel that held her. |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| she | 她 | She huddled… |
-| her | 她的 | …her wool blanket… |
-| into | 进入 | …huddled into… |
-| feeling | 感到 | …feeling feverish… |
-| and | 和 | …feverish and cold… |
-| to | 到 | …to the core… |
-| the | 这个 | …the core… |
-| yet | 却 | …and yet more alive… |
-| than | 比 | …than it had ever been. |
-| it | 它 | …it had ever been. |
-| had | 有（have 过去式） | …it had ever been. |
-| ever | 曾经 | …it had ever been. |
-| been | 是（be 过去分词） | …it had ever been. |
-| with | 随着 | …with new life… |
-| as | 当…时 | …even as her old life… |
-| so | 如此 | …so many miles… |
-| many | 许多 | …so many miles… |
-| behind | 在…后面 | …behind her. |
-| in | 在…里 | …in desolation… |
-| along | 沿着 | …along unfamiliar coastlines… |
-| unfamiliar | 陌生的 | …unfamiliar coastlines… |
-| soon | 很快 | …soon disappeared… |
-| would | 会 | Her heart would take longer. |
-| who | 谁 | …who had disowned her… |
-| what | 什么 | But what did she have? |
-| did | 做（do 过去式） | But what did she have? |
-| have | 有 | But what did she have? |
-| from | 来自 | A letter from parents… |
-| a | 一个 | A letter from parents… |
-| of | 的 | …a family of strangers. |
-| was | 是（be 过去式） | It seemed to her that the future… |
-| to her | 对她来说 | It seemed to her… |
-| that | 那个 | …that the future… |
-| as | 像 | …as bleak and wide open… |
-| wide | 宽阔的 | …wide open… |
-| open | 开阔的 | …wide open… |
-| tossing | 托举 | …tossing the vessel… |
-| held | 握住（hold 过去式） | …that held her. |
 
 ## 一句话总结
 1907年印度洋，怀孕的 Francesca 在前往澳大利亚的船上，不知未来如何——她将遇到 Barry Walker，开始一段改变两个家族命运的故事。

@@ -117,7 +117,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -125,14 +125,9 @@ modified: "2026-09-05"
 | coiled snake | 盘起的蛇 | …she was a coiled snake. |
 | blustered | 咆哮；虚张声势 | 'I . . . I won't stand for this,' the man blustered. |
 | steel behind the ivories | 牙齿后面藏着钢铁（外柔内刚） | …with steel behind the ivories. |
-| menacingly | 威胁性地 | …poked one finger menacingly into the smoky air… |
 | darken one's door | 登门（不速之客） | …the brute who had just darkened her office door. |
-| near invisible | 近乎隐形 | …but also near invisible to some. |
-| last straw | 最后的稻草（忍耐极限） | …it must have been the last straw. |
-| shiner | 黑眼圈（被打青的眼） | …saw what she had feared—a shiner, covered expertly with makeup. |
-| laid a hand on | 对…动手（暴力） | …the first time he laid a hand on her… |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -141,46 +136,16 @@ modified: "2026-09-05"
 | stillness | 静止；沉着 | Behind her stillness and restraint… |
 | restraint | 克制 | Behind her stillness and restraint… |
 | stand for | 忍受；容忍 | 'I . . . I won't stand for this…' |
-| following around | 到处跟踪 | 'Following me around…' |
-| break up | 拆散；破坏 | …trying to break up marriages… |
-| spat | 恶狠狠地说（spit 过去式） | …he spat. |
-| eyed | 打量；注视 | …eyed her client… |
-| brute | 粗人；野兽般的男人 | …married to the brute… |
-| insights | 洞察；了解 | …she had some insights as to the cause. |
-| underestimated | 被低估的 | …not only underestimated… |
-| remarkable | 非凡的 | …her remarkable ability… |
-| black eye | 黑眼圈 | He gave her a black eye. |
-| under one's breath | 低声地 | …she said under her breath. |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | private investigator | 私家侦探 | Private investigator Billie Walker… |
 | reception desk | 接待桌 | …the edge of the reception desk… |
-| skirt suit | 裙装 | …navy skirt suit… |
 | cigarette | 香烟 | …behind her cigarette… |
 | predicament | 困境 | …brought his predicament upon himself. |
-| displeased | 不悦的 | 'Yes, I imagine you are displeased…' |
-| barged in | 闯入 | …who had barged in… |
-| menace | 威胁 | …with as much menace as he could summon. |
 | unimpressed | 不以为意的 | …Billie Walker was unimpressed. |
-| rant | 咆哮；激昂的长篇大论 | …Mr Elliott continued his rant… |
-| swing | 挥拳 | …he might take a swing at her… |
-| scowl | 皱眉 | Billie scowled. |
-| esteemed | 受尊敬的 | …my esteemed colleague… |
-| interject | 插话 | …she interjected before he could go on. |
-| blanched | 脸色变白 | At this he blanched. |
-| sobered | 使清醒 | …seemed to have sobered him somewhat. |
-| flexed | 握紧（拳头） | His fists flexed and clenched. |
-| caricature | 夸张的形象 | …devolving into an angry caricature… |
-| pop his cap | 气爆（俚语） | …as though he might soon pop his cap. |
-| scuffle | 扭打 | …waste energy with a pointless scuffle… |
-| tear | 撕裂 | …wish to tear her favourite new suit. |
-| duly | 适当地；正式地 | …your views have been duly registered. |
-| in due course | 在适当的时候 | …you will doubtless hear from your wife's lawyers in due course. |
-| take a powder | 离开（俚语） | 'Take a powder,' she said… |
-| fisticuffs | 拳斗 | I don't want the possibility of any fisticuffs. |
 
 ## 一句话总结
 

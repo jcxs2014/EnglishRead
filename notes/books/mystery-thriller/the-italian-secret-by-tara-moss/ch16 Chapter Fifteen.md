@@ -97,7 +97,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -106,36 +106,18 @@ modified: "2026-09-05"
 | you belong in | 你属于 | 'Billie, my girl, you belong in a city like that,' |
 | beautiful city | 美丽城市 | 'A beautiful city for a beautiful woman,' |
 | close by train | 坐火车很近 | …with all of Europe so close by train. |
-| great opportunity | 很好的机会 | This a great opportunity.' |
+
+### ⭐⭐
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
 | sighed inwardly | 松了一口气 | Billie sighed inwardly with relief… |
 | overt endorsement | 明确支持 | …to have this overt endorsement from her father. |
 | harboured concerns | 感到担忧 | …she harboured concerns about leaving… |
 | forging this new path | 开辟新道路 | …forging this new path on foreign soil. |
 | foreign soil | 外国土地 | …on foreign soil. |
-| keep an eye on（关注） | 'You will keep an eye on what is happening in Germany, won't you?' |
-| rounding up | 围捕 | …rounding up citizens… |
-| incarcerating | 监禁 | …and incarcerating them in huge prisons… |
-| Konzentrationslager | 集中营（德语） | …they call Konzentrationslager. |
-| tinderbox | 火药桶 | It's a tinderbox. |
-| first-hand | 亲眼 | …see the situation first-hand.' |
-| caught her up in a sudden embrace | 突然拥抱 | …caught her up in a sudden embrace… |
-| crushing her against his trench coat | 把她压在他的风衣上 | …crushing her against his trench coat. |
-| junior agents | 初级代理人 | …the junior agents had gone… |
-| foreign shores | 外国海岸 | …leaving him for foreign shores. |
-| breadcrumbs to follow | 面包屑去跟随 | 'I'll retire when I stop finding breadcrumbs to follow,' |
-| mouths to feed | 嘴要喂 | '…there are mouths to feed.' |
-| let go | 被解雇 | …the rest of the staff had been let go… |
-| leaner | 更艰难 | …as things became leaner… |
-| evaporated | 蒸发 | The von Hooft fortune may have evaporated… |
-| stickiest drops | 最粘的滴 | …except for the stickiest—and one might argue the sweetest—drops. |
-| more than okay | 非常好 | 'We will be more than okay.' |
-| mustn't worry | 不必担心 | 'You mustn't worry about us.' |
-| isn't big enough | 不够大 | 'Sydney isn't big enough to hold a young woman like you.' |
-| see you off | 送你 | '…we'll see you off.' |
-| seek your adventures | 寻找你的冒险 | 'Go and seek your adventures, Billie.' |
-| never regret it | 永远不会后悔 | 'You will never regret it.' |
 
-### ⭐⭐ 进阶
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -144,188 +126,6 @@ modified: "2026-09-05"
 | face | 脸 | …on his face. |
 | never | 从不 | …I never got there… |
 | when | 当…时 | …when I was in France… |
-| France | 法国 | …I was in France… |
-| always | 总是 | …but I always wanted to.' |
-| girl | 女孩 | 'Billie, my girl,…' |
-| city | 城市 | …in a city like that,' |
-| beautiful | 美丽的 | 'A beautiful city for a beautiful woman,' |
-| woman | 女人 | …a beautiful woman,' |
-| Europe | 欧洲 | …all of Europe… |
-| train | 火车 | …so close by train. |
-| opportunity | 机会 | This a great opportunity.' |
-| sigh | 叹气 | Billie sighed inwardly… |
-| relief | 宽慰 | …with relief… |
-| endorsement | 支持 | …overt endorsement… |
-| father | 父亲 | …from her father. |
-| stop | 停止 | Not that anyone could have stopped her… |
-| once | 一旦 | …once she'd made up her mind… |
-| made up her mind | 下定决心 | …she'd made up her mind… |
-| harbour | 怀有 | …she harboured concerns… |
-| concern | 担忧 | …concerns about leaving… |
-| job | 工作 | …her job in Sydney… |
-| Sydney | 悉尼 | …in Sydney… |
-| new | 新的 | …this new path… |
-| path | 道路 | …new path… |
-| soil | 土地 | …on foreign soil. |
-| Germany | 德国 | 'You will keep an eye on what is happening in Germany, won't you?' |
-| intend | 打算 | 'Yes, I intend to,' |
-| confirm | 确认 | …she confirmed. |
-| story | 故事 | …a lot of stories coming out… |
-| Hitler | 希特勒 | 'Dad, there are a lot of stories coming out . . . Hitler's government…' |
-| government | 政府 | …Hitler's government… |
-| citizen | 公民 | …rounding up citizens… |
-| prison | 监狱 | …in huge prisons… |
-| call | 称为 | …they call Konzentrationslager. |
-| next | 下一个 | …opening one close to Weimar next. |
-| everyone | 每个人 | Everyone is anxious… |
-| anxious | 焦虑的 | Everyone is anxious… |
-| plan | 计划 | …about his plans to expand… |
-| expand | 扩张 | …plans to expand the borders… |
-| border | 边境 | …the borders of Germany. |
-| base | 基地 | 'I'll use Paris as my base,' |
-| situation | 情况 | …see the situation first-hand.' |
-| proud | 骄傲的 | 'I'm proud of you, Billie, my girl,' |
-| embrace | 拥抱 | …a sudden embrace… |
-| lose | 失去 | …almost made her lose her breath… |
-| breath | 呼吸 | …lose her breath… |
-| trench coat | 风衣 | …his trench coat. |
-| usual | 像往常一样 | As usual… |
-| smell | 闻起来 | …he smelled of Lucky Strikes… |
-| cologne | 古龙水 | …and his familiar cologne. |
-| end | 结束 | It was the end of office hours; |
-| hour | 小时 | …office hours; |
-| agent | 代理人 | …the junior agents had gone… |
-| client | 客户 | …the clients at home worrying. |
-| worry | 担心 | …at home worrying. |
-| just | 只是 | It was just Billie and her dad… |
-| many | 许多 | …so many times before. |
-| memory | 记忆 | There were so many memories here… |
-| grown up | 长大 | …Billie was all grown up… |
-| leave | 离开 | …and leaving him… |
-| shore | 海岸 | …for foreign shores. |
-| retire | 退休 | 'I'll retire when I stop finding breadcrumbs to follow,' |
-| breadcrumb | 面包屑 | …finding breadcrumbs to follow,' |
-| follow | 跟随 | …breadcrumbs to follow,' |
-| besides | 此外 | 'Besides,' he added, |
-| mouth | 嘴 | '…there are mouths to feed.' |
-| feed | 喂养 | '…mouths to feed.' |
-| eat | 吃 | Ella did not eat much… |
-| staff | 工作人员 | …the rest of the staff… |
-| sell | 卖 | …they'd sold the Potts Point mansion. |
-| mansion | 豪宅 | …the Potts Point mansion. |
-| lady's maid | 侍女 | …her mother's lady's maid… |
-| part | 分开 | …could never be parted. |
-| fortune | 财富 | The von Hooft fortune… |
-| wine | 酒 | …like so much wine left in a glass in the sun; |
-| glass | 玻璃杯 | …in a glass in the sun; |
-| sun | 太阳 | …in the sun; |
-| little | 少的 | …there was little left… |
-| drop | 滴 | …the sweetest—drops. |
-| argue | 争论 | …one might argue the sweetest—drops. |
-| sweet | 甜的 | …the sweetest—drops. |
-| much | 许多 | …not so much that… |
-| okay | 好的 | 'We will be more than okay.' |
-| promise | 承诺 | 'Don't worry about us, promise me.' |
-| matter | 关系 | 'It doesn't matter how early,' |
-| early | 早的 | 'It doesn't matter how early,' |
-| send | 送 | '…we'll see you off.' |
-| adventure | 冒险 | 'Go and seek your adventures, Billie.' |
-| regret | 后悔 | 'You will never regret it.' |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| Paris | 巴黎 | 'Paris,' Barry Walker said… |
-| say | 说 | …Barry Walker said… |
-| face | 脸 | …on his face. |
-| never | 从不 | …I never got there… |
-| when | 当…时 | …when I was in France… |
-| France | 法国 | …I was in France… |
-| always | 总是 | …but I always wanted to.' |
-| girl | 女孩 | 'Billie, my girl,…' |
-| city | 城市 | …in a city like that,' |
-| beautiful | 美丽的 | 'A beautiful city for a beautiful woman,' |
-| woman | 女人 | …a beautiful woman,' |
-| Europe | 欧洲 | …all of Europe… |
-| train | 火车 | …so close by train. |
-| opportunity | 机会 | This a great opportunity.' |
-| sigh | 叹气 | Billie sighed inwardly… |
-| relief | 宽慰 | …with relief… |
-| support | 支持 | …overt endorsement… |
-| father | 父亲 | …from her father. |
-| stop | 停止 | Not that anyone could have stopped her… |
-| once | 一旦 | …once she'd made up her mind… |
-| mind | 头脑 | …made up her mind… |
-| worry | 担心 | …she harboured concerns… |
-| job | 工作 | …her job in Sydney… |
-| Sydney | 悉尼 | …in Sydney… |
-| new | 新的 | …this new path… |
-| path | 道路 | …new path… |
-| soil | 土地 | …on foreign soil. |
-| Germany | 德国 | 'You will keep an eye on what is happening in Germany, won't you?' |
-| happen | 发生 | …what is happening in Germany… |
-| intend | 打算 | 'Yes, I intend to,' |
-| confirm | 确认 | …she confirmed. |
-| story | 故事 | …a lot of stories coming out… |
-| Hitler | 希特勒 | 'Dad, there are a lot of stories coming out . . . Hitler's government…' |
-| government | 政府 | …Hitler's government… |
-| citizen | 公民 | …rounding up citizens… |
-| prison | 监狱 | …in huge prisons… |
-| call | 称为 | …they call Konzentrationslager. |
-| next | 下一个 | …opening one close to Weimar next. |
-| everyone | 每个人 | Everyone is anxious… |
-| anxious | 焦虑的 | Everyone is anxious… |
-| plan | 计划 | …about his plans to expand… |
-| expand | 扩张 | …plans to expand the borders… |
-| border | 边境 | …the borders of Germany. |
-| base | 基地 | 'I'll use Paris as my base,' |
-| situation | 情况 | …see the situation first-hand.' |
-| proud | 骄傲的 | 'I'm proud of you, Billie, my girl,' |
-| hug | 拥抱 | …a sudden embrace… |
-| breath | 呼吸 | …almost made her lose her breath… |
-| coat | 外套 | …his trench coat. |
-| usual | 像往常一样 | As usual… |
-| smell | 闻起来 | …he smelled of Lucky Strikes… |
-| end | 结束 | It was the end of office hours; |
-| hour | 小时 | …office hours; |
-| agent | 代理人 | …the junior agents had gone… |
-| client | 客户 | …the clients at home worrying. |
-| worry | 担心 | …at home worrying. |
-| just | 只是 | It was just Billie and her dad… |
-| many | 许多 | …so many times before. |
-| memory | 记忆 | There were so many memories here… |
-| grown up | 长大 | …Billie was all grown up… |
-| leave | 离开 | …and leaving him… |
-| shore | 海岸 | …for foreign shores. |
-| retire | 退休 | 'I'll retire when I stop finding breadcrumbs to follow,' |
-| breadcrumb | 面包屑 | …finding breadcrumbs to follow,' |
-| follow | 跟随 | …breadcrumbs to follow,' |
-| besides | 此外 | 'Besides,' he added, |
-| mouth | 嘴 | '…there are mouths to feed.' |
-| feed | 喂养 | '…mouths to feed.' |
-| eat | 吃 | Ella did not eat much… |
-| staff | 工作人员 | …the rest of the staff… |
-| sell | 卖 | …they'd sold the Potts Point mansion. |
-| mansion | 豪宅 | …the Potts Point mansion. |
-| maid | 侍女 | …her mother's lady's maid… |
-| part | 分开 | …could never be parted. |
-| fortune | 财富 | The von Hooft fortune… |
-| wine | 酒 | …like so much wine left in a glass in the sun; |
-| glass | 玻璃杯 | …in a glass in the sun; |
-| sun | 太阳 | …in the sun; |
-| little | 少的 | …there was little left… |
-| drop | 滴 | …the sweetest—drops. |
-| argue | 争论 | …one might argue the sweetest—drops. |
-| sweet | 甜的 | …the sweetest—drops. |
-| much | 许多 | …not so much that… |
-| okay | 好的 | 'We will be more than okay.' |
-| promise | 承诺 | 'Don't worry about us, promise me.' |
-| matter | 关系 | 'It doesn't matter how early,' |
-| early | 早的 | 'It doesn't matter how early,' |
-| send | 送 | '…we'll see you off.' |
-| adventure | 冒险 | 'Go and seek your adventures, Billie.' |
-| regret | 后悔 | 'You will never regret it.' |
 
 ## 一句话总结
 Barry 鼓励 Billie 去巴黎工作——这是 Billie 人生的转折点，也是她后来在巴黎遇到前夫 Jack 的起点。

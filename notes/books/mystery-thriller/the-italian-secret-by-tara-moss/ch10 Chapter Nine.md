@@ -117,7 +117,7 @@ modified: "2026-09-05"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
+### ⭐⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -125,21 +125,9 @@ modified: "2026-09-05"
 | loneliest embrace | 最孤独的拥抱 | …the loneliest embrace. |
 | set his sights on | 将目光投向 | …having set his sights on European domination… |
 | utter extinction | 彻底灭绝 | …and the utter extinction of the Jews… |
-| idealised vision | 理想化愿景 | …different from his idealised vision in any way. |
-| filing stories | 撰写报道 | …filing stories for the English papers… |
-| sudden illness | 突然患病 | …her father's severe and sudden illness… |
-| at great expense | 不惜一切代价 | …rushed to Australia at great expense… |
 | pulling favours | 拉关系 | …pulling favours to get on… |
-| no fewer than | 不少于 | …of no fewer than six flights… |
-| missed him by one day | 只晚了一天 | She had missed him by one day. |
-| pretenders | 伪装者 | …too low for the other mourners and pretenders to hear. |
-| utterly alone | 完全孤独 | Billie felt utterly alone. |
-| precisely | 正是 | …precisely what her father would not have wanted… |
-| requested | 要求 | …requested that she not do. |
-| knelt down | 跪下 | …knelt down on one knee… |
-| single white rose | 一朵白玫瑰 | …placing a single white rose… |
 
-### ⭐⭐ 进阶
+### ⭐⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
@@ -148,187 +136,16 @@ modified: "2026-09-05"
 | weep | 哭泣 | …and weep. |
 | sleep | 沉睡 | …I do not sleep . . . |
 | doubt | 怀疑 | Billie doubted her father had even entered a church… |
-| adult | 成年人 | …had even entered a church as an adult… |
-| except | 除了 | …except to marry Billie's mother… |
-| talk | 谈话 | …all the talk of the Lord guiding him… |
-| guide | 引导 | …the Lord guiding him… |
-| keep | 守护 | …and keeping him… |
-| seem | 似乎 | …seemed like words for another man… |
-| another | 另一个 | …another man, another time even. |
-| war | 战争 | The world was at war… |
-| Hitler | 希特勒 | …Hitler having set his sights on… |
-| European | 欧洲的 | …European domination… |
-| domination | 统治 | …European domination… |
-| world | 世界 | …even world domination… |
-| Jew | 犹太人 | …the Jews… |
-| political | 政治的 | …of political opponents… |
-| opponent | 对手 | …political opponents… |
-| same sex | 同性 | …those who loved the same sex… |
-| disabilities | 残疾 | …those who had disabilities… |
-| different | 不同的 | …or were different from his idealised vision… |
-| any way | 任何方式 | …in any way. |
-| Paris | 巴黎 | She'd been in Paris… |
-| English | 英国的 | …for the English papers… |
-| paper | 报纸 | …English papers… |
-| worried | 担心的 | …and worried about her husband's fate… |
-| husband | 丈夫 | …her husband's fate… |
-| fate | 命运 | …husband's fate… |
-| receive | 收到 | …when she'd received the news… |
-| news | 消息 | …received the news… |
-| severe | 严重的 | …severe and sudden illness… |
-| sudden | 突然的 | …severe and sudden illness… |
-| illness | 疾病 | …sudden illness… |
-| back home | 在国内 | …illness back home… |
-| rush | 冲 | …and had rushed to Australia… |
-| Australia | 澳大利亚 | …rushed to Australia… |
-| expense | 费用 | …at great expense… |
-| doom | 毁灭 | …and perhaps to the doom of her career… |
-| career | 事业 | …the doom of her career… |
-| pull | 拉 | …pulling favours… |
-| favour | 恩惠 | …pulling favours… |
-| get on | 登上 | …to get on a terrifically uncomfortable journey… |
-| terrifically | 极其 | …a terrifically uncomfortable journey… |
-| uncomfortable | 不舒服的 | …uncomfortable journey… |
-| journey | 旅程 | …uncomfortable journey… |
-| fewer | 更少的 | …no fewer than six flights… |
-| flight | 航班 | …six flights… |
-| land | 降落 | …only to land in Sydney too late. |
-| too late | 太晚 | …land in Sydney too late. |
-| miss | 错过 | She had missed him by one day. |
-| one day | 一天 | …missed him by one day. |
-| pastor | 牧师 | …the pastor continued. |
-| mourner | 哀悼者 | …too low for the other mourners and pretenders to hear. |
-| pretender | 伪装者 | …mourners and pretenders to hear. |
-| police | 警察 | Police officers. |
-| officer | 官员 | Police officers. |
-| client | 客户 | Clients. |
-| rival | 竞争对手 | Rival agents… |
-| agent | 代理 | Rival agents… |
-| striped | 条纹的 | …one with a striped suit… |
-| suit | 西装 | …a striped suit… |
-| fedora | 软帽 | …and a fedora… |
-| peek | 偷看 | …who kept peeking at her. |
-| gaze | 凝视 | She did not like his gaze… |
-| frown | 皱眉 | …his frown… |
-| know | 知道 | …did not know most of these people… |
-| care | 在乎 | …did not care to. |
-| utterly | 完全地 | Billie felt utterly alone. |
-| alone | 孤独的 | …felt utterly alone. |
-| edge | 边缘 | She stood at the edge of her father's grave… |
-| weep | 哭泣 | …weeping… |
-| precisely | 正是 | …precisely what her father would not have wanted… |
-| want | 想要 | …would not have wanted her to do… |
-| request | 要求 | …requested that she not do. |
-| close | 关闭 | The pastor closed his book… |
-| book | 书 | …closed his book… |
-| step | 迈步 | …Billie stepped forward… |
-| forward | 向前 | …stepped forward… |
-| kneel | 跪 | …knelt down on one knee… |
-| one knee | 单膝 | …knelt down on one knee… |
-| place | 放置 | …placing a single white rose… |
-| single | 单一的 | …placing a single white rose… |
-| white | 白色的 | …a single white rose… |
-| rose | 玫瑰 | …a single white rose… |
-| top | 顶部 | …on the top of her father's coffin. |
-| coffin | 棺材 | …her father's coffin. |
-| sorry | 对不起 | 'I'm sorry I wasn't here, Dad. I love you.' |
-| love | 爱 | 'I love you.' |
 
-### ⭐ 基础
+### ⭐
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stand | 站 | Do not stand by my grave… |
-| grave | 坟墓 | …by my grave… |
 | weep | 哭泣 | …and weep. |
 | sleep | 沉睡 | …I do not sleep . . . |
 | winter | 冬天 | …against the winter wind… |
 | wind | 风 | …winter wind… |
-| hold | 抱住 | Billie held herself… |
-| herself | 她自己 | …held herself… |
-| against | 对抗 | …against the winter wind… |
-| lonely | 孤独的 | …the loneliest embrace. |
-| embrace | 拥抱 | …loneliest embrace. |
-| world | 世界 | The world was at war… |
-| war | 战争 | …at war… |
-| Hitler | 希特勒 | …Hitler having set his sights on… |
-| sight | 视线 | …set his sights on… |
-| European | 欧洲的 | …European domination… |
-| domination | 统治 | …European domination… |
-| Jew | 犹太人 | …the Jews… |
-| political | 政治的 | …political opponents… |
-| opponent | 对手 | …political opponents… |
-| same | 相同的 | …the same sex… |
-| sex | 性别 | …same sex… |
-| disabilities | 残疾 | …disabilities… |
-| different | 不同的 | …different from his idealised vision… |
-| way | 方式 | …in any way. |
-| Paris | 巴黎 | She'd been in Paris… |
-| English | 英国的 | …for the English papers… |
-| paper | 报纸 | …English papers… |
-| worry | 担心 | …worried about her husband's fate… |
-| husband | 丈夫 | …her husband's fate… |
-| fate | 命运 | …husband's fate… |
-| receive | 收到 | …when she'd received the news… |
-| news | 消息 | …received the news… |
-| severe | 严重的 | …severe and sudden illness… |
-| sudden | 突然的 | …severe and sudden illness… |
-| illness | 疾病 | …sudden illness… |
-| home | 家 | …back home… |
-| rush | 冲 | …and had rushed to Australia… |
-| Australia | 澳大利亚 | …rushed to Australia… |
-| expense | 费用 | …at great expense… |
-| doom | 毁灭 | …and perhaps to the doom of her career… |
-| career | 事业 | …the doom of her career… |
-| pull | 拉 | …pulling favours… |
-| favour | 恩惠 | …pulling favours… |
-| get on | 登上 | …to get on a terrifically uncomfortable journey… |
-| terrifically | 极其 | …a terrifically uncomfortable journey… |
-| uncomfortable | 不舒服的 | …uncomfortable journey… |
-| journey | 旅程 | …uncomfortable journey… |
-| fewer | 更少的 | …no fewer than six flights… |
-| flight | 航班 | …six flights… |
-| land | 降落 | …only to land in Sydney too late. |
-| too late | 太晚 | …land in Sydney too late. |
-| miss | 错过 | She had missed him by one day. |
-| one day | 一天 | …missed him by one day. |
-| pastor | 牧师 | …the pastor continued. |
-| mourner | 哀悼者 | …too low for the other mourners and pretenders to hear. |
-| pretender | 伪装者 | …mourners and pretenders to hear. |
-| police | 警察 | Police officers. |
-| officer | 官员 | Police officers. |
-| client | 客户 | Clients. |
-| rival | 竞争对手 | Rival agents… |
-| agent | 代理 | Rival agents… |
-| striped | 条纹的 | …one with a striped suit… |
-| suit | 西装 | …a striped suit… |
-| fedora | 软帽 | …and a fedora… |
-| peek | 偷看 | …who kept peeking at her. |
-| gaze | 凝视 | She did not like his gaze… |
-| frown | 皱眉 | …his frown… |
-| know | 知道 | …did not know most of these people… |
-| care | 在乎 | …did not care to. |
-| utterly | 完全地 | Billie felt utterly alone. |
-| alone | 孤独的 | …felt utterly alone. |
-| edge | 边缘 | She stood at the edge of her father's grave… |
-| weep | 哭泣 | …weeping… |
-| precisely | 正是 | …precisely what her father would not have wanted… |
-| want | 想要 | …would not have wanted her to do… |
-| request | 要求 | …requested that she not do. |
-| close | 关闭 | The pastor closed his book… |
-| book | 书 | …closed his book… |
-| step | 迈步 | …Billie stepped forward… |
-| forward | 向前 | …stepped forward… |
-| kneel | 跪 | …knelt down on one knee… |
-| one knee | 单膝 | …knelt down on one knee… |
-| place | 放置 | …placing a single white rose… |
-| single | 单一的 | …placing a single white rose… |
-| white | 白色的 | …a single white rose… |
-| rose | 玫瑰 | …a single white rose… |
-| top | 顶部 | …on the top of her father's coffin. |
-| coffin | 棺材 | …her father's coffin. |
-| sorry | 对不起 | 'I'm sorry I wasn't here, Dad. I love you.' |
-| love | 爱 | 'I love you.' |
 
 ## 一句话总结
 本章是 Billie 的"失去"主题高潮——父亲葬礼上的孤独与悲痛，同时丈夫 Jack 在战争中失踪——Billie 同时面对死亡与不确定性。
