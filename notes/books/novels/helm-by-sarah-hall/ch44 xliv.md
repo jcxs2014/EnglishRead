@@ -112,7 +112,6 @@ modified: "2026-09-05"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | `hangar` | 机库 | to the hangarage |
-| `helicopter` | 直升机 | He drives past a khaki military helicopter, its blades drooping, to the hangarage |
 | `coffee` | 咖啡 | a small enamel cup of black coffee |
 | `camera` | 相机 | Have you got your camera? |
 | `snow` | 雪 | There’s snow on the tops |
