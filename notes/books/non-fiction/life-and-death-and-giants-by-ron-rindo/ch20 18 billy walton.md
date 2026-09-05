@@ -155,14 +155,14 @@ modified: "2026-09-05"
 | `gurney` | 轮式担架 | the paramedics had unloaded a wheeled gurney |
 | `woefully` | 可悲地 | it looked woefully too small, like trying to put a whole side of beef on a bread board |
 | `binoculars` | 双筒望远镜 | Because my eyes aren't so good, I had my binoculars with me. |
+| `helicopter` | 直升机 | A helicopter had been summoned from University Hospital |
+| `ambulance` | 救护车 | By this time, the ambulance had driven out, and the paramedics had unloaded a wheeled gurney. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | `turf` | 草皮 | with those size 32 cleats sticking into the Camp Randall turf like roots |
-| `helicopter` | 直升机 | A helicopter had been summoned from University Hospital |
-| `ambulance` | 救护车 | By this time, the ambulance had driven out, and the paramedics had unloaded a wheeled gurney. |
 | `cones` | 锥形路标 | A police officer or security guard arranged orange plastic cones in a large circle around the fifty-yard line. |
 
 ---
