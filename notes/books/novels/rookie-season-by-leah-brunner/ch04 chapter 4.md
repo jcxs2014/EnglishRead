@@ -37,7 +37,7 @@ modified: "2026-09-06"
 
 > **原句 2:** "Men with handsome faces and dark eyes who think they can do whatever the hell they want, that's who."
 
-**中文理解**：迟到家长的画像：帅脸 + 深色眼睛 + 为所欲为。"that's who"的判官口吻，骂的是迟到的人， PTSD 的是"这类男人"——一竿子打翻一船人。
+**中文理解**：迟到家长的画像：帅脸 + 深色眼睛 + 为所欲为。"that's who"的判官口吻，骂的是迟到的人，应激的是"这类男人"——一竿子打翻一船人。
 
 **关键词**：handsome faces, whatever the hell, that's who
 
