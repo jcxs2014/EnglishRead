@@ -82,9 +82,9 @@ modified: "2026-09-05"
 
 ---
 
-> **原句 6:** Or perhaps Helm need only watch these humans fight... It is exceptional theatre down there, where the actors love and despise each other, help and betray each other, break whatever they've made.
+> **原句 6:** Or perhaps Helm need only watch these humans fight, struggling on the summit, grappling each other and spinning, as if in a dance.
 
-**中文理解**："又或许，Helm 只需要看着这些人搏斗……下面是一场何等精彩的剧场——演员们相爱又相轻，互助又互卖，亲手砸碎自己造出的一切。"
+**中文理解**："又或许，Helm 只需要看着这些人搏斗——在山顶上挣扎着，互相扭住、彼此旋转，像在跳舞。"（紧接的原文继续：那是一场何等精彩的剧场——演员们相爱又相轻，互助又互卖，亲手砸碎自己造出的一切。）
 
 **关键词**：`exceptional theatre`（绝佳剧场）/ `break whatever they've made`（砸碎自己造的）
 
