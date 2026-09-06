@@ -15,10 +15,10 @@ modified: "2026-09-05"
 
 ## 精读
 
-> **原句 1:** They were finishing up their conversation... Colm needed to go to the courthouse to, no doubt, bask in the glow of his victory.
+> **原句 1:** Colm needed to go to the courthouse to, no doubt, bask in the glow of his victory.
 
-- **中文理解**：他们快聊完了……Colm 要去法院——毫无疑问，去沐浴他胜利的光辉。
-- **关键词**：bask in the glow——沐浴光辉；his victory——他的胜利
+- **中文理解**：Colm 得去法院了——毫无疑问，去沐浴他胜利的光辉。（前句原文：两人快聊完了，女服务员得回去干活了。）
+- **关键词**：bask in the glow——沐浴光辉；no doubt——毫无疑问；his victory——他的胜利
 - **为什么这样写**：反派的"实况解说"给主角的阳光上了滤镜——bask（晒太阳般享受）的用词带着毒意：在 JD 的叙事里，Colm 的康复是"得意"，不是"痊愈"。胜利的定语（his victory）刻意模糊：Tiffany 落网的功劳，在 JD 的账本上是他的（他救的人破的案）。
 - **读者视角提示**：对照 ch70 结尾 ch69 的"things are slowly getting better"——同一个上午，两份天气报告。本书的叙事哲学终章摊牌：阳光是真的，阴影也是真的，它们共用一片天空。
 
