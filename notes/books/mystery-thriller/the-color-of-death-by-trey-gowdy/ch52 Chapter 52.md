@@ -96,6 +96,8 @@ modified: "2026-09-05"
 | creamer | 奶油球 | "plastic creamer cups" |
 | salt-and-pepper | 花白相间的（发色） | "close-cropped salt-and-pepper hair" |
 | fear of missing out | 错失恐惧（FOMO） | "I have a fear of missing out." |
+| whiteboard | 白板 | "She positioned a whiteboard at the end of the room." |
+| notebooks | 笔记本 | "New notebooks, pens, a glass, and a coffee cup sit before each seat." |
 | workaround | 变通方案 | "we have a workaround through Martin's burner phone." |
 | partial match | 部分匹配 | "The DNA on the tissue is only a partial match." |
 | take stock | 盘点 | "we were getting together to take stock of where we are" |
@@ -104,9 +106,7 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| whiteboard | 白板 | "She positioned a whiteboard at the end of the room." |
 | pitcher | 水壶 | "A water pitcher; a coffee carafe" |
-| notebooks | 笔记本 | "New notebooks, pens, a glass, and a coffee cup sit before each seat." |
 | column | 栏，列 | "Column four is the most important column of all" |
 | mints | 薄荷糖 | "assortments of sugar, tissues, and some wrapped mints" |
 
