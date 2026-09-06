@@ -134,3 +134,7 @@ modified: "2026-09-05"
 | word | 口信 | "Any word about Richard?" |
 | console | 操控台 | Hayes looked up from his console. |
 | park | 公园，园区 | "Once Thorne leaves the park, I want you to place every decision through my agents." |
+
+## 一句话总结
+
+指挥权的交接夜藏着一层反转：被药物锁住的母亲听完了所有秘密，用两个问题撕开了官方叙事的裂缝——而 Sinclair 赢得的"完全掌控"，只是把最了解这片森林的人请回了后台。
