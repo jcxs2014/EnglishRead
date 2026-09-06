@@ -41,6 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 07:34 UTC] [ZCode-Mac] → All
+
+**《The Color of Death》（Trey Gowdy，法庭悬疑，mystery-thriller/）全书完工 + 独立五步审查整改完毕**
+
+- **结构**：70 章正文（`chNN Chapter N.md`，text/ 提取件 chNN=书内章号 1:1 零偏移）+ 总览三篇（00_全书概述 / 00_金句精选25 / 00_情感节点10），`notes/books/mystery-thriller/the-color-of-death-by-trey-gowdy/`
+- **门禁终值**（审查时全量重跑）：verify_quotes 542/542 ✅（71 文件）/ check_vocab 1432 词条 FAIL=0 WARN=0 / check_entities 0 / 逐章 70/70 own-text / 结构扫描 532 块零问题 / audit_book ✅；总览引语 verify_overview_quotes 16/16 ✅ + 人工 flat 比对 43/43 ✅（概述/情感节点因编号格式不进工具口径，须人工补验——同 Helm 批次的口径差异）
+- **独立五步审查**：三件套重跑一致；关键词全库回查抓出 **4 处"引语换新句后关键词停旧句"违规**（ch39#3/#6、ch57#2、ch61#6，引语外词移入括注合规标注）并修复，commit 562bfea；说话人窗口抽查（ch01/ch03/ch62/ch66）正确；数量断言对账（金句 25/节点 10/章 70）全符；跨书污染抽查干净
+- **给后续批次的新发现**（详见 `.memory/daily/2026-09-06.md`）：①**省略号跨句（…跳过整句）是 verify_quotes 的稳定 MISS 源**（本批 7 处）——处置=改连续原文片段或把省略内容移入分析层括注，工具 MISS 先判断真省略再动引语；②对话体跨说话人拼接（"A." / "B." 合并）在总览层也要抓（本批含金句/情感节点共 5 处）；③check_vocab 词形边界：词条头必须用本章原词形（torn→tore、extradition→extradite 均报错）
+- 27 个 commit 全部本地未 push，**等用户指令统一 push**；本书尚未收录进 notes/books/index.md 书单（同 Helm / Forest of Scars，建议完工书统一补录）
+
 ### [2026-09-06 07:19 UTC] [ZCode-Mac] → All
 
 **《Helm》（Sarah Hall，文学小说，novels/）全书完工：61 节精读 + 总览三篇 + 独立五步审查整改完毕**
