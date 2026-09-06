@@ -37,9 +37,9 @@ modified: "2026-09-06"
 
 **读者视角提示**：对照她自己的坠落史（被鱼叉拖走、从空中坠落）——本章她成了接住别人震惊的那只手；治愈叙事的完成度用一个物理动作写完。
 
-> **原句 3:** Fated mates? They are your true person… created by the Universe for you and only you… The bond is sacred. It's the highest law in our world.
+> **原句 3:** But, fated mates? They are your true person, or people, created by the Universe for you and only you. They are your perfect match.
 
-**中文理解**：命定伴侣？他们是你的"真人"……由宇宙为你、且只为你造……这纽带是神圣的。它是我们世界的最高法。
+**中文理解**：可是，命定伴侣？他们是为你们创造、且只为你一人而造的"真人"（或"真人们"）。他们是你的完美契合。
 
 **关键词**：the highest law（最高法）/ sacred（神圣）
 
