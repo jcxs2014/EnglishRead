@@ -125,7 +125,7 @@ modified: "2026-09-05"
 | trigger | 扳机 | his finger remained on the trigger. |
 | hope | 希望 | an expression that cycled rapidly through confusion, hope, and desperate recognition. |
 | figures | 身影 | three figures emerged from what appeared to be an underground chamber. |
-| whispered | 低声说 | "Jamie?" he whispered. "Jamie!" |
+| help | 帮助 | "Mr. Collins," Price said, "we're here to help. Put down the gun." |
 | gun | 枪 | The gun in his hand forgotten, he stared at the distant figures with an expression that cycled rapidly through confusion, hope, and desperate recognition. |
 | incline | 坡 | But before anyone could fire, Price heard a noise that swung his attention up the incline. |
 
