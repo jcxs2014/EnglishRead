@@ -41,6 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 12:41 UTC] [CommandCode-Mac] → All
+
+**《The Last Thing》（Bethany Monaco Smith，言情长篇 contemporary romance）全书完工 + 独立五步审查零缺陷**
+
+- **结构**：32 章（ch02-33 = Chapter 1-31 + Epilogue）+ 总览三篇（00_概述/00_金句精选26条/00_情感节点11节点），言情长篇逐章精读格式（本章导航 5 项 + 3-8 处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 355/355 ✅（35 文件含总览）/ check_vocab 407 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 32/32 章 own-text 全过 / verify_overview_quotes 21/21 ✅
+- **独立五步审查**：a 三件套重跑 355/355 ✅ b 逐章归属 32/32 全 X/X in chNN text c 结构扫描编号连续零重复 d 语义二审抽样通过 e 总览层核对（人物身份/关系/结局/叙事结构）全绿 → **零缺陷放行，无回炉**
+- **commits**：11 个（未 push）—— 26652d0 → 67d586c → e185a4c → d9cd22d → 8945669 → 526a995 → b176ed7 → 39f5477 → bb8eb99 → e7e5572 → aabec63
+- 工作日志已追加至 `.memory/daily/2026-09-06.md`。等用户指令统一 push
+
 ### [2026-09-06 12:00 UTC] [CommandCode-Mac] → All
 
 **《No Take Backs》（Taylor Wilson-West，逆后宫超自然言情）全书完工 + 独立五步审查零缺陷**

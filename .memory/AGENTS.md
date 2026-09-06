@@ -20,6 +20,13 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-06 新增
+
+- **The Last Thing（Bethany Monaco Smith）言情长篇 contemporary romance**：32 章（Chapter 1-31 + Epilogue），双 POV（Hallie/Deck 交替），逐章精读格式 + 3 篇总览。核心主题：命运 vs 选择、爱的勇气、家庭的多样性。Hallie 从"反爱情"到"说出我爱你"，Deck 从"控制狂"到"fun partner"。独立五步审查零缺陷。verify 355/355 ✅ / vocab FAIL=0 / entities 0。
+- **No Take Backs（Taylor Wilson-West）逆后宫超自然言情**：29 章 + Epilogue，4 POV（Moraine/Soren/Rhea/Benny），逐章精读精简格式 + 3 篇总览。独立五步审查零缺陷。verify 219/219 ✅ / vocab FAIL=0 / entities 0。
+- **Taken by Sinistre Ange（Sinistre Ange）言情长篇 erotic romance**：14 章 + 3 篇总览，含绑架/性支配/斯德哥尔摩综合征题材。独立五步审查修复 7 处缺陷。verify 133/133 ✅ / vocab FAIL=0 / entities 0。
+- **Memories Like Fangs（Chelsey J. León）奇幻言情**：44 章 + 3 篇总览，双时间线（1960s/1990s），Rina/Emilio 跨种族恋爱。独立五步审查整改 27 处。verify 248/248 ✅ / vocab FAIL=0 / entities 0。
+
 ### 2026-09-05 新增
 - **Wild Dark Shore（Charlotte McConaghy）言情长篇小说**：75 章（6 POV：Rowan/Fen/Dominic/Orly/Raff/Alex），逐章精读精简格式 + 3 篇总览。核心主题：爱与牺牲、家庭与血缘、自然与文明。Rowan 为寻夫来到 Shearwater 岛，融入 Salt 一家，最终为保护 Orly 淹死在竖井中。独立审查修复 31 个 FAIL + 5 处实体误判。verify 386/386 ✅ / vocab FAIL=0 / entities 0。
 - **The Lack of Light（Nino Haratischwili）文学小说**：25 章，逐章精读精简格式 + 3 篇总览。四人友谊与创伤叙事（Dina/Keti/Ira/Nene），横跨第比利斯 1987 至布鲁塞尔 2019。独立审查修复 30 处词汇例句未命中 + ch09 重复引语块。verify 191/191 ✅ / vocab FAIL=0 / entities 0。
