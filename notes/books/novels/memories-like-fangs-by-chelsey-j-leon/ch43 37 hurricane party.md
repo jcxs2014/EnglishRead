@@ -80,7 +80,7 @@ modified: "2026-09-06"
 | 词条 | 释义 | 例句（原文） |
 |------|------|------|
 | looming | 逼近 | I could feel that looming even as I sat in the trunk |
-| twirled | 卷绕；旋弄 | She twirled one of my locs around her fingers |
+| leaned | 倚靠 | Byrd leaned her head on my chest |
 | smolder | （魅惑的）凝视 | I gave her her favorite smolder. |
 
 ## 一句话总结

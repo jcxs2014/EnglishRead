@@ -80,7 +80,7 @@ modified: "2026-09-06"
 
 | 词条 | 释义 | 例句（原文） |
 |------|------|------|
-| warded | 挡开 | a slap that I managed to dodge（warded 语义场，dodge 为原文词） |
+| stinging | 刺痛的 | in one long, stinging swallow |
 | shielded | 掩护 | Mama was already in front of me, shielding me with her body |
 | crumpled | 瘫软垮塌 | Aunt Carol-Kay crumpled in her sons' arms. |
 
