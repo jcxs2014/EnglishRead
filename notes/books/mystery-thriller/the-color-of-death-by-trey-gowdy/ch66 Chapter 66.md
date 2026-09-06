@@ -43,10 +43,10 @@ modified: "2026-09-05"
 - **为什么这样写**：物证的"二次出生"——ch14 的垃圾桶发现、ch48 的"无名指裂口"疑点、ch63 护士戒指割手套的顿悟，三线在此合拢成一句判决：戒指是钻石的、戴在原配手上。But it wasn't 的斩钉截铁是全案的音调最高点——过去四十次"看起来像"全部让位于这一次"就是"。
 - **读者视角提示**：回想 ch13 Travis 的"测谎吓人可以定案不行"、ch25 的 A 型血——这副手套从被找到的第一天起就攥着答案，只等一个读得懂它的人。垃圾桶的物证学（手套→纱布→药丸）在本章完成全书终极闭环：它第三次说出真相。
 
-> **原句 5:** "Rachel Simone's DNA, in the form of blood, trapped between the center diamond and the gallery of your engagement ring... that ring was on your hand when you stabbed Rachel to death."
+> **原句 5:** "Rachel Simone's DNA, in the form of blood, trapped between the center diamond and the gallery of your engagement ring. The only way that blood got there was if the ring was actually on the killer's hand. And since you never even took it off when you had surgery, that ring was on your hand when you stabbed Rachel to death."
 
-- **中文理解**："Rachel Simone 的 DNA——以血液的形式——卡在你订婚戒的主钻与戒托之间……你捅死 Rachel 的时候，那枚戒指就戴在你手上。"
-- **关键词**：trapped between——卡在……之间；the gallery of your engagement ring——订婚戒的戒托；stabbed Rachel to death——捅死 Rachel
+- **中文理解**："Rachel Simone 的 DNA——以血液的形式——卡在你订婚戒的主钻与戒托之间。那些血能进去的唯一途径，是戒指戴在凶手手上。而你连做手术都不摘它——所以你捅死 Rachel 的时候，它就在你手上。"
+- **关键词**：trapped between——卡在……之间；the gallery of your engagement ring——订婚戒的戒托；the only way——唯一途径；stabbed Rachel to death——捅死 Rachel
 - **为什么这样写**：终局证据以"空间"作证——钻石与戒托之间的缝隙，是十九刀的每一刀都撼不动的小宇宙：血进去了，就出不来。这句同时回收 ch51 的伏笔（她到办公室讨戒指"取回遗物"）：她想洗的物证，一直泡在司法程序里。
 - **读者视角提示**：对照 ch24 "十九刀"的凶手画像（"太脏、太血腥"）与 ch28 Mae 的"仪式性羞辱"——钻戒的缝隙一锤定音：凶手是戴婚戒的女性，是"原配"。本书的武器心理学、耻辱仪式学、物证轨迹学，在同一枚戒指上完成总装。
 
