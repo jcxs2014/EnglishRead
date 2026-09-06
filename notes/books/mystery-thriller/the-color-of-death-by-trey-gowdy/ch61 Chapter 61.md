@@ -29,9 +29,9 @@ modified: "2026-09-05"
 - **为什么这样写**：ch28 的"自建监狱"由 Mae 接管并改判——她确认刑期不合法（crime you didn't commit），并宣布越狱计划。prison 的隐喻从 Colm 的自我诊断变成医嘱的对症名：他不是罪人，是错押的囚徒。越狱需要共犯——她自愿入伙。
 - **读者视角提示**：对照 ch56 "work was all I had left"——Mae 的方案不是还他工作，是还他"无罪之身"。心理治疗的司法化修辞，正合检察官的听法。
 
-> **原句 3:** "I made a career out of reading other people... And then I miss the most important signs for Ally. I failed the person who needed me the most at the time when she needed me the most."
+> **原句 3:** "I made a career out of reading other people, and I was good at it. And then I miss the most important signs for Ally. I failed the person who needed me the most at the time when she needed me the most."
 
-- **中文理解**："我靠'读懂别人'吃饭……却在最重要的信号前失明。我在她最需要我的时候，辜负了最需要我的人。"
+- **中文理解**："我靠'读懂别人'吃饭，而且一直读得很好。然后在最重要的信号前失明。我在她最需要我的时候，辜负了最需要我的人。"
 - **关键词**：reading other people——读人；the most important signs——最重要的信号；failed——辜负
 - **为什么这样写**：职业能力与职业盲区的对照修辞——他的"读人神功"（审讯课、微表情）在爱面前失效。双重最高级（most important / most needed / the most）的堆叠是自责的语法：他把失败的刻度调到无法再低。这句也是全书对他"为什么不放下"的最终解释：愧疚没有证人可盘问。
 - **读者视角提示**：对照 ch03 的"你会读人吗"讽刺——Rachel 读他只需一眼。读人是职业，读爱人才是功课，他挂了后者的科。
@@ -50,9 +50,9 @@ modified: "2026-09-05"
 - **为什么这样写**：死亡观的二选一是哀伤的哲学清单——他把"活"排除成唯一的坏选项。stuck in the middle 的"中间"恰是 Mae 下一句的战场：middle 被她重命名为 life。这是全书语言治疗的高光：不反驳感受，重命名感受。
 - **读者视角提示**：对照 ch59 "tired of living"——他给自己的状态找好了两种出口，都被 Mae 用第三条路没收。药物不在此章出现：药是语言。
 
-> **原句 6:** "What you call 'stuck in the middle,' they call 'life.' ... the middle is all you will ever have control over."
+> **原句 6:** "What you call 'stuck in the middle,' they call 'life.' I know you hate hearing this, but we are going to stay stuck in the middle a bit longer, Colm."
 
-- **中文理解**："你说的'卡在中间'，她们俩称之为'生活'。……中间地带，才是你唯一能掌控的东西。"
+- **中文理解**："你说的'卡在中间'，她们俩称之为'生活'。我知道你不爱听，但我们还要在这中间地带多待一阵子，Colm。"（她随后补上关键句：中间地带才是他唯一能掌控的。）
 - **关键词**：they call 'life'——她们称之为"生活"；have control over——能掌控
 - **为什么这样写**：Mae 的重命名手术——把"困"改成"住"，把"中间"改成"全部"。control 一词对检察官尤其对症：他控得住法庭控不了死亡，她把"控制权"的边界画回人间。以死者（they）的口吻代言，是哀伤治疗里最温柔的话术。
 - **读者视角提示**：对照 ch28 "换框架"医嘱——本章是这个疗法的完整执行。Mae 的语言手术没有麻醉：疼，但有效。
