@@ -91,7 +91,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| parapet | 城垛、矮护墙 | Bregan shielded his eyes against the rain and glanced up to the parapet where an undercover Nodtacht had shot at him during the insurrection. |
+| parapet | 城垛、矮护墙 | He shielded his eyes against the rain and glanced up to the parapet where an undercover Nodtacht had shot at him during the insurrection. |
 | ragged | 粗重紊乱的 | Her breathing was ragged, dangerously so. |
 | tatters | 破成碎片 | Though her body was in tatters, her face was whole. |
 | condemning | 定罪、指证 | She could still be put on a public stand without her wounds condemning Hulei's violence. |
