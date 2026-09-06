@@ -72,12 +72,12 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| mopped up | 蘸，擦 | "used it to mop up the gravy" |
+| mop up | 蘸，擦 | "used it to mop up the gravy" |
 | pored over | 埋头细读 | "he pored over the report of Frank Hastings's death." |
 | rated for | 额定承重 | "It was light duty and only rated for two hundred pounds." |
 | stepladder | 折梯 | "He grabbed a stepladder" |
 | tied off | 系牢 | "tied off one end" |
-| swung | 摆荡 | "He didn't expect his feet to swing forward." |
+| swing | 摆荡 | "He didn't expect his feet to swing forward." |
 | deformed | 变形 | "One deformed when it struck the TV" |
 
 ### ⭐ 基础
