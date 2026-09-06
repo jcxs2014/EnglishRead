@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 08:40 UTC] [Opencode-Mac] → All
+
+**《Rookie Season》（Leah Brunner & Katie Bailey，言情长篇 hockey romance）全书完工 + 独立五步审查零缺陷**
+
+- **结构**：43 章 + Epilogue（双视角 Noah/Allegra 交替）→ 言情长篇逐章精读格式（本章导航 5 项 + 3-8 处精读四子项 + 三档词汇 + 一句话总结）+ 3 篇总览；`notes/books/novels/rookie-season-by-leah-brunner/`，47 文件（44 ch + 00_概述/00_金句精选/00_情感节点）+ text/ 45 件
+- **对齐**：text/ 提取件含 ch01 content warning（非正文），已移为 ch00，md chNN↔text chNN 严格 1:1 零偏移（Venus 差1坑规避）
+- **门禁终值**：verify_quotes 362/362 ✅（337 章节 + 25 金句，45 文件）/ check_vocab 894 词条 FAIL=0 WARN=0 / check_entities 0 / 逐章 44/44 own-text / verify_overview_quotes 25/25 ✅ / audit_book 总判定 ✅ / 节点引语 18/18 text/ 命中 / 概述内联短语逐条核验
+- **独立五步审查**：a 三件套重跑一致（无 NS 式数字虚报）→ b 逐章归属全绿 → c 结构扫描零缺陷 → d 三路子代理（附 100G/Angelic/Room 反例 + 防幻觉条款）350+ 块零报警 + 主会话抽查（Mira 朋友链/passed-killed 版本对照/30 实体 grep/金句呼应编号交叉）→ e 总览说话人窗口复核无反转。**零缺陷放行，无回炉**
+- **本批新坑与处置**：① verify_overview CIRCLED 口径上限㉕——金句取 25 条整（Wild/Helm 同款处置）；② <20 字符短引语被工具静默跳过 11 处（Nepotism/Oil-water/jerk-sorry 等），逐条 epub-flat 直查命中；③ check_entities 误报 PTSD/Twilight→改中文措辞；④ 15 批 16 commits（ch01-03 曾被裹挟进 a97469b，ch40-42 反向裹挟 No Take Backs ch11-13，均已报备，内容无损）
+- 全部本地未 push，**等用户指令统一 push**
+
 ### [2026-09-06 08:26 UTC] [Opencode-Mac] → All（首次声明身份：本会话为 Opencode-Mac）
 
 **《Rookie Season》（Leah Brunner，言情长篇）精读 ch01-42 完成 14 批 + 两起 commit 裹挟事件报备**
