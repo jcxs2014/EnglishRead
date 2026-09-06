@@ -106,7 +106,6 @@ modified: "2026-09-06"
 | gurgled | （喉咙里）咕哝出 | the words caught in my throat wetly and came out as a gurgled hiss |
 | unfurled | 展开 | my wings and tail unfurled from my tattoos |
 | stifled | 被闷住；受压制 | However, my wings were stifled under my sweater and coat. |
-| twang | 口音；弦声 | Simone's melodic voice with her slightest Southern twang was muffled through Byrd's locs. |
 
 ### ⭐ 基础
 

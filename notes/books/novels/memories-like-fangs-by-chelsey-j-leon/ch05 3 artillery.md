@@ -99,6 +99,7 @@ modified: "2026-09-06"
 | woozy | 虚弱站不稳的 | Byrd seemed woozy on her feet |
 | bigot | 偏执狂；（种族）歧视者 | so your father is a super-bigot? |
 | snark | 毒舌；挖苦 | Her snark had me fighting a smile |
+| twang | 口音；弦声 | Simone’s melodic voice with her slightest Southern twang was muffled through Byrd’s locs. |
 
 ### ⭐ 基础
 
