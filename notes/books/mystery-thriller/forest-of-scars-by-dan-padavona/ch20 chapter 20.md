@@ -52,7 +52,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：凶手给绑架补上最后一块"正当性"拼图：他不是在伤害孩子，而是在"保存"世界上最后一群还看得见美的眼睛。把受害者的年龄变成资质证明——这套逻辑让他七年的筛选参数（8-11 岁）从变态偏好升格为"抢救纯真"的准入标准。
 
-**读者视角提示**：与 ch12 "children see colors more vividly"合并阅读：凶手的"美学哲学"全部建立在"孩子看得更真"的观察上——真实的观察 + 疯狂的结论。这种半真半假，是他能屡屡得手的原因。
+**读者视角提示**：与本章凶手稍后的断言 "Children see colors more vividly than adults" 合并阅读：凶手的"美学哲学"全部建立在"孩子看得更真"的观察上——真实的观察 + 疯狂的结论。这种半真半假，是他能屡屡得手的原因。
 
 > **原句 5:** "My father died in woods like these," the man said. "I was seven years old. He'd taken me camping, just the two of us."
 

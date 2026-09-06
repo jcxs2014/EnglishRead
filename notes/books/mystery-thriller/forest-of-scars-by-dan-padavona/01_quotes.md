@@ -45,7 +45,7 @@ modified: "2026-09-05"
 - **中文**："保存在它们最完美的时刻。"（ch03）
 - **上下文**：Wolf 讲述 Equinox Killer 的签名——死者指间夹叶，"像压在书页里的花"。
 - **为什么重要**：凶手美学的第一次完整表述。收藏、保存、完美——三个词构成他二十七年的作案说明书。
-- **呼应关系**：ch01 "We wouldn't want to damage something so perfect"、ch20 "What you call death, I call love"——美学的残忍化逐步升级。
+- **呼应关系**：ch01 "We wouldn't want to damage something so perfect"、ch32 "What you call death, I call love"——美学的残忍化逐步升级。
 
 ⑦ **"It's not about time. It's about conditions."**
 
@@ -150,14 +150,14 @@ modified: "2026-09-05"
 - **中文**："这个世界从未善待过那些看见更深真相的人。"（ch12）
 - **上下文**：Jamie 骂他"You're crazy"之后，凶手把疯癫诊断收编为殉道叙事。
 - **为什么重要**：邪教语言的自我豁免机制——先知的语法被用来给捕食上保险。
-- **呼应关系**：ch20 "What you call death, I call love"、ch34 "Death is only a doorway"——他的每一层自我叙事都比上一层更自洽，也更危险。
+- **呼应关系**：ch32 "What you call death, I call love"、ch34 "Death is only a doorway"——他的每一层自我叙事都比上一层更自洽，也更危险。
 
 ㉒ **"No one dies, Jamie. They transcend."**
 
 - **中文**："没有人会死，Jamie。他们只是超脱。"（ch37）
 - **上下文**：浓烟灌入地下囚室时，Cicatrex 的声音在 Jamie 脑内回响——洗脑的完成形态：受害者替他背书教义。
 - **为什么重要**：紧接的两个词"A lie."是全书最短的祛魅。在窒息边缘，语言退化为真伪的二值判断。
-- **呼应关系**：ch20 "What you call death, I call love"——神学的巅峰与破产隔着 17 章。
+- **呼应关系**：ch32 "What you call death, I call love"——神学的巅峰与破产隔着 5 章。
 
 ㉓ **"I was nine when Jillian died."**
 

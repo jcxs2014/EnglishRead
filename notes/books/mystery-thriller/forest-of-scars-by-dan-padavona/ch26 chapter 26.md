@@ -22,7 +22,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：开篇三句完成一次神像的描金与凿裂：sanctuary 之上承接 ch01"森林是共犯"的全部历史，而"Until now"独立成段——两个词把 26 章的秩序推翻：今晚，猎场的主人第一次变成了猎物。圣所开始漏风。
 
-**读者视角提示**：把"at one with"与 ch04 "the woods were one with Logan Wolf"对读——"与森林一体"这个句式在本书里是掠食者的王座标记，而现在，两个"一体"的人正进入同一场围猎。
+**读者视角提示**：把"at one with"与 ch04 "the woods were one with the serial killer known as Logan Wolf"对读——"与森林一体"这个句式在本书里是掠食者的王座标记，而现在，两个"一体"的人正进入同一场围猎。
 
 > **原句 2:** sending leaves spiraling down like confetti celebrating some macabre festival
 
@@ -52,7 +52,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：凶手的敌我识别有一条意外的人道主义标准：他不把 Bell 团队归为"执法者"，而归为"同类"——摆脱了程序的人。在这本把"程序 vs 荒野"反复对撞的书里，凶手给出了最极端的判断：只有法外之人配做他的对手。
 
-**读者视角提示**：本章的镜像图书馆再添一册：ch14 Thorne 说"cut from the same cloth"（Sinclair 认 Bell）、ch26 凶手说"the same deadly patience"（认 Bell 团队）——每个人都用"同类认证"向对手致敬。这片森林里最高的赞美，是承认对方危险。
+**读者视角提示**：本章的镜像图书馆再添一册：ch16 Sinclair 说"We're cut from the same cloth"（认 Bell）、ch26 凶手说"the same deadly patience"（认 Bell 团队）——每个人都用"同类认证"向对手致敬。这片森林里最高的赞美，是承认对方危险。
 
 > **原句 5:** The most dangerous predator was one with nothing to lose.
 
@@ -82,7 +82,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：本章最大的情报炸弹埋在一句务实的排兵布阵里：备用地——"prepared years ago"。七年的仪式有 B 计划，意味着追捕方锁定的火塔可能只是"主展馆"，而收藏家的仓库网络远比想象的大。Jamie 的转移风险第一次超过营救窗口的风险。
 
-**读者视角提示**：回看 ch19 "Six locations matching those criteria"——他的选址清单与 Wolf 的侧写高度重合，现在你明白为什么：他真的把每一处都建了。追凶变成了一场拆弹：剪错任何一根线，展品就会被搬走。
+**读者视角提示**：回看 ch19 "six potential locations matching those criteria"——他的选址清单与 Wolf 的侧写高度重合，现在你明白为什么：他真的把每一处都建了。追凶变成了一场拆弹：剪错任何一根线，展品就会被搬走。
 
 > **原句 8:** The boy would have to wait a little longer for his evening session.
 

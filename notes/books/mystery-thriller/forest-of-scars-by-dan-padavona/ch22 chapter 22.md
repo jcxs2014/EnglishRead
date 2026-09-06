@@ -32,7 +32,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：Bell 的噩梦是档案与想象的杂交：画面复刻证据照片，而"还活着、还有意识"是创伤脑补出的最坏一层——Jillian 不是死后 被摆成看日出，而是被逼着看完了日出才死。省略号斩断的半句，是全书最不忍说完的一句话。
 
-**读者视角提示**：这个梦与 ch03 的仪式档案（"posed...watching the sunrise"）只差一个时间差：生前看 vs 死后摆。Bell 的潜意识在替她核对凶手演化的方向——下一句她就会把它说成理论。
+**读者视角提示**：这个梦与 ch04 的仪式档案（"They were posed" "As if they were watching the sunrise"）只差一个时间差：生前看 vs 死后摆。Bell 的潜意识在替她核对凶手演化的方向——下一句她就会把它说成理论。
 
 > **原句 3:** "Wolf's analysis assumes the killer's methodology remains static. But serial offenders change. They refine their techniques, change their patterns to avoid detection. What if Equinox becomes God's Hand and murders his victims right away?"
 
@@ -42,7 +42,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：Bell 把 profiler 界的公理（行为惰性）翻成变量：二十三年的仪式惯性可能在压力下折叠。这个问题同时攻击两个基座——Wolf 的档案（72 小时铁律）和 Jamie 的剩余时间。作者让她以创伤当事人身份提出最专业的质疑：直觉与训练在同一个句子里合流。
 
-**读者视角提示**：回看 ch19 Wolf 的"Absolute certainty"——现在你有它的反题。两个都是 Bell 团队的头脑，一个信守模式，一个怀疑模式。谁对， Jamie 的命说了算。
+**读者视角提示**：回看 ch17 Wolf 的"Absolute certainty"——现在你有它的反题。两个都是 Bell 团队的头脑，一个信守模式，一个怀疑模式。谁对， Jamie 的命说了算。
 
 > **原句 4:** According to the intercepted communications, Jamie's father had disappeared from the campsite multiple times. He'd had time to snatch his son and hide him somewhere. Was Richard Collins the killer? Was murdering his child his ultimate act?
 

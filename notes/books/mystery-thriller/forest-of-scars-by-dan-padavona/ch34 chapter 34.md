@@ -52,7 +52,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：凶手的核心教义用两个自然隐喻打包：蛇蜕（肉体是可抛弃的包装）与门（死亡是通道而非终点）。比喻的高明在于它们都"半真"——蜕皮与门都是真实存在的自然/建筑现象，谎言只藏在那个"只"字里。Jamie 在本章末拿起铅笔，正是被这扇"门"的想象撬开的。
 
-**读者视角提示**：与 ch20 "What you call death, I call love"连读：他的教义已经完成从"定义之争"到"意象灌输"的降维——不再跟你辩论，直接给你看画面。对大人讲逻辑，对孩子放幻灯。
+**读者视角提示**：与 ch32 "What you call death, I call love"连读：他的教义已经完成从"定义之争"到"意象灌输"的降维——不再跟你辩论，直接给你看画面。对大人讲逻辑，对孩子放幻灯。
 
 > **原句 5:** "He went into the woods in search of you and lost his way. Just like my own father. So you see, my boy, there is no one to return home to."
 

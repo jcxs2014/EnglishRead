@@ -22,7 +22,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：全书的救援装置最后一次出场被写成食腐者：它盘旋（等待）、无用（降不下来）、机械（没有意志）。vulture 的比喻冷得精准——救援的到来不等于救援的发生，就像秃鹫的到场不等于活人得救。制度的力量在本章被缩写成一个"徒劳的节奏"。
 
-**读者视角提示**：对照 ch25 的"night bird sang despair"——本书的鸟类谱系（鸟→秃鹫→机械秃鹫）一路从自然走到制度，叫声越来越响，救援越来越少。
+**读者视角提示**：对照 ch25 的"a night bird sang a melody of despair"——本书的鸟类谱系（鸟→秃鹫→机械秃鹫）一路从自然走到制度，叫声越来越响，救援越来越少。
 
 > **原句 2:** "Then crawl." Wolf's words were matter of fact and devoid of sympathy. "You're the Scalpel, remember? Nothing can kill you."
 

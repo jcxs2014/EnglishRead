@@ -52,7 +52,7 @@ modified: "2026-09-05"
 
 **为什么这样写**：职业信条以最直白的方式给出，而它在结构上是一枚保命符：本章结尾 Price 能活着撤退，靠的就是这条铁律——他承认 outnumbered，拒绝逞英雄。作者用他反衬全书另一个极端：那些永远"确信"的人（Thorne 的确定、Sinclair 的掌控、Wolf 的 certainty）个个都在走钢丝。
 
-**读者视角提示**：把这句与 ch19 "Absolute certainty"对读：这是两种求生哲学——怀疑自己的人会撤退，确信自己的人会孤军深入。本章之后，谁的哲学更长寿，林子说了算。
+**读者视角提示**：把这句与 ch17 "Absolute certainty"对读：这是两种求生哲学——怀疑自己的人会撤退，确信自己的人会孤军深入。本章之后，谁的哲学更长寿，林子说了算。
 
 > **原句 5:** Three sets of footprints, though the hard-packed forest floor revealed only fragments: different boot sizes, different gait patterns, moving in formation.
 

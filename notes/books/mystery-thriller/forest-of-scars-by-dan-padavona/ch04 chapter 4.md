@@ -78,7 +78,7 @@ modified: "2026-09-05"
 
 **中文理解**："好吧，"Bell 说。"你非要从我嘴里听到，那我就说。孩子们被摆成坐姿，背靠着树。仿佛正在看日出。"
 
-**关键词**：propped against a tree（倚靠在树上）/ as if watching the sunrise（仿佛在看日出）。
+**关键词**：propped against a tree（倚靠在树上）/ As if they were watching the sunrise（仿佛正在看日出）。
 
 **为什么这样写**：全章最黑暗的仪式细节交给 Bell 亲口说出，且用"as if"收尾——凶手的完成态不是杀死孩子，而是让他们"永远停在观看最美的颜色那一刻"。Wolf 逼她复述不是为了羞辱，而是确认她对仪式的理解深度：理解仪式，才能预测仪式。
 

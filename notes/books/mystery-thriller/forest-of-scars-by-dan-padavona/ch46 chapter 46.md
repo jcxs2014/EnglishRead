@@ -80,7 +80,7 @@ modified: "2026-09-05"
 
 **关键词**：the Laughing Man（笑面人）/ We knew too much（我们知道得太多）。
 
-**为什么这样写**：团队前史的碎片在本章拼出完整图案：他们曾替体制猎杀过一个怪物（Laughing Man），然后因"知道太多"被体制灭口——这正是 ch11 Harold 的命运预演（"noticing patterns someone powerful didn't want noticed"）。这句话给全书的追捕加了一条暗史：FBI 追的三个逃犯，是它自己造的武器。
+**为什么这样写**：团队前史的碎片在本章拼出完整图案：他们曾替体制猎杀过一个怪物（Laughing Man），然后因"知道太多"被体制灭口——这正是 ch11 Harold 的命运预演（"noticing patterns in case files that someone powerful didn't want noticed"）。这句话给全书的追捕加了一条暗史：FBI 追的三个逃犯，是它自己造的武器。
 
 **读者视角提示**：把"Laughing Man"与"Equinox Killer"并排：Bell 团队的履历证明他们杀过一个连环杀手——这是本章对峙里唯一无法反驳的资历。Sinclair 不信故事，但她必须面对战绩。
 
