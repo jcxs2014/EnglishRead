@@ -122,24 +122,24 @@ modified: "2026-09-06"
 | posthumous | 死后的 | cut on arm posthumous |
 | antemortem | 死前的 | cut on arm antemortem |
 | bone-chilling | 令人毛骨悚然的 | bone-chilling vibration of a baby's dying screams |
-| plod into | 陷入 | （未出现在原文） |
+| posthumous | 死后的 | A clipboard stated: Death by blood loss from a bullet wound, cut on arm posthumous. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | decompose | 腐烂 | The violent aftermath of illusion's reveal slowly decomposed |
-| stifle | 窒息 | I pressed my hand to my mouth and tried not to imagine the last moments of these poor souls' lives. |
+| autopsy | 尸检 | I don’t have time to autopsy all of ’em before they go to rot. |
 | gingerly | 小心翼翼地 | Gingerly, I lifted the corner of the sheet |
 | surgically precise | 外科手术般精准 | hers was surgically precise |
-| wade into | 陷入 | （未出现在原文） |
+| precise | 精确的 | Where the others were rough, hers was surgically precise. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | crouch behind | 蹲在…后面 | Crouching behind a cart of dead |
-| slide into lock | 滑入锁孔 | I waited for a minute, then crept around the cart and slid Bregan's key into the lock. |
+| cloth | 布 | staring at the small lump beneath the cloth. |
 | light an oil lamp | 点燃油灯 | I felt around for an oil lamp and lit it |
 | lift the corner of sheet | 掀开床单一角 | I lifted the corner of the sheet |
 | lodge in throat | 哽在喉咙 | A sob lodged in my throat |

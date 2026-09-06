@@ -173,7 +173,7 @@ modified: "2026-09-06"
 | brand one's vision | 烙印视野 | The sight of Bregan outside the orphanage had branded my vision like a sunspot. |
 | surgical precision | 手术刀般的精准 | With the surgical precision of a scalpel |
 | extricate | 抽出/剜出 | I'd extricated him from my past |
-| peeling apart | 剥开/拆解 | he wanted to peel me apart |
+| improvisation | 即兴发挥 | “Improvisation?” Unji cried out indignantly. |
 | hammer | 锤击/狂跳 | My heart hammered |
 | ribs threatened to break | 肋骨要断裂 | My ribs threatened to break as I turned to face Bregan |
 | winded | 气喘吁吁 | For some reason I was winded |
@@ -191,6 +191,8 @@ modified: "2026-09-06"
 | shove back | 推开 | With both of my hands, I shoved him back |
 | gape at | 目瞪口呆 | The guards gaped at their empty hands |
 | loomed over | 笼罩/威压 | The president's chair loomed over the elaborately set table, where the champagne glasses were already poured. |
+| champagne | 香槟 | The president's empty chair |
+| handcuffs | 手铐 | I grabbed a set of handcuffs |
 
 ### ⭐ 基础
 
@@ -200,9 +202,9 @@ modified: "2026-09-06"
 | expose arms | 露出手臂 | exposing their arms for inspection |
 | shawl | 披肩 | I resituated my expensive black shawl |
 | glitter | 发光/闪耀 | the glittering Trade headquarters |
-| champagne | 香槟 | The president's empty chair |
+
 | platform | 平台 | climbed to the head table's platform |
-| handcuffs | 手铐 | I grabbed a set of handcuffs |
+
 | snap | 啪嗒/突然 | With a snap of his fingers |
 
 ## 一句话总结

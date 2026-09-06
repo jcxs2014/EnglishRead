@@ -158,7 +158,7 @@ modified: "2026-09-06"
 | scar | 疤痕 | scars on his scalp from the Stav |
 | sling | 悬臂带 | one arm in a sling |
 | stitch | 缝线 | the stitches that made it hard for Bregan to look |
-| smirk | 假笑 | he said coolly |
+| bowed | 低头、鞠躬 | What was his father doing here? The other constables bowed their heads low as they darted out of Pa’s way. |
 | shove | 推/塞 | Bregan shoved his hands in his pockets |
 
 ## 一句话总结

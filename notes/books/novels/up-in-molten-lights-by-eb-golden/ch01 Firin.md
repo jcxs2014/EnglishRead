@@ -176,7 +176,7 @@ modified: "2026-09-06"
 | brachial | 臂部的 | The brachial . . . perhaps the most direct path to the heart |
 | conjoined | 联合的 | By all the saints and gods conjoined |
 | gouged into | 凿出 | An absence gouged into my chest |
-| devour | 吞噬 | （ch02出现） |
+| consciousness | 意识、清醒 | I needed someone to watch my back if I lost consciousness. |
 
 ### ⭐⭐ 进阶
 
@@ -185,22 +185,23 @@ modified: "2026-09-06"
 | billowed off | 波涌般升起 | Phantom heat billowed off my skin. |
 | nestled inside | 蜷缩在…中 | the promise of freedom nestled inside it |
 | distorted reflection | 扭曲的倒影 | as distorted as a reflection through rippling water |
-| writhe into screams | 尖叫着扭曲 | My growls wrenched into screams. |
+| nestled | 依偎于、安放于 | I clung to the memory of Eznur’s death, and the promise of freedom nestled inside it, as I gripped the edges of an operating table in the Zed District. |
 | gape at | 目瞪口呆地看 | The surgeon gaped at me. |
 | wheeze | 气喘 | I wheezed atop the table |
 | stumble into | 蹒跚走进 | He stumbled into the table |
 | throb | 跳动/疼痛 | Darkness throbbed at the edges of my vision |
 | croon | 低声哼唱 | Just rest here, he crooned. |
+| tourniquet | 止血带 | he tied a tourniquet beneath my armpit |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | scalpel | 手术刀 | then picked up a scalpel |
-| tourniquet | 止血带 | he tied a tourniquet beneath my armpit |
+
 | stitched | 缝合 | he stitched my leg back together |
 | buckle | 膝盖发软 | my knees buckled |
-| scrub | 抓/刮 | scraped the underside of the operating table |
+| clung | 紧抓不放 | I clung to the memory of Eznur’s death, and the promise of freedom nestled inside it, as I gripped the edges of an operating table in the Zed District. |
 | nausea | 恶心 | trying and failing to abate a wave of nausea |
 | quiver | 颤抖 | My fingers quivered |
 

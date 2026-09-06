@@ -95,14 +95,15 @@ modified: "2026-09-06"
 | skimmed | 略读/浏览 | Bregan skimmed them and was about to set them aside |
 | scribbled | 潦草地写 | The same person had scribbled Forwarding Address: Lobelia Manor, Isiv County, in red as well. |
 | slung around | 搭在…上 | her arm slung around the shoulders of a tall, gorgeous woman |
+| librarian | 图书管理员 | "Here are the documents I found regarding Esmai Nsumna and Iima Jain," the librarian said |
+| chandelier | 吊灯 | blocking the chandelier's light |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | folder | 文件夹 | The folder glared up at Bregan from the library desk |
-| librarian | 图书管理员 | "Here are the documents I found regarding Esmai Nsumna and Iima Jain," the librarian said |
-| chandelier | 吊灯 | blocking the chandelier's light |
+
 | stack of papers | 一叠文件 | he set the photo on top of the pile of papers |
 
 ## 一句话总结

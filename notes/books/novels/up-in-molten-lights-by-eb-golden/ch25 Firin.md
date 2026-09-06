@@ -91,7 +91,7 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | writhed | 扭动/挣扎 | We slipped and fell in the muddy alley, and my straw hat went flying. As he writhed |
-| sneered | 冷笑/咆哮 | "Hey, wait," the magician snarled |
+| rickety | 摇摇欲坠的 | On the top floor, the woman unlocked a room with a rickety four-poster bed, a trunk filled with moth-eaten blankets, and a torn armchair. |
 | scrutinize | 仔细审视 | The magician scrutinized me the same way Bregan had at the bar |
 | blood stained | 血迹斑斑的 | Blood stained the cuff of his shirtsleeve from where the boy had cut him. |
 | oozed | 渗出/慢慢流淌 | Warmth oozed into the cavern Bregan had gouged in my chest |

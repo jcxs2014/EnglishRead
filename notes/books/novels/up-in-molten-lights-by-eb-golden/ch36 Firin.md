@@ -117,6 +117,7 @@ modified: "2026-09-06"
 | mirroring | 映照 | Mirroring me |
 | flatly | 平淡地 | he said flatly |
 | thick and jagged | 厚实而锯齿状 | thick and jagged, just inside his hip bone |
+| shoulders | 肩膀 | When I grabbed his shoulders |
 
 ### ⭐ 基础
 
@@ -128,7 +129,7 @@ modified: "2026-09-06"
 | sweat | 汗水 | the taste of wine and sweat |
 | nails | 指甲 | the sharp sting of his nails raking down my back |
 | back | 背部 | raking down my back |
-| shoulders | 肩膀 | When I grabbed his shoulders |
+
 | thighs | 大腿 | he hooked my thighs |
 | waist | 腰部 | I wrapped my legs around his waist |
 | bed | 床 | We reached the bed at the back of the boat |

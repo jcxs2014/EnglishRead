@@ -96,13 +96,14 @@ modified: "2026-09-06"
 | knack for | 有…的天赋 | You have a knack for teaching |
 | dispersed | 散开 | The Players dispersed into the auditorium |
 | smoldered | 灼烧/暗涌 | Guilo, whose gaze smoldered with impatience |
+| orphanage | 孤儿馆 | the doctor treated children at the orphanage |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| orphanage | 孤儿馆 | the doctor treated children at the orphanage |
-| rehearsal | 排练 | the troupe laughed and rehearsed |
+
+| angst | 焦虑、不安 | ” Angst poured off her like heat from a forge. |
 | letter box | 信箱 | I went straight to the letter box |
 | corridor | 走廊 | I pulled him into the corridor |
 

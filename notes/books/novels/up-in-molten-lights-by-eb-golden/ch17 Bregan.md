@@ -158,7 +158,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | sea-ravaged | 海浪侵蚀的 | sea-ravaged age lines |
 | rock chair | 摇椅 | Her rocking chair creaked |
-| shell break | 贝壳破碎 | Shells broke under Bregan's boots |
+| smoke | 烟 | More plumes of smoke dotted the horizon. |
 | grimace | 做鬼脸 | He grimaced, counting nearly a dozen |
 | jut | 突出 | （未出现在原文） |
 | jut | 突出 | （未出现在原文） |

@@ -73,22 +73,23 @@ modified: "2026-09-06"
 |---------|------|------|
 | brain-numbing pain | 脑部剧痛 | I woke to a brain-numbing pain |
 | pent-up despair | 积压的绝望 | years of pent-up despair seeped through my flimsy, liquor-soaked defenses |
-| the Cradle | 摇篮（Zed孤儿院） | （跨章词汇，仅列目） |
+| earnestness | 认真恳切 | His earnestness had made me a little too myself, a little too open. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | congealed | 凝结/凝固 | My throat congealed |
-| seethed | 渗透/渗出 | years of pent-up despair seeped through |
+| persona | 人格面具、伪装人设 | He frowned down his dockworker persona’s greasy nose. |
 | stumbled | 蹒跚 | I stumbled down the boardwalk |
 | limped | 跛行/艰难前行 | （跨章词汇，仅列目） |
+| suntanned | 晒成褐色的 | the dockworker's suntanned arm |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| suntanned | 晒成褐色的 | the dockworker's suntanned arm |
+
 | crooked smile | 歪斜的笑容 | I remembered his crooked smile |
 | bead of blood | 血珠 | drawing a bead of blood |
 | pressed into | 压进 | I pressed into him, drawing a bead of blood |

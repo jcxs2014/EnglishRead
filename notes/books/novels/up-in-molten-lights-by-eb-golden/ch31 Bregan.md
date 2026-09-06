@@ -98,16 +98,17 @@ modified: "2026-09-06"
 | desolation | 荒凉/孤寂 | The desolation he exuded sent an echo through Bregan |
 | dilapidated | 破败的 | It was just as dilapidated on the inside |
 | threadbare | 破旧的 | threadbare sweater |
+| factories | 工厂 | the factories appeared |
+| farmhouse | 农舍 | a much smaller L-shaped farmhouse |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | train window | 火车车窗 | Outside the train window, a haunting emptiness stretched |
-| factories | 工厂 | the factories appeared |
+
 | huddle | 一群/聚簇 | a huddle of buildings |
 | carriage path | 马车道 | the hard-packed road faded into a two-track carriage path |
-| farmhouse | 农舍 | a much smaller L-shaped farmhouse |
 
 ## 一句话总结
 Bregan抵达Isiv County，探望Ma的家人——一个沉默的老人（祖父）和一个冷漠的姨妈。他得知Lobelia Manor的黑暗历史：多名儿童死亡（包括一个被领养的小女孩），园丁父子失踪。在深夜前往庄园时，他遇到了Unji Hulei——后者似乎一直在等他。

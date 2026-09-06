@@ -190,7 +190,7 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | plummet | 暴跌/垂直坠落 | Bregan was falling. Plummeting, spiraling |
-| disintegrate | 瓦解/崩裂 | disintegrating into a nothingness |
+| devastation | 毁灭性打击 | Bregan couldn’t stop reliving the devastation: the shots in the theater |
 | scour | 彻底搜索 | Bregan had scoured every inch of it |
 | fool's errand | 徒劳的任务 | Maybe it was a fool's errand |
 | nothing left to lose | 没有什么可失去的 | he had nothing left to lose |
@@ -201,7 +201,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | nothingness | 虚无 | disintegrating into a nothingness with no walls |
 | in pieces | 粉碎 | leaving the rebel movement and Bregan's life in pieces |
-| betray | 背叛 | Ma had spied for the Stav |
+| apology | 道歉 | So why would he expect anything more than a coward’s letter of apology? |
 | sink like a ship | 像船一样下沉 | his heart sinking like a ship |
 | fugitive | 逃亡者 | the other fugitives hid |
 | gaunt | 消瘦的 | her cheeks were gaunt |

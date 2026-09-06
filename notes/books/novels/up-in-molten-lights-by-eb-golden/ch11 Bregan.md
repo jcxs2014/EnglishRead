@@ -193,16 +193,17 @@ modified: "2026-09-06"
 | sat on a secret | 压着秘密 | Hulei had sat on the secret |
 | chest tightened | 胸口收紧 | Bregan's chest tightened |
 | espionage | 间谍活动 | victims of her espionage |
-| surveillance | 监视 | （ch12出现） |
+| intentional | 蓄意的 | Surely intentional. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| interrogate | 审讯 | Bregan asked |
+| elegant | 优雅的 | Once they were alone, Bregan asked, “What did he promise you earlier?” “Will I get a trial?” she asked in her heavy, elegant Vorstav’n accent. |
 | stagnant | 凝滞的 | Humid heat hung stagnant |
 | betray | 背叛 | Your mother betrayed the Reformists |
 | propped an ankle on his knee | 把脚踝搭在膝盖上 | （ch12出现） |
+| messenger children | 送信童 | Messenger children bolted in and out |
 
 ### ⭐ 基础
 
@@ -213,7 +214,6 @@ modified: "2026-09-06"
 | lock | 锁 | a guard to unlock a cell |
 | purse one's lips | 撇嘴 | Veska pursed her lips |
 | fold arms | 交叉双臂 | Hulei folded his arms |
-| messenger children | 送信童 | Messenger children bolted in and out |
 
 ## 一句话总结
 

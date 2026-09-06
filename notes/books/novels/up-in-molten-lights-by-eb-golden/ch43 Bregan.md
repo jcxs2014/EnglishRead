@@ -182,7 +182,7 @@ modified: "2026-09-06"
 | sling | 绷带/吊带 | to the sling binding his arm |
 | squared her shoulders | 挺起肩膀 | Ma squared her shoulders |
 | villain | 恶棍/反派 | make me the villain |
-| isolation | 隔离 | A few days of isolation should prime her |
+
 | prime | 使准备好/促使 | A few days of isolation should prime her |
 | cravat | 领结 | Hulei straightened his cravat |
 | lapels | 翻领 | The president pulled at his already-straight lapels |
@@ -190,10 +190,15 @@ modified: "2026-09-06"
 | cinched | 收紧/固定 | he'd cinched Hulei's trust |
 | temporarily | 暂时地 | at least temporarily |
 | cracked | 崩溃/崩溃 | before Ma cracked |
+| espionage | 间谍行为 | including espionage and sabotage |
+| insurrection | 起义 | I acted before the insurrection |
+| responsibility | 责任 | logic your way out of responsibility |
+
+| president | 总统 | kill the president |
+| isolation | 隔离 | A few days of isolation should prime her |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | prison | 监狱 | the old Stav prison |
 | corridor | 走廊 | interrogation corridor |
@@ -221,25 +226,22 @@ modified: "2026-09-06"
 | eyes | 眼睛 | she kept her eyes on Bregan |
 | name | 名字 | Esmai Nsumna |
 | treason | 叛国 | accused of treason |
-| espionage | 间谍行为 | including espionage and sabotage |
+
 | sabotage | 破坏 | including espionage and sabotage |
 | lawyer | 律师 | I would like a lawyer |
-| insurrection | 起义 | I acted before the insurrection |
+
 | power | 权力 | the people who now happen to be in power |
-| responsibility | 责任 | logic your way out of responsibility |
+
 | son | 儿子 | For Bregan |
 | secrets | 秘密 | You sold our secrets |
 | movement | 运动 | You set the movement back four years |
 | prison | 监狱 | You sent me to fucking prison |
-| villain | 恶棍 | make me the villain |
-| isolation | 隔离 | Isolate her for four days |
 | meals | 餐食 | Meals only |
 | days | 天 | four days |
 | son | 儿子 | your son, Asli, is alive |
 | death | 死亡 | faked his death |
 | claims | 指控 | treasonous claims |
 | mother | 母亲 | My mother is trying to help him |
-| president | 总统 | kill the president |
 
 ## 一句话总结
 Bregan在旧Stav监狱审讯Ma，向Hulei谎称Ma知道Asli的下落，争取到4天隔离时间。他必须在这4天内杀死Hulei，否则Ma会被处决。Bregan意识到他正在重复Ma的悲剧——为了保护所爱的人，他必须牺牲所爱的人。

@@ -157,7 +157,7 @@ modified: "2026-09-06"
 | caged in truth | 包裹在真相中 | The best lies were caged in truth |
 | flutter | 飘动/跳动 | Hulei's lashes fluttered |
 | weight of his pistol | 枪的重量 | The weight of his pistol taunted him |
-| slide in front of | 滑到...前面 | the security guard slid in front of the door |
+| cinched | 勒紧 | Did you know that girl was Nodtacht?” The question cinched around Bregan’s heart like barbed wire. |
 | swivel | 旋转 | he swiveled to glance around |
 
 ### ⭐ 基础
@@ -167,7 +167,7 @@ modified: "2026-09-06"
 | gun clicked | 枪发出咔嗒声 | another gun clicked |
 | reach for | 伸手去够 | Bregan reached for his gun |
 | raise hands | 举手 | raising his hands |
-| press his case | 提出他的情况 | Anything, he replied, matching the president's tone. |
+| caged | 如困笼中 | ” The best lies were caged in truth. |
 | grin | 露齿笑 | Hulei grinned |
 | splatter | 溅污 | Light-blue paint splattered one of his boots |
 

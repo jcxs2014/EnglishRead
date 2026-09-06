@@ -173,16 +173,16 @@ modified: "2026-09-06"
 | pried | 撬开 | I pried the board up, revealing a single fat envelope |
 | pop knife into palm | 把刀弹出到掌心 | I popped my hidden knife into my palm |
 | scramble back to feet | 急忙站起来 | the boy scrambled back to his feet |
+| straighten | 变直 | his hair straightened, and his skin darkened |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | creak | 嘎吱作响 | each floorboard creaked exactly as I remembered |
-| stumble upon | 意外遇见 | threw myself around the corner—and slammed into a much larger person |
+| props | 道具 | They looked mostly unused, like props in a play. |
 | tumble to the ground | 摔倒在地 | the cloaked figure and the messenger tumbled to the ground |
 | stab | 刺 | The boy stabbed a knife into Guilo's hand |
-| straighten | 变直 | his hair straightened, and his skin darkened |
 
 ## 一句话总结
 

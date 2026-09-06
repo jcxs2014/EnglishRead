@@ -190,6 +190,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | purpling horizon | 紫色地平线 | sunrise purpling the horizon |
 | in droves | 成群结队 | people were out in Fisherman's Wharf in droves |
+| straighten lapels | 拉直翻领 | He straightened his lapels |
 
 ### ⭐ 基础
 
@@ -198,7 +199,7 @@ modified: "2026-09-06"
 | set on fire | 放火 | The Grande was on fire |
 | throw bricks | 扔砖头 | People were throwing bricks |
 | wrap tight | 紧紧裹住 | Wrapping my sweater tight over my dress |
-| straighten lapels | 拉直翻领 | He straightened his lapels |
+
 | rustle to | 飘落到 | I threw the paper over the railing and listened to it rustle to the auditorium below. |
 
 ## 一句话总结

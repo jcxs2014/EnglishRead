@@ -162,17 +162,18 @@ modified: "2026-09-06"
 | whitewashed walls | 粉刷过的墙壁 | whitewashed walls and gleaming iron stove |
 | meander to | 漫步到 | Bregan gave Mezua a pointed look and meandered to a bookcase |
 | sidle up | 侧身靠近 | Mezua sidled up next to him |
-| steeple one's brow | 皱起眉头 | Mezua's brow pinched |
+| notably | 尤其、显著地 | Jaq and his daughter, Phinnin, were notably missing. |
 | chin swivel | 下巴转动 | Every chin swiveled |
+| nightshirt | 睡衣 | an apron over his nightshirt |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| nightshirt | 睡衣 | an apron over his nightshirt |
+
 | stew | 炖菜 | stirring a stew |
-| tip of one's cap | 脱帽致意 | With a tip of his cap, he left them behind |
-| dump | 倾倒 | （未出现在原文） |
+| apron | 围裙 | Tez captained a stove with an apron over his nightshirt, stirring a stew that filled the air with a nostalgic scent. |
+| dozen | 一打 | A dozen people crowded a center counter, most in linen nightdress. |
 
 ## 一句话总结
 

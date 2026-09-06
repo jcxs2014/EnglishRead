@@ -121,8 +121,8 @@ modified: "2026-09-06"
 |---------|------|------|
 | douse in memories | 沉浸在记忆中 | The sitting room's familiar smoky-sweet scent doused me in memories |
 | dissonance | 不和谐 | The dissonance is part of its genius |
-| sliver of hope | 一线希望 | （未出现在原文） |
-| claw at | 抓挠 | （未出现在原文） |
+| cascade | 倾泻、瀑布般落下 | I bent over the tea table and let Thora’s hair cascade over my shoulder. |
+| heartbreaking | 令人心碎的 | heartbreaking song. |
 
 ### ⭐⭐ 进阶
 
@@ -141,7 +141,7 @@ modified: "2026-09-06"
 | uncork a bottle | 开瓶 | While Bregan uncorked a bottle of wine |
 | kick off boots | 踢掉靴子 | He kicked off his boots |
 | cross ankles | 交叉脚踝 | I tossed the jacket back over the sofa, then curled up beside it. I kicked off my boots and crossed my bare ankles. |
-| thud against | 撞上 | Bregan lurched away and smacked his head on the arm of the sofa |
+| olive | 橄榄 | ” I picked up his old olive-colored jacket from the couch. |
 
 ## 一句话总结
 

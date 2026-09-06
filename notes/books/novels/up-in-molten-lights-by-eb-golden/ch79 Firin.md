@@ -133,6 +133,7 @@ modified: "2026-09-06"
 | roved | 来回抚探 | Her hands roved the other woman's bruised, pale skin. |
 | immune | 免疫的 | None of us are immune from hurting those we love. |
 | scruff | 胡茬 | Scruff obscured the freckles along his jaw. |
+| gangplank | 跳板 | All the grace fled Mezua as she stumbled across the gangplank and half fell into Veska’s arms. |
 
 ### ⭐ 基础
 
@@ -142,7 +143,7 @@ modified: "2026-09-06"
 | cabin | 船舱 | I scanned the cabin of the Rosewater. |
 | deck | 甲板 | Light breezes danced through the air, teasing the curls and loose strands of the Nodtacht children's hair as they crowded together on the deck. |
 | bandages | 绷带 | The Players dancer fussed with my bandages. |
-| gangplank | 跳板 | All the grace fled Mezua as she stumbled across the gangplank and half fell into Veska’s arms. |
+
 | ladder | 梯子 | Bregan lounged against a ladder at the back of the ship. |
 
 ## 一句话总结

@@ -110,12 +110,13 @@ modified: "2026-09-06"
 | gravel ground | 碎石嘎嘎作响 | gravel ground under my boot |
 | stifle | 抑制/忍住 | I shoved my fist into my mouth to stifle an involuntary moan |
 | brandished | 挥舞 | A newsgirl brandished rolled copies of the Luisonn Daily in passersby's faces |
+| warehouse | 仓库 | atop the nineteenth warehouse in the Trade Market |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| warehouse | 仓库 | atop the nineteenth warehouse in the Trade Market |
+
 | sunset | 日落 | The view of the sunset from atop the nineteenth warehouse |
 | carriage | 马车 | two horses pulled an unmarked cargo carriage |
 | soldiers | 士兵 | A dozen guards in black uniforms poured out of the carriages |

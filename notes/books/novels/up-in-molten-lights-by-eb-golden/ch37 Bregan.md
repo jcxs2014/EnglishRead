@@ -95,7 +95,7 @@ modified: "2026-09-06"
 | four torturous days | 四天痛苦的日子 | For four torturous days at sea |
 | grim-but-determined captor | 冷酷而坚定的逮捕者 | play the role of his mother's grim-but-determined captor |
 | as rigid as stone | 像石头一样僵硬 | His father waited at the end of the gangplank as rigid as stone |
-| no light in him | 眼中没有光 | There was no light in him |
+
 | silence Ma | 让Ma沉默（灭口） | Hulei would silence Ma |
 
 ### ⭐⭐ 进阶
@@ -112,14 +112,17 @@ modified: "2026-09-06"
 | off-kilter | 失去平衡 | shoved off-kilter by the endless depth of Pa's glare |
 | sauntered | 漫步/闲逛 | When Nusio sauntered past him to the gangplank |
 | torment | 折磨 | Amusement ghosted over the guard's lips, as if he could see Bregan's torment |
+| steamship | 蒸汽船 | Bregan locked Ma in the hull of the steamship |
+| gangplank | 舷梯 | His father waited at the end of the gangplank |
+| no light in him | 眼中没有光 | There was no light in him |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| steamship | 蒸汽船 | Bregan locked Ma in the hull of the steamship |
+
 | hull | 船舱 | locked Ma in the hull of the steamship |
-| gangplank | 舷梯 | His father waited at the end of the gangplank |
+
 | docks | 码头 | Until they reached the docks |
 | rain | 雨水 | Rain poured off his uniform and sling in rivers |
 | carriage | 马车 | as they shut her in a waiting carriage |

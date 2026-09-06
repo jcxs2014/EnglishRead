@@ -183,13 +183,14 @@ modified: "2026-09-06"
 | scrutiny | 审视 | The scrutiny was like the tip of a knife |
 | inebriation | 酒醉 | The only signs of his inebriation lay in the way he leaned into me and the whiskey that laced his hot breath against my cheek. |
 | paralysis | 瘫痪 | flushed paralysis through my limbs. But it didn't matter. He lifted me into the dance as if I were as light as a feather. |
+| light a cigarette | 点烟 | I lit and relit my cigarette |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | pace outside | 在外面踱步 | Pacing outside a tavern |
-| light a cigarette | 点烟 | I lit and relit my cigarette |
+
 | slide onto a stool | 滑上凳子 | I slid onto the empty stool next to him |
 | hand over | 递过来 | I took my drink from the bartender and handed Bregan his. |
 | grab the crook of elbow | 抓住手肘弯 | I said, grabbing the crook of his elbow |

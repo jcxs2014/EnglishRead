@@ -215,7 +215,7 @@ modified: "2026-09-06"
 | hallucination | 幻觉 | Was she another hallucination? |
 | drag out | 延长/拖延 | use my failure as an excuse to drag out this nightmare |
 | corporeal | 有形的/实体的 | the shadows in my cell became corporeal |
-| reel | 眩晕 | （ch09:215出现） |
+| dialect | 方言 | Eznur drilled me on everything: every language I knew, every dialect and accent, picking locks, forging, sleight of hand, world cultures and histories. |
 | surveillance | 监视 | I could slip away. Or maybe I could get a job so top secret I could evade their surveillance. |
 | slip away | 溜走 | I could slip away |
 

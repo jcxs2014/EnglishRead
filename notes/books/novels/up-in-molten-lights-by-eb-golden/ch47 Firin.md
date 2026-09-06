@@ -160,7 +160,7 @@ modified: "2026-09-06"
 | averted | 移开 | I kept my eyes averted |
 | curled | 蜷缩 | my spine curled |
 | essentially invisible | 基本上不可见 | making myself essentially invisible |
-| stairwell | 楼梯间 | a stairwell at the back of the room |
+
 | donned the face | 戴上脸 | I donned the face of the bar girl |
 | curtains of my hair | 我的头发帘 | behind the curtains of my hair |
 | darted | 飞奔 | I darted down the old, creaking steps |
@@ -238,10 +238,15 @@ modified: "2026-09-06"
 | hands grabbed my wrists | 手抓住了我的手腕 | Hands grabbed my wrists |
 | no escape now | 现在逃不掉了 | There's no escape now, girl |
 | rasped in my ear | 在我耳边嘶嘶地说 | Skavka rasped in my ear |
+| promotion | 晋升 | a shot at a promotion |
+| opportunity | 机会 | this opportunity |
+
+| bartender | 酒吧老板 | the old bartender gaped at me |
+| favorites | 最爱 | one of Dustn's favorites |
+| stairwell | 楼梯间 | a stairwell at the back of the room |
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | bar | 吧台 | behind the Rambler's Tavern bar |
 | beard | 胡须 | above his gray beard |
@@ -262,14 +267,13 @@ modified: "2026-09-06"
 | man | 男人 | a man in a Labor uniform |
 | team | 团队 | a secret team |
 | tonight | 今晚 | meeting here, tonight |
-| promotion | 晋升 | a shot at a promotion |
+
 | escape | 逃跑 | an opening for escape |
 | treason | 叛国 | committing treason |
 | blond | 金色的 | a blond man |
 | front | 前面 | at the front of the room |
 | staring | 盯着 | staring at me |
 | twice | 两次 | at least twice |
-| tail | 尾巴 | my tail |
 | reason | 原因 | for any important reason |
 | mug | 杯子 | The barmaid slid me a mug |
 | tea | 茶 | a mug of tea |
@@ -280,20 +284,15 @@ modified: "2026-09-06"
 | fingers | 手指 | I squeezed my burning fingers |
 | market | 市场 | on market streets |
 | streets | 街道 | on market streets |
-| bars | 酒吧 | in bars |
-| docks | 码头 | at the docks |
 | piece | 片 | a piece of my heart |
 | night | 那天晚上 | that night |
-| focus | 集中注意力 | Focus, Firin |
-| opportunity | 机会 | this opportunity |
+
 | edges | 边缘 | around the edges of the revelry |
 | eyes | 眼睛 | I kept my eyes averted |
 | arms | 手臂 | my arms crossed |
 | spine | 脊柱 | my spine curled |
-| stairwell | 楼梯间 | a stairwell at the back of the room |
 | face | 脸 | donned the face of the bar girl |
 | hair | 头发 | behind the curtains of my hair |
-| steps | 台阶 | I darted down the old, creaking steps |
 | storage | 存储 | storage room |
 | room | 房间 | storage room |
 | hall | 大厅 | a door down the hall |
@@ -318,8 +317,7 @@ modified: "2026-09-06"
 | shelf | 架子 | I bumped a shelf |
 | box | 盒子 | sending a box clattering to the floor |
 | floor | 地板 | clattering to the floor |
-| bartender | 酒吧老板 | the old bartender gaped at me |
-| potatoes | 土豆 | a bag of what looked like potatoes |
+
 | shoulder | 肩膀 | He caught my shoulder |
 | exit | 出口 | a side exit |
 | alley | 小巷 | the alley behind the building |
@@ -328,7 +326,7 @@ modified: "2026-09-06"
 | end | 尽头 | At the end of the alley |
 | someone | 某人 | Bakuit stood with someone familiar |
 | face | 脸 | a face I knew |
-| favorites | 最爱 | one of Dustn's favorites |
+
 | day | 天 | the day I met him |
 | grin | 笑容 | chilling grin |
 | bag | 袋子 | A bag came down over my head |

@@ -143,7 +143,7 @@ modified: "2026-09-06"
 | half brown (iris) | 半棕色 | her left iris, which was half brown |
 | rabid animal | 狂犬/狂兽 | as if Veska were a rabid animal Hulei had set free in the room |
 | stampede | 狂奔/踩踏 | a stampede ready to break down the walls |
-| reel | 眩晕/摇晃 | （ch09出现） |
+| inauguration | 就职典礼 | After all, I’d seen him at the inauguration. |
 
 ### ⭐⭐ 进阶
 
@@ -156,17 +156,18 @@ modified: "2026-09-06"
 | clamp on | 钳住 | A hand clamped on my arm |
 | gape at | 目瞪口呆 | I gaped at her |
 | usher away | 引导离开 | being ushered away by staff |
-| expose | 暴露 | tore the director's linen neckline, exposing her X scar |
+| sleight | （变戏法的）手法 | With sleight of hand, it disappeared into my palm. |
+| champagne | 香槟 | the president's champagne glass |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | serving girl | 女服务员 | a young blonde serving girl |
-| champagne | 香槟 | the president's champagne glass |
+
 | shriek | 尖叫 | shouts and even shrieks |
 | orphan | 孤儿 | the wide-eyed orphans |
-| slide into | 滑入/挡住 | someone slid into my path |
+| gaped | 目瞪口呆 | I gaped at her turquoise-blue glare and her left iris, which was half brown. |
 | snarl | 厉声说 | I was about to snarl in her face |
 
 ## 一句话总结

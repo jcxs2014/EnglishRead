@@ -152,7 +152,7 @@ modified: "2026-09-06"
 | prickled | 刺痛/毛骨悚然 | My skin prickled |
 | face-changing spy | 变脸间谍 | face-changing spies planted all over the room |
 | unparalleled | 无与伦比的 | her talent was unparalleled |
-| magnetic pull | 磁石般的吸引 | As if my heart were a magnet |
+| exhilaration | 狂喜、兴奋 | How many of the Nodtacht children were alive? Vibrating with fury and exhilaration, I rushed after Ihzi. |
 | saints-damned pawn | 可诅咒的棋子 | like a saints-damned pawn |
 
 ### ⭐⭐ 进阶
@@ -170,7 +170,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| recognize quirks | 识别习惯动作 | recognizing her quirks |
+| alley | 小巷 | Bregan was guiding Veska’nora into a carriage at the mouth of an alley, guarded by a throng of constables. |
 | push hair aside | 把头发拨开 | she pushed her hair aside |
 | scan the room | 扫视房间 | her sharp, clever eyes scanned the room |
 | rush after | 冲过去追 | I rushed after Ihzi |

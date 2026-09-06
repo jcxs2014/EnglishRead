@@ -238,7 +238,7 @@ modified: "2026-09-06"
 | bronzed young man | 黝黑的年轻人 | a bronzed young man |
 | elbow | 手肘 | took the elbow of an older |
 | sea-ravaged fisherman | 被海风侵蚀的渔民 | an older, sea-ravaged fisherman |
-| wrong idea | 正确的想法 | She's got the right idea |
+| endorse | 公开支持、背书 | He couldn’t trust or endorse her until he knew more—which meant he needed a good cover story for why he was looking into her. |
 | wrinkled man | 满脸皱纹的老人 | The wrinkled man squinted |
 | trust her | 信任她 | Don't trust her |
 | political types | 政治人物 | any of them political types |
@@ -324,6 +324,9 @@ modified: "2026-09-06"
 | dictator | 独裁者 | as any dictator or king |
 | king | 国王 | as any dictator or king |
 | forced himself | 强迫自己 | he forced himself to say |
+| politicians | 政治家 | Ruanti Perria |
+| fishermen | 渔民 | the other half dispersed |
+| suspicion | 怀疑 | thawing through that suspicion |
 
 ### ⭐ 基础
 
@@ -332,7 +335,7 @@ modified: "2026-09-06"
 | humidity | 湿度 | The humidity blanketing the docks |
 | docks | 码头 | The humidity blanketing the docks |
 | back of neck | 颈后 | felt thick and heavy on the back of Bregan's neck |
-| politicians | 政治家 | Ruanti Perria |
+
 | crate | 箱子 | an overturned crate |
 | curls | 卷发 | blonde curls |
 | sunlight | 阳光 | in the midday sunlight |
@@ -340,7 +343,7 @@ modified: "2026-09-06"
 | trust | 信任 | He didn't trust her |
 | security | 安保/安全 | the security guard stiffened |
 | traps | 蟹笼 | a pile of crab traps |
-| police | 警察 | young constables tailing him |
+| guard | 卫兵 | Their eyes met with a silent clash, and the security guard stiffened in surprise. |
 | trust | 信任 | won a bit of the president's trust |
 | power | 权力 | in power for three months |
 | food | 食物 | put food on your tables |
@@ -351,9 +354,9 @@ modified: "2026-09-06"
 | council | 委员会 | a council of five |
 | Labor | 劳工 | additional Labor seats |
 | isles | 岛屿 | the outer isles |
-| fishermen | 渔民 | the other half dispersed |
+
 | petition | 请愿书 | sign this petition |
-| suspicion | 怀疑 | thawing through that suspicion |
+
 | optimism | 乐观 | infectious optimism |
 | sham | 假象 | was a sham |
 | dictator | 独裁者 | as any dictator or king |

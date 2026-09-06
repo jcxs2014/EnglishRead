@@ -109,16 +109,18 @@ modified: "2026-09-06"
 | cackling | 咯咯笑 | her cackling laugh trilled up a stairwell |
 | sultry | 闷热/性感 | the music grew sultry |
 | encircled | 环绕 | A palm—one that was becoming familiar—encircled my waist |
+| invitation | 邀请 | he had secured the invitations we needed |
+| gangplank | 舷梯 | ushered us up the gangplank |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | costume party | 化妆派对 | the morning of the costume party |
-| invitation | 邀请 | he had secured the invitations we needed |
+
 | sailboat | 帆船 | Guilo the Gallant had his own sailboat |
 | marina | 码头 | from a marina at the edge of Cliff Manors |
-| gangplank | 舷梯 | ushered us up the gangplank |
+
 | railing | 栏杆 | I emerged at the railing and inhaled a ragged breath |
 
 ## 一句话总结

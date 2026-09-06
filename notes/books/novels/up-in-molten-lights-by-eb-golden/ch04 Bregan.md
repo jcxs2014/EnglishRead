@@ -104,7 +104,7 @@ modified: "2026-09-06"
 | baron among Zeds | 贫民中的贵族 | like a baron among Zeds |
 | rounding up | 围捕 | rounding them up was another |
 | private security guards | 私人保安 | his private security guards do it |
-| wither | 枯萎/衰退 | （ch06出现） |
+| dilapidated | 破败失修的 | The newly renovated orphanage stood out on the dilapidated block like a baron among Zeds. |
 
 ### ⭐⭐ 进阶
 
@@ -115,18 +115,20 @@ modified: "2026-09-06"
 | glowed | 发光/闪耀 | Hulei glowed in the midday sun |
 | moldering | 腐烂的 | the moldering row houses |
 | ooze | 渗出 | Mud oozed under his boots |
-| stifle | 窒息/压制 | the heat of the day bore down, stifling |
-| oppression | 压迫 | and oppressive |
-| smirk | 假笑 | （ch05出现） |
+| practically | 几乎 | Half obscured in shadow against a tenement’s wall, Bregan could practically feel every heart in the crowd beating for the man, caught up in his lies. |
+| inching | 一寸寸挪动 | Bregan shouldered against the flow, inching closer to the orphanage, and caught sight of Mezua on the other side of the street. |
+| smeared | 涂抹、抹花 | She raised a brow smeared with old makeup. |
+| orphanage | 孤儿院 | The newly renovated orphanage |
+| crush a cigarette | 踩灭香烟 | She crushed her cigarette with her heel |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| orphanage | 孤儿院 | The newly renovated orphanage |
+
 | renovate | 翻新 | newly renovated |
-| tip one's cap | 抬帽致意 | Bregan tipped his cap |
-| crush a cigarette | 踩灭香烟 | She crushed her cigarette with her heel |
+| oozed | 渗出、洋溢着 | Mud oozed under his boots. |
+
 | weight sank | 沉重感下沉 | a weight sank in his stomach |
 | rattle | 发出嘎嘎声 | Bregan's keys rattled |
 | creak | 发出吱呀声 | The door creaked |

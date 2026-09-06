@@ -88,6 +88,7 @@ modified: "2026-09-06"
 | infantile | 幼稚的/孩子气的 | Not Ma, some infantile part of him begged |
 | memorizing | 记住/铭记 | Bregan drank in his mother's face, memorizing every strand of hair |
 | impeccable | 完美的 | You have impeccable timing |
+| innkeeper | 旅馆老板 | the startled innkeeper |
 
 ### ⭐ 基础
 
@@ -95,7 +96,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | train car | 火车车厢 | hours of pacing the train car |
 | inn | 旅馆 | raced down avenue after avenue to the inn |
-| innkeeper | 旅馆老板 | the startled innkeeper |
+
 | key | 钥匙 | His hands shook as he shoved his key into his room's lock |
 | desk | 书桌 | Someone was inside. "Ma?" he blurted. His mother spun away from the room's desk |
 

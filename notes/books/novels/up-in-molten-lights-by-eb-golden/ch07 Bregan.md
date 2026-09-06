@@ -100,10 +100,10 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | citrusy perfume | 柑橘味香水 | Firin's old citrusy perfume |
-| choke on | 被…呛到 | Bregan was choking on lemon |
+| cheekbones | 颧骨 | As he muttered to the Grande’s director, the color drained from her high cheekbones. |
 | preen | 沾沾自喜 | The boys preened |
-| reel | 卷轴/眩晕 | （ch08出现） |
-| rabid | 疯狂的/狂热的 | （ch08出现） |
+| transparency | 透明度 | “Transparency is part of our mission, is it not? |
+| headquarters | 总部 | e couldn’t breathe until he reached the hall behind the Trade headquarters chamber |
 
 ### ⭐⭐ 进阶
 
@@ -113,17 +113,17 @@ modified: "2026-09-06"
 | handcuffs | 手铐 | Veska'nora in handcuffs |
 | grimace | 鬼脸/扭曲的表情 | as thin as her grimace |
 | spine of steel | 钢铁般的脊梁 | her spine was steel |
-| exile | 流放/驱逐 | （ch08出现） |
+| drained | 被抽干的 | As he muttered to the Grande’s director, the color drained from her high cheekbones. |
+| handcuffed wrists | 被铐住的手腕 | He took Veska by her handcuffed wrists |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | thump | 重击/拍 | thumping Bregan on the shoulder |
-| tear off | 撕掉 | （跨章词汇，仅列目） |
-| shove forward | 推向前 | （跨章词汇，仅列目） |
+| clung | 紧抓不放 | and even then it clung to the constabulary uniform Hulei had ordered him to wear tonight. |
+| scent | 气味 | He jerked his head slightly, as if he could rid himself of the scent like a fly. |
 | stare into | 盯着 | Bregan stared into Veska'nora's dark glare |
-| handcuffed wrists | 被铐住的手腕 | He took Veska by her handcuffed wrists |
 
 ## 一句话总结
 

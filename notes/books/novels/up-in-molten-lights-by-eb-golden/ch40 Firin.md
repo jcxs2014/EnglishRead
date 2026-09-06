@@ -138,6 +138,7 @@ modified: "2026-09-06"
 | army | 军队 | building an army of Nodtacht children |
 | chains | 锁链 | in the Stav's chains |
 | shove my blade | 刺穿我的刀刃 | I wanted to shove my blade through his throat |
+| lamplight | 灯光 | In the lamplight |
 
 ### ⭐ 基础
 
@@ -146,7 +147,7 @@ modified: "2026-09-06"
 | rain | 雨水 | Rain drained from his olive-colored coat |
 | coat | 外套 | Rain drained from his olive-colored coat |
 | curls | 卷发 | His curls plastered to his head |
-| lamplight | 灯光 | In the lamplight |
+
 | bed | 床 | I toppled off the bed |
 | pistol | 手枪 | Asli leaped for the pistol |
 | jaw | 下巴 | Bregan's fist hit his jaw |

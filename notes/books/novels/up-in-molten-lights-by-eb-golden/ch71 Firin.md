@@ -123,13 +123,14 @@ modified: "2026-09-06"
 | lashing | 猛烈抽打 | Eager winds soared off the ocean, lashing excitedly around us. |
 | lapped | 轻拍 | The rising tide lapped at the beach behind him. |
 | gutsy | 胆大的 | He took a gutsy step toward me. |
+| breastbone | 胸骨 | I yanked his gun from his belt and shoved the barrel into his breastbone. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | barrel | 枪管 | I yanked his gun from his belt and shoved the barrel into his breastbone. |
-| breastbone | 胸骨 | I yanked his gun from his belt and shoved the barrel into his breastbone. |
+
 | thigh | 大腿 | I shifted the aim of the pistol, toward Asli's thigh. |
 | sailboat | 帆船 | He slowed at the edge of the fancy marina where he docked his sailboat. |
 | sunrise | 日出 | While you sailed off into the sunrise. |

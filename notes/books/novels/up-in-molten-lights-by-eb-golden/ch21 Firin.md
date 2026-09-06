@@ -150,8 +150,8 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | white-hot bullet | 白热的子弹 | Ihzi's scream hit me like a white-hot bullet |
-| surgical knife | 手术刀 | Surgical knives gleamed on a table |
-| straddle | 跨坐 | （未出现在原文） |
+| overwhelmed | 被压倒的 | I made it off the medical campus before nausea overwhelmed me and I retched into the canal. |
+| surveillance | 监视 | By the time she was ten years old, the Nodtacht had already assigned her to the Third Division, which was responsible for internal surveillance. |
 
 ### ⭐⭐ 进阶
 
@@ -171,7 +171,7 @@ modified: "2026-09-06"
 | bolt into | 冲进 | Ihzi just bolted into me |
 | dig nails into ribs | 把指甲扎进肋骨 | But Ihzi just bolted into me. She buried her face in my chest and dug her nails into my ribs. |
 | yank down | 猛拽 | she yanked me down the steps |
-| snarl | 咆哮 | （未出现在原文） |
+| dread | 恐惧、畏惧 | With a tumbling sense of dread, I peeked through the crack in the curtains. |
 
 ## 一句话总结
 

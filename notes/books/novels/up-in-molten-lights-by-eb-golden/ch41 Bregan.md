@@ -135,6 +135,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | silently | 默默地 | Bregan cursed silently |
 | unyielding | 毫不退缩的 | new, unyielding violence in his sneer |
+| handkerchief | 手帕 | dabbed at his split lip with a handkerchief |
 
 ### ⭐ 基础
 
@@ -147,7 +148,6 @@ modified: "2026-09-06"
 | pistol | 手枪 | His pistol fell |
 | bed | 床 | still leaning against the bedpost |
 | lip | 嘴唇 | his split lip |
-| handkerchief | 手帕 | dabbed at his split lip with a handkerchief |
 
 ## 一句话总结
 Nusio跟踪Bregan到Guilo家，Bregan发现"Thora"与Asli密谋。三人被迫合作：Bregan在内，Firin和Asli在外，计划先找到孩子，再用孩子引出Hulei。Bregan和Firin在雨中演了一出戏，假装三角恋，以欺骗Nusio。Bregan的内心独白揭示——他知道Thora就是Firin，但他选择不揭穿。

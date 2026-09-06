@@ -125,7 +125,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| hold out hand | 伸出手 | Nusio held out his hand |
+| taunt | 嘲讽 | Was the perfume a coincidence? Or had she somehow chosen it on purpose to taunt him? |
 | rattle in lock | 锁里嘎嘎响 | Bregan's key rattled in the lock |
 | touch a button | 碰纽扣 | Thora touched a button on his jacket |
 | flowy dress | 飘逸的裙子 | a flowy, cream-colored dress |

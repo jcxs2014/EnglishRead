@@ -107,6 +107,7 @@ modified: "2026-09-06"
 | compile | 编列 | "I'll compile one," she said. |
 | grimly | 阴郁地 | Because she didn't hit me hard enough, he thought grimly. |
 | battered | 伤痕累累的 | Bregan staggered to his feet and headed back into the city, his battered body screaming. |
+| auditorium | 观众厅 | He peered down on the auditorium. |
 
 ### ⭐ 基础
 
@@ -114,7 +115,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | hedgerow | 树篱 | He dropped into a gnarled old hedgerow. |
 | rafters | 椽木、阁楼 | After making his way to the old broken window, he dropped into the maintenance hall and pried the old door to the rafters open. |
-| auditorium | 观众厅 | He peered down on the auditorium. |
+
 | hip | 胯骨 | He landed hard on his hip. |
 | carriage | 马车 | A few minutes later, the carriage pulled away. |
 | jog | 小跑 | Bregan broke into a jog. |

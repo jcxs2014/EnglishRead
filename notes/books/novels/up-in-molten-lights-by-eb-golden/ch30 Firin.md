@@ -105,12 +105,13 @@ modified: "2026-09-06"
 | vintner | 酿酒师 | a well-respected vintner |
 | reacquainted | 重新认识 | we've just reacquainted |
 | untenable | 站不住脚的 | This level of lie was tricky, untenable, dangerous |
+| establishment | 场所 | As Guilo led me over the familiar threshold, I tried not to see the ghosts that hovered in every corner of the bustling establishment |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| establishment | 场所 | As Guilo led me over the familiar threshold, I tried not to see the ghosts that hovered in every corner of the bustling establishment |
+
 | patron | 赞助人 | The Grande's biggest patron and his wife sat with several upper-class guests at a large table |
 | glove | 手套 | She hit her husband with her glove |
 | thigh | 大腿 | placing my hand on his thigh |

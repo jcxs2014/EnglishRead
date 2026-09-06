@@ -162,7 +162,7 @@ modified: "2026-09-06"
 | experimenting on the children | 对孩子们进行实验 | It sounded like Hulei was experimenting on the children |
 | compel them yet | 强迫他们 | maybe he hadn't figured out how to compel them yet |
 | rescue you | 救你 | I can rescue you |
-| Not this time | 这次不会 | I won't fail you. Not this time |
+
 
 ### ⭐⭐ 进阶
 
@@ -205,6 +205,8 @@ modified: "2026-09-06"
 | promise | 承诺 | I promised |
 | fail | 失败/失望 | I won't fail you |
 | not this time | 这次不会 | Not this time |
+| stairwell | 楼梯间 | Her disgust reverberated up the stairwell |
+| Not this time | 这次不会 | I won't fail you. Not this time |
 
 ### ⭐ 基础
 
@@ -214,7 +216,7 @@ modified: "2026-09-06"
 | music | 音乐 | Haunting music swelled behind us |
 | dancers | 舞者 | dozens of dancers' shoes |
 | steps | 台阶 | I climbed the back steps |
-| stairwell | 楼梯间 | Her disgust reverberated up the stairwell |
+
 | office | 办公室 | Veska's office |
 | window | 窗户 | the window was open |
 | ears | 耳朵 | A ringing filled my ears |

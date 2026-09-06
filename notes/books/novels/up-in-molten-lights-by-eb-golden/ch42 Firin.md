@@ -144,6 +144,7 @@ modified: "2026-09-06"
 | desperate to shed that guilt | 渴望摆脱内疚 | He's desperate to shed that guilt |
 | selfish | 自私的 | His motives are as selfish as everyone else's |
 | from underneath his feet | 从他脚下 | swipe his life's work from underneath his feet |
+| staircase | 楼梯 | grand staircase's banister |
 
 ### ⭐ 基础
 
@@ -163,7 +164,7 @@ modified: "2026-09-06"
 | eyelids | 眼皮 | imprinted on the backs of my eyelids |
 | scar | 疤痕 | The top of his scar |
 | trousers | 裤子 | over the band of his trousers |
-| staircase | 楼梯 | grand staircase's banister |
+
 | banister | 栏杆 | leaned against the grand staircase's banister |
 | brothers | 兄弟 | Like brothers |
 | age | 年龄 | within two decades of my age |

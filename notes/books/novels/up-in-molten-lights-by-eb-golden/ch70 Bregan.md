@@ -119,13 +119,14 @@ modified: "2026-09-06"
 | thrashed | 猛烈抽打 | Storm winds thrashed at his jacket and stole his cap. |
 | fixated | 死死锁定 | He threw them aside and fixated on the one thing he could comprehend. |
 | conspiring | 密谋 | Sentenced to death for conspiring with the Qunsiian and Vorstav'n governments. |
+| handcuffs | 手铐 | Ma stood in handcuffs. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | rooftops | 屋顶 | He raced across the city's rooftops. |
-| handcuffs | 手铐 | Ma stood in handcuffs. |
+
 | crowd | 人群 | The square was far too crowded for daybreak. |
 | cap | 帽子 | Storm winds thrashed at his jacket and stole his cap. |
 | dawn | 黎明 | Her loose hair whipped like the flame of a single candle against the dawn. |

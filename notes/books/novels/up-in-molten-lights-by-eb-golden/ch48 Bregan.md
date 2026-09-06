@@ -233,7 +233,7 @@ modified: "2026-09-06"
 | words | 话 | unable to speak the words |
 | small | 小的 | The small safe house |
 | lower levels | 底层 | in the lower levels |
-| apartment | 公寓 | a Spires apartment building |
+
 | building | 建筑物 | a Spires apartment building |
 | overflowed | 挤满了 | overflowed with people |
 | mostly | 大多 | mostly members |
@@ -290,7 +290,7 @@ modified: "2026-09-06"
 | chest | 胸口 | into Draifey's chest |
 | new guy | 新人 | You're the new guy |
 | show up | 出现 | You show up |
-| factories | 工厂 | from the factories |
+
 | story | 故事 | no story |
 | references | 推荐 | no references |
 | expect | 期望 | You expect |
@@ -302,7 +302,7 @@ modified: "2026-09-06"
 | staring | 盯着 | staring down |
 | judge | 法官 | like a judge |
 | withered | 萎缩 | The old man withered |
-| granddaughter | 孙女 | My granddaughter |
+
 | pregnant | 怀孕 | She is pregnant |
 | threatened | 威胁 | threatened to kill |
 | kill | 杀 | threatened to kill her |
@@ -324,7 +324,7 @@ modified: "2026-09-06"
 | whose | 谁的 | Whose names |
 | gave | 给 | did you give |
 | without | 没有 | Without hesitation |
-| hesitation | 犹豫 | Without hesitation |
+
 | listed | 列出 | Bakuit listed |
 | almost | 几乎 | almost every |
 | every | 每一个 | almost every single |
@@ -345,7 +345,7 @@ modified: "2026-09-06"
 | Bang | 砰 | Bang |
 | shot | 枪声 | The shot |
 | rattled | 震动 | rattled the |
-| apartment | 公寓 | the apartment |
+
 | nearly | 差点 | Bregan nearly |
 | fell over | 摔倒 | nearly fell over |
 | lowered | 放下 | Addym lowered |
@@ -442,7 +442,7 @@ modified: "2026-09-06"
 | ran | 跑 | ran his |
 | thumb | 拇指 | his thumb |
 | over | 通过 | over the |
-| signature | 签名 | the signature |
+
 | Baron | 男爵 | Baron |
 | Hulei | Hulei | Ihan Hulei |
 | If | 如果 | If |
@@ -453,75 +453,26 @@ modified: "2026-09-06"
 | would | 会 | he would |
 | do | 做 | would do |
 
+| apartment | 公寓 | a Spires apartment building |
+
+| factories | 工厂 | from the factories |
+| granddaughter | 孙女 | My granddaughter |
+| hesitation | 犹豫 | Without hesitation |
+| apartment | 公寓 | the apartment |
+| signature | 签名 | the signature |
+
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| back | 背 | on the back of the safe house door |
-| door | 门 | the safe house door |
-| times | 次 | three times |
-| twice | 两次 | twice |
-| house | 房子 | safe house |
 | people | 人 | overflowed with people |
-| members | 成员 | mostly members |
-| crying | 哭泣 | a crying Phinnin |
-| basket | 篮子 | a basket |
-| supplies | 用品 | medical supplies |
-| bullet | 子弹 | The bullet |
-| life | 生命 | nearly taken his life |
-| dark | 黑暗 | Even in the dark |
-| fog | 雾 | even in the fog |
-| team | 团队 | Bregan's team |
-| stones | 石头 | fell like stones |
 | voice | 声音 | a new voice |
-| room | 房间 | Addym wedged into the room |
 | arm | 手臂 | Addym's forearm |
-| red | 红色 | soaked with red |
-| gun | 枪 | he raised his gun |
-| face | 脸 | pivoting from face to face |
 | man | 男人 | the other man |
-| chest | 胸口 | into Draifey's chest |
-| factories | 工厂 | from the factories |
-| son | 孩子 | hold on, son |
-| judge | 法官 | like a judge |
 | old | 老的 | The old man |
 | woman | 女人 | an old fisherwoman |
-| granddaughter | 孙女 | My granddaughter |
-| mist | 雾 | the thick of the mist |
-| names | 名字 | Did you give them names |
 | silence | 沉默 | Bakuit fell silent |
-| beat | 拍 | A beat passed |
-| glare | 怒视 | with a glare |
-| hesitation | 犹豫 | Without hesitation |
-| opinions | 意见 | in opinions |
-| line | 线路 | a direct line |
-| Bang | 砰 | Bang |
-| shot | 枪声 | The shot |
-| apartment | 公寓 | the apartment |
-| pistol | 手枪 | shaking pistol |
-| hole | 洞 | There was a hole |
 | blood | 血 | Blood seeped |
-| fabric | 布料 | the beer-stained fabric |
-| rage | 愤怒 | Bregan's rage |
-| jaw | 下巴 | the other man's jaw |
-| wall | 墙壁 | into the wall |
-| chin | 下巴 | blood-splattered chin |
-| smile | 微笑 | cold, defiant smile |
 | shots | 枪声 | calling the shots |
-| face | 脸 | horrified face |
-| body | 尸体 | from the body |
-| relief | 宽慰 | in relief |
-| burden | 负担 | the burden |
-| outside | 外面 | staggered outside |
-| group | 一群 | a group of |
-| egos | 自我 | angry, vengeful egos |
-| path | 道路 | no path |
-| plan | 计划 | a plan |
-| moon | 月亮 | mist-shrouded moon |
-| note | 纸条 | the note |
-| day | 天 | the day before |
-| thumb | 拇指 | his thumb |
-| signature | 签名 | the signature |
 
 ## 一句话总结
 改革派的监狱突袭失败，Bakuit被揭露为叛徒（他的孙女被Stav威胁）。Addym射杀了Bakuit，Bregan意识到改革派已经变成了他们曾经反对的东西。Bregan决定接受Baron Hulei的帮助——如果Pa在这里，他也会这么做。

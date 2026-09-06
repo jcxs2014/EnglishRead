@@ -116,14 +116,14 @@ modified: "2026-09-06"
 |---------|------|------|
 | window | 窗户 | peered out his rain-smeared bedchamber window |
 | rain | 雨水 | rain-smeared |
-| darkness | 黑暗 | in the inky night |
+| latch | 门闩 | When I found what I assumed to be his bedchambers, I tried the latch. |
 | knife | 刀 | I raised my knife |
 | gun | 枪 | A gun clicked |
 | lamp | 灯 | A gas lamp flared to life |
 | bed | 床 | the magician was just a curved shape beneath the blankets |
 | curtains | 窗帘 | I crept to the window and eased the curtains open |
 | back | 背部 | illuminating his back |
-| shoulder | 肩膀 | illuminating his back |
+| creak | 吱呀作响 | Even still, I was careful to place my heels first as I crept into the hall, minimizing the chance for the floorboards to creak. |
 | finger | 手指 | With numb fingers, I picked the lock to the gate |
 | pistol | 手枪 | aiming a pistol |
 

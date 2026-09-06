@@ -145,7 +145,7 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | strode down | 沿着…走 | As Bregan strode down the wide streets, he felt like an insect beneath the city's architectural giants |
-| frozen | 僵住的 | He froze |
+| trash | 垃圾 | There was no trash, anywhere. |
 
 ## 一句话总结
 

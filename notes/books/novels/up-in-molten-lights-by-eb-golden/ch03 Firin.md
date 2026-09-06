@@ -162,7 +162,7 @@ modified: "2026-09-06"
 | desecration | 亵渎 | felt like some kind of desecration |
 | siphon from | 抽取/榨取 | Unji siphoned from their compulsions |
 | appetite for | 对…的欲望 | people's appetite for Vorstav'n art dried up |
-| delve | 钻研/探究 | （跨章词汇，仅列目） |
+| assassination | 暗杀 | But that kind of assassination would lead to my own demise, and I didn’t intend to die. |
 
 ### ⭐⭐ 进阶
 
@@ -170,11 +170,11 @@ modified: "2026-09-06"
 |---------|------|------|
 | pack like fish in a barrel | 像桶里的鱼一样拥挤 | People packed the Bilge like fish in a barrel. |
 | glare | 怒视 | I clutched the locket around my neck and glared up at the line of children on the balcony above him |
-| orchestrate | 组织/策划 | （跨章词汇，仅列目） |
+| glanced | 瞥了一眼 | I glanced back up at the eerily obedient orphans. |
 | snagged | 被钩住/被吸引 | snagged on an olive jacket |
-| stumble | 绊倒 | I tripped into a Manager woman but couldn't find the breath to apologize. |
-| gnarled | 粗糙的/多节的 | （ch02出现） |
-| stooped | 弯腰的 | （ch02出现） |
+| elegant | 优雅的 | But hairline fractures now marred Veska’s fiercely elegant exterior. |
+| stalked | 大步愤然地走 | I couldn’t quite read the dancer’s expression before she tossed back her hair and stalked after the director. |
+| pendant | 吊坠 | Playing with my pendant, I took slow, intentional inhales to stave off the headiness of the day’s humidity. |
 | stalk | 大步走 | I couldn't quite read the dancer's expression before she tossed back her hair and stalked after the director. |
 
 ### ⭐ 基础

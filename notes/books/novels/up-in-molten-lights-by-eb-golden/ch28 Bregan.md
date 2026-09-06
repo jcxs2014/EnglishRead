@@ -97,12 +97,13 @@ modified: "2026-09-06"
 | pamphlet | 小册子 | He crumpled the advertisement. |
 | stammered | 结结巴巴地说 | "Bregan," she stammered, grabbing his shoulders |
 | tight-lipped | 守口如瓶 | He was tight-lipped, but he indicated that Unji knows Asli is alive |
+| spotlight | 聚光灯 | a spotlight shone on a round, raised stage |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| spotlight | 聚光灯 | a spotlight shone on a round, raised stage |
+
 | patron | 顾客/赞助人 | Dozens of small tables encircled it, full of patrons |
 | tray | 托盘 | The man held out a tray |
 | alley | 小巷 | Bregan yanked open the door and exited into a wide alley |

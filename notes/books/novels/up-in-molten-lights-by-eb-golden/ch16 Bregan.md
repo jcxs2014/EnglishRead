@@ -163,7 +163,7 @@ modified: "2026-09-06"
 | bone-breaking dread | 令人窒息的恐惧 | A bone-breaking dread forced him to turn around |
 | swum the Sea of Sorrows | 游过悲伤之海 | she looked like she'd swum the entire Sea of Sorrows |
 | squeeze eyes shut | 紧闭双眼 | Bregan squeezed his eyes shut |
-| mass of scar tissue | 疤痕组织 | （未出现在原文） |
+| excruciating | 极度难忍的 | excruciating suffocation. |
 
 ### ⭐⭐ 进阶
 
@@ -178,7 +178,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| knock white | 变白 | His knuckles turned white |
+| dread | 恐惧、畏惧 | A bone-breaking dread forced him to turn around. |
 | splash | 溅 | Ma's boots splashed |
 | wipe at nose | 擦鼻子 | Ma wiped at her nose |
 | pinch bridge of nose | 捏鼻梁 | Bregan pinched the bridge of his nose |

@@ -85,14 +85,15 @@ modified: "2026-09-06"
 | nonchalance | 漫不经心 | nothing about his nonchalance matched the intensity of his blue stare |
 | visage | 面貌/面容 | its visage frozen in time |
 | portrait | 肖像 | Unji wandered over to a dusty portrait of himself |
-| mischievous | 淘气的/恶作剧的 | Mischief gleamed in his younger self's eyes |
+| haughty | 傲慢的 | Even as a boy, the future president of the Iket Isles appeared somehow haughty and endearing at the same time, calculating in his approachability. |
 | portrait dates | 肖像日期 | "Saints, these are ancient," he mused |
+| staircase | 楼梯 | at the bottom of the magnificent, curved staircase |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| staircase | 楼梯 | at the bottom of the magnificent, curved staircase |
+
 | carriage | 马车 | Unji's carriage driver |
 | sheet | 床单/覆盖物 | The few items of furniture were covered in sheets like bodies awaiting funeral boats |
 | dust | 灰尘 | dust layered those that weren't |
