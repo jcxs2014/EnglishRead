@@ -9,7 +9,7 @@ modified: "2026-09-06"
 
 - **一句话概括**：Jordan 的 POV 揭示他对 Trish 的真实情感（"pure pleasure"、"first thing in his life that was pure pleasure"），他跟踪她、调查她、最终决定绑架她；Trish 与 Laura/Marek 一起观看内部频道的"表演"，Jordan 在沙发上摸她，最终带她肛交。
 - **情感弧线位置**：升温 → 高潮（Jordan 的"占有欲"达到顶峰，Trish 的"抵抗"彻底瓦解）
-- **Tropes 兑现/反转**：Stalker as Lover（跟踪者即情人）——Jordan 的"跟踪"是"浪漫的执着"；Bet（赌注）——Jordan 与 Wolf 打赌 Trish 是否会逃跑；Public Sex（公开性爱）——在 Laura/Marek 面前发生关系
+- **Tropes 兑现/反转**：跟踪者即情人——Jordan 的"跟踪"是"浪漫的执着"；赌注——Jordan 与 Wolf 打赌 Trish 是否会逃跑；公开性爱——在 Laura/Marek 面前发生关系
 - **人物弧线**：Jordan 从"施害者"变为"有情感的人"——他的"爱"是真实的，但方式是扭曲的；Trish 从"抵抗"变为"接受"——她开始"享受"被观看，这是心理防线的最终崩溃
 - **叙事手法**：Jordan 的 POV（前半段）与 Trish 的 POV（后半段）交替，展现两人的心理同步
 

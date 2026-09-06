@@ -9,7 +9,7 @@ modified: "2026-09-06"
 
 - **一句话概括**：Trish 打 Jordan 耳光后被 spank 5 分钟，晚餐时 Jordan 透露过去（没钱、Wolf 的 second from the beginning），Trish 无法接受他的"温柔"（因为这比暴力更危险），她意识到自己对 Jordan 产生了真实情感（"some semblance of feelings"），这让她恐惧。
 - **情感弧线位置**：低谷 → 崩溃（从"麻木适应"到"情感爆发"）
-- **Tropes 兑现/反转**：Breaking Point（崩溃点）——Trish 的耳光是她第一次主动暴力；Spanking（打屁股）——Jordan 的"惩罚"是计时（5分钟）而非"直到她哭"；Emotional Confession（情感告白）——Trish 的"some semblance of feelings"是全书最诚实的时刻
+- **Tropes 兑现/反转**：崩溃点——Trish 的耳光是她第一次主动暴力；打屁股——Jordan 的"惩罚"是计时（5分钟）而非"直到她哭"；情感告白——Trish 的"some semblance of feelings"是全书最诚实的时刻
 - **人物弧线**：Trish 从"被动接受"转为"主动暴力"（打耳光），然后"主动情感"（意识到自己有感情）；Jordan 的"温柔"是另一种暴力——它比"粗暴"更危险，因为它瓦解了她的心理防线
 - **叙事手法**：第三人称有限视角，大量内心独白展现 Trish 的自我分裂（"我恨他/我在乎他"）
 

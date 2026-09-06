@@ -134,7 +134,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | labs | 化验、实验室检查 | drew labs |
 | ER | 急诊室 | go to the ER |
-| nurse | 护士 | a nurse came in |
+| nurse | 护士 | a nurse came in and said |
 | doctor | 医生 | The doctor said it's important |
 
 ## 一句话总结

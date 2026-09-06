@@ -150,7 +150,7 @@ modified: "2026-09-06"
 | wedged | 挤进 | I yanked it open and wedged myself inside, rattling the shelf of supplies as I did so |
 | rattle | 嘎嘎响 | The tools hanging on it rattled |
 | smoldering eyes | 炽热的眼睛 | His smoldering eyes seemed somehow greener against the dull sky |
-| bide one's time | 等待时机 | For weeks, I had carefully laid the pieces on my own playing board, biding my time so I could take Hulei out |
+| biding my time | 等待时机 | For weeks, I had carefully laid the pieces on my own playing board, biding my time so I could take Hulei out |
 | cadavor | 尸体 | （未出现在原文） |
 
 ### ⭐ 基础
