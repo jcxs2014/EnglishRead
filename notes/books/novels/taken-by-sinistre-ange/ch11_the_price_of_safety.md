@@ -137,12 +137,7 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | coloring | 涂色 | "They were sitting on a couch in front of the vidscreen and coloring." |
-| civilian | 平民 | "Civilian women wear skirts." |
-| off duty | 下班 | "Soldiers wear pants, even off duty." |
-| vultures | 秃鹫（比喻媒体） | "I mean, not to those vultures …" |
-| callous | 冷漠的 | "… callous against feeling anything for the Wolf's captives?" |
-| vehemence | 激烈，强烈 | "What?" Laura looked up at her, surprised at the vehemence in Trish's voice. |
-| Moonies | 月球人（贬义） | "So a few Moonies get a taste of our lives …" |
+| Moonies | 月球人（贬义） | "So a few Moonies get a taste of what life down here is like, why should that bother me?" |
 | excesses | 过度行为 | "… put a stop to most of the worst excesses when they took over …" |
 | revolt | 反抗，起义 | "So people started to revolt." |
 | bully boys | 打手，暴徒 | "His bully boys were out, protecting people …" |
