@@ -83,6 +83,7 @@ modified: "2026-09-05"
 | strewn | 散落 | "the other half has magazines and books strewn over it." |
 | battery | （法律）殴打罪 | "we cannot act as if she did not commit a battery." |
 | reckoning | 清算，报应 | "there will be a reckoning." |
+| handcuffs | 手铐 | "places her arms behind her back and handcuffs her." |
 
 ### ⭐⭐ 进阶
 
@@ -103,10 +104,8 @@ modified: "2026-09-05"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sneakers | 运动鞋 | "He's wearing jeans, a blue T-shirt, and sneakers" |
 | warrant | 搜查令 | "We have a warrant to search your home, Judge." |
 | arrest | 逮捕 | "place Martin Weber under arrest" |
-| handcuffs | 手铐 | "places her arms behind her back and handcuffs her." |
 
 ## 一句话总结
 
