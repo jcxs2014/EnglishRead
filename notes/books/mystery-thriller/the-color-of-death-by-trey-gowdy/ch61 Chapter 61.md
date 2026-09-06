@@ -53,7 +53,7 @@ modified: "2026-09-05"
 > **原句 6:** "What you call 'stuck in the middle,' they call 'life.' I know you hate hearing this, but we are going to stay stuck in the middle a bit longer, Colm."
 
 - **中文理解**："你说的'卡在中间'，她们俩称之为'生活'。我知道你不爱听，但我们还要在这中间地带多待一阵子，Colm。"（她随后补上关键句：中间地带才是他唯一能掌控的。）
-- **关键词**：they call 'life'——她们称之为"生活"；have control over——能掌控
+- **关键词**：they call 'life'——她们称之为"生活"；（她随后补的关键句 "the middle is all you will ever have control over" 已在中文理解括注完整引用）
 - **为什么这样写**：Mae 的重命名手术——把"困"改成"住"，把"中间"改成"全部"。control 一词对检察官尤其对症：他控得住法庭控不了死亡，她把"控制权"的边界画回人间。以死者（they）的口吻代言，是哀伤治疗里最温柔的话术。
 - **读者视角提示**：对照 ch28 "换框架"医嘱——本章是这个疗法的完整执行。Mae 的语言手术没有麻醉：疼，但有效。
 

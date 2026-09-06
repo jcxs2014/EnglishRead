@@ -25,7 +25,7 @@ modified: "2026-09-05"
 > **原句 2:** "You've reexamined your initial findings before finalizing them."
 
 - **中文理解**："你只是在定稿前重新检查了初步结论而已。"
-- **关键词**：reexamined——重新检查；preliminary finding——初步结论
+- **关键词**：reexamined——重新检查；initial findings——初步结论
 - **为什么这样写**：Bones 的救场是程序的语言艺术——把"我错了"重写为"流程本该如此"。这句话与 ch55 的绳索实验同源：老兵不仅找证据，还替证人保管尊严。一支能并肩作证的团队，比一个完美的报告值钱。
 - **读者视角提示**：对照 ch49 Cindy 的"by the book"逮捕 Tiffany——本书反复演示"程序语言"如何安抚人心。措辞不改变事实，但决定事实能否继续前进。
 

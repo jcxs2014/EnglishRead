@@ -32,7 +32,7 @@ modified: "2026-09-05"
 > **原句 3:** "His practice was a little, shall we say, cyclical. He did a little bit of everything, but he probably wasn't the 'go-to' lawyer for anything."
 
 - **中文理解**："他的业务嘛，怎么说呢，有点周期性。什么案子都接一点，但哪一样都算不上'首选'律师。"
-- **关键词**：cyclical——周期性的；jack-of-all-trades——样样通样样松
+- **关键词**：cyclical——周期性的；go-to——首选的（紧随其后的原文下一句 "He was more of a jack-of-all-trades..." 点出他"样样通样样松"的定位）
 - **为什么这样写**：Frank 的职业肖像用委婉语完成——cyclical 是"时有时无"的客气说法，jack-of-all-trades 是"样样平庸"的体面版本。作者借前台之口给死者立传：一个没有护城河的律师，正是敲诈者与绝望客户最爱的猎物。
 - **读者视角提示**：与 ch01 的背景呼应（财务窘迫才赴约小屋）——他的死因清单里第一项就是生计。而"万金油律师"的业务范围，恰好解释他怎么会在 Larry 案里接了那样一单。
 
@@ -53,7 +53,7 @@ modified: "2026-09-05"
 > **原句 6:** When you're young, death is what happens to other people.
 
 - **中文理解**：年轻时，死亡是发生在别人身上的事。
-- **关键词**：happens to other people——发生在别人身上；the closing chapter in a novel——小说的终章
+- **关键词**：happens to other people——发生在别人身上；（该句的后续原文 "Autopsies used to be just another investigative tool. Now it's like the closing chapter in a novel." 已在"为什么这样写"括注中完整引用）
 - **为什么这样写**：年龄主题在此定音——Bones 与 Frank 同代，他读的不是报告，是自己的预演。（紧随其后的原文把尸检报告从"侦查工具"改写成"小说的终章"，完成同一层职业祛魅：法医文学化的瞬间，就是人意识到自己会死的那一刻。）
 - **读者视角提示**：对照 ch28 Mae 的"换一种框架处理哀伤"——Bones 的方式是文学化。这对老搭档处理死亡的方式（法律化 vs 文学化）正是他们互补的暗面。
 
@@ -91,7 +91,7 @@ modified: "2026-09-05"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | ambled | 溜达 | "Bones ambled back to his car" |
-| jack-of-all-trades | 样样通样样松的人 | "He was more of a jack-of-all-trades" |
+| jack-of-all-trades | 样样通样样松的人 | "He was more of a jack-of-all-trades from wills to closings to divorce and criminal law." |
 | installments | 分期付款 | "clients who were paying on installments" |
 | blocking and tackling | （足球）基本功（喻跑腿杂活） | "blocking and tackling when the lawyers didn't want to meet with someone." |
 | bear a little further investigation | 值得再查一查 | "Charlotte might bear a little further investigation." |
