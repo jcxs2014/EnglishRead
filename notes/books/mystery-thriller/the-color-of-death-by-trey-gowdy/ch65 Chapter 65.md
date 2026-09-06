@@ -43,10 +43,10 @@ modified: "2026-09-05"
 - **为什么这样写**：全章的"职业生涯最蠢一步"以现在进行时引爆（right now / dropping）——豁免的魔法在于时间差：Lucas 从被告席瞬移到证人席，Bruton 之墙应声而塌，而"放弃起诉"换来的，是一个可以强制作证的、已洗白的关键证人。Colm 把司法的橡皮泥捏到极限。
 - **读者视角提示**：对照 ch63 "抓起电话"的决定——这一步从护士站就开始铺了：新 DNA 是他敢豁免的底气（不怕放错人）。读者此刻应当倒带：如果纸巾上没有剃须膏，这场豁免就是真的自杀。
 
-> **原句 5:** "The report states that... there were also trace amounts of alum commonly found in a styptic pencil... In other words—shaving cream. Additionally, the tissues in question did not match any of the tissues used at the salon."
+> **原句 5:** "In other words—shaving cream. Additionally, the tissues in question did not match any of the tissues used at the salon."
 
-- **中文理解**："报告显示……还有微量明矾——止血笔的常见成分……换句话说——剃须膏。此外，涉案纸巾与发廊使用的任何纸巾都不匹配。"
-- **关键词**：alum——明矾；a styptic pencil——止血笔；shaving cream——剃须膏；did not match——不匹配
+- **中文理解**："换句话说——剃须膏。此外，涉案纸巾与发廊使用的任何纸巾都不匹配。"（前句报告列明：除 Lucas 血迹比对确凿外，还检出止血笔常见的微量明矾等成分。）
+- **关键词**：shaving cream——剃须膏；did not match——不匹配；（报告前文原词：alum 明矾、a styptic pencil 止血笔）
 - **为什么这样写**：化学名录的排比轰炸是本章的火力巅峰——一串普通读者读不完的成分名（butylated hydroxytoluene…），落点只有两个词：止血笔、剃须膏。血不是在发廊流的，是在浴室刮胡子时流的；纸巾不是发廊的，是他家的。家族 DNA 的恐怖幕布被一块浴室垃圾掀翻。
 - **读者视角提示**：回想 ch54 Travis 的"chain saw"嘲笑——那个被所有人当作嫌疑信号的"剃须疤"，此刻成为清白的指纹。线索的复用（疤→剃须→浴室→止血笔→明矾）是全书物证学最漂亮的一次闭环。
 
