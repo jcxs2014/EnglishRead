@@ -27,11 +27,11 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意随后 Byrd 的显化描写（fully healed. Fully present. Fully myself. Fully free）——四个 Fully 的排比是全书给她的"健康报告"终稿；飞行是 Part Five 以来她第一次以龙形毫无阴影地起飞。
 
-**原句 2:** "I would choose you every day."
+> **原句 2:** "I would choose you every day."
 
 **中文理解**："就算没有命定，我也会每天选择你。"
 
-**关键词**：choose you every day（每天选择你）/ giving in to fate（向命运投降）
+**关键词**：choose you every day（每天选择你）
 
 **为什么这样写**：求婚词的核心命题把 fated mates 设定"翻新"——bond 是命运的赠与，而求婚是自由的证明：她在所有"不必选择"之处主动选择；这一句把全书"命定爱情"的世界观补上了自由意志的另一半，也让求婚区别于 bond 的存在意义。
 

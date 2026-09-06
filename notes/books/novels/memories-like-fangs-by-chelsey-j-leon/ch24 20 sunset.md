@@ -61,7 +61,7 @@ modified: "2026-09-06"
 
 **中文理解**：（Cooper 惊问）"你不是把那玩意关了吗！"
 
-**关键词**：turned that shit off（把 bond 关掉）/ it must have taken more magic than I thought（法术耗损超预期）
+**关键词**：turned that shit off（把 bond 关掉）
 
 **为什么这样写**：反派的技术事故用对话现场拆穿——Lilah 的记忆潜行魔法与封锁 spell 抢同一池魔力，追查结界的代价是 bond 门忘了锁；"I did!" 的辩解与 "The spell took too much…" 的虚脱连成因果，给"反派并非全能"亮出仪表盘读数。
 

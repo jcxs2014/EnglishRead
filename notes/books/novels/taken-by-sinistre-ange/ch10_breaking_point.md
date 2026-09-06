@@ -75,7 +75,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：Trish 的"some semblance of feelings" 是全书的转折点——她终于承认了自己的情感，但用"semblance"（像）来保持距离。
 
-> **原句 7:** She didn't enjoy swimming. She liked the water but hated the way her muscles ached all over; she didn't float very well, and her lungs burned for air no matter how often she turned her head to take in a breath—it was never enough.
+> **原句 7:** Trish didn't enjoy swimming.
 
 **中文理解**：Trish 不喜欢游泳。她喜欢水，但讨厌她肌肉疼痛的方式；她浮力不好，她的肺渴望空气，无论她多久转头呼吸一次——永远不够。然而，游泳比再次和 Jordan 度过早晨要好。
 
@@ -159,7 +159,7 @@ modified: "2026-09-06"
 | sorry | 对不起 | "Ow! I'm sorry! Please!" |
 | water | 水 | … hold a glass of water for her to drink. |
 | cake | 蛋糕 | … a small, chocolate cake … |
-| swimming | 游泳 | She didn't enjoy swimming. She liked the water but hated the way her muscles ached all over … |
+| swimming | 游泳 | Trish didn't enjoy swimming. |
 | pool | 池子 | … spending the morning with Jordan again. She didn't know how to feel about him. |
 
 ## 一句话总结

@@ -27,7 +27,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：对照 ch20 Byrd 家族树（Tree Roots and Branches——根与枝）与本章"战区"——两个"家"的地质报告并读，正是全书"原生家庭决定论 vs 自建家庭论"的展台。
 
-**原句 2:** "You just let my baby die," she said, her voice low, haunting, and vacant.
+> **原句 2:** "You just let my baby die," she said, her voice low, haunting, and vacant.
 
 **中文理解**："你就这样眼睁睁让我孩子去死，"她说，声音低沉、瘆人、空洞。
 
@@ -41,17 +41,17 @@ modified: "2026-09-06"
 
 **中文理解**："Natassa，够了！"我打断她。我的命令里带着一种我从没听过、也从没用过的分量。
 
-**关键词**：a heft to my command（命令的分量）/ demanded their attention（强制所有人注意）
+**关键词**：a heft to my command（命令的分量）
 
 **为什么这样写**：领袖觉醒写成一桩"声音事故"——她吼的是自家表妹，音波却让全屋人被"击中"；"What the fuck was that?" 的自我惊吓紧随其后：能力先于认知到场；本章题 Fire Drill（消防演习）的反讽在此合拢：演习变实战，警报是从她自己喉咙里拉响的。
 
 **读者视角提示**：对照 ch19 的 "like the leader I was"——本章给出生理证据： Huntscommander 的命令权已在她体内自动激活，连母亲都没料到；权力传承不靠仪式，靠危机。
 
-**原句 4:** "You are not to challenge him. I say that not as your mother. That is a direct order from your acting Huntscommander."
+> **原句 4:** "You are not to challenge him. I say that not as your mother. That is a direct order from your acting Huntscommander."
 
 **中文理解**："不许你挑战他。这句话我不是以母亲的身份说的——这是代 Huntscommander 的直接命令。"
 
-**关键词**：not as your mother（不以母亲身份）/ pulled rank（动用职级压制）
+**关键词**：not as your mother（不以母亲身份）/ a direct order（直接命令）
 
 **为什么这样写**：母亲把爱收进职权鞘中——她清楚女儿的脾气挡不住，于是换上官印；"That would kill me"（上一段）与 "First Blade, do you understand"（本段）同框，完成全书最痛的一次母职表达：用制度锁住孩子，只为让她活着；被命令的 Quinn 反应（spine rigid/tears hot）证明命令的效力是生理性的。
 

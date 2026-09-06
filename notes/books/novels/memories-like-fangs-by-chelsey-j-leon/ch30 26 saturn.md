@@ -41,7 +41,7 @@ modified: "2026-09-06"
 
 **中文理解**：那是我鳞片的幽灵。
 
-**关键词**：ghost of my scales（鳞片之影）/ platinum white shimmer（铂白微光）
+**关键词**：the ghost of my scales（鳞片之影）
 
 **为什么这样写**：车窗倒影里的"未遂显化"只用一句命名——"ghost" 同时指影像之淡与人生之憾：如果母亲不死，那年圣诞节她就会是龙；独立成段的一句把全书最大的一枚"如果"轻轻放在桌上，随即被她自己收回（"There was no point in thinking about the possibilities"）。
 
@@ -61,7 +61,7 @@ modified: "2026-09-06"
 
 **中文理解**：然后，我彻底失去了控制。
 
-**关键词**：lost all control（彻底失控）/ bathed in red（红光沐浴）
+**关键词**：I lost all control（彻底失控）
 
 **为什么这样写**：章末三连短段（红光→笑声→项链灼烧）后砸下这句——"control" 一词回收全书：Byrd 的龙之失控（ch06）、记忆失控（ch14）、现在是黑曜石项链的失控；凶手未露面而武器已到位，Lilah 的"另一个办法"（ch22 预告）正式启动——她要的就是这条通往龙族记忆的项链/血脉通道。
 

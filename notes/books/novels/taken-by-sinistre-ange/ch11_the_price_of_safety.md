@@ -15,7 +15,7 @@ modified: "2026-09-06"
 
 ## 精读
 
-> **原句 1:** He didn't seem bothered by this question either. "Soldiers wear pants, even off duty. Civilian women wear skirts. It's the easiest way to identify them."
+> **原句 1:** "She's like the Wolf, but her territory is further West," Laura said, putting down the orange pen she'd been using and looking over the options in front of her before picking up a blue one. "She's pretty scary."
 
 **中文理解**：他似乎对这个士兵并不感到困扰。"士兵穿裤子，即使下班。平民女性穿裙子。这是最容易识别他们的方式。"
 
@@ -121,7 +121,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| identify | 识别，确认 | "Civilian women wear skirts. It's the easiest way to identify them." |
+| identify | 识别，确认 | "She's like the Wolf, but her territory is further West," Laura said, putting down the orange pen she'd been using … |
 | a taste of our lives | 尝尝我们生活的滋味 | "So a few Moonies get a taste of what life down here is like, why should that bother me?" |
 | crueler | 更残酷的 | "… when he and the other original leaders all started to become older, crueler …" |
 | devil we known | 已知的魔鬼 | "I was afraid he might be worse than the devil we knew …" |

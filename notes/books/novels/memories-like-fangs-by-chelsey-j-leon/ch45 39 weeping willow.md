@@ -21,7 +21,7 @@ modified: "2026-09-06"
 
 **中文理解**：有时，过去并不会重演——它只是押韵。
 
-**关键词**：didn't repeat… rhymed（不重演，只押韵）/ bookmark in the middle of a sentence（句中的书签）
+**关键词**：didn't repeat itself. It rhymed.（不重演，只押韵）
 
 **为什么这样写**：章首引用式警句为葬礼定调——历史不复印，只对仗：15 年前的空棺葬与今日的真身火葬互为韵脚；"bookmark" 的阅读比喻（她曾把葬礼比作插在读不懂的句子中间的书签）在此获得回收：本章终于读到了那个句子的结尾。
 
@@ -37,11 +37,11 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意她随即说 "I was a version of myself that my mother had never gotten to witness"——合并的不是身份而是见证：母亲缺席的部分由 Byrd 自己补完并展示给她看。
 
-**原句 3:** "I'm so sorry that this happened to you. That my family did this to you."
+> **原句 3:** "I'm so sorry that this happened to you. That my family did this to you."
 
 **中文理解**："我很抱歉这一切发生在你身上。是我的家族对你做了这一切。"
 
-**关键词**：my family did this to you（我的家族对你做的）/ I will make sure they pay（我会让他们付出代价）
+**关键词**：my family did this to you（我的家族对你做的）
 
 **为什么这样写**：Quinn 对遗骸的道歉没有绕开主语——她直接把"加害者"指认为"我的家族"，把 ch16 "I came from the man who did" 的私人愧疚升级为公开的家族问责；对逝者立誓（"For every year they robbed you of"）让复仇从情绪变成条款，也是她在 Byrd 母亲面前"提亲"式的自我陈述。
 

@@ -51,7 +51,7 @@ modified: "2026-09-06"
 
 **中文理解**："别盯着刀看，我的小蜻蜓。"（她随后补充：你要感受它正在做什么、接下来会做什么。）
 
-**关键词**：Don't look at the blade（别看刀）/ feel what it's doing（感受它的动向）
+**关键词**：Don't look at the blade（别盯着刀）
 
 **为什么这样写**：Quinn 的实战教学只给一条心法——把"武器"从对象升级为"人"的延伸（下一段 "You are dodging me"），这既是猎人教条的泄露，也是亲密关系的悖论演示：她必须真实地伤害才能教会爱人存活；"I'm so very, very fucking sorry in advance" 的道歉随招式同步送达。
 
@@ -61,7 +61,7 @@ modified: "2026-09-06"
 
 **中文理解**："你这个拉拉居然靠亮胸赢了比武？！"
 
-**关键词**：pop a fucking titty（掀bra战术）/ to win a fight（为了赢）
+**关键词**：pop a fucking titty（亮胸战术）
 
 **为什么这样写**：全章的"正经训练"被一记最不正经的绝杀收尾——Everett 的崩溃台词以家庭喜剧的分贝为战斗定性；Byrd 的战术（利用爱人的欲望当破绽）其实是 Quinn 教学的镜像应用："dodge me and everything that I am"——她躲开的正是"整个 Quinn"。
 

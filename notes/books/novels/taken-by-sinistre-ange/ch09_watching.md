@@ -105,13 +105,13 @@ modified: "2026-09-06"
 
 **读者视角提示**：Jordan 的"赌注"是精心设计的：无论 Trish 是湿还是不湿，他都会得到"某些东西"。这是"庄家必赢"的游戏。
 
-> **原句 10:** Being bound gave Trish permission to let herself go—there was freedom from guilt when she was tied up and choiceless. She didn't have to feel shame when he, trailed soft kisses over her entire body, stirring her arousal with his lips and tongue, as though he were worshiping every inch of her.
+> **原句 10:** Somehow, watching this on a screen made it more erotic—less real, less terrible, like she was watching a movie.
 
-**中文理解**：被绑给 Trish 允许自己释放的自由——当她被绑起来没有选择时，就没有了罪恶感。当他在她全身轻轻吻过，用嘴唇和舌头激起她的情欲，仿佛他在崇拜她的每一寸肌肤时，她不必感到羞耻。
+**中文理解**：不知何故，在屏幕上看这个让它变得更加色情——不那么真实，不那么可怕，就像她在看电影一样。
 
-**关键词**：bound, choiceless, worshiping
+**关键词**：screen, erotic, movie
 
-**为什么这样写**：bound 指"被绑"——Trish 的"自由"来自"被绑"，这是最残酷的悖论。"choiceless" 指"没有选择"——当她"没有选择"时，她就没有"责任"。"worshiping" 指"崇拜"——Jordan 的"温柔"是另一种形式的暴力。
+**为什么这样写**：Trish 的"解离"在此达到高潮——通过"屏幕"这一媒介，她将自己的"观看"与"参与"分离，将"恐怖"转化为"娱乐"。
 
 **读者视角提示**：Trish 的"freedom from guilt" 是终极的心理防御：当身体被囚禁，心灵选择"解放"自己，通过接受来逃避痛苦。
 
@@ -156,7 +156,7 @@ modified: "2026-09-06"
 | forget | 忘记 | … made it far too easy to forget where she was … |
 | give into | 屈服，沉溺 | … and just give into it. |
 | used to | 习惯于 | Trish was becoming used to waking up being pleasured. |
-| news | 新闻 | "Have you seen any of the news shows?" Bella whispered. |
+| news | 新闻 | "Why don't you let me watch the tv vids?" Trish focused on the present and herself, rather than the past and him. |
 | tv | 电视 | Jordan had left Trish alone in his room and turned on the vidscreen for her. |
 | remote | 遥控器 | The door to Trish's right swished open, and she let out a strangled cry, fumbling for the vid remote. |
 | screen | 屏幕 | … fumbling for the vid remote … |

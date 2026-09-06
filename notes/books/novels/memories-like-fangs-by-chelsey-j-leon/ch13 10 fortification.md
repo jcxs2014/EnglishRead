@@ -51,7 +51,7 @@ modified: "2026-09-06"
 
 **中文理解**：好运与兴旺。荣光。爱。幸福。
 
-**关键词**：花语的四个名词短句 / peonies（牡丹）
+**关键词**：Good fortune and prosperity. Honor. Love. Happiness.（牡丹花语四连）
 
 **为什么这样写**：牡丹花语用四个独词段砸出——"Happiness" 后面紧跟的现实（Byrd 被抓）把花语变成反讽的讣告；花是 Quinn 万圣节表白的信物，Archive 此刻复刻它，等于用她的爱情密码向她报丧。
 

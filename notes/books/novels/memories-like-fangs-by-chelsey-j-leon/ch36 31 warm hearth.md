@@ -41,7 +41,7 @@ modified: "2026-09-06"
 
 **中文理解**：可是，命定伴侣？他们是为你们创造、且只为你一人而造的"真人"（或"真人们"）。他们是你的完美契合。
 
-**关键词**：the highest law（最高法）/ sacred（神圣）
+**关键词**：your true person, or people（真人们）/ your perfect match（完美契合）
 
 **为什么这样写**：Ayrie 的婚恋论用"法条"语体给出——把 bond 从言情设定升格为超自然社会的宪法层级；"It isn't without its struggles" 的转折句为 Byrd 的疑问留出合法性：连最高法都承认考验，她的挣扎不是罪。
 

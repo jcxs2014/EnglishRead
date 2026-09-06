@@ -51,7 +51,7 @@ modified: "2026-09-06"
 
 **中文理解**："我们备战。"（随后 Sire 分派：Ayrie 与 Byrd 去组织平民撤离。）
 
-**关键词**：prepare for war（备战）/ organize the civilians（组织平民）
+**关键词**：prepare for war（备战）
 
 **为什么这样写**：Sire 的战时分工把 Byrd 放进"守护者"而非"战力"栏——刚在 ch29 学会打架、ch35 显化成龙的她，被分派的第一任务是疏散：领导力叙事（protect first, fight second）再次压过武力叙事；"We take no prisoners" 的狠话与民防任务并置，展示这个家族的战争伦理全貌。
 

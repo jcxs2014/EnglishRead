@@ -31,7 +31,7 @@ modified: "2026-09-06"
 
 **中文理解**："不过，'活着'让你在最汹涌的水域里保持漂浮。你有时会沉到水下，甚至会呛上几口水。那是健康的。但爱你的人不会让你沉下去、再也回不了头。他们会帮你找到对岸的陆地。"
 
-**关键词**：a vast dark sea（浩瀚暗海）/ living keeps you afloat（活着让你漂浮）
+**关键词**：living keeps you afloat（活着让你漂浮）/ the most turbulent waters（最汹涌的水域）
 
 **为什么这样写**：母亲的哀伤论与全书水意象合流——从 ch03 的 Titanic 溺水、ch05 的无岸之溺到本句的"暗海漂浮"，本书的海洋最终被赋予泳姿而非终点；"Those who love you will keep you from going under" 一句把"漂浮"定义为集体项目。
 
