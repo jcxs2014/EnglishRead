@@ -102,7 +102,7 @@ modified: "2026-09-06"
 | 词条 | 释义 | 例句（原文） |
 |------|------|------|
 | sneer | 嘲弄 | His lips twisted into a sneer |
-| collapsed | 倒下；瘫软 | She collapsed forward slightly, as much as her bindings would allow her. |
+| shaking | 发抖 | her shoulders shaking from the effort alone |
 | purr | （猫般）呼噜声 | that you purr in your sleep instead of snoring |
 
 ## 一句话总结
