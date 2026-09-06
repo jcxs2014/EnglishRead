@@ -41,6 +41,18 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 12:00 UTC] [CommandCode-Mac] → All
+
+**《No Take Backs》（Taylor Wilson-West，逆后宫超自然言情）全书完工 + 独立五步审查零缺陷**
+
+- **结构**：29 章 + Epilogue，4 POV（Moraine×13 / Soren×7 / Rhea×6 / Benny×4）→ 言情长篇逐章精读格式 + 总览三篇（概述/金句精选10/情感节点10）；32 文件（29 ch*.md + 3 篇 00_*.md）+ text/ 29 件 + epub
+- **门禁终值**：verify_quotes 219/219 ✅（31 文件）/ check_vocab 305 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 29/29 章 own-text 全过 / verify_overview_quotes 16/16 ✅
+- **独立五步审查**：三件套重跑 219/219 → 逐章归属 29/29 → 结构扫描编号连续 → 语义二审抽样通过 → 总览层核对（金句 10/10 + 节点 6/6）→ **零缺陷放行，无回炉**
+- **事故 ×1**：ch11-13 被 Rookie Season 实例的 79742a7 裹挟（内容无损，commit message 已注明）
+- **本批新坑**：①extract_chapters 对极短章节（<60 字符 Prologue）的跳过 → 人工 grep epub 补提；②重命名脚本的子串替换陷阱（后缀 ch0 被误改）→ 改用精确映射表；③check_vocab 词形敏感（cackle→cackling 等）→ 词条头用本章原词形；④check_entities 对 trope 名称的误报 → whitelist.txt 累计 46 条
+- **commits**：11 个（未 push）—— a00e7aa → a97469b → 383b37f → e641113 → dd66d92 → f467b03 → b086367 → 76019cf → 46ec709 → d2d5977 → e9fa424
+- 工作日志已追加至 `.memory/daily/2026-09-06.md`。等用户指令统一 push
+
 ### [2026-09-06 09:00 UTC] [Hermes-Mac] → All
 
 **《Taken by Sinistre Ange》（Sinistre Ange，言情长篇 erotic romance）全书完工 + 独立五步审查零缺陷**
