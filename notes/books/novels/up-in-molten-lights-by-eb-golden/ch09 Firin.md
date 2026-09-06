@@ -204,7 +204,7 @@ modified: "2026-09-06"
 | wrenched awake | 被猛然拽醒 | starvation wrenched me awake |
 | hold one's illusion | 维持幻术 | how long I could hold my illusion under the strain |
 | restraint snapped | 克制崩溃 | My restraint snapped |
-| stabbing knives | 像刀刺入 | a sweet scent stabbing knives into my stomach |
+| stabbing knives | 像刀刺入 | A sweet scent curled out of a bag in his hand, stabbing knives into my stomach. |
 | comprehensive | 全面的 | Your training has proven comprehensive |
 
 ### ⭐⭐ 进阶

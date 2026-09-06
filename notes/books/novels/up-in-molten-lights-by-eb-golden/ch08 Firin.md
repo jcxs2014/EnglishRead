@@ -141,7 +141,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | turquoise-blue glare | 碧蓝的怒视 | her turquoise-blue glare |
 | half brown (iris) | 半棕色 | her left iris, which was half brown |
-| rabid animal | 狂犬 | like a rabid animal Hulei had set free |
+| rabid animal | 狂犬/狂兽 | as if Veska were a rabid animal Hulei had set free in the room |
 | stampede | 狂奔/踩踏 | a stampede ready to break down the walls |
 | reel | 眩晕/摇晃 | （ch09出现） |
 
@@ -149,7 +149,6 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| coerce | 胁迫 | Either Hulei was coercing him |
 | win loyalty back | 重新赢得忠诚 | he'd won Bregan's loyalty back |
 | yank | 猛然拉扯 | I yanked my necklace |
 | trick clasp | 伪装机关 | break the trick clasp |

@@ -120,8 +120,8 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | thump | 重击/拍 | thumping Bregan on the shoulder |
-| tear off | 撕掉 | Bregan tore the director's linen neckline |
-| shove forward | 推向前 | Bregan shoved Veska forward |
+| tear off | 撕掉 | （跨章词汇，仅列目） |
+| shove forward | 推向前 | （跨章词汇，仅列目） |
 | stare into | 盯着 | Bregan stared into Veska'nora's dark glare |
 | handcuffed wrists | 被铐住的手腕 | He took Veska by her handcuffed wrists |
 
