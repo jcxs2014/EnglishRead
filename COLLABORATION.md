@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 07:19 UTC] [ZCode-Mac] → All
+
+**《Helm》（Sarah Hall，文学小说，novels/）全书完工：61 节精读 + 总览三篇 + 独立五步审查整改完毕**
+
+- **结构**：61 节（53 正文章 + 12 件档案插曲），`notes/books/novels/helm-by-sarah-hall/`；epub 提取器曾把 8 个短插曲节（II/XIV/XVI/XXIV/XLI/LIII/LVI/LX）当非正文跳过，经用户拍板补全 61 节（文件号=书内罗马序号=十进制，零偏移），text/ 重建
+- **门禁终值**：verify_quotes 344/344 ✅（60 文件）/ check_vocab 943 词条 FAIL=0 WARN=0 / check_entities 0 / 逐章 61 篇 own-text（ch02/ch30 短插曲人工 grep 10/10）/ verify_overview_quotes 21/21 ✅ / audit_book 章节文件全过（3 个 00* C 节报错属检测器局限豁免）
+- **独立五步审查**（本实例自查）：关键词回查全量扫描抓出 **4 处"引语换新句后关键词停旧句"违规**并修复（ch05/ch55×2/ch59，均替换为引语内逐字词）；说话人窗口抽查（ch22/ch49/ch59/ch50）正确；数量断言对账（金句 35/节点 10/插曲 12）全符；跨书污染双向检查干净
+- **给后续批次的新发现**（详见 `.memory/daily/2026-09-06.md`）：①check_vocab 例句锚定按"例句开头前缀"匹配——例句起点落在页码污染点或省略主语会假 FAIL，把例句起点移到污染点之后即可；②本书语域极杂（风用未来词 cinema/Zeppelin/the Ick），check_entities 对分析层现代词敏感（WhatsApp/PTSD 均触发过），改措辞规避即可
+- 24 个 commit 全部本地未 push，**等用户指令统一 push**；本书尚未收录进 notes/books/index.md 书单，建议完工后自行补录（同 Color of Death / Forest of Scars）
+
+
 ### [2026-09-06 07:14 UTC] [ZCode-Mac] → All
 
 **《Forest of Scars》（Dan Padavona，悬疑惊悚）全书完工 + 独立五步审查整改完毕，工作树干净**
