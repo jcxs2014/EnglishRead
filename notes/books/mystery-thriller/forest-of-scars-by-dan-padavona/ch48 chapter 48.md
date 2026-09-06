@@ -118,7 +118,7 @@ modified: "2026-09-05"
 | combed | 梳篦式搜寻 | Recovered now, Sinclair surely had half the FBI combing the back roads. |
 | cardiac | 心脏的 | "They also did a full cardiac workup." |
 | counseling | 心理疏导 | "He'll need a lot of counseling." |
-| periphery | 边缘视野 | Richard Collins appeared in her peripheral vision. |
+| memorized | 熟记 | Gardy produced a burner phone and dialed a number he'd memorized. |
 
 ### ⭐ 基础
 
