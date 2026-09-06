@@ -92,11 +92,11 @@ modified: "2026-09-06"
 - 为什么这样写：Sophia 的"stepmom"请求——不是"Hallie"，是"stepmom"。这是她对"family"的渴望。
 - 读者视角提示：Sophia 的"接受"——她想要 Hallie 成为"家人"。
 
-⑫ "You're good for her." / "She's been lonely. She's needed connection. A different kind than I could provide." / "Your tenderness and warmth. She was instantly comfortable with you. And it's not because you're a woman or give off maternal energy—though you do. It's because you're you."
+⑫ "You're good for her," he says, looking reverently into Sophia's bedroom.
 
-- 中文理解：你对她有好处。——她一直很孤独。她需要连接。一种我能提供的不同类型。——你的温柔和温暖。她立刻对你感到舒适。不是因为你是个女人或散发出母性气息——虽然你是。是因为你是你。
-- 关键词：good for her / lonely / tenderness and warmth / because you're you
-- 为什么这样写：Deck 的"because you're you"——不是"因为你像妈妈"，是"因为你做你自己"。这是最高评价。
+- 中文理解：你对她有好处——他看着 Sophia 的房间，带着敬意说。
+- 关键词：good for her / reverently
+- 为什么这样写：Deck 的"reverently"（带着敬意地）——他看着 Sophia 的房间，想起 Hallie 对她的影响。
 - 读者视角提示：Deck 的"认可"——Hallie 对 Sophia 的影响是"不可替代"的。
 
 ## 本章词汇
@@ -107,7 +107,7 @@ modified: "2026-09-06"
 |---------|------|------|
 | bane of my existence | 我存在的祸根、最讨厌的东西 | School pick-up lines are the bane of my existence |
 | ruined me | 毁了我、让我无法回头 | Wilson Decker has ruined me |
-| pile of mush | 一滩泥、软弱无力 | I turn into a pile of mush |
+| pile of mush | 一滩泥、软弱无力 | Because I now apparently turn into a pile of mush |
 | new-age | 新时代的、新潮的 | Some new-age version of family |
 
 ### ⭐⭐ 进阶
@@ -119,14 +119,21 @@ modified: "2026-09-06"
 | co-parent | 共同抚养 | co-parent our child |
 | stay-at-home mom | 全职妈妈 | a stay-at-home mom |
 
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| contemplative | 沉思的、思考的 | her contemplative face |
+| perceptive | 有洞察力的、敏锐的 | Damn, she's perceptive |
+
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| booster seat | 儿童安全座椅 | buckles herself up |
 | rearview mirror | 后视镜 | in the rearview mirror |
-| contemplative | 沉思的、思考的 | her contemplative face |
-| perceptive | 有洞察力的、敏锐的 | Damn, she's perceptive |
+| half-sibling | 同父异母/同母异父的兄弟姐妹 | I'm pregnant with her half-sibling |
+| stepmom | 继母 | I wouldn't mind if you were my stepmom |
+| nestles | 依偎、蜷缩 | She nestles against me |
 
 ## 一句话总结
 

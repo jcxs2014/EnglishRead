@@ -36,18 +36,18 @@ modified: "2026-09-06"
 - 为什么这样写：Deck 用 Sophia 的问题来"测试" Hallie 的反应——他想知道 Hallie 怎么"定义"他们。
 - 读者视角提示：Deck 的"试探"——他用 Sophia 来问"我们是什么"。
 
-④ "Your tenderness and warmth. She was instantly comfortable with you. And it's not because you're a woman or give off maternal energy—though you do. It's because you're you."
+④ "You're not prioritizing her. You live your entire life for her at the cost of yourself. That's different. And it only leads to bitterness."
 
-- 中文理解：你的温柔和温暖。她立刻对你感到舒适。不是因为你是个女人或散发出母性气息——虽然你是。是因为你是你。
-- 关键词：tenderness and warmth / maternal energy / because you're you
-- 为什么这样写：Deck 的"because you're you"——不是"因为你像妈妈"，是"因为你做你自己"。这是最高评价。
-- 读者视角提示：Deck 的"认可"——Hallie 对 Sophia 的影响是"不可替代"的。
+- 中文理解：你不是在优先考虑她。你为了她而活，牺牲了自己。那不一样。那只会导致痛苦。
+- 关键词：prioritizing / at the cost of yourself / bitterness
+- 为什么这样写：Hallie 的"insight"——她区分了"prioritizing"（优先）和"living for"（为……而活）。"at the cost of yourself"是"牺牲自己"。
+- 读者视角提示：Hallie 的"智慧"——她不只是"nanny"，是"life coach"。
 
-⑤ "Call me Wilson." / "Deck or Decker is what people who don't know me as well call me. Sports buddies, the guys I work with. Anyone who knows me well calls me by my real name. Please, Hallie. Call me Wilson."
+⑤ "Call me Wilson," I blurt.
 
-- 中文理解：叫我 Wilson。——Deck 或 Decker 是不太熟的人叫我的。体育伙伴、同事。任何了解我的人都叫我的真名。求你了，Hallie。叫我 Wilson。
-- 关键词：real name / knows me well / call me Wilson
-- 为什么这样写：Deck 的"real name"请求——不是"boyfriend"，是"Wilson"。叫真名是"intimacy"的标志。
+- 中文理解：叫我 Wilson——我脱口而出。
+- 关键词：blurt / call me Wilson
+- 为什么这样写：Deck 的"blurt"（脱口而出）——他不是"计划"说的，是"忍不住"说的。这是他的"真实情感"。
 - 读者视角提示：Deck 的"亲密请求"——他想成为"了解他的人"。
 
 ⑥ "The only time you get to call me that is if you're riding my cock."
@@ -57,18 +57,11 @@ modified: "2026-09-06"
 - 为什么这样写：Deck 的"sexy threat"——他把"Mr. Decker"变成"性游戏"的一部分。这是他的"playful side"。
 - 读者视角提示：Deck 的"playful"——他把"严肃"变成"游戏"。
 
-⑦ "You're not prioritizing her. You live your entire life for her at the cost of yourself. That's different. And it only leads to bitterness."
+⑦ "I hope it is. Maybe it's Dad looking out for me. And Soph. Sophia adores her."
 
-- 中文理解：你不是在优先考虑她。你为了她而活，牺牲了自己。那不一样。那只会导致痛苦。
-- 关键词：prioritizing / at the cost of yourself / bitterness
-- 为什么这样写：Hallie 的"insight"——她区分了"prioritizing"（优先）和"living for"（为……而活）。"at the cost of yourself"是"牺牲自己"。
-- 读者视角提示：Hallie 的"智慧"——她不只是"nanny"，是"life coach"。
-
-⑧ "It's fate." / "I hope it is. Maybe it's Dad looking out for me. And Soph. Sophia adores her." / "And so do you."
-
-- 中文理解：这是命运。——我希望是。也许是我爸在守护我和 Soph。Sophia 爱她。——你也爱她。
-- 关键词：fate / looking out for / adores
-- 为什么这样写：Deck 妈妈的"fate"信念——她相信"Dad"在"looking out for"（守护）他们。这是"fate"主题的升华。
+- 中文理解：我希望是。也许是我爸在守护我和 Soph。Sophia 爱她。
+- 关键词：looking out for / adores
+- 为什么这样写：Deck 的"fate"信念——他相信"Dad"在"looking out for"（守护）他们。这是"fate"主题的升华。
 - 读者视角提示：Deck 的"family"——他爸的"守护"让"fate"更真实。
 
 ⑨ "It has to be fate. It's everything I've wanted, but was too afraid to admit to or hope for."
@@ -101,9 +94,9 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | more than friends | 不只是朋友 | if we're more than friends |
-| maternal energy | 母性气息 | give off maternal energy |
 | real name | 真名 | calls me by my real name |
 | cryptic | 隐晦的、神秘的 | Stop being cryptic |
+| at the cost of | 以……为代价 | at the cost of yourself |
 
 ### ⭐ 基础
 
@@ -112,7 +105,7 @@ modified: "2026-09-06"
 | massage | 按摩 | gently massage them |
 | foot | 脚 | move them down toward her feet |
 | calf | 小腿 | I give her calf a squeeze |
-| bocce | 地滚球（意大利运动） | Game of croquet or bocce |
+| squeeze | 挤压、紧握 | I give her calf a squeeze |
 
 ## 一句话总结
 
