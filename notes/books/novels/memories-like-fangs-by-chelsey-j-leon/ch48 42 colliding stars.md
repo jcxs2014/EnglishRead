@@ -27,7 +27,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意随后 Byrd 的显化描写（fully healed. Fully present. Fully myself. Fully free）——四个 Fully 的排比是全书给她的"健康报告"终稿；飞行是 Part Five 以来她第一次以龙形毫无阴影地起飞。
 
-> **原句 2: "I would choose you every day."**
+**原句 2:** "I would choose you every day."
 
 **中文理解**："就算没有命定，我也会每天选择你。"
 

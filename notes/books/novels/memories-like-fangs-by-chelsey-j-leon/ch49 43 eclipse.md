@@ -27,7 +27,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意她的自我吐槽序列（hated my birthday→wish）——生日在本书的命运曲线：ch47 学会期待，本章被劫持，终章（Free）将第一次完整拥有。
 
-> **原句 2: "You are not immortal. You are not invincible. You are not a hero. You aren't even a real hunter."**
+**原句 2:** "You are not immortal. You are not invincible. You are not a hero. You aren't even a real hunter."
 
 **中文理解**："你不是不朽。你不是无敌。你不是英雄。你甚至不是真正的猎人。"
 

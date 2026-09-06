@@ -37,7 +37,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意她随即说 "I was a version of myself that my mother had never gotten to witness"——合并的不是身份而是见证：母亲缺席的部分由 Byrd 自己补完并展示给她看。
 
-> **原句 3: "I'm so sorry that this happened to you. That my family did this to you."**
+**原句 3:** "I'm so sorry that this happened to you. That my family did this to you."
 
 **中文理解**："我很抱歉这一切发生在你身上。是我的家族对你做了这一切。"
 

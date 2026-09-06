@@ -27,7 +27,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：对照 ch20 Byrd 家族树（Tree Roots and Branches——根与枝）与本章"战区"——两个"家"的地质报告并读，正是全书"原生家庭决定论 vs 自建家庭论"的展台。
 
-> **原句 2: "You just let my baby die," she said, her voice low, haunting, and vacant.**
+**原句 2:** "You just let my baby die," she said, her voice low, haunting, and vacant.
 
 **中文理解**："你就这样眼睁睁让我孩子去死，"她说，声音低沉、瘆人、空洞。
 
@@ -47,7 +47,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：对照 ch19 的 "like the leader I was"——本章给出生理证据： Huntscommander 的命令权已在她体内自动激活，连母亲都没料到；权力传承不靠仪式，靠危机。
 
-> **原句 4: "You are not to challenge him. I say that not as your mother. That is a direct order from your acting Huntscommander."**
+**原句 4:** "You are not to challenge him. I say that not as your mother. That is a direct order from your acting Huntscommander."
 
 **中文理解**："不许你挑战他。这句话我不是以母亲的身份说的——这是代 Huntscommander 的直接命令。"
 

@@ -27,7 +27,7 @@ modified: "2026-09-06"
 
 **读者视角提示**：对照 ch43 停车场的"世界变薄"——本章 Quinn 的世界里重新有了厚度（房子/婚礼/狗园）；Free 的自由不是无牵无挂，而是牵挂全部落了地。
 
-> **原句 2: "You are my dream come true, mi vida. I couldn't be happier with you and this."**
+**原句 2:** "You are my dream come true, mi vida. I couldn't be happier with you and this."
 
 **中文理解**："你就是我最成真的梦，mi vida。有你在，有这个家在，我不可能更幸福了。"
 
