@@ -87,7 +87,7 @@ modified: "2026-09-06"
 
 ---
 
-> "Oh, I'm the best." Nyfe emerged from the dark docks. "In the name of Saint Aiddwyn, you promised you wouldn't get hurt."
+> "Oh, I'm the best." … "In the name of Saint Aiddwyn, you promised you wouldn't get hurt."
 
 **中文理解**："哦，我就是最好的。"Nyfe从黑暗的码头现身。"以圣Aiddwyn之名，你答应过不会再受伤的。"
 

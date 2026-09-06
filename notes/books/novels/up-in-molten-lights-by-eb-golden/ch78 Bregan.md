@@ -75,9 +75,9 @@ modified: "2026-09-06"
 
 ---
 
-> "You did." — Pa, on what changed his mind.
+> "You did."
 
-**中文理解**："是你。"——当被问及什么让他改变。
+**中文理解**："是你。"——Bregan问什么让他改变时，Pa只答了这两个词。
 
 **关键词**：You did / what changed your mind
 
