@@ -132,7 +132,7 @@ modified: "2026-09-06"
 | mortification | 羞辱难当 | All flushed with mortification. |
 | intercepted | 拦截 | They could have intercepted us. |
 | nestled | 依偎 | A red-haired baby slept with his head nestled in the curve of her throat. |
-| knot | 发髻 | Their dark hair in its usual tight knot. |
+| knit | 眉头紧锁 | Her brow knit. |
 
 ### ⭐ 基础
 
