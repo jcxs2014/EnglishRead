@@ -118,17 +118,27 @@ modified: "2026-09-06"
 | shaky breath | 颤抖的呼吸 | I let out a shaky breath |
 | ultrasound | 超声波检查 | wait for the ultrasound tech |
 | spotting | 点滴出血 | some light spotting after sex |
-| catatonic | 紧张症的、呆滞的 | She's almost catatonic |
+| on the line | 在悬崖边、处于危险中 | on the line |
+| all-consuming | 吞噬一切的、全身心的 | all-consuming kind of love still terrifies me |
+| wormed | 钻入、潜入 | wormed her way into my heart |
+| pent-up | 被压抑的、积压的 | pent-up desire |
 | heartbeat | 心跳 | That's your baby's heartbeat |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| heartbeat | 心跳 | That's your baby's heartbeat |
+| whooshing | 呼呼声 | whooshing fills the room |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| heartbeat | 心跳 | That's your baby's heartbeat |
 | bpm | 次/分钟（beats per minute） | One hundred fifty beats per minute |
 | nubbin | 小突起、小芽 | little nubbin feet kicking |
-| whooshing | 呼呼声 | whooshing fills the room |
+| tech | 技师 | ultrasound tech |
+| screen | 屏幕 | on the screen |
 
 ## 一句话总结
 
