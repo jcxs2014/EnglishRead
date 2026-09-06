@@ -115,7 +115,7 @@ modified: "2026-09-06"
 
 ---
 
-> "Only children can be given the powers of illusion. Our children are our investment."
+> "Only children can be given the powers of illusion," she hissed into my ear. "Our children are our investment."
 
 中文理解：只有儿童才能被赋予幻术的力量。我们的孩子是我们的投资。
 

@@ -75,13 +75,13 @@ modified: "2026-09-06"
 
 ---
 
-> "He betrayed you," I silently reminded myself. "Maybe Esmai went willingly into prison in his hands, but I had not. Whatever grief or guilt he felt over my death couldn't erase the fact that he had caused it, and that he would likely do it again if given the chance."
+> Did he look so haunted because he had betrayed her, or was he distraught because he hadn't? Don't, I ordered my yearning heart. The hope wasn't worth the pain. It didn't matter what he had or hadn't done to Esmai. He had betrayed me.
 
-**中文理解**："他背叛了你，"我默默地提醒自己。"也许Esmai是自愿进入他手中的监狱，但我没有。无论他对我的死亡感到多少悲伤或内疚，都无法抹去他造成了这一事实，以及如果有机会，他可能会再次这样做。"
+**中文理解**：他看起来如此憔悴，是因为背叛了她，还是因为没有背叛而心慌？不要这样想，我命令我渴望的心。希望不值得这份痛苦。无论他对Esmai做了什么、没做什么，都不重要。他背叛了我。
 
-**关键词**：betrayed you / willingly into prison / couldn't erase / caused it / do it again
+**关键词**：haunted / yearning heart / hope wasn't worth the pain / He had betrayed me
 
-**为什么这样写**：Firin的内心独白——她提醒自己Bregan背叛了她。"couldn't erase"是她的坚定——Bregan的道歉无法抹去他的罪行。
+**为什么这样写**：Firin在信念与渴望之间拉锯——她一面从Bregan的神色里读出无辜的可能，一面用命令句掐灭希望。"He had betrayed me."以冷硬的断言收尾：她此刻还输不起相信。
 
 ---
 

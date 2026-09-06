@@ -95,7 +95,7 @@ modified: "2026-09-06"
 
 ---
 
-> "You are more like your mother in that way."
+> "You're more like your mother in that way."
 
 中文理解：在那方面，你更像你妈妈。
 

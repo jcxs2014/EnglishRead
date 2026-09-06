@@ -95,7 +95,7 @@ modified: "2026-09-06"
 
 ---
 
-> "She was so talented. Without the Stav's intricate internal surveillance system, she could easily disappear."
+> Ihzi was so talented. Without the Stav's intricate internal surveillance system, she could easily disappear.
 
 中文理解：她太有才华了。如果没有Stav复杂的内部监控系统，她可以轻易消失。
 

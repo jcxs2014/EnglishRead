@@ -75,19 +75,19 @@ modified: "2026-09-06"
 
 ---
 
-> "The new actress beside me sighed. 'It's so honorable.'"
+> "It's so honorable," the young actress beside me sighed.
 
-中文理解：我旁边的新女演员叹息道："真是太光荣了。"
+中文理解："这很光荣，"年轻的女演员在我身边叹道。
 
-关键词：honorable / sighed
+关键词：honorable / young actress / sighed
 
 为什么这样写：年轻女演员的天真对比Firin的愤怒。她相信Hulei的表演，而Firin知道真相。这是"群众被欺骗"的缩影——普通人看不到面具下的恶人。
 
 ---
 
-> "He was just like every other politician."
+> Sochya grumbled. "He's just like every other politician."
 
-中文理解：他和其他政治家没什么两样。
+中文理解：Sochya咕哝道："他和其他政客没什么两样。"
 
 关键词：every other politician
 

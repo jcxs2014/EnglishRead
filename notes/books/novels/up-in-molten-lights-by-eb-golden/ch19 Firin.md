@@ -105,7 +105,7 @@ modified: "2026-09-06"
 
 ---
 
-> "How can you look at me and not see the cracks? How can you look at me and not see me bleed?"
+> "How can you look at me and not see the cracks?" I sang, heading for the door. "How can you look at me and not see me bleed?"
 
 中文理解：你怎么看我却看不到裂缝？你怎么看我却看不到我在流血？
 

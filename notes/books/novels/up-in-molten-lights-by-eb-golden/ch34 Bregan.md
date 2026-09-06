@@ -15,7 +15,7 @@ modified: "2026-09-06"
 
 ## 精读
 
-> "What are you doing?" Bregan stopped moving, stopped breathing. Ma slid in front of the desk. His hands made fists. "What does it say?"
+> Bregan stopped moving, stopped breathing. "What are you doing?" Ma slid in front of the desk. His hands made fists. "What does it say?"
 
 **中文理解**：Bregan停住了，无法呼吸。Ma滑到桌前。他握紧拳头。"上面写了什么？"
 

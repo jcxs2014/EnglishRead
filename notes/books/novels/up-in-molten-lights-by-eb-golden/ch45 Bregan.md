@@ -17,7 +17,7 @@ modified: "2026-09-06"
 
 > The humidity blanketing the docks felt thick and heavy on the back of Bregan's neck as he watched Ruanti Perria captivate a small group of fishermen in the Spires. The politician stood atop an overturned crate, her shoulder-length blonde curls glowing in the midday sunlight as she delivered a lively oratory that could rival the president's speeches. She looked like a Labor version of Ihan Hulei. Bregan didn't know how to feel about her. He didn't trust her.
 
-**中文理解笼罩码头的潮湿感厚重地压在Bregan的颈后，他看着Ruanti Perria在Spires码头吸引了一小群渔民。这位政治家站在一个翻过来的箱子上，她齐肩的金色卷发在正午的阳光下闪闪发光，她的生动演讲可以与总统的演讲相媲美。她看起来像是Ihan Hulei的Labor版本。Bregan不知道该怎么看她。他不信任她。
+**中文理解**：笼罩码头的潮湿感厚重地压在Bregan的颈后，他看着Ruanti Perria在Spires码头吸引了一小群渔民。这位政治家站在一个翻过来的箱子上，她齐肩的金色卷发在正午的阳光下闪闪发光，她的生动演讲可以与总统的演讲相媲美。她看起来像是Ihan Hulei的Labor版本。Bregan不知道该怎么看她。他不信任她。
 
 **关键词**：humidity blanketing the docks / captivate / overturned crate / lively oratory / rival the president's speeches
 

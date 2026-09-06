@@ -115,7 +115,7 @@ modified: "2026-09-06"
 
 ---
 
-> "If he was as manipulative as you claim, he probably knows you're here."
+> "If he's as manipulative as you claim, he probably knows you're here."
 
 中文理解：如果他真像你说的那样会操纵，他可能知道你在这里。
 

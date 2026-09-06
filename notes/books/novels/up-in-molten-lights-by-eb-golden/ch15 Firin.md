@@ -65,7 +65,7 @@ modified: "2026-09-06"
 
 ---
 
-> "It was the only place where my father had ever shown me care."
+> "…the dance hall that had been my favorite place in the world as a child—the only place where my father had ever shown me care."
 
 中文理解：那是我父亲曾经对我表示过关心的唯一地方。
 

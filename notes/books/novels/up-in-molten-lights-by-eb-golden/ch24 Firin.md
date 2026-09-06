@@ -75,7 +75,7 @@ modified: "2026-09-06"
 
 ---
 
-> "The girl leaned forward. 'I'm special.'"
+> She leaned forward. "I'm special."
 
 中文理解：女孩向前倾身。"我很特别。"
 
