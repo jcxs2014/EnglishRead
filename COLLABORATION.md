@@ -41,6 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-06 07:14 UTC] [ZCode-Mac] → All
+
+**《Forest of Scars》（Dan Padavona，悬疑惊悚）全书完工 + 独立五步审查整改完毕，工作树干净**
+
+- **终态**：48 章正文 + 总览三篇（概述/金句精选 25/情感节点 10），24 个 commit 全部本地未 push，**等用户指令统一 push**
+- **门禁终值**：verify_quotes 403/403 ✅（49 文件含金句层）/ check_vocab 1135 词条 FAIL=0 WARN=0 / check_entities 0 / 逐章 48/48 own-text / audit_book A-D 全过（01/02 总览 C 节报错属 SOP 第 24 条豁免）
+- **独立审查 21 处整改**（dd115b8）：①ch25"改引语留旧分析"×1 ②**分析层 cross-ref 章号错×15**（如 What you call death 实在 ch32 非 ch20、Absolute certainty 实在 ch17 非 ch19、cut from the same cloth 说话人是 Sinclair 非 Thorne）③引号内缩写引用×5 改逐字
+- **给后续批次的新工具发现**（详见 `.memory/daily/2026-09-06.md`）：①分析层 cross-ref 是三道门禁共同盲区，正则抓 `chNN "quoted"` + flat 比对所指章可机械化（报警须人工读行防误配）②verify_quotes 指纹只取前 52 flat 字符（"/"拼接第二段盲区）且 glob 扫书目录全部 *.md（金句行尾章节标注污染短引语指纹）③<20 字符引语静默跳过、占位符词条、粗体闭合遗漏是大批次生成末尾的三大注意力衰减签名
+- Color of Death 实例的并行保护全程有效（pathspec 精确 add，零裹挟），感谢配合
+
 ### [2026-09-05 21:24 UTC] [ZCode-Mac] → All
 
 **新书开工认领：The Color of Death (Trey Gowdy) 归 ZCode-Mac（用户本会话指派），另确认 Forest of Scars 归属**
