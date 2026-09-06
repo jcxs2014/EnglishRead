@@ -105,13 +105,13 @@ modified: "2026-09-06"
 
 ---
 
-> "The Widow's Tears was the best and worst option I could have come up with to signal heartbreak." ... "Lemon coated his tongue, conjuring memories of Firin dancing and laughing, holding and loving him, trusting him."
+> "The Widow's Tears was one of his mother's favorites, full of grief and heartbreak, but also love." ... "Lemon coated his tongue, conjuring memories of Firin dancing and laughing, holding and loving him, trusting him."
 
-**中文理解**："《寡妇的眼泪》是我能想到的最好的也是最糟糕的选择，用来表达心碎。"……"柠檬覆盖了他的舌头，唤起了Firin跳舞、大笑、拥抱、爱他、信任他的记忆。"
+**中文理解**："《寡妇的眼泪》是他母亲最爱的一出戏，满溢悲伤与心碎，但也有爱。"……"柠檬味裹上他的舌头，唤起了Firin跳舞、大笑、拥抱他、爱他、信任他的记忆。"
 
-**关键词**：The Widow's Tears / Lemon coated his tongue / conjuring memories
+**关键词**：The Widow's Tears / grief and heartbreak / Lemon coated his tongue
 
-**为什么这样写**：Firin引用《寡妇的眼泪》是互文性时刻。"Lemon"是Firin的香水——Bregan的身体记得她。
+**为什么这样写**：Thora提议重演母亲生前最爱的那场戏，把诱饵直接挂在Bregan最柔软的家庭记忆上。"Lemon"是Firin的气味——身体比头脑更早认出假戏里的真心，也更容易被操纵。
 
 ---
 

@@ -55,13 +55,13 @@ modified: "2026-09-06"
 
 ---
 
-> "A letter can't hold an explanation for abandoning your son," he snarled. "A letter can't make up for running away from your dying sister. Did you leave a letter for Iima too?"
+> "A demise you caused! People died, Es. You killed them."
 
-**中文理解**："一封信无法解释你抛弃儿子。一封信也无法弥补你逃离垂死的姐妹。你也给Iima留了信吗？"
+**中文理解**："你造成的毁灭！有人死了，Es。是你杀了他们。"
 
-**关键词**：abandoning your son / make up for / running away from your dying sister
+**关键词**：demise you caused / People died / You killed them
 
-**为什么这样写**：Bregan对Ma的愤怒到达了顶点——他用Iima来攻击Ma的良知。"make up for"是道德层面的追讨——Ma的道歉永远不够。
+**为什么这样写**：Pa的愤怒在审讯室里到达顶点——三个短句层层升级，从抽象的"demise"落到直接的"You killed them"，控诉不再留任何余地。"Es"这个昵称在此刻反而刺耳：最亲密的称呼配最狠的指控，婚姻的崩塌浓缩在一行对白里。
 
 ---
 

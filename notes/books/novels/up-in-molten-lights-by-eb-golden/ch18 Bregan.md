@@ -85,13 +85,13 @@ modified: "2026-09-06"
 
 ---
 
-> "She scent—like citrus and oil, like Firin—scorched his lungs."
+> "Her scent—like citrus and oil, like Firin—scorched his lungs."
 
-中文理解：她的香水味——像柑橘和油，像Firin——烫伤了他的肺。
+中文理解：她的气味——像柑橘和油，像Firin——烫伤了他的肺。
 
-关键词：citrus and oil / like Firin / scorched his lungs
+关键词：Her scent / like Firin / scorched his lungs
 
-为什么这样写：Bregan对Thora香水的反应——它让他想起Firin。这是Firin曾经用过的香水吗？还是Thora故意选的？无论哪种，这都不是巧合。
+为什么这样写：Bregan对Thora气味的反应——它让他想起Firin。嗅觉直接触发记忆与渴望，"scorched"把怀念写成灼伤——这份执念既是动力也是软肋。
 
 ---
 

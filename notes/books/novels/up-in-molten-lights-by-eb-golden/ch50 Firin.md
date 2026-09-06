@@ -7,7 +7,7 @@ modified: "2026-09-06"
 
 ## 本章导航
 
-- **一句话概括**：Bregan来到Grande找Suri要炸药。Firin在排练厅与Bregan重逢，Suri出现。Bregan告诉他们找到了Lockup的位置，需要炸药炸开金属格栅。Suri同意帮忙联系她在Gynythaid的黑市联系人。
+- **一句话概括**：Bregan来到Grande找Suri要炸药。Firin在排练厅与Bregan重逢，Suri出现。Bregan告诉他们找到了Lockup的位置，需要炸药炸开金属格栅。他决定拉Suri入伙——她有通向Gwynythaid黑市商人的人脉，且受过爆破训练。
 - **情感弧线位置**：紧张——Firin和Bregan被迫继续他们的"三角恋"表演，Suri在场让气氛更加微妙。
 - **Tropes兑现/反转**：Suri的怀疑——Suri知道Bregan和Firin之间的关系不简单；Bregan的"tortured hero"形象让剧团成员着迷。
 - **人物弧线**：Firin从"独狼"转向"团队合作"——她开始信任Suri和Bregan。
@@ -101,193 +101,36 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| drummed my fingers | 用手指敲打 | I drummed my fingers on my thigh |
-| wandering to the door | 在门上游荡/心不在焉 | My attention kept wandering to the door |
-| replaying Bekat's fearful whispers | 回想Bekat的恐惧低语 | I kept replaying Bekat's fearful whispers |
-| picturing Ihzi slung over the shoulder | 想象Ihzi被扛在肩上 | picturing Ihzi slung over the shoulder of a Nodtacht soldier |
-| imagining the toddlers | 想象着孩子们 | imagining the toddlers in my bedroom on a surgical table |
-| bleeding out | 流血不止 | bleeding out like Ihzi's brother |
-| leaned against the frame | 靠在门框上 | He leaned against the frame |
-| ruggedly handsome, tortured-hero | 粗犷英俊的受难英雄 | in a ruggedly handsome, tortured-hero kind of way |
-| inhaled at once, like a joint prayer | 同时吸气，像共同的祈祷 | Every troupe member inhaled at once, like a joint prayer |
-| stabbed me as surely as a knife | 像刀子一样刺痛了我 | it stabbed me as surely as a knife |
-| grated windows | 格栅窗 | grated windows at the back of the building |
-| Spires' western caves | Spires的西部洞穴 | lead into the Spires' western caves |
-| old Reformist partner | 老改革派搭档 | her old Reformist partner, Cidd |
-| connections to black-market traders | 与黑市商人的联系 | connections to black-market traders out of Gwynythaid |
-| materialized beside me | 出现在我身旁 | Asli materialized beside me out of nowhere |
-| hand flew to my chest | 手飞到胸口 | My hand flew to my chest |
-| stomach tried to climb up | 胃试图爬到喉咙 | My stomach tried to climb up my throat |
+| gallant | 英勇的（Bregan魔法师角色名） | He was wearing his Guilo the Gallant illusion again, complete with the red magician’s coat. |
+| conjured | 仿佛凭空唤出 | As if we’d conjured her |
+| ethical | 讲道德的 | Thora Dayly was opportunistic enough to take this deal, ethical or not. |
+| sauntered | 悠然踱步 | ” Asli sauntered inside, scanning the shelves of expensive violins and flutes, but Bregan watched me. |
+| complied | 照办 | I assumed Bregan needed an excuse to come visit me, so I complied. |
+| hesitantly | 迟疑地 | “Is this not a group effort?” “I invited him,” Bregan said, almost hesitantly. |
+| despair | 绝望 | They wanted him to sweep their despair off the floor, like he had when he agreed to star in Qoyn & Insei. |
+| opportunistic | 投机取巧的 | Thora Dayly was opportunistic enough to take this deal, ethical or not. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Grande's green room | Grande的绿色房间 | In an armchair in the Grande's green room |
-| thigh | 大腿 | drummed my fingers on my thigh |
-| dozen | 十几个 | A dozen of the troupe's key members |
-| troupe | 剧团 | the troupe's key members |
-| reading through | 阅读 | were reading through copies |
-| copies | 副本 | copies of From Fifthday's Ashes |
-| reactions | 反应 | their reactions |
-| attention | 注意力 | My attention |
-| wandering | 游荡 | wandering to the door |
-| kids | 孩子们 | knowing the kids were out there |
-| replaying | 回想 | replaying Bekat's fearful whispers |
-| whispers | 低语 | Bekat's fearful whispers |
-| picturing | 想象 | picturing Ihzi slung |
-| shoulder | 肩膀 | over the shoulder |
-| soldier | 士兵 | Nodtacht soldier |
-| imagining | 想象 | imagining the toddlers |
-| bedroom | 卧室 | in my bedroom |
-| surgical | 手术的 | on a surgical table |
-| table | 桌子 | on a surgical table |
-| bleeding | 流血 | bleeding out |
-| brother | 兄弟 | like Ihzi's brother |
-| morning | 早上 | That morning |
-| note | 纸条 | Asli had sent me a note |
-| apologize | 道歉 | I should apologize to Bregan |
-| fight | 争吵 | for our "fight" |
-| townhome | 联排别墅 | at his townhome |
-| assumed | 猜测 | I assumed Bregan needed an excuse |
-| needed | 需要 | Bregan needed an excuse |
-| excuse | 借口 | an excuse to come visit me |
-| complied | 照做 | so I complied |
-| desperately | 拼命地 | I desperately hoped |
-| hoped | 希望 | I desperately hoped |
-| meant | 意味着 | this meant they'd found |
-| found | 找到 | they'd found the kids |
-| appeared | 出现 | Bregan appeared in the doorway |
-| doorway | 门口 | in the doorway |
-| leaned | 靠 | He leaned against the frame |
-| frame | 门框 | against the frame |
-| ruggedly | 粗犷地 | ruggedly handsome |
-| handsome | 英俊的 | ruggedly handsome |
-| tortured | 受难的 | tortured-hero |
-| hero | 英雄 | tortured-hero |
-| kind | 种类 | kind of way |
-| way | 方式 | kind of way |
-| every | 每一个 | Every troupe member |
-| member | 成员 | Every troupe member |
-| inhaled | 吸气 | inhaled at once |
-| once | 一次 | inhaled at once |
-| joint | 共同的 | like a joint prayer |
-| prayer | 祈祷 | a joint prayer |
-| stabbed | 刺 | stabbed me |
-| surely | 一定地 | as surely as |
-| knife | 刀 | as a knife |
-| definitely | 肯定地 | definitely in the Lockup |
-| Lockup | 监狱 | in the Lockup |
-| windows | 窗户 | grated windows |
-| back | 后面 | at the back of the building |
-| building | 建筑物 | the back of the building |
-| lead | 通向 | lead into |
-| western | 西部的 | Spires' western caves |
-| caves | 洞穴 | Spires' western caves |
-| get them out | 把他们救出来 | we can get them out through there |
-| through | 通过 | through there |
-| explosives | 炸药 | with some explosives |
-| squeezed | 挤压 | He squeezed my upper arm |
-| upper arm | 上臂 | my upper arm |
-| just | 只 | just need |
-| Suri | Suri | just need Suri |
-| stared | 盯着 | I stared at him |
-| old | 老的 | old Reformist partner |
-| partner | 搭档 | Reformist partner |
-| Cidd | Cidd | her old Reformist partner, Cidd |
-| used to | 过去常常 | used to get the Reformists weapons |
-| weapons | 武器 | get the Reformists weapons |
-| had | 有 | They had connections |
-| connections | 联系 | had connections to black-market traders |
-| black-market | 黑市的 | black-market traders |
-| traders | 商人 | black-market traders |
-| Gwynythaid | 格温赛德 | out of Gwynythaid |
-| trust | 信任 | You trust her |
-| new | 新的 | a new voice |
-| voice | 声音 | a new voice |
-| asked | 问 | a new voice asked |
-| materialized | 出现 | Asli materialized beside me |
-| beside | 在……旁边 | beside me |
-| out of nowhere | 不知从哪里 | out of nowhere |
-| hand | 手 | My hand flew |
-| flew | 飞 | My hand flew to my chest |
-| chest | 胸口 | to my chest |
-| wearing | 戴着 | He was wearing his Guilo the Gallant illusion |
-| magician | 魔术师 | Guilo the Gallant |
-| illusion | 幻觉 | Guilo the Gallant illusion |
-| complete | 配上 | complete with the red magician's coat |
-| red | 红色的 | red magician's coat |
-| coat | 外套 | red magician's coat |
-| sauntered | 闲逛 | Asli sauntered inside |
-| inside | 进去 | sauntered inside |
-| scanning | 扫视 | scanning the shelves |
-| shelves | 架子 | scanning the shelves of expensive violins |
-| expensive | 昂贵的 | expensive violins |
-| violins | 小提琴 | expensive violins and flutes |
-| flutes | 长笛 | and flutes |
-| watched | 看着 | but Bregan watched me |
-| stomach | 胃 | My stomach tried |
-| tried | 尝试 | My stomach tried to climb up |
-| climb | 爬 | tried to climb up |
-| throat | 喉咙 | up my throat |
-| forced | 强迫 | I forced it down |
-| nodded | 点头 | and nodded |
-| pulled | 拉 | Bregan pulled out |
-| rehearsal | 排练 | rehearsal chairs |
-| chairs | 椅子 | rehearsal chairs |
-| sit | 坐 | sit down |
-| down | 向下 | sit down |
-| did | 做了 | Suri did |
+| assumed | 想当然认为 | I assumed Bregan needed an excuse to come visit me, so I complied. |
+| orphans | 孤儿 | “If we tell her what he’s doing to the orphans |
+| scanning | 扫视 | ” Asli sauntered inside, scanning the shelves of expensive violins and flutes, but Bregan watched me. |
+| drummed | 轻敲 | c38Y Fifty Firin Now In an armchair in the Grande’s green room, I drummed my fingers on my thigh. |
+| dragged | 拖拽 | In the hall, I dragged him around the nearest corner. |
+| glare | 怒视 | ” Ignoring Suri’s deepening glare, I crossed to meet Bregan. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| room | 房间 | In an armchair in the Grande's green room |
-| armchair | 扶手椅 | In an armchair |
-| fingers | 手指 | drummed my fingers |
-| thigh | 大腿 | on my thigh |
-| members | 成员 | A dozen of the troupe's key members |
-| copies | 副本 | copies of From Fifthday's Ashes |
-| reactions | 反应 | their reactions |
-| attention | 注意力 | My attention |
-| door | 门 | wandering to the door |
-| kids | 孩子们 | knowing the kids were out there |
-| whispers | 低语 | Bekat's fearful whispers |
-| shoulder | 肩膀 | over the shoulder |
-| soldier | 士兵 | Nodtacht soldier |
-| bedroom | 卧室 | in my bedroom |
-| table | 桌子 | on a surgical table |
-| brother | 兄弟 | like Ihzi's brother |
-| morning | 早上 | That morning |
-| note | 纸条 | Asli had sent me a note |
-| fight | 争吵 | for our "fight" |
-| townhome | 联排别墅 | at his townhome |
-| excuse | 借口 | an excuse to come visit me |
-| doorway | 门口 | in the doorway |
-| frame | 门框 | against the frame |
-| way | 方式 | kind of way |
-| member | 成员 | Every troupe member |
-| prayer | 祈祷 | a joint prayer |
-| knife | 刀 | as a knife |
-| windows | 窗户 | grated windows |
-| building | 建筑物 | the back of the building |
-| caves | 洞穴 | Spires' western caves |
-| explosives | 炸药 | with some explosives |
-| arm | 手臂 | my upper arm |
-| partner | 搭档 | Reformist partner |
-| weapons | 武器 | get the Reformists weapons |
-| traders | 商人 | black-market traders |
-| voice | 声音 | a new voice |
-| hand | 手 | My hand flew |
-| chest | 胸口 | to my chest |
-| coat | 外套 | red magician's coat |
-| shelves | 架子 | scanning the shelves |
-| violins | 小提琴 | expensive violins |
-| flutes | 长笛 | and flutes |
-| stomach | 胃 | My stomach tried |
-| throat | 喉咙 | up my throat |
-| chairs | 椅子 | rehearsal chairs |
+| shelves | 架子 | ” Asli sauntered inside, scanning the shelves of expensive violins and flutes, but Bregan watched me. |
+| violins | 小提琴 | ” Asli sauntered inside, scanning the shelves of expensive violins and flutes, but Bregan watched me. |
+| flutes | 长笛 | ” Asli sauntered inside, scanning the shelves of expensive violins and flutes, but Bregan watched me. |
+| stomach | 胃 | My stomach tried to climb up my throat. |
+| throat | 喉咙 | My stomach tried to climb up my throat. |
+| weapons | 武器 | ” “Explosives?” Weapons like that weren’t easy to come by in Luisonn. |
 
 ## 一句话总结
-Bregan来到Grande找Suri要炸药。Firin在排练厅与Bregan重逢，Suri出现。Bregan告诉他们找到了Lockup的位置，需要炸药炸开金属格栅。Suri同意帮忙联系她在Gynythaid的黑市联系人。
+Bregan来到Grande找Suri要炸药。Firin在排练厅与Bregan重逢，Suri出现。Bregan告诉他们找到了Lockup的位置，需要炸药炸开金属格栅。他决定拉Suri入伙——她有通向Gwynythaid黑市商人的人脉，且受过爆破训练。
