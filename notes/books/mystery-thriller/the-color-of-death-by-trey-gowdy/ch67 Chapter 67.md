@@ -94,7 +94,7 @@ modified: "2026-09-05"
 | fished for | 探取 | "fished for the olive." |
 | rumbled | 低鸣 | "The elevator rumbled" |
 | dimly lit | 灯光昏暗的 | "revealing the dimly lit hotel basement." |
-| torn | 撕扯 | "Martin tore the edges of his drink napkin." |
+| tore | 撕扯 | "Martin tore the edges of his drink napkin." |
 
 ### ⭐ 基础
 
