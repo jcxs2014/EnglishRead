@@ -151,7 +151,6 @@ modified: "2026-09-06"
 | rattle | 嘎嘎响 | The tools hanging on it rattled |
 | smoldering eyes | 炽热的眼睛 | His smoldering eyes seemed somehow greener against the dull sky |
 | biding my time | 等待时机 | For weeks, I had carefully laid the pieces on my own playing board, biding my time so I could take Hulei out |
-| cadavor | 尸体 | （未出现在原文） |
 
 ### ⭐ 基础
 
@@ -161,7 +160,7 @@ modified: "2026-09-06"
 | tuck strand behind ear | 把头发别到耳后 | With the lightest touch, he tucked an escaped strand of my hair behind my ear |
 | bold | 大胆的 | Despite myself, I blushed. "Bold of you." |
 | blush | 脸红 | Despite myself, I blushed |
-| stride off | 大步离开 | He winked, then strode off |
+| strode off | 大步离开 | He winked, then strode off. As I stared after him |
 | bounce apart | 撞开 | He caught me as we bounced apart |
 | sprawl | 摊开 | he was right where I'd left him, sprawled on the sofa |
 

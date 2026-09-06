@@ -179,10 +179,10 @@ modified: "2026-09-06"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | creak | 嘎吱作响 | each floorboard creaked exactly as I remembered |
-| stumble upon | 意外遇见 | I slammed into a much larger person |
+| stumble upon | 意外遇见 | threw myself around the corner—and slammed into a much larger person |
 | tumble to the ground | 摔倒在地 | the cloaked figure and the messenger tumbled to the ground |
 | stab | 刺 | The boy stabbed a knife into Guilo's hand |
-| hair straightened | 头发变直 | his hair straightened, and his skin darkened |
+| straighten | 变直 | his hair straightened, and his skin darkened |
 
 ## 一句话总结
 

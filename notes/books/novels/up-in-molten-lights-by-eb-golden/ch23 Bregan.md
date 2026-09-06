@@ -129,8 +129,7 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| vacillate between | 在…之间摇摆 | Bregan had spent his life vacillating between yearning for and fearing it |
-| in lieu of | 代替 | Deciding to ask for forgiveness in lieu of permission |
+| in lieu of | 代替 | Deciding to ask for forgiveness in lieu of permission, he headed for it |
 | specimen on a scientist's table | 科学家桌上的标本 | Bregan felt like a specimen on a scientist's table |
 | appetite larger than his plate | 胃口比盘子大 | your president's appetite is a bit larger than his plate |
 
@@ -138,20 +137,14 @@ modified: "2026-09-06"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| smog | 烟雾 | No smog in the sky or ash in the street |
 | bustled | 熙熙攘攘 | People in sleek suits bustled up and down the sidewalks |
-| chiseled | 雕刻般的 | The general was chiseled like a cliff and as weathered as one |
-| grunt | 咕哝 | the general grunted |
-| fuming | 愤怒 | Bregan braced his hands on the bar, fuming |
+| grunt | 咕哝 | "He's looking for his mother," General Weras grunted |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| stride down | 沿着…走 | As Bregan strode down the wide streets |
-| wipe hands on pants | 在裤子上擦手 | Bregan wiped his hands on his pants |
-| cast sideways look | 斜着眼看 | the others cast Bregan sideways look |
-| tear away from | 撕开 | He tore himself away from the mural |
+| strode down | 沿着…走 | As Bregan strode down the wide streets, he felt like an insect beneath the city's architectural giants |
 | frozen | 僵住的 | He froze |
 
 ## 一句话总结
