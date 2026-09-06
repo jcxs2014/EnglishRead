@@ -27,9 +27,9 @@ modified: "2026-09-06"
 
 **读者视角提示**：注意歌的来历——"the women in my family carried this song for generations"（骨髓里的第二心跳）：罗盘的磁针是母系血脉；本章标题由母亲遗言揭晓（"let the wind guide me, for it was nature's compass"）。
 
-> **原句 2:** Grief is a vast dark sea, baby Byrd.
+> **原句 2:** Still, living keeps you afloat through the most turbulent waters. You will bob down below at times. You may even take some water when you do. That is healthy. But those who love you will keep you from going under and not coming back up. They will help you find land on the other side.
 
-**中文理解**："悲恸是一片浩瀚的暗海，小 Byrd。"（她接着说：而"活着"让你在最汹涌的水域里保持漂浮。）
+**中文理解**："不过，'活着'让你在最汹涌的水域里保持漂浮。你有时会沉到水下，甚至会呛上几口水。那是健康的。但爱你的人不会让你沉下去、再也回不了头。他们会帮你找到对岸的陆地。"
 
 **关键词**：a vast dark sea（浩瀚暗海）/ living keeps you afloat（活着让你漂浮）
 
@@ -89,7 +89,7 @@ modified: "2026-09-06"
 
 | 词条 | 释义 | 例句（原文） |
 |------|------|------|
-| sobered | 变得肃穆 | While her face sombered, the vulnerability in her eyes remained among the fire burning there. |
+| sombered | 变得肃穆 | While her face sombered, the vulnerability in her eyes remained among the fire burning there. |
 | tolled | （钟）鸣响 | As the bell finished tolling, she opened the door. |
 | sank | 沉入 | my feet sank into the fresh mud |
 
