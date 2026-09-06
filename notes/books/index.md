@@ -21,14 +21,18 @@ title: 书单
 | [Flesh](books/novels/flesh-by-david-szalay/) | David Szalay |
 | [Getaway Girl](books/novels/getaway-girl-by-tessa-bailey/) | Tessa Bailey |
 | [Golden Boy](books/novels/golden-boy-by-a-j-symon/) | A.J. Symon |
+| [Helm](books/novels/helm-by-sarah-hall/) | Sarah Hall |
 | [In a Heartbeat](books/novels/in-a-heartbeat-by-ali-novak/) | Ali Novak |
 | [Inverno](books/novels/inverno-by-cynthia-zarin/) | Cynthia Zarin |
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
+| [Memories Like Fangs](books/novels/memories-like-fangs-by-chelsey-j-leon/) | Chelsey J. León |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
+| [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
 | [Perfection](books/novels/perfection-by-vincenzo-latronico/) | Vincenzo Latronico |
+| [Rookie Season](books/novels/rookie-season-by-leah-brunner/) | Leah Brunner |
 | [The Afterdark](books/novels/the-afterdark-by-e-latimer/) | E. Latimer |
 | [The Book of Doors](books/novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown |
 | [The Book of Heartbreak](books/novels/the-book-of-heartbreak-by-ova-ceren/) | Ova Ceren |
@@ -38,6 +42,7 @@ title: 书单
 | [The Giver](books/novels/the-giver-by-lois-lowry/) | Lois Lowry |
 | [The Invisible Life of Addie LaRue](books/novels/the-invisible-life-of-addie-laud-by-v-e-schwab/) | V.E. Schwab |
 | [The Lack of Light](books/novels/the-lack-of-light-by-nino-haratischwili/) | Nino Haratischwili |
+| [The Last Thing](books/novels/the-last-thing-by-bethany-monaco-smith/) | Bethany Monaco Smith |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
@@ -45,7 +50,9 @@ title: 书单
 | [Things We Fake](books/novels/things-we-fake-by-melinda-de-ross/) | Melinda De Ross |
 | [Things We Never Got Over](books/novels/things-we-never-got-over-by-lucy-score/) | Lucy Score |
 | [This Thing Between Us](books/novels/this-thing-between-us-by-gus-morales/) | Gus Morales |
+| [Taken](books/novels/taken-by-sinistre-ange/) | Sinistre Ange |
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
+| [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
 | [Wild Dark Shore](books/novels/wild-dark-shore-by-charlotte-mcconaghy/) | Charlotte McConaghy |
 | [Wolftamer](books/novels/wolftamer-by-maggie-rapier/) | Maggie Rapier |
@@ -55,8 +62,10 @@ title: 书单
 | 书名 | 作者 |
 |------|------|
 | [Abduction of a Slave](books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow/) | Dana Stabenow |
+| [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
 | [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
+| [The Color of Death](books/mystery-thriller/the-color-of-death-by-trey-gowdy/) | Trey Gowdy |
 | [The Italian Secret](books/mystery-thriller/the-italian-secret-by-tara-moss/) | Tara Moss |
 | [The Lost Village](books/mystery-thriller/the-lost-village-by-camilla-sten/) | Camilla Sten |
 | [Venus Fly Trap](books/mystery-thriller/venus-fly-trap-by-emma-medrano/) | Emma Medrano |
