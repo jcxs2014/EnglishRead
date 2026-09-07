@@ -197,7 +197,7 @@
 
     d. **语义二审**：引语↔分析逐对核对。**子代理委派必须附 1-2 个本库真实失败案例 + 防幻觉条款**（参考第 9 条 f）；**子代理额度耗尽时主会话自执行不可省**——证据：NS 137 块三件代理被 Token Plan 拦下，主会话逐对核对仍可完成全部。
 
-    e. **总览层事实核对**：概述/金句精选/情感节点的人物身份、人物关系、结局走向、叙事结构（如是否双时间线）必须与章节精读文件交叉核对；**总览引语必须逐字取自原文**，写入前/审查时逐句 `grep` 验证——这不只是 verify_quotes 主口径的责任，因为主脚本不解析 `00_*.md` 总览文件。**实证**：NS 金句⑯ "Bob, you're hunting girls. Not bears." 全书查无，属虚构引语。**特别注意"逐字命中≠说话人正确"——Room 金句㉒ "What I did to you" 原文逐字命中但说话人从 Rudbeck 误转 Kim；总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人**
+    e. **总览层事实核对**：概述/金句精选/情感节点的人物身份、人物关系、结局走向、叙事结构（如是否双时间线）必须与章节精读文件交叉核对；**总览引语必须逐字取自原文**，写入前/审查时逐句 `grep` 验证——这不只是 verify_quotes 主口径的责任，因为主脚本不解析 `00_*.md` 总览文件。**实证**：NS 金句⑯ "Bob, you're hunting girls. Not bears." 全书查无，属虚构引语。**特别注意"逐字命中≠说话人正确"——Room 金句㉒ "What I did to you" 原文逐字命中但说话人从 Rudbeck 误转 Kim；总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人**。说话人误归的规模教训：Room 金句精选 30 条中 11 条（37%）人物误归（Julia↔Astrid、Rudbeck↔Jonny、Kim↔Julia）——根因是引语真实而上下文/为什么这样写子项凭记忆填充，verify 全绿下全数漏网；涉及多方的引语必须看到说话人标签级证据才算数（验证方法见 docs/新书启动模板.md 第 7 条说话人归属核验）
 
     **四类高发坑位（审查时优先扫描）**：
     - **总览层情节虚构**：主角身份错写、假恋情、假结局、假 POV、假双时间线——概述"做了什么"陈述须 grep 实体（人名/地名）并查该章原文支撑。
@@ -215,7 +215,7 @@
 |---|---|---|
 | `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号；**提取后必核件数=章数**（短章可能被 min-len 滤掉） |
 | `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式与言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
-| `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
+| `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑）。注意：撇号缩写词条（I've/he'd）有 3 字符下限特判 + lowercase 归一（7 用例单测覆盖）；误报 A类虚构时先核词条是否含撇号再走 A/B 裁决 |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
 | `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"` 或 `--book-dir <书目录>` 全书扫描——引语必须命中该章自己的 text/chNN.txt |
 | `verify_overview_quotes.py` | 总览文件引文门禁（概述/金句精选/情感节点不在 verify_quotes 主口径内） | `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"`；总览完成后立即跑，FAIL 须修复；**概述行内英文引语不在口径内，须逐条人工 grep** |
@@ -230,6 +230,8 @@
 - 每篇精读完成即本地 commit；**精读批次进行中不自动 push**
 - 批次定稿后询问用户，或在最终自查完成后等用户指令再统一推送
 - 每次 commit 前先拉取远程（`git pull`），避免分叉
+- **commit 前 `git status` 确认工作树归属**：多实例并行时文件可能已被他实例抢先提交（Up in Molten Lights ch76-79 被抢先 commit、自己的 add 落空实证）——被抢先时核对内容完整性再决定补 commit 或放弃
+- **协作板更新节奏**：批次进行中不逐批更新 COLLABORATION.md；批次完成（或全书完工/审查通过）时统一更新一次，附全部 commit 编号；push 前再更新最终状态
 - 原文 `.src.md` 被 `.gitignore` 忽略，勿强行 add
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
 
