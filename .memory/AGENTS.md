@@ -73,11 +73,15 @@ metadata:
 | 工具 | 用途 |
 |------|------|
 | `extract_chapters.py` | epub → 逐章 text/ |
-| `verify_quotes.py` | 引语逐字门禁 |
+| `verify_quotes.py` | 引语逐字门禁（支持言情无编号格式；短引语提示人工 grep）|
 | `check_vocab.py` | 词汇表真实性（FAIL=0 才推进）|
 | `check_entities.py` | 梗概实体一致性 |
-| `check_chapter_quotes.py` | 逐章归属校验（凡有 text/ 必跑）|
-| `audit_book.py` | 一键总账（commit 前必跑）|
+| `check_chapter_quotes.py` | 逐章归属校验（凡有 text/ 必跑；`--book-dir` 全书扫描）|
+| `verify_overview_quotes.py` | 总览引文门禁（00*.md 独立盲区）|
+| `check_crossref.py` | 分析层 chNN "引语" 引用校验（2026-09-06 新增）|
+| `audit_book.py` | 一键总账（commit 前必跑；不含 crossref）|
+
+各工具口径盲区速查见根 AGENTS.md 工具表下方"工具已知盲区速查"。
 
 ## 推送策略
 - commit 自由；push 仅限批次定稿/重大交付/明确指令

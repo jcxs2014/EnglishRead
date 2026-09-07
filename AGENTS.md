@@ -214,7 +214,7 @@
 | 工具 | 用途 | 用法 |
 |---|---|---|
 | `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号；**提取后必核件数=章数**（短章可能被 min-len 滤掉） |
-| `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式与言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
+| `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式、`**①**` 行中格式、言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑）。注意：撇号缩写词条（I've/he'd）有 3 字符下限特判 + lowercase 归一（7 用例单测覆盖）；误报 A类虚构时先核词条是否含撇号再走 A/B 裁决 |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
 | `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"` 或 `--book-dir <书目录>` 全书扫描——引语必须命中该章自己的 text/chNN.txt |
@@ -224,6 +224,17 @@
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
 工具使用时机速查见 `docs/新书启动模板.md` "🕐 门禁时序表"。
+
+### ⚠️ 工具已知盲区速查（集中声明，2026-09-06 固化）
+
+| 工具 | 已知盲区 / 注意点 |
+|------|------------------|
+| `verify_quotes.py` | 不覆盖 `00_*.md` 总览（须另跑 verify_overview_quotes）；<20 flat 字符短引语不校验（输出提示 N 条，须人工 grep 清零）；指纹只取前 52 字符——`/` 拼接引语第二段是盲区（根本解法=改原文连续段） |
+| `check_vocab.py` | 不识别中文标注（"（未出现在原文）"可绕检——独立审查时 grep 该字符串）；撇号缩写词条走 3 字符下限 + lowercase 归一（误报先核撇号再 A/B 裁决）；词形变化（torn≠tore）报跨篇/虚构——词条头必须本章原词形 |
+| `check_chapter_quotes.py` | flat 匹配对弯撇号/超长句有假 MISS（Ligotti ch22 实证）——MISS 先人工 grep 再定性 |
+| `verify_overview_quotes.py` | 概述行内英文引语不在口径内（须逐条人工 grep）；CIRCLED 已扩至㉚，超出部分仍须人工兜底 |
+| `audit_book.py` | **不含 crossref（分析层 `chNN "引语"` 扫描）**——该项由 check_crossref.py 单独承担；C 节五子项对言情/精简格式四子项误报（SOP 第 24 条豁免） |
+| 全部工具 | 报告数字须现场重跑复验（NS 101/101 实为 108/109）；verify 全绿 ≠ 语义层干净（说话人/cross-ref/数字断言在工具口径之外） |
 规则：书籍批次 commit 前至少跑完 1→2→总览门禁；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
 
 ## git 与推送策略
@@ -233,6 +244,7 @@
 - **commit 前 `git status` 确认工作树归属**：多实例并行时文件可能已被他实例抢先提交（Up in Molten Lights ch76-79 被抢先 commit、自己的 add 落空实证）——被抢先时核对内容完整性再决定补 commit 或放弃
 - **协作板更新节奏**：批次进行中不逐批更新 COLLABORATION.md；批次完成（或全书完工/审查通过）时统一更新一次，附全部 commit 编号；push 前再更新最终状态
 - 原文 `.src.md` 被 `.gitignore` 忽略，勿强行 add
+- `scripts/attic/` 存档历史一次性修复脚本，不进主工具链；新的一次性修复脚本直接放 attic/，勿占用 verify_/check_ 系列命名
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
 
 ## 会话交互指令
