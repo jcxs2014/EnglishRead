@@ -95,25 +95,25 @@ modified: "2026-09-07"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| revelation | 启示 | Ellis's revelation |
-| treacherous | 背叛的 | The treacherous truth |
-| sedation | 镇静 | heavily sedated |
-| devastate | 摧毁 | destroy the island |
+| revelation | 启示 | Ellison's voice is sharp |
+| arrogant | 傲慢的 | The arrogant cynic |
+| sedated | 镇静的 | heavily sedated |
+| devastate | 摧毁 | destroying this entire island |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| restrain | 约束 | restraints for safety |
+| restrain | 约束 | The restraints are for your safety |
 | swollen | 肿胀的 | brain to swell |
-| betray | 背叛 | She knows who I really am |
-| surgeon | 外科医生 | remove the implant |
+| betray | 背叛 | My betrayal hurt her so badly |
+| implant | 植入物 | remove your aromium implant |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| sleep | 睡觉 | slip into sleep |
+| sleep | 睡觉 | slip into the peaceful |
 | awake | 醒着 | good to see you awake |
 | rest | 休息 | get some rest |
 | eat | 吃 | you haven't eaten |

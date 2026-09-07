@@ -83,19 +83,19 @@ modified: "2026-09-07"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| triumph | 胜利 | Her triumph |
-| dominate | 控制；主导 | dominating Virginia |
+| triumph | 胜利 | straddle her |
+| dominate | 控制；主导 | I’ve gotten a feel for her fighting style |
 | mercy | 仁慈 | I'll let you live |
-| captivity | 俘虏 | ending the captivity |
+| lethal | 致命的 | his voice lethally calm |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| circle | 战斗圈 | fighting in the circle |
-| fight | 战斗 | fight to the death |
-| victory | 胜利 | victor walks away |
-| restrain | 约束 | restraints for safety |
+| circle | 战斗圈 | the circle |
+| fight | 战斗 | fighting stance |
+| victory | 胜利 | winning |
+| restrain | 约束 | break her hold |
 
 ### ⭐ 基础
 
@@ -103,9 +103,9 @@ modified: "2026-09-07"
 |---------|------|------|
 | pack | 狼群 | Marcus's pack of wolves |
 | rescue | 救援 | came for me |
-| win | 赢 | fighting skills and winning |
+| win | 赢 | kicking her knee |
 | sand | 沙子 | into the sand |
-| throat | 喉咙 | driving fist into her throat |
+| throat | 喉咙 | hitting her squarely in the throat |
 
 ## 一句话总结
 

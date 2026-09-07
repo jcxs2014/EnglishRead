@@ -71,10 +71,10 @@ modified: "2026-09-07"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| captivity | 俘虏；监禁 | used as bait |
 | tremor | 颤抖 | sends a tremor |
-| ruthless | 无情的 | murderous glare |
 | confine | 限制 | back to confinement |
+| murder | 谋杀 | murderous glare |
+| attack | 攻击 | eleven of our people |
 
 ### ⭐⭐ 进阶
 
@@ -92,7 +92,7 @@ modified: "2026-09-07"
 | camp | 营地 | through the camp |
 | spear | 矛 | wrapped around a spear |
 | truth | 真相 | the truth |
-| fight | 战斗 | fight to the death |
+| fight | 战斗 | didn't even fight fairly |
 | circle | 战斗圈 | the circle is sacred |
 
 ## 一句话总结
