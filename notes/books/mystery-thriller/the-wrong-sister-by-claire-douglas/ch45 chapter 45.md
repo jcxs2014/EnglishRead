@@ -51,7 +51,7 @@ modified: "2026-09-07"
 
 **为什么这样写：** Tasha 的愤怒——Viv 知道真相但选择沉默。
 
-> **原句 5:** 'But has she had a DNA test? Do we know for definite that she's Holly? Shouldn't we do that before Mum starts getting attached? And the blood … her blood was found on the rug … on my rug … the night Kyle was killed. Did she hurt Kyle?' I can't imagine it. Lola – Holly, Bonnie, whatever her bloody name is – always seemed so gentle, so kind. But then she hid this from me for all this time despite working alongside me most days.
+> **原句 4:** 'But has she had a DNA test? Do we know for definite that she's Holly? Shouldn't we do that before Mum starts getting attached? And the blood … her blood was found on the rug … on my rug … the night Kyle was killed. Did she hurt Kyle?' I can't imagine it. Lola – Holly, Bonnie, whatever her bloody name is – always seemed so gentle, so kind. But then she hid this from me for all this time despite working alongside me most days.
 
 **中文理解：** "但她做过 DNA 测试吗？我们确定她是 Holly 吗？我们不应该在妈妈开始依恋之前做吗？还有血……她的血在地毯上……在我的地毯上……Kyle 被杀那晚。她伤害 Kyle 了吗？" 我无法想象。Lola——Holly，Bonnie，不管她到底叫什么——总是那么温柔，那么善良。但尽管她大部分日子和我一起工作，她却对我隐瞒了这一切。
 
