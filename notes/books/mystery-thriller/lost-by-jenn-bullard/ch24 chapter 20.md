@@ -9,7 +9,7 @@ modified: "2026-09-07"
 
 - **一句话概括**：Tyde 回到 Nova 的住处，三人发生关系，Hollis 揭露了医院排班员的歧视行为并"处理"了她。
 - **情感弧线位置：升温——Nova 与 Tyde、Caleb、Lars 的关系更加亲密，pack 动态形成。
-- **Tropes 兑现/反转**：Polyamory（多角恋）/ Revenge（复仇）——Hollis 为 Tyde 和 Adrain"处理"了排班员。
+- **Tropes 兑现/反转**：多角恋 / 复仇——Hollis 为 Tyde 和 Adrain"处理"了排班员。
 - **人物弧线**：Nova 从"我不需要 alpha"到"我愿意接受你们三个"——她开始接受多角恋关系。
 - **叙事手法**：双 POV（Tyde → Hollis），Tyde 部分展现 pack 动态，Hollis 部分展现她的"复仇"。
 

@@ -9,7 +9,7 @@ modified: "2026-09-07"
 
 - **一句话概括**：Hollis 录制视频揭露自己被绑架的经历，呼吁社会关注人口贩卖，Brice 和 pack 成员进行商务会议。
 - **情感弧线位置**：高潮——Hollis 从"受害者"变为"倡导者"，为 Nova 和其他 omega 发声。
-- **Tropes 兑现/反转**：Advocacy（倡导）/ Business（商业）——Hollis 利用自己的经历来推动社会变革。
+- **Tropes 兑现/反转**：倡导 / 商业——Hollis 利用自己的经历来推动社会变革。
 - **人物弧线**：Hollis 从"冷酷的杀手"到"omega 的倡导者"——她用自己的经历来帮助他人。
 - **叙事手法**：双 POV（Hollis → Brice），Hollis 部分展现她的"视频宣言"，Brice 部分展现 pack 的商业活动。
 
