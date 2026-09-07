@@ -63,7 +63,7 @@ modified: "2026-09-07"
 
 ---
 
-> **原句 5:** "I didn't even look. I didn't want to. Did you?" Garrett shakes his head. "We all wanted to pretend he wasn't a real person," Ashley continues. "But he was. And his name was Theodore Downey." "Downey?" I ask, and then it dawns on me. "Eric is his son, isn't he?" She nods. "We think so. And he's got to be the one who's taken our girls."
+> **原句 5:** "So we get Blackwell to tell us if he knows where Downey is—and then we get to the man first," I add. "That's our only way out of this." Nate swipes his car keys from the kitchen island. "Garrett and Mara are waiting." I follow him outside and see the Metcalfs. I let my gaze roam over them, each of us understanding what we're about to do.
 
 **中文理解**："我甚至没看。我不想。你看了吗？"Garrett 摇头。"我们都想假装他是一个真实的人，"Ashley 继续说。"但他是一个真实的人。他的名字叫 Theodore Downey。" "Downey？"我问，然后我恍然大悟。"Eric 是他的儿子，对吧？"她点头。"我们想一定是。他一定是带走我们女孩的人。"
 

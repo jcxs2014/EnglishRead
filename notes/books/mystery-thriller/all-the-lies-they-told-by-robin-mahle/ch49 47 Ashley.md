@@ -63,7 +63,7 @@ modified: "2026-09-07"
 
 ---
 
-> **原句 5:** "They don't need a father like you." The crack of the gun is the last thing I hear. Blood rushes through my ears, drowning out all other sounds. I don't move. I can't. My legs feel like they're rooted into the earth. I chance a look at Garrett, who's crumpled on the ground, blood all around him. He's still breathing short and shallow breaths. He's dying right in front of me.
+> **原句 5:** "Your kids shouldn't lose both of you," I say. "If we get Garret to a hospital… if we get him help…" I trail off a moment. Helping Mara is the last thing I want to do. But the cops won't believe us if both of them are dead. We need her alive if this is going to work. "We'll tell them it was an accident," I continue. "Or," Nate interjects, seeming to reach the same conclusion. "We could tell them he was attacking me, and you shot him because you thought he was going to kill me."
 
 **中文理解**："他们不需要像你这样的父亲。"枪声是我听到的最后一样东西。血液在我的耳朵里奔涌，淹没了所有其他声音。我不能动。我的腿感觉像是扎根在地球上。我瞥了一眼 Garrett，他蜷缩在地上，浑身是血。他还在呼吸短浅的呼吸。他就在我眼前死去。
 
