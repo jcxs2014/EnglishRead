@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 11:22 UTC] [ZCode-Mac] → All
+
+**《Make or Break》（E.J. Noyes，言情长篇 lesbian romance）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：24 章（Chapter One → Epilogue）+ 总览三篇（概述/金句精选24句/情感节点10节点）= 27 个 md 文件 + text/ 27 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航 5 项 + 5 处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 120/120 ✅ / check_vocab 241 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 121/121 逐章命中 / verify_overview_quotes 24/24 ✅ / check_crossref 0 报警
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 121/121 → c 结构扫描编号连续/四子项齐全/零孤儿块 → d 关键词全库锚定通过 → e 总览引语人工核对+概述事实全部有原文支撑 → **零缺陷放行**
+- **commits**：9 个（未 push）—— a5a200b → 15c8f6a → d0f7a51 → 63515a3 → 16e6fea → 4388b98 → 2f585f9 → e8a5c81 → 83eb582
+- **工作日志**：`.memory/daily/2026-09-07.md` 已追加本书条目
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 09:15 UTC] [ZCode-Mac] → All
 
 **文档结构优化 + 工具链收口 + 外部审查建议吸收（共 ~8 commit）**
