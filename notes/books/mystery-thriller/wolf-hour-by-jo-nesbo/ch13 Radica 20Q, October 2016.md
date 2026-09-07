@@ -194,6 +194,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -203,11 +205,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | aimlessly | 漫无目的地 | BOB DROVE AIMLESSLY. |
 | playlist | 播放列表 | TURNED OFF his playlist. |
 | sick to death of | 厌倦至极 | He was sick to death of it. |
-| on repeat | 重复播放 | It had been on repeat for too long... |
-| heavy rock station | 重金属摇滚电台 | The radio was tuned to a heavy rock station... |
 
 ### ⭐⭐ 进阶
 
@@ -216,13 +218,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | aimlessly | 漫无目的地 | BOB DROVE AIMLESSLY. |
 | playlist | 播放列表 | TURNED OFF his playlist. |
 | sick to death of | 厌倦至极 | He was sick to death of it. |
 | on repeat | 重复播放 | It had been on repeat for too long... |
 | heavy rock station | 重金属摇滚电台 | The radio was tuned to a heavy rock station... |
-| reeling off | 滔滔不绝地讲 | ...the singer was reeling off the usual brain-dead, aggressive clichés. |
-| brain-dead | 脑残的 | ...the usual brain-dead, aggressive clichés. |
 
 ### ⭐ 基础
 
@@ -231,10 +233,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | car | 汽车 | BOB DROVE AIMLESSLY. |
 | radio | 收音机 | The radio was tuned to a heavy rock station... |
-| singer | 歌手 | ...the singer was reeling off the usual brain-dead, aggressive clichés. |
-| woman | 女人 | This time about a guy whose woman had left him. |
 
 ## 一句话总结
 

@@ -98,6 +98,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -107,11 +109,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bottled-up | 被压抑的，憋闷的 | ...to hear the creaking of bottled-up hate... |
 | termite mounds | 白蚁丘 | They made him think of termite mounds. |
 | envisaged | 想象，预见 | They never envisaged a city with a skyline... |
-| thrift | 节俭，节约 | ...God-fearing, hard-working and thrifty. |
-| traumatised | 受创伤的 | ...traumatised child soldiers with Kalashnikovs... |
 
 ### ⭐⭐ 进阶
 
@@ -120,13 +122,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | towered | 高耸，屹立 | The brown-brick buildings around him towered into the sky... |
 | shadows | 阴影，暗影 | ...as he passed into the shadows... |
 | creaking | 吱吱作响 | ...to hear the creaking of bottled-up hate... |
 | graffiti | 涂鸦，乱画 | ...a welcome graffiti drawn down the side of the cement stairway... |
 | pistol | 手枪 | ...a badly drawn pistol aimed at the side of a head... |
-| brain mass | 脑浆 | ...what was obviously supposed to be brain mass blowing out... |
-| cement | 水泥 | ...the cement stairway leading to the road below... |
 
 ### ⭐ 基础
 
@@ -135,10 +137,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | body | 尸体 | Bob looked down at the body. |
 | blood | 血 | Oz saw the blood on the sidewalk outside... |
-| coat | 外套，大衣 | ...a mustard-yellow cashmere coat... |
-| shirt | 衬衫 | ...a slim-fit white shirt... |
 
 ## 一句话总结
 

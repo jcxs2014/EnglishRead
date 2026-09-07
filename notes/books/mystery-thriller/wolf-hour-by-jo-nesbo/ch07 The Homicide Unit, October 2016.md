@@ -114,6 +114,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -123,11 +125,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | venerable | 庄严的，古老的 | ...passed through the venerable hall... |
 | battledress | 战斗服，制服 | ...the battledress of the legal profession. |
 | security channel | 安检通道 | ...through the security channel... |
-| prison on remand | 还押监狱 | ...used to house prisoners on remand... |
-| refurbishment | 翻新，装修 | ...despite the complete refurbishment... |
 
 ### ⭐⭐ 进阶
 
@@ -136,13 +138,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | plaza | 广场，购物中心 | BOB OZ CROSSED GOVERNMENT PLAZA. |
 | statue | 雕像 | Glanced up at the Humphrey statue... |
 | echoed | 回响，回荡 | His steps echoed as he passed through... |
 | hall | 大厅 | ...passed through the venerable hall... |
 | elevator | 电梯 | ...over to the elevators where three people stood waiting... |
-| navy-blue | 海军蓝的 | ...a woman in a navy-blue skirt and jacket... |
-| skirt | 裙子 | ...a woman in a navy-blue skirt and jacket... |
 
 ### ⭐ 基础
 
@@ -151,10 +153,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | office | 办公室 | ...stepped out into the Homicide Department’s new offices. |
 | case | 案件 | ...I want you to take the case... |
-| murder | 谋杀 | ...it’s a first-degree assault and not a murder. |
-| detective | 侦探 | Detective Olav Hanson’s pronunciation... |
 
 ## 一句话总结
 

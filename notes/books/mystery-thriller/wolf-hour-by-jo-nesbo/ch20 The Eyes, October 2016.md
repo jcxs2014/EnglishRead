@@ -136,6 +136,8 @@ modified: "2026-09-07"
 为什么这样写：Lunde 的"eat alone"是孤独。"Bullseye"是 Oz 的确认——Lunde 说对了。
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -143,18 +145,20 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | mannequins | 人体模型 | We call them mannequins... |
 | oblong pupils | 椭圆形瞳孔 | The hart has oblong pupils... |
 | prey | 猎物 | They're prey. |
 | moment of triumph | 胜利时刻 | ...capture his moment of triumph... |
 | barber | 理发师 | I'm a barber. |
-| within limits | 在范围内 | But, within limits, I have a certain degree of freedom... |
-| exceeds the customer's expectations | 超越顾客期望 | ...to produce something that exceeds the customer's expectations. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | patted | 轻拍 | Bob smiled and patted a white-tailed deer. |
 | white-tailed deer | 白尾鹿 | Bob smiled and patted a white-tailed deer. |
@@ -163,20 +167,18 @@ modified: "2026-09-07"
 | deserted | 空的 | ...the place was as deserted as it had been the previous time. |
 | show up | 出现 | ...where we can expect him to show up. |
 | workshop | 工作坊 | Bob followed Lunde through the door... |
-| glue | 胶水 | The smell, probably glue... |
-| Christmas | 圣诞节 | ...recalling Christmas and sweets... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | door | 门 | Mike Lunde emerged from a door... |
 | hands | 双手 | ...wiping his hands dry on his rough blue apron. |
 | apron | 围裙 | ...his rough blue apron. |
 | store | 商店 | ...the place was as deserted... |
-| leads | 线索 | We don't have any other leads on Gomez... |
-| coffee | 咖啡 | ‘OK then. Coffee?’ |
 
 ## 一句话总结
 Oz 在标本店等待 Gomez，与 Lunde 深入交谈——关于标本术、孤独、以及 Gomez 的过去；Lunde 透露 Gomez 曾说"孤独正在慢慢逼疯他"，而 Oz 也在标本店找到了平静。

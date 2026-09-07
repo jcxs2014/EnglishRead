@@ -97,6 +97,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -105,17 +107,19 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | running the operation | 经营业务 | The Latino in the porkpie hat was clearly running the operation. |
 | elastic band | 橡皮筋 | ...a bundle of something with an elastic band around it... |
 | portrait adorned | 装饰着肖像 | ...the long-dead general and president whose portrait adorned the fifty-dollar banknote. |
 | threatening | 威胁 | I'm not threatening you with prison... |
-| kid brother | 弟弟 | ...your kid brother who's doing time in MCF. |
-| doing time | 服刑 | ...doing time in MCF. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | parked | 停车 | Bob had parked by the playground... |
@@ -124,8 +128,6 @@ modified: "2026-09-07"
 | watched the deal going down | 看着交易进行 | ...watched the deal going down outside a nearby house. |
 | nearby | 附近的 | ...outside a nearby house. |
 | porkpie hat | 猪肉派帽子 | The Latino in the porkpie hat... |
-| Latino | 拉丁美洲人 | The Latino in the porkpie hat... |
-| dashboard | 仪表盘 | Bob tossed a bundle... onto the dashboard. |
 
 ### ⭐ 基础
 
@@ -133,11 +135,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | car | 汽车 | Bob had parked by the playground... |
 | burger | 汉堡 | He sat eating a hamburger... |
 | deal | 交易 | ...watched the deal going down... |
-| house | 房子 | ...outside a nearby house. |
-| man | 男人 | The Latino in the porkpie hat... |
 
 ## 一句话总结
 

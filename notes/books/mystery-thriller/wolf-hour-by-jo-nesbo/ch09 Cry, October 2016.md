@@ -100,6 +100,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -109,11 +111,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | perspective | 视角，视野 | I Was ON HIGH, I had perspective. |
 | observer | 观察者 | ...this time I was just an observer. |
 | news broadcasts | 新闻广播 | Switched between news broadcasts on KSTP, WCCO and KARE... |
-| coverage | 报道，覆盖 | ...would get less coverage than the killing of some rich white guy... |
-| headlines | 头条新闻 | ...why it hadn’t made the headlines. |
 
 ### ⭐⭐ 进阶
 
@@ -122,13 +124,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | news | 新闻 | Switched between news broadcasts... |
 | TV |  télévision | I was lying in bed and watching TV. |
 | phone | 电话 | ...and the internet on my phone. |
 | screen | 屏幕 | ...staring at the screen. |
 | ears | 耳朵 | ...my ears were exhausted... |
-| exhausted | 疲惫不堪的 | ...my ears were exhausted from all the cackling... |
-| cackling | 咯咯笑；刺耳的笑声 | ...from all the cackling and the brutal sound effects... |
 
 ### ⭐ 基础
 
@@ -137,10 +139,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bed | 床 | I was lying in bed and watching TV. |
 | TV | 电视 | I was lying in bed and watching TV. |
-| phone | 电话 | ...and the internet on my phone. |
-| internet | 互联网 | ...and the internet on my phone. |
 
 ## 一句话总结
 

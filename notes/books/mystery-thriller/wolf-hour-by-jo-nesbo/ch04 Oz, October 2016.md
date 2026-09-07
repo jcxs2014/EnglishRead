@@ -86,6 +86,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -95,11 +97,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | hiss | 嘶嘶地喝 | Bob Oz Hissed THROUGH HIS teeth... |
 | puppy fat | 婴儿肥 | ...chewed away the puppy fat of youth... |
 | cashmere | 羊绒 | ...beneath his trademark yellow coat... |
-| unruly | 难驾驭的，散乱的 | A thick and unruly thatch of red hair... |
-| thatch | 乱发 | A thick and unruly thatch of red hair... |
 
 ### ⭐⭐ 进阶
 
@@ -108,13 +110,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | shot glass | 小酒杯 | ...put the empty shot glass back down on the bar. |
 | reflection | 倒影 | ...saw his own reflection in the mirror... |
 | sink its teeth into | 啃噬，侵蚀 | ...the kind of face time didn’t seem to sink its teeth into. |
 | genes | 基因 | ...reveal the mature man’s good or his bad genes... |
 | sunburnt | 晒伤的 | White skin of the type that only got sunburnt, never brown. |
-| squarehead | 方头（对斯堪的纳维亚人的蔑称） | ...the kind of head that got Scandinavians nicknamed squareheads... |
-| one-night-stand | 一夜情 | ...according to one of his one-night-stand ladies... |
 
 ### ⭐ 基础
 
@@ -123,10 +125,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bar | 酒吧 | ...put the empty shot glass back down on the bar. |
 | whiskey | 威士忌 | ...as she poured his whiskey. |
-| bartender | 酒保 | ...looked up at the female bartender... |
-| tip | 小费 | You get tips for that line of yours, honey? |
 
 ## 一句话总结
 

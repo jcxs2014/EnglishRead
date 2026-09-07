@@ -234,6 +234,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -243,11 +245,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | narrow street | 窄巷 | ...standing in a narrow street in downtown. |
 | sign | 标志 | ...the sign above the store doorway. |
 | Town Taxidermy | 市政厅标本店 | Town Taxidermy. |
-| display window | 展示窗 | In the display window a black bear stood upright on two legs... |
-| black bear | 黑熊 | In the display window a black bear stood upright on two legs... |
 
 ### ⭐⭐ 进阶
 
@@ -256,13 +258,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | narrow street | 窄巷 | ...standing in a narrow street in downtown. |
 | store | 商店 | He looked at the sign above the store doorway. |
 | sign | 标志 | ...the sign above the store doorway. |
 | doorway | 门口 | ...the sign above the store doorway. |
 | display window | 展示窗 | In the display window a black bear stood upright on two legs... |
-| bear | 熊 | In the display window a black bear stood upright on two legs... |
-| legs | 腿 | ...a black bear stood upright on two legs... |
 
 ### ⭐ 基础
 
@@ -271,10 +273,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | street | 街道 | ...standing in a narrow street in downtown. |
 | downtown | 市中心 | The time was 9 A.M. and Bob was standing in a narrow street in downtown. |
-| sign | 标志 | He looked at the sign above the store doorway. |
-| store | 商店 | He looked at the sign above the store doorway. |
 
 ## 一句话总结
 
