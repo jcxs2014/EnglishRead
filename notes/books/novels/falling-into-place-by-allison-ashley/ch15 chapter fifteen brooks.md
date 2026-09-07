@@ -68,7 +68,7 @@ modified: "2026-09-07"
 
 **为什么这样写**：全书最直白的欲望书写——不写心动写手，手比心诚实；"didn't give a flying flip about shoes"的括号很妙：鞋迷 Carly 的世界里，他独爱她的脚趾，爱的细节永远跑偏；"definitely shouldn't have come"的判语是理智最后的哔哔，哔完就断电了。
 
-**读者视角提示**：绿裙子和 ch08 "green goes with eyes"对照——她穿了他眼里的颜色，他看直了眼，闭环了；vanilla 味、gold earring、warm brown irises，感官清单越列越长，Brooks 的 Carly 档案比约会档案厚多了。
+**读者视角提示**：绿裙子和 ch06 "green goes with eyes"对照——她穿了他眼里的颜色，他看直了眼，闭环了；vanilla 味、gold earring、warm brown irises，感官清单越列越长，Brooks 的 Carly 档案比约会档案厚多了。
 
 ---
 
