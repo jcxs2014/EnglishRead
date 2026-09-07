@@ -69,13 +69,7 @@ modified: "2026-09-07"
 
 为什么这样写：Alice 的"urge you to seek professional help"是敦促你寻求专业帮助——她劝 Oz 看心理医生。"hammer / nail"是锤子/钉子——对锤子来说所有问题都是钉子。
 
-> **原句 10:** "‘We lost our daughter,’ said Bob. ‘Frankie. She was three years old.’ Lunde stopped working. Briefly wiped his hands together and let his arms drop to his sides. The look he gave Bob was open, naked, direct. What Bob saw wasn't a look that asked for something, some further explanation. And Mike Lunde didn't say anything either, it was as though he was someone who understood that no words added to those just spoken could give them meaning. Daughter. Lost. Three years old. ‘She found my service pistol in our bedroom drawer,’ said Bob. ‘She was playing with it. Alice was home and heard the shot. An hour later our daughter died at the hospital.’"
-
-关键词：lost / Frankie / three years old / open, naked, direct / service pistol / bedroom drawer / playing with it / shot / died at the hospital
-
-为什么这样写：Oz 的"Frankie"是女儿的名字——他第一次说出女儿的名字。"service pistol"是配枪——他的警用手枪。
-
-> **原句 11:** "I'm stalking the memories. The words were still on repeat in Bob's head as he parked the Volvo in front of a driveway next to Town Taxidermy, jumped out and tried the door. It was locked. He checked the time. Three thirty. There was no note on the door."
+> **原句 10:** "I'm stalking the memories. The words were still on repeat in Bob's head as he parked the Volvo in front of a driveway next to Town Taxidermy, jumped out and tried the door. It was locked. He checked the time. Three thirty. There was no note on the door."
 
 关键词：stalking the memories / on repeat / parked / driveway / Town Taxidermy / jumped out / locked / Three thirty / no note
 

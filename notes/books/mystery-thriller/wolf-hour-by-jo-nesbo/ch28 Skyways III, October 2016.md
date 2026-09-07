@@ -71,15 +71,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"told himself"是自制——他在压制愤怒。
 
-> **原句 8:** "Bob Oz drove. He didn't know where he was going, only that it wasn't home to Phillips. And not to Alice in Cooper. He was tired of the music and turned it off. The radio took over."
-
-关键词：drove / wasn't home to Phillips / Alice in Cooper / tired of the music / radio took over
-
-为什么这样写：Oz 的"wasn't home"是无家可归——他不想回任何地方。"tired of the music"是疲惫——他厌倦了一切。
-
-读者视角提示：Oz 的"radio took over"是意外——他打开了广播。
-
-> **原句 9:** "‘We've got orders to arrest you if you try to come back,’ one of the officers said. ‘Got that?’ ‘Got it,’ said Bob, who was trying to keep track of where the reporter had gone."
+> **原句 8:** "‘We've got orders to arrest you if you try to come back,’ one of the officers said. ‘Got that?’ ‘Got it,’ said Bob, who was trying to keep track of where the reporter had gone."
 
 关键词：orders to arrest / try to come back / keep track of / reporter
 

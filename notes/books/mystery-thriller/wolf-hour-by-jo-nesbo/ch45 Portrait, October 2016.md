@@ -127,8 +127,8 @@ modified: "2026-09-07"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| house | 房子 | ...Bob reached the house. |
-| door | 门 | ...rang the bell. |
+| house | 房子 | ...the woman in the wheelchair. |
+| door | 门 | ...Pushed open the door. |
 | room | 房间 | The room was white, clean and tidy. |
 | bed | 床 | The bed was made... |
 | mask | 面具 | ...lay a brown face mask... |

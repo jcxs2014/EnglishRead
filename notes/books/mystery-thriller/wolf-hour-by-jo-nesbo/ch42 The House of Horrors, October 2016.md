@@ -99,8 +99,8 @@ modified: "2026-09-07"
 | flat landscape | 平坦的景观 | ...above the otherwise flat landscape... |
 | narrow / twisting road | 狭窄弯曲的道路 | ...the narrow, twisting road... |
 | hundred yards | 一百码 | ...almost a hundred yards away... |
-| old lady | 老太太 | ...a senile old lady... |
-| wolf country | 狼的国度 | ...in wolf country? |
+| old lady | 老太太 | ...a funny, clucking, little old woman laugh. |
+| wilderness | 荒野 | ...more or less wilderness country. |
 
 ### ⭐⭐ 进阶（10条）
 
@@ -115,7 +115,7 @@ modified: "2026-09-07"
 | shrunken | 干瘪的 | ...shrunken and dried up... |
 | spider's web | 蜘蛛网 | ...dry as an old spider's web. |
 | rifle | 步枪 | ...pulled out a rifle. |
-| cheek | 厚脸皮 | The cheek of it. |
+| cheek | 脸颊 | ...lifted the weapon to her cheek. |
 
 ### ⭐ 基础（7条）
 

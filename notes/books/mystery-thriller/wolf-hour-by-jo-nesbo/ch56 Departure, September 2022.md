@@ -125,7 +125,7 @@ modified: "2026-09-07"
 |---------|------|------|
 | Mike Lunde case | 迈克·伦德案 | ...six years on from the Mike Lunde case... |
 | Kay Myers | 凯·迈尔斯 | ...what more life has to offer to Kay Myers... |
-| Olav Hanson | 奥拉夫·汉森 | ...the memory of Olav Hanson. |
+| Olav Hanson | 奥拉夫·汉森 | ...in the wake of his change of stance... |
 | candidate | 候选人 | ...a likely candidate as the city's next chief of police... |
 | diagnosis | 诊断 | ...a diagnosis of cancer slowed him down. |
 | cancer | 癌症 | ...a diagnosis of cancer slowed him down. |

@@ -143,7 +143,7 @@ modified: "2026-09-07"
 | house | 房子 | Bob approached the house slowly... |
 | door | 门 | Bob pressed the doorbell. |
 | window | 窗户 | ...keeping his eyes on the windows. |
-| name | 名字 | ...lives Sam, Anna, Monica and Mike Lunde. |
+| name | 名字 | ...live Sam, Anna, Monica and Mike Lunde. |
 | father | 父亲 | Only the father survived. |
 | chair | 椅子 | ...what he had at first taken to be an ordinary chair... |
 

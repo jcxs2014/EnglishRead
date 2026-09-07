@@ -113,7 +113,7 @@ modified: "2026-09-07"
 | office | 办公室 | ...out in the deserted office landscape. |
 | jacket | 夹克 | Joe shrugged on his jacket. |
 | name | 名字 | Good morning, my name is Jim Andersen. |
-| number | 号码 | ...gave you a name or a phone number? |
+| number | 号码 | ‘Did he give you a name or a phone number?’ |
 | white | 白人 | But he wasn't Latino. He was white. |
 | car | 汽车 | ...headed for the Volvo parked higher up the street. |
 

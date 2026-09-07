@@ -169,7 +169,7 @@ modified: "2026-09-07"
 | news | 新闻 | ...he listened to the newsreader say... |
 | coffee | 咖啡 | ...decent coffee and Wi-Fi... |
 | password | 密码 | ...the staff password? |
-| laptop | 笔记本电脑 | He put the laptop on the counter... |
+| laptop | 笔记本电脑 | ...switched on his laptop and registered that his internet was down. |
 
 ## 一句话总结
 Oz 在家醒来，通过新闻了解选情；他去 Dinkytown 的 Bernie's Bar 找 Liza 借 Wi-Fi，用 Radica 20Q 玩具换取密码；他分享了自己女儿 Frankie 的故事，两人关系加深；他通过 MPD 数据库搜索 Gomez 的过去，发现一宗 1995 年的 Perez 家庭谋杀案。

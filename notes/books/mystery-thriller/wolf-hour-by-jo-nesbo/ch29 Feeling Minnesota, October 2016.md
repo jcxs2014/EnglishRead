@@ -198,7 +198,7 @@ modified: "2026-09-07"
 | bar | 酒吧 | Kay entered the almost empty sports bar... |
 | coat | 外套 | ...saw the mustard-yellow coat... |
 | drink | 饮料 | ‘Guess I need a drink too.’ |
-| man | 男人 | ...a man shot in the parking lot... |
+| man | 男人 | ...a man walked to the front of the store and unlocked the door. |
 | news | 新闻 | It's on the news, said Bob. |
 | door | 门 | ...a door that was ajar. |
 
