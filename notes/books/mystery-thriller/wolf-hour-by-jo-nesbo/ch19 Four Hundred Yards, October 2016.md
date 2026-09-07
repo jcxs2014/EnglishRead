@@ -131,6 +131,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -141,10 +143,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | cast a strip of shadow | 投下一道阴影 | The noonday sun had cast a strip of shadow across its bill. |
 | bill | 鸟嘴 | ...across its bill. |
-| target | 靶子 | A target had been drawn on the forehead... |
-| pistol butts | 手枪握把 | They stocked magazines and pistol butts... |
 
 ### ⭐⭐ 进阶
 
@@ -154,12 +156,12 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | store | 商店 | There was a Donald Duck in the store. |
 | sun | 太阳 | The noonday sun had cast a strip of shadow... |
 | shadow | 阴影 | ...cast a strip of shadow across its bill. |
 | forehead | 额头 | A target had been drawn on the forehead... |
-| pistol | 手枪 | ...he was holding a pistol that was pointing at me. |
-| wall | 墙 | The wall behind it was hung with rifles for sale. |
 
 ### ⭐ 基础
 
@@ -169,9 +171,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | store | 商店 | There was a Donald Duck in the store. |
-| sun | 太阳 | The noonday sun had cast a strip of shadow... |
-| shadow | 阴影 | ...cast a strip of shadow across its bill. |
 
 ## 一句话总结
 杀手（Tomás Gomez）在射击场练习，用假名预订射击课程，完美命中 400 码目标；他与两名警察擦肩而过——警察只是来归还他遗忘的靶纸，而他"又要去上班了"。

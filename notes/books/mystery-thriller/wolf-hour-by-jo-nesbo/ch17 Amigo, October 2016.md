@@ -99,6 +99,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -109,10 +111,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | running the operation | 经营业务 | The Latino in the porkpie hat was clearly running the operation. |
 | elastic band | 橡皮筋 | ...a bundle of something with an elastic band around it... |
-| portrait adorned | 装饰着肖像 | ...the long-dead general and president whose portrait adorned the fifty-dollar banknote. |
-| threatening | 威胁 | I'm not threatening you with prison... |
 
 ### ⭐⭐ 进阶
 
@@ -122,12 +124,12 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | parked | 停车 | Bob had parked by the playground... |
 | playground | 游乐场 | Bob had parked by the playground... |
 | hamburger | 汉堡 | He sat eating a hamburger in the Volvo... |
 | watched the deal going down | 看着交易进行 | ...watched the deal going down outside a nearby house. |
-| nearby | 附近的 | ...outside a nearby house. |
-| porkpie hat | 猪肉派帽子 | The Latino in the porkpie hat... |
 
 ### ⭐ 基础
 
@@ -137,9 +139,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | car | 汽车 | Bob had parked by the playground... |
-| burger | 汉堡 | He sat eating a hamburger... |
-| deal | 交易 | ...watched the deal going down... |
 
 ## 一句话总结
 

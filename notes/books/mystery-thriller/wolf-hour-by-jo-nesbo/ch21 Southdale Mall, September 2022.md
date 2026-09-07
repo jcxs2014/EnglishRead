@@ -137,6 +137,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -145,17 +147,19 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | technically speaking | 严格来说 | ...in Edina, which is technically speaking another town. |
 | Norwegian descent | 挪威血统 | ...the mayor of Edina is of Norwegian descent. |
 | preoccupied | 全神贯注的 | I'm more preoccupied by the fact... |
 | passed away | 去世 | ‘Was? You mean he passed away?’ |
-| gruesome murders | 可怕的谋杀 | ...writing about gruesome murders? |
-| Ronald Knox | 罗纳德·诺克斯（神父） | Maybe you've heard of Ronald Knox? |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | waiting | 等待 | We're waiting for a red light... |
@@ -164,8 +168,6 @@ modified: "2026-09-07"
 | cab driver | 出租车司机 | The cab driver, whose name I have discovered is Gabriel... |
 | name | 名字 | ...whose name I have discovered is Gabriel... |
 | mayor | 市长 | ...the mayor of Edina... |
-| surroundings | 环境 | ...I don't recognise my surroundings. |
-| choose | 选择 | ‘What made you choose this particular story?’ |
 
 ### ⭐ 基础
 
@@ -173,11 +175,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | light | 灯 | We're waiting for a red light... |
 | town | 城镇 | ...another town. |
 | driver | 司机 | The cab driver... |
-| name | 名字 | ...whose name I have discovered is Gabriel... |
-| mayor | 市长 | ...the mayor of Edina... |
 
 ## 一句话总结
 Holger 与出租车司机 Gabriel 交谈，透露了案件与自己的关系——被害人是他的表兄；他来到 Southdale Mall 寻找童年的记忆，但发现一切已变，而"六年是很长的时间"。

@@ -138,6 +138,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -147,11 +149,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | mannequins | 人体模型 | We call them mannequins... |
 | oblong pupils | 椭圆形瞳孔 | The hart has oblong pupils... |
 | prey | 猎物 | They're prey. |
-| moment of triumph | 胜利时刻 | ...capture his moment of triumph... |
-| barber | 理发师 | I'm a barber. |
 
 ### ⭐⭐ 进阶
 
@@ -160,13 +162,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | patted | 轻拍 | Bob smiled and patted a white-tailed deer. |
 | white-tailed deer | 白尾鹿 | Bob smiled and patted a white-tailed deer. |
 | hang around | 闲逛 | ...could hang around here for a while... |
 | reading glasses | 眼镜 | ...with a pair of reading glasses pushed up on his forehead. |
 | deserted | 空的 | ...the place was as deserted as it had been the previous time. |
-| show up | 出现 | ...where we can expect him to show up. |
-| workshop | 工作坊 | Bob followed Lunde through the door... |
 
 ### ⭐ 基础
 
@@ -175,10 +177,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | door | 门 | Mike Lunde emerged from a door... |
 | hands | 双手 | ...wiping his hands dry on his rough blue apron. |
-| apron | 围裙 | ...his rough blue apron. |
-| store | 商店 | ...the place was as deserted... |
 
 ## 一句话总结
 Oz 在标本店等待 Gomez，与 Lunde 深入交谈——关于标本术、孤独、以及 Gomez 的过去；Lunde 透露 Gomez 曾说"孤独正在慢慢逼疯他"，而 Oz 也在标本店找到了平静。

@@ -76,6 +76,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -83,18 +85,20 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | oath of confidentiality | 保密誓言 | ...consider your oath of confidentiality, Dr Egeland... |
 | Mafia bosses | 黑手党头目 | ...associate with Mafia bosses and pimps rather than police officers... |
 | pimps | 皮条客 | ...associate with Mafia bosses and pimps rather than police officers... |
 | diabetes | 糖尿病 | ...information out of him about a diabetes diagnosis. |
 | biannual | 一年两次的 | ...when he was due his first biannual check-up... |
-| tattoos | 纹身 | ...his upper body was covered in tattoos. |
-| X-11 | X-11（帮派名） | ...on his back he had X-11 tattooed. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | doctor | 医生 | ...consider your oath of confidentiality, Dr Egeland... |
 | policeman | 警察 | The policeman sitting on the chair... |
@@ -103,20 +107,18 @@ modified: "2026-09-07"
 | colour | 颜色 | ...of a cut and colour... |
 | police officers | 警察 | ...rather than police officers. |
 | orange | 橙色的 | ...a coat that was almost orange... |
-| red | 红色的 | ...red silk tie... |
-| tie | 领带 | ...red silk tie... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | doctor | 医生 | ...consider your oath of confidentiality, Dr Egeland... |
 | policeman | 警察 | The policeman sitting on the chair... |
 | chair | 椅子 | The policeman sitting on the chair... |
 | clothes | 衣服 | ...wearing clothes of a cut and colour... |
-| colour | 颜色 | ...of a cut and colour... |
-| police | 警察 | ...rather than police officers. |
 
 ## 一句话总结
 

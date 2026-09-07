@@ -84,6 +84,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -95,9 +97,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | wizard | 巫师，奇才（反讽） | ‘Here’s the wizard,’ said Olav Hanson. |
-| transport | 运输，运送 | ...transport yourself here in twenty minutes... |
-| anticipation | 预期，期待 | There was an anticipation in their sniggers... |
 
 ### ⭐⭐ 进阶
 
@@ -108,11 +110,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | elevator | 电梯 | WHEN BOB EMERGED FROM THE elevator... |
 | coffee machine | 咖啡机 | ...three men from Homicide were standing by the unit’s new coffee machine. |
 | wizard | 巫师 | ‘Here’s the wizard,’ said Olav Hanson. |
-| transport | 运输 | ...transport yourself here in twenty minutes... |
-| traffic | 交通 | ‘Traffic,’ said Bob over Joe Kjos’s laughter. |
 
 ### ⭐ 基础
 
@@ -123,8 +125,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| office | 办公室 | ...headed into the empty office landscape. |
-| desk | 书桌 | ‘He’s waiting by your desk.’ |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

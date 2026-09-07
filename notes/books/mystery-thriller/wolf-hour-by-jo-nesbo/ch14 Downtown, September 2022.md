@@ -52,6 +52,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -63,9 +65,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | pressed against | 紧贴在 | I Stand WITH MY FACE pressed against the display window... |
-| display window | 展示窗 | ...pressed against the display window... |
-| peer into | 向里看，凝视 | ...and peer into Town Taxidermy. |
 
 ### ⭐⭐ 进阶
 
@@ -76,11 +78,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | face | 脸 | I Stand WITH MY FACE pressed against... |
 | window | 窗 | ...pressed against the display window... |
 | store | 商店 | In the darkened interior of the store... |
-| bear | 熊 | ...a bear standing up on two legs... |
-| two legs | 两条腿 | ...a bear standing up on two legs... |
 
 ### ⭐ 基础
 
@@ -91,8 +93,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| face | 脸 | I Stand WITH MY FACE pressed against... |
-| window | 窗 | ...pressed against the display window... |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

@@ -164,6 +164,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -175,9 +177,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | crossed the parking lot | 穿过停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
-| present from a time long gone | 来自久远过去的礼物 | Looked at his watch, a present from a time long gone. |
-| regretted | 后悔 | Already he regretted drinking those three beers. |
 
 ### ⭐⭐ 进阶
 
@@ -188,11 +190,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | parking lot | 停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
 | watch | 手表 | Looked at his watch... |
 | present | 礼物 | ...a present from a time long gone. |
-| time long gone | 久远的过去 | ...a present from a time long gone. |
-| regretted | 后悔 | Already he regretted drinking those three beers. |
 
 ### ⭐ 基础
 
@@ -203,8 +205,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| parking lot | 停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
-| watch | 手表 | Looked at his watch... |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

@@ -90,6 +90,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -101,9 +103,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | plinth | 底座，基座 | ...the man up there on the plinth was half-Norwegian... |
-| social mobility | 社会流动性 | ...the American dream of social mobility... |
-| home of the free and the brave | 自由与勇敢的家园（美国别称） | ...America is the home of the free and the brave. |
 
 ### ⭐⭐ 进阶
 
@@ -114,11 +116,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | downtown | 市中心，商业区 | WE’RE BACK IN DOWNTOWN. |
 | whistle | 汽笛，口哨 | ...hear the whistle blow... |
 | subway | 地铁 | ...the subway train glides out of the station... |
-| glides | 滑行，滑动 | ...the subway train glides out of the station... |
-| vice president | 副总统 | Before he was mayor he was vice president... |
 
 ### ⭐ 基础
 
@@ -129,8 +131,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| taxi | 出租车 | I tell the taxi driver to wait for me... |
-| driver | 司机 | I tell the taxi driver to wait for me... |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

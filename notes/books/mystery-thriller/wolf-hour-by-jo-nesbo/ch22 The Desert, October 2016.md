@@ -111,59 +111,29 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"gave me"是倒计时——时间不多了。
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | flat light | 平淡的光 | A flat light lay across the desert. |
 | desert | 沙漠 | A huge desert that I crossed alone. |
 | monotonous | 单调的 | ...that monotonous, desolate landscape... |
 | desolate | 荒凉的 | ...that monotonous, desolate landscape... |
 | sign of life | 生命迹象 | ...no sign of life at all. |
 | whirled up into heaven | 卷上天堂 | ...been whirled up into heaven just a moment ago... |
-| generous-spirited Jehovah | 慷慨的耶和华 | ...by some generous-spirited Jehovah? |
-| any more alone | | ...wouldn't have left me any more alone than I already am. |
-| loneliness | 孤独 | That I was lonely. |
-| burden | 负担 | ...the burden of the emptiness... |
-| emptiness | 空虚 | ...the burden of the emptiness... |
-| crush me | 压垮我 | ...were so great I felt they were going to crush me. |
-| kept me going | 让我继续下去 | That was the only thing that kept me going now... |
-| worth getting up | 值得起床 | ...made it worth getting up in the morning. |
-| eternity | 永恒 | Then this eternity would end. |
-| together again | 再次在一起 | Then we would be together again, my beloved. |
-| beloved | 爱人 | Then we would be together again, my beloved. |
-| Eternal rest | 永恒的安息 | And rest. Eternal rest. |
-| jerked in surprise | 惊讶地抽动 | The big body jerked in surprise... |
-| panic | 恐慌 | I could see the panic in her eyes. |
-| relief | 宽慰 | Then the relief. |
-| Latino | 拉丁美洲人 | I guess Latino was a bit less threatening. |
-| a bit less threatening | 威胁小一点 | I guess Latino was a bit less threatening. |
-| stared | 盯着 | She stared at my face, then at my hands. |
-| spot | 发现 | It took me a while to spot that big blue car... |
-| big blue car | 蓝色大车 | It took me a while to spot that big blue car... |
-| navigated | 导航 | ...and navigated there using the floodlight pylon... |
-| floodlight pylon | 泛光灯塔 | ...using the floodlight pylon in the centre of the parking lot. |
-| Chevrolet Silverado | 雪佛兰西维尔拉多 | It was a Chevrolet Silverado High Country crew cab. |
-| peered | 凝视 | I peered in at the driver's seat. |
-| neck support | 颈托 | ...the neck support was at normal height. |
-| not too far forward nor too far back | 不太前也不太后 | The seat pushed not too far forward nor too far back. |
-| sleeve | 袖子 | I used the sleeve of my jacket... |
-| wipe away | 擦去 | ...to wipe away the raindrops from the windshield... |
-| raindrops | 雨滴 | ...to wipe away the raindrops from the windshield... |
-| windshield | 挡风玻璃 | ...from the windshield... |
-| roll of wide white tape | 宽白色胶带卷 | ...took out the roll of wide white tape... |
-| tore off | 撕下 | ...and tore off three strips. |
-| strips | 条 | ...tore off three strips. |
-| white square | 白色方块 | It formed a white square approximately three by three inches. |
-| approximately | 大约 | ...approximately three by three inches. |
-| half an hour | 半小时 | That gave me half an hour. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | light | 光 | A flat light lay across the desert. |
 | desert | 沙漠 | A huge desert that I crossed alone. |
 | alone | 独自 | A huge desert that I crossed alone. |
@@ -172,86 +142,18 @@ modified: "2026-09-07"
 | cars | 汽车 | But of course, cars count as signs of life. |
 | parking lot | 停车场 | And this parking lot. |
 | earth | 地球 | What if every person on earth apart from me... |
-| moment | 时刻 | ...just a moment ago... |
-| heaven | 天堂 | ...whirled up into heaven... |
-| Jehovah | 耶和华 | ...generous-spirited Jehovah? |
-| fine | 好的 | That would have been fine actually... |
-| days | 天 | Some days it was just fine... |
-| times | 时候 | ...but at other times the loneliness... |
-| morning | 早晨 | ...worth getting up in the morning. |
-| plate | 盘子 | ...the food on the plate in front of me. |
-| afterward | 之后 | But afterward, when that was out of the way... |
-| walking | 走 | So I carried on walking. |
-| cloudy | 多云 | It was cloudy... |
-| autumn | 秋天 | ...at this time of the autumn... |
-| daylight | 日光 | ...the daylight was already noticeably less... |
-| six o'clock | 六点 | ...by six o'clock... |
-| work | 工作 | ...which was the time he usually left work. |
-| suddenly | 突然 | Suddenly I saw someone. |
-| standing | 站 | She was standing by her car... |
-| car | 汽车 | She was standing by her car... |
-| trunk | 后备箱 | ...with the trunk open. |
-| overweight | 超重 | She was overweight and out of breath... |
-| out of breath | 喘不过气 | She was overweight and out of breath... |
-| shopping cart | 购物车 | ...using that overfilled shopping cart as a walker... |
-| walker | 助行器 | ...as a walker on her way through the desert. |
-| surprise | 惊讶 | The big body jerked in surprise... |
-| eyes | 眼睛 | I could see the panic in her eyes. |
-| thought | 想法 | That her first thought was that I was black. |
-| black | 黑人 | That her first thought was that I was black. |
-| threatening | 威胁的 | ...a bit less threatening. |
-| smile | 微笑 | I smiled. |
-| help | 帮助 | ...you needed any help?’ |
-| face | 脸 | She stared at my face, then at my hands. |
-| hands | 手 | She stared at my face, then at my hands. |
-| walked on | 继续走 | I walked on. |
-| while | 一段时间 | It took me a while to spot that big blue car... |
-| knew | 知道 | ...even though I knew where it usually stood... |
-| centre | 中心 | ...in the centre of the parking lot. |
-| driver | 司机 | I peered in at the driver's seat. |
-| seat | 座位 | I peered in at the driver's seat. |
-| height | 高度 | ...at normal height. |
-| jacket | 夹克 | I used the sleeve of my jacket... |
-| rain | 雨 | ...wipe away the raindrops... |
-| tape | 胶带 | ...wide white tape... |
-| driver's side | 驾驶员一侧 | ...on the driver's side... |
-| roof | 车顶 | ...directly under the roof. |
-| watch | 手表 | I looked at my watch. |
-| five thirty | 五点半 | Five thirty. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | desert | 沙漠 | A huge desert that I crossed alone. |
 | people | 人 | I saw no other people... |
 | cars | 汽车 | But of course, cars count as signs of life. |
 | parking lot | 停车场 | And this parking lot. |
 | alone | 独自 | A huge desert that I crossed alone. |
-| lonely | 孤独的 | That I was lonely. |
-| days | 天 | Some days it was just fine... |
-| times | 时候 | ...but at other times the loneliness... |
-| morning | 早晨 | ...worth getting up in the morning. |
-| food | 食物 | ...the food on the plate... |
-| rest | 休息 | And rest. Eternal rest. |
-| walking | 走 | So I carried on walking. |
-| cloudy | 多云 | It was cloudy... |
-| autumn | 秋天 | ...at this time of the autumn... |
-| light | 光 | ...the daylight was already noticeably less... |
-| work | 工作 | ...which was the time he usually left work. |
-| someone | 有人 | Suddenly I saw someone. |
-| car | 汽车 | She was standing by her car... |
-| trunk | 后备箱 | ...with the trunk open. |
-| cart | 购物车 | ...overfilled shopping cart... |
-| panic | 恐慌 | I could see the panic in her eyes. |
-| relief | 宽慰 | Then the relief. |
-| face | 脸 | She stared at my face... |
-| hands | 手 | ...then at my hands. |
-| blue | 蓝色 | ...big blue car... |
-| seat | 座位 | I peered in at the driver's seat. |
-| tape | 胶带 | ...wide white tape... |
-| windshield | 挡风玻璃 | ...from the windshield... |
-| watch | 手表 | I looked at my watch. |
 
 ## 一句话总结
 杀手在停车场等待目标，回忆起自己的孤独和使命——他的妻儿已死，复仇是他唯一的生存理由；他在一辆蓝色 Chevrolet Silverado 上贴白色胶带作为瞄准标记，等待目标出现。

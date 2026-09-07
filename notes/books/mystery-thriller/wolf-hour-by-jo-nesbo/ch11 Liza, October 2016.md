@@ -92,6 +92,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -103,9 +105,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | hummed | 哼唱 | LIZA HUMMELS HELD OPEN THE door... |
-| snuffled | 抽鼻子，鼻音地说 | ...the boy snuffled. |
-| alcoholic clientele | 酗酒常客 | ...with the older, more alcoholic clientele... |
 
 ### ⭐⭐ 进阶
 
@@ -116,11 +118,11 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | door | 门 | LIZA HUMMELS HELD OPEN THE door... |
 | student | 学生 | ...one student helped another to make it through. |
 | home | 家 | ...get him home all right? |
-| round the corner | 在拐角处 | We live just round the corner. |
-| closed | 关闭 | ...she closed the door and locked it. |
 
 ### ⭐ 基础
 
@@ -131,8 +133,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| door | 门 | LIZA HUMMELS HELD OPEN THE door... |
-| student | 学生 | ...one student helped another to make it through. |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

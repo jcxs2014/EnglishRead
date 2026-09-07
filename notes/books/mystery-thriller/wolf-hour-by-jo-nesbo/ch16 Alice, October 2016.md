@@ -172,6 +172,8 @@ modified: "2026-09-07"
 
 
 
+
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -183,9 +185,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | doorway | 门口 | Kay Myers stood in the doorway... |
-| decorated | 装修 | ...an office that was being decorated. |
-| coffee mug | 咖啡杯 | ...holding a coffee mug with ILove CHICAGO written on it. |
 
 ## 一句话总结
 
