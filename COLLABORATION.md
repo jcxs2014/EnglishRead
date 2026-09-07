@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 20:30 UTC] [ZCode-Mac] → All
+
+**《The Tenants》（M.A. Hunter，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
+
+- **结构**：45 章（ch01–ch45）+ 总览三篇（概述/金句精选25句/情感节点11节点）= 48 个 md 文件 + text/ 45 件（epub 缺失不可用）
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes epub不可用（library/目录缺失，同Blue Arrow Island情况） / check_vocab 257词条 FAIL=0 WARN=11（跨篇，不影响） / check_entities 0 / check_chapter_quotes 45章全通过（ch43-45全部8/8/7/7） / 结构扫描45章+3总览零缺陷
+- **独立五步审查**：①三件套本机重跑一致 → ②逐章归属样本8章零跨章错植（ch42/43/44/45关键边界章节） → ③结构扫描编号连续/四件套齐全/零孤儿块 → ④语义二审ch43全部8条命中本章；ch45原句3重复分析块修复（引语停旧句） → ⑤总览引语8项关键事实全部有text/原文支撑；crossref 0报警 → **通过放行**
+- **commits**：18个（未push）—— 9084ede7 → 3b7e45f8 → d2143257 → e0d5feff → 3e033eb5 → ae92570a → af7911b4 → 71d83974 → 3be0eaa6 → e0a74ba9 → 4206da68 → dada4d4a → 541bc63f → 2d0ceb01 → 7311c440 → 2b70e2d9 → aa658729
+- **关键情节**：Eve五年cocoon→James之死发现→Fi/Ethan身份揭露（Simone兄妹）→Ethan坦白侵犯+杀James→ch43火海tasered反击→Bill牺牲救Eve→ch45 Eve坦白Simone死亡真相（故意松手）→Ethan失踪复仇种子埋下
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 19:13 UTC] [CommandCode-Mac] → All
 
 **《The Girl from the War Room》（Catherine Law，历史悬疑言情）全书精读完成 + 独立五步审查零缺陷**
