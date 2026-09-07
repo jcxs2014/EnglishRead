@@ -86,6 +86,7 @@ modified: "2026-09-07"
 读者视角提示：Holger 的"pleasurable shiver"与 ch02 杀手的"shiver"呼应——两人都在犯罪中获得某种快感，只是一个通过写作，一个通过谋杀。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -93,18 +94,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | plinth | 底座，基座 | ...the man up there on the plinth was half-Norwegian... |
 | social mobility | 社会流动性 | ...the American dream of social mobility... |
 | home of the free and the brave | 自由与勇敢的家园（美国别称） | ...America is the home of the free and the brave. |
 | fantastically | 极其，非常 | ...it’s fantastically boring. |
 | spires | 尖塔 | ...with its spires and its ornamentations... |
 | ornamentations | 装饰，装饰品 | ...with its spires and its ornamentations... |
-| radiates | 散发，辐射 | ...radiates something exalted... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | downtown | 市中心，商业区 | WE’RE BACK IN DOWNTOWN. |
 | whistle | 汽笛，口哨 | ...hear the whistle blow... |
@@ -114,19 +116,18 @@ modified: "2026-09-07"
 | presidential candidate | 总统候选人 | ...as well as a presidential candidate. |
 | half-Norwegian | 半个挪威人 | ...the man up there on the plinth was half-Norwegian... |
 | millionaires | 百万富翁 | ...all presidents except one during the previous hundred years were millionaires... |
-| work your way down the list | 在名单上往下翻 | ...you had to work your way far down the list... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | taxi | 出租车 | I tell the taxi driver to wait for me... |
 | driver | 司机 | I tell the taxi driver to wait for me... |
 | city | 城市 | The city is awake by now... |
 | train | 火车 | ...the subway train glides out of the station... |
 | station | 车站 | ...glides out of the station behind me. |
-| statue | 雕像 | In front of me is a statue of Mayor Hubert Humphrey. |
 
 ## 一句话总结
 

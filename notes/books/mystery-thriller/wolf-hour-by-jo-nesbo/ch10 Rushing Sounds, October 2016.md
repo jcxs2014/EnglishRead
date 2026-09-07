@@ -80,6 +80,7 @@ modified: "2026-09-07"
 读者视角提示：杀手的"it would all be over"暗示他的动机不是仇恨，而是"完成"——他只是在执行一个计划。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -87,18 +88,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | wizard | 巫师，奇才（反讽） | ‘Here’s the wizard,’ said Olav Hanson. |
 | transport | 运输，运送 | ...transport yourself here in twenty minutes... |
 | anticipation | 预期，期待 | There was an anticipation in their sniggers... |
 | sniggers | 窃笑，暗笑 | There was an anticipation in their sniggers... |
 | personal matter | 私事 | It’s a personal matter so I thought it was best... |
 | unbuttoned | 解开纽扣 | Bob unbuttoned his coat as he headed into... |
-| empty office landscape | 空旷的办公室景观 | ...headed into the empty office landscape. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | elevator | 电梯 | WHEN BOB EMERGED FROM THE elevator... |
 | coffee machine | 咖啡机 | ...three men from Homicide were standing by the unit’s new coffee machine. |
@@ -108,19 +110,18 @@ modified: "2026-09-07"
 | waiting | 等待 | ‘He’s waiting by your desk.’ |
 | let him in | 让他进来 | ‘Oh yeah? Who let him in?’ |
 | personal matter | 私事 | It’s a personal matter... |
-| unbuttoned | 解开 | Bob unbuttoned his coat... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | office | 办公室 | ...headed into the empty office landscape. |
 | desk | 书桌 | ‘He’s waiting by your desk.’ |
 | man | 男人 | The man in the chair got up. |
 | name | 名字 | My name is Tony Stärk. |
 | wife | 妻子 | ‘You raped my wife.’ |
-| police | 警察 | ‘Good evening, I’m Detective Oz,’ said Bob. |
 
 ## 一句话总结
 

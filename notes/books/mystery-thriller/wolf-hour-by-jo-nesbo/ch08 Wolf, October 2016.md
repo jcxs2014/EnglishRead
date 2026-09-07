@@ -72,6 +72,7 @@ modified: "2026-09-07"
 读者视角提示：Rooble 的回忆让读者看到 Oz 的"另一面"——他曾是社区的一部分，现在只是孤独的侦探。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -79,18 +80,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | oath of confidentiality | 保密誓言 | ...consider your oath of confidentiality, Dr Egeland... |
 | Mafia bosses | 黑手党头目 | ...associated with Mafia bosses and pimps rather than police... |
 | pimps | 皮条客 | ...associated with Mafia bosses and pimps rather than police... |
 | diabetes | 糖尿病 | ...information out of him about a diabetes diagnosis. |
 | injector pen | 注射笔 | ...one used injector pen left in the box. |
 | prescription | 处方 | ...when will he need to renew his prescription? |
-| journal | 病历，日志 | ...can you check his journal on your computer... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | oath | 誓言 | ...consider your oath of confidentiality... |
 | confidentiality | 保密 | ...his own vow of confidentiality. |
@@ -100,19 +102,18 @@ modified: "2026-09-07"
 | elegant | 优雅的 | ...a touch too elegant and delicate for a Minneapolis autumn. |
 | delicate | 精致的，脆弱的 | ...too elegant and delicate for a Minneapolis autumn. |
 | suspicious | 可疑的 | ...nothing suspicious about the credentials... |
-| credentials | 证件 | ...nothing suspicious about the credentials the man had shown him... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | doctor | 医生 | ...consider your oath of confidentiality, Dr Egeland... |
 | policeman | 警察 | The policeman sitting on the chair... |
 | chair | 椅子 | The policeman sitting on the chair... |
 | clothes | 衣服 | ...wearing clothes of a cut and colour... |
 | colour | 颜色 | ...of a cut and colour... |
-| police officers | 警察 | ...rather than police officers. |
 
 ## 一句话总结
 

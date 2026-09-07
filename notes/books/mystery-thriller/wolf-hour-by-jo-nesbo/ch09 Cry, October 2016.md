@@ -98,6 +98,7 @@ modified: "2026-09-07"
 读者视角提示：杀手对医院布局的熟悉程度暗示他事先踩过点——这是一场有预谋的"补枪"。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -105,18 +106,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | perspective | 视角，视野 | I Was ON HIGH, I had perspective. |
 | observer | 观察者 | ...this time I was just an observer. |
 | news broadcasts | 新闻广播 | Switched between news broadcasts on KSTP, WCCO and KARE... |
 | coverage | 报道，覆盖 | ...would get less coverage than the killing of some rich white guy... |
 | headlines | 头条新闻 | ...why it hadn’t made the headlines. |
 | anchor | 主播，主持人 | The anchor reported a shooting incident... |
-| shooting incident | 枪击事件 | The anchor reported a shooting incident in Jordan... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | news | 新闻 | Switched between news broadcasts... |
 | TV |  télévision | I was lying in bed and watching TV. |
@@ -126,19 +128,18 @@ modified: "2026-09-07"
 | exhausted | 疲惫不堪的 | ...my ears were exhausted from all the cackling... |
 | cackling | 咯咯笑；刺耳的笑声 | ...from all the cackling and the brutal sound effects... |
 | brutal | 残酷的，野蛮的 | ...and the brutal sound effects used by advertisers... |
-| sound effects | 音效 | ...used by advertisers to attract attention. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bed | 床 | I was lying in bed and watching TV. |
 | TV | 电视 | I was lying in bed and watching TV. |
 | phone | 电话 | ...and the internet on my phone. |
 | internet | 互联网 | ...and the internet on my phone. |
 | screen | 屏幕 | ...staring at the screen. |
-| eyes | 眼睛 | ...my eyes were exhausted... |
 
 ## 一句话总结
 

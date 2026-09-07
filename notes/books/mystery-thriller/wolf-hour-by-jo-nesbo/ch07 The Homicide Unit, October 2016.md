@@ -112,6 +112,7 @@ modified: "2026-09-07"
 读者视角提示：Oz 想逮捕"任何人"——他需要的是"行动"，而非正义。他的愤怒需要一个出口。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -119,18 +120,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | venerable | 庄严的，古老的 | ...passed through the venerable hall... |
 | battledress | 战斗服，制服 | ...the battledress of the legal profession. |
 | security channel | 安检通道 | ...through the security channel... |
 | prison on remand | 还押监狱 | ...used to house prisoners on remand... |
 | refurbishment | 翻新，装修 | ...despite the complete refurbishment... |
 | puncture | 漏气，刺穿 | ...a cross between an apology and a puncture. |
-| chaos | 混乱，混沌 | From the chaos of paper piles... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | plaza | 广场，购物中心 | BOB OZ CROSSED GOVERNMENT PLAZA. |
 | statue | 雕像 | Glanced up at the Humphrey statue... |
@@ -140,19 +142,18 @@ modified: "2026-09-07"
 | navy-blue | 海军蓝的 | ...a woman in a navy-blue skirt and jacket... |
 | skirt | 裙子 | ...a woman in a navy-blue skirt and jacket... |
 | jacket | 夹克，上衣 | ...a woman in a navy-blue skirt and jacket... |
-| legal profession | 法律界 | ...the battledress of the legal profession. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | office | 办公室 | ...stepped out into the Homicide Department’s new offices. |
 | case | 案件 | ...I want you to take the case... |
 | murder | 谋杀 | ...it’s a first-degree assault and not a murder. |
 | detective | 侦探 | Detective Olav Hanson’s pronunciation... |
 | chief | 局长，上司 | ‘Boss?’ said a voice. |
-| phone | 电话 | ...the phone rang. |
 
 ## 一句话总结
 

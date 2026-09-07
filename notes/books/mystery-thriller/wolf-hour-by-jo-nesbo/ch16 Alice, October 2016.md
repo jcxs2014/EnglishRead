@@ -168,6 +168,7 @@ modified: "2026-09-07"
 读者视角提示：Alice 的"five minutes"是时间压力——她没有时间思考 Oz。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -175,13 +176,13 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | doorway | 门口 | Kay Myers stood in the doorway... |
 | decorated | 装修 | ...an office that was being decorated. |
 | coffee mug | 咖啡杯 | ...holding a coffee mug with ILove CHICAGO written on it. |
 | crime scene technician | 犯罪现场技术员 | He reminded her of a crime scene technician... |
 | masked | 戴面具的 | ...masked and dressed in white. |
 | ILove CHICAGO | "我爱芝加哥" | ...ILove CHICAGO written on it. |
-| twinkled | 闪烁 | The dark eyes behind the mask twinkled... |
 
 ## 一句话总结
 

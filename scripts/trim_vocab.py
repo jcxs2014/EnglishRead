@@ -19,6 +19,9 @@ TARGETS = {
     14: (8, 10, 7),  # ch14: 25 total
     15: (8, 10, 7),  # ch15: 25 total
     16: (8, 10, 7),  # ch16: 25 total
+    17: (8, 10, 7),  # ch17: 25 total
+    18: (8, 10, 7),  # ch18: 25 total
+    19: (8, 10, 7),  # ch19: 25 total
 }
 
 def trim_file(ch_num, star3_max, star2_max, star1_max):

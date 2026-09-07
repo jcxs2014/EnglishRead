@@ -232,6 +232,7 @@ modified: "2026-09-07"
 读者视角提示：Oz 的"nodded"是认同——他理解孤独。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -239,18 +240,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | narrow street | 窄巷 | ...standing in a narrow street in downtown. |
 | sign | 标志 | ...the sign above the store doorway. |
 | Town Taxidermy | 市政厅标本店 | Town Taxidermy. |
 | display window | 展示窗 | In the display window a black bear stood upright on two legs... |
 | black bear | 黑熊 | In the display window a black bear stood upright on two legs... |
 | upright | 直立的 | ...a black bear stood upright on two legs... |
-| courtiers | 朝臣，侍从 | ...around it, like courtiers, a gathering of birds and various rodents... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | narrow street | 窄巷 | ...standing in a narrow street in downtown. |
 | store | 商店 | He looked at the sign above the store doorway. |
@@ -260,19 +262,18 @@ modified: "2026-09-07"
 | bear | 熊 | In the display window a black bear stood upright on two legs... |
 | legs | 腿 | ...a black bear stood upright on two legs... |
 | deer | 鹿 | ...and a deer with a massive set of antlers. |
-| antlers | 鹿角 | ...a massive set of antlers. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | street | 街道 | ...standing in a narrow street in downtown. |
 | downtown | 市中心 | The time was 9 A.M. and Bob was standing in a narrow street in downtown. |
 | sign | 标志 | He looked at the sign above the store doorway. |
 | store | 商店 | He looked at the sign above the store doorway. |
 | doorway | 门口 | ...the sign above the store doorway. |
-| bear | 熊 | In the display window a black bear stood upright on two legs... |
 
 ## 一句话总结
 

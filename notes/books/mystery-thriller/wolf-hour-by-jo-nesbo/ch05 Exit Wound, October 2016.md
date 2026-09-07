@@ -96,6 +96,7 @@ modified: "2026-09-07"
 读者视角提示：Mike Lunde 是连接所有角色的节点——他为 Mrs White 的猫做标本，他可能是杀手的名片来源，他将是调查的关键。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -103,18 +104,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bottled-up | 被压抑的，憋闷的 | ...to hear the creaking of bottled-up hate... |
 | termite mounds | 白蚁丘 | They made him think of termite mounds. |
 | envisaged | 想象，预见 | They never envisaged a city with a skyline... |
 | thrift | 节俭，节约 | ...God-fearing, hard-working and thrifty. |
 | traumatised | 受创伤的 | ...traumatised child soldiers with Kalashnikovs... |
 | per capita | 人均 | ...crime per capita in Minneapolis was at an all-time low... |
-| nostrils dilate | 鼻孔扩张 | Bob saw Heinz’s nostrils dilate... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | towered | 高耸，屹立 | The brown-brick buildings around him towered into the sky... |
 | shadows | 阴影，暗影 | ...as he passed into the shadows... |
@@ -124,19 +126,18 @@ modified: "2026-09-07"
 | brain mass | 脑浆 | ...what was obviously supposed to be brain mass blowing out... |
 | cement | 水泥 | ...the cement stairway leading to the road below... |
 | assembly | 聚集，集会 | ...this concentrated assembly of people... |
-| scenery | 风景，景观 | ...a wide, open landscape with farms... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | body | 尸体 | Bob looked down at the body. |
 | blood | 血 | Oz saw the blood on the sidewalk outside... |
 | coat | 外套，大衣 | ...a mustard-yellow cashmere coat... |
 | shirt | 衬衫 | ...a slim-fit white shirt... |
 | shoes | 鞋 | ...his thin brown leather shoes... |
-| apartment | 公寓 | ...stepped carefully over the threshold... |
 
 ## 一句话总结
 

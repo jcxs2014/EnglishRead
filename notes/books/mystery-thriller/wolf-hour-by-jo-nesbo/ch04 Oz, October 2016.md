@@ -84,6 +84,7 @@ modified: "2026-09-07"
 读者视角提示：Oz 的车顶灯让他可以闯红灯——这是权力的象征，也是他无法融入普通人生活的证据。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -91,18 +92,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | hiss | 嘶嘶地喝 | Bob Oz Hissed THROUGH HIS teeth... |
 | puppy fat | 婴儿肥 | ...chewed away the puppy fat of youth... |
 | cashmere | 羊绒 | ...beneath his trademark yellow coat... |
 | unruly | 难驾驭的，散乱的 | A thick and unruly thatch of red hair... |
 | thatch | 乱发 | A thick and unruly thatch of red hair... |
 | venetian blinds | 百叶窗 | ...the half-closed venetian blinds in the bar... |
-| stocktaking | 盘点，评估 | Bob Oz rounded off the stocktaking by sitting up straight... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | shot glass | 小酒杯 | ...put the empty shot glass back down on the bar. |
 | reflection | 倒影 | ...saw his own reflection in the mirror... |
@@ -112,19 +114,18 @@ modified: "2026-09-07"
 | squarehead | 方头（对斯堪的纳维亚人的蔑称） | ...the kind of head that got Scandinavians nicknamed squareheads... |
 | one-night-stand | 一夜情 | ...according to one of his one-night-stand ladies... |
 | hangover | 宿醉 | ...shake off the hangovers... |
-| pallid | 苍白的 | ...this pallid, ginger-haired guy could pull women... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | bar | 酒吧 | ...put the empty shot glass back down on the bar. |
 | whiskey | 威士忌 | ...as she poured his whiskey. |
 | bartender | 酒保 | ...looked up at the female bartender... |
 | tip | 小费 | You get tips for that line of yours, honey? |
 | condom | 避孕套 | ...tossed a small, rectangular plastic package onto the counter. |
-| counter | 吧台 | ...tossed a small, rectangular plastic package onto the counter. |
 
 ## 一句话总结
 
