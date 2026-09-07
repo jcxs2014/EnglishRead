@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 17:15 UTC] [Opencode-Mac] → All
+
+**《Falling into Place》（Allison Ashley，言情长篇 contemporary romance）全书精读完成 + 独立五步审查通过**
+
+- **结构**：34 章（ch01 Carly 起 → ch32 Brooks 交替 + ch33 无 POV 短信体 + ch34 Epilogue 求婚）+ 总览三篇（概述/金句精选25句/情感节点10节点）= 37 个 md 文件 + text/ 34 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 258/258 ✅ / check_vocab 732 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 34/34 逐章归属 ✅ / verify_overview_quotes 21/21 ✅ / 结构扫描编号连续零重复 / 38 条短引语人工 grep 全命中
+- **独立五步审查**：a 三件套本机重跑一致 → b 文件名-H1 34/34 零偏移（西里尔污染 1 处已删；gag 计数链批量清理约 40 处；跨书污染 0）→ c 结构零缺陷 → d 语义二审（crossref 章号错位 3 处已修；关键词锚定 17 章缺词全修含真缺陷 fluke 1；jeans 卷宗链 3 虚构环节按实测六章重写；分层抽样 28 块，无据数字/年龄 6 处已 soften）→ e 总览核对（行内改写短引 6 处改逐字；说话人窗口抽检全对；数字断言 15 项全有据）→ **放行**
+- **commits**：15 个（未 push）—— 6bf3f06 → ceb8cf0 → ff8fd2a → c4f4bb3 → cb21256 → 575b5fe → 3a482bb → 5b89cb6 → 3f26ced → 244f711 → 4fc61dc → 690f223 → c5f9f34 → cc140ba → f8085a4
+- **核心主题**：稳定 vs 心动 / 说 vs 躲 / 翻篇 vs 传承
+- **关键情节**：Princeton 投诉开局 → Bachelor 专栏设局 → 练习约会交心 → 黄瓜表白 loophole → Gala 夜 → Coach 死/MVA 跪 → Madison 真相开除 → 电话分手 → 葬礼 grovel → Backstitch（Nashville 六月）→ 短信半年 → trivia 求婚
+- **教训**：Read 输出两次混入异物段（ch23 办公室/ch33 掺 ch31 pitch），文件实测证伪——凡写必先 grep；verify 对坏 epub 路径 fail-closed（0/X）；关键词 fluke 为记忆漂移虚构词
+- **未 push**，等用户指令统一推送
+
+
 ### [2026-09-07 17:02 UTC] [ZCode-Mac] → All
 
 **《One by One》（J.L. Brooks，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
@@ -945,52 +960,3 @@
 - 文件结构：75 ch*.md + 3 00*.md + 75 text/*.txt + epub
 
 **状态**：✅ 完成，待用户指令 push
-
-
-**Falling into Place by Allison Ashley — 全书精读 + 总览 + 独立审查完成 (2026-09-07)**
-
-**执行过程**：
-1. **体裁确认**：言情长篇 contemporary romance，34 章（ch01 Carly → ch32 Brooks 交替 + ch33 无POV + ch34 Epilogue）→ 逐章精读格式 + 3 篇总览
-2. **原文提取**：extract_chapters 34 件零偏移（最小 ch34 4945 字符，无漏提）
-3. **首章试产**：ch01 验收通过（7/7，vocab 0/0，entities 0）
-4. **批量推进**：11 批（试产+10 批，每批 ≤3 章），每批独立 commit，不 push
-5. **总览三篇**：00概述 + 00金句精选（25 句①-㉕四子项）+ 00情感节点（10 节点）
-6. **独立审查五步法**：a 三件套重跑 b 逐章归属 c 结构扫描 d 语义二审（含自建关键词锚定检查） e 总览说话人窗口核对
-
-**关键数据**：
-- verify_quotes：258/258 ✅（35 文件全干净，含 38 条短引语人工 grep 全命中）
-- check_vocab：732 词条，FAIL=0 WARN=0
-- check_entities：0 未知实体
-- verify_overview_quotes：21/21 ✅（概述/节点行内引语逐条 grep 全命中）
-- check_chapter_quotes：34/34 本章归属 ✅
-- check_crossref：14 报警 → 3 真缺陷已修（ch14→07/ch15→06/ch18→07 章号错位），余 11 转述型误报
-- 关键词锚定：278 报警 → 分流 17 章缺词 → 1 真缺陷（ch19 fluke 虚构词，已删）+ 16 替换/回声修复；余 261 本章有据场景延伸词
-
-**审查发现的真缺陷（已修）**：
-1. crossref 章号错位 3 处（ch14 自述三件套 ch15→07；ch15 绿眼睛 ch08→06；ch18 档案 ch15→07）
-2. ch19 关键词 fluke（记忆漂移，原文无此词，替换为 only two）
-3. ch23 Read 输出混入异物段（办公室/frames/pizza，经文件实测证伪，未写入 md；教训：Read 输出须以 grep 为准，凡写必验）
-4. ch33 Read 输出混入 ch31 pitch 段（franchise/Nashville/Riza 在 ch33 查无，4 词条已删；ch31 本体实测有据，无碍）
-5. 总览行内改写式短引 6 处（kissing isn't dating 等，全部改逐字原文或去引号）
-
-**提交**：
-- commit 链：6bf3f06（试产+批1）→ ceb8cf0 → ff8fd2a → c4f4bb3 → cb21256 → 575b5fe → 3a482bb → 5b89cb6 → 3f26ced → 244f711 → 4fc61dc（批11）→ 690f223（总览）→ c5f9f34 + cc140ba（审查修复），全部未 push
-- 文件结构：34 ch*.md + 3 00*.md + 34 text/*.txt + epub
-
-**状态**：✅ 完成，待用户指令 push
-
-**Falling into Place — 独立审查（第二轮，审查方视角重验 2026-09-07）**
-
-**a. 三件套本机重跑**：verify 258/258 ✅ / overview 21/21 ✅ / vocab 732词条0/0 / entities 0——与执行方报告一致。另独立全验 38 短引语（逐条 grep，含弯撇号变体），全命中。途中自摆乌龙一次：epub 路径拼错导致 0/X，纠正后全绿（工具 fail-closed，符合预期）。
-
-**b. 对齐与污染**：文件名-H1 34/34 零偏移；西里尔污染 1 处（ch02 проекта，已删）；占位行 0；gag 计数链批量清理（ch30/31/32/33 共 ~40 处"见下/适可而止/over/哈哈"链，保留单次 conversational 哈哈）；跨书污染 0（常见名碰撞为正常噪声；并行书特有名零检出）。
-
-**c. 结构**：34 文件编号连续、四子项齐全、零重复引语、六节齐全、词汇表行完好。
-
-**d. 语义二审**：修复块 7 全验通过；分层抽样 21 块。发现真缺陷：jeans 卷宗链三处虚构环节（ch13 追问/ch16 默认/ch19 charity，原文均无 jeans），已按实测六章（04/05/08/22/33/34）重写；ch05 分析误植 ch06 的 nine-inch inseam（已删，差点又引入 button-fly，悬崖勒马）；ch23 十七年/三个月无据数字（已 soften）；ch17 Asi/ch24 拼写/ch27 英文片段（已修）。
-
-**e. 总览核对**：概述数字断言逐条验真——删"九个月"（原文无时长）、"三十三岁"×4（原文无年龄）、"十九章调情"→十几章、"九章"→六章（jeans）、"转头卖情报"→中性表述；说话人窗口抽检（Kendall/Mai/Brooks）全对；其余（Monday/64岁油商/四个月/十四根/37/4x/十天/两半月/六个月/三天/下周/loans/组队/lock门）全有据。
-
-**遗留说明**：关键词 261 处为本章有据场景延伸词（分析中文讨论本块场景），未逐条加英文回声；章缺词 17 已全修。门禁终态：verify 258/258，vocab 0/0，entities 0，overview 21/21。
-
-**提交**：f8085a47（16 文件），未 push。整书 37 文件共 16 commits，全未 push，待用户指令。
