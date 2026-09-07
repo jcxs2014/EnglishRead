@@ -22,6 +22,14 @@ metadata:
 
 ### 2026-09-06 新增
 
+- **⚠️ 工具口径盲区速查（2026-09-05/06 十余本书交叉固化，详见 docs/新书启动模板.md 坑表新增节）**：
+  1. verify_quotes/check_chapter_quotes 对无编号言情格式（`> "..."`）抽到 0/0——言情书须自备 flat 分段脚本
+  2. <20 flat 字符短引语被工具静默跳过（Perfection/Forest of Scars/Rookie Season 三书互证）——grep 行数 vs 提取数不一致即信号
+  3. check_vocab 撇号缩写词条（I've/he'd）误报 A类虚构；例句起点避开页码污染点；词条头必须本章原词形（torn≠tore）
+  4. 跨标签拼接是 7 本书互证的最高频引语缺陷——多段台词严禁 `...` 连接
+  5. verify_overview_quotes 只认行首圈数字且 CIRCLED 止于㉕——金句 ≤25 条/文件，其余人工脚本兜底
+  6. 分析层 cross-ref 章号/数字断言/说话人是三道门禁的共同盲区——写前当场 grep 所指章
+- **Up in Molten Lights（E.B. Golden）奇幻言情双 POV**：79 章 + 总览三篇（2026-09-06，ZCode-Mac）。流程=质量评估→修复不重做（尾部 ch49-54 词汇崩坏重写+引语 3 处）→续写 25 章 8 批→五步审查 12 处整改→词汇表全库清理（跨篇 59 处+移档+去重 68 行，FAIL=0 WARN=0）。终态引语 1006/1006（引号分段口径）。新工具盲区：check_vocab 撇号词条误报 A类、verify_quotes 对无编号言情格式抽不到、verify_overview 只认行首圈数字。约 35 commits 未 push。
 - **The Last Thing（Bethany Monaco Smith）言情长篇 contemporary romance**：32 章（Chapter 1-31 + Epilogue），双 POV（Hallie/Deck 交替），逐章精读格式 + 3 篇总览。核心主题：命运 vs 选择、爱的勇气、家庭的多样性。Hallie 从"反爱情"到"说出我爱你"，Deck 从"控制狂"到"fun partner"。独立五步审查零缺陷。verify 355/355 ✅ / vocab FAIL=0 / entities 0。
 - **No Take Backs（Taylor Wilson-West）逆后宫超自然言情**：29 章 + Epilogue，4 POV（Moraine/Soren/Rhea/Benny），逐章精读精简格式 + 3 篇总览。独立五步审查零缺陷。verify 219/219 ✅ / vocab FAIL=0 / entities 0。
 - **Taken by Sinistre Ange（Sinistre Ange）言情长篇 erotic romance**：14 章 + 3 篇总览，含绑架/性支配/斯德哥尔摩综合征题材。独立五步审查修复 7 处缺陷。verify 133/133 ✅ / vocab FAIL=0 / entities 0。
