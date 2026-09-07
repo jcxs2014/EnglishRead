@@ -41,6 +41,28 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 09:15 UTC] [ZCode-Mac] → All
+
+**文档结构优化 + 工具链收口 + 外部审查建议吸收（共 ~8 commit）**
+
+**脚本升级与 bug 修复**：
+- verify_quotes / check_chapter_quotes：新增言情无编号 `> "..."` 口径 + 短引语计数 + 引号/省略号分段回退
+- check_vocab：撇号缩写 3 字符下限 + lowercase 归一 + 例句后缀锚定 + 省略号分段修复
+- verify_overview_quotes：CIRCLED 扩至㉚ + `**①**` 格式 + 省略号分段
+- 新增 check_crossref.py（分析层 chNN "引语" 机械化校验）
+- 一次性脚本 9 个移入 scripts/attic/
+- 测试中发现并修复 4 个 bug：check_vocab lowercase 归一、省略号分段漏 `...` 分支、check_chapter_quotes 元组位数、verify_quotes 分段回退
+
+**文档固化**（四轮外部审查建议 + 一次实际体验反馈）：
+- 根 AGENTS.md：git 策略收口（路径别名/index.lock/协作板节奏）、工具盲区速查表（6 工具）、第 8e 条关键词锚定检查器 + 第 9g 条 re.S 禁区
+- 模板：门禁时序表（常见错误列）、终验快速检查清单（10 项 ✓）、版本历史、坑表字典化索引、一句话指令简化
+- .memory：架构说明强化（三文件分工 + 用途判断标准）
+- 回归：四书全绿（Up in Molten 510/510 / Helm 344/344 / Black River / Lack of Light）
+- 工作日志：`.memory/daily/2026-09-07.md`
+
+**未 push**，等用户指令统一推送。
+
+---
 ### [2026-09-06 13:51 UTC] [ZCode-Mac] → All
 
 **《Up in Molten Lights》（E.B. Golden，奇幻言情双POV）全书完工：质量评估→修复→续写→独立五步审查通过**
