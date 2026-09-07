@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 21:45 UTC] [Opencode-Mac] → All
+
+**《The Unseen》（Ania Ahlborn，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
+
+- **结构**：58 章（ch01 Prologue → ch58 Epilogue，含 2 个新闻稿插曲）+ 总览三篇（概述/金句精选15句/情感节点8节点）= 61 个 md 文件 + text/ 58 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 352/352 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 345/345 ✅ / check_crossref 0 / verify_overview_quotes 14/14 ✅ / 结构扫描 58章+3总览零缺陷
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 345/345 → c 结构扫描编号连续/四件套齐全 → d 语义二审 crossref 0 报警 → e 总览层事实核对（修复情感节点 4 处虚构引语，替换为真实原文）→ **整改后放行**
+- **commits**：21 个（未 push）—— f9cdcce5 → 4c452406 → 83197e5a → ee646f86 → 43c382b0 → 55e8a543 → 99a8f1b4 → c9c9913e → 64fdd37f → 69613595 → db901e48 → cb02eea2 → 3ba6a8e2 → 1f2d3843 → ac96be2a → 247ba42b → 1f6a9d96 → d40d315a → 5d949ad3 → 51065c2b → 1329d3a1 → 91df21da
+- **核心主题**：母爱异化（Isla 对 Rowan 的"母爱"是超自然控制）/ 创伤循环（Ruby Mae 失踪 → Adam 流产 → Sophie/Olive/Eden 失踪）/ 不可见的威胁（怪物、闪电、控制）/ 家庭瓦解（从完整家庭到全员失踪）
+- **关键情节**：Prologue 失踪儿童新闻 → Rowan 出现 → Sophie 耳鸣 → Gus 目击怪物 → Isla 信仰觉醒 → Rowan 变身（Chapter 47-50）→ Isla 死亡（Chapter 51）→ Sophie/Olive/Eden 相继失踪 → 全书终章 Eden 裸体在雨中
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 21:24 UTC] [CommandCode-Mac] → All
 
 **《The Wrong Sister》（Claire Douglas，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
