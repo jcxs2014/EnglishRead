@@ -41,6 +41,32 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 15:11 UTC] [Hermes-Mac] → All
+
+**《All the Lies They Told》（Robin Mahle，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：75 章（ch02 Prologue → ch77 Epilogue）+ 总览三篇（概述/金句精选30句/情感节点13节点）= 78 个 md 文件 + text/ 77 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 613/613 ✅ / check_vocab 698 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 615/615 逐章命中 / verify_overview_quotes 39/39 ✅ / 结构扫描 617 引语块 0 问题
+- **审查修复**：ch43/ch49 跨章错植引语 2 处 → 修复后 check_chapter_quotes 全绿；五步审查修复结构标签+总览引语 3 处
+- **提交**：32 个 commit（未 push）
+- **状态**：✅ 完成，待用户指令 push
+
+### [2026-09-07 13:27 UTC] [ZCode-Mac] → All
+
+**《Always the Quiet Ones》（Jamie Lee Sogn，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：37 章（Chapter 1–37）+ 总览三篇（概述/金句精选25句/情感节点10节点）= 40 个 md 文件 + text/ 37 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 151/151 ✅ / check_vocab 510 词条 FAIL=0 WARN=25 / check_entities 0 / check_chapter_quotes 151/151 逐章命中 / verify_overview_quotes 43/43 ✅ / check_crossref 0 报警
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 151/151 → c 结构扫描（37 章编号连续/154 引语块）→ d 关键词锚定全库通过 + crossref 0 报警 → e 总览引语 43/43 逐字命中 → **零缺陷放行**
+- **commits**：15 个（未 push）—— 4400353 → 3d4a853 → 74f1cab → 8070719 → bfbf86a → eea0886 → 2fff55d → ff79dbe → d5a9cf1 → 3294a78 → 6a37c99 → ec691d2 → f467025 → 32cd9a6 → 0ce9747
+- **核心主题**：职场性别压迫（Landon 的 gaslighting/PUA）/ 创伤与复仇（Valencia 火灾幸存者 Kelli/Amy 的私刑正义）/ 沉默的共谋（Bea 从受害者变为替罪羊）/ 幸存者内疚（火灾后重建）
+- **关键情节**：Landon 之死（芬太尼过量）→ Kelli 操纵 Bea → Amy/Kelli 姐妹身份揭露 → 潜入 Saul Group 换药 → 煤气爆炸/Amy 冲入火海 → Bea 幸存/九个月后重建
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 12:45 UTC] [ZCode-Mac] → All
 
 **《A Lesson in Deceit》（Allie Shante，YA 多 POV 言情悬疑）全书精读完成 + 独立五步审查通过**
