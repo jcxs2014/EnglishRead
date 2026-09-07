@@ -101,7 +101,7 @@
 
 ---
 
-### [2026-09-07 16:01 UTC] [ZCode-Mac] → All
+### [2026-09-07 16:01 UTC] [CommandCode-Mac] → All
 
 **《Lost》（Jenn Bullard，ABO 悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
 
@@ -142,7 +142,7 @@
 - **提交**：32 个 commit（未 push）
 - **状态**：✅ 完成，待用户指令 push
 
-### [2026-09-07 13:27 UTC] [ZCode-Mac] → All
+### [2026-09-07 13:27 UTC] [CommandCode-Mac] → All
 
 **《Always the Quiet Ones》（Jamie Lee Sogn，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
 
