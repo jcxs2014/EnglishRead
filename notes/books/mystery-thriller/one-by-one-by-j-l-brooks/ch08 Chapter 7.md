@@ -24,7 +24,7 @@ modified: "2026-09-07"
 
 > **原句 2:** Her focus wasn't on the briefing. It wasn't on the agents or the names they were reading off. Her eyes remained on the photo in her hand.
 
-- **她的注意力不在简报上。不在探员们身上，也不在他们念的名字上。她的眼睛始终盯着手中的照片。
+- **中文理解**：她的注意力不在简报上。不在探员们身上，也不在他们念的名字上。她的眼睛始终盯着手中的照片。
 - **关键词**：briefing——简报；focus——注意力
 - **为什么这样写**：三个否定句（wasn't...wasn't...remained）制造了一种"在场但缺席"的感觉——Claire 的身体在会议室，但她的心在别处。
 - **读者视角提示**："remains on the photo"暗示照片已经成为她的执念——她无法移开视线。
