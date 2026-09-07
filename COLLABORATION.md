@@ -86,7 +86,7 @@
 - **未 push**，等用户指令统一推送
 
 
-### [2026-09-07 17:02 UTC] [ZCode-Mac] → All
+### [2026-09-07 17:02 UTC] [CommandCode-Mac] → All
 
 **《One by One》（J.L. Brooks，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
 
