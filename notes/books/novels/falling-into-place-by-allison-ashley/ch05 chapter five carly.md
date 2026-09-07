@@ -89,7 +89,7 @@ modified: "2026-09-07"
 
 **关键词**：cargo shorts, die, already
 
-**为什么这样写**：括号吐槽是 Carly 叙述声音的保留节目，专业审判配市井语气，反差萌拉满；具体到单品（cargo shorts、nine-inch inseam）的细节让 shopping 戏有真实质感，不是"买买买"一笔带过。
+**为什么这样写**：括号吐槽是 Carly 叙述声音的保留节目，专业审判配市井语气，反差萌拉满；具体到单品（cargo shorts）的点名让 shopping 戏有真实质感，不是"买买买"一笔带过。
 
 **读者视角提示**：留意 Carly 购物的预算观（Nordstrom Rack 起手、旧衣改造出身、赌场发薪日 Goodwill 战绩）——她的"会过日子"和 Brooks 的"不讲究"迟早要碰撞。
 

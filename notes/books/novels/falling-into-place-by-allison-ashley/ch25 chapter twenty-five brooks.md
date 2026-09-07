@@ -18,7 +18,7 @@ modified: "2026-09-07"
 - **人物弧线**：
   - Coach：从"chest pain 小题大做"的犟老头，到 flatline 的逝者——最后一面是 cards 和 Friends，平常，但够了
   - 十八岁 Brooks：从"It doesn't matter"的混蛋，到"I hate this"的崩溃，再到"You will"的新生——DUI 夜是他人生的分水岭，Coach 是分水岭上的人
-  - 三十三岁 Brooks：从数数的医生，到喊停的 senior——"Stop"和"time of death"是他最难的两个词，说了，出来了，没哭（憋着）
+  - Brooks：从数数的医生，到喊停的 senior——"Stop"和"time of death"是他最难的两个词，说了，出来了，没哭（憋着）
 
 - **叙事手法**：Brooks 单视角；抢救实时 + DUI 回忆双线交织；CPR 数数是节拍器，回忆是和声，thirty-seven 分钟一到，全静， Time of death 落锤，疼得安静。
 

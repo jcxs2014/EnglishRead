@@ -74,7 +74,7 @@ modified: "2026-09-07"
 
 > **原句 5:** "I'm in love with her."
 
-**中文理解**：elbows 膝盖，头手里。"I'm in love with her." Sasha：gas。Macy：why bad？Brooks：不会谈，怕，dad 式怕，躲了半辈子，栽了，栽了不想放，两个我打架，optimistic 的想学，knows-better 的说不配，昨天来的是后者，拉着 self-destruction 回潮。
+**中文理解**：elbows 膝盖，头手里。"I'm in love with her." Sasha 倒吸一口气。Macy 问这有什么不好。Brooks：不会谈，怕，dad 式怕，躲了半辈子，栽了，栽了不想放，两个我打架，optimistic 的想学，knows-better 的说不配，昨天来的是后者，拉着 self-destruction 回潮。
 
 **关键词**：elbows, terrified, halves
 

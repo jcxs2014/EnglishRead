@@ -73,7 +73,7 @@ modified: "2026-09-07"
 
 > **原句 5:** "When he started crying, I left. I fucking left, Carly."
 
-**中文理解**：少年哭了，我走了。操，我走了，Carly。pastoral care 去的，我没去。What'wrong with me？（Carly：Nothing。你是人，难事，超纲了。）
+**中文理解**：少年哭了，我走了。操，我走了，Carly。pastoral care 去的，我没去。What's wrong with me？（Carly：Nothing。你是人，难事，超纲了。）
 
 **关键词**：left, pastoral, wrong
 

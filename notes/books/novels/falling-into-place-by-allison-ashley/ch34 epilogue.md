@@ -116,7 +116,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："get the jeans"的判语：jeans 开局（ch04 处刑版），jeans 收官（bedroom 版），开幕闭幕都是 jeans，jeans 是全书真正的男主（不是，是信物，信物是 jeans，jeans 是 love token，token 在 bedroom，bedroom 关门，关门 HEA）；"locking the door"的判语：Sasha 教的（lock 版 ch31：won't make mistake 版），学以致用，用完 bedroom，bedroom 完 HEA，HEA 完本书完，本书完总览见。
 
-**读者视角提示**：jeans 九章史终审（04 处刑、05 失踪、08 审问、13 追问、16 默认、19 charity、22 结案、33 豁免、34 bedroom）：crime 到 token 到 pass，pass 进 bedroom，bedroom 关门，关门 HEA，HEA 全书完，完结撒花。
+**读者视角提示**：jeans 六章史终审（04 处刑、05 起意、08 审问、22 结案、33 豁免、34 bedroom）：crime 到 token 到 pass，pass 进 bedroom，bedroom 关门，关门 HEA，HEA 全书完，完结撒花。
 
 ## 本章词汇
 

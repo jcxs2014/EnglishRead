@@ -38,7 +38,7 @@ modified: "2026-09-07"
 
 > **原句 2:** "the idea of Carly being jealous over him was strangely satisfying."
 
-**中文理解**：听说 Carly 可能为他吃醋，Brooks：有点爽。Pathetic 是 pathetic，但爽是真爽。三十三岁老男人，为这点醋暗爽，可爱。
+**中文理解**：听说 Carly 可能为他吃醋，Brooks：有点爽。Pathetic 是 pathetic，但爽是真爽。老男人为这点醋暗爽，可爱。
 
 **关键词**：jealous, satisfying, pathetic
 

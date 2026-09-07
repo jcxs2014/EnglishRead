@@ -74,7 +74,7 @@ modified: "2026-09-07"
 
 > **原句 5:** "Yes, but not through the app. And he liked her more than he'd ever liked anyone else, like ever, which was a little unnerving."
 
-**中文理解**：Macy：遇到喜欢的了？Brooks 内心：有，但不是 app 上认识的。喜欢得超过以往任何人，有史以来。Asi 有点吓人。
+**中文理解**：Macy：遇到喜欢的了？Brooks 内心：有，但不是 app 上认识的。喜欢得超过以往任何人，有史以来。还是有点吓人。
 
 **关键词**：not through app, ever, unnerving
 
@@ -102,7 +102,7 @@ modified: "2026-09-07"
 
 **关键词**：cease, matter, needed
 
-**为什么这样写**：问句比陈述疼——"Had Mom really been the only thing"的连珠炮是十六年前的孩子在说话，不是三十三岁的医生；"visceral loss of not only mom but basically dad"的双重丧失是全书心理地基：他怕的不是恋爱，是恋爱成功后再失去，双倍。
+**为什么这样写**：问句比陈述疼——"Had Mom really been the only thing"的连珠炮是十几年前的孩子在说话，不是现在的医生；"visceral loss of not only mom but basically dad"的双重丧失是全书心理地基：他怕的不是恋爱，是恋爱成功后再失去，双倍。
 
 **读者视角提示**：Macy 的"我搬出去了所以不一样"是诚实的局限——她没经历最坏的，所以她能结婚；Brooks 经历了，所以他不敢；两姐弟的差就是"在场证明"的差，创伤是位置决定的，这句很值得品。
 

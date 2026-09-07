@@ -20,7 +20,7 @@ modified: "2026-09-07"
   - Linda：从嚎叫（电话版），到 eulogy（单口版）——wit、kindness、wisdom，遗孀的体面，体面是最好的悼念
   - Sasha：从檄文姐，到短信兵——"after your girl"报警，"never forgive"威胁，刀子嘴，豆腐心，豆腐心还操心（弟弟的幸福，姐姐的 KPI）
 
-- **叙事手法**：Brooks 单视角；葬礼长戏 + 门口长戏两段式；葬礼是悟（hopeful），门口是行（grovel），悟行合一，行在 ch31（她点头，Sasha 破门，Backstitch 开张，三喜临门，门都没锁，哈哈）。
+- **叙事手法**：Brooks 单视角；葬礼长戏 + 门口长戏两段式；葬礼是悟（hopeful），门口是行（grovel），悟行合一，行在 ch31。
 
 ## 精读
 
@@ -56,7 +56,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："after your girl"的判语：your girl（Sasha 认证：Carly 是你的妞了，分手了也是，盖章），after（Benjamin 追，追的是你的，急不急？急，急就对了，急了才动，动了才 grovel）；"pull head out of ass"的 Sasha 式威胁（never forgive 版）：ass 里的是头（dumb 版），pull 出来的是 grovel（smart 版），pull 的动力是 Benjamin（情敌版），情敌是最好的 catalyst，catalyst 下章（ch31）见效，见效就是点头（剧透，删不掉了，认了）；"Tell me everything"的 Brooks 式应战：三分钟（门口版）之后，全都要回来了（love、worthy、Carly，全要，见原句 8）。
 
-**读者视角提示**：短信兵 Sasha 和檄文 Sasha 同源：骂完（ch27）还操心（ch30），操心还递刀（Benjamin 情报），递刀还威胁（never forgive），威胁还管用（Brooks 动了），动了就去（门口三分钟），去了就说（I love you），说了就……ch31 见。
+**读者视角提示**：短信兵 Sasha 和檄文 Sasha 同源：骂完（ch27）还操心（ch30），操心还递刀（Benjamin 情报），递刀还威胁（never forgive），威胁还管用（Brooks 动了），动了就去（门口三分钟），去了就说（I love you），说了就行动。
 
 ---
 
@@ -66,7 +66,7 @@ modified: "2026-09-07"
 
 **关键词**：agony, long-ass, tl;dr
 
-**为什么这样写**："Tl;dr"的 Brooks 式总结：十天，一句，agony，fucking 修饰，修饰得好，疼得对；"three minutes staring at wood"的判语：wood 三分钟，long-ass 三分钟，盯的是门，想的是人（hair、skin、voice，全想要），要的是 forgive（原句 8），forgive 要的是 worthy（原句 8），worthy 要的是 not alone（原句 8），not alone 要的是她点头（ch31），点头要的是……打住，ch31 见；"car alarm"的神助攻：jolt，action，knock，knock 完 Pepper 瞪（dickhead 版），瞪得好，瞪完 grovel，grovel 见下。
+**为什么这样写**："Tl;dr"的 Brooks 式总结：十天，一句，agony，fucking 修饰，修饰得好，疼得对；"three minutes staring at wood"的判语：wood 三分钟，long-ass 三分钟，盯的是门，想的是人（hair、skin、voice，全想要），要的是 forgive（原句 8），forgive 要的是 worthy（原句 8），worthy 要的是 not alone（原句 8），not alone 要的是她点头（ch31），点头要的是行动；"car alarm"的神助攻：jolt，action，knock，knock 完 Pepper 瞪（dickhead 版），瞪得好，瞪完 grovel，grovel 见下。
 
 **读者视角提示**：十天和 ch28 三天（binge 版）对照：她 binge 三天（妈收尸 Benjamin 破门），他 agony 十天（movie 哭 funeral 悟短信急），各疼各的，疼完会师（门口），会师 grovel，grovel 成功（ch31 点头），成功开香槟。
 
@@ -92,7 +92,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："arm's length"的判语：推人是他的病（ch17 detachment、ch23 bubble、ch28 alone），病在葬礼上确诊：推了，葬礼没人，葬礼是人生的 KPI，KPI 挂了，人生白活（夸张了，但那天的 Brooks 就是这么觉得，觉得就改，改就是 grovel）；"be the judge"的判语：值不值，让人判，别自己判（"not sure there's anything worth" 是自判，自判不准，准的是 Carly（gift 版）、Sasha（rusty 版）、Coach（proud 版），三判一致：值，值就 grovel）；"standing in the way"的自省：挡路的是自己，让开，让 Carly 进来，进来就是 ch31。
 
-**读者视角提示**：葬礼 KPI 论和 Macy"交给你办"对照：她的葬礼交给他（信任），他的葬礼没人（不信），不信改信，信从 grovel 开始，grovel 在原句 8，8 见下，下见 ch31（十四遍，够了，真的够了，over over，再说请我喝咖啡，哈哈）。
+**读者视角提示**：葬礼 KPI 论和 Macy"交给你办"对照：她的葬礼交给他（信任），他的葬礼没人（不信），不信改信，信从 grovel 开始，grovel 在原句 8。
 
 ---
 
@@ -104,7 +104,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："sabotage"的判语：自杀式单身，杀的是 chance（love and be loved 的 chance），chance 是 Linda 版（smile 版）教的：memories 要造，造了才有，造了才不亏；"sit all the way down"的 Carly 式认证（Yeah 版）：坐下，听完，笑了（hesitant 版），笑了就是 gate 开了，gate 开了 grovel 进，grovel 进 ch31 出。
 
-**读者视角提示**：love and be loved 和 ch23 "function"怕对照：怕（dependent）→ 问（ready？）→ 悟（funeral）→ 行（grovel），四步，步步是坎，坎坎过，过到 ch31，哈哈）。
+**读者视角提示**：love and be loved 和 ch23 "function"怕对照：怕（dependent）→ 问（ready？）→ 悟（funeral）→ 行（grovel），四步，步步是坎，坎坎过，过到 ch31）。
 
 ---
 
@@ -116,7 +116,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："forgive + worthy + chance"三连是 grovel 的标准件：forgive（过去的错：alone、ghost、worthy 缺考），worthy（现在的分：small steps、stone 碎了、funeral 悟了），chance（未来的约：Coffee Slingers 句句、garden 骄傲、jeans 调戏，全都要，再来一遍，这次不跑）；"voice cracking"的手抖：声裂了，手伸了（prepared for pull），没 pull（thread 了），thread 了就是 gate 全开，全开就是 ch31；"selfish bastard"的自认：自私（chance 也要），bastard（认了），认了还要， eis 要脸（ grovel 版），要脸干嘛，要 Carly，Carly 在 ch31。
 
-**读者视角提示**：grovel 全文背诵版（默写用）：love（cracking）→ alone 错（stupid）→ Slingers 句句（date、garden、jeans、手）→ dad dark（fucked）→ Linda 反面（memories）→ ex（随他）→ forgive worthy chance——背下来，ch31 考（考官 Carly，考生 Brooks，监考 Sasha（破门版），成绩：过，过了开 Backstitch，Backstitch 见 ch31，哈哈哈哈哈）。
+**读者视角提示**：grovel 全文背诵版（默写用）：love（cracking）→ alone 错（stupid）→ Slingers 句句（date、garden、jeans、手）→ dad dark（fucked）→ Linda 反面（memories）→ ex（随他）→ forgive worthy chance——背下来，ch31 考（考官 Carly，考生 Brooks，监考 Sasha（破门版），成绩：过，过了开 Backstitch）。
 
 ## 本章词汇
 

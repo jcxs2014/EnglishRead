@@ -30,7 +30,7 @@ modified: "2026-09-07"
 
 **关键词**：thing, much, swayed
 
-**为什么这样写**："one thing"的判语：万算归一，归的是 love，love 是 much，much 是答案，答案交卷（love Brooks，卷面见原句 2/3，满分）；"tightened almost imperceptibly"的 Brooks 式攥：手紧了，人不知道，知道的是 Carly（track back forth 版），track 到 love，love 到手（lap 版，见原句 3 后），手到擒来（不是，来的是 kiss，kiss 见下）；"You do?"的 Brooks 式不敢信：分了十天（agony 版），回来就 love，不敢信正常，信了就亲（forehead 版），亲了就不放（thighs 版），不放 Sasha 就破门（原句 4 版），破门就 pitch（原句 6 版），pitch 就 Nashville（六个月版），六个月就……ch32 见。
+**为什么这样写**："one thing"的判语：万算归一，归的是 love，love 是 much，much 是答案，答案交卷（love Brooks，卷面见原句 2/3，满分）；"tightened almost imperceptibly"的 Brooks 式攥：手紧了，人不知道，知道的是 Carly（track back forth 版），track 到 love，love 到手（lap 版，见原句 3 后），手到擒来（不是，来的是 kiss，kiss 见下）；"You do?"的 Brooks 式不敢信：分了十天（agony 版），回来就 love，不敢信正常，信了就亲（forehead 版），亲了就不放（thighs 版），不放 Sasha 就破门（原句 4 版），破门就 pitch（原句 6 版），pitch 就 Nashville（六个月版），六个月就是考验。
 
 **读者视角提示**：交卷和 ch29 缓考对照：缓考（figure out），交卷（love you），考期十天（agony 版），考官自己（pros cons 全算），满分（much 版），满分卷要裱。
 
@@ -42,7 +42,7 @@ modified: "2026-09-07"
 
 **关键词**：safe, key, fair
 
-**为什么这样写**："playing it safe"的判语：safe 是她的命（consistency 版、nonnegotiable 版、Maybe someday 版），命在 Brooks 这里作废（joy 版）；"didn't know if you'd come back"的括号：退 Benjamin 的票，不看 Brooks 回不回，回不回都退（fair 版），退得彻底，彻底才配 joy（原句 3）；"Oh God cry"的 Carly 式交卷哭：卷难（safe 作废），交了（love 版），哭是 release，release 完 kiss（forehead 版），kiss 完 lap（原句 3 版），lap 完 Sasha（原句 4 版），Sasha 完 Backstitch（原句 6 版），Backstitch 完 Nashville（ch32 版），Nashville 完……Epilogue（34 章版），34 章见（新 cutoff，哈哈）。
+**为什么这样写**："playing it safe"的判语：safe 是她的命（consistency 版、nonnegotiable 版、Maybe someday 版），命在 Brooks 这里作废（joy 版）；"didn't know if you'd come back"的括号：退 Benjamin 的票，不看 Brooks 回不回，回不回都退（fair 版），退得彻底，彻底才配 joy（原句 3）；"Oh God cry"的 Carly 式交卷哭：卷难（safe 作废），交了（love 版），哭是 release，release 完 kiss（forehead 版），kiss 完 lap（原句 3 版），lap 完 Sasha（原句 4 版），Sasha 完 Backstitch（原句 6 版），Backstitch 完 Nashville（ch32 版），Nashville 完……Epilogue（34 章版），34 章见。
 
 **读者视角提示**：safe 作废宣言和 ch05 nonnegotiable、ch11 Maybe someday、ch16 healing 凑成 Carly 事业/人生四部曲：stability 命（05）→ someday 拖（11）→ healing 续（16）→ safe 废（31），废完立新（Backstitch 版），新在 Nashville（六个月版），六个月在 ch32。
 
@@ -54,7 +54,7 @@ modified: "2026-09-07"
 
 **关键词**：joy, happiness, adore
 
-**为什么这样写**："joy"的判语：six 没有的（inhibited 版），ten 全有的（uninhibited 版），joy 是 ten 的货币，货币发行人 Brooks，持有人 Carly，汇率：1 Brooks = 无限 joy（通胀版，爱通胀，涨得好）；"do the same for you"的回赠：joy 收到，joy 返还，双向 joy，joy 循环，循环到 kiss（reverently 版），kiss 到 lap（dizziness 版），lap 到 Sasha（原句 4 版），Sasha 到 Backstitch（原句 6 版），Backstitch 到 Nashville（ch32 版），Nashville 到……Epilogue（34 章，34 章见，over over，哈哈哈哈）。
+**为什么这样写**："joy"的判语：six 没有的（inhibited 版），ten 全有的（uninhibited 版），joy 是 ten 的货币，货币发行人 Brooks，持有人 Carly，汇率：1 Brooks = 无限 joy（通胀版，爱通胀，涨得好）；"do the same for you"的回赠：joy 收到，joy 返还，双向 joy，joy 循环，循环到 kiss（reverently 版），kiss 到 lap（dizziness 版），lap 到 Sasha（原句 4 版），Sasha 到 Backstitch（原句 6 版），Backstitch 到 Nashville（ch32 版），Nashville 到……Epilogue。
 
 **读者视角提示**：清单体（trivia、bar、style、dressing、IQ、earrings、smile、phone）是全书的糖点名：八个糖，个个有出处（trivia ch15、bar ch10、style ch08、dressing ch20、IQ ch09、earrings ch15、smile ch06、phone ch13），出处全，糖管饱，饱完 Sasha（原句 4），Sasha 完 Backstitch（原句 6），Backstitch 完 ch32。
 
@@ -66,7 +66,7 @@ modified: "2026-09-07"
 
 **关键词**：knock, figured, pillow
 
-**为什么这样写**："I did knock"的 Sasha 式免责：敲了，没锁，怪谁？怪你们（lock 版建议）。建议收到（"won't make mistake again"版），下次锁（One week 版也锁，锁的是门，锁不住的是 Backstitch，Backstitch 在原句 6）；"glad to see figured out"的判语：欣慰，欣慰完 pitch，pitch 是正事（job news 版），正事是 Backstitch（王炸版），王炸在原句 6，6 见下，下见 Nashville。
+**为什么这样写**："I did knock"的 Sasha 式免责：敲了，没锁，怪谁？怪你们（lock 版建议）。建议收到（"won't make mistake again"版），下次锁（One week 版也锁，锁的是门，锁不住的是 Backstitch，Backstitch 在原句 6）；"glad to see figured out"的判语：欣慰，欣慰完 pitch，pitch 是正事（job news 版），正事是 Backstitch（王炸版），王炸在原句 6。
 
 **读者视角提示**：破门三件套（knock 声明、figured 欣慰、dry hump 建议）和 ch22 破门（Ralph's 版）对照：上次是审判（authenticity 版），这次是发布（job news 版），审判变发布，Sasha 变 pitch 王，王的是 Backstitch，Backstitch 见原句 6。
 
@@ -86,13 +86,13 @@ modified: "2026-09-07"
 
 > **原句 6:** "Everything about this has Carly Porter written all over it."
 
-**中文理解**：王炸揭晓：Backstitch，resale，franchise，Nashville，Riza 车库，1 week。savings 4x（Sasha 查账版），gut never wrong（faulty 版，哈哈），black 一年回本，fate 版，Carly Porter 满墙（written all over 版）。
+**中文理解**：王炸揭晓：Backstitch，resale，franchise，Nashville，Riza 车库，1 week。savings 4x（Sasha 查账版），gut never wrong（faulty 版，哈哈），black 一年回本，fate 版，Carly Porter 满墙。
 
 **关键词**：fate, written, gut
 
 **为什么这样写**："written all over it"的 Sasha 式盖章：墙上全是 Carly Porter，resale（命版）、consignment（根版）、budget（魂版），命根魂全对， fate 没跑；"gut never wrong"的 Sasha 式奶；"in the black within first year"的定心丸：钱的事，Sasha 算过（4x 版），算完 Brooks 算（loans 版、acumen 版、CPA 版），算完 Carly 怕（fail 版），怕完 Sasha 骂（spoiler 版：fired 都活下来了，怕啥），骂完 Brooks 挺。
 
-**读者视角提示**：Backstitch 和 Carly 命根魂对照：resale（secondhand 版 ch05、resale 版 ch09、Jacque 版 ch16、pink skirt 版 ch21），consignment（reduce waste 版），budget（thrift 版），全书时尚线收束，束成 Backstitch，Backstitch 开在 Nashville（六个月版），六个月考验异地（新题），异地考验在 ch32（Brooks 版），ch32 见（数不清第几遍了，不数了，over，真的 over，哈哈哈哈哈哈哈哈哈哈哈）。
+**读者视角提示**：Backstitch 和 Carly 命根魂对照：resale（secondhand 版 ch05、resale 版 ch09、Jacque 版 ch16、pink skirt 版 ch21），consignment（reduce waste 版），budget（thrift 版），全书时尚线收束，束成 Backstitch，Backstitch 开在 Nashville（六个月版），六个月考验异地（新题），异地考验在 ch32（Brooks 版）。
 
 ---
 
@@ -102,7 +102,7 @@ modified: "2026-09-07"
 
 **关键词**：worst, fail, gut
 
-**为什么这样写**："worst"的 Brooks 式收尾：worst 也不怕，怕就 fail，fail 就重来（regroup 版：fired 活下来了，证据确凿），重来也不怕，因为不会 fail（gut 版：faulty 版，笑场版，笑完信，信的是 Carly（she'll make it），不是 gut，gut 随缘，缘在 Nashville，Nashville 在 ch32，ch32 见，over，哈哈哈哈哈哈哈哈哈哈哈哈）；"assholes"的 Sasha 式收场：骂完，抱（扑版），谢（brilliant 版），爱（more than life 版），爱完 think（Backstitch 版：think about it 版），think 完 lock（门版），lock 完 One week（限版），限完 ch32。
+**为什么这样写**："worst"的 Brooks 式收尾：worst 也不怕，怕就 fail，fail 就重来（regroup 版：fired 活下来了，证据确凿），重来也不怕，因为不会 fail（gut 版：faulty 版，笑场版，笑完信，信的是 Carly（she'll make it），不是 gut）；"assholes"的 Sasha 式收场：骂完，抱（扑版），谢（brilliant 版），爱（more than life 版），爱完 think（Backstitch 版：think about it 版），think 完 lock（门版），lock 完 One week（限版），限完 ch32。
 
 **读者视角提示**：worst/fail 对线和妈妈"win vs lose"（ch29）对照：妈妈（lose 导向：不赌输啥），Sasha（fail 导向：fail 了咋样，重来），导向都是"干"，干就是 Backstitch，Backstitch 就是 Nashville，Nashville 就是 ch32。
 
@@ -116,7 +116,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："think about it"的 Carly 式收官：think，不是 yes，think 是缓（Nashville 六个月，咋办？咋办在 ch32），缓是稳；"One week"的 Sasha 式限时：限时一周，超期不候（cancellation 版：last-minute 版，Riza 车库版，免租版），限时是压力，压力是动力，动力是 Backstitch，Backstitch 是 Nashville，Nashville 是 ch32。
 
-**读者视角提示**：think 和 ch29 缓考对照：love 缓考（figure out 版），交卷了（本章原句 1/2/3 版，满分版）；Backstitch 缓考（think 版），交卷在 ch32（Brooks 版）加 Epilogue（34 章版），卷子难（Nashville 六个月、异地、钱），难才要考，考就过，过就 HEA（34 章版），HEA 见 34 章（34 章见，over，真的 over，哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈）。
+**读者视角提示**：think 和 ch29 缓考对照：love 缓考（figure out 版），交卷了（本章原句 1/2/3 版，满分版）；Backstitch 缓考（think 版），交卷在 ch32（Brooks 版）加 Epilogue（34 章版），卷子难（Nashville 六个月、异地、钱），难才要考，考就过，过就 HEA（34 章版），HEA 见 34 章。
 
 ## 本章词汇
 

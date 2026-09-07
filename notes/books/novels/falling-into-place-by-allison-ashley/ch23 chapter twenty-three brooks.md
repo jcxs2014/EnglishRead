@@ -92,7 +92,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："just know"的玄学和 Macy "how would I know if ready"的 quiz 凑成双考题：姐姐问准备好没，兄弟说对了就行，两个都没答案， Brooks 卡中间；"opened mouth to admit"的刹车（pager 响）是作者的恶意：表白（对兄弟承认喜欢 Carly）被工作掐断，掐得正是时候——承认了，后面还怎么虐。
 
-**读者视角提示**：James 线和 Brooks 线的对照：James（barista→girlfriend→定终身，三个月）vs Brooks（ Carly 识于微时，十七年认识，两个月重逢，不敢认）——快和慢的两种爱情，慢的那个更疼，因为欠账多。
+**读者视角提示**：James 线和 Brooks 线的对照：James（barista 博弈几个月定终身）vs Brooks（高中旧识，两个月重逢，不敢认）——快和慢的两种爱情，慢的那个更疼，因为欠账多。
 
 ---
 

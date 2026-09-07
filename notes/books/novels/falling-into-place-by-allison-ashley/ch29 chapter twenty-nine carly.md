@@ -92,7 +92,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："what the fuck"的 Sasha 式开场：骂 Princeton，就是站 Carly，站队比道歉快，骂完再道歉（"might have overreacted"），顺序对了，姐妹情，骂 Princeton 保鲜；"Mai called me"的垫场：blacklist？no。appropriate action？yes。additional publicity？no。公事公办，私事私办，办的是 check（"came to check on you"），check 的是 Carly，不是 magazine，姐妹大于生意，大于天（Mom's vision 也大于不了这个，大于了也得让路，让的就是 ch22 的 authenticity，authenticity 先放放，人先保住）。
 
-**读者视角提示**：破冰三件套（croissant、Princeton 骂、overreacted 认）缺一不可：croissant 是礼（Sasha's favorite，Carly 记得，记得就是爱），骂是队（站 Carly，骂 Princeton），认是账（overreacted、careless 误判、traction 怕丢），账认了，队站了，礼收了，冰化了，化了谈正事（he loves you、Benjamin、career），正事一件比一件大，大到 ch31（Backstitch），Backstitch 见后章（Sasha 的 magic，magic 在 ch31 原句 8 前，全是伏笔）。
+**读者视角提示**：破冰三件套（croissant、Princeton 骂、overreacted 认）缺一不可：croissant 是礼（Sasha's favorite，Carly 记得，记得就是爱），骂是队（站 Carly，骂 Princeton），认是账（overreacted、careless 误判、traction 怕丢），账认了，队站了，礼收了，冰化了，化了谈正事（he loves you、Benjamin、career），正事一件比一件大，大到 ch31（Backstitch）。
 
 ---
 
@@ -116,7 +116,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："quit whining"的 Sasha 式收尾：嚎没用，干有用，干从 Google 开始，开始就是 ch31（Backstitch 全套）；"most connected woman"的判语：city 人脉王，时尚圈也有人（Riza 姐姐 Nashville 店），人脉就是 magic，magic 就是 Backstitch，Backstitch 就是 ch31 的全部，伏笔埋到这份上，Sasha 是亲妈（作者是亲妈，Sasha 是亲闺蜜，闺蜜给亲事业，事业给亲结局，结局在 34 章，34 章见）；"plucked brow + cracked knuckles"的 Sasha 式开工：眉挑了，指响了，事成了（还没成，但气势成了，气势也是 magic 的一部分）。
 
-**读者视角提示**：magic 和妈妈"marinate"对照：妈妈腌（words marinate），Sasha 炒（Google 开机），一腌一炒，Carly 这盘菜，熟了（figure out 一半，Google 一半，love 一半，fashion 一半，一半一半，加起来整个，整个在 ch31，ch31 见）。
+**读者视角提示**：magic 和妈妈"marinate"对照：妈妈腌（words marinate），Sasha 炒（Google 开机），一腌一炒，Carly 这盘菜，熟了（figure out 一半，Google 一半，love 一半，fashion 一半，一半一半，加起来整个，整个在 ch31）。
 
 ## 本章词汇
 

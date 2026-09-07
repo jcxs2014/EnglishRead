@@ -41,7 +41,7 @@ modified: "2026-09-07"
 
 **关键词**：panel, discharged, proud
 
-**为什么这样写**："signed up"的判语：删邮件版（ch17）→留座版（ch32）→panel 版，三级跳，跳跳是成长；"walked out on his own"的 Connor 版喜讯：爹走出来了，Brooks 的 hug 没白抱，MVA 的跪没白跪，跪完 panel，panel 完 proud，proud 完 naked plans（"mostly involve naked"版），naked 完"I'm in"（Carly 版），in 完……适可而止。
+**为什么这样写**："signed up"的判语：删邮件版（ch17）→留座版（ch32）→panel 版，三级跳，跳跳是成长；"walked out on his own"的 Connor 版喜讯：爹走出来了，Brooks 的 hug 没白抱，MVA 的跪没白跪，跪完 panel，panel 完 proud，proud 完 naked plans（"mostly involve naked"版），naked 完"I'm in"（Carly 版），in 完收尾。
 
 **读者视角提示**：panel 和 ch32 seat 对照：seat（预定版）→panel（执行版），执行了，执行完 proud，proud 完 visit（next weekend 版），visit 完 naked（plans 版），naked 完 Thanksgiving（thankful 版），thankful 完 trivia（Jeff 版），trivia 完 Christmas（let me up 版），版版是糖，糖到 Valentine（yelling 版），yelling 完 FaceTime（Boy Toy 版），Boy Toy 完 April（move in 版），move in 见原句 5。
 
@@ -67,7 +67,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："follow anywhere"的判语：ch32 承诺（follow 版）→ch33 执行（move in 版），说到做到，做到还加码（for good 版：全搬，不留后路）；"nervous"的 Brooks 式紧张：sweet 版紧张，紧张为 move in（问版），问完 lurched（heart 版），lurched 完 sure（never been so sure 版），sure 完 rules；"Pepper Oreo"的 Carly 式打岔（dying to see 版）：打岔是害羞，害羞完 move in（答版），答完 rules。
 
-**读者视角提示**：follow 和 ch32 heartbeat 对照：heartbeat（说版）→anywhere（行版）→move in（证版），说行证三连，证完 rules（四条版），rules 见下，下见家规，家规是婚约（ QE 版，不是，是 Carly 版，Carly 说了算，算完 Backstitch，Backstitch 在 Epilogue（开张版），开张见 ch34，ch34 见下章，下章见，哈哈，适可而止版）。
+**读者视角提示**：follow 和 ch32 heartbeat 对照：heartbeat（说版）→anywhere（行版）→move in（证版），说行证三连，证完 rules（四条版）。
 
 ---
 
@@ -89,9 +89,9 @@ modified: "2026-09-07"
 
 **关键词**：sentimental, token, stomach
 
-**为什么这样写**："sentimental value"的判语：牛仔裤从 fashion crime（ch04 版）到 love token（本章版），七章修成正果（04 处刑、05 失踪、08 审问、13 追问、16 默认、19 charity、22 结案、33 豁免，八章，八八六十四，功德圆满）；"can't stomach giving away"的 Brooks 式深情：stomach 给黄瓜（吃版）、给吵架（疼版），不给捐裤子（love 版），love 的都留，留的都是你（met、stole、hot 版），版版是糖，糖到 cry（"trying to make me cry"版），cry 完 softy（"big softy"版），softy 完 exception。
+**为什么这样写**："sentimental value"的判语：牛仔裤从 fashion crime（ch04 版）到 love token（本章版），六站修成正果（04 处刑、05 起意、08 审问、22 结案、33 豁免），功德圆满）；"can't stomach giving away"的 Brooks 式深情：stomach 给黄瓜（吃版）、给吵架（疼版），不给捐裤子（love 版），love 的都留，留的都是你（met、stole、hot 版），版版是糖，糖到 cry（"trying to make me cry"版），cry 完 softy（"big softy"版），softy 完 exception。
 
-**读者视角提示**：jeans 全卷宗终审：偷（22 版）→穿（22 版）→hot（22 版）→Neither（22 版）→charity（19 版）→sentimental（本章版）→keep（softy 版）——keep 了，keep 完 promise（原句 8 版：love forever 版），promise 完 exception（原句 8 版），8 见下，下见收官，收官见 Epilogue（ch34 版），ch34 见下章，下章见，哈哈，适可而止版）。
+**读者视角提示**：jeans 全卷宗终审：偷（22 版）→穿（22 版）→hot（22 版）→Neither（22 版）→charity（19 版）→sentimental（本章版）→keep（softy 版）——keep 了，keep 完 promise（原句 8 版），promise 完 exception。
 
 ---
 
@@ -113,7 +113,7 @@ modified: "2026-09-07"
 
 **关键词**：usual, exception, fierce
 
-**为什么这样写**："exception"的判语：usual（不 promise 版）破，破为 that（forever 版），破例的含金量：usual 版守了三十三年，破了，就一次，一次给 Carly，Carly 版 forever，forever 版 Epilogue（marry 版），marry 见 ch34；"fierce"的 serious 版：smile 收了，fierce 上了，fierce 是认真，认真是 forever，forever 是 promise，promise 是 exception，exception 是 love，love 是 Carly，Carly 是 Backstitch（开张版 ch34），Backstitch 见 ch34。
+**为什么这样写**："exception"的判语：usual（不 promise 版）破，破为 that（forever 版），破例的含金量：usual 版守了十几年，破了，就一次，一次给 Carly，Carly 版 forever，forever 版 Epilogue（marry 版），marry 见 ch34；"fierce"的 serious 版：smile 收了，fierce 上了，fierce 是认真，认真是 forever，forever 是 promise，promise 是 exception，exception 是 love，love 是 Carly，Carly 是 Backstitch（开张版 ch34），Backstitch 见 ch34。
 
 **读者视角提示**：exception 和全书"usual"对照：usual 版（no dating 版 ch18、no promise 版 ch33、alone 版 ch28、detached 版 ch17），版版破，破版人 Carly，Carly 版 love，love 版 forever，forever 版 Epilogue（marry 版 ch34），marry 见 ch34。
 

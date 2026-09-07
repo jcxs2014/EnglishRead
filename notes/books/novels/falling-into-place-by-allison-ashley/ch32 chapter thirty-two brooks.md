@@ -54,9 +54,9 @@ modified: "2026-09-07"
 
 **关键词**：heartbeat, pause, remember
 
-**为什么这样写**："heartbeat"的判语：心跳一次的时间，答应跟 Nashville（paused？不存在的），比心跳还快，快的是嘴，慢的是心（心早就跟了，ch18 就跟了，跟的是 kiss，kiss 的是 loophole，loophole 的是 no dating，dating 的是 client，client 的是 Carly，Carly 的是 heartbeat，闭环）；"If you'd want me"的括号：跟要批准，批准秒下（Of course 版），秒下还 love（remember 版），love 还 more（原句 4 版），more 还 kiss（mouth 版），kiss 还 night（most of night 版），night 还……打住，适可而止版。
+**为什么这样写**："heartbeat"的判语：心跳一次的时间，答应跟 Nashville（paused？不存在的），比心跳还快，快的是嘴，慢的是心（心早就跟了，ch18 就跟了，跟的是 kiss，kiss 的是 loophole，loophole 的是 no dating，dating 的是 client，client 的是 Carly，Carly 的是 heartbeat，闭环）；"If you'd want me"的括号：跟要批准，批准秒下（Of course 版），秒下还 love（remember 版），love 还 more（原句 4 版），more 还 kiss（mouth 版），kiss 还 night（most of night 版）。
 
-**读者视角提示**：heartbeat 和 ch06 "beneath rib cage"对照：rib 版（hot 评语）→ heartbeat 版（follow 承诺），rib 到 heart，一字之差（rib 是骨，heart 是心），差的是 ch06 到 ch32 的距离，距离是 26 章，章章是糖，糖里有刀（MVA 版、DUI 版、Coach 版），刀完了，heartbeat 了，beat 了，over。
+**读者视角提示**：heartbeat 和 ch06 "beneath rib cage"对照：rib 版（hot 评语）→ heartbeat 版（follow 承诺），rib 到 heart，一字之差（rib 是骨，heart 是心），差的是 ch06 到 ch32 的距离，距离是 26 章，章章是糖，糖里有刀（MVA 版、DUI 版、Coach 版），刀完了，heartbeat 了。
 
 ---
 
@@ -66,9 +66,9 @@ modified: "2026-09-07"
 
 **关键词**：more, lap, whisper
 
-**为什么这样写**："more"的判语：love 比大小，more 赢，赢了 kiss（mouth 版），kiss 赢 night（most 版），night 赢……适可而止。
+**为什么这样写**："more"的判语：love 比大小，more 赢，赢了 kiss（mouth 版），kiss 赢 night（most 版）。
 
-**读者视角提示**：more 和 ch26 "Please love stop"对照：那次是失控版（far gone 版），这次是清醒版（whisper 版），失控到清醒，26 章到 32 章，6 章的距离，距离是 therapy（未写版）、grovel（电话版）、funeral（悟版）、Backstitch（王炸版），版版是药，药到 more 除（不是，病除，病除 love 存，存的是 more，more 存 ch33（texts 版），texts 见 ch33，ch33 见下批。
+**读者视角提示**：more 和 ch26 "Please love stop"对照：那次是失控版（far gone 版），这次是清醒版（whisper 版），失控到清醒，26 章到 32 章，6 章的距离，距离是 therapy（未写版）、grovel（电话版）、funeral（悟版）、Backstitch（王炸版），版版是药，药到 more 除（不是，病除，病除 love 存，存的是 more，more 存 ch33（texts 版）。
 
 ---
 
@@ -80,7 +80,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："hope"的判语：ribs 下 stirring，stirring 是 hope，hope 是三天养出来的（三天前 ghost 醉版，三天后 hope 版，版版是药，药是 Carly（沙发版）、Connor（待办版）、Nikki（待见版））；"want to be the one"的括号：报喜要亲自报（dad 好转版），亲自报是负责（MVA 跪版的反面：跪是躲，报是迎），迎难而上，上的是 cafeteria（vending 机版），机旁是 Connor（hunched 版），hunched 的是当年的他（DUI 版），他来了（报喜版），喜大了（extubate 版），版版见原句 6。
 
-**读者视角提示**：hope 和 ch23 跪对照：跪（bathroom 版）→ hope（cafeteria 版），bathroom 到 cafeteria，一墙之隔（医院版），隔的是三天，三天是 Carly（沙发版）加 Connor（待办版）加 Nikki（待见版），版版是药，药到 hope 生（不是，病除，病除 hope 存，存到 Schwartz（seat 版），seat 见原句 8，8 见下）。
+**读者视角提示**：hope 和 ch23 跪对照：跪（bathroom 版）→ hope（cafeteria 版），bathroom 到 cafeteria，一墙之隔（医院版），隔的是三天，三天是 Carly（沙发版）加 Connor（待办版）加 Nikki（待见版），版版是药，药到 hope 生（不是，病除，病除 hope 存，存到 Schwartz（seat 版）。
 
 ---
 
@@ -104,7 +104,7 @@ modified: "2026-09-07"
 
 **为什么这样写**："asked wrong person"的更正：dirt（unemotional 版）作废，证词（invested 版）生效，生效人 Nikki（观察一月版），观察结论：care an awful lot（版）；"doesn't matter what I think"的括号（fellows 版）：想不重要，看见重要，看见的是 check（不值班版）、sleep（on-call 版）、 gases（四查版），版版是爱，爱是 invested，invested 是洗白（detached 版作废），作废了去 Schwartz。
 
-**读者视角提示**：Nikki 线三级跳：dirt（ch17 版）→ 证词（本章版）→ Schwartz（seat 版）——问错人，答对人，对的是 invested 版，版版见原句 8（seat 版），seat 见下，下见 Schwartz，Schwartz 见 ch33（panel 版），panel 见 ch33（texts 版），texts 见下章。
+**读者视角提示**：Nikki 线三级跳：dirt（ch17 版）→ 证词（本章版）→ Schwartz（seat 版）——问错人，答对人，对的是 invested 版，版版见原句 8（seat 版）。
 
 ---
 
@@ -114,9 +114,9 @@ modified: "2026-09-07"
 
 **关键词**：head way, seat, jolt
 
-**为什么这样写**："head that way too"的判语：删邮件版（ch17 版）到留座版，删到留，两章的距离（17→32），距离是 Carly、Connor、Nikki 三味药，药到 seat 留，存到 panel（ch33 版）。；"jolt into action"的 Brooks 式惊醒：差点错过（almost out of sight 版），喊住（Hey Nikki 版），喊的是 seat，留的是成长，成长在 Schwartz，Schwartz 在 ch33（panel 版），panel 版见下章。
+**为什么这样写**："head that way too"的判语：删邮件版（ch17 版）到留座版，删到留，两章的距离（17→32），距离是 Carly、Connor、Nikki 三味药，药到 seat 留，存到 panel（ch33 版）。；"jolt into action"的 Brooks 式惊醒：差点错过（almost out of sight 版），喊住（Hey Nikki 版），喊的是 seat，留的是成长，成长在 Schwartz，Schwartz 在 ch33（panel 版）。
 
-**读者视角提示**：seat 和 ch23 "Would he though"对照：时间治得好吗（Macy 问版）→ seat 留好了（行动版），治不好也留座，留座就是治，治在 Schwartz，Schwartz 在 ch33（panel 版），panel 版见下章。
+**读者视角提示**：seat 和 ch23 "Would he though"对照：时间治得好吗（Macy 问版）→ seat 留好了（行动版），治不好也留座，留座就是治，治在 Schwartz，Schwartz 在 ch33（panel 版）。
 
 ## 本章词汇
 
