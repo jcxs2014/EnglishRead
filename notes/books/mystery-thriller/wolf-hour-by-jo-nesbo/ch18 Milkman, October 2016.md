@@ -96,6 +96,7 @@ modified: "2026-09-07"
 读者视角提示：Hanson 的"spat"是愤怒——他对自己感到愤怒。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -103,18 +104,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | fishing rod | 钓鱼竿 | Olav Hanson pulled his fishing rod sideways... |
 | against the current | 逆流 | ...against the current. |
 | night-time darkness | 夜色 | ...the night-time darkness that descended over the Mississippi... |
 | Mississippi | 密西西比河 | ...descended over the Mississippi... |
 | darkness rose up | 黑暗升起 | ...the darkness rose up from the Mississippi... |
 | dirt and devilment | 污垢和邪恶 | A lot of dirt and devilment people dumped there... |
-| dumped | 倾倒 | ...people dumped there in hopes the river would take it all away... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | pulled | 拉 | Olav Hanson pulled his fishing rod sideways... |
 | sideways | 向一侧 | ...pulled his fishing rod sideways, against the current. |
@@ -124,19 +126,18 @@ modified: "2026-09-07"
 | city | 城市 | ...before it took the rest of the city. |
 | river | 河流 | ...it was a river with a lot of darkness in it. |
 | hopes | 希望 | ...in hopes the river would take it all away... |
-| far from | 远离 | ...far from where they were. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | rod | 竿 | Olav Hanson pulled his fishing rod sideways... |
 | darkness | 黑暗 | ...the night-time darkness... |
 | city | 城市 | ...the rest of the city. |
 | river | 河流 | ...a river with a lot of darkness in it. |
 | people | 人 | ...people dumped there... |
-| wife | 妻子 | He'd told Violet not to call him... |
 
 ## 一句话总结
 Hanson 在密西西比河边钓鱼时接到神秘电话——"Die Man"威胁他杀死 Lobo（Gomez），否则揭露他 30 年前的罪行：他曾经为黑帮工作，谋杀了 Gomez 的妻儿。

@@ -73,6 +73,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -81,17 +82,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | oath of confidentiality | 保密誓言 | ...consider your oath of confidentiality, Dr Egeland... |
 | Mafia bosses | 黑手党头目 | ...associated with Mafia bosses and pimps rather than police... |
 | pimps | 皮条客 | ...associated with Mafia bosses and pimps rather than police... |
 | diabetes | 糖尿病 | ...information out of him about a diabetes diagnosis. |
 | injector pen | 注射笔 | ...one used injector pen left in the box. |
-| prescription | 处方 | ...when will he need to renew his prescription? |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | oath | 誓言 | ...consider your oath of confidentiality... |
@@ -101,7 +103,6 @@ modified: "2026-09-07"
 | cut | 剪裁，款式 | ...a cut and colour that Egeland was inclined to associate with... |
 | elegant | 优雅的 | ...a touch too elegant and delicate for a Minneapolis autumn. |
 | delicate | 精致的，脆弱的 | ...too elegant and delicate for a Minneapolis autumn. |
-| suspicious | 可疑的 | ...nothing suspicious about the credentials... |
 
 ### ⭐ 基础
 
@@ -109,11 +110,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | doctor | 医生 | ...consider your oath of confidentiality, Dr Egeland... |
 | policeman | 警察 | The policeman sitting on the chair... |
 | chair | 椅子 | The policeman sitting on the chair... |
 | clothes | 衣服 | ...wearing clothes of a cut and colour... |
-| colour | 颜色 | ...of a cut and colour... |
 
 ## 一句话总结
 

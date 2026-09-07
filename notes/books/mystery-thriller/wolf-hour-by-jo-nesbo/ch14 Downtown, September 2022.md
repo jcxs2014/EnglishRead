@@ -49,6 +49,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -57,17 +58,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | pressed against | 紧贴在 | I Stand WITH MY FACE pressed against the display window... |
 | display window | 展示窗 | ...pressed against the display window... |
 | peer into | 向里看，凝视 | ...and peer into Town Taxidermy. |
 | Town Taxidermy | 市政厅标本店 | ...peer into Town Taxidermy. |
 | darkened interior | 黑暗的室内 | In the darkened interior of the store... |
-| make out | 辨认出 | ...I can just make out a bear standing up on two legs... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | face | 脸 | I Stand WITH MY FACE pressed against... |
@@ -77,7 +79,6 @@ modified: "2026-09-07"
 | two legs | 两条腿 | ...a bear standing up on two legs... |
 | deer | 鹿 | ...and a deer with a massive set of antlers. |
 | antlers | 鹿角 | ...a massive set of antlers. |
-| hour | 小时 | ...doesn't open for another hour... |
 
 ### ⭐ 基础
 
@@ -85,11 +86,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | face | 脸 | I Stand WITH MY FACE pressed against... |
 | window | 窗 | ...pressed against the display window... |
 | store | 商店 | In the darkened interior of the store... |
 | bear | 熊 | ...a bear standing up on two legs... |
-| deer | 鹿 | ...and a deer with a massive set of antlers. |
 
 ## 一句话总结
 

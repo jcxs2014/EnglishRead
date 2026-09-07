@@ -96,6 +96,7 @@ modified: "2026-09-07"
 读者视角提示：Oz 的"Know why?"是挑衅——他在教毒贩"道理"。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -103,18 +104,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | running the operation | 经营业务 | The Latino in the porkpie hat was clearly running the operation. |
 | elastic band | 橡皮筋 | ...a bundle of something with an elastic band around it... |
 | portrait adorned | 装饰着肖像 | ...the long-dead general and president whose portrait adorned the fifty-dollar banknote. |
 | threatening | 威胁 | I'm not threatening you with prison... |
 | kid brother | 弟弟 | ...your kid brother who's doing time in MCF. |
 | doing time | 服刑 | ...doing time in MCF. |
-| Lobo | 狼（西班牙语） | Called himself Lobo. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | parked | 停车 | Bob had parked by the playground... |
 | playground | 游乐场 | Bob had parked by the playground... |
@@ -124,19 +126,18 @@ modified: "2026-09-07"
 | porkpie hat | 猪肉派帽子 | The Latino in the porkpie hat... |
 | Latino | 拉丁美洲人 | The Latino in the porkpie hat... |
 | dashboard | 仪表盘 | Bob tossed a bundle... onto the dashboard. |
-| fifty-dollar banknote | 五十美元钞票 | ...whose portrait adorned the fifty-dollar banknote. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | car | 汽车 | Bob had parked by the playground... |
 | burger | 汉堡 | He sat eating a hamburger... |
 | deal | 交易 | ...watched the deal going down... |
 | house | 房子 | ...outside a nearby house. |
 | man | 男人 | The Latino in the porkpie hat... |
-| money | 钱 | ...two thousand dollars... |
 
 ## 一句话总结
 

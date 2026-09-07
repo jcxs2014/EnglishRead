@@ -161,6 +161,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -169,17 +170,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | crossed the parking lot | 穿过停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
 | present from a time long gone | 来自久远过去的礼物 | Looked at his watch, a present from a time long gone. |
 | regretted | 后悔 | Already he regretted drinking those three beers. |
 | three beers | 三杯啤酒 | ...those three beers. Or had it been four? |
 | risk of being stopped | 被拦下的风险 | In the first place there was the risk of being stopped... |
-| keen young policeman | 热心的年轻警察 | ...some keen young policeman who would not be influenced... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | parking lot | 停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
@@ -189,7 +191,6 @@ modified: "2026-09-07"
 | regretted | 后悔 | Already he regretted drinking those three beers. |
 | beers | 啤酒 | ...those three beers. Or had it been four? |
 | risk | 风险 | In the first place there was the risk of being stopped... |
-| stopped | 被拦下 | ...the risk of being stopped... |
 
 ### ⭐ 基础
 
@@ -197,11 +198,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | parking lot | 停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
 | watch | 手表 | Looked at his watch... |
 | present | 礼物 | ...a present from a time long gone. |
 | time long gone | 久远的过去 | ...a present from a time long gone. |
-| regretted | 后悔 | Already he regretted drinking those three beers. |
 
 ## 一句话总结
 

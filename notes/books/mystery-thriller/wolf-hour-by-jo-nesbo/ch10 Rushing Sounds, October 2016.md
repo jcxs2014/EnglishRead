@@ -81,6 +81,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -89,17 +90,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | wizard | 巫师，奇才（反讽） | ‘Here’s the wizard,’ said Olav Hanson. |
 | transport | 运输，运送 | ...transport yourself here in twenty minutes... |
 | anticipation | 预期，期待 | There was an anticipation in their sniggers... |
 | sniggers | 窃笑，暗笑 | There was an anticipation in their sniggers... |
 | personal matter | 私事 | It’s a personal matter so I thought it was best... |
-| unbuttoned | 解开纽扣 | Bob unbuttoned his coat as he headed into... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | elevator | 电梯 | WHEN BOB EMERGED FROM THE elevator... |
@@ -109,7 +111,6 @@ modified: "2026-09-07"
 | traffic | 交通 | ‘Traffic,’ said Bob over Joe Kjos’s laughter. |
 | waiting | 等待 | ‘He’s waiting by your desk.’ |
 | let him in | 让他进来 | ‘Oh yeah? Who let him in?’ |
-| personal matter | 私事 | It’s a personal matter... |
 
 ### ⭐ 基础
 
@@ -117,11 +118,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | office | 办公室 | ...headed into the empty office landscape. |
 | desk | 书桌 | ‘He’s waiting by your desk.’ |
 | man | 男人 | The man in the chair got up. |
 | name | 名字 | My name is Tony Stärk. |
-| wife | 妻子 | ‘You raped my wife.’ |
 
 ## 一句话总结
 
