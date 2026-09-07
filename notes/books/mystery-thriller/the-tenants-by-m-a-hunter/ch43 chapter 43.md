@@ -15,27 +15,99 @@ modified: "2026-09-07"
 
 ## 精读
 
-> **原句 1:** "'The majority of your tenants will tell the police how paranoid you've become. Your brother and psychiatrist will corroborate. Hell, even the woman who delivers your groceries will testify you weren't of sound mind. Nobody will be surprised to learn you were so disturbed that you took the only way out you thought was left.'"
+> **原句 1:** 'I can see Ethan is also watching her go, and instinct finally kicks in, and I leap out of the chair, ducking as he swings his arm around to stop me getting away.'
 
-**中文理解**："你的大多数租客都会告诉警方你变得多么偏执。你的哥哥和精神病医生会证实。甚至送杂货的女人都会证明你精神不稳定。没有人会惊讶地知道你如此不安，以至于你认为这是唯一的选择。"
+**中文理解：** 我看见 Ethan 也在看她离开，本能终于占了上风，我从椅子上弹起，他挥臂拦我的时候我侧身躲避。
 
-**关键词**：tenants will tell / paranoid / psychiatrist will corroborate / nobody will be surprised / suicide
+**关键词：** instinct kicks in（本能爆发）、ducking（闪避）
 
-**为什么这样写**：这是 Ethan 解释他计划的时刻——他想让 Eve 死于"自杀"，这样每个人都会认为她精神不稳定。这个引用在悬疑中非常重要：Ethan 的计划是让 Eve 的死看起来像自杀，而不是谋杀。他已经安排好了所有证据——租客们的证词、精神病医生的记录、甚至杂货配送员的观察。"the only way out you thought was left"——Ethan 想要 Eve 自己结束生命，就像 Simone 一样。
+**为什么这样写：** Fi 从 hatch 消失后，Eve 的本能终于突破恐惧的封锁——这是她五年来第一次真正尝试反抗。"本能"这个词很重要：她不是一个天生的战士，而是被逼到绝境后的动物性反应。
 
-**读者视角提示**：Ethan 的计划是让 Eve 的死亡看起来像自杀——这是一个完美的复仇。
+**读者视角提示：** Ethan 放走 Fi 是故意为之——他不需要帮手，猎杀即将收尾。
 
 ---
 
-> **原句 2:** "'I stumble forwards, trying to get to the front door before he realises. My hope rises as I make it to the door and hear him tripping over behind me. But no sooner is the door open than I see his gloved hand slamming it shut, and then he grabs my hair and drags me backwards into the living room.'"
+> **原句 2:** 'Y-you said you wouldn't kill me if I told you about Simone.'
 
-**中文理解**："我踉跄地向前，试图在他反应过来之前到达门口。当我到达门口听到他在身后绊倒的声音时，我的希望上升了。但门刚打开，我就看到他的手套手把它砰地关上，然后他抓住我的头发把我拖回客厅。"
+**中文理解：** 你——你说过我告诉你 Simone 的事你就不杀我。
 
-**关键词**：stumble forwards / hope rises / gloved hand slamming it shut / drags me backwards / trapped again
+**关键词：** Simone（一切的起源）
 
-**为什么这样写**：这是 Eve 试图逃跑但再次被抓住的时刻——她的希望升起但立刻破灭。这个引用在上下文中很重要：Eve 几乎就要逃出去了，但 Ethan 再次抓住了她。"gloved hand slamming it shut"这个形象展示了 Ethan 的残忍——他甚至不让她有逃跑的机会。"drags me backwards into the living room"暗示 Eve 再次成为受害者，但这一次她不再只是害怕——她开始策划反击。
+**为什么这样写：** Eve 此刻仍寄希望于"信息换命"的交易逻辑，但 Ethan 的回应彻底击碎了这个幻想——她所剩无几的谈判筹码已失效。
 
-**读者视角提示**：Eve 的逃脱尝试失败了——但她的反击即将到来。
+**读者视角提示：** 她还在重复同一个求饶句式，但猎手已不再需要猎物的合作。
+
+---
+
+> **原句 3:** 'What makes it sadder is the fact that you seem to think the people who live here are actually grateful for your efforts to improve their lives.'
+
+**中文理解：** 更可悲的是，你似乎真的以为这里的住户会感激你改善他们生活的努力。
+
+**关键词：** grateful（感激）、improve their lives（改善生活）
+
+**为什么这样写：** Ethan 撕开 Eve 五年自我欺骗的面纱——她的"保护者"身份认知完全是她自己的投射，住户们从未邀请过这种 surveillance。
+
+**读者视角提示：** 这番话与 Bill、India、Jenny 的真实态度形成对照，Eve 的悲剧在于她活在自建的楚门世界里。
+
+---
+
+> **原句 4:** 'Fi would deliberately say things to the walls, just to observe how you would react.'
+
+**中文理解：** Fi 会故意对着墙壁说话，只是为了观察你会有什么反应。
+
+**关键词：** deliberately（故意地）、observe（观察）
+
+**为什么这样写：** 揭示 Fi 这几个月对 Eve 的"友谊"全是表演——wine + ice cream 的安慰戏码是精心设计的陷阱。
+
+**读者视角提示：** 回顾 Fi 那些"恰到好处的关心"——都是戏。
+
+---
+
+> **原句 5:** 'Have you figured it out yet?'
+
+**中文理解：** 你想明白了吗？
+
+**关键词：** figured it out（想明白）
+
+**为什么这样写：** Ethan 把杀人的计划包装成"文学创作"——这句话的语调如同老师在提问学生，反映他享受掌控 Eve 精神状态的过程。
+
+**读者视角提示：** 他在引导她走向"理解自己如何死"——心理凌迟。
+
+---
+
+> **原句 6:** 'How your story is going to end.'
+
+**中文理解：** 你的故事会如何收尾。
+
+**关键词：** story（故事）、end（结局）
+
+**为什么这样写：** Ethan 把真实谋杀比作叙事——他不仅在杀 Eve，还在编排她的死亡剧本，使其符合他关于"正义"的叙事逻辑。
+
+**读者视角提示：** 这句话呼应了整部小说"谁是 writer"的隐题。
+
+---
+
+> **原句 7:** 'He crosses to the curtains, and uses a cigarette lighter to set them on fire.'
+
+**中文理解：** 他走向窗帘，用打火机点燃了它。
+
+**关键词：** cigarette lighter（打火机）、set them on fire（纵火）
+
+**为什么这样写：** 简短干脆的动作描写——Ethan 的谋杀方式（让火代替他动手）正是他懦夫本色的体现。
+
+**读者视角提示：** 火成为这一章的绝对主角。
+
+---
+
+> **原句 8:** 'The flames are licking the carpet, and I can't quite reach it, but as I hear Ethan stomping away I shove my hand into the flame and pull out the taser.'
+
+**中文理解：** 火焰正在舔舐地毯，我够不到它，但听到 Ethan 跺着脚走开，我把我的手塞进火焰里拉出了电击枪。
+
+**关键词：** flames licking（火焰舔舐）、shove my hand into the flame（把手塞进火焰）
+
+**为什么这样写：** 自我牺牲式的求生——Eve 宁可直接烫伤自己也不愿继续被 Ethan 控制。这个选择展现了她从被动到主动的转折。
+
+**读者视角提示：** 手被烫伤这个细节为后文留下伏笔。
 
 ## 本章词汇
 
@@ -43,15 +115,15 @@ modified: "2026-09-07"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ablaze | 燃烧的 | The fire has already spread to the sofa, and it won't be long until the whole place is ablaze. |
-| pummel | 连续猛击 | I use both elbows to alternatively pummel his sides. |
+| deliberately | 故意地 | Fi would deliberately say things to the walls, just to observe how you would react. |
+| figure out | 想明白 | Have you figured it out yet? |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| smoke | 烟 | How do you like that?' he calls out as smoke hovers above our heads. |
-| stumble | 跌跌撞撞 | I stumble forwards, trying to get to the front door. |
+| instinct | 本能 | instinct finally kicks in, and I leap out of the chair. |
+| grateful | 感激 | What makes it sadder is the fact that you seem to think the people who live here are actually grateful for your efforts. |
 
 ### ⭐ 基础
 
