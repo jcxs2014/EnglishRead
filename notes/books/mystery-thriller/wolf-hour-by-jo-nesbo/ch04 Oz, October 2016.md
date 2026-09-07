@@ -90,6 +90,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -103,7 +104,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| hiss | 嘶嘶地喝 | Bob Oz Hissed THROUGH HIS teeth... |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -116,9 +117,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | shot glass | 小酒杯 | ...put the empty shot glass back down on the bar. |
 | reflection | 倒影 | ...saw his own reflection in the mirror... |
-| sink its teeth into | 啃噬，侵蚀 | ...the kind of face time didn’t seem to sink its teeth into. |
 
 ### ⭐ 基础
 

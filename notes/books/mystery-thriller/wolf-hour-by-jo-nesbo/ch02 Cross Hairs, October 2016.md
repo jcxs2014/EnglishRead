@@ -83,12 +83,14 @@ modified: "2026-09-07"
 
 读者视角提示：White 太太叫他"Tomás"——这不是他的真名，但他允许老太太这样叫。这个名字可能暗示他的拉丁裔身份。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | dispassionate | 冷静的，不带感情的 | ...I could be a dispassionate observer, or at least pretend I was. |
 | cross hairs | 瞄准十字线 | I put my eye to the gunsight and adjusted the cross hairs... |
 | telescopic sights | 望远瞄准镜 | ...beside the telescopic sights and the two hand grenades. |
@@ -96,13 +98,12 @@ modified: "2026-09-07"
 | reeked | 散发臭气；充斥 | ...even though the whole business reeked of a front man... |
 | junkie | 瘾君子 | ...mostly junkies with no criminal record who needed money quick. |
 | gangland | 黑帮的 | ...the car was protected by his gangland customers... |
-| front | 拉皮条式代买 | ...he hadn’t used a front for it. |
-| holster | 枪套 | ...when he dug out the holster that came with the gun... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | haze | 薄雾 | ...struggled to penetrate the morning haze. |
 | kerb | 路缘 | ...pulled away from the kerbside... |
 | drape | 窗帘 | ...a cold wind blew in between the drapes. |
@@ -112,22 +113,18 @@ modified: "2026-09-07"
 | rucksack | 背包 | Shrugged on the rucksack with all my stuff inside... |
 | gear | 装备 | Then I went into the bathroom and I put on my gear. |
 | stink | 臭味 | ...but the stink from that old wallpaper was still there. |
-| scrubbed | 擦洗，彻底清洁 | I’d scrubbed this one-room apartment for the last time... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | aim | 瞄准 | ...wouldn’t blow about and disturb my aim. |
 | trigger | 扳机 | ...exert an even pressure on the trigger... |
 | shell | 子弹，弹壳 | ...as I loaded another shell. |
 | tremble | 发抖 | I felt myself start to tremble... |
 | hallway | 走廊 | He lay there in the darkness of the hallway... |
 | slippers | 拖鞋 | Heard the shuffling of slippers inside. |
-| yucca | 龙血树 | ...grabbed the flowerpot with the yucca plant... |
-| hoodie | 连帽衫 | I put on my sunglasses and zipped up the hoodie. |
-| pentagram | 五芒星 | ...noting the pentagram on my wrist. |
-| unruly | 散乱的，难驾驭的 | ...Plucked an unruly strand of hair from one eyebrow... |
 
 ## 一句话总结
 

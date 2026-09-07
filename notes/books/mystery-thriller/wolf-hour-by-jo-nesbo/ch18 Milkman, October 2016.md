@@ -101,6 +101,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -113,8 +114,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | fishing rod | 钓鱼竿 | Olav Hanson pulled his fishing rod sideways... |
-| against the current | 逆流 | ...against the current. |
 
 ### ⭐⭐ 进阶
 
@@ -126,10 +127,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | pulled | 拉 | Olav Hanson pulled his fishing rod sideways... |
 | sideways | 向一侧 | ...pulled his fishing rod sideways, against the current. |
 | current | 水流 | ...against the current. |
-| stared out | 向外凝视 | Stared out into the night-time darkness... |
 
 ### ⭐ 基础
 
@@ -141,7 +142,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| rod | 竿 | Olav Hanson pulled his fishing rod sideways... |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 Hanson 在密西西比河边钓鱼时接到神秘电话——"Die Man"威胁他杀死 Lobo（Gomez），否则揭露他 30 年前的罪行：他曾经为黑帮工作，谋杀了 Gomez 的妻儿。

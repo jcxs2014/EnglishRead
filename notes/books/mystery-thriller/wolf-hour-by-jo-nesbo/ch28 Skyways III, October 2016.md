@@ -319,12 +319,14 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"afterward"是之后——完成之后。
 
+
 ## 本章词汇
 
-### ⭐⭐⭐ 高级（8条）
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | waiting in readiness | 准备就绪 | ...waiting in readiness outside the door... |
 | emerged | 出现 | Men who emerged at irregular intervals... |
 | irregular intervals | 不规则间隔 | ...at irregular intervals through the swing door... |
@@ -332,12 +334,12 @@ modified: "2026-09-07"
 | black-clad | 穿黑衣的 | ...those black-clad men with automatic weapons... |
 | automatic weapons | 自动武器 | ...with automatic weapons pointing in their direction. |
 | micro camera | 微型摄像头 | ...a micro camera on the end of it. |
-| playing cat and mouse | 玩猫鼠游戏 | As though he's playing cat and mouse with us. |
 
-### ⭐⭐ 进阶（10条）
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | position | 位置 | Bob had taken up a position... |
 | SWAT team | SWAT小队 | ...from the SWAT team... |
 | restroom | 洗手间 | ...outside the door to the restrooms. |
@@ -347,19 +349,18 @@ modified: "2026-09-07"
 | arms | 手臂 | Her arms were folded... |
 | sweater | 毛衣 | ...a grey Minnesota Twins sweater... |
 | store | 商店 | ...outside the bag store. |
-| screen | 屏幕 | ...studying a phone screen... |
 
-### ⭐ 基础（7条）
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | door | 门 | ...through the swing door... |
 | men | 男人 | Men who emerged... |
 | weapons | 武器 | ...automatic weapons... |
 | head | 头 | You're shaking your head. |
 | arms | 手臂 | Her arms were folded... |
 | store | 商店 | ...outside the bag store. |
-| screen | 屏幕 | ...studying a phone screen... |
 
 ## 一句话总结
 SWOT 小队冲进洗手间，发现 Gomez 已通过通风管道逃脱；Oz 在体育酒吧通过电视直播看到自己的"醉态"被播出，随后 O'Rourke 通过通风管道追捕，发现 Gomez 已跳到地面。

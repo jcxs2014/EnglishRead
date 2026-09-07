@@ -166,6 +166,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -179,7 +180,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| crossed the parking lot | 穿过停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -192,9 +193,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | parking lot | 停车场 | AFTER SAYING GOODNIGHT TO KJOS, Olav Hanson crossed the parking lot. |
 | watch | 手表 | Looked at his watch... |
-| present | 礼物 | ...a present from a time long gone. |
 
 ### ⭐ 基础
 

@@ -85,12 +85,14 @@ modified: "2026-09-07"
 
 读者视角提示：这是全书第一次"附身"——Holger 与凶手的边界开始模糊，读者被拉入共犯结构。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | taxidermist | 标本师 | I feel like telling him I’m a taxidermist. I stuff things. |
 | haunted | 萦绕，困扰 | It’s an image that has haunted me these past few months. |
 | denouement | 结局，收束 | ...an uncertain denouement that leaves plenty of room for wide-ranging conspiracy theories. |
@@ -98,14 +100,12 @@ modified: "2026-09-07"
 | loom | 隐约出现，逼近 | The downtown skyline looms up ahead of us... |
 | facade | 正面，外表 | ...his body pressed up against the facade of a skyscraper... |
 | jerky | 急动的，不平稳的 | ...two squirrels dart about in nervous, jerky sprints... |
-| affluent | 富裕的 | ...whether it’s affluent or poor. |
-| bustling | 熙熙攘攘的 | ...the streets were full of bustling life. |
-| interrogation | 审讯 | ...end up in an interrogation room... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | emblem | 徽章，标志 | ...just below the emblem of the US Customs and Border Protection service. |
 | scratch | 挠，抓 | ...as he scratches his upper arm... |
 | instinct | 本能 | ...instead of following my instinct to reply ‘murder’... |
@@ -115,22 +115,18 @@ modified: "2026-09-07"
 | glance | 一瞥 | ...glances at me in the rear-view mirror... |
 | get hold of | 弄到，买到 | Very hard to get hold of. |
 | dart | 飞奔，急冲 | ...two squirrels dart about in nervous, jerky sprints... |
-| skyline | 天际线 | The downtown skyline looms up ahead of us... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | mask | 口罩 | Behind the paper face mask the receptionist probably gives me a smile. |
 | tip | 小费 | ...I pay cash and give him a good tip. |
 | lobby | 大堂 | There are only a few people in the hotel’s large lobby area... |
 | keycard | 房卡 | Then she gives me the keycard to room 2406... |
 | homeless | 无家可的 | On the sidewalk I pass a homeless man asleep... |
 | skyscraper | 摩天大楼 | ...the facade of a skyscraper bearing the logo... |
-| freeway | 高速公路 | ...as we turn off the freeway. |
-| mural | 壁画 | ...we’ve passed three murals depicting the black man... |
-| pandemic | 疫情 | ...it came right at the same time as the pandemic... |
-| conspiracy | 阴谋 | ...wide-ranging conspiracy theories. |
 
 ## 一句话总结
 

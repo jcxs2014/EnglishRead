@@ -119,12 +119,14 @@ modified: "2026-09-07"
 
 读者视角提示：Kay 的"swung the car up onto the sidewalk"是违规——她开上人行道。
 
+
 ## 本章词汇
 
-### ⭐⭐⭐ 高级（8条）
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | MPD's video centre | MPD监控中心 | ...getting updates all the way from the MPD's video centre... |
 | over three hundred cameras | 三百多个摄像头 | ...from over three hundred cameras... |
 | cooperative enterprise | 合作企业 | ...was a cooperative enterprise involving law enforcement... |
@@ -132,12 +134,12 @@ modified: "2026-09-07"
 | transferred | 转移 | ...or – as some critics claimed – transferred it... |
 | secret surveillance | 秘密监控 | Concerns about secret surveillance... |
 | glass wall | 玻璃墙 | ...using a glass wall behind which anyone could come and sit... |
-| audience | 观众 | In a word, Olav had an audience. |
 
-### ⭐⭐ 进阶（10条）
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | panting | 喘气 | Olav Hanson was panting. |
 | knee | 膝盖 | He tried to ignore the pain in his knee... |
 | escalator | 自动扶梯 | ...the escalator slowly moved him up to the second floor. |
@@ -147,19 +149,18 @@ modified: "2026-09-07"
 | critics | 批评者 | ...as some critics claimed... |
 | dealt with | 处理 | ...had been dealt with by making the project open to all... |
 | open to all | 对所有人开放 | ...making the project open to all... |
-| sweat | 汗水 | His shirt was wet with sweat... |
 
-### ⭐ 基础（7条）
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | phone | 电话 | He had his phone plugged into one ear... |
 | car | 汽车 | ...where he'd parked his car at Track Plaza. |
 | restaurant | 餐厅 | ...telling him Gomez was still at the restaurant. |
 | cameras | 摄像头 | ...over three hundred cameras... |
 | crime | 犯罪 | ...drastically reduced crime... |
 | plan | 计划 | The plan was simple but sound. |
-| cuffs | 手铐 | ...he wasn't going to handcuff Gomez. |
 
 ## 一句话总结
 Hanson 在 Track Plaza 购物中心寻找 Gomez，计划在电梯里暗杀他；Kay Myers 和 Oz 也赶到，通过视频监控追踪 Gomez；Hanson 的计划被 Myers 的电话打断。

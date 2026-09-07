@@ -238,6 +238,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -251,7 +252,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| narrow street | 窄巷 | ...standing in a narrow street in downtown. |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -264,9 +265,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | narrow street | 窄巷 | ...standing in a narrow street in downtown. |
 | store | 商店 | He looked at the sign above the store doorway. |
-| sign | 标志 | ...the sign above the store doorway. |
 
 ### ⭐ 基础
 

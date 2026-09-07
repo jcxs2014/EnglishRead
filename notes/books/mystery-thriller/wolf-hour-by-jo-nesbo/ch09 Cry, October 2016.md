@@ -104,6 +104,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -117,7 +118,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| perspective | 视角，视野 | I Was ON HIGH, I had perspective. |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -130,9 +131,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | news | 新闻 | Switched between news broadcasts... |
 | TV |  télévision | I was lying in bed and watching TV. |
-| phone | 电话 | ...and the internet on my phone. |
 
 ### ⭐ 基础
 

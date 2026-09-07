@@ -92,6 +92,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -105,7 +106,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| plinth | 底座，基座 | ...the man up there on the plinth was half-Norwegian... |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -118,9 +119,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | downtown | 市中心，商业区 | WE’RE BACK IN DOWNTOWN. |
 | whistle | 汽笛，口哨 | ...hear the whistle blow... |
-| subway | 地铁 | ...the subway train glides out of the station... |
 
 ### ⭐ 基础
 

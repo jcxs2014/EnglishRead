@@ -159,12 +159,14 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"shrugged"是无奈——他放弃了辩解。
 
+
 ## 本章词汇
 
-### ⭐⭐⭐ 高级（8条）
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | mustard-yellow coat | 芥末黄外套 | ...saw the mustard-yellow coat... |
 | slipped onto | 悄悄坐上 | ...slipped onto the bar stool next to him. |
 | run you off | 赶走你 | ...letting them run you off like that. |
@@ -172,12 +174,12 @@ modified: "2026-09-07"
 | strong and supple | 强壮而柔软 | Gomez is strong and supple. |
 | hanging by his fingertips | 用手指悬挂 | ...he must have been hanging by his fingertips... |
 | snap the fan back into place | 把风扇推回原位 | ...used his head to snap the fan back into place. |
-| in good shape | 状态良好 | ...even though he's in good shape. |
 
-### ⭐⭐ 进阶（10条）
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | empty | 空的 | Kay entered the almost empty sports bar... |
 | stool | 凳子 | ...slipped onto the bar stool next to him. |
 | sorry | 抱歉 | ‘Sorry,’ she said. |
@@ -187,19 +189,18 @@ modified: "2026-09-07"
 | thinking | 思考 | ‘I've been thinking about...’ |
 | training | 训练 | ...some kind of training. |
 | shaft | 管道 | He got up into that shaft... |
-| quietly | 安静地 | And so quietly that no one else noticed anything. |
 
-### ⭐ 基础（7条）
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | bar | 酒吧 | Kay entered the almost empty sports bar... |
 | coat | 外套 | ...saw the mustard-yellow coat... |
 | drink | 饮料 | ‘Guess I need a drink too.’ |
 | man | 男人 | ...a man shot in the parking lot... |
 | news | 新闻 | It's on the news, said Bob. |
 | door | 门 | ...a door that was ajar. |
-| coffee | 咖啡 | ‘How about a cup of coffee?’ |
 
 ## 一句话总结
 Kay 和 Oz 在体育酒吧谈话，Oz 被电视直播出丑；Walker 打电话训斥他；Kay 透露了她在芝加哥 Englewood 的童年创伤（父亲家暴、母亲买枪自卫）；Oz 醉行至标本店，Lunde 让他进来喝咖啡。

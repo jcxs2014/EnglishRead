@@ -118,6 +118,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -131,7 +132,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| venerable | 庄严的，古老的 | ...passed through the venerable hall... |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -144,9 +145,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | plaza | 广场，购物中心 | BOB OZ CROSSED GOVERNMENT PLAZA. |
 | statue | 雕像 | Glanced up at the Humphrey statue... |
-| echoed | 回响，回荡 | His steps echoed as he passed through... |
 
 ### ⭐ 基础
 

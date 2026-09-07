@@ -136,6 +136,7 @@ modified: "2026-09-07"
 读者视角提示：Gomez 的"stopped shaking"是解决——第二枪解决了问题。
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -143,18 +144,19 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | starting to get dark | 天黑 | It was starting to get dark... |
 | half-hour | 半小时 | ...waiting up there on the roof... |
 | activity | 活动 | ...there had been a lot of activity down below... |
 | telescopic sights | 望远瞄准镜 | Through the telescopic sights I followed Karlstad... |
 | pickup | 皮卡 | ...reached the big blue pickup... |
 | pulse rate | 心率 | My pulse rate was low... |
-| beta blockers | β受体阻滞剂 | ...even though I hadn't taken the beta blockers... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | dark | 黑暗 | It was starting to get dark... |
 | roof | 屋顶 | ...waiting up there on the roof... |
@@ -164,19 +166,18 @@ modified: "2026-09-07"
 | pickup | 皮卡 | ...the big blue pickup... |
 | unlocked | 解锁 | ...unlocked it and climbed in. |
 | climbed in | 爬上 | ...unlocked it and climbed in. |
-| pulse | 脉搏 | My pulse rate was low... |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | dark | 黑暗 | It was starting to get dark... |
 | roof | 屋顶 | ...waiting up there on the roof... |
 | cars | 车 | ...cars coming, cars going. |
 | sights | 瞄准镜 | Through the telescopic sights... |
 | pickup | 皮卡 | ...the big blue pickup... |
-| pulse | 脉搏 | My pulse rate was low... |
 
 ## 一句话总结
 杀手在停车场屋顶等待，用步枪射杀了 Cody Karlstad——一个看似普通的中产阶级男人；他冷静地计算距离、角度，然后扣下扳机，第二次射击才让尸体"停止颤抖"。

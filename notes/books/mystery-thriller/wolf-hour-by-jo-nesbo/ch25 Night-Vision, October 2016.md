@@ -171,12 +171,14 @@ modified: "2026-09-07"
 
 读者视角提示：Hanson 的"Shit"是愤怒——Oz 抢先了。
 
+
 ## 本章词汇
 
-### ⭐⭐⭐ 高级（8条）
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | cast a line | 抛线 | Olav Hanson took another cast with the rod. |
 | reel in | 收线 | Olav Hanson began reeling in as fast as he could. |
 | rifle shot from a distance | 远距离步枪射击 | Rifle shot from a distance. |
@@ -184,12 +186,12 @@ modified: "2026-09-07"
 | points of similarity | 相似之处 | Was it Gomez himself, the points of similarity? |
 | all-out war | 全面战争 | waging an all-out war... |
 | motion-activated | 移动激活的 | ...IPCC-9610 camera that's motion-activated. |
-| night-vision | 夜视 | It has night-vision and –' |
 
-### ⭐⭐ 进阶（10条）
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | jump | 惊跳 | It made him jump. |
 | phone rang | 电话响了 | ...every time the phone rang... |
 | fishing | 钓鱼 | But right now he was fishing... |
@@ -199,19 +201,18 @@ modified: "2026-09-07"
 | distance | 距离 | Rifle shot from a distance. |
 | on the scene | 在现场 | Any detectives on the scene yet? |
 | delay | 延迟 | See if you can delay her a little, Joe. |
-| apartment | 公寓 | There were no indications in Gomez's apartment... |
 
-### ⭐ 基础（7条）
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | phone | 电话 | ...every time the phone rang... |
 | case | 案件 | I want this case. |
 | man | 男人 | a man shot in the parking lot... |
 | cars | 汽车 | There's a couple of patrol cars there... |
 | apartment | 公寓 | There were no indications in Gomez's apartment... |
 | scene | 现场 | Any detectives on the scene yet? |
-| road | 道路 | Parking garage on the other side of the road. |
 
 ## 一句话总结
 Hanson 接到枪击案通知，抢先赶到 Southdale Mall；Oz 也出现并与 Hanson 对峙；Oz 通过停车库监控找到 Gomez 影像并发布全境警报；Gomez 在 Nicollet 购物中心吃披萨，意识到自己"已经死了"。

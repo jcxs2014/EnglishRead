@@ -86,6 +86,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -99,7 +100,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| wizard | 巫师，奇才（反讽） | ‘Here’s the wizard,’ said Olav Hanson. |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -112,9 +113,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | elevator | 电梯 | WHEN BOB EMERGED FROM THE elevator... |
 | coffee machine | 咖啡机 | ...three men from Homicide were standing by the unit’s new coffee machine. |
-| wizard | 巫师 | ‘Here’s the wizard,’ said Olav Hanson. |
 
 ### ⭐ 基础
 

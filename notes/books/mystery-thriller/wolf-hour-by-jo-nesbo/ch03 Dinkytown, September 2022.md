@@ -65,12 +65,14 @@ modified: "2026-09-07"
 
 读者视角提示：Holger 的"想象"不是猜测，而是共情——他要把自己变成 Oz，理解一个被妻子抛弃的男人如何面对谋杀现场。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | surveillance cameras | 监控摄像头 | ...recorded by a surveillance camera and by means of binary code... |
 | bohemian | 波西米亚式的，放荡不羁的 | For me there was something bohemian and thrilling about Dinkytown. |
 | marijuana | 大麻 | The smell of marijuana and testosterone... |
@@ -78,12 +80,12 @@ modified: "2026-09-07"
 | facade | 外观，正面 | ...the purple facade is a tribute to the town’s other great musical son, Prince. |
 | warren | 拥挤的窝 | ...that little warren of a place... |
 | premises | 房屋，经营场所 | ...advertising that the premises are for rent... |
-| peer | 窥视 | ...cup my hands against the glass... and peer inside. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | back inside my own head | 回到自己的意识/头脑中 | I’m back in the taxi, back inside my own head. |
 | for certain | 确定地 | Now of course I can’t know for certain... |
 | granite blocks | 花岗岩建筑 | ...the granite blocks of a city hall... |
@@ -93,22 +95,18 @@ modified: "2026-09-07"
 | purple facade | 紫色外墙 | ...the purple facade is a tribute to... |
 | warren | 拥挤的窝 | ...that little warren of a place... |
 | chuckles | 轻笑 | The driver just chuckles and shakes his head. |
-| for rent | 出租 | ...the poster advertising that the premises are for rent. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | taxi | 出租车 | I’m back in the taxi... |
 | river | 河流 | The sun is rising as we cross the river... |
 | bridge | 桥 | ...over the railroad line... |
 | railroad | 铁路 | The occasional goods train used to run on that line... |
 | poster | 海报 | ...the poster advertising that the premises are for rent. |
 | furniture | 家具 | ...there isn’t a stick of furniture left. |
-| handle | 把手 | ...try the handle of the locked door... |
-| glass | 玻璃 | ...cup my hands against the glass... |
-| bar | 酒吧 | The bar is still there... |
-| imagine | 想象 | So I try to imagine how it might have been... |
 
 ## 一句话总结
 

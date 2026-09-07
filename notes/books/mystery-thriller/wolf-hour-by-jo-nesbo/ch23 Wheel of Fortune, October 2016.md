@@ -113,6 +113,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -121,17 +122,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | kerb | 路边 | Bob stopped the Volvo by the kerb... |
 | Happy Hour | 欢乐时光（酒吧促销） | The Happy Hour sign wasn't up. |
 | drummed | 敲打 | He drummed on the steering wheel... |
 | Unhappy Hour | 不快乐时光 | So what would that make it in there now? Unhappy Hour? |
 | rushing | 轰鸣声（暴力前兆） | He could feel the rushing start up. |
-| down at the station | 在警察局 | ‘You want to answer my questions here or down at the station?’ |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | stopped | 停止 | Bob stopped the Volvo by the kerb... |
@@ -141,7 +143,6 @@ modified: "2026-09-07"
 | light | 灯光 | ...the yellow light behind the blinds. |
 | blinds | 百叶窗 | ...the yellow light behind the blinds. |
 | find out | 找出 | Only one way to find out. |
-| man | 男人 | The man tending the bar... |
 
 ### ⭐ 基础
 
@@ -149,11 +150,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | car | 汽车 | Back in the Volvo... |
 | bar | 酒吧 | ...outside Bernie's Bar. |
 | sign | 标志 | The Happy Hour sign wasn't up. |
 | light | 灯光 | ...the yellow light behind the blinds. |
-| man | 男人 | The man tending the bar... |
 
 ## 一句话总结
 Oz 停职后孤独绝望，翻通讯录找女人陪——他想起 Alice 的新男友 Stan，打电话被拒，又找到 Dory（曾因其打架入院的女人），但发现她已有男友；他最终意识到自己"在麻烦中"。

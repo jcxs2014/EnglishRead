@@ -113,6 +113,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -121,17 +122,18 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | flat light | 平淡的光 | A flat light lay across the desert. |
 | desert | 沙漠 | A huge desert that I crossed alone. |
 | monotonous | 单调的 | ...that monotonous, desolate landscape... |
 | desolate | 荒凉的 | ...that monotonous, desolate landscape... |
 | sign of life | 生命迹象 | ...no sign of life at all. |
-| whirled up into heaven | 卷上天堂 | ...been whirled up into heaven just a moment ago... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | light | 光 | A flat light lay across the desert. |
@@ -141,7 +143,6 @@ modified: "2026-09-07"
 | landscape | 风景 | ...monotonous, desolate landscape... |
 | cars | 汽车 | But of course, cars count as signs of life. |
 | parking lot | 停车场 | And this parking lot. |
-| earth | 地球 | What if every person on earth apart from me... |
 
 ### ⭐ 基础
 
@@ -149,11 +150,11 @@ modified: "2026-09-07"
 |---------|------|------|
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | desert | 沙漠 | A huge desert that I crossed alone. |
 | people | 人 | I saw no other people... |
 | cars | 汽车 | But of course, cars count as signs of life. |
 | parking lot | 停车场 | And this parking lot. |
-| alone | 独自 | A huge desert that I crossed alone. |
 
 ## 一句话总结
 杀手在停车场等待目标，回忆起自己的孤独和使命——他的妻儿已死，复仇是他唯一的生存理由；他在一辆蓝色 Chevrolet Silverado 上贴白色胶带作为瞄准标记，等待目标出现。

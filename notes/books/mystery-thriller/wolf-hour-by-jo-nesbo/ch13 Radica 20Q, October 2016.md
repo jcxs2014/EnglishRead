@@ -198,6 +198,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -211,7 +212,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| aimlessly | 漫无目的地 | BOB DROVE AIMLESSLY. |
+| 词/短语 | 释义 | 例句 |
 
 ### ⭐⭐ 进阶
 
@@ -224,9 +225,9 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | aimlessly | 漫无目的地 | BOB DROVE AIMLESSLY. |
 | playlist | 播放列表 | TURNED OFF his playlist. |
-| sick to death of | 厌倦至极 | He was sick to death of it. |
 
 ### ⭐ 基础
 

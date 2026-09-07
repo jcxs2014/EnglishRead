@@ -101,6 +101,7 @@ modified: "2026-09-07"
 
 
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -113,8 +114,8 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | running the operation | 经营业务 | The Latino in the porkpie hat was clearly running the operation. |
-| elastic band | 橡皮筋 | ...a bundle of something with an elastic band around it... |
 
 ### ⭐⭐ 进阶
 
@@ -126,10 +127,10 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
+| 词/短语 | 释义 | 例句 |
 | parked | 停车 | Bob had parked by the playground... |
 | playground | 游乐场 | Bob had parked by the playground... |
 | hamburger | 汉堡 | He sat eating a hamburger in the Volvo... |
-| watched the deal going down | 看着交易进行 | ...watched the deal going down outside a nearby house. |
 
 ### ⭐ 基础
 
@@ -141,7 +142,7 @@ modified: "2026-09-07"
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
 | 词/短语 | 释义 | 例句 |
-| car | 汽车 | Bob had parked by the playground... |
+| 词/短语 | 释义 | 例句 |
 
 ## 一句话总结
 

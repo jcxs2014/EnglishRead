@@ -207,12 +207,14 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"component parts"是零件——枪被拆成零件。
 
+
 ## 本章词汇
 
-### ⭐⭐⭐ 高级（8条）
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | Harry Winston | 哈利·温斯顿（珠宝品牌） | It was a Harry Winston diamond ring. |
 | black velvet | 黑色天鹅绒 | It lay cushioned on black velvet... |
 | wedding anniversary | 结婚纪念日 | Tomorrow would have been our wedding anniversary. |
@@ -220,12 +222,12 @@ modified: "2026-09-07"
 | can't stop the days from coming | 无法阻止日子到来 | You can't stop the days from coming. |
 | rolling along | 滚滚向前 | Time just keeps rolling along... |
 | meaninglessly | 无意义地 | ...no matter how meaninglessly. |
-| making breakfast | 做早餐 | Loved to have been standing in the kitchen making our breakfast... |
 
-### ⭐⭐ 进阶（10条）
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | diamond ring | 钻戒 | It was a Harry Winston diamond ring. |
 | jewellery-store | 珠宝店 | ...in the jewellery-store window... |
 | twinkled | 闪烁 | ...twinkled more brightly than any of the others. |
@@ -235,19 +237,18 @@ modified: "2026-09-07"
 | potential threats | 潜在威胁 | ...you see potential threats everywhere. |
 | exclude completely | 完全排除 | Can I exclude completely the possibility... |
 | birth of the nation | 国家诞生 | ...ever since the birth of the nation... |
-| intend to shoot me | 打算枪杀我 | ...does that person intend to shoot me? |
 
-### ⭐ 基础（7条）
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | ring | 戒指 | It was a Harry Winston diamond ring. |
 | window | 窗 | ...in the jewellery-store window... |
 | tomorrow | 明天 | Tomorrow would have been our wedding anniversary. |
 | wife | 妻子 | Monica hadn't wanted a ring like that... |
 | music | 音乐 | There was no music to sway to... |
 | guard | 保安 | The security guard inside the jeweller's... |
-| face | 脸 | From the scarred Latino face... |
 
 ## 一句话总结
 Gomez 在珠宝店前驻足，想起亡妻 Monica，看到 Hanson 在追踪自己；他躲进洗手间分解步枪，而 Hanson 和 Myers 等人也赶到，在洗手间外形成对峙。
