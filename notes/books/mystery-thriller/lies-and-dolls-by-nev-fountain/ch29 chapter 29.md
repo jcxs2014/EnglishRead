@@ -65,13 +65,13 @@ modified: "2026-09-07"
 
 ### 第 5 段：Kit 的"relief"
 
-> **原句 5:** She had two emotions inside her, swinging at each other like Captain Kirk fighting the Gorn. The Gorn represented Kit's ever-present terror of uncertainty; a future without the comforting routine of going down to Brighton on a Friday, taking walks along the beach on a Saturday evening, making love on a Sunday morning (when Jackie wasn't working at the hotel) and the pleasant journey on the train alone on Sunday evening to reunite with her dog Milo felt very scary.
+> **原句 5:** "We need you here," said Kit. "You, me and Freya have to go and put our heads together and make a list of suspects."
 
-**中文理解":她内心有两种情绪，像柯克船长与戈恩搏斗一样相互挥拳。戈恩代表了 Kit 对不确定性的一贯恐惧；一个没有周五去布莱顿、周六晚上在海滩散步、周日早上做爱（当 Jackie 不在酒店工作时）、周日晚上独自乘火车与她的狗 Milo 团聚的舒适常规的未来感到非常可怕。柯克船长代表了一种解脱感，也许还有一点兴奋，她不再需要冲去布莱顿、在海滩散步等，可以只是和她的狗 Milo 和笔记本电脑躺在床上，在大电视上补看剧集，而不必担心 Jackie 是否也想看同一个节目。
+**中文理解**：Kit 要求 Binfire 留下，三人一起"集思广益"列出嫌疑人名单。
 
-**关键词** | Captain Kirk / Gorn / terror of uncertainty / relief / exhilaration
+**关键词** | put our heads together / list of suspects
 
-**为什么这样写**：Kit 的"Captain Kirk vs Gorn"（柯克 vs 戈恩）比喻暗示了她的"内心冲突"——"恐惧"（Gorn）vs "解脱"（Kirk）。"relief"（解脱）和"exhilaration"（兴奋）暗示了 Kit 的"真实感受"——她不是"悲伤"，而是"解脱"。
+**为什么这样写**：Kit 的"put our heads together"（集思广益）暗示了她的"团队精神"——她"需要"朋友们的"帮助"。"list of suspects"（嫌疑人名单）这个短语暗示了 Kit 的"侦探"身份——她"开始"正式调查。
 
 ## 本章词汇
 

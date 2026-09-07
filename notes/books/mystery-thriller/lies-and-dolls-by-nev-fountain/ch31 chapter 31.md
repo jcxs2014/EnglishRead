@@ -77,13 +77,13 @@ modified: "2026-09-07"
 
 ### 第 6 段：Kit 的内心
 
-> **原句 6:** Kit lay on the bed, eyes open and staring vacantly into the gloom. She couldn't sleep. She was already regretting becoming a detective. What seemed like a reasonable spur-of-the-moment decision became less attractive with every passing hour.
+> **原句 6:** "They left and Kit took herself to bed, listening to the odd screech of a fox and the gravelly call of a pheasant."
 
-**中文理解**：Kit 躺在床上，眼睛睁着，茫然地盯着黑暗。她睡不着。她已经开始后悔当侦探了。看似合理的冲动决定随着时间推移变得越加不吸引。我不想发现关于我朋友的这些新事实，她想。这就像 Binfire 是一个系列中的角色，正在被重启，我不喜欢编剧带他走的方向。
+**中文理解**：Kit 躺在床上，听着狐狸的尖叫和野鸡的沙哑叫声。
 
-**关键词** | staring vacantly / spur-of-the-moment / rebooted / direction the writers are taking him
+**关键词** | screech of a fox / gravelly call of a pheasant
 
-**为什么这样写**：Kit 的"rebooted"（重启）比喻暗示了她的"媒体素养"——她用"电视剧"来理解"现实"。"direction the writers are taking him"（编剧带他走的方向）暗示了 Kit 的"失控感"——她无法"控制"故事的走向。
+**为什么这样写**：Kit 的"odd screech"（奇怪的尖叫）和"gravelly call"（沙哑叫声）暗示了"孤独"——她"独自一人"在"黑暗中"。
 
 ## 本章词汇
 
