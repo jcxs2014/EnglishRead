@@ -84,7 +84,6 @@ modified: "2026-09-07"
 | mull over | 反复思考 | ...mulling over what... |
 | perch | 坐在边缘 | ...perching on the edge... |
 | backlit | 逆光的 | ...backlit by her... |
-| familial | 家族的 | ...familial match. |
 
 ### ⭐ 基础
 

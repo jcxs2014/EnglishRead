@@ -60,8 +60,6 @@ modified: "2026-09-07"
 | clutching at straws | 抓救命稻草、胡乱猜测 | Am I clutching at straws? |
 | ubiquitous | 无处不在的、普遍的 | ...a loose and ubiquitous description... |
 | piqued | 被激起的（兴趣） | My interest is immediately piqued. |
-| dodgy | 可疑的、不合法的（英式俚语） | ...got in with some dodgy people... |
-| estranged | 疏远的、分居的 | ...they became estranged... |
 
 ### ⭐ 基础
 
@@ -69,9 +67,9 @@ modified: "2026-09-07"
 |------|------|------|
 | grudge | 怨恨、积怨 | ...have some grudge against you? |
 | septum | 鼻中隔 | ...except Zoë. |
-| facade | 表面、外表 | ...puts on a brave face, a tough façade... |
-| adamant | 坚决的、固执的 | ...Kyle was adamant that Alice thought... |
-| agonizing | 苦恼的、痛苦的 | ...agonizing over it for days. |
+| fidget | 坐立不安、扭动 | I fidget. |
+| dwindled | 减少、缩小 | ...our intimacy has dwindled... |
+| ill-advised | 不明智的、欠考虑的 | ...a few ill-advised and miserable one-night stands... |
 
 ## 一句话总结
 Kyle 的前女友 Eve 找到 Tasha，透露 Kyle 死前曾秘密见面——他"害怕"，被"可疑的投资人"跟踪，提到 Alice 的"失踪妹妹""现在"有事发生。全书最大悬念之一浮现：Holly 可能还活着？

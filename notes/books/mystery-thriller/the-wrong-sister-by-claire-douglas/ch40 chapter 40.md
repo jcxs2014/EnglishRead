@@ -79,7 +79,6 @@ modified: "2026-09-07"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | cardigan | 开衫 | ...calf-skimming cardigan. |
-| bicker | 斗嘴、争吵 | ...bickered about it... |
 | swell | 膨胀、涌动 | ...a swell of pride. |
 | unsettle | 使不安 | ...feeling a bit unsettled... |
 | sibling | 兄弟姐妹 | ...eaten her own sibling. |

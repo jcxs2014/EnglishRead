@@ -91,7 +91,6 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| nostril | 鼻孔 | ...her nostrils flare... |
 | gulp | 倒吸气、吞咽 | She gulps. |
 | sap | 笨蛋、傻瓜（英式俚语） | ...the sap that I am. |
 | reminisce | 回忆、缅怀 | ...to reminisce over Kyle? |

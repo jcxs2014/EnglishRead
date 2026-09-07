@@ -69,7 +69,7 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| exasperated | 恼怒的 | ...exasperated...look. |
+| exasperated | 恼怒的 | ...exasperated... |
 | sustain | 遭受、承受 | ...head injury that Zoë sustained... |
 | panic | 恐慌 | ...panic in his eyes... |
 | lash out | 发脾气、攻击 | ...lashing out. |

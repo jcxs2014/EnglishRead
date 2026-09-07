@@ -72,7 +72,6 @@ modified: "2026-09-07"
 | irrefutable | 无可辩驳的 | ...irrefutable proof... |
 | elated | 欣喜若狂的 | ...Jeanette is elated... |
 | swirl | 盘旋、打转 | ...thoughts swirling around... |
-| unrivaled | 无与伦比的、空前的 | ...hers is unrivaled... |
 
 ### ⭐ 基础
 

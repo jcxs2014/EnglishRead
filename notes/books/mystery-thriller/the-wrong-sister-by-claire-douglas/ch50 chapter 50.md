@@ -85,7 +85,6 @@ modified: "2026-09-07"
 | now or never | 要么现在要么永不 | ...It's now or never. |
 | blab | 泄露秘密 | ...he decides to blab. |
 | contorted | 扭曲的 | ...face contorted into... |
-| successive | 连续的 | ...in quick succession. |
 
 ### ⭐ 基础
 

@@ -91,9 +91,6 @@ modified: "2026-09-07"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | slipper | 拖鞋 | ...wearing her slippers... |
-| ketones | 酮类 | ...male ketones... |
-| dartboard | 飞镖盘 | ...dartboard. |
-| emanate | 散发、发出 | ...emanating from... |
 | perch | 栖息、坐在 | ...perched on the armchair... |
 
 ## 一句话总结

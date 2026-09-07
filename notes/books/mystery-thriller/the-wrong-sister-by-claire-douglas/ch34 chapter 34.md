@@ -95,7 +95,7 @@ modified: "2026-09-07"
 | snug | 舒适的小房间 | ...a snug... |
 | opulent | 豪华的、奢华的 | ...opulent fireplace. |
 | fuchsia | 紫红色 | ...fuchsia pink velvet sofas... |
-| meringue | 蛋白糖霜（比喻婚纱） | ...wear a meringue. |
+| meringue | 蛋白糖霜（比喻婚纱） | ...worn a meringue. |
 
 ## 一句话总结
 Tasha 与 Alice 去伦敦，在 Alice 电脑上发现与 Connor Campbell 的邮件——Alice 在撒谎关于 Kyle 的弟弟。"betrayal" 是 Tasha 的 guilt，"lie" 是 Alice 的欺骗。

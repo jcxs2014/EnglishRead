@@ -70,7 +70,7 @@ modified: "2026-09-07"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | horrific | 恐怖的、可怕的 | ...more horrific... |
-| derogative | 贬低的、贬义的 | ...something... derogatory... |
+| derogatory | 贬低的、贬义的 | ...something... derogatory... |
 | reciprocated | 回报的、回应的 | ...feelings reciprocated? |
 | ashen | 苍白的、灰白的 | ...His face is ashen... |
 

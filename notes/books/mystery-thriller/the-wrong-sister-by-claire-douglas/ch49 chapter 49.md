@@ -94,7 +94,6 @@ modified: "2026-09-07"
 | jogger | 慢跑者 | ...The jogger next to me... |
 | embryo | 胚胎 | ...one of the embryos dies... |
 | womb | 子宫 | ...shared a womb with another... |
-| absorption | 吸收 | ...absorbed by the surviving twin... |
 
 ## 一句话总结
 Tasha 联系遗传学家 Ellen，发现 Alice 是"chimera"（嵌合体）——有两套 DNA。地毯上的血是 Alice 自己的。Alice 知道但选择沉默。

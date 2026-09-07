@@ -69,8 +69,6 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| antithesis | 对立面、反面 | This was the antithesis... |
-| vibrant | 充满活力的 | ...so vibrant, so full of life. |
 | anguish | 痛苦、苦恼 | ...his face full of anguish. |
 | reel | 天旋地转、踉跄 | ...sent her reeling. |
 

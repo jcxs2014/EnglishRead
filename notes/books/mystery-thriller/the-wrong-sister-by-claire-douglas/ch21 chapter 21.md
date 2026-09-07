@@ -68,7 +68,6 @@ modified: "2026-09-07"
 |------|------|------|
 | cold shoulder | 冷淡、冷落 | ...give her the cold shoulder... |
 | underhand | 秘密的、不正当的 | ...anything underhand. |
-| stoic | 坚忍的 | ...trying to be stoic... |
 
 ## 一句话总结
 Alice 偷听 Tasha 与 Aaron 对话，质疑 Eve 的证词（"limelight" 博关注），但空气中的微妙变化——"infinitesimal"——暗示 Holly 的提及触动了某根神经。

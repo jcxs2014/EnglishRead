@@ -57,7 +57,6 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| needle | 刺痛、困扰 | ...something else is needling me... |
 | obsessional | 痴迷的 | ...She was obsessional... |
 | see red | 愤怒、暴怒 | ...made me see red. |
 | familial match | 家族匹配 | ...familial match. |

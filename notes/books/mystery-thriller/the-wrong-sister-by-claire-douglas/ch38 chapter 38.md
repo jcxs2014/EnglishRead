@@ -92,7 +92,6 @@ modified: "2026-09-07"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | clingfilm | 保鲜膜 | ...peel the clingfilm... |
-| pastry | 馅饼、酥皮 | ...cheese-stuffed pastries... |
 | caterer | 餐饮人员 | ...helping the caterers... |
 | saliva | 唾液 | ...collects your saliva. |
 | GP | 全科医生（英式） | ...go to your GP... |

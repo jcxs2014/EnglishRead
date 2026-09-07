@@ -90,11 +90,10 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| foul | 恶劣的 | ...in a foul mood... |
+| foul | 恶劣的 | ...in such a foul mood... |
 | nag | 烦扰、唠叨 | ...nagging away... |
-| holdall | 旅行袋 | ...carrying two holdalls... |
+| holdall | 旅行袋 | ...carries two holdalls... |
 | appalled | 震惊的 | ...slightly appalled... |
-| macabre | 恐怖的 | ...macabre thoughts. |
 
 ## 一句话总结
 Alice 承认在 Connor 的事上撒谎（"washed his hands of"）。Tasha 为 Aaron 做伪证（"lie"），但选择相信他（"I believe him"）。

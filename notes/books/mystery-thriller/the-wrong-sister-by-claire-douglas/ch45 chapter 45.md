@@ -71,7 +71,6 @@ modified: "2026-09-07"
 |------|------|------|
 | stricken | 震惊的 | ...looks stricken... |
 | impeccable | 无可挑剔的 | ...manners are usually impeccable... |
-| forge | 伪造 | ...forge the VIN numbers... |
 | reverberate | 回荡、震动 | ...shock reverberates through me... |
 
 ### ⭐ 基础
@@ -80,7 +79,6 @@ modified: "2026-09-07"
 |------|------|------|
 | ushers | 引导、带领 | ...ushers them down... |
 | bench | 长凳 | ...bench seat. |
-| tipsy | 微醺的 | ...a bit tipsy... |
 | appalled | 震惊的 | ...looks appalled. |
 | alibi | 不在场证明 | ...had an alibi... |
 

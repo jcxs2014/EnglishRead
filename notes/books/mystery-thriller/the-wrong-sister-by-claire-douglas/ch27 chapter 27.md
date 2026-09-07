@@ -69,7 +69,6 @@ modified: "2026-09-07"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| estrangement | 疏远、分居 | ...her mother was estranged from her family. |
 | broody | 母性的、想要孩子的 | ...she didn't feel in the least bit broody. |
 | biro | 圆珠笔（英式） | ...scribbled in biro... |
 | recoil | 退缩、畏缩 | ...she saw the first headline and recoiled. |

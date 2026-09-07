@@ -81,7 +81,6 @@ modified: "2026-09-07"
 | menopause | 更年期 | ...going through the menopause... |
 | optician | 验光师 | ...referring to the optician... |
 | whip-round | 凑钱、募捐 | ...had a bit of a whip-round... |
-| cerulean | 天蓝色的 | ...a cerulean sky. |
 
 ## 一句话总结
 Tasha 与 Donna 在酒吧聚会，Eve 与未婚夫出现——Catherine 透露 Eve 是"attention seeker"，Donna 推测 Eve 可能是凶手（"jealous rage" 嫉妒的愤怒）。

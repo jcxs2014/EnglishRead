@@ -82,8 +82,6 @@ modified: "2026-09-07"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | aftermath | 后果、余波 | ...the aftermath of Holly's abduction... |
-| stifle | 压抑、扼杀 | ...stifle a yawn... |
-| dwindle | 减少、缩小 | ...our intimacy has dwindled... |
 
 ### ⭐ 基础
 
