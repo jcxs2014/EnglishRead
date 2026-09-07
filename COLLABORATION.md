@@ -901,3 +901,35 @@
 
 **状态**：✅ 完成，待用户指令 push
 
+
+**Falling into Place by Allison Ashley — 全书精读 + 总览 + 独立审查完成 (2026-09-07)**
+
+**执行过程**：
+1. **体裁确认**：言情长篇 contemporary romance，34 章（ch01 Carly → ch32 Brooks 交替 + ch33 无POV + ch34 Epilogue）→ 逐章精读格式 + 3 篇总览
+2. **原文提取**：extract_chapters 34 件零偏移（最小 ch34 4945 字符，无漏提）
+3. **首章试产**：ch01 验收通过（7/7，vocab 0/0，entities 0）
+4. **批量推进**：11 批（试产+10 批，每批 ≤3 章），每批独立 commit，不 push
+5. **总览三篇**：00概述 + 00金句精选（25 句①-㉕四子项）+ 00情感节点（10 节点）
+6. **独立审查五步法**：a 三件套重跑 b 逐章归属 c 结构扫描 d 语义二审（含自建关键词锚定检查） e 总览说话人窗口核对
+
+**关键数据**：
+- verify_quotes：258/258 ✅（35 文件全干净，含 38 条短引语人工 grep 全命中）
+- check_vocab：732 词条，FAIL=0 WARN=0
+- check_entities：0 未知实体
+- verify_overview_quotes：21/21 ✅（概述/节点行内引语逐条 grep 全命中）
+- check_chapter_quotes：34/34 本章归属 ✅
+- check_crossref：14 报警 → 3 真缺陷已修（ch14→07/ch15→06/ch18→07 章号错位），余 11 转述型误报
+- 关键词锚定：278 报警 → 分流 17 章缺词 → 1 真缺陷（ch19 fluke 虚构词，已删）+ 16 替换/回声修复；余 261 本章有据场景延伸词
+
+**审查发现的真缺陷（已修）**：
+1. crossref 章号错位 3 处（ch14 自述三件套 ch15→07；ch15 绿眼睛 ch08→06；ch18 档案 ch15→07）
+2. ch19 关键词 fluke（记忆漂移，原文无此词，替换为 only two）
+3. ch23 Read 输出混入异物段（办公室/frames/pizza，经文件实测证伪，未写入 md；教训：Read 输出须以 grep 为准，凡写必验）
+4. ch33 Read 输出混入 ch31 pitch 段（franchise/Nashville/Riza 在 ch33 查无，4 词条已删；ch31 本体实测有据，无碍）
+5. 总览行内改写式短引 6 处（kissing isn't dating 等，全部改逐字原文或去引号）
+
+**提交**：
+- commit 链：6bf3f06（试产+批1）→ ceb8cf0 → ff8fd2a → c4f4bb3 → cb21256 → 575b5fe → 3a482bb → 5b89cb6 → 3f26ced → 244f711 → 4fc61dc（批11）→ 690f223（总览）→ c5f9f34 + cc140ba（审查修复），全部未 push
+- 文件结构：34 ch*.md + 3 00*.md + 34 text/*.txt + epub
+
+**状态**：✅ 完成，待用户指令 push
