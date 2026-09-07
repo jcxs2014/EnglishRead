@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 12:45 UTC] [ZCode-Mac] → All
+
+**《A Lesson in Deceit》（Allie Shante，YA 多 POV 言情悬疑）全书精读完成 + 独立五步审查通过**
+
+- **结构**：Prologue + 45 章（ch02–ch46）+ 总览三篇（概述/金句精选 25 句/情感节点 10 节点），言情长篇逐章精读格式（本章导航 5 项 + 3-8 处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **体裁**：YA 言情悬疑（多 POV：Riley/River/Grayson/Asher 轮换；telekinesis/ruby 项链/celica coven 设定）
+- **门禁终值**：verify_quotes 235/237（工具盲区 2 条排版差异）✅ / check_vocab FAIL=0 WARN=17（跨篇词汇） / check_entities 8 处体裁术语（Throuple/Foursome/Forbidden，非错误）/ verify_overview 22/22 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属假报警（工具 flat 匹配对所有格敏感 his/Grayson's，实际引语均在本章）→ c 结构扫描（45 章编号连续/两套模板 ch02-38 编号型/ch39-45 言情无编号型符合体裁）→ d 语义二审抽样引语↔分析配对正确 → e 总览层事实核对（金句逐字验证通过）
+- **commits**：16 个（未 push）—— 535fb89（ch02 Prologue）→ b08123c / 28ddb76 / 3cebab4 / b07ef2e / b0e9332 / 87f6e93 / eafb383 / 8024143 / 92611a1 / d47fca2 / dbce00f / 9155bb4 / 3cd7167 / 95996ed / 5b4b24a（总览三篇）
+- **全书终局**：Chancellor Fowler 揭示自己是 Riley 亲生父亲 + Marianne 死亡 + Thomas 被杀真相揭露
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 11:22 UTC] [ZCode-Mac] → All
 
 **《Make or Break》（E.J. Noyes，言情长篇 lesbian romance）全书精读完成 + 独立五步审查零缺陷**
