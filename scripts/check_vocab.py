@@ -77,31 +77,55 @@ def load_epub_if_needed(book_dir, chapter_corpora):
     return ''
 
 
+CONTRACTIONS = {"i've","i'm","he'd","she'd","we'd","they'd","it's","that's","don't","won't","can't","didn't","wasn't","i'll","he'll","she'll","we'll","they'll","you'd","you'll","you've","we've","they've","there's","what's","let's","couldn't","shouldn't","wouldn't","hadn't","hasn't","haven't","aren't","isn't"}
+
 def word_hits_corpus(word, corpus):
-    """Check if word (or its stem) hits corpus. Returns True if found."""
-    w = word.replace("'", "")
+    """Check if word (or its stem) hits corpus. Returns True if found.
+
+    2026-09-06 修撇号误报：I've/he'd 去撇号后为 ive/hed（3字符），旧逻辑
+    len>=4 下限直接失配 -> A类虚构误报（Up in Molten Lights ch54 十条实证）。
+    缩写词按 3 字符下限匹配（flat 语料本无撇号，3 字符已足够特异）。
+    """
+    w = word.replace("'", "").replace("\u2019", "")
+    min_len = 3 if word.lower().strip() in CONTRACTIONS else 4
     # Allow -s / -ed / -ing / -s after s / -lier etc.
     for stem in (w, w.rstrip('s'), w.rstrip('ing')+'e' if w.endswith('ing') else w,
                  w.rstrip('ed') if not w.endswith('e') else w,
                  w.rstrip('ly') if w.endswith('ly') else None):
-        if stem and len(stem) >= 4 and stem in corpus:
+        if stem and len(stem) >= min_len and stem in corpus:
             return True
-    return len(w) >= 4 and w in corpus
+    return len(w) >= min_len and w in corpus
 
 
 def example_ok(example, corpus):
-    """Check example sentence against corpus. Returns (ok, detail)."""
+    """Check example sentence against corpus. Returns (ok, detail).
+
+    2026-09-06 增补：
+    a) 引号分段——"A," she said. "B" 跨标签行拆引号内各段独立验证；
+    b) 后缀锚定——整句前缀指纹失败时，尝试例句的后缀片段（去掉首个词），
+      应对页码污染点落在句首的假 FAIL（Helm 实证），后缀仍须逐字连续。
+    """
     if not example or len(re.findall(r'[A-Za-z0-9]', example)) < 8:
         return False, '例句过短或为空'
     eq = flat(example)
     # 整句匹配（取前 60 字符作为指纹）
     if eq[:60] in corpus:
         return True, '整句命中'
-    # 省略号分段：每段（≥12 字符）都必须命中
-    frags = [p.strip() for p in re.split(r'…|\.\.\.', example)
+    # 引号内分段（对话体跨标签实证）
+    qparts = re.findall(r'["\u201c]([^"\u201d]{8,})["\u201d]', example)
+    if len(qparts) >= 2 and all(flat(p)[:40] in corpus for p in qparts):
+        return True, f'引号分段({len(qparts)}段)命中'
+    # 省略号分段：每段（>=12 字符）都必须命中（… 与 ... 两种写法）
+    frags = [p.strip() for p in re.split(r'\u2026|\.\.\.', example)
              if len(re.findall(r'[A-Za-z0-9]', p)) >= 12]
     if frags and all(flat(p)[:40] in corpus for p in frags):
         return True, f'省略号分段({len(frags)}段)命中'
+    # 后缀锚定：去首个词再试（页码污染点假 FAIL，Helm 实证）
+    m = re.match(r'^\s*[A-Za-z]+\s+(.+)$', example)
+    if m:
+        eq2 = flat(m.group(1))
+        if len(eq2) >= 40 and eq2[:60] in corpus:
+            return True, '后缀锚定命中'
     return False, '例句未命中本章'
 
 

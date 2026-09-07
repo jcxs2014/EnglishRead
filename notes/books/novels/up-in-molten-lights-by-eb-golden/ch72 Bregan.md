@@ -33,7 +33,7 @@ modified: "2026-09-06"
 
 **关键词**：appeared last / materializing
 
-**为什么这样写**：变脸过程被镜头式拆解——而作者把焦点给了一颗雀斑：它是ch55"frecks winking like stars"、ch64"concern etched in his freckles"的坐标原点。认出雀斑，才是认出她。
+**为什么这样写**：变脸过程被镜头式拆解——而作者把焦点给了一颗雀斑：它是ch55"his freckles winking above the collar like stars"、ch64"concern etched in his freckles"的坐标原点。认出雀斑，才是认出她。
 
 **读者视角提示**：随后他问自己那唇间"laced with poison or magic"——明知是毒，仍想靠近。
 

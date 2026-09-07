@@ -35,11 +35,11 @@ modified: "2026-09-06"
 
 ---
 
-> "Should I follow her?" Bregan asked."
+> "But time is of the essence. Should I follow her?" The guard assessed Bregan.
 
 中文理解："我应该跟踪她吗？"Bregan问。
 
-关键词：Should I follow her
+关键词：time is of the essence / Should I follow her / The guard assessed Bregan
 
 为什么这样写：Bregan用Ma的踪迹作为借口——他告诉Nusio他要去追Ma，但实际上他是去调查Asli。这是Bregan在Hulei眼皮底下的小聪明。
 

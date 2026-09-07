@@ -14,7 +14,7 @@ verify_overview_quotes.py — 总览文件引文真实性核对工具
 """
 import re, sys, glob, html, zipfile, tempfile, os
 
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚'
 
 def flat_alpha(s: str) -> str:
     s = re.sub(r'\\+\s*[nt]', '', s)
@@ -39,18 +39,25 @@ def _read_html(p: str) -> str:
     return t
 
 def extract_quotes(txt: str):
-    """按行提取候选引文，兼容多种书写顺序；同文本去重保序。"""
+    """按行提取候选引文，兼容多种书写顺序；同文本去重保序。
+
+    2026-09-06 增补（实证盲区）：
+    - CIRCLED 扩展到 ㉚（Black River 金句 ㉖-㉚ 曾静默漏检）
+    - `**①**` 行中粗体圈数字格式（Up in Molten Lights 30 句仅抽到 1 条）
+    - 省略号/… 分段：每段均命中才算过（与其他工具口径一致）
+    """
     quotes = []
     seen = set()
+    circ = '[' + CIRCLED + r']'
     for raw in txt.splitlines():
         s = raw.strip()
         # 剥掉 markdown 引用块前缀 "> "（若有）
         s = re.sub(r'^>\s*', '', s)
-        # 匹配 ①-⑩ 编号引语块（粗体/裸字/带引号均可）
-        m = (re.match(r'^[' + CIRCLED + r']\s+(.+)$', s)
-             or re.match(r'^\*{1,2}[' + CIRCLED + r']\*{1,2}\s+["\'](.*)["\']', s)
-             or re.match(r'^[' + CIRCLED + r']\s+["\'](.*)["\']', s)
-             # 兼容 "> **原句 N:**" 格式
+        m = (re.match(r'^' + circ + r'\s+(.+)$', s)
+             or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s+(.+)$', s)      # **①** "..."
+             or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s*["\'](.*)["\']', s)
+             or re.match(r'^' + circ + r'\s+["\'](.*)["\']', s)
+             or re.match(r'^\*\*原句\s*\d+[:：]?\*\*\s+(.+)$', s)
              or re.match(r'^>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s+(.+)$', s))
         if not m:
             continue
@@ -82,8 +89,14 @@ def main(book_dir: str, epub_path: str):
             frag = qa[:52]
             if frag in full:
                 ok += 1
-            else:
-                miss.append(frag[:40])
+                continue
+            # 省略号分段：每段（≥15 flat 字符）均命中才算过
+            segs = [p for p in re.split(r'…|\.\.\.', q)
+                    if len(flat_alpha(p)) >= 15]
+            if segs and all(flat_alpha(p)[:40] in full for p in segs):
+                ok += 1
+                continue
+            miss.append(frag[:40])
         total_ok += ok
         total += len(quotes)
         if ok == len(quotes):

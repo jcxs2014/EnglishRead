@@ -45,7 +45,7 @@ modified: "2026-09-06"
 
 ---
 
-> "She had the salt fever?" Bregan looked up from his notes. "She had the salt fever?" The sickness had recently spread through the lower districts like a summer fire, something Thora claimed Hulei was using to fake the deaths of the Nodtacht children.
+> "She had the salt fever?" … Bregan looked up from his notes. "She had the salt fever?" The sickness had recently spread through the lower districts like a summer fire, something Thora claimed Hulei was using to fake the deaths of the Nodtacht children.
 
 **中文理解**："她得了salt fever？"Bregan从笔记本上抬起头来。"她得了salt fever？"这种病最近在低层街区蔓延，就像夏天的火灾，Thora声称Hulei用它来伪造Nodtacht儿童的死亡。
 

@@ -45,7 +45,7 @@ modified: "2026-09-06"
 
 **关键词**：choosing their futures for them / another set of chains
 
-**为什么这样写**：她当场推翻自己"当总统护孩子"的计划——保护欲即权力欲的顿悟，与ch71"control was a prison"一脉相承，并第一次落到行动：Ruanti dies tonight.
+**为什么这样写**：她当场推翻自己"当总统护孩子"的计划——保护欲即权力欲的顿悟，与ch71"seeking control, especially of those you loved, was just a prison of its own kind"一脉相承，并第一次落到行动：Ruanti dies tonight.
 
 **读者视角提示**：对照Hulei"protect them from themselves"的暴政修辞——她识破了同一枚硬币的两面。
 

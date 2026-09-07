@@ -38,32 +38,50 @@ YUAN_RE = re.compile(
 # Second口径: 标题「..."」引语
 PLACE_RE = re.compile(r'^###\s+第(\d+)处[^「]*「([^」]+)」')
 
+ROMAN_RE = re.compile(r'^>\s*(.+)$')  # 言情无编号 blockquote（引号行或裸叙述行；Up in Molten Lights 实证 0/0 盲区）
+
 def extract_quotes(txt):
-    """Return list of quote strings found in txt."""
+    """Return (quotes, short_count)."""
     qs, seen = [], set()
+    short = 0
     for raw in txt.splitlines():
         s = raw.rstrip()
+        b = None
         # Pattern 1: ①/②… 圈数字
         m = CIRCLED_RE.match(s)
         if m:
-            b = m.group(1).strip().strip('*\'"\u201c\u201d\u2018\u2019').strip()
-            if len(flat(b)) >= 20 and b not in seen:
-                seen.add(b); qs.append(b)
+            b = m.group(1)
+        else:
+            # Pattern 2: > **原句 N:** 裸文本或引号包裹
+            m = YUAN_RE.match(s)
+            if m:
+                b = m.group(2)
+            else:
+                # Pattern 4: 言情无编号 blockquote（2026-09-06 增补）
+                m = ROMAN_RE.match(s)
+                if m:
+                    b = m.group(1)
+                    # 引号行：剥掉引号外的叙述标签 `"..." he said.`
+                    if b.lstrip().startswith(('"', '\u201c')) and not b.rstrip().endswith(('"', '\u201d', "'", '\u2019')):
+                        m2 = re.match(r'^["\u201c](.*?)[\u201d"]\s*(?:[A-Za-z].{0,60})?$', b)
+                        if m2:
+                            b = m2.group(1)
+        if b is None:
+            # Pattern 3: ### 第N处：…「引语」
+            pm = PLACE_RE.match(s)
+            if pm:
+                b = pm.group(2)
+            else:
+                continue
+        b = b.strip().strip('*\'"\u201c\u201d\u2018\u2019 ').strip()
+        fb = len(flat(b))
+        if fb < 20:
+            if fb >= 5:
+                short += 1   # 短引语：计数，提示人工 grep
             continue
-        # Pattern 2: > **原句 N:** 裸文本或引号包裹
-        m = YUAN_RE.match(s)
-        if m:
-            b = m.group(2).strip().strip('*\'"\u201c\u201d\u2018\u2019').strip()
-            if len(flat(b)) >= 20 and b not in seen:
-                seen.add(b); qs.append(b)
-            continue
-        # Pattern 3: ### 第N处：…「引语」
-        pm = PLACE_RE.match(s)
-        if pm:
-            b = pm.group(2).strip()
-            if len(flat(b)) >= 20 and b not in seen:
-                seen.add(b); qs.append(b)
-    return qs
+        if b not in seen:
+            seen.add(b); qs.append(b)
+    return qs, short
 
 
 def fragments(text):
@@ -73,7 +91,7 @@ def fragments(text):
 
 
 def check_chapter(nn, md_path, text_dir):
-    """Check one chapter. Returns (ok_count, total_count, miss_list)."""
+    """Check one chapter. Returns (ok_count, total_count, miss_list, err, short)."""
     # Locate chapter text file
     cands = [os.path.join(text_dir, f'ch{nn:02d}.txt'),
              os.path.join(text_dir, f'ch{nn:02d}_')]
@@ -90,9 +108,11 @@ def check_chapter(nn, md_path, text_dir):
         raise SystemExit(f'missing ch{nn:02d}*.txt in {text_dir}')
 
     chap_text = flat(open(tp, encoding='utf-8').read())
-    qs = extract_quotes(open(md_path, encoding='utf-8').read())
+    qs, short = extract_quotes(open(md_path, encoding='utf-8').read())
     if not qs:
-        return (0, 0, [], 'NO_QUOTES_EXTRACTED')
+        if short:
+            return (0, 0, [], f'NO_LONG_QUOTES ({short} 短引语未校验，须人工 grep)', short)
+        return (0, 0, [], 'NO_QUOTES_EXTRACTED', short)
 
     ok, miss = 0, []
     for q in qs:
@@ -105,7 +125,7 @@ def check_chapter(nn, md_path, text_dir):
             ok += 1
         else:
             miss.append(q[:80])
-    return (ok, len(qs), miss, None)
+    return (ok, len(qs), miss, None, short)
 
 
 def scan_book(book_dir, out_dir=None):
@@ -116,13 +136,16 @@ def scan_book(book_dir, out_dir=None):
         raise SystemExit(f'no ch*.md files found in {book_dir}')
 
     total_ok = total = 0
+    short_total = 0
     failed_chapters = []
     for md in md_files:
         nn = int(re.match(r'ch(\d+)', os.path.basename(md)).group(1))
-        ok, tot, miss, err = check_chapter(nn, md, text_dir)
-        total_ok += ok; total += tot
+        ok, tot, miss, err, short = check_chapter(nn, md, text_dir)
+        total_ok += ok; total += tot; short_total += short
         if err or miss:
             failed_chapters.append((nn, os.path.basename(md), ok, tot, miss, err))
+    if short_total:
+        print(f'\u26a0\ufe0f  全书共 {short_total} 条短引语（<20 flat 字符）未被校验\u2014\u2014按规则须人工 grep 兜底')
 
     print(f'全章扫描: 解析引语块 {total}，命中本章 {total_ok}（{100*total_ok//max(1,total)}%）')
     if failed_chapters:
@@ -160,11 +183,12 @@ def main():
     nn = int(args[0])
     md = args[1]
     text_dir = out_dir or os.path.join(os.path.dirname(os.path.abspath(md)), 'text')
-    ok, tot, miss, err = check_chapter(nn, md, text_dir)
+    ok, tot, miss, err, short = check_chapter(nn, md, text_dir)
     if err:
-        print(f'NO_QUOTES_EXTRACTED')
+        print(err)
         sys.exit(1)
-    print(f'{os.path.basename(md)}: {ok}/{tot} in ch{nn:02d} text')
+    note = f'（另有 {short} 条短引语未校验）' if short else ''
+    print(f'{os.path.basename(md)}: {ok}/{tot} in ch{nn:02d} text{note}')
     for m in miss:
         print(f'  MISS: {m}')
     sys.exit(0 if ok == tot else 1)
