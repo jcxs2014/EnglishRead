@@ -57,7 +57,7 @@ modified: "2026-09-07"
 
 ### 第 N 段：McClain 的 Failure
 
-> "I searched this island every day for nine months for the flower... I combed every inch I could get to." Marcus's shoulders sink, a little more hope dying inside him. It pains me to see his resolve cracked by this man who gave up when things got hard.
+> "I searched this island every day for nine months for the flower," he says, his voice flat and hopeless. "That's all I did, from sunrise to dusk. I combed every inch I could get to." Marcus's shoulders sink, a little more hope dying inside him. It pains me to see his resolve cracked by this man who gave up when things got hard.
 
 **中文理解**："我每天在这岛上搜索了九个月的花……我尽可能地搜索了每一寸。"Marcus 的肩膀下垂，更多的希望在他心中死去。看到他的决心被这个在困难时放弃的人击碎，我很痛苦。
 
