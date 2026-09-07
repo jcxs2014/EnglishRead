@@ -112,7 +112,9 @@ modified: "2026-09-07"
 
 > **原句 9:** Tears prick my eyes as I realize the scope of it all. "He intended to shift the focus of the investigation onto Downey. It was his best shot at getting away with it again. He probably realized a connection to him would be made eventually. That all those missing girls wherever he went couldn't be coincidental." "He must be trafficking the victims." Wiley covers her mouth and glances at the door as if expecting someone to enter. "Listen, I won't be able to do this alone—not without alerting Blackwell that I know something smells bad. So, I'm going to set aside what I just watched on that video—for now. And I'm going to have to trust both of you. If you want your daughters to be safe, you'll do exactly as I say."
 
-**key words**:scope / shift / trafficking / set aside
+**中文理解**：泪水刺痛我的眼睛，当我意识到这一切的范围。"他打算把调查重点转移到 Downey 身上。这是他再次逃脱的最佳机会。他可能最终会意识到与他有联系。他去的那些地方所有失踪的女孩都不可能是巧合。" "他一定是在贩卖受害者。"Wiley 捂住嘴，瞥了一眼门，好像期待有人进来。"听着，我一个人做不到——不让 Blackwell 知道我知道有些东西不对劲。所以，我要把我刚才在视频上看到的搁置——暂时。我不得不信任你们两个。如果你们想要女儿的安全，你们会完全按照我说的做。"
+
+**关键词**:scope / shift / trafficking / set aside
 
 **为什么这样写**:Mara 的"scope" 是范围——不是"范围"，是"范围"。"shift" 是转移——不是"转移"，是"转移"。"trafficking" 是贩卖——不是"贩卖"，是"贩卖"。"set aside" 是搁置——不是"搁置"，是"搁置"。
 

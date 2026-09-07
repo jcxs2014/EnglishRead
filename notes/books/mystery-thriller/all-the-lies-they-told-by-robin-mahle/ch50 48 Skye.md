@@ -101,7 +101,7 @@ modified: "2026-09-07"
 
 > **原句 8:** "Whoever manages to slip out of the cuffs will have to wait until he comes down. When he does, and he gets close enough, you push your fingers into his eyes, like really hard. Hard enough to make him bleed."
 
-**中文理解"："无论谁从手铐里滑出来，都要等他下来。当他来了，他足够近时，你把手指推入他的眼睛，像真的很用力。足够用力让他流血。"
+**中文理解**："无论谁从手铐里滑出来，都要等他下来。当他来了，他足够近时，你把手指推入他的眼睛，像真的很用力。足够用力让他流血。"
 
 **关键词**:slip out / push your fingers into his eyes / bleed
 
