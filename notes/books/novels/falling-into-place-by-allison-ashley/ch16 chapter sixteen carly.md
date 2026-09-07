@@ -50,11 +50,11 @@ modified: "2026-09-07"
 
 > **原句 3:** "Have you dated anyone since you've been gone?"
 
-**中文理解**：给 Benjamin 打电话，憋了几个月的问题脱口而出：你在那边约过人吗？沉默。追问。答案：同组 intern，casual，几个月了。
+**中文理解**：给 Benjamin 打电话，憋了几个月的问题脱口而出：你在那边约过人吗？沉默（pause）。追问。答案：同组 intern，casual，几个月了。
 
 **关键词**：blurted, pause, casual
 
-**为什么这样写**："blurted out"的冲动说明这问题在她心里住了很久——Brooks/Kendall 的 loneliness 是导火索，醋意烧到前任头上；Benjamin 的"Are you sure you want to talk"的反问等于认了，成年人的分手 quiz：问就是有，不问也有；"pathetic"的自我评价很扎：人家往前走，她原地踏，还踏进了 Brooks 的坑。
+**为什么这样写**："blurted out"的冲动说明这问题在她心里住了很久——Brooks/Kendall 的 loneliness 是导火索，醋意烧到前任头上；Benjamin 先 pause 一个 long moment，再用"Are you sure you want to talk"的反问等于认了，成年人的分手 quiz：问就是有，不问也有；"pathetic"的自我评价很扎：人家往前走，她原地踏，还踏进了 Brooks 的坑。
 
 **读者视角提示**：Benjamin 线在这里事实上结案——人还在首尔，位置已经让出来了；"made an excuse to get off"的挂电话是 Carly 式体面：笑着挂，挂完哭（没哭，找 Pepper 开会去了）。
 

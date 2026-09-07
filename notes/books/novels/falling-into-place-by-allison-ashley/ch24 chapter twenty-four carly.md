@@ -51,7 +51,7 @@ modified: "2026-09-07"
 
 **中文理解**：十七岁少年，car crash，妈没了，爹 vent，touch-and-go。Brooks 交代伤情，满脑子：镜子里的我。unique position（感同身受）配 robotic voice（行尸走肉），barbed wire 穿肠。
 
-**关键词**：mirror, robotic, barbed wire
+**关键词**：myself, robotic, barbed wire
 
 **为什么这样写**："looking at myself"的判语是 ch23 MVA 的 payoff：waiting room 的少年就是当年的他，报信人 geworden 报信对象，轮回；"robotic voice"的自我诊断：感觉到了，说不出来，barbed wire 是疼的形状；"trailed off"的失语和"long inhales"的续命：说不下去， Carly 接过去（hug、chin、nose），接得及时。
 
@@ -111,7 +111,7 @@ modified: "2026-09-07"
 
 **中文理解**：吻完了，懂了：falling，进行时，对象 Brooks Martin。无可奈何（surprising），理所当然（unsurprising），significant。
 
-**关键词**：falling, significant, stole breath
+**关键词**：falling, significant, stolen breath
 
 **为什么这样写**：falling（进行时）是全书第一次官方认证：之前全是 like、care、can't imagine，这次是 love，还是进行时，掉进去ing；"stolen breath and heart in hands"的判语：呼吸没了，心交了，仪式完成；"significant but unsurprising"的括号：重要，但不意外——读者早就知道，就她刚知道，追更的快乐就是等官宣。
 

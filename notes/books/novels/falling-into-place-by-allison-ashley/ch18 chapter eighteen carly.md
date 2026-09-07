@@ -51,7 +51,7 @@ modified: "2026-09-07"
 
 **中文理解**：Brooks：没为你换衣服，不好意思。Carly：你永远不用为我穿衣服。……我是说，穿"好"。 wide eyes，完蛋，说错话了。
 
-**关键词**：dressed, dressed up, slip
+**关键词**：never, dressed
 
 **为什么这样写**：开门第一句就开车——"不用穿"比"不用穿好"只差一个 up，差的是整晚的体面；"turned wide eyes"的 Carly 式慌张很可爱：黄段子她讲得，口误她慌，主动和被动两副面孔；sweatpants 加"adorable disarray"的 Brooks 是居家版杀，Carly 的 hospital 梦当场续播。
 
@@ -67,7 +67,7 @@ modified: "2026-09-07"
 
 **为什么这样写**：表白三段式（like you → feelings → 烦的但 mostly wonderful）是 Carly 式表白：先砸结论，再列证据，证据里掺着嫌弃，嫌弃里全是喜欢；"straight-leg jean"和"caffeine"的吐槽越具体越真——喜欢一个人就是记得他的毛病还觉得可爱；"crooked grin"的 Brooks 笑开了，听得懂，这是情话。
 
-**读者视角提示**："smart kind of nerdy sweet thoughtful funny"的排比是 Carly 版的 Brooks 说明书——和 ch15 "quiet but surprise"的档案对照：档案是写给全城看的，这个是只说给他听的，独家，绝版。
+**读者视角提示**："smart kind of nerdy sweet thoughtful funny"的排比是 Carly 版的 Brooks 说明书——和 ch07 "quiet but surprise"的档案对照：档案是写给全城看的，这个是只说给他听的，独家，绝版。
 
 ---
 
@@ -75,9 +75,9 @@ modified: "2026-09-07"
 
 **中文理解**：Brooks 律师上身：kissing 和 dating 不是一回事，对吧？先亲了再说，不然接下来一个月天天想，更误事。亲一次，就一次，我保证。（最后亲了 thirty-seven 次。）
 
-**关键词**：loophole, agree, promise
+**关键词**：loophole, agree, dating
 
-**为什么这样写**："get it out of the way"的法学生逻辑——把吻说成"排除干扰"，一本正经地耍流氓， Brooks 式幽默的巅峰；"I agree with that specific sentence"的 Carly 式抠字眼：同意这句，不同意全部，律师遇到律师，庭审变调情；once→twice→thirty-seven 的谈判递进是喜剧结构：底线就是用来破的。
+**为什么这样写**："get it out of the way"的法学生逻辑——把吻说成"排除干扰"（loophole 逻辑），一本正经地耍流氓， Brooks 式幽默的巅峰；"I agree with that specific sentence"的 Carly 式抠字眼：同意这句，不同意全部，律师遇到律师，庭审变调情；once→twice→thirty-seven 的谈判递进是喜剧结构：底线就是用来破的。
 
 **读者视角提示**：kissing loophole 是全书名场面——规则（no dating）立了，洞（kissing）挖了，挖洞的人还一脸无辜；"want you the entire time"的坦白是糖：馋了一个月了，忍不了了，认了。
 

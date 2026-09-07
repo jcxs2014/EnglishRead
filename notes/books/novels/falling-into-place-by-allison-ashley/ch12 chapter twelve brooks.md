@@ -87,7 +87,7 @@ modified: "2026-09-07"
 
 **中文理解**：死机后的重启：我……我对 Carly Porter 有感觉？问号加省略号，CPU 烧了。
 
-**关键词**：feelings, stammer, admit
+**关键词**：feelings, Carly Porter
 
 **为什么这样写**：自由间接引语的结巴体——"Did...did"的重复是全书第一次文体破功，叙述声音都替他紧张；问句不答，答的是下一句"I don't know"，不知道就是知道了一半，另一半教练替他说了。
 

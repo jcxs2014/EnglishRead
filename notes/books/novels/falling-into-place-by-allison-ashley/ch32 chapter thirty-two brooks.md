@@ -50,11 +50,11 @@ modified: "2026-09-07"
 
 > **原句 3:** "In a heartbeat."
 
-**中文理解**：跟吗？heartbeat 版：眨眼都不用。pause 版：停顿是深情（If you'd want me 版）。love you（remember 版）：记得？记得 love，记得 heartbeat，记得 follow，全记得。
+**中文理解**：跟吗？heartbeat 版：眨眼都不用。pause 版（paused）：停顿是深情（If you'd want me 版）。love you（remember 版）：记得？记得 love，记得 heartbeat，记得 follow，全记得。
 
 **关键词**：heartbeat, pause, remember
 
-**为什么这样写**："heartbeat"的判语：心跳一次的时间，答应跟 Nashville，比心跳还快，快的是嘴，慢的是心（心早就跟了，ch18 就跟了，跟的是 kiss，kiss 的是 loophole，loophole 的是 no dating，dating 的是 client，client 的是 Carly，Carly 的是 heartbeat，闭环）；"If you'd want me"的括号：跟要批准，批准秒下（Of course 版），秒下还 love（remember 版），love 还 more（原句 4 版），more 还 kiss（mouth 版），kiss 还 night（most of night 版），night 还……打住，适可而止版。
+**为什么这样写**："heartbeat"的判语：心跳一次的时间，答应跟 Nashville（paused？不存在的），比心跳还快，快的是嘴，慢的是心（心早就跟了，ch18 就跟了，跟的是 kiss，kiss 的是 loophole，loophole 的是 no dating，dating 的是 client，client 的是 Carly，Carly 的是 heartbeat，闭环）；"If you'd want me"的括号：跟要批准，批准秒下（Of course 版），秒下还 love（remember 版），love 还 more（原句 4 版），more 还 kiss（mouth 版），kiss 还 night（most of night 版），night 还……打住，适可而止版。
 
 **读者视角提示**：heartbeat 和 ch06 "beneath rib cage"对照：rib 版（hot 评语）→ heartbeat 版（follow 承诺），rib 到 heart，一字之差（rib 是骨，heart 是心），差的是 ch06 到 ch32 的距离，距离是 26 章，章章是糖，糖里有刀（MVA 版、DUI 版、Coach 版），刀完了，heartbeat 了，beat 了，over。
 

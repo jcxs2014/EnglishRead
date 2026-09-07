@@ -40,7 +40,7 @@ modified: "2026-09-07"
 
 **中文理解**：hospital 出来，haze 里开车，脚自己找到 Carly 家。只想见她。抱她，听她，睡她旁边（sleep，盖章 innocent 版），days 起步。
 
-**关键词**：vicinity, hug, breathe
+**关键词**：only, wanted, breathing
 
 **为什么这样写**："only person"的判语是 love 的素颜版（ch27 还没说 love，这里先认）：疼了找她，找了还跑，跑了还想， testament 循环；"nothing more"的括号（hug、voice、sleep）很重要：去的时候没想睡她（sex），想的是"breathing living next to his"，活物陪伴，丧者的刚需；"hadn't occurred"的脚：脑子没去，脚去了，脚比脑子诚实，全书通用（parking lot 的脚、Carly 家的脚，脚是 Brooks 的嘴替）。
 

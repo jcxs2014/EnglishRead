@@ -112,7 +112,7 @@ modified: "2026-09-07"
 
 **中文理解**：No job。No Brooks。Sasha 静音。Kendall 出差。rock bottom，官方认证。fingernails 掐 palm，疼，醒着，疼着，活着。
 
-**关键词**：bottom, official, fingernails
+**关键词**：bottom, officially, fingernails
 
 **为什么这样写**："officially"的判语：认证机构是她自己，章是 rock，bottom 是底，底的好处是：到底了，触底了，触底反弹（妈妈收尸、Benjamin 破门，反弹开始）；"fingernails into palm"的 Carly 式自虐：疼，醒，活，疼着活比 numb 着活强（ch28 开头 numb，结尾疼，疼是进步）；"No job No Brooks"的排比：丢的都是 Brooks 相关（job 为他丢的，Brooks 为 worthy 跑的），相关即因果，因果即 fix（原句 6），fix 即 32 章，32 章见（说了三遍，重要的话说三遍，散会）。
 

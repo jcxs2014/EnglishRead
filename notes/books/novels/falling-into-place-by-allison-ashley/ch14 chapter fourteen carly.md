@@ -43,17 +43,17 @@ modified: "2026-09-07"
 
 **为什么这样写**：Coach 线第一次进 Carly 视角——之前是 Brooks 的场外指导，这里是 Carly 听到的"他也曾坏过"；"big mistakes"的留白很高明：不说是什么，读者自己填，填的都比写出来重；"finally listened"的浪子回头是 Brooks 人格的信用背书。
 
-**读者视角提示**：记住"back on track"——它和 ch15 "forgotten how to have fun"、ch12 "worth the trouble"是 Brooks 自述三件套：堕落过、关机过、现在学着开机，时间线全了。
+**读者视角提示**：记住"back on track"——它和 ch07 "forgotten how to have fun"、ch12 "worth the trouble"是 Brooks 自述三件套：堕落过、关机过、现在学着开机，时间线全了。
 
 ---
 
 > **原句 3:** "You're a dirty little liar, aren't you?"
 
-**中文理解**：Brooks 参观完一尘不染的公寓：你当初说"看看我屋就知道"，敢情是骗人的，小骗子？"dirty"一出口，Carly 胃里一沉——这词从他嘴里出来，怎么不对劲。
+**中文理解**：Brooks 参观完一尘不染（immaculate）的公寓：你当初说"看看我屋就知道"，敢情是骗人的，小骗子？"dirty"一出口，Carly 的 stomach 一沉——这词从他嘴里出来，怎么不对劲。
 
 **关键词**：immaculate, liar, stomach dropped
 
-**为什么这样写**："dirty"的双关是作者故意的——表面说卫生，实则往黄里带，Carly 的"dropped"证明她听懂了；"polite vs lying"的斗嘴是两人最舒服的相处模式：互损、接梗、不脸红（脸红在心里）。
+**为什么这样写**："dirty"的双关是作者故意的——表面说卫生（immaculate 公寓的卫生），实则往黄里带，Carly 的 stomach dropped 证明她听懂了；"polite vs lying"的斗嘴是两人最舒服的相处模式：互损、接梗、不脸红（脸红在心里）。
 
 **读者视角提示**：牛仔裤梗（"Is that what you told yourself when you stole my jeans"）紧跟其后，liar 系列二连——偷裤子实锤了（"I knew it"），但结案不重要，重要的是他纵容她偷，宠溺藏在断案里。
 

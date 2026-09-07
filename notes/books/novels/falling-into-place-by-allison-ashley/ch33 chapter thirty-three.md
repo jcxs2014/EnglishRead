@@ -27,7 +27,7 @@ modified: "2026-09-07"
 
 **中文理解**：蒜梗：妈说明年要蒜现在种。Brooks：on it。蒜会缩成啥要知道的吗？（pickle 梗后遗症：黄瓜变 pickles 吓过他，蒜再变，他得提前备。）Carly：哈哈哈哈（四声）。
 
-**关键词**：garlic, shrink, pickle homage
+**关键词**：garlic, shrink, know
 
 **为什么这样写**：pickle 梗（ch16）的蒜版续集：黄瓜变 pickles 不知道，蒜变啥也不知道，学霸的生活常识洼地，洼洼有糖；"on it"的 Brooks 式行动派：种就完了，问是情趣（调情版），种是正事（园艺版）；"hahahahaha"的 Carly 式四声大笑：短信体标配，笑完想他（October 15 版：coffee shop 像他，everything 像他，像就对了）。
 
@@ -87,7 +87,7 @@ modified: "2026-09-07"
 
 **中文理解**：jeans 豁免听证：donate？stilled 版。wear 了？No（look away 版）。为啥？sentimental 版：closet 里看见，想你（met 版）、想偷（stole lied 版）、想 hot（found 版）。love every memory。stomach 不给（can't stomach 版）。
 
-**关键词**：sentimental, memories, stomach
+**关键词**：sentimental, token, stomach
 
 **为什么这样写**："sentimental value"的判语：牛仔裤从 fashion crime（ch04 版）到 love token（本章版），七章修成正果（04 处刑、05 失踪、08 审问、13 追问、16 默认、19 charity、22 结案、33 豁免，八章，八八六十四，功德圆满）；"can't stomach giving away"的 Brooks 式深情：stomach 给黄瓜（吃版）、给吵架（疼版），不给捐裤子（love 版），love 的都留，留的都是你（met、stole、hot 版），版版是糖，糖到 cry（"trying to make me cry"版），cry 完 softy（"big softy"版），softy 完 exception。
 

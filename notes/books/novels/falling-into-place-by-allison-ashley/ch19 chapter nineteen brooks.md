@@ -28,7 +28,7 @@ modified: "2026-09-07"
 
 **中文理解**：吻后贤者时间：还剩两个约会，要不要取消？亲完再去见别的女人，感觉挺渣。Carly：留着吧，不算出轨，万一你当场爱上别人忘了我呢。（嘴上大方，心里希望他全推了。）
 
-**关键词**：shitty, exclusivity, fluke
+**关键词**：shitty, only two, relieved
 
 **为什么这样写**："feels shitty"的愧疚是 Brooks 人品的保证——爽完记得账，渣男不会问这个问题；Carly 的"might fall in love and forget me"以退为进：大方是装的，"relieved"的括号（听说他不约新的松口气）才是真的，两个人互相装大方，装得一样假。
 

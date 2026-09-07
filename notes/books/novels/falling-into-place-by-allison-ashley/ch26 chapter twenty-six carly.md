@@ -112,7 +112,7 @@ modified: "2026-09-07"
 
 **中文理解**：Mai：deliberate 没有，sinister 没有，信。但 policy 破了，有人看见，你认了。genuine 也没用，HR 不让。hands tied。Carly：flinch。走吧。
 
-**关键词**：tied, flinch, deliberately
+**关键词**：tied, flinch, deliberate
 
 **为什么这样写**："hands are tied"的判语：Mai 信她（believe、none deliberate、no sinister），但信不顶用，policy 顶用，HR 顶用，顶用的全是不讲情面的；"knew what was coming, still flinched"的 Carly 式疼：知道，躲不掉，flinch 是身体的诚实；"First Chet, now this"的判语：Princeton 家，克她，两次，两次都丢东西（第一次差点丢名声，第二次真丢工作），八字不合，鉴定完毕。
 
