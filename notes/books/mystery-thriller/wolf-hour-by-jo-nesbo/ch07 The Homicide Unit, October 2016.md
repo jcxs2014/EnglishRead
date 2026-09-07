@@ -111,12 +111,14 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 想逮捕"任何人"——他需要的是"行动"，而非正义。他的愤怒需要一个出口。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | venerable | 庄严的，古老的 | ...passed through the venerable hall... |
 | battledress | 战斗服，制服 | ...the battledress of the legal profession. |
 | security channel | 安检通道 | ...through the security channel... |
@@ -124,40 +126,12 @@ modified: "2026-09-07"
 | refurbishment | 翻新，装修 | ...despite the complete refurbishment... |
 | puncture | 漏气，刺穿 | ...a cross between an apology and a puncture. |
 | chaos | 混乱，混沌 | From the chaos of paper piles... |
-| crime scene photographs | 犯罪现场照片 | ...crime scene photographs... |
-| chocolate wrappers | 巧克力包装纸 | ...chocolate wrappers and chewed pencils... |
-| chewed pencils | 咬过的铅笔 | ...chocolate wrappers and chewed pencils... |
-| exact opposite | 恰恰相反 | The exact opposite was the truth. |
-| BOLO | 通缉令（Be On the Lookout） | ...the BOLO for Tomás Gomez... |
-| red landline | 红色座机 | ...called a number on the red landline telephone. |
-| euphemism | 委婉语 | ...come up with a euphemism that’s sexually neutral enough. |
-| collating | 整理，核对 | ...such as collating data for other detectives... |
-| fact-checking | 事实核查 | ...fact-checking and interviewing witnesses... |
-| aggravated assault | 加重袭击罪 | ...call Aggravated Assault, it’s their case now. |
-| surfeit | 过剩，过量 | ...a sudden surfeit of aggravated assaults... |
-| receiver | 电话听筒 | ...replaced the receiver in its cradle. |
-| cradle | 电话听筒座 | ...replaced the receiver in its cradle. |
-| handcuffs | 手铐 | ...the handcuffs lying on top of a pile of documents... |
-| paperweight | 镇纸 | ...as a paperweight. |
-| itching | 发痒，渴望 | He felt himself itching all over. |
-| abruptly | 突然地 | Bob got to his feet so abruptly... |
-| superintendent | 局长，警长 | ...Superintendent Brenton Walker. |
-| wolverine | 狼獾 | He was like a wolverine... |
-| tied up | 被占用的 | ...all my other investigators are tied up. |
-| paranoid | 偏执的，多疑的 | ...a paranoid drunk... |
-| snitch | 告密者 | ...a potential snitch. |
-| covering up | 掩盖，包庇 | ...cover up for me at all? |
-| unclear | 不清楚的 | ‘Unclear. She’d already left.’ |
-| realise | 意识到 | ‘You do realise I can’t keep covering up for me much longer?’ |
-| worked out | 弄明白，解决 | That was another thing he’d never worked out about Kay Myers... |
-| rumours | 谣言，传闻 | ...tuned in to the rumours circulating at work... |
-| category | 类别，范畴 | ...belong in that category either. |
-| felt sorry for | 同情 | ...that she felt sorry for him. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | plaza | 广场，购物中心 | BOB OZ CROSSED GOVERNMENT PLAZA. |
 | statue | 雕像 | Glanced up at the Humphrey statue... |
 | echoed | 回响，回荡 | His steps echoed as he passed through... |
@@ -167,140 +141,18 @@ modified: "2026-09-07"
 | skirt | 裙子 | ...a woman in a navy-blue skirt and jacket... |
 | jacket | 夹克，上衣 | ...a woman in a navy-blue skirt and jacket... |
 | legal profession | 法律界 | ...the battledress of the legal profession. |
-| Asian | 亚洲的 | ...he never found it easy to guess the age of Asian people. |
-| Starbucks | 星巴克 | ...the paper Starbucks cup she was holding. |
-| heard back | 收到回复 | I never heard back from you. |
-| tie | 领带 | Bob brushed his hand over his tie. |
-| underwear | 内衣 | But he was sure he was right about the underwear. |
-| middle finger | 中指 | ...switched fingers and showed him the middle one. |
-| floor | 楼层 | Bob took the next elevator to the fifth floor... |
-| offices | 办公室 | ...stepped out into the Homicide Department’s new offices. |
-| prisoners | 囚犯 | ...used to house prisoners on remand... |
-| glass | 玻璃 | ...all the glass and the light furniture... |
-| furniture | 家具 | ...all the glass and the light furniture... |
-| prison | 监狱 | ...the place was a prison. |
-| detective | 侦探 | Detective Olav Hanson’s pronunciation... |
-| surname | 姓氏 | ...pronunciation of Bob’s surname... |
-| apology | 道歉 | ...a cross between an apology and a puncture. |
-| air | 空气 | ...had a lot of air in it... |
-| note | 笔记，纸条 | He pulled the note from his coat pocket... |
-| pocket | 口袋 | He pulled the note from his coat pocket... |
-| telephone | 电话 | ...called a number on the red landline telephone. |
-| website | 网站 | Bob checked MPD’s website... |
-| results | 结果 | No results so far. |
-| address | 地址 | The address is –’ |
-| doctor | 医生 | ‘There’s no Dr Jakob Egeland in Minneapolis.’ |
-| case | 案件 | ...it’s their case now. |
-| neighbour | 邻居（同事） | He glanced at his neighbour’s desk... |
-| documents | 文件 | ...lying on top of a pile of documents... |
-| desk | 书桌 | He glanced at his neighbour’s desk... |
-| itch | 痒，渴望 | He felt himself itching all over. |
-| arrest | 逮捕 | He felt like he wanted to arrest somebody... |
-| anybody | 任何人 | He felt like he wanted to arrest somebody, anybody at all. |
-| abruptly | 突然地 | Bob got to his feet so abruptly... |
-| chair | 椅子 | ...the chair was still rolling toward the next desk... |
-| window | 窗口 | Superintendent Brenton Walker stood looking out of the window... |
-| narrow | 狭窄的 | ...his narrow office. |
-| sun | 太阳 | The sun blinked from the glass facades... |
-| facades | 正面，外观 | ...from the glass facades of the skyscrapers... |
-| skyscrapers | 摩天大楼 | ...the skyscrapers surrounding them... |
-| sandcastle | 沙堡 | ...made city hall look like a little sandcastle. |
-| knock | 敲门 | From behind he heard a knock on the door. |
-| boss | 老板，上司 | ‘Boss?’ said a voice. |
-| investigator | 调查者 | He was a good investigator too. |
-| smarter | 更聪明的 | There were others who were smarter... |
-| harder | 更努力地 | ...there was no one who worked harder. |
-| game | 游戏，竞技 | ...when Oz was at the top of his game... |
-| trouble | 麻烦 | ...Oz had brought Walker more trouble than results. |
-| case | 案件 | ...I want you to take the case... |
-| tied up | 被占用的 | ...all my other investigators are tied up. |
-| victim | 受害者 | ...the victim turns out not to be dead... |
-| assault | 袭击 | ...it’s a first-degree assault and not a murder. |
-| calls | 电话 | ...I’m getting calls from the Assaults Unit... |
-| BOLO | 通缉令 | ...you’ve sent out a BOLO without informing them. |
-| unit | 部门，单位 | ...you’ve sent out a BOLO without informing them. |
-| message | 信息 | ...to get the message out there... |
-| right | 正确的 | ...have it come from the right unit... |
-| quite | 相当 | ...quite possible the guy actually will die. |
-| odd | 奇怪的 | ‘It’s odd,’ said Bob. |
-| attempted | 企图的 | Attempted murder. |
-| rational | 理性的 | ‘And when was the last time you came across a killer who was rational?’ |
-| professional | 专业的 | ...everything else about it seems so professional. |
-| protection | 保护，庇护 | ‘As if he feels he has protection.’ |
-| gangs | 帮派 | One of the gangs. |
-| leading | 主要的 | ...leading gang members... |
-| force | 力量，警力 | ...a serving member of the force... |
-| drug money | 毒钱 | ...taking drug money in return for... |
-| steering | 操纵，引导 | ...steering murder investigations away from... |
-| rumours | 传闻 | ...the rumour that a serving member of the force... |
-| Milkman | 送奶工（代号） | ...a person they called the Milkman... |
-| accurate | 准确的 | ...about as accurate – and about as old – as all those tales... |
-| Ghost of City Hall | 市政厅幽灵 | ...as all those tales about the Ghost of City Hall. |
-| Internal Affairs | 内务调查部 | ...Oz had asked Internal Affairs to investigate... |
-| effect | 效果，影响 | ...the only effect was to reinforce his reputation... |
-| reputation | 名声 | ...reinforce his reputation among his colleagues... |
-| paranoid | 偏执的 | ...a paranoid drunk... |
-| potential | 潜在的 | ...a potential snitch. |
-| nickname | 绰号 | ...Oz’s nickname in the unit: Kentucky Fried. |
-| chicken | 胆小鬼 | ...Bob Oz was a chicken who refused to carry a gun... |
-| crisis | 危机 | ...in a crisis he would push armed colleagues ahead of him. |
-| anger management | 愤怒管理 | ...anger management sessions going? |
-| improving | 改善 | ‘And are you improving?’ |
-| used to | 过去常常 | ‘The way you used to be,’ said Walker... |
-| reflection | 反射，倒影 | ...as he studied his own reflection. |
-| anything else | 其他事 | ‘Was there anything else, chief?’ |
-| promoted | 升职 | ...you get promoted? |
-| demoted | 降职 | No? Demoted? |
-| coffee | 咖啡 | ...I’d like a coffee, three sugars please. |
-| sugars | 糖 | ...three sugars please. |
-| laughter | 笑声 | A snort of laughter from Detective Joe Kjos... |
-| fan | 粉丝 | ...Kjos was Hanson’s number one fan... |
-| supplier | 供应商 | ...his personal supplier of canned laughter. |
-| divider | 隔板 | ...behind his privacy divider. |
-| strode | 大步走 | Bob strode on by... |
-| baying | 吠叫，嚎叫 | ...the baying laughter followed him back to his desk. |
-| surfeit | 过剩 | ...a sudden surfeit of aggravated assaults... |
-| receiver | 电话听筒 | ...lifted the receiver high above his head. |
-| cradle | 电话听筒座 | ...replaced the receiver in its cradle. |
-| page | 页 | Then tore the page from the notepad... |
-| notepad | 记事本 | Then tore the page from the notepad... |
-| door | 门 | ...hurried toward the door. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | office | 办公室 | ...stepped out into the Homicide Department’s new offices. |
 | case | 案件 | ...I want you to take the case... |
 | murder | 谋杀 | ...it’s a first-degree assault and not a murder. |
 | detective | 侦探 | Detective Olav Hanson’s pronunciation... |
 | chief | 局长，上司 | ‘Boss?’ said a voice. |
 | phone | 电话 | ...the phone rang. |
-| address | 地址 | The address is –’ |
-| doctor | 医生 | ‘There’s no Dr Jakob Egeland in Minneapolis.’ |
-| hand | 手 | He pulled the note from his coat pocket... |
-| note | 笔记 | He pulled the note from his coat pocket... |
-| pocket | 口袋 | He pulled the note from his coat pocket... |
-| telephone | 电话 | ...called a number on the red landline telephone. |
-| website | 网站 | Bob checked MPD’s website... |
-| results | 结果 | No results so far. |
-| desk | 书桌 | He glanced at his neighbour’s desk... |
-| documents | 文件 | ...lying on top of a pile of documents... |
-| handcuffs | 手铐 | ...the handcuffs lying on top of a pile of documents... |
-| window | 窗口 | ...stood looking out of the window... |
-| door | 门 | ...hurried toward the door. |
-| wall | 墙 | ...the privacy wall... |
-| picture | 照片 | ...the photograph of Alice that was still pinned... |
-| list | 列表 | ...alongside the Vikings fixture list. |
-| clock | 时钟 | Looked at the clock. |
-| telephone | 电话 | ...the red telephone. |
-| voice | 声音 | ...the female voice on the answering machine. |
-| machine | 机器 | ...the answering machine. |
-| message | 信息 | ...the recorder would pick up everything... |
-| light | 灯 | ...at a red light. |
-| wheel | 方向盘 | Bob sat behind the steering wheel... |
-| car | 汽车 | Bob sat behind the steering wheel of the car... |
-| gas | 油门 | Bob cursed under his breath and hit the gas. |
 
 ## 一句话总结
 

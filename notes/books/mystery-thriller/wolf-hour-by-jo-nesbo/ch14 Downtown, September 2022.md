@@ -47,12 +47,14 @@ modified: "2026-09-07"
 
 读者视角提示：Holger 的"precisely"是确认——他终于找到了描述自己工作的正确词汇。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | pressed against | 紧贴在 | I Stand WITH MY FACE pressed against the display window... |
 | display window | 展示窗 | ...pressed against the display window... |
 | peer into | 向里看，凝视 | ...and peer into Town Taxidermy. |
@@ -60,31 +62,12 @@ modified: "2026-09-07"
 | darkened interior | 黑暗的室内 | In the darkened interior of the store... |
 | make out | 辨认出 | ...I can just make out a bear standing up on two legs... |
 | bear standing up | 站立的熊 | ...a bear standing up on two legs... |
-| deer | 鹿 | ...and a deer with a massive set of antlers. |
-| massive set of antlers | 巨大的鹿角 | ...a deer with a massive set of antlers. |
-| arrangement | 协议，安排 | ...the arrangement I have with the owner isn't even for today... |
-| owner | 店主 | ...the arrangement I have with the owner... |
-| driving past | 路过时开车 | ...since I was driving past. |
-| strikes me | 我突然想到 | It strikes me that it's such an odd profession... |
-| odd profession | 奇怪的职业 | ...it's such an odd profession, to recreate something that once was. |
-| recreate something that once was | 重建曾经存在的东西 | ...to recreate something that once was. |
-| insisted | 坚持 | ...he insisted that what he did was not recreate but create something. |
-| not recreate but create | 不是重建而是创造 | ...what he did was not recreate but create something. |
-| actual recreation | 实际的重建 | ...it isn't an actual recreation but a fiction. |
-| fiction | 虚构，小说 | ...it isn't an actual recreation but a fiction. |
-| tells a story | 讲述一个故事 | Something that tells a story by putting it in a certain context... |
-| certain context | 特定的语境 | ...by putting it in a certain context in which it can be felt... |
-| felt | 被感受到 | ...in which it can be felt... |
-| truer than | 比...更真实 | ...can sometimes feel truer than the cold, isolated facts do. |
-| cold, isolated facts | 冰冷的、孤立的事实 | ...truer than the cold, isolated facts do. |
-| precisely | 恰恰，正是 | ...this is precisely what I'm doing in this book I'm writing. |
-| book I'm writing | I'm writing 的书 | ...in this book I'm writing. |
-| taxidermist | 标本师 | I'm a taxidermist. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | face | 脸 | I Stand WITH MY FACE pressed against... |
 | window | 窗 | ...pressed against the display window... |
 | store | 商店 | In the darkened interior of the store... |
@@ -94,40 +77,18 @@ modified: "2026-09-07"
 | antlers | 鹿角 | ...a massive set of antlers. |
 | hour | 小时 | ...doesn't open for another hour... |
 | arrangement | 安排 | ...the arrangement I have with the owner... |
-| owner | 店主 | ...the arrangement I have with the owner... |
-| look | 看 | ...I just wanted to have a look... |
-| profession | 职业 | ...it's such an odd profession... |
-| recreate | 重建 | ...to recreate something that once was. |
-| create | 创造 | ...not recreate but create something. |
-| fiction | 虚构 | ...it isn't an actual recreation but a fiction. |
-| story | 故事 | Something that tells a story... |
-| context | 语境 | ...by putting it in a certain context... |
-| facts | 事实 | ...truer than the cold, isolated facts do. |
-| book | 书 | ...in this book I'm writing. |
-| taxidermist | 标本师 | I'm a taxidermist. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | face | 脸 | I Stand WITH MY FACE pressed against... |
 | window | 窗 | ...pressed against the display window... |
 | store | 商店 | In the darkened interior of the store... |
 | bear | 熊 | ...a bear standing up on two legs... |
 | deer | 鹿 | ...and a deer with a massive set of antlers. |
 | legs | 腿 | ...a bear standing up on two legs... |
-| antlers | 鹿角 | ...a massive set of antlers. |
-| hour | 小时 | ...doesn't open for another hour... |
-| owner | 店主 | ...the arrangement I have with the owner... |
-| look | 看 | ...I just wanted to have a look... |
-| profession | 职业 | ...it's such an odd profession... |
-| recreate | 重建 | ...to recreate something that once was. |
-| create | 创造 | ...not recreate but create something. |
-| fiction | 虚构 | ...it isn't an actual recreation but a fiction. |
-| story | 故事 | Something that tells a story... |
-| facts | 事实 | ...truer than the cold, isolated facts do. |
-| book | 书 | ...in this book I'm writing. |
-| writing | 写作 | ...in this book I'm writing. |
 
 ## 一句话总结
 

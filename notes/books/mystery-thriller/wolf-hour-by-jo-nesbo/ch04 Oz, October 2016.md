@@ -83,12 +83,14 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的车顶灯让他可以闯红灯——这是权力的象征，也是他无法融入普通人生活的证据。
 
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | hiss | 嘶嘶地喝 | Bob Oz Hissed THROUGH HIS teeth... |
 | puppy fat | 婴儿肥 | ...chewed away the puppy fat of youth... |
 | cashmere | 羊绒 | ...beneath his trademark yellow coat... |
@@ -96,14 +98,12 @@ modified: "2026-09-07"
 | thatch | 乱发 | A thick and unruly thatch of red hair... |
 | venetian blinds | 百叶窗 | ...the half-closed venetian blinds in the bar... |
 | stocktaking | 盘点，评估 | Bob Oz rounded off the stocktaking by sitting up straight... |
-| compulsion | 强迫，冲动 | ...this gave him a compulsion to seek out intimacy... |
-| unbridled | 无约束的 | Something suggesting an unbridled and dark sexuality... |
-| segue | 转换，过渡 | ...segueing into an equally intense lecture about... |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | shot glass | 小酒杯 | ...put the empty shot glass back down on the bar. |
 | reflection | 倒影 | ...saw his own reflection in the mirror... |
 | sink its teeth into | 啃噬，侵蚀 | ...the kind of face time didn’t seem to sink its teeth into. |
@@ -113,58 +113,18 @@ modified: "2026-09-07"
 | one-night-stand | 一夜情 | ...according to one of his one-night-stand ladies... |
 | hangover | 宿醉 | ...shake off the hangovers... |
 | pallid | 苍白的 | ...this pallid, ginger-haired guy could pull women... |
-| mascara | 睫毛膏 | A bit too much mascara. |
-| slanting | 斜的 | ...narrow, slightly slanting eyes. |
-| baggy | 宽松的 | A baggy T-shirt... |
-| lapel | 翻领 | ...took hold of the lapels of his cashmere coat... |
-| slurred | 含糊的 | ...heard how his speech was a little slurred. |
-| ballpark figure | 大概数字 | If you want a ballpark figure... |
-| hypothetical | 假设的 | The question is hypothetical... |
-| premature ejaculation | 早泄 | I’m scared of a premature ejaculation. |
-| assault | 攻击 | First the full-frontal assault, then the retreat, then the siege? |
-| retreat | 撤退 | First the full-frontal assault, then the retreat, then the siege? |
-| siege | 围攻 | First the full-frontal assault, then the retreat, then the siege? |
-| crutch | 拐杖 | ...picked up the crutch that had fallen to the floor... |
-| vibrate | 震动 | The phone in the inside pocket of his jacket began to vibrate. |
-| pissed off | 愤怒的 | Walker sounded pretty pissed off. |
-| dodgy | 可疑的 | ...checking the licences at a couple of dodgy premises. |
-| unmarked | 无标记的 | ...it was a Ford, but it was unmarked... |
-| Kojak light | 警灯（因电视剧 Kojak 得名） | So he took the Kojak light from the glove compartment... |
-| DUI | 酒驾（Driving Under Influence） | ...ordering a DUI test. |
-| bumper sticker | 保险杠贴纸 | ...tucked in behind a car with a blue bumper sticker. |
-| unelectable | 不可能当选的 | ...nominate an unelectable lunatic as their candidate. |
-| lunatic | 疯子 | ...an unelectable lunatic as their candidate. |
-| answering machine | 电话答录机 | ...the female voice on the answering machine. |
-| STI | 性传播疾病 | ...I’d given her a sexually transmitted disease... |
-| Ojibwe | 奥吉布瓦族（北美原住民） | ...her grandfather was an Ojibwe chieftain. |
-| pinch of salt | 半信半疑 | I take that with a pinch of salt... |
-| contrary to | 与…相反 | ...contrary to what you told me... |
-| windshield | 挡风玻璃 | Bob threw the phone at the windshield... |
-| glazed | 呆滞的 | Glazed eyes and slack mouth. |
-| slack | 松弛的 | Glazed eyes and slack mouth. |
-| berserk | 狂暴的 | What the fuck are you staring at? Never seen anyone go berserk before? |
-| blaring | 刺耳的 | ...he heard a horn blaring behind him. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
+| 词/短语 | 释义 | 例句 |
 | bar | 酒吧 | ...put the empty shot glass back down on the bar. |
 | whiskey | 威士忌 | ...as she poured his whiskey. |
 | bartender | 酒保 | ...looked up at the female bartender... |
 | tip | 小费 | You get tips for that line of yours, honey? |
 | condom | 避孕套 | ...tossed a small, rectangular plastic package onto the counter. |
 | counter | 吧台 | ...tossed a small, rectangular plastic package onto the counter. |
-| coffee | 咖啡 | ...let me buy you a cup of coffee some place else? |
-| phone | 电话 | The phone in the inside pocket of his jacket began to vibrate. |
-| chief | 局长，上司 | ...the caller was Superintendent Walker. |
-| notebook | 笔记本 | ...as he wrote in his notebook. |
-| car | 汽车 | Bob sat behind the steering wheel of the car... |
-| steering wheel | 方向盘 | Bob sat behind the steering wheel of the car... |
-| glove compartment | 手套箱 | So he took the Kojak light from the glove compartment... |
-| roof | 车顶 | ...pressed the magnetic foot down onto the roof... |
-| light | 灯 | ...checked that the blue light was on. |
-| gas | 油门 | Bob cursed under his breath and hit the gas. |
 
 ## 一句话总结
 
