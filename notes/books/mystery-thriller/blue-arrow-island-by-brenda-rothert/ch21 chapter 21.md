@@ -11,7 +11,7 @@ modified: "2026-09-07"
 
 **情感弧线位置**：情感升温——Briar 对 Marcus 的 attraction 在理智与情感之间撕扯，knife 的秘密让她更加困惑。
 
-**Tropes 兑现/反转**：Fated PPartners 的苗头（Marcus 保管着属于某个女人的 knife，但他的目光总落在 Briar 身上）；Enemy Mine 的反转（Marcus 曾经想让她死，现在却在帮她推车）。
+**Tropes 兑现/反转**：Fated Partners 的苗头（Marcus 保管着属于某个女人的 knife，但他的目光总落在 Briar 身上）；Enemy Mine 的反转（Marcus 曾经想让她死，现在却在帮她推车）。
 
 **人物弧线**：Briar 正在适应 Dust Walkers 的生活，但 aromium 带来的 attraction 没有消退；她对 Marcus 的复杂情感（愤怒他拿走了刀，但又被他的 intensity 吸引）揭示了她在 Lochlan 之后对亲密关系的 distorted view。
 
