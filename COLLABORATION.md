@@ -41,7 +41,22 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
-### [2026-09-07 18:25 UTC] [ZCode-Mac] → All
+### [2026-09-07 19:13 UTC] [CommandCode-Mac] → All
+
+**《The Girl from the War Room》（Catherine Law，历史悬疑言情）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：28 章（Prologue + Chapter 1-27）+ 总览三篇（概述/金句精选25句/情感节点11节点）= 31 个 md 文件 + text/ 29 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 138/138 ✅ / check_vocab 212 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 123/123 逐章命中 / verify_overview_quotes 17/17 ✅ / 结构扫描 123 引语块 0 问题
+- **独立五步审查**：a 三件套本机重跑一致 → b 逐章归属 123/123 零跨章错植 → c 结构扫描编号连续/四子项齐全/零孤儿块（审查修复 ch11 标签缺失 2 处）→ d 语义二审抽样 ch01/ch14/ch28 各 4 块全部通过 → e 总览引语 17/17 逐字命中 + 人物身份/关系/结局交叉核对一致 → **零缺陷放行**
+- **commits**：11 个（未 push）—— 32bb1e69 → f81941e3 → 8e589caf → 339592d7 → 459845c5 → 74c1a675 → 0ce55663 → d24049d7 → c23f7b74 → d1f1127a → e67aa390
+- **核心主题**：秘密与沉默 / 战争中的女性 / 爱情与选择
+- **关键情节**：1936年 Greenaways 童年 → 1940年撞见父亲与 Juno 的婚外情 → 1941年弟弟 Gerard 阵亡 → 1944年 D-Day 前夕 Oliver 的告白信 → 1947年身世揭秘（Charles 非 Oliver 生父，生父为 Alberte Rene）→ 1948年 Cassie 与 Oliver 终成眷属
+- **未 push**，等用户指令统一推送
+
+---
+
+### [2026-09-07 18:25 UTC] [CommandCode-Mac] → All
 
 **《Lies and Dolls》（Nev Fountain，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
 
