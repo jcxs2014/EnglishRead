@@ -75,55 +75,55 @@ modified: "2026-09-07"
 
 为什么这样写：Oz 的"stalking the memories"是追踪记忆——他在追踪回忆。"on repeat"是重复——这句话在脑海中重复。
 
-> **原句 12:** "Bob continued to sit there studying her face on the screen after he had ended the connection. He missed the picture of her that used to come up when she called. How beautiful she was. And how beautiful he had been in the brightness of her aura."
+> **原句 11:** "Bob continued to sit there studying her face on the screen after he had ended the connection. He missed the picture of her that used to come up when she called. How beautiful she was. And how beautiful he had been in the brightness of her aura."
 
 关键词：studying her face / ended the connection / missed / picture / used to come up / beautiful / brightness / aura
 
 为什么这样写：Oz 的"aura"是光环——Alice 的光环。"brightness"是明亮——她的明亮。
 
-> **原句 13:** "I was headed toward Town Taxidermy when, turning the corner, I caught sight of him. He was sitting on the step outside the store, talking on the phone. I stopped at once and ducked back around the corner. Peered out. Doubted that he had seen me, he was concentrating so much on the call. Even if he had seen me, he wouldn't have recognised me from such a distance. But my gaze was sharp, and he was easy to recognise in that special coat."
+> **原句 12:** "I was headed toward Town Taxidermy when, turning the corner, I caught sight of him. He was sitting on the step outside the store, talking on the phone. I stopped at once and ducked back around the corner. Peered out. Doubted that he had seen me, he was concentrating so much on the call. Even if he had seen me, he wouldn't have recognised me from such a distance. But my gaze was sharp, and he was easy to recognise in that special coat."
 
 关键词：headed toward / caught sight of / sitting on the step / talking on the phone / ducked back / Peered out / Doubted / concentrating / recognised / sharp / special coat
 
 为什么这样写：Goya 的"ducked back"是躲回——他躲回墙角。"special coat"是特殊外套——Oz 的橙色外套。
 
-> **原句 14:** "I went back the way I had come. There were still a few of the old phone booths left in the smaller towns scattered around, but this one here had to be the last in all Minneapolis. It stood on the outer edge of the sidewalk and had scratched-up concertina doors that clapped together when you opened them, and a phone book for the sister cities. I fed in a few coins and dialled a cell number. The call I was making was to the taxidermist, Mike Lunde."
+> **原句 13:** "I went back the way I had come. There were still a few of the old phone booths left in the smaller towns scattered around, but this one here had to be the last in all Minneapolis. It stood on the outer edge of the sidewalk and had scratched-up concertina doors that clapped together when you opened them, and a phone book for the sister cities. I fed in a few coins and dialled a cell number. The call I was making was to the taxidermist, Mike Lunde."
 
 关键词：phone booths / smaller towns / scattered around / last / Minneapolis / outer edge / sidewalk / scratched-up / concertina doors / clapped together / phone book / sister cities / fed in / coins / dialled / cell number / taxidermist / Mike Lunde
 
 为什么这样写：Goya 的"phone booths"是电话亭——老式电话亭。"concertina doors"是手风琴门——可以拉开的门。
 
-> **原句 15:** "‘Hello, Mike, some telepathy going on here.’ ‘Sorry?’ ‘I was just about to ring you. Where are you?’ ‘At home.’ ‘Not well?’ ‘Tired, that's all. I finished the Labrador this morning, finally got the eyes right. So I closed up and drove home to get some sleep. What's this about?’ ‘I think I know where Tomás Gomez is hiding out.’"
+> **原句 14:** "‘Hello, Mike, some telepathy going on here.’ ‘Sorry?’ ‘I was just about to ring you. Where are you?’ ‘At home.’ ‘Not well?’ ‘Tired, that's all. I finished the Labrador this morning, finally got the eyes right. So I closed up and drove home to get some sleep. What's this about?’ ‘I think I know where Tomás Gomez is hiding out.’"
 
 关键词：telepathy / just about to ring / At home / Tired / Labrador / finally got the eyes right / closed up / drove home / sleep / hiding out
 
 为什么这样写：Oz 的"telepathy"是心灵感应——他正要打电话给 Lunde。"Labrador"是拉布拉多犬——Lunde 做的狗标本。
 
-> **原句 16:** "‘He's circling round the place where his family died. He can't let go, it's the same as with that cat he wants you to stuff. Just like …’ Bob stopped. ‘Yes?’ said Mike. Bob swallowed. ‘It's the same as I've been doing with Alice and Frankie. We stalk memories.’"
+> **原句 15:** "‘He's circling round the place where his family died. He can't let go, it's the same as with that cat he wants you to stuff. Just like …’ Bob stopped. ‘Yes?’ said Mike. Bob swallowed. ‘It's the same as I've been doing with Alice and Frankie. We stalk memories.’"
 
 关键词：circling round / place where his family died / let go / cat / stuff / stalk memories
 
 为什么这样写：Oz 的"circling round"是绕圈——Goya 在绕圈。"let go"是放手——他放不下。
 
-> **原句 17:** "‘You said Gomez and his family had lived in Phillips West. Do you have that address?’ ‘He said something … I can't remember, Bob, I just woke up. But anyway, remember, his family didn't die in that house.’ ‘No, but that's the place where they were happy. Happiness is what we cling to, Mike.’"
+> **原句 16:** "‘You said Gomez and his family had lived in Phillips West. Do you have that address?’ ‘He said something … I can't remember, Bob, I just woke up. But anyway, remember, his family didn't die in that house.’ ‘No, but that's the place where they were happy. Happiness is what we cling to, Mike.’"
 
 关键词：Phillips West / address / can't remember / just woke up / didn't die / happy / cling to
 
 为什么这样写：Oz 的"cling to"是抓住——我们抓住幸福。"Phillips West"是社区名。
 
-> **原句 18:** "‘Just keeping my word.’ It took Bob a moment to understand. ‘You mean …? Has he …?’ ‘Yes. Tomás has been in touch.’ ‘How?’ ‘Just now. He called my cell phone.’ ‘What did he say?’ ‘Just said his name.’ ‘Just his name?’ ‘Yeah. He hung up almost straight away.’ ‘Where was he calling from?’ ‘I don't know, but it sounded like from a payphone. You know, the clink when the coins drop.’"
+> **原句 17:** "‘Just keeping my word.’ It took Bob a moment to understand. ‘You mean …? Has he …?’ ‘Yes. Tomás has been in touch.’ ‘How?’ ‘Just now. He called my cell phone.’ ‘What did he say?’ ‘Just said his name.’ ‘Just his name?’ ‘Yeah. He hung up almost straight away.’ ‘Where was he calling from?’ ‘I don't know, but it sounded like from a payphone. You know, the clink when the coins drop.’"
 
 关键词：keeping my word / in touch / cell phone / said his name / hung up / payphone / clink / coins drop
 
 为什么这样写：Lunde 的"keeping my word"是遵守诺言——他答应过要报告。"payphone"是投币电话——Goya 用投币电话。
 
-> **原句 19:** "‘Can you repeat for me the conversation in as much detail as you can, Mike?’ ‘Sure,’ said Mike. ‘But that won't be necessary.’ ‘Why not?’ ‘I used that app of yours.’ ‘You recorded the conversation?’ ‘Yes,’ Mike said with a quiet sigh of resignation. ‘Great. Great, Mike! I'm on my way over to you now to hear the recording.’"
+> **原句 18:** "‘Can you repeat for me the conversation in as much detail as you can, Mike?’ ‘Sure,’ said Mike. ‘But that won't be necessary.’ ‘Why not?’ ‘I used that app of yours.’ ‘You recorded the conversation?’ ‘Yes,’ Mike said with a quiet sigh of resignation. ‘Great. Great, Mike! I'm on my way over to you now to hear the recording.’"
 
 关键词：repeat / in as much detail / necessary / app / recorded / quiet sigh of resignation / on my way over / recording
 
 为什么这样写：Lunde 的"resignation"是无奈——他叹了口气。"app"是应用程序——录音应用。
 
-> **原句 20:** "‘What's your address?’ ‘It's quite a way, Bob. Know what, I'll meet you halfway. There's a McDonald's on 2nd Avenue and East Lake Street. See you there in thirty minutes?’"
+> **原句 19:** "‘What's your address?’ ‘It's quite a way, Bob. Know what, I'll meet you halfway. There's a McDonald's on 2nd Avenue and East Lake Street. See you there in thirty minutes?’"
 
 关键词：address / quite a way / meet you halfway / McDonald's / 2nd Avenue / East Lake Street / thirty minutes
 

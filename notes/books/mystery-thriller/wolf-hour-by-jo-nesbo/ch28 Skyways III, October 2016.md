@@ -79,7 +79,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"Got it"是敷衍——他不在乎。
 
-> **原句 10:** "What looked like people from a TV news team came hurrying in their direction. In the lead was a female reporter holding a microphone, with two men behind her, one carrying a camera with KSTP-TV on it."
+> **原句 9:** "What looked like people from a TV news team came hurrying in their direction. In the lead was a female reporter holding a microphone, with two men behind her, one carrying a camera with KSTP-TV on it."
 
 关键词：TV news team / in the lead / female reporter / microphone / KSTP-TV
 
@@ -87,7 +87,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"in the lead"是前面——她在最前面。
 
-> **原句 11:** "He had a quick think. Then he took out a loop from his coat pocket, took out the ID card, fastened it to the loop and hung it round his neck."
+> **原句 10:** "He had a quick think. Then he took out a loop from his coat pocket, took out the ID card, fastened it to the loop and hung it round his neck."
 
 关键词：quick think / loop / ID card / fastened / hung it round his neck
 
@@ -95,7 +95,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"quick think"是机智——他想到了办法。
 
-> **原句 12:** "‘Switch to KSTP,’ he said. The bartender laughed. ‘Fat chance. Can't you see the Timberwolves are playing?’ ‘Fat chance? Can't you see this card? It means you do what I damn well tell you to do.’"
+> **原句 11:** "‘Switch to KSTP,’ he said. The bartender laughed. ‘Fat chance. Can't you see the Timberwolves are playing?’ ‘Fat chance? Can't you see this card? It means you do what I damn well tell you to do.’"
 
 关键词：Switch to KSTP / bartender / Fat chance / Timberwolves / this card / damn well
 
@@ -103,7 +103,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"this card"是权威——他用警察证件施压。
 
-> **原句 13:** "‘… Track Plaza where police are hunting the suspect who shot and killed a man at Southdale Mall earlier this afternoon. There is a heavy police presence at the scene.’"
+> **原句 12:** "‘… Track Plaza where police are hunting the suspect who shot and killed a man at Southdale Mall earlier this afternoon. There is a heavy police presence at the scene.’"
 
 关键词：hunting / suspect / shot and killed / Southdale Mall / heavy police presence
 
@@ -111,7 +111,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"caught a glimpse"是看到——他在电视上看到了自己。
 
-> **原句 14:** "The view went split-screen, with the studio anchor on one half and the female reporter Bob had just seen on the other. ‘What's happening now, Shirley?’ ‘Right now we're standing on a skyway because everyone has been told to stay away from the place where the suspect may emerge.’"
+> **原句 13:** "The view went split-screen, with the studio anchor on one half and the female reporter Bob had just seen on the other. ‘What's happening now, Shirley?’ ‘Right now we're standing on a skyway because everyone has been told to stay away from the place where the suspect may emerge.’"
 
 关键词：split-screen / studio anchor / skyway / stay away / emerge
 
@@ -119,7 +119,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"Shirley"是记者名字——他记住了。
 
-> **原句 15:** "‘Tell me what's happening …’ a voice behind him said. He turned. It was Shirley, the reporter. She was standing up close to him and smiling invitingly. She took hold of his ID card ‘… Detective Bob Oz.’"
+> **原句 14:** "‘Tell me what's happening …’ a voice behind him said. He turned. It was Shirley, the reporter. She was standing up close to him and smiling invitingly. She took hold of his ID card ‘… Detective Bob Oz.’"
 
 关键词：voice behind him / turned / up close / smiling invitingly / took hold of / ID card
 
@@ -127,7 +127,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"took hold of"是拿起——她拿着他的证件看。
 
-> **原句 16:** "‘What's happening,’ said Bob, and heard how he slurred a consonant slightly as he fastened his gaze on her husky-blue eyes, ‘is that I am halfway down a Johnnie Walker and then you and I are going to have another one. Alice has kicked me out, I fuck everything that moves, and I'm suspended for defending myself against Tony. How about you, Divine Blue?’"
+> **原句 15:** "‘What's happening,’ said Bob, and heard how he slurred a consonant slightly as he fastened his gaze on her husky-blue eyes, ‘is that I am halfway down a Johnnie Walker and then you and I are going to have another one. Alice has kicked me out, I fuck everything that moves, and I'm suspended for defending myself against Tony. How about you, Divine Blue?’"
 
 关键词：slurred / consonant / fastened his gaze / husky-blue eyes / halfway down / Johnnie Walker / kicked me out / fuck everything that moves / defending myself / Divine Blue
 
@@ -135,7 +135,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"Divine Blue"是调情——他在叫记者"神圣蓝"。
 
-> **原句 17:** "‘Sorry, Rick, strike one,’ she said laughing into the microphone which Bob now saw for the first time. ‘Back to you.’ She removed an earphone from under the long red hair, the smile was gone, and she wasn't laughing along with the cameraman and sound technician crouched behind her."
+> **原句 16:** "‘Sorry, Rick, strike one,’ she said laughing into the microphone which Bob now saw for the first time. ‘Back to you.’ She removed an earphone from under the long red hair, the smile was gone, and she wasn't laughing along with the cameraman and sound technician crouched behind her."
 
 关键词：strike one / microphone / for the first time / removed / earphone / crouched
 
@@ -143,7 +143,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"for the first time"是发现——他第一次看到麦克风。
 
-> **原句 18:** "‘What the fuck,’ said Bob. ‘Did that go out live?’ ‘Just local TV,’ Shirley said sourly, in a tone that suggested she was aiming for bigger things. ‘But this'll be out on YouTube soon enough.’"
+> **原句 17:** "‘What the fuck,’ said Bob. ‘Did that go out live?’ ‘Just local TV,’ Shirley said sourly, in a tone that suggested she was aiming for bigger things. ‘But this'll be out on YouTube soon enough.’"
 
 关键词：What the fuck / go out live / local TV / sourly / aiming for bigger things / YouTube
 
@@ -151,7 +151,7 @@ modified: "2026-09-07"
 
 读者视角提示：Reporter 的"sourly"是酸溜溜——她不满意。
 
-> **原句 19:** "‘He isn't …’ Bob started to say, but Shirley and her team were already on their way out. Bob swore, paid and left."
+> **原句 18:** "‘He isn't …’ Bob started to say, but Shirley and her team were already on their way out. Bob swore, paid and left."
 
 关键词：started to say / on their way out / swore / paid and left
 
@@ -159,7 +159,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"paid and left"是离开——他付了钱走了。
 
-> **原句 20:** "People were crowded onto the skyway and trying to get a view into Track Plaza. Super Mario was among them, with his cleaning cart. Bob approached him. ‘Excuse me,’ he said, flashing his ID card. ‘I saw you talking to a guy who just came out of the restroom. It looked like he was explaining about something inside, what was it?’"
+> **原句 19:** "People were crowded onto the skyway and trying to get a view into Track Plaza. Super Mario was among them, with his cleaning cart. Bob approached him. ‘Excuse me,’ he said, flashing his ID card. ‘I saw you talking to a guy who just came out of the restroom. It looked like he was explaining about something inside, what was it?’"
 
 关键词：crowded / skyway / view / Super Mario / cleaning cart / flashing / explaining
 
@@ -167,7 +167,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"cleaning cart"是细节——清洁工的推车。
 
-> **原句 21:** "Super Mario looked up at Bob. ‘The fan has fallen out.’ ‘The fan?’ ‘The fan in the ceiling. It's hanging open. He said someone should fix it.’ ‘You mean the fan in front of the ventilation shaft?’ ‘Yeah.’"
+> **原句 20:** "Super Mario looked up at Bob. ‘The fan has fallen out.’ ‘The fan?’ ‘The fan in the ceiling. It's hanging open. He said someone should fix it.’ ‘You mean the fan in front of the ventilation shaft?’ ‘Yeah.’"
 
 关键词：fan / fallen out / ceiling / hanging open / ventilation shaft
 
@@ -175,7 +175,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"ventilation shaft"是关键词——他找到了线索。
 
-> **原句 22:** "Kay watched as yet another man emerged from the restroom and froze at the sight of the weapons pointing his way. ‘He's been in there nearly ten minutes now,’ she said to O'Rourke and Hanson. ‘Maybe he knows we're here,’ said O'Rourke. ‘Sir!’ Kay stopped the man who was being ushered past them. ‘Did you see anyone else in there?’ The man shook his head and was led away. ‘Maybe Gomez has noticed that people are going out but no one's coming in,’ said Kay."
+> **原句 21:** "Kay watched as yet another man emerged from the restroom and froze at the sight of the weapons pointing his way. ‘He's been in there nearly ten minutes now,’ she said to O'Rourke and Hanson. ‘Maybe he knows we're here,’ said O'Rourke. ‘Sir!’ Kay stopped the man who was being ushered past them. ‘Did you see anyone else in there?’ The man shook his head and was led away. ‘Maybe Gomez has noticed that people are going out but no one's coming in,’ said Kay."
 
 关键词：emerged / froze / weapons / pointing / nearly ten minutes / ushered / shook his head / noticed / going out / coming in
 
@@ -183,7 +183,7 @@ modified: "2026-09-07"
 
 读者视角提示：Kay 的"noticed"是观察——她意识到 Gomez 发现了。
 
-> **原句 23:** "‘He's getting away!’ The shout came from behind them and all three turned round. They saw Bob Oz trying to get past the two uniformed police officers who were holding him back. ‘Get that guy out of here!’ O'Rourke yelled. ‘Wait,’ said Kay. ‘The ventilation shaft,’ Bob shouted. ‘It's open!’"
+> **原句 22:** "‘He's getting away!’ The shout came from behind them and all three turned round. They saw Bob Oz trying to get past the two uniformed police officers who were holding him back. ‘Get that guy out of here!’ O'Rourke yelled. ‘Wait,’ said Kay. ‘The ventilation shaft,’ Bob shouted. ‘It's open!’"
 
 关键词：getting away / shout / turned round / trying to get past / holding him back / yelled / Wait / ventilation shaft / open
 
@@ -191,7 +191,7 @@ modified: "2026-09-07"
 
 读者视角提示：Kay 的"Wait"是暂停——她阻止了 O'Rourke。
 
-> **原句 24:** "The leader signalled to one of the SWAT team, who opened the door slightly and rolled in a stun grenade. Kay could hear the sound of the grenade bouncing across the tiled floor. The door was closed. She put her hands over her ears, heard two dull thuds and then the SWAT team swarmed in."
+> **原句 23:** "The leader signalled to one of the SWAT team, who opened the door slightly and rolled in a stun grenade. Kay could hear the sound of the grenade bouncing across the tiled floor. The door was closed. She put her hands over her ears, heard two dull thuds and then the SWAT team swarmed in."
 
 关键词：signalled / opened the door slightly / rolled in / stun grenade / bouncing / tiled floor / hands over her ears / dull thuds / swarmed in
 
@@ -199,7 +199,7 @@ modified: "2026-09-07"
 
 读者视角提示：Kay 的"hands over her ears"是保护——她捂住耳朵。
 
-> **原句 25:** "Bob followed Olav Hanson and Kay Myers into the restroom. He saw at once that next to where the fan was hanging down was a hinged door in the ceiling, above one of the cubicles. It looked like it was possible to squeeze in through the hole."
+> **原句 24:** "Bob followed Olav Hanson and Kay Myers into the restroom. He saw at once that next to where the fan was hanging down was a hinged door in the ceiling, above one of the cubicles. It looked like it was possible to squeeze in through the hole."
 
 关键词：followed / at once / fan / hanging down / hinged door / ceiling / cubicle / squeeze in / hole
 
@@ -207,7 +207,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"squeeze in"是挤进去——Gomez 从那里挤进去。
 
-> **原句 26:** "He picked something up out of the shaft and handed it down to his leader. ‘What is this?’ asked O'Rourke. ‘It's an insulin needle,’ Bob said behind him. ‘Gomez has diabetes. He's trying to crawl out through there. Isn't anyone going to go in after him?’"
+> **原句 25:** "He picked something up out of the shaft and handed it down to his leader. ‘What is this?’ asked O'Rourke. ‘It's an insulin needle,’ Bob said behind him. ‘Gomez has diabetes. He's trying to crawl out through there. Isn't anyone going to go in after him?’"
 
 关键词：picked something up / shaft / handed it down / insulin needle / diabetes / crawl out / go in after him
 
@@ -215,7 +215,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"crawl out"是爬行——Gomez 爬出去。
 
-> **原句 27:** "Bob locked eyes with the SWAT boss. ‘No?’ said O'Rourke. He pulled off his helmet, unfastened the bulletproof vest, handed his rifle and his pistol to one of his men. ‘Good thing Bonzo's up for it then.’"
+> **原句 26:** "Bob locked eyes with the SWAT boss. ‘No?’ said O'Rourke. He pulled off his helmet, unfastened the bulletproof vest, handed his rifle and his pistol to one of his men. ‘Good thing Bonzo's up for it then.’"
 
 关键词：locked eyes / pulled off / helmet / unfastened / bulletproof vest / handed / rifle / pistol / Bonzo / up for it
 
@@ -223,7 +223,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"up for it"是愿意——他愿意去。
 
-> **原句 28:** "They heard a rumbling in the shaft and then O'Rourke was gone. One of his men held a phone as the others gathered round. Bob went over and looked at the screen. The mere sight of it gave him claustrophobia. In the cone of light cast in front of O'Rourke's camera all that was visible were his hands and the cylindrical walls of the shaft, and now and then the jerking of the light flashed on the pistol he was holding in one hand."
+> **原句 27:** "They heard a rumbling in the shaft and then O'Rourke was gone. One of his men held a phone as the others gathered round. Bob went over and looked at the screen. The mere sight of it gave him claustrophobia. In the cone of light cast in front of O'Rourke's camera all that was visible were his hands and the cylindrical walls of the shaft, and now and then the jerking of the light flashed on the pistol he was holding in one hand."
 
 关键词：rumbling / gone / held a phone / gathered round / screen / mere sight / claustrophobia / cone of light / cylindrical walls / jerking / pistol
 
@@ -231,7 +231,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"cylindrical walls"是圆柱形——管道是圆的。
 
-> **原句 29:** "‘There's a fan up ahead here,’ O'Rourke whispered. Soon those gathered around the phone saw the same thing, a large fan at the end of the shaft where it split left and right at a T-junction."
+> **原句 28:** "‘There's a fan up ahead here,’ O'Rourke whispered. Soon those gathered around the phone saw the same thing, a large fan at the end of the shaft where it split left and right at a T-junction."
 
 关键词：up ahead / whispered / large fan / split left and right / T-junction
 
@@ -239,7 +239,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"split"是分叉——管道分成左右。
 
-> **原句 30:** "The SWAT leader pushed the fan several times before it swung out and down on its hinges. He put his head out. On the screen Bob saw the deserted yard with trucks and loading bays closed up for the night. Two uniformed officers came running into the yard with walkie-talkies crackling and guns drawn."
+> **原句 29:** "The SWAT leader pushed the fan several times before it swung out and down on its hinges. He put his head out. On the screen Bob saw the deserted yard with trucks and loading bays closed up for the night. Two uniformed officers came running into the yard with walkie-talkies crackling and guns drawn."
 
 关键词：pushed / swung out / hinges / put his head out / deserted yard / trucks / loading bays / walkie-talkies / crackling / guns drawn
 
@@ -247,7 +247,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"guns drawn"是拔枪——警察拔枪。
 
-> **原句 31:** "‘Gomez must be a tough guy,’ said O'Rourke, turning his head downward so that his audience could see it was a drop of at least eight yards to the asphalt. ‘Either he knows how to fall properly or he's out there somewhere dragging a broken leg behind him.’"
+> **原句 30:** "‘Gomez must be a tough guy,’ said O'Rourke, turning his head downward so that his audience could see it was a drop of at least eight yards to the asphalt. ‘Either he knows how to fall properly or he's out there somewhere dragging a broken leg behind him.’"
 
 关键词：tough guy / turning his head downward / audience / drop / eight yards / asphalt / dragging / broken leg
 
@@ -255,7 +255,7 @@ modified: "2026-09-07"
 
 读者视角提示：Oz 的"dragging"是拖拽——Gomez 可能拖着断腿。
 
-> **原句 32:** "I walked quickly through the downtown streets, between the deserted office blocks, past the empty alleyways where it wasn't safe after dark. But I wasn't afraid. Not any more. They were the ones who should have been afraid."
+> **原句 31:** "I walked quickly through the downtown streets, between the deserted office blocks, past the empty alleyways where it wasn't safe after dark. But I wasn't afraid. Not any more. They were the ones who should have been afraid."
 
 关键词：walked quickly / downtown / deserted office blocks / empty alleyways / safe after dark / afraid / not any more
 
@@ -263,7 +263,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"deserted"是废弃——办公室空无一人。
 
-> **原句 33:** "My racing pulse told me only that I was alive, I felt things, and for the first time in a long time. This was dangerous, enjoyably dangerous. The only thing that worried me was that I'd made it a little more exciting than necessary. As though something in me wanted to give them the chance to stop me."
+> **原句 32:** "My racing pulse told me only that I was alive, I felt things, and for the first time in a long time. This was dangerous, enjoyably dangerous. The only thing that worried me was that I'd made it a little more exciting than necessary. As though something in me wanted to give them the chance to stop me."
 
 关键词：racing pulse / alive / felt things / for the first time in a long time / enjoyably dangerous / worried / exciting / necessary / give them the chance
 
@@ -271,7 +271,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"as though"是好像——他在自我分析。
 
-> **原句 34:** "Is that what I wanted? Of course not. I had given myself a task. Or had I? Was I even really the one who had given me the task? What I did know was that it had to be completed, that I mustn't give in to the temptation of peace, of at last being able to sleep in the same bed as you, my beloved, of holding our children."
+> **原句 33:** "Is that what I wanted? Of course not. I had given myself a task. Or had I? Was I even really the one who had given me the task? What I did know was that it had to be completed, that I mustn't give in to the temptation of peace, of at last being able to sleep in the same bed as you, my beloved, of holding our children."
 
 关键词：task / temptation / peace / sleep in the same bed / beloved / holding our children
 
@@ -279,7 +279,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"holding our children"是抱着孩子——他怀念。
 
-> **原句 35:** "Nor could I let myself be distracted by moral queasiness and short-sightedness. The sum total of suffering for all innocents would be so much greater if I failed to complete the task than the suffering it would cause to a handful of innocent people. I had to steel myself. Only two days to go now."
+> **原句 34:** "Nor could I let myself be distracted by moral queasiness and short-sightedness. The sum total of suffering for all innocents would be so much greater if I failed to complete the task than the suffering it would cause to a handful of innocent people. I had to steel myself. Only two days to go now."
 
 关键词：distracted / moral queasiness / short-sightedness / sum total / suffering / innocents / handful / steel myself / two days to go
 
@@ -287,7 +287,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"two days to go"是倒计时——只剩两天。
 
-> **原句 36:** "A family came walking toward me along the sidewalk. Talking and laughing, they sounded happy, maybe they'd been to the movies, or eaten out at a restaurant. Maybe they thought nothing bad could happen to them because they did everything right; they worked hard, helped out in the community, helped those who carried a heavier burden than themselves."
+> **原句 35:** "A family came walking toward me along the sidewalk. Talking and laughing, they sounded happy, maybe they'd been to the movies, or eaten out at a restaurant. Maybe they thought nothing bad could happen to them because they did everything right; they worked hard, helped out in the community, helped those who carried a heavier burden than themselves."
 
 关键词：family / walking toward / sidewalk / talking / laughing / happy / movies / restaurant / everything right / worked hard / community / heavier burden
 
@@ -295,7 +295,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"heavier burden"是重担——帮助负担更重的人。
 
-> **原句 37:** "‘Hola,’ I called out as I passed them. But got no response this time, just looks of mild surprise, as though they couldn't work out if it was some kind of joke."
+> **原句 36:** "‘Hola,’ I called out as I passed them. But got no response this time, just looks of mild surprise, as though they couldn't work out if it was some kind of joke."
 
 关键词：Hola / called out / no response / looks of mild surprise / work out / joke
 
@@ -303,7 +303,7 @@ modified: "2026-09-07"
 
 读者视角提示：Gomez 的"work out"是理解——他们不理解。
 
-> **原句 38:** "I swallowed. Had to keep my concentration up. Couldn't relax. Even a slight mistake could tip the whole thing over. But, afterward, let it all fall down."
+> **原句 37:** "I swallowed. Had to keep my concentration up. Couldn't relax. Even a slight mistake could tip the whole thing over. But, afterward, let it all fall down."
 
 关键词：swallowed / keep my concentration up / relax / slight mistake / tip the whole thing over / afterward / let it all fall down
 
