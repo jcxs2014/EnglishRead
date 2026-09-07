@@ -29,7 +29,7 @@ modified: "2026-09-07"
 
 > **原句 2:** Bombs exploding, somewhere. No longer red squares that she might place on a map, but real and vivid, tearing into London, invading the city, and yet still strangely distant, like someone angrily kicking a barrel in another room.
 
-**理解**：炸弹在某个地方爆炸。不再是她可以在地图上放置的红色方块，而是真实的、生动的，撕裂伦敦，入侵城市，却又奇怪地遥远，就像有人在另一个房间里生气地踢桶。
+**中文理解**：炸弹在某个地方爆炸。不再是她可以在地图上放置的红色方块，而是真实的、生动的，撕裂伦敦，入侵城市，却又奇怪地遥远，就像有人在另一个房间里生气地踢桶。
 
 **关键词**：no longer red squares / real and vivid / strangely distant / kicking a barrel
 
@@ -41,7 +41,7 @@ modified: "2026-09-07"
 
 > **原句 3:** 'Pulvis et umbra sumus,' he said. 'We are but dust and shadows.' / He made perfect sense to Cassie, seemed to speak to something deep inside her. Deeper than she knew existed.
 
-**理解**："我们都是尘土和阴影，"他说。/ Oliver 的话对 Cassie 来说完全有意义，似乎在对她内心深处的什么东西说话。比她知道的更深的地方。
+**中文理解**："我们都是尘土和阴影，"他说。/ Oliver 的话对 Cassie 来说完全有意义，似乎在对她内心深处的什么东西说话。比她知道的更深的地方。
 
 **关键词**：Pulvis et umbra sumus / dust and shadows / deeper than she knew existed
 
