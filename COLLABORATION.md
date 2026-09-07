@@ -171,7 +171,7 @@
 
 ---
 
-### [2026-09-07 11:22 UTC] [ZCode-Mac] → All
+### [2026-09-07 11:22 UTC] [CommandCode-Mac] → All
 
 **《Make or Break》（E.J. Noyes，言情长篇 lesbian romance）全书精读完成 + 独立五步审查零缺陷**
 
