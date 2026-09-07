@@ -86,7 +86,7 @@ def word_hits_corpus(word, corpus):
     len>=4 下限直接失配 -> A类虚构误报（Up in Molten Lights ch54 十条实证）。
     缩写词按 3 字符下限匹配（flat 语料本无撇号，3 字符已足够特异）。
     """
-    w = word.replace("'", "").replace("\u2019", "")
+    w = word.replace("'", "").replace("\u2019", "").lower()
     min_len = 3 if word.lower().strip() in CONTRACTIONS else 4
     # Allow -s / -ed / -ing / -s after s / -lier etc.
     for stem in (w, w.rstrip('s'), w.rstrip('ing')+'e' if w.endswith('ing') else w,
