@@ -213,15 +213,17 @@
 
 | 工具 | 用途 | 用法 |
 |---|---|---|
-| `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号 |
-| `verify_quotes.py` | 引语块逐字核对门禁 | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
+| `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号；**提取后必核件数=章数**（短章可能被 min-len 滤掉） |
+| `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式与言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑） |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
-| `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"`——引语必须命中该章自己的 text/chNN.txt |
-| `verify_overview_quotes.py` | 总览文件引文门禁（概述/金句精选/情感节点不在 verify_quotes 主口径内） | `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"`；总览完成后立即跑，FAIL 须修复 |
+| `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"` 或 `--book-dir <书目录>` 全书扫描——引语必须命中该章自己的 text/chNN.txt |
+| `verify_overview_quotes.py` | 总览文件引文门禁（概述/金句精选/情感节点不在 verify_quotes 主口径内） | `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"`；总览完成后立即跑，FAIL 须修复；**概述行内英文引语不在口径内，须逐条人工 grep** |
+| `check_crossref.py` | 分析层交叉引用校验（`chNN "引语"` 是否指对章；Forest of Scars 16/21 审查缺陷源） | `python3 scripts/check_crossref.py "<书目录>"`；五步审查 d 步必跑；**报警须人工读行复核**（同行多引用会误配） |
 | `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
+工具使用时机速查见 `docs/新书启动模板.md` "🕐 门禁时序表"。
 规则：书籍批次 commit 前至少跑完 1→2→总览门禁；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
 
 ## git 与推送策略
