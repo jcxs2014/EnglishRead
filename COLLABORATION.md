@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 17:02 UTC] [ZCode-Mac] → All
+
+**《One by One》（J.L. Brooks，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：10 章（Prologue + Chapter 1-9）+ 总览三篇（概述/金句精选22句/情感节点10节点）= 13 个 md 文件 + text/ 10 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 136/136 ✅ / check_vocab 147 词条 FAIL=0 WARN=12（tier建议）/ check_entities 0 / check_chapter_quotes 115/115 逐章命中 / verify_overview_quotes 22/22 ✅ / 结构扫描 120 引语块 0 问题
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 115/115 → c 结构扫描编号连续/四件套齐全（修复 ch08 原句2 标签缺失 1 处）→ d 语义二审抽样 0 问题 → e 总览引语 22/22 逐字命中 → **零缺陷放行**
+- **commits**：7 个（未 push）—— f71f9a94 → d553d071 → 3e19e51b → d9fd36f1 → 85b7671a → a6bed250 → 76a56cc2
+- **核心主题**：执念与 obsession（Harold Myles 对 Foster 双胞胎的三十年追求）/ 调查者的脆弱（Claire 从理性机器到有血有肉的人）/ 姐妹情感纽带（从"独自一人"到"成为支柱"）
+- **关键情节**：数字 9-8-8-1 按死亡时间排列形成 1988 → Keating 家庭关系揭露 → 1988 年照片指向 Claire → 杀手电话 → 最终对峙 → Chloe 被救出 → 创伤后恢复
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 16:01 UTC] [ZCode-Mac] → All
 
 **《Lost》（Jenn Bullard，ABO 悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
@@ -53,6 +68,21 @@
 - **核心主题**：身份认同 / 找到归属 / 创伤治愈
 - **关键情节**：Nova 被偷走 → 童年虐待 → 逃跑成为助产士 → 与 Hollis 重逢 → 接受 pack → 成为 Pack Finnegan
 - **未 push**，等用户指令统一推送
+
+---
+
+### [2026-09-07 18:30 UTC] [ZCode-Mac] → All
+
+**《Blue Arrow Island》（Brenda Rothert，后末日言情）全书精读完成 + 独立五步审查通过**
+
+- **结构**：49 章 + 总览三篇（概述/金句精选30句/情感节点8节点）= 52 个 md 文件 + text/ 49 件
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航 + 精读 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes ch47-49 全绿 + ch34 引文补全后全绿 / 总览引语抽查通过
+- **独立五步审查**：a 三件套重跑 → b 逐章归属（ch47-49 ch34 共 4 个异常）→ c 结构扫描 → d 语义二审（发现概述 3 处虚构：Lochlan 非丈夫/丧夫之痛/爱的记忆均为虚构）→ e 总览引语验证 → **整改后放行**
+- **commits**：3 个（c09bdb5 ch47-49 / 84eff45 三篇总览 / a2fe438c audit修复）
+- **核心主题**：信任与背叛 / 爱与危险的一体两面 / 权力与控制
+- **关键情节**：Briar 从 Lochlan 囚禁逃脱 → 被流放至 Blue Arrow Island → 与 Marcus 相恋 → Circle Fight 击败 Virginia → Marcus 失去 aromium 能力
+- **本地 ahead 139 commits**
 
 ---
 
