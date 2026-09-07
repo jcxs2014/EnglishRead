@@ -100,7 +100,7 @@ modified: "2026-09-07"
 | narrow / twisting road | 狭窄弯曲的道路 | ...the narrow, twisting road... |
 | hundred yards | 一百码 | ...almost a hundred yards away... |
 | old lady | 老太太 | ...a funny, clucking, little old woman laugh. |
-| wilderness | 荒野 | ...more or less wilderness country. |
+| wilderness | 荒野 | ...the wild sound of birdsong that had accompanied her walk so far had now stopped... |
 
 ### ⭐⭐ 进阶（10条）
 
