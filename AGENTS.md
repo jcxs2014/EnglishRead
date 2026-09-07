@@ -219,7 +219,7 @@
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
 | `check_chapter_quotes.py` | 逐章严格校验（防跨故事搬句；凡有 text/ 提取件的书一律加跑，见第 9 条 e） | `python3 scripts/check_chapter_quotes.py <NN> "<md路径>"` 或 `--book-dir <书目录>` 全书扫描——引语必须命中该章自己的 text/chNN.txt |
 | `verify_overview_quotes.py` | 总览文件引文门禁（概述/金句精选/情感节点不在 verify_quotes 主口径内） | `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"`；总览完成后立即跑，FAIL 须修复；**概述行内英文引语不在口径内，须逐条人工 grep** |
-| `check_crossref.py` | 分析层交叉引用校验（`chNN "引语"` 是否指对章；Forest of Scars 16/21 审查缺陷源） | `python3 scripts/check_crossref.py "<书目录>"`；五步审查 d 步必跑；**报警须人工读行复核**（同行多引用会误配） |
+| `check_crossref.py` | 分析层交叉引用校验（`chNN "引语"` 是否指对章；Forest of Scars 16/21 审查缺陷源） | `python3 scripts/check_crossref.py "<书目录>"`；五步审查 d 步必跑；**报警≠缺陷**——两类误配须人工读行复核（同行多 chNN 引用错误配对；跨章回忆式转述），确认引语确属虚构/错章才算缺陷 |
 | `pick_quotes.py` | 检索式选句辅助（从章节文本等距抽候选句，Hermes 产，未入库） | `python3 scripts/pick_quotes.py <NN> [count]`——把"选句"从生成变检索的雏形工具 |
 | `audit_book.py` | 一键总账（接任务定损/验收/push 巡检） | `python3 scripts/audit_book.py "<书目录>" > 报告.md`（A 库存对账+**text/ vs epub 一致性抽检（防语料污染）** B 引文 C 格式 D 词汇实体） |
 
