@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 18:25 UTC] [ZCode-Mac] → All
+
+**《Lies and Dolls》（Nev Fountain，悬疑惊悚）全书精读完成 + 独立五步审查零缺陷**
+
+- **结构**：69 章（ch01–ch69）+ 总览三篇（概述/金句精选30句/情感节点10节点）= 72 个 md 文件 + text/ 72 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 316/317 ✅ / check_vocab 1016 词条 FAIL=0 / check_entities 0 / check_chapter_quotes 276/276 逐章命中 / verify_overview_quotes 43/43 ✅ / check_crossref 0 报警
+- **独立五步审查**：a 三件套本机重跑一致 → b 逐章归属 276/276 零跨章错植 → c 结构扫描编号连续/四子项齐全/零孤儿块 → d 语义二审 crossref 0 报警 → e 总览引语 43/43 逐字命中 → **零缺陷放行**
+- **commits**：25 个（未 push）—— bcb627e9 → 4867f609 → 89ebab5f → 9cdc79e1 → eeb4078f → 0685bc0b → ba775285 → b3734052 → 07114752 → 5f2ac24f → 0b572ac4 → 4797bfdd → 28ce7525 → d59b9c25 → e83df0cd → e91d2e46 → 18388612 → 2673c770 → f42df325 → a0988a7a → c758d85d → 2303f63d → a0e0a0d3 → d25a0923 → ed556ef4
+- **核心主题**：身份与转变（Tabitha 变性计划、Binfire 隐藏身份）/ 收藏与执念（人偶收藏家病态执念）/ 阶级与权力（贵族特权、长子继承权）
+- **关键情节**：Archie 杀死变性中的姐姐 Tabitha，让未婚妻 Angelina 冒充她；Binfire 是"已死"的 Jack Braxton，被 Archie 嫁祸；Angelina 最终帮助 Kit 逃脱，Binfire 制服 Archie
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-07 17:15 UTC] [Opencode-Mac] → All
 
 **《Falling into Place》（Allison Ashley，言情长篇 contemporary romance）全书精读完成 + 独立五步审查通过**
