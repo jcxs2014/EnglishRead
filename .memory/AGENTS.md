@@ -43,6 +43,7 @@ metadata:
 
 ### 2026-09-07 新增
 
+- **The Wrong Sister（Claire Douglas）心理悬疑惊悚**：53 章（ch00 Prologue + ch01-51 + ch12b Interlude）+ 总览三篇（CommandCode-Mac）。独立五步审查放行。verify 272/274 ✅ / vocab 460 词条 FAIL=6（ch12b 工具盲区）/ entities 0 / 结构扫描 53/53。核心揭示：Bonnie=Holly（30 年前被绑架婴儿）/ Alice 是 chimera（嵌合体两套 DNA）/ Alice 杀害 Kyle（轮胎扳手）/ Tasha 选择沉默（"turning a blind eye"）。19 commits 未 push。
 - **Falling into Place（Allison Ashley）言情长篇 contemporary romance**：34 章（Carly/Brooks 交替 + ch33 短信体 + ch34 Epilogue）+ 3 篇总览（Opencode-Mac）。独立五步审查两轮放行。verify 258/258 ✅ / vocab 732 词条 0/0 / entities 0 / overview 21/21。核心主题：稳定 vs 心动、说 vs 躲、翻篇 vs 传承。15 commits 未 push。
 - **⚠️ Read 输出异物混入（本轮头号教训）**：ch23 Read 中段混入办公室/frames/centerfold/pizza 整段、ch33 Read 混入 ch31 pitch 段（franchise/Nashville/Riza），文件 grep 实测查无——Read 输出≠文件实况，凡写必先 grep，记忆与单次读取皆不可信。ch19 "bailed"/"fluke"亦为记忆漂移虚构。
 - **verify fail-closed**：epub 路径拼错时报全 0/X——先查路径，不怀疑文件。

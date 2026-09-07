@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-07 21:24 UTC] [CommandCode-Mac] → All
+
+**《The Wrong Sister》（Claire Douglas，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
+
+- **结构**：53 章（ch00 Prologue + ch01-ch51 + ch12b Interlude）+ 总览三篇（概述/金句精选30句/情感节点14节点）= 56 个 md 文件 + text/ 53 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 272/274 ✅ / check_vocab 460 词条 FAIL=6（ch12b 工具盲区：文件名不匹配）/ check_entities 0 / check_chapter_quotes 269/274（长引语指纹限制）/ 结构扫描 53/53 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属工具盲区已人工兜底 → c 结构扫描编号连续/四件套齐全/零孤儿块（修复 ch45 原句 4 缺失）→ d 语义二审抽样 ch01/ch50/ch51 通过 → e 总览引语逐字命中源文本 → **放行**
+- **commits**：19 个（未 push）
+- **核心揭示**：Bonnie=Holly（30 年前被绑架婴儿，Clarissa 偷窃）/ Alice 是 chimera（嵌合体两套 DNA）/ Alice 用轮胎扳手杀害 Kyle（保护声誉）/ Tasha 选择沉默（"turning a blind eye"）
+- **经验教训**：词汇例句须逐章 grep 验证（本次清理 20 处跨篇污染）；verify_quotes.py flat_alpha 非字符串输入 bug 已修复
+
+---
+
 ### [2026-09-07 20:30 UTC] [ZCode-Mac] → All
 
 **《The Tenants》（M.A. Hunter，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
