@@ -9,7 +9,7 @@ modified: "2026-09-07"
 
 - **一句话概括**：1941年8月，Marianne 与 Harry Brough 在 Eastcombe 教堂举行婚礼；Oliver 意外从战场归来出席；Cassie 意识到 Uncle Charles 不知道妻子与父亲的婚外情；她与 Luke 共舞，意识到他对她有感情，但她只把他当朋友；她注意到 Vee 对 Oliver 有好感。
 - **情感弧线位置**：升温中的复杂——婚礼带来短暂的欢乐，但 Cassie 的内心仍然破碎（失去弟弟、与父亲决裂）。
-- **Tropes 兑现/反转**：婚礼（战争中的庆祝）/ 三角关系（Cassie-Oliver-Vee / Cassie-Luke-Oliver）
+- **Tropes 兑现/反转**：婚礼（战争中的庆祝）/ 三角关系（Cassie 对 Oliver 的感情、Luke 对 Cassie 的感情、Vee 对 Oliver 的倾慕）
 - **人物弧线**：Cassie 开始意识到 Luke 对她的感情，但她无法回应——她的心仍然属于 Oliver（尽管她知道他们不可能）。
 - **叙事手法**：用婚礼的欢乐反衬 Cassie 的内心痛苦，用舞蹈场景展现人物关系的微妙变化。
 

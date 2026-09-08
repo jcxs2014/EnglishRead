@@ -39,15 +39,15 @@ modified: "2026-09-07"
 
 ---
 
-> **原句 3:** And yet, it felt to Cassie that Vee had just raked her face with her fingernails.
+> **原句 3:** And yet, again, Cassie felt a chasm widen between them, the intimacy of her exchange with Oliver not a quarter of an hour before as they had taken in the view now negated and irrelevant.
 
-**中文理解**：但在 Cassie 看来，Vee 刚刚用指甲抓破了她的脸。
+**中文理解**：然而，Cassie 再次感到一道鸿沟在他们之间扩大——不到一刻钟前他们一起欣赏风景时的亲密，现在已被否定和变得无关紧要。
 
-**关键词**：raked her face with her fingernails
+**关键词**：chasm widen / intimacy / negated and irrelevant
 
-**为什么这样写**：这个比喻是全书最强烈的嫉妒表达——Cassie 的痛苦不是抽象的，而是物理的、血淋淋的。"raked her face"（抓破脸）暗示 Cassie 感到自己被公开羞辱。
+**为什么这样写**："chasm widen"（鸿沟扩大）是全书最强烈的孤独表达——Cassie 感到自己与 Oliver 之间的距离在拉大。"negated and irrelevant"（被否定和变得无关紧要）暗示 Cassie 意识到 Oliver 对她的亲密可能只是她的错觉。
 
-**读者视角提示**：Cassie 对 Oliver 的感情从未说出口，但这一刻，读者清楚地看到——她爱他，而他对她的感情一无所知（或选择不知道）。
+**读者视角提示**：这段描写展现了 Cassie 的觉醒——她开始意识到 Oliver 可能并不像她爱他那样爱她。
 
 ---
 
