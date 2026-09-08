@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | crowbar | 撬棍 | a crowbar |
 | door | 门 | the back door |
 
-## 句子总结
+## 一句话总结
 Grace 攻击 Mona（"你是那个毁了他生活的人"）+Mona 反击（"正踢"+"杯子"）+Angie 制服 Grace——"卡西在哪里？"

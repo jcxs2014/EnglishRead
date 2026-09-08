@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | house | 房子 | watches the house |
 | kids | 孩子们 | The kids. I just need tonight. |
 
-## 句子总结
+## 一句话总结
 Mona 找到 Georgia（现名 Jenna）+"我们可以有今晚吗？"+Kylie 付款道歉（"教我如何做一个不那么混蛋的人"）+警方夜间突袭。

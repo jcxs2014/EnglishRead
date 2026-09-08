@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | neighbour | 邻居 | neighbours take out phones |
 | mic | 麦克风 | rip her lapel mic off |
 
-## 句子总结
+## 一句话总结
 Kylie 追问 Will Travis 联系+Mona 揭露霸凌者真相+"救赎弧"——"英雄侦探到落魄侦探，再回到英雄"——Mona 意识到自己被当作"内容素材"。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | knife | 刀 | a nasty little flick knife |
 | tongue | 舌头 | the bloody tip of his tongue |
 
-## 句子总结
+## 一句话总结
 Mona 被跟踪者威胁+"你认错人了"+"不是我先看到你"——拐杖反击打掉舌头+DS Theo Knight 到达——"DS Muscles"。

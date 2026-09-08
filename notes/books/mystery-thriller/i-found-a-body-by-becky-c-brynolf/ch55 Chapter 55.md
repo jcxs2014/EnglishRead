@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | door | 门 | knocking loudly at Lana's neighbour's door |
 | phone | 手机 | her phone has died |
 
-## 句子总结
+## 一句话总结
 Miss Celeste 描述"年长男友"（保镖+棒球帽+啤酒肚）+Cassie "我以为你死了"+Kilmartin 施压——"我们有一个好的线索"。

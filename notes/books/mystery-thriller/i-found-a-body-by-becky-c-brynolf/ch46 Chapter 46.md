@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | mates | 朋友 | there'll be no mates |
 | Uber | 优步 | my Uber to the station |
 
-## 句子总结
+## 一句话总结
 Kylie 分手后"假装外出"——"比治疗便宜"+"我对警察撒了谎"+保安的"喂养自我"智慧——她的"正义"是"自我服务"的。

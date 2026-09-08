@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | police | 警察 | Detective Sergeant |
 | phone | 手机 | her phone |
 
-## 句子总结
+## 一句话总结
 Kylie 揭示 Marian Degorter 假名+Scanlon 是警察+ Cassie 出现在直播中——"卡西，瞬间充满了恐惧和愤怒"。

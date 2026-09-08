@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | whisky | 威士忌 | a round of whisky for Angie |
 | notebook | 笔记本 | old notebooks of all varieties |
 
-## 句子总结
+## 一句话总结
 Angie 的旧笔记本+缺页（被撕掉）+Marian Degorter 的货车——"内部有人在破坏调查"，Georgia Gates 掩盖了行踪。

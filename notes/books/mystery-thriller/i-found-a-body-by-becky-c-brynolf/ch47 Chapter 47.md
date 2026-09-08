@@ -71,5 +71,5 @@ modified: "2026-09-08"
 | private | 私密的 | Bella gone private |
 | followers | 粉丝 | follower counts |
 
-## 句子总结
+## 一句话总结
 论坛帖——Kylie 从"eco slut"变成"crime slut"，"外出"与"尸体新闻"并列"刺眼"，Bella 的 Instagram 变成私密。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | name | 名字 | gave names |
 | drug | 毒品 | A drug raid |
 
-## 句子总结
+## 一句话总结
 Theo 供出"Degorter"+Mona 询问毒品突袭+"保持店面整洁以隐藏后面的混乱"+"我知道你很服从"——她最后一次离开 Bridewell。

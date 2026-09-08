@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | phone | 手机 | Kylie's phone |
 | live | 直播 | live stream |
 
-## 句子总结
+## 一句话总结
 Kylie+Mona 准备直播——"你准备好了吗？"+"没有危险信号"+"可能宝宝们"+"我准备好了"——她们的"最终对决"。

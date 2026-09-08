@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | kitchen | 厨房 | the kitchen door opens |
 | hug | 拥抱 | Joan pulls her into a hug |
 
-## 句子总结
+## 一句话总结
 Kylie 拜访 Cottrell 家人——"我严重越界了"+Joan 拥抱她+"他看起来很正常"（但连环杀手纪录片都这么说）。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | prison | 监狱 | in prison |
 | family | 家庭 | the Cottrell family |
 
-## 句子总结
+## 一句话总结
 Kylie 的书致谢——"陛下监狱服务"+"亨德里克斯和女儿侦探机构"+"宁愿吃玻璃"+"你逃出来了"——她的"救赎"。

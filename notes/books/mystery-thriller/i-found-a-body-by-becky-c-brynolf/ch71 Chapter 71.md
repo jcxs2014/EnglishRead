@@ -72,5 +72,5 @@ modified: "2026-09-08"
 | back | 背后 | watch her fucking back |
 | police | 警察 | trust the police |
 
-## 句子总结
+## 一句话总结
 论坛帖——ABBAWintour 指控"腐败"+"掩盖"+"我知道你女儿上哪所学校"——从"调查"转向"死亡威胁"。

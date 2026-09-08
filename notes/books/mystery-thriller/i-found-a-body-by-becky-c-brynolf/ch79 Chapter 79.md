@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | phone | 手机 | Drop the phone |
 | door | 门 | locks it |
 
-## 句子总结
+## 一句话总结
 Dominic 是 Marian Degorter+"停下否则我就开枪"+"深陷泥潭"+"流沙"——Mona 的"说服"与 Cassie 的"反击"。

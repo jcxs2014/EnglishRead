@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | heels | 高跟鞋 | heels dangle from a hand |
 | breakfast | 早餐 | Let me buy you breakfast |
 
-## 句子总结
+## 一句话总结
 Kylie 遇见 Dominic Sinclair（Bella 男友）——"滚开"+"我是凯莉"（身份危机）+"让我请你吃早餐"——她的"梦想男人"看到了她最糟糕的样子。

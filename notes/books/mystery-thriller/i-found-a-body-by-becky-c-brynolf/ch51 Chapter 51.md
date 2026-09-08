@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | coffee | 咖啡 | two more coffees please |
 | phone | 手机 | bringing her phone back to life |
 
-## 句子总结
+## 一句话总结
 Kylie 与 Dominic 共进早餐+"我在自己调查"+"监狱时光"调侃+Adam 出轨消息——"天哪"+"我感到宽慰"。

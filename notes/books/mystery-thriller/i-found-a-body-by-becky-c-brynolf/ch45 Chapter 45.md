@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | camera person | 摄像师 | editor, camera person, runner |
 | assistant | 助理 | her assistant |
 
-## 句子总结
+## 一句话总结
 2028 闪前——"Trial by Social Media"制作会议，Dominic 是制片人，"人们会喜欢这个场面"——Mona 感到被利用，但"愤怒的红色字体和发霉的天花板"让她留下。

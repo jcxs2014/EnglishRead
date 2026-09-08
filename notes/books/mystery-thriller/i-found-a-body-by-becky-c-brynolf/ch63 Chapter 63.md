@@ -72,5 +72,5 @@ modified: "2026-09-08"
 | school | 学校 | old school friends |
 | forum | 论坛 | Forums > Real People > True Crime |
 
-## 句子总结
+## 一句话总结
 论坛帖——Mona 被贴上"腐败警察"标签（"面具终于滑落"），"如果 Kylie 能比你更好，交出你的警徽"。

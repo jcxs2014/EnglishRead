@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | briefing | 简报，通报 | Cottrell briefing |
 | email | 邮件 | checks her emails |
 
-## 句子总结
+## 一句话总结
 SCU 周一晨会+Donovan 威胁邮件+Cottrell 任务分配+Scanlon 的"团队玩家"姿态——Mona 的直觉：他在竞争 DI 职位。

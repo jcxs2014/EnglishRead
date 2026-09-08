@@ -72,5 +72,5 @@ modified: "2026-09-08"
 | stepdad | 继父 | the stepdad |
 | salary | 薪水 | We pay her salary |
 
-## 句子总结
+## 一句话总结
 论坛帖——Will Travis 是"明显嫌疑人"（动机+手段+机会），Mona 的"婚姻烦恼"被公开+"警察女王"与 Magic Mike 调情的指控。

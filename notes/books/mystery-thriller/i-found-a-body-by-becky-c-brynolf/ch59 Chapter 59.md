@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | corner shop | 便利店 | The walk to the corner shop |
 | front door | 前门 | stained-glass front door panels |
 
-## 句子总结
+## 一句话总结
 Mona 买 Weetos+被跟踪（"回头看"）+Cassie 对 Kylie 失望+"人有多面性"——Mona 的"母爱"与"恐惧"交织。

@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | trainers | 运动鞋 | post the trainers back later |
 | letterbox | 信箱 | Letters shoot through the letterbox |
 
-## 句子总结
+## 一句话总结
 Kylie 在陌生公寓醒来——胸 freezer（"没有肢体，只有冰岛千层面"）+不同尺码的鞋+Marian Degorter 地址——"精神病杀手不叫玛丽安"。

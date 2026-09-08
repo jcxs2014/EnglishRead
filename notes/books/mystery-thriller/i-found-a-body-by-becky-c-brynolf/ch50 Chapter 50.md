@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | window | 窗口 | peers through a dusty ground floor window |
 | receptionist | 前台 | the welcoming, curious smile |
 
-## 句子总结
+## 一句话总结
 Georgia 的地址是废弃房屋+电话号码是印度外卖+她像"野猫"一样难以接近——她的"失踪"增加了她的嫌疑。

@@ -32,7 +32,7 @@ modified: "2026-09-08"
 
 **关键词**：assemblies（典礼，学校集会）、zoning out（走神）、hell hole（地狱）
 
-**为什么为什么这样写**：塑料椅子让 Kylie 回到了学校——"地狱"。zoning out 是学生的生存策略。how much better it had to get 的"had to"暗示：她仍然没有摆脱那种绝望。
+**为什么这样写**：塑料椅子让 Kylie 回到了学校——"地狱"。zoning out 是学生的生存策略。how much better it had to get 的"had to"暗示：她仍然没有摆脱那种绝望。
 
 **读者视角提示**：Kylie 的过去——她在学校不快乐，网红身份是她逃离"地狱"的方式。
 

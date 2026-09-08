@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | phone | 手机 | keeps hold of her phone |
 | door | 门 | fluttering on the door |
 
-## 句子总结
+## 一句话总结
 Mona 起诉+Theo 晋升 DS+Cassie 生日餐取消+驱逐通知——"我是被推出去的"。

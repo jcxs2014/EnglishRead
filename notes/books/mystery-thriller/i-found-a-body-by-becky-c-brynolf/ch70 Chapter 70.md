@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | degree | 学位 | your degree |
 | hotel | 酒店 | pay for a hotel |
 
-## 句子总结
+## 一句话总结
 Kylie 学术丑闻（"抄袭"+"伪造"）+Mona 爆发（"被宠坏的小鬼"）+Dominic 的"让她诚实"——Mona 的"觉醒"。

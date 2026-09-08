@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | wallet | 钱包 | picked up the wallet |
 | source | 来源 | Her only source |
 
-## 句子总结
+## 一句话总结
 Theo 揭示 Kilmartin 掩盖+Cassie 揭示 Kylie 有 Lana 的手机——"她唯一的来源一直是一个死去女孩的手机"。

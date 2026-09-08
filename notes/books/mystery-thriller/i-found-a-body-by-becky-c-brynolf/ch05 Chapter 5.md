@@ -29,7 +29,7 @@ modified: "2026-09-08"
 
 **中文理解**：你听到的声音是几百个人在吹掉这个老帖子上积攒的灰尘。
 
-**keywords**：blowing the dust off（吹掉灰尘，引申为"翻出旧帖子"）、thread（论坛帖子串）
+**关键词**：blowing the dust off（吹掉灰尘，引申为"翻出旧帖子"）、thread（论坛帖子串）
 
 **为什么这样写**：Mod 的回复——Kylie 的旧黑历史帖子被"考古"翻出。blowing the dust off 是生动的口语，暗示这个帖子已经被遗忘很久了。
 

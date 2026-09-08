@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | dentist | 牙医 | He was a dentist in the city |
 | receptionist | 前台 | the day receptionist |
 
-## 句子总结
+## 一句话总结
 Theo 用"乡村罪犯爸爸"谎言让 Cordant 放松警惕+Cordant 承认清除鹰巢（非法）+Theo 的"虚构家族"——"撒谎来让人站在你这边不是最道德的策略，但它有效"。

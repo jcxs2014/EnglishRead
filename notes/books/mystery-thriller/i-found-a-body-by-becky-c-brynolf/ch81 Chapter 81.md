@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | mirror | 镜子 | only got one mirror |
 | hair | 头发 | Kylie's split ends |
 
-## 句子总结
+## 一句话总结
 Bella 来访 Kylie（"从死亡中回来"+"事业巅峰"+"非常不快乐"）——她的"假死"真相。

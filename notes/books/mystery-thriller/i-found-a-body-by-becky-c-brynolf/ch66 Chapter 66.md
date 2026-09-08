@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | camera | 摄像头 | a wink to the camera |
 | water | 水 | glass of water |
 
-## 句子总结
+## 一句话总结
 Kylie 反击——"故意处理不当"+"证据不言自明"+"细绳终于断了"+"像一直在竞选世界总统"——她的"觉醒"。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | garden | 花园 | an actual garden |
 | pizza | 披萨 | mouthful of pizza |
 
-## 句子总结
+## 一句话总结
 Mona 搬进新公寓+Cassie 内疚（"我认为你的袭击是我的错"）+卡西请求做她的"导师"——"天生的侦探"。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | briefing | 简报，通报 | the end of the briefing |
 | coffee | 咖啡 | tea and coffee station |
 
-## 句子总结
+## 一句话总结
 SCU 简报——Kylie 最后视频 16:10+Adam 9pm 位置不明+三辆白色货车+图书馆调查+Scanlon 手机掉进 Avon 河（可疑）。

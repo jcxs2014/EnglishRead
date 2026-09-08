@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | news | 新闻 | seen you on the news |
 | door | 门 | the door to U33 opening |
 
-## 句子总结
+## 一句话总结
 Will 承认记得 Mona（"你一直很聪明"+"我在学校可能是个混蛋"）+Kilmartin 停职（"国家该死的早间电视"）。

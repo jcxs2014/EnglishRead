@@ -47,5 +47,5 @@ modified: "2026-09-08"
 | anon | 匿名 | stay anon |
 | name | 名字 | a VERY different name |
 
-## 句子总结
+## 一句话总结
 论坛帖——匿名者称认识 Will Travis 的"另一个名字"+"消遣"——暗示 Will 的"性交易"身份。

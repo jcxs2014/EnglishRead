@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | police | 警察 | police database |
 | train | 火车 | the signal on the train |
 
-## 句子总结
+## 一句话总结
 Georgia 讲述 Seth（"我不是认为那是他的真名"）+"我的名字现在在警察数据库里。他能访问。"+Mona 与 Kylie 制定计划。

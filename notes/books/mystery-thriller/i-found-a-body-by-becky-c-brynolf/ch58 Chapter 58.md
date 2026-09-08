@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | Facebook | Facebook | Follow us on Facebook |
 | pub | 酒吧 | a pub on the corner |
 
-## 句子总结
+## 一句话总结
 Kylie 通过社交媒体追踪 Georgia（Lana 的 Facebook→Bottle of the Barrel→@GorgiaHates_05）+Georgia 逃跑+"你是吸血鬼"——她的"调查"以失败告终。

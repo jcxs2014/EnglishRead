@@ -71,5 +71,5 @@ modified: "2026-09-08"
 | thread | 帖子串 | see thread |
 | mod | 版主 | BlueBella4Lyf – Mod |
 
-## 句子总结
+## 一句话总结
 论坛帖——#BellaWatch2025（Bella 失踪六年），"她可能在他的冰箱里"，Dominic 假扮 Bella 发消息的理论，有人建议雇 PI 调查 Dominic。

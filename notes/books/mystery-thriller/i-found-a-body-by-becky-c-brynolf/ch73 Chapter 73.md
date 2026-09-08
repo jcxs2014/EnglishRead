@@ -85,5 +85,5 @@ modified: "2026-09-08"
 | school | 学校 | where her daughter goes to school |
 | mug | 杯子 | I broke my favourite mug |
 
-## 句子总结
+## 一句话总结
 Grace Ferry 是 Mark Donovan 的妹妹（ABBAWintour）+她策划通过 Cassie 报复 Mona+Mona 的"内疚"——"我把孩子留给了她"。

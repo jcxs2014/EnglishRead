@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | boyfriend | 男朋友 | Lana's mother's boyfriend |
 | TV | 电视 | on TV |
 
-## 句子总结
+## 一句话总结
 Will 无法证明 alibi+"因果报应"+Kylie 被 Oksana 伏击——"不敏感"趋势+"这是她的错"。

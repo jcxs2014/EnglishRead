@@ -86,5 +86,5 @@ modified: "2026-09-08"
 | eviction | 驱逐 | on the verge of eviction |
 | biro | 圆珠笔 | objected to the biro offered |
 
-## 句子总结
+## 一句话总结
 Scanlon 更新（欠租+噪音+驱逐）+Cordant 的 obstructive 审问（"你凭什么问我"）+Mona 的"合适工具"——调查升级的前奏。

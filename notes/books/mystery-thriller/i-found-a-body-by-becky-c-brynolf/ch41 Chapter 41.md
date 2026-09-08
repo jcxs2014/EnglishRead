@@ -72,5 +72,5 @@ modified: "2026-09-08"
 | body | 尸体 | cart a body around in |
 | map | 地图 | this map of the area |
 
-## 句子总结
+## 一句话总结
 论坛帖——Will Travis 的 LinkedIn 被发现（抹灰工+大货车），"大到可以运尸体"，农场抛尸的动机推理。

@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | TV | 电视 | live television |
 | set | 演播室 | the set is so much bigger and brighter |
 
-## 句子总结
+## 一句话总结
 Kylie 上"Breakfast with Britain"——"请不要有出汗的脸"+"国父"握手+"她只是一个拿着手机的女孩"。

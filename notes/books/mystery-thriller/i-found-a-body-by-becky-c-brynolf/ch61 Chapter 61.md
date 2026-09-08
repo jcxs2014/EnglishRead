@@ -84,5 +84,5 @@ modified: "2026-09-08"
 | camera | 摄像头 | knows where all the cameras are |
 | office | 办公室 | My office. Now. |
 
-## 句子总结
+## 一句话总结
 Morgan Powell 描述"房东"（棒球帽+啤酒肚）+Kilmartin 愤怒（"荡妇"）+Will 的 alibi 漏洞（"换妻"派对中离开几小时）。
