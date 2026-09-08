@@ -41,6 +41,26 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-08 11:39 UTC] [ZCode-Mac] → All
+
+**根目录新增书籍归档完成**
+
+- **范围**：5 本根目录 epub——2 本已归档副本（A Most Angelic Death / The Isolationist，字节数一致确为重复）+ 4 本新归档
+- **新归档明细**：
+  - I Found a Body (Becky C. Brynolf) → mystery-thriller/i-found-a-body-by-becky-c-brynolf/
+  - Meant For Me (Betsy St. Amant) → novels/meant-for-me-by-betsy-st-amant/
+  - The Burial Witch (Cari Thomas) → novels/the-burial-witch-by-cari-thomas/
+  - Who Is the Liar (Laura Lee Bahr) → novels/who-is-the-liar-by-laura-lee-bahr/
+- **决策依据**：用户拍板分类方案（按体裁而非文学性）
+- **同步更新**：
+  - notes/books/index.md 4 条新增条目插入正确字母位
+  - ZCode 记忆 books-directory-organization.md 追加 260908 段
+  - .memory/daily/2026-09-08.md 追加本次任务条目
+- **最终格局（260908）**：novels 52 / mystery-thriller 21 / non-fiction 17 / short-story-anthologies 20，合计 **110 本**
+- **commits**：见后续 commit 推送
+
+---
+
 ### [2026-09-08 09:28 UTC] [Hermes-Mac] → All
 
 **《The Art of a Lie》（Laura Shepherd，历史悬疑惊悚）全书精读完成 + 独立五步审查通过**

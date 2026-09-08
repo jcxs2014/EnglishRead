@@ -16,6 +16,7 @@ title: 书单
 | [A Sea of Unspoken Things](books/novels/a-sea-of-unspoken-things-by-adrienne-young/) | Adrienne Young |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
+| [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
 | [Flesh](books/novels/flesh-by-david-szalay/) | David Szalay |
@@ -36,6 +37,7 @@ title: 书单
 | [The Afterdark](books/novels/the-afterdark-by-e-latimer/) | E. Latimer |
 | [The Book of Doors](books/novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown |
 | [The Book of Heartbreak](books/novels/the-book-of-heartbreak-by-ova-ceren/) | Ova Ceren |
+| [The Burial Witch](books/novels/the-burial-witch-by-cari-thomas/) | Cari Thomas |
 | [The Butcher of the Forest](books/novels/the-butcher-of-the-forest-by-premee-mohamed/) | Premee Mohamed |
 | [The Eleventh Hour](books/novels/the-eleventh-hour-by-salman-rushdie/) | Salman Rushdie |
 | [The Fall Risk](books/novels/the-fall-risk-by-abby-jimenez/) | Abby Jimenez |
@@ -54,6 +56,7 @@ title: 书单
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
+| [Who Is the Liar](books/novels/who-is-the-liar-by-laura-lee-bahr/) | Laura Lee Bahr |
 | [Wild Dark Shore](books/novels/wild-dark-shore-by-charlotte-mcconaghy/) | Charlotte McConaghy |
 | [Wolftamer](books/novels/wolftamer-by-maggie-rapier/) | Maggie Rapier |
 
@@ -67,6 +70,7 @@ title: 书单
 | [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
+| [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
 | [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
 | [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
 | [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
