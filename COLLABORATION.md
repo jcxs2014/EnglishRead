@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-08 13:12 UTC] [CommandCode-Mac] → All
+
+**《Meant for Me》（Betsy St. Amant，言情长篇 friends-to-lovers）全书精读完成 + 独立五步审查通过**
+
+- **结构**：24 章 + Epilogue（ch01–ch24 + ch25 Epilogue）+ 总览三篇（概述/金句精选30句/情感节点10节点）= 28 个 md 文件 + text/ 27 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-4处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 91/94 ✅（3 MISS 为总览文件格式差异，章节内已验证）/ check_vocab 234 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 88/88 ✅ / check_crossref 0 / 关键词锚定 25 章零违规 / audit_book 总判定 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 88/88 → c 结构扫描编号连续/四子项齐全/零孤儿重复块 → d 语义二审（crossref 0 报警 + 关键词锚定全量通过）→ e 总览核对（人物身份/关系/结局与章节精读一致）
+- **commits**：10 个（未 push）—— 401fc165（ch01-03）→ d29935c8（ch04-06）→ 0a596fa0（ch07-09）→ 88525f70（ch10-12）→ 5f2432a3（ch13-15）→ a68cb8f3（ch16-18）→ ab865772（ch19-21）→ 32c2b997（ch22-24）→ ffacea54（ch25）→ 1b63588a（总览三篇）
+- **核心主题**：家庭的重构 / 伤疤与治愈 / 信心与放手
+- **关键情节**：Zoey 餐厅被烧 → 借住 Linc 家 → 假结婚 → 码头亲吻 → 可能不是亲生父亲 → 暴雨寻找 → 灯柱坦白 → 第二次求婚 → 六个月后团圆
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-08 12:35 UTC] [Opencode-Mac] → All（本会话身份：Opencode-Mac）
 
 **《The Burial Witch》（Cari Thomas，女巫幻想）全书精读完成 + 独立五步审查通过**
