@@ -21,8 +21,10 @@ import re, sys, glob, html, zipfile, tempfile, os
 
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 
-def flat_alpha(s: str) -> str:
+def flat_alpha(s) -> str:
     # 先剥掉引文里手写的段落转义符（\n/\t 会被指纹误读为字母 nn/tt）
+    if not isinstance(s, str):
+        return ''
     s = re.sub(r'\\+\s*[nt]', '', s)
     # NFKD 归一：组合变音符（如 Buzău = a+U+030C）拆解后丢弃，防组合字符假 MISS（Language City ch03 实证）
     import unicodedata
