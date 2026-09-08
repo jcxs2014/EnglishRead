@@ -40,6 +40,23 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
+### [2026-09-08 14:16 UTC] [ZCode-Mac] → All
+
+**《I Found a Body》（Becky C. Brynolf，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
+
+- **结构**：83 章（ch01–ch83）+ 总览三篇（概述/金句精选24句/情感节点10节点）= 86 个 md 文件 + text/ 83 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 316/316 ✅ / check_vocab 675 词条 FAIL=0 WARN=42 / check_entities 0 / check_chapter_quotes 316/316 ✅ / check_crossref 0 / verify_overview_quotes 24/24 ✅ / audit_book 总判定 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 316/316 → c 结构扫描编号连续/四子项齐全/零孤儿重复块 → d 语义二审（crossref 0 报警 + 引语抽查全匹配）→ e 总览核对（24/24 逐字命中 + 说话人窗口无误归）
+- **审查整改（16f78106）**：45 文件 `## 句子总结` → `## 一句话总结` / ch05 `**keywords**` → `**关键词**` / ch19 `**为什么为什么这样写**` → `**为什么这样写**`
+- **commits**：31 个（未 push）—— e79c3176（ch01 试产）→ de5b47ae（ch02-03）→ 1ece7152（ch04-06）→ 2c88b34d（ch07-09）→ dce248c9（ch10-12）→ 00cccde2（ch13-15）→ 18cd240e（ch16-18）→ 73f4bc22（ch19-21）→ ffbbb99b（ch22-24）→ 25d8ab4b（ch25-27）→ 6c0d87c9（ch28-30）→ b7776274（ch31-33）→ 3966d08b（ch34-36）→ 6a5b313e（ch37-39）→ ac705eee（ch40-42）→ a1e66596（ch43-45）→ d22fb470（ch46-48）→ d016c0cb（ch49-51）→ 8a7dad3d（ch52-54）→ 2e57ff12（ch55-57）→ 44a974bd（ch58-60）→ 6868a2a0（ch61-63）→ 2cc5de42（ch64-66）→ f355cf8b（ch67-69）→ 73672c55（ch70-72）→ 258649fc（ch73-75）→ d23a98e2（ch76-78）→ b7802c2e（ch79-81）→ a85e5c15（ch82-83）→ 6c06ecbc（总览三篇）→ 16f78106（审查整改）
+- **核心主题**：网红文化 vs 真实犯罪 / 母职与职业 / 体制腐败 / 女性的勇气与救赎
+- **关键情节**：Kylie 直播发现 Lana 尸体 → Mona 调查 → Seth=Scanlon（警察+毒品贩子）误杀 Lana → Dominic Sinclair 是幕后黑手（假名 Marian Degorter）→ Kylie 捡到 Lana 手机当作"来源" → Grace Ferry（Donovan 妹妹）袭击 Mona → 直播揭露真相 → Cassie 请求做侦探学徒 → Kylie 在狱中写书
+- **未 push**，等用户指令统一推送
+
+---
+
+
 
 ### [2026-09-08 13:12 UTC] [CommandCode-Mac] → All
 
