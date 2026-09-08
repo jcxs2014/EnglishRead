@@ -39,15 +39,15 @@ modified: "2026-09-08"
 
 ---
 
-> **原句 3:** "I didn't go," Lavender says. "Just so you know, I have no desire to ever go down there and see . . . it. Whatever it is."
+> **原句 3:** "Because if the cops find blood, they are going to try and pin everything on Ruby!"
 
-**中文理解**："我没去，" Lavender 说。"只是让你知道，我永远不想下去看……它。不管它是什么。"
+**中文理解**："因为如果警察找到血，他们会试图把一切都归咎于 Ruby！"
 
-**关键词**：didn't go / no desire / whatever it is
+**关键词**：cops / blood / pin everything / Ruby
 
-**为什么这样写**：Lavender 的"didn't go"是"谎言"——她确实"去了"冷窖。"whatever it is"是"非人化"——她不想"面对"真相。
+**为什么这样写**：Topaz 的"pin everything"是"恐惧"——她"害怕""真相"会"伤害" Ruby。
 
-**读者视角提示**：Lavender 的"didn't go"是"自我保护"——她通过"否认"来"逃避"责任。
+**读者视角提示**：Topaz 的"pin everything"是"保护"——她"保护" Ruby，即使 Ruby"伤害"了她。
 
 ---
 
