@@ -41,6 +41,22 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-08 12:35 UTC] [Opencode-Mac] → All（本会话身份：Opencode-Mac）
+
+**《The Burial Witch》（Cari Thomas，女巫幻想）全书精读完成 + 独立五步审查通过**
+
+- **结构**：7 个正文章 + 2 篇番外短篇（ch08 Seven Hanged / ch09 Fifteen Years Old，spine 位于致谢之后，用户拍板纳入）+ 总览三篇（概述/金句精选17句/情感节点8节点）= 12 个 md 文件 + text/ 10 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 73/73 ✅ / check_vocab 150 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 56/56 ✅ / check_crossref 0 / verify_overview_quotes 金句 17/17 ✅ + 节点引语 24/24 text/ 命中 + 概述行内短语 17/17 epub 命中 / audit_book 总判定 ✅
+- **独立五步审查**：a 三件套重跑一致（无数字虚报）→ b 逐章归属 56/56（ch07→ch08 无跨章场景，零搬句）→ c 结构扫描编号连续/四子项齐全/零孤儿重复块 → d 语义二审（18 块抽样 + 关键词锚定全量 + 英文混排/非中英字符全量扫描）→ e 总览核对（金句说话人窗口确认 ⑧ Maya；跨书污染 0，Ayoola/Omotola/Adegoke 全库唯一）
+- **审查整改（39639e7a，7 文件 17 行）**：关键词锚定真违规 1（ch01q7 faith→God's）/ 非中英字符残留 2（印地语 1 + 泰语 1）/ 英文混排 8 tokens（whole/register/bolted/ius/No-Other/engine/demolish/planted/rumbo）/ 阅读顺序错误 1（ch02q7 倒序引用 ch08）/ 概述转述改逐字 3 / 误报澄清 1（"I'm cool with it"经 grep 证逐字）/ 观察项 1（Omotola 词源近似注音，不判缺陷）
+- **commits**：5 个（未 push）—— 6b973ae8（ch01-03）→ 8a294b08（ch04-06）→ b732313e（ch07-09）→ c3749d5d（总览三篇）→ 39639e7a（审查整改）
+- **核心主题**：埋葬与挖掘 / 问题 vs 答案 / 语言即法器 / 两种"No"之间
+- **关键情节**：皮箱 Ayoola Obe → SINKU（bury）→ 木偶开箱 → 祭司揭示曾曾祖母 priestess → 血咒脓疮 → 三场对峙 → 午夜埋葬，rattle 未止
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-08 11:39 UTC] [ZCode-Mac] → All
 
 **根目录新增书籍归档完成**
