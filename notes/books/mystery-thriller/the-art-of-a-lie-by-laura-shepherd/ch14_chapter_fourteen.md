@@ -135,15 +135,15 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"It'll be a quick one"（这会很快的）——这种措辞暗示 Billy 的"自信"。
 
-> **原句 13:** When Tom showed Hannah in, I saw she had come alone, which I thought interesting. To call at a gentleman's rooms without a servant, even upon a matter of business, was taking quite a risk with her reputation. Perhaps she wasn't as convinced of her husband's innocence as she'd claimed, and didn't want her apprentice overhearing any hint of scandal? Or perhaps her heart was already running in front of her head . . .
+> **原句 13:** Said she wanted to hear what he had to say and afterwards she told Felix's sister that she wished she could buy her sugar from someplace else.' 'Good for Mrs Cole.'
 
-**中文理解**：当 Tom 带 Hannah 进来时，我看到她独自来了，我觉得很有趣。没有仆人陪同去拜访绅士的房间，即使是处理生意上的事，对她的声誉也是相当大的风险。也许她并不像她声称的那样相信她丈夫的清白，不想让她的学徒听到任何丑闻的暗示？也许她的心已经跑在头前面了……
+**中文理解**：她说她想听听他要说什么，然后她告诉费利克斯的妹妹，她希望她能从别处买糖。"对科尔太太好。"
 
-**关键词**：come alone（独自来了）/ taking quite a risk（相当大的风险）/ her heart was already running in front of her head（她的心已经跑在头前面了）
+**关键词**：Quaker（贵格会教徒）/ pamphlets（小册子）/ buy her sugar from someplace else（从别处买糖）
 
-**为什么这样写**：Billy 对 Hannah 的分析——"come alone"（独自来了）暗示 Hannah 的"大胆"。"her heart was already running in front of her head"（她的心已经跑在头前面了）暗示 Billy 认为 Hannah 已经"爱上"他了。
+**为什么这样写**：Hannah 的"善良"——"buy her sugar from someplace else"暗示 Hannah 想要支持贵格会教徒的生意。
 
-**读者视角提示**：注意 Billy 说的是"which I thought interesting"（我觉得很有趣）——这种措辞暗示 Billy 的"分析"态度。
+**读者视角提示**：注意 Hannah 的行为"she told Felix's sister that she wished she could buy her sugar from someplace else"——这种措辞暗示 Hannah 的"道德"立场。
 
 > **原句 14:** 'Look,' he said, 'it's Beth. I've been meaning to tell you, but I haven't found the right time. She's going to have a baby. We're getting married.' 'Congratulations.' I couldn't think what else to say. 'I wasn't sure what to think about it either, when she first told me. But I came round to the idea. Every man has to hang up his hat some time, don't you think?'
 

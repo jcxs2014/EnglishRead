@@ -55,9 +55,9 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"I guessed she was worried"（我猜她是担心）——这种措辞暗示 Billy 对 Hannah 的"理解"。
 
-> **原句 5:** Despite her concern, wanting to prolong our time together, I spun my story out. 'It seems our Mr Fox will be at Ranelagh Gardens tomorrow night,' I concluded. 'I hope you do not have a prior engagement?' She stared at me aghast. 'But I cannot go to Ranelagh. I am in mourning.'
+> **原句 5:** 'Do I take it that you are looking to expand your business into other quarters?' 'I am indeed,' I said. 'Mr Cole had offered to help us in that regard, but his untimely demise curtailed our association before our dealings ever came to fruition.'
 
-**中文理解**：尽管她很担心，但为了延长我们在一起的时间，我把故事编得更长。"看来我们的福克斯先生明晚会出现在拉内拉加花园，"我总结道。"我希望你没有先前的约定？"她惊讶地盯着我。"但我不能去拉内拉加。我在服丧。"
+**中文理解**："我是否可以理解为你正在寻求将业务扩展到其他领域？""我确实是，"我说。"科尔先生曾提出在这方面帮助我们，但他的不恰好在我们的交易取得成果之前就终止了我们的关系。"
 
 **关键词**：prolong our time together（延长我们在一起的时间）/ spun my story out（把故事编得更长）/ aghast（惊讶）/ prior engagement（先前的约定）
 
@@ -65,25 +65,25 @@ modified: "2026-09-07"
 
 **读者视角提示**：注意 Billy 说的是"wanting to prolong our time together"（为了延长我们在一起的时间）——这种措辞暗示 Billy 想要"单独"和 Hannah 在一起。
 
-> **原句 6:** I had anticipated this objection. 'I understand, and yet I think it essential that you are there. Mr Fox was your husband's accomplice, perhaps his friend. He is far more likely to open up to you than he is to me. Especially once he discovers that I have lied to him.'
+> **原句 6:** 'Oh, indeed we can,' Banks declared happily. 'When it comes to the laws against gaming - forgive me, madam - Parliament is an ass! Happily many of our magistrates believe that too. One or two of them even own gaming establishments themselves. Given the right inducement, which I should be pleased to facilitate for a small fee, those gentlemen will ensure that I learn about any imminent raid upon your establishment.'
 
-**中文理解**：我已经预料到了这个反对。"我理解，但我认为你在那里是必不可少的。福克斯先生是你丈夫的帮凶，也许是他的朋友。他更有可能向你敞开心扉，而不是对我。特别是当他发现我对他撒了谎之后。"
+**中文理解**："哦，我们当然可以，"班克斯高兴地宣布。"谈到反对赌博的法律——请夫人原谅——议会是一头驴！很高兴我们的许多法官也这么认为。其中一两个甚至自己拥有赌场。在适当的诱导下，我很乐意收取少量费用来促成，那些绅士们将确保我了解任何即将对你的场所进行的突袭。"
 
-**关键词**：anticipated this objection（预料到了这个反对）/ essential（必不可少的）/ open up to you（向你敞开心扉）
+**关键词**：Parliament is an ass（议会是一头驴）/ gaming establishments（赌场）/ inducement（诱导）/ imminent raid（即将进行的突袭）
 
-**为什么这样写**：Billy 说服 Hannah——"anticipated this objection"（预料到了这个反对）暗示 Billy 的"准备"。"open up to you"（向你敞开心扉）暗示 Billy 的"策略"。
+**为什么这样写**：Banks 的"腐败"——"Parliament is an ass"暗示 Banks 对"法律"的"鄙视"。"inducement"暗示 Banks 的"贿赂"。
 
-**读者视角提示**：注意 Billy 说的是"Especially once he discovers that I have lied to him"（特别是当他发现我对他撒了谎之后）——这种措辞暗示 Billy 的"谎言"是"策略"。
+**读者视角提示**：注意 Banks 的说法"forgive me, madam"——这种措辞暗示 Banks 的"礼貌"是"虚伪"的。
 
-> **原句 7:** I was, of course, quite certain that I could have got the answers I wanted from Mr Fox without Hannah there. Bribery or blackmail - one will usually suffice. Yet Ranelagh happened to be the perfect setting for the next act I had in store for Hannah Cole.
+> **原句 7:** I will then pass that information on to you, via my partner, at which point you can decide whether to pay a further sum to avert the raid entirely, or simply take steps to ensure that when the constables come calling they will find nothing untoward.' Whilst Banks had been talking, I had taken hold of Hannah's hand.
 
-**中文理解**：当然，我相当确定我可以在汉娜不在的情况下从福克斯先生那里得到我想要的答案。贿赂或勒索——通常一个就足够了。然而，拉内拉加恰好是我为汉娜·科尔准备的下一场戏的完美背景。
+**中文理解**："然后我会通过我的合伙人把信息传递给你，届时你可以决定是支付进一步的款项来完全避免突袭，还是简单地采取措施确保当警察来访时他们不会发现任何不当之处。"班克斯说话时，我握住了汉娜的手。
 
-**关键词**：bribery or blackmail（贿赂或勒索）/ suffice（足够）/ perfect setting（完美的背景）/ next act（下一场戏）
+**关键词**：pass that information on（传递信息）/ avert the raid（避免突袭）/ constables（警察）/ taken hold of Hannah's hand（握住汉娜的手）
 
-**为什么这样写**：Billy 的真实想法——"bribery or blackmail"（贿赂或勒索）暗示 Billy 的"方法"。"next act"（下一场戏）暗示 Billy 将骗局视为"戏剧"。
+**为什么这样写**：Billy 的"亲密"——"taken hold of Hannah's hand"暗示 Billy 对 Hannah 的"占有欲"。"avert the raid"暗示 Banks 的"能力"。
 
-**读者视角提示**：注意 Billy 说的是"the next act I had in store for Hannah Cole"（我为汉娜·科尔准备的下一场戏）——这种措辞暗示 Billy 的"计划"是"戏剧性"的。
+**读者视角提示**：注意 Billy 的说法"via my partner"——这种措辞暗示 Banks 的"合伙人"是 Billy。
 
 > **原句 8:** The footman led us to one of the supper boxes on the lower tier, and I recognised its occupant right away: the Clerk of the Peace who had presented the indictments in the sessions at Westminster Palace. It took me a moment to remember his name: Mr Mitford Banks.
 
