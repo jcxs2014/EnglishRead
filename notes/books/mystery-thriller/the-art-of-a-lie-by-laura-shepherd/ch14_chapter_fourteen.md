@@ -208,6 +208,5 @@ modified: "2026-09-07"
 | friend | 朋友 | my friends in Bath. |
 | wife | 妻子 | We're getting married. |
 
-## 本章总结
-
-本章是 Billy 与 Tom 关系的重要转折点——Tom 宣布将与 Beth 结婚，不再陪伴 Billy 去欧洲。Billy 回顾了与 Tom 的初次见面，以及他们如何成为伙伴。同时，Billy 意识到 Penelope Felton 的控告威胁到他在伦敦的安全，但他拒绝离开。
+## 一句话总结
+本章是 Billy 的"伙伴离别"——Tom 宣布与 Beth 结婚，不再陪伴 Billy。Billy 的"孤独"是真实的，他失去了最重要的伙伴。
