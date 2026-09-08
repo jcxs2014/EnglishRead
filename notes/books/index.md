@@ -62,13 +62,25 @@ title: 书单
 | 书名 | 作者 |
 |------|------|
 | [Abduction of a Slave](books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow/) | Dana Stabenow |
+| [All the Lies They Told](books/mystery-thriller/all-the-lies-they-told-by-robin-mahle/) | Robin Mahle |
+| [Always the Quiet Ones](books/mystery-thriller/always-the-quiet-ones-by-jamie-lee-sogn/) | Jamie Lee Sogn |
+| [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
+| [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
+| [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
 | [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
+| [One by One](books/mystery-thriller/one-by-one-by-j-l-brooks/) | J.L. Brooks |
+| [The Art of a Lie](books/mystery-thriller/the-art-of-a-lie-by-laura-shepherd/) | Laura Shepherd |
 | [The Color of Death](books/mystery-thriller/the-color-of-death-by-trey-gowdy/) | Trey Gowdy |
+| [The Girl from the War Room](books/mystery-thriller/the-girl-from-the-war-room-by-catherine-law/) | Catherine Law |
 | [The Italian Secret](books/mystery-thriller/the-italian-secret-by-tara-moss/) | Tara Moss |
 | [The Lost Village](books/mystery-thriller/the-lost-village-by-camilla-sten/) | Camilla Sten |
+| [The Tenants](books/mystery-thriller/the-tenants-by-m-a-hunter/) | M.A. Hunter |
+| [The Unseen](books/mystery-thriller/the-unseen-by-ania-ahlborn/) | Ania Ahlborn |
+| [The Wrong Sister](books/mystery-thriller/the-wrong-sister-by-claire-douglas/) | Claire Douglas |
 | [Venus Fly Trap](books/mystery-thriller/venus-fly-trap-by-emma-medrano/) | Emma Medrano |
+| [Wolf Hour](books/mystery-thriller/wolf-hour-by-jo-nesbo/) | Jo Nesbo |
 
 ## 非虚构
 
