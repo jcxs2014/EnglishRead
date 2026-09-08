@@ -23,7 +23,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：开篇用"惯例"起手——几百年的钟声=秩序的象征，读者预期"又一个平常夜"。作者用最稳的句子开最惨的杀戮，反差即恐怖。"as they had done"过去完成时强调惯性：惯性越大，打破越疼。
 
-**读者视角提示**：记住钟声是本篇的主角（开头响、结尾默）。后文" Midnight. It was time."（未引）是惯例的断裂点——钟声数到午夜，数的原来是刑期。
+**读者视角提示**：记住钟声是本篇的主角（开头响、结尾默）。后文"Midnight. It was time."（未引）是惯例的断裂点——钟声数到午夜，数的原来是刑期。
 
 > **原句 2:** They possessed infinite years at their fingertips but not a moment of warning when it came—
 

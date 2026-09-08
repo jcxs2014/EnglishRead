@@ -31,7 +31,7 @@ modified: "2026-09-08"
 
 **关键词**：passing shiver（一阵寒颤）/ primly（一丝不苟地）/ closed to the world（与世隔绝）
 
-**为什么这样写**："passing shiver"把房子写成路人的生理反应——它不存在于地图，只存在于神经。破折号后三重"完美"（石子/吊篮/白门）越完美越可疑：完美是伪装，伪装的对象是"里面有钢琴自己在弹"。primly（端庄）与后文女孩的"white knuckles"（攥紧）是同一 force 的两面：体面即用力。
+**为什么这样写**："passing shiver"把房子写成路人的生理反应——它不存在于地图，只存在于神经。破折号后三重"完美"（石子/吊篮/白门）越完美越可疑：完美是伪装，伪装的对象是"里面有钢琴自己在弹"。primly（端庄）与后文女孩的"white knuckles"（攥紧）是同一股力量的两面：体面即用力。
 
 **读者视角提示**：对照正文 Richardson 家（"impeccable palace"/草坪修剪）——两栋"完美房子"，一个藏巫术店传单级恐惧，一个藏训练式恐惧。作者对"体面中产房"的执念是全书性的：越体面，埋得越深。
 
@@ -53,7 +53,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：姑姑的信条，母女/师徒复诵（姑姑说→女孩跟）即洗脑仪式。"first sin"篡改了原罪定义（不是偷吃禁果，是"会魔法"），把血统定罪——生而有罪，与 Miranda 的"because-I-said-so"神学同源不同庙。"bear it silently"的"silently"与全篇"安静"货币汇合：教义、训练、房子、心脏，全部静音。
 
-**读者视角提示**：对照妈妈的"There is no God but the one true God"（ch01）——两句都是"一神论"No-Other 句式。Evangelical 妈妈与这位姑姑（疑似 Yoruba 传统守护者？）用同一语法互相开除：都容不下"别的"。Miranda 卡在两种"No"之间。
+**读者视角提示**：对照妈妈的"There is no God but the one true God"（ch01）——两句都是一神论"别无其他"句式。Evangelical 妈妈与这位姑姑（疑似 Yoruba 传统守护者？）用同一语法互相开除：都容不下"别的"。Miranda 卡在两种"No"之间。
 
 > **原句 5:** She was pleased to find nothing but silence in her heart.
 

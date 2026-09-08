@@ -41,7 +41,7 @@ modified: "2026-09-08"
 
 **关键词**：beat down（打压）/ brick by belligerent brick（一块好斗的砖）/ walls（墙）
 
-**为什么这样写**："brick by brick"本是耐心建造的俗语，塞进"belligerent"（好斗的）后 whole 短语变味——她的信仰不是爱建成的是仗打出来的。教堂的墙既是庇护（Safe）也是牢笼（Impenetrable），一句写出信仰的双面性。这是 Miranda 自我神话的巅峰，也是全章最不可靠的自我叙述。
+**为什么这样写**："brick by brick"本是耐心建造的俗语，塞进"belligerent"（好斗的）后整个短语变味——她的信仰不是爱建成的是仗打出来的。教堂的墙既是庇护（Safe）也是牢笼（Impenetrable），一句写出信仰的双面性。这是 Miranda 自我神话的巅峰，也是全章最不可靠的自我叙述。
 
 **读者视角提示**：记住"墙"的意象。后文黑液漫墙、彩窗宝石互文，都是这堵墙在漏水——她自认坚不可摧的东西正在渗水。
 
@@ -63,7 +63,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：Miranda 的福音派词典全开——感叹号、审判口吻、把水晶וי塔罗全判成淫秽。但"theatres"一词泄露了她：她看得入迷，愤怒里掺着着迷。越是用力定罪，越证明橱窗对她有效。这种"谴责即凝视"的写法，是写压抑型主角的标准手法。
 
-**读者视角提示**：注意她骂完并没有走，反而推门进去了。愤怒是她的借口，好奇才是 engine。后文她对蛇像、宝石的"resisting the urge to touch"同理——每一次"不许"都是一次"想要"。
+**读者视角提示**：注意她骂完并没有走，反而推门进去了。愤怒是她的借口，好奇才是发动机。后文她对蛇像、宝石的"resisting the urge to touch"同理——每一次"不许"都是一次"想要"。
 
 > **原句 6:** The woman was annoyingly unthreatening, as small and perky as an apostrophe, smile bright against her copper skin, her black curly hair piled up in a messy bun on the top of her head.
 
@@ -81,7 +81,7 @@ modified: "2026-09-08"
 
 **关键词**：going to（决心）/ open（打开）/ if it killed her（哪怕杀了她）
 
-**为什么这样写**：章末定音锤。条件状语"if it killed her"在悬疑语境里不是夸张而是字面预警——读者刚读完 Big Ben 绞刑式的前调（ch08），知道这书里盒子真的会杀人。Miranda 的理性主义（ch01"hated things that made no sense"）正式异化为执念，人物弧线完成第一转。
+**为什么这样写**：章末定音锤。条件状语"if it killed her"在悬疑语境里不是夸张而是字面预警——这书里盒子真的会杀人。Miranda 的理性主义（ch01"hated things that made no sense"）正式异化为执念，人物弧线完成第一转。
 
 **读者视角提示**：对照章首"refused to give it any more attention"——24 小时内从"不理它"到"豁出命"，中间发生的三件事（Sarah 之问/装饰羞辱/巫术店）就是推力。读后文时盯住这个公式：羞辱 → 好奇 → 越界。
 

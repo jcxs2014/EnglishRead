@@ -31,7 +31,7 @@ modified: "2026-09-08"
 
 **关键词**：love the questions（爱问题）/ more than the answers（胜过答案）/ people like you（像你这样的人）
 
-**为什么这样写**：全书主题句。"questions vs answers"是 Miranda 全部冲突的总公式：妈妈给答案（because I said so），Maya 给问题（soul made of questions）。"People like me, people like you"用并列完成收养仪式——Maya 把 Miranda 认作同类，而 Miranda 转身就跑（bolted）。主题句出现在决裂时刻：她听到了，但还没准备好要。
+**为什么这样写**：全书主题句。"questions vs answers"是 Miranda 全部冲突的总公式：妈妈给答案（because I said so），Maya 给问题（soul made of questions）。"People like me, people like you"用并列完成收养仪式——Maya 把 Miranda 认作同类，而 Miranda 转身就跑（夺门而逃）。主题句出现在决裂时刻：她听到了，但还没准备好要。
 
 **读者视角提示**：对照 ch01 的"she hated things that made no sense"——从"恨没答案"到"爱问题"，这就是她整本书要走的路。记住这句，后文（如果有续作/结局）她的归宿就是这句话的兑现。
 
@@ -43,7 +43,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：Esther 的神学叛变——"always done everything by the book"的姐姐亲口给通奸（premarital sex）开灰色窗口。Miranda 的世界是黑白的（律所/GOALS/罪），姐姐递来灰色，等于递来赦免（"你也可以不黑白"）。"Mandy"小名+神学松绑，姐妹和解的神学基础在此。
 
-**读者视角提示**：对照 Esther 的未来规划（architect/家族企业/catch）——她的"灰"是精明的灰（算好账再犯），Miranda 的"黑"是失控的黑（咒了姐姐）。姐妹的罪一明一暗，Miranda 的更重，所以是她哭。而且"pierced, tattooed and pregnant"妈妈咒语在姐妹间变成玩笑（teasingly），家规在姐妹同盟里软化。
+**读者视角提示**：对照 Esther 的未来规划（建筑师/家族企业/金龟婿）——她的"灰"是精明的灰（算好账再犯），Miranda 的"黑"是失控的黑（咒了姐姐）。姐妹的罪一明一暗，Miranda 的更重，所以是她哭。而且"pierced, tattooed and pregnant"妈妈咒语在姐妹间变成玩笑（teasingly），家规在姐妹同盟里软化。
 
 > **原句 4:** 'I'd rather you there and ignoring me than not there at all …'
 
@@ -53,7 +53,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：Miranda 全书最卑微的真话。把 ch06 的"我巴不得你走"（气话）亲手撤回，承认"被无视也比失去好"。这是弃儿的经济学：有瑕疵的陪伴 > 真空。省略号是哽咽。Esther 的回避道歉（cowardice）+ Miranda 的挽留，姐妹线从"比较"转成"相依"，为结局（如果姐妹联手）铺路。
 
-**读者视角提示**：记住"You have to love me because you're my sister"——血缘当ius（权利）主张，与 Yoruba 血统（继承）互文：她向姐姐要的"必须爱我"，正是她向祖先要的"必须认我"。亲情与血统在此同构。
+**读者视角提示**：记住"You have to love me because you're my sister"——血缘当权利主张，与 Yoruba 血统（继承）互文：她向姐姐要的"必须爱我"，正是她向祖先要的"必须认我"。亲情与血统在此同构。
 
 > **原句 5:** 'My faith became my rock, Miranda. My strength.'
 
@@ -63,7 +63,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：妈妈第一次袒露创伤（grammar school 唯一的黑女孩/十倍努力/教会接纳），"rock"不再是口号，是幸存者的拐杖。此前妈妈的信仰是压迫 Miranda 的墙，此刻露出墙的来历：墙是冻伤的人盖的。作者让压迫者拥有完整的创伤史——不同情妈妈，就无法理解全书的"埋"（protective burial）。
 
-**读者视角提示**：对照妈妈的"future-facing family"——她的"向前看"不是蒙昧，是创伤后的生存策略（"digging will only confuse you"是经验之谈）。记住"eleven plus/New Cross"细节：具体的เจ็บ，具体的信仰。后文 Miranda 若与妈妈和解，钥匙在此。
+**读者视角提示**：对照妈妈的"future-facing family"——她的"向前看"不是蒙昧，是创伤后的生存策略（"digging will only confuse you"是经验之谈）。记住"eleven plus/New Cross"细节：具体的伤，具体的信仰。后文 Miranda 若与妈妈和解，钥匙在此。
 
 > **原句 6:** 'We're a future-facing family. A family with no dark secrets, just some … dark memories, I suppose.'
 
@@ -81,7 +81,7 @@ modified: "2026-09-08"
 
 **关键词**：bury all（埋葬一切）/ banish（放逐）/ thee（你，古语）
 
-**为什么这样写**：放逐咒的高潮两行，从"By earth, decay and rot"（借土）到"I bury all"（我埋），主语从自然力收束到"我"——Miranda 第一次以施术者自居（此前都是被动）。"thee"古语把咒语抬进仪式 register，与她的 grace 祝祷同源不同神：她用从小念祷的嘴，念了第一句异教咒。这是"语言获得魔力"（ch05 禁言）的正式启用。
+**为什么这样写**：放逐咒的高潮两行，从"By earth, decay and rot"（借土）到"I bury all"（我埋），主语从自然力收束到"我"——Miranda 第一次以施术者自居（此前都是被动）。"thee"古语把咒语抬进仪式语域，与她听过的 grace 祝祷同源不同神：她用从小念祷的嘴，念了第一句异教咒。这是"语言获得魔力"（ch05 禁言）的正式启用。
 
 **读者视角提示**：对照埋葬清单（shop card/黑石/蓝色/Sarah 诗/木偶）——埋的是整个夏天的人格实验。记住"Double security system"（黑盒+纸箱+胶带）：控制狂的封印仪式越隆重，读者越知道封不住。结尾"faintest of rattles"是作者盖的"封不住"章。
 

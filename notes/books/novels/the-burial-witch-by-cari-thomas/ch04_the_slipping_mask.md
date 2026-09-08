@@ -73,7 +73,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：本章最重的信息炸弹，藏在回忆段里轻声引爆。Omotola（Yoruba 名，"孩子值得…"）→ Joy（英文美德名）= 一次自我埋葬：妈妈把自己的过去"bury"了，正如 Miranda 埋盒子。"at some point"的模糊恰是重点——连女儿都不知道时间，可见封口之彻底。妈妈不让女儿"looking back"，因为她自己先埋了路标。
 
-**读者视角提示**：记住"Omotola"，这是妈妈线的总线头（对应 Ayoola 是祖母线线头）。母女三代（Ayoola→Omotola/Joy→Miranda）各埋了一样东西：皮箱/名字/盒子。全书是" excavate（挖掘）"的家族史。
+**读者视角提示**：记住"Omotola"，这是妈妈线的总线头（对应 Ayoola 是祖母线线头）。母女三代（Ayoola→Omotola/Joy→Miranda）各埋了一样东西：皮箱/名字/盒子。全书是一部挖掘家族史。
 
 > **原句 7:** The doll stared back and Miranda did not look away.
 

@@ -61,7 +61,7 @@ modified: "2026-09-08"
 
 **关键词**：magic（魔法）/ belong to（属于）/ any culture（任何文化）
 
-**为什么这样写**：Maya 的世界观总纲，直接 demolish Miranda 的攻防体系（"I don't belong to that culture"）。前半句破（不属于任何文化），后半句立（"what connects us all"）——魔法从"尼日利亚的异物"变成"人类的公约数"，Miranda 再也不能用"我是英国人"当挡箭牌。这是全书主题句之一：归属不在血统纯度，在连接。
+**为什么这样写**：Maya 的世界观总纲，直接拆掉 Miranda 的攻防体系（"I don't belong to that culture"）。前半句破（不属于任何文化），后半句立（"what connects us all"）——魔法从"尼日利亚的异物"变成"人类的公约数"，Miranda 再也不能用"我是英国人"当挡箭牌。这是全书主题句之一：归属不在血统纯度，在连接。
 
 **读者视角提示**：对照妈妈的"you're British. Your life is here"——母女宇宙观在此分叉：妈妈用国籍划界，Maya 用连接破界。Miranda 的诗（Sarah/蓝眼睛/身体）正是"连接"的实践——她先连上了 Sarah，才连上祖先。
 
@@ -73,7 +73,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：继承仪式的极简版：递出 + 命名（yours）。Miranda 扔过、埋过、怕过，最后是"接过来"——动作从拒绝变为认领。"Take it"的祈使与 ch03 "bury"的铭文指令呼应：盒子给指令（bury），Maya 给许可（take），两道外力把她推过"认领血统"的门槛。注意她"didn't want to take it, but she did"——身体先投降。
 
-**读者视角提示**：记住"electric, alluring, addictive"（电/诱惑/上瘾）三词——木偶上手即通电。后文"shape the world / Force it to listen"的野心种子在此 planted。认领=通电=代价，是奇幻契约的标准三段。
+**读者视角提示**：记住"electric, alluring, addictive"（电/诱惑/上瘾）三词——木偶上手即通电。后文"shape the world / Force it to listen"的野心种子在此埋下。认领=通电=代价，是奇幻契约的标准三段。
 
 > **原句 7:** Why am I writing poetry about her?
 
@@ -83,7 +83,7 @@ modified: "2026-09-08"
 
 **为什么这样写**：章末自问与章首布道（Abraham 献子）形成闭环：她讲了一整章"顺服与考验"，结尾却为女孩写诗——身体比神学诚实。这是 Sarah 线的出柜句（写给自己的第一问），也是全书第一次让 Miranda 的诗完整登场（cornflower-blue eyes / slice of the divine）。"her"指代明确，无处可躲。
 
-**读者视角提示**：对照 ch03 的"Why was she writing a poem about a girl she hardly knew?"——同一问题问了两遍，第一遍掐断（cut off），第二遍写完（整首）。从掐断到写完，是她四章内"压抑→承认"的刻度。后文"be mine?"（诗的末句）是 rumbo。
+**读者视角提示**：对照 ch03 的"Why was she writing a poem about a girl she hardly knew?"——同一问题问了两遍，第一遍掐断（cut off），第二遍写完（整首）。从掐断到写完，是她四章内"压抑→承认"的刻度。后文"be mine?"（诗的末句）是下一站。
 
 ## 本章词汇
 
