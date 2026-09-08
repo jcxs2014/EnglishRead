@@ -34,7 +34,8 @@
 │   └── books/               ← 整本书/短篇合集精读库
 │       ├── novels/                      ← 长篇小说（逐章精读）
 │       ├── non-fiction/                 ← 非虚构论述
-│       └── mystery-thriller/            ← 推理/悬疑小说
+│       ├── mystery-thriller/            ← 推理/悬疑小说
+│       └── short-story-anthologies/     ← 短篇合集（逐篇精读）
 ├── scripts/                 ← 工具脚本
 │   ├── scan.py              跨源扫描工具
 │   ├── verify_quotes.py     书籍引语逐字核对
