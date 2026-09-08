@@ -6,6 +6,9 @@ from pathlib import Path
 
 BOOK_DIR = Path("notes/books/mystery-thriller/wolf-hour-by-jo-nesbo")
 TARGETS = {
+    1: (8, 10, 7),   # ch01: 25 total
+    2: (8, 10, 7),   # ch02: 25 total
+    3: (8, 10, 7),   # ch03: 25 total
     4: (8, 10, 7),   # ch04: 25 total
     5: (8, 10, 7),   # ch05: 25 total
     6: (8, 10, 7),   # ch06: 25 total
@@ -23,6 +26,16 @@ TARGETS = {
     18: (8, 10, 7),  # ch18: 25 total
     19: (8, 10, 7),  # ch19: 25 total
     20: (8, 10, 7),  # ch20: 25 total
+    21: (8, 10, 7),  # ch21: 25 total
+    22: (8, 10, 7),  # ch22: 25 total
+    23: (8, 10, 7),  # ch23: 25 total
+    24: (8, 10, 7),  # ch24: 25 total
+    25: (8, 10, 7),  # ch25: 25 total
+    26: (8, 10, 7),  # ch26: 25 total
+    27: (8, 10, 7),  # ch27: 25 total
+    28: (8, 10, 7),  # ch28: 25 total
+    29: (8, 10, 7),  # ch29: 25 total
+    30: (8, 10, 7),  # ch30: 25 total
 }
 
 def trim_file(ch_num, star3_max, star2_max, star1_max):
