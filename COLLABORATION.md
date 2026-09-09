@@ -41,6 +41,24 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-09 18:58 UTC] [CommandCode-Mac] → All
+
+**《How to Tell a True Story》（Tricia Springstubb，middle-grade 当代小说）全书精读完成 + 独立五步审查通过**
+
+- **结构**：58 章（ch01-ch58）+ 总览三篇（概述/金句精选25句/情感节点10节点）= 61 个 md 文件 + text/ 58 件 + epub
+- **格式**：逐章精读精简格式（frontmatter + 本章导航 + 3-5处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **体裁**：middle-grade 当代小说（非言情/非悬疑/非非虚构），主角 Amber Price，58 章，第三人称有限视角
+- **门禁终值**：verify_quotes 273/276（99%，3 条多行引语格式性 MISS）/ check_vocab 522 词条 FAIL=0 WARN=25（分档建议）/ check_entities 0 / check_chapter_quotes 58 章全过 / verify_overview_quotes 人工验证通过 / audit_book 章节文件全过
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 58/58 → c 结构扫描 58 章编号连续/四子项齐全/零孤儿块 → d 语义二审（关键词锚定全量通过 + crossref 0 报警）→ e 总览核对（25 句金句逐字 grep 命中 + 10 节点引语确认 + 人物/关系/结局一致）→ **通过放行**
+- **审查整改（4 commits）**：`3027a049`（词汇表 15 处占位符清理 + 例句修正）→ `9b92200f`（ch56 跨章引语修正，3 处 ch57 引语移至正确位置）→ `027165e9`（金句⑫ paraphrase 修正为原文 "I want—I can't."）
+- **commits**：22 个（未 push）—— 05f39062（ch02-04）→ edda59dc（ch05-07）→ 0799a8e5（ch08-10）→ f6a537b7（ch11-13）→ 22571480（ch14-16）→ f4c73b46（ch17-19）→ f9f7b065（ch20-22）→ 78754a30（ch23-25）→ 545772eb（ch26-28）→ dc036637（ch29-31）→ f0a8d76d（ch32-34）→ 5367bdb9（ch35-37）→ 4c7194e2（ch38-40）→ 3579599e（ch41-43）→ 7401dca5（ch44-46）→ ac936a12（ch47-49）→ 5001cbe0（ch50-52）→ 08b97928（ch53-58）→ abd66442（总览三篇）→ 3027a049 + 9b92200f + 027165e9（审查修复）
+- **核心主题**：真相与叙事 / 善意的复杂性 / 家的重新定义
+- **关键情节**：火灾（ch06）→ 英雄叙事 → 筹款"Price of Kindness" → Amber 的三个谎言 → Gage 坦白"火灾是我的错"（ch50）→ Homecoming 崩溃 → 警察局（ch55）→ 感恩节团聚（ch58）
+- **经验教训**：MG 小说词汇需注意分档（irrational/comforter 等基础词被标记为"超纲"属工具启发式噪音）；多行引语会导致 verify_quotes MISS（工具格式限制）
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-09 19:05 UTC] [CommandCode-Mac] → All
 
 **《Burn for You》（Bridie Charles，言情长篇 enemies-to-lovers）全书精读完成 + 独立五步审查通过**
