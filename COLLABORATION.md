@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-09 19:30 UTC] [Hermes-Mac] → All
+
+**《Pretty Bossy》（Arini Vlotman，言情长篇）全书精读开工**
+
+- **结构**：22 章（ch01–ch22 = Chapter 1–21 + Epilogue），text/ 提取件 22 件已对齐
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **进度**：首章试产 ch01 待写
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-09 18:58 UTC] [CommandCode-Mac] → All
 
 **《How to Tell a True Story》（Tricia Springstubb，middle-grade 当代小说）全书精读完成 + 独立五步审查通过**
@@ -71,6 +82,23 @@
 - **commits**：17 个（未 push）—— 417b5474（ch01-03）→ 4a41add3（ch04-06）→ a294a560（ch07-09）→ 5e5a61ab（ch10-12）→ d3191f83（ch13-15）→ 90d3afb7（ch16-18）→ 05b2ce34（ch19-21）→ 1fb29d87（ch22-24）→ 671c6b3b（ch25-27）→ e3fb97b1（ch28-30）→ d5b1973a（ch31-33）→ a4f8ff28（ch34-36）→ 1c6b32ea（ch37-39）→ cd5a7ce1（ch40-42）→ eefad701（ch43 Epilogue）→ 2342ef4f（总览三篇）→ b365390f（五步审查整改）→ b70b58d8（ch38 引语修复）
 - **核心主题**：信任与创伤治愈 / 家庭的重构 / 从敌人到恋人
 - **关键情节**：肉丸事件 → 火灾救援 → 灾后同居 → 抡大锤翻新 → 雨中追回（I'm in）→ 瀑布表白（I love you / I trust you）→ 尾声怀孕（Clifford 🐕）
+- **未 push**，等用户指令统一推送
+
+---
+
+### [2026-09-09 20:17 UTC] [CommandCode-Mac] → All
+
+**《Lady of the Lake》（C.N. Crawford & Alex Rivers，奇幻言情长篇）全书精读完成 + 终验通过**
+
+- **结构**：61 章正文（ch02–ch62 = Chapter 1–61）+ 总览三篇（概述/金句精选30句/情感节点11节点）= 64 个 md 文件 + text/ 64 件 + epub。ch01=A Recap / ch63=Timeline / ch64=Sample 不精读
+- **格式**：言情精简格式（frontmatter + 本章导航 5 项 + 5-7 处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 383/383 ✅（62 文件全绿）/ check_vocab 1133 词条 FAIL=0 / check_entities 0 / check_chapter_quotes 364/364 逐章归属 100% / verify_overview_quotes 金句 28/28 ✅ / check_crossref 0 / 关键词锚定抽样 0 违规
+- **6 条短引语（<20 flat）人工 grep 全命中**：ch08'You didn't leave' / ch17'Mongrel scum' / ch27'So what if I want you' / ch34'Hungry, are you?' / ch55'Burn that shit' / 情感节点'That…sexiest thing'
+- **总览引语**：金句 28/28 工具通过，概述/情感节点引语逐条 grep 命中原文；情感节点 5 处跨叙述标签引语已改为逐字连续文本（verify 21/21 全绿）
+- **commits**：22 个（未 push）—— b365390f 之前已有 ch02 入库，本任务 37ce93db（ch03-04）→ … → a72806d9（ch58-62）→ ec09ee1e（总览三篇）→ aca4021d（情感节点修复）
+- **核心主题**：身份与真相（Nia 从农家女到 Lady of the Lake，Talan 从伪怪物到真国王）/ 爱跨越敌对（enemies-to-lovers：从"I'm going to kill"到"I'll burn with him"）/ 权力与责任（共和国 vs 暴政，Talan 的"These subjects are mine. They are starving."）
+- **关键情节**：假婚礼 → 蛇怪追杀 → 梦境见真心 → 暗杀之夜叛逃 → 身份揭露（Morgan 后裔/王位继承人）→ Feybane 瘟疫销毁 → 龙战击败 Auberon → 假瘟疫酒瓶停战 → 共和国 → 生日庆典大团圆
+- **经验**：text/ 提取件 64 含非正文（Recap/Timeline/Sample），正文为 ch02-62；总览引语若跨叙述标签（如 "I understand why you lied," he says softly.）须逐字含标签文本，否则 flat 匹配失败
 - **未 push**，等用户指令统一推送
 
 ---
