@@ -1233,7 +1233,7 @@
 4. **生成期垃圾词**： tired 写作中混入西里尔/越语/法语词（phen/имущества/myo/hận/trágic/nuts 单用珍贵体），已全清；教训=写完即跑 Cyrillic 扫描，不要等终审
 
 **提交**（16 个 commit，均未 push）：
-- d2151ecb（批1 ch01-03，需 git log 补 ch04？注：ch04 在批1内；另 87c6f8d0 ch04 勘误、71714477 ch18 勘误）
+- d2151ecb（批1 ch01-04，含首章试产）/ 87c6f8d0（ch04 勘误）/ 71714477（ch18 勘误）
 - a27e6d8b / 102b1b78 / a983b059 / caafb766 / c038e2aa / 0d08ef02 / 577db9e4 / 6b2d8df5 / 8cc19318 / 6864d55e / f0fc9187 / 6e99b1ae / 32052f3f / e9fc0a15（总览）
 - 文件结构：42 ch*.md + 3 00*.md + 42 text/*.txt + epub
 
