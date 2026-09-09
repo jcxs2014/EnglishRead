@@ -15,7 +15,7 @@ modified: "2026-09-09"
 
 ## 精读
 
-> **原句 1:** I needed you. I've missed you, Mari.
+> **原句 1:** "I needed you," I say.
 
 **中文理解**：我需要你。我是哥哥，应该坚强的人，我做得很好。但我本可以在身边有个妹妹。我很想你，Mari。
 
