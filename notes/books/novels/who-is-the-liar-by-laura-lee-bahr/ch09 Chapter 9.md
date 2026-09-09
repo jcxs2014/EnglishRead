@@ -31,7 +31,7 @@ modified: "2026-09-08"
 
 **中文理解**：她微笑着，像学校摄影师让你说"茄子"那样微笑，但她的棕色眼睛里没有笑意。
 
-**关键词**：cheese / smiling in her eyes
+**关键词**：cheese / brown eyes
 
 **为什么这样写**：Topaz 注意到 Janie 照片中的"假笑"——嘴笑但眼不笑。这是 Topaz 的洞察力：她能看穿表面的"微笑"。这与 Brother Johnson 的"always smiling at you"形成对照。
 
@@ -79,7 +79,7 @@ modified: "2026-09-08"
 
 **中文理解**："请不要把 Ruby 送走！"
 
-**关键词**：send away
+**关键词**：send Ruby away
 
 **为什么这样写**：Topaz 的请求是全书最矛盾的段落——她害怕 Ruby，但更害怕失去 Ruby。"send away"意味着家庭分离，而 Topaz 无法想象没有 Ruby 的生活（即使是恐惧的生活）。
 

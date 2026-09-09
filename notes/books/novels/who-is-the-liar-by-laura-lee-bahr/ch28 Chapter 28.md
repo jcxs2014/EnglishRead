@@ -67,7 +67,7 @@ modified: "2026-09-08"
 
 **中文理解**：她给我们讲了一个关于童话的梦，在格林兄弟的故事中，她是母狼，狼吃了她所有的孩子，她必须在狼睡觉时剖开它，用石头填满它的肚子。
 
-**关键词**：fairy tale / mother sheep / wolf / cut open / rocks
+**关键词**：fairy tale / mother sheep / wolf / cut him open / rocks
 
 **为什么这样写**：妈妈的"mother sheep"是"母性"——她想要"保护"孩子。"wolf"是"威胁"——但"狼"也是"她自己"（她正在"吃"自己的孩子）。
 

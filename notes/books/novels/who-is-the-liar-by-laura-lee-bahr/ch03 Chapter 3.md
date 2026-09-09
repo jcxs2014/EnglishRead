@@ -31,7 +31,7 @@ modified: "2026-09-08"
 
 **中文理解**："我明天或后天得了结了他，然后让 Dale 帮我处理掉他。"
 
-**关键词**：finish with / get rid of / body
+**关键词**：finish with / get rid of / Dale
 
 **为什么这样写**：Ruby 用"finish with"和"get rid of"这样轻描淡写的短语描述谋杀和毁尸，将极端暴力日常化。"Dale"的提及暗示她有同伙。
 

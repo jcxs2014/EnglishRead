@@ -29,7 +29,7 @@ modified: "2026-09-08"
 
 > **原句 2:** "Earn it back, Ruby," he says, like he's head coach in a sports movie. "Earn our trust back tonight."
 
-**中文理解："去赢回来，Ruby，"他说，像体育电影里的主教练。"今晚赢回我们的信任。"**
+**中文理解**："去赢回来，Ruby，"他说，像体育电影里的主教练。"今晚赢回我们的信任。"
 
 **关键词**：earn it back / trust / head coach
 
@@ -64,6 +64,8 @@ modified: "2026-09-08"
 ---
 
 > **原句 5:** "It's broken! It's broken! It's broken!"
+
+**中文理解**："断了！断了！断了！"
 
 **关键词**：broken
 

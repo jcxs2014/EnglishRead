@@ -55,7 +55,7 @@ modified: "2026-09-08"
 
 **中文理解**："她从未像这样和我们说话。好像我们现在都是成年人了。"
 
-**关键词**：talks / like never before / grown-ups
+**关键词**：talks / like she never has before / grown-ups
 
 **为什么这样写**：Ruby 的"like grown-ups"是"赋权"——她让妹妹们感到"被尊重"，但这只是操控的一部分。"like never before"是 Ruby 的"新策略"——她不再用"恐惧"，而是用"信任"。
 

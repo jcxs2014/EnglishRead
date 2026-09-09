@@ -67,7 +67,7 @@ modified: "2026-09-08"
 
 **中文理解**："正常人不会发生这样疯狂可怕糟糕的事情。他们不会。所以他一定是……我不知道……坏的。"
 
-**关键词**：normal people / terrible things / bad
+**关键词**：normal people / terrible awful things / bad
 
 **为什么这样写**：Lavender 的"normal people"逻辑是"公正世界谬误"——如果坏事发生，那一定是"坏人"。"he must be bad"是 Lavender 的简化——她无法理解"正常人也会遭遇坏事"。
 

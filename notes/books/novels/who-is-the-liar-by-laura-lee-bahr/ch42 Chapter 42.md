@@ -79,7 +79,7 @@ modified: "2026-09-08"
 
 **中文理解**："我不想再和 Ruby 同住一室了，"我说。"好的，Topaz，"她如释重负地说。"你不必。"她没有让我和她睡觉。她没有叫我她的宝贝。她只是说，"你再也不必和 Ruby 同住一室了。"那很好。
 
-**关键词**：share a room / relief / don't have to / ever again / good
+**关键词**：share a room / Ruby again
 
 **为什么这样写**：Topaz 的"don't want"是"边界"——她"设定""界限"。"relief"是"解脱"——妈妈"解脱"了。
 

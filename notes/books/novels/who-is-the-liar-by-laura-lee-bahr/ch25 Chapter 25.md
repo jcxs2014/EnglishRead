@@ -43,7 +43,7 @@ modified: "2026-09-08"
 
 **中文理解**："你必须爬进去，"她说。我们在一个秘密的圆锥形帐篷里。
 
-**关键词**：crawl in / secret tepee
+**关键词**：crawl in / she says
 
 **为什么这样写**：Ruby 的"crawl in"是"进入另一个世界"——tepee 是"秘密空间"，只有"知道的人"才能进入。"secret tepee"是 Ruby 的"城堡"，由"偷来的物品"组成。
 

@@ -55,11 +55,11 @@ modified: "2026-09-08"
 
 **中文理解**："很恶心，里面的味道，" Lavender 低语。"我差点吐了。门上有血——一个血手印——地板上有破罐子和割断的绳子和胶带，我发誓我找到了一颗他的牙齿。"
 
-**关键词**：disgusting / smell / bloody handprint / broken jars / cut rope / tooth
+**关键词**：disgusting / smell / bloody handprint / broken jars / cut rope / teeth
 
-**为什么这样写**：Lavender 的"bloody handprint"是"证据"——"他"确实"存在"。"tooth"是"暴力"的"证据"——Ruby 打掉了他"牙齿"。
+**为什么这样写**：Lavender 的"bloody handprint"是"证据"——"他"确实"存在"。"teeth"是"暴力"的"证据"——Ruby 打掉了他"牙齿"。
 
-**读者视角提示**：Lavender 的"tooth"是"物证"——但也是"战利品"——Ruby 的"暴力"的"证明"。
+**读者视角提示**：Lavender 的"teeth"是"物证"——但也是"战利品"——Ruby 的"暴力"的"证明"。
 
 ---
 

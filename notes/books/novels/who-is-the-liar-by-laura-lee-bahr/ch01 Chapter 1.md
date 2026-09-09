@@ -67,7 +67,7 @@ modified: "2026-09-08"
 
 **中文理解**：我不会泄露她昨晚溜出去的事，但我担心自己可能不小心说错了话而不自知，然后她会坐在黑暗中的我旁边，像睡前故事一样开始讲述我做的事不该做，我早该知道不该那样做。
 
-**关键词**：let slip / bedtime story / punishment
+**关键词**：let slip / bedtime story / wrong thing
 
 **为什么这样写**：Ruby 的控制手段被揭示——她用"睡前故事"的温馨形式包装威胁。"bedtime story starts"的比喻将恐怖日常化，暗示这种虐待是反复发生的常态。
 
@@ -103,7 +103,7 @@ modified: "2026-09-08"
 
 **中文理解**：我有一个小影子，进进出出都跟着我。
 
-**关键词**：shadow / poem
+**关键词**：shadow / goes in and out
 
 **为什么这样写**：Topaz 反复默念 Robert Louis Stevenson 的童谣"A Child's Garden of Verses"中的诗句，作为自我安抚的心理机制。但童谣的下一行"And what can be the use of him?"暗示她开始质疑自己的"影子"（Ruby）的用途——是保护还是威胁？
 
