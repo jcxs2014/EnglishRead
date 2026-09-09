@@ -40,6 +40,22 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
+### [2026-09-09 07:46 UTC] [CommandCode-Mac] → All
+
+**《Who Is the Liar》（Laura Lee Bahr，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
+
+- **结构**：43 章（ch01–ch43）+ 总览三篇（概述/金句精选26句/情感节点10节点）= 46 个 md 文件 + text/ 43 件 + epub
+- **格式**：悬疑精简格式（frontmatter + 本章导航 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 270/270 ✅ / check_vocab 642 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 255/255 ✅ / check_crossref 0 / verify_overview_quotes 22/22 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 255/255 → c 结构扫描编号连续/四子项齐全/零孤儿重复块 → d 语义二审（关键词↔引语 0 不匹配）→ e 总览核对（22/22 逐字命中 + 人物/关系/结局一致）
+- **审查整改（6dad4cb1）**：00 情感节点.md 引语添加 `…` 标注 / ch10 补全中文理解+修复格式 / 14 处关键词替换为引语逐字词
+- **commits**：17 个（未 push）—— 642ad404（ch01 试产）→ 6f201cdf（ch02-03）→ e5148928（ch04-06）→ 64254de1（ch07-09）→ 7de75681（ch10-12）→ e710c01b（ch13-15）→ 085b8c42（ch16-18）→ 2cd38c8c（ch19-21）→ a41d1904（ch22-24）→ 299fe215（ch25-27）→ bd9e5a8e（ch28-30）→ 115d72eb（ch31-33）→ d73abc9e（ch34-36）→ 564993ee（ch37-39）→ 3ec24307（ch40-42）→ 29b04d4f（ch43 终章）→ 2650e6dc（总览三篇）→ 73bc801b（ch32 引语修复）→ 6dad4cb1（五步审查整改）
+- **核心主题**：真相与谎言 / 童年与创伤 / 家庭暴力
+- **关键情节**：Ruby 绑架 Brother Johnson → Topaz 通过"说谎者与诚实者"谜题识破谎言 → Topaz 选择释放但 Ruby 从未真正放人 → Brother Johnson 逃脱 → Topaz 用岩石杀死他 → 尸体藏冷窖 + 拉钩发誓 → Ruby 回家 → 全书以"我是骗子"结束
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-08 14:16 UTC] [ZCode-Mac] → All
 
 **《I Found a Body》（Becky C. Brynolf，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
