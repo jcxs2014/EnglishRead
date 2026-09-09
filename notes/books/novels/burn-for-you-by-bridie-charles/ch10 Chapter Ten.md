@@ -29,6 +29,8 @@ modified: "2026-09-09"
 
 > **原句 2:** Any animosity between us has vanished in this moment. There's only terror, and what I hope is trust between us now.
 
+**中文理解**：我们之间的任何敌意都在这一刻消失了。只有恐惧，以及我希望是信任。
+
 **关键词**：animosity / vanished / trust
 
 **为什么这样写**："animosity" 是两人关系四个月的总结词，"vanished" 的瞬间性（不是一点一点减少，而是立刻消失）暗示这些"仇恨"从未真正存在——它们只是恐惧的伪装；"what I hope is trust" 的诚实表达暴露了 Rafael 的不确定——他不确定她是否信任他，但他希望如此。

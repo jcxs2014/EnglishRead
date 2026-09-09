@@ -31,7 +31,7 @@ modified: "2026-09-09"
 
 **中文理解**：我专注于松树和麝香的气味。Rafael 的气味。今天早上他靠近我时涌入我鼻孔的气味。
 
-**关键词**：pine and musk / Rafael's smell / invaded my nostrils
+**关键词**：pine and musk / invaded my nostrils
 
 **为什么这样写**："pine and musk" 的嗅觉描写是 May 对 Rafael 的"感官记忆"——她已经把他的气味刻在了记忆中；"invaded my nostrils" 的动词"invade"（入侵）暗示他的气味是"不可抗拒的"——她没有选择，只能接受。
 

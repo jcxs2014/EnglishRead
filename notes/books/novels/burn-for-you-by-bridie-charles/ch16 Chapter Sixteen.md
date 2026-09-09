@@ -41,7 +41,7 @@ modified: "2026-09-09"
 
 > **原句 3:** It feels like we are speaking about everything that's happened between us over the last few weeks without either of us even uttering a word.
 
-**中文感觉**：感觉我们像是在谈论过去几周发生的一切，而我们甚至没有说出一个字。
+**中文理解**：感觉我们像是在谈论过去几周发生的一切，而我们甚至没有说出一个字。
 
 **关键词**：speaking about / without / uttering a word
 

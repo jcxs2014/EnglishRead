@@ -19,7 +19,7 @@ modified: "2026-09-09"
 
 **中文理解**：我讨厌 Olive&Vine。好吧，我不讨厌它，我只是……不像以前那样爱它了。
 
-**关键词**：hate / don't love / not like I used to
+**关键词**：hate / not like I used to
 
 **为什么这样写**：这句话是全书最深的自我揭露——Rafael 对 May 说出了从未对任何人说过的话；"not like I used to" 暗示"曾经爱过，但现在不了"——这是 grief 的延续，而非热情的消失。
 

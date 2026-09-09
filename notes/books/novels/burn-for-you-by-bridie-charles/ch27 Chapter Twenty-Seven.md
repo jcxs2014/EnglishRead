@@ -19,7 +19,7 @@ modified: "2026-09-09"
 
 **中文理解**：我后悔那天晚上。——谎话。我希望能后悔。——实话。
 
-**关键词**：regret / lie / wish I could / truth
+**关键词**：regret / wish I could / truth
 
 **为什么这样写**：这两句话是整章的"bombshell"——May 说"我后悔"，但 Rafael 知道这是谎话；她的"truth"是"我希望能后悔"（但我不能），这暗示"她不想后悔"，因为"那天晚上"是真实的。
 
