@@ -57,13 +57,13 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 4:** "Dad, this is insane. I know I told you I'd give you two weeks, that I'd stay with you. I can't do this. Not with Candy's big mouth. Not with her here."
+> **原句 4:** "Dad, this is insane." Easton slams his hand on the table. "I know I'd give you two weeks, that I'd stay with you. I'd be on the boat; we'd be together as a family. But I can't do this. Not with Candy's big mouth. Not with her here. This is it, Dad. We have to talk."
 
-**中文理解**：爸，这太离谱了。我知道我说过给你两周时间，我会留在船上。但我做不到。Candy 的大嘴巴我忍不了。有她在就不行。
+**中文理解**：爸，这太离谱了。Easton 用力拍了一下桌子。「我知道我说过给你两周时间，我会留在船上。我们会在船上；我们作为一个家庭在一起。但我做不到。Candy 的大嘴巴我忍不了。有她在就不行。就这样吧，爸。我们必须谈谈。」
 
-**关键词**：this is insane / I can't do this / Candy's big mouth
+**关键词**：this is insane / I can't do this / We have to talk
 
-**为什么这样写**：Easton 的 outburst 是他一直在忍的结果——从 Brianna 到 hobo comment，积累到了一个临界点。他的"I can't do this"是 boundary-setting：他不只是对 Candy 不满，他是在和整个 family system 决裂。他的"I know I told you I'd give you two weeks"是 honesty：他本来愿意 try，但他现在放弃了这个承诺。
+**为什么这样写**：Easton 的 outburst 是他一直在忍的结果——从 Brianna 到 hobo comment，积累到了一个临界点。他的"I can't do this"是 boundary-setting：他不只是对 Candy 不满，他是在和整个 family system 决裂。"This is it, Dad. We have to talk"是他的 ultimatum。
 
 **读者视角提示**：Easton 的视线转向 Haley（"He stares over at me"）是重要的：他在 family 崩溃时 looking for an ally outside of it。Haley 不是 family，但她代表了某种 authenticity 和 kindness。
 

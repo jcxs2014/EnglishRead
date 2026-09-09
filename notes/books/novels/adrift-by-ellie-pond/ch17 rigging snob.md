@@ -21,15 +21,15 @@ modified: "2026-09-09"
 
 ## 精读
 
-> **原句 1:** "You know you're amazing, right?" My back hits the door of the butler's pantry, and Sam grabs the base of my chin and tilts it up.
+> **原句 1:** "You know you're amazing, right?"
 
-**中文理解**：「你知道你有多棒吗？」我的背抵上管家餐具室的门，Sam 抓住我的下巴底部向上抬。
+**中文理解**：「你知道你有多棒吗？」
 
-**关键词**：You know you're amazing / back hits the door / grabs the base of my chin
+**关键词**：You know you're amazing / right
 
-**为什么这样写**：这是 Sam 的 tender moment——和昨天（ch12）的 sexually charged 不同，今天他选择说"you're amazing"而不是直接吻下去。"grabs the base of my chin"是控制性的 physical gesture，但不是 aggressive；他在控制这个 moment 而不是 rushed。这个和 ch12 的"his mouth hits mine"形成对比。
+**为什么这样写**：这是 Sam 的 tender moment——和昨天（ch12）的 sexually charged 不同，今天他选择说"you're amazing"而不是直接吻下去。"grabs the base of my chin"是控制性的 physical gesture，但不是 aggressive；他在控制这个 moment 而不是 rushed。
 
-**读者视角提示**：注意这是 chapter 开头紧接 ch16 的 butler's pantry cliffhanger——他们终于有了 private moment，但 Sam 的反应是 emotional compliment 而非 physical escalation。这个"amazing"和第一章的"you're one of the most intoxicating women"呼应。
+**读者视角提示**：注意这是 chapter 开头紧接 ch16 的 butler's pantry cliffhanger——他们终于有了 private moment，但 Sam 的反应是 emotional compliment 而非 physical escalation。
 
 ---
 
@@ -57,11 +57,11 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 4:** "I would love something local." You know what? She stands on the footrest of the bar stool, leans across the counter, and whispers in my ear.
+> **原句 4:** "You know what?" She stands on the footrest of the bar stool, leans across the counter, and whispers in my ear. "I would love something local."
 
-**中文理解**：「我想要点当地特色的。」你知道吗？她站在吧台凳的脚踏上，斜过柜台，凑到我耳边悄悄说。
+**中文理解**：「你知道吗？」她站在吧台凳的脚踏上，斜过柜台，凑到我耳边悄悄说。「我想要点当地特色的。」
 
-**关键词**：something local / stands on the footrest / whispers in my ear
+**关键词**：You know what / stands on the footrest / whispers in my ear / something local
 
 **为什么这样写**：Emily 的"something local"是对 Candy 的无声反抗——Candy 和 Rocky 都没有点当地菜，Emily 却在请求 authentic local cuisine。她的"whispers in my ear"是私密的朋友之间的悄悄话，不是 staff-guest 的正式对话。这个 moment 建立了 Haley 和 Emily 的 friendship bond。
 
