@@ -127,7 +127,7 @@ modified: "2026-09-09"
 
 - 句子结构：It clouded…made…（酒干了两件事：模糊判断、放大方）+ which he could see was a problem（他看得出是问题：自知）。
 
-- 关键词：**clouded**（模糊——判断的天气：多云）；**overly generous**（过大方——大方的病：过量）；**could see**（看得出——自知，自知之明 имеется，用不上）
+- 关键词：**clouded**（模糊——判断的天气：多云）；**overly generous**（过大方——大方的病：过量）；**could see**（看得出——自知，自知之明是有的，用不上）
 
 - 表达方式：**用天气写酒**。clouded（多云）：判断的天空多云，多云即看不清。而 overly generous（过大方）是多云的后果：看不清，就多给（钱、承诺、温柔）——多给即漏财。而 could see was a problem（看得出是问题）是酒醒时的结算：看得出，但下次还喝——自知不改知，改叫下次。
 
