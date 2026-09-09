@@ -14,8 +14,11 @@ title: 书单
 | [A Most Angelic Death](books/novels/a-most-angelic-death/) | — |
 | [A Real Paige Turner](books/novels/a-real-paige-turner-by-michelle-eileen/) | Michelle Eileen |
 | [A Sea of Unspoken Things](books/novels/a-sea-of-unspoken-things-by-adrienne-young/) | Adrienne Young |
+| [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
+| [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
+| [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
@@ -23,20 +26,25 @@ title: 书单
 | [Getaway Girl](books/novels/getaway-girl-by-tessa-bailey/) | Tessa Bailey |
 | [Golden Boy](books/novels/golden-boy-by-a-j-symon/) | A.J. Symon |
 | [Helm](books/novels/helm-by-sarah-hall/) | Sarah Hall |
+| [How to Tell a True Story](books/novels/how-to-tell-a-true-story-by-tricia-springstubb/) | Tricia Springstubb |
 | [In a Heartbeat](books/novels/in-a-heartbeat-by-ali-novak/) | Ali Novak |
 | [Inverno](books/novels/inverno-by-cynthia-zarin/) | Cynthia Zarin |
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
+| [Lady of The Lake](books/novels/lady-of-the-lake-by-c-n-crawford-and-alex-rivers/) | C.N. Crawford & Alex Rivers |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
 | [Memories Like Fangs](books/novels/memories-like-fangs-by-chelsey-j-leon/) | Chelsey J. León |
+| [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
+| [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
 | [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
 | [Perfection](books/novels/perfection-by-vincenzo-latronico/) | Vincenzo Latronico |
 | [Rookie Season](books/novels/rookie-season-by-leah-brunner/) | Leah Brunner |
 | [The Afterdark](books/novels/the-afterdark-by-e-latimer/) | E. Latimer |
 | [The Book of Doors](books/novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown |
 | [The Book of Heartbreak](books/novels/the-book-of-heartbreak-by-ova-ceren/) | Ova Ceren |
+| [The Bucket List](books/novels/the-bucket-list-by-ali-parker/) | Ali Parker |
 | [The Burial Witch](books/novels/the-burial-witch-by-cari-thomas/) | Cari Thomas |
 | [The Butcher of the Forest](books/novels/the-butcher-of-the-forest-by-premee-mohamed/) | Premee Mohamed |
 | [The Eleventh Hour](books/novels/the-eleventh-hour-by-salman-rushdie/) | Salman Rushdie |
@@ -46,6 +54,7 @@ title: 书单
 | [The Lack of Light](books/novels/the-lack-of-light-by-nino-haratischwili/) | Nino Haratischwili |
 | [The Last Thing](books/novels/the-last-thing-by-bethany-monaco-smith/) | Bethany Monaco Smith |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
+| [The Sweet Chef](books/novels/the-sweet-chef-and-the-corporate-queen-by-susanne-ash/) | Susanne Ash |
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
 | [The Runaway Duchess](books/novels/the-runaway-duchess-by-alda-kazmierczak/) | Alda Kazmierczak |
@@ -92,6 +101,7 @@ title: 书单
 |------|------|
 | [Against Everything](books/non-fiction/against-everything-by-mark-greif/) | Mark Greif |
 | [Books That Saved My Life](books/non-fiction/books-that-saved-my-life/) | — |
+| [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
 | [Extraordinary Insects](books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/) | Anne Sverdrup-Thygeson |
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |

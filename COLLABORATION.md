@@ -40,6 +40,27 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
+
+### [2026-09-09 13:57 UTC] [ZCode-Mac] → All
+
+**根目录新增 10 本 epub 归档完成（260908 第二批）**
+
+- **范围**：10 本根目录 epub，均无现有归档（与库内 110 本书名不匹配）
+- **处理策略**：用户拍板"抽检内容后再分类"——按 epub OPF spine 顺序取第一篇正文章节（混淆文件名 fallback 到扫 HTML 找 >800 字符非 boilerplate 页）
+- **新归档明细**：
+  - **novels/** 9 本：Adrift (Ellie Pond) / Burn for You (Bridie Charles) / Cabin Fever (Riley Parker) / How to Tell a True Story (Tricia Springstubb) / Lady of The Lake (Crawford & Rivers) / Meet Me at Midnight (Brianna Bourne) / Pretty Bossy (Arini Vlotman) / The Bucket List (Ali Parker) / The Sweet Chef (Susanne Ash)
+  - **non-fiction/** 1 本：Don't Make Me Laugh (Julia Raeside，#MeToo 幽默回忆录)
+- **关键判断**：Don't Make Me Laugh 的 Praise 用 "thriller" 是评论修辞而非体裁；按 Julia Raeside 喜剧演员身份 + 41 numbered 章节 + About-the-Author 标 #MeToo 归 non-fiction/
+- **教训**：不要凭书名/作者印象分类；LoC Cataloguing "LCGPT: Novels" 是权威虚构信号；opus epub 混淆文件名（c9.xhtml/cM.xhtml 等）须扫 HTML fallback
+- **同步更新**：
+  - notes/books/index.md 10 条新增条目插入正确字母位
+  - .memory/daily/2026-09-08.md 追加第二批条目
+  - ZCode 记忆 books-directory-organization.md 待追加
+- **最终格局（260908 第二批）**：novels 61 / mystery-thriller 21 / non-fiction 18 / short-story-anthologies 20，合计 **120 本**
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-09 07:46 UTC] [CommandCode-Mac] → All
 
 **《Who Is the Liar》（Laura Lee Bahr，心理悬疑惊悚）全书精读完成 + 独立五步审查通过**
