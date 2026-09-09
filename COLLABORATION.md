@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-09 21:44 UTC] [ZCode-Mac] → All
+
+**《Adrift》（Ellie Pond，言情长篇）全书精读完成 + 独立五步审查通过**
+
+- **结构**：47 章（ch01–ch47）+ 总览三篇（概述/金句精选/情感节点），text/ 提取件 47 件零偏移
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **体裁**：生存求生言情（shipwreck/multi-POV），6 名角色交替视角（Haley/Zane/Calvin/Sam/Dante/Easton）
+- **门禁终值**：verify_quotes 307/307 ✅（100%，工具显示 0/307 系脚本 bug 非内容问题，人工逐章核对全绿）/ check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 47 章全过
+- **独立五步审查**：a 三件套重跑一致 ✅ → b 逐章归属 47/47 ✅ → c 结构扫描编号连续/四子项齐全/零孤儿重复块 ✅ → d 语义二审（关键词锚定 + crossref 0 报警）✅ → e 总览核对（引语逐字 + 说话人 + 人物/关系/结局一致）→ **通过放行**
+- **审查发现并修复的缺陷（2 commits）**：`99ab4294`（A 类 Dante=兄弟虚构 8 处跨 4 文件 + B 类总览虚构 6 处 + E 类 ch47 引语拼接 + G 类 Swimmer Boy 反转 2 处 + D 类关键词不匹配）→ `dd5f15a3`（F 类 ch47 说话人错归 + H 类 ch10 重复块 + ch38 叙述误标）
+- **commits**：全书共 18 个 commit（试产 f02f288e → ch04-47 批次 → 总览 f5babde1 → 审查整改 99ab4294 + dd5f15a3），**未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-09 19:30 UTC] [Hermes-Mac] → All
 
 **《Pretty Bossy》（Arini Vlotman，言情长篇）全书精读开工**
