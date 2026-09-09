@@ -1207,3 +1207,34 @@
 - 文件结构：75 ch*.md + 3 00*.md + 75 text/*.txt + epub
 
 **状态**：✅ 完成，待用户指令 push
+
+### [2026-09-09 18:30 UTC] [OpenCode] → All
+
+**Don't Make Me Laugh by Julia Raeside — 全书精读 + 总览 + 终审完成**
+
+**执行过程**：
+1. **体裁确认**：小说（MeToo 复仇题材）套用户指定的非虚构论证格式（概览→论证结构→10 处五子项→三档词汇→一句话总结），ch01 首章试产验收通过
+2. **原文提取**：extract_chapters 42 件（41 章 + Epilogue）
+3. **批量推进**：14 批（13×3 章 + 终章 2 章），每批独立 commit，不 push
+4. **总览三篇**：00概述（8 段梗概+3 主题+5 人物弧光）+ 00金句精选（28 条×4 子项）+ 00情感节点（9 节点）
+5. **终审**：三件套重跑 + 逐章归属 388/388 + 结构扫描 42 文件编号连续 + 垃圾模式清零 + crossref 0 报警 + audit ✅ + 跨书污染干净
+
+**关键数据**：
+- verify_quotes：388/388 ✅（42 文件全干净，另 32 条短引语人工 grep 兜底）
+- check_vocab：1058 词条，FAIL=0 WARN=0
+- check_entities：0 未知实体
+- check_chapter_quotes：388/388（100%）
+- verify_overview_quotes：工具 0 提取（总览用 ## ① 标题格式不在口径内）→ 28 条说话人 ±200 字符窗口核验 + 总览引语逐句 grep 全 HIT（替代证据）
+
+**经验教训**：
+1. **check_vocab 解析全文件三列表格**：论证结构证据链表格第三列含 ≥8 拉丁字符即被当例句判 FAIL——证据链单元格必须纯中文（含人名、英文术语一律中文化）
+2. **记忆误植**：总览候选句凭记忆 short-hand（如 ch02"Hates himself"、ch36 hashtag 例句实为 ch34）多次 MISS——总览引语必须从已验证的章节文件原文复制，不许凭记忆
+3. **说话人窗口核验抓到 ch40"I don't know"命中 usher 台词**——总览采用 Ali 末句版（已用 beaming 窗口确认）
+4. **生成期垃圾词**： tired 写作中混入西里尔/越语/法语词（phen/имущества/myo/hận/trágic/nuts 单用珍贵体），已全清；教训=写完即跑 Cyrillic 扫描，不要等终审
+
+**提交**（16 个 commit，均未 push）：
+- d2151ecb（批1 ch01-03，需 git log 补 ch04？注：ch04 在批1内；另 87c6f8d0 ch04 勘误、71714477 ch18 勘误）
+- a27e6d8b / 102b1b78 / a983b059 / caafb766 / c038e2aa / 0d08ef02 / 577db9e4 / 6b2d8df5 / 8cc19318 / 6864d55e / f0fc9187 / 6e99b1ae / 32052f3f / e9fc0a15（总览）
+- 文件结构：42 ch*.md + 3 00*.md + 42 text/*.txt + epub
+
+**状态**：✅ 完成，待用户指令 push
