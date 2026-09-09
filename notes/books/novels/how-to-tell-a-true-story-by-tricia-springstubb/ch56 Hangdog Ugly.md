@@ -39,39 +39,39 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 3:** "Before—I didn't know how hard things can be." She fumbled to say what she meant. Something true. "I didn't know how things can seem not so bad, as long as they happen to other people instead of you."
+> **原句 3:** "You're right, Amber. The truth is often hangdog ugly." Mrs. O. nodded. "But I guarantee you this. Facing the truth—that is always a thing of beauty."
 
-**中文理解**："以前——我不知道事情会有多难。" 她笨拙地说出她的意思。真实的话。"我不知道事情看起来没那么糟，只要它们发生在别人身上而不是你身上。"
+**中文理解**："你说得对，Amber。真相往往是难看的。" O 老师点点头。"但我向你保证。面对真相——那永远是美的事物。"
 
-**关键词**：didn't know how hard / seem not so bad / other people instead of you
+**关键词**：hangdog ugly / Facing the truth / thing of beauty
 
-**为什么这样写**：Amber 对 Maxwell 的道歉——"other people instead of you" 是共情的核心——你无法真正理解别人的痛苦，直到它发生在你身上。
+**为什么这样写**：Mrs. O. 的智慧——她修正了济慈："Truth isn't beauty. Facing truth is beauty." 这是全书的哲学总结。
 
-**读者视角提示**：Amber 的成长——她从"共情的失败"（ch23 的 Jessie，ch23 的 Lottie）到"共情的成功"。
-
----
-
-> **原句 4:** "If I forget, then all this terrible stuff happened for no reason. I don't think I could stand that."
-
-**中文理解**："如果我忘记了，那所有这些可怕的事就毫无意义地发生了。我觉得我无法忍受那个。"
-
-**关键词**：forget / no reason / couldn't stand
-
-**为什么这样写**：Amber 的承诺——她不会忘记。忘记意味着灾难毫无意义。
-
-**读者视角提示**：Amber 的成长——她从"逃避"到"记住"。
+**读者视角提示**：Amber 的成长——她理解了"美"不是真相本身，而是面对真相的勇气。
 
 ---
 
-> **原句 5:** Kindness is not a reward. Everybody deserves it, no matter what. —Maxwell Driver and Lottie Jackson.
+> **原句 4:** "Yeah, if only some people deserve kindness, then it's just a reward."
 
-**中文理解**："善意不是奖励。每个人都值得它，无论什么。" ——Maxwell Driver 和 Lottie Jackson。
+**中文理解**："是啊，如果只有某些人值得善意，那善意就只是奖励。"
 
-**关键词**：not a reward / Everybody deserves it / no matter what
+**关键词**：deserve kindness / reward
 
-**为什么这样写**：新的"Words of Wisdom"——由 Maxwell 和 Lottie 共同撰写。这是全书的最终信息。
+**为什么这样写**：Maxwell 的洞察——"deserve kindness" 是全书的核心问题。他的评论将"善意"从"奖励"重新定义为"权利"。
 
-**读者视角提示**：全书的结束语——"善意不是奖励，每个人都值得它。" 这是 Amber 学到的最重要的一课。
+**读者视角提示**：Maxwell 的转变——从"bad kid" 到"有洞察力的思考者"。
+
+---
+
+> **原句 5:** "I guess so. Something like that." When Jessie smiled, her eyes lit up like they held little candles.
+
+**中文理解**："我猜是吧。类似那样。" Jessie 微笑时，她的眼睛亮起来，像里面有点着的小蜡烛。
+
+**关键词**：Something like that / eyes lit up / little candles
+
+**为什么这样写**：Jessie 的微笑——"little candles" 是温暖的意象。她为 Amber 带来了光。
+
+**读者视角提示**：Jessie 的善良——她是那个"送花"的人。
 
 ## 本章词汇
 
