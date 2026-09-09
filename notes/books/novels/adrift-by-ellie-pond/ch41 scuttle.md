@@ -69,7 +69,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 6:** "Dad never had time to do anything with me. Henrick and I both had a week after our events were over until the closing ceremonies. I taught him how to control his breathing while swimming, and he gave me some boxing pointers."
+> **原句 7:** "Dad never had time to do anything with me. Henrick and I both had a week after our events were over until the closing ceremonies. I taught him how to control his breathing while swimming, and he gave me some boxing pointers."
 
 - **中文理解**："爸从来没时间陪我。Henrick和我都是在各自比赛结束后到闭幕式之间有一周时间。我教他游泳时如何控制呼吸，他教我一些拳击技巧。"
 - **关键词**：control his breathing, boxing pointers
@@ -78,7 +78,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 7:** "Both Easton and I stare at it. If either of us had landed on that, we'd be dead."
+> **原句 8:** "Both Easton and I stare at it. If either of us had landed on that, we'd be dead."
 
 - **中文理解**：Easton和我都盯着那个树桩。要是我们任何一个栽上去，就死定了。
 - **关键词**：we'd be dead
@@ -87,7 +87,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 8:** "I'm not your friend. I'm not telling you shit." He's going to be lucky if I don't smother his arrogant face with one of the cushions we have tonight.
+> **原句 9:** "I'm not your friend. I'm not telling you shit." He's going to be lucky if I don't smother his arrogant face with one of the cushions we have tonight.
 
 - **中文理解**："我不是你朋友。我什么都不会告诉你。"他要庆幸自己今晚没被我用坐垫闷死那张傲慢脸。
 - **关键词**：I'm not your friend, smother his arrogant face
@@ -96,7 +96,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 9:** "I don't know what happened between you and your brother. I'm sure it's shit, but money doesn't make people any different. If anything, it makes them worse."
+> **原句 10:** "I don't know what happened between you and your brother. I'm sure it's shit, but money doesn't make people any different. If anything, it makes them worse."
 
 - **中文理解**："我不知道你和你哥之间发生了什么。但肯定很糟糕。不过钱不会让人变不同。实际上，它让人更坏。"
 - **关键词**：money doesn't make people any different, it makes them worse
@@ -105,7 +105,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 10:** "The chair is still looped through his arm. Easton frees himself from it and kneels at Zane's foot. 'Hold still. Let me take it out.'"
+> **原句 11:** "The chair is still looped through his arm. Easton frees himself from it and kneels at Zane's foot. 'Hold still. Let me take it out.'"
 
 - **中文理解**："椅子还挂在他手臂上。Easton从中脱身，跪在Zane脚边。'别动。让我把它拔出来。'"
 - **关键词**：frees himself from it, kneels at Zane's foot

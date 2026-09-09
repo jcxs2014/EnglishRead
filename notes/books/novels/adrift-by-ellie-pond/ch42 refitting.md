@@ -69,16 +69,8 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 7:** "I hold the side of the box. 'Yeah, it says right here, "Easton Rockwell is an asswipe, who is the only person who doesn't know that Thai writing has more fucking curves than a lot of other Asian scripts."'"
 
-- **中文理解**：我拿着盒子侧面。"是的，这上面写着：'Easton Rockwell是个混蛋，是唯一一个不知道泰语比其他亚洲文字有更多曲线的人。'"
-- **关键词**：asswipe, Thai writing has more fucking curves
-- **为什么这样写**：Dante用幽默化解紧张——在盒子上写讽刺话是他的风格，同时也显示他与Easton的默契（知道他不懂泰语）。
-- **读者视角提示**：Dante的机智和毒舌是他的性格标签——即使在压力下也能开玩笑。
-
----
-
-> **原句 8:** "I lie by the door flap, using my arm as a pillow. I fully expect that my solo Haley time is over."
+> **原句 7:** "I lie by the door flap, using my arm as a pillow. I fully expect that my solo Haley time is over."
 
 - **中文理解**：我躺在门帘边，用手臂当枕头。我完全预料到我和Haley的单独时光结束了。
 - **关键词**：door flap, using my arm as a pillow, solo Haley time
@@ -87,7 +79,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 9:** "They can sleep outside."
+> **原句 8:** "They can sleep outside."
 
 - **中文理解**：他们可以睡在外面。
 - **关键词**：sleep outside
@@ -96,7 +88,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 10:** "But a few minutes later, Zane gives her his empty bowl. Then she's lying next to me, snuggled into my side."
+> **原句 9:** "But a few minutes later, Zane gives her his empty bowl. Then she's lying next to me, snuggled into my side."
 
 - **中文理解**：但几分钟后，Zane把空碗递给她。然后她躺在我身边，依偎在我身侧。
 - **关键词**：snuggled into my side

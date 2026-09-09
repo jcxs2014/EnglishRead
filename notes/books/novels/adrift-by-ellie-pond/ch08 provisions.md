@@ -33,7 +33,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 3:** "I don't do on-board romances, because they always go wrong. Always."
+> **原句 2:** "I don't do on-board romances, because they always go wrong. Always."
 
 **中文理解**：我不搞船上的恋爱，因为它们总是会出问题。总是。
 
@@ -45,7 +45,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 4:** "Damn rich people and their fucking dogs."
+> **原句 3:** "Damn rich people and their fucking dogs."
 
 **中文理解**：该死的富人和他们他妈的狗。
 
@@ -57,7 +57,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 5:** "That's a shit ton of chicken."
+> **原句 4:** "That's a shit ton of chicken."
 
 **中文理解**：这可真他妈一大堆鸡肉。
 
@@ -69,7 +69,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 6:** "It's in the care and the control of the heat."
+> **原句 5:** "It's in the care and the control of the heat."
 
 **中文理解**：秘密在于关心和控制火候。
 
@@ -81,7 +81,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 7:** "A peace offering for ranting about diva boy earlier."
+> **原句 6:** "A peace offering for ranting about diva boy earlier."
 
 **中文理解**：这是对你之前我抱怨那个事儿精的小道歉礼物。
 
@@ -93,7 +93,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 8:** "I roll up my sleeves and try not to think what the captain and Haley do behind closed doors. Then I laugh because I sure as hell am going to be picturing it later."
+> **原句 7:** "I roll up my sleeves and try not to think what the captain and Haley do behind closed doors. Then I laugh because I sure as hell am going to be picturing it later."
 
 **中文理解**：我卷起袖子，尽量不去想船长和 Haley 在门后会做什么。然后我笑了，因为我他妈的肯定会在之后想象那个画面。
 

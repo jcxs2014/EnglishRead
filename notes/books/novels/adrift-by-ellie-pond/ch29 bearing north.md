@@ -35,7 +35,7 @@ modified: "2026-09-09"
 
 **中文理解**：我应该阻止他。但 Easton 动了，他的硬挺贴在我的屁股缝里。我僵住了，还是不知道该怎么办。
 
-**关键词**：hard length / nestled / butt cheeks / freeze
+**关键词**：I should stop it / should stop
 
 **为什么这样写**：这是 physical awareness 的 climax——Haley 意识到她被四个男人 desire。她的"freeze"是 conflict between desire 和 social conditioning。
 

@@ -67,7 +67,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 5:** "We're okay." Zane cups the side of my cheek. His lips are warm on mine. "And I know you think this place isn't going to provide for us, Calvin. But fuck it. We have to have a little faith in it. In ourselves."
+> **原句 5:** "We're very much alive." Zane steps in front of me, kissing my nose. "And I know you think this place isn't going to provide for us, Calvin. But fuck it. We have to have a little faith in it. In ourselves."
 
 **中文理解**："我们会没事的。" Zane 捧着我的脸颊。他的嘴唇在我唇上很温暖。"我知道你觉得这个地方养不活我们，Calvin。但去他的。我们得对它有点信心。对我们自己有点信心。"
 
