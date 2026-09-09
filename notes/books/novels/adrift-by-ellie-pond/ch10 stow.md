@@ -45,19 +45,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 3:** "That’s a lot of pillows."
-
-**中文理解**：这可真多枕头啊。
-
-**关键词**：a lot of pillows
-
-**为什么这样写**：这是 Sam 重复的评论——他第一次说这句话是在打开第一个箱子时，第二次是 Haley 展示更多箱子时。这个重复不是错误，而是 Sam 在 progressive realization：每个箱子都比上一个更荒谬。他的 understated repetition 变成了 comedic beat。
-
-**读者视角提示**：Sam 重复"that’s a lot of pillows"——每次都比上一次更 exasperated。这个 comedic rhythm 是有意为之的，与他的 stoic personality 形成有趣对比。
-
----
-
-> **原句 4:** "Decor. It’s just a lot."
+> **原句 3:** "Decor. It’s just a lot."
 
 **中文理解**："装饰品。只是太多了。"
 
@@ -69,7 +57,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 5:** "All crew, all crew. Mr. Rockwell and guests are now arriving tomorrow morning. And the extra supplies are to be donated. Please take them to the dock."
+> **原句 4:** "All crew, all crew. Mr. Rockwell and guests are now arriving tomorrow morning. And the extra supplies are to be donated. Please take them to the dock."
 
 **中文理解**：所有船员，所有船员。Rockwell 先生和客人们明天早上到达。多余的物资将被捐赠。请把它们搬到码头。
 
@@ -81,7 +69,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 6:** "Anders, I need the bridge."
+> **原句 5:** "Anders, I need the bridge."
 
 **中文理解**：Anders，我需要桥楼。
 

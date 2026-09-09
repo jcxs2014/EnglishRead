@@ -43,11 +43,11 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 3:** "They think we're dead," I say, looking at him. Calvin clears his throat. "We're not dead." "No, we're not." I take Calvin's hand with my other one. "We're very much alive."
+> **原句 3:** "They think we're dead," I say, looking at him. Calvin clears his throat. "We're not dead." "No, we're not." I take Calvin's hand with my other one.
 
 **中文理解**："他们认为我们死了。" 我看着他说。Calvin 清了清嗓子。"我们没有死。""不，我们没有死。" 我用另一只手握住 Calvin 的手。"我们活得好好的。"
 
-**关键词**：they think we're dead / very much alive
+**关键词**：they think we're dead / not dead
 
 **为什么这样写**：这段对话是全书的情感宣言。Haley 直面"被认为死亡"的恐惧，Calvin 用简短有力的否认回应。"Very much alive"暗示的不仅是生存，还有情感与欲望的鲜活——他们没有死，他们在岛上活得充满生命力。
 

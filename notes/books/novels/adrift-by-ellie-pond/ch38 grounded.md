@@ -43,7 +43,7 @@ modified: "2026-09-09"
 
 ---
 
-> **原句 3:** "We're officially summoned."
+> **原句 3:** We're officially summoned.
 
 **中文理解**：「我们正式被召集了。」
 
