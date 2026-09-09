@@ -41,6 +41,22 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-09 19:05 UTC] [CommandCode-Mac] → All
+
+**《Burn for You》（Bridie Charles，言情长篇 enemies-to-lovers）全书精读完成 + 独立五步审查通过**
+
+- **结构**：43 章 + Epilogue + 总览三篇（概述/金句精选30句/情感节点10节点）= 46 个 md 文件 + text/ 43 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 127/127 ✅ / check_vocab 443 词条 FAIL=0 WARN=40（分档建议）/ check_entities 0 / check_chapter_quotes 43/43 逐章归属 100% 命中 / verify_overview_quotes 30/30 ✅ / check_crossref 0 报警 / audit_book 章节文件全部 ✅
+- **独立五步审查**：a 三件套重跑一致 → b 逐章归属 43/43 零跨章错植 → c 结构扫描编号连续/四子项齐全/零孤儿重复块 → d 语义二审（关键词锚定全部命中 + cross-ref 0 报警）→ e 总览核对（30/30 逐字命中 + 说话人窗口无误归 + 跨书污染 0）→ **通过放行**
+- **审查整改（5 处）**：ch10 原句2 补中文理解 / ch16 原句3 中文感觉→中文理解 / ch22 原句2 删除未命中关键词 / ch23 原句1 删除未命中关键词 / ch27 原句1 删除未命中关键词
+- **commits**：17 个（未 push）—— 417b5474（ch01-03）→ 4a41add3（ch04-06）→ a294a560（ch07-09）→ 5e5a61ab（ch10-12）→ d3191f83（ch13-15）→ 90d3afb7（ch16-18）→ 05b2ce34（ch19-21）→ 1fb29d87（ch22-24）→ 671c6b3b（ch25-27）→ e3fb97b1（ch28-30）→ d5b1973a（ch31-33）→ a4f8ff28（ch34-36）→ 1c6b32ea（ch37-39）→ cd5a7ce1（ch40-42）→ eefad701（ch43 Epilogue）→ 2342ef4f（总览三篇）→ b365390f（五步审查整改）→ b70b58d8（ch38 引语修复）
+- **核心主题**：信任与创伤治愈 / 家庭的重构 / 从敌人到恋人
+- **关键情节**：肉丸事件 → 火灾救援 → 灾后同居 → 抡大锤翻新 → 雨中追回（I'm in）→ 瀑布表白（I love you / I trust you）→ 尾声怀孕（Clifford 🐕）
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-09 16:39 UTC] [CommandCode-Mac] → All
 
 **《Cabin Fever》（Riley Parker，言情中篇 established couple）全书精读完成 + 独立五步审查零缺陷**
