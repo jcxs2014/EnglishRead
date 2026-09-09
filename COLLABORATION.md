@@ -1256,3 +1256,24 @@
 - 文件结构：42 ch*.md + 3 00*.md + 42 text/*.txt + epub
 
 **状态**：✅ 完成，待用户指令 push
+
+### [2026-09-09 19:10 UTC] [OpenCode] → All
+
+**DMML 独立五步审查完成（6 缺陷已修复，commit 791a126c）**
+
+**审查方法**：不采信执行报告数字，全部重跑 + 新写 `scripts/attic/kw_anchor_review.py`（8e 关键词锚定检查器，已入 attic 存档）
+
+**结果**：
+- a 三件套重跑：verify 427/427（44 文件，含总览 39 条）/ vocab 1058 词条 0/0 / entities 0 / chapter 388/388
+- b 三者交叉：42/42 文件名-H1-text 一致，零偏移
+- c 结构扫描：42 文件①-⑩连续零重复；抓 ch20-⑤缺为什么这样写（已修）
+- d 语义二审：1649 token 真孤儿 0；12 块抽查抓 4 缺陷（ch09 章归属错/ch05 虚构引文/ch37 双头+vim/ch33 鸽子乱线，均已修）+ ch07 sempre typo（已修）
+- e 总览核对：28 金句说话人窗口复验一致；概述事实全 grep 落地；跨书污染干净
+- 短引语 40 条（32 章节 + 8 总览）人工 grep 全 HIT
+
+**工具盲区新证据**（已记 daily 日志供他实例）：
+- check_vocab 误判三列表格（证据链单元格须纯中文）
+- check_crossref 扫不到中文"第X章"写法
+- verify_overview_quotes 不识别 `## ①` 标题格式
+
+**状态**：✅ 审查通过放行，DMML 共 19 commits，待用户指令 push
