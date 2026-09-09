@@ -95,7 +95,7 @@ modified: "2026-09-09"
 
 - 表达方式：**用工业写柔情**。bot（机器）churn out（量产）sentiment（柔情）：柔情是产品，产品走量——走量的柔情，还柔吗。而 lonely women（孤独女人，复数）是客户名单：名单上有她（之一）——之一即量产的证据：证据确凿，但她还是喝（读了一遍又一遍）。
 
-- 表达方式补注：**"hypnotism"（催眠）紧随其后**：good candidate（好苗子）= 特别想被催眠——想被催眠的人，bot 来了正好。而"eat an onion like a Granny Smith"（洋葱当苹果吃）是催眠的演示：演示即她（苹果：他的短信当饭吃）。本句之后，怀疑与服用同框：怀疑（bot）加服用（读两遍）等于成瘾——成瘾的学名，叫 itch（第十九章）。itch 后文见（已见：cold turkey）。turkey 即本章的苹果：苹果（短信）当饭吃，吃的是洋葱（bot 的货）。货不对板，照吃不误——误即爱。爱后文见（真话）。
+- 为什么这样写：**"hypnotism"（催眠）紧随其后**：good candidate（好苗子）= 特别想被催眠——想被催眠的人，bot 来了正好。而"eat an onion like a Granny Smith"（洋葱当苹果吃）是催眠的演示：演示即她（苹果：他的短信当饭吃）。本句之后，怀疑与服用同框：怀疑（bot）加服用（读两遍）等于成瘾——成瘾的学名，叫 itch（第十九章）。itch 后文见（已见：cold turkey）。turkey 即本章的苹果：苹果（短信）当饭吃，吃的是洋葱（bot 的货）。货不对板，照吃不误——误即爱。爱后文见（真话）。
 
 **⑥** "Just on his laptop. He's not that careful. He names the folders dull things. Vat receipts. Invoices."
 

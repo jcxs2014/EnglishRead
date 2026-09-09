@@ -79,7 +79,7 @@ modified: "2026-09-09"
 
 - 句子结构：命名 Beaker from The Muppets（木偶作画评对象）+ 冒号 + 三个艺评术语 foetal / dynamic / unflinching（胎儿/动感/不退缩，戏仿正经）。
 
-- 关键词：**Beaker**（实验室助手木偶——惊慌、卷曲、 Sempre 受害）；**foetal, dynamic, unflinching**（三词艺评——把垃圾画裱进泰特）
+- 关键词：**Beaker**（实验室助手木偶——惊慌、卷曲、永远受害）；**foetal, dynamic, unflinching**（三词艺评——把垃圾画裱进泰特）
 
 - 表达方式：**用艺评黑话裱垃圾**。Ali 的裸体 Ronald McDonald 菊石像灾难现场，Sid 用三个术语把它送进双年展——闺蜜的最高礼仪：你的烂画，我给写展签。
 
