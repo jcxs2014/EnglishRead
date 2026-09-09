@@ -88,7 +88,7 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | journal | 日记，日志 | The next morning in ELA, when Amber opened her journal. |
-| crumpled | 皱巴巴的，倒塌的 | (not in ch46 - replace) |
+| prophecy | 预言，预言能力 | Today, it felt like a prophecy. |
 | foster | 寄养，抚养 | She's in foster care on the west side. |
 
 ### ⭐ 基础

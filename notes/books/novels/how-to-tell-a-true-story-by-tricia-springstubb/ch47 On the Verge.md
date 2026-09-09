@@ -57,7 +57,6 @@ modified: "2026-09-09"
 |------|------|------|
 | prepositional | 介词的 | Mrs. Oluonye's champion of the prepositional phrase. |
 | semicolon | 分号 | Lover of colons and semicolons. |
-| paw | 爪子 | A paw-waving kitty on the counter. |
 
 ### ⭐⭐ 进阶
 

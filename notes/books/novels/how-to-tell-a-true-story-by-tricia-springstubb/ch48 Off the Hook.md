@@ -84,7 +84,6 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | suit | 西装 | He wore a suit and a tie. |
-| handkerchief | 手帕 | He pulled out a handkerchief and mopped his brow. |
 | index card | 索引卡 | Gage dragged an index card from his pocket. |
 
 ## 一句话总结

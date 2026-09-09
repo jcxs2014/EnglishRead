@@ -72,8 +72,6 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | heartbeat | 心跳 | A heartbeat later, he answered. |
-| paw | 爪子 | (not in ch54 - use "crook") |
-| crook | 弯曲处，肘弯 | She juggled Earrings into the crook of her arm. |
 
 ## 一句话总结
 Amber 发短信给 Gage："Where r u? We r in this together." Gage 回复："Coming." 然后："Hurry."——她必须立刻行动。

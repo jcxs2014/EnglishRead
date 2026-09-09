@@ -80,7 +80,6 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | flimsy | 脆弱的，易坏的 | Sometimes I feel like my life is too easy, you know? Kind of...flimsy. |
-| incumbent | 现任的，在职的 | (not in ch44 - use "postpone") |
 | scalp | 头皮 | She tugged on Amber's scalp. |
 
 ### ⭐⭐ 进阶

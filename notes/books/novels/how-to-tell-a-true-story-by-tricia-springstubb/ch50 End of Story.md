@@ -96,7 +96,6 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | speech | 演讲，讲话 | "The speech doesn't matter. Everything will still be okay." |
-| microphone | 麦克风 | He stepped away from the mic. |
 | cake | 蛋糕 | Mom gave Dad a delighted look. |
 
 ## 一句话总结

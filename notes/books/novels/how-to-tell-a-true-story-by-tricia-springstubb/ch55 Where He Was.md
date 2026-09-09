@@ -77,7 +77,6 @@ modified: "2026-09-09"
 |------|------|------|
 | stingy | 吝啬的，狭小的 | He edged over, sharing the stingy chair. |
 | menacing | 威胁的，凶恶的 | Menace-y type things hung from her belt. |
-| gulped | 大口喝，吞咽 | She gulped down clean air. |
 
 ### ⭐ 基础
 
@@ -85,7 +84,7 @@ modified: "2026-09-09"
 |------|------|------|
 | police | 警察 | POLICE. |
 | officer | 警官 | One of the gray metal doors opened and an officer stepped out. |
-| signature | 签名 | (not in ch55 - use "gray") |
+| gray | 灰色的 | Inside, a tall gray desk. Two wide metal doors, also gray. |
 
 ## 一句话总结
 Amber 独自乘公交找到 Gage——他在警察局。她陪他做完笔录。"Where he goes, I go." 爸爸在后视镜中看到她，眼里是"温柔的骄傲"。Gage 说："我们在一起的任何地方，就是我们的家。"

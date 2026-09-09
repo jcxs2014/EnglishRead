@@ -87,9 +87,7 @@ modified: "2026-09-09"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| granola | 格兰诺拉麦片 | A granola bar slid into view beside her. |
 | fumble | 笨拙地做 | She fumbled to say what she meant. |
-| grudge | 怨恨，不满 | We won't hold a grudge. |
 
 ### ⭐ 基础
 

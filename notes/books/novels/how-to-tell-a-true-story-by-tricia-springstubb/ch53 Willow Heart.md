@@ -81,15 +81,12 @@ modified: "2026-09-09"
 |------|------|------|
 | beleaguered | 被围困的，疲惫不堪的 | Like my beleaguered ears miss silence. |
 | voicemail | 语音信箱 | Lottie had left three voicemails. |
-| conviction | 信念，定罪 | She spoke with a conviction that made Amber believe her. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | hamper | 洗衣篮 | She gathered towels off the floor and put them in the hamper. |
-| fortressed | 用堡垒围住 | She pulled encyclopedias off the shelf and fortressed them around her. |
-| snickering | 窃笑，暗笑 | That didn't shield her from the whispering and snickering. |
 
 ### ⭐ 基础
 

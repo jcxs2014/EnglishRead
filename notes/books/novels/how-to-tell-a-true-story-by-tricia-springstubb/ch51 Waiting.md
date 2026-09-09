@@ -97,7 +97,6 @@ modified: "2026-09-09"
 |------|------|------|
 | pillow | 枕头 | She rolled over, mashing her face in her pillow. |
 | fur | 毛皮，皮毛 | She stroked the bunny's fur. |
-| apartment | 公寓 | He was expecting Dad to take him to the police station. |
 
 ## 一句话总结
 等待的一天——Gage 蜷缩在沙发上，Amber 独自面对 Lottie 的短信和妈妈的沉默。Amber 打电话给爸爸："说真话会更糟。" 爸爸说："我们可以再等一会儿。" 真相与沉默的代价，都在等待中增长。

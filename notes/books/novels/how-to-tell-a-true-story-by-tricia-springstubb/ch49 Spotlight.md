@@ -80,14 +80,13 @@ modified: "2026-09-09"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | bleachers | 看台，露天座位 | A child yelled out from the stands. |
-| semifinal | 半决赛 | That's the end of the first half! |
 | fanfare | 号角声，夸张的宣布 | Applause, a trumpet fanfare. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| lunged | 猛冲，扑 | He suddenly lunged back toward the mic. |
+| lunged | 猛冲，扑 | He stepped away from the mic, then suddenly lunged back toward it. |
 | basking | 沐浴，享受 | He was basking in Gage's glow. |
 | choking up | 哽咽 | Dad choked up. "We will never forget this." |
 
@@ -97,7 +96,7 @@ modified: "2026-09-09"
 |------|------|------|
 | mic | 麦克风（microphone 的缩写） | A platform with chairs and a mic was set up. |
 | check | 支票 | Justin stepped forward, holding up a large facsimile of a check. |
-| stage | 舞台，阶段 | Selena says there's going to be a stage where my family's supposed to sit. |
+| stage | 舞台，阶段 | A platform with chairs and a mic was set up on the edge of the field. |
 
 ## 一句话总结
 Homecoming 夜——Gage 在聚光灯下崩溃逃跑。"I'm really sorry" 是他对所有人的道歉。Amber 意识到：Gage 的英雄身份是为他人而非自己——"只有一个人他不是为他而来：他自己。"
