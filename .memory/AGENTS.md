@@ -41,6 +41,20 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-10 新增
+
+- **Don't Make Me Laugh（Julia Raeside）非虚构 #MeToo 幽默回忆录**：42 章（ch01-41 + Epilogue）+ 总览三篇（概述/金句精选28句/情感节点9节点）。**体裁提示：用户拍板用非虚构论述格式写小说**（与 it-comes-from-the-river 同类已知偏差，永久保留）。verify_quotes 388/388 ✅ / vocab 1058 词条 FAIL=0 WARN=0 / entities 0 / 逐章 388/388（100%）。**关键经验**：①论证结构证据链表格第三列含 ≥8 拉丁字符即被当例句判 FAIL（证据链单元格必须纯中文）；②总览候选句凭记忆 short-hand 多次 MISS（必须从已验证的章节文件原文复制）；③说话人窗口核验抓到 ch40 "I don't know" 命中 usher 台词；④生成期混入西里尔/越语/法语等珍稀语料（已全清）。16 commits 未 push。
+- **Cabin Fever（Riley Parker）言情中篇 established couple**：7 章 + 概述一篇（含10 金句+7 节点+6 表达）。独立五步审查零缺陷。短篇结构，9 commits 未 push。
+- **Burn for You（Bridie Charles）言情长篇 enemies-to-lovers**：43 章 + Epilogue + 总览三篇（概述/金句精选30句/情感节点10节点）。独立五步审查通过。
+- **Adrift（Ellie Pond）言情长篇**：47 章 + 总览三篇。独立五步审查通过。文本/提取件零偏移。
+- **How to Tell a True Story（Tricia Springstubb）middle-grade 当代小说**：58 章 + 总览三篇（概述/金句精选25句/情感节点10节点）。独立五步审查通过。LoC Cataloguing "LCGPT: Novels" 是体裁判断的权威信号。
+- **Lady of The Lake（C.N. Crawford & Alex Rivers）奇幻言情**：61 章正文（ch02-ch62 = Chapter 1-61）+ 总览三篇。ch01=A Recap / ch63=Timeline / ch64=Sample 不精读。独立五步审查通过（22 commits 未 push）。总览引语跨叙述标签（如 "I understand why you lied," he says softly.）须逐字含标签文本，否则 flat 匹配失败。
+- **Meet Me at Midnight（Brianna Bourne）YA contemporary romance + magical realism**：48 章（Chapter One → Chapter Forty-Eight）+ 总览三篇（概述/金句精选25句/情感节点12节点）。独立五步审查通过。
+- **Pretty Bossy（Arini Vlotman）言情长篇 enemies-to-lovers + fake relationship**：22 章（ch01-ch22 = Chapter 1-21 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点10节点）。独立五步审查通过（11 commits 未 push）。**教训**：词汇表例句必须逐章 grep 验证，不可凭印象编写；总览引语格式（**关键引语：**）不在 verify_overview_quotes 口径内，须人工 grep 兜底。
+- **The Bucket List（Ali Parker）言情长篇 contemporary romance**：43 章 + 总览三篇（Opencode-Mac 等多 IDE 接力）。25 commits 未 push。
+- **The Sweet Chef and the Corporate Queen（Susanne Ash）言情长篇（age gap, forced proximity）**：13 章（ch01-ch12 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点9节点）。独立五步审查通过（9 commits 未 push）。**教训**：导航栏英文 trope 名称（Grumpy/Sunshine/Forced Proximity/Truth-Teller）须改中文，否则触发 check_entities 误报。
+- **根目录 10 本新 epub 归档（260908 第二批）**：用户拍板"抽检内容后再分类"，按 OPF spine 取首章正文（混淆文件名 fallback 到扫 HTML 找 >800 字符非 boilerplate 页）。最终格局：**novels 61 / mystery-thriller 21 / non-fiction 18 / short-story-anthologies 20 = 120 本**。**关键判断**：①不要凭书名/作者印象分类；②Praise/营销文案含修辞夸张（Don't Make Me Laugh 标 "thriller" 是修辞非体裁）；③opus epub 用混淆文件名（c9.xhtml/cM.xhtml 等），须扫 HTML fallback。
+
 ### 2026-09-07 新增
 
 - **The Wrong Sister（Claire Douglas）心理悬疑惊悚**：53 章（ch00 Prologue + ch01-51 + ch12b Interlude）+ 总览三篇（CommandCode-Mac）。独立五步审查放行。verify 272/274 ✅ / vocab 460 词条 FAIL=6（ch12b 工具盲区）/ entities 0 / 结构扫描 53/53。核心揭示：Bonnie=Holly（30 年前被绑架婴儿）/ Alice 是 chimera（嵌合体两套 DNA）/ Alice 杀害 Kyle（轮胎扳手）/ Tasha 选择沉默（"turning a blind eye"）。19 commits 未 push。

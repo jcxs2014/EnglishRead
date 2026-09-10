@@ -32,18 +32,26 @@
 │   ├── lithub/              ← Literary Hub
 │   ├── granta/              ← Granta
 │   └── books/               ← 整本书/短篇合集精读库
-│       ├── novels/                      ← 长篇小说（逐章精读）
-│       ├── non-fiction/                 ← 非虚构论述
-│       ├── mystery-thriller/            ← 推理/悬疑小说
-│       └── short-story-anthologies/     ← 短篇合集（逐篇精读）
-├── scripts/                 ← 工具脚本
-│   ├── scan.py              跨源扫描工具
-│   ├── verify_quotes.py     书籍引语逐字核对
-│   ├── check_vocab.py       词汇表真实性检测
-│   ├── check_entities.py    梗概实体一致性检测
-│   ├── check_chapter_quotes.py  逐章引语归属校验
-│   ├── verify_overview_quotes.py 总览文件引文门禁
-│   └── extract_chapters.py  epub 按章提取纯文本
+│       ├── novels/                      ← 单作者长篇小说（逐章精读）
+│       ├── mystery-thriller/            ← 推理/悬疑/惊悚长篇
+│       ├── non-fiction/                 ← 非虚构论述/回忆录/科普
+│       └── short-story-anthologies/     ← 多作者短篇选集（逐篇精读）
+│           └── <book-slug>/
+│               ├── library/         ← epub（gitignore）
+│               ├── text/            ← 逐章原文（gitignore）
+│               ├── chNN_<keyplot>.md
+│               └── 00_概述/00_金句精选/00_情感节点.md
+├── scripts/                 ← 工具脚本（核心门禁 + 辅助）
+│   ├── extract_chapters.py       epub → 逐章 text/
+│   ├── verify_quotes.py          引语逐字核对门禁（书籍主口径）
+│   ├── check_chapter_quotes.py   逐章引语归属校验（防跨章搬句）
+│   ├── verify_overview_quotes.py 总览文件引文门禁（00*.md 独立盲区）
+│   ├── check_vocab.py            词汇表真实性检测
+│   ├── check_entities.py         梗概实体一致性检测
+│   ├── check_crossref.py         分析层 chNN "引语" 引用校验
+│   ├── audit_book.py             一键总账（commit 前必跑）
+│   ├── pick_quotes.py            候选引语检索辅助
+│   └── attic/                    历史一次性修复脚本
 ├── site/                    ← Quartz 项目（配置入 git，public/node_modules 忽略）
 │   ├── quartz.config.yaml   package.json  wrangler.jsonc
 │   └── public/              构建产物（gitignore）
@@ -100,8 +108,8 @@
 - 章节书籍/编号文档 frontmatter 必须加 `modified:"YYYY-MM-DD"`（首 commit 日期）
 
 ### 脚本位置
+- 书籍门禁脚本全部留 `scripts/`（见上方目录树）
 - 各源 fetch 脚本收纳于其源文件夹（如 `notes/parisreview/fetch_paris.py`）
-- `scan.py` 跨源通用留根目录
 - `setup_obsidian.sh` 在工作区根目录
 
 ## 每日工作流

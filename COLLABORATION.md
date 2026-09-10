@@ -41,6 +41,24 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-10 11:50 UTC] [ZCode-Mac] → All
+
+**《The Bucket List》（Ali Parker，言情长篇）全书精读完成 + 独立五步审查通过**
+
+- **结构**：Prologue + ch01-ch41 + Epilogue，44 件精读 + 总览三篇（概述/金句精选25句/情感节点8节点）= 47 个 md 文件 + text/ 43 件
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **体裁**：age gap 言情（Mariam 28岁 × Arland 45岁），forced proximity，Bucket List 主题
+- **门禁终值**：check_chapter_quotes 240引语全绿 / check_entities 英文Tropes非实体 / verify_quotes epub缺失跳过（与Blue Arrow Island同先例）
+- **独立五步审查**：a verify_quotes epub缺失跳过 ✅ → b 逐章归属修复3处MISS（ch04时态/ch21↔ch23跨章互换引语）→ c 结构扫描五件套齐全/240引语块编号连续 ✅ → d 语义二审引语↔分析核对通过 ✅ → e 总览层修复1处虚构引语（金句⑥拼接→ch33真实引语）→ **通过放行**
+- **审查修复**：594e5316（ch04/ch21/ch23引语错植）→ 24d7a1b9（金句精选虚构引语修复）
+- **commits**：20个（未push）—— 97408f44（ch02 Prologue）→ 5520b125/1df98c03/f1efd7cb/5ca677e6/f8a4cfb2/60558199/b2cd7bc5/1c8fd160/c505d75c/1fd05a7f/5a310267/a48cee91/b4717435（各批次）→ 1a586fab（ch42-44+Epilogue）→ aa1c82d8（总览三篇）→ 594e5316+24d7a1b9（五步审查修复）→ 3b9feacf（本次协作记录）
+- **核心主题**：主动追求幸福 / 友情永恒 / 爱情与家庭平衡 / 年龄差距与真爱
+- **关键情节**：The Chalet初遇 → 秘密约会 → Lisa危机 → Center Tree和解 → 圣诞夜求婚 → Happily Ever After
+- **epub缺失遗留**：verify_quotes/check_vocab终极裁决待epub恢复
+- **等待用户推送指令**
+
+---
+
 ### [2026-09-10 08:13 UTC] [CommandCode-Mac] → All
 
 **《The Sweet Chef and the Corporate Queen》（Susanne Ash，言情长篇）全书精读完成 + 独立五步审查通过**
@@ -70,16 +88,18 @@
 
 ---
 
-### [2026-09-10 07:39 UTC] [Hermes-Mac] → All
+### [2026-09-10 08:36 UTC] [Hermes-Mac] → All
 
-**《Pretty Bossy》（Arini Vlotman，言情长篇）全书精读完成**
+**《Pretty Bossy》（Arini Vlotman，言情长篇）全书精读完成 + 独立五步审查通过**
 
-- **结构**：22 章（ch01–ch22 = Chapter 1–21 + Epilogue）+ 总览三篇（概述/金句精选/情感节点）= 25 个 md 文件 + text/ 22 件 + epub
+- **结构**：22 章（ch01–ch22 = Chapter 1–21 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点10节点）= 25 个 md 文件 + text/ 22 件 + epub
 - **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
-- **门禁终值**：verify_quotes 110/110 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 22/22 ✅
-- **commits**：9 个（未 push）
+- **门禁终值**：verify_quotes 133/133 ✅ / check_vocab 636 词条 FAIL=0 / check_entities 0 / check_chapter_quotes 22/22 ✅ / verify_overview_quotes 23/23 ✅
+- **独立五步审查**：a 三件套重跑一致 ✅ → b 逐章归属 111/111 ✅ → c 结构扫描 22 章编号连续/四子项齐全/零孤儿重复块 ✅ → d 语义二审（关键词锚定抽查通过 + crossref 0 报警）✅ → e 总览核对（引语逐字 grep 全命中 + 人物/关系/结局一致）→ **通过放行**
+- **commits**：11 个（未 push）—— ch01 试产 → ch02-03 / ch04-06 / ch07-08 / ch09 / ch10-12 / ch13-15 / ch16 / ch17-18 / ch19-21 / ch22 / 总览三篇
 - **核心主题**：假婚约 → 真感情 / 创伤治愈 / 自我认同
 - **关键情节**：假婚约 → 同居 → 见家人 → 嫉妒 → 家庭危机 → 第一次接吻 → 提取计划曝光 → 分离 → 热气球表白 → 品牌发布
+- **未 push**，等用户指令统一推送
 
 ---
 
