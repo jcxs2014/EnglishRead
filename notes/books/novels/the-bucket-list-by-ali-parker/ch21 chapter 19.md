@@ -85,13 +85,13 @@ modified: "2026-09-10"
 
 ---
 
-> **原句 6:** "Is it possible to wake up every single morning and like someone even more?"
+> **原句 6:** "All of us."
 
-**中文理解**："有没有可能每天早上醒来都比前一天更喜欢一个人？"
+**中文理解**："我们三个都会有幸福结局的。"
 
-**关键词**：wake up every single morning / like someone even more
+**关键词**：All of us / how that would work / even if I had no idea
 
-**为什么这样写**：这是 Mariam 对 Gemma 和 Laurel 的坦白——她在问"可不可能每天更喜欢他一点"——这说明她已经在"每天更喜欢"的节奏中。这个问题是全书 Mariam"情感确认"的最后一步：她不再是"不敢相信"，而是在问"这种更喜欢能不能持续"。这个问题是全书"will they/won't they"的最终解——她已经知道他"会"，她在问"能多久"。
+**为什么这样写**：这是 Mariam 内心对"三人都会幸福"的希望的总结——"All of us"是关键：Gemma (Noah)、Laurel (Leif)、Mariam (Arland)——三个人都在恋爱中。"how that would work"是关键：她不知道"她的"未来会怎样。这是全书 Mariam"不确定性"的最高表达——她在期待幸福，但不知道如何实现。
 
 **读者视角提示**：这个细节与 ch19 里"Consequences be damned"形成 Mariam 的"情感确认升级"——从"愿意承担后果"到"希望感情加深"。
 

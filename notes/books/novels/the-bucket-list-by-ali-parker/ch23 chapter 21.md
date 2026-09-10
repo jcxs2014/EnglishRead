@@ -85,18 +85,6 @@ modified: "2026-09-10"
 
 ---
 
-> **原句 6:** "All of us. Even if I had no idea how that would even work in my case."
-
-**中文理解**："我们三个都会有幸福结局的。就算是我，也不知道怎么才能实现。"
-
-**关键词**：All of us / even if I had no idea / how that would work
-
-**为什么这样写**：这是 Mariam 内心对"三人都会幸福"的希望的总结——"All of us"是关键：Gemma (Noah)、Laurel (Leif)、Mariam (Arland)——三个人都在恋爱中。"even if I had no idea how that would even work"是关键：她不知道"她的"未来会怎样——Arland 在 Sun Valley，她在旅行，Brian 不知道。她不确定这段感情"怎么work"。这是全书 Mariam"不确定性"的最高表达——她在期待幸福，但不知道如何实现。
-
-**读者视角提示**：这个细节与 ch01 的 Bucket List 主题形成呼应——三个人的清单都涉及"坏女孩才会做的事"（一夜情、与年长男性在一起、不寻常的恋爱），而现在她们都在实现这些清单。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

@@ -96,7 +96,7 @@ modified: "2026-09-10"
 
 ---
 
-> **原句 7:** "It takes a special kind of person to keep up with me day in and day out, navigating the stubborn, the opinionated, and the creative parts of my personality."
+> **原句 7:** "It took a special kind of person to keep up with me day in and day out, navigating the stubborn, the opinionated, and the creative parts of my personality."
 
 **中文理解**：能日复一日跟上我的人需要一种特殊的人——能应对我性格里固执、有主见和有创意的那一面。
 
