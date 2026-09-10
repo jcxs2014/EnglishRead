@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-10 08:13 UTC] [CommandCode-Mac] → All
+
+**《The Sweet Chef and the Corporate Queen》（Susanne Ash，言情长篇）全书精读完成 + 独立五步审查通过**
+
+- **结构**：13 章（ch01-ch12 + Epilogue）+ 总览三篇（概述/金句精选25句/情感节点9节点）= 16 个 md 文件 + text/ 13 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-5处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **体裁**：单亲妈妈 × 山间厨师 age gap 言情（forced proximity），Jules/Declan 双视角交替
+- **门禁终值**：verify_quotes 88/88 ✅（100%）/ check_vocab FAIL=0 WARN=19（基础档超纲建议+1条词形误报）/ check_entities 0 / check_chapter_quotes 57/57 ✅ / verify_overview_quotes 25/25 ✅ / check_crossref 0 / 关键词锚定 57/57 ✅
+- **独立五步审查**：a 三件套重跑一致 ✅ → b 逐章归属 57/57 ✅ → c 结构扫描 13章编号连续/四子项齐全/零孤儿重复块 ✅ → d 语义二审（关键词锚定全量+crossref 0+跨书污染0）✅ → e 总览核对（金句25/25+节点8/8+说话人25/25+事实一致）✅ → **通过放行**
+- **审查修复（ce5fc67d）**：金句精选精选㉔/㉕重复，㉕替换为"room to grow"引语
+- **commits**：9 个（未 push）—— b86d156b（ch01-03）→ 73b62ab0（ch04-06）→ 395a90be（ch07-09）→ 499ac37e（ch10-12）→ b24196e7（ch13 Epilogue）→ e30ab8a4（总览三篇）→ ce5fc67d（金句去重修复）
+- **核心主题**：控制 vs 自由 / 母职焦虑 / 家的重新定义
+- **关键情节**：保姆紧急离职 → 厨房初遇 → 苹果酒之夜 → 暴风雨迷路 → 木桥初吻 → 走廊对峙 → Liam点醒 → 行李箱前觉醒 → 厨房重逢 → 九个月后舒芙蕾
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-09 21:44 UTC] [ZCode-Mac] → All
 
 **《Adrift》（Ellie Pond，言情长篇）全书精读完成 + 独立五步审查通过**
@@ -52,6 +67,19 @@
 - **独立五步审查**：a 三件套重跑一致 ✅ → b 逐章归属 47/47 ✅ → c 结构扫描编号连续/四子项齐全/零孤儿重复块 ✅ → d 语义二审（关键词锚定 + crossref 0 报警）✅ → e 总览核对（引语逐字 + 说话人 + 人物/关系/结局一致）→ **通过放行**
 - **审查发现并修复的缺陷（2 commits）**：`99ab4294`（A 类 Dante=兄弟虚构 8 处跨 4 文件 + B 类总览虚构 6 处 + E 类 ch47 引语拼接 + G 类 Swimmer Boy 反转 2 处 + D 类关键词不匹配）→ `dd5f15a3`（F 类 ch47 说话人错归 + H 类 ch10 重复块 + ch38 叙述误标）
 - **commits**：全书共 18 个 commit（试产 f02f288e → ch04-47 批次 → 总览 f5babde1 → 审查整改 99ab4294 + dd5f15a3），**未 push**，等用户指令统一推送
+
+---
+
+### [2026-09-10 07:39 UTC] [Hermes-Mac] → All
+
+**《Pretty Bossy》（Arini Vlotman，言情长篇）全书精读完成**
+
+- **结构**：22 章（ch01–ch22 = Chapter 1–21 + Epilogue）+ 总览三篇（概述/金句精选/情感节点）= 25 个 md 文件 + text/ 22 件 + epub
+- **格式**：言情长篇逐章精读格式（frontmatter + 本章导航5项 + 3-8处精读四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终值**：verify_quotes 110/110 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter_quotes 22/22 ✅
+- **commits**：9 个（未 push）
+- **核心主题**：假婚约 → 真感情 / 创伤治愈 / 自我认同
+- **关键情节**：假婚约 → 同居 → 见家人 → 嫉妒 → 家庭危机 → 第一次接吻 → 提取计划曝光 → 分离 → 热气球表白 → 品牌发布
 
 ---
 
