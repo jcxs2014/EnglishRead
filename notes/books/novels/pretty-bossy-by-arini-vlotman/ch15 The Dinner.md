@@ -126,7 +126,7 @@ modified: "2026-09-09"
 | ambled | 漫步/闲逛 | …the men ambled over to the cigar lounge… |
 | powder room | 化妆室/洗手间 | …a serious understatement for the room… |
 | confidante | 红颜知己/密友 | …a newly minted confidante… |
-| hustle | 推挤/匆忙 | …hustled for space in front of the mirror… |
+| hustle | 推挤/匆忙 | …hustled for space in front of the full-length mirror in the bathroom. |
 | dab | 轻拍/涂抹 | …dab the excess lipstick from her lips… |
 | searing | 灼热的/刺痛的 | …searing a vicious path through her mind… |
 | lava | 岩浆 | …rolled through her like lava… |
@@ -134,24 +134,6 @@ modified: "2026-09-09"
 | game face | 坚强的外表/准备好面对困难的面孔 | …put her game face back on… |
 | vibe | 氛围/感觉 | …a distinct party vibe… |
 | go against the grain | 违反常规/独树一帜 | …go against the grain, so to speak… |
-| gracious | 亲切的/和蔼的 | …their infinite patience with us so far… |
-| hushed | 低声的/肃静的 | …hushed whispers spread through the room… |
-| felicitations | 祝贺/祝福 | …receive your felicitations another day… |
-| forcibly | 强行地/用力地 | …forcibly removed… |
-| sneered | 嘲笑/冷笑 | …Mayan sneered the term of respect. |
-| spat | 吐/唾弃 | …Zarna spat. |
-| pinkie | 小指 | …more honour in his pinkie finger… |
-| balled | 握成拳/攥紧 | …hands balled into fists… |
-| de-escalate | 缓和/降级 | …attempted to de-escalate the situation… |
-| incredulity | 怀疑/不相信 | …mirrored Mayan's expression of incredulity… |
-| pulp | 浆状物/果肉 | …beat you into a pulp. |
-| gritted | 咬紧/磨擦 | …gritted his teeth. |
-| ripples | 涟漪/影响 | …cause ripples in a million different ways… |
-| abrupt | 突然的/唐突的 | …an abrupt end to their business arrangement… |
-| par for the course | 意料之中/正常现象 | …this was par for the course… |
-| engulfing | 吞没/淹没 | …engulfing him completely… |
-| bastard | 混蛋/杂种 | …pulverise the bastard… |
-| flickered | 闪烁/摇曳 | …eyesight flickered… |
 
 ## 一句话总结
 

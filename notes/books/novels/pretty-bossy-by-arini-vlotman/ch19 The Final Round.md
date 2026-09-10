@@ -132,7 +132,7 @@ modified: "2026-09-09"
 | press | 媒体/记者 | …A stream of people wearing police uniforms… |
 | police | 警察/警方 | …the police, who frown heavily on illegal gambling… |
 | statement | 声明/陈述 | …Chad Drummer had just released a statement… |
-| statement | 声明/陈述 | …releasing any doubts about match-fixing… |
+| statement | 声明/陈述 | …removing any doubts about match-fixing. |
 
 ## 一句话总结
 

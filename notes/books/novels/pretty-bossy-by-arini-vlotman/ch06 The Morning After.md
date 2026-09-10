@@ -97,7 +97,7 @@ modified: "2026-09-09"
 | traction | 关注/热度 | …Mayan's posts started getting traction. |
 | backtrack | 退缩/改变立场 | The men backtracked so fast… |
 | gush | 滔滔不绝/热情洋溢 | …Zarna gushed. |
-| speu | 喷出/吐出 | …expecting him to spew out his darkest secrets. |
+| spew | 喷出/吐出 | Zarna tilted her head as if expecting him to spew out his deepest darkest secrets. |
 | slump | 垂头丧气/瘫坐 | …noticed the slump of her shoulders. |
 | devoid of | 完全没有/缺乏 | …devoid of extreme feelings. |
 | level-headed | 冷静的/理智的 | The new Zarna was level-headed, calm… |

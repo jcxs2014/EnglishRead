@@ -79,7 +79,7 @@ modified: "2026-09-09"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| convoluted | 复杂的/难以理解的 | …shook her head at her convoluted thinking… |
+| convoluted | 复杂的/难以理解的 | He shook his head at her convoluted thinking before dragging her into the warehouse and held her by her shoulders in an effort to get her to stand still and absorb their surroundings. |
 | ever-evolving | 不断演变的/持续进化的 | …it had eventually turned into an ever-evolving museum. |
 | semblance | 表象/迹象 | …to bring some semblance of organisation… |
 | in the dark | 蒙在鼓里/不知情 | …Prish was also in the dark. |
@@ -92,7 +92,7 @@ modified: "2026-09-09"
 | dratted | 可恶的/讨厌的（口语） | …the dratted man next to her… |
 | cranky | 脾气暴躁的/易怒的 | …annoying to her own ears… |
 | crane one's neck | 伸长脖子 | …craned her neck and looked… |
-| loom | 隐现/赫然出现 | …a large warehouse looming over them… |
+| loom | 隐现/赫然出现 | Zarna craned her neck and looked at the large warehouse looming over them. |
 | doused | 浇灭/浸泡 | …doused in fire. |
 | convoluted | 复杂的/费解的 | …her convoluted thinking… |
 | wrangled | 争取/智取 | …somehow wrangled their viewing… |
@@ -110,11 +110,6 @@ modified: "2026-09-09"
 | muttering | 喃喃自语/嘀咕 | …muttering about her horoscope… |
 | glimpse | 一瞥/短暂的感受 | …desperate to catch even a tiny glimpse… |
 | wrangled | 争取/安排 | …somehow wrangled their viewing… |
-| whisk | 带走/迅速移动 | …whisking her out of the house… |
-| abrupt | 突然的/唐突的 | …hung thick in her mind over Mayan's abrupt departure. |
-| lick one's wounds | 舔舑伤口（比喻独自疗伤） | …wished she were alone to worry and lick her wounds in private. |
-| flouting | 蔑视/公然无视 | …flouting their relationship to the world… |
-| haggard | 憔悴的/疲惫的 | …worrying herself haggard. |
 
 ## 一句话总结
 

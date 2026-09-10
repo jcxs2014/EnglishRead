@@ -97,7 +97,7 @@ modified: "2026-09-09"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | ambush | 伏击/突袭 | …they ambushed me… |
-| baggage | 包袱/负担 | …came with baggage of our own… |
+| baggage | 包袱/负担 | I came with baggage of my own. |
 | flinch | 畏缩/退缩 | …making Zarna flinch… |
 | semblance | 表象/伪装 | …every semblance of pride… |
 | opulence | 富裕/奢华 | …screamed opulence and… boredom. |
@@ -107,7 +107,6 @@ modified: "2026-09-09"
 | prized | 珍贵的/备受重视的 | …one of Europe's most prized MMA fighters… |
 | rehearsed | 排练过的/准备好的 | …clipped through his rehearsed speech… |
 | stupidity | 愚蠢/傻事 | …It was my own stupidity I lost… |
-| groaned | 呻吟/叹息 | …when she groaned at a particular spot… |
 
 ### ⭐ 基础
 

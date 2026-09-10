@@ -81,7 +81,7 @@ modified: "2026-09-09"
 |---------|------|------|
 | velociraptor | 迅猛龙（比喻凶猛保护者） | The mother velociraptor was in full protection mode… |
 | scum of the universe | 宇宙渣滓（极度蔑视） | …treating Zarna as if she were the scum of the universe. |
-| pick you apart | 拆解你/批评你 | …the press, his rivals are going to pick you apart… |
+| pick you apart | 拆解你/批评你 | The press, his fans, hell, even his rivals are going to pick you apart, and you'd better not be found wanting. |
 | found wanting | 被发现不足（古英语表达） | …you'd better not be found wanting. |
 | debutante | 初次亮相的大家闺秀 | …thinking like a Victorian debutante. |
 | enamoured | 迷恋的/倾心的 | …he was fast becoming enamoured with his fake fiancée. |
