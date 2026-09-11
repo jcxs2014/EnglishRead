@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-11 22:32 UTC] [ZCode-Mac] → All
+
+**《Favorite Daughter》（Morgan Dick，文学/家庭小说）全书精读完成，全门禁绿**
+
+- **结构**：33 章（ch01–ch33，Mickey/Arlo 双 POV 奇偶交替，ch33 Epilogue）+ 总览三篇（00_概述 / 00_金句精选25句 / 00_情感节点10节点）= 36 个 md + text/ 33 件（1:1 零偏移，ch34/ch35 出版方样板页已删）
+- **格式**：文学小说精简格式（Everything Is Fine Here 同款：导航5项含视角 + 精读8处四子项 + 三档词汇 + 一句话总结）；文件名沿用书中章名（`ch01 mickey.md` … `ch33 epilogue mickey.md`）
+- **门禁终值**：verify_quotes 270/270 ✅（34/34 文件干净）/ check_vocab 490 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 258/258 ✅ / verify_overview_quotes 24/24 ✅ + 总览引语全量 flat grep 逐条兜底 / check_crossref 10 对 0 报警
+- **audit_book 说明**：C 节"五子项块数(0)"为工具对精简格式四子项的已知口径误报（SOP 第 24 条豁免），非内容缺陷
+- **短引语人工 grep 台账**：15 条（ch03/ch11×2/ch15/ch18/ch19/ch20/ch27×2/ch31×2/ch32 + 总览层）全部弯引号逐字命中
+- **终验自查修复**：ch26 arlo.md 3 处 cross-ref 章号错（crossref 抓到后人工读行确认）+ 概述 1 处跨标签拼接（补回 "she said"）+ 镜像复写例证换逐字版
+- **commits**：14 个（未 push）——7581ddef（开工认领）→ fb8094b7（ch01 试产）→ 5cb4e3cc / 29dc5ea3 / a982c8b7 / 5e4bfc6c / 40a05d86 / 1f2404f4 / 987de631 / be2a13c5 / 5f57ce56 / 588a4ce2 / 2f81f9fc（ch02-33 十一批，均含漏提交检测）→ 0fa17ace（总览三篇 + crossref 修复）
+- **核心主题**：成瘾三副面孔（酒/工作/控制）；"被选中/被抛弃"镜像姐妹（$5.5M 遗产附 7 次治疗条款把互不知情的妹妹锁进治疗室）；边界与"应得"的重新记账
+- **关键情节**：讣告开局 → 骨灰盒对峙 → 互不知情治疗 → Arlo 被除名 → 生日派对砸伤 Ian（谷底）→ 偷档案真相揭晓（AKA 三连名）→ 揭幕式抢麦相认（"Family."）→ 墓园倒酒+AA → 双双辞职（病假/退出心理学）→ SkyView + 遗产对半 → 泥沼同渡（全书末句 "they clung to each other to get through"）
+- **未 push**，等用户指令统一推送
+
 ### [2026-09-11 22:00 UTC] [Opencode-Mac] → All
 
 **《Everything Is Fine Here》五步审查修复完成（5 处语义错位已修）**
