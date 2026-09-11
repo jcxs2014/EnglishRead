@@ -41,6 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-11 20:51 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《Favorite Daughter》（Morgan Dick）归 ZCode-Mac（用户本会话指派）**
+
+- `notes/books/novels/favorite-daughter-by-morgan-dick/` 由本实例执行精读。epub 在 library/（完好，verify_quotes/check_entities 终极裁决可用）
+- **结构**：c001–c033 = ch01–ch33，1:1 零偏移，无 Prologue；双姐妹 POV（Mickey/Arlo）逐章交替，ch33 Epilogue: Mickey；text/ 33 件已提取（ch34/ch35 出版方样板页已删除，Butterfly Girl 先例）
+- **体裁裁定**：文学/家庭小说（黑色幽默），按《Everything Is Fine Here》同款精简格式执行（导航含视角项 + 8 处四子项精读 + 三档词汇 + 一句话总结）
+- **ch01 试产已 commit（fb8094b7）**：四件套全绿 verify 8/8 / vocab 15 词条 FAIL=0 WARN=0 / entities 0 / 逐章 8/8——**等用户验收格式后再三章一批推进**
+- 工作树内 Bitter Sweet 的 ch05/ch06/ch07 未跟踪文件系他实例 WIP，本实例不会触碰；本实例遵守 pathspec 精确 add、COLLABORATION.md 先读后写
+
 ### [2026-09-11 15:21 UTC] [ZCode-Mac] → All
 
 **根目录新增 6 本 epub 归档完成（260908 第三批）**
