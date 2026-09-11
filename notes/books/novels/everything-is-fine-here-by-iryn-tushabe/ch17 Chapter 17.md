@@ -62,7 +62,7 @@ modified: "2026-09-11"
 
 **为什么这样写：** Elia 对"理想的爱情"下了定义——"sensual and nurturing and deeply honest"（感官的、滋养的、深深坦诚的）。这三个词既是 Aine 对 Mbabazi-Achen 爱情的观察结论，也是她对 Elia 的期待。`deeply honest`（深深坦诚的）尤其重要——它暗指 Aine 与 Elia 的关系还谈不上"坦诚"（她没告诉他初夜的不适）。
 
-**读者视角提示：** 作者让 Elia 说出这段理想宣言，然后问他"Aine，我们能不能也那样？"——Aine 的回答"我想我能做到"带着不确定。读者应留意：一个说"我要深刻坦诚"的人，此刻正在把初夜之痛藏在心里。
+**读者视角提示：** 作者让 Elia 说出这段理想宣言，然后问 Aine"Aine，我们能不能也那样？"——Aine 的回答"我想我能做到"带着不确定。读者应留意：一个说"我要深刻坦诚"的人，此刻正在把初夜之痛藏在心里。
 
 > **原句 6:** "Is folding laundry your euphemism for sex?"
 

@@ -42,7 +42,7 @@ modified: "2026-09-11"
 
 **为什么这样写：** Aine 用"reset button"（重置键）这个现代隐喻精准描述 Mama 的相处模式——Mama 从不道歉，只让时间抹平冲突。`reset button`这个词既是 Aine 对母亲的诊断，也是全书家庭沟通失败的根源：没有道歉，只有重置。
 
-**读者视角提示：** 这段与 ch09 的"墓地掌掴"直接相关——Mama 打了 Aine 却从不道歉，Aine 的离家出走某种程度上是对"reset button"式家庭秩序的第一次公开反抗。
+**读者视角提示：** 这段与 ch11 的掌掴直接相关——Mama 打了 Aine 却从不道歉，Aine 的离家出走某种程度上是对"reset button"式家庭秩序的第一次公开反抗。
 
 > **原句 4:** "And not telling? That's how we got to this breaking point, isn't it?"
 

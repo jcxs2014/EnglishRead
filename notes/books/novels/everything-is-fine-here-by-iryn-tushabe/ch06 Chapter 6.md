@@ -60,9 +60,9 @@ modified: "2026-09-11"
 
 **关键词：** twenty-five points, said sharply
 
-**为什么这样写：** 这是全书最刺痛 Aine 的一句话——Mama 用姐姐的成绩来否定妹妹。`sharply`（尖刻地）直接标注语气。Aine 的回应（"妈妈，我是女孩，如果我和男生同分，大学会选谁？"）则把个人委屈上升为结构性不平等的质问。
+**为什么这样写：** 这是全书最刺痛 Aine 的一句话——Mama 用姐姐的成绩来否定妹妹。`sharply`（尖刻地）直接标注语气。更令人窒息的是 Mama 随后自己抛出的修辞问题——"如果女生和男生同分，Makerere 会录取谁？答案当然是男生"——她把结构性不公当作常识来陈述，而 Aine 的回应只剩自贬的"对不起，我不像 Dr. Mbabazi Kamara 那么聪明"。
 
-**读者视角提示：** 注意 Aine 那句被 Mama 自己回答的修辞问题——"如果男生和女生同分，Makerere 会选谁？答案当然是男生。"这是 Aine 首次公开挑战社会性别结构，也是她内在女权意识的觉醒时刻。
+**读者视角提示：** 注意 Mama 抛出的那个修辞问题——"如果男生和女生同分，Makerere 会选谁？答案当然是男生。"她自己回答了自己的问题，把这套性别不公当作天经地义。Aine 没有反驳的空间，只能用"对不起，我不像姐姐那么聪明"来回应——这反而暴露了 Mama 的比较教育如何内化成 Aine 的自我贬低。
 
 > **原句 6:** "We have decided that throughout the school break, you will focus only on your books. Your apprenticeship at the sanctuary can wait."
 
