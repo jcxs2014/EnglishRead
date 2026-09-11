@@ -31,9 +31,9 @@ modified: "2026-09-11"
 
 **关键词：** my husband of twenty-six years, never let me have my own money, but trust me—I did
 
-**为什么这样写：** 母亲的反击以清单形式呈现罪状——骂人、决定穿着、经济控制——每一项都是"施暴者"的具体注脚，证明她不仅知道，还精确地知道。"You may not have realized...but I did"的对比结构是全章最重的一击：Arlo 一直以为自己是父亲的辩护人（ch06"他心最好"），在母亲这里她被重新归类为"最后一个知道的人"。母亲的眼泪由此获得新解释：她哭的不是被 Mickey 揭穿，是被女儿以为自己会不知情。
+**为什么这样写：** 母亲的反击以清单形式呈现罪状——骂人、决定穿着、经济控制——每一项都是"施暴者"的具体注脚，证明她不仅知道，还精确地知道。"You may not have realized...but I did"的对比结构是全章最重的一击：Arlo 一直以为自己是父亲的辩护人（ch06"Daddy was a good man"），在母亲这里她被重新归类为"最后一个知道的人"。母亲的眼泪由此获得新解释：她哭的不是被 Mickey 揭穿，是被女儿以为自己会不知情。
 
-**读者视角提示：** 对照 ch06"the turtlenecks and the suits and the pearls? I wore them for me"——母亲当时的"我为自己穿"与本章"我全都知道"合并后，真相完整了：她是知情者，也是共谋者，还是受害者。三重身份在本章第一次同框。
+**读者视角提示：** 对照 ch10"the turtlenecks and the suits and the pearls? I wore them for me"——母亲当时的"我为自己穿"与本章"我全都知道"合并后，真相完整了：她是知情者，也是共谋者，还是受害者。三重身份在本章第一次同框。
 
 > **原句 3:** "I thought about it, you know, back when you were in kindergarten. I should've done it. Before he made you into"—her nuclear disaster of a face twisted up—"whatever you are now."
 
@@ -43,7 +43,7 @@ modified: "2026-09-11"
 
 **为什么这样写：** 母亲的悔恨第一次把矛头从自己转向女儿的命运——"kindergarten"这个词在本章是炸弹：那是 Mickey 的职业、Ian 的年龄、Arlo 被决定命运的年代，三个人在这个词里交叉。而"whatever you are now"的省略式控诉比任何诊断都狠：她拒绝命名女儿的病症，因为命名就等于承认儿子的……女儿是父亲的产品。破折号间的停顿是全章唯一的哽咽——她知道这个词一旦出口就收不回。
 
-**读者视角提示：** "whatever you are now"——读者可以替母亲填空：被父亲当排名来爱的孩子。对照 ch10"Father of two"的墓碑，这个家族的每个成员都活在"被谁变成什么"的语法里。
+**读者视角提示：** "whatever you are now"——读者可以替母亲填空：被父亲当排名来爱的孩子。对照 ch14"Father of two"的墓碑，这个家族的每个成员都活在"被谁变成什么"的语法里。
 
 > **原句 4:** "No, you didn't. You came in here so I would comfort you."
 
@@ -83,7 +83,7 @@ modified: "2026-09-11"
 
 **为什么这样写：** Arlo 回忆 Mickey 在麦克风前的眼神，得出全书对她自己最重的裁定：在这个家庭的新版图里，父亲已死，怪物之位空缺——而她刚刚用一场失控演讲完成了加冕。"as if"的让步结构保留着她的不服，但"the real monster"的措辞已经先于辩驳成立。这是 Arlo 的低谷刻度：她发现自己不是父亲的受害者，是他遗产的继承者——继承的正是"伤害亲人而不自知"的家族手艺。
 
-**读者视角提示：** "monster"一词在本书的移交路线：父亲→酒瘾（ch12"never got sober"）→Arlo（本章）。下一章她将开始亲手拆除这个继位。
+**读者视角提示：** "monster"一词在本书的移交路线：父亲→酒瘾（ch06"never got sober"）→Arlo（本章）。下一章她将开始亲手拆除这个继位。
 
 > **原句 8:** "Who made you the queen of right and wrong?" Mother started to blubber again, to weep.
 
