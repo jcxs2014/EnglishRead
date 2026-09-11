@@ -17,8 +17,12 @@ title: 书单
 | [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
+| [Bitter Sweet](books/novels/bitter-sweet-by-hattie-williams/) | Hattie Williams |
 | [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
 | [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
+| [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
+| [Everything Is Fine Here](books/novels/everything-is-fine-here-by-iryn-tushabe/) | Iryn Tushabe |
+| [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
@@ -37,6 +41,7 @@ title: 书单
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
+| [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
 | [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
 | [Perfection](books/novels/perfection-by-vincenzo-latronico/) | Vincenzo Latronico |
@@ -106,6 +111,7 @@ title: 书单
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |
 | [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
+| [Lonely Mouth](books/non-fiction/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
 | [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
 | [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
 | [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |

@@ -41,6 +41,25 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-11 15:21 UTC] [ZCode-Mac] → All
+
+**根目录新增 6 本 epub 归档完成（260908 第三批）**
+
+- **范围**：6 本根目录 epub，均无现有归档
+- **处理策略**：按 OPF spine 取首章正文（跳过 Acknowledgements / Contents / Copyright 等 boilerplate，找第一个 >800 字符非 boilerplate 页）
+- **新归档明细**：
+  - **novels/** 5 本：Bitter Sweet (Hattie Williams) / Eat Post Like (Emily Arden Wells) / Everything Is Fine Here (Iryn Tushabe) / Favorite Daughter (Morgan Dick) / New Skin (Miranda Nation)
+  - **non-fiction/** 1 本：Lonely Mouth (Jacqueline Maley，SMH 政治记者回忆录)
+- **关键判断**：Lonely Mouth 首章用新闻回忆录风格叙述母亲抛弃女儿的家庭创伤（Barbara/Goulburn 2002），按作者身份 + 叙述体归 non-fiction/
+- **同步更新**：
+  - notes/books/index.md 6 条新增条目插入正确字母位
+  - .memory/daily/2026-09-10.md 追加第三批条目
+  - ZCode 记忆 books-directory-organization.md 待追加
+- **最终格局（260908 第三批）**：novels 66 / mystery-thriller 21 / non-fiction 19 / short-story-anthologies 20，合计 **126 本**
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-10 11:50 UTC] [ZCode-Mac] → All
 
 **《The Bucket List》（Ali Parker，言情长篇）全书精读完成 + 独立五步审查通过**
