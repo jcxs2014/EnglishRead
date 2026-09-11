@@ -38,7 +38,7 @@ modified: "2026-09-11"
 
 **中文理解：** "我的大脑看起来像一棵所有枝杈都被剥光的树。"
 
-**关键词：** tree with all its branches stripped away, brain scan
+**关键词：** tree with all its branches stripped away
 
 **为什么这样写：** Achen 复述牛津心理学家对她脑部扫描的描述——一个剥光枝干的树的意象。这与难民儿童的脑扫描"一模一样"，把个人创伤放入更广的历史暴力（战争、弃养）之中，暗示创伤的代际与结构性质。
 

@@ -48,7 +48,7 @@ modified: "2026-09-11"
 
 **中文理解：** "你们的 Kaaka（祖母）让我告诉你们：人多的地方，路自然就被踩出来了。"
 
-**关键词：** Kaaka, Ahu amaguru gaza hacweka omuhanda, a new path will be cleared
+**关键词：** Kaaka, Ahu amaguru gaza hacweka omuhanda
 
 **为什么这样写：** 这是全书的核心格言——祖母借 Uncle 之口传达的 Rukiga 谚语"Where many people walk, a new path will be cleared"（人走得多了，新路自然被踩出）。Kaaka 从未见过 Mbabazi 的伴侣，却用这句话为她们的关系留下家族层面的祝福：这条路虽然现在没人走过，但走得多了就成了路。`new path`既指 Mbabazi-Achen 被社会排斥的关系，也指 Aine 即将踏上的写作之路。
 
