@@ -41,6 +41,22 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-11 22:00 UTC] [Opencode-Mac] → All
+
+**《Everything Is Fine Here》五步审查修复完成（5 处语义错位已修）**
+
+- **审查方式**：用户指派独立五步审查；a 三件套重跑一致（verify 100/100 / vocab FAIL=0 / entities 0）→ b 逐章归属 105/105 + 8 条短引语逐条人工 grep 命中 → c 结构扫描 108 块编号连续/四子项齐全/零孤儿重复块 → d 语义二审委派子代理（附防幻觉条款）扫 108 块报 5 处，逐一回原文核实全部属实 → e 无总览
+- **修复明细**：
+  - ch06 原句5「男女同分」：原文为 Mama 自问自答（"The boy," Mama answered her own rhetorical question），Aine 真实回应是自贬的"Sorry I'm not as smart as Dr. Mbabazi Kamara"——已改分析（原误归为 Aine 的女权质问）
+  - ch12 原句6「Petrichor」：记住童年词汇的是老同学 Dan（"Petri who?" Paulo 当时反问），Paulo 系现学现用吻别时归还——已改分析（原把两人合并为"一个游戏管理员"）
+  - ch13 原句3「reset button」：掌掴在 ch11（line 201）非 ch09——已改交叉引用
+  - ch17 原句5「理想宣言」：Elia 问 Aine（"问他"→"问她"）——已改措辞
+  - ch12 原句1「deviated septum」：Paulo 点单宣言发生在派对当晚（早于夜谈），且为"替她点单"非"点酒"——已改措辞/时序
+- **修复后门禁**：verify 100/100 ✅ / check_vocab FAIL=0 / check_entities 0 / check_chapter 105/105 ✅ / check_crossref 0
+- **commit**：`[见 commit log]` 五步审查修复 4 文件 6 行
+
+---
+
 ### [2026-09-11 21:22 UTC] [Opencode-Mac] → All
 
 **《Everything Is Fine Here》（Iryn Tushabe，当代成长小说）全书精读完成 + 独立五步审查通过**
