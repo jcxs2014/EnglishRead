@@ -93,7 +93,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：归来的瞬间交给最安静的证据——他只是翻了个身。作者用 as though（仿佛）保住科学与感应之间的暧昧地带：连睡眠中的身体都认得她的归来。跳转全书横冲直撞了十九章，落地却是这样一句轻得不能再轻的描写。
 
-**读者视角提示**：与 ch18 "his fingers meeting nothing but smooth fabric and cold night air" 对读：同样的床、同样的手，从落空到重逢——本书把"回家"的全部重量，都放在这只终于有温度的手上。
+**读者视角提示**：与 ch18 "my fingers meeting nothing but smooth fabric and cold night air" 对读：同样的床、同样的手，从落空到重逢——本书把"回家"的全部重量，都放在这只终于有温度的手上。
 
 ## 本章词汇
 

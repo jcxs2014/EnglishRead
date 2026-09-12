@@ -15,7 +15,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:** "What do you take me for, Jim?" I said, my smile jovial as my stomach muscles tightened for battle.
+> **原句 1:** "What do you take me for, Jim?" I said, my smile jovial as my stomach muscles tightened for battle."
 
 **中文理解**："你把我当成什么人了，Jim？"我笑着说，笑意轻快，腹肌却已经为迎战收紧。
 

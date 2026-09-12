@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：两个"supposed to be"排比把"安全感"定义成一种秩序感——各自就位，世界才成立。liquefying my legs 让如释重负有了重量与重力：她终于可以不撑了。失而复得的写法不在"多激动"，而在"多松"。
 
-**读者视角提示**：这是她第一次 explicit 地承认 World O 的价值——不是"更好"，而是"对位"。记住这个用词，它跟 ch07 "life optimization" 的表格感正好是反义词。
+**读者视角提示**：这是她第一次 explicit 地承认 World O 的价值——不是"更好"，而是"对位"。记住这个用词，它跟 ch08 "life optimization" 的表格感正好是反义词。
 
 > **原句 3:** "I hadn’t realized until I’d somehow made it back here how much I’d missed him…and how much the strain of performing a life, rather than living it, had been compounding."
 

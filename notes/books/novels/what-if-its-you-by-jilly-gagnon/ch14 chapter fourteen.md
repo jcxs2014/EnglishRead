@@ -53,7 +53,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：上一句她说"这不是我该在一起的人"，紧接着自我纠正——把"选错人"升级成"做错自己"。作者用两段式的修正模拟她脑内的天平归零：问题从来不在 Drew 身上，在于她把自己塞进了哪套生活。supposed to be 第三次出现，每次都离婚姻更远、离自己更近。
 
-**读者视角提示**：这是全书主题句的完成时——从 ch05 "where I was supposed to be"（位置）到本句（身份）。她的归途因此不再是"回到谁身边"，而是"回到自己"。
+**读者视角提示**：这是全书主题句的完成时——从 ch09 "where he was supposed to be, where I was supposed to be"（位置）到本句（身份）。她的归途因此不再是"回到谁身边"，而是"回到自己"。
 
 > **原句 5:** "wondering if I was doomed to linger in this perfectly appointed but slightly hollow life, coupled with the man of my daydreams but still so very, very alone."
 
@@ -69,11 +69,11 @@ modified: "2026-09-12"
 
 **中文理解**：又或者，我只是在重蹈 Drew 对我做过的事：把"照顾一个人"和"真正在乎一个人"混为一谈？
 
-**关键词**：conflating / taking care vs caring
+**关键词**：conflating / taking care of someone
 
 **为什么这样写**：全书最锋利的一次自我照镜——她突然发现自己在用 Drew 的语法爱 Ollie：包揽事务、替人安排、把"扛下一切"当深情。作者用 conflating（混同）这个心理学术语把两个人钉在同一张病床上：这不是 Drew 的问题，是他们的关系里长出来的共同病。
 
-**读者视角提示**：这句话把 ch13 "real risk is me" 的自我怀疑接到了结构层：她不再是嫌疑人，她和 Drew 是同一种病的两期患者。治愈方案必须换，不是换人。
+**读者视角提示**：这句话把 ch10 "the real risk here, the one element that he should know better than to trust…was me" 的自我怀疑接到了结构层：她不再是嫌疑人，她和 Drew 是同一种病的两期患者。治愈方案必须换，不是换人。
 
 > **原句 7:** "And yet here we were, playing out some tired melodrama between the hardworking provider man and the unfulfilled woman at home, all the gilding in the world not enough to disguise the fundamental architecture of her caged life."
 

@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：她终于把两条病史并排放上诊桌——先用"写作"打掩护，再自己拆穿。biggie（最大那桩）这个俚语词把婚姻恐惧从形而上拉回市井：它不是哲学问题，是她家床头柜里的一件具体行李。承认的语气越随意，积压的年头越长。
 
-**读者视角提示**：注意 Ollie 的接法（"那就别怕。至少别让恐惧替你做选择"）——他与 ch18 "fear in the driver’s seat" 的诊断隔空对上了暗号。全书最准的心理医生，其实是这个吉他老师。
+**读者视角提示**：注意 Ollie 的接法（"那就别怕。至少别让恐惧替你做选择"）——他与 ch18 "When had I let fear start making all the choices in my life?" 的诊断隔空对上了暗号。全书最准的心理医生，其实是这个吉他老师。
 
 > **原句 2:** "I mean, I’d be gratified. I’d be proud of myself. But that’s not the same as happy."
 
@@ -43,7 +43,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：书名在此被写成一种病症——what if 不是好奇，是反复舔舐伤口的习惯。作者用 abscess（脓疮）这个医学词给"比较欲"定性：它不产生答案，只产生感染。这是全书对标题词的最终诊断书：她的病从来不是选错，是永远在复检。
 
-**读者视角提示**：in the right now 与 ch15 "undergirding all my right nows"（ch20 后文）遥相呼应——Ollie 的爱一直垫在"当下"底下，而她的"万一"一直在上面挖洞。两种力的大小对比，就是结局的天平。
+**读者视角提示**：in the right now 与本章下文 "quietly undergirding all my right nows" 遥相呼应——Ollie 的爱一直垫在"当下"底下，而她的"万一"一直在上面挖洞。两种力的大小对比，就是结局的天平。
 
 > **原句 4:** "I don’t want to throw away something good because there’s a possibility it might not always be good."
 
@@ -53,7 +53,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：Ollie 用一句近乎格言的话拆解她的整个恐惧系统——她防的是"万一变坏"，代价是"确定变没"。作者让这本书的婚恋观在此定稿：不确定性不是拒绝幸福的理由，是幸福的一部分。这句话和她妈妈的婚姻也构成对答：妈妈证明"好会碎"，他证明"怕碎的人先碎了它"。
 
-**读者视角提示**：这是给 ch03 "Even rocks got worn away by forever" 的最终回应——石头确实会被磨，但他选择继续握着。全书第一次有人正面为"永远"辩护。
+**读者视角提示**：这是给 ch01 "Even rocks—presumably even beautiful blood-red gems—got worn away by forever" 的最终回应——石头确实会被磨，但他选择继续握着。全书第一次有人正面为"永远"辩护。
 
 > **原句 5:** "I love you I love you I love you."
 

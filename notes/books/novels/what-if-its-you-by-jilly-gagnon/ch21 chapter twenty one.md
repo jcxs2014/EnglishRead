@@ -31,7 +31,7 @@ modified: "2026-09-12"
 
 **关键词**：a new version of each other / over and over again
 
-**为什么这样写**：一句吻戏引出的爱情观宣言——悸动不是警报，是更新提示。作者用"版本"这个软件词汇翻译"重新相爱"：七年之痒的官方解药不是分手，是给对方发新固件。这与 ch16 "fall in love with the person they’d already chosen" 的实验结果互为注脚：她已经试过了，效果拔群。
+**为什么这样写**：一句吻戏引出的爱情观宣言——悸动不是警报，是更新提示。作者用"版本"这个软件词汇翻译"重新相爱"：七年之痒的官方解药不是分手，是给对方发新固件。这是她在两个宇宙的对照组里亲手验证过的结论：重新相爱的实验她已经做过，效果拔群。
 
 **读者视角提示**：这段是全书对" FOREVER 无聊论"的正面反驳：无聊不是爱情的属性，是懒得升级的属性。她从两个宇宙的对照组里学到的最后一课，就写在脊椎发痒的地方。
 
@@ -45,7 +45,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：这句与 ch20 "last perfect day" 的泡泡意象同宗——她的幸福感始终带着易碎滤镜。下一章之后，滤镜终于可以摘了。
 
-> **原句 4:** "Maybe the whole time I needed to choose a different version of me, not just a different person to be with," I murmured.
+> **原句 4:** "Maybe the whole time I needed to choose a different version of me, not just a different person to be with," I murmured."
 
 **中文理解**："也许从头到尾，我需要选的是一个不同版本的我，而不只是一个不同的人来在一起，"我低声说。
 
@@ -63,7 +63,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：Dana 用科学语言为她的直觉盖章——命运的分拣机不认誓言，认版本号。作者让"成长"在此获得物理学地位：改变不是鸡汤，是系统识别的必要条件。这句也是对全书爱情线的技术性总结：Ollie 爱的从来不是"完美的她"，是"更新中的她"。
 
-**读者视角提示**：belonged（属于）一词与 ch05 "a life that wasn’t really my own" 首尾相扣：从产权不明到归属清晰，中间隔着的不是真相大白，是她自己的迭代。
+**读者视角提示**：belonged（属于）一词与 ch05 "In a life—and a world—that wasn’t really my own" 首尾相扣：从产权不明到归属清晰，中间隔着的不是真相大白，是她自己的迭代。
 
 > **原句 6:** "So you agree, then? I basically just…personal-growthed my way out of Schrödinger’s box?"
 

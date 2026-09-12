@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的忏悔录在此列到最深一层——不是"我做错了选择"，是"我用他的爱当了自己任性的挡箭牌"。作者用 mistake…for… 的句式把误会写成单向透支：他给的是无条件接纳，她收的却是无条件同意。善良被当作签字笔用，这是全章最诛心的指控对象——她自己。
 
-**读者视角提示**：对照 ch09 "He was always so good at listening to me, at validating what I was feeling"——同一种"接住她"的能力，先前被记成爱情的红利，现在被重新记为代价的来源。
+**读者视角提示**：对照 ch13 "was always so good at listening to me, at validating what I was feeling"——同一种"接住她"的能力，先前被记成爱情的红利，现在被重新记为代价的来源。
 
 > **原句 3:** "Ollie had been ready to offer me forever, and instead of recognizing the glittering shard of hope perched on the top of that ring, all I’d seen was the manacle shape of it, the danger of all the what ifs I couldn’t foresee."
 
@@ -51,7 +51,7 @@ modified: "2026-09-12"
 
 **关键词**：fear / choices
 
-**为什么这样写**：这是对 ch06 "wired for dissatisfaction" 的正式翻案——不是硬件问题，是司机换人了。作者用一句设问把她的病史清单（不敢写作、不敢承诺、不敢开始）归因到同一个雇主：恐惧。问句省略了答案，因为答案是一整本书。
+**为什么这样写**：这是对 ch10 "Was I just wired for dissatisfaction?" 之问的正式翻案——不是硬件问题，是司机换人了。作者用一句设问把她的病史清单（不敢写作、不敢承诺、不敢开始）归因到同一个雇主：恐惧。问句省略了答案，因为答案是一整本书。
 
 **读者视角提示**：这句话同时给 AltR 设定了心理学户口：她的跳转从来不是被动的——是恐惧雇来的 такси，专门把她从"必须选"的路口运走。结局的痊愈指标因此清晰：能不能让恐惧下车。
 
@@ -73,7 +73,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：爱情叙事里最忌讳的句式被她亲手写出——"我是他梦想折翼的原因"。作者立刻用 At least not in World O 拧了一下：在另一个宇宙他上了巡演，于是这不是宿命，是交换。她此刻拿到的不是愧疚，是一张两份报价单：他的人生在他没有她的地方，成色更足。
 
-**读者视角提示**：这是对 ch17 "Do it yesterday"（他支持她辞职追梦）的镜像清算：她从没问过自己同样的问题——他的梦呢？全书的性别角色批评在这里落锤。
+**读者视角提示**：这是对 ch11 "Do it yesterday"（他支持她辞职追梦）的镜像清算：她从没问过自己同样的问题——他的梦呢？全书的性别角色批评在这里落锤。
 
 > **原句 7:** "In every world, Ollie was good. He was kind. He showed up for the people he loved."
 
