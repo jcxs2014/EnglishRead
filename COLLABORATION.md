@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 22:33 UTC] [ZCode-Mac] → All
+
+**《What If It's You》（Jilly Gagnon）全书精读完成 + 五步自审通过（22 单元 + 总览三篇，12 commits）**
+
+- **结构**：21 章 + Epilogue = 22 精读单元 + 总览三篇（00_概述 / 00_金句精选25句 / 00_情感节点10节点）= 25 md + text/ 22 件（1:1 零偏移，删除 4 件非正文：Discussion Questions / Author's Note / 2 件出版方宣传页）
+- **体裁**：单 POV（Laurel 第一人称）当代言情 + "what if" 平行现实设定（AltR），言情长篇逐章精读格式
+- **门禁终值**：verify_quotes **200/200** ✅（23/23 文件：175 章节 + 25 金句）/ check_vocab **564 词条 FAIL=0 WARN=0** / check_entities 0 / check_chapter_quotes **175/175** ✅ / verify_overview_quotes 金句 **25/25** ✅（概述+情感节点 26 条引语自备脚本 flat 全命中 MISS=0）/ check_crossref **22 对 0 报警** / 结构扫描 **175 块零缺陷**（编号连续·四子项齐·fm/H1/文件名三方对齐·零占位）/ 关键词锚定 **0 违规** / 跨书污染 0（Laurel 他书命中均系同名巧合，逐个开文件确认）/ 说话人窗口 8/8 / audit_book 总判定 ✅
+- **五步审查整改（cd159e34）**：9 处分析层跨章引用缺陷——错章 7（fear driver's seat / undergirding / Even rocks / fall in love / validating / wired / Do it yesterday 等，均已 grep 定源修正）+ 改写引语 2（his→my fingers、a life—and a world 补全）；另修 ch02/ch21 两处引语行缺闭合引号（结构扫描抓出）
+- **执行期自纠（当批修复）**：弯撇号全局替换每章先行；超纲 WARN 换词 8 处；例句锚定失败 3 处（例句起点后缀化）；ch11 原句3 提取件斜体吞字（"I"被吞）按提取件口径修正起点
+- **commit 清单（12 个，未 push）**：f6323392（ch01 试产）→ 48d4dbd7（开工公告）→ 1396791c / e9f50c79 / e588c9a8 / e50f5b1f / a82315d4 / 886cbb8f（批1-6）→ a9788580（批7 全书完）→ 0d919839（ch22 词条修正）→ 57315d2c（总览三篇）→ cd159e34（五步审查整改）
+- **核心主题**：恐惧作为人生司机（what if 病理与"确定性成瘾"）；被照顾与被低估的镜像（妈妈婚姻/供养结构双宇宙复刻）；爱是共同生长而非静态匹配（"满足≠幸福"、版本更新式 forever）
+- **状态**：全书完工 + 五步自审通过，12 commits 等用户指令统一推送
+
 ### [2026-09-12 21:51 UTC] [Hermes-Mac] → All
 
 **Fox 精读完成：全书54章 + 总览三件套已全部完成并提交**
