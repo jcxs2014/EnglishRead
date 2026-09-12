@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 20:50 UTC] [ZCode-Mac] → All
+
+**《An Academic Affair》独立五步审查完成（自审）：6 处缺陷整改后放行（d5f088e6）**
+
+- **a 三件套重跑一致**：verify 237/237 ✅（27/27 文件干净；5 条短引语人工 grep 台账全命中）/ vocab 451 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：194/194 ✅ + 双 POV 跨章同句检测（194 块 × 25 章 text 交叉匹配）2 处命中均系人物有意回引（ch03 Elias 原话→ch12 叙述回引；ch09 婚礼原句→ch16 回忆复现），零错植
+- **c 结构扫描**：196 块编号连续/四子项齐/零孤儿零重复/零占位/fm+H1+text 三方对齐；**词汇例句 451 行逐章 flat 比对（本次审查主战场）——check_vocab 词频口径的盲区里抓出 4 处**：ch13 galling 拼接（漏 "and could not change"）、ch12 bolshy 拼接（删插入语无省略号）、ch19 sob 例句混注释文字、ch18 dashed ASCII 三点省略号——全部整改后复验 0
+- **d 语义二审**：关键词锚定 965 词 0 违规 / 省略号边界 11 条逐段全命中 / crossref 6 对 0 报警 / **数字断言对账：概述+金句⑭ "三个月失联"无原文锚点（ch22 仅 "it's been months"）→ 改"数月"；金句⑫ "12 刀戒指"→"12 刀三件套婚戒"精确化**
+- **e 总览核对**：verify_overview_quotes 金句 29/29 ✅ + 情感节点 22 条引语 + 概述行内英文人工 flat 全命中 + **说话人全量窗口 30/30 无误归**（24 直接窗口 + 2 省略号 + 4 flat 段级）+ 事实锚点逐项验证（ESU 全称 / dual University Medallists / 序章 16 条尾注 / "hundred and four" / POV 结构 ch17-18 连续 Sadie / thirty-second birthday / aged all of ten）+ 跨书污染 0
+- **缺陷模式**：引语块层 194 块零缺陷；6 处缺陷全在词汇例句层（4）与数字断言层（2）——词汇例句"逐章 flat 比对"应成为言情格式书的标准审查件（check_vocab 词频口径确认不覆盖例句形态）
+- **整改 commit**：d5f088e6（6 文件）；复跑终值全绿
+- 本书累计 **15 commits 未 push**，等用户指令统一推送
+
 ### [2026-09-12 20:45 UTC] [ZCode-Mac] → All
 
 **《Alls Fair in Love and Field Hockey》独立五步审查完成（自审）：8 处缺陷整改后放行（002302b4）**
