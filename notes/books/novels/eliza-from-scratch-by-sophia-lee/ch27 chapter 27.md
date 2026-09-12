@@ -11,6 +11,8 @@ modified: "2026-09-12"
 
 **一句话概括**：cook-off 备战周：essay 草稿难产+爸爸 Hanguk 提案（Eomma 生日+扫墓）+coward 互认+make happy 菜训+dakdoritang 指路；Kareena brownie 论（tweak 即原创）+ 融合两桌午餐（Patrick 网球战）+ 深夜试菜；Treviño 官宣 Wesley 联名食材提案获批+桌下牵手。
 
+**情感弧线位置**：亲情线的 **回暖**——爸爸 Hanguk 提案（coward 自供+make happy 菜训），父职上线；友情线的 **融合**——两桌并一桌（scholastic+basketball），HSM 大结局预演；感情线的 **日常糖**——桌下牵手+Morse 指尖，决赛前夜。
+
 **Tropes 兑现/反转**：dad proposal（爸爸提案）；brownie theory（布朗尼论）；lunch merge（午餐合并）；ingredient approval（食材获批）；under-table hand（桌下牵手）。
 
 **人物弧线**：Eliza 从 success 定义难产到 tweak 即原创（brownie 论入耳），文书+菜谱双解；爸爸从 coward（自供）到 book tickets（订票行动），grief 从躲到办；Wesley 从 complaint（吐槽 syllabus）到 proposal（联名获批），吐槽变政绩。

@@ -162,3 +162,9 @@ modified: "2026-09-12"
 |---------|------|------|
 | Chuseok | 秋夕（韩国中秋） | the autumn festival of Chuseok |
 | pies | 派 | No big bird. No pies. |
+
+---
+
+## 一句话总结
+
+第二十三章以感恩节短信石沉大海+空厨房开场，以独做 dakdoritang 落款（I, Eliza Park）立住成长，以母女大战（All I want is my mom 双杀）把母女线打入谷底——三个人，三扇门。
