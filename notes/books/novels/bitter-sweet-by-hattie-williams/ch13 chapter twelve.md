@@ -150,15 +150,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第十二章是全书的 acceptance 时刻：Charlie 在 physical collapse（偏头痛）和 emotional revelation（Ophelia 知道）之后，在公园里做了最终决定——她会继续，即使这段关系没有未来，即使他知道"without him I would probably die"。这是一个 quiet 的决定，不是 triumphant 的——她选择 pain，因为 pain 是唯一 available 的选项。
-
-## 本章导航
-
-**一句话概括**：Ophelia 接了 Richard 的电话并知道了真相；Charlie 在偏头痛恢复后的周日早晨醒来，在公园里思考她与 Richard 的关系——她意识到这段连接已经 irreversible，无论结束与否都会 define 她的余生；她决定继续，即使没有未来。
-
-**情感弧线位置**：触底后的 introspection——从 physical collapse 到 emotional clarity 的过渡；acceptance 的最终形成。
-
-**Tropes 兑现/反转**：触底反弹（最低点后的 acceptance）；公园 scene（open space 启发的 clarity）；irreversible connection（她 realize 他们已经无法分开）。
-
-**人物弧线**：Charlie 在 physical 和 emotional crisis 后找到某种 equilibrium。她不再期待 change，而是接受这段关系会 define 她。她在公园里的思考是 cold, realistic 的——她知道自己选择的是 pain，但她选择继续。
-
-**叙事手法**：时间跳跃（周六到周日的 migraine recovery）；公园 scene 作为 external viewpoint 的 internal reflection；最后的决定是 quiet, not triumphant。

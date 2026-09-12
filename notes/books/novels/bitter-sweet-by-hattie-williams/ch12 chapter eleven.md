@@ -139,15 +139,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第十一章是全书的 acceptance chapter：Charlie 学会接受这段关系的结构性限制（他不会离开 Elaine），同时保持对他的 love。她在 professional 上进步（晋升）但在 personal 上停滞——她选择 stay，知道这段关系不会 change。但 Ophelia 的问题"Did he ever thank you?"埋下了质疑的种子，而 Charlie 最终的"without him I would probably die"揭示了她的 love 有多 pathological。
-
-## 本章导航
-
-**一句话概括**：Charlie 和 Richard 的关系进入更稳定的阶段——她晋升为初级公关，获得了自己的第一本书的宣传任务；她告诉 Ophelia 真相，Ophelia 从震惊到愤怒再到 ultimately 支持；Richard 明确表示他不会离开 Elaine，Charlie 接受了这个 reality。
-
-**情感弧线位置**：acceptance（她接受了他不会改变这个事实）；从 crisis 到 equilibrium 的过渡。
-
-**Tropes 兑现/反转**：秘密揭露（Ophelia 最终知道真相）；晋升（她的 career 在进步，而她的 love life 是固定的）；"我接受这个现实"（choosing to stay knowing the limits）。
-
-**人物弧线**：Charlie 在 professional 和 personal 两个层面都在成长——她 get promotion at work and she learns to navigate 复杂的关系结构。她不再问"你会离开她吗"，而是接受事情就是这样。
-
-**叙事手法**：平行结构（work 的进步 vs relationship 的 stagnation）；Ophelia 和 Richard 的 contrast（Ophelia 问"他有没有感谢你"vs Richard 的沉默）。

@@ -161,15 +161,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第七章是全书的 intellectual seduction 高光时刻：Charlie 第一次以平等身份与 Richard 对话，她的文学直觉（认为 Seb 的结局应该更黑暗）被他采纳并写入了改写后的新章节。这场关于书的对话同时也是关于权力的对话——他用"pick your brains"邀请她跨越阶级壁垒，而她用坦率和智慧回应，建立了第一个"真正属于她"的关系。
-
-## 本章导航
-
-**一句话概括**：Charlie 受邀去 Richard 的 Covent Garden 公寓送书，两人围绕他的新书进行了一场深入的灵魂对话，Richard 被她的文学直觉打动并在之后改变了小说结局；周五她再次送新章节时，两人接吻，她留下了自己的私人邮箱。
-
-**情感弧线位置**：升温（attraction → intellectual connection → first kiss）；双时间线中 2010 年的第一条关系弧线正在建立。
-
-**Tropes 兑现/反转**：偶像见面（hero worship meets reality）——她害怕 image 破碎，但他的真实反应是欣赏而非失望； mentor/daughter figure 暗流（年长男性作家与年轻女性助手之间的 power differential）。
-
-**人物弧线**：Charlie 从 passively adoring 到 actively participating in the literary conversation——她第一次在现实中对一位重要人物发表了自己真实的文学观点，并被采纳。
-
-**叙事手法**：双时间线中的 2010 时间线；聚焦办公室政治与出版业内幕（Richard 的三位一体住所暗示他与 Elaine 的开放式婚姻）。

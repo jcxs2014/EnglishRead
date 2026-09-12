@@ -139,15 +139,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第八章揭示了这段秘密关系的核心张力：Charlie 的 intellectual connection with Richard 被转化为 physical intimacy，但这个转化并不圆满——她的欲望是真的，但 sex 带来的更多是 anxiety 和 disappointment，而非满足。她开始意识到"睡过"不等于"了解"，而他愿意和她共度周末也不等于他会公开承认这段关系。Elaine 的阴影始终存在，而 Charlie 已经开始问自己：where do I fit?
-
-## 本章导航
-
-**一句话概括**：Charlie 在一周的等待和绝望后收到 Richard 的回复，得知他不是拒绝她而是同样在等待，她去他的公寓度过了周末——第一次发生性关系，第一次在他家过夜，第一次感受到这段秘密关系的甜蜜与恐惧交织。
-
-**情感弧线位置**：高潮（first sexual encounter + overnight stay）；关系的肉体化；从 intellectual attraction 转向 physical intimacy，伴随随之而来的 vulnerability 和 anxiety。
-
-**Tropes 兑现/反转**：secret relationship（办公室恋情的权力不对称）；等待与误解（双方都在等对方先联系而不敢行动）；第一次的甜蜜与失望（sex 并不像幻想中那么完美）。
-
-**人物弧线**：Charlie 第一次把自己的身体交给一个比她大 30 岁的人，她的欲望与恐惧、兴奋与自我怀疑同时存在；她从 passive recipient of his attention 到主动 full participation，但 physical 的失望让她开始质疑这段关系的真实性。
-
-**叙事手法**：聚焦 Charlie 的内心独白和感官细节；Ophelia 线的插入提供对照（Oscar 的渣男行为与 Richard 的"体贴"形成讽刺性对比）。

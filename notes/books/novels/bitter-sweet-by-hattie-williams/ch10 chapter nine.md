@@ -172,15 +172,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第九章是全书的 emotional turning point：Elaine 的出现把 Charlie 从 Richard 构建的 fantasy 中拽回现实。在 Sheffield 的公开场合，Richard 对她视而不见，而 Elaine 的存在证实了一件事：Charlie 只是秘密生活中的一个 footnote，不是他的生活的中心。她的 envy 不仅是嫉妒 Elaine 的位置，更是意识到自己在这段关系中的位置有多边缘——一个没有任何名字的"some part of this man was mine"。
-
-## 本章导航
-
-**一句话概括**：Sheffield 文学节之行——Charlie 与 Richard 和 Elaine 第一次三人同场，在公开场合 Richard 对她刻意冷淡，Elaine 的存在让 Charlie 感到深深的 envy 和身份焦虑；颁奖典礼后她独自在酒店房间喝酒，意识到自己正在这段三角关系中扮演一个没有名字的角色。
-
-**情感弧线位置**：转折/低谷（Elaine 的出现打破了 Charlie 的 fantasy；她第一次 realises 她只是众多秘密中的一个，而 Elaine 才是合法的妻子）；嫉妒与身份危机。
-
-**Tropes 兑现/反转**：the other woman（Charlie 面对真实的 Elaine，意识到自己的位置）；secret in public vs private（Richard 在公开场合对她冷淡，在私下里他们是"我们"）；tropes of older woman vs younger woman rivalry。
-
-**人物弧线**：Charlie 从"我觉得我与众不同"的幻觉中醒来——她不是唯一在他身边的人，Elaine 才是。她开始质疑：如果他真的喜欢我，为什么在 Elaine 面前假装不认识我？她的 envy 不仅是嫉妒 Elaine 的位置，更是意识到自己的位置有多边缘。
-
-**叙事手法**：Elaine 的 introduce 是 spatial 叙事——Charlie 站在房间后方，而 Elaine 在 central position；Charlie 通过第三人视角（BBC crew、Cecile）看 Elaine，展示了她的 insecurity。

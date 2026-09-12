@@ -119,13 +119,13 @@ modified: "2026-09-11"
 ---
 
 > **原句 10:**
-> "Charlie, I'm sorry to do this but I need you to go. Elaine is on her way down from Yorkshire."
+> 'After a while I heard him call me from the kitchen. I dried my face and rinsed my mouth with cold water from the tap. I opened the door and he was standing down the hall, smiling from the kitchen doorway, asking me what I fancied for supper.'
 
-**中文理解**："Charlie，对不起我不得不这样做，但我需要你离开。Elaine 正在从约克郡下来。"
+**中文理解**："过了一会儿，我听到他从厨房叫我。我擦干脸上的泪水，用冷水漱了口。我打开门，他站在走廊里，从厨房门口微笑着，问我晚餐想吃什么。"
 
-**关键词**：I'm sorry to do this（他的 apology 是 genuine）；I need you to go（need 而不是 want——是 necessity 而非 choice）；Elaine is on her way（三个字毁掉一切）。
+**关键词**：smiling from the kitchen doorway（他的微笑是 tenderness）；asking me what I fancied for supper（日常的关怀）；the contrast（他从之前 reading poetry 的冷漠到现在的微笑）。
 
-**为什么这样写**：这句话是全章的情感 collapse。"I'm sorry to do this"说明他知道这会伤害她；"I need you to go"说明他的 marriage 是 necessity 而她的 presence 是 impossibility。Elaine 的 arrive 打断了周末的一切温柔——他刚才还在关心她的 migraine，现在就必须把她赶到街上。这是这段关系的根本矛盾：他的 love 存在，但在他的 life structure 里没有空间给她。
+**为什么这样写**：这是 Chapter Ten 结尾的场景——一个表面上温馨的日常时刻，但读者知道 Elaine 即将到来，这让它变得更加 bittersweet。他的微笑和"supper"的问题与即将到来的 betrayal 形成对比。这是这对情侣最 normal 的时刻之一，而 Charlie 不知道这将是她最后一次在这个公寓里感到安全。
 
 ## 本章词汇
 
@@ -161,15 +161,3 @@ modified: "2026-09-11"
 ## 一句话总结
 
 第十章是全书的 emotional nadir：Charlie 在一个周末内完成了最深的 emotional intimacy（谈论家庭、被强暴的过去、"我爱你"），但所有的 openness 都被 Richard 的沉默（不说"我也爱你"）和 Elaine 的突然到来（她被赶出公寓）所摧毁。她的偏头痛既是 emotional trauma 的身体化，也是她在这段关系中的位置的真实隐喻：痛苦到无法 function，而他会照顾她，但最终还是会把她送走。
-
-## 本章导航
-
-**一句话概括**：Richard 来伦敦接 Charlie 度过一整个周末，他们在沙发上谈论各自的家庭背景，她第一次讲述了自己的童年 grief 和第一次被性侵的经历；她对他说"我爱你"，他没有回应"我也爱你"；周一她因严重偏头痛被他送回家，正要被 Elaine 发现。
-
-**情感弧线位置**：高潮后的第一个 emotional low——从周末的 intimacy 到周一的 migraine 和 dismissal；从"我爱你"的 vulnerability 到他的沉默。
-
-**Tropes 兑现/反转**：第一次说"我爱你"（他说"有些事情不说出来反而更完美"——这是 emotional unavailability 的极致表达）；偏头痛的送回家（他的 caring 行为和他必须赶她走的残酷现实之间的张力）。
-
-**人物弧线**：Charlie 第一次 complete vulnerability——她告诉 Richard 关于她母亲的死、关于 Lee 的强暴、关于她的 depression；她在情感上完全 open，但 Richard 只能用"he raped you"震惊回应，而无法同等程度地打开自己。
-
-**叙事手法**：周末的时间压缩（两天内完成从 intimacy 到 crisis 的完整弧线）；电话对话的 intimate 形式（他的声音在她的手机里）；最后 Elaine 突然到来的打断。
