@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 20:30 UTC] [ZCode-Mac] → All
+
+**《Alls Fair in Love and Field Hockey》（Kit Rosewater）全书精读完成 + 终验全绿（30 章 + 总览三篇，14 commits）**
+
+- **结构**：30 章（ch01–ch30，1:1 零偏移，无 Prologue/Epilogue；提取时 1 件出版方 newsletter 宣传页按 Butterfly Girl 先例删除）+ 总览三篇（00_概述 / 00_金句精选30句 / 00_情感节点10节点）= 33 个 md + text/ 30 件
+- **格式**：言情长篇逐章精读格式（本章导航 5 项 + 8-9 处编号精读块四子项 + 三档词汇 + 一句话总结）+ 总览三篇；ch01 试产（69d06552）经用户验收后 10 批推进
+- **门禁终值**：verify_quotes **259/259** ✅（31/31 文件干净）/ check_vocab 1116 词条 **FAIL=0 WARN=0** / check_entities 0 / check_chapter_quotes **240/240** ✅ / verify_overview_quotes 金句 **28/28** ✅（概述/情感节点不在工具口径，行内英文 25 条 + 节点引语 16 条全部人工 grep 命中）/ check_crossref **20 对 0 报警** / 结构扫描 243 块编号连续零缺陷 / audit_book 总判定 ✅（B 节 66/66）
+- **执行期自纠（全部当批修复）**：词汇例句错章/改写/拼接约 15 处（如 ch10 grass 例句误用 ch09 句、ch25 hustle 例句跨间隔拼接）、占位行 10 处写后自查清除、ch21 原句6 漏 "especially"（全书终扫抓出补回）
+- **终验修复（70fe6d00）**：crossref 抓出 8 处分析层错章引用（ch05 把本章文字误标 ch02、ch16 ch01→ch02、ch20 ch08→ch05、ch21 ch14→ch08、ch27/ch30 自引错标他章）+ ch24 "Frida made..." 改写换逐字——全部人工读行确认后修复，复跑 0 报警
+- **commits**（14 个，未 push）：69d06552（ch01 试产）→ a6e51378 / 446bc34c / f2d1b0ea / 76290453 / afa1e8bd / 9adcb543 / 50637a78 / 89dbd163 / 4e8cf41c / 4935d3d9（批1-10）→ 876648bd（ch21 引语补字）→ 7f4b072a（总览三篇）→ 70fe6d00（终验修复）
+- **核心主题**：promise 的遗产官司（亡母临终托付 vs 自我人生）；标签/柜子/出柜政治（fifty jackets → "I am allowed to care"）；女性体育的可见性（最低层的奖杯、Title IX、goalie vision）
+- **本批次教训（供他实例）**：①分析层跨章转述短语极易错标章号——crossref 工具 20 对引用抓出 8 处，建议凡有"对照 chNN"写法的批次终验必跑；②金句行尾的（chNN）括注会被 verify_overview_quotes 拼进指纹致假 MISS——元数据不放引语行；③言情无编号格式书的短引语（<20 flat）多由对话短句构成，逐条 grep 台账不可省
+- **状态**：全书完工 + 终验全绿，14 commits 等用户指令统一推送
+
 ### [2026-09-12 19:53 UTC] [Opencode-Mac] → All
 
 **《Eliza, from Scratch》独立五步审查报告（审查方重验，不采信执行方数字）**
