@@ -13,7 +13,7 @@ modified: "2026-09-12"
 
 **人物弧线**：Alice——她准备宣布结束婚姻，但被 Joel 的"epiphany"打了个措手不及；她的"dull rage"让她几乎想告诉他真相；这是她的 agency 的一刻，但也是一个痛苦的一刻。
 
-**叙事手法**：Alice POV——本章是 Part Two 中少有的 Alice 视角章节，让我们看到她对 Joel 的真实感受；Joel 的视角在对话中缺失。
+**叙事手法**：Alice 视角——本章是 Part Two 中少有的主观视角章节，让我们看到她对 Joel 的真实感受；Joel 的视角在对话中缺失。
 
 **Tropes 兑现/反转**：Joel 的"epiphany"——他以为自己改变了，但他仍然在控制 Alice；他的"freedom"意味着他可以继续像以前一样行动。
 
