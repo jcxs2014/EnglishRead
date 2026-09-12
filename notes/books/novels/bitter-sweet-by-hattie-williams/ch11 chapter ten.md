@@ -119,13 +119,13 @@ modified: "2026-09-11"
 ---
 
 > **原句 10:**
-> 'After a while I heard him call me from the kitchen. I dried my face and rinsed my mouth with cold water from the tap. I opened the door and he was standing down the hall, smiling from the kitchen doorway, asking me what I fancied for supper.'
+> "Charlie, I'm sorry to do this but I need you to go. Elaine is on her way down from Yorkshire."
 
-**中文理解**："过了一会儿，我听到他从厨房叫我。我擦干脸上的泪水，用冷水漱了口。我打开门，他站在走廊里，从厨房门口微笑着，问我晚餐想吃什么。"
+**中文理解**："Charlie，对不起我不得不这样做，但我需要你离开。Elaine 正在从约克郡下来。"
 
-**关键词**：smiling from the kitchen doorway（他的微笑是 tenderness）；asking me what I fancied for supper（日常的关怀）；the contrast（他从之前 reading poetry 的冷漠到现在的微笑）。
+**关键词**：I'm sorry to do this（他的 apology 是 genuine）；I need you to go（need 而不是 want——是 necessity 而非 choice）；Elaine is on her way（三个字毁掉一切）。
 
-**为什么这样写**：这是 Chapter Ten 结尾的场景——一个表面上温馨的日常时刻，但读者知道 Elaine 即将到来，这让它变得更加 bittersweet。他的微笑和"supper"的问题与即将到来的 betrayal 形成对比。这是这对情侣最 normal 的时刻之一，而 Charlie 不知道这将是她最后一次在这个公寓里感到安全。
+**为什么这样写**：这句话是全章的情感 collapse。"I'm sorry to do this"说明他知道这会伤害她；"I need you to go"说明他的 marriage 是 necessity 而她的 presence 是 impossibility。Elaine 的 arrive 打断了周末的一切温柔——他刚才还在关心她的 migraine，现在就必须把她赶到街上。这是这段关系的根本矛盾：他的 love 存在，但在他的 life structure 里没有空间给她。
 
 ## 本章词汇
 
