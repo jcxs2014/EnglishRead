@@ -128,33 +128,31 @@ modified: "2026-09-12"
 | Dream Home | 梦想之家（大写，开发商广告词，此处指预制板廉价房） | They delivered your Dream Home to you in pieces, fitted them together, and then you had a place to live. |
 | Going South | 《向南方去》（Joel 著作标题，双关：地理方向+经济文化衰落） | It was called Going South: The Descent of Rural America. |
 | Town & Country | 道奇面包车（Kathy 的载具，家庭实用主义的象征） | The back of her Town & Country minivan was heaped with clothing. |
-| congealed bacon grease | 凝结的猪油（老年肯塔基厨房的嗅觉地标） | The smells of her house—her White Diamonds perfume, her geriatric ointments, the jar of congealed bacon grease by the stove |
+| congealed bacon grease | 凝结的猪油（老年肯塔基厨房的嗅觉地标） | The smells of her house—her White Diamonds perfume, her geriatric ointments, the jar of congealed bacon grease by the stove—brought Emmett back to the boredom of summer mornings. |
 | World Book Encyclopedia | 《世界百科全书》（Joel 童年自娱方式，对比 Emmett 的 movie-watching） | Joel entertaining himself with the World Book Encyclopedia. |
 
 #### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| vinyl-sided prefab | 乙烯基外墙预制房（肯塔基中产阶级住房） | She lived in a vinyl-sided prefab, much like all the others on the street. |
-| senile / geriatric | 老年痴呆的/老年人的（Ruth 的精神状态） | Her geriatric ointments |
+| vinyl-sided prefab | 乙烯基外墙预制房（肯塔基中产阶级住房） | What had once been tobacco and soybeans was now crowded with lookalike homes and sun-parched lawns. There was a billboard above I-24—mccracken county dream homes, with a number you could call. This is what Kathy had, a vinyl-sided prefab, much like all the others on the street. |
+| geriatric | 老年人的（Ruth 的精神状态） | The smells of her house—her White Diamonds perfume, her geriatric ointments, the jar of congealed bacon grease by the stove |
 | a spell | 一会儿（方言，Kathy 和 Ruth 的语言） | She invited him to sit a spell and drink coffee. |
-| critter killers | 灭虫公司（Lijah T 恤上的广告） | His T-shirt said critter killers—the name of his company |
-| walnut | 胡桃（Ruth 庭院树，季节感意象） | The walnut trees over the patio had begun to drop their fruit |
+| critter killers | 灭虫公司（Lijah T 恤上的广告） | His T-shirt said critter killers—the name of his company—though he seemed to be the only killer of critters on the payroll. |
+| walnut | 胡桃（Ruth 庭院树，季节感意象） | The walnut trees over the patio had begun to drop their fruit, green husks the size of tennis balls thudding against the cement. |
 
 #### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | Greyhound depot | 灰狗巴士站 | His mother greeted him at the Greyhound depot. |
-| screenwriting | 编剧 | What I really want to do is screenwriting. |
-| community college | 社区大学 | You could start with basics at the community college. |
-| grandma / grandson | 祖母/孙子 | She was too old to do anything except watch Fox News. |
+| screenwriting | 编剧 | That's just to pay rent. What I really want to do is screenwriting. |
+| community college | 社区大学 | You could start with basics at the community college. You could live here. |
 | sheriff's deputy | 治安官副手 | Her grandson ran them off. He's a sheriff's deputy. |
+| grandma | 祖母 | She was too old to do anything except watch Fox News. |
 
 ---
 
 ## 一句话总结
 
 Emmett 回到" Dream Home"，在母亲 Kathy 的实用主义和祖母 Ruth 的老年孤独之间，撞见哥哥 Joel 的学术著作《Going South》——他正是书里描写的美国农村衰落的研究对象，而他的弟弟正在 Tempo 流水线体验这种衰落。
-
-<!-- 这里不需要空行结束，因为下一行就是新的内容 -->

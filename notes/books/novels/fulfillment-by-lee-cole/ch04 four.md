@@ -39,7 +39,7 @@ modified: "2026-09-12"
 
 **中文理解**：一方面，有《绝望之死》—— Angus Deaton 和 Anne Case 关于未受教育的白人发病率的一项非常详尽综合的研究。另一方面，如果你问一个正在用毒品、香烟或酒精慢慢杀死自己的人他是否感到绝望，他很可能会告诉你他很快乐。
 
-**句子结构**：On the one hand... And on the other hand... 对比结构；Deaths of Despair 是真实学术著作（Dhttps://press.princeton.edu/books/paperback/9780691190785/deaths-of-despair）名称。
+**句子结构**：On the one hand... And on the other hand... 对比结构；Deaths of Despair 是真实学术著作名称。
 
 **关键词**：Deaths of Despair / Angus Deaton / Anne Case / morbidity / uneducated whites
 
@@ -67,11 +67,11 @@ modified: "2026-09-12"
 
 **中文理解**：客服说："非常非常非常抱歉，先生。"——她听起来是真的很遗憾。
 
-**句子结构**："I'm very, very, very sorry"是三重强调，与她"only good news"的笑脸形成残忍对比。
+**句子结构**："I'm very, very, very sorry"是三重强调，与她"truly remorseful"的笑脸形成残忍对比。
 
-**关键词**：three cups of coffee / bore only good news / very, very, very sorry
+**关键词**：very, very, very sorry / truly remorseful
 
-**表达方式**：客服话语的反讽——三个"very"是语言通胀的极致；"bore only good news"是商业化同理心的讽刺画；她在卖抗抑郁药，却只能用笑脸卖。
+**表达方式**：客服话语的反讽——三个"very"是语言通胀的极致；"truly remorseful"是商业化同理心的讽刺画；她在卖抗抑郁药，却只能用笑脸卖。
 
 **为什么这样写**：GENTS 的客服是资本主义心理健康产业化的缩影——真正的痛苦被转译为"三杯咖啡"的好心情和"very very very sorry"。Joel 服用的抗抑郁药来自一个也卖伟哥的公司，这就是他所说的"欲望与绝望"的商品化。
 
@@ -97,31 +97,28 @@ modified: "2026-09-12"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Deaths of Despair | 《绝望之死》（Deaton & Case 关于美国白人死亡率研究的学术著作） | You have Deaths of Despair—this really thorough, comprehensive work coming from Angus Deaton and Anne Case on morbidity among uneducated whites. |
+| Deaths of Despair | 《绝望之死》（Deaton & Case 关于美国白人死亡率研究的学术著作） | On the one hand, you have Deaths of Despair—this really thorough, comprehensive work coming from Angus Deaton and Anne Case on morbidity among uneducated whites. |
 | rural despair and late capitalism | 农村绝望与晚期资本主义（Joel 的课程名称，也是本书主题） | The title of this course is Rural Despair and Late Capitalism. |
 | panic attack | 恐慌发作（Joel 的症状，学术外衣下的真实崩溃） | He was unable to speak, seized by something like panic. |
+| telehealth | 远程医疗（GENTS 的商业模式） | The cheapest option was a telehealth company called GENTS. |
 | generic Viagra | 仿制伟哥（GENTS 主营产品，Joel 吃错了的药） | They sent generic Viagra instead of his antidepressant. |
-| GENTS | 男性健康远程医疗公司（卖伟哥+抗抑郁药，资本主义医疗的讽刺） | The cheapest option was a telehealth company called GENTS. |
 
 #### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| hummingbird | 蜂鸟（触发 Joel 恐慌的意象，自由的自然生命） | He heard something pattering against the classroom window. It was a hummingbird floating there, near the tall, withered sunflowers. |
-| telehealth | 远程医疗（GENTS 的商业模式） | The cheapest option was a telehealth company called GENTS. |
-| senescence / senility | 老年/老年痴呆（Ruth 的状态） | They were never sure with Grandma Ruth, these days, what was true and what was only senility. |
-| existential grief | 莫名的悲伤（Joel 的心理状态，无具体对象的哀悼） | His heart aching with mysterious grief. |
-| ant depressant | 抗抑郁药（Joel 私下服用，GENTS 邮寄） | He'd begun taking an antidepressant in secret. |
+| hummingbird | 蜂鸟（触发 Joel 恐慌的意象，自由的自然生命） | It was a hummingbird floating there, near the tall, withered sunflowers. |
+| fluorescent light | 日光灯（教室照明，Joel 想象自己头皮发亮） | The fluorescent light overhead was harsh and sterile, and he imagined his scalp shining beneath his thin hair. |
+| GENTS | 男性健康远程医疗公司（卖伟哥+抗抑郁药，资本主义医疗的讽刺） | The cheapest option was a telehealth company called GENTS. |
+| antidepressant | 抗抑郁药（Joel 私下服用，GENTS 邮寄） | He had no insurance, and after a bit of research, he'd determined that the cheapest option was a telehealth company called GENTS. |
+| burning barrel | 燃烧桶（Ruth 烧垃圾的方式） | They brought milkshakes from the Dairyette and sat on the deck, watching smoke rise from the burning barrel. |
 
 #### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| fluorescent light | 日光灯（教室照明，Joel 想象自己头皮发亮） | The fluorescent light overhead was harsh and sterile, and he imagined his scalp shining beneath his thin hair. |
-| sheriff's deputy | 治安官副手 | Dottie's grandson ran them off. He's a sheriff's deputy. |
-| milkshake | 奶昔 | They brought milkshakes from the Dairyette and sat on the deck. |
-| burning barrel | 燃烧桶（Ruth 烧垃圾的方式） | They brought milkshakes from the Dairyette and sat on the deck, watching smoke rise from the burning barrel. |
-| wildflowers | 野花 | It was a hummingbird floating there, near the tall, withered sunflowers. |
+| milkshake | 奶昔 | They brought milkshakes from the Dairyette and sat on the deck, watching smoke rise from the burning barrel. |
+| grandma | 祖母 | He went with Alice and Kathy to Grandma Ruth's that afternoon. |
 
 ---
 

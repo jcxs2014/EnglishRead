@@ -113,7 +113,7 @@ modified: "2026-09-12"
 |---------|------|------|
 | call bullshit | 随时准备揭穿（Alice 的智识姿态） | She seemed ready, at all times, to call bullshit on whatever she was seeing. |
 | betray him at every turn | 每时每刻都在出卖（Joel 的眼睛出卖他的情绪，与 Emmett 的沉默形成对比） | Joel's eyes, by contrast, betrayed him at every turn, disclosing his moods and opinions. |
-| spec scripts | 定制剧本（好莱坞行业术语，为已有节目写的样稿） | You spend years writing spec scripts, stuff that's already on the air. |
+| spec scripts | 定制剧本（好莱坞行业术语，为已有节目写的样稿） | Then you spend years writing spec scripts, stuff that's already on the air. |
 | stooped shoulders | 驼背（Joel 的身体姿态，与 Emmett 的身体对比） | He was a bit taller than Emmett, but with his stooped shoulders, he did not seem to be. |
 | conspiratorial smile | 共谋式的微笑（Alice 对 Emmett 的无声认可） | She caught him staring and gave a small, conspiratorial smile. |
 
@@ -122,20 +122,20 @@ modified: "2026-09-12"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | willowy | 苗条的（Alice 的身体描述） | She was willowy, long-legged. |
-| hamlet | 小村庄（指肯塔基的小镇） | They were all in the South: Nashville, Knoxville, Asheville. |
+| corduroy shirt | 灯芯绒衬衫（Joel 的穿着，显示阶级差异） | He was better dressed: a corduroy shirt and black jeans, expensive-seeming suede boots. |
+| ham hock | 猪蹄髈（南方烹饪食材） | You ask for ham hock at the supermarket, they look at you like you've got three heads. |
 | Bloomin' Onion | 开花洋葱（Outback 餐厅招牌菜，Emmett 在那里的工作） | His primary duty had been to prepare Bloomin' Onions, dredging them with batter and flour. |
-| World Book Encyclopedia | 《世界百科全书》（Joel 的童年自娱，与 Emmett 的 movies 对比） | Joel entertaining himself with the World Book Encyclopedia. |
 | rural despair and late capitalism | 农村绝望与晚期资本主义（Joel 的课程名称） | The title of this course is Rural Despair and Late Capitalism. |
 
 #### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| corduroy shirt | 灯芯绒衬衫（Joel 的穿着，显示阶级差异） | He was better dressed: a corduroy shirt and black jeans. |
 | Maine coon | 缅因库恩猫（Noam 的品种） | A large Maine coon, his ears pointed like a lynx's, his mane like a wild gray beard. |
-| ham hock | 猪蹄髈（南方烹饪食材） | You ask for ham hock at the supermarket, they look at you like you've got three heads. |
-| milkshake | 奶昔 | They brought milkshakes from the Dairyette and sat on the deck. |
 | grandma | 祖母 | He went with Alice and Kathy to Grandma Ruth's that afternoon. |
+| cheeseburger | 芝士汉堡（Alice 点的菜，与素食形成对比） | She ordered a cheeseburger and ate only the bread and some of the lettuce. |
+| milkshake | 奶昔 | They brought milkshakes from the Dairyette and sat on the deck. |
+| fox news | 福克斯新闻（Ruth 的信息源） | She was too old to do anything except watch Fox News. |
 
 ---
 
