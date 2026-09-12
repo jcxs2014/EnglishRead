@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 11:55 UTC] [ZCode-Mac] → All
+
+**《New Skin》（Miranda Nation）全书精读完成 + 终验自查全绿（22 章，9 commits）**
+
+- **结构**：22 章（ch01–ch22，Alex/Leah 双 POV 奇偶交替，1997–2018），无 Prologue/Epilogue；text/ 22 件 1:1 零偏移（text/ 与 epub 均 gitignore）
+- **格式**：文学小说精简格式（Favorite Daughter 同款：导航 5 项含视角 + 8 处四子项精读 + 三档词汇 + 一句话总结，无总览三篇）；文件名沿用书中章节标识（`ch01 alex.md` / `ch02 leah.md` …）
+- **门禁终值**：verify_quotes 176/176 ✅（22/22 文件干净，0 条短引语跳过）/ check_vocab 332 词条 FAIL=0 WARN=0 / check_entities 0 / check_chapter_quotes 176/176 ✅ / check_crossref 5 对 0 报警 / 结构扫描 176 块编号连续·四子项齐全·零孤儿重复块 / 关键词锚定 0 违规
+- **audit_book 说明**：C 节"五子项块数(0)"为工具对精简格式四子项的已知口径误报（SOP 第 24 条豁免），非内容缺陷；D 节词汇实体全绿
+- **执行期自纠**（全部当批修复入库）：① 撇号统一（text/ 全弯撇号，写入引语逐字照抄）；② ch05 乱码词/中英混排 2 处；③ ch06/ch09 各 1 条基础档超纲 WARN 换词；④ ch10 实体拼写 Anglesea（check_entities 抓到）；⑤ ch17 漏写 1 块引语补齐重排编号；⑥ ch19 roach 词条为跨章误植（reproach 子串 grep 误配——词根本不存在于本章）替换并 labradoodle 移档；⑦ 终验 3 处分析层跨章转述改逐字引用（ch09/ch17/ch21，crossref 报警→人工读行确认→清零）+ ch20 关键词锚定 1 处
+- **commits**（9 个，未 push）：56cc68ad（ch01 试产）→ 2177137a / 299a67b9 / fe2b1e76 / 6950ac28 / 02e32110 / c8d5a38b / cf63f111（批1-7，每批漏提交检测干净）→ 8a03858e（终验修复）
+- **核心主题**：耗损之爱（"越坏越想要"公式）；身体作为战场（进食障碍/成瘾双线对称：Leah 的爱莱塔 ↔ Alex 的芬太尼）；"New Skin"= 痂下新生的皮肤（ch17 点题）
+- **工作日志**：`.memory/daily/2026-09-12.md` 已追加条目
+- **未 push**，等用户指令统一推送（本书 9 commits + 本公告 1 commit）
+
 ### [2026-09-12 10:55 UTC] [ZCode-Mac] → All
 
 **新书开工：《Lonely Mouth》（Jacqueline Maley）体裁更正迁 novels/ + ch01 试产完成（98f96112）**
@@ -1560,3 +1574,25 @@
 - verify_overview_quotes 不识别 `## ①` 标题格式
 
 **状态**：✅ 审查通过放行，DMML 共 19 commits，待用户指令 push
+
+### [2026-09-12 07:30 UTC] [OpenCode] → All
+
+**Eat Post Like (Emily Arden Wells) 完工 + 独立五步审查通过**
+
+**结构**：42 章正文（ch01–ch42，言情长篇格式，每章 3–7 引语块四子项＋三档词汇＋一句话总结）+ 总览三篇（00 概述 / 00 金句精选30句 / 00 情感节点9节点）= 45 md + text/ 43 件（42 正文 1:1 + About Publisher 跳过 16 页）
+
+**审查方法**：五步全重跑 + 自写关键词锚定扫描（关键词英文 stem 须命中引语行/为什么这样写）+ 全书 chNN"…."转述逐条验 + 12 短引语人工 grep + 总览说话人窗口核验
+
+**结果**：
+- a 三件套：verify 225/225（43 文件，含金句 28 条）/ vocab 995 词条 FAIL=0 WARN=0 / entities 0 / chapter 203/203
+- b 归属：203/203（100%）
+- c 结构：42 文件编号连续、四子项齐全、零重复；引语行 `," he said.` 结尾系合法格式（扫描器初版误报，已修正口径）
+- d 语义：锚定扫描 0 issue；22 块中文理解抽检全对；**抓 11 处转述缺陷**：crossref 报警 6（clothes as armor→could be like armor 等逐字化）+ 自扫 5（white-shoe MISS 去引号、ch41"278天"误植 ch22→ch28 等），commit 5c579fac 已修，crossref 重跑 15 对 0 报警
+- e 总览：金句 28/28 + 2 短兜底；**抓说话人误归 1**：time-machine 初选标 Eamon，窗口核验实为 Ben（His words…Ben had so much respect），已正；概述行内英文 30+ 短语逐条 grep（3 MISS 改中文）；station/人物/结局事实交叉全过
+- audit：A 45/43 一致 43/43 / B 全✅ / D 0/0；C 仅 3×00 总览格式盲区（他书同例，属工具口径外，非缺陷）
+
+**途中插曲**：ch35–37 曾从磁盘消失（git D 状态），单 worktree、无他实例认领，内容在 7566dac6 安全，已 checkout 恢复核对。
+
+**提交**（17 个，均未 push）：e426766e（ch01 试产）→ 70885f3d → c9ba3047 → f83ec642 → 7d5ee242 → 3c78ad77 → deac1a14 → 751615cb → 371b1ae8 → a41a31d3 → b798a0a4 → 125435db → 7566dac6 → 5e3a08a8 → e6225de3（ch41-42）→ 58316fc1（总览）→ 5c579fac（审查修复）
+
+**状态**：✅ 完成，待用户指令 push
