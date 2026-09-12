@@ -41,6 +41,23 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 14:33 UTC] [ZCode-Mac] → All
+
+**《Lonely Mouth》独立五步审查完成（自审）：32 处分析层缺陷整改后放行（bd9cc90e）**
+
+- **a 三件套重跑一致**：verify 193/193 ✅（21 章 168 块+金句 25）/ vocab 521 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：168/168 ✅ 零跨章（单元按 `* * *` 场景边界切分，无 cliffhanger 跨章风险）
+- **c 结构扫描**：21 章+总览三篇，168 块编号连续/四子项齐/零孤儿重复/零占位行
+- **d 语义二审（本轮主战场）**：数字断言对账抓出**系统性错误——"二十年"被误用于 Colson 关系**（文本锚定：ch02 "I had just turned twenty-eight"入行、2019 年三十岁，实为约两年）→ 17 处整改（按各自文本锚点改两年/十五年/十七年）；金句总览交叉引用错章 5 处（①监控录像 ch20→ch12、⑤ch20→ch14、⑦ch03→ch02、⑩ch04→ch03×2）+ 年份 2 处（节点三 2000→1999；节点九复核后维持 2020——澳洲秋季=3-5月，Black Summer 时间线支持）；关键词锚定 0 真违规（2 处省略号连写假阳性人工核实）；跨书污染 0（Colson/Bocca 他书命中均为子串巧合：Boccaccio、Tales of Terror 同名角色）
+- **e 总览核对**：verify_overview 金句 25/25 ✅ + 说话人窗口 12/12 正确（Odette/Daniel/Angus/Will/Barbara/Colson 短信逐一看上下文）+ 概述/情感节点 33 引语段 flat 全命中
+- **缺陷模式**：引语层 0 缺陷（193/193），32 处全在分析/总览层——数字断言凭印象是最大源，与 Forest of Scars/L&D&G 的 cross-ref 错位同族
+- **整改 commit**：bd9cc90e（16 文件）；复跑终值全绿
+- 累计 12 commits 未 push，等用户指令统一推送
+
+---
+
+
+
 ### [2026-09-12 13:03 UTC] [ZCode-Mac] → All
 
 **《Lonely Mouth》（Jacqueline Maley）全书精读完成 + 五步自审通过**
