@@ -106,7 +106,7 @@ modified: "2026-09-12"
 | nape | 颈背 | one hand on the nape of my neck, the other on my waist |
 | smother | 使窒息；（爱）令人窒息 | Too much, perhaps, would smother Sadie, at a time when she could not afford to be smothered. |
 | eye-watering | 高得吓人的 | the amount of teaching they had loaded us up with for the semester was eye-watering |
-| bolshy | 倔强反抗的（英俚） | was all my bolshy wife – who had never backed down from an argument in her entire fucking life – said |
+| bolshy | 倔强反抗的（英俚） | 'Oh,' was all my bolshy wife – who had never backed down from an argument in her entire fucking life |
 | marginalia | （书页边）批注 | my adoration of Sadie to my mental marginalia in an attempt to pretend it away |
 | wield | 挥舞；驾驭（词句） | I loved Sadie Shaw more than words could wield the matter |
 | adherent | 信徒；拥护者 | I'd become a devout adherent to a happy wife, happy life-esque philosophy |

@@ -107,7 +107,7 @@ modified: "2026-09-12"
 | charisma | 魅力；感召力 | the kind of sparkle in her eye that translated into charisma |
 | lambast | 痛斥；狠批 | The dean of the Faculty of Arts, who popped in for twenty minutes to lambast everyone |
 | treason | 叛国；（喻）大逆不道 | Which is about as close you can come to treason in the Fisher family |
-| galling | 使人恼火的；难堪的 | having them do it because of your connection to a man like that – a connection you did not ask for – must be galling |
+| galling | 使人恼火的；难堪的 | having them do it because of your connection to a man like that – a connection you did not ask for and could not change – must be galling |
 | gainsay | 反驳；否认 | but I wasn't about to gainsay her |
 | radicalised | 使激进化 | I was radicalised at age ten when Dad took Jonah's teddy bear away |
 

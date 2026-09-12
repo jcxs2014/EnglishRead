@@ -118,7 +118,7 @@ modified: "2026-09-12"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | slump | 低潮；萎靡 | I had been in a slump ever since the letter from Chess arrived |
-| dashed | （希望）破灭 | my hope that she might miraculously appear... had been dashed a couple of days earlier |
+| dashed | （希望）破灭 | had been dashed a couple of days earlier |
 | sheepish | 局促的；不好意思的 | He smiled, that sheepish Cardigan Jonah smile |
 | weedy | 长满杂草的 | He gestured to a weedy, overgrown plot |
 | plot | （花园）地块；情节 | He gestured to a weedy, overgrown plot, three away from the one I'd taken over from Isamu |

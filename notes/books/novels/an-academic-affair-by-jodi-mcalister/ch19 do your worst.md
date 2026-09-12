@@ -127,7 +127,7 @@ modified: "2026-09-12"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | poring | 钻研；细看 | I had spent a great deal of my career poring over complex, obscure, archaic language |
-| sob | 抽泣 | I'm not going to pretend I know what the fuck Chess is thinking,' I said. 原句：She choked back a sob. |
+| sob | 抽泣 | She choked back a sob. |
 
 ## 一句话总结
 
