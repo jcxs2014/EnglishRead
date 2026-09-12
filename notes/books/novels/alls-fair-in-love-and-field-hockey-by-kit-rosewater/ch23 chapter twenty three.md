@@ -25,7 +25,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：这个意象是全书结构的转折销钉——上半场的 demolition 是心理预告，本场的 demolition 是物理兑现。
 
-> **原句 2:** "Are you trying to tell me…that I'm breaking up a dispute not between Van Darian and Heathclef, but between two Heathclefs, and the goalkeeper's asking me to call a foul against their own team?"
+> **原句 2:** "Are you trying to tell me," he starts, "that I'm breaking up a dispute not between Van Darian and Heathclef, but between two Heathclefs, and the goalkeeper's asking me to call a foul against their own team?"
 
 **中文理解**：「你是想告诉我……我要调解的不是 Van Darian 和 Heathclef 的争执，而是两个 Heathclef 之间的争执，而且还是门将在要求我判自己的队伍犯规？」
 

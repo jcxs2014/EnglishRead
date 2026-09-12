@@ -45,7 +45,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：这段重排了兄妹冲突的全部意义——ch03 他劝她"做自己"的急切，原来出自一个没能被妈妈"看见"的人的亲身账单。
 
-> **原句 4:** "So for me, I just rip off the label of what Mom was working for, and I look at her hustle instead. I try to hustle like Mom."
+> **原句 4:** "So for me, I just rip off the label of what Mom was working for, and I look at her hustle instead. … I try to hustle like Mom."
 
 **中文理解**：「所以对我来说，我只是把妈妈奋斗的那个目标标签撕掉，去看她的那股拼劲本身。我试着像妈妈那样拼。」
 

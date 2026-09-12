@@ -45,7 +45,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：把这句与 Coach Rampal 的 losses define us（ch23）连读——两位教练一先一后完成了对她的再教育：输赢之外，还有尽力本身。
 
-> **原句 4:** "I hauled them to the dumpster so everyone would think Van Darian was messing with us again. I just wanted…We were so strong before homecoming."
+> **原句 4:** "I hauled them to the dumpster so everyone would think Van Darian was messing with us again. I just wanted…" Her voice trails off. "We were so strong before homecoming."
 
 **中文理解**：「我把球棍拖到垃圾桶那边，好让所有人都以为又是 Van Darian 在搞我们。我只是想……主场日之前我们那么强。」
 

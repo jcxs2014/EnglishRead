@@ -15,7 +15,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:** "Usually, if I relax my eyes enough, the textured plaster begins to blur and I can turn a blank canvas into the backdrop of memories of Mom and me playing out on the field. Tonight, I only see the plaster."
+> **原句 1:** "Usually, if I relax my eyes enough, the textured plaster begins to blur and I can turn a blank canvas into the backdrop of memories of Mom and me playing out on the field. … Tonight, I only see the plaster."
 
 **中文理解**：通常，只要我把眼睛放松到一定程度，纹理斑驳的天花板就会开始模糊，我能把一块空白画布变成妈妈和我球场上时光的背景幕。今晚，我只看见天花板。
 
