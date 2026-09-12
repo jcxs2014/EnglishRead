@@ -79,7 +79,7 @@ modified: "2026-09-11"
 
 **中文理解：** Mickey 觉得自己的嘴张开了。那句话的前半段听来清晰真切。后半段没有。她父亲是索取的人，不是给予的人。
 
-**关键词：** rang clear and true, one to take, not give
+**关键词：** rung clear and true, one to take, not give
 
 **为什么这样写：** "He left you some money"被她的大脑拆成两半分别验收——前半（他死了）通过，后半（他给钱）被拒收。"one to take, not give"用对仗把二十六年的父女关系压缩成一条账目原则：这段关系的本质不是缺席，是单向的损耗。她不是没听见，是这半句话超出了她对父亲这个概念的定义域。
 

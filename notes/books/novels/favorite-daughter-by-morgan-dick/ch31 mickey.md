@@ -59,9 +59,7 @@ modified: "2026-09-11"
 
 **中文理解：** "我要去接受治疗了。"
 
-**关键词：** I'm going to treatment
-
-**关键词：** going to treatment, get it out, get it over with
+**关键词：** I'm going to treatment, get it out, get it over with
 
 **为什么这样写：** treatment 是 Mickey 全书的终点站——她此前用过 recovery 的所有替代词（counseling、sessions、that stuff），都在回避它的重量。此刻四个单词的宣告没有任何修饰（没有"maybe"、没有问号、没有"我猜"），配合她的身体准备（"She just had to say it, do it, get it out, get it over with"）——这是把一句话当跳板用的说法：说出口即落水，落水即开始。宣告的戏剧性藏在"给谁听"里：给 Mama（让她知道女儿不会死在她前面）、给自己（把退路锁死）、给读者（全书最长的一条线进入终段）。"Two months"的具体性（她连天数都背好了）与 ch25 的"Is it enough"心跳相接——这一次她不再问够不够，她直接报了注册码。
 
