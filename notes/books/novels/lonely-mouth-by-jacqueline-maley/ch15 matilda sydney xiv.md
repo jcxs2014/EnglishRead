@@ -92,7 +92,7 @@ modified: "2026-09-12"
 
 **关键词：** desire didn't power anything, stalled and atrophied, curdled and kept you stuck
 
-**为什么这样写：** 餐厅晨间的佛学讲座（"Wanting gives us wheels. Desire is an engine."）在此被当事人驳回：Reggie 的神学为餐厅辩护（欲望让厨房运转），她的实证为病人作证——她自己的欲望档案（Colson二十年不落地、被压平的童年、戒不掉的吐）全是"curdled"的标本。三个动词的下行电梯（stalled→atrophied→curdled）是全书对单恋最狠的验尸报告。作者让她在此刻反驳"正统"，等于宣告她的病各论：不是欲望太多，是欲望找不到出口——她的引擎不是没有油，是传动轴断了二十年。
+**为什么这样写：** 餐厅晨间的佛学讲座（"Wanting gives us wheels. Desire is an engine."）在此被当事人驳回：Reggie 的神学为餐厅辩护（欲望让厨房运转），她的实证为病人作证——她自己的欲望档案（Colson 两年不落地、被压平的童年、戒不掉的吐）全是"curdled"的标本。三个动词的下行电梯（stalled→atrophied→curdled）是全书对单恋最狠的验尸报告。作者让她在此刻反驳"正统"，等于宣告她的病各论：不是欲望太多，是欲望找不到出口——她的引擎不是没有油，是传动轴断了十五年。
 
 **读者视角提示：** 这段紧跟她"glow 完就羞耻"的坦白——像戴上婚戒又忘了它不是真的。她的全部婚恋幻想都停在"like"（像）这个字上：像被爱、像平凡、像可以忘记。本书后半程要做的，就是逼她把"像"字删掉。
 

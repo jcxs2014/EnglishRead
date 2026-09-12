@@ -24,7 +24,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 一个 "appeal" 的三重奏（形容词"动人"/动词"有吸引力"/名词"上诉"）撑起整段：她的爱自始就带着司法语法——自我定罪、寻求开恩、盼望翻案。"condemned person before a benevolent leader"是少女恋爱的极端译本：不指望平等，只求赦免。而结尾的玉米苞衣比喻把"被原谅"写成一种农业般的自然过程——不必挣，自己会掉。这份天真在下一秒就被 Sue 的敲门声粉碎（读者已知结局），比喻越甜，时差越狠。
 
-**读者视角提示：** 记住这段的潜台词：她谈恋爱的方式就是打官司——把"被喜欢"翻译成"被判无罪"。这个语法二十年后还会回来（Will 的 Facebook 消息她不敢回、Angus 的道歉她不受理）。
+**读者视角提示：** 记住这段的潜台词：她谈恋爱的方式就是打官司——把"被喜欢"翻译成"被判无罪"。这个语法十五年后还会回来（Will 的 Facebook 消息她不敢回、Angus 的道歉她不受理）。
 
 > **原句 2:** 'I've seen the way she looks at him,' Daniel Butler said. Sue was silent. I pictured her expression – pained, tired. 'She's clearly a girl with—' How would he put it? 'It's obvious she's a girl with appetites.'
 
@@ -54,7 +54,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** ch07 立的法、ch11 成的宪，在此刻遭遇第一次违宪危机。"welched on"（赖账）与 "without my consent"（未经同意）把身体写成另一个签约主体——她的"秩序工程"在此暴露根本缺陷：她能管的从来只是日程，不是身体；而身体恰恰是那个"replete with desire and need"的混沌之国（ch11）。作者让她用合同法语言描述失控，越冷静越显出哲学的塌方：连她引以为傲的规则，也不过是跟叛军签的停火协议。
 
-**读者视角提示：** 注意她紧接着列出的对照物：Bocca——"我被需要、被想念的地方"vs"跪在硬瓷砖上的膝盖"。病发作时她真正怕的终于显形：不是胖，是这一切会拆掉她用二十年搭起来的"有用之人"脚手架。
+**读者视角提示：** 注意她紧接着列出的对照物：Bocca——"我被需要、被想念的地方"vs"跪在硬瓷砖上的膝盖"。病发作时她真正怕的终于显形：不是胖，是这一切会拆掉她用十七年搭起来的"有用之人"脚手架。
 
 > **原句 5:** During the scene where Jane and Rochester argue in the garden at Thornfield, when Rochester tells Jane he will send her away to another position in Ireland, the actress faced out to the audience and said: 'I am no bird, no net ensnares me! And I need not sell my soul to buy bliss!' A minute later he asks her to marry him. Jane seemed at war with herself, I thought.
 

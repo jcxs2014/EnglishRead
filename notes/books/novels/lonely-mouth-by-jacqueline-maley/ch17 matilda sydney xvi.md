@@ -42,7 +42,7 @@ modified: "2026-09-12"
 
 **关键词：** my insignificance underwrote their entire liaison, fuelled by the limerence, You are a fool
 
-**为什么这样写：** 背叛的会计学在此结算：她不是这段三角的输家——她是这段三角的**基础设施**（underwrote：承保；licensed：发照）。最毒的一刀是重估期记忆：Colson 近来的"extra warmth"原来是热恋的外溢——他对她的每一分好，都是对妹妹爱的溢价，她享受了二十年的"被依赖"原来一直按批发价计费。而最后那个第二人称的自审（"You are a fool."）是她全书唯一一次对自己用法庭语气——cynic 的短暂上位。作者用金融+法律双词汇系统把心碎写成一场审计事故：她不是没算过账，是账本本身是假的。
+**为什么这样写：** 背叛的会计学在此结算：她不是这段三角的输家——她是这段三角的**基础设施**（underwrote：承保；licensed：发照）。最毒的一刀是重估期记忆：Colson 近来的"extra warmth"原来是热恋的外溢——他对她的每一分好，都是对妹妹爱的溢价，她享受了两年的"被依赖"原来一直按批发价计费。而最后那个第二人称的自审（"You are a fool."）是她全书唯一一次对自己用法庭语气——cynic 的短暂上位。作者用金融+法律双词汇系统把心碎写成一场审计事故：她不是没算过账，是账本本身是假的。
 
 **读者视角提示：** "limerence"（痴恋）这个心理学词在此登场——它是 Will 的"different boys"、ch07 的"defaulted back to Colson"的学术全名。注意 Colson 的热度曲线与 Lara 的在场曲线完全重合——这个观察她早就有了，只是现在才知道公式。
 

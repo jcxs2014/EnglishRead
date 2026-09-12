@@ -74,7 +74,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 深夜搜完初恋的 Facebook，无意识点赞——数字时代的"梦游杀人"。作者把罪证写成一句极简的童话句："The small thumbs incriminated me"——拇指是小的，罪是大的；失眠深夜的每一次手滑都是潜意识的漏电。"froze in indecision"与全章结尾她'装睡'的旧技一脉相承：遇险就静止。而本次后果与童年不同——这次，对岸有回应了。
 
-**读者视角提示：** 这是全书最轻巧的一记"命运扳机"：她二十年的孤独，被几个点赞杠杆撬动。注意她用 Bocca 的公司账号而非私人身份——连接近旧爱都要借职务之便，她的自我隐匿从未下岗。
+**读者视角提示：** 这是全书最轻巧的一记"命运扳机"：她十七年的孤独，被几个点赞杠杆撬动。注意她用 Bocca 的公司账号而非私人身份——连接近旧爱都要借职务之便，她的自我隐匿从未下岗。
 
 > **原句 7:** I cottoned on to why the department determined I couldn't stay with the Butlers too long. It was tempting fate to place a teenage girl in a house with teenage boys. I had a realisation that, for adults, girls' bodies were a risk to be managed.
 

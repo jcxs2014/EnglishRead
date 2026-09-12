@@ -52,7 +52,7 @@ modified: "2026-09-12"
 
 **关键词：** called an 86, a horror of 86s, prone to decrees
 
-**为什么这样写：** 一个行业黑话（86）被请进小说，承担了双重职能：它是剧情扳机（她的失职让阿拉斯加断货），更是人物关系的显微切片——"prone to decrees... up to others to determine the details of execution"正是 Colson 与她二十年的分工契约：他颁布理想，她清偿现实。断货这次，违约的是她——而她的天塌方式不是扣钱，是身份崩塌："我唯一能献给 Bocca 的就是专注"。作者用一句黑话让读者看见：她的职场完美主义和她的 Id Weekend 宪法是同一套系统，一处失守，全线震级上升。
+**为什么这样写：** 一个行业黑话（86）被请进小说，承担了双重职能：它是剧情扳机（她的失职让阿拉斯加断货），更是人物关系的显微切片——"prone to decrees... up to others to determine the details of execution"正是 Colson 与她两年的分工契约：他颁布理想，她清偿现实。断货这次，违约的是她——而她的天塌方式不是扣钱，是身份崩塌："我唯一能献给 Bocca 的就是专注"。作者用一句黑话让读者看见：她的职场完美主义和她的 Id Weekend 宪法是同一套系统，一处失守，全线震级上升。
 
 **读者视角提示：** "86"在行业里还有另一个意思——把人拒之门外/除名。记住这个词的双关：本章被 86 的是甜点，本章之后被 86 的，会是别的东西。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 **关键词：** watched my sister, almost audible, Love is a form of attention, and she had his
 
-**为什么这样写：** 全书最残忍的一句定理自反：ch06 是 Lara 自己悟出"Love was really a form of attention"（缺爱的人靠它谋生），本章这条定理调转枪口——她亲眼看见妹妹收到了 Colson 的 attention，"audible"一词让目光带上音量，等于当众开票。"and she had his"五个字是全部判决：主语是她（Lara），宾语是他的（注意力）——她二十年的单恋在语法上就输了：她一直在给，妹妹总是收。作者不写心碎，写观测记录；观测者比当事人更冷，因为她在用毕生的 hypervigilance 做这件事。
+**为什么这样写：** 全书最残忍的一句定理自反：ch06 是 Lara 自己悟出"Love was really a form of attention"（缺爱的人靠它谋生），本章这条定理调转枪口——她亲眼看见妹妹收到了 Colson 的 attention，"audible"一词让目光带上音量，等于当众开票。"and she had his"五个字是全部判决：主语是她（Lara），宾语是他的（注意力）——她两年的单恋在语法上就输了：她一直在给，妹妹总是收。作者不写心碎，写观测记录；观测者比当事人更冷，因为她在用毕生的 hypervigilance 做这件事。
 
 **读者视角提示：** 记住这个三角形的第一条边：Colson→Lara。结合 Lara 一贯"被看见就舒服"的体质（不设防、不拒绝），这条边将在后面长成 Matilda 必须直面的题目：她的爱人、她的妹妹、她的规则，谁都不欠她，但谁都拿走了。
 
@@ -72,7 +72,7 @@ modified: "2026-09-12"
 
 **关键词：** never let me get away with anything, That's why I love you
 
-**为什么这样写：** 这句调情是全章最值钱的赝品：一个 married man 用"我爱你"支付蘑菇粉的欠账，而收据的抬头写着她的职务——他说的是"爱"，计量单位是"不放过"。"never let me get away with anything"先给了她二十年来最高的职业授勋（她的价值=执法能力），再用一个"love"把授勋折现为暧昧。作者让这句话悬在备餐室的静默里（"let that expand and settle"），不揭穿、不接收——她的沉默是全书最贵的一次自我克制：她知道这句爱的汇率，也知道兑付日永远不会来。
+**为什么这样写：** 这句调情是全章最值钱的赝品：一个 married man 用"我爱你"支付蘑菇粉的欠账，而收据的抬头写着她的职务——他说的是"爱"，计量单位是"不放过"。"never let me get away with anything"先给了她职业生涯里最高的职业授勋（她的价值=执法能力），再用一个"love"把授勋折现为暧昧。作者让这句话悬在备餐室的静默里（"let that expand and settle"），不揭穿、不接收——她的沉默是全书最贵的一次自我克制：她知道这句爱的汇率，也知道兑付日永远不会来。
 
 **读者视角提示：** 连读下文："You make me feel hopeful, Matilda May"——他是全书唯一叫她中间名的人（来自外祖母的名字）。他要的希望与她给的服务， currency 不同，账户相通：这段关系的全部悲剧就是汇率。而 Barbara 的" Finally, I meet the boyfriend!"之所以刺耳，是因为她只是说出了所有人都看得见的赤字。
 
@@ -82,7 +82,7 @@ modified: "2026-09-12"
 
 **关键词：** blamed me personally, within my rights to blame her, the arc of intergenerational trauma
 
-**为什么这样写：** 全书最凝练的创伤力学公式：母亲把账单甩给女儿，女儿手里其实攥着更厚的账单——"supposed to bend"的反讽让这条弧线听起来像马丁·路德·金式的历史判词，实则是一份无人签收的追偿通知。作者用"within my rights"的法律措辞说清了她二十年不讨债的原因：权利在她这边，可权利在疯人面前无法执行——Barbara 连自己的行为都不认账，向谁索赔？这句也是本章结尾的钥匙：她最终会明白，"讨回"与"放下"都不是这道弧线的终点，第三种 bend 还没被发明出来。
+**为什么这样写：** 全书最凝练的创伤力学公式：母亲把账单甩给女儿，女儿手里其实攥着更厚的账单——"supposed to bend"的反讽让这条弧线听起来像马丁·路德·金式的历史判词，实则是一份无人签收的追偿通知。作者用"within my rights"的法律措辞说清了她十七年不讨债的原因：权利在她这边，可权利在疯人面前无法执行——Barbara 连自己的行为都不认账，向谁索赔？这句也是本章结尾的钥匙：她最终会明白，"讨回"与"放下"都不是这道弧线的终点，第三种 bend 还没被发明出来。
 
 **读者视角提示：** "intergenerational trauma"是全书少见的术语直用——注意她说完这句没有展开任何控诉清单。对她来说，控诉的技术难点从来不是证据（证据一卡车），是被告没有出庭能力。
 

@@ -92,7 +92,7 @@ modified: "2026-09-12"
 
 **关键词：** she'll always doubt him, majestically proud of herself, Nobody hurts my children
 
-**为什么这样写：** 全书给母亲的名言在此收官，而它的结构是一份 inverted 判决书：她没有送 Phil 进监狱、没有公开控诉、甚至被他妻子拉黑——她只种下一颗怀疑的种子。"Whether or not she admits it"是她对"证明"的终极哲学：真相不需要送达回证，只需要在对方婚姻的枕边生根。这与 Matilda 的 toxicology report（把叙述权交给科学）形成母女两种正义观的对勘——一个用法律文书，一个用诅咒；一个放弃叙述，一个劫持叙述。"Nobody hurts my children"六个词是全书最简单也最迟的一句母爱——它迟到了三十年，但抵达时完整无损。
+**为什么这样写：** 全书给母亲的名言在此收官，而它的结构是一份 inverted 判决书：她没有送 Phil 进监狱、没有公开控诉、甚至被他妻子拉黑——她只种下一颗怀疑的种子。"Whether or not she admits it"是她对"证明"的终极哲学：真相不需要送达回证，只需要在对方婚姻的枕边生根。这与 Matilda 的 toxicology report（把叙述权交给科学）形成母女两种正义观的对勘——一个用法律文书，一个用诅咒；一个放弃叙述，一个劫持叙述。"Nobody hurts my children"六个词是全书最简单也最迟的一句母爱——它迟到了十七年，但抵达时完整无损。
 
 **读者视角提示：** 把这句话与 ch01 的遗弃并排放在书桌上：同一个女人，同一副牙。本书对 Barbara 的最终裁决不在任何一章的评语里，就在这两页的落差里——疯、恶、爱与忠诚在她体内从未分层（或者用本章的话说：它们永远处于乳化状态）。
 
