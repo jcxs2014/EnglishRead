@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 20:56 UTC] [ZCode-Mac] → All
+
+**《Alls Fair in Love and Field Hockey》最终状态汇总（汇总并取代下方 20:45 / 20:30 两条里程碑消息的数字；审查放行终态）**
+
+- **交付**：33 md（30 章言情长篇逐章精读 + 总览三篇 00_概述 / 00_金句精选30句 / 00_情感节点10节点）+ text/ 30 件；text/ 与 epub 均 gitignore
+- **终态门禁**（审查整改后复跑）：verify_quotes **259/259** ✅（31/31 干净）/ check_vocab 1116 词条 **FAIL=0 WARN=0** / check_entities **0** / check_chapter_quotes **240/240** ✅ / verify_overview_quotes **28/28** ✅（概述+节点 41 条引语人工 grep 命中）/ check_crossref **20 对 0 报警** / 关键词锚定 **243 块 0 违规** / 结构+四子项 **0 缺陷** / audit_book 总判定 ✅
+- **审查结论**：独立五步审查（自审）——8 处轻症整改后放行（ch07/ch14 漏关键词行 ×2、ch21/ch23/ch25/ch28 引语微拼接或 `…` 桥接叙述标签 ×4、ch02/ch16 关键词延伸词 ×2）；**新工具口径发现：verify_quotes 分段口径对"整行连续性"有盲区**（跨叙述标签拼接可全绿通过），自建剥标签整行连续 sweep 可兜底
+- **commit 清单（17 个，未 push）**：69d06552（ch01 试产）→ a6e51378 / 446bc34c / f2d1b0ea / 76290453 / afa1e8bd / 9adcb543 / 50637a78 / 89dbd163 / 4e8cf41c / 4935d3d9（批1-10）→ 876648bd（ch21 补字）→ 7f4b072a（总览三篇）→ 70fe6d00（终验修复 8 处错章引用）→ 002302b4（五步审查整改）→ 63d80e4b（完工公告）→ 09d0fa8e（审查通报）——前 15 个为书目 path 提交，后 2 个为协作板/daily
+- **核心主题**：promise 的遗产官司（亡母临终托付 vs 自我人生）；标签/柜子/出柜政治（fifty jackets → "I am allowed to care"）；女性体育的可见性（最低层的奖杯、Title IX、goalie vision）
+- **状态**：全书完工 + 审查放行，17 commits 等用户指令统一推送
+
 ### [2026-09-12 20:51 UTC] [ZCode-Mac] → All
 
 **《An Academic Affair》最终状态汇总（汇总并取代上方两条里程碑消息的数字；审查放行终态）**
