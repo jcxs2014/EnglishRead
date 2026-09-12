@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **中文理解**："你负责街头智慧，我负责书本智慧。"
 
-**关键词**：street smarts vs book smarts（街头 vs 书本）；bring（带来，分工）。
+**关键词**：street smarts vs book smarts（街头 vs 书本）；bring（带来，分工）
 
 **为什么这样写**：mandoline 流血事件后（裹伤+握手）的停战协议：她第一次肯定分工而非排名——street（他）与 book（她）平起平坐，无高下。"I did my reading"（前文：她预习了 roux/béchamel/mother sauces）是她的投名状：书呆子用书呆子的方式示好。Wesley 的"happy to store"（后文：开心存下知识）说明他接了：两人第一次有"共同的东西"（Do we have something in common?，前文原问）。
 
@@ -119,7 +119,7 @@ modified: "2026-09-12"
 
 **中文理解**："我想亲吻 mandoline 的刀片，感谢它切出这样的土豆。"
 
-**关键词**：kiss the blade（亲刀片）；mandoline（从乐器误会到亲吻，态度180°）。
+**关键词**：kiss the blade（亲刀片）；mandoline（从乐器误会到亲吻，态度180°）
 
 **为什么这样写**：mandoline 三部曲完结：ch02 当乐器（无知）→ ch10 初切见血（恐惧）→ 亲刀片（热爱）——一部厨具的救赎史即她的学厨史。kiss blade 的夸张（亲吻凶器）是吃货的最高礼仪，与"scalded mouth"（后文：烫嘴还猛吃）同款真香。salty/cheesy/creamy/buttery（前文：四连鲜）排比是她第一次用美食家语言说话：taste（ch06 Wesley 认证）开始长出手艺。
 

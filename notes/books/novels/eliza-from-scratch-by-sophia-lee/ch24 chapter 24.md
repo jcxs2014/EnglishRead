@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "it’s really lonely to be here in America."
 
 **中文理解**："在美国，真的很孤独。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "if you two don’t want to talk about her, then who can I remember her with?"
 
 **中文理解**："如果你们俩都不想提她，那我跟谁一起记着她？"
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "it’s like I can learn to miss her."
 
 **中文理解**："好像我能学会想念她。"
 
-**关键词**：learn to miss（学会想念）；like（好像）；guilty don’t miss（前文：愧疚自己不想她）。
+**关键词**：learn to miss（学会想念）；like（好像）（前文：愧疚自己不想她）。
 
 **为什么这样写**：warmth closer surface（前文：妈妈回暖进行时）+ processing no manual（前文：grief 无手册）→ learn to miss（学会想）——ch05"帮我学会想她"的毕业版：从借口（拜师）到真心（想学）。thinned ties（后文：距离泡薄了亲缘）+ sorry not missing（后文：对不起没想她）——道歉的升级：从"对不起烧了纸"到"对不起没想她"——纸是物，想是心，道歉进深水。stories as lessons（后文：故事即课）——想念的方法论：听故事=学想念。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "you don’t have to learn her recipes because you feel bad for me. Or for school."
 
 **中文理解**："你不用因为可怜我、或为了学校，来学她的菜。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "The way you cook is like time travel, or magic."
 
 **中文理解**："你做饭的样子像穿越，像魔法。"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "You know what this weather makes me crave?"
 
 **中文理解**："你知道这天气让我想吃啥吗？"
 
-**关键词**：this weather（这天气）；crave（馋）；April spell（前文 ch05：四月咒语，bingsu 前夜祭）。
+**关键词**：this weather（这天气）；crave（馋）（前文 ch05 四月咒语）。
 
 **为什么这样写**：咒语重启：April（四月：妈妈问）→ November（十一月：她问）——问的人换了：女儿接过咒语棒。Gaja（前文 ch05：走！标准答案）→ tray to table（后文：这次她端盘）——角色对调完成：她成妈妈，妈妈成女儿（tentative smile， twin eyes，后文：试探笑+双胞胎棕眼）。snowy mountain（后文：雪山刨冰+pat+injeolmi）——April mother 的配方，November 的复刻：味道没变，端盘的人变了=长大了。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "You can talk to me, Eomma. I want to miss her, too."
 
 **中文理解**："你可以跟我说，妈妈。我也想想念她。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "You know what’s a good meal to take to someone who’s sick?"
 
 **中文理解**："你知道带啥饭给病人最好吗？"

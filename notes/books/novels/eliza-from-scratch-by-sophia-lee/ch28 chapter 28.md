@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "Anyone can cook, I tell myself."
 
 **中文理解**："人人会做饭，我跟自己说。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "You’ve really become an excellent chef."
 
 **中文理解**："你真成了个优秀的厨子。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "I’ve never had this kind of bean powder before."
 
 **中文理解**："这种豆粉我从没吃过。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "I’ll need to build up my spice tolerance the next time our salutatorian cooks for us."
 
 **中文理解**："下次我们毕业第二名下厨，我得提前练吃辣。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "The best type of food is one that takes you on a journey."
 
 **中文理解**："最好的食物带你旅行。"
 
-**关键词**：takes journey（带旅行）；best type（最好的类型）；studious shift（前文：Salazar 变严肃，多吃 Wesley 好几口）。
+**关键词**：takes journey（带旅行）；best type（最好的类型）（前文：Salazar 变严肃，多吃 Wesley 好几口）。
 
 **为什么这样写**：Salazar 的总判（判给 Wesley）：extra bites（前文：他的菜多吃了好几口）+ kindness→studious（前文：和蔼转治学）+ handshake（后文：握手，独一份）——名厨的最高礼仪：多吃+握手。journey（旅行）= 他的菜单（tom kha+carbonara+mango，三国游）——takes you（带你走）vs Eliza 的时间旅行（time travel，ch24 妈妈菜）——旅行双璧：他的空间游，她的时间游，决赛的两种满分答卷。You should win（ch26 她的保举）→ journey（名厨的附议）——保举兑现。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "the winner of the Culinary Arts Cook-Off is Wesley Ruengsomboon."
 
 **中文理解**："烹饪 cook-off 的冠军是 Wesley Ruengsomboon。"
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I would like to take this mango cake home. It’s phenomenal."
 
 **中文理解**："这芒果蛋糕我想打包带走。太绝了。"
 
-**关键词**：take home（打包带走）；phenomenal（绝了）；diplomacy slipped（前文：校长外交面具滑落）。
+**关键词**：take home（打包带走）；phenomenal（绝了）（前文：校长外交面具滑落）。
 
 **为什么这样写**：Richardson 的破防：diplomatically recycle（前文：全场外交辞令复读）→ take home（打包！）+ phenomenal（绝了）——面具滑落即真心：extra emotion candor（前文：多出的情绪与坦率）——mango cake（芒果+float+mangonada，三合一）是全场唯一的"想带走"，want 的最高级。fight bet job（后文 Treviño：为蛋糕跟校长干架，赌上工作）+ heels threat（后文校长：穿跟鞋不怕你）——喜剧双簧：两个大人为蛋糕约架，Wesley 的全国级排面。different league（后文她的认证）——盖章：他高一档，心服口服。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "This semester has truly been one of the best of my life."
 
 **中文理解**："这学期真是我人生最好的学期之一。"

@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "You can’t guilt yourself into feeling something."
 
 **中文理解**："你不能靠愧疚逼自己有感觉。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "There’s a reason that, historically, the ocean was enough to define old versus new worlds."
 
 **中文理解**："历史上，大洋曾足以划分旧世界与新世界，这是有原因的。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "Sometimes, the people an ocean away are really only family by name."
 
 **中文理解**："有时候，一洋之隔的人，真的只是名义上的家人。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "So be gentle with yourself."
 
 **中文理解**："所以，对自己温柔点。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "I don’t think empathy is about needing all the details to align."
 
 **中文理解**："我觉得共情不需要所有细节都对上。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "That tracks. He keeps turning us down. Now it all makes sense."
 
 **中文理解**："对上了。他老拒绝我们。这下全通了。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "Everyone is open. No one skirts about sensitive topics. It’s nice."
 
 **中文理解**："人人都敞亮。没人绕开敏感话题。挺好。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "the group chat name will stay stagnant, and I can’t go back to how things were."
 
 **中文理解**："群名会一直停着，我也回不到过去了。"

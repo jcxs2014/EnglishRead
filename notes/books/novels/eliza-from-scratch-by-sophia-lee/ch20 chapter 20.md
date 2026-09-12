@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "At the top of the page is an eighty-six circled in red pen with a smiley face drawn beside it."
 
 **中文理解**："卷首一个红笔圈出的 86，旁边还画了个笑脸。"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "You’ve really come a long way, Eliza."
 
 **中文理解**："你真的走了很远，Eliza。"
 
-**关键词**：come a long way（走了很远）；really（真的）；diced tomatoes pasta（前文：还记得你拿番茄罐头浇意面）。
+**关键词**：come a long way（走了很远）；really（真的）（前文：还记得你拿番茄罐头浇意面）。
 
 **为什么这样写**：Treviño 的期中认证：extra minute tasting（前文：多尝了一分钟）+ short laugh（前文：短笑）+ refreshing（前文：辣得清爽）——肯定三连。diced tomatoes callback（前文：点名番茄罐头意面黑历史）——老师记得她的起点，long way 才有刻度。approval feels good（后文：被肯定真爽）——她第一次承认需要肯定：学霸也要夸，夸即燃料。chili pepper（前文：她偷加辣椒片又捞出）——韩式辣味潜入番茄汤，fusion 无师自通。
 
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "Wesley is your boyfriend?"
 
 **中文理解**："Wesley 是你男朋友？"
 
-**关键词**：boyfriend（男朋友）；question as truth（前文：问句的语气是陈述）；Yeah kind of（后文：嗯，算是吧）。
+**关键词**：boyfriend（男朋友）（前文：问句的语气是陈述）；Yeah kind of（后文：嗯，算是吧）。
 
 **为什么这样写**：妈妈的 change energy 盘问（前文：察觉周二课气场变了）→ boyfriend 定性——妈妈比她先命名关系。tone says truth（语气即定论）+ Yeah kind of（她的认领：嗯，算是）——kind of 的保留是少女的最后倔强：认，但不全认。never asked（后文：她心想"你又没问过"）+ friends lecture（后文：妈妈转进朋友论）——认证之后立刻催"记得朋友"，妈妈式转折：糖里掺药。
 
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "I have nothing to hide from you."
 
 **中文理解**："我对你没什么可藏的。"
 
-**关键词**：nothing to hide（没什么可藏）；from you（对你）；whisper（前文：耳语，invited 进家门的回礼）。
+**关键词**：nothing to hide（没什么可藏）；from you（对你）；whisper（耳语）。
 
 **为什么这样写**：You said you don’t let friends come（前文：她点破"你不让朋友进门"）→ whisper Yeah（他耳语承认）→ Thank you（她致谢）→ nothing to hide（他回赠）——信任的交换仪式：她先谢（谢他破例），他再押（押上透明）。sincere warm face（后文：真诚到她脸热）+ Kareena ache（后文：话又拐回 Kareena 的疼）——糖里掺刀：最甜的互诉，拐出最疼的 canyon。hide 的终结：villain mom 之外，他对她拆检完毕。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "I like you so much."
 
 **中文理解**："Eliza，我好喜欢你。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "it’s like they never really get their flowers, you know?"
 
 **中文理解**："它们好像永远得不到应得的花儿，你懂吧？"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I can’t pretend I’m surprised that you’re a noods girl."
 
 **中文理解**："你是个面条女孩，我一点不意外。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "No matter what Wesley has become to me, I still want to give my speech."
 
 **中文理解**："不管 Wesley 现在算我的什么人，我还是想做毕业演讲。"

@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "Jess, I saw you,” I told her when she finally surrendered the chase."
 
 **中文理解**："Jess，我看见了。"追到她终于停下时，我说。
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "Don’t let me catch you again,"
 
 **中文理解**："别再让我抓到。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "But Kareena and I are not spear-throwing girls. We are shields, built for defense and stability."
 
 **中文理解**："但我和 Kareena 不是投矛的女孩。我们是盾，为防御和稳定而生。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "The fissure cracks open into a canyon."
 
 **中文理解**："裂缝崩开成峡谷。"
 
-**关键词**：fissure→canyon（裂缝→峡谷，量级跃升）；cracks open（崩开）；Kareena leaves from her side（前文：她从她那边离开）。
+**关键词**：fissure→canyon（裂缝→峡谷，量级跃升）；cracks open（崩开）（前文：她从她那边离开）。
 
 **为什么这样写**：fissure widen（前文：裂缝 widen，吞掉脚下地面）→ canyon（峡谷，深不见底）——地质学术语写友情，裂缝的物理化。leaves from her side（她从她那边走）vs from my side（她也可以从我这边走，但她选了那边）——站位即站队。cafeteria（后文：去食堂）是分界线：西班牙教室（我们的）vs 食堂（她的），领土分裂完成。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "Because you’re cute."
 
 **中文理解**："因为你可爱。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "No one said your problems have to be the worst in the world in order for them to exist."
 
 **中文理解**："没人说你的烦恼得是世界第一惨，才配存在。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "You say more than you think, and the rest of it is written on your face."
 
 **中文理解**："你说出口的比你以为的多，剩下的全写在脸上。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "your face is saying something that you’re not ready to put into words. So I’ll wait."
 
 **中文理解**："你的脸在说一些你还没准备好说出口的话。那我等。"

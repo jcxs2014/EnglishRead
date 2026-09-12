@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "Trade? Old times’ sake?"
 
 **中文理解**："换吗？看在老交情份上？"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "No one deserves it like you do."
 
 **中文理解**："没人比你更配赢。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "Not one of your dishes looks like salsa."
 
 **中文理解**："你没有一道菜还像莎莎酱了。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "My American daughter is making wonderful Korean food all by herself."
 
 **中文理解**："我美国女儿独自做了超棒的韩国菜。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "Halmeoni would think so, too."
 
 **中文理解**："外婆也会这么想。"
 
-**关键词**：Halmeoni（外婆）；too（也）；in charge dinner（后文：以后你掌勺，爸爸封官）。
+**关键词**：Halmeoni（外婆）；too（也）（后文：以后你掌勺，爸爸封官）。
 
 **为什么这样写**：爸爸的附议：cartoon eating（前文：卡通式炫面）→ Halmeoni too（外婆也）——缺席者的在场：外婆没吃过，但爸爸代她投票。in charge（后文：以后你做饭）+ scowl next in line（后文：她翻白眼让你先）+ chopsticks accuse（后文：妈妈筷子指爸爸）——家宴喜剧收束：封官+推让+筷子断案，April mother 式热闹。learn to miss（ch24：学会想念）的回声：外婆"也在场"，想念修成正果：缺席者入席（代议制）。
 
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "Are you disappointed in me?"
 
 **中文理解**："你对我失望吗？"
 
-**关键词**：disappointed（失望）；panic chestnut（前文：他栗色眼睛慌了）
+**关键词**：disappointed（失望）（前文：他栗色眼睛慌了）
 
 **为什么这样写**：wobble emotional（前文：她声音晃，羡慕+嫉妒交织）→ panic（他慌）→ disappointed?（他问）→ boyfriend college（后文：他问是不是嫌男友不申大学）——他的不安三连：慌+哑+问——staging/ACC（前文：实习+社区大学曲线）vs MIT（她的路）——路不同，怕她嫌。stop proud jealous（后文：她打断：骄傲+羡慕，与失望无关）+ succinct moving don’t know who（后文：五百字写不出我是谁）——失望的反面：骄傲+迷茫并存：为他骄傲，为己迷茫，糖与刀同炉。laptop turn（下文：他看她文书）——不安的解药：看她的空白，懂她的卡点。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I envy that, you know? How close you and your mom are."
 
 **中文理解**："我羡慕那个，你知道吗？你和你妈那么近。"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "like I’m making choices that are going to take me where I actually want to go."
 
 **中文理解**："像在做选择，带我去真正想去的地方。"
 
-**关键词**：making choices（做选择）；actually want（真正想要）；lightning bottle（前文：瓶装闪电，gleaming eyes）。
+**关键词**：making choices（做选择）；actually want（真正想要）（前文：瓶装闪电）。
 
 **为什么这样写**：blender top（前文：语速如搅拌机要炸）+ staging/ACC（前文：实习+社区大学）→ lightning（瓶装闪电）→ choices destination（选择+目的地）——Kareena voice（后文：trying to get somewhere，他做到了）——hindsight clarity（后文：她顿悟：不在于是不是努力，在于是不是去想去的地方）——Ivy vs ACC（后文：藤校 vs 社区大学，路不同，步步近）——全书价值观的毕业考：destination（目的地）> speed（速度），Wesley 满分。happy wobble（下文：她说为你高兴，声音晃）——糖与刀：为他高兴，为己迷茫（文书空白），wobble 即糖刀同炉的声纹。
 

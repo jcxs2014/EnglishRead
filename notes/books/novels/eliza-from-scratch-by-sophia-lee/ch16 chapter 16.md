@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "I thought I had the script memorized, but all the roles have been reversed."
 
 **中文理解**："我以为剧本倒背如流，结果所有角色都反了。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "The group chat name hasn’t changed in the past twelve days."
 
 **中文理解**："群名十二天没换了。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "Your annoying, obnoxious, ridiculously talented rival who made you cry over onions?"
 
 **中文理解**："就是那个烦人、讨厌、天赋异禀、害你为洋葱哭的死对头？"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "Already bringing him home, are we?"
 
 **中文理解**："都把人往家带了啊？"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "School is a specific kind of game, you know?"
 
 **中文理解**："学校是一种特定的游戏，你懂吧？"
 
-**关键词**：specific kind of game（特定游戏）；barely know rules（后文：我连规则都不熟）。
+**关键词**：specific kind of game（特定游戏）（后文：我连规则都不熟）。
 
 **为什么这样写**：boba 桌的 mini 演讲：grimaces→sigh（前文：龇牙→叹气，认输前摇）+ game 论（学校是游戏）+ rules（规则）——Wesley 的世界观总判：game 有规则，规则不写给他这种人。feed/entertain myself（后文：会养活自己、会找乐子）+ no way to prove（后文：无法证明）——自证困境：会生活≠会被录取。mom’s voice（后文：她引用妈妈"只有某种知识才算数"）——两家妈妈隔空击掌：知识等级制下，Wesley 和妈妈妈是同一种受害者。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "But it’s like that kind of knowledge doesn’t matter to them. There’s no way to prove it."
 
 **中文理解**："但那种知识他们不认。没法证明。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I think I was so rude to you at the start because I felt like you would write me off, so I wanted to write you off first."
 
 **中文理解**："我开局那么毒，是因为觉得你会先把我开除，所以我先开除了你。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "You have to know how ridiculous that sounds coming from you."
 
 **中文理解**："你得知道，这话从你嘴里说出来多荒谬。"

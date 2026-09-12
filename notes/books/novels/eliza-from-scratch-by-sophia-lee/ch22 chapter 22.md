@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "You ever see someone so good at what they do, that it’s like you’re discovering beauty where you didn’t see it before?"
 
 **中文理解**："你见过有人把一件事做到极致，美到让你发现新大陆吗？"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "She said she spent the whole semester trying to figure out if she wanted to be me or be with me."
 
 **中文理解**："她说她花了一学期搞清，自己是想成为我，还是想和我在一起。"
 
-**关键词**：be me or be with me（成为我 vs 和我在一起）；whole semester（整学期）；crush for years（前文：暗恋多年，meta-poetry）。
+**关键词**：be me or be with me（成为我 vs 和我在一起）；whole semester（整学期）（前文：暗恋多年，meta-poetry）。
 
 **为什么这样写**：Jess 暗恋全本：freshman crush（前文：高一起暗恋）→ be or be with（成为还是相伴，身份与爱欲的经典难分）→ cheating 误会（前文：考场盯看=看人非抄题）——旧案平反：staring at desk（盯桌子）看的是 Kareena 不是答案，mango cheesecake（ch07 野餐翻车蛋糕）是情书不是厨艺。Meredith 的 meta-poetry（前文：元诗歌）认证：暗恋×出柜×误会三层，确实 meta。Eliza 的 chest thrums horrified（后文：胸口狂跳，旧嘲回声）—— be me（成为她）刺痛她：她曾是"被想成为"的人，现在成了"被瞒"的人。
 
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "It’s what people say when you’re not around to hear—or I guess, when they think you’re not around to hear—that shows who they are."
 
 **中文理解**："人不在场时说的话——或者说，自以为人不在场时说的话——最见人品。"
 
-**关键词**：not around to hear（不在场）；shows who they are（见人品）；showering of needles（前文：话像针雨落下）。
+**关键词**：not around to hear（不在场）；shows who they are（见人品）（前文：话像针雨落下）。
 
 **为什么这样写**：Wesley 的开庭陈词：steel voice（前文：钢铁声）+ shiver spine（前文：她脊背发凉）——审判语气。think you’re not around（自以为不在场）是定罪核心：她以为他不在（没看短信），话就说了。guaranteed A（前文闺蜜：白捡 A+白捡男友）+ beneath you（前文：课配不上你）——罪证确凿：她没反驳（redirect 失败，fragile peace 优先）。needles（针雨）+ beg stay（后文：她只会求别走）——她无 defense（辩护），只有 compulsion（哀求留下），吵架开局即完败。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "You’re someone who would’ve sunk to the bottom if you didn’t have me to keep you afloat."
 
 **中文理解**："没我托着，你早沉底了。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "You’re a girl who clings to her grades because she’s scared she doesn’t have anything actually meaningful."
 
 **中文理解**："你是个抱着分数不撒手的小孩，因为你怕自己除此之外一无所有。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "You can’t write a personal statement if you’re nobody."
 
 **中文理解**："没内容的人，写不出文书。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I’m going home. I have to memorize my times tables,"
 
 **中文理解**："我回家了。得去背乘法表了。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "There’s no way you can’t get an A if those other kids can."
 
 **中文理解**："那些小孩都能拿 A，你不可能拿不到。"

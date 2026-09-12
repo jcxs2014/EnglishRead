@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "Wesley heard us talking,"
 
 **中文理解**："Wesley 听见我们说话了。"
 
-**关键词**：heard us talking（听见我们说话）；slip out（前文：脱口而出）；don’t take back（后文：不想收回）。
+**关键词**：heard us talking（听见我们说话）；slip out（前文：脱口而出）（后文：不想收回）。
 
 **为什么这样写**：开篇自首：slip out without permission（前文：嘴比脑子快）→ don’t want back（不想收回）——honest 纲领（ch15：约好诚实，哪怕吵架）的首次履约：confronted→folded（前文：上次被问就怂了）→ 这次先投案。distressed expression（前文：表情 distressed）+ mock trial evidence（后文 Meredith：要证据）——闺蜜法庭开庭：她当原告，告自己。ships 2.0（ch21 夜航船的续集）：这次她选择开灯航行，不关门。
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "We never mean anything by it."
 
 **中文理解**："我们说那些话从来没过心。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "It’s prejudiced. It’s elitist."
 
 **中文理解**："这是偏见。这是精英主义。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "If Jess gives the speech at the end of the year, then so be it."
 
 **中文理解**："如果 Jess 年底做演讲，那就这样吧。"
 
-**关键词**：so be it（那就这样）；Jess gives speech（Jess 演讲）；smart girl kick-ass cook（后文：聪明女孩+超屌厨子）。
+**关键词**：so be it（那就这样）；Jess gives speech（Jess 演讲）（后文：聪明女孩+超屌厨子）。
 
 **为什么这样写**：try to win（前文：当然要赢）→ not for rank（后文：不为排名，为自己骄傲）→ so be it（Jess 讲也行）——hardest semester（前文：最难一学期）+ prove through（后文：证明走过来了）——stakes 换血：从"保第二"到"证明自己走过最难学期"。usurp reassurance（后文 Kareena：Jess 在搞医院科研，没空抢排名）——威胁解除（客观）+ so be it（主观）——双保险：她放下了，世界也松手了。smart+kick-ass（后文自封）——新头衔： salutatorian 旧币，kick-ass cook 新币。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "At least I know I’m a smart girl and a pretty kick-ass cook."
 
 **中文理解**："至少我知道，我是个聪明的女孩，还是个超屌的厨子。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "No one in this school cares about cooking like you do. I’m sure of it."
 
 **中文理解**："这学校没人像你这么爱做饭。我确定。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "Don’t let it go to your head,"
 
 **中文理解**："别上头啊。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "You wouldn’t be the Eliza Park I know if you didn’t."
 
 **中文理解**："你不这样，就不是我认识的 Eliza Park 了。"

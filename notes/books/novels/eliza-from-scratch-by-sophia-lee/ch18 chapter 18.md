@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "The floodgates have been opened and the waters are misbehaving treacherously from their pent-up rebellion."
 
 **中文理解**："闸门开了，积压叛乱的水开始无法无天地乱流。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "it feels like an anatomical part of me."
 
 **中文理解**："感觉它成了我解剖学意义上的一部分。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "Yeji-yah, good friends are very important in your life, okay?"
 
 **中文理解**："Yeji 啊，好朋友在你人生里很重要，记住了。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "She’s trying to make an argument without having done the reading."
 
 **中文理解**："她想外考试，却连书都没读。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "Down to the portraits of a white family hanging above the fireplace."
 
 **中文理解**："连壁炉上挂的白人全家福都一模一样。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "I just want to be seen as . . . whoever I am when I’m separated from my family, if that makes sense."
 
 **中文理解**："我只想被当成……离开家时的那个我，如果你懂的话。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "What did I do to lose someone’s trust like this?"
 
 **中文理解**："我做了什么，丢了别人的信任？"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "Our shields are up. It’s the only way we know how to be."
 
 **中文理解**："我们的盾都举起来了。这是我们唯一会的相处方式。"

@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "Pay attention or you’ll miss it."
 
 **中文理解**："好好看着，不然你会错过她长大。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "My offer to teach you physics still stands."
 
 **中文理解**："我教你物理的 offer 依然有效。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "We can still keep cooking together, Eliza."
 
 **中文理解**："我们还可以继续一起做饭，Eliza。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "Eliza, don’t you know the most enticing way to spend my Friday nights is to hang out with you?"
 
 **中文理解**："Eliza，你不知道吗，我周五晚上最想干的事就是跟你混？"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "Eliza, please kiss me."
 
 **中文理解**："Eliza，求你，吻我。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "I just kissed possibly the smartest, cutest girl I know and am trying my hardest to act cool about it."
 
 **中文理解**："我刚吻了可能是我认识的最聪明最可爱的女孩，正拼命装酷。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "things are more than a sum of their parts,"
 
 **中文理解**："事物大于部分之和。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "Here I am, my mouth tells his."
 
 **中文理解**："我在这里，我的嘴替我告诉他。"

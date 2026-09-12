@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "we’re ships in the night about some things."
 
 **中文理解**："有些事上，我们是夜航中擦肩的船。"
 
-**关键词**：ships in the night（夜航船，Longfellow 名句）；some things（有些事）；door closed（后文：关门省得吵架）。
+**关键词**：ships in the night（夜航船）；some things（有些事）；door closed（后文：关门省得吵架）。
 
 **为什么这样写**：Kareena 的和解总判：ships（夜航船：同海域，不照面）+ misunderstand either way（后文：你误会我或我误会你）+ door closed（后文：关门省事）——盾女的 mechanics：怕吵→关门→更远。wish didn’t understand（后文：她宁愿不懂）→ do（但懂）——ships 的悲哀：懂，但错过。Eliza 的 Jess scenario（后文：她脑补出柜场景之难）+ skirt（后文：都绕着说话）——双向 ships：她也关门了，对等。
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "God, I’ve been so selfish."
 
 **中文理解**："天啊，我一直这么自私。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "when they do, you have to believe that you will make things okay."
 
 **中文理解**："当意外发生，你得相信自己能把它变好。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "Maybe I can start believing that’s true."
 
 **中文理解**："也许，我可以开始相信那是真的了。"
 
-**关键词**：Maybe（也许）；start believing（开始相信）；Everything’s fine（前文：她回 Wesley 一切都好+笑脸）。
+**关键词**：Maybe（也许）；start believing（开始相信）。
 
 **为什么这样写**：结尾句：reread text（前文：重读发出的"一切都好"）→ Maybe believe true（也许能信了）——笑脸 emoji 先行，相信随后：先表演 ok，再成为 ok。fine 的双关：回他 fine（ fine），对己 fine（信 fine）——plan 论（上文）的首次服药：松缰，信善后。Maybe 的轻+ start 的始——全书最低调的转折：不宣判，只开服。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "Did you two break up?"
 
 **中文理解**："你俩分手了？"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "Because that boy was a very good cook."
 
 **中文理解**："因为那孩子做饭很好吃。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "That’s when I thought I might fall in love with him."
 
 **中文理解**："那时我想，我可能要爱上他了。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "I’m ready to act like a friend, and I mean it."
 
 **中文理解**："我准备好当个朋友了，说真的。"

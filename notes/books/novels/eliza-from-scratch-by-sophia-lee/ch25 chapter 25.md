@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "It makes me want to run a lap around the neighborhood, yelling, I’m a goddamn chef! but I resist."
 
 **中文理解**："想绕小区跑一圈，喊我是神厨！但忍住了。"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "I was hoping I could help take care of you. I was worried you’d be alone."
 
 **中文理解**："我想照顾你。怕你一个人。"
 
-**关键词**：take care（照顾）；alone（一个人）；pause wonder（前文：停顿，琢磨该不该说）。
+**关键词**：take care（照顾）；alone（一个人）（前文：停顿，琢磨该不该说）。
 
 **为什么这样写**：warm nutritious（前文：粥暖+营养+不闹胃，报菜名）→ pause（停顿）→ take care+alone（照顾+怕独）——I think I want to so I do（前文：想说就说）——直球。no response（后文：他没接话）+ out of line fear（后文：怕越界）——直球的代价：先疼一下。warm hands（后文：他焐粥碗）→ cold porridge（后文：她说凉粥不治病）→ open up（后文：他说张嘴？不，My own hand）——skin brush（后文：手蹭手）+ burning forehead（后文：额头滚烫）——照顾的形状：粥+药+手温，三件套。
 
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "You’re my favorite part of the day, too."
 
 **中文理解**："你也是我一天里最喜欢的部分。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "I couldn’t forget you even if I tried."
 
 **中文理解**："想忘都忘不掉你。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "There’s a reason I always took the photos on my phone. I knew I would want to keep looking at you."
 
 **中文理解**："我总拿自己手机拍，是有原因的。我知道我会一直想看你。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "I assume people think the worst of me, so I assume the worst of them."
 
 **中文理解**："我默认别人看扁我，所以我先看扁别人。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "I’m done pretending I don’t."
 
 **中文理解**："我不装了。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "‘Like I’d ever cry over you.’ You said that to me once. Do you remember?"
 
 **中文理解**："‘我才不会为你哭。’你曾这么说过。记得吗？"

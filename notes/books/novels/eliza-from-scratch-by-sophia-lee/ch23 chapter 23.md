@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-
+> **原句 1:**
 > "If there were a world record for the number of texts a girl can send in one day to a boy who is ignoring her, I’m sure I am breaking it."
 
 **中文理解**："如果一天内给已读不回的男孩发短信有世界纪录，我肯定在破纪录。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 2:**
 > "The morning of Thanksgiving, I finally get a response, but it’s only a direct reply to the dinner invitation. Two words: Can’t. Sick."
 
 **中文理解**："感恩节早上，我终于收到回复，但只是对晚餐邀请的直接答复。两个词：不行。病了。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 3:**
 > "My mom forgot about Thanksgiving."
 
 **中文理解**："我妈把感恩节忘了。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 4:**
 > "I, Eliza Park, have just made a home-cooked Korean dish for my family without any assistance."
 
 **中文理解**："我，Eliza Park，刚独立为家人做了一道韩国家常菜。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 5:**
 > "All I want is my mom, but she hasn’t been here for the past five months."
 
 **中文理解**："我只想要我妈，可她五个月都没在。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 6:**
 > "All I want is my mom, too,"
 
 **中文理解**："我也只想要我妈。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 7:**
 > "And no one is here for me. Not even my own family."
 
 **中文理解**："没人为我，连我自己家人都不。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-
+> **原句 8:**
 > "Don’t talk to me,” I snap. “Talk to your wife for once."
 
 **中文理解**："别跟我说。跟你老婆说一次吧。"
