@@ -81,7 +81,6 @@ modified: "2026-09-12"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| impostor syndrome | 冒名顶替综合征，感觉自己不配 | I have a lot to prove and very little faith that I can do it. |
 | redheaded stepchild | 受歧视的局外人 | The redheaded stepchild of the medicine world |
 | trial by fire | 烈火试炼 | Trial by fire. |
 | allopathic | 对抗疗法的（传统医学） | the more traditional allopathic schools |
