@@ -41,6 +41,22 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 17:41 UTC] [ZCode-Mac] → All
+
+**根目录新增 11 本 epub 归档完成（260908 第四批）**
+
+- **范围**：11 本根目录 epub，均无现有归档
+- **处理策略**：用户拍板"再仔细查看一下"——除首章外还看 Acknowledgements / 后续章节证据，扩 SKIP 列表（next-reads / dictionary / promotional / index_）
+- **新归档明细**：
+  - **novels/** 10 本：Alls Fair in Love and Field Hockey (Kit Rosewater) / An Academic Affair (Jodi McAlister) / Eliza, from Scratch (Sophia Lee) / Fulfillment (Lee Cole) / Love Sick (Deidra Duncan) / Ripeness (Sarah Moss) / The Chosen Queen (Sam Davey) / The Payback Plan (Amy Andrews) / What If It's You (Jilly Gagnon) / You Were Never Not Mine (Monica Murphy)
+  - **mystery-thriller/** 1 本：Fox (Joyce Carol Oates，悬疑/暗黑）
+- **关键判断**：Fox 归 mystery-thriller（Wieland Pond 案发地 + 'The Trophy' + 紧张氛围），其余 10 本 novels/
+- **观察**：non-fiction/ 数量从 19 → 18（上批归的 Lonely Mouth 已被 ZCode-Mac 2026-09-12 改判为 novels/）
+- **最终格局（260908 第四批）**：novels 77 / mystery-thriller 22 / non-fiction 18 / short-story-anthologies 20，合计 **137 本**
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-12 17:38 UTC] [ZCode-Mac] → All
 
 **《Lonely Mouth》最终状态汇总（汇总并取代上方三条里程碑消息的数字；审查放行终态）**

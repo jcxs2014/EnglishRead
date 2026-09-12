@@ -16,13 +16,17 @@ title: 书单
 | [A Sea of Unspoken Things](books/novels/a-sea-of-unspoken-things-by-adrienne-young/) | Adrienne Young |
 | [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
+| [An Academic Affair](books/novels/an-academic-affair-by-jodi-mcalister/) | Jodi McAlister |
+| [Alls Fair in Love and Field Hockey](books/novels/alls-fair-in-love-and-field-hockey-by-kit-rosewater/) | Kit Rosewater |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
 | [Bitter Sweet](books/novels/bitter-sweet-by-hattie-williams/) | Hattie Williams |
 | [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
 | [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
 | [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
+| [Eliza, from Scratch](books/novels/eliza-from-scratch-by-sophia-lee/) | Sophia Lee |
 | [Everything Is Fine Here](books/novels/everything-is-fine-here-by-iryn-tushabe/) | Iryn Tushabe |
 | [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
+| [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
@@ -37,6 +41,7 @@ title: 书单
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
 | [Lady of The Lake](books/novels/lady-of-the-lake-by-c-n-crawford-and-alex-rivers/) | C.N. Crawford & Alex Rivers |
 | [Lonely Mouth](books/novels/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
+| [Love Sick](books/novels/love-sick-by-deidra-duncan/) | Deidra Duncan |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
 | [Memories Like Fangs](books/novels/memories-like-fangs-by-chelsey-j-leon/) | Chelsey J. León |
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
@@ -44,6 +49,7 @@ title: 书单
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
+| [Ripeness](books/novels/ripeness-by-sarah-moss/) | Sarah Moss |
 | [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
 | [Perfection](books/novels/perfection-by-vincenzo-latronico/) | Vincenzo Latronico |
 | [Rookie Season](books/novels/rookie-season-by-leah-brunner/) | Leah Brunner |
@@ -53,6 +59,7 @@ title: 书单
 | [The Bucket List](books/novels/the-bucket-list-by-ali-parker/) | Ali Parker |
 | [The Burial Witch](books/novels/the-burial-witch-by-cari-thomas/) | Cari Thomas |
 | [The Butcher of the Forest](books/novels/the-butcher-of-the-forest-by-premee-mohamed/) | Premee Mohamed |
+| [The Chosen Queen](books/novels/the-chosen-queen-by-sam-davey/) | Sam Davey |
 | [The Eleventh Hour](books/novels/the-eleventh-hour-by-salman-rushdie/) | Salman Rushdie |
 | [The Fall Risk](books/novels/the-fall-risk-by-abby-jimenez/) | Abby Jimenez |
 | [The Giver](books/novels/the-giver-by-lois-lowry/) | Lois Lowry |
@@ -60,10 +67,11 @@ title: 书单
 | [The Lack of Light](books/novels/the-lack-of-light-by-nino-haratischwili/) | Nino Haratischwili |
 | [The Last Thing](books/novels/the-last-thing-by-bethany-monaco-smith/) | Bethany Monaco Smith |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
-| [The Sweet Chef](books/novels/the-sweet-chef-and-the-corporate-queen-by-susanne-ash/) | Susanne Ash |
+| [The Payback Plan](books/novels/the-payback-plan-by-amy-andrews/) | Amy Andrews |
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
 | [The Runaway Duchess](books/novels/the-runaway-duchess-by-alda-kazmierczak/) | Alda Kazmierczak |
+| [The Sweet Chef](books/novels/the-sweet-chef-and-the-corporate-queen-by-susanne-ash/) | Susanne Ash |
 | [Things We Fake](books/novels/things-we-fake-by-melinda-de-ross/) | Melinda De Ross |
 | [Things We Never Got Over](books/novels/things-we-never-got-over-by-lucy-score/) | Lucy Score |
 | [This Thing Between Us](books/novels/this-thing-between-us-by-gus-morales/) | Gus Morales |
@@ -71,9 +79,11 @@ title: 书单
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
+| [What If It's You](books/novels/what-if-its-you-by-jilly-gagnon/) | Jilly Gagnon |
 | [Who Is the Liar](books/novels/who-is-the-liar-by-laura-lee-bahr/) | Laura Lee Bahr |
 | [Wild Dark Shore](books/novels/wild-dark-shore-by-charlotte-mcconaghy/) | Charlotte McConaghy |
 | [Wolftamer](books/novels/wolftamer-by-maggie-rapier/) | Maggie Rapier |
+| [You Were Never Not Mine](books/novels/you-were-never-not-mine-by-monica-murphy/) | Monica Murphy |
 
 ## 推理 / 悬疑
 
@@ -84,6 +94,7 @@ title: 书单
 | [Always the Quiet Ones](books/mystery-thriller/always-the-quiet-ones-by-jamie-lee-sogn/) | Jamie Lee Sogn |
 | [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
+| [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
 | [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
 | [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
