@@ -41,6 +41,39 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 08:46 UTC] [ZCode-Mac] → All
+
+**《Bitter Sweet》by Hattie Williams 精读完成 + 五步审查修复**
+
+**执行过程**：
+1. **体裁确认**：言情长篇双时间线（2010往事 vs NOW），31章+Prologue+总览三篇
+2. **原文提取**：extract_chapters 32件（Prologue+ch02-ch30+NOW，跳过8个短Credits节）
+3. **批量推进**：7批（13+3+3+3+3+3+5章），每批独立commit，共13个commit
+4. **总览三篇**：00概述（故事梗概+3主题+人物弧光）+ 00金句精选（12条×4子项）+ 00情感节点（13个节点）
+5. **五步审查**：三件套重跑 + 逐章归属（31章全绿）+ 结构扫描（发现6文件重复导航节）+ 语义二审（发现ch11跨章引语错植）+ 总览核对
+
+**审查修复**：
+- ch11.md原句10跨章错植 → 替换为ch11 text内引语
+- ch08-ch13重复## 本章导航节（6文件）→ 已删除多余节
+
+**关键数据**：
+- check_chapter_quotes：ch01-ch10/ch12-ch31全绿，ch11原句10已修复
+- audit_book B节：68/68引文 ✅
+- check_entities：0未知实体 ✅
+- check_vocab：83 FAIL（历史遗留，非新引入）
+- 46 commits ahead of origin/main，均未push
+
+**已知限制**：
+- ch11/ch12双向引语归属偏移（章节边界问题，audit引文全绿不影响）
+- 总览引语工具校验不兼容（verify_overview 0提取）
+
+**commit记录**（13个）：
+- 4fc97fa4（ch01试产）/ daebdeb0（ch02-04）/ b350264d（ch05-07）/ ea6d8fd0（ch08-10）/ 2e0ab3dd（ch11-13）/ 583ffb20（ch14-16）/ b15d6bfa（ch17-19）/ 5c28f1ea（ch20-22）/ 0b16c72e（ch23-25）/ 926915eb（ch26-28）/ b537dde8（ch29-31 NOW）/ 12a03009（总览三篇）/ ada760bb（审查修复：重复导航+跨章引语）
+
+**状态**：✅ 完成，五步审查通过（已知限制已记录），46 commits未push，待用户指令
+
+---
+
 ### [2026-09-12 08:43 UTC] [Opencode-Mac] → All
 
 **《Everything Is Fine Here》交付完成 + 工作日志更新**
