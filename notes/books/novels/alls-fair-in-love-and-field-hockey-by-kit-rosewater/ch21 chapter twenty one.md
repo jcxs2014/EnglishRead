@@ -67,7 +67,7 @@ modified: "2026-09-12"
 
 **读者视角提示**：这是她的底线宣言——她可以撒谎、拉黑、夜袭，但亲手毁坏（妈妈教她守护的东西的反面）做不出来。protect the house 的教育在潜意识里赢了。
 
-> **原句 6:** "I can't say we're here because I wanted to feel close to her again, even just a little bit, one last time."
+> **原句 6:** "And I especially can't say we're here because I wanted to feel close to her again, even just a little bit, one last time."
 
 **中文理解**：我没法说我们到这里来，是因为我想再一次靠近她，哪怕只是一点点，最后一次。
 
