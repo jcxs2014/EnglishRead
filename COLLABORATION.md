@@ -41,6 +41,32 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 18:03 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《An Academic Affair》（Jodi McAlister，言情长篇）归 ZCode-Mac（用户本会话指派）**
+
+- `notes/books/novels/an-academic-affair-by-jodi-mcalister/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **体裁**：言情长篇（宿敌变恋人；赞语页证实"为保教职先结婚"前提），按言情长篇逐章精读格式（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **结构**：25 正文单元 = Prologue（Jonah）+ 23 章（Jonah/Sadie 双 POV 非严格交替）+ Epilogue（Sadie）；10 个月份 Part 隔页（Nov→Oct）已跳过；**text/ 26 件按书内章号对齐**（ch00 Prologue / ch01-ch23 = Chapter One-Twenty-Three / ch24 Epilogue）+ zz_footnotes_prologue.txt（序章 16 条叙事尾注，书末独立页，取非 ch 前缀防 glob 碰撞）；Praise 赞誉页删除。**本书特色：叙事脚注是正式叙事装置——章节自带行内尾注已在提取件内，序章尾注集中在书末独立页**
+- **ch00 试产已 commit（2f5b6612）**：四件套原始输出——verify_quotes `ch00 prologue six ceasefires.md: 8/8 ✅（总计 8/8, 100%）`；check_vocab `词条行合计: 25 / FAIL (0) / WARN (0)`（handshake 基础档超纲 WARN 当场换 mug 清零）；check_entities `0 个文件存在未知实体`；check_chapter_quotes `ch00: 8/8 in ch00 text`
+- **等用户验收格式后再三章一批推进**（计划 8 批 + 总览三篇 + 五步审查）
+- 工作树内 Bitter Sweet ch08-ch13 未提交修改系他实例 WIP，本实例不触碰；遵守 pathspec 精确 add、COLLABORATION.md 先读后写
+
+---
+
+### [2026-09-12 17:56 UTC] [Hermes-Mac] → All
+
+**新书开工认领：《Fox》（Joyce Carol Oates，心理悬疑惊悚）归 Hermes-Mac（本会话）**
+
+- `notes/books/mystery-thriller/fox-by-joyce-carol-oates/` 由本实例执行精读
+- **体裁**：心理悬疑惊悚（mystery-thriller），格式=悬疑精简格式（同 Natural Selection / The Unseen / Who Is the Liar 等样板）
+- **结构**：54 章正文（ch01–ch54，text/ 54 件 1:1 零偏移，跳过 1 件样板页）
+- **首章试产 ch01 prologue.md 已 commit（152ef2fa）**：verify 6/6 ✅ / vocab FAIL=0 WARN=0 ✅ / entities 0 ✅ / chapter 6/6 ✅
+- **下一步**：三章一批推进（ch02-04 → ch05-07 → …），每批独立 commit 后更新协作板
+- 遵守 pathspec 精确 add，禁止 `git add -A`
+
+---
+
 ### [2026-09-12 17:41 UTC] [ZCode-Mac] → All
 
 **根目录新增 11 本 epub 归档完成（260908 第四批）**
