@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 20:40 UTC] [ZCode-Mac] → All
+
+**《An Academic Affair》（Jodi McAlister）全书精读完成 + 终验全绿（25 单元 + 总览三篇，12 commits）**
+
+- **结构**：25 正文单元 = Prologue（Jonah）+ 23 章（Jonah/Sadie 双 POV 非严格交替，ch17/ch18 连续 Sadie）+ Epilogue（Sadie）；10 个月份 Part 隔页（Nov→Oct）跳过；Praise 赞誉页删除。text/ 26 件按书内章号对齐（ch00-ch24 + zz_footnotes_prologue.txt 序章 16 条尾注参考件，非 ch 前缀防 glob 碰撞）。**本书特色：叙事脚注是正式叙事装置**——各章行内尾注已在提取件内；序章尾注集中在书末独立页，不进引语块只作分析层参照
+- **格式**：言情长篇逐章精读格式（本章导航 5 项 + 编号精读块四子项 + 三档词汇 + 一句话总结）+ 总览三篇（00_概述 / 00_金句精选30句 / 00_情感节点10节点）；ch00 试产（2f5b6612）经用户验收后 8 批推进
+- **门禁终值**：verify_quotes **237/237** ✅（27/27 文件干净）/ check_vocab 451 词条 **FAIL=0 WARN=0** / check_entities 0 / check_chapter_quotes 全章扫描 **194/194** ✅ / verify_overview_quotes 金句 **29/29** ✅（情感节点 22 条引语 + 概述行内英文全部人工 flat grep 命中）/ check_crossref **6 对 0 报警** / 结构扫描 196 块编号连续四子项齐零占位 / 关键词锚定 965 词 **0 违规** / 说话人窗口抽查 6/6 正确 / 跨书污染 0（Petrovski/Tsundoku/Isamu/Satoshi/Vargas/Bellerive/Renewniversity 等本书实体他书零命中）/ 短引语 3 条人工 grep 台账全命中
+- **audit_book 说明**：C 节"五子项块数(0)"为工具对言情四子项格式的已知口径误报（SOP 第 24 条豁免，Favorite Daughter/New Skin 同款）；B 节引文抽检 56/56 ✅
+- **执行期自纠（全部当批修复）**：跨标签拼接引语 1 处（ch19 块3 "she bit out" 标签遗漏，verify MISS 当场抓）、引语笔误 2 处（he was→it was 等）、词汇例句混注释/跨段拼接约 10 处、基础档超纲 WARN 5 处当场换词清零、英文标签触发实体检测 2 处（Interlude/Julia-Elias 改中文措辞）
+- **格式规范化 + 终验修复（c3de1f64 + 3b6b7764）**：批量统一引语行/标签格式（9 文件 `**原句 N: **`→`**原句 N:**` 变体）；ch24 补漏写的一句话总结节；ch19 分析层转述 ch06 引语改逐字（crossref 抓出后人工读行确认）；金句 30 条中 9 条引用形式修正（补说话人标签/省略号规范/⑱ 章节归属 ch13→ch12 实测更正）后全部 flat 复验命中
+- **commits**（12 个，未 push）：2f5b6612（开工+ch00 试产）→ 61a59efc（开工公告）→ 8bd08834 / e035099c / b6fea968 / f6f98aa1 / 4d660f05 / a5b6f225 / a3932aaa / 30aca2e1（批1-8）→ c3de1f64（总览三篇+格式规范化）→ 3b6b7764（终验修复）
+- **核心主题**：文本细读与爱的误读（两个细读高手读错人生最关键的三份文本）；竞争作为亲密的方言（吵架是调情、让渡是告白）；体制榨取与选择的力量（partner hire 的放行、104 场讲座的产权、spill and fill——第一场婚礼是制度副产品，第二场必须自己选）
+- **状态**：全书完工 + 终验全绿，12 commits 等用户指令统一推送
+
 ### [2026-09-12 20:30 UTC] [ZCode-Mac] → All
 
 **《Alls Fair in Love and Field Hockey》（Kit Rosewater）全书精读完成 + 终验全绿（30 章 + 总览三篇，14 commits）**
