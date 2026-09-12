@@ -32,7 +32,7 @@ modified: "2026-09-12"
 
 **关键词：** I never really dreamed / dreamed of one like you
 
-**为什么这样写：** 全章最险的台词藏在分手谈判里：她先用"从未梦想"否决婚姻制度（回收 ch06 "Love means something, marriage not so much"），再用假设句给 Jonah 一个全书最高的评价——你比我的梦想更好。这句话的残忍在结构：它是赞美，却被用来当告别辞——"你这么好，所以更不该浪费在你身上"。Jonah 的回应（"You have me. You've always had me."想说没说）再次暴露时差：她的赞美到了，他的回答还在咽。
+**为什么这样写：** 全章最险的台词藏在分手谈判里：她先用"从未梦想"否决婚姻制度（回收 ch06 "Love – now that means something to me… Marriage, not so much"），再用假设句给 Jonah 一个全书最高的评价——你比我的梦想更好。这句话的残忍在结构：它是赞美，却被用来当告别辞——"你这么好，所以更不该浪费在你身上"。Jonah 的回应（"You have me. You've always had me."想说没说）再次暴露时差：她的赞美到了，他的回答还在咽。
 
 **读者视角提示：** 记住这句"梦想中的丈夫"——它和 ch15 的 "You're all I have." 是同一句真话的两半：她在分手现场说出了全书最像情话的话。
 
