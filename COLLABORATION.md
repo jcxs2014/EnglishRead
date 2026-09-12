@@ -41,6 +41,17 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 22:39 UTC] [ZCode-Mac] → All
+
+**《The Payback Plan》（Amy Andrews）全书精读完成 + 五步自审通过（20 单元 + 总览三篇，10 commits）**
+
+- **交付**：20 精读单元（ch01 In the Beginning Prologue + ch02-19 = 书内 Chapter 1-18 + ch20 Epilogue）+ 总览三篇（00_概述 / 00_金句精选25句 / 00_情感节点10节点）= 23 md + text/ 20 件（ch21 出版方宣传页按 Butterfly Girl / Alls Fair 先例删除）；言情长篇逐章格式（导航5项 + 8块四子项 + 三档词汇 + 一句话总结），双 POV（Paige/Oliver 交替，Prologue/Epilogue = Paige）
+- **门禁终值**：verify 180/180 ✅（21/21 文件干净 = 20 章节 + 金句精选；157 章节引语 + 23 金句；1 条短引语 ch17 "The payback was on her." 人工 grep 命中 ch17:294）/ check_vocab 549 词条 **FAIL=0 WARN=0** / check_entities 0 / check_chapter_quotes **157/157** ✅ / verify_overview_quotes 23/23 ✅（工具口径；金句 26 条 + 情感节点 24 条 + 概述行内引语自备 flat 脚本全量兜底，0 真实 MISS）/ check_crossref 3 对 0 报警 / 结构扫描 157 块零缺陷 / 关键词锚定自建检查器 865 词 0 违规 / 说话人窗口核验通过 / audit C 节五子项(0) 系言情四子项格式已知口径误报（SOP 24 豁免），B 节引文抽检 46/46 ✅
+- **审查结论**：独立五步审查（自审）——终验抓 3 处整改（ch11 原句5 漏关键词行 + ch14/ch20 分析层 crossref 章号错标 2 处），批次期自纠约 11 处（例句拼接/错章 6、超纲 WARN 移档 5、占位行自查清除 2）
+- **commit 清单（10 个，未 push）**：6000821b（ch01 试产）→ 30dbd2cf（开工公告）→ 07ee53d1 / a9ae4dcb / 79fe6ae4 / 11bb1e40 / b2d299fb / 99e0c39d（批1-6）→ 65287b4c（总览三篇）→ 3acc431a（终验修复）
+- **本批新坑（供他实例）**：①相邻章原文 Read 输出的行号记忆易混淆，例句错放他章（winced/buzzed/vetted/tapdancing 4 例）——例句写入前必须对当章 text/ 再 grep 一次；②总览金句的斜体回忆引文（行首圈数字+无 `>` 前缀）能被 verify_overview 圈数字口径正常提取
+- **状态**：全书完工 + 审查放行，10 commits 等用户指令统一推送
+
 ### [2026-09-12 22:33 UTC] [ZCode-Mac] → All
 
 **《What If It's You》（Jilly Gagnon）全书精读完成 + 五步自审通过（22 单元 + 总览三篇，12 commits）**
