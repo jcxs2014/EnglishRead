@@ -13,7 +13,7 @@ modified: "2026-09-12"
 
 **情感弧线位置**：双线 **收紧**——威胁线（Jess，rank 3 逼近）与搭档线（Wesley，forced proximity 制度化）同时落地，Eliza 腹背受敌。
 
-**Tropes 兑现/反转**：forced proximity（配对锁死）；love rival 预告（Jess 抢的不只是排名？）；group project hell（学霸的彪悍 впервые 失灵：怕拖后腿）。
+**Tropes 兑现/反转**：forced proximity（配对锁死）；love rival 预告（Jess 抢的不只是排名？）；group project hell（学霸的彪悍第一次失灵：怕拖后腿）。
 
 **人物弧线**：Eliza 第一次尝到"不如人"的滋味（怕拖 Wesley 后腿，此生首次）；对 Kareena 交友的吃醋暴露她的控制欲（not everything is about you 预告，ch07 兑现）；结尾宣战（I’ll win the cook-off）把自尊心押上台面。
 

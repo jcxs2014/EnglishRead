@@ -30,7 +30,7 @@ modified: "2026-09-12"
 
 **关键词**：projected valedictorian（预定第一名）；since freshman year（三年连贯）；it’s obvious why（不言自明）。
 
-**为什么这样写**：Kareena 的第一名被写成"自 freshman 年起"的既定事实，与 Eliza 岌岌可危的第二名形成镜像：一稳一危。it’s obvious why  отказ解释——作者不花笔墨证明 Kareena 的优秀，留白反而让她的"effortlessly smart"更有说服力，也为双人演讲梦立下可信地基。
+**为什么这样写**：Kareena 的第一名被写成"自 freshman 年起"的既定事实，与 Eliza 岌岌可危的第二名形成镜像：一稳一危。it’s obvious why，无需解释——作者不花笔墨证明 Kareena 的优秀，留白反而让她的"effortlessly smart"更有说服力，也为双人演讲梦立下可信地基。
 
 **读者视角提示**：valedictorian + salutatorian 双人演讲是全书友情线的地基，后文任何威胁第二名的情节都是在动这块地基。
 

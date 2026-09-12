@@ -76,7 +76,7 @@ modified: "2026-09-12"
 ---
 
 > **原句 5:**
-> "Eliza, I like you so much."
+> "I like you so much."
 
 **中文理解**："Eliza，我好喜欢你。"
 
