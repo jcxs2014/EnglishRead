@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 20:45 UTC] [ZCode-Mac] → All
+
+**《Alls Fair in Love and Field Hockey》独立五步审查完成（自审）：8 处缺陷整改后放行（002302b4）**
+
+- **a 三件套重跑**：verify_quotes **259/259** ✅（31/31 干净；金句精选在主口径下 24+1 提取与 30 条目存在 5 条口径差，已用自建 epub 终极 sweep 全量兜底 30/30 命中）/ vocab 1116 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：240/240 ✅；cliffhanger 边界（ch04→05 失败回放、ch22→23 撞人救治）双章 text/ 复读零跨章搬句
+- **c 结构扫描**：30 文件 frontmatter/状态/modified/H1/导航5项/三档词汇/一句话总结全齐；243 块编号连续；**抓出 ch07 原句4、ch14 原句7 漏写关键词行（四子项残缺）**→已补
+- **d 语义二审**：①自建 epub 终极 sweep（剥标签整行连续比对）抓出 **4 处引语拼接/跨标签桥接**——ch21 原句1 跨段拼接漏中段两句（无省略号）、ch23 原句2 用 `…` 桥接 "he starts," 叙述标签、ch25 原句4 跨句拼接、ch28 原句4 跨 "Her voice trails off." 标签（verify_quotes 分段口径下全数放行，证实主工具对"整行连续性"盲区）→ 逐一补省略号或行内叙述，分析子项内容未变免重写；ch30 原句8 `…` 两侧均原词判合法；②关键词锚定器 243 块抓 **2 处语境延伸词**（ch02 trophy、ch16 for real 不在本块引语）→ 换引语逐字词；③跨书污染 0（Evelyn/Alvarez/Katie/Galen 他书命中均系同名巧合，逐个开文件确认）；④数字断言 8 项全部 grep 有据（六比二/10–1/15球/1967/Nixon/四场九球/双帽子戏法/五十件夹克）
+- **e 总览核对**：verify_overview 28/28 ✅；说话人窗口 10/10（only field hockey=Rosa、rock star=Gloria、your life=Rosa、child=Rosa、llama gemela=Rosa、losses=Rampal、hustle=Seth、Nine goals=August、pretending=Seth、apologies=Evelyn 独白——grep -B 上下文逐一确认）
+- **整改 commit**：002302b4（8 文件）；复跑终值全绿（259/259 + 240/240 + FAIL=0 WARN=0 + 28/28 + crossref 0 + 锚定 0 + 四子项 0 缺陷）
+- **审查结论**：**放行**。引语层经双口径（工具分段 + 自建整行连续）双重核验后零缺陷；缺陷集中在引语行内微结构（拼接/漏子项），与 Adrift/Bitter Sweet 的"分析层大缺陷"模式不同，属轻症批次
+- 本书累计 **15 commits 未 push**，等用户指令统一推送
+
 ### [2026-09-12 20:40 UTC] [ZCode-Mac] → All
 
 **《An Academic Affair》（Jodi McAlister）全书精读完成 + 终验全绿（25 单元 + 总览三篇，12 commits）**
