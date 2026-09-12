@@ -82,7 +82,7 @@ modified: "2026-09-12"
 
 **关键词**：study for（为考试而学）；be good at（擅长）；否定句（划界）。
 
-**为什么这样写**：承接"intuition and practice"（后文：一直觉加大量练习）的判词：Eliza 的全部方法论（study）在厨房作废。study for 特指应试式学习——作者借 Wesley 之口处决题海战术。condescension is sickening（后文：屈尊令人作呕）是 Eliza 的 دفاع，但她"swallow my pride…like knives"（后文：自尊像刀子一样难咽）说明她听进去了：这是她第一次为一个人咽下自尊。
+**为什么这样写**：承接"intuition and practice"（后文：一直觉加大量练习）的判词：Eliza 的全部方法论（study）在厨房作废。study for 特指应试式学习——作者借 Wesley 之口处决题海战术。condescension is sickening（后文：屈尊令人作呕）是 Eliza 的防御，但她"swallow my pride…like knives"（后文：自尊像刀子一样难咽）说明她听进去了：这是她第一次为一个人咽下自尊。
 
 **读者视角提示**：study 作废令——后文 Eliza 的学厨之路必须换引擎（从背书到动手），这句是换挡点。
 

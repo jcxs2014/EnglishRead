@@ -69,7 +69,7 @@ modified: "2026-09-12"
 
 **关键词**：passionate about vs good at（热爱 vs 擅长）；only（只， 判死刑）；draws out syllables（前文：一字一顿，像教 toddler）。
 
-**为什么这样写**：toddler 语气（像教小孩断字）配死刑判决：passion 缺席诊断书第二次开具（第一次 ch07 regurgitations）。What’s the difference?（后文：有啥区别）+ You’re absurd（后文：你荒谬）——她是真不懂，不是嘴硬。Giving up because you’re not good（后文：不行就跑）+ consistent（ SPD 一致）——他连她的逃跑模式都建档了，rival 当到这份上，已是知己。
+**为什么这样写**：toddler 语气（像教小孩断字）配死刑判决：passion 缺席诊断书第二次开具（第一次 ch07 regurgitations）。What’s the difference?（后文：有啥区别）+ You’re absurd（后文：你荒谬）——她是真不懂，不是嘴硬。Giving up because you’re not good（后文：不行就跑）+ consistent（人设一致）——他连她的逃跑模式都建档了，rival 当到这份上，已是知己。
 
 **读者视角提示**：passion 缺席是全书对 Eliza 的核心诊断——后文她的文书题（quintessentially Eliza）即求医问药。
 
