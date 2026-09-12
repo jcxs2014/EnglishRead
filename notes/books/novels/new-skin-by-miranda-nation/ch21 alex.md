@@ -31,7 +31,7 @@ modified: "2026-09-12"
 
 **关键词：** effort to stay awake, crawling on broken glass
 
-**为什么这样写：** 咖啡馆重逢的真相只有一句——Leah 看到的"老朋友"其实在拼死抵抗药效断崖。"crawling on broken glass" 的痛觉比喻与本书的自伤意象库（烫伤、撞杆）同族，但这次疼的是"清醒"本身：对成瘾者，清醒才是酷刑。而他事后"在全街人的视野里补了一针"——对照 ch19"the thought of Leah jangles like caffeine"，她曾是他唯一的兴奋剂，如今连她都只能逼他加大剂量。
+**为什么这样写：** 咖啡馆重逢的真相只有一句——Leah 看到的"老朋友"其实在拼死抵抗药效断崖。"crawling on broken glass" 的痛觉比喻与本书的自伤意象库（烫伤、撞杆）同族，但这次疼的是"清醒"本身：对成瘾者，清醒才是酷刑。而他事后"在全街人的视野里补了一针"——对照 ch19"the thought of Leah jangles in his bloodstream like a hit of caffeine"，她曾是他唯一的兴奋剂，如今连她都只能逼他加大剂量。
 
 **读者视角提示：** 对照 ch15 的会面——他那时拿"疲惫"当借口，此刻疲惫成了真的，借口却再也造不出了。成瘾的第一笔学费是诚实破产。
 

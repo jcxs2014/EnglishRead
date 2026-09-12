@@ -29,7 +29,7 @@ modified: "2026-09-12"
 
 **中文理解：** 这在 Leah 眼里，像是最大的背叛。
 
-**关键词：** greatest of betrayals, missed miscarriage
+**关键词：** seemed like, the greatest of betrayals
 
 **为什么这样写：** "稽留流产"的医学事实（身体继续分泌孕激素、继续扮演怀孕）被她翻译成伦理事件——身体不仅失败，还在撒谎。"the greatest of betrayals" 的最高级用得克制而准确：对一个用了一生学习不信任自己身体的人，没有比"它假装一切正常"更深的背信。作者不加一个情绪词，让这个定罪句独自站在段落末尾。
 

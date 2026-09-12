@@ -81,7 +81,7 @@ modified: "2026-09-12"
 
 **关键词：** pot-dulled sense of relief, ghost of a ghost, kindest thing
 
-**为什么这样写：** 葬礼上的情感审计——"should feel angry" 与 "all he feels is relief" 的错位，正是 ch05"emptiness like relief" 的终极版本：现在连"像"字都省了，解脱就是解脱。"ghost of a ghost" 是全书最冷的名词短语：父亲怕的从来不是死，是失能后的苟活——儿子看穿了这一点，并把看穿当作最后的温柔送他。
+**为什么这样写：** 葬礼上的情感审计——"should feel angry" 与 "all he feels is relief" 的错位，正是 ch05"the emptiness he feels is a lot like relief" 的终极版本：现在连"像"字都省了，解脱就是解脱。"ghost of a ghost" 是全书最冷的名词短语：父亲怕的从来不是死，是失能后的苟活——儿子看穿了这一点，并把看穿当作最后的温柔送他。
 
 **读者视角提示：** "You’re free now, Ivan, Alex thinks. Rest in peace." 紧随其后——父子之间全部的爱恨，最后被压缩成一句祝祷。这是本书对"和解"的最终定义：不是拥抱，是理解到可以放行。
 
