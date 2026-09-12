@@ -117,15 +117,15 @@ modified: "2026-09-12"
 | psalm | 圣诗，诗篇 | That’s your Psalm. Except that the Lord build the house, they labour in vain that build it. |
 | waterfowl | 水禽 | Whatever Maman said about elegance, ballet dancers walk like waterfowl. |
 | faff | 磨蹭，瞎折腾（英俚） | That particular thing will hurt a lot longer if you faff about like that. |
+| weightless | 失重的 | A thing is either weightless or not and I’m definitely not. |
+| pasticceria | （意）糕点店 | I followed him into the pasticceria. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | chaises longues | 躺椅（复数） | She liked to sit on one of the wickerwork chaises longues in the sun on the terrace. |
-| weightless | 失重的 | A thing is either weightless or not and I’m definitely not. |
 | heritage | 遗产，传承 | Lo, children are an heritage of the Lord. |
-| pasticceria | （意）糕点店 | I followed him into the pasticceria. |
 
 ## 一句话总结
 
