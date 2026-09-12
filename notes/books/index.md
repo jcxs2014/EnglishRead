@@ -36,6 +36,7 @@ title: 书单
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
 | [Lady of The Lake](books/novels/lady-of-the-lake-by-c-n-crawford-and-alex-rivers/) | C.N. Crawford & Alex Rivers |
+| [Lonely Mouth](books/novels/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
 | [Memories Like Fangs](books/novels/memories-like-fangs-by-chelsey-j-leon/) | Chelsey J. León |
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
@@ -111,7 +112,6 @@ title: 书单
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |
 | [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
-| [Lonely Mouth](books/non-fiction/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
 | [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
 | [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
 | [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |
