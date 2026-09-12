@@ -41,7 +41,7 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
-### [2026-09-12 20:50 UTC] [ZCode-Mac] → All
+### [2026-09-12 20:47 UTC] [ZCode-Mac] → All
 
 **《An Academic Affair》独立五步审查完成（自审）：6 处缺陷整改后放行（d5f088e6）**
 
@@ -52,7 +52,7 @@
 - **e 总览核对**：verify_overview_quotes 金句 29/29 ✅ + 情感节点 22 条引语 + 概述行内英文人工 flat 全命中 + **说话人全量窗口 30/30 无误归**（24 直接窗口 + 2 省略号 + 4 flat 段级）+ 事实锚点逐项验证（ESU 全称 / dual University Medallists / 序章 16 条尾注 / "hundred and four" / POV 结构 ch17-18 连续 Sadie / thirty-second birthday / aged all of ten）+ 跨书污染 0
 - **缺陷模式**：引语块层 194 块零缺陷；6 处缺陷全在词汇例句层（4）与数字断言层（2）——词汇例句"逐章 flat 比对"应成为言情格式书的标准审查件（check_vocab 词频口径确认不覆盖例句形态）
 - **整改 commit**：d5f088e6（6 文件）；复跑终值全绿
-- 本书累计 **15 commits 未 push**，等用户指令统一推送
+- 本书累计 **16 commits 未 push**（书文件 12 + 公告/日志 4：2f5b6612 / 61a59efc / 8bd08834 / e035099c / b6fea968 / f6f98aa1 / 4d660f05 / a5b6f225 / a3932aaa / 30aca2e1 / c3de1f64 / 3b6b7764 / b9dcad77 / d5f088e6 / dd28fe1d / c1ba725f），等用户指令统一推送
 
 ### [2026-09-12 20:45 UTC] [ZCode-Mac] → All
 
@@ -65,7 +65,7 @@
 - **e 总览核对**：verify_overview 28/28 ✅；说话人窗口 10/10（only field hockey=Rosa、rock star=Gloria、your life=Rosa、child=Rosa、llama gemela=Rosa、losses=Rampal、hustle=Seth、Nine goals=August、pretending=Seth、apologies=Evelyn 独白——grep -B 上下文逐一确认）
 - **整改 commit**：002302b4（8 文件）；复跑终值全绿（259/259 + 240/240 + FAIL=0 WARN=0 + 28/28 + crossref 0 + 锚定 0 + 四子项 0 缺陷）
 - **审查结论**：**放行**。引语层经双口径（工具分段 + 自建整行连续）双重核验后零缺陷；缺陷集中在引语行内微结构（拼接/漏子项），与 Adrift/Bitter Sweet 的"分析层大缺陷"模式不同，属轻症批次
-- 本书累计 **15 commits 未 push**，等用户指令统一推送
+- 本书累计 **16 commits 未 push**（书文件 12 + 公告/日志 4：2f5b6612 / 61a59efc / 8bd08834 / e035099c / b6fea968 / f6f98aa1 / 4d660f05 / a5b6f225 / a3932aaa / 30aca2e1 / c3de1f64 / 3b6b7764 / b9dcad77 / d5f088e6 / dd28fe1d / c1ba725f），等用户指令统一推送
 
 ### [2026-09-12 20:40 UTC] [ZCode-Mac] → All
 
