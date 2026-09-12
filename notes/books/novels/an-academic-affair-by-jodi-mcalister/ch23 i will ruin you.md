@@ -16,7 +16,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1: **There was a narratological phenomenon called overreading, where people read things into a text that weren't really there.
+> **原句 1:** There was a narratological phenomenon called overreading, where people read things into a text that weren't really there.
 
 **中文理解：** 叙事学里有一种现象叫"过度解读"：人们往文本里读出本不存在的东西。
 
@@ -26,7 +26,7 @@ modified: "2026-09-12"
 
 **读者视角提示：** 对照 ch17 的"cursed with an excellent education"和 ch16 的"孤独定律"——本书三大误读案例（Chess 的信/她对他的放弃/他对她的替补论）在本章全部挂上同一个病名：读者可以放心，作者没有打算冤枉任何一个角色。
 
-> **原句 2: **'You are a teddy bear, though. My teddy bear. And I'm not going to let you go.'
+> **原句 2:** 'You are a teddy bear, though. My teddy bear. And I'm not going to let you go.'
 
 **中文理解：** "可你就是一只泰迪熊。我的泰迪熊。而且我不会放手的。"
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 **读者视角提示：** 对照 ch13 她攥拳的那一幕（听到泰迪熊故事时）——当时她攥的是愤怒，现在抱的是本人：同一个意象，两种体温。
 
-> **原句 3: **'I want us to get along, Chess,' I said. 'But if you ever do something like this to Sadie again – if I ever hear my wife crying herself to sleep over you again – I will ruin you.'
+> **原句 3:** 'I want us to get along, Chess,' I said. 'But if you ever do something like this to Sadie again – if I ever hear my wife crying herself to sleep over you again – I will ruin you.'
 
 **中文理解：** "我想跟你处好，Chess，"我说，"但你要是再对 Sadie 来一次这种事——再让我听见我妻子为你哭到睡着——我就毁了你。"
 
@@ -46,7 +46,7 @@ modified: "2026-09-12"
 
 **读者视角提示：** 对照 ch10 Chess 对他说的原话——两句 "I will ruin you" 之间的全部差别（从威胁到承诺）就是 Jonah 的成长弧线：他终于学会了为爱的人当恶人。
 
-> **原句 4: **'Don't thank me for loving her.'
+> **原句 4:** 'Don't thank me for loving her.'
 
 **中文理解：** "别为我爱她而谢我。"
 
@@ -56,7 +56,7 @@ modified: "2026-09-12"
 
 **读者视角提示：** 对照 ch16 的"scraps"自贬——他曾经把她给的碎片当宝，如今他宣布爱她本就不该被感谢：同一个人，两种爱的方式，中间隔着一整条弧线。
 
-> **原句 5: **'I got your email.'
+> **原句 5:** 'I got your email.'
 
 **中文理解：** "你的邮件我收到了。"
 
@@ -66,7 +66,7 @@ modified: "2026-09-12"
 
 **读者视角提示：** 对照 ch16 他写完信后"决定不告诉 Sadie"的孤独决定——本章证实那个决定改变了历史：没有那封邮件，可能就没有今天的和解。
 
-> **原句 6: **'I have a soft spot,' she said, 'for sisters.'
+> **原句 6:** 'I have a soft spot,' she said, 'for sisters.'
 
 **中文理解：** "我心肠软的地方，"她说，"是姐妹。"
 
