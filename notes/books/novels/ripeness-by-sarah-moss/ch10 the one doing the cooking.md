@@ -93,7 +93,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 少女的正义之问：Katja 刚说"people who are late to class or don’t watch their figure or take time off for every little injury"不配做舞者，Edith 立刻把"little injury"换成"baby"——舞者的纪律体系在生育面前显出荒谬。这是全书女性身体经济学的核心质问：舞蹈要你永远轻、永远在场，而生育要你重、要你离场。"six months" 的具体数字让质问落到实处：不是哲学，是排班表。
 
-**读者视角提示：** 这句是 ch06 "Women have babies everywhere" 的姐妹版：前者天真，后者尖锐。Lydia 与 baby 的两难，全在这句里预演。
+**读者视角提示：** 这句是 ch06 "Women, after all, have babies everywhere" 的姐妹版：前者天真，后者尖锐。Lydia 与 baby 的两难，全在这句里预演。
 
 ## 本章词汇
 

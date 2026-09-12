@@ -9,7 +9,7 @@ modified: "2026-09-12"
 
 - **一句话概括**：舞者们在别墅开告别晚会，全村妇女前来观看；Lydia 挺着孕肚登台跳最后一支舞，Edith 在厨房与 Signora Pilone 学切菜、听她说她的一生。
 - **视角**：第一人称少女 Edith；本章是"告别"章——舞者们离去，别墅即将只剩 Lydia、Edith 与 Signora Pilone。
-- **情感弧线位置**："I" 线的告别/低潮章——ch14 的安息之后，舞者的离去把 villa 推向只有孕妇与少女的窄小空间；也是 Lydia "消失计划"（ch14 "the house will be so quiet we will be like ghosts"）的开端。
+- **情感弧线位置**："I" 线的告别/低潮章——ch14 的安息之后，舞者的离去把 villa 推向只有孕妇与少女的窄小空间；也是 Lydia "消失计划"（ch16 "the house will be so quiet we will be like ghosts"）的开端。
 - **人物弧线**：Edith 从"旁观舞者的局外人"到"切洋葱的厨房学徒"；Signora Pilone 从"管家"变成有名字、有故事的西西里妇女；Lydia 从"ch12 的受害者"回到"舞台上的 queen"。
 - **叙事手法**：厨房（Signora Pilone 的人生）与 barn（舞蹈）双线并置；Middlemarch 的引文（"hearing the grass grow"）作全书哲学核心；章题 brightest star 在 Lydia 的舞台中心点题。
 
@@ -61,7 +61,7 @@ modified: "2026-09-12"
 
 **关键词：** no dancer is an island, not even Igor
 
-**为什么这样写：** Donne 的 "No man is an island" 被改成舞者版——Ed（在 ch10 说过 "you have to know what the dancer behind you is doing"）的舞蹈哲学：舞者必须感知他人（"where they're about to be"）。"not even Igor" 是全书最微妙的补刀：连这个把别人当道具的天才（ch10 "he's not wrong"）、这个害了 Lydia 的人，也不是孤岛——他是舞台的一部分。这句话同时是全书"相互依赖"主题的宣言：Edith 想当孤岛（独立、不离开），但生命不允许。
+**为什么这样写：** Donne 的 "No man is an island" 被改成舞者版——Ed（在 ch10 说过 "you have to know what the dancer behind you is doing"）的舞蹈哲学：舞者必须感知他人（"where they're about to be"）。"not even Igor" 是全书最微妙的补刀：连这个把别人当道具的天才（ch12 "even if that's true he's not wrong"）、这个害了 Lydia 的人，也不是孤岛——他是舞台的一部分。这句话同时是全书"相互依赖"主题的宣言：Edith 想当孤岛（独立、不离开），但生命不允许。
 
 **读者视角提示：** "island" 是本书核心意象：Edith 想当孤岛（爱尔兰岛、英国岛、自己），但全书证明"no one is an island"。注意后文 Edith 的"我只要自己"如何被击碎。
 

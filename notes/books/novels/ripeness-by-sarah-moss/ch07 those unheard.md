@@ -61,7 +61,7 @@ modified: "2026-09-12"
 
 **关键词：** No one, for fun
 
-**为什么这样写：** 全章最短的道德句，七个词，放在长篇社情分析（derelict houses、supply chains、oil）之后当句号。"for fun" 的口语轻佻反衬命题之重：Moss 让 Edith 用 playground 的词讲生死，轻即重。这是 ch03 "baking and bloodlust" 的续集：这次她不只想，还说。
+**为什么这样写：** 全章最短的道德句，七个词，放在长篇社情分析（derelict houses、supply chains、oil）之后当句号。"for fun" 的口语轻佻反衬命题之重：Moss 让 Edith 用 playground 的词讲生死，轻即重。这是 ch03 "the baking and the bloodlust" 的续集：这次她不只想，还说。
 
 **读者视角提示：** 这句是 Edith 的 lines she will not cross 的界碑。后文她为这句付 friendship 的代价。
 
