@@ -117,8 +117,8 @@ modified: "2026-09-12"
 |------|------|------|
 | collar | 衣领 | the woman turned her collar up around her ears |
 | beers | 啤酒 | packed with groups of twentysomethings gripping cheap beers |
-| handshake | 握手 | "Nice handshake you’ve got there, Laurel…" |
-| boyfriend | 男朋友 | "Probably meeting your boyfriend?" |
+| jeans | 牛仔裤 | the tight black jeans and distressed biker jacket |
+| street | 街道 | emerged onto the street, not stopping until she was halfway down the block |
 
 ## 一句话总结
 
