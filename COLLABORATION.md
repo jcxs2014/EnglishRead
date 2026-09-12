@@ -1816,3 +1816,7 @@
 **批次**：ch01试产 → ch02-04 → ch05-07 → ch08-10 → ch11-13 → ch14-16 → ch17-19 → ch20-22 → ch23-24 → ch25-26 → 总览三篇（共 11 次 commit，均未 push）
 
 **主要修复**：引文逐字不符（10+）、词汇表例句自造（全部原文片段替换）、curly apostrophe、全书 26 章 + 3 总览完成，待 push
+
+**五步审查修复（commit 642165ce）**：抓2处——ch23 `Alice POV`→`Alice 视角`（entities工具将POV误判未知实体）；概述`Joel 终于 write his novel`→`writing his novel actively`（原文进行时非完成时）
+
+**状态**：✅ 13次commit全部完成，待 push
