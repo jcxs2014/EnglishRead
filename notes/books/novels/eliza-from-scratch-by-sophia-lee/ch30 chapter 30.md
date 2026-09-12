@@ -54,7 +54,7 @@ modified: "2026-09-12"
 
 **中文理解**："看你跌跌撞撞上完烹饪课，又温柔又可爱。"
 
-**关键词**：stumbled through（跌跌撞撞）；tender and endearing（温柔可爱）；remembering Halmeoni powerful（前文：记外婆段落有力）。
+**关键词**：stumbled through（跌跌撞撞）；tender and endearing（温柔可爱）。
 
 **为什么这样写**：Porter 评语二连：Halmeoni powerful（记外婆有力）+ stumbled tender（跌撞温柔）——文书的双引擎：grief（外婆）+ growth（跌撞）——题眼（ch29 Wesley 给的 family kitchen+overcoming）的阅卷反馈：overcoming（跌撞）+ identity（外婆）全中，blah blah（ch29 他自嘲招生黑话）成真。stumbled（跌撞）是 Porter 版 kick-ass cook（ch26）：温柔的说法，同样的认证：烂→练→好。ready submission（后文：可交了）——卡点（ch11 空白→ch16 cursor→ch29 动笔→本章可交）全通：文书线闭环。
 
@@ -93,7 +93,7 @@ modified: "2026-09-12"
 
 **中文理解**："我好想韩国。"
 
-**关键词**：missed Korea（想韩国）；murmurs window（前文：喃喃+看窗）；sparse eyebrows（后文：稀疏眉毛特写）。
+**关键词**：missed Korea（想韩国）；murmurs window（前文：喃喃+看窗）。
 
 **为什么这样写**：murmurs（喃喃）+ window（看窗）——妈妈的思乡模式：轻声+远眺。eyebrows nose chin cheeks（后文：眉/鼻/下巴/脸颊特写）+ silver sunscreen（后文：银发+防晒）+ cracks frown ignored since June（后文：半年不敢看的纹路）——敢看了：dare to look（以前挪开 misty 眼，ch01；现在特写皱纹）——看即和解：less noticeable（后文：近机场，纹路淡了）→ let go（后文：近乡，放下）——机场越近，grief 越远：Hanguk 是药。missed a lot（想很多）→ missed too（下文：她也想）——同句即同心：母女第一次对"韩国"同频。（短引语，flat 18 字符，已人工 grep 本章命中。）
 
@@ -106,7 +106,7 @@ modified: "2026-09-12"
 
 **中文理解**："我想，我也想它了。"
 
-**关键词**：missed it too（也想它）；turn forward（后文：转头向前，等机场）；study profile（前文：端详侧脸）。
+**关键词**：missed it too（也想它）；study profile（前文：端详侧脸）。
 
 **为什么这样写**：too 的第二次（ch23 All I want too 的回声）：too=同频。forward airport（后文：转头等机场）——向前看：过去（grief）→ 未来（Hanguk+扫墓+生日）——missed 的时态：想（现在）+ 去（未来）= 和解的进行时。profile study（前文：端详妈妈侧脸，敢看了）——看的完成体：ch01 look away（不敢看 misty）→ ch24 climb bed（爬上床看）→ 本章 study profile（端详）——看的三级跳：躲→近→赏。airport view（后文：等机场出现）——结尾定格：车向前，人在看，心同频，全书最静的收束。
 

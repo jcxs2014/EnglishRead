@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "She is the projected valedictorian, as she has been since our freshman year, and it’s obvious why."
 
 **中文理解**：她是预定的毕业致辞第一名，从高一开始就是，原因显而易见。
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "the children of parents who left their home countries with very little still came out on top."
 
 **中文理解**：那些父母背井离乡、几乎身无分文的孩子，最终依然站上了顶峰。
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "I refuse to let my chance go at the eleventh hour."
 
 **中文理解**：我拒绝在最后关头放走我的机会。
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "this class will be more Great British Bake Off than Hell’s Kitchen."
 
 **中文理解**：这门课会更像《英式烘焙大赛》，而不是《地狱厨房》。
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Good luck, salutatorian."
 
 **中文理解**："祝好运，毕业第二名。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "A mandolin is an instrument. Like a musical one, not a kitchen one."
 
 **中文理解**："曼陀林是乐器。音乐的那种，不是厨房的那种。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "How does one get to be salutatorian of a school full of try-hards without knowing a single thing about an everyday subject?"
 
 **中文理解**："一个满是拼命三郎的学校，第二名怎么能对一门日常学科一无所知？"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "Only way left to go is down,"
 
 **中文理解**："站在顶峰，唯一的路就是下坡。"
 
-**关键词**：at the top（顶峰，承接前文）；only way … is down（唯一的路向下，诅咒式断言）。
+**关键词**：only way … is down（唯一的路向下，诅咒式断言）。
 
 **为什么这样写**：走廊分别前的临别赠言，smirk 收束（"I’m already coming to despise"）。这句既是挑衅也是预言：全书 Eliza 的排名确实一路承压，而 Wesley 这句话会像咒语一样悬在她每次动摇时。作者让 rival 说出真相——登顶者的恐惧不是失败，是下坠。
 

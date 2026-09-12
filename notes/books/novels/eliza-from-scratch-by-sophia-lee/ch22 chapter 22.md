@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "You ever see someone so good at what they do, that it’s like you’re discovering beauty where you didn’t see it before?"
 
 **中文理解**："你见过有人把一件事做到极致，美到让你发现新大陆吗？"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "She said she spent the whole semester trying to figure out if she wanted to be me or be with me."
 
 **中文理解**："她说她花了一学期搞清，自己是想成为我，还是想和我在一起。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "It’s what people say when you’re not around to hear—or I guess, when they think you’re not around to hear—that shows who they are."
 
 **中文理解**："人不在场时说的话——或者说，自以为人不在场时说的话——最见人品。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "You’re someone who would’ve sunk to the bottom if you didn’t have me to keep you afloat."
 
 **中文理解**："没我托着，你早沉底了。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "You’re a girl who clings to her grades because she’s scared she doesn’t have anything actually meaningful."
 
 **中文理解**："你是个抱着分数不撒手的小孩，因为你怕自己除此之外一无所有。"
 
-**关键词**：clings to grades（抱分数）；scared（怕）；nothing meaningful（没有意义）。
+**关键词**：clings to grades（抱分数）；scared（怕）；anything meaningful（没有意义）。
 
 **为什么这样写**：jealous 自供（前文：我嫉妒过你，想要你的成功）→ clings 诊断——嫉妒的病理报告：抱分数=抱救生圈，怕沉。personal statement nobody（下文：没料写文书=没内容的人）——诊断的续集：分数是壳，壳里空。blurred vision wait（前文：她哭着等他说完）+ mouth immobile foggy（后文：嘴动不了，脑起雾）——她第一次吵架失语：说的全中，无从反驳。axis off（后文：整场对话偏轴了）——偏的不是轴，是她：轴一直是"她没料"，她刚知道。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "You can’t write a personal statement if you’re nobody."
 
 **中文理解**："没内容的人，写不出文书。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I’m going home. I have to memorize my times tables,"
 
 **中文理解**："我回家了。得去背乘法表了。"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "There’s no way you can’t get an A if those other kids can."
 
 **中文理解**："那些小孩都能拿 A，你不可能拿不到。"
 
-**关键词**：no way can’t（不可能不）；those other kids（那些小孩）；guaranteed A（前文：白捡 A 论，Kareena 原话）。
+**关键词**：no way can’t（不可能不）；those other kids（那些小孩）
 
 **为什么这样写**：prickles+flits（前文：她皮肤刺痛+心跳乱飞）——身体先认罪：guilty talking（她知道这话 taste 坏）。without knowing（后文：她不知不觉就这么说话）——偏见自动化：those other kids（那些小孩）= 阶层俯视完成体。redirect（后文：她转音乐盖杂音）+ Khruangbin（后文：开大音量）——转场三件套：起身/擦手/开音乐，逃跑的体面版。want to end（前文：想结束话题，保 fragile peace）——保和平，丢人品：peace 保住了，人丢了，Wesley 在楼梯口全听见了。
 

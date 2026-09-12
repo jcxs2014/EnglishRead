@@ -28,7 +28,7 @@ modified: "2026-09-12"
 
 **中文理解**："Eliza，对不起，为我那天对你说的话。"
 
-**关键词**：sorry（道歉）；Eliza（直呼本名，非 salutatorian）；the other day（那天的 regurgitations）。
+**关键词**：sorry（道歉）；Eliza（直呼本名，非 salutatorian）；the other day（那天）。
 
 **为什么这样写**：开场即道歉——knees overlapping（前文：膝盖几乎相叠）、boring into me（前文：盯着我）的郑重布阵，说明这不是顺口一提。直呼 Eliza（非常规！他平时叫 salutatorian）是道歉的语法：叫名字=把她当人，不叫头衔。sincerity undisguised（后文：诚意不加掩饰）配 baffling（令人困惑）——Eliza 不习惯被认真对待，这是她本周第二次为一个人调整姿态（第一次是咽自尊，ch06）。
 

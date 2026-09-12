@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "You can’t guilt yourself into feeling something."
 
 **中文理解**："你不能靠愧疚逼自己有感觉。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "There’s a reason that, historically, the ocean was enough to define old versus new worlds."
 
 **中文理解**："历史上，大洋曾足以划分旧世界与新世界，这是有原因的。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "Sometimes, the people an ocean away are really only family by name."
 
 **中文理解**："有时候，一洋之隔的人，真的只是名义上的家人。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "So be gentle with yourself."
 
 **中文理解**："所以，对自己温柔点。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "I don’t think empathy is about needing all the details to align."
 
 **中文理解**："我觉得共情不需要所有细节都对上。"
 
-**关键词**：empathy（共情）；details align（细节对上）；comforting not selfish（前文：为安慰非自私）。
+**关键词**：empathy（共情）；details align（细节对上）
 
 **为什么这样写**：安慰翻车后的辩护：Texas relatives（前文：她抬杠"你德州有亲戚"）→ details align（细节对齐论）——Kareena 的共情观：共情是 feeling 对 feeling，不是 fact 对 fact。guilt or shame（前文：你不是唯一愧疚过的人）——普遍化：愧疚是人类通用货币。cut herself off（前文：她截断自己）——点到为止的体贴：再说下去变吵架，盾女本能。后文 nauseous guilt（她现在的恶心）证明：当时没听进去的话，全刻进了 DNA。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "That tracks. He keeps turning us down. Now it all makes sense."
 
 **中文理解**："对上了。他老拒绝我们。这下全通了。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "Everyone is open. No one skirts about sensitive topics. It’s nice."
 
 **中文理解**："人人都敞亮。没人绕开敏感话题。挺好。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "the group chat name will stay stagnant, and I can’t go back to how things were."
 
 **中文理解**："群名会一直停着，我也回不到过去了。"

@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "what used to be her best strength—her wield on language—became her largest hindrance."
 
 **中文理解**：她曾经最强的长处——对语言的驾驭——变成了她最大的障碍。
 
-**关键词**：best strength → largest hindrance（长处变障碍）；wield on language（对语言的执掌）；em dash 解释。
+**关键词**：best strength → largest hindrance（长处变障碍）；wield on language（对语言的执掌）
 
 **为什么这样写**：妈妈的人物小传被压缩进一个破折号：韩国新闻系高材生 → 美国钢琴老师，语言从武器变成 Hindrance。"wield"（挥舞/执掌）本是武器的动词，作者故意让记者妈妈"挥舞"语言，移民后武器作废，只剩音乐这个"universal language"。一句写尽一代移民的失语与转身。
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "she ended up settling on a more universal language: music."
 
 **中文理解**：她最终安顿在一种更通用的语言：音乐。
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "I can’t decide if the papers are old or have just been amply loved."
 
 **中文理解**：我说不清这些纸是旧了，还是只是被爱得太多了。
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "She wrote them for me when I told her I was moving to America."
 
 **中文理解**："我告诉她我要搬去美国时，她为我写下了这些。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "In another life, maybe I’d have grown up learning these recipes from Halmeoni herself, in some kitchen in South Korea, wearing a public school uniform with Park Yeji stitched across the right chest, speaking Korean with a fluid tongue instead of a tied one."
 
 **中文理解**：在另一种人生里，我也许会在韩国的某间厨房跟着外婆学这些菜，穿着校服、右胸绣着 Park Yeji，用流利的舌头说韩语，而不是被绑住的舌头。
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "remnants of a mother-daughter relationship I did not see and a grandmother-granddaughter relationship that did not exist."
 
 **中文理解**：一段我未曾见证的母女关系、一段从未存在过的祖孙关系的残片。
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "Ever since June, there’s been this unspoken but undeniable wall between us."
 
 **中文理解**：从六月起，我们之间就立起了一堵无声却 undeniable 的墙。
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "By the transitive property of immigrant familial dynamics, we get along great."
 
 **中文理解**：根据移民家庭关系的传递性，我们处得极好。

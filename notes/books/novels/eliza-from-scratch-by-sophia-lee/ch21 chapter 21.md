@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "we’re ships in the night about some things."
 
 **中文理解**："有些事上，我们是夜航中擦肩的船。"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "God, I’ve been so selfish."
 
 **中文理解**："天啊，我一直这么自私。"
 
-**关键词**：selfish（自私）；God（天啊，顿悟语气）；mother montage（前文：妈妈独守空房 montage+Porter 回声）。
+**关键词**：selfish（自私）；God（天啊，顿悟语气）；mom alone（前文：妈妈独守空房 montage+Porter 回声）。
 
 **为什么这样写**：三 montage 后的结算：Kareena reaching out（前文：她向 Meredith 求助，frivolous rank 旁观）+ mom alone（前文：妈妈独守，dad+她误读为空巢信号）+ Porter echo（前文：high achievers 求助难，此刻反噬）——selfish 的三重证据：对朋友（只讲自己）/对妈（误读 spacing）/对己（resent Porter 却无 insight）。tears on duvet（前文：泪滴落被面，Mine this time）——这次的眼泪是认罪的，不是委屈的。sorry×2（后文：双 sorry+open again）——认罪即开门。
 
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "when they do, you have to believe that you will make things okay."
 
 **中文理解**："当意外发生，你得相信自己能把它变好。"
 
-**关键词**：unexpected new things（意料外的新事）；believe（相信）；make okay（变好，善后能力）。
+**关键词**：plan（计划）（意料外的新事）；believe（相信）；make okay（变好，善后能力）。
 
 **为什么这样写**：妈妈的 plan 论：planned life（前文：学位+ career+祖国，全没兑现）→ Do you think that mattered?（前文：你觉得重要吗）→ plan for comfort（前文：计划只为心安）→ believe make okay（信自己能善后）——journalism→piano 的亲身背书：计划全废，人还行。talking to herself（后文：半是说给自己：Halmeoni 之死无预警，grief 靠"信能过去"）——母女同服一帖药：失控时，信善后。kitchen mistakes（后文：她悟：妈/Wesley 兜底+尝不出错）→ let go reins（后文：松缰也终点ok）——plan 论的厨房版：做坏了，有人兜；尝不出，算没发生。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "Maybe I can start believing that’s true."
 
 **中文理解**："也许，我可以开始相信那是真的了。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Did you two break up?"
 
 **中文理解**："你俩分手了？"
 
-**关键词**：break up（分手）；stricken（前文：妈妈脸都吓白了）；cautious（前文：谨慎打量，怕她藏心碎）。
+**关键词**：break up（分手）；stricken（前文：妈妈脸都吓白了）
 
 **为什么这样写**：Wesley 缺席→妈妈的灾难联想：stricken（吓白）+ secret heartbreak（前文：怕她藏心碎）——妈妈对"三人课"的在乎，暴露了课对她的意义：不止是教菜，是热闹。Friends after breakup（后文：分手后朋友治愈）+ good cook boyfriend（后文：好厨子即好男友）——妈妈的爱情观：会做饭+在身边=好。Eomma laugh（后文：她笑妈妈）——紧张了一章，开出一朵花：没分手，只是改期。（短引语，flat 15 字符，已人工 grep 本章命中。）
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "Because that boy was a very good cook."
 
 **中文理解**："因为那孩子做饭很好吃。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "That’s when I thought I might fall in love with him."
 
 **中文理解**："那时我想，我可能要爱上他了。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "I’m ready to act like a friend, and I mean it."
 
 **中文理解**："我准备好当个朋友了，说真的。"

@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "Anyone can cook, I tell myself."
 
 **中文理解**："人人会做饭，我跟自己说。"
 
-**关键词**：Anyone can cook（人人会做饭，ch08 咒语）；I tell myself（跟自己说，默念）；pretend Ratatouille（前文：假装在放料理鼠王）。
+**关键词**：Anyone can cook（人人会做饭，ch08 咒语）；I tell myself（跟自己说，默念）；timer（倒计时投影）（前文：假装在放料理鼠王）。
 
 **为什么这样写**：开考咒语：projector timer（前文：倒计时投影）+ pretend Friday（前文：假装又是周五）+ Anyone mantra（ch08 Wesley 亲授）——咒语的毕业考：从"他说给我听"到"我说给自己听"，咒语内化完成。autopilot hands（后文：手自动挡切鸡）——身体记得了：mandoline 见血（ch10）→ 手自动挡，肌肉记忆即毕业证。咒语+肌肉=出师，全章的题眼在此。
 
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "You’ve really become an excellent chef."
 
 **中文理解**："你真成了个优秀的厨子。"
 
-**关键词**：excellent chef（优秀厨子）；become（成为，过程）；combat tension（前文：他想驱散她紧张）。
+**关键词**：excellent chef（优秀厨子）；become（成为，过程）
 
 **为什么这样写**：Treviño 的考中认证：growth most（前文：全班进步最大）+ unconvinced smile（前文：她笑得勉强）——老师看穿紧张，先颁奖压惊。menu explain（后文：她边擀 kalguksu 边报菜名）——报菜名考试：public speaking（后文 ch 评审：多年演讲训练派上用场）——学霸技能迁移：演讲救厨艺，transcript 全科开花。shit show（ch04）→ excellent chef（本章）——学期弧光一句收：老师 Certificates，比 GPA 贵。
 
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "I’ve never had this kind of bean powder before."
 
 **中文理解**："这种豆粉我从没吃过。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "I’ll need to build up my spice tolerance the next time our salutatorian cooks for us."
 
 **中文理解**："下次我们毕业第二名下厨，我得提前练吃辣。"
 
-**关键词**：spice tolerance（吃辣耐受）；our salutatorian（我们的第二名）；cough Wow spicy（前文：校长辣咳）。
+**关键词**：spice tolerance（吃辣耐受）；our salutatorian（我们的第二名）；cough（呛咳）（前文：校长辣咳）。
 
 **为什么这样写**：Richardson 的辣评：cough（前文：呛咳）+ chuckle（前文：两男评委笑）→ spice tolerance（练吃辣）+ our salutatorian（我们的第二名）——校长当众认证头衔：our（我们的）= 学校的骄傲。gochugaru extra+sugar nix（前文：多加辣椒粉+去糖，韩式到底）——辣是她的签名：chili tomato soup（ch20）→ dakdoritang（三勺 gochugaru）→ 本章 extra——辣度 заключении：越辣越她。salutatorian 当众=排名保卫战的官方捷报：还没出分，先认证了。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "The best type of food is one that takes you on a journey."
 
 **中文理解**："最好的食物带你旅行。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "the winner of the Culinary Arts Cook-Off is Wesley Ruengsomboon."
 
 **中文理解**："烹饪 cook-off 的冠军是 Wesley Ruengsomboon。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I would like to take this mango cake home. It’s phenomenal."
 
 **中文理解**："这芒果蛋糕我想打包带走。太绝了。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "This semester has truly been one of the best of my life."
 
 **中文理解**："这学期真是我人生最好的学期之一。"

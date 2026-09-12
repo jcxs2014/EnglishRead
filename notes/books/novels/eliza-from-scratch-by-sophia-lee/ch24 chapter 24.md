@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "it’s really lonely to be here in America."
 
 **中文理解**："在美国，真的很孤独。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "if you two don’t want to talk about her, then who can I remember her with?"
 
 **中文理解**："如果你们俩都不想提她，那我跟谁一起记着她？"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "it’s like I can learn to miss her."
 
 **中文理解**："好像我能学会想念她。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "you don’t have to learn her recipes because you feel bad for me. Or for school."
 
 **中文理解**："你不用因为可怜我、或为了学校，来学她的菜。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "The way you cook is like time travel, or magic."
 
 **中文理解**："你做饭的样子像穿越，像魔法。"
 
-**关键词**：time travel（穿越）；magic（魔法）；go somewhere else（前文：你去别处，食物变意义）。
+**关键词**：time travel（穿越）；magic（魔法）
 
 **为什么这样写**：学徒的最高评价：time travel（穿越：妈妈一做饭就回韩国童年）+ magic（魔法：手头料修一切）——Ratatouille critic（ch12：影评人一口回童年）的官方认证版：她亲眼看了无数次 Tuesday 重播。burgundy russet（后文：十一月红叶）+ crave（后文：这天气想吃啥）——bingsu 咒语前摇：April mother 的接头暗号，November 重启：季节变了，咒语没变，妈妈听懂了（tray to table，下文：这次她端盘）。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "You know what this weather makes me crave?"
 
 **中文理解**："你知道这天气让我想吃啥吗？"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "You can talk to me, Eomma. I want to miss her, too."
 
 **中文理解**："你可以跟我说，妈妈。我也想想念她。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "You know what’s a good meal to take to someone who’s sick?"
 
 **中文理解**："你知道带啥饭给病人最好吗？"

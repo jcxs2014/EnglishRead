@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "Pay attention or you’ll miss it."
 
 **中文理解**："好好看着，不然你会错过她长大。"
 
-**关键词**：Pay attention（好好看着）；miss it（错过）；Appa（爸爸对妈妈说的，罕见主动）。
+**关键词**：Pay attention（好好看着）；miss it（错过）
 
 **为什么这样写**：爸爸对妈妈说的罕见重话：She’s growing up（前文：她在长大）+ miss it（错过）——缺席者（guest room 睡、tiptoe 绕）第一次指责另一个缺席者。hypocrisy（后文：她觉得虚伪：你不管妈妈，凭啥指挥妈妈管我）——女儿看穿了父亲的双标。scold（后文：她喝止爸爸）——她替妈妈挡话，母女同盟第一次对爸爸。miss it 是全书父母线的判词：错过，是缺席者的共同结局。
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "My offer to teach you physics still stands."
 
 **中文理解**："我教你物理的 offer 依然有效。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "We can still keep cooking together, Eliza."
 
 **中文理解**："我们还可以继续一起做饭，Eliza。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "Eliza, don’t you know the most enticing way to spend my Friday nights is to hang out with you?"
 
 **中文理解**："Eliza，你不知道吗，我周五晚上最想干的事就是跟你混？"
@@ -75,25 +75,25 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Eliza, please kiss me."
 
 **中文理解**："Eliza，求你，吻我。"
 
 **关键词**：please（求你）；kiss me（吻我）；desperate breath（前文：绝望的呼吸）。
 
-**为什么这样写**：nose touch（前文：鼻尖相触）+ lips a breath away（前文：唇距一息）+ whisper Wesley（前文：她无声喊他）→ please kiss me（他开口求）——palm kiss 问 permission（手心吻问许可）→ 这里要 explicit consent（明确同意）：他的温柔有流程，先申请，后索取。mouth tells his（下文：她的嘴替她答应）——问句的 varied：他求吻，她执行，主 prerogative 互换：追了全书的人，被追的人开口，追的人求令。
+**为什么这样写**：nose touch（前文：鼻尖相触）+ lips a breath away（前文：唇距一息，desperate 绝望呼吸）+ whisper Wesley（前文：她无声喊他）→ please kiss me（他开口求）——palm kiss 问 permission（手心吻问许可）→ 这里要 explicit consent（明确同意）：他的温柔有流程，先申请，后索取。mouth tells his（下文：她的嘴替她答应）——问句的 varied：他求吻，她执行，主 prerogative 互换：追了全书的人，被追的人开口，追的人求令。
 
 **读者视角提示**：求吻是权力交接：此前全是她追（tutor/邀约/派对），此刻他求她吻——后文关系里谁主动，对照这句的交接点。（短引语，flat 17 字符，已人工 grep 本章命中。）
 
 ---
 
-> **原句 6:**
+
 > "I just kissed possibly the smartest, cutest girl I know and am trying my hardest to act cool about it."
 
 **中文理解**："我刚吻了可能是我认识的最聪明最可爱的女孩，正拼命装酷。"
 
-**关键词**：smartest cutest（最聪明最可爱）；trying hardest act cool（拼命装酷）；written on face（前文：他说肯定写脸上了）。
+**关键词**：smartest cutest（最聪明最可爱）；trying hardest act cool（拼命装酷）
 
 **为什么这样写**：Wilby 撞破后的走廊复盘：pretend ponder（前文：假装思考）+ kisses better than cooks（后文：亲得比做饭好，毒舌收尾）——装酷失败实录。smartest+cutest 双最高：smart（她的本体）+cute（ch15 空降词）合流——他爱的是 whole package。shove shoulder（后文：她推他）+ laugh（后文：笑）——吻后第一次打闹， pretense cloak fallen（前文：伪装斗篷落地），相处模式更新：可以打闹的情侣。
 
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "things are more than a sum of their parts,"
 
 **中文理解**："事物大于部分之和。"
 
-**关键词**：more than sum（大于和）；parts（部分）；Eliza’s guidance（前文：她的指导让他第一次看清自己+他人之和）。
+**关键词**：more than sum（大于和）；parts（部分）
 
 **为什么这样写**：他 essay（100 分ibling）的金句：authenticity to self（前文：向她学做自己）+ discipline/excitement（前文：她的纪律与热情）+ revelation（前文：她给的是 revelation）——time 换 revelation（时间换 revelation：他给时间，她给 revelation），exchange 不等价，但他觉得值。sum of myself and others（后文：自己与他人之和）——tutor 契约的意外产出：她教他数学，他学会看人。intrusive（后文：她自责偷看）→ Eventually（后文：他说早晚告诉你）——信任前置：essay 本就是写给她看的。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "Here I am, my mouth tells his."
 
 **中文理解**："我在这里，我的嘴替我告诉他。"

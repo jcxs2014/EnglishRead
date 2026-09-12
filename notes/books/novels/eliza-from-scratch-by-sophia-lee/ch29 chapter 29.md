@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "Trade? Old times’ sake?"
 
 **中文理解**："换吗？看在老交情份上？"
 
-**关键词**：Trade（换，ch04 便当交换的回声）；Old times’ sake（老交情）；Tupperware stack（前文：他抱着一摞盒子来）。
+**关键词**：Trade（换，ch04 便当交换的回声）；Old times’ sake（老交情）
 
 **为什么这样写**：开篇回环：ch04 他拿咖喱换她莎莎面（她被迫）→ 本章他拿冠军菜求换（她拒绝）——Trade 的攻守易位：I’ll take home（后文：她要留自家菜）+ make again later（后文：以后重做给你）——拒绝+期货：拥有感（我的菜我留）先行，分享（重做给你）随后，sweet 的新语法。grins suspected（前文：他料到被拒）——他懂她：留菜=长大了（不再用他的菜充门面），欣慰式被拒。
 
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "No one deserves it like you do."
 
 **中文理解**："没人比你更配赢。"
 
-**关键词**：deserves（配得上）；like you do（像你这样）；champion（前文：她叫他 champion）。
+**关键词**：deserves（配得上）；like you do（像你这样）
 
 **为什么这样写**：ch26 保举（you should win）的兑现：burning eyes victory high（前文：他眼里还有夺冠的火）+ salsa callback（下文：你的菜再不像莎莎了）——deserves 的注脚：journey 菜单（ch28）+ handshake（名厨握手）+ extra bites（多吃好几口）——三重认证，她的保举是第四重。Get over yourself（后文：她笑骂）+ celebrate+home（后文：想庆祝他，也想回家）——糖与家同炉：冠军归他，剩菜宴归家，双线收束。
 
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "Not one of your dishes looks like salsa."
 
 **中文理解**："你没有一道菜还像莎莎酱了。"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "My American daughter is making wonderful Korean food all by herself."
 
 **中文理解**："我美国女儿独自做了超棒的韩国菜。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Halmeoni would think so, too."
 
 **中文理解**："外婆也会这么想。"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "Are you disappointed in me?"
 
 **中文理解**："你对我失望吗？"
 
-**关键词**：disappointed（失望）；panic chestnut（前文：他栗色眼睛慌了）；scratchiness throat（后文：他嗓子发哑）。
+**关键词**：disappointed（失望）；panic chestnut（前文：他栗色眼睛慌了）
 
 **为什么这样写**：wobble emotional（前文：她声音晃，羡慕+嫉妒交织）→ panic（他慌）→ disappointed?（他问）→ boyfriend college（后文：他问是不是嫌男友不申大学）——他的不安三连：慌+哑+问——staging/ACC（前文：实习+社区大学曲线）vs MIT（她的路）——路不同，怕她嫌。stop proud jealous（后文：她打断：骄傲+羡慕，与失望无关）+ succinct moving don’t know who（后文：五百字写不出我是谁）——失望的反面：骄傲+迷茫并存：为他骄傲，为己迷茫，糖与刀同炉。laptop turn（下文：他看她文书）——不安的解药：看她的空白，懂她的卡点。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I envy that, you know? How close you and your mom are."
 
 **中文理解**："我羡慕那个，你知道吗？你和你妈那么近。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "like I’m making choices that are going to take me where I actually want to go."
 
 **中文理解**："像在做选择，带我去真正想去的地方。"

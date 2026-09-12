@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "The floodgates have been opened and the waters are misbehaving treacherously from their pent-up rebellion."
 
 **中文理解**："闸门开了，积压叛乱的水开始无法无天地乱流。"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "it feels like an anatomical part of me."
 
 **中文理解**："感觉它成了我解剖学意义上的一部分。"
 
-**关键词**：anatomical part（解剖学部分）；pit/chest/fingertips（前文：胃/胸/指尖三处）；April（前文：如果是四月，一定告诉妈妈）。
+**关键词**：anatomical part（解剖学部分）；pit/chest/fingers（前文：胃/胸/指尖三处）；April（前文：如果是四月，一定告诉妈妈）。
 
 **为什么这样写**：暗恋的生理化：pit stomach+center chest+tips fingers（前文三处）→ anatomical part（器官化）——喜欢成了新增器官。April vs now（前文：四月会说，现在没法说）——organ 有，出口无：mom doesn’t know semester（后文：妈妈对学期一无所知）+ wouldn’t remember anyway（后文：说了也记不住）——亲密 causality 断裂：有 organ，无血管。
 
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "Yeji-yah, good friends are very important in your life, okay?"
 
 **中文理解**："Yeji 啊，好朋友在你人生里很重要，记住了。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "She’s trying to make an argument without having done the reading."
 
 **中文理解**："她想外考试，却连书都没读。"
 
-**关键词**：argument without reading（没读书就辩论）；nerve（前文：她哪来的底气）；graduating（前文：妈连她高三都忘了）。
+**关键词**：argument without reading（没读书就辩论）；nerve（前文：她哪来的底气）
 
 **为什么这样写**：学霸的终极蔑视：no reading=no standing（没读没资格）——她用学术规则判妈妈死刑。nerve（底气）+ life paused in summer（前文：妈的人生停在夏天）——判词成立但残忍：妈妈缺席有因（grief），她审判无情。chinks armor（前文：问题穿透她心防缝隙）——她知道妈妈问到了痛处（left behind，anki），才用"没读书"堵嘴：堵的是题，不是心。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Down to the portraits of a white family hanging above the fireplace."
 
 **中文理解**："连壁炉上挂的白人全家福都一模一样。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "I just want to be seen as . . . whoever I am when I’m separated from my family, if that makes sense."
 
 **中文理解**："我只想被当成……离开家时的那个我，如果你懂的话。"
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "What did I do to lose someone’s trust like this?"
 
 **中文理解**："我做了什么，丢了别人的信任？"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "Our shields are up. It’s the only way we know how to be."
 
 **中文理解**："我们的盾都举起来了。这是我们唯一会的相处方式。"

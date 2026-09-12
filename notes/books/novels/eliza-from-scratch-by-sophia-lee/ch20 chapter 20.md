@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "At the top of the page is an eighty-six circled in red pen with a smiley face drawn beside it."
 
 **中文理解**："卷首一个红笔圈出的 86，旁边还画了个笑脸。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "You’ve really come a long way, Eliza."
 
 **中文理解**："你真的走了很远，Eliza。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "Wesley is your boyfriend?"
 
 **中文理解**："Wesley 是你男朋友？"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "I have nothing to hide from you."
 
 **中文理解**："我对你没什么可藏的。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "I like you so much."
 
 **中文理解**："Eliza，我好喜欢你。"
 
-**关键词**：I like you（我喜欢你）；so much（好多）；roasted chestnuts warmer（前文：栗色眼睛比栗子还暖）。
+**关键词**：I like you（我喜欢你）；so much（好多）
 
 **为什么这样写**：balloon chest（前文：胸口气球）+ hummingbird throat（前文：喉咙蜂鸟）——她的体感先行（不会说，只会胀）→ I like you too（后文：她回"我也"）——体感翻译成功。earnest winds me（后文：他的郑重撞得她岔气）+ want you to know secrets（后文：他要她知道秘密，感恩）——like 的形状：分享秘密=喜欢的实证。Tuesdays apology（后文：他道歉+给妈妈带吃的）——喜欢的售后：道歉+投喂+promise，情侣的雏形。
 
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "it’s like they never really get their flowers, you know?"
 
 **中文理解**："它们好像永远得不到应得的花儿，你懂吧？"
 
-**关键词**：get flowers（得花儿，应得的赞美）；never（永远）；Asian dishes（前文：亚洲菜费料费时一整天）。
+**关键词**：get flowers（得花儿，应得的赞美）；never（永远）；Asian food（前文：亚洲菜费料费时一整天）。
 
 **为什么这样写**：pad thai 劳作（palm sugar/泡面一小时/ dozens bowls，前文）→ pho all day（前文：越南粉做一整天）→ flowers（花儿=认可）——Wesley 的 Asian food 宣言：费时费料，无人献花。takeout relegation（后文：沦为外卖）+ canon（后文： syllabus 只认经典）——ch08 Eurocentric 的续集：从吐槽到行动（找 Treviño 改 syllabus）。nod anyway（前文：她没全懂但点头）——不懂但站队，支持先行，理解随后，情侣式站位。
 
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I can’t pretend I’m surprised that you’re a noods girl."
 
 **中文理解**："你是个面条女孩，我一点不意外。"
 
-**关键词**：noods girl（面条女孩，谐音梗）；can’t pretend（装都不装）；Love it desperately（前文：她爱面条爱得要死）。
+**关键词**：noods girl（面条女孩，谐音梗）；can’t pretend（装都不装）
 
 **为什么这样写**：pad thai 邀约：What’s that? Pad thai?（前文：她猜）→ Tell me you like（他求认证）→ noods girl（他盖章）——noods（noods=noodles 的萌拼）是情侣黑话的诞生：conquer a noodle（ch13：征服面条）→ noods girl（面条女孩）——面条线闭环：从征服对象到身份。eat anything you cook（前文：你做的我都吃）——信任的胃版：嘴先投降，心随后。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "No matter what Wesley has become to me, I still want to give my speech."
 
 **中文理解**："不管 Wesley 现在算我的什么人，我还是想做毕业演讲。"

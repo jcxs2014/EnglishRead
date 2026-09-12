@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "If there were a world record for the number of texts a girl can send in one day to a boy who is ignoring her, I’m sure I am breaking it."
 
 **中文理解**："如果一天内给已读不回的男孩发短信有世界纪录，我肯定在破纪录。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "The morning of Thanksgiving, I finally get a response, but it’s only a direct reply to the dinner invitation. Two words: Can’t. Sick."
 
 **中文理解**："感恩节早上，我终于收到回复，但只是对晚餐邀请的直接答复。两个词：不行。病了。"
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "My mom forgot about Thanksgiving."
 
 **中文理解**："我妈把感恩节忘了。"
 
-**关键词**：forgot（忘了）；Thanksgiving（感恩节）；No big bird（前文：无火鸡无派，空厨房）。
+**关键词**：forgot（忘了）；Thanksgiving（感恩节）
 
 **为什么这样写**：empty kitchen（前文：十点厨房空无一物）+ ajar bedroom（前文：卧室虚掩，读书+牵手）→ forgot 判词——先 anger（后文：national holiday 都不记得？）→ let go（后文：气消了）——made-up holiday（后文：洋节是为她过的）+ Chuseok songpyeon（后文：六岁吃松饼回忆）——她的愤怒让位于愧疚：爸妈为她换掉自己的节，Halmeoni 死后妈妈连装都装不出了。forgot 不是失职，是 grief 的形状。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "I, Eliza Park, have just made a home-cooked Korean dish for my family without any assistance."
 
 **中文理解**："我，Eliza Park，刚独立为家人做了一道韩国家常菜。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "All I want is my mom, but she hasn’t been here for the past five months."
 
 **中文理解**："我只想要我妈，可她五个月都没在。"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "All I want is my mom, too,"
 
 **中文理解**："我也只想要我妈。"
 
-**关键词**：too（也）；in English（前文：用英语说，像用武器）；vulnerable（前文：她脸上从未见过的脆弱）。
+**关键词**：too（也）；in English（前文：用英语说，像用武器）
 
 **为什么这样写**：同句回应：All I want is my mom（她的）+ too（妈妈的）——too 是全书最短的和解预告：母女要的是同一个人（外婆/妈妈），病因相同。in English as weapon（前文：英语当武器）——韩语是妈，英语是伤员：她用"外语"说最母语的话，语言错位即 grief 错位。lip trembles+chest heaves（前文：唇抖胸涌）——第一次见妈妈脆弱（never seen），too 的代价是卸甲。flee+lock（后文：拿食谱逃+反锁）——卸甲后逃跑，脆弱见光即躲，母女同款。
 
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "And no one is here for me. Not even my own family."
 
 **中文理解**："没人为我，连我自己家人都不。"
 
-**关键词**：no one（没人）；Not even family（连家人都不）；English weapon（英语武器，续上句）。
+**关键词**：no one（没人）；Not even family（连家人都不）
 
 **为什么这样写**：too 的续集：no one（一个没有）+ Not even（连……都）——妈妈的孤独总判：Korea（回不去）+ America（不接纳）+ family（不记得外婆）——三无。space misread（前文 ch21 自省：把独处误读成需要空间）——女儿此刻才懂：closed door（关门）不是"别进来"，是"没人进来"。barricade（后文：反锁主卧）——门后的人和门外的人，演同一出"没人"：她锁门，女儿也锁门（like mother like daughter，后文），Grief 的遗传。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "Don’t talk to me,” I snap. “Talk to your wife for once."
 
 **中文理解**："别跟我说。跟你老婆说一次吧。"

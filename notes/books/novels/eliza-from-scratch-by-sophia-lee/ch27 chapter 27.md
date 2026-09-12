@@ -39,7 +39,7 @@ modified: "2026-09-12"
 
 **中文理解**："你能做的最好的事，就是做道让人开心的菜。"
 
-**关键词**：best thing（最好的事）；make happy（让人开心）；no advice cooking（前文：做饭我没建议，诚实版）。
+**关键词**：best thing（最好的事）；make happy（让人开心）。
 
 **为什么这样写**：honest no advice（前文：做饭没建议）→ best thing（最好的事）——engineering professor 的菜训：simple/bad ok（后文：简单/难吃都行）+ trying shows（后文：心意到了就行）+ good enough for eomma（后文：当年够娶你妈）——budae 情史（ch21）的理论版：心>艺。sweet not apply（后文：她笑说 Culinary 要好吃才行）——父女互怼收束：道理收了，实操打折，love+logic 双收。dakdoritang 指路（下文：感恩节炖鸡好吃，从那开始）——菜训的课后作业：从会的那道起，爸爸式因材施教。
 
@@ -65,7 +65,7 @@ modified: "2026-09-12"
 
 **中文理解**："原创菜谱可以就是改过的别人菜谱。"
 
-**关键词**：original（原创）；tweaked version（改版）；white mommy blogs（前文：白妈博主Costco 散文+纸巾 indignity）。
+**关键词**：original（原创）；tweaked version（改版）；blogs（博主Costco 散文）。
 
 **为什么这样写**：brownie 论：two thousand blogs（前文：两千博主都称最佳）+ Costco essay（前文：五段散文才到配料）→ aren’t different（后文：大同小异）→ tweak+workshop（后文：改到顺口）→ voilà original（后文：变！原创）——Kareena 的学术打假：原创=改版+workshop，plagiarist 焦虑（前文：她怕抄外婆菜）解除。Jess brownies（前文：maybe Jess 爱布朗尼）+ mango cheesecake（后文：白妈博主梗回 blacks 她）——brownie 论的八卦注脚：论是 Kareena 的，例子是 Jess 的，糖是 Meredith 的（coos）。mom baseline（后文：妈妈 Americanized 加盐糖）+ red curry dakdoritang（后文：他俩的 fusion）——tweak 的双重背书：妈妈改外婆，他俩改韩餐，改即传承。
 
@@ -78,7 +78,7 @@ modified: "2026-09-12"
 
 **中文理解**："别重复造轮子。布朗尼就是布朗尼。"
 
-**关键词**：reinvent wheel（重复造轮子）；brownie is brownie（布朗尼即布朗尼）；Of course I am（前文 Kareena：我当然对）。
+**关键词**：reinvent wheel（重复造轮子）；brownie is brownie（布朗尼即布朗尼）。
 
 **为什么这样写**：tweak 论的结算：reinvent wheel（别造轮子）+ brownie brownie（布朗尼恒等式）——Kareena 式格言：shrewd eyes（前文：精明眼）+ huffs（前文：轻哼）——学霸的断言美学。patenting（下文 Meredith：没人给布朗尼申请专利，除非 Musk）+ taste good（下文：只管好吃）+ chemistry lab（下文：烧了学校也行，化学楼优先）——Meredith 式收束：玩笑+正经+纵火三件套，闺蜜正常化完成。Could it be simple（后文：她悟：这么简单？）——simple 即答案：原创焦虑的解药是"改"。
 

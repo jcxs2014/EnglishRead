@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "Wesley heard us talking,"
 
 **中文理解**："Wesley 听见我们说话了。"
@@ -36,12 +36,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "We never mean anything by it."
 
 **中文理解**："我们说那些话从来没过心。"
 
-**关键词**：never mean（从没意思）；anything（任何）；problem too（后文：问题也在这）。
+**关键词**：never mean（从没意思）；anything（任何）
 
 **为什么这样写**：Meredith 的辩护（didn’t mean）→ 她的反杀：never mean 即问题本身——无心之失×N=有心之墙。those other kids（前文：那些小孩）+ picnic times tables（前文：野餐旧嘲+AP flour）+ monster（前文：我是怪物）——罪证链：旧嘲+新话+不敢说（folded again）——三罪并罚。not brave enough（前文：不敢当场说）——honest 纲领的挂账：约好诚实，见人就怂，本章自首即销账。
 
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "It’s prejudiced. It’s elitist."
 
 **中文理解**："这是偏见。这是精英主义。"
 
-**关键词**：prejudiced（偏见）；elitist（精英主义）；mindset（前文：是 mindset，不是单件事）。
+**关键词**：prejudiced（偏见）；elitist（精英主义）
 
 **为什么这样写**：not one bad thing（前文：不是一件坏事道歉了事）→ Catholics 梗（前文 Meredith：天主教徒坏消息了）→ Please（前文：她打断笑场）→ prejudiced/elitist（判词）——笑声压不住审判：better than others（前文：觉得高人一等）+ not real（后文：全是假的）——sense（后文 Kareena：你说得通吗？Yes）——学霸互认：Kareena 的 Yes 是最高法院批复：偏见判决生效。devil’s advocate（后文 Meredith 想抬杠被 Kareena 掐了）——抬杠豁免：本庭不接受抬杠。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "If Jess gives the speech at the end of the year, then so be it."
 
 **中文理解**："如果 Jess 年底做演讲，那就这样吧。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "At least I know I’m a smart girl and a pretty kick-ass cook."
 
 **中文理解**："至少我知道，我是个聪明的女孩，还是个超屌的厨子。"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "No one in this school cares about cooking like you do. I’m sure of it."
 
 **中文理解**："这学校没人像你这么爱做饭。我确定。"
 
-**关键词**：no one cares like you（没人像你）；sure of it（确定）；bottle up（前文：想把他的做饭劲装瓶给 Treviño/他妈看）。
+**关键词**：no one cares like you（没人像你）；sure of it（确定）
 
 **为什么这样写**：passion revelatory（前文：他的热爱是启示）+ going through motions（前文：周围人都在混日子，包括她自己）→ no one cares（没人像你）——ambition or skill（前文：野心与手艺双缺的世人 vs 他）——这是她第一次给人颁"热爱奖"：此前她只颁"成绩奖"。deserve win（下文：你最配赢 cook-off）+ can’t change mind（下文：决定了不改）——颁奖+锁票：场上对手，场下评委，sweet+spicy 同炉。crinkle decipher（后文：只有她能读懂的鱼尾纹开心）——读脸术（ch15）毕业：他的微表情，她的母语。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "Don’t let it go to your head,"
 
 **中文理解**："别上头啊。"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "You wouldn’t be the Eliza Park I know if you didn’t."
 
 **中文理解**："你不这样，就不是我认识的 Eliza Park 了。"
 
-**关键词**：Eliza Park I know（我认识的 Eliza）；if you didn’t（如果不争）；grin sunshine（前文：笑出阳光）。
+**关键词**：Eliza Park I know（我认识的 Eliza）；if you didn’t（如果不争）
 
 **为什么这样写**：认证的完成体：Good luck salutatorian（ch02：头衔开场）→ Eliza Park I know（本章：全名认证）——从头衔到全名：rival 账本的最后一笔 soft 账。know（认识）= 读过 essay（ch17 revelation）+ 见过哭（ch18 派对）+ 听过自首（本章 boba）+ 吃过醋（ch22）——认识=全部黑历史在案，仍说"你就该这样"。全名+定语=接纳：他爱的不是 salutatorian，是"要赢"的 Eliza Park。
 

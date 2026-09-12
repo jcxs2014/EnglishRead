@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **中文理解**："我们会在那提醒你，是我们先到的。他们排队去吧。"
 
-**关键词**：got here first（先到）；get in line（排队）；smart funny cool（前文：三连夸+bagel pizzas 梗）。
+**关键词**：got here first（先到）；get in line（排队）。
 
 **为什么这样写**：Kareena 的闺蜜宪法：first（先到权）+ line（排队制）——友情的排他性被写成游乐场规则，幼稚即深情。bagel-sized pizzas（前文：well versed in bagel 比萨）梗证明"我记得你的全部笑话"，这才是 got here first 的证据：不是时间先，是梗先。phone lights up（后文：Jess 来电掐断温情）——宪法刚颁布就迎来违宪审查，喜剧结构。
 
@@ -54,7 +54,7 @@ modified: "2026-09-12"
 
 **中文理解**："她的手指背叛了她满不在乎的态度。"
 
-**关键词**：fingers belie（手指背叛）；nonchalance（满不在乎）；braiding habit（前文：焦虑就编辫子）。
+**关键词**：fingers belie（手指背叛）；nonchalance（满不在乎）；braid（编辫子）。
 
 **为什么这样写**：blush（前文：脖子红了）+ braid/unbraid（前文：编了拆拆了编）+ fingers still（后文：被盯到停手）——Kareena 的谎言三件套，Eliza 全看在眼里。belie（背叛，书面词）是观察者 Eliza 的胜利：她第一次没吵没闹，只 watch pointedly（前文：盯着看）——读懂不说破，是她宇宙中心警告（ch07）后的第一次进步。Stop staring（后文：别盯了）= 认输。
 

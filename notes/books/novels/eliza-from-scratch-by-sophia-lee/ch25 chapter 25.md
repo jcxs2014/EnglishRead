@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "It makes me want to run a lap around the neighborhood, yelling, I’m a goddamn chef! but I resist."
 
 **中文理解**："想绕小区跑一圈，喊我是神厨！但忍住了。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "I was hoping I could help take care of you. I was worried you’d be alone."
 
 **中文理解**："我想照顾你。怕你一个人。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "You’re my favorite part of the day, too."
 
 **中文理解**："你也是我一天里最喜欢的部分。"
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "I couldn’t forget you even if I tried."
 
 **中文理解**："想忘都忘不掉你。"
 
-**关键词**：couldn’t forget（忘不掉）；even if tried（就算试）；warm tone（前文：语气暖，疑发烧传染）。
+**关键词**：couldn’t forget（忘不掉）；even if tried（就算试）
 
 **为什么这样写**：doing good job（前文：她讽"装失联装挺像"）→ Mm（他嗯）→ couldn’t forget（忘不掉）——嗯出宇宙：Mm+忘不掉=失联全是装的。hour reread texts（后文：每天一小时重读她短信）——失联的行为艺术：不回，但条条重读。contagious wish（前文：她盼被传染发烧）→ flu contagious?（前文：流感传染吗）——医学调情：烧传不传不重要，喜欢传到了。photo unlock（下文：手机屏保就是她）——忘不掉的物证：屏保都不换，失联演给谁看。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "There’s a reason I always took the photos on my phone. I knew I would want to keep looking at you."
 
 **中文理解**："我总拿自己手机拍，是有原因的。我知道我会一直想看你。"
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "I assume people think the worst of me, so I assume the worst of them."
 
 **中文理解**："我默认别人看扁我，所以我先看扁别人。"
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I’m done pretending I don’t."
 
 **中文理解**："我不装了。"
 
-**关键词**：done pretending（不装了）；don’t（不喜欢，不装的内容）；falling asleep（前文：边睡边说，醉氧式表白）。
+**关键词**：done pretending（不装了）；don’t（不喜欢，不装的内容）
 
 **为什么这样写**：I like you murmurs（前文：梦呓式喜欢你）→ done pretending（不装了）→ cook on own（后文：会独做了，更喜欢了）+ smirk fail（后文：想坏笑，睡着了）——病中表白三连：呓语→宣告→夸厨艺，逻辑是烧的，感情是真的。keep talking selfish（前文：她让他继续说，自私版）→ Dory Nemo（后文：他说明天看海底总动员）→ delirious（后文：她判烧糊涂了）——表白混入胡话：胡话也是情话，烧到 39 度说的都是真的。forehead kiss（后文：她吻他额头）→ miss you（后文：会想你）——回应三件套：吻+ whisper+走，温柔收束。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "‘Like I’d ever cry over you.’ You said that to me once. Do you remember?"
 
 **中文理解**："‘我才不会为你哭。’你曾这么说过。记得吗？"

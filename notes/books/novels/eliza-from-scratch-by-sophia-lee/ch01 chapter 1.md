@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "I wake up to the smell of miyeokguk."
 
 **中文理解**：我是被海带汤的香味唤醒的。
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "Miyeokguk is a soup of tradition, a symbol of celebration, and although today marks the first day of my senior year, that’s not the type of celebration that warrants my mom making miyeokguk this morning."
 
 **中文理解**：海带汤是传统的汤、庆祝的象征，但今天虽然是高三开学第一天，却不是那种值得妈妈一早起来做海带汤的庆祝。
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "She hasn’t been doing much of anything since June."
 
 **中文理解**：从六月起，她几乎什么都不做了。
@@ -62,12 +62,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "This is the unspoken agreement between us—she speaks to me in her native tongue, I speak to her in mine."
 
 **中文理解**：这是我们之间心照不宣的约定——她用她的母语对我说话，我用我的母语回她。
 
-**关键词**：unspoken agreement（心照不宣的约定）；native tongue / mine（母语各说各话）；em dash（破折号解释）。
+**关键词**：unspoken agreement（心照不宣的约定）；native tongue / mine（母语各说各话）
 
 **为什么这样写**：母女关系的全部困境被压缩进一个破折号：住在同一屋檐下，却"hardly even speak the same language sometimes"（后文原话）。"agreement"一词反讽——这不是和解，是停战协议。双语家庭的真实褶皱被一句道破，也是 Eliza 身份撕裂（Korean at home / English everywhere）的微缩模型。
 
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Eating miyeokguk on birthdays is not really about whose birthday it is. It actually comes from taking care of the mother."
 
 **中文理解**：生日吃海带汤，重点根本不是谁过生日，它真正的来源是照顾母亲。
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "My mother meets my eyes. They’re misty, and my instinct is to look away, like I’m not supposed to see her like this."
 
 **中文理解**：妈妈与我对视。她的眼睛雾蒙蒙的，我本能地想移开视线，好像我不该看到她这个样子。
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "This is a mistake. I signed up for AP Physics."
 
 **中文理解**："这搞错了。我选的是 AP 物理。"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "The difference between rank two and rank three feels insurmountable."
 
 **中文理解**：第二名和第三名之间的差距，感觉如天堑般不可逾越。

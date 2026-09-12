@@ -28,7 +28,7 @@ modified: "2026-09-12"
 
 **中文理解**："至少我还能对着污染大发诗兴。"
 
-**关键词**：wax poetic（诗兴大发）；contamination（污染）；knocked out of park（前文：小测满分+bonus）。
+**关键词**：wax poetic（诗兴大发）；contamination（污染）；bonus（加分题）。
 
 **为什么这样写**：开篇自嘲：boil noodle 必糊（前文：煮个面都搞砸）vs pathogens bonus（前文：病原体加分题拿下）——手残但笔不残。wax poetic（给…赋诗）配 contamination（污染），雅词写脏物，反差即幽默。这是她的舒适区宣言：kitchen lab（后文：实操考核）要来了，笔试学霸的余晖，且看且珍惜。
 
@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **中文理解**："冷战大概在融化了。"
 
-**关键词**：Cold War（冷战）；melting（融化）；exchange numbers（前文：交换电话）。
+**关键词**：Cold War（冷战）；melting（融化）。
 
 **为什么这样写**：icing out（ch11：被冷冻）的官方解冻：looks at me（看我了）+ suggested numbers（主动换电话）+ should have done（早该换了）——三件套证明"我们早该是正常人"。Cold War 的大词小用（美苏争霸→同桌冷战）是 Eliza 式幽默：给鸡毛蒜皮上史书。melting 进行时（非 melted）——化冻中，脆弱， tutoring 契约（ch11）是暖气片。
 
@@ -54,7 +54,7 @@ modified: "2026-09-12"
 
 **中文理解**："我觉得是时候征服一种面条了。"
 
-**关键词**：finally time（是时候了）；conquer（征服）；a noodle（一种面，泛指 vendetta 对象）。
+**关键词**：finally time（是时候了）；conquer（征服）；a noodle（一种面，复仇对象）。
 
 **为什么这样写**：她第一次 suggest dish（前文：主动提议菜品，而非跟随）——从乘客变司机。conquer（征服，战争动词）配 noodle（面条），杀鸡用牛刀的喜剧：mushy dangmyeon（ch12：煮烂的粉条）之耻未雪，carbonara 之战又开。mock innocence + flutter lashes（后文：装无辜+眨眼）+ rosy neck（后文：他脖子红了）——调情初体验，她撩完就跑（"What?"装傻），他红了脖子。
 
@@ -106,7 +106,7 @@ modified: "2026-09-12"
 
 **中文理解**："那会非常棒。"
 
-**关键词**：actually（居然，意外）；incredible（非常棒）；sincerity floors me（前文：真诚把我击倒）。
+**关键词**：actually（居然，意外）；incredible（非常棒）；floors me（前文：真诚把我击倒）。
 
 **为什么这样写**：邀约（来我家跟妈妈学菜）的回应：Abort/Cancel/Escape（前文：她内心三连撤回）配他的 actually incredible——她以为的冒犯，他当成礼物。floors me（击倒我）+ filling shadows（前文：阴影填满显影）——他的形象在她心里显影完成：wistfulness（后文：渴望，是真的）+ chestnut eyes（后文：栗色眼睛回暖）——冰山彻底开裂。for cooking purposes（前文：她找补"只为做饭"）的嘴硬vs他 Thank you perfect（后文：完美，谢谢）的大方，高下立判。
 

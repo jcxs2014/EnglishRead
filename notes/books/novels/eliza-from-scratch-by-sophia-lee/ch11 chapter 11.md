@@ -23,25 +23,25 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "My next is, Mrs. Porter would’ve been a great guidance counselor for AOC."
 
 **中文理解**：我第二个念头是，Porter 太太给 AOC 当升学顾问一定很合适。
 
-**关键词**：AOC（AOC，学霸偶像）；Latin honors（前文：拉丁荣誉）；would’ve been（虚拟，跨时空组 CP）。
+**关键词**：AOC（AOC，学霸偶像）；would’ve been（虚拟，跨时空组 CP）；Latin honors（拉丁荣誉）。
 
-**为什么这样写**：personal statement 难产时的走神三连（AOC 首句→Wikipedia→Porter）：How do people that impressive exist?（前文：这么牛的人咋存在的）是 Eliza 的罕见示弱——学霸也有偶像，也会自卑。Mrs. Porter×AOC 的虚拟组 CP 是喜剧，更是伏笔：Porter 的"take it easier"哲学（ch01）将在本章结尾回响，作用于 Wesley 身上。
+**为什么这样写**：personal statement 难产时的走神三连（AOC 首句→Wikipedia→Porter）：How do people that impressive exist?（前文：这么牛的人咋存在的）是 Eliza 的罕见示弱——学霸也有偶像，也会自卑。Mrs. Porter×AOC 的虚拟组 CP 是喜剧，更是伏笔：Porter 的"take it easier"哲学（ch01）将在本章结尾回响，作用于 Wesley 身上。Latin honors（拉丁荣誉）是 AOC 简历条目，Eliza 走神都走得这么学术。
 
 **读者视角提示**：走神即人物：Eliza 的焦虑出口是"搜更牛的人"——后文她搜到的是 Wesley 的另一面。
 
 ---
 
-> **原句 2:**
+
 > "It’s kind of kicking my ass."
 
 **中文理解**："这课快把我打趴下了。"
 
-**关键词**：kicking my ass（暴打我）；kind of（有点，轻描淡写）；slink（前文：缩进座位）。
+**关键词**：kicking my ass（暴打我）；kind of（有点，轻描淡写）
 
 **为什么这样写**：对 Meredith 的认怂：joke class（人人眼里的水课）kicking 她的 ass——体面碎一地。embarrassing（前文：说出口都丢人）+ physically and emotionally injured（前文：身心俱伤）把烹饪课写成渡劫。Meredith 的"Michelin Man 是轮胎人"（前文）插科打诨，闺蜜的功能即此时：你被打趴，我递笑话。
 
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "You act like you’ve never been bad at something before."
 
 **中文理解**："你表现得像从没烂过一样。"
@@ -62,20 +62,20 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "You don’t have things you’re passionate about, only things that you’re good at."
 
 **中文理解**："你没有热爱的东西，只有擅长的东西。"
 
 **关键词**：passionate about vs good at（热爱 vs 擅长）；only（只， 判死刑）；draws out syllables（前文：一字一顿，像教 toddler）。
 
-**为什么这样写**：toddler 语气（像教小孩断字）配死刑判决：passion 缺席诊断书第二次开具（第一次 ch07 regurgitations）。What’s the difference?（后文：有啥区别）+ You’re absurd（后文：你荒谬）——她是真不懂，不是嘴硬。Giving up because you’re not good（后文：不行就跑）+ consistent（人设一致）——他连她的逃跑模式都建档了，rival 当到这份上，已是知己。
+**为什么这样写**：toddler 语气（像教小孩断字，draws out 一字一顿）配死刑判决：passion 缺席诊断书第二次开具（第一次 ch07 regurgitations）。What’s the difference?（后文：有啥区别）+ You’re absurd（后文：你荒谬）——她是真不懂，不是嘴硬。Giving up because you’re not good（后文：不行就跑）+ consistent（人设一致）——他连她的逃跑模式都建档了，rival 当到这份上，已是知己。
 
 **读者视角提示**：passion 缺席是全书对 Eliza 的核心诊断——后文她的文书题（quintessentially Eliza）即求医问药。
 
 ---
 
-> **原句 5:**
+
 > "In the way that some people get As, some people also get Cs."
 
 **中文理解**："就像有些人拿 A，有些人也拿 C。"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "I’m fourth quartile."
 
 **中文理解**："我是倒数第四档。"
 
-**关键词**：fourth quartile（第四分位，排名垫底）；fist curl（前文：拳头攥紧拉链）；flicker embarrassment（后文：眼底闪过難堪）。
+**关键词**：fourth quartile（第四分位，排名垫底）；fist（前文：拳头攥紧拉链）；embarrassment（后文：眼底闪过難堪）。
 
 **为什么这样写**：全书最安静的自曝：looks away（移开视线）+ fist（攥拳）+ 一句。与 Eliza 的"salutatorian"（挂嘴边）对照：一个把排名当名字，一个把排名当伤疤。tone says irrelevant（前文：语气说无所谓）+ eyes say embarrassment（眼睛说丢人）——嘴硬心软，Wesley 式脆弱的标准配方。So you need this GPA boost, too（后文：你也需要加分）——rival 第一次对称：原来我们要的是同一个东西。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "Like, Eliza, if we’re going to be serious, can’t you admit that there’s no way you can prove yourself more than you already have?"
 
 **中文理解**："Eliza，说真的，你能不能承认，你已经没什么可证明的了？"
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "Are you going to make me feel pathetic if I ask you for help?"
 
 **中文理解**："如果我向你求助，你会让我觉得自己很可怜吗？"

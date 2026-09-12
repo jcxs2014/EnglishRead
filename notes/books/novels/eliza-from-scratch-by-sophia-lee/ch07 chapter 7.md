@@ -106,7 +106,7 @@ modified: "2026-09-12"
 
 **中文理解**："大酱汤总让我想起家。"
 
-**关键词**：reminds of home（想起家）；always（总是）；doenjang jjigae（大酱汤，comfort meal）。
+**关键词**：reminds of home（想起家）；always（总是）；doenjang jjigae（大酱汤）。
 
 **为什么这样写**：妈妈罕见的直抒胸臆（abruptly，前文：突然说），且主语是汤不是人：home 被翻译成味道（It’s like childhood，后文：就像童年）。这是妈妈第一次主动递出记忆钥匙——此前都是 Eliza 索取（prompt her）。face clouded over（后文：脸蒙上阴影）说明记忆有光也有雾，home 既是治愈也是沉溺。后文"Let me in"（Eliza 心声：让我进去）即本句的回响。
 
@@ -119,7 +119,7 @@ modified: "2026-09-12"
 
 **中文理解**："有些人有热爱，Eliza。我们不都是别人期望的复读机。"
 
-**关键词**：passions（热爱）；regurgitations（反刍物，Network engineering）；others’ expectations（别人的期望）。
+**关键词**：passions（热爱）；regurgitations（反刍物）；others’ expectations（别人的期望）。
 
 **为什么这样写**：Wesley 的第二判词（继 more-than-A）：regurgitations（反刍/复读）把"好学生"说成消化过的别人期望，毒辣且精准——Eliza 的全部人生（salutatorian/MIT）确实都是"别人期望的优秀版本"。直呼 Eliza（罕见！平时叫 salutatorian）说明这不是调戏，是认真。sharp inhale（前文：她倒吸气）证明命中：最疼的话往往最真。
 

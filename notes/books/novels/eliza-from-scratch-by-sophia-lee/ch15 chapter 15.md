@@ -23,25 +23,25 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "Jess, I saw you,” I told her when she finally surrendered the chase."
 
 **中文理解**："Jess，我看见了。"追到她终于停下时，我说。
 
 **关键词**：I saw you（我看见了，目击宣告）；surrendered the chase（放弃逃跑）；parking lot（停车场，审判地）。
 
-**为什么这样写**：闪回的高光：lion after prey（前文：她像狮子追猎物）+ climb into passenger seat（前文：敢爬进副驾）的执着，配 surrendered chase（猎物停下）——Eliza 的正义感全开。但 counterfeit show（后文：Jess 的表演）+ ocean eyes tears（后文：大海眼睛含泪）+ acting career（后文：她讽刺 Jess 该去演戏）——正义无处落地：哭即无罪，这是 Jess 的护甲。Don’t let me catch you again（后文：别再让我抓到）的 defeat（前文：认输感）——赢了道理，输了叙事。
+**为什么这样写**：闪回的高光：lion after prey（前文：她像狮子追猎物）+ climb into passenger seat（前文：敢爬进副驾）的执着，配 surrendered chase（猎物停下，parking lot 停车场对峙）——Eliza 的正义感全开。但 counterfeit show（后文：Jess 的表演）+ ocean eyes tears（后文：大海眼睛含泪）+ acting career（后文：她讽刺 Jess 该去演戏）——正义无处落地：哭即无罪，这是 Jess 的护甲。Don’t let me catch you again（后文：别再让我抓到）的 defeat（前文：认输感）——赢了道理，输了叙事。
 
 **读者视角提示**：目击无用论——后文 Kareena 不信她，根子在此：Jess 的眼泪是通用货币，目击证词不敌眼泪。
 
 ---
 
-> **原句 2:**
+
 > "Don’t let me catch you again,"
 
 **中文理解**："别再让我抓到。"
 
-**关键词**：catch（抓）；again（再，缓刑）；defeated（前文：认输感）。
+**关键词**：catch（抓）；again（再，缓刑）
 
 **为什么这样写**：正义的缓刑判决：没有 report（前文：顶多重考，何必呢）+ bullied narrative（前文：围观者眼里她在霸凌甜妹）——执法成本太高，只能口头缓刑。again 是给双方的台阶：她保全面子（我饶你），Jess 保全里子（无记录）。但 fissure（后文：裂缝）的种子在此：她放了 Jess 一马，Jess 却住进了 Kareena 的生活——缓刑犯成了闺蜜，法官意难平。
 
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "But Kareena and I are not spear-throwing girls. We are shields, built for defense and stability."
 
 **中文理解**："但我和 Kareena 不是投矛的女孩。我们是盾，为防御和稳定而生。"
 
-**关键词**：spear-throwing vs shields（矛 vs 盾）；defense and stability（防御与稳定）；puncture delusion（前文：想拿问题当矛戳醒她）。
+**关键词**：spear-throwing vs shields（矛 vs 盾）；defense and stability（防御与稳定）；spears（长矛三宗罪）。
 
 **为什么这样写**：大战的收束哲学：spears（前文：她想列举三宗罪：坐旁边/对答案/申 Penn）→ shields（咽回去）——You can believe who you want（后文：你信谁都行）+ unsaid（前文：没说出口的"为啥不信我"）——盾即把矛对准自己：宁可内伤，不伤友情。shields 的宣言与 canyon（后文：峡谷）的现实对照：盾没防住裂缝，稳定是演的。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "The fissure cracks open into a canyon."
 
 **中文理解**："裂缝崩开成峡谷。"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "Because you’re cute."
 
 **中文理解**："因为你可爱。"
 
-**关键词**：cute（可爱）；Because（因为，审问的答案）；laughing（前文：他狂笑不止）。
+**关键词**：cute（可爱）；Because（因为，审问的答案）
 
 **为什么这样写**：pry（刺探走路回家+成绩+父母）→ laugh（他笑场）→ cute 空降——审问变告白，毫无过渡，喜剧核爆。incinerator throat（后文：她嗓子变焚化炉）+ amend（后文：他找补"行为可爱"）+ physically cute too（后文：长得也可爱，又撤回）+ flustered（前文：他慌了）——告白的三级跳：说秃噜→找补→再秃噜→求无视。blush neck（后文：红到脖子）+ giddy（后文：她暗爽）——双向脸红，窗户纸透光。
 
@@ -88,7 +88,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "No one said your problems have to be the worst in the world in order for them to exist."
 
 **中文理解**："没人说你的烦恼得是世界第一惨，才配存在。"
@@ -101,12 +101,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "You say more than you think, and the rest of it is written on your face."
 
 **中文理解**："你说出口的比你以为的多，剩下的全写在脸上。"
 
-**关键词**：more than you think（比以为的多）；written on face（写在脸上）；insightful（前文：她三问他咋这么懂）。
+**关键词**：more than you think（比以为的多）；written on face（写在脸上）
 
 **为什么这样写**：他"懂她"的官方解释：mouth（嘴漏）+ face（脸漏）——双漏。eyebrow raise（后文：她挑眉）→ mouth gaze（后文：他视线落到她嘴唇）→ syrup slow（后文：慢得像糖浆）——读脸读到嘴，气氛从解读滑向调情。So I’ll wait（下文：我等你）——等她"ready to put into words"（准备好说出口），猎手变守株，耐心即深情。
 
@@ -114,7 +114,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "your face is saying something that you’re not ready to put into words. So I’ll wait."
 
 **中文理解**："你的脸在说一些你还没准备好说出口的话。那我等。"

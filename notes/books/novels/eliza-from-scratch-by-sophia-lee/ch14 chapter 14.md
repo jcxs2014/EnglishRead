@@ -23,7 +23,7 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "They’ve become this fragile window where the present and the past meet in a way that somehow doesn’t pain her."
 
 **中文理解**："厨房课成了脆弱的窗口，过去与现在在此相遇，以一种不弄疼她的方式。"
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "Only our lessons keep us from being completely disconnected."
 
 **中文理解**："只有我们的厨房课，让我们不至于彻底失联。"
@@ -49,7 +49,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "It’s always, What’s their race? inevitably followed by, What do their parents do?"
 
 **中文理解**："永远是先问：什么种族？接着必问：父母干啥的？"
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "Cooking is about coming together."
 
 **中文理解**："做饭是为了聚到一起。"
@@ -75,7 +75,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "She smiles back at him. “You’re a natural.”"
 
 **中文理解**："她回他一笑。‘你是天生的。’"
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "Your mom really is okay with me coming?"
 
 **中文理解**："你妈真同意我来？"
 
-**关键词**：really（真的吗）；okay with me coming（同意我来）；nervousness（前文：他紧张得僵硬+捋刘海）。
+**关键词**：really（真的吗）；okay with me coming（同意我来）
 
 **为什么这样写**：stiff back（前文：后背僵直）+ brushing bangs（前文：捋根本不挡眼的刘海）+ fifth reassurance（前文：她保证了第五遍）——Wesley 全书最紧张的一次，没有之一。unsettled（紧张）的原因：villain mom（ch08：他亲妈是反派）→ 别人妈妈=未知生物。pee yourself（前文她调侃：吓尿了吧）是她掩饰自己紧张的方式：她也怕。两个紧张的人互相壮胆，喜剧即温情。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "at least you know what Korean folk music sounds like, even if you know it too well."
 
 **中文理解**："至少你知道韩国 folk 长啥样，哪怕你熟得过头了。"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "I like it when you do that."
 
 **中文理解**："我就喜欢你这样管我。"
 
-**关键词**：like it（喜欢）；do that（这样，keep in check）；eyes on road（前文：他让她看路）。
+**关键词**：like it（喜欢）；eyes on road（前文：他让她看路）。
 
 **为什么这样写**：开车戏的收束：staring too long（前文：她盯他到被吼看路）→ like it 认领——road 安全话术下的真心。grateful（后文：我该更感激）的自我教育：rival 的"管"（别闯祸/看路/别瞎想）全是为她好，她第一次照单全收。should be more grateful 的 should 是成长：从"烦他管"到"谢他管"，只隔了一次车程。
 

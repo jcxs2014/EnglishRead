@@ -23,12 +23,12 @@ modified: "2026-09-12"
 
 ## 精读
 
-> **原句 1:**
+
 > "I thought I had the script memorized, but all the roles have been reversed."
 
 **中文理解**："我以为剧本倒背如流，结果所有角色都反了。"
 
-**关键词**：script memorized（剧本倒背）；roles reversed（角色反转）；laugh or cry（前文：不知该笑该哭）。
+**关键词**：script memorized（剧本倒背）；roles reversed（角色反转）
 
 **为什么这样写**：开篇总判：coasting（前文：顺水漂）→ jostle（前文：水花拍脸）——lazy river 变激流。三反转排比（后文：闺蜜选别人/向情敌敞开心扉/成最烂学生）——best friend/rival/class 三线全反。script（剧本）是 Eliza 世界观的隐喻：她的人生是照剧本演的（salutatorian→MIT），剧本一反，她只剩不知该笑该哭。On paper same（后文：纸面上都没变）——变的是电流，不是电线，adult 式洞察。
 
@@ -36,7 +36,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 2:**
+
 > "The group chat name hasn’t changed in the past twelve days."
 
 **中文理解**："群名十二天没换了。"
@@ -49,12 +49,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 3:**
+
 > "Your annoying, obnoxious, ridiculously talented rival who made you cry over onions?"
 
 **中文理解**："就是那个烦人、讨厌、天赋异禀、害你为洋葱哭的死对头？"
 
-**关键词**：annoying obnoxious talented（三连定语）；cry over onions（洋葱梗，黑历史）；That guy?（那位？，闺蜜审问）。
+**关键词**：annoying obnoxious talented（三连定语）；cry over onions（洋葱梗，黑历史）
 
 **为什么这样写**：Kareena 的定语三连：annoying+obnoxious（骂）+ridiculously talented（夸）——骂夸一体，闺蜜式精准。cry over onions（全书通用货币：人人都知道洋葱事件）——黑历史公开处刑，说明 Eliza 对闺蜜毫无保留（此前全说了）。Uber 梗（后文 Meredith：难道你开 Uber 了）+ unionize（后文：不知司机能否组工会）——Meredith 式岔题，喜剧缓冲，闺蜜功能正常，唯独 Jess 话题不正常。
 
@@ -62,7 +62,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 4:**
+
 > "Already bringing him home, are we?"
 
 **中文理解**："都把人往家带了啊？"
@@ -75,12 +75,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 5:**
+
 > "School is a specific kind of game, you know?"
 
 **中文理解**："学校是一种特定的游戏，你懂吧？"
 
-**关键词**：specific kind of game（特定游戏）；you play it so well（后文：你玩得贼溜）；barely know rules（后文：我连规则都不熟）。
+**关键词**：specific kind of game（特定游戏）；barely know rules（后文：我连规则都不熟）。
 
 **为什么这样写**：boba 桌的 mini 演讲：grimaces→sigh（前文：龇牙→叹气，认输前摇）+ game 论（学校是游戏）+ rules（规则）——Wesley 的世界观总判：game 有规则，规则不写给他这种人。feed/entertain myself（后文：会养活自己、会找乐子）+ no way to prove（后文：无法证明）——自证困境：会生活≠会被录取。mom’s voice（后文：她引用妈妈"只有某种知识才算数"）——两家妈妈隔空击掌：知识等级制下，Wesley 和妈妈妈是同一种受害者。
 
@@ -88,12 +88,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 6:**
+
 > "But it’s like that kind of knowledge doesn’t matter to them. There’s no way to prove it."
 
 **中文理解**："但那种知识他们不认。没法证明。"
 
-**关键词**：doesn’t matter（不认）；no way to prove（没法证明）；them（他们，college/employers/adults）。
+**关键词**：doesn’t matter（不认）；no way to prove（没法证明）
 
 **为什么这样写**：game 论的结算：them（前文：大学/雇主/大人，三司会审）+ prove（证明）——Wesley 的死结：生活技能无考纲。Right（后文：他只回一个"对"）+ breath laugh（后文：叹气式笑）+ nervous（后文：紧张）——被说中的人只剩苦笑。mirror（前文：她在他眼里看到镜子）——mom’s voice 让两人互为镜子：都被"某种知识"量过，都不及格。
 
@@ -101,7 +101,7 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 7:**
+
 > "I think I was so rude to you at the start because I felt like you would write me off, so I wanted to write you off first."
 
 **中文理解**："我开局那么毒，是因为觉得你会先把我开除，所以我先开除了你。"
@@ -114,12 +114,12 @@ modified: "2026-09-12"
 
 ---
 
-> **原句 8:**
+
 > "You have to know how ridiculous that sounds coming from you."
 
 **中文理解**："你得知道，这话从你嘴里说出来多荒谬。"
 
-**关键词**：ridiculous（荒谬）；coming from you（从你嘴里）；mooching/cockblocking（前文：她自黑蹭饭+挡桃花）。
+**关键词**：ridiculous（荒谬）；coming from you（从你嘴里）
 
 **为什么这样写**：there are things matter more than GPA（前文：她说成绩之外更重要）→ ridiculous 驳回：Miss Salutatorian 讲"成绩不重要"， credibility 破产。swallowed amusement（前文：他憋笑）+ apology smile（后文：道歉式笑）——笑里藏刀藏糖：刀是"揭穿你"，糖是"纵容你说"。familiar conversation（前文：熟悉的对话站到另一边）——攻守易位完成：她成了 Mrs. Porter，他成了她，take it easier 的药，她开给他，他开给她。
 
