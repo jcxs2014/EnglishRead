@@ -60,6 +60,8 @@ modified: "2026-09-12"
 
 **中文理解：** 它没有经过起点，也没有领那两百英镑。
 
+**关键词：** did not pass go / collect two hundred pounds
+
 **为什么这样写：** 大富翁桌游梗的直接回收（ch08 他谈判时说过 "Do not pass go. No correspondence will be entered into."）——两个梗相隔两章对上暗号，这是亲密度的计量方式：她的内心旁白开始用他的语言思考。棋规原文是"不许经过起点"，这里反转使用：快感越过一切规则直达终点——用桌游的禁令句式写身体的失控，双关严丝合缝。
 
 **读者视角提示：** 内部梗的第三次共振（前两次：partridge in a pear tree、just desserts）：梗越用越私密，两人共建的语言宇宙越大——这是言情版的"我们才懂的笑话"。

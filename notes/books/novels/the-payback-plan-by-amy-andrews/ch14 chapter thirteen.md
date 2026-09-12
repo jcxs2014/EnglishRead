@@ -82,7 +82,7 @@ modified: "2026-09-12"
 
 **关键词：** reasonably amicable / every email address in the law faculty / online sites
 
-**为什么这样写：** 全书最重创伤的正式揭幕，节奏全部压在断裂处：amicable（平和）的误判在前，every email address（每一个邮箱）的穷尽式暴力在后——从"体面"到"灭绝"只用一个省略号。she took a shuddery breath 是她四年来第一次重述现场的生理残响；而"法学院的每一个邮箱"精确解释了她失去的具体是什么：不是隐私，是执业前途与身份（对应 ch03 "No prestigious law firm was going to take me on"）。
+**为什么这样写：** 全书最重创伤的正式揭幕，节奏全部压在断裂处：amicable（平和）的误判在前，every email address（每一个邮箱）的穷尽式暴力在后——从"体面"到"灭绝"只用一个省略号。she took a shuddery breath 是她四年来第一次重述现场的生理残响；而"法学院的每一个邮箱"精确解释了她失去的具体是什么：不是隐私，是执业前途与身份（对应 ch01 "No prestigious law firm was going to take me on"）。
 
 **读者视角提示：** 这段供词同时解释了她全部的行为语法：T 恤铠甲、peach emoji 面具、拒绝拍照、不生根——现在读者有了所有谜底的钥匙；Oliver 的反应（下一块的道歉）因此成为全书道德重量的支点。
 

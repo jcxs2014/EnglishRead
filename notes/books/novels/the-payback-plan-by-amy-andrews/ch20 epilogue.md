@@ -34,7 +34,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 书名在 ch07 埋根（"Our relationship was… complicated."）——他最终拒绝了给父亲下判决，选择"复杂"这个最诚实的形容词。主标题与副标题的分工就是全书父子关系的和解方案：不粉饰（A Complicated Man）也不清算（Memories 而非 Indictment）。冷不防的排版（AComplicated 连写）是提取件的毛边，恰恰像这个家的真实质感——没修干净的边角也是家。
 
-**读者视角提示：** 对照 ch05 他不敢示人的烂剧本与 ch08 "the son of Roger Prendergast could not show anyone a crap script"：如今署名出版的正是"儿子写的父亲"——姓氏从封条变成了扉页。
+**读者视角提示：** 对照 ch05 他不敢示人的烂剧本（"the son of Roger Prendergast could not show anyone a crap script"）：如今署名出版的正是"儿子写的父亲"——姓氏从封条变成了扉页。
 
 > **原句 3:** To Bella, Sienna and Astrid – thank you. Without your scheming I never would have met the love of my life. And to Paige. I love you to distraction.
 
