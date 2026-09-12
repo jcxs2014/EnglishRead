@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：四行独白的收束句——前文铺陈了分手稿（夸 Caleb 的一切），到 But 处卡壳，因为她真正想说的话无法被说出。impossible things 没有指涉对象，是全书最大胆的省略：读者已经知道那是什么（Rosa+新人生），而它之所以 impossible，只因为她的清单说它不可能。
 
-**读者视角提示**：这是从 ch10 "I want impossible things" 的升级——那次是私下默念，这次写成了完整宣告。自我认知在搬家，从地下室搬到了前厅。
+**读者视角提示**：这句私下默念的短语在本章末尾升级成完整宣告——自我认知在搬家，从地下室搬到了前厅。
 
 > **原句 3:** "Athletic, kind, funny, I remind myself. Stick to the script."
 

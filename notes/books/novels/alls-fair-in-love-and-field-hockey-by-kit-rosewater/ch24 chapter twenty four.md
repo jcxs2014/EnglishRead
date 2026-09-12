@@ -93,7 +93,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：和解的新公式在本句定型——不再通过复制她的辉煌（highlights）来连接，而是通过共享她的脆弱（未来崩塌、否认、恐惧、不完美）。relate 替换了 imitate：这是从"成为她"到"理解她"的范式转换，也是全书最成熟的哀悼定义。
 
-**读者视角提示**：这句与 ch18 "Frida made something new and wonderful and painful" 的纹身哲学互文——Rosa 的偶像论、Seth 的 hustle 论、此刻的 relate 论，三种解法在本书末段汇流。
+**读者视角提示**：这句与 ch18 "she made something new and wonderful and painful" 的纹身哲学互文——Rosa 的偶像论、Seth 的 hustle 论、此刻的 relate 论，三种解法在本书末段汇流。
 
 ## 本章词汇
 

@@ -83,7 +83,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：两句 I want to 的排比在第二句露馅——她要的不是性感，是遗忘。裙子隐喻里"穿着别人给的期待"这个意象，精准写出了她连亲密关系都在演的状态：Caleb 看见的是他想要的人，她负责试穿。
 
-**读者视角提示**：这是对 ch02 "I'm not the person Caleb thinks he's holding" 的兑现——两章合起来看，这段关系的实质已经写完：合身，但不是她的尺码。
+**读者视角提示**：这是对本章前文 "like they know I'm not really the person Caleb thinks he's holding" 的兑现——这段关系的实质已经写完：合身，但不是她的尺码。
 
 > **原句 8:** "I can see the way she winks at me when—"
 

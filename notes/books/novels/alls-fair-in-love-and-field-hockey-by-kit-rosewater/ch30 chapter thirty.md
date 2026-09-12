@@ -43,7 +43,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：被问"你妈妈现在做什么"时的三连动作（lift/force/eye contact）写出了哀悼的最终形态——不再躲闪，不再失控，平静陈述。force myself 保留了诚实的代价感：这不是不痛了，是痛不再指挥她。与新队友的这个瞬间是全书"被看见"主题的最后一块拼图：她可以在任何房间里携带自己的故事。
 
-**读者视角提示**：对照 ch22 "The hard stuff doesn't follow me out of a room anymore"（本章后文她自己的总结）——从恐慌发作到平静陈述，身体记忆已被重新训练。
+**读者视角提示**：与本章她自己的总结（"The hard stuff doesn't follow me out of a room anymore"）对读——从恐慌发作到平静陈述，身体记忆已被重新训练。
 
 > **原句 4:** "It's sort of fun to move from place to place, knowing I don't have to land anywhere specific until I'm ready."
 
@@ -71,7 +71,7 @@ modified: "2026-09-12"
 
 **关键词**：seamlessly / two halves
 
-**为什么这样写**：media naranja 的判定在此完成——但作者没让 Rosa 或 abuela 宣布，而是让身体先说话：seamlessly（无缝）是 ch18 "No one has ever fit this perfectly into my body" 的终局确认。two halves of one whole 的几何陈述就是半个橙子的直译：全书最玄的命格问题，最终由一个依偎的姿势回答。
+**为什么这样写**：media naranja 的判定在此完成——但作者没让 Rosa 或 abuela 宣布，而是让身体先说话：seamlessly（无缝）是 ch16 "No one has ever fit this perfectly into my body" 的终局确认。two halves of one whole 的几何陈述就是半个橙子的直译：全书最玄的命格问题，最终由一个依偎的姿势回答。
 
 **读者视角提示**：与 ch18 "So which one am I?" 对读——那次 Rosa 答 "I don't know yet"；这次连答案都是她先写好的：成长让两个人都敢确认了。
 

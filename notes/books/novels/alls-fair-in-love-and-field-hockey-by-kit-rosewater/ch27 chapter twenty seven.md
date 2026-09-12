@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：买花插曲里藏着一个微型的学术宣言——她拿"道歉花=白郁金香"这种 Google 一手信源开玩笑，实际上在演练 ch26 新学的功课（researching more）。这句轻笑话标记她的认知升级已经常态化：连买花都开始区分信源等级。
 
-**读者视角提示**：与 ch01 "typing the assignment into Google's search bar and writing about the first result"（ch27 后段自述的旧习惯）对读——同一个 search bar，从作弊工具变成自嘲道具。
+**读者视角提示**：与本章后段的自述（"typing the assignment into Google's search bar and writing about the first result"）对读——同一个 search bar，从作弊工具变成自嘲道具。
 
 > **原句 3:** "It's not a sign," I say to myself. "Not a sign. There's another spot right there. Go park."
 
@@ -83,7 +83,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：拉黑动机的最终自供——她承认相信 Katie 的谎言不是因为证据，而是因为那个谎言让世界重新合理：好事必有代价（catch），完美必是陷阱。这句话是 ch20 误会的心理学总纲：不是她蠢，是她内心那个"不配"的法官需要证据。deserve 一词与 ch03 Seth 的 "you deserve to have your life" 遥遥相对：她用了十六章才把这个词的宾语换成自己。
 
-**读者视角提示**：把这句与 ch21 "Rosa is too good for me" 连读——self-worth 的债，本书最后三章在做债务重组。
+**读者视角提示**：把这句与本章 "Seth's right: Rosa is too good for me" 连读——self-worth 的债，本书最后三章在做债务重组。
 
 > **原句 8:** "Llama gemela, Rosa's abuela had told her. She was talking about me."
 

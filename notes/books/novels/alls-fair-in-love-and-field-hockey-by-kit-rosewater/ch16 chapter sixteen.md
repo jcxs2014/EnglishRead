@@ -83,7 +83,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：初吻的核心比喻只有六个词——water 呼应 ch14 的 hungry wants（渴）与 lake 意象链，drink 把吻写成必需品而非仪式。这个明喻的胆量在于把欲望正常化：不是洪水猛兽，是口渴。全书所有 about 需要被允许的挣扎，在这里拿到了一杯水。
 
-**读者视角提示**：与 ch01 "making my mouth water with the taste of wanting" 首尾相扣——第十六章的口水终于喝到了： 本书用十六章走完从"渴"到"饮"的路。
+**读者视角提示**：与 ch02 "making my mouth water with the taste of wanting" 首尾相扣——第十六章的口水终于喝到了： 本书用十六章走完从"渴"到"饮"的路。
 
 > **原句 8:** "It means I don't want to be your secret friend anymore. I want to go on dates with you. I want to be with you."
 
