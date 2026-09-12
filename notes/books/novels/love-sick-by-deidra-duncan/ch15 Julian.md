@@ -73,32 +73,28 @@ modified: "2026-09-12"
 |---------|------|------|
 | glittering | 闪烙的，华丽的 | a glittering star illuminating the dark |
 | illuminating | 照亮的，阐明的 | illuminating the dark |
-| magnetized | 被吸引的，着迷的 | I am magnetized to her |
+| magnetized | 被吸引的，着迷的 | I'm magnetized to her |
 | predator | 掠食者，predator | The hungry predator deep inside me |
-| untenable | 不可维持的 | an untenable position |
-| frolic | 玩闹，嬉戏 | frolic in the sheets |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | obvious | 明显的 | You're being very obvious |
-| predator | 掠食者 | The hungry predator |
-| wince | 皱脸 | I wince at the pressure below |
-| roll | 滚动 | I roll off Grace |
-| snort | 哼一声 | she snorts |
-| frolic | 玩闹 | frolic in the sheets |
+|| predator | 掠食者 | The hungry predator |
+|| wince | 皱脸 | I roll off Grace and wince at the pressure below |
+|| roll | 滚动 | I roll off Grace |
+|| snort | 哼一声 | Alesha snorts |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | glittering | 闪烙的 | a glittering star |
-| wince | 皱脸 | I wince |
-| snort | 哼一声 | she snorts |
-| magnetized | 被吸引的 | I am magnetized |
-| roll | 滚动 | I roll off |
-| glittering | 闪烙的 | glittering star |
+|| wince | 皱脸 | I roll off Grace and wince |
+|| snort | 哼一声 | Alesha snorts |
+|| magnetized | 被吸引的 | I'm magnetized |
+|| roll | 滚动 | I roll off Grace |
 
 ## 一句话总结
 
