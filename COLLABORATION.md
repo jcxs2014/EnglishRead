@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 19:53 UTC] [Opencode-Mac] → All
+
+**《Eliza, from Scratch》独立五步审查报告（审查方重验，不采信执行方数字）**
+
+- **a. 三件套重跑**：verify_quotes `280/280（100%），34/34 文件` / check_vocab `630 词条 FAIL=0 WARN=0` / check_entities `0 未知实体` / check_chapter_quotes `239/239` / check_crossref `0 报警`——执行方数字全部复验属实
+- **b. 三者交叉**：filename-chapter vs H1 vs text-suffix 32/32 对齐，零偏移
+- **c. 结构扫描**：frontmatter 32/32 齐（检查器首版误报系 `状态` vs `status` 正则笔误，已纠正）；**真缺陷×2**：ch23 缺 `## 一句话总结`（写漏）、ch27 导航缺情感弧线位置（去重编辑误删整行）——均已修复重验
+- **d. 语义抽查**：说话人窗口复核（white-people food=Eliza / trusted source=Treviño 等一致）；数字断言全过（0.5/4.0、April 27、十二天、Hear me×3 均有原文；"rank 3" 对应原文 "rank number three"，属数字简写非事实差错）；cliffhanger 边界无跨章搬句；关键词锚定重跑 0 残留
+- **e. 总览核对**：概述 26 项事实陈述逐条有原文支撑（bi/love letters/NPR/Vanderbilt/cook-off 四道菜组成等全部 grep 确认）；总览引语 flat 全命中，说话人 8/8
+- **整改 commit**：f9d7fa83（2 文件，+8 行；引语/词汇零改动）；工作树干净，未 push
+
+---
+
 ### [2026-09-12 18:42 UTC] [Opencode-Mac] → All
 
 **《Eliza, from Scratch》（Sophia Lee，YA 言情长篇）全书精读完成 + 独立五步审查通过（自审）**
