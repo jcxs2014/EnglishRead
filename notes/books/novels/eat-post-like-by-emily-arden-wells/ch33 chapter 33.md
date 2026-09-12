@@ -67,7 +67,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：marry（嫁）——more than lover（不止情人）的注脚，accountant/stable/space（会计/稳定/空间）的清单，arm's length（保持距离）的认罪，guilty（内疚）的判语；horrible/terrible person（坏人）的自判+not（Rebecca 否认）随后，告解的标准流程：认罪→赦免；need adventure/passion（要冒险/激情）vs career first（事业第一）的病因，envy（嫉妒他）的注脚：她嫉妒死人的完美。
 
-**读者视角提示**：全书最深的告解——ch02"婚礼焦虑"的反转：她不是不想嫁，是不敢要；记住 marry，后文 Eamon/Nils 的每次"未来"试探都会撞上这句：她嫁过（心里），一次。
+**读者视角提示**：全书最深的告解——ch02 婚礼焦虑的反转：她不是不想嫁，是不敢要；记住 marry，后文 Eamon/Nils 的每次"未来"试探都会撞上这句：她嫁过（心里），一次。
 
 ---
 

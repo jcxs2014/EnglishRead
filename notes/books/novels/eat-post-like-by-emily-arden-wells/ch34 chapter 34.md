@@ -67,7 +67,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：savoring（品）+ fine wine（好酒）——Eamon 的职业动作（品酒）变亲密动作：darting eyes（眼神流转）的她+liquify（液化）的她+drink her in（饮她）的他，主客倒置：她是酒，他是饮者；moonlight/abandoned rides（月光/空游乐场）的布景，security guard（保安）的打断，浪漫喜剧的标点。
 
-**读者视角提示**：记住 savoring——Eamon 的爱语是"品"（品酒/品菜/品人）；与 ch27"more than plates"连读：从"记得今晚"到"品今晚"，人即酒，吻即品鉴。
+**读者视角提示**：记住 savoring——Eamon 的爱语是"品"（品酒/品菜/品人）；与 ch27"with more than pictures of your plate"连读：从"记得今晚"到"品今晚"，人即酒，吻即品鉴。
 
 ---
 

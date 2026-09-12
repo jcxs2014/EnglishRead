@@ -41,7 +41,7 @@ modified: "2026-09-11"
 
 **关键词**：dabbed / coat of armor
 
-**为什么这样写**：coat of armor（盔甲）回调 ch02"clothes as armor"——Cassie 的武装从波点裙进化到口红，just enough（刚好够）的分寸是成长：不再全副武装，薄涂一层即可；dabbed（轻拍）的动作比"化浓妆"更见心态：备战，但不再恐惧。
+**为什么这样写**：coat of armor（盔甲）回调 ch02"clothes could be like armor"——Cassie 的武装从波点裙进化到口红，just enough（刚好够）的分寸是成长：不再全副武装，薄涂一层即可；dabbed（轻拍）的动作比"化浓妆"更见心态：备战，但不再恐惧。
 
 **读者视角提示**：盔甲母题的第二次变奏（ch02 衣服→ch16 口红）——后文巴黎晚宴的"theatrical hat"会是第三次；每次武装升级都是她社交信心的刻度，收集三件套即看懂她的成长线。
 

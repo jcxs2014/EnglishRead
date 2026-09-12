@@ -43,7 +43,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：grief is love with nowhere to go（grief 是无处安放的爱）——全书 grief 主题的判语：riding the waves（冲浪）的注脚，refocus energy（转注能量）的处方，Instagram as channel（IG 作通道）的实践：love for world/food/myself（爱世界/食物/自己）的三向；healthy（健康）的 Eamon 认证+hanging on（执念）的自问随后，判语的自检：不是执念，是转注。
 
-**读者视角提示**：记住 grief-is-love——后文每次她发帖都是"安放爱"；与 ch05"assume identity"对照：从"披他的皮"到"安放爱"，哀悼从占有变流通；channel（通道）即 EPL，EPL 即爱的下水道（褒义）。
+**读者视角提示**：记住 grief-is-love——后文每次她发帖都是"安放爱"；与 ch05"assume the identity"对照：从"披他的皮"到"安放爱"，哀悼从占有变流通；channel（通道）即 EPL，EPL 即爱的下水道（褒义）。
 
 ---
 

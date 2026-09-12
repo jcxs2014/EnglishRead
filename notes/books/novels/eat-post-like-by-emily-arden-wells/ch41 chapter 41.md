@@ -43,7 +43,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：Time Does Not Exist（时间不存在）——浴场的题眼：ancient Roman Forum（古罗马遗址）+modern spa（现代浴场）的层累，lose track of time（忘时）+disappear（消失）的注脚；secret oasis（秘密绿洲）的定位，light/unburdened（轻/无负）的愿望；caldarium（热水）+cold plunge（冷水）的仪式，grief lift（悲 lift）的机制：烫→冰→松。
 
-**读者视角提示**：记住 Time——与 ch22"278 天"对照：数日子的她，在"时间不存在"处放下日子；牌子是门票，浴场是考场，move forward 是成绩单。
+**读者视角提示**：记住 Time——与 ch28"278 天"对照：数日子的她，在"时间不存在"处放下日子；牌子是门票，浴场是考场，move forward 是成绩单。
 
 ---
 
@@ -55,7 +55,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：move forward（向前）——浴场的判语：let go（放手）的三放（stress/anxiety/weight）+imagined life（想象人生）的四放（dates/trips/parties/walks），mourning herself（悼自己）的深挖：lawyer woman（律师女）的三罪（sacrifice/happiness/put on line），guilt（内疚）的 education 注脚；vision（新 vision）的随后：happiness/destiny（幸福/命运）的自造，move 的方向：向前，不回头。
 
-**读者视角提示**：记住 move forward——全书 healing 的落锤；与 ch05"assume identity"对照：从"披皮回头"到"放手向前"，哀悼的句号；forward 的下一站是 Moments（最后一餐），是 Eamon，是 France。
+**读者视角提示**：记住 move forward——全书 healing 的落锤；与 ch05"assume the identity"对照：从"披皮回头"到"放手向前"，哀悼的句号；forward 的下一站是 Moments（最后一餐），是 Eamon，是 France。
 
 ---
 

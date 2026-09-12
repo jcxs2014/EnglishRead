@@ -55,7 +55,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：very, very nice（很好很好）——shower 悬念的落地：hack/phone/NYSD 的恐惧（heart race/eyes zoom）→ sneaky devil（淘气鬼）的定罪→ cathartic laugh（释然笑），虚惊的喜剧结构；poking sternum（戳胸骨）的动作+Nice huh（得意）的他+crawling under arms（钻腋下）的她，调戏的回合制；never forget（永不忘）的注脚，Suite 8 的官方认证：好看，忘不了。
 
-**读者视角提示**：记住 never forget——Suite 8 从"社死"变"糖"；与 ch16"out of league"对照：看过裸体的人，现在吻她，league 早不是问题；悬念的虚惊是作者的仁慈：真悬念（NYSD）还在后头。
+**读者视角提示**：记住 never forget——Suite 8 从"社死"变"糖"；与 ch16"out of her league"对照：看过裸体的人，现在吻她，league 早不是问题；悬念的虚惊是作者的仁慈：真悬念（NYSD）还在后头。
 
 ---
 

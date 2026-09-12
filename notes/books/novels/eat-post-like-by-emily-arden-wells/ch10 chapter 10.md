@@ -9,7 +9,7 @@ modified: "2026-09-11"
 
 **一句话概括**：Ruby 拉 Cassie 去 East Village 新店 Ukita Sushi 开荤 omakase——uni 像芒果、海胆忘拍照、清酒三巡后"a woman would be the best disguise"/proposal 落定；回家她写下第一篇评论草稿，并发现 James 口袋相机里的"最后一餐"。
 
-**情感弧线位置**：学徒期——从 ch09"为自己吃"到 ch10"为评论吃"：拍照、记味、模仿 James 文风三件套第一次合练；结尾"impeccable final dinner"是糖里裹刀。
+**情感弧线位置**：学徒期——从 ch09 为自己吃到 ch10 为评论吃：拍照、记味、模仿 James 文风三件套第一次合练；结尾"impeccable final dinner"是糖里裹刀。
 
 **Tropes 兑现/反转**：
 - 美食蒙太奇：kampachi→kasugo→king salmon→uni→tamago，一条 omakase 写成味觉升级打怪

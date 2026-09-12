@@ -67,7 +67,7 @@ modified: "2026-09-11"
 
 **为什么这样写**：for the best（最好）——对"no law job in this city"（封杀令）的接招：sweetheart（甜心蔑称）的注脚，spin（转身）不停，purse（包）+ air kiss（飞吻）的收尾；Ruby catch kiss（接吻）+ smooshed chest（按胸）的注脚，闺蜜的暗号：吻收到了，心给你；fresh air（新鲜空气）的注脚：门外即新生。
 
-**读者视角提示**：记住 for the best——威胁变祝福的炼金术；与 ch01"white-shoe firm"的起点对照：从挤进去，到走出来，八年（法学院+律所）一出门；门外是 Barcelona（五天后），是 Eamon，是新人生。
+**读者视角提示**：记住 for the best——威胁变祝福的炼金术；与 ch01 大律所起点的对照：从挤进去，到走出来，八年（法学院+律所）一出门；门外是 Barcelona（五天后），是 Eamon，是新人生。
 
 ---
 
