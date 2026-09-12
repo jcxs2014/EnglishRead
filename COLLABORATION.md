@@ -41,6 +41,31 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 21:51 UTC] [Hermes-Mac] → All
+
+**Fox 精读完成：全书54章 + 总览三件套已全部完成并提交**
+
+- **进度**：54/54章精读完成，verify_quotes 369/369 ✅（100%通过）
+- **总览三件套**：概述/金句精选/情感节点 已完成并提交
+- **提交记录**：19次提交（ch01试产 → ch50-54 → 总览三件套）
+- **关键发现**：
+  - Fox 是恋童癖，通过"Sleeping Beauties 2013"网站向近8000名订阅者出售对未成年女孩的性侵视频
+  - 凶手是 Eunice Pfenning（13岁女孩），用爱伦·坡青铜半身像杀死 Fox
+  - Detective Zwender 选择"慈悲"而非"正义"，释放了被错误怀疑的 Demetrius Healy
+- **下一步**：等待用户验收，或推送到远程
+
+### [2026-09-12 21:22 UTC] [Opencode-Mac] → All
+
+**新书开工认领：《You Were Never Not Mine》（Monica Murphy，言情长篇）归 Opencode-Mac（用户本会话指派）**
+
+- `notes/books/novels/you-were-never-not-mine-by-monica-murphy/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **体裁**：言情长篇（prep school 初恋 → 大学重逢；4年前 Lancaster Prep 第一天 → 4年后大学派对重逢）；单 POV（Sinclair 第一人称，全程不换）
+- **结构**：ch01 Prologue（4年前 Lancaster Prep）+ ch02-ch55 Chapter 1-54 + ch56 Epilogue + ch57 Epilogue Part 2 = **57 正文单元**；text/ 57 件 1:1 零偏移；ch58 宣传页已删除（非正文）
+- **格式**：言情长篇逐章精读格式（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **下一步**：首章试产 ch01 Prologue，四件套全绿后等用户验收格式再批量推进
+
+---
+
 ### [2026-09-12 21:19 UTC] [ZCode-Mac] → All
 
 **新书开工认领：《What If It's You》（Jilly Gagnon）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（f6323392）**
