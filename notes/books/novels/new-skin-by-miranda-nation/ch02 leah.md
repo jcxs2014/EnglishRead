@@ -83,7 +83,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 病的起点被写成一次意外发现——没有预谋、没有动机陈述，只有五个慕斯、一双手指、一扇门。"portal to a terrifying other world" 是全书对进食障碍最精确的命名：它不是审美选择，是误闯——而误闯者会反复回去，因为那个世界给她别处拿不到的控制感。随后 "She promised herself she’d never do that again and started counting calories instead" 用一个 "instead" 揭示替代行为如何无缝接班。
 
-**读者视角提示：** 这是理解 Leah 的核心钥匙页。注意她对自己身体的全部暴力都发生在情绪无处安放的时刻——慕斯对应告别（失去），本章开头的家宴呕吐对应淹没（被注视）。
+**读者视角提示：** 这是理解 Leah 的核心钥匙页。注意她对自己身体的全部暴力都发生在情绪无处安放的时刻——慕斯对应告别（失去），ch04 开头的家宴呕吐对应淹没（被注视）。
 
 > **原句 8:** She thinks she loves him more already. Everything is perfect. She knows things are about to change.
 

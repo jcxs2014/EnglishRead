@@ -43,7 +43,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 作者把一段医学操作写成前戏——教科书式的方位词越临床，"bizarrely sensual" 的违和感越强，两人之间未经言说的张力全部折进这根管子里。"gentle but firm" 是 Alex 对待 Leah 的基本姿态的第一次显形：克制、精确、怕弄疼她。而他随即察觉"她即使疼也不会说"，在开章就埋下 Leah 惯于自我沉默的性格伏笔。
 
-**读者视角提示：** 这是标准的"以医疗写亲密"的镜头——注意 Leah 在这个场景里仰着头、闭着眼、把喉咙交出去的姿态，与章末她在床上的姿态构成镜像。
+**读者视角提示：** 这是标准的"以医疗写亲密"的镜头——注意 Leah 在这个场景里仰着头、睁着泛泪的眼、把喉咙交出去的姿态，与章末她在床上的姿态构成镜像。
 
 > **原句 4:** The first group is the kids who genuinely think they can make a difference. They are wide-eyed and fresh-faced, predominantly female, wearing their big hearts on their sleeves; they’ll go on to be GPs or work in remote communities. Leah fits squarely into this group.
 

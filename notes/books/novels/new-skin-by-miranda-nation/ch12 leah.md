@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **关键词：** self-harming starvation, selfish, blind to other people
 
-**为什么这样写：** 全书唯一一场面对面戳破病的对话——Jamila 的语法是三段式：命名（bullshit）、赦免动机（not to be selfish）、定罪效果（it is）。"blind to other people" 把进食障碍从个人痛苦重新定义为关系事件：病把 Leah 囚在镜子里，镜外的爱她都看不见。这段话的力量在于它来自幸存者同盟——说这话的人自己也嚼过这条舌头。
+**为什么这样写：** 全书唯一一场面对面戳破病的对话——Jamila 的语法是三段式：命名（bullshit）、赦免动机（not to be selfish）、定罪效果（it is）。"blind to other people" 把进食障碍从个人痛苦重新定义为关系事件：病把 Leah 囚在镜子里，镜外的爱她都看不见。这段话的力量在于它不绕弯——对照 Helen 那种以共有秘密为底的耳语（ch02），Jamila 走的是明线。
 
 **读者视角提示：** 对照 Helen 的耳语（ch02"你知道他是什么样的人"）与 Naomi 的"你又来了"（ch04）——闺蜜三人组的话一次比一次重，这次终于砸穿了墙。
 

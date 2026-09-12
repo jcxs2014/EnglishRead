@@ -71,9 +71,9 @@ modified: "2026-09-12"
 
 **关键词：** sneaked out, felled him, through the entire credits
 
-**为什么这样写：** 三层不说的层层剥开——"sneaked"（偷溜）写他瞒着 Kate 与自己；"felled"（放倒）用的是伐木动词，欲望与尊严同时倒地；"waiting through the credits" 是全书最诚实的暗恋者坐姿：散场了还坐在黑暗里，等的不是彩蛋是平复。对照 ch16 她猜的两种可能（"他看了觉得烂"/"Kate 不让"）——真话是第三种：他看了，被击穿，然后不敢回信。
+**为什么这样写：** 三层不说的层层剥开——"sneaked"（偷溜）写他瞒着 Kate 与自己；"felled"（放倒）用的是伐木动词，欲望与尊严同时倒地；"waiting through the credits" 是全书最诚实的暗恋者坐姿：散场了还坐在黑暗里，等的不是彩蛋是平复。对照 ch18 原文里她猜的两种可能（"thought it atrocious"/"Kate hadn't wanted him to see a film"）——真话是第三种：他看了，被击穿，然后不敢回信。
 
-**读者视角提示：** 这段紧随 "Hate would not accurately describe what I felt"——两次沉默中间隔着的，就是这坐满字幕厅的一夜。本书最性感的段落没有一个色情词。
+**读者视角提示：** 这段与那句 "Hate would not accurately describe what I felt" 是同一分钟的两端——他嘴上说"不是恨"，没说出口的是这坐满字幕厅的一夜。本书最性感的段落没有一个色情词。
 
 > **原句 7:** I’ve only just started to piece myself together, she says. It might seem like I’ve sorted myself out a bit, and I have, but it’s all so fucking fragile.
 
@@ -93,7 +93,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 全书最经济的一次定罪——背叛不在他回房间的动作里，而在她念出那个名字的瞬间成为"real"（现实）。语言在此完成授勋：只要没人说出"Kate"，出轨就仍是两个人心照不宣的暧昧；名字一落地，道德事实即刻成立。Leah 的"minutely nod"（微微点头）紧随其后——她早知道，只是需要一个能转身的时间点。"like shutters closing over the warmth inside"（百叶窗合拢）是她对他最后的温柔：不摔门，只关窗。
 
-**读者视角提示：** 对照 ch05"calculated innocence"——四年前后两场"第三者在场"的戏互为镜像：那次他付出租车费，这次他跪在她膝前。谁也没变，只是位置对调了。
+**读者视角提示：** 对照 ch05"calculated innocence"——七年前后两场"第三者在场"的戏互为镜像：那次他付出租车费，这次他跪在她膝前。谁也没变，只是位置对调了。
 
 ## 本章词汇
 

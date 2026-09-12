@@ -53,7 +53,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 全书 Alex 最接近直白的一次告白，全程配着防御工事——先道歉（说俗了），再退半步（kind of missed），被抓住用词后缴械（I missed you）。"corny" 的自我审查是他情感语言能力的天花板：不是不想说，是只会削着说。作者让" I kind of missed you / I missed you"的删改过程当场上演，等于把人物弧光写进标点。
 
-**读者视角提示：** 这是两人关系所有"未遂告白"里走得最远的一次——后半句永远在别处（ch06 电话、ch09、ch15），请留意他每次都卡在哪个词。
+**读者视角提示：** 这是两人关系所有"未遂告白"里走得最远的一次——后半句要等整整一本书才由他亲口补全（ch22："You're the only one I've ever really loved"）——请留意中间每一章他都卡在哪个词。
 
 > **原句 5:** The idea that he’d been getting something off his chest, that he had bitten down his hurt the whole time they were together, only to lash out when it was already too late.
 
@@ -61,9 +61,9 @@ modified: "2026-09-12"
 
 **关键词：** off his chest, bitten down his hurt, too late
 
-**为什么这样写：** 公路旅行篝火边，Ben 一句"你应该在一起的时候说"引发的顿悟——"bitten down"（咬住）把咽下委屈写成咬合动作，牙关的酸等于心的酸。三个 that 从句层层逼近真相：他以为的诚实（ch06 电话里的毒舌）其实是迟到的溃堤。这句是 Alex 对自己"先逃跑"模式的首次内部审计。
+**为什么这样写：** 公路旅行露营灯边，Ben 一句"你应该在一起的时候说"引发的顿悟——"bitten down"（咬住）把咽下委屈写成咬合动作，牙关的酸等于心的酸。三个 that 从句层层逼近真相：他以为的诚实（ch06 电话里的毒舌）其实是迟到的溃堤。这句是 Alex 对自己"先逃跑"模式的首次内部审计。
 
-**读者视角提示：** 记住"咬住"这个动词——它跟父亲的沉默风暴（ch05）、跟 chess camp 那个把疼痛藏进棋谱的少年是同一副牙关。
+**读者视角提示：** 记住"咬住"这个动词——它跟父亲的沉默风暴（ch05）、跟他那句咽下一切的“我很好”是同一副牙关。
 
 > **原句 6:** Alex had a series of one-night stands that were meant to help get Leah out of his system but only made him think about her more.
 

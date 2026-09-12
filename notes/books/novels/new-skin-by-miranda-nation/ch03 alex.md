@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 情敌口中最高频的操控话术——以保护之名圈定所有权。"You don’t understand" 是把对方按在"外人"位置上的句式，而吊诡的是，Amir 说的又是真的：Leah 确实脆弱。作者让谎言包裹真相，读者必须自己拆分哪半句可信——这正是 Alex 当下的处境。
 
-**读者视角提示：** 对照本章末 Leah 的自白（病情、旧病）——她确实脆弱，但看穿她脆弱的是 Alex，消费她脆弱的是 Amir。同一事实，两种用途。
+**读者视角提示：** 对照本章末 Leah 的自白（Amir 的诊断）——她确实脆弱，但看穿她脆弱的是 Alex，消费她脆弱的是 Amir。同一事实，两种用途。
 
 > **原句 3:** When he cradled Minka’s tiny body to his own he felt an indescribable emotion, somewhere between tenderness and brutality. It made him want to squeeze her so tight that he feared he wouldn’t be able to stop, he would keep on squeezing until he crushed her tiny skeleton in his embrace. Leah makes him feel the same way.
 

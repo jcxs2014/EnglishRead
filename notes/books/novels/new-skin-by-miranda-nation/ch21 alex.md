@@ -7,11 +7,11 @@ modified: "2026-09-12"
 
 ## 本章导航
 
-- **一句话概括**：急诊顾问医生 Alex 在女儿的洗衣房里注射芬太尼——全章披露十年崩塌：失眠、Mia 的病、Pablo 的黄色小瓶、Kevin 的约谈与 VDHP、Kate 的" tearing this family apart"；赌场桥上与 Leah 重逢，听她讲咳嗽糖与 DVD 架的故事，"你值得被爱"；他躲进男厕注射掉最后一瓶，当晚 Mia 音乐会他发誓戒毒——几天后 Kate 搜出小瓶，他被逐出家门。
+- **一句话概括**：急诊顾问医生 Alex 在女儿的洗衣房里注射芬太尼——全章披露十年崩塌：失眠、Mia 的病、Pablo 的黄色小瓶、Kevin 的约谈与 VDHP、Kate 的" tearing this family apart"；赌场桥上与 Leah 重逢，听她讲咳嗽糖与 DVD 架的故事，"你值得被爱"；他躲进男厕注射掉最后一瓶，赌场桥上与 Leah 重逢；周三 Mia 音乐会他发誓戒毒——当晚 Kate 搜出小瓶，他被逐出家门。
 - **视角**：第三人称有限视角（Alex），与 Leah 的偶数章交替
 - **情感弧线位置**：Alex 的至暗镜像章——与 ch16 的 Leah 谷底完全对称（成瘾、被逐、濒死边缘）
-- **人物弧线**：Alex 通过 Mia 第一次理解 Ivan（"insight, bordering on empathy, horrifies Alex"）；他成为自己永远讨厌的那种人（"addict doctor"），又在一夜之间两次发誓
-- **叙事手法**： Laundry 注射开场一镜到底；"addict doctor" 统计学做命运说明书；咳嗽糖与 DVD 架两个童年故事互为"父爱迟到的证据"；结尾以楼梯上的一双眼睛收束
+- **人物弧线**：Alex 通过 Mia 第一次理解 Ivan（"insight, bordering on empathy, horrifies Alex"）；他成为自己永远讨厌的那种人（"addict doctor"），两次对自己发誓又两次回头
+- **叙事手法**：Laundry 注射开场一镜到底；"addict doctor" 统计学做命运说明书；咳嗽糖与 DVD 架两个童年故事互为"父爱迟到的证据"；结尾以楼梯上的一双眼睛收束
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 咖啡馆重逢的真相只有一句——Leah 看到的"老朋友"其实在拼死抵抗药效断崖。"crawling on broken glass" 的痛觉比喻与本书的自伤意象库（烫伤、撞杆）同族，但这次疼的是"清醒"本身：对成瘾者，清醒才是酷刑。而他事后"在全街人的视野里补了一针"——对照 ch19"the thought of Leah jangles in his bloodstream like a hit of caffeine"，她曾是他唯一的兴奋剂，如今连她都只能逼他加大剂量。
 
-**读者视角提示：** 对照 ch15 的会面——他那时拿"疲惫"当借口，此刻疲惫成了真的，借口却再也造不出了。成瘾的第一笔学费是诚实破产。
+**读者视角提示：** 对照 ch20 的咖啡馆——他那时拿"忙碌"当借口，此刻疲惫成了真的，借口却再也造不出了。成瘾的第一笔学费是诚实破产。
 
 > **原句 3:** Poor bloody bastard, Alex remembers thinking, poor fucking loser, but there was also a twinge of interest, of recognition, like he was filing something away for future reference.
 
@@ -53,7 +53,7 @@ modified: "2026-09-12"
 
 **为什么这样写：** 抑郁-失眠-成瘾三联症的法定描述——"wet cement"（未干的水泥）比 ch05 的"地心引力"更进一步：引力还允许下坠，水泥连挣扎都浇死了。此句是 Alex 十年状态的病历主诉：不是睡不着，是醒着比死难。紧随其后的 Mia 三连问（"我怎么知道自己活着""死是什么感觉"）才是本段真正的恐吓——孩子在替他说出他不敢问的问题。
 
-**读者视角提示：** 对照 ch20 Leah 的 "pits of dry sand"——两个人用同一种地质学描述各自的空心。这对恋人的病理报告互为译文。
+**读者视角提示：** 对照 ch06 Leah 的 "pits of dry sand"——两个人用同一种地质学描述各自的空心。这对恋人的病理报告互为译文。
 
 > **原句 5:** For the first time in his life, Alex has an insight into Ivan. Ivan’s inviolable love for his daughter, the raging passion and echoing desolation. The insight, bordering on empathy, horrifies Alex.
 
