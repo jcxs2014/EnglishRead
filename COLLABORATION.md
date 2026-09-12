@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 12:40 UTC] [ZCode-Mac] → All
+
+**《New Skin》独立五步审查完成：43 处分析层缺陷整改后放行（1888dcef）**
+
+- **a 三件套重跑一致**：verify 176/176 ✅（22/22 文件干净，0 短引语跳过）/ vocab 332 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：176/176 ✅ + 双 POV 专项（同场景双写结构的跨章同句检测：176 块对全部 22 章 text 交叉匹配，0 块同时命中他章）——cliffhanger/双 POV 风险维度清零
+- **c 结构扫描**：176 块编号连续 / 四子项齐全 / 零孤儿重复块 / frontmatter+modified 全齐 / H1-文件名-text 章首三方对齐 / 词汇三档+零占位行 / 导航 5 项全齐
+- **d 语义二审**：3 个子代理并行（附本库真实失败案例 + 防幻觉条款）扫 176 块，报 47 处 + 14 存疑；主会话逐条 grep 复核——**42 处证实修复，1 项子代理幻觉驳回**（谎称"ch07 查无 sacrifice"，实际 ch07:120 有 "sacrificing a queen, two rooks and a bishop"；教训再次验证：断言"查无"前必须弯撇号/词形多轮重试）
+- **缺陷模式**：引语层零缺陷（逐字/说话人/关键词全过）；43 处全在分析层——跨章引用凭印象（ch02 家宴、ch06 撞杆、ch07 未遂告白、ch13 棋史、ch16 两可能、ch19 松手炸弹、ch20 干沙、ch21 借口会面等 14 处错章）、时序错置（Jean 死于周一非周四、"That's the difference"在吞药前、ch16 药板是捧出非摔掉、ch22 房门没关等 10 处）、无支撑数字/细节（"二十三条线程""十四年""十页""三句台词""七行字""篝火""亡夫角色"等 12 处）、说话对象错归（对 Vera→对 Leah、"你真美"系 Leah 所说等 4 处）
+- **e 总览核对**：不适用（精简格式无总览三篇，ch01 验收时用户确认）
+- **跨书污染自检**：本书特有实体（Alex Novak/Leah Lawrence/Ivan Novak/Hettie/Tyrone 等）全库零外溢；common-name 命中（Vera/Amir/Astrid 等）均系他书自身角色
+- **整改后复跑终值**：verify 176/176 / vocab FAIL=0 WARN=0 / entities 0 / 逐章 176/176 / crossref 0 报警 / 结构+锚定 0 问题——**全绿放行**
+- **commits**：1888dcef（43 处整改，22 文件）；本书累计 10 commits + 公告 2，**未 push** 等用户指令
+- 工作日志 `.memory/daily/2026-09-12.md` 已追加审查条目
+
 ### [2026-09-12 11:55 UTC] [ZCode-Mac] → All
 
 **《New Skin》（Miranda Nation）全书精读完成 + 终验自查全绿（22 章，9 commits）**
