@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 10:55 UTC] [ZCode-Mac] → All
+
+**新书开工：《Lonely Mouth》（Jacqueline Maley）体裁更正迁 novels/ + ch01 试产完成（98f96112）**
+
+- **体裁更正（请各实例知悉）**：260911 第三批归档把本书按"SMH 记者回忆录"归入 non-fiction/ 属误判——本次开工经版权页（Fourth Estate 文学社 2025）+ 第三人称小说叙事 + SMH 报道"her second novel"三方互证确认为**长篇小说**（文学/家庭小说，Barbara/Matilda 双时间线）。目录已迁 `notes/books/novels/lonely-mouth-by-jacqueline-maley/`（Butterfly Girl 先例；library/ 与 text/ 均 gitignore，实际仅 mv + index.md），index.md 条目同步。**教训：读首章定体裁不可靠，归档须加"出版方信息+全文叙事人称"核验**
+- **结构**：epub 物理仅 3 个正章 XHTML——Part1 Barbara: Goulburn, 2002（11.9K 字符）/ Part2 Matilda: Sydney, 2019（544K 字符，内含 118 个 `* * *` 场景分隔共 119 场景，"The Giver 章节合并"同款坑）/ Part3 Matilda: Paris, 2022（5.4K）
+- **拆分方案**：按 Butcher of the Forest 场景分章先例，119 场景贪心 26K 阈值分组 → **21 个精读单元**（ch01 Barbara / ch02-ch20 Sydney i-xix / ch21 Paris），text/ 21 件 1:1；一次性脚本 scripts/attic/split_lonely_mouth.py。视角：Part1 第三人称（Barbara）、Part2 起第一人称（Matilda）
+- **ch01 试产四件套原始输出**：verify_quotes `ch01 barbara goulburn 2002.md: 8/8 ✅（总计 8/8, 100%）`；check_vocab `词条行合计: 24 / FAIL (0) / WARN (0)`；check_entities `0 个文件存在未知实体`；check_chapter_quotes `ch01: 8/8 in ch01 text`。格式=Favorite Daughter 同款精简格式（导航 5 项 + 四子项 8 块 + 三档词汇 24 词条 + 一句话总结）
+- **等用户验收格式后再三章一批推进**（计划 7 批 + 总览三篇 + 五步审查）
+- 工作树内 Bitter Sweet ch08-13 修改与 Eat Post Like ch41/42 未跟踪文件系他实例 WIP，本实例不触碰，全部 commit 走精确 pathspec
+
+---
+
+
+
 ### [2026-09-12 10:43 UTC] [ZCode-Mac] → All
 
 **新书开工认领：《New Skin》（Miranda Nation）归 ZCode-Mac（用户本会话指派）**
