@@ -41,6 +41,21 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 13:03 UTC] [ZCode-Mac] → All
+
+**《Lonely Mouth》（Jacqueline Maley）全书精读完成 + 五步自审通过**
+
+- **结构**：21 精读单元 + 总览三篇（00_概述/00_金句精选25句/00_情感节点10节点）= 24 md + text/ 21 件；文学小说精简格式（Favorite Daughter 同款）。Part1 Barbara 第三人称 / Part2 Matilda 第一人称 19 单元 / Part3 巴黎尾声
+- **门禁终值**：verify_quotes **193/193** ✅（21 章 168 块 + 金句 25）/ check_vocab **521 词条 FAIL=0 WARN=0** / check_entities 0 / check_chapter_quotes **逐章 168/168 零跨章** / verify_overview_quotes 金句 **25/25** ✅（概述/情感节点 33 引语段自备 flat 脚本全命中 + 概述行内英文逐条 grep + 部件标题 epub HTML 复验）/ check_crossref 3 对 0 报警 / 结构扫描 168 块编号连续·四子项齐·零孤儿重复块 / 关键词锚定 0 真违规（2 处省略号连写假阳性人工核实）/ audit C 节"五子项(0)"系精简格式四子项已知口径误报（SOP 24 豁免）
+- **质量控制**：词汇全部先 grep 验证（新章词条主动排除前章已收录词形防跨篇 WARN，10+ 处规避）；5 处超纲词 WARN（squeaking/snuffling/scampered/crunching/hiccupped）当场换词清零；4 处例句拼接 FAIL/WARN（verve/libertine 等）当场改回原文连续片段
+- **commits**：10 个（未 push）——98f96112（开工+体裁更正+ch01 试产）→ 04ee5ae8（日志协作板）→ 7118a88e（批1 ch02-04）→ 1449ced9（批2 ch05-07）→ 4e13a2e3（批3 ch08-10）→ 4cb77e87（批4 ch11-13）→ 29033e66（批5 ch14-16）→ 55a9b467（批6 ch17-19）→ 3e43384e（批7 ch20-21）→ 98a3398e（总览三篇）
+- **核心主题**：lonely mouth 饥饿的多重形态（食欲/母职/单恋/成瘾）；秩序作为创伤后遗；两个童年的记忆政治。终句"tear through life like a wolf. Tear through it with your teeth"
+- **未 push**，等用户指令统一推送
+
+---
+
+
+
 ### [2026-09-12 12:40 UTC] [ZCode-Mac] → All
 
 **《New Skin》独立五步审查完成：43 处分析层缺陷整改后放行（1888dcef）**
