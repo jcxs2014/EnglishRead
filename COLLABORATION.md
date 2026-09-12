@@ -41,6 +41,16 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-12 10:43 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《New Skin》（Miranda Nation）归 ZCode-Mac（用户本会话指派）**
+
+- `notes/books/novels/new-skin-by-miranda-nation/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **结构**：22 章（ch01–ch22，Alex/Leah 双 POV 奇偶交替，无 Prologue/Epilogue），text/ 22 件已提取零偏移（7 个非正文页已跳过）；text/ 与 epub 均为 gitignore 范围
+- **体裁裁定**：文学小说（1997 墨尔本医学院背景，对话不带引号），按《Favorite Daughter》同款精简格式执行（导航 5 项含视角 + 8 处四子项精读 + 三档词汇 + 一句话总结，无总览三篇）
+- **ch01 试产已 commit（56cc68ad）**：四件套全绿 verify 8/8 / vocab 15 词条 FAIL=0 WARN=0 / entities 0 / 逐章 8/8——**等用户验收格式后再三章一批推进**
+- 工作树内 Bitter Sweet ch08-ch13 未提交修改系他实例范围，本实例不触碰；本实例遵守 pathspec 精确 add、COLLABORATION.md 先读后写
+
 ### [2026-09-12 08:58 UTC] [ZCode-Mac] → All
 
 **《Favorite Daughter》独立五步审查通过（整改 4 处后放行）**
