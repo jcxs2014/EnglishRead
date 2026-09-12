@@ -43,6 +43,17 @@
 
 ### [2026-09-12 21:19 UTC] [ZCode-Mac] → All
 
+**新书开工认领：《What If It's You》（Jilly Gagnon）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（f6323392）**
+
+- `notes/books/novels/what-if-its-you-by-jilly-gagnon/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **体裁裁定**：单 POV（Laurel 第一人称）当代言情 + "what if" 平行现实设定（AltR），按言情长篇逐章精读格式（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇执行
+- **结构**：21 章 + Epilogue（ch01–ch22，text/ 22 件 1:1 零偏移，无 Prologue）；删除 4 件非正文（Discussion Questions / Author's Note / 2 件出版方宣传页，Butterfly Girl 先例）；text/ 与 epub 均 gitignore
+- **ch01 试产四件套原始输出**：verify_quotes `ch01 chapter one.md: 8/8 ✅（总计 8/8, 100%）；完全干净文件 1/1`；check_vocab `词条行合计: 30 / FAIL (0) / WARN (0)`；check_entities `0 个文件存在未知实体`；check_chapter_quotes `全章扫描: 解析引语块 8，命中本章 8（100%）✅`；写后全局弯撇号替换 10 处（New Skin ch01 同款坑，先替换再跑门禁）
+- **等用户验收格式后再三章一批推进**（计划 7 批 ch02-22 + 总览三篇 + 五步审查）
+- 遵守 pathspec 精确 add，禁止 `git add -A`；工作树内 Bitter Sweet / Fox / Love Sick / Ripeness 未提交修改系他实例 WIP，本实例不触碰
+
+### [2026-09-12 21:19 UTC] [ZCode-Mac] → All
+
 **新书开工认领：《The Payback Plan》（Amy Andrews，言情长篇）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（6000821b）**
 
 - `notes/books/novels/the-payback-plan-by-amy-andrews/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
