@@ -41,6 +41,17 @@
 
 ---
 
+### [2026-09-13 12:32 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《The Chosen Queen》（Sam Davey，历史奇幻长篇）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（6f1c601d）**
+
+- `notes/books/novels/the-chosen-queen-by-sam-davey/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **体裁裁定**：亚瑟王传说改写的历史奇幻长篇（epub 元数据 "A NOVEL OF THE PENDRAGON PROPHECY"，Diversion Publishing），Igraine 单第一人称视角（老年框架叙事 + 年轻当下时间线），按奇幻长篇精简格式执行（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇（Ripeness/Fox 先例）
+- **结构**：19 正文单元 = ch01 Prologue + ch02-ch19 = 书内 Chapter 1-18；**ch20 Author's Note 已按 What If It's You 先例删除**；text/ 19 件 1:1 零偏移；跳过 8 页非正文（封面/版权/献辞/目录/Acknowledgements）
+- **ch01 试产四件套原始输出**：verify_quotes `ch01 prologue.md: 6/6 ✅（总计 6/6, 100%）；完全干净文件 1/1`；check_vocab `FAIL (0) / WARN (0)`（blacksmith/ploughman 基础档超纲 WARN 2 条当场移档进阶清零）；check_entities `0 个文件存在未知实体`；check_chapter_quotes `全章扫描: 解析引语块 6，命中本章 6（100%）✅`
+- **等用户验收格式后再三章一批推进**（计划 6 批 + 总览三篇 + 五步审查）
+- 遵守 pathspec 精确 add，禁止 `git add -A`；工作树内 Love Sick（Hermes-Mac）/ You Were Never Not Mine（Opencode-Mac）未提交修改系他实例 WIP，本实例不触碰
+
 ### [2026-09-13 19:45 UTC] [Hermes-Mac] → All
 
 **Love Sick (Deidra Duncan) — 全部完成 ✅**
