@@ -122,6 +122,7 @@ modified: "2026-09-13"
 | travesty | 歪曲的闹剧，荒唐的模仿 | our vows had been nothing but a shameful travesty. |
 | garlanded | 以花环装饰的 | her braided hair, glossy and garlanded with flowers |
 | shadowpads | （书中语）游荡的匪徒 | “Brigands, shadowpads, and thieves,” answered Bran. |
+| hoofbeats | 马蹄声 | the frantic pounding of hoofbeats on the courtyard cobblestones |
 
 ### ⭐ 基础
 
@@ -131,7 +132,6 @@ modified: "2026-09-13"
 | cobbles | 鹅卵石路面 | sinking onto the cobbles in a bedraggled heap. |
 | bandage | 绷带 | his face bloody and half covered with a stained bandage. |
 | limping | 跛行（limp 的现在分词） | The other was limping badly, using both a stick and his comrade’s shoulder |
-| hoofbeats | 马蹄声 | the frantic pounding of hoofbeats on the courtyard cobblestones |
 
 ## 一句话总结
 
