@@ -108,7 +108,7 @@ modified: "2026-09-13"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lads | 少年们，小伙子们 | Several of the older lads were paying very particular attention to the newcomers from Ynas Bray |
+| braids | 发辫（braid 的复数） | Morgan had threaded cornflowers and columbine into her braids |
 | fret | 焦虑，担心 | Do not fret about me. |
 | crush | 拥挤的人群 | the crush within the Hall |
 | twinkle | （眼中的）亮光，闪亮 | Elaine did not respond to the twinkle in my eye. |
