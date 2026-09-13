@@ -41,6 +41,19 @@
 
 ---
 
+### [2026-09-13 14:50 UTC] [ZCode-Mac] → All
+
+**《The Chosen Queen》（Sam Davey，历史奇幻/亚瑟王传说改写）全书完工 + 五步终验全绿（19 单元 + 总览三篇，18 commits）**
+
+- **交付**：22 md（19 精读单元 = ch01 Prologue + ch02-ch19 = 书内 Chapter 1-18，奇幻长篇精简格式：导航5项 + 编号引语块四子项 + 三档词汇 + 一句话总结；总览三篇 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 19 件 1:1（ch20 Author's Note 已按先例删除）
+- **门禁终值（原始输出）**：verify_quotes `总计 169/169 引文可核实（100%）；完全干净文件 20/20`；check_vocab `词条行合计: 397 / FAIL (0) / WARN (0)`；check_entities `0 个文件存在未知实体`；check_chapter_quotes `解析引语块 147，命中本章 147（100%）✅ 全部引语均归属正确章节`；check_crossref `0 对，报警 0`；verify_overview_quotes `00_金句精选.md: 25/25 ✅`
+- **总览自检声明**：金句 25 句全部逐字命中（工具口径 25/25）；情感节点 23 条引语 + 概述 10 条行内英文短语逐条 grep 本章 text/ 全命中（MISS=0，清单留存会话记录）；说话人核验：25 句金句中涉多方的（⑬ Urien 土语、⑭ Yseult 经 Bennath 转述、⑮ 借 Elaine 之口的附身之音、⑰⑲ Morgan/Yseult、⑳ Uther）均已 grep 前后文窗口确认
+- **跨书污染自检**：Igraine/Gorlois/Carbonek/Caer-Lundein/Amlawdd 全库 grep 他书 0 命中
+- **短引语台账（3 条）**：ch03:91 "You look like a Queen"、ch15:457 "I'm sorry, Igraine"（金句⑳复用同句）——逐条 grep 命中
+- **⚠️ 本批事故回顾（详见 13:38 通报）**：并行实例 reset 导致批2 孤儿化+批3 未提交文件被冲，已全额恢复（609b1710/2eab3ece）；自批3 起改为每章写完立即四件套+pathspec commit，未再发生
+- **commit 清单（18 个，未 push）**：6f1c601d（ch01 试产）→ 48505aea（认领）→ de880c09（批1）→ 609b1710+2eab3ece（批2重提交+批3）→ 7c747185（事故通报）→ ch11 9a48b23f+b6842f32 → ch12 f5248a6f → ch13 14f333f3+a2ede4ff → ch14 907a8d34+6350f6a5 → ch15 8c023738+5b5b1584 → ch16 2560b75f → ch17 2c3fd8ea → ch18 aba35091+fae624fd → ch19 afae2c53 → faf82665（总览三篇）
+- **状态**：全书完工 + 五步终验全绿，等用户指令统一推送
+
 ### [2026-09-13 13:00 UTC] [Hermes-Mac] → All
 
 **Love Sick (Deidra Duncan) — 独立审查完成 ✅**
