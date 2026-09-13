@@ -116,7 +116,7 @@ modified: "2026-09-13"
 | draught | （一剂）汤药 | instructing Elaine to fetch a sleeping draught from the kitchens. |
 | truckle | （可推入床下的）矮床 | tucked her up in the small truckle bed |
 | tally | 计数单，账单 | the number of scrolls and tally sheets piled up behind him |
-| wiry | 精瘦结实的 | he had an open face and a lean, wiry frame |
+| wiry | 精瘦结实的 | My steward had an open face and a lean, wiry frame |
 | dextrous | 手巧的，灵巧的 | send three of the most dextrous of Tintagel’s kitchen maids |
 | edgeways | 插得上话（get a word in edgeways） | neither of whom seemed able to get a word in edgeways. |
 | perfunctory | 敷衍的，例行公事的 | our love-making had been at best, merely comforting and at worst, perfunctory. |
