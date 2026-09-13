@@ -135,3 +135,5 @@ metadata:
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
 - **默认不推送，等用户指令统一 push**
 - 多 IDE 并行时禁止 `git add -A` / `git add .`
+
+- **You Were Never Not Mine（Monica Murphy）言情长篇**：57 章（ch01 Prologue + ch02-ch55 + ch56 Epilogue + ch57 Epilogue Part 2）+ 总览三篇（概述/情感节点10/金句26）= 60 md + text/ 57 件。Muse Spark 执行，22 commits 未 push。终值：verify 323/323 ✅ / vocab 507 词条 FAIL=0 / entities 2 误报 / check_chapter 311/311 ✅ / crossref 0 / 总览 45 引语全绿。**关键教训**：①短引语全量 sweep 自建法（flat<20 全提取 + grep 本章 text）抓 3 真缺陷（ch21 漏 n't 致反义、ch31/ch45 合并独立引语）——工具静默跳过 + 人工抽查都会漏，必须全量脚本化；②格式 retrofit 先例：37 文件三子项→四子项（补 254 行读者视角）由三子代理并行完成，附反例+防幻觉条款，语义零错位；③子代理备案须独立复核证据：B 批报 ch33 短句虚构实为其 grep 引号风格错（原文 line 89 实有），报警数字≠证据；④总览中文文件名不在 verify_overview_quotes 口径内（Fox 改 00 名，本书手工等效：长句指纹 0 MISS + 短句 9/9），命名是否统一待定；⑤多实例下 `git add` 只加明确路径（一次 -A 误收他书文件，reset 回退）。
