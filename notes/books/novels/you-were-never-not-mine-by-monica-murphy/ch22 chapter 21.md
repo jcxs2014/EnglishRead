@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 决定做 full Brazilian——"all of it"。她对 Elise 说"not for a particular man"但 internal monologue 透露"And August"。
 
+**读者视角提示**："all of it"的干脆和她此前的紧张对照看——决定做 full Brazilian 是她第一次用行动投票，而非用嘴否认。
+
 ---
 
 > "This is for me." And August, if I get lucky.
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：This is for me
 
 **为什么这样写**：她的公开理由和内心理由形成对比——她告诉 Elise 这是"for me"，但 internal monologue 承认"And August"。她的 desire 正在变得 conscious。
+
+**读者视角提示**：公开理由"for me"和内心"And August"并置——这种"嘴硬心软"句式一出现，即是人物开始为自己的欲望找合法性的信号。
 
 ---
 

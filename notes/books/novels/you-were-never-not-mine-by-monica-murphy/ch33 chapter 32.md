@@ -21,13 +21,15 @@ modified: "2026-09-12"
 
 ## 精读
 
-> "It's from August."
+> "It’s from August."
 
 **中文理解**："是 August 送的。"
 
 **关键词**：It's from August
 
 **为什么这样写**：Sinclair 承认礼物来源——她知道是 August 送的，说明他们之间已经有了某种默契。她的惊讶（"你怎么知道的？"）和即时承认说明她对 August 的感情已经不再是秘密。
+
+**读者视角提示**：四个单词的默契认证——她笃定是他送的，说明两人已进入"不用署名也知道"的阶段。
 
 ---
 
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 提到 red dress 事件——August 当时的态度（"whorish dress"）和现在的 gesture（送 Bergdorf Goodman）形成鲜明对比。她的恐惧（"他会再次羞辱我吗？"）说明她的 trust issues。
 
+**读者视角提示**：red dress 的旧伤在此被翻出——她怕的不是新裙子，是"再次被他羞辱"；这份 trust issue 是后文他必须偿还的债。
+
 ---
 
 > "It says Bergdorf Goodman on it so it must be something expensive."
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：Bergdorf Goodman
 
 **为什么这样写**：Bergdorf Goodman 是奢侈品百货——August 用金钱证明他的 intention，但这也暴露了他的"解决问题的方式"：用物质而非情感。他的情场教育还在继续。
+
+**读者视角提示**：品牌名即意图声明——他用 Bergdorf Goodman 的价格标签替"我是认真的"发言，物质是他目前唯一熟练的情话。
 
 ---
 

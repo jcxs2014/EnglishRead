@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 用"lovesick fool"自嘲，承认自己已经失去了对 Sinclair 的理性控制。这是他罕见的 vulnerability 时刻。
 
+**读者视角提示**："到处是她的脸"——August 的相思病确诊书，lovesick fool 他自己盖的章。
+
 ---
 
 > "Clearly, I am because my goddamn dream girl is sitting inside the café I never go to, those big golden eyes locked on mine."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：dream girl
 
 **为什么这样写**："dream girl"是全章的核心词——August 正式承认 Sinclair 是他的"dream girl"，但他仍然用物化的语言（"dream girl"）而非尊重的语言。
+
+**读者视角提示**："梦中女孩"官宣——物化包装下的真心，糖里有玻璃碴，含着读。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 对 Tim 说出这句话时"spit the words out"——他的 jealousy 在言语中被压抑，但身体语言（fist curl）完全泄露了真实情感。
 
+**读者视角提示**："她不是我女朋友"说得咬牙切齿——否认句越用力，占有欲越露骨。
+
 ---
 
 > "My heart fucking pangs and I rub at my chest absently, surprised that the vital organ still exists."
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：heart pangs
 
 **为什么这样写**：August 的 jealousy 身体化——他 physical sensation 上感受到了嫉妒的痛苦，但他"惊讶于心脏还在"说明他习惯于 emotional numbness。
+
+**读者视角提示**：心脏抽痛是嫉妒的形状——"惊讶心脏还在"说明他情感系统久已停机，重启中。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的"hot"评价将她的 anger 性化——他把她的情绪（anger）转化为 sexual attraction，这是他物化女性的证据。
 
+**读者视角提示**：生气等于火辣——他把她的怒火性化，物化证据加一，记账。
+
 ---
 
 > "Are you stalking me?"
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：Are you stalking me
 
 **为什么这样写**：Sinclair 的质问直击 August 的 jealousy——他确实在"stalking"她（出现在她出现的每个地方）。这是她的 insight，也是全章最尖锐的一句。
+
+**读者视角提示**："你在跟踪我吗"一针见血——他确实在，质问即看穿，别被他的否认带跑。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 把 Tim 称为"new boyfriend"来威胁 August——但 Tim 根本不是她的男朋友。这种虚张声势揭示了她的脆弱。
 
+**读者视角提示**：拿 Tim 当挡箭牌——虚张声势读出来：她需要"男朋友"这个概念保护自己。
+
 ---
 
 > "Tim? He's about as intimidating as a puppy."
@@ -99,6 +113,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 对 Tim 的轻蔑揭示了他的 arrogance——他把 Tim 视为无威胁的存在，但这种轻蔑也暴露了他对失去 Sinclair 的恐惧。
 
+**读者视角提示**：Tim 被贬成"小狗"——轻蔑背后是恐惧：怕输给看似无害的对手。
+
 ---
 
 > "Not if I have anything to say about it."
@@ -108,6 +124,8 @@ modified: "2026-09-12"
 **关键词**：Not if I have anything to say about it
 
 **为什么这样写**：章末句——August 宣告对 Sinclair 的控制权。"anything to say about it"是 possessive 的极致表达——她不是他的女朋友，但他要 control 她的每一个行动。
+
+**读者视角提示**：章末宣告主权——"只要我有发言权"是最露骨的 possessive 宣言，红线预警。
 
 ---
 

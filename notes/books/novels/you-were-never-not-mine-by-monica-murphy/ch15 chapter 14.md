@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 对 football 的 ignorance 是 metaphor——她不了解这场 social game（Tim/Elise/Rafael 的 couple dynamics），也不了解她自己在这里的角色。
 
+**读者视角提示**：不懂球是隐喻——她不懂这场社交游戏，正如不懂自己在这局里的位置。
+
 ---
 
 > "My father was always working, always trying to come up with a business idea that would make him millions."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：father always working
 
 **为什么这样写**：她的 father 用工作来逃避家庭——这与 August 的"缺席父亲"模式形成对比。她在无意识中重复了 family trauma：被 authoritative male 忽视。
+
+**读者视角提示**：爸爸用工作缺席——和 August 的缺席父亲对照：她一直在被 authoritative male 忽视，模式复刻。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的自我描述是 irony——她说自己"没有感情"，但她刚刚表达了那么多 emotion（frustration, loneliness, desire）。她的 emotional suppression 比她意识到的更深。
 
+**读者视角提示**："没有感情"的女孩写了最多感情——suppression 的悖论：越说没有，越多。
+
 ---
 
 > "All the hairs on the back of my neck rise and I swear my heart settles itself in my throat, making it hard to speak."
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：heart settles in my throat
 
 **为什么这样写**：August 的声音触发了她 physical 的 arousal——"hair rise"是原始的 adrenaline 反应，不受理性 control。这是 attraction 的最本能证据。
+
+**读者视角提示**：后颈汗毛加心跳堵喉——身体比理智早认出他，attraction 的本能证据，盖章。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的 revelation——他 manipulation 全章的情节，只为了能出现在这里看她。这是 obsession 的明显证据，而她立刻就识别出来了。
 
+**读者视角提示**："票是你给的"——她一眼看穿 manipulation，敏锐是她的保命技能。
+
 ---
 
 > "My girlfriend? I don't have one."
@@ -79,6 +89,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 在否认 housemother Yolanda 的 lipstick 故事时顺便说"I don't have a girlfriend"——这句话是对 Sinclair 的直接表态，也与他在 ch11 对 Tim 说的"She's not my girlfriend"形成呼应。
 
+**读者视角提示**："我没有女朋友"——否认句说给她听的，和 ch11 的"不是女朋友"连起来读，表白进行时。
+
 ---
 
 > "I think his reason has everything to do with me."
@@ -88,6 +100,8 @@ modified: "2026-09-12"
 **关键词**：I think his reason has everything to do with me
 
 **为什么这样写**：章末句——她的"ego"承认了 attraction 的 mutual 性质。August 操纵整个约会只为了接近她，而她的最后一句话确认了——她知道他为她而来。
+
+**读者视角提示**："他的理由与我有关"——她亲口承认 mutual，被追的人先认了爱，章末高光。
 
 ---
 

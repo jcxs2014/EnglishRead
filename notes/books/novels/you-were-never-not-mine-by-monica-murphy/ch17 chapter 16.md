@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她用食物 imagery 来描述 arousal——"thick honey"是 sweetness + viscosity 的结合，说明 desire 是 sweetness 但又是沉重的（"thick"）。
 
+**读者视角提示**：期待像浓蜜——甜加稠，欲望的质地描写，含着读，烫。
+
 ---
 
 > "I don't think I can go through with this," I whisper.
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：I don't think I can go through with this
 
 **为什么这样写**：她的第一句话是自我否定——但她没有离开。她等待着 August 的反应。这是"口头上拒绝、身体上顺从"的开端。
+
+**读者视角提示**："我没法继续"但没走——口头拒绝加身体留下，本章行为模式总纲。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的"Go ahead"是对她"我要走了"的回应——他给她选择离开的机会，但他知道她不会走。这是他的 manipulation：他给她表面的 autonomy，实际上是在考验她是否会 surrender。
 
+**读者视角提示**："走吧"是考验不是放行——给表面 autonomy，赌她 surrender，manipulation 教科书。
+
 ---
 
 > "You haven't left." He states the obvious.
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：You haven't left
 
 **为什么这样写**：August 指出她的 contradiction——她说要走但没走。这是他的胜利宣言：他不需要强迫她，她自己就 surrender 了。
+
+**读者视角提示**："你没走"是胜利宣言——他不需要强迫，她留下即他赢，权力转移完成。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她用"weak"和"stupid"来形容自己的 surrender——这是 victim-blaming 的自我 narrative。但她的 physical response（"I hope so"）说她实际上想要这个。
 
+**读者视角提示**："软弱愚蠢的女孩"是自我 victim-blaming——她骂自己时，读者该骂他，立场站好。
+
 ---
 
 > "You don't wax your pussy?"
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：You don't wax your pussy
 
 **为什么这样写**：August 的评论将她的 body 客体化——他在检查她的 body 是否符合他的 standard。这是他的 dominance 和 entitlement 的表现。
+
+**读者视角提示**：检查体毛是客体化——dominance 的体检，entitlement 现形，记账。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的 begging 是全章最 powerful 的 moment——她完全 surrender 了。她的"just like he wanted"说明她知道这是他的 manipulation，但她还是服从了。
 
+**读者视角提示**："像他要的那样哭"——surrender 完成时，她清醒地知道被操纵，最疼的一句。
+
 ---
 
 > "Get yourself cleaned up."
@@ -99,6 +113,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 在做完后立刻 dismiss 她——他没有帮助她清理。他的"you're a mess"和 dismissal 说明他没有 emotional involvement，只有性 objectification。
 
+**读者视角提示**：做完即 dismiss——"自己清理"是不管不顾，温情面具摘下，真面目在此。
+
 ---
 
 > "Of course not. Who do you think I am? A saint?"
@@ -108,6 +124,8 @@ modified: "2026-09-12"
 **关键词**：A saint
 
 **为什么这样写**：August 的反问是 sarcastic——他明确表示自己不是好人。这与他的"not a single hair left behind"要求和他的"Get yourself cleaned up" dismissal 形成一致的人设：controlling, demanding, dismissive。
+
+**读者视角提示**："你以为我是圣人"——他亲口认领混蛋，人设前后一致，信他这句。
 
 ---
 

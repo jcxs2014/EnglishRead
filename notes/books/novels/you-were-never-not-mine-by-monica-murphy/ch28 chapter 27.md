@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是全书最经典的 hoodie 一刻：占有欲用夸张的声明（own it for all time, never wash it）包装成玩笑，而真正的心理转折藏在后半句——"disturbed by my thoughts but not disturbed enough"。这个倒装式让步结构（认识到恶心但程度不够）精确刻画了她身体的依恋已经跑在理智前面。她嘴上说讨厌他，行动上却在收集他的气味，读者在这里第一次确认：她的沦陷早已开始。
 
+**读者视角提示**：hoodie trope 的精髓不在占有，在理智与身体的脱节——她的理智还在开罚单，身体已经拒不执行。
+
 ---
 
 > "I would've killed every motherfucker who looked at you twice if you walked out there without a stitch of clothing on. And that would've been everyone because your body is unbelievable. Their blood would be on your hands."
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：占有欲宣言的标准范本，但妙在末句——"Their blood would be on your hands" 把罪责转嫁给她的身体，让威胁变成了变相的赞美与自我撇清。前半句是 alpha 男主台词（暴力、绝对、排他），后半句泄露出他对自己欲望的恐慌：他怕的不是别人看，而是自己拦不住。Sinclair 对此的反应是 "an unfamiliar feeling unfurls in my chest"——她第一次尝到对他拥有掌控力的甜头，权力天平在这一刻开始倾斜。
 
+**读者视角提示**：末句"血在你手上"是变相赞美——暴力台词读到转折处转成夸她，这是 August 式情话的固定结构。
+
 ---
 
 > "It's satisfaction. Bone-deep, delicious satisfaction."
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：Bone-deep / delicious satisfaction
 
 **为什么这样写**：两个短句，第二个把名词重复一遍并各加一个定语——前半句是理智的命名（It's satisfaction），后半句是身体层面的确认（Bone-deep, delicious）。形容词 delicious 把抽象情绪翻译成味觉体验，与两人之间全程的感官语言（味道、气味、触感）保持一致。这是 Sinclair 的 power moment：长期在两人关系中感到 unsure and confused 的她，第一次"brimming with confidence"。
+
+**读者视角提示**："delicious"把情绪写成味觉——全书感官语言在此收束，她第一次从"confused"切换到笃定的满足。
 
 ---
 

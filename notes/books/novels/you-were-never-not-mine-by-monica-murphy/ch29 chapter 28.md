@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 August 全书第一次直接承认 Sinclair 的 attraction value，同时用 despise 来保持他的 hostility 人设。他的 emotion 被 attraction 触发，但他的 defense mechanism 是 hatred。
 
+**读者视角提示**："beautiful"与"despise"并置即全书矛盾的缩写——他每骂一次"恨"，都是在给 attraction 交一次税。
+
 ---
 
 > "No. Please don't hurt him. It's just—he's not worth it."
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 为 Tim 求情——这说明她不是 helpless，也说明她在乎 August 不要为她做傻事。她的"谢谢"和求情让 August 看到了她的善良，这是他开始在意她的开始。
 
+**读者视角提示**：她替 Tim 求情不是圣母——这是她第一次对 August 行使"我能管住你"的权力，温柔即缰绳。
+
 ---
 
 > "Does your offer still stand?"
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：Does your offer still stand
 
 **为什么这样写**：她问他是否还愿意送她——这个问句暗示她接受了 August 的帮助，但也暴露了她对 August 的 trust。她的 defense 和 attraction 在同一个问句里交织。
+
+**读者视角提示**：问句即信任投票——她肯上他的车，等于把"不该再见"的宣言亲手作废。
 
 ---
 

@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的开场词精准地同时攻击了她的性别特征（胸部）和社会身份（freak）。这是他 torment 她的核心武器。
 
+**读者视角提示**：开场即武器——性别加身份双杀，记住这个配方，后面他的赎罪要逐项还。
+
 ---
 
 > "I hear the words despite his low-spoken tone and I lift my chin, trying to pretend I didn't."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：lift my chin
 
 **为什么这样写**：她的身体语言与内心感受相反——她 lift chin 来假装坚强，但实际上是脆弱的。这建立了她的防御机制。
+
+**读者视角提示**：抬下巴假装没听见——她的防御机制出厂设置：用体面盖住疼。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她怀疑父亲买通了入学名额，但从来没有明说——这种不确定感是她的 insecurity 的来源之一。
 
+**读者视角提示**：入学名额的怀疑没人明说——不确定比确定更磨人，这是她 insecurity 的温床。
+
 ---
 
 > "Why am I only the sum of my body parts?"
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：sum of my body parts
 
 **为什么这样写**：她的反击是全章最有力的一句话——她直接挑战 August 对她的物化。这是她的第一次 intellectual 反抗。
+
+**读者视角提示**：全章最有力的一句反击——她第一次用脑子还手，不是只用眼泪。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她承认自己没有人保护——这是她的孤独感，也解释了她 later 为什么如此独立。
 
+**读者视角提示**："没人替我出头"——孤独是她独立的学费，贵但值。
+
 ---
 
 > "If you actually stood up for yourself, you'd tell me to fuck right off."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：fuck right off
 
 **为什么这样写**：August 指出她的"反抗"其实不够彻底——她还在等他的认可。这种对质是两人 dynamic 的核心。
+
+**读者视角提示**：他教她"该叫我滚"——施害者亲自授课反抗，荒诞但真实：只有他懂怎么伤她。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的愤怒以身体化形式表现——拳头是欲望和愤怒的混合。她想 hit him，但也知道她打不过他。
 
+**读者视角提示**：拳头是愤怒的形状——打不过也要攥着，这是她的骨气。
+
 ---
 
 > "I jerk out of his hold, hating how my skin tingles. Burns from his touch."
@@ -98,6 +112,8 @@ modified: "2026-09-12"
 **关键词**：tingles、Burns from his touch
 
 **为什么这样写**：这是 attraction 的身体化表达——她的身体对 touch 有反应，即便她的 mind 在说"我恨他"。这是 later 欲望与仇恨混合的 precursor。
+
+**读者视角提示**：触碰烫伤——恨里掺着电，attraction 的前身在此埋伏，倒回去看 ch01 的 tingle。
 
 ---
 
@@ -109,6 +125,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：他收回"freak"这个词，但用另一个方式继续物化她——"freakishly long legs"是 compliment 和 insult 的混合。这是 August 对她的典型方式。
 
+**读者视角提示**：辱骂转调戏——"长得吓人的腿"是 insult 和 compliment 的叠加态，他一贯的伎俩。
+
 ---
 
 > "I hate you," I hiss at him through clenched teeth."
@@ -118,6 +136,8 @@ modified: "2026-09-12"
 **关键词**：hiss through clenched teeth
 
 **为什么这样写**：她的"hiss"是愤怒的身体化声音。她的恨是真实的，但她对恨的表达（through clenched teeth）暗示了内心深处的其他情感。
+
+**读者视角提示**：咬牙切齿的"恨"——声音从牙缝里出来，说明恨里有压不下去的东西。
 
 ---
 
@@ -129,6 +149,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 把他们的 torment 定义为"enemies thing"——他把它变成了一种游戏，而她被迫参与其中。这是 predator 的逻辑。
 
+**读者视角提示**：他把霸凌定义成"游戏"——predator 的逻辑：把伤害重命名为乐趣，划线批判。
+
 ---
 
 > "I turn and walk away, and this time he doesn't chase after me or call me by a name."
@@ -138,6 +160,8 @@ modified: "2026-09-12"
 **关键词**：doesn't chase after me
 
 **为什么这样写**：她失望于他没有追她——这建立了 later 她对 August 追逐的渴望。"doesn't chase"是 emotional unavailable 的第一种形式。
+
+**读者视角提示**：他没追上来——她失望了，"没追"是最早的"想要被追"，伏笔回收处。
 
 ---
 

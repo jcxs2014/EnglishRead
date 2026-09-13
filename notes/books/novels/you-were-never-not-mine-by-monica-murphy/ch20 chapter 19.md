@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的情感矛盾达到高潮——她"hate"自己的 attraction，但 attraction 仍然存在。这是 Sinclair 第一次明确承认她的 feelings for August。
 
+**读者视角提示**：注意"hate"与"interested"并置——她的否认越强烈，沦陷的证据越确凿，后文每次动心都可回看这一句。
+
 ---
 
 > "I can't stop thinking about you."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：I can't stop thinking about you
 
 **为什么这样写**：mystery text 是本章的 cliffhanger——读者知道这很可能是 August 发的，但他没有她的电话号码。文本暗示 August 在用陌生号码联系她。
+
+**读者视角提示**：读到这里先别急着认定发信人——把"没有她号码"的疑点存着，下一章 August 视角会给出另一半拼图。
 
 ---
 

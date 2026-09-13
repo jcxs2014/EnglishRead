@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 attraction 的 somatic 表征——他的 body 在 responding to her presence，他的 self-control 在被 challenge。"Tingle"是轻微的、持续的，比"hard"更细腻。
 
+**读者视角提示**：指尖发麻是最小单位的失控——他连碰都没碰到，身体已经先举手报名。
+
 ---
 
 > "I want to whisk her away and lock her up in a massive house for the rest of our lives."
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 在浪漫约会中想到 lock her up——他的 romantic side 和他的 possessive nature 是同一个硬币的两面。他越 attraction 她，就越想 possess her。
 
+**读者视角提示**：约会正酣忽冒"lock her up"——浪漫与占有同源，越想珍藏越想上锁；这是他 jealousy 爆发前的预警。
+
 ---
 
 > "Oh. Tim told me." Her cheeks turning pink while my vision turns red.
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：my vision turns red
 
 **为什么这样写**：Sinclair 的 pink vs August 的 red——两人对 Tim 的反应形成鲜明对比。她的 blushing 是 attraction 或 embarrassment，他的"vision red"是 jealousy 的爆发。
+
+**读者视角提示**：她的 pink 对他的 red——同一个"Tim"照出两人完全不同的红，后文每次 Tim 登场都可回看这个色差。
 
 ---
 

@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 Elise 的建议，Sinclair 开始认真考虑这个想法。她的逻辑是：如果 August 是她唯一的男人，那她需要更多 experience 来"忘记"他。这个 reasoning 有缺陷但符合她的 character development 阶段。
 
+**读者视角提示**：Elise 的"get under"理论是危险的安慰剂——记住这句话，后文 Sinclair 真站在诱惑面前时会被它推一把。
+
 ---
 
 > "I should've never let Elise convince me to wear nothing underneath the dress."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：nothing underneath the dress
 
 **为什么这样写**：Sinclair 感到"exposed"——这个裸露的感觉与 August 在 bathroom 后说"not a single hair left behind"形成呼应。她为 August 做了身体准备，现在又在外表上迎合他的标准。她的 autonomy 和 submission 在同时发展。
+
+**读者视角提示**："nothing underneath"的暴露感不是服装细节——这是她为 August 做的身体准备第一次外化为可被看见的风险。
 
 ---
 

@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的自问自答说明她对 August 的行为感到震惊但又带着某种 awe。"That's who"暗示她认为他是 unique 的——她的 bully 也是她遇到的第一个真正让她高潮的男人。
 
+**读者视角提示**："August，就是他"——自问自答的震惊里有 awe，bully 和初恋是同一个人，命运弄人。
+
 ---
 
 > "For whatever strange reason, it doesn't."
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她两次重复"it doesn't"——她本来期待自己会生气（他嘲笑她的 body，他叫她"cunt"），但她发现自己并不生气。这是一个重要的 character moment：她的 attraction 超越了她的 moral judgment。
 
+**读者视角提示**："它没有（让我生气）"重复两遍——attraction 越过 moral judgment，character moment 标星。
+
 ---
 
 > "I should make a waxing appointment."
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：waxing appointment
 
 **为什么这样写**：August 的"not a single hair left behind"命令已经开始影响她的行为——她要为了他脱毛。她的 decision 说明她已经开始 internalize 他的 standard，即使他没有在场。
+
+**读者视角提示**：为他预约脱毛——他的标准开始殖民她的身体，autonomy 侵蚀第一步，警惕。
 
 ---
 

@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：14岁的 Sinclair 用"infiltrating"来形容交朋友——这个词有 spy/war 的 connotation，说明她从小就把社交视为一种 battleground，而非自然过程。
 
+**读者视角提示**：交朋友叫"渗透"——十四岁就把社交当战争，怪不得她这么累，心疼一秒。
+
 ---
 
 > "He sneers at me like I'm a disgusting rodent who dared to run across his shoes."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：disgusting rodent
 
 **为什么这样写**：August 的 sneer 把 Sinclair 物化为"rodent"——这与现在（大学）的他对她"body parts"的物化如出一辙，说明他的 contemptuous 态度是根深蒂固的性格。
+
+**读者视角提示**："啮齿动物"的 sneer——和大学的物化同源：他的 contempt 是出厂设置，不是针对她。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 主动搭话——这与他后来声称"I never see you"形成矛盾。9年级的 August 已经开始对 Sinclair 感兴趣，但他用敌意来掩饰。
 
+**读者视角提示**：主动搭话是破绽——嘴上欺负，行动接近，口嫌体正直的九年级版本。
+
 ---
 
 > "Want to come with?"
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：Want to come with
 
 **为什么这样写**：这是全章最重要的一句——August 邀请 Sinclair off campus（离开 campus 去镇上）。off campus 在言情小说里是 intimate 空间的隐喻。这是9年级 August 的第一次主动接近。
+
+**读者视角提示**："一起去镇上"是 off campus 邀约——九年级的他第一次递出亲密空间的钥匙，别错过。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 的拒绝是防御性的——"I'm not stupid"暗示她知道这个邀请有别的含义，也暗示她害怕自己会 say yes。
 
+**读者视角提示**："绝对不去"加"我不傻"——拒绝越快，说明诱惑越大，慢放读。
+
 ---
 
 > "There's the tiniest part of me that wishes I would've said yes."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：tiniest part of me
 
 **为什么这样写**：章末句——"tiniest"这个词是自我否定：她不想承认自己 attraction，所以用"tiny"来 minimize。但事实是——即使在9年级，她就已经 attraction to him。她对他的 hatred 下面藏着 attraction。
+
+**读者视角提示**："最小的一部分希望答应"——tiny 是 minimizing，attraction 在九年级就已生根，全书最早的糖。
 
 ---
 

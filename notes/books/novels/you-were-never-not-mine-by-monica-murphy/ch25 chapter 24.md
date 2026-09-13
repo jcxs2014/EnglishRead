@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 对 Lolo 的 dismissive response 与他对 Sinclair 的关注形成对比——他表面羞辱 Lolo，但他的 gaze 一直在 Sinclair 身上。他的 cruel behavior 是他 attraction 的反向形成。
 
+**读者视角提示**：表面羞辱 Lolo、视线锁 Sinclair——读到这种"声东击西"的 cruelty，可直接翻译为反向的 attraction。
+
 ---
 
 > "I wouldn't touch your dick if you paid me to."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：I wouldn't touch your dick
 
 **为什么这样写**：Sinclair 的回击与她现在对 August 的 attraction 形成 irony——14岁的她用最激烈的方式拒绝他，但她的 body reaction（goosebumps）说明她的无意识早就认出了他。她的 defiance 和 attraction 的矛盾从一开始就存在。
+
+**读者视角提示**：14岁的脏话越狠越好记——把这句存着，后文她对 August 每一次"恨"里都藏着同一股劲。
 
 ---
 

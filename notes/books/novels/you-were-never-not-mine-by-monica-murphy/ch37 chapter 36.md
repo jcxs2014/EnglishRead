@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 Sinclair 第一次直接说出"falling in love"这个恐惧——她知道自己在走向危险，但她的 body 已经背叛了她的 conscious mind。她的 inner conflict 在这句话里达到了 peak。
 
+**读者视角提示**："soul-crushing"是她第一次点名"falling in love"——恐惧说得越具体，说明沦陷离得越近。
+
 ---
 
 > "Thank Christ you brushed your teeth."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：Thank Christ you brushed your teeth
 
 **为什么这样写**：August 的 humor——他在她偷偷亲他时"醒来"，第一句话是幽默的评论。他的反应既承认了刚才的 intimacy，又用 humor 缓解了 tension。这是他的软化方式。
+
+**读者视角提示**：他醒着却先开玩笑——幽默是他的缓冲垫，既认了刚才的吻，又把"被看到脆弱"的 tension 轻轻放下。
 
 ---
 

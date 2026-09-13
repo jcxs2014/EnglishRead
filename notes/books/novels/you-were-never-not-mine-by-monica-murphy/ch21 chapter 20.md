@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 在 bathroom encounter 后"can't stop thinking about her"——他的 attraction 不是单向的。他的 frustration（"aggravating as shit"）说明他对自己的 feelings 感到无力。
 
+**读者视角提示**：把这句和 Sinclair 上一章的"I hate that I'm interested"对照读——两个人用同一句式想着对方，谁也不肯先认输。
+
 ---
 
 > "Are you wanting to pursue something with her?"
@@ -39,9 +41,11 @@ modified: "2026-09-12"
 
 **为什么这样写**：Cyrus 的问题直击 August 的核心。他对 Sinclair 的兴趣不只是"toy"——他想要 pursue something。但 August 的 automatic response 是否认。
 
+**读者视角提示**：Cyrus 这个问题是全章的审讯灯——August 怎么回答不重要，他迟疑的那一下才是答案。
+
 ---
 
-> "Can I just—toy with her?"
+> "Can’t I just—toy with her?"
 
 My smile feels menacing.
 
@@ -49,7 +53,9 @@ My smile feels menacing.
 
 **关键词**：toy with her
 
-**为什么这样写**：August 的 language reveal 他的框架——他把人视为"toys"。但他问"Can I"说明他对自己的欲望感到犹豫。这是他开始改变的前兆。
+**为什么这样写**：August 的 language reveal 他的框架——他把人视为"toys"。但反问句"Can’t I"（难道不行吗）说明他在向 Cyrus 寻求许可，为自己的欲望找背书——玩弄计划需要观众批准，这是他动摇的前兆。
+
+**读者视角提示**："toy"这个词是 August 的保护色——后文他每次说"玩玩而已"，都可回看 Cyrus 在这里的表情。
 
 ---
 

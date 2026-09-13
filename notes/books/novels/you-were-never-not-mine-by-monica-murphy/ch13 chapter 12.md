@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 说他是在"minding my business"——但紧接着他就在偷听，并最终操纵整个局面。这是他 self-deception 的开始。
 
+**读者视角提示**："管自己的事"转头就偷听——self-deception 开场，后面 manipulation 的每一步都从这句开始。
+
 ---
 
 > "Poor Timmy. He sounds completely butt hurt."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：butt hurt
 
 **为什么这样写**：August 用"butt hurt"来贬低 Tim——但随后他自己的 jealousy 完全爆发。他批评 Tim 的 emotion，但其实他自己也有同样的（更强烈的）emotion。
+
+**读者视角提示**：嘲 Tim"被绿不爽"——五十步笑百步，他自己的 jealousy 更大声，听好了。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 自称"pathetic"——这是他对自身 jealousy 的认知。他知道自己不理性，但无法 control。这是全章最 honest 的自我评估。
 
+**读者视角提示**：自认"可悲"——全章最诚实的一句，他知道自己不理性，但停不下来。
+
 ---
 
 > "Does she need to be any good? As long as they've got a tight pussy, that's all that counts, right?"
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：reductive sexual comment
 
 **为什么这样写**：Tim 和 Rafe 的评论将女性物化为 body parts。这与 August 对 Sinclair 的物化（dream girl, body parts gaze）形成呼应——frat culture 的集体 normalisation of 物化女性。
+
+**读者视角提示**：frat 的物化日常——把这句和 August 的物化并排放：体制和个人互为帮凶。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的 jealousy 在听到 Tim 想让 Sinclair"on her knees"时物理化为"I see red"——这是极度情绪化的反应，说明他的 jealousy 已经失控到原始的 adrenaline 水平。
 
+**读者视角提示**："看到红色"是嫉妒的生理峰值——adrenaline 水平，原始脑接管，危险信号。
+
 ---
 
 > "I bet I'll be able to get her on her knees in front of me by the end of the night," Tim starts, and I can't take it anymore.
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：on her knees
 
 **为什么这样写**：Tim 对 Sinclair 的性目标触发了 August 的 jealousy 的临界点——"on her knees"是对性主导的直白表达，August 无法忍受。
+
+**读者视角提示**：Tim 的性目标是引爆点——"跪"字触发他的独占欲，战争导火索在此。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 撒谎说他控制票——他实际上不是，但他在用这个谎言来 manipulate Tim 和 Rafe 把女孩们带到 suite。这揭示了他的 controlling 性格。
 
+**读者视角提示**：撒谎控票——他用谎言编织"偶遇"，操控型浪漫的开端，警惕。
+
 ---
 
 > "I've got them where I want them for the night."
@@ -98,6 +112,8 @@ modified: "2026-09-12"
 **关键词**：I've got them where I want them
 
 **为什么这样写**：章末句——August 宣告他已经 control 了当晚的局面。他的 jealousy 驱使他进行 manipulation，而他将这视为一场胜利。这是 jealousy → obsession → controlling behavior 的升级路径。
+
+**读者视角提示**：章末宣告胜利——jealousy 到 obsession 到 control 三级跳完成，红线拉满。
 
 ---
 

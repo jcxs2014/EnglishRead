@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的 lust 是 physical 的——他关注的是 scent、hair、sweatshirt（可触的、material 的细节）。这与 Sinclair 对他"dream girl"的 abstraction 形成对比。他的 desire 是 embodied，而她是被 embodiment 的。
 
+**读者视角提示**：欲望清单全是触感——scent 加 hair 加运动衫，他的爱是 embodied 的，记住这个质地。
+
 ---
 
 > "Can I even call her a woman? More like she's a girl—barely eighteen, barely out of high school, probably doesn't have an ounce of experience."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：barely eighteen, barely out of high school
 
 **为什么这样写**：August 对 Sinclair 年龄的 awareness——他称她为"girl"，强调她的"no experience"。这是 predator 的 grooming 逻辑：他把自己的 attraction 合理化为她的"innocence"。
+
+**读者视角提示**："算女人吗"的 grooming 逻辑——他把 innocence 当合理化借口，红线预警，批判性阅读。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 用"line of vision"作为借口来 justify 他的 staring——他把自己对她的凝视包装成客观的（"line of vision"）、而非主动的（"I'm staring"）。这是他 self-deception 的又一个例子。
 
+**读者视角提示**："你在我视线里"是借口——把凝视包装成客观，self-deception 老套路，识破。
+
 ---
 
 > "I knew you were lying! You hate football, don't you?"
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：I knew you were lying
 
 **为什么这样写**：Sinclair 抓住了 August 的 lying——他们 mutual 知道对方讨厌 football。这个 mutual knowledge 是 attraction 的基础：他们在乎到记住了对方的每个 dislike。
+
+**读者视角提示**：互相知道对方撒谎——记住彼此 dislike 是在乎的副产品，糖里有真心。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的"Deadly"是对 Sinclair "Are you serious?"的回答。这一个词是全章最 powerful 的——它既是威胁（deadly promise）又是承诺（deadly sincere）。
 
+**读者视角提示**：单词回应双关——威胁加承诺叠加，最危险也最动人的一词。
+
 ---
 
 > "Once I get you alone, I'll make you come so hard, you'll see stars."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：make you come so hard you'll see stars
 
 **为什么这样写**：August 的 promise 是 explicit sexual claim——"make you come"是主动的、controlling 的语言。他用"stars"这个 imagery 做了一个 unrealistic promise（性高潮不会真的让人看到星星），说明他在夸大/romanticizing 性。
+
+**读者视角提示**："让你看到星星"是夸张承诺——romanticizing 性的男人，话术和真心对半开。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 的问题"promise"是全章最 charged 的词——她接受了他的 proposal，并要求 confirm。这是她的 consent，也是她的 desire 的表达。
 
+**读者视角提示**："这是承诺吗"是 consent——她接了 proposal，还要了确认，主动权易手一秒。
+
 ---
 
 > "She jumps to her feet and stretches her arms above her head, causing her sweatshirt to rise and show off a slice of her bare stomach."
@@ -98,6 +112,8 @@ modified: "2026-09-12"
 **关键词**：show off a slice of her bare stomach
 
 **为什么这样写**：Sinclair 的 body movement 是全章最 charged 的——她的 action 是对 August "promise"的回应：她用这个动作说"yes"。这是 non-verbal 的 consent，也是欲望的身体化表达。
+
+**读者视角提示**：露出的腹部是非语言 yes——身体替她签字，比嘴快一步。
 
 ---
 
@@ -109,6 +125,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的 arousal 是 physical 的"ache"——他用"ache"（疼痛）而非 pleasure 来描述，这说明 desire 对他来说是一种 pain（无法满足的欲望）。
 
+**读者视角提示**：欲望写成"疼"——得不到的他，痛感即爱感，体会这个倒置。
+
 ---
 
 > "This girl is going to let me do whatever I want to her. And she's going to love every minute of it."
@@ -118,6 +136,8 @@ modified: "2026-09-12"
 **关键词**：let me do whatever I want to her
 
 **为什么这样写**：章末句——August 的 assumption 是全章最 problematic 的一句。它把 Sinclair 的欲望解读为"let me do whatever I want"——这是 predatory 的逻辑，把她的 consent 解读为 unlimited access。他的"she's going to love it"是对她欲望的假设，而非确认。
+
+**读者视角提示**：章末假设最 problematic——把 consent 解读成无限准入，predator 逻辑原形，小心。
 
 ---
 

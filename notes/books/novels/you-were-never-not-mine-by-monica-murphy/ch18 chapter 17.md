@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的内心独白 reveal 了他的 conflict——他想要 tenderness 但他的 ego 不允许。他承认"tempted"说明他不是完全的 psychopath，他的 cruelty 是习得的 defense mechanism。
 
+**读者视角提示**：想温柔又不许——"有点想"是他唯一的柔软，ego 不让，记下这个裂缝。
+
 ---
 
 > "That's because I was eating her out in the women's bathroom," I say drolly.
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：eating her out in the women's bathroom
 
 **为什么这样写**：August 公开在 Tim 面前说出 bathroom encounter——他用言语再次"拥有"了她。他的面无表情（"drolly"）与他的话的严重性形成反差，说明他完全不在乎后果。
+
+**读者视角提示**：当众说出 bathroom——用言语二次"拥有"她，drolly 是冷血的温度。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的"dead serious"是对 Tim"jokester"标签的回应。他明确表示他不是在开玩笑——他真的在 bathroom 和 Sinclair 发生了关系。这暴露了他的 reckless 和 narcissistic disregard for consequences。
 
+**读者视角提示**："我是认真的"——reckless 官宣，不在乎后果的人最危险，也最迷人，两面看。
+
 ---
 
 > "Oh, someone definitely won tonight." I grin at him, enjoying myself.
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：someone definitely won tonight
 
 **为什么这样写**：August 的"someone definitely won"是双关——表面上说 football game，实际上说他自己。他"enjoying"自己赢了 Tim 的无知。这场三角关系对他来说是一场 competition，而他赢了。
+
+**读者视角提示**："今晚有人赢了"双关——球赛和情场双杀，三角竞争里他赢的是 Tim 的无知，胜之不武。
 
 ---
 

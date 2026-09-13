@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：开篇即建立她的 suppression 机制——她有意识地不去想他。这暗示她其实一直在想。
 
+**读者视角提示**："甩出脑子"等于"满脑子都是"——压抑的语法：越说不想，越是想。
+
 ---
 
 > "I dreamed about him Friday night. What might've happened if I'd let him take it further."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：I dreamed about him
 
 **为什么这样写**：尽管她说"pushed all thoughts"，她还是梦到了他——梦是潜意识的活动，reveal 她的真实欲望。她的 suppression 失败了。
+
+**读者视角提示**：梦是压抑的漏勺——白天赶走他，晚上请他回来，诚实得很。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是全书最 explicit 的自慰描写。她通过 thoughts of August 达到性高潮——这是 attraction 的最终身体化证明。
 
+**读者视角提示**：最 explicit 的一幕——她用幻想中的他达到高潮，身体投票结束，全票通过。
+
 ---
 
 > "He's the devil."
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：the devil
 
 **为什么这样写**：她称他为"devil"——这是从"he's Zeus"（ch05）的反转。devil 是诱惑者的象征，她用这个词来合理化自己的欲望。她的"恨"实际上是 attraction 的防御性否认。
+
+**读者视角提示**：从 Zeus 到 devil——神格变魔格，诱惑者总要背锅，欲望的防御性改名。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她在比较 Tim 和 August——Tim 每天出现但没有吸引力，August 只是一夜但却占据了她的 dreams。
 
+**读者视角提示**：Tim 天天在，August 一夜魂——陪伴输给惊心动魄，感情从不按考勤算。
+
 ---
 
 > "You have to be invited in. He has—criteria, is what he calls it."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：criteria
 
 **为什么这样写**：Tim 透露 August 的私人空间有严格限制——这与 August 对 Sinclair 的"criteria"（问年龄、名字）形成呼应，说明 August 对所有人都有防备。
+
+**读者视角提示**：Tim 剧透 August 的"标准"——两个男人用同一个词，说明领地意识是通用货币。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Tim 的话其实是 August 对她说的"I bet I could have you naked and screaming in my bed"的回声——这句话暗示了潜在的控制关系。
 
+**读者视角提示**：Tim 的话是 August 的回声——她听谁都像听他，耳朵已经叛变。
+
 ---
 
 > "I check my phone again, cruising through social media quickly, getting antsy as Tim waits patiently for our drinks."
@@ -99,6 +113,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她的 antsy 不是因为 Tim，而是因为 August——尽管她在与 Tim 约会，她的 attention 还是在 August 那里。
 
+**读者视角提示**：约会时坐立不安——人在 Tim 对面，心在 August 窗外，读出她的身不由己。
+
 ---
 
 > "It’s August."
@@ -108,6 +124,8 @@ modified: "2026-09-12"
 **关键词**：cliffhanger 结尾
 
 **为什么这样写**：单句 cliffhanger 结尾——August 出现在窗外，她的"我对他没兴趣"在那一刻彻底崩塌。这是全章的情感高潮。
+
+**读者视角提示**：单句 cliffhanger——"他来了"三个字推翻整章的"我不在乎"，落地有声。
 
 ---
 

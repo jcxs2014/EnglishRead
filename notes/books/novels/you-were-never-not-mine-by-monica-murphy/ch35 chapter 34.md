@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 的这个问题代表他想要 deeper intimacy——他不只是想 physical connection，他想知道她的 background。这和前面的 physical attraction 不同，代表 emotional interest。
 
+**读者视角提示**：他问家人不是寒暄——从 physical 到 emotional 的升级常常就藏在一句"Tell me about"里。
+
 ---
 
 > "My father had a startup business that took off and they made a bunch of money... now they just spend it on the tackiest stuff."
@@ -39,6 +41,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Sinclair 的"tacky"评价说明她对自己的 wealthy background 有 ambivalence——她 family 的新 money 和她的 Lancaster Prep 背景让她觉得自己不属于这个阶级。她的 embarrassment about Jock Rot 是 self-deprecating 的幽默。
 
+**读者视角提示**："tacky"表面自嘲实则试探——她敢把家底 embarrassing 的部分摊开，等于把"我信你"递了过去。
+
 ---
 
 > "Your dad is the guy who invented Jock Rot."
@@ -48,6 +52,8 @@ modified: "2026-09-12"
 **关键词**：Jock Rot
 
 **为什么这样写**：August 的反应从 snarky 到 impressed——Jock Rot 是 anti-itch cream for athletes，这个 reveal 是全章的高光时刻。他的 snicker 变成认真倾听，说明他能接受她的 embarrassment。
+
+**读者视角提示**：他的 snicker 转认真倾听是关键帧——能接住她的 embarrassment 的人，才配听下一段 vulnerability。
 
 ---
 

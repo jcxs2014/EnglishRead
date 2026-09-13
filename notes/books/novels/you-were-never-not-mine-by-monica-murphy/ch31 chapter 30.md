@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她不后悔说了"stay away from each other"——这句话是 conscious choice，但她的 body reaction（三周后看到他仍然"lit from within"）说明她的 conscious decision 和她的 unconscious desire 在打架。她在骗自己。
 
+**读者视角提示**："but then again, I don't"的转折是嘴硬现场——三周分离的 suppression 成败，下一秒见到他时身体的反应即揭晓。
+
 ---
 
 > "My entire body is lit from within."
@@ -39,15 +41,19 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 attraction 的 somatic 反应——她以为已经 moved on，但 three weeks of absence 后见到他，身体立刻背叛了 conscious mind。她的 suppression 失败了，但她还没有 fully admit it。
 
+**读者视角提示**：四个单词的身体通电——suppression 失败不需要长篇自白，一个"lit"就够了。
+
 ---
 
-> "Sinclair. Hello."
+> "Hello."
 
-**中文理解**："Sinclair。你好。"
+**中文理解**："你好。"（前一句"Sinclair"是叫住她的名字，两句分属两个 speech turn。）
 
 **关键词**：Hello
 
 **为什么这样写**：他的 flat voice 和他的 gaze 的"regret flash"形成对比——他 stop 了 Sinclair，但他不知道该说什么。"Hello"是 empty phrase，揭示他的 vulnerability：他 stop 她是因为他想见她，但他没有准备好面对这个 wanting。
+
+**读者视角提示**："Hello"的贫瘠即是信息——他拦下她却只剩一句招呼，说明想见她先于想好理由；结合前句"Sinclair"的呼唤一起读。
 
 ---
 

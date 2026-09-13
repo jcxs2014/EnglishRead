@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：开篇即用碎片化列表建立他的 hangover shame。这是 August 少见的 vulnerability 时刻——他罕见地评价自己 negatively。
 
+**读者视角提示**：碎片式开篇是宿醉的形状——August 难得的自我差评，vulnerability 限时开放。
+
 ---
 
 > "She had me thinking crazy shit. Like she was the love of my life."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：the love of my life
 
 **为什么这样写**：August 用"love of my life"来描述他对那个女人的痴迷——但他紧接着说"Please"来否认这种感情。这是他抗拒真情的证据。
+
+**读者视角提示**："此生挚爱"配 Please——他越否认越承认，嘴硬文学新案例。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：唇膏留言的内容与他的 expectation（她喜欢他）形成反差——他发现自己被她公开羞辱，但他的反应是笑而不是愤怒。
 
+**读者视角提示**：唇膏留言是她的回礼——被羞辱者反杀羞辱者，攻守易势，鼓掌。
+
 ---
 
 > "I can't help it—I start to laugh."
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：start to laugh
 
 **为什么这样写**：他的 laughter 是全章最引人注目的反应——他被她骂为"complete dick"但他在笑。这说明他其实某种程度上 respect 她的反抗。
+
+**读者视角提示**：被骂还笑——他笑的是她的勇气，respect 藏在笑声里，听出来。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**："Sin"是她的名字的双关——既是"罪恶"也是她的名字。他没有意识到他正在重新找到当年他 torment 的对象。
 
+**读者视角提示**："Sin"是名字也是罪——双关是作者给 CP 的盖章，罪与爱同体。
+
 ---
 
 > "I remember the first day of school and how she stared at me. The slight fear on her face with the defiant curl to her upper lip. Pathetic. Intriguing."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：Pathetic. Intriguing.
 
 **为什么这样写**：August 对她的回忆用了两个截然相反的词——pathetic（他当时对她的评价）和 intriguing（他现在的感受）。这种矛盾是驱力。
+
+**读者视角提示**：可怜加耐人寻味——过去评价和现在感受打架，打架声就是心动。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：August 承认他霸凌她是为了娱乐——他享受她的反应。这是 predator 的心态，他的 identity 没有改变，只是现在他对她有了不同的欲望。
 
+**读者视角提示**：他承认霸凌"因为好玩"——predator 自白，截图存档，赎罪时对照。
+
 ---
 
 > "Flat-chested girls grow up and become gorgeous."
@@ -98,6 +112,8 @@ modified: "2026-09-12"
 **关键词**：Flat-chested girls grow up
 
 **为什么这样写**：August 对她变化的评价是纯粹的物理 attraction——他仍然在物化她，只是从 negative 变成了 positive。
+
+**读者视角提示**：物化从负转正——夸她"长开了"还是物化，别被糖衣骗了。
 
 ---
 
@@ -109,6 +125,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：这是 August 的情感转折点——他意识到自己在她眼中的形象。他的反应不是 remorse 而是 concern for how she sees him。
 
+**读者视角提示**："她一定觉得我是怪物"——他第一次站到她的角度看自己，转折点，标星。
+
 ---
 
 > "You were cruel, August. I’m disappointed in you."
@@ -119,6 +137,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：Arabella 的话让 August 的心"shriveling"——他人在他生活中几乎没有分量，但 Arabella 的 disappointment 刺痛了他。这说明他其实 care about 如何被 perception。
 
+**读者视角提示**：Arabella 的失望让他心缩——全世界只有这句话扎得进他，说明他在乎谁。
+
 ---
 
 > "There’s probably no going back from this."
@@ -128,6 +148,8 @@ modified: "2026-09-12"
 **关键词**：no going back from this
 
 **为什么这样写**：章末句暗示他知道这个 revelations 会改变他与 Sinclair 的关系——他无法假装什么都没发生过。
+
+**读者视角提示**："没有回头路"——他知道真相会改写关系，读者也该系好安全带。
 
 ---
 

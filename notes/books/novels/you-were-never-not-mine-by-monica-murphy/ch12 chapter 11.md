@@ -29,6 +29,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她称没有 August 的一周为"blissful"（幸福的）——但紧接着提到她仍然每晚梦到他，说明她的"呼吸"只是压抑的假象。
 
+**读者视角提示**："幸福的一周"没有他——幸福打引号，因为梦里全是他，反讽品一品。
+
 ---
 
 > "Instead of the usual dream consisting of August going down on me with his hot tongue and sucking lips, only to wake up with my fingers in my panties yet again."
@@ -38,6 +40,8 @@ modified: "2026-09-12"
 **关键词**：dream of August going down on me
 
 **为什么这样写**：她用"Instead of"引入正常的 dream——但"instead of"的内容（August 给她口交）仍然是最真实/desired 的梦。这是 repression 的最佳证据。
+
+**读者视角提示**："不再梦见"后面跟着最 wild 的梦——instead of 是此地无银三百两。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她用"nice"和"appreciates"来形容 Tim——这两个词都是 functional/cognitive 的描述，没有任何 emotional/physical attraction。这是她在说服自己 Tim 是合适的选择。
 
+**读者视角提示**："他人很好"是功能评价——nice 是绝缘词，出现即没电，对照 August 的"带电"读。
+
 ---
 
 > "Are you okay? I ask carefully, wondering if she's having a seizure."
@@ -58,6 +64,8 @@ modified: "2026-09-12"
 **关键词**：seizure
 
 **为什么这样写**：她对 Elise 兴奋的 initial 反应是 clinical 的（seizure）——她不习惯也无法解读强烈的 emotion。这是她 emotional suppression 的另一种形式。
+
+**读者视角提示**：把闺蜜的兴奋当"癫痫"——她读不懂强烈情绪，这是情感压抑的后遗症。
 
 ---
 
@@ -69,6 +77,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她想向 Elise 倾诉 August——但她知道自己"不理解发生了什么"，所以保持沉默。这说明 August 在她心中占据了特殊的、无法言说的位置。
 
+**读者视角提示**：想说 August 又闭嘴——说不出口的人才是放不下的人，定律。
+
 ---
 
 > "I hate football. I don't really care about any sports, if I'm being real with myself."
@@ -78,6 +88,8 @@ modified: "2026-09-12"
 **关键词**：if I'm being real with myself
 
 **为什么这样写**：她对自己承认讨厌运动——但仍然同意去比赛。这说明她愿意为了 Tim（或逃离宿舍的独处）而做违心的事。
+
+**读者视角提示**：讨厌还去——为了 Tim 违心，为了逃避独处，两个动机都心酸。
 
 ---
 
@@ -89,6 +101,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她用 kindergarten metaphor 来形容 Tim 不能直接问她——这揭示了她的 frustration with male passivity，同时也暴露了她自己的 passive aggression（让 Elise 代问）。
 
+**读者视角提示**：传话游戏骂得好——她烦 Tim 不直接，正如她对 August 从不直接，五十步笑百步。
+
 ---
 
 > "Me: You shouldn't be so intimidated by me that you can't ask me to the game."
@@ -99,6 +113,8 @@ modified: "2026-09-12"
 
 **为什么这样写**：她主动出击——直接告诉 Tim 他的 intimidation 是不对的。这种直接的 confrontation style 与她对 August 的 passive avoidance 形成鲜明对比。
 
+**读者视角提示**：她逼 Tim 直接约——对 Tim 她能 healthy communication，对 August 就不行，对比是糖。
+
 ---
 
 > "Tim: Hey, Sinclair. Want to go to the game with me tonight?"
@@ -108,6 +124,8 @@ modified: "2026-09-12"
 **关键词**：proper ask
 
 **为什么这样写**：在 Sinclair 的逼迫下，Tim 终于 proper 地问了她——但这个"proper ask"是因为她逼出来的，不是因为他的自然主动。这为 later 的 attraction 失败埋下伏笔。
+
+**读者视角提示**：逼出来的邀约——proper 是她要的体面，但体面要来的东西不甜，预习失望。
 
 ---
 
