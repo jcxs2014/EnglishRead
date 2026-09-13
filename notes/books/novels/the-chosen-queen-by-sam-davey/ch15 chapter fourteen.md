@@ -31,7 +31,7 @@ modified: "2026-09-13"
 
 **关键词：** destined for greatness, given rarely, for good or ill
 
-**为什么这样写：** Yseult 的判断里埋着一句全书级的谶语：for good or ill（或善或恶）。破折号插入的 do not doubt me 是老先知少见的强调——她见过太多力量，知道力量本身没有道德。这句话与第一章题眼（统治者的幸福被剥夺）构成对位：本书所有"伟大"都标价出售，Morgan 的价签才刚挂出来。"chosen her as a vessel"（被选为器皿）紧随其后——chosen 一词第三次出现，这次的对象是女儿。
+**为什么这样写：** Yseult 的判断里埋着一句全书级的谶语：for good or ill（或善或恶）。破折号插入的 do not doubt me 是老先知少见的强调——她见过太多力量，知道力量本身没有道德。这句话与第一章题眼（统治者的幸福被剥夺）构成对位：本书所有"伟大"都标价出售，Morgan 的价签才刚挂出来。"chosen her as a vessel"（被选为器皿）紧随其后——被选中的对象，从妻子换成了女儿。
 
 **读者视角提示：** 记住"器皿"（vessel）这个词——它是本章对 Morgan 的定性，也是对全书女性的隐喻：Igraine 被选作生育的器皿，Morgan 被选作魔法的器皿。被选中的自由，从来只有接受与否。
 

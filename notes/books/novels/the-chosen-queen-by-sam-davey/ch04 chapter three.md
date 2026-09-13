@@ -21,7 +21,7 @@ modified: "2026-09-13"
 
 **关键词：** the cause of yet another conflict, insult, a rift between, on your conscience
 
-**为什么这样写：** Vivian 的规训全部用公共语法完成：没有一句谈 Igraine 想不想，句句谈"后果由谁承担"——冲突、冒犯、裂痕、良心债。一句 "you little fool"（上句）先羞辱，再五连问把个人意愿淹进国家账本：这恰是全书权力话术的样本——以 Goddess 与和平之名，行摆布之实。对比章首她手上的力道（grip so strong）与嘴上的 "spicy morsel of court gossip" 式伪装，软硬两套工具同时在线。
+**为什么这样写：** Vivian 的规训全部用公共语法完成：没有一句谈 Igraine 想不想，句句谈"后果由谁承担"——冲突、冒犯、裂痕、良心债。一句 "you little fool"（上句）先羞辱，两句质问夹三段后果陈述，把个人意愿淹进国家账本：这恰是全书权力话术的样本——以 Goddess 与和平之名，行摆布之实。对比章首她手上的力道（grip so strong）与嘴上的 "spicy morsel of court gossip" 式伪装，软硬两套工具同时在线。
 
 **读者视角提示：** 注意她给出的出路为零：留下来是唯一选项。当"职责"（duty）成为唯一被承认的语言，Igraine 的婚姻意志从本章起就再没有进入过谈判桌。
 
