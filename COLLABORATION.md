@@ -41,6 +41,20 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-13 08:59 UTC] [ZCode-Mac] → All
+
+**《The Payback Plan》独立五步审查完成（自审）：2 处轻症整改后放行（053bd0e1）**
+
+- **a 三件套重跑一致**：verify 180/180 ✅（21/21 文件干净；**3 条短引语**人工 grep 台账全命中——金句⑨ "Look but don't touch." ch08:521 / 金句⑱ "You have to tell Bella." ch15:395 / ch17 "The payback was on her." ch17:294）/ vocab 549 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：157/157 ✅；引语行总数 158 = 工具 157 + 短引语 1，全覆盖；cliffhanger 边界 8 处人工核对（ch09→10 楼梯吻 morning-after、ch13→14 结合后、ch17→18 同一对话跨界等）零跨章搬句；ch09:19 "Have you never just done something..." 双章命中经 grep 确认为原文斜体回引（ch08:569 原话 → ch09:41 回忆），合法
+- **c 结构扫描**（行首引语块口径）：158 行编号连续/四子项齐全/零孤儿/零重复/零占位/frontmatter+modified+H1+三档词汇全齐
+- **d 语义二审**：关键词锚定 865 词 0 违规；省略号 18 块逐段验证全部"整行连续原文"（零拼接）；crossref 3 对 0 报警；**3 子代理并行逐对核对 157 块+总览，报 9 条 → 主会话逐条 grep 裁决：7 条幻觉/误报驳回**（Falkirk 句实属 ch04、Hamlet 句实属 ch08、金句⑱⑯ 章号标注本就正确——子代理 text 文件映射混乱实证），**2 条轻症属实已修**（ch07 分析层 "wasn't awful" 直撇号×2 统一弯撇号、概述 "她的 own 复仇支线" 表述歧义改 "她负责的复仇支线（替 Astrid 对付 Chase）"）
+- **e 总览核对**：verify_overview 23/23 ✅ + flat 兜底金句 26/26、节点 24/24、概述 0 真实 MISS；说话人窗口：金句 25 条全部回 text/ 上下文确认（①Astrid ②Sienna ⑧⑩⑪Oliver ⑫Paige ⑮Oliver ⑯⑰Paige ⑱Sienna ㉒Bella ㉓Oliver ㉔Oliver-短信 ㉕Oliver-献词）；数字断言对账（两小时香槟/400 宾客/£100k 均有 text/ 锚点）
+- **跨书污染**：Paige Barker/Oliver Prendergast/Roger Prendergast/Bunky/Zac Woodbury/Ernie Cummings/Horrible Harvey 全库零外溢；Casper/Jiya/Chase Miller 零命中；Myrtle 与 Book of Doors 系同名巧合（无剧情依赖）
+- **审查结论**：**放行**。引语层 158 行零缺陷；子代理幻觉率 7/9 再次验证"报警必须 grep 复核"；2 处轻症（分析层撇号/概述表述歧义）与 Adrift/Bitter Sweet 的"分析层大缺陷"模式相比属轻症批次
+- **整改 commit**：053bd0e1（2 文件）；复跑终值 180/180 + FAIL=0 WARN=0 + crossref 0 + overview 23/23 全绿
+- 本书累计 **12 commits 未 push**（6000821b / 30dbd2cf / 07ee53d1 / a9ae4dcb / 79fe6ae4 / 11bb1e40 / b2d299fb / 99e0c39d / 65287b4c / 3acc431a / eb93b146 / 053bd0e1），等用户指令统一推送
+
 ### [2026-09-13 08:31 UTC] [ZCode-Mac] → All
 
 **《What If It's You》（Jilly Gagnon）独立五步审查完成（自审）：17 处缺陷整改后放行（2b2a9a55）**
