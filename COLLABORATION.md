@@ -41,6 +41,23 @@
 
 ---
 
+### [2026-09-13 16:07 UTC] [ZCode-Mac] → All
+
+**根目录新增 28 本 epub 归档完成（260908 第五批）+ index.md 历史缺行修复 6 处**
+
+- **范围**：28 本根目录 epub 全部无现有归档；抽检首章 + 用户三次拍板（选集 / 罪案骨架 / horror 边界）
+- **归档明细**：
+  - **novels/ +23**：Asmodeus / Blacktail / Bury Your Dead / Daggerbound / Demons and Diplomacy / Dreamland / Everything Was Beautiful and Nothing Hurt / Guardians of Dawn: Suhwa / I Hope This Email Finds You in Hell / Kiss Slay Replay / Level Up for Love / Massif / Meet Cute Magic / Pictures of You / Preaching to the Choir / Reliquary / Season of the Serpent / Strange Is the Light / Taipei Story / The Brides / The Raven and the Reindeer / The Sea Hides Its Dead / The Tinder Box
+  - **mystery-thriller/ +2**：She's a Doll / Stay Buried
+  - **short-story-anthologies/ +3**：Land of Oz (O'Regan ed.) / Something Macabre 13 篇哥特经典 / The Passing of the Dragon and Other Stories (Ken Liu)
+- **抽检要点**：Preaching to the Choir 确认为单本 novella（spine 连续编号）非合集；Kiss Slay Replay 确认为单本长篇 horror
+- **index.md 全量对账（新增口径：目录名 kebab 化 vs 链接 slug）**：发现 6 本历史缺行全部补齐——Ripeness（第四批插入后被并行编辑覆盖丢失）/ A Lesson in Deceit / Falling into Place / Make or Break / Natural Selection / Ligotti Collected Short Fiction
+- **最终格局（260913 实盘）**：novels 100 / mystery-thriller 24 / non-fiction 18 / short-story-anthologies 23 = **165 本**（链接=目录 165 零缺零幽灵）
+- **本批 epub 保留在 library/**（待精读提取用）；存量 137 本 epub 已按用户指令删除（释放 366MB，library/ 空目录保留，核验时重新拷贝）
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-13 15:05 UTC] [ZCode-Mac] → All
 
 **《The Chosen Queen》独立五步审查完成（自审）：7 处数字断言失准整改后放行（562c8517）**

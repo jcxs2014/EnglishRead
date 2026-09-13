@@ -15,16 +15,25 @@ title: 书单
 | [A Real Paige Turner](books/novels/a-real-paige-turner-by-michelle-eileen/) | Michelle Eileen |
 | [A Sea of Unspoken Things](books/novels/a-sea-of-unspoken-things-by-adrienne-young/) | Adrienne Young |
 | [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
+| [Asmodeus](books/novels/asmodeus-by-rita-indiana/) | Rita Indiana (trans. Achy Obejas) |
+| [A Lesson in Deceit](books/novels/a-lesson-in-deceit-by-allie-shante/) | Allie Shante |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
 | [An Academic Affair](books/novels/an-academic-affair-by-jodi-mcalister/) | Jodi McAlister |
 | [Alls Fair in Love and Field Hockey](books/novels/alls-fair-in-love-and-field-hockey-by-kit-rosewater/) | Kit Rosewater |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
+| [Blacktail](books/novels/blacktail-by-scott-hawkins/) | Scott Hawkins |
 | [Bitter Sweet](books/novels/bitter-sweet-by-hattie-williams/) | Hattie Williams |
 | [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
+| [Bury Your Dead](books/novels/bury-your-dead-by-ana-paula-maia/) | Ana Paula Maia |
 | [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
+| [Daggerbound](books/novels/daggerbound-by-t-kingfisher/) | T. Kingfisher |
+| [Demons and Diplomacy](books/novels/demons-and-diplomacy-by-megan-frampton/) | Megan Frampton |
+| [Dreamland](books/novels/dreamland-by-olivie-blake/) | Olivie Blake |
 | [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
 | [Eliza, from Scratch](books/novels/eliza-from-scratch-by-sophia-lee/) | Sophia Lee |
 | [Everything Is Fine Here](books/novels/everything-is-fine-here-by-iryn-tushabe/) | Iryn Tushabe |
+| [Everything Was Beautiful and Nothing Hurt](books/novels/everything-was-beautiful-and-nothing-hurt-by-ben-reeves/) | Ben Reeves |
+| [Falling into Place](books/novels/falling-into-place-by-allison-ashley/) | Allison Ashley |
 | [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
 | [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
@@ -32,30 +41,44 @@ title: 书单
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
 | [Flesh](books/novels/flesh-by-david-szalay/) | David Szalay |
 | [Getaway Girl](books/novels/getaway-girl-by-tessa-bailey/) | Tessa Bailey |
+| [Guardians of Dawn: Suhwa](books/novels/guardians-of-dawn-suhwa-by-s-jae-jones/) | S. Jae-Jones |
 | [Golden Boy](books/novels/golden-boy-by-a-j-symon/) | A.J. Symon |
 | [Helm](books/novels/helm-by-sarah-hall/) | Sarah Hall |
 | [How to Tell a True Story](books/novels/how-to-tell-a-true-story-by-tricia-springstubb/) | Tricia Springstubb |
+| [I Hope This Email Finds You in Hell](books/novels/i-hope-this-email-finds-you-in-hell-by-mackenzie-reed/) | Mackenzie Reed |
 | [In a Heartbeat](books/novels/in-a-heartbeat-by-ali-novak/) | Ali Novak |
 | [Inverno](books/novels/inverno-by-cynthia-zarin/) | Cynthia Zarin |
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
+| [Kiss Slay Replay](books/novels/kiss-slay-replay-by-rachel-harrison/) | Rachel Harrison |
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
 | [Lady of The Lake](books/novels/lady-of-the-lake-by-c-n-crawford-and-alex-rivers/) | C.N. Crawford & Alex Rivers |
+| [Level Up for Love](books/novels/level-up-for-love-by-lenora-woods/) | Lenora Woods |
 | [Lonely Mouth](books/novels/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
 | [Love Sick](books/novels/love-sick-by-deidra-duncan/) | Deidra Duncan |
+| [Make or Break](books/novels/make-or-break-by-e-j-noyes/) | E.J. Noyes |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
+| [Massif](books/novels/massif-by-garth-nix/) | Garth Nix |
 | [Memories Like Fangs](books/novels/memories-like-fangs-by-chelsey-j-leon/) | Chelsey J. León |
+| [Meet Cute Magic](books/novels/meet-cute-magic-by-morgan-elizabeth/) | Morgan Elizabeth |
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
+| [Reliquary](books/novels/reliquary-by-hannah-whitten/) | Hannah Whitten |
 | [Ripeness](books/novels/ripeness-by-sarah-moss/) | Sarah Moss |
 | [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
 | [Perfection](books/novels/perfection-by-vincenzo-latronico/) | Vincenzo Latronico |
+| [Pictures of You](books/novels/pictures-of-you-by-josh-malerman/) | Josh Malerman |
+| [Preaching to the Choir](books/novels/preaching-to-the-choir-by-adrian-tchaikovsky/) | Adrian Tchaikovsky |
 | [Rookie Season](books/novels/rookie-season-by-leah-brunner/) | Leah Brunner |
+| [Season of the Serpent](books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/) | Suyi Davies Okungbowa |
+| [Strange Is the Light](books/novels/strange-is-the-light-by-sarah-maria-griffin/) | Sarah Maria Griffin |
+| [Taipei Story](books/novels/taipei-story-by-r-f-kuang/) | R.F. Kuang |
 | [The Afterdark](books/novels/the-afterdark-by-e-latimer/) | E. Latimer |
 | [The Book of Doors](books/novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown |
 | [The Book of Heartbreak](books/novels/the-book-of-heartbreak-by-ova-ceren/) | Ova Ceren |
+| [The Brides](books/novels/the-brides-by-charlotte-cross/) | Charlotte Cross |
 | [The Bucket List](books/novels/the-bucket-list-by-ali-parker/) | Ali Parker |
 | [The Burial Witch](books/novels/the-burial-witch-by-cari-thomas/) | Cari Thomas |
 | [The Butcher of the Forest](books/novels/the-butcher-of-the-forest-by-premee-mohamed/) | Premee Mohamed |
@@ -68,10 +91,13 @@ title: 书单
 | [The Last Thing](books/novels/the-last-thing-by-bethany-monaco-smith/) | Bethany Monaco Smith |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
 | [The Payback Plan](books/novels/the-payback-plan-by-amy-andrews/) | Amy Andrews |
+| [The Raven and the Reindeer](books/novels/the-raven-and-the-reindeer-by-t-kingfisher/) | T. Kingfisher |
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
 | [The Runaway Duchess](books/novels/the-runaway-duchess-by-alda-kazmierczak/) | Alda Kazmierczak |
+| [The Sea Hides Its Dead](books/novels/the-sea-hides-its-dead-by-megan-bontrager/) | Megan Bontrager |
 | [The Sweet Chef](books/novels/the-sweet-chef-and-the-corporate-queen-by-susanne-ash/) | Susanne Ash |
+| [The Tinder Box](books/novels/the-tinder-box-by-m-r-carey/) | M.R. Carey |
 | [Things We Fake](books/novels/things-we-fake-by-melinda-de-ross/) | Melinda De Ross |
 | [Things We Never Got Over](books/novels/things-we-never-got-over-by-lucy-score/) | Lucy Score |
 | [This Thing Between Us](books/novels/this-thing-between-us-by-gus-morales/) | Gus Morales |
@@ -99,6 +125,8 @@ title: 书单
 | [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
 | [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
 | [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
+| [She's a Doll](books/mystery-thriller/shes-a-doll-by-barbara-truelove/) | Barbara Truelove |
+| [Stay Buried](books/mystery-thriller/stay-buried-by-jennifer-mcmahon/) | Jennifer McMahon |
 | [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
 | [One by One](books/mystery-thriller/one-by-one-by-j-l-brooks/) | J.L. Brooks |
 | [The Art of a Lie](books/mystery-thriller/the-art-of-a-lie-by-laura-shepherd/) | Laura Shepherd |
@@ -150,10 +178,13 @@ title: 书单
 | [Empty Bottles Full of Stories](books/short-story-anthologies/empty-bottles-full-of-stories-by-r-h-sin/) | R.H. Sin |
 | [Good and Evil and Other Stories](books/short-story-anthologies/good-and-evil-and-other-stories-by-samanta-schweblin/) | Samanta Schweblin |
 | [If You See Me Don't Say Hi](books/short-story-anthologies/if-you-see-me-dont-say-hi-by-neel-patel/) | Neel Patel |
-| [Ligotti Collected Short Fiction](books/short-story-anthologies/ligotti-collected-short-fiction/) | — |
+| [Land of Oz](books/short-story-anthologies/land-of-oz-by-marie-oregan/) | Marie O'Regan (ed.) |
+| [Ligotti Collected Short Fiction](books/short-story-anthologies/ligotti-collected-short-fiction/) | Thomas Ligotti |
 | [Nabokov's Dozen](books/short-story-anthologies/nabokovs-dozen-by-vladimir-nabokov/) | Vladimir Nabokov |
 | [Seven Stories for a Summer Afternoon](books/short-story-anthologies/seven-stories-for-a-summer-afternoon-by-loes-jossy/) | Loes Jossy |
+| [Something Macabre](books/short-story-anthologies/something-macabre-by-arthur-short/) | Arthur Short |
 | [Tales of Terror](books/short-story-anthologies/tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense/) | — |
+| [The Passing of the Dragon](books/short-story-anthologies/the-passing-of-the-dragon-by-ken-liu/) | Ken Liu |
 | [The Best Short Stories 2024](books/short-story-anthologies/the-best-short-stories-2024-by-o-henry-prize/) | O. Henry Prize |
 | [The Isolationist and Other Stories](books/short-story-anthologies/the-isolationist-and-other-stories-by-v-m-harrigan/) | V.M. Harrigan |
 | [The Secret Lives of Church Ladies](books/short-story-anthologies/the-secret-lives-of-church-ladies/) | — |
