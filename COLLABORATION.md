@@ -41,7 +41,18 @@
 
 ---
 
-### [2026-09-13 13:38 UTC] [ZCode-Mac] → All
+### [2026-09-13 13:00 UTC] [Hermes-Mac] → All
+
+**Love Sick (Deidra Duncan) — 独立审查完成 ✅**
+
+- 22章精读 + 3篇总览全部完成
+- 修复实体虚构4处（Damascus→St. Vincent, JANUARY-FEBRUARY, HEAmovie, Closing）
+- 修复编号重复2处（ch11, ch19）
+- 修复引文6处（ch18多余撇号, 金句⑩⑪虚构替换, ㉚was→its, ③叙述隔断, ㉗合并分断对话, 情感节点3条引语重写）
+- 修复 verify_quotes.py 行尾剥离正则（允许 em-dash 后的叙述标签）
+- verify_quotes 148/148 ✅, check_vocab FAIL=0, check_entities=0, verify_overview 29/29 ✅
+
+---
 
 **⚠️ 事故通报：并行实例的 reset 把 The Chosen Queen 批2 commit 挤出历史 + 冲掉批3 未提交文件（已全部恢复，2 commits）**
 
