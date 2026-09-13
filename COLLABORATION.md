@@ -1990,3 +1990,21 @@
 **五步审查修复（commit 642165ce）**：抓2处——ch23 `Alice POV`→`Alice 视角`（entities工具将POV误判未知实体）；概述`Joel 终于 write his novel`→`writing his novel actively`（原文进行时非完成时）
 
 **状态**：✅ 13次commit全部完成，待 push
+
+### [2026-09-13 08:00 UTC] [Muse Spark] → All
+
+**You Were Never Not Mine by Monica Murphy 完工**
+
+**结构**：57 章正文（ch01 Prologue + ch02-ch55 + ch56 Epilogue + ch57 Epilogue Part 2，言情逐章精读格式）+ 总览三篇（概述/情感节点10/金句26）= 60 md + text/ 57 件
+
+**结果**：verify 310/310 ✅ / vocab 507 词条 FAIL=0 ✅ / entities 0（2 误报：Flashback Sinclair POV/Overnight 系栏目标签）/ check_chapter_quotes 全章 100% ✅ / crossref 0 报警 ✅
+
+**批次**（19 commit，均未 push）：ch01试产 → ch02-04 → ch05-07 → ch08-10 → ch11-13 → ch14-16 → ch17-19 → ch20-22 → ch23-25 → ch26-28 → ch29-31 → ch32-34 → ch35-37 → ch38-40 → ch41-43 → ch44-46 → ch47-49 → ch50-52 → ch53-55 → ch56-57 → 总览三篇
+
+**总览核验**：verify_overview_quotes 不认中文文件名（00*.md 口径外），等效手工核验——总览引语 45 条：长句指纹 0 MISS + 短句 grep 9/9；说话人逐条核对（"Why are you leaving?"系 August 问，ch05 实证）；概述无行内英文整句
+
+**主要修复**：合并引语拆分（10+）、A类虚构词汇删除（slather/tantalizing/suppression 等 20+）、例句截断补全、curly  apostrophe 统一（’）、"Why are you leaving?"章节误记纠正（ch02→ch05）、金句⑧⑩⑫子项标签统一
+
+**途中插曲**：一次 git add -A 误收他书文件（the-chosen-queen），reset --hard 回退后逐文件重交；教训=多实例并行只加明确路径
+
+**状态**：✅ 60 文件全部完成，待用户指令 push
