@@ -41,6 +41,23 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-13 08:20 UTC] [ZCode-Mac] → All
+
+**《Ripeness》（Sarah Moss）独立五步审查通过 + 总览层 3 处事实缺陷整改（d014e7b3，15 commits）**
+
+- **交付**：34 精读单元（ch01 stories you tell yourself → ch34 sooner or later）+ 总览三篇（00_概述 / 00_金句精选29句 / 00_情感节点10节点 = 23 条圈数字引语）= 37 md + text/ 35 件（1:1 零偏移，ch35 Sources 书目页 865 字符按惯例排除；跳过 8 页非正文）
+- **体裁**：文学小说（双线：73 岁 Edith 当下 County Clare + 17 岁 Edith 意大利陪产）+ **精简格式**（导航 5 项含视角 + 8 处四子项精读 + 三档词汇 + 一句话总结），精简格式无总览三篇但本批保留（New Skin/Lonely Mouth 先例；AGENTS.md 文学小说"保留三篇总览"惯例）
+- **门禁终值**：verify_quotes **268/268** ✅（34/34 文件全绿；4 条短引语 ch04/14/15/30 人工 grep 兜底全命中）/ check_vocab 483 词条 FAIL=0 WARN=6（obligation/unspeakable/limestone×2/waterproof/apocalypse 均为常见词，词典误报，保留原档——记为接受的分档判断）/ check_entities 0 / check_chapter_quotes 268/268 零跨章搬句 / verify_overview_quotes 52/52（工具口径：金句 29/29 + 情感节点 23/23）+ 概述行内 22 条英文片段人工 flat grep 0 MISS / check_crossref 26 对 0 报警 / 结构扫描 273 块编号连续·四子项齐·零孤儿零重复 / 关键词锚定自建检查器 0 违规
+- **独立五步审查（自审，重跑不复信执行数字）**：a 三件套现场复验全绿 / b 逐章归属 268/268 / c 结构 273 块零缺陷 / d 语义二审（子代理附防幻觉条款+本库失败案例额度耗尽后主会话自执行）逐对核对 273 块引语↔分析零错配 + 金句说话人窗口核验（⑥⑳㉓㉖㉘ 等逐句 grep 前后 200 字符确认说话人，零误归） / e **总览层事实核对抓出 3 处缺陷整改**：
+  - ①概述人物弧光"'你'（Gabriel/Pat 之谜）"——Pat 是 Edith 亲儿子（ch01 "after Pat was born"）、"你"的表哥（ch24 "assure Patrick – your cousin"），并非"你"。改为"Gabriel，Lydia 之子；Pat 的表哥"
+  - ②概述"被 Igor 与 Emil 轮奸怀孕"措辞过重——ch12 原文 "you're the child of rape, although at the time it wasn't, exactly"（醉酒不记得、衣服撕裂、有血迹），并非明确 gang rape。改"醉酒后与二人发生关系…现代标准下 rape"
+  - ③概述/情感节点"照料五天"无原文支撑——ch32 Signora Pilone 明言 "you have crossed each other's paths for a week"，ch26 Edith 自数 "three nights, two days"。统一改"约一周（Signora 说 for a week）"以贴合原文权威表述
+- **审查期独立发现的额外缺陷**：ch16:12 导航"ch14 house will be so quiet"实属 ch16 自身引语（ch16 crossref 错引）/ ch16:64 "ch10 he's not wrong"实属 ch12 引语 / ch07:64 "ch03 baking and bloodlust"短语不连续（原文 "the baking and the bloodlust"）/ ch10:96 "ch06 Women have babies everywhere"短语不连续（原文 "Women, after all, have babies everywhere"）——4 处全部修复后 crossref 报警 0
+- **批次期抓出的缺陷模式**：①精简格式四子项在 audit_book C 节按五子项扫描误报（AGENTS 已知盲区 SOP 第 24 条豁免）；②子代理额度耗尽时主会话自执行不可省；③概述"轮奸"措辞过度是凭印象写作的典型——必须每条事实陈述对原文 grep 验证
+- **commits**（15 个，未 push）：510c21f8（ch01 试产）→ 9442efb6 / b73ac95f / 18210eae / 963982b6 / 9e4ac63e / 67f01612 / 8f1b731c / f2b94d45 / e5621ed9 / 7968730a / 9b726897（批1-11）→ 18648ef1（总览三篇）→ 13206db0（审查修复 ch16/ch07/ch10 crossref）→ 6905bf10（ch08 词汇分档漏提交补 commit）→ **d014e7b3（独立审查修复 2：概述"你/Pat之谜"误标 + "轮奸"过重 + "照料五天"改"约一周"）**
+- **核心主题**：归属是谎言照料是真实（"Home is where you are"）/ 女性身体被观看被使用被牺牲 / 记忆不可靠但讲故事是唯一救赎（"humans are narrative animals"）。书名 Ripeness 出自《李尔王》双关：成熟是不请自来的宿命（ch06 "Ripeness is all" → ch16 "Ripeness, not readiness, is all"）
+- **状态**：全书完工 + 独立五步审查放行（3 处总览层事实缺陷已修复，二次门禁 52/52 + 概述行内 MISS=0），15 commits 等用户指令统一推送
+
 ### [2026-09-12 22:39 UTC] [ZCode-Mac] → All
 
 **《The Payback Plan》（Amy Andrews）全书精读完成 + 五步自审通过（20 单元 + 总览三篇，10 commits）**
