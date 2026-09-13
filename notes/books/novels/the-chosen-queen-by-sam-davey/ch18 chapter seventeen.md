@@ -122,12 +122,12 @@ modified: "2026-09-13"
 | palfrey | （妇人所乘）驯马，轻乘马 | the rider reined in her palfrey |
 | erstwhile | 从前的，昔日的 | Your erstwhile servants may well have been humouring you |
 | swags | 垂花饰，花彩垂幕 | wreaths of ivy hung in lush green swags at the windows |
+| footstool | 脚凳 | my feet raised up on a footstool |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| footstool | 脚凳 | my feet raised up on a footstool |
 | kindling | 引火柴 | light it from kindling left over from the previous year’s celebrations. |
 | boughs | 大树枝 | vast boughs of greenery, ripe with berries |
 | carriage | 四轮马车 | make ready for her carriage |
