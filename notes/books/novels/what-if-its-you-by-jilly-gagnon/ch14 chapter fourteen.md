@@ -51,7 +51,7 @@ modified: "2026-09-12"
 
 **关键词**：supposed to be / No, forget that
 
-**为什么这样写**：上一句她说"这不是我该在一起的人"，紧接着自我纠正——把"选错人"升级成"做错自己"。作者用两段式的修正模拟她脑内的天平归零：问题从来不在 Drew 身上，在于她把自己塞进了哪套生活。supposed to be 第三次出现，每次都离婚姻更远、离自己更近。
+**为什么这样写**：上一句她说"这不是我该在一起的人"，紧接着自我纠正——把"选错人"升级成"做错自己"。作者用两段式的修正模拟她脑内的天平归零：问题从来不在 Drew 身上，在于她把自己塞进了哪套生活。supposed to be 一词贯穿全书，每次出现都离婚姻更远、离自己更近。
 
 **读者视角提示**：这是全书主题句的完成时——从 ch09 "where he was supposed to be, where I was supposed to be"（位置）到本句（身份）。她的归途因此不再是"回到谁身边"，而是"回到自己"。
 
@@ -61,7 +61,7 @@ modified: "2026-09-12"
 
 **关键词**：perfectly appointed / so very, very alone
 
-**为什么这样写**：perfectly appointed（精装到位）与 hollow（空）拼在同一间屋子里——室内设计杂志式的语言配上三连的 very。作者让孤独被数量词放大到失真：身边有人，人生无帧。这是 World D 诱惑的官方死亡证明。
+**为什么这样写**：perfectly appointed（精装到位）与 hollow（空）拼在同一间屋子里——室内设计杂志式的语言配上两声 very 的叠用。作者让孤独被数量词放大到失真：身边有人，人生无帧。这是 World D 诱惑的官方死亡证明。
 
 **读者视角提示**：注意"man of my daydreams"用的是 daydream 而非 dream——梦里的丈夫仍然只能活在白日梦里。占有他的身体容易，占有这份关系从来不是选项。
 
@@ -135,7 +135,7 @@ modified: "2026-09-12"
 | fridge | 冰箱 | I arranged our smattering of groceries in the expansive, half-empty fridge |
 | toaster | 烤面包机 | Drew simply nodded, already moving toward the toaster |
 | robe | 浴袍 | I hopped out of bed and snagged a robe from the back of the bathroom door |
-| flight | 航班 | "No, can’t…Flight’s at eleven." |
+| flight | 航班 | "Flight’s at eleven." |
 
 ## 一句话总结
 

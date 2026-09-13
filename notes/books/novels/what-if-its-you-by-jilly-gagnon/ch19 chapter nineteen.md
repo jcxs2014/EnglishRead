@@ -41,7 +41,7 @@ modified: "2026-09-12"
 
 **关键词**：lied / It’s what I want
 
-**为什么这样写**：全书最短的谎言，两个单词外加一个动作注解（I lied 的作者旁白）。作者让谎言以如此小的体积存在，是为了衬托它承载的重量：她要用一句假话启动一套可能杀死自己的方案，只为给 Ollie 赎回被她偷走的未来。这是全书道德压力的峰值时刻。
+**为什么这样写**：全书最短的谎言，一个单词外加一个动作注解（I lied 的作者旁白）。作者让谎言以如此小的体积存在，是为了衬托它承载的重量：她要用一句假话启动一套可能杀死自己的方案，只为给 Ollie 赎回被她偷走的未来。这是全书道德压力的峰值时刻。
 
 **读者视角提示**：注意这是她对 Drew 的第二次隐瞒结构反转——上次她瞒的是"我不属于这里"，这次瞒的是"我愿意留下"。两次谎言都指向同一个事实：她真正想要的，是不能说出口的那一个。
 
@@ -118,7 +118,7 @@ modified: "2026-09-12"
 |------|------|------|
 | no dice | 没戏、不奏效 | "It seemed like Martin was on to something…but so far, no dice." |
 | preamble | 开场白、铺垫 | "Hey, everything okay?" he said, no preamble. |
-| steeling | 鼓足勇气、咬紧牙关 | I tensed my stomach muscles, steeling myself for what came next |
+| steeling | 鼓足勇气、咬紧牙关 | tensed my stomach muscles, steeling myself for what came next |
 | bicker | 拌嘴、斗嘴 | "It didn’t necessarily mean we bickered that readily…right?" |
 | slot into place | 归位、对上榫 | I licked my lips as puzzle pieces started to slot into place. |
 | full deck | （not playing with a ~）头脑不在线 | Until now, no one had been playing with a full deck |

@@ -104,7 +104,7 @@ modified: "2026-09-12"
 | riot | 缤纷杂乱、一片（ curls a riot 卷发如闹翻） | dark eyes heavy with sleep, curls a riot on the pillow |
 | jadedness | 疲惫的幻灭感、心灰 | That jadedness, giving up on even the possibility that his dreams could ever succeed |
 | abscess | 脓疮 | so constantly that it opened up an abscess in the right now? |
-| preternaturally | 超乎寻常地 | his thumb and forefinger started circling each other rhythmically, the rest of his body preternaturally still |
+| preternaturally | 超乎寻常地 | His thumb and forefinger started circling each other rhythmically, endlessly, the rest of his body preternaturally still |
 | accordioned | （脸）像手风琴一样皱缩起来 | Ollie’s face accordioned, gaze drifting to the ceiling |
 | embryonic | 胚胎期的、极早期的 | it’s still way too embryonic to even start laying down tracks |
 | soundscape | 音景、声音图景 | I can already envision the soundscape it would need |

@@ -43,7 +43,7 @@ modified: "2026-09-12"
 
 **为什么这样写**：她以为自己在过去，日期却落在"明天"——一句话同时完成世界观反转和叙事陷阱的收口。作者让 Drew 用平静的语调念出这串日期，信息量是灾难级的，语气却是日常的，这个落差就是"平行现实"的恐怖所在。
 
-**读者视角提示**：九月十九意味着这边的时间只比她的世界快一晚——Ollie 此刻正醒来发现她不见了。读者可以同时挂两条倒计时：她怎么回去 / Ollie 怎么疯。
+**读者视角提示**：九月十九意味着这边的时间只比她的世界快一晚——两边的时钟几乎同步，体验密度却天差地别。这个不对等是全书每一次“接不上话”的根源（ch09 的“二十分钟前”会把它钉死）。
 
 > **原句 4:** "I looked mostly the same—the pale skin of an inveterate indoor kid, the hooded blue eyes so like my mother’s—except for the severe dark bob framing my face."
 

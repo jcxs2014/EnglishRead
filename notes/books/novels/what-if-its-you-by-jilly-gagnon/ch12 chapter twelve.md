@@ -51,7 +51,7 @@ modified: "2026-09-12"
 
 **关键词**：unfulfilled / blow up
 
-**为什么这样写**：妈妈出轨的事实第一次以最粗粝的方式落地——不是叙述，是她内心的怒吼。blow up your—and my—life 里那对破折号是全章最痛的语法：她把自己也算进爆炸半径。愤怒越具体，越说明她从未处理过它。
+**为什么这样写**：妈妈出轨的事实第一次以最粗粝的方式落地——不是叙述，是她内心的怒吼。——不是叙述，是她内心的怒吼。blow up your—and my—life 里那对破折号是全章最痛的语法：她把自己也算进爆炸半径。愤怒越具体，越说明她从未处理过它。
 
 **读者视角提示**：这段与上一段的共情只隔了一个段落——恨与理解在她体内是邻居不是对头。记住这种并存状态：结局里她对 Ollie/Drew 的最终态度，用的也是同一套"既懂又恨"的语法。
 
@@ -124,7 +124,7 @@ modified: "2026-09-12"
 | suspended | 悬挑的、悬空的 | The suspended walkways and conference rooms and offices |
 | keen | （英式）热切的、很想的 | "Henry made it sound like you were keen to chat?" |
 | unfazed | 不为所动的 | She seemed unfazed. |
-| penetrating | 锐利洞察的 | Her gaze was so penetrating, it was hard not to wonder what she might do with this |
+| penetrating | 锐利洞察的 | Her gaze was so penetrating, it was hard not to wonder…what she might do with this |
 | haltingly | 结结巴巴地、断续地 | Haltingly, I gave her a brief recap of what had been happening |
 
 ### ⭐ 基础
