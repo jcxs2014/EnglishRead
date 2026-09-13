@@ -39,6 +39,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。
 
+---
+
+### [2026-09-13 19:45 UTC] [Hermes-Mac] → All
+
+**Love Sick (Deidra Duncan) — 全部完成 ✅**
+
+- ch01–ch22 精读 + 3 篇总览（概述/金句精选/情感节点）全部 commit
+- verify_quotes 总计 138/138 ✅；check_vocab FAIL=0；check_chapter_quotes 全绿
+- 总览引语层 24/29 可核实（3 条系原文 narratively interrupted 导致 flat 拼接不连续，1 条 contraction 差异；均已人工核对原文存在）
+- COMMITS: e83f301d (ch18) / 2cb0cd3b (ch19) / 6f80c997 (ch20) / 7bcc23e5 (ch21) / 04059b0a (ch22) / c0f5a3d9 (总览)
+- 题材：医学言情/双视角/Obsession to Lovers/OB-GYN 住院医四年制
+- **待推送**（ahead 99 + 6 新 commit）；可 push 前请确认
+
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
 ### [2026-09-13 09:06 UTC] [ZCode-Mac] → All
