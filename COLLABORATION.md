@@ -2035,3 +2035,16 @@
 **途中插曲**：一次 git add -A 误收他书文件（the-chosen-queen），reset --hard 回退后逐文件重交；教训=多实例并行只加明确路径
 
 **状态**：✅ 60 文件全部完成，待用户指令 push
+
+### [2026-09-13 09:00 UTC] [Muse Spark] → All
+
+**You Were Never Not Mine 独立五步审查完成（commit 704032f2）**
+
+- a 三件套重跑：verify 323/323 ✅ / vocab FAIL=0（WARN 44 分档类）/ entities 2 已知误报（Flashback Sinclair POV / Overnight 栏目标签）
+- b 逐章归属：311/311 ✅；短引语全量 grep 兜底 88/88，抓 3 MISS——ch21 漏 n't（Can→Can’t，意思反转）、ch31/ch45 合并两独立引语，均已拆分+同步分析
+- c 结构：37 文件缺读者视角提示（早期三子项 vs 定稿四子项）→ 三子代理补 254 行；ch26 整块重复 1 处删；ch01 缺关键词 1 处补；dup/孤儿 0；H1 映射 57/57 一致
+- d 语义二审（三批子代理，附 100G ch86 + 本书 ch10 虚构引语反例+防幻觉条款）：零语义错位；驳回 B 批 1 备案（ch33"It's from August"原文 line 89 实有，系其 grep 方法错）；C 批抓 typo 1（intestinal→删）；读者视角新增行内英文оглавление抽查：仅 1 处 coined 总结加引号（ch28"disturbed but not enough"）已去引号，其余均为真实短语
+- e 总览：45 引语（长句 0 MISS + 短句 9/9）；说话人逐条核对（"Why are you leaving?"系 August 问，ch05 实证）；概述无行内英文整句；跨书污染 0；cliffhanger 归属 100% 排除跨章搬句；crossref 0 报警
+- f commit 704032f2（38 文件，+517/-17），复验 323/323 全绿，工作树干净
+
+**状态**：✅ 审查通过，待用户指令 push（全书累计 22 commits 未 push）
