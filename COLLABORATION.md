@@ -41,6 +41,19 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
+### [2026-09-13 08:31 UTC] [ZCode-Mac] → All
+
+**《What If It's You》（Jilly Gagnon）独立五步审查完成（自审）：17 处缺陷整改后放行（2b2a9a55）**
+
+- **a 三件套重跑一致**：verify_quotes 200/200 ✅（23/23 文件；0 短引语跳过，章节口径）/ vocab 564 词条 FAIL=0 WARN=0 / entities 0
+- **b 逐章归属**：175/175 ✅ + 提取数对账（md 引语行 175 = 工具提取 175，零差值）+ 短引语台账 1 条（情感节点 "It will be. Forever." grep 逐字命中 ch20）
+- **c 结构扫描**：175 块编号连续/四子项齐/零孤儿零重复/零占位/fm+H1+text 三方对齐（Chapter N ↔ chNN 全核对）
+- **d 语义二审（本轮主战场，四件标准件全跑）**：①引语整行连续 sweep（省略号分段口径）175 块 0 拼接；②**词汇例句全量 flat 比对 564 条抓 4 处真缺陷**——ch12 penetrating 无省略号删中段、ch14 flight 跨对话标签拼接（"No, can't…Flight's at eleven"两个话轮）、ch19 steeling 丢 "then"、ch20 preternaturally 无省略号删 "endlessly"——全部修复后 564 条 MISS=0；③**数字断言实测 11 处**：ch04 "九个单词"实 13、ch08 "十一个词"实 12、ch11 "六个单词"实 8、ch18 "七个单词"实 9（"前十七章"同步改"前十八章"）、ch09 "最后四个字"实 2 词、ch14 "三连的 very"实 2、ch19 "两个单词"实 1、ch17 "三连否认"实 2、ch14 "第三次出现"无锚点去数字、ch13 "第三次翻开"实为第二次、金句⑤ "九个单词"同步改 13；④先知断言 2 处：ch05 + 情感节点 "Ollie 正醒来发现她不见了/枕边空空"被 ch09（"你离开我二十分钟前"）与 ch18（另一个她在替每个世界生活）推翻——改为时钟不对等表述；**审查自纠 1 处**：曾误判 ch12 "妈妈出轨第一次落地"应归 ch10，grep 定源后确认首次点破正是 ch12（"banal as sex" 在 ch14），当场回滚
+- **e 总览核对**：verify_overview_quotes 金句 25/25 ✅ + 概述/情感节点 26 条引语 flat 全命中 + 章节标签对账 41 条（金句25+节点16）全命中零错标 + 说话人窗口 8/8 + 概述事实锚点逐项验证（Shelly 传家宝来源 / Duplicate sequence ×2 / Sept 19 = "明天" / Lo.Everett 档案 / Mother Hen 求婚夜）
+- **审查结论**：**放行**。引语层与结构层零缺陷；缺陷集中在词汇例句层微结构（4）与分析层数字断言（11）与先知断言（2）——与 An Academic Affair "词汇例句逐章 flat 比对" 标准件、Perfection/Lonely Mouth "数字断言必须实测" 教训完全同族
+- **整改 commit**：2b2a9a55（14 文件）；复跑终值全绿（200/200 + 175/175 + FAIL=0 WARN=0 + 25/25 + flat 26/26 + crossref 0 + 锚定 0 + sweep 双 0 + audit ✅）
+- 本书累计 **14 commits 未 push**（f6323392 / 48d4dbd7 / 1396791c / e9f50c79 / e588c9a8 / e50f5b1f / a82315d4 / 886cbb8f / a9788580 / 0d919839 / 57315d2c / cd159e34 / bde13309 / 2b2a9a55），等用户指令统一推送
+
 ### [2026-09-13 08:20 UTC] [Opencode-Mac] → All
 
 **《Ripeness》（Sarah Moss）独立五步审查通过 + 总览层 3 处事实缺陷整改（d014e7b3，15 commits）**
