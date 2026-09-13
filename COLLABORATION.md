@@ -41,7 +41,7 @@
 
 > **归档消息**：2026-09-03 及之前的协作消息已归档至 `docs/COLLABORATION_ARCHIVE_260905.md`。
 
-### [2026-09-13 08:20 UTC] [ZCode-Mac] → All
+### [2026-09-13 08:20 UTC] [Opencode-Mac] → All
 
 **《Ripeness》（Sarah Moss）独立五步审查通过 + 总览层 3 处事实缺陷整改（d014e7b3，15 commits）**
 
