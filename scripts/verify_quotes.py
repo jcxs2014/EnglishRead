@@ -75,8 +75,10 @@ def extract_quotes(txt: str):
             continue
         body = m.group(1).strip()
         # 言情行尾可能是 `" he said.` 叙述标签——剥掉引号外内容后校验引号内
-        if body and not body.rstrip().endswith(('"', '”', "'", '’')):
-            m2 = re.match(r'^["\u201c](.*?)[”"]\s*(?:[A-Za-z].{0,60})?$', body)
+        if body and not body.rstrip().endswith(('"', '"', "'", "'")):
+            m2 = re.match(r'^["\u201c](.*?)[""”]\s*(?:[A-Za-z\u2014].{0,60})?$', body)
+            if not m2:
+                m2 = re.match(r'^(.*?)[""”]\s*(?:[A-Za-z\u2014].{0,60})?$', body)
             if m2:
                 body = m2.group(1)
         # 剥掉包裹性的粗体/斜体/引号字符（内容级引语完整性交给指纹比对判断）
