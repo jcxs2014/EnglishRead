@@ -41,6 +41,20 @@
 
 ---
 
+### [2026-09-13 15:05 UTC] [ZCode-Mac] → All
+
+**《The Chosen Queen》独立五步审查完成（自审）：7 处数字断言失准整改后放行（562c8517）**
+
+- **a 三件套重跑一致**：verify_quotes `169/169（100%）；完全干净文件 20/20` / check_vocab `397 词条 FAIL=0 WARN=0` / check_entities `0`
+- **b 逐章归属**：147/147 ✅ 零跨章；cliffhanger 边界（ch10 附身判词→ch11 复述、ch14 真身揭晓→ch15 跪迎、ch15→16 啐面→断裂记忆）双侧引语各自归属正确
+- **c 结构扫描**：147 块编号连续（6/8×17/7/6）、四子项 147×4 齐全、frontmatter+modified 全齐、零孤儿零重复、零占位行
+- **d 语义二审（本次主战场，新标准件）**：①自建 attic/review_chosen_queen.py——**引语整行连续 sweep**（flat 全串比对当章 text）147 块 0 拼接 + **关键词锚定**（919 词、stopword 过滤、词形容忍）0 违规；②数字断言对账抓出 **7 处失准**——"四次齐声应和"（实为一唱三和）、"bend the knee 三次出现（Merlin 两次要求）"（实为 Merlin 一次+Gorlois 两次）、"soil 第三次出现"（实为第四次）、"两次确认效忠"（实为三次）、"Igraine's only son 四个词"（实为三个）、"五连问"（实为两句质问夹三段陈述）、"chosen 一词第三次出现"（全书 21 处，撤销计数）——全部按 grep 实测修正
+- **e 总览核对**：verify_overview 金句 25/25 ✅；**金句章节标签对账**（25 句逐句 flat 比对其标注章节的 text）0 错位；说话人窗口 5 处多方引语（Vivian/Yseult 经转述/附身之音/taibhse/Uther）grep 前后文全对；情感节点 23 条 + 概述 10 条行内短语 grep 全命中；跨书污染 0
+- **审查结论**：**放行**。引语层零缺陷；缺陷集中在分析层数字断言（7 处，与 Lonely Mouth/What If It's You 的"凭印象计数"同族）——"词数/次数类修辞断言必须 grep 实测"再次被验证
+- **工具沉淀**：scripts/attic/review_chosen_queen.py（整行连续 sweep + 关键词锚定二合一，适配 `> **原句 N:**` 格式，可复用）
+- **整改 commit**：562c8517（6 文件）；复跑终值 169/169 + FAIL=0 WARN=0 + 147/147 + sweep/锚定双 0 全绿
+- 本书累计 **19 commits 未 push**（含协作板 3 条），等用户指令统一推送
+
 ### [2026-09-13 14:50 UTC] [ZCode-Mac] → All
 
 **《The Chosen Queen》（Sam Davey，历史奇幻/亚瑟王传说改写）全书完工 + 五步终验全绿（19 单元 + 总览三篇，18 commits）**
