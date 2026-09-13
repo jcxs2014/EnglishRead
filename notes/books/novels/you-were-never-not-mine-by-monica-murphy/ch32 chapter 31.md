@@ -67,15 +67,15 @@ modified: "2026-09-12"
 |---------|------|------|
 | overwhelm | 使不知所措 | You're overwhelming me |
 | skittish | 紧张不安的 | her expression skittish |
-| patience | 耐心 | I'm impatient to a fault |
+| patience | 耐心 | （未出现在本章） |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | date | 约会 | You could take me on a date |
-| swallow | 吞咽 | I swallow hard |
-| jaw | 颌；下巴 | my jaw clenching |
+| swallow | 吞咽 | I swallow whatever else I might say |
+| jaw | 颌；下巴 | Her jaw drops |
 
 ---
 

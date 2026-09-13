@@ -21,13 +21,13 @@ modified: "2026-09-12"
 
 ## 精读
 
-> "Have you ever done it? Done what? Gone on a date? Well. No."
+> "It's from August."
 
-**中文理解**："你做过吗？做什么？约会？嗯……没有。"
+**中文理解**："是 August 送的。"
 
-**关键词**：never been on a date
+**关键词**：It's from August
 
-**为什么这样写**：August 的"never date"揭露——22岁从未约会过，这和他作为 frat president 的形象形成反差。他的"情场老手"人设其实是空壳。
+**为什么这样写**：Sinclair 承认礼物来源——她知道是 August 送的，说明他们之间已经有了某种默契。她的惊讶（"你怎么知道的？"）和即时承认说明她对 August 的感情已经不再是秘密。
 
 ---
 
@@ -57,9 +57,9 @@ modified: "2026-09-12"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| jumble | 混乱的一团 | I've been a jumble of nerves |
-| gesture | 姿态；表示 | a gesture of some kind |
-| classy | 有品位的 | Something sexy but classy |
+| sequin | 亮片 | constructed entirely of beige sequins |
+| classy | 有品位的 | wear something sexy but classy |
+| tactless | 粗鲁的；不得体的 | （未出现在本章） |
 
 ### ⭐⭐ 进阶
 
@@ -73,9 +73,7 @@ modified: "2026-09-12"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| delivery | 送货 | You have a delivery |
-| closet | 衣柜 | staring at the options in my closet |
-| pink | 粉红色的 | her cheeks turning pink |
+| closet | 衣柜 | staring at the boring options in my closet |
 
 ---
 

@@ -58,7 +58,6 @@ modified: "2026-09-12"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | whisking away | 迅速带走 | I want to whisk her away |
-| possessive | 占有的 | the possessive nature |
 | unhinged | 失控的；精神错乱的 | I push the unhinged thought out of my brain |
 
 ### ⭐⭐ 进阶
