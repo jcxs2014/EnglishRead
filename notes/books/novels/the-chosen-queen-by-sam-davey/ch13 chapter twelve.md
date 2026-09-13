@@ -112,13 +112,13 @@ modified: "2026-09-13"
 | ravaged | 被蹂躏的 | women ravaged, children orphaned. |
 | perchance | 或许，可能（古语） | and perchance you look very different from the father she remembers. |
 | appraising | 打量的，估量的 | She stared at me fixedly, with an appraising gaze |
+| smothered | 忍住，掩住（笑） | I smothered a giggle. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | bolted | 闩上（bolt 的过去式） | He pushed the door shut behind him and shot the bolt home. |
-| smothered | 忍住，掩住（笑） | I smothered a giggle. |
 | sprays | 小花枝 | Columbine and honeysuckle, kingcups, cornflowers, and sprays of dog roses |
 | crust | 面包皮 | breaking off a crust of bread and coating it with honey. |
 | ruffian | 恶汉，凶徒相 | This scar does nothing for my looks, Igraine. I have become a ruffian indeed. |
