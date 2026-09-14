@@ -19,7 +19,7 @@ modified: "2026-09-14"
 
 **中文理解：** 我们所有的母亲都尖叫过，因为在那段漫长的记忆里，凡是被"车"召去的，从来没有一个回来过。
 
-**关键词：** All our mothers screamed, a long memory, summoned to Car, never returned
+**关键词：** All our mothers screamed, that long memory, summoned to Car, has ever returned
 
 **为什么这样写：** 全书第一次让 Blacktail 借用猎物的身体做梦——不是旁观，而是被整个吞下去（swallowed whole）。这句把牛群写成有档案的文明：记忆代代相传，而档案的全部内容是一句"从来没有一个回来过"。作者用一个否定句写完了牲畜的整部历史，也提前替全书立好了恐怖的形状。
 
@@ -49,7 +49,7 @@ modified: "2026-09-14"
 
 **中文理解：** 我的神是管失落之物的。
 
-**关键词：** My god, the lost things, not such a big god
+**关键词：** My god, the lost things
 
 **为什么这样写：** 一位小神的神学基础在这几个词里完成，而铺垫是逻辑不是感情：他能在大屠杀里活下来，恰恰因为他不重要——当人的神动手除掉旧神时，"我的神找不到"。于是"失落"既是他的管辖范围，也是他的隐身衣。这个词组同时指失物与失者，中文的"失落之物"恰好保存了这层双关。
 

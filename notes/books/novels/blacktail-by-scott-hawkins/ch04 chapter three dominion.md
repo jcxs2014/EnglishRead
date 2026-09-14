@@ -65,13 +65,13 @@ modified: "2026-09-14"
 
 **读者视角提示：** 带着这条定义回看前面几章：Hate 咬断兔子的脖子、Renren 挨的那一针、Blacktail 舔她的伤口，全都落在定义之内。它也是本书给"暴力"安排的唯一神学位置。
 
-> **原句 6:** They did not kill for food, or to protect their young or their lands. What they did to me was a sin against the hunt. It was an abomination.
+> **原句 6:** They did not kill for food, or to protect their young or their lands. … What they did to me was a sin against the hunt. It was an abomination.
 
-**中文理解：** 他们不是为了食物、也不是为了保护幼崽或领地而杀。他们对我的所作所为，是对狩猎的犯罪。那是一件可憎之物。
+**中文理解：** 他们不是为了食物、也不是为了保护幼崽或领地而杀。……他们对我的所作所为，是对狩猎的犯罪。那是一件可憎之物。
 
 **关键词：** kill for food, a sin against the hunt, an abomination
 
-**为什么这样写：** Blacktail 第一次为自己的伤给出神学解释，而不是心理描述。关键在介词：against the hunt（对狩猎的冒犯）——他的愤怒不指向"杀"，而指向"杀法"：不是死亡，而是死亡丢掉了规则。abomination 一词在本章之前被用来形容汽车；这里他把人类的医学与汽车并排放进同一个词里，等于给现代性贴了同一张标签。
+**为什么这样写：** Blacktail 第一次为自己的伤给出神学解释，而不是心理描述。关键在介词：against the hunt（对狩猎的冒犯）——他的愤怒不指向"杀"，而指向"杀法"：不是死亡，而是死亡丢掉了规则。abomination 一词在本章之前被用来形容汽车；这里他把人类的医学与汽车并排放进同一个词里，等于给现代性贴了同一张标签。注意这段供词被叙述切开了一次（两句话之间插着"His fur was up now, prickly. His eyes blazed."），作者用身体反应把两个短句隔开，等于让愤怒自己打断了陈述。
 
 **读者视角提示：** 这句话正是旧猫妈妈要的答案，也是他敢于接下任务的前提——他要报的不是妻儿的仇，而是一种秩序的仇。
 
