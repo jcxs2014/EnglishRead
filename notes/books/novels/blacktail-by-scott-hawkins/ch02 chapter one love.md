@@ -51,7 +51,7 @@ modified: "2026-09-14"
 
 **关键词：** run from this end to that, run back again, the circle of stony earth, all of the world
 
-**为什么这样写：** 自由被定义成"半径"。作者先给读者一个可以来回跑的错觉，再用两段把它拆掉：the circle of stony earth 之外才是"整个世界"，而那个世界的边界只是一丛夏草。最冷的是中间那句 she can run back again——把囚禁写成一种可供选择的往返，比铁链本身更羞辱。画完这个圆，作者紧接着补第二刀：她连巢穴都没有，暴风雪来时无处可躲。
+**为什么这样写：** 自由被定义成"半径"。作者先给读者一个可以来回跑的错觉，再用后一句把它拆掉：the circle of stony earth 之外才是"整个世界"，而那个世界的边界只是一丛夏草。最冷的是中间那句 she can run back again——把囚禁写成一种可供选择的往返，比铁链本身更羞辱。画完这个圆，作者紧接着补第二刀：她连巢穴都没有，暴风雪来时无处可躲。
 
 **读者视角提示：** 这个"圆圈"是全书题眼之一。此后所有关于边界的描写——山丘、花园的墙、公路——都是同一个圆的变体。
 
@@ -71,9 +71,9 @@ modified: "2026-09-14"
 
 **关键词：** made it forget, now it remembers, your place in the hunt, Welcome home
 
-**为什么这样写：** 本章的道德翻转全落在这三句上。猎人与猎物被写成位置关系而不是等级关系——不是"你该死"，而是"你在链条里的位置从未消失，你只是忘了"。Welcome home 三个字最毒：它把屠杀说成一次返乡，把恐惧说成人类本就该住的房子。上文 Renren 说过"他们跟我们没什么不同"，此处作者用同一个前提反打：既然相同，那就尝尝位置互换的滋味。
+**为什么这样写：** 本章的道德翻转全落在这几句话上。猎人与猎物被写成位置关系而不是等级关系——不是"你该死"，而是"你在链条里的位置从未消失，你只是忘了"。Welcome home 三个字最毒：它把屠杀说成一次返乡，把恐惧说成人类本就该住的房子。上文 Renren 说过"他们跟我们没什么不同"，此处作者用同一个前提反打：既然相同，那就尝尝位置互换的滋味。
 
-**读者视角提示：** 注意这三句出现的位置——不在杀戮开头，而在男人开枪失手、退无可退之后。作者坚持让复仇不是情绪失控，而是一次关于"位置"的宣判。
+**读者视角提示：** 注意这几句出现的位置——不在杀戮开头，而在男人开枪失手、退无可退之后。作者坚持让复仇不是情绪失控，而是一次关于"位置"的宣判。
 
 > **原句 7:** "The secret," she said, "is that there is no secret. Everyone suffers. Some choose to surrender, and some do not. The nature of your courage, the degree of it…these are entirely up to you."
 

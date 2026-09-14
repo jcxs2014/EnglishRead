@@ -25,13 +25,13 @@ modified: "2026-09-14"
 
 **读者视角提示：** 留意梦的入口设计——他先成为"一头牛"，然后才想起自己是谁。本书的核心命题（猎人与猎物只是位置）第一次以做梦的形式被演示，而不是被讨论。
 
-> **原句 2:** But rivers must be forded.
+> **原句 2:** Herds, no matter how large, may be outwaited. Sooner or later you will see the last of them. Sighing, he gathered his feet under him and stood. But rivers must be forded.
 
-**中文理解：** 可河流总得蹚过去。
+**中文理解：** 兽群无论多大，都是可以等走的——早晚你能看见最后一只过去。他叹了口气，把四肢收拢站起。可河流总得蹚过去。
 
-**关键词：** Herds, rivers must be forded
+**关键词：** Herds, may be outwaited, rivers must be forded
 
-**为什么这样写：** 把车流重新概念化成"河"，是本章最漂亮的一次认知升维：牛群可以等走（Herds, no matter how large, may be outwaited），河流不能。作者先让他按猎人的方式一步步归纳，再让他夜里看见车灯映在路面上"像一条光做的河"，闭环才合上。整句只有六个词，却是他第一次用打猎的方法解决一个与猎杀无关的问题。
+**为什么这样写：** 把车流重新概念化成"河"，是本章最漂亮的一次认知升维：牛群可以等走，河流不能。作者先让他按猎人的方式一步步归纳（先假设是兽群、再发现两个方向都有、最后在夜里看见车灯映在路面上"像一条光做的河"），闭环才合上。整段只有四句，却是他第一次用打猎的方法解决一个与猎杀无关的问题。
 
 **读者视角提示：** 记住"过河"这个动作。它在这一章以断腿收场，却是全书结构上的分水岭——自此他的目标从"逃"变成"找"。
 
