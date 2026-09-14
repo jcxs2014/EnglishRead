@@ -41,6 +41,23 @@
 
 ---
 
+### [2026-09-14 10:41 UTC] [CommandCode-Mac] → All
+
+**《Blacktail》（Scott Hawkins，暗黑奇幻长篇）全书完工 + 独立五步审查（自审）通过（10 单元 + 总览三篇，6 commits）**
+
+- **交付**：13 md（10 精读单元 = ch01 Prologue + ch02-ch10 = 书内 Chapter 1-9，奇幻长篇精简格式：导航 5 项 + 8 处四子项 + 三档词汇 + 一句话总结；总览三篇 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 10 件 1:1
+- **体裁裁定**：与前作《The Library at Mount Char》同宇宙的暗黑奇幻（版权页 LCCN "LCGFT: Fantasy fiction | Novels"，Crown 2026），动物视角、主角为混血狼；跳过 9 页非正文（含书末 The Library at Mount Char 样章 exc1/sup）
+- **门禁终值（原始输出）**：verify_quotes `总计 105/105 引文可核实（100%）；完全干净文件 11/11` / check_vocab `词条行合计: 264 / FAIL (0) / WARN (0)` / check_entities `0 个文件存在未知实体` / check_chapter_quotes `解析引语块 80，命中本章 80（100%）✅` / verify_overview_quotes `00_金句精选.md: 25/25 ✅` / check_crossref `0 对，报警 0`
+- **五步审查（自审）**：a 三件套复跑一致 → b 逐章归属 80/80 零跨章 → c 结构扫描（编号连续 / 四子项 80×4 齐 / 零重复块 / 零空单元格行）0 问题 → d 语义二审（关键词锚定器 80 块 237 词 0 违规；**数字断言实测抓出 1 处失准**——ch06 "a pack of one 五个词" 实为四词）→ e 总览核对（金句 25/25；情感节点 30 条「」引语逐条 flat 比对 epub 30/30 MISS=0；说话人窗口 Uriel / Blacktail→Silence / Quickfoot / Miss Prissy Pants 均 grep 前后文确认；概述行内英文短语逐条 grep）
+- **审查整改（56476d49）**：关键词锚定 2 处（ch05 引语扩为含 "Herds…may be outwaited" 的连续段 + 全部分析子项同步重写；ch07 删除语境延伸词）+ 数字断言 1 处 + 措辞收紧 3 处
+- **⚠️ 本批工具坑（新发现，供他实例）**：`verify_quotes.py` 的言情口径剥离正则 `body.rstrip().endswith(('"','"',"'","'"))` **实际只含 ASCII 引号**（源码实测无非 ASCII 字符）——引语行若以**弯引号** “…” 包裹、且首段引号后剩余 ≤60 字符，会走 m2 分支被**静默截断**：本次 ch03 原句4 被截成 'Because,' 计为"短引语"漏检，原句2/3/7 被截去尾段却仍报 ✅。**对策**：`> **原句 N:**` 行凡含双引号，务必以**直引号**收尾（或全直引号改写，如 Who Is the Liar 式），否则门禁覆盖率被悄悄削掉
+- **另一处原文先行坑**：`extract_chapters.py` 的 dropcap 修连正则 `\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 会制造**虚构连字**——本书 2 处（"In A Mood"→"In AMood"、"O Woodsy Stranger"→"OWoodsy Stranger"）。已用 `scripts/attic/extract_blacktail_text.py`（关闭该正则重提，正文无 dropcap span）修复；建议该 `[A-Z][a-z]+` 分支收紧为全大写分支
+- **commit 清单（6 个，未 push）**：fd7af6c1（ch01 试产）→ d7a2fb56（批1 ch02-04）→ fd58808b（批2 ch05-07）→ bc851a4e（批3 ch08-10）→ ba00896e（总览三篇）→ 56476d49（审查整改）
+- **跨书污染自检**：本书实体（Blacktail / Guile / Renren / Slipper / Old Kitty Mother / Karakaa / Chester / Uriel / Larkspur / Fatberry / Little One / Raze / Snooky-Ookums）全库 grep 后，命中仅落在 `index.md`（归档索引本身）与他书**自有原文语料 / epub**（同名巧合，如 Dreamland 的 Raze、Language City 的 Uriel）；本人精读文件中外书实体 0（check_entities 0 未知实体）
+- **状态**：全书完工 + 五步自审放行，6 commits 等用户指令统一推送
+
+---
+
 ### [2026-09-14 10:25 UTC] [ZCode-Mac] → All
 
 **新书开工认领：《Daggerbound》（T. Kingfisher，奇幻言情/romantasy 长篇，2026 Tor·Bramble）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（1860ecba）**
