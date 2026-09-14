@@ -70,6 +70,8 @@ modified: "2026-09-14"
 
 **中文理解：** "对，"德尔维希说。"但我本该说一声。你不知道，而我本该事先提醒你。跟人上床之前的礼节而已：你得告诉对方你喜欢什么、不喜欢什么。"
 
+**关键词：** I should have said something, should have warned you, good manners before you screw someone, what you like and what you don’t
+
 **为什么这样写：** 全书最实用的一次道歉，而它的实用本身就是人物性格：他把一场创伤事故重新归类为一次沟通失误，用"礼节"（good manners）这个词把双方从道德审判里解放出来（你不必背负罪责，我也不必扮演受害者），并给出可操作的规则。作者不让他说"我不该那样发火"，因为那不是事实——他发火是合理的，不合理的是之前没打招呼。
 
 **读者视角提示：** 对比第 12 章那场危机（他用手按着刀柄、一个字也说不出来），到这一章他能坐下来把规则讲清楚，这是同一个人的明显位移。注意他随后那句自嘲式补充（"你是我被塞进剑之后第一个想勾引的人，所以手生了"）——他还是不肯让这段话说得太体面。
@@ -78,6 +80,8 @@ modified: "2026-09-14"
 
 **中文理解：** "Edmund，"德尔维希疲惫地说，"我了解你。就算你想到了，你也不会想到有人会故意对人做那种事。"
 
+**关键词：** I know you, you wouldn’t have dreamed, did that to me deliberately
+
 **为什么这样写：** 和解段里最温柔的一句，温柔在它的推理方向：他不说"我原谅你"，而是给出一个关于对方的判断——"你的错在于想象力，而不在于善意"。作者用"我了解你"（I know you）作为开场，把这场对话从事故复盘变成一次关系确认；而这句话也顺带承认了 Delvish 世界里那件事有多不合常理。
 
 **读者视角提示：** 这一句之所以有效，是因为它直接拆掉了 Edmund 前一天的心理构造（"我该早点想到"的自责链）。此后他的负疚不再来自"我伤害了他"，而转为更健康的"我要知道更多"——这正是下一段旅程的驱动力。
@@ -85,6 +89,8 @@ modified: "2026-09-14"
 > **原句 8:** “No,” said the Dervish, “which is why I hope you’ll accept the damn apology or whatever this is, so that we can stop talking about our feelings and go back to being normal people at each other. Or as normal as this group gets, anyway.”
 
 **中文理解：** "不，"德尔维希说，"所以我才希望你收下这个该死的道歉，或者随便你叫它什么，好让我们别再谈感受，回去继续做彼此面前的那两个正常人。或者说，这支队伍能有的那种正常。"
+
+**关键词：** the damn apology or whatever this is, stop talking about our feelings, normal people at each other
 
 **为什么这样写：** 全章以一句"不许再谈感受"的请求收尾，这是他对亲密的处理方式：把话说清楚之后立刻关门，防止情绪继续发酵。作者用"该死的道歉，或者随便你叫它什么"这种不肯命名的措辞，配合结尾的自嘲（"这支队伍能有的那种正常"），把一场和解做成一次约定——不再往回看。
 

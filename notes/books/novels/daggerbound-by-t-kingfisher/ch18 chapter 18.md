@@ -80,6 +80,8 @@ modified: "2026-09-14"
 
 **中文理解：** "可你就是啊，"Angharad 说。"只要那一路能让你抱怨个没完，你就会一头冲进地狱。"
 
+**关键词：** You are, though, charge headfirst into hell, complain the entire time
+
 **为什么这样写：** 全书对德尔维希这个人物最准确的一句定义，也是一句极温柔的话：她把他的抱怨从缺点翻译成本能的一部分——不是"虽然你抱怨，但你勇敢"，而是"你抱怨着也照样冲进去"。作者让这句话由他死去的姐姐说出，并且是在全队等死的时刻，等于提前把这一章结尾的行为（他在龙穴前的每一个反应）都判为已知。
 
 **读者视角提示：** 紧接着 Sarkis 又补了一句："哪怕你一路尖叫，那也算勇敢。"（"It's still bravery, even if you're screaming."）两人合力把"勇敢"的定义从"不害怕"改写成"害怕着往前"。这一段是全书对这个人物最重要的授权，而他在这一章末尾的举动正是这条定义的兑现。
@@ -87,6 +89,8 @@ modified: "2026-09-14"
 > **原句 8:** Their guard untied the neck ropes from the wagon, though he kept hold of them. Edmund slid down from the wagon bed, turned to the Dervish, and, before anyone could react, kissed him square on the mouth.
 
 **中文理解：** 看押他们的守卫把套在脖子上的绳子从车上解下来，但仍攥在手里。Edmund 从车斗上滑下来，转向德尔维希，然后在任何人来得及反应之前，端端正正地吻了他的嘴。
+
+**关键词：** untied the neck ropes, kept hold of them, before anyone could react, kissed him square on the mouth
 
 **为什么这样写：** 全书到目前为止最大的情节动作，被写成一个纯粹的物理过程：解绳、滑下车、转身、吻——四个动作之间没有任何内心描写，也没有任何解释。作者刻意选择"任何人来得及反应之前"这个时间条件，让这个吻既是最坏时机的、也是无法被讨论的；它不给对手留下反应窗口，也不给读者留下解释性安慰。
 
