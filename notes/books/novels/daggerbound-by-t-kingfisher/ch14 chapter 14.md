@@ -42,7 +42,7 @@ modified: "2026-09-14"
 
 **关键词：** a very silly thing to notice, not my type, between that and his hands, in trouble
 
-**为什么这样写：** 这句是"他不是我的类型"这一句式在整个系列里的第四次出现（第 3 章当面、第 4 章心想、第 11 章"对甜软的男人毫无兴趣"），而这次它已经膨胀成一个自供清单：耳尖脸红 + 手 = 两件例外。作者让他在一句之内先贬低自己的观察（silly），再列出两条证据，最后用"麻烦"（in trouble）这种轻描淡写的话给整件事定级——他的恋爱语言始终是会计式的。
+**为什么这样写：** 这句是"他不是我的类型"这一句式在整个系列里的第五次出现（第 3 章当面、第 4 章心想、第 8 章被撞到膝盖时又想起一次、第 11 章"对甜软的男人毫无兴趣"），而这次它已经膨胀成一个自供清单：耳尖脸红 + 手 = 两件例外。作者让他在一句之内先贬低自己的观察（silly），再列出两条证据，最后用"麻烦"（in trouble）这种轻描淡写的话给整件事定级——他的恋爱语言始终是会计式的。
 
 **读者视角提示：** 这一章他在同一段里还承认"我从来没有注意到 Angharad 的耳朵会不会变粉"——这句话的作用是划清界线：他熟悉的那种"打趣"和现在这种"在意"不是一回事。此后他每一次把 Edmund 的反应与 Angharad 对比，都可以读作他在辨认自己。
 
@@ -84,7 +84,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 全章喜剧的最高点由三层叠加完成：先是对象确认（"等等，这是 Edmund"），再是价值重估（这种处境居然有点算数），最后是量级落差（一百多年 vs 一头龙在旁）。作者把他对这段关系的全部自觉都压进这个笑点里——他知道自己在动心，也知道这件事有多荒谬。
 
-**读者视角提示：** 注意"fought back a wild urge to laugh"这个动作：他在处理感情的方式是先压制，再找角度把它变成笑话。对照第 4 章的 panglet，从自造一个更小的词，到主动给这件事找喜剧的位置——这是同一套防御机制的进化版，也是他能保住体面的唯一办法。
+**读者视角提示：** 注意"fought back a wild urge to laugh"这个动作：他在处理感情的方式是先压制，再找角度把它变成笑话。对照第 7 章的 panglet，从自造一个更小的词，到主动给这件事找喜剧的位置——这是同一套防御机制的进化版，也是他能保住体面的唯一办法。
 
 > **原句 8:** The memory was suddenly achingly clear. Sarkis had turned to him then, and said, “Next time we’ll just get Handsome here to distract the beast,” and had nudged him with an elbow. Everyone had laughed, including the Dervish.
 

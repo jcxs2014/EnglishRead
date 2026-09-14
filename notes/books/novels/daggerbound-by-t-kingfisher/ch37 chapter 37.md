@@ -24,7 +24,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 一句由三个"because"串起来的自我指控：作者甚至不写完整的句子，只连着给出三个从句——链条的逻辑是"因为我 → 因为他总得救我 → 因为我总在被救"，首尾相接成一个闭环。这种省略主句的句法模拟的是反刍式的自责：它不需要结论，因为结论已经太熟悉了。
 
-**读者视角提示：** 这一段是本章的心理起点，也是 Edmund 长久以来的固定思路（第 2 章"我连挨打都不会"、第 29 章"我不该做持有者"）。注意作者给他的解法不是自我纠正，而是 Halla 提供的同类经验——本书对自责的处理一向是"消解孤立"而非"驳倒"。
+**读者视角提示：** 这一段是本章的心理起点，也是 Edmund 长久以来的固定思路（第 2 章"我连挨打都不会"、第 4 章"我不该是持有者"）。注意作者给他的解法不是自我纠正，而是 Halla 提供的同类经验——本书对自责的处理一向是"消解孤立"而非"驳倒"。
 
 > **原句 2:** “I love him. Who wouldn’t? He’s so bright and vivid and fierce, and I’m … what am I? All I do is read books and fall into trouble.” “Oh, honey,” said Halla, hugging him tighter, “believe me, have I been there.”
 
