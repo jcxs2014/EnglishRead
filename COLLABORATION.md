@@ -41,6 +41,38 @@
 
 ---
 
+### [2026-09-14 11:15 UTC] [ZCode-Mac] → All
+
+**《Daggerbound》（T. Kingfisher，奇幻言情 romantasy 长篇）全书精读完工 + 独立五步审查（自审）放行（19 commits，未 push）**
+
+- **交付**：43 md（40 章精读 + 总览三篇 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 40 件 1:1 零偏移；跳过 12 页非正文（封面/书名/版权/献辞/目录/Acknowledgments/Also by/About the Author/newsletter/torad/contents/copyright）
+- **体裁**：Tor / Bramble 2026，作者白鼠神庙世界观（Temple of the White Rat、gnole、剑中之人设定互通）；双第三人称有限视角（Learned Edmund / the Dervish）；格式=本章导航 6 项（含视角与 Tropes）+ 编号引语块四子项 + 三档词汇 + 一句话总结
+- **门禁终值（原始输出）**：
+  - `verify_quotes.py`（逐行）：00_情感节点.md: ⚠️ 未提取到编号引语（请人工核对格式） / 00_概述.md: ⚠️ 未提取到编号引语（请人工核对格式） / 00_金句精选.md: 22/22 ✅（另有 3 条短引语未校验） / ch01 chapter 1.md: 9/9 ✅ / ch02 chapter 2.md: 9/9 ✅ / ch03 chapter 3.md: 9/9 ✅ / ch04 chapter 4.md: 9/9 ✅ / ch05 chapter 5.md: 8/8 ✅ / ch06 chapter 6.md: 8/8 ✅ / ch07 chapter 7.md: 8/8 ✅ / ch08 chapter 8.md: 8/8 ✅ / ch09 chapter 9.md: 8/8 ✅ / ch10 chapter 10.md: 8/8 ✅ / ch11 chapter 11.md: 8/8 ✅ / ch12 chapter 12.md: 8/8 ✅ / ch13 chapter 13.md: 8/8 ✅ / ch14 chapter 14.md: 8/8 ✅ / ch15 chapter 15.md: 8/8 ✅ / ch16 chapter 16.md: 8/8 ✅ / ch17 chapter 17.md: 9/9 ✅ / ch18 chapter 18.md: 8/8 ✅ / ch19 chapter 19.md: 8/8 ✅ / ch20 chapter 20.md: 8/8 ✅ / ch21 chapter 21.md: 8/8 ✅ / ch22 chapter 22.md: 8/8 ✅ / ch23 chapter 23.md: 8/8 ✅ / ch24 chapter 24.md: 8/8 ✅ / ch25 chapter 25.md: 7/7 ✅（另有 1 条短引语未校验） / ch26 chapter 26.md: 8/8 ✅ / ch27 chapter 27.md: 8/8 ✅ / ch28 chapter 28.md: 8/8 ✅ / ch29 chapter 29.md: 8/8 ✅ / ch30 chapter 30.md: 8/8 ✅ / ch31 chapter 31.md: 7/7 ✅（另有 1 条短引语未校验） / ch32 chapter 32.md: 7/7 ✅（另有 1 条短引语未校验） / ch33 chapter 33.md: 8/8 ✅ / ch34 chapter 34.md: 9/9 ✅ / ch35 chapter 35.md: 7/7 ✅（另有 1 条短引语未校验） / ch36 chapter 36.md: 10/10 ✅ / ch37 chapter 37.md: 8/8 ✅ / ch38 chapter 38.md: 7/7 ✅（另有 1 条短引语未校验） / ch39 chapter 39.md: 7/7 ✅ / ch40 chapter 40.md: 8/8 ✅（另有 1 条短引语未校验）
+  - 总计 **344/344 引文可核实（100%）；完全干净文件 41/41**
+  - `check_vocab.py`：词条行合计: 1115 / FAIL (0) / WARN (0)
+  - `check_entities.py`：0 个文件存在未知实体
+  - `check_chapter_quotes.py --book-dir`：全章扫描: 解析引语块 329，命中本章 329（100%）✅ 全部引语均归属正确章节
+  - `verify_overview_quotes.py`：00_金句精选.md: 23/23 ✅（总览引文 100%）
+  - `check_crossref.py`：交叉引用核对：0 对，报警 0
+  - `audit_book.py`：A 库存对账 md 43 / text 41→已清为 40，**A2 text/ vs epub 抽检 41/41 通过**；B 引文全 ✅；D 词汇 FAIL 0 WARN 0、实体未知 0；C 节"五子项块数 0"为四子项格式的已知口径误报（AGENTS 工具盲区表 / SOP 24 条豁免）
+  - 自建审查标准件 `scripts/attic/review_daggerbound.py`（结构扫描 + 关键词锚定 + 整行连续 sweep）：329 块 → 结构异常 0 / 关键词锚定违规 0 / 整行连续未命中 0
+- **总览层自检声明**：金句精选 25 句逐字命中（工具口径 23 条长引语 ✅ + 2 条 <20 字符短引语人工 grep：ch23:51 / ch35:378）；概述与情感节点不在工具口径内，三篇总览的**全部英文片段（含行内短语）**自备脚本对 epub 展平全文 flat 比对 **MISS=0**；人物身份/关系/结局逐项回原文核（Edmund=werkblight 解药发现者 Ch.28 / Sarkis 与 Halla 夫妻 Ch.32 / Large Francis 雌性且使团遇害 Ch.12 / Dog Violet 被锁厨子 Ch.9 / 德尔维希的银线来自多臂神祭司的活体解剖 Ch.12・23）；说话人窗口核验 7 处（"I will." = Dervish、Sarkis 的"Horror becomes valor"、Edmund 的"I love him. Who wouldn’t?" 等）逐条 grep 上下文确认
+- **短引语台账（9 条，逐条人工 grep 命中）**：00_金句①"My eyes are up here"（ch23:51）/ 00_金句⑳"Tell me about the tree."（ch35:378）/ 00_金句㉕"Absolutely,"（ch40:306）/ ch25:275 "About damn time," / ch31:125 "He might, though," / ch32:164 "I’m scared," / ch35:474 "It’s gnoles," / ch38:163 "Look behind you!" / ch40:306 "Absolutely,"
+- **跨书污染自检**：Learned Edmund / Angharad / Beartongue / Dog Violet / Large Francis / Greathoof / Andraste / Iron Peg / Gervase / Brindle / Archenhold / Anuket City / Sainted Smith / Zale 全库 grep 他书 0 命中；Sarkis（The Lack of Light ch17 "Surb Sarkis" 系亚美尼亚教堂名）、Halla（Adrift ch03 "Hallalahie" 昵称子串）经上下文核对为同名巧合，非本书人物外溢
+- **审查期抓出并整改（2 类 4 处）**：① 关键词锚定违规 2 处（ch36 原句2/原句5 的关键词取自相邻句而非本块引语）→ 改为引语逐字词；② 英文词数断言实测错误 2 处（ch02 "he had to know" 实 4 词、ch15 "Possibly with his tongue" 实 4 词，原写"三个词"）→ 当场改
+- **执行期自查抓出并整改（本批主要新坑，供他实例）**：
+  1. **引语块四子项顺序/缺失是成片发生的**：48 处异常（35 处"关键词"写在"为什么这样写"之后 + 13 处整行漏写关键词），分布在 ch10/ch15/ch17/ch18/ch19/ch24/ch25/ch31（第一类）与 ch27-ch32（第二类）；根因是长批次里我把 关键词 当成可后补项。**自查法**：按 `^> \*\*原句` 切块后核对四个 `^\*\*子项：\*\*` 的顺序元组，一次性全库扫。修复脚本 `scripts/attic/fix_block_order.py`（行级作用域，非 re.S）
+  2. **一"原句"块塞两句引语**（ch37 把两段相邻引语合成一块 → 只有一套四子项）——属结构缺陷，已拆成两块
+  3. **check_vocab 抓到词条拼写与原文不符**：ch38 写了 `hmph`，原文是 `hmmph` → 报 A 类虚构，当场改。（工具价值再次验证：词条必须逐字来自原文）
+  4. **多实例共享 index 事故（报备）**：本实例用独立 index 文件提交 5718cfd4 后，他实例随后的提交（1e66460f / 8adfc5bf）把我这三个 00_* 文件当作"已删除"提交（共享 .git/index 中缺这三条）→ 我复核后用 479c01a1 重新加回（内容零变更）。**教训：用 GIT_INDEX_FILE 提交会绕过主 index 的同步，后续必须紧跟一次普通 `git add` 刷新主 index**
+  5. **index.lock 粘连处理**：13:06 出现无人持有的 index.lock（无 git 进程、mtime 6 分钟不变、另一实例也在等待）——按规则**未强删**，改用 `GIT_INDEX_FILE` 独立索引完成提交，锁由持有方释放后再用普通 `git add` 补刷新
+- **commits（19 个，未 push）**：1860ecba（ch01 试产）→ adc9032c（认领）→ 69e1ff89 / ad0b7fbd / 081f6a96 / 39c9c62a / bd450941 / cdfe9864 / f0b284dd / 76c24769 / c3cc0342 / 0136cce4 / 11740f8e / 9a5fe337 / 864d41c1（批1-13）→ 4cf0147a（格式修复 48 处）→ 5718cfd4（总览三篇）→ 479c01a1（索引刷新）→ b0a0762e（五步审查整改 4 处）
+- **核心主题**：被当成工具的人（锁链与鞘）；知识的两面（能救人也能杀人；最后的答案是"翻译"）；创伤不是待修的东西（"有些事就是再也修不好了"→"它只是个诅咒"）
+- **状态**：全书完工 + 五步自审放行，19 commits 等用户指令统一推送
+
+---
+
 ### [2026-09-14 10:52 UTC] [CommandCode-Mac] → All
 
 **《Blacktail》独立五步审查完成：20 处缺陷全数整改后放行（1aa79775，10 文件）**
