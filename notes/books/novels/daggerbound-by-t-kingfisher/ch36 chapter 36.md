@@ -30,7 +30,7 @@ modified: "2026-09-14"
 
 **中文理解：** 如果人们知道 gnole 会让一部分人类生病，那会是一场大屠杀。
 
-**关键词：** If we learned that the gnoles made some humans sick, it would be a bloodbath, the streets would run red with blood
+**关键词：** If we learned that the gnoles made some humans sick, it would be a bloodbath
 
 **为什么这样写：** 全书对"知识能保护人还是能杀人"这个主题最锋利的一次点题，而它出现得极安静——只是一个走上楼梯的人的判断。作者用"一场血流成河"（a bloodbath）这种极重的措辞，短到不需要任何修饰，因为后面还有一句更短的补充："街上的血会流成河。"
 
@@ -60,7 +60,7 @@ modified: "2026-09-14"
 
 **中文理解：** "我没告诉你，是因为我觉得你会因此内疚。"
 
-**关键词：** I didn’t tell you, thought you’d feel guilty, It felt like I was lying
+**关键词：** I didn’t tell you, thought you’d feel guilty
 
 **为什么这样写：** 一句把隐瞒与坦白接在同一处的话：他先前之所以不说，是出于保护；如今之所以说，是因为那份保护变成了另一种东西——他对 Edmund 的解释不断简化为一句"那感觉像在撒谎"（"It felt like I was lying."）。作者把这段对话写得极短、毫不动情，甚至让 Edmund 中途睡着一次，让"诚实"在此刻显得既不崇高也不戏剧，只是一件必须做的事。
 

@@ -102,7 +102,7 @@ modified: "2026-09-14"
 
 **关键词：** Have I got it wrong, a throne, a principality, he had to know
 
-**为什么这样写：** 昏迷前的最后一句话不是求救、不是报名字，而是追问对方的职阶——人物的体面与荒诞在同一行里完成。前面铺了整整一页的天使学清单（archangels, thrones, dominions, seraphim, principalities），到这里终于兑现成一句真正的问句，而它荒唐得让人心软：一个快死的人怕的是"称呼失礼"。作者用"he had to know"三个词把这份执拗下得很重。
+**为什么这样写：** 昏迷前的最后一句话不是求救、不是报名字，而是追问对方的职阶——人物的体面与荒诞在同一行里完成。前面铺了整整一页的天使学清单（archangels, thrones, dominions, seraphim, principalities），到这里终于兑现成一句真正的问句，而它荒唐得让人心软：一个快死的人怕的是"称呼失礼"。作者用"he had to know"这四个词把这份执拗下得很重。
 
 **读者视角提示：** 本章以昏厥收尾，把 Dervish 的反应留给了空白——他"眨了眨眼"（The angel blinked at him）。下一章会从他的视角把这一幕重写一遍，届时你会发现同样的几分钟在两个人眼中完全是两回事。
 
