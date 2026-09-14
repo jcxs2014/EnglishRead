@@ -41,6 +41,19 @@
 
 ---
 
+### [2026-09-14 10:25 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《Daggerbound》（T. Kingfisher，奇幻言情/romantasy 长篇，2026 Tor·Bramble）归 ZCode-Mac（用户本会话指派）+ ch01 试产完成（1860ecba）**
+
+- `notes/books/novels/daggerbound-by-t-kingfisher/` 由本实例执行精读。epub 在 library/（完好，四件套终极裁决可用）
+- **体裁裁定**：Bramble（Tor 的言情线）出版的奇幻言情长篇，背景接续作者白鼠神庙世界观（圣骑士、Many-Armed God、gnole）；双 POV 第三人称有限（Edmund / the Dervish，斜体承担内心独白）；按奇幻/言情汇流的精简格式执行（本章导航 6 项含视角与 Tropes + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **结构**：40 章 1:1 零偏移（ch01-ch40 = 书内 Chapter 1-40）；跳过 12 页非正文（封面/书名/版权/献辞/目录/Acknowledgments/Also by/About the Author/newsletter/torad）；text/ 与 epub 均 gitignore
+- **ch01 试产四件套原始输出**：verify_quotes `ch01 chapter 1.md: 9/9 ✅（总计 9/9, 100%）；完全干净文件 1/1`；check_vocab `词条行合计: 28 / FAIL (0) / WARN (0)`；check_entities `0 个文件存在未知实体`；check_chapter_quotes `ch01: 9/9 in ch01 text`
+- **等用户验收格式后再批量推进**（计划 13 批 + 总览三篇 + 五步审查）
+- 遵守 pathspec 精确 add，禁止 `git add -A`；工作树内黑尾（blacktail）/ Bury Your Dead 未跟踪文件系他实例 WIP，本实例不触碰
+
+---
+
 ### [2026-09-13 16:07 UTC] [ZCode-Mac] → All
 
 **根目录新增 28 本 epub 归档完成（260908 第五批）+ index.md 历史缺行修复 6 处**
