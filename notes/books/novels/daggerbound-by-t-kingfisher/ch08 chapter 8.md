@@ -24,7 +24,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 三段"再说"式的补充说明，把一句本来可以轻佻的玩笑逐条拆解成"眼下不合适 / 他不是我的菜 / 我膝盖要断了"——喜剧节奏来自这种急于自我否定的堆叠。而"他不是我喜欢的类型"这一句，读者在后面会学到是标准的反话：他每次要承认吸引之前，都先声明一句"他不是我的类型"。
 
-**读者视角提示：** 记住这个自否定的句式。本章后面他抱怨"我耳边的呼吸本可以来自更美好的人"，第 6 章他也说过"他完全不是我的类型"——同一个句式的复现密度本身就是情报。
+**读者视角提示：** 记住这个自否定的句式。本章后面他抱怨"我耳边的呼吸本可以来自更美好的人"，而第 3 章他当面说过"你不是我的类型"、第 4 章又在心里重复了一遍——同一个句式的复现密度本身就是情报。
 
 > **原句 2:** The Dervish wasn’t used to people freely admitting fault, except maybe Angharad, who would generally accept blame for the weather, the seasons, and the passage of linear time. Maybe that was why he said, “It wasn’t just you. I shouldn’t have just sat there and let them sneak up on us. I knew we were in enemy territory.”
 
@@ -84,7 +84,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 比喻选得极准：把一场可能致命的相遇写成发小狗——而德尔维希对此的反应只是一个"叹气"。这个收尾的叹气把全段的重心从 Edmund 的兴奋挪到旁观者的纵容上：他明明在戒备，却在评价对方可爱。德尔维希从不承认自己心软，但作者让他的叹气替他承认。
 
-**读者视角提示：** 这段是本章的情感高点：德尔维希第一次完全用欣赏的眼光看 Edmund。留意他随后"想上前的冲动"并非出自魔法——他解释成魔法，但他自己也不确定。这个模糊正是作者要留下的。
+**读者视角提示：** 这段是本章的情感高点：德尔维希第一次完全用欣赏的眼光看 Edmund。留意他随后那一步：原文把它归给 nerves（他"不由自主地向前迈了一步"），不是魔法驱使——他自己也说不清那是什么，而作者不给答案。这个模糊正是要留下的。
 
 > **原句 8:** The Dervish was about to ask if Our Friend had never seen humans before, when silver fire blossomed out of nowhere, wrapped around him, and yanked him away.
 

@@ -20,7 +20,7 @@ modified: "2026-09-14"
 
 **中文理解：** Dog Violet 一直跟在德尔维希身边，但并不觉得有必要说话——这让她成了德尔维希在这一带最喜欢的人。
 
-**关键词：** stayed close, didn’t feel the need to speak, his favorite person in the vicinity
+**关键词：** stayed close, didn’t feel the need to speak, the Dervish’s favorite person in the vicinity
 
 **为什么这样写：** 一堂关于德尔维希的性格速写课：他的好感标准不是忠诚、不是能力，而是"不吵"。整句用最实务的语气给出一个极可爱的判断（最喜欢的人是那个不说话的），顺带把两人之间的相处方式定了下来——不交谈也算一种亲密。
 

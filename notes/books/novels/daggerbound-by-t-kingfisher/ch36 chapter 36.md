@@ -44,7 +44,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 全章的理解段，写法是"替对方做他做不到的算术"：他先把 Edmund 的选择算成净损失（几十上百条命），再替他把被忽略的收益加回去（绝大多数被救活），最后给出 Edmund 自己不肯承认的那句结论——问题不在账，在本能。作者让德尔维希来做这道题，是因为他是那个不受良心折磨、能把事情算清的人。
 
-**读者视角提示：** 这一整段与第 25 章 Zale 的那句评价（"他单枪匹马救了一个小国的人口，却觉得自己失败"）是同一件事的两次叙述。它也顺带解释了 Edmund 之前所有关于"知识必须被保存"的说法为什么带着痛感：他手上有一条不许被记录的知识。
+**读者视角提示：** 这一整段与第 28 章 Zale 的那句评价（"他单枪匹马救了一个小国的人口，却觉得自己失败"）是同一件事的两次叙述。它也顺带解释了 Edmund 之前所有关于"知识必须被保存"的说法为什么带着痛感：他手上有一条不许被记录的知识。
 
 > **原句 4:** It was the most beautiful thing he’d ever seen. It put the body of every lover he’d ever had to shame. He wanted to make passionate love to it, although in his current state, it would probably have to settle for a handshake and a saucy wink.
 

@@ -24,7 +24,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 一句在逃命途中的回忆，落点却在最后半句：他不怀念"生活简单"本身，他怀念的是那个"以为自己懂"的自己。作者用一个未完成的时间状语（back when…）把三件事串在一起（骡子、神庙、年少时的恋爱观），再用过去时的"他以为"（he thought he knew）盖住整段——于是这句既是温暖的回忆，也是一句自我裁决。 而"knew"这个动词的选择值得留意：不是 he hadn't fallen in love，而是 he hadn't known what it was——他的前后差别被限定在认知上。
 
-**读者视角提示：** 这一句是本卷对 Edmund 个人变化最清楚的一次自述，也回应了第 14 章他把"仰慕一位女士的索引"当成心动（那时他还只有学术词汇谈感情）。此后他在情感里的判断力，可以从他是否还用"以为"这个词来观察。
+**读者视角提示：** 这一句是本卷对 Edmund 个人变化最清楚的一次自述，也回应了第 6 章他把"仰慕一位女士的索引"当成心动（那时他还只有学术词汇谈感情）。此后他在情感里的判断力，可以从他是否还用"以为"这个词来观察。
 
 > **原句 2:** It’s important for scholars to admit their own ignorance. Saying “I don’t know” is the beginning of wisdom. I wish I felt even remotely wise.
 
@@ -54,7 +54,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 全章最好的一次"救援反转"，而它的实现方式是一句解释：被押在囚车里的不是犯人，是一位被安排"以最容易的方式过境"的外交使节。作者让以连字符讲的话承担全部信息，读者一边拼读一边笑——因为整句话的逻辑本身就是本书的规则之一（不模拟原生行为，实用优先）。
 
-**读者视角提示：** 这个安排同时把钱数清楚了：白鼠神庙为了把 Large Francis 安全送到城里，采用的办法是伪造一辆囚车。这条线出自第 26 章主教的那句"我会让法律弯一下"——本书里的"制度善意"往往以这种行政技术的方式兑现，而不是以仁政的方式。
+**读者视角提示：** 这个安排同时把钱数清楚了：白鼠神庙为了把 Large Francis 安全送到城里，采用的办法是伪造一辆囚车。这条线出自第 31 章主教的那句"我会让法律弯一下"——本书里的"制度善意"往往以这种行政技术的方式兑现，而不是以仁政的方式。
 
 > **原句 5:** “You’re right, it doesn’t draw. Also it looks like somebody’s put bacon grease on it?” He raised an eyebrow at Edmund. “There are much better ways to oil a blade. Although if it’s not really a blade, I suppose it doesn’t matter.”
 

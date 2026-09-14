@@ -74,7 +74,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 一段自我推翻的判词：作者把他此前对 Edmund 的全部嘲笑（被保护、不中用、藤壶鸽子）一次性列出来，然后宣布这套分类作废。值得注意的是推翻的方式不是"他其实很厉害"，而是"我原来的解释太方便了"——他承认自己一直在用一个省事的版本理解对方，而这个便利如今失效了。
 
-**读者视角提示：** 这段也为第 12 章那场信任危机补了一笔账：他当时凭"我离开了"三个字放过了 Edmund，现在才真正开始核对这个人。此后他对 Edmund 的态度里会多出一层新的分量——不再是"无害的书呆子"，而是"见过地狱仍然温和的人"。
+**读者视角提示：** 这段也为第 12 章那场信任危机补了一笔账：他当时凭"我离开了"两个字放过了 Edmund，现在才真正开始核对这个人。此后他对 Edmund 的态度里会多出一层新的分量——不再是"无害的书呆子"，而是"见过地狱仍然温和的人"。
 
 > **原句 7:** Gone was the spark of childlike wonder. The Edmund that sat beside him now had eyes as dull as weathered stone. He had seen eyes like that on the old peasant women who searched the battlefield after the fighting had ended, picking through the corpses for their husbands and their sons.
 
@@ -94,7 +94,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 全书最接近告白的段落，被写成一个连问三次的自我否证：想抱他 → 想说点什么 → 说什么呢 → 说"一切都会好"吗 → 可我们在牢里。作者用这串反问把温柔一路推回现实，让情感停在"没有合适的话可说"的位置上。而"不得不保护"与"想做的更多"之间的转折（but suddenly）才是全段的核心：义务第一次被自己的意愿追平。
 
-**读者视角提示：** 对比第 3 章他在路边坐着等人冻死、第 5 章"他死了我就自由"，到这里他的第一反应已经是"想抱住对方"。留意这个结构：每次他想靠近，作者都会立刻给他一个否决的现实条件——他们的关系推进就是这样一进一退地走过来的。
+**读者视角提示：** 对比第 3 章他在路边坐着等人冻死、也是第 3 章那句"他死了我就自由"，到这里他的第一反应已经是"想抱住对方"。留意这个结构：每次他想靠近，作者都会立刻给他一个否决的现实条件——他们的关系推进就是这样一进一退地走过来的。
 
 > **原句 9:** Alba rose to her feet and inclined her head to him. “Sir,” she said. There were entire volumes written in that word and the line of her neck.
 

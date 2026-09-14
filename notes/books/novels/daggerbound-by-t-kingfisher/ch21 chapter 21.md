@@ -22,7 +22,7 @@ modified: "2026-09-14"
 
 **关键词：** as close to the sword as possible, slide it through a window, his tormentor had carefully worked out, the most efficient way
 
-**为什么这样写：** 全书最典型的一处"创伤即知识"：他掌握规则的方式，是当年被人研究出来的。作者用"仔细研究过"（carefully worked out）这种技术赞美词来描述虐待，落差令人发冷；而这一句同时回收了第 12 章那句"他醒来时看见手从牢房栅栏间伸进来"——把刑房的记忆变成今晚的战术。
+**为什么这样写：** 全书最典型的一处"创伤即知识"：他掌握规则的方式，是当年被人研究出来的。作者用"仔细研究过"（carefully worked out）这种技术赞美词来描述虐待，落差令人发冷；而这一句同时回收了紧接的下一句"他醒来时看见手从牢房栅栏间伸进来"——把刑房的记忆变成今晚的战术。
 
 **读者视角提示：** 这个设定（约束对象是剑而非持有者）本身是第 12 章 Edmund 递剑时发现的，如今被系统化成一项技能。留意这条规则后面还会被反复利用——它既是他的枷锁，也是这支小队唯一的战术手段。
 
@@ -84,7 +84,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 全书最动人的一处"不在场"：Edmund 人不在现场，却已经在德尔维希的脑子里取得了引用权，能让他把到手的钱放回去一半。作者用一个极简的动作（把金币放回去）加上一句自言自语完成这次道德转向，而"我判断这很蠢"的保留态度守住了人物的完整——他让步了，但不肯承认自己软弱。
 
-**读者视角提示：** 对照第 3 章（他坐在路边等人冻死，脑子里是 Angharad 的责备声）——那时他需要一个死者来提醒他做人。现在那个位置换成了一个活人，而且是活人替他做了决定。这是本书衡量他成长的第二个刻度（第一个是第 20 章的"这些人是我的"）。
+**读者视角提示：** 对照第 3 章（他坐在路边等人冻死，脑子里是那位救过他的老妇人的责备声）——那时他需要一个死者来提醒他做人。现在那个位置换成了一个活人，而且是活人替他做了决定。这是本书衡量他成长的第二个刻度（第一个是第 20 章的"这些人是我的"）。
 
 > **原句 8:** What he really wanted to do was throw his arms around the Dervish in gratitude, but the memory of their kiss was still too real and immediate. If it happened again, the Dervish would undoubtedly feel obligated to explain that it was just flirting, and even though Edmund knew that, he wanted to spend just a little more time with the possibility that it wasn’t.
 

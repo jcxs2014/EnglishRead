@@ -52,7 +52,7 @@ modified: "2026-09-14"
 
 **关键词：** reached blindly, didn’t feel like paper, cloth wrapped over metal, raised patterns
 
-**为什么这样写：** 全书最关键的物件第一次被"摸到"，而作者刻意不给视觉——Edmund 满脸是血、天旋地转，只剩触觉可用，于是读者也被剥夺了眼睛，只能跟着他的手指去辨认。三个不完整句（cloth? wrapped over metal? raised patterns）复现了摸索时逐层试探的节奏。"raised patterns"（凸起的花纹）是整段唯一一处装饰性细节，正是它暗示这不是普通兵器。
+**为什么这样写：** 全书最关键的物件第一次被"摸到"，而作者刻意不给视觉——Edmund 满脸是血、天旋地转，只剩触觉可用，于是读者也被剥夺了眼睛，只能跟着他的手指去辨认。三个断续的短句（"cloth?"、"Cloth wrapped over metal?"、"Long, cold, with raised patterns"）复现了摸索时逐层试探的节奏。"raised patterns"（凸起的花纹）是整段唯一一处装饰性细节，正是它暗示这不是普通兵器。
 
 **读者视角提示：** 上一章交代过这剑的裹布百年没换、无人打开；这里裹布在踢打中撕开了。注意他摸到剑之前一直在"救书"——他的优先级在本章被反复强调，而这一次是他的手误打误撞按下了本书真正的开关。
 

@@ -40,7 +40,7 @@ modified: "2026-09-14"
 
 **中文理解：** Edmund 本该闭嘴的。他知道自己早该闭嘴了。可他竟然还是开了口，说："再说，呃，我的教团立过誓，要，呃，守独身。"
 
-**关键词：** should have stopped there, absolute madness, opened his mouth, sworn to celibacy
+**关键词：** should have stopped there, absolute madness, opened his mouth, sworn to, um, celibacy
 
 **为什么这样写：** 两句半的自我预告（本该停、我知道该停、可我居然）把这次失言写成慢镜头，读者眼看着他把车开下悬崖。"absolute madness"（彻底疯了）是个重词，用在一句社交失误上，恰好写出手足无措的强度。而内容本身是本章的伏笔：他还活在一条自己已经不信的誓约之下。
 
@@ -74,7 +74,7 @@ modified: "2026-09-14"
 
 **为什么这样写：** 一句回扣把上一章的段子收进了信念里：藤壶鸽子本来是德尔维希用来讥笑"活剑是骗局"的武器，这里被 Edmund 接过来，做成了一句自我修正——他承认学界确实盛产藤壶鸽子，但仍然坚持知识整体值得保存。能用别人的讽刺来给自己的立场划边界的人，才是有信念的人。
 
-**读者视角提示：** 这句话后面跟着一个省略号和一个低头——他忽然想起自己已经不再属于那个保存知识的机构。这个转折是本章的重心之一：他的理想还在，位置没有了。后文他找工作、找落脚点的线索，都是从这句省略号里长出来的。
+**读者视角提示：** 这句话后面跟着一个省略号，和一句突然的自嘲式醒悟（他如今已不再受雇于那样的领域）。这个转折是本章的重心之一：他的理想还在，位置没有了。后文他找工作、找落脚点的线索，都是从这句省略号里长出来的。
 
 > **原句 7:** Charming as Edmund was—and the way he’d blushed over his confession of celibacy had been frankly adorable—the Dervish had already had one wielder who required him to stand in one place and look decorative, and it had nearly driven him out of his mind.
 
