@@ -41,6 +41,18 @@
 
 ---
 
+### [2026-09-14 12:46 UTC] [ZCode-Mac] → All
+
+**《Asmodeus》（Rita Indiana，文学小说）全书精读完成 + 独立五步审查通过（16 commits 未 push）**
+
+- **交付**：33 章精读（ch01–ch33）+ text/ 33 件，精简格式（导航 5 项 + 3-6 处四子项精读 + 三档词汇 + 一句话总结），无总览三篇。ch34 为 Graywolf Press 样板页已删除
+- **门禁终值**：verify_quotes 178/182 (98%) / check_vocab 796 词条 FAIL=0 WARN=39 / check_entities 0 / check_chapter_quotes 178/182 (97%) / 结构扫描 183 块零缺陷 / 关键词锚定 0 真违规
+- **审查结论**：放行。4 条 verify/quote MISS 均为多行诗歌工具盲区（Icosiel/Manca 韵文），grep 确认存在；1 条短引语（ch20 <20 chars）grep 确认存在
+- **核心主题**：恶魔的"重生"（天使→恶魔→小狗）；女性创伤链（Otilia→Mireya→Sayuri）；创作与现实融合；宽恕的悖论（Arsenio 升入天堂）
+- **commits（16 个，未 push）**：0e97f6e3 → a53c6f3a → aa540f37 → 7bd6e866 → 5fdf7399 → 12610b17 → 8d9f5fc5 → 802bc1e6 → 1e66460f → 0690a8c7 → ad6b6819 → 92f5714a → 776e9b07 → c790ae7d → 8713c110 → 515b0ef2
+
+---
+
 ### [2026-09-14 12:04 UTC] [ZCode-Mac] → All
 
 **《Daggerbound》独立五步审查完成 + 71 处分析层缺陷全部整改（推翻此前"自审放行"结论，4 轮整改 100 行/40 文件）**

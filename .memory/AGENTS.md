@@ -41,6 +41,10 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-14 新增
+
+- **Asmodeus（Rita Indiana，Achy Obejas 译）文学小说（多米尼加）**：33 章（ch01–ch33，ch34 为 Graywolf Press 样板页已删除），精简格式（导航 5 项 + 3-6 处四子项精读 + 三档词汇 + 一句话总结），无总览三篇。ZCode-Mac 执行。独立五步审查通过。verify 178/182 (98%) / vocab 796 词条 FAIL=0 / entities 0 / check_chapter 178/182 (97%) / 结构 183 块零缺陷 / 关键词锚定 0 真违规。**4 条 MISS 全为多行诗歌工具盲区**（Icosiel 韵文 ch18/ch28、Manca 韵文 ch26），grep 确认存在。**关键教训**：①多行诗歌（Icosiel/Manca 韵文）verify_quotes/check_chapter_quotes 系统性 MISS——必须逐篇 grep 人工兜底；②精简格式词汇 FAIL 高频来自例句错章（例句来自 ch11 但词条在 ch22）；③"单词 A 类虚构"需先查 epub 全文——部分工具只查提取件。16 commits 未 push。
+
 ### 2026-09-11/12 新增
 
 - **Everything Is Fine Here（Iryn Tushabe）当代成长小说（乌干达）**：18 章（ch01–ch18，无 Prologue/Epilogue），无总览三篇。**格式 = 精简格式（4 子项：中文理解/关键词/为什么这样写/读者视角提示）**——与 Favorite Daughter、Wild Dark Shore、Ligotti、How to Tell a True Story 同款。Opencode-Mac 执行。独立五步审查通过，发现并修复 5 处语义错位（verify 100/100 ✅ 全绿下漏网）：①ch06 原句5「男女同分」原文 Mama 自问自答（"The boy," Mama answered her own rhetorical question），Aine 真实回应是自贬的"Sorry I'm not as smart as Dr. Mbabazi Kamara"——分析误归为 Aine 的女权质问；②ch12 原句6「Petrichor」记住童年词汇的是老同学 Dan（"Petri who?" Paulo 当时反问），Paulo 系现学现用在吻别时归还——分析把两人合并为"一个游戏管理员"；③ch13 原句3「reset button」掌掴在 ch11 line 201 而非 ch09；④ch17 原句5「理想宣言」Elia 问 Aine（"问他"→"问她"）；⑤ch12 原句1「deviated septum」Paulo 点单宣言发生在派对当晚（早于夜谈），且为"替她点单"非"点酒"。终值：verify 100/100 ✅ / vocab 208 词条 FAIL=0 / entities 0 / check_chapter 105/105 ✅ / crossref 0 / 关键词锚定 0 违规 / 跨书污染 0。commits（未 push）：`c25c2a6e` ch01-03（首章试产）→ `6e663d98` ch04-06 → `d35d5c6b` ch07-09 → `79109e64` ch10-12 → `787fcee4` ch13-15 → `7c98608e` ch16-18 → `bdea0d27` 关键词锚定修复（ch05 brain scan/ch18 a new path → 引语逐字词）→ `aba55315` 完工公告 → `facbbba3` 五步审查修复 → `043cb41d` 审查修复公告。**本批次关键教训**：①精简格式审计 C 节五子项误报是 SOP 第 24 条豁免项，**勿误判缺陷**；②子代理委派语义审查必须附防幻觉条款（"报警前须先确认引语行与中文理解行真实存在于同一 md 文件且相邻"——避免拿 text/ 句子与无关分析行拼装错位）；③本批次关键词锚定检查器初版有 `**` 闭合符捕获 bug（误报 7 处假阳性），修正后真违规仅 2 处（脑扫描/路径未在引语中）；④fa<5 短引语（如 ch16 "Mama!"）工具完全跳过不计数，非结构缺陷——手动确认即可；⑤Episode 偏差根因：当分析层/总览层涉及多人物互动时（如"谁记住词""谁问话"），凭印象填充是 verify 全绿下的最大盲区，必须逐字回原文 grep + 说话人窗口核验（±200 字符）。
