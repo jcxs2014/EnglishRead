@@ -124,12 +124,19 @@ modified: "2026-09-14"
 | bleating | 咩咩叫 | He came bleating to me about it |
 | resonant | 共鸣的 | Her voice was low and resonant |
 | euphemism | 委婉语 | was not a euphemism. |
-| wicked | 邪恶的 | His mouth curled into a wicked smile |
 | blood sources | 血源 | one of her blood sources. |
-| receptive | 乐于接受的 | The Queen was most receptive to a meeting |
-| mourn | 哀悼 | I am already mourning their departure. |
+| flinch | 畏缩 | I flinched at the mention of it. |
+| wince | 畏缩 | I couldn't help but wince. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
 | teacup | 茶杯 | as he took his teacup from me. |
 | wan | 苍白的 | I offered a wan smile. |
+| mourn | 哀悼 | I am already mourning their departure. |
+| receptive | 乐于接受的 | The Queen was most receptive to a meeting |
+| wicked | 邪恶的 | His mouth curled into a wicked smile |
 
 ## 一句话总结
 
