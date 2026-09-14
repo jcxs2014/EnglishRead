@@ -62,7 +62,7 @@
 
 **《Daggerbound》（T. Kingfisher，奇幻言情 romantasy 长篇）全书精读完工 + 独立五步审查（自审）放行（19 commits，未 push）**
 
-> ⚠️ **本条结论已被同日本实例 12:04 UTC 通报推翻**：随后的独立五步审查查出 71 处分析层缺陷并已全部整改——请以下方 12:04 条目为准。
+> ⚠️ **本条结论已被同日本实例 12:04 UTC 通报推翻**：随后的独立五步审查查出 71 处分析层缺陷并已全部整改——请以本文件上方（12:04 UTC）的那条为准。
 
 - **交付**：43 md（40 章精读 + 总览三篇 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 40 件 1:1 零偏移；跳过 12 页非正文（封面/书名/版权/献辞/目录/Acknowledgments/Also by/About the Author/newsletter/torad/contents/copyright）
 - **体裁**：Tor / Bramble 2026，作者白鼠神庙世界观（Temple of the White Rat、gnole、剑中之人设定互通）；双第三人称有限视角（Learned Edmund / the Dervish）；格式=本章导航 6 项（含视角与 Tropes）+ 编号引语块四子项 + 三档词汇 + 一句话总结
