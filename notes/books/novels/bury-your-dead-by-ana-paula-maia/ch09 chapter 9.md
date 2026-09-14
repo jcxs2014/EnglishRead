@@ -18,15 +18,15 @@ modified: "2026-09-14"
 
 ## 精读
 
-> **原句 1:** Maybe the bones and tendons are still good for something. Can't pay much for them. Have a look at this. It's long, smooth and natural. No chemical products. I supply a wigmaker.
+> **原句 1:** Maybe the bones and tendons are still good for something. Can't pay much for them. Maybe if they were fresher… but, in this condition, it's tricky. Not all bodies can be used. Some are already decayed when they get here. We don't have a means of handling them.
 
-**中文理解**：也许骨骼和肌腱还能派上用场。付不了太多钱。来看看这个。很长，光滑，天然。没有化学处理。我供应给假发制造商。
+**中文理解**："也许骨骼和肌腱还能派上用场。付不了太多钱。也许如果再新鲜一些……但现在这状态，很难。不是所有尸体都能用。有些送到这里时已经腐烂了。我们没有处理它们的手段。"
 
-**关键词**：bones and tendons / supply a wigmaker / no chemical products
+**关键词**：bones and tendons / not all bodies can be used / already decayed
 
-**为什么这样写**：这是全书最具批判性的场景之一。doctor 对尸体的评估不是从医学而是从商业角度——头发、骨骼、器官都被明码标价。"I supply a wigmaker"是 Ana Paula Maia 对巴西内脏人体贸易最直接的控诉。这不是虚构，而是真实的巴西社会问题。
+**为什么这样写**：这是全书最具批判性的场景之一。doctor 对尸体的评估不是从医学而是从商业角度——骨骼、器官都被明码标价。这段话揭示了停尸房的真实运作逻辑：不是每个尸体都有价值，已经腐烂的不收。
 
-**读者视角提示**：注意医生说"Can't pay much for them"时的语气——这不是对死者的尊重，而是商业谈判的标准开场白。
+**读者视角提示**：注意"some are already decayed when they get here"——腐败发生在"送来这里之前"，暗示了巴西内陆尸体处理的漫长等待。
 
 ---
 
@@ -42,31 +42,7 @@ modified: "2026-09-14"
 
 ---
 
-> **原句 3:** 'Because it's not our job,' says Misael, standing in the doorway.
-
-**中文理解**："因为这不是我们的工作，"米萨埃尔说，他站在门口。
-
-**关键词**：it's not our job
-
-**为什么这样写**：这是 Misael 对整个停尸房系统职责的定义。不是"帮助寻找家人"，而是"储存尸体"。"standing in the doorway"暗示了他与死亡之间的距离——他站在门口，而不是在里面。这句话是巴西基础设施破产的诊断书。
-
-**读者视角提示**：注意这是 Misael 在解释为什么他们不帮助寻找死者家人——他不是在拒绝，而是在陈述制度规则。
-
----
-
-> **原句 4:** 'You think we should be going door to door looking for the family of every dead person who shows up here?'
-
-**中文理解**："你觉得我们应该挨家挨户去找每一个死者的家人吗？"
-
-**关键词**：door to door / every dead person
-
-**为什么这样写**：这是继 Espartacus 的墓碑独白之后，全书对"制度性忽视死亡"最有力的控诉。Misael 不是在拒绝，而是在反问——暗示答案是"不，我们不应该"。这是巴西内陆政府机构对死亡的标准态度。
-
-**读者视角提示**：注意这句话出现在他剥香蕉的时候——日常行为与道德问题的并置，是 Ana Paula Maia 对"冷漠已经成为常态"的最有力呈现。
-
----
-
-> **原句 5:** 'I've seen believers immerse themselves in this river to bury the old person and be reborn without sin,' Edgar Wilson says, blowing out smoke. 'Never saw an angel or a devil here, but who knows what lies at the bottom? At least they'll be able to rot in peace.'
+> **原句 3:** 'I've seen believers immerse themselves in this river to bury the old person and be reborn without sin,' Edgar Wilson says, blowing out smoke. 'Never saw an angel or a devil here, but who knows what lies at the bottom? At least they'll be able to rot in peace.'
 
 **中文理解**："我见过信徒们把自己浸入这条河来埋葬老人，获得重生、免除罪孽，"埃德加·威尔逊吐着烟说。"我在这里从没见过天使或恶魔，但谁知道水底有什么？至少他们能够平静地腐烂了。"
 
@@ -78,7 +54,7 @@ modified: "2026-09-14"
 
 ---
 
-> **原句 6:** For Tomás, what matters is the soul, while Edgar is concerned with the carcass, just like the vultures.
+> **原句 4:** For Tomás, what matters is the soul, while Edgar is concerned with the carcass, just like the vultures.
 
 **中文理解**：对托马斯来说，重要的是灵魂，而埃德加关心的是尸体，就像秃鹰一样。
 
@@ -87,6 +63,18 @@ modified: "2026-09-14"
 **为什么这样写**：这是全书的结尾句之一，也是 Edgar 和 Tomás 关系的最终定义。Tomás 是精神性的——他关心灵魂的救赎；Edgar 是物质性的——他关心尸体的处理。但两者都在做同样的事情：确保没有人孤独地留在外面。"like the vultures"不是贬义——秃鹰也是生态系统的一部分，只是各有各的位置。
 
 **读者视角提示**：注意这句话出现在他们把尸体沉入河中之后——这是 Edgar 旅程的结束，他带着秃鹰的逻辑，把尸体送入了永恒的食腐循环。
+
+---
+
+> **原句 5:** 'It's long, smooth and natural. No chemical products. I supply a wigmaker.'
+
+**中文理解**："很长，光滑，天然。没有化学处理。我供应给假发制造商。"
+
+**关键词**：long, smooth and natural / I supply a wigmaker / no chemical products
+
+**为什么这样写**：这是 Ana Paula Maia 对巴西内脏人体贸易最直接的控诉。医生的"产品说明"与商业广告无异——尸体的头发被当作原材料出售。这是继 Espartacus 的墓碑独白之后，全书对"死亡是商品"的最有力呈现。
+
+**读者视角提示**："No chemical products"是医生的品质保证——他不是在亵渎，而是提供"有机"产品。
 
 ## 本章词汇
 
