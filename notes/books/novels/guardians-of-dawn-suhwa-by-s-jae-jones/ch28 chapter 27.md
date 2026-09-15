@@ -91,7 +91,7 @@ modified: "2026-09-15"
 
 **关键词：** sole, all
 
-**为什么这样写：** 共治宣言：sole（独）→ all（众）：tap chest（拍胸：we 在此）—— Star 的终极答案（ch10 "burden alone?"之问）：never meant alone（从没打算独扛）。"See it all"（全懂）+ daughter's shadow（笑里 Ami 影，上章既视）：whole 的人（星象师复明）说 whole 的话（共治）：形式即内容。Gaden 的"lighter"（ch17 骤轻）+ 本章"headache"（头疼）：散 Star 的副作用（轻）+ 懂 Star 的代价（疼）：成长痛。
+**为什么这样写：** 共治宣言：sole（独）→ all（众）：tap chest（拍胸：we 在此）—— Star 的终极答案（ch17 "burden 独挑?"之问）：never meant alone（从没打算独扛）。"See it all"（全懂）+ daughter's shadow（笑里 Ami 影，上章既视）：whole 的人（星象师复明）说 whole 的话（共治）：形式即内容。Gaden 的"lighter"（ch17 骤轻）+ 本章"headache"（头疼）：散 Star 的副作用（轻）+ 懂 Star 的代价（疼）：成长痛。
 
 **读者视角提示：** 全书 power 线收束：Star（独）→ will 碎片（分）→ 人人 Star（共）：驱魔战的蓝图（下章）：Gaden 不再独 C（ch10 "can't/won't use" 的解：不用独用，用众用）。记住"we all are"：它是战歌（群 C 令），也是墓志铭（Sunburst 独治制的终结：Mugung 收 will 集权→ Gaden 散 will 还权，两千年一循环，闭环）。下章（终战）：群 C 驱魔，Water 定湖（已封）+ Wind 传信（Rizhi 捷）+ Fire 执剑（Hwangyeong 胜）+ Wood 译经（exorcism 页？）+ Star 群（共治）五线汇 mainland，Mother 的 cage 之日（押送中，ch19）即驱魔之日。
 

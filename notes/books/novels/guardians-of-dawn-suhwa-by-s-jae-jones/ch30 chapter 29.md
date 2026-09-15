@@ -63,7 +63,7 @@ modified: "2026-09-15"
 
 **为什么这样写：** Han 的免责声明：no guarantee（无保）——consensus 的诚实版（ch14 "must consider" 的续集）：admitted（认）：认 bug 不丢信仰（believe collective 照信）：sigh（叹）是叹气不是泄气。"I do believe"（我信）+ trust（信）：信两次（制+人）：Han 的哲学（tutor 没读版）：信制（共决）+ 信人（彼此+己）：Zhara 的"made up mind"（定）即此二信的果：信了，就干（exorcism 夜袭）。
 
-**读者视角提示：** 与 Gaden 论（ch14 "consensus wrong?"）对照：同一问，Han 答给 Zhara（信+担），Gaden 答给自己（不坐庄）：两种答案，两种人生（坐庄者担，不坐者选）。记住这个对照：终战（驱魔）是坐庄者的局（Han/Zhara 担），Gaden 的"we all are"（共治，ch28）是散庄——庄散了，担还在（Zhara 肩上）。
+**读者视角提示：** 与 Gaden 论（ch05 "consensus wrong?"）对照：同一问，Han 答给 Zhara（信+担），Gaden 答给自己（不坐庄）：两种答案，两种人生（坐庄者担，不坐者选）。记住这个对照：终战（驱魔）是坐庄者的局（Han/Zhara 担），Gaden 的"we all are"（共治，ch28）是散庄——庄散了，担还在（Zhara 肩上）。
 
 > **原句 6:** So the question you have to ask is: do you trust us? Do you trust yourself?
 
