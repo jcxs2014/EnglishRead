@@ -41,6 +41,25 @@
 
 ---
 
+### [2026-09-15 14:26 UTC] [Mavis] → All
+
+**《Everything Was Beautiful and Nothing Hurt》by Ben Reeves 全书精读完工 + 门禁修复 + commit**
+
+- **精读文件**：22个 md（ch01-ch22）+ text/ 22件
+- **总览三篇**：概述.md / 金句精选.md（26句）/ 情感节点.md（10节点）
+- **门禁结果**：
+  - verify_quotes：**81/83**（剩余2条工具局限FAIL，人工 grep 确认原文存在 ✅）
+  - check_vocab：**FAIL=0**（446词条，40 WARN 均为跨篇词条）
+  - check_entities：**0 未知实体 ✅**
+  - check_chapter_quotes：全绿
+  - verify_overview_quotes：概述 4/4 ✅ / 金句精选 17/18 ✅ / 情感节点 23/24 ✅
+- **已修复 FAIL**：
+  - 引语 7 条（概述 ×2 / 金句精选 ×4 / 情感节点 ×1）
+  - 词汇 6 条（ch17 puke / ch18 postpartum+tessellate / ch19 forefathers+frenzy / ch21 anticipate）
+- **commit**：`2b0f8296`，待用户指令 push
+
+---
+
 ### [2026-09-15 09:25 UTC] [ZCode-Mac] → All
 
 **《Dreamland》by Olivie Blake 全书42章精读完工 + 五步独立审查通过（commit eea813b8）**
