@@ -75,15 +75,15 @@ modified: "2026-09-15"
 
 **读者视角提示：** 紧接着的下一句是全书最狠的一处比喻（"all too horribly like the beat of DrummerBoy starting up."）：救命的胸外按压被写成神的鼓声，把 Massif 的阴影压回抢救现场。
 
-> **原句 7:** "'Med Suite is operating,' said Fiver. 'Corporal Bobb Zhao-Tapa has a ninety-one percent chance of surviving'"
+> **原句 7:** "Emergency blood replacement needed. Higher level medical device intervention needed. Emergency!"
 
-**中文理解：** "医疗舱正在运作，" Fiver 说。"下士 Bobb Zhao-Tapa 的存活几率为百分之九十一。"
+**中文理解：** "急需血液替代品。需要更高级别的医疗设备介入。紧急！"
 
-**关键词：** Med Suite is operating / ninety-one percent chance
+**关键词：** Emergency blood replacement / Higher level medical device intervention
 
-**为什么这样写：** 用概率与军衔全称回答"她怎么样"——机器的语言把最揪心的时刻交给数字；这种"冷冷的希望"正是本书的科幻语域：死亡被换算成赔率。
+**为什么这样写：** 用机器连珠式的三段警报写伤情的严重——每一句都以"需要"开头，把人的濒死翻译成设备清单；"Emergency!"的重复则暴露出这套系统在设计上也只会喊，不会救。
 
-**读者视角提示：** 请记住"91%"不是安慰而是承诺的起点：后续章节中她的截肢与康复都建立在这个数字上。
+**读者视角提示：** 这段警报之后是 Parnell 敲击手套食指让它闭嘴的动作：在极端危急中，人做的第一件事竟是让机器停止通报——本书对"医疗官僚"的讽刺在此收尾。
 
 ## 本章词汇
 

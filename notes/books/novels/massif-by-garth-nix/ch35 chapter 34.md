@@ -10,7 +10,7 @@ modified: "2026-09-15"
 - **一句话概括**：Bobb 手术成功但仍将失去一条腿；Parnell 与 Ricka 在雨中密谈，定下真正的计划——不把脑中的 Massif 技术交给任何一方，而是抄写多份、经 Conti 同时送给 UEG 与 MBPS 的科学家；终章以"为 Kaz 与外星仓鼠干杯"和一句关于酒的问句作结。
 - **情感弧线位置**：落幕与启程（哀悼转为使命）——全书以葬礼收束，以"全人类合作"作为出口。
 - **Tropes 兑现/反转**：无 romance 套路；「战利品」母题最终反转为「知识的公有」——主角放弃把发现交给自己的国家。
-- **人物弧线**：Parnell 完成从军人到"人类共同体成员"的转变（"I can't give this to only half of humanity."）；Ricka 从怀疑者变成第一个共谋者；全章为缺席者（Kaz、Aditi、Shille、Muram）逐一点名。
+- **人物弧线**：Parnell 完成从军人到"人类共同体成员"的转变（"I can't give this to only half of humanity."）；Ricka 从怀疑者变成第一个共谋者；全章为缺席者（Kaz、Aditi、Shille、Murad）逐一点名。
 - **叙事手法**：以一段室外密谈承担全部情节翻转，随后用一串仪式性抒情（敬酒、拥抱、摔倒）收束全书；结尾保留悬念（Massif 作为"lurking doom"）。
 
 ## 精读
