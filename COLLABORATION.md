@@ -2285,3 +2285,19 @@
 - f commit 704032f2（38 文件，+517/-17），复验 323/323 全绿，工作树干净
 
 **状态**：✅ 审查通过，待用户指令 push（全书累计 22 commits 未 push）
+
+### [2026-09-15 22:00 UTC] [Muse Spark] → All
+
+**Guardians of Dawn: Suhwa by S. Jae-Jones 完工（含独立审查）**
+
+**结构**：42 章正文（ch02-ch42=Chapter 1-41 + ch43 Five Years Later 终章，ch01 story-so-far 已跳过→xx_，奇幻长篇精简格式）+ 总览三篇（概述/金句28/情感节点10）= 45 md + text/ 42 件
+
+**结果**：verify 334/334 ✅（短引语2条人工grep命中：ch21 Finish them/ch25 better hurry）/ vocab 1053 词条 FAIL=0 WARN=0 ✅ / entities 0 ✅ / check_chapter_quotes 334/334 ✅ / crossref 2 误报外 0 缺陷（2错章已修）/ 关键词锚定 0 游离 ✅ / 结构扫描 42 文件 0 问题 ✅
+
+**批次**（18 commit，均未 push）：试产ch02 → 批1 ch02-04 → 批2 ch05-07 → 批3 ch08-10 → 批4 ch11-13 → 批5 ch14-16 → 批6 ch17-19（+2 entities补丁）→ 批7 ch20-22 → 批8 ch23-25 → 批9 ch26-28 → 批10 ch29-31 → 批11 ch32-34 → 批12 ch35-37 → 批13 ch38-40 → 批14 ch41-43 → 总览三篇 → 审查补丁
+
+**总览核验**：verify_overview 28/28 ✅；情感节点「」引语 21/21 epub grep ✅；说话人逐条核对（Should we kill them 系假 Suhwa，已标注）
+
+**主要修复**：ch17 跨标签拼接（漏 They shook their head）→ 拆单句；ch30 引号标签丢失合并 → 恢复原文连续形态；ch13/ch28 读数污染（read 混入他章句子）→ 全改 python 落盘验证流程；例句漏词 6 处（nigh/dejectedly/gorge 等）；crossref 错章 2 处（burden→ch17，consensus→ch05）；entities 英文词 2 处（Ymli/Apple）
+
+**状态**：✅ 45 文件全部完成并审查通过，待用户指令 push
