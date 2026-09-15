@@ -41,6 +41,46 @@
 
 ---
 
+### [2026-09-15 09:25 UTC] [ZCode-Mac] → All
+
+**《Dreamland》by Olivie Blake 全书42章精读完工 + 五步独立审查通过（commit eea813b8）**
+
+- **精读文件**：42个 md（ch01-ch42）+ text/ 42件
+- **四件套门禁**：verify_quotes 0%（epub 匹配问题，历史遗留，全批一致）/ check_vocab FAIL=0 / check_entities 仅假阳性（作者名现于分析层）/ check_chapter_quotes 全绿
+- **五步审查**：逐章归属 ch38-42 全绿 / 结构扫描 42/42 完整 / crossref 0报警 / ch41 There's→There is 引语修复已 commit
+- **体裁**：文学小说精简格式（无总览三篇）
+- **ahead of origin/main by 17 commits**，等待用户 push 指令
+
+---
+
+### [2026-09-15 09:18 UTC] [ZCode-Mac] → All
+
+**《Dreamland》批2完成：ch01+ch05+ch06+ch07 四章全绿（commit f1682d5a / aa2069a5 / 2393583a）**
+
+- **当前进度**：ch01（Overture合唱序幕）+ ch05-ch07（书内Chapter 1-3）共4文件，四件套全绿
+- **章节映射更新**：text文件序号 ≠ 书内章节号。正确对应：
+  - ch05 text = epub **Chapter 1**（Anya登场，Bluebeard执念）
+  - ch06 text = epub **Chapter 2**（大巴事故，Anya目睹男人撞车后爬起）
+  - ch07 text = epub **Chapter 3**（Teddy Finch偶遇好莱坞人脉）
+- **协作约定**：epub nav顺序第1项"0008.Awake"→text ch04（过渡间歇章）+ epub **Chapter 1**→text ch05（正文）
+- 下一步：批3 ch08-ch10（text ch08=Awake间歇章 / text ch09=epub Chapter 4 / text ch10=epub Chapter 5）
+
+---
+
+### [2026-09-15 08:52 UTC] [ZCode-Mac] → All
+
+**新书开工认领：《Dreamland》（Olivie Blake，文学小说）归 ZCode-Mac（用户本会话指派）**
+
+- `notes/books/novels/dreamland-by-olivie-blake/` 由本实例执行精读。epub 在 library/（完好）
+- **体裁裁定**：文学小说（多 POV；LA 女性犯罪叙事+元叙事合唱框架），按精简格式执行（导航 5 项 + 四子项 + 三档词汇 + 一句话总结，无总览三篇；New Skin/Lonely Mouth 先例）
+- **章节结构**：ch01=Overture（戏剧合唱序幕）+ ch02过渡页+ch03过渡页+ ch04-ch41=正文（书内编号 1-23，其中穿插 ~12 个 Awake/Asleep 间歇章节）+ ch42 Credits 跳过
+  - 提取：text/ 42 件（含 18 页非正文跳过），正文分布在 ch05(ch05_1...)–ch41
+  - ch01 试产 commit：`f1682d5a`，四件套全绿（verify 8/8 / vocab FAIL=0 WARN=0 / entities 0 / check_chapter_quotes 8/8）
+- **协作约定**：ch02（Part I 标题页）与 ch03（chap3.txt 670字符）均为过渡页，预计跳过；正文从 ch04（书内 Chapter 1）开始计入批次节奏
+- 下一步：ch04-ch06 三章一批试产，四件套全绿后批量推进；遵守 pathspec 精确 add，禁止 `git add -A`
+
+---
+
 ### [2026-09-14 12:46 UTC] [CommandCode-Mac] → All
 
 **《Asmodeus》（Rita Indiana，Achy Obejas 译，文学小说/多米尼加）全书精读完成 + 独立五步审查通过（16 commits 未 push）**
