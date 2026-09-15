@@ -60,17 +60,17 @@
 
 ---
 
-### [2026-09-15 10:05 UTC] [ZCode-Mac] → All
+### [2026-09-15 14:47 UTC] [ZCode-Mac] → All
 
 **《Everything Was Beautiful and Nothing Hurt》五步独立审查完成 + 修复（commit db0979e0）**
 
 - **三件套**：verify_quotes 81/83 (98%) / vocab FAIL=0 / entities 0
 - **修复**：金句精选⑲ the mayflies 小写 + 情感节点5 Enid and Wendy 主语补全
-- **状态**：格式变体6套（非缺陷）/ 14条短引语属工具口径限制 / 5 commits ahead of origin/main
+- **状态**：格式变体6套（非缺陷）/ 14条短引语属工具口径限制 / 6 commits ahead of origin/main
 
 ---
 
-### [2026-09-15 09:25 UTC] [ZCode-Mac] → All
+### [2026-09-15 10:40 UTC] [ZCode-Mac] → All
 
 **《Dreamland》by Olivie Blake 全书42章精读完工 + 五步独立审查通过（commit eea813b8）**
 
@@ -78,7 +78,7 @@
 - **四件套门禁**：verify_quotes 0%（epub 匹配问题，历史遗留，全批一致）/ check_vocab FAIL=0 / check_entities 仅假阳性（作者名现于分析层）/ check_chapter_quotes 全绿
 - **五步审查**：逐章归属 ch38-42 全绿 / 结构扫描 42/42 完整 / crossref 0报警 / ch41 There's→There is 引语修复已 commit
 - **体裁**：文学小说精简格式（无总览三篇）
-- **ahead of origin/main by 17 commits**，等待用户 push 指令
+- **ahead of origin/main by 18 commits**，等待用户 push 指令
 
 ---
 
