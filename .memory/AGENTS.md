@@ -133,7 +133,7 @@ metadata:
 | `check_crossref.py` | 分析层 chNN "引语" 引用校验（2026-09-06 新增）|
 | `audit_book.py` | 一键总账（commit 前必跑；不含 crossref）|
 
-各工具口径盲区速查见根 AGENTS.md 工具表下方"工具已知盲区速查"。
+各工具口径盲区速查：topic `tool-blinds-202609`（含 verify_quotes/extract_chapters/check_vocab/check_chapter_quotes/audit_book 双绿≠干净/sweep漏网）；关键词锚定检查器：topic `keyword-anchor-checker`；子代理幻觉根因：topic `subagent-hallucination`。
 
 ## 推送策略
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
@@ -141,3 +141,9 @@ metadata:
 - 多 IDE 并行时禁止 `git add -A` / `git add .`
 
 - **You Were Never Not Mine（Monica Murphy）言情长篇**：57 章（ch01 Prologue + ch02-ch55 + ch56 Epilogue + ch57 Epilogue Part 2）+ 总览三篇（概述/情感节点10/金句26）= 60 md + text/ 57 件。Muse Spark 执行，22 commits 未 push。终值：verify 323/323 ✅ / vocab 507 词条 FAIL=0 / entities 2 误报 / check_chapter 311/311 ✅ / crossref 0 / 总览 45 引语全绿。**关键教训**：①短引语全量 sweep 自建法（flat<20 全提取 + grep 本章 text）抓 3 真缺陷（ch21 漏 n't 致反义、ch31/ch45 合并独立引语）——工具静默跳过 + 人工抽查都会漏，必须全量脚本化；②格式 retrofit 先例：37 文件三子项→四子项（补 254 行读者视角）由三子代理并行完成，附反例+防幻觉条款，语义零错位；③子代理备案须独立复核证据：B 批报 ch33 短句虚构实为其 grep 引号风格错（原文 line 89 实有），报警数字≠证据；④总览中文文件名不在 verify_overview_quotes 口径内（Fox 改 00 名，本书手工等效：长句指纹 0 MISS + 短句 9/9），命名是否统一待定；⑤多实例下 `git add` 只加明确路径（一次 -A 误收他书文件，reset 回退）。
+
+### 2026-09-15 新增
+
+- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（三件套全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件
+- **子代理幻觉根因**（topic: `subagent-hallucination`）：根因=分析子项未锚定原文仅靠泛化指令生成；缓解=引语先行（每块附英文原句逐字粘贴）+ ≥20章自建关键词锚定检查器；实证=100G ch86引语与分析完全错位/NS 137块主会话逐对核对可补救
+- **关键词锚定检查器**（topic: `keyword-anchor-checker`）：≥20章推荐；原理=分析块关键词英文词须命中该块引语或"为什么这样写"文本；Memories Like Fangs实战=237块扫出59+处违规（说明问题在大批次中普遍，需系统性扫描而非人工抽检）
