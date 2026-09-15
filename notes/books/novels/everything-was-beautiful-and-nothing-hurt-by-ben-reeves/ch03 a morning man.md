@@ -49,11 +49,11 @@ modified: "2026-09-07"
 
 ③
 
-> **原句 3:** John says g'morning, g'morning. The young man at the counter walks away from the till. A red light indicates that the till is closed. But John hangs around a bit longer before using the self-service.
+> **原句 3:** The young man at the counter walks away from the till. A red light indicates that the till is closed. But John hangs around a bit longer before using the self-service.
 
-**中文理解**：John 说"早安，早安"。柜台后的年轻人从收银台走开了。红光表明收银台已关闭。但 John 还是多等了一会儿才去用自助机器。
+**中文理解**：柜台后的年轻人从收银台走开了。红光表明收银台已关闭。但 John 还是多等了一会儿才去用自助机器。
 
-**句子结构**：四句短句推进——场景描写 + 关键动作 + 结果 + 转折；以 But 引入的转折句揭示 John 的策略（hangs around longer before self-service）。
+**句子结构**：三句短句推进——关键动作 + 结果 + 转折；以 But 引入的转折句揭示 John 的策略（hangs around longer before self-service）。
 
 **关键词**：till（收银台）、self-service（自助服务）、hangs around（逗留）
 

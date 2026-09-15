@@ -231,7 +231,7 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| anticipate | 期待，预期 | anticipating the moment |
+| anticipating /ænˈtɪsɪpeɪtɪŋ/ | 期待，预期（anticipate 的-ing 形式） | Each of them is still and quiet, anticipating the moment. |
 | veil | 帷幕，面纱 | The veil has been lifted |
 | reins | 缰绳，控制 | the reins removed |
 | soar | 高飞，翱翔 | soar into space |

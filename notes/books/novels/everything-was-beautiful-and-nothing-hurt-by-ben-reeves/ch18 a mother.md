@@ -168,8 +168,7 @@ modified: "2026-09-08"
 | funnel /ˈfʌnl/ | 漏斗 | You attach the funnel to the exhaust. |
 | gaffer tape | 布基胶带（强力胶带） | the hose and funnel and gaffer tape from the boot |
 | usher /ˈʌʃər/ | 引领；迎来 | a woman who ushered lives into the world while I ushered them out |
-| postpartum /ˌpəʊstˈpɑːtəm/ | 产后的 | （原文未出现，删除） |
-| tessellate /ˈtesəleɪt/ | 镶嵌；完美契合 | a shape that happens to tessellate with mine in a way that is pleasing and inconvenient |
+| willow /ˈwɪləʊ/ | 柳树 | Clusters of willows |
 
 ### ⭐⭐ 进阶
 

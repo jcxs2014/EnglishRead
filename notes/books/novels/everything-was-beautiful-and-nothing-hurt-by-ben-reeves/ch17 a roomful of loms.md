@@ -156,7 +156,6 @@ modified: "2026-09-08"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| puke /pjuːk/ | 呕吐 | （文中未出现，纯属虚构，此处删除） |
 | cushion /ˈkʊʃn/ | 垫子；缓解 | all cushions and fizz |
 | pulse /pʌls/ | 脉搏；跳动 | He can feel his pulse in his waistband. |
 | wipe /waɪp/ | 擦，抹 | He wipes the dust away, opens the case, takes out the disc. |

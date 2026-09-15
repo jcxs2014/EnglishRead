@@ -119,7 +119,7 @@ modified: "2026-09-08"
 | prophesied /ˈprɒfəsaɪd/ | 预言（prophesy 的过去式/过去分词） | the one who prophesied the Special Day |
 | doom /duːm/ | 注定；厄运 | Maybe we were doomed to lie here in the mud. |
 | dace /deɪs/ | 黄鲑（一种淡水鱼） | evading the rainbow trout, the dace |
-| forefathers and foremothers | 祖先们 | He dreamed of his forefathers and foremothers. |
+| forefathers and foremothers | 祖先们 | He'd dreamed of his forefathers and foremothers. |
 
 ### ⭐⭐ 进阶
 
@@ -127,8 +127,7 @@ modified: "2026-09-08"
 |------|------|------|
 | mayfly /ˈmeɪflaɪ/ | 蛰蝣 | The mayfly larvae huddle in the silty shadows. |
 | huddle /ˈhʌdl/ | 蜷缩，挤在一起 | They huddle in the dark. |
-| weightlessness /ˈweɪtləsnəs/ | 失重感 | a weightlessness, a joyous frenzy |
-| frenzy /ˈfrenzi/ | 狂热，狂乱 | a joyous frenzy |
+| weightlessness /ˈweɪtləsnəs/ | 失重感；超然物外 | a weightlessness, a joyous frenzy |
 
 ### ⭐ 基础
 
