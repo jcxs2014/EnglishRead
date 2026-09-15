@@ -69,7 +69,7 @@ modified: "2026-09-15"
 
 **中文理解：** "他们把我变成了一颗他妈的种子，Parnell。一颗种子！"
 
-**关键词：** turned me into a seed / A fucking seed!
+**关键词：** turned me into a fucking seed / A fucking seed!
 
 **为什么这样写：** 用最粗俗的词（fucking）反复强调最"自然"的词（seed）——把生殖意象与暴力结合；重复整句（带感叹号）模拟崩溃的语调。
 

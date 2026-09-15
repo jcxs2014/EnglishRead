@@ -67,7 +67,7 @@ modified: "2026-09-15"
 
 **中文理解：** Parnell 加了一件自己的东西：他从钓线卷轴上取下了线。
 
-**关键词：** one item of his own / freed from his fishing reel
+**关键词：** one item of his own / taken the spool from his fishing reel
 
 **为什么这样写：** 用"钓线"作为唯一的私人装备——以最日常的物件应对神话级的黑暗（like Theseus in the labyrinth），作者甚至直接点出忒修斯典故，却把它藏在叙述者的私人念头里。
 

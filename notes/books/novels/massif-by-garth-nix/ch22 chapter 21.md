@@ -29,7 +29,7 @@ modified: "2026-09-15"
 
 **中文理解：** "往前走，" Parnell 低声对自己说。"往前走。"
 
-**关键词：** Push on / muttered to himself
+**关键词：** Push on / muttered Parnell to himself
 
 **为什么这样写：** 用老兵口令充当精神支柱——这原是训练军士的口头禅（Subadar Hong），此刻成了唯一的意志来源；重复（两次）使全章获得一个节拍器。
 
