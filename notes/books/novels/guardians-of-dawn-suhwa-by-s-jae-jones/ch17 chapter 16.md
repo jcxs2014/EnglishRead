@@ -11,7 +11,7 @@ modified: "2026-09-15"
 - **视角**：第三人称有限 Gaden（imperial gardens 单场景，教学章）。
 - **情感弧线位置**：Gaden 线转折章——"无用三无"（ch10）到"会用 Star 第一课"：power 不是 gem，是雪球（snowflakes 可分可还）。
 - **人物弧线**：Gaden 从"weapon 自认"（I was the weapon）到"放手第一课"（release will）再到"sense chaos"（第一次感知虚空）——不靠 Star（compel）靠还 Star（restore），力量观翻转。
-- **叙事手法**：家书（Okonwe 四职业论）+ 园艺惊魂（四季同园）+ 教学戏（snowflake 可视化）；"look but do not see" 即 Wood/Apple 式点化。
+- **叙事手法**：家书（Okonwe 四职业论）+ 园艺惊魂（四季同园）+ 教学戏（snowflake 可视化）；"look but do not see" 即禅师式点化。
 
 ## 精读
 
