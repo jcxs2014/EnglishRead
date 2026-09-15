@@ -9,7 +9,7 @@ modified: "2026-09-15"
 
 - **一句话概括**：换 Han 视角：Rizhi 设伏夜战——Jiyi 符炮+ war wagon 三轮齐射，街巷节节抵抗让出纵深，governor 卖城诱敌，Star 符文盒擒 Lady of Wild Things，笼中 Mother 冷笑"拿 Star 对付我？"，Han 对"怎么驱魔"无言收束。
 - **视角**：第三人称有限 Han（Rizhi 城墙—街巷—总督府三段式，大战章）。
-- **情感弧线位置**：战局线高潮——擒王计划一次成功（Ymli 情报→ Han 游说→ Jiyi 符器→ governor 卖城），但"擒"只是上半场，"驱"无解。
+- **情感弧线位置**：战局线高潮——擒王计划一次成功（Yuli 情报→ Han 游说→ Jiyi 符器→ governor 卖城），但"擒"只是上半场，"驱"无解。
 - **人物弧线**：Han 从"哄 Jiyi 开工"（morale 课）到"城头数灯灭"（every light a life）再到"对笼无言"——leader 的首胜是惨胜，十五岁的 magician 死在眼前，胜利的算法里全是孩子的命。
 - **叙事手法**：战前双簧（Jiyi 毒舌+ Han 哄）+ 城头三轮射（Hold/Fire 节拍）+ 巷战让路（inch by inch）+ 诱捕戏（governor 卖城三请）；"Steady" 三喊是全章节拍器。
 
