@@ -115,7 +115,7 @@ modified: "2026-09-15"
 ---
 
 > **引语 10：**
-> "There is no evidence of Julian de Witt ever being born, and no body fitting his description was ever found in the wreckage of the villa. So, the men who inevitably feel the need to explain my life to me usually tell me that they've figured it out: I was Jude de Witt all along."
+> "There’s no evidence of Julian de Witt ever being born, and no body fitting his description was ever found in the wreckage of the villa. So, the men who inevitably feel the need to explain my life to me usually tell me that they’ve figured it out: I was Jude de Witt all along."
 
 **中文理解：** 没有证据表明Julian de Witt曾经出生过，也没有任何符合他描述的尸体在别墅废墟中被发现。所以，那些不可避免地觉得需要向我解释我的生活的人通常告诉我他们已经搞清楚了：我其实就是Jude de Witt。
 
