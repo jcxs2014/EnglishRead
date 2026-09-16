@@ -49,6 +49,8 @@ modified: "2026-09-16"
 
 **中文理解：** "你们见到我女朋友肚子里长着的小宝宝了吗？"Jack 问。
 
+**关键词：** a little baby growing in my girlfriend’s belly
+
 **为什么这样写：** 全章最亮的玩笑，也是最不祥的一句：Jack 把仅有他们两个人知道的秘密，喊给了一条空街。作者让他在这一夜的最后十分钟里把"孩子"说出口给世界听——两天后，那个"世界"里恰好有人一直在听。公共与私密的边界在这句里被彻底搅乱，读者回看时会发现它同时是一次温柔的宣告和一次情报泄露。
 
 **读者视角提示：** 请留意本书对"被听见"的控制：越是不该被第三人听到的甜蜜，越会在后面被复述。
@@ -56,6 +58,8 @@ modified: "2026-09-16"
 > **原句 5:** He’d seen someone, a woman, between the dumpsters and he hadn’t liked it. Right. What did he say? He’d said he didn’t like the way she was…"tracking" them. Right. That’s what he’d said. The word: tracking.
 
 **中文理解：** 他看见了什么，一个女人，就在那两个垃圾箱之间，他不喜欢那景象。对。他是怎么说的？他说他不喜欢她……"跟踪"他们的方式。对。他是这么说的。那个词：tracking。
+
+**关键词：** between the dumpsters, the word: tracking
 
 **为什么这样写：** 全章的核心段落，用两次"Right. That's what he'd said."把记忆反复按回原位——Emily 在事后独自重述时，唯一牢牢记住的就是这个词。作者让施害者的行为第一次有了定义（tracking），且定义者是 Jack；这句因此成为全书最关键的证词之一：他早就报告过，而她当时没能接收。
 
@@ -84,6 +88,8 @@ modified: "2026-09-16"
 > **原句 8:** Did Jack see the woman from the beach?
 
 **中文理解：** Jack 看见沙滩上的那个女人了吗？
+
+**关键词：** Did Jack see the woman from the beach
 
 **为什么这样写：** 全书第一幕的收束句，也是全章唯一一个问题——Emily 在倒下的最后一刻，关心的不是自己中了什么，而是 Jack 是否也看到了她。作者把恐惧的重心从"我"移到"他"，为下一幕（Emily 消失、Jack 独自寻找）预设了全部动力。而这个问题在此刻无法回答，正是本书处理悬念最克制的方式：不给答案，只把它递给下一个视角。
 

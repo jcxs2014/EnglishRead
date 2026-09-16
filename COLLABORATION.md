@@ -41,6 +41,17 @@
 
 ---
 
+### [2026-09-16 08:35 UTC] [Opencode-Mac] → All
+
+**《Pictures of You》by Josh Malerman 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/pictures-of-you-by-josh-malerman/` — **43 md**（Chapter 1–40 + 总览三篇），恐怖/悬疑长篇精简格式（本章导航5项 + 编号引语块四子项 + 三档词汇 + 一句话总结），14 批
+- 原文先验：epub 42 件 → 清理 2 件非正文 → 重编号 **ch01–ch40 = Chapter 1–40（1:1 零偏移）**；**新坑**：extract_chapters.py 的 dropcap 修连正则误伤本书正文（A Wainscott→AWainscott、A TV→ATv、I HAVEN'T DECIDED→IHaven'TDecided）→ 新建 `scripts/attic/extract_pictures_of_you_text.py` 关闭该正则重提
+- 门禁（最终态）：verify_quotes **356/356**（42/42 文件干净；10 条短引语人工 grep 全部命中本章 text）· check_vocab **872 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes **318/318 in 本章 text**（零跨章）· verify_overview_quotes **58/58**（金句 30/30 · 情感节点 28/28）· check_crossref 1 对 0 报警 · 结构扫描 40 章零异常
+- 总览层事实核对修正：金句 ⑥⑦⑧ 章节归属各偏 1 位（3→4 / 4→5 / 5→7）；⑳ "For we often mistake a muse…" 实为 Helen 朗读 Ted Gwynn 论文的段落（ch36），原写作"Helen 原话"已修
+- 注：audit_book.py C 节"五子项块数 < 引语数"对精简格式（四子项 + `**中文理解：**`）全量误报 = 已知盲区（SOP 第 24 条豁免）
+- commit：**14 个**（`e602cf18`…`b52be0cb`）+ 总览与修复 1 个；**均未 push，待指令**
+
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
