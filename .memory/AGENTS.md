@@ -41,6 +41,17 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-16 新增
+
+- **Pictures of You（Josh Malerman）恐怖/悬疑长篇**：40 章（ch01–ch40 = Chapter 1–40，1:1 零偏移）+ 总览三篇（概述/金句精选30句/情感节点10节点）= **43 md** + text/ 40 件。恐怖长篇精简格式（导航5项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。Opencode-Mac 执行，独立五步审查**通过（0 遗留）**。终值：verify **356/356**（42/42 干净；10 短引语人工 grep 命中本章 text）/ vocab **872 词条 FAIL0 WARN0** / entities 0 / chapter **318/318 in 本章 text** / overview **58/58** / crossref 0 报警 / 结构 40/40 零异常 + **filename=H1=text 首行章号三方零偏移**。**19 commits 未 push**（`e602cf18`…`5dd7160f`）。
+- **本批次关键教训**：
+  ① **extract_chapters dropcap 修连正则误伤正文**——`\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 把 "A Wainscott"→"AWainscott"、"A TV"→"ATv"、"I HAVEN'T DECIDED"→"IHaven'TDecided"；无 dropcap 结构的 epub 用 `scripts/attic/extract_pictures_of_you_text.py`（复用 extract_chapters 逻辑、仅关该正则）重提，提取后 grep `\b[A-Z][A-Z][a-z][a-z]+\b` 自查。
+  ② **check_crossref 只认 `chNN "引语"`，不管中文式「第 N 章」**——两轮共 **60 处**章号错引（语义二审 22 + 独立审查 18 确认，另 10 存疑）全在该盲区。逐章自检须额外 grep `第 [0-9]+ 章` 并对每条回查 text/chNN 原文。另有 **6 处"上一章/下一章"实指本章**（相对表述单独折算后再核）。
+  ③ **说话人核验不能只看"窗口内是否有 she said"**——须看前后文施动关系（谁刚被扇、谁在 stare）。实证：情感节点 ⑫ `"You're no artist," she said.` 标为 Helen，实为 **Emily**（ch23 两记巴掌后 Emily 开口，紧接 The woman…only stared）；我自建的窗口检查器因只匹配标签而漏报，独立审查才抓出。
+  ④ **check_vocab 不抓"抽词拼接式改写例句"**——ch16 rearview/mirror 例句脱漏原句的 "smiled and"，WARN 全绿；独立核验须对全部例句做"逐字 substring（含 … 分段）"扫描（872 条一轮可扫完）。
+  ⑤ **audit_book.py C 节对精简格式全量误报**——`**中文理解：**`（冒号在粗体内）不被其正则识别，40/40 全报"五子项块数 0"；属 SOP 第 24 条豁免，勿误判缺陷。
+  ⑥ **总览层细节不实**——概述把"拳头与肘砸开假墙"写成"掌刀割墙"（实为 ch19）、"咬刀爬回椅子"（ch30）写成"反手掷出飞镖"（无此事件）；总览叙事细节同样须回原文核（不只核引语）。
+
 ### 2026-09-14 新增
 
 - **Asmodeus（Rita Indiana，Achy Obejas 译）文学小说（多米尼加）**：33 章（ch01–ch33，ch34 为 Graywolf Press 样板页已删除），精简格式（导航 5 项 + 3-6 处四子项精读 + 三档词汇 + 一句话总结），无总览三篇。ZCode-Mac 执行。独立五步审查通过。verify 178/182 (98%) / vocab 796 词条 FAIL=0 / entities 0 / check_chapter 178/182 (97%) / 结构 183 块零缺陷 / 关键词锚定 0 真违规。**4 条 MISS 全为多行诗歌工具盲区**（Icosiel 韵文 ch18/ch28、Manca 韵文 ch26），grep 确认存在。**关键教训**：①多行诗歌（Icosiel/Manca 韵文）verify_quotes/check_chapter_quotes 系统性 MISS——必须逐篇 grep 人工兜底；②精简格式词汇 FAIL 高频来自例句错章（例句来自 ch11 但词条在 ch22）；③"单词 A 类虚构"需先查 epub 全文——部分工具只查提取件。16 commits 未 push。
