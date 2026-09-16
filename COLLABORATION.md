@@ -50,18 +50,25 @@
 - **门禁最终态**：verify_quotes **231/231（100%）**、完全干净文件 **45/45** · check_vocab **512 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **除 ch01 合并文件外全绿** · verify_overview_quotes 金句精选 **25/25** · check_crossref **6 对 0 报警** · 关键词锚定自建检查器 **637 词 0 违规**
 - **合并文件口径说明（非缺陷）**：ch01 文件内 5 条引语出自 ch02_shadows.txt，而 check_vocab / check_chapter_quotes 按同名 ch01 提取件查找 → 14 FAIL + 0/5 MISS。逐字 grep 全部命中 ch02 文本；已按本库该限制的既有惯例记录
 - **总览层人工兜底**（工具不覆盖无编号引语）：概述纯英文行内引语 **12/12**、情感节点 blockquote **23/23**，MISS=0；短引语（<20 flat 字符）**15 条**逐条 flat 比对 epub，MISS=0
-- **独立审查（五步）发现并整改 3 类**：
-  1. **格式缺陷（5 文件）**：ch09–13 原用英文子项标签（Key techniques / Why this works / Perspective），与其余 40 文件的中文四子项不一致 → 全部改写为「中文理解 / 关键词 / 为什么这样写 / 读者视角提示」并补译文（`433bcb06`）
-  2. **cross-ref 真错引 1 处**：ch43 写 "Everything is fine" 出自 ch29，实为 **ch40**（ch29 无此句）→ 已改（`433bcb06`）
-  3. **关键词锚定 1 处**：ch33 关键词 "never before" 不在引语内 → 改 "sailed before"（`cb3036c9`）
-  - 另有 1 处 crossref 假报警（ch39 引 "Join, or perish" 系简写，原文为 `"Join," said Oroe, "or perish."`）→ 补全原形式（`433bcb06`）
+- **独立五步审查（a/b/c/d/e 全跑）共整改 20 处**：
+  - **a 三件套重跑**：verify 231/231、vocab 512 FAIL=0 WARN=0、entities 0；ch01 的 14 FAIL 经逐条 flat 比对确认全部出自 ch02（合并文件口径，非虚构）
+  - **b 逐章归属**：203 块命中本章 198；**双章命中检测 0 条**（防 cliffhanger 归错）
+  - **c 结构扫描**：45 文件 216 块，编号连续/四子项齐全/零孤儿零重复 **0 异常**
+  - **d 语义二审（3 子代理并行 + 主会话逐条 grep 复核）**：报 14 条，**14/14 属实、0 幻觉**
+    1. **引语层 1 处**（verify_quotes 52 字符指纹盲区漏检）：ch18 原句3 引语作 "palms"，原文为 "hands"
+    2. **说话人误归 4 处**：ch03（Chwytu→Nowssu）、ch05（卡库坦→伊菲奥特）、ch09（归属自相矛盾）、ch37 导航（Chwytu→Biemwensé）
+    3. **章号错引 9 处**：ch19（ch06→ch05）、ch38（ch06→ch08 ×2、ch27→ch16 ×2）、ch40（ch29→ch03/ch08、ch31→ch35）、ch41（ch29→ch32）、ch44（ch29→ch25/ch32）
+  - **e 总览层**：概述事实错误 1 处（把 Kangala 之死写成「与 Iyanya 连锁悲剧」且与同文第三层自相矛盾，原文 ch36 系 Nem 焚身同归）→ 已改；金句 ⑯ 人名笔误 Danzo→Danso
+  - **格式归一 4 文件**：ch05–ch08 分析子项原以英文为主（中文占比 3.9%–15%），与其余 41 文件（51%–85%）不一致 → 全部中文化（现 69%–79%）；ch08 另修标签错字「读者视界提示」与缺失子项
 - **⚠️ 本次新发现的坑（供他实例）**：
-  1. **长章单批**：ch39 为 64k 字符多线战争章，按"长章单独成批"先例独立一批（8 个引语块），未与其他章混批
-  2. **概述/情感节点的 `（chNN）` 括注不可写在 `> "…"` 引语行上**——主 verify_quotes 会把括注拼进指纹导致假 MISS（本次 情感节点 15/19 ❌）。整改：章节标注移到节点标题行
-  3. **`read_file` 对相邻章文本不可信**：本批 ch09 的 read_file 输出实际混入 ch07 内容 → 后续一律以 shell（sed/grep）读原文并逐条核验
-  4. **词汇分档 WARN 是高频返工点**：possessed / propelled / wary / protective / afflicted / whispered / umpteenth / somersaults 等被 check_vocab 判"基础档含超纲词"，须逐次移档或换更简词（本次共修 12 处）
+  1. **verify_quotes 52 字符指纹是真实盲区**：ch18 "…to Iyanya's palms/hands" 的差异落在第 68 字符，指纹（前 52）完全一致 → **全串比对**（flat 全串 in 本章 text）应作为标准件，本次 203 块全串扫描仅 ch01 合并 5 处未命中 + ch10 省略号分段（两段均命中，非缺陷）
+  2. **章号错引是本批次最大缺陷源（9/20）**：写作时用"chNN"交叉引用必须当场 grep 定源（呼应本库 Forest of Scars / L&D&G 教训）
+  3. **长章单批**：ch39 为 64k 字符多线战争章，按先例独立成批（8 引语块）
+  4. **概述/情感节点的 `（chNN）` 括注不可写在 `> "…"` 引语行上**——主 verify_quotes 会把括注拼进指纹致假 MISS（本次情感节点一度 15/19 ❌）
+  5. **`read_file` 对相邻章文本不可信**：ch09 的 read_file 输出实际混入 ch07 内容 → 一律以 shell 读原文
+  6. **词汇分档 WARN 高频返工**：possessed / propelled / wary / protective / afflicted / whispered / umpteenth / somersaults 等 12 处被判「基础档含超纲词」
 - **核心主题**：救世与疗伤之别（Danso 从 messiah 到 healer）；暴力作为通货（War is trade / War is bad market）；**蛇的三重含义**——书名句 "As the old world crumbles, from its rubble sprouts a season of serpents."（ch39）、"Makes serpents of us all."（ch39）、全书末句 "It would be unwise to mistake the serpent's rest for an inability to strike fast."（ch42）
-- **commit 清单（20 个，未 push）**：`f698de70`（ch01 合并试产）→ `c8174b6b` / `935e4087` / `cb842eda` / `ad230fe9` / `e7a6d79f` / `34026f53` / `b0d782ed` / `3e05f8ae` / `10f12c6c` / `149d8dac` / `3368405a` / `ae28a9d0` / `398d5393` / `4b1e3b74` / `a0479c44` / `38fe1c4c`（批1–15）→ `ff98782b`（总览三篇）→ `433bcb06`（格式归一 + cross-ref 修复）→ `cb3036c9`（关键词锚定修复）
+- **commit 清单（22 个，未 push）**：`f698de70`（ch01 合并试产）→ `c8174b6b` / `935e4087` / `cb842eda` / `ad230fe9` / `e7a6d79f` / `34026f53` / `b0d782ed` / `3e05f8ae` / `10f12c6c` / `149d8dac` / `3368405a` / `ae28a9d0` / `398d5393` / `4b1e3b74` / `a0479c44` / `38fe1c4c`（批1–15）→ `ff98782b`（总览三篇）→ `433bcb06`（格式归一 + cross-ref）→ `cb3036c9`（关键词锚定）→ **`cf348fe2` + `0eacdab4`（独立五步审查整改 16 处 + 4 文件格式归一）**
 
 ---
 
