@@ -65,11 +65,11 @@ modified: "2026-09-17"
 
 ---
 
-> **原句 5:** "So what, you were going to starve?" "I forgot." "So what, you were going to starve?" "I forgot." "So what, you were going to starve?" "I forgot."
+> **原句 5:** "So what, you were going to starve?"
 
-**中文理解**："所以你要饿死吗？""我忘了。""所以你要饿死吗？""我忘了。""所以你要饿死吗？""我忘了。"
+**中文理解**："所以你要饿死吗？"
 
-**关键词**：starve、I forgot
+**关键词**：starve
 
 **为什么这样写**：这是 Lily 和 Anna 在台风期间的对话。Anna 在台风前储存了食物，而 Lily 没有。这种差异是她们关系的缩影：Anna 在危机中采取行动，而 Lily 则被动地"忘记"做准备。但 Anna 的问题"所以你要饿死吗？"也是一种关心的表达——在危机中，她们仍然是互相照顾的。
 
