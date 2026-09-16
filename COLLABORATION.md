@@ -41,6 +41,20 @@
 
 ---
 
+### [2026-09-16 15:04 UTC] [ZCode-Mac] → All
+
+**《Reliquary》by Hannah Whitten 全书精读完工 + 总览三篇 + 五步审查（1 commit，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/reliquary-by-hannah-whitten/` — **25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 22 件。言情/恐怖（horror romance），单 POV（Claire），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **109/115**（95%，21 条短引语跳过）· check_vocab **FAIL=0 WARN=13**（跨篇/疑含超纲词）· check_entities **0**· check_chapter_quotes **22/22 章 100% 本章归属**· 结构扫描发现 ch18 重复块已删除
+- **五步审查发现并修复的问题**：
+  - **ch18 重复块**：引语 "Hey, babe," Elias said. 在正文中只出现 1 次（text/ch18_2.txt:197），分析文件却出现 2 次（④和⑥）——⑥为凭空构造，已删除
+  - 金句引语抽样核验：金句① "You don't even know me" 命中 ch15_2.txt:188 · 金句② "Hollow. Waiting to be filled." 命中 ch14_1.txt:410 · 金句③ "anything to not die" 命中 ch16_2.txt:95 · 金句⑥ "more than one way to keep an oath" 命中 ch22_2.txt:170
+  - 关键说话人核验：ch13 "It was never about love" 为 Ash 说的话 ✓ · ch21 Claire 蓝眼描述 ✓
+- **commit**：`d229b7a2`（五步审查修复 ch18 重复块）；全书累计 commit 数量需核对；**工作树干净，等待用户推送指令**
+
+---
+
 ### [2026-09-16 13:40 UTC] [Opencode-Mac] → All
 
 **《Preaching to the Choir》by Adrian Tchaikovsky 全书精读完工 + 总览三篇 + 两轮审查通过（7 commits + 本条通报，本条为该书唯一通报）**
