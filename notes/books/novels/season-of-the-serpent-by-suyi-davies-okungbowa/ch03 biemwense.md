@@ -71,7 +71,7 @@ modified: "2026-09-16"
 
 **为什么这样写**：Chwytu 直接点名，没有客气——"I hear you are looking for" 是第三人称间接引语，她知道 Biemwensé 正在想这件事。"First Consul of Bassa" = Nem，是政治头衔。Chwytu 作为 Ajabo 出现，突然把话题从"Uncle 喉咙痛"变成"找 Nem"——Biemwensé 的两难被暴露。
 
-**读者视角提示**：Chwytu 作为 Ajabo 来找 Biemwensé，是巧合还是计划？她说"perhaps you may receive another visitor soon"，暗示她也知道别人会来找 Biemwensé——信息网络很紧密。
+**读者视角提示**：三位难民中的 Nowssu 说"perhaps you may receive another visitor soon"——来访者是 Ajabo（Chwytu），信息网络之紧密由此预告。Chwytu 本人在其后一天才登场。
 
 ## 本章词汇
 

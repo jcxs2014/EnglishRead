@@ -35,7 +35,7 @@ modified: "2026-09-16"
 
 **为什么这样写**："vessel"（容器）是僭主的标准卸责话术：我是民意的杯子，酒不是我倒的。紧接 "out of my hands"——手都不在了，当然不用负责。
 
-**读者视角提示**：对比 ch06 她说 "Everything is about winning, Kaku"——那时她认账，现在她甩锅。权力让人从诚实变油滑。
+**读者视角提示**：对比 ch05 她说 "Everything is about winning, Kaku"——那时她认账，现在她甩锅。权力让人从诚实变油滑。
 
 ---
 

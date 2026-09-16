@@ -47,7 +47,7 @@ modified: "2026-09-16"
 
 **为什么这样写**：Chwytu 的自嘲遁词——用玩笑抵挡"要不要暴露身份"的恐惧。她与 Biemwensé 的对话在此完成一次角色互换：她这个"逃亡始祖"反倒比 Biemwensé 放松。
 
-**读者视角提示**：与 ch09 她"我怕的不是恐惧，是不知道怎么活"对读：她是全书最擅长把恐惧笑掉的人。
+**读者视角提示**：与 ch09 她解释"为何宁可滞留也不被同化"的长篇抗辩（"that is the best resistance"）对读：她是全书最擅长把恐惧笑掉的人。
 
 ---
 
@@ -57,9 +57,9 @@ modified: "2026-09-16"
 
 **关键词**：Yaya / Everything is fine
 
-**为什么这样写**："Yaya"（尊长）是 Lilong 对 Biemwensé 的专称（ch29 也用）。"Everything is fine" 的绝对化是反讽：Turay 已死、她此刻衣衫褴褛——这句"一切都好"是全章最勇敢的谎。
+**为什么这样写**："Yaya"（尊长）是 Lilong 对 Biemwensé 的专称（ch03 与 ch08 也用）。"Everything is fine" 的绝对化是反讽：Turay 已死、她此刻衣衫褴褛——这句"一切都好"是全章最勇敢的谎。
 
-**读者视角提示**：与 ch31 的 "I am not doing okay"（她对 Danso 说）对读：对长者说"都好"，对同龄人说"我不好"——两种诚实。
+**读者视角提示**：与 ch35 的 "I am not doing okay"（她对 Danso 说）对读：对长者说"都好"，对同龄人说"我不好"——两种诚实。
 
 ---
 

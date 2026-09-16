@@ -19,7 +19,7 @@ modified: "2026-09-16"
 **中文理解**：如果我，凭我这双坏掉的眼睛，也能看见它们，你也一样能。
 **关键词**：failing eyes / see with them / you can too
 **为什么这样写**：用生理缺陷给出指引——"failing eyes" 是自嘲，"you can too" 把弱点转成权威。条件句"If I...you can"把个人经验升格为普适教诲。
-**读者视角提示**：双月是全书的导航母题；此处把天文知识写成代际教导，Chwytu 的"引导者"身份由此确立。
+**读者视角提示**：双月是全书的导航母题；此处由 Biemwensé 把天文知识讲给 Chwytu，紧接着"Chwytu chuckled"——是她在教导，Chwytu 在学。
 
 ---
 

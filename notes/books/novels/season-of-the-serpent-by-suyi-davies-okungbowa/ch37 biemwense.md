@@ -10,7 +10,7 @@ modified: "2026-09-16"
 - **一句话概括**：Nem 焚城消息传来，Biemwensé 再次执掌 Whudasha，说服全体迁入 Ajabo 洞穴；两族合流，Chwytu 下令抹去踪迹、封洞。
 - **情感弧线位置**：诀别余韵（送 Nem 西行）→ 接讯（"Kangalaland is burning"）→ 决断（迁徙）→ 落幕（封洞）。全书 Whudasha 线的收束章。
 - **Tropes 兑现/反转**："难民再迁徙"；**反转**：藏身之处不是山中的矿道而是岛民的洞穴城——避难所由被大陆灭绝者提供。
-- **人物弧线**：Biemwensé：送别者 → 再任执政（"one last time"）→ 说服者 → 隐没者。Chwytu：等待者 → 收容者（"Be our kin now"）→ 封门者。
+- **人物弧线**：Biemwensé：送别者 → 再任执政（"one last time"）→ 说服者 → 隐没者。Chwytu：等待者 → 被说服的收容者 → 封门者（"Erase their tracks."）。
 - **叙事手法**：第三人称限定（Biemwensé），**问答式说服戏**：以"Perhaps we wait / plead / fight?"三问三答推进，把政治辩论压缩成对话节拍。
 
 ## 精读

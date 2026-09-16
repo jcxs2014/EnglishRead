@@ -15,51 +15,35 @@ modified: "2026-09-16"
 
 ## 精读
 
-> **原句 1:** "Nameless, eh?" Kakutan said, as Ifiot put on her tunic. The woman never dressed in Bassai wrappers, despite being Bassai herself, but preferred to wear desertlander clothing, often gifted to her by immigrant friends and comrades.
-
-**中文理解**："无名的啊？" 卡库坦说着，看着伊菲奥特穿上外袍。这个女人从不穿巴萨伊人的传统衣服，尽管她自己就是巴萨伊人，但她更喜欢穿沙漠人的服饰，经常是 immigrant friends 和 comrades 送的。
-
+> **原句 1:** "Nameless, eh?" Kakutan said, as Ifiot put on her tunic. The woman never dressed in Bassai wrappers, despite being Bassai herself, but preferred to wear desertlander clothing, often gifted to her by immigrant friends and comrades."
+**中文理解**："无名的，嗯？"卡库坦说着，看着伊菲奥特穿上外袍。这个女人从不穿巴萨伊的传统裹布——尽管她本人就是巴萨伊人——而偏爱沙漠人的服饰，多是移民朋友与同志所赠。
 **关键词**：Nameless / tunic / immigrant friends
-
-**为什么这样写**："Nameless, eh?" ——直接复述之前"Ifiot said 'Nameless'"，Kakutan 追问确认，不是评论，是确认 shared language 信念。服装细节放在同一句里：她"never dressed in Bassai wrappers, despite being Bassai herself"——身份 ≠ 服饰，她选择异己以示抵抗。"often gifted by immigrant friends and comrades" ——衣服也是关系的标记，被 gifts 而非买卖，显示 community bonds。
-
-**读者视角提示**：Ifiot's clothing is political statement — she refuses to perform identity through Bassai fashion. Kakutan's silence on this shows her acceptance of this resistance as natural.
+**为什么这样写**：服装细节与台词同句：身份不等于服饰，她以异己装扮示抵抗。"often gifted" 点明这些衣物来自关系网络而非买卖——社群纽带即政治表态。
+**读者视角提示**：卡库坦对此不置一词，说明她已把这套抵抗当作日常。
 
 ---
 
 > **原句 2:** "You can't cut the head off a snake if it has no head."
-
-**中文理解**："如果蛇没有头，你就无法砍掉它的头。"
-
-**关键词**：snake / cut the head / no head
-
-**为什么这样写**："You can't cut the head off a snake if it has no head" ——比喻政治论点：Nameless Republic is decentralized，no single head 可砍。Ifiot 说这个 while dressing，把衣物换上作为"put on armor"的隐喻。Metaphor: snake (centralized) vs Nameless (decentralized)。
-
-**读者视角提示**：Ifiot use fashion metaphor: putting on a tunic = putting on armor for political war. The snake metaphor = political theory lesson.
+**中文理解**："蛇若没有头，你也砍不掉它的头。"
+**关键词**：cut the head off / no head
+**为什么这样写**：以蛇喻政治：无名共和国是去中心化的，没有single head可斩。伊菲奥特说这话时正在穿衣——换装即披甲。
+**读者视角提示**：全书的"蛇"意象第一次出现，也预告了该体制日后因无头而失控。
 
 ---
 
 > **原句 3:** "Everything is about winning, Kaku."
-
-**中文理解**："凡事都要赢，卡库。"
-
-**关键词**：winning / Kaku
-
-**为什么这样写**："Kaku"是昵称， intimacy in conflict. Ifiot use familiar term even when disagreeing ——情感与政治交织。"Everything is about winning" ——Ifiot's war-monger logic: politics = winner-take-all。对比 Kakutan's "bargaining" = cooperation。
-
-**读者视角提示**：Ifiot's directness vs Kakutan's caution——young vs old, fighter vs strategist. The "Kaku" nickname shows intimacy persists despite disagreement.
+**中文理解**："一切都关乎输赢，卡库。"
+**关键词**：Everything / winning / Kaku
+**为什么这样写**：昵称"Kaku"在争执中用出——亲密与分歧并存。"Everything is about winning" 是她的战争逻辑：政治即零和。
+**读者视角提示**：与卡库坦的"bargaining"（谈判）形成对照：一个要赢，一个要谈拢。
 
 ---
 
-> **原句 4:** "The time for bargaining is over." Her tone was that of a soldier ready to charge into battle.
-
-**中文理解**："讨价还价的时代到此为止。" 她的语气像个准备冲进战场的士兵。
-
-**关键词**：bargaining / soldier / charge into battle
-
-**为什么这样写**："The time for bargaining is over" ——Ifiot's final word on the meeting. But notice: Kakutan "angled her head" after this, then says "This isn't about winning. These are our allies." ——Ifiot's militant stance doesn't win the argument. Tone contrast: "soldier ready to charge" vs Kakutan's "I'm sorry" afterward ——humanizes both sides.
-
-**读者视角提示**：Okungbowa shows political disagreement through body language: Ifiot "angled her head" → "cracked a smile" → back to normal. The war won't destroy their relationship.
+> **原句 4:** "The time for bargaining is over." Her tone was that of a soldier ready to charge into battle."
+**中文理解**："讨价还价的时代结束了。"她的语气像一名准备冲锋的士兵。
+**关键词**：bargaining is over / soldier / charge into battle
+**为什么这样写**：紧接着的叙述句（"Her tone was...soldier"）把台词身体化：说话方式本身即武装。但随后"she angled her head and cracked a smile"（这个"she"指伊菲奥特），而"These are our allies"是卡库坦在引语之前（原文 line 92）说的——好战并未赢下这场争论。
+**读者视角提示**：作者以肢体语言写政治分歧：伊菲奥特"angled her head"又"cracked a smile"，关系尚存。
 
 ## 本章词汇
 

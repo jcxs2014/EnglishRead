@@ -69,7 +69,7 @@ modified: "2026-09-16"
 
 **关键词**：set course / unicontinent / south
 
-**为什么这样写**：全书末句——"set course"（定航向）是全书的行动母题（ch33 的 lost、ch29 的 map、ch25 的 drawing maps）；"unicontinent"（单一大陆）用地理学词写出这个世界的真相：所有争斗都在同一片大陆上。
+**为什么这样写**：全书末句——"set course"（定航向）是全书的行动母题（ch33 的 lost、ch25 与 ch32 的 drawing maps）；"unicontinent"（单一大陆）用地理学词写出这个世界的真相：所有争斗都在同一片大陆上。
 
 **读者视角提示**：与 ch01 开篇 "IN THE UNICONTINENT OF Oon" 首尾扣合——全书以地理开，以地理合。而她南下之日，即第四卷之始。
 

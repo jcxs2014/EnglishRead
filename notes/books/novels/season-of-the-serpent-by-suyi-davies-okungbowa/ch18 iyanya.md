@@ -39,7 +39,7 @@ modified: "2026-09-16"
 
 ---
 
-> **原句 3:** Scorched skin peeled off the fallen man's shoulder and plastered itself to Iyanya's palms, burning deep scars into his palms.
+> **原句 3:** Scorched skin peeled off the fallen man's shoulder and plastered itself to Iyanya's hands, burning deep scars into his palms.
 
 **中文理解**：焦皮从倒下之人的肩头剥落，黏上伊扬亚的掌心，烧出深深的疤。
 
