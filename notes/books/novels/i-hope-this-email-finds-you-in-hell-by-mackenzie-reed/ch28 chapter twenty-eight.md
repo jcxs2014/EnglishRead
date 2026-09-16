@@ -29,9 +29,9 @@ modified: "2026-09-15"
 ---
 
 > **原句 2:**
-> "He was probably asking for it."
+> "You were probably asking for it."
 
-**中文理解**：他大概是自找的。
+**中文理解**：你大概是自找的。
 
 **关键词**：asking for it（自找的）
 

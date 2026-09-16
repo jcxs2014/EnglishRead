@@ -217,11 +217,11 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| obsidian | 黑曜石 | "Obsidian arrowheads. You can get them on Etsy." |
+| obsidian | 黑曜石 | "How about obsidian?" |
 | sage | 鼠尾草 | "white tea and sage" |
 | shapeshifting | 变形 | "shapeshifting to blend in" |
 | fathomless | 深不可测的 | "Her eyes are as fathomless as the bartender's" |
-| thr | 颤动 | "they never fail to send a thrill through me" |
+| thrill | 颤动 | "they never fail to send a thrill through me" |
 | inherently | 内在地 | "Love is so inherently human" |
 
 ### ⭐⭐ 进阶
@@ -229,9 +229,9 @@ modified: "2026-09-15"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | barstool | 吧凳 | "slide onto a barstool with cracked turquoise leather" |
-| margarita | 玛格丽塔酒 | "Fries and a marg would be great" |
-| Ducati | 杜卡迪摩托 | （文中未直接出现，描述摩托车俱乐部） |
-| quiver | 箭筒 | "arrow out of the makeshift quiver" |
+| marg | 玛格丽塔 | "Fries and a marg would be great" |
+| motorcycle club | 摩托车俱乐部 | "The motorcycle club is composed of two men" |
+| quiver | 箭筒 | "whipping an arrow out of the makeshift quiver" |
 | jugular | 颈静脉 | "drive it into his jugular" |
 
 ### ⭐ 基础
@@ -242,7 +242,7 @@ modified: "2026-09-15"
 | thunder | 雷声 | "Thunder rumbles outside" |
 | kiss | 亲吻 | "He laughs, kissing me deeply" |
 | hunters | 猎人 | "You're the hunters" |
-| arrow | 箭 | "whipping an arrow out of the quiver" |
+| arrow | 箭 | "whipping an arrow out of the makeshift quiver" |
 
 ## 一句话总结
 

@@ -29,11 +29,11 @@ modified: "2026-09-15"
 ---
 
 > **原句 2:**
-> "I put on quite a show with that fall."
+> "Yeah, well, the party was getting a little boring. I had to provide my own entertainment."
 
 **中文理解**："是啊，派对有点无聊了。我得自己找点乐子。"
 
-**关键词**：entertainment（娱乐）
+**关键词**：entertainment（娱乐）、provide my own entertainment（自己找乐子）
 
 **为什么这样写**：Brie's quip even while holding a knife to Dante's throat shows her characteristic humor under pressure. It's a baller moment—literally the most badass line of the book.
 

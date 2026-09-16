@@ -98,7 +98,7 @@ modified: "2026-09-15"
 ---
 
 > **原句 7:**
-> "You were right," Luke glances at me, bringing me to full alertness. "I was frustrated we couldn't find a decent vehicle option, but you didn't deserve that."
+> "For what I said in the junkyard." Luke glances at me, bringing me to full alertness. "I was frustrated we couldn't find a decent vehicle option, but you didn't deserve that."
 
 **中文理解**：你说得对，Luke 看了我一眼，让我完全清醒。我只是因为找不到像样的车而沮丧，但你不该受那种对待。
 
@@ -111,7 +111,7 @@ modified: "2026-09-15"
 ---
 
 > **原句 8:**
-> "You know because I grew up here."
+> "You're right. I don't know my way around thanks to my career in monster hunting," Luke says simply. "I know because I grew up here."
 
 **中文理解**：你知道是因为我是在这里长大的。
 
@@ -127,8 +127,8 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| vengeance | 复仇 | "They rise again with a penchant for vengeance" |
-| reckon | 认为，估算 | "I reckon we'll be reunited soon enough" |
+| vengeance | 复仇 | "with a penchant for vengeance" |
+| reckon | 认为，估算 | "I reckon you'll get to do it yourself" |
 | veil | 屏障 | "the veil separating the worlds" |
 | intermittent | 间歇的 | "intermittent air-conditioning" |
 
@@ -136,18 +136,18 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| headbutt | 头槌 | "I throw my head forward as hard as I can" |
+| headbutt | 头槌 | "Was watching me headbutt a monster" |
 | stumble | 蹒跚，跌倒 | "my struggling feet stumble beneath me" |
-| collapse | 崩塌 | "the Night Market collapses in a shuddering avalanche" |
+| collapse | 崩塌 | "the Night Market collapse in a shaking, shuddering avalanche" |
 | apology | 道歉 | "I owe you an apology" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| nose | 鼻子 | "stars blast across my vision when my skull meets his nose" |
+| nose | 鼻子 | "my skull makes gruesome acquaintance with his nose" |
 | minivan | 小型货车 | "a lone rusted minivan" |
-| bag | 包 | "I grab my duffel from where he dropped it" |
+| bag | 包 | "He tosses my bag in" |
 | dagger | 匕首 | "I toss Luke my dagger" |
 | sky | 天空 | "The sky grows lighter" |
 

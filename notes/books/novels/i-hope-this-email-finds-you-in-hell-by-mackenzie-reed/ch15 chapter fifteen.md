@@ -98,7 +98,7 @@ modified: "2026-09-15"
 ---
 
 > **原句 7:**
-> "This is a poison so powerful, it will slay even the strongest of demons, sending them into a fitful rest bound to last a hundred years and six days, impenetrable by neither Reckoning nor summoning."
+> "This"—he holds up the green vial—"is a poison so powerful, it will slay even the strongest of demons, sending them into a fitful rest bound to last a hundred years and six days, impenetrable by neither Reckoning nor summoning."
 
 **中文理解**：这是一种极强的毒药，甚至能杀死最强的 demon，让它们陷入不安的沉睡，长达一百零六年，既不能被 Reckoning 也不能被召唤打破。
 
@@ -140,18 +140,18 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| shrewd | 精明的，狡猾的 | "You have a sly tongue for a mortal" |
-| alchemy | 点金术，炼金术 | "He can make some delightful concoctions" |
-| fatal | 致命的 | "This is a poison so powerful, it will slay" |
 | currency | 货币 | "They're our main currency" |
+| fitful | 不安的，动荡的 | "sending them into a fitful rest bound to last a hundred years" |
+| concoction | 调合物，药剂 | "I can make some delightful concoctions" |
+| rasp | 沙哑声 | "he says in a raspy voice" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| bouncer | 保镖，门卫 | "Denim is caught behind a wall of bouncers" |
-| barter | 以物易物 | "I drive a hard bargain" |
-| jar | 罐子 | "mason jars full of a bubbly gelatin" |
+| bouncer | 保镖，门卫 | "Denim is pushing past the two bouncers" |
+| barter | 以物易物 | "You're quite the barterer" |
+| jar | 罐子 | "I pull out mason jars" |
 
 ### ⭐ 基础
 
@@ -161,7 +161,7 @@ modified: "2026-09-15"
 | bell | 铃铛 | "bells jingle overhead" |
 | scales | 鳞片 | "No, not skin—scales. Snake-like" |
 | vial | 小瓶 | "He pulls two empty glass vials" |
-| bag | 包 | "I hoist up the backpack" |
+| bag | 包 | "I assumed Luke had packed his bag" |
 
 ## 一句话总结
 

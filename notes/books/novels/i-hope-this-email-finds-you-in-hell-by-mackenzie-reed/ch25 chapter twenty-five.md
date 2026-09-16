@@ -29,9 +29,9 @@ modified: "2026-09-15"
 ---
 
 > **原句 2:**
-> "What you need is for you to stay."
+> "What I need is for you to stay."
 
-**中文理解**：你需要的是你留下来。
+**中文理解**：我需要的是你留下来。
 
 **关键词**：stay（留下）
 
