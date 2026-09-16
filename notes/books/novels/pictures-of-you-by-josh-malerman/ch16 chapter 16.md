@@ -71,7 +71,7 @@ modified: "2026-09-16"
 
 **关键词：** that particular shade of green, a diabolical representation of “GO,” the green light, neither Jack nor Emily wanted to happen
 
-**为什么这样写：** 第 14 章他在同一块遮阳篷前 "didn't like looking at" 过一次，此处给出了具体理由：他把颜色读成许可。作者用 GO 与 green light 的双关把交通信号语义移到犯罪现场，让"绿灯"成为一种被批准的发生——这也与首章"一房间多色"的用色体系接上：颜色在本书里从不是装饰。
+**为什么这样写：** 第 14 章他经过同一块遮阳篷时只留下"我们到底有没有进去过"（Did we end up going there?）的嘀咕，此处给出了它成为禁忌的理由：他把颜色读成许可。作者用 GO 与 green light 的双关把交通信号语义移到犯罪现场，让"绿灯"成为一种被批准的发生——这也与首章"一房间多色"的用色体系接上：颜色在本书里从不是装饰。
 
 **读者视角提示：** "绿色=GO"是 Jack 的私人联想，不是文本事实；请留意后面谁真正为这件事"开了绿灯"。
 

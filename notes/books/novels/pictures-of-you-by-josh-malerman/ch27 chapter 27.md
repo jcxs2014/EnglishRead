@@ -41,7 +41,7 @@ modified: "2026-09-16"
 
 **关键词：** Fine could mean dead, covered in his own insides, by this woman’s standards, any terrible thing
 
-**为什么这样写：** 作者用一个单词（Fine）的三层排比，写出语言在施害者手中彻底失效：当"还好"可以由嫌疑人定义时，所有安慰都失去意义。三个层层递进的从句（thought/uttered/done）把"恐怖"从具体行为提升为一种语言能力——她只要说出好话，就能覆盖一切。与第 5 章"He's alive. He's a living painting"同源：本书的施害者从不用狠话，只用温词。
+**为什么这样写：** 作者用一个单词（Fine）的三层排比，写出语言在施害者手中彻底失效：当"还好"可以由嫌疑人定义时，所有安慰都失去意义。三个层层递进的从句（thought/uttered/done）把"恐怖"从具体行为提升为一种语言能力——她只要说出好话，就能覆盖一切。与第 15 章"He's alive. He's a living painting"同源：本书的施害者从不用狠话，只用温词。
 
 **读者视角提示：** 请把"温词覆盖暴行"记作 Helen 的核心技能；此后凡她说"perfect / fine / just so"，都要先问它覆盖了什么。
 

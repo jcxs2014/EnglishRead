@@ -33,7 +33,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 作者把施害者"物化"（obstacle、a locked door），与全书"受害者被物化为静物"形成反向镜像——Emily 也开始使用这套"去人化"的语言来武装自己。这不是道德堕落，而是一种必要的心理自卫，作者不作评价地把它写出来，让读者自己判断代价。
 
-**读者视角提示：** 请对照第 21 章"她开始把女人当成障碍"、第 25 章"她开始操纵他们"：Emily 的变化是逐级去人化的过程，最终要回答的问题是"她会不会变成他们"。
+**读者视角提示：** 请对照本章前文"她开始把女人当成障碍"：Emily 的变化是逐级去人化的过程，最终要回答的问题是"她会不会变成他们"。
 
 > **原句 3:** Like how quickly she dismissed it. And like the time she was at C-ART with Megan Richards and had opened her mouth to say what she’d seen in the painting they stood before (it was called Clowns, an abstract piece), then quickly closed it out of embarrassment.
 
@@ -81,7 +81,7 @@ modified: "2026-09-16"
 
 **关键词：** Three of us, the possibly nonexistent baby, We can do this
 
-**为什么这样写：** 从"我们两个"（她与 Jack）到"我们三个"（加一个尚未确认的生命），作者用人数完成一次信念的升级：不确定是否存在的东西也被她拉进战局。这一笔同时回收了全书对"late"的处理——她终于不再把怀孕当成需要报告的麻烦，而当成帮手。恐怖与温柔在此句里同时抵达。
+**为什么这样写：** 从"我们两个"（她与她体内那个尚未确认的孩子，There’s two of us）到"我们三个"（把 Jack 也拉进来），作者用人数完成一次信念的升级：不确定是否存在的东西也被她拉进战局。这一笔同时回收了全书对"late"的处理——她终于不再把怀孕当成需要报告的麻烦，而当成帮手。恐怖与温柔在此句里同时抵达。
 
 **读者视角提示：** 请把这句话记作她人格弧光的顶点之一；本书让她在绝境中做的不是求救，而是"招人入伙"。
 

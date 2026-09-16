@@ -73,7 +73,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 作者再次动用"画"这个隐喻，让 Emily 自己在被画的前一夜评价两人的"成色"——而结论是：不美，但在发光。这一句写出了本书最动人的温柔，也让随后那一镖的残忍成倍：他们不是美得值得被画，他们只是活得亮，而这已经足够被人取用。
 
-**读者视角提示：** 这是全批三章中唯一一次她主动使用"a picture"来形容自己与 Jack（对照第 6 章的"What a picture we make"）；记住这份"不美但发光"，全书结尾会回到它。
+**读者视角提示：** 这是全批三章中唯一一次她主动使用"a picture"来形容自己与 Jack（对照第 4 章的"What a picture we make"）；记住这份"不美但发光"，全书结尾会回到它。
 
 > **原句 7:** She heard the thwump of it then. Like a dart shot from a bamboo reed in a movie.
 

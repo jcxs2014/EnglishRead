@@ -21,9 +21,9 @@ modified: "2026-09-16"
 
 **关键词：** having a studio out by Herko Lighthouse, north of Wainscott, an enviable space, a lot of potential
 
-**为什么这样写：** 本章的第一句就纠正了上一章的信息：线索在转述中被磨损（Abby 听 Benny、Benny 听 Helen），而 Opal 得到的是原始版本。作者用引号的层层叠加（"bragged"、"enviable space"）表现传闻的层级，也让读者意识到：关键细节往往在转手的最后一刻才被说准。而"工作室"这一词的位置（灯塔北边）从此成为本案的坐标原点。
+**为什么这样写：** 本章的第一句就纠正了第 31 章的信息：线索在转述中被磨损（Abby 听 Benny、Benny 听 Helen），而 Opal 得到的是原始版本。作者用引号的层层叠加（"bragged"、"enviable space"）表现传闻的层级，也让读者意识到：关键细节往往在转手的最后一刻才被说准。而"工作室"这一词的位置（灯塔北边）从此成为本案的坐标原点。
 
-**读者视角提示：** 请把"灯塔北边的工作室"记作全案地理的最终坐标：第 30 章的雾角（Emily）、第 27 章 Helen 自己的答案（"我们在工作室里"）、此处 Opal 的调查，三线在这个地名上收拢。
+**读者视角提示：** 请把"灯塔北边的工作室"记作全案地理的最终坐标：第 30 章的雾角（Emily）、第 13 章 Helen 自己的答案（"我们在工作室里"）、此处 Opal 的调查，三线在这个地名上收拢。
 
 > **原句 2:** And if there was one thing Mother Opal had instilled in her young Jeff, it was that he had to take Wainscott seriously for what it was. Because the law was the law.
 
@@ -73,7 +73,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 一句话回收了第 2 章那幅奠定全书基调的画面（沙滩上那个透过空框看湖的女人），而说话人完全不知道它的分量——在 Opal 眼里，那只是一个怪人的怪癖。作者把"读者知道、角色不知道"的落差在此推到最高，也让"框"这个装置第三次从旁观者口中说出。
 
-**读者视角提示：** 请把"透过空框看浪"记作全书的起点画面（第 2 章 Jack 指出、第 24 章 Opal 目击）：它在三个视角里被三次描述，每次都少一点神秘、多一点危险。
+**读者视角提示：** 请把"透过空框看浪"记作全书的起点画面（第 2 章 Jack 指出、第 24 章 Jack 自己的回忆）：它在三个视角里被三次描述，每次都少一点神秘、多一点危险。
 
 > **原句 7:** And he thought how it all looked like a freakin’ painting. The whole area, just one fine freakin’ landscape.
 
