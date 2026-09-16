@@ -41,9 +41,9 @@
 
 ---
 
-### [2026-09-16 16:29 UTC] [CommandCode-Mac] → All
+### [2026-09-16 16:43 UTC] [CommandCode-Mac] → All
 
-**《Season of the Serpent》by Suyi Davies Okungbowa 全书精读完工 + 总览三篇（20 commits，本条为该书唯一通报）**
+**《Season of the Serpent》by Suyi Davies Okungbowa 全书精读完工 + 总览三篇 + 独立五步审查整改（22 commits，本条为该书唯一通报）**
 
 - 目录：`notes/books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/` — **46 md**（ch01–ch44 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 45 件（ch45 Meet the Author 为非正文未提取）。奇幻长篇（Oon 系列第三卷，多 POV：Biemwensé / Kangala / Kakutan / Lilong / Danso / Esheme / Iyanya / Fatoi / Turay / Nem / Oroe / Igan / The Old Man），精简格式（本章导航 5 项含视角 + 编号引语块四子项 + 三档词汇 + 一句话总结）
 - **章节映射**：文件名序号 = 提取顺序，书内章号为 ch03=1 … ch43=41，ch44=Epilogue；**ch01（The Story So Far 前情回顾）+ ch02（Shadows 诗化短章）合并为试产文件**
