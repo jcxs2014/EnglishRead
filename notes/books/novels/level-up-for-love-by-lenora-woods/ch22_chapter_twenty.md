@@ -97,7 +97,7 @@ modified: "2026-09-15"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| masquerade | 化装舞会 | a bespoke soundtrack prepared for a masquerade.  |
+| masquerade | 化装舞会 | the perfect mood for a masquerade.  |
 | bespoke | 定制的，专门的 | a bespoke soundtrack.  |
 | croon | 低吟，轻唱 | long, drawn-out notes from an organ croon hauntingly.  |
 | shield | 盾牌，遮挡 | the DM's screen shielding him from view.  |

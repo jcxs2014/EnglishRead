@@ -82,10 +82,11 @@ modified: "2026-09-15"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| demo | 试玩版 | the NEWT competition is exclusively for demos.  |
-| feedback | 反馈 | give each other feedback.  |
+| demo | 试玩版 | the NEWT competition we entered is exclusively for demos.  |
+| feedback | 反馈 | his thoughtful feedback.  |
 | laptop | 笔记本电脑 | prep his laptop.  |
-| pizza | 披萨 | a four-pack of beer and a pizza box.  |
+| pizza | 披萨 | a pizza box.  |
+| beer | 啤酒 | a four-pack of beer from the brewery.  |
 
 ### ⭐ 基础
 
