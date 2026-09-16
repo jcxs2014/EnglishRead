@@ -16,62 +16,42 @@ modified: "2026-09-16"
 ## 精读
 
 > **原句 1:** "We don't know," they said. "But it was delivered by a Great Dome pigeon."
-
-**Key techniques**:
-- **Dialogue as attribution**: speaker identified by what they don't know, not who they are
-- **"Great Dome pigeon"** — specific, institutional detail that makes the threat credible
-
-**Why this works**: "We don't know" establishes these messengers as intermediaries — they're confused too. "Great Dome pigeon" immediately signals Kangalaland's reach extends even here.
-
-**Perspective**: The pigeon is a messenger of bureaucracy — the empire's death throes still function as communication infrastructure.
+**中文理解**："我们不知道，"他们说。"但它是用大穹顶的信鸽送来的。"
+**关键词**：We don't know / Great Dome pigeon
+**为什么这样写**：以"不知道"定义说话者（中介人）；"Great Dome pigeon"这个制度性细节让威胁变得可信。
+**读者视角提示**：信鸽说明帝国的通信机器在垂死之际仍在运转。
 
 ---
 
 > **原句 2:** "Good thing they can't read," said Nem. "I'm sure it was the same as the intercepted letter. They must have figured out that it did not reach you after all and sent another."
-
-**Key techniques**:
-- **Dry humor**: Nem's "Good thing they can't read" is both practical and cutting
-- **Dramatic irony**: Nem knows about the intercepted letter, Biemwensé doesn't yet
-
-**Why this works**: One line solves the plot problem — two letters, not one. Nem's intelligence is established through casual dialogue, not exposition.
-
-**Perspective**: Nem as the unseen player — she's been reading the letter, assessing the situation, while Biemwensé focuses on the crowd outside.
+**中文理解**："幸好他们不识字，"奈姆说。"我敢肯定它和那封被截的信一样。他们一定是发现信没送到你手上，于是又发了一封。"
+**关键词**：can't read / intercepted letter / sent another
+**为什么这样写**：冷幽默（can't read）加戏剧反讽（她知情而 Biemwensé 尚不知）——一句解决情节谜题。
+**读者视角提示**：奈姆的智性通过闲聊确立，而非靠解说。
 
 ---
 
 > **原句 3:** "They're sending envoys" was all she said. "Two representatives."
-
-**Key techniques**:
-- **Sudden shift**: from quiet revelation to public announcement
-- **"was all she said"** — the phrase is part of the narration, not dialogue, making this a meta-commentary moment
-
-**Why this works**: The brevity ("all she said") carries enormous weight. Two words → life-or-death decision for the entire protectorate.
-
-**Perspective**: Biemwensé's internal processing: she doesn't over-react, just states the facts. The calm delivery signals this is the beginning of her strategy, not its climax.
+**中文理解**："他们要派使者来，"她只说了这一句。"两位代表。"
+**关键词**：sending envoys / was all she said / Two representatives
+**为什么这样写**："was all she said"属叙述而非对白——元评论式的一句，简洁本身承载重量。
+**读者视角提示**：两个词等于整个保护地的生死抉择；平静的通报说明这只是策略的开端。
 
 ---
 
 > **原句 4:** "No bad blood here," said Biemwensé. "We are simply tasked with protecting all the peoples on this coast. That is what we are here to discuss, yes?"
-
-**Key techniques**:
-- **Diplomatic framing**: "No bad blood" reframes potential conflict as administrative process
-- **"simply tasked"** — lowers the stakes, makes resistance sound bureaucratic
-
-**Why this works**: Biemwensé's speech to the crowd is itself a performance — she's managing public perception while the real negotiations happen behind closed doors. "That is what we are here to discuss, yes?" invites agreement without demanding it.
-
-**Perspective**: The public speech is theater — a distraction from the secret negotiations happening inside. Biemwensé controls the narrative by controlling the venue.
+**中文理解**："这里没有私怨，"Biemwensé 说。"我们只是受托保护这片海岸上的所有族群。我们要谈的就是这个，对吗？"
+**关键词**：No bad blood / simply tasked / yes?
+**为什么这样写**：外交措辞把冲突降级为行政程序；"simply"贬低对抗性；"yes?"邀人同意而不强求。
+**读者视角提示**：对人群的公开演说本身是一场表演——真正的谈判在门后进行。
 
 ---
 
 > **原句 5:** "Join," said Oroe, "or perish."
-
-**Key techniques**:
-- **Binary choice**: two words, four letters each — brutal efficiency
-- **Speaker attribution outside**: "said Oroe" placed before the dialogue, creating dramatic pause
-
-**Why this works**: After pages of diplomatic language, the ultimatum arrives in its purest form. No justification, no negotiation — join or die. The simplicity is what makes it terrifying.
-
-**Perspective**: This is the sound of empire speaking — not politics, not diplomacy, but raw survival. Oroe (Kangala's child) delivers it without embellishment.
+**中文理解**："入伙，"奥罗说，"或者死。"
+**关键词**：Join / or perish
+**为什么这样写**：二元选择，两词各四字母——残酷的效率；说话人标签置于引语之前，制造停顿。
+**读者视角提示**：这是帝国的话语方式：没有政治，没有外交，只有生存。
 
 ## 本章词汇
 

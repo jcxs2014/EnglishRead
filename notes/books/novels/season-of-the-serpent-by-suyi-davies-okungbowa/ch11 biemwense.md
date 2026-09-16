@@ -16,66 +16,42 @@ modified: "2026-09-16"
 ## 精读
 
 > **原句 1:** "IT IS GOOD THAT you have come to us," the Ajabo man Biemwensé had come to know as Imamu said in sharp Mainland Common, "because the northerners have sent a message."
-
-**Key techniques**:
-- **"IT IS GOOD"** — capital, declarative — immediately establishes this as formal/ceremonial
-- **Speaker attribution** — "the Ajabo man... as Imamu said in sharp Mainland Common" — embedded between dialogue, showing Biemwensé's growing familiarity with Ajabo names
-- **"northerners"** — vague term, deliberately impersonal
-
-**Why this works**: The announcement is both welcome and threat. "Good that you have come" = they need her presence for what follows.
-
-**Perspective**: Imamu is the Ajabo leader — his formal address contrasts with the casual "IT IS GOOD" opening.
+**中文理解**："你来了正好，"那位 Biemwensé 已熟识为伊玛穆的阿贾博男子用尖利的大陆通用语说，"因为北方人送来了一封信。"
+**关键词**：IT IS GOOD / come to us / a message
+**为什么这样写**：全大写加宣言式，立刻确立正式场合；说话人身份插在引语中间，显示 Biemwensé 对阿贾博名字的熟悉。
+**读者视角提示**："好消息"与"威胁"同处一句——他们需要她在场，因为接下来有事发生。
 
 ---
 
 > **原句 2:** "War is trade. All in the market must know your stall. In this market, you are either a trader, a buyer, or simply a thief seeking to deprive both of their rightful goods."
-
-**Key techniques**:
-- **Market metaphor** → military strategy — war framed as economic transaction
-- **Three categories**: trader / buyer / thief — covers all roles, no neutral position
-- **"rightful goods"** — morality embedded in economics
-
-**Why this works**: This is the book's central political metaphor — power = economic exchange, and every actor knows their role. The "stall" metaphor recurs throughout.
-
-**Perspective**: Kangalaland speaks through symbolic language — this isn't a ransom note, it's a market invitation.
+**中文理解**："战争就是交易。市场上的每个人都得认得你的摊位。在这个市场上，你要么是卖方，要么是买方，要么就是个想抢走双方应得之物的贼。"
+**关键词**：War is trade / your stall / trader, buyer, thief
+**为什么这样写**：三分类（卖方/买方/贼）穷尽所有角色，没有中立者；"rightful goods"把道德嵌进经济语汇。
+**读者视角提示**：全书核心政治隐喻：权力即交换，人人都得认领自己的角色。
 
 ---
 
 > **原句 3:** "They want you to choose, Supreme Magnanimous," Imamu was saying. "Kangalaland, or the Nameless Republic."
-
-**Key techniques**:
-- **"They want you to choose"** — Kangalaland demands a choice, but Biemwensé's response shows she rejects binary thinking
-- **Title emphasis**: "Supreme Magnanimous" — she's addressed by her official title, but she's not impressed
-- **Two options** — false binary, since Biemwensé finds a third path
-
-**Why this works**: The ultimatum is simple, but Biemwensé's response is complex. She refuses to be forced into choosing between two imperialisms.
-
-**Perspective**: Biemwensé sees through the political manipulation — choosing between Kangalaland and Nameless Republic is itself a trap.
+**中文理解**："他们要你选，至高宽宏者，"伊玛穆说，"坎加拉兰，还是无名共和国。"
+**关键词**：choose / Supreme Magnanimous / or
+**为什么这样写**：头衔强调加二选一；"or"制造假二元，而 Biemwensé 的回应即将拒绝这一框架本身。
+**读者视角提示**：在两个帝国主义之间做选择，本身就是陷阱。
 
 ---
 
-> **原句 4:** "Beggars do not get to choose," said Biemwensé.
-
-**Key techniques**:
-- **"Beggars"** — Biemwensé lowers Nem to beggar status, stripping her former authority
-- **"do not get to choose"** — the verb "get" implies entitlement, not right
-
-**Why this works**: This line directly contradicts Nem's earlier claim "I will take my chances." Biemwensé turns Nem's agency into a privilege she can withhold.
-
-**Perspective**: This is Biemwensé asserting her authority over Nem — the former fixer now holds the whip hand.
+> **原句 4:** "Beggars do not get to choose," said Biemwensé."
+**中文理解**："乞丐没有选择的资格，"Biemwensé 说。
+**关键词**：Beggars / do not get to choose
+**为什么这样写**：把 Nem 降格为乞丐，剥夺其前执政官的权威；"get"暗示的是特权而非权利。
+**读者视角提示**：这一句直接反驳 Nem 早先的"I will take my chances"——把她的自主变成可被剥夺的恩赐。
 
 ---
 
 > **原句 5:** "Lucky for us, then, that I am not a beggar," said Nem. "You can use me for your ends, and I am happy to oblige if I get something out of it."
-
-**Key techniques**:
-- **Retort** — Nem fires back immediately, refusing the beggar framing
-- **Transactional language**: "use me", "oblige", "get something out of it" — she reframes the relationship as mutual exchange
-- **Conditional**: "if I get something" — she sets terms
-
-**Why this works**: Nem transforms from captive to negotiator in one sentence. The "Lucky for us" mirrors Biemwensé's "Lucky for us" elsewhere — showing they speak the same language of political pragmatism.
-
-**Perspective**: Both women are playing the same game — power through negotiation, not violence.
+**中文理解**："那我们运气不错，"奈姆说，"因为我不是乞丐。你可以拿我去达成你的目的，只要我也能从中得利，我很乐意配合。"
+**关键词**：not a beggar / use me / if I get something
+**为什么这样写**：立刻反驳加交易化语言（use me / oblige / get something），再加条件句，把关系改写为互利交换。
+**读者视角提示**：一句话从囚徒变谈判者——两人都在同一套政治语汇里博弈。
 
 ## 本章词汇
 

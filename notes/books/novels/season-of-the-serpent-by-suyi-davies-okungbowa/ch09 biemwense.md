@@ -16,62 +16,42 @@ modified: "2026-09-16"
 ## 精读
 
 > **原句 1:** "If I, with my failing eyes, can see with them, you can too."
-
-**中文理解**："如果我，凭我的障眼瞎，也能看清他们，那么你们也一定能看见。"
-
+**中文理解**：如果我，凭我这双坏掉的眼睛，也能看见它们，你也一样能。
 **关键词**：failing eyes / see with them / you can too
-
-**为什么这样写**："failing eyes" ——Biemwensé's self-deprecating humor about her age/vision impairment。"see with them" —— refer to sister moons (astronomical navigation)。 "you can too" —— inclusive challenge: she turns weakness into wisdom。
-
-**读者视角提示**：The moons are a recurring motif — Okungbowa uses celestial navigation as metaphor for moral clarity.
+**为什么这样写**：用生理缺陷给出指引——"failing eyes" 是自嘲，"you can too" 把弱点转成权威。条件句"If I...you can"把个人经验升格为普适教诲。
+**读者视角提示**：双月是全书的导航母题；此处把天文知识写成代际教导，Chwytu 的"引导者"身份由此确立。
 
 ---
 
 > **原句 2:** "I'm not a fighter, if that is what you are asking."
-
-**中文理解**："如果你问的是这个的话，我不是一个战士。"
-
-**Key techniques**: 
-- **Conditional** ("if that is what...") softens the refusal
-- **"I'm not"** vs earlier "I am" in ch05 —— Ifiot used "I am" to claim identity; Chwytu uses "I'm not" to deny
-
-**读者视角提示**：Chwytu is the strategist, not the warrior — her strength is in waiting and watching, not action.
+**中文理解**：如果你问的是这个——我不是战士。
+**关键词**：not a fighter / if that is what you are asking
+**为什么这样写**：条件句软化拒绝（"if that is what you are asking"）；与 Ifiot 的"I am"式身份宣言相反，Chwytu 用"I'm not"定义自己。
+**读者视角提示**：Chwytu 的强项是等待与观察，不是动手——这一自我定位是她后续一切主张的底色。
 
 ---
 
 > **原句 3:** "Is that all ibor is? For fighting?"
-
-**Key techniques**:
-- **Rhetorical question** — challenges Biemwensé's Bassai assumption
-- **"all"** — minimizes ibor's potential
-
-**Why this works**: Chwytu reframes ibor from weapon to tool. The question mark at the end shows genuine curiosity, not rhetorical dismissal.
-
-**Perspective**: This is the book's core philosophy — power is neutral; meaning comes from use.
+**中文理解**：ibor 就只是这样吗？只是用来打斗？
+**关键词**：all ibor is / For fighting
+**为什么这样写**：反问加"all"的极小化——把 Bassa 对 ibor 的定义（武器）缩成众多用法中的一种。问号表真好奇，不是修辞性反驳。
+**读者视角提示**：全书的核心哲学命题：力量是中性的，意义来自用法。
 
 ---
 
 > **原句 4:** "Welcome to the new home of the Ajabos."
-
-**Key techniques**:
-- **Deflation of expectation**: "new home" — not fortress, not temple, just "home"
-- **Speaker positioning**: Chwytu speaks for the collective
-
-**Why this works**: After the journey through darkness, the arrival is announced casually — the city is described as "exquisitely built" but still "temporary."
-
-**Perspective**: The contrast between the spectacular cave-city (built with ibor) and its temporary nature reflects the Ajabo's own precarious existence.
+**中文理解**：欢迎来到阿贾博人的新家。
+**关键词**：new home / the Ajabos
+**为什么这样写**：期待落空式命名——不是要塞、不是圣殿，只是"家"。说话人代表集体（"of the Ajabos"），不是个人。
+**读者视角提示**：洞城"exquisitely built"却仍是 temporary——这一落差正是岛民处境的写照。
 
 ---
 
 > **原句 5:** "Well," she said. "At least this time I can address you by your real name."
-
-**Key techniques**:
-- **"Well"** — transitional pivot, Biemwensé's signature word (also used by Nem and Chwytu)
-- **Irony**: "this time" — implies last time she didn't know Nem's name
-
-**Why this works**: The line lands at the end of mystery-building. After entering the cave, seeing the city, and being led through corridors, the reveal is conversational, almost casual.
-
-**Perspective**: The dramatic irony — reader already knows Nem is the First Consul, but Biemwensé pretends otherwise.
+**中文理解**："好吧，"她说。"至少这次我能用你的真名称呼你了。"
+**关键词**：Well / this time / real name
+**为什么这样写**："Well" 是 Biemwensé 的招牌转场词（Nem 与 Chwytu 也用）；"this time" 暗示上一次她并不知情。
+**读者视角提示**：悬念在末句落地——戏剧反讽：读者早已知道 Nem 的身份。
 
 ## 本章词汇
 
