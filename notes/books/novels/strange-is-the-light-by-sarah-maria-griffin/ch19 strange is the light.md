@@ -83,14 +83,11 @@ modified: "2026-09-16"
 |---|---|---|
 | unravel | 拆散、瓦解 | Just big enough that a clever opponent could unravel it, and him, completely. |
 | puncture | 刺穿；（喻）突破性的裂口 | enough density of feeling, certainly, to create a puncture in the surface of their world |
-| density | 密度、浓稠度 | There is enough density of feeling, certainly |
 | aplenty | 大量的、多得很 | using olive branches aplenty, each a knife in disguise |
 | seams | 接缝；（喻）崩解的裂处 | The best, longest-laid plans, coming apart at the seams. |
 | extracted | 榨取、抽出 | He has extracted terrible secrets from each of the players. |
 | disguise | 伪装、遮掩 | each a knife in disguise |
 | blazes | 熊熊燃烧、最亮地烧 | it is, in fact, his own shame that blazes the brightest |
-| realm | 领域、领土 | that Arturo would have fed into my realm |
-| threshold | 门槛 | the boy who stepped wrong over the threshold of his best friend’s home |
 
 ### ⭐⭐ 进阶
 
@@ -106,6 +103,9 @@ modified: "2026-09-16"
 | entertained | 被逗乐、被娱乐 | it is very, very rare that I am surprised at all, let alone entertained |
 | specific | 特定的、专门的 | I have no specific hunger for the girl and the boy |
 | sin | 罪 | the girl who committed no sin only that she would not have his child |
+| density | 密度、浓稠度 | There is enough density of feeling, certainly |
+| realm | 领域、领土 | that Arturo would have fed into my realm |
+| threshold | 门槛 | the boy who stepped wrong over the threshold of his best friend’s home |
 
 ### ⭐ 基础
 

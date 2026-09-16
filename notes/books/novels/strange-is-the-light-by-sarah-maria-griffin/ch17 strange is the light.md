@@ -102,7 +102,6 @@ modified: "2026-09-16"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | repulsed | 被强烈排斥、感到厌恶 | repulsed by his vulnerability |
-| vulnerability | 脆弱、（情感上的）袒露 | repulsed by his vulnerability |
 | adept | 娴熟的、在行的 | She is an adept liar. |
 | unbridgeable | 无法跨越的 | the chasm inside of her remained unbridgeable |
 | phantom | 像幽灵般出没 | I spectre, I phantom, and she merely accepts me |
@@ -110,7 +109,6 @@ modified: "2026-09-16"
 | intuited | 直觉地领会、猜到 | Finn intuited none of this |
 | delusions | 妄想、自我欺骗 | to feel pity for him in these delusions |
 | illiteracy | 文盲；（喻）读不懂 | a kind of moral illiteracy |
-| splinter | 碎裂成尖片、扎进 | the diamond shards of it that splinter through you |
 
 ### ⭐⭐ 进阶
 
@@ -128,6 +126,8 @@ modified: "2026-09-16"
 | subscribers | 订阅者、付费用户 | He has a couple of hundred of subscribers on his private service |
 | forked | 分叉的 | her black, forked tongue |
 | ribbon | 缎带、细长的带子 | long like a ribbon if a ribbon were made of oil |
+| vulnerability | 脆弱、（情感上的）袒露 | repulsed by his vulnerability |
+| splinter | 碎裂成尖片、扎进 | the diamond shards of it that splinter through you |
 
 ### ⭐ 基础
 

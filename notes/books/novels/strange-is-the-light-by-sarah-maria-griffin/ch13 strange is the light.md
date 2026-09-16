@@ -108,8 +108,6 @@ modified: "2026-09-16"
 | vulpine | 狐狸般的 | his face becomes softer than dog, vulpine |
 | haunches | （兽类的）后腿与臀部 | he is high on haunches |
 | gills | 鳃 | I am swimming behind them, my gills open |
-| elastic | 有弹性的；松紧带 | a slim elastic headband that Ronan desperately wants to say |
-| metallic | 金属般的（声音） | instead a hard, metallic “Ha,” |
 | downer | （俚）镇静剂、让人低落的东西 | he does, in fact, need another downer |
 
 ### ⭐⭐ 进阶
@@ -128,6 +126,8 @@ modified: "2026-09-16"
 | sketchbook | 速写本 | and his sketchbook, and his phone, and his wallet |
 | robe | 睡袍 | His robe is untied |
 | electricity | 电流；（喻）情绪的冲击 | I run bad electricity through his head |
+| elastic | 有弹性的；松紧带 | a slim elastic headband that Ronan desperately wants to say |
+| metallic | 金属般的（声音） | instead a hard, metallic “Ha,” |
 
 ### ⭐ 基础
 

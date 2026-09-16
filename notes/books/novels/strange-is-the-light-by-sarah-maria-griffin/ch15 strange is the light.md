@@ -103,7 +103,6 @@ modified: "2026-09-16"
 |---|---|---|
 | en suite | （卧室相连的）独立卫浴间 | she goes up into the en suite off her bedroom |
 | Valium | 安定（地西泮，镇静剂商品名） | She takes ten milligrams of Valium from the fat bottle |
-| slack | 松弛的、无力的 | her red eyes and slack mouth |
 | flinch | 畏缩、退缩 | Leonie doesn’t even flinch at the sight of her |
 | abdomen | 腹部 | I pull tight the muscles of her abdomen |
 | cramps | 痉挛、绞痛 | into deep, familiar cramps |
@@ -128,6 +127,7 @@ modified: "2026-09-16"
 | navel | 肚脐 | She lets the October water crawl up her to her navel |
 | depths | 深处 | from the depths I shine up at her |
 | buoyed | 被托起、被支撑着 | buoyed by the soft little yellow relief of the Valium |
+| slack | 松弛的、无力的 | her red eyes and slack mouth |
 
 ### ⭐ 基础
 

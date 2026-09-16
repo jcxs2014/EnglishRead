@@ -102,10 +102,8 @@ modified: "2026-09-16"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | corgi | 柯基犬 | A young, silly corgi waddled around her feet on a long harness |
-| harness | （牵引）胸背带 | waddled around her feet on a long harness |
 | crematorium | 火葬场 | deliver Malachy to the crematorium |
 | unanimously | 一致地、无异议地 | They decided, unanimously, to call her Mary |
-| custody | 监护权、共同抚养 | They were to share custody of her. |
 | buoyant | 有浮力的、轻快上浮的 | and then she was up again, buoyant, gasping for air |
 | gooseflesh | 鸡皮疙瘩 | a little woolly hat on her head, skin gooseflesh |
 | annex | 附属建筑、侧楼 | in the silent annex of whatever lay beyond the boundaries |
@@ -126,6 +124,8 @@ modified: "2026-09-16"
 | triad | 三人小组、三人的组合 | Shell’s friends who swam in a little triad nearby cheered |
 | woosh | 唰的一声 | and then woosh, a clumsy leap into the deep blue |
 | flower | 花 | And when the flower bloomed,It had two terrible eyes |
+| harness | （牵引）胸背带 | waddled around her feet on a long harness |
+| custody | 监护权、共同抚养 | They were to share custody of her. |
 
 ### ⭐ 基础
 

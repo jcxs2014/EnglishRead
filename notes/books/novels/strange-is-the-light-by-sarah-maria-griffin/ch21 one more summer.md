@@ -101,8 +101,6 @@ modified: "2026-09-16"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| descent | 下行、下坡的路程 | the descent across the country back to the island |
-| dread | 恐惧、惴惴不安 | Their usual spitfire silenced by what amounted to shared dread |
 | juddered | （车）颠簸震动 | They juddered over the long bridge from Portmagee |
 | inertia | 惰性、无法动弹的状态 | this inertia was made only worse by the sight of Leonie |
 | sphinxes | 狮身人面像；（喻）沉默的守门者 | Two sphinxes at the gate to the summer |
@@ -128,6 +126,8 @@ modified: "2026-09-16"
 | plume | 一缕（烟、汽） | huffed an enormous plume of vapor from it |
 | truce | 停战、休战 | it seemed to be a sort of quiet truce |
 | crater | 坑、凹痕 | A shallow crater was all that was left on the tiles |
+| descent | 下行、下坡的路程 | the descent across the country back to the island |
+| dread | 恐惧、惴惴不安 | Their usual spitfire silenced by what amounted to shared dread |
 
 ### ⭐ 基础
 
