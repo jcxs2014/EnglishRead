@@ -125,23 +125,20 @@ modified: "2026-09-16"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| mundane /mʌnˈdeɪn/ | 平凡的，单调的 | "Tuesdays were so utterly bland." |
-| fraught /frɔːt/ | 充满焦虑的 | "She'd been in a similar situation before, right after the accident." |
-| palpable /ˈpælpəbəl/ | 可触知的；明显的 | 用"可感知"之意描述情绪（后文"grief was sharp"用了另一种表达） |
-| catheter /ˈkæθɪtər/ | 导管 | 出现在医院场景的潜文本中 |
-| seethe /siːð/ | 怒火中烧 | "Her aunt had taken care of all this stuff when she'd been in a similar situation before." |
-| infirm /ɪnˈfɜːrm/ | 体弱的 | 医生描述 Elias 的医学状况时潜在用词 |
-| bereft /bɪˈreft/ | 被剥夺的；失去亲人的 | "Elias was dead, and she had no one." |
+| bland /blænd/ | 平淡的，枯燥的 | "If you saw something ridiculous, you'd say, Oh, just a normal Tuesday, and everyone would laugh because Tuesdays were so utterly bland." |
+| aneurysm /ˈænjuːrɪzəm/ | 动脉瘤 | "An aneurysm was a ticking bomb, a mine buried in the folds of your brain, waiting for the opportunity to explode." |
+| void /vɔɪd/ | 空白；空虚 | "Claire's mind was a white void, no thought or feeling, only the immediacy of her stunned-still body." |
+| scoured /ˈskaʊərd/ | 灼烧；刺激 | "Fluorescent lights buzzed overhead; an antiseptic burn scoured her nostrils." |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| ER（emergency room） | 急诊室 | "She managed to park right next to the emergency room door." |
+| emergency room | 急诊室 | "She managed to park right next to the emergency room door." |
 | diamond | 钻石 | "Her ring twisted around her finger, the diamond turned toward her palm." |
-| fiancé | 未婚夫 | "I'm Elias Ashbury's fiancée." |
-| hospital | 医院 | "She sat there, still and slumped in the hospital lot." |
-| brake /brake/ | 刹车 | "Claire slammed her brakes, swerved over onto the sidewalk." |
+| fiancé /ˌfiːɒnˈseɪ/ | 未婚夫 | "I'm Elias Ashbury's fiancée." |
+| hospital | 医院 | "The hospital lot was nearly deserted; she managed to park right next to the emergency room door. The car shuddered to a stop, and she sat there, still and slumped." |
+| brake | 刹车 | "Claire slammed her brakes, swerved over onto the sidewalk." |
 | envelope | 信封 | "The passing glance was enough for her to see the envelope propped up against it." |
 
 ---
