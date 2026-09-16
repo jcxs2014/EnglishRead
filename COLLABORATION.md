@@ -43,37 +43,33 @@
 
 ### [2026-09-16 10:28 UTC] [ZCode-Mac] → All
 
-**《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇（14 commits，本条为该书唯一通报）**
+**《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇 + 五步审查通过（15 commits，本条为该书唯一通报）**
 
 - 目录：`notes/books/novels/kiss-slay-replay-by-rachel-harrison/` — **40 md**（ch01–ch37 正文 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 37 件（ch38 宣传页已删）。7 部循环结构恐怖长篇，Willa Ann Sullivan 单 POV，精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 26 词条/章 + 一句话总结）
 - **H1 章号 = 源文件自带编号**：书内章节号按部重置，故 ch35 = `Part 7 · Chapter 1`、ch36 = `Chapter 2`、ch37 = `Chapter 3`（全书 H1 编号非单调，审查勿按"chNN 应对应 Chapter NN"报偏移）
 - **门禁最终态（38 文件 = 37 章 + 00_金句精选）**：verify_quotes **316/316 100%** 干净 38/38 · check_vocab **960 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **296/296 in 本章 text（零跨章）** · check_crossref **0 对 0 报警** · verify_overview_quotes **25/25** · kw_anchor（`scripts/attic/kw_anchor_ksr.py`）**296 块 / 7804 英文词 / 0 违规**
 - 5 条短引语（<20 flat 字符，工具不校验）已人工 grep：ch22 `"Whoa, whoa."` 命中 `text/ch22_chapter_3.txt:107`；金句 ①19 / ⑫14 / ⑰12 / ㉕18 / ㉚13 五条约短全部 flat 命中 epub
 - **总览引语人工兜底**（工具明确豁免概述与情感节点的无编号行）：金句 30 条编号行 **30/30** · 概述行内英文 + 金句内嵌英文 **69 条 MISS 0** · 情感节点 blockquote **13 条 MISS 0**
-- **说话人窗口复核（±200 字符）**：⑤ `Cass sighs.` · ⑥ Willa 隔门喊 · **⑦ 原文无说话人标签**（金句 ⑦ 已注明落在 Evan 与 Wyatt 之间、Willa "But…" 之前，未指认 Evan）· ⑧ Luke leans back · ⑨ Willa clears throat · ㉓ Willa 答 Cassie · ㉕ Cass 加脏词 · ㉚ Willa 对 Danny
-- **事实层更正（写入前 grep 定源，防凭记忆断言）**：① 虫洞知识出自 ch31 洗手间的另一位循环者，**不是 ch31"找到"虫洞**；Jesse 是被送去机构、循环近四年的营员（ch31 L192–200）· ② ch36 "Five-oh-three" 是 Danny 报时（L321–324），非叙述时间戳 · ③ "Glad I found you." 仅 ch37 L110 一处 · ④ ch36 内心 "You can what if yourself to death, Willa." 前接**两个** "What if"（L234–239，此前误记七个）· ⑤ "the rest of my life waiting for another monster to show up" 在 **ch28 L204**（恐惧容器）↔ ch36 L140（渴望容器），此前误标 ch33 · ⑥ ch01 L113 原文带 "And"，金句 ③ 已改逐字 · ⑦ 顺带修 ch07/ch08/ch09 三处中文理解英文残留（welcome mat / DJ booth / beloved，并把 "West Village" 误译「西村」回正）
-- **新坑（建议入模板）**：ch36 四组跨段引语（⑫ L68–70 / ⑮ L137+L140 / ⑯ L176–180 / ⑲ L260–263）逐行 `grep -F` 报 MISS，但 flat 比对 epub 通过——提取件把单句拆成多行，**行级 MISS 不等于虚构，必须先 flat 比对再定性**。另有：ch10 的 `final girl` 已释义「恐怖片里活下来的那位女性」，ch22 复用不重复释义
-- **commits（14 个）**：3d80805e → 5f017ca4 → 95c6aa1f → 888bf61c → 61f14452 → 8e71c57f → b83682ca → 8a0986ef → 72b882a8 → 6602d04e → 9f41e5d8 → cc90ef36 → efeb42d5 → 2a55f36d
-- **待 push**（本地 main 领先 origin/main 139 commits，工作树干净）
-
-### [2026-09-16 12:26 UTC] [ZCode-Mac] → All
-
-**《Kiss Slay Replay》独立五步审查完成 — 发现并修复 2 处事实错误（commit d29a1921）**
+- **说话人窗口复核（±200 字符）**：⑤ `Cass sighs.` · ⑥ Willa 隔门喊 · **⑦ 原文无说话人标签**（金句 ⑦ 已注明落在 Evan 与 Wyatt 之间，Willa "But…" 之前，未指认 Evan）· ⑧ Luke leans back · ⑨ Willa clears throat · ㉓ Willa 答 Cassie · ㉕ Cass 加脏词 · ㉚ Willa 对 Danny
 
 - **五步审查结果（现场重跑）**：
   - a 三件套：verify 316/316 · vocab 960 FAIL=0 · entities 0 ✅
   - b 逐章归属：296/296 零跨章，8 处 cliffhanger 边界全绿 ✅
   - c 结构扫描：37 章 + 3 总览，编号/四件套/孤儿/重复 0 异常 ✅
-  - d 语义二审：296 对引语↔分析语义良好；自动化脚本 129 条报警均为设计局限假阳性（读者视角提示是中文元评论，不含英文引语词汇是精简格式的正常设计，非缺陷）✅
-  - e 总览层：修复 2 处事实错误 ✅
-- **修复的 2 处**：
-  - 概述 line 40：`Luke 与 Willa 有孩子` → `Luke 与 Cassie 有孩子（Theo）`（证据：Cassie 的 baby Theo，ch28；Willa 31 岁单身书内无子）
-  - 概述 Vicky 弧光：`Vicky 在第一个循环里最先死` → `Steph 先于 Vicky 死去`（证据：ch08 L17 "Stephanie is dead." 先于 Vicky 割喉 L80）
-- **新工具盲区（值得入模板）**：
+  - d 语义二审：296 对引语↔分析语义良好；自动化脚本 129 条报警均为设计局限假阳性（非缺陷）✅
+  - e 总览层：**修复 2 处事实错误** ✅
+    - 概述：`Luke 与 Willa 有孩子` → `Luke 与 Cassie 有孩子（Theo）`（证据：Cassie 的 baby Theo，ch28；Willa 31 岁单身书内无子）
+    - 概述 Vicky：`Vicky 在第一个循环里最先死` → `Steph 先于 Vicky 死去`（证据：ch08 L17 "Stephanie is dead." 先于 Vicky 割喉 L80）
+
+- **事实层更正（写入前 grep 定源，防凭记忆断言）**：① 虫洞知识出自 ch31 洗手间的另一位循环者，**不是 ch31"找到"虫洞**；Jesse 是被送去机构、循环近四年的营员（ch31 L192–200）· ② ch36 "Five-oh-three" 是 Danny 报时（L321–324），非叙述时间戳 · ③ "Glad I found you." 仅 ch37 L110 一处 · ④ ch36 内心 "You can what if yourself to death, Willa." 前接**两个** "What if"（L234–239，此前误记七个）· ⑤ "the rest of my life waiting for another monster to show up" 在 **ch28 L204**（恐惧容器）↔ ch36 L140（渴望容器），此前误标 ch33 · ⑥ ch01 L113 原文带 "And"，金句 ③ 已改逐字 · ⑦ 顺带修 ch07/ch08/ch09 三处中文理解英文残留（welcome mat / DJ booth / beloved，并把 "West Village" 误译「西村」回正）
+
+- **新工具盲区（建议入模板）**：
   - `verify_overview_quotes.py` 口径盲区：概述/情感节点无编号行完全不在内；金句 5 条短句（①⑫⑰㉕㉚）静默跳过——须自备 flat 比对脚本兜底（112 条人工核验 MISS=0）
-  - 行级 `grep -F` 对跨段引语报 MISS 但 flat epub 比对通过（ch36 四组），**MISS 先 flat 比对再定性**
+  - 行级 `grep -F` 对跨段引语报 MISS 但 flat epub 比对通过（ch36 四组：⑫ L68–70 / ⑮ L137+L140 / ⑯ L176–180 / ⑲ L260–263），**MISS 先 flat 比对再定性**
   - 自动化语义扫描对精简格式"读者视角提示"有系统性假阳性（设计局限，非缺陷）
-- **commit d29a1921**，本地 main 领先 origin/main **141 commits**，工作树干净；**等推送指令**
+
+- **commits（15 个）**：3d80805e → 5f017ca4 → 95c6aa1f → 888bf61c → 61f14452 → 8e71c57f → b83682ca → 8a0986ef → 72b882a8 → 6602d04e → 9f41e5d8 → cc90ef36 → efeb42d5 → 2a55f36d → d29a1921
+- **待 push**（本地 main 领先 origin/main 142 commits，工作树干净）
 
 ---
 
