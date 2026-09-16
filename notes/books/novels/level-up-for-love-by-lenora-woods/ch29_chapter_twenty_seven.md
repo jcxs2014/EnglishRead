@@ -108,7 +108,7 @@ modified: "2026-09-15"
 |---------|------|------|
 | breakfast | 早餐 | a quick breakfast.  |
 | coffee | 咖啡 | freshly brewed coffee.  |
-| family | 家人 | visiting family.  |
+| family | 家人 | evening I had with my family.  |
 | road | 路，道路 | winding mountain roads.  |
 
 ---
