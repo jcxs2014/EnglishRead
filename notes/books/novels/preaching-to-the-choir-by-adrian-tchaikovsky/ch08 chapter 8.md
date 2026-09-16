@@ -43,7 +43,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书的机制定义，也是全书最精妙的一次概念翻转。Elena 用一个逻辑推出整件事：寄生关系的本质是"消耗完就走"，而周期长达八十三年时，宿主变成必须长期维护的资产，于是关系从寄生变为共生——你要照顾你的宿主，因为你要用他很久。作者让 Elena 自己在考试中说出这句话（前面她已被反复追问），因此这一刻不仅解释世界，也完成她的能力展示：她是靠观察记录簿与生物学推理走到这里的。这也解释了全部温柔：这个家族对自家人越好、越强大、越长寿。
 
-**读者视角提示：** 这句话立即把前文所有"家族照顾"的细节重新赋值——优渥的医疗、长寿、外表年轻、极强的体格，以及 Neera 的实验室与博士团队。留意她说"you look after your host"时用的是第二人称：这句话其实是在讲她自己的职业。
+**读者视角提示：** 这句话立即把前文所有"家族照顾"的细节重新赋值——优渥的医疗、长寿、外表年轻、极强的体格，以及 Neera 那间带解剖台的地下实验室。留意她说"you look after your host"时用的是第二人称：这句话其实是在讲她自己的职业。
 
 > **原句 4:** “The nymph slowly grows in the chest cavity. I can show you several thousand pages of writing about the various biochemical changes it makes to the human body, the enzymes it catalyses, the way it makes room for itself without endangering the host. The auditory physics of the chamber it builds, to produce a uniquely persuasive vocal instrument.”
 

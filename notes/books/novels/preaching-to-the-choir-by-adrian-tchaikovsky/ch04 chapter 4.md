@@ -23,7 +23,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全章第一句先把"看见"重新定义为"越界"。前几节 Elena 一直以为自己的问题是身份（她是谁家的、她配不配在这里），这一句把问题换成行为：目击不是被动遭遇，而是一次不可撤回的动作。作者用两个同位语（the interloper, the outsider）把她的位置钉死，且刻意让它们重复同一个意思——不是修辞的重复，是判决的重复：她在这里没有第二种身份可用。
 
-**读者视角提示：** crossed a line 在这里指的是"看见"这件不可撤回的动作；真正由她自己选择的越线，要等到第 5 节她主动上阁楼翻找家族秘密时才发生。留意作者怎样把"越界"从灾难改写成她唯一的能动性。
+**读者视角提示：** crossed a line 在这里指的是"看见"这件不可撤回的动作；真正由她自己动手的越线，要等到第 5 节——跟着 Ross 上阁楼、亲手搬开箱子翻出家族秘密时才发生。留意作者怎样把"越界"从灾难改写成她唯一的能动性。
 
 > **原句 2:** “Something’s fucked up here,” Melissa said. “Something’s profoundly fucked up with this family. And that’s why we’re all here. And I think the idea is that by the time we leave this little get-together, we’re all initiated into the secret. All part of the cult or whatever the bloody fuck is going on here.”
 
@@ -33,7 +33,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书第一次有人把家族聚会的目的说成"入会仪式"，而且说这话的是家族自己人。Melissa 的用词是关键：initiated（被引入、被启蒙）不是靠贿赂、恐吓或强迫，它暗示这套机制不靠暴力收尾，而靠"让你知道"——知道你就不再是外人，你的沉默就有了内在的理由。cult 一词则把她自己的家族直接称名，配上她连珠式的脏话（fucked up、bloody fuck），把恐惧说成愤怒。这也解释了为什么本章的逃亡注定失败：他们要逃的不只是一栋房子，是一次正在进行中的仪式。
 
-**读者视角提示：** 记住 initiated。本章结尾 Will 被单独带走、第 5 节她会亲眼看到"入会"的形式；此后每一次家族对下一代的"解释"，都该按这段话来读。
+**读者视角提示：** 记住 initiated。本章结尾 Will 被单独带走、第 5 节她会亲眼看到"入会"之后的 Will 变成了什么样；此后每一次家族对下一代的"解释"，都该按这段话来读。
 
 > **原句 3:** I mean, I think we all know how good the family is at making problems go away. It’s happened in the past.
 
