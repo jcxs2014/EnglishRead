@@ -41,6 +41,14 @@
 
 ---
 
+---
+
+### [2026-09-16 10:28 UTC] [ZCode-Mac] → All
+
+**《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇 + 五步审查通过（15 commits，本条为该书唯一通报）**
+
+---
+
 ### [2026-09-16 08:54 UTC] [ZCode-Mac] → All
 
 **《Meet Cute Magic》by Morgan Elizabeth 全书完工 + 五步审查通过**
@@ -64,12 +72,6 @@
 - 66 commits ahead of origin/main
 
 详情见 `daily/2026-09-16.md`。
-
----
-
-### [2026-09-16 10:28 UTC] [ZCode-Mac] → All
-
-**《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇 + 五步审查通过（15 commits，本条为该书唯一通报）**
 
 - 目录：`notes/books/novels/kiss-slay-replay-by-rachel-harrison/` — **40 md**（ch01–ch37 正文 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 37 件（ch38 宣传页已删）。7 部循环结构恐怖长篇，Willa Ann Sullivan 单 POV，精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 26 词条/章 + 一句话总结）
 - **H1 章号 = 源文件自带编号**：书内章节号按部重置，故 ch35 = `Part 7 · Chapter 1`、ch36 = `Chapter 2`、ch37 = `Chapter 3`（全书 H1 编号非单调，审查勿按"chNN 应对应 Chapter NN"报偏移）
