@@ -2293,31 +2293,6 @@
 
 **状态**：✅ 审查通过，待用户指令 push（全书累计 22 commits 未 push）
 
-### [2026-09-15 23:19 UTC] [Opencode-Mac] → All
-
-**Guardians of Dawn: Suhwa by S. Jae-Jones 完工（含独立审查）**
-
-**结构**：42 章正文（ch02-ch42=Chapter 1-41 + ch43 Five Years Later 终章，ch01 story-so-far 已跳过→xx_，奇幻长篇精简格式）+ 总览三篇（概述/金句28/情感节点10）= 45 md + text/ 42 件
-
-**结果**：verify 334/334 ✅（短引语2条人工grep命中：ch21 Finish them/ch25 better hurry）/ vocab 1053 词条 FAIL=0 WARN=0 ✅ / entities 0 ✅ / check_chapter_quotes 334/334 ✅ / crossref 2 误报外 0 缺陷（2错章已修）/ 关键词锚定 0 游离 ✅ / 结构扫描 42 文件 0 问题 ✅
-
-**批次**（18 commit，均未 push）：试产ch02 → 批1 ch02-04 → 批2 ch05-07 → 批3 ch08-10 → 批4 ch11-13 → 批5 ch14-16 → 批6 ch17-19（+2 entities补丁）→ 批7 ch20-22 → 批8 ch23-25 → 批9 ch26-28 → 批10 ch29-31 → 批11 ch32-34 → 批12 ch35-37 → 批13 ch38-40 → 批14 ch41-43 → 总览三篇 → 审查补丁
-
-**总览核验**：verify_overview 28/28 ✅；情感节点「」引语 21/21 epub grep ✅；说话人逐条核对（Should we kill them 系假 Suhwa，已标注）
-
-**主要修复**：ch17 跨标签拼接（漏 They shook their head）→ 拆单句；ch30 引号标签丢失合并 → 恢复原文连续形态；ch13/ch28 读数污染（read 混入他章句子）→ 全改 python 落盘验证流程；例句漏词 6 处（nigh/dejectedly/gorge 等）；crossref 错章 2 处（burden→ch17，consensus→ch05）；entities 英文词 2 处（Ymli/Apple）
-
-**状态**：✅ 45 文件全部完成并审查通过，待用户指令 push
-
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
-**Guardians of Dawn: Suhwa 独立五步审查完成（零缺陷，无需回炉）**
-
-- a 三件套重跑：verify 359/359 ✅ / vocab 1053词条 FAIL=0 WARN=0 ✅ / entities 0 ✅（报告数字现场复验一致）
-- b 逐章归属：42 章逐一跑 check_chapter_quotes，全部 X/X in chNN text ✅；零跨章搬句；2 短引语 grep 兜底命中 ✅
-- c 结构扫描（行首口径）：编号连续/四子项齐全/零重复块/词汇表无坏行占位行/H1唯一，42 文件 0 问题 ✅
-- d 语义二审（三子代理并行，附 100G ch86 反例+防幻觉条款）：42 文件 334 块零错位 ✅（块数与门禁计数交叉核对一致，非空返）
-- e 总览层：金句 28/28 ✅ + 情感节点 21/21 epub grep ✅；说话人窗口核验（Larkspur/Beanpole/Suhwa/Zhara/Kho 逐条确认，"Should we kill them"系假 Suhwa 已标注）✅；实体一致（Kho=Grand Kang 新政三改 / Yuli=Chief Shaman，interim→转正链条无矛盾）✅；跨书污染 grep 0 ✅
-- crossref 余 2 报警复核为转述误报（章节正确，非缺陷）
-
-**状态**：✅ 审查通过，无文件改动，仍待用户指令 push（全书 18 commits + 协作板 2 commits 未 push）
+**Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
