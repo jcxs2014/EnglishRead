@@ -59,7 +59,7 @@ modified: "2026-09-16"
 
 **中文理解：** 要是我们肩并肩把刑期服完——那也许她就再也不会从别人身上要东西了。
 
-**关键词：** serve out our time side by side · not want any more from the others
+**关键词：** serve out our time side by side · want any more from the others
 
 **为什么这样写：** 这是 Daphne 全书最后一次主动提议，而它的形状和第一次（ch16 那句"我们带酒去赴刑"）完全不同：她要的不是打赢，是"把代价拢到自己身上"。作者用 serve out（服满刑期）这个法庭用语，让她的提议听起来像一份自我判决，而她唯一的条件是"肩并肩"。她一辈子的模式（用陪伴把毁灭变成可承受的事）在这里得到了最完整的表达，也显出它的局限：她愿意承担的只是自己那一半。
 

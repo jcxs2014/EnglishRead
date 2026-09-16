@@ -43,7 +43,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 本章用整整一大段让四个孩子给 loinnir 这个词补上三种释义（海面上一层被抓住的光／一种想拉人一起做点小坏事的笑／偷喝到那口酒之后身上发亮的感觉），而 Daphne 把三种都收进自己身体里。作者对最后一个定义的处理是全章最好的双刃：giddy 与 poison 出现在同一个短语里，读者读到的既是少女的兴奋，也是一份配方说明。她接着自己给出了一个成人世界的解释——学校不会教她这个词，"因为把胆大妄为的词交给人，只会助长他们"——这句话让一个十六岁女孩的兴奋带上了被规训的自觉。
 
-**读者视角提示：** 本书对"喝"这件事的态度从这一章开始定型：它永远是双重的（社交的暖／毒药的量）。留意后面每一次饮酒场景，作者都用同一套词（poison、punch、wasn't sustained enough）来记账。
+**读者视角提示：** 本书对"喝"这件事的态度从这一章开始定型：它永远是双重的（社交的暖／毒药的量）。留意后面每一次饮酒场景，作者都用同一套词（poison、punch、hadn't sustained enough alcohol input）来记账。
 
 > **原句 4:** "They could conjure the place through talk alone. They had made it real, as real as their own lives, just private. Secret."
 

@@ -51,7 +51,7 @@ modified: "2026-09-16"
 
 **关键词：** prepared my feast · his own shame that blazes the brightest
 
-**为什么这样写：** 全章的判决书，也是本书最优雅的一次因果：布置宴会的人成了主食。作者用一组烹饪与照明混合的动词（set the scene、prepared、blazes）把整件事写成一场"由厨师自己上桌"的饭局，而 The Revelator 之前那句"My mouth is dark and open."恰好因为这一句而有了食欲的方向。这个结局也回应了 ch10 那句"raking them over their secrets"——他执行得太彻底，以至于把自己也耙了进去。
+**为什么这样写：** 全章的判决书，也是本书最优雅的一次因果：布置宴会的人成了主食。作者用一组烹饪与照明混合的动词（set the scene、prepared、blazes）把整件事写成一场"由厨师自己上桌"的饭局，而 The Revelator 之前那句"My mouth is dark and open."恰好因为这一句而有了食欲的方向。这个结局也回应了 ch10 那句"Rake them over their secrets like hot coals"——他执行得太彻底，以至于把自己也耙了进去。
 
 **读者视角提示：** 对读 ch18 那句"Why us, and not you?"：她的质问在这一章得到了机制层面的回答——不是神改了主意，是竞争格局变了。本书的"报应"永远以市场逻辑发生。
 
