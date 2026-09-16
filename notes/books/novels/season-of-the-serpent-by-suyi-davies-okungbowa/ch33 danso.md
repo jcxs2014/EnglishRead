@@ -43,7 +43,7 @@ modified: "2026-09-16"
 
 **中文理解**：再就是他们正航行于无图海域——一个这次旅程中无人曾航过的方向。
 
-**关键词**：uncharted waters / never before
+**关键词**：uncharted waters / sailed before
 
 **为什么这样写**："uncharted"（无图）是本句的核心——地图母题的延续（ch25/32 他两次画图，此处是"无图可依"）。"a direction no one…had sailed before" 把地理未知写成历史首创。
 
