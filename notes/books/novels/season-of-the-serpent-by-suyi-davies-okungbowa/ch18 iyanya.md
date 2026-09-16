@@ -100,7 +100,7 @@ modified: "2026-09-16"
 | smidgen | 一丁点 | "with a smidgen of it" |
 | sinewy | 肌肉结实的 | "batting sinewy wings" |
 | mallet | 木槌 | "smashing a pot with a mallet" |
-| whispered | 低语 | "he whispered into the darkness" |
+| ran | 跑 | "He ran to the body" |
 
 ## 一句话总结
 
