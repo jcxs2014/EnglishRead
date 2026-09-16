@@ -7,7 +7,7 @@ modified: "2026-09-15"
 
 ## 本章导航
 
-- **一句话概括**：Parnell 向船员公布"留下、向 DrummerBoy 讨一艘 Basic、再去救 Kaz"的疯狂方案，被怀疑是 Massif 妄想；为拿一次面见上将的机会，他揭开 Aditi 的真实身份——候补总统 Haniya Yandong 的妹妹。
+- **一句话概括**：Parnell 向船员公布"留下、向 DrummerBoy 讨一艘 Basic、再去救 Kaz"的疯狂方案，被怀疑是 Massif 妄想；为拿一次面见上将的机会，他揭开 Aditi 的真实身份——候补总统 Haniya Yandong 最小的手足。
 - **情感弧线位置**：绝境反弹（团队集结）——从个体执念变成集体决定，是全书第一次"主动选择留下"。
 - **Tropes 兑现/反转**：无 romance 套路；「隐藏身份」母题揭晓——一直最不像军人的 Aditi 是最高权力的家人；「全员投票」母题兑现：每个人用一句台词表态。
 - **人物弧线**：Parnell 承认自己在利用 Aditi（"I didn't realize the full extent of what I was asking of you"），并第一次把"留下"的代价说清；船员们为"在一起"这个理由放弃回家。
@@ -57,13 +57,13 @@ modified: "2026-09-15"
 
 > **原句 5:** "'I'm the youngest sib of Alternate President Haniya Yandong.'"
 
-**中文理解：** "我是候补总统 Haniya Yandong 最小的妹妹。"
+**中文理解：** "我是候补总统 Haniya Yandong 最小的手足。"
 
 **关键词：** youngest sib / Alternate President Haniya Yandong
 
-**为什么这样写：** 用一句身份宣告完成全书最大的一次反转：之前所有关于 Aditi"不像机修兵"的暗示在此兑现；"sib"（同源手足，与基因线制度相关）而非"妹妹"是本书特有的亲缘词。
+**为什么这样写：** 用一句身份宣告完成全书最大的一次反转：之前所有关于 Aditi"不像机修兵"的暗示在此兑现；原文用的是 sib（同源手足，与基因线制度相关的无性别亲缘词），Aditi 在全书中始终以 they/them 被指称——这一措辞本身也参与了"身份可以自己选择"的主题。
 
-**读者视角提示：** 这一句同时决定了 Aditi 的命运：身份暴露意味着她不能留下（下一章将被上将明确拒绝），她的帮助以牺牲自己的军旅生涯为代价。
+**读者视角提示：** 这一句同时决定了 Aditi 的命运：身份暴露意味着不能再留下（下一章将被上将明确拒绝），其帮助以牺牲自己的军旅生涯为代价。
 
 > **原句 6:** "'You're still Sassafras.'"
 
