@@ -23,7 +23,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全章第一句就是一次"用词事故"：杀了 fairy 的人却完全不承认自己相信 fairy。作者让她紧接着自证清白——天主教只当社交、祖母是"重生无神论者"、看 PBS 科普、想当医生、最爱万圣节扮 Jigsaw——这一整段履历的唯一作用是说明她没有任何可用来处理眼前事物的词汇。于是那句 We killed a fairy 只能成为脑子里反复转动的一句异物，"roiled round and round"。本书的恐怖有一半是词汇恐怖：发生了，但你没有词。
 
-**读者视角提示：** 记住"有没有词"这条线。第 5 节她有"排除不可能"的推理、本节她后来用蝉来类比，每次她给怪物找到名字，处境反而更清楚也更坏。
+**读者视角提示：** 记住"有没有词"这条线。第 5 节她有"排除不可能"的推理、本节她后来用周期性出现的昆虫（十七年、十三年一现的那种）来类比，每次她给怪物找到名字，处境反而更清楚也更坏。
 
 > **原句 2:** “Maybe,” Melissa said acidly, “you never actually stepped far enough away to find out where the bars were. Doesn’t mean you weren’t in a cage.
 
@@ -33,7 +33,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 本章给 Ross 的判词，也是给他整个"逃离家族去美国读书"的人生叙事的判决。作者用两步完成：先承认他的感觉（他确实觉得自己走得很远），再把"自由"重新定义为"知道栅栏在哪"——不知道栅栏不等于没有栅栏。这句话的锋利之处在于它不需要任何证据，逻辑上无法反驳：无法证明自由，就等于尚未证实自由。这也是 Melissa 整章讲话的语法：她的每一句都建立在自己付过代价的认知上（医院、母亲、鞭子）。
 
-**读者视角提示：** 这句与第 5 节 Ross 自问"谁在付 Johns Hopkins 的学费"是同一条线，是同一章的两次收网。留意 Ross 的回应：他没有反驳，只说"我做不到[否定我看到的]"。
+**读者视角提示：** 这句与第 5 节 Ross 自问"谁在付 Johns Hopkins 的学费"是同一条线，是相继两节的两次收网。留意 Ross 的回应：他没有反驳，只说"我做不到[否定我看到的]"。
 
 > **原句 3:** It’s the elders. It’s the things. It’s them making themselves immortal at our expense. It’s living off the young.
 
@@ -53,7 +53,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书对怪物的第一次"完整展示"，而作者用的全是材质词与工艺词：gleaming、filigree、mosaic、plastic、dust-motes。这些词属于装饰品与人工制品，不属于动物；一只生物被描述成一件镶嵌工艺品，恐怖便从"它要伤害我们"变成"它被制作得如此精良"。同时"poor animal"这个带感情的形容与"插进侧腹的手臂"并置——作者把怜悯留给鹿，把工艺性留给怪物，读者因此同时体验受害与审美。而六英尺这个精确尺寸比任何形容都有效：它把怪物从"鸟"的类别里彻底移出。
 
-**读者视角提示：** 记住"翅膀伸展的拖拽感"这一笔（the draught from its suddenly spread wings），下一节空袭与群体的移动都会用到；也记住 filigree 这个词后面的用途——它们更亮、更大、花纹更华美，说明"饮食更好"。
+**读者视角提示：** 记住"翅膀伸展的拖拽感"这一笔（the draught from its suddenly spread wings），第 8 节的成体标本与翅展描写会用到；也记住 filigree 这个词后面的用途——它们更亮、更大、花纹更华美，说明"饮食更好"。
 
 > **原句 5:** The time they all just hatched out and… sang. Mated and died. Their life cycle. Every seventeen years or thirteen years or whatever it was.
 
@@ -61,7 +61,7 @@ modified: "2026-09-16"
 
 **关键词：** hatched out and… sang, Every seventeen years or thirteen years
 
-**为什么这样写：** 全章最漂亮的解释动作，而且它是被"降格"完成的。Elena 没有说 fairy、demon 或 angel，她说 hatched（孵化）、mated（交配）、life cycle（生命周期）——一套中学生物词汇。本节开头那套民俗恐慌（fairies were malicious and hateful, always vengeful）在这里被替换成生态学：如果它们是周期性繁殖的昆虫状生物，那么"唱歌"不是召唤、不是咒语，是求偶；"袭击"不是恶，是取食。作者刻意留下记忆的不确定（or whatever it was），因为 Elena 是普通人而不是专家，她只能提供类比而不是结论——这比确定的知识更可信。
+**为什么这样写：** 全章最漂亮的解释动作，而且它是被"降格"完成的。Elena 没有说 fairy、demon 或 angel，她说 hatched（孵化）、mated（交配）、life cycle（生命周期）——一套中学生物词汇。本节开头那套民俗恐慌（Fairies were malicious and hateful, often hideous, always vengeful）在这里被替换成生态学：如果它们是周期性繁殖的昆虫状生物，那么"唱歌"不是召唤、不是咒语，是求偶；"袭击"不是恶，是取食。作者刻意留下记忆的不确定（or whatever it was），因为 Elena 是普通人而不是专家，她只能提供类比而不是结论——这比确定的知识更可信。
 
 **读者视角提示：** 紧接着 Neera 会补上唯一的修正（间隔更长、食物更好则更大）。这也把时间尺度接进家族结构：如果周期以几十年计，那么"每代人一次"其实不是传统，是喂食时间表。
 
@@ -71,7 +71,7 @@ modified: "2026-09-16"
 
 **关键词：** the interval is rather longer, a more nutritious diet
 
-**为什么这样写：** 全书的解释句，而它的可怕在于语域——Neera 用的是研讨会语气（with this species、the interval、a more nutritious diet），说的却是把人当饲料这件事。她没有否认任何东西，只是做了两处技术修正：时间更长、个头更大。而"更有营养的饮食"指的是谁，读者已经看过被单下的尸体、被掏空的 Godfrey、被吸血的鹿，不需要点明。作者让最残酷的真相由一个微笑、体面、且刚刚治好过 Elena 脚踝的人说出来，这比 Godfrey 的教义更令人寒——Godfrey 是虔信者，Neera 是研究员。
+**为什么这样写：** 全书的解释句，而它的可怕在于语域——Neera 用的是研讨会语气（with this species、the interval、a more nutritious diet），说的却是把人当饲料这件事。她没有否认任何东西，只是做了两处技术修正：时间更长、个头更大。而"更有营养的饮食"指的是谁，读者已经看过被单下的尸体、被掏空的 Godfrey、被吸血的鹿，不需要点明。作者让最残酷的真相由一个微笑、体面、且替 Elena 治过脚踝的人说出来，这比 Godfrey 的教义更令人寒——Godfrey 是虔信者，Neera 是研究员。
 
 **读者视角提示：** 这句确立了 Neera 的类型：全书唯一能"饲养"它们的人，也是唯一把家族传统当课题的人。留意她说的"proprietary technology"（第 2 节）与这里的物种研究是同一套知识体系。
 
@@ -81,9 +81,9 @@ modified: "2026-09-16"
 
 **关键词：** a resource, my contribution to our family’s future
 
-**为什么这样写：** 全书对家族逻辑最彻底的一句话，也是 Jeffrey 这个人物的完成：三个并列句把女儿从人到物、再到他的业绩、最后到被没收的自由，一级一级剥夺——而这套降格从语法上就开始（作者把 "You are a resource" 拆在对话标签两侧，让那句判词先被"你"这个代词割开）。my contribution 是最冷的部分：Melissa 对他不是女儿，是他交给家族的货款，因此他对她的一切暴行（打进医院、鞭打）在账本上都合理。而 not free to walk away 与第 4 节的 "This is your bloody inheritance" 是同一句话的升级版：从"你不许走"变成"你没有权利走"。
+**为什么这样写：** 全书对家族逻辑最彻底的一句话，也是 Jeffrey 这个人物的完成：三个并列句把女儿从人到物、再到他的业绩、最后到被没收的自由，一级一级剥夺——而这套降格从语法上就开始（作者把 "You," 与 "are a resource" 拆在对话标签两侧，让那句判词先被"你"这个代词割开）。my contribution 是最冷的部分：Melissa 对他不是女儿，是他交给家族的货款，因此他对她的一切暴行（打进医院、鞭打）在账本上都合理。而 not free to walk away 与第 4 节的 "This is your bloody inheritance" 是同一句话的升级版：从"你不许走"变成"你没有权利走"。
 
-**读者视角提示：** 这句之后紧接着的两件事——他举起枪，以及 Elena 意识到"我们不需要她活着"意味着自己要死——都出自同一套会计逻辑。注意下一句 Melissa 的回答是全章唯一一处"以语言反击"的时刻。
+**读者视角提示：** 这句之后紧接着的两件事——他举起枪，以及 Elena 意识到"我们不需要她活着"意味着自己要死——都出自同一套会计逻辑。留意紧接着的一句：面对枪口，Melissa 的回答仍然是语言——"I will fight you," she said flatly.
 
 > **原句 8:** When he levelled the gun at his own daughter and let fly, it was with absolute clarity and premeditation.
 
@@ -93,7 +93,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全章的收束句，也是一次法律裁决的写法。作者用的是两个极为冷静的词（clarity、premeditation，后者是谋杀罪的构成要件），因为就在前一段 Elena 已替 Jeffrey 预演了辩护词："事后他当然会说是意外、是走火、是一时冲动。"这句的存在正是为了取消这份辩护——并且下一节（第 7 节）会立即展示这话有多必要。全书的恶始终是 diffuse 的（第 5 节 Ross 语），但这里第一次出现了一个不能被弥散化的动作：父亲对女儿扣扳机。
 
-**读者视角提示：** 注意开枪的对象是 Melissa 而不是 Elena——家族真正无法容忍的不是外人，是拒绝成为资源的自己人；所以第 7 节的悬念不是"Elena 会不会死"，而是"Will 被换走之后，Melissa 会不会成为下一个容器"。
+**读者视角提示：** 注意开枪的对象是 Melissa 而不是 Elena——家族真正无法容忍的不是外人，是拒绝成为资源的自己人；这也让第 7 节 Elena 被铐在床上时明白了自己还活着的原因：没有人需要她死。
 
 ## 本章词汇
 

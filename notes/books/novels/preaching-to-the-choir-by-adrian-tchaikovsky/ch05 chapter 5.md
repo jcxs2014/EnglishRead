@@ -73,7 +73,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书核心教义，交付方式是它的可怕之处——不是威胁，是叙事。Godfrey 用被动语态（were shown）抹掉了主动的"我们强迫你"，用 necessary 把暴力写成必要条件，最后用"as you will be"把下一代直接编入时间表。而这一切都发生在他们刚读完那本写满 I won't 的剪贴簿之后：上一位研究者也是"最终被展示了必要性"。作者把最残酷的宣告安排成一句平铺直叙，正对应前文 Ross 说的"恶没有造型"。
 
-**读者视角提示：** "showed"这个词后面被兑现得非常具体：Godfrey 掐住 Elena 的喉咙、让她失去呼吸，是全章对"被展示"最直白的解释。留意最后 Godfrey 自己脸从内部裂开——他也被展示过。
+**读者视角提示：** "shown"这个词后面被兑现得非常具体：Godfrey 掐住 Elena 的喉咙、让她失去呼吸，是全章对"被展示"最直白的解释。留意最后 Godfrey 自己脸从内部裂开——他也被展示过。
 
 > **原句 7:** “I said,” he ground out, “we should have just vanished you. We should have taken you into the trees with the others.”
 
@@ -81,9 +81,9 @@ modified: "2026-09-16"
 
 **关键词：** vanished you, into the trees with the others
 
-**为什么这样写：** 一句话把 Elena 的全部处境与林中的七根木桩接上线，也把家族的"清理"从猜测变成供词。vanished 被当动词用（把你消失掉）——行政语言而非暴力语言，与第 4 节"让问题消失"的 family 传统一致；而 the others 四个词是全书最省的残忍：密林、木桩、拖拽痕迹、两具被掏空的尸体，全被压缩进一个代词。作者让 Godfrey 在掐着她、呼吸困难的时候说这些话，气声与恶意混在一起，句子因此读起来像漏气的机器。
+**为什么这样写：** 一句话把 Elena 的全部处境与林中的七根木桩接上线，也把家族的"清理"从猜测变成供词。vanished 被当动词用（把你消失掉）——行政语言而非暴力语言，与第 4 节"让问题消失"的 family 传统一致；而 "the others" 是全章最省的残忍：密林、木桩、拖拽痕迹、被掏空的尸体，全被压缩进这两个词。作者让 Godfrey 在掐着她、呼吸困难的时候说这些话，气声与恶意混在一起，句子因此读起来像漏气的机器。
 
-**读者视角提示：** 与第 3 节 Godfrey 未出场时她"完全多余"的观察合读：Elena 在这个家族里的功能只有两个——参观者或祭品，而 Godfrey 此刻选择了后者。她的存活从这一节起完全靠三个人（Melissa、Ross、以及怪物自己的死亡）偶然维持。
+**读者视角提示：** 与本节前段她"完全多余"（entirely surplus to requirements）的观察合读：Elena 在这个家族里的功能只有两个——参观者或祭品，而 Godfrey 此刻选择了后者。她的存活从这一节起完全靠三个人（Melissa、Ross、以及怪物自己的死亡）偶然维持。
 
 > **原句 8:** Elena saw the gleam of blood-red eyes, round and bulging, and a scrabble of horrible little clawed hands pushing and prying as it freed itself from the hollowed-out thing that had been Godfrey, and a long dagger beak like a flexing syringe.
 
@@ -91,7 +91,7 @@ modified: "2026-09-16"
 
 **关键词：** the hollowed-out thing that had been Godfrey, a flexing syringe
 
-**为什么这样写：** 全书第一次让怪物以"解剖"的方式出场，而作者的词汇选择全部服务于体积与工具：eyes（round and bulging）、clawed hands（scrabbling, prying）、dagger beak、syringe。最狠的是 hollowed-out thing that had been Godfrey——不是"Godfrey 的身体"，而是一个被腾空的容器；这意味着前文 Godfrey 所有的威势、长寿、甚至那声把餐具震响的咳嗽，都只是体内那只东西的功率。同时，"注射器"与"匕首"这两个现代工具名，把怪物从神话范畴拽回实验台范畴——它属于 Neera 的实验室世界，而不是古堡传说。
+**为什么这样写：** 全书第一次让怪物以"解剖"的方式出场，而作者的词汇选择全部服务于体积与工具：eyes（round and bulging）、clawed hands（scrabbling, prying）、dagger beak、syringe。最狠的是 hollowed-out thing that had been Godfrey——不是"Godfrey 的身体"，而是一个被腾空的容器；这意味着前文 Godfrey 所有的威势、长寿、甚至那声像枪响一样填满整个阁楼的咳嗽，都只是体内那只东西的功率。同时，"注射器"与"匕首"这两个现代工具名，把怪物从神话范畴拽回实验台范畴——它属于 Neera 的实验室世界，而不是古堡传说。
 
 **读者视角提示：** 这一节之后回读前四处伏笔：Patrick 被掏空的下颌与肋骨、Neera 的"专有技术"、Will 的"前后对照"、长老席的 depauperate。本书的怪物不是比喻，是寄生与替换的机制——留意接下来谁开始"咳嗽"。
 

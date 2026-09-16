@@ -51,7 +51,7 @@ modified: "2026-09-16"
 
 **关键词：** grows in the chest cavity, a uniquely persuasive vocal instrument
 
-**为什么这样写：** 全书的题解，也是这本书最重要的一句话，因为它把"说话的权力"落成了器官。作者让 Neera 用一连串技术名词（biochemical changes、enzymes、auditory physics）铺垫，最后落在 vocal instrument 上——读者瞬间回填前七节的所有细节：为什么每个长辈一开口就能压制全场（"a deep, carrying rumble"）、为什么 Neera 的语气能让人不知不觉坐下（"the precisely modulated tones"）、为什么 Will 的劝降那样有效、为什么标题说这是"对着唱诗班讲道"（preaching to the choir）。怪物的武器不是爪，是声带。
+**为什么这样写：** 全书的题解，也是这本书最重要的一句话，因为它把"说话的权力"落成了器官。作者让 Neera 用一连串技术名词（biochemical changes、enzymes、auditory physics）铺垫，最后落在 vocal instrument 上——读者瞬间回填前面各节所有"一开口就压场"的细节（本节写老一代的声音是 "That deep, carrying rumble"，写 Neera 的语气是 "the precisely modulated tones"）、为什么 Will 的劝降那样有效、为什么标题说这是"对着唱诗班讲道"（preaching to the choir）。怪物的武器不是爪，是声带。
 
 **读者视角提示：** 记住这句之后，全书所有对话都要重读一遍：说服力分成两层——人的教养与怪物提供的共鸣。结束时 Elena 感到的那股 "thrum of assurance" 正是她自己体内那件器官开始工作的信号。
 
@@ -61,7 +61,7 @@ modified: "2026-09-16"
 
 **关键词：** take the prizes and we pay the price, symbionts and parasites both
 
-**为什么这样写：** 全书对家族最诚实的自我评价，而它出自招募者之口。作者让 Neera 用一个对偶结构（prizes／price）把前述全部恐怖折算成一份合同，再用 symbionts and parasites both 把二者并列——注意顺序：共生的那部分（彼此照顾、长寿、权力）被写在前面，寄生的那部分（以年轻人的身体为代价）写在后面，这是招募话术的典型排列。而紧接着的一句更狠："Nobody walks away... That is practically the Enderby motto."——真正的家训不在门楣上，在这一句里。
+**为什么这样写：** 全书对家族最诚实的自我评价，而它出自招募者之口。作者让 Neera 用一个对偶结构（prizes／price）把前述全部恐怖折算成一份合同，再用 symbionts and parasites both 把二者并列——注意顺序：共生的那部分（彼此照顾、长寿、权力）被写在前面，寄生的那部分（以年轻人的身体为代价）写在后面，这是招募话术的典型排列。而紧接着的两句更狠："Nobody really walks away," 与 "That is practically the Enderby motto"——真正的家训不在门楣上，在这一句里。
 
 **读者视角提示：** 与第 3 节 Patrick 的"这就是我的第三次到访"和第 5 节的衔尾蛇纹章合读：本书始终把家族秘密写成一笔账。留意 Neera 说完这句之后立刻给出选项——她要的不是服从，是签字。
 
@@ -73,7 +73,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书对"同意"最精确的一次解剖，而且它靠的是一个自我否定的逻辑：正因为我怀疑这是威胁（她不放我走），我才无法确定这是威胁，而无法确定就意味着命令没有完全生效——于是我的屈服里剩下一丝自愿。作者让 Elena 亲口承认招募者的算盘得逞，而不是给她一个清白的解释机会；by the slenderest of threads（细如一线）这个夸张的比喻是全书对自由意志唯一一次给出的尺寸。这也让结尾她的选择失去了可辩护性：不是被迫，是不能确定自己被迫。
 
-**读者视角提示：** 这句解释了为什么她最后会说 "For you" 而不是 "I had no choice"。留意本章最后一段的修辞：她把选择说成对 Ross 的爱，作者则用医学与昆虫学词汇（egg、grub、encysted）把这份爱写成一个容器。
+**读者视角提示：** 这句解释了为什么她最后说的是 "For you" 而不是"我别无选择"。留意本章最后一段的修辞：她把选择说成对 Ross 的爱，作者则用医学与昆虫学词汇（egg、grub、encysted）把这份爱写成一个容器。
 
 > **原句 7:** And although the egg would barely have hatched, and though what would hatch would be nothing but a grub the size of her finger-joint, she already felt a thrum of assurance through her.
 
@@ -83,7 +83,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 全书的道德落点，而它的可怕在于体量的对比。作者用两个"虽然"把事实缩到极小（barely hatched、the size of her finger-joint），再用"已经"（already）把效果放到极大——一条指节大的幼虫就能给出 thrum of assurance（笃定的震颤）。这个 thrum 是生理性的，也是本章"共鸣的声音器官"的直接兑现：权力的感觉先于任何权力到手。作者还刻意用 grub（幼虫／蛆）这个不带美感的词，把"礼物"的真相写在字面上。
 
-**读者视角提示：** 这一句与她在第 6 节听见的"歌声"、第 2 节 Neera 声音里的那层"额外音色"是同一条线：这本书的所有诱惑都写成声音与身体感觉，而不是逻辑说服。
+**读者视角提示：** 这一句与她在第 6 节听见的"歌声"、本章稍后写到的那层"extra timbre"（Neera 的声音里额外的一层音色，直接穿过潜意识）是同一条线：这本书的所有诱惑都写成声音与身体感觉，而不是逻辑说服。
 
 > **原句 8:** All the cognitive dissonance that had been eating him alive ebbing away, the rift in their family slowly suturing shut. With her on the inside, encysted like an insect.
 
