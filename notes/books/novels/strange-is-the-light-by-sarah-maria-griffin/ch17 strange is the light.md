@@ -43,7 +43,7 @@ modified: "2026-09-16"
 
 **为什么这样写：** 本章对 Daphne 的自我评价极为冷酷，而作者用了两个不动产术语（visitor / not taking up residence）来完成它：她的身体与情感都没有定居的意图，连她一直以为自己想定居的地方（Finn 的怀抱）也只是一次观光。这个比喻的残忍在于它照应了她一生的处境——她永远是从大陆来的客人（ch02 母亲说"最好当客人"），而本章证明她把这个身份内化到了床上。作者不批评她，只把它写成一种能力：她能随时离开，因为她从未真的进来。
 
-**读者视角提示：** 与 ch16 那句"夏季的 Daphne 就是 Ronan 知道的全部"并读：本书关于亲密的判词一直是同一句——你能被爱的人只有一个季节那么大。她能观光别人的身体，别人也只能观光她的夏天。
+**读者视角提示：** 与 ch14 那句"夏季的 Daphne 就是 Ronan 知道的全部"（Summertime Daphne was all Ronan knew）并读：本书关于亲密的判词一直是同一句——你能被爱的人只有一个季节那么大。她能观光别人的身体，别人也只能观光她的夏天。
 
 > **原句 4:** "Daphne belonged nowhere, and here in Finn’s arms, where she had always imagined she would belong, she was an alien."
 
