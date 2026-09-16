@@ -140,29 +140,28 @@ modified: "2026-09-15"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| anarchist | 无政府主义者 | "They're basically anarchists that can't be trusted" |
-| reckon | 认为，估算 | "I reckon we'll be reunited soon enough" |
+| anarchist | 无政府主义者 | "They're basically anarchists that can't be trusted in the office" |
+| reckon | 认为，估算 | "This is just a rumor, but apparently every time The Reckoning happens..." |
 | vortex | 漩涡 | "keeping me locked in this vortex" |
-| brim | 充满，溢出 | "a new dawn is brimming" |
+| brim | 充满，溢出 | "Questions brim, but each feels like something I'm supposed to already have the answer to" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| barter | 以物易物，交易 | "monsters barter with vendors" |
-| vendor | 摊贩 | "A vendor stands behind a table" |
-| loop | 循环，环路 | "I can feel the loop" |
-| alley | 小巷 | "I barrel toward the alley" |
+| barter | 以物易物，交易 | "Chatter fills the air as monsters barter with vendors" |
+| vendor | 摊贩 | "Chatter fills the air as monsters barter with vendors" |
+| loop | 循环，环路 | "I'm caught in a loop" |
+| alley | 小巷 | "With how meandering the alleys are, I must have accidentally done a square" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| tent | 帐篷 | "I duck into the tent" |
+| tent | 帐篷 | "The faster we can lose them and leave, the better" |
 | jar | 罐子 | "mason jars" |
-| bell | 铃铛 | "bells jingle overhead" |
-| storm | 风暴 | "A storm's coming" |
-| ghost | 鬼魂 | "What a bunch of ghouls" |
+| storm | 风暴 | "A storm's coming, huh?" |
+| ghost | 鬼魂 | "Those damn ghosts can never rest" |
 
 ## 一句话总结
 

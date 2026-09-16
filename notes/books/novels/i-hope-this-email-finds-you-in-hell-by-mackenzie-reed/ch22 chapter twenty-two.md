@@ -89,27 +89,27 @@ modified: "2026-09-15"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | parry | 挡开 | "The two parry down the hall, a blur of steel and leather" |
-| skewer | 刺穿 | "Make a sound and you'll be skewered in an instant" |
-|Obsidian | 黑曜石 | "Obsidian bullets. Too rare to waste" |
-| urgency | 紧迫 | "We need to get them out of here. Now" |
+| Obsidian | 黑曜石 | "Obsidian bullets. Too rare to waste" |
+| betray | 背叛 | "His hair is salt-and-pepper, a betrayal of an age that doesn't match him" |
+| swallow | 吞咽 | "A milky film has swallowed her hazel irises" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| thud | 沉闷声 | "the sound dull but still thud" |
-| flicker | 闪烁 | "her eyes flicker as if waking up" |
-| hobble | 蹒跚 | "Krystal trips over something on the ground, landing hard" |
-| pantry | 餐具室 | "the butler's pantry, which holds the entrance" |
+| archer | 弓箭手 | "The archer's head whips toward me, followed by an arrow" |
+| pantry | 餐具室 | "the butler's pantry and the back door" |
+| dagger | 匕首 | "Luke deflects it with his dagger" |
+| guilt | 内疚 | "I ask, guilt brimming that our cover is blown" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| arrow | 箭 | "another arrow flies our way" |
-| dagger | 匕首 | "Luke deflects it with his dagger" |
-| shoulder | 肩膀 | "The arrow is embedded in his left shoulder" |
-| stove | 炉子 | "The back door is in sight, across the expanse of tile and counter and steel" |
+| arrow | 箭 | "The arrow whistles past the spot I just vacated" |
+| shoulder | 肩膀 | "embedded in his left shoulder, just beside his collarbone" |
+| ring | 戒指 | "a series of gunshots ring out from above" |
+| foil | 箔 | "both clatter to the ground" |
 
 ## 一句话总结
 

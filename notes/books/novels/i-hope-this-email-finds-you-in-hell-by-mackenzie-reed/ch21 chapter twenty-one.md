@@ -59,11 +59,11 @@ modified: "2026-09-15"
 ---
 
 > **原句 4:**
-> "They're blind. But their hearing is superb. Make a sound once we're within earshot and you'll be skewered in an instant."
+> "And also the fact that they're blind."
 
-**中文理解**：它们是盲的。但它们的听力很敏锐。一旦我们在听力范围内发出声音，你就会被立刻刺穿。
+**中文理解**：还有它们是盲的这个事实。
 
-**关键词**：blind（盲的）、hearing（听力）、skewered（被刺穿）
+**关键词**：blind（盲的）、fact（事实）
 
 **为什么这样写**：这是 worldbuilding + tension building——blind archers with superb hearing 是 creative monster design。"Make a sound"是 Brie's weakness（她经常 speak without thinking），setting up potential danger。
 
@@ -72,15 +72,41 @@ modified: "2026-09-15"
 ---
 
 > **原句 5:**
-> "I got an email. It's from Debra. Oh my God." A laugh shakes out of me at the absurdity. "It's the weekly report!"
+> "But their hearing is superb. Make a sound once we're within earshot and you'll be skewered in an instant."
 
-**中文理解**：我收到一封邮件。是 Debra 发来的。天哪。一阵大笑从我嘴里冲出，因为太荒谬了。是每周报告！
+**中文理解**：但它们的听力很敏锐。一旦我们在听力范围内发出声音，你就会被立刻刺穿。
 
-**关键词**：email（邮件）、weekly report（每周报告）
+**关键词**：hearing（听力）、skewered（被刺穿）
+
+**为什么这样写**：这是 practical information about the enemy—Luke is briefing Brie on how to move silently."Make a sound and you'll be skewered"是 consequences 的 clear statement。
+
+**读者视角提示**：这个 line also reminds us how dangerous this mission is—the archers are effectively perfect assassins.
+
+---
+
+> **原句 5:**
+> "It just came through. It's from Debra. Oh my God." A laugh shakes out of me at the absurdity.
+
+**中文理解**：刚收到的。是 Debra 发来的。天哪。一阵大笑从我嘴里冲出，因为太荒谬了。
+
+**关键词**：It just came through（刚收到的）、Oh my God（天哪）
 
 **为什么这样写**：这是 dark humor 的完美示范——Brie 在进入 villain's lair 之前收到 office email 是 absurd juxtaposition。"I didn't know hell had 5G reception"是她的 joke，但 Luke's "It doesn't"让这个 humor 变成了 foreboding。
 
 **读者视角提示**：Cell phone reception as sign of veil weakness 是 creative worldbuilding。
+
+---
+
+> **原句 6:**
+> "It's the weekly report! Holy shit, she finally sends it close to on time, and I'm not even there."
+
+**中文理解**：是每周报告！该死，她终于差不多准时发了，而我甚至不在那里。
+
+**关键词**：weekly report（每周报告）、close to on time（差不多准时）
+
+**为什么这样写**：Brie's reaction to Debra's email timing is relatable office humor—even in hell, coworkers still complain about reports. The absurdity of getting work email while on a rescue mission adds levity.
+
+**读者视角提示**：This line anchors the chapter in Brie's office-worker identity, reminding us she's not just a hero but someone who cares about mundane work things.
 
 ## 本章词汇
 
@@ -89,26 +115,26 @@ modified: "2026-09-15"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | fortress | 堡垒 | "a magnificent fortress with two stone statues" |
-| skewer | 刺穿 | "Make a sound and you'll be skewered in an instant" |
-| trellis | 花架 | "We climb that trellis, get in on the second floor" |
-| ark | 方舟 | "Not even close," Luke refutes" |
+| skewer | 刺穿 | "Make a sound once we're within earshot and you'll be skewered" |
+| trellis | 花架 | "imbed the trellis?" |
+| urgency | 紧迫 | "Urgency rushes in as I follow him out of the van" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | cedar | 雪松 | "a small cedar cabin" |
-| archer | 弓箭手 | "Beliar's guards are out. Archers" |
-| tress | 树干 | "I skid into the garden surrounding the estate, trampling everything" |
-| subside | 平息 | "The urgency subsides as we enter Death Valley" |
+| archer | 弓箭手 | "Archers. 'Does that mean he's expecting us?'" |
+| flicker | 闪烁 | "A grin flickers but falls as he surveys the room" |
+| pantry | 餐具室 | "butler's pantry, which holds the entrance" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| desert | 沙漠 | "It doesn't exactly seem habitable" |
+| desert | 沙漠 | "a narrow desert road" |
 | ridge | 山脊 | "We finally crest the ridge" |
-| wildflower | 野花 | "a seemingly out-of-place garden bursting with wildflower blooms" |
+| wildflower | 野花 | "bursting with wildflower blooms" |
 | container | 集装箱 | "shipping containers provide decent coverage" |
 
 ## 一句话总结

@@ -102,9 +102,9 @@ modified: "2026-09-15"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | hero complex | 英雄情结 | "The hero complex. You think this is your fault" |
-| vulnerability | 脆弱 | "Show me yours, and I'll show you mine" |
 | veil | 屏障 | "Whatever's wrong with the veil should have been fixed by now" |
-| betray | 背叛 | "He betrayed you. That my dagger was his" |
+| betray | 背叛 | "That he betrayed you. That my dagger was his" |
+| dagger | 匕首 | "That my dagger was his" |
 
 ### ⭐⭐ 进阶
 
@@ -112,17 +112,17 @@ modified: "2026-09-15"
 |------|------|------|
 | swallow | 吞咽 | "He swallows, eyes flicking to me" |
 | herculean | 巨大的 | "It's been a herculean effort to bite them back" |
-| slash | 猛冲 | "I slash the wheel and the woods were there" |
-| guilt | 内疚 | "I hate that this hurts him. I hate that I care" |
+| traffic | 交通 | "Rush-hour traffic is the cherry on top of our shit-storm sundae" |
+| thumb | 拇指 | "Luke's thumb taps on the wheel" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| traffic | 交通 | "Rush-hour traffic is the cherry on top of our shit-storm sundae" |
-| thumb | 拇指 | "Luke's thumb taps on the wheel" |
+| sedan | 轿车 | "the sedan cutting us off" |
 | ring | 戒指 | "the ring on my finger" |
 | champagne | 香槟 | "I only had one glass of champagne" |
+| curve | 弯道 | "the sea of vehicles surrounding us" |
 
 ## 一句话总结
 
