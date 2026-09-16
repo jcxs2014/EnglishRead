@@ -43,6 +43,16 @@ metadata:
 
 ### 2026-09-16 新增
 
+- **Strange Is the Light（Sarah Maria Griffin）文学思辨／科幻·恐怖长篇**：**25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 22 件（1:1 零偏移）。DSH-Mac 执行，主会话五步审查修正 27 处后放行。终值：verify **203/203（100%）** 干净 23/23 · vocab **656 词条 FAIL0 WARN0** · entities **0** · chapter **178/178 in 本章 text** · overview 金句 **25/25** · crossref **0 对 0 报警** · 结构 **178 块 0 问题** · 总览全量英文片段 **47/47 MISS=0** · **分析层英文片段 867 条 MISSS=0** · 0 条短引语。**12 commits 未 push**（`a07ba702`…`7e34a8a5`）。
+  - 结构：19 编号章 + 3 个 "Wonder Wonder" 插叙节（Ch.8a/10a/15a）+ 6 个无编号诗性插叙节 "Strange is the Light"（Ch.3/9/11/13/15/16，NCX 目录刻意隐去）；**ch01 与 ch21 是同一趟回岛**（Malachy 葬礼），ch02–ch20 为回溯；ch08 单章 12 万字符按用户指示单文件单独一批。
+- **本批次关键教训（DSH-Mac）**：
+  ① **新增终验标准件：分析层英文片段全量 flat sweep**——把非引语行的英文短语（≥3 词 ≥20 flat 字符）对 epub flat 比对：本书 867 条一次扫出 6 处非逐字/虚构短语（含 1 条完全凭空的 `this is not metaphorical for her`）。verify_quotes 只看引语行，分析层内联英文是纯盲区，成本极低（一个脚本扫完全书）。
+  ② **数字断言必须当场数**——本次 5 处失准（「念过七次」实 8 次、「五个词的独立段落」实 6 词、「这三个词」×2 实 4 词、「this time 三个词」实 2 词、「三句递进陈述句」实 2 句）。凡写「N 个词 / N 次 / 唯一一次」都要回原文数。
+  ③ **四子项顺序是成片发生的结构缺陷**——ch02/06/11/13/14/15/17/18/20/21/22 累计 60+ 块把「关键词」写在「为什么这样写」之后（批量生成时的注意力漂移）。对策=`scripts/attic/fix_strange_block_order.py` 行级修复（**禁 re.S**）+ 每章写完即跑自建结构扫描，别等收尾。
+  ④ **总览层 blockquote 与概述行内短语是 verify_overview_quotes 的口径外**——`00_情感节点.md` 的 `> 引语` 与概述行内英文均不被抽取（工具对这两文件报「未提取到编号引语」）。自建 `verify_strange_overview.py` 做全量 flat 比对（47/47）兜底。
+  ⑤ **同体裁双时空书的结构勘定**——NCX 目录可能刻意不给某些插叙节标签（本书 6 个 "Strange is the Light" 节无 label → 提取器 fallback 出 `ch03_chap3` 型文件名），须用精确 old→new 映射表重命名，并对齐「书内章号 vs 文件号」后写入导航。
+  ⑥ **词汇分档注水检测靠人工**——check_vocab 只用 ~200 高频词表判 WARN，`elastic`/`metallic`/`realm`/`threshold` 等 B1/B2 常见词混入 ⭐⭐⭐ 全绿；本次降档 12 条（自建 `tier_demote_strange.py`）。
+
 - **Pictures of You（Josh Malerman）恐怖/悬疑长篇**：40 章（ch01–ch40 = Chapter 1–40，1:1 零偏移）+ 总览三篇（概述/金句精选30句/情感节点10节点）= **43 md** + text/ 40 件。恐怖长篇精简格式（导航5项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。Opencode-Mac 执行，独立五步审查**通过（0 遗留）**。终值：verify **356/356**（42/42 干净；10 短引语人工 grep 命中本章 text）/ vocab **872 词条 FAIL0 WARN0** / entities 0 / chapter **318/318 in 本章 text** / overview **58/58** / crossref 0 报警 / 结构 40/40 零异常 + **filename=H1=text 首行章号三方零偏移**。**19 commits 未 push**（`e602cf18`…`5dd7160f`）。
 - **本批次关键教训**：
   ① **extract_chapters dropcap 修连正则误伤正文**——`\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 把 "A Wainscott"→"AWainscott"、"A TV"→"ATv"、"I HAVEN'T DECIDED"→"IHaven'TDecided"；无 dropcap 结构的 epub 用 `scripts/attic/extract_pictures_of_you_text.py`（复用 extract_chapters 逻辑、仅关该正则）重提，提取后 grep `\b[A-Z][A-Z][a-z][a-z]+\b` 自查。

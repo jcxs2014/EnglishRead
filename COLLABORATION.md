@@ -41,6 +41,22 @@
 
 ---
 
+### [2026-09-16 15:43 UTC] [DSH-Mac] → All
+
+**《Strange Is the Light》by Sarah Maria Griffin 全书精读完工 + 总览三篇 + 主会话五步审查通过（12 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/strange-is-the-light-by-sarah-maria-griffin/` — **25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点），text/ 22 件（epub 22 个内容单元，1:1 零偏移）。文学思辨／科幻·恐怖长篇（双时空三线：19 个编号章 + 3 个 "Wonder Wonder" 插叙节 + 6 个无编号诗性插叙节 "Strange is the Light"；ch01 与 ch21 是同一趟回岛，ch02–ch20 为回溯），精简格式（导航 5 项以「视角」替代「Tropes」〔经用户验收〕+ 编号引语块四子项 + 三档词汇 28–30 词条/章 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **203/203（100%）** 完全干净 23/23（含总览金句 25 条）· check_vocab **656 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **178/178 本章归属（零跨章）** · verify_overview_quotes 金句 **25/25** · 自建 review_strange **178 块 0 问题** · check_crossref **0 对 0 报警** · 总览三篇全量英文片段 **47/47 MISS=0** · audit_book A 节 text/ vs epub 抽检 22/22（C 节「五子项块数 0」为精简格式四子项的已知误报）· **0 条短引语**
+- **主会话五步审查抓出并修复 27 处（全部藏在引语门禁全绿之下）**：凭空英文短语 1（ch04 `this is not metaphorical for her` 书中不存在）· 英文片段非逐字 5 · 数字断言失准 5（ch05「七次」实 8 次、ch08 与金句⑬「五个词」实 6 词、ch13/ch14「三个词」实 4 词、ch15「三个词」实 2 词、ch09「三句」实 2 句）· 角色归属/事实 4（ch19「杀狗的少年」误记作 Ronan 实为 Finn、ch21 Ronan 在交换中的角色、ch07 现身媒介限定、概述 Finn 弧光动作方向与定性）· 失效交叉引用 1 · 词汇分档注水 12 条降档
+- **修后追加核验（超出既有工具口径）**：178 对「引语↔中文理解」逐对核对全对齐 · **分析层英文片段 867 条对 epub flat 比对 MISS=0**（一次扫出全部 6 处非逐字/虚构短语）· 说话人 ±200 字符窗口核验 5 处（ch16 "no bullet for a god"=Finn、ch16 不悔宣言=Ronan、ch21 交换条件=Daphne、ch07 声音=杯底水中那个声音、ch18 答辩词=Ronan）全部正确
+- **新工具（attic）**：`extract_strange_text.py`（关闭 dropcap 误连正则）· `review_strange.py`（结构 + 引语全文连续 sweep + 关键词锚定三合一）· `fix_strange_block_order.py`（行级修复关键词错序，非 re.S）· `verify_strange_overview.py`（总览全量英文片段 flat 比对，补 verify_overview_quotes 对概述行内与情感节点 blockquote 的口径盲区）· `tier_demote_strange.py`（词汇降档去注水）
+- **方法沉淀（供他实例）**：**「分析层英文片段全量 flat sweep」（非引语行的英文短语 ≥3 词 ≥20 flat 字符 → epub 比对）建议作为每本书的终验标准件**——verify_quotes 只看引语行，分析层内联英文短语是纯盲区，本次 867 条一次扫出 6 处非逐字/虚构
+- **提取坑（新）**：通用 `extract_chapters.py` 的 dropcap 修连正则 `\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 会误伤本书正文（单字母 A/I 后接大写词即触发，如 "A Summer"→"ASummer"）；本书 xhtml 零 dropcap 结构，已用专用提取器关闭该正则重提
+- commits（12 个，未 push）：`a07ba702` → `e594e21d` → `a8294f80` → `aec69295` → `cfefbb2b` → `d0df0146` → `2efa30cb` → `2a658288` → `8332f657` → `eba9a9eb` → `e5a3f179` → `7e34a8a5`
+- **状态**：全书完工 + 主会话五步审查通过，**待 push**；3 个子代理对抗式语义二审（ch01-08 / ch09-15 / ch16-22）仍在运行，回报后若有确认缺陷将补 commit 并更新 daily
+
+---
+
 ### [2026-09-16 15:04 UTC] [ZCode-Mac] → All
 
 **《Reliquary》by Hannah Whitten 全书精读完工 + 总览三篇 + 五步审查（1 commit，本条为该书唯一通报）**
