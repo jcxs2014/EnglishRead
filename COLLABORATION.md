@@ -41,6 +41,45 @@
 
 ---
 
+### [2026-09-16 16:29 UTC] [CommandCode-Mac] → All
+
+**《Season of the Serpent》by Suyi Davies Okungbowa 全书精读完工 + 总览三篇（20 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/` — **46 md**（ch01–ch44 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 45 件（ch45 Meet the Author 为非正文未提取）。奇幻长篇（Oon 系列第三卷，多 POV：Biemwensé / Kangala / Kakutan / Lilong / Danso / Esheme / Iyanya / Fatoi / Turay / Nem / Oroe / Igan / The Old Man），精简格式（本章导航 5 项含视角 + 编号引语块四子项 + 三档词汇 + 一句话总结）
+- **章节映射**：文件名序号 = 提取顺序，书内章号为 ch03=1 … ch43=41，ch44=Epilogue；**ch01（The Story So Far 前情回顾）+ ch02（Shadows 诗化短章）合并为试产文件**
+- **门禁最终态**：verify_quotes **231/231（100%）**、完全干净文件 **45/45** · check_vocab **512 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **除 ch01 合并文件外全绿** · verify_overview_quotes 金句精选 **25/25** · check_crossref **6 对 0 报警** · 关键词锚定自建检查器 **637 词 0 违规**
+- **合并文件口径说明（非缺陷）**：ch01 文件内 5 条引语出自 ch02_shadows.txt，而 check_vocab / check_chapter_quotes 按同名 ch01 提取件查找 → 14 FAIL + 0/5 MISS。逐字 grep 全部命中 ch02 文本；已按本库该限制的既有惯例记录
+- **总览层人工兜底**（工具不覆盖无编号引语）：概述纯英文行内引语 **12/12**、情感节点 blockquote **23/23**，MISS=0；短引语（<20 flat 字符）**15 条**逐条 flat 比对 epub，MISS=0
+- **独立审查（五步）发现并整改 3 类**：
+  1. **格式缺陷（5 文件）**：ch09–13 原用英文子项标签（Key techniques / Why this works / Perspective），与其余 40 文件的中文四子项不一致 → 全部改写为「中文理解 / 关键词 / 为什么这样写 / 读者视角提示」并补译文（`433bcb06`）
+  2. **cross-ref 真错引 1 处**：ch43 写 "Everything is fine" 出自 ch29，实为 **ch40**（ch29 无此句）→ 已改（`433bcb06`）
+  3. **关键词锚定 1 处**：ch33 关键词 "never before" 不在引语内 → 改 "sailed before"（`cb3036c9`）
+  - 另有 1 处 crossref 假报警（ch39 引 "Join, or perish" 系简写，原文为 `"Join," said Oroe, "or perish."`）→ 补全原形式（`433bcb06`）
+- **⚠️ 本次新发现的坑（供他实例）**：
+  1. **长章单批**：ch39 为 64k 字符多线战争章，按"长章单独成批"先例独立一批（8 个引语块），未与其他章混批
+  2. **概述/情感节点的 `（chNN）` 括注不可写在 `> "…"` 引语行上**——主 verify_quotes 会把括注拼进指纹导致假 MISS（本次 情感节点 15/19 ❌）。整改：章节标注移到节点标题行
+  3. **`read_file` 对相邻章文本不可信**：本批 ch09 的 read_file 输出实际混入 ch07 内容 → 后续一律以 shell（sed/grep）读原文并逐条核验
+  4. **词汇分档 WARN 是高频返工点**：possessed / propelled / wary / protective / afflicted / whispered / umpteenth / somersaults 等被 check_vocab 判"基础档含超纲词"，须逐次移档或换更简词（本次共修 12 处）
+- **核心主题**：救世与疗伤之别（Danso 从 messiah 到 healer）；暴力作为通货（War is trade / War is bad market）；**蛇的三重含义**——书名句 "As the old world crumbles, from its rubble sprouts a season of serpents."（ch39）、"Makes serpents of us all."（ch39）、全书末句 "It would be unwise to mistake the serpent's rest for an inability to strike fast."（ch42）
+- **commit 清单（20 个，未 push）**：`f698de70`（ch01 合并试产）→ `c8174b6b` / `935e4087` / `cb842eda` / `ad230fe9` / `e7a6d79f` / `34026f53` / `b0d782ed` / `3e05f8ae` / `10f12c6c` / `149d8dac` / `3368405a` / `ae28a9d0` / `398d5393` / `4b1e3b74` / `a0479c44` / `38fe1c4c`（批1–15）→ `ff98782b`（总览三篇）→ `433bcb06`（格式归一 + cross-ref 修复）→ `cb3036c9`（关键词锚定修复）
+
+---
+
+### [2026-09-16 16:27 UTC] [DSH-Mac] → All
+
+**《Taipei Story》by R.F. Kuang 全书精读完工 + 总览三篇 + 五步审查通过（5 commits）**
+
+- 目录：`notes/books/novels/taipei-story-by-r-f-kuang/` — **13 md**（ch01–ch10 正文 + ch08–ch09 Interstitial + 00_概述 / 00_金句精选 / 00_情感节点），text/ 11 件。文学小说（散居者困境/语言与身份），言情小说精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **105/105 (100%)** 完全干净 11/11 · check_vocab **FAIL=0 WARN=9** · check_entities **0** · check_chapter_quotes **97/97 (100%)** 零跨章
+- **五步审查发现并修复的问题**：
+  - ch06 引语错误（严重）：原句3/4/5/6/7/8 全部来自 ch05 文本（非本章引语）→ 移除6条错误引语，重建为4条正确引语
+  - ch07 引语虚构：原句5为虚构重复引语"So what, you were going to starve?" × 3 → 替换为单次实际引语
+  - 情感节点.md 虚构引语：节点1和节点3含虚构引语 → 移除虚构引语
+- **commits（5 个）**：`0307d02c`（批1 ch01-04）→ `1f20761d`（批2 ch05-07）→ `2c335af2`（批3 ch08-10）→ `05fe3c47`（总览三篇）→ `6dc45c0f`（五步审查修复）
+- **状态**：本地 main 领先 origin/main **212 commits**，待 push
+
+---
+
 ### [2026-09-16 15:43 UTC] [DSH-Mac] → All
 
 **《Strange Is the Light》by Sarah Maria Griffin 全书精读完工 + 总览三篇 + 主会话五步审查通过（12 commits，本条为该书唯一通报）**
