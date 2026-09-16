@@ -74,7 +74,7 @@ modified: "2026-09-15"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| postpone | 延期，推迟 | we'll be postponing until after the New Year. |
+| postponing | 延期，推迟 | we'll be postponing until after the New Year. |
 | cheery | 愉快的，高兴的 | cheery professionalism. |
 | immortal | 不死的 | Vadrien, immortal after all. |
 

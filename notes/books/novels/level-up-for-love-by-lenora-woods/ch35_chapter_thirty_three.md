@@ -12,13 +12,13 @@ modified: "2026-09-15"
 **主题**：D&D 结局——Blood of the Tyrant 的最后一战；Sindra 抵抗 Nosferoth 的精神控制；Antoni 牺牲自己杀死魔鬼；Vadrien 获得自由与救赎；游戏结束，"the best"。
 **结构**：
 - L16–50：最后一战前夜，D&D 聚会
-- 51–100：战斗——Sindra 对抗 Nosferoth 的精神控制
+- L51–100：战斗——Sindra 对抗 Nosferoth 的精神控制
 - 101–150：Antoni 的牺牲——杀死 Nosferoth
 - 151–200：Vadrien 的选择——自由与救赎
 - 201–379：新开始——Sindra 与 Vadrien 踏上旅途，"It feels like home"
 
 **核心金句**：
-> **原句 1:** "Depending on how this battle goes," he says, "this could be our last game, folks. Thank you for trusting me with this story and with your characters. It's been a damn good ride."
+> "Depending on how this battle goes, this could be our last game, folks."
 > "I already have everything I could ever want."
 > "Don't let Nosferoth speak."
 > "You can choose to die—or you can choose to fight."
@@ -27,6 +27,20 @@ modified: "2026-09-15"
 ---
 
 ## 逐句精读
+
+> **原句 1:** "Depending on how this battle goes," he says, "this could be our last game, folks. Thank you for trusting me with this story and with your characters. It's been a damn good ride."
+
+**中文理解**："取决于这场战斗的走向，这可能是我们最后一场游戏了，大家。"他说。"谢谢你们把这个故事和你们的角色托付给我。这是一段非常棒的旅程。"
+
+**句子结构**：直接引语 + 描述句。Wesley 作为 DM 对玩家的感谢。
+
+**keywords**：last game（最后一段游戏，终结）、trusting（信任，托付）、good ride（很棒的旅程，回顾）
+
+**表达方式**：Wesley 用"thank you"来表达他对玩家的感激——这不是客套，而是真诚的感谢。"Damn good ride"是对整个战役的总结：这段旅程很棒，但现在要结束了。
+
+**为什么这样写**：这段是全书中最重要的元叙事时刻——不仅是 D&D 游戏结束，也是 Reagan 与 Wesley 关系的里程碑。
+
+---
 
 > **原句 2:** "I already have everything I could ever want," she says, seething. "You will never have me!"
 
@@ -42,7 +56,21 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "You can choose to die—or you can choose to fight."
+> **原句 3:** "Don't let Nosferoth speak." Vadrien's voice is gravelly and parched, nothing like his silken tones from the night before. "And if he does, don't listen."
+
+**中文理解**："不要让 Nosferoth 说话。"Vadrien 的声音嘶哑而干涩，完全不像前夜的柔滑语调。"如果他说话了，不要听。"
+
+**句子结构**：直接引语，两句话。Vadrien 对 Sindra 的警告。
+
+**keywords**：Nosferoth（魔鬼名）、speak（说话，精神攻击）、listen（听从，被控制）
+
+**表达方式**：Vadrien 用"Don't let Nosferoth speak"来警告 Sindra——魔鬼最危险的能力不是物理攻击，而是"说服"。这与 Owen 对 Wesley 的谎言形成镜像——"说话"可以摧毁一个人。
+
+**为什么这样写**：这段是对全书主题的总结——"语言"是最强大的武器，可以伤害也可以拯救。
+
+---
+
+> **原句 4:** "You can choose to die—or you can choose to fight."
 
 **中文理解**："你可以选择死——也可以选择战斗。"
 
@@ -56,7 +84,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "It feels like home."
+> **原句 5:** "It feels like home."
 
 **句子结构**：简单句。Reagan 对 D&D 团队的感受。
 
@@ -74,18 +102,18 @@ modified: "2026-09-15"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Nosferoth | 诺斯费罗斯（魔鬼名） | the devil Nosferoth. |
-| rift | 裂缝，裂口 | a rift splits the marble floor. |
-| blood magic | 血魔法 | dark, powerful magic. |
+| Nosferoth | 诺斯费罗斯（魔鬼名） | Vadrien's pact with Nosferoth.  |
+| rift | 裂缝，裂口 | a rift splits the marble floor.  |
+| blood magic | 血魔法 | dark, powerful magic.  |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| armory | 军械库 | stored along the armory's walls. |
-| skeleton | 骷髅 | skeletons stand frozen. |
-| battlefield | 战场 | picking her battlefield. |
-| column | 柱子 | every wall, separated by great columns. |
+| armory | 军械库 | gather again in the armory.  |
+| skeletons | 骷髅 | The skeletons and undead had frozen.  |
+| columns | 柱子 | all of its columns and space.  |
+| battlefield | 战场 | picking her battlefield.  |
 
 ### ⭐ 基础
 
@@ -93,8 +121,8 @@ modified: "2026-09-15"
 |---------|------|------|
 | castle | 城堡 | the castle's heart. |
 | sword | 剑 | raises the sword. |
-| sun | 太阳 | the sun itself. |
-| light | 光 | the light dims. |
+| sunlight | 阳光 | summons the sun once more. |
+| light | 光 | Brightmorn is bathed in light.  |
 
 ---
 
