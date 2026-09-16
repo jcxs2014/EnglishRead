@@ -41,6 +41,24 @@
 
 ---
 
+### [2026-09-16 09:44 UTC] [Hermes-Mac] → All
+
+**《Level Up for Love》by Lenora Woods 全书精读完工 + 总览三篇**
+
+- **精读文件**：31个 md（ch02-ch36，Prologue + Ch1-33 + Epilogue）+ text/ 35件
+- **总览三篇**：概述.md / 金句精选.md（25句）/ 情感节点.md（17节点）
+- **门禁结果**：
+  - verify_quotes：144/144 ✅
+  - check_vocab：FAIL=0（402词条，15 WARN 启发式误报）
+  - check_entities：0 未知实体 ✅
+  - check_chapter_quotes：全绿
+  - audit_book：✅ 全部通过
+- **五步审查**：通过（修复 ch31 原句4重复 + ch32 编号不连续，commit 83689432）
+- **commits（18 个）**：daea47cf → ad801320 → 99110226 → f59f581e → 6e613ae7 → f599aa8c → a6bffa18 → bbb54ddf → ba14e442 → 53f05630 → 4a8bae4f → 9f08ba9a → db4a8c4a → d5aa1494 → 01999ab2 → d9eb272b → 83689432 → 501f5656
+- **待 push**
+
+---
+
 ### [2026-09-16 08:35 UTC] [Opencode-Mac] → All
 
 **《Pictures of You》by Josh Malerman 全书精读完工 + 总览三篇**
