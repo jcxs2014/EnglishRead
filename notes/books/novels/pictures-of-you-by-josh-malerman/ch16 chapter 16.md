@@ -91,7 +91,7 @@ modified: "2026-09-16"
 
 **关键词：** the concrete between the dumpsters, the eyes he kept imagining, had left their perspective behind
 
-**为什么这样写：** 全章以一次"视角的搜寻"收尾，把前文的"看/被看"主题具体化为一个动作：他要捡回的不是证据，而是那个人的目光。作者用 leave their perspective behind 这种近乎悖论的表述，写出一个没有目击证人的受害者的处境——他唯一能追查的，是自己想象中的视角。这也为下一章（他第一次发现实物）完成铺垫。
+**为什么这样写：** 全章以一次"视角的搜寻"收尾，把前文的"看/被看"主题具体化为一个动作：他要捡回的不是证据，而是那个人的目光。作者用 leave their perspective behind 这种近乎悖论的表述，写出一个没有目击证人的受害者的处境——他唯一能追查的，是自己想象中的视角。这也为后文他在镇上逐步逼近那个地点（第 18 章的垃圾箱之间、第 24 章的美术店）完成铺垫。
 
 **读者视角提示：** 这是本批三章中 Jack 第一次主动踏入"案发现场"；请记住他此刻站的位置，它对后面的物证走向很关键。
 
@@ -108,7 +108,7 @@ modified: "2026-09-16"
 | sedate | 平静的，镇定的 | happy, unhappy, sedate, unconcerned, totally concerned |
 | genuine | 真诚的，真实的 | he thought the smile looked genuine and that was a good thing |
 | extension | 扩建部分，延伸建筑 | turning right again at what was once a movie theater but now looked like an extension of a Rite Aid |
-| rearview | 后视的（后视镜） | he even caught himself smiling in the rearview mirror |
+| rearview | 后视的（后视镜） | and even caught himself smiling in the rearview mirror |
 
 ### ⭐⭐ 进阶
 
@@ -130,7 +130,7 @@ modified: "2026-09-16"
 | streets | 街道（street 的复数） | The streets, small as they were, few as they were, felt a lot different during the day. |
 | bag | 袋子，塑料袋 | A plastic bag there. From the old drugstore. |
 | seat | 座位 | He looked to the empty passenger seat. |
-| mirror | 镜子 | he even caught himself smiling in the rearview mirror |
+| mirror | 镜子 | when you caught yourself flashing a phony mood in a mirror it could really exacerbate the real mood |
 | wheel | 方向盘，轮子 | He drummed on the steering wheel |
 | driver | 司机，驾车的人 | He stopped to let a car pass, eyed the driver |
 
