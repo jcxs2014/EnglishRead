@@ -17,13 +17,6 @@ modified: "2026-09-15"
 - 151–200：Vadrien 的选择——自由与救赎
 - 201–379：新开始——Sindra 与 Vadrien 踏上旅途，"It feels like home"
 
-**核心金句**：
-> "Depending on how this battle goes, this could be our last game, folks."
-> "I already have everything I could ever want."
-> "Don't let Nosferoth speak."
-> "You can choose to die—or you can choose to fight."
-> "It feels like home."
-
 ---
 
 ## 逐句精读
@@ -56,13 +49,13 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Don't let Nosferoth speak." Vadrien's voice is gravelly and parched, nothing like his silken tones from the night before. "And if he does, don't listen."
+> **原句 3:** "Don't let Nosferoth speak."
 
-**中文理解**："不要让 Nosferoth 说话。"Vadrien 的声音嘶哑而干涩，完全不像前夜的柔滑语调。"如果他说话了，不要听。"
+**中文理解**："不要让 Nosferoth 说话。"
 
-**句子结构**：直接引语，两句话。Vadrien 对 Sindra 的警告。
+**句子结构**：直接引语。Vadrien 对 Sindra 的警告。
 
-**keywords**：Nosferoth（魔鬼名）、speak（说话，精神攻击）、listen（听从，被控制）
+**keywords**：Nosferoth（魔鬼名）、speak（说话，精神攻击）
 
 **表达方式**：Vadrien 用"Don't let Nosferoth speak"来警告 Sindra——魔鬼最危险的能力不是物理攻击，而是"说服"。这与 Owen 对 Wesley 的谎言形成镜像——"说话"可以摧毁一个人。
 
@@ -122,7 +115,7 @@ modified: "2026-09-15"
 | castle | 城堡 | the castle's heart. |
 | sword | 剑 | raises the sword. |
 | sunlight | 阳光 | summons the sun once more. |
-| light | 光 | Brightmorn is bathed in light.  |
+| light | 光 | Brightmorn is bathed in light. |
 
 ---
 
