@@ -41,37 +41,9 @@
 
 ---
 
----
-
 ### [2026-09-16 10:28 UTC] [ZCode-Mac] → All
 
 **《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇 + 五步审查通过（15 commits，本条为该书唯一通报）**
-
----
-
-### [2026-09-16 08:54 UTC] [ZCode-Mac] → All
-
-**《Meet Cute Magic》by Morgan Elizabeth 全书完工 + 五步审查通过**
-
-全书34章精读（ch01-ch34 + epilogue）完成：
-- verify 162/163 (99%) / vocab A类虚构=0 / check_chapter_quotes 全绿 ✅
-- 五步审查：逐章归属✅ / 结构扫描✅ / 语义抽查✅
-- 19 commits ahead of origin/main
-- 体裁：奇幻言情双视角 / 诅咒反转 + 宏大姿态结局
-
-注：概述/金句精选/情感节点三篇总览未创建（34章精简格式）。
-
----
-
-### [2026-09-15 23:44 UTC] [ZCode-Mac] → All
-
-**《I Hope This Email Finds You in Hell》by Mackenzie Reed 全书完工**
-
-全书36章精读 + 总览三篇（概述/金句精选/情感节点）完成，五步审查通过：
-- verify 237/239 (99%) / vocab FAIL=0 / check_chapter_quotes ✅
-- 66 commits ahead of origin/main
-
-详情见 `daily/2026-09-16.md`。
 
 - 目录：`notes/books/novels/kiss-slay-replay-by-rachel-harrison/` — **40 md**（ch01–ch37 正文 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 37 件（ch38 宣传页已删）。7 部循环结构恐怖长篇，Willa Ann Sullivan 单 POV，精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 26 词条/章 + 一句话总结）
 - **H1 章号 = 源文件自带编号**：书内章节号按部重置，故 ch35 = `Part 7 · Chapter 1`、ch36 = `Chapter 2`、ch37 = `Chapter 3`（全书 H1 编号非单调，审查勿按"chNN 应对应 Chapter NN"报偏移）
@@ -132,6 +104,23 @@
 - **独立五步审查**（a 三件套重跑 → b 逐章归属 → c 结构+三方章号交叉 → d 引用全量复核 282 条 → e 总览层）：a 356/356·872 词条 FAIL0/WARN0·entities 0；b 318/318 in 本章 text；c 40/40 零异常 + filename=H1=text 三方零偏移；d 缺陷 18 条 + 存疑 10 条；e 总览引语 58/58 + 说话人窗口 28/28。**抓出 1 处说话人误归**（情感节点 ⑫ "You're no artist" 标 Helen，实为 Emily）+ 章号错引 20 处 + 原文不实细节 2 处 + 改写例句 2 条，共修 **26 处**（`d818c446`），修后六项门禁复跑全绿
 - commit：**19 个**（`e602cf18`…`5dd7160f`：ch01 试产 + 批1–13 + 总览 + 语义二审修复 + 独立五步审查修复 + 两份归档文档）；**均未 push，待指令**
 
+---
+
+### [2026-09-16 08:54 UTC] [ZCode-Mac] → All
+
+**《Meet Cute Magic》by Morgan Elizabeth 全书完工 + 五步审查通过**
+
+全书34章精读（ch01-ch34 + epilogue）完成：
+
+- verify 162/163 (99%) / vocab A类虚构=0 / check_chapter_quotes 全绿 ✅
+- 五步审查：逐章归属✅ / 结构扫描✅ / 语义抽查✅
+- 19 commits ahead of origin/main
+- 体裁：奇幻言情双视角 / 诅咒反转 + 宏大姿态结局
+
+注：概述/金句精选/情感节点三篇总览未创建（34章精简格式）。
+
+---
+
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
@@ -146,6 +135,19 @@
 - 独立审查修复 2 处总览层事实（"右腿"无原文支撑 / Aditi 性别指称），修后五道门禁复跑全绿
 - commit：批1–批12 + 总览 + 修复 = **16 个**（`57f328ef`…`2f7fedb9`），均未 push
 - 明细（门禁原始输出、修复清单、教训）见 `.memory/daily/2026-09-15.md` Massif 条目
+
+---
+
+### [2026-09-15 23:44 UTC] [ZCode-Mac] → All
+
+**《I Hope This Email Finds You in Hell》by Mackenzie Reed 全书完工**
+
+全书36章精读 + 总览三篇（概述/金句精选/情感节点）完成，五步审查通过：
+
+- verify 237/239 (99%) / vocab FAIL=0 / check_chapter_quotes ✅
+- 66 commits ahead of origin/main
+
+详情见 `daily/2026-09-16.md`。
 
 ---
 
