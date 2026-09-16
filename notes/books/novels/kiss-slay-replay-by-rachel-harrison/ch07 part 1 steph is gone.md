@@ -37,7 +37,7 @@ modified: "2026-09-15"
 
 > **原句 3:** The cabin door is shut, but there’s dark hair caught in the frame, a shallow pool of blood forming at the foot—the opposite of a welcome mat.
 
-**中文理解：** 小屋的门关着，可门框上卡着一缕黑发，门前正在形成一摊浅浅的血——welcome mat 的反面。
+**中文理解：** 小屋的门关着，可门框上卡着一缕黑发，门前正在形成一摊浅浅的血——welcome mat（门口欢迎光临的脚垫）的反面。
 
 **关键词：** dark hair caught in the frame, a shallow pool of blood, the opposite of a welcome mat
 

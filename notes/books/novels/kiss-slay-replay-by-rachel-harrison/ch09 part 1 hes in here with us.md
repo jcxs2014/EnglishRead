@@ -77,7 +77,7 @@ modified: "2026-09-15"
 
 > **原句 7:** I think of Ravi’s frustration that time we were in the car on the way to the airport, and I asked him to please turn around and go back home, because I couldn’t remember switching the burner off after I made my tea, because what if our house blew up like that beloved West Village chicken spot? Because my anxiety was too loud. Because it always has to ruin everything, and to save me from nothing.
 
-**中文理解：** 我想起了那次我们在去机场的路上，Ravi 很不耐烦——因为我让他掉头回家，因为我记不清泡完茶有没有关煤气灶，因为万一我们家也像那个 beloved 的西村炸鸡店一样炸了呢？因为我的焦虑太吵了。因为它总是要毁掉一切，而什么都没救到。
+**中文理解：** 我想起了那次我们在去机场的路上，Ravi 很不耐烦——因为我让他掉头回家，因为我记不清泡完茶有没有关煤气灶，因为万一我们家也像那个 beloved（钟爱的）West Village（纽约西区）炸鸡店一样炸了呢？因为我的焦虑太吵了。因为它总是要毁掉一切，而什么都没救到。
 
 **关键词：** burner, West Village, anxiety
 

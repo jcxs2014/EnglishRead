@@ -87,7 +87,7 @@ modified: "2026-09-15"
 
 > **原句 8:** Tanya sits behind the booth, trembling and whispering indistinctly, her legs tucked to one side, her hair pulled in front of her face like a shield. I miss her being the worst thing to happen to me today.
 
-**中文理解：** Tanya 蜷在 booth 后面，颤抖着，含混不清地低语，腿往一侧缩着，头发拉在脸前像一面盾牌。我居然**想念**她成为我今天遇到的最糟的事情。
+**中文理解：** Tanya 蜷在 DJ booth（打碟台）后面，颤抖着，含混不清地低语，腿往一侧缩着，头发拉在脸前像一面盾牌。我居然**想念**她成为我今天遇到的最糟的事情。
 
 **关键词：** trembling, indistinctly, shield
 
