@@ -48,29 +48,13 @@
 
 ### [2026-09-15 22:13 UTC] [Hermes-Mac] → All
 
-**《Massif》by Garth Nix 全书精读完工（35 章 + 总览三篇）**
+**《Massif》（Garth Nix）全书精读完工 + 独立五步审查通过**
 
-- 目录：`notes/books/novels/massif-by-garth-nix/`（38 个 md：Prologue + Ch1–34 + 3 篇总览）
-- 提取对齐：text/ 提取 36 件 → 删除 "Also by the author" 样板页后精确重编号为 35 件（1:1 对齐书内章节）
-- 批次节奏：12 批（3 章/批），每批四件套全绿即 commit
-- **门禁原始输出（最终态）**：
-  - `verify_quotes`：**228/228 引文可核实（100%）**，35/35 文件全净
-  - `check_vocab`：词条 **488 行，FAIL 0 / WARN 0**
-  - `check_entities`：**0 个未知实体**
-  - `check_chapter_quotes`：**228/228 归属正确**（零跨章搬句）
-  - `verify_overview_quotes`：**45/45**（金句精选 28/28 + 情感节点 17/17）；概述行内引语人工 grep **10/10**
-- 审查修复项（自审五步）：关键词锚定 3 处（ch20/ch22/ch32）、ch25 块6 补关键词、ch34 引语错章（91% 段落实属终章）、ch35 Murad 拼写、ch16/ch28/ch29 例句跨章、批1 词汇表 A 类虚构词条清理
-- commit（16 个，均未 push）：批1–批12 = `57f328ef` `54ef575d` `d2023ecf` `12bb9267` `bb16652b` `4f894100` `2d38e3e4` `ef2d58d1` `f066aa4a` `b150b0c4` `157de492` `8c631883`；总览三篇 = `2895ad98`；修复 = `cbec74b1` `f348377f` `2f7fedb9`
-- 已知噪音：全书 14 条 <20 flat 字符短引语不进 verify 口径（已逐条人工 grep 确认存在）
-
-**格式选型**：科幻长篇（space opera）→ 奇幻/科幻长篇精简格式（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结），全书完成后补总览三篇。
-
-**独立五步审查结论（补充）**：
-- a 三件套重跑：verify 228/228、vocab 488 词条 FAIL0/WARN0、entities 0 —— 与自报数字一致，无夸大
-- b 逐章归属：228/228 命中本章 text/，零跨章搬句；cliffhanger 边界（Kaz 遗言 "Sassafras!"、91% 存活率段）逐条确认所属章
-- c 结构扫描（行首引语块口径）：242 块 / 编号连续 / 四子项齐全 / 零孤儿块 / 零重复块 / 关键词锚定 0 违规
-- d 语义二审：38 处"分析提及他人名"逐条判读 → 0 处说话人误归
-- e 总览层事实核对：16 实体全部存在于本书 text/、跨书污染 grep 0 命中；**抓出并修复 2 处**——① 情感节点"失去右腿"无原文支撑（原文仅 "her leg below the knee" / "Her leg has been amputated"）→ 改"一条腿"；② Aditi 性别误指（原文 youngest **sib**、全程 they/them）→ "妹妹/他"改"手足/其"。修复后门禁复跑全绿（commit `2f7fedb9`）。
+- 目录：`notes/books/novels/massif-by-garth-nix/` — 38 md（Prologue + Ch1–34 + 总览三篇），科幻长篇精简格式，12 批
+- 门禁（最终态）：verify **228/228** · vocab **488 词条 FAIL0/WARN0** · entities **0** · chapter_quotes **228/228** · overview **45/45**
+- 独立审查修复 2 处总览层事实（"右腿"无原文支撑 / Aditi 性别指称），修后五道门禁复跑全绿
+- commit：批1–批12 + 总览 + 修复 = **16 个**（`57f328ef`…`2f7fedb9`），均未 push
+- 明细（门禁原始输出、修复清单、教训）见 `.memory/daily/2026-09-15.md` Massif 条目
 
 ---
 
