@@ -41,9 +41,9 @@
 
 ---
 
-### [2026-09-16 13:18 UTC] [Opencode-Mac] → All
+### [2026-09-16 13:40 UTC] [Opencode-Mac] → All
 
-**《Preaching to the Choir》by Adrian Tchaikovsky 全书精读完工 + 总览三篇 + 五步审查通过（6 commits，本条为该书唯一通报）**
+**《Preaching to the Choir》by Adrian Tchaikovsky 全书精读完工 + 总览三篇 + 两轮审查通过（7 commits + 本条通报，本条为该书唯一通报）**
 
 - 目录：`notes/books/novels/preaching-to-the-choir-by-adrian-tchaikovsky/` — **11 md**（ch01–ch08 正文 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点），text/ 8 件（书内 1.–8. 节 1:1 零偏移）。单本恐怖 novella（Solaris 2026），单 POV（Elena Mendes），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 30 词条/章 + 一句话总结）
 - **门禁最终态**：verify_quotes **99/99（100%），完全干净 10/10** · check_vocab **241 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **64/64 in 本章 text（零跨章）** · verify_overview_quotes 金句 **25/25** · check_crossref **0 对 0 报警** · 结构+关键词锚定 64 块 **0 违规** · 总览/章节内联英文引号片段 **83 条 flat 比对 MISS=0**
@@ -53,8 +53,8 @@
 - 提取坑：通用 `extract_chapters.py` 的 dropcap 修连正则误伤正文（`A Kirk`→`AKirk`、`T Bank`→`TBank`）且每个正文分册 `<title>` 一律是错的 "Chapter 1" 污染首行 → 新建 `scripts/attic/extract_preaching_to_the_choir_text.py`（关闭该正则 + 剥离 head）
 - **注**：`audit_book.py` C 节"五子项块数 < 引语数"对精简格式（四子项）全量误报 = 已知盲区（工具盲区表豁免）
 - **第二轮独立审查（用户指派，2 个全新未受前轮结论影响的子代理 + 主会话现场复验，所有报警回原文二次确认后才定性）**：a 三件套现场重跑 verify 99/99 · vocab 241 FAIL0 WARN0 · entities 0；b 逐章 64/64 in 本章；c 结构扫描 64 块编号连续/四子项齐/零孤儿零重复；d 语义二审**再抓 17 处分析层缺陷**——总览跨章指称 3（金句⑧/⑳ 把第 8 节的 Neera 句记成第 7 节、金句⑭ 把第 7 节的 "resources... buy rather a lot of it" 记成第 8 节）· 总览时序/机制归属 4（"Patrick 当夜被杀→随后林中木桩"顺序颠倒、Will 实为次晨归来非当晚、第 8 节的八十三年/两个族群机制被误记为第 6 节路上所得、Neera 弧光引号内自造中文）· 章节可测断言 7（ch03"全章最后一句"实为倒数第二句、ch03"全书唯一一次安排出口"被 ch01 Gilchrist 派车反例推翻、ch06"赤脚"实为 stocking-footed、ch06 导航把鹿与其身上的两只东西拆成两件事、"没有人需要她死"与原文 "We don't need her alive" 语义相反 ×2、ch08"博士团队"无原文支撑）· 措辞 3（ch04 两处对第 5 节的前瞻指称过紧：阁楼由 Ross 提议、"入会形式"实为入会后的 Will）。e 总览引语 25/25 + 章节/总览内联英文 86 条 flat 比对 MISS=0 + 48 条引语说话人 ±200 字符窗口全部正确。修后六项门禁复跑全绿（`9af0045f`）
-- commits（7 个，未 push）：`c5a1e308`（ch01 试产+提取脚本）→ `02b69eaf`（批1）→ `f34a7edd`（批2）→ `82128cbf`（批3）→ `d7b2ae28`（总览三篇）→ `bc46a8e2`（五步审查整改 22 处）→ `9af0045f`（独立审查整改 17 处）
-- **待 push**（本地 main 领先 origin/main 156 commits）
+- commits（7 个，未 push）：`c5a1e308`（ch01 试产+提取脚本）→ `02b69eaf`（批1）→ `f34a7edd`（批2）→ `82128cbf`（批3）→ `d7b2ae28`（总览三篇）→ `bc46a8e2`（五步审查整改 22 处）→ `9af0045f`（独立审查整改 17 处）；通报/日志 commit `c36491ab`
+- **待 push**（本地 main 领先 origin/main 160 commits）
 
 ---
 
