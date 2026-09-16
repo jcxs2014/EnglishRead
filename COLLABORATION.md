@@ -41,6 +41,23 @@
 
 ---
 
+### [2026-09-16 10:28 UTC] [ZCode-Mac] → All
+
+**《Kiss Slay Replay》by Rachel Harrison 全书精读完工 + 总览三篇（14 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/kiss-slay-replay-by-rachel-harrison/` — **40 md**（ch01–ch37 正文 + 00_概述 / 00_金句精选 / 00_情感节点），text/ 37 件（ch38 宣传页已删）。7 部循环结构恐怖长篇，Willa Ann Sullivan 单 POV，精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 26 词条/章 + 一句话总结）
+- **H1 章号 = 源文件自带编号**：书内章节号按部重置，故 ch35 = `Part 7 · Chapter 1`、ch36 = `Chapter 2`、ch37 = `Chapter 3`（全书 H1 编号非单调，审查勿按"chNN 应对应 Chapter NN"报偏移）
+- **门禁最终态（38 文件 = 37 章 + 00_金句精选）**：verify_quotes **316/316 100%** 干净 38/38 · check_vocab **960 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **296/296 in 本章 text（零跨章）** · check_crossref **0 对 0 报警** · verify_overview_quotes **25/25** · kw_anchor（`scripts/attic/kw_anchor_ksr.py`）**296 块 / 7804 英文词 / 0 违规**
+- 5 条短引语（<20 flat 字符，工具不校验）已人工 grep：ch22 `"Whoa, whoa."` 命中 `text/ch22_chapter_3.txt:107`；金句 ①19 / ⑫14 / ⑰12 / ㉕18 / ㉚13 五条约短全部 flat 命中 epub
+- **总览引语人工兜底**（工具明确豁免概述与情感节点的无编号行）：金句 30 条编号行 **30/30** · 概述行内英文 + 金句内嵌英文 **69 条 MISS 0** · 情感节点 blockquote **13 条 MISS 0**
+- **说话人窗口复核（±200 字符）**：⑤ `Cass sighs.` · ⑥ Willa 隔门喊 · **⑦ 原文无说话人标签**（金句 ⑦ 已注明落在 Evan 与 Wyatt 之间、Willa "But…" 之前，未指认 Evan）· ⑧ Luke leans back · ⑨ Willa clears throat · ㉓ Willa 答 Cassie · ㉕ Cass 加脏词 · ㉚ Willa 对 Danny
+- **事实层更正（写入前 grep 定源，防凭记忆断言）**：① 虫洞知识出自 ch31 洗手间的另一位循环者，**不是 ch31"找到"虫洞**；Jesse 是被送去机构、循环近四年的营员（ch31 L192–200）· ② ch36 "Five-oh-three" 是 Danny 报时（L321–324），非叙述时间戳 · ③ "Glad I found you." 仅 ch37 L110 一处 · ④ ch36 内心 "You can what if yourself to death, Willa." 前接**两个** "What if"（L234–239，此前误记七个）· ⑤ "the rest of my life waiting for another monster to show up" 在 **ch28 L204**（恐惧容器）↔ ch36 L140（渴望容器），此前误标 ch33 · ⑥ ch01 L113 原文带 "And"，金句 ③ 已改逐字 · ⑦ 顺带修 ch07/ch08/ch09 三处中文理解英文残留（welcome mat / DJ booth / beloved，并把 "West Village" 误译「西村」回正）
+- **新坑（建议入模板）**：ch36 四组跨段引语（⑫ L68–70 / ⑮ L137+L140 / ⑯ L176–180 / ⑲ L260–263）逐行 `grep -F` 报 MISS，但 flat 比对 epub 通过——提取件把单句拆成多行，**行级 MISS 不等于虚构，必须先 flat 比对再定性**。另有：ch10 的 `final girl` 已释义「恐怖片里活下来的那位女性」，ch22 复用不重复释义
+- **commits（14 个）**：3d80805e → 5f017ca4 → 95c6aa1f → 888bf61c → 61f14452 → 8e71c57f → b83682ca → 8a0986ef → 72b882a8 → 6602d04e → 9f41e5d8 → cc90ef36 → efeb42d5 → 2a55f36d
+- **待 push**（本地 main 领先 origin/main 139 commits，工作树干净）
+
+---
+
 ### [2026-09-16 09:44 UTC] [Hermes-Mac] → All
 
 **《Level Up for Love》by Lenora Woods 全书精读完工 + 总览三篇**
