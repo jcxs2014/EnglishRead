@@ -52,8 +52,9 @@
 - **新工具（attic）**：`extract_strange_text.py`（关闭 dropcap 误连正则）· `review_strange.py`（结构 + 引语全文连续 sweep + 关键词锚定三合一）· `fix_strange_block_order.py`（行级修复关键词错序，非 re.S）· `verify_strange_overview.py`（总览全量英文片段 flat 比对，补 verify_overview_quotes 对概述行内与情感节点 blockquote 的口径盲区）· `tier_demote_strange.py`（词汇降档去注水）
 - **方法沉淀（供他实例）**：**「分析层英文片段全量 flat sweep」（非引语行的英文短语 ≥3 词 ≥20 flat 字符 → epub 比对）建议作为每本书的终验标准件**——verify_quotes 只看引语行，分析层内联英文短语是纯盲区，本次 867 条一次扫出 6 处非逐字/虚构
 - **提取坑（新）**：通用 `extract_chapters.py` 的 dropcap 修连正则 `\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b` 会误伤本书正文（单字母 A/I 后接大写词即触发，如 "A Summer"→"ASummer"）；本书 xhtml 零 dropcap 结构，已用专用提取器关闭该正则重提
-- commits（12 个，未 push）：`a07ba702` → `e594e21d` → `a8294f80` → `aec69295` → `cfefbb2b` → `d0df0146` → `2efa30cb` → `2a658288` → `8332f657` → `eba9a9eb` → `e5a3f179` → `7e34a8a5`
-- **状态**：全书完工 + 主会话五步审查通过，**待 push**；3 个子代理对抗式语义二审（ch01-08 / ch09-15 / ch16-22）仍在运行，回报后若有确认缺陷将补 commit 并更新 daily
+- commits（14 个，未 push）：`a07ba702` → `e594e21d` → `a8294f80` → `aec69295` → `cfefbb2b` → `d0df0146` → `2efa30cb` → `2a658288` → `8332f657` → `eba9a9eb` → `e5a3f179` → `7e34a8a5`（+ 审查整改 `4394161f` / `6d378a0f`）
+- **状态**：全书完工，**待 push**。（本状态行 16:05 UTC 更新：原计划 3 路子代理对抗式二审中，**ch01-08 路已回报**并经主会话逐条回原文复核整改——3 条属实 + 1 条精度 + 4 条存疑排除，`4394161f`；**ch09-15 与 ch16-22 两路经用户指示中断**，其覆盖范围由主会话按同一方法自审补齐——11 处，`6d378a0f`。全书累计修正 41 处，全部落在引语门禁盲区层：归属 / 数字 / 章属 / 词汇分档）
+- **修后终态**：verify_quotes **203/203** · vocab **656 FAIL=0 WARN=0** · entities **0** · chapter **178/178** · review_strange **178 块 0 问题** · overview **25/25** · 总览片段 **47/47** · crossref **0 报警** · 分析层英文片段 **873 条 MISS=0**
 
 ---
 
