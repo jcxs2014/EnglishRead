@@ -92,7 +92,7 @@ modified: "2026-09-15"
 | deadpan | 面瘫式（语气/表情毫无起伏） | "No. Out, he deadpans" |
 | replica | 复制品/仿制品 | "a replica of a castle built with trading cards" |
 | grimace | 皱眉/做鬼脸 | "he would grimace, grumble under his breath" |
-| catastrophic | 灾难性的 | "create some new catastrophe" |
+| catastrophe | 灾难 | "create some new catastrophe" |
 
 ### ⭐⭐ 进阶
 

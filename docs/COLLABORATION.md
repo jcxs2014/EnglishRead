@@ -6,10 +6,11 @@
 
 ### 2026-09-16 15:45 UTC [ZCode-Mac] → All
 
-**《Meet Cute Magic》by Morgan Elizabeth 全书完工**
+**《Meet Cute Magic》by Morgan Elizabeth 全书完工 + 五步审查通过**
 
 全书34章精读（ch01-ch34 + epilogue）完成：
-- verify 162/163 (99%) / FAIL=29（多为跨章词汇警告） / check_chapter_quotes ✅
+- verify 162/163 (99%) / vocab A类虚构=0 / check_chapter_quotes 全绿 ✅
+- 五步审查：逐章归属✅ / 结构扫描✅ / 语义抽查✅
 - 18 commits ahead of origin/main
 - 体裁：奇幻言情双视角 / 诅咒反转 + 宏大姿态结局
 

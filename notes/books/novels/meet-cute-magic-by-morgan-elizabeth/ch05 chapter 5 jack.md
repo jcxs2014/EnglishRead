@@ -126,7 +126,7 @@ modified: "2026-09-15"
 |------|------|------|
 | culprit | 罪魁祸首 | "A dozen potential culprits for this break-in." |
 | noncommittally | 不置可否地 | "Hmm,' I say noncommittally." |
-| concussion | 脑震荡 | 本章 Jack 倒地后的潜在结果（幽默向） |
+| tornado-like | 像龙卷风的 | "her tornado-like behavior" |
 
 ### ⭐ 基础
 
