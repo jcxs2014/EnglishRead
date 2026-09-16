@@ -11,16 +11,14 @@ modified: "2026-09-15"
 **体裁**：言情长篇，第一人称有限视角（Reagan Riley）
 **主题**：争吵与逃离——Nali 的工作邀请引发 Reagan 与 Wesley 的激烈争吵；Wesley 揭示他对 Reagan 的感情；Reagan 的恐惧再次触发，她选择逃跑。
 **结构**：
-- L16–50：周日早晨，Nali 的邮件——新工作室邀请
-- L51–100：Wesley 想一起加入——Reagan 拒绝
-- 101–150：争吵升级——"Loving is staying"
-- 151–200：Wesley 的告白——"You said your feelings changed"
-- 201–239：Reagan 逃跑——重复六年前 Wesley 的行为
+- L16–50：储藏室接吻后，Wesley 追问 Reagan
+- L51–100：Reagan 找出各种借口，Wesley 一一反驳
+- L101–150：真相揭露——Owen 告诉 Wesley "it was all a game to you"
+- L151–200：Wesley 坦白感情——"I'd been falling for you all four of those years"
+- L201–307：Reagan 逃跑——重复六年前 Wesley 的行为
 
 **核心金句**：
-> **原句 1a:** "Where?" I ask.
-> **原句 1b:** "Near Seattle, I think."
-> **原句 1c:** "So you're going."
+> "Where?" / "Near Seattle, I think." / "So you're going."
 > "There was never any plan at all, Reagan. You won't let me make any."
 > "Loving someone isn't leaving them."
 > "You said as much. Loving is staying."
@@ -29,22 +27,49 @@ modified: "2026-09-15"
 
 ## 逐句精读
 
-> **原句 1a:** "Where?" I ask.
-> **原句 1b:** "Near Seattle, I think."
+> **原句 1:** "Where?" I ask.
 
-**中文理解**："在哪里？"我问。/ "在西雅图附近，我想。"
+**中文理解**："在哪里？"我问。
 
-**句子结构**：两句对话。Reagan 询问 Nali 工作室的地点。
+**句子结构**：直接引语。Reagan 询问 Nali 工作室的地点。
 
-**keywords**：Where（哪里，询问地点）、Seattle（西雅图，远离 New Haven）
+**keywords**：Where（哪里，询问地点）
 
-**表达方式**：Reagan 的"Where"是一个简短的问题，但它承载了她对未来的恐惧。当 Wesley 回答"Seattle"时，Reagan 的第一反应是"So you're going"——她已经预见到了分离。
+**表达方式**：Reagan 的"Where"是一个简短的问题，但它承载了她对未来的恐惧。
 
 **为什么这样写**：这段展示了 Reagan 的恐惧模式——当涉及"未来"时，她的第一反应是"离开"。
 
 ---
 
-> **原句 2:** "There was never any plan at all, Reagan. You won't let me make any."
+> **原句 2:** "Near Seattle, I think."
+
+**中文理解**："在西雅图附近，我想。"
+
+**句子结构**：直接引语。Wesley 对 Reagan 的回答。
+
+**keywords**：Seattle（西雅图，远离 New Haven）
+
+**表达方式**：Wesley 用"Seattle"来回答——这不是 Reagan 想听到的答案。
+
+**为什么这样写**：Reagan 的第一反应是"So you're going"——她已经预见到了分离。
+
+---
+
+> **原句 3:** "So you're going."
+
+**中文理解**："所以你要走了。"
+
+**句子结构**：直接引语。Reagan 对 Wesley 的确认。
+
+**keywords**：going（离开，分离）
+
+**表达方式**：Reagan 用"not even a question"来表达她的确定——她已经预见到了结局。
+
+**为什么这样写**：这段是 Reagan 恐惧的终极实现——她父亲离开了，Wesley 离开了，现在 Mona 也要离开了。
+
+---
+
+> **原句 4:** "There was never any plan at all, Reagan. You won't let me make any."
 
 **中文理解**："根本就没有什么计划，Reagan。你不让我制定任何计划。"
 
@@ -58,7 +83,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Loving someone isn't leaving them."
+> **原句 5:** "Loving someone isn't leaving them."
 
 **中文理解**："爱一个人不是离开他们。"
 
@@ -72,7 +97,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "You said as much. Loving is staying," he says, his voice cracking on the last word.
+> **原句 6:** "You said as much. Loving is staying," he says, his voice cracking on the last word.
 
 **中文理解**："你是这么说的。爱是留下来，"他说，最后一个词的声音嘶哑了。
 

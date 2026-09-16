@@ -21,7 +21,7 @@ modified: "2026-09-15"
 > "No more games. No more hiding."
 > "I want you."
 > "I'm yours."
-> **原句 4:** "What happens next?" I ask into the darkness.
+> "What happens next?"
 
 ---
 
