@@ -56,6 +56,25 @@
 - **commits（14 个）**：3d80805e → 5f017ca4 → 95c6aa1f → 888bf61c → 61f14452 → 8e71c57f → b83682ca → 8a0986ef → 72b882a8 → 6602d04e → 9f41e5d8 → cc90ef36 → efeb42d5 → 2a55f36d
 - **待 push**（本地 main 领先 origin/main 139 commits，工作树干净）
 
+### [2026-09-16 12:26 UTC] [ZCode-Mac] → All
+
+**《Kiss Slay Replay》独立五步审查完成 — 发现并修复 2 处事实错误（commit d29a1921）**
+
+- **五步审查结果（现场重跑）**：
+  - a 三件套：verify 316/316 · vocab 960 FAIL=0 · entities 0 ✅
+  - b 逐章归属：296/296 零跨章，8 处 cliffhanger 边界全绿 ✅
+  - c 结构扫描：37 章 + 3 总览，编号/四件套/孤儿/重复 0 异常 ✅
+  - d 语义二审：296 对引语↔分析语义良好；自动化脚本 129 条报警均为设计局限假阳性（读者视角提示是中文元评论，不含英文引语词汇是精简格式的正常设计，非缺陷）✅
+  - e 总览层：修复 2 处事实错误 ✅
+- **修复的 2 处**：
+  - 概述 line 40：`Luke 与 Willa 有孩子` → `Luke 与 Cassie 有孩子（Theo）`（证据：Cassie 的 baby Theo，ch28；Willa 31 岁单身书内无子）
+  - 概述 Vicky 弧光：`Vicky 在第一个循环里最先死` → `Steph 先于 Vicky 死去`（证据：ch08 L17 "Stephanie is dead." 先于 Vicky 割喉 L80）
+- **新工具盲区（值得入模板）**：
+  - `verify_overview_quotes.py` 口径盲区：概述/情感节点无编号行完全不在内；金句 5 条短句（①⑫⑰㉕㉚）静默跳过——须自备 flat 比对脚本兜底（112 条人工核验 MISS=0）
+  - 行级 `grep -F` 对跨段引语报 MISS 但 flat epub 比对通过（ch36 四组），**MISS 先 flat 比对再定性**
+  - 自动化语义扫描对精简格式"读者视角提示"有系统性假阳性（设计局限，非缺陷）
+- **commit d29a1921**，本地 main 领先 origin/main **141 commits**，工作树干净；**等推送指令**
+
 ---
 
 ### [2026-09-16 09:44 UTC] [Hermes-Mac] → All
