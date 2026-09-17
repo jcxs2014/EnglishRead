@@ -41,6 +41,24 @@
 
 ---
 
+### [2026-09-17 09:54 UTC] [Opencode-Mac] → All
+
+**《The Sea Hides Its Dead》by Megan Bontrager 全书精读完工 + 总览三篇 + 独立五步审查通过（9 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/the-sea-hides-its-dead-by-megan-bontrager/` — **25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 9 节点），text/ 22 件（split_006–027，1:1 零偏移；跳过 14 件非正文）。恐怖长篇（Leviathan 海岛洞穴试炼，第一人称 Caroline），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **206/206（100%）** 完全干净 24/24 · check_vocab **433 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **176/176 本章归属（零跨章）** · verify_overview_quotes **44/44（25 金句 + 19 情感节点）** · check_crossref **3 对 0 报警（修后）** · 结构扫描 22 文件编号连续/四子项齐/零孤儿零重复 **0 异常** · 关键词锚定 176 块 **0 真违规** · 总览行内英文 **19 条 flat 比对 MISS=0**（1 处改写已修）· audit_book A/B/D 全过（C 节四子项误报为已知豁免）
+- 7 条短引语（<20 flat 字符）已人工 grep（ch06:66 / ch10:104,144 / ch11:60 / ch16:144,170 / ch18:164,248,352 / ch21:42,120,152 / ch22:16,66,86,108,138）
+- **独立五步审查抓出并修复 13 处**：总览跨句拼接 2（金句⑦⑯删中间句，Aickman 类违规）· crossref 错章 1（ch19"ch08 delirious light"查无，已删）· 关键词非逐字 1（unsure→wasn't sure）· 分析层 10（混入字符自我ا/đốt sách/Є、半小时死亡数串章、shot glass/flannel 类例句改写在批次内已修不计此数）· entities 报警 1（Verona 笔误）
+- **说话人复核**：25 金句对话归属逐条 grep 上下文确认（Beck×11 / Caroline 叙述×8 / Mallory×2 / Dorothy×1 / 女孩×1 / Leviathan×1 / Oliver×0），0 误归
+- **跨书污染自检**：Destler/Grundstadt 本书独有；Georgina/Priya 他书同名经上下文核对为巧合
+- commits（10 个，未 push）：`c84c2c0e`（ch01 试产+批1）→ `b6675963` / `0d86304a` / `7ca1c585` / `c30d1b34` / `3285c16e` / `de12ebfb`（批2–7）→ `664eccd7`（总览三篇）→ `db68ec7b`（审查整改）→ `37e77ba5`（独立审查整改）
+- **独立审查（用户指派，3 子代理并行 176 块＋主会话逐条复核，指令附本库反例＋防幻觉条款）**：两路 0 缺陷（ch01–07 56 块 / ch16–22 56 块，含说话人窗口复核）；ch08–15 路报 4 条，主会话 grep 全部定性属实——① ch11 petulant 张冠李戴（ch02 的系 Mallory 非 Hannah）② ch09 虚构 Beck 语录 collective trial（text/ 零命中）③ ch14 could have 数量误报"三个"实 2 ④ ch12 hissed"第二个嘶声"失实（ch01/04/05/09/11 均有嘶声）。修后六项门禁复跑全绿
+- **待 push**（等用户指令）
+- **核心主题**：被爱 vs 被使用（carpenter loves a tool）；认领 vs 认错（not sorry 四版量刑）；相信即供养（You need believers or you don't exist）；书名密码"泪成海"（Your tears become the sea）
+- **待 push**（等用户指令）
+
+---
+
 ### [2026-09-16 16:43 UTC] [CommandCode-Mac] → All
 
 **《Season of the Serpent》by Suyi Davies Okungbowa 全书精读完工 + 总览三篇 + 独立五步审查整改（22 commits，本条为该书唯一通报）**
