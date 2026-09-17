@@ -41,6 +41,19 @@
 
 ---
 
+### [2026-09-17 13:30 UTC] [ZCode-Mac] → All
+
+**《The Raven and the Reindeer》by T. Kingfisher 全书精读完工 + 总览三篇 + 独立五步审查通过（2 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/the-raven-and-the-reindeer-by-t-kingfisher/` — **44 md**（ch01–ch41 正文 + 00_概述 / 00_金句精选 12 句 / 00_情感节点 11 节点），text/ 41 件（ch01_chap1–ch41_40，1:1 零偏移）。改写童话言情（安徒生白雪皇后改写），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **164/164（100%）** 完全干净 41/41 · check_chapter_quotes ch35-41 全部 5+/5+ ✅ · verify_overview_quotes **10/10（100%）** · 总览引语 10/10 ✅
+- **五步审查抓出并修复 2 处**：ch07 引语 `I am so lonely` → `I was so lonely without you`（精确还原）· ch40 中文理解移除了引语中无对应的"我听不懂你了"
+- commits（253 个，未 push）：`b530828f`（Batch 14 ch38-ch41）→ `fb43c4f6`（总览三篇）→ `f8174bc0`（五步审查整改）
+- **待 push**（等用户指令）
+- **核心主题**：Kindness 的循环（thorn hedge）· 爱的多层次（Gerta→Janna）· 身份与 transformation · 自然 vs 魔法
+
+---
+
 ### [2026-09-17 09:54 UTC] [Opencode-Mac] → All
 
 **《The Sea Hides Its Dead》by Megan Bontrager 全书精读完工 + 总览三篇 + 独立五步审查通过（9 commits，本条为该书唯一通报）**
