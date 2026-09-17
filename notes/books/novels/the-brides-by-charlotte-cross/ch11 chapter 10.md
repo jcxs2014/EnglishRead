@@ -104,25 +104,25 @@ modified: "2026-09-17"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | siren's voice | 塞壬般的声音（诱惑而危险） | 'Come here, my love,' she whispered in her siren's voice. |
-| brute force | 暴力；蛮力（本章 Alice 描述 Dracula 的攻击方式） | I knew that the brute force which had killed her could not have been that of any animal. |
 | unholy baptism | 邪恶的洗礼（本章 Dracula 让 Mafalda 喝他的血） | ...he performed the unholy baptism. |
+| slavering | 垂涎；流涎（本章 Lucy 听到门外吸血鬼的声音） | ...the noise resolved itself into a fearful slavering and snarling. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| centuries | 数个世纪（本章 Harker 提到 Dracula 的新娘"数百年"历史） | We thought they were centuries old. |
-| staircase | 楼梯（本章 Lucy 在城堡中的移动路径） | We went down one staircase and up another. |
-| impression | 印象（本章 Lucy 对城堡的整体感受） | I was left only with the impression of a vast echoing space. |
-| photograph | 照片（本章 Mrs Lakatos 出示的合影） | It was taken at a studio in Buda-Pesth. |
+| clawed | 用爪子抓（本章 Count 抓伤 Mafalda 的脸） | ...he clawed her face from hairline to chin, leaving great gashes. |
+| centuries | 数个世纪（本章 Lucy 描述城堡大厅的地板） | Rough wooden floors, worn down by centuries, stretched across the vast space. |
+| staircase | 楼梯（本章 Mrs Cartwright 拖着 Lucy 走过螺旋楼梯） | She dragged me from my makeshift cell, out across a spiral staircase's landing. |
+| corridor | 走廊（本章 Lucy 在城堡中听到门外的声音） | ...separating me from whatever prowled along the corridor. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| castle | 城堡（全书的核心场景——Castle Dracula） | We were drawing up into the courtyard of our final destination. |
-| lantern | 灯笼（本章 Lucy 梦见 Mafalda 提灯来到图书馆） | Mafalda came in, lantern aloft, dressed in the green dress gifted to her by the Count. |
-| portrait | 肖像画；照片（本章 Lucy 在城堡看到 Count 的祖先画像） | The walls were lined with portraits of varying antiquity. |
+| castle | 城堡（本章 Lucy 在 Castle Dracula 中被困） | ...not somewhere in the castle, bitten and poisoned as I have been. |
+| snarling | 咆哮（本章 Lucy 在门外听到吸血鬼的声音） | ...the noise resolved itself into a fearful slavering and snarling. |
+| baptism | 洗礼（本章 Dracula 对 Mafalda 的"转化仪式"） | ...he performed the unholy baptism. |
 
 ## 一句话总结
 
