@@ -136,7 +136,7 @@ modified: "2026-09-17"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stitched | 缝合（本章 Dr Knight 的眉毛被缝合） | ...being stitched up by Nurse Taylor. |
-| candour | 坦率；真诚（本章 Seward 感谢 Mrs Lakatos） | ...I must thank you for your candour today, Mrs Lakatos. |
+| candour | 坦率；真诚（本章 Seward 感谢 Mrs Lakatos） | Very well. Thank you for your candour today, Mrs Lakatos. |
 | flinched | 退缩；畏缩（本章 Seward 握手时 Mrs Lakatos 的反应） | We shook, and it seemed to me that she flinched. |
 | wolves | 狼（本章 Transylvania 夜晚的声音） | ...I can hear a distant wolf howl... |
 
