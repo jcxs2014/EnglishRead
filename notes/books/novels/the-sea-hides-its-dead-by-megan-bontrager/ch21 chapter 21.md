@@ -10,7 +10,7 @@ modified: "2026-09-17"
 - **一句话概括**：Caroline 为夺回 Mallory 尸身血战兽群（认出 Dorothy／Oliver／Hannah／Iskra 的残肢），向 Leviathan 本体谈判——识破"神靠信徒活着"（"You need believers. Or you don't exist."），以自由换 Mallory（"I choose Mallory"），神应允后拧断她的脖子（"As my neck snapped, I thought of Mallory"）。
 - **视角**：第一人称有限视角，本章是"谈判桌"体——她拿 Beck 的理论（神需 devotion）当筹码，拿自己的自由当标的，拿 Mallory 当交割物；谈判对手是海本身。
 - **情感弧线位置**：全书的签约章——从"Take me! Punish me!"（求罚）到"I choose Mallory"（求购）再到断颈（交割）；自由是她唯一值钱的东西，她花了。
-- **人物弧线**：Caroline 从"，没有人会知道我消失"（no one would know／care）到"有人会"（Mallory 会）——"no one"论被她自己推翻：Mallory 即她的"someone"。而"I freed myself"（ch16）vs"我卖掉自由"（本章）——自由挣来就是为了花的，这是自由的最高用法。
+- **人物弧线**：Caroline 从"没人会知道我消失／没人会在乎"到"有人会"（Mallory 会）——"no one"论被她自己推翻：Mallory 即她的"someone"。而"I freed myself"（ch16）vs"我卖掉自由"（本章）——自由挣来就是为了花的，这是自由的最高用法。
 - **叙事手法**：兽群用"熟人认领"写（Dorothy 的头／Oliver 的脸／Hannah 的腿／Iskra 的头发，一一点名）；神用"全尺寸"写（scale 如教堂、眼下有眼）；交易用"合同体"写（要约→还价→交割→断颈盖章）。
 
 ## 精读
@@ -29,9 +29,9 @@ modified: "2026-09-17"
 
 **中文理解：** "求你！"我喊，但向谁，我不确定。谁听都行。谁听见都行。"带走我！罚我！"
 
-**关键词：** to whom unsure, Anyone, Take me, Punish me
+**关键词：** to whom wasn't sure, Anyone, Take me, Punish me
 
-**为什么这样写：** "to whom, I wasn't sure"（向谁，不确定）——祈祷 without 地址， huh 喊话全频道。而"Take me! Punish me!"（带走我！罚我！）是求罚令：她主动认罚，罚 Mallory 的份也认。这是 ch16"供词"的实战版：认领（take me）＋代罚（punish me for her）——律师改行当替罪羊。
+**为什么这样写：** "to whom, I wasn't sure"（向谁，不确定）——祈祷不写地址，扯嗓子全频道喊话。而"Take me! Punish me!"（带走我！罚我！）是求罚令：她主动认罚，罚 Mallory 的份也认。这是 ch16"供词"的实战版：认领（take me）＋代罚（punish me for her）——律师改行当替罪羊。
 
 **读者视角提示：** Anyone（谁都行）是全频道祈祷——神、鬼、路人，谁接单谁是神；第一个接单的是 Leviathan。
 

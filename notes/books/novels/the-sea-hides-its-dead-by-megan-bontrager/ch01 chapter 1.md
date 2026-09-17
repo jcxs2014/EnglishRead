@@ -71,7 +71,7 @@ modified: "2026-09-17"
 
 **关键词：** good at being used, filled and molded and squashed and stretched, An accessory, the negative space
 
-**为什么这样写：** 四个被动分词（filled／molded／squashed／stretched）排成一条橡皮泥的受难史，写的是物化而不自知——她把"被使用"说成"擅长"，把自我ا消解说成 purpose。negative space（负空间／留白）本是艺术术语，这里成了她的人格定义：她只在他人的轮廓之外存在。这句是理解她一切选择（跟 Beck、抱鹿）的钥匙。
+**为什么这样写：** 四个被动分词（filled／molded／squashed／stretched）排成一条橡皮泥的受难史，写的是物化而不自知——她把"被使用"说成"擅长"，把自我消解说成 purpose。negative space（负空间／留白）本是艺术术语，这里成了她的人格定义：她只在他人的轮廓之外存在。这句是理解她一切选择（跟 Beck、抱鹿）的钥匙。
 
 **读者视角提示：** negative space 与开篇 paint／frame 意象同源——Caroline 习惯把自己当背景；后面她何时第一次成为前景，就是人物弧光的顶点。
 

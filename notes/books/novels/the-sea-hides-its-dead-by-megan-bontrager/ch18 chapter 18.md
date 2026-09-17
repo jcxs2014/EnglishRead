@@ -31,7 +31,7 @@ modified: "2026-09-17"
 
 **关键词：** four minutes without oxygen, permanent brain damage
 
-**为什么这样写：** "four minutes"（四分钟）vs"five"（五分钟死）——Mallory 的考前/con知识储备暴露了她的创伤 librarian 属性：她是拿"憋气杀人"（溺死跟踪狂）的凶手，缺氧数据是她的作案工具说明书。而"voice small"（声音很小）与数据的精确（four minutes）对打：越小声，越确定——这是背过尸检报告的人。
+**为什么这样写：** "four minutes"（四分钟）vs"five"（五分钟死）——Mallory 的创伤数据储备暴露了她的行凶者属性：她是拿"憋气杀人"（溺死跟踪狂）的凶手，缺氧数据是她的作案工具说明书。而"voice small"（声音很小）与数据的精确（four minutes）对打：越小声，越确定——这是背过尸检报告的人。
 
 **读者视角提示：** four minutes（四分钟）是作案数据——记住这个数字，后面"埋活人"的情节里，它是量刑标尺。
 
