@@ -71,7 +71,7 @@ modified: "2026-09-17"
 
 **关键词：** I am looking, see myself surviving, War is about survival
 
-**为什么这样写：** "see myself surviving"（看见自己活）是审判现场的自我预言——他看的不是真相，是想看的。而"War is about survival"（战争即生存）把"抛下部下"翻译成"战争本质"：本质论即免罪符。hissed（嘶声）——Beck 之后第二个嘶声的人：嘶声者，非人也。
+**为什么这样写：** "see myself surviving"（看见自己活）是审判现场的自我预言——他看的不是真相，是想看的。而"War is about survival"（战争即生存）把"抛下部下"翻译成"战争本质"：本质论即免罪符。hissed（嘶声）是本章的声线底色——Beck 在 ch05 捂嘴时嘶过，Oliver 自己在 ch11 对峙时也嘶过，嘶声者众；但本句嘶的不是警告，是战败宣言：话是吼的，胆是裂的。
 
 **读者视角提示：** survival（生存）是他的神学——与 Beck 的"test"神学同构：各人有各人的神，神都负责免罪。
 

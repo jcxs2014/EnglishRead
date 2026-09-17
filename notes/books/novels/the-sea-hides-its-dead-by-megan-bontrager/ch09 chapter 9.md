@@ -51,7 +51,7 @@ modified: "2026-09-17"
 
 **关键词：** can't interfere, not how this works
 
-**为什么这样写：** "interfere"（插手／干涉）是实验术语——Beck 把 Dorothy 的强奸记忆称为"works"（运作机制），把袖手旁观称为"规矩"。而"can't"（不能）由他判定：他按住 Caroline 的手（vice of fingers），与按住她嘴（ch05）同构。他的"规矩"永远在他想看的时候生效。
+**为什么这样写：** "interfere"（插手／干涉）是实验术语——Beck 把 Dorothy 的强奸记忆称为"works"（运作机制），把袖手旁观称为"规矩"。而"can't"（不能）由他判定：他按住 Caroline 的手（vice of fingers），与按住她嘴（ch05）同构。他的"规矩"永远在他想看的时候生效——想看 Dorothy 受难时生效，想救 Iskra 时没生效。
 
 **读者视角提示：** interfere 是观战许可证——Beck 的"不能插手"只在他不想救人时生效；想推人下水时，他从不缺席。
 

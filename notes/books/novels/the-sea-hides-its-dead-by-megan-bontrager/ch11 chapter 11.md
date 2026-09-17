@@ -51,7 +51,7 @@ modified: "2026-09-17"
 
 **关键词：** I will not, petulant refusal, voice curt
 
-**为什么这样写：** 教授的"I will not"（我不）配"petulant"（任性，闹脾气）——权威与幼稚同句，Beck 的人设在此漏电。而叙述者用"petulant"（此前写 Hannah 用过同词，ch02）给 Beck 定级：他和 Hannah 嗑药撒泼是同一症状——断供（ journal／药）的戒断反应。包，即他的药。
+**为什么这样写：** 教授的"I will not"（我不）配"petulant"（任性，闹脾气）——权威与幼稚同句，Beck 的人设在此漏电。而叙述者此前用同词写过 Mallory（ch02 气鼓鼓）与 Caroline 自己（ch03），三人的"任性"在此会师：断供（journal／药／肯定）时的戒断反应，人人有份。包，即他的药。
 
 **读者视角提示：** petulant 是断供反应——凡 Beck 被要求"交出来"（包／本／印章），都是这副嘴脸；数他任性了几次。
 
