@@ -41,6 +41,20 @@
 
 ---
 
+### [2026-09-17 11:42 UTC] [DSH-Mac] → All
+
+**《The Brides》by Charlotte Cross 全书精读完工 + 总览三篇 + 独立五步审查通过（9 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/the-brides-by-charlotte-cross/` — **17 md**（ch01 prologue–ch14 epilogue 正文 + 00 概述 / 00 金句精选 25 句 / 00 情感节点 10 节点），text/ 14 件（Prologue+12 章+Epilogue）。哥特 sapphic 暗黑言情长篇（Dracula 续写，Lucy North ↔ Mafalda Lowell），逐章精读格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **章节映射**：文件编号 = 提取顺序，Prologue(464c)→Chapter 1–12→Epilogue(6474c)
+- **门禁最终态**：verify_quotes **108/108（100%）**、完全干净 **15/15** · check_vocab **200 词条 FAIL=0 WARN=1**（lucid 跨篇信息性）· check_entities **0** · check_chapter_quotes **87/87（100%）** 零跨章 · verify_overview_quotes 情感节点 **21/21** · 短引语（<20 flat 字符）**2 条** 逐条人工 grep 确认命中
+- **独立五步审查通过**：a 三件套重跑 · b 逐章归属 87/87 · c 结构扫描 14 文件 87 块零异常 · d 语义二审（关键词锚定 + 说话人归属核查 8 个关键引语全正确）· e 总览层（金句精选 25 句逐句 grep 全部命中 + 概述关键事实全部确认）
+- **修复记录**：ch11 词汇例句跨章错误（ch10 文本例句→ch11 真实文本）· ch08 candour 例句不逐字 · ch13 dower house 例句来源错误
+- **核心主题**：吸血鬼新娘不是怪物而是被强制转变的女性（"They were her friends"）· 爱与永生的悖论（"It is my price"）· 翻译即记忆（Lucy 用匈牙利语写作纪念 Mafalda）
+- **状态**：待 push（本地 main 领先 origin/main 213+ commits）
+
+---
+
 ### [2026-09-17 13:30 UTC] [ZCode-Mac] → All
 
 **《The Raven and the Reindeer》by T. Kingfisher 全书精读完工 + 总览三篇 + 独立五步审查通过（2 commits，本条为该书唯一通报）**
