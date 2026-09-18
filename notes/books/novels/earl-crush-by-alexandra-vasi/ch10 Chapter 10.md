@@ -26,7 +26,7 @@ modified: "2026-09-19"
 为什么这样写：Arthur 的"直接提问"是他在本章中的典型说话方式——他不绕弯子，直接切入最核心的问题。这个问题也是 Lydia 一直回避的：她的家人不知道她在做什么，她对他们撒了谎。
 读者视角提示：Arthur 提到"your brother—the one who's a politician"时，他在 ch02 中已经知道 Lydia 有一个哥哥是 MP，但现在他记住了这个细节——说明他在认真听 Lydia 说话，把她的事放在心上。
 
-> "Were they not aware of your political writings, then?" asked Arthur.
+> **原句 0:** "Were they not aware of your political writings, then?" asked Arthur.
 
 中文理解：Arthur 问：那他们不知道你的政治写作吗？
 关键词：aware, political writings（知道 + 政治写作）
