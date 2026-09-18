@@ -127,9 +127,9 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 10:** Just starving watch me.
+> **原句 10:** I'd even convince the Empire to ally with us against New Panchon. Just starving watch me.
 
-**中文理解**：饿死我算了——看着吧。
+**中文理解**：我甚至会让帝国与我们结盟，一起对付新 Panchon。饿死我算了——看着吧。
 
 **关键词**：Just starving watch me
 
