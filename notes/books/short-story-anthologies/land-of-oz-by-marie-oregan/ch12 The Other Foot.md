@@ -60,7 +60,7 @@
 
 ### 第 3 段：死亡沙漠
 
-> **原句 3:** "What is the Deadly Desert but the presence of countless never-should-have-liveds, thrown to the slaughter?"
+> **原句 3:** "What is that desert but the presence of countless never-should-have-liveds, thrown to the slaughter?"
 
 **中文理解**：致死沙漠不过是无数"本不该存在者"的集体存在——他们被投入屠杀。
 

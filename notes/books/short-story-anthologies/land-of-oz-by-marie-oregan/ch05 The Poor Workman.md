@@ -109,7 +109,7 @@
 
 ---
 
-> **原句 6:** "He gave you just enough from those bottles and jars to make you think you had pasts, but you don't – no more than I did, when he made me."
+> **原句 6:** "Gave you just enough from those bottles and jars to make you think you had pasts, but you don't – no more than I did, when he made me."
 
 **中文理解**：Scraps 解释——Pipt 给了他们足够的"记忆粉末"让他们以为自己有过去，但其实他们没有。Scraps 自己也是被 Pipt 制造的。
 
