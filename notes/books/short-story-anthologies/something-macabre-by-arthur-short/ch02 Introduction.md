@@ -41,7 +41,7 @@
 
 **句子结构**：While 让步状语从句 + 主句三个并列动词（have spent / have concluded），"eagerly devouring" 现在分词作伴随状语插入。
 
-**关键词**：devouring（狼吞虎咽地读，比 reading 生动得多）、surface level（表面层次）
+**关键词**：devouring（狼吞虎咽地读）、surface level（表面层次）
 
 **表达方式**：让步先行（not an expert）再立论，是典型的"自谦式权威建立"；devour 把阅读写成进食，暗示热情。
 
