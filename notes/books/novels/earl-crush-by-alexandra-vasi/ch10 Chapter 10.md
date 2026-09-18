@@ -17,7 +17,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> "Does your family know what you came here to do?" he asked.
+> **原句 0:** "Does your family know what you came here to do?" he asked.
 
 > **原句 1:** "Your brother—the one who's a politician?"
 
@@ -33,12 +33,7 @@ modified: "2026-09-19"
 为什么这样写：Arthur 的追问揭示了 Lydia 的两重生活——她是"政治 pamphleteer H"，也是"Lydia Hope-Wallace（政客的妹妹）"。这两个身份在她的家人面前是不重合的。
 读者视角提示：Lydia 的回答是"Some of them. Two of my brothers."——她的四个哥哥中只有两个知道她的写作。这个"两个"暗示她的家庭并不真正了解她，也为她后来的"孤独感"埋下伏笔。
 
-> **原句 2:** "I don't give a fig for what they think. I've no need for their approval of me or my wife."
 
-中文理解：他突然说：你很幸运。
-关键词：fortunate, abruptly（幸运 + 突然地）
-为什么这样写：这是 Arthur 第一次表达"羡慕"——他羡慕 Lydia 有家可归、有家人陪伴。"abruptly"（突然地）暗示这句话从他心底涌出，未经修饰。
-读者视角提示：Arthur 说这句话时"looked chagrined by his own words"（为自己的话感到尴尬）——他不习惯表达脆弱，但 Lydia 的存在让他忍不住敞开心扉。
 
 > **原句 3:** "To know you have them all to go home to, I suppose. To have someone in your life who grew up alongside you. Who can hold the memories of your childhood with you."
 
