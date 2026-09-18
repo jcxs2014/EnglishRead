@@ -55,13 +55,13 @@ modified: "2026-09-18"
 
 **读者视角提示**：对照 ch61 "There are threads between you"（三根线的说明）与本章的铁箍——从信息到牵绊到束缚，同一根线的三种意义。手稿的物件史：它最初是武器，最终是锁链，而他把锁链认成了家。
 
-> **原句 5:** "Elias hadn’t known Victor had been holding himself tensely until that breath of relief. He understood now that they could not part. Not until something is done."
+> **原句 5:** "Elias hadn’t known Victor had been holding himself tensely until that breath of relief. He understood now that they could not part. Not until something was done."
 
 **中文理解**：直到那声如释重负的呼气，Elias 才知道 Victor 一直在紧绷着。他现在明白了：他们不能分开——在"某件事"完成之前。
 
 **关键词**：holding himself tensely / that breath of relief / they could not part
 
-**为什么这样写**：符印贴胸的疗效以"紧绷的缺席"显影——原来 Victor 一直咬着牙（对齐 ch96 的"死一样瘫着"里藏着的意志）：他清醒地撑到这一刻，只为等到这个人。Not until something is done（在一件事完成之前）是 Elias 给出的判决：不能分开既是咒的物理，也是他的决定——他终于给这场纠葛命名为"某件事"，而不是"复仇"。
+**为什么这样写**：符印贴胸的疗效以"紧绷的缺席"显影——原来 Victor 一直咬着牙（对齐 ch96 的"死一样瘫着"里藏着的意志）：他清醒地撑到这一刻，只为等到这个人。Not until something was done（在一件事完成之前）是 Elias 给出的判决：不能分开既是咒的物理，也是他的决定——他终于给这场纠葛命名为"某件事"，而不是"复仇"。
 
 **读者视角提示**：对照 ch96 雪夜里 Victor"放松"的失败（连站都站不起来）与本章贴符后的那一口气——身体在两种"松"之间走了完整的两步：绝望的松与得救的松。手稿的生理学：治好了才会发现原来那么疼。
 

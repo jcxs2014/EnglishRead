@@ -23,7 +23,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：地理位置代替了时间戳——两个城市之间的一段铁路，是这场"叫醒"的坐标系：Victor 已经深入俄国，随时可能走到地图尽头。woke him（叫醒他）的施动者与受动者揭示了新关系的物理事实：Victor 不再是那个被偷听的病人，而是能主动"到达"对方睡眠里的人。
 
-**读者视角提示**：对照 ch64 "when Victor was sleeping"（Elias 偷听他的睡）与本章的"Victor 把他叫醒"——监听的方向倒转：如今是加害者在深夜守望受害者。手稿的对称完成式。
+**读者视角提示**：对照 ch79 "when Victor was sleeping"（Elias 偷听他的睡）与本章的"Victor 把他叫醒"——监听的方向倒转：如今是加害者在深夜守望受害者。手稿的对称完成式。
 
 > **原句 2:** "After all this time, Victor longed for him? For him?"
 

@@ -23,7 +23,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：气味导航的又一次使用——他对"家的方向"的感知不靠地图，靠土：荷兰与德国平原同属一片地质记忆。closer to home 的残忍在于"近而不达"：他离乡越近，越回不去（家人已不认他）。silt（淤泥）的地质词让乡愁有了颗粒感。
 
-**读者视角提示**：对照 ch70 "It felt like someone was calling him to a home he'd never visited"（Brogan 的召唤）与本章的"离家更近"——Elias 的土壤感应器一路都在工作：这个世界的魔法定义比人宽。
+**读者视角提示**：对照 ch79 "It felt like someone was calling him to a home he'd never visited"（Brogan 的召唤）与本章的"离家更近"——Elias 的土壤感应器一路都在工作：这个世界的魔法定义比人宽。
 
 > **原句 2:** "Willem was the alchemist of currents, Brogan had told him. Waves. Wind streams, electricity, motion. Flexibility given flesh; no storm could uproot him so far could he bend."
 

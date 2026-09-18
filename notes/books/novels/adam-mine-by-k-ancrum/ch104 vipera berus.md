@@ -19,7 +19,7 @@ modified: "2026-09-18"
 
 **中文理解**："Elias，对不起，"他坦白道。"对不起，把你从你属于的地方带走。对不起，浪费了你的信任。对不起，把你绑在我身上——因为我不配你。"
 
-**关键词**：taken you from where you belonged / wasting your trust / I do not deserve you
+**关键词**：taking you from where you belonged / wasting your trust / I do not deserve you
 
 **为什么这样写**：道歉的三行清单按罪名梯度排列——地点（把他从属于的地方带走）、信任（浪费）、人身（绑住），每一项都比前一项更贴身；而收尾的 I do not deserve you（我不配你）不再列举罪行，只陈述自己：这是全书第一次由 Victor 说出"不配"，也是他向 Elias 的世界观（ch65 的 unsuitable）递交的投名状。confessed（坦白/告解）的宗教动词让这段话像忏悔室里的台词。
 
@@ -28,6 +28,8 @@ modified: "2026-09-18"
 > **原句 2:** "Instead he said, “There are too many apologies to fit the size of this room. We are the same now. Master and Slave, God and Creation. Two beasts, two monsters, two butchers, one.”"
 
 **中文理解**：他说的是："道歉太多，这间屋子装不下。我们现在一样了。主与奴，神与造物。两只野兽，两个怪物，两个屠夫——一个。"
+
+**关键词**：too many apologies / We are the same now / two butchers, one
 
 **为什么这样写**：全书关系的最终等式——四组名词对举（主/奴、神/造物、兽/兽、怪物/怪物），最后落在"one"上：所有二元的尽头是一个词。too many apologies to fit the size of this room（道歉太多这屋子装不下）拒绝了清算式的对账：他不再要 Victor 逐条付账，而是宣布账户合并。章题 Vipera Berus（蝰蛇）在此完成它的任务：ch83 那声"他把你想象成一条蝰蛇"，如今蛇与它的想象者躺在同一张床上，被同一个复数收编。
 

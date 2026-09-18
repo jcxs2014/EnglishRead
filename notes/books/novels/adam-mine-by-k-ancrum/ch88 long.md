@@ -53,7 +53,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：拒绝的真正原因第一次见光——挡在他与学堂之间的不是出身、不是罪案，是字母。省略号里的卡顿（exams . . . papers）是他此生最怕的两个词：它们代表着"需要读"的一切。And it was horrible to put that to words at last（原文后句）——说出这句比说出"我杀了人"更难：罪有乡律辩护，残疾没有。ever be able to 的绝望是终审判决：他连希望都不申领。
 
-**读者视角提示**：对照 ch42 脚注（读写障碍的医学史）与 ch79 "The letters move before my eyes"——这条暗线在本章升到水面。手稿的受害者清单里，最难痊愈的一栏写的是：字母。
+**读者视角提示**：对照 ch42 脚注（读写障碍的医学史）与 ch80 "The letters move before my eyes"——这条暗线在本章升到水面。手稿的受害者清单里，最难痊愈的一栏写的是：字母。
 
 > **原句 5:** "“When you talk and they hear what you know, they will be the ones who will listen.”"
 

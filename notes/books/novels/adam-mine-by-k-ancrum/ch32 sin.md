@@ -51,13 +51,13 @@ modified: "2026-09-18"
 
 **关键词**：Matches my height / took from me
 
-**关键词之外的话**：三个短句是通缉令，也是验伤报告——"Matches my height"（和我一样高）尤其骇人：他追查的是一副"按我的尺寸改过"的身体。took from me 不指明偷了什么——身体、声音、头发、脸，每一件都是"from me"。
+**为什么这样写**：三个短句是通缉令，也是验伤报告——"Matches my height"（和我一样高）尤其骇人：他追查的是一副"按我的尺寸改过"的身体。took from me 不指明偷了什么——身体、声音、头发、脸，每一件都是"from me"。
 
 **读者视角提示**：对照 ch31 Victor 名册上的"批注体"——猎人与被猎者如今用同一种清单语言描述对方。区别只在：Elias 的清单每个字都真。
 
-> **原句 5:** "He wears very fine clothes and talks like he owns everyone and everything around him. He is clever and . . . cruel. He looks to be sixteen or perhaps seventeen."
+> **原句 5:** ""He wears very fine clothes and talks like he owns everyone and everything around him," Elias continued. "He is clever and . . . cruel. He looks to be sixteen or perhaps seventeen.""
 
-**中文理解**："他穿得极其讲究，说话的样子仿佛他拥有周围每一个人和每一样东西。他聪明，还有……狠。看上去也就十六，或者十七岁。"
+**中文理解**："他穿得极其讲究，说话的样子仿佛他拥有周围每一个人和每一样东西，"Elias 接着说，"他聪明，还有……狠。看上去也就十六，或者十七岁。"
 
 **关键词**：owns everyone and everything / clever and . . . cruel / sixteen or perhaps seventeen
 

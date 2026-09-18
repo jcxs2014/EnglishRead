@@ -71,7 +71,7 @@ modified: "2026-09-18"
 
 **关键词**：like Henry
 
-**为什么下面这句紧跟着 "A criminal."（一个罪犯）——这句话是 1890 年的法律与人心：同样的欲望， Henry 用疏离收场，Elias 用 blush 出场。这个标签在 Victor 眼里同时登记了两件事：取向（与 Henry 相同）与罪名（与杀人同栏）。作者不评论，只并置——时代本身就是判决书。
+**为什么这样写**：下面这句紧跟着 "A criminal."（一个罪犯）——这句话是 1890 年的法律与人心：同样的欲望， Henry 用疏离收场，Elias 用 blush 出场。这个标签在 Victor 眼里同时登记了两件事：取向（与 Henry 相同）与罪名（与杀人同栏）。作者不评论，只并置——时代本身就是判决书。
 
 **读者视角提示**：注意 Victor 记录 Elias 的三行连读：病人（sugar sickness）、赌徒（nothing to lose）、罪犯（homosexual）——三份档案合并，一个"完美的实验体"成立。下一句 "This could work." 是全书最短的销售意向书。
 

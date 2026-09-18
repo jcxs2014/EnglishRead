@@ -61,7 +61,7 @@ modified: "2026-09-18"
 
 **关键词**：how he’d smelled / the other alchemists / Disgusting and dangerous
 
-**为什么这样写**：换位认知的一记闷棍——他闻着别人的血宅皱眉，忽然意识到自己也是一座血宅：disgusting and dangerous（恶心又危险）是他给这座山屋的定罪，也正是他这一路收到的判词（ch60 "You smell of blood"、ch75 "You smell of blood and death"、ch79 "You smell of blood and death"）。他终于把自己放进了行会的鼻子底下称重——这份自我认知比任何审判都准。
+**为什么这样写**：换位认知的一记闷棍——他闻着别人的血宅皱眉，忽然意识到自己也是一座血宅：disgusting and dangerous（恶心又危险）是他给这座山屋的定罪，也正是他这一路收到的判词（ch79 "You smell of blood and death."）。他终于把自己放进了行会的鼻子底下称重——这份自我认知比任何审判都准。
 
 **读者视角提示**：金句级。对照 ch71 Ayan 的"Ye rik off blut"与本章的自我确认——话是别人说的，账是他自己认的。手稿的道德进度：从"我闻起来像正义"（ch72）到这里承认"恶心又危险"。
 

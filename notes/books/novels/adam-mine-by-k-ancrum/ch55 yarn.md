@@ -43,7 +43,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：灭门的技术细节精确到耳道——贯耳即刻脑死亡，是"无痛"逻辑的延伸：不让任何一个有机会尖叫。而 "through a ruined throat"（穿过毁掉的喉咙）是全句的裂缝：这个短语原是他自己的伤情报告（ch24 拔管、ch32 气声嗓），此刻泄漏进他的行凶设计——他在这对新人身上预演的，是自己喉咙的命运。杀人的每一步都在镜像他的伤。
 
-**读者视角提示**：对照 ch24 "horrible noise seeped out from between the breathing tube"——Victor 给他的喉咙，他如今给这对夫妇的耳朵。本书的暴力始终是对称的：他只把自己受过的，原样奉还。
+**读者视角提示**：对照 ch17 "A horrible noise seeped out from between the breathing tube"——Victor 给他的喉咙，他如今给这对夫妇的耳朵。本书的暴力始终是对称的：他只把自己受过的，原样奉还。
 
 > **原句 4:** "Oh, how Elias’s heart howled at the misfortune of finding someone awake. That he could not do this with grace."
 
@@ -71,7 +71,7 @@ modified: "2026-09-18"
 
 **关键词**：I’m sorry / as clean as the boy’s
 
-**为什么这样写**：灭门的最后一刀以道歉开路——sorry 对仆人说，与 ch24 "Please don't remember this" 对醉汉说同源：他对所有受害者都用同一套礼貌。as clean as the boy's（和男孩一样干净）的对比句把两条人命放进同一把尺：他甚至在死亡的质量上讲究公平。这一刀之后，Frankenstein 家只剩下一条被雷修改过的命，和一个正在赶回来的名字。
+**为什么这样写**：灭门的最后一刀以道歉开路——sorry 对仆人说，与 ch17 "Please don't remember this" 对手术台上的醉汉说同源：他对所有受害者都用同一套礼貌。as clean as the boy's（和男孩一样干净）的对比句把两条人命放进同一把尺：他甚至在死亡的质量上讲究公平。这一刀之后，Frankenstein 家只剩下一条被雷修改过的命，和一个正在赶回来的名字。
 
 **读者视角提示**：对照 ch21 Victor 的"先斩后奏"（apology instead of permission）——两个人的道歉都排在伤害之后。本书最对称的一组镜像在此对齐：他们都是先动手、再抱歉的人，区别只是道歉的诚意余额。
 

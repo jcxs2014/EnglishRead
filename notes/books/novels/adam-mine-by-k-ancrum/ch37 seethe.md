@@ -41,7 +41,7 @@ modified: "2026-09-18"
 
 **关键词**：do as he pleased / get away with it
 
-**为什么这样写**：羞辱被拆成"体验"与"权限"两层——他讨厌那次舔脸，却嫉妒它背后的许可证。outrageous（离谱）不是骂词，是招生标准：Alain 向他展示的正是"恶的免罪额度"。get away with it（全身而退）与 ch09 "he couldn't afford another dismissal"、ch31 "face the music" 一脉相承——Victor 一生的焦虑核心从来不是对错，是"会不会被抓"。
+**为什么这样写**：羞辱被拆成"体验"与"权限"两层——他讨厌那次舔脸，却嫉妒它背后的许可证。outrageous（离谱）不是骂词，是招生标准：Alain 向他展示的正是"恶的免罪额度"。get away with it（全身而退）与 ch06 "he couldn't afford another dismissal"、ch31 "face the music" 一脉相承——Victor 一生的焦虑核心从来不是对错，是"会不会被抓"。
 
 **读者视角提示**：把这句当成 Victor 的梦想陈述书——全书后半程他会一步步靠近这个"想干什么就干什么"的人设，而读者已经知道那张许可证的价签：一个半灵魂。
 

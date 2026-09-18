@@ -83,7 +83,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：全书第一句道歉以"试穿"的方式出场——out loud（出声）在空房间里毫无必要：没有听众，他在对通道练习。for size（试试尺码）与 Tasting（尝味道）把"对不起"写成一件生疏的衣物与一种陌生的食物——他此生大概没说过几次。而下一刻通道回敬的"黏黑快意"告诉他：道歉这个码数，Elias 现在还不收。
 
-**读者视角提示**：对照 ch63 "talisman in his mouth"（嘴里含金片）与本章"嘴里尝对不起"——Victor 的嘴是这个比喻体系的主场。本书的和解从试穿开始，只是裁缝还没量完尺寸。
+**读者视角提示**：对照 ch63 "When the talisman was in his mouth"（嘴里含金片）与本章"嘴里尝对不起"——Victor 的嘴是这个比喻体系的主场。本书的和解从试穿开始，只是裁缝还没量完尺寸。
 
 > **原句 8:** "Elias felt deeply. The way he felt his emotions was stunning. So much so that Victor had begun to think of him fondly in spite of their pain. He didn’t know if you could have another that close to your heart and not ache."
 

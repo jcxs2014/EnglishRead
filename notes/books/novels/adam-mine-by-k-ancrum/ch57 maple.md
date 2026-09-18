@@ -63,7 +63,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：镜前第二个自我审判——先自罚"虚荣"（vain），再供出真相：他想念的是"被那些目光软下来的时刻"。sad smile and doe eyes（哀伤的微笑与小鹿眼）是全书给旧 Elias 的最后一份肖像：温柔到需要被保护的脸。这句话的潜台词最疼：他怀念的不是美，是美曾经换来过的善意——那是他被拆走的东西里，最不受器械影响、也最先失效的一样。
 
-**读者视角提示**：对照 ch20 "女子与年轻男子的目光会软下来"——这句话在 ch57 补全了另一半：他的好看曾同时赢得两种性别的温柔。ch52 "Old enough to court Elias" 的暗恋、ch05 的 un-betrothed、本章的双性目光——本书的性向书写始终安静而坚定：爱在每一个细节里，从不需要宣布。
+**读者视角提示**：对照 ch20 "女子与年轻男子的目光会软下来"——这句话在 ch57 补全了另一半：他的好看曾同时赢得两种性别的温柔。ch52 "Old enough, perhaps, to court Elias" 的暗恋、ch05 的 un-betrothed、本章的双性目光——本书的性向书写始终安静而坚定：爱在每一个细节里，从不需要宣布。
 
 > **原句 6:** "What a waste to cry for beauty when there was still blood beneath his nails. But Elias did."
 

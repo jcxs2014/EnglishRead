@@ -27,7 +27,7 @@ modified: "2026-09-18"
 
 > **原句 2:** "Victor isn’t here; he left to find a way to undo what he’s done."
 
-**中文理解**："Victor 不在这儿；他出发去找 undo 他所做之事的办法了。"
+**中文理解**："Victor 不在这儿；他动身去找撤销他所做之事的办法了。"
 
 **关键词**：he left / undo what he’s done
 

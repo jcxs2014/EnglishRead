@@ -73,7 +73,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：咒术世界观在这里完成它最清晰的一次表述——Victor 与 Elias 的连接被拆成三股：身体（Willem 动过的）、心（本章要打通的）、心智（最后一根，全书尚未被碰过）。Alain 随后的医术隐喻（拨动线头，让它奏出一个甜音）把暴力工程说成调音：复仇被改写成"让你心里的响声灌回他心里"。三线模型同时预告了终局结构——哪根线被剪断，人就成了什么。
 
-**读者视角提示**：对照 ch54 "he cannot die"（身体线已坏）与 ch57 疤痕地图——三根线里前两根都已被 Victor 动过刀。记住还有"心智"这根完好无损，它多半留给结尾。
+**读者视角提示**：对照 ch54 "He could not die."（身体线已坏）与 ch57 疤痕地图——三根线里前两根都已被 Victor 动过刀。记住还有"心智"这根完好无损，它多半留给结尾。
 
 > **原句 7:** "“I gave of my heart’s blood directly from its chambers, tears of grief cried once every ten years, dust from a rock not made on this earth, and the combined cursed blood from you and your tethered to give you a channel to force this man to feel your pain,” he said simply."
 

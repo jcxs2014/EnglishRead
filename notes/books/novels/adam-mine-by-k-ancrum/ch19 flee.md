@@ -83,7 +83,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：拒助三部曲——先转换议题（成绩）、再礼节性致谢、最后关门。I don't need any assistance 的 assistance 是 Krempe 问话里 never used 的词，Victor 替他补上了再拒绝：他防御的不是被关心，是被看穿。should be fine 的 should（应该）泄露底气不足——"应该没事"是"我知道有事"的礼貌变体。
 
-**读者视角提示**：把这句与 ch16 "Everything was fine" 并排——他对自己说"一切都没问题"说了两章了。这一次终于有人递来台阶，而他连看一眼都没看。
+**读者视角提示**：把这句与 ch07 "Everything was fine" 并排——同一句自我催眠，从学堂一路说到逃亡路上。这一次终于有人递来台阶，而他连看一眼都没看。
 
 ## 本章词汇
 

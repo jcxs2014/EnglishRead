@@ -19,7 +19,7 @@ modified: "2026-09-18"
 
 **中文理解**：Elias 打开外套，掏出 Agatha 的娃娃。娃娃的头发开始打结了，他就把它也梳到发亮。
 
-**关键词**：Agatha’s doll / getting tangled / brushed it too until it shined
+**关键词**：Agatha’s doll / get tangled / brushed it too until it shined
 
 **为什么这样写**：等门的两小时里，他给马刷尾、编鬃、给娃娃梳头——暴徒的手艺清单全是护理。too（也）是本句的重量：娃娃与马与他自己同列"需要打理的家人"。这个"too"同时回指他给 Gida 编发的手法（ch67）——他所有的温柔都在别人的头发上练习。灭亡之家仅剩的一件行李，在此夜被梳得发亮。
 

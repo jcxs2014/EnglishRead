@@ -55,9 +55,9 @@ modified: "2026-09-18"
 
 **读者视角提示**：对照 ch24 Victor 对同学撒的谎（医学院尸体）——那套从容的公文腔在这里第一次遇到测谎仪。他的语言优势只在同类面前有效。
 
-> **原句 5:** "It’s an exchange spell; your bodies are seeking equilibrium. Hmm, one and a half souls, it looks like, trying to find a balance."
+> **原句 5:** ""It’s an exchange spell; your bodies are seeking equilibrium." He peered hard at Victor. "Hmm, one and a half souls, it looks like, trying to find a balance.""
 
-**中文理解**："这是个交换咒；你们的身体在寻求平衡。嗯……看起来是一个半灵魂，在找它们的平衡。"
+**中文理解**："这是个交换咒；你们的身体在寻求平衡。"他紧紧盯住 Victor，"嗯……看起来是一个半灵魂，在找它们的平衡。"
 
 **关键词**：an exchange spell / equilibrium / one and a half souls
 
