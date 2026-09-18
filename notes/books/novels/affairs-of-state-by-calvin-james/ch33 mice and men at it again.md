@@ -47,9 +47,9 @@ modified: "2026-09-18"
 
 > **原句 4:** I finished up in the shower and let the vents blow me dry. “Just because something is nearly impossible does not mean it is not worth attempting, Wiktor.”
 
-**中文理解：** "既然你觉得我们的胜算这么小，那还折腾什么，大尉？"维托一边替我摆出新装一边说。我冲完澡让风口吹干身体。"正因为一件事几乎不可能，不代表它不值得去做，Wiktor。"
+**中文理解：** "正因为一件事几乎不可能，不代表它不值得去尝试，Wiktor。"
 
-**关键词：** why bother, nearly impossible, not mean it is not worth attempting
+**关键词：** nearly impossible, not mean it is not worth attempting, worth attempting
 
 **为什么这样写：** 全书的行动主义宪法在此定稿：胜率与价值是两个科目。作者让 valet 提问、军人回答，把 ch30 "做对的事"的信条推进到战术层——他不赌赢，他赌"该不该"。这句话也是给读者的：全书每一场"不可能"（救援、表白、政变）都从这一句获得执照。
 
@@ -67,16 +67,6 @@ modified: "2026-09-18"
 
 > **原句 6:** I cut her off. “Listen, if the worst should happen, I want you to promise me you’ll take care of Tilly. Take her back to Stelsylvania, keep her safe. She’s a war steed, so she’ll need plenty of exercise. Space to zoom around. If you give her foes to fight, that would help. Just, let her be happy.”
 
-**中文理解：** 我深吸一口气，为接下来要说的话鼓起勇气。"我们接下来要做的事凶险万分。说实话，我不指望自己能活下来。"
-
-**关键词：** steeling myself, miserably dangerous, I don't expect to survive
-
-**为什么这样写：** 遗嘱的开场白没有任何修饰：他不安慰 Marie，直接交付概率。作者让这段"托孤"紧贴喜剧的更衣戏——生死交割就发生在粉扑与香水之间。全书最重的一句话说得最轻，这是老兵的礼仪：不浪费别人的眼泪。
-
-**读者视角提示：** 对照 ch19 的"我已死过一次"——他对自己命价的报价始终如一。此刻唯一的增量是：他有了一件比命贵的身后事。
-
-> **原句 7:** Marie nodded, the two of them sharing some secret realization. “The Federation communique was found on an Imperial commlink, with the proper send and receive codes. The activation codes were intentionally broadcast from a Federation source to an Imperial recipient.”
-
 **中文理解：** 我打断她。"听着，如果最坏的事发生，我要你答应我照顾好蒂莉。带她回斯特西尔维尼亚，保她平安。她是匹战马，需要大量运动。需要撒开欢跑的地方。你要是能给她找几个对手打打，那就更好了。就——让她快活。"
 
 **关键词：** promise me you'll take care of Tilly, keep her safe, let her be happy
@@ -84,6 +74,16 @@ modified: "2026-09-18"
 **为什么这样写：** 全书唯一的遗嘱受益人是一匹马。作者让这份遗嘱的条款像饲养手册（运动、空间、对手），把最深的爱写成最日常的清单——Levar 到最后都在用军需官的方式爱人：列需求清单。Marie 的"几乎落泪"替读者完成了情绪换算。
 
 **读者视角提示：** 回想 ch21 的"Always"与 ch06 的"她救过我一打次"——这份遗嘱是所有欠条的集中兑付日。他人生第一次把"身后事"托付出去，也就第一次承认了自己有未来之外的牵挂。
+
+> **原句 7:** Marie nodded, the two of them sharing some secret realization. “The Federation communique was found on an Imperial commlink, with the proper send and receive codes. The activation codes were intentionally broadcast from a Federation source to an Imperial recipient.”
+
+**中文理解：** Marie 点了点头，两人之间共享着某种心照不宣的确认。"这份联邦通讯是在一个帝国通讯链上找到的，收发码都正确无误。激活码是从联邦信源刻意广播给帝国接收方的。"
+
+**关键词：** an Imperial commlink, send and receive codes, intentionally broadcast
+
+**为什么这样写：** 情报戏的反转不在"传输真伪"而在"通路归属"：Boleslaw 说传输完美无瑕是真的，破绽是联邦的激活码出现在帝国的通讯链上。作者让证据从内容层升级到路由层——谁把钥匙递给了谁，比钥匙本身更定罪。"共享秘密领悟"的无声交流把推理的最后一格留白给读者。
+
+**读者视角提示：** 这份铁证把前文联邦"截获通讯、Despotess 下令"的官方叙事反转为自证其罪——下一章 Zukov 的自供将逐字兑现这里的每一行推论。
 
 > **原句 8:** I slammed my fist onto the table. “The Emperor’s side! This planning is pointless. Armory, reinforcements, disrupting the treaty, none of it matters if we don’t first rescue the Emperor. That is of primary and paramount importance, and we don’t even know where she’s being held.”
 
