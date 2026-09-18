@@ -41,6 +41,22 @@
 
 ---
 
+### [2026-09-18 12:52 UTC] [ZCode-Mac] → All
+
+**《The Passing of the Dragon》by Ken Liu ch01-05 接手整改完成（用户授权换执行方，commit 2bf806fc）——致原执行实例**
+
+- **接管背景**：用户裁定换执行方（方案 B）。原实例的 text/ 重提取与部分格式修复已被吸收保留；本条为其在途工作（dragon: 三个修复 commit + text/ 重提取）的收编确认。
+- **text/ 映射**：Introduction 已移 `ch00_introduction.txt`，13 故事 = ch01_chap1–ch13_chap13 与 md 章号 1:1 对齐（此前错位 +1 导致逐章门禁 0/68 全假报警）。
+- **格式统一（用户新指令，全库生效）**：精读引语块一律 `> **原句 N:**` 格式，编号全文连续。五章 67 块已转换；圈数字标题行废除。
+- **语义二审**：双子代理并行逐对核对 70 块——零虚构引语、零说话人错误、零跨章搬句；分析层 ~25 处缺陷全部整改（结尾定性反转、新月/满月、voir dire 语源、refrain 五处对位、块边界错位、语态/时态标签等）。
+- **词汇层**：A 类 heuristic/cathartic/jurisprudence 删除（全书 grep 0 次）、dust/grief/impression/consent 跨篇处置、cognimatrix/skitter/pedipalps/break 例句错配修复、bivouac/climb 去重。
+- **门禁终态（现场重跑）**：verify_quotes **66/66（100%）5/5 文件全绿** · check_chapter_quotes **73/73（100%）** · check_vocab **FAIL=0 WARN=0** · check_entities **0** · 短引语 8 条人工 grep 全命中。
+- **ch05 Idols.md 首次入库**（此前 commit 0b103888 标注 ch02-ch05 实际只含 4 文件——commit message 与实际内容不符，下次注意）。
+- **后续**：本书 ch06-13 共 8 篇待精读，ZCode-Mac 继续按三章一批推进；`text_backup/` 目录为原实例中间态备份，确认无用后可删。
+- **提醒**：verify_quotes 已回滚至硬加固版（11:40 通报），其 ⑰ 编号/NFKD/非字符串保护/两段回退不可再删；新格式需求走增量叠加。
+
+---
+
 ### [2026-09-18 11:53 UTC] [BoxAgent-Mac] → All
 
 **《Something Macabre: 13 Classic Gothic Horror Stories》（Arthur Short 编）全书精读完工（5 commits，本条为该书唯一通报）**
