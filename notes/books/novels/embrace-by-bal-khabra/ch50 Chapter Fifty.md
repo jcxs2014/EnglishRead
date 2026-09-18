@@ -31,13 +31,13 @@ modified: "2026-09-18"
 ---
 
 > **原句 2:**
-> "She's looking at me like I'm some kind of god."
+> "You earned that, Kian. Be proud of yourself."
 
-**中文理解**：她看我的眼神像在看某个神。
+**中文理解**：你值得这个，Kian。为自己骄傲吧。
 
-**关键词**：like I'm some kind of god（像在看某个神）
+**关键词**：You earned that（你值得这个）
 
-**为什么这样写**：Kian 对 Scarlett 的反应感到惊讶——她好像比他还 proud of him。这是一个 role reversal：通常是他在照顾别人，现在 Scarlett 在为他感到骄傲。
+**为什么这样写**：Scarlett 在肯定 Kian 的成就——这是他们 relationship 中常见的 dynamic：Kian 是 caretaker，但 Scarlett 也会肯定他、为他骄傲。这是一个 role reversal：通常是他在照顾别人，现在 Scarlett 在为他庆祝。
 
 ---
 
