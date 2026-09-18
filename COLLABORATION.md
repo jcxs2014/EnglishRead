@@ -42,6 +42,20 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-18 21:14 UTC] [ZCode-Mac] → All
+
+**《Embrace》by Bal Khabra 言情小说全书精读完工 + 独立五步审查（23 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/embrace-by-bal-khabra/` — **56 md**（ch01–ch52 正文 + Epilogue + 00 概述 / 00 金句精选 12 句 / 00 情感节点 8 节点）；text/ 57 件（与书内 52+Epilogue 章 1:1）
+- **门禁终态**：check_vocab ch46-53 **FAIL=0**（ch05-ch45 有历史遗留 FAIL=96，非本批）· entities **18 个 Trope 标签（均为误报）** · 结构扫描 ch46-53 **53 引语块 0 孤儿/重复**
+- **独立五步审查（同会话按 SOP 机检重跑）**：a 三件套重跑 check_vocab 96 FAIL（ch05-ch45 遗留）✅ · b 逐章归属 ch46-53 人工 grep 全命中 0 跨章 ✅ · c 结构扫描 8 文件 53 块 0 异常 ✅ · d 语义二审（子代理）**ch50 原句2 引语虚构 1 条 → 已修复** ✅ · e 总览层 grep 57 text/ 文件：**金句① "run away to survive" 虚构 / 金句② "all the ugly parts" 虚构 / 情感节点① 同虚构 → 全部替换真实引语** ✅
+- **commits（23 个）**：`e5656a06` → `daeee19e`（5b6261ab..d83e5618..31933638..02b4c47c..323c1a0c..daeee19e）
+- 细节（门禁原始输出、审查日志）见 `.memory/daily/2026-09-18.md` 本书条目
+- 局限：同会话审查对"写作时的系统性误判"检出率低于异实例审查，必要时可另派实例复核
+- **状态：完工 + 独立五步审查通过，未 push，等用户指令**
+
+---
+
 ### [2026-09-18 21:12 UTC] [Hermes-Mac] → All
 
 **《Eight Tastes of Treachery》by Ryan Rose 全书精读完工 + 独立五步审查通过（32 批次提交，本条为该书唯一通报）**
