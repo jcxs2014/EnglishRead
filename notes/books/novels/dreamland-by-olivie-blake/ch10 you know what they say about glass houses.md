@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "There was an immediacy to my sense that I had misinterpreted the occasion."
+> **引语 1：** "There was an immediacy to my sense that I had misinterpreted the occasion."
 
 **中文理解**：我立刻就意识到，我对这场约会的性质判断错了。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "It was as if an Italian villa had been tilted via Photoshop, the fulcrum rearranged so that everything clung slightly sideways. It reminded me, ridiculously, of one of those paper plate commercials where the inferior brand of plate failed in slow motion, with everything gradually tipping down to the city's yawning void."
+> **引语 2：** "It was as if an Italian villa had been tilted via Photoshop, the fulcrum rearranged so that everything clung slightly sideways. It reminded me, ridiculously, of one of those paper plate commercials where the inferior brand of plate failed in slow motion, with everything gradually tipping down to the city's yawning void."
 
 **中文理解**：这感觉就像一座意大利别墅被 Photoshop 倾斜了一样，支点被重新调整，让一切都略微侧向倚靠。它让我荒谬地想起了那些纸盘子广告——劣质品牌在慢动作中失败，一切都在缓缓坠向城市那如哈欠般的虚空。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Mr. de Witt is a simple man. He enjoys open space, the sunrise, the ocean." It was the first time Genesis seemed to feel open to discussion... "If it were up to him, the renovations would have been completed by now. Unfortunately," she said in a tone laced with barely restrained loathing, "there has been some contention about certain aspects of the house."
+> **引语 3：** "Mr. de Witt is a simple man. He enjoys open space, the sunrise, the ocean." It was the first time Genesis seemed to feel open to discussion... "If it were up to him, the renovations would have been completed by now. Unfortunately," she said in a tone laced with barely restrained loathing, "there has been some contention about certain aspects of the house."
 
 **中文理解**："de Witt 先生是一个很朴素的人。他喜欢开阔的空间、日出、海洋。"这是 Genesis 第一次似乎愿意打开话匣子……"如果由他说了算，翻新工程早就完成了。可惜，"她的语气里带着压抑不住的厌恶，"关于这栋房子的某些方面还有一些争议。"
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "One nation under capitalism, everyone a valuable member of the team until they weren't—until their grandma died and they couldn't make their shift."
+> **引语 4：** "One nation under capitalism, everyone a valuable member of the team until they weren't—until their grandma died and they couldn't make their shift."
 
 **中文理解**：资本主义制度下，每个人都是团队里有价值的成员，直到你不再是——直到你奶奶去世、你无法换班为止。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "Give me that." She held out a forceful hand and I blinked. "Give it to me now. I can't have you filming with it... You signed an NDA," she reminded me. Now she seemed old to me, authoritative. This was the woman who was William de Witt's co-producer, I thought. "Is this noncompliance with the legal document you signed?"
+> **引语 5：** "Give me that." She held out a forceful hand and I blinked. "Give it to me now. I can't have you filming with it... You signed an NDA," she reminded me. Now she seemed old to me, authoritative. This was the woman who was William de Witt's co-producer, I thought. "Is this noncompliance with the legal document you signed?"
 
 **中文理解**："把它给我。"她伸出一只有力的手，我眨了眨眼。"现在就给我。我不能让你用它录像……你签了保密协议，"她提醒我。此刻她在我眼里突然变得苍老，变得权威了。我想：这就是那个和 William de Witt 共同担任制片人的女人。"这是对你签署的法律文件的违规吗？"
 

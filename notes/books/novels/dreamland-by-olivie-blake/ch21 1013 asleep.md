@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "'People are confusing,' she says with a shrug. 'Don't you think?'"
+> **引语 1：** "'People are confusing,' she says with a shrug. 'Don't you think?'"
 
 **中文理解**："人是让人困惑的，"她耸耸肩说。"你不觉得吗？"
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "'Fine,' she shouts, 'I want to know! What you've done. How far this goes.' The look on her face is dreamlike when she says, 'I want to know how much of it is real.'"
+> **引语 2：** "'Fine,' she shouts, 'I want to know! What you've done. How far this goes.' The look on her face is dreamlike when she says, 'I want to know how much of it is real.'"
 
 **中文理解**："好吧，"她喊道，"我想知道！你做了什么。这有多深。"当她说"我想知道有多少是真的"的时候，她脸上的表情像是做梦一样。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "'Do you remember when we were first bound?' you ask me whimsically from the mirror."
+> **引语 3：** "'Do you remember when we were first bound?' you ask me whimsically from the mirror."
 
 **中文理解**："你还记得我们第一次被绑定在一起的时候吗？"你在镜子中异想天开地问我。
 

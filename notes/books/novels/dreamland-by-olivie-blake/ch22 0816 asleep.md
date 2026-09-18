@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "'I was born in Los Angeles. In fact, I have lived in this house all my life.'"
+> **引语 1：** "'I was born in Los Angeles. In fact, I have lived in this house all my life.'"
 
 **中文理解**："我出生在洛杉矶。事实上，我在这座房子里住了我的一辈子。"
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "'I am just the executor of your will, the meat sack you use to transport yourself. I eat when you remember to eat, I sleep when you need me to sleep, or whenever you need me to be docile. I am obviously not in charge here.'"
+> **引语 2：** "'I am just the executor of your will, the meat sack you use to transport yourself. I eat when you remember to eat, I sleep when you need me to sleep, or whenever you need me to be docile. I am obviously not in charge here.'"
 
 **中文理解**："我只是你的意志的执行者，你用来运输自己的肉袋。当你想起来吃的时候我才吃，当你需要我睡的时候我才睡，或者当你需要我顺从的时候。我显然不是这里的主宰。"
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "'Anya is here again. She has the lipstick on, so I know this is a dream. You'd think that would be comforting, but just because I'm asleep doesn't mean you are.'"
+> **引语 3：** "'Anya is here again. She has the lipstick on, so I know this is a dream. You'd think that would be comforting, but just because I'm asleep doesn't mean you are.'"
 
 **中文理解**："Anya 又来了。她涂着口红，所以我知道这是梦。你可能觉得这就放心了，但只是因为我睡着了并不意味着你也睡着了。"
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "'Jude isn't my name.' It's short for Julian, to her, and for 'Jude the Betrayer,' to him. But my real name is your name."
+> **引语 4：** "'Jude isn't my name.' It's short for Julian, to her, and for 'Jude the Betrayer,' to him. But my real name is your name."
 
 **中文理解**："Jude 不是我的名字。"对她来说，这是 Julian 的简称，对"他"（William）来说，这是"骗子犹大"。但我的真实名字是你的名字。
 

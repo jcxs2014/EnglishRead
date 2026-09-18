@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "It was September and the Santa Anas were at it again, or maybe it was climate change. Without history for a benchmark, it was impossible to tell where the desert ended and global warming began. The days simply yawned into each other, pulled like taffy across the horizon, never not tourist season."
+> **引语 1：** "It was September and the Santa Anas were at it again, or maybe it was climate change. Without history for a benchmark, it was impossible to tell where the desert ended and global warming began. The days simply yawned into each other, pulled like taffy across the horizon, never not tourist season."
 
 **中文理解**：九月了，圣安娜风又来了——或者说也许是气候变迁。没有历史基准，根本分不清沙漠的边界在哪里、全球变暖从哪里开始。日子只是相互懒洋洋地延伸开来，像太妃糖一样被拉长在地平线上——什么时候都不是旅游旺季。日子只是拖得没完没了，永远都是旺季。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "It was, ask the city—or the developments multiplying virally along the undulating hills of Whitley Heights—an eyesore. Again, my mother was trying her best."
+> **引语 2：** "It was, ask the city—or the developments multiplying virally along the undulating hills of Whitley Heights—an eyesore. Again, my mother was trying her best."
 
 **中文理解**：这座建筑嘛，用这座城市的话说——或者说，用在惠特利岗上病毒式蔓延的开发项目的话说——就是个碍眼的东西。但我妈妈已经尽力了。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "My mom was grateful, but she was also a hustler. Maybe if she'd been born a Jen or a Liz or better yet a John and been acknowledged for the shark she really was, she might have gotten the respect she deserved."
+> **引语 3：** "My mom was grateful, but she was also a hustler. Maybe if she'd been born a Jen or a Liz or better yet a John and been acknowledged for the shark she really was, she might have gotten the respect she deserved."
 
 **中文理解**：我妈妈是懂得感恩的，但她同时也是个拼命抢机会的人。也许如果她生来是个"珍"或"莉兹"，或者更理想地是个"约翰"，被认可为她真正的那条鲨鱼，她也许早就得到了她应得的尊重。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "I couldn't have felt more idiotic, or more helpless, or more naked. Which are not the things you want to feel when you watch another person's life blink out."
+> **引语 4：** "I couldn't have felt more idiotic, or more helpless, or more naked. Which are not the things you want to feel when you watch another person's life blink out."
 
 **中文理解**：我不可能感到更愚蠢、更无助、更赤裸了——而这些恰恰是你不想在看着另一个人的生命消失时感受到的东西。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "He had an underfed look to him, long, ratty hair, scraped back in a bun with the strands pulled loose, like there had recently been hands in it, fingers grasping, probing, searching. There was a wild calm in his eye, an unnatural stillness."
+> **引语 5：** "He had an underfed look to him, long, ratty hair, scraped back in a bun with the strands pulled loose, like there had recently been hands in it, fingers grasping, probing, searching. There was a wild calm in his eye, an unnatural stillness."
 
 **中文理解**：他看起来营养不良，长长的乱发往后扎成发髻，发丝松散地垂落——就好像最近有人把手指插进去过，在里面抓挠、探索、搜寻。他的眼神里有种疯狂的平静，一种不自然的静止。
 
@@ -65,7 +65,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 6:** "Should I have seen this coming? Should I have known that whatever he saw when he looked at me would propel him to his doom?"
+> **引语 6：** "Should I have seen this coming? Should I have known that whatever he saw when he looked at me would propel him to his doom?"
 
 **中文理解**：我应该预见到这一幕吗？我应该知道，当他对视我时他看到了什么，让他走上了这条死路吗？
 

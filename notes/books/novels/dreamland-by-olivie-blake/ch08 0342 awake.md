@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "I open my eyes to find my pants are wet with something. There's a sharp pain in my leg, it stings. I probe around in the dark for the source of the wound while the ghost of a hacking cough boxes my ear, imperceptibly."
+> **引语 1：** "I open my eyes to find my pants are wet with something. There's a sharp pain in my leg, it stings. I probe around in the dark for the source of the wound while the ghost of a hacking cough boxes my ear, imperceptibly."
 
 **中文理解**：我睁开眼睛，发现我的裤子被什么东西浸湿了。小腿上传来一阵剧痛。我摸黑寻找伤口的来源，同时一阵咳嗽的幽灵般的回声在耳边回响，似有若无。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "There's a tinkle of sound, like shards of glass. My eyes adjust to the dark slowly. I recognize the box first, then its contents. Three hundred exquisite handcrafted Mexican tiles. An artist slaved over these, the manifestation of a life's work, a historic culture. I cut myself on them."
+> **引语 2：** "There's a tinkle of sound, like shards of glass. My eyes adjust to the dark slowly. I recognize the box first, then its contents. Three hundred exquisite handcrafted Mexican tiles. An artist slaved over these, the manifestation of a life's work, a historic culture. I cut myself on them."
 
 **中文理解**：有一种叮当声，像碎玻璃。我的眼睛慢慢适应了黑暗。我先认出了盒子，然后才认出里面的东西。三百块精美的手工墨西哥瓷砖。一位艺术家为这些付出了毕生心血，是一个生命作品的具现化，是一段历史的文化。我被它们割伤了。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "My phone buzzes in my pocket—a notification from one of the official Ara social media accounts. When I click it, the image it links to is one from earlier tonight. Thank you to our sponsors! A thousand shiny veneers, fancy suits, globes of male pattern balding."
+> **引语 3：** "My phone buzzes in my pocket—a notification from one of the official Ara social media accounts. When I click it, the image it links to is one from earlier tonight. Thank you to our sponsors! A thousand shiny veneers, fancy suits, globes of male pattern balding."
 
 **中文理解**：我的手机在口袋里震动——是来自某个 Ara 官方社交媒体账号的通知。我点开它，图片是今晚早些时候的。谢谢我们的赞助商！一千个闪亮的 veneer（表面装饰），花哨的西装，男性脱发的典型脑袋。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "But behind the mayor of Los Angeles is something out of place. A face turned the opposite direction … I zoom in. A girl in a red dress, half familiar, distracted by something."
+> **引语 4：** "But behind the mayor of Los Angeles is something out of place. A face turned the opposite direction … I zoom in. A girl in a red dress, half familiar, distracted by something."
 
 **中文理解**：但在洛杉矶市长的背后，有什么不对劲的地方。一张脸转向了相反的方向……我放大图片。一个穿着红裙子的女孩，半张脸很熟悉，被什么东西分散了注意力。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "I told you to stay away from the tile."
+> **引语 5：** "I told you to stay away from the tile."
 
 **中文理解**：我告诉过你不要靠近那块瓷砖。
 

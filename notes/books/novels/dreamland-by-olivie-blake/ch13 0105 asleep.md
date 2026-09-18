@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "Do you really think you can escape this? 'Yes.' There has to be a way out. Every story has an ending. 'I can. I will.'"
+> **引语 1：** "Do you really think you can escape this? 'Yes.' There has to be a way out. Every story has an ending. 'I can. I will.'"
 
 **中文理解**：你真的觉得你能逃开这个吗？"是的。"一定有一条出路。每个故事都有一个结局。"我能。我会的。"
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "The ritual is failing. What will come of you if the ritual fails?"
+> **引语 2：** "The ritual is failing. What will come of you if the ritual fails?"
 
 **中文理解**：仪式正在失败。如果仪式失败了，你会变成什么？
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "I am not an it, you say in my voice. But it's always my voice."
+> **引语 3：** "I am not an it, you say in my voice. But it's always my voice."
 
 **中文理解**：我不是"它"，你说——但用的是我的声音。可这永远都是我的声音。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "Then someone yells cut, and the scene starts again."
+> **引语 4：** "Then someone yells cut, and the scene starts again."
 
 **中文理解**：然后有人喊"卡"，然后场景重新开始。
 

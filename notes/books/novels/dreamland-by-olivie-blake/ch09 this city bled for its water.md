@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "I thought of the distance my mother kept from this part of the apartment building as more of a mystical thing, like it had been salted to keep away evil spirits."
+> **引语 1：** "I thought of the distance my mother kept from this part of the apartment building as more of a mystical thing, like it had been salted to keep away evil spirits."
 
 **中文理解**：我妈妈与公寓这部分的距离，我觉得更像是某种神秘的东西，就像是在那里撒了盐来驱邪一样。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "Unfortunately that could have meant almost anyone. Given my ambitions, I went around with a lot of white guys. I didn't exclusively date them or anything, but lately, in my desperation to repair my lost future, I'd had to zero in on a particular role."
+> **引语 2：** "Unfortunately that could have meant almost anyone. Given my ambitions, I went around with a lot of white guys. I didn't exclusively date them or anything, but lately, in my desperation to repair my lost future, I'd had to zero in on a particular role."
 
 **中文理解**：不幸的是，这可能意味着几乎任何一个人。鉴于我的野心，我和很多白人男性约会。但我并不是只和他们约会——但最近，在我拼命想要修复我失去的未来时，我不得不锁定一个特定的角色。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "I really couldn't judge Teddy for his fetish when I had predilections of my own to contend with. Glass houses and all that."
+> **引语 3：** "I really couldn't judge Teddy for his fetish when I had predilections of my own to contend with. Glass houses and all that."
 
 **中文理解**：我真的没办法评判 Teddy 的恋物癖，因为我自己也有自己的偏好。 glass houses and all that（住在玻璃房子里就别扔石头了）。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "I actually just got a job offer from William de Witt," I said. "Well, from his wife or something." I'd googled Emmanuelle from the waiting room of my callback, but as with most non-actors in the industry, I uncovered very little—a mention in Deadline, a few production credits, all related to films made by William de Witt's company, Ara."
+> **引语 4：** "I actually just got a job offer from William de Witt," I said. "Well, from his wife or something." I'd googled Emmanuelle from the waiting room of my callback, but as with most non-actors in the industry, I uncovered very little—a mention in Deadline, a few production credits, all related to films made by William de Witt's company, Ara."
 
 **中文理解**："我实际上刚收到了 William de Witt 的工作邀请，"我说。"呃，算是他妻子给的。"我在试镜的候等室里谷歌了 Emmanuelle，但和业内大多数非演员一样，我找到的东西很少——只是在 Deadline 上有一个提及，几个制作人员名单，都与 William de Witt 的公司 Ara 有关。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "His touch on her back lingered in my mind, seared there like a permanent impression."
+> **引语 5：** "His touch on her back lingered in my mind, seared there like a permanent impression."
 
 **中文理解**：他对 Emmanuelle 背部的那种触碰方式，印刻在我的脑海里，像一个永久的印记一样烧灼不去。
 

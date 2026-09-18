@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "Stories like this revolve around the voiceless and so, without further ado, we will speak."
+> **引语 1：** "Stories like this revolve around the voiceless and so, without further ado, we will speak."
 
 **中文理解**：这样的故事总是围绕着失语者展开——所以，我们不再赘言，直接开口。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "You will love us the way we deserve to be loved!"
+> **引语 2：** "You will love us the way we deserve to be loved!"
 
 **中文理解**：你们会以我们应得的方式爱我们！
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Time is a funny thing in Los Angeles, where the sun is nearly always shining—"
+> **引语 3：** "Time is a funny thing in Los Angeles, where the sun is nearly always shining—"
 
 **中文理解**：在洛杉矶，时间是个奇怪的东西——那里的太阳几乎永远高照。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "Found Tuesday, 6:00 AM, on Sunset—"
+> **引语 4：** "Found Tuesday, 6:00 AM, on Sunset—"
 
 **中文理解**：（尸体）周二早六点于日落大道被发现——
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "They will say, but what was she wearing?"
+> **引语 5：** "They will say, but what was she wearing?"
 
 **中文理解**：他们会说，但她穿什么了？
 
@@ -65,7 +65,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 6:** "Love, he will call it, before you abruptly blink out."
+> **引语 6：** "Love, he will call it, before you abruptly blink out."
 
 **中文理解**：爱，他会这样称呼它——在你骤然消失之前。
 
@@ -75,7 +75,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 7:** "The truth is: You die the moment they stop speaking your name."
+> **引语 7：** "The truth is: You die the moment they stop speaking your name."
 
 **中文理解**：真相是：当他们停止呼唤你的名字的那一刻，你就已经死了。
 
@@ -85,7 +85,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 8:** "Listen closely now, closely."
+> **引语 8：** "Listen closely now, closely."
 
 **中文理解**：现在仔细听，仔细听。
 

@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "'He's trying to kill me,' the monster said."
+> **引语 1：** "'He's trying to kill me,' the monster said."
 
 **中文理解**："他要杀我，"怪物说。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "He smiled courteously. Mockingly. 'But he can't,' the monster finished. Purringly, with satisfaction."
+> **引语 2：** "He smiled courteously. Mockingly. 'But he can't,' the monster finished. Purringly, with satisfaction."
 
 **中文理解**：他礼貌地微笑着。嘲笑地。"但他不能，"怪物说完。满意地，声音低沉。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Oh." The word left me like a puncture to a lung. I took another careful step back.
+> **引语 3：** "Oh." The word left me like a puncture to a lung. I took another careful step back.
 
 **中文理解**："哦。"这个词像刺穿我的肺一样离开了我的嘴。我小心翼翼地又退了一步。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "'You can run,' the monster said. 'I won't chase you. Not today.'"
+> **引语 4：** "'You can run,' the monster said. 'I won't chase you. Not today.'"
 
 **中文理解**："你可以跑，"怪物说。"我不会追你。今天不会。"
 

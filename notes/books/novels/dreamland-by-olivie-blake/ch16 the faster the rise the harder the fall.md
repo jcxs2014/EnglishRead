@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "You think permission into this house means you are welcome here. You're not."
+> **引语 1：** "You think permission into this house means you are welcome here. You're not."
 
 **中文理解**：你以为进入这座房子的许可意味着你受到这里的欢迎。你不是。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "Do you believe in evil?" Jude asked me. "I believe that people are complex," I said... "I didn't ask if you believe people are capable of evil. I asked if you believe it exists."
+> **引语 2：** "Do you believe in evil?" Jude asked me. "I believe that people are complex," I said... "I didn't ask if you believe people are capable of evil. I asked if you believe it exists."
 
 **中文理解**："你相信邪恶吗？"Jude 问我。"我相信人是复杂的，"我说……"我没有问你是否相信人能够做恶。我问的是你是否相信恶是存在的。"
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "Epilepsy. It's called the sacred disease. The Greeks thought the seizures were brought on by gods. Some people with epilepsy believe they have visions."
+> **引语 3：** "Epilepsy. It's called the sacred disease. The Greeks thought the seizures were brought on by gods. Some people with epilepsy believe they have visions."
 
 **中文理解**：癫痫。它被称为"神圣疾病"。希腊人认为发作是由神引起的。有些癫痫患者相信他们能看到异象。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "I think you know what I don't have."
+> **引语 4：** "I think you know what I don't have."
 
 **中文理解**：我想你知道我所没有的东西。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "You need to leave. You think he doesn't see it. But he does."
+> **引语 5：** "You need to leave. You think he doesn't see it. But he does."
 
 **中文理解**：你需要离开。你以为他看不到。但他能。
 

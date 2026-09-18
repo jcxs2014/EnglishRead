@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "Are you seeing this?" I ask it. Yes, you chuckle in my head."
+> **引语 1：** "Are you seeing this?" I ask it. Yes, you chuckle in my head."
 
 **中文理解**："你在看这个吗？"我问那个（镜头）。是的，你在我的脑子里咯咯笑着。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "'Shut up,' I mutter. 'Please, just shut up.' Your voice turns simpering. But then who would you talk to?"
+> **引语 2：** "'Shut up,' I mutter. 'Please, just shut up.' Your voice turns simpering. But then who would you talk to?"
 
 **中文理解**："闭嘴，"我喃喃说。"求你了，就不能安静一会儿吗。"你的声音变得阿谀奉承起来。"但那样的话，你要跟谁说话呢？"
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "'You're keeping me alive,' I whisper. 'But for what?'"
+> **引语 3：** "'You're keeping me alive,' I whisper. 'But for what?'"
 
 **中文理解**："你让我活着，"我低声说。"但为了什么？"
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "'For fun!' you say. A lilting melody shanties through my head. 'Why, aren't you enjoying yourself?'"
+> **引语 4：** "'For fun!' you say. A lilting melody shanties through my head. 'Why, aren't you enjoying yourself?'"
 
 **中文理解**："为了开心！"你说。一首轻快的旋律在我脑海中飘荡。"怎么，你玩得不开心吗？"
 

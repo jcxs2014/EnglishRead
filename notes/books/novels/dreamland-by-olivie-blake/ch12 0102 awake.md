@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "I wake briefly to blinding white. Is it over?"
+> **引语 1：** "I wake briefly to blinding white. Is it over?"
 
 **中文理解**：我在刺眼的白光中短暂醒来。结束了吗？
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "'Just leave me alone.' The rest of my paintings, if you can call them that, appear on the walls."
+> **引语 2：** "'Just leave me alone.' The rest of my paintings, if you can call them that, appear on the walls."
 
 **中文理解**："就让我一个人待着。"我的其他画作——如果你可以叫它们"画作"的话——出现在墙上。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "'Stop,' I mutter. Stop what? They're your paintings."
+> **引语 3：** "'Stop,' I mutter. Stop what? They're your paintings."
 
 **中文理解**："停下来，"我喃喃自语。停下来什么？它们是你的画作。
 

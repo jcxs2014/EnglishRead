@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "I woke up the next morning in my own bed, inexplicably, still wearing the jeans that had been plastered to my legs."
+> **引语 1：** "I woke up the next morning in my own bed, inexplicably, still wearing the jeans that had been plastered to my legs."
 
 **中文理解**：第二天早上我在自己的床上醒来，原因不明，身上还穿着那条紧贴在我腿上的牛仔裤。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "Was it possible to be so drunk you could forget a basic tenet of your own survival?"
+> **引语 2：** "Was it possible to be so drunk you could forget a basic tenet of your own survival?"
 
 **中文理解**：有没有可能醉到忘记生存的基本原则？
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "I was swallowing another violent rush of bile just as I heard a knock on my bedroom door. 'Hija. The police are here.'"
+> **引语 3：** "I was swallowing another violent rush of bile just as I heard a knock on my bedroom door. 'Hija. The police are here.'"
 
 **中文理解**：我正在吞下另一波强烈的吐意，就在这时我听到卧室门外有敲门声。"女儿。警察来了。"
 

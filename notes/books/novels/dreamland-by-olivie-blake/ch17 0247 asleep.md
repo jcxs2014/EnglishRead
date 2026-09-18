@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "In the dream she calls out to me for help, but I am frozen, the blood starting to dry on my hands."
+> **引语 1：** "In the dream she calls out to me for help, but I am frozen, the blood starting to dry on my hands."
 
 **中文理解**：在梦里，她向我呼救，但我被冻住了，血开始在我的手上变干。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "She looks so frightened. There's so much blood."
+> **引语 2：** "She looks so frightened. There's so much blood."
 
 **中文理解**：她看起来非常害怕。血太多了。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "This is a dream," I tell myself. "I know it isn't real because I would never do this."
+> **引语 3：** "This is a dream," I tell myself. "I know it isn't real because I would never do this."
 
 **中文理解**：这是梦，我告诉自己。我知道我不会做这种事，所以这不是真实的。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "'Jude,' she says. 'There you are,' she says, and she's trying to sound calm, but her face is streaked with messy tears."
+> **引语 4：** "'Jude,' she says. 'There you are,' she says, and she's trying to sound calm, but her face is streaked with messy tears."
 
 **中文理解**："Jude，"她说。"你在这儿，"她说——她试图让自己的声音听起来平静，但她的脸上满是泪痕。
 

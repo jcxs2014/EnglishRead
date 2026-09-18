@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "THEY'D BEEN CALLING IT the summer of exsanguination; not that I worried about those things at the time. When you're young, nothing can touch you. You never think it's going to be your body on the ground, your organs spilling out onto the sidewalk. At twenty-two, nothing but the risk of ubiquity is ever all that real."
+> **引语 1：** "THEY'D BEEN CALLING IT the summer of exsanguination; not that I worried about those things at the time. When you're young, nothing can touch you. You never think it's going to be your body on the ground, your organs spilling out onto the sidewalk. At twenty-two, nothing but the risk of ubiquity is ever all that real."
 
 **中文理解**：他们把那称为"大失血之夏"；但我当时对这些并不担心。年轻的时候，什么都伤不到你。你从来不觉得倒在地上的会是自己，你的器官就那样淌在人行道上。二十二岁时，唯一真实的只有"无处不在"的风险。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "Back then, whenever the void came calling, I liked to play a little game with myself called Could I Survive It? A simple game, where I would imagine myself in some kind of terrifying situation, and it was like a puzzle, sudoku or something, to see how I'd make it out alive."
+> **引语 2：** "Back then, whenever the void came calling, I liked to play a little game with myself called Could I Survive It? A simple game, where I would imagine myself in some kind of terrifying situation, and it was like a puzzle, sudoku or something, to see how I'd make it out alive."
 
 **中文理解**：那时候，每当虚空来袭，我喜欢和自己玩一个叫"我能活下来吗"的小游戏。规则很简单——想象自己处于某种可怕的处境，然后像解数独一样，看自己能怎么活着逃出来。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "The denizens of this city are never not performing, so that the performance becomes the mask becomes the person in their entirety and so on, indistinguishably."
+> **引语 3：** "The denizens of this city are never not performing, so that the performance becomes the mask becomes the person in their entirety and so on, indistinguishably."
 
 **中文理解**：这座城市的居民从不停止表演，以至于表演变成面具、面具变成人本身，如此递进，不可分辨。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "He was what I wanted to be—ethereal, eternal. All charisma and sex appeal; inimitable, intangible."
+> **引语 4：** "He was what I wanted to be—ethereal, eternal. All charisma and sex appeal; inimitable, intangible."
 
 **中文理解**：他正是我想成为的人——空灵，永生。浑身是魅力和性吸引力；无法模仿，难以名状。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "real artists don't decide they want to be artists, they simply can't help it; art comes for them with a knife."
+> **引语 5：** "real artists don't decide they want to be artists, they simply can't help it; art comes for them with a knife."
 
 **中文理解**：真正的艺术家不会"决定"要成为艺术家，他们只是身不由己；艺术会拿着刀来找他们。
 
@@ -65,7 +65,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 6:** "I was young enough to believe every romance was inherently Bluebeardian. Locked doors, deadly secrets. A deep, insidious longing for someone to be a little bit mean to me, which subconsciously I deserved."
+> **引语 6：** "I was young enough to believe every romance was inherently Bluebeardian. Locked doors, deadly secrets. A deep, insidious longing for someone to be a little bit mean to me, which subconsciously I deserved."
 
 **中文理解**：我当时太年轻了，以为所有的恋情本质上都是《蓝胡子》式的——锁上的门，致命的秘密。一种隐秘的渴望，渴望有人对我稍微残忍一点，而我觉得这，是我应得的。
 

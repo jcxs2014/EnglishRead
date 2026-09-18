@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "His NAME WAS TEDDY Finch and I hadn't seen him since high school, though his username (@PhinchsPhotos) was a constant on my socials. I only had about three thousand and some followers at the time, though I didn't let it worry me. As Grandma would say, Jesus had only twelve."
+> **引语 1：** "His NAME WAS TEDDY Finch and I hadn't seen him since high school, though his username (@PhinchsPhotos) was a constant on my socials. I only had about three thousand and some followers at the time, though I didn't let it worry me. As Grandma would say, Jesus had only twelve."
 
 **中文理解**：他叫 Teddy Finch，我和他在高中毕业后就没见过面了——不过他的用户名（@PhinchsPhotos）一直是我社交媒体上的常客。当时我大概有三千出头的粉丝，不过我并不为此烦恼。用奶奶的话说，耶稣也就只有十二个。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "I knew, too, that a little transaction wouldn't hurt. If I simply behaved like The One Who Got Away, who'd always secretly adored him from a distance, then perhaps that would grant me the latitude to one day ask So is your mom working on anything new? How about your dad? Any chance they need a brilliant up-and-coming actress?"
+> **引语 2：** "I knew, too, that a little transaction wouldn't hurt. If I simply behaved like The One Who Got Away, who'd always secretly adored him from a distance, then perhaps that would grant me the latitude to one day ask So is your mom working on anything new? How about your dad? Any chance they need a brilliant up-and-coming actress?"
 
 **中文理解**：我也知道，一点小小的交易没什么坏处。如果我表现得像那个"错过的真爱"——那个一直在远处偷偷崇拜他的前任——那也许能给我空间，有朝一日问出：那你妈妈最近有新项目吗？你爸爸呢？他们需不需要一个才华横溢、前途无量的女演员？
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "My philosophy was very simple. (A prayer: If this dream goes unrealized, it won't be because of anything I didn't do. If I fail, it will be because fate conspired against me. Because luck is fleeting and cruel. But not because I chose to let opportunity pass me by.)"
+> **引语 3：** "My philosophy was very simple. (A prayer: If this dream goes unrealized, it won't be because of anything I didn't do. If I fail, it will be because fate conspired against me. Because luck is fleeting and cruel. But not because I chose to let opportunity pass me by.)"
 
 **中文理解**：我的哲学很简单。（一句祈祷：如果这个梦想没有实现，那不会是因为我没有做任何事。如果我失败了，那是因为命运在和我作对。因为运气是短暂而残忍的。但绝不是因为我自己选择让机会从指缝间溜走。）
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "He smelled expensive, cool. The acne had been dealt with. He was taller than I remembered. If I'd met him at a bar or on an app I think I would have been readily slotted in."
+> **引语 4：** "He smelled expensive, cool. The acne had been dealt with. He was taller than I remembered. If I'd met him at a bar or on an app I think I would have been readily slotted in."
 
 **中文理解**：他闻起来很贵，很酷。痘痘已经被处理掉了。他比我记忆里高了。如果我在酒吧或者社交软件上遇见他，我想我会很快就被归类进去。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "Katrina Chen, the valedictorian who'd been a year above him (tiny, nerdy Asian). Sage Nakamura, who modeled for J.Crew (lithe, willowy Asian). Liv Huynh, who went on to play water polo for USC (stocky, athletic Asian). Beautiful, smart, accomplished girls who became beautiful, smart, accomplished women—all more accomplished than me, in fact."
+> **引语 5：** "Katrina Chen, the valedictorian who'd been a year above him (tiny, nerdy Asian). Sage Nakamura, who modeled for J.Crew (lithe, willowy Asian). Liv Huynh, who went on to play water polo for USC (stocky, athletic Asian). Beautiful, smart, accomplished girls who became beautiful, smart, accomplished women—all more accomplished than me, in fact."
 
 **中文理解**：Katrina Chen，年级第一，比他高一届（娇小、书呆子气的亚洲女孩）。Sage Nakamura，为 J.Crew 做模特（苗条、优雅的亚洲女孩）。Liv Huynh，后来在南加州大学打水球（健壮、运动型的亚洲女孩）。每一个都是漂亮、聪明、有成就的女孩——也都变成了漂亮、聪明、有成就的女人——事实上每一个都比我更成功。
 

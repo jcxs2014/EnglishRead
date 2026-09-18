@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "Every story ends in death," she said.
+> **引语 1：** "Every story ends in death," she said.
 
 **中文理解**：每个故事都以死亡结尾，她说。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "Fate isn't so simple, anak. You don't have an ending set in stone."
+> **引语 2：** "Fate isn't so simple, anak. You don't have an ending set in stone."
 
 **中文理解**：命运没有那么简单，孩子。你的结局不是一成不变的。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "The trouble with futures is that they always appear changeable from the outside; you can always imagine what you might have done differently if you'd known how things would turn out. But we live on the inside."
+> **引语 3：** "The trouble with futures is that they always appear changeable from the outside; you can always imagine what you might have done differently if you'd known how things would turn out. But we live on the inside."
 
 **中文理解**：未来的麻烦在于，它从外部看总是可以改变的；如果你知道事情会如何发展，你总是可以想象自己会有什么不同的做法。但我们生活在内部。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "Kid, nobody with this kind of money is normal. Fame doesn't come to the levelheaded."
+> **引语 4：** "Kid, nobody with this kind of money is normal. Fame doesn't come to the levelheaded."
 
 **中文理解**：孩子，没有人有钱到那种程度还正常。名声不会降临在理智的人身上。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "So if he asks you to carry drugs or corpses, make sure you negotiate an EP credit."
+> **引语 5：** "So if he asks you to carry drugs or corpses, make sure you negotiate an EP credit."
 
 **中文理解**：所以如果他让你携带毒品或尸体，确保你谈到一个执行制片人的头衔。
 

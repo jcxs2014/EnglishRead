@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "So you watched this guy almost kill a man," she posited emphatically, "and then you thought you'd just take him to the ER instead of calling the fucking police?"
+> **引语 1：** "So you watched this guy almost kill a man," she posited emphatically, "and then you thought you'd just take him to the ER instead of calling the fucking police?"
 
 **中文理解**："所以你就看着那个家伙差点把另一个人打死，"她强调地推理道，"然后你觉得你应该把他送到急诊室，而不是报警？"
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "better question is am I ever not doing weird shit for the de wrights was his reply, which didn't help."
+> **引语 2：** "better question is am I ever not doing weird shit for the de wrights was his reply, which didn't help."
 
 **中文理解**：更好的问题是，我什么时候没在为 de Witt 家族做古怪的事——这是他的回复，毫无帮助。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "sane? questionable. no personality diagnoses on the record but everything else is a real gray area."
+> **引语 3：** "sane? questionable. no personality diagnoses on the record but everything else is a real gray area."
 
 **中文理解**："精神正常？这个值得质疑。档案里没有性格诊断的记录，但其他一切都是真正的灰色地带。"
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "One day she's missing and the next she's dismembered in the middle of a parking lot with a bunch of cheap lipstick drawn on her face."
+> **引语 4：** "One day she's missing and the next she's dismembered in the middle of a parking lot with a bunch of cheap lipstick drawn on her face."
 
 **中文理解**：有一天她失踪了，第二天她就被肢解在停车场里，脸上被人画了一堆廉价口红。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "Obviously I had to quit. There was nothing for it, really. I thought of Julian's face, the sound of crunching bone. The animal way his eyes met mine. The way it gave me a thrill of something. A thrill, period."
+> **引语 5：** "Obviously I had to quit. There was nothing for it, really. I thought of Julian's face, the sound of crunching bone. The animal way his eyes met mine. The way it gave me a thrill of something. A thrill, period."
 
 **中文理解**：显然我必须辞职。这没有什么好多想的。我想到 Julian 的脸，骨头碎裂的声音。他的眼神与我相遇时的那种兽性。以及它给我带来的那种兴奋感。一种兴奋感，仅此而已。
 

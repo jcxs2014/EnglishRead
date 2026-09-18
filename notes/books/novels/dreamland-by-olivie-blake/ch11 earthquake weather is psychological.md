@@ -15,7 +15,7 @@ modified: "2026-09-15"
 
 ## 精读
 
-> **原句 1:** "There, a moment of clarity. I slowed a little, watching my step, choosing myself and my life over the veil of possible harm to my evasive new charge."
+> **引语 1：** "There, a moment of clarity. I slowed a little, watching my step, choosing myself and my life over the veil of possible harm to my evasive new charge."
 
 **中文理解**：那一刻，我头脑清醒了一些。我放慢了脚步，看着我的脚下，在我自己和我那正在逃跑的新"被看护对象"之间可能造成的伤害之间，我选择了保全我自己。
 
@@ -25,7 +25,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 2:** "The moment he left I bolted after him, unsure what I planned to do when or if I managed to catch up."
+> **引语 2：** "The moment he left I bolted after him, unsure what I planned to do when or if I managed to catch up."
 
 **中文理解**：他一离开我就冲了出去，不确定如果我真的追上了他，我打算做什么。
 
@@ -35,7 +35,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 3:** "There he was. With that same look in his eye, the thing that edged so close to despair I almost couldn't breathe for looking at it. The eyes that were ocean gray, like the crest of a dying wave."
+> **引语 3：** "There he was. With that same look in his eye, the thing that edged so close to despair I almost couldn't breathe for looking at it. The eyes that were ocean gray, like the crest of a dying wave."
 
 **中文理解**：他在那里，眼睛里是同样的神情——那种几乎让我无法呼吸的、近乎绝望的东西。那双眼睛是海洋灰色的，像即将消亡的浪涛。
 
@@ -45,7 +45,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 4:** "It wasn't … human."
+> **引语 4：** "It wasn't … human."
 
 **中文理解**：那不是……人类的。
 
@@ -55,7 +55,7 @@ modified: "2026-09-15"
 
 ---
 
-> **原句 5:** "Whoever I'd followed earlier that evening, the man who'd been losing this fight—whoever that was who'd walked in front of the bus to his death—that was a different person. This was something else. Something worse."
+> **引语 5：** "Whoever I'd followed earlier that evening, the man who'd been losing this fight—whoever that was who'd walked in front of the bus to his death—that was a different person. This was something else. Something worse."
 
 **中文理解**：无论我那天晚上早些时候跟踪的那个人是谁——那个在拳击里即将落败的人，那个走向公共汽车去赴死的人——那是另一个人。这是完全不同的另一个。是更糟糕的东西。
 
