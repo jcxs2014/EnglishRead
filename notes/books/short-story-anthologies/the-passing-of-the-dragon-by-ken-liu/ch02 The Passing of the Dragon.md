@@ -6,7 +6,7 @@ modified: "2026-09-18"
 
 # The Passing of the Dragon
 
-## 概览
+## 本篇导航
 
 - **出处**：*The Passing of the Dragon and Other Stories* by Ken Liu，ch03（全文 791 行，约 67k 字符）
 - **栏目/来源**：文学科幻/奇幻短篇，属 Ken Liu 短篇合集第三篇
@@ -40,15 +40,15 @@ modified: "2026-09-18"
 
 ---
 
-## 逐句精读
+## 精读
 
 ### 第一段：朝圣者的焦虑
 
-> ② Kay turns right when she reaches the cove shore, away from the wind; it's nice not to have the howling December wind in her face for a while, each blast the stroke of a sandpaper palm across her cheeks.
+> **原句 1:** Kay turns right when she reaches the cove shore, away from the wind; it’s nice not to have the howling December wind in her face for a while, each blast the stroke of a sandpaper palm across her cheeks.
 
 **中文理解**：Kay 在海湾岸边转向右边，避开寒风——终于不用被尖利的十二月冷风打在脸上了，每一阵风都像砂纸般划过她的面颊。
 
-**句子结构**：复合句；主句 `Kay turns right` + 分号连接的伴随状语 `it's nice not to have...` + `each blast the stroke of a sandpaper palm`（独立结构，省略 be 动词，视觉化描写风的质感）。
+**句子结构**：复合句；主句 `Kay turns right` + 分号连接的独立分句 `it's nice not to have...` + `each blast the stroke of a sandpaper palm`（独立结构，省略 be 动词，视觉化描写风的质感）。
 
 **关键词**：`cove shore`（海湾岸）/ `the stroke of a sandpaper palm`（砂纸手掌的触感——将风具象化为触觉意象）/ `howling December wind`
 
@@ -58,7 +58,7 @@ modified: "2026-09-18"
 
 ---
 
-> ③ "Should be right around here," she mutters to herself before trekking on.
+> **原句 2:** "Should be right around here," she mutters to herself before trekking on.
 
 **中文理解**："应该就在这附近了。"她嘟囔着，继续跋涉。
 
@@ -72,11 +72,11 @@ modified: "2026-09-18"
 
 ---
 
-> ⑤ We reminisced late into the night— / Empty wine bottles rattling along the kitchen floor— / "Let it go, Freddy"— / Laughing like hyenas at this memory and that— / "Oh we were so young!"— / Until someone lit a cigarette and coughed. / Through the haze we looked at each other / Mesmerized by the void between / Our constituent atoms / Falling away from one another.
+> **原句 3:** We reminisced late into the night— / Empty wine bottles rattling along the kitchen floor— / "Let it go, Freddy"— / Laughing like hyenas at this memory and that— / "Oh we were so young!"— / Until someone lit a cigarette and coughed. / Through the haze we looked at each other / Mesmerized by the void between / Our constituent atoms / Falling away from one another.
 
 **中文理解**："我们彻夜追忆——空酒瓶沿着厨房地板滚动的叮当声——'放手吧，弗雷迪'——我们像鬣狗一样大笑，回忆这个那个——'哦，我们那时多年轻啊！'——直到有人点了一根烟，咳了起来。穿过烟雾，我们彼此对视，被原子之间的虚空所迷住，我们的原子正在彼此分离。"
 
-**句子结构**：诗歌排比段落——Chilton 诗作《AVisit》原文嵌入叙事；分行结构，以破折号与换行构建节奏；最终三行转为散文式形而上陈述。
+**句子结构**：诗歌排比段落——Chilton 诗作《AVisit》原文嵌入叙事；分行结构，以破折号与换行构建节奏；末四行转为散文式形而上陈述。
 
 **关键词**：`reminisced`（追忆）/ `the void between / Our constituent atoms`（原子间的虚空——科学诗意融合）/ `Falling away from one another`（分离、消散）
 
@@ -86,7 +86,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑦ Why is this poem her favorite? Does she also fear there is nothing but the void between atoms and among stars, once her syllables have dissolved back to entropic sound? What does it say about her that at thirty-four she already thinks her career as an artist is over, or perhaps that it has never started?
+> **原句 4:** Why is this poem her favorite? Does she also fear there is nothing but the void between atoms and among stars, once her syllables have dissolved back to entropic sound? What does it say about her that at thirty-four she already thinks her career as an artist is over, or perhaps that it has never started?
 
 **中文理解**：为什么这首诗是她最爱的？当她的音节消散回熵的声音，她是否也害怕原子之间与星辰之间空无一物？三十四岁就认为自己的艺术生涯已经结束——或者从未开始——这说明了她是什么样的人？
 
@@ -102,7 +102,7 @@ modified: "2026-09-18"
 
 ### 第二段：龙降
 
-> ⑨ Something begins to glow in the south, beyond and through the falling veil of evening.
+> **原句 5:** Something begins to glow in the south, beyond and through the falling veil of evening.
 
 **中文理解**：有什么东西在南方亮起来，穿过黄昏的幕布，超越它。
 
@@ -116,24 +116,24 @@ modified: "2026-09-18"
 
 ---
 
-> ⑩ Moment by moment, the creature approaches. Its shadow blots out half the sky. Its call drowns out all other sound. It seems to have a thousand eyes and no eyes at all. Each wingbeat feels like a breath taken by the universal lung, the perpetual bellows that drives all Life in the Dao De Jing. The creature is the platonic ideal of Creature, the very Form of all consciousness.
+> **原句 6:** Moment by moment, the creature approaches. Its shadow blots out half the sky. Its call drowns out all other sound. It seems to have a thousand eyes and no eyes at all. Each wingbeat feels like a breath taken by the universal lung, the perpetual bellows that drives all Life in the Dao De Jing. The creature is the platonic ideal of Creature, the very Form of all consciousness.
 
 **中文理解**：那生物一点一点地逼近。影子遮蔽了半边天空。叫声淹没了一切其他声音。它似乎有千眼，又似乎全无眼睛。每一次翅膀的拍动都像是宇宙之肺的一次呼吸，是驱动《道德经》中一切生命的永恒风箱。那生物是生物的柏拉图理念，是一切意识的终极形式。
 
-**句子结构**：排比短句序列（anaphora 修辞）——每个句子都以 `Its / Each / The` 等所有格开头，形成节奏感极强的视觉-听觉-触觉-哲学的递进。
+**句子结构**：排比短句序列（anaphora 修辞）——每个句子都以 `Its / Each / The` 等限定词开头，形成节奏感极强的视觉-听觉-触觉-哲学的递进。
 
 **关键词**：`blots out half the sky`（遮蔽半边天）/ `the universal lung`（宇宙之肺——道德经意象）/ `the platonic ideal of Creature`（柏拉图理念）
 
 **表达方式**：
 - 视觉（影子遮天）→ 听觉（叫声压世）→ 触觉（翅膀如呼吸）→ 哲学（柏拉图理念）的感官递进
-- 佛道（Dao De Jing）→ 西方哲学（Plato）的双重哲学框架
+- 道家（Dao De Jing）→ 西方哲学（Plato）的双重哲学框架
 - `a thousand eyes and no eyes at all`：矛盾修辞（oxymoron），龙既是全知的又是无形的
 
 **为什么这样写**：刘宇昆将西方形而上学（Plato）与东方道家（Dao De Jing）融合在同一段中，暗示"龙"是超越文化边界的普遍性体验的象征；这是小说核心主题"普遍性"（universality）的第一次正面呈现。
 
 ---
 
-> ⑪ In that moment, she understands all the poems she has ever read; she grasps all the paintings and statues and photographs she has ever puzzled over; she sees the grace in every sidewalk crack, every wearily slumped shoulder, every tired face asking, What is this about?
+> **原句 7:** In that moment, she understands all the poems she has ever read; she grasps all the paintings and statues and photographs she has ever puzzled over; she sees the grace in every sidewalk crack, every wearily slumped shoulder, every tired face asking, What is this about?
 
 **中文理解**：那一刻，她理解了所有她读过的诗；她领悟了所有她曾困惑过的画作、雕塑和照片；她在每一条人行道裂缝、每一个疲惫不堪的肩膀、每一张写着"这有什么意义？"的倦容中，都看到了优雅。
 
@@ -147,7 +147,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑫ "I'm looking at a dragon!" she screams, not caring who hears her. "A dragon!"
+> **原句 8:** "I’m looking at a dragon!" she screams, not caring who hears her. "A dragon!"
 
 **中文理解**："我在看一条龙！"她大喊，不在乎谁会听见。"一条龙！"
 
@@ -165,30 +165,30 @@ modified: "2026-09-18"
 
 ### 第三段：画不出的龙
 
-> ⑬ She paints.
+> **原句 9:** She paints.
 
 **中文理解**：她画了起来。
 
-**句子结构**：极简短句（incomplete sentence），主语 + 动词，无宾语，无修饰语。
+**句子结构**：极简完整句（主谓齐全，无宾语、无修饰语），两个词即成一句。
 
 **关键词**：`She paints`（单三现在时——进行时态的强调）
 
 **表达方式**：
 - 句号后紧接 "She paints." ——这个孤零零的短句是一个段落，承载巨大的叙事转折重量
-- 现在进行时（中文用"了起来"体现）暗示她迫不及待的行动
+- 一般现在时（史实现在时，中文"了起来"传达的顿悟感）暗示她迫不及待的行动
 - 无宾语意味着绘画对象（龙）隐而不言，但读者知道她在画什么
 
 **为什么这样写**：这是本书最美的句法时刻之一。单独成段的 "She paints." 既是叙事推进（故事从这里进入下一阶段），又是 Kay 内心冲动（艺术家无法抑制的创作欲）的具象化——与前一句 "She knows what she must do" 直接呼应。
 
 ---
 
-> ⑭ None of the paintings suit. No matter how many layers of paint she slathers onto the canvas, the dragon under her brush looks absurd, fake, insubstantial, like something copied from a video game box, or one of those calendars they sell at a discount at the dollar store: Unicorns and Dragons, Your Year in Magic, The Inner Druid.
+> **原句 10:** None of the paintings suit. No matter how many layers of paint she slathers onto the canvas, the dragon under her brush looks absurd, fake, insubstantial, like something copied from a video game box, or one of those calendars they sell at a discount at the dollar store: Unicorns and Dragons, Your Year in Magic, The Inner Druid.
 
 **中文理解**：没有一幅画是满意的。不管她在画布上涂了多少层颜料，她笔下的龙看起来都是荒诞的、假的、没有实质的，像是电子游戏包装盒上的复制品，或者那种在一元店里打折卖的日历上的东西：《独角兽与龙，你的魔法之年，内心德鲁伊》。
 
 **句子结构**：复合句；`None of the paintings suit`（主句，无主谓倒装以强调否定） + `No matter how many layers...the dragon under her brush looks...`（让步状语从句 + 主句）；介词短语 `like something copied from...` 做补语；冒号后列举例子的具体内容。
 
-**关键词**：`layers of paint`（层层颜料）/ `looks absurd, fake, insubstantial`（三重否定——荒诞/假/无实质）/ `lifelass clichés`（ lifeless clichés 在原文中）
+**关键词**：`layers of paint`（层层颜料）/ `looks absurd, fake, insubstantial`（三重否定——荒诞/假/无实质）/ `The Inner Druid`（引语末的自嘲式签名）
 
 **表达方式**：
 - 具体化的反讽：龙是超越语言的超验存在，Kay 却用最通俗的流行文化意象（电子游戏盒、日历）来描述其失败——讽刺效果极强
@@ -198,7 +198,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑮ Plato told his parable of dancing shadows of ideal forms, and Zhuangzi scoffed at the notion of capturing meaning with mere words. Because it is futile to apprehend the dragon with line and layer and color and shape, she tries to paint the trail left behind by the dragon, the echoes of its cry lingering over the trembling vegetation, the abating drift of clouds rearranged by its sky-rending wings, the way every speck of sea-foam, every fleeting shadow, every molecule of air cried out, It was here! Did you see it? Did you see it?
+> **原句 11:** Plato told his parable of dancing shadows of ideal forms, and Zhuangzi scoffed at the notion of capturing meaning with mere words. Because it is futile to apprehend the dragon with line and layer and color and shape, she tries to paint the trail left behind by the dragon, the echoes of its cry lingering over the trembling vegetation, the abating drift of clouds rearranged by its sky-rending wings, the way every speck of sea-foam, every fleeting shadow, every molecule of air cried out, It was here! Did you see it? Did you see it?
 
 **中文理解**：柏拉图讲述过关于理想形式之舞动影子的寓言，庄周嘲笑用语言捕捉意义的观念。既然用线条、层次、色彩和形状来把握龙是徒劳的，她便试图画下龙留下的痕迹——它的叫声在颤抖的植被上回响，翅膀撕裂天空后云层渐渐散去的漂流，被龙的存在所改变的海浪中每一个泡沫、每一个短暂的影子、每一粒空气都在喊："它在这里！你看见了吗？你看见了吗？"
 
@@ -221,7 +221,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑯ How can you not see the beauty in every moment of this world, the universality of every experience? The dragon is the Real, beyond mere Appearance, a realization of the Possible.
+> **原句 12:** How can you not see the beauty in every moment of this world, the universality of every experience? The dragon is the Real, beyond mere Appearance, a realization of the Possible.
 
 **中文理解**：你怎么能看不见这个世界上每一刻的美，每一种体验的普遍性？龙即是真实，高于单纯的表象，是可能性的实现。
 
@@ -241,7 +241,7 @@ modified: "2026-09-18"
 
 ### 第四段：观众
 
-> ⑰ "I don't get it. Where's the dragon?"
+> **原句 13:** "I don’t get it. Where’s the dragon?"
 
 **中文理解**："我看不懂。画里的龙在哪儿？"
 
@@ -257,7 +257,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑱ "The Passing of the Dragon," Solana, her best friend, reads the title under her breath. Then she squints at the picture. "What prompted this sudden turn to allegory?"
+> **原句 14:** "The Passing of the Dragon," Solana, her best friend, reads the title under her breath. Then she squints at the picture. "What prompted this sudden turn to allegory?"
 
 **中文理解**："《神龙的消逝》，"她的挚友 Solana 低声念出标题。然后她眯眼看着画。"是什么促使你突然转向寓言？"
 
@@ -276,7 +276,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑲ An artist craves an audience, right? She imagines crowds thronging an opulent mansion turned into an art gallery for the week, everyone pausing before her painting, exclaiming in admiration.
+> **原句 15:** An artist craves an audience, right? She imagines crowds thronging an opulent mansion turned into an art gallery for the week, everyone pausing before her painting, exclaiming in admiration.
 
 **中文理解**：艺术家渴望观众，对吧？她想象着人群涌入那座变成一周画廊的豪华宅邸，每个人都在她的画前驻足，赞叹不已。
 
@@ -288,17 +288,17 @@ modified: "2026-09-18"
 
 **表达方式**：`craves`（渴望，如对食物/爱的渴望）是强烈的情感词，暗示艺术家对观众的需要是近乎生理性的。
 
-**为什么这样写**：`An artist craves an audience` 在后文中以不同形式反复出现（行212、行296、行368、行535），构成全篇的 refrain（叠句）——每出现一次，其含义就发生一次变化：第一次是渴望，第二次是被误读后的痛苦，第三次是成功却空洞的获奖，第四次是对"关注"本质的反思。
+**为什么这样写**：`An artist craves an audience` 在后文中以不同形式出现五处（行212、行296、行368、行535、行658 变体），构成全篇的 refrain（叠句）——每次出现语义都在变：行212 是联合展败绩后的苦涩反讽（"maybe not all audiences are crave-worthy"），行296 是渴望的白日梦，行368 是抓住机会的希望，行535 是成功却空洞的获奖感言，行658 升华为对"能听见故事的受众"的呼唤。
 
 ---
 
 ### 第五段：网络风暴
 
-> ⑳ The painting had simply ceased to be hers. Context had overwhelmed the text.
+> **原句 16:** The painting had simply ceased to be hers. Context had overwhelmed the text.
 
 **中文理解**：这幅画已经不再属于她了。语境压过了文本。
 
-**句子结构**：两个平行短句，均为完整句，无主语省略；第一句被动语态，第二句主动语态形成张力。
+**句子结构**：两个平行短句，均为完整句，无主语省略；两句均为主动语态（had ceased 为不及物过去完成时，无宾语动作承受者），以" ceased/overwhelmed"的完成态形成张力。
 
 **关键词**：`ceased to be hers`（不再是她的——身份剥夺）/ `Context had overwhelmed the text`（语境压过文本——接受美学核心命题）
 
@@ -310,7 +310,7 @@ modified: "2026-09-18"
 
 ---
 
-> ㉑ "We're all trying to tell our own story," Solana says. "And we make other people parts of our own stories. We're meant to bring our stories together, to speak and listen and know that the stories are real and they matter."
+> **原句 17:** "We’re all trying to tell our own story," Solana says. "And we make other people parts of our own stories. We’re meant to bring our stories together, to speak and listen and know that the stories are real and they matter."
 
 **中文理解**："我们都在努力讲述自己的故事，"Solana 说。"我们也把别人拉进我们自己的故事里。我们应该把彼此的故事汇聚在一起，说话、倾听，承认这些故事是真实的，它们很重要。"
 
@@ -329,7 +329,7 @@ modified: "2026-09-18"
 
 ---
 
-> ㉒ "If I cared about being understood, I'd stop writing."
+> **原句 18:** "If I cared about being understood, I’d stop writing."
 
 **中文理解**："如果我在乎被理解，我就不写了。"
 
@@ -345,7 +345,7 @@ modified: "2026-09-18"
 
 ---
 
-> ㉓ We're all doing our best to see the dragon and record its passing.
+> **原句 19:** We’re all doing our best to see the dragon and record its passing.
 
 **中文理解**：我们都在尽自己所能，看见那条龙，并记录它的消逝。
 
@@ -354,19 +354,17 @@ modified: "2026-09-18"
 **关键词**：`see the dragon`（看见龙——普遍性的隐喻）/ `record its passing`（记录它的消逝——艺术创作的永恒主题）
 
 **表达方式**：
-- 全篇最后一句，以"We"开头——从"Kay"到"We"，视角完成从个人到普遍的巨大跨越
+- "转化"节（行 632-710）的收束句，以"We"开头——从"Kay"到"We"，视角完成从个人到普遍的巨大跨越
 - `dragon` 在这句话里不再是字面意义的神龙，而是"每个人都曾经历但无法言说的超验时刻"
 - `its passing`（消逝）呼应标题"The Passing of the Dragon"——龙不仅是被看见的，也是终将消逝的；艺术家的任务是记录这消逝
 
-**为什么这样写**：这是小说的主题句，也是刘宇昆创作观的自我宣言：所有艺术家（不只是Kay）在做的都是同一件事——用不完美的工具（语言、画笔）记录某种终将消逝的美。这句话超越了"艺术能否被理解"的悲观答案，以一种温和的悲观主义完成了小说的结尾：龙是真实的，但它会消逝；我们能做的只是记录。
+**为什么这样写**：这是小说的主题句，也是刘宇昆创作观的自我宣言：所有艺术家（不只是Kay）在做的都是同一件事——用不完美的工具（语言、画笔）记录某种终将消逝的美。这句话超越了"艺术能否被理解"的悲观答案，但它并非全篇终点——此后还有第八层街头相遇（行 711-800），陌生人的一句"That's beautiful"以温暖收束全书：龙是真实的，它消逝了，但记录让故事继续流动。
 
 ---
 
 ### 附：关键引语（引语行仅英文原文，中文解读见引用块外）
 
 > "That's beautiful," he says.
-
-（引语行）
 
 中文理解：他说："这很美。"
 
@@ -398,58 +396,54 @@ modified: "2026-09-18"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| **platonic ideal** | 柏拉图理念（可译为"完美典型"）| The creature is the platonic ideal of Creature, the very Form of all consciousness. |
-| **platonic ideal of Creature** | 生物的柏拉图理念 | 同上 |
-| **the Real / the Possible** | 真实界 / 可能界（莱布尼茨/柏拉图哲学术语）| The dragon is the Real, beyond mere Appearance, a realization of the Possible. |
-| **craves an audience** | 渴望受众/观众（artistic 语境）| An artist craves an audience, right? |
-| **entropic sound** | 熵的声音（物理学隐喻）| once her syllables have dissolved back to entropic sound |
-| **constituent atoms** | 构成原子 | Mesmerized by the void between / Our constituent atoms |
-| **scales of the dragon** | 龙之鳞片（双重含义：龙的鳞片/天平的刻度）| Scales of the dragon I can never know… |
-| **subsume** | 包含，归入（正式用语）| Her ideas were irrelevant. The painting had simply ceased to be hers. Context had overwhelmed the text. |
-| **remembers late into the night** | 彻夜追忆 | We reminisced late into the night— |
+| platonic ideal | 柏拉图理念（可译为"完美典型"，The creature 即其具体化）| The creature is the platonic ideal of Creature, the very Form of all consciousness. |
+| the Real / the Possible | 真实界 / 可能界（莱布尼茨/柏拉图哲学术语）| The dragon is the Real, beyond mere Appearance, a realization of the Possible. |
+| craves an audience | 渴望受众/观众（artistic 语境）| An artist craves an audience, right? |
+| entropic sound | 熵的声音（物理学隐喻）| once her syllables have dissolved back to entropic sound |
+| constituent atoms | 构成原子 | Mesmerized by the void between / Our constituent atoms |
+| scales of the dragon | 龙之鳞片（双重含义：龙的鳞片/天平的刻度）| Scales of the dragon I can never know… |
+| subsume | 包含，归入（正式用语）| Her ideas were irrelevant. The painting had simply ceased to be hers. Context had overwhelmed the text. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| **trekking** | 艰难跋涉 | "Should be right around here," she mutters |
-| **reminisce** | 追忆 | We reminisced late into the night— |
-| **slathers** | 大量涂抹（颜料）| No matter how many layers of paint she slathers onto the canvas |
-| **insubstantial** | 无实质的，虚幻的 | the dragon under her brush looks absurd, fake, insubstantial |
-| **clichés** | 陈词滥调 | the dragons she paints are mere lifeless clichés |
-
-| **perpetual bellows** | 永恒的风箱 | the perpetual bellows that drives all Life in the Dao De Jing |
-| **abating** | 渐减的 | the abating drift of clouds rearranged by its sky-rending wings |
-| **sublunary** | 月下的（形而上学术语，意为"尘世的"）| Each wingbeat feels like a breath taken by the universal lung |
-| **penumbras** | 半影（光学/天文学术语）| a painting of absences, penumbras, shed scales |
-| **psychomachia** | 灵魂之战（古典文学术语）| we make other people players in our own psychomachia |
-| **exuviation** | 蜕皮，蜕壳（生物学术语）| the physical exuviations of our infinite-facultied mind |
-| **iridescent** | 彩虹色的 | She paints the still-iridescent waves |
+| trekking | 艰难跋涉 | "Should be right around here," she mutters to herself before trekking on. |
+| reminisce | 追忆 | We reminisced late into the night— |
+| slathers | 大量涂抹（颜料）| No matter how many layers of paint she slathers onto the canvas |
+| insubstantial | 无实质的，虚幻的 | the dragon under her brush looks absurd, fake, insubstantial |
+| clichés | 陈词滥调 | the dragons she paints are mere lifeless clichés |
+| peregrination | 朝圣之旅（与 expedition/outing/jaunt 的同义词堆叠）| expedition, outing, jaunt, peregrination—whatever this journey is—during Christmas break. |
+| sandpaper | 砂纸 | each blast the stroke of a sandpaper palm across her cheeks |
+| snowbound | 被雪困住的 | between the frozen sea and the snowbound earth |
+| transcendence | 超越，超验 | a mortal being peering up at transcendence |
+| prismatic | 棱镜的 | with the dragon fractured into a dozen perspectives all jumbled together in a prismatic collage |
+| shriveled | 皱缩的 | a shriveled lemon |
+| obsessively | 强迫性地，沉迷地 | she had checked the forum hosted by the Chilton Society obsessively |
+| circuitscapes | 电路景观（Ken Liu 自造词，Solana 艺术风格的命名）| Kay writes about Solana's circuitscapes. |
+| perpetual bellows | 永恒的风箱 | the perpetual bellows that drives all Life in the Dao De Jing |
+| abating | 渐减的 | the abating drift of clouds rearranged by its sky-rending wings |
+| sublunary | 月下的（形而上学术语，意为"尘世的"）| Each wingbeat feels like a breath taken by the universal lung |
+| penumbras | 半影（光学/天文学术语）| a painting of absences, penumbras, shed scales |
+| psychomachia | 灵魂之战（古典文学术语）| we make other people players in our own psychomachia |
+| exuviation | 蜕皮，蜕壳（生物学术语）| the physical exuviations of our infinite-facultied mind |
+| iridescent | 彩虹色的 | She paints the still-iridescent waves |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| **cove** | 小海湾 | Kay turns right when she reaches the cove shore |
-| **peregrination** | 朝圣之旅 | Whatever this journey is—during Christmas break. |
-| **sandpaper** | 砂纸 | each blast the stroke of a sandpaper palm across her cheeks |
-| **cattails** | 芦苇 | over the tall strands of cattails and reeds |
-| **snowbound** | 被雪困住的 | between the frozen sea and the snowbound earth |
-| **hermit** | 隐士 | a hermit surrounded by his volumes of Homer and Ovid |
-| **trudge** | 艰难行走 | She trudges forward; one step, then another. |
-
-| **glow** | 发光 | Something begins to glow in the south |
-| **transcendence** | 超越，超验 | a mortal being peering up at transcendence |
-| **prismatic** | 棱镜的 | with the dragon fractured into a dozen perspectives all jumbled together in a prismatic collage |
-| **shriveled** | 皱缩的 | a shriveled lemon |
-| **allegory** | 寓言 | "What prompted this sudden turn to allegory?" |
-| **obsessively** | 强迫性地，沉迷地 | she had checked the forum hosted by the Chilton Society obsessively |
-| **plushies** | 毛绒玩具 | knit llama wool plushies of an anthropomorphized version |
-| **pundit** | 权威评论员 | Pundits and trolls continue to stir the discourse |
-| **troll** | 喷子/网络挑衅者 | Pundits and trolls continue to stir the discourse |
-| **mushroom** | 蘑菇 | prioritize mushrooms over jobs |
-| **garbage disposal** | 厨房垃圾处理器 | the garbage disposal's deep drone |
-| **circuitry** | 电路 | Kay writes about Solana's circuitscapes |
+| cove | 小海湾 | Kay turns right when she reaches the cove shore |
+| cattails | 芦苇 | over the tall strands of cattails and reeds |
+| hermit | 隐士 | a hermit surrounded by his volumes of Homer and Ovid |
+| trudge | 艰难行走 | She trudges forward; one step, then another. |
+| glow | 发光 | Something begins to glow in the south |
+| allegory | 寓言 | "What prompted this sudden turn to allegory?" |
+| plushies | 毛绒玩具 | knit llama wool plushies of an anthropomorphized version |
+| pundit | 权威评论员 | Pundits and trolls continue to stir the discourse |
+| troll | 喷子/网络挑衅者 | Pundits and trolls continue to stir the discourse |
+| mushroom | 蘑菇 | prioritize mushrooms over jobs |
+| garbage disposal | 厨房垃圾处理器 | the garbage disposal's deep drone |
 
 ---
 
@@ -462,7 +456,7 @@ modified: "2026-09-18"
 - 并列连词：and
 - 主句 2：Zhuangzi scoffed at the notion of capturing meaning with mere words（主谓宾）
 - 原因状语从句：Because it is futile to apprehend the dragon with line and layer and color and shape
-- 结果主句：she tries to paint the trail left behind by the dragon（主谓宾宾补结构）
+- 结果主句：she tries to paint the trail left behind by the dragon（left behind 为分词后置定语修饰 trail）
 
 **为什么难**：三个句子/分句叠加；第一句包含两个哲学典故（Plato 洞穴寓言 + Zhuangzi 不可言说），第二句是 Kay 的应对策略；需要同时理解西方理性主义（Plato）和东方语言怀疑论（Zhuangzi）才能把握刘宇昆的意图。
 
@@ -476,19 +470,20 @@ modified: "2026-09-18"
 
 ---
 
-**③** `We're all trying to tell our own story, and we make other people parts of our own stories. We're meant to bring our stories together, to speak and listen and know that the stories are real and they matter.`
+**③** `“We’re all trying to tell our own story,” Solana says. “And we make other people parts of our own stories. We’re meant to bring our stories together, to speak and listen and know that the stories are real and they matter.”`
 
 **句子结构**：
+- Solana 在拜访中途（说完便起身沏茶）对 Kay 说的话——两段直接引语以说话人标签 `Solana says` 分隔，禁止跨标签拼接
 - 第一句：并列复合句（we're trying...and we make...）
-- 第二句：We are meant to + 三个并列动词不定式（bring...to speak...and listen...and know...that...）
+- 第二句：We are meant to + 四个并列动词（bring / to speak / and listen / and know...that...）
 
-**为什么难**：`story` 一词在两个句子中以不同语义层出现：第一层是"个人叙事"（自己的故事），第二层是"身份认同/世界观"；三个并列动词（to speak and listen and know）需要同时处理。
+**为什么难**：`story` 一词在两个句子中以不同语义层出现：第一层是"个人叙事"（自己的故事），第二层是"身份认同/世界观"；四个并列动词（bring, speak, listen, know）需要同时处理。
 
 ---
 
 **④** `Context had overwhelmed the text.`
 
-**句子结构**：两个完整独立句；第一句被动语态 `the painting had ceased to be hers`；第二句主动语态 `Context had overwhelmed the text`。
+**句子结构**：两个完整独立句；均为主动语态——`the painting had ceased to be hers`（不及物完成时）与 `Context had overwhelmed the text`（及物）。
 
 **为什么难**：极简的句式承载了深刻的文学理论内涵（接受美学/后结构主义）。读者需要知道罗兰·巴特"作者已死"理论才能完全理解这句话的分量——但刘宇昆将它写得像最简单的日常陈述一样自然。
 
@@ -496,7 +491,7 @@ modified: "2026-09-18"
 
 **⑤** `We're all doing our best to see the dragon and record its passing.`
 
-**句子结构**：并列谓语 `see the dragon and record its passing`；不定代词 We 做主语（指代所有人）。
+**句子结构**：并列谓语 `see the dragon and record its passing`；人称代词 We 做主语（泛指所有人）。
 
 **为什么难**：表层简单，深层复杂——`dragon` 从字面（神龙）到隐喻（超验体验）到哲学（普遍性/真实）有多层含义；`passing` 同时呼应标题（消逝）和主题（一切终将消逝，唯有记录）。
 
@@ -521,7 +516,7 @@ modified: "2026-09-18"
 ### 3. 写作技巧
 
 - **嵌套哲学**：将 Plato 的洞穴寓言、Zhuangzi 的"得意忘言"、莱布尼茨的"可能界"、罗兰·巴特的"作者已死"等多个哲学框架自然嵌入叙事，从不让哲学讨论打断故事节奏
-- **Refrain 结构**：`An artist craves an audience` 出现四次，每次语义微调，构成全篇的情感脉搏
+- **Refrain 结构**：`An artist craves an audience` 出现五处（行212/296/368/535/658），每次语义微调，构成全篇的情感脉搏
 - **反讽系统**：Kay 想表达"普遍性"，观众只想找"一条龙"；Kay 最爱的诗是 atheist 写的关于虚无的诗；Chilton"不在乎被理解"却成了最被广泛阅读的诗人——多重反讽叠加而不显刻意
 - **具象化抽象**：用"画龙"这个具体的创作困境来承载"艺术能否表达超验"这一抽象哲学问题——刘宇昆的小说是问题导向的哲学小说，但通过具体场景让它始终保持可读性
 - **结尾升维**：从"Kay"到"We"——结尾一句将个人叙事升维为关于人类处境的普遍陈述，完成了从"短篇小说"到"文学哲学"的跃迁

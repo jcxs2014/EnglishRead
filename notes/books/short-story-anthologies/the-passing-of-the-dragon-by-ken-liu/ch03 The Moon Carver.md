@@ -8,18 +8,16 @@ modified: "2026-09-18"
 
 ## 本章导航
 
-- **一句话概括**：一只年迈的蝎子在满月夜守望时，遇见人类车辆入侵沙漠；随后帮助同样痴迷月亮、渴望远行的女儿 Antares 偷偷钻进人类车辆，让她踏上没有故乡的旅程。
+- **一句话概括**：一只年迈的蝎子在新月夜守望时，遇见人类车辆入侵沙漠；随后帮助同样痴迷月亮、渴望远行的女儿 Antares 偷偷钻进人类车辆，让她踏上没有故乡的旅程。
 - **体裁定位**：奇幻动物寓言（fantasy animal fable）；Ken Liu 继 *The Paper Menagerie* 后再次以边缘生物视角探讨归属感与自由。
-- **叙事视角**：第一人称蝎子 narrator，与 ch02 停车场的仓鼠/ ch03 的 Kay 均为边缘人视角，形成系列。
+- **叙事视角**：第一人称蝎子 narrator，与 ch01 停车场的机械生物（Embee、Aero）、ch02 的画家 Kay 均为边缘人视角，形成系列。
 - **核心张力**：守土 vs 远行——蝎子 narrator 选择留在 burrow，女儿 Antares 选择离去；父女关系中渗透着对" eccentric"的共鸣与放手。
 - **文学技法**：蝎子感官系统（pectines 感受振动、chelicerae 咬合、tergites/sternites 关节）构建全知式感知；Coco 的讽刺对比蝎子 narrator 的内省；月亮作为贯穿全文的光意象。
 - **关键词**：solitude / moonlight / molting / burrow / eccentric / rootless
 
 ## 精读
 
-### ①
-
-> "Most of hunting is waiting," my mother used to say, back when I was a mere scorpling clinging to her back.
+> **原句 1:** "Most of hunting is waiting," my mother used to say, back when I was a mere scorpling clinging to her back.
 
 **中文理解**：母亲曾说："打猎大部分时间是在等待。"那还是我幼年、攀附在她背上的时候。
 
@@ -33,9 +31,7 @@ modified: "2026-09-18"
 
 ---
 
-### ②
-
-> I am solitary, but I am not alone.
+> **原句 2:** I am solitary, but I am not alone.
 
 **中文理解**：我独居，但我并不孤单。
 
@@ -49,15 +45,13 @@ modified: "2026-09-18"
 
 ---
 
-### ③
-
-> "That's a human," says my know-it-all neighbor Coco, tapping out her authoritative pronouncement with a series of pincer-strikes against the sand. "I'd recognize one even if I've only got two eyes left."
+> **原句 3:** "That’s a human," says my know-it-all neighbor Coco, tapping out her authoritative pronouncement with a series of pincer-strikes against the sand. "I’d recognize one even if I’ve only got two eyes left."
 
 **中文理解**："那是个人类，"我的万事通邻居 Coco 说，一边用螯肢在沙地上敲出一串权威宣言般的振动。"就算只剩两只眼睛了，我也认得出来。"
 
-**句子结构**：`"That's a human,"` 直接引语 + `says my know-it-all neighbor Coco` 引述动词现在时态（不同于 ch03 的过去时 `said`） + `tapping out her authoritative pronouncement with a series of pincer-strikes` 方式状语分词结构 + 第二句直接引语。`know-it-all` 是复合形容词，描述性格。
+**句子结构**：`"That's a human,"` 直接引语 + `says my know-it-all neighbor Coco` 引述动词现在时态（不同于本篇原句 1 的过去时 `used to say`） + `tapping out her authoritative pronouncement with a series of pincer-strikes` 方式状语分词结构 + 第二句直接引语。`know-it-all` 是复合形容词，描述性格。
 
-**关键词**：know-it-all（万事通/好为人师的）；pincer-strikes（螯肢敲击，蝎子通讯方式）；authoritative pronouncement（权威声明）；two eyes left（Coco 自称被人类实验后只剩两只眼，与 line 115 形成前后呼应）。
+**关键词**：know-it-all（万事通/好为人师的）；pincer-strikes（螯肢敲击，蝎子通讯方式）；authoritative pronouncement（权威声明）；two eyes left（让步假设语气：哪怕只剩两只眼也认得——并非实指眼伤；原文实验段 line 118 与 lost leg line 139 均无眼损记载）。
 
 **表达方式**：`tapping out... with a series of pincer-strikes` 用视觉意象替代"说"，将蝎子的非语音交流具象化；`know-it-all` 复合词一次性完成性格刻画，无需附加解释。
 
@@ -65,13 +59,11 @@ modified: "2026-09-18"
 
 ---
 
-### ④
-
-> "Not 'it.' They." Coco draws the moment out, glad that she has everyone's attention.
+> **原句 4:** "Not ’it.’ They." Coco draws the moment out, glad that she has everyone’s attention.
 
 **中文理解**："不是'它'，是'他们'。"Coco 把这个瞬间拉得很长，很高兴自己成了全场焦点。
 
-**句子结构**：三个独立的词级直接引语 `"Not 'it.' They."` + `Coco draws the moment out`（idiom：故意拖长、享受聚光灯）+ `glad that she has everyone's attention` 原因状语。三个部分形成"引语—动作—心理"的快节奏递进。
+**句子结构**：两个词级直接引语片段（`"Not 'it.'"` + `"They."`）+ `Coco draws the moment out`（idiom：故意拖长、享受聚光灯）+ `glad that she has everyone's attention` 原因状语。"引语—动作—心理"三部分构成快节奏递进。
 
 **关键词**：draws the moment out（故意拖长卖关子）；glad that she has everyone's attention（享受被注视，Coco 性格核心）。
 
@@ -81,9 +73,7 @@ modified: "2026-09-18"
 
 ---
 
-### ⑤
-
-> "Who knows? Humans are unpredictable creatures. They are even more eccentric than you."
+> **原句 5:** "Who knows? Humans are unpredictable creatures. They are even more eccentric than you."
 
 **中文理解**："谁知道呢？人类是不可预测的生物。他们甚至比你还古怪。"
 
@@ -97,9 +87,7 @@ modified: "2026-09-18"
 
 ---
 
-### ⑥
-
-> "It's me. I need your help."
+> **原句 6:** "It’s me. I need your help."
 
 **中文理解**："是我。我需要你的帮助。"
 
@@ -109,13 +97,11 @@ modified: "2026-09-18"
 
 **表达方式**：`"It's me."` 完全省略引述动词（said/dispatched），制造直接性——读者仿佛听到声音突然从黑暗中响起。这与前后文的叙述性描写形成节奏对比。
 
-**为什么这样写**：这个引语块出现在 narrator 独处、最放松也最意外的时刻——读者和 narrator 同样惊讶。来者不是敌人，而是女儿 Antares。简短句式与情境的紧张形成反差，制造叙事前调的悬念感。读者还不知道这是 Antares，只知道"有人需要帮助"。
+**为什么这样写**：这个引语块出现在 narrator 独自防备袭击（正对 hulking shadow 举尾警戒、毒腺已空）的最紧张时刻，来者身份全然意外——读者和 narrator 同样惊讶。来者不是敌人，而是女儿 Antares。简短句式与情境的紧张形成反差，制造叙事前调的悬念感。读者还不知道这是 Antares，只知道"有人需要帮助"。
 
 ---
 
-### ⑦
-
-> "Antares, daughter of Serket, and your daughter as well."
+> **原句 7:** "Antares, daughter of Serket, and your daughter as well."
 
 **中文理解**："我是 Antares，Serket 的女儿，也是你的女儿。"
 
@@ -129,9 +115,7 @@ modified: "2026-09-18"
 
 ---
 
-### ⑧
-
-> "I think the portraits are beautiful," Antares said. "There's nothing else like them in the whole valley."
+> **原句 8:** "I think the portraits are beautiful," Antares said. "There’s nothing else like them in the whole valley."
 
 **中文理解**："我觉得那些月相画很美，"Antares 说。"整个山谷里没有任何东西像它们。"
 
@@ -145,9 +129,7 @@ modified: "2026-09-18"
 
 ---
 
-### ⑨
-
-> "They shed old skins and put on new ones with such ease," she says, the words tumbling forth like a cascade of loose sand. "They carry their burrow with them; they are not tied to one place; they have no roots."
+> **原句 9:** "They shed old skins and put on new ones with such ease," she says, the words tumbling forth like a cascade of loose sand. "They carry their burrow with them; they are not tied to one place; they have no roots."
 
 **中文理解**："他们蜕旧皮、穿新皮，轻松极了，"她说，话语像松散的沙子一样倾泻而出。"他们把 burrow 带在身上；他们不被束缚于一个地方；他们没有根。"
 
@@ -161,9 +143,7 @@ modified: "2026-09-18"
 
 ---
 
-### ⑩
-
-> "I don't want to climb onto Spiny Tower once in a while, on the night of the full moon, and seize a pocket of solitude like a drowning scorpion clutching at a floating leaf in a thunderstorm. I want to live in a strange country where I know no one and no one knows me. Why can't I shed this old me with the next instar? Why can't I be without ties, without roots? I crave to live where my neighbors are still rocks with long shadows, and silence is as deep and wide as the sky."
+> **原句 10:** "I don’t want to climb onto Spiny Tower once in a while, on the night of the full moon, and seize a pocket of solitude like a drowning scorpion clutching at a floating leaf in a thunderstorm. I want to live in a strange country where I know no one and no one knows me. Why can’t I shed this old me with the next instar? Why can’t I be without ties, without roots? I crave to live where my neighbors are still rocks with long shadows, and silence is as deep and wide as the sky."
 
 **中文理解**："我不想偶尔爬上 Spiny Tower，在满月之夜，像溺水蝎子抓着暴风中的浮叶那样，抓紧一小片独处。我想生活在一个陌生的国度，那里无人认识我，我也不认识任何人。为什么我不能在下一次蜕皮时蜕掉这个旧我？为什么我不能没有羁绊、没有根系？我渴望住在邻居只是长影岩石的地方，寂静像天空一样深广。"
 
@@ -177,35 +157,31 @@ modified: "2026-09-18"
 
 ---
 
-### ⑪
-
-> "I don't think you're strange at all," I tell my daughter. "You are magnificent."
+> **原句 11:** "I don’t think you’re strange at all," I tell my daughter. "You are magnificent."
 
 **中文理解**："我一点也不觉得你古怪，"我告诉女儿。"你很了不起。"
 
-**句子结构**：两句直接引语 + `I tell my daughter` 引述框架。第一句双重否定 `"I don't think you're strange at all"`（not + un- = 绝对肯定）；第二句 `"You are magnificent."` 简短有力，是全篇情感落点。
+**句子结构**：两句直接引语 + `I tell my daughter` 引述框架。第一句 `"I don't think you're strange at all"`（否定 + at all 强化，构成温和的完全肯定）；第二句 `"You are magnificent."` 简短有力，是全篇情感落点。
 
 **关键词**：strange（古怪，呼应 line 310 "I'm…too strange"）；magnificent（了不起，对应 Antares 外貌描写 line 225）；at all（加强否定）。
 
 **表达方式**：双重否定 `"don't think you're strange at all"` 比直接说 "I think you're normal" 更微妙——它不是否认 Antares 与众不同，而是确认"不同"本身不是"坏"的。"magnificent"是 Antares 自我描述的反面（她觉得自己奇怪，父亲说她是 magnificent），形成情感闭合。
 
-**为什么这样写**：这句话是全篇父子关系的总结。narrator 一生因 eccentric 被同族视为"不正常"，此刻他选择用"magnificent"来回应女儿对自我身份的质疑——他不要女儿重走他被否定的路。"You are magnificent"是 narrator 的自我解放，也是他对女儿最深的祝福。
+**为什么这样写**：这句话是全篇父女关系的总结。narrator 一生因 eccentric 被同族视为"不正常"，此刻他选择用"magnificent"来回应女儿对自我身份的质疑——他不要女儿重走他被否定的路。"You are magnificent"是 narrator 的自我解放，也是他对女儿最深的祝福。
 
 ---
 
-### ⑫
-
-> Together, we turn to look back at the dune, the ridge at the top a silver arc.
+> **原句 12:** Together, we turn to look back at the dune, the ridge at the top a silver arc.
 
 **中文理解**：我们一起转身回望沙丘，顶端的山脊是一道银色的弧。
 
 **句子结构**：`Together, we turn to look back at the dune` 主句（副词 Together 句首，表同步动作） + `the ridge at the top a silver arc` 独立主格结构（名词短语 the ridge + 介词短语 at the top + 名词短语 a silver arc，省略 be 动词）。独立主格以视觉意象收束全文。
 
-**关键词**：silver arc（银色弧线，月光照射下的沙丘轮廓；silver = 月光反射）；Together（与 Antares 并肩的动作词，暗示 narrator 参与但不随行）。
+**关键词**：silver arc（银色弧线，黎明微光下沙丘脊线的视觉轮廓——注意本篇时间线为新月夜加两日，银色来自天光而非月光）；Together（与 Antares 并肩的动作词，暗示 narrator 参与但不随行）。
 
 **表达方式**：`the ridge at the top a silver arc` 是典型的意象型独立主格——它不是叙述动作，而是将视觉凝固为一个画面。Ken Liu 常用这种"无动词意象句"作为结尾（如 *The Paper Menagerie* 的结尾），让读者在视觉意象中停留。
 
-**为什么这样写**：这是精读文件的最后一个引语块，也是全篇的最后一个画面。narrator 和 Antares 一起转身看沙丘——但下一秒，Antares 将钻进人类的车辆，独自远行；narrator 将独自返回他的 burrow。"silver arc"是月光的颜色，也是蝎子离开洞穴时看见的第一个意象——首尾呼应。"Together"与"Separate"的张力在此刻同时存在，读者的情感悬在父女分离的门槛上。
+**为什么这样写**：这是精读文件的最后一个引语块，也是全篇的最后一个画面。narrator 和 Antares 一起转身看沙丘——但下一秒，Antares 将钻进人类的车辆，独自远行；narrator 将独自返回他的 burrow。"silver arc"以无动词意象句收束全篇，与 narrator 开篇守望时的沙漠视觉形成首尾呼应。"Together"与"Separate"的张力在此刻同时存在，读者的情感悬在父女分离的门槛上。
 
 ## 本章词汇
 
@@ -232,22 +208,21 @@ modified: "2026-09-18"
 | Twin Dunes | 双丘（蝎群聚居的沙漠沙丘社区） | "In Twin Dunes, thousands of burrows are packed into the sides of the two sand dunes." |
 | sensilla | 感器（昆虫/蝎子的感觉毛） | "the eyes and slit sensilla of one's neighbors" |
 | thorax / cephalothorax | 胸节/头胸（蝎子体段） | "my cephalothorax can’t help but drink in the stars" |
-| pedipalps | 须肢（蝎子第二对附肢） | "the breeze brings with it a thousand smells" |
+| pedipalps | 须肢（蝎子第二对附肢） | "vibrations that make the hairs on my pedipalps tingle" |
 | Starlight | 星光（starlight = 蝎子感知世界的主要光源） | "Starlight spills through the opening, and the breeze brings with it a thousand smells." |
 
 | unprecedented | 前所未有的 | "A disturbance this unprecedented requires an unprecedented response." |
 | disorient | 使迷失方向 | "she was returned to the desert, disoriented, memory a jumble" |
-| limber | 柔软的/灵活的（此处反义用法：肢体僵硬） | "back then, I was still limber enough" |
+| limber | 柔软的/灵活的（原文为正常义：身体还灵便） | "back then, I was still limber enough" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | stretch | 伸展 | "I stretch and flex my abdomen." |
-| climb | 攀爬 | "I climb up the spiraling tunnel." |
 | hunt | 狩猎 | "It's the night of the new moon, the best time to hunt." |
 | climb | 攀爬/向上爬行 | "I climb up the spiraling tunnel, pausing from time to time to catch my breath." |
-| dust | 尘土 | "grains of sand clinging to the side of the dune" |
+| dune | 沙丘 | "grains of sand clinging to the side of the dune" |
 | night | 夜晚 | "It's much cooler here at the surface, and I already miss my bedchamber." |
 | fire | 火 | "A fire burns near the soft dunes." |
 | shadow | 影子 | "the shadow of a giant, shaped like Orion" |

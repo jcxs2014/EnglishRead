@@ -24,7 +24,7 @@ modified: "2026-09-18"
 
 ### 第1段：框架引入（Barthes epigraph + 首个 terminal log 头部）
 
-> **①** `[magpoi@localhost ~]$ cat /var/log/grimoire/today.log`
+> **原句 1:** [magpoi@localhost ~]$ cat /var/log/grimoire/today.log
 
 **中文理解**：Mag 的 grimoire（日志簿）以 Unix terminal 命令输出，格式为"Client / Request / Dispensed / Quote"四字段。`magpoi` 是她的用户名，`grimoire` 则是女巫的魔法簿典故。
 
@@ -38,11 +38,11 @@ modified: "2026-09-18"
 
 ---
 
-> **②** `Succeeding the Author, the scriptor no longer bears within him passions, humours, feelings, impressions, but rather this immense dictionary from which he draws a writing that can know no halt: life never does more than imitate the book, and the book itself is only a tissue of signs, an imitation that is lost, infinitely deferred.`
+> **原句 2:** Succeeding the Author, the scriptor no longer bears within him passions, humours, feelings, impressions, but rather this immense dictionary from which he draws a writing that can know no halt: life never does more than imitate the book, and the book itself is only a tissue of signs, an imitation that is lost, infinitely deferred.
 
 **中文理解**：作者死后，取而代之的是"拼凑者"——他不再拥有激情、体液、情感、印象，而只拥有一本庞大的词典，从中汲取永不停歇的写作：生活不过是对书本的模仿，而书本本身不过是一张符号之网，无限延宕的模仿。
 
-**句子结构**：Roland Barthes 1977 年论文《作者之死》的核心论点；以 semicolon 分隔两个并列分句，前者定义 scriptor，后者以隐喻延伸——生活模仿书，书模仿符号，符号无限延异（différance 的 Derrida 式回响）。
+**句子结构**：Roland Barthes 1977 年论文《作者之死》的核心论点；以冒号分隔两个并列分句，前者定义 scriptor，后者以隐喻延伸——生活模仿书，书模仿符号，符号无限延异（différance 的 Derrida 式回响）。
 
 **关键词**：`scriptor`（拼凑者）——Barthes 相对于"作者（author）"的术语；现代写作主体不再创造，只从既有符号系统中组合；`immense dictionary`（庞大的词典）——语言是现成符号的仓库，写作是从中抽取而非原创；`infinitely deferred`（无限延异）——符号学核心概念：意义永远在延宕中，从不当下在场。
 
@@ -54,7 +54,7 @@ modified: "2026-09-18"
 
 ### 第2段：Case 1 — Tommy 的仓库困境
 
-> **③** `Tommy shows up at my door. Eyes bloodshot, stubbly chin the blue of a crab's paddle fin.`
+> **原句 3:** Tommy shows up at my door. Eyes bloodshot, stubbly chin the blue of a crab’s paddle fin.
 
 **中文理解**：Tommy 出现在门口，眼眶布满血丝，胡茬泛着螃蟹鳍肢般的青蓝色。
 
@@ -68,7 +68,7 @@ modified: "2026-09-18"
 
 ---
 
-> ④ "They make the pickers race each other," he says, his voice now smoother from the lubrication. "You have to wear these augmented reality glasses that show the ghosts of everyone else on the same shift. The ghosts are either ahead of you or behind you, based on where the other pickers are on their own routes. The winner gets a bonus." A pause. He lowers his eyes, unable to look at me. "The bonus is taken from the pay of all the other pickers."
+> **原句 4:** "They make the pickers race each other," he says, his voice now smoother from the lubrication. "You have to wear these augmented reality glasses that show the ghosts of everyone else on the same shift. The ghosts are either ahead of you or behind you, based on where the other pickers are on their own routes. The winner gets a bonus." A pause. He lowers his eyes, unable to look at me. "The bonus is taken from the pay of all the other pickers."
 
 **中文理解**："他们让拣货工互相竞赛"，他说……"奖金是从所有其他拣货工的工资里扣除的。"
 
@@ -82,7 +82,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑤ `"I'm a witch," I say, "not a goddess."`
+> **原句 5:** "I’m a witch," I say, "not a goddess."
 
 **中文理解**："我是女巫，"我说，"不是女神。"
 
@@ -96,7 +96,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑥ `"It won't give you a real break, but at least you'll get some respite."`
+> **原句 6:** "It won’t give you a real break, but at least you’ll get some respite."
 
 **中文理解**："这不会给你真正的休息，但至少能让你喘口气。"
 
@@ -112,7 +112,7 @@ modified: "2026-09-18"
 
 ### 第3段：Case 2 — Zelda 的爱之咒
 
-> ⑦ `"She's turned away from me as she says it, as though she can't bear to let me see her face."`
+> **原句 7:** "She’s turned away from me as she says it, as though she can’t bear to let me see her face."
 
 **中文理解**：她说这话时转过身去，仿佛不敢让我看见她的脸。
 
@@ -126,7 +126,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑧ `"They're nonce romances," she says, her voice trembling. "Just for me."`
+> **原句 8:** "They’re nonce romances," she says, her voice trembling. "Just for me."
 
 **中文理解**："这些都是一次性小说，"她说，声音颤抖，"只为我一个人写的。"
 
@@ -140,7 +140,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑨ `"As she and the machine weave the story together, her face changes. She's no longer nervous, shy, embarrassed, fluttering. She giggles, laughs, argues with the machine. She is alive."`
+> **原句 9:** "As she and the machine weave the story together, her face changes. She’s no longer nervous, shy, embarrassed, fluttering. She giggles, laughs, argues with the machine. She is alive."
 
 **中文理解**：当她与机器一起编织故事时，她的面容变了——她不再紧张、害羞、窘迫、坐立不安。她咯咯笑着，哈哈大笑着，和机器争论。她活过来了。
 
@@ -156,7 +156,7 @@ modified: "2026-09-18"
 
 ### 第4段：Case 3 — Fai 修复工坊
 
-> ⑩ `"I'm not keen on the fad of caring for abandoned AI devices (feral AI, or 'fai')"`
+> **原句 10:** "I’m not keen on the fad of caring for abandoned AI devices (feral AI, or ’fai’)"
 
 **中文理解**："我对这种照料废弃 AI 设备的热潮没什么兴趣（野化人工智能，简称 fai）"。
 
@@ -170,7 +170,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑪ `"These things are designed to be disposable," Tay says. "It's throwaway culture applied to machine brains."`
+> **原句 11:** "These things are designed to be disposable," Tay says. "It’s throwaway culture applied to machine brains."
 
 **中文理解**："这些东西天生就是被设计成一次性的，"Tay 说，"扔掉文化被套用到了机器大脑上。"
 
@@ -184,7 +184,7 @@ modified: "2026-09-18"
 
 ---
 
-> ⑫ `"I help make bots, and that includes fixing them when they don't work right. Hey, any of you want to help me out? I'll show you how to use the calipers and the profilometer."`
+> **原句 12:** "I help make bots, and that includes fixing them when they don’t work right. Hey, any of you want to help me out? I’ll show you how to use the calipers and the profilometer."
 
 **中文理解**："我做机器人，也包括修它们——坏了就修。你们谁想帮忙？我来教你们怎么用卡尺和轮廓仪。"
 
@@ -210,7 +210,7 @@ modified: "2026-09-18"
 | feral AI (fai) | 废弃后自行运转的野化人工智能设备 | caring for abandoned AI devices (feral AI, or "fai") |
 | gamification | 将游戏机制（积分、排行榜、竞争）引入非游戏场景 | They make the pickers race each other |
 | throwaway culture | 消费主义丢弃文化——产品被设计为可报废 | These things are designed to be disposable |
-| analog computing | 模拟计算——用连续物理量（电压/电流）而非离散数字进行计算 | In mapping different input values as analog signals... |
+| analog computing | 模拟计算——用连续物理量（电压/电流）而非离散数字进行计算 | "By mapping different input values as analog signals" |
 
 ### ⭐⭐ 进阶
 
@@ -227,7 +227,7 @@ modified: "2026-09-18"
 | 词汇 | 释义 | 例句（原文） |
 |------|------|------|
 | witch | 女巫 | "I'm a witch," I say, "not a goddess." |
-| break | 休息、间歇 | They make the pickers race each other |
+| break | 休息、间歇 | "I just want some breaks, Mag," he says |
 | alive | 活着的、充满活力的 | She is alive. |
 | help | 帮助 | I help make bots, and that includes fixing them when they don't work right |
 
