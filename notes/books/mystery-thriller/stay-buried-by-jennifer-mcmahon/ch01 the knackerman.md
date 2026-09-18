@@ -57,7 +57,7 @@ modified: "2026-09-18"
 
 > **原句 4:** Run, deer, run, he thinks as he makes his way to the door of Room 1. He knows she's in there, sleeping, blissfully unaware of his presence. A doe in her den. Nowhere to run. Nowhere to hide.
 
-**中文理解**：跑吧，小鹿，跑吧，他一边朝1号房的门走去一边想。她知道她在里面，沉睡着，幸福地没有察觉他的存在。窝中的小鹿。无处可逃。无处可藏。
+**中文理解**：跑吧，小鹿，跑吧，他一边朝1号房的门走去一边想。他知道她在里面，沉睡着，幸福地没有察觉他的存在。窝中的小鹿。无处可逃。无处可藏。
 
 **关键词**：blissfully unaware / doe in her den / nowhere to
 

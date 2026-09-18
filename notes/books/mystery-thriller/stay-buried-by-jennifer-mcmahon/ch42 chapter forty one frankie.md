@@ -55,7 +55,7 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 4:** Luther and Henry were going to go spread news of what had happened. To warn the townspeople to arm themselves, to beware of the sick, even—if they seemed to be recovering.
+> **原句 4:** Luther and Henry were going to go spread news of what had happened. To warn the townspeople to arm themselves, to beware of the sick, even—especially—if they seemed to be recovering.
 
 **中文理解**：Luther 和 Henry 要去传播发生的事情。警告镇民们武装自己，提防病人，即使——尤其是——他们看起来似乎在康复。
 

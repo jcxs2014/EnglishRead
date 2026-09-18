@@ -67,15 +67,15 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 5:** It was the way he used to say good-bye to Gram.
+> **原句 5:** "Don't forget the tobacco for Willy," Josephine called after them.
 
-**中文理解**：那是他以前和 Gram 告别的方式。
+**中文理解**："别忘了 Willy 的烟草，"Josephine 在他们身后喊道。
 
-**关键词**：used to say good-bye to Gram
+**关键词**：tobacco for Willy / called after them
 
-**为什么这样写**：Ashley 的观察——Malcolm 的告别方式没有变，但对象变了。Gram 不在了，Josephine 取代了她的位置。
+**为什么这样写**：Josephine 的最后一句话暴露了她对 Sad Willy 的关心——她不只是在守护圣龛，她也在照顾社区中最脆弱的人。"called after them" 暗示她在追赶，试图留住他们。
 
-**读者视角提示**：这句话是全书最温暖也最悲伤的时刻之一——Malcolm 在用"告别"来"记住"。
+**读者视角提示**：Josephine 对 Willy 的关心暗示他们之间有某种联系——可能共同守护着 Knackerman 的秘密。
 
 ## 本章词汇
 

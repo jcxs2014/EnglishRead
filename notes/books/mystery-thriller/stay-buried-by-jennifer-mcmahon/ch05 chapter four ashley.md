@@ -19,7 +19,7 @@ modified: "2026-09-18"
 
 ## 精读
 
-> **原句 1:** She felt delicate and fragile then, like a woman made of paper who might blow away or disintegrate in a stiff breeze. Baking gave her sense of purpose, made her feel solid and real.
+> **原句 1:** She felt delicate and fragile then, like a woman made of paper who might blow away or disintegrate in a stiff breeze. Baking gave her a sense of purpose, made her feel solid and real.
 
 **中文理解**：那时她觉得自己脆弱易碎，像一个纸做的女人，可能在强风中飘散或碎裂。烘焙给了她目标感，让她感觉坚实而真实。
 

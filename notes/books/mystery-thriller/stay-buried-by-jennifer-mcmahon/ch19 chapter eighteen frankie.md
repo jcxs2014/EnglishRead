@@ -19,7 +19,7 @@ modified: "2026-09-18"
 
 ## 精读
 
-> **原句 1:** I was snuggled up against her while she burned feverishly in her deathbed, her lungs rattling as she struggled to take in air. She was clinging tightly to me, wrapping her whole self around me like a terrible serpent, crushing me, expelling all the air from my chest.
+> **原句 1:** I was snuggled up against her while she burned feverishly in her deathbed, her lungs rattling as she struggled to take in air. She was clinging tightly to me, wrapping her whole self around me like a terrible serpent, crushing me, expelling all the air from my chest, leaving me breathless, while the walls started crumbling and closing in around us.
 
 **中文理解**：我依偎着她，而她在临终床上发烧燃烧，肺部嘎嘎作响，挣扎着吸气。她紧紧抓住我，把自己整个缠绕在我身上，像一条可怕的蛇，压碎我，把我胸腔里的空气全部挤出去。
 

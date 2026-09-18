@@ -31,7 +31,7 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 2:** The mind, we knew, did strange things when it was wearied. Could we have hallucinated the same thing?
+> **原句 2:** Could we have hallucinated the same thing? The mind, we knew, did strange things when it was wearied.
 
 **中文理解**：我们知道，心灵在疲惫时会做奇怪的事。我们会产生同样的幻觉吗？
 
@@ -45,7 +45,7 @@ modified: "2026-09-18"
 
 > **原句 3:** The five o'clock bell at the clothespin factory rang, and men began to gather at the pub to sip drinks, smoke, talk. The place was suddenly packed with men in worn work clothes—overalls and dungarees coated in sawdust.
 
-**中文理解**：五点钟衣夹工厂的铃声响了，男人们开始聚集在酒吧抽烟喝酒聊天。这个地方突然挤满了穿着工装裤、衣夹锯末的工装男人。
+**中文理解**：五点钟衣夹工厂的铃声响了，男人们开始聚集在酒吧抽烟喝酒聊天。这个地方突然挤满了穿着工装裤、沾满锯末的工装男人。
 
 **关键词**：clothespin factory / overalls and dungarees / coated in sawdust
 

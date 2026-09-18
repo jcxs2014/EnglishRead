@@ -33,7 +33,7 @@ modified: "2026-09-18"
 
 > **原句 2:** "Of course," she said. But the truth was, she'd stopped taking the meds months ago, weaning herself off without telling anyone, not even Eileen, the kindly white-haired therapist she now saw once a month.
 
-**中文理解**："当然，"她说。但真相是，她几个月前就停药了，未经任何人允许自行逐渐减量，甚至没告诉 Eileen——那个她现在每月看一次的白发好心治疗师。
+**中文理解**："当然，"她说。但真相是，她几个月前就停药了，没有告诉任何人自行逐渐减量，甚至没告诉 Eileen——那个她现在每月看一次的白发好心治疗师。
 
 **关键词**：the truth was / weaning herself off
 
