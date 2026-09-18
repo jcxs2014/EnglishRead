@@ -55,11 +55,11 @@ modified: "2026-09-18"
 
 **中文理解**："Kareem，这是什么地方？"
 
-**关键词**：what is this place / scared / no recognition
+**关键词**：Kareem / what is this place
 
-**为什么这样写**：这是 Nico（另一个 Gloria）的问题——她不认识这个地方，尽管它在她的宇宙里可能存在。这句话与Ari在第一章说的"What do you think of the new Los Angeles?"形成对比：同样是问句，但关注点完全不同——一个是迷失（where am I?），一个是评价（what do you think of?）。Nico 的问题揭示了她不是这个宇宙的 Gloria——她没有这里的记忆，这暗示了某种跨维度传送。
+**为什么这样写**：这是派对上第一个露馅的分身时刻——说话者是穿短裤与粉色 T 恤的"另一个 Saraya"（前文 Kareem 刚问过她"did you spill something on that gorgeous dress"）。她环顾四周的目光里"no recognition in her eyes"——身在形似的派对却认不出任何东西，随即"sank back against a wall"显出恐惧。这句话与第一章 Ari 对城市的惊奇形成对比：同样是面对"这是什么地方"，一个是被美击中的赞叹，一个是彻底迷失的恐慌。分身们的第一句话都是空间性的迷失——这为全书"门"的意象定调。
 
-**读者视角提示**：Nico 问话时的状态——"She looked scared"——与 Gloria 的日常神经质完全不同，这应该是 Kareem 判断"这不是 Gloria"的第二个信号。
+**读者视角提示**：注意 Kareem 的第一反应仍是社交性的——"Are you okay?"——他还在用主人逻辑处理异常；真正的恐惧要到"两个 Saraya 同时在场"时才降临。
 
 ---
 
@@ -99,15 +99,15 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 8:** —and it was the wrong room.
+> **原句 8:** —and it was the wrong room. The doorway had somehow misfired and delivered him into an entirely different place.
 
-**中文理解**：他走进厨房——但那不是正确的房间。
+**中文理解**：——但那不是厨房。门道不知怎么出了故障，把他送到了一个完全不同的地方。
 
-**关键词**：wrong room / misfired / different place
+**关键词**：wrong room / misfired / entirely different place
 
-**为什么这样写**：这是派对场景的结束，也是 Kareem 穿越的开始。"Misfired"这个词是关键——它暗示某种机械故障，而非有意的传送。房门"失灵"了，把他送到了错误的地方——另一个宇宙。这句话的力量来自它的简洁：三个小句，没有解释，只有事实。这种简洁使它成为全章最重要的转折点。
+**为什么这样写**：这是派对场景的结束，也是 Kareem 穿越的开始。"Misfired"这个词是关键——它暗示某种机械故障，而非有意的传送：房门像一把走火的枪，把他送到了"entirely different place"——另一个宇宙。开头的破折号（—and）直接承接上一句"he walked into the kitchen—"，句子被拦腰斩断的形态本身就是穿越的文体化：叙述在此"失灵"。而叙述的克制——没有惊叹、没有解释，只有故障报告般的一句——正是 Kareem"keeping it together"人格的叙述化。
 
-**读者视角提示**：注意这句话的叙述速度——前后的长句突然被三个极短的句子打断，这种节奏的变化本身就是对"某件重大事件正在发生"的宣告。
+**读者视角提示**：注意这句话的叙述速度——前后的长句突然被短句斩断，这种节奏的变化本身就是对"某件重大事件正在发生"的宣告；下一句"He had exited his apartment"用最平淡的完成时确认了最不可思议的事。
 
 ---
 
@@ -139,7 +139,7 @@ modified: "2026-09-18"
 
 **中文理解**："你比我们另一个爸爸好，"Samir 说。
 
-**关键词**：nicer than our other dad / five-year-old / father
+**关键词**：nicer than our other dad / other dad / Samir said
 
 **为什么这样写**：这是 Kareem 第一次听到孩子对他的评价——而且是将他与"另一个爸爸"比较。这个句子有三个层次的含义：① Samir 已经在用"other dad"来区分两个 Kareem；② 他认为现在的 Kareem 更好；③ 这个评价来自一个五岁孩子，认知简单但情感直接。这句话的力量来自它的质朴——没有修饰，只有事实。"nicer"是一个相对的、主观的判断，但在一个五岁孩子口中，它具有绝对的权威性。
 
@@ -151,7 +151,7 @@ modified: "2026-09-18"
 
 **中文理解**："'motherfucker'是什么意思？"小女孩问道。
 
-**关键词**：motherfucker / little girl / innocence
+**关键词**：motherfucker / the little girl asked / mean
 
 **为什么这样写**：这句话是全章最具喜剧色彩的时刻——在 Kareem 说出"motherfucker"（他发现自己的处境如此艰难）之后，五岁的 Marlowe 直接问他这个词的含义。这个场景的力量来自语言纯洁与成人绝望之间的对比：Marlowe 的问题完全来自字面理解（mother + fucker?），而 Kareem 的咒骂来自他对命运的感叹。Kareem 如何回答这个问题将决定他作为父亲的形象——他选择了诚实但适龄的解释，还是选择了回避？
 
@@ -177,9 +177,9 @@ modified: "2026-09-18"
 |------|------|------|
 | doppelgänger | 分身；另一个自己 | There were two of them. But we had to be mistaken, because the alternative was insanity. |
 | teleportation | 瞬间传送；远距传输 | We were experimenting with teleportation. |
-| quantum | 量子的 | He seemed to exist in a state of quantum uncertainty. |
+| botched | 搞砸的；一败涂地的 | disappeared in a catastrophically botched teleportation experiment |
 | malevolent | 恶意的；有害的 | The State was a malevolent weight on their lives. |
-| surrogate | 替代的；代理的 | He was a surrogate father to the children. |
+| biometrics | 生物识别技术 | the biometrics connected to a bank account |
 | iris scan | 虹膜扫描 | Most people here paid for everything by means of an iris scan. |
 
 ### ⭐⭐ 进阶
@@ -187,11 +187,11 @@ modified: "2026-09-18"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | sequined | 亮片的；缀有闪光片的 | Gloria, in a sparkly sequined shirt. |
-| doppelganger | 分身（德语词） | The double didn't have just Kareem's face, but Kareem's voice. |
+| detention camp | 拘留营 | you will spend a year in a detention camp in the Mojave Desert |
 | terrace | 阳台；露台 | He returned to the terrace, where a few people had gathered. |
 | handler | 联络人；经纪人 | At first she was his handler, his guide to the territory. |
 | subdued | 顺从的；安静的 | subdued people who worked their menial jobs all day. |
-| custody | 监护权；保管 | He would have custody of the children. |
+| mortgage | 抵押贷款 | the children's father had paid off the mortgage on the house |
 
 ### ⭐ 基础
 
@@ -199,9 +199,9 @@ modified: "2026-09-18"
 |------|------|------|
 | old-fashioned | 古典鸡尾酒 | sipping an old-fashioned |
 | gorgeous | 漂亮的；华丽的 | Did you spill something on that gorgeous dress? |
-| pajamas | 睡衣 | He came out into the living room, blinking in his pyjamas. |
+| pyjamas | 睡衣（英式拼写） | He'd come out into the living room, blinking in his pyjamas, dragging his favourite blanket. |
 | blanket | 毯子 | dragging his favourite blanket |
-| swing | 秋千 | Do you like the swings? |
+| swing | 秋千 | Can we go to the swings? |
 | ice cream | 冰淇淋 | We never get ice cream! |
 
 ## 一句话总结

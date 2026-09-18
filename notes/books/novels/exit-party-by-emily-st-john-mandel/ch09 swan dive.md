@@ -3,7 +3,7 @@
 modified: "2026-09-18"
 ---
 
-# 1. Swan Dive
+# 9. Swan Dive
 
 ## 本章导航
 
@@ -151,9 +151,9 @@ modified: "2026-09-18"
 |------|------|------|
 | professional rivals | 职业竞争对手 | They are professional rivals. |
 | elastic | 弹性的；可伸缩的 | When he's deep in the work, time is elastic. |
-| tweed coat | 粗花呢外套 | She was gathering her things, putting on a red tweed coat. |
-| insomnia | 失眠 | the joys of not sleeping (insomnia as creative fuel) |
-| burnout | 燃尽；过度消耗 | My candle burns at both ends (burnout as lifestyle) |
+| tweed coat | 粗花呢外套 | She's gathering her things, putting on a red tweed coat with wine stains on the left sleeve. |
+| heroin | 海洛因 | Lucas is not a sporting man, and this was true even before the heroin. |
+| irritation | 烦躁；恼怒 | This happens to him often when they're together, a flash of irritation and a desire to be alone. |
 
 ### ⭐ 基础
 
