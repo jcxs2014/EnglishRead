@@ -4,7 +4,7 @@ chapter: 3
 modified: "2026-09-18"
 ---
 
-# 4. The Moon Carver
+# The Moon Carver
 
 ## 本章导航
 
