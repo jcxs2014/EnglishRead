@@ -123,7 +123,7 @@ modified: "2026-09-18"
 
 - **中文理解**：Lucy 从没钓过鱼，但确信渔民有句话——Hook, line, and sink her down to my level。
 - **句子结构**：钓鱼比喻。
-- **关键词**：Hook, line, and sinker（完全上钩）
+- **关键词**：Hook, line, and sink **her**（双关：sinker→sink her，完全上钩→把她拉下水）
 - **表达方式**：用钓鱼比喻暗示 Lucy 的策略——她要把 Nicola "钓"到自己的 level。
 - **为什么这样写**：用钓鱼比喻建立 Lucy 的"钓鱼"策略——她不是在"哀求"，是在"钓鱼"。
 

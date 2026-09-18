@@ -73,13 +73,13 @@ modified: "2026-09-18"
 - **表达方式**：用"well actually"这个网络梗暗示 Lucy 的"书呆子气"——她在生死关头还在纠正别人的文学错误。
 - **为什么这样写**：用"well actually"建立 Lucy 的性格——她是一个"会在被杀时纠正别人关于德古拉的错误"的人。
 
-> **原句 7:** "Watson11. That's a Sherlock reference, right? Dr. Watson? I figured it had to be."
+> **原句 7:** "I'm not a demon. I'm Lucy. I swear to God."
 
-- **中文理解**：Nicola 说 Watson11 是 Sherlock 的引用——Dr. Watson。
-- **句子结构**：直接引语。
-- **关键词**：Watson11（Instagram 密码）
-- **表达方式**：用密码建立 Lucy 的性格——她是一个 Sherlock Holmes 粉丝。
-- **为什么这样写**：用密码作为"证据"——只有 Lucy 知道这个密码，所以她不可能是幻觉。
+- **中文理解**：Lucy 否认自己是恶魔——她是 Lucy，她发誓。
+- **句子结构**：直接引语 + 三段式否定。
+- **关键词**：demon（恶魔）、Lucy（名字）
+- **表达方式**：用"swear to God"强调 Lucy 的真实性——她不是恶魔，她是人。
+- **为什么这样写**：用身份认同建立 Lucy 的"人性"——她拒绝被"恶魔化"，拒绝被"非人化"。
 
 > **原句 8:** It's my Instagram password, I said, my thoughts shaky and small. Watson11. You can log on to my account; then you'll know I'm not a hallucination. It's proof.
 
