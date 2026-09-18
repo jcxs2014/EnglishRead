@@ -89,7 +89,7 @@ modified: "2026-09-18"
 
 **中文理解：** 渐渐地，我意识到 Boleslaw、奥雷利亲王、玛丽王妃，还有所有其他英联邦要人都在盯着我看。我抿了一口酒。"别看我。我们约会那会儿，她可从来没这么干过。"
 
-**关键词：** staring at me, I sipped my drink, she never did that while we were dating
+**关键词：** Don’t look at me, she never did that while we were dating
 
 **为什么这样写：** 全书最狠的黑色幽默斩章：目睹掏心之后，全场把目光投给"唯一认识皇帝的盟友"，他用一句约会回忆把恐怖降格成八卦。作者的算盘有三层：给读者松绑（笑完才能消化血腥）、完成 Levar 的人物定位（他真的爱过这个掏心的怪物，而且还能开玩笑）、以及埋下政治后果——这句话明天就会传遍两宫廷。
 

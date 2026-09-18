@@ -19,7 +19,7 @@ modified: "2026-09-18"
 
 **中文理解：** 我用手指蘸了杯里的水朝她们弹去。两人齐齐惊呼，Astrid 瞪眼、Bridgette 撅嘴，但我毫不动摇。"住手。求你们了。你们一整晚都在抢位置。"
 
-**关键词：** flicked ice water, jockeying for position, I wasn't affected
+**关键词：** Stop it. Please, jockeying for position, I wasn’t affected
 
 **为什么这样写：** 一杯冰水把"性感陷阱"泼回成"谈判桌"：Levar 用最不性感的方式宣布游戏规则。作者让他从一夜的"被左被右"里夺回议程设置权——这是他全书第一次同时对两个强者说"停"。泼水动作小，权力姿态大：他终于把自己的不适量产成规则。
 

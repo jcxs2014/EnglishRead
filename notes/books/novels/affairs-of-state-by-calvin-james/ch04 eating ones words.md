@@ -89,7 +89,7 @@ modified: "2026-09-18"
 
 **中文理解：** 我不确定是什么让我说出了那句话——离她这么近，闻着她的气息，感受她身体的温度，隔了这么多年再次见到她——我无法再把她只当作虚空星际跨星系帝国的独裁者。对我来说，她身上永远有一部分，是我的阿斯特丽德。
 
-**关键词：** standing this close to her, the autocrat of the Voidstar Trans-Stellar Empire, my Astrid
+**关键词：** Hello, beautiful, the most fearsome warlord in the galaxy, prompted my mouth
 
 **为什么这样写：** 斩章句把全书的核心矛盾压进一个称呼的选择题：皇帝还是 Astrid？"my Astrid" 的所有格是 Levar 最勇敢也最危险的语法——他到现在仍把她算作"我的"。前一句用感官清单（气味/体温/多年）解释失守原因，让下一句台词的鲁莽有了充分的物理证据。作者在此兑现书名：一段 affairs of state，从一句不该说的情话开始谈判。
 

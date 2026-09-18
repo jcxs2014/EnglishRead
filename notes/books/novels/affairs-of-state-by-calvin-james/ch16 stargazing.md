@@ -59,7 +59,7 @@ modified: "2026-09-18"
 
 **中文理解：** "我不知道，"我回答。"这取决于你打算跟我做爱，还是打算把我的心从胸口撕出来。"
 
-**关键词：** make love or rip my heart, depends on, You could never be an enemy of mine
+**关键词：** make love or rip my heart, depends on, whether or not
 
 **为什么这样写：** 约会现场的黑色幽默扳手：他把 ch13 的处决直接端上野餐毯当话题。作者用这句话完成 Levar 对她的第一次"要求解释"——不是指控，是风险确认。她的回答（"我只掏敌人的心，你永远不可能是我的敌人"）听上去是情话，细想是判决书的另一种读法：只要你永远是"自己人"，我就永远不杀你——这句爱的语法，和帝国的语法一模一样。
 

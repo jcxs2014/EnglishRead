@@ -29,7 +29,7 @@ modified: "2026-09-18"
 
 **中文理解：** "你就是博伊兰，皇家骑兵的天空上尉，克尔申斯基亲王与彼得罗科夫伯爵的终结者，如今又添了格雷茨基伯爵。我是谢尔尼科夫亲王，新达尔文的毁灭者、斯特恩黑文的蹂躏者、大公爵博格丹诺夫斯基的终结者，皇帝的忠实拥趸。这两位是我的左右手：格拉西莫夫伯爵，菲耶的吞噬者；祖科夫伯爵，英雄的训导师。"
 
-**关键词：** Slayer of Prince Kerensky, listed their favorite achievements, three titles
+**关键词：** Slayer of Prince Kerensky, Devastator of New Darwin, Trainer of Heroes
 
 **为什么这样写：** 魔族荣誉体系第一次全景亮相：头衔是简历，杀名是勋章。作者让 Levar 被动听讲自己的"战绩播报"——连他杀过谁、叫什么名字，都要由敌人告诉他。战争的荒诞在此达到顶点：你记住的是生存，对方记住的是名字。而 Selnikov 主动报满头衔，等于正式承认他是"值得尊敬的敌人"。
 
@@ -69,7 +69,7 @@ modified: "2026-09-18"
 
 **中文理解：** "我不爱其他任何人。"
 
-**关键词：** I don't love any of the others, immediate, thoughtless, pure reaction
+**关键词：** I don’t love any of the others
 
 **为什么这样写：** 全书感情线的心脏在此停跳一拍：她答非所问——他问的是"别人你就不管了吗"，她说的是"我不爱别人"。作者精确标注这句话的性质：即时、未经思索、纯粹反应——它是从十二年压抑里漏出来的第一滴真话。紧接着她"僵住、睁大眼睛"的那一瞬，是 Astrid 十二年来第一次被他看见素颜。
 

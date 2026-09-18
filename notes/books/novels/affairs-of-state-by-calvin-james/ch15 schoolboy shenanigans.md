@@ -49,7 +49,7 @@ modified: "2026-09-18"
 
 **中文理解：** 阿斯特丽德双手搭上我的肩，俯身在我耳边低语："今晚见。"然后，就在我正要跟着鳞片小恶魔钻进狭窄的仆役走廊时，她给了我屁股一个热情的捏握。
 
-**关键词：** bending low to whisper in my ear, an enthusiastic squeeze, respond in kind
+**关键词：** bending low to whisper in my ear, an enthusiastic squeeze, I’ll see you tonight
 
 **为什么这样写：** 告别戏用"耳语+下手"完成风格总结：上一秒是宫廷私语，下一秒是少年式的放肆——她在两种身份间切换毫无滞涩。作者让镜门"在我回捏之前"关上，把小小的遗憾留在读者手里：这段恋情的常态就是被打断，甜蜜永远欠着下一半。
 
