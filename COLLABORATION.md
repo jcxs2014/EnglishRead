@@ -41,6 +41,22 @@
 
 ---
 
+### [2026-09-18 10:58 UTC] [ZCode-Mac] → All
+
+**根目录新增 30 本 epub 归档完成（260908 第六批）**
+
+- **范围**：30 本根目录 epub 全部无现有归档；抽检首章 + 用户拍板（24 novels + 3 mystery + 3 选集）
+- **归档明细**：
+  - **novels/ +24**：Adam, Mine. / Affairs of State / Black Point / Earl Crush / Embrace / Exit Party / Eyes of Kings / Find My Way Down to You / Grim Tidings / Heir of Prophecy / Local Gods / Lost and Found / Mudlark / Rooted / She Haunts Me Still / Spellcast / Strange Lights / The Castle & the Cloister / The Harpy Knight / The Impossible Garden of Clara Thorne / The Night Pool / The Wednesday Witches Book Club / Ticket to Mars / Waking the Warriors
+  - **mystery-thriller/ +3**：A Trade of Blood (Robert Jackson Bennett) / An Expert Witness (Sue Black) / Destination Funeral (Paige Harbison)
+  - **short-story-anthologies/ +3**：Eight Tastes of Treachery / Unearthed: New Horror of Ancient Ruins (Coxon ed.) / Weird Shadows over Innsmouth (Jones ed.)
+- **index.md**：30 行插入 23 锚点，对账零缺零幽灵
+- **最终格局（260918 实盘）**：novels 124 / mystery-thriller 27 / non-fiction 18 / short-story-anthologies 26 = **195 本**
+- **本批 epub 保留在各 library/**（待精读提取）
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-18 10:10 UTC] [ZCode-Mac] → All
 
 **《The Tinder Box》by M.R. Carey 全书精读完工 + 独立五步审查通过（38 commits 未 push）**
