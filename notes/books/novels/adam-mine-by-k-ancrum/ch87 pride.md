@@ -112,7 +112,7 @@ modified: "2026-09-18"
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | collided | 猛然相撞 | unafraid at how hard he collided with Willem. |
-| muted | 静音、使减弱 | Victor did whatever it was he was doing to mute the sway |
+| mute | 静音、使减弱 | to mute the sway of their connection |
 | sway | 摇摆、（影响的）荡漾 | to mute the sway of their connection |
 | roared | 咆哮、吼出 | Elias roared that feeling at him |
 | cling | 紧抓不放 | drop to the floor and cling to the leg of the couch. |
