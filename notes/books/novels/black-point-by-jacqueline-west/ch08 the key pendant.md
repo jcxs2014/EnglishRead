@@ -83,7 +83,7 @@ modified: "2026-09-18"
 
 **中文理解**：因为这不是一个健康的镇子，Lucia。它不会永远在这里。
 
-**关键词**：not a healthy town / won't be here forever
+**关键词**：isn't a healthy town / won't be here forever
 
 **为什么这样写**：母亲把女儿的信仰命名为病症（healthy），并用时间宣判整座镇子。句子的可怕在于它并非道德判断，而是经验判断——她自己就是这个镇长大的，她见过留下来的人变成什么样子。
 

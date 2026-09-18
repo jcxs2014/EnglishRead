@@ -47,7 +47,7 @@ modified: "2026-09-18"
 
 **中文理解**：那些对我们有价值，但对别人其实没什么价值的东西。
 
-**关键词**：valuable to us / not valuable to anyone else
+**关键词**：valuable to us / aren't all that valuable to anyone else
 
 **为什么这样写**：爷爷的一句判断把盗窃从"图财"改写成"有针对性"：被拿走的不是最值钱的，而是最有归属意义的。这句话同时替读者排除了"随机小偷"的假设，指向某种与纪念物过不去的动机。
 
@@ -59,7 +59,7 @@ modified: "2026-09-18"
 
 **中文理解**：也许我也该庆幸。但运气和无知，看起来都不值得感恩。
 
-**关键词**：luck and ignorance / not much to be grateful for
+**关键词**：luck and ignorance / don't seem like much to be grateful for
 
 **为什么这样写**：全场使用"幸好他们没上楼"的安慰逻辑，唯独她不肯收下这份安慰。这是她的道德底线：不把侥幸当安全，也不让 Oldies 用侥幸遮住真正的漏洞。
 
