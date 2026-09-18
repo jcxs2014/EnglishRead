@@ -1,7 +1,7 @@
 ---
 状态: 未读
-chapter: 3
-modified: "2026-09-10"
+chapter: 2
+modified: "2026-09-18"
 ---
 
 # The Passing of the Dragon（精读分析）
