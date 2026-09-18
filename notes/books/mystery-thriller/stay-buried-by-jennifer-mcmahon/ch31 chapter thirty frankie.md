@@ -67,15 +67,15 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 5:** "I'll wake you if we need you," he said. He made her a cup of tea laced with brandy and sent her up.
+> **原句 5:** "They're just gone, Frankie," he'd snapped, turning away from me. "There's nothing more we can do about it."
 
-**中文理解**："如果需要你我会叫你，"他说。他给她泡了一杯掺了白兰地的茶，送她上楼。
+**中文理解**："他们就这么走了，Frankie，"他厉声说，转过身去。"我们无能为力了。"
 
-**关键词**：laced with brandy / sent her up
+**关键词**：snapped / turning away / nothing more we can do
 
-**为什么这样写**：Uncle Thomas 用白兰地茶让 Margaret 安静下来——这是温柔的强制。"sent her up" 暗示他不想让她看到即将发生的事。
+**为什么这样写**：Uncle Thomas 的"snapped" 暗示他的耐心已经耗尽——他不是在生气，他是在崩溃。"turning away" 是逃避——他不想让 Frankie 看到他的恐惧。
 
-**读者视角提示**：白兰地 = 镇静剂 = 爱的控制。Uncle Thomas 在用温柔的方式保护 Margaret。
+**读者视角提示**："nothing more we can do" 是医生最不愿说的话——它意味着失败。Uncle Thomas 的医学权威正在瓦解。
 
 ## 本章词汇
 
