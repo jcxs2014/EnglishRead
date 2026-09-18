@@ -43,7 +43,7 @@ modified: "2026-09-18"
 
 **为什么这样写**：全章最温柔的段落里藏着最狠的自判——soft belly 与 nails scratching 是他能想象的最俗世的幸福，而他一句句列举自己不配的理由：unsuitable（不相配）、unable to rise（起不来——挣不起一份家业）、set to die young（注定早死）。这是灭门前就存在的旧账（逃兵的身体、被俘的伤），此刻被一次未遂的调情重新翻出：他不是不敢爱，是自判无资格爱。
 
-**读者视角提示**：对照 Magda——他不是没有被人爱过（酒馆的灯笼、偷藏的面包）；"unsuitable"是他的判词而非事实。本书的悲剧不是没人给他幸福，是他提前替所有人驳回了自己。
+**读者视角提示**：对照 Magda——他不是没有被人爱过（酒馆的灯笼、那句替哥哥做主的"他愿意分蛋糕给你"）；"unsuitable"是他的判词而非事实。本书的悲剧不是没人给他幸福，是他提前替所有人驳回了自己。
 
 > **原句 4:** "Elias ate this moment up, laved his tongue against it like rich cream from a spoon."
 
