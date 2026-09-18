@@ -55,9 +55,9 @@ modified: "2026-09-18"
 
 ---
 
-> **原句 4:** "“You bet on me?” I asked."
+> **原句 4:** "“You bet on me?” I asked. Sincera nodded. “Whether you would ask for help.”"
 
-**中文理解**："你们拿我下注？"我问。
+**中文理解**："你们拿我下注？"我问。Sincera 点点头："赌的是你会不会开口求助。"
 
 **关键词**：bet on me
 
