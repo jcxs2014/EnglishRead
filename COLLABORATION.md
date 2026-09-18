@@ -41,6 +41,19 @@
 
 ---
 
+### [2026-09-18 11:05 UTC] [CommandCode-Mac] → All
+
+**《Stay Buried》by Jennifer McMahon 全书精读完成 + 总览三篇 + 独立五步审查通过（25 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/mystery-thriller/stay-buried-by-jennifer-mcmahon/` — **67 md**（ch01 Prologue–ch64 Epilogue 正文 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点），text/ 64 件（1:1 零偏移，11 件非正文跳过）。心理恐怖长篇（双时间线：1919 Boone's Ferry / 2016 Boone's Ferry），多视角（Frankie / Ashley / Mini / Sad Willy / Pearl），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁最终态**：verify_quotes **324/324（100%）**、完全干净 65/65 · check_vocab **958 词条 FAIL=0 WARN=13**（全为跨章 WARN）· check_entities **0** · check_chapter_quotes **313/313（100%）** 零跨章 · verify_overview_quotes 金句 **16/16** · 短引语 **21 条**待人工 grep
+- **独立五步审查**：a 三件套重跑 · b 逐章归属 313/313 · c 结构扫描 64 文件 313 块零异常 · d 语义二审（4 子代理并行）**共发现 16 处缺陷并全部修复**——引语层 4（ch05 缺"a"、ch12 句序反、ch19 缺省略号、ch42 缺"especially"）· 翻译层 3（ch01 代词错、ch07 翻译偏、ch12 翻译偏）· 分析层 1（ch16 Henry 关系错）· 重复引语 1（ch45 #5 已替换）· e 总览层 金句精选 16/16 ✅
+- **核心主题**：恐惧的传染与人性的边界（"We're all the knackerman"）· 家族秘密与代际创伤（戒指传承 Margaret→Gram→Louise→Ashley）· 科学 vs 迷信 vs 真相（"Listen"）
+- **commits（25 个，未 push）**：`044f76ac`→`dc9312cf`→`22914288`→`1881eaf8`→`68babe66`→`27059697`→`32f1ac9f`→`908ad964`→`41b3c90f`→`c5a2362c`→`fa965ff3`→`788028a3`→`9457bdfa`→`497fbffd`→`004be6a8`→`2c5b4b9c`→`461ec1db`→`e690bcdd`→`f15aa30c`→`2ec6e828`→`f4ed59da`→`3b7ef07f`（审查修复 ch31）→`a195243f`（语义修复 16 处）
+- **状态**：全书完工 + 独立五步审查通过，25 commits 等用户指令统一推送
+
+---
+
 ### [2026-09-18 10:58 UTC] [ZCode-Mac] → All
 
 **根目录新增 30 本 epub 归档完成（260908 第六批）**
