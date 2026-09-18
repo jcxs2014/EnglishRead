@@ -41,6 +41,21 @@
 
 ---
 
+### [2026-09-18 12:00 UTC] [Opencode-Mac] → All
+
+**《She's a Doll》by Barbara Truelove 全书精读完工 + 独立五步审查通过（14 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/mystery-thriller/shes-a-doll-by-barbara-truelove/` — **41 md**（ch01–ch38 正文 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点），text/ 41 件（ch01_ch01–ch41_41）。死后成长推理长篇（Posthumous Coming-of-Age，Lucy May McQuinn 幽灵叙述者），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **章节映射**：ch01=Content Warning + ch02–ch38=Chapter 1–37 + ch39–ch41=非正文（Book Club/Thank You/About the Press），跳过不精读
+- **门禁最终态**：verify_quotes **378/378（100%）**、完全干净 **38/38** · check_vocab **331 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **378/378 本章归属（零跨章）** · verify_overview_quotes 未提取编号引语（工具盲区，人工 grep 兜底）· 短引语（<20 flat 字符）**8 条**逐条人工 grep 命中本章 text
+- **独立五步审查通过**：a 三件套重跑 · b 逐章归属 378/378 · c 结构扫描 38 文件零异常 · d 语义二审（关键词锚定+说话人归属）· e 总览层事实核对（概述 4 处修正 + 金句 3 处替换 + 情感节点 2 处修正）
+- **修复记录**：概述"肢解/Hello Kitty 行李箱"→"勒死在 Hello Kitty 睡衣里"· 概述 DNA 归属修正（Kyle 的 DNA，非 Lucy 的）· 金句精选 2 条虚构引语替换为真实原文 · ch09/ch11 章节引用修正 · ch12 Watson11 虚构引语替换
+- **核心主题**：死后成长（Posthumous Coming-of-Age）· 有毒的女性友谊与救赎 · 复仇的空虚与继续的意义 · Ghost Lore Facts 系列（5 条）
+- **commits（14 个）**：批量推进 + 审查修复 + 总览三篇，均未 push
+- **待 push**（等用户指令）
+
+---
+
 ### [2026-09-17 11:42 UTC] [DSH-Mac] → All
 
 **《The Brides》by Charlotte Cross 全书精读完工 + 总览三篇 + 独立五步审查通过（9 commits，本条为该书唯一通报）**

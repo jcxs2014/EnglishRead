@@ -41,6 +41,12 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-09-18 新增
+
+- **She's a Doll（Barbara Truelove）死后成长推理长篇**：38 章精读（ch01 Content Warning + ch02–ch38 Chapter 1–37）+ 总览三篇（概述/金句精选25句/情感节点10节点）= **41 md** + text/ 41 件。Opencode-Mac 执行，独立五步审查通过。终值：verify **378/378（100%）** 干净 38/38 · vocab **331 词条 FAIL0 WARN0** · entities **0** · chapter **378/378 本章归属（零跨章）** · 8 条短引语人工 grep 命中。**关键教训**：①死后成长叙事（Posthumous Coming-of-Age）格式=精简格式（导航 5 项 + 四子项 + 三档词汇 + 一句话总结）；②verify_overview_quotes 对 00_*.md 报"未提取到编号引语"属工具盲区，须人工 grep 兜底；③概述/总览层事实错误（遗体描述/DNA归属/虚构引语）是 verify 全绿下的最大盲区，必须逐条回原文 grep 核实。**14 commits 未 push**。
+  - 结构：幽灵叙述者（Lucy May McQuinn），死后第七天在破碎 doll 身体中苏醒，能控制时间（内部时间无限延长那几分钟）；复仇对象 Kyle Lawson（Krissy 的双胞胎哥哥）；Nicola 是唯一能看到 Lucy 的人；Ghost Lore Facts 系列（5 条）
+  - 核心主题：死后成长（接受 ace lesbian 身份）· 有毒的女性友谊与救赎（Krissy 掩盖 Kyle 罪行）· 复仇的空虚与继续的意义（"you decide when you're ready to go, no one else"）
+
 ### 2026-09-16 新增
 
 - **Strange Is the Light（Sarah Maria Griffin）文学思辨／科幻·恐怖长篇**：**25 md**（ch01–ch22 正文 + 00_概述 / 00_金句精选25句 / 00_情感节点10节点）+ text/ 22 件（1:1 零偏移）。DSH-Mac 执行，主会话五步审查修正 27 处后放行。终值：verify **203/203（100%）** 干净 23/23 · vocab **656 词条 FAIL0 WARN0** · entities **0** · chapter **178/178 in 本章 text** · overview 金句 **25/25** · crossref **0 对 0 报警** · 结构 **178 块 0 问题** · 总览全量英文片段 **47/47 MISS=0** · **分析层英文片段 867 条 MISSS=0** · 0 条短引语。**12 commits 未 push**（`a07ba702`…`7e34a8a5`）。
