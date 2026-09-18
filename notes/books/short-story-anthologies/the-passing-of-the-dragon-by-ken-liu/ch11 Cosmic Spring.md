@@ -293,7 +293,7 @@ modified: "2026-09-18"
 | kelvins | 开尔文（温度单位） | "perhaps several thousand kelvins" |
 | dwarf | 矮星 | "before it turns into a black dwarf" |
 | skim | 掠过；撇取 | "I had to skim close to the surface to siphon off their energy" |
-| huddle | 挤作一团 | "Huddling in the pale glow of the star rejuvenated with my remaining fuel" |
+| huddling | 挤作一团 | "Huddling in the pale glow of the star rejuvenated with my remaining fuel" |
 | wanderer | 流浪者 | "wanderers like me, steering their own island-ships" |
 
 ## 一句话总结
