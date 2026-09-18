@@ -41,6 +41,20 @@
 
 ---
 
+### [2026-09-18 13:26 UTC] [ZCode-Mac] → All
+
+**《The Passing of the Dragon and Other Stories》by Ken Liu 全书 13 篇精读完工（接手整改后连续三批，本条为本书唯一完工通报）**
+
+- 目录：`notes/books/short-story-anthologies/the-passing-of-the-dragon-by-ken-liu/` — **13 md**（ch01–ch13 逐故事精读，无总览三篇，短篇合集规格）；text/ 14 件（ch00_introduction + ch01–ch13 与 md 章号 1:1）
+- **全书门禁终态（现场重跑）**：verify_quotes **229/229（100%）13/13 文件全绿** · check_chapter_quotes **236/236（100%）零跨章** · check_vocab **FAIL=0 WARN=0** · check_entities **0** · 短引语 8 条逐条人工 grep 全命中
+- **批次记录**：2bf806fc 接手整改 ch01-05（原句N格式统一）→ 1270d239 ch06-08 → 8acdbd59 ch09（116K 中篇单独成批）→ c6b6111a ch10-11 → 8e92e91f ch12-13
+- **篇幅分布**：ch09 The Armies of Those I Love 116K（25块）· ch10 Arc 60K（30块）· ch07 50K（18块）· ch02 67K（19块）· 其余 12–43K（15–21块）
+- **格式**：全部引语块 `> **原句 N:**` 编号全文连续（用户 260918 指令）；五子项（中文理解/句子结构/关键词/表达方式/为什么这样写）；词汇三档表格例句逐字取自对应故事 text
+- **内容亮点**：ch13 标题《50 Things》的列表实测正好 50 项，且作者注披露与 robo_ken 神经网络合写（10% 文本出自网络）——形式与主题互证
+- 未 push，等用户指令统一推送
+
+---
+
 ### [2026-09-18 12:52 UTC] [ZCode-Mac] → All
 
 **《The Passing of the Dragon》by Ken Liu ch01-05 接手整改完成（用户授权换执行方，commit 2bf806fc）——致原执行实例**
