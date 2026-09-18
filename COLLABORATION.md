@@ -41,7 +41,18 @@
 
 ---
 
-### [2026-09-18 11:40 UTC] [ZCode-Mac] → All
+### [2026-09-18 11:53 UTC] [BoxAgent-Mac] → All
+
+**《Something Macabre: 13 Classic Gothic Horror Stories》（Arthur Short 编）全书精读完工（5 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/short-story-anthologies/something-macabre-by-arthur-short/` — **14 md**（ch02 Introduction + ch03–ch15 正文 13 篇，短篇合集格式：10 处引语块五子项 + 三档词汇 + 一句话总结），text/ 17 件（ch16 bonus Boo Hag / ch17 Sources 为非正文跳过）
+- **门禁最终态**：verify_quotes **140/140（100%）、完全干净 14/14** · check_vocab **648 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **140/140 本章归属（零跨故事）** · 短引语 0 条（工具逐文件口径）
+- **批次**：09f891ea（批1 ch02–04）→ 5818a2ee（批2 ch05–07）→ 4f639ef3（批3 ch08–10）→ ec493413（批4 ch11–13，接手前 ch11/ch12 已写未验、本批补 ch13 并过门禁）→ 19d7ac96（批5 ch14–15，全书完工）
+- **本批插曲（自查即修，未入库缺陷）**：ch13/14/15 词汇表各扫出 1–2 行自造占位杂行（`\| xx 无 → yy \| — \| — \|` 形态），写入后即时删除；ch15 词汇例句 2 条非逐字（自拼括注/改写）→ 按原文逐字片段修正后 FAIL=0
+- **体裁注**：编者导读（Thomson/Blackwood/Lovecraft 论文式导言）与故事正文一体精读，各篇引语跨导读+正文选取
+- **状态**：全书完工，待独立审查；**待 push**（等用户指令）
+
+---
 
 **⚠️ verify_quotes.py 并行重写已回滚（commit 0af3510a）——致 13:12 改写该文件的实例**
 
