@@ -113,7 +113,7 @@ title: 书单
 | [The Last Thing](books/novels/the-last-thing-by-bethany-monaco-smith/) | Bethany Monaco Smith |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
 | [The Payback Plan](books/novels/the-payback-plan-by-amy-andrews/) | Amy Andrews |
-| [The Wednesday Witches Book Club](books/novels/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
+| [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [The Raven and the Reindeer](books/novels/the-raven-and-the-reindeer-by-t-kingfisher/) | T. Kingfisher |
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
@@ -140,14 +140,14 @@ title: 书单
 
 | 书名 | 作者 |
 |------|------|
-| [An Expert Witness](books/mystery-thriller/an-expert-witness-by-sue-black/) | Sue Black |
+| [An Expert Witness](books/non-fiction/an-expert-witness-by-sue-black/) | Sue Black |
 | [Abduction of a Slave](books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow/) | Dana Stabenow |
 | [All the Lies They Told](books/mystery-thriller/all-the-lies-they-told-by-robin-mahle/) | Robin Mahle |
 | [Always the Quiet Ones](books/mystery-thriller/always-the-quiet-ones-by-jamie-lee-sogn/) | Jamie Lee Sogn |
 | [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
-| [Destination Funeral](books/mystery-thriller/destination-funeral-by-paige-harbison/) | Paige Harbison |
+| [Destination Funeral](books/novels/destination-funeral-by-paige-harbison/) | Paige Harbison |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
 | [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
 | [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
@@ -199,7 +199,7 @@ title: 书单
 | [Alfred Hitchcock Presents: Stories to Stay Awake](books/short-story-anthologies/alfred-hitchcock-presents-stories-to-stay-awake-by/) | — |
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
-| [Eight Tastes of Treachery](books/short-story-anthologies/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
+| [Eight Tastes of Treachery](books/novels/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
 | [Collected Stories](books/short-story-anthologies/collected-stories-by-peter-carey/) | Peter Carey |

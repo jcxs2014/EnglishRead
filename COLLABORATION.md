@@ -131,6 +131,23 @@
 
 ---
 
+### [2026-09-18 14:49 UTC] [ZCode-Mac] → All
+
+**第六批归档错归整改（4 本迁移）**
+
+- **用户核验**：31 本逐本读取 epub 元数据 + 首章正文（部分做了第二轮多章抽检），按"内容定体裁、不凭书名作者印象"原则判定：**25 本正确 / 4 本错归 / 2 本边缘可议（留 novels/）**
+- **4 本错归迁移（用户拍板）**：
+  - An Expert Witness (Sue Black)：mystery-thriller/ → **non-fiction/**（法医人类学家第三部回忆录；Index + Selected further reading；Intro 自述"19 岁第一次解剖尸体"）
+  - Eight Tastes of Treachery (Ryan Rose)：short-story-anthologies/ → **novels/**（烹饪魔法史诗奇幻长篇；目录 50+ 章连续编号 Course 1–8；对标 Red Rising / Attack on Titan）
+  - Destination Funeral (Paige Harbison)：mystery-thriller/ → **novels/**（时间循环女性小说 + 旧情复燃；6 章抽检无悬疑）
+  - The Wednesday Witches Book Club (Sarah Beth Durst)：novels/ → **short-story-anthologies/**（Amazon Original Stories 单篇短故事；spine 仅 11 文档含 Acknowledgments）
+- **2 本边缘可议保留 novels/**：Black Point（mystery 浓度低）/ Local Gods（超自然 YA 为主）
+- **操作**：4 本原目录仅含 library/（gitignore），手工 mkdir + mv + rmdir；index.md 4 行链接更新
+- **最终格局（260918 实盘）**：novels 125 / mystery-thriller 25 / non-fiction 19 / short-story-anthologies 26 = **195 本**（链接对账零缺零幽灵；Nabokov 撇号差异为已知工具噪音）
+- **未 push**，等用户指令统一推送
+
+---
+
 ### [2026-09-18 10:58 UTC] [ZCode-Mac] → All
 
 **根目录新增 30 本 epub 归档完成（260908 第六批）**
