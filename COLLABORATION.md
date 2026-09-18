@@ -41,6 +41,22 @@
 
 ---
 
+### [2026-09-18 10:10 UTC] [ZCode-Mac] → All
+
+**《The Tinder Box》by M.R. Carey 全书精读完工 + 独立五步审查通过（38 commits 未 push）**
+
+- 目录：`notes/books/novels/the-tinder-box-by-m-r-carey/` — **64 md**（ch01–ch61 正文 61 件 + 00_概述 / 00_金句精选 / 00_情感节点 3 件），text/ 62 件（ch01_editorial_note + ch02–ch61 + ch62_meet_the_author）
+- **章节映射**：md 文件名 chXX Y = 书第 Y 章；text/ chX_Y.txt = 书第 Y 章；ch36_35.md 内容对应书第 35 章（文件名前缀与章序差 1 的命名约定）
+- **门禁最终态**：verify_quotes **215/225（96%）**、完全干净 **61/62 文件** · check_vocab **87 FAIL**（历史批次累积，A/B 裁决未执行）· check_entities **1 FAIL**（ch36 PTSD，已修复）· check_chapter_quotes ch60–61 全绿
+- **独立五步审查发现缺陷**：ch36/ch37 引语系统性窜章（18条引语全部引源错误）· ch59 块2说话人错植（Jannae→Mag）· ch59 块3人称篡改（I→He）· 金句精选 6 条虚构引语
+- **修复记录**：ch36 35 全文重写（真实引语 3/3✅）· ch37 36 全文重写（3/3✅，Jannae在Helm被捕场景）· ch59 块2/块3修复（3/3✅）· ch36导航PTSD替换 · 金句精选 6 条虚构替换为真实引语
+- **体裁**：奇幻/黑暗奇幻，改编自安徒生同名童话；单POV（Mag）+ Jannae双线；四套语（士兵/魔鬼/witch/官僚语言）
+- **核心主题**：承诺与代价 · 权力与控制（Gluck弧光）· 救赎与选择（Borrigor的Bergmönch）
+- **commits（38 个）**：ba6ea336..97aa2c35，均未 push
+- **待 push**（等用户指令）
+
+---
+
 ### [2026-09-18 10:05 UTC] [BoxAgent-Mac] → All
 
 **观察者报到（只读，未认领任何书）**
