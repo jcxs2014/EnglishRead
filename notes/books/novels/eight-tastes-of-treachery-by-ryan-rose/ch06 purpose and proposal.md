@@ -13,7 +13,7 @@ modified: "2026-09-18"
 
 **结构位置**：Course 1 第三篇——从"案件"转向"厨房"，把餐厅开张前的七十二小时铺成一个微型社会：王室、内阁、移民厨工、旧日恩人各自带着筹码。
 
-**信息推进**：Cori 是真正的政治继承人（隐性否决权）；她与屠夫同居多时，母亲一直催"继承人" · 餐厅＝Academy House，七人班底登场（侍酒师 Sincera il Cappero／糕点师 Feng Ladwait／maître d' …）· Feng 是獾国政治难民，其亲生父亲可能随使团而来 · Ranch 的求婚习俗：戒指随食物或酒奉上，接受则取戒指 · 屠夫即将在学院教 Knifecraft、Laven 教 Alchemic Gastronomy · 本章末尾埋下伏笔：他要当众宣布的事（"I've been lying to you"）。
+**信息推进**：Cori 是真正的政治继承人（隐性否决权）；他们与屠夫同居多时，母亲一直催"继承人" · 餐厅＝Academy House，七人班底登场（侍酒师 Sincera il Cappero／糕点师 Feng Ladwait／maître d' …）· Feng 是獾国政治难民，其亲生父亲可能随使团而来 · Ranch 的求婚习俗：戒指随食物或酒奉上，接受则取戒指 · 屠夫即将在学院教 Knifecraft、Laven 教 Alchemic Gastronomy · 本章末尾埋下伏笔：他要当众宣布的事（"I've been lying to you"）。
 
 **叙事手法**：三人街头对话（用玩笑承载政治说明）＋ 厨房群像速写（用"整洁／邋遢"对照写两个厨工的移民身世）＋ 一段关于婚姻与空缺座位的内心独白，最后用一句未说完的宣告断章。
 

@@ -93,7 +93,7 @@ modified: "2026-09-18"
 
 > **原句 7:** Cori never cried. I know exactly when, where, and why every tear has fallen from her face.
 
-**中文理解**：Cori 从不哭。她脸上每一滴泪落在何时、何地、为什么，我都记得清清楚楚。
+**中文理解**：Cori 从不哭。他们脸上每一滴泪落在何时、何地、为什么，我都记得清清楚楚。
 
 **关键词**：Cori never cried / every tear has fallen
 

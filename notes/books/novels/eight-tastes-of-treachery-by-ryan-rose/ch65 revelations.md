@@ -85,7 +85,7 @@ modified: "2026-09-18"
 
 **关键词**：a wedding, not a trial
 
-**为什么这样写**：用一句对照句概括他全部计划被打乱的遗憾：主角的婚礼、他的新秩序，同被一次 logos 事件摧毁。作者让政治与私事共用同一组名词。
+**为什么这样写**：用一句对照句概括他全部计划被打乱的遗憾：主角的婚礼、他的新秩序，同被同一次 logo 事件摧毁。作者让政治与私事共用同一组名词。
 
 **读者视角提示**："婚礼"是本卷的终点（Course 8 婚礼蛋糕）；请把这句话记入总览的伏笔清单。
 
@@ -161,7 +161,7 @@ modified: "2026-09-18"
 | snarled | v.（snarl 的过去式）呲牙低吼 | The guard who'd told me not to interrupt snarled wolfishly |
 | senator | n. 参议员 | You have a funny way of showing it, senator |
 | blockade | n. 封锁，阻挡 | As the guards removed their blockade and I stepped forward |
-| logos | n.（本书用语）商标标记（此处原文为 logo 的单复数混用） | the moment someone slapped your logo all over the Empire |
+| logo | n.（本书用语）商标标记 | the moment someone slapped your logo all over the Empire |
 | yeller | n.（本书用语）传声者（军职） | whispers something to the yeller standing outside |
 | footnote | n. 脚注 | If you're worried about that footnote finding its way into a history book |
 

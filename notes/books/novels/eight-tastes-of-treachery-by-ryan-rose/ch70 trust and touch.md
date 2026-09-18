@@ -117,7 +117,7 @@ modified: "2026-09-18"
 
 > **原句 9:** "“You’re a sourcerer!” I said. “I’m a sourcerer!” he said."
 
-**中文理解**："我是源术师了！"他说。
+**中文理解**："你是源术师了！"我说。"我是源术师了！"他说。
 
 **关键词**：I'm a sourcerer!
 
