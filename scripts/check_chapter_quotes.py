@@ -28,7 +28,7 @@ flat = lambda s: re.sub(r'[^a-z0-9]', '', s.lower())
 
 # Pattern: ①/②… 圈数字 + optional quotes
 CIRCLED_RE = re.compile(
-    r'^(?:' + r'\*{0,2}[' + CIRCLED + r']' + r'\*{0,2})\s+["\u201c]?(.*?)["\u201d]?\s*$'
+    r'^(?:>\s*)?(?:\*{0,2}[' + CIRCLED + r']\*{0,2})\s+["\u201c]?(.*?)["\u201d]?\s*$'
 )
 # Pattern: > **原句 N:** "..." or > **原句 N:** <text>
 #   Handles any number of asterisks (0-3) around the label

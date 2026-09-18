@@ -141,9 +141,20 @@ def check_book(book_dir, verbose=False):
             continue  # 总览文件无词汇表
         name = os.path.basename(f)
 
-        # 从文件名提取章号
+        # 从文件名提取章号；文件名无 chNN 前缀时，尝试读 frontmatter chapter: N
         cm = re.match(r'ch(\d+)', name)
         nn = int(cm.group(1)) if cm else None
+        if nn is None:
+            # 读 frontmatter 找 chapter: N
+            fm = {}
+            in_fm = False
+            for line in open(f, encoding='utf-8'):
+                if line.strip() == '---':
+                    in_fm = not in_fm; continue
+                if in_fm and ':' in line:
+                    k, v = line.split(':', 1)
+                    fm[k.strip()] = v.strip()
+            nn = int(fm['chapter']) if fm.get('chapter', '').isdigit() else None
         ch_corpus = chapter_corpora.get(nn, '') if nn is not None else ''
 
         tier = None
