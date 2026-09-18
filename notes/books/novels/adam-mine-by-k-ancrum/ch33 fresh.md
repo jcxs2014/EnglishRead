@@ -78,7 +78,7 @@ modified: "2026-09-18"
 | upkeep | 饲养/维持的费用 | He paid for the upkeep of his horse |
 | nuisance | 讨人嫌的人/物 | though they were no more of a nuisance than other customers |
 | modest means | 中等的收入、小康 | frequented mostly by older men of modest means |
-| clientele | 常客、客户群 | slipped the owners a fee . . . information on repeat clientele |
+| clientele | 常客、客户群 | Gave them more for information on repeat clientele. |
 
 ### ⭐⭐ 进阶
 

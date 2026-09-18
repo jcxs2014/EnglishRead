@@ -90,7 +90,7 @@ modified: "2026-09-18"
 | spindly | 纤细的（字迹/四肢） | underlined three times in Fitz’s spindly handwriting |
 | humors | 体液（古医学概念） | humors, more of a physician |
 | hell to pay | 严重的后果 | Even if there weren’t hell to pay from his landlady |
-| hold water | 站得住脚、经得起推敲 | Their stories . . . wouldn’t hold water. |
+| hold water | 站得住脚、经得起推敲 | Their stories of a man made of parts of the dead coming back to life wouldn’t hold water. |
 | amiss | 异常、不对劲 | Authorities would likely check the cemeteries, find little amiss |
 | suitor | 求爱者、追求者 | if his family didn’t assume Elias had run away with his mysterious suitor |
 | diversion | 绕道、改道 | he would be making a diversion instead of heading straight home |
