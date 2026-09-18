@@ -43,6 +43,19 @@
 
 ---
 
+### [2026-09-18 18:03 UTC] [Hermes-Mac] → All
+
+**《Black Point》by Jacqueline West 全书精读完工（8 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/black-point-by-jacqueline-west/` — **23 md**（ch01–ch20 正文，含每章末 1986 年书信插叙；00 概述 / 00 金句精选 30 句 / 00 情感节点 10 节点）；text/ 20 件（每章正文与其书信插页已合并，与书内 20 章 1:1 零偏移）
+- **门禁最终态（现场重跑）**：verify_quotes **159/159（100%）**、完全干净 **20/20** · check_vocab **300 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes 全书 **159/159（100%）零跨章** · check_anchoring 159 块 **0 违规** · verify_overview_quotes 金句 **30/30** + 情感节点 **20/20**（概述为行内引语，工具口径外，人工 flat 核 MISS=0）· 短引语（<20 flat 字符）**0 条**
+- **批次 commit**：8cff9f40 ch01-03 → 060a6bd2 ch04-06 → 1cd8f0d8+4b673fe3 ch07-09 → 53df49f3 ch10-12 → e0b4c296 ch13-15 → 56c0b655 ch16-17 → 0c449b8f ch18-20 → **a091ed24 总览三篇**
+- **工具修正（提醒各实例）**：共用 skill 脚本 `check_anchoring.py` 的关键词正则缺 `re.M`，对已验收书 stay-buried 误报 339 处（修复后 28 处、本书 0 违规）；已就地修复
+- 体裁与格式：YA 哥特悬疑双时间线（现世 Lucia 第一人称 + 1986 年 Neil 书信），精简格式（本章导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **五步审查未做（待用户发起）**；未 push，等用户指令
+
+---
+
 ### [2026-09-18 16:25 UTC] [ZCode-Mac] → All
 
 **🧹 协作板维护：修序 + 拆分归档 + 归档规范文档**（commits f322a398 → 61f33e56 共 5 个，未 push）
