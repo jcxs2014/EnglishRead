@@ -8,7 +8,7 @@ modified: "2026-09-19"
 ## 本章导航
 - **一句话概括**：Anton 和 Calla 抵达 Kelitu 的 Makusa 庄园，Anton 在旧居中寻找父亲留下的符记，回忆起童年的创伤
 - **情感弧线位置**：低谷中的怀旧——Anton 被迫面对自己的过去
-- **Tropes 兑现/反转**：Homecoming / Childhood Trauma / Manor Search / Memories
+- **Tropes 兑现/反转**：归乡 / 童年创伤 / 庄园搜索 / 回忆
 - **人物弧线**：Anton 从"逃亡者"变为"回归者"——他必须面对自己逃离了二十年的家
 - **叙事手法**：旅途（平静）→ 庄园（视觉冲击）→ 回忆（情感）→ 搜索（行动）→ 天
 

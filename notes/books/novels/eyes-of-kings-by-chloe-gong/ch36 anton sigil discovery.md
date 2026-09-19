@@ -8,7 +8,7 @@ modified: "2026-09-19"
 ## 本章导航
 - **一句话概括**：Calla 发现天顶画中的符记，Anton 在手臂上刻画后跳到 August 军队中，发现他们改变了策略——分兵去 Janton，主力继续向 Actia/Ximili 进发
 - **情感弧线位置**：低谷——August 的策略变化让 Calla 和 Anton 陷入被动
-- **Tropes 兑现/反转**：Discovery / Sigil of the King / Jumping / Strategy Revealed
+- **Tropes 兑现/反转**：发现 / 天王符记 / 跳跃 / 策略揭露
 - **人物弧线**：Anton 从"逃亡者"变为"间谍"——他第一次主动使用父亲的力量来获取情报
 - **叙事手法**：发现符记（惊喜）→ 刻画（行动）→ 跳跃（紧张）→ 发现军队（震撼）→ 返回（信息传递）
 
