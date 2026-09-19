@@ -8,7 +8,7 @@ modified: "2026-09-19"
 ## 本章导航
 - **一句话概括**：Calla 独自下到牢房，与被困的 Galipei 对峙，揭露 Otta 的真实身份，提出交易：Galipei 加入她，她饶恕 August 的性命
 - **情感弧线位置**：低谷中的权力反转——Calla 从"逃亡者"变为"审讯者"
-- **Tropes 兑现/反转**：Cell Confrontation / Revelation / Offer of Defection / Sigil of King of Heavens
+- **Tropes 兑现/反转**：牢房对峙 / 真相揭露 / 倒戈提议 / 天王之符记
 - **人物弧线**：Calla 从"国王"变为"操纵者"——她学会了 Sinoa 的手法（用符记控制他人），并试图用"August 的性命"引诱 Galipei 背叛
 - **叙事手法**：下到牢房（紧张）→ 对话（心理博弈）→ Galipei 的提议（反转）→ 符记秘密（悬念）
 
