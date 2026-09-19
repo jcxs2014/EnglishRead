@@ -120,4 +120,7 @@ notes/books/tags
 notes/books/**/*.DS_Store
 
 scripts/fix_angelic.py
+
+# --- scripts/attic/ 一次性修复/审查脚本（各实例自用，不入库）---
+scripts/attic/
 .box-agent/
