@@ -47,21 +47,14 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bums | 乞讨、讨要 | Calla bums a cigarette off one of the men |
-| lurker | 潜伏者、偷偷摸摸的人 | lurking outside the tavern |
-| paranoid | 偏执的、多疑的 | She's been paranoid that the smell of the battlefield has followed them |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| tavern | 酒馆、客栈 | lurking outside the tavern |
-| negate | 否定、使无效 | a provincial lifestyle does not negate news from the capital spreading fast |
-| deliberation | 商议、讨论 | The Crescent Societies can no longer trade and traffic vessels |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| stub | 熄灭、踩灭 | Stamps on it, putting the embers out |
 | embers | 余烬、灰烬 | Other members of the pantheon have stepped in |ut |
 | ache | 疼痛、酸痛 | As though a canvas of rot waits beneath their feet—apples or peaches, already blackened and curling in on themselves |at the back of her neck |
 

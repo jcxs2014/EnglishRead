@@ -69,23 +69,18 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| pretense | 假装、借口 | under the most ridiculous pretense for order |
-| tether | 系绳、束缚 | No tether keeping him within his qi's natural restrictions |
-| deviant | 异常的、不正常的 | something deviant up their sleeve |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| archive | 档案、档案馆 | what their archives liked to focus on |
-| biographers | 传记作者、作传者 | The biographers sketched such intricate renderings |
-| intricate | 复杂的、精细的 | intricate renderings |
+| archive | 档案、档案馆 | The Weisannas keep a slow pace on their horses because the rest of them are forced to walk, marching a long trail through the overgrown grass |
+| intricate | 复杂的、精细的 | Years to perfect being a temporary intruder, because without a birth body, he got very good at identifying the exact moment he had pushed too far and needed to flee |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | rein | 缰绳、控制 | Entering where we have reinforcements |is reins |
 | pivot | 转向、 pivot | On the very likely chance that he fails an assassination attempt, he has warned August about his presence, and August will pivot gears |g and entering Kelitu |
-| escort | 护卫、护卫队 | He will work fast, then slip through San's wall again |
 
 ## 一句话总结
 本章通过 August 夺舍 Bibi 潜入 San-Er，揭示了 August 的"情报能力"——他知道 Bibi 的身份，知道如何利用她。但他发现 Galipei 已经被转移，他的"营救"失败了。通过 Bibi 的眼睛，他看到 Galipei 身上的"银色光芒"，暗示 Makusa 家族有看到 qi 的能力。这是全书的关键信息——Makusa 家族是"天王之符记"的守护者。

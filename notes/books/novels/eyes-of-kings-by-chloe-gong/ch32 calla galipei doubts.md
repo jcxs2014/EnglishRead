@@ -54,7 +54,6 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| sullen | 闷闷不乐的 | as sullen as a toad |
 | getaway | 逃走、逃跑 | make a quick getaway |
 | plush | 奢华的、舒适的 | the plush chair |
 

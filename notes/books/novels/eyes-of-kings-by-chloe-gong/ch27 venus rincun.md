@@ -64,7 +64,6 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stinging | 刺痛的、灼痛的 | her eyes stinging. |
-| sallow | 蜡黄的、病态的 | her sallow appearance indicating middle age. |
 | snag | 钩住、绊住 | Her foot snags on the path. |
 
 ## 一句话总结

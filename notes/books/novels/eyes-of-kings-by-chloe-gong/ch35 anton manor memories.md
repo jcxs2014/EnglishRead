@@ -47,23 +47,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| apex | 顶点、最高点 | the hill suddenly crests, bringing them up to its apex |
-| dilapidated | 破旧的、年久失修的 | a dilapidated fence that loops the perimeter of a house |
-| resonant | 有回声的、共鸣的 | The manor has always been resonant |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| incline | 斜坡、斜面 | The ground lifts on an incline |
 | briny | 盐水的、咸的 | the briny desolation that makes up Kelitu Province |
-| veranda | 阳台、走廊 | a smiling veranda, stretching before the double front doors |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| foliage | 叶子、植物 | Green foliage and brown fronds |
-| frond | 蕨叶、复叶 | brown fronds |
-| shun | 避开、回避 | They shun the sites that have been drenched in blood |
+| frond | 蕨叶、复叶 | Put one foot in front of the other |
 
 ## 一句话总结
 本章通过 Anton 回到 Makusa 庄园的场景，揭示了 Anton 的童年创伤——不是"大屠杀"本身，而是"家"的回忆。房子"比他还忠诚"，而他在这座忠诚的房子里，寻找的是一个可能不存在的符记。

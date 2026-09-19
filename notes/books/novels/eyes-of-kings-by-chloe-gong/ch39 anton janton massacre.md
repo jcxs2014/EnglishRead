@@ -67,14 +67,12 @@ modified: "2026-09-19"
 |---------|------|------|
 | pummel | 猛击、打击 | Rain pummels the beaches |
 | treacherous | 危险的、不稳定的 | forming treacherous terrain |
-| plimsolls | 橡胶底帆布鞋 | white plimsolls with laces |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | clutch | 抓紧、握紧 | Anton clutches his arm |
 | sting | 刺痛、灼痛 | only then does the sting register |
-| scabbard | 剑鞘、鞘 | She checks her scabbard |
 
 ## 一句话总结
 本章通过 Janton 大屠杀和 Anton 的身份发现，揭示了 Calla 的真正身份——她不是 Sinoa，而是另一个存在。Anton 的"who are you"不是质问，而是恐惧。他将面对一个真相：他一直信任的人，可能不是人。

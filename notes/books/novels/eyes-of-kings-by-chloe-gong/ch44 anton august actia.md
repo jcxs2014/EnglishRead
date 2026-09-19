@@ -49,23 +49,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| sovereign | 主权、至高无上 | marching through his sovereign territory |
-| makeshift | 临时的、权宜的 | makeshift furnishings |
-| vitriol | 尖刻、恶毒 | They spat at his guards, then tried to reach for August |
+| makeshift | 临时的、权宜的 | Even then, we fear that we will barely make a mark when they march into Actia |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lieutenant | 中尉、副官 | Administrative lieutenants |
-| disgruntled | 不满的、不高兴的 | disgruntled villagers |
-| remuneration | 报酬、薪酬 | without remuneration |
+| disgruntled | 不满的、不高兴的 | Some drainage ditch, running with disgusting, dirty water |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ceasefire | 停火、停战 | We cannot engage in ceasefire unless my every weapon has been deposited |
-| dicker | 讨价还价、争论 | Has it come time to beg for mercy? |
-| scheme | 计划、阴谋 | August did not scheme his way through King Kasa's ranks |
 
 ## 一句话总结
 本章通过 Anton 与 August 的谈判，揭示了 August 的"分裂王国"方案和 Sinoa 的"疯狂"。Anton 用 Galipei 的画面激怒 August，暗示 Makusa 家族的秘密——他们能看到 qi。Sinoa 的闯入标志着谈判的破裂，战争将继续。

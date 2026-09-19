@@ -79,23 +79,14 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| obsolete | 废弃的、过时的 | rendered obsolete |
-| jurisdiction | 司法权、管辖权 | The palace shall not claim jurisdiction |
-| perennial | 多年生的、持久的 | raising field after field of perennial crops |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| disperse | 分散、消散 | qi disperses back into the earth |
-| mop | 拖、擦 | They mop her blood and burn her body |
-| incinerate | 烧成灰、焚化 | invoke a sigil and incinerate him |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| blood | 血、血统 | Her blood paints a crimson picture |
-| morsel | 小片、碎屑 | half her head blown into morsels upon the ground |
-| tremor | 震动、微震 | A faint tremor shakes beneath the coliseum |
 
 ## 一句话总结
 全书以"And the sun rises on a new day"（太阳在新的一天升起）收尾，暗示"旧秩序的终结"和"新世界的诞生"。Calla 用生命诅咒了 crown，终结了"神圣王权"。August 和 Galipei 的王国虽然分裂，但他们依然存在——不是"胜利者"，而是"幸存者"。这是全书最"开放性"的结局——不是"大团圆"，而是"新的开始"。

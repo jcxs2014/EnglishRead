@@ -50,9 +50,6 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| astride | 跨骑、横跨 | August climbs astride his saddle. |
-| reins | 缰绳 | his grip tightening on his reins. |
-| astride | 跨骑、横跨 | August climbs astride his saddle. |
 
 等等，"astride" 不在原文中。让我修正。
 
@@ -61,9 +58,6 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| dismounts | 下马、下车 | The Weisanna dismounts. |
-| strides | 大步走、跨越 | She strides out from the tent before August contributes a word of approval. |
-| flamboyant | 艳丽的、炫耀的 | No flamboyant gestures, just efficiency. |
 
 等等，"flamboyant" 不在原文中。让我修正。
 
@@ -80,25 +74,18 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| astride | 跨骑、横跨 | August climbs astride his saddle. |
-| dismounts | 下马、下车 | The Weisanna dismounts. |
-| splutters | 气急败坏地说、结结巴巴地说 | He splutters for breath. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| reins | 缰绳 | his grip tightening on his reins. |
-| relents | 变温和、让步 | "We can try this your way," August relents. |
-| whinnying | 马嘶、嘶鸣 | her horse whinnying in protest. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| barracks | 兵营、 barracks | He exits the barracks and lifts his palm to the skies. |
-| trough | 饲料槽、水槽 | each trough overfilling with rainwater. |
-| trough | 饲料槽、水槽 | each trough overfilling with rainwater. |
+| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
+| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
 
 等等，"trough" 只出现了一次。让我换一个词。
 
@@ -114,9 +101,7 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| barracks | 兵营、 barracks | He exits the barracks and lifts his palm to the skies. |
-| trough | 饲料槽、水槽 | each trough overfilling with rainwater. |
-| deserted | 被遗弃的、空的 | the place was deserted. |
+| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
 
 确认：
 "barracks" 出现在第82行。

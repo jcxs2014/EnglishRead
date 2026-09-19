@@ -81,20 +81,16 @@ modified: "2026-09-19"
 |---------|------|------|
 | protrude | 突出、伸出 | A metal bar protrudes from the damage, and Calla’s palm stings when she uses it to push herself up |ude from his front, through his ribs |
 | ether | 以太、苍天 | Whether it comes from Sinoa herself or some clamor from the past, Calla can’t be certain |the ether |
-| subdued | 被抑制的、减弱的 | subdued after her exertion |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| puncture | 刺穿、穿刺 | it is no mere puncture |
-| keel | 倒下、坍塌 | Calla moves to catch him when he keels over |
 | calloused | 结茧的、粗糙的 | her own calloused hand, her fingers digging in |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | searing | 刺骨的、灼热的 | Sinoa’s grip turns searing hot, attempting to burn through Calla, and Calla sends her qi toward the fallen sword |g into his back |
-| snag | 勾住、扯破 | Exits the very way it entered, snagging and tearing |
 | wound | 伤口、创伤 | She hisses, bringing her elbow close and focusing until the wound stops gushing blood |ound |
 
 ## 一句话总结

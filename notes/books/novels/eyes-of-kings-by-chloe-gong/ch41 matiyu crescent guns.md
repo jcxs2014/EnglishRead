@@ -47,23 +47,19 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lackey | 仆人、走狗 | following the market-price rules in front of your lackeys |
-| compatriot | 同志、同胞 | I'm picking up a compatriot |
-| annihilation | 歼灭、彻底毁灭 | intent on annihilation |
+| lackey | 仆人、走狗 | I promised I wouldn’t, she almost adds, if it weren’t for what she has just declared, for the clear lack of sanctity she treats such oaths with |
+| compatriot | 同志、同胞 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
+| annihilation | 歼灭、彻底毁灭 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| haggle | 讨价还价、争论 | I need to talk. And haggle |
-| prototype | 原型、样品 | the most basic prototypes |
-| schematics | 图纸、设计图 | Production schematics were destroyed |
+| prototype | 原型、样品 | They were sturdy, so they lined the outer edge of the carts to protect more fragile specimens from being blown around |
+| schematics | 图纸、设计图 | August did not scheme his way through King Kasa’s ranks to be happy with Actia as his only territory while the rest of Talin prays to San-Er |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| baton | 警棍、指挥棒 | Will you put the baton down? |
-| confinement | 禁闭、限制 | breaks their self-imposed confinement |
-| defrost | 解冻、融化 | I would likely only defrost a cut |
 
 ## 一句话总结
 本章通过 Matiyu 试图购买枪支的场景，揭示了 San-Er 的防御准备——Crescent 正在制造原始枪支，而 Matiyu 意识到战争的逼近。他最终选择逃跑，这暗示了平民在战争面前的无力——不是"不想帮忙"，而是"帮不上忙"。

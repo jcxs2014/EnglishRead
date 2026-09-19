@@ -67,8 +67,6 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| diverge | 分叉、分歧 | diverge at Eigi. |
-| veer | 转向、改变方向 | veered off course |
 | swarm | 群、大量 | a whole host of problems |
 
 ## 一句话总结

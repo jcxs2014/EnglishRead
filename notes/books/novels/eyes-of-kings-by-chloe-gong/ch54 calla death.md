@@ -49,23 +49,15 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| vanquished | 被征服的、被击败的 | She is the vanquished, the defeated |
-| intermission | 间歇、中断 | a brief intermission in the kingdom's usual rhythm |
-| arsenal | 军火库、武器库 | You have this tool in your arsenal no longer |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| somber | 忧郁的、阴沉的 | the audience is as somber as death |
-| mandatory | 强制的、义务的 | mandatory attendance notices |
-| pedestal | 底座、基座 | It has been placed on a pedestal |
+| mandatory | 强制的、义务的 | “Clear the room,” August demands |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| procession | 行列、游行 | The procession runs from the palace |
-| petal | 花瓣、花瓣状物 | throw petals onto the spectators |
-| chain | 链条、锁链 | her wrists bound to chains |
 
 ## 一句话总结
 本章通过 Calla 在加冕典礼上诅咒 crown 并自杀的场景，揭示了全书的核心主题——"王权来自人民，而非上天"。"The divine crown shall kill anyone it touches"（神圣王冠将杀死任何触碰它的人）是全书最革命性的台词——Calla 用生命终结了"神圣王权"。"The gun fires"（枪响了）不是"悲剧"，而是"胜利"——她终于完成了她的"使命"。

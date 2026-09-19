@@ -59,23 +59,14 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ebb | 退潮、衰退 | leaden ebbs or rushing waves |
-| knell | 丧钟、哀钟 | no reversing the death knell |
-| slot machine | 老虎机、角子机 | scattered into a slot machine |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| loll | 懒洋洋地靠、倚靠 | Calla lolls against the bars of her cell |
-| groggily | 眩晕地、踉跄地 | She looks around groggily |
-| infinitesimal | 极微小的、无穷小的 | Actia warms the most infinitesimal amount |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| drug | 下药、麻醉 | She's been drugged |
-| cell | 牢房、单人病房 | The door to the throne room opens |
-| bar | 栏杆、铁栏 | Calla lolls against the bars of her cell |
 
 ## 一句话总结
 本章通过 Chami 探望 Calla 并赠予枪支的场景，揭示了她们在天界的友谊。"Bits and pieces"（零零碎碎）暗示 Calla 的记忆正在消失，她正在从"人"变为"神"。"Goodbye, Calla"不是"永别"，而是"来世再见"——这是神的告别方式。

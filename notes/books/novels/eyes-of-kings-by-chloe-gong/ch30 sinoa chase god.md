@@ -50,22 +50,14 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | barracks | 兵营、 barracks | Palace soldiers have abandoned their barracks in the provinces |acks |
-| aberrant | 异常的、脱离常轨的 | It is unnatural. Aberrant. |
-| delineating | 划定界限、描述 | delineating anymore |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| splinters | 碎片、尖片 | bursting into wooden splinters |
-| outpost | 前哨站、警戒线 | reach the outpost |
-| pursuit | 追求、追击 | fleeing pursuit |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| tamp | 压实、夯实 | biting on her tongue to tamp down her breathing |
-| varnished | 涂漆的、涂有清漆的 | varnished wood |
-| droves | 一群、大量 | droves of soldiers stationed here |
 
 ## 一句话总结
 本章通过一位弱小的神被 Sinoa 追杀的场景，揭示了 Sinoa 的残忍本质——她不仅杀死强大的神，也杀死弱小的神，因为她在收集"工具"，而不是"盟友"。这位神的"控制符记"暗示 Sinoa 正在建立一个由"傀儡神"组成的军队。

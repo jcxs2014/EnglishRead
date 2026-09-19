@@ -50,14 +50,12 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| mangled | 受损的、残破的 | her qi is... mangled. |
 | tryst | 幽会、密会 | Their tryst was a harvest. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | vitals | 生命体征 | check her vitals. |
-| unobstructed | 无障碍的、畅通的 | without any room for argument. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

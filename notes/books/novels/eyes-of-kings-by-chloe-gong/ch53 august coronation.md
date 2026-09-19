@@ -49,23 +49,14 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| understatement | 保守说法、轻描淡写 | To say that August endures a great shock would be an understatement |
-| stoic | 坚忍的、无动于衷的 | Stoic, stern, unpretentious |
-| balk | 犹豫、退缩 | Marra Weisanna balks |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| understatement | 轻描淡写 | To say that August endures a great shock would be an understatement |
-| unpretentious | 不虚伪的、朴实的 | Stoic, stern, unpretentious |
-| coronation | 加冕、拥立 | Don't touch it until the coronation |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| thud | 砰的一声、重击 | the door thudding closed |
-| seal | 封闭、密封 | sealing them away |
-| file | 排成纵队、列队 | his guards file out through the circular entryway |
 
 ## 一句话总结
 本章通过 August 和 Galipei 的加冕场景，揭示了两人关系的转变——从"主仆"变为"伴侣"。"Long may you accompany, as king consort"（愿你作为国王伴侣长久陪伴）是全书最浪漫的台词之一——不是"我封你为后"，而是"愿你陪我"。这种"平等"是 August 能给 Galipei 的最高的"礼物"。

@@ -49,23 +49,15 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ruse | 诡计、骗局 | seen through the ruse |
 | obliterate | 消灭、彻底摧毁 | If there is even one standing, they will obliterate the enemy |orth |
-| eddies | 漩涡、涡流 | Conversation eddies from the air vents |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| wetland | 湿地、沼泽 | becoming wetland |
-| satin | 缎子、缎面 | Her face is green. Her eyes blazing yellow |
-| scurry | 急跑、匆匆走过 | scurrying away with their bags |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| rein | 缰绳、控制 | unhitching its reins with a quick tug |
-| tug | 拉、拽 | a quick tug |
-| flock | 群、鸟群 | scaring off a flock of birds |
 
 ## 一句话总结
 本章通过 Calla 逃离 Actia 并发现 Sinoa 夺舍了她的身体，揭示了 Sinoa 和 August 的"调虎离山之计"。Calla 以为自己在"追击 August"，但实际上 August 在"引诱她离开 San-Er"。"August's forces have been obliterated in the north. But it matters not. Because he was always aiming for San-Er."（北方军队被歼灭了。但这不重要。因为他一直瞄准的是 San-Er。）这是全书最清醒的时刻之一——Calla 意识到自己被骗了。

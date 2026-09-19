@@ -49,23 +49,15 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| eddies | 漩涡、涡流 | Conversation eddies from the air vents |
-| riffraff | 痞夫、下等人 | clearing the riffraff |
-| penchant | 倾向、嗜好 | Galipei's penchant for hurrying to see if August is all right first |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| singed | 烧焦的、烫过的 | The shop fronts are singed |
-| stasis | 停滞、静止 | San-Er is in stasis |
-| provisionally | 临时地、暂且 | The throne room has been provisionally tidied |
+| provisionally | 临时地、暂且 | They weren’t actually grappling to seize the northern provinces when August was clearly in the weaker position, half his army wiped out |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| rubble | 碎石、瓦砾 | devastated to rubble |
-| kiss | 轻触、亲吻 | sunset kisses the horizon |
-| gap | 缺口、间隙 | a gap between the ruins |
 
 ## 一句话总结
 本章通过 August 发现 Galipei 逃脱的场景，揭示了 Galipei 的秘密——他拥有"符记"的力量，但他选择留在牢房中保护 August 的秘密。August 的"Why?"不是愤怒，而是困惑——他不理解 Galipei 的忠诚，因为他从未真正理解过"忠诚"的含义。

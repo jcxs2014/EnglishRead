@@ -98,7 +98,6 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | lurch | 突然倾斜、蹒跚 | Where her reaction is fought internally, Anton lurches and throws both arms against the brick wall behind him |e throne. |
-| brim | 边缘、边（此处指"full to the brim" = 满到边缘） | every apartment in these buildings has already been stuffed full to the brim. |
 
 ## 一句话总结
 本章通过 Calla 返回 San-Er 后被 Crescent Society 追赶的场景，揭示了 Crescent 的真实意图——他们不是 Calla 的盟友，而是独立的势力。qi 屏障的启动使 Calla 的力量失效，Bibi 的父母秘密为 Dovetail 提供了符记，Anton 侵入 Bibi 的身体展示了他的力量。Calla 从"国王"变为"逃犯"，被迫躲入密室。

@@ -59,23 +59,17 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| comet | 彗星 | Calla lands in the middle of battle as bright as a comet |
-| unimaginable | 难以想象的 | a capacity she would have thought unimaginable |
-| tangible | 有形的、可触摸的 | Tangible shock pulsates in every direction |
+| comet | 彗星 | He doesn’t quite understand where the drive comes from, but he must |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| skid | 打滑、滑行 | Her bare feet skid in the sand |
 | unblinking | 不眨眼的、一眨不眨的 | Anton reaches the dead guard, her blue eyes unblinking | To let the Weisanna die |
-| inert | 不动的、静止的 | Sinoa is gone. She leaves behind the vessel |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | run | 跑、奔跑 | Anton grunts, cutting through the palace guards, blood clogging the air and the sigil on his arm stinging, and still he can’t hear her |unning |
-| pocket | 口袋 | torn into each pocket of whatever heavenly qi exists in this body |
-| flow | 流动 | Her qi keeps flowing and flowing |
 
 ## 一句话总结
 本章通过 Calla 以"贪婪之神"本体战斗的场景，揭示了 Calla 的真实身份——她不是 Sinoa，而是"贪婪之神"，那个帮助 Sinoa 获得复活力量的神。Sinoa 的"welcome back"暗示她们的关系——不是"敌人"，而是"共犯"。Calla 的悲剧在于：她刚刚觉醒为神，但她的"人性"让她想要"回到身体里"——那具已经被 Sinoa 占据的身体。

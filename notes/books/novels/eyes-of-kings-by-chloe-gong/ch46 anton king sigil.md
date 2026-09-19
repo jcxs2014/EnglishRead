@@ -47,22 +47,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| parry | 挡开、闪避 | the clang of metal as it parries and strikes flesh |
-| emanate | 散发、发出 | The smell of blood and seared flesh emanates across the battlefield |
-| melee | 混战、肉搏战 | he's on the other side of the melee |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lithe | 轻盈的、柔软的 | His lithe physique and his blond hair |
-| unblinking | 不眨眼的、一眨不眨的 | her blue eyes unblinking |
-| pinprick | 针刺、小孔 | pinprick of light |
+| unblinking | 不眨眼的、一眨不眨的 | “You need to unblock San-Er,” Chami says |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stagger | 蹒跚、踉跄 | And Bibi, a Makusa, an insurgent, staggers to her feet, barely able to grasp what has unfolded |rom the yamen |
-| sword | 剑、刀 | Anton takes the sword from her hand |
 | sigil | 符记、印记 | They have not put sigils on their own bodies, as Bibi expected, because they have realized that no amount of qi will match up to that of a god | he had prepared on his arm |
 
 ## 一句话总结

@@ -59,23 +59,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| pecking order | 等级顺序、权势等级 | There's a pecking order. |
-| collusion | 勾结、共谋 | offering your collusion to the Crescent Societies |
-| hackles | 颈毛、愤怒（"hackles lower" = 放下戒心） | His hackles lower |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ransack | 洗劫、彻底搜查 | rummaged through it |
-| grating | 刺耳的、令人烦躁的 | the grating sound |
-| sullen | 闷闷不乐的、阴沉的 | as sullen as a toad |
+| grating | 刺耳的、令人烦躁的 | That the body disintegrated the moment she exited it on the earthly plane |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| cell | 牢房、单人病房 | When Calla thumps down the steps to the palace cells herself |
 | sigil | 符记、印记 | Violated the former sanctity they used to possess, each sigil belonging only to those who called upon their patrons | from its edges |
-| lantern | 提灯、灯笼 | Calla lifts the lamp, squinting when she descends another step |
 
 ## 一句话总结
 本章通过 Calla 与 Galipei 在牢房中的对峙，揭示了 Galipei 对 August 的感情——不是浪漫，而是"爱作为武器"。Galipei 向 Calla 透露了"天王之符记"的秘密——这是 Sinoa 不知道的符记，也是对抗她的唯一武器。Calla 从 Galipei 那里得到了击败 Sinoa 的钥匙。

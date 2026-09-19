@@ -48,14 +48,13 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | circlet | 小冠冕、头饰 | welling where his circlet sits |
-| divert | 转移、改变方向 | they must diverge |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | drench | 湿透、浸湿 | Rain drenches his hair. |
 | searing | 灼热的、炙热的 | searing the image into the back of his eyes |
-| relents | 变温和、让步 | "Enter," he relents. |
+| relents | 变温和、让步 | “Why stick to the same tactics that were only relevant during the war with Sica?” Otta asks airily |
 
 ## 一句话总结
 本章通过 August 与 Seefin 的遭遇，揭示了 Sinoa 打破天界的真正后果：天界是空的，神无法回归，只能作为凡人留在地球上。August 用"Calla 的真实身份"换取生存，但 Seefin 的警告——"天界是空的"——暗示 Sinoa 的复仇是一个无意义的循环，因为复仇的目标（天界）已经不存在了。

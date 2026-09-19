@@ -59,24 +59,18 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| decimated | 大量摧毁、严重破坏 | This section of San's wall has been decimated. |
-| monumental | 巨大的、不朽的 | The divine crown has given Calla monumental power. |
-| inscrutable | 高深莫测的、难以理解的 | Chami's face is inscrutable when she restores the building into position. |
+| decimated | 大量摧毁、严重破坏 | “I’ll go,” Calla decides |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| awnings | 遮阳篷、雨篷 | If she falls, the awnings will catch her. |
-| bestrewn | 散落、散布 | one corner juts out beyond the chunks of rock and brick bestrewn into the alley. |
-| monotonous | 单调的、一成不变的 | he is utterly monotonous when he asks, "Which one are you?" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | teeming | 拥挤的、密集的 | She would have assumed the alarms sent most Crescents out into the streets, but the north wing is teeming with them, convening at the doors |ies. |
-| rubble | 碎石、瓦砾 | a mound of rubble. |
 | skid | 打滑、滑行 | Her toes skid against the line of the puddle |ainst the line of the puddle. |
 
 ## 一句话总结

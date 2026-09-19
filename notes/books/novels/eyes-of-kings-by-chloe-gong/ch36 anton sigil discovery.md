@@ -49,22 +49,17 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| prong | 叉、尖头 | He loops the body of the sigil. The winding tail |
-| cascade | 倾泻、瀑布般落下 | the light that is pouring from him, cascading out of control |
-| head count | 清点人数 | Anton runs a rough head count |
+| head count | 清点人数 | Calla’s forehead is pressed against his back |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | alcove | 壁凹、壁龛 | the storage alcove above the door |
-| supine | 仰卧的、平躺的 | lying supine on the cool floor |
-| reedy | 芦苇般的、尖细的 | His voice comes out sharp and reedy |
+| reedy | 芦苇般的、尖细的 | “One day,” Anton says, “when we are not hunting for a way to win the war, when we have all the freedom in the world—I’d like to show you the sea |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| blade | 刀片、刀刃 | he pulls a knife from his pocket and presses it to his elbow |
-| pierce | 刺穿、刺入 | his blade pierces skin anyway |
 | nausea | 恶心、反胃 | “Bibi liked to hog the other one, but it was our mother’s primarily, unless she felt ill and complained that the motion worsened her nausea |r throat |
 
 ## 一句话总结

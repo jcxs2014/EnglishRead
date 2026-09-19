@@ -49,23 +49,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| gallop | 飞奔、疾驰 | push their horses to a gallop |
-| meddle | 干预、多管闲事 | limit to the extent in which they meddle with mortal affairs |
-| stark | 鲜明的、明显的 | a stark difference between greed and delusion |
+| stark | 鲜明的、明显的 | “Now did you want me to do that before or after bringing out our firearms for free? Maybe I should start a charity and feed everyone in the twin cities while I’m at it |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| helm | 舵、领导位置 | Sinoa Tuoleimi rides at the helm |
-| lacquer | 漆、漆器 | A lacquer-red temple |
-| spasm | 痉挛、抽搐 | An involuntary shudder spasms through her chest |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | cramp | 抽筋、痉挛 | It smells bad and it’s cramped and when he breaks their self-imposed confinement to hurry out and source more instant noodles, it is inevitable that he will run into some type of trouble |amp |
-| cattail | 香蒲、蒲草 | ducking behind the cattails |
-| unmoving | 不动的、静止的 | sitting beside Calla's empty vessel |
 
 ## 一句话总结
 本章通过 Anton 看到的记忆，揭示了"贪婪之神"的悲剧——她帮助 Sinoa 获得了复活的力量，但这种帮助导致了天界的破碎。她的"善意"变成了"灾难"。Anton 终于知道了 Calla 的真实身份——她不是 Sinoa，而是"贪婪之神"，一个被天界放逐的神。

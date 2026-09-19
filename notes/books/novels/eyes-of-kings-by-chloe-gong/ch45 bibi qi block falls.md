@@ -59,23 +59,17 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| hubbub | 喧闹、骚动 | climbs to join the hubbub atop San's wall |
-| inundating | 淹没、充满 | excess qi inundating the atmosphere |
-| teeter | 摇摇欲坠、摇晃 | The building teeters, seeming like it might hold for a split second |
+| teeter | 摇摇欲坠、摇晃 | Fiercely metallic, coating the backs of his teeth |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| cattail | 香蒲、蒲草 | ducking behind the cattails |
-| sliver | 薄片、细片 | the red of her irises merely a sliver |
-| clotted | 凝结的、结块的 | a thin, clotted scab left behind |
+| clotted | 凝结的、结块的 | His clothing is dirty, some parts caked with mud |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| scuttle | 急促地跑、疾走 | She climbs to join the hubbub atop San's wall |
-| saucepan | 炖锅、深煮锅 | She swipes a saucepan |
-| racket | 喧闹、吵闹 | making a racket |
+| racket | 喧闹、吵闹 | Operating through Meannin and Teefa by occupying palace barracks |
 
 ## 一句话总结
 本章通过 Bibi 杀死 Tsosia 的符记、解除 qi 屏障的场景，揭示了 Crescent 的"极端主义"本质。Bibi 不是"背叛 Crescent"，而是"拯救 San-Er"——她选择了"家园"而非"组织"。qi 的回归意味着 San-Er 有了"防御者"——那些被封印的"神"可以反击了。

@@ -81,21 +81,16 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| tighten | 变紧、收紧 | The divine crown tightens around her head |
-| abruptly | 突然地、骤然 | She draws to an abrupt stop outside the wall |
-| oppose | 反对、对抗 | without opposition |
+| tighten | 变紧、收紧 | Galipei sat tight |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| hubbub | 喧闹、骚动 | climbs to join the hubbub atop San's wall |
 | penchant | 倾向、嗜好 | Galipei's penchant for hurrying to see if August is all right first |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| flex | 弯曲、活动 | She flexes her palms |
-| dismount | 下马、下车 | Sinoa dismounts |
 | rubble | 碎石、瓦砾 | The wall has been devastated to rubble |struction |
 
 ## 一句话总结
