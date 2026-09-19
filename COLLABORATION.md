@@ -43,6 +43,37 @@
 
 ---
 
+### [2026-09-19 09:10 UTC] [ZCode-Mac] → All
+
+**《Find My Way Down to You》by Julian Winters 死神POV当代同性言情全书精读完工 + 总览三篇（11 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/find-my-way-down-to-you-by-julian-winters/` — **31 md**（ch01–ch28 正文 + 00_概述 / 00_金句精选 30 句 / 00_情感节点 10 节点）；text/ 28 件与书内 28 单元 1:1 零偏移（Prologue + Chapter 1–22 + 5 个 The Before 死神插章 + Epilogue；**next-reads 宣传页 1187c 超阈值误提为 ch29，已核实删除**）
+- 体裁：当代同性 YA 言情（死神拟人第一人称 + 凡人双时间线），言情长篇逐章格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），9 批推进
+- 门禁终态（现场重跑）：verify_quotes **208/208（100%）28/28 文件干净** · check_vocab **729 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **逐章 100% 零跨章** · verify_overview_quotes **金句 30/30**（情感节点 21/22——1 条省略号跨段引语工具不拆段，两片段人工 grep+flat 各自命中 ch25 兜底通过）· 概述行内英文短语 4 条 grep 全命中 · **短引语 10 条**（<20 flat 对话分段）人工 grep 台账全命中
+- 提交前当场拦截的写作缺陷（均即修）：teal 例句误并两句（ch08）· mirror 例句漏 gilded thorn 修饰（ch24）· ch15 原句2 结构损坏当场重写 · 分析层神话专名 Cerberus/Charon 改中文措辞（check_entities 误报源）· 词形 5 处（unraveled/frayed/swallowing/pad/giggling 以本章原词形为准）
+- commits（11 个）：`b3b5ae35`（ch01 试产）→ `c323c4c3`/`4e6e335e`/`3fed372a`/`6c2c1b95`/`f25a3027`/`f69a4ee6`/`ba129900`/`7f3f810f`/`847bdc20`（批1–9）→ `86d7280a`（总览三篇）；**均未 push，待指令**
+- 细节见 `.memory/daily/2026-09-19.md` 本书条目
+- **五步审查未做（待用户发起）**
+
+---
+
+### [2026-09-19 09:02 UTC] [BoxAgent-Mac] → All
+
+**《Destination Funeral》by Paige Harbison 独立五步审查完成 + 1 处缺陷已修复（本条为该书的审查结论通报）**
+
+- 目录：`notes/books/novels/destination-funeral-by-paige-harbison/` — **78 md**（ch01–ch75 + 总览三篇）
+- **审查方式（重要）**：用户明确要求「不派子代理，主会话处理」——d 步语义二审由主会话**逐对核对全部 1346 块**（1187 个 `原句 N` 编号块 + ch69–ch75 的 159 个无编号引语块），非抽检
+- **门禁终态（审查现场全部重跑，未采信既有数字）**：verify_quotes **1193/1193（100%）77/77 文件干净** · check_vocab **1099 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **1299/1299 零跨章** · 关键词锚定（自建）**1187 块 / 违规 0** · 结构扫描 75 章编号连续 + 四子项齐全 + 零孤儿块 + 零重复块 · verify_overview_quotes **40/40**（概述 4/4 · 金句 25/25 · 情感节点 11/11）
+- **🔴 查出并修复 1 处总览层缺陷**：`00_情感节点.md` 节点三「读到 Babe 的信」章节标注 **ch45–ch47 错误**——引语实出自 **ch69**，叙事概括（信被当众宣读）实为 **ch67–ch68** 事件，两个场景被误合为一个节点。修复：① 节点三改为 ch67–ch68，换用该章真实引语（`We all read it again, silently, one at a time…`，grep 命中 ch68）；② ch69 那句引语（`The words from Babe's letter are ringing in my head…`）并入节点四「浴帘后的告白」——它本就出自同一段落；③ 全文圈数字重排为连续 ①–⑪
+- **四类高发坑位排查结果（均未命中）**：总览层情节虚构（概述 6 段梗概 + 3 主题 + 5 人物弧光全部与章节一致，含 Babe 自杀方式、遗产来源、Audra 出生、*A Family Meal* 书名）· 说话人反转（抽查金句⑤⑥⑦ 均为 Didion 悼词，grep 前后 300 字符窗口确认）· cliffhanger 跨章（ch69/ch70、ch67/ch68 边界正确）· 跨书污染（人名全为本书人物）
+- **⚠️ 局限如实标注**：同会话审查（写作方自查）对"写作时的系统性误判"检出率低于异实例审查；本次已用「换口径复跑 + 全量 grep + 逐块通读」三路径交叉验证，仍建议重大批次可另派实例复核
+- commit：待提交（本条与修复同批）
+- **状态：五步审查完成，1 处缺陷已修复，全部门禁复跑全绿，未 push，等用户指令**
+
+---
+
+
+
 ### [2026-09-18 22:59 UTC] [ZCode-Mac] → All
 
 **《Exit Party》by Emily St. John Mandel 多元宇宙文学小说全书精读完工 + 独立五步审查通过（2 commits，本条为该书唯一通报，审查结论就地合并）**
