@@ -15,7 +15,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "It's what San-Er is good for. The densely packed buildings. The teeming twin cities."
+> **原句 1:** "What a far cry this is from the Crescent Societies shortly after the takeover, greeting her by kneeling across the devastated palace"
 
 **中文理解**："这是 San-Er 擅长的地方。密集的建筑。拥挤的双城。"
 
@@ -25,7 +25,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The divine crown has given Calla monumental power. It has given her qi that streams from the heavens. But it does not put her on equal ground to a god."
+> **原句 2:** "She doesn’t seem surprised at Calla’s appearance, nor does she make any fuss about switching Calla’s title, though they have not seen each other since the coup that melded this crown to her head"
 
 **中文理解**："神圣王冠给了 Calla 巨大的力量。它给了她从天堂流淌的 qi。但它没有让她与神平起平坐。"
 
@@ -35,7 +35,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "How dare you."
+> **原句 3:** "Calla recognizes it, in that distant way she remembers how to speak Rincun’s dialect"
 
 **中文理解**："你怎敢。"Chami 的话。
 
@@ -45,7 +45,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "And San-Er goes quiet."
+> **原句 4:** "That has left Calla unaccompanied while she emerges from the servants’ passages and into the north wing"
 
 **中文理解**："San-Er 安静了下来。"
 
@@ -59,7 +59,7 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| decimated | 大量摧毁、严重破坏 | “I’ll go,” Calla decides |
+| devastated | 大量摧毁、严重破坏 | “I’ll go,” Calla decides |
 
 ### ⭐⭐ 进阶
 

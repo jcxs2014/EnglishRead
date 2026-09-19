@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "She expects to find the marsh empty. She expects that Sinoa entered her body and wasted no time moving—and she is proved correct—but some part of her still thought Anton might have seen through the ruse, might have stopped her and kept her put."
+> **原句 1:** "Her every desire screams to hurry, to haul Sinoa back and tear her out of the body she will have claimed—Calla’s body—but that would mean leaving the insurgents to fend for themselves"
 
 **中文理解**："她预期沼泽会是空的。她预期 Sinoa 进入了她的身体，没有浪费时间行动——而她被证明是对的——但她仍然有一部分认为 Anton 可能已经看穿了这个诡计，可能已经阻止了她并把她留在原地。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "August's forces have been obliterated in the north. But it matters not. Because he was always aiming for San-Er."
+> **原句 2:** "If she has always been a god, why was she left to starve in Rincun"
 
 **中文理解**："August 的北方军队已经被歼灭了。但这不重要。因为他一直瞄准的是 San-Er。"
 
@@ -36,7 +36,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "A meeting to discuss bisecting the kingdom, as it once was. A lie, simply to lure Calla to the scene, simply for Sinoa to take occupancy of her body."
+> **原句 3:** "When Calla finally clears through enough of the havoc to wrench her fist through the air, attacking Sinoa from a distance, she drops then and there"
 
 **中文理解**："一次讨论分裂王国的会议，就像过去一样。一个谎言，只是为了引诱 Calla 到场，只是为了 Sinoa 占据她的身体。"
 

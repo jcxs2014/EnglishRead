@@ -46,7 +46,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "Cousin, This familial spat has gone on long enough."
+> **原句 4:** "This familial spat has gone on long enough"
 
 **中文理解**："表亲，这场家族争吵已经持续太久了。"
 

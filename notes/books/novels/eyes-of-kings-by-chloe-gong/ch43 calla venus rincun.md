@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "What are you on the lookout for?" Calla asks with her exhale of smoke. She drops into a whisper, and teases, "Gods?"
+> **原句 1:** "On either side, the green mountains rise into the storm clouds, their top halves obscured" Calla asks with her exhale of smoke. She drops into a whisper, and teases, "Gods?"
 
 **中文理解**："你在寻找什么？"Calla 吐着烟问。她压低声音，调侃道，"神？"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "It would not be wise to continue to lie to me."
+> **原句 2:** "He doesn’t know what he expects, that Calla might be in and out of Rincun so quickly as to suddenly stir"
 
 **中文理解**："继续对我撒谎是不明智的。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Are you still taking my qi?"
+> **原句 3:** "The trees are dense, sprouting from the rock face in clusters"
 
 **中文理解**："你还在吸取我的 qi 吗？"
 

@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "He claims he does not have exact routes, because he was shut out of August and Otta's planning."
+> **原句 1:** "“He claims he does not have exact routes, because he was shut out of August and Otta’s planning,” Calla relayed"
 
 **中文理解**："他声称没有精确路线，因为他被排除在 August 和 Otta 的计划之外。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The people believe the crown selected someone deserving."
+> **原句 2:** "“The people believe the crown selected someone deserving,” Calla intones"
 
 **中文理解**："人民认为王冠选择了一个配得上的人。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "I don't think he's lying," she says quietly. "Besides, the Crescents are holding San-Er at peak strength. August will not risk invasion until they are weak."
+> **原句 3:** "“If I can guess August’s most likely course,” Anton muttered, “I gather that his beloved bodyguard can too" she says quietly. "Besides, the Crescents are holding San-Er at peak strength. August will not risk invasion until they are weak."
 
 **中文理解**："我认为他没有撒谎，"她平静地说，"而且，Crescent 正以巅峰力量守着 San-Er。August 在他们虚弱之前不会冒入侵的风险。"
 
@@ -60,7 +60,7 @@ modified: "2026-09-19"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| convey | 传达、传递 | Calla relayed |
+| voice | 传达、传递 | Calla relayed |
 | doubt | 怀疑、疑虑 | I have no doubt that Galipei is scheming something |
 | falter | 犹豫、踌躇 | Calla's step falters |
 

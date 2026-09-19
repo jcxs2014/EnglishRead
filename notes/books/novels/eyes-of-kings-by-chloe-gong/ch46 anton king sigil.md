@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Anton reaches the dead guard, her blue eyes unblinking. Anton takes the sword from her hand. Then he swipes a finger along the blood on the blade and finishes the half-drawn sigil he had prepared on his arm. His father's sigil."
+> **原句 1:** "Bibi excuses herself from Tsosia’s side, shuffling along the wall where she can get a better angle on the approaching invaders"
 
 **中文理解**："Anton 走到死去的守卫旁，她蓝色的眼睛一眨不眨。Anton 从她手中拿过剑。然后他用手指沿着刀刃上的血画完他手臂上已经画了一半的符记。他父亲的符记。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "This must be how it feels to be a god."
+> **原句 2:** "It is an admonishment without sting, because Tsosia has always known who Bibi is, and Tsosia alone understands that Bibi is not a Crescent, that she should not be expected to behave like one"
 
 **中文理解**："这一定是身为神的感觉。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Venus is dead, as is the godling of qi. As are the sigils."
+> **原句 3:** "As does the godling of control, which is why each of these little invaders is capable of pushing over whole buildings"
 
 **中文理解**："Venus 死了，qi 之神也死了。符记也死了。"
 
@@ -51,7 +51,7 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| unblinking | 不眨眼的、一眨不眨的 | “You need to unblock San-Er,” Chami says |
+| heretic | 不眨眼的、一眨不眨的 | “You need to unblock San-Er,” Chami says |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

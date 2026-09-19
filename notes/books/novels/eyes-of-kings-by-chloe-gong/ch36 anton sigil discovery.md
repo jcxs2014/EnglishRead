@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "It was his light that steered her back to the mural."
+> **原句 1:** "“Bibi liked to hog the other one, but it was our mother’s primarily, unless she felt ill and complained that the motion worsened her nausea"
 
 **中文理解**："是他的光引导她回到壁画前。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "If he grows as powerful as a god, what does that make her?"
+> **原句 2:** "It is, simultaneously, utterly the same and utterly different; it is exactly as he expected, yet he can barely remember what he expected, so how is he to decide that"
 
 **中文理解**："如果他变得像神一样强大，那她又算什么？"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "His forward march is a distraction," Anton says before he does anything else. "He halved his army and sent a force to block travel in Janton while he continues into Actia."
+> **原句 3:** "It is gentle and unusual, a touch purely to sympathize with his pain" Anton says before he does anything else. "He halved his army and sent a force to block travel in Janton while he continues into Actia."
 
 **中文理解**："他的前锋是佯攻，"Anton 在做任何其他事情之前说。"他把军队分了一半去封锁 Janton 的交通，而他继续向 Actia 前进。"
 
@@ -55,7 +55,7 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | alcove | 壁凹、壁龛 | the storage alcove above the door |
-| reedy | 芦苇般的、尖细的 | “One day,” Anton says, “when we are not hunting for a way to win the war, when we have all the freedom in the world—I’d like to show you the sea |
+| thin | 芦苇般的、尖细的 | “One day,” Anton says, “when we are not hunting for a way to win the war, when we have all the freedom in the world—I’d like to show you the sea |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

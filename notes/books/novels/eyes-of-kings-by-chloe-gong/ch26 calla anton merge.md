@@ -25,7 +25,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Because I want better than not as bad for the kingdom."
+> **原句 2:** "“Because I want better than not as bad for the kingdom,” Calla hisses"
 
 **中文理解**："因为我想要比"没那么糟"更好的局面。"
 

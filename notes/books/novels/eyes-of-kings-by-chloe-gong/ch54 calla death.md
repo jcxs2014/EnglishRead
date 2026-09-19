@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "The kingdom believes her to be a queen reborn. From the moment she was named Calla Tuoleimi, Talin has afforded her the leeway to cut through everything and anything she pleases."
+> **原句 1:** "Since August was younger and he was loose with where he flung his arms, putting them over Galipei’s shoulders to guide him when they turned a corner in the market"
 
 **中文理解**："王国相信她是一位重生的女王。从她被命名为 Calla Tuoleimi 的那一刻起，Talin 就赋予了她随心所欲地切割一切的特权。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The divine crown shall kill anyone it touches. You have this tool in your arsenal no longer. A king will be decided not by the heavens, but by the people!"
+> **原句 2:** "He did not know that the divine crown would be placed in front of him until the moment it was"
 
 **中文理解**："神圣王冠将杀死任何触碰它的人。你不再拥有这个工具。国王将由人民决定，而不是由上天决定！"
 
@@ -36,7 +36,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "The gun fires."
+> **原句 3:** "The door to the throne room opens"
 
 **中文理解**："枪响了。"
 
@@ -53,7 +53,7 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| mandatory | 强制的、义务的 | “Clear the room,” August demands |
+| kerchief | 强制的、义务的 | “Clear the room,” August demands |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

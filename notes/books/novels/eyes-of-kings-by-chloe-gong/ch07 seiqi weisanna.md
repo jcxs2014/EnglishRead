@@ -51,7 +51,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "His Majesty's biggest problem is that they're too close to the capital, and other Weisannas have been advising that the camp itself must move too."
+> **原句 4:** "His Majesty’s biggest problem is that they’re too close to the capital, and other Weisannas have been advising that the camp itself must move too"
 
 **中文理解**："陛下最大的问题是他们离首都太近了，其他 Weisanna 人一直在建议营地也必须移动。"August 的异常行为。
 
@@ -91,23 +91,23 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| perimeter patrol | 周边巡逻 | She's on duty to walk the perimeter. |
 | infirmary | 医务室、伤员室 | where the injured from the coup are recuperating. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| barracks | 兵营、 barracks | Most of the base has been repurposed into barracks. |
+| provisional | 临时的、暂定的 | When Seiqi caught a glimpse of him in his provisional war room earlier. |
+| perimeter | 周边、周长 | She's on duty to walk the perimeter. |
+| barracks | 兵营 | Most of the base has been repurposed into barracks. |
 | bemoan | 哀叹、抱怨 | The nobles taking refuge are making that very clear, bemoaning and lamenting nonstop. |
 | lament | 哀悼、哀叹 | bemoaning and lamenting nonstop about needing to share their rooms ten to one. |
-| encroach | | He has scouts stationed along the Apian Routes, as close as they can get to San-Er without being spotted by enemy insurgents from the capital. All to have the earliest possible warning once battle encroaches. |
-| provisional | 临时的、暂定的 | When Seiqi caught a glimpse of him in his provisional war room earlier. |
+| encroach | 侵占、逼近 | He has scouts stationed along the Apian Routes, as close as they can get to San-Er without being spotted by enemy insurgents from the capital. All to have the earliest possible warning once battle encroaches. |
+| repurposed | 改作他用 | Most of the base has been repurposed into barracks. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| encroach | 逼近、蚕食 | All to have the earliest possible warning once battle encroaches. |
-| provisional | 临时的、暂定的 | When Seiqi caught a glimpse of him in his provisional war room earlier. |
-| perimeter | 周边、周长 | She's on duty to walk the perimeter. |
+| patrol | 巡逻 | She's on duty to walk the perimeter. |
+

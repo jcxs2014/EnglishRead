@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The ceramic is scorching hot, but she keeps ahold of it anyway as she stands and marches to the door, exiting the temple."
+> **原句 2:** "Inexplicably, impossibly, the ceramic is scorching hot, but she keeps ahold of it anyway as she stands and marches to the door, exiting the temple"
 
 **中文理解**："陶瓷滚烫，但她仍然紧握着它，站起来走向门口，走出神庙。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "You've had a passenger all these years, did you know that?" Erwen asks.
+> **原句 3:** "“You’ve had a passenger all these years, did you know that" Erwen asks.
 
 **中文理解**："这些年来你一直有一个乘客，你知道吗？"Erwen 问。
 

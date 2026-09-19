@@ -25,7 +25,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "She needed to, because she was tied to the force that broke the heavens, and she wouldn't have survived a second longer."
+> **原句 2:** "She needed to, because she was tied to the force that broke the heavens, and she wouldn’t have survived a second longer"
 
 **中文理解**："她需要这样做，因为她与打破天界的力量绑定在一起，她再多待一秒都活不下去。"
 
@@ -35,7 +35,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "The godling of greed stole into her office and used her work, invented a sigil to take her power, and offered it to a human queen to solicit resurrection."
+> **原句 3:** "From each tier of the pantheon she requested a representative, and off went the gods and godlings to share such news with the mortals who needed it most"
 
 **中文理解**："贪婪之神偷入她的办公室，利用她的工作，发明了一个符记来夺走她的力量，并把它提供给一个人类女王来换取复活。"
 
@@ -59,13 +59,13 @@ modified: "2026-09-19"
 |---------|------|------|
 | miry | 泥泞的 | The roads of the eastern provinces are miry |
 | sludge | 污泥、烂泥 | drag through the wet sludge |
-| astray | 偏离正道、误入歧途 | looking the other way |
+| godling | 偏离正道、误入歧途 | looking the other way |
 
+| unpredictable | 不可预测的 | Gaiyu doesn't have unpredictable weather |
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | miry | 泥泞的 | The roads of the eastern provinces are miry |
-| unpredictable | 不可预测的 | Gaiyu doesn't have unpredictable weather |
 | hovel | 简陋的小屋 | rent a new hovel in the trees |
 
 ## 一句话总结

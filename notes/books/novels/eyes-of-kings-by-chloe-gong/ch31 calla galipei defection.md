@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "It's funny," Calla says, stopping in front of the metal bars. "I remember a time when our roles were reversed."
+> **原句 1:** "Under the cover of night, the girl flees for her life" Calla says, stopping in front of the metal bars. "I remember a time when our roles were reversed."
 
 **中文理解**："真好笑，"Calla 停在金属栏杆前说，"我记得有一段时间我们的角色是颠倒的。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "She's not Otta. Otta Avia went away when she was barely a child. The woman who has been wearing her face is someone who made an impossible exchange with the heavens. Accept defeat during a losing war and resurrect a hundred years later to begin again. Her name is Sinoa Tuoleimi."
+> **原句 2:** "Such a minor position in the pantheon, and one she was grateful to have, serving as an attendant to her lady"
 
 **中文理解**："她不是 Otta。Otta Avia 在还是孩子的时候就离开了。一直戴着她的脸的女人是与天堂做了某种不可能交换的人。在失败的战争中接受失败，然后一百年后重新开始。她的名字叫 Sinoa Tuoleimi。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "You came in as August's sole savior. You hoped you could win the war for him with your love as a weapon."
+> **原句 3:** "Melded with the form of a child because she had chosen to invade a vessel as close to her true form as possible"
 
 **中文理解**："你进来时是 August 唯一的救星。你希望你能用你的爱作为武器为他赢得这场战争。"
 
@@ -44,7 +44,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "The godling of qi, the godling of control, and the godling of greed."
+> **原句 4:** "When she first arrived, the borders of Talin sat closer to Ximili, and there was constant activity between the settlements"
 
 **中文理解**："qi 之神，控制之神，贪婪之神。"
 

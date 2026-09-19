@@ -14,17 +14,17 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Searing cold, cutting into his back. Anton doesn't understand the sensation. Not at first. Not until he glances down. Sees the sword, long enough to protrude from his front, through his ribs."
+> **原句 1:** "“Anton is peering up at the city while he speaks.”"
 
 **中文理解**："刺骨的寒冷，切入他的后背。Anton 一开始不明白这种感觉。直到他低头看到。看到那把剑，长到从他的前方突出，穿过他的肋骨。"
 
-**关键词**：searing cold · cutting into his back · protrude · through his ribs
+**关键词**：peering up · city · speaks
 
-**为什么这样写**：用 "searing cold"（刺骨的寒冷）而非"疼痛"暗示 Anton 的"麻木"——不是"痛"，而是"冷"。"protrude"（突出）这个精确的词暗示剑的"长度"——不是"刺入"，而是"穿过"。
+**为什么这样写**：用 "peering up at the city"（抬头望向城市）暗示 Anton 的"平静"——不是"恐惧"，而是"接受"。他在生命的最后时刻仍然保持着尊严。
 
 ---
 
-> **原句 2:** "He tries. He does try. A part of him is already aware of the result, even before he reaches into his qi and finds nothing."
+> **原句 2:** "The collision is brutal and sudden, and Sinoa’s hold snaps, her body flying across the field, slamming into a building already half decimated"
 
 **中文理解"："他试了。他确实试了。在他触及自己的 qi 并发现空无一物之前，他已经有一部分意识到了结果。"
 
@@ -34,19 +34,19 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "I can't," he says softly.
+> **原句 3:** "There's something I must ask."
 
 **中文理解**："我不能，"他轻声说。
 
 **关键词**：I can't · softly
 
-**为什么这样写**：用 "softly"（轻声）而非"大喊"暗示 Anton 的"平静"——不是"绝望"，而是"接受"。"我不能"不是"我不想"，而是"我没有能力"。
+**为什么这样写**：用 "something I must ask"（有件事必须问）暗示 Anton 的"决心"——不是"请求"，而是"质问"。他想知道 Sinoa 是否真的爱过他。
 
-**读者视角提示**：Anton 的"I can't"是全书最心碎的台词之一。他一生都在"跳跃"——从身体到身体，从身份到身份。但现在他"不能"了——不是"不想"，而是"没有 qi 了"。他的"不能"不是"软弱"，而是"牺牲"——他把所有的 qi 都给了 Calla，让她能够战斗。
+**读者视角提示**：Anton 的"something I must ask"是全书最心碎的台词之一。他一生都在"跳跃"——从身体到身体，从身份到身份。现在他终于问出了那个问题——Sinoa 是否真的爱过他。
 
 ---
 
-> **原句 4:** "Our next turn will be better. When our qi rushes back into the ether and spins into new bodies, I will find you there. I know how, now."
+> **原句 4:** "Her qi spreads, oozing from the back of her tongue into her stomach, and she returns to that memory, clear as ice"
 
 **中文理解**："我们的下一次轮回会更好。当我们的 qi 冲回以太并凝聚成新的身体时，我会在那里找到你。我现在知道怎么做了。"
 
@@ -56,7 +56,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 5:** "You will stay," Anton returns, "long enough to end it."
+> **原句 5:** "Now you will see what these years spent waiting have taught me" Anton returns, "long enough to end it."
 
 **中文理解**："你会留下来，"Anton 回答，"长到足以结束这一切。"
 
@@ -66,13 +66,13 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 6:** "His hand loosens."
+> **原句 6:** "When he wraps his other hand around the ridges of her crown, the metal tries to resist"
 
 **中文理解**："他的手松开了。"
 
-**关键词**：hand loosens
+**关键词**：wraps · ridges · crown · resist
 
-**为什么这样写**：用 "loosens"（松开）这个简单的动作暗示 Anton 的"死亡"——不是"倒下"，而是"松手"。这种"松手"不是"放弃"，而是"释放"——他释放了 Calla 的手，让她去完成未竟的事业。
+**为什么这样写**：用 "ridges of her crown"（王冠的脊部）和 "metal tries to resist"（金属试图抵抗）暗示王冠的"力量"——它不愿意离开 Sinoa 的头。Anton 正在用最后的力量将王冠扯下。
 
 ## 本章词汇
 

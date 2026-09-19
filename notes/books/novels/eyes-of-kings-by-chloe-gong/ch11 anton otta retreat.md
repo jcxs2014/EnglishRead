@@ -27,7 +27,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "You're being dense on purpose," she snaps. "You already know who I am, and you won't face it."
+> **原句 2:** "“You’re being dense on purpose,” she snaps. "You already know who I am, and you won't face it."
 
 **中文理解**："你在装傻，"她厉声说，"你已经知道我是谁了，你只是不愿面对。"Otta 的指控。
 
@@ -39,7 +39,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "San-Er killed your father while he was still mortal, but it didn't kill you. The old gods have healed their heavenly qi. Take from it!"
+> **原句 3:** "“San-Er killed your father while he was still mortal, but it didn’t kill you"
 
 **中文理解**："San-Er 在你父亲还是凡人时杀了他，但没有杀你。旧神已经治愈了他们的 heavenly qi。从它那里获取！"
 
@@ -51,13 +51,13 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "We're going!" Retreat!
+> **原句 4:** "Otta's going to kill her. That is the only way the divine crown comes off."
 
 **中文理解**："我们走！"撤退！Anton 的撤退命令。
 
-**关键词**：We're going · Retreat
+**关键词**：Otta's going to kill her · divine crown · comes off
 
-**为什么这样写**：用 "We're going!" 而非 "Fall back!"（后撤），暗示这不是战术性撤退，而是恐慌性溃逃。"Retreat!" 的单音节喊叫暗示情况的紧迫——Calla 昏迷，Crescent 溃散，August 的 Weisanna 正在反扑。
+**为什么这样写**：用 "Otta's going to kill her" 和 "the divine crown comes off" 暗示 Calla 的"困境"——只有杀死 Calla，Otta 才能取下王冠。
 
 **读者视角提示**：Anton 的撤退标志着 Calla 阵营的第一次重大失败。他们带着 20 人出击，却以溃逃告终。这次失败将深刻影响 Calla 的权威和 Crescent 对她的信任。
 

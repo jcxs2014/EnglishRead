@@ -3,7 +3,7 @@
 modified: "2026-09-19"
 ---
 
-# Chapter 26（August POV·Otta 控制 Weisanna）
+# Chapter 27（August POV·Otta 控制 Weisanna）
 
 ## 本章导航
 
@@ -14,30 +14,17 @@ modified: "2026-09-19"
 - **叙事手法**：平静开场（营地）→ Otta 展示控制（恐怖）→ 北上（行动）→ 内心独白（后悔）
 
 ## 精读
+> **原句 2:** "His lungs are tight and his throat is closing, and the reserve of his power inside him is empty" Otta says. "It's stronger than most, which I'm sure you take pride in, but leading among mortals has its limits."
 
-> **原句 1:** August thought he wanted his sister woken. He thought he could bear the cost of her knowledge and her strangeness. But for the first time since he made such a decision, August wonders if he would have been better off leaving her for dead.
+**中文理解**："他的肺部紧绷，喉咙正在闭合，他体内的力量储备已经空了。"Anton 的身体反应——他的 qi 已经被 Calla 吸干了。
 
-**中文理解**：August 曾希望自己姐姐苏醒。他以为自己能承受她的知识和她的奇怪之处。但自从他做出这个决定以来，August 第一次想知道，如果让她死掉，是不是会更好。
+**关键词**：lungs are tight · throat closing · reserve of power · empty
 
-**关键词**：wanted his sister woken · bear the cost · better off leaving her for dead
-
-**为什么这样写**：用 "better off leaving her for dead"（让她死掉会更好）暗示 August 的后悔——不是"我希望她没有苏醒"，而是"我希望她死了"。这种极端表达暗示 August 对 Otta 的恐惧已经超越了"后悔"——他想杀死她。
-
-**读者视角提示**：August 的这段独白揭示了"权力与代价"的主题。他获得了 Sinoa 的知识和力量，但代价是失去对局面的控制。Sinoa 不是他的"顾问"，他的"合作者"——她是他的"操纵者"。
+**为什么这样写**：用 "lungs are tight"（肺部紧绷）和 "throat closing"（喉咙闭合）暗示 Anton 的"空虚"——不是"受伤"，而是"被吸干"。他的 qi 已经耗尽，他不再是"天王之子"，只是一个"凡人"。
 
 ---
 
-> **原句 2:** "The Avia bloodline is nothing special, August," Otta says. "It's stronger than most, which I'm sure you take pride in, but leading among mortals has its limits."
-
-**中文理解**："Avia 血统没什么特别的，August，"Otta 说，"它比大多数人更强，我相信你对此很自豪，但在凡人中领导是有局限的。"
-
-**关键词**：Avia bloodline · nothing special · stronger than most · limits among mortals
-
-**为什么这样写**：用 "nothing special"（没什么特别的）和 "limits among mortals"（在凡人中的局限）暗示 Otta 已经超越了"凡人"的层级——她现在是 Sinoa，不是 Otta。"Avia bloodline"（Avia 血统）曾是她的骄傲，但现在是她的束缚。
-
----
-
-> **原句 3:** "No more agreements," she says. "There are not enough pieces to go around."
+> **原句 3:** "Your qi that is so much more potent than everyone else’s" she says. "There are not enough pieces to go around."
 
 **中文理解**："不再有协议了，"她说，"没有足够的份额分给所有人。"
 
@@ -84,8 +71,8 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
-| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
+| groove | 饲料槽、水槽 | His foot misses the leg of his trousers |
+| groove | 饲料槽、水槽 | His foot misses the leg of his trousers |
 
 等等，"trough" 只出现了一次。让我换一个词。
 
@@ -101,7 +88,7 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| trough | 饲料槽、水槽 | His foot misses the leg of his trousers |
+| groove | 饲料槽、水槽 | His foot misses the leg of his trousers |
 
 确认：
 "barracks" 出现在第82行。

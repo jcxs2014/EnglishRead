@@ -25,7 +25,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Don't be sentimental," August says. "I suppose you'll tell me you love me next."
+> **原句 2:** "Now they must diverge: one camp who is continuing the fight with August and another to be stored elsewhere, simply to not bother August" August says. "I suppose you'll tell me you love me next."
 
 **中文理解**："别感情用事，"August 说，"我猜你接下来要告诉我你爱我了。"
 
@@ -58,11 +58,11 @@ modified: "2026-09-19"
 | volatile | 不稳定的、易变的 | It made him volatile, and their peers didn't like that. |
 | propriety | 礼节、规矩 | noble propriety said that King Kasa needed to try. |
 
+| adversaries | 敌对的、不友好的 | Some incidents hover strangely between friendly fire and outright hostility. |
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | academy | 学院 | The nobles all sent their children to an academy two streets away from the palace. |
-| hostile | 敌对的、不友好的 | Some incidents hover strangely between friendly fire and outright hostility. |
 | relents | 变温和、让步 | "Enter," he relents. |
 
 ## 一句话总结

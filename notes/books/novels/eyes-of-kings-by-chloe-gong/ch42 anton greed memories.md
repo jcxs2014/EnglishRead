@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "The godling of greed should not be present at this battle. Their king would advise that there is a limit to the extent in which they meddle with mortal affairs."
+> **原句 1:** "He would likely only defrost a cut if the king of the heavens himself came down asking to be sat at his table and catered to"
 
 **中文理解**："贪婪之神不应该出现在这场战斗中。他们的国王会建议，他们干预凡间事务是有限度的。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Sinoa Tuoleimi rides at the helm, readying to clash with the enemy line. Sinoa's brothers, meanwhile, did not ride out with their army. They are not fighters. They sit behind marble tables and carry decorative swords."
+> **原句 2:** "Most of those incidents hadn’t intended to cause mass destruction—they were only people like the man at the seafood restaurant, lashing out with heavenly qi in a burst of anger"
 
 **中文理解**："Sinoa Tuoleimi 骑马冲在前线，准备与敌军交锋。与此同时，Sinoa 的兄弟们没有随军出征。他们不是战士。他们坐在大理石桌子后面，佩带装饰性的剑。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "The godling of greed says nothing. Her work is not relevant anymore. The front line will fall. The war is as good as over, and there is a stark difference between greed and delusion."
+> **原句 3:** "He looks to Matiyu, as though he is going to ask whether Matiyu can spare his labor, work for the Crescent Societies again and protect the capital"
 
 **中文理解**："贪婪之神什么也没说。她的工作不再相关了。前线即将陷落。战争几乎结束了，而贪婪和妄想之间有着鲜明的区别。"
 
@@ -49,7 +49,7 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| stark | 鲜明的、明显的 | “Now did you want me to do that before or after bringing out our firearms for free? Maybe I should start a charity and feed everyone in the twin cities while I’m at it |
+| umbrella | 鲜明的、明显的 | “Now did you want me to do that before or after bringing out our firearms for free? Maybe I should start a charity and feed everyone in the twin cities while I’m at it |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

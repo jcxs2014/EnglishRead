@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Calla Tuoleimi dies as all mortals do."
+> **原句 1:** "The years will pass, and the reels will alter her part, forget Anton, write out the Crescent Societies and the rebels in the provinces, but they can’t erase Calla Tuoleimi"
 
 **中文理解**："Calla Tuoleimi 像所有凡人一样死去。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The entirety of San-Er is whispering Calla's name, and before long it will spread beyond the wall, into the rest of Talin."
+> **原句 2:** "If she stays, there will be stories passed down by every inhabitant in San-Er"
 
 **中文理解**："San-Er 全城都在低语 Calla 的名字，不久之后它将传遍城墙之外，传遍 Talin 的每个角落。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "The divine crown is rendered obsolete. And a king is not a king without his crown. A king of Talin is only king after being confirmed by the heavens."
+> **原句 3:** "If the gods are dead, then the divine crown ought to be"
 
 **中文理解**："神圣王冠被宣告作废。没有王冠的国王就不是国王。Talin 的国王只有在被上天确认后才成为国王。"
 
@@ -44,7 +44,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "In the coming few days," Galipei says, "there will be trouble from every province. We are not only dealing with opportunistic rebel forces. We are dealing with gods."
+> **原句 4:** "The difference is that Anton is not coming back. There is no reversing the death knell; there are no more rolls of the die."
 
 **中文理解**："在接下来的几天里，"Galipei 说，"每个省份都会有麻烦。我们不仅是在应对投机性的叛变力量。我们是在应对神祇。"
 
@@ -54,7 +54,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 5:** "I was once an orphan in a palace of nobles," August says. "I can handle being king in a land of gods."
+> **原句 5:** "He can’t wipe away her work to explain why there were dead Tuoleimis in the Palace of Heavens, how the Palace of Earth lost its last blood Shenzhi" August says. "I can handle being king in a land of gods."
 
 **中文理解**："我曾经是贵族宫殿里的一个孤儿，"August 说，"我能在神祇的土地上称王。"
 
@@ -66,7 +66,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 6:** "And the sun rises on a new day."
+> **原句 6:** "The slow-moving parade has taken up the entire morning, and now the sun beams over the twin cities"
 
 **中文理解"："太阳在新的一天升起。"
 

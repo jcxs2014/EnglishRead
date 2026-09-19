@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "He seems surprised when August puts his arms around him, pressing him close. They have not embraced in this way since they were children."
+> **原句 1:** "But because she chose this mortal body, it does not"
 
 **中文理解**："当 August 拥抱他，把他拉近时，他似乎很惊讶。他们自童年以来就没有这样拥抱过。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "He did not return the embrace."
+> **原句 2:** "The vessel of her other form lies a few paces away, but Calla does not consider wearing it, not for a second"
 
 **中文理解**："他没有回应拥抱。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "I have done awful, terrible things for you, August. The only one that will have me is you. The only person I will have is you. Either accept it, or be worse off."
+> **原句 3:** "There is only one way this ends, and she knows what it will take to make it happen"
 
 **中文理解**："我为你做了可怕的事情，August。唯一能接受我的人是你。唯一能拥有的人是你。要么接受，否则你会更糟。"
 

@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Chami stirs awake, and she can't feel her qi again. For that brief moment before she registers her surroundings, she is relieved."
+> **原句 1:** "For that brief moment before she registers her surroundings, she is relieved"
 
 **中文理解**：Chami 醒来，再次感觉不到她的 qi。在意识到周围环境之前的短暂瞬间，她感到如释重负。"
 
@@ -46,7 +46,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "It's better to stay inside and keep the door locked," she says. "Let's hope there's no use for firearms."
+> **原句 4:** "“It’s better to stay inside and keep the door locked,” she says" she says. "Let's hope there's no use for firearms."
 
 **中文理解**："最好待在里面把门锁上，"她说，"希望枪支派不上用场。"
 

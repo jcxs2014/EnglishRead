@@ -51,7 +51,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "I know you don't mean it." Galipei Weisanna is the only person in this kingdom who understands August.
+> **原句 4:** "“I know you don’t mean it" Galipei Weisanna is the only person in this kingdom who understands August.
 
 **中文理解**："我知道你不是认真的。"Weisanna 是这个王国里唯一理解 August 的人。
 
@@ -92,13 +92,13 @@ modified: "2026-09-19"
 | singeing | 烧焦的、烫伤的 | about as delicate as singeing metal. |
 | harried | 疲惫不堪的、被骚扰的 | August's sleeves are rough and harried where they've been rolled up to his elbows. |
 
+| practical | 实用的、实际的 | it was never anger that rose to meet him—it was practical calculation. |
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | strain | 拉紧、尽力 | he was straining to cut to the surface of his mental prison. |
 | emit | 发出、散发 | only succeeds in emitting a soundless exhale. |
-| practical | 实用的、实际的 | it was never anger that rose to meet him—it was practical calculation. |
 
 ## 一句话总结
 本章通过 Galipei 苏醒后被 August 解职的场景，揭示了两人关系的裂痕：August 正在 Galipei 面前隐藏某个秘密（可能是 Sinoa 的真相、可能是自己的恐惧），而 Galipei 从"唯一理解 August 的人"变成了"被拒绝的守护者"。

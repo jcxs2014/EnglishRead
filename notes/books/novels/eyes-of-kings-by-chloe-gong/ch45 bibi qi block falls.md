@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "When the invasion begins, not a single Crescent has the time to shoot. The heretic moves faster than their eyes can understand."
+> **原句 1:** "The Weisannas formed a tight circle to escort him through the mob, and August could tell that they were not expecting this sort of vitriol"
 
 **中文理解**："当入侵开始时，没有一个 Crescent 有时间射击。异端移动得比他们能理解的速度还要快。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "She is powerless in the midst of this. Nothing but a watcher, an idler."
+> **原句 2:** "It is Sinoa whose hair lifts off her shoulders as she grips the window ledge, her expression frozen in a snarl"
 
 **中文理解**："她在这一切中无能为力。只是一个旁观者，一个无所事事的人。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Will you doom your home just to bite your thumb at the Weisannas?"
+> **原句 3:** "You will lose your every soldier fighting your way back to the throne, and that’s exactly what Otta is waiting for"
 
 **中文理解**："你只是为了对 Weisannas 竖中指就要毁灭你的家园吗？"
 
@@ -46,7 +46,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "Qi returns to San-Er. And light begins to flare."
+> **原句 4:** "August watches him, and suddenly tension returns to every place he had worked to rid of it"
 
 **中文理解**："qi 返回 San-Er。光开始闪耀。"
 
@@ -59,17 +59,17 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| teeter | 摇摇欲坠、摇晃 | Fiercely metallic, coating the backs of his teeth |
+| galipei | 摇摇欲坠、摇晃 | Fiercely metallic, coating the backs of his teeth |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| clotted | 凝结的、结块的 | His clothing is dirty, some parts caked with mud |
+| himself | 凝结的、结块的 | His clothing is dirty, some parts caked with mud |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| racket | 喧闹、吵闹 | Operating through Meannin and Teefa by occupying palace barracks |
+| instead | 喧闹、吵闹 | Operating through Meannin and Teefa by occupying palace barracks |
 
 ## 一句话总结
 本章通过 Bibi 杀死 Tsosia 的符记、解除 qi 屏障的场景，揭示了 Crescent 的"极端主义"本质。Bibi 不是"背叛 Crescent"，而是"拯救 San-Er"——她选择了"家园"而非"组织"。qi 的回归意味着 San-Er 有了"防御者"——那些被封印的"神"可以反击了。

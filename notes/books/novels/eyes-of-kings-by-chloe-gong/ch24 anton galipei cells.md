@@ -15,7 +15,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "There—he's not imagining it. Anton turns over his shoulder, concentrating on the sound. Who is screaming?"
+> **原句 1:** "Anton turns over his shoulder, concentrating on the sound"
 
 **中文理解**："那里——他没有在想象。Anton 转过头，集中注意力听。谁在尖叫？"
 
@@ -25,7 +25,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Help! He's killing us!"
+> **原句 2:** "He's killing us!"
 
 **中文理解**："救命！他在杀我们！"
 
@@ -35,7 +35,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Didn't expect that, did you?" Anton asks. "I played in the king's games, Galipei."
+> **原句 3:** "“Didn’t expect that, did you" Anton asks. "I played in the king's games, Galipei."
 
 **中文理解**："没想到吧？"Anton 问，"我参加过国王的游戏，Galipei。"
 

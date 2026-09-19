@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Anton doesn't slow their pace. Calla's forehead is pressed against his back. It worries him that there's very little rain falling."
+> **原句 1:** "Since August Shenzhi traveled through his kingdom shortly after his coronation—and nobody noticed that it was not him, it was Anton Makusa wearing his body"
 
 **中文理解**："Anton 没有放慢速度。Calla 的额头靠在他的背上。让他担心的是，雨下得很少。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "This house is more loyal than he is. It responds to him like a childhood pet, willing to tattle on the presence of strangers."
+> **原句 2:** "And for as long as Galipei is useful to Calla—or gives the impression of being useful—this cell is safer than anywhere else he could be on the battlefield"
 
 **中文理解**："这房子比他更忠诚。它回应他，就像一只童年的宠物，愿意告发陌生人的存在。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "One day, when we are satisfied with the state of the kingdom," Calla says under her breath.
+> **原句 3:** "Small yellow flags, planted in the grass, in the trees, and then over the rocks to indicate which bridges are sturdy enough for travel, at no risk of collapsing" Calla says under her breath.
 
 **中文理解**："有一天，当我们对王国的状况感到满意时，"Calla 低声说。
 

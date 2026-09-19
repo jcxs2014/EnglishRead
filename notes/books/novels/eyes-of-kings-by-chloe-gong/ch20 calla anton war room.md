@@ -15,7 +15,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "He only needs to take Leysa and Janton, and then San-Er will be separated from the north."
+> **原句 1:** "“He only needs to take Leysa and Janton, and then San-Er will be separated from the north,” Anton says"
 
 **中文理解**："他只需要拿下 Leysa 和 Janton，San-Er 就会与北方隔绝。"
 
@@ -67,7 +67,7 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| swarm | 群、大量 | a whole host of problems |
+| assembly | 群、大量 | a whole host of problems |
 
 ## 一句话总结
 本章通过 Calla 和 Anton 的战略会议，确定了关键决策：让 Venus 去 Rincun 宣布独立并维持对 San-Er 的补给，而他们前往 Actia 伏击 August。Anton 的疑似入侵幻觉为后续情节埋下了伏笔。

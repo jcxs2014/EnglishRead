@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "The difference is that Anton is not coming back. There is no reversing the death knell; there are no more rolls of the die."
+> **原句 1:** "A part of him is already aware of the result, even before he reaches into his qi and finds nothing"
 
 **中文理解**："不同之处在于 Anton 不会回来了。死亡的丧钟无法逆转；没有更多的骰子可以掷了。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "We knew each other, didn't we? In the heavens."
+> **原句 2:** "Anton doesn’t understand the sensation"
 
 **中文理解**："我们认识对方，不是吗？在天界的时候。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Bits and pieces," Calla answers, her voice dropping to a rasp. "It is as though the timeline of my past life has been cut and scattered into a slot machine."
+> **原句 3:** "Exits the very way it entered, snagging and tearing" Calla answers, her voice dropping to a rasp. "It is as though the timeline of my past life has been cut and scattered into a slot machine."
 
 **中文理解**："零零碎碎，"Calla 回答，她的声音变得沙哑。"就好像我前世的时间线被切开，散落到了一台老虎机里。"
 
@@ -46,7 +46,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "Goodbye, Calla."
+> **原句 4:** "Searing cold, cutting into his back"
 
 **中文理解**："再见，Calla。"
 

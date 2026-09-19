@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "It is August who reaches San-Er first. Of course it is."
+> **原句 1:** "As frantic as he is to return to Teefa, back to the marshes where he has hidden Calla, he can’t make sense of what has happened"
 
 **中文理解**："August 是第一个到达 San-Er 的。当然是他。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Galipei broke himself out, with a sigil even August wasn't aware he possessed."
+> **原句 2:** "Without a sigil for protection, without Calla at his side, without any weapon stronger than this pathetic blade he scooped from the battlefield, Anton is horribly exposed"
 
 **中文理解**："Galipei 用一种 August 都不知道他拥有的符记逃脱了。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Galipei kept himself in the cells when he could have broken out. Galipei sat tight. Why?"
+> **原句 3:** "He does not care to sacrifice himself en masse, another body in the casualty count thereafter"
 
 **中文理解**："Galipei 本可以逃脱，却留在牢房里。Galipei 坐怀不乱。为什么？"
 
@@ -53,7 +53,7 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| provisionally | 临时地、暂且 | They weren’t actually grappling to seize the northern provinces when August was clearly in the weaker position, half his army wiped out |
+| hundred | 临时地、暂且 | They weren’t actually grappling to seize the northern provinces when August was clearly in the weaker position, half his army wiped out |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

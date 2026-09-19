@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "It's not as though Calla possesses any additional insight of this bygone era, which suddenly everyone in this kingdom seems to understand except her."
+> **原句 2:** "It’s not as though Calla possesses any additional insight of this bygone era, which suddenly everyone in this kingdom seems to understand except her"
 
 **中文理解**："似乎 Calla 对这个久远时代没有任何额外的洞察，而这个王国的每个人突然都理解了，除了她。"
 

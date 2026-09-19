@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Matiyu Nuwa loves San-Er. That doesn't mean he likes it, though."
+> **原句 1:** "He says nothing to convey it, but she sees it all the same"
 
 **中文理解**："Nuwa 爱 San-Er。但这并不意味着他喜欢它。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "Which also means they're equally vulnerable if August Shenzhi's army arrives."
+> **原句 2:** "If you are afraid of the blame you have in Sinoa’s war, you can say it outright"
 
 **中文理解**："这也意味着如果 Shenzhi 的军队到来，他们都同样脆弱。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "How did she bury the lede for that long? She should have started with that."
+> **原句 3:** "She wouldn’t have asked for immense sacrifice and run to a palace in the mountains"
 
 **中文理解**："她怎么能把这么重要的消息藏这么久？她应该一开始就说的。"
 
@@ -47,15 +47,15 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lackey | 仆人、走狗 | I promised I wouldn’t, she almost adds, if it weren’t for what she has just declared, for the clear lack of sanctity she treats such oaths with |
-| compatriot | 同志、同胞 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
-| annihilation | 歼灭、彻底毁灭 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
+| cigarette | 仆人、走狗 | I promised I wouldn’t, she almost adds, if it weren’t for what she has just declared, for the clear lack of sanctity she treats such oaths with |
+| capital | 同志、同胞 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
+| dwellers | 歼灭、彻底毁灭 | August’s note was too generous with its meeting time when compared with Calla’s riding speed, so she steered them into a border village between Meannin and Actia to adjourn |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| prototype | 原型、样品 | They were sturdy, so they lined the outer edge of the carts to protect more fragile specimens from being blown around |
-| schematics | 图纸、设计图 | August did not scheme his way through King Kasa’s ranks to be happy with Actia as his only territory while the rest of Talin prays to San-Er |
+| already | 原型、样品 | They were sturdy, so they lined the outer edge of the carts to protect more fragile specimens from being blown around |
+| already | 图纸、设计图 | August did not scheme his way through King Kasa’s ranks to be happy with Actia as his only territory while the rest of Talin prays to San-Er |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

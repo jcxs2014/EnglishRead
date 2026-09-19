@@ -63,7 +63,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 5:** "As far as August's sense of familial loyalty is concerned, Sinoa Tuoleimi has always been his sister. Otta was the face she wore until she could resume her fight, her second chance for her throne."
+> **原句 5:** "As far as August’s sense of familial loyalty is concerned, Sinoa Tuoleimi has always been his sister"
 
 **中文理解**："就 August 的家族忠诚感而言，Sinoa Tuoleimi 一直是他的姐姐。Otta 是她直到能够恢复战斗前戴着的脸，她的第二次登基机会。"
 
@@ -104,12 +104,12 @@ modified: "2026-09-19"
 | abrasion | 擦伤、磨损 | these abrasions he scalded into his temples. |
 | stratagem | 战略、计谋 | Wield Otta's power as a shock, frighten the religious lunatics so that they are no help to Calla any further than a formality. |
 
+| expendable | 可牺牲的、可有可无的 | It was understood that there would be casualties, but some guards are more expendable than others. |
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | survey | 审视、打量 | August Shenzhi surveys the base without any sense of accomplishment. |
-| expendable | 可牺牲的、可有可无的 | It was understood that there would be casualties, but some guards are more expendable than others. |
 | elite | 精英、精锐 | Three dead guards and half his elite forces injured. |
 
 ## 一句话总结

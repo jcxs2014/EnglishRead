@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "She should have done more back then. Joined the rebellions cropping up to keep Rincun and Youlia independent."
+> **原句 1:** "She wanted Anton to keep watch in the hallway, because the flood alarms have stopped, which means the Crescent Society members will be returning to their posts"
 
 **中文理解**："她当初应该做得更多。加入那些为了保持 Rincun 和 Youlia 独立而兴起的叛乱。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The woman who walks into the barracks is dressed in palace silks. Long, airy black hair and white skin, the contrast made severe by the torchlight she holds in her hands to show the way."
+> **原句 2:** "The woman who has been wearing her face is someone who made an impossible exchange with the heavens"
 
 **中文理解**："走进 barracks 的女人穿着 palace 丝绸。长而轻盈的黑发和白皙的皮肤，与她手中用来照路的火炬形成了强烈的对比。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Highness, Highness, the voice sounds in her head. It's her voice, she remembers. The god of violets."
+> **原句 3:** "When she thinks back to her years in the palace, there are moments where the king and queen of Er hardly feel like real people to her"
 
 **中文理解**："大人，大人，声音在她脑海中响起。这是她的声音，她记得。紫罗兰之神。"
 

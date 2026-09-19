@@ -45,7 +45,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "I wasn't warning you about the heretics in my note," Bibi says. "I was warning you about the Crescent Societies. They want to block qi from the capital. There are sigils to do so."
+> **原句 4:** "“I wasn’t warning you about the heretics in my note,” Bibi says" Bibi says. "I was warning you about the Crescent Societies. They want to block qi from the capital. There are sigils to do so."
 
 **中文理解**："我在信中警告你的不是异端，"Bibi 说，"我在警告你关于 Crescent Society 的事。他们想要封锁首都的 qi。有符记可以做到这一点。"
 
@@ -67,7 +67,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 6:** "I don't need you," August interrupts. "I have advisors. Ten of them, in fact, ready on call."
+> **原句 6:** "I only need to keep evading capture until I can detangle myself" August interrupts. "I have advisors. Ten of them, in fact, ready on call."
 
 **中文理解**："我不需要你，"August 打断道，"我有顾问。事实上，有十个，随时待命。"
 
@@ -83,7 +83,7 @@ modified: "2026-09-19"
 |---------|------|------|
 | hilt | 剑柄 | finally taking her hand off the hilt of her sword. |
 | syndicate | 联合企业、财团 | Five of the temples formed a syndicate and stormed the financial district. |
-| blockade | 封锁 | They want to block qi from the capital. |
+| dovetail | 封锁 | They want to block qi from the capital. |
 
 ### ⭐⭐ 进阶
 

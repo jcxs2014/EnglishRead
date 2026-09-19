@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "Sinoa Tuoleimi enters Yi a century after it was promised to her."
+> **原句 1:** "August tilts his head, trying to read it as though it might be a word in Talinese, but he cannot parse it"
 
 **中文理解**："Sinoa Tuoleimi 在承诺后一个世纪进入 Yi。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "It only seems fair that you offer me the truth now. If I could not have your affection, why keep this going for so long?"
+> **原句 2:** "But he did not offer it as he could have—he sent Anton and Calla on a meaningless detour when he could have shared the sigil then and there"
 
 **中文理解**："你现在才给我真相，似乎才公平。如果我不能拥有你的爱，为什么要继续这么久？"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "You are owed to me. After all the heavens have done, you are mine."
+> **原句 3:** "Surviving Crescents are scrambling to hold on to some form of authority; surviving gods have opted to go dark rather than stake a claim on the capital"
 
 **中文理解**："你欠我的。在天界所做的一切之后，你是我的。"
 
@@ -44,7 +44,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "You have the power to claim your own segment of the kingdom. You have the power to situate yourself the ruler of the whole north if you wanted. And you come after me instead?"
+> **原句 4:** "Surviving Crescents are scrambling to hold on to some form of authority; surviving gods have opted to go dark rather than stake a claim on the capital"
 
 **中文理解**："你有能力获得王国的一部分。你有能力成为整个北方的统治者，如果你想的话。你却来追我？"
 
@@ -56,7 +56,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 5:** "She jumps in. It is no different from drowning at the bottom of the puddle again."
+> **原句 5:** "At the main entrance of the palace, there is only one Crescent Society member, shadows under his eyes, barely holding down the makeshift security gate"
 
 **中文理解**："她跳了进去。这与在水坑底部溺水没有什么不同。"
 
@@ -66,7 +66,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 6:** "The godling of greed is not forgiving. The godling of greed has held her place at the top of the pantheon since humanity was born on earth."
+> **原句 6:** "At the main entrance of the palace, there is only one Crescent Society member, shadows under his eyes, barely holding down the makeshift security gate"
 
 **中文理解**："贪婪之神不宽容。自从人类在地球上诞生以来，贪婪之神一直占据着万神殿的顶端。"
 
@@ -81,7 +81,7 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| tighten | 变紧、收紧 | Galipei sat tight |
+| galipei | 变紧、收紧 | Galipei sat tight |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

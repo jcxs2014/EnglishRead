@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "If she has always been a god, why was she left to starve in Rincun?"
+> **原句 1:** "This battle must have broken out fast if August didn’t spare the time to put a knife in his throat and kill him while he was down"
 
 **中文理解**："如果她一直是神，为什么她会被留在 Rincun 挨饿？"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "The godling of greed. This hunger is who she is."
+> **原句 2:** "Godling of qi, only gifting the mortals who supplicate at your feet and shunning the ones who don’t"
 
 **中文理解**："贪婪之神。这种饥饿就是她。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "She needs to get back to her body."
+> **原句 3:** "The sun threatened to rise, and Anton stashed her where she would not be seen from the road"
 
 **中文理解**："她需要回到她的身体里。"
 
@@ -46,7 +46,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "Sinoa smiles. She mouths, Welcome back."
+> **原句 4:** "Sinoa wasn’t present when he jumped and spied on August’s front line; she was already collecting them"
 
 **中文理解**："Sinoa 笑了。她用唇语说，欢迎回来。"
 
@@ -59,7 +59,7 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| comet | 彗星 | He doesn’t quite understand where the drive comes from, but he must |
+| battlefield | 彗星 | He doesn’t quite understand where the drive comes from, but he must |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "August sits up. No. That was not the plan."
+> **原句 1:** "She pushes herself up, and the ditch was never that deep to begin with, her arms hauling over the sides as she splutters water from her mouth"
 
 **中文理解**："August 坐直了。不。那不是计划。"
 
@@ -24,17 +24,17 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "You are not a general," August intones. "You are an ill-informed aristocrat with a penchant for insurrection but no competence in ruling."
+> **原句 2:** "But you are not fighting."
 
 **中文理解**："你不是将军，"August 说，"你是一个消息不灵通的贵族，有叛乱的癖好，但没有统治的能力。"
 
-**关键词**：not a general · ill-informed · penchant for insurrection · no competence in ruling
+**关键词**：not fighting · not a general
 
-**为什么这样写**：用 "ill-informed aristocrat"（消息不灵通的贵族）暗示 August 对 Anton 的"评价"——不是"对手"，而是"小丑"。"penchant for insurrection"（叛乱的癖好）暗示 August 的"怨恨"——Anton 曾经"偷走"了他的身体。
+**为什么这样写**：用 "not fighting"（不是战斗）暗示 August 对 Calla 的"评价"——她不是在战斗，她是在逃避。这句话揭示了 Calla 的"恐惧"——她害怕 Sinoa，所以选择逃避而非正面对抗。
 
 ---
 
-> **原句 3:** "No!" Anton snaps. "Why would she attend a meeting with you, August? You have an immortal madwoman at your side."
+> **原句 3:** "Another blast of qi, but this time Calla is prepared, crashing to the ground and rolling" Anton snaps. "Why would she attend a meeting with you, August? You have an immortal madwoman at your side."
 
 **中文理解**："Calla 在哪里？"他质问，"你身边有一个不死的女疯子。"
 
@@ -49,12 +49,12 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| makeshift | 临时的、权宜的 | Even then, we fear that we will barely make a mark when they march into Actia |
+| dovetail | 临时的、权宜的 | Even then, we fear that we will barely make a mark when they march into Actia |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| disgruntled | 不满的、不高兴的 | Some drainage ditch, running with disgusting, dirty water |
+| assailant | 不满的、不高兴的 | Some drainage ditch, running with disgusting, dirty water |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

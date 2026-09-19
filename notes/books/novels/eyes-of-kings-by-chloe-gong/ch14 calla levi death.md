@@ -75,7 +75,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 6:** "Let August's scouts find him. Maybe it will frighten him into withdrawing his other spies in the capital."
+> **原句 6:** "Maybe it will frighten him into withdrawing his other spies in the capital"
 
 **中文理解**："让 August 的斥候发现他。也许这会吓得他把其他间谍从首都撤出来。"Calla 的冷酷逻辑。
 

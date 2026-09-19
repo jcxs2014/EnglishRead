@@ -14,7 +14,7 @@ modified: "2026-09-19"
 
 ## 精读
 
-> **原句 1:** "August crosses the Jinzi River for the first time with his face blank, his fists tight on his reins. Nobody is witnessing this to commit to the history books, because he has crossed it already, and under the most ridiculous pretense for order."
+> **原句 1:** "On the very likely chance that he fails an assassination attempt, he has warned August about his presence, and August will pivot gears"
 
 **中文理解**："August 第一次跨过 Jinzi River，面容呆滞，拳头紧握缰绳。没有人在见证这一刻以写入史书，因为他已经跨过了，在维持秩序的最荒谬的借口下。"
 
@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "He jumps, and finds himself in the rain. No light to announce to his guards that he left. No tether keeping him within his qi's natural restrictions."
+> **原句 2:** "Wearing a cheap circlet, because his greatest fear is that the kingdom would forget who was supposed to inherit the throne, after all that work he put in"
 
 **中文理解**："他跳了，发现自己雨中。没有光向他的守卫宣告他离开了。没有绳索将他限制在 qi 的自然限制内。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "This is Leysa. He recognizes the rustle of the overhead trees. He gathers his breath. Jumps again. Flat ground. Eigi. He considers pivoting and entering Kelitu to observe what Calla is doing."
+> **原句 3:** "She watches Anton as he tips his head back, gazing upon the ceiling, and the glare behind his eyes responds to the picture"
 
 **中文理解**："这是 Leysa。他认出头顶树叶的沙沙声。他深吸一口气。又跳了。平地。Eigi。他考虑转向进入 Kelitu 去观察 Calla 在做什么。"
 
@@ -44,7 +44,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 4:** "August approaches the main entrance into the palace. The Crescent Society members only nod when he hops over the turnstiles."
+> **原句 4:** "If he inherits this legacy, this calling from the heavens, who does Calla become in the face of their war, not their primary weapon but only the instigator"
 
 **中文理解**："August 走向 palace 的主入口。Crescent 成员只是点头，当他跃过旋转门时。"
 
@@ -54,7 +54,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 5:** "Galipei slams against the window. August jerks back, his breath catching in his throat. With Buira Makusa's eyes, he sees a soft silver glimmering all around Galipei's body."
+> **原句 5:** "Wearing a cheap circlet, because his greatest fear is that the kingdom would forget who was supposed to inherit the throne, after all that work he put in"
 
 **中文理解**："Galipei 猛撞窗户。August 猛退，呼吸卡在喉咙里。通过 Buira Makusa 的眼睛，他看到 Galipei 的身体周围有一道柔和的银色光芒。"
 
@@ -73,8 +73,8 @@ modified: "2026-09-19"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| archive | 档案、档案馆 | The Weisannas keep a slow pace on their horses because the rest of them are forced to walk, marching a long trail through the overgrown grass |
-| intricate | 复杂的、精细的 | Years to perfect being a temporary intruder, because without a birth body, he got very good at identifying the exact moment he had pushed too far and needed to flee |
+| invaded | 档案、档案馆 | The Weisannas keep a slow pace on their horses because the rest of them are forced to walk, marching a long trail through the overgrown grass |
+| kingdom | 复杂的、精细的 | Years to perfect being a temporary intruder, because without a birth body, he got very good at identifying the exact moment he had pushed too far and needed to flee |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |

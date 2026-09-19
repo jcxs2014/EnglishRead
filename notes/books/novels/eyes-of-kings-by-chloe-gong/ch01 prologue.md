@@ -104,11 +104,11 @@ modified: "2026-09-19"
 | sigil | 符记、神圣印记（纹于皮肤上的神力符号） | The truth was that Sinoa Tuoleimi had marked a sigil for her patron god on her chest and prayed. |
 | sacrifice | 献祭、牺牲 | As her people started to die for her sacrifice, Sinoa breathed in. |
 
+| inevitability | 不可避免的 | The verdict traveled through her front lines as an inevitability. |
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| inevitable | 不可避免的 | The verdict traveled through her front lines as an inevitability. |
 | collapse | 崩溃、瓦解 | Failing to win Yi meant her forces would soon collapse. |
 | desert | 抛弃、离弃 | Her patron god had deserted her. |
 

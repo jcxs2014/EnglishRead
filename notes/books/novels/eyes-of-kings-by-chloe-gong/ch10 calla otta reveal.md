@@ -113,18 +113,18 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | tenant | 房客、租户 | its qi made itself a tenant in her throat. |
-| recede | 退去、减弱 | its receding fizzle on Calla's tongue. |
+| perimeter | 退去、减弱 | its receding fizzle on Calla's tongue. |
 | facade | 门面、假象 | Who are they fooling? |
 | hubristic | 傲慢的、自大 | Hubristic without any backing. |
 | unfathomable | 深不可测的 | a force as unfathomable as the heavens. |
 | inordinate | 过度的、无节的 | fighting against the inordinate force that wants to keep her pinned. |
 
+| insurrection | 起义、暴动 | the Weisannas in San-Er might be left in a prime position to launch an insurrection. |
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | lope | 大步慢跑 | Her restrained lope turns into a run. |
-| insurrection | 起义、暴动 | the Weisannas in San-Er might be left in a prime position to launch an insurrection. |
 | plunder | 掠夺、抢劫 | They're currently plundering through the wagon that Anton dragged from the palace. |
 
 ## 一句话总结
