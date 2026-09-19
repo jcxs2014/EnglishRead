@@ -63,7 +63,7 @@ modified: "2026-09-19"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| cramp | 抽筋、痉挛 | his legs start to cramp |
+| cramp | 抽筋、痉挛 | It smells bad and it’s cramped and when he breaks their self-imposed confinement to hurry out and source more instant noodles, it is inevitable that he will run into some type of trouble |amp |
 | cattail | 香蒲、蒲草 | ducking behind the cattails |
 | unmoving | 不动的、静止的 | sitting beside Calla's empty vessel |
 

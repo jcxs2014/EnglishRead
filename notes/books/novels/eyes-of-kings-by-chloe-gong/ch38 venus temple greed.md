@@ -51,7 +51,6 @@ modified: "2026-09-19"
 |---------|------|------|
 | sleet | 雨夹雪、冻雨 | it's sleet scattering in front of the horses |
 | residue | 残余、残渣 | its residue clings to the cracked roads |
-| sovereignty | 主权、统治权 | It's sovereign ground, inscribed with archaic Talinese characters |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

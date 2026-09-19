@@ -8,7 +8,7 @@ modified: "2026-09-19"
 ## 本章导航
 - **一句话概括**：Calla 收到 Venus 的消息前往 Rincun，发现她昏迷在 yamen 中；Matiyu 告知 Venus 体内有另一个灵魂；Calla 准备前往 Actia 与 August 谈判
 - **情感弧线位置**：低谷中的谜团——Venus 的身份是另一个谜
-- **Tropes 兑现/反转**：Venus's Condition / Actia Meeting / Identity Mystery
+- **Tropes 兑现/反转**：Venus 昏迷 / Actia 会面 / 身份谜团
 - **人物弧线**：Calla 从"战士"变为"侦探"——她必须解开 Venus 的身份之谜
 - **叙事手法**：收到消息（紧张）→ 前往 Rincun（行动）→ 发现 Venus（震惊）→ 倾听（信息）→ 决定（行动）
 
@@ -62,8 +62,8 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stub | 熄灭、踩灭 | Stamps on it, putting the embers out |
-| embers | 余烬、灰烬 | putting the embers out |
-| ache | 疼痛、酸痛 | an ache is starting at the back of her neck |
+| embers | 余烬、灰烬 | Other members of the pantheon have stepped in |ut |
+| ache | 疼痛、酸痛 | As though a canvas of rot waits beneath their feet—apples or peaches, already blackened and curling in on themselves |at the back of her neck |
 
 ## 一句话总结
 本章通过 Calla 收到 Venus 的消息前往 Rincun，引出了新的谜团——Venus 的身份。Matiyu 告知 Calla，Venus 体内有另一个灵魂，这与 Calla 的"乘客"（贪婪之神）形成对比——Venus 也是"宿主"，也是"容器"。两人都是"神的容器"，只是神不同。

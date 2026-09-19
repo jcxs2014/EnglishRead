@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Where is Calla?" he demands. "You have an immortal madwoman at your side."
+> **原句 3:** "No!" Anton snaps. "Why would she attend a meeting with you, August? You have an immortal madwoman at your side."
 
 **中文理解**："Calla 在哪里？"他质问，"你身边有一个不死的女疯子。"
 

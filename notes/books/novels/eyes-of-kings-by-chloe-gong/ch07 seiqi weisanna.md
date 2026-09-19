@@ -93,7 +93,6 @@ modified: "2026-09-19"
 |---------|------|------|
 | perimeter patrol | 周边巡逻 | She's on duty to walk the perimeter. |
 | infirmary | 医务室、伤员室 | where the injured from the coup are recuperating. |
-| recuperate | 恢复、疗养 | Only one room could be spared for an infirmary, where the injured from the coup are recuperating. |
 
 ### ⭐⭐ 进阶
 

@@ -75,9 +75,9 @@ modified: "2026-09-19"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| teeming | 拥挤的、密集的 | The teeming twin cities. |
+| teeming | 拥挤的、密集的 | She would have assumed the alarms sent most Crescents out into the streets, but the north wing is teeming with them, convening at the doors |ies. |
 | rubble | 碎石、瓦砾 | a mound of rubble. |
-| skid | 打滑、滑行 | Calla's toes skid against the line of the puddle. |
+| skid | 打滑、滑行 | Her toes skid against the line of the puddle |ainst the line of the puddle. |
 
 ## 一句话总结
 本章通过 Calla 在屋顶上的追逐和 Chami 的现身，揭示了全书的核心反转：Chami 不是温柔的女友，而是真正的神。"Divine crown"（神圣王冠）无法让 Calla 与神平起平坐——而 Chami 正是那个神。San-Er 的"安静"不是恐惧，而是敬畏。

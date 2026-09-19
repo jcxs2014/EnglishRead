@@ -48,7 +48,6 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | circlet | 小冠冕、头饰 | welling where his circlet sits |
-| sluice | 水流、冲洗 | sluicing down his neck |
 | divert | 转移、改变方向 | they must diverge |
 
 ### ⭐ 基础

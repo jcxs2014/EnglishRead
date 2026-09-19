@@ -48,7 +48,6 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| adversary | 对手、敌人 | they were friends longer than they were adversaries. |
 | peculiar | 奇怪的、异常的 | What a peculiar concept it is. |
 | menacing | 威胁的、危险的 | This menacing act does not suit him. |
 

@@ -82,7 +82,6 @@ modified: "2026-09-19"
 | spiteful | 恶毒的、怀恨的 | the god of the eastern clouds was more spiteful than his western sister. |
 | sequestered | 隐蔽的、隐居的 | wakes the birds for their sequestered symphony. |
 | fervor | 狂热、热情 | spreading fervor. |
-| prostrate | 俯伏的、拜倒的 | A cluster of his audience has gone as far as to fall onto their knees, prostrating themselves before him. |
 
 ### ⭐⭐ 进阶
 

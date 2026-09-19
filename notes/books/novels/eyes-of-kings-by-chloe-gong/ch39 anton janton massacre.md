@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 2:** "He cuts himself open, throat to navel, and then he jumps—she has to be fast. Pain threatens the edge of her awareness with each new attack, but she's moving before it can take effect, latching on to the next body that she can sense within the camp, then hurtling out again to let the occupant return. To let the Weisanna die."
+> **原句 2:** She cuts herself open, throat to navel, and then she jumps—she has to be fast. Pain threatens the edge of her awareness with each new attack, but she's moving before it can take effect, latching on to the next body that she can sense within the camp, then hurtling out again to let the occupant return. To let the Weisanna die.
 
 **中文理解**："他割开自己，喉咙到肚脐，然后他跳——她必须快。每一次新的攻击都在意识的边缘威胁着痛苦，但她在痛苦生效之前就已经移动了，锁定营地内她能感觉到的下一个身体，然后再次冲出让居住者回来。让 Weisanna 死去。"
 
@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** "Anton, she whispers. Who are you?"
+> **原句 3:** "Calla," he whispers. "Who are you?"
 
 **中文理解**："Anton，她低声说。你是谁？"
 
@@ -61,7 +61,6 @@ modified: "2026-09-19"
 |---------|------|------|
 | conundrum | 难题、困境 | This will be a conundrum |
 | ruckus | 骚动、大乱 | make a big ruckus |
-| delineate | 勾勒、描绘 | Blood soaks the basin, delineating where the carnage began |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 例句 |

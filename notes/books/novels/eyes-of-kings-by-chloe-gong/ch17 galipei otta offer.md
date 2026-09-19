@@ -62,7 +62,7 @@ modified: "2026-09-19"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| asylum | 避难所、庇护 | nobles who fled looking for safety. |
+| asylum | 避难所、庇护 | Galipei does not shift with the moving line, does not scoot forward each time it sends off another cluster of nobles seeking asylum |ing for safety. |
 | cohort | 一群人、同伙 | The first cohort of nobles are being transferred to Gaiyu. |
 | drench | 湿透、浸透 | Galipei has already gotten drenched. |
 

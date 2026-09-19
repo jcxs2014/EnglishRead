@@ -52,7 +52,7 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | siege | 围困、围攻 | a siege is going to kill the twin cities. |
-| ratify | 批准、确认 | whether he will ratify his reign slowly and surely |
+| ratify | 批准、确认 | Which provinces he intends to target, whether he can take them in one swoop with Otta’s power, or if he will ratify his reign slowly and surely, by way of yamen officials and handshakes and paperwork |fy his reign slowly and surely |
 | edict | 法令、诏书 | We'll send a representative to take the edict of freedom to Rincun directly. |
 
 ### ⭐⭐ 进阶

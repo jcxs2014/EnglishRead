@@ -35,7 +35,7 @@ modified: "2026-09-19"
 
 ---
 
-> **原句 3:** Anton, your father was a god.
+> **原句 3:** "Anton," she says. "Your father was a god."
 
 **中文理解**："Anton，你父亲是神。"
 

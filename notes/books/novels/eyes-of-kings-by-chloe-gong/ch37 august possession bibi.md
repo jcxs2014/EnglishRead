@@ -83,8 +83,8 @@ modified: "2026-09-19"
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| rein | 缰绳、控制 | his fists tight on his reins |
-| pivot | 转向、 pivot | He considers pivoting and entering Kelitu |
+| rein | 缰绳、控制 | Entering where we have reinforcements |is reins |
+| pivot | 转向、 pivot | On the very likely chance that he fails an assassination attempt, he has warned August about his presence, and August will pivot gears |g and entering Kelitu |
 | escort | 护卫、护卫队 | He will work fast, then slip through San's wall again |
 
 ## 一句话总结

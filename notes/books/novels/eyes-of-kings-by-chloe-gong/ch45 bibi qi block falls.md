@@ -8,7 +8,7 @@ modified: "2026-09-19"
 ## 本章导航
 - **一句话概括**：Bibi 和 Tsosia 在 San-Er 墙上指挥防御；被异端攻击后，Bibi 杀死 Tsosia 的符记，解除了 qi 屏障；Chami 现身协助防御
 - **情感弧线位置**：低谷——为了拯救 San-Er，必须牺牲 Crescent 的力量
-- **Tropes 兑现/反转**：Wall Defense / Sigil Cut / Block Falls / Chami Intervenes
+- **Tropes 兑现/反转**：城墙防御 / 符记切割 / 屏障崩溃 / Chami 介入
 - **人物弧线**：Bibi 从"Crescent 的盟友"变为"拯救者"——她杀死 Crescent 的符记，解放了 qi
 - **叙事手法**：城墙（紧张）→ 攻击（震撼）→ Chami 拯救（反转）→ 符记切割（高潮）→ 光返回（行动）
 

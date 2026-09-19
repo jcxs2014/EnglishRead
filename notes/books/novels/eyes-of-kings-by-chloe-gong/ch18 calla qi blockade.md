@@ -91,13 +91,13 @@ modified: "2026-09-19"
 |---------|------|------|
 | minutiae | 细节、细枝末节 | the minutiae while Calla adjusted to the palace |
 | fumble | 笨拙地处理、摸索 | the conversations she fumbled through with her royal parents |
-| tangible | 有形的、可触摸的 | invisible and intangible |
+| tangible | 有形的、可触摸的 | Spreading an intangible toxin |ible |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| lurch | 突然倾斜、蹒跚 | Calla lurches off the throne. |
+| lurch | 突然倾斜、蹒跚 | Where her reaction is fought internally, Anton lurches and throws both arms against the brick wall behind him |e throne. |
 | brim | 边缘、边（此处指"full to the brim" = 满到边缘） | every apartment in these buildings has already been stuffed full to the brim. |
 
 ## 一句话总结

@@ -74,7 +74,7 @@ modified: "2026-09-19"
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | cell | 牢房、单人病房 | When Calla thumps down the steps to the palace cells herself |
-| sigil | 符记、印记 | crimson red bleeding from its edges |
+| sigil | 符记、印记 | Violated the former sanctity they used to possess, each sigil belonging only to those who called upon their patrons | from its edges |
 | lantern | 提灯、灯笼 | Calla lifts the lamp, squinting when she descends another step |
 
 ## 一句话总结

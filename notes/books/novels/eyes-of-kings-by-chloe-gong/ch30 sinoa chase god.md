@@ -49,7 +49,7 @@ modified: "2026-09-19"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| barracks | 兵营、 barracks | running for the barracks |
+| barracks | 兵营、 barracks | Palace soldiers have abandoned their barracks in the provinces |acks |
 | aberrant | 异常的、脱离常轨的 | It is unnatural. Aberrant. |
 | delineating | 划定界限、描述 | delineating anymore |
 

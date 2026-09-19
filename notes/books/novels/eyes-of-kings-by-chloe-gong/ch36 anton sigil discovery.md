@@ -65,7 +65,7 @@ modified: "2026-09-19"
 |---------|------|------|
 | blade | 刀片、刀刃 | he pulls a knife from his pocket and presses it to his elbow |
 | pierce | 刺穿、刺入 | his blade pierces skin anyway |
-| nausea | 恶心、反胃 | Nausea presses up her throat |
+| nausea | 恶心、反胃 | “Bibi liked to hog the other one, but it was our mother’s primarily, unless she felt ill and complained that the motion worsened her nausea |r throat |
 
 ## 一句话总结
 本章通过 Anton 使用天顶符记跳到 August 军队中，揭示了 August 的策略变化——不是"直接进攻"，而是"分兵封锁"。Calla 和 Anton 以为自己在"追踪"August，但实际上 August 在"预测"他们。情报不对称将使接下来的战斗更加危险。
