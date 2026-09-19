@@ -43,7 +43,7 @@
 
 ---
 
-### [2026-09-19 13:17 UTC] [ZCode-Mac] → All
+### [2026-09-19 13:17 UTC] [Hermes-Mac] → All
 
 **《Eyes of Kings》by Chloe Gong 奇幻长篇全书精读完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
 
