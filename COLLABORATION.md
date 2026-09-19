@@ -43,17 +43,19 @@
 
 ---
 
-### [2026-09-19 09:10 UTC] [ZCode-Mac] → All
+### [2026-09-19 09:43 UTC] [ZCode-Mac] → All
 
-**《Find My Way Down to You》by Julian Winters 死神POV当代同性言情全书精读完工 + 总览三篇（11 commits，本条为该书唯一通报）**
+**《Find My Way Down to You》by Julian Winters 死神POV当代同性言情全书精读完工 + 总览三篇 + 独立五步审查通过（12 commits，本条为该书唯一通报，审查结论就地合并）**
 
-- 目录：`notes/books/novels/find-my-way-down-to-you-by-julian-winters/` — **31 md**（ch01–ch28 正文 + 00_概述 / 00_金句精选 30 句 / 00_情感节点 10 节点）；text/ 28 件与书内 28 单元 1:1 零偏移（Prologue + Chapter 1–22 + 5 个 The Before 死神插章 + Epilogue；**next-reads 宣传页 1187c 超阈值误提为 ch29，已核实删除**）
+- 目录：`notes/books/novels/find-my-way-down-to-you-by-julian-winters/` — **31 md**（ch01–ch28 正文 + 00_概述 / 00_金句精选 30 句 / 00_情感节点 10 节点）；text/ 28 件与书内 28 单元 1:1 零偏移（Prologue + Chapter 1–22 + 5 个 The Before 插章 + Epilogue；**next-reads 宣传页 1187c 超阈值误提为 ch29，已核实删除**）
 - 体裁：当代同性 YA 言情（死神拟人第一人称 + 凡人双时间线），言情长篇逐章格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），9 批推进
-- 门禁终态（现场重跑）：verify_quotes **208/208（100%）28/28 文件干净** · check_vocab **729 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **逐章 100% 零跨章** · verify_overview_quotes **金句 30/30**（情感节点 21/22——1 条省略号跨段引语工具不拆段，两片段人工 grep+flat 各自命中 ch25 兜底通过）· 概述行内英文短语 4 条 grep 全命中 · **短引语 10 条**（<20 flat 对话分段）人工 grep 台账全命中
-- 提交前当场拦截的写作缺陷（均即修）：teal 例句误并两句（ch08）· mirror 例句漏 gilded thorn 修饰（ch24）· ch15 原句2 结构损坏当场重写 · 分析层神话专名 Cerberus/Charon 改中文措辞（check_entities 误报源）· 词形 5 处（unraveled/frayed/swallowing/pad/giggling 以本章原词形为准）
-- commits（11 个）：`b3b5ae35`（ch01 试产）→ `c323c4c3`/`4e6e335e`/`3fed372a`/`6c2c1b95`/`f25a3027`/`f69a4ee6`/`ba129900`/`7f3f810f`/`847bdc20`（批1–9）→ `86d7280a`（总览三篇）；**均未 push，待指令**
+- 门禁终态（审查现场重跑）：verify_quotes **250/251（100%，含总览圈数字收录；1 条为省略号跨段已人工 flat 兜底）** · check_vocab **729 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **218/218 零跨章** · verify_overview_quotes **金句 30/30** · 自建检查器（`scripts/attic/review_fmw.py`）：总览圈数字全量 flat 扫描 **金句 30/30 + 情感节点 22/22 MISS=0** · 结构扫描 **218 块 0 问题**（编号连续/四子项齐/零孤儿零重复/H1 交叉一致）· 关键词锚定 **1020 词 0 违规** · 短引语分段 **79 条全命中本章 text**
+- **独立五步审查（用户同会话发起）共查出并整改 31 处分析层缺陷（引语层零改动，`deab88af`）**：d 步 = 1 子代理（ch01-09，附本库反例+防幻觉条款，报 9+1 全部坐实零幻觉）+ 主会话逐对核对（ch10-28，2 路子代理被并发额度拦截按 SOP 预案自执行，21 处）。**最重组：The Before 插章结构系统性误判 3 处**（ch01/ch02 误写插章为"死神视角/医院舞台"——实为 August 的 London 回忆）；**事实反转 1 处**（ch12 读者提示把 Cary 写成"来自别处"，与第 19 章揭示相反——真正"来自别处"的是 Henri）；交叉引用错章 9 处（第3/5/7/13/19 章等误标，含"你迟到了"系 Max 台词错归死神）· 数字/计数断言 7 处（全名 August Clarke 出场 off-by-one×2、"渡水四次"与同文件"三次"矛盾、Bernice"92 岁"无原文支撑、"Then give me those"四个词误作七个等）· 措辞 5 处（"伦敦"人名歧义×5、complimentary 残留）· 修复引入新错 1 处（ch19 两子项结尾重复，复查抓回）
+- e 步总览层：金句 30 条对话引语说话人 ±220 字符窗口核验 **14/14 归属正确**；概述实体 15 项 grep 全命中；跨书污染自检 11 个专名 0 污染（3 处同名为他书巧合）
+- commits（12 个）：`b3b5ae35`（ch01 试产）→ 批1–9（`c323c4c3`…`847bdc20`）→ `86d7280a`（总览三篇）→ `e3c75361`（通报）→ `deab88af`（五步审查整改）；**均未 push，待指令**
 - 细节见 `.memory/daily/2026-09-19.md` 本书条目
-- **五步审查未做（待用户发起）**
+- 局限：同会话审查对"写作时的系统性误判"检出率低于异实例——但本次恰以子代理独立视角抓到 The Before 结构误判组；仍建议重大批次可另派实例复核
+- **状态：完工 + 独立五步审查通过，未 push，等用户指令**
 
 ---
 
