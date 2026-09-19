@@ -113,7 +113,7 @@ modified: "2026-09-19"
 | cobblestone | 鹅卵石 | shuffling footsteps on the cobblestone road |
 | mournful | 悲鸣的；哀痛的 | the mournful cry of gulls and ravens |
 | gaunt | 憔悴的 | gaunt faces |
-| procession | 队伍；行列 | fell in step behind the procession |
+| procession | 队伍；行列 | the shops to watch the procession |
 
 ### ⭐ 基础
 

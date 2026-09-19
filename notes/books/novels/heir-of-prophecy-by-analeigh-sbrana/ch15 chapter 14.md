@@ -114,7 +114,7 @@ modified: "2026-09-19"
 | latent | 潜在的；潜伏的 | Each of you possesses latent talent |
 | pyre | 熊熊烈焰；火葬柴堆 | transforms that spark into a pyre |
 | scourge | 祸害；灾难 | a scourge of wretched demons |
-| encroach | 侵蚀；蚕食 | a darkness encroaching upon our borders |
+| encroach | 侵蚀；蚕食 | a darkness encroaches upon our borders |
 | tenure | 任期；任期时间 | during your tenure here |
 | conscript | 征召；强迫入伍 | will be conscripted into the queen's army |
 
@@ -125,7 +125,7 @@ modified: "2026-09-19"
 | guild | 公会 | from each guild |
 | sponsorship | 赞助；担保 | sponsorship grants citizenship |
 | expel | 驱逐；开除 | banished, thrust into exile |
-| frenzy | 狂热；疯狂 | her expression rapt as though in a frenzy |
+| frenzy | 狂热；疯狂 | her expression rapt as though she really were feeling |
 | chant | 单调重复的歌曲；吟诵 | reverberating off the walls |
 
 ### ⭐ 基础
@@ -135,7 +135,7 @@ modified: "2026-09-19"
 | castle | 城堡 | The castle looming above all else |
 | cold | 寒冷 | biting wind |
 | dark | 黑暗；黑暗的 | the room darkened |
-| sing | 唱歌 | The priestesses began to sing |
+| sing | 唱歌 | The priestesses surrounding Archmagistra Syleste began to sing |
 | war | 战争 | trained as weapons, honed into instruments of war |
 
 ---

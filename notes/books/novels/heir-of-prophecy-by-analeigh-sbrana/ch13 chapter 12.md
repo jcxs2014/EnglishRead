@@ -98,11 +98,10 @@ modified: "2026-09-19"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| squad | 班；小组 | a squad of soldiers |
 | flank | 侧翼包围 | Soldiers moved to flank them |
 | veil | 面纱 | sheer veils obscured the lower halves of their faces |
 | shunt | 推；挤 | the trains of their vestments leaving patterns in the mud |
-| beg | 恳求；请求 | Camyle knelt beside her sister, begging her to hush |
+| beg | 恳求；请求 | Camyle knelt beside her sister, attempting to block her from view, begging her to hush |
 
 ### ⭐ 基础
 
@@ -110,7 +109,7 @@ modified: "2026-09-19"
 |------|------|------|
 | beach | 海滩 | the long stretch of beach |
 | stone | 石头；鹅卵石 | the pebbles beneath her |
-| soldier | 士兵 | A soldier stepped forward |
+| soldier | 士兵 | A soldier, one Audra recognized from their ship, stepped forward |
 | eye | 眼睛 | an arrow flew into Margaryte's eye |
 | death | 死亡 | punishable by death |
 
