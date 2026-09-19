@@ -61,7 +61,7 @@ modified: "2026-09-19"
 
 **关键词**：Don’t do this for me / Do this for August Clarke / always love
 
-**为什么这样写**：告别演说的落点是一个名字——August Clarke 全名第二次郑重出场（第一次是第 1 章"认不出他"），这一次由爱人完整喊回；"for me / for anyone / for yourself" 的三级排除法把生还的理由归还本人。
+**为什么这样写**：告别演说的落点是一个名字——August Clarke 全名第三次郑重出场（前两次：第 1 章"认不出他"、第 16 章的禁令），这一次由爱人完整喊回；"for me / for anyone / for yourself" 的三级排除法把生还的理由归还本人。
 
 **读者视角提示**：注意 Love 用现在时（I'll always love）——在死神的世界里，London 的爱没有过期日。
 

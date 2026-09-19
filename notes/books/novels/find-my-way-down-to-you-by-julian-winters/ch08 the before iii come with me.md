@@ -51,7 +51,7 @@ modified: "2026-09-19"
 
 **为什么这样写**：揭示用三段递进——颜色、字母、缩写，模拟 August 目光聚焦的过程；stamped（盖章）暗示这个决定早已刻在 London 身上，只等他抬头看见。
 
-**读者视角提示**：USCB 三个字母在本书的重量：它既是未来，也是废墟——两年后 August 递交的同一份申请，写的是"假装它重要"。
+**读者视角提示**：UCSB 三个字母在本书的重量：它既是未来，也是废墟——两年后 August 递交的同一份申请，写的是"假装它重要"。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-09-19"
 
 > **原句 6:** He’s crouched in front of me. His thumb traces the bracelet around my wrist. Our faces are inches away. “What?” I say, breathless. “Let’s go together.”
 
-**中文理解**：他蹲在我面前。拇指摩挲着我腕上的手绳。我们的脸相距几英寸。"什么？"我屏着气说。"我们一起去。"
+**中文理解**：他蹲在我面前。拇指摩挲着我腕上的手绳。我们的脸相距几英寸。"什么？"我屏着气说。"我们一起去。"（末句仍是 London 在说——重复邀请）
 
 **关键词**：traces the bracelet / inches away / Let’s go together
 

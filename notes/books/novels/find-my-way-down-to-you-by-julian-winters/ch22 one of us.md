@@ -85,7 +85,7 @@ modified: "2026-09-19"
 
 **关键词**：Commit your soul / For eternity
 
-**为什么这样写**：价码六个词说完——eternity 在本书的词汇场里首次以"合同期限"出现；此前它只属于爱与誓言（Always），此刻被 Milos 挪用成抵押条款。
+**为什么这样写**：价码七个词说完——eternity 在本书的词汇场里首次以"合同期限"出现；此前它只属于爱与誓言（Always），此刻被 Milos 挪用成抵押条款。
 
 **读者视角提示**：对照 The Before 的 "forever/Always"——同一个词的两副面孔：一副是愿望，一副是债契。
 

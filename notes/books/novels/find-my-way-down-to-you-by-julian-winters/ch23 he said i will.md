@@ -99,7 +99,7 @@ modified: "2026-09-19"
 
 **为什么这样写**：两个 Never 垒出职业铁律，三个词（Until you）推倒它——守护承诺已经进化成心甘情愿的越界；Poppy 的证词让"compassion"这个改变有了精确的时间戳。
 
-**读者视角提示**：回看第 13 章那句"But I watch. And wait for their time to run out."——他现在知道了"after"是什么样，因为他在 August 的 after 里待了两年。
+**读者视角提示**：回看第 10 章那句"But I watch. And wait for their time to run out."——他现在知道了"after"是什么样，因为他在 August 的 after 里待了两年。
 
 ---
 
