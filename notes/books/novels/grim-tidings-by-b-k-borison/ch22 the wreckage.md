@@ -88,11 +88,11 @@ modified: "2026-09-19"
 
 > **原句 8:** That it was the first moment I started to wish for something different. That it woke up the part of me that yearned for the light instead of the shadows.
 
-**中文理解：** 就是在那一刻，我第一次开始盼望「不一样的什么」。就是那一天，唤醒了我身体里渴望光、而不是影子密语的那一部分。
+**中文理解：** 就是在那一刻，我第一次开始盼望「不一样的什么」。就是那一天，唤醒了我身体里渴望光、而不是影子的一部分。
 
 **关键词：** the first moment, wish for something different, yearned for the light
 
-**为什么这样写：** 全书的因果链在此倒接：愿望清单的出生证明、她的整场叛逆、甚至她走进这家花店本身——全部签发于 Frank 家破碎的那个下午。他的 worst day 是她的 first day：这个时间上的互噬结构是本书最冷的机关——治愈她的伤口，正是她亲手划开的。yearned for the light 与 ch17 的死神自白（我是黑暗里潜行的影子）形成总攻前的自我对质。
+**为什么这样写：** 全书的因果链在此倒接：愿望清单的出生证明、她的整场叛逆、甚至她走进这家花店本身——全部签发于 Frank 家破碎的那个下午。他的 worst day 是她的 first day：这个时间上的互噬结构是本书最冷的机关——治愈她的伤口，正是她亲手划开的。yearned for the light 与 ch16 开篇的死神自白（我是黑暗里潜行的影子）形成总攻前的自我对质。
 
 **读者视角提示：** 记住这条因果：她欠 Frank 的不止两条命，还有那个「因为他才诞生」的、想做好人的自己。这笔债怎么还，是后三分之一的主线。
 

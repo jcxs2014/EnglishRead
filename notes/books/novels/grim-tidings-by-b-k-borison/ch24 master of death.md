@@ -48,7 +48,7 @@ modified: "2026-09-19"
 
 > **原句 4:** "Because you, my dear, are in quite a bit of trouble."
 
-**中文理解： **「因为你呀，我亲爱的，惹上了相当大的麻烦。」
+**中文理解：**「因为你呀，我亲爱的，惹上了相当大的麻烦。」
 
 **关键词：** my dear, quite a bit of trouble
 
@@ -58,7 +58,7 @@ modified: "2026-09-19"
 
 > **原句 5:** Just because I don't put in my time at the department doesn't mean I'm not working, Darcy. Truly, how archaic. Everyone knows that a remote workforce is often a more effective one.
 
-**中文理解： **「我不在部门坐班，不代表我没在工作，Darcy。说真的，你这想法太陈旧了。人人都知道，远程办公往往效率更高。」
+**中文理解：**「我不在部门坐班，不代表我没在工作，Darcy。说真的，你这想法太陈旧了。人人都知道，远程办公往往效率更高。」
 
 **关键词：** remote workforce, archaic
 
@@ -68,23 +68,23 @@ modified: "2026-09-19"
 
 > **原句 6:** "Death, of course." He fixes me with a look. … "Did you truly think you saved him, Darcy?"
 
-**中文理解： **「当然是死亡。」他直直盯住我。……「你真的以为，你救下了他，Darcy？」
+**中文理解：**「当然是死亡。」他直直盯住我。……「你真的以为，你救下了他，Darcy？」
 
 **关键词：** Death of course, truly think you saved him
 
 **为什么这样写：** 她的整个行动被两句话重新归档：问句里的 truly 是审讯者的放大镜——把「救」字拆开验货。fixes me with a look 在看不见眼睛的前提下完成逼视，靠的是权力的压强而非视线。这句也是情节的悬疑反转：如果她没「救」成，那 Nate 现在算什么？答案吊在后文。
 
-**读者视角提示： **「你以为你救了他？」——这句话的完整含义要到结局才揭晓，先把它当悬梁记下。
+**读者视角提示：**「你以为你救了他？」——这句话的完整含义要到结局才揭晓，先把它当悬梁记下。
 
 > **原句 7:** "You believe death is an ending," he surmises. … "Bring me the man you've been assigned, or I will be forced to collect him for myself. And I can assure you, Darcy, if I'm the one to do it, it will be far from pleasant."
 
-**中文理解： **「你相信死亡就是终结，」他推断道。……「把你接手的那个男人带来给我，不然我只能亲自去收。而且我向你保证，Darcy，如果由我来做，过程绝不会令人愉快。」
+**中文理解：**「你相信死亡就是终结，」他推断道。……「把你接手的那个男人带来给我，不然我只能亲自去收。而且我向你保证，Darcy，如果由我来做，过程绝不会令人愉快。」
 
-**关键词： **death is an ending, collect him for myself, far from pleasant
+**关键词：**death is an ending, collect him for myself, far from pleasant
 
 **为什么这样写：** 通牒里藏着全书最大的一颗哲学雷：他把她的信念改写成待证命题——「你相信死亡是终结」，言下之意是「你可以不信」。surmises 的推断语气让威胁裹上学究外壳；collect 的动词把 Nate 降格为待收物品，与她的职业用语同一本词典——这才是真正的羞辱：他用她的语法威胁她。far from pleasant 的克制措辞比任何血腥描写都冷。
 
-**读者视角提示： **「death is an ending?」的问号是第三幕的藏宝图——她的整个救赎计划也许都建在一个可被推翻的前提上。
+**读者视角提示：**「death is an ending?」的问号是第三幕的藏宝图——她的整个救赎计划也许都建在一个可被推翻的前提上。
 
 ## 本章词汇
 
@@ -110,7 +110,7 @@ modified: "2026-09-19"
 |---------|------|------|
 | buzzy | 嗡嗡发麻的，恍惚的 | I drop my head back to the pillow, buzzy and anxious. |
 | dopily | 呆呆地，憨憨地 | But he just smiles dopily at me. |
-| chino | 斜纹棉布裤 | He takes another bite, a glob of smooth orange falling onto his perfectly pressed chino pants. |
+| chino | 斜纹棉布裤 | Brad takes another bite, a glob of smooth orange falling onto his perfectly pressed chino pants. |
 | aristocratic | 贵族气的 | There's an accent there, somewhere. Something vaguely British. Aristocratic. |
 | tortoiseshell | 玳瑁纹的 | Clubmaster sunglasses with a tortoiseshell pattern and opaque lenses that hide his eyes. |
 | pristine | 纯净的，未受扰动的 | Like the edge of a blade or the too-still waters of a pristine lake. I know something sinister lies beneath. |

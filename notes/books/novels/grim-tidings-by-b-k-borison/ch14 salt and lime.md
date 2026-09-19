@@ -66,13 +66,13 @@ modified: "2026-09-19"
 
 **读者视角提示：** 她的每次心动都带着考古层：此刻的每一分热，都在引用过去的某个场景——这是作者给双视角读者的专属彩蛋。
 
-> **原句 6:** And I do. I lick the line of salt off my skin, my tongue catching the edge of his thumb where he's still holding on to me. His jaw clenches, his nostrils flare, and I've never felt more powerful in my life
+> **原句 6:** And I do. I lick the line of salt off my skin, my tongue catching the edge of his thumb where he's still holding on to me. His jaw clenches, his nostrils flare, and I've never felt more powerful in my life—magic be damned.
 
 **中文理解：** 我照做了。我舔掉皮肤上那条盐线，舌尖擦过他仍扣着我的那只拇指的边缘。他咬紧下颌、鼻翼翕张——而我这辈子，从没这么有力过。
 
 **关键词：** lick the line of salt, jaw clenches, more powerful
 
-**为什么这样写：** 力量关系的反转在此完成：无法召唤魔法、被嘲「small things」的她，用一个舔舐让两千岁的天使咬紧牙关——more powerful 对她而言是从未有过的体验。magic be damned 的潜台词是：这是她裸装状态下的战果。他的 jaw clenches / nostrils flare 是失守的仪表盘——两个人各自的「电」终于同压。
+**为什么这样写：** 力量关系的反转在此完成：无法召唤魔法、被嘲「small things」的她，用一个舔舐让两千岁的天使咬紧牙关——more powerful 对她而言是从未有过的体验。句尾的 magic be damned（魔法又算得了什么）是她的注脚：这是她裸装状态下的战果。他的 jaw clenches / nostrils flare 是失守的仪表盘——两个人各自的「电」终于同压。
 
 **读者视角提示：** 「这辈子最有力量的一刻」不靠魔法——这条设定对她的自我认知是颠覆性的：她一直以为价值长在功能上。
 

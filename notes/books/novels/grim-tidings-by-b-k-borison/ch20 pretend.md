@@ -48,7 +48,7 @@ modified: "2026-09-19"
 
 > **原句 4:** It quickly goes from performative to persuasive, Gabriel reassuring me with every slant of his mouth against mine. I've got you. He squeezes my ass.
 
-**中文理解：** 这个吻很快从表演滑向劝说，Gabriel 用每一次唇形的偏转向我保证。我在。他收紧手掌。我会保你安全。
+**中文理解：** 这个吻很快从表演滑向劝说，Gabriel 用每一次唇形的偏转向我保证。我在。他收紧手掌。
 
 **关键词：** performative to persuasive, I've got you
 

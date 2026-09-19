@@ -34,7 +34,7 @@ modified: "2026-09-19"
 
 **为什么这样写：** 奶昔调包复仇的喜剧核爆：他给她绿色健康饮、自饮草莓奶昔——报复来得幼稚又精准。她的怒骂用了三级升压：地狱→实验室→危废标签，超 Blake 调动全部修辞火力对付一杯蔬菜汁，恰恰因为她不能承认的是输掉整局。他叼着红吸管笑而不语——调情在他这侧已转入骚扰式宠溺阶段。
 
-**读者视角提示：** 「交换饮料」是本书第一次身体接触（ch06 十指相扣）之后的二次越界——用恶作剧替代道歉，是这对冤家的求和语法。
+**读者视角提示：** 「交换饮料」紧随巷吻与 ch06 的十指相扣，是又一次越界——用恶作剧替代道歉，是这对冤家的求和语法。
 
 > **原句 3:** Honestly, I didn't know I could take a lost soul out of the department. I thought there would be something holding them in place. But there wasn't, and I did, and I intend to exploit that loophole. The paper trail I left should buy me a week or two, especially with how slow things move with processing. I'm counting on Maverick operating at his usual snail's pace.
 
@@ -52,7 +52,7 @@ modified: "2026-09-19"
 
 **关键词：** cold mask, costs me, play a little game
 
-**为什么这样写：** 她的战略是给偏见递刀：既然他认定死神无情，那就把无情演成筹码——channel the version of himself 把自我污名化写成主动换装。an act of indifference that costs me 是全段真正的信息披露：面具每戴一秒都在割她的肉。game 一词与 ch02 的猜酒游戏形成首尾呼应——两人的每次靠近都伪装成博弈。
+**为什么这样写：** 她的战略是给偏见递刀：既然他认定死神无情，那就把无情演成筹码——channel the version of myself 把自我污名化写成主动换装。an act of indifference that costs me 是全段真正的信息披露：面具每戴一秒都在割她的肉。game 一词与 ch02 的猜酒游戏形成首尾呼应——两人的每次靠近都伪装成博弈。
 
 **读者视角提示：** 她说谎时的语法会变长、变戏剧化（本章的 checkers on a board 演讲）——识别她「演」的开关，就识破了她所有的狠话。
 

@@ -66,7 +66,7 @@ modified: "2026-09-19"
 
 **读者视角提示：** 记住「磨砂玻璃」——她要的「中间时刻」全在玻璃另一侧；他后来做的每件事，都可以算作替她擦玻璃。
 
-> **原句 6:** "Fuck," I mutter, turning to stop him. To push him back with my magic. To do something. But my hands are shaking, and everything is moving too fast. The car, the storm, Nate. I'm too far away. I'm not fast enough. I'm frozen, again
+> **原句 6:** "Fuck," I mutter, turning to stop him. To push him back with my magic. To do something. But my hands are shaking, and everything is moving too fast. The car, the storm, Nate. I'm too far away. I'm not fast enough. I'm frozen, again, and I can't—I can't—
 
 **中文理解：** 「操，」我低骂，转身想拦住他。想用魔法把他推回去。想做点什么。可我的手在抖，一切都太快了。车、暴雨、Nate。我隔得太远。我不够快。我又僵住了——像当年一样。
 

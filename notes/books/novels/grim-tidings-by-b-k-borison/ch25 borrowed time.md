@@ -7,7 +7,7 @@ modified: "2026-09-19"
 
 ## 本章导航
 
-- **一句话概括**：她在自我惩罚（六十颗橄榄核）并决定提前退场——「borrowed time 用完了」；他驳她的自弃（Bullshit），她反刺他的自耗（你从不为自己而战）；夜里她吻别离开，他在满屋 breadcrumbs 前承认自己不会说谎，追出门去。
+- **一句话概括**：她在自我惩罚（六十三颗橄榄核）并决定提前退场——「borrowed time 用完了」；他驳她的自弃（Bullshit），她反刺他的自耗（你从不为自己而战）；夜里她吻别离开，他在满屋 breadcrumbs 前承认自己不会说谎，追出门去。
 - **视角**：第一人称 Gabriel；分离章。
 - **情感弧线位置**：低谷——她的自我流放 vs 他的追击。
 - **Tropes 兑现/反转**：兑现「她先走」的必然；反转——她的理由（保护他）在读者视角是误判（Gideon 要的是人不是情）；bullshit 对吼是这对冤家的求爱方言。
@@ -28,63 +28,63 @@ modified: "2026-09-19"
 
 > **原句 2:** "Because it's not something you can fix." Her shoulders lift and then fall. "I'm not something you can fix. I am what I am."
 
-**中文理解： **「因为这不是你能修好的东西。」她耸了下肩又放下。「我不是你能修好的东西。我就是这样的。」
+**中文理解：**「因为这不是你能修好的东西。」她耸了下肩又放下。「我不是你能修好的东西。我就是这样的。」
 
 **关键词：** not something you can fix, I am what I am
 
-**为什么这样写：** 她堵死他的职业本能：fix 是守护者的母语，她一句「修不好」把他流放出境。I am what I am 的同义反复（tautology）恰是她的心理牢房：把「曾经如何」冒充「永远如何」。这句话的狡猾在于它半真——她确实无法被修好，但那是因为她不是坏件，是不被允许运转的机器。他下一章的反驳（Bullshit）正是冲着这个偷换来的。
+**为什么这样写：** 她堵死他的职业本能：fix 是守护者的母语，她一句「修不好」把他流放出境。I am what I am 的同义反复（tautology）恰是她的心理牢房：把「曾经如何」冒充「永远如何」。这句话的狡猾在于它半真——她确实无法被修好，但那是因为她不是坏件，是不被允许运转的机器。同一场对话里紧随的反驳（Bullshit）正是冲着这个偷换来的。
 
-**读者视角提示： **「修不好」与「不需要修」之间隔着一整个第三幕——记住她用的是哪个词。
+**读者视角提示：**「修不好」与「不需要修」之间隔着一整个第三幕——记住她用的是哪个词。
 
 > **原句 3:** But you made me think there's another option for people like us. That's what you've been saying all these weeks, isn't it? That we get to choose. So, choose something different. Prove that you're more than what the afterlife made of you.
 
-**中文理解： **可你让我相信，对我们这种人来说还有别的选项。这几个礼拜你一直说的不就是这事吗？我们有权选择。那就选点不一样的。证明你不只是来世把你造成的那样。
+**中文理解：**可你让我相信，对我们这种人来说还有别的选项。这几个礼拜你一直说的不就是这事吗？我们有权选择。那就选点不一样的。证明你不只是来世把你造成的那样。
 
-**关键词： **another option, we get to choose, what the afterlife made of you
+**关键词：**another option, we get to choose, what the afterlife made of you
 
-**为什么这样写： **他把她的福音原句奉还：she converted him first——如今布道者失忆，听道者背经。we get to choose 与 ch08 的「We don't pick what we become」正面对撞：两套神学在同一段关系里互审。what the afterlife made of you 呼应她的「被制成凶器」说——他没否认她的出厂设定，只坚持出厂后还有改装的自由。爱在此刻是信仰监督：你信的，你自己先得活。
+**为什么这样写：**他把她的福音原句奉还：she converted him first——如今布道者失忆，听道者背经。we get to choose 与 ch08 的「We don't pick what we become」正面对撞：两套神学在同一段关系里互审。what the afterlife made of you 呼应她的「被制成凶器」说——他没否认她的出厂设定，只坚持出厂后还有改装的自由。爱在此刻是信仰监督：你信的，你自己先得活。
 
-**读者视角提示： **「选择」是两人共用的圣词——她给他的（学会要），他还给她的（学会选）。这场对吼其实是互相布道。
+**读者视角提示：**「选择」是两人共用的圣词——她给他的（学会要），他还给她的（学会选）。这场对吼其实是互相布道。
 
 > **原句 4:** Because it's been a thousand fucking years, Darcy, and I was doing just fine until … Try to contain the anger that's not anger at all, but a bone-deep desperation that I'm about to lose something precious. … "I was doing just fine," I repeat.
 
-**中文理解： **「因为都他妈一千年了，Darcy，在那之前我一直过得挺好。」……压住那股怒火——其实根本不是怒火，而是深进骨髓的绝望：我快要失去一件珍宝了。「我一直过得挺好，」我又说一遍。
+**中文理解：**「因为都他妈一千年了，Darcy，在那之前我一直过得挺好。」……压住那股怒火——其实根本不是怒火，而是深进骨髓的绝望：我快要失去一件珍宝了。「我一直过得挺好，」我又说一遍。
 
-**关键词： **a thousand fucking years, bone-deep desperation, lose something precious
+**关键词：**a thousand fucking years, bone-deep desperation, lose something precious
 
-**为什么这样写： **怒气的成分表被当场化验：不是愤怒，是预支的丧失——他先学会了失去才会发火。doing just fine 重复两遍，第二遍已经底气全无：那是没有遇到她之前的一千年，价格是「不想要任何东西」。precious 单词收口把恐吓式的示弱推到极限——一个守护者承认自己有「会失去的东西」，等于交出人质。
+**为什么这样写：**怒气的成分表被当场化验：不是愤怒，是预支的丧失——他先学会了失去才会发火。doing just fine 重复两遍，第二遍已经底气全无：那是没有遇到她之前的一千年，价格是「不想要任何东西」。precious 单词收口把恐吓式的示弱推到极限——一个守护者承认自己有「会失去的东西」，等于交出人质。
 
-**读者视角提示： **「过得挺好」是他的旧卖身契——他说第二遍时自己都听出是谎言了，这一章他正在练习不撒谎。
+**读者视角提示：**「过得挺好」是他的旧卖身契——他说第二遍时自己都听出是谎言了，这一章他正在练习不撒谎。
 
 > **原句 5:** We need to be realistic, Gabriel. We knew we were on borrowed time.
 
-**中文理解： **「我们得现实一点，Gabriel。我们早就知道，这段日子是借来的。」
+**中文理解：**「我们得现实一点，Gabriel。我们早就知道，这段日子是借来的。」
 
-**关键词： **borrowed time
+**关键词：**borrowed time
 
-**为什么这样写： **她用金融语言宣判爱情：borrowed time——债要还，租要退。realistic 是她的盾牌词（把逃避包装成成熟）。这句话最疼的地方在于「我们早就知道」：她把两人共同的清醒拿出来当分手的公证。而读者比她多知道一层：Gideon 要的是 Nate，不是这段感情——她的「现实」建立在错题上。
+**为什么这样写：**她用金融语言宣判爱情：borrowed time——债要还，租要退。realistic 是她的盾牌词（把逃避包装成成熟）。这句话最疼的地方在于「我们早就知道」：她把两人共同的清醒拿出来当分手的公证。而读者比她多知道一层：Gideon 要的是 Nate，不是这段感情——她的「现实」建立在错题上。
 
-**读者视角提示： **「借来的时间」——他们的每一章甜都是计息的。记住这个词，结局章会来对账。
+**读者视角提示：**「借来的时间」——他们的每一章甜都是计息的。记住这个词，结局章会来对账。
 
 > **原句 6:** "I gave you what I had left. This is it." She shrugs her shoulders. "I need to go now."
 
-**中文理解： **「我把剩下的都给你了。就这些了。」她耸耸肩。「我现在得走了。」
+**中文理解：**「我把剩下的都给你了。就这些了。」她耸耸肩。「我现在得走了。」
 
-**关键词： **what I had left, This is it
+**关键词：**what I had left, This is it
 
-**为什么这样写： **她的误判在这里兑现成台词：她认定魔法转移交出了自己「剩下的全部」——把灵魂账本当成了余额清零的存折。This is it 的三个词是她的死亡语法（她见惯终局，说起来毫不费力）。shrug 的松弛与内容的诀窍感互为反差：她练习告别练了一百年，熟练得让人心碎。
+**为什么这样写：**她的误判在这里兑现成台词：她认定魔法转移交出了自己「剩下的全部」——把灵魂账本当成了余额清零的存折。This is it 的三个词是她的死亡语法（她见惯终局，说起来毫不费力）。shrug 的松弛与内容的诀窍感互为反差：她练习告别练了一百年，熟练得让人心碎。
 
-**读者视角提示： **「我给你的是我剩下的全部」——她把爱记成了支出，他要把这笔账改写成投资。这是他们真正的分歧所在。
+**读者视角提示：**「我给你的是我剩下的全部」——她把爱记成了支出，他要把这笔账改写成投资。这是他们真正的分歧所在。
 
 > **原句 7:** She's everywhere. Bits and pieces of her left like breadcrumbs to my goddamned obsession. I fist my hands around my keys and close my eyes tight, trying to get control of this rumbling, roiling storm in the middle of my chest. … But it feels like a lie. … And I've always been a shit liar.
 
-**中文理解： **她无处不在。她的一星半点像面包屑，一路撒向我那该死的执念。我攥紧钥匙闭紧双眼，想压住胸口那阵翻滚咆哮的风暴。……可这感觉像个谎言。……而我从来就是个不会撒谎的人。
+**中文理解：**她无处不在。她的一星半点像面包屑，一路撒向我那该死的执念。我攥紧钥匙闭紧双眼，想压住胸口那阵翻滚咆哮的风暴。……可这感觉像个谎言。……而我从来就是个不会撒谎的人。
 
-**关键词： **breadcrumbs, feels like a lie, shit liar
+**关键词：**breadcrumbs, feels like a lie, shit liar
 
-**为什么这样写： **空屋考古学：茶杯、书、围巾、狗毯——她用物件完成了反向留宿，breadcrumbs 的童话指涉说破真相：面包屑本来是用来找回家路的。It's better this way 说出口就穿帮，因为一个不会撒谎的人连自我安慰都会失败。shit liar 回收 ch10 她的指控（You're a shit liar）——这对冤家连词库都是共用的。他的「追出去」是全章唯一诚实的句子。
+**为什么这样写：**空屋考古学：茶杯、书、围巾、狗毯——她用物件完成了反向留宿，breadcrumbs 的童话指涉说破真相：面包屑本来是用来找回家路的。It's better this way 说出口就穿帮，因为一个不会撒谎的人连自我安慰都会失败。shit liar 回收 ch11 她的指控（You're a shit liar）——这对冤家连词库都是共用的。他的「追出去」是全章唯一诚实的句子。
 
-**读者视角提示： **「不会撒谎的人去追人」——本书第三幕的第一步迈得又蠢又对：理性全部反对，音叉全部赞成。
+**读者视角提示：**「不会撒谎的人去追人」——本书第三幕的第一步迈得又蠢又对：理性全部反对，音叉全部赞成。
 
 ## 本章词汇
 
@@ -129,4 +129,4 @@ modified: "2026-09-19"
 
 ## 一句话总结
 
-六十颗橄榄核是她给自己判的刑——「borrowed time 用完了」；他把她的信仰掷回她脸上：是你教我们「可以选择」的；空屋里的面包屑替她招了供，他只承认了一件事——自己是个不会撒谎的人，然后摔门去追。
+六十三颗橄榄核是她给自己判的刑——「borrowed time 用完了」；他把她的信仰掷回她脸上：是你教我们「可以选择」的；空屋里的面包屑替她招了供，他只承认了一件事——自己是个不会撒谎的人，然后摔门去追。

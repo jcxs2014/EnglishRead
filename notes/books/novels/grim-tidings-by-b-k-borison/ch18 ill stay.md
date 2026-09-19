@@ -26,7 +26,7 @@ modified: "2026-09-19"
 
 **读者视角提示：** 两次死亡体验的对照是全书的坐标系原点——第一次死把她送进部门，这一次「死」把她送进他的手里。
 
-> **原句 2:** I did it. I saved a soul. I didn't stand to the side and watch a death unfold. I chose a different path
+> **原句 2:** I did it. I saved a soul. I didn't stand to the side and watch a death unfold. I chose a different path and I—
 
 **中文理解：** 我做到了。我救下了一个灵魂。我没有站在一旁，看着一场死亡按部就班地展开。我选了另一条路。
 

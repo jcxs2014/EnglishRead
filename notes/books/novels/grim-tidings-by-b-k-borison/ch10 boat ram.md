@@ -42,9 +42,9 @@ modified: "2026-09-19"
 
 **关键词：** never witnessed a death, necessary, face in the dirt
 
-**为什么这样写：** 他的死亡观首次溯源：necessary / fair / decent 三个形容词把「不义之死」的控诉推到极致——一个见过两千多年死亡的存在，一次都没认可过，这是全书最重的证词。而 face in the dirt 是他自己的死状：445 BC 雅典（ch07）的战场死法，无人执手、无人合眼。守护者职业的伦理根基原来是一块私伤：他救人，是不想让任何人重复他死时的姿势。
+**为什么这样写：** 他的死亡观首次溯源：necessary / fair / decent 三个形容词把「不义之死」的控诉推到极致——一个见过几千年死亡的存在，一次都没认可过，这是全书最重的证词。而 face in the dirt 是他自己的死状：445 BC 的雅典（ch07 自述的年代），死在异乡的泥土里，无人执手、无人合眼。守护者职业的伦理根基原来是一块私伤：他救人，是不想让任何人重复他死时的姿势。
 
-**读者视角提示：** 记住「脸埋在土里」——它与 Darcy 的「病床上独自数着蜜蜂」（ch01）构成两位主角的死状对仗：都孤独，一个向光，一个向土。
+**读者视角提示：** 记住「脸埋在土里」——它与 Darcy 的「病床上独自听着蜜蜂嗡鸣」（ch01）构成两位主角的死状对仗：都孤独，一个向光，一个向土。
 
 > **原句 4:** I roll my shoulders back and try to release the heavy knot beneath my wings. They're not exactly thrilled about staying hidden while in close proximity to dark magic.
 
@@ -74,7 +74,7 @@ modified: "2026-09-19"
 
 **为什么这样写：** 全书最好的双关在此引爆：本能警报「水里有死者」，他的回答把「死者」指认成眼前调笑的她——警铃与心动共用一个信号源。graduated to a painful throb 给伏笔升级归档（痒→痛→咆哮），bat them away 是他一以贯之的对策：拿意志硬掰身体。这句话把「守护死神」的职业悖论说尽——他要守护的人，正是他本能要警惕的东西。
 
-**读者视角提示：** 他的直觉从没错过（ch06 原话），所以「赶开直觉」注定失败——这条伏笔在后面的牺牲/危机章会连本带利讨回。
+**读者视角提示：** 他的直觉很少出错（ch06 原话 rarely wrong），所以「赶开直觉」注定失败——这条伏笔在后面的牺牲/危机章会连本带利讨回。
 
 > **原句 7:** She shakes her head. "No. When I feel death surround a soul, I'm able to channel it. Like a power exchange."
 

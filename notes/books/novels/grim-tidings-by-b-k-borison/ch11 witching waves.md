@@ -22,7 +22,7 @@ modified: "2026-09-19"
 
 **关键词：** closest I've ever come to flying, Untethered, like a person
 
-**为什么这样写：** 昨天的闹剧在她的回味里完成加冕：A different sort of magic 把心跳归档为与死神魔法并列的异能——快乐是她第二种法术。两个无前缀的完成式形容词（Untethered / Unburdened）是她惯用的双词裁决体，这次裁决的终于不是罪，而是自由。like a person 是全章的题眼：她要用愿望清单赎回的，正是「做人」的资格。
+**为什么这样写：** 方才的闹剧在她的回味里完成加冕：A different sort of magic 把心跳归档为与死神魔法并列的异能——快乐是她第二种法术。两个无前缀的完成式形容词（Untethered / Unburdened）是她惯用的双词裁决体，这次裁决的终于不是罪，而是自由。like a person 是全章的题眼：她要用愿望清单赎回的，正是「做人」的资格。
 
 **读者视角提示：** 记住「像一个人」这个标准——后文她每次被当成「死神」对待（包括被 Gabriel），都是对这个标准的违背。
 
@@ -58,7 +58,7 @@ modified: "2026-09-19"
 
 > **原句 5:** Here we are, like I haven't been struggling every day since to hold on to that version of me. The girl who wore ribbons in her hair and laughed at the Coney Island amusement park until her chest hurt. The girl who was brave and confident and happy, not the shell of a woman shrunk down by decades of disappointment.
 
-**中文理解：」「瞧，现在就这样了——好像我不是每天都在挣扎着保住那个版本的我似的。那个头发扎着缎带、在 Coney Island 笑到胸口发疼的女孩。那个勇敢、自信、快乐的女孩——而不是这个被几十年的失望一点点缩小的、女人的空壳。」
+**中文理解：** 「瞧，现在就这样了——好像我不是每天都在挣扎着保住那个版本的我似的。那个头发扎着缎带、在 Coney Island 笑到胸口发疼的女孩。那个勇敢、自信、快乐的女孩——而不是这个被几十年的失望一点点缩小的、女人的空壳。」
 
 **关键词：** hold on to that version of me, ribbons in her hair, shell of a woman
 

@@ -24,7 +24,7 @@ modified: "2026-09-19"
 
 **为什么这样写：** 魔法被设定成情绪的气压计：她越压，它越崩——champagne cork 的比喻把「失控」写成庆典般的爆裂，气质仍是喜剧的。rude, mediocre men 是全段的刺：不是「今天很难」，而是「今天的男人很难」——她对 Gabriel 的余怒（ch04）悄悄入了账。失控先于台词，暴露比语言诚实。
 
-**读者视角提示：** 她的魔法随情绪外泄——火焰上指尖、影子缠手掌（ch04），这个设定此后每章都是心境的显示屏。
+**读者视角提示：** 她的魔法随情绪外泄——影子缠手掌（ch04）、指尖火苗（本章），这个设定此后每章都是心境的显示屏。
 
 > **原句 2:** He flicks his fingers at me, and the flames on the end of mine extinguish. His magic feels like the brush of an old sweater. Not exactly comfortable, but not unfamiliar either.
 
@@ -52,7 +52,7 @@ modified: "2026-09-19"
 
 **关键词：** Annapolis, 1649, Puritans, more spirits than mortals
 
-**为什么这样写：** 世界观的地理锚点用一句毒舌完成：近四百年的港口城，历史纵深直接换算成鬼口密度——more spirits than mortals 是设定陈述，口吻却是酒吧吹牛。ch01 那句 CSI: Annapolis 的冷笑话在此落地生根：这座城从第一页起就在排队出场。
+**为什么这样写：** 世界观的地理锚点用一句毒舌完成：近四百年的港口城，历史纵深直接换算成鬼口密度——more spirits than mortals 是设定陈述，口吻却是酒吧吹牛。这座 1649 年建城的港口从第一页起就在排队出场。
 
 **读者视角提示：** Annapolis 正式定为故事舞台。海事城市、石板街、海军学院——本书的「人间」布景全部在这句里领了开工许可。
 
