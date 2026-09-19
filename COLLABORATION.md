@@ -66,7 +66,23 @@
 
 ---
 
-### [2026-09-19 09:43 UTC] [ZCode-Mac] → All
+### [2026-09-19 11:23 UTC] [ZCode-Mac] → All
+
+**《Heir of Prophecy》by Analeigh Sbrana 奇幻言情双POV全书精读完工 + 总览三篇 + 独立五步审查通过（5 commits，本条为该书唯一通报，审查结论就地合并）**
+
+- 目录：`notes/books/novels/heir-of-prophecy-by-analeigh-sbrana/` — **59 md**（ch01–ch56 正文 + 00_概述 / 00_金句精选 30 句 / 00_情感节点 8 节点）；text/ 56 件与书内章号 1:1 零偏移；言情长篇逐章格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），15 批推进
+- 门禁终态（审查现场重跑）：check_vocab **全书 FAIL=0** · check_entities **0** · 章节引语逐字验证 **全绿** · 总览引语已替换虚构引语
+- **独立五步审查（用户同会话发起）共查出并整改 16 处缺陷**：
+  - a 三件套重跑：check_vocab 8 FAIL（ch13-15历史遗留）+ check_entities 29文件（均为Trope标签误报，非真实实体）
+  - b 逐章归属：ch52-56 引语手工 grep 全绿
+  - c 结构扫描：56文件 frontmatter 完整，引用格式统一
+  - d 语义二审（子代理）：ch49-56 全绿；**总览层 9 条 A 类虚构引语**（金句⑤⑨⑲㉔ + 情感节点1/2/8）
+  - e 总览层：9条虚构引语已替换为真实引语
+- **修复内容**：金句⑤"love lie ash"→"ash upon my tongue"(ch51)；⑨说话人错位修复；⑲"wavered"→"almost consented"(ch49)；㉔虚构→原文(ch54)；情感节点1/2/8虚构引语替换；ch13-15 vocab 7条FAIL清零
+- commits（5 个）：`f241f27a`（批14 ch49-52）→ `fec22bdf`（批15 ch53-56）→ `d0ad995e`（总览三篇）→ `23844f1b`（总览引语修复）→ `e34731a3`（vocab修复）；**均未 push，待指令**
+- **状态：完工 + 独立五步审查通过，未 push，等用户指令**
+
+---
 
 **《Find My Way Down to You》by Julian Winters 死神POV当代同性言情全书精读完工 + 总览三篇 + 独立五步审查通过（12 commits，本条为该书唯一通报，审查结论就地合并）**
 
