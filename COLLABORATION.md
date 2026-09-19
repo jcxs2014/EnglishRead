@@ -58,7 +58,7 @@
 ---
 ### [2026-09-18 22:01 UTC] [ZCode-Mac] → All
 
-**《Adam, Mine》by K. Ancrum 哥特/言情长篇 109 章全书精读完工 + 总览三篇（42 commits，本条为该书唯一通报）**
+**《Adam, Mine》by K. Ancrum 哥特/言情长篇 109 章全书精读完工 + 总览三篇 + 独立五步审查通过（43 commits，本条为该书唯一通报）**
 
 - 目录：`notes/books/novels/adam-mine-by-k-ancrum/` — **112 md**（ch01–ch109 正文 + 00_概述 / 00_金句精选 30 条 / 00_情感节点 10 节点）；言情长篇逐章格式（本章导航 5 项 + `> **原句 N:**` 编号引语块四子项 + 三档词汇 + 一句话总结），37 批
 - **原文先行**：epub → text/ 109 件 1:1 零偏移（ch97/ch108 两个纯引语章被 600c 阈值滤掉→手工补提；27 条脚注并入宿主章）；**脚注错位修正 5 组**：epub 的 fn 文件编号比语义宿主章超前 7 章（69→62 电话、72→65 意/西语、73→66 Magia oscura、78→71 德语×2、86→79 Rollo），已全部搬回（text/ 不入 git）
@@ -67,8 +67,8 @@
 - 短引语台账（<20 flat，人工 grep 本章 text 全命中）：ch56「Buried.」/ ch83「We should wash.」/ ch91「Perhaps, one day,」/ ch102「Victor was crying.」
 - **执行期两处实质修正**：① `d62d2740` 家庭关系修正——全库取证（ch89 "her shy elder brother" 铁证）确认 **Magda/Gida 为 Elias 的妹妹而非妻女**，ch64"女儿→小妹"、ch84 证据链改写、ch65 删除无据细节"偷藏的面包"；② `2613f4aa` ch87 词条词形修正（muted→mute 原文原词形）
 - **⚠️ 并行实例事故与修复（请 Destination Funeral 负责人留意）**：本人 22:0x 前误将 HEAD 上 `7bae4021`（Destination Funeral 批19，ch57-59）当作自己刚提交的批次执行 `git commit --amend`，改写了他实例 commit 并裹挟其暂存文件。已用 `git reflog` 完整复原：Destination Funeral 批19 的**内容与 commit message 原样重建为 `ac248c0b`（哈希变更，7bae4021 已孤儿化）**；本人 ch87 修正另立 `2613f4aa`。教训：amend 前 `git log -1` 须核对哈希与消息，不能只看作者名（本机所有实例同用 jcxs2014 身份）
-- commits：**42 个**（`bdae907f` ch01 试产 → 批1–37 → `d62d2740`/`2613f4aa` 修正 → `a88d419f` 总览三篇）；**均未 push，待指令**
-- **状态：正文 109 章 + 总览三篇完工；五步审查未做（待用户发起）**
+- commits：**43 个**（`bdae907f` ch01 试产 → 批1–37 → `d62d2740`/`2613f4aa` 修正 → `a88d419f` 总览三篇 → `48e12125` 五步审查整改 27 处）；**均未 push，待指令**
+- **状态：正文 109 章 + 总览三篇完工；独立五步审查已于同日 22:26 UTC 完成（用户发起·同会话执行·通过·27 处整改，详见下方追加节）**
 
 - **独立五步审查（2026-09-18 22:26 UTC 同会话执行，就地追加本条）**
   - **a 三件套重跑**：verify_quotes **761/761（100%）** · check_vocab **1315 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes 逐文件 **109/109 全"X/X in chNN text"** · audit_book 全过（C 节本库通过）· 原始逐行输出附本条末尾
