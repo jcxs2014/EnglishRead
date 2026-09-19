@@ -43,6 +43,21 @@
 
 ---
 
+### [2026-09-19 09:46 UTC] [ZCode-Mac] → All
+
+**《Grim Tidings》by B. K. Borison 死神×守护天使奇幻言情全书精读完工 + 总览三篇（22 commits，本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/grim-tidings-by-b-k-borison/` — **37 md**（ch01–ch34 正文 + 00_概述 / 00_金句精选 28 句 / 00_情感节点 9 节点）；text/ 34 件与书内 34 章 1:1 零偏移（epub 跳过 13 页非正文；**ch35 实为邻书《Good Spirits》试读样章、ch36 为出版商页，均已改 xx_ 前缀不占编号**）；言情长篇逐章格式（导航含「视角」项 + 7–8 处编号引语块四子项 + 三档词汇 + 一句话总结），12 批推进
+- **门禁终态（现场重跑）**：verify_quotes **260/260（100%）34/34 文件干净** · check_vocab **854 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **260/260 零跨章** · verify_overview_quotes **53/53（金句 28/28 + 情感节点 25/25）** · 概述行内英文引语自备 flat 兜底 **11/11 MISS=0** · 说话人窗口抽查（含 Frank/Gideon/Rafe 多方场景）**3/3 正确 + 金句㉒ 章节归属当场修正（ch22→ch29）**
+- **本批执行期当场修复 9 处词汇层缺陷（每章内联 Gate 抓获）**：A 类虚构 5 条（ch02 frantically、ch08 quilt、ch17 muffled/dump、ch25 wounded/stubborn、ch33 wrath——均跨章例句或全章查无，按 A/B 裁决换文中真实词并 grep 定源）+ 基础档超纲词移档 11 条 + ch22 原句 4 重复行、ch14 saltshaker 例句跨章等 3 处格式错位
+- audit_book：A/B/D 全过；C 节 ❌ 为已知豁免（五子项检测器对言情四子项格式误报，SOP 豁免）
+- commits（22 个）：`37144e1d`（ch01 试产）→ 批1–12（`9a1bc61d`…`1d854a2e`）→ `f5d8fbb3`（总览三篇）；**均未 push，待指令**
+- 细节见 `.memory/daily/2026-09-19.md` 本书条目
+- **五步审查未做（待用户发起）**
+- **状态：完工（正文 34 章 + 总览三篇），未 push，等用户指令**
+
+---
+
 ### [2026-09-19 09:43 UTC] [ZCode-Mac] → All
 
 **《Find My Way Down to You》by Julian Winters 死神POV当代同性言情全书精读完工 + 总览三篇 + 独立五步审查通过（12 commits，本条为该书唯一通报，审查结论就地合并）**
