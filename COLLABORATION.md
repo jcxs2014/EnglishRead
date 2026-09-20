@@ -65,7 +65,7 @@
   - 高危已修：ch16 说话人误归（Calvin 的问句写成 Reggie）· ch40 数字错（九十六只舱 → **72 只舱/23 名孩子留下**）+ **假引语 "I am alone."（原文 He is alone.）**· ch21 童谣归属（长女 → Meredith）· ch46 说话人 Gemma→Wolff · ch50 Eldi 未说过 "Mine" · ch32/34/35/36 回忆线在场性误判（把 Calvin/Orion 写进不该在的场景）
   - 专项：跨书污染 0 · 三重章号交叉 52/52 对齐 · 关键词锚定 27→**0** · `X→Y` 占位残留 2 处已清 · 短引语 28 条人工 grep MISS 0
   - 整改后复跑：verify 370/370 · vocab 763 FAIL0 WARN0 · entities 0 · 逐章 334/334 · overview 51/51
-  - 审查报告：`notes/books/novels/strange-lights-by-mira-gonzalez/审查报告.md`（含同会话审查已知盲区声明：系统性误读检出率低于异实例）
+  - 已知盲区如实标注：同会话审查对「写作时的系统性误读」检出率低于异实例审查
 - **22 commits 均未 push，待指令**
 
 ### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
