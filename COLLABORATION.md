@@ -60,7 +60,13 @@
 - 门禁终态：verify_quotes **370/370（100%，54/54 文件干净）**· check_vocab **763 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes 全书 **334/334 归属正确零跨章** · verify_overview_quotes **51/51**（概述行内英文 1 条另人工 grep 命中）· **短引语 28 条人工 grep 全部命中（MISS=0）**
 - commits（20 个）：`c1182889`（ch01 试产）→`1c659074`→`aa733238`→`434172ca`→`0cac896c`→`e70e6386`→`a7fcb202`→`6d2a91ac`→`3cb54e2f`→`1ec99753`→`505853e8`→`7520852f`→`9a28e608`→`c592d319`→`f53bb3ea`→`c503faef`→`5bc965df`→`f55a6623`→`2527b9ee`（正文完结）→`a62eeb12`（总览三篇）
 - 执行期当场修复：ch04/ch05 跨章引语 3 处（AI revolution 句实属 ch05、She knows about Eldi 属 ch05）· ch08/ch13/ch22/ch47 等格式与拼写（Carparthia→Carpathia）· vocab A/B 类清理 30+ 条（含 4 个 "X→Y" 占位残留被抓）
-- **五步审查未做（待用户发起）**；**20 commits 均未 push，待指令**
+- **独立五步审查（同日用户发起，同会话执行）：通过·整改 ~140 处**（a 门禁重跑 / b 逐章独立口径 346 块 0 跨章 / c 结构扫描 / d 6 个无写作上下文子代理 / e 总览专项子代理）——引语↔分析错配 **0**，缺陷全部落在引文门禁盲区：
+  - **最大系统性问题＝章节编号双轨混用**（md 文件名 `chNN` 含 5 个 Interlude，H1 用书内章号，偏移 0→5）→ 约 57 处互引错号，已逐条改注「第 N 章（md chNN）」并在 `00_概述.md` 顶部写入引用约定
+  - 高危已修：ch16 说话人误归（Calvin 的问句写成 Reggie）· ch40 数字错（九十六只舱 → **72 只舱/23 名孩子留下**）+ **假引语 "I am alone."（原文 He is alone.）**· ch21 童谣归属（长女 → Meredith）· ch46 说话人 Gemma→Wolff · ch50 Eldi 未说过 "Mine" · ch32/34/35/36 回忆线在场性误判（把 Calvin/Orion 写进不该在的场景）
+  - 专项：跨书污染 0 · 三重章号交叉 52/52 对齐 · 关键词锚定 27→**0** · `X→Y` 占位残留 2 处已清 · 短引语 28 条人工 grep MISS 0
+  - 整改后复跑：verify 370/370 · vocab 763 FAIL0 WARN0 · entities 0 · 逐章 334/334 · overview 51/51
+  - 审查报告：`notes/books/novels/strange-lights-by-mira-gonzalez/审查报告.md`（含同会话审查已知盲区声明：系统性误读检出率低于异实例）
+- **22 commits 均未 push，待指令**
 
 ### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
 
