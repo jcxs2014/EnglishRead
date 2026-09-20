@@ -98,14 +98,6 @@ modified: "2026-09-20"
 | betrayal | 背叛 | "The betrayal is a wall." |
 | nihilism | 虚无主义 | "she snorts at her nihilism" |
 
-### ⭐⭐ 进阶
-
-| yards | 码；院子 | （不在本章） |
-|------|------|------|
-| flutter | 飘动；心悸 | （不在本章） |
-| crumble | 崩塌 | （不在本章） |
-| solidarity | 团结 | （不在本章） |
-
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
@@ -114,7 +106,7 @@ modified: "2026-09-20"
 | sunburned | 晒伤的 | "she's sunburned, her arms and the top of her head reddened" |
 | dye | 染发剂 | "Sylvie picks out a box of dye" |
 | clerk | 店员 | "the hungover-looking clerk" |
-| furious | 愤怒的 | "Hunter's brows knitting together as he types furiously" |
+| furious | 愤怒的 | "his brows knitting together as he types furiously" |
 
 ## 一句话总结
 

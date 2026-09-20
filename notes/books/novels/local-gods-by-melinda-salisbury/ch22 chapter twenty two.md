@@ -77,7 +77,9 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 8:** "No. No way." / "Esme García is the one stealing pets in town."
+> **原句 8:** "No," Sylvie says aloud. "No way."
+
+Esme García is the one stealing pets in town.
 
 中文理解："不。不可能。" / "Esme García才是镇上偷宠物的人。"
 关键词：No way、stealing pets
@@ -95,18 +97,14 @@ modified: "2026-09-20"
 | jerky | 肉干 | "Sylvie feeds a packet of jerky to the white deer" |
 | cascading failure | 级联故障；连锁失效 | "Cascading failure," she says, then leans into him. |
 | meld | 融合，混合 | "melded with the seat of his car" |
-| garnished | 装饰（此处指鹿角被光线装饰） | （本章节无例句，用"gilding"近似词） |
-| quell | 压制，镇压 | （不在本章） |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sour cast | 难闻的气息 | "a sour cast to the thick night air, something putrid and wrong" |
+| sour | 酸的；难闻的 | "a sour cast to the thick night air, something putrid and wrong" |
 | putrid | 腐烂的，恶臭的 | "something putrid and wrong, and it coated the back of her throat" |
-| dawn on | 突然意识到 | "a terrible realization dawns on her" |
-| veneer | 表面，外层 | （不在本章） |
-| feral | 野生的，野性的 | （不在本章） |
+| dawn | 破晓；开始明白 | "a terrible realization dawns on her" |
 
 ### ⭐ 基础
 
@@ -115,7 +113,7 @@ modified: "2026-09-20"
 | swing | 秋千 | "vanishing under the swings" |
 | barefoot | 光脚的 | "Hunter appears barefoot in the doorway" |
 | granite | 花岗岩 | "white granite countertops always gleaming" |
-| bedroom | 卧室 | "Hunter's bedroom is at the front of the house" |
+| bedroom | 卧室 | "Hunter's bedroom is at the front of the house. Sylvie doesn't have an extensive knowledge of boy rooms." |
 | pocket | 放入口袋 | "Sylvie pockets the clip and leaves." |
 
 ## 一句话总结

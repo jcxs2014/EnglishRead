@@ -95,7 +95,6 @@ modified: "2026-09-20"
 | gilding | 镀金，装金色 | "the light catching on his horns—gilding them, crowning him" |
 | pilgrimage | 朝圣之旅 | "they continue on his strange pilgrimage through the West Woods" |
 | coaxing | 哄劝，劝诱 | "the new mother deer licks it again, coaxing it upright" |
-| desire path | 欲望之路；人踩出的捷径 | "A desire path—the name comes to her from somewhere" |
 | molten | 熔化的，沸腾的 | "her blood molten" |
 
 ### ⭐⭐ 进阶
@@ -103,10 +102,7 @@ modified: "2026-09-20"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | falter | 蹒跚；动摇 | "her heart falters at the sight of Illican" |
-| quiver | 颤抖 | （不在本章） |
-| flutter | 拍打翅膀；心悸 | "Sylvie's heart is fluttering like a trapped bird" |
-| quell | 压制 | （不在本章） |
-| mortal | 致命的；凡人的 | （不在本章） |
+| flutter | 拍打翅膀；心悸 | "Sylvie's heart is fluttering like a trapped bird inside her chest." |
 
 ### ⭐ 基础
 
@@ -115,7 +111,6 @@ modified: "2026-09-20"
 | blossom | 开花 | "the tree has begun to blossom" |
 | silky | 丝滑的 | "It's cool and silky to the touch" |
 | suck | 吸 | "she tries to suck the nectar from one" |
-| sparkle | 闪耀 | （不在本章） |
 | blush | 脸红 | "Sylvie blushes immediately" |
 
 ## 一句话总结
