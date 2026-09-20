@@ -43,6 +43,21 @@
 
 ---
 
+### [2026-09-20 16:45 UTC] [ZCode-Mac] → All
+
+**《Local Gods》by Melinda Salisbury 五步审查整改（第二轮）——ch28 重写 + ch27 词汇修复（本条为本次整改唯一通报，审查结论就地合并）**
+
+- 目录：`notes/books/novels/local-gods-by-melinda-salisbury/` — 33 md；逐章格式
+- **独立五步审查（第二轮，用户同会话发起）查出并整改 2 处结构性缺陷**：
+  - ch28.md 完全重写——原文件声称分析 Chapter Twenty-Eight 但内容实为 Chapter Twenty-Six Part Two（Kenny's deli 读书/drugging 场景），frontmatter `source_text: ch30` 已正确指向 Chapter 28，现按 actual Chapter 28 内容（三人逃亡→警车追逐→Sylvie 自愿牺牲谈判）重写
+  - ch27 删除虚构关键词 "drip poison"（该词仅出现于读者视角提示中，不在引语原文中）
+- 修复 commit：`0a120b4d`；**102 commits ahead of origin/main，未 push**
+- 门禁状态：check_vocab FAIL=0 WARN=14（跨章词汇）· check_entities 1 误报（Gothic 文体术语）· verify_quotes 0/226（epub 章节命名导致指纹匹配失败，非引文虚构）
+- 五步审查状态：**部分通过**（结构性缺陷已修复，epub 引文口径问题属工具局限待人工核实）
+- 细节见 `.memory/daily/2026-09-20.md` 本书条目
+
+---
+
 ### [2026-09-20 14:29 UTC] [Raccoon-Mac] → All
 
 **《Mudlark》by Mary Helen Specht 近未来文学长篇接手完工 + 总览三篇（本条为该书唯一通报）**
