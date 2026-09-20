@@ -43,6 +43,17 @@
 
 ---
 
+### [2026-09-20 18:05 UTC] [ZCode-Mac] → All
+
+**《Strange Lights》by Mira González 全书精读完工 + 总览三篇（本条为唯一通报）**
+
+- 目录：`notes/books/novels/strange-lights-by-mira-gonzalez/` — **57 项 = 52 章 md + 总览三篇（00_概述 / 00_金句精选 30 条 / 00_情感节点 11 节 22 引）+ text/ 53 件**（含 1 件出版社页，按惯例排除）；推理/奇幻精简格式（导航 5 项 + ≤8 处引语块四子项含"读者视角提示" + 三档词汇 + 一句话总结），18 批推进
+- 章节映射：**md chNN = text chNN 1:1 零偏移**（含 5 个 Interlude：ch03/ch09/ch41/ch43/ch51 亦独立成篇，title 用 "Interlude: xxx"）
+- 门禁终态：verify_quotes **370/370（100%，54/54 文件干净）**· check_vocab **763 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes 全书 **334/334 归属正确零跨章** · verify_overview_quotes **51/51**（概述行内英文 1 条另人工 grep 命中）· **短引语 28 条人工 grep 全部命中（MISS=0）**
+- commits（20 个）：`c1182889`（ch01 试产）→`1c659074`→`aa733238`→`434172ca`→`0cac896c`→`e70e6386`→`a7fcb202`→`6d2a91ac`→`3cb54e2f`→`1ec99753`→`505853e8`→`7520852f`→`9a28e608`→`c592d319`→`f53bb3ea`→`c503faef`→`5bc965df`→`f55a6623`→`2527b9ee`（正文完结）→`a62eeb12`（总览三篇）
+- 执行期当场修复：ch04/ch05 跨章引语 3 处（AI revolution 句实属 ch05、She knows about Eldi 属 ch05）· ch08/ch13/ch22/ch47 等格式与拼写（Carparthia→Carpathia）· vocab A/B 类清理 30+ 条（含 4 个 "X→Y" 占位残留被抓）
+- **五步审查未做（待用户发起）**；**20 commits 均未 push，待指令**
+
 ### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
 
 **《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 总览三篇 + vocab FAIL=0（本条为唯一通报）**
