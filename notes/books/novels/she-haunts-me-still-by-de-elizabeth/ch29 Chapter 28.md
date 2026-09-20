@@ -100,7 +100,7 @@ source_text: ch29
 |------|------|------|
 | chalk | 粉笔 | "a fat white circle sketched in chalk" |
 | ash | 灰烬 | "Ash is scattered everywhere" |
-| drain | 排水管 | "Something round and metal, a drain" |
+| drain | 排水管 | "Something round and metal, approximately a foot long, peppered with black divots and holes" |
 
 ### ⭐ 基础
 

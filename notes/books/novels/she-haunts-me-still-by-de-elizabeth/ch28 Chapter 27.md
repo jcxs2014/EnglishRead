@@ -90,7 +90,7 @@ source_text: ch28
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| resignation | 顺从 | "anxiety is replaced with resignation" |
+| resignation | 顺从 | "whatever anxiety Mallory felt surrounding Arden's avoidance is replaced with resignation" |
 | abscess | 脓肿 | "It's turned into an abscess, one that needs to be drained dry" |
 
 ### ⭐⭐ 进阶

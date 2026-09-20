@@ -78,7 +78,7 @@ source_text: ch33
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| possession | 附身 | "Saskia's eyes are milk white" |
+| possession | 附身 | "her eyes are milk white" |
 
 ### ⭐⭐ 进阶
 

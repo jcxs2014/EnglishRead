@@ -107,7 +107,6 @@ source_text: ch16
 |------|------|------|
 | basement | 地下室 | "There must be a secret basement somewhere" |
 | chapel | 小教堂 | "Is this the chapel?" |
-| architect | 建筑师 | "Mallory analyzes the skinny shape between the chapel and the sanitarium" |
 
 ---
 

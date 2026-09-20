@@ -82,7 +82,7 @@ source_text: ch37
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| flame | 火焰 | "dissolve in flames" |
+| flame | 火焰 | "they watched the white wooden building dissolve in flames against the starless sky" |
 | scarves | 围巾 | "the scarves that have been fastened upon Saskia's wrists and ankles" |
 
 ---

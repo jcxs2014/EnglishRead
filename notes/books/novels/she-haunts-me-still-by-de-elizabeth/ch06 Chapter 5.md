@@ -105,7 +105,7 @@ source_text: ch06
 |------|------|------|
 | candle | 蜡烛 | "Three black candles, a silver lighter" |
 | chalk circle | 粉笔圈 | "Draws a large chalk circle in the floor" |
-| whisper | 低语 | "His rough whisper is right at her ear" |
+| whisper | 低语 | "His whisper brushes her ear" |
 
 ---
 

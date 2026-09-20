@@ -78,15 +78,11 @@ source_text: ch21
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| twisted | 扭曲的 | "Victor's twisted chivalry" |
-| predatory | 捕食性的 | "Victor's predatory behavior" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| provocation | 挑衅 | "Jacob — our gala invitation" |
-| manipulate | 操纵 | "Victor manipulates both Mallory and Ezra" |
 
 ### ⭐ 基础
 

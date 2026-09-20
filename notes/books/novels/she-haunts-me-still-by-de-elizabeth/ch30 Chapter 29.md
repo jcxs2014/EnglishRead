@@ -95,7 +95,7 @@ source_text: ch30
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| kiss | 亲吻 | "I would kiss you until there was nothing left" |
+| kiss | 亲吻 | "I'd kiss you until there was nothing left" |
 | maze | 迷宫 | "the hedge maze" |
 | truth | 真相 | "The truth. For once." |
 

@@ -106,7 +106,7 @@ source_text: ch04
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| terrified | 极度恐惧的 | "She was fucking terrified" |
+| terrified | 极度恐惧的 | "looking like you're terrified" |
 | costume dungeon | 服装地下室（戏称） | "costume dungeon" |
 | stuck | 卡住的 | "The zipper, it got stuck" |
 

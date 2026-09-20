@@ -93,7 +93,7 @@ source_text: ch07
 | corpse | 尸体 | "A woman's lifeless body, being pulled from the dirt" |
 | grave marker | 墓碑 | "A crooked gravestone with an engraved emblem" |
 | exhume | 挖出（尸体） | "Someone stole her body from her grave" |
-| vigilante justice | 复仇式正义 | "Lily A. Hubbard — died at the hands of someone who stole her body" |
+| vigilante justice | 复仇式正义 | "Someone stole her body from her grave" |
 
 ### ⭐⭐ 进阶
 

@@ -97,8 +97,7 @@ source_text: ch15
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| grieving | 悲伤的 | "a grieving stranger" |
-| grieving | 悲伤的 | "Mallory to a grieving stranger" |
+| grieving | 悲伤的 | "to secure Mallory to this grieving stranger" |
 
 ### ⭐ 基础
 

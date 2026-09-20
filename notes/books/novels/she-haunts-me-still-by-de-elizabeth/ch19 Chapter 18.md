@@ -74,7 +74,6 @@ source_text: ch19
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | directory | 公司名录 | "Mallory scans the directory" |
-| registration | 登记，注册 | "We wanted to see if you have any internship opportunities?" |
 | engrave | 雕刻 | "an engraved cursive P" |
 
 ### ⭐ 基础

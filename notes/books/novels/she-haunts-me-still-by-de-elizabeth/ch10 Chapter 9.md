@@ -99,7 +99,7 @@ source_text: ch10
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | oblivious | 未察觉的，未注意的 | "Saskia avoids her gaze. Perhaps because Mallory is the one person who knows she's full of shit" |
-| taunting | 嘲弄的，挑衅的 | "Saskia's voice low and taunting" |
+| taunting | 嘲弄的，挑衅的 | "voice low and taunting" |
 | stony | 冷酷的，坚硬的 | "a stony challenge simmering in her amber-colored eyes" |
 | freckles | 雀斑 | "the spill of freckles across her nose" |
 | amber | 琥珀色的 | "amber-colored eyes" |
@@ -109,7 +109,7 @@ source_text: ch10
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | understudy | 候补演员，替角 | "You're my understudy" |
-| maze | 迷宫 | "She chases the girl through the hedge maze" |
+| maze | 迷宫 | "Hidden in the gardens, under the hedge maze" |
 | expression | 表情，表达式 | "Her expression hardens when she notices Mallory" |
 
 ---

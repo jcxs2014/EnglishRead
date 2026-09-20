@@ -110,7 +110,7 @@ source_text: ch09
 |------|------|------|
 | locket | （项链）护身符盒 | "My locket!" |
 | rehearsal | 排练 | "At rehearsal, Ezra is noticeably absent" |
-| corridor | 走廊 | "falling into step down the corridor" |
+| corridor | 走廊 | "as they fall into step down the corridor" |
 
 ---
 

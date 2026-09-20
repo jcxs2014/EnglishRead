@@ -92,7 +92,7 @@ source_text: ch25
 |------|------|------|
 | demonic | 恶魔的 | "Signs of demonic infestation include cold patches" |
 | conjure | 召唤 | "a demonic entity is successfully conjured" |
-| host | 宿主 | "it can linger for years, but needs a human host to thrive" |
+| host | 宿主 | "ultimately needs a human host to thrive" |
 
 ### ⭐⭐ 进阶
 

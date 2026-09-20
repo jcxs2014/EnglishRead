@@ -92,7 +92,6 @@ source_text: ch20
 |------|------|------|
 | mahogany | 红木，桃花心木 | "Mallory flies across the room to Victor's mahogany desk" |
 | obituary | 讣告 | "she's staring at a stack of obituaries" |
-| tenure | 任期，占有 | "a younger Ezra with Victor" |
 
 ### ⭐⭐ 进阶
 

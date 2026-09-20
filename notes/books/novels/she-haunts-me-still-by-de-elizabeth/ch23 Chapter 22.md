@@ -93,7 +93,7 @@ source_text: ch23
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | hospital | 医院 | "Providence Memorial Hospital is different, somehow" |
-| fever | 发烧 | "finding it laced with sweat" |
+| fever | 发烧 | "she brings both hands to her cheeks and finds them cool, as though her fever broke overnight" |
 | waiting room | 等候室 | "Mallory sits in the waiting room" |
 
 ---
