@@ -72,18 +72,6 @@ source_text: ch09
 
 ---
 
-> **原句 5:** "You look like someone I know, is all. But it was a mistake."
-
-**中文理解**："你长得很像我认识的一个人。就这样。但这是个错误。"
-
-**关键词**：someone I know / a mistake / look like Lily
-
-**为什么这样写**：这是 Saskia 第一次正面承认她看 Mallory 的方式——不是看她，而是透过她看某个"别人"。Saskia 脸色发白（pales）说明这个联想是真实的，不是挑衅。"Mistake"这个词多重含义：①叫错名字是错误 ②认出这个人是个错误 ③与这个人的任何关系都是错误。Mallory 的反应（"Wait" / soft voice）显示她直觉到这背后有更多故事。
-
-**读者视角提示**：Saskia 认识 Lily Hubbard？还是认识另一个像 Mallory 的人？这是全书最关键的身份谜团之一。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

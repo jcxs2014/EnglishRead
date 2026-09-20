@@ -72,18 +72,6 @@ source_text: ch31
 
 ---
 
-> **原句 5:** "Because after final bows, Mallory is going to the chapel. She doesn't have a choice. Not when she knows the only other path leads to Saskia dying in her place."
-
-**中文理解**："因为在最后的鞠躬之后，Mallory 要去小教堂。她没有选择。当她知道唯一的另一条路是让 Saskia 代替她死去。"
-
-**关键词**：final bows / going to the chapel / no choice / Saskia dying in her place
-
-**为什么这样写**：这是 Mallory 的决定——她要去小教堂面对她的命运，因为她知道如果她不去，Saskia 就会成为牺牲品。"No choice"将这个决定定义为"必然"而非"选择"：她的爱（不愿让 Saskia 死）迫使她走向死亡。这个决定也与 Romeo and Juliet 的主题呼应：她愿意为了爱人牺牲自己。
-
-**读者视角提示**：Mallory 正在做与 Romeo 和 Juliet 相同的选择——为了爱而选择死亡。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

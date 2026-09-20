@@ -72,18 +72,6 @@ source_text: ch35
 
 ---
 
-> **原句 5:** "But if she can stop Saskia from dying, she'll leave something of value behind in this world."
-
-**中文理解**："但如果她能阻止 Saskia 死去，她就能在这个世界上留下一些有价值的东西。"
-
-**关键词**：stop Saskia from dying / something of value / her sacrifice
-
-**为什么这样写**：这是 Mallory 对她赴死的理由的定义——她的死亡不是"放弃"，而是"给予"。如果她的死亡能够拯救 Saskia，那么它就是"有价值的"。"Something of value"将她的生命定义为可以被"给予"的东西——这是一个深刻的牺牲概念。
-
-**读者视角提示**：这个想法将 Mallory 的死亡重新定义为"英雄行为"而非"失败"。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

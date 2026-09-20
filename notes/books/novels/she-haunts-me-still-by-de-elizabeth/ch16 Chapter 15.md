@@ -72,18 +72,6 @@ source_text: ch16
 
 ---
 
-> **原句 5:** "Mallory, maybe you shouldn't sleep in this dorm anymore."
-
-**中文理解**：Mallory，也许你不应该再住在这个宿舍了。
-
-**关键词**：shouldn't sleep in this dorm / warning / Ezra's dorm / safety
-
-**为什么这样写**：这是 Saskia 对 Mallory 的直接关心——她注意到 Mallory 的状态在恶化（与 Ezra 过夜后的身体迹象），并暗示 Ezra 的宿舍可能不安全。这个建议也暗示了 Saskia 对 Ezra 的持续不信任——她仍然认为他不是"可以信任的人"。
-
-**读者视角提示**：Saskia 的警告与 Mallory 和 Ezra 之间的身体关系形成张力——Mallory 正在被 Ezra 吸引，但她的朋友认为这很危险。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
