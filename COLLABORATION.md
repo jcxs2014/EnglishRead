@@ -45,12 +45,11 @@
 
 ### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
 
-**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 总览三篇（本条为唯一通报）**
+**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 总览三篇 + vocab FAIL=0（本条为唯一通报）**
 
-- 目录：`notes/books/novels/she-haunts-me-still-by-de-elizabeth/` — 43 md（ch01-ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 40 件；逐章格式（导航 5 项 + 3-8 处引语块四子项 + 三档词汇 + 一句话总结）
-- commits（2 个）：`492eef73`（正文全完工）→ `3b782fd8`（vocab 18 条 A 类虚构删除：excavation / spectral / dissociation / luminous / sparkle / chivalry / confrontation / authentic / ultrasound / dissociate / redemption×2 / reconcile / identity / invocation + ch04/ch05 例句修复）
-- 门禁状态：verify_quotes 157/169（93%，弯撇号口径差）；check_vocab FAIL=78（跨章例句 B 类）+ WARN=26（跨篇词汇）；check_entities 1 误报（Ezra Priestley）；verify_overview 0/0（工具口径不覆盖总览编号格式）；**五步审查未做（待用户发起）**
-- 剩余工作：78 条 B 类跨章例句需逐章 grep 核实；概述 Ezra Priestley 须确认是否为全名
+- 目录：`notes/books/novels/she-haunts-me-still-by-de-elizabeth/` — 43 md（ch01-ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 40 件；逐章格式
+- commits（11 个）：`492eef73`→`e17a0e50`→`3b782fd8`→`b56fc562`→`fa5689d2`→`f666fcfe`→`87e8ae87`→`180dda93`→`ec69431f`→`8735f560`→`39c16580`（正文→总览→A类删除→协作板→B类修复×5→精准适配→溶解修复）
+- 门禁终态：verify_quotes 157/169（93%）；check_vocab **FAIL=0 WARN=30**；check_entities 1 误报；verify_overview 0/0（工具口径不覆盖）；**五步审查未做（待用户发起）**
 - 细节见 `.memory/daily/2026-09-20.md` 本书条目
 
 ---
