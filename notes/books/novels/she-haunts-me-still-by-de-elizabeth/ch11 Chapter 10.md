@@ -60,7 +60,7 @@ source_text: ch11
 
 ---
 
-> **原句 5:** "She whirls to the wall behind her and presses her palm against it, almost expecting to find it cracked. But the surface is smooth, save for the scratches she noticed earlier."
+> **原句 4:** "She whirls to the wall behind her and presses her palm against it, almost expecting to find it cracked. But the surface is smooth, save for the scratches she noticed earlier."
 
 **中文理解**：她转身面向身后的墙，把手掌压上去，几乎期待发现它裂开了。但表面很平滑，只有她之前注意到的那些划痕。
 
