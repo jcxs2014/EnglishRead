@@ -60,15 +60,15 @@ source_text: ch16
 
 ---
 
-> **原句 4:** "Is this the chapel?" Mallory mutters, pointing. "It has to be."
+> **原句 4:** "Is this the chapel?" Mallory mutters, pointing.
 
-**中文理解**："这是小教堂吗？" Mallory 低声说，指着。"一定是。"
+**中文理解**："这是小教堂吗？" Mallory 低声说，指着。
 
-**关键词**：chapel / has to be / narrow and snakelike / sketched beside
+**关键词**：chapel / pointing / recognition
 
-**为什么这样写**：这是 Mallory 在蓝图纸上识别小教堂位置的过程。"Has to be"这个短语显示她的确定性——她不是猜测，而是通过逻辑推断出这个结论。这与她的幻视经历相呼应：她已经"看见"过这个空间，现在她在现实中确认它的存在。
+**为什么这样写**：这是 Mallory 在蓝图纸上识别小教堂位置的时刻——她通过幻视经历和蓝图纸的双重知识确认了这个空间的存在。她不是猜测，而是通过逻辑推断和超自然感知得出结论。
 
-**读者视角提示**：Mallory 的双重知识（幻视+蓝图纸）使她比任何人都更了解这个地方的秘密。这种"看见"的能力既是礼物也是诅咒。
+**读者视角提示**：Mallory 的"看见"能力既是礼物也是诅咒——她比任何人都更了解 Shore 的秘密。
 
 ---
 
