@@ -108,7 +108,7 @@ source_text: ch14
 |------|------|------|
 | texting | 发短信 | "This is not a conversation for texting" |
 | retreat | 静修，退缩 | "after my retreat" |
-| grandma | 外祖母，祖母 | "How did she die?" |
+| grandmother | 外祖母，祖母 | "how her grandmother died" |
 
 ---
 

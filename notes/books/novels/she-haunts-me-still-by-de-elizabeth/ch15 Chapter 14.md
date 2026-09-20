@@ -92,7 +92,6 @@ source_text: ch15
 |------|------|------|
 | preposterous | 荒谬的 | "This is preposterous" |
 | ornate | 华丽的，装饰的 | "an ornate sitting room, furnished with emerald velour couches" |
-| silhouette | 轮廓，剪影 | "silhouettes turning into angels beneath a sable sky" |
 
 ### ⭐⭐ 进阶
 
@@ -100,7 +99,6 @@ source_text: ch15
 |------|------|------|
 | grieving | 悲伤的 | "a grieving stranger" |
 | grieving | 悲伤的 | "Mallory to a grieving stranger" |
-| discreetly | 谨慎地，秘密地 | "transport dead bodies discreetly for funerals" |
 
 ### ⭐ 基础
 

@@ -98,10 +98,6 @@ source_text: ch06
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| threshold | 门槛，阈值 | "Liminal threshold between worlds" |
-| grounding | 接地术，情绪锚定 | "Tell me something real — it becomes a grounding technique" |
-| blood ritual | 血祭仪式 | "How do you feel about blood?" |
-| tether | 束缚，连接 | "Palms locked together like a tether" |
 
 ### ⭐ 基础
 

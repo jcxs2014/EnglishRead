@@ -79,8 +79,8 @@ source_text: ch08
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | consumption | 肺结核（旧称） | "died of consumption at Shoreview Sanitarium" |
-| vampire hysteria | 吸血鬼恐慌 | "Vampire Hysteria grips New England" |
-| grave robbing | 盗墓 | "Bodies removed from their graves overnight" |
+| vampire hysteria | 吸血鬼恐慌 | "VAMPIRE HYSTERIA GRIPS NEW ENGLAND TOWN" |
+| grave robbing | 盗墓 | "BODIES REMOVED FROM THEIR GRAVES OVERNIGHT" |
 
 ### ⭐⭐ 进阶
 
@@ -88,15 +88,14 @@ source_text: ch08
 |------|------|------|
 | obituary | 讣告 | "Mrs. Lily Ann Hubbard (née Clark)" |
 | cemetery | 墓地 | "Lily A. Hubbard's grave" |
-| exhumation | 尸骸掘出 | "They exhumed bodies and burned their hearts" |
+| exhumation | 尸骸掘出 | "exhumed graves, burning hearts, all throughout the Northeast" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| research | 研究，调查 | "Sitting in the library, conducting research" |
-| hedge maze | 树篱迷宫 | "She chases the girl through the hedge maze" |
-| grave marker | 墓碑标记 | "A foot wide stone, square shaped" |
+| research | 研究，调查 | "The small research nook is filled with a dusty glow from a banker's lamp" |
+| hedge maze | 树篱迷宫 | "nervously eyeing the thick hedge maze featured in every glossy photo of Shore's brochure" |
 
 ---
 

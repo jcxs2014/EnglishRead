@@ -68,14 +68,13 @@ source_text: ch19
 |------|------|------|
 | penthouse | 顶层豪华公寓 | "Of course. The penthouse" |
 | sterile | 无菌的，消过毒的 | "Her voice echoes in the sterile air" |
-| surveillance | 监视，监控 | "Pierce Development Group headquarters" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | directory | 公司名录 | "Mallory scans the directory" |
-| registration | 登记，注册 | "internship registration" |
+| registration | 登记，注册 | "We wanted to see if you have any internship opportunities?" |
 | engrave | 雕刻 | "an engraved cursive P" |
 
 ### ⭐ 基础
@@ -83,7 +82,7 @@ source_text: ch19
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | lobby | 大厅 | "The building's lobby is drenched in cool marble" |
-| elevator | 电梯 | "darting toward the elevator bank" |
+| elevator | 电梯 | "As they dart toward the elevator bank" |
 | clipboard | 写字板 | "He produces two clipboards" |
 
 ---

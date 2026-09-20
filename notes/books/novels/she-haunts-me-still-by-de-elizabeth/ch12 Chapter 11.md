@@ -79,16 +79,12 @@ source_text: ch12
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | siphoning | 吸走，抽走 | "A sharp cough rips through her, siphoning her words" |
-| blistering | 猛烈的 | "her voice howled, blistering with unshed tears" |
-| barricade | 设路障 | "the door clicks open and Ezra appears" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | rehearsal | 排练 | "Rehearsal has barely begun, and it's already off to a rocky start" |
-| confessing | 坦白 | "confessing to Ezra in the bathroom" |
-| turret | 塔楼 | "Shore's architecture includes turrets from its sanitarium days" |
 
 ### ⭐ 基础
 

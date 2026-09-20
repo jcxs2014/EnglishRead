@@ -110,7 +110,7 @@ source_text: ch10
 |------|------|------|
 | understudy | 候补演员，替角 | "You're my understudy" |
 | maze | 迷宫 | "She chases the girl through the hedge maze" |
-| expression | 表情，表达式 | "expression of concentration" |
+| expression | 表情，表达式 | "Her expression hardens when she notices Mallory" |
 
 ---
 

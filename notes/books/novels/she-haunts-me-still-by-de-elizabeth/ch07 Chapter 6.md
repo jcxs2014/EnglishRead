@@ -99,17 +99,16 @@ source_text: ch07
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| ash | 骨灰 | "Jasmine Webb, now in flames" |
-| anchor | 锚，稳固 | "Tell me something real — becomes an anchoring technique" |
-| wound | 伤口 | "Every muscle in her face strains" |
+| ash | 骨灰 | "Sometimes," Mallory admits into the flames, "I worry she passed that guardedness on to me" |
+| wound | 伤口 | "Every muscle in her face strains to look away" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | candle | 蜡烛 | "The candle crackles between them" |
-| funeral | 葬礼 | "At her mother's funeral" |
-| cemetery | 墓地 | "Lily A. Hubbard's grave" |
+| funeral | 葬礼 | "Like…at her funeral?" |
+| cemetery | 墓地 | "And a name in the center, demanding to be seen: Lily A. Hubbard." |
 
 ---
 

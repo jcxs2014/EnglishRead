@@ -91,7 +91,6 @@ source_text: ch13
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | remission | 缓解期 | "I first saw her when I went into remission" |
-| isolation | 孤立，隔离 | "I think Lily wore my mother down. Isolated her." |
 | claustrophobic | 幽闭恐惧的 | "I've been fighting this claustrophobic feeling lately, like I'm running out of time" |
 
 ### ⭐⭐ 进阶
@@ -99,14 +98,13 @@ source_text: ch13
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | curse | 诅咒 | "More like a curse" |
-| confession | 坦白，供认 | "Saskia confesses her supernatural perception" |
 | rosary | 念珠 | "She fidgets with the rosary beads" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| mirror | 镜子 | "taking down all the mirrors" |
+| mirror | 镜子 | "The corpse of a woman named Lily in mirrors and windows" |
 | archive | 档案室 | "the library's archival room" |
 | genetic | 遗传的 | "Like a genetic thing?" |
 

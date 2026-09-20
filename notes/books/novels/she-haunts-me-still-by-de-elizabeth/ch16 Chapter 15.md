@@ -99,7 +99,6 @@ source_text: ch16
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | morgue | 停尸房 | "the word morgue looming like a threat" |
-| cemetery | 墓地 | "Lily's obituary mentioned a daughter, Rose" |
 | corpse | 尸体 | "Lily's corpse would have been kept right here" |
 
 ### ⭐ 基础
@@ -108,7 +107,7 @@ source_text: ch16
 |------|------|------|
 | basement | 地下室 | "There must be a secret basement somewhere" |
 | chapel | 小教堂 | "Is this the chapel?" |
-| architect | 建筑师 | "analyzing the skinny shape" |
+| architect | 建筑师 | "Mallory analyzes the skinny shape between the chapel and the sanitarium" |
 
 ---
 

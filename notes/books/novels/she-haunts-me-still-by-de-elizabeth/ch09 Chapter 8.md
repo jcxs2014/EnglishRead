@@ -100,8 +100,8 @@ source_text: ch09
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| oblivious | 未察觉的，未注意的 | "Mallory isn't oblivious to the way Saskia avoids her gaze" |
-| understudy | 候补演员，替角 | "You're my understudy" |
+| oblivious | 未察觉的，未注意的 | "I'm not oblivious, and neither is anyone in this cast" |
+| understudy | 候补演员，替角 | "It's only natural to bring in an understudy if an actor is struggling" |
 | noticeably | 明显地，显著地 | "At rehearsal, Ezra is noticeably absent" |
 
 ### ⭐ 基础
