@@ -161,6 +161,19 @@
 - commits：`af4a688`（精读主体）+ `5910929b`（长难句补全）+ `551b1a8a`（前一批 rebase）
 - 推送：`551b1a8a..5910929b` → `main` ✅
 
+---
+
+### [2026-09-20 08:00 UTC] [Opencode-Mac] → All
+
+**《Spellcast》by Sophie Jordan 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/spellcast-by-sophie-jordan/` — **43 md**（Prologue + Ch1–38 + Epilogue + 总览三篇），言情长篇逐章格式（本章导航5项 + 引语块四子项 + 三档词汇 + 一句话总结），14 批
+- 原文先验：epub 44 件 → 清理 2 件非正文（Map / Note to Readers 误占编号）+ 补提 2 短章（Ch9 Sixteen / Ch11 Summer Solstice，min-len 滤掉）→ 重编号 **ch01–ch40 = Prologue + Ch1–38 + Epilogue（1:1 零偏移）**
+- 门禁（最终态）：verify_quotes **200/200**（40/40 文件干净；13 条短引语人工 grep 全部命中本章 text）· check_vocab **217 词条 FAIL0**（WARN 均为基础档超纲词误报）· check_entities **0** · check_chapter_quotes **全绿零跨章**（途中抓出 1 处 ch21→ch20 跨章错植已修）· verify_overview_quotes **29/29**（金句精选；概述/情感节点无编号引语，行内英文已逐条人工 grep，修混写 3 处）· audit_book.py **✅ 全部通过**
+- 途中修复：引语虚构 2 处（ch01/ch21）· 例句措辞 6 处 · A类虚构词条 2 处（proficiency→proficient、palatable→reassuring）· 总览行内英文混写 3 处，均修后复跑全绿
+- commit：**`5688d645`**（全书一次入库）· **`7af49336`**（审查整改）· `81bb8d05`/`d5f14812`（通报）；**均未 push，待指令**
+- **独立五步审查**（用户同一会话内发起，a–e 完整执行）：a 219/219·FAIL0·entities 0；b 203/203 零跨章；c 抓出 ch01-21 缺读者视角提示 → 补 96 行纯插入；d 4 子代理 219 块逐对核对：0 虚构/0 错位/0 说话人反转，轻微瑕疵 15 项全修（引语补全 4 · 关键词回查 22 · 计数 1；ch01-10 组"1 引语漏词"未定位，三检无异常暂记存疑）；e 金句 29/29 + 说话人窗口 9 处全对；整改后复跑全绿（同会话局限：系统性误判盲区供参考，详见日志）
+
 ### [2026-09-19 13:17 UTC] [Hermes-Mac] → All
 
 **《Eyes of Kings》by Chloe Gong 奇幻长篇全书精读完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
@@ -845,16 +858,3 @@
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
-
----
-
-### [2026-09-20 08:00 UTC] [Opencode-Mac] → All
-
-**《Spellcast》by Sophie Jordan 全书精读完工 + 总览三篇**
-
-- 目录：`notes/books/novels/spellcast-by-sophie-jordan/` — **43 md**（Prologue + Ch1–38 + Epilogue + 总览三篇），言情长篇逐章格式（本章导航5项 + 引语块四子项 + 三档词汇 + 一句话总结），14 批
-- 原文先验：epub 44 件 → 清理 2 件非正文（Map / Note to Readers 误占编号）+ 补提 2 短章（Ch9 Sixteen / Ch11 Summer Solstice，min-len 滤掉）→ 重编号 **ch01–ch40 = Prologue + Ch1–38 + Epilogue（1:1 零偏移）**
-- 门禁（最终态）：verify_quotes **200/200**（40/40 文件干净；13 条短引语人工 grep 全部命中本章 text）· check_vocab **217 词条 FAIL0**（WARN 均为基础档超纲词误报）· check_entities **0** · check_chapter_quotes **全绿零跨章**（途中抓出 1 处 ch21→ch20 跨章错植已修）· verify_overview_quotes **29/29**（金句精选；概述/情感节点无编号引语，行内英文已逐条人工 grep，修混写 3 处）· audit_book.py **✅ 全部通过**
-- 途中修复：引语虚构 2 处（ch01/ch21）· 例句措辞 6 处 · A类虚构词条 2 处（proficiency→proficient、palatable→reassuring）· 总览行内英文混写 3 处，均修后复跑全绿
-- commit：**`5688d645`**（全书一次入库）· **`7af49336`**（审查整改）· `81bb8d05`/`d5f14812`（通报）；**均未 push，待指令**
-- **独立五步审查**（用户同一会话内发起，a–e 完整执行）：a 219/219·FAIL0·entities 0；b 203/203 零跨章；c 抓出 ch01-21 缺读者视角提示 → 补 96 行纯插入；d 4 子代理 219 块逐对核对：0 虚构/0 错位/0 说话人反转，轻微瑕疵 15 项全修（引语补全 4 · 关键词回查 22 · 计数 1；ch01-10 组"1 引语漏词"未定位，三检无异常暂记存疑）；e 金句 29/29 + 说话人窗口 9 处全对；整改后复跑全绿（同会话局限：系统性误判盲区供参考，详见日志）
