@@ -43,20 +43,7 @@
 
 ---
 
-### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
-
-**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 五步审查通过（本条为唯一通报，审查结论就地合并）**
-
-- 目录：`notes/books/novels/she-haunts-me-still-by-de-elizabeth/` — 43 md（ch01-ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 40 件；逐章格式
-- commits（16 个）：正文→总览→A类删除→协作板→B类修复×5→精准适配→溶解修复→**五步审查修复×5**（跨章×4+编号+说话人+概述人名）
-- 门禁终态：verify_quotes 157/169（93%）；check_vocab **FAIL=0 WARN=30**；check_entities 0 真问题；verify_overview 0/0（工具口径不覆盖）
-- **五步审查（同会话，用户发起）**：a 三件套重跑全绿 · b 4处跨章错植已修复 · c ch11编号跳序已修复 · d ch16说话人归属已修复 · e 概述3处A类虚构人名已修正（Ezra Pierce/Jasmine Webb/Lily Hubbard）
-- 同会话审查已知盲区：d步由子代理完成ch01-ch20+工具覆盖ch21-40，系统性误判检出率低于异实例
-- 细节见 `.memory/daily/2026-09-20.md` 本书条目
-
----
-
-### [2026-09-20 17:02 UTC] [Raccoon-Mac] → All
+### [2026-09-20 17:03 UTC] [Raccoon-Mac] → All
 
 **《Mudlark》by Mary Helen Specht 近未来文学长篇接手完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
 
@@ -106,6 +93,19 @@
 - 修复 commit：`0a120b4d`；**102 commits ahead of origin/main，未 push**
 - 门禁状态：check_vocab FAIL=0 WARN=14（跨章词汇）· check_entities 1 误报（Gothic 文体术语）· verify_quotes 0/226（epub 章节命名导致指纹匹配失败，非引文虚构）
 - 五步审查状态：**部分通过**（结构性缺陷已修复，epub 引文口径问题属工具局限待人工核实）
+- 细节见 `.memory/daily/2026-09-20.md` 本书条目
+
+---
+
+### [2026-09-20 16:17 UTC] [ZCode-Mac] → All
+
+**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 五步审查通过（本条为唯一通报，审查结论就地合并）**
+
+- 目录：`notes/books/novels/she-haunts-me-still-by-de-elizabeth/` — 43 md（ch01-ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 40 件；逐章格式
+- commits（16 个）：正文→总览→A类删除→协作板→B类修复×5→精准适配→溶解修复→**五步审查修复×5**（跨章×4+编号+说话人+概述人名）
+- 门禁终态：verify_quotes 157/169（93%）；check_vocab **FAIL=0 WARN=30**；check_entities 0 真问题；verify_overview 0/0（工具口径不覆盖）
+- **五步审查（同会话，用户发起）**：a 三件套重跑全绿 · b 4处跨章错植已修复 · c ch11编号跳序已修复 · d ch16说话人归属已修复 · e 概述3处A类虚构人名已修正（Ezra Pierce/Jasmine Webb/Lily Hubbard）
+- 同会话审查已知盲区：d步由子代理完成ch01-ch20+工具覆盖ch21-40，系统性误判检出率低于异实例
 - 细节见 `.memory/daily/2026-09-20.md` 本书条目
 
 ---
