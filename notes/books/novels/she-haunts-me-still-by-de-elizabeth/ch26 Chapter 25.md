@@ -74,7 +74,7 @@ source_text: ch26
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| roommate | 室友 | "Jasmine and I were roommates at Shore" |
+| roommate | 室友 | "your mother and I were roommates at Shore" |
 | neurologist | 神经科医生 | "The health center referred her to a neurologist" |
 | witchcraft | 女巫术 | "this new friend did identify as a witch" |
 

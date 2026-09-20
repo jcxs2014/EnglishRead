@@ -100,7 +100,6 @@ source_text: ch25
 |------|------|------|
 | possession | 附身 | "demonic possession is inevitable" |
 | exorcism | 驱魔 | "the woman who underwent sixty-seven exorcisms" |
-| infuse | 灌输 | "wearing them down psychologically" |
 
 ### ⭐ 基础
 

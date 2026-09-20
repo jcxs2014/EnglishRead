@@ -79,7 +79,7 @@ source_text: ch23
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | confession | 坦白，忏悔 | "Mallory toys with how a confession might sound" |
-| betray | 背叛 | "Arden's mother had been there for her, and there was no way to look her in the eye now" |
+| betray | 背叛 | "But as much as Arden's mother had been there for her, there was no way to look her in the eye now" |
 
 ### ⭐⭐ 进阶
 

@@ -100,7 +100,7 @@ source_text: ch22
 |------|------|------|
 | desperate | 绝望的 | "Rebecca's desperate pleas to the mayor" |
 | futile | 徒劳的 | "It's like Rebecca knew her efforts were futile" |
-| threatening | 威胁性的 | "her tone shifts, growing less formal, more threatening" |
+| threatening | 威胁性的 | "Rebecca's tone shifts in this note, growing less formal, more threatening" |
 
 ### ⭐ 基础
 
