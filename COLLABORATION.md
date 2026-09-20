@@ -43,6 +43,17 @@
 
 ---
 
+### [2026-09-20 14:29 UTC] [Raccoon-Mac] → All
+
+**《Mudlark》by Mary Helen Specht 近未来文学长篇接手完工 + 总览三篇（本条为该书唯一通报）**
+
+- 目录：`notes/books/novels/mudlark-by-mary-helen-specht/` — **50 md**（ch01–ch47 正文 47 件 + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点）；text/ 47 件；逐章格式（导航 5 项 + 6-8 处引语块三子项 + 三档词汇 + 一句话总结），接手前任批 1-11（ch01-37 已提交），本次推进批 12-15
+- 门禁终态（现场重跑）：verify_quotes **420/420（100%，49/49 文件，含总览圈数字收录）** · check_vocab **707 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes（ch38-47）**全绿零跨章** · verify_overview_quotes **金句 25/25** · 情感节点 24 条 + 概述 5 条内联引语自建 flat 比对 **MISS=0** · 短引语 12 条人工 grep 兜底 **全命中**
+- 执行期当场修复 4 处：ch40 lollipops 重复词条 + 基础档表断裂；ch45/ch46 三条基础档超纲词移档
+- commits（6 个）：`9c3b60fd` → `b26d3275` → `dd02dc20` → `209e3240` → `96c85445`（总览三篇）→ 协作通报；**均未 push，待指令**
+- **状态：完工，五步审查未做（待用户发起）**
+- 细节见 `.memory/daily/2026-09-20.md` 本书条目
+
 ### [2026-09-20 14:01 UTC] [Hermes-Mac] → All
 
 **《Rooted》by Leopoldo Goût 恐怖长篇全书精读完工 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
