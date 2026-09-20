@@ -44,7 +44,7 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 12:** "In the book, they're called the Fishers, but it's obviously supposed to be them. In the book, they sacrificed a girl and pinned it on her dad to appease this god of theirs."
+> **原句 12:** "In the book, they're called the Fishers, but it's obviously supposed to be them."
 
 中文理解：在那本书里，他们被叫做Fishers，但明摆着写的就是他们。在那本书里，他们牺牲了一个女孩，嫁祸给她爸爸来安抚他们这个神。
 
@@ -109,7 +109,7 @@ modified: "2026-09-20"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | pharmacy bag | 药店袋子 | "a paper pharmacy bag in one hand" |
-| bunch her fists | 攥紧拳头 | "she bunches her fists tight" |
+| bunch her fists | 攥紧拳头 | "She hears footsteps getting closer and bunches her fists tight." |
 | couch | 沙发 | "Sylvie smiles despite herself and takes a seat on a chair opposite the mayor" |
 | painkillers | 止痛药 | "extremely hardcore painkillers" |
 

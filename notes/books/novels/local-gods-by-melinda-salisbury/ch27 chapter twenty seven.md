@@ -90,30 +90,26 @@ modified: "2026-09-20"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sedative | 镇静剂 | "Just a light sedative. Nothing to worry about." |
-| granite | 花岗岩；坚硬的 | "her jaw granite" |
-| groom | 培养；接近（贬义：性侵害/操控） | "Zelda groomed her, offered her sanctuary and tea and a sympathetic ear" |
-| cohesion | 凝聚力；团结 | "The town needs cohesion now" |
-| drip poison | 慢慢灌输毒害 | "To drip poison in their ears" |
+| miracle | 奇迹 | "The cherry on top comes when his wife discovers she's pregnant—a late, miracle baby." |
+| moonlight | 夜间加班；做兼职 | "To support his growing family, the man takes a job moonlighting on a project clearing trees in the woods." |
+| eerie | 怪异的；诡异的 | "Then one morning, the man is the first one on-site, as always, in the eerie lavender light of predawn." |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| thump | 重击；跳动 | "Sylvie racks her thumping brain for the last family to move" |
-| shuffle | 拖着脚走 | "Sylvie shuffles slowly over to Chantry" |
-| hiss | 嘶嘶声；低声说 | "Sylvie hisses, her tongue moving weirdly" |
-| scowl | 皱眉；怒视 | "Mrs. Miller pulls it out of her pocket, scowling at the screen" |
-| conspiratorial | 密谋的；共谋的 | "Zelda pauses, grins conspiratorially" |
+| syrupy | 黏稠的；迟钝的 | "But as he gets closer, he senses that something is wrong. The air smells like the earth after a rainstorm, his limbs feel syrupy." |
+| sentence | 判决；宣判 | "The man is arrested, charged, tried, sentenced." |
+| visitor | 探监者 | "One day the man is told he has a visitor. He's not expecting anyone." |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| cable tied | 电缆绑 | "her hands have been cable tied in front of her" |
-| petrichor | 雨后泥土的气息 | "The carpet under Sylvie's cheek reeks of petrichor." |
-| crawl | 爬；爬行 | "something has crawled inside it and died there" |
-| slurred | 含糊的 | "Her voice is slurred like Mayor James's." |
+| pregnant | 怀孕的 | "The cherry on top comes when his wife discovers she's pregnant—a late, miracle baby." |
+| devil | 恶魔 | "A being that walks like a man but has the horns of the devil." |
+| witch | 女巫 | "He tells them he's innocent and that witches killed his daughter." |
+| prison | 监狱 | "He goes to prison. His son is born, but he never meets him." |
 
 ## 一句话总结
 

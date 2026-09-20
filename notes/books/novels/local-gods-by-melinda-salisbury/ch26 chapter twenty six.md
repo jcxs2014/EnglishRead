@@ -100,17 +100,14 @@ modified: "2026-09-20"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| lurch | 突然前倾；猛冲 | "Sylvie's stomach lurches and she grips the sink" |
 | pristine | 极干净的；未损坏的 | "his pristine museum-set parlor" |
-| novella | 中篇小说 | "more of a novella than a book" |
+| novella | 中篇小说 | "It looks like a midcentury time capsule." |
 | autofiction | 自传体虚构 | "Autofiction, it would be called now." |
-| sacrifice | 献祭；牺牲 | "a black ram that was sacrificed to him" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| seeping | 渗入；渗透 | "something cold entering her, seeping into her body" |
 | hounds | 猎犬 | "as if the hounds of hell are behind her" |
 | mouthed | 用口型说 | "He'd mouthed, Go around." |
 | sinister | 阴森的；邪恶的 | "incongruous against the sinister dark pines" |
@@ -119,10 +116,10 @@ modified: "2026-09-20"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| grip | 抓紧；握紧 | "she grips the sink" |
-| counter | 柜台 | "her hip smacking painfully into the wood" |
+| counter | 柜台 | "Sylvie crashes into the deli countertop" |
 | crash | 撞上 | "Sylvie crashes into the deli countertop" |
 | ash | 灰烬 | "It tastes like ash to her." |
+| beaded | 串珠的 | "Sylvie follows him through a beaded curtain, up a dark, narrow staircase." |
 
 ## 一句话总结
 
