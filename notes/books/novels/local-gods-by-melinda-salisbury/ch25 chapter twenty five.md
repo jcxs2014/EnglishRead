@@ -44,7 +44,7 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 12:** "In the book, they're called the Fishers, but it's obviously supposed to be them."
+> **原句 12:** "I mean, in the story they're called the Fishers, but it's obviously supposed to be them."
 
 中文理解：在那本书里，他们被叫做Fishers，但明摆着写的就是他们。在那本书里，他们牺牲了一个女孩，嫁祸给她爸爸来安抚他们这个神。
 
