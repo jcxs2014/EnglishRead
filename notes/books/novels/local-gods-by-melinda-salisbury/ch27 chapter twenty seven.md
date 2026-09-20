@@ -48,9 +48,8 @@ modified: "2026-09-20"
 
 中文理解：Sylvie想着Zelda是多么快速和彻底地培养了她，给她庇护、给她茶、给她同情的耳朵。而她想着所有那些预约来见Zelda、学习命运、被告知一切都会好起来的人——他们会问需要做什么才能让事情好起来。
 
-关键词：groomed、sympathetic ear、drip poison
-为什么这样写：这是Sylvie retrospective insight——Zelda的kindness是strategic的。"groomed"是predatory vocabulary，用在mentor身上是power imbalance的标志。"sympathetic ear"是caregiving的行为，但它是grooming technique的一部分。Sylvie now sees the pattern：Zelda给人们hope，然后问"what would it take"——这是在建立complicity。那些问过这个问题的人，现在都是"invested in the cause"。
-读者视角提示："drip poison in their ears"是下一个句子的continuation——Zelda's method是gradual corruption，不是sudden recruitment。
+关键词：groomed、sympathetic ear
+为什么这样写：这是Sylvie retrospective insight——Zelda的kindness是strategic的。"groomed"是predatory vocabulary，用在mentor身上是power imbalance的标志。"sympathetic ear"是caregiving的行为，但它是grooming technique的一部分。Sylvie now sees the pattern：Zelda给人们hope，然后问"what would it take"——这是在建立complicity。那些问过这个问题的人，现在都是"invested in the cause"。Zelda's method是gradual corruption，不是sudden recruitment。
 
 ---
 
