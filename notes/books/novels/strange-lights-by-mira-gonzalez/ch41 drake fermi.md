@@ -76,9 +76,9 @@ modified: "2026-09-20"
 
 **关键词**：a desperate warning（一声绝望的警告）——他给出的不是入侵，而是警告；而本书的实际情况正是如此（Orion 就是那个发出警告的人）。
 
-**为什么这样写**：作者在这一段完成了整本书的伏笔结构：真正的"第一次接触"不是飞船降临，而是一段没人愿意听的提醒。这也让这篇 1961 年的方程与一个 2010 年代的播客，成了同一个故事的两个层面。
+**为什么这样写**：作者在这一段完成了整本书的伏笔结构：真正的"第一次接触"不是飞船降临，而是一段没人愿意听的提醒。这也让这篇 1961 年的方程与这档当代播客，成了同一个故事的两个层面。
 
-**读者视角提示**：回顾全书结构——第一个给出警告的人其实什么都没说出口（第 39 章的 Orion 与 Eldi 都只能沉默或说出单词），他们的沉默本身就是警告。
+**读者视角提示**：回顾全书结构——最早给出警告的那个孩子（第 37 章的 Orion）用一整章证明了"喊话会招来什么"，而另一个（Eldi）干脆不能说；他们的沉默本身就是警告。
 
 ---
 
@@ -101,7 +101,7 @@ modified: "2026-09-20"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | unfathomably | /ʌnˈfæðəməbli/ | 深不可测地 | "the universe is unfathomably large" |
-| microbial | /maɪˈkroʊbiəl/ | 微生物的 | "We aren't concerned with planets populated by the extraterrestrial equivalent of dinosaurs." |
+| microbial | /maɪˈkroʊbiəl/ | 微生物的 | "only count planets with intelligent life-forms, not just microbial life" |
 | paradox | /ˈpærədɒks/ | 悖论 | "This question, known as the Fermi Paradox, has a great many possible explanations." |
 | earthbound | /ˈɜːrθbaʊnd/ | 被束缚在地球的 | "It wasn't so long ago we were earthbound." |
 | threshold | /ˈθreʃhoʊld/ | 门槛；临界值 | "some last threshold or challenge that knocks down our final number" |

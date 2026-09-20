@@ -22,11 +22,11 @@ modified: "2026-09-20"
 
 ## 精读
 
-> **原句 1:** She came to me when I needed her desperately, so I try to respect the mysteries she keeps.
+> **原句 1:** In any case, she came to me when I needed her desperately, so I try to respect the mysteries she keeps.
 
 **中文理解**：她在我最绝望的时候出现在我身边，所以我试着尊重她所保留的那些秘密。
 
-**关键词**：She（指 Winnie，Winnebago 的昵称）——Reggie 把她的房车称为"她"，并赋予其感知能力；sentient living being 的拟人化暗示 Winnie 可能是超自然存在。
+**关键词**：she came to me（她来到我身边）——She 指 Winnie（Winnebago 的昵称）；Reggie 把她的房车称为"她"并赋予其感知能力，有感知的活物这一拟人化暗示 Winnie 可能是超自然存在。
 
 **为什么这样写**：这句话是 Reggie 对自己神秘处境的隐喻——她也被某种力量"需要"而来（像 Eldi 出现在她门口），所以她尊重神秘、接受不确定性。Winnie 与 Eldi 都是她无法完全理解但依赖的存在。
 
@@ -38,7 +38,7 @@ modified: "2026-09-20"
 
 **中文理解**：我短暂的睡眠被幻象困扰——夜空中的光，还有空灵的声音呼唤我抬头仰望。
 
-**关键词**：ethereal voices（空灵的声音）、look up（向上看）——"lights in the night sky"与第52行"lights in the night sky"呼应，暗示外星人/UFO 是 Reggie 真正任务的线索；这是本书的核心悬念钩子。
+**关键词**：ethereal voices（空灵的声音）、look up（向上看）——梦里的"lights in the night sky"呼应本书书名与贯穿全书的 UFO 线索；这是她的核心悬念钩子。
 
 **为什么这样写**：这是 Reggie 最脆弱的时刻之一——她被无法控制的神秘力量召唤所困扰，而 Calvin 这样的理性主义者恰恰是她需要的表面掩护。"look up"既指字面上的仰望天空，也暗示她被迫面对自己不愿面对的真相。
 
@@ -98,7 +98,7 @@ modified: "2026-09-20"
 
 **中文理解**："死了。"Eldi 阴森森地说。我被咖啡呛到，在恼怒和歇斯底里的大笑之间撕裂。
 
-**关键词**：ominously（阴森森地）——Eldi 对 Goat 的介绍制造了双重幽默：一是"Dead"这个阴森森的词从 toddler 嘴里说出来，二是 Calvin 完全不知道 Goat 是只 stuffed toy。
+**关键词**：ominously（阴森森地）——Eldi 对 Goat 的介绍制造了双重幽默：一是"Dead"这个阴森森的词从这个幼儿嘴里说出来，二是 Calvin 完全不知道 Goat 只是只填充玩偶。
 
 **为什么这样写**：这是本章最搞笑的场景之一。Eldi 的 deadpan 幽默与她作为 Chupacabra 的真实身份形成反差——她说的每个字都是真的，但没人当真。Reggie"呛咖啡"是她消化这种荒诞的标准反应。
 

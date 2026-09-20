@@ -34,9 +34,9 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 2:** "I'm sorry I yelled at you. I should never have told you to go. I love you, Eldi." / "Love you," Eldi says.
+> **原句 2:** "I'm sorry I yelled at you. I should never have told you to go. I love you, Eldi." "Love you," Eldi says.
 
-**中文理解**："对不起我冲你吼了。我永远不该让你走的。我爱你，Eldi。"／"爱你。"Eldi 说。
+**中文理解**："对不起我冲你吼了。我永远不该让你走的。我爱你，Eldi。""爱你。"Eldi 说。
 
 **关键词**：I should never have told you to go（我永远不该让你走）——第 16 章那句"出去"在这里被正式收回；而孩子的回应只有两个词，没有犹豫。
 
@@ -66,7 +66,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：作者让最小的妹妹说出全章最直白的一句控诉，然后把和解交给三个人的沉默与眼泪（"我们三个抱在一起哭"）。这一段的处理拒绝了任何一方成为正确者。
 
-**读者视角提示**：Zara 的辩解是"我留下来是为了你"——这句话与第 22 章"你当时就该让我走"形成十几年后的闭合。
+**读者视角提示**：Zara 的辩解是"我留下来是为了你"——这句话与第 26 章（md ch28）"你当时就该让我走"形成十几年后的闭合。
 
 ---
 
@@ -90,7 +90,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：作者在此完成对主角的一次结构性惩罚：她用了三十章强调"没人能懂我"，此刻她必须承认自己也是这样对待妹妹的。
 
-**读者视角提示**：这段与第 26 章她对 Calvin 的抱怨（"你从不相信我说的话"）互为镜像——本章她终于在自己的账上写下同一笔。
+**读者视角提示**：这段与她此前对 Calvin 的抱怨（第 26 章 "I know exactly who you are" 那种被预先定性的窒息感）互为镜像——本章她终于在自己的账上写下同一笔：她也没给过妹妹们解释的机会。
 
 ---
 
@@ -98,7 +98,7 @@ modified: "2026-09-20"
 
 **中文理解**：最初的几下希望在胸口扑动，像上百只蝴蝶带着所有痛苦和悔恨，终于准备飞走。
 
-**关键词**：the first flutters of hope（希望的第一次扑动）——全书第一次使用"希望"这个词而不加反讽；这句与第 22 章"我的心像被野兽咬住"构成同一条情绪曲线的两端。
+**关键词**：the first flutters of hope（希望的第一次扑动）——全书第一次使用"希望"这个词而不加反讽；这句与第 13 章（md ch15）"我的心像被野兽咬住"构成同一条情绪曲线的两端。
 
 **为什么这样写**：作者把这一句放在全章末尾，紧接着是对下一阶段行动的安排（三台设备打开、Zara 抱怨"中间的孩子从没轮到先发言"）。情绪落点与行动起点同段收束，是本书常用的章末手法。
 
@@ -116,7 +116,7 @@ modified: "2026-09-20"
 | vanguard | /ˈvænɡɑːrd/ | 先锋；先头部队 | "Dave gleefully trundles at the vanguard of our little party" |
 | unbidden | /ʌnˈbɪdn/ | 未经请求的；不由自主的 | "A burble of laughter comes unbidden." |
 | enormity | /ɪˈnɔːrməti/ | 巨大；严重性 | "The weight of my failure, the enormity of how badly I've made my choices, sits on my chest" |
-| terse | /tɜːrs/ | 简短生硬的 | "Enough," Meredith says tersely. |
+| tersely | /ˈtɜːrsli/ | 简短生硬地 | "Enough," Meredith says tersely. |
 
 ### ⭐⭐ 进阶
 
@@ -135,7 +135,7 @@ modified: "2026-09-20"
 | mask | /mæsk/ | 面具 | "When I finally rip it from my face, I hurl it hard against the wall" |
 | sisters | /ˈsɪstərz/ | 姐妹 | "That's what got us here in the first place," I say to my sisters. |
 | hope | /hoʊp/ | 希望 | "The first flutters of hope rise in my chest" |
-| bags | /bæɡz/ | 包；行李 | "I snuck some files too." |
+| bags | /bæɡz/ | 包；行李 | "Dave retracts his metallic tentacles from the depths of Zara's bag and scurries out of sight." |
 | floor | /flɔːr/ | 地板 | "And I'm tired of sitting on the floor." |
 
 ---

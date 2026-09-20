@@ -22,15 +22,15 @@ modified: "2026-09-20"
 
 ## 精读
 
-> **原句 1:** "It's what I would do," I say coldly. / "I don't believe you," Calvin says.
+> **原句 1:** "It's what I would do," I say coldly. "I don't believe you," Calvin says.
 
-**中文理解**："换了我，我也会这么干。"我冷冷地说。／"我不信。"Calvin 说。
+**中文理解**："换了我，我也会这么干。"我冷冷地说。"我不信。"Calvin 说。
 
 **关键词**：what I would do（我会做的事）、I don't believe you（我不信）——她的世界观（亲情是可疑的）与他的一句话（我不信你是这种人）正面相撞，两人的分歧第一次无关怪物。
 
 **为什么这样写**：这场争吵短到只有两句，却立起了全书的道德分工：她负责怀疑一切，他负责相信。作者让 Calvin 的信任表现得毫无修辞，只一句"我不信"，反而比长篇大论更有分量。
 
-**读者视角提示**：注意紧接着她问的是"你有没有联系你的家人"——她的回击方式是转移话题，而 Calvin 恰恰没有放过这一招。
+**读者视角提示**：紧接着 Calvin 反问了一句"你有没有联系过你的家人"——他把她惯用的转移话题反手用在她身上，而她没有接住。
 
 ---
 
@@ -54,7 +54,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：作者把 Reggie 最恶毒的一句话写成完全真实的情绪（她确实累到了极限），而不是剧情需要的失控。真正可怕的不是她说了什么，而是她说得太顺、太像日常训斥。
 
-**读者视角提示**：这句话会被击中回旋——紧接着的章节里 Eldi 被当作"生物"装进笼子捕走，而 Reggie 自己先在家门口用了一个物种化的词。
+**读者视角提示**：这句话会被击中回旋——本章后半段 Eldi 就被当作"生物"装进笼子捕走，而 Reggie 自己先在家门口用了一个物种化的词。
 
 ---
 
@@ -70,15 +70,15 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 5:** ladybird ladybird fly away home your house is on fire your children are gone / ladybird ladybird fly away home your house is on fire your children will burn
+> **原句 5:** ladybird ladybird fly away home your house is on fire your children are gone ladybird ladybird fly away home your house is on fire your children will burn
 
-**中文理解**：瓢虫啊瓢虫，飞回家去吧，你的房子着火了，你的孩子们不在了／瓢虫啊瓢虫，飞回家去吧，你的房子着火了，你的孩子们会被烧死。
+**中文理解**：瓢虫啊瓢虫，飞回家去吧，你的房子着火了，你的孩子们不在了；接着第二遍唱成——瓢虫啊瓢虫，飞回家去吧，你的房子着火了，你的孩子们会被烧死。
 
 **关键词**：your children are gone（你的孩子不在了）与 your children will burn（你的孩子将被烧死）——两行只差一个动词，第二行把警告升级成威胁，也标记了来信者的态度变化。
 
 **为什么这样写**：两段童谣都以无标点、全小写的形态出现在邮件里，与前文 Eldi 哼唱的那首形成回环。作者让最重要的威胁以一首童谣的形式抵达，等于告诉读者：发信人知道她童年发生过什么。
 
-**读者视角提示**：注意邮件主题是"the sky is falling"（天要塌了）——这是"Chicken Little"的回声，而第 4 章神秘线人发来的第一封邮件用的正是这个典故。写信人一直没变。
+**读者视角提示**：注意邮件主题是"the sky is falling"（天要塌了）——这是"Chicken Little"的回声，而第 4 章神秘线人发来的邮件用的正是这个典故。写信人一直没变。
 
 ---
 

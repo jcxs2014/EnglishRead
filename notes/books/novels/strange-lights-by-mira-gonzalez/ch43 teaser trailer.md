@@ -14,7 +14,7 @@ modified: "2026-09-20"
 
 **Tropes 兑现/反转**："预告片"体裁被完整照搬（悬念、卡点、露脸、口号），而它的实际功能是一次宣战：所有人此前最怕的就是曝光，这一章他们主动把镜头转向自己。
 
-**人物弧线**：Reggie 第一次在公开场合同时使用两个名字（Reggie Quinn／Regina Kingsley），并且第一次对母亲说话时不用面具也不用敬语。
+**人物弧线**：Calvin 第一次在公开场合替她点出两个名字（Reggie Quinn／Regina Kingsley），而她自己第一次在镜头前摘下面具，并且第一次对母亲说话时不用面具也不用敬语。
 
 **叙事手法**：以社交媒体的"文稿与画面描述"形式写作（方括号内为画面），用第三人称的镜头语言描述主角；关键台词一律以引语出现，让读者像观众一样看这场直播预告。
 
@@ -58,7 +58,7 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 4:** But my message for everyone else is this: Adele Kingsley is trying to convince you to turn on children. Alien children, yes. But children, just the same.
+> **原句 4:** But my message for everyone else is this: Adele Kingsley is trying to convince you to turn on children. Alien children, yes. [Eldi leaps down from the loft, and Reggie catches her, holds her close.] But children, just the same.
 
 **中文理解**：但我给其他人的话是这个：Adele Kingsley 正在试图说服你们去对付孩子。外星的孩子，没错。但一样是孩子。
 
@@ -66,7 +66,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：作者让主角在决战前只说一句话，而这句话不含任何威胁或求援，只做一次分类纠正：把"外星人"归回"孩子"。她一生的职业是给人贴正确的标签，此时她给全世界做了一次更正。
 
-**读者视角提示**：回顾第 31 章 Adele 说的"它不是婴儿，它是个怪物"——同一场争论在全世界面前重演，只是这次的说话人换了立场。
+**读者视角提示**：回顾第 29 章（md ch31）Adele 指着笼子说的那句"它不是婴儿……它跟一头畜生没有区别"——同一场争论在全世界面前重演，只是这次的说话人换了立场。
 
 ---
 

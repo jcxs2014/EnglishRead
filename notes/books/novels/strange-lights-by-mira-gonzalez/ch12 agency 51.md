@@ -46,7 +46,7 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 3:** "I feel so stupid. How is all this"—he gestures widely at the piles of accumulated oddities—"how is this all real? All the stuff I've been trying to debunk. I have to find a new career."
+> **原句 3:** "I feel so stupid. How is all this"—he gestures widely at the piles of accumulated oddities—"how is this all real? All the stuff I've been trying to debunk. I have to find a new career.""
 
 **中文理解**："我觉得自己好蠢。这一切怎么可能"——他朝堆积的奇物大幅挥手——"这一切怎么可能是真的？我一直在试图揭穿的那些东西。我得去找份新工作。"
 

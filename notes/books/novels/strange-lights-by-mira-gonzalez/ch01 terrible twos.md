@@ -38,7 +38,7 @@ modified: "2026-09-20"
 
 **中文理解**：满月光芒映照在 Eldi 的双眸中，她停下饕餮大餐，冲我露出獠牙咧嘴一笑。显然，她没有一丝愧疚。
 
-**关键词**：feast（盛宴）、remorse（悔恨）——描述 Eldi 吃羊的血腥场景用词却带着戏谑感；full moon 与 werewolf/lycanthropy 主题呼应。
+**关键词**：feast（盛宴）、remorse（悔恨）——描述 Eldi 吃羊的血腥场景用词却带着戏谑感；full moon 与狼人/变狼狂主题呼应。
 
 **为什么这样写**：用"盛宴"描述 toddler 吃山羊的血腥画面，是黑色幽默的典型手法——把恐怖元素写成育儿日常，制造认知反差。remorse 一词尤其有趣：一个不会说话的 toddler 当然不会有"remorse"，但叙事者用这个词暗示她知道 Eldi 不是普通孩子。
 
@@ -60,9 +60,9 @@ modified: "2026-09-20"
 
 > **原句 4:** I'm not actually looking for Dogman—he's just an urban legend—but he makes a convenient cover for my true mission. I am more worried about werewolves. There's been a long-running epidemic of lycanthropy going around.
 
-**中文理解**：我实际上并不是在找 Dogman——他不过是个都市传说——但他给我真正的任务提供了方便的掩护。我更担心的是狼人。最近癞皮病疫情一直在蔓延。
+**中文理解**：我实际上并不是在找 Dogman——他不过是个都市传说——但他给我真正的任务提供了方便的掩护。我更担心的是狼人。最近变狼狂（lycanthropy）疫情一直在蔓延。
 
-**关键词**：urban legend（都市传说）、convenient cover（方便的掩护）、lycanthropy（变狼狂）——cryptid 调查员的专业术语体系；Dogman 作掩护暗示叙事者有不愿透露的真实目的。
+**关键词**：urban legend（都市传说）、convenient cover（方便的掩护）、lycanthropy（变狼狂）——神秘生物调查员的专业术语体系；Dogman 作掩护暗示叙事者有不愿透露的真实目的。
 
 **为什么这样写**：这是本书的核心设定揭示之一——叙事者表面调查 Dogman，实际任务另有目的；lycanthropy 的"epidemic"让真实世界与超自然世界共存，暗示这是一部 urban fantasy/科幻小说而非纯粹的奇幻。
 

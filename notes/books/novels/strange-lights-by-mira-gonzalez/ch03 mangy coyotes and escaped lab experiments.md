@@ -26,7 +26,7 @@ modified: "2026-09-20"
 
 **中文理解**：Chupacabra 是我最爱的怪物之一。也许是因为我父母养了一只无毛小狗，远远看去你可能会以为它是只小鬣蜥。
 
-**关键词**：hairless dogs（无毛狗）——Calvin 用自家宠物类比 cryptid，建立亲民感；Chuppy（他父母的狗）与真正的 Chupacabra 的对比是本书的核心笑点之一。
+**关键词**：hairless dogs（无毛狗）——Calvin 用自家宠物类比神秘生物，建立亲民感；Chuppy（他父母的狗）与真正的 Chupacabra 的对比是本书的核心笑点之一。
 
 **为什么这样写**：Calvin 自认为在 debunking，却不自觉地将真正存在的超自然生物（Chupacabra）与宠物狗联系起来。他的"debunking"反而让真正的 cryptid 更难被严肃对待——这正是 Reggie 想要的效果。
 
@@ -38,7 +38,7 @@ modified: "2026-09-20"
 
 **中文理解**：几乎所有目击报告都描述了同一种生物。爬行类生物，有发光的红眼睛和灰白的鳞片。有些人甚至声称它很美，鳞片带着彩虹般的光泽。
 
-**关键词**：iridescent（彩虹色的；闪光的）——这个词暗示 Chupacabra 的真实外观与 cryptozoology 报告描述的高度一致，而 Calvin 却用"hairless dogs"来解释。
+**关键词**：iridescent（彩虹色的；闪光的）——这个词暗示 Chupacabra 的真实外观与神秘动物学报告描述的高度一致，而 Calvin 却用"无毛狗"来解释。
 
 **为什么这样写**：Calvin 在这里描述的与 Reggie 照顾的 Eldi（chupacabra toddler）的特征高度吻合——但 Calvin 完全不知道。iridescent 是科学术语，也是 cryptozoology 文献中的常用描述，Calvin 把它当作"过度想象"的证据。
 
@@ -50,7 +50,7 @@ modified: "2026-09-20"
 
 **中文理解**：至于牲畜的残害和尸体中缺乏血液的现象，这只是捕食行为在未经训练的观察者眼中显得诡异和不自然而已。
 
-**关键词**：untaught eye（未经训练的眼睛）、creepy（毛骨悚然的）——Calvin 用"natural predation"解释一切，但他完全不知道真正的 Chupacabra 确实以血为食；这个"debunking"实际上是错的。
+**关键词**：untrained eye（未经训练的眼睛）、creepy（毛骨悚然的）——Calvin 用"natural predation"解释一切，但他完全不知道真正的 Chupacabra 确实以血为食；这种"揭穿"实际上是错的。
 
 **为什么这样写**：Calvin 的"rational explanation"是错的，但他相信自己的逻辑。这种认知差距是本书的核心张力：理性主义者 Calvin 越努力 debunking，越帮助 Reggie 掩盖真相。
 
@@ -62,7 +62,7 @@ modified: "2026-09-20"
 
 **中文理解**：我知道我说了"未经训练的眼睛"，但说实话，就算训练有素的眼睛，如果你先入为主地要找到 Chupacabra，你也会找到它。
 
-**关键词**：confirmation bias（确认偏误）——Calvin 在这里指出别人的确认偏误，但 Reggie 才是真正在利用 confirmation bias 操控信息的人。
+**关键词**：这种偏误（该词出自本章紧邻的下一句原文）——Calvin 在这里指出别人的确认偏误，但 Reggie 才是真正在利用这种偏误操控信息的人。
 
 **为什么这样写**：Calvin 用 confirmation bias 解释 Chupacabra 目击报告的一致性，但这个逻辑也可以反向应用—— Calvin 自己的 debunking 也受到确认偏误的影响：他不想相信超自然存在，所以他总是能找到" mundane"的解释。这是元文本层面的讽刺。
 
@@ -74,7 +74,7 @@ modified: "2026-09-20"
 
 **中文理解**：它永远会是什么平凡的东西，而不是怪物。
 
-**关键词**：mundane（平凡的）——Calvin 的口头禅，也是他的信仰核心：平凡解释一切，超自然不存在。但 Eldi 就睡在上方的小 loft 里。
+**关键词**：mundane（平凡的）——Calvin 的口头禅，也是他的信仰核心：平凡解释一切，超自然不存在。但 Eldi 就睡在上方的小阁楼里。
 
 **为什么这样写**：这是 Calvin 全章最讽刺的一句话——因为在 Reggie 的世界里，真的有 monstrous creatures，而 Calvin 的"debunking"实际上在帮它们隐藏。"mundane, not monstrous"是本书的 inversed reality。
 
@@ -98,9 +98,9 @@ modified: "2026-09-20"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| cryptid | /ˈkrɪptɪd/ | 神秘生物 | "one of my favorite cryptid" |
+| cryptid | /ˈkrɪptɪd/ | 神秘生物 | "The Chupacabra is a modern-day cryptid that first appeared in Puerto Rico in the mid-1970s." |
 | doppelgänger | /ˈdɒpəlɡæŋər/ | 面貌极相似的人；（德）分身 | "Chuppy in honor of his beastly doppelgänger" |
-| debunk | /diːˈbʌŋk/ | 揭穿…的真相；反驳 | "he tries to shine a light on everything strange" |
+| debunking | /diːˈbʌŋkɪŋ/ | 揭穿；反驳 | "The Debunker" |
 
 ### ⭐ 基础
 

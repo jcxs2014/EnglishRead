@@ -14,7 +14,7 @@ modified: "2026-09-20"
 
 **Tropes 兑现/反转**：亦敌亦友→恋人的起源（从酒吧搭讪到互相讨厌再到勉强的朋友）；初遇前史（两人如何相遇、如何从敌人变成朋友）。
 
-**人物弧线**：Reggie 对 Calvin 的感情在这里种下——从"a pretty face"到"fell the tiniest bit in love"；Calvin 对 Reggie 的看法从"problematic misinformation spreader"到"complicated person with a moral code"。
+**人物弧线**：Reggie 对 Calvin 的感情在这里种下——从"a pretty face"到"fell the tiniest bit in love"；Calvin 对 Reggie 的看法从"以为她是骗钱的假调查员"（charge people good money to believe in your fake monsters）转向承认她有自己的道义（I do it for penance.）。
 
 **叙事手法**：回溯叙事（闪回）；对话驱动；与 ch02 的 Calvin 章节形成互文。
 
@@ -38,7 +38,7 @@ modified: "2026-09-20"
 
 **中文理解**："我确切地知道你是谁。"Calvin 说。这听起来像是指控。
 
-**关键词**：accusation（指控）——Calvin 之前在播客里点名批评过 Reggie；现在面对面的相遇充满了敌意，因为 Calvin 认为她 spread misinformation。
+**关键词**：accusation（指控）——Calvin 之前在播客里点名批评过 Reggie；现在面对面的相遇充满了敌意，因为 Calvin 认为她在散播错误信息。
 
 **为什么这样写**：这是两人关系的转折点——Calvin 知道 Reggie 是谁，但 Reggie 知道他知道后反而 in his face 地回应。这种亦敌亦友的动态在这里建立。
 
@@ -62,7 +62,7 @@ modified: "2026-09-20"
 
 **中文理解**：闹鬼事件结果是不存在的，正如我所料。Charlotte 能提供的唯一具体证据是墙壁内部传出的刮擦声录音和房屋周围回荡的嘎嘎声。
 
-**关键词**：nonexistent（不存在的）——Reggie 从一开始就知道这不是真正的超自然事件；Charlotte 的丈夫的恐惧来自心理而非鬼魂。
+**关键词**：nonexistent（不存在的）——Reggie 从一开始就知道这不是真正的超自然事件；Charlotte 的恐惧来自对亡夫本人的记忆——她太怕他，哪怕他已经死了也放不下；这恐惧与鬼魂无关。
 
 **为什么这样写**：这个案例与后文 Reggie 的真实使命形成对比——Charlotte 的"ghost"是心理性的，但 Reggie 真正在隐藏的是实际的超自然存在。这种对比强化了 Reggie 的困境：她在保护一个真实存在的世界，却要假装在 debunking 假的。
 
@@ -74,9 +74,9 @@ modified: "2026-09-20"
 
 **中文理解**：Goat 那些日子里干净多了。他当时还有两只闪亮的黑眼睛，毛色洁白无瑕。
 
-**关键词**：pristine white（洁白无瑕）——Goat 从 Charlotte 那里获得，成为 Eldi 最珍爱的 possessions；从白到 mottled gray 的变化是时间和 Eldi 的爱的物理证明。
+**关键词**：pristine white（洁白无瑕）——Goat 从 Charlotte 那里获得，成为 Eldi 最珍爱的所有物；从纯白到花白斑驳的变化是时间和 Eldi 的爱的物理证明。
 
-**为什么这样写**：这是本章最感性的时刻——Goat 的描述与现在的 Goat（"mottled gray, and he has only one eye"）形成对比，暗示时间、旅途和 Eldi 与 Reggie 的生活在这只 stuffed goat 上留下的痕迹。这是全书中少有的纯粹温情时刻。
+**为什么这样写**：这是本章最感性的时刻——Goat 的描述与现在的 Goat（书内第 1 章："His white coat was long ago aggressively loved into a mottled gray, and he has only one eye"）形成对比，暗示时间、旅途和 Eldi 与 Reggie 的生活在这只 stuffed goat 上留下的痕迹。这是全书中少有的纯粹温情时刻。
 
 **读者视角提示**：Goat 是全书的情感信物，注意它每次出现时 Reggie 的语气都会软一点点。
 

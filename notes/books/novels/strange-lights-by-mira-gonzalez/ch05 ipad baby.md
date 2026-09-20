@@ -10,7 +10,7 @@ modified: "2026-09-20"
 
 **一句话概括**：Reggie 和 Calvin 在露营地深入研究神秘扫地机器人，发现它没有充电端口且似乎在追踪 Eldi；与此同时收到了更多来自神秘信息源的警告——UFO 目击、牛被杀和外星活动的增加报道汇聚在一起。
 
-**情感弧线位置**：悬念升温——Reggie 意识到这不是 isolated 事件，而是一系列更大现象的一部分；Calvin 的威胁电话加深了危机感。
+**情感弧线位置**：悬念升温——Reggie 意识到这不是孤立事件，而是一系列更大现象的一部分；打到 Calvin 手机上的威胁来电加深了危机感。
 
 **Tropes 兑现/反转**："非血缘家庭"深化（Calvin 开始被卷入 Reggie 不想让他知道的世界）；神秘线人线索登场。
 
@@ -22,9 +22,9 @@ modified: "2026-09-20"
 
 ## 精读
 
-> **原句 1:** "Chicken little or the boy who cried wolf?"—along with several links and attachments.
+> **原句 1:** This time they've sent only a single line of text—"chicken little or the boy who cried wolf?"—along with several links and attachments.
 
-**中文理解**："是Chicken Little，还是狼来了？"——附上几个链接和附件。
+**中文理解**：这一次他们只发来一行字——"是 chicken little，还是狼来了？"——外加几个链接和附件。
 
 **关键词**：Chicken Little（鸡仔总动员；恐慌性误导）——神秘信息源用这个比喻暗示两种可能：要么真的有大事正在发生（Chicken Little 报天塌了是真的），要么 Reggie 在被操纵（狼来了）。
 
@@ -38,9 +38,9 @@ modified: "2026-09-20"
 
 **中文理解**："首先，它没有充电端口。但它照样运转。没有商标。我查了能找到的每本吸尘器手册。"
 
-**关键词**：charging port（充电端口）、no logos（没有商标）——Calvin 尝试用科学方法分析，却发现了完全超出他认知的事物；这对他作为 debunker 的世界观是致命一击。
+**关键词**：charging port（充电端口）、no logos（没有商标）——Calvin 尝试用科学方法分析，却发现了完全超出他认知的事物；这对他作为专职揭穿者的世界观是致命一击。
 
-**为什么这样写**：Calvin 的理性方法论在这里完全失效——没有充电端口、没有商标、无法归类。这与他作为科学主义者的自我认同形成根本冲突。他开始说"maybe"和"perhaps"，这在他之前的语言中从未出现过。
+**为什么这样写**：Calvin 的理性方法论在这里完全失效——没有充电端口、没有商标、无法归类。这与他作为科学主义者的自我认同形成根本冲突。他开始说 "Maybe"（"Maybe," he amends quietly），这种迟疑在他之前的语言中从未出现过。
 
 **读者视角提示**：注意 Calvin 的语言从断言滑向“maybe”——这是他世界观裂开的第一道缝。
 
@@ -62,7 +62,7 @@ modified: "2026-09-20"
 
 **中文理解**："如果他找到她，他会带走她的。"我慢慢说着，确保自己考虑好了要说什么，试图在谎言中织入足够的真相。
 
-**关键词**：cover the lies（用谎言掩护）——Reggie 用半真半假来掩盖关于 Eldi 真实身份的更黑暗的真相；"take"比"hurt"更暗示了一种所有权/控制欲。
+**关键词**：cover the lies（用谎言掩护）——Reggie 用半真半假来掩盖关于 Eldi 真实身份的更黑暗的真相；"take"（带走）比"伤害"更暗示了一种所有权/控制欲。
 
 **为什么这样写**：这是 Reggie 少数直接承认危险的时刻——"He"是谁？为什么会"带走"Eldi？Reggie 的叙事策略是 always weave enough truth to cover the lies，这种自我保护机制贯穿全书。
 
@@ -107,7 +107,7 @@ modified: "2026-09-20"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| vacuum | /ˈvækjuːm/ | 吸尘器 | "I don't want it out of my possession long." |
+| vacuum | /ˈvækjuːm/ | 吸尘器 | "I almost wish I'd let Calvin drive with the vacuum." |
 | tablet | /ˈtæblət/ | 平板电脑 | "There's a kid's tablet that's apparently cursed." |
 | email | /ˈiːmeɪl/ | 电子邮件 | "Another email pings my phone" |
 | beer | /bɪər/ | 啤酒 | "He's carrying two beers" |

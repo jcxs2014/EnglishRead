@@ -42,7 +42,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：这句把她的"求死"改写成"留门"：她不是放弃生命，是把门留着等他们进来。作者用这个动作完成她性格的最终修正——从关门的人变成留门的人。
 
-**读者视角提示**：对照第 6 章她对 Eldi 说的"你需要一个锚"——她此刻是那个等着别人把绳子递下来的人。
+**读者视角提示**：对照第 23 章（md ch25）她教妹妹的锚定原理——她此刻是那个等着别人把绳子递下来的人。
 
 ---
 
@@ -50,7 +50,7 @@ modified: "2026-09-20"
 
 **中文理解**："真巧在这儿遇见你。"Calvin 熟悉的声音说，他落在我身边。
 
-**关键词**：Fancy seeing you here（真巧在这儿遇见你）——一句完全不合场合的英式客套；与 Calvin 在第 14 章初次被 Reggie 用同一句套路（"Knock knock"式幽默）形成呼应。
+**关键词**：Fancy seeing you here（真巧在这儿遇见你）——一句完全不合场合的客套；它在本章由 Calvin 说出，与他此前每次用玩笑垫住恐惧的习惯一致（第 34 章把这场救援读成"这不是泰坦尼克号"的也是他）。
 
 **为什么这样写**：作者拒绝给救援配一段慷慨陈词：他下到深渊的第一句话是句社会性废话。这既符合两人的相处方式，也把整章的紧张降下来——她的安全从他开口那一刻就定了。
 
@@ -109,9 +109,9 @@ modified: "2026-09-20"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | grim | /ɡrɪm/ | 严肃的；阴沉的 | "I can see his face, expression grim, brows creased with worry." |
-| clench | /klentʃ/ | 攥紧 | "I can't convince my fingers to unclench from my handhold" |
+| unclench | /ʌnˈklentʃ/ | 松开（攥紧的手） | "I can't convince my fingers to unclench from my handhold" |
 | unbroken | /ʌnˈbroʊkən/ | 不间断的 | "an unbroken tether to pull me back to them" |
-| mingles | /ˈmɪŋɡlz/ | 混合；交织 | "Identical expressions of relief mingle with panic on all of their faces." |
+| mingle | /ˈmɪŋɡl/ | 混合；交织 | "Identical expressions of relief mingle with panic on all of their faces." |
 | belay | /bɪˈleɪ/ | （攀岩）保护；确保 | "On Belay"（章名） |
 
 ### ⭐ 基础

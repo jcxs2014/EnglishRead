@@ -16,7 +16,7 @@ modified: "2026-09-20"
 
 **人物弧线**：Reggie 第一次承认自己在真正的危险面前会僵住——"Turns out I freeze like a fawn"——她引以为傲的强悍被证伪；同时她对 Eldi 的保护欲压过了瘫痪，这是本章真正的成长点。
 
-**叙事手法**：先以"实验清单"式罗列压缩时间，再用逐秒慢放的夜戏拉长张力；借 Reggi 的魔法讲堂完成世界观铺陈，把设定交代藏进对白，避免说明文腔。
+**叙事手法**：先以"实验清单"式罗列压缩时间，再用逐秒慢放的夜戏拉长张力；借 Reggie 的魔法讲堂完成世界观铺陈，把设定交代藏进对白，避免说明文腔。
 
 ---
 
@@ -62,7 +62,7 @@ modified: "2026-09-20"
 
 **中文理解**："魔法真正的危险在于沉溺其中，迷失在它的深处、独自一人。你需要人，需要锚，让你保持为人、留在人间这一侧。"
 
-**关键词**：tethers（锚）、earth-side（人间这一侧）——tethering 是本书魔法体系的核心机制，也是 Reggie 孤独状态的计量单位：她曾"像世界上最会寄生的生物"一样锚定任何人，如今却无人可锚。
+**关键词**：tethers（锚）、earth-side（人间这一侧）——锚定这一机制是本书魔法体系的核心，也是 Reggie 孤独状态的计量单位：她曾说自己像世界上最会寄生的生物、可以锚定任何人，如今却无人可锚。
 
 **为什么这样写**：这一段把奇幻设定与人物处境叠成一体——魔法危险的原因恰好是她此刻的处境（孤身一人）。设定即人物，这是本作最经济的一处设计。
 
@@ -133,7 +133,7 @@ modified: "2026-09-20"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| vacuum | /ˈvækjuːm/ | 吸尘器 | "I lock them both inside the Winnebago's depths" |
+| vacuum | /ˈvækjuːm/ | 吸尘器 | "The vacuums are definitely fucking possessed, full of demons." |
 | shadow | /ˈʃædoʊ/ | 影子 | "A patch of shadow breaks away from the darkness" |
 | cupboard | /ˈkʌbərd/ | 橱柜 | "chasing vacuums that kept opening cupboards and drawers" |
 | broom | /bruːm/ | 扫帚 | "I grab for a broom that's propped by the bedroom door" |

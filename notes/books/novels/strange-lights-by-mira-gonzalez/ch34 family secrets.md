@@ -8,7 +8,7 @@ modified: "2026-09-20"
 
 ## 本章导航
 
-**一句话总结**（导航用）：回到当下时间线：Adele 在地牢里当众点名 Reggie 的身份，抛出三姐妹之间"谁是告密者"的问题；而真相是——告密的不是妹妹，是 Calvin；送 Eldi 来的却是 Zara。
+**一句话概括**：回到当下时间线：Adele 在地牢里当众点名 Reggie 的身份，抛出三姐妹之间"谁是告密者"的问题；而真相是——告密的不是妹妹，是 Calvin；送 Eldi 来的却是 Zara。
 
 **一句话概括**：地牢对峙——Adele 逼 Reggie 指认告密者，三姐妹用互相攻击的方式掩护彼此，直到最后点破：Meredith 一直在给她递消息，Zara 把 Eldi 送给了她；而真正向 Adele 泄密的人是 Calvin。
 
@@ -78,7 +78,7 @@ modified: "2026-09-20"
 
 **关键词**：That's not how love works（爱不是这么回事）——一个刚被关进笼子、刚被指控背叛的人，用一句话替 Reggie 顶回母亲；这也是他全书最直接的一次介入。
 
-**为什么这样写**：作者把 Calvin 放在本章最没有筹码的位置上，却让他说出唯一的道德判断句。这与他在第 31 章"我不信你是那种人"是同一套人物功能：在别人都闭嘴的时候说一句普通人的常识。
+**为什么这样写**：作者把 Calvin 放在本章最没有筹码的位置上，却让他说出唯一的道德判断句。这与他在第 14 章（md ch16）那句"我不信你是那种人"是同一套人物功能：在别人都闭嘴的时候说一句普通人的常识。
 
 **读者视角提示**：注意他此前刚被揭发泄密——他仍有资格说这句话，因为他没有为自己辩解。这一点让他与 Adele 的区别变得清晰。
 
@@ -88,7 +88,7 @@ modified: "2026-09-20"
 
 **中文理解**：一头披着人皮的野兽，正如很久以前那个男孩说她的那样。
 
-**关键词**：that boy（那个男孩）——回忆线与当下线在这里完成交接：多年前评断 Adele 的那句话，此刻被主角亲眼验证，而说那句话的孩子如今正被这个人当筹码。
+**关键词**：that boy（那个男孩）——回忆线与当下线在这里完成交接：多年前评断 Adele 的那句话，此刻被主角亲眼验证；而说那句话的男孩此刻不在场（他在 Luca 身边），被关进笼子的是 Eldi。
 
 **为什么这样写**：作者用一次跨章的引用把两条时间线缝在一起，且不解释"那个男孩"是谁——对读完回忆线的读者来说，这是一个不需要注释的回指。
 
@@ -127,7 +127,7 @@ modified: "2026-09-20"
 | betrayal | /bɪˈtreɪəl/ | 背叛 | "I'm swimming through so many layers of betrayal, I don't know what to feel." |
 | snide | /snaɪd/ | 挖苦的；讥讽的 | "her sarcasm thinly disguised in the snide remark" |
 | incompetent | /ɪnˈkɒmpɪtənt/ | 无能的；不称职的 | "When has Zara ever been competent?" |
-| mockingly | /ˈmɒkɪŋli/ | 嘲弄地 | "she says in a mocking tone" |
+| mocking | /ˈmɒkɪŋ/ | 嘲弄的；讥讽的 | "Adele says, in a mocking tone." |
 | shivers | /ˈʃɪvərz/ | 战栗 | "a deep noise that sends shivers up my spine" |
 
 ### ⭐ 基础

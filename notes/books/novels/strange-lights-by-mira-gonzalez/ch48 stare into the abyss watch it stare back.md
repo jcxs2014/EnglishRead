@@ -40,7 +40,7 @@ modified: "2026-09-20"
 
 **关键词**：Let her go（放开她）——四个字的指令与全书的"不要松手"直接对立；而它同时是那句"Let go"的变化：从"放开"到"放开她"。
 
-**为什么这样写**：作者让全书最重要的道德抉择以祈使句形式出现三次（"Let go."重复四次），且明确点明不只她一个人听见——连 Adele 都说"You're here"。声音不再是她私人的幻觉。
+**为什么这样写**：作者让全书最重要的道德抉择以同一句祈使句出现五次（"Let go."/"Let her go."，其中四处独立成行），且明确点明不只她一个人听见——连 Adele 都说"You're here"。声音不再是她私人的幻觉。
 
 **读者视角提示**：注意她第一次拒绝时的理由："我抓住她这么久了，我现在不会放弃。"她的固执在此既是最坏的习惯，也是唯一支撑她的东西。
 
@@ -102,7 +102,7 @@ modified: "2026-09-20"
 
 **为什么这样写**：作者把最后一章的悬念交给这一句：她不是靠自己爬回去的，也不是被神迹救回的——是被"不放她走的人"拽回去的。全书关于锚的设定在结局处变成了字面意义上的拖拽。
 
-**读者视角提示**：这一句与第 44 章 Luca 的"我们就是救生艇"形成完整的双向确认：她在下面被告知"他们在找你"，他们在上面正把绳子放下来。
+**读者视角提示**：这一句与第 43 章（md ch47）Luca 那句"Man the lifeboats! We're the lifeboats!"形成完整的双向确认：她在下面被告知"他们在找你"，他们在上面正把绳子放下来。
 
 ---
 
@@ -133,7 +133,7 @@ modified: "2026-09-20"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | sword | /sɔːrd/ | 剑 | "The first thing I do is drop that awful sword" |
-| hand | /hænd/ | 手 | "Her fingers are slipping from mine." |
+| hand | /hænd/ | 手 | "I struggle for a hold with my free hand" |
 | fall | /fɔːl/ | 坠落 | "Down, down, down we fall, my mother and I." |
 | home | /hoʊm/ | 家 | "It feels like home." |
 | tears | /tɪrz/ | 眼泪 | "Something soft strokes my face, wipes away my tears" |
