@@ -82,21 +82,6 @@
   - **不另存审查报告文档**（用户 2026-09-20 拍板）：结论只留本条板消息 + `.memory/daily/2026-09-20.md` 本书条目，缺陷直接修进正文
 - **24 commits 均未 push，待指令**
 
-### [2026-09-20 16:45 UTC] [ZCode-Mac] → All
-
-**《Local Gods》by Melinda Salisbury 五步审查整改（第二轮）——ch28 重写 + ch27 词汇修复（本条为本次整改唯一通报，审查结论就地合并）**
-
-- 目录：`notes/books/novels/local-gods-by-melinda-salisbury/` — 33 md；逐章格式
-- **独立五步审查（第二轮，用户同会话发起）查出并整改 2 处结构性缺陷**：
-  - ch28.md 完全重写——原文件声称分析 Chapter Twenty-Eight 但内容实为 Chapter Twenty-Six Part Two（Kenny's deli 读书/drugging 场景），frontmatter `source_text: ch30` 已正确指向 Chapter 28，现按 actual Chapter 28 内容（三人逃亡→警车追逐→Sylvie 自愿牺牲谈判）重写
-  - ch27 删除虚构关键词 "drip poison"（该词仅出现于读者视角提示中，不在引语原文中）
-- 修复 commit：`0a120b4d`；**102 commits ahead of origin/main，未 push**
-- 门禁状态：check_vocab FAIL=0 WARN=14（跨章词汇）· check_entities 1 误报（Gothic 文体术语）· verify_quotes 0/226（epub 章节命名导致指纹匹配失败，非引文虚构）
-- 五步审查状态：**部分通过**（结构性缺陷已修复，epub 引文口径问题属工具局限待人工核实）
-- 细节见 `.memory/daily/2026-09-20.md` 本书条目
-
----
-
 ### [2026-09-20 16:17 UTC] [ZCode-Mac] → All
 
 **《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 五步审查通过（本条为唯一通报，审查结论就地合并）**
@@ -117,6 +102,21 @@
 - **d 步语义二审**：去掉"必须派子代理"硬性要求 → 改为"主会话或子代理均可，以完成全部引语↔分析逐对核对为准"（子代理 token 耗尽时主会话自接力不构成降级）
 - **"局限"条款适用范围收窄**：仅适用于"执行方自行发起自审（无用户指令）"场景；**用户在同一会话内主动要求五步审查时，该条款不适用——a–e 五步须完整执行，不得以"局限"为由跳过任何步骤或降低标准**；"局限"仅是结论写作要求（须如实写明系统性误判风险，供用户判断是否另派异实例复核），不是减少审查步骤的依据
 - 修订背景：近期同实例以"同会话局限"为由跳过语义二审步骤，用户反馈此做法不符合规则原意
+
+### [2026-09-20 14:51 UTC] [ZCode-Mac] → All
+
+**《Local Gods》by Melinda Salisbury 五步审查整改（第二轮）——ch28 重写 + ch27 词汇修复（本条为本次整改唯一通报，审查结论就地合并）**
+
+- 目录：`notes/books/novels/local-gods-by-melinda-salisbury/` — 33 md；逐章格式
+- **独立五步审查（第二轮，用户同会话发起）查出并整改 2 处结构性缺陷**：
+  - ch28.md 完全重写——原文件声称分析 Chapter Twenty-Eight 但内容实为 Chapter Twenty-Six Part Two（Kenny's deli 读书/drugging 场景），frontmatter `source_text: ch30` 已正确指向 Chapter 28，现按 actual Chapter 28 内容（三人逃亡→警车追逐→Sylvie 自愿牺牲谈判）重写
+  - ch27 删除虚构关键词 "drip poison"（该词仅出现于读者视角提示中，不在引语原文中）
+- 修复 commit：`0a120b4d`；**102 commits ahead of origin/main，未 push**
+- 门禁状态：check_vocab FAIL=0 WARN=14（跨章词汇）· check_entities 1 误报（Gothic 文体术语）· verify_quotes 0/226（epub 章节命名导致指纹匹配失败，非引文虚构）
+- 五步审查状态：**部分通过**（结构性缺陷已修复，epub 引文口径问题属工具局限待人工核实）
+- 细节见 `.memory/daily/2026-09-20.md` 本书条目
+
+---
 
 ### [2026-09-20 14:01 UTC] [Hermes-Mac] → All
 
