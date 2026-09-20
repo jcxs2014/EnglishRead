@@ -30,6 +30,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这句话是 Reggie 对自己神秘处境的隐喻——她也被某种力量"需要"而来（像 Eldi 出现在她门口），所以她尊重神秘、接受不确定性。Winnie 与 Eldi 都是她无法完全理解但依赖的存在。
 
+**读者视角提示**：把“被需要”读成庇护而非诅咒，是 Reggie 全书的心理底色；留意她谈 Eldi 时语气如何从抱怨滑向柔软。
+
 ---
 
 > **原句 2:** My scant few hours of shut-eye were haunted by images of lights in the night sky and ethereal voices calling for me to look up.
@@ -39,6 +41,8 @@ modified: "2026-09-20"
 **关键词**：ethereal voices（空灵的声音）、look up（向上看）——"lights in the night sky"与第52行"lights in the night sky"呼应，暗示外星人/UFO 是 Reggie 真正任务的线索；这是本书的核心悬念钩子。
 
 **为什么这样写**：这是 Reggie 最脆弱的时刻之一——她被无法控制的神秘力量召唤所困扰，而 Calvin 这样的理性主义者恰恰是她需要的表面掩护。"look up"既指字面上的仰望天空，也暗示她被迫面对自己不愿面对的真相。
+
+**读者视角提示**：记下她对“理性主义者”的双面态度——既嗤之以鼻又需要这层掩护，这一矛盾在后文反复出现。
 
 ---
 
@@ -50,6 +54,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这一句是 Calvin 和 Reggie 关系的核心定义，也是全书幽默感的来源——Calvin 自以为在 debunking，实际上在帮 Reggie 散布误导信息；这种讽刺是黑色喜剧的核心。
 
+**读者视角提示**：记住这个信息差设定：Calvin 自以为在揭穿，实际在帮 Reggie 散布误导，全书的笑点大半建立于此。
+
 ---
 
 > **原句 4:** Calvin is, inadvertently, part of a misinformation front, keeping the world of creatures and magic safely hidden. He works for my end goals without knowing it.
@@ -59,6 +65,8 @@ modified: "2026-09-20"
 **关键词**：misinformation front（虚假信息网络前哨）——Reggie 故意在 Calvin 的信息渠道里植入误导，让他帮他达到隐藏超自然存在的目的。
 
 **为什么这样写**：这是全章最大的讽刺反转——Calvin 自认为在"揭露真相"，实际上在帮 Reggie 掩盖真相。"without knowing it"是双重讽刺：Calvin 不知道他在帮 Reggie，Reggie 也不完全知道超自然世界的全貌。
+
+**读者视角提示**：“without knowing it”是双层的——读者知道的比 Calvin 多，却比 Reggie 少，这种不对称正是悬念引擎。
 
 ---
 
@@ -70,6 +78,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是 Reggie 少数直接袒露内心的时刻之一——她需要 tangible evidence 来确认自己的存在，这与"我可能是被召唤来的"（ch01）的存在焦虑形成共鸣。tattoo 也是 Eldi 的 doodle——说明 Eldi 已经是她身份的一部分。
 
+**读者视角提示**：Reggie 需要用身体证据确认自己真实存在，这条线在她之后每次受伤时都会回来。
+
 ---
 
 > **原句 6:** It’s as if the mark my life experiences leave in this beautiful way somehow counteracts all the emotional scars I rack up along the journey.
@@ -80,6 +90,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：纹身作为心理防御机制的文学化表达，与"疼痛让我确信自己真实存在"（第82行）呼应——Reggie 需要身体层面的疼痛来对抗情感层面的麻木。她的创伤史与她的超自然使命可能有关（"被召唤"）。
 
+**读者视角提示**：纹身不是装饰而是自伤式的存在确认，注意她的疼痛耐受被写成了性格的一部分。
+
 ---
 
 > **原句 7:** "Dead," Eldi says ominously. I choke on my coffee, torn between annoyance and hysterical laughter.
@@ -89,6 +101,8 @@ modified: "2026-09-20"
 **关键词**：ominously（阴森森地）——Eldi 对 Goat 的介绍制造了双重幽默：一是"Dead"这个阴森森的词从 toddler 嘴里说出来，二是 Calvin 完全不知道 Goat 是只 stuffed toy。
 
 **为什么这样写**：这是本章最搞笑的场景之一。Eldi 的 deadpan 幽默与她作为 Chupacabra 的真实身份形成反差——她说的每个字都是真的，但没人当真。Reggie"呛咖啡"是她消化这种荒诞的标准反应。
+
+**读者视角提示**：Eldi 说真话却没人当真，这个结构会延续全书——读者是她唯一的“知情者”。
 
 ---
 

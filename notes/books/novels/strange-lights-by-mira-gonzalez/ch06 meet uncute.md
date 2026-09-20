@@ -30,6 +30,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是本章的情感核心句之一——Reggie 意识到与 Calvin 不可能只是 casual encounter，因为他的身份意味着他们之间永远会有职业道德观的冲突。"snorted beer up my nose"这个生理反应揭示了她有多在乎。
 
+**读者视角提示**：回溯叙事的甜味在于读者已知两人现在的关系：看他们在起点互不相让反而更好笑。
+
 ---
 
 > **原句 2:** "I know exactly who you are," Calvin said. It sounded like an accusation.
@@ -39,6 +41,8 @@ modified: "2026-09-20"
 **关键词**：accusation（指控）——Calvin 之前在播客里点名批评过 Reggie；现在面对面的相遇充满了敌意，因为 Calvin 认为她 spread misinformation。
 
 **为什么这样写**：这是两人关系的转折点——Calvin 知道 Reggie 是谁，但 Reggie 知道他知道后反而 in his face 地回应。这种亦敌亦友的动态在这里建立。
+
+**读者视角提示**：“我知道你是谁”这句在两人关系的每个阶段都会换一种形式回来。
 
 ---
 
@@ -50,6 +54,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是 Reggie 少数主动出击的时刻——她不是被动防守，而是直接攻击 Calvin 方法论的漏洞。她的问题也暗示了 Calvin 最终会发现他无法解释 Eldi。
 
+**读者视角提示**：这是 Reggie 唯一一次在专业场域主动进攻 Calvin，记住这个姿态——后文会反转成保护。
+
 ---
 
 > **原句 4:** The haunting turned out to be nonexistent, as I expected. A few recordings of the scratching noises coming from inside the walls and the rattling that reverberated around the house were the only concrete evidence Charlotte could offer.
@@ -60,6 +66,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这个案例与后文 Reggie 的真实使命形成对比——Charlotte 的"ghost"是心理性的，但 Reggie 真正在隐藏的是实际的超自然存在。这种对比强化了 Reggie 的困境：她在保护一个真实存在的世界，却要假装在 debunking 假的。
 
+**读者视角提示**：Charlotte“付钱买安心”是本书反复出现的伦理结构：Reggie 卖的不是真相而是安慰。
+
 ---
 
 > **原句 5:** Goat was much cleaner back in those days. He still had both shiny black eyes, and his coat was clean, a pristine white.
@@ -69,6 +77,8 @@ modified: "2026-09-20"
 **关键词**：pristine white（洁白无瑕）——Goat 从 Charlotte 那里获得，成为 Eldi 最珍爱的 possessions；从白到 mottled gray 的变化是时间和 Eldi 的爱的物理证明。
 
 **为什么这样写**：这是本章最感性的时刻——Goat 的描述与现在的 Goat（"mottled gray, and he has only one eye"）形成对比，暗示时间、旅途和 Eldi 与 Reggie 的生活在这只 stuffed goat 上留下的痕迹。这是全书中少有的纯粹温情时刻。
+
+**读者视角提示**：Goat 是全书的情感信物，注意它每次出现时 Reggie 的语气都会软一点点。
 
 ---
 

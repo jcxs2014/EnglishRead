@@ -30,6 +30,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：Calvin 自认为在 debunking，却不自觉地将真正存在的超自然生物（Chupacabra）与宠物狗联系起来。他的"debunking"反而让真正的 cryptid 更难被严肃对待——这正是 Reggie 想要的效果。
 
+**读者视角提示**：读者比 Calvin 多知道一层真相：每读一句他的“科学解释”，都要在脑中替换成 Reggie 眼里的实情。
+
 ---
 
 > **原句 2:** Almost all the reports tell of a similar creature. Reptile-like with glowing red eyes and grayish, scaly skin. Some even claim it's beautiful, with an iridescent tone to its scales.
@@ -39,6 +41,8 @@ modified: "2026-09-20"
 **关键词**：iridescent（彩虹色的；闪光的）——这个词暗示 Chupacabra 的真实外观与 cryptozoology 报告描述的高度一致，而 Calvin 却用"hairless dogs"来解释。
 
 **为什么这样写**：Calvin 在这里描述的与 Reggie 照顾的 Eldi（chupacabra toddler）的特征高度吻合——但 Calvin 完全不知道。iridescent 是科学术语，也是 cryptozoology 文献中的常用描述，Calvin 把它当作"过度想象"的证据。
+
+**读者视角提示**：盯住 iridescent 这类科学词汇——作者把它做成双面刃：Calvin 的语言越精确越接近真相，而他自己毫不知情。
 
 ---
 
@@ -50,6 +54,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：Calvin 的"rational explanation"是错的，但他相信自己的逻辑。这种认知差距是本书的核心张力：理性主义者 Calvin 越努力 debunking，越帮助 Reggie 掩盖真相。
 
+**读者视角提示**：本章是元叙事样本，读时可以数一数 Calvin 的判断正确与错误的比率。
+
 ---
 
 > **原句 4:** I know I said "to the untrained eye," but honestly, even to the trained eye, if you're looking for the Chupacabra, you're going to find it.
@@ -60,6 +66,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：Calvin 用 confirmation bias 解释 Chupacabra 目击报告的一致性，但这个逻辑也可以反向应用—— Calvin 自己的 debunking 也受到确认偏误的影响：他不想相信超自然存在，所以他总是能找到" mundane"的解释。这是元文本层面的讽刺。
 
+**读者视角提示**：确认偏误这一段值得反复读——它同时是对怀疑论者的批评和对叙事者自我的提醒。
+
 ---
 
 > **原句 5:** It's always going to be something mundane, not monstrous.
@@ -69,6 +77,8 @@ modified: "2026-09-20"
 **关键词**：mundane（平凡的）——Calvin 的口头禅，也是他的信仰核心：平凡解释一切，超自然不存在。但 Eldi 就睡在上方的小 loft 里。
 
 **为什么这样写**：这是 Calvin 全章最讽刺的一句话——因为在 Reggie 的世界里，真的有 monstrous creatures，而 Calvin 的"debunking"实际上在帮它们隐藏。"mundane, not monstrous"是本书的 inversed reality。
+
+**读者视角提示**：记住这组对照：后文每次出现真实的怪物，都可以拿它来测 Calvin 的盲区。
 
 ---
 

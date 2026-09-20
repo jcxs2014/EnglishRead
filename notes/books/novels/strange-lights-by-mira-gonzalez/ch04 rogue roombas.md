@@ -30,6 +30,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：Calvin 的内容驱动思维与 Reggie 的任务导向形成喜剧张力。他抱怨"没有节目素材"，而 Reggie 正在处理真正的问题。这种价值观差异是两人关系的核心摩擦点。
 
+**读者视角提示**：两人的价值观分歧从第一章就摆上台面，后文每次合作都会回到这个摩擦点。
+
 ---
 
 > **原句 2:** The vacuum glides up to my feet, and Eldi steps carefully off it, raising her hands to me. "Mine," she says as I scoop her up.
@@ -39,6 +41,8 @@ modified: "2026-09-20"
 **关键词**：Mine（我的）——Eldi 对扫地机器人的占有欲；这个词暗示了扫地机器人与 Eldi 之间有某种联系（后文揭示它们都似乎被 Eldi 吸引）。
 
 **为什么这样写**：这是本章最重要的悬念句。Eldi 说"Mine"时 Reggie 的反应是"split-second decision"要得到这台机器——她的直觉比理性更快。扫地机器人似乎与 Eldi 有某种超自然联系，这指向更深的世界观谜团。
+
+**读者视角提示**：Eldi 的“我的”是本章最强钩子，留意之后每次她与神秘物件互动时的同类反应。
 
 ---
 
@@ -50,6 +54,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：本章把"符号+声音"两条线索并置，却不给答案——Reggie 自己也"can't remember where"见过。这种延迟揭示让扫地机器人的谜团与 Eldi 的身世并轨：两者都指向同一个她尚未握住的世界观真相。
 
+**读者视角提示**：符号与声音是长线伏笔，记住“look, listen”这句指令，它在后文会以别的形式重来。
+
 ---
 
 > **原句 4:** "Watch out, that thing's dangerous!" he yelps as the vacuum suddenly whirs to life and whizzes straight over to Eldi.
@@ -60,6 +66,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是全章最喜剧性的场景——大人们惊慌失措，Eldi 却在 pets 扫地机器人如抚摸一只猫。这种反差是本书的核心笑点：真正危险的事物往往外表可爱。
 
+**读者视角提示**：喜剧反差（大人惊慌、孩子坦然）是本书语气样本：危险总以可爱外形出现。
+
 ---
 
 > **原句 5:** "This thing is different," the man insists. "It's not a normal vacuum." He's grabbed a spatula and a pan lid off the counter, holding them in front of himself like a sword and shield.
@@ -69,6 +77,8 @@ modified: "2026-09-20"
 **关键词**：sword and shield（剑和盾）——房主用锅铲和锅盖自卫的画面极度荒诞，与扫地机器人这个平凡物件形成喜剧反差。
 
 **为什么这样写**：这是全章最荒诞的意象之一——一个成年人用厨房用具武装自己对抗一台扫地机器人。这种黑色幽默贯穿全书，把超自然恐惧包装在日常生活的荒诞中。
+
+**读者视角提示**：把这场“锅铲对扫地机器人”的对峙记成全书幽默标尺，之后同类场景可对照阅读。
 
 ---
 

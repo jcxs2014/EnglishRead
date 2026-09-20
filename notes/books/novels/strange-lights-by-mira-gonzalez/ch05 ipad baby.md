@@ -30,6 +30,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是神秘信息源的标准风格——用模棱两可的警告让 Reggie 自己判断。附上的 UFO/牛被杀/ crop circles 链接暗示这些现象不是随机事件，而是有关联的。
 
+**读者视角提示**：神秘信息源的每条消息都值得存档：后文会回填它的身份与动机。
+
 ---
 
 > **原句 2:** "It doesn't have a charging port, for one. But it runs anyway. No logos. I looked up every vacuum manual I could find."
@@ -39,6 +41,8 @@ modified: "2026-09-20"
 **关键词**：charging port（充电端口）、no logos（没有商标）——Calvin 尝试用科学方法分析，却发现了完全超出他认知的事物；这对他作为 debunker 的世界观是致命一击。
 
 **为什么这样写**：Calvin 的理性方法论在这里完全失效——没有充电端口、没有商标、无法归类。这与他作为科学主义者的自我认同形成根本冲突。他开始说"maybe"和"perhaps"，这在他之前的语言中从未出现过。
+
+**读者视角提示**：注意 Calvin 的语言从断言滑向“maybe”——这是他世界观裂开的第一道缝。
 
 ---
 
@@ -50,6 +54,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这通电话将危机感 personalizes——不只是神秘现象，而是有人 specifically hunting Eldi。Reggie 的 cold blood 反应说明这触及了她最深层的恐惧：Eldi 的前一个主人（或者创造了 Eldi 的人）在追踪她们。
 
+**读者视角提示**：把“Tell Regina”和 Reggie 从不使用的全名连起来看，这一细节的分量比 Calvin 意识到的重得多。
+
 ---
 
 > **原句 4:** "He'd take her if he found her," I say slowly, making sure I consider what I'm going to say, trying to weave enough truth in order to cover the lies.
@@ -60,6 +66,8 @@ modified: "2026-09-20"
 
 **为什么这样写**：这是 Reggie 少数直接承认危险的时刻——"He"是谁？为什么会"带走"Eldi？Reggie 的叙事策略是 always weave enough truth to cover the lies，这种自我保护机制贯穿全书。
 
+**读者视角提示**：她的半真半假与其说是骗 Calvin，不如说是在保护他；后文他会为知道真相付出代价。
+
 ---
 
 > **原句 5:** "She places her hand on the tablet screen, and a brilliant green light, laser-like, shoots from the top and scans her face up and down."
@@ -69,6 +77,8 @@ modified: "2026-09-20"
 **关键词**：laser-like green light（激光般的绿光）——平板电脑对 Eldi 的扫描揭示了某种生物识别能力；这暗示平板电脑和扫地机器人都是针对 Eldi 设计的。
 
 **为什么这样写**：这是全章最诡异的场景——平板电脑只对 Eldi 解锁并扫描她。"Chicken Little"电影与外星人入侵主题与全书的 UFO 悬念呼应，暗示一个关于外星生物或 UFO 的更大阴谋正在展开。
+
+**读者视角提示**：这一场是全书 UFO 线的锚点：荧绿扫描光与 Eldi 的“身份认证”关系值得记住。
 
 ---
 
