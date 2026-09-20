@@ -90,9 +90,8 @@ source_text: ch28
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| grapple | 搏斗，挣扎 | "She tries to grapple with the anxiety" |
-| resign | 顺从 | "anxiety is replaced with resignation" |
-| absess | 脓肿 | "The wound to their friendship isn't going to heal on its own" |
+| resignation | 顺从 | "anxiety is replaced with resignation" |
+| abscess | 脓肿 | "It's turned into an abscess, one that needs to be drained dry" |
 
 ### ⭐⭐ 进阶
 
@@ -100,7 +99,6 @@ source_text: ch28
 |------|------|------|
 | stakes | 监视 | "stakes out her advisor's office" |
 | avoidance | 回避 | "Arden's avoidance" |
-| crawl | 爬行 | "the bugs crawl over the floorboards" |
 
 ### ⭐ 基础
 

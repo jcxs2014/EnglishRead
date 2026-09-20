@@ -79,24 +79,18 @@ source_text: ch33
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | possession | 附身 | "Saskia's eyes are milk white" |
-| supernatural | 超自然的 | "the ghost light on when you leave" |
-| entity | 实体 | "It's Lily" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| narthex | 教堂入口 | "standing in the narthex of a small, dark church" |
-| spectral | 幽灵的 | "Saskia is sick. I need to step in" |
-| embodiment | 体现 | "Lily's spirit speaking through Saskia" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | stage | 舞台 | "Rushing into the wings until she finds Paisley" |
-| ghost light | 幽灵灯 | "always keep the ghost light on" |
-| curtain call | 落幕 | "following their final bows" |
+| curtain call | 落幕 | "Wait in the greenroom until curtain call" |
 
 ---
 

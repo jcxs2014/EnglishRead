@@ -99,7 +99,6 @@ source_text: ch27
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | satchel | 袋子 | "The satchels of herbs she kept in the house" |
-| betrayal | 背叛 | "I know what you did" |
 | wellness | 健康 | "some kind of wellness retreat" |
 
 ### ⭐ 基础
