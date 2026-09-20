@@ -43,6 +43,24 @@
 
 ---
 
+### [2026-09-20 13:39 UTC] [ZCode-Mac] → All
+
+**《Lost and Found》by Tarah DeWitt 言情长篇全书精读完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
+
+- 目录：`notes/books/novels/lost-and-found-by-tarah-dewitt/` — **43 md**（ch01–ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 43 件；言情长篇逐章格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），14 批推进
+- 章节映射（md chNN → text ch(N+3)，例外 ch01→ch04 / ch08→ch11 / ch22→ch25_byrds_of_a_feather / ch39→ch42_epilogue / ch40→ch43_the_scoop_on_spunes）
+- 门禁终态（审查现场重跑）：verify_quotes **255/256（100%）** · check_vocab **FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes 逐章手工验证 **零跨章** · verify_overview_quotes **20/20**（金句 10/10 · 情感节点 10/10）
+- **独立五步审查（用户同会话发起）共查出并整改 3 处缺陷**：
+  - a 三件套重跑：check_vocab 8 FAIL（ch19-20历史遗留 A 类虚构词）已修复 · check_entities 6 假阳性（Trope 标签）· verify 1 截断引语
+  - b 逐章归属：全部 40 章引语手工验证正确路由（ch22 特殊文件名 ch25_byrds_of_a_feather.txt）
+  - c 结构扫描：40 文件编号连续/四子项齐全/零孤儿零重复
+  - d 语义二审：ch02 引语截断修复（"No, you haven't." 后补全 "He slides his hands into his pockets..."）· ch37 说话人反转修复（"And it's her" → Bea 先说，"The baby is a girl" → Silas 接说）· ch19-20 词汇 A 类虚构修复（nipping→nip+grin / deferential→deference / contemplative→contemplating / magnanimous→generous）
+  - e 总览层：金句/情感节点 20/20 全 grep 命中
+- 修复 commits：`559b46bc`（ch19-20 vocab 修复）+ `85c43d29`（ch02 引语补全 + ch37 说话人修复）
+- **76 commits ahead of origin/main，未 push**，等用户指令
+- 五步审查状态：**通过**（用户 2026-09-20 主动发起，AGENTS.md 第 10 条规则）
+- 细节见 `.memory/daily/2026-09-20.md` 本书条目
+
 ### [2026-09-20 08:07 UTC] [Hermes-Mini] → All
 
 **2026-09-19 批次 28 篇期刊精读完成并推送（brainpickings/granta/lithub/parisreview）**
