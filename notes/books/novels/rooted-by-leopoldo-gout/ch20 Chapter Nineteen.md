@@ -144,37 +144,6 @@ modified: "2026-09-20"
 | shudder | 发抖，战栗 | "She shuddered at the memory" |
 | stilled | 静止，停止 | "Maria's hand stilled on Aurora's hair" |
 | tumble | 翻滚，跌倒 | "Aurora's words tumbled out faster and faster" |
-| cocooned | 包裹，包围 | "cocooned for so long, gripped by an overwhelming compulsion" |
-| overwhelming | 压倒性的，无法抗拒的 | "gripped by an overwhelming compulsion to shield it from the world" |
-| compulsion | 强迫，冲动 | "gripped by an overwhelming compulsion to shield it from the world" |
-| shield | 保护，防护 | "an overwhelming compulsion to shield it from the world" |
-| unresponsive | 无反应的，不响应的 | "You were totally unresponsive" |
-| chalk | 粉笔，白垩 | "chalk up to the earthquake I suppose" |
-| supposed | 假定的，推测的 | "chalk up to the earthquake I suppose" |
-| composed | 镇定的，沉着的 | "trying to look more composed than she felt" |
-| smudges | 污迹，污渍 | "Rusty-brown smudges covered her chest" |
-| ancient | 古代的，古老的 | "Ancient skin and bone dust" |
-| linings | 内衬，衬里 | "the desiccated remnants of the child coated the linings of her lungs" |
-| alcove | 壁龛，凹室 | "a trash can in a maintenance alcove" |
-| retched | 干呕，呕吐 | "retching nothing up but bile" |
-| translucent | 半透明的，透明的 | "translucent, waxy, and impossible" |
-| waxy | 蜡质的，蜡状的 | "translucent, waxy, and impossible" |
-| impossible | 不可能的，难以置信的 | "translucent, waxy, and impossible" |
-| sprouting | 发芽，生长 | "sprouting from a crack in the sidewalk" |
-| hallucinations | 幻觉，妄想 | "These weren't hallucinations" |
-| gust | 阵风，一阵风 | "A hot, dry wind gusted down the street" |
-| skittered | 滑行，掠过 | "The trash skittered and scraped along the concrete" |
-| amplify | 放大，增强 | "the sound amplifying in Aurora's ears until it became a cacophony" |
-| cacophony | 刺耳的声音，杂音 | "became a cacophony of tiny voices, whispering and giggling" |
-| giggling | 咯咯笑，傻笑 | "whispering and giggling" |
-| insistent | 坚持的，反复的 | "the voices grew louder, more insistent" |
-| hissed | 发出嘶嘶声 | "Stop," she hissed, quickening her pace" |
-| marvel | 惊叹，惊讶 | "More pedestrians had stopped to marvel at the phenomenon" |
-| phenomenon | 现象，奇迹 | "marvel at the phenomenon" |
-| fissure | 裂缝，裂痕 | "pressing up through the fissure" |
-| veneer | 饰面，薄板 | "the infrastructure a thin veneer over something ancient and alive" |
-| clenched | 握紧，咬紧 | "It's not real," she insisted through clenched teeth" |
-| supplicants | 祈求者，恳求者 | "their translucent stems bending toward her like supplicants" |
 
 ### ⭐⭐ 进阶
 
@@ -316,17 +285,14 @@ modified: "2026-09-20"
 | today | 今天，现代 | "At the museum today … the mummified child, from inside the statue" |
 | inside | 在……里面 | "from inside the statue" |
 | statue | 雕像，塑像 | "from inside the statue" |
-| holding | 持有，抱着 | "I was holding it. Protecting it" |
 | Protecting | 保护，防护 | "I was holding it. Protecting it" |
 | shuddered | 发抖，战栗 | "She shuddered at the memory" |
 | memory | 记忆，回忆 | "She shuddered at the memory" |
 | happening | 发生，碰巧 | "It's happening again. The visions, the lost time" |
 | again | 再次，又一次 | "It's happening again. The visions, the lost time" |
-| visions | 幻想，幻象 | "The visions, the lost time" |
 | lost | 失去的，丢失的 | "The visions, the lost time" |
 | time | 时间，次数 | "The visions, the lost time" |
 | little | 小的，年幼的 | "Just like when I was little" |
-| faster | 更快的，更快的 | "Aurora's words tumbled out faster and faster" |
 | covered | 覆盖，包括 | "but she was covered in blood" |
 | blood | 血，血液 | "but she was covered in blood" |
 | therapist | 治疗师，理疗师 | "My therapist was right. I should have listened to him" |
@@ -337,7 +303,6 @@ modified: "2026-09-20"
 | knowing | 知道，了解 | "not knowing what's real" |
 | broke | 打破，断裂 | "Her voice broke" |
 | shifted | 转移，改变 | "Maria's face shifted, something ancient and familiar settling over her features" |
-| ancient | 古代的，古老的 | "something ancient and familiar settling over her features" |
 | familiar | 熟悉的，常见的 | "something ancient and familiar settling over her features" |
 | settling | 安顿，解决 | "something ancient and familiar settling over her features" |
 | features | 特征，特点 | "something ancient and familiar settling over her features" |
@@ -380,16 +345,7 @@ modified: "2026-09-20"
 | burned | 燃烧，烧毁 | "that burned through her veins" |
 | through | 通过，穿过 | "that burned through her veins" |
 | veins | 血管，静脉 | "that burned through her veins" |
-| seen | 看见，看到 | "I'd seen this before—the coughing, the fevers, the way Maria winced when fabric touched certain parts of her skin" |
-| before | 以前，之前 | "I'd seen this before—the coughing, the fevers, the way Maria winced when fabric touched certain parts of her skin" |
-| fevers | 发烧，发热 | "the coughing, the fevers, the way Maria winced when fabric touched certain parts of her skin" |
-| winced | 畏缩，退缩 | "the way Maria winced when fabric touched certain parts of her skin" |
-| touched | 触摸，接触 | "when fabric touched certain parts of her skin" |
-| certain | 某些，确定的 | "when fabric touched certain parts of her skin" |
-| parts | 部分，零件 | "when fabric touched certain parts of her skin" |
-| same | 相同的，同样的 | "The same pattern that had taken Teresa" |
-| pattern | 模式，图案 | "The same pattern that had taken Teresa" |
-| taken | 拿，取 | "The same pattern that had taken Teresa" |
+| seen | 看见，看到 | "She'd seen this before—the coughing, the fevers, the way Maria winced when fabric touched certain parts of her skin." |
 | dangerous | 危险的，不安全的 | "Stop it," Aurora said, her voice low and dangerous" |
 | low | 低的，矮的 | "her voice low and dangerous" |
 | confusion | 困惑，混乱 | "Maria looked up, confusion etched across her face" |
@@ -410,17 +366,8 @@ modified: "2026-09-20"
 | only | 只，仅仅 | "It's only gotten worse since you went to the doctor" |
 | gotten | 得到，获得 | "It's only gotten worse since you went to the doctor" |
 | worse | 更坏的，更差的 | "It's only gotten worse since you went to the doctor" |
-| doctor | 医生，博士 | "since you went to the doctor" |
-| either | 任何一个，两者之一 | "Either the antibiotics aren't working or you're just not taking them" |
-| antibiotics | 抗生素 | "Either the antibiotics aren't working or you're just not taking them" |
-| working | 工作，运转 | "Either the antibiotics aren't working or you're just not taking them" |
 | taking | 拿，取 | "or you're just not taking them" |
 | saw | 看见，看到 | "I saw the rash on your back yesterday" |
-| rash | 皮疹，疹 | "I saw the rash on your back yesterday" |
-| back | 背部，后面 | "I saw the rash on your back yesterday" |
-| yesterday | 昨天，近日 | "I saw the rash on your back yesterday" |
-| same | 相同的，同样的 | "The same one abuela had before she—" |
-| abuela | 奶奶，外婆 | "The same one abuela had before she—" |
 | finish | 完成，结束 | "Aurora couldn't finish the sentence, her throat closing around the words" |
 | sentence | 句子，判决 | "Aurora couldn't finish the sentence, her throat closing around the words" |
 | closing | 关闭，封闭 | "her throat closing around the words" |
@@ -611,13 +558,11 @@ modified: "2026-09-20"
 | exhaustion | 疲惫，衰竭 | "a face etched with exhaustion and something deeper—a resignation that made her look suddenly ancient" |
 | deeper | 更深的，更深层的 | "something deeper—a resignation that made her look suddenly ancient" |
 | resignation | 顺从，听任 | "a resignation that made her look suddenly ancient" |
-| ancient | 古代的，古老的 | "made her look suddenly ancient" |
 | suddenly | 突然地，忽然 | "made her look suddenly ancient" |
 | hide | 隐藏，隐瞒 | "Mothers always hide things from their children" |
 | children | 儿童，孩子们 | "Mothers always hide things from their children" |
 | barely | 仅仅，几乎不 | "her voice barely audible over the distant street noise filtering through the windows" |
 | audible | 听得见的，可听见的 | "her voice barely audible over the distant street noise filtering through the windows" |
-| distant | 遥远的，远处的 | "the distant street noise filtering through the windows" |
 | street | 街道，大街 | "the distant street noise filtering through the windows" |
 | noise | 噪音，嘈杂声 | "the distant street noise filtering through the windows" |
 | filtering | 过滤，筛选 | "filtering through the windows" |
@@ -631,7 +576,6 @@ modified: "2026-09-20"
 | coursing | 流动，奔涌 | "disbelief coursing through her veins" |
 | After | 在……之后 | "After everything—the certificate, the visions—this was all Maria would give her?" |
 | certificate | 证书，证明 | "the certificate, the visions—this was all Maria would give her?" |
-| visions | 幻想，幻象 | "the certificate, the visions—this was all Maria would give her?" |
 | give | 给，给予 | "this was all Maria would give her?" |
 | hollow | 空洞的，空的 | "This hollow platitude masquerading as wisdom?" |
 | platitude | 陈词滥调，老生常谈 | "This hollow platitude masquerading as wisdom?" |
@@ -640,7 +584,6 @@ modified: "2026-09-20"
 | rose | 玫瑰，玫瑰花 | "Aurora's voice rose" |
 | Protect | 保护，防护 | "Protect me from what?" Aurora demanded, her hands clenching into fists at her sides" |
 | demanded | 要求，需要 | "Aurora demanded, her hands clenching into fists at her sides" |
-| clenching | 握紧，咬紧 | "her hands clenching into fists at her sides" |
 | fists | 拳头，拳 | "her hands clenching into fists at her sides" |
 | sides | 侧面，旁边 | "at her sides" |
 | truth | 真理，真相 | "From the truth? How is that protection?" |
@@ -652,7 +595,6 @@ modified: "2026-09-20"
 | consumed | 消耗，耗尽 | "but Aurora was too consumed by fury to feel sympathy" |
 | fury | 愤怒，狂怒 | "but Aurora was too consumed by fury to feel sympathy" |
 | sympathy | 同情，怜悯 | "to feel sympathy" |
-| hissed | 发出嘶嘶声 | "I don't need your protection. I need honesty" |
 | honesty | 诚实，正直 | "I need honesty" |
 | shook | 摇动，震动 | "Maria just shook her head slowly, tears streaming down her hollow cheeks" |
 | head | 头，头部 | "Maria just shook her head slowly, tears streaming down her hollow cheeks" |
