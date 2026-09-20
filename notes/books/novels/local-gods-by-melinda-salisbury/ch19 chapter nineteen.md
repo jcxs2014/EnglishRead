@@ -105,7 +105,7 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 13:** "Sylvie punches in the number, relieved when it connects. It rings and rings, and on the eighth ring, someone answers."
+> **原句 13:** "She punches in the number, relieved when it connects. It rings and rings, and on the eighth ring, someone answers."
 
 **中文理解**："Sylvie 拨出号码，当电话接通时松了口气。电话响了又响，第八声时，有人接了。"
 
@@ -123,7 +123,7 @@ modified: "2026-09-20"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| skulking | 躲躲闪闪地走；潜行 | "staying out of the way, skulking by the masks and books" |
+| skulking | 躲躲闪闪地走；潜行 | "Sylvie stays out of the way, skulking by the masks and books when the half hour and hour approach and customers leave and arrive." |
 | hemmed | 用...镶边；用...包围 | "a short pleated skirt hemmed with safety pins" |
 | stills | 使静止；使平静 | "Esme stills, only for a moment, but it's a tell." |
 
@@ -132,7 +132,7 @@ modified: "2026-09-20"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | pleated | 打褶的；有褶饰的 | "a short pleated skirt" |
-| attitude | attitude；态度 | "Esme, you can alter your attitude. It's not okay to speak to people like that." |
+| attitude | 态度 | "Sylvie is tired of the attitude." |
 | shaking | 颤抖；抖动 | "In Kenny's hand, the knife is shaking." |
 
 ### ⭐ 基础

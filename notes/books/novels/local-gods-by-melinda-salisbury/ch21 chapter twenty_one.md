@@ -133,15 +133,15 @@ modified: "2026-09-20"
 |------|------|------|
 | recoil | 退缩；往后坐 | "Sylvie recoils because he's never, ever, spoken to her like that before" |
 | cracking | 破裂；断裂 | "her voice cracking. 'That's your goodbye?'" |
-| vanish | 消失；消散 | "Logan's smile a little dimmer, vanishing toward the kitchen." |
+| vanish | 消失；消散 | "Be with you soon, Logan says, his smile a little dimmer, vanishing toward the kitchen." |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pocket | 口袋 | "Adam pulls out his wallet from his pocket" |
-| sandwich | 三明治 | "Logan arrives with their food" |
-| bathroom | 浴室；厕所 | "I need the bathroom." |
+| wallet | 钱包 | "Adam pulls out his wallet, a tatty brown thing with peeling leather." |
+| pocket | 口袋 | "Hunter is already pulling his wallet from his pocket." |
+| sandwich | 三明治 | "Logan arrives with their food, placing it before them with a flourish." |
 
 ---
 

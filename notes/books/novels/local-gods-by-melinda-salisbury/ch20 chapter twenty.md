@@ -81,9 +81,9 @@ modified: "2026-09-20"
 
 ---
 
-> **原句 19:** "'It's work. I have to collect some stuff for Zelda,' Sylvie lies. 'Some guy who carves little statues for altars.'"
+> **原句 19:** "No, I told you, it's work. I have to collect some stuff for Zelda," she lies. "Some guy who carves little statues for altars."
 
-**中文理解**："'是工作。我得帮 Zelda 取点东西，' Sylvie 撒谎说。'有个家伙雕刻小雕像用于祭坛。'"
+**中文理解**："'不，我跟你说过了，是工作。我得帮 Zelda 取点东西，' 她撒谎说。'有个雕刻祭坛小雕像的家伙。'"
 
 **关键词**：collect some stuff for Zelda, carves little statues for altars
 
