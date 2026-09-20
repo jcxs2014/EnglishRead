@@ -76,6 +76,18 @@
 2. **重要语法**：There is a silence... where... 定从；反问 What... would...；for 并列。
 3. **写作技巧**：以"untrammeled space"将孤独写为空间条件；用"howled"写渴求之强烈；引用多位作家构建"孤独典范"。
 
+
+## 长难句专项
+**原句 1:** What (you might ask yourself) would a solitude be that didn't have some greatness to it? For there is only one solitude, and it is large and not easy to bear.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** "Give me solitude," Whitman howled, "give me again O Nature your primal sanities!"
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "an untrammeled space where the inner voice grows free to speak"（以空间写孤独功能）
 - "It comes almost all the time when you'd gladly exchange it for any togetherness"（悖论式写逃避）

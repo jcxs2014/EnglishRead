@@ -79,6 +79,23 @@
 2. **重要语法**：Nothing... more plainly than 最高级否定；it is... that 强调句；not between... but between 对照。
 3. **写作技巧**：用"tenuous handshake"将承诺物理化；三阶递进（imperil/reveal/violate）写真承诺破裂的危险；将承诺从社会契约降为自我契约。
 
+
+## 长难句专项
+**原句 1:** We are creatures fragmentary but indivisible, each of us a whole that is always simpler than its parts, but complicated by the struggle for a living unison between them.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** But it is our true promises — those we have every intention of keeping — that, when broken, most imperil us, most reveal our contradictions, most painfully violate our self-trust.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 3:** Even the most sincere promise is but a tenuous handshake — not between us and others, but between our present selves and our future selves.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "Nothing betrays our partitions more plainly than our promises"（以最高级否定写承诺）
 - "a tenuous handshake between our present selves and our future selves"（以物理接触写自我契约）

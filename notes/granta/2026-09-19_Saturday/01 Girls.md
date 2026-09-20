@@ -77,6 +77,18 @@
 2. **重要语法**：过去进行时（was writing/driving）；because 原因；if anything 让步。
 3. **写作技巧**：以"normal thing to do after a breakup"将创伤日常化；"assume things"轻描淡写触及社会预设。
 
+
+## 长难句专项
+**原句 1:** I was writing a piece about teenage girls in America, driving across the country to interview them, and I had already found the girls I would talk to.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** I wanted to see how their lives mapped onto my own experiences of being a teenager, to see what, if anything, had changed.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "That was a normal thing to do after a breakup"（将创伤日常化）
 - "how their lives mapped onto my own experiences"（以映射写代际对照）

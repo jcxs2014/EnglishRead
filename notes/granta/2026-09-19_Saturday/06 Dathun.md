@@ -68,6 +68,18 @@
 2. **重要语法**：Back when...（时间状语）；and an HVAC guy was a guy who didn't matter（同位）；Now... he'd leveraged it（对比）。
 3. **写作技巧**：以平静日常引入末日；"leveraged"将权力写为金融操作；"treated me like a dog"将暴力日常化。
 
+
+## 长难句专项
+**原句 1:** We would get into a cart and ride out onto the green. Down the fairway, around the slope, past the sand traps and over the rise.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** Back when he was just the HVAC guy, and an HVAC guy was a guy who didn't matter. Now Marty had a little bit of power, running the AC and the heaters, and over the months, he'd leveraged it.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "AI doomsday or virus or whatever"（口语化写末日）
 - "an HVAC guy was a guy who didn't matter"（重复定义强调不重要）

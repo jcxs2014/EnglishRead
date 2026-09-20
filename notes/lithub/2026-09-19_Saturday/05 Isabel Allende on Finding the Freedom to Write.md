@@ -70,6 +70,18 @@
 2. **重要语法**：If 虚拟条件 + but 转折；as 原因；Never again have I had... 倒装。
 3. **写作技巧**：以具体日期锚定历史；"gave me wings"将丧失写为解放；"Never again"将此刻写为巅峰。
 
+
+## 长难句专项
+**原句 1:** If I had given myself the task of writing a novel, probably I never would have gone beyond the first few sentences, but as it was just a letter, like so many letters I had written to my mother and oth...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** My grandfather would not live to receive it, but that did not discourage me, quite the opposite, it gave me wings. I could write anything I wanted without fear of offending him. Never again have I had...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "If I had given myself the task... but as it was just a letter..."（任务=障碍，无目的=自由）
 - "it gave me wings"（将丧失写为解放）

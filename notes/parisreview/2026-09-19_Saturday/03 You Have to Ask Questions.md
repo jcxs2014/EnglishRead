@@ -66,6 +66,13 @@
 2. **重要语法**：If you cut... it won't be... 条件+结果；直接引语（You have to ask...）。
 3. **写作技巧**：以"切割"vs."整体"划清记者与口述史的界限；"scour away"将平庸写为需强力清除的物质。
 
+
+## 长难句专项
+**原句 1:** "If you cut straight to the part you need, which is what journalists do, it won't be interesting, and it won't be the truth, either. Not the whole truth," the Nobel Prize–winning Belarusian writer Sve...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "cut straight to the part you need, which is what journalists do"（将记者工作写为"切割"）
 - "scour away the banality and return people to their true selves"（以"scour away"写清除平庸）

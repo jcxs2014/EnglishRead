@@ -78,6 +78,18 @@
 2. **重要语法**：直接引语（Behind...）+ 分号并列；it seemed suddenly plain that... it 形式主语；part earth, part flower 同位。
 3. **写作技巧**：以"cotton wool"将日常遮蔽具象化；用三个"震动"瞬间具体化"穿透"理论；"we are the words"将人升格为艺术本身。
 
+
+## 长难句专项
+**原句 1:** I was looking at the flower bed by the front door; "That is the whole", I said. I was looking at a plant with a spread of leaves; and it seemed suddenly plain that the flower itself was a part of the ...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** "Behind the cotton wool is hidden a pattern… the whole world is a work of art… there is no Shakespeare… no Beethoven… no God; we are the words; we are the music; we are the thing itself."
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "Behind the cotton wool is hidden a pattern"（以遮蔽物写日常）
 - "a sudden violent shock... remembered it all my life"（以震动写穿透）

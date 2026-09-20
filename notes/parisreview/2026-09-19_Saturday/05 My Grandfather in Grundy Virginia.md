@@ -80,6 +80,18 @@
 2. **重要语法**：there be 句型；the only kid... with... 定从；否定+肯定并列链（no X, but Y）。
 3. **写作技巧**：以"tucked between"写偏远；"green in landscape and politically red"双关；商业品牌清单写"替代性"。
 
+
+## 长难句专项
+**原句 1:** In the late seventies, my grandfather left Nablus and took a job as head surgeon at a hospital in Grundy, Virginia, a coal-mining town tucked between Kentucky and West Virginia in the Appalachian Moun...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** Grundy was, and still is, green in landscape and politically red.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "a coal-mining town tucked between..."（以"tucked"写偏远）
 - "green in landscape and politically red"（双关写分裂）

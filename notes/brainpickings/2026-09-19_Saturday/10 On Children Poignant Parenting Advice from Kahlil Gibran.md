@@ -79,6 +79,18 @@
 2. **重要语法**：直接引语（Your children are not...）+ for 并列；which encompassed... 非限定定从；that His arrows might... 目的从句。
 3. **写作技巧**：以 Gibran 的诗开篇颠覆常识；用 Casals 的呼吁赋予当代意义；"弓与箭"隐喻收束——父母是工具，孩子是目的。
 
+
+## 长难句专项
+**原句 1:** In the final years of his long life, which encompassed world wars and assassinations and numerous terrors, the great cellist and human rights advocate Pablo Casals urged humanity to "make this world w...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** "The archer sees the mark upon the path of the infinite, and He bends you with His might that His arrows might go swift and far."
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "Your children are not your children"（颠覆亲子关系传统认知）
 - "make this world worthy of its children"（呼吁世界向孩子证明自身价值）

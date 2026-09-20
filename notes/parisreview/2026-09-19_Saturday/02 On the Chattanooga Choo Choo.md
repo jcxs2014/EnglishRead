@@ -78,6 +78,13 @@ bop kid（Elvis/Chuck Berry）→ 最近迷恋大乐队（40s Junction）→ 非
 2. **重要语法**：When... he might have been talking about me（过去进行推测）；for want of a better word 插入；totally unlike 对照。
 3. **写作技巧**：以歌词开篇将个人历史嵌入流行文化；括号补充 B 面信息（内行感）；"for want of a better word"写命名的困难。
 
+
+## 长难句专项
+**原句 1:** Just lately, though, I have become fascinated by the so-called big bands on the SiriusXM station called "40s Junction." I guess this sort of music is called, for want of a better word, jazz, but it's ...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "I was a bop kid from the start"（以音乐身份开篇）
 - "for want of a better word, jazz"（以命名困难写分类模糊）

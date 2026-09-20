@@ -79,6 +79,18 @@
 2. **重要语法**：If... if... if... 条件链；On... depends... 倒装；Only 200 copies... 短句收尾。
 3. **写作技巧**：以口语（half licked）收束严肃命题；用限量小册的物质形态（200本编号签名）呼应智慧的稀缺。
 
+
+## 长难句专项
+**原句 1:** More than three decades later, shortly after his eightieth birthday, Miller wrote a beautiful essay on the subject of aging and the key to living a full life.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** "On how one orients himself to the moment," 48-year-old Henry Miller wrote in reflecting on the art of living in 1939, "depends the failure or fruitfulness of it."
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "If you can fall in love again and again... you've got it half licked"（以口语写人生哲学）
 - "On how one orients himself to the moment depends the failure or fruitfulness of it"（此刻定向决定成败）

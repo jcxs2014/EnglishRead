@@ -81,6 +81,18 @@
 2. **重要语法**：I didn't see them as... so much as... 比较；that 定从；like 明喻；by way of an explanation 状语。
 3. **写作技巧**：以气味（而非视觉）定义第一次真实体验；"hard earn, like motor oil"反浪漫化；星座解释显荒谬诚实。
 
+
+## 长难句专项
+**原句 1:** The first time I met a horse up close, at a state fair, I was overcome by the unexpected smell of it. It was salty, dripping with thick saliva that did not strike me as icky, but somehow hard earned, ...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** I never expected horses to become a theme in my life. When I was a young girl, I didn't see them as animals so much as a child's bedroom aesthetic, something that other girls—not me— chose to decorate...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "I didn't see them as animals so much as a child's bedroom aesthetic"（以美学符号写预期）
 - "overcome by the unexpected smell... hard earned, like motor oil"（以气味写真实体验，反浪漫化）

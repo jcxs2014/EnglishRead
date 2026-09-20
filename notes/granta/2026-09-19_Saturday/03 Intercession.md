@@ -79,6 +79,18 @@
 2. **重要语法**：过去完成进行时 + when 打断；most of which 定从；Still 转折。
 3. **写作技巧**：用"stunted comfort"将安慰写为被压抑的；"terrified at 4 a.m."将存在性恐惧锚定于具体时间；以对话直接切入叙事。
 
+
+## 长难句专项
+**原句 1:** She had been taking a walk around the convent near her home, drawing stunted comfort from its roughhewn statuary (St Francis, lambs, white plaster Mary everywhere) and brooding on the 'loneliness epid...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** Laurie was not Catholic; she was a retired English professor with chaotic and half-formed spiritual ideas, most of which came to her while she lay awake and terrified at 4 a.m.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "drawing stunted comfort from its roughhewn statuary"（以微弱安慰写精神寻求）
 - "chaotic and half-formed spiritual ideas... at 4 a.m."（将存在性恐惧锚定于时间）

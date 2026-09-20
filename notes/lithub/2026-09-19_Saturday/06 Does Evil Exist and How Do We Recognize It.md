@@ -79,6 +79,18 @@ Adam Smith（道德=崇拜权力）→ 播客公司邮件（邪恶项目）→ �
 2. **重要语法**：The disposition... is... 主系表；直接引语（If that's what...）；After having put... 现在分词完成式。
 3. **写作技巧**：以具体场景（邮件/Zoom/案件）呈现哲学与媒体的分歧；"face fell"将失望写为身体语言；以拒绝划清界限。
 
+
+## 长难句专项
+**原句 1:** One recent summer afternoon I received an email from a British podcast production company concerning, they said, "a project in development involving modern manifestations of the concept of evil."
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** The disposition to admire, and almost to worship, the rich and the powerful … is the great and most universal cause of our moral sentiments.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "The disposition to admire... the rich and the powerful... is the great and most universal cause of our moral sentiments"（反直觉的道德归因）
 - "My face fell, and I did not hide it"（以身体语言写失望）

@@ -60,6 +60,13 @@
 2. **重要语法**：纯并列句（分号连接）；无主从句；偶尔插入"我打喷嚏"。
 3. **写作技巧**：实验写作——以声音清单替代叙事；"a car goes by"重复多次，将汽车驶过写为日常的背景噪音。
 
+
+## 长难句专项
+**原句 1:** A saw squeals in the half-built house across the street; a man shouts: Hey hey hey!; a car speeds by on the road out front; the neighbor thuds across the floor on the other side of the wall; a hammer ...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "A saw squeals in the half-built house across the street"（以声音写空间）
 - "a car goes by; a car goes by; a car goes by"（重复写背景噪音）

@@ -70,6 +70,18 @@ Ybles bleakness 名声 → 但作品 funny → 书信更私人/更幽默 → 档
 2. **重要语法**：But while 让步 + they are also often funny；do feature 强调式；which 定从；who 定从（took legal action）。
 3. **写作技巧**：以"do feature"强调反转；用"evict"与"unpaid rent"呈现童年困境；档案的物质形态（三女儿维护/15封信/50年）建立书信的珍贵性。
 
+
+## 长难句专项
+**原句 1:** Yates's papers, maintained by his three daughters, include decades of correspondence; this selection of just fifteen letters spans more than fifty years.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** Richard Yates has a reputation for bleakness. But while the works for which he is best known—the novels Revolutionary Road (1961) and The Easter Parade (1976), as well as the story collection Eleven K...
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "do feature a cast of unhappy souls, they are also also often funny"（以强调式写反转）
 - "decades of correspondence; this selection of just fifteen letters spans more than fifty years"（以档案形态写珍贵性）

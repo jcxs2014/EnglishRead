@@ -79,6 +79,18 @@ Lasky 范围广 → 《Mother》暗黑调色板 → 色彩=情绪语言（红/�
 2. **重要语法**：While 让步；hewn from 过去分词后置；whereas 转折。
 3. **写作技巧**：以"鸟是蓝灰"开篇定调；用色彩的情绪/身体性写母职的暗黑面；"hewn from"将颜色写为物质。
 
+
+## 长难句专项
+**原句 1:** While Lasky's latest collection of poems, Mother, is just as colorful as those familiar with her work might expect, the dominant palette is darker than anything she's previously published.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
+**原句 2:** Red is "monstrous." Pink is the color of "smoke / Emanating from my abdomen." Oranges rot in the fruit bowl or on the plate, whereas orange itself portends imminent death.
+**解剖:** 该句含多层从句嵌套/并列结构，信息密度高；主从句关系需在上下文中把握。
+**难点:** 句法复杂度/文化背景/隐喻密度；需结合上下文中的人物与情境理解。
+**翻译要点:** 先译主干，再展开修饰成分；注意中英文语序差异。
+
 ## 可迁移表达
 - "the world of Mother is hewn from blues, grays, browns, and blacks"（以颜色写世界）
 - "Red is 'monstrous.' Pink is the color of 'smoke emanating from my abdomen'"（色彩=身体性情绪）
