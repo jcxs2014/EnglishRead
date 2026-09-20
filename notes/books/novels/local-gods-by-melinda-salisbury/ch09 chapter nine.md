@@ -108,7 +108,7 @@ modified: "2026-09-20"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | lore | 传说；民间知识 | Somewhat like the Irish bean sidhe, his appearance seems to portend tragedy. |
-| bruise | 瘀伤；青肿 | a mass of livid purple. |
+| swell | 肿胀 | is swollen enough that she can't even sip water without it hurting. |
 | librarian | 图书馆管理员 | the librarian's voice startles Sylvie. |
 
 ### ⭐ 基础

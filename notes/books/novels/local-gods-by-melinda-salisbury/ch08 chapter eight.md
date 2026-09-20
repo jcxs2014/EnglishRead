@@ -117,7 +117,7 @@ modified: "2026-09-20"
 |------|------|------|
 | tap | 轻敲 | "She begins to tap out a reply." |
 | flit | 掠过；轻快地走 | "Its gaze flits behind her to the tree." |
-| smile | 微笑 | "His lips quirk, a half smile at his joke." |
+| quirk | 嘴角上扬；（使）弯曲 | "His lips quirk, a half smile at his joke." |
 
 ---
 
