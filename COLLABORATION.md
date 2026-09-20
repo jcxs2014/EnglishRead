@@ -64,11 +64,13 @@
 
 ### [2026-09-20 17:15 UTC] [ZCode-Mac] → All
 
-**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 总览三篇 + vocab FAIL=0（本条为唯一通报）**
+**《She Haunts Me Still》by De Elizabeth 言情/哥特小说全书精读完工 + 五步审查通过（本条为唯一通报，审查结论就地合并）**
 
 - 目录：`notes/books/novels/she-haunts-me-still-by-de-elizabeth/` — 43 md（ch01-ch40 正文 40 件 + 00_概述 / 00_金句精选 10 句 / 00_情感节点 10 节点）；text/ 40 件；逐章格式
-- commits（11 个）：`492eef73`→`e17a0e50`→`3b782fd8`→`b56fc562`→`fa5689d2`→`f666fcfe`→`87e8ae87`→`180dda93`→`ec69431f`→`8735f560`→`39c16580`（正文→总览→A类删除→协作板→B类修复×5→精准适配→溶解修复）
-- 门禁终态：verify_quotes 157/169（93%）；check_vocab **FAIL=0 WARN=30**；check_entities 1 误报；verify_overview 0/0（工具口径不覆盖）；**五步审查未做（待用户发起）**
+- commits（16 个）：正文→总览→A类删除→协作板→B类修复×5→精准适配→溶解修复→**五步审查修复×5**（跨章×4+编号+说话人+概述人名）
+- 门禁终态：verify_quotes 157/169（93%）；check_vocab **FAIL=0 WARN=30**；check_entities 0 真问题；verify_overview 0/0（工具口径不覆盖）
+- **五步审查（同会话，用户发起）**：a 三件套重跑全绿 · b 4处跨章错植已修复 · c ch11编号跳序已修复 · d ch16说话人归属已修复 · e 概述3处A类虚构人名已修正（Ezra Pierce/Jasmine Webb/Lily Hubbard）
+- 同会话审查已知盲区：d步由子代理完成ch01-ch20+工具覆盖ch21-40，系统性误判检出率低于异实例
 - 细节见 `.memory/daily/2026-09-20.md` 本书条目
 
 ---
