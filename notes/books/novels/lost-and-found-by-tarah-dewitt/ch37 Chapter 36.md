@@ -54,13 +54,13 @@ source_text: ch40
 ---
 
 > **原句 4:**
-> "The baby is a girl," says Silas, his hand cupped over my thigh beneath the table in a firm squeeze.
+> "And it's her," says Silas, his hand cupped over my thigh beneath the table in a firm squeeze. "The baby is a girl."
 
-**中文理解**：「是个女孩。」Silas 说，他的手在桌下紧紧握着我的大腿。
+**中文理解**：「而且就是她。」Silas 说，他的手在桌下紧紧握着我的大腿。「是个女孩。」
 
 **关键词**：hand cupped over my thigh
 
-**为什么这样写**：Silas 替 Bea 说出真相（Bea 可能还在震惊中），手放在她大腿上是保护性的、占有性的姿态。话语简短有力，而肢体语言传递的是支持和准备战斗的状态。
+**为什么这样写**：Silas 替 Bea 说出真相——先确认 Devin 的愤怒对象是"她"（Bea），再宣布婴儿性别。他在桌下握着 Bea 的大腿是保护性的姿态，而两个简短的句子让这个揭示显得冷静而有控制力。
 
 ---
 
