@@ -97,8 +97,8 @@ source_text: ch32
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sacrifice | 牺牲 | "every woman in that bloodline has offered her own carved-out heart" |
-| eternal | 永恒的 | "an eternal bond between Our Lord and the bloodline" |
+| sacrifice | 牺牲 | "Every woman in that bloodline hereafter has offered her own carved-out heart" |
+| eternal | 永恒的 | "The ritual created an eternal bond between Our Lord and the bloodline" |
 
 ### ⭐ 基础
 

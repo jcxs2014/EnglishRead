@@ -91,8 +91,7 @@ source_text: ch31
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | salvation | 救恩 | "your heart is the key to my salvation" |
-| sacrifice | 牺牲 | "the seventh perfect heart" |
-| eternity | 永恒 | "eternal bond" |
+| sacrifice | 牺牲 | "My seventh perfect heart" |
 
 ### ⭐⭐ 进阶
 

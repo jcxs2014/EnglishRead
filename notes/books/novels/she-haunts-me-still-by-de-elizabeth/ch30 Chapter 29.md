@@ -97,7 +97,7 @@ source_text: ch30
 |------|------|------|
 | kiss | 亲吻 | "I would kiss you until there was nothing left" |
 | maze | 迷宫 | "the hedge maze" |
-| truth | 真相 | "Tell me: The truth. For once." |
+| truth | 真相 | "The truth. For once." |
 
 ---
 
