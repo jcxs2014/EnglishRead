@@ -93,16 +93,16 @@ source_text: ch05
 | ocular migraines | 视觉性偏头痛 | "I've been getting rare and severe ocular migraines since I was a kid" |
 | maladaptive daydreaming | 适应不良的白日梦 | "maladaptive daydreaming and childhood fantasies" |
 | premonition | 预感，预言 | "It felt like a premonition. Like a threat." |
-| severance | 切断，分离 | "sever ties and start your own life" |
+| matriculation | 入学，加入 | "it's also my senior project... this production isn't just your matriculation show" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | ghost bait | 诱饵 | "I'm not going to turn myself into ghost bait" |
+| wraith | 幽灵 | "A wraith sleeping in the shadows, laughing maniacally as Mallory tried for years to assemble a ruse of normalcy" |
 | wraith | 幽灵 | "A wraith sleeping in the shadows" |
-| heirloom | 传家宝 | "I only have two things that belonged to my mother" |
-| arcane | 神秘的，秘教的 | "London called the Caligo Group. It's elite. Selective." |
+| congealed | 凝固的，凝结的 | "she's never talked about her past with anyone, not even Arden. When they first met, Mallory said her mother had died from an illness. When the world shows you at a young age you won't be believed if you tell the truth, the consequence in the future is you keep things locked inside" |
 
 ### ⭐ 基础
 
