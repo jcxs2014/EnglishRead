@@ -91,9 +91,7 @@ source_text: ch04
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | altar | 祭坛 | "An altar of three engraved stones" |
-| phantosmia | 幻嗅 | "phantosmia — imaginary smells" |
-| maladaptive daydreaming | 适应不良的白日梦 | "childhood fantasies / maladaptive daydreaming" |
-| feral | 野性的 | "feral eyes" |
+| maladaptive daydreaming | 适应不良的白日梦 | "catching phrases like maladaptive daydreaming and childhood fantasies" |
 
 ### ⭐⭐ 进阶
 
@@ -101,7 +99,7 @@ source_text: ch04
 |------|------|------|
 | smudged | 涂抹的，污迹的 | "One side is smudged black" |
 | wraith | 幽灵，鬼魂 | "A wraith sleeping in the shadows" |
-| blood-soaked | 浸透血的 | "No more blood-soaked women" |
+| blood-soaked | 浸透血的 | "Her hands alternate from working the blood-soaked dress to working the doorknob" |
 | rivulet | 小溪，流淌 | "spills down her stomach in rivulets of red" |
 
 ### ⭐ 基础
