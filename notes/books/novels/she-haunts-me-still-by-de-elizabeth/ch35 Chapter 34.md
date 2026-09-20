@@ -108,7 +108,7 @@ source_text: ch35
 |------|------|------|
 | dagger | 匕首 | "a long dagger, strapped to his waist" |
 | altar | 祭坛 | "Ezra lays the dagger carefully against the altar" |
-| candle | 蜡烛 | "a room full of candles" |
+| candle | 蜡烛 | "onto the candle-lined altar" |
 
 ---
 

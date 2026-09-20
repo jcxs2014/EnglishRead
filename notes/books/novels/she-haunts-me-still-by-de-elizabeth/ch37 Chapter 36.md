@@ -83,8 +83,7 @@ source_text: ch37
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | flame | 火焰 | "dissolve in flames" |
-| bandage | 绷带 | "chest bandaged" |
-| scar | 疤痕 | "scarves fastened upon Saskia's wrists" |
+| scarves | 围巾 | "the scarves that have been fastened upon Saskia's wrists and ankles" |
 
 ---
 

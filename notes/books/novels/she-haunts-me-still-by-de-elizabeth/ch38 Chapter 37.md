@@ -78,8 +78,8 @@ source_text: ch38
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sanctuary | 避难所 | "Mercy Island as witch sanctuary" |
-| witch | 女巫 | "a community of women in white" |
+| sanctuary | 避难所 | '"Mercy Island," Mallory whispers to herself. A place she once thought was a fairy tale' |
+| witch | 女巫 | "Mallory pushes past the women in white, ignoring their pleas" |
 
 ### ⭐⭐ 进阶
 

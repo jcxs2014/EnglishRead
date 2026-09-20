@@ -90,7 +90,7 @@ source_text: ch39
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sacrifice | 牺牲 | "I'm willing to sacrifice myself" |
+| willing | 愿意的 | '"I'm willing." Ezra's throat tightens as he swallows. Moonlight illuminates the sincerity in his eyes. "I'm willing."' |
 | haunt | 困扰 | "You're my ghost" |
 
 ### ⭐⭐ 进阶
@@ -105,8 +105,7 @@ source_text: ch39
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| willing | 愿意的 | "I'm willing" |
-| porch | 门廊 | " Ezra is on the porch" |
+| porch | 门廊 | "Mallory peers through the willowy curtains, breath catching at the sight of him on the porch" |
 | moonlight | 月光 | "Moonlight illuminates the sincerity in his eyes" |
 
 ---

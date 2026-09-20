@@ -103,7 +103,7 @@ source_text: ch34
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| occult | 巫术，神秘学 | "Some kind of tie to the occult" |
+| occult | 巫术，神秘学 | '"Some kind of…of"—she swallows, as if the words are hard to say out loud—"tie to the occult?"' |
 
 ### ⭐⭐ 进阶
 
