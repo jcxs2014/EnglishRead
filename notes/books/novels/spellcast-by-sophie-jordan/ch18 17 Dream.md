@@ -15,11 +15,13 @@ modified: "2026-09-20"
 
 ## 精读
 
-> **原句 1:** "Fiction was safe, so I let myself feel all the impossible things—fear, dread, desperation, exhilaration—knowing I would wake in the dawn, unscathed."
+> **原句 1:** "Fiction was safe, so I let myself feel all the impossible things—fear, dread, desperation, exhilaration—knowing I would wake in the dawn, unscathed from the storm surging around me."
 
 - **中文理解**：Arden 让自己沉浸在梦中——因为梦是"安全的"，她知道醒来后不会受伤
 - **关键词**：fiction / safe / unscathed
 - **为什么这样写**：用"fiction"（虚构）定义梦——她提醒自己这是假的，但情感是真的
+
+- **读者视角提示**：记住"梦是安全的虚构"这个前提，后文读到梦境成真时记得回到这句话对照。
 
 > **原句 2:** "I glimpsed prismatic black. Dark flashes as iridescent as the sheen of a crow's wing amid the frenzy of white."
 
@@ -27,17 +29,23 @@ modified: "2026-09-20"
 - **关键词**：prismatic black / iridescent / crow's wing
 - **为什么这样写**：用"prismatic"（虹彩）和"iridescent"（闪光）写非人类特征——这个生物不是普通的动物
 
+- **读者视角提示**：记住"虹彩黑"这类非人类特征描写，后文再遇到类似外貌时记得呼应这一句。
+
 > **原句 3:** "A roar cut through the din of the storm like a blast, flinging me back."
 
 - **中文理解**：一声咆哮穿透风暴的喧嚣，像爆炸一样把她击退
 - **关键词**：roar / cut through / flinging me back
 - **为什么这样写**：用"cut through"（穿透）写声音的力量——这个生物的声音比风暴更响
 
+- **读者视角提示**：注意"穿透"这个动词的力度，读的时候体会这个生物的声音为什么能压过风暴。
+
 > **原句 4:** "Always coming for me."
 
 - **中文理解**：全章最后一句——三个词，梦中的生物总是来找她，每次都是同一个场景
 - **关键词**：always / coming for me
 - **为什么这样写**：用"always"写必然性——这个梦反复出现，不是偶然，是联系
+
+- **读者视角提示**：注意"总是"这个词的必然意味，记住这个梦不是偶然，后文读到它的应验时回来对照。
 
 ## 本章词汇
 

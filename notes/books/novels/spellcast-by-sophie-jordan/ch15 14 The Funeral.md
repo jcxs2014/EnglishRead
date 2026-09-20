@@ -21,11 +21,15 @@ modified: "2026-09-20"
 - **关键词**：selfish kind of thing
 - **为什么这样写**：用"selfish"写自我批判——她意识到自己的痛苦不是唯一的，诅咒还在伤害别人
 
+- **读者视角提示**：记住这种从"为自己恨"到"为他人恨"的转变，这是理解她后文行动动机的关键。
+
 > **原句 2:** "The fear of that witch out there, lurking, watching, left me then. There was no more apprehension. I no longer feared her. She needed to fear me."
 
 - **中文理解**：Arden 不再害怕女巫——恐惧消失了，取而代之的是决心
 - **关键词**：no more apprehension / no longer feared / she needed to fear me
 - **为什么这样写**：三句话的转变——从"不怕她"到"她该怕我"，写动机从自救到复仇
+
+- **读者视角提示**：注意从"不再害怕"到"让她害怕"的递进，后文读到她的复仇行动时记得回到这一句。
 
 > **原句 3:** "You stupid cow! ... You're useless! You killed her! It's your fault! Your fault!"
 
@@ -33,17 +37,23 @@ modified: "2026-09-20"
 - **关键词**：stupid cow / useless / killed her / your fault
 - **为什么这样写**：用婆婆的指责写社会压力——母亲总是第一个被指责的人
 
+- **读者视角提示**：记住这种把责任推给母亲的社会压力，读后文 Linnea 的结局时对照着看。
+
 > **原句 4:** "She sat with her eyes wide open, awake yet asleep. Alive yet dead."
 
 - **中文理解**：Linnea 坐着，眼睛睁着——醒着却睡着，活着却死了，用矛盾写崩溃
 - **关键词**：awake yet asleep / alive yet dead
 - **为什么这样写**：用矛盾修辞写 Linnea 的状态——她的身体在，但灵魂已经碎了
 
+- **读者视角提示**：记住这组矛盾修辞概括的 Linnea 状态，后文再看到她时记得呼应这一句。
+
 > **原句 5:** "Behind that silent facade, behind those dead eyes and unmoving lips, she was still there. And she was screaming."
 
 - **中文理解**：全章结尾——Linnea 在沉默中尖叫，就像 Arden 的无声尖叫，两个隐形人共享同一种痛苦
 - **关键词**：silent facade / dead eyes / still there / screaming
 - **为什么这样写**：用"still there"和"screaming"写 Linnea 的内在——表面沉默，内心尖叫，与 Arden 的处境形成镜像
+
+- **读者视角提示**：注意"沉默中的尖叫"这个意象，它把 Linnea 和 Arden 连在了一起，后文读到两人关系时记得回来对照。
 
 ## 本章词汇
 

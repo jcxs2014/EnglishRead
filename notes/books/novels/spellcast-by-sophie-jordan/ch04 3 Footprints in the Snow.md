@@ -20,24 +20,28 @@ modified: "2026-09-20"
 - **中文理解**：一句话写尽搜寻的终结——从"搜"到"不搜"，中间是三周的希望耗尽
 - **关键词**：hunted / until they didn't
 - **为什么这样写**：对称结构制造节奏感，"didn't"省略了"hunt"，暗示放弃是无声的、自然的
+- **读者视角提示**：注意 didn't 省略背后的无声放弃，后文再读到搜寻终结处可以对照。
 
 > **原句 2:** "The world moved on as it does when someone dies. Just because life stopped for me did not mean it stopped for others."
 
 - **中文理解**：残酷的真相——她的消失只对她自己是灾难，对世界只是又一个被遗忘的人
-- **关键词**：moved on / life stopped / endured without me
+- **关键词**：moved on / life stopped
 - **为什么这样写**：用"life stopped for me"与"life continued for others"对比，写出被遗忘的孤独
+- **读者视角提示**：记住她的灾难只是世界的日常这一对比，这是后文体会孤独的关键。
 
 > **原句 3:** "I stood beside Da and Jens with my heart in my throat as their wagon, heavily loaded with all their worldly belongings, rolled away."
 
 - **中文理解**：Arden 站在家人身边，看着哥哥的马车离去——她"心提到嗓子眼"是因为她想喊却喊不出
 - **关键词**：heart in my throat / worldly belongings / rolled away
 - **为什么这样写**："heart in my throat"写紧张，但更写无能为力——她在场却不存在
+- **读者视角提示**：注意 heart in my throat 背后的无能为力，后文再读到她在场却不存在时可以对照。
 
 > **原句 4:** "I left no mark."
 
 - **中文理解**：全章最后一句，三个词——她在雪地上不留脚印，连痕迹都不留下，诅咒彻底到连物理存在都抹去
 - **关键词**：no mark
 - **为什么这样写**：两个词的短句制造终结感，与标题"Footprints in the Snow"形成反讽——有标题却无脚印
+- **读者视角提示**：注意这句与标题 Footprints in the Snow 的反讽呼应，记住不留痕迹这一点很关键。
 
 ## 本章词汇
 

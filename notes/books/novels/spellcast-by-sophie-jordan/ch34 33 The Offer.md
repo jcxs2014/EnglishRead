@@ -18,7 +18,7 @@ modified: "2026-09-20"
 > **原句 1:** "You killed Cyphus." "Cyphus killed Cyphus."
 
 - **中文理解**："你杀了 Cyphus。""Cyphus 杀了 Cyphus。"她顶回去。
-- **关键词**：killed / hastened
+- **关键词**：killed / Cyphus
 - **为什么这样写**：三词回敬——把"因她而死"翻译成"自取灭亡"，全书她第一次在言语上赢 Danhy。
 - **读者视角提示**：后文她承认"hastened it"（加速了）：嘴上赢，心里记账，不逞口舌之快的分寸感。
 

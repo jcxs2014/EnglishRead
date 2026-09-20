@@ -25,7 +25,7 @@ modified: "2026-09-20"
 > **原句 2:** "How do you know they're not armed with weapons of dragon bone?"
 
 - **中文理解**："你怎么知道他们没带龙骨武器？"她情急下拿 Danhy 的情报当武器。
-- **关键词**：dragon bone / grasping
+- **关键词**：dragon bone / armed
 - **为什么这样写**：ch23 的麦高芬在此第一次当子弹用——知识就是力量，她十年的"观察者"生涯变现。
 - **读者视角提示**：Cyphus 被说服了：她的嘴第一次救了龙族，Tage 回来欠她一个大人情。
 
@@ -46,7 +46,7 @@ modified: "2026-09-20"
 > **原句 5:** "I'm coming."
 
 - **中文理解**："我来了。"黑暗中一句纤细如蛛丝的回应。
-- **关键词**：coming / gossamer
+- **关键词**：coming
 - **为什么这样写**：两词独立成段——是真是幻不重要，重要的是她第一次"听见"被回应的祈祷。
 - **读者视角提示**：对照 ch01 独白"no one knows I am here"：从无人知晓到有人回应，全书至此完成闭环的一半。
 

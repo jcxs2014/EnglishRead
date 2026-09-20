@@ -39,7 +39,7 @@ modified: "2026-09-20"
 > **原句 4:** "Twelve years old. My voice had scarcely even deepened. I wasn't strong enough to maintain my dragon form."
 
 - **中文理解**："十二岁，声音还没变完，连龙形都维持不住。"Tage 讲自己被 skelm 放逐的往事。
-- **关键词**：Twelve / scrawny lad
+- **关键词**：Twelve / dragon form
 - **为什么这样写**：全书最重要的身世揭示——十二岁的他与十四岁中诅咒的她互文，两个被抛弃的孩子在此相认。
 - **读者视角提示**：她脑中浮现"脆弱男孩住进被诅咒女孩隔壁"：恨的根基（"你们是怪物"）从这里开始裂。
 

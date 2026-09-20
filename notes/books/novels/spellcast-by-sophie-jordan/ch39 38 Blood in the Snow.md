@@ -25,7 +25,7 @@ modified: "2026-09-20"
 > **原句 2:** "You're not helpless. You're not helpless. You're not helpless. You're not helpless."
 
 - **中文理解**："你不是无助的。"四遍默念。
-- **关键词**：helpless / mantra
+- **关键词**：helpless
 - **为什么这样写**：harpies 的话（"You should have no problem"）变成咒语——"Give it voice"机制的第一次自觉使用。
 - **读者视角提示**：从坑里"飞"到地面：第一次主动施法，十年大咒（隐形）与此刻小咒（移形）同源，闭环。
 
@@ -53,7 +53,7 @@ modified: "2026-09-20"
 > **原句 6:** I fight for air that isn't there and choke out only a few words. "I . . . helped."
 
 - **中文理解**：她抓着不存在的空气，挤出几个词："我……帮上忙了。"
-- **关键词**：helped / drowning
+- **关键词**：helped / air
 - **为什么这样写**：遗言不说爱说"有用"——十年隐形人的执念：存在感 = 有用，死也要死得有用。
 - **读者视角提示**：他的回答（"You helped. I wouldn't even be here"）：她要的 damnation，他给的是勋章。
 

@@ -25,7 +25,7 @@ modified: "2026-09-20"
 > **原句 2:** "There isn't anything in there that doesn't belong."
 
 - **中文理解**："里面没有不属于那里的东西。"他对池子里有没有怪物的问题如是回答。
-- **关键词**：belong / assurances
+- **关键词**：belong / anything
 - **为什么这样写**：双重否定写龙式敷衍——等于什么都没保证，她的尖叫在三页后兑现。
 - **读者视角提示**：注意这是"belong" мрач本章第二次出现（Cyphus 说她永不 belong）：池子接纳她，人不接纳她。
 

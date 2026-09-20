@@ -15,11 +15,13 @@ modified: "2026-09-20"
 
 ## 精读
 
-> **原句 1:** "Hard hands find me. They reach through the fog and clamp down on my arms."
+> **原句 1:** "Hard hands find me. They reach through the fog and clamp down on my arms, long fingers and broad palms singeing me, their warmth and breadth penetrating through the fabric of my sleeves."
 
 - **中文理解**：一双有力的手穿过迷雾抓住她——这是十年来第一次有人触碰她
 - **关键词**：hard hands / clamp down
 - **为什么这样写**：用"clamp down"（钳住）写抓住的力度——不是温柔的触碰，是控制
+
+- **读者视角提示**：记住这是十年来第一次有人触碰她，读的时候体会"被抓住"与"被触碰"的双重意味。
 
 > **原句 2:** "I was a mere girl the last time someone touched me. Now I am not."
 
@@ -27,11 +29,15 @@ modified: "2026-09-20"
 - **关键词**：mere girl / now I am not
 - **为什么这样写**：用对比写十年的空白——她从女孩变成女人，但没有人见证
 
+- **读者视角提示**：记住"女孩到非女孩"的十年空白，后文读到她的成长时记得回到这句对照。
+
 > **原句 3:** "He gives no reply. Merely stares at me in silence with his hard, intense violet-dark eyes—a gaze that goes on and on and on."
 
 - **中文理解**：他不回答，只是用"坚硬、强烈的紫黑色眼睛"沉默地看着她——目光持续不断
 - **关键词**：hard, intense / violet-dark eyes / goes on and on
 - **为什么这样写**：用"on and on and on"写目光的持续——不是短暂的注视，是永恒的凝视
+
+- **读者视角提示**：记住这双紫黑色眼睛的凝视写法，注意作者用重复的"on"写时间的拉长。
 
 > **原句 4:** "You mean kill me? Like you killed everyone else in my village?"
 
@@ -39,17 +45,23 @@ modified: "2026-09-20"
 - **关键词**：kill me / killed everyone else
 - **为什么这样写**：用"Like you killed everyone else"写她的指控——她把村庄的毁灭归咎于龙
 
-> **原句 5:** "You think I did this?" He gestures around us with a disgusted flick of his fingers. "I did not do this."
+- **读者视角提示**：注意她从被动恐惧到主动质问的语气转变，读的时候抓住这句指控的份量。
+
+> **原句 5:** "You think I did this?" He gestures around us with a disgusted flick of his fingers. "I did not do this," he growls.
 
 - **中文理解**：Tage 否认摧毁了村庄——他不是凶手，但他也没说凶手是谁
 - **关键词**：I did not do this / disgusted
 - **为什么这样写**：用"disgusted"（厌恶）写他的情绪——他厌恶被误解，但也没解释真相
+
+- **读者视角提示**：注意他否认却不解释真相的留白，记住这个悬念，后文揭晓时再回来对照。
 
 > **原句 6:** "She's under my protection."
 
 - **中文理解**：Tage 宣布她是他的保护对象——从"杀她"到"保护她"，态度180度转变
 - **关键词**：under my protection
 - **为什么这样写**：用"protection"（保护）写控制——他不是在保护她，是在控制她
+
+- **读者视角提示**：注意"保护"在这里更接近控制的意味，记住这个态度的转变，后文读到两人的关系时记得呼应。
 
 ## 本章词汇
 

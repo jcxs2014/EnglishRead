@@ -27,7 +27,7 @@ modified: "2026-09-20"
 - **中文理解**：她受我保护，谁再虐待她，就另找族群吧。
 - **关键词**：protection / mistreats
 - **为什么这样写**：ch21 的"She's under my protection"升级成族规——从口头罩人到制度罩人，代价是"只剩我一人也认"。
-- **读者视角提示**：这是他第二次说"nest of vipers"（另一次指 skelm）：把族人比作毒蛇窝，决裂公开化。
+- **读者视角提示**：他把族群比作毒蛇窝，"already left one"说明早有去意，决裂公开化。
 
 > **原句 3:** "Not that it is anyone's concern, but it won't be the first time she's shared my den."
 
@@ -46,7 +46,7 @@ modified: "2026-09-20"
 > **原句 5:** He stops chewing and looks at me a long moment. "You're something . . . else."
 
 - **中文理解**：他停下咀嚼看她很久："你是别的什么。"
-- **关键词**：something else / guest
+- **关键词**：something / else
 - **为什么这样写**："guest"回答 hung 在空中——他否定了"客人"，却没给出新词，留白比告白更烫。
 - **读者视角提示**：她赶紧接"Your guest, right?"：不敢听答案的人先替对方回答，心动期的标准动作。
 

@@ -20,36 +20,42 @@ modified: "2026-09-20"
 - **中文理解**：两个词的判断——Arden 在 Hilla 身上看到自己，"隐形"不只是诅咒，也是社会现实
 - **关键词**：she / me
 - **为什么这样写**：两个词的等式比任何长句都更有力——她确认了自己与 Hilla 的镜像关系
+- **读者视角提示**：注意这两个词的等式，这是理解她与 Hilla 镜像关系的关键
 
 > **原句 2:** "I became a bit of a voyeur, watching Hilla and seeing myself in her similar state of invisibility."
 
 - **中文理解**：Arden 成为 Hilla 的"偷窥者"——但更残忍的是，她是唯一能看见 Hilla 的人
 - **关键词**：voyeur / seeing myself / invisibility
 - **为什么这样写**：用"voyeur"（偷窥者）写观察行为——她偷窥的不是隐私，是"被看见"的渴望
+- **读者视角提示**：记住 voyeur 这个词，这是理解她观察行为背后渴望的关键
 
 > **原句 3:** "Even unseen, she went on living, her heart pumping in the narrow cage of her chest."
 
 - **中文理解**：Hilla 虽然不被看见，但仍在活着——心脏在"窄笼般的胸腔"里跳动
 - **关键词**：unseen / heart pumping / narrow cage
 - **为什么这样写**："narrow cage"比喻胸腔——她的身体是囚笼，心脏是囚徒，但仍在跳动
+- **读者视角提示**：注意 narrow cage 这个比喻，这是体会心脏仍在跳动意味的关键
 
 > **原句 4:** "I see you."
 
 - **中文理解**：Arden 对 Hilla 说"我看见你"——这是全书最温柔的时刻之一，一个隐形人对另一个隐形人说"我看见你"
 - **关键词**：see you
 - **为什么这样写**：用最简单的三个词写最深的共鸣——两个隐形人之间的"看见"
+- **读者视角提示**：注意这三个词的温柔，这是本章最值得停留的一处
 
 > **原句 5:** "Why don't you come out and face me? ... Either kill me or unbind me from this spell!"
 
 - **中文理解**：Arden 对着森林喊女巫——从"求你"到"出来面对我"，她已不再害怕，只剩愤怒
 - **关键词**：face me / kill me / unbind
 - **为什么这样写**：用"kill me or unbind me"的二选一写绝望——她宁愿死也不愿继续隐形
+- **读者视角提示**：记住这个二选一，这是衡量她绝望程度的关键
 
 > **原句 6:** "The wind whipped violently then, pelting me with leaves and twigs and other debris."
 
 - **中文理解**：风用树叶和树枝打她——女巫的回应不是语言，是物理攻击
 - **关键词**：whipped / pelting / debris
 - **为什么这样写**：用物理攻击（风+ debris）写女巫的愤怒——她回应了，但不是 Arden 想要的方式
+- **读者视角提示**：注意这次风的回应方式，这是理解女巫回应态度的关键
 
 ## 本章词汇
 

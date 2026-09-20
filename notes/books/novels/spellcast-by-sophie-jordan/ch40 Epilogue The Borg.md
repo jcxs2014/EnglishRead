@@ -39,7 +39,7 @@ modified: "2026-09-20"
 > **原句 4:** Except I was the witch. I cast the spell. For those years, I effectively suppressed my own powers.
 
 - **中文理解**："可我就是女巫，咒是我下的，那些年我一直在压制自己的力量。"
-- **关键词**：suppressed / iron
+- **关键词**：suppressed / witch
 - **为什么这样写**：铁剑之谜解开——以铁抗魔等于以己攻己，十年弯路一句话说尽，疼且服。
 - **读者视角提示**：对照 ch17 打铁："Iron in My Hand"的爽文感在此反转成自残史，重读整段会疼。
 

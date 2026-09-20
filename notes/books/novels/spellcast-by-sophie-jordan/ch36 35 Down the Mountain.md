@@ -18,7 +18,7 @@ modified: "2026-09-20"
 > **原句 1:** "Keep it over your head and no one can see you from above."
 
 - **中文理解**："举过头顶，从天上就看不见你。"Danhy 给她叶子伞。
-- **关键词**：umbrella / above
+- **关键词**：head / above
 - **为什么这样写**：情敌亲手做防龙伞——"No one as in no dragon"的补刀说明：防的就是 Tage，爱恨都实在。
 - **读者视角提示**：伞是本章最重要的道具：举伞两日的手臂之酸，后文坠落时"伞还在手吗"是个扣子。
 
@@ -32,7 +32,7 @@ modified: "2026-09-20"
 > **原句 3:** It might very well be suicide.
 
 - **中文理解**：这很可能就是自杀。
-- **关键词**：suicide / difficult
+- **关键词**：suicide
 - **为什么这样写**：四个"More than"排比后落地"suicide"——把出逃从冒险翻译成赴死，诚实得残忍。
 - **读者视角提示**：后文"I handed her my death"：她意识到 Danhy 可能早就算出死亡率，送行变送葬，细思极恐。
 

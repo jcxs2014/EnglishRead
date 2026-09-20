@@ -20,30 +20,35 @@ modified: "2026-09-20"
 - **中文理解**：Arden 学会了"假装正常"——但"almost"和"if"暴露了自欺欺人的本质
 - **关键词**：almost normal / if I pretended / squinted
 - **为什么这样写**：用"squinting"（眯眼看）比喻她的自欺——世界模糊了，她才能假装它正常
+- **读者视角提示**：注意 almost 和 if 暴露的自欺本质，后文再读到她的假装正常时可以对照。
 
 > **原句 2:** "She visits me," Linnea blurted. "In my dreams."
 
 - **中文理解**：Linnea 说 Arden 在梦里来看她——这是 Arden 每晚去 Linnea 家的"被感知"版本
 - **关键词**：visits / in my dreams
 - **为什么这样写**：用"dreams"模糊现实与超自然的边界——Linnea 感知到 Arden 的存在，但以"梦"的形式
+- **读者视角提示**：注意 dreams 模糊现实边界的写法，这是后文判断 Linnea 感知真假的关键。
 
 > **原句 3:** "I'm sorry, Arden. I should have let you go with Henrik."
 
 - **中文理解**：父亲终于道歉——他承认是自己的自私导致了 Arden 的消失，这是全书第一次有人说"这是我的错"
-- **关键词**：sorry / should have / selfish
+- **关键词**：sorry / should have
 - **为什么这样写**：用道歉让父亲从"专制者"变成"有缺陷的人"——他的爱是真实的，但方式错了
+- **读者视角提示**：记住这句全书第一次的道歉，这是后文理解父亲从专制到有缺陷之人的关键。
 
 > **原句 4:** "And now... I've lost you anyway."
 
 - **中文理解**：父亲最痛的一句话——他为了不失去女儿而留住她，结果反而永远失去了她
 - **关键词**：lost you anyway
 - **为什么这样写**："anyway"是全句最残忍的词——无论如何他都输了，命运不给他选择的机会
+- **读者视角提示**：注意 anyway 一词的残忍，这是读懂父亲注定失去悲剧的关键。
 
 > **原句 5:** "Don't worry, Da. I'll fix this."
 
 - **中文理解**：Arden 对看不见她的父亲说"我会修复这一切"——从受害者到行动者的转变
 - **关键词**：fix this
 - **为什么这样写**：用"fix"这个词——不是"接受"不是"等待"，是"修复"，她要主动改变命运
+- **读者视角提示**：记住 fix 一词的主动意味，这是后文追踪她改变命运行动的关键。
 
 ## 本章词汇
 

@@ -20,12 +20,14 @@ modified: "2026-09-20"
 - **中文理解**：Linnea 的婚纱比她们以前穿过的任何衣服都精致——但"Anything I'd worn before"暗示 Arden 也在比较
 - **关键词**：ribbons / flowers / far finer
 - **为什么这样写**：用婚纱的精美反衬 Arden 的"空无一物"——她连衣服都没有（穿什么都会消失）
+- **读者视角提示**：注意婚纱精美与她空无一物的反衬，这是体会本章残酷感的关键
 
 > **原句 2:** "Few knew about that. Only Linnea and her mother and Isak. And me, of course."
 
 - **中文理解**：Linnea 怀孕的秘密只有四个人知道——包括 Arden，但她是"当然"的，因为没人知道她在场
 - **关键词**：few knew / and me / of course
 - **为什么这样写**："of course"是全句最苦的词——她当然知道，因为她是隐形的偷窥者
+- **读者视角提示**：注意 of course 的苦味，这是理解她隐形偷窥者处境的关键
 
 ## 本章词汇
 

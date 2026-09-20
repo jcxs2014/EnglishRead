@@ -20,30 +20,35 @@ modified: "2026-09-20"
 - **中文理解**：Arden 重新定义自己的诅咒——不是"看不见"，而是"只能看见，无法参与"
 - **关键词**：witness / participant
 - **为什么这样写**：用"witness"和"participant"的对比写诅咒的本质——她被迫旁观，永远无法参与
+- **读者视角提示**：记住 witness 与 participant 这组对比，这是理解诅咒本质的关键
 
 > **原句 2:** "I knew everything everyone had to hide—and I wasn't talking."
 
 - **中文理解**：她知道所有人的秘密，但"不说话"——不是因为忠诚，是因为没人听得见
-- **关键词**：everything / to hide / wasn't talking
+- **关键词**：everything / hide / wasn't talking
 - **为什么这样写**：用"wasn't talking"写双重含义——她不说话（没人听见），也不告密（秘密安全）
+- **读者视角提示**：注意 wasn't talking 的双重含义，这是读懂本块的关键
 
 > **原句 3:** "That was when I learned that two different things could exist inside the same space. It was possible to feel two conflicting things."
 
 - **中文理解**：Arden 学会了"矛盾情感共存"——她为 Linnea 高兴，也嫉妒她；她爱朋友，也恨她的生活
 - **关键词**：two different things / same space / conflicting
 - **为什么这样写**：用哲学思考写情感复杂性——不是非黑即白，而是灰色地带
+- **读者视角提示**：记住矛盾情感可以共存这一点，这是理解她复杂心境的关键
 
 > **原句 4:** "I screamed, lunging forward even as I knew there would be no reaching her, no getting to her. No saving her."
 
 - **中文理解**：Arden 看着 Ulrika 跌入火中——她尖叫、冲过去，但知道无法触及、无法拯救
 - **关键词**：screamed / lunging / no reaching / no saving
 - **为什么这样写**：三个"no"层层递进——无法触及、无法接近、无法拯救，写尽无能为力
+- **读者视角提示**：注意三个 no 的递进，这是体会无能为力的关键
 
 > **原句 5:** "And I could do nothing but watch. Watch and unleash my silent scream."
 
 - **中文理解**：全章结尾——她只能看着，发出无声的尖叫，诅咒最残忍的部分不是隐形，是无力
 - **关键词**：nothing but watch / silent scream
 - **为什么这样写**："silent scream"是全书最痛的意象——有尖叫的冲动，但没有声音，正如她有行动的欲望，但没有能力
+- **读者视角提示**：记住 silent scream 这个意象，这是本章结尾最痛的一处
 
 ## 本章词汇
 

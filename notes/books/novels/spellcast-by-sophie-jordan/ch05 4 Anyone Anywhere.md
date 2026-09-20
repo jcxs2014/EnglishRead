@@ -20,12 +20,14 @@ modified: "2026-09-20"
 - **中文理解**：三个词的开头，用过去式"mattered"宣告曾经的价值——现在不再重要
 - **关键词**：mattered / once
 - **为什么这样写**：过去式是关键——"曾经重要"比"从未重要"更残忍，因为她知道被在乎是什么感觉
+- **读者视角提示**：注意过去式 mattered 的残忍意味，这是后文理解曾经被在乎的关键。
 
 > **原句 2:** "But now I didn't matter. I didn't matter to anyone anywhere."
 
 - **中文理解**：从"once"到"now"的对比，两次重复"I didn't matter"层层递进——从个体到"anyone anywhere"，彻底的无归属
 - **关键词**：didn't matter / anyone anywhere
 - **为什么这样写**："anyone anywhere"是全章最冷的词——不是"这里不重要"，是"任何地方的任何人都不重要"
+- **读者视角提示**：记住 anyone anywhere 这个最冷的范围，这是读懂彻底无归属感的关键。
 
 ## 本章词汇
 

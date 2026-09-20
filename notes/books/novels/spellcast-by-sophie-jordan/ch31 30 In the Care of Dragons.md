@@ -18,21 +18,21 @@ modified: "2026-09-20"
 > **原句 1:** "Arden?" My heart jumps to my throat. I can only croak out, "Tage."
 
 - **中文理解**：黑暗中一声"Arden"，她的心跳到喉咙，只能哑声回一句"Tage"。
-- **关键词**：croak / relief
+- **关键词**：croak / heart jumps
 - **为什么这样写**：ch30 结尾的幻听（"I'm coming"）在此坐实——名字一叫一应，祈祷有了回音。
 - **读者视角提示**：注意"he has come to represent safety"：杀人凶手变安全符号，斯德哥尔摩还是真心，自己判断。
 
 > **原句 2:** "Not bad? Your wrists look like raw meat, Arden."
 
 - **中文理解**："不严重？你的手腕像生肉一样，Arden。"
-- **关键词**：raw meat / name
+- **关键词**：raw meat / Arden
 - **为什么这样写**："raw meat"与 Cyphus 的"meat"说辞重叠——她成了自己曾恐惧的东西，而他的愤怒替她疼。
 - **读者视角提示**：她"flinch 又 soften"：疼与被叫名字同时发生，痛觉和心动第一次同框。
 
 > **原句 3:** Tage looks at him then, spitting out, "You did this to her."
 
 - **中文理解**：Tage 盯住 Cyphus，啐出一句："这是你干的。"
-- **关键词**：spitting / fangs
+- **关键词**：spitting / did this
 - **为什么这样写**：陈述句当判决——"Not a question. A hard fact"，alpha 的法庭不需要举证。
 - **读者视角提示**：后文"accusation with fangs"：咬人的不是牙，是这句话，族群分裂从此开始。
 

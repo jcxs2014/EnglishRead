@@ -32,7 +32,7 @@ modified: "2026-09-20"
 > **原句 3:** They could let me go and turn me free with no memory of dragons. With no memory of Tage.
 
 - **中文理解**：解咒后他们可以抹掉她的记忆放她走，连 Tage 都不记得。
-- **关键词**：memory / wiped
+- **关键词**：memory / Tage
 - **为什么这样写**：全书最痛的算式：自由 = 失忆，解咒 = 删除他，得到与失去第一次等价。
 - **读者视角提示**："My stomach cramps"：身体先投票——她选记忆不选自由，诅咒从刑具变成存折。
 

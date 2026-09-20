@@ -20,36 +20,42 @@ modified: "2026-09-20"
 - **中文理解**：动物能看见她——这是她唯一的"被看见"，但温暖之后是更深的渴望
 - **关键词**：warmth / longing / wasn't invisible
 - **为什么这样写**："at least"（至少）是全句最苦的词——她的最低要求只是"被任何活物看见"
+- **读者视角提示**：注意 at least 这个词的苦味，这是理解她对被看见渴望的关键
 
 > **原句 2:** "I wasn't sure I would even run if I came face-to-face with a huldra or harpy."
 
 - **中文理解**：Arden 说就算遇到怪物也不跑——因为她渴望被看见，哪怕是怪物
 - **关键词**：wouldn't run / huldra / harpy
 - **为什么这样写**：用极端假设（遇到怪物也不跑）写绝望程度——她已孤独到宁愿面对危险也不愿继续隐形
+- **读者视角提示**：记住这个遇到怪物也不跑的极端假设，这是衡量她孤独程度的关键
 
 > **原句 3:** "You're not dead," she whispered into the warm, firelit air of her cottage.
 
 - **中文理解**：Maretta 对着空气说"你没有死"——她在对 Arden 说话，虽然看不见她
 - **关键词**：not dead
 - **为什么这样写**：Maretta 的话既是说给 Arden 听，也是说给自己听——她用自言自语的方式传递真相
+- **读者视角提示**：注意这句你没有死，后文还会反复呼应
 
 > **原句 4:** "A witch claimed you, but that does not mean you are dead."
 
 - **中文理解**：Maretta 区分了"被女巫抓住"和"死亡"——诅咒是囚禁，不是消灭
 - **关键词**：claimed / not dead
 - **为什么这样写**："claimed"这个词暗示女巫对 Arden 有所有权——她被"认领"了，但没有被消灭
+- **读者视角提示**：记住 claimed 这个所有权的意味，这是理解诅咒性质的关键
 
 > **原句 5:** "You simply stumbled too close to the flame, my dear girl."
 
 - **中文理解**：Maretta 说 Arden 是"不小心靠近了火焰"——女巫的诅咒不是惩罚，是意外
 - **关键词**：stumbled / too close / flame
 - **为什么这样写**：用"flame"比喻女巫的力量——Arden 不是被针对，只是不小心触碰了不该碰的东西
+- **读者视角提示**：注意 flame 这个比喻，这是理解诅咒并非针对她的关键
 
 > **原句 6:** "I'd invited magic in the door foolishly that cold winter night, it had answered my call."
 
 - **中文理解**：Arden 承认是自己"愚蠢地邀请了魔法进门"——诅咒是她自己召唤来的
 - **关键词**：invited / foolishly / answered my call
 - **为什么这样写**：用"invited"（邀请）比喻许愿——她不是受害者，她是主动召唤者，现在要自己收拾残局
+- **读者视角提示**：记住 invited 这个主动召唤的说法，这是她自我认知的关键转变
 
 ## 本章词汇
 
