@@ -66,7 +66,7 @@ source_text: ch37
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dissolve | 溶解，化为灰烬 | "watching the white wooden building dissolve in flames" |
+| dissolve | 溶解，化为灰烬 | "they watched the white wooden building dissolve in flames against the starless sky" |
 | opal | 蛋白石 | "Her eyes are fully opal" |
 | fiddle | 摆弄 | "She fiddles with it" |
 
