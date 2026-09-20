@@ -144,8 +144,8 @@ modified: "2026-09-20"
 |------|------|------|
 | mauling | 毆打 | attacked! Mauled! |
 | growl | 低吼 | Another vibrating growl. |
-| nipping | 咬 | He nips at my jaw. |
-| shrewdly | 精明地 | n/a — use "shrewd" instead |
+| nip | 轻咬 | He nips at my jaw |
+| grin | 露齿笑 | watching the whole thing with a grin |
 
 ## 一句话总结
 

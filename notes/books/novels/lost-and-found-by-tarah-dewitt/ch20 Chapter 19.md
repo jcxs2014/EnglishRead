@@ -115,8 +115,8 @@ modified: "2026-09-20"
 | 词汇 | 词义 | 例句 |
 |------|------|------|
 | extraordinary | 非凡的 | one of the top three most extraordinary people |
-| deferential | 順從的 | a joyless kind of deference |
-| contemplative | 思考的 | contemplated as I look out his window |
+| deference | 顺从 | a joyless kind of deference |
+| contemplating | 思考的 | contemplating as I look out his window |
 
 ### ⭐⭐ 进阶
 
@@ -125,7 +125,7 @@ modified: "2026-09-20"
 | glaze | (眼睛)呈蒙上一层 | His eyes glaze and his mouth twists wryly |
 | bemused | 茫然的 | a bemused frown |
 | wryly | 嘲諷地 | his mouth twists wryly |
-| magnanimous | 慷慨的 | n/a — not in ch23 text |
+| generous | 慷慨的 | she's generous with her love and time |
 
 ### ⭐ 基础
 
