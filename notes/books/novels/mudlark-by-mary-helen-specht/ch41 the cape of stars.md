@@ -45,7 +45,7 @@ modified: "2026-09-19"
 
 **关键词**：not my circus, not my monkeys
 
-**为什么这样写**：Neko 用一句波兰谚语拒绝救援责任——与 ch20 的 "Helpless." 形成呼应的冷硬。但这句话的出口位置（Jules 刚宣布留下）暴露它的真实功能：她不是不在乎，是怕在乎的代价。Iggy 的沉默（his eyes were on the ground）已经替她回答了。
+**为什么这样写**：Neko 用一句波兰谚语拒绝救援责任——与 ch20 的 "Helpless." 形成呼应的冷硬。而这句话的出口位置（在 Jules 随后宣布 "I'm staying." 之前）暴露它的真实功能：她抢在所有人的承诺落地前先撒手，不是不在乎，是怕在乎的代价。Iggy 的沉默（his eyes were on the ground）已经替她回答了。
 
 **段落逻辑**：出堡与 yoke → 金丝雀的死讯 → 湖畔与 Jules 的等待 → calf wrangling 的真相与 Iggy 的 joy → 帐篷简报（Ice House 爆炸、Breakwater lockdown）→ Jules 的革命宣言与 "Not my circus" 收束。
 

@@ -31,13 +31,21 @@ modified: "2026-09-19"
 
 **为什么这样写**：她一边教 Jules 前进，一边随身携带旧物神龛、追查母亲二十五年。作者用一句自嘲让她的生存哲学当场穿帮——她的"前进"是给别人看的版本。
 
-> "“The good news is that you don’t have crotch cancer.” “The bad news is that you only have approximately six good eggs left. You guys better get busy.”"
+> "“The good news is that you don’t have crotch cancer.”"
 
-**中文理解**："好消息是你没有裆癌。""坏消息是你的好卵子大约只剩六颗了。你们最好抓紧。"
+**中文理解**："好消息是你没有裆癌。"
 
-**关键词**：good news / bad news；six good eggs；get busy
+**关键词**：The good news；crotch cancer
 
-**为什么这样写**：用体检报告的喜剧格式投递全书最疼的数字——生育倒计时。Jules 的粗鲁报数恰是她唯一的关心语法：她不会安慰，只会把坏消息大声念出来。
+**为什么这样写**：Jules 的体检播报从一句粗俗的安慰开始——她把生殖健康检查讲成杂志笑栏目。在卖骨髓、租子宫的反乌托邦诊所里，这句玩笑是两个女人之间唯一买得起的止痛药。
+
+> "“The bad news is that you only have approximately six good eggs left. You guys better get busy.” Jules made several crude hip thrusts."
+
+**中文理解**："坏消息是你的好卵子大约只剩六颗了。你们最好抓紧。"Jules 做了几个粗俗的顶胯动作。
+
+**关键词**：six good eggs；get busy；crude hip thrusts
+
+**为什么这样写**：用体检报告的喜剧格式投递全书最疼的数字——生育倒计时。Jules 的粗鲁报数与顶胯动作恰是她唯一的关心语法：她不会安慰，只会把坏消息大声念出来。而这颗定时炸弹要在 ch42-43 才炸响（"I'm out of eggs."）。
 
 > "Iggy liked to argue that they were the saddest generation—raised off the fat of one world only to live in the hunger of its shadow."
 

@@ -55,13 +55,21 @@ modified: "2026-09-19"
 
 **为什么这样写**：Layla 用鱼的物理讲死亡哲学——灵魂是那一点点让身体下沉的重量。这段疯话是全章最冷的一记：她一边生吃鳀鱼一边论证"母亲可能已死"，用科学包装残忍。Neko 的窒息（"no oxygen was reaching her lungs"）是对这套死亡学的身体表决。
 
-> "“The Wreckage. It contains her consciousness. You brought her to me.”"
+> "“The Wreckage. It contains her consciousness. You brought it, and now she and I can be free.”"
 
-**中文理解**："《The Wreckage》。里面存着她的意识。是你把她带给了我。"
+**中文理解**："《The Wreckage》。里面存着她的意识。你把它带来了，现在她和我都能自由了。"
 
-**关键词**：contains her consciousness；You brought her to me
+**关键词**：contains her consciousness；You brought it
 
 **为什么这样写**：全书最大的叙事反转在这句话里合拢：Black Channel 的神秘买家、Goldbug 母带的真实客户、甚至 "Jenny Sweet might be open to selling" 的措辞——全部服务于一个疯女人的上传执念。Neko 的二十五年寻找被重新定价：她不是来接母亲的，是来送货的。
+
+> "Aunt Layla became very still. She thumped her heart. “You brought her to me.”"
+
+**中文理解**：Layla 姨妈突然一动不动。她捶了捶自己的心口。"是你把她带给了我。"
+
+**关键词**：very still；thumped her heart；You brought her to me
+
+**为什么这样写**：疯癫的语法在这一刻精确得可怕——她不感谢，只签收。thumped her heart 的动作把"母亲在我心里"演成字面意义：专辑里的意识已经住进她的胸腔。Neko 想喊想叫却没有呼吸，因为这句"签收语"把她的二十五年改写成了一个快递单号。
 
 > "Ever since Chaplin had told her of the bunker’s message, since the beginning of this quixotic quest, that room had drained, like a film reel moving backward, restoring all possibility."
 
