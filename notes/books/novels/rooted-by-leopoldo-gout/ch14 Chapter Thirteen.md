@@ -85,7 +85,7 @@ modified: "2026-09-20"
 
 读者视角提示：注意"underlying energy of all things"（万物的潜在能量）——这意味着所有事物（包括人、植物、动物、土地）都是由同一种能量构成的。这不是"魔法"，而是"科学"——一种比现代科学更古老的宇宙观。
 
-> **原句 8:** "A granicero! One blessed by the hand of Xipe Totec himself."
+> **原句 8:** "A granicero!" she said pridefully. "One blessed by the hand of Xipe Totec himself."
 
 中文理解："一个 Granicero！一个被 Xipe Totec 亲手祝福的人。"
 

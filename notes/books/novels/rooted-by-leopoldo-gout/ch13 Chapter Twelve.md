@@ -133,14 +133,12 @@ modified: "2026-09-20"
 | rictus | 鬼脸，僵笑 | "a rictus grin that just screamed" |
 | tunneled | 缩成隧道，变窄 | "Her vision tunneled to the date" |
 | inscrutable | 难以理解的，神秘的 | "whether it was about the doctor's opinion or the box under her bed was inscrutable" |
-| mercifully | 幸运地，宽慰地 | "Maria finally, mercifully, went to the door" |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stall | 拖延，支吾 | "With Maria's frenetic stalling gone" |
-| mercifully | 幸运地，宽慰地 | "Maria finally, mercifully, went to the door" |
 | tensed | 绷紧，紧张 | "how much Maria's nervous energy had tensed her" |
 | pinched | 捏，掐 | "Aurora pinched the bridge of her nose" |
 | bridge of her nose | 鼻梁 | "Aurora pinched the bridge of her nose" |
@@ -182,7 +180,6 @@ modified: "2026-09-20"
 |词/短语 | 释义 | 例句 |
 |---------|------|------|
 | stalling | 拖延，支吾 | "With Maria's frenetic stalling gone" |
-| mercifully | 幸运地，宽慰地 | "Maria finally, mercifully, went to the door" |
 | cross | 生气的，愤怒的 | "when you get cross" |
 | soup | 汤 | "There's some soup in the fridge" |
 | fridge | 冰箱 | "There's some soup in the fridge" |

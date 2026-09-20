@@ -101,7 +101,6 @@ modified: "2026-09-20"
 | trembled | 颤抖，震动 | "The void trembled" |
 | rippling | 起涟漪，扩散 | "rippling like disturbed water" |
 | disturbed | 被扰乱的，不安的 | "rippling like disturbed water" |
-| water | 水，水分 | "rippling like disturbed water" |
 | insisted | 坚持，坚决 | "Arturo insisted" |
 | weaker | 更虚弱的，更弱的 | "his voice sounded weaker" |
 | sleeping | 睡眠，死亡 | "I just haven't been sleeping" |
