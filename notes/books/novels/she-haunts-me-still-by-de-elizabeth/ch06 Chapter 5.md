@@ -93,7 +93,6 @@ source_text: ch06
 | liminal space | 阈限空间 | "Creating a liminal space to allow for spiritual entry" |
 | séance | 降神会 | "Redeo vita," he recites softly, "mea tibi." |
 | offering | 祭品，供品 | "A dash of blood with a lock of a beautiful girl's hair" |
-| spectral | 幽灵的，灵魂的 | "How do you even know it will work?" |
 
 ### ⭐⭐ 进阶
 

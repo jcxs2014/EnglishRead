@@ -124,7 +124,6 @@ source_text: ch03
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | dormant | 休眠的，潜伏的 | "Maybe it was just dormant, waiting to be woken back up" |
-| excavation | 挖掘，发掘 | "that smell in the theater had stirred something loose inside her, excavating the fear" |
 | clutched | 紧握，抓住 | "the kitchen knife clutched in her mother's fist" |
 | hmm sound | 怀疑的哼声 | "The nurse makes a hmm sound but doesn't push further" |
 

@@ -91,7 +91,6 @@ source_text: ch39
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | sacrifice | 牺牲 | "I'm willing to sacrifice myself" |
-| redemption | 救赎 | "This is the real way out" |
 | haunt | 困扰 | "You're my ghost" |
 
 ### ⭐⭐ 进阶

@@ -80,14 +80,12 @@ source_text: ch21
 |------|------|------|
 | twisted | 扭曲的 | "Victor's twisted chivalry" |
 | predatory | 捕食性的 | "Victor's predatory behavior" |
-| chivalry | 骑士精神 | "that's hardly how you should speak to a woman" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | provocation | 挑衅 | "Jacob — our gala invitation" |
-| confrontation | 对峙 | "something unspoken hovering between them" |
 | manipulate | 操纵 | "Victor manipulates both Mallory and Ezra" |
 
 ### ⭐ 基础

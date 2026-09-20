@@ -79,7 +79,6 @@ source_text: ch23
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | confession | 坦白，忏悔 | "Mallory toys with how a confession might sound" |
-| authentic | 真实的 | "I want you to tell me something real" |
 | betray | 背叛 | "Arden's mother had been there for her, and there was no way to look her in the eye now" |
 
 ### ⭐⭐ 进阶
@@ -88,7 +87,6 @@ source_text: ch23
 |------|------|------|
 | homeroom | 年级教室 | "told our homeroom teacher he was a sexist pig" |
 | inadequate | 不充分的 | "the stuffed bunny in Mallory's fist feels completely inadequate" |
-| ultrasound | 超声 | "two damp moons kissing the curve of her thigh-high socks" |
 
 ### ⭐ 基础
 

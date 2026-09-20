@@ -91,7 +91,6 @@ source_text: ch24
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | feral | 野性的 | "More animal than human, feral and untamed" |
-| dissociate | 解离 | "Like I was outside my body" |
 | covenant | 契约 | "you'd have my undying gratitude" |
 
 ### ⭐⭐ 进阶

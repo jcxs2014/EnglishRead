@@ -80,7 +80,6 @@ source_text: ch38
 |------|------|------|
 | sanctuary | 避难所 | "Mercy Island as witch sanctuary" |
 | witch | 女巫 | "a community of women in white" |
-| identity | 身份 | "outward-facing version of yourself" |
 
 ### ⭐⭐ 进阶
 

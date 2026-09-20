@@ -91,7 +91,6 @@ source_text: ch32
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | immortality | 永生 | "Unending life. Immortality. Lasting power, for all of time" |
-| redemption | 救赎 | "the gift of the seventh perfect heart" |
 | congregation | 会众 | "Our Lord has blessed this congregation" |
 
 ### ⭐⭐ 进阶
@@ -100,7 +99,6 @@ source_text: ch32
 |------|------|------|
 | sacrifice | 牺牲 | "every woman in that bloodline has offered her own carved-out heart" |
 | eternal | 永恒的 | "an eternal bond between Our Lord and the bloodline" |
-| invocation | 祈祷 | "the evocation would result in my death" |
 
 ### ⭐ 基础
 

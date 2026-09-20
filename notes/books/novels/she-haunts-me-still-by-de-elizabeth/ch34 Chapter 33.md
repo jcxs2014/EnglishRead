@@ -104,8 +104,6 @@ source_text: ch34
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | occult | 巫术，神秘学 | "Some kind of tie to the occult" |
-| spectral | 幽灵的 | "Places can be haunted, too" |
-| reconcile | 和解 | "Arden steps back and Mallory kneels before Saskia" |
 
 ### ⭐⭐ 进阶
 

@@ -90,8 +90,6 @@ source_text: ch17
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dissociation | 分离，解离 | "Mallory goes somewhere else when it happens" |
-| luminous | 发光的，明亮的 | "glittering snow beside Kiki" |
 | silhouette | 轮廓，剪影 | "silhouettes turning into angels" |
 
 ### ⭐⭐ 进阶
@@ -108,7 +106,6 @@ source_text: ch17
 |------|------|------|
 | throat | 喉咙 | "Ezra unlatches from her throat" |
 | sob | 啜泣 | "A sob breaks loose from her chest" |
-| sparkle | 闪烁 | "glittering snow" |
 
 ---
 
