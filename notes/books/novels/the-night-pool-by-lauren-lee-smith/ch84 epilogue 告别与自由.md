@@ -33,7 +33,7 @@ modified: "2026-09-21"
 
 **句子结构：** I wish + 宾补（a slumbering so deep and long）+ that 结果从句（my bones have crumbled before its hunger is roused）。
 
-**关键词：** a slumbering so deep and long, my bones crumble to dust, its insatiable hunger
+**关键词：** a slumbering so deep and long, crumble to dust, its insatiable hunger
 
 **表达方式：** 「我的骨头化为尘土」（my bones have crumbled to dust）——她的许愿以自己的一生为尺度；「无法满足的饥饿」（insatiable hunger）——它被归还给它的本体（ch41 的 hungry、ch63 的「我太饿了」）。
 
@@ -107,7 +107,7 @@ modified: "2026-09-21"
 
 **关键词：** these whisperings, Put them out of your mind
 
-**表达方式：** 「低语」（whisperings）——镇上对 Will 的传说（ch83 的「戴着鹿角冠、吃人肉的男人」）；「赶出去」（Put them out of your mind）的命令句是她对朋友的保护。
+**表达方式：** 「低语」（whisperings）——镇上对 Will 的传说（本章的「戴着鹿角冠、吃人肉的男人」）；「赶出去」（Put them out of your mind）的命令句是她对朋友的保护。
 
 **为什么这样写：** 全书的最后一处悬念的铺设：Clara 听说「一个戴着角冠、吃人肉的男人」的传闻——她在想那会不会是 Will（ch74 的坠池）。作者让 Haloke 的否认（"Clara, no."）成为这份希望的第一个反对票——而她自己的直觉（下一句 Clara 的追问）将让这份否认站不住。
 
@@ -167,7 +167,7 @@ modified: "2026-09-21"
 
 **关键词：** keep it alive, as I promised
 
-**表达方式：** 「让它活下去」（keep it alive）——把知识写成生命体；「像我承诺的那样」（as I promised）的从句把本书的所有遗命（ch21 的「找回我的眼」、ch67 的「给出去」、ch79 的「去记住」）收成一个未完成时。
+**表达方式：** 「让它活下去」（keep it alive）——把知识写成生命体；「像我承诺的那样」（as I promised）的从句把本书的所有遗命（ch21 的「找回我的眼」、ch67 的「把他带给她」、ch79 的「去记住」）收成一个未完成时。
 
 **为什么这样写：** 全书的最后一行（Haloke 侧）：她的结局不是安宁，是工作。作者以「我会找到、我会让它活着」的两个将来时结束她的篇章——她的萨满生涯刚刚开始。这份开放式的收尾也是本书对她最公平的待遇：她没有得到平静（那不属于她），得到的是一个更难的、更有意义的任务。
 

@@ -25,7 +25,7 @@ modified: "2026-09-21"
 
 **表达方式：** 「野花」（wildflowers）——Clementine 的旧名（ch76 的 "the wildflower of Coloma"）在此被季节拒绝；「不是……的季节」（no time for）的措辞把她的死在时间上钉死。
 
-**为什么这样写：** 全书的第一句（也是最后一段叙述的第一句）：她的悼念从「没有花」开始。作者让 Clara 找花的动作继续（下一句的 "I scour the frozen ground... for them anyway"）——她明知没有也要找。这份执拗是本章的基调：在传说接管一切的地方，她选择做一个「不合时宜的人」。
+**为什么这样写：** 本章的第一句（也是全书最后一段叙述的第一句）：她的悼念从「没有花」开始。作者让 Clara 找花的动作继续（下一句的 "I scour the frozen ground... for them anyway"）——她明知没有也要找。这份执拗是本章的基调：在传说接管一切的地方，她选择做一个「不合时宜的人」。
 
 > **原句 2:** "They crossed themselves and whispered, The Demon of Coloma is dead, and let me be."
 
@@ -59,7 +59,7 @@ modified: "2026-09-21"
 
 **关键词：** like little stones in my chest, not quite as heavy as before, like Haloke said
 
-**表达方式：** 「小石头」（little stones）——与 ch85 的「河流的石」（Haloke 的比喻）一致的重量感；「像 Haloke 说的」（like Haloke said）把她朋友的话引用为生活准则。
+**表达方式：** 「小石头」（little stones）——与 ch83 的「河流的石」（Haloke 的比喻）一致的重量感；「像 Haloke 说的」（like Haloke said）把她朋友的话引用为生活准则。
 
 **为什么这样写：** 全章对悲伤的最终处理：她接受了一种「带着走」的模式（不治愈、不遗忘、不假装轻）。作者让她复述 Haloke 的教导（ch84 的「悲伤是心的爱之记忆」）——两位女主的关系在最后一章以「引用」的形式确认：她带走的不只是记忆，还有一套活下去的方法。
 
@@ -85,7 +85,7 @@ modified: "2026-09-21"
 
 **表达方式：** 「像她从未来过」（like she was never even here）——抹除的完成时；「记得我们中的任何一个」（remembered...any of us）的复数把她自己也算进被遗忘的名单。
 
-**为什么这样写：** 全章的挽歌核心：遗忘的速度（"It's been over a month, and the town is already rebuilding on the same land"）。作者让这个问题（谁会记得）成为本章的真正主题——而她用接下来的行动（在坟上放花、去寻找）回答了它：至少她记得。
+**为什么这样写：** 全章的挽歌核心：遗忘的速度（"Soon, it will be like Clementine was never even here."）。作者让这个问题（谁会记得）成为本章的真正主题——而她用接下来的行动（在坟上放花、去寻找）回答了它：至少她记得。
 
 > **原句 7:** "I closed my old eyes when I jumped in, and opened new ones when I emerged."
 
@@ -95,7 +95,7 @@ modified: "2026-09-21"
 
 **关键词：** my old eyes, new ones, jumped in
 
-**表达方式：** 「旧眼睛/新眼睛」（old eyes / new ones）的替换把她的水下经历写成一次视觉的更新——与 ch79 的 Haloke 的「我不想再看了」对照。
+**表达方式：** 「旧眼睛/新眼睛」（old eyes / new ones）的替换把她的水下经历写成一次视觉的更新——与 ch79 Mei 要 Haloke「别合上沉重的眼睑」的呼喊相对照。
 
 **为什么这样写：** 全章（也是全书）对她这份变化的定义：她的眼睛换了（她能看见山谷的美、死者的颜色、传说的形状）。作者用「跳进去/浮出来」（jumped in / emerged）的一对动词完成她全书的弧线——从 ch15 的跳（想死）到 ch42 的跳（想救），再到这一次的跳（穿越）——她的每一次入水都换来一层新的视力。
 
@@ -119,7 +119,7 @@ modified: "2026-09-21"
 
 **关键词：** shaped almost like a tooth, Will's half smile, a shock of pain
 
-**表达方式：** 「像一颗牙」（like a tooth）——金子的形状与他的金牙（ch06 起）相连；「半笑」（half smile）——Will 的标志性表情（ch70 的 "his lip lifts in a half smile"）在此成为痛的触发器。
+**表达方式：** 「像一颗牙」（like a tooth）——金子的形状与他的金牙（ch14 起）相连；「半笑」（half smile）——Will 的标志性表情（ch70 的 "Will's lip lifts in a half smile."）在此成为痛的触发器。
 
 **为什么这样写：** 全章的哀悼符号（也是本书对 Will 的最后一个物件）：一粒形似牙齿的金块。作者用这个细节让他的存在以最轻的方式回归（一块金子、一颗牙的形状）——Clara 把它放进口袋（"I pluck the little nugget from the sand and slip it into my pocket"），像他留下的一枚信物。
 
@@ -153,7 +153,7 @@ modified: "2026-09-21"
 
 **句子结构：** But 转折（do not say goodbye to love）+ This love will live on + as beautiful grief 补足 + and I will hold it dear + until 时间从句（I join my beloved dead）。
 
-**关键词：** do not say goodbye to love, beautiful grief, until I join my beloved dead in the ground
+**关键词：** do not say goodbye to love, beautiful grief, until someday I join my beloved dead in the ground
 
 **表达方式：** 「美丽的悲伤」（beautiful grief）——她把 Haloke 的教导（ch84 的「悲伤是心的爱之记忆」）翻译成自己的措辞；「加入我亲爱的死者」（join my beloved dead）把死亡写成团聚（与 ch01 的亡者圆屋同构）。
 
