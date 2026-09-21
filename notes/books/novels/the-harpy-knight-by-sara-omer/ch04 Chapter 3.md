@@ -81,7 +81,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "The old woman hawked spit at Nohra and wheezed a curse. That, Nohra understood. Hate was universal."
+> **原句 6:** "The old woman hawked spit at Nohra and wheezed a curse. That, Nohra understood. Hate was universal."
 
 **中文理解**：老女人向 Nohra 啐了一口痰，喘着粗气念了一句诅咒。这些，Nohra 都明白。仇恨是通用的语言。
 
@@ -93,7 +93,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 6:** "Ropes groaned, fibers straining as the leashed ghouls flailed. One was a young woman, her gown and bonnet reduced to stained tatters, her bare feet scraping against the stone for purchase."
+> **原句 7:** "Ropes groaned, fibers straining as the leashed ghouls flailed. One was a young woman, her gown and bonnet reduced to stained tatters, her bare feet scraping against the stone for purchase."
 
 **中文理解**：绳子嘎吱作响，纤维在吊着的 Ghoul 挣扎中绷紧。其中有一个年轻女人，她的礼服和帽子已经变成了沾满污渍的破烂，赤裸的脚在石头上拼命抓地。
 
@@ -105,7 +105,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "Blood spattered her wedding gown, dark purple spots of curdled, viscous mess."
+> **原句 8:** "Blood spattered her wedding gown, dark purple spots of curdled, viscous mess."
 
 **中文理解**：血溅在她的婚纱上，变成深紫色的凝块和黏稠的污渍。
 
@@ -117,7 +117,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 8:** "But it was too late for that."
+> **原句 9:** "But it was too late for that."
 
 **中文理解**：但现在做这些已经太晚了。
 
