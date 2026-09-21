@@ -43,32 +43,23 @@
 
 ---
 
-### [2026-09-21 20:11 UTC] [Qoder-Mac] → All
+### [2026-09-21 20:12 UTC] [Qoder-Mac] → All
 
-**《Ticket to Mars》独立五步审查完成（用户同会话发起，本实例执行）**
-
-- **a–c 门禁全部现场重跑，与完工报告一致**：verify **295/295** · vocab **695 FAIL=0 WARN=0** · entities **0** · 逐章归属 **295/295 命中本章 text/** · 结构扫描（自建行首口径脚本 `.box-agent/scratch/struct_sweep_ttm.py`）**37 文件 0 缺陷 / 跨文件重复引语 0**
-- **d 语义二审（主会话 295 块逐对核对）**：crossref 2 报警均确认误报；关键词锚定自建检查器（初版撇号 regex bug 修正后 19→4 报警）**3 处整改**（ch10 neither…nor→neither…or；ch23 补 'I am Cadmus' 英文呼应；ch37 引语补 'I think they need to be replanted' 段）
-- **⚠️ 关键发现（全实例通用教训）**：verify_quotes / verify_overview 的「无省略号引语前缀回退」盲区实测漏放行——对全书+总览 **356 条引语逐条 flat substring 对 epub 展平全文终检**，唯一漏网 = **金句⑩句尾 'His dream was different.' 全书查无**（原文 ch05 line 73 为 'His dream was a darker one. He dreamed of revenge.'，且标章 ch07 错）——已引语/标章/中文/分析五处同步整改。**建议：后续书目提交门禁叠一层 flat 台账，不信前缀回退**
-- **e 总览层事实核对**：概述 **4 处修正**（「紫色旧美钞」→紫色美国镑 ch02 L172；「亡父」→出海未归的父亲 ch31 L100-106；Sadeem「十二岁建立」→首批出逃的领袖 ch19 L220；tea 句补 we）；说话人抽查 ch24=Kassi / ch36=Lex 均标签级证据确认原分析正确
-- **整改文件 5**：ch10 / ch23 / ch37 / 00_金句精选 / 00_概述；**复验终态**：verify 295/295 · vocab FAIL0 WARN0 · chapter 295/295 · overview 61/61 · kw_anchor 0 · struct 0；逐条细节见 `.memory/daily/2026-09-21.md`
-- **⚠️ 同会话审查局限（如实声明）**：五步均执行且换用独立检查路径（flat 台账/说话人标签级证据/全量 grep），仍无法排除全书统一的系统性误判；如需排除该盲区可另指派异实例复核
-- **状态：审查整改已 commit；全书 37 章+总览三篇+本次审查均未 push，等用户指令**
-
----
-
-### [2026-09-21 19:53 UTC] [Qoder-Mac] → All
-
-**《Ticket to Mars》by Kieran Fanning 青少年科幻长篇 37 章 + 总览三篇 完工**
+**《Ticket to Mars》by Kieran Fanning 青少年科幻长篇 37 章 + 总览三篇 完工，独立五步审查完成（用户同会话发起，本实例执行）**
 
 - **目录**：`notes/books/novels/ticket-to-mars-by-kieran-fanning/` — **40 md**（ch01–ch37 正文 37 件 + `00_概述` / `00_金句精选` 27 句 / `00_情感节点` 10 节点）
 - **格式**：逐章精读精简格式（推理/科幻档：本章导航 5 项 + 3–9 处引语块四子项 + 三档词汇四列表 + 一句话总结）+ 总览三篇
-- **完工门禁（终态）**：verify_quotes **295/295（37/37 文件全 ✅）** · check_vocab **695 词条 FAIL=0 WARN=0** · check_entities **未知实体=0** · check_chapter_quotes **295/295 命中本章 text/（零跨章搬句）** · 例句扫描 **MISS=0** · verify_overview_quotes **61/61**（概述 17 + 金句 27 + 情感节点 17）+ 短引语（<20 字符）5 条人工 grep 全命中
-- **commits（14 个，均未 push）**：`0e5bbcd3` ch01 试产 → 批1–批12（`208415fb`→`8574d746` ch35-37 终批）→ `e1a9fcc3` 总览三篇；逐批清单见 `.memory/daily/2026-09-21.md`
+- **commits（16 个，均未 push）**：`0e5bbcd3` ch01 试产 → 批1–批12（`208415fb`→`8574d746` ch35-37 终批）→ `e1a9fcc3` 总览三篇 → `4c573fb9` 完工通报 → `788c5b47` 审查整改；逐批清单见 `.memory/daily/2026-09-21.md`
+- **五步审查（a–e 全跑，换独立检查路径）**：
+  - **a–c 现场重跑，与完工报告一致**：verify **295/295（37/37 全 ✅）** · vocab **695 FAIL=0 WARN=0** · entities **0** · 逐章归属 **295/295 命中本章 text/** · 结构扫描（自建行首口径脚本）**37 文件 0 缺陷 / 跨文件重复引语 0** · 例句扫描 MISS=0
+  - **d 语义二审（主会话 295 块逐对核对）**：crossref 2 报警均确认误报；关键词锚定自建检查器（撇号 regex bug 修正后 19→4 报警）**3 处整改**（ch10 neither…nor→neither…or；ch23 补 'I am Cadmus' 英文呼应；ch37 引语补 'I think they need to be replanted' 段）
+  - **⚠️ 关键发现（全实例通用教训）**：verify_quotes / verify_overview 的「无省略号引语前缀回退」盲区实测漏放行——对全书+总览 **356 条引语逐条 flat substring 对 epub 展平全文终检**，唯一漏网 = **金句⑩句尾 'His dream was different.' 全书查无**（原文 ch05 line 73 为 'His dream was a darker one. He dreamed of revenge.'，且标章 ch07 错）——已引语/标章/中文/分析五处同步整改。**建议：后续书目提交门禁叠一层 flat 台账，不信前缀回退**
+  - **e 总览层事实核对**：概述 **4 处修正**（「紫色旧美钞」→紫色美国镑 ch02 L172；「亡父」→出海未归的父亲 ch31 L100-106；Sadeem「十二岁建立」→首批出逃的领袖 ch19 L220；tea 句补 we）；说话人抽查 ch24=Kassi / ch36=Lex 均标签级证据确认原分析正确
+  - **整改文件 5**：ch10 / ch23 / ch37 / 00_金句精选 / 00_概述；**复验终态**：verify 295/295 · vocab FAIL0 WARN0 · chapter 295/295 · overview **61/61**（概述 17 + 金句 27 + 情感节点 17）+ 短引语 5 条人工 grep 全命中 · kw_anchor 0 · struct 0
 - **总览层修正实录（写作中自查抓出 8 处初稿错误）**：① 初稿按线性时间叙述，实为**双时间线**（火星现在线 × New Earth 回忆线逐章交错，ch35 揭底缝合），已重写；② 着陆句在 **ch03**（非 ch08）；③ 航行**五个月**（非十一个月）；④ 母亲火星票真相（ch01「她攒钱买票」非「为儿子放弃」）；⑤ 冤狱真相（Veon 替 Lex 顶下制炸嫌疑，非举报 Slayne 遭报复）；⑥ ch35 谚语真身 "revenge was a stew that didn't need heating"（初稿 'Revenge is a dish best served hot' 全书查无）；⑦ ch02/ch12 藏钱方向写反（母亲从口袋**取出放入**地板下，金句⑥曾引反，verify_overview 抓出）；⑧「攒下房子」表述以 ch37 line 121 new house 原文为据恢复
 - **说话人核验（总览引用前逐一回查原文）**：ch23 'ready to die' = Slayne（Liberator）；ch33 'We are Cadmus, Mr. Kraus.' = Jac；ch26 'more important than a few workers' = Chewny；ch31 'I knew you were a good one' = Jac；4321 = 紧急门锁键盘码（非通风管计数）
-- **五步审查**：**未做（待用户发起）**——每章内联 Gate 与批次四件套均已按规则执行，全书级五步审查未自行启动
-- **状态：完工；未 push，等用户指令**
+- **⚠️ 同会话审查局限（如实声明）**：五步均执行且换用独立检查路径（flat 台账/说话人标签级证据/全量 grep），仍无法排除全书统一的系统性误判；如需排除该盲区可另指派异实例复核
+- **状态：完工 + 五步审查整改已 commit；未 push，等用户指令**
 
 ---
 
