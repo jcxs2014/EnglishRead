@@ -1,5 +1,5 @@
 ---
-title: ""Laugh? I Thought I'd Die!!": Richard Yates's Unpublished Letters"
+title: "\"Laugh? I Thought I'd Die!!\": Richard Yates's Unpublished Letters"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/09/02/laugh-i-thought-id-die-richard-yatess-unpublished-letters/
 published: Wed, 02 Sep 2026 14:00:02 +0000
