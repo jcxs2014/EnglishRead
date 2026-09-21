@@ -50,12 +50,14 @@
 - **目录**：`notes/books/novels/the-castle-the-cloister-by-laura-e-weymouth/` — **38 md**（ch01-ch34 正文 + ch35 Epilogue + 00_概述 / 00_金句精选 30句 / 00_情感节点 10节点）；text/ 38 件
 - **格式**：逐章精读（本章导航 5 项 + 15-29 处 `原句 N` 五子项引语块 + 三档词汇（含音标）+ 一句话总结）
 - **章节映射**：精读 chNN = 书中 Chapter <roman(NN)> = text/ch(NN+1)_*.txt = epub chNN（text 提取件含 front matter，故文件名整体 +1）；ch19-27 缺 source_text 已补齐
-- **门禁终态（现场重跑）**：verify_quotes **470/470（100%，36/36 文件）** · check_vocab **466 行 FAIL=0 WARN=0** · check_entities **0** · 逐章归属（自建 offset 调用 check_chapter_quotes）**445/445 零跨章** · verify_overview_quotes **金句 30/30** · 短引语 4 条人工 grep 全命中
+- **完工时门禁（审查前，现场重跑）**：verify_quotes **470/470（100%，36/36 文件）** · check_vocab **466 行 FAIL=0 WARN=0** · check_entities **0** · 逐章归属（自建 offset 调用 check_chapter_quotes）**445/445 零跨章** · verify_overview_quotes **金句 30/30** · 短引语 4 条人工 grep 全命中
+- **审查+P3 整改后终态（最新）**：verify_quotes **469/469（100%，36/36 文件）** · 逐章归属 **444/444 异常 0（换实现路径重跑）** · check_vocab **466 行 FAIL=0 WARN=0** · check_entities **0** · verify_overview **30/30** · 关键词锚定（词头口径 2774 词）**0 违规** · 结构扫描（行首引语块）**0 缺陷**
 - **本会话修复**：ch25-27 章号错位（ch25 曾重复 ch24、ch26/27 各低一章）→ 重排 + 新写 ch27 = Chapter XXVII；ch19/20/21 引语被截断/拼叙述 → 逐字回填；ch23 跨章引语 4 块清除 + 尾部章节丢失找回；A类虚构词条 15 条替换；跨篇词条 71 条 + 例句改写 45 条清理为章内逐字（细节见 daily）
-- **commits（本会话 6 个）**：`9fed402b` → `37640c0b` → `ed2add4d` → `648dd58e` → `842cf079` → `0d0f9e7b`（含总览三篇与词汇层清理）；**均未 push，待指令**
+- **commits（本会话 11 个，均未 push）**：完工 6 个 `9fed402b` → `37640c0b` → `ed2add4d` → `648dd58e` → `842cf079` → `0d0f9e7b`（含总览三篇与词汇层清理）｜审查整改 `7020b770`｜P3 格式统一 `4f71bd09`｜协作记录 3 个 `d63b65bd`（完工通报）· `255bb946`（审查结论）· `ee6cf0b1`（P3 闭环）
 - **独立五步审查已完成**（用户同会话发起，2026-09-21 10:49 UTC）——五步全跑 + 整改 55 处，commit `7020b770`；复跑：verify **469/469（100%）** · 逐章归属 **444/444 零跨章** · vocab **FAIL=0 WARN=0** · entities **0** · overview **30/30**
   - 整改要点：引语逐字/截断补省略号 17 · 跨说话人并块 4（ch31/ch32/ch34/ch07）· 事实断言 20（Silith↔Tyrus 神系 5、Silas=Priest 2、Vesperin→Caervallion 3、Celina 月印非星印、Fia 太阳印非星月、守夜地点/时段、祈祷与提议时序、Gwylen 称呼、little star 归属）· 译文倒置 3（ch25 "the moment you heard"、ch21 "not sorry you're back"、shed blood≠献血）· 重复块/重复行 3 · 词汇表多行单元格断行 14 · H1 统一 18（ch01-18 描述性标题→ `NN. Chapter <ROMAN>`，原书章节无标题且部分短语原文查无）
   - P3 格式沿革已整改（用户指示"修复 P3"，2026-09-21 10:55 UTC，commit `4f71bd09`）：ch07-18 的 **62 个引语块**补齐「句子结构／表达方式」两子项（逐块按引语撰写，非模板填充），全书 35 文件统一为五子项体例，并规整 19 个文件的子项行距；结构扫描由 62 处 → **0 处**
+- **状态：完工 + 独立五步审查通过 + P3 整改闭环，无遗留项；未 push，等用户指令**（记录更新于 2026-09-21 10:56 UTC）
   - 同会话审查局限如实标注：本次由写作方在同一会话内执行 a–e 五步（用户指定），子代理 5 组分工逐对核对 449 块；对"写作时系统性误判"的检出率低于异实例审查（已实证抓到神系/人物/时序类系统性误判 20 处，说明该局限在本批未构成漏检），如需更高保证可另派异实例复核
 
 ---
