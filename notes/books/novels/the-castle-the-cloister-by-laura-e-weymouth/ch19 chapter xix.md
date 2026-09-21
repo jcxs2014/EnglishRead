@@ -1,4 +1,5 @@
 ---
+source_text: ch20
 status: 未读
 modified: "2026-09-21"
 ---
@@ -301,23 +302,23 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 21:** "Fia slept little that night. The goddess-sent dream was meant to be a gift—a glimpse of foresight and an opportunity for obedience granted to the lucky few."
+> **原句 21:** "A goddess-sent dream was meant to be a gift—a glimpse of foresight and an opportunity for obedience granted to the lucky few."
 
-**中文理解：** Fia 那一夜几乎没睡。神灵赐予的梦本该是一份礼物——对少数被选中的人而言，是先见之明与顺从的机会。
+**中文理解：** 神灵赐予的梦本该是一份礼物——给少数幸运者的一瞥先见，与一次顺从的机会。
 
 **句子结构：** 主句 + 同位语结构（a glimpse of foresight and an opportunity...）。
 
 **关键词：** goddess-sent dream（神灵赐予的梦——Raea 通过梦传达神意）；foresight（先见之明——预言能力）；obedience（顺从——Raea 信仰的核心要求）
 
-**表达方式：** "meant to be"揭示 Fia 对梦的预期功能——她本应将其视为指引。
+**表达方式：** "meant to be"与"granted to the lucky few"两处被动语态把主动权交给神意——梦不是邀请，而是判决。
 
 **为什么这样写：** "meant to be"是本章的核心反讽：Fia 本应接受这梦，但她选择拒绝。
 
 ---
 
-> **原句 22:** "In her dream, the castle proper loomed before her, its front gates thrown wide, its central courtyard teeming with people, more of them spilling out into the streets beyond."
+> **原句 22:** "The castle proper loomed before her, its front gates thrown wide, its central courtyard teeming with people, more of them spilling out into the streets beyond."
 
-**中文理解：** 在梦中，城堡主体建筑耸立在她面前，前门大开，中央庭院挤满了人，更多的人涌出到外面的街道上。
+**中文理解：** 城堡主体建筑耸立在她面前，正门大开，中央庭院挤满了人，更多的人涌到外面的街道上。
 
 **句子结构：** 主句 + with 独立主格结构（its front gates...its central courtyard...）。
 

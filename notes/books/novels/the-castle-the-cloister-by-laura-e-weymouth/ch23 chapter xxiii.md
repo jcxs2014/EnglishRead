@@ -1,4 +1,5 @@
 ---
+source_text: ch24
 status: 未读
 modified: "2026-09-21"
 ---
@@ -259,7 +260,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 19:** "'Not a king,' Fia said, relentless in her demands. 'I want a regent. I want a stable Honoria, and no civil war to come from all of this. I want Afon thwarted, and Ariana safe. Which means you standing against Lucian and whoever else grasps at power, and claiming the throne on Justus's behalf.'"
+> **原句 18:** "'Not a king,' Fia said, relentless in her demands. 'I want a regent. I want a stable Honoria, and no civil war to come from all of this. I want Afon thwarted, and Ariana safe. Which means you standing against Lucian and whoever else grasps at power, and claiming the throne on Justus's behalf.'"
 
 **中文理解：** "不是国王，"Fia 说，在她的要求中毫不退让。"我想要摄政王。我想要稳定的 Honoria，以及不因这一切引发内战。我想要 Afon 被阻止，Ariana 安全。这意味着你要站出来对抗 Lucian 和任何争夺权力的人，以 Justus 的名义宣称王位。"
 
@@ -272,93 +273,4 @@ modified: "2026-09-21"
 **为什么这样写：** Fia 理解 Priest 不想成为国王——所以她提出的是摄政王的位置，服务于 Justus。这比"成为国王"更容易接受，但实质上是相同的权力。
 
 ---
-
-> **原句 20:** "'I need this,' she said, her voice low. 'I need it because Ariana does. She's in chains now because I was in the wrong room the morning a king died.'"
-
-**中文理解：** "我需要这个，"她说，她的声音低沉。"我需要它，因为 Ariana 需要。她现在在锁链中，因为国王死去的那天早上我在错误的房间里。"
-
-**句子结构：** I need this + I need it because...的双重表达 + because...的因果解释。
-
-**关键词：** I need this（我需要这个——Fia 强调她的需求是真实的）；the wrong room the morning a king died（国王死去的那天早上在错误的房间——Fia 被牵连的原因）
-
-**表达方式：** "the wrong room"是 Fia 的自我责备——她在错误的时间出现在错误的地点，这导致她被指控。
-
-**为什么这样写：** Fia 的内疚是真实的——她相信如果她不在那个房间，Ariana 就不会被指控。这是她坚持要救 Ariana 的核心原因。
-
----
-
-> **原句 21:** "'Don't,' the Priest warned."
-
-**中文理解：** "不要，"Priest 警告道。"不要像这样利用他。"
-
-**句子结构：** 两个否定祈使句；Don't use him like this 指向 Fia 用 Justus 作为筹码。
-
-**关键词：** Don't use him like this（不要像这样利用他——Priest 反对 Fia 用 Justus 来说服他）
-
-**表达方式：** 重复的"Don't"是强调——Priest 意识到 Fia 在用 Justus 迫使他做出决定。
-
-**为什么这样写：** Priest 反对 Fia 用 Justus 作为筹码——但即便如此，他仍然接受了她的计划。这显示了他最终对 Justus 的责任感。
-
----
-
-> **原句 22:** "'He deserves a proper chance to live and to claim his birthright,' Fia said. 'Besides which, if you leave, I will stay here. I will confess to having aided Ariana in murdering Orden, at Dolenza's behest. We will both be executed. The cloister will be razed.'"
-
-**中文理解：** "他值得一个适当的机会来活着并要求他的继承权，"Fia 说。"此外，如果你离开，我会留在这里。我会承认在 Dolenza 的要求下帮助 Ariana 谋杀了 Orden。我们两个都会被处决。修道院会被摧毁。"
-
-**句子结构：** He deserves... + Besides which...的条件威胁句。
-
-**关键词：** He deserves a proper chance（他值得一个适当的机会——Fia 对 Justus 的主张）；if you leave, I will stay（如果你离开，我会留下——Fia 的威胁）
-
-**表达方式：** Fia 的威胁是精心设计的——如果 Priest 离开，她会认罪，导致她自己、Ariana 和修道院都被摧毁。
-
-**为什么这样写：** Fia 用她的生命和修道院的存亡作为筹码——如果 Priest 不接受，她就会执行她的威胁。这是一个绝对的最后通牒。
-
----
-
-> **原句 23:** "'Very well,' she conceded."
-
-**中文理解：** "好吧，"她让步了。
-
-**句子结构：** 极简的独立直接引语。
-
-**关键词：** Very well（好吧——Fia 接受 Priest 提出的条件）
-
-**表达方式：** "Very well"是 Fia 对 Priest 提出"债务"条件的接受——她同意欠他一个"债务"，并会在他要求时偿还。
-
-**为什么这样写：** 这是 Fia 和 Priest 达成协议的最后一步——她同意欠他一个无法拒绝的"债务"。这个"债务"将在后文发挥关键作用。
-
-**段落逻辑：** Fia 被囚于储藏室 → Lucian 告诉她 Ariana 已经认罪 → Fia 被推入 cave 逃向 Priest → 发现 Priest 在收拾行李准备逃亡 → 两人争论是否应该离开 → Fia 提议让 Priest 成为摄政王 → Priest 拒绝但 Fia 用 Justus 和她的生命作为筹码 → 达成协议 → Fia 欠 Priest 一个"债务"。
-
-## 本章词汇
-
-### ⭐⭐⭐ 高级
-
-| 词汇 | 音标 | 释义 | 例句 |
-|------|------|------|------|
-| relentless | /rɪˈlentləs/ | 毫不退让的 | …relentless in her demands. |
-| behest | /bɪˈhest/ | 命令、要求 | …at Dolenza's behest. |
-| gauntlet | /ˈɡɔːntlət/ | 交叉冲突 | — |
-| sunder | /ˈsʌndər/ | 分裂、切开 | — |
-
-### ⭐⭐ 进阶
-
-| 词汇 | 音标 | 释义 | 例句 |
-|------|------|------|------|
-| storeroom | /ˈstɔːruːm/ | 储藏室 | …a stinking back storeroom… |
-| cursory | /ˈkɜːsəri/ | 粗略的、草率的 | — |
-| repudiate | /rɪˈpjuːdieɪt/ | 拒绝、否认 | — |
-
-### ⭐ 基础
-
-| 词汇 | 音标 | 释义 | 例句 |
-|------|------|------|------|
-| chain | /tʃeɪn/ | 锁链 | She's in chains now. |
-| throat | /θrəʊt/ | 喉咙 | — |
-| trust | /trʌst/ | 信任 | — |
-| swear | /sweər/ | 发誓 | By Bright Raea and my mark, I swear… |
-| debt | /det/ | 债务 | I want you to remember that you owe me a debt. |
-
-## 一句话总结
-
-Fia 从囚犯变成策划者，用 Raea 教派的支持作为筹码说服 Priest 成为摄政王，以 Justus 的名义争夺王位，从而保护 Ariana 和修道院免于毁灭。
 

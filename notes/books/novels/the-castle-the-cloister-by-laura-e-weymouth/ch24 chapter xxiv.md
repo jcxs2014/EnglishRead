@@ -1,4 +1,5 @@
 ---
+source_text: ch25
 status: 未读
 modified: "2026-09-21"
 ---
@@ -77,7 +78,21 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "'He deserves a proper chance to live and to claim his birthright,' Fia said. 'Besides which, if you leave, I will stay here. I will confess to having aided Ariana in murdering Orden, at Dolenza's behest. We will both be executed. The cloister will be razed.'"
+> **原句 5:** "'I need this,' she said, her voice low. 'I need it because Ariana does. She's in chains now because I was in the wrong room the morning a king died.'"
+
+**中文理解：** "我需要这个，"她低声说。"我需要它，因为 Ariana 需要。她现在戴着镣铐，就因为国王死的那天早上我走错了房间。"
+
+**句子结构：** 直接引语 + 两个 because 从句（I need it because Ariana does / She's in chains now because...）。
+
+**关键词：** I need this（我需要这个——不是想要，是需要）；in chains（戴着镣铐——Ariana 的处境）
+
+**表达方式：** 两个"because"把责任链钉死：Fia 需要权力 → 因为 Ariana 需要 → 因为 Ariana 因她的失误被捕。逻辑上没有退路。
+
+**为什么这样写：** 这是 Fia 说服策略的转折——她不再用利害说服 Priest，而是把责任与愧疚摆上桌面。她把 Ariana 的处境归因到自己身上，正是要 Priest 也分担同一份愧疚。
+
+---
+
+> **原句 6:** "'He deserves a proper chance to live and to claim his birthright,' Fia said. 'Besides which, if you leave, I will stay here. I will confess to having aided Ariana in murdering Orden, at Dolenza's behest. We will both be executed. The cloister will be razed.'"
 
 **中文理解：** "他值得一个适当的机会来活着并要求他的继承权，"Fia 说。"此外，如果你离开，我会留在这里。我会承认在 Dolenza 的要求下帮助 Ariana 谋杀了 Orden。我们两个都会被处决。修道院会被摧毁。"
 
@@ -91,7 +106,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 6:** "'Don't,' he warned. 'Don't use him like this.'"
+> **原句 7:** "'Don't,' he warned. 'Don't use him like this.'"
 
 **中文理解：** "以光之 Raea 和我的印记，我发誓在你不论何时要求偿还时，立即且毫无疑问地履行我欠你的债务。"
 
@@ -105,7 +120,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "'Very well, then,' the Priest said. 'Let us begin the work of claiming Honoria's throne.'"
+> **原句 8:** "'Very well, then,' the Priest said. 'Let us begin the work of claiming Honoria's throne.'"
 
 **中文理解：** "那就这样吧，"Priest 说。"让我们开始为夺取 Honoria 王位而努力吧。"
 
@@ -119,7 +134,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 8:** "Standing on the threshold to her private apartment, the Priest wiped his damp hands on the fabric of his trousers, cursing the nerves rising within him."
+> **原句 9:** "Standing on the threshold to her private apartment, the Priest wiped his damp hands on the fabric of his trousers, cursing the nerves rising within him."
 
 **中文理解：** 站在她私人公寓的门口，Priest 在裤子上擦干他潮湿的双手，诅咒着在他体内上升的紧张情绪。
 
@@ -133,7 +148,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 9:** "'Well,' a rough voice said. 'The Priest Who Dwells In Darkness on my doorstep. Never thought I'd see the day. I suppose you'd best come in.'"
+> **原句 10:** "'Well,' a rough voice said. 'The Priest Who Dwells In Darkness on my doorstep. Never thought I'd see the day. I suppose you'd best come in.'"
 
 **中文理解：** "唔，"一个粗粝的声音说。"黑暗中的神父在我门口。从没想过会有这一天。我猜你最好进来。"
 
@@ -147,7 +162,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 10:** "'Pity about your brother, and about the queen,' Glora said, sounding half-disinterested, as if she were discussing an overcast day she'd hoped would be fine. 'To make a bid for the throne and fail so pathetically.'"
+> **原句 11:** "'Pity about your brother, and about the queen,' Glora said, sounding half-disinterested, as if she were discussing an overcast day she'd hoped would be fine. 'To make a bid for the throne and fail so pathetically.'"
 
 **中文理解：** "为你兄弟和王后感到遗憾，"Glora 说，听起来半心半意，好像她在讨论一个她希望会是好天的阴天。"试图夺取王位却如此可悲地失败。"
 
@@ -161,7 +176,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 11:** "'You upstart bastard,' Glora said, but there was admiration in the words. 'You mean to make your own bid for the throne. I always did like you best of Darias Inver's whelps.'"
+> **原句 12:** "'You upstart bastard,' Glora said, but there was admiration in the words. 'You mean to make your own bid for the throne. I always did like you best of Darias Inver's whelps.'"
 
 **中文理解：** "你这个暴发户私生子，"Glora 说，但话语中有钦佩。"你想自己争夺王位。在 Darias Inver 的崽子中，我向来最喜欢你。"
 
@@ -175,7 +190,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 12:** "'Which bought him a paltry decade on the throne, in the end,' the Priest said. 'And here I still stand, while his body lies cooling in the castle crypt with our forefathers.'"
+> **原句 13:** "'Which bought him a paltry decade on the throne, in the end,' the Priest said. 'And here I still stand, while his body lies cooling in the castle crypt with our forefathers.'"
 
 **中文理解：** "这最终让他在王位上坐了可怜的十年，"Priest 说。"而我仍然站在这里，他的尸体却在我们祖先的城堡地窖里冷却。"
 
@@ -189,7 +204,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 13:** "'How did you kill him?' Glora asked. 'I heard it was poison of some kind, and they can't sort out what.'"
+> **原句 14:** "'How did you kill him?' Glora asked. 'I heard it was poison of some kind, and they can't sort out what.'"
 
 **中文理解：** "你怎么杀他的？"Glora 问道。"我听说是什么毒，他们还搞不清楚是什么。"
 
@@ -203,7 +218,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 14:** "'There's no one at court that doesn't know your history with Hadrian—how he married you when you were little more than a child, and took over guardianship of the lands you'd inherited, only to refuse to turn them over when you reached the age of your majority. How he then went on to replace you with his mistress and her get, when you were unable to bear him children.'"
+> **原句 15:** "'There's no one at court that doesn't know your history with Hadrian—how he married you when you were little more than a child, and took over guardianship of the lands you'd inherited, only to refuse to turn them over when you reached the age of your majority. How he then went on to replace you with his mistress and her get, when you were unable to bear him children.'"
 
 **中文理解：** "宫廷里没有人不知道你与 Hadrian 的历史——当他你还是个小孩子时他娶了你，接管了你继承的土地的监护权，却在你达到成年年龄时拒绝归还给你。"
 
@@ -217,7 +232,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 15:** "'When she died, she left me her land—it's nothing like what you lost, just a few hundred acres on the eastern coast, but there's a good stone house, and mixed timber lot and pasturage, besides some income in fishing from the streams.'"
+> **原句 16:** "'When she died, she left me her land—it's nothing like what you lost, just a few hundred acres on the eastern coast, but there's a good stone house, and mixed timber lot and pasturage, besides some income in fishing from the streams.'"
 
 **中文理解：** "她死的时候，把她的土地留给了我——它无法与你失去的相比，只是东海岸几百英亩，但有一座好的石头房子，混合的林地和牧场，还有一些来自溪流捕鱼的收入。"
 
@@ -231,7 +246,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 16:** "'I'll accept this on one condition,' she said, with some indefinable emotion heavy in her voice. 'You and Electa and I all have something in common—no direct heirs to leave anything of ours to. When I die, I want the house and lands to revert to you.'"
+> **原句 17:** "'I'll accept this on one condition,' she said, with some indefinable emotion heavy in her voice. 'You and Electa and I all have something in common—no direct heirs to leave anything of ours to. When I die, I want the house and lands to revert to you.'"
 
 **中文理解：** "我会接受这个，但有一个条件，"她说，声音里带着某种难以名状的情绪。"你和 Electa 和我都有一个共同点——没有可以直接继承任何东西的继承人。当我死的时候，我希望房子和土地归还给你。"
 
@@ -245,7 +260,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 17:** "'You won't take the throne on your own behalf, then?' Glora asked, and for the first time, he heard some of her old disapproval. 'There's never been an Inver regency.'"
+> **原句 18:** "'You won't take the throne on your own behalf, then?' Glora asked, and for the first time, he heard some of her old disapproval. 'There's never been an Inver regency.'"
 
 **中文理解：** "那么你不会为了自己而夺取王位吗？"Glora 问道，第一次他听到她过去的那种不赞同。"从来没有过 Inver 摄政。"
 
@@ -259,7 +274,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 18:** "'Gods, how Tyrus and his forefathers must hate him.'"
+> **原句 19:** "'Gods, how Tyrus and his forefathers must hate him.'"
 
 **中文理解：** "天哪，Tyrus 和他的祖先们一定恨他。"
 

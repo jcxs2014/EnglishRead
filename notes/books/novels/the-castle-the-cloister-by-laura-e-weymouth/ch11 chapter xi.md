@@ -83,7 +83,7 @@ modified: "2026-09-21"
 | mewling | /ˈmjuːlɪŋ/ | 婴儿的啜泣声 | The infant prince made a mewling sound. |
 | jutting | /ˈdʒʌtɪŋ/ | 突出的，伸出的 | A secret stair jutted from the face of the mountain. |
 | trepid | /ˈtrepɪd/ | 惊恐的，恐惧的 | The trepid queen made her way to the banquet hall. |
-| carven | /ˈkɑːvən/ | 雕刻的 | The hall was carved from the mountain's heart. |
+| implacability | /ɪmˌplækəˈbɪləti/ | 铁石心肠；无法平息 | There was a hardness, an implacability in Serafine now, which Ariana had never seen in her before. |
 | slouch | /slaʊtʃ/ | 垂头丧气 | He slouched in his chair. |
 
 ### ⭐ 基础

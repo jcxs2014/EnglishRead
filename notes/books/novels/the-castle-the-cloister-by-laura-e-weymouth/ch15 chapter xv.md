@@ -68,7 +68,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "It's true," Fia answered, her voice sounding high and thin and unlike herself. "But I'm a daughter of the sun, right down to my bones."
+> **原句 6:** "It's true," Fia answered, her voice sounding high and thin and unlike herself. "But I'm a daughter of the sun, right down to my bones."
 
 **中文理解：** "这是真的，"Fia 回答说，声音听起来高亢而细弱，不像她自己。"但我是太阳的女儿，直至骨髓。"
 
@@ -83,9 +83,9 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | drapery | /ˈdreɪpəri/ | 布匹；帔挂物 | heavy drapery fabrics |
-| percussion | /pəˈkʌʃən/ | 打击乐器 | the ridiculous drums the Invers had hauled down |
+| impenetrable | /ɪmˈpenɪtrəbl/ | 无法穿透的 | But it wasn't the curious gazes of a few nearby courtiers or the thought of rumor-mongering that made her pause—it was the impenetrable dark ahead, which she would have to follow him into. |
 | phelamon | /fɪˈlæmən/ | （虚构木材名） | the phelamon wood cane |
-| crux | /krʌks/ | 关键；核心 | the crux of the matter |
+| overfamiliarity | /ˌəʊvəfəˌmɪliˈærəti/ | 过分亲昵 | That hint of dislike and disdain was the only thing that kept her silent, rather than raising her voice to hotly protest the king's overfamiliarity with Raea's chief representative. |
 | wade | /weɪd/ | 涉水；艰难通过 | waded through so many moments |
 
 ### ⭐⭐ 进阶
@@ -94,7 +94,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | scowl | /skaʊl/ | 皱眉；怒视 | Fia scowled from her corner. |
 | scathing | /ˈskeɪðɪŋ/ | 尖刻的 | Fia's scathing reply |
-| groaning | /ˈɡrəʊnɪŋ/ | 哼哼声；抱怨声 | the groaning board |
+| uncharacteristic | /ˌʌnkærəktəˈrɪstɪk/ | 一反常态的 | There's me, Fia said, in a moment of uncharacteristic leniency. |
 | grooved | /ɡruːvd/ | 有槽的 | thick grooves scored in the rock |
 | gauntlet | /ˈɡɔːntlət/ | 严酷考验 | running the gauntlet of court |
 
@@ -103,7 +103,7 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | scowl | /skaʊl/ | 皱眉头 | Fia sat scowling. |
-| wring | /rɪŋ/ | 拧；扭 | wringing her hands |
+| timber | /ˈtɪmbə/ | 木材；木料 | …flanked by a reassuringly ordinary doorframe made of solid timber. |
 | sob | /sɒb/ | 哭泣 | She felt like sobbing. |
 | tremble | /ˈtrembəl/ | 发抖 | Fia trembled at the darkness. |
 | shroud | /ʃraʊd/ | 裹尸布 | shrouded in darkness |

@@ -83,7 +83,7 @@ modified: "2026-09-21"
 | summons | /ˈsʌmənz/ | 传唤；召唤 | Her summons had been a welcome distraction. |
 | bristling | /ˈbrɪsəlɪŋ/ | 竖起的；充满愤怒的 | that bristling mountain cat |
 | vehemently | /ˈviːəməntli/ | 激烈地，强烈地 | You can't, the Priest said vehemently. |
-| atonement | /əˈtəʊnmənt/ | 弥补，赎罪 | an atonement for past sins |
+| unaccountably | /ˌʌnəˈkaʊntəbli/ | 莫名地；难以解释地 | A glassy smooth whorl, unaccountably cooler than the rest of her warm and living flesh. |
 | begrudge | /bɪˈɡrʌdʒ/ | 嫉妒；吝惜 | Beneson seemed begrudgingly respectful. |
 
 ### ⭐ 基础
@@ -91,7 +91,7 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | anchor | /ˈæŋkə(r)/ | 抛锚；稳定 | awareness of the prince anchored him |
-| knead | /niːd/ | 揉捏；按摩 | He kneaded the prince's shoulders. |
+| insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Frankly, it is an insult to our forefathers that he was permitted to live. |
 | grind | /ɡraɪnd/ | 磨碎；压榨 | grind his heel into the stone |
 | halt | /hɔːlt/ | 停止 | They halted at the threshold. |
 | blunt | /blʌnt/ | 钝的；直率的 | in her usual blunt way |

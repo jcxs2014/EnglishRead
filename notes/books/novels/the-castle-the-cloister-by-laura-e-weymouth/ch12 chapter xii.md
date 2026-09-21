@@ -82,7 +82,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | privy | /ˈprɪvi/ | 公共厕所 | She cast about for a public privy. |
 | seedy | /ˈsiːdi/ | 破旧的，下流的 | A part of Inverlyn that wasn't so much seedy as near abandoned. |
-| chandlery | /ˈtʃændləri/ | 蜡烛店 | Old chandleries and apothecaries stood empty. |
+| weatherbeaten | /ˈweðəbiːtn/ | 饱经风霜的；风吹雨打的 | And Fia found herself in a windowless storeroom surrounded by empty shelves and half a dozen weatherbeaten men, every one of them armed and on edge. |
 | foundry | /ˈfaʊndri/ | 铸造厂 | The old foundry. |
 | gauntlet | /ˈɡɔːntlət/ | 严酷考验 | She cast her gauntlet at the faithful district. |
 

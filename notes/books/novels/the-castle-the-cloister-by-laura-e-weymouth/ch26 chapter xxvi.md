@@ -1,4 +1,5 @@
 ---
+source_text: ch27
 status: 未读
 modified: "2026-09-21"
 ---
@@ -7,259 +8,271 @@ modified: "2026-09-21"
 
 ## 本章导航
 
-**一句话概括：** Ariana 在地牢中与 Orden 的尸体相伴，面对 Lucian 的精神折磨和 Gwylen 带来的 Afon 提议——以婚姻和背叛换取自由；她的回答是拒绝一切的"就让我死在这里"。
+**一句话概括：** Fia 通过 Glora 的废物通道逃出城堡，在小酒馆与 Nikolau 重逢，通过欺骗让他发誓保护 Justus，从而迫使他成为 Honorian 警卫队长——这是她操控他人的巅峰之作。
 
-**情感弧线位置：** 低谷与坚守——Ariana 在绝望中坚守对 Orden 和 Honoria 的忠诚，拒绝所有背叛的选择。
+**情感弧线位置：** 操控与欺骗——Fia 在战略上达到巅峰，用女儿 Miriel 的 Guardian 誓言控制了 Nikolau。
 
-**Tropes 兑现/反转：** 囚禁与审讯；Ariana 作为"不情愿的王后"坚守信仰；敌人的提议与拒绝。
+**Tropes 兑现/反转：** 旧爱重逢；Fia 作为"操控者"的完全展示——她利用 Nikolau 对女儿的爱来达到自己的政治目的。
 
-**人物弧线：** Ariana 从" Orden 的遗孀"转变为"拒绝妥协的殉道者"——即使付出死亡的代价，她也不背叛。
+**人物弧线：** Fia 从"逃亡修女"转变为"真正的操控者"——她不再依赖他人，而是主动设计局面；Nikolau 从"逃亡者"变成"被迫的警卫队长"。
 
-**叙事手法：** 内心独白为主——Ariana 的心理活动构成了全章的主体；Orden 尸体作为情感锚点；Gwylen 作为外部戏剧冲突的推动者。
+**叙事手法：** 对话驱动——全章几乎完全是对话；Fia 的操控技巧通过语言展现；Nikolau 的愤怒与无奈形成对比。
 
 ## 精读
 
-### 第一段：失去 Orden
+### 第一段：逃离城堡
 
-> **原句 1:** "Every beat of Ariana's heart tolled a death knell. Orden was gone. Gone. Gone."
+> **原句 1:** "For a moment, Glora caught Fia's eyes from across the room. Then she moved toward her, and the postulant's heart beat like an altar drum in her chest. She tightened her grip on Justus and could feel herself bristling."
 
-**中文理解：** Ariana 的每一次心跳都敲响了死亡的丧钟。Orden 走了。走了。走了。
+**中文理解：** 有一刻，Glora 在房间对面抓住了 Fia 的目光。然后她朝她走来，修女候选人的心跳得像祭坛鼓一样在胸口擂动。她收紧了抱着 Justus 的手臂，能感觉到自己全身戒备。
 
-**句子结构：** Every beat...tolloed a death knell（隐喻）+ Orden was gone（陈述）+ Gone. Gone（重复强调）。
+**句子结构：** For a moment...caught Fia's eyes（视觉连接）+ Then she moved toward her（接近）+ the postulant's heart beat like an altar drum（情感反应）+ She tightened her grip（身体反应）。
 
-**关键词：** Every beat...tolloed a death knell（每一次心跳都敲响丧钟——Ariana 对 Orden 之痛的感知）；Gone（走了——简短而有力的否定）
+**关键词：** beat like an altar drum（像祭坛鼓一样跳动——Fia 的紧张）；tightened her grip on Justus（收紧对 Justus 的抓握——保护本能）
 
-**表达方式：** "Gone"的重复三次是 Ariana 无法接受 Orden 已死的心理过程——她需要多次重复才能勉强接受这个事实。
+**表达方式：** Fia 对 Glora 的反应是矛盾的——她既是盟友又是潜在威胁。"beat like an altar drum"暗示了某种宗教性的紧张感。
 
-**为什么这样写：** 这是全章最痛苦的时刻——Orden 的死对 Ariana 的打击不仅是政治上的，更是情感上的。她爱过他，即使他们的婚姻充满复杂。
-
----
-
-> **原句 2:** "At first, she'd refused to believe he could really be dead. She'd known she needed to act, to ensure Fia was not declared guilty of regicide, and the cloister by association, though what Fia had been doing in the king's chambers, the Beloved Three only knew."
-
-**中文理解：** 起初，她拒绝相信他真的死了。她知道她需要行动，确保 Fia 不会被宣布为弑君者，修道院也不会因此被连累，尽管 Fia 在国王的房间里做什么，只有三圣知道。
-
-**句子结构：** At first...refused to believe（拒绝相信）+ She'd known she needed to act（需要行动）+ though...the Beloved Three only knew（插入语——对 Fia 在场的困惑）。
-
-**关键词：** refused to believe（拒绝相信——Ariana 的心理防御机制）；regicide（弑君——Fia 被指控的罪名）
-
-**表达方式：** Ariana 在 Orden 死后立即想到的是保护 Fia——这证明了她对 Fia 的姐妹情谊。
-
-**为什么这样写：** "the Beloved Three only knows"是 Ariana 对 Fia 在国王房间里的困惑——她不知道 Fia 是去救 Orden 还是另有目的。这为后面的误解埋下了伏笔。
+**为什么这样写：** Fia 的紧张反应暗示了她对 Glora 的不完全信任——Glora 是 Priel 的盟友，但 Fia 不确定 Glora 是否也是她的盟友。
 
 ---
 
-> **原句 3:** "Surely, surely, a man like Orden Inver couldn't actually be killed."
+> **原句 2:** "'There are guards,' Glora said. 'Even at the kitchen gate. But I can get you out, if you're leaving.'"
 
-**中文理解：** 当然，当然，像 Orden Inver 这样的男人不可能真的被杀死。
+**中文理解：** "有警卫，"Glora 说。"即使在厨房门口也有。但我可以让你出去，如果你要离开的话。"
 
-**句子结构：** Surely, surely（重复强调）+ a man like Orden Inver couldn't actually be killed（否定）。
+**句子结构：** There are guards（陈述）+ Even at the kitchen gate（强调）+ But I can get you out（提供帮助）+ if you're leaving（条件）。
 
-**关键词：** Surely, surely（当然——Ariana 对 Orden 力量的信念）；couldn't actually be killed（不可能被杀死——她的信仰）
+**关键词：** Even at the kitchen gate（即使在厨房门口——Glora 对城堡防御的了解）；I can get you out（我可以让你出去——Glora 的权力和控制）
 
-**表达方式：** "Surely, surely"的重复和"couldn't actually be killed"的否定揭示了 Ariana 对 Orden 的理想化——她无法接受一个像他这样的男人会死。
+**表达方式：** Glora 对城堡的每一个出口都了如指掌——她作为管家/厨师，掌握着城堡的物理和社会秘密。
 
-**为什么这样写：** Ariana 的想法在全书中是独特的——她是唯一一个认为 Orden "不可能被杀"的人。这揭示了她对他的信念有多深，即使他有过错。
-
----
-
-> **原句 4:** "Then Lucian had clapped her in irons, and Ariana began to grow cold inside. Orden would never have allowed that, no matter the circumstances."
-
-**中文理解：** 然后 Lucian 给她戴上了镣铐，Ariana 开始在心里变冷。Orden 绝不会允许这种情况，无论什么情况。
-
-**句子结构：** Then...had clapped her in irons（事件）+ Ariana began to grow cold inside（反应）+ Orden would never have allowed that（回忆对比）。
-
-**关键词：** clapped her in irons（给她戴上镣铐——Lucian 对她的侮辱）；grow cold inside（在心里变冷——Ariana 的绝望）
-
-**表达方式：** "grow cold inside"是 Ariana 情感崩溃的隐喻——当她意识到 Orden 真的死了，她的心也跟着死了。
-
-**为什么这样写：** Ariana 的"grow cold inside"与 Orden 的死亡直接相关——她不仅失去了丈夫，也失去了自己的信仰。Lucian 给她戴镣铐是她崩溃的最后一步。
+**为什么这样写：** Glora 的"我可以让你出去"展示了她在 Inverlyn 城堡中的独特地位——她是唯一有权力和知识绕过警卫的人。
 
 ---
 
-### 第二段：Lucian 的折磨
+> **原句 3:** "'All our castle waste gets hauled away through here,' Glora explained, gesturing to another gate, this one hardly larger than an interior doorway. 'They take it out by handcart and dump it off one of the cliffs. The gate's always kept locked, and only opened when the waste's taken out, so there won't be a guard. I'm the only one who holds a key, and I change the lock weekly to make sure it stays that way.'"
 
-> **原句 5:** "'At first I was at a loss,' he said companionably, 'as to how I should manage you. You confessed so prettily, the moment you heard I'd taken the postulant into custody. And you're a rare prize, aren't you, little bird? It isn't every day an Inver has the pleasure of winning both a throne and the care and keeping of a treasonous queen who was once a soria.'"
+**中文理解：** "我们城堡的所有废物都通过这里运出去，"Glora 解释着，朝另一个门比划着，这个门比室内门大不了多少。"他们用手推车把它运出去，倾倒在一个悬崖上。门总是锁着的，只有在废物运出去的时候才打开，所以不会有警卫。我是唯一有钥匙的人，我每周换一次锁以确保它保持这种状态。"
 
-**中文理解：** "起初我不知道该怎么办，"他像聊天一样说，"我应该如何处置你。你当时很可爱地承认了，当我听说我已经把那个修女候选人关押了。你是个珍贵的奖品，不是吗，小鸟？不是每天都有一个 Inver 能同时赢得一个王位和对一个曾经是 soria 的叛国皇后的照料的乐趣。"
+**句子结构：** All our castle waste gets hauled away through here（解释）+ They take it out by handcart（方法）+ The gate's always kept locked（安全措施）+ I'm the only one who holds a key（Glora 的独家权力）。
 
-**句子结构：** At first I was at a loss（困惑语气）+ as to how I should manage you（询问）+ You confessed so prettily（嘲讽）+ you're a rare prize（贬低）。
+**关键词：** hauled away（运走——废物处理系统）；the only one who holds a key（唯一有钥匙的人——Glora 的权力基础）
 
-**关键词：** a rare prize（珍贵的奖品——Lucian 对 Ariana 的物化）；treasonous queen who was once a soria（曾经是 soria 的叛国皇后——Ariana 的双重身份）
+**表达方式：** Glora 对废物通道的控制是她权力的一部分——她不仅管理城堡的物理空间，还控制着信息流通。
 
-**表达方式：** "little bird"是 Lucian 对 Ariana 的蔑称——他在精神上折磨她，把她当作战利品。
-
-**为什么这样写：** Lucian 的话揭示了他对 Ariana 的真实态度：她不是人，而是"奖品"和"战利品"。他的折磨是精神上的——他想让她崩溃。
+**为什么这样写：** 这个细节揭示了 Glora 为何如此有价值——她不仅有政治影响力，还有物理通道的知识。Priest 与她的交易是值得的。
 
 ---
 
-> **原句 6:** "She trained her fathomless dark gaze on Lucian, and even now, with her behind bars and him holding the castle hostage, he could not withstand the mild look of one of Lyria's daughters."
+> **原句 4:** "'I don't care what I smell of,' Fia answered. 'So long as I can do what's needed.'"
 
-**中文理解：** 她用 Lyria 女儿们特有的、深不可测的黑暗凝视盯着 Lucian，即使现在她身在牢笼而他控制着城堡，他仍然无法承受她温和的目光。
+**中文理解：** "我不在乎我闻起来像什么，"Fia 回答。"只要我能做需要做的事。"
 
-**句子结构：** She trained her fathomless dark gaze on Lucian（动作）+ even now...he could not withstand the mild look（对比）。
+**句子结构：** I don't care what I smell of（否定关心）+ So long as I can do what's needed（条件——目的导向）。
 
-**关键词：** fathomless dark gaze（深不可测的黑暗凝视——Ariana 的 soria 本质）；could not withstand the mild look（无法承受温和的目光——Lyria 女儿的力量）
+**关键词：** what I smell of（我闻起来像什么——Fia 对外表的不关心）；what's needed（需要做的事——Fia 的任务导向）
 
-**表达方式：** Lucian 物理上控制了 Ariana，但她的精神力量让他无法直视她的眼睛——这是 Ariana 唯一剩下的武器。
+**表达方式：** Fia 的话展示了她与贵族价值观的距离——她愿意穿过废物通道，不在乎气味或肮脏。
 
-**为什么这样写：** 这一细节揭示了 soria 的力量——即使 Ariana 被囚禁，她的精神力量仍然让 Lucian 感到不安。这是她的最后抵抗。
-
----
-
-> **原句 7:** "'I've brought you a cellmate,' Lucian ground out. 'Someone to pass the time with you until your fate is decided. It seemed a pity for you to be left all alone.'"
-
-**中文理解：** "我给你带来了一个牢友，"Lucian 压低声音说。"在你命运被决定之前，有人陪你打发时间。你一个人被留下似乎太可怜了。"
-
-**句子结构：** I've brought you a cellmate（揭示）+ Someone to pass the time（伪装的好意）+ It seemed a pity（讽刺）。
-
-**关键词：** a cellmate（牢友——讽刺的说法）；until your fate is decided（在你命运被决定之前——Ariana 没有发言权）
-
-**表达方式：** Lucian 的"好意"是残忍的讽刺——他要给 Ariana 带来的"牢友"是 Orden 的尸体，这是他精神折磨的一部分。
-
-**为什么这样写：** Lucian 的残忍体现在他的"体贴"中——他想把 Orden 的尸体带给 Ariana，这不是善意，而是精心设计的折磨。
+**为什么这样写：** "I don't care what I smell of"是 Fia 性格的宣言——她不在乎社会规范，只在乎完成任务。这与她对 Priest 的"不惜一切代价"的态度一致。
 
 ---
 
-> **原句 8:** "He gestured to the unseen guards that Ariana had heard behind him, and they stepped forward. Now she saw what they'd been carrying—what burden had weighed them down. Between the two of them they carried Orden's body, which ought to have been turned over to the Priest for tending hours ago."
+> **原句 5:** "Fia hesitated a moment, unsure if she ought to push for a further confession. But she was nothing if not bold, and after a moment she spoke."
 
-**中文理解：** 他向 Ariana 听到的在他身后待命的警卫打了个手势，他们走上前。现在她看到了他们一直在抬的东西——什么东西让他们负担沉重。他们两人抬着 Orden 的尸体，那本该在几小时前就被交给 Priest 照料的。
+**中文理解：** Fia 犹豫了一下，不确定是否应该追问进一步的坦白。但她如果不是大胆的就什么都不是了，于是一会儿后她开口了。
 
-**句子结构：** He gestured to...（动作）+ they stepped forward（结果）+ Now she saw what they'd been carrying（揭示）+ which ought to have been turned over...（本应该——对比现实）。
+**句子结构：** Fia hesitated（犹豫）+ unsure if she ought to push（不确定）+ But she was nothing if not bold（转折——性格定义）。
 
-**关键词：** Orden's body（Orden 的尸体——Lucian 的折磨工具）；ought to have been turned over to the Priest（本应该交给 Priest——对正常仪式的违反）
+**关键词：** nothing if not bold（如果不是大胆的就什么都不是——Fia 的自我认知）；push for a further confession（追问进一步的坦白——她对 Glora 和 Priest 关系的怀疑）
 
-**表达方式：** "ought to have been turned over"强调了 Lucian 对 Orden 尸体的不当处置——这是对 Priest 和整个 Inver 家族的侮辱。
+**表达方式：** "she was nothing if not bold"是 Fia 性格的精确总结——她总是选择大胆而非谨慎。
 
-**为什么这样写：** Orden 的尸体被带到 Ariana 的牢房里是 Lucian 最残忍的行为之一——他想让她在精神上被摧毁。这也为后面 Ariana 的坚定埋下了伏笔。
-
----
-
-> **原句 9:** "The last spark of hope in Ariana guttered and died, leaving nothing in its wake but an endless chasm of darkness. No stars. Only night, bleak and all-consuming."
-
-**中文理解：** Ariana 最后一丝希望的火苗摇曳着熄灭了，身后只留下一片无边的黑暗深渊。没有星星。只有夜晚，荒凉而吞噬一切的夜晚。
-
-**句子结构：** The last spark of hope...guttered and died（隐喻）+ leaving nothing...but an endless chasm of darkness（结果）+ No stars. Only night（强调）。
-
-**关键词：** guttered and died（摇曳着熄灭——希望的破灭）；an endless chasm of darkness（无尽的黑暗深渊——绝望）
-
-**表达方式：** "No stars. Only night"是 Ariana 世界观的彻底崩溃——Lyria 是星星女神，当她失去所有希望时，她的世界里没有星星了。
-
-**为什么这样写：** 这是 Ariana 全章最黑暗的时刻——Orden 的尸体被放在她面前，她的希望完全破灭。但正是在这个最低点，她开始找到自己的力量。
+**为什么这样写：** Fia 想知道 Glora 和 Priest 之间的关系——她问 Glora 是否会告诉 Priest 关于孩子的事。这是她对"谁效忠谁"的持续评估。
 
 ---
 
-> **原句 10:** "'You chose him in life,' Lucian said. 'Why should you be parted in death?'"
+> **原句 6:** "'If it's needed, I will keep your son safe with my own body and blood,' the postulant promised before turning away."
 
-**中文理解：** "你在生前选择了他，"Lucian 说。"为什么你们在死后要分开呢？"
+**中文理解：** "如果需要，我会用我自己的身体和鲜血来保护你的儿子，"修女候选人承诺道，然后在转身离开前。
 
-**句子结构：** You chose him in life（过去的选择）+ Why should you be parted in death（当前的问题——讽刺）。
+**句子结构：** If it is needed（条件）+ I will keep your son safe（承诺）+ with my own body and blood（方式——极端的承诺）。
 
-**关键词：** You chose him in life（你在生前选择了他——Lucian 的嘲讽）；be parted in death（死后分开——他要把他们合葬）
+**关键词：** with my own body and blood（用我自己的身体和鲜血——最极端的保护承诺）；the postulant promised（修女候选人的承诺——宗教重量的誓言）
 
-**表达方式：** Lucian 的话看似残忍，但实际上他是在试图让 Ariana 对 Orden 产生负面情绪——他想让她后悔选择了 Orden。
+**表达方式：** Fia 的承诺是真诚的——她对 Glora 和 Priest 都做出了承诺，而且她打算兑现。
 
-**为什么这样写：** Lucian 把 Orden 的尸体带给 Ariana 不是为了让她们"团聚"，而是为了折磨她。他想让 Orden 的存在成为她的负担，而不是安慰。
-
----
-
-> **原句 11:** "However she'd worked against Orden and struggled to reconcile who she was with who he wished her to be, whatever he'd done to Corrin during that long-ago battle summer, she'd never wanted him dead."
-
-**中文理解：** 无论她曾经如何与 Orden 对抗、如何努力调和真实的自己与他希望她成为的样子，无论他在那场久远的战斗之夏对 Corrin 做了什么，她从未希望他死。
-
-**句子结构：** However she'd worked against Orden（让步从句）+ whatever he'd done to Corrin（进一步让步）+ she'd never wanted him dead（核心陈述）。
-
-**关键词：** worked against Orden（与 Orden 对抗——Ariana 的复杂立场）；never wanted him dead（从未希望他死——核心真相）
-
-**表达方式：** Ariana 的内心独白揭示了她与 Orden 关系的复杂性——她曾与他对抗，从未完全接受他，但她从未希望他死。
-
-**为什么这样写：** 这是 Ariana 全章最重要的自我声明——尽管他们的婚姻充满复杂，尽管她曾经与他的政策对抗，她仍然爱他。
+**为什么这样写：** 这个承诺是 Fia 和 Glora 之间姐妹情谊的象征——两个女人通过一个共同的男人联系在一起，但她们之间也建立了真实的纽带。
 
 ---
 
-> **原句 12:** "And oh, how she had loved her flawed and foolish king."
+### 第二段：与 Nikolau 的重逢
 
-**中文理解：** 哦，她是多么爱她这个有缺陷的、愚蠢的国王啊。
+> **原句 7:** "Sunlight glinted off Nikolau's golden hair as he strode toward her. In daylight, rather than the shadowy back corner of a rundown foundry, he looked just as Fia remembered. Burnished sun-bright, lithe and light on his feet, with a sharp blue gaze that held hints of both mastery and mockery."
 
-**句子结构：** And oh（感叹）+ how she had loved（多么爱）+ her flawed and foolish king（她的有缺陷的、愚蠢的国王——矛盾修饰法）。
+**中文理解：** 阳光从 Nikolau 的金色头发上闪烁，他大步朝她走来。在日光下，而不是在废弃铸造厂阴暗的角落里，他看起来和 Fia 记忆中的一模一样。灿烂的阳光下闪亮，身姿轻盈敏捷，蓝色的目光带着主人和嘲讽的暗示。
 
-**关键词：** flawed and foolish（有缺陷的、愚蠢的——Orden 的人性化描述）；her king（她的国王——Ariana 的身份认同）
+**句子结构：** Sunlight glinted off Nikolau's golden hair（视觉印象）+ In daylight...he looked just as Fia remembered（记忆对比）+ Burnished sun-bright, lithe and light on his feet（外貌描写）+ with a sharp blue gaze（表情描写）。
 
-**表达方式：** "flawed and foolish"是 Ariana 对 Orden 的矛盾情感——她爱他，但承认他有缺陷。这是成熟爱情的表现。
+**关键词：** Burnished sun-bright（灿烂阳光下闪亮——Nikolau 的标志性外貌）；mastery and mockery（主人气质和嘲讽——Nikolau 的双重性）
 
-**为什么这样写：** 这是全章最感人的一句话——尽管 Orden 有种种缺点，尽管他们的婚姻充满挣扎，Ariana 仍然爱他。这是她拒绝 Lucian 和 Gwylen 的基础。
+**表达方式：** Nikolau 的出场带有明显的光线意象——他是"阳光"和"金色"的，而 Fia 是"星星"和"月亮"的。这是他们关系的一部分。
 
----
-
-### 第三段：Gwylen 的提议
-
-> **原句 13:** "'So. They told me you'd turned king killer.'"
-
-**中文理解：** "所以，他们告诉我你成了弑君者。"（Gwylen 的话，Ariana 沉默以对。）
-
-**句子结构：** So（引入）+ They told me...（传言）+ you'd turned king killer（指控）+ 句号在引号内表示引语结束。
-
-**关键词：** turned king killer（成了弑君者——外界对 Ariana 的看法）；They told me（传言—— Gwylen 对 Ariana 处境的了解）
-
-**表达方式：** "They told me"表明 Gwylen 不是 Inverlyn 的人，她是从外部了解这个情况的。她是 Afon 的使者。
-
-**为什么这样写：** Gwylen 代表 Caervallion 的利益——她不是来折磨 Ariana 的，而是来提供一个"出路"的。这是一个不同类型的威胁。
+**为什么这样写：** Nikolau 的外貌描写将他定位为 Fia 的对立面——他代表阳光和自由，而她代表星星和责任。他们的女儿 Miriel 是这两个世界的融合。
 
 ---
 
-> **原句 14:** "'My king may be dead,' she said fiercely, 'but you can tell yours that I would choose the rack or hot oil or drawing and quartering—any manner of torture—before I betrayed my country and Orden's son.'"
+> **原句 8:** "'Fia. I managed your errand and Dolenza's as well, but I told you to leave me be until harvest time, when I'd collect on your debt. What the hell do you want now?'"
 
-**中文理解：** "我的国王可能已经死了，"她激烈地说，"但你可以告诉你的主人，在背叛我的国家和 Orden 的儿子之前，我宁愿选择拉肢刑架或热油或分尸——任何形式的酷刑。"
+**中文理解：** "Fia。我处理了你的任务和 Dolenza 的任务，但我告诉你让我待着直到收获季节，到时候我会来收取你的债务。你现在到底想要什么？"
 
-**句子结构：** My king may be dead（承认）+ but you can tell yours（拒绝）+ I would choose...before I betrayed（选择）。
+**句子结构：** I managed your errand（已完成任务）+ I told you to leave me be（之前的要求）+ What the hell do you want now（当前的问题）。
 
-**关键词：** I would choose the rack（我宁愿选择拉肢刑架——极端的表述）；before I betrayed my country and Orden's son（在背叛我的国家和 Orden 的儿子之前——她的优先级）
+**关键词：** I told you to leave me be until harvest time（让你不要打扰我直到收获季节——Nikolau 的界限）；collect on your debt（收取你的债务——Nikolau 想要回他的"Guardian"角色）
 
-**表达方式：** "any manner of torture"是 Ariana 坚定的声明——她愿意承受任何酷刑，只要不背叛 Honoria 和 Justus。
+**表达方式：** Nikolau 的语气是愤怒的——Fia 不请自来，打破了他的计划。
 
-**为什么这样写：** Ariana 的回答彻底拒绝了 Gwylen 的提议——她不会用婚姻换取安全，即使要面对酷刑和死亡。这是她作为 Lyria 女儿的原则性选择。
-
----
-
-> **原句 15:** "'I saved her, and you know it. Run back to Afon and tell him what I said.'"
-
-**中文理解：** "我救了她，你知道。跑回去告诉 Afon 我说的话。"
-
-**句子结构：** I saved her（主张）+ and you know it（断言）+ Run back to Afon（命令）。
-
-**关键词：** I saved her（我救了她——Ariana 对 Ellimere 的保护）；Run back to Afon（回去——对 Gwylen 的拒绝）
-
-**表达方式：** Ariana 的"Run back to Afon"是对 Gwylen 最后的使用——她不是来谈判的，而是来传递信息的。
-
-**为什么这样写：** Ariana 用"Run back to Afon"来结束与 Gwylen 的对话——她已经做出了选择，不需要更多的争论。
+**为什么这样写：** Nikolau 仍然想要他与 Miriel 的Guardian 关系——Fia 欠他的。但 Fia 来这里不是为了还债，而是为了建立新的债务。
 
 ---
 
-> **原句 16:** "'I have an offer of my own,' Gwylen said. 'Accept Afon's proposal. Come to Caervallion. And accomplish what you did here in Honoria. The people there chafe under Afon's rule worse than anyone ever did beneath Orden Inver. Come and kill our king for us, and live.'"
+> **原句 9:** "'That you could see our daughter and have a part in her life.'"
 
-**中文理解：** "我有一个我自己的提议，"Gwylen 说。"接受 Afon 的提议。来 Caervallion。完成你在这里 Honoria 所做的事。那里的人在 Afon 的统治下比在任何 Orden Inver 手下都更受煎熬。来杀了我们的国王，然后活着。"
+**中文理解：** "你可以见到我们的女儿，并成为她生活的一部分。"
 
-**句子结构：** I have an offer of my own（提议）+ Accept Afon's proposal（条件一）+ Come to Caervallion（条件二）+ And accomplish what you did here（任务）+ Come and kill our king（核心请求）+ and live（结果）。
+**句子结构：** That you could see our daughter（条件一）+ and have a part in her life（条件二）。
 
-**关键词：** accomplish what you did here（在 Honoria 完成你所做的——杀死 Afon）；Come and kill our king（来杀了我们的国王——Caervallion 想要的）
+**关键词：** our daughter（我们的女儿——Fia 提醒 Nikolau 他的父亲身份）；have a part in her life（成为她生活的一部分——Nikolau 的渴望）
 
-**表达方式：** Gwylen 的提议是精心设计的——她知道 Ariana 杀死了 Orden，所以她认为 Ariana 可以为 Caervallion 做同样的事。
+**表达方式：** Fia 用 Nikolau 对 Miriel 的渴望来控制他——这是她操控的核心杠杆。
 
-**为什么这样写：** Gwylen 的提议揭示了 Caervallion 政治的黑暗——他们想要 Ariana 成为刺客，像她在 Honoria 那样杀死 Afon。但她拒绝了。
+**为什么这样写：** Fia 知道 Nikolau 想要参与 Miriel 的生活，所以她用这个作为诱饵。这是她操控 Nikolau 的第一步。
 
 ---
 
-> **原句 17:** "'I chose to live here, at Orden's side, and I choose to die here as well. Let them make a sacrifice of me.'"
+> **原句 10:** "'May I—?' Nikolau asked, and Fia nodded easily, handing Justus to him."
 
-**中文理解：** "我选择住在这里，在 Orden 身边，我也选择死在这里。让他们把我当作祭品吧。"
+**中文理解：** "我可以吗——？"Nikolau 问，Fia 轻松地点头，把 Justus 递给他。
 
-**句子结构：** I chose to live here（过去的选择）+ and I choose to die here as well（现在的选择）+ Let them make a sacrifice of me（请求）。
+**句子结构：** May I—（请求被打断）+ Nikolau asked（询问）+ Fia nodded easily（轻松同意）+ handing Justus to him（动作）。
 
-**关键词：** I chose to live here（我选择住在这里——Ariana 对 Honoria 的认同）；Let them make a sacrifice of me（让他们把我当作祭品——她的殉道意愿）
+**关键词：** May I—（请求被打断——Nikolau 的犹豫）；handing Justus to him（Fia 的信任表演）
 
-**表达方式：** Ariana 的话是全章的高潮——她选择了与 Orden 一起死，而不是背叛他。这是她作为 Lyria 女儿的最纯粹的选择。
+**表达方式：** Fia 允许 Nikolau 抱着 Justus——这是她操控的一部分，让他对婴儿产生感情。
 
-**为什么这样写：** 这是 Ariana 全章最重要的声明——她选择死在自己的土地上，而不是成为另一个国家的刺客。她宁愿死作为 Honoria 的殉道者，也不活着作为 Caervallion 的工具。
+**为什么这样写：** Fia 把 Justus 递给 Nikolau 是她计划的一部分——她要让他对 Justus 产生感情，这样他就会保护他。
+
+---
+
+> **原句 11:** "'I want to be something to her, Fia. More than a stranger, I mean. I'm not cut out for a father—not with my life being what it is, but I'd like to know her, and for her to know me as she grows.'"
+
+**中文理解：** "我想对她有所意义，Fia。我的意思是，不只是一个陌生人。我不是一个当父亲的料——考虑到我的生活是什么样的，但我想了解她，并且让她在成长过程中认识我。"
+
+**句子结构：** I want to be something to her（渴望）+ More than a stranger（澄清）+ I'm not cut out for a father（自我认知）+ but I'd like to know her（愿望）。
+
+**关键词：** More than a stranger（不只是陌生人——Nikolau 想要的身份）；not cut out for a father（不是一个当父亲的料——Nikolau 的自我评价）
+
+**表达方式：** Nikolau 的话是真诚的——他知道自己不是一个好父亲，但他仍然想要与女儿有联系。
+
+**为什么这样写：** Nikolau 的真诚是 Fia 操控的基础——她知道他想要什么，所以她用这个来操纵他。
+
+---
+
+> **原句 12:** "'By Bright Raea, goddess of my mark, I, Nikolau Herastos, swear to protect this child,' Fia prompted."
+
+**中文理解：** "以我印记的光之 Raea 女神，我，Nikolau Herastos，发誓保护这个孩子，"Fia 提示道。
+
+**句子结构：** By Bright Raea（神圣呼吁）+ goddess of my mark（印记的保证）+ I, Nikolau Herastos, swear to protect this child（誓言内容）+ Fia prompted（她的引导）。
+
+**关键词：** By Bright Raea（以 Raea——神圣誓言的开头）；protect this child（保护这个孩子——誓言的核心）
+
+**表达方式：** Fia 引导 Nikolau 说出誓言——这是她操控的关键步骤。
+
+**为什么这样写：** Fia 让 Nikolau 用 Raea 的名义发誓——这是一个宗教性的誓言，如果违背会有可怕的后果。但她让他发誓保护的是 Justus，而不是 Miriel。
+
+---
+
+> **原句 13:** "'You can't see Miriel,' she said, once Justus was settled in Nikolau's arms."
+
+**中文理解：** "你不能见 Miriel，"她说，一旦 Justus 在 Nikolau 怀里安顿下来。
+
+**句子结构：** You can't see Miriel（直接引语）+ she said（引述）+ once Justus was settled...（时间状语）。
+
+**关键词：** You can't see Miriel（你不能见 Miriel——Fia 的欺骗）；once Justus was settled in Nikolau's arms（一旦 Justus 在 Nikolau 怀里安顿下来——Fia 交付婴儿的时机）
+
+**表达方式：** Fia 的话是全章最大的反转——她让 Nikolau 以为他要保护的是 Miriel，但实际上 Justus 才是她让他发誓保护的人。
+
+**为什么这样写：** "You can't see Miriel"是 Fia 操控的巅峰——她用对 Miriel 的探望权来控制 Nikolau，但实际上她要他保护的是 Justus。这是她精心设计的欺骗。
+
+---
+
+> **原句 14:** "'You always had a taste for gallows humor,' he said. 'And I never found it funny. Neither is this.'"
+
+**中文理解：** "你总是喜欢绞刑架前的幽默，"Nikolau 说。"我从来没觉得好笑。这次也不是。"
+
+**句子结构：** You always had a taste for gallows humor（过去的行为模式）+ And I never found it funny（Nikolau 的反应）+ Neither is this（当前的情况）。
+
+**关键词：** gallows humor（绞刑架前的幽默——Fia 在最严肃时刻的玩笑能力）；I never found it funny（Nikolau 总是无法欣赏）
+
+**表达方式：** Fia 的"绞刑架前的幽默"是她的性格特征——即使在操控 Nikolau 的时候，她也能开玩笑。
+
+**为什么这样写：** Nikolau 了解 Fia——他知道她的幽默感，但这次他无法笑出来，因为这是真实的。
+
+---
+
+> **原句 15:** "'Watch your tongue or I will bite it out,' Fia snarled, finally ruffled. 'Our daughter is my guiding light. There is nothing I do without Miriel's good in mind. And the Priest as regent with Justus as king after him will be good for Honoria.'"
+
+**中文理解：** "管好你的嘴，否则我会咬掉它，"Fia 咆哮道，终于被激怒了。"我们的女儿是我的指路明灯。我做的每一件事都是为了 Miriel 的利益。而 Priest 作为摄政王，之后 Justus 成为国王，对 Honoria 会是好事。"
+
+**句子结构：** Watch your tongue or I will bite it out（威胁）+ Our daughter is my guiding light（辩护）+ There is nothing I do without Miriel's good in mind（动机）+ And the Priest as regent...will be good for Honoria（真正的计划）。
+
+**关键词：** my guiding light（我的指路明灯——Miriel 对 Fia 的重要性）；the Priest as regent with Justus as king（Priest 摄政 + Justus 继任——Fia 的政治计划）
+
+**表达方式：** Fia 的愤怒是真实的——她真的把 Miriel 作为她的中心。这让她的操控更加可信。
+
+**为什么这样写：** Fia 的话揭示了她真正的动机——一切为了 Miriel。如果要保护 Miriel 的未来，Honoria 就必须稳定，而 Priest 摄政是实现这一点的最好方式。
+
+---
+
+> **原句 16:** "'You were right when you insisted you didn't love me as you should, though I always disbelieved you,' Nikolau said quietly. 'I thought it was only your upbringing—that you couldn't recognize love, even when it was something you felt. But if this is how you love our daughter, I'd never have been able to bear the force of it.'"
+
+**中文理解：** "你是对的，当你坚持说你不像你应该的那样爱我的时候，虽然我从来不相信你，"Nikolau 静静地说。"我以为那只是你的成长环境——你无法识别爱，即使你感受到了。但如果你爱我们的女儿的方式是这样的，我永远无法承受它的力量。"
+
+**句子结构：** You were right when you insisted（承认过去）+ I thought it was only your upbringing（假设）+ But if this is how you love our daughter（观察）+ I'd never have been able to bear the force of it（结论）。
+
+**关键词：** couldn't recognize love（无法识别爱——Nikolau 对 Fia 的旧评价）；if this is how you love our daughter（如果你爱我们的女儿的方式是这样的——Nikolau 对 Fia 新发现的理解）
+
+**表达方式：** Nikolau 最终理解了 Fia——她不是不能爱，而是以极端的方式爱。
+
+**为什么这样写：** Nikolau 的话是对 Fia 最深刻的理解——他终于明白她是如何爱人的。这不是温柔的爱，而是为所爱之人改变世界的力量。
+
+---
+
+> **原句 17:** "'I know.' Fia's voice was low and soothing. 'And I want my Priest and my Inver boy kept safe more than anything. You understand that I'm giving you that task because I trust you, Nikolau? There's no one else I could say that of. I know it doesn't go both ways, and you're right not to trust me, but maybe it'll help you forgive me a little for how I've gone about things.'"
+
+**中文理解：** "我知道。"Fia 的声音低沉而安抚。"我比任何事情都想让我的 Priest 和我的 Inver 男孩安全。你明白我把这个任务交给你是因为我信任你，Nikolau？没有别人我可以这样说。我知道这不会是双向的，你不相信我是对的，但也许这会帮助你原谅我所采用的方式。"
+
+**句子结构：** I know（承认）+ And I want my Priest and my Inver boy kept safe（她的优先级）+ You understand that I'm giving you that task because I trust you（信任声明）+ There's no one else（唯一性）+ I know it doesn't go both ways（不平等的信任）。
+
+**关键词：** I trust you（我信任你——Fia 对 Nikolau 的真实感受）；I know it doesn't go both ways（我知道这不是双向的——Fia 承认 Nikolau 没有理由信任她）
+
+**表达方式：** Fia 的话是真诚的——她真的信任 Nikolau，即使她知道他不信任她。这是她能给他的最诚实的东西。
+
+**为什么这样写：** 这是 Fia 全章最真诚的时刻——她承认她的操控，但她也提供了真实的信任。这是她与 Nikolau 关系的最终形态：不是恋人，而是互相理解的盟友。
+
+---
+
+> **原句 18:** "'I wish I'd never met you,' Nikolau said, but there was no ire in the words."
+
+**中文理解：** "我希望我从未遇见你，"Nikolau 说，但话语中没有愤怒。
+
+**句子结构：** I wish I'd never met you（愿望）+ but there was no ire in the words（语调——无愤怒）。
+
+**关键词：** I wish I'd never met you（希望从未相遇——Nikolau 的挫败感）；but there was no ire（但没有愤怒——他接受了他的命运）
+
+**表达方式：** Nikolau 的话是 resignation 而不是愤怒——他已经接受了 Fia 的操控，并选择配合。
+
+**为什么这样写：** "but there was no ire"是全章最感人的细节——Nikolau 已经停止反抗，他接受了作为 Fia 计划的一部分。这是他们关系的最终形态：不是恋人，不是朋友，而是被共同女儿联系在一起的两个人。
 
 ---
 
@@ -267,33 +280,32 @@ modified: "2026-09-21"
 
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| soria | 星辰侍者（Lyria 的修女刺客） | A treasonous queen who was once a soria. |
-| fathomless | 深不可测的 | Her fathomless dark gaze could not be withstood. |
-| guttered | 摇曳的 | The last spark of hope in Ariana guttered and died. |
-| chafe | 受磨蚀；激怒 | The Corrinians chafe under Afon's rule. |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| anthara | /ˈænθərə/ | anthara 茶（北部山区的草药茶） | The anthara slipped sweet and herbal down her throat, reminding her of the past, and everything she'd done to survive. |
+| gallows humor | /ˈɡæləʊz ˈhjuːmə/ | 绞刑架前的幽默；黑色幽默 | You always had a taste for gallows humor, he said. And I never found it funny. Neither is this. |
+| burnished | /ˈbɜːnɪʃt/ | 擦亮的；泛光的 | Burnished sun-bright, lithe and light on his feet, with a sharp blue gaze that held hints of both mastery and mockery. |
+| astringent | /əˈstrɪndʒənt/ | 涩的；收敛性的 | The steam that rose was fragrant but carried an edge. Floral, but with a slight astringent bite. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| regicide | 弑君 | Ensure Fia was not declared guilty of regicide. |
-| companionably | 友善地 | He said companionably, as if they were friends. |
-| all-consuming | 吞噬一切的 | Night, bleak and all-consuming. |
-| devoutly | 虔诚地 | Ariana had been a devoutly Lyria's daughter. |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| errand | /ˈerənd/ | 差事；跑腿 | Taking it immediately, the publican handed it over to a waiting errand boy with a few low words. |
+| publican | /ˈpʌblɪkən/ | 酒馆老板 | At one end of the room, a lightless gray hearth still housed yesterday's ashes, and at the other end, a publican stood behind the tall counter, dispensing wooden mugs of his house brews. |
+| renegade | /ˈrenɪɡeɪd/ | 叛逃者；变节者 | …he clasped her by the wrist as he'd do to a fellow renegade, a comrade-in-arms. |
+| bristling | /ˈbrɪslɪŋ/ | 怒气勃发；毛发竖起 | She tightened her grip on Justus and could feel herself bristling. |
 
 ### ⭐ 基础
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| prisoner | 囚犯 | She was a prisoner in her own castle. |
-| betray | 背叛 | I would choose torture before I betrayed my country. |
-| sacrifice | 牺牲 | Let them make a sacrifice of me. |
-| torture | 酷刑 | Any manner of torture. |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| guard | /ɡɑːd/ | 警卫；守卫 | I need a new captain of the Honorian guard. |
+| oath | /əʊθ/ | 誓言 | I swore an oath to Miriel when she was born. |
+| forgive | /fəˈɡɪv/ | 原谅 | …maybe it'll help you forgive me a little for how I've gone about things. |
+| debt | /det/ | 债；亏欠 | …I told you to leave me be until harvest time, when I'd collect on your debt. |
 
----
 
 ## 一句话总结
 
-Ariana 在绝望中拒绝了所有背叛的选择——无论是 Afon 的婚姻提议还是 Caervallion 的刺客合同，她选择与 Orden 一起死在 Honoria，作为 Lyria 女儿的最后一战。
+Fia 用一个关于"这个孩子"的巧妙欺骗让 Nikolau 成为了 Honorian 警卫队长——她让他发誓保护 Justus，却让他以为那是他们的女儿 Miriel，在绝望和被理解的混合中，Nikolau 接受了她的操控。

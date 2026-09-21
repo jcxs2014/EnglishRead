@@ -1,4 +1,5 @@
 ---
+source_text: ch21
 status: 未读
 modified: "2026-09-21"
 ---
@@ -119,9 +120,9 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 8:** "'A travel hymn,' Ariana said dispiritedly. 'For dry roads and fair winds, for a tempering of Raea's greatest heat by day and a summoning of her leftover warmth by night.'"
+> **原句 8:** "'A travel hymn,' Ariana said dispiritedly, smoothing Justus's blanket. 'For dry roads and fair winds, for a tempering of Raea's greatest heat by day and a summoning of her leftover warmth by night.'"
 
-**中文理解：** "一首旅途赞美诗，"Ariana 沮丧地说。"为了干燥的道路和顺畅的风，为了白天 Raea 最酷热时的缓和，以及夜间召唤她残余的温暖。"
+**中文理解：** "一首旅途赞美诗，"Ariana 一边沮丧地说，一边抚平 Justus 的毯子。"为了干燥的道路和顺畅的风，为了白天 Raea 最酷热时的缓和，以及夜间召唤她残余的温暖。"
 
 **句子结构：** 两个直接引语；for...for...for...for...平行结构。
 
@@ -203,9 +204,9 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 14:** "'Fia as Matria?' Ariana managed to say at last. 'Whatever put such an idea into your head? She's completely unsuitable—I enjoy her company, but she can't even read.'"
+> **原句 14:** "'Fia as Matria?' she managed to say at last. 'Whatever put such an idea into your head? She's completely unsuitable—I enjoy her company, but she can't even read.'"
 
-**中文理解：** "Fia 成为 Matria？"Ariana 终于勉强说道。"你怎么会有这样的想法？她完全不合适——我喜欢和她作伴，但她甚至不识字。"
+**中文理解：** "Fia 成为 Matria？"她终于勉强说道（"她"指 Ariana）。"你怎么会有这样的想法？她完全不合适——我喜欢和她作伴，但她甚至不识字。"
 
 **句子结构：** 两个直接引语；but 连接的并列结构（she can't even read）。
 
@@ -339,7 +340,7 @@ modified: "2026-09-21"
 | enticement | /ɪnˈtaɪsmənt/ | 诱惑、诱饵 | …his offer an enticement. |
 | abject | /ˈæbdʒekt/ | 绝望的、可怜的 | …the abject despair she felt. |
 | reconciled | /ˈrekənsaɪld/ | 调和、和解 | — |
-| vehemence | /ˈviːəməns/ | 激烈、热烈 | — |
+| surreptitiously | /ˌsʌrəpˈtɪʃəsli/ | 偷偷地；暗中地 | But for Orden's sake, she wiped surreptitiously at her face and attempted to smile. |
 
 ### ⭐⭐ 进阶
 

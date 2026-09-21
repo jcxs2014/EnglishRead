@@ -1,4 +1,5 @@
 ---
+source_text: ch22
 status: 未读
 modified: "2026-09-21"
 ---
@@ -231,9 +232,9 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 16:** "'I want you to live. I want you to die at peace, an old man in your bed, as no Inver from the line of kings has done for two hundred years. But that doesn't mean I trust you.'"
+> **原句 16:** "'I want you to live,' she said, all the ire gone from her voice. 'I want you to die at peace, an old man in your bed, as no Inver from the line of kings has done for two hundred years. But that doesn't mean I trust you.'"
 
-**中文理解：** "我想要你活着。我想要你安详地死去，在你的床上老去，像过去两百年中没有哪个 Inver 王室成员曾经做到的那样。但这不意味着我信任你。"
+**中文理解：** "我想要你活着，"她说，声音里的怒气全消了。"我想要你安详地死去，在你的床上老去，像过去两百年中没有哪个 Inver 王室成员曾经做到的那样。但这不意味着我信任你。"
 
 **句子结构：** 三个并列句（I want you to live / I want you to die / But that doesn't mean）+ as 方式从句。
 

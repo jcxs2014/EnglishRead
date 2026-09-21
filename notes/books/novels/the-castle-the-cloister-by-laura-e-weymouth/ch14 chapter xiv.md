@@ -70,11 +70,11 @@ modified: "2026-09-21"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| scarlatine | /ˈskɑːklət/ | 猩红色；深红色 | Not a single scrap of scarlet in the house of stars. |
+| unquenchable | /ʌnˈkwentʃəbl/ | 无法熄灭的；压不住的 | And he brings with him light unquenchable, kindled by our own hands. |
 | bruised | /bruːzd/ | 瘀伤的 | a great blue bruise blossoming around Fia's arm. |
-| abrogate | /ˈæbrəɡeɪt/ | 废除；取消 | The blood prohibition was strictly observed. |
-| rescind | /rɪˈsɪnd/ | 撤回；废除 | She would rescind her vow. |
-| contrition | /kənˈtrɪʃən/ | 悔恨，后悔 | with a sense of deep contrition |
+| mercilessness | /ˈmɜːsɪləsnəs/ | 冷酷无情 | The unlit mercilessness of a pagan land, where all depended on the vagaries of false goddesses for light. |
+| counterpoint | /ˈkaʊntəpɔɪnt/ | 对位；对照 | On and on the drums went, and Ariana realized the counterpoint to them she heard was Fia, kneeling beside the prisoner and whispering the Raean canticle for the dying in his ear. |
+| bloodstained | /ˈblʌdsteɪnd/ | 沾满血迹的 | Fia stepped forward with the child in her arms, her own bloodstained hands hidden beneath his gold-threaded blankets, the two women flanking the altar of the god of war. |
 
 ### ⭐⭐ 进阶
 
@@ -82,8 +82,8 @@ modified: "2026-09-21"
 |------|------|------|------|
 | salve | /sælv/ | 药膏；油膏 | a strange, herbal-smelling salve |
 | scathing | /ˈskeɪðɪŋ/ | 尖刻的，刻薄的 | Fia's scathing reply |
-| bruited | /ˈbruːtɪd/ | 传播；散布 | as bruited abroad |
-| vestment | /ˈvestmənt/ | 祭袍；礼服 | her crimson vestment |
+| contradiction | /ˌkɒntrəˈdɪkʃn/ | 矛盾；对立面 | Standing before a long mirror near her wardrobe, Ariana felt more a contradiction than ever. |
+| commissioned | /kəˈmɪʃnd/ | 委托定制 | Ariana knew how she must look—she'd commissioned the gown herself after it seemed the pregnancy would take. |
 | solace | /ˈsɒləs/ | 安慰；慰藉 | finding solace in Fia's presence |
 
 ### ⭐ 基础

@@ -1,4 +1,5 @@
 ---
+source_text: ch26
 status: 未读
 modified: "2026-09-21"
 ---
@@ -7,271 +8,259 @@ modified: "2026-09-21"
 
 ## 本章导航
 
-**一句话概括：** Priest 与 Glora 达成土地换忠诚的交易，正式开启他不情愿的王位争夺；Fia 与 Priest 在情感与策略上达成深度联盟。
+**一句话概括：** Ariana 在地牢中与 Orden 的尸体相伴，面对 Lucian 的精神折磨和 Gwylen 带来的 Afon 提议——以婚姻和背叛换取自由；她的回答是拒绝一切的"就让我死在这里"。
 
-**情感弧线位置：** 策略与结盟——Priest 从被动应对转向主动建立联盟；Glora 从旁观者变成关键盟友。
+**情感弧线位置：** 低谷与坚守——Ariana 在绝望中坚守对 Orden 和 Honoria 的忠诚，拒绝所有背叛的选择。
 
-**Tropes 兑现/反转：** 谈判与交易；Priest 作为"不情愿的王者"开始行动。
+**Tropes 兑现/反转：** 囚禁与审讯；Ariana 作为"不情愿的王后"坚守信仰；敌人的提议与拒绝。
 
-**人物弧线：** Priest 从"逃亡者/摄政候选人"转变为"活跃的策划者"；Glora 从"实用主义者"变成"盟友"。
+**人物弧线：** Ariana 从" Orden 的遗孀"转变为"拒绝妥协的殉道者"——即使付出死亡的代价，她也不背叛。
 
-**叙事手法：** 双线并行——Priest 与 Glora 的谈判桌上博弈；Priest 内心从拒绝到接受的转变；土地作为政治交易的媒介。
+**叙事手法：** 内心独白为主——Ariana 的心理活动构成了全章的主体；Orden 尸体作为情感锚点；Gwylen 作为外部戏剧冲突的推动者。
 
 ## 精读
 
-### 第一段：联盟的起点
+### 第一段：失去 Orden
 
-> **原句 1:** "Fia's touch lit a fire in the Priest's flesh, and her words lit a fire in his bones."
+> **原句 1:** "Every beat of Ariana's heart tolled a death knell. Orden was gone. Gone. Gone."
 
-**中文理解：** Fia 的触碰点燃了 Priest 肉体的火焰，她的话语点燃了他骨骼中的火焰。
+**中文理解：** Ariana 的每一次心跳都敲响了死亡的丧钟。Orden 走了。走了。走了。
 
-**句子结构：** 并列主语 + lit a fire in the Priest's flesh / and her words lit a fire in his bones。
+**句子结构：** Every beat...tolloed a death knell（隐喻）+ Orden was gone（陈述）+ Gone. Gone（重复强调）。
 
-**关键词：** lit a fire in his flesh（点燃了肉体的火焰——情欲的暗示）；lit a fire in his bones（点燃了骨骼中的火焰——更深层的决心）
+**关键词：** Every beat...tolloed a death knell（每一次心跳都敲响丧钟——Ariana 对 Orden 之痛的感知）；Gone（走了——简短而有力的否定）
 
-**表达方式：** "flesh"和"bones"的对比——Fia 的触碰激发情欲，而她的话语激发了更深的决心。
+**表达方式：** "Gone"的重复三次是 Ariana 无法接受 Orden 已死的心理过程——她需要多次重复才能勉强接受这个事实。
 
-**为什么这样写：** 这是 Priest 接受 Fia 计划的情感基础——她的触摸和话语同时激发了他。但他是一个实用主义者，他甩开了她的手。
-
----
-
-> **原句 2:** "'I have some connections,' he said flatly. 'Some favors I could call in among a few of the nobles. But nothing to rival Lucian, who has the guard in his pocket and the highest-placed Invers already plotting as to how they can take the throne. Even if I could outmaneuver Lucian and claim the kingship for Justus and a regency for myself, an infant and a blind man wouldn't last long as heads of this court.'"
-
-**中文理解：** "我有一些关系，"Priest 平铺直叙地说。"我在一些贵族中有些可以要求回报的人脉。但无法与 Lucian 抗衡，他收买了警卫，最高层级的 Inver 已经在策划如何夺取王位。即使我能胜过 Lucian，为 Justus 争取王位并为自己争取摄政之位，一个婴儿和一个盲人作为宫廷的首脑也撑不了多久。"
-
-**句子结构：** 直接引语 + But 转折结构（nothing to rival...who has...）。
-
-**关键词：** some connections（一些关系——Priest 的非正式权力网络）；has the guard in his pocket（收买了警卫——Lucian 的权力基础）
-
-**表达方式：** "flatly"再次出现——Priest 在评估自己的实力时非常现实。
-
-**为什么这样写：** Priest 承认自己的局限：他有一些关系，但没有 Lucian 那样的权力基础。他需要盟友。
+**为什么这样写：** 这是全章最痛苦的时刻——Orden 的死对 Ariana 的打击不仅是政治上的，更是情感上的。她爱过他，即使他们的婚姻充满复杂。
 
 ---
 
-> **原句 3:** "'I am a postulant, yes. But one with Dolenza's backing. Before we left the plains, she gave me complete discretion to speak for her. What I offer on behalf of the goddess, Dolenza will honor. Think what you could do with Raea's cloister on your side.'"
+> **原句 2:** "At first, she'd refused to believe he could really be dead. She'd known she needed to act, to ensure Fia was not declared guilty of regicide, and the cloister by association, though what Fia had been doing in the king's chambers, the Beloved Three only knew."
 
-**中文理解：** "是的，我是一个修女候选人，"Fia 说。"但我有 Dolenza 的支持。在我们离开平原之前，她给了我全权代表她发言的权力。我以女神的名义提出的一切，Dolenza 都会兑现。想想看，有了 Raea 修道院站在你这边，你能做什么。"
+**中文理解：** 起初，她拒绝相信他真的死了。她知道她需要行动，确保 Fia 不会被宣布为弑君者，修道院也不会因此被连累，尽管 Fia 在国王的房间里做什么，只有三圣知道。
 
-**句子结构：** I am a postulant, yes（承认）+ But one with Dolenza's backing（转折）+ 解释性从句。
+**句子结构：** At first...refused to believe（拒绝相信）+ She'd known she needed to act（需要行动）+ though...the Beloved Three only knew（插入语——对 Fia 在场的困惑）。
 
-**关键词：** with Dolenza's backing（有 Dolenza 的支持——Fia 权力的来源）；complete discretion to speak for her（全权代表她发言——Fia 的授权）
+**关键词：** refused to believe（拒绝相信——Ariana 的心理防御机制）；regicide（弑君——Fia 被指控的罪名）
 
-**表达方式：** Fia 强调她有 Dolenza 的授权——这使她的提议具有实质内容，而不仅仅是空头承诺。
+**表达方式：** Ariana 在 Orden 死后立即想到的是保护 Fia——这证明了她对 Fia 的姐妹情谊。
 
-**为什么这样写：** Fia 透露了一个重要信息：Dolenza 在她离开前给了她全权代表修道院发言的权力。这意味着她对 Priest 的提议是真实的、有约束力的。
-
----
-
-> **原句 4:** "'You understand that I don't want Honoria?' he said. 'That if you offered me the kingship on a golden platter and could promise me a long life of ease and prosperity while I held it, I would refuse?'"
-
-**中文理解：** "你明白我不想要 Honoria 吗？"他说。"如果你们给我一个金盘子装着王位，并且能保证我在位时长寿、安逸和繁荣，我会拒绝。"
-
-**句子结构：** You understand...that 宾语从句 + if 虚拟条件句。
-
-**关键词：** if you offered me the kingship on a golden platter（如果你们给我一个金盘子装着王位——极端的表述）；a long life of ease and prosperity（长寿、安逸和繁荣——Priest 拒绝的东西）
-
-**表达方式：** "on a golden platter"和"a long life of ease"的对比——Priest 明确表示他不在乎物质利益或安逸。
-
-**为什么这样写：** Priest 再次强调他对权力的拒绝——他不想成为国王，甚至不想成为有权力的人。但 Fia 没有要求他成为国王。
+**为什么这样写：** "the Beloved Three only knows"是 Ariana 对 Fia 在国王房间里的困惑——她不知道 Fia 是去救 Orden 还是另有目的。这为后面的误解埋下了伏笔。
 
 ---
 
-> **原句 5:** "'He deserves a proper chance to live and to claim his birthright,' Fia said. 'Besides which, if you leave, I will stay here. I will confess to having aided Ariana in murdering Orden, at Dolenza's behest. We will both be executed. The cloister will be razed. And wherever you are, wherever you go, you will always know there was a chance you could have averted that future.'"
+> **原句 3:** "Surely, surely, a man like Orden Inver couldn't actually be killed."
 
-**中文理解：** "他值得一个适当的机会来活着并要求他的继承权，"Fia 说。"此外，如果你离开，我会留在这里。我会承认在 Dolenza 的要求下帮助 Ariana 谋杀了 Orden。我们两个都会被处决。修道院会被摧毁。无论你在哪里，无论你去哪里，你总会知道本有一个机会可以阻止那个未来。"
+**中文理解：** 当然，当然，像 Orden Inver 这样的男人不可能真的被杀死。
 
-**句子结构：** He deserves... + Besides which...的条件威胁句 + And wherever...的结果句。
+**句子结构：** Surely, surely（重复强调）+ a man like Orden Inver couldn't actually be killed（否定）。
 
-**关键词：** He deserves a proper chance（他值得一个适当的机会——Fia 对 Justus 的主张）；if you leave, I will stay（如果你离开，我会留下——Fia 的威胁）；you will always know（你总会知道——Priest 无法逃避的道德负担）
+**关键词：** Surely, surely（当然——Ariana 对 Orden 力量的信念）；couldn't actually be killed（不可能被杀死——她的信仰）
 
-**表达方式：** Fia 的威胁是精心设计的——如果 Priest 离开，她会认罪，导致她自己、Ariana 和修道院都被摧毁。这不是空洞的威胁，而是真实的、可信的后果。
+**表达方式：** "Surely, surely"的重复和"couldn't actually be killed"的否定揭示了 Ariana 对 Orden 的理想化——她无法接受一个像他这样的男人会死。
 
-**为什么这样写：** Fia 用她的生命和修道院的存亡作为筹码——如果 Priest 不接受，她就会执行她的威胁。这是一个绝对的最后通牒，也揭示了她对 Priest 的了解：他无法忍受"本可以拯救却没有拯救"的负罪感。
-
----
-
-> **原句 6:** "'By Bright Raea and my mark, I swear to honor the debt I owe you at once and without question, at whatever time you choose to ask for payment.'"
-
-**中文理解：** "以光之 Raea 和我的印记，我发誓在你不论何时要求偿还时，立即且毫无疑问地履行我欠你的债务。"
-
-**句子结构：** By Bright Raea and my mark（方式状语）+ I swear to honor the debt（主要谓语）+ at whatever time...（时间状语）。
-
-**关键词：** honor the debt I owe you（履行我欠你的债务——Fia 承诺的"债务"）；at whatever time you choose（在你选择的时间——Priest 可以在任何时候要求偿还）
-
-**表达方式：** Fia 的誓言是全章最关键的时刻——她用 Raea 的名义发誓，这使她的承诺具有宗教约束力。
-
-**为什么这样写：** Fia 欠 Priest 的"债务"是一个悬念——这个债务是什么？它会在什么时候被要求偿还？这是为后续章节埋下的伏笔。
+**为什么这样写：** Ariana 的想法在全书中是独特的——她是唯一一个认为 Orden "不可能被杀"的人。这揭示了她对他的信念有多深，即使他有过错。
 
 ---
 
-> **原句 7:** "'Very well, then,' the Priest said. 'Let us begin the work of claiming Honoria's throne.'"
+> **原句 4:** "Then Lucian had clapped her in irons, and Ariana began to grow cold inside. Orden would never have allowed that, no matter the circumstances."
 
-**中文理解：** "那就这样吧，"Priest 说。"让我们开始为夺取 Honoria 王位而努力吧。"
+**中文理解：** 然后 Lucian 给她戴上了镣铐，Ariana 开始在心里变冷。Orden 绝不会允许这种情况，无论什么情况。
 
-**句子结构：** Very well, then（接受）+ Let us begin...（开始行动）。
+**句子结构：** Then...had clapped her in irons（事件）+ Ariana began to grow cold inside（反应）+ Orden would never have allowed that（回忆对比）。
 
-**关键词：** Let us begin（让我们开始——Priest 正式接受计划）；the work of claiming Honoria's throne（夺取 Honoria 王位的工作——任务的规模）
+**关键词：** clapped her in irons（给她戴上镣铐——Lucian 对她的侮辱）；grow cold inside（在心里变冷——Ariana 的绝望）
 
-**表达方式：** "Let us begin"是 Priest 从拒绝到接受的转变点——他终于同意参与。
+**表达方式：** "grow cold inside"是 Ariana 情感崩溃的隐喻——当她意识到 Orden 真的死了，她的心也跟着死了。
 
-**为什么这样写：** 这是全章的转折点——Priest 正式同意为夺取王位（作为摄政王）而努力。他的计划从"逃亡"变成了"掌权"。
-
----
-
-### 第二段：与 Glora 的谈判
-
-> **原句 8:** "Standing on the threshold to her private apartment, the Priest wiped his damp hands on the fabric of his trousers, cursing the nerves rising within him."
-
-**中文理解：** 站在她私人公寓的门口，Priest 在裤子上擦干他潮湿的双手，诅咒着在他体内上升的紧张情绪。
-
-**句子结构：** Standing on the threshold...分词短语作状语 + 主句 the Priest wiped... + 分词短语 cursing...。
-
-**关键词：** Standing on the threshold（站在门口——进入 Glora 空间的物理动作）；damp hands（潮湿的双手——紧张的生理表现）；cursing the nerves（诅咒紧张情绪——Priest 的自我对话）
-
-**表达方式：** "damp hands"和"cursing"揭示了 Priest 去见 Glora 时的紧张——这与他面对 Lucian 时的冷静形成对比。
-
-**为什么这样写：** Priest 发现与 Glora 见面比与 Lucian 对峙更让他紧张——这暗示 Glora 对他有某种特殊的威慑力，可能源于童年。
+**为什么这样写：** Ariana 的"grow cold inside"与 Orden 的死亡直接相关——她不仅失去了丈夫，也失去了自己的信仰。Lucian 给她戴镣铐是她崩溃的最后一步。
 
 ---
 
-> **原句 9:** "'Well,' a rough voice said. 'The Priest Who Dwells In Darkness on my doorstep. Never thought I'd see the day. I suppose you'd best come in.'"
+### 第二段：Lucian 的折磨
 
-**中文理解：** "唔，"一个粗粝的声音说。"黑暗中的神父在我门口。从没想过会有这一天。我猜你最好进来。"
+> **原句 5:** "'At first I was at a loss,' he said companionably, 'as to how I should manage you. You confessed so prettily, the moment you heard I'd taken the postulant into custody. And you're a rare prize, aren't you, little bird? It isn't every day an Inver has the pleasure of winning both a throne and the care and keeping of a treasonous queen who was once a soria.'"
 
-**句子结构：** 直接引语 + The Priest Who Dwells In Darkness（完整头衔）+ Never thought I'd see the day（感叹）+ I suppose...you'd best come in（讽刺的邀请）。
+**中文理解：** "起初我不知道该怎么办，"他像聊天一样说，"我应该如何处置你。你当时很可爱地承认了，当我听说我已经把那个修女候选人关押了。你是个珍贵的奖品，不是吗，小鸟？不是每天都有一个 Inver 能同时赢得一个王位和对一个曾经是 soria 的叛国皇后的照料的乐趣。"
 
-**关键词：** The Priest Who Dwells In Darkness（黑暗中的神父——Glora 用完整的头衔称呼他）；Never thought I'd see the day（从没想过会有这一天——Glora 的惊讶）
+**句子结构：** At first I was at a loss（困惑语气）+ as to how I should manage you（询问）+ You confessed so prettily（嘲讽）+ you're a rare prize（贬低）。
 
-**表达方式：** Glora 的语气是粗粝和讽刺的——她对 Priest 有某种不尊重，但也有一丝欣赏。
+**关键词：** a rare prize（珍贵的奖品——Lucian 对 Ariana 的物化）；treasonous queen who was once a soria（曾经是 soria 的叛国皇后——Ariana 的双重身份）
 
-**为什么这样写：** "The Priest Who Dwells In Darkness"是 Glora 第一次用完整头衔称呼他——这暗示她把他当作一个正式的角色，而非仅仅是"Darias 的私生子"。
+**表达方式：** "little bird"是 Lucian 对 Ariana 的蔑称——他在精神上折磨她，把她当作战利品。
 
----
-
-> **原句 10:** "'You upstart bastard,' Glora said, but there was admiration in the words. 'You mean to make your own bid for the throne. I always did like you best of Darias Inver's whelps.'"
-
-**中文理解：** "你这个暴发户私生子，"Glora 说，但话语中有敬意。"你想自己争夺王位。我一直是最喜欢 Darias Inver 的崽子们的。"
-
-**句子结构：** 直接引语 + but there was admiration（隐性转折）+ I always did like...（回忆性陈述）。
-
-**关键词：** You upstart bastard（暴发户私生子——Glora 对 Priest 的称呼）；I always did like you best（我一直以来最喜欢你——Glora 对 Priest 的偏爱）
-
-**表达方式：** "upstart bastard"是 Glora 的典型语气——粗粝但有敬意。她用这个称呼表达她对 Priest 的认可。
-
-**为什么这样写：** Glora 的话揭示了她对 Priest 的评价：她认为他是 Inver 家族中最有出息的一个。这为后面的交易奠定了基础。
+**为什么这样写：** Lucian 的话揭示了他对 Ariana 的真实态度：她不是人，而是"奖品"和"战利品"。他的折磨是精神上的——他想让她崩溃。
 
 ---
 
-> **原句 11:** "'There's a chair on the left,' Glora offered. 'And a few steps forward. The space in front of it's clear.'"
+> **原句 6:** "She trained her fathomless dark gaze on Lucian, and even now, with her behind bars and him holding the castle hostage, he could not withstand the mild look of one of Lyria's daughters."
 
-**中文理解：** "左边有一把椅子，"Glora 说。"向前走几步。前面的空间是空的。"
+**中文理解：** 她用 Lyria 女儿们特有的、深不可测的黑暗凝视盯着 Lucian，即使现在她身在牢笼而他控制着城堡，他仍然无法承受她温和的目光。
 
-**句子结构：** 直接引语 + 描述性陈述。
+**句子结构：** She trained her fathomless dark gaze on Lucian（动作）+ even now...he could not withstand the mild look（对比）。
 
-**关键词：** There's a chair on the left（左边有一把椅子——Glora 帮助 Priest 导航）；The space in front of it's clear（前面的空间是空的——Glora 的细心）
+**关键词：** fathomless dark gaze（深不可测的黑暗凝视——Ariana 的 soria 本质）；could not withstand the mild look（无法承受温和的目光——Lyria 女儿的力量）
 
-**表达方式：** Glora 帮助 Priest 坐下——她理解他的盲人身份并主动提供帮助。
+**表达方式：** Lucian 物理上控制了 Ariana，但她的精神力量让他无法直视她的眼睛——这是 Ariana 唯一剩下的武器。
 
-**为什么这样写：** 这一细节展示了 Glora 实用主义背后的善意——她不会因为他是盲人就轻视他，而是主动帮助他。
-
----
-
-> **原句 12:** "'Pity about your brother, and about the queen,' Glora said, sounding half-disinterested, as if she were discussing an overcast day she'd hoped would be fine. 'To make a bid for the throne and fail so pathetically.'"
-
-**中文理解：** "为你兄弟和王后感到遗憾，"Glora 说，听起来半心半意，好像她在讨论一个她希望会是好天的阴天。"试图夺取王位却如此可悲地失败。"
-
-**句子结构：** 直接引语 + as if 方式从句 + To make a bid...的不定式短语。
-
-**关键词：** half-disinterested（半心半意的——Glora 的冷漠态度）；sounding as if she were discussing an overcast day（听起来像在讨论阴天——她对 Orden 之死的态度）
-
-**表达方式：** Glora 将 Orden 的死和 Ariana 的被捕比作天气——她对此不关心，只是顺便评论。
-
-**为什么这样写：** Glora 对 Orden 和 Ariana 的评价是"pathetic failure"——她认为 Ariana 的计划从一开始就注定失败，因为她不理解 Inver 的方式。
+**为什么这样写：** 这一细节揭示了 soria 的力量——即使 Ariana 被囚禁，她的精神力量仍然让 Lucian 感到不安。这是她的最后抵抗。
 
 ---
 
-> **原句 13:** "'How did you kill him?' Glora asked. 'I heard it was poison of some kind, and they can't sort out what. He'd been drinking summer wine from the cloister, but Lucian forced a scullery maid to down a whole pint of it from the king's own goblet. She's happily soused now, and nothing more. So it must have been something else. Some other toxin. That would be your way—you must get your fill of blood down in the sanctuary, if it's not sacrilegious to say so.'"
+> **原句 7:** "'I've brought you a cellmate,' Lucian ground out. 'Someone to pass the time with you until your fate is decided. It seemed a pity for you to be left all alone.'"
 
-**中文理解：** "你怎么杀他的？"Glora 问。"我听说是什么毒药，但他们分辨不出来。他一直在喝修道院送来的夏酒，但 Lucian 让一个厨房女仆从国王自己的酒杯里喝了一品脱。她现在醉得很开心，仅此而已。所以一定是别的什么东西。别的毒素。这才是你的方式——你一定在圣地里有足够的血，如果这样说不是亵渎神明的话。"
+**中文理解：** "我给你带来了一个牢友，"Lucian 压低声音说。"在你命运被决定之前，有人陪你打发时间。你一个人被留下似乎太可怜了。"
 
-**句子结构：** 直接引语 + 并列句 + That would be your way（总结性判断）。
+**句子结构：** I've brought you a cellmate（揭示）+ Someone to pass the time（伪装的好意）+ It seemed a pity（讽刺）。
 
-**关键词：** poison of some kind（某种毒药——Glora 知道 Orden 被毒杀）；your way（你的方式——Glora 暗示 Priest 是凶手）
+**关键词：** a cellmate（牢友——讽刺的说法）；until your fate is decided（在你命运被决定之前——Ariana 没有发言权）
 
-**表达方式：** Glora 的话既是询问也是试探——她想确认 Priest 是否杀了 Orden。
+**表达方式：** Lucian 的"好意"是残忍的讽刺——他要给 Ariana 带来的"牢友"是 Orden 的尸体，这是他精神折磨的一部分。
 
-**为什么这样写：** 这是全章最尖锐的时刻——Glora 直接问 Priest 是否杀了自己的兄弟。Priest 的回答是"Orden 怎么死的并不重要"。
-
----
-
-> **原句 14:** "'There's no one at court that doesn't know your history with Hadrian—how he married you when you were little more than a child, and took over guardianship of the lands you'd inherited, only to refuse to turn them over when you reached the age of your majority. How he then went on to replace you with his mistress and her get, when you were unable to bear him children.'"
-
-**中文理解：** "宫廷里没有人不知道你和 Hadrian 的过往——他娶你的时候你还只是个孩子，然后接管了你继承的土地的监护权，但当你达到成年年龄时却拒绝归还。后来他又用他的情妇和私生子取代了你，因为你没能为他生孩子。"
-
-**句子结构：** There's no one at court that doesn't know...how 引导的并列定语从句。
-
-**关键词：** took over guardianship of the lands（接管了土地的监护权——Hadrian 的控制）；replace you with his mistress and her get（用情妇和私生子取代你——Glora 被羞辱的原因）
-
-**表达方式：** Priest 揭示了他对 Glora 往事的了解——这是一种策略性的示好。
-
-**为什么这样写：** Priest 用 Glora 的个人伤痛作为切入点——他知道 Hadrian 对她的不公，这让他站在她的角度思考问题。这是他的谈判策略。
+**为什么这样写：** Lucian 的残忍体现在他的"体贴"中——他想把 Orden 的尸体带给 Ariana，这不是善意，而是精心设计的折磨。
 
 ---
 
-> **原句 15:** "'I can't restore what is rightfully yours. Not if I mean to keep Hadrian as a supporter as well. But I can offer a replacement. I'm not sure if you recall Electa Inver—she was an old woman already when I was a child. But she took an interest in me and made me a sort of unofficial ward. There were a few attempts on my life I'm certain were only thwarted because of Electa's influence. When she died, she left me her land—it's nothing like what you lost, just a few hundred acres on the eastern coast, but there's a good stone house, and mixed timber lot and pasturage, besides some income in fishing from the streams. The place is self-sustaining, and I've always thought it a bit wasted on me.'"
+> **原句 8:** "He gestured to the unseen guards that Ariana had heard behind him, and they stepped forward. Now she saw what they'd been carrying—what burden had weighed them down. Between the two of them they carried Orden's body, which ought to have been turned over to the Priest for tending hours ago."
 
-**中文理解：** "我无法恢复本属于你的东西。不是如果我想让 Hadrian 也站在我这边的话。但我可以提供一个替代品。我不确定你是否记得 Electa Inver——我小时候她就已经是个老妇人了。但她对我产生了兴趣，把我当作某种非正式的监护人。有几次我确信会有人试图杀我，但都因为 Electa 的影响力而失败了。她去世时，把她的土地留给了我——这和你失去的无法相比，只是东海岸的几百英亩，但有一座好石头房子，混合林地和牧场，还有一些来自溪流捕鱼的收入。这地方能够自给自足，我一直觉得有点浪费在我身上。"
+**中文理解：** 他向 Ariana 听到的在他身后待命的警卫打了个手势，他们走上前。现在她看到了他们一直在抬的东西——什么东西让他们负担沉重。他们两人抬着 Orden 的尸体，那本该在几小时前就被交给 Priest 照料的。
 
-**句子结构：** I can't restore...Not if...（否定条件）+ But I can offer a replacement（转折）+ I'm not sure if you recall...（引入 Electa 的故事）+ 描述土地的细节。
+**句子结构：** He gestured to...（动作）+ they stepped forward（结果）+ Now she saw what they'd been carrying（揭示）+ which ought to have been turned over...（本应该——对比现实）。
 
-**关键词：** a replacement（替代品——Priest 用新土地补偿 Glora 的损失）；Electa Inver（Electa——Priest 生命中的贵人）
+**关键词：** Orden's body（Orden 的尸体——Lucian 的折磨工具）；ought to have been turned over to the Priest（本应该交给 Priest——对正常仪式的违反）
 
-**表达方式：** Priest 透露了 Electa Inver 的故事——这是他的保险，在他死后保护 Glora。
+**表达方式：** "ought to have been turned over"强调了 Lucian 对 Orden 尸体的不当处置——这是对 Priest 和整个 Inver 家族的侮辱。
 
-**为什么这样写：** Priest 展示了他的人情味——Electa 在他童年时保护了他，现在他把 Electa 留给他的土地给了 Glora。这不是纯粹的利益交换，而是真实的关怀。
-
----
-
-> **原句 16:** "'I'll accept this on one condition,' she said, with some indefinable emotion heavy in her voice. 'You and Electa and I all have something in common—no direct heirs to leave anything of ours to. When I die, I want the house and lands to revert to you.'"
-
-**中文理解：** "我接受，但有一个条件，"她说，声音里带着某种难以名状的情绪。"你和 Electa 和我都有一个共同点——没有直接继承人来继承我们的任何东西。当我死的时候，我想让房子和土地归还给你。"
-
-**句子结构：** I'll accept this on one condition（接受+条件）+ You and Electa and I all have something in common（共同点）+ When I die...revert to you（遗愿）。
-
-**关键词：** no direct heirs（没有直接继承人——三人共同的悲剧）；revert to you（归还给你——Glora 的附加条件）
-
-**表达方式：** Glora 的条件揭示了她对 Priest 的感情——她把他当作 Electa 一般的存在。
-
-**为什么这样写：** Glora 和 Priest 的关系在这一刻得到了深化——他们都是"没有继承人"的人，这意味着他们都在为一种传承而努力，而不是个人的血脉延续。
+**为什么这样写：** Orden 的尸体被带到 Ariana 的牢房里是 Lucian 最残忍的行为之一——他想让她在精神上被摧毁。这也为后面 Ariana 的坚定埋下了伏笔。
 
 ---
 
-> **原句 17:** "'Then these are unprecedented times,' the Priest said with wry humor, rising to his feet. 'How lucky we are to be living at the cusp of something new and interesting.'"
+> **原句 9:** "The last spark of hope in Ariana guttered and died, leaving nothing in its wake but an endless chasm of darkness. No stars. Only night, bleak and all-consuming."
 
-**中文理解：** "那么这些都是前所未有的时代，"Priest 带着讽刺的幽默说，站起身来。"我们是多么幸运，生活在新事物和新奇事物的风口浪尖上。"
+**中文理解：** Ariana 最后一丝希望的火苗摇曳着熄灭了，身后只留下一片无边的黑暗深渊。没有星星。只有夜晚，荒凉而吞噬一切的夜晚。
 
-**句子结构：** Then these are unprecedented times（判断）+ How lucky we are...（讽刺性感叹）。
+**句子结构：** The last spark of hope...guttered and died（隐喻）+ leaving nothing...but an endless chasm of darkness（结果）+ No stars. Only night（强调）。
 
-**关键词：** unprecedented times（前所未有的时代——Glora 的评价被 Priest 接受）；wry humor（讽刺的幽默——Priest 对荒谬处境的自嘲）
+**关键词：** guttered and died（摇曳着熄灭——希望的破灭）；an endless chasm of darkness（无尽的黑暗深渊——绝望）
 
-**表达方式：** Priest 用讽刺来应对他的新角色——他即将成为摄政王，但他的语气仍然是自嘲的。
+**表达方式：** "No stars. Only night"是 Ariana 世界观的彻底崩溃——Lyria 是星星女神，当她失去所有希望时，她的世界里没有星星了。
 
-**为什么这样写：** 这是 Priest 的标志性时刻——即使在接受巨大的责任时，他仍然保持着自嘲的幽默。这表明他没有失去自我。
+**为什么这样写：** 这是 Ariana 全章最黑暗的时刻——Orden 的尸体被放在她面前，她的希望完全破灭。但正是在这个最低点，她开始找到自己的力量。
 
 ---
 
-> **原句 18:** "And so, the Priest thought as he left Glora's rooms, his unwilling bid for supremacy began. With a wet nurse and a housekeeper as his first allies, and an admission that he would not even claim the crown for himself. A low chuckle escaped the Priest as he walked through the castle, cane sweeping the ground ahead."
+> **原句 10:** "'You chose him in life,' Lucian said. 'Why should you be parted in death?'"
 
-**中文理解：** 于是，Priest 在离开 Glora 的房间时想到，他不情愿的至高权力争夺开始了。第一个盟友是一个乳母和一个管家，而且他甚至不为自己争夺王位。当 Priest 穿过城堡时，一声低沉的笑声从他身上逸出，手杖在前方扫过地面。
+**中文理解：** "你在生前选择了他，"Lucian 说。"为什么你们在死后要分开呢？"
 
-**句子结构：** And so...thought + his unwilling bid for supremacy began（总结）+ With...as his first allies（列举）+ A low chuckle escaped the Priest（反应）。
+**句子结构：** You chose him in life（过去的选择）+ Why should you be parted in death（当前的问题——讽刺）。
 
-**关键词：** his unwilling bid for supremacy（他不情愿的至高权力争夺——Priest 对自己处境的总结）；With a wet nurse and a housekeeper（乳母和管家——Priest 盟友的讽刺性开端）
+**关键词：** You chose him in life（你在生前选择了他——Lucian 的嘲讽）；be parted in death（死后分开——他要把他们合葬）
 
-**表达方式：** "wet nurse and a housekeeper"是 Priest 盟友构成的讽刺性总结——他的第一个盟友是 Glora（管家/厨师）和一个乳母。
+**表达方式：** Lucian 的话看似残忍，但实际上他是在试图让 Ariana 对 Orden 产生负面情绪——他想让她后悔选择了 Orden。
 
-**为什么这样写：** Priest 的笑声揭示了他对自己处境的态度——他知道这一切都是荒谬的，但他正在接受它。这个笑声是他与自己和解的时刻。
+**为什么这样写：** Lucian 把 Orden 的尸体带给 Ariana 不是为了让她们"团聚"，而是为了折磨她。他想让 Orden 的存在成为她的负担，而不是安慰。
+
+---
+
+> **原句 11:** "However she'd worked against Orden and struggled to reconcile who she was with who he wished her to be, whatever he'd done to Corrin during that long-ago battle summer, she'd never wanted him dead."
+
+**中文理解：** 无论她曾经如何与 Orden 对抗、如何努力调和真实的自己与他希望她成为的样子，无论他在那场久远的战斗之夏对 Corrin 做了什么，她从未希望他死。
+
+**句子结构：** However she'd worked against Orden（让步从句）+ whatever he'd done to Corrin（进一步让步）+ she'd never wanted him dead（核心陈述）。
+
+**关键词：** worked against Orden（与 Orden 对抗——Ariana 的复杂立场）；never wanted him dead（从未希望他死——核心真相）
+
+**表达方式：** Ariana 的内心独白揭示了她与 Orden 关系的复杂性——她曾与他对抗，从未完全接受他，但她从未希望他死。
+
+**为什么这样写：** 这是 Ariana 全章最重要的自我声明——尽管他们的婚姻充满复杂，尽管她曾经与他的政策对抗，她仍然爱他。
+
+---
+
+> **原句 12:** "And oh, how she had loved her flawed and foolish king."
+
+**中文理解：** 哦，她是多么爱她这个有缺陷的、愚蠢的国王啊。
+
+**句子结构：** And oh（感叹）+ how she had loved（多么爱）+ her flawed and foolish king（她的有缺陷的、愚蠢的国王——矛盾修饰法）。
+
+**关键词：** flawed and foolish（有缺陷的、愚蠢的——Orden 的人性化描述）；her king（她的国王——Ariana 的身份认同）
+
+**表达方式：** "flawed and foolish"是 Ariana 对 Orden 的矛盾情感——她爱他，但承认他有缺陷。这是成熟爱情的表现。
+
+**为什么这样写：** 这是全章最感人的一句话——尽管 Orden 有种种缺点，尽管他们的婚姻充满挣扎，Ariana 仍然爱他。这是她拒绝 Lucian 和 Gwylen 的基础。
+
+---
+
+### 第三段：Gwylen 的提议
+
+> **原句 13:** "'So. They told me you'd turned king killer.'"
+
+**中文理解：** "所以，他们告诉我你成了弑君者。"（Gwylen 的话，Ariana 沉默以对。）
+
+**句子结构：** So（引入）+ They told me...（传言）+ you'd turned king killer（指控）+ 句号在引号内表示引语结束。
+
+**关键词：** turned king killer（成了弑君者——外界对 Ariana 的看法）；They told me（传言—— Gwylen 对 Ariana 处境的了解）
+
+**表达方式：** "They told me"表明 Gwylen 不是 Inverlyn 的人，她是从外部了解这个情况的。她是 Afon 的使者。
+
+**为什么这样写：** Gwylen 代表 Caervallion 的利益——她不是来折磨 Ariana 的，而是来提供一个"出路"的。这是一个不同类型的威胁。
+
+---
+
+> **原句 14:** "'My king may be dead,' she said fiercely, 'but you can tell yours that I would choose the rack or hot oil or drawing and quartering—any manner of torture—before I betrayed my country and Orden's son.'"
+
+**中文理解：** "我的国王可能已经死了，"她激烈地说，"但你可以告诉你的主人，在背叛我的国家和 Orden 的儿子之前，我宁愿选择拉肢刑架或热油或分尸——任何形式的酷刑。"
+
+**句子结构：** My king may be dead（承认）+ but you can tell yours（拒绝）+ I would choose...before I betrayed（选择）。
+
+**关键词：** I would choose the rack（我宁愿选择拉肢刑架——极端的表述）；before I betrayed my country and Orden's son（在背叛我的国家和 Orden 的儿子之前——她的优先级）
+
+**表达方式：** "any manner of torture"是 Ariana 坚定的声明——她愿意承受任何酷刑，只要不背叛 Honoria 和 Justus。
+
+**为什么这样写：** Ariana 的回答彻底拒绝了 Gwylen 的提议——她不会用婚姻换取安全，即使要面对酷刑和死亡。这是她作为 Lyria 女儿的原则性选择。
+
+---
+
+> **原句 15:** "'I saved her, and you know it. Run back to Afon and tell him what I said.'"
+
+**中文理解：** "我救了她，你知道。跑回去告诉 Afon 我说的话。"
+
+**句子结构：** I saved her（主张）+ and you know it（断言）+ Run back to Afon（命令）。
+
+**关键词：** I saved her（我救了她——Ariana 对 Ellimere 的保护）；Run back to Afon（回去——对 Gwylen 的拒绝）
+
+**表达方式：** Ariana 的"Run back to Afon"是对 Gwylen 最后的使用——她不是来谈判的，而是来传递信息的。
+
+**为什么这样写：** Ariana 用"Run back to Afon"来结束与 Gwylen 的对话——她已经做出了选择，不需要更多的争论。
+
+---
+
+> **原句 16:** "'I have an offer of my own,' Gwylen said. 'Accept Afon's proposal. Come to Caervallion. And accomplish what you did here in Honoria. The people there chafe under Afon's rule worse than anyone ever did beneath Orden Inver. Come and kill our king for us, and live.'"
+
+**中文理解：** "我有一个我自己的提议，"Gwylen 说。"接受 Afon 的提议。来 Caervallion。完成你在这里 Honoria 所做的事。那里的人在 Afon 的统治下比在任何 Orden Inver 手下都更受煎熬。来杀了我们的国王，然后活着。"
+
+**句子结构：** I have an offer of my own（提议）+ Accept Afon's proposal（条件一）+ Come to Caervallion（条件二）+ And accomplish what you did here（任务）+ Come and kill our king（核心请求）+ and live（结果）。
+
+**关键词：** accomplish what you did here（在 Honoria 完成你所做的——杀死 Afon）；Come and kill our king（来杀了我们的国王——Caervallion 想要的）
+
+**表达方式：** Gwylen 的提议是精心设计的——她知道 Ariana 杀死了 Orden，所以她认为 Ariana 可以为 Caervallion 做同样的事。
+
+**为什么这样写：** Gwylen 的提议揭示了 Caervallion 政治的黑暗——他们想要 Ariana 成为刺客，像她在 Honoria 那样杀死 Afon。但她拒绝了。
+
+---
+
+> **原句 17:** "'I chose to live here, at Orden's side, and I choose to die here as well. Let them make a sacrifice of me.'"
+
+**中文理解：** "我选择住在这里，在 Orden 身边，我也选择死在这里。让他们把我当作祭品吧。"
+
+**句子结构：** I chose to live here（过去的选择）+ and I choose to die here as well（现在的选择）+ Let them make a sacrifice of me（请求）。
+
+**关键词：** I chose to live here（我选择住在这里——Ariana 对 Honoria 的认同）；Let them make a sacrifice of me（让他们把我当作祭品——她的殉道意愿）
+
+**表达方式：** Ariana 的话是全章的高潮——她选择了与 Orden 一起死，而不是背叛他。这是她作为 Lyria 女儿的最纯粹的选择。
+
+**为什么这样写：** 这是 Ariana 全章最重要的声明——她选择死在自己的土地上，而不是成为另一个国家的刺客。她宁愿死作为 Honoria 的殉道者，也不活着作为 Caervallion 的工具。
 
 ---
 
@@ -279,33 +268,32 @@ modified: "2026-09-21"
 
 ### ⭐⭐⭐ 高级
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| upstart | 暴发户；骤发户 | "You upstart bastard," Glora said. |
-| chatelaine | 女管家；城堡主妇 | Glora was the chatelaine of Inverlyn castle. |
-| pasturage | 牧场；畜牧 | The land included a mixed timber lot and pasturage. |
-| sacrilegious | 亵渎神明的 | "That would be your way—you must get your fill of blood down in the sanctuary, if it's not sacrilegious to say so." |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| fathomless | /ˈfæðəmləs/ | 深不可测的 | She trained her fathomless dark gaze on Lucian, and even now, with her behind bars and him holding the castle hostage, he could not withstand the mild look of one of Lyria's daughters. |
+| guttered | /ˈɡʌtəd/ | （火光）摇曳将熄 | The last spark of hope in Ariana guttered and died, leaving nothing in its wake but an endless chasm of darkness. |
+| chasm | /ˈkæzəm/ | 深渊；裂隙 | …leaving nothing in its wake but an endless chasm of darkness. |
+| apostasy | /əˈpɒstəsi/ | 叛教；背弃信仰 | Blessed Lyria, overlook my apostasy. Grant me this one miracle, even if afterward you never think of me again. |
 
 ### ⭐⭐ 进阶
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| behest | 命令；要求 | "I will confess to having aided Ariana in murdering Orden, at Dolenza's behest." |
-| gauntlet | 严酷考验 | The Priest had survived many gauntlets in his life. |
-| sunder | 分离；分裂 | Their alliance seemed to sunder under the pressure. |
-| discretion | 判断力；谨慎 | Dolenza gave me complete discretion to speak for her. |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| regicide | /ˈredʒɪsaɪd/ | 弑君（罪） | She'd known she needed to act, to ensure Fia was not declared guilty of regicide… |
+| soria | /ˈsɔːriə/ | 星辰姐妹（Lyria 教团的修女） | …the care and keeping of a treasonous queen who was once a soria. |
+| companionably | /kəmˈpænjənəbli/ | 友善地；亲昵地 | At first I was at a loss, he said companionably, as to how I should manage you. |
+| sadistic | /səˈdɪstɪk/ | 虐待狂的 | …Lucian might appear with whatever arcane and sadistic devices he used to torment political dissidents or treacherous nobles or Vesperin prisoners of war. |
 
 ### ⭐ 基础
 
-| 词汇 | 词义 | 例句 |
-|------|------|------|
-| throne | 王位 | "Let us begin the work of claiming Honoria's throne." |
-| bid | 争取；企图 | "You mean to make your own bid for the throne." |
-| realm | 王国；领域 | The Priest had no desire to rule the realm. |
-| claim | 要求；声称 | He wanted to claim the birthright for Justus. |
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| prisoner | /ˈprɪzənə/ | 囚犯 | …because sorias took no prisoners. |
+| betray | /bɪˈtreɪ/ | 背叛 | …before I betrayed my country and Orden's son. |
+| gloom | /ɡluːm/ | 昏暗；阴郁 | So she sat in the gloom of a stone cell and tried to count her breaths. |
+| cell | /sel/ | 牢房；单人室 | …seated on the dank stone floor of a cell the Invers had carved out themselves. |
 
----
 
 ## 一句话总结
 
-Priest 正式开启了他不情愿的王位争夺——与 Glora 达成土地换忠诚的交易，用一个乳母和一个管家作为最初的盟友，以一声低笑和自嘲的幽默接受了他作为"摄政王"的新身份。
+Ariana 在绝望中拒绝了所有背叛的选择——无论是 Afon 的婚姻提议还是 Caervallion 的刺客合同，她选择与 Orden 一起死在 Honoria，作为 Lyria 女儿的最后一战。
