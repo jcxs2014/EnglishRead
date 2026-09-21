@@ -30,13 +30,13 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 2:** "Once, Bataar had thought a war camp was no place for children. He'd been a child himself then, leading battles. But war makes orphans, so pale Aglean children followed their caravan like lost dogs. Bataar could shoo them away, or clothe and feed them."
+> **原句 2:** "Once, Bataar had thought a war camp was no place for children. He'd been a child himself then, leading battles. But war made orphans, so pale Aglean children followed their caravan like lost dogs. Bataar could shoo them away, or clothe and feed them."
 
 **中文理解**："曾经，Bataar 认为战场营地不是孩子该待的地方。那时候他自己也是个孩子，却在打仗。但战争制造孤儿，所以苍白的 Aglean 孩子们像流浪狗一样跟着他的队伍。Bataar 可以把他们赶走，也可以给他们衣服和食物。"
 
-**关键词**：war makes orphans、pale Aglean children、clothe and feed them
+**关键词**：war made orphans、pale Aglean children、clothe and feed them
 
-**为什么这样写**：这段是 Bataar 内心少见的柔软时刻——他自己童年时就在打仗，所以他对"战争与儿童"的矛盾有第一手理解。"war makes orphans"是全书写得最简洁有力的句子之一，它把战争的结果（孤儿）作为论据，说明 Bataar 对战争后果的认知。但"shy or clothe and feed them"也揭示了他作为征服者的困境：他可以减轻痛苦，但他无法消除制造痛苦的制度。
+**为什么这样写**：这段是 Bataar 内心少见的柔软时刻——他自己童年时就在打仗，所以他对"战争与儿童"的矛盾有第一手理解。"war made orphans"是全书写得最简洁有力的句子之一，它把战争的结果（孤儿）作为论据，说明 Bataar 对战争后果的认知。但"shy or clothe and feed them"也揭示了他作为征服者的困境：他可以减轻痛苦，但他无法消除制造痛苦的制度。
 
 ---
 
@@ -112,7 +112,7 @@ modified: "2026-09-21"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| child | 孩子 | War makes orphans, so children followed the caravan. |
+| child | 孩子 | War made orphans, so children followed the caravan. |
 | fire | 火 | She burned like a pyre, perfumed with sex and steel. |
 | snow | 雪 | Snow fizzes against the outdoor cookfires. |
 | night | 夜晚 | The air was hard to breathe, burning Bataar's nose. |
