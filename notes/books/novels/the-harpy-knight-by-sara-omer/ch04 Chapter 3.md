@@ -69,15 +69,13 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "She'd spent a year sharing space in the command tent with Bataar and the people closest to him, and yet she still felt ambushed."
+> **原句 5:** "Bataar's eyes landed on Nohra, and he went rigid. His voice came out raw, rasping. 'Are you ready?'"
 
-**中文理解**：她在指挥帐中与 Bataar 以及他最亲近的人共处了一年，然而她仍感到被暗算。
+**中文理解**：Bataar 的目光落在 Nohra 身上，他僵住了。他的声音沙哑而粗糙地挤出来。"你准备好了吗？"
 
-**关键词**：felt ambushed、true allies were scattered
+**关键词**：went rigid、voice came out raw、Are you ready
 
-**为什么这样写**："felt ambushed"是 Bataar 反复出现的特质——他总是在最意想不到的时刻出现，打断私密时刻。这句话同时揭示 Nohra 的真实处境：她不是自愿留在这里的，她是被困在这里的。"true allies were scattered"为后面"她的盟友都在远方"埋下伏笔，她实际上孤立无援。
-
-**读者视角提示**：注意 Bataar 的每次出场都是"打断"——打断 Qaira 与 Nohra 的亲密，打断 Nohra 的思绪。他是权力的入侵者，渗透进她生活的每个缝隙。
+**为什么这样写**：婚礼之日 Bataar 的出场是命令式的——他不问"你想怎样"，他问"你准备好了吗"。"went rigid"说明他看到 Nohra 的那一刻也有反应，只是他的反应是僵住而非柔软。这个问题本身就是权力的展示：他已经选择了，她只需要服从。
 
 ---
 
