@@ -70,29 +70,32 @@ modified: "2026-09-21"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| fratria | /ˈfrætriə/ | 姐妹社团（Lyria 修道院的男性成员） | Raea's fratrias were put to the sword |
+| fratria | /ˈfrætriə/ | 姐妹社团（Lyria 修道院的男性成员） | The queen has made mention of fratrias at Lyria’s cloister—they’re a rarity, from what I gathered, but they still exist. |
 | spartan | /ˈspɑːtən/ | 斯巴达式的；简朴的 | the sorias were spartan in their comforts |
-| wary | /ˈweəri/ | 谨慎的；警惕的 | the quiet wariness at his core |
-| bemused | /bɪˈmjuːzd/ | 困惑的；茫然的 | Lucian wore a bemused look |
+| impenetrable | /ɪmˈpenɪtrəbl/ | 无法穿透的 | “I haven’t been in Raea’s great cloister nearly long enough to have made up my mind,” he answered Orden with impenetrable reserve. |
+| relentless | /rɪˈlentləs/ | 毫不退让的；执拗的 | “Secondly,” the Matria went on, relentless in her demands, “the Inver coffers are strained near to breaking by their various conflicts. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| allure | /əˈlʊə/ | 诱惑；魅力 | The allure of what still lies unconquered |
+| practicality | /ˌpræktɪˈkæləti/ | 务实；实际 | It wasn’t so much a matter of independence but of practicality—life had taught the Priest to be deeply distrustful, and what was done by his own hands could not easily be used as a tool to harm him. |
 | alliance | /əˈlaɪəns/ | 联盟；同盟 | a new alliance between your castle and my cloister |
-| ageless | /ˈeɪdʒləs/ | 不老的；永恒的 | Dolenza's ageless, unreadable face |
-| midafternoon | /ˌmɪdˌɑːftəˈnuːn/ | 下午三点左右 | at midafternoon the refectory was empty |
-| disorient | /dɪsˈɔːriənt/ | 使迷失；使不知所措 | his annoyance grew acute |
+| refectory | /rɪˈfektəri/ | 食堂；餐厅 | “One and an R for the refectory, two and a G for the gardens, three for the laundry, four for the chapel, and five for the sea path. |
+| midafternoon | /ˌmɪdˌɑːftəˈnuːn/ | 下午三点左右 | A few low voices murmured, scattered across the refectory, but it seemed predominantly empty at midafternoon. |
+| disorient | /dɪsˈɔːriənt/ | 使迷失；使不知所措 | Confusion added to his disorientation, and the Priest’s annoyance grew acute. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | mule | /mjuːl/ | 骡子 | astride her mule |
-| corridor | /ˈkɒrɪdɔː/ | 走廊 | through the corridors of the cloister |
+| corridor | /ˈkɒrɪdɔː/ | 走廊 | Aurelia led him through a warren of corridors and courtyards, peopled with chatting sorias and laughing children. |
 | bellpull | /ˈbelˌpʊl/ | 铃铛拉绳 | there is a bellpull here |
-| absently | /ˈæbsəntli/ | 心不在焉地 | she answered absently |
+| harmless | /ˈhɑːmləs/ | 无害的 | We honor them by leaving their places unfilled, and strive to demonstrate our harmlessness to the Invers by keeping our order strictly female.”
+
+
+“Does that indeed render you harmless?” the Priest asked pointedly. |
 | sigh | /saɪ/ | 叹息 | Aurelia fell silent for a moment |
 
 ## 一句话总结

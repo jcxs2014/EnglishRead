@@ -73,7 +73,7 @@ modified: "2026-09-21"
 | fathomless | /ˈfæðəmləs/ | 深不可测的，无底的 | A deep, fathomless part of her took over when she was dogged by fear. |
 | egress | /ˈiːɡres/ | 出口，外出 | It had its egress in the queen's chambers. |
 | lookout | /ˈlʊkaʊt/ | 观景台，守卫处 | She stepped onto the windy lookout. |
-| undress | /ʌnˈdres/ | 脱衣服；使暴露 | Ignoring the stares at her state of undress. |
+| undress | /ʌnˈdres/ | 脱衣服；使暴露 | Ari found her way to the banquet hall, pointedly ignoring the stares and whispers from courtiers who found her state of undress amusing. |
 | slouch | /slaʊtʃ/ | 懒散地坐/站 | The king slouched in his chair, staring unseeingly at his cup. |
 
 ### ⭐⭐ 进阶
@@ -81,20 +81,20 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | mewling | /ˈmjuːlɪŋ/ | 婴儿的啜泣声 | The infant prince made a mewling sound. |
-| jutting | /ˈdʒʌtɪŋ/ | 突出的，伸出的 | A secret stair jutted from the face of the mountain. |
-| trepid | /ˈtrepɪd/ | 惊恐的，恐惧的 | The trepid queen made her way to the banquet hall. |
+| jutted | /ˈdʒʌtɪŋ/ | 突出的，伸出的 | One of Orden’s long study windows could be used as a doorway to an outlook, just large enough for two, which jutted from the face of the mountain. |
+| bassinet | /ˌbæsɪˈnet/ | 婴儿摇篮 | She went directly to the fireside, laying the sleeping prince in his bassinet beside it and then washing herself in a basin as best she could, before putting on a fresh pair of padded linen breeches. |
 | implacability | /ɪmˌplækəˈbɪləti/ | 铁石心肠；无法平息 | There was a hardness, an implacability in Serafine now, which Ariana had never seen in her before. |
-| slouch | /slaʊtʃ/ | 垂头丧气 | He slouched in his chair. |
+| alliance | /əˈlaɪəns/ | 联盟；同盟 | Gileta would be told of it, and steel her resolve to cut off the alliance and trade Honoria so badly needed. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| stumble | /ˈstʌmbəl/ | 绊倒；跌跌撞撞 | She stumbled down the secret stair. |
+| despise | /dɪˈspaɪz/ | 鄙视 | I have kept peace on the Hand, but I despise myself for it. |
 | glow | /ɡləʊ/ | 发光；发热 | A wealth of hot coals still glowed on the hearth. |
-| tremble | /ˈtrembəl/ | 发抖，颤抖 | She shivered as she stepped onto the lookout. |
+| forgive | /fəˈɡɪv/ | 原谅 | Lyria would not forgive her the means, but Ariana must strive all the harder to ensure her apostasy was in service of a sacred end. |
 | cling | /klɪŋ/ | 紧紧抓住 | She clung to the little prince tightly. |
-| sink | /sɪŋk/ | 下沉；跌坐 | She crossed the banquet hall and sank to her knees. |
+| basket | /ˈbɑːskɪt/ | 篮子 | Ariana settled herself by the hearth with her son and stirred up the coals, adding wood from the basket nearby. |
 
 ## 一句话总结
 

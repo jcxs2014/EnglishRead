@@ -119,7 +119,7 @@ source_text: ch03
 | Cavern | n | 洞穴、洞窟 | The dark cavern at the heart of his people's mountain stronghold. |
 | Brazier | n | 金属火盆 | Blood-slicked embers resting in Mortis's iron brazier. |
 | Nebulous | adj | 模糊的、朦胧的 | He preferred to be nebulous in his pronouncements. |
-| Chatelaine | n | 女管家、主妇 | Glora, the Invers' chatelaine, had noticed Ariana wince. |
+| paschalflower | /ˈpæʃkəlˌflaʊə/ | （虚构草药名） | Hissing sounds followed as Hadrian scattered shard incense over the flames, a potent blend of phelamon spice, helliath, and paschalflower. |
 
 ### ⭐⭐ 进阶
 

@@ -125,7 +125,7 @@ source_text: ch06
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | Plumb | v | 探索、测量深度 | He knew she withheld, refusing to let him plumb. |
-| Wary | adj | 谨慎的、小心的 | 未出现 |
+| temperate | /ˈtempərət/ | 温和克制的 | In the past, Corrin’s representatives had been more like the daughters of stars—temperate, peaceable, meek. |
 | Plumb | v | 探索、测量 | He knew she withheld, refusing to let him plumb. |
 
 ### ⭐ 基础

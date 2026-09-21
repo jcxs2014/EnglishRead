@@ -71,10 +71,10 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | placid | /ˈplæsɪd/ | 平静的，温和的 | Even her placid mule switched its tail in annoyance. |
-| subterfuge | /ˈsʌbstəfjuːdʒ/ | 托词，掩饰 | wisdom so often comes cloaked in darkness and subterfuge |
-| gnats | /næts/ | 螟蚋，小飞虫 | The pine forests were cloudy with gnats and midges. |
+| subterfuge | /ˈsʌbstəfjuːdʒ/ | 托词，掩饰 | Hers is the realm of death and judgment and subterfuge; hers is the province of questions without answers, of sins rendered necessary by circumstance. |
+| gnats | /næts/ | 螟蚋，小飞虫 | The pine forests in the outlying foothills were cloudy with gnats and midges and hungry flies, which were having their fill of the short-tempered postulant. |
 | gaunt | /ɡɔːnt/ | 瘦削的，荒凉的 | A ragtag group of gaunt and hollow-eyed Corrinians |
-| pilgrim | /ˈpɪlɡrɪm/ | 朝圣者，香客 | Fia could pass for a pilgrim on her way to Raeā's cloister. |
+| pilgrim | /ˈpɪlɡrɪm/ | 朝圣者，香客 | She could at least pass for a pilgrim on her way to Raea’s cloister now, rather than one of Dolenza’s women. |
 
 ### ⭐⭐ 进阶
 
@@ -83,18 +83,18 @@ modified: "2026-09-21"
 | roiled | /rɔɪld/ | 翻涌，搅动 | Guilt roiled in her stomach. |
 | makeshift | /ˈmeɪkʃɪft/ | 临时凑合的 | Most of the group was sleeping fitfully in makeshift tents. |
 | headrail | /ˈhedreɪl/ | 头巾，头纱 | The woman removed her headrail. |
-| fray | /freɪ/ | 磨损；争吵 | Her nerves jangled at the prospect of what was to come. |
-| dismount | /dɪsˈmaʊnt/ | 下马，下车 | Fia watched the ambassador dismount and duck into the inn. |
+| encampment | /ɪnˈkæmpmənt/ | 营地；营寨 | Before Fia could leave the Corrinian encampment, though, something about the lone traveler on the road caught her eye. |
+| dismount | /dɪsˈmaʊnt/ | 下马，下车 | Suspicion pricked at Fia as she stood behind the shield of her sturdy mule and watched the ambassador dismount and duck into the roadside inn. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | lame | /leɪm/ | 跛的 | The creature had grown inexplicably lame in one hind leg. |
-| switch | /swɪtʃ/ | 甩动 | The mule switched its tail in annoyance. |
+| switch | /swɪtʃ/ | 甩动 | Even her placid mule switched its tail in annoyance, occasionally tossing its dun head. |
 | fork | /fɔːk/ | 分岔路口 | At a fork in the road, Fia found an inn. |
-| trader | /ˈtreɪdə(r)/ | 商人 | A lone trader mounted and headed for the inn. |
-| purse | /pɜːs/ | 钱包 | She shook out her coin purse for emphasis. |
+| harmony | /ˈhɑːməni/ | 和谐；和声 | The webs between people, their connections and intentions and passions, all seemed like strings to Fia, to be plucked at will, resulting in harmony or discord depending on the ability of their player. |
+| purse | /pɜːs/ | 钱包 | “I’ll give you another three pennies to watch my mule while I’m across the way, but that’s really all I’ve got,” Fia said, shaking out her coin purse for emphasis. |
 
 ## 一句话总结
 

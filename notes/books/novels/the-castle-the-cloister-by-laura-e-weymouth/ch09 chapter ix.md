@@ -72,29 +72,41 @@ modified: "2026-09-21"
 |------|------|------|------|
 | incense | /ˈɪnsens/ | 香；焚香 | adding fresh shards of incense to the brazier |
 | lament | /ləˈment/ | 挽歌，悲歌 | a wordless, undulating lament |
-| shroud | /ʃraʊd/ | 裹尸布；覆盖 | shrouded in the darkness of the sanctuary |
-| dissent | /dɪˈsent/ | 异议，不一致 | the dissent between Ariana and her faith |
-| brazier | /ˈbreɪʒə(r)/ | 火盆，香炉 | the hearth goddess's brazier |
+| petitioner | /pəˈtɪʃənəz/ | 请愿者；陈情者 | Rather than the blood of a petitioner, they require the blood of their Priest, shed by the one who wishes their favor. |
+| facsimile | /fəkˈsɪməli/ | 摹本；赝品 | Though Caervallion would turn our goddess into no more than a facsimile of your heathen Tyrus, with his lust for battle and death. |
+| brazier | /ˈbreɪʒə(r)/ | 火盆，香炉 | She was rustling about behind the hearth goddess’s altar, adding fresh shards of incense to the brazier and a few drops of lavender oil. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| dissuade | /dɪˈsweɪd/ | 劝阻，说服 | I dissuaded her from killing the assassin |
+| dissuade | /dɪˈsweɪd/ | 劝阻，说服 | “I dissuaded her,” the queen said. |
 | garotte | /ɡəˈrɒt/ | 勒杀，绞杀 | one of Gileta's women got in with a silk garotte |
-| supplication | /ˌsʌplɪˈkeɪʃən/ | 恳求，祈求 | a prayer of supplication |
-| martyrdom | /ˈmɑːtədəm/ | 殉道，牺牲 | martyrdom in the cause of peace |
-| cruelty | /ˈkruːəlti/ | 残忍，残酷 | the cruelty of kings |
+| offertory | /ˈɒfətəri/ | 献祭的、奉献的 | “I may be willing to bleed for your petition, but I’m not fool enough to put myself entirely in your hands.”
+
+
+With a small singing of steel on steel, Afon took up the offertory knife from Tyrus’s altar. |
+| apostate | /ˈæpəsteɪt/ | 叛教者；背教者 | Gileta may like me a little, now and then, but everyone on the Hand believes I’m a wretched apostate, capable of anything.”
+
+
+The Priest waited. |
+| keening | /ˈkiːnɪŋ/ | 哀号；挽歌般的恸哭 | The sound of their mourning grew richer and fuller until at last, piercing the upper reaches of the cavernous dark, a high, keening melody soared above them all, sung in crystalline tones. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | shiver | /ˈʃɪvə(r)/ | 颤抖 | She was shivering violently |
-| clutch | /klʌtʃ/ | 抓紧 | clutching the infant prince |
-| grieve | /ɡriːv/ | 悲伤，哀悼 | He did not grieve for Ataxis |
-| tumble | /ˈtʌmbəl/ | 摔倒；跌落 | She tumbled forward to intervene |
-| tremble | /ˈtrembəl/ | 发抖，颤抖 | Ariana began to tremble at the sanctuary's cold |
+| whisper | /ˈwɪspər/ | 低语 | The Priest heard a whisper of fabric, and then the prince feeding. |
+| murmur | /ˈmɜːmə(r)/ | 低声说，低语 | It was always so when she came down to his sanctuary—at her request, he remained nearby, but occupied, so that they might murmur their secrets while appearing to do no more than pray. |
+| corpse | /kɔːps/ | 尸体 | “What could we make of you, Silas, were you more than a Priest?”
+
+
+“A corpse,” the Priest said bluntly. |
+| mother | /ˈmʌðə/ | 母亲 | Enjoying his mother’s love, and her protection from the dangerous games of court?”
+
+
+The Priest bridled. |
 
 ## 一句话总结
 

@@ -121,9 +121,12 @@ source_text: ch07
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | Livid | adj | 愤怒的、铅色的 | 未出现 |
-| Bolster | v | 支持、增强 | 未出现 |
-| Relentless | adj | 残忍的、无情的 | The queen's relentless in her own way. |
-| Chafe | v | 摩擦、激怒 | Caervallion chafed under his rule. |
+| fervently | /ˈfɜːvəntli/ | 热情地 | Do not make a sound, he thought fervently at Ellimere, who was half-hidden in the encroaching gloom. |
+| undermine | /ˌʌndəˈmaɪn/ | 暗中破坏 | If Orden was to discover it, it would undermine every ounce of trust he’d ever had in Ariana. |
+| alliance | /əˈlaɪəns/ | 联盟；同盟 | She’s not been in Inverlyn three hours and already threatened to break her alliance with Honoria and support Caervallion instead.”
+
+
+The Priest frowned. |
 
 ### ⭐ 基础
 

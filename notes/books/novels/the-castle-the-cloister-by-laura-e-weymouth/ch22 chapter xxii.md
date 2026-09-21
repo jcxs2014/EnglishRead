@@ -270,7 +270,10 @@ modified: "2026-09-21"
 | hubris | /ˈhjuːbrɪs/ | 傲慢、狂妄 | …it was hubris for the spymaster to think he might do so now… |
 | nefarious | /nɪˈfeəriəs/ | 邪恶的 | …never allowed himself to fall under Lucian's nefarious sway… |
 | revolting | /rɪˈvəʊltɪŋ/ | 令人厌恶的 | Everything within the Priest was revolting. |
-| respite | /ˈrespaɪt/ | 休息、暂缓 | — |
+| enticement | /ɪnˈtaɪsmənt/ | 诱惑、诱饵 | And I have something to offer as an enticement, which I don’t think you’ll be able to refuse.”
+
+
+“Try me,” the Priest said. |
 
 ### ⭐⭐ 进阶
 
@@ -279,18 +282,18 @@ modified: "2026-09-21"
 | jangle | /ˈdʒæŋɡl/ | 发出金属撞击声 | …the internal sense that warned him of danger to jangle. |
 | spymaster | /ˈspaɪmɑːstər/ | 间谍头子 | …the spymaster was saying. |
 | magistrate | /ˈmædʒɪstreɪt/ | 法官、地方行政官 | …Magistrate's orders. |
-| gauntlet | /ˈɡɔːntlət/ | 交叉冲突 | — |
-| catch | /kætʃ/ | 隐情、陷阱 | — |
+| storeroom | /ˈstɔːruːm/ | 储藏室 | Dungeon for the queen, confinement to a storeroom for the nurse. |
+| undermine | /ˌʌndəˈmaɪn/ | 暗中破坏 | “If the opportunity to undermine you arises, I will take it without a second thought. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | corpse | /kɔːps/ | 尸体 | …the corpse was barely recognizable. |
-| bargain | /ˈbɑːɡɪn/ | 交易 | …the bargain the Priest offered. |
+| vanish | /ˈvænɪʃ/ | 消失 | Better to vanish and return when the dust from whatever this was had settled. |
 | betray | /bɪˈtreɪ/ | 背叛 | If the chance to kill you for my own advancement comes… |
 | cell | /sel/ | 小房间、牢房 | Take him to my cell. |
-| cousin | /ˈkʌzən/ | 堂/表兄弟姐妹 | — |
+| barely | /ˈbeəli/ | 几乎不 | Should’ve listened to Darias and taken the eldest’s part, but when Orden beat his father till the corpse was barely recognizable, well. |
 
 ## 一句话总结
 

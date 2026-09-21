@@ -339,7 +339,7 @@ modified: "2026-09-21"
 | consecrated | /ˈkɒnsɪkreɪtɪd/ | 被奉献的、神圣化的 | Ariana Inver had been consecrated to the goddess of stars the moment she slipped into the world. |
 | enticement | /ɪnˈtaɪsmənt/ | 诱惑、诱饵 | …his offer an enticement. |
 | abject | /ˈæbdʒekt/ | 绝望的、可怜的 | …the abject despair she felt. |
-| reconciled | /ˈrekənsaɪld/ | 调和、和解 | — |
+| reconcile | /ˈrekənsaɪld/ | 调和、和解 | — |
 | surreptitiously | /ˌsʌrəpˈtɪʃəsli/ | 偷偷地；暗中地 | But for Orden's sake, she wiped surreptitiously at her face and attempted to smile. |
 
 ### ⭐⭐ 进阶
@@ -348,8 +348,11 @@ modified: "2026-09-21"
 |------|------|------|------|
 | dispiritedly | /dɪˈspɪrɪtɪdli/ | 沮丧地 | "A travel hymn," Ariana said dispiritedly. |
 | patting | /ˈpætɪŋ/ | 轻拍 | …patting the baby until he soothed. |
-| fervently | /ˈfɜːvəntli/ | 热情地 | — |
-| undermine | /ˌʌndəˈmaɪn/ | 暗中破坏 | — |
+| vehemently | /ˈviːəməntli/ | 激烈地，强烈地 | It’s a generous idea, Orden, but impossible.”
+
+
+“I am king,” he said vehemently, leaning forward. |
+| fidelity | /fɪˈdeləti/ | 忠诚；忠贞 | There seems to be some reluctance on Dolenza’s part, to hear her fidelity oath. |
 
 ### ⭐ 基础
 

@@ -297,7 +297,7 @@ modified: "2026-09-21"
 | regency | /ˈriːdʒənsi/ | 摄政（期） | There's never been an Inver regency. |
 | discretion | /dɪˈskreʃən/ | 自行决定权 | …she gave me complete discretion to speak for her. |
 | paltry | /ˈpɔːltri/ | 可怜的、微不足道的 | …a paltry decade on the throne. |
-| reversion | /rɪˈvɜːʃən/ | 归还、归属 | — |
+| fatalistic | /ˌfeɪtəˈlɪstɪk/ | 宿命论的；听天由命的 | Anxiety did not prick him at the prospect of pitting himself against Lucian, only a fatalistic sense that what would be, would be. |
 
 ### ⭐⭐ 进阶
 
@@ -306,16 +306,19 @@ modified: "2026-09-21"
 | threshold | /ˈθreʃhəʊld/ | 门槛、起点 | …standing on the threshold to her private apartment… |
 | upstart | /ˈʌpstɑːt/ | 暴发户 | You upstart bastard. |
 | pasturage | /ˈpæstʃərɪdʒ/ | 牧场 | …mixed timber lot and pasturage… |
-| indifferent | /ɪnˈdɪfərənt/ | 漠不关心的 | — |
+| magistrate | /ˈmædʒɪstreɪt/ | 法官、地方行政官 | He’s devoted to Kidrien, more so than Tyrus—trade and merchantry is his preferred avenue of conquest.”
+
+
+“Given his taste for prosperity by any means, would Hadrian be amenable to a position as court magistrate? |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| trust | /trʌst/ | 信任 | …she'd hoped would be fine. |
+| honest | /ˈɒnɪst/ | 诚实的 | And you, if you’re honest—how long do you think you’d last? |
 | debt | /det/ | 债务 | …the debt I owe you. |
 | heir | /eər/ | 继承人 | …no direct heirs to leave anything of ours to. |
-| admit | /ədˈmɪt/ | 承认 | — |
+| ghost | /ɡəʊst/ | 鬼 | I will make myself into a ghost, and rather than be chained to a sanctuary, I will shackle my soul to you. |
 
 ## 一句话总结
 

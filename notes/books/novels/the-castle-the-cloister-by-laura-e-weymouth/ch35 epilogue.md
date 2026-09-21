@@ -233,7 +233,7 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | light | /laɪt/ | 光 | Everywhere, there was light. |
-| wind | /wɪnd/ | 风 | …he tried to remember the feeling of being shattered and lying with no cares in the wind and light… |
+| wind | /wɪnd/ | 风 | Even as a thousand pieces, he could still comprehend that, as well as a tiny part of the wind and light that moved over him. |
 | stone | /stəʊn/ | 石头 | The stone of a cavern ceiling hung low overhead… |
 | body | /ˈbɒdi/ | 身体 | He'd not had a body to experience such things a moment ago. He had been only spirit. |
 

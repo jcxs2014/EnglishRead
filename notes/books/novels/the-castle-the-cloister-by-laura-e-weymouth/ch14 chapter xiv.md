@@ -71,7 +71,7 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | unquenchable | /ʌnˈkwentʃəbl/ | 无法熄灭的；压不住的 | And he brings with him light unquenchable, kindled by our own hands. |
-| bruised | /bruːzd/ | 瘀伤的 | a great blue bruise blossoming around Fia's arm. |
+| bruise | /bruːzd/ | 瘀伤的 | It had taken Fia some time to pierce Ariana’s arm in what she claimed was the proper manner, and a great blue bruise was already blossoming around Fia’s many failed attempts. |
 | mercilessness | /ˈmɜːsɪləsnəs/ | 冷酷无情 | The unlit mercilessness of a pagan land, where all depended on the vagaries of false goddesses for light. |
 | counterpoint | /ˈkaʊntəpɔɪnt/ | 对位；对照 | On and on the drums went, and Ariana realized the counterpoint to them she heard was Fia, kneeling beside the prisoner and whispering the Raean canticle for the dying in his ear. |
 | bloodstained | /ˈblʌdsteɪnd/ | 沾满血迹的 | Fia stepped forward with the child in her arms, her own bloodstained hands hidden beneath his gold-threaded blankets, the two women flanking the altar of the god of war. |
@@ -81,17 +81,17 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | salve | /sælv/ | 药膏；油膏 | a strange, herbal-smelling salve |
-| scathing | /ˈskeɪðɪŋ/ | 尖刻的，刻薄的 | Fia's scathing reply |
+| assent | /əˈsent/ | 赞同；同意 | She watched as a few terse words passed between him and his brother, the Priest finally bowing his head in assent. |
 | contradiction | /ˌkɒntrəˈdɪkʃn/ | 矛盾；对立面 | Standing before a long mirror near her wardrobe, Ariana felt more a contradiction than ever. |
 | commissioned | /kəˈmɪʃnd/ | 委托定制 | Ariana knew how she must look—she'd commissioned the gown herself after it seemed the pregnancy would take. |
-| solace | /ˈsɒləs/ | 安慰；慰藉 | finding solace in Fia's presence |
+| apostate | /ˈæpəsteɪt/ | 叛教者；背教者 | Some dedication to these gods to which Ariana could never be reconciled, because Lyrien apostate though she was, the Inver faith remained an abomination to her. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | pierce | /pɪəs/ | 刺穿；穿透 | pierce Ariana's arm |
-| bandage | /ˈbændɪdʒ/ | 用绷带包扎 | Bandaging them both neatly. |
+| purpose | /ˈpɜːpəs/ | 意图、目的 | She would be shamed before Orden, before the court, and remain cut off from her goddess despite serving no purpose any longer. |
 | braid | /breɪd/ | 编辫子 | a crown of braids with gold ribbon |
 | lace | /leɪs/ | 穿线；绑带 | Fia laced the bodice. |
 | crimson | /ˈkrɪmzən/ | 深红色 | the rich, indulgent crimson and gold |

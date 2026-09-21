@@ -74,27 +74,27 @@ modified: "2026-09-21"
 | cipher | /ˈsaɪfə(r)/ | 密码，密语 | It was a reminder, and an admonition, spoken in the form of a cipher. |
 | fraying | /ˈfreɪɪŋ/ | 磨损，瓦解 | the fraying threads of her attention |
 | wraith | /reɪθ/ | 幽灵，幻影 | she felt like a wraith, a shadow that haunted the castle's halls |
-| surreptitiously | /ˌsʌrəpˈtɪʃəsli/ | 暗中地，秘密地 | The Priest had surreptitiously given her the nightglass. |
+| surreptitiously | /ˌsʌrəpˈtɪʃəsli/ | 暗中地，秘密地 | Suppressing a shiver, Ariana felt under her pillow for the pendant the Priest had surreptitiously given her. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | admonition | /ˌædməˈnɪʃən/ | 警告，告诫 | It was a reminder, and an admonition, spoken in the form of a cipher. |
-| intoned | /ɪnˈtəʊnd/ | 吟诵，吟唱 | the queen began to intone a prayer |
-| shrewdness | /ˈʃruːdnəs/ | 精明，敏锐 | the shrewdness of a queen who calculates every breath |
+| into | /ɪnˈtəʊnd/ | 吟诵，吟唱 | … And when faced with the darkness, so vast that it threatened to swallow the earth and wither all things growing, so deep that it blotted out even the faces of her elder sisters the Sun and Moon, Lyria the Gentle shattered into infinite pieces, into shards of light uncountable and unknowable. |
+| martyrdom | /ˈmɑːtədəm/ | 殉道，牺牲 | It was not the Lyrien way—they were all to understand that martyrdom in the cause of peace might come at any moment. |
 | dour | /ˈdʊə(r)/ | 冷硬的，阴沉的 | his dour, cold manner |
-| heedless | /ˈhiːdləs/ | 不注意的，忽视的 | heedless of the blood now soaking her gown |
+| heedless | /ˈhiːdləs/ | 不注意的，忽视的 | Scrambling to her feet, Ariana threw herself forward and tugged at the newcomer’s arm, heedless of the way the men still struggled. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| tumble | /ˈtʌmbəl/ | 摔倒，跌落 | tumbled into the audience hall |
+| corridor | /ˈkɒrɪdɔː/ | 走廊 | From the corridor outside the audience hall, Ariana could already hear raised voices, the sounds of chaos and dissent. |
 | shiver | /ˈʃɪvə(r)/ | 颤抖 | suppressing a shiver |
-| knot | /nɒt/ | 打结；使纠结 | guilt closed around her heart like an iron band |
-| leak | /liːk/ | 漏出，渗出 | she felt a rush of blood slip out of her |
-| sob | /sɒb/ | 啜泣，呜咽 | a shaky, tear-choked laugh |
+| prisoner | /ˈprɪzənə/ | 囚犯 | His gaze on the prisoner flared so hot, Ariana was afraid she would burn. |
+| crimson | /ˈkrɪmzən/ | 深红色 | For where the queen had knelt, there spread a pool of crimson, and the hem of her pale blue gown was soaked red. |
+| barely | /ˈbeəli/ | 几乎不 | And Inora had been the youngest of them, barely out of childhood, but sweet-voiced and willing. |
 
 ## 一句话总结
 

@@ -82,7 +82,7 @@ modified: "2026-09-21"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| drapery | /ˈdreɪpəri/ | 布匹；帔挂物 | heavy drapery fabrics |
+| paschalflower | /ˈpæʃkəlˌflaʊə/ | （虚构草药名） | Opening it, Fia found several rows of precisely cut goat’s milk soap, scented with paschalflower and illien spice. |
 | impenetrable | /ɪmˈpenɪtrəbl/ | 无法穿透的 | But it wasn't the curious gazes of a few nearby courtiers or the thought of rumor-mongering that made her pause—it was the impenetrable dark ahead, which she would have to follow him into. |
 | phelamon | /fɪˈlæmən/ | （虚构木材名） | the phelamon wood cane |
 | overfamiliarity | /ˌəʊvəfəˌmɪliˈærəti/ | 过分亲昵 | That hint of dislike and disdain was the only thing that kept her silent, rather than raising her voice to hotly protest the king's overfamiliarity with Raea's chief representative. |
@@ -92,21 +92,24 @@ modified: "2026-09-21"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| scowl | /skaʊl/ | 皱眉；怒视 | Fia scowled from her corner. |
+| scowl | /skaʊl/ | 皱眉；怒视 | Stuffing her hands farther into her kirtle sleeves to hide the thick blood that had half dried on them, Fia scowled. |
 | scathing | /ˈskeɪðɪŋ/ | 尖刻的 | Fia's scathing reply |
 | uncharacteristic | /ˌʌnkærəktəˈrɪstɪk/ | 一反常态的 | There's me, Fia said, in a moment of uncharacteristic leniency. |
-| grooved | /ɡruːvd/ | 有槽的 | thick grooves scored in the rock |
-| gauntlet | /ˈɡɔːntlət/ | 严酷考验 | running the gauntlet of court |
+| grooves | /ɡruːvd/ | 有槽的 | But as they carried on, just outside the expansive ring of torches that hemmed the revelers in, Fia realized there were thick grooves scored in the rock of the sanctum floor—a path for touch, not for sight. |
+| shrewdness | /ˈʃruːdnəs/ | 精明，敏锐 | I have myself, and my daughter, and all the world stands against us.”
+
+
+“If you don’t have a cause, what brought you back to this mountain?” the Priest asked, with far too much shrewdness for Fia’s comfort. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| scowl | /skaʊl/ | 皱眉头 | Fia sat scowling. |
+| altar | /ˈɔːltə/ | 祭坛 | Orden and his inner circle had withdrawn from the altar rise to a long, richly set table laden with extravagant foods. |
 | timber | /ˈtɪmbə/ | 木材；木料 | …flanked by a reassuringly ordinary doorframe made of solid timber. |
 | sob | /sɒb/ | 哭泣 | She felt like sobbing. |
-| tremble | /ˈtrembəl/ | 发抖 | Fia trembled at the darkness. |
-| shroud | /ʃraʊd/ | 裹尸布 | shrouded in darkness |
+| stumble | /ˈstʌmbəl/ | 绊倒；跌跌撞撞 | While it had not concerned her what the Inver court might think of her reappearing from the darkness in the company of their Priest, to stumble back into Matria Dolenza’s presence was another matter entirely. |
+| shiver | /ˈʃɪvə(r)/ | 颤抖 | A shiver of power and pleasure went tingling down her spine. |
 
 ## 一句话总结
 

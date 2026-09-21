@@ -70,8 +70,8 @@ modified: "2026-09-21"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| insipid | /ɪnˈsɪpɪd/ | 乏味的，无生气的 | There was no insidious whispers in the dark. |
-| razoredge | /ˈreɪzər-ˌedʒ/ | 刀锋；剃刀 | walking the razor edge between survival and faith |
+| indomitable | /ɪnˈdɒmɪtəbl/ | 不屈不挠的 | She was not, as he’d anticipated, a creature still bearing the shape of the mountains, with the same peaks and cliffs and indomitable planes. |
+| razor | /ˈreɪzər-ˌedʒ/ | 刀锋；剃刀 | After all these years of her walking the razor edge between survival among the Invers and maintaining some vestige of her faith, it was a terrible blow to hear Ariana considering such a thing. |
 | gauntlet | /ˈɡɔːntlət/ | 手套；严酷考验 | wielding power like a gauntlet |
 | berate | /bɪˈreɪt/ | 严厉斥责 | Gileta was using the time to relentlessly berate Orden. |
 | counsel | /ˈkaʊnsəl/ | 建议，忠告 | counsel chambers |
@@ -84,17 +84,20 @@ modified: "2026-09-21"
 | bristling | /ˈbrɪsəlɪŋ/ | 竖起的；充满愤怒的 | that bristling mountain cat |
 | vehemently | /ˈviːəməntli/ | 激烈地，强烈地 | You can't, the Priest said vehemently. |
 | unaccountably | /ˌʌnəˈkaʊntəbli/ | 莫名地；难以解释地 | A glassy smooth whorl, unaccountably cooler than the rest of her warm and living flesh. |
-| begrudge | /bɪˈɡrʌdʒ/ | 嫉妒；吝惜 | Beneson seemed begrudgingly respectful. |
+| threshold | /ˈθreʃhəʊld/ | 门槛、起点 | All he could think of, as he walked away from her, were the miles of endless dark between him and the body he needed, the careful preparations he’d have made if they did not already stand on the ceremony’s threshold. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| anchor | /ˈæŋkə(r)/ | 抛锚；稳定 | awareness of the prince anchored him |
+| anchored | /ˈæŋkə(r)/ | 抛锚；稳定 | Only awareness of the prince in his arms anchored the Priest as Ariana spoke. |
 | insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Frankly, it is an insult to our forefathers that he was permitted to live. |
-| grind | /ɡraɪnd/ | 磨碎；压榨 | grind his heel into the stone |
-| halt | /hɔːlt/ | 停止 | They halted at the threshold. |
-| blunt | /blʌnt/ | 钝的；直率的 | in her usual blunt way |
+| needle | /ˈniːdl/ | 针 | You’ll have to turn.”
+
+
+“I’m not—Silith’s pearl, Priest, if you needle me today, you’ll regret it. |
+| shift | /ʃɪft/ | 转移，换 | Instead, she was the sea that rose and fell, that wooed and raged, that gave life or stole it with a single shift of mood. |
+| braid | /breɪd/ | 编辫子 | Her skin was ever so slightly damp with sweat, the heavy rope of her braid rough against the back of his hand, but it was the sunburst goddess mark she’d drawn him to. |
 
 ## 一句话总结
 

@@ -627,10 +627,10 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | fortuitous | /fɔːˈtjuːɪtəs/ | 巧合的、偶然的 | How fortuitous. |
-| communed | /kəˈmjuːnd/ | 与…交流、交谈 | …the Priest had spent a lifetime building these systems so he might navigate the world the rest of them took for granted. |
+| commune | /kəˈmjuːnd/ | 与…交流、交谈 | It’s said you commune with ghosts.” |
 | offertory | /ˈɒfətəri/ | 献祭的、奉献的 | …the offertory bowl on the altar. |
-| unscrupulously | /ʌnˈskruːpjələsli/ | 不择手段地 | — |
-| anchored | /ˈæŋkəd/ | 锚定、固定的 | — |
+| inevitable | /ɪnˈevɪtəbl/ | 不可避免的（事） | If she’d stayed on the mountain longer, Fia suspected it was inevitable, that she would have had the Inver Priest. |
+| amplified | /ˈæmplɪfaɪd/ | 放大的；增强的 | Whatever information Gwylen had offered her by way of aid, whatever the ambassador’s true feelings about Afon, there was something in her that set Fia on edge and amplified her innate distrust. |
 
 ### ⭐ 基础
 
@@ -638,7 +638,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | appetite | /ˈæpɪtaɪt/ | 食欲、渴望 | …given Justus's growing appetite. |
 | habit | /ˈhæbɪt/ | 习惯 | …resting there as if by habit. |
-| surprised | /səˈpraɪzd/ | 惊讶的 | …to her great surprise. |
+| corridor | /ˈkɒrɪdɔː/ | 走廊 | The rhythmic tap, tap, of the Priest’s cane as he swept it back and forth, moving down the corridor. |
 | whisper | /ˈwɪspər/ | 低语 | Fia whispered… |
 | barely | /ˈbeəli/ | 几乎不 | …barely audible in the dark. |
 

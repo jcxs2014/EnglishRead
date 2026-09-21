@@ -71,19 +71,19 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | paschalflower | /ˈpæʃkəlˌflaʊə/ | （虚构草药名） | a velvet pouch of dried paschalflower |
-| effrontery | /ɪˈfrʌntəri/ | 厚颜无耻 | Crispus's effrontery was overdone |
+| transcendent | /trænˈsendənt/ | 超越的；超凡的 | It began sweet and transcendent, Ariana’s voice rising alone to the far wooden roofbeams and the smoke from the Inver fire gathered there. |
 | goad | /ɡəʊd/ | 刺棒；刺激 | he himself is the goad |
-| reverie | /ˈrevəri/ | 幻想；白日梦 | breaching their shared reverie |
-| anguish | /ˈæŋɡwɪʃ/ | 极度痛苦；苦恼 | she murmured in anguish |
+| reverie | /ˈrevəri/ | 幻想；白日梦 | “Matria,” Ariana whispered, daring to breach their shared reverie. |
+| anguish | /ˈæŋɡwɪʃ/ | 极度痛苦；苦恼 | “You don’t know what you’re asking of me,” Ariana murmured in anguish, and Orden met her gaze with a sorrow that burned. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| ecstatic | /ɪkˈstætɪk/ | 狂喜的 | the sorias were in a state of near ecstasy |
+| commissioned | /kəˈmɪʃnd/ | 委托定制 | “Orden has already commissioned you several times to end Caervallion’s king,” Ariana said, cool and queenly once more. |
 | apostate | /ˈæpəsteɪt/ | 叛教者；背教者 | an apostate queen |
-| amplified | /ˈæmplɪfaɪd/ | 放大的；增强的 | her voice amplified |
-| heed | /hiːd/ | 注意；留意 | she did not heed the warning |
+| solicitous | /səˈlɪsɪtəs/ | 关心的，关切的 | He’d been so attentive and solicitous to her on the road, after Crispus’s death. |
+| alliance | /əˈlaɪəns/ | 联盟；同盟 | Orden looked at Dolenza and the cloister with naked hunger, and it was plain that the Matria had never truly intended any alliance to come of this visit, not with the terms she’d listed the previous day. |
 | entreat | /ɪnˈtriːt/ | 恳求；请求 | Fia began entreatingly |
 
 ### ⭐ 基础
@@ -91,10 +91,10 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | hymn | /hɪm/ | 赞美诗；圣歌 | one of the oldest hymns of the Beloved Three |
-| harmony | /ˈhɑːməni/ | 和谐；和声 | in harmony with the goddess |
-| chapel | /ˈtʃæpəl/ | 小教堂；礼拜堂 | the chapel's ancient stones |
-| glow | /ɡləʊ/ | 发光 | the altar flame began to glow |
-| sift | /sɪft/ | 筛选；细看 | she could not sift truth from desire |
+| harmony | /ˈhɑːməni/ | 和谐；和声 | Dolenza’s voice joined Ariana’s, most often in harmony, occasionally shifting into a note or two of transcendent unison. |
+| chapel | /ˈtʃæpəl/ | 小教堂；礼拜堂 | The response in the chapel was worse. |
+| glow | /ɡləʊ/ | 发光 | There were still lanterns fitted with beeswax candles that bathed the sanctum with a golden glow. |
+| altar | /ˈɔːltə/ | 祭坛 | Beside Fia stood the Raean altar, once white marble, now stained an earthen color somewhere between crimson and rust, a testament to centuries of sacred women’s blood offered there. |
 
 ## 一句话总结
 

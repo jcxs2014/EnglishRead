@@ -347,9 +347,9 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | vigil | /ˈvɪdʒɪl/ | 守夜、 vigil | Fia shared it with her at its peak. |
-| starve | /stɑːv/ | 饿死、渴望 | Fia was hungry for his touch—all but starving for it. |
-| reckon | /ˈrekən/ | 认为、计算 | — |
-| shroud | /ʃraʊd/ | 覆盖、遮蔽 | — |
+| martyrdom | /ˈmɑːtədəm/ | 殉道，牺牲 | The irony of it all, Fia thought as she stood on the threshold to the king’s chambers, was that she’d never, even for an instant, craved the martyrdom some sorias desired. |
+| bassinet | /ˌbæsɪˈnet/ | 婴儿摇篮 | “Do you know, I still dream of peace?” Ariana had said to Fia one morning when they sat together in one of the breezeways, Justus in his bassinet between them. |
+| phelamon | /fɪˈlæmən/ | （虚构木材名） | The very air in her lungs smelled of Honoria’s king, potent with sandalwood and phelamon spice, and beneath that, with the sweat of horses and men. |
 
 ### ⭐ 基础
 

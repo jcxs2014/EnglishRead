@@ -333,7 +333,7 @@ modified: "2026-09-21"
 | tub | /tʌb/ | 浴盆 | …while Fia lay in a copper tub by the hearth, submerged to the neck in steaming, lavender-scented water. |
 | ash | /æʃ/ | 灰烬 | No matter the odds, we will rise and stamp out our rivals not just with blood, but with Inver fire, until there is nothing but ash left of those who would stand against us. |
 | exile | /ˈeksaɪl/ | 流亡 | So the reign of Honoria's Lyrien queen ended, and the exile of Orden Inver's widow began. |
-| guard | /ɡɑːd/ | 卫兵 | The golden-haired guard caught her when she slumped, propping her up and murmuring something comforting. |
+| guard | /ɡɑːd/ | 卫兵 | “It’s time,” a guard Ariana did not recognize said gruffly. |
 
 ---
 

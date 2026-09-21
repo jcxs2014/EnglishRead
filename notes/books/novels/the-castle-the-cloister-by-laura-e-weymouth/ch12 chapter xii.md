@@ -72,8 +72,8 @@ modified: "2026-09-21"
 |------|------|------|------|
 | ramshackle | /ˈræmʃækəl/ | 摇摇欲坠的 | A ramshackle, out-at-the-elbows section of Inverlyn. |
 | derelict | /ˈderəlɪkt/ | 废弃的，破败的 | The whole place seemed empty. Derelict and devoid of purpose. |
-| bellows | /ˈbeləʊz/ | 风箱 | Old bellows and crucibles had been piled against the walls. |
-| pallor | /ˈpælə(r)/ | 苍白 | Her face had a persistent grayish pallor around her mouth. |
+| bellows | /ˈbeləʊz/ | 风箱 | All around the walls, old bellows and crucibles and scrap metal had been piled, creating monstrous shapes among the shadows. |
+| threshold | /ˈθreʃhəʊld/ | 门槛、起点 | With a sickening sense of inevitability, Fia crossed the threshold. |
 | clandestine | /klænˈdestɪn/ | 秘密的，私下的 | Bundled above the clandestine wealth of gems. |
 
 ### ⭐⭐ 进阶
@@ -84,17 +84,17 @@ modified: "2026-09-21"
 | seedy | /ˈsiːdi/ | 破旧的，下流的 | A part of Inverlyn that wasn't so much seedy as near abandoned. |
 | weatherbeaten | /ˈweðəbiːtn/ | 饱经风霜的；风吹雨打的 | And Fia found herself in a windowless storeroom surrounded by empty shelves and half a dozen weatherbeaten men, every one of them armed and on edge. |
 | foundry | /ˈfaʊndri/ | 铸造厂 | The old foundry. |
-| gauntlet | /ˈɡɔːntlət/ | 严酷考验 | She cast her gauntlet at the faithful district. |
+| storeroom | /ˈstɔːruːm/ | 储藏室 | And Fia found herself in a windowless storeroom surrounded by empty shelves and half a dozen weatherbeaten men, every one of them armed and on edge. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | shiver | /ˈʃɪvə(r)/ | 颤抖 | Fia couldn't help but shiver. |
-| crook | /krʊk/ | 弯曲物 | She crook her elbow to hide the bag. |
+| tremble | /ˈtrembəl/ | 发抖，颤抖 | “Hello, Nikolau,” she answered evenly, balling her hands into fists to hide how panic made them tremble. |
 | ghost | /ɡəʊst/ | 鬼 | ghost houses |
-| abandoned | /əˈbændənd/ | 废弃的 | an abandoned foundry |
-| alley | /ˈæli/ | 小巷 | a narrow, cramped shed in an alley |
+| purpose | /ˈpɜːpəs/ | 意图、目的 | This time, the clamps served a more utilitarian purpose—Fia pulled the nails from two loose boards at the back of the privy, leaving just enough room for her to slip through the gap and ghost down a narrow, overshadowed alley. |
+| alley | /ˈæli/ | 小巷 | Her path led past the castle laundry and into a ramshackle, out-at-the-elbows section of Inverlyn, where the alleyways smelled of manure and there were more stragglers out in the streets than in the better-kept parts of town. |
 
 ## 一句话总结
 

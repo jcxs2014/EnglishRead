@@ -82,19 +82,25 @@ modified: "2026-09-21"
 |------|------|------|------|
 | pugio | /ˈpjuːdʒiəʊ/ | 匕首；短剑（Inver 武器） | the sheath and pugio from around his forearm |
 | supplicant | /ˈsʌplɪkənt/ | 祈求者；恳求者 | Crispus fell into the position of a supplicant |
-| ambition | /æmˈbɪʃən/ | 雄心；野心 | Orden's ambition for Honoria |
-| sycophant | /ˈsɪkəfænt/ | 谄媚者；马屁精 | the sycophantic physician |
-| subterfuge | /ˈsʌbtəfjuːdʒ/ | 托词；掩饰 | the physician's subtle subterfuge |
+| effrontery | /ɪˈfrʌntəri/ | 厚颜无耻 | What possible purpose could it serve, making her bleed?”
+
+
+Crispus sputtered, and his effrontery, in Orden’s opinion, was overdone. |
+| spymaster | /ˈspaɪmɑːstə(r)/ | 间谍头子 | The spymaster was still chafing over it, which pleased Orden greatly, even as it annoyed him to have Afon’s emissary prove the craftier. |
+| encampment | /ɪnˈkæmpmənt/ | 营地；营寨 | He’d led his illustrious party down from the foothills to a lavish encampment prepared by Glora and a bevy of servants who looked to be on the verge of apoplexy. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| blanch | /blɑːntʃ/ | 使变白；使失色 | Crispus's face blanched |
-| gibber | /ˈdʒɪbə/ | 急促不清地说 | Crispus began to gibber and plead |
+| blanch | /blɑːntʃ/ | 使变白；使失色 | When he pulled Crispus’s body back up, the man’s jaw lolled, slack and lifeless, his eyes a staring blank. |
+| gibbering | /ˈdʒɪbə/ | 急促不清地说 | The physician dropped to his knees, gibbering and pleading. |
 | rotted | /ˈrɒtɪd/ | 腐烂的；腐败的 | the rotted-out stump |
-| reckon | /ˈrekən/ | 认为；估计 | Orden could hardly reckon |
-| flint | /flɪnt/ | 燧石；打火石 | the flint of Orden's resolve |
+| prophecy | /ˈprɒfəsi/ | 预言 | Best content yourself with being behind them, for I’m sure it’s someone else getting under.”
+
+
+When Ariana spoke again, there was a glint of silver Orden had never seen before in her eyes, and a ring of prophecy in her words. |
+| mewling | /ˈmjuːlɪŋ/ | 婴儿的啜泣声 | You’ll cower behind your wife’s skirts instead, claiming a sudden bent for Ariana’s mewling pacifism. |
 
 ### ⭐ 基础
 
@@ -102,9 +108,12 @@ modified: "2026-09-21"
 |------|------|------|------|
 | pebble | /ˈpebəl/ | 卵石；小石子 | he found himself a handful of pebbles |
 | kneel | /niːl/ | 跪下 | Make him kneel |
-| drown | /draʊn/ | 淹死；溺死 | I will drown you in this river |
-| tremble | /ˈtrembəl/ | 发抖；颤抖 | his hands beginning to tremble |
-| flee | /fliː/ | 逃跑；逃走 | she would flee the mountain |
+| drown | /draʊn/ | 淹死；溺死 | He’d developed a prodigious head for spirits as a result, but last night he’d throw back toast after toast to Justus and his own dynasty, immoderate in his desire to drown out the image of Ariana in her moment of obedience and triumph. |
+| tremble | /ˈtrembəl/ | 发抖；颤抖 | There was a rushing in his ears, and his hands were beginning to tremble with pent-up energy. |
+| insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Our queen abandoned your goddesses, offering them only insult.”
+
+
+Fia shook her head in disapproval. |
 
 ## 一句话总结
 

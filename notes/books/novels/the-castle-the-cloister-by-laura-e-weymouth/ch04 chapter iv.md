@@ -112,10 +112,10 @@ source_text: ch05
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | Kirtle | n | 连衣裙、外袍 | Her bleached linen postulant's kirtle was damp. |
-| Astringent | adj | 收敛的、严峻的 | 未出现在本章（删除） |
+| bloodstained | /ˈblʌdsteɪnd/ | 沾满血迹的 | She glanced up, pushing strands of tawny hair away from her face with the back of one bloodstained hand. |
 | Affable | adj | 和蔼的、友善的 | It was an affable, cooperative sort of busyness. |
-| Beleaguered | adj | 被围困的、艰难的 | 未出现（已删除） |
-| Brazier | n | 金属火盆 | 未出现（已删除） |
+| devastation | /ˌdevəˈsteɪʃn/ | 毁灭；破坏 | There, she found both devastation and the daughters of the Beloved Three. |
+| fathomless | /ˈfæðəmləs/ | 深不可测的，无底的 | Ariana Inver fixed her eyes on Fia, and fathomless sorrow shone in her gaze. |
 
 ### ⭐⭐ 进阶
 

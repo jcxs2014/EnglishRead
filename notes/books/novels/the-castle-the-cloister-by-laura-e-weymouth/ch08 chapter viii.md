@@ -71,29 +71,29 @@ modified: "2026-09-21"
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | malevolent | /məˈlevələnt/ | 恶意的，狠毒的 | Afon's malevolent attention kept swiveling to Ariana |
-| pugio | /ˈpjuːdʒiəʊ/ | 匕首，短剑（罗马） | Orden laid hold of his pugio |
+| pugio | /ˈpjuːdʒiəʊ/ | 匕首，短剑（罗马） | Without appearing to move at all, Orden had laid hold of his pugio and shifted his arm so that the blade pressed against Lucian’s inner thigh. |
 | spymaster | /ˈspaɪmɑːstə(r)/ | 间谍头子 | Lucian, his spymaster |
-| dissipate | /ˈdɪsɪpeɪt/ | 驱散，消散 | He let his fury dissipate |
-| gauntleted | /ˈɡɔːntlətɪd/ | 戴甲胄的 | his gauntleted grip bruised into her flesh |
+| millstone | /ˈmɪlstəʊn/ | 磨石；沉重负担 | The awareness rested like a millstone around his neck. |
+| incandescent | /ˌɪnkænˈdesnt/ | 炽热的；光芒四射的 | …Orden had seen an incandescent strength in her, made all the more irresistible because it… |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| squall | /skwɔːl/ | 大哭，尖叫 | The infant prince began to squall |
+| squall | /skwɔːl/ | 大哭，尖叫 | The infant prince in his arms began to squall, the reedy, insistent sound of his cries echoing back from the stone walls. |
 | solicitous | /səˈlɪsɪtəs/ | 关心的，关切的 | He was solicitous of Gileta |
-| heedless | /ˈhiːdləs/ | 不注意的，忽视的 | Heedless of the courtiers' whispers |
-| begrudge | /bɪˈɡrʌdʒ/ | 嫉妒；吝惜 | He begrudged every moment spent in council |
+| summons | /ˈsʌmənz/ | 传唤；召唤 | What Ariana was doing in the audience hall was beyond him—he’d sent no summons and hadn’t expected to see her until he visited the queen’s rooms that night to meet their son. |
+| upstart | /ˈʌpstɑːt/ | 暴发户 | Orden knew it would do him no favors to have an upstart peasant in plainspun refuse him courtesy at the onset of a council that could be the ruin of his reign. |
 
 ### ⭐ 基础
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| vanish | /ˈvænɪʃ/ | 消失 | Gwylen has vanished from the castle |
-| murmur | /ˈmɜːmə(r)/ | 低声说，低语 | the murmur of conversation |
-| glare | /ɡleə(r)/ | 怒目而视 | pinning the Chief Physician with a glare |
+| vanished | /ˈvænɪʃ/ | 消失 | “Gwylen has… vanished,” Lucian admitted with great reluctance. |
+| throne | /θrəʊn/ | 王位 | He could do as he longed to so fiercely and spill Afon Caervallin’s guts on his throne room floor, grinding them into the stones of the mountain when he’d finished. |
+| glare | /ɡleə(r)/ | 怒目而视 | “Where’s the wretched nurse?” he boomed over the baby’s cries, pinning on his expansive king’s mannerisms and skewering the nearby Chief Physician with a glare. |
 | nod | /nɒd/ | 点头 | a nod from Afon |
-| shift | /ʃɪft/ | 转移，换 | shift the baby from one arm to the other |
+| shift | /ʃɪft/ | 转移，换 | He sighed, and shifted the screaming prince from one arm to the other. |
 
 ## 一句话总结
 
