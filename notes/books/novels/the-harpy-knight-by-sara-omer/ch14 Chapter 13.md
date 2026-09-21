@@ -40,13 +40,13 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 3:** Nohra's eyes fell on a man with her father's hair, her father's face, her father's hands drawing a longsword, standing hunched behind rows of northern soldiers on a long vessel materializing out of the fog. Nassar.
+> **原句 3:** "Nassar strolled into view like his wiry body would block their way, and Nohra's empty stomach dropped."
 
-**中文理解**：Nohra 的目光落在一个男人身上——她父亲的头发，她父亲的脸，她父亲的手正在拔一把长剑，躬身站在一艘从雾中显现的长船上的北方士兵队列后面。Nassar。
+**中文理解**：Nassar 悠闲地踱步进来，他瘦削的身体似乎就要挡住她们的去路，Nohra 的心一沉。
 
-**关键词**：her father's hair、her father's face、Nassar's appearance
+**关键词**：wiry body、empty stomach dropped、Nassar's entrance
 
-**为什么这样写**：这是 Nohra 第一次在战场上看到 Nassar——对她来说，他首先是"父亲的儿子"，其次才是敌人。"her father's"三连重复是全书写家族创伤最有力的意象之一。Nassar 在这里的表现（殴打她、审问她）与她父亲的残忍直接呼应。
+**为什么这样写**：Nassar 的出场方式是"悠闲踱步"——他在自己的地盘上，不需要急躁。这与 Nohra 被俘后的被动处境形成对比。"empty stomach dropped"是身体的本能反应，说明 Nohra 对 Nassar 的恐惧是即时的、生理层面的，而非理性的判断。
 
 ---
 
