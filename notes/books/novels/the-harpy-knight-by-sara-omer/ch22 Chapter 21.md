@@ -49,13 +49,13 @@ modified: "2026-09-21"
 > **读者视角提示**：Nohra 此刻意识到她与这个女孩都是受害者，只是她们被不同的"主人"打上标记。
 
 > **原句 4:**
-> "She pulled me into the house," Qaira called back to Nohra. "She's pregnant." It explained the swell of her belly, her duck-like, waddling run—this woman looked like Nohra's mother before Rami was born, but with mousier, rattier hair.
+> "Qaira wasted no time dismounting and striding toward the woman. The woman took her by the arm, eyes bright and shining with hopefulness in her sickly white face. "She's pregnant," Qaira called back to Nohra. It explained the swell of her belly, her duck-like, waddling run—this woman looked like Nohra's mother before Rami was born, but with mousier, rattier hair."
 >
-> **中文理解**："她把我拉进屋，"Qaira 朝 Nohra 喊道。"她怀孕了。"这解释了她隆起的肚子和鸭子般蹒跚的步态——这个女人看起来像 Nohra 母亲生 Rami 之前的样子，只是头发更细更乱。
+> **中文理解**：Qaira 毫不犹豫地跳下马，朝那个女人大步走去。女人抓住她的手臂，病态白的脸上闪烁着充满希望的光芒。"她怀孕了，"Qaira 朝 Nohra 喊道。这解释了她隆起的肚子和鸭子般蹒跚的步态——这个女人看起来像 Nohra 母亲生 Rami 之前的样子，只是头发更细更乱。
 >
-> **关键词**：pregnant（怀孕）、duck-like waddling（鸭子般蹒跚）、looked like Nohra's mother（像 Nohra 的母亲）
+> **关键词**：dismounting and striding toward（跳下马大步走向）、eyes bright and shining（眼睛闪闪发光充满希望）、duck-like waddling（鸭子般蹒跚）
 >
-> **为什么这样写**：怀孕女人触发 Nohra 的家族记忆——"像 Nohra 母亲"这个细节将个人创伤（母亲的失去）与当前危机（战争中的孕妇）连接。Qaira 立刻注意到孕妇并提供帮助，说明她的优先级永远是保护弱者。
+> **为什么这样写**：Qaira 立刻注意到孕妇并提供帮助——她的优先级永远是保护弱者。与前面 Nohra 只能目睹并记录形成对比。"她怀孕了"是 Qaira 的现场判断而非 Nohra 的叙述，将紧迫感直接传递给读者。
 >
 > **读者视角提示**：Thora 在生 Rami 时死去——这个孕妇可能面临同样的命运（Nohra 的母亲在生最小的孩子时死亡）。
 
