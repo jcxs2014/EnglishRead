@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** 在与 Celina 分离之后，她曾发誓再也不给任何孩子哺乳，但现实迫使她不得不妥协。
 
+**句子结构：** 并列句（She had sworn never…but necessity forced her hand），过去完成时与一般过去时对撞。
+
 **关键词：** necessity forced her hand（必要性迫使她妥协）；put to breast（哺乳）；parted from Celina（与 Celina 的分离——产后被迫放弃女儿的心理创伤）
+
+**表达方式：** 誓言与例外被压进一句，用 necessity 作主语——屈服被写成外部力量的胜利。
 
 **为什么这样写：** 这句话浓缩了 Ariana 作为母亲的全部悲剧：她被迫放弃大女儿 Celina（因为 goddess-marked（Celina 是 Silith 的月印，非星印；星印是 Lyria 一系）），现在又被迫亲自哺乳小儿子。产后激素波动加上被迫放弃 previous children 的记忆同时涌来，让她"tears spilled over"。这是 Ariana 产后抑郁的最直接表达。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** 一条秘密楼梯。它的出口在王后的寝宫，而这正是 Orden 把现在这间寝宫给 Ariana 的原因。他们可以随意来去，不必担心宫廷的窥探目光看到他们多久或多久没有互访。
 
+**句子结构：** 名词性短句开头（A secret stair.）+ 两句说明（It had its egress…and was the reason…）+ 结果句（They could come and go…）。
+
 **关键词：** a secret stair（秘密楼梯——Orden 给 Ariana 的特权和隐私保障）；without the prying eyes of the court（不担心宫廷窥探）
+
+**表达方式：** 像档案一样介绍一条通道，功能与用途逐条列出；冷静说明与政治含义形成反差。
 
 **为什么这样写：** 这段揭示了 Orden 对 Ariana 复杂的真实态度：他不信任宫廷（包括自己的官员），所以给她一条秘密通道。这既是特权（让她可以随时找他）也是监控的缺失（让宫廷无法通过观察她来判断国王的动向）。Inver 的王权运作逻辑在此刻显露无遗。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** "为了我们的儿子，你必须进行一次血祭。不是 Priest 献上的那种——而是在所有人面前，为孩子命名礼进行的完整献祭。"
 
+**句子结构：** 祈使句（you must make a blood sacrifice）+ 破折号更正（Not of the sort the Priest provides）+ 同位语（a full sacrifice, before all, at the boy’s naming）。
+
 **关键词：** a full sacrifice（完整献祭——当着所有人的面，而非在 sanctuary 里秘密进行）；before all（在所有人面前）
+
+**表达方式：** 先下要求再限定范围，语气不容商量；a full sacrifice 一词把加冕与杀人并到一张清单上。
 
 **为什么这样写：** Orden 要的不是 Priest 在秘密祭仪上象征性的 blood-letting，他要的是公开的、由王后亲自执行的"完整血祭"。这既是政治表演（向 Afon 和 Gileta 展示王后的 Inver 信仰），也是对 Ariana 宗教忠诚度的公开测试。如果她同意了，就等于彻底背叛自己 Former soria 的身份。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** 当 Ariana 打盹并给 Honoria 的继承人哺乳时，她觉得自己像个幽灵，然后以似乎耗尽全身力气的努力挣扎着清醒过来。
 
+**句子结构：** 主句（Ariana felt like a ghost herself）+ as 时间从句 + then 紧接动作（stirred with what felt like a supreme effort）。
+
 **关键词：** felt like a ghost（像幽灵一样——产后身体虚脱的极端描述）；a supreme effort（极度的努力——"挣扎着清醒"这个动作的代价）
+
+**表达方式：** 用「幽灵」与「极度的努力」写产后虚弱，把存在感的流失落到身体上。
 
 **为什么这样写：** Ariana 的产后状态已经从身体虚弱升级到了存在感消散——"ghost"这个意象呼应了第二、六、九章里 Priest 洞穴中的 ghost（第七章原文并无 ghost 一词）。她dozed的同时还在哺乳，这是极度虚弱的标志，而"stirred with what felt like a supreme effort"说明她清醒过来需要比平时更大的意志力。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** 为了阻止即将到来的战争。哦，Orden 会因为她拒绝献祭而失望，但他会理解，不会因此怪罪于她。最重要的是，恐惧会让他留在都城。
 
+**句子结构：** 目的状语开头（To forestall the coming war.）+ 两句推测（would be disappointed…would understand…）+ 结论（fear would keep him home.）。
+
 **关键词：** fear would keep him home（恐惧会让他留在都城——Ariana 的策略）
+
+**表达方式：** 整段以「将会如何」的推测句写成一场精算；末句用 fear 作主语收拢，情绪被彻底换算成变量。
 
 **为什么这样写：** 这是全章最关键的一句话，揭示了 Ariana 的算计：她拒绝在命名仪式上表演血祭（因为她不愿意背叛自己的 soria 信仰），但她的拒绝本身会成为一种策略——Orden 会因为担心她产后的脆弱和"Brittle 特性"而不敢离开都城去打仗。"Fear would keep him home" 是她对 Orden 弱点的精确把握：他爱她的程度，足够让他放弃战争野心。
 

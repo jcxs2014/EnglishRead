@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** 这份信任的光对 Fia 来说如同正午的太阳，是一种既能赐予生命也能灼伤的力量。
 
+**句子结构：** 主句 + like 比喻 + 定语从句（a force which could just as easily give life or burn）。
+
 **关键词：** the light of that trust（信任的光芒——呼应 Ariana 作为 Lyria 星辰之女的意象）；give life or burn（既能赐生也能灼伤——信任的两面性）
+
+**表达方式：** 用同一个光源做双向比喻（生与焚），把信任定义为「有杀伤力的东西」。
 
 **为什么这样写：** 这是全章最富诗意的一句话。Ariana 对 Fia 的信任如同正午的太阳——对 Fia 来说既是滋养也是灼烧。这既是对信任本身的隐喻，也是 Fia 对自己与 Ariana 关系的评价：这份信任让她感到被需要（给予生命），但也让她感到前所未有的脆弱（可能灼伤）。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** 这与城堡内纷扰繁忙的生活形成了鲜明对比，Fia 不由得打了个寒颤，在低垂的午后阳光下更贴近了阴影。
 
+**句子结构：** 主句（It was a stark contrast…）+ and 并列（Fia couldn’t help but shiver and stick a little more closely to the shadows…）。
+
 **关键词：** a stark contrast（鲜明对比）；stick to the shadows（贴近阴影——Fia 的本能）
+
+**表达方式：** 先以对比句立景，再让身体贴近阴影——环境描写直接承担人物的情绪。
 
 **为什么这样写：** 街道的空旷与城堡的喧嚣形成对比，Fia 自觉地贴近阴影——这是她作为 cloister 女子的本能，也是她作为间谍的自觉。但"low afternoon sun"这个意象暗示：即便在最明亮的时刻，她也已经习惯了在阴影中行动。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** "愚蠢，"Fia 经过一排废弃鬼屋时低声嘟囔。"一个只配得上骄傲和空肚子、别无他用的地方。"
 
+**句子结构：** 单字评价（Foolish,）+ 分词短语（muttering under her breath as she walked past…）+ 直接引语。
+
 **关键词：** ghost houses（鬼屋——废弃的 Silith 信徒住所）；pride and empty stomachs（骄傲与空肚子）
+
+**表达方式：** 先给判词再给台词，语气是市井式的不屑；ghost houses 一词自带制度批判。
 
 **为什么这样写：** Fia 对"忠实区"的态度是矛盾的：一方面她认为这些 Silith 信徒的坚守是"愚蠢"的（因为无法换来实际利益），另一方面她自己也是被同样的"骄傲"驱动着——她不愿意承认自己需要任何人，包括 Ariana。这种矛盾让她对 ghost houses 居民的评判显得格外尖锐。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** 当然是黑的。当然。这把她抛回了童年，她已经能够听到如果她向前迈出一步门会砰地关上的声音，感受到她的拳头在门锁上敲打时的徒劳。
 
+**句子结构：** 两句短评（Of course it was dark. Of course.）+ It threw her back to childhood…+ 两个感官预演（could already hear…feel…）。
+
 **关键词：** threw her back to childhood（把她抛回童年）；the futility of beating her fists（拳头敲打的徒劳——创伤闪回）
+
+**表达方式：** 重复的 Of course 制造自嘲式认命，黑暗被写成打开旧伤的门。
 
 **为什么这样写：** 这是全章最震撼的一句话。Fia 进入黑暗的废弃铸造厂时，童年被关在黑暗地窖里的创伤记忆被彻底激活。她没有失去意识，而是被"抛回"（threw back）了那个场景——这是 PTSD 的典型表现。"Beat her fists"这个细节是原文真实存在的，精确地描绘了一个被恐惧支配的孩子的绝望。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** 一种令人作呕的必然感袭来，Fia 跨过了门槛。正如她所恐惧的，伴随门砰然关上的巨响。
 
+**句子结构：** With 短语开头（With a sickening sense of inevitability…）+ 主句 + Just as 从句（Just as she’d feared, there came a resounding crack…）。
+
 **关键词：** a sickening sense of inevitability（令人作呕的必然感——她知道接下来会发生什么）；crack of noise（关门声——创伤重演的标志性声音）
+
+**表达方式：** 预感先于事实，门响与恐惧同时落地——句序本身在制造「果然如此」的宿命感。
 
 **为什么这样写：** "Sickening sense of inevitability"是心理创伤的最精准描写：她知道接下来会发生什么（门会关上，她会被困在黑暗中），但她仍然跨过门槛。这展示了 Fia 最大的勇气来源：她已经面对过最坏的情况，现在没有什么是她不能克服的。门关上的声音是真实的，但"她不是一个人"——这个新发现是她成长的高光时刻。
 

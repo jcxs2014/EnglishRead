@@ -305,7 +305,6 @@ modified: "2026-09-21"
 | forgive | /fəˈɡɪv/ | 原谅 | …maybe it'll help you forgive me a little for how I've gone about things. |
 | debt | /det/ | 债；亏欠 | …I told you to leave me be until harvest time, when I'd collect on your debt. |
 
-
 ## 一句话总结
 
 Fia 用一个关于"这个孩子"的巧妙欺骗让 Nikolau 成为了 Honorian 警卫队长——她让他发誓保护 Justus，却让他以为那是他们的女儿 Miriel，在绝望和被理解的混合中，Nikolau 接受了她的操控。

@@ -293,7 +293,6 @@ modified: "2026-09-21"
 | gloom | /ɡluːm/ | 昏暗；阴郁 | So she sat in the gloom of a stone cell and tried to count her breaths. |
 | cell | /sel/ | 牢房；单人室 | …seated on the dank stone floor of a cell the Invers had carved out themselves. |
 
-
 ## 一句话总结
 
 Ariana 在绝望中拒绝了所有背叛的选择——无论是 Afon 的婚姻提议还是 Caervallion 的刺客合同，她选择与 Orden 一起死在 Honoria，作为 Lyria 女儿的最后一战。

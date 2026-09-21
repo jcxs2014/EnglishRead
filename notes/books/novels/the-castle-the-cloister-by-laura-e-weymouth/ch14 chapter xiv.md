@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** 血液从 Fia 流向 Ariana，作为疗愈之用，完全符合 Raeā 教团的要求。
 
+**句子结构：** 被动式主句（Blood flowed out, from Fia to Ariana）+ 分词（given for healing in perfect observance of Raeā’s requirements）。
+
 **关键词：** blood flowed out, from Fia to Ariana（血液从 Fia 流到 Ariana——反向的哺育）；in perfect observance of Raeā's requirements（完全符合 Raeā 教团的要求——违反 Inver 的 blood taboo）
+
+**表达方式：** 仪式化的被动句把流血写成礼仪：最重的亲密被当作流程陈述。
 
 **为什么这样写：** 这是全书中关于 Raea 教团 blood prohibition 最清晰的展示：她们允许 blood transfer 作为 healing，因为这是 Raea（太阳）的核心意象——给予生命力。但这也完全违背了 Inver 的规矩，因为blood 对于 Inver 是 sacred 的交换物。Fia 在宫廷里公开进行这个仪式，需要极大的勇气。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** "是我自己选择的，"她终于说道。"它为我赢得了一个国王。"
 
+**句子结构：** 两个四词短句（I chose it. / It won me a king.）。
+
 **关键词：** It won me a king（它为我赢得了一个国王）；I chose it（是我自己选择的——主动选择而非被迫)
+
+**表达方式：** 用最少的词回答烙印的来历——辩解全部省略，只留下交换的结果。
 
 **为什么这样写：** 这是全章最震撼的揭示：Ariana 的火焰印记不是被迫的，而是她主动选择的。她用自己身体的疤痕换取了与 Orden 的婚姻和权力。这个回答与她在第九章中曾说自己的印记已被烧去（本章"我选择了它"首次点明那是自愿）形成了鲜明对比——她在不同场合对不同人讲述不同的真相版本。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** "你知道吗，在 Lyria 的女儿们中间，血的禁忌被执行得如此严格，我们甚至不被允许在身上穿戴任何猩红色的东西？"
 
+**句子结构：** 直接引语 + 结果状语（so strictly we’re not permitted to have anything scarlet about our person）。
+
 **关键词：** the blood prohibition（血的禁忌）；not permitted to have anything scarlet（不允许穿戴任何猩红色——Lyria 教团的 ascetic 极端)
+
+**表达方式：** 以他者的禁忌提问，句子重心落在颜色词 scarlet 上，为下一句的对照埋线。
 
 **为什么这样写：** 这是关于 Lyria cloister 生活的最具体细节之一：甚至 scarlet（与血同色）的衣物都不允许穿。这种极端的禁欲主义与 Inver 王后华丽的 crimson gown 形成强烈对比，而 Ariana 即将穿着那件衣服进行 blood sacrifice——这是对 Lyria 信仰的彻底背叛。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** "你知道吗，"Fia 坚定地说，目光在镜中凝视着 Ariana，"在我的修道院，猩红色是我们最神圣的颜色？Raea 自己每天晚上休息时和每天早上重生时都穿戴它。Dolenza 嬷嬷喜欢在节日时说，身着红色的女人是她光辉中太阳的回响。"
 
+**句子结构：** 插入语（“Did you know,” Fia said staunchly, fixing her gaze on Ariana in the mirror）+ that 宾语从句（that at my cloister, scarlet is our most sacred color）。
+
 **关键词：** scarlet is our most sacred color（猩红是我们最神圣的颜色）；Raeā herself wears it（Raeā 自己也穿戴它）
+
+**表达方式：** 镜像式对照（你们忌红／我们崇红）把两种信仰并排，讽刺由结构完成。
 
 **为什么这样写：** Fia 用 Raea 教团的信仰体系反驳了 Lyria 的极端禁欲主义——同一个"猩红色"，在 Lyria 这里是禁忌，在 Raea 那里却是神圣的。这段对话揭示了三位女神体系的复杂性：不同教派对同一种颜色有不同的理解。Fia 的话也是对 Ariana 的安慰：她不必在两种信仰中选择一个，因为两者本身就是硬币的两面。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** 如果我是一团火焰，那也是被你的火焰点燃的。
 
+**句子结构：** 条件句（If I am a flame）+ 定语从句（that was kindled by your fire）。
+
 **关键词：** a flame（火焰——Ariana 的双重身份）；kindled by your fire（被你的火焰点燃——对 Orden 的回应）
+
+**表达方式：** 火焰意象的爱情宣称把关系写成「被点燃」而非相互燃烧——谁是主语一目了然。
 
 **为什么这样写：** 这是 Ariana 对 Orden 赞美"你今晚就是 Inver 火焰的化身"的回答。她把自己比作由 Orden 的火焰点燃的火焰——这既是奉承，也是真实的：她的权力、她的命运，都是通过与 Orden 的婚姻获得的。但"if"这个条件句暗示她不完全同意这个比喻——她不完全是 Inver 的造物。
 

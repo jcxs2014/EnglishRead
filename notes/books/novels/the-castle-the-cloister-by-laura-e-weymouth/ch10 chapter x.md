@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** 他们身后，城堡及其所属城市在树梢上方仍然依稀可见。虽然 Fia 试着不让自己时不时回头张望，但她做不到。
 
+**句子结构：** 第一句陈述（the castle and its surrounding city were still visible）+ 第二句以 Though 让步 + 转折（she couldn’t help it）。
+
 **关键词：** glancing over her shoulder（回头看——离开时的不舍与羁绊）；still visible（仍然可见——才离开不久就已经开始思念）
+
+**表达方式：** 视角钉在「回头」这个动作上，把离开写成一种身体的不服从。
 
 **为什么这样写：** 开篇第一句就奠定了全章的情绪基调：Fia 人在路上，心系城堡里的 Ariana。她用"couldn't help it"来表达这种不由自主的牵挂，与她嘴上说"她会没事的"形成对比——理智说走得对，情感却停不下来。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** 一切都会好起来的。Fia 在城堡里根本不需要——Ariana Lyrien 曾经是完美的星辰之女，而 Ariana Inver 显然是操控高层权力的能手，每一次言行都在左右国家命运。
 
+**句子结构：** 短句立论（All would be well.）+ 破折号插入对比（where Ariana Lyrien had been…Ariana Inver was…）+ 分词收束（shifting the fate of nations…）。
+
 **关键词：** mover of high powers（高层权力的操盘手）；shifting the fate of nations（左右国家命运）
+
+**表达方式：** 用同一个人物的两种身份对比完成「她已被替代」的安慰式论证——语气笃定，底色是自欺。
 
 **为什么这样写：** Fia 在自我说服的过程中，无意间完成了对 Ariana 身份转变的总结：从"星辰之女"（lyrien）到"Inver 王后"（Inver），从 cloister 的 passive 角色到宫廷的 active 操盘手。这也是 Fia 自己的转变镜像——她也要从被动角色走向主动。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** "往南去我的修道院，"Fia 低声告诉那位 Corrinian 女子。"Dolenza 院长可以为你们找到去 Vesper 的通道，以及穿越战线的安全交通。"
 
+**句子结构：** 直接引语（祈使句 + 并列指示）+ 说话标记与伴随状语（her voice low）。
+
 **关键词：** safe transport across the frontlines（穿越战线的安全交通——Dolenza 网络的运作）
+
+**表达方式：** 把一次救人的善举写成两份行程安排，动词全是「去／找／送」——人物性格在动词里显形。
 
 **为什么这样写：** 这句话揭示了 Dolenza 的地下网络全貌：修道院不只是宗教场所，还是 Corrinians 逃亡的中转站。Fia 在宫廷待过之后，对这个网络的运作方式有了更深的理解，也第一次能够将它作为情报来源传递给普通难民。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** 当 Fia 站在她那健壮骡子的掩护后，看着使节下马钻进路边客栈时，怀疑的刺痛划过她的心头。
 
+**句子结构：** 主谓结构（Suspicion pricked at Fia）+ as 时间从句（as she stood behind…and watched…）。
+
 **关键词：** suspicion pricked（怀疑的刺痛——Fia 作为情报员的直觉）；duck into（溜进——不正式的进入方式）
+
+**表达方式：** 以身体感受（刺痛）领起整句，再由动作补足现场——怀疑被写成生理的、先于判断的东西。
 
 **为什么这样写：** Fia 发现 Gwylen 不在宫廷准备谈判，而是出现在一个服务于商人和旅客的路边客栈——这本身就说明 Gwylen 有不可告人的目的。"Duck into"这个动作词（非正式地溜进）暗示 Gwylen 不想被人看到。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** "哦，难道信仰是专属于老年人的领地吗？"Fia 问道。商人手忙脚乱地掏出钱包，又摸出了两枚银币。
 
+**句子结构：** 反问句（Oh, is faith a province belonging entirely to the old, then?）+ 说话标记。
+
 **关键词：** faith a province belonging entirely to the old（信仰是老年人的专属领地——讽刺）；fumbled（手忙脚乱）
+
+**表达方式：** 一句反问反将对方一军；礼貌词（Oh）与锋利的逻辑并置，讽刺全部由语序承担。
 
 **为什么这样写：** 这是全章最有趣的一幕：Fia 伪装成朝圣者，却因为太年轻而被商人误认为需要布施。她用一句尖锐的反问既维护了尊严，又成功获得了更多施舍。这个细节展示了她在 cloister 学到的辩论技能如何帮助她在现实世界生存。
 

@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** Afon 杀了那个俘虏。他当然会这么做。
 
+**句子结构：** 两个短句：判断（Afon killed the prisoner.）+ 附和（Of course he did.）。
+
 **关键词：** of course（理所当然——Orden 对 Afon 本性的了解）
+
+**表达方式：** 极简复句靠 Of course 完成反讽——听者在替凶手确认罪行，冷酷由省略承担。
 
 **为什么这样写：** 极简的开场白。"Of course he did" 四个字确立了 Orden 对 Afon 的全部认知：他是一个一定会这么做的野蛮人。这句话也是 Orden 内心独白的开始，他必须压制自己的愤怒。Tribune Ataxis 是"好人"（good man），而 Afon 却在象征和平的 audience hall 当众杀人，秩序和文明的崩溃就在这一刀。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** Orden 不会伤害他的星辰，除非万不得已。于是他没有回应 Afon 的所作所为，而是转向了最意想不到的救兵——怀里的新生王子开始大哭。
 
+**句子结构：** 三句递进（would not harm… / so instead… / the infant prince began to squall…），末句以同位语补足声音（the reedy, insistent sound…）。
+
 **关键词：** his star（他的星辰——Orden 对 Ariana 的称呼）；squall（大哭，尖声哭叫）
+
+**表达方式：** 按「最不该发生的事→最无力的处境」顺序推进，把国王的逃避写成动作链而非评论；婴儿的哭声是这段无声政治的配乐。
 
 **为什么这样写：** "his star"是 Orden 对 Ariana 的专有称呼。Ariana 刚经历了产后大出血，他拒绝让她的牺牲白费。婴儿的哭声打断了剑拔弩张的对峙，给了 Orden 一个下台阶——他可以假装是去安抚婴儿而非回应 Afon 的暴行。这是一种极度克制的王权表达。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** 我名 Fiametta Raeana，服侍光明太阳 Raea 的仆人。postulant 说道。她挺直肩膀，下巴高扬，几乎能与 Orden 平视。
 
+**句子结构：** 引语（自报身份）+ 三个并列的姿态描写（stood with her shoulders thrown back, her chin high, and was nearly tall enough…）。
+
 **关键词：** servant to Bright Raea the Sun（服侍光明太阳 Raea 的仆人——正式的头衔宣告）；dead-on（正面，直接地）
+
+**表达方式：** 以身体姿态替代情绪形容词；句末「几乎能平视」把桀骜写成可度量的高度。
 
 **为什么这样写：** 这是 Fia 第一次正式向国王自我介绍。她选择用 Raea 的称号而非简单地说是 Dolenza 送来的，这是在提醒 Orden：cloister 的女人不必向他下跪（no woman attached to the cloister was required by Raea or her Matria to kneel for an Inver king）。她的体态（shoulders thrown back, chin high, nearly tall enough）展示了一个不卑不亢的姿态。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** 真的，今天神明一定在微笑。如果 Dolenza 真的有意如此，Orden 愿意吃掉他最好的猎鹰手套。
 
+**句子结构：** 前置表态（Truly, the gods must be smiling today.）+ 虚拟条件句（If Dolenza had intended any such thing, Orden would eat his best hawking glove.）。
+
 **关键词：** the gods must be smiling（神明在微笑——讽刺口吻）；eat his best hawking glove（极端夸张的赌咒）
+
+**表达方式：** 用荒唐比喻（吃掉最好的猎鹰手套）表达「绝不可能」，得意与轻慢同时在场。
 
 **为什么这样写：** Orden 的内心独白揭示了他的算计——他完全不信 Fia"代表 Dolenza 献礼"的说法，认为这是 Ariana 搞的某种计谋。但 Fia 在众人面前跪下并说出那番话，实际上是在帮 Orden 挽回面子（"all of the Hand will see that Honoria stands united"）。Orden 敏锐地抓住了这个政治价值。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** 我想大家都站够了，他向众人喊道——因为如果他们再在 audience hall 待下去，他就再也忍不住不去理会地上的尸体，以及 Afon 的恶意目光如何不断转向 Ariana。
 
+**句子结构：** 直接引语 + because 原因从句（because if they stayed…he would cease to be able to ignore the prisoner’s body）。
+
 **关键词：** malevolent attention（恶意的注视）；swiveling to（转向——Afon 对 Ariana 的觊觎）
+
+**表达方式：** 体面的主持会议句式与不堪的内心理由被并置——命令说得漂亮，动机只是不忍看尸体。
 
 **为什么这样写：** 这是 Orden 压制怒火后的理性撤退。他不能让 Afon 的挑衅得逞（让 Afon 当众看自己杀俘虏已经够丢脸了），更不能让 Afon 继续盯着他产后虚弱的妻子。两个男人之间的张力在这里达到顶点——Orden 用宣布散席来结束这场公开的羞辱，同时转移注意力。
 

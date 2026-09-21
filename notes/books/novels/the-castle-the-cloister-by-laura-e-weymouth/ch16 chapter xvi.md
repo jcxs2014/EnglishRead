@@ -20,7 +20,11 @@ modified: "2026-09-21"
 
 **中文理解：** "我觉得你的首席御医正在杀死 Ariana。"
 
+**句子结构：** 主句（I think）+ 宾语从句（your chief physician is killing Ariana）。
+
 **关键词：** chief physician（首席御医——Crispus）；killing Ariana（正在杀死 Ariana——直接指控）
+
+**表达方式：** 一句直陈罪名，没有任何铺垫——宣判式判断留在最前面。
 
 **为什么这样写：** 这是 Fia 对 Orden 的直接揭露，打破了她作为"谦卑护士"的伪装。她选择直接告诉 Orden 而不是私下处理，说明她知道这件事的严重性已经超出了她能独自应对的范围。同时，"I think"这个措辞既保留了不确定性，又表达了强烈的道德立场——她相信自己的判断。
 
@@ -30,7 +34,11 @@ modified: "2026-09-21"
 
 **中文理解：** Orden 接受了挑战，用坚定的目光盯着 Crispus。"那好吧。让我们在诸神的意志下解决这个问题。有人说你是导致我王后虚弱的罪魁祸首。你声称自己不是。谁能把最多的石子扔进对面那个腐烂的树桩，谁就掌握真理，诸神站在他这边。"
 
+**句子结构：** 分词短语（fixing Crispus with an unwavering gaze）+ 引语三句（Very well, then. / Let us work within the will of the gods. / I’ve been told…）。
+
 **关键词：** work within the will of the gods（在诸神意志下工作——Inver 宗教裁决方式）；shy the most stones（投掷石子——Inver 的决斗/裁决方式）
+
+**表达方式：** 先锁定对手再开价，把刑讯包装成「遵循神意」——命令与信仰语壳同体。
 
 **为什么这样写：** Orden 用一种看似"公正"的仪式来掩盖他的 pre-determined 决定——他本来就要杀死 Crispus。这个 stone-skipping 决斗是 Inver 式的"神明裁决"，但实际上 Orden 早就确信 Crispus 有罪。这揭示了 Inver 文化的核心：他们把暴力包装在宗教仪式中，让杀戮看起来像是上天的判决而非个人的复仇。
 
@@ -40,7 +48,11 @@ modified: "2026-09-21"
 
 **中文理解：** "我想知道一切，"她说。"你怎么伤害 Ari 的。你这样做多久了。你为什么选择这样做。谁给你布置的任务。一切，明白吗？"
 
+**句子结构：** 直接引语 + 四个并列短问（How you hurt Ari. / How long you’ve been doing it. / Why you chose to. / Who set you the task.）+ 收束句（Everything, do you understand?）。
+
 **关键词：** How you hurt Ari（你怎么伤害 Ari——强调伤害的方式）；who set you the task（谁给你布置的任务——指向幕后主使）
+
+**表达方式：** 用不成句的清单式追问模拟逼供节奏，句句短促，最后一个 Everything 封口。
 
 **为什么这样写：** Fia 用 blooded touch 强迫 Crispus 服从并揭示真相。她的问题按照逻辑顺序排列：方式→时间→动机→主使。这展示了 Fia 作为前 Cloister 成员的专业性——她不只关心惩罚，更关心揭示系统性阴谋。这也揭示了她的核心价值观：她要的是真相和正义，而不只是复仇。
 
@@ -50,7 +62,11 @@ modified: "2026-09-21"
 
 **中文理解：** "我有昂贵的嗜好，"Crispus 承认。"喜欢赌博、追求精致物品，还有需要礼物才会来我床上的情人们。我没有祖传的土地，也没有能支持这些嗜好的丰厚收入。"
 
+**句子结构：** 直接引语 + 三项并列理由（A taste for games of chance, and fine things, and lovers…）+ and 否定并列（no ancestral lands, nor a lucrative trade…）。
+
 **关键词：** expensive habits（昂贵的嗜好——Crispus 的腐败根源）；games of chance（赌博）
+
+**表达方式：** 以自嘲口吻交代卖身理由，把受贿写成嗜好清单——自我暴露反而让供词更可信。
 
 **为什么这样写：** Crispus 的动机是纯粹的贪婪，不是政治阴谋或意识形态。他被收买（本章只提到 Vesperin 金币；后文揭示真正付钱的是 Caervallion——见第二十七章 Lucian 的自白）——这比任何政治动机都更真实、更人性。这也解释了为什么他是最容易被收买的目标：他已经在自己的腐败中越陷越深，需要钱来维持他的生活方式。
 
@@ -60,7 +76,11 @@ modified: "2026-09-21"
 
 **中文理解：** "我被秘密接触，"Crispus 继续说，"接触我的信使我从未见过他的脸和身形。我被付钱来损害王后。要让她保持虚弱、阻止她怀上继承人。我对月亮的孩子 Celina 失败了——我的一切努力都没能让她流产。我对王子也失败了，虽然他的双胞胎至少是死产。但他们不让我杀死 Ariana。只是让她变得脆弱、被自己的身体拖累。他们用 Vesperin 金币付给我。"
 
+**句子结构：** 直接引语 + by 方式短语（by a messenger whose face and form I never see）+ 两个目的不定式（to tamper with…/ to keep her weak and prevent…）。
+
 **关键词：** moon child（月亮的孩子——Celina 的 Inver 绰号）；Vesperin coin（Vesperin 金币——表面线索（后证明出资者是 Caervallion））
+
+**表达方式：** 用「看不见的信使」制造悬念，把政治阴谋描述成例行工作。
 
 **为什么这样写：** 这是全章最震撼的政治揭示：Crispus 不是单独的腐败，而是一个外国势力系统性阻止 Ariana 生育继承人的阴谋（表面线索指向 Vesperin，真凶为 Caervallion）。Celina 的"月亮孩子"身份得到确认（Orden 的女儿），而双胞胎和流产都是 Crispus 故意造成的。这个揭示让整个事件升级为国际政治阴谋，而不只是宫廷内部斗争。
 
@@ -70,7 +90,11 @@ modified: "2026-09-21"
 
 **中文理解：** "这是一种古老的才能，在修道院出现之前就存在了。传说 blooded touch 被滥用为暴力和统治，所以 Beloved Three 给了我们修道院和血的禁忌，让我们能在她们面前正确地行走。使用 blooded touch 被视为女神之子能做的最卑鄙的事，但 Raea 的追随者被允许以放血（shed blood）行医。有了 Crispus 的死，Ariana 会康复。"
 
+**句子结构：** 直接引语 + 名词性引述（The tale goes that…）+ and so 结果句（so the Beloved Three gave us the cloisters…）。
+
 **关键词：** the basest thing（最卑鄙的事——blooded touch 的污名）；Raea's permitted shedding（献血是 Raea 教团的特权）
+
+**表达方式：** 以「传说」开篇交代制度起源，把血禁写成一次惩罚的产物——信仰史在此带上阴影。
 
 **为什么这样写：** 这是关于 Raea 教团历史的最重要揭示之一：blooded touch 曾经被滥用，促成了三位女神建立修道院和 blood prohibition。Fia 展示的能力既是她的力量来源，也是她过去的阴影。她用这个能力杀死 Crispus 是"为了治愈"，这暗示了她的身份认同困境：她既是 Raea 的女儿（可以 shed blood to heal），又曾经被迫使用 blooded touch 进行 violence。
 
