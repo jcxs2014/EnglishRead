@@ -1,5 +1,5 @@
 ---
-title: The Canon of Solitude: 200 Years of Great Writers, Artists, and Scientists on the Creative and Spiritual Rewards of Fertile Aloneness
+title: "The Canon of Solitude: 200 Years of Great Writers, Artists, and Scientist"
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/17/solitude/
 published: Thu, 17 Sep 2026 12:41:24 +0000

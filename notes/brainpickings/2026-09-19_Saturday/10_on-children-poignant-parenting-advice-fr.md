@@ -1,5 +1,5 @@
 ---
-title: On Children: Poignant Parenting Advice from Kahlil Gibran
+title: "On Children: Poignant Parenting Advice from Kahlil Gibran"
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/16/on-children-kahlil-gibran/
 published: Wed, 16 Sep 2026 14:01:08 +0000

@@ -1,5 +1,5 @@
 ---
-title: You Have to Ask Questions: Svetlana Alexievich, Unlocked
+title: "You Have to Ask Questions: Svetlana Alexievich, Unlocked"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/09/14/you-have-to-ask-questions-svetlana-alexievich-unlocked/
 published: Mon, 14 Sep 2026 20:14:59 +0000

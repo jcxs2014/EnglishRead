@@ -1,5 +1,5 @@
 ---
-title: At the Conformation Show: Chasing the Ideal Dog
+title: "At the Conformation Show: Chasing the Ideal Dog"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/
 published: Thu, 03 Sep 2026 14:00:31 +0000

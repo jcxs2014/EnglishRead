@@ -1,5 +1,5 @@
 ---
-title: The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted
+title: "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs."
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/
 published: Fri, 18 Sep 2026 15:23:43 +0000

@@ -1,5 +1,5 @@
 ---
-title: A Poem Is Full of Meat: Dorothea Lasky on Mother
+title: "A Poem Is Full of Meat: Dorothea Lasky on Mother"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/09/04/a-poem-is-full-of-meat-dorothea-lasky-on-mother/
 published: Fri, 04 Sep 2026 14:00:10 +0000

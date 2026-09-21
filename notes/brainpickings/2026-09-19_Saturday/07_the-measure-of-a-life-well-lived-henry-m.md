@@ -1,5 +1,5 @@
 ---
-title: The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the Secret of Remaining Young at Heart
+title: "The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the"
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/17/henry-miller-on-turning-eighty/
 published: Thu, 17 Sep 2026 12:40:39 +0000

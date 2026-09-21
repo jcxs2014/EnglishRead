@@ -1,5 +1,5 @@
 ---
-title: Kiss The Ring: Richard Wagner’s Opera Festival in the Age of AI
+title: "Kiss The Ring: Richard Wagner's Opera Festival in the Age of AI"
 source: The Paris Review
 url: https://www.theparisreview.org/blog/2026/09/11/richard-wagners-opera-festival-in-the-age-of-ai/
 published: Fri, 11 Sep 2026 15:40:40 +0000

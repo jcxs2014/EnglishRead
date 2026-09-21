@@ -1,5 +1,5 @@
 ---
-title: Against the Cartesian Myth of Work/Life Balance: André Gregory’s Extraordinary Letter to Richard Avedon about the Nature of Creativity
+title: "Against the Cartesian Myth of Work/Life Balance: André Gregory's Extraordinary Letter to Richard Avedon about the Nature of Creativity"
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/18/andre-gregory-richard-avedon-letter/
 published: Fri, 18 Sep 2026 15:35:08 +0000

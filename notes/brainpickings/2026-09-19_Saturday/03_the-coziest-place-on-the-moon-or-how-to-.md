@@ -1,5 +1,5 @@
 ---
-title: The Coziest Place on the Moon: Or, How to Bear Your Loneliness
+title: "The Coziest Place on the Moon: Or, How to Bear Your Loneliness"
 source: Brain Pickings / The Marginalian
 url: https://www.themarginalian.org/2026/09/17/the-coziest-place-on-the-moon/
 published: Fri, 18 Sep 2026 02:54:15 +0000
