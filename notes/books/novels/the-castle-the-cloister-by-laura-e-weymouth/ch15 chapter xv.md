@@ -4,7 +4,7 @@ source_text: ch16
 modified: "2026-09-21"
 ---
 
-# XV. The Ghosts of Silith
+# 15. Chapter XV
 
 ## 本章导航
 
@@ -96,10 +96,7 @@ modified: "2026-09-21"
 | scathing | /ˈskeɪðɪŋ/ | 尖刻的 | Fia's scathing reply |
 | uncharacteristic | /ˌʌnkærəktəˈrɪstɪk/ | 一反常态的 | There's me, Fia said, in a moment of uncharacteristic leniency. |
 | grooves | /ɡruːvd/ | 有槽的 | But as they carried on, just outside the expansive ring of torches that hemmed the revelers in, Fia realized there were thick grooves scored in the rock of the sanctum floor—a path for touch, not for sight. |
-| shrewdness | /ˈʃruːdnəs/ | 精明，敏锐 | I have myself, and my daughter, and all the world stands against us.”
-
-
-“If you don’t have a cause, what brought you back to this mountain?” the Priest asked, with far too much shrewdness for Fia’s comfort. |
+| shrewdness | /ˈʃruːdnəs/ | 精明，敏锐 | I have myself, and my daughter, and all the world stands against us.” “If you don’t have a cause, what brought you back to this mountain?” the Priest asked, with far too much shrewdness for Fia’s comfort. |
 
 ### ⭐ 基础
 

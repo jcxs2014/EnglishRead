@@ -4,7 +4,7 @@ source_text: ch19
 modified: "2026-09-21"
 ---
 
-# XVIII. The Burning of Raea's House
+# 18. Chapter XVIII
 
 ## 本章导航
 

@@ -96,7 +96,7 @@ modified: "2026-09-21"
 
 **中文理解：** "你如果认罪会更好的，"Lucian 低声说。"是你的那个堕落星星承认了 Orden 的谋杀和她夺取王位的意图。"
 
-**句子结构：** 直接引语；lapsed star（堕落星星——对 Ariana 的贬称，因为她的 goddess-mark 已消退）
+**句子结构：** 直接引语（It was your lapsed star who owned...）+ 以 who 引导的定语从句 + 以 For years now 收束的私人议论。
 
 **关键词：** lapsed star（堕落的星星——讽刺 Ariana 曾经是 Lyria 的信徒）；owned Orden's murder（承认了 Orden 的谋杀——Ariana 声称是她杀的）
 
@@ -257,20 +257,6 @@ modified: "2026-09-21"
 **表达方式：** Fia 的要求是精心设计的一揽子计划——每个"我想要"都对应一个具体行动。
 
 **为什么这样写：** Fia 提出了具体的交易：Priest 成为 regent，换取 Raea 教派的支持和 Honoria 的稳定。这不是逃跑，而是争夺控制权。
-
----
-
-> **原句 18:** "'Not a king,' Fia said, relentless in her demands. 'I want a regent. I want a stable Honoria, and no civil war to come from all of this. I want Afon thwarted, and Ariana safe. Which means you standing against Lucian and whoever else grasps at power, and claiming the throne on Justus's behalf.'"
-
-**中文理解：** "不是国王，"Fia 说，在她的要求中毫不退让。"我想要摄政王。我想要稳定的 Honoria，以及不因这一切引发内战。我想要 Afon 被阻止，Ariana 安全。这意味着你要站出来对抗 Lucian 和任何争夺权力的人，以 Justus 的名义宣称王位。"
-
-**句子结构：** Not a king（否定词） + I want...的并列结构 + Which means...的结果句。
-
-**关键词：** Not a king（不是国王——Fia 明确她不要求 Priest 成为国王）；relentless in her demands（在她的要求中毫不退让——Fia 的坚持）
-
-**表达方式：** Fia 的"not a king"是精确的用词——她要的是摄政王（为婴儿国王服务），而不是国王本人。这降低了 Priest 的接受门槛。
-
-**为什么这样写：** Fia 理解 Priest 不想成为国王——所以她提出的是摄政王的位置，服务于 Justus。这比"成为国王"更容易接受，但实质上是相同的权力。
 
 ## 本章词汇
 

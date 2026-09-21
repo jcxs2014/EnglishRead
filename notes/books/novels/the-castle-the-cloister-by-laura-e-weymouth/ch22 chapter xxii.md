@@ -106,15 +106,15 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "'Can't let you through,' one of them said, half apologetic. 'Magistrate's orders.'"
+> **原句 7:** "'Can't let you through,' one of them said, half apologetically. 'Magistrate's orders.'"
 
 **中文理解：** "不能让你过去，"其中一个说，语气近乎歉意。"法官的命令。"
 
-**句子结构：** 直接引语 + half apologetic 描述语气 + Magistrate's orders 名词所有格。
+**句子结构：** 直接引语 + half apologetically 描述语气 + Magistrate's orders 名词所有格。
 
 **关键词：** Can't let you through（不能让你过去——物理拦截）；Magistrate's orders（法官的命令——Lucian 的权力）
 
-**表达方式：** "half apologetic"暗示警卫对 Priest 有所尊重，但必须执行命令。
+**表达方式：** "half apologetically"暗示警卫对 Priest 有所尊重，但必须执行命令。
 
 **为什么这样写：** "Magistrate"是 Lucian——他在 Orden 死后立刻接管了权力。Priest 被拦截意味着他被困在 cave 系统内。
 
@@ -130,7 +130,7 @@ modified: "2026-09-21"
 
 **表达方式：** "the writing was on the wall"是习语，暗示某种不可逆转的命运。
 
-**为什么这样写：** 这是全章最揭示Lucian性格的段落——他支持 Orden 是因为认为他会赢，但现在后悔了。他是一个纯粹的机会主义者。
+**为什么这样写：** 这是全章最能揭示 Lucian 性格的段落——他支持 Orden 是因为认为他会赢，但现在后悔了。他是一个纯粹的机会主义者。
 
 ---
 
@@ -226,7 +226,7 @@ modified: "2026-09-21"
 
 **关键词：** back you in requesting（支持你请求——Lucian 承诺在继承问题解决后帮助 Priest）；plains witch（平原女巫——对 Fia 的贬称）
 
-**表达方式：** "quick death for Ariana"是 Lucian 所谓的"仁慈"——实际上是将她献祭，但让他快速死亡。
+**表达方式：** "quick death for Ariana"是 Lucian 所谓的"仁慈"——实际上是将她献祭，但让她快速死亡。
 
 **为什么这样写：** Lucian 的交易是用 Ariana 的"快速死亡"换取 Priest 的合作——Priest 必须成为 kingmaker 才能救 Fia，但 Ariana 必须死。
 
@@ -270,10 +270,7 @@ modified: "2026-09-21"
 | hubris | /ˈhjuːbrɪs/ | 傲慢、狂妄 | …it was hubris for the spymaster to think he might do so now… |
 | nefarious | /nɪˈfeəriəs/ | 邪恶的 | …never allowed himself to fall under Lucian's nefarious sway… |
 | revolting | /rɪˈvəʊltɪŋ/ | 令人厌恶的 | Everything within the Priest was revolting. |
-| enticement | /ɪnˈtaɪsmənt/ | 诱惑、诱饵 | And I have something to offer as an enticement, which I don’t think you’ll be able to refuse.”
-
-
-“Try me,” the Priest said. |
+| enticement | /ɪnˈtaɪsmənt/ | 诱惑、诱饵 | And I have something to offer as an enticement, which I don’t think you’ll be able to refuse.” “Try me,” the Priest said. |
 
 ### ⭐⭐ 进阶
 

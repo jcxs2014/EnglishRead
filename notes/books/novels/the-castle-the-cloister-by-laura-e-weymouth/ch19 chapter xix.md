@@ -182,11 +182,11 @@ modified: "2026-09-21"
 
 **句子结构：** But 开头 + 时间状语从句 + 主句；it was apparent that... 主语从句。
 
-**关键词：** Silithien hymn for the dead（Silithien 悼亡曲——Silith 是 Inver 的战神/死神）；mellow baritone（醇厚男中音）
+**关键词：** Silithien hymn for the dead（Silithien 悼亡曲——Tyrus 是 Inver 的战神、Mortis 掌死亡与审判（Silith 属三圣的月神））；mellow baritone（醇厚男中音）
 
 **表达方式：** "should have guessed"暗示 Fia 本应预见这个错误——Priest 只知道 Inver 文化中的宗教歌曲。
 
-**为什么这样写：** 这是全章最意味深长的细节之一：Priest 向太阳女神 Raea 献上了为死神 Silith 编写的悼亡曲——两种信仰体系的碰撞以误配告终，却也意外产生了某种和声。
+**为什么这样写：** 这是全章最意味深长的细节之一：Priest 向太阳女神 Raea 献上了为 Inver 神系编写的悼亡曲（Tyrus 战神 / Mortis 死神；Silith 属三圣）——两种信仰体系的碰撞以误配告终，却也意外产生了某种和声。
 
 ---
 
@@ -210,11 +210,11 @@ modified: "2026-09-21"
 
 **句子结构：** 并列结构 wish to commission...and for...；afterward 副词引出结果。
 
-**关键词：** commission（委托——正式用词，商业化描述刺杀）；Silas may take the Inver throne（Silas 可以继承王位——Gileta 背后是 Silas 的势力）
+**关键词：** commission（委托——正式用词，商业化描述刺杀）；Silas may take the Inver throne（Silas 可以继承王位——Gileta 是把王位作为血价送给 Priest 本人（Silas 即 Priest，不是第三方势力））
 
 **表达方式：** Gileta 用"commission"一词将政治谋杀描述为商业交易，语气平静如同订购货物。
 
-**为什么这样写：** 这是 Gileta 第一次明确表达目标：Orden 死，Silas 继位。她需要 Priest 做刺客，Fia 做掩护。
+**为什么这样写：** 这是 Gileta 第一次明确表达目标：Orden 死，Silas 继位。她需要 Priest 做那个接下王位的受益者，Fia 做掩护。
 
 ---
 
@@ -298,7 +298,7 @@ modified: "2026-09-21"
 
 **表达方式：** 描述 Priest 在祭坛前的祈祷——他向 Raea 祈求什么，读者无从得知。
 
-**为什么这样写：** 这个细节是 Priest 宗教情感的罕见流露——在 Gileta 当面提议他杀兄后，他在 Raea 面前沉默祈祷，表明内心的挣扎。
+**为什么这样写：** 这个细节是 Priest 宗教情感的罕见流露——在 Gileta 当面提议之前的沉默祈祷，他在 Raea 面前沉默祈祷，表明内心的挣扎。
 
 ---
 
@@ -372,13 +372,13 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 26:** "Blood welled in the cup of her unmarked palms. It pooled in her hands and dripped from her fingers as she twisted them into the fabric of her shift in an agony of frustration."
+> **原句 26:** "And then, like a spring from dry earth, blood welled in the cup of her unmarked palms. It pooled in her hands and dripped from her fingers as she twisted them into the fabric of her shift in an agony of frustration."
 
 **中文理解：** 血从她没有印记的手掌中涌出。它在她手中聚集，从她的手指滴落，当她将它拧进衬衫的布料中时，满是挫折的痛苦。
 
 **句子结构：** 主句 + as 时间从句；in an agony of frustration 作方式/状态状语。
 
-**关键词：** unmarked palms（没有印记的手掌——Fia 的 Raean 身份标记是她的brand，这里指没有战神 Silith 的印记）；welled（涌出——血液的动力学）；an agony of frustration（挫折的痛苦——Fia 对被强迫服从的愤怒）
+**关键词：** unmarked palms（没有印记的手掌——Fia 的 Raean 身份标记是她的brand，这里指掌心没有神印（Fia 的太阳印在颈后；Silith 是月神而非 Inver 战神））；welled（涌出——血液的动力学）；an agony of frustration（挫折的痛苦——Fia 对被强迫服从的愤怒）
 
 **表达方式：** 用"welled/pooled/dripped"三个递进动词描写血液的流动。
 
@@ -400,7 +400,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 28:** "'Are you all right?' the Priest asked, with an intensity so focused she felt scorched by it. 'Is the prince safe? I swear by Mortis, if anyone touched you, they'll be dead before dawn.'"
+> **原句 28:** "'Are you all right?' the Priest asked, with an intensity so focused she felt scorched by it. … 'Is the prince safe? I swear by Mortis, if anyone touched you, they'll be dead before dawn.'"
 
 **中文理解：** "你还好吗？"Priest 问道，专注的强度如此之大以至于她感到被其炙烤。"王子安全吗？我以 Mortis 之名起誓，如果有人碰了你，他们在黎明之前就会死。"
 
@@ -512,7 +512,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 36:** "'Do you want me to?'"
+> **原句 36:** "Do you want me to?”"
 
 **中文理解：** "你想要我（杀 Orden）吗？"
 
@@ -582,7 +582,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 41:** "All Fia's broken and fearful pieces—the child who'd cowered before her mother's temper and nursed bruises and broken bones, the sister who'd watched her siblings die one by one—fought furiously for retreat."
+> **原句 41:** "A part of her fought furiously for retreat. All Fia's broken and fearful pieces—the child who'd cowered before her mother's temper and nursed bruises and broken bones."
 
 **中文理解：** Fia 所有破碎而恐惧的部分——那个在母亲脾气前蜷缩过、承受过淤青和骨折的孩子，那个眼睁睁看着兄弟姐妹一个个死去的姐姐——拼命地争取撤退。
 

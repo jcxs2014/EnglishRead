@@ -4,7 +4,7 @@ source_text: ch14
 modified: "2026-09-21"
 ---
 
-# XIII. The Priest and the Queen
+# 13. Chapter XIII
 
 ## 本章导航
 
@@ -92,10 +92,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | anchored | /ˈæŋkə(r)/ | 抛锚；稳定 | Only awareness of the prince in his arms anchored the Priest as Ariana spoke. |
 | insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Frankly, it is an insult to our forefathers that he was permitted to live. |
-| needle | /ˈniːdl/ | 针 | You’ll have to turn.”
-
-
-“I’m not—Silith’s pearl, Priest, if you needle me today, you’ll regret it. |
+| needle | /ˈniːdl/ | 针 | You’ll have to turn.” “I’m not—Silith’s pearl, Priest, if you needle me today, you’ll regret it. |
 | shift | /ʃɪft/ | 转移，换 | Instead, she was the sea that rose and fell, that wooed and raged, that gave life or stole it with a single shift of mood. |
 | braid | /breɪd/ | 编辫子 | Her skin was ever so slightly damp with sweat, the heavy rope of her braid rough against the back of his hand, but it was the sunburst goddess mark she’d drawn him to. |
 

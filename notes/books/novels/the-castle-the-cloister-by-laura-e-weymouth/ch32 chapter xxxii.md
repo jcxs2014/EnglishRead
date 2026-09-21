@@ -120,7 +120,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 8:** "'If you pity me, then stay.' Fia let out a wistful sigh. 'You know I can't.'"
+> **原句 8:** "'Priest, regent, and nurse as well,' Fia said with low humor. 'You'll never sleep.' 'If you pity me, then stay.' Fia let out a wistful sigh. 'You know I can't.'"
 
 **中文理解：** "如果你可怜我，那就留下。"Fia 怅然地叹了口气。"你知道我不能。"
 
@@ -174,7 +174,7 @@ modified: "2026-09-21"
 
 **表达方式：** 作者用"光被吞没"完成 Ariana 的意象闭环：她一直是"星的女儿"，此刻连星也要熄灭。语言借用光的物理，写信仰的破产。
 
-**为什么这样写：** 这段交代了她七年努力的结果：她保住了 Orden 的命，却没保住他的人性；她维系了和平，却没能保住自己。她的绝望是有账可算的。
+**为什么这样写：** 这段交代了她七年努力的结果：她七年拒绝动手，却终究由自己端上了那杯毒酒；她维系了和平，却没能保住自己。她的绝望是有账可算的。
 
 ---
 
@@ -298,7 +298,7 @@ modified: "2026-09-21"
 
 **句子结构：** So 引导的编年史式总结句，两个并列分句（reign...ended / exile...began）。
 
-**关键词：** the reign...ended（统治结束）；the exile...began（流亡开始）；Lieryen queen（Lyrien 王后）
+**关键词：** the reign...ended（统治结束）；the exile...began（流亡开始）；Lyrien queen（Lyria 教团的王后）
 
 **表达方式：** 作者以史书写法收束本章——用"王后"与"遗孀"两个称谓的交替，标记身份的更替；一句里完成王朝叙事与个人命运的双重转场。
 

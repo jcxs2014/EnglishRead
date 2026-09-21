@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch02
 ---
 
-# Chapter I. One for the Sun
+# 1. Chapter I
 
 ## 本章导航
 
@@ -51,7 +51,7 @@ source_text: ch02
 **关键词**：
 - security：安全感（对应山中"苦难"）
 - potential：可能性（暗示 Fia 的自我期待）
-- safety：安心（与开篇"白色山丘"创伤回忆形成镜像）
+- safety：安全（与本章开头"群山仍萦绕着她"的创伤记忆形成镜像）
 
 **表达方式**：排比结构（security / potential / safety）逐层递进收窄，从抽象到具体，从外在保护到内在感受。
 
@@ -71,7 +71,9 @@ source_text: ch02
 
 **表达方式**：独白式引语——Fia 对婴儿说话，实为自我独白；双层"not today"制造紧张感，暗示今天将有重大事件。
 
-**读者视角提示**：这句话在宣誓前一天说出，其"命运"预感的回响贯穿整章。"tempt fate"的民俗意象暗示 Fia 的潜意识里知道今天不会顺利。
+**为什么这样写**：把"试探命运"安排在宣誓当天的清晨，是作者给全章装的第一颗引信——读者原以为这是母亲对婴儿的絮语，直到灾难降临才明白这句话的分量。Fia 的迷信不是软弱，而是她与命运打交道的经验方式。
+
+**读者视角提示**：这句话在宣誓当天的清晨说出，其"命运"预感的回响贯穿整章。"tempt fate"的民俗意象暗示 Fia 的潜意识里知道今天不会顺利。
 
 ---
 
@@ -92,7 +94,7 @@ source_text: ch02
 
 ---
 
-> **原句 5:** "Never. I go nowhere without my child,"
+> **原句 5:** "Never. I go nowhere without my child,” she snapped."
 
 **中文理解**："绝不。我到哪儿都不能没有我的孩子。"她厉声说。
 
@@ -108,7 +110,7 @@ source_text: ch02
 
 ---
 
-> **原句 6:** "A three-day errand," Matria Dolenza assured her. She took up the letter she'd been writing when Fia came in and held it out. "A mule is already waiting for you. Soria Beatrice will take charge of Miriel. You're to travel to Inverlyn and deliver this note into the hands of our little foster Celina's mother, mistress of all Honoria."
+> **原句 6:** "A three-day errand," Matria Dolenza assured her. She took up the letter she'd been writing when Fia came in and held it out. … "A mule is already waiting for you. Soria Beatrice will take charge of Miriel. You're to travel to Inverlyn and deliver this note into the hands of our little foster Celina's mother, mistress of all Honoria."
 
 **中文理解**："三天的小差事，"Dolenza 确认道。她拿起 Fia 进门前一直在写的信，递了出来。"一头骡子已经备好。Soria Beatrice 会照顾 Miriel。你要赶往 Inverlyn，把这封信亲手交给我们的小被监护人 Celina 的母亲——全奥维亚的女主人。"
 

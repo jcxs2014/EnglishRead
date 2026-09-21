@@ -4,7 +4,7 @@ source_text: ch09
 modified: "2026-09-21"
 ---
 
-# VIII. The King and the Keep
+# 8. Chapter VIII
 
 ## 本章导航
 
@@ -26,7 +26,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 2:** "Orden would not harm his star unless there was no other choice. So instead of acknowledging what Afon had done, he turned aside and found rescue in a most unexpected place. The infant prince in his arms began to squall."
+> **原句 2:** "Orden would not harm his star unless there was no other choice. So instead of acknowledging what Afon had done, he turned aside and found rescue in a most unexpected place. The infant prince in his arms began to squall, the reedy, insistent sound of his cries echoing back from the stone walls."
 
 **中文理解：** Orden 不会伤害他的星辰，除非万不得已。于是他没有回应 Afon 的所作所为，而是转向了最意想不到的救兵——怀里的新生王子开始大哭。
 

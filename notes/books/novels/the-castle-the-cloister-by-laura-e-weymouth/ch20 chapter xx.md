@@ -106,7 +106,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "'What is it?' Orden asked."
+> **原句 7:** "What is it?” Orden asked."
 
 **中文理解：** "怎么了？"Orden 问道。
 
@@ -154,9 +154,9 @@ modified: "2026-09-21"
 
 **句子结构：** 两个直接引语 + 主句 with 独立主格结构。
 
-**关键词：** You are my life（你就是我的生命——Orden 的爱的宣言）；pressed a kiss to it（印下一吻——Ariana 的回应是仪式性的爱）
+**关键词：** You are my life（你就是我的生命——Ariana 对 Orden 说的话）；pressed a kiss to it（印下一吻——她一边说一边做，语气近乎自我催眠）
 
-**表达方式：** Ariana 用行动回应他的言语——她吻他的手，但内心知道这些话是谎言。
+**表达方式：** Ariana 一边说一边吻他的手——她吻他的手，但内心知道这些话是谎言。
 
 **为什么这样写：** 这对夫妻的物理互动（她吻他的手）与他即将透露的计划形成尖锐对比——他要把她的女神变成 Inver 战神的附庸。
 
@@ -348,10 +348,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | dispiritedly | /dɪˈspɪrɪtɪdli/ | 沮丧地 | "A travel hymn," Ariana said dispiritedly. |
 | patting | /ˈpætɪŋ/ | 轻拍 | …patting the baby until he soothed. |
-| vehemently | /ˈviːəməntli/ | 激烈地，强烈地 | It’s a generous idea, Orden, but impossible.”
-
-
-“I am king,” he said vehemently, leaning forward. |
+| vehemently | /ˈviːəməntli/ | 激烈地，强烈地 | It’s a generous idea, Orden, but impossible.” “I am king,” he said vehemently, leaning forward. |
 | fidelity | /fɪˈdeləti/ | 忠诚；忠贞 | There seems to be some reluctance on Dolenza’s part, to hear her fidelity oath. |
 
 ### ⭐ 基础

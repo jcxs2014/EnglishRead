@@ -178,7 +178,7 @@ modified: "2026-09-21"
 
 > **原句 12:** "'Didn't expect to see you return,' Glora said with surprising satisfaction. 'But you've dealt fairly with our little prince, so I'm not sorry you're back.'"
 
-**中文理解：** "没想到会看到你回来，"Glora 说，语气带着令人惊讶的满意。"但你对我们的小王子照顾得很公平，所以你不回来我并不遗憾。"
+**中文理解：** "没想到会看到你回来，"Glora 说，语气带着令人惊讶的满意。"但你对我们的小王子照顾得很公平，所以你回来我并不遗憾。"
 
 **句子结构：** 两个直接引语；so 连接的因果结构。
 
@@ -266,11 +266,11 @@ modified: "2026-09-21"
 
 **句子结构：** While 并列结构 + Fia shared it with her at its peak。
 
-**关键词：** the lightless sanctuary（没有光线的圣所——Inver 对 Lyria 的崇拜在黑暗中）；at its peak（在山顶——Fia 在 Raea 修道院的高处）
+**关键词：** the lightless sanctuary（没有光线的圣所——Inver 对 Lyria 的崇拜在黑暗中）；at its peak（在山巅——行队回到 Inverlyn 后，Fia 在同一座山的巅峰守夜）
 
-**表达方式：** "While Ariana...Fia shared it with her"——两个女人在不同的山峰上同时 vigils，遥遥相望却无法相见。
+**表达方式：** "While Ariana...Fia shared it with her"——两个女人在同一座山的巅峰与山脊上同时 vigils，遥遥相望却无法相见。
 
-**为什么这样写：** 这是全章最有力的结构对比：Ariana 在黑暗中为 Inver 神灵守夜，而 Fia 在 Raea 的阳光下同时守夜。她们都在为自己的信仰做最后的挣扎。
+**为什么这样写：** 这是全章最有力的结构对比：Ariana 在黑暗中为 Inver 神灵守夜，而 Fia 在同一夜的山巅守夜。她们都在为自己的信仰做最后的挣扎。
 
 ---
 
@@ -316,7 +316,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 22:** "'Your Majesty,' Fia called, her voice perfectly even. 'How can I be of service?'"
+> **原句 22:** "'Your Majesty?' Fia called, her voice perfectly even. 'How can I be of service?'"
 
 **中文理解：** "陛下，"Fia 叫道，她的声音完全平稳。"我能为您效劳吗？"
 

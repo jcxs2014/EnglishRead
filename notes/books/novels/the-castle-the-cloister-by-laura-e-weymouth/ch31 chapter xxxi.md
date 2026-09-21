@@ -64,7 +64,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 4:** "'Then I will be a true martyr,' Lynette said, her heartbreakingly sweet smile returning. 'If our faith requires a martyr to die for peace, and Ariana is peace to you, that is enough for me.'"
+> **原句 4:** "'Then I will be a true martyr,' Lynette said, her heartbreakingly sweet smile returning. … 'If our faith requires a martyr to die for peace, and Ariana is peace to you, that is enough for me.'"
 
 **中文理解：** "那我就做一个真正的殉道者，"Lynette 说，那令人心碎的甜美笑容又回来了。"如果我们的信仰需要一位殉道者为和平而死，而 Ariana 对你而言就是和平，那对我就足够了。"
 
@@ -78,7 +78,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "'I want this,' Lynette insisted. 'And Ariana does not deserve to die.' … 'No. But neither do you.'"
+> **原句 5:** "'I want this,' Lynette insisted. 'And Ariana does not deserve to die.' … Laying hold of that, Fia shook her head. 'No. But neither do you.'"
 
 **中文理解：** "这是我想要的，"Lynette 坚持道。"而且 Ariana 不该死。"……"对。但你也不该。"
 

@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch03
 ---
 
-# Chapter II. A Preventive for Those Who Dwell in Darkness
+# 2. Chapter II
 
 ## 本章导航
 

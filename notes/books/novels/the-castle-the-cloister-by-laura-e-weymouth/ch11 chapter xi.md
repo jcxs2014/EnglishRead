@@ -4,7 +4,7 @@ source_text: ch12
 modified: "2026-09-21"
 ---
 
-# XI. The Secret Stair
+# 11. Chapter XI
 
 ## 本章导航
 
@@ -22,7 +22,7 @@ modified: "2026-09-21"
 
 **关键词：** necessity forced her hand（必要性迫使她妥协）；put to breast（哺乳）；parted from Celina（与 Celina 的分离——产后被迫放弃女儿的心理创伤）
 
-**为什么这样写：** 这句话浓缩了 Ariana 作为母亲的全部悲剧：她被迫放弃大女儿 Celina（因为 star-marked），现在又被迫亲自哺乳小儿子。产后激素波动加上被迫放弃 previous children 的记忆同时涌来，让她"tears spilled over"。这是 Ariana 产后抑郁的最直接表达。
+**为什么这样写：** 这句话浓缩了 Ariana 作为母亲的全部悲剧：她被迫放弃大女儿 Celina（因为 goddess-marked（Celina 是 Silith 的月印，非星印；星印是 Lyria 一系）），现在又被迫亲自哺乳小儿子。产后激素波动加上被迫放弃 previous children 的记忆同时涌来，让她"tears spilled over"。这是 Ariana 产后抑郁的最直接表达。
 
 ---
 
@@ -52,7 +52,7 @@ modified: "2026-09-21"
 
 **关键词：** felt like a ghost（像幽灵一样——产后身体虚脱的极端描述）；a supreme effort（极度的努力——"挣扎着清醒"这个动作的代价）
 
-**为什么这样写：** Ariana 的产后状态已经从身体虚弱升级到了存在感消散——"ghost"这个意象呼应了第七章 Priest sanctuary 里的"ghost"意象。她dozed的同时还在哺乳，这是极度虚弱的标志，而"stirred with what felt like a supreme effort"说明她清醒过来需要比平时更大的意志力。
+**为什么这样写：** Ariana 的产后状态已经从身体虚弱升级到了存在感消散——"ghost"这个意象呼应了第二、六、九章里 Priest 洞穴中的 ghost（第七章原文并无 ghost 一词）。她dozed的同时还在哺乳，这是极度虚弱的标志，而"stirred with what felt like a supreme effort"说明她清醒过来需要比平时更大的意志力。
 
 ---
 

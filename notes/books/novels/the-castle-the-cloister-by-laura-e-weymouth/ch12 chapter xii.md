@@ -4,7 +4,7 @@ source_text: ch13
 modified: "2026-09-21"
 ---
 
-# XII. The Faithful District
+# 12. Chapter XII
 
 ## 本章导航
 

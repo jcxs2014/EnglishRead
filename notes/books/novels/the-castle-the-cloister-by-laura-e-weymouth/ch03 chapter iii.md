@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch04
 ---
 
-# Chapter III. The Fields, the Fields
+# 3. Chapter III
 
 ## 本章导航
 
@@ -75,9 +75,9 @@ source_text: ch04
 
 ---
 
-> **原句 4:** "I don't care about Gileta,"
+> **原句 4:** "I don’t care about Gileta,” he said. “Not when it really comes down to it. I would not care for Afon, either, if he did not plague me so. The only person I think of is you, my star. Whether you’re happy or not, and willing to stand by me. Can you do so still?”"
 
-**中文理解**："我不在乎 Gileta。真正到了紧要关头，我不在乎。至于 Afon，如果他不来烦我，我也懒得理他。我唯一在意的人是你，我的星辰。你是否快乐，是否愿意站在我身边。"
+**中文理解**："我不在乎 Gileta。真正到了紧要关头，我不在乎。至于 Afon，如果他不来烦我，我也懒得理他。我唯一在意的人是你，我的星辰。你是否快乐，是否愿意站在我身边。你能做到吗？"
 
 **句子结构**：三段排比否定（I don't care... / I would not care... / The only person I think of is you）+ 称呼（my star）。
 
@@ -93,7 +93,7 @@ source_text: ch04
 
 > **原句 5:** "I promise you. On my life, on our gods, on this child I'm bringing into the world, I remember where my heart lies. I could never forget."
 
-**中文理解**：Ariana 闭上眼睛，什么也没说，当他再次扶她回到床上时。……"我向你承诺。以我的生命，以我们的神，以我正在带到世上的这个孩子，我知道我的心在哪里。我永远不会忘记。"
+**中文理解**："我向你承诺。以我的生命，以我们的神，以我正在带到世上的这个孩子，我知道我的心在哪里。我永远不会忘记。"
 
 **句子结构**：叙述（Ariana shut her eyes）+ 直接引语（I promise you...）+ 誓言结构（On my life, on our gods, on this child）。
 

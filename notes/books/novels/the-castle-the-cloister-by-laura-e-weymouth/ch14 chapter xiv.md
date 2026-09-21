@@ -4,7 +4,7 @@ source_text: ch15
 modified: "2026-09-21"
 ---
 
-# XIV. Blood and Fire
+# 14. Chapter XIV
 
 ## 本章导航
 
@@ -32,7 +32,7 @@ modified: "2026-09-21"
 
 **关键词：** It won me a king（它为我赢得了一个国王）；I chose it（是我自己选择的——主动选择而非被迫)
 
-**为什么这样写：** 这是全章最震撼的揭示：Ariana 的火焰印记不是被迫的，而是她主动选择的。她用自己身体的疤痕换取了与 Orden 的婚姻和权力。这个回答与她之前在 Chapter XI 中说"不得不"形成了鲜明对比——她在不同场合对不同人讲述不同的真相版本。
+**为什么这样写：** 这是全章最震撼的揭示：Ariana 的火焰印记不是被迫的，而是她主动选择的。她用自己身体的疤痕换取了与 Orden 的婚姻和权力。这个回答与她在第九章中曾说自己的印记已被烧去（本章"我选择了它"首次点明那是自愿）形成了鲜明对比——她在不同场合对不同人讲述不同的真相版本。
 
 ---
 
@@ -56,7 +56,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "'If I am a flame, I am one that was kindled by your fire,'"
+> **原句 5:** "'If I am a flame, I am one that was kindled by your fire.'"
 
 **中文理解：** 如果我是一团火焰，那也是被你的火焰点燃的。
 

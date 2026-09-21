@@ -4,7 +4,7 @@ source_text: ch17
 modified: "2026-09-21"
 ---
 
-# XVI. The King and the Keep
+# 16. Chapter XVI
 
 ## 本章导航
 
@@ -36,7 +36,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 3:** "I want to know everything," she said. "How you hurt Ari. How long you've been doing it. Why you chose to do it. Who set you the task. Everything, do you understand?"
+> **原句 3:** "I want to know everything," she said. "How you hurt Ari. How long you've been doing it. Why you chose to. Who set you the task. Everything, do you understand?"
 
 **中文理解：** "我想知道一切，"她说。"你怎么伤害 Ari 的。你这样做多久了。你为什么选择这样做。谁给你布置的任务。一切，明白吗？"
 
@@ -52,7 +52,7 @@ modified: "2026-09-21"
 
 **关键词：** expensive habits（昂贵的嗜好——Crispus 的腐败根源）；games of chance（赌博）
 
-**为什么这样写：** Crispus 的动机是纯粹的贪婪，不是政治阴谋或意识形态。他被收买只是因为 Vesperin 给了他无法拒绝的钱——这比任何政治动机都更真实、更人性。这也解释了为什么他是最容易被收买的目标：他已经在自己的腐败中越陷越深，需要钱来维持他的生活方式。
+**为什么这样写：** Crispus 的动机是纯粹的贪婪，不是政治阴谋或意识形态。他被收买（本章只提到 Vesperin 金币；后文揭示真正付钱的是 Caervallion——见第二十七章 Lucian 的自白）——这比任何政治动机都更真实、更人性。这也解释了为什么他是最容易被收买的目标：他已经在自己的腐败中越陷越深，需要钱来维持他的生活方式。
 
 ---
 
@@ -60,15 +60,15 @@ modified: "2026-09-21"
 
 **中文理解：** "我被秘密接触，"Crispus 继续说，"接触我的信使我从未见过他的脸和身形。我被付钱来损害王后。要让她保持虚弱、阻止她怀上继承人。我对月亮的孩子 Celina 失败了——我的一切努力都没能让她流产。我对王子也失败了，虽然他的双胞胎至少是死产。但他们不让我杀死 Ariana。只是让她变得脆弱、被自己的身体拖累。他们用 Vesperin 金币付给我。"
 
-**关键词：** moon child（月亮的孩子——Celina 的 Inver 绰号）；Vesperin coin（Vesperin 金币——外国势力干预）
+**关键词：** moon child（月亮的孩子——Celina 的 Inver 绰号）；Vesperin coin（Vesperin 金币——表面线索（后证明出资者是 Caervallion））
 
-**为什么这样写：** 这是全章最震撼的政治揭示：Crispus 不是单独的腐败，而是一个外国势力（Vesperin）系统性试图阻止 Ariana 生育继承人的阴谋。Celina 的"月亮孩子"身份得到确认（Orden 的女儿），而双胞胎和流产都是 Crispus 故意造成的。这个揭示让整个事件升级为国际政治阴谋，而不只是宫廷内部斗争。
+**为什么这样写：** 这是全章最震撼的政治揭示：Crispus 不是单独的腐败，而是一个外国势力系统性阻止 Ariana 生育继承人的阴谋（表面线索指向 Vesperin，真凶为 Caervallion）。Celina 的"月亮孩子"身份得到确认（Orden 的女儿），而双胞胎和流产都是 Crispus 故意造成的。这个揭示让整个事件升级为国际政治阴谋，而不只是宫廷内部斗争。
 
 ---
 
 > **原句 6:** "'It's an old talent, from before the cloisters even. The tale goes that the blooded touch was misused, for violence and domination, and so the Beloved Three gave us the cloisters and our blood prohibition to enable us to walk rightly before them. To use the blooded touch is considered the basest thing a child of the goddesses can do, but followers of Raea are permitted to shed blood in order to heal. With Crispus gone, Ariana will heal.'"
 
-**中文理解：** "这是一种古老的才能，在修道院出现之前就存在了。传说 blooded touch 被滥用为暴力和统治，所以 Beloved Three 给了我们修道院和血的禁忌，让我们能在她们面前正确地行走。使用 blooded touch 被视为女神之子能做的最卑鄙的事，但 Raea 的追随者被允许通过献血来治愈。有了 Crispus 的死，Ariana 会康复。"
+**中文理解：** "这是一种古老的才能，在修道院出现之前就存在了。传说 blooded touch 被滥用为暴力和统治，所以 Beloved Three 给了我们修道院和血的禁忌，让我们能在她们面前正确地行走。使用 blooded touch 被视为女神之子能做的最卑鄙的事，但 Raea 的追随者被允许以放血（shed blood）行医。有了 Crispus 的死，Ariana 会康复。"
 
 **关键词：** the basest thing（最卑鄙的事——blooded touch 的污名）；Raea's permitted shedding（献血是 Raea 教团的特权）
 
@@ -82,10 +82,7 @@ modified: "2026-09-21"
 |------|------|------|------|
 | pugio | /ˈpjuːdʒiəʊ/ | 匕首；短剑（Inver 武器） | the sheath and pugio from around his forearm |
 | supplicant | /ˈsʌplɪkənt/ | 祈求者；恳求者 | Crispus fell into the position of a supplicant |
-| effrontery | /ɪˈfrʌntəri/ | 厚颜无耻 | What possible purpose could it serve, making her bleed?”
-
-
-Crispus sputtered, and his effrontery, in Orden’s opinion, was overdone. |
+| effrontery | /ɪˈfrʌntəri/ | 厚颜无耻 | What possible purpose could it serve, making her bleed?” Crispus sputtered, and his effrontery, in Orden’s opinion, was overdone. |
 | spymaster | /ˈspaɪmɑːstə(r)/ | 间谍头子 | The spymaster was still chafing over it, which pleased Orden greatly, even as it annoyed him to have Afon’s emissary prove the craftier. |
 | encampment | /ɪnˈkæmpmənt/ | 营地；营寨 | He’d led his illustrious party down from the foothills to a lavish encampment prepared by Glora and a bevy of servants who looked to be on the verge of apoplexy. |
 
@@ -96,10 +93,7 @@ Crispus sputtered, and his effrontery, in Orden’s opinion, was overdone. |
 | blanch | /blɑːntʃ/ | 使变白；使失色 | When he pulled Crispus’s body back up, the man’s jaw lolled, slack and lifeless, his eyes a staring blank. |
 | gibbering | /ˈdʒɪbə/ | 急促不清地说 | The physician dropped to his knees, gibbering and pleading. |
 | rotted | /ˈrɒtɪd/ | 腐烂的；腐败的 | the rotted-out stump |
-| prophecy | /ˈprɒfəsi/ | 预言 | Best content yourself with being behind them, for I’m sure it’s someone else getting under.”
-
-
-When Ariana spoke again, there was a glint of silver Orden had never seen before in her eyes, and a ring of prophecy in her words. |
+| prophecy | /ˈprɒfəsi/ | 预言 | Best content yourself with being behind them, for I’m sure it’s someone else getting under.” When Ariana spoke again, there was a glint of silver Orden had never seen before in her eyes, and a ring of prophecy in her words. |
 | mewling | /ˈmjuːlɪŋ/ | 婴儿的啜泣声 | You’ll cower behind your wife’s skirts instead, claiming a sudden bent for Ariana’s mewling pacifism. |
 
 ### ⭐ 基础
@@ -110,10 +104,7 @@ When Ariana spoke again, there was a glint of silver Orden had never seen before
 | kneel | /niːl/ | 跪下 | Make him kneel |
 | drown | /draʊn/ | 淹死；溺死 | He’d developed a prodigious head for spirits as a result, but last night he’d throw back toast after toast to Justus and his own dynasty, immoderate in his desire to drown out the image of Ariana in her moment of obedience and triumph. |
 | tremble | /ˈtrembəl/ | 发抖；颤抖 | There was a rushing in his ears, and his hands were beginning to tremble with pent-up energy. |
-| insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Our queen abandoned your goddesses, offering them only insult.”
-
-
-Fia shook her head in disapproval. |
+| insult | /ˈɪnsʌlt/ | 侮辱；冒犯 | Our queen abandoned your goddesses, offering them only insult.” Fia shook her head in disapproval. |
 
 ## 一句话总结
 

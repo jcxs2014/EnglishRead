@@ -4,7 +4,7 @@ source_text: ch18
 modified: "2026-09-21"
 ---
 
-# XVII. The Road Home
+# 17. Chapter XVII
 
 ## 本章导航
 
@@ -36,7 +36,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 3:** "'Fia,' the Priest said, shifting Celina onto one knee so that she fit comfortably in the crook of his arm. 'What's gone wrong? And where's Miriel?'"
+> **原句 3:** "'Fia,' the Priest said, shifting Celina onto one knee so that she fit comfortably in the crook of his arm. … 'What's gone wrong? And where's Miriel?'"
 
 **中文理解：** "Fia，"Priest 说，把 Celina 挪到一边的膝上让她能舒服地窝在他臂弯里。"发生什么不好了？Miriel 在哪儿？"
 
@@ -92,10 +92,7 @@ modified: "2026-09-21"
 | mule | /mjuːl/ | 骡子 | astride her mule |
 | corridor | /ˈkɒrɪdɔː/ | 走廊 | Aurelia led him through a warren of corridors and courtyards, peopled with chatting sorias and laughing children. |
 | bellpull | /ˈbelˌpʊl/ | 铃铛拉绳 | there is a bellpull here |
-| harmless | /ˈhɑːmləs/ | 无害的 | We honor them by leaving their places unfilled, and strive to demonstrate our harmlessness to the Invers by keeping our order strictly female.”
-
-
-“Does that indeed render you harmless?” the Priest asked pointedly. |
+| harmless | /ˈhɑːmləs/ | 无害的 | We honor them by leaving their places unfilled, and strive to demonstrate our harmlessness to the Invers by keeping our order strictly female.” “Does that indeed render you harmless?” the Priest asked pointedly. |
 | sigh | /saɪ/ | 叹息 | Aurelia fell silent for a moment |
 
 ## 一句话总结

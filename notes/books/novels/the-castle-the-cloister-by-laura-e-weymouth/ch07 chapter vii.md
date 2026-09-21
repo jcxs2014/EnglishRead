@@ -4,7 +4,7 @@ source_text: ch08
 modified: "2026-09-21"
 ---
 
-# VII. The Sun, the Moon, and the Stars
+# 7. Chapter VII
 
 ## 本章导航
 
@@ -20,7 +20,7 @@ modified: "2026-09-21"
 
 **中文理解：** Raea 是太阳，Silith 是月亮，Lyria 是星辰：以三位女神的名义警告你——约束你的国王，否则别人会替我动手。
 
-**关键词：** rein in（约束，控制）；lest（以免，否则）
+**关键词：** rein in（约束，控制）；by Raea the Sun, by Silith the Moon, by Lyria the Stars（三女神全称——以完整神名施压的正式语气）
 
 **为什么这样写：** 这行字是 Dolenza 用隐形墨水写在信纸间的密语，只有通过夜光石才能显现。它揭示了 Dolenza 的真实态度：她不是单纯送来祝福，而是对 Orden 的战争狂热已忍无可忍。用三位女神的全称而非简称，强调这是整个 Raea 教团对 Inver 王朝的警告。
 
@@ -32,7 +32,7 @@ modified: "2026-09-21"
 
 **关键词：** the cause of peace（和平大业）；misery or death（苦难或死亡）；a reprieve（喘息，缓刑）
 
-**为什么这样写：** 这是一段内心独白，Ariana 产后濒死却在心中进行着极其精密的政治计算。作者用五个排比问句展现她作为前 soria 的思维方式——每一步行动都要以和平为尺度衡量。这也暗示了她的疲惫：七年如一日地这样活着。
+**为什么这样写：** 这是一段内心独白，Ariana 产后濒死却在心中进行着极其精密的政治计算。作者用四个排比问句展现她作为前 soria 的思维方式——每一步行动都要以和平为尺度衡量。这也暗示了她的疲惫：七年如一日地这样活着。
 
 ---
 
@@ -42,7 +42,7 @@ modified: "2026-09-21"
 
 **关键词：** beyond fear（超越恐惧）；the burning star（燃烧的星辰）；falter（动摇，踉跄）
 
-**为什么这样写：** 这是 Ariana 在 Corrin 战场记忆中的关键时刻——她曾被迫在 Afon 面前下跪却拒绝，而 Afon 差点扼死她。那次经历让她发现了自己内心的"星辰"（star at her heart），如今再度面对 Afon，她已不再是那个会屈服的女子。
+**为什么这样写：** 这是 Ariana 在当下议事厅中的关键时刻——她随即回想起 Corrin 战场上那次拒跪与险些被扼死，那次经历让她发现了自己内心的"星辰"（star at her heart），如今再度面对 Afon，她已不再是那个会屈服的女子。
 
 ---
 
@@ -52,17 +52,17 @@ modified: "2026-09-21"
 
 **关键词：** cower（畏缩，卑躬屈膝）；fighting for something every king desires（为每位国王都渴望的东西而战——子嗣/继承人）；won my war（赢了我的战争）
 
-**为什么这样写：** 这是全章最锋利的台词。Ariana 抱着新生儿直面 Afon 的挑衅，用"每位国王都渴望的东西"暗指 Afon 自己没有继承人的耻辱（bedded and butchered a dozen women without an heir），同时宣告自己才是真正的赢家——她生下了 Inver 的继承人。这是对 Afon 挑衅的直接回击。
+**为什么这样写：** 这是全章最锋利的台词。Ariana 抱着新生儿直面 Afon 的挑衅，用"每位国王都渴望的东西"暗指 Afon 自己没有继承人的耻辱（原文作 bedded and butchered a dozen women in the vain hope that one of them would get his successor），同时宣告自己才是真正的赢家——她生下了 Inver 的继承人。这是对 Afon 挑衅的直接回击。
 
 ---
 
-> **原句 5:** "Let us have peace, and no more talk of blood sacrifices," Ariana said with a bow of her dark head, heart hammering within her chest. "Blood is Silith's element, and I have provided it."
+> **原句 5:** "Let us have peace, and no more talk of blood sacrifices," Ariana said with a bow of her dark head, heart hammering within her chest.
 
-**中文理解：** 让我们拥有和平，别再提血祭了，Ariana 低着头说道，心脏在胸腔里狂跳。血是 Silith 的元素，而我已经献上了它。
+**中文理解：** "让我们拥有和平，别再提血祭了，"Ariana 说，深色的头微微低下，心脏在胸腔里狂跳。
 
-**关键词：** Blood is Silith's element（血是 Silith 的元素——对 Silith 教信徒的直接呼吁）；I have provided it（Ariana 以自己产后之血当祭品）
+**关键词：** Let us have peace（让我们拥有和平——以祈使句压住场面的开场）；no more talk of blood sacrifices（别再提血祭——直接否掉 Inver 以血立国的逻辑）
 
-**为什么这样写：** 这段是 Ariana 外交手腕的巅峰。她将"产后失血"重新定义为"给 Silith 的血祭"——blood spilled not through injury or death but in the course of giving life。这让 Gileta（Silith 信徒）和 Gwylen（Caervallion 人， Silith 背景）无法反驳，因为她的血确实符合 Silith 的祭仪要求。她以一己之力将三个国家的代表绑在了一起。
+**为什么这样写：** 这是 Ariana 全场发言的开场白：她不与 Afon 争辩血祭的神学，而是直接宣布"不要再谈"——用一句平静的命令把自己从被审判者变成议事者。紧随其后的叙述（她忍不住去看 Orden）暴露了这份镇定背后的代价：七年里她从未违背过丈夫的意思，这一次她说出了与他相左的话。实符合 Silith 的祭仪要求。她以一己之力将三个国家的代表绑在了一起。
 
 ## 本章词汇
 

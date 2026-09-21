@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch07
 ---
 
-# Chapter VI. The Priest and the Postulant
+# 6. Chapter VI
 
 ## 本章导航
 
@@ -27,7 +27,7 @@ source_text: ch07
 
 > **原句 1:** Beneson the page had been in the castle's employ for four years, and in the Priest's opinion was by far the most useful member of the Inver household. He was possessed of three invaluable qualities, rare in someone grown, let alone a boy of thirteen.
 
-**中文理解**：页面 Beneson 在这座城堡服务了四年，在 Priest 看来是 Inver 王室中最有用的成员。他拥有三种无价的品质，这在成年人中就很罕见，更别说在一个十三岁的男孩身上了。
+**中文理解**：侍从 Beneson 在这座城堡服务了四年，在 Priest 看来是 Inver 王室中最有用的成员。他拥有三种无价的品质，这在成年人中就很罕见，更别说在一个十三岁的男孩身上了。
 
 **句子结构**：主语（Beneson）+ 系表结构（was...the most useful member）+ 定语从句（in the Priest's opinion）+ 插入语（by far）+ 进一步评价（He was possessed of three invaluable qualities）。
 
@@ -53,7 +53,7 @@ source_text: ch07
 
 **表达方式**：信息分层——先说好消息（王子），再说坏消息（死产女儿），后者是政治炸弹。"stillborn"和"goddess-marked"的双重属性意味着这个孩子即使活着也不能留在 Inver 宫廷。
 
-**为什么这样写**：Ariana 的政治计算——她宁可要一个死产的女儿，也不要一个活着但必须被"处理掉"的有女神标记的孩子。这是她七年来作为 Inver 王后学到的生存智慧。
+**为什么这样写**：Ariana 的政治计算——她宁可让一个死产、且天生带女神印记的女儿就此离去，也不愿她活着被撕扯于女神与血脉之间（原文随后一句正是王后的原话：at least her daughter will not live life torn between her goddess and her blood）。这是她七年来作为 Inver 王后学到的生存智慧。
 
 ---
 
@@ -64,12 +64,12 @@ source_text: ch07
 **句子结构**：直接引语 + 文化对比（Inver practice vs Believer Three practice）。
 
 **关键词**：
-- the Beloved Three：三神（ Raeā / Silith / Lyria，Inver 的三个女神）
+- the Beloved Three：三圣（Raea / Silith / Lyria；Corrin 与 Lyria 修道院一系的信仰——Inver 自家供奉的是 Tyrus、Kidrien、Mortis 与炉火女神）
 - goddess-marked child：女神标记的孩子（根据 Inver 法律必须被处理）
 
 **表达方式**：两种宗教文化的冲突——Inver 不给一周内的孩子取名（可能与处理 goddess-marked 儿童的习俗有关），而 Raeā 的信徒会立即命名。"do what is necessary"是 Fia 对 Priest 的道德挑战。
 
-**为什么这样写**：Fia 知道 Priest 能理解"必要的"是什么意思——他作为前 Inver 王子，在同样的法律下差点被父亲杀死。Ariana 的请求不仅是政治计算，也是母亲对女儿的保护。
+**为什么这样写**：Fia 知道 Priest 能理解"必要的"是什么意思——他身为 Darias 的私生幼子，深知 Inver 家法与血脉账目的残酷（他那双被毒烟夺去的眼睛就是这本账的利息）。Ariana 的请求不仅是政治计算，也是母亲对女儿的保护。
 
 ---
 
@@ -123,10 +123,7 @@ source_text: ch07
 | Livid | adj | 愤怒的、铅色的 | 未出现 |
 | fervently | /ˈfɜːvəntli/ | 热情地 | Do not make a sound, he thought fervently at Ellimere, who was half-hidden in the encroaching gloom. |
 | undermine | /ˌʌndəˈmaɪn/ | 暗中破坏 | If Orden was to discover it, it would undermine every ounce of trust he’d ever had in Ariana. |
-| alliance | /əˈlaɪəns/ | 联盟；同盟 | She’s not been in Inverlyn three hours and already threatened to break her alliance with Honoria and support Caervallion instead.”
-
-
-The Priest frowned. |
+| alliance | /əˈlaɪəns/ | 联盟；同盟 | She’s not been in Inverlyn three hours and already threatened to break her alliance with Honoria and support Caervallion instead.” The Priest frowned. |
 
 ### ⭐ 基础
 

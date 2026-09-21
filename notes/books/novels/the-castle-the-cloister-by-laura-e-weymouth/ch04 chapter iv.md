@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch05
 ---
 
-# Chapter IV. The Road to Inverlyn
+# 4. Chapter IV
 
 ## 本章导航
 
@@ -69,7 +69,7 @@ source_text: ch05
 
 **表达方式**：声音的质感描写——"like stone grinding against stone"将 Afon 的声音非人化，与他后来的威胁性行为形成预兆；"gilded bear crest"是他的权力标志。
 
-**为什么这样写**：第一次遇到 Afon，他的外在（铠甲、纹章）和内在（声音的非人化）都暗示了他是 Fia 在这个宫廷中面临的最大威胁。
+**为什么这样写**：第一次遇到这位装甲男子（据其鎏金熊徽可推断为 Afon；本章原文始终未点名），他的外在（铠甲、纹章）和内在（声音的非人化）都暗示了他是 Fia 在这个宫廷中面临的最大威胁。
 
 ---
 
@@ -89,7 +89,7 @@ source_text: ch05
 
 ---
 
-> **原句 5:** "Don't speak so freely of the plains witches, not if you want the castle folk to take to you. The Invers may have let Raeaā's cloister carry on, but it's only because they fear upsetting the flatlanders. The king knows better than to bite the hands that feed him."
+> **原句 5:** "'No, don't,' the page stammered. 'You can't be showing that to people up here. And don't speak so freely of the plains witches, not if you want the castle folk to take to you. The Invers may have let Raea's cloister carry on, but it's only because they fear upsetting the flatlanders. The king knows better than to bite the hands that feed him."
 
 **中文理解**："别说平原女巫的闲话，除非你想让城堡里的人接受你。Inver 人虽然允许 Raea 的修道院继续存在，那只是因为他们害怕触怒平原人。国王懂得不去咬那些养活他的手。"
 
@@ -101,7 +101,7 @@ source_text: ch05
 
 **表达方式**："The king knows better than to bite the hands that feed him"——多重双关：表面是国王的理性，深层是 Inver 政治的隐喻（Fia 在宫中需要的不是勇气而是隐忍）。
 
-**为什么这样写**：页面给出了 Fia 即将进入的权力世界的规则手册——展示弱点会招致恶意，但过度展示力量会招致更严重的报复。"Knows better than to bite"暗示 Orden 是精明的政治家，而非纯粹的暴君。
+**为什么这样写**：这位侍从给出了 Fia 即将进入的权力世界的规则手册——展示弱点会招致恶意，但过度展示力量会招致更严重的报复。"Knows better than to bite"暗示 Orden 是精明的政治家，而非纯粹的暴君。
 
 ---
 

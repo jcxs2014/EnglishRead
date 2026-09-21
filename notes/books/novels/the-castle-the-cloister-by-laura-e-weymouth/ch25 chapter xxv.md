@@ -26,7 +26,7 @@ modified: "2026-09-21"
 
 **中文理解：** Ariana 的每一次心跳都敲响了死亡的丧钟。Orden 走了。走了。走了。
 
-**句子结构：** Every beat...tolloed a death knell（隐喻）+ Orden was gone（陈述）+ Gone. Gone（重复强调）。
+**句子结构：** Every beat...tolled a death knell（隐喻）+ Orden was gone（陈述）+ Gone. Gone（重复强调）。
 
 **关键词：** Every beat...tolloed a death knell（每一次心跳都敲响丧钟——Ariana 对 Orden 之痛的感知）；Gone（走了——简短而有力的否定）
 
@@ -82,7 +82,7 @@ modified: "2026-09-21"
 
 > **原句 5:** "'At first I was at a loss,' he said companionably, 'as to how I should manage you. You confessed so prettily, the moment you heard I'd taken the postulant into custody. And you're a rare prize, aren't you, little bird? It isn't every day an Inver has the pleasure of winning both a throne and the care and keeping of a treasonous queen who was once a soria.'"
 
-**中文理解：** "起初我不知道该怎么办，"他像聊天一样说，"我应该如何处置你。你当时很可爱地承认了，当我听说我已经把那个修女候选人关押了。你是个珍贵的奖品，不是吗，小鸟？不是每天都有一个 Inver 能同时赢得一个王位和对一个曾经是 soria 的叛国皇后的照料的乐趣。"
+**中文理解：** "起初我不知道该怎么处置你，"他像聊天一样说。"你一听说我把那个修女候补生关押起来，就痛快地认了罪。你是个珍贵的奖品，不是吗，小鸟？不是每天都有一个 Inver 能同时赢得一个王位和对一个曾经是 soria 的叛国皇后的照料的乐趣。"
 
 **句子结构：** At first I was at a loss（困惑语气）+ as to how I should manage you（询问）+ You confessed so prettily（嘲讽）+ you're a rare prize（贬低）。
 
@@ -228,7 +228,7 @@ modified: "2026-09-21"
 
 **句子结构：** I saved her（主张）+ and you know it（断言）+ Run back to Afon（命令）。
 
-**关键词：** I saved her（我救了她——Ariana 对 Ellimere 的保护）；Run back to Afon（回去——对 Gwylen 的拒绝）
+**关键词：** I saved her（我救了她——指 Celina：Gwylen 刚提的是 firstborn daughter）；Run back to Afon（回去——对 Gwylen 的拒绝）
 
 **表达方式：** Ariana 的"Run back to Afon"是对 Gwylen 最后的使用——她不是来谈判的，而是来传递信息的。
 

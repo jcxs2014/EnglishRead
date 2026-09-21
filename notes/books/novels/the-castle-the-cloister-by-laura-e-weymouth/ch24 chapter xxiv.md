@@ -52,9 +52,9 @@ modified: "2026-09-21"
 
 > **原句 3:** "'I am a postulant, yes. But one with Dolenza's backing. Before we left the plains, she gave me complete discretion to speak for her. What I offer on behalf of the goddess, Dolenza will honor. Think what you could do with Raea's cloister on your side.'"
 
-**中文理解：** "不是国王，"Fia 说。"是的，我是一个修女。但我有 Dolenza 的支持。在我们离开平原之前，她给了我全权代表她发言的权力。"
+**中文理解：** "是的，我是一个修女，"Fia 说。"是的，我是一个修女。但我有 Dolenza 的支持。在我们离开平原之前，她给了我全权代表她发言的权力。"
 
-**句子结构：** Not a king（重复否定）+ I am a postulant, yes（承认）+ But one with Dolenza's backing（转折）+ 解释性从句。
+**句子结构：** I am a postulant, yes（承认身份）+ I am a postulant, yes（承认）+ But one with Dolenza's backing（转折）+ 解释性从句。
 
 **关键词：** with Dolenza's backing（有 Dolenza 的支持——Fia 权力的来源）；complete discretion to speak for her（全权代表她发言——Fia 的授权）
 
@@ -106,7 +106,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "'Don't,' he warned. 'Don't use him like this.'"
+> **原句 7:** "By Bright Raea and my mark, I swear to honor the debt I owe you at once and without question, at whatever time you choose to ask for payment. Should I fail in my oath, may the sun strike me dead.”"
 
 **中文理解：** "以光之 Raea 和我的印记，我发誓在你不论何时要求偿还时，立即且毫无疑问地履行我欠你的债务。"
 
@@ -220,7 +220,7 @@ modified: "2026-09-21"
 
 > **原句 15:** "'There's no one at court that doesn't know your history with Hadrian—how he married you when you were little more than a child, and took over guardianship of the lands you'd inherited, only to refuse to turn them over when you reached the age of your majority. How he then went on to replace you with his mistress and her get, when you were unable to bear him children.'"
 
-**中文理解：** "宫廷里没有人不知道你与 Hadrian 的历史——当他你还是个小孩子时他娶了你，接管了你继承的土地的监护权，却在你达到成年年龄时拒绝归还给你。"
+**中文理解：** "宫廷里没有人不知道你与 Hadrian 的历史——当她还是个孩子时他娶了你，接管了你继承的土地的监护权，却在你达到成年年龄时拒绝归还给你。"
 
 **句子结构：** There is no one...that doesn't know + how 引导的宾语从句（三个并列的时间序列）。
 
@@ -306,10 +306,7 @@ modified: "2026-09-21"
 | threshold | /ˈθreʃhəʊld/ | 门槛、起点 | …standing on the threshold to her private apartment… |
 | upstart | /ˈʌpstɑːt/ | 暴发户 | You upstart bastard. |
 | pasturage | /ˈpæstʃərɪdʒ/ | 牧场 | …mixed timber lot and pasturage… |
-| magistrate | /ˈmædʒɪstreɪt/ | 法官、地方行政官 | He’s devoted to Kidrien, more so than Tyrus—trade and merchantry is his preferred avenue of conquest.”
-
-
-“Given his taste for prosperity by any means, would Hadrian be amenable to a position as court magistrate? |
+| magistrate | /ˈmædʒɪstreɪt/ | 法官、地方行政官 | He’s devoted to Kidrien, more so than Tyrus—trade and merchantry is his preferred avenue of conquest.” “Given his taste for prosperity by any means, would Hadrian be amenable to a position as court magistrate? |
 
 ### ⭐ 基础
 

@@ -56,7 +56,7 @@ modified: "2026-09-21"
 
 **句子结构：** A brisk knock punctuated...（事件）+ the Priest's pulse slowed at once（生理反应）+ Assassins didn't knock（独立短句——推理结论）。
 
-**关键词：** punctuated（打断、标点般插入）；sorias' keening（星辰姐妹的哀号）；Assassins didn't knock（刺客不敲门）
+**关键词：** punctuated（打断、标点般插入）；sorias' keening（Silith 修女们的哀号——洞窟里唱亡者之歌的月神一系）；Assassins didn't knock（刺客不敲门）
 
 **表达方式：** "Assassins didn't knock"是全章最漂亮的一句短句——四个词完成一次职业判断，也顺带交代了 Priest 的生存经验：他天生就在评估谁会来杀他。
 
@@ -268,7 +268,7 @@ modified: "2026-09-21"
 
 **句子结构：** oh（感叹）+ with a sinking sensation（感受）+ 两个让步（Whatever happened, whatever came next）+ 决心（he must ensure...）。
 
-**关键词：** a sinking sensation（沉坠感）；whatever happened, whatever came next（无论发生什么）；never found out（永远不会知道）
+**关键词：** a sinking sensation（沉坠感）；whatever happened, whatever came next（无论发生什么）；never found out（永远不会知道——指 Orden 为保 Lyria 修道院才应战一事）
 
 **表达方式：** 两个"whatever"排比把 Priest 的决心锁死：不是"如果情况允许"，而是"无论如何"——这是他给自己下的死命令。
 

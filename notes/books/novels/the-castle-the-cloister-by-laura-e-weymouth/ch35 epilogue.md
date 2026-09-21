@@ -108,7 +108,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 7:** "'I brought you back,' Gwylen Silithien said, settling herself beside the stone coffin in which Orden had been interred. 'I have a task for you, Orden Inver. You left something undone.'"
+> **原句 7:** "'I brought you back,' Gwylen Silithien said, settling herself beside the stone coffin in which Orden had been interred. … 'I have a task for you, Orden Inver. You left something undone.'"
 
 **中文理解：** "是我把你带回来的，"Gwylen Silithien 说，在 Orden 被安葬的石棺边安顿下自己。"我有一项任务给你，Orden Inver。你有件事没有做完。"
 

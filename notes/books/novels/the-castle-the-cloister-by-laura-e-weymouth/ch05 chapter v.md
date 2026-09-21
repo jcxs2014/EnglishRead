@@ -4,7 +4,7 @@ modified: "2026-09-21"
 source_text: ch06
 ---
 
-# Chapter V. The Hollow Crown
+# 5. Chapter V
 
 ## 本章导航
 
@@ -55,11 +55,11 @@ source_text: ch06
 
 **表达方式**：排比结构——三个"Want"在权力规模上逐层递进：Honoria（国家）→ its power（对国家的要求）→ a great name（个人声誉）→ a secure place in the chain（家族传承）。最后的"iron chain"揭示了他的根本动机：被承认和传承的安全感。
 
-**为什么这样写**："Iron chain of the Inver dynasty"——Orden 的权力欲不是纯粹的征服，而是对"在家族中的位置"的焦虑。他的父亲留下了征服纪录，他需要超越或至少保持。
+**为什么这样写**："Iron chain of the Inver dynasty"——Orden 的权力欲不是纯粹的征服，而是对"在家族中的位置"的焦虑：他的王位来自弑父，同辈兄弟不是被杀就是被毒瞎，他必须不断证明自己是链条上最硬的一环。
 
 ---
 
-> **原句 3:** "Damn him, he always wanted what he didn't have."
+> **原句 3:** "…and he still wanted her because, damn him, he always wanted what he didn't have."
 
 **中文理解**："他真该死，他总是想要他没有的东西。"
 

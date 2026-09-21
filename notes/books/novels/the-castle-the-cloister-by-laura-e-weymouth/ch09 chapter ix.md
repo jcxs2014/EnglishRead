@@ -4,7 +4,7 @@ source_text: ch10
 modified: "2026-09-21"
 ---
 
-# IX. Silence and Song
+# 9. Chapter IX
 
 ## 本章导航
 
@@ -22,7 +22,7 @@ modified: "2026-09-21"
 
 **关键词：** devoid of any feeling（毫无感情——Ariana 刻意压抑的痛苦）；the Priest's heart ached（Priest 的心疼）
 
-**为什么这样写：** 这是全章最震撼的一句话。Ariana 为了逼退 Gileta 派来的刺客，把匕首架在自己新生儿的脖子上。她用"our son"而非"my son"，强调这是她与 Priest 共同的秘密（他们都效忠于 Orden，却又都在背叛他）。她说这话时"devoid of any feeling"是因为她已经超越了恐惧——这正是 Afon 在 Chapter VII 中试图激发的情感。
+**为什么这样写：** 这是全章最震撼的一句话。Ariana 为了逼退 Gileta 派来的刺客，把匕首架在自己新生儿的脖子上。她用"our son"而非"my son"，强调这是她与 Orden 的儿子——她与 Priest 之间并非血缘关系，而是共守秘密的同谋（他们都效忠于 Orden，却又都在背叛他）。她说这话时"devoid of any feeling"是因为她已经超越了恐惧——这正是 Afon 在 Chapter VII 中试图激发的情感。
 
 ---
 
@@ -32,7 +32,7 @@ modified: "2026-09-21"
 
 **关键词：** bloodlessly（不流血地，暗杀）；innocent（无辜者——指婴儿）；Silith would not look well on it（Silith 不会认可——Ariana 对 Silith 教义的灵活运用）
 
-**为什么这样写：** 这句话揭示了 Ariana 的宗教逻辑：她作为前 soria，精通各教派的规则。她知道 Silith 虽然是战争与死亡之神，但对"无辜者的死亡"有忌讳——因为 Silith 崇拜的是"有意义的死亡"，而非儿童的偶然牺牲。这让她以婴儿为质威胁刺客时，用 Silith 教义说服对方退让。
+**为什么这样写：** 这句话揭示了 Ariana 的宗教逻辑：她作为前 soria，精通各教派的规则。她知道 Tyrus 虽是战争之神、Mortis 掌死亡与审判（Silith 是月亮女神），但对"无辜者的死亡"有忌讳——因为 Silith 崇拜的是"有意义的死亡"，而非儿童的偶然牺牲。这让她以婴儿为质威胁刺客时，用 Silith 教义说服对方退让。
 
 ---
 
@@ -50,13 +50,13 @@ modified: "2026-09-21"
 
 **中文理解：** 你忘了我是誓死服侍月亮的人，比你这个毁损的印记更懂得她的需求。
 
-**关键词：** sworn to the service of the moon（向月亮立誓服役——Silith 的信徒身份）；ruined mark（Ariana 曾经被烙上 Inver 的火焰印记，覆盖了她原本的 goddess mark）；understand her requirements better（更懂得她的需求——Afon 在嘲讽 Ariana 的身份认同）
+**关键词：** sworn to the service of the moon（向月亮立誓服役——Silith 的信徒身份）；ruined mark（Ariana 是自愿烧掉自己的女神印记、改以 Inver 家徽的方式烙痕，覆盖了她原本的 goddess mark）；understand her requirements better（更懂得她的需求——Afon 在嘲讽 Ariana 的身份认同）
 
 **为什么这样写：** Afon 在 Tyrus 祭坛上说这句话，是要证明他比 Ariana 更懂 Silith 的规则。但 Ariana 实际上是用自己的身体——正在流出的血——在改写规则。她的血不是自愿献祭（consenting sacrifice），而是战场上的副产品（byproduct of war/childbirth），Afon 试图用这个漏洞来捆绑她。但 Ariana 已经抢先用自己的血约束了 Gileta 和 Gwylen。
 
 ---
 
-> **原句 5:** "Go to Mortis, if the Beloved Three judge you wrongly. He'll know what you intend, and that submission to a tyrant only ever leads to grief."
+> **原句 5:** "Go to Mortis, if the Beloved Three judge you wrongly," he said. "He'll know what you intend, and that submission to a tyrant only ever leads to grief."
 
 **中文理解：** 如果三位圣徒的错误地审判了你，去 Mortis 那里。他会知道你的意图，而且他明白向暴君屈服只会招致悲哀。
 
@@ -82,14 +82,8 @@ modified: "2026-09-21"
 |------|------|------|------|
 | dissuade | /dɪˈsweɪd/ | 劝阻，说服 | “I dissuaded her,” the queen said. |
 | garotte | /ɡəˈrɒt/ | 勒杀，绞杀 | one of Gileta's women got in with a silk garotte |
-| offertory | /ˈɒfətəri/ | 献祭的、奉献的 | “I may be willing to bleed for your petition, but I’m not fool enough to put myself entirely in your hands.”
-
-
-With a small singing of steel on steel, Afon took up the offertory knife from Tyrus’s altar. |
-| apostate | /ˈæpəsteɪt/ | 叛教者；背教者 | Gileta may like me a little, now and then, but everyone on the Hand believes I’m a wretched apostate, capable of anything.”
-
-
-The Priest waited. |
+| offertory | /ˈɒfətəri/ | 献祭的、奉献的 | “I may be willing to bleed for your petition, but I’m not fool enough to put myself entirely in your hands.” With a small singing of steel on steel, Afon took up the offertory knife from Tyrus’s altar. |
+| apostate | /ˈæpəsteɪt/ | 叛教者；背教者 | Gileta may like me a little, now and then, but everyone on the Hand believes I’m a wretched apostate, capable of anything.” The Priest waited. |
 | keening | /ˈkiːnɪŋ/ | 哀号；挽歌般的恸哭 | The sound of their mourning grew richer and fuller until at last, piercing the upper reaches of the cavernous dark, a high, keening melody soared above them all, sung in crystalline tones. |
 
 ### ⭐ 基础
@@ -99,14 +93,8 @@ The Priest waited. |
 | shiver | /ˈʃɪvə(r)/ | 颤抖 | She was shivering violently |
 | whisper | /ˈwɪspər/ | 低语 | The Priest heard a whisper of fabric, and then the prince feeding. |
 | murmur | /ˈmɜːmə(r)/ | 低声说，低语 | It was always so when she came down to his sanctuary—at her request, he remained nearby, but occupied, so that they might murmur their secrets while appearing to do no more than pray. |
-| corpse | /kɔːps/ | 尸体 | “What could we make of you, Silas, were you more than a Priest?”
-
-
-“A corpse,” the Priest said bluntly. |
-| mother | /ˈmʌðə/ | 母亲 | Enjoying his mother’s love, and her protection from the dangerous games of court?”
-
-
-The Priest bridled. |
+| corpse | /kɔːps/ | 尸体 | “What could we make of you, Silas, were you more than a Priest?” “A corpse,” the Priest said bluntly. |
+| mother | /ˈmʌðə/ | 母亲 | Enjoying his mother’s love, and her protection from the dangerous games of court?” The Priest bridled. |
 
 ## 一句话总结
 

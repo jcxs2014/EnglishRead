@@ -128,7 +128,7 @@ modified: "2026-09-21"
 
 **句子结构：** 称赞式开场 + 反讽内容（It did take quite a push...）+ 重复赞美（Well done, indeed）。
 
-**关键词：** little star（小星星—— Gwylen 也用过的称呼）；quite a push（不小的推手）；at last（终于）
+**关键词：** little star（小星星—— Orden 与 Afon 对她的称呼；Gwylen 称她 little queen）；quite a push（不小的推手）；at last（终于）
 
 **表达方式：** Afon 把 Ariana 人生最痛的举动说成"他的成果"，一句"干得好"里藏着全书最深的恶意：他在为自己的胜利道贺。
 
@@ -150,7 +150,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 10:** "'Beg,' Afon said. 'On your knees, the way you knelt for him.' … 'No. I will never beg for you.'"
+> **原句 10:** "'Beg,' Afon said. 'On your knees, the way you knelt for him.' … Overhead, the stars shone. Beyond them, the cloister gleamed. 'No. I will never beg for you.'"
 
 **中文理解：** "求我，"Afon 说。"跪下，就像你当年为他跪下的样子。"……"不。我永远不会为你下跪。"
 

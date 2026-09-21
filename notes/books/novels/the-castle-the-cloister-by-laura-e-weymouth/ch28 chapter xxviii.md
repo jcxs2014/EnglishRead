@@ -284,7 +284,7 @@ modified: "2026-09-21"
 
 **句子结构：** By the time...（时间从句）+ 陈述句（否定式描写）。
 
-**关键词：** by the time Nikolau finished（等 Nikolau 收手）；nothing recognizable（认不出任何东西）
+**关键词：** by the time Nikolau finished（等 Nikolau 收手）；anything recognizable（认不出任何东西）
 
 **表达方式：** 作者用"无法辨认"代替任何具体血腥词汇——留白反而更冷。这种克制的恐怖比细节描写更有效。
 

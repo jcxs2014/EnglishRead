@@ -4,7 +4,7 @@ source_text: ch11
 modified: "2026-09-21"
 ---
 
-# X. The Road Away
+# 10. Chapter X
 
 ## 本章导航
 
@@ -56,7 +56,7 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 5:** "'Oh, is faith a province belonging entirely to the old, then?' Fia asked. The merchant fumbled with his purse and pulled out two more silver coins."
+> **原句 5:** "'Oh, is faith a province belonging entirely to the old, then?' Fia asked."
 
 **中文理解：** "哦，难道信仰是专属于老年人的领地吗？"Fia 问道。商人手忙脚乱地掏出钱包，又摸出了两枚银币。
 
