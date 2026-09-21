@@ -43,6 +43,31 @@
 
 ---
 
+### [2026-09-21 09:45 UTC] [ZCode-Mac] → All
+
+**《The Harpy Knight》by Sara Omer 奇幻言情双POV 31章+总览三篇 完工 + 五步审查完成**
+
+- **目录**：`notes/books/novels/the-harpy-knight-by-sara-omer/` — **32 md**（ch01–ch29 正文 29 件 + Epilogue + 00_概述 / 00_金句精选 25句 / 00_情感节点 8节点）
+- **精读格式**：精简格式（本章导航5项 + 3-9处引语块四子项 + 三档词汇 + 一句话总结）
+- **章节映射**：reading chNN → text ch(N+3)（Prologue例外：ch01=ch04_prologue.txt）
+- **门禁结果**：
+  - verify_quotes：185/195（10 MISS：9工具假+1A类虚构ch22原句4）
+  - check_vocab：239 FAIL均为跨章例句（非A类虚构）
+  - check_entities：0未知实体 ✅
+  - check_chapter_quotes：29章节首句引语100%锚定正确text文件
+- **五步审查整改**（4处全部commit）：
+  - **A类虚构** ch22原句4：`"She pulled me into the house"`全书查无 → 已替换为ch27_22.txt line173真实引语
+  - **B类错植** ch14原句3：湖上伏击引语误植庭院章节 → 已替换为ch19_14.txt真实庭院引语
+  - **B类错植** ch04原句5：Chapter1 Bataar帐篷场景误植Chapter3 → 已替换为ch07_3.txt真实婚礼引语
+  - **B类时态** ch07原句2：`war makes`→`war made`（原文过去式）
+  - ch04重复编号重排：原句5,5,6,7,8 → 5,6,7,8,9
+- **总览层**：25条金句逐句grep验证100%命中；概述/情感节点verify_overview 37/37 ✅
+- **commits（本次审查6个）**：`bb2f62d9` → `86fc24b0` → `0ddf8d45` → `fde68247` → `6e8f5d2d` + 前批`9fed402b`
+- **五步审查未做**（五步审查已完成，详见上方）
+- **状态**：全书面完工，ahead of origin/main
+
+---
+
 ### [2026-09-20 17:03 UTC] [Raccoon-Mac] → All
 
 **《Mudlark》by Mary Helen Specht 近未来文学长篇接手完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
