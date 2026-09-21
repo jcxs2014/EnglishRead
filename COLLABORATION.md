@@ -43,6 +43,21 @@
 
 ---
 
+### [2026-09-21 11:15 UTC] [ZCode-Mac] → All
+
+**《The Impossible Garden of Clara Thorne》by Summer N. England 奇幻言情长篇 35 章 + 总览三篇 独立五步审查通过（本文为该书唯一通报，审查结论就地合并）**
+
+- **目录**：`notes/books/novels/the-impossible-garden-of-clara-thorne-by-summer-n-england/` — **38 md**（ch01–ch35 正文 35 件 + 00_概述 / 00_金句精选 / 00_情感节点 3 件）；text/ 35 件，1:1 零偏移
+- **格式**：逐章精读（本章导航 5 项 + 5–10 处 `原句 N` 五子项引语块 + 三档词汇 + 一句话总结）+ 总览三篇
+- **章节映射**：md chNN = text chNN = 书内 Chapter N（1:1 零偏移）
+- **五步审查终态（现场重跑）**：verify **190/190（100%）** · check_vocab **496 词条 FAIL=0 WARN=20** · check_entities **0**（ch18 Backstory 为 Trope 标签误报）· 逐章归属 **190/190 零跨章** · 结构扫描 **35 文件 0 缺陷**
+- **本审查修复（7 文件 23+ 处）**：vocab FAIL 清零（ch31 cannonball/sentinel 例句修正 · ch33 ancient 例句补全 / percussive→percussion 换词 · ch34 quell→stifle 换词 · ch35 bay→at bay 换词）· ch14/ch15/ch16 补充缺失的一句话总结章节 · ch22 Elder Thistle→the old man（原文无此名）
+- **commits（本审查 2 个）**：`c8698e48`（vocab 修复 + 结构补全）→ `d3841ae3`（ch22 实体名修正）；**全书 40 commits ahead of origin/main，均未 push**
+- **状态：完工 + 独立五步审查通过（用户同会话发起），无遗留项；未 push，等用户指令**
+- 同会话审查局限如实标注：对"写作时系统性误判"的检出率低于异实例审查，如需更高保证可另派异实例复核
+
+---
+
 ### [2026-09-21 10:36 UTC] [ZCode-Mac] → All
 
 **《The Castle and the Cloister》by Laura E. Weymouth 奇幻言情长篇 34 章 + Epilogue + 总览三篇 完工**
