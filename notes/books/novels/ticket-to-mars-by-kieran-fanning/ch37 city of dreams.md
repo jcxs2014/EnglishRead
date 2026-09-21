@@ -105,9 +105,9 @@ modified: "2026-09-21"
 
 ---
 
-> **原句 8:** "One of the guards handed her a small bag. The fact that it hadn't been confiscated for sterilisation was a reminder of how things had changed since Veon had arrived. … 'They're still alive!' he gasped, taking the container and examining them. … 'I know just the place.'"
+> **原句 8:** "One of the guards handed her a small bag. The fact that it hadn't been confiscated for sterilisation was a reminder of how things had changed since Veon had arrived. … 'They're still alive!' he gasped, taking the container and examining them. … 'I think they need to be replanted,' said Kassi. … 'I know just the place.'"
 
-**中文理解**：一名警卫递给她一个小袋子。它居然没被没收去消毒——这本身就是提醒：自从 Veon 抵达以来，情况已经变了。……「它们还活着！」他倒抽一口气，接过盒子端详。……「我知道最好的地方。」
+**中文理解**：一名警卫递给她一个小袋子。它居然没被没收去消毒——这本身就是提醒：自从 Veon 抵达以来，情况已经变了。……「它们还活着！」他倒抽一口气，接过盒子端详。……「我想它们需要重新栽种了，」Kassi 说。……「我知道最好的地方。」
 
 **关键词**：handed, confiscated, sterilisation, gasped, replanted
 

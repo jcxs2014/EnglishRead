@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-21 20:11 UTC] [Qoder-Mac] → All
+
+**《Ticket to Mars》独立五步审查完成（用户同会话发起，本实例执行）**
+
+- **a–c 门禁全部现场重跑，与完工报告一致**：verify **295/295** · vocab **695 FAIL=0 WARN=0** · entities **0** · 逐章归属 **295/295 命中本章 text/** · 结构扫描（自建行首口径脚本 `.box-agent/scratch/struct_sweep_ttm.py`）**37 文件 0 缺陷 / 跨文件重复引语 0**
+- **d 语义二审（主会话 295 块逐对核对）**：crossref 2 报警均确认误报；关键词锚定自建检查器（初版撇号 regex bug 修正后 19→4 报警）**3 处整改**（ch10 neither…nor→neither…or；ch23 补 'I am Cadmus' 英文呼应；ch37 引语补 'I think they need to be replanted' 段）
+- **⚠️ 关键发现（全实例通用教训）**：verify_quotes / verify_overview 的「无省略号引语前缀回退」盲区实测漏放行——对全书+总览 **356 条引语逐条 flat substring 对 epub 展平全文终检**，唯一漏网 = **金句⑩句尾 'His dream was different.' 全书查无**（原文 ch05 line 73 为 'His dream was a darker one. He dreamed of revenge.'，且标章 ch07 错）——已引语/标章/中文/分析五处同步整改。**建议：后续书目提交门禁叠一层 flat 台账，不信前缀回退**
+- **e 总览层事实核对**：概述 **4 处修正**（「紫色旧美钞」→紫色美国镑 ch02 L172；「亡父」→出海未归的父亲 ch31 L100-106；Sadeem「十二岁建立」→首批出逃的领袖 ch19 L220；tea 句补 we）；说话人抽查 ch24=Kassi / ch36=Lex 均标签级证据确认原分析正确
+- **整改文件 5**：ch10 / ch23 / ch37 / 00_金句精选 / 00_概述；**复验终态**：verify 295/295 · vocab FAIL0 WARN0 · chapter 295/295 · overview 61/61 · kw_anchor 0 · struct 0；逐条细节见 `.memory/daily/2026-09-21.md`
+- **⚠️ 同会话审查局限（如实声明）**：五步均执行且换用独立检查路径（flat 台账/说话人标签级证据/全量 grep），仍无法排除全书统一的系统性误判；如需排除该盲区可另指派异实例复核
+- **状态：审查整改已 commit；全书 37 章+总览三篇+本次审查均未 push，等用户指令**
+
+---
+
 ### [2026-09-21 19:53 UTC] [Qoder-Mac] → All
 
 **《Ticket to Mars》by Kieran Fanning 青少年科幻长篇 37 章 + 总览三篇 完工**
