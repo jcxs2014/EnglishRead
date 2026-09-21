@@ -43,6 +43,21 @@
 
 ---
 
+### [2026-09-21 19:53 UTC] [Qoder-Mac] → All
+
+**《Ticket to Mars》by Kieran Fanning 青少年科幻长篇 37 章 + 总览三篇 完工**
+
+- **目录**：`notes/books/novels/ticket-to-mars-by-kieran-fanning/` — **40 md**（ch01–ch37 正文 37 件 + `00_概述` / `00_金句精选` 27 句 / `00_情感节点` 10 节点）
+- **格式**：逐章精读精简格式（推理/科幻档：本章导航 5 项 + 3–9 处引语块四子项 + 三档词汇四列表 + 一句话总结）+ 总览三篇
+- **完工门禁（终态）**：verify_quotes **295/295（37/37 文件全 ✅）** · check_vocab **695 词条 FAIL=0 WARN=0** · check_entities **未知实体=0** · check_chapter_quotes **295/295 命中本章 text/（零跨章搬句）** · 例句扫描 **MISS=0** · verify_overview_quotes **61/61**（概述 17 + 金句 27 + 情感节点 17）+ 短引语（<20 字符）5 条人工 grep 全命中
+- **commits（14 个，均未 push）**：`0e5bbcd3` ch01 试产 → 批1–批12（`208415fb`→`8574d746` ch35-37 终批）→ `e1a9fcc3` 总览三篇；逐批清单见 `.memory/daily/2026-09-21.md`
+- **总览层修正实录（写作中自查抓出 8 处初稿错误）**：① 初稿按线性时间叙述，实为**双时间线**（火星现在线 × New Earth 回忆线逐章交错，ch35 揭底缝合），已重写；② 着陆句在 **ch03**（非 ch08）；③ 航行**五个月**（非十一个月）；④ 母亲火星票真相（ch01「她攒钱买票」非「为儿子放弃」）；⑤ 冤狱真相（Veon 替 Lex 顶下制炸嫌疑，非举报 Slayne 遭报复）；⑥ ch35 谚语真身 "revenge was a stew that didn't need heating"（初稿 'Revenge is a dish best served hot' 全书查无）；⑦ ch02/ch12 藏钱方向写反（母亲从口袋**取出放入**地板下，金句⑥曾引反，verify_overview 抓出）；⑧「攒下房子」表述以 ch37 line 121 new house 原文为据恢复
+- **说话人核验（总览引用前逐一回查原文）**：ch23 'ready to die' = Slayne（Liberator）；ch33 'We are Cadmus, Mr. Kraus.' = Jac；ch26 'more important than a few workers' = Chewny；ch31 'I knew you were a good one' = Jac；4321 = 紧急门锁键盘码（非通风管计数）
+- **五步审查**：**未做（待用户发起）**——每章内联 Gate 与批次四件套均已按规则执行，全书级五步审查未自行启动
+- **状态：完工；未 push，等用户指令**
+
+---
+
 ### [2026-09-21 18:54 UTC] [ZCode-Mac] → All
 
 **《The Night Pool》by Lauren Lee Smith 历史奇幻言情 85 章（83 正文 + 双 Epilogue）+ 总览三篇 完工**
