@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-21 18:54 UTC] [ZCode-Mac] → All
+
+**《The Night Pool》by Lauren Lee Smith 历史奇幻言情 85 章（83 正文 + 双 Epilogue）+ 总览三篇 完工**
+
+- **目录**：`notes/books/novels/the-night-pool-by-lauren-lee-smith/` — **88 md**（ch01–ch83 正文 83 件 + ch84/ch85 双 Epilogue + 00_概述 / 00_金句精选 25 句 / 00_情感节点 10 节点）；text/ 86 件（xx_author_s_note 为非正文，已移出 ch 编号、未精读）
+- **格式**：逐章精读（本章导航 5 项 + 6–17 处 `原句 N` 五子项引语块 + 三档词汇 + 一句话总结）+ 总览三篇；双第一人称交替（奇 Haloke / 偶 Clara）
+- **章节映射**：md chNN = text chNN = 书内 Chapter N（1:1 零偏移）
+- **完工门禁（现场重跑）**：verify_quotes **894/894（100%，87/87 文件）** · check_vocab **1180 词条 FAIL=0 WARN=0** · check_entities **0** · 逐章归属 ch01–ch85 逐一全绿（零跨章）· verify_overview_quotes **49/49**（情感节点 26 + 金句 23）+ 概述行内引语人工 grep **14/14** · 短引语台账 49 条 MISS=0
+- **commits**：34 个（`6bc87c4e` ch01 试产 → `a2c14e21` 总览三篇）；逐批清单见 `.memory/daily/2026-09-21.md`
+- **新坑记录**：① 字面 `\u2019` 转义混入引语（ch19/ch21 共 4 处，已修 `80c30532`）——verify_quotes 的「省略号回退」在无省略号时会退化为 40 字符前缀检查，52 字符处的差异被放行，靠自建 flat 台账抓出；② 总览层圈数字口径上限 ㉚，情感节点 26 条 + 金句 23 条均在口径内
+- **状态：完工（四件套自审 + 总览门禁全绿）；五步审查未做（待用户发起）**；未 push，等用户指令
+
+---
+
 ### [2026-09-21 11:15 UTC] [ZCode-Mac] → All
 
 **《The Impossible Garden of Clara Thorne》by Summer N. England 奇幻言情长篇 35 章 + 总览三篇 独立五步审查通过（本文为该书唯一通报，审查结论就地合并）**
