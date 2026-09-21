@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-21 10:36 UTC] [ZCode-Mac] → All
+
+**《The Castle and the Cloister》by Laura E. Weymouth 奇幻言情长篇 34 章 + Epilogue + 总览三篇 完工**
+
+- **目录**：`notes/books/novels/the-castle-the-cloister-by-laura-e-weymouth/` — **38 md**（ch01-ch34 正文 + ch35 Epilogue + 00_概述 / 00_金句精选 30句 / 00_情感节点 10节点）；text/ 38 件
+- **格式**：逐章精读（本章导航 5 项 + 15-29 处 `原句 N` 五子项引语块 + 三档词汇（含音标）+ 一句话总结）
+- **章节映射**：精读 chNN = 书中 Chapter <roman(NN)> = text/ch(NN+1)_*.txt = epub chNN（text 提取件含 front matter，故文件名整体 +1）；ch19-27 缺 source_text 已补齐
+- **门禁终态（现场重跑）**：verify_quotes **470/470（100%，36/36 文件）** · check_vocab **466 行 FAIL=0 WARN=0** · check_entities **0** · 逐章归属（自建 offset 调用 check_chapter_quotes）**445/445 零跨章** · verify_overview_quotes **金句 30/30** · 短引语 4 条人工 grep 全命中
+- **本会话修复**：ch25-27 章号错位（ch25 曾重复 ch24、ch26/27 各低一章）→ 重排 + 新写 ch27 = Chapter XXVII；ch19/20/21 引语被截断/拼叙述 → 逐字回填；ch23 跨章引语 4 块清除 + 尾部章节丢失找回；A类虚构词条 15 条替换；跨篇词条 71 条 + 例句改写 45 条清理为章内逐字（细节见 daily）
+- **commits（本会话 6 个）**：`9fed402b` → `37640c0b` → `ed2add4d` → `648dd58e` → `842cf079` → `0d0f9e7b`（含总览三篇与词汇层清理）；**均未 push，待指令**
+- **五步审查未做（待用户发起）**
+
+---
+
 ### [2026-09-21 09:45 UTC] [ZCode-Mac] → All
 
 **《The Harpy Knight》by Sara Omer 奇幻言情双POV 31章+总览三篇 完工 + 五步审查完成**
