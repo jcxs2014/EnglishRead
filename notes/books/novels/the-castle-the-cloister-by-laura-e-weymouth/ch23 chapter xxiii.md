@@ -272,5 +272,35 @@ modified: "2026-09-21"
 
 **为什么这样写：** Fia 理解 Priest 不想成为国王——所以她提出的是摄政王的位置，服务于 Justus。这比"成为国王"更容易接受，但实质上是相同的权力。
 
----
+## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| relentless | /rɪˈlentləs/ | 毫不退让的；执拗的 | …relentless in her demands. |
+| behest | /bɪˈhest/ | 命令、要求 | She'd been sent to the mountain at Dolenza's behest. |
+| transgressions | /trænzˈɡreʃnz/ | 越界之举；罪过 | A death that will erase any transgressions and missteps she made among us, and restore her in the eyes of her goddess. |
+| impenetrable | /ɪmˈpenɪtrəbl/ | 无法穿透的 | There, Lucian and his men did no more than push her out onto the stairs that led down into the impenetrable gloom and turn back the way they came. |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| storeroom | /ˈstɔːruːm/ | 储藏室 | They'd locked Fia not in some dungeon, but in a stinking back storeroom, which smelled of spoiling meat and rotting vegetables. |
+| forestalling | /fɔːˈstɔːlɪŋ/ | 预先阻止 | What is the point of forestalling a war in Caervallion if you spark a civil uprising here instead? |
+| practicality | /ˌpræktɪˈkæləti/ | 务实；实际 | No use worrying about Caervallion now, Fia said, falling into the intense practicality of Raea's chosen as she took Justus from his bassinet. |
+| halfhearted | /ˌhɑːfˈhɑːtɪd/ | 半心半意的 | If she did so, the halfhearted searches and raids conducted on Nikolau's followers would reach the fever pitch of an inquisition. |
+
+### ⭐ 基础
+
+| 词汇 | 音标 | 释义 | 例句 |
+|------|------|------|------|
+| chain | /tʃeɪn/ | 锁链；束缚 | …I've already got her in chains, waiting for whoever rises to make an offering of her before our gods. |
+| swear | /sweər/ | 发誓 | By Bright Raea and my mark, I swear to you here and now that I never harmed Orden Inver, nor helped anyone else end his life. |
+| shadow | /ˈʃædəʊ/ | 阴影 | With her mercy and her brokenness, Gentle Lyria tried to banish the shadow and failed… |
+| claim | /kleɪm/ | 主张；声称 | She could claim, with a measure of truth, to be an associate of Honoria's deserters… |
+
+## 一句话总结
+
+Fia 从囚犯变成策划者，用 Raea 教派的支持作为筹码说服 Priest 成为摄政王，以 Justus 的名义争夺王位，从而保护 Ariana 和修道院免于毁灭。

@@ -16,7 +16,7 @@ modified: "2026-09-21"
 
 **人物弧线：** Fia 从"愤怒的请愿者"转变为"拒绝神意的叛逆者"与"情感觉醒的女人"；Priest 从"保护者"升格为"共谋者"与"亲密之人"。
 
-**叙事手法：** 双线叙事（Fia 夜间经历 / Ariana 日间告别）；倒叙插入异象；视角在 Fia-Priest-Ariana-Dolenza 间流动。
+**叙事手法：** 双线叙事（Fia 夜间经历 / Ariana 日间告别）；倒叙插入异象；视角在 Fia、Priest、Ariana 与 Dolenza 之间流动。
 
 ## 精读
 

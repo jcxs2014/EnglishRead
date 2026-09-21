@@ -95,9 +95,6 @@ modified: "2026-09-21"
 | grieve | /ɡriːv/ | 悲伤，哀悼 | He did not grieve for Ataxis |
 | tumble | /ˈtʌmbəl/ | 摔倒；跌落 | She tumbled forward to intervene |
 | tremble | /ˈtrembəl/ | 发抖，颤抖 | Ariana began to tremble at the sanctuary's cold |
-| clutch | /klʌtʃ/ | 抓紧 | clutching the infant prince |
-| grieve | /ɡriːv/ | 悲伤，哀悼 | He did not grieve for Ataxis |
-| tumble | /ˈtʌmbəl/ | 摔倒；跌落 | She tumbled forward to intervene |
 
 ## 一句话总结
 
