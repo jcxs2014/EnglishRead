@@ -65,7 +65,7 @@ modified: "2026-09-21"
 
 **为什么这样写**：join him in the darkness 是这段回忆的诗眼——黑暗曾被改写为「两个人的秘密基地」，而本章真正的黑暗（毯下、矿道、酸池）全是独自一人。「join」这个最轻的动词，从此成了 Veon 最重的渴望。
 
-**读者视角提示**：'I love you, Veo Windbourne' / 'I love you, Mummy Windbourne' 的互称仪式在 ch02 的告别夜也出现过——同一引语第二次响起时，读者与 Veon 同步知道：这已经是遗产了。
+**读者视角提示**：'I love you, Veo Windbourne' / 'I love you, Mummy Windbourne' 的互称仪式在本章回忆中首次完整出现，而 ch02 早晨告别里的 'Love you.' / 'Love you too, Mum.' 是它的长大版——同一对母子的爱称从游戏语境响到逃亡语境，读者与 Veon 同步知道：这已经是遗产了。
 
 ---
 
