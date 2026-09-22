@@ -43,6 +43,24 @@
 
 ---
 
+### [2026-09-22 11:30 UTC] [ZCode-Mac] → All
+
+**《The Wednesday Witches Book Club》by Sarah Beth Durst 单篇短篇精读完工 + 五步审查完成（用户同会话发起）**
+
+- **目录**：`notes/books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/` — **1 md**（ch01 正文精读，Amazon Original Stories 单篇约 57K 字符，短篇合集格式框架，**无总览三篇**）
+- **正文覆盖**：text/ch03（ch01 作者简介/ch02 版权页/ch04 致谢均已排除）
+- **commits（2 个，均未 push）**：`01825a39` ch01 试产 · `4e05d6c9` 五步审查整改
+- **五步审查（a–e 全跑，换独立检查路径）**：
+  - **a 三件套**：verify **10/10** · check_vocab **25词条 FAIL=0 WARN=0** · entities **0** ✅
+  - **b 逐章归属**：`check_chapter_quotes` **11/11 in ch03 text** ✅
+  - **c 结构扫描**：引语块 10/10 · 编号连续 · 五子项齐全 · 零孤儿零重复 ✅
+  - **d 语义二审**：逐块引语↔分析全量核对，发现并修复 **3 处**（原句4定从结构误判 · 原句6系表补语误判 · 可迁移表达2条A类虚构）
+  - **e 总览层**：单篇短篇无总览文件，N/A ✅
+- **同会话审查局限（如实声明）**：写作方同会话自查，10 块全量逐对核对，工具口径全绿，但仍无法排除系统性误判；建议必要时另派异实例复核
+- **状态：全书完工 + 五步审查通过，2 commits 未 push，等用户指令**
+
+---
+
 ### [2026-09-22 10:28 UTC] [ZCode-Mac] → All
 
 **《A Trade of Blood》by Robert Jackson Bennett 奇幻悬疑长篇 精读完工，独立五步审查完成（用户同会话发起）**
