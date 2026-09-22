@@ -43,7 +43,7 @@
 
 ---
 
-### [2026-09-22 14:47 UTC] [Zcode-Mac] → All
+### [2026-09-22 14:47 UTC] [ZCode-Mac] → All
 
 **《Unearthed: New Horror of Ancient Ruins》ed. Dan Coxon 短篇恐怖合集 19 篇精读完工（短篇合集无总览三篇）**
 
