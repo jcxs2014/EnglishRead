@@ -60,7 +60,7 @@ source_text: ch21
 
 ---
 
-> **原句 4:** "Have you heard of him, son?" Victor holds his stare, something unspoken hovering between them."
+> **原句 4:** "Have you heard of him, son?" Victor holds his stare, something unspoken hovering between them.
 
 **中文理解**："你听说过他吗，儿子？" Victor 盯着他，他们之间有什么未说出口的东西。
 

@@ -24,15 +24,15 @@ source_text: ch07
 
 ### Chapter 6：七夜告白与 Lily 的心脏
 
-> **原句 1:** "Tell me something real." / Coffee or tea? / Any pets? / When's your birthday?
+> **原句 1:** "Tell me something real first."
 
-**中文理解**："告诉我一些真实的事。" / 咖啡还是茶？ / 有宠物吗？ / 你生日是什么时候？
+**中文理解**："先告诉我一些真实的事。"
 
-**关键词**：something real / grounding / intimacy through trivial questions
+**关键词**：something real / grounding / trust
 
-**为什么这样写**：Ezra 在七夜降神会中用日常问题作为"接地"技术——当超自然寒意和恐惧来袭时，日常问题（咖啡、宠物、生日）是锚定。这种问题-回答的来回形成了一种亲密仪式——每次 Mallory 回答一个问题，她就在情感上更靠近 Ezra 一点。这些琐碎的问题实际上是一种更深层的提问：你是谁？你喜欢什么？你关心什么？
+**为什么这样写**：这是 Mallory 在面对 Ezra 即将知道她最深秘密时的拖延策略——用"Tell me something real"作为交换条件。这个短语在七夜降神会中反复出现，成为两人建立信任的仪式。"First"暗示她即将说出更沉重的事情。
 
-**读者视角提示**：这些日常问答是全书最成功的情感建构段落——恐怖与温情在黑暗中交织，读者见证了两个受伤的灵魂通过"Tell me something real"建立信任的过程。
+**读者视角提示**：Mallory 用日常问题（"Tell me something real"）作为情感缓冲——她需要先感受到 Ezra 的真实，才能暴露自己的黑暗。
 
 ---
 
