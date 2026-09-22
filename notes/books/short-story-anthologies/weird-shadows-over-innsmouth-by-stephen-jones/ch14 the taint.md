@@ -8,7 +8,7 @@ source_text: ch14_brian_lumley.txt
 
 ## 一句话总结
 
-退休美国医生 Jamieson 在康沃尔渔村"疗养"Jilly 母女，调查其 Innsmouth 出身的亡夫 George 与半鱼私生子 Geoff；最终摊牌：他是 Waite 家的老祖宗、深潜者派驻人间的"大使"，Anne 鳃器正常而母亲被他下朊毒体，祖孙牵手走向大海。
+退休美国医生 Jamieson 在康沃尔渔村"疗养"Jilly 母女，调查其 Innsmouth 出身的亡夫 George 与半鱼私生子 Geoff；最终摊牌：他是 Waite 家的老祖宗、深潜者派驻人间的"大使"，Anne 鳃器正常而母亲被他下朊毒体，祖孙牵手走回房子。
 
 ## 精读
 
@@ -168,7 +168,7 @@ source_text: ch14_brian_lumley.txt
 
 **表达方式**：结尾的辈分核爆——"Jamie Waite's son"（后文 Jamie Waite 之子）配"chronologically closer to those old seafarers"（年代上更接近老水手），老头不是爷爷辈，是文物辈；"small, sharp, fish-like teeth"（后文鱼牙微笑）是签字：认亲用牙，不用血。
 
-**读者视角**："grandfather…ah, no"（先叫爷爷再纠正）的逗号里藏着一百多年；Anne 问"what of my mother"（我母亲怎么办），答案是朊毒体药片——"placebo…sugar pills"（后文安慰剂谎言）配"synthetic prions"（合成朊毒体），温情与谋杀共用一张处方签；手牵手走向大海的祖孙，是全书最长的影子。
+**读者视角**："grandfather…ah, no"（先叫爷爷再纠正）的逗号里藏着一百多年；Anne 问"what of my mother"（我母亲怎么办），答案是朊毒体药片——"placebo…sugar pills"（后文安慰剂谎言）配"synthetic prions"（合成朊毒体），温情与谋杀共用一张处方签；手牵手走回房子的祖孙，是全书最长的影子。
 
 ---
 

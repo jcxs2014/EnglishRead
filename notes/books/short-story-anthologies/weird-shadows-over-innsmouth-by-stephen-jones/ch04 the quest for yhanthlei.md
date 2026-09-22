@@ -32,7 +32,7 @@ source_text: ch04_john_glasby.txt
 
 > **原句 2:** How they come to be in my possession is not only irrelevant but also highly dangerous for certain individuals, including myself.
 
-**中文理解**：这些文件如何落到我手里不仅无关紧要，而且对某些人——包括我自己—— highly dangerous（高度危险）。
+**中文理解**：这些文件如何落到我手里不仅无关紧要，而且对某些人——包括我自己——高度危险。
 
 **句子结构**："not only…but also…" 并列递进，主语是 "How they come to be in my possession" 主语从句；破折号式的 "including myself" 把叙述者本人也拖进危险名单。
 
@@ -56,7 +56,7 @@ source_text: ch04_john_glasby.txt
 
 **表达方式**：全篇神话设定的总开关——"forced…to mate" 把杂交写成暴力而非自愿，镇民既是受害者也是共犯；"others" 故意含混其词，怪物在命名之前先以代词登场，恐惧先于形象。
 
-**读者视角**：这是 Olmstead 证词中最不容转圜的一句：黄金贸易、走私都可以谈，"强制杂交"直接堵死了"镇民只是 секрет 守旧"的洗白可能。
+**读者视角**：这是 Olmstead 证词中最不容转圜的一句：黄金贸易、走私都可以谈，"强制杂交"直接堵死了"镇民只是秘密守旧"的洗白可能。
 
 ---
 
@@ -70,7 +70,7 @@ source_text: ch04_john_glasby.txt
 
 **关键词**：change（变化）/ remain（停留）/ sunken city（沉没之城）
 
-**表达方式**：标题在正文中的唯一落点——Y'ha-nthlei 不是作为奇观被"发现"的，而是作为杂交者的"归宿"被说出的；"for ever" 把城市写成坟墓与故乡的合体，恐怖与乡愁同源。
+**表达方式**：标题在正文中的落点之一——Y'ha-nthlei 不是作为奇观被"发现"的，而是作为杂交者的"归宿"被说出的；"for ever" 把城市写成坟墓与故乡的合体，恐怖与乡愁同源。
 
 **读者视角**：读到此处标题才第一次获得含义：quest（寻找）的对象不是宝藏，而是一个物种的来世；后文潜艇去"找"它，找的其实是人类的结局。
 
@@ -86,7 +86,7 @@ source_text: ch04_john_glasby.txt
 
 **关键词**：submarine（潜艇）/ torpedoes（鱼雷）/ blast（轰击）
 
-**表达方式**：Chekhov's torpedo——鱼雷在此被提前上膛，后文深海决战才有 rozliczenie（交代）；"to Hell and back" 的粗口式自信与结尾"并未彻底摧毁"形成精确反讽，军方自信是恐怖片的标准祭品。
+**表达方式**：Chekhov's torpedo——鱼雷在此被提前上膛，后文深海决战才有交代；"to Hell and back" 的粗口式自信与结尾"并未彻底摧毁"形成精确反讽，军方自信是恐怖片的标准祭品。
 
 **读者视角**：Fenton 的"只信亲眼所见"与"政府居然当真"的矛盾，提前泄露了本篇的主题：理性机构被迫用非理性的敌人来校准自己的武器。
 
@@ -146,7 +146,7 @@ source_text: ch04_john_glasby.txt
 
 **中文理解**：但那里有巨大的球根状附肢和形状怪异的截锥体，它们以与欧几里得几何毫无关系的角度互相嵌合；当我徒劳地想把视野中的一切纳入理解时，只觉得双眼 horribly（可怕地）扭曲。
 
-**句子结构**：there be 句型罗列异形，定语从句 "which intermeshed…" 写结构，and 连接第二分句转入第一人称生理反应；"bearing no relation to" 是 Lovecraft 母题的逐字 covering（致敬）。
+**句子结构**：there be 句型罗列异形，定语从句 "which intermeshed…" 写结构，and 连接第二分句转入第一人称生理反应；"bearing no relation to" 是 Lovecraft 母题的逐字致敬。
 
 **关键词**：bulbous（球根状的）/ truncated（截断的）/ Euclidean geometry（欧几里得几何）/ assimilate（消化理解）
 

@@ -22,7 +22,7 @@ source_text: ch02_stephen_jones.txt
 
 **关键词**：brilliant（绝妙的）/ anthology（选集）
 
-**表达方式**：首句即立人设——精明、自信、带点自嘲的职业编者；"brilliant" 这个词后文会被十二年的滞销狠狠反讽，回忆录的倒叙优势在此。
+**表达方式**：首句即立人设——精明、自信、带点自嘲的职业编者；"brilliant" 这个词后文会被多年滞销狠狠反讽，回忆录的倒叙优势在此。
 
 **读者视角**：一句话交代时间、人物、野心，读者立刻知道这不是小说而是"编者自白"，阅读契约从"吓我"切换成"信我"。
 
@@ -54,7 +54,7 @@ source_text: ch02_stephen_jones.txt
 
 **关键词**：certain（确信的）/ commissioning（约稿）/ deal（合约）
 
-**表达方式**：职业老手的"破例"是最好的悬念钩子——读者都懂行规（先拿合同再约稿），破例意味着"要么大赚要么大赔"，后文十二年卖不掉的结局在此预支。
+**表达方式**：职业老手的"破例"是最好的悬念钩子——读者都懂行规（先拿合同再约稿），破例意味着"要么大赚要么大赔"，后文多年卖不掉的结局在此预支。
 
 **读者视角**：注意 "few times in my career" 的潜台词：琼斯在提醒你他不是新手，连老手都会看走眼，这个行业的运气成分有多大。
 
@@ -102,7 +102,7 @@ source_text: ch02_stephen_jones.txt
 
 **关键词**：lesson（教训）/ agreement（协议）
 
-**表达方式**：用一条行业戒律给十二年画句号，举重若轻；破折号后的句子是全书唯一一句"格言体"，编者把伤疤裱起来挂墙上。
+**表达方式**：用一条行业戒律给多年碰壁画句号，举重若轻；破折号后的句子是全书唯一一句"格言体"，编者把伤疤裱起来挂墙上。
 
 **读者视角**："And that, I thought, was that"（前一句）配这句，读者以为故事结束了——正是这种"结束感"，让下一段纳什维尔的转机有了起承转合。
 
@@ -118,7 +118,7 @@ source_text: ch02_stephen_jones.txt
 
 **关键词**：remained in print（不断版）/ premature（过早的）/ widowed（守寡的，转义无家可归的）
 
-**表达方式**：把一次酒吧闲聊谈成的交易（前文） sudden 接到出版史的正统上：阿卡姆社当年也是为洛夫克拉夫特"收尸"而创办的；"widowed" 一词双关——既是书的命运，也是这部选集自己的命运（被所有大社拒绝）。
+**表达方式**：把纳什维尔大会上谈成的交易接到出版史的正统上：阿卡姆社当年也是为洛夫克拉夫特"收尸"而创办的；"widowed" 一词双关——既是书的命运，也是这部选集自己的命运（被所有大社拒绝）。
 
 **读者视角**：读到这里才懂书名外的另一层谱系：这不是洛夫克拉夫特选集，这是"德雷斯式"选集；续写的偶像是续写者本人。
 
@@ -134,9 +134,9 @@ source_text: ch02_stephen_jones.txt
 
 **关键词**：launched（首发）/ fish-themed（鱼主题的）/ sell out（售罄）
 
-**表达方式**：十二年滞销的书，首发派对主题是"鱼"——编者用自嘲完成复仇；"first book…to sell out" 把小出版社的里程碑和自己的翻身仗写成一句话，苦尽甘来的全部证据。
+**表达方式**：多年滞销的书，首发派对主题是"鱼"——编者用自嘲完成复仇；"first book…to sell out" 把小出版社的里程碑和自己的翻身仗写成一句话，苦尽甘来的全部证据。
 
-**读者视角**：从 "not a single offer" 到 "sell out"，两句话之间隔了十二年；读者替编者出的那口气，在这里一次性吐出来。
+**读者视角**：从 "not a single offer" 到 "sell out"，两句话之间隔了数年；读者替编者出的那口气，在这里一次性吐出来。
 
 ---
 
@@ -204,5 +204,5 @@ source_text: ch02_stephen_jones.txt
 |------|------|------|
 | edition | 版本 | "a beautifully illustrated hardcover edition" — 首版的模样 |
 | party | 派对 | "a fish-themed signing party at the World Fantasy Convention in New Orleans" — 苦尽甘来的首发 |
-| lesson | 教训 | "At least I had learned a hard lesson" — 十二年的学费 |
+| lesson | 教训 | "At least I had learned a hard lesson" — 多年碰壁的学费 |
 | deal | 交易，合约 | "a proposed deal was done before the evening was over" — 一晚上谈成的出版 |
