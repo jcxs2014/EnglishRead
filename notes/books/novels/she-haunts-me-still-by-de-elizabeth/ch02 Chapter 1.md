@@ -16,7 +16,7 @@ source_text: ch02
 
 **人物弧线**：Mallory 的创伤后应对机制（以谎言为生存工具）首次被正面审视；她对母亲之死的记忆被校园触发，开始主动追查真相。
 
-**叙事手法**：第一人称现在时 + 童年闪回交替；两条时间线（童年 blue house 的 ghost woman 记忆 ↔ 现在 Shore College 剧院）交织。
+**叙事手法**：第一人称现在时；Shore College 剧院的今晚场景为主线，穿插迎新活动的简短回忆。
 
 ---
 
@@ -159,4 +159,4 @@ source_text: ch02
 
 ## 一句话总结
 
-Chapter 1 以谎言开场、以追查真相的种子落地——Mallory 发现母亲在 Shore College 就读期间曾因"见鬼"的症状就医，而那个她以为是童年幻觉的 blood-soaked woman，可能有着真实的神经学解释；同时，神秘新生 Ezra 的出现和她意外获得 Juliet 角色，让她的大学生活与母亲的过去开始产生危险的交汇。
+Chapter 1 以谎言开场——Mallory 带着一把银色小刀走进 Shore College 剧院，在化妆台上与挚友 Arden 刻下首字母时割伤了手；神秘男子 Ezra Pierce 用医学术语警告她低血容量性休克的风险，而她闻到的燃烧气味唤起了关于母亲之死的记忆；母亲的纪念铜牌确认了 Webb 家族与 Shore 的世代联系，Mallory 即将走母亲走过的路。
