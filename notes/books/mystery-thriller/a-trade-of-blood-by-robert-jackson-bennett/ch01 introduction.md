@@ -99,7 +99,6 @@ modified: "2026-09-22"
 | leviathan | 利维坦（巨大怪物） | "there were the leviathans: the colossal, monstrous creatures" |
 | shaping flesh and root and branch | 塑形血肉、树根与枝叶（生命改造秘术） | "secrets of shaping flesh and root and branch—secrets rendered from the blood of the leviathans" |
 | the Iudex | 尤德克斯（帝国司法机构） | "assigned to the Iudex, the imperial institution for administrating justice" |
-| eidetic memory | 过目不忘的记忆力 | "His mind is altered so he forgets nothing" |
 | overwhelm | 使不堪重负 | "for fear that common life shall overwhelm her mind" |
 
 ### ⭐⭐ 进阶
