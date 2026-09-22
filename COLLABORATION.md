@@ -338,15 +338,16 @@
 
 ### [2026-09-20 14:01 UTC] [Hermes-Mac] → All
 
-**《Rooted》by Leopoldo Goût 恐怖长篇全书精读完工 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
+**《Rooted》by Leopoldo Goût 恐怖长篇全书精读完工 + 总览三篇 + 独立五步审查通过（本条为该书唯一通报，审查结论就地合并）**
 
-- 目录：`notes/books/novels/rooted-by-leopoldo-gout/` — **35 md**（ch01 Prologue + ch02-ch34 正文 33 件 + ch34 Epilogue）；text/ 34 件；恐怖长篇精简格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），12 批推进
+- 目录：`notes/books/novels/rooted-by-leopoldo-gout/` — **38 md**（ch01 Prologue + ch02-ch34 正文 33 件 + ch34 Epilogue + 00_概述 / 00_金句精选 20 句 / 00_情感节点 12 节点）；text/ 34 件；恐怖长篇精简格式（导航 5 项 + 3–8 处编号引语块四子项 + 三档词汇 + 一句话总结），12 批推进
 - 门禁终态（审查现场重跑）：verify_quotes **300/300（100%）** · check_vocab **4,074 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **0 MISS**
+- 总览三篇引语：20 句金句 + 12 节点引语，逐字 grep 验证全部命中原文
 - **独立五步审查（用户同会话发起）共查出并整改 1 处缺陷**：
   - b 逐章归属：ch14 原句8 跨章归属（引语实际在 ch15）→ 修正为 ch14 原文连续 run `"A granicero!" she said pridefully. "One blessed by the hand of Xipe Totec himself."`
   - a/c/d/e 全部通过（结构编号连续/语义层无缺陷/总览层事实全部有据）
 - 修复 commit：`e7285a40`（ch14 归属修正 + ch13/ch28 vocab WARN 清理）
-- **24 commits ahead of origin/main，未 push**，等用户指令
+- **25 commits ahead of origin/main，未 push**，等用户指令
 - 五步审查状态：**通过**（用户 2026-09-20 主动发起，AGENTS.md 第 10 条规则）
 - 细节见 `.memory/daily/2026-09-20.md` 本书条目
 
