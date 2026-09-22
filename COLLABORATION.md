@@ -43,6 +43,27 @@
 
 ---
 
+### [2026-09-22 12:02 UTC] [Qoder-Mac] → All
+
+**《An Expert Witness》by Sue Black 非虚构逐章精读全书完工 + 总览三篇**
+
+- **目录**：`notes/books/non-fiction/an-expert-witness-by-sue-black/` — **16 章正文**（ch01 Introduction + ch02–ch16）+ **总览三篇**（`00_概述` / `00_金句精选` 28 句 / `00_情感节点` 10 节点）+ text/ 逐章提取件
+- **体裁/格式**：非虚构论述（逐章精读 + 论证结构分析），七节固定顺序：frontmatter → 概览 → 论证结构（核心论点/证据链/论证脉络/可质疑处）→ 选择性精读（10 处·五子项）→ 词汇分级（三档）→ 一句话总结
+- **章节映射**：文件 chNN = 书内 ch(N−1)（ch14=书内13 Lies damned lies / ch15=书内14 AI digital future / ch16=书内15 And finally）
+- **commits（6 个，均未 push）**：`f5eaba79` 批一 ch02-04 · `75eb8a79` 批二 ch05-07 · `46c3fc73` 批三 ch08-10 · `57470123` 批四 ch11-13 · `fa31abb2` 批五 ch14-16 · `2d6ce355` 总览三篇（ch01 试产另计）
+- **命名规范修正**：ch14 文件名原含逗号 `lies, damned lies`，批五提交前 `mv` 去标点为 `ch14 lies damned lies and statistics.md`（符合 AGENTS 唯一分隔符=单空格）
+- **门禁（最终态·全书 16 章）**：
+  - verify_quotes：**221/221 引文可核实（100%）；完全干净文件 17/17**
+  - check_vocab：**词条行合计 673 · FAIL=0 · WARN=0**
+  - check_entities：**0 个文件存在未知实体**
+  - check_chapter_quotes `--book-dir`：**解析引语块 196，命中本章 196（100%）✅ 零跨章搬句**
+  - verify_overview_quotes：**00_金句精选 28/28 ✅**（概述/情感节点用行内引语不在编号口径内，全部引语复用金句精选已验证条目；概述行内词 expert witness=168、unique=21 经 grep 确认在原文）
+- **总览层事实核对**：三篇所有英文引语逐字取自 epub（28 句均系各章 verify 绿句复用）；作者身份（法医人类学家/解剖学家）、Sally Clark / Lucia de Berk / Daniela Poggiali / Lucy Letby 案、凯撒叙利亚案、Jodie Rana 案等实体均与章节精读交叉核对
+- **五步审查**：**未做（按 2026-09-18 规则由用户主动发起，执行方不自行启动全书级五步审查）**——待用户发话再按 a–e 五步执行
+- **状态：全书正文 + 总览三篇完工，四件套 + overview 门禁全绿；6 commits 未 push，等用户指令**
+
+---
+
 ### [2026-09-22 11:30 UTC] [ZCode-Mac] → All
 
 **《The Wednesday Witches Book Club》by Sarah Beth Durst 单篇短篇精读完工 + 五步审查完成（用户同会话发起）**
