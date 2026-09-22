@@ -63,6 +63,7 @@ title: 书单
 | [Guardians of Dawn: Suhwa](books/novels/guardians-of-dawn-suhwa-by-s-jae-jones/) | S. Jae-Jones |
 | [Heir of Prophecy](books/novels/heir-of-prophecy-by-analeigh-sbrana/) | Analeigh Sbrana |
 | [Golden Boy](books/novels/golden-boy-by-a-j-symon/) | A.J. Symon |
+| [Hell to Pay](books/novels/hell-to-pay-by-lora-beth-johnson/) | Lora Beth Johnson |
 | [Helm](books/novels/helm-by-sarah-hall/) | Sarah Hall |
 | [How Much of These Hills Is Gold](books/novels/how-much-of-these-hills-is-gold-by-c-pam-zhang/) | C. Pam Zhang |
 | [Home Sick](books/novels/home-sick-by-rhiannon-grist/) | Rhiannon Grist |
@@ -172,7 +173,6 @@ title: 书单
 | [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
-| [Hell to Pay](books/mystery-thriller/hell-to-pay-by-lora-beth-johnson/) | Lora Beth Johnson |
 | [Destination Funeral](books/novels/destination-funeral-by-paige-harbison/) | Paige Harbison |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
 | [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
