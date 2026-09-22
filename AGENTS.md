@@ -119,6 +119,19 @@
 
 **核心规范**：论证结构在精读之前——先看骨架再看语言。可质疑处不得省略，是非虚构精读的价值所在。
 
+## 新 epub 归档流程（books 根目录入库，2026-09-22 固化）
+
+> 用户把新 epub 投到 `notes/books/` 根目录 → 归档进四类分类目录（novels / mystery-thriller / non-fiction / short-story-anthologies）。五批 110+ 本实战经验固化；体裁判定失败实证见 260912 Lonely Mouth 误判。
+
+1. **核对是否已归档**：目录名 kebab 化 vs 书名比对；撇号差异（如 `Nabokov's Dozen` vs `nabokovs-dozen`）是 Quartz slugify 噪音，不算缺失。
+2. **体裁判定——不凭书名/作者印象，抽检开篇**：
+   - 按 OPF spine 顺序取第一个非 boilerplate 正文；SKIP 列表：acknowledg / about / contents / copyright / title / dedication / toc / nav / praise / cover / epigraph / foreword / intro / also_by / next-reads / dictionary / promotional / index_ / halftitle / series / testimonial / warning。混淆文件名（c9.xhtml / cM.xhtml / index_split_00N）时 fallback = 扫全部 HTML 找 >600–800 字符非 boilerplate 页；拿不准再读 TOC/spine 定真实章数。
+   - **首章风格 ≠ 体裁**：Lonely Mouth 首章回忆录风实为小说——出版方信息 + 叙事人称 + LoC Cataloguing（`LCGPT: Novels` 是权威虚构信号）三方互证；Praise/营销文案的"thriller""mystery"是修辞不是体裁标签。
+   - 边界本（horror / 罪案骨架 / 单篇短故事 / 选集归属不明）一律 AskUserQuestion 用户拍板。
+3. **建目录并移动**：`<cat>/<slug>/library/`（slug = `title-by-author` kebab）；`library/` 在 gitignore 内未被 git 跟踪——**手工 mkdir + mv + rmdir，`git mv` 会报 bad source**。
+4. **收尾对账**：index.md 按字母位插入；对账口径 = 目录名 kebab 化逐一比对 index 链接 slug，**零缺零幽灵才算齐**；顺手查历史缺行（多实例编辑覆盖会丢行——Ripeness 行被并行 edit 冲掉实证）。
+5. **epub 留存**：新书 epub 保留在 library/（待 extract_chapters 提取）；存量已精读书可按用户指令删除 epub、保留空 library/ 目录，核验时拷回。
+
 ## 书籍精读原文核验（verify_quotes 门禁，2026-08-27 新增）
 
 > 背景：Nabokov's Dozen 与 100 Great Short Stories 两个批次曾因"未喂原文、凭记忆脑补引文"整批作废重做（详见 `docs/REWORK_INSTRUCTION_100GREAT.md`）。自本条起为硬性规则。
@@ -162,7 +175,8 @@
       ```bash
       grep -i "scrutinized" text/ch01_it_was_almost.txt   # 有输出=词在原文，可写；无输出=虚构，不许写
       ```
-   c. **例句**：直接从原文复制粘贴，不改写。不允许自造例句（即便意思接近）。
+      **短词/词根 grep 必须加词边界**（`grep -iw` 或 `\bword\b`）——`grep -ic "roach"` 曾命中 `reproach` 致假阳性、把跨章例句当成本章真词（2026-09-12 实证）；reels/hem 类短词跨章串同理。
+   c. **例句**：直接从原文复制粘贴，不改写。不允许自造例句（即便意思接近）。**读原文一律 shell `sed`/`grep`，不信 Read 工具输出与上一次读取的记忆**——Read 曾把相邻章内容混进本章输出（ch09 的 Read 实为 ch07 片段）、相邻章行号记忆曾致 3 个例句错章（2026-09-12/16 实证）；引语/例句写入前必须对**当章** text/ 再 grep 一次。
    d. **章末核验**：每章写完立即跑 `verify_quotes` 和 `check_vocab`，**FAIL=0 才推进下一章**。不等到批次 commit 前才跑：
 
       ```bash
@@ -211,12 +225,13 @@
 
     c. **结构扫描**：用**行首引语块口径**脚本扫——编号连续 / 四件套齐全 / 零孤儿块 / 零重复块；禁止用整文 m 字符匹配（噪音大、把导航里的圈数字引用都算成引语块）。**加跑总览 H1 语义校验**：`grep -m1 '^# ' 00_*.md` 逐文件比对 H1 与文件语义（见第 9 条 h，覆盖事故一行即抓）。
 
-    d. **语义二审**：引语↔分析逐对核对。**子代理委派必须附 1-2 个本库真实失败案例 + 防幻觉条款**（定义与实证见第 9 条 f，此处不重复）；**子代理额度耗尽时主会话自执行不可省**——证据：NS 137 块三件代理被 Token Plan 拦下，主会话逐对核对仍可完成全部。**终验标准件：整行连续 sweep**——把引语**全串**（而非 verify_quotes 的前 52 字符指纹）flat 比对当章 text，是 52 字符指纹盲区的唯一克星（Blacktail 批次沉淀；She Haunts 12 条跨标签拼接曾被审查当"假阳性"放过再证，2026-09-22）。
+    d. **语义二审**：引语↔分析逐对核对。**子代理委派必须附 1-2 个本库真实失败案例 + 防幻觉条款**（定义与实证见第 9 条 f，此处不重复）；**子代理额度耗尽时主会话自执行不可省**——证据：NS 137 块三件代理被 Token Plan 拦下，主会话逐对核对仍可完成全部。**终验标准件：整行连续 sweep**——把引语**全串**（而非 verify_quotes 的前 52 字符指纹）flat 比对当章 text，是 52 字符指纹盲区的唯一克星（Blacktail 批次沉淀；She Haunts 12 条跨标签拼接曾被审查当"假阳性"放过再证，2026-09-22）。**批量委托载荷上限 ~200k 字符**——15 个 md 触顶 `AGGREGATE_CONTENT_TOO_LARGE`，按 7–8 文件拆批（2026-09-19 实证）；子代理锚定类任务书必须写死**统一严格口径**（如"关键词必须在引语内"），多路子代理各持标准徒增复核成本（2026-09-20 实证）。
 
-    e. **总览层事实核对**：概述/金句精选/情感节点的人物身份、人物关系、结局走向、叙事结构（如是否双时间线）必须与章节精读文件交叉核对；**总览引语必须逐字取自原文**，写入前/审查时逐句 `grep` 验证——这不只是 verify_quotes 主口径的责任，因为主脚本不解析 `00_*.md` 总览文件。**实证**：NS 金句⑯ "Bob, you're hunting girls. Not bears." 全书查无，属虚构引语。**特别注意"逐字命中≠说话人正确"——Room 金句㉒ "What I did to you" 原文逐字命中但说话人从 Rudbeck 误转 Kim；总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人**。说话人误归的规模教训：Room 金句精选 30 条中 11 条（37%）人物误归（Julia↔Astrid、Rudbeck↔Jonny、Kim↔Julia）——根因是引语真实而上下文/为什么这样写子项凭记忆填充，verify 全绿下全数漏网；涉及多方的引语必须看到说话人标签级证据才算数（验证方法见 docs/新书启动模板.md 第 7 条说话人归属核验）
+    e. **总览层事实核对**：概述/金句精选/情感节点的人物身份、人物关系、结局走向、叙事结构（如是否双时间线）必须与章节精读文件交叉核对；**总览引语必须逐字取自原文**，写入前/审查时逐句 `grep` 验证——这不只是 verify_quotes 主口径的责任，因为主脚本不解析 `00_*.md` 总览文件。**实证**：NS 金句⑯ "Bob, you're hunting girls. Not bears." 全书查无，属虚构引语。**特别注意"逐字命中≠说话人正确"——Room 金句㉒ "What I did to you" 原文逐字命中但说话人从 Rudbeck 误转 Kim；总览引语 grep 命中后必 grep 前后 ~200 字符窗口确认说话人**。说话人误归的规模教训：Room 金句精选 30 条中 11 条（37%）人物误归（Julia↔Astrid、Rudbeck↔Jonny、Kim↔Julia）——根因是引语真实而上下文/为什么这样写子项凭记忆填充，verify 全绿下全数漏网；涉及多方的引语必须看到说话人标签级证据才算数（验证方法见 docs/新书启动模板.md 第 7 条说话人归属核验）。**总览引语的章节标注（chNN）是独立工具盲区**——verify 只验逐字、不验标注对错，"引语真实但章节标错"5 处全绿漏网（2026-09-19 实证）；总览金句/节点须逐条做**章节标签对账**（把引语 flat 比对它所标注章节的 text/，不在即错位）。
 
     **四类高发坑位（审查时优先扫描）**：
     - **总览层情节虚构**：主角身份错写、假恋情、假结局、假 POV、假双时间线——概述"做了什么"陈述须 grep 实体（人名/地名）并查该章原文支撑。
+    - **人物关系断言**：妻/女/妹等亲属称谓最易凭印象写错且一错贯穿多文件——关系类断言必须**全书 grep 后再落地**（Adam Mine：Magda/Gida 实为三个妹妹，早期误写"女儿/父亲"贯穿 4 文件，靠 ch89 "her shy elder brother" 铁证才修，2026-09-18 实证）。
     - **说话人反转**：同一英文逐字命中但说话人错位——总览层 grep 命中后必 grep 前后 ~200 字符窗口二次确认。Room 实战：8 处金句说话人错位（含 ㉒ Rudbeck→Kim、㉓ Irma→Jonny、㉗ 车主→Astrid）
     - **cliffhanger 跨章场景**：前一章悬念收尾、后一章展开的对话不能整场放进前一章（金句 ㉑ cockfight 实为 ch08 葬礼巴士而非 Animal Action）。**预防**：遇到两章边界的引语必须同时读前后章 text/ 各 ~100 行确认实际发生章节
     - **跨书污染**：从其他书的设定串入（NS 的 Jo/Shayne 实为《A Real Paige Turner》人物；Room in the Ground 的 Schöneberg 实为他书角色）——任何不熟悉的人名/地名都先 `grep -rl "<name>" notes/books/` 排除。
@@ -250,8 +265,9 @@
 | `check_chapter_quotes.py` | flat 匹配对弯撇号/超长句有假 MISS（Ligotti ch22 实证）——MISS 先人工 grep 再定性 |
 | `verify_overview_quotes.py` | 概述行内英文引语不在口径内（须逐条人工 grep）；CIRCLED 已扩至㉚，超出部分仍须人工兜底 |
 | `audit_book.py` | **不含 crossref（分析层 `chNN "引语"` 扫描）**——该项由 check_crossref.py 单独承担；C 节五子项对言情/精简格式四子项误报（SOP 第 24 条豁免） |
+| `check_crossref.py` | **只认 `chNN "引语"` 英文模式，中文"第X章"写法完全不在口径**——Night Pool 45 处中文转述跨章引用 0 报警（2026-09-21 实证）；分析层中文跨章指涉须人工核对，报警≠缺陷须读行复核 |
 | 全部工具 | 报告数字须现场重跑复验（NS 101/101 实为 108/109）；verify 全绿 ≠ 语义层干净（说话人/cross-ref/数字断言在工具口径之外） |
-规则：书籍批次 commit 前至少跑完 1→2→总览门禁；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。
+规则：书籍批次 commit 前至少跑完 1→2→总览门禁；3–5 用于自查与验收；独立审查场景的五步流程与四类坑位见第 10 条。工具链 FAIL 一律以「报告+留言」方式处理（见第 6 条任务边界），不跨任务直接修改文件。**非 1:1 章节映射的前置要求**：偏移（如 md chNN = text chN+3）或特殊文件名映射的书，**每章 frontmatter 必须写 `source_text: chNN`**——check_vocab / check_chapter_quotes 按此字段定位当章 text；Lost and Found、The Harpy Knight、Embrace（均偏移 +3）与 Lost&Found ch22→ch25_byrds_of_a_feather 特殊文件名实证（2026-09-12/20）。
 
 ## git 与推送策略
 - 每批（三章）精读完成即本地 commit；**精读批次进行中不自动 push**
@@ -259,6 +275,8 @@
 - 每次 commit 前先拉取远程（`git pull`），避免分叉
 - **commit 前 `git status` 确认工作树归属**：多实例并行时文件可能已被他实例抢先提交（Up in Molten Lights ch76-79 被抢先 commit、自己的 add 落空实证）——被抢先时核对内容完整性再决定补 commit 或放弃
 - **多实例并行遇 `index.lock` 时等待重试，禁止强删锁文件**（强删会损坏他人正在进行的提交；Memories Like Fangs + Rookie Season 双实证）
+- **`GIT_INDEX_FILE` 独立索引提交后必须紧跟一次普通 `git add` 刷新主 index**——独立索引绕过主 index 同步，后继提交会把本次文件当"删除"入库（Daggerbound 三个 00_* 实证，479c01a1 加回，2026-09-14）
+- **`git commit --amend` 前 `git log -1` 核对 HEAD 的哈希与消息**——本机多实例同用 jcxs2014 作者名，只看作者名不够（Adam Mine 误 amend 他实例 Destination Funeral 批19、reflog 复原实证，2026-09-18）
 - **协作板更新节奏**：批次进行中不逐批更新 COLLABORATION.md；**全书完成（五步审查之前）统一更新一次**——协作板发本书唯一完工通报 + 当日工作日志记本书条目，均附全部 commit 编号；**独立五步审查之后，把审查结论/整改情况就地追加进同一条板消息与同一篇日志的本书条目内（不新开条目）**；**此后再有额外修复记录时再就地更新一次**（不作 push 前的逐本"已推送"标记要求——push 常为多书统一执行）
 - 原文 `.src.md` 被 `.gitignore` 忽略，勿强行 add
 - `scripts/attic/` 存档历史一次性修复脚本，不进主工具链；新的一次性修复脚本直接放 attic/，勿占用 verify_/check_ 系列命名
