@@ -44,7 +44,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 3:** "If there’s a way to end war, I want it," Parsifal stated. "Whatever it is, whatever it takes, I’ll do it. Even if it means selling my soul to the Devil."
+> **原句 3:** "If there’s a way to end the killing, I want it," Parsifal stated. "Whatever it is, whatever it takes, I’ll do it. Even if it means selling my soul to the Devil."
 
 **中文理解：** "如果有办法结束战争，我想要它，"Parsifal 说。"不管是什么，不管需要什么，我都会做。即使这意味着把灵魂卖给魔鬼。"
 
@@ -58,7 +58,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 4:** "The first god," Musa continued. "Older than Sumeria. Older than the Walls of Jericho. Older than Troy."
+> **原句 4:** "Older than Sumeria. Older than the Walls of Jericho. Older than Troy."
 
 **中文理解：** "'第一个神'，"Musa 继续说。"比苏美尔更古老。比耶利哥的城墙更古老。比特洛伊更古老。"
 

@@ -100,7 +100,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 7:** "She reached down to touch it when, without warning, an arm of flayed muscles burst through the blackness and grabbed her forearm."
+> **原句 7:** "She couldn't see her reflection. She was reaching down to touch it when, without warning, an arm of flayed muscles burst through the blackness and grabbed her forearm."
 
 **中文理解：** "她伸手去触碰它，突然，毫无预警地，一只带着剥皮肌肉的手臂从黑暗中冲出，抓住了她的前臂。"
 

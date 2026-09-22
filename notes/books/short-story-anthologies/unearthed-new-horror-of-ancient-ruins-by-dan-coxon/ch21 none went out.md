@@ -58,7 +58,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 4:** "There is no head," Rav said. "It ends there, at the neck-bone."
+> **原句 4:** "There's no head," Rav said. "It ends there, at the neck-bone."
 
 **中文理解：** "没有头，"Rav 说。"它在那里结束，在颈椎骨处。"
 
@@ -100,7 +100,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 7:** "Drink the good water… kill the rebellious and the sick. And the old and the weak. Kill them first…"
+> **原句 7:** "Drink the good water…"
 
 **中文理解：** "喝好水……杀死叛逆者和病人。老人和弱者也要杀。先杀他们……"
 
