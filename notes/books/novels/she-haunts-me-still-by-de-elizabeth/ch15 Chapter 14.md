@@ -72,11 +72,11 @@ source_text: ch15
 
 ---
 
-> **原句 5:** "I won't hear another word of this, Tobias. You tell Jacob to leave Lily's grave alone—or I'll tell him myself."
+> **原句 5:** Rebecca sighs, fingers pressed to her forehead. "I won't hear another word of this, Tobias." Lily's husband. "You tell Jacob to leave Lily's grave alone—or I'll tell him myself."
 
-**中文理解**：我不会听另一个字，Tobias。你告诉 Jacob 不要动 Lily 的坟墓——否则我自己告诉他。
+**中文理解**：Rebecca 叹了口气，手指按在额头上。"我不会听另一个字，Tobias。"Lily 的丈夫。"你告诉 Jacob 不要动 Lily 的坟墓——否则我自己告诉他。"
 
-**关键词**：leave Lily's grave alone / I'll tell him myself / Rebecca protects Lily's grave
+**关键词**：leave Lily's grave alone / Rebecca sighs / I'll tell him myself
 
 **为什么这样写**：这是 Rebecca 的最终立场——她不会让 Jacob 接触 Lily 的坟墓。"Or I'll tell him myself"暗示 Rebecca 愿意直接对抗 Jacob，展示了她的勇气和决心。这个场景建立了历史与当代的平行：Rebecca 在 1890 年保护 Lily 的坟墓，Mallory 在当代发现了这个坟墓——两人都被同一个女人（ Lily）的命运所连接。
 

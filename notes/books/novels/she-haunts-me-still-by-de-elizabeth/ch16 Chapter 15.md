@@ -24,11 +24,11 @@ source_text: ch16
 
 ### Chapter 15：蓝图纸与秘密地道
 
-> **原句 1:** "Lily's corpse would have been kept right here. It's like she never left."
+> **原句 1:** "Lily's corpse would have been kept right here," Mallory murmurs, thinking of last night's dream. "It's like she never left."
 
-**中文理解**：Lily 的尸体可能一直保存在这里。好像她从未离开。
+**中文理解**："Lily 的尸体可能一直保存在这里，"Mallory 低声说，想起昨晚的梦。"好像她从未离开。"
 
-**关键词**：corpse kept right here / she never left / morgue
+**关键词**：corpse kept right here / Mallory murmurs / she never left
 
 **为什么这样写**：这是 Mallory 对蓝图纸上"停尸房"位置的反应——她将图纸上的空间与昨晚幻视中看到的历史联系起来。"It's like she never left"这个观察暗示 Lily 的"存在"不仅限于 ghost，她的身体也可能从未真正离开过这个建筑。这个想法是本章的核心恐惧。
 
@@ -48,9 +48,9 @@ source_text: ch16
 
 ---
 
-> **原句 3:** "From the sanitarium to the chapel? To transport dead bodies discreetly for funerals, I'd bet."
+> **原句 3:** "From the sanitarium to the chapel?" Saskia echoes. "To transport dead bodies discreetly for funerals, I'd bet."
 
-**中文理解**：从精神病院到小教堂？为了谨慎地运送尸体去葬礼，我打赌。
+**中文理解**："从精神病院到小教堂？"Saskia 回声般地重复。"为了谨慎地运送尸体去葬礼，我打赌。"
 
 **关键词**：transport dead bodies / discreetly / funerals / morgue to chapel
 

@@ -36,11 +36,11 @@ source_text: ch07
 
 ---
 
-> **原句 2:** "I was ten the first time my dad hit me. But that's not where it started. Or where it ended. People think of abuse as bruises and welts, but it's also other things."
+> **原句 2:** "I was ten the first time my dad hit me," Ezra interrupts, and she quiets immediately. The air between them seems to shift. "But that's not where it started. Or where it ended. People think of abuse as bruises and welts, but it's also other things."
 
-**中文理解**：我爸第一次打我是我十岁的时候。但那不是开始的地方，也不是结束的地方。人们以为虐待就是淤伤和水泡，但也包括其他东西。
+**中文理解**："我爸第一次打我是我十岁的时候，"Ezra 插嘴道，她立刻安静了。他们之间的空气似乎凝固了。"但那不是开始的地方，也不是结束的地方。人们以为虐待就是淤伤和水泡，但也包括其他东西。"
 
-**关键词**：bruises and welts / it's also other things / voice turned steady
+**关键词**：bruises and welts / it's also other things / Ezra interrupts
 
 **为什么这样写**：这是 Ezra 第一次正面谈论父亲的家暴。"bruises and welts"是可见的伤害，但"other things"——语言暴力、控制、孤立——才是更深的伤口。他的声音在谈论这些时"保持稳定"是因为他花了多年才学会谈论它，不是因为这不痛苦。Mallory 的拇指回应（轻轻擦过他的手背）是全章最温柔的肢体语言——两个受过伤的孩子在彼此身上找到了最原始的安慰。
 
@@ -48,11 +48,11 @@ source_text: ch07
 
 ---
 
-> **原句 3:** "My mother killed herself. And I was the one who found her."
+> **原句 3:** "My mother killed herself," Mallory says. "And I was the one who found her."
 
-**中文理解**：我妈自杀了。而我是那个发现她的人。
+**中文理解**："我妈自杀了，"Mallory 说。"而我是那个发现她的人。"
 
-**关键词**：killed herself / I was the one who found her
+**关键词**：killed herself / Mallory says / I was the one who found her
 
 **为什么这样写**：这是 Mallory 全章最难的坦白——用最少的词承载最重的创伤。三句话中的每一句都像是一步台阶：① 事实（我妈死了）② 方式（自杀）③ 她的角色（发现者）。这个坦白的省略式表达（"cracked open and bleeding and bleeding and bleeding"）显示了 Mallory 在说这些时的情感距离——她必须把话说出来才能让它真实存在，而说出来的方式是用一连串的破碎意象。
 

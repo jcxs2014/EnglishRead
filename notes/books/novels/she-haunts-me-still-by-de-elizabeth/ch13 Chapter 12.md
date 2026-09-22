@@ -72,11 +72,11 @@ source_text: ch13
 
 ---
 
-> **原句 5:** "I first saw her when I went into remission. Mostly, she's showed up in my dreams. But I've seen her sometimes in mirrors or windows. She's only spoken to me twice. Once, to tell me her name. And again to say, 'It's not meant for you.'"
+> **原句 5:** "I first saw her when I went into remission," Saskia says. "Mostly, she's showed up in my dreams. But I've seen her sometimes in mirrors or windows. She's only spoken to me twice. Once, to tell me her name." She pauses. "And again to say, 'It's not meant for you.'"
 
-**中文理解**：我第一次见到她是在我癌症缓解的时候。大部分时间她出现在我梦里。但我有时在镜子或窗户里看见她。她只对我说话过两次。一次是告诉我她的名字。另一次是说："那不是为你准备的。"
+**中文理解**："我第一次见到她是在我癌症缓解的时候，"Saskia 说。"大部分时间她出现在我梦里。但我有时在镜子或窗户里看见她。她只对我说话过两次。一次是告诉我她的名字。"她停顿了一下。"另一次是说：'那不是为你准备的。'"
 
-**关键词**：went into remission / dreams / mirrors or windows / It's not meant for you
+**关键词**：went into remission / Saskia says / mirrors or windows / It's not meant for you
 
 **为什么这样写**：这是 Saskia 的 Lily 经历——她是在重病（癌症）缓解期间第一次看见 Lily。"Remission"（缓解）是医学术语，暗示 Saskia 曾患重病，这可能解释了她对超自然事物的敏感性。"It's not meant for you"这句话是关键——Lily 在否定 Saskia 是某个东西的接收者，但那个"东西"是什么？
 

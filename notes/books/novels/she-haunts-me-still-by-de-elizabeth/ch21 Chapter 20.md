@@ -36,11 +36,11 @@ source_text: ch21
 
 ---
 
-> **原句 2:** "That's quite enough, Ezra. That's hardly how you should speak to a woman."
+> **原句 2:** "That's quite enough, Ezra." The chair creaks as he leans back, his voice curled in amusement when he adds, "That's hardly how you should speak to a woman."
 
-**中文理解**：够了，Ezra。你不应该那样对一个女人说话。
+**中文理解**："够了，Ezra。"椅子吱呀作响，他向后靠去，声音带着玩味的笑意补充道，"你不应该那样对一个女人说话。"
 
-**关键词**：hardly how you should speak to a woman / Victor's twisted chivalry
+**关键词**：That's quite enough / chair creaks / hardly how you should speak to a woman
 
 **为什么这样写**：这是 Victor 阻止 Ezra 的攻击，但他的方式很有问题——他在纠正 Ezra"不应该那样对女人说话"，但他刚才自己就在对 Mallory 进行性骚扰（捏她的屁股）。这种扭曲的骑士精神是 Victor 性格的核心：他在表面上维护"正确"的性别行为，但实际在操纵和伤害女性。
 
