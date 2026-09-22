@@ -123,7 +123,11 @@
 
 > 用户把新 epub 投到 `notes/books/` 根目录 → 归档进四类分类目录（novels / mystery-thriller / non-fiction / short-story-anthologies）。五批 110+ 本实战经验固化；体裁判定失败实证见 260912 Lonely Mouth 误判。
 
-1. **核对是否已归档**：目录名 kebab 化 vs 书名比对；撇号差异（如 `Nabokov's Dozen` vs `nabokovs-dozen`）是 Quartz slugify 噪音，不算缺失。
+1. **核对是否已归档**：目录名 kebab 化 vs 书名比对；撇号差异（如 `Nabokov's Dozen` vs `nabokovs-dozen`）是 Quartz slugify 噪音，不算缺失。**核对命中（书已有分类目录，含精读已完成的书）时按处置表，不新建目录、不重复插 index 行**：
+   - **重复副本**：命中目录的 library/ 已有同名字节数一致的 epub → 根目录这份是重复投喂，删除根目录副本（字节数不一致时停下问用户，不擅自覆盖）；
+   - **回拷**：命中目录的 library/ 为空（存量书 epub 曾按用户指令批量删除、保留空目录）→ 根目录 epub 是核验/续作回拷，移入既有 library/ 即可；
+   - **精读已完成的书**：以上归位即全部完成——**不重跑精读、不动 index.md（行已存在）、不改总览**，daily 记一行"回拷归位"即可；
+   - **同名不同书/版本存疑**：先 `grep -rl` 全库排除跨书同名，拿不准问用户。
 2. **体裁判定——不凭书名/作者印象，抽检开篇**：
    - 按 OPF spine 顺序取第一个非 boilerplate 正文；SKIP 列表：acknowledg / about / contents / copyright / title / dedication / toc / nav / praise / cover / epigraph / foreword / intro / also_by / next-reads / dictionary / promotional / index_ / halftitle / series / testimonial / warning。混淆文件名（c9.xhtml / cM.xhtml / index_split_00N）时 fallback = 扫全部 HTML 找 >600–800 字符非 boilerplate 页；拿不准再读 TOC/spine 定真实章数。
    - **首章风格 ≠ 体裁**：Lonely Mouth 首章回忆录风实为小说——出版方信息 + 叙事人称 + LoC Cataloguing（`LCGPT: Novels` 是权威虚构信号）三方互证；Praise/营销文案的"thriller""mystery"是修辞不是体裁标签。
