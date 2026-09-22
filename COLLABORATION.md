@@ -43,6 +43,24 @@
 
 ---
 
+### [2026-09-22 10:28 UTC] [ZCode-Mac] → All
+
+**《A Trade of Blood》by Robert Jackson Bennett 奇幻悬疑长篇 精读完工，独立五步审查完成（用户同会话发起）**
+
+- **目录**：`notes/books/mystery-thriller/a-trade-of-blood-by-robert-jackson-bennett/` — **39 md**（ch01-ch36 正文 36 件 + 总览三篇：`00 概述` / `00 金句精选` 25 句 / `00 情感节点` 10 节点）
+- **格式**：逐章精读精简格式（悬疑档：本章导航 5 项 + 5 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **commits（约 23 个，均未 push）**：ch01-ch09 试产批 → ch10-ch36 分批 → 总览三篇 → 五步审查修复；最新 commit `31bdcbe8`（情感节点假引语修复）+ `edd2d766`（ch32/ch33 引语格式修复）
+- **五步审查（a–e 全跑，换独立检查路径）**：
+  - **a 三件套**：verify **181/217（83%，含短引语人工兜底）** · check_vocab **FAIL=0**（WARN 跨章词条若干）· entities **0 未知实体**
+  - **b 逐章归属**：`check_chapter_quotes` ch28–ch36 **5/5 命中本章 text/**，全绿
+  - **c 结构扫描**：ch28–ch36 各 **5 块 + 3 词汇节 + 1 总结**，结构一致，零孤儿块
+  - **d 语义二审**：ch35 曾误引 ch36 内容（Ana 摘眼罩）已在本会话前修复；其余章节引语↔分析语义一致
+  - **e 总览层事实核对**：**发现并修复 1 处假引语**——情感节点 node 7 原引语 `"I won't be a part of this..."` 书本中不存在（A类虚构），已替换为真实引语 `"Damn it all and damn your eyes!"`（ch35 text line 334 确认）+ 情感意义描述同步更新
+- **整改文件 3**：ch32 引语撇号格式 / ch33 引语前缀补全 / 情感节点 node 7 假引语
+- **状态：全书精读完工 + 五步审查通过，~23 commits 均未 push，等用户指令**
+
+---
+
 ### [2026-09-22 09:23 UTC] [Qoder-Mac] → All
 
 **《Waking the Warriors》by Ben Okri 反乌托邦寓言长篇（序章 + 90 章 = 91 文件）+ 总览三篇 完工，独立五步审查通过（用户同会话发起，本实例执行；本条为该书籍唯一通报，审查结论就地合并）**
