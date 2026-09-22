@@ -36,54 +36,6 @@ source_text: ch10
 
 ---
 
-> **原句 2:** "They believe those dead from consumption are leaving their graves and drinking the blood of living family members—unless their hearts are removed and set aflame."
-
-**中文理解**：他们相信死于结核病的人会离开坟墓，吸饮活着的家庭成员的血——除非他们的心脏被移除并点燃。
-
-**关键词**：consumption / leaving their graves / hearts removed and set aflame
-
-**为什么这样写**：这是 Mallory 在图书馆研究时发现的 1896 年新闻报道。历史与当代通过这个细节连接——"consumption"（结核病）是 19 世纪的"吸血鬼 panic"的触发点，与 Lily 的死因完全吻合。这段引文建立了全书的超自然框架：Shore 的建立基于对"未安息死者"的恐惧，而这个恐惧在今天仍在重演。
-
-**读者视角提示**：这段历史揭示是全书的"世界观锚点"——它解释了为什么 Shore 的 ghost 如此执着于"心脏"，以及为什么 Mallory 家族与这块土地有如此深的联系。
-
----
-
-> **原句 3:** "Without giving herself a second to change her mind, she starts to dig."
-
-**中文理解**：不给自己第二秒改变主意的时间，她开始挖。
-
-**关键词**：without giving herself a second / starts to dig / no hesitation
-
-**为什么这样写**：这是 Mallory 身体与意志的决裂时刻——理性在说"停下来"，但她的身体已经开始行动。前面章节中，她曾多次"talk herself out of"（说服自己不要做某事），但这一次她完全跳过了这个步骤。直接行动意味着某种更深的本能——ghost woman 的力量正在通过她发挥作用。
-
-**读者视角提示**：这个场景是全书的 pivot——Mallory 从"被动被 ghost 困扰"转向"主动参与 ghost 的议程"。她在 Kiki 的引导下找到了墓碑，这是否是自由意志还是命运？
-
----
-
-> **原句 4:** "Because at the top of the stone is a cross. And around that cross is a cluster of ivy."
-
-**中文理解**：因为在石头的顶部是一个十字架。而在这个十字架周围是一簇常春藤。
-
-**关键词**：cross / cluster of ivy / grave marker
-
-**为什么这样写**：这是第三章梦境中的意象在现实中的映射——梦中 altar 上的 cross and ivy 现在以墓碑的形式出现。Mallory 在梦境与现实中都看到了同一个标志，这意味着她不是在做梦，而是在"看见"——某种超现实的感知能力。"Cluster of ivy"（常春藤簇）尤其关键：常春藤在西方象征"忠诚"与"永生"，但也与死亡和来世有关。
-
-**读者视角提示**：这是本书最关键的"超自然证据"——Mallory 在 maze 中挖掘出的不是普通的石头，而是 Lily A. Hubbard 的墓碑。这个发现将她的个人噩梦与历史事实连接起来。
-
----
-
-> **原句 5:** "And as she traces the divots and ridges, taking in the blurred marks and chiseled edges, Mallory knows in the densest part of her bones that she is kneeling over Lily A. Hubbard's grave."
-
-**中文理解**：当她描摹着那些凹陷和凸起，看着模糊的字迹和凿刻的边缘，Mallory 在她骨头最深处知道——她正跪在 Lily A. Hubbard 的坟墓上。
-
-**关键词**：densest part of her bones / kneeling over / knows
-
-**为什么这样写**：这是全章的情感终点——不是发现，而是"知道"。Mallory 的身体（"bones"）知道一些她的理性无法理解的事情。这种认知方式（身体记忆/本能直觉）贯穿全书：ghost woman 的存在不是通过理性证明的，而是通过身体的反应确认的。"Densest part of her bones"这个表达将超自然接触具象化为身体体验。
-
-**读者视角提示**：Mallory 现在知道了 Lily A. Hubbard 的埋葬地——这个信息将改变一切。她会告诉 Ezra 吗？告诉 Arden？她会联系警方吗？还是她会继续独自调查？
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

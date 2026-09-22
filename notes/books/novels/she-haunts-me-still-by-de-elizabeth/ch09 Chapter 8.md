@@ -60,18 +60,6 @@ source_text: ch09
 
 ---
 
-> **原句 4:** "Aren't you glad I wasn't around?" Saskia finally says, voice low and taunting. "The role was all yours for a while. Now you have to share."
-
-**中文理解**："你是不是很高兴我不在？" Saskia 最终说道，声音低沉而嘲弄。"这个角色有一段时间完全是你一个人的了。现在你得分享了。"
-
-**关键词**：glad I wasn't around / share / tethered / insecurity
-
-**为什么这样写**：Saskia 的嘲弄直指 Mallory 最深的恐惧——她害怕失去唯一让她"锚定"的东西（戏剧、朋友、身份）。"Share"这个词将戏剧角色与更广阔的人际关系并置——Mallory 已经在"分享" Ezra 的秘密，现在还得分担角色。
-
-**读者视角提示**：Saskia 作为 understudy 的威胁是真实的，但她的动机仍然模糊——是单纯的竞争心，还是有更深的原因？
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
