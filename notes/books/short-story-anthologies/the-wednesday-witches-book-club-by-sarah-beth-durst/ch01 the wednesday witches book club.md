@@ -60,7 +60,7 @@ source_text: ch03_chap3.txt
 
 **中文理解**：她很快发现自己在纽约连一个壁橱都租不起，但多亏了一个朋友的朋友的朋友需要一个临时代管房屋的人，她才住得起长岛——这让她站在这里，离任何能被合理称为杂货店的地方都有一个半小时车程，一座超大米色 house 前，Ashley 莫名觉得这房子让她想起精心修剪过的指甲。
 
-**句子结构**：but 连接的并列句（couldn't afford / could afford），第二个分句含 which 引导的非限定性定语从句，修饰整个"住在长岛"这件事；最后破折号引出定语从句修饰"standing here"。
+**句子结构**：but 连接的并列句（couldn't afford / could afford），第一个分句含 that 引导的定语从句（the reason why），修饰"来的原因"；第二个分句含 which 引导的非限定性定语从句（which led her to be standing here），修饰整个"住在长岛"这件事；最后破折号引出地点状语，局部 with 的复合结构 with+名词+介词短语。
 
 **关键词**：a friend of a friend of a friend（三层人脉关系，讽刺找房的艰难）/ bodega（西班牙语杂货店）/ overlarge beige house（超大米色 house）/ manicured fingernails（精心修剪的指甲——对比 Ashley 的平民处境）
 
@@ -90,9 +90,9 @@ source_text: ch03_chap3.txt
 
 **中文理解**：Genevieve 打开门，朝她绽放出一个似乎百分之百真诚的笑容，尽管她们几乎不认识对方。
 
-**句子结构**：主句 + that 引导的定语从句修饰 smile；despite 引导让步状语语。
+**句子结构**：主句 + that/which 引导的结果状语从句（she smiled in a way that seemed...），不是严格的定语从句；despite (the fact that) 引导让步状语从句。
 
-**关键词**：beam at（对……笑容满面）/ 100 percent authentic（百分之百真诚——后文暗示这种"真诚"是精心维护的表象）
+**关键词**：beam at（对……笑容满面）/ authentic（真诚——表语形容词，系表结构）
 
 **表达方式**："100 percent authentic"这个精确数字在此语境下反而显得刻意，强调的是 Genevieve 的表演性礼貌。
 
@@ -241,8 +241,8 @@ source_text: ch03_chap3.txt
 1. **"Make the best of it."** —— 面对逆境的自嘲口头禅，可迁移至任何关于韧性的写作
 2. **"A friend of a friend of a friend"** —— 形容层层递减的资源获取，或通过弱关系获得机会
 3. **"Witches are made in the pages"** —— 关于阅读改变人生的隽永表达
-4. **"None of us have it together. None of us."** —— 当你发现每个人都和你一样挣扎时的释然时刻
-5. **"We don't have it together. None of us."** —— 对"完美成年人"幻象的温柔戳破
+4. **"Are you serious? Cats are clearly superior beings."** —— 对"猫比人好"这一常见迷思的幽默肯定，可迁移至任何宠物/动物主题写作
+5. **"If you would like, I'll turn you into a cat. You might be happier."** —— 以威胁表达关心的黑色幽默，可迁移至亲密关系的讽刺性表达
 6. **"Every witch needs a book club."** —— 比喻：每个人都需要一个能接纳真实自我的社群
 7. **"Cats are clearly superior beings."** —— 经典的猫奴视角反转，幽默地表达对猫的崇拜
 8. **"I want opposable thumbs. I cannot open my own cans, and that is unacceptable."** —— 任何"小问题造成大不满"的经典表达
