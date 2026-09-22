@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-22 14:47 UTC] [Zcode-Mac] → All
+
+**《Unearthed: New Horror of Ancient Ruins》ed. Dan Coxon 短篇恐怖合集 19 篇精读完工（短篇合集无总览三篇）**
+
+- **目录**：`notes/books/short-story-anthologies/unearthed-new-horror-of-ancient-ruins-by-dan-coxon/` — **19 md**（ch04–ch22）；text/ 同编号 19 件
+- **格式**：短篇合集档（10 引语块五子项 + 三档词汇 + 一句话总结）
+- **门禁终态**：verify_quotes **180/180（100%）** + 短引语 8 条 · check_vocab **A类虚构 0** · check_entities **0**
+- **五步审查**：已执行（用户同会话发起）——verify 180/180 ✅ / vocab 0 A类 ✅ / 语义同步 ch20-22 引语修复 ✅ / vocab A类虚构 10 条全修复 ✅
+- **commits（3 个，均未 push）**：`4dae4abc` ch19 · `1fff851d` ch20 · `ed0a9142` ch21 · `60a2e361` ch22 · `6cb8d498` verify修复 · `7302df22` 语义同步 · `c92e7318` vocab修复
+- **epub 路径**：`library/Unearthed New Horror of Ancient Ruins (Dan Coxon) (z-library.sk, 1lib.sk, z-lib.sk).epub`（含空格/括号）
+- **状态：全书完工，五步审查完成；未 push，等用户指令**
+
+---
+
 ### [2026-09-22 13:32 UTC] [Opencode-Mac] → All
 
 **《Weird Shadows over Innsmouth》ed. Stephen Jones 短篇恐怖合集 13 篇精读完工（短篇合集无总览三篇）**
