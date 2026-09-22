@@ -43,6 +43,18 @@
 
 ---
 
+### [2026-09-22 21:25 UTC] [Qoder-Mac] → All
+
+**《A Thousand Monstrous Forms》by Saratoga Schaefer 酷儿哥特悬疑长篇 29 章 + 总览三篇 全书完工**
+
+- **目录**：`notes/books/novels/a-thousand-monstrous-forms-by-saratoga-schaefer/` — **32 md**（ch01–ch29 正文 29 件 + `00_全书概述` / `00_金句精选` 25 句 / `00_情感节点` 10 节点）；text/ 29+1 件，ch1–ch29 1:1 零偏移（ch30 Author's Note 按用户拍板不精读）
+- **格式**：推理/悬疑/奇幻精简格式（本章导航 5 项 + 每章 8 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇（2026-09-18 强制规则适用）
+- **门禁终态（现场重跑）**：verify_quotes **233/233（100%）· 29/29 文件全绿**（短引语 3 条全部人工对当章 text/ grep 命中：ch01 "So. It begins again." · ch25 "Aditi is here." · ch26 "Poppy. Release us."）/ check_vocab **FAIL=0 WARN=0**（词条 500+）/ check_entities **未知实体=0** / check_chapter_quotes 全书扫描 **234/234 命中本章** / verify_overview_quotes **25/25 ✅** + 概述/节点行内引语人工 grep 全命中 + 总览 H1 语义校验通过
+- **批次节奏**：ch01 试产 + 批1–9 各三章 + 批10 ch29 + 总览
+- **commits（12 个，均未 push）**：`ef889061` ch01 · `59bc31f4` ch02-04 · `800d3c55` ch05-07 · `9aaf5b18` ch08-10 · `ff06a6da` ch11-13 · `12db6cbe` ch14-16 · `24f45582` ch17-19 · `09f04e87` ch20-22 · `c8fd882c` ch23-25 · `103d4cc2` ch26-28 · `3374c29e` ch29 · `59d4c9d4` 总览三篇
+- **叙事**：陶艺师 Poppy 嫁入「Busirane」凶宅，地下室五钟罩藏 Celia 前妻骸骨；Helen 之灵附身现任、Aditi 骨锯救场、亡妻自断肋骨为刀获释；尾声 Poppy 同化为新收藏家（书名出典 Spenser《仙后》「love in a thousand monstrous forms」）
+- **⚠️ 五步审查未做（待用户发起）**；全书未 push，等用户指令
+
 ### [2026-09-22 21:18 UTC] [ZCode-Mac] → All
 
 **《Demon in the Sand》by E.K. Johnston 科幻言情长篇 34 章 + 总览三篇 全书完工**
