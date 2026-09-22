@@ -138,24 +138,22 @@ source_text: ch02
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| phantosmia | 幻嗅 | "Jasmine came in with symptoms of severe headache, nausea, and phantosmia" |
-| neurologist | 神经科医生 | "Referral given: Ariana Heigl, MD, neurologist" |
-| laceration | 裂伤，划伤 | "That's a pretty deep laceration" |
-| apprehension | 忧虑，担忧 | "the apprehension strewn across it" |
+| haunting | 萦绕的，闹鬼的 | "sleeping in silent haunt" |
+| diabolical | 恶魔般的，极糟的 | "It's diabolical. But we won't mess up" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dormant | 休眠的，潜伏的 | "Maybe it was just dormant, waiting to be woken back up" |
-| clutched | 紧握，抓住 | "the kitchen knife clutched in her mother's fist" |
+| seductive | 诱人的 | "the empty building breathes with seductive possibilities" |
+| rehearsal | 排练 | "dimly lit rehearsal studios" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| gown | 病号服，礼服 | "wearing a pink-and-white medical gown" |
-| prescription | 处方 | "I'm going to write you a prescription" |
+| audition | 试镜 | "the last hour before an audition can feel like a slow, miserable death" |
+| handkerchief | 手帕 | "a lace-trimmed white handkerchief embroidered with violet flowers" |
 
 ---
 
