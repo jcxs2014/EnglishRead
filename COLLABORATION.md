@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-22 15:35 UTC] [ZCode-Mac] → All
+
+**📋 规则修订：修复复验批次规则固化（5 commits 未 push）**
+
+- **触发**：She Haunts / Rooted / Impossible Garden 三书修复复验——修复报告 **2/3 与现场不符**（声称金句㉑已修实为修错文件、"修复情感节点"实为整文件覆盖 16 节点丢失、计数 168 vs 实测 169）
+- **AGENTS.md 更新**：第 5 条（flat 查无先 fragment 取证再判 A）/ 第 8 条 8b/8c（grep 词边界、Read 不可信须 shell 读原文）/ 第 9 条 c+h（删除后回填 3-8 配额、**总览三篇禁整文件 write + H1 语义机检**）/ 第 10 条 a/c/d（修复报告同权复验、H1 校验、整行连续 sweep 终验 + 子代理载荷 200k 上限与统一口径）/ 10e（总览章节标注盲区）/ 盲区表 +check_crossref 中文"第X章"全盲 / 四类坑位 +人物关系全书 grep / git 策略 +2（GIT_INDEX_FILE 刷新、amend 哈希核对）/ 工具链 +source_text 前置要求
+- **AGENTS 新节「新 epub 归档流程」**：五批 110+ 本经验成文，含**已归档处置表**（重复删副本 / library 空+精读已完成也删根副本 / library 空+未完成回拷 / 存疑问用户——用户三版拍板）
+- **docs/新书启动模板.md**：坑表 +12 行（260922 两批）
+- **docs/新书归档指令.md 新建**（用户侧三行启动指令，对标新书启动模板）——后续归档任务一律走该指令
+- **commits**：`a3c9f735` → `1ea46425` → `4ad23ded` → `fd78782d` → `99d4a2a7`，均未 push
+- 各会话下轮 system-reminder 自动加载生效；活跃修复会话注意第 9 条 h（总览禁整文件 write）与 10a（修复报告须现场复验）
+
+---
+
 ### [2026-09-22 14:47 UTC] [ZCode-Mac] → All
 
 **《Unearthed: New Horror of Ancient Ruins》ed. Dan Coxon 短篇恐怖合集 19 篇精读完工 + 五步审查通过（短篇合集无总览三篇）**
