@@ -15,7 +15,7 @@ modified: "2026-09-22"
 
 **人物弧线**：Antara 从 Bombay 的 paying guest 到 Reza 的 lover 再到 photo thief，Reza 从情人到"evaporated"（蒸发），Kali Mata 从抚养者变为被恨者（"I hate Kali Mata"），恨的名单更新。
 
-**叙事手法**：画廊—jungle—公寓—画廊四段式，以 Márquez 标签寓言（label everything）作互文，结尾以芒果雕塑失败收束，艺术再次流产。
+**叙事手法**：画廊—jungle—公寓—画廊四段式，以 Márquez 标签寓言（labels everything）作互文，结尾以芒果雕塑失败收束，艺术再次流产。
 
 ---
 
@@ -87,7 +87,7 @@ modified: "2026-09-22"
 
 **关键词**：cruel、heartless prison
 
-**为什么这样写**：cruel/heartless 的双重判罪把玻璃（窗/镜/灯罩）写成帮凶——moths 撞玻璃（perished/fossils），Antara 照镜子（doubling），鱼缸内外都是狱。makes for（造就）的因果让发明者（人类）成为狱卒：我们发明透明，是为了更好地囚禁（看得见，出不去）。这是 ch18 苍蝇（blind to the way out）的器物版。
+**为什么这样写**：cruel/heartless 的双重判罪把玻璃（窗/镜/灯罩）写成帮凶——moths 撞玻璃（perished/fossils），Antara 照镜子（doubling）。makes for（造就）的因果让发明者（人类）成为狱卒：我们发明透明，是为了更好地囚禁（看得见，出不去）。这是 ch18 苍蝇（blind to the way out）的器物版。
 
 **读者视角提示**：把玻璃与照片（three-by-five）并置——照片是纸的玻璃：看得见，摸不着，出不来。Antara 的临摹（copy of copy）是在玻璃上哈气，雾散了，狱还在。
 

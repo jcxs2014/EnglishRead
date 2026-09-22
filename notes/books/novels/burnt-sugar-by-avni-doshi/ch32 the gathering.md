@@ -132,7 +132,7 @@ modified: "2026-09-22"
 | creep | /kriːp/ | 变态 | "Kaushal is a creep" |
 | larynx | /ˈlærɪŋks/ | 喉 | "the interior of my larynx" |
 | sciatica | /saɪˈætɪkə/ | 坐骨神经痛 | "The sciatica that comes and goes" |
-| paanwala | /ˈpɑːnwɑːlə/ | 槟榔小贩 | "from the paanwala beyond the gate" |
+| paanwala | /ˈpɑːnwɑːlə/ | 槟榔小贩 | "from the paanwala beyond the building gate" |
 | marrow | /ˈmærəʊ/ | 骨髓 | "She’s in my marrow" |
 
 ## 一句话总结

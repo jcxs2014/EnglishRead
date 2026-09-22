@@ -15,7 +15,7 @@ modified: "2026-09-22"
 
 **人物弧线**：Antara 从孕妇（mound/doughnut）到母亲（latch/crime scene），Ma 从外婆到"另一个 Antara 的妈"（命名权篡夺），婆婆从占星家到命名委员（a/va），三代女性在此重新洗牌。
 
-**叙事手法**：产程—命名两段式，以身体恐怖（crime scene/saucers）开场，以命名恐怖（Antara II）收束，Kali Mata 的缺席（"I wish Kali Mata were here"三连）是全章的空椅子。
+**叙事手法**：产程—命名两段式，以身体恐怖（crime scene/saucers）开场，以命名恐怖（Antara II）收束，Kali Mata 的缺席（"I wish Kali Mata were here"两处）是全章的空椅子。
 
 ---
 

@@ -41,7 +41,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：export（出口）把嫁女写成外贸——daughter 与 dowry 并列为货物，the real work（真正的工作）点破婚礼的喜庆只是报关手续。Barricaded（设障围困）让宾客都成了人质，喜剧外壳下是全员被困的荒诞。
 
-**读者视角提示**：export 与 ch02 的"Club membership 作 dowry"玩笑互文——嫁妆从习俗变成笑话再变成货物，Antara 一家三代对嫁妆的态度是一部微缩女性史。
+**读者视角提示**：export 与 ch05 的"Club membership 作 dowry"玩笑互文——嫁妆从习俗变成笑话再变成货物，Antara 一家三代对嫁妆的态度是一部微缩女性史。
 
 ---
 

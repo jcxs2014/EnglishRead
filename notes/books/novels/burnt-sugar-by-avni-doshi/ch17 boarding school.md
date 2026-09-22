@@ -75,7 +75,7 @@ modified: "2026-09-22"
 
 **关键词**：sealed off、Little…little
 
-**为什么这样写**：sealed off（封存）的海关意象与 Little…little 的对仗把小孩写成 eis（禁运区）——吃少、喝少、尿少、哭少，存在被压缩到最低配给。这是 ch15"shut into peripheral space"（封存父亲）的身体版：先封身体，再封父亲，最后封自己。
+**为什么这样写**：sealed off（封存）的海关意象与 Little…little 的对仗把小孩写成禁运区——吃少、喝少、尿少、哭少，存在被压缩到最低配给。这是 ch15"into a peripheral space"（封存父亲）的身体版：先封身体，再封父亲，最后封自己。
 
 **读者视角提示**：这是全书"seal"母题的总阀——密封身体/密封记忆/密封婚姻。后文怀孕（seal 被从内部打破）是这个系统第一次宕机，留意它的连锁反应。
 

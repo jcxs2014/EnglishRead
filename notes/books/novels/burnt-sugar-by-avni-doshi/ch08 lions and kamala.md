@@ -85,7 +85,7 @@ modified: "2026-09-22"
 
 **中文理解**："为了过一种彻底非暴力的生活。"
 
-**关键词**：calling、radical non-violence
+**关键词**：radical non-violence
 
 **为什么这样写**：radical（彻底的）与 non-violence（非暴力）的并置本身就是暴力——拔光头发、上万台阶，以自残抵达不杀生。Antara 紧随其后的反杀（fur 大衣/家暴叔叔）撕下"calling"的神圣：家族的非暴力是选择性失明，calling 只 call 自己想听的。
 

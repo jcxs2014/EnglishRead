@@ -9,7 +9,7 @@ modified: "2026-09-22"
 
 **一句话概括**：1989 年章——Ma 夜奔出 ashram（"I hate it here"）、Club 门口行乞、Candle 狗、父亲 Contessa 接走、Nani 家安置、Vandana 冲突、父亲新妻赴美，Antara 在父家住一周后彻底封存父亲。
 
-**情感弧线位置**：流离终章——ashram 四年（1985–89）的出口，七岁 Antara 一年之内经历乞讨/寄养/父家/被弃，流离成为人格底色。
+**情感弧线位置**：流离终章——1989 年离寺（入寺年份原文未载），七岁 Antara 一年之内经历乞讨/寄养/父家/被弃，流离成为人格底色。
 
 **Tropes 兑现/反转**：出走（逃离邪教奔向自由）——反转在于自由是 Club 门口的行乞，是"the world only as far as you can see"的缩水世界，出走只是换一个笼子。
 

@@ -92,7 +92,7 @@ modified: "2026-09-22"
 | impervious | /ɪmˈpɜːviəs/ | 不受影响的 | "glanced at my impervious cow" |
 | solemn | /ˈsɒləm/ | 庄严的 | "sang solemn notes in accompaniment" |
 | accompaniment | /əˈkʌmpənɪmənt/ | 伴奏 | "sang solemn notes in accompaniment" |
-| dispersed | /dɪˈspɜːst/ | 驱散 | "the crowds dispersed to let me pass" |
+| dispersed | /dɪˈspɜːst/ | 驱散 | "the crowds dispersed to let me and the animal pass" |
 
 ### ⭐⭐ 进阶
 

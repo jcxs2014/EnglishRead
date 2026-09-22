@@ -53,7 +53,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：to death（到死）的习语在此变凶器——爱到死=爱死她（love her to death 的双关：深爱/致死）。my mother 的同位语像法庭确认身份：我爱的是她，我杀的也是她。紧随其后的"cunt/track"（骂+管）让爱与恨同句：爱她，骂她，管她，毒她，一句四件事。
 
-**读者视角提示**：把这句与 ch01"misery/pleasure"并置——开篇的恨（pleasure）到此变成爱（love），但爱比恨更致命（to death）。母女的爱恨在此合流：爱即杀，杀即爱。
+**读者视角提示**：把这句与 ch01"misery has never given me pleasure"并置——开篇的恨（pleasure）到此变成爱（love），但爱比恨更致命（to death）。母女的爱恨在此合流：爱即杀，杀即爱。
 
 ---
 
@@ -118,7 +118,7 @@ modified: "2026-09-22"
 | appeases | /əˈpiːzɪz/ | 抚慰 | "which appeases me" |
 | upended | /ʌpˈendɪd/ | 颠覆的 | "The natural order has been upended" |
 | cloistered | /ˈklɔɪstəd/ | 幽闭的 | "to feel cloistered" |
-| repulsive | /rɪˈpʌlsɪv/ | 令人厌恶的 | "our large bodies are repulsive to them" |
+| repulsive | /rɪˈpʌlsɪv/ | 令人厌恶的 | "that our textured skin and large bodies are repulsive to them" |
 | discern | /dɪˈsɜːn/ | 辨别 | "difficult to discern" |
 
 ### ⭐ 基础

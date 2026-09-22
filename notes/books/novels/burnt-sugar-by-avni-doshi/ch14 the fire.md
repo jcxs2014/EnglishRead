@@ -51,7 +51,7 @@ modified: "2026-09-22"
 
 **关键词**：residing in her body
 
-**为什么这样写**：residing（居住）把身体写成房子、母亲写成房客——房客搬走，空房还值不值得打扫？这是照护者最黑的疑问（negligent/voiceless animals 紧随其后），Antara 敢想不敢答。no longer residing 的完成时宣告 ch11 医生预言（whole different person）的兑现。
+**为什么这样写**：residing（居住）把身体写成房子、母亲写成房客——房客搬走，空房还值不值得打扫？这是照护者最黑的疑问（negligent/voiceless animals 紧随其后），Antara 敢想不敢答。no longer residing 的完成时宣告 ch01 医生预言（whole different person）的兑现。
 
 **读者视角提示**：把这句与结尾"watching shapes flash across the ceiling"并置——问完无解之问，两人只能躺着看天花板。有些问题的作用不是求解，是确认孤独。
 

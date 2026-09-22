@@ -89,7 +89,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：squeezing until（掐到…为止）的进行时把弑母写成实验——观察青筋（veins）出现，女儿在此是科学家而非凶手。sat on（坐上）的骑乘姿态倒置了哺乳（sit on lap）：胸口从哺乳地变为刑场。这是全书母女暴力的顶点，也是起点：之后所有的恨都是这句的注脚。
 
-**读者视角提示**：把这句与 ch01"misery/pleasure"并置——开篇的恨有了出处：她真的掐过母亲的脖子。后文所有的"快乐"（pleasure）都是这次未遂的余震。
+**读者视角提示**：把这句与 ch01"misery has never given me pleasure"并置——开篇的恨有了出处：她真的掐过母亲的脖子。后文所有的"快乐"（pleasure）都是这次未遂的余震。
 
 ---
 
@@ -127,7 +127,7 @@ modified: "2026-09-22"
 |------|------|------|------|
 | tuition | /tjuˈɪʃn/ | 补习 | "suggested daily tuition for several hours" |
 | brûlée | /bruːˈleɪ/ | 焦糖布丁 | "cracked like the top of a brûlée" |
-| glimmer | /ˈɡlɪmə/ | 微光 | "searching for a glimmer of black" |
+| glimmer | /ˈɡlɪmə/ | 微光 | "I searched for a glimmer of black" |
 | slivers | /ˈslɪvəz/ | 薄片（复数） | "Black slivers speckled the wet drain" |
 | mussed | /mʌst/ | 凌乱的 | "She was mussed, almost chalky" |
 | jukebox | /ˈdʒuːkbɒks/ | 点唱机 | "The jukebox didn’t take money" |

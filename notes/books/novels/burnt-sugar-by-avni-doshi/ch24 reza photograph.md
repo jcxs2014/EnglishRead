@@ -29,7 +29,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：devour the self（吞食自我）的词源是全书母女关系的生物学定义——Antara 吃母亲（keto 管制/临摹情人），母亲吃女儿（纵火/辱骂），自噬即共生。from the Greek 的学术腔让这句像论文题词，而它是 Antara 的治愈咒：画下自噬，病就会自噬病。这是科学抒情的巅峰，也是自欺的巅峰。
 
-**读者视角提示**：把 autophagy 与 ch12"swallowed whole"（吞情绪）并置——吞情绪/吞自我/吞母亲，三吞同源。后文怀孕（胎儿吞母体营养）是自噬的下一站，留意谁吃谁。
+**读者视角提示**：把 autophagy 与 ch12"swallowed them whole"（吞情绪）并置——吞情绪/吞自我/吞母亲，三吞同源。后文怀孕（胎儿吞母体营养）是自噬的下一站，留意谁吃谁。
 
 ---
 
@@ -87,7 +87,7 @@ modified: "2026-09-22"
 
 **关键词**：Together、redemption
 
-**为什么这样写**：Together（一起）的许诺配 redemption（救赎）的宗教词，是 Antara 治愈幻想的祭坛。在一起（同住/同 fast/同战 mitochondria）就能赎回一切：纵火/掐脖/liar，全勾销。redemption 与 ch02"kind of redemption"（母亲的痛苦=宇宙再平衡）押韵：母女都信"一起能赎"，只是赎的东西相反。这是全书最天真的句子，也是最动人的。
+**为什么这样写**：Together（一起）的许诺配 redemption（救赎）的宗教词，是 Antara 治愈幻想的祭坛。在一起（同住/同 fast/同战 mitochondria）就能赎回一切：纵火/掐脖/liar，全勾销。redemption 与 ch01"a kind of redemption"（母亲的痛苦=宇宙再平衡）押韵：母女都信"一起能赎"，只是赎的东西相反。这是全书最天真的句子，也是最动人的。
 
 **读者视角提示**：记住这个 Together——后文怀孕/生产/失智晚期，Together 会被反复考验。救赎的价目表（ketones/enemas/photos）在变，Together 的破产在即。留意它第一次兑现（如果有的话）。
 
