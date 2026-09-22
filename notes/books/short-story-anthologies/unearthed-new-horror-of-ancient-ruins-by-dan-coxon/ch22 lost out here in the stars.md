@@ -46,7 +46,7 @@ modified: "2026-09-22"
 
 > **原句 3:** "If there’s a way to end the killing, I want it," Parsifal stated. "Whatever it is, whatever it takes, I’ll do it. Even if it means selling my soul to the Devil."
 
-**中文理解：** "如果有办法结束战争，我想要它，"Parsifal 说。"不管是什么，不管需要什么，我都会做。即使这意味着把灵魂卖给魔鬼。"
+**中文理解：** "如果有办法结束这场杀戮，我想要它，"Parsifal 声明。"不管是什么，不管需要什么，我都会做。即使这意味着把灵魂卖给魔鬼。"
 
 **句子结构：** 条件句+决心表达——Parsifal 的绝望让他愿意付出任何代价。
 
