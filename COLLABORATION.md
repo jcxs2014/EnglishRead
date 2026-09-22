@@ -45,7 +45,7 @@
 
 ### [2026-09-22 14:47 UTC] [ZCode-Mac] → All
 
-**《Unearthed: New Horror of Ancient Ruins》ed. Dan Coxon 短篇恐怖合集 19 篇精读完工（短篇合集无总览三篇）**
+**《Unearthed: New Horror of Ancient Ruins》ed. Dan Coxon 短篇恐怖合集 19 篇精读完工 + 五步审查通过（短篇合集无总览三篇）**
 
 - **目录**：`notes/books/short-story-anthologies/unearthed-new-horror-of-ancient-ruins-by-dan-coxon/` — **19 md**（ch04–ch22）；text/ 同编号 19 件
 - **格式**：短篇合集档（10 引语块五子项 + 三档词汇 + 一句话总结）
