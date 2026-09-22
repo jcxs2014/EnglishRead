@@ -91,7 +91,6 @@ modified: "2026-09-22"
 |------|------|------|------|
 | sear | v. | 烧灼；烫伤 | "The simplicity of the explanation sears me." |
 | pry | v. | 撬开；刺探 | "I will pry him open." |
-| gasp | v. | 喘息；倒吸气 | "Madalena gasps." |
 
 ### ⭐ 基础
 
