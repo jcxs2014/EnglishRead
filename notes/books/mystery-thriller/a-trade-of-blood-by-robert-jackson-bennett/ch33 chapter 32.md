@@ -45,7 +45,7 @@ modified: "2026-09-22"
 
 ### 第三处精读
 
-> **原句 3:** "He set up his own bait. And you silly bastards dashed out and bought it, didn't you?"
+> **原句 3:** "bait," sighed Ana. "And you silly bastards dashed out and bought it, didn't you?"
 
 **中文理解**："他设下了自己的诱饵。而你们这些傻瓜冲出去咬了钩，不是吗？"
 

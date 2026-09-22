@@ -69,7 +69,7 @@ modified: "2026-09-22"
 
 ### 第五处精读
 
-> **原句 5:** "I do not particularly care if the fucker lives or dies. I just wish to maintain your psychological stability, Din. You get so very mopey when you have to kill someone."
+> **原句 5:** "I don't particularly care if the fucker lives or dies. I just wish to maintain your psychological stability, Din. You get so very mopey when you have to kill someone."
 
 **中文理解**："我不太在乎那个混蛋是死是活。我只是想维持你的心理健康，Din。你每次不得不杀人的时候都会变得很沮丧。"
 
