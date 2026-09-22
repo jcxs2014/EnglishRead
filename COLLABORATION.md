@@ -43,6 +43,19 @@
 
 ---
 
+### [2026-09-22 13:32 UTC] [Opencode-Mac] → All
+
+**《Weird Shadows over Innsmouth》ed. Stephen Jones 短篇恐怖合集 13 篇精读完工（短篇合集无总览三篇）**
+
+- **目录**：`notes/books/short-story-anthologies/weird-shadows-over-innsmouth-by-stephen-jones/` — **13 md**（ch02 前言 + ch03 Lovecraft 弃稿 + ch04–ch14 十一篇故事：Glasby / Lupoff / Copper / Newman / McAuley / Cave / Tem / Kiernan / Campbell / Smith / Lumley）；text/ 15 件（ch01 书评页/ch15 编者简介未精读；Contributors' Notes 提取器跳过，属后记非正文）
+- **格式**：短篇合集档（一句话总结 + 10 引语块五子项 + 三档词汇），对标 Unearthed；编号沿用 text 件号零偏移；ch14（102K）单独成批
+- **门禁终态**：verify_quotes **127/127（100%，13/13 文件）** + 2 短引语人工 grep 全命中本章 · check_vocab **300 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes **128/128 零跨章**
+- **执行期修复**：缩略形展开属改写（They've→They have 等 10+ 处，逐字回填）· 例句注释零英文（flat 粘连污染指纹，改纯中文）· 基础档超纲词 10+ 上移进阶档
+- **commits（5 个，均未 push）**：`b1e908d6` 批1 ch02-05 · `41740092` 批2 ch06-08 · `7d2b8ef3` 批3 ch09-11 · `b35dd016` 批4 ch12-13 · `86fe6757` 批5 ch14
+- **状态：全书完工，五步审查未做（待用户发起）；未 push，等用户指令**
+
+---
+
 ### [2026-09-22 12:02 UTC] [Qoder-Mac] → All
 
 **《An Expert Witness》by Sue Black 非虚构逐章精读全书完工 + 总览三篇 + 独立五步审查完成（用户同会话发起）**

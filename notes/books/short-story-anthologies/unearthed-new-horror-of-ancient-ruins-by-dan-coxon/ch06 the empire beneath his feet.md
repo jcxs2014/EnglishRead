@@ -190,7 +190,6 @@ source_text: ch06_the_empire_beneath_his_feet_ai_jiang.txt
 | holographic | 全息的 | "holographic analysis technology" — 全息分析技术 |
 | transfixed | 僵住的；被吓呆的 | "Transfixed, the excavator reached forth" — 考古学家僵住伸手 |
 | alimentary | 饮食的；供给营养的 | "waiting to be fed" — 等待被喂养（alimentary 词根） |
-| feline | 猫科动物；如猫的 | （本文未出现，是类比词汇）|
 | subterranean | 地下的 | "a hollow subterranean chamber" — 地下密室 |
 
 ### ⭐⭐ 进阶
@@ -201,13 +200,8 @@ source_text: ch06_the_empire_beneath_his_feet_ai_jiang.txt
 | lacquer | 漆；涂漆 | "Mang's father used lacquer of processed tree sap" — 用树汁加工的漆 |
 | pigment | 颜料 | "mixed pigments in protein-based binders" — 蛋白质基粘合剂混合颜料 |
 | flayed | 被剥皮的 | "as though their flesh had been flayed" — 像皮肉被剥开 |
-| vigil | 守夜； vigil waiting | "he refused fatigue, its desire to rest" — 他拒绝疲劳，拒绝休息的欲望 |
 | concubine | 妾，妃子 | "a concubine holding her stomach, the protrusion small" — 怀着孕的妃子 |
 | crumpled | 压碎的；弄皱的 | "pieces crumbled and scattered" — 碎片散落 |
-| mule | 骡子；执拗的人 | （本文未出现）|
-| charred | 烧焦的 | "flesh scorched, baked as though the chamber were a kiln" — 肉被烧焦 |
-| bespoke | 定制的；专门的 | （本文未出现）|
-
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |

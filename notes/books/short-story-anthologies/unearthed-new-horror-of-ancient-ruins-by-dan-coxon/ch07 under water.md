@@ -185,20 +185,15 @@ source_text: ch07_under_water_tananarive_due.txt
 | undertow | 暗流；退流 | "the undertow Leesa had been assaulted by when she was at the beach with her family at ten" — 十岁时遭遇的离岸暗流 |
 | conjure | 用魔法召唤；使人想起 | "her conjured images of unmoored skeletons" — 她脑海中浮现的脱锚骸骨画面 |
 | burial ground | 坟场；墓地 | "this underwater burial ground" — 这片水下坟场 |
-| spectral | 幽灵的；鬼魂般的 | "spectral, ghostly presence" — 鬼魂般的存在 |
-| visceral | 内脏的；直觉的 | "Leesa's insides curdled" — 她的五脏六腑都揪紧 |
 | diaspora | 散居；离散的社群 | "the Black diaspora" — 黑人离散社群 |
 | sundown county | 日落县（美国南方对种族主义县镇的称呼） | "she was in a sundown county with a racist history" — 她在一个有种族主义历史的日落县 |
 | marginalized | 被边缘化的 | "doubly marginalized" — 双重边缘化（黑人+酷儿） |
-| reclamation | 回收；恢复 | "the reclamation of buried histories" — 被埋葬历史的恢复 |
-
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | sloshing | 晃荡的；泼溅的 | "her tires sloshing over the near-flooded road" — 轮胎在近乎洪水的路面上溅水 |
 | sodden | 湿透的 | "his rain-sodden page" — 被雨水浸透的纸张 |
-| barricade | 设栅阻挡；障碍物 | "the driveway empty except for her Kia" — 私人车道空着只有她的车 |
 | thumped | 重重撞击 | "Something thumped against the window, hard" — 有什么重重撞在窗户上 |
 | writhing | 蠕动的；扭曲的 | "A writhing beast chased Leesa" — 蠕动的怪兽追赶 Leesa |
 | churning | 翻腾的；剧烈搅动的 | "the churning lake" — 翻腾的湖面 |

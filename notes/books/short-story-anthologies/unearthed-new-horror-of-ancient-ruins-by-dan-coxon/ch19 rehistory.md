@@ -174,7 +174,6 @@ modified: "2026-09-22"
 |------|------|------|------|
 | abomination | /əˌbɒmɪˈneɪʃən/ | 厌恶；可恶之事 | "That isn't Stonehenge! It's an abomination!"（那不是巨石阵！这是令人厌恶的事！） |
 | monument | /ˈmɒnjʊmənt/ | 纪念碑；遗址 | "Langley's purchase of the ancient monument."（Langley 对古代纪念碑的购买。） |
-| controversy | /ˈkɒntrəvɜːsi/ | 争议；争论 | "Billionaire Sebastian Langley's controversial ReHistory project."（亿万富翁 Sebastian Langley 的争议性 ReHistory 项目。） |
 | protestor | /prəˈtestər/ | 抗议者 | "A significant number of protestors bearing placards."（大量举着标语的抗议者。） |
 
 ### ⭐ 基础

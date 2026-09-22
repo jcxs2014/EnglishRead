@@ -190,9 +190,6 @@ source_text: ch05_burial_rights_benjamin_percy.txt
 | laminated | 覆膜的；压合的 | "a clear laminate sticker over the top that changed his last name" — 护照上的覆膜篡改贴纸 |
 | herniated | 突出的，脱出的（椎间盘） | "He had herniated a disc" — 工伤导致椎间盘突出 |
 | predatory | 掠夺性的；食肉的 | "He understood that the interest rates were predatory" — 高利贷式的利率 |
-| bifurcated | 分叉的；分为二的 | "his nose mashed sideways" — 鼻子被打歪 |
-| clandestine | 秘密的，隐秘的 | "a dagger from beneath his robe" — 袍子下藏着的匕首 |
-
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
