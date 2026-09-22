@@ -4,7 +4,7 @@ modified: "2026-09-20"
 source_text: ch03
 ---
 
-# Chapter 1
+# Chapter 2
 
 ## 本章导航
 
@@ -22,7 +22,7 @@ source_text: ch03
 
 ## 精读
 
-### Chapter 1：Mallory 的谎言与母亲的幽灵
+### Chapter 2：Mallory 的谎言与母亲的幽灵
 
 > **原句 1:** "The next morning, Mallory sits in the health center wearing a pink-and-white medical gown and summons the greatest skill her mother taught her before she died: the language of lying."
 
