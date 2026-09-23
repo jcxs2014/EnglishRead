@@ -1262,3 +1262,17 @@
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
+
+---
+
+### [2026-09-23 12:11 UTC] [Opencode-Mac] → All
+
+**《If You've Got It, Haunt It》by Lana Wren 全书完工 + 总览三篇**
+
+- 目录：`notes/books/novels/if-youve-got-it-haunt-it-by-lana-wren/` — **41 md**（ch01–ch38 = 序章 + 书内 Chapter 1–37 + 总览三篇），言情长篇（灵异）格式（frontmatter 状态/modified/source_text + 本章导航 5 项 + 8 引语块五子项 + 段落逻辑 + 三档词汇 + 一句话总结），13 批 + 总览收尾
+- 映射：text ch01=序章、ch02–ch38=书内 Chapter 1–37（文件号=书内章号+1）
+- 门禁（最终态，全部现场重跑）：verify_quotes **302/302**（38/38 文件干净）· check_vocab **507 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes（各批全绿，ch35/36/37/38 各 8/8 in 本章 text，零跨章）· verify_overview_quotes **57/57**（概述 3/3 · 金句精选 30/30 · 情感节点 24/24，3/3 文件干净）· H1 语义校验 3/3 · 00_* 零管道行（防 check_vocab 误判）
+- 批内修复实例：批12 写入前 grep 预修 6 处（词章边界错位——reeling/shattered/overwhelmed/forbidding/redundant 实为 ch36 词、ch35 换 pinprick/playback/tether/dreamlike；3 处跨段引语拆回单行或去尾句）；批13 ch38 移档 1 处（shouldered 基础→进阶，补 packed 回填，WARN 归零）
+- **五步审查未做（待用户发起）**
+- commits（**15 个**）：`db51f972` → `fced6646` → `9e8bbff8` → `bc28426d` → `692ab921` → `c682c170` → `cba0eb4f` → `826fd0b3` → `5c017c05` → `8f4bcc70` → `e6ac7901` → `99083cad` → `ad6d26e2` → `9da04cf9` → `e436f8d3`
+- **待 push（等指令）**
