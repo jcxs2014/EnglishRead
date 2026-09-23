@@ -29,15 +29,19 @@ modified: "2026-09-23"
 
 **为什么这样写**："ranunculus"（毛茛）与ch03的"hydrangea"（绣球花）形成姐妹关系的植物隐喻——都是被"摘走"的花。"aviation craft"是陆地人对飞行的想象（机械），而实际上国王用"bird-skin"包裹她——神话力量不需要机器。"luster-green stars"描写的是火箭/飞机划过的轨迹，将科技与神话并置，暗示人类曾经拥有的辉煌已被遗忘。
 
+**读者视角提示**：毛茛花被"摘走"的意象让读者同时感受到美与脆弱——Borboleta就像一朵花被超自然力量从门廊移走。而"绿光闪烁的星星"描写的是人类曾经的飞行器划过天空的轨迹，科技与神话在这里并置，读者会意识到：这个世界曾经有过科技，但神话力量把它取代了。
+
 ### 引语块 2
 
 > **原句 2:** "Soon, you will learn to ride the winds as I do," he promised. "And you will need no guide. The air itself will carry you wherever you wish."
 
 **中文理解**：很快，你就会学会像我一样乘风而行。你将不再需要任何向导。空气本身会载你去任何你想去的地方。
 
-**关键词**：ride the winds / air will carry you / sky transformation
+**关键词**：ride the winds / air will carry you / need no guide
 
-**为什么这样写**：与ch03国王的话形成逐字对应（"breathe the water"→"ride the winds"；"currents will bend"→"air itself will carry"）。两姐妹走了相反的道路——Adelina下沉海底、Borboleta飞向天空，但收到的承诺几乎完全相同，说明海与天在神话逻辑中是一体两面的存在。
+**为什么这样写**：与ch03国王的话形成逐字对应（"breathe the water"→"ride the winds"；"currents themselves will bend"→"air itself will carry"）。两姐妹走了相反的道路——Adelina下沉海底、Borboleta飞向天空，但收到的承诺几乎完全相同，说明海与天在神话逻辑中是一体两面的存在。
+
+**读者视角提示**：读者会立刻发现这与ch03的惊人相似——"很快，你就会学会像我一样……你将不再需要任何向导"。这种对称让读者感到一种结构上的美感：两位姐姐走了相反的道路，却收到了几乎相同的承诺。这暗示了某种更深层的统一性。
 
 ### 引语块 3
 
@@ -45,29 +49,23 @@ modified: "2026-09-23"
 
 **中文理解**：没有规则。只有竞速。谁第一个完成任务谁就赢。
 
-**关键词**：no rules / races / winner / Borboleta's game
+**关键词**：no rules / races / wins / Borboleta's game
 
 **为什么这样写**：Borboleta用"没有规则"作为她天空王国社交的切入点——这是她性格的集中体现：爱玩乐、有主意、不按常理出牌。与ch03的正式"加冕教育"形成鲜明对比：Borboleta不等王国来定义她，而是自己创造游戏规则。这一细节也暗示她日后会是最有主动性、也最不甘于被动王后身份的一位。
 
+**读者视角提示**：读者会立刻喜欢Borboleta的性格——"没有规则，只有竞速"这种宣言充满了活力和反叛精神。与ch03 Adelina庄重的加冕仪式相比，Borboleta的方式让读者感到耳目一新：她不需要被加冕，她要自己赢得王冠。
+
 ### 引语块 4
 
-> **原句 4:** "It was her mother's wedding veil, touched reverently over the years by her and her sisters' young hands."
-
-**中文理解**：那竟是她母亲的婚纱，被她和姐妹们年幼的双手年复一年地深情触摸过。
-
-**关键词**：mother's wedding veil / sisters / altar / imagined future
-
-**为什么这样写**：Crow呈上的不是Borboleta真正想要的（"her family with her now"），而是家庭记忆的物化载体。"她们总是想象"揭示了三姐妹共同的梦想——不是冒险，不是权力，而是被爱、拥有家庭。婚纱被年幼的双手触摸的细节，将"童年"与"成年仪式"在同一个物件上叠加。
-
-### 引语块 5
-
-> **原句 5:** "It was her mother's wedding veil, touched reverently over the years by her and her sisters' young hands. They always envisioned the drape of its lace over their hair as they faced some nameless, heart-swelling man at the altar."
+> **原句 4:** "It was her mother's wedding veil, touched reverently over the years by her and her sisters' young hands. They always envisioned the drape of its lace over their hair as they faced some nameless, heart-swelling man at the altar."
 
 **中文理解**：那竟是她母亲的婚纱，被她和姐妹们年幼的双手年复一年地深情触摸过。她们总是想象着蕾丝的褶边披在发间，面对某个说不清名字的、令人心潮澎湃的男人，站在圣坛前。
 
 **关键词**：mother's wedding veil / three sisters / altar / imagined future
 
 **为什么这样写**：这是全章最感性的时刻。Crow呈上的不是Borboleta真正想要的（"her family with her now"），而是家庭记忆的物化载体。"她们总是想象"（They always envisioned）揭示了三姐妹共同的梦想——不是冒险，不是权力，而是被爱、拥有家庭。"nameless, heart-swelling man"暗示她们对未来的期待是模糊而普遍的，属于任何一个普通女孩的梦想——而精灵的掳走将这些梦想永远定格在"想象"中。
+
+**读者视角提示**：这一段是全章的情感高峰——三姐妹对未来的想象不是成为女王或拥有权力，而是像任何一个普通女孩一样，披着婚纱站在圣坛前。"说不清名字"意味着她们对爱情的要求是普遍性的，不是特定的人，而是爱情本身。这种朴素而真实的渴望因为"被精灵掳走"而永远无法实现，读者会感到一种深深的失落。
 
 ### 引语块 5
 
@@ -78,6 +76,8 @@ modified: "2026-09-23"
 **关键词**：won my game / name your prize / crow / Borboleta's grace
 
 **为什么这样写**：游戏结束了，Borboleta主动宣布 crow 获胜并请他领奖——这与第3块"No rules"的反叛精神一脉相承：她不仅创造规则，还主动兑现奖励。她的"unbridled smile"是全章最有人情味的瞬间，也是她真正王后气质的流露——不是血统继承的权柄，而是发自内心的慷慨与公平。
+
+**读者视角提示**：读者会感到Borboleta在游戏结束时展现了一种成熟的王后气质——她创造了规则，也遵守规则；她宣布 crow 获胜，并主动请他领奖。这种慷慨与公平不是来自血统，而是来自她的性格。读到"unbridled smile"时，读者会感到这个人物终于有了温度。
 
 ## 本章词汇
 
@@ -94,7 +94,7 @@ modified: "2026-09-23"
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | ranunculus | n. | 毛茛（花名） | "plucked from her porch like a ranunculus from its bush" |
-| feathered | adj. | 有羽毛的，羽毛制的 | "his warm feathers of his wings" |
+| feathered | adj. | 有羽毛的，羽毛制的 | "the warm feathers of his wings" |
 | altar | n. | 圣坛，祭坛；（引申）婚礼 | "at the altar" |
 | cloud | n. | 云 | "a gossamer palace made of clouds" |
 

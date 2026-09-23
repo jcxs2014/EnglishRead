@@ -29,6 +29,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：开篇即颠覆传统叙事顺序——"英雄诞生"不是起点，因为英雄的故事在出生前就已开始。用"珍珠在母亲舌下形成"这一意象，暗示婴儿在出生前就承载着神话命运，为后文三姐妹与海洋神灵的契约埋下伏笔。
 
+**读者视角提示**：开篇第一句就在暗示这个故事不同寻常——它不是"很久以前有一个英雄"的线性叙事，而是从一开始就告诉你"这个故事没有真正的起点"。读到此处，读者会隐隐感到一种悬念：既然连故事的开端都是虚构的，那么接下来要讲述的"真相"究竟是什么？
+
 ### 引语块 2
 
 > **原句 2:** "She will be a child of the night and sea, and everything that is untamable will treat her as their own."
@@ -39,15 +41,19 @@ modified: "2026-09-23"
 
 **为什么这样写**：蓝鳍金枪鱼王牺牲后，月亮为Adelina赐福。这句祝福将Adelina定位为"中间存在"——既非完全人类，也非完全神灵，而是被自然界接纳的存在。"untamable"暗示她将拥有超越人类社会的自由与危险。
 
+**读者视角提示**：读到这句话时，读者会感受到一种奇异的归属感——Adelina不属于人类世界，却被整个自然界接纳为同类。这种"被万物接纳"的设定让她的命运从一开始就带有某种悲壮的底色：她注定无法做一个普通的陆地女孩。
+
 ### 引语块 3
 
 > **原句 3:** "You may have me in her place. I will feed your offspring, just as one day, your corpse will feed mine."
 
 **中文理解**：你可以用我来替代她。我将喂养你的后代，正如终有一天，我的尸骸也将喂养你。
 
-**关键词**：debt / exchange / bluefin king / sacrifice
+**关键词**：in her place / exchange / bluefin king / sacrifice
 
 **为什么这样写**：蓝鳍金枪鱼王主动提出以命换命，将捕食关系（母亲吃鱼）转化为循环互养关系（鱼养人、人养鱼）。这一逻辑颠倒了人类中心主义的索取模式，体现了神话现实主义中"自然有灵"的核心理念。
+
+**读者视角提示**：这句话是全书最震撼的承诺之一。一条鱼主动献出自己的生命，只因为它相信"终有一天我的尸骸也会喂养你"——这种跨物种的互惠逻辑在人类世界几乎不可能发生。读者会感到一种深刻的情感涌动：这条鱼的牺牲不是被迫的，而是一种自愿的、基于信念的选择。
 
 ### 引语块 4
 
@@ -59,6 +65,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：连续三个"once"（曾经）构建了时间的同心圆结构——文明→城市→村庄→公园→房子，每一层都在退化。这不仅是末世背景的交代，更暗示三姐妹生活在一个"已被历史折叠"的时空之中，叙事从一开始就在追忆。
 
+**读者视角提示**：连续的"曾经"像一首悲伤的倒计时诗，层层叠叠地把读者带向更久远的过去。读到此处，读者会感到一种淡淡的失落——我们脚下的这片土地曾经辉煌过，但一切都已化为尘埃。三姐妹就生活在这种"历史的废墟"之中，她们的命运从一开始就笼罩在失落的光晕里。
+
 ### 引语块 5
 
 > **原句 5:** "The quicksilver movement of tails and refraction of sunlight was overwhelming; the water itself seemed to gnaw at the sides of Jaco's boat, pushing it back toward the land, unwanted."
@@ -68,6 +76,8 @@ modified: "2026-09-23"
 **关键词**：quicksilver / gnaw / unwanted / ocean personified
 
 **为什么这样写**：海洋被拟人化为有意志的存在——它"gnaw"（啃咬）、"push"（推拒），将人类界定为"unwanted"（不被欢迎）。这是对人类中心主义的反转：不是人类征服海洋，而是海洋在拒绝人类。蓝鳍金枪鱼王后来主动靠近，正是对这一"拒绝"的突破。
+
+**读者视角提示**：读到海水"啃咬"船舷这一句时，读者会感到一种深入骨髓的不安——海洋不再是人类可以征服的对象，而是一个有脾气、有好恶的生命体。这种不安在后文蓝鳍金枪鱼王主动献身时得到了情感的释放：原来海洋的"拒绝"只是序曲，真正的故事是关于一种更高层次的"接纳"。
 
 ## 本章词汇
 
@@ -89,15 +99,15 @@ modified: "2026-09-23"
 | tide | n. | 潮汐，潮流 | "she rolled over and over in the night like a ship on restless tides" |
 | bramble | n. | 荆棘，灌木丛 | "flowering brambles and a patch of waterlogged grass" |
 | fluke | n. | 鲸鱼尾鳍；（意外）侥幸 | "the oil slicks left by the flukes of gnarled humpbacks" |
+| sacrifice | n./v. | 牺牲，献祭 | "The bluefin's sacrifice was honored" |
+| pregnancy | n. | 怀孕，妊娠 | "her first pregnancy, that of little Adelina, was hard on her body" |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| sacrifice | n./v. | 牺牲，献祭 | "The tuna, butchered and honored, was duly cured" |
-| shore | n. | 海岸，湖岸 | "overlooking the sea" |
-| boat | n. | 船 | "Jaco loaded his boat with his widest nets" |
-| pregnant | adj. | 怀孕的 | "her first pregnancy, that of little Adelina, was hard on her body" |
+| village | n. | 村庄 | "there once was a village, which was once a city" |
+| boat | n. | 船 | "loaded his boat with his widest nets and strongest rod" |
 | hunger | n. | 饥饿 | "rattletrap with hunger and hope" |
 
 ## 一句话总结
