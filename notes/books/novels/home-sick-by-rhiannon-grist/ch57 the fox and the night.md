@@ -78,51 +78,7 @@ modified: "2026-09-23"
 ---
 
 > **原句 6:**
-> "You have to remember, the place where you're going, it's just emptiness." "Wouldn't it be better if you just, y'know—" "didn't exist?"
-
-**中文理解：** "你得记住，你要去的地方，只是虚无。""如果你就这样——不存在的——不是更好吗？"
-
-**关键词：** just emptiness（只是虚无）
-
-**为什么这样写：** 这是邻居/shadow 在 hollow hill 对 Tamsin 说的话。emptiness 是 depression 的核心恐惧——如果你不存在，就不需要面对痛苦。但 Tamsin 的回答是"We're in hell. And you'll still be here. Only now you'll be alone…"——接受 hell 的存在，同时拒绝 loneliness。
-
----
-
-> **原句 7:**
-> "We're in hell," I said.
-
-**中文理解：** "我们在地狱里，"我说。
-
-**关键词：** We're in hell（我们在地狱里
-
-**为什么这样写：** 这是全书的 pivotal moment。Tamsin 不是否认 hell，不是逃离 hell，而是 embrace it——"Yes, this is hell." 但紧接着"we're in hell"把 singular 变成 plural，把对抗变成共同承担。Shadow 一直想让她消失因为她代表 Tamsin 最不想面对的部分；Tamsin 的承认让这个逻辑失效。
-
----
-
-> **原句 8:**
-> "Because you were so hungry for love. Because you never trusted anyone to stay out of choice."
-
-**中文理解：** "因为你太渴望爱了。因为你从来不信任有人会选择留下来。"
-
-**关键词：** hungry for love（渴望爱）
-
-**为什么这样写：** Tamsin 用针线把 shadow 缝在自己身上时说出的原因——monster behavior 来自 unmet need，不是 intrinsic evil。hunger 是 body metaphor，说明 love 被 Tamsin 体验为 physical 需求而非 emotional。
-
----
-
-> **原句 9:**
-> "But then," she said quietly, "who are we really?"
-
-**中文理解：** "但是，"她轻轻地说，"我们到底是谁？"
-
-**关键词：** who are we really（我们到底是谁）
-
-**为什么这样写：** Shadow 问出全书的核心 question。fourth knot 完成、两人融合之后，shadow 不再是"the monster I made you"——identity 问题 open。Tamsin 的回答是"Come home, my little shadow, and let's find out."——identity 不是 fixed answer，是 ongoing process。
-
----
-
-> **原句 10:**
-> "Positive. I'm still here, aren't I?"
+> "This is 1b Sgàthan Sìth." I pointed to my half. "That is 1a Sgàthan Sìth." I gestured to the other half of the house.
 
 **中文理解：** 肯定的。我还在这儿，不是吗？
 
@@ -149,34 +105,30 @@ modified: "2026-09-23"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| desiccated | 干枯的、干涸的 | Desiccated lungs, diseased ribcage—building as body. |
-| howl | 嚎叫 | We howled together until someone yelled for their dog. |
-| hollow hill | 中空的山 | At the heart of the hill, in the hollow. |
-| stitch | 缝、缝合 | She stitched them together, palm to palm, sole to sole. |
-| semi-detached | 半独立式（房屋） | This is 1b, that is 1a—we're finishing each other's sentences. |
-| estranged | 疏远的、分离的 | The old agency felt estranged from her new self. |
-| self-deprecating | 自嘲的 | More self-deprecating than predatory now. |
+| desiccated | 干枯的、干涸的 | The whole of 1a had come down, collapsed like a diseased ribcage over desiccated lungs. |
+| howl | 嚎叫 | We howled together until someone inside the pub yelled for someone to see to their dog. |
+| semi-detached | 半独立式（房屋） | The fact that the house was semi-detached wasn't the only thing they'd missed. |
+| wiry | 精瘦的、结实的 | Roger followed behind, his wiry hair looking even more like antlers. |
+| compensation | 赔偿金 | They gave me a cheque for damages plus some. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| banter | 打趣 | The barked greetings, the howling—all a kind of banter. |
-| compensation | 赔偿金 | They gave me a cheque for compensation. |
-| antiquated | 过时的、老式的 | A proper bed, a wingback chair, vintage curtains. |
-| trudge | 艰难地走 | Callie-Ann trudged toward the crest, beating the ground. |
-| antler | 鹿角 | His wiry hair like antlers, clothes tattered like leaves. |
-| wiry | 精瘦的、结实的 | That wiry hair of Roger's. |
+| trudge | 艰难地走 | Callie-Ann was up out of her chair and trudging slowly but steadily toward the crest. |
+| antler | 鹿角 | His wiry hair looking even more like antlers, his clothes tattered and flapping like leaves. |
+| rebuild | 重建 | It is so much harder to rebuild a life. |
+| recover | 康复 | As I recovered at home, I watched next door recover, too. |
+| estate agent | 房产中介 | The estate agents who'd sold me the building got in touch. |
+| solicitor | 律师 | Fergus's Aunt Sheila—she used to be a solicitor. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| rebuild | 重建 | It is so much harder to rebuild a life. |
-| recover | 康复 | As I recovered at home, I watched next door recover, too. |
-| neighbour | 邻居 | If you can't trust your neighbours to turn up… |
-| alone | 独自的 | Alone but not alone, wet through with sweat and tears. |
-| home | 家 | Come home, my little shadow, and let's find out. |
+| proper | 像样的 | I have a proper bed now, a wingback chair, and a set of vintage curtains. |
+| home | 家 | Soon my home had its twin again. |
+| neighbour | 邻居 | If you can't trust your neighbours to turn up when you need them… |
 
 ## 一句话总结
 
