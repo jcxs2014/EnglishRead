@@ -97,7 +97,7 @@ modified: "2026-09-23"
 
 **中文理解**：她对他的影响力是她唯一拥有的东西，她不打算白给。其余的一切都属于 Anna。……"你说得对，Charles。我怎么之前没看出来呢？"
 
-**关键词**：only thing she has、give away
+**关键词**：only thing she has、give it away
 
 **为什么这样写**：全书财产论最锋利的一次换算：露西清点自我资产，只剩"被渴望"这一项——它不是身份是筹码，且她绝不赠予（give away）只交易。随即她当场表演"被说服"（"How did I not see it before?"），低头掩住眯起的眼——"despair 与 shame" 是演给 Charles 的付款凭证。一句 "There is, if you dig through the muck, a steel-toothed envy at the bottom of her" 承认她确实有 envy：假装的绝望里掺着一分真的。
 

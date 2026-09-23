@@ -77,7 +77,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：全章动作最少的灾难戏：Micah 拨通电话，只说了三句，那头 "There was a click, and then silence."——Brink 用挂断完成对母亲的投票。Lorna 迁怒的方式是复刻 Micah 家人的句式（"you could have led into it more gradually"），于是 Micah 尝到了被 Cass 挑刺的同一道菜：**答案不是重点， delivery 才是罪**。括号里那句旁白 (Had they had this exchange before?) 是全书罕见的叙述者眨眼——二十五年前的分手现场与此刻的厨房争吵严丝合缝地叠印，暗示这对情侣的冲突模式从未更新过版本；而 Micah 还在 "pleased to see" 她终于动叉子吃蛋，他的共情精度永远慢半拍却全是真的。
 
-**读者视角提示**：把 "It’s just that I got my hopes up, and then…Oh, why is he so mad at me?" 与 ch02 里 Brink 的 "I’m sick of being in the wrong all the time!" 对读——母子俩隔着一条电话线说了同一句话的两个半边，谁都没听见对方那半句。
+**读者视角提示**：把 "It’s just that I got my hopes up, and then…Oh, why is he so mad at me?" 与 ch03 里 Brink 的 "I’m sick of being in the wrong all the time!" 对读——母子俩隔着一条电话线说了同一句话的两个半边，谁都没听见对方那半句。
 
 ---
 

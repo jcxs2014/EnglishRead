@@ -75,7 +75,7 @@ modified: "2026-09-23"
 
 **关键词**：try again、what else can a person do、signaled for a turn、east
 
-**为什么这样写**：全书的枢纽藏在一档背景电台里：Micah 刚才还嫌弃 call-in show（"leave radio to the professionals"），转头却被一个他从不正眼听的陌生移民俘获——"Try again, try again, and try again after that" 正是 ch07 Lorna 判决书的民间版：**你给不给自己第二次机会，跟世界给不给你，原来是同一个问题**。而且这句话以一个被驱逐者的口吻到达——Micah 此刻的感情处境就是"被驱逐者"（被 Cass 拒于公寓门内），他说"人还能怎么办呢"的方式是**掉头再来**。随后 "He mentally writes another text" 完成关键升级：上一秒两句给 Lorna 的脑内短信还是控诉（"MY fault?"），这一秒成了认罪书——"The only place I went wrong was expecting things to be perfect" 一句同时回收 ch02 的 dominoes 二值世界观与 ch07 的自行车病理（追求完美所以得到即贬值）。而全书最被低估的标点在这里：**he heads east instead of continuing north**——Traffic God 全程满分驾驶的男人，第一次在绿灯路口改道；转向不打给 Lorna，不打给自己，他把车开向 Cass。
+**为什么这样写**：全书的枢纽藏在一档背景电台里：Micah 刚才还嫌弃 call-in show（"leave radio to the professionals"），转头却被一个他从不正眼听的陌生移民俘获——"Try again, try again, and try again after that" 正是 ch07 Lorna 判决书的民间版：**你给不给自己第二次机会，跟世界给不给你，原来是同一个问题**。而且这句话以一个被驱逐者的口吻到达——Micah 此刻的感情处境就是"被驱逐者"（被 Cass 拒于公寓门内），他说"人还能怎么办呢"的方式是**掉头再来**。随后 "He mentally writes another text" 完成关键升级：上一秒两句给 Lorna 的脑内短信还是控诉（"MY fault?"），这一秒成了认罪书——"The only place I went wrong was expecting things to be perfect" 一句同时回收 ch01 的 dominoes 二值世界观与 ch07 的自行车病理（追求完美所以得到即贬值）。而全书最被低估的标点在这里：**he heads east instead of continuing north**——Traffic God 全程满分驾驶的男人，第一次在绿灯路口改道；转向不打给 Lorna，不打给自己，他把车开向 Cass。
 
 **读者视角提示**：注意 11:18 这个时刻——他不知道四年级此刻在做什么，"He’ll wait for lunchtime…because what else can a person do?" 把移民的金句就地复述了一遍：一次广播，两个人，一句台词两遍落地，这是 Anne Tyler 的复调签名。
 
@@ -99,7 +99,7 @@ modified: "2026-09-23"
 
 **关键词**：done everything wrong、no mistakes at all、come to nothing、wringing his hands
 
-**为什么这样写**：全书最大的一次情感爆发行文，内容却是一份**技术事故报告**：Micah 的告白没有 "I love you"，没有 "don't leave"，只有因果链复盘——"trying to make no mistakes" 与 "where it got me" 的连线，正是 ch07 "The only place I went wrong was expecting things to be perfect" 的当面口述版：**这个一生把语言用来存档规则的人，此刻把语言用来承认 bug**。而三句排比的崩塌速度（wrong→nothing→无法 continue）是 Micah 式的诚实极限：他连"我爱你"都要说成"我不会活"。Cass 的回应同样是本书式的：不问为什么、不翻旧账，只是 "gently takes hold of his wrists"——她读得懂他的机型，握住的是他无处安放的操作杆。注意场景反差：ch06 他带道歉上门被拒于门厅三米之外，本章他无任何预约、当着小学生、跪着泥膝、以最不像告白的方式完成告白——**作者的规则是：Micah 只有在彻底放弃体面时才配得到体面**。
+**为什么这样写**：全书最大的一次情感爆发行文，内容却是一份**技术事故报告**：Micah 的告白没有 "I love you"，没有 "don't leave"，只有因果链复盘——"trying to make no mistakes" 与 "where it got me" 的连线，正是本章 ⑤ 那条没发出去的脑内短信（"The only place I went wrong, he writes, was expecting things to be perfect"）的当面口述版：**这个一生把语言用来存档规则的人，此刻把语言用来承认 bug**。而三句排比的崩塌速度（wrong→nothing→无法 continue）是 Micah 式的诚实极限：他连"我爱你"都要说成"我不会活"。Cass 的回应同样是本书式的：不问为什么、不翻旧账，只是 "gently takes hold of his wrists"——她读得懂他的机型，握住的是他无处安放的操作杆。注意场景反差：ch06 他带道歉上门被拒于门厅三米之外，本章他无任何预约、当着小学生、跪着泥膝、以最不像告白的方式完成告白——**作者的规则是：Micah 只有在彻底放弃体面时才配得到体面**。
 
 **读者视角提示**："What happened to you?" 问的是膝盖上的泥，Micah "chooses to misunderstand"——这是 ch03 起他面对所有关心的标准动作（Yolanda 的约会、Brink 的情绪），但这一次误解放对了：他的答非所问就是答案本身。
 

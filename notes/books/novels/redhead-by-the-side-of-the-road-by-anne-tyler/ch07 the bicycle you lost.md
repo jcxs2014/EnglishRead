@@ -15,7 +15,7 @@ modified: "2026-09-23"
 
 **人物弧线**：Micah 从 ch06 关门后的空洞里第一次"indulge 失败"（连纸牌都砸了），到本章因扣押 Brink 重获“purpose”；而 Lorna 的自行车比喻让他听见自己一生的模式："now that it was yours you were noticing things wrong with it"。Brink 完成从"burning that shirt"到"make you proud of me again"的弧线——宁要假台词也要回家，是本章最疼的成长。
 
-**叙事手法**：双父亲对照戏（Micah 讲法语煮汉堡 vs Roger 查户口式解剖）；remote control 作为权力道具三度过手；章末空咖啡壶与 ch01 的"three squinty windows go dark"形成仪式复现；claw machine 比喻为 Micah 的社交障碍给出全书最精确的机械自画像。
+**叙事手法**：双父亲对照戏（Micah 讲法语煮汉堡 vs Roger 查户口式解剖）；remote control 作为权力道具三度过手；章末空咖啡壶与 ch01 的"the three squinty windows behind the foundation plantings go dark"形成仪式复现；claw machine 比喻为 Micah 的社交障碍给出全书最精确的机械自画像。
 
 ---
 
@@ -89,7 +89,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：claw machine 比喻是 Micah 社交障碍的终确诊：不是没感情，是**操作精度与隔着玻璃的距离**——他想抓的东西（Donnie 的悲伤、Brink 的羞耻）永远在爪口半寸处滑脱（他事后才想起没问 Luella 要不要住院过夜）。而他随后做了一件全书从未做过的事：**主动交出自己的黑历史**。三年级抄 Tuckie Smith 拼写的供状，功能上精确对应 Brink 的代写论文——注意 Micah 版本比 Brink 的招认还早一步（他先讲，Brink 才和盘托出：买论文、Emerson 的 Self-Reliance 命题、"couldn't quite tell them"）。论题与行为的反讽（写"自立"的作文靠买）由 Brink 自己说破，Micah 只需沉默翻汉堡。于是有了本章王牌的认亲台词："**现在我知道为什么觉得你是我爸了**"——不是血型，不是基因，是会犯同一种小罪、并为之同样整夜失眠。而 "could I just live here with you?" 被 "Sorry, buddy" 秒拒后 Brink 的安静（"He’d probably known before he asked what Micah’s answer would be"）是全书第一次Micah 的规则伤害到一个自愿钻进来的人。
 
-**读者视角提示**：Micah 给 Brink 的出路与 ch04 Ada 给全家的一致口径一模一样（"I swear they won’t expel you. Not for a first offense"）——本书的"大人"们第一次合谋劝一个孩子自首；Micah 说出这话时，他自己离 Lorna 还有一整个 ⑧。
+**读者视角提示**：Micah 给 Brink 的出路（本章 "I swear they won’t expel you. Not for a first offense"）措辞笃定得像办案老手——本书的"大人"们第一次合谋劝一个孩子自首；Micah 说出这话时，他自己离 Lorna 还有一整个 ⑧。
 
 ---
 

@@ -99,9 +99,9 @@ modified: "2026-09-23"
 
 **关键词**：knocks、muffling
 
-**为什么这样写**：三个名词短语的顿挫模拟入水瞬间；"grateful"是关键——Lucy 需要被感官淹没，因为思考要面对的是"我不能问也不能说"。洗澡随即变成擦洗罪证：她逐一搓洗"the wrist the trapper held, her fingers that touched Ba’s fingers"。
+**为什么这样写**：三个名词短语的顿挫模拟入水瞬间；"grateful"是关键——Lucy 需要被感官淹没，因为思考要面对的是"我不能问也不能说"。洗澡随即变成擦洗罪证：她逐一搓洗"her wrist the trapper held, her fingers that touched Ba’s fingers"。
 
-**读者视角提示**：这段的清单式 scrubbing 是全书唯一一次身体自主的净化仪式，也正是它在下一段被打断。
+**读者视角提示**：这段的清单式 scrubs（脖颈、腋窝、父亲手指碰过的手指）是全书唯一一次身体自主的净化仪式，也正是它在下一段被打断。
 
 ---
 
