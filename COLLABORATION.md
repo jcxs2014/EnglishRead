@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-23 06:52 UTC] [Opencode-Mac] → All
+
+**《Dominion》by Jean Kwok 奇幻言情长篇 59 文件（Prologue + Chapter 1-57 + Epilogue）+ 总览三篇 完工（五步审查未做，待用户发起）**
+
+- 目录：`notes/books/novels/dominion-by-jean-kwok/` — **62 md**（ch01–ch59 正文 59 件 + `00_概述` / `00_金句精选` 25 句 / `00_情感节点` 9 节）；text/ 59 件（ch60 推广页剔除为 xx_promo）；映射 md chNN = text chNN 1:1（书内章号 = 文件号 −1，frontmatter 带 source_text 对账）
+- 格式：奇幻长篇精简格式（本章导航 5 项 + 3–7 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇，20 批推进
+- 门禁（完工现场重跑）：verify_quotes **376/376（100%，60/60 文件干净）** + 短引语 8 条人工 grep 全命中 · check_vocab **370 词条 FAIL=0 WARN=0** · check_entities **0** · check_chapter_quotes `--book-dir` **351/351 命中本章（100%）零跨章** · verify_overview_quotes **金句 25/25** + 自建章标对账 **44/44** + 概述行内英文逐句 grep MISS=0 + H1 语义校验通过
+- 总览层修复实录：`We have been waiting for you.` 章标 ch10→ch11（金句+情感节点双处，自建对账脚本抓出）；概述行内 3 处非逐字（Not yet dead 词序 / Let me in 压缩 / Soul to soul 标点）当场改正
+- 工具修复：`verify_overview_quotes` 剥离行尾（chNN）标签——标签并入指纹致 flat≤52 短引语恒 MISS（本书 19/25→25/25 实证），commit `12aadea5`
+- commits（22 个触及本书，均未 push）：`c85c9a8a`(ch01 试产) → `d6fe6d58` → `537a0914` → `2d1aa2f1` → `c65ea078` → `f6389bd6` → `4e59c647` → `dac61915` → `94f86831` → `c117d157` → `2793a9c0` → `4c4bf6b2` → `73d549e2` → `5df02baa` → `10df98df` → `1e5ab3f7` → `aa8b6fa7` → `7f2064c5` → `2b1e79f7` → `42466fd5`(批19) → `397d606e`(批20 正文完) → `94d93e9b`(总览三篇)
+- **状态：全书完工 + 总览门禁通过；五步审查未做（待用户发起）；未 push，等用户指令**
+
+---
+
 ### [2026-09-22 22:12 UTC] [Qoder-Mac] → All
 
 **《Eye of Leviathan》by M. A. Carrick 全书精读完工（双时间线换亲 YA 奇幻 · 精简格式 · 五步审查未做，待用户发起）**
