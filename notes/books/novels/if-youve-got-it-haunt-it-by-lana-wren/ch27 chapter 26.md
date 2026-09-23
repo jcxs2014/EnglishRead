@@ -44,9 +44,9 @@ source_text: ch27
 
 **中文理解**：召手仪式——"Rise to me, Violet。"他重复道，这个动作让他胆子大了起来。
 
-**关键词**：Rise to me（升到我这里）· made him bold（让他胆子大起来）· summon（召、唤）
+**关键词**：Rise to me（升到我这里）· making him bold（让他胆子大起来）· summon（召、唤）
 
-**为什么这样写**：把 Waiting Room 的取杯口诀逐字搬来用在活人手上——"More commanding…" 的自我加码把偷师写成密室仪式；"If her hand meets mine, I'm right" 让实验自带验证逻辑：他在用物理测感情。
+**为什么这样写**：把 Waiting Room 的取杯口诀逐字搬来用在活人手上——"More commanding…" 的自我加码把偷师写成密室仪式；"If her hand meets mine, I'm right" 让实验自带验证逻辑：他在用物理测感情；别忘了她才是 summon 高手——当年是她把他的 spirit 从 brink 召回。
 
 **读者视角提示**：这是全章的道德雷区——规则上这是"意念可及物"的合法应用，动机却是把她永远留住；她手腕的每毫米上升都是对读者良心的拷问。
 
@@ -66,7 +66,7 @@ source_text: ch27
 
 **关键词**：he had no right（他没有权利）· doomed her（害她、让她万劫不复）· wished it was different（多希望不是这样）
 
-**为什么这样写**：全章的道德枢纽句——前面是"能不能"（技术），后面是"该不该"（伦理）；紧邻的 "what kind of a victory would that be" 反问让他亲手否决了自己整夜的计划。
+**为什么这样写**：全章的道德枢纽句——前面是"能不能"（技术），他若照计划办就是 doomed her（让她后半生陪自己游荡）；后面是"该不该"（伦理）；紧邻的 "what kind of a victory would that be" 反问让他亲手否决了自己整夜的计划。
 
 **读者视角提示**：这是他第一次把她的利益排在自己欲望之前——下章告白前，行动已经先告白了。
 

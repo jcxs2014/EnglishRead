@@ -96,7 +96,7 @@ source_text: ch34
 
 **关键词**：You're enough（你足够好）· I should have seen it（我早该看见）· I will always love you（我永远爱你）
 
-**为什么这样写**：加冕与忏悔共用一句主语——"You're enough" 是他的祝圣，"I'm sorry I didn't" 是他的判决；对白在九点前挤完（minute hand marked the hour），随后一声 snap、绳落腕——钟、情话、断绳三拍完成仪式：话音与 deadline 同帧。
+**为什么这样写**：加冕与忏悔共用一句主语——"You're enough" 是他的祝圣，"I'm sorry I didn't" 是他的判决；对白在九点前挤完，末了他还补上 "I will always love you, Vi"（minute hand marked the hour），随后一声 snap、绳落腕——钟、情话、断绳三拍完成仪式：话音与 deadline 同帧。
 
 **读者视角提示**：全章所有评论区的骂声都被这四句盖住——她得到了最想要的认可，代价是可能立刻失去存在的资格；"With a loud snap, the light tether fell from Violet's wrist." 单句成段收章，是本书最狠的停机点：九点到了，是任务完成的毕业铃，还是化灰的发令枪？
 

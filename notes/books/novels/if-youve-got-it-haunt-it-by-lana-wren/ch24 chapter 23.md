@@ -64,7 +64,7 @@ source_text: ch24
 
 **中文理解**：神秘私信逐字回放——"它说：我丢失的爱正在纠缠我。我无法逃脱。我想知道她是否还记得我们那一夜的千颗星辰……"
 
-**关键词**：haunting me（纠缠着我）· a night of a thousand stars（千颗星辰之夜）· can't escape（无处可逃）
+**关键词**：haunting me（纠缠着我）· our night of a thousand stars（千颗星辰之夜）· can't escape（无处可逃）
 
 **为什么这样写**：全书悬疑线的信息核心在死线前一夜公开对账——每个短句都精确踩在她的旧伤上（lost / trapped / remembers），而他当场否认发送（"I didn't send you a message"）；叙事把谜面放大一号：从"谁发的"升级为"这句话他到底认不认"。
 

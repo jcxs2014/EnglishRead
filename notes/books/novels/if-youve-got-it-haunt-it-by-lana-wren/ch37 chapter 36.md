@@ -56,7 +56,7 @@ source_text: ch37
 
 **关键词**：a huge bag（巨大的包）· taken off for a few days（出去躲几天）· glee（幸灾乐祸的兴致）
 
-**为什么这样写**："Carrying a huge bag, she was" 的倒装是市井转述的口音——八卦者连语序都在添油；后文明写 glee 揭底（the biggest gossip around），让读者先于角色识别情报污染：同样的信息，经她的嘴必然升格为"走人"。
+**为什么这样写**："Carrying a huge bag, she was" 的倒装是市井转述的口音——八卦者连语序都在添油，还一口咬定她 taken off for a few days；后文明写 glee 揭底（the biggest gossip around），让读者先于角色识别情报污染：同样的信息，经她的嘴必然升格为"走人"。
 
 **读者视角提示**：这是信息不对称的经典喜剧误读——观众知道 Suki 不是那种人，Violet 却被"放弃最好的行李箱"这个细节击穿：作者用一个反常识细节（行李不对）埋下洗衣机反转的引线。
 
@@ -76,7 +76,7 @@ source_text: ch37
 
 **关键词**：so typically Suki（太典型的 Suki）· burst out laughing（爆笑出声）· the release and relief（释放与宽慰）
 
-**为什么这样写**："逻辑"成为和解的钥匙——所有情绪账（恨 / 钱 / 骗）被一台坏掉的洗衣机瞬间中和：真相有时不是重磅是琐碎，琐碎才治愈；两人"笑到停不下来"是全书第一次纯粹的无目的快乐。
+**为什么这样写**："逻辑"成为和解的钥匙——所有情绪账（恨 / 钱 / 骗）被一台坏掉的洗衣机瞬间中和：真相有时不是重磅是琐碎，琐碎才治愈；两人"笑到停不下来"（the release and relief）是全书第一次纯粹的无目的快乐。
 
 **读者视角提示**：作者在这里示范本书的核心修辞——把最重的悬念用最轻的事实拆弹（同 Gekkou 头槌、同 Delilah 遥控器）：日常性是这本书的终极超能力。
 

@@ -26,7 +26,7 @@ source_text: ch30
 
 **关键词**：holding its breath（屏住呼吸）· waiting for something（等一件事）· oddly quiet（反常地静）
 
-**为什么这样写**：感官剥夺清单（风被拎走 / 灰光抽色 / 面包香缺席）堆到第三层才落这个比喻——环境拟人化给 deadline 日配了天然的舞台黑场；紧接着旁白直接点名 portent，不让读者猜。
+**为什么这样写**：开篇 "The town was oddly quiet" 先定调，感官剥夺清单（风被拎走 / 灰光抽色 / 面包香缺席）堆到第三层才落这个比喻——环境拟人化给 deadline 日配了天然的舞台黑场；紧接着旁白直接点名 portent，不让读者猜。
 
 **读者视角提示**：这是全书第一次让"地点"站队到悬念里——Thistleton 本身成了第 N 个角色，为晚间直播的全城视角（大家都在看）预铺气氛。
 
@@ -46,7 +46,7 @@ source_text: ch30
 
 **关键词**：We'll always have this moment（这一刻我们永远拥有）· Ain't nobody takin' that（谁也夺不走）· soothed the air（安抚了空气）
 
-**为什么这样写**：蓝调歌词在这一刻充当叙事者——书名 Haunt It 的反面答案在此出现：抓不住时间就收藏时间；diegetic 歌词点题比旁白直抒便宜十倍，还顺便给唱片店上了氛围光。
+**为什么这样写**：一曲蓝调 "soothed the air" 之后，歌词在这一刻充当叙事者——书名 Haunt It 的反面答案在此出现：抓不住时间就收藏时间；diegetic 歌词点题比旁白直抒便宜十倍，还顺便给唱片店上了氛围光。
 
 **读者视角提示**：歌词是给她的，舞是给他的，而读者两样都收到了——旁白特别标注这是 "possibly-last-day 里唯一的 normal"：作者在提醒，这就是她们的黄金时刻。
 
@@ -56,7 +56,7 @@ source_text: ch30
 
 **关键词**：summon it to your hand（召到手里）· command it（命令它）· don't fly unless she's desired（不被渴望就不飞）
 
-**为什么这样写**：规则书第三课（意念可及物）从"工具"升到"娱乐"——这条把全书灵异体系的基调钉死：这套力量的用途清单里有取杯、有遥控器，也有台灯；"This baby don't fly unless she's desired" 拟人化点出核心机制——幽灵世界的力量动词是 desire。
+**为什么这样写**：规则书第三课（意念可及物）从"工具"升到"娱乐"——这条把全书灵异体系的基调钉死：这套力量的用途清单里有取杯（"Summon it to your hand"，ch19 McKenna 亲授）、有遥控器（Delilah）；"This baby don't fly unless she's desired" 拟人化点出核心机制——幽灵世界的力量动词是 desire。
 
 **读者视角提示**：Deadline perk 是 Jimmi 的私人授勋（连名字都起好：Delilah）——规则的冷与人情的暖同框；Thomas 那句 "So cool…" squeak 是全章的喜剧排气阀，之后的情绪马上要爬坡。
 

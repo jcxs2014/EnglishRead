@@ -52,7 +52,7 @@ source_text: ch07
 
 > **原句 4:** "‘It is,’ she managed, instantly kicking herself."
 
-**中文理解**：对 Ben 的邀约，她憋出一句 "It is"，随即在心里狠狠踹了自己一脚。
+**中文理解**：对 Ben 的一句招呼（Morning），她憋出一句 "It is"，随即在心里狠狠踹了自己一脚。
 
 **关键词**：managed（勉强挤出）· instantly kicking herself（当场想踹自己）
 

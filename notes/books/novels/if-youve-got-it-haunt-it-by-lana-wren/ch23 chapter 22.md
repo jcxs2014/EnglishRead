@@ -56,7 +56,7 @@ source_text: ch23
 
 **关键词**：valid reasons（成立的理由）· spend time with you（与你共处）· Geography Club（地理社）
 
-**为什么这样写**：让步句先给她面子（Miss Gregory、周五免自习），再交底——他连告白都要先垫两块砖；随后的 "No car of my own, not brave enough to borrow my mum's car… or ask you to come with me" 把浪漫拆成少年的窘迫账本：真情藏在无能里。
+**为什么这样写**：让步句先给她面子（Miss Gregory、周五免自习），再交底 Geography Club 的真实动机——他连告白都要先垫两块砖；随后的 "No car of my own, not brave enough to borrow my mum's car… or ask you to come with me" 把浪漫拆成少年的窘迫账本：真情藏在无能里。
 
 **读者视角提示**："So sneaky!" "Not sneaky. Inventive." 的回合是全章笑点顶峰——也预示后文书包阴谋：这个男孩的每一步接近都带策划，她的初恋其实是一场他精心编排的"偶遇工程"。
 
@@ -94,7 +94,7 @@ source_text: ch23
 
 **中文理解**：长椅上的死亡观——"我希望他直接过去了。我希望他跟 Jeannie 在一起，家人围着床、他的手安稳放在她手里。这一分钟还在，下一分钟就在光里。"
 
-**关键词**：（见上）passed straight over（直接往生）· the family gathered close（家人围拢）· in the light（在光里）
+**关键词**：One minute with them（前一分钟还在一起）· their family gathered close（家人围拢）· in the light（在光里）
 
 **为什么这样写**：一个陌生人（长椅纪念牌上的 Noah Cullen）成了他想象自己终点的模板——没有 Waiting Room、没有任务书，只要"手被人握着、下一分钟进光里"；旁白一句 "Could you mourn your own life?" 把闲聊拧成存在命题。
 

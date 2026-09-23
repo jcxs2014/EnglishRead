@@ -26,7 +26,7 @@ source_text: ch35
 
 **关键词**：stated blankly（一字一顿地陈述）· intakes of breath（四面的吸气声）· dreamlike, strange repetition（梦幻的奇异重复）
 
-**为什么这样写**："It's time" 三个词既是他对她说的告别，也是规则书借他的嘴宣读的钟点；"eyes wide with fear" 让执行者也害怕——他不想走；回声腔（return to the dreamlike repetition）与序章现身完全同构：入场退场用同一副嗓音，仪式对称。
+**为什么这样写**："It's time" 三个词既是他对她说的告别，也是规则书借他的嘴宣读的钟点；"eyes wide with fear" 让执行者也害怕——他不想走；四周 intakes of breath 簇拥着回声腔（return to the dreamlike, strange repetition），与序章现身完全同构：入场退场用同一副嗓音，仪式对称。
 
 **读者视角提示**：九点的 snap 在上一章末，此章开场她先喊 "No! I'm not ready!"——命运与人对撞的第一秒就是这句话：读者已经在哀悼，她还在抗辩。
 
@@ -36,7 +36,7 @@ source_text: ch35
 
 **关键词**：I should never have lied（我不该说谎）· I should have believed I was enough（我本该相信我足够好）· green light of the camera（摄像机的绿灯）
 
-**为什么这样写**：把她的自我诊断升格成公开遗言——"should have" 的虚拟过去是第二种忏悔时态（第一种是 I'm not a psychic）；deadline 已过仍继续播，是她第一次主动违抗规则书：话比命运优先；旁白交代她手指悬在 END STREAM 上却逼自己说完。
+**为什么这样写**：把她的自我诊断升格成公开遗言——"should have" 的虚拟过去是第二种忏悔时态（第一种是 I'm not a psychic）；deadline 已过仍继续播，是她第一次主动违抗规则书：话比命运优先；她的视线被 the green light of the camera 拽回，手指悬在 END STREAM 上却逼自己说完。
 
 **读者视角提示**：她的注意力在两处撕开（关播的鼠标 / 不要走的眼神）——观众以为她在收尾，其实她在挽留：直播成了一场只有她和镜头知道的葬礼。
 
@@ -86,7 +86,7 @@ source_text: ch35
 
 **关键词**：a door slammed（一扇门摔上）· sorrow broke over her（悲恸漫过）· Suki was gone（Suki 走了）
 
-**为什么这样写**：全书最重要的两声门响（她"总是摔门"的童年诊断 / Suki 实际摔门）在此合流——诊断是隐喻，这次是实事；句子不给解释不留缓冲，门声与星尘落地几乎同拍：一次失去，两个方向。
+**为什么这样写**：全书最重要的两声门响（她"总是摔门"的童年诊断 / Suki 实际摔门（三行之后 "Suki was gone."）在此合流——诊断是隐喻，这次是实事；句子不给解释不留缓冲，门声与星尘落地几乎同拍：一次失去，两个方向。
 
 **读者视角提示**：她先失去 Thomas 的实体、再失去 Suki 的在场——结构上作者把"挽留失败"连做两次，逼出下一章的"为什么不像胜利"：任务奖杯是空的，因为颁奖礼上没人陪。
 

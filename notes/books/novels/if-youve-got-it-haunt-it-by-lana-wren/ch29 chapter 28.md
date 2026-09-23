@@ -66,7 +66,7 @@ source_text: ch29
 
 **关键词**：I believe in us（我相信我们）· in vain（白费、徒劳）· our best shot（我们最好的一搏）
 
-**为什么这样写**：在她连问 "What if we're wrong" 之后出现的这句，是全章他最沉稳的一刻——从插科打诨切到定海神针；"not in vain" 同时回敬她对任务的怀疑（七天到底值不值）。
+**为什么这样写**：在她连问 "What if we're wrong" 之后，他先撂下 "give it our best shot"，再给出这句——全章他最沉稳的一刻，从插科打诨切到定海神针；"not in vain" 同时回敬她对任务的怀疑（七天到底值不值）。
 
 **读者视角提示**：旁白立刻补刀 "Violet wished she could feel comforted by his words"——她要的不是信心是保证，两人的温度差为当晚的成败各留了一份悬念。
 
@@ -76,7 +76,7 @@ source_text: ch29
 
 **关键词**：detonating a bomb（引爆一颗炸弹）· an elegantly crafted lie（一句精心打造的谎）· the void（那个空洞）
 
-**为什么这样写**：bomb 与 craft 对撞——建造的工整与爆破的暴力同源；随后的剖析句把人设动机挖到底：Madame 是"补 Violet 不够好这个洞"的腻子，字句补位（smoothing over / wouldn't be welcome unless…）像心理病历。
+**为什么这样写**：bomb 与 craft 对撞——建造的工整与爆破的暴力同源；随后的剖析句把人设动机挖到底（"covered the void left by Thomas"）：Madame 是"补 Violet 不够好这个洞"的腻子，字句补位（smoothing over / wouldn't be welcome unless…）像心理病历。
 
 **读者视角提示**：这段是"为什么要自爆"的完整论证——她不是赎罪，是拆脚手架：脚手架在一天，里面的房子就一天没验收过。
 

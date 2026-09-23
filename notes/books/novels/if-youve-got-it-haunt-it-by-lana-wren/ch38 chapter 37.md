@@ -24,9 +24,9 @@ source_text: ch38
 
 **中文理解**：天赐之眼——"每一颗都是一份礼物：一种 Violet 曾经害怕再也看不到的景象。"
 
-**关键词**：a sight she once feared she'd never see again（她曾怕再也看不到的景象）· Each one a gift（每一颗都是礼物）· sparkling silver stars（闪亮的银星）
+**关键词**：a sight Violet once feared she'd never see again（她曾怕再也看不到的景象）· Each one a gift（每一颗都是礼物）· sparkling silver stars（闪亮的银星）
 
-**为什么这样写**：开篇第一句就把"平凡的看见"标上价签——全书她失去过视野（面具）、失去过所爱、失去过资格，如今一颗圣诞星就是偿付；gift 双关（星星 / 这条命）给终章定下感恩时态。
+**为什么这样写**：开篇 sparkling silver stars 从天花板洒下，第一句就把"平凡的看见"标上价签——全书她失去过视野（面具）、失去过所爱、失去过资格，如今一颗圣诞星就是偿付；gift 双关（星星 / 这条命）给终章定下感恩时态。
 
 **读者视角提示**：与序章 The night that changed everything 正对：第一章她看不见真相，末章她看见满天星星——视觉意象的首尾环是作者的闭合宣告。
 
@@ -56,7 +56,7 @@ source_text: ch38
 
 **关键词**：in a heartbeat（心跳一次就认出）· shooting star（流星）· identical to the badge in her memory box（与记忆盒里那枚一模一样）
 
-**为什么这样写**：铁皮徽章是全书最小的信物（初恋遗物 / 唱片店点播 / 终章信使）——它从"记忆盒深处"掉进现实，物理性地把过去带到 Ben 脚边；"stole her breath" 的用词与看见纸星座同款：星星一出场就偷气。
+**为什么这样写**：铁皮徽章是全书最小的信物（初恋遗物 / 唱片店点播 / 终章信使）——the logo identical to the badge in her memory box，它从"记忆盒深处"掉进现实，物理性地把过去带到 Ben 脚边；"stole her breath" 的用词与看见纸星座同款：星星一出场就偷气。
 
 **读者视角提示**：掉落时机绝非偶然（作者的上帝之手开始收线）——读者这时已经明白接下来会发生什么，悬念从"会不会"转为"怎么发生"：期待感取代紧张感，正是 HE 终章该有的配方。
 
@@ -76,7 +76,7 @@ source_text: ch38
 
 **关键词**：I don't suppose you'd…（我不知你是否愿意…，英式迟疑）· Would you want to go with me（想跟我一起去吗）· self-conscious laugh（难为情的笑）
 
-**为什么这样写**：双重否定的试探句是全书最笨拙也最真诚的一句台词——McKenna 催了他那么久（on my case），临场还是结巴；作者让他用"演出票"当借口：浪漫藏在 logistics 后面，与 Suki 的洗衣粉逻辑同宗。
+**为什么这样写**：他先送出一个 self-conscious laugh，再问出双重否定的试探句——全书最笨拙也最真诚的一句台词；McKenna 催了他那么久（on my case），临场还是结巴；作者让他用"演出票"当借口：浪漫藏在 logistics 后面，与 Suki 的洗衣粉逻辑同宗。
 
 **读者视角提示**：这句呼应序章被拒的点单与唱片店的隔窗挥手——三拒三请的节奏在第四次接通：读者等这一天等了全书，所以笨拙才动人。
 
@@ -96,7 +96,7 @@ source_text: ch38
 
 **关键词**：one more Violet Simmonds-created story（再一个 Violet 牌故事）· could be forgiven（可以被原谅）· spinning that tale（继续编那个故事）
 
-**为什么这样写**：全书最后一行是一张赦免申请书——她将装作爱 DuskStar、把这场相遇包装成偶然，继续撒"无害的谎"很多年：结尾把"说谎"重新定价（工具无罪，用途决定罪名）；问号 + 省略号把裁决权抛给读者：我们就是规则书。
+**为什么这样写**：全书最后一行是一张赦免申请书——她将装作爱 DuskStar、把这场相遇包装成偶然，以 spinning that tale 的方式继续撒"无害的谎"很多年：结尾把"说谎"重新定价（工具无罪，用途决定罪名）；问号 + 省略号把裁决权抛给读者：我们就是规则书。
 
 **读者视角提示**：与首章规则书（七天、face to face、throw stories）首尾闭环——教她直面真相的那套规则，最后批准她再讲一个故事：书名 Haunt It 在此完成双关——被过去 haunt 还是被故事 haunt，她选了后者，而后者恰好是爱。
 

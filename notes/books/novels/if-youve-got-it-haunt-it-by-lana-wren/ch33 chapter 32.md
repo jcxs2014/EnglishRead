@@ -26,7 +26,7 @@ source_text: ch33
 
 **关键词**：detonate her own existence（引爆自己的存在）· paste diamonds（纸钻、假钻）· structured corsetry（硬挺的胸衣）
 
-**为什么这样写**：detonate 把更衣写成军火作业——衣服 = 引信；一连串选择题（珍珠 / 假钻 / 天鹅绒 / 胸衣）按"体面 → 寒碜 → 包裹 → 迎战"排列，她在选自己的死法美学；"A whole world that wasn't hers in one half of her wardrobe" 半句先把柜子定性为租界。
+**为什么这样写**：detonate 把更衣写成军火作业——衣服 = 引信；一连串选择题（pearls / paste diamonds / velvet / structured corsetry）按"体面 → 寒碜 → 包裹 → 迎战"排列，她在选自己的死法美学；"A whole world that wasn't hers in one half of her wardrobe" 半句先把柜子定性为租界。
 
 **读者视角提示**：这是全书对"戏服"最直接的点名——前文它叫 front / fortress / mask，这里终于升级成 explosive：拆家的决心从动词 detonate 开始，下一段她的手就动了。
 
@@ -66,7 +66,7 @@ source_text: ch33
 
 **关键词**：spinny-wheel（转圈加载轮）· gasped in horror（恐惧倒抽）· stubborn residency（赖着不走的驻留）
 
-**为什么这样写**：把技术故障拟成不速之客（resident / budging / doom）——倒计时恐怖片里，反派是一个 loading 图标；随后评论区实录（Anyone online yet? / If this is another stunt…）整段照贴，让平台语言替叙事做时代注脚。
+**为什么这样写**：把技术故障拟成不速之客（its stubborn residency / budging / doom）——倒计时恐怖片里，反派是一个 loading 图标；随后评论区实录（Anyone online yet? / If this is another stunt…）整段照贴，让平台语言替叙事做时代注脚。
 
 **读者视角提示**：三十分钟延误在结构上是"命运是否想让她开口"的悬念代理——她怕的不是没人看，是宇宙不让说；这也把下章开场的道歉（thanks to Gekkou…）需要的因果先欠下。
 
@@ -86,7 +86,7 @@ source_text: ch33
 
 **关键词**：get in the bin（滚进垃圾桶，英俚 = 去死）· Too right（太对了）· under the desk（桌子底下）
 
-**为什么这样写**：全章唯一一次三方台词同框且互不知情——她在骂宇宙、Suki 在骂插头，粗口成了隐形的接力棒；get in the bin 比脏话干净、比脏话狠，是她的阶级口音。
+**为什么这样写**：全章唯一一次三方台词同框且互不知情——她在骂宇宙，Suki 从 under the desk 下应一声 "Too right" 再接着骂插头，粗口成了隐形的接力棒；get in the bin 比脏话干净、比脏话狠，是她的阶级口音。
 
 **读者视角提示**：这个喜剧并置（fate 的哲学对白 vs 检查插头的技术员顺嘴附和）是灾难片的标准泄压阀——笑点过后猫就出场了：作者把最神圣的救场留给最不神圣的物种。
 

@@ -36,7 +36,7 @@ source_text: ch12
 
 **关键词**：planks of wood（木板）· held screws and hammers（递螺丝递锤子）· felt like a king（感觉像国王）
 
-**为什么这样写**："not built it, you know, just…" 的自我拆台把儿童的夸大与成人的诚实叠进同一句——"felt like a king" 是 Thomas 全书最柔软的一次自我暴露；"My gramps made it. Everything he made lasted" 与他生命的骤停构成无声对照。
+**为什么这样写**："not built it, you know, just…" 的自我拆台把儿童的夸大与成人的诚实叠进同一句——"felt like a king" 是 Thomas 全书最柔软的一次自我暴露；"My gramps built it. Everything he made lasted" 与他生命的骤停构成无声对照。
 
 **读者视角提示**：树屋是他唯一"创造"过的东西——它还在，他就还有一部分没死透；这也是他肯重返现场的心理动机。
 
@@ -74,7 +74,7 @@ source_text: ch12
 
 **中文理解**：自我修正——奇怪，她一直以为自己的讲故事生涯从高中才开始；难道她从小就在分享自己编的故事？
 
-**关键词**：storytelling（讲故事）· began at high school（始于高中）· imagined（想象出来的）
+**关键词**：storytelling（讲故事）· begun at high school（始于高中）· imagined（想象出来的）
 
 **为什么这样写**：这是她自我认知的第三次刷新（序章：封心起点；ch03：高中 Ilana 点火；此处：童年树屋已有前科）——"生存策略"的年龄不断前移，直到它显形为天性而非选择；设问结尾不给答案，把疑问留给读者。
 

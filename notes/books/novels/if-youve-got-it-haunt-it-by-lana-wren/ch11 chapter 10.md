@@ -68,7 +68,7 @@ source_text: ch11
 
 **为什么这样写**："always just there" 是全书最轻也最重的记忆证词——不是某个戏剧性瞬间，是长期的背景辐射；她一直是他生活场景里的常驻存在，这解释了 heart-tie 的慢性成因。
 
-**读者视角提示**：与她的记忆对照（"I don't remember Thomas from that visit"）——两人对同一段过去的存档格式完全不同：他存氛围，她存物件。
+**读者视角提示**：与下一章她的记忆对照（"She didn't remember Thomas from that visit, though"，后一章原话）——两人对同一段过去的存档格式完全不同：他存氛围，她存物件。
 
 > **原句 6:** "That wasn’t the beginning of anything. It was a precursor to the death of them."
 

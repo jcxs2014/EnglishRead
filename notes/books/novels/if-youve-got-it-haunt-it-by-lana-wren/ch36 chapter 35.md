@@ -56,7 +56,7 @@ source_text: ch36
 
 **关键词**：a reason why（一个原因）· powerless to change it（无力改变）· This time was worse（这次更糟）
 
-**为什么这样写**：与第一次失去对照（当年以为见鬼是思念，如今是确认）——"有原因"是更重的枷锁：无知可以归咎命运，知情只能归档；两个短句斩钉截铁，前面四排 "No..." 的空屋清单是它的证明材料。
+**为什么这样写**：上一行 "This time was worse" 先钉死基调，与第一次失去对照（当年以为见鬼是思念，如今是确认）——"有原因"是更重的枷锁：无知可以归咎命运，知情只能归档；两个短句斩钉截铁，前面四排 "No..." 的空屋清单是它的证明材料。
 
 **读者视角提示**：全书 haunt 主题在此换轴——Jimmi 说"人会被看不见的东西困住"，本章她亲测：困住她的不再是谜，是答案本身的重量。
 
@@ -86,7 +86,7 @@ source_text: ch36
 
 **关键词**：tethered（拴着）· anythin' about Livin's（活人的事）· all around you（就在你身边）
 
-**为什么这样写**：规则书玩文字游戏翻出最后一章：tether 是权限卡不是视力——卸卡不等于失明；Jimmi 的口头禅式发音（anythin' / Livin's）把宇宙级揭示说得像吧台闲聊，举重若轻。
+**为什么这样写**：规则书玩文字游戏翻出最后一章：tether 是权限卡不是视力——卸卡不等于失明，Livin's 就在 "They're all around you"；Jimmi 的口头禅式发音（anythin' / Livin's）把宇宙级揭示说得像吧台闲聊，举重若轻。
 
 **读者视角提示**：这是全书世界观的最终补丁——她不是失去了幽灵社群，是从"被展示的一侧"换到"观看的一侧"：黄绳慢跑女与红绳报纸男把"告别从未完成"变成街景，悲悯从此有了落点。
 
@@ -96,7 +96,7 @@ source_text: ch36
 
 **关键词**：You ain't bad（你不坏）· show her who you really are（把真正的你给她看）· bear hug（熊抱）
 
-**为什么这样写**："You ain't bad" 是先安抚后派活的双段式——与 Thomas 的 enough 祝福同构但更糙：一个是加冕，一个是上岗；"So show her who you really are" 是全书行动纲领的第三次下达（show the world → show everyone → show her）：范围从世界缩到一个人，任务反而更难。
+**为什么这样写**：一个 bear hug 之后，"You ain't bad" 是先安抚后派活的双段式——与 Thomas 的 enough 祝福同构但更糙：一个是加冕，一个是上岗；"So show her who you really are" 是全书行动纲领的第三次下达（show the world → show everyone → show her）：范围从世界缩到一个人，任务反而更难。
 
 **读者视角提示**：本章结尾的决定句是宣言体过去时——全书她的决定第一次用这么短的句子收：没有内心戏、没有权衡，成长的语法就是句号。
 

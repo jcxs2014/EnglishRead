@@ -34,7 +34,7 @@ source_text: ch01
 
 **中文理解**：月光在湖面起舞，为松林和远山勾出一道魔法般的银边——为"完美一夜"搭建的理想化布景。
 
-**关键词**：edged（勾勒边缘）· silver glow（银色微光）· framed（映衬成框）
+**关键词**：edging（勾勒边缘）· silver glow（银色微光）· framed（映衬成框）
 
 **为什么这样写**：拟人（danced）加童话修饰（magical silver glow）把实景推向梦境质地，自然景物全部柔化、无一处阴影，服务于"此刻不容玷污"的叙事目的；地名 Sweetheart Lake（情人湖）本身就是明牌反讽。
 

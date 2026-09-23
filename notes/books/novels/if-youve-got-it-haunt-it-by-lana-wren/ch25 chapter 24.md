@@ -44,7 +44,7 @@ source_text: ch25
 
 **中文理解**：她的总账——"你击碎了我的心！"喊声在寂静夜里回荡，仿佛湖与森林的野灵都在替她助声——"你拿走了我在这里给你的一切——我的爱、我的身体、我的未来——像丢垃圾一样扔掉，好像一文不值。"
 
-**关键词**：shattered my heart（击碎我的心）· threw it away like it was worthless（像垃圾一样扔掉、弃如敝屣）· lent their voices（借出嗓门、助声）
+**关键词**：shattered my heart（击碎我的心）· threw it away like it was worthless（像垃圾一样扔掉、弃如敝屣）· lending their voices（借出嗓门、助声）
 
 **为什么这样写**：破折号里的三连清单（love / body / future）按递增重量排列，最后的 worthless 是判决词；"wild spirits… lending their voices" 把独白升级成全自然的合唱——她第一次喊得理直气壮，环境替她背书。
 
@@ -58,7 +58,7 @@ source_text: ch25
 
 **为什么这样写**：排比祈使（Don't look away / Don't shut me out）是全书他最露骨的求救——审判官彻底翻面成乞求者；"treasure" 与她 "worthless" 的判决词正面对撞，同一段过去，两个估值。
 
-**读者视角提示**：注意 "I need you" 在"三千个灵魂"的账本之后第二次出现——他的"需要"从任务依赖升级为情感依赖，但"需要"这个词恰恰是她的病灶（I liked being needed），作者让两个病人互开药方。
+**读者视角提示**：注意 "I need you" 在"三万个灵魂"（"Thirty thousand trusting souls"，紧随其后就是 ch14 那句 "you need me. And maybe I need you"）的账本之后第二次出现——他的"需要"从任务依赖升级为情感依赖，但"需要"这个词恰恰是她的病灶（I liked being needed），作者让两个病人互开药方。
 
 > **原句 5:** "‘What if your love is the only thing that can save me?’"
 

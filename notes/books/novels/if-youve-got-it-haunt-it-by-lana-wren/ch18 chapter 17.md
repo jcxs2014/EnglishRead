@@ -54,7 +54,7 @@ source_text: ch18
 
 **中文理解**：公园的身世——他把她关进生活黑名单之后，Wildacre 成了她的救生索，取代 Sweetheart Lake 成为她与世界讲理的地方。
 
-**关键词**：shut her out（把她拒之门外）· lifeline（生命线、救生索）· make sense of the world（想通事情、理解世界）
+**关键词**：shut her out（把她拒之门外）· lifeline（生命线、救生索）· made sense of the world（想通事情、理解世界）
 
 **为什么这样写**：两个地名接力画出创伤地图（Sweetheart Lake = 定情与被弃，Wildacre = 独自愈合）；紧接着 "No such splintered ghosts awaited her" 把地景人格化——这座公园里没有碎掉的承诺。
 

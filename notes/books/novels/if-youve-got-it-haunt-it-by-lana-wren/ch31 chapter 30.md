@@ -26,7 +26,7 @@ source_text: ch31
 
 **关键词**：moved on（跨过去、往生）· or otherwise（或者相反、或者别的下场）· new faces（新面孔）
 
-**为什么这样写**："or otherwise" 三个词藏着全书最阴的一笔——不毕业的反面不是留下，是 Desertered（书内已在湖边点过名）；数人头的疑问句给温情场馆蒙一层花名册的冷光。
+**为什么这样写**：进门先撞上 a host of new faces，"or otherwise" 三个词藏着全书最阴的一笔——不毕业的反面不是留下，是 Deserted（书内已在湖边点过名，"Or a Deserted"）；数人头的疑问句给温情场馆蒙一层花名册的冷光。
 
 **读者视角提示**：与白灰现场对读：每次进这扇门，作者都提醒读者这地方同时是候机厅和停尸房——氛围从第一段就校准完毕。
 
@@ -36,7 +36,7 @@ source_text: ch31
 
 **关键词**：luminous（发光的）· sorted out your shite（把你的烂事摆平了，shit 的儿化）· That glow doesn't lie（那光不会骗人）
 
-**为什么这样写**：The G 用台球厅的语言做通灵诊断——glow 是 Waiting Room 的实体化情绪指标，"seen it a million times" 把玄学降成经验科学；粗口排比维持他"老炮导游"的人设不掉线。
+**为什么这样写**：The G 用台球厅的语言做通灵诊断——"That glow doesn't lie"，glow 是 Waiting Room 的实体化情绪指标，"seen it a million times" 把玄学降成经验科学；粗口排比维持他"老炮导游"的人设不掉线。
 
 **读者视角提示**：这句是感情线的官方盖章——从进门的尴尬到 "Maybe." 的含蓄，读者看得见两人刚完成的功课；他补的 "For definite, dude" 不给反驳余地，等于替作者剧透：和解已经生效。
 
@@ -96,7 +96,7 @@ source_text: ch31
 
 **关键词**：the time is at hand（时辰已到）· You are enough（你足够好）· pausing for the assembled crowd to repeat（停下来让全场复诵）
 
-**为什么这样写**：三段式祝圣（You are not alone / You are loved / And you are enough）把私人战斗转成公共仪式——"复诵"的设计让会众成为共犯与后援；"Wherever fate leads, follow. Whatever the passage demands, accede" 的古语腔（follow / accede）把任务书念成了送别祷文。
+**为什么这样写**：三段式祝圣（You are not alone / You are loved / And you are enough）把私人战斗转成公共仪式——Jimmi 总在 pausing for the assembled crowd to repeat 处停顿，"复诵"的设计让会众成为共犯与后援；"Wherever fate leads, follow. Whatever the passage demands, accede" 的古语腔（follow / accede）把任务书念成了送别祷文。
 
 **读者视角提示**："You are enough" 在这里被全场复述，等于替她把唱片店独白（She was enough）做了公证——个人领悟 → 机构认证；最后那句 "go and bloody rock that stage" 把教堂瞬间变回摇滚乐：这就是这本书的信仰体系。
 
