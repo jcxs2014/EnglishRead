@@ -53,7 +53,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：告别的对象是那条发臭的毯子（"It stinks of trail dirt and old sweat, months of baked suffering"）——把过去当作可遗弃的物，是 Lucy 第一次尝试主动割断。可这句话的语法又像对 Sam 说的，为后面的真摊牌埋线。
 
-**读者视角提示**：紧接着 Ma 的遗训变体："Water to purify, Ma said"——净化在 Ma 的戒律里是第三件盐/水/家之事。
+**读者视角提示**：紧接着 Ma 的遗训变体："Water to purify, Ma said"——净化在 Ma 的葬仪三则（ch02：一银、二流水、三家）里排第二，正是这条戒律此刻被水自己执行了。
 
 ---
 
@@ -99,9 +99,9 @@ modified: "2026-09-23"
 
 **关键词**：knocks、muffling
 
-**为什么这样写**：三个名词短语的顿挫模拟入水瞬间；"grateful"是关键——Lucy 需要被感官淹没，因为思考要面对的是"我不能问也不能说"。洗澡随即变成擦洗罪证：她逐一搓洗"her wrist the trapper held, her fingers that touched Ba’s fingers"。
+**为什么这样写**：三个名词短语的顿挫模拟入水瞬间；"grateful"是关键——Lucy 需要被感官淹没，因为思考要面对的是"我不能问也不能说"。洗澡随即变成擦洗罪证：她逐一搓洗"the wrist the trapper held, her fingers that touched Ba’s fingers"。
 
-**读者视角提示**：这段的清单式 scrubs（脖颈、腋窝、父亲手指碰过的手指）是全书唯一一次身体自主的净化仪式，也正是它在下一段被打断。
+**读者视角提示**：这段的清单式 scrubbing 是全书唯一一次身体自主的净化仪式，也正是它在下一段被打断。
 
 ---
 

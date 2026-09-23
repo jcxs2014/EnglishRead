@@ -63,7 +63,7 @@ modified: "2026-09-23"
 
 **关键词**：blustering、voice
 
-**为什么这样写**：守灵段的核心比喻——风=声音。紧接着的元音风暴（Aaa/Uoooo/iiiiiiiin, aaaaaaan, ben daaaaaan）把风拟声成半句话，Lucy 自动替它补词，因为她"learned to do: keep quiet"。bluster 一词在 ch01 已挂在 Ba 身上（Remember? His bluster.）——风即是 Ba 的嗓音回访。
+**为什么这样写**：守灵段的核心比喻——风=声音。紧接着的元音风暴（Aaa/Uoooo/iiiiiiiin, aaaaaaan, ben daaaaaan）把风拟声成半句话，Lucy 自动替它补词，因为她"learned to do: keep quiet"。bluster 早在 ch02 就挂在 Ba 身上（Sam 讲故事 "adopts Ba's bluster"），本章守灵段 "Remember? His bluster." 直接点名——风即是 Ba 的嗓音回访。
 
 **读者视角提示**：这段拟声要读出声——作者让读者体验 Lucy 的守灵。
 
@@ -87,7 +87,7 @@ modified: "2026-09-23"
 
 **关键词**：dig、pistol
 
-**为什么这样写**：尺寸量词递进是全章最锋利的句法——每一档都是一个死亡单位（pistol=银行抢劫，dead baby=流产的弟妹，dog=那条三条腿的狗），最后一档从物体跳进活人："a girl who wants only to lie down and rest"。这延续了 ch01 的挖/量节奏（本书反复用劳动动作做叙事节拍器）。
+**为什么这样写**：尺寸量词递进是全章最锋利的句法——每一档都是一个死亡单位（pistol=银行抢劫，dead baby=流产的弟妹，dog=那条三条腿的狗），最后一档从物体跳进活人："a girl who wants only to lie down and rest"。这延续了 ch03 盐碱地里 "This here's a familiar rhythm. The digging. The heat." 的挖/量节奏（本书反复用劳动动作做叙事节拍器）。
 
 **读者视角提示**：读到这里应回头数：每个尺寸都对应前文一处已死的或已埋的东西。
 

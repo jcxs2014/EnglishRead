@@ -111,7 +111,7 @@ modified: "2026-09-23"
 
 **关键词**：cursed、marked
 
-**为什么这样写**：Sam 的反诘把 Lucy 的"诅咒之地"论证就地反转：野牛也是外来物种，它们的创世神话恰恰证明"从海那边来"可以成为这片土地的作者——那华人姐妹凭什么天生是被诅咒的客人？marked special 指 ch01 虎访旧事（老虎绕开 Ba 的挖坑处），Sam 用它做"被拣选"的证据。
+**为什么这样写**：Sam 的反诘把 Lucy 的"诅咒之地"论证就地反转：野牛也是外来物种，它们的创世神话恰恰证明"从海那边来"可以成为这片土地的作者——那华人姐妹凭什么天生是被诅咒的客人？marked special 指向 Ba 讲了一辈子的"虎认主"旧事——其底牌要到 ch21 亡魂独白才亮出（"the tiger that marked me and caused my limp"：他没见过虎，只在骨头里感到过）；Sam 拿这段永远无对证的家传做"被拣选"的证据。
 
 **读者视角提示**：章末"the tiger’s snarl sits in Sam’s mouth. This time it points at Lucy."——虎的牙齿长在 Sam 嘴里、这次对准姐姐；本章的和解失败以这一格画面封死。
 

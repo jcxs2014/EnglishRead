@@ -89,7 +89,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：这是 Lucy 对母亲的核心凝视句式：每组"甲覆乙"都是一层伪装压着一层真相，节奏像给 Ma 卸妆。miles and miles away 把 Ma 的走神（本章多次 startles、distance in her eyes）浪漫化成"远方的疼"，而读者知道那远方就是"the two hundred"。
 
-**读者视角提示**：紧接着 Ma 就"shucks her glove...emerge dirt-speckled"——指甲缝里的泥立刻来给这段抒情做手脚打假。
+**读者视角提示**：就在几段之前 Ma 刚刚 "shucks her glove...emerge dirt-speckled"——指甲缝里的泥早已候在这里，专等这段抒情落地就来打假。
 
 ---
 

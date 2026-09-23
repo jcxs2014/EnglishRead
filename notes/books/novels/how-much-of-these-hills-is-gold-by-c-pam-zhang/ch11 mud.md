@@ -27,7 +27,7 @@ modified: "2026-09-23"
 
 **关键词**：musk、burrow
 
-**为什么这样写**：本章题 Mud 从嗅觉开始——家被写成地洞（burrow 与 ch09 的 earthworms、本章后文的矿洞同族）。紧接"Last week a tub of creek water overturned, not improving the odor"：翻倒的溪水非但没洗净，反而更糟，本书里水常做无效清洁。
+**为什么这样写**：本章题 Mud 从嗅觉开始——家被写成地洞（burrow 与本章后文的 earthworms、矿洞同族）。紧接"Last week a tub of creek water overturned, not improving the odor"：翻倒的溪水非但没洗净，反而更糟，本书里水常做无效清洁。
 
 **读者视角提示**：整章的空间都在地下（洞、坑、地里的骨头），"向下"是本块的叙事方向。
 
@@ -39,7 +39,7 @@ modified: "2026-09-23"
 
 **关键词**：gouged、nibbles
 
-**为什么这样写**：Ma 的消瘦被写成"被啃食"，本章的恐怖在此已埋好钩子——后文真相正是"她在啃自己"（异食）。nibble 一词后被挪用给 Sam（"arguments nibbled by hunger"）与 Lucy 想象中"夜里啃 Ma 的东西"，一条啃食链贯穿。
+**为什么这样写**：Ma 的消瘦被写成"被啃食"，本章的恐怖在此已埋好钩子——后文真相正是"她在啃自己"（异食）。早在 ch07 就有 "arguments nibbled by hunger"（饥饿啃掉争辩），本章又落到 Lucy 想象中"夜里啃 Ma 的东西"与后文 earthworms/pebbles 清单，一条啃食链贯穿。
 
 **读者视角提示**：注意"nibbles"与"啃骨声"（crunching）的声音递进，本段以音轨完成伏笔。
 
@@ -51,7 +51,7 @@ modified: "2026-09-23"
 
 **关键词**：hopeful、fourth
 
-**为什么这样写**：三颗是定量（两颗她与 Ba、一颗给 Sam），第四颗是愿望——hopeful 修饰一颗土豆，是全本书最心酸的语法错位。后文第四颗被 Sam 吃掉、又被 Ma 吃掉，一颗土豆的分配就是全家的资源政治。
+**为什么这样写**：三颗是定量（两颗她与 Ba、一颗给 Sam），第四颗是愿望——hopeful 修饰一颗土豆，是全本书最心酸的语法错位。后文第四颗消失，Lucy 喜以为 Ma 吃了，真相却是 Sam 吃的（"I got hungry… Ma wasn't eating it anyhow."）——一颗土豆的分配就是全家的资源政治。
 
 **读者视角提示**："Joy floods Lucy, strong as missing sunlight: Ma must have eaten."——为 Ma 进食而高兴，等于为"她或许不病"而高兴。
 
@@ -77,7 +77,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：这是全书的镜像装置：童话被读到"擦除"，于是孩子得以把自己写进去。三本故事书（一个移民矿工家庭的全部藏书）与"faded"共同给出教育匮乏的物证——Lucy 的想象力正是从这个磨损里长出来的。
 
-**读者视角提示**：本章开头 Lucy 去上学"没做记号"就跟着 Sam 出门，因为她不需要进度——这段既是贫穷也是自传的开端。
+**读者视角提示**：夜里 Lucy 跟着 Sam 出门时"书没做记号"就放下（leaves her book without marking the page）——她把三本书读到了不需要进度的地步；这段既是贫穷也是自传的开端。
 
 ---
 

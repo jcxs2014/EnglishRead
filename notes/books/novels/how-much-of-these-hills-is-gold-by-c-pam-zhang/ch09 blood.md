@@ -51,9 +51,9 @@ modified: "2026-09-23"
 
 **关键词**：stories、lies
 
-**为什么这样写**：本书反复出现的"叙事可信度"命题，被压缩成一个视觉动作（squint 是 Lucy 的看远姿势，见 ch04/06）。最后一句"if there is...any difference"是全书对 Sam 最准的诊断：她不是撒谎，她是活在一个不区分真假的语言里。
+**为什么这样写**：本书反复出现的"叙事可信度"命题，被压缩成一个视觉动作（squint 是 Lucy 的看远姿势，见 ch04）。最后一句"if there is...any difference"是全书对 Sam 最准的诊断：她不是撒谎，她是活在一个不区分真假的语言里。
 
-**读者视角提示**：注意 ch07 猎手说 Ba 的故事是"pure sentiment/pretty little folktale"——Lucy 已被课本训练出这道分辨力，如今对亲妹妹也用它。
+**读者视角提示**：注意 ch06 Teacher Leigh 讥讽 Ba 的野牛故事是"pure sentiment/pretty little folktale"——Lucy 已被课本训练出这道分辨力，如今对亲妹妹也用它。
 
 ---
 
@@ -65,7 +65,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：全书最诚实的一刀。"clotted"（凝块）一语双关：既是即将流出的经血，也是这块"结块的良心"。进城前的自我介绍被命名为 orphan's story——她练习的第一个"没有历史的身份"，其实是"没有妹妹的身份"。
 
-**读者视角提示**：三句之前 Lucy 还在"steps back, and steps back, and back"——身体退出与心理庆幸同时发生。
+**读者视角提示**：原文里 "steps back, and steps back, and back" 与 "a part of her rejoices" 就在同一句——身体退出与心理庆幸同句发生。
 
 ---
 
@@ -87,7 +87,7 @@ modified: "2026-09-23"
 
 **关键词**：pity、leaving behind
 
-**为什么这样写**：ch02/03 里 Lucy 是"被留下的等待者"，现在她成了离开者，而怜悯（不是爱，不是责任）成为新的姐妹语言。"a different sort of leaving behind"回收 ch06 的 "I'm leaving you behind"（毯子）——这次是真的。
+**为什么这样写**：ch02/03 里 Lucy 是"被留下的等待者"，现在她成了离开者，而怜悯（不是爱，不是责任）成为新的姐妹语言。"a different sort of leaving behind"回收 ch08 的 "I'm leaving you behind"（毯子）——这次是真的。
 
 **读者视角提示**："Sam's face is stripped younger by horror"——初潮让 Sam 变幼，权力关系第一次倒转。
 
@@ -101,7 +101,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：全章（也是 Part One）的收尾把"语言的失效"写成物理事件：距离与水声 unmake 语义。"You'll be here?" 看似问 Sam 会不会等，实则问自己是否还会回来——本书最克制的一句双关。
 
-**读者视角提示**：Part Two 开章（ch10 Skull）会立刻回答：她确实进了城，也确实把妹妹留在了水里。
+**读者视角提示**：Part Two 开章（ch10 Skull）给出了回答：她确实进了城——但妹妹也在山谷新屋外等着她，那句"留下"终究没做成。
 
 ---
 

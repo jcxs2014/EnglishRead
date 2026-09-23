@@ -77,7 +77,7 @@ modified: "2026-09-23"
 
 **为什么这样写**："a whole lake has gone"与 Ba 之死同构——巨大的存在退场后只剩一层白。盐湖是本章的第三场景主角：它既是地理事实（旱季劫后物），又是"保存"这一主题的物质答案。
 
-**读者视角提示**：Sam 随后在盐壳上跺出裂缝"like close thunder"——大地的回应方式与 ch01 淘金时岩层的 boom 互文。
+**读者视角提示**：Sam 随后在盐壳上跺出裂缝"like close thunder"——大地的回应方式与 ch01 里 Ba 的嗓音互文（"Ba's voice booming"）——本书大地的回响总带着成年男人的音色。
 
 ---
 
@@ -89,7 +89,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：Lucy 以为自己在逃离 Sam 的暴力，Sam 却读出背叛——一直是 Sam 走远、Lucy 坐着等；这次角色对调才显影出合同的条款。"unspoken contract"这个经济学术式措辞，点明她们的同盟建立在从未谈判过的分工上。
 
-**读者视角提示**：下一句"Always it’s been Sam who ranges wide while Lucy sat, waiting"是合同正文——记住这个分工，后文 Sam 留在镇上而 Lucy 带马离开的分岔（Part Two）将彻底执行它。
+**读者视角提示**：下一句"Always it’s been Sam who ranges wide while Lucy sat, waiting"是合同正文——记住这个分工，全书后段 Sam 携马 Nellie 出走（ch23 "Sam was gone too—and Nellie"）才将这条契约整个翻转。
 
 ---
 

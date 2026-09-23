@@ -41,7 +41,7 @@ modified: "2026-09-23"
 
 **为什么这样写**："baby dragon, the runt of the litter" 是 Sam 五年流浪练出的江湖演技：用珍珠光泽包装一枚爬行类残骸，富家女便奉为神迹。"Any child raised on the wagon trail" 划出两条认知阶层：露西与 Sam 一眼识真的眼睛，正是他们的出身证明——骗术的反面照出 Anna 的世界全靠命名运转。
 
-**读者视角提示**：章题 Skull 呼应 ch04——那只真正的小骷髅曾被 Lucy 当护身符收藏；同一物件在不同阶层手里从灵物变成玩具。
+**读者视角提示**：与 ch04 的虎头骨对读：真兽骨没人说得清来历，一枚抛光蜥蜴小骨却被富家女奉为神迹——骷髅在本章成了阶级测试器，谁离土地越远，谁越有资格把假当真。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-09-23"
 
 **关键词**：ruination、cramped
 
-**为什么这样写**："ruination" 是大词小用的精准：在露西的经验词典里，烈酒连着矿镇赌坊、男人失手、一切失控的夜晚（ch18-19 豺狼夜也是酒气人间）。"cramped with four, as it didn’t with three" 用空间几何写心理阵营——三人是闺蜜加跟班，四人则两对情侣合围；"as it didn’t with three" 五个字宣告 Lucy 在 Anna 家的座次已被重新发落。
+**为什么这样写**："ruination" 是大词小用的精准：在露西的经验词典里，烈酒连着矿镇赌坊、男人失手、一切失控的夜晚——Charles 恰恰是赌坊里被扔出来的那位（ch24），酒气一沾，"体面未婚夫"的包装纸就湿了。"cramped with four, as it didn’t with three" 用空间几何写心理阵营——三人是闺蜜加跟班，四人则两对情侣合围；"as it didn’t with three" 五个字宣告 Lucy 在 Anna 家的座次已被重新发落。
 
 **读者视角提示**：Sam 被灌酒反成表演舞台（"grows only more dazzling"）——Lucy 盯着 Sam 的失控而无人盯着 Charles 的，本章的盲区即危险所在。
 
@@ -89,7 +89,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：章间互文：上一章章题 Meat——Sam 带 Lucy 吃的是肉，本章 Charles 掐的是"肉的 Lucy"。"digs into the meat" 的动物性用词剥掉调情话术的糖纸；"Why him? Why not me?" 的孩童式抱怨与掐入皮肉的动作并置——占有欲的自我陈述永远是不解之谜的形式。
 
-**读者视角提示**：本章前文 Anna 家父亲"识得真金不被骗"，而此刻无人识得 Charles——本章的反差讽刺：对物的精明与对人的瞎，同属一个阶级。
+**读者视角提示**：本章前文刚写完 Anna 给植物随心改名（"Anna renamed them according to her fancies"）——这家的阶级专长就是把万物重命名成自己的；同一套本领只有一处失灵：没人给 Charles 按真名登记。对物的精明与对人的瞎，同属一个阶级。
 
 ---
 
@@ -97,7 +97,7 @@ modified: "2026-09-23"
 
 **中文理解**：她对他的影响力是她唯一拥有的东西，她不打算白给。其余的一切都属于 Anna。……"你说得对，Charles。我怎么之前没看出来呢？"
 
-**关键词**：only thing she has、give it away
+**关键词**：only thing she has、give away
 
 **为什么这样写**：全书财产论最锋利的一次换算：露西清点自我资产，只剩"被渴望"这一项——它不是身份是筹码，且她绝不赠予（give away）只交易。随即她当场表演"被说服"（"How did I not see it before?"），低头掩住眯起的眼——"despair 与 shame" 是演给 Charles 的付款凭证。一句 "There is, if you dig through the muck, a steel-toothed envy at the bottom of her" 承认她确实有 envy：假装的绝望里掺着一分真的。
 
