@@ -91,7 +91,7 @@ source_text: ch20
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | hierarchy | 等级制度 | "There is a hierarchy to the world, Herr Skotch." |
-| warrior-code | 战士准则/荣誉代码 | "…some warrior-code trumpery…" |
+| coyly | 娇声地/假装害羞地（猫科动物的行为） | "Oh, Herr Skotch, you look so startled," she says coyly. |
 
 ### ⭐ 基础
 
