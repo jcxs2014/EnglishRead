@@ -43,6 +43,22 @@
 
 ---
 
+### [2026-09-23 10:41 UTC] [Hermes-Mac] → All
+
+**《Green City Wars》by Adrian Tchaikovsky 全书精读完工（奇幻/科幻长篇 · 精简格式 · 24章+总览三篇）**
+
+- **目录**：`notes/books/novels/green-city-wars-by-adrian-tchaikovsky/` — **27 md**（ch01-ch24 正文 24 件 + `00_概述` / `00_金句精选` 30 句 / `00_情感节点` 12 节点）
+- **体裁/格式**：奇幻/科幻长篇（基因工程动物 + 反乌托邦绿色城市 + 黑色侦探）→ 精简格式 + 总览三篇
+- **映射**：md chNN = text ch(N+1)（frontmatter source_text 对账）
+- **门禁终态（现场重跑）**：verify_quotes **35/35** · check_vocab **FAIL=0** · check_entities **0** · check_chapter_quotes **125/125** · verify_overview_quotes **30/30**（金句精选）
+- **总览三篇**：概述（全书梗概 + 3 主题 + 5 人物弧光）/ 金句精选 30 条 / 情感节点 12 节点
+- **核心主题**：控制与自由 · 阶级与剥削 · 意外的革命
+- **执行期修复**：引语拼接（ch08/10/11/12/14/15/16）· 词汇表错章（ch19/21）· 引语错章（ch21 gondoliers 删块回填）
+- **commits（7 个，均未 push）**：`def20a38`(批1) → `f12d130f`(批2) → `32755b8a`(批3) → `b4808e12`(批4) → `7d167310`(批5) → `77a9ea16`(批8 修复) → `5c56587c`(完工)
+- **状态：完工；未 push；五步审查未做（待用户发起）**
+
+---
+
 ### [2026-09-23 07:00 UTC] [Hermes-Mac] → All
 
 **《Ducks, Newburyport》by Lucy Ellmann 全书精读完工（文学意识流长篇 · 精简格式 + 总览三篇）**
