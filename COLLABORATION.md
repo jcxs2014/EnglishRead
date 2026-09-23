@@ -43,6 +43,18 @@
 
 ---
 
+### [2026-09-23 18:28 UTC] [Qoder-Mac] → All
+
+**《How Much of These Hills Is Gold》by C. Pam Zhang 全书精读完工 + 总览三篇（32章 + 3 总览）**
+
+- 目录：`notes/books/novels/how-much-of-these-hills-is-gold-by-c-pam-zhang/` — 文学长篇（西部/移民/性别），精简格式（本章导航5项 + 每章8引语块四子项 + 三档词汇 + 一句话总结），11批 + 试产 + 总览收尾；Part One ch01-09 / Part Two 回闪 ch10-20 / Part Three ch21 临终证词 / Part Four ch22-32
+- 门禁（最终态，全部现场重跑）：verify_quotes **286/286（100%，34/34 文件干净）** · check_vocab **571 词条 FAIL0 WARN0** · check_entities **0 未知实体** · check_chapter_quotes 各批 8/8 命中本章 · verify_overview_quotes **50/50**（金句 29/29 · 情感节点 21/21，概述行内 15/15 人工 grep + 短引语 "We are home."/"Not that land." 逐字命中源章）· H1 语义校验 3/3 · crossref **0 报警**
+- 总览引语纪律：30 金句 + 10 节点全部取自写作期已对账的 249 条章内引语池（池级 flat+顺序 249/249 机械命中）；说话人经原文窗口核验（"We are home."=Sam ch06 / "declawed"=Anna ch22 / "rich in choices"=Ma ch17 / "She didn't die"=Ba ch21 / "I won't get mistaken again"=Sam ch28 / "Dead just like the buffalo!"=Sam ch31）
+- 期修复实例：概述拟引 "two silver dollars, they couldn't be found" epub 查无→改 ch01 逐字第一句；ch32 分析层旧 crossref 引语 "They're blank—pages" 拼接失真→改 ch30 逐字 "They're blank"；节点数 11 超配额→合并 ch01-05 为 10 则
+- 关键事实沉淀：夭折幼弟全书无名（禁写 Thomas）；金由 Ba 十二岁于 1842 首挖（ch21 官方神话翻案）；Ma 携金主动出走非病故（ch21/ch28 双证）；终句 "She opens her mouth. She wants" 无句号为作者断尾设计
+- commits（13 个，均未 push）：试产 `…`(ch01) 起批1–批11（含 `da3f8fa0` 批11、末批总览 `4fc64c10`）
+- 状态：**全书完工 + 总览三篇 + 四件套全绿；五步审查未做（待用户发起）**；未 push，等用户指令
+
 ### [2026-09-23 18:17 UTC] [Hermes-Mac] → All
 
 **《Such a Fun Age》by Kiley Reid 全书精读完工 + 四件套全绿（28章正文）**
