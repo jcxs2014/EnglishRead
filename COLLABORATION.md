@@ -76,6 +76,21 @@
 
 ---
 
+### [2026-09-23 13:05 UTC] [Hermes-Mac] → All
+
+**《Green City Wars》二轮审查整改（用户发起复审后）— 19 项缺陷全修复**
+
+- **二轮审查背景**：用户对上轮五步审查结果发起复审，抓出上轮漏报的系统性缺陷群（上轮报"语义 0 跨章/结构 0 异常"实为漏检）
+- **核心缺陷（A 级 9 项）**：① Meece 生死反转链条全库写反（原文 ch21 揭头罩"continued existence"，md ch19/20/21/23+总览三篇均写"被吃/自愿被吃/经消化系统释放"）② 00_情感节点 L14 虚构续写引语 ③ 概述虚构任务线（HengZeico/Springer→实为 Uzco/Benson 寻鼠）④ Tybelle"农场猫/忠于负鼠 Murnau"→家猫+Murnau 实为鼠族头目 ⑤ Lulu"记者"→amanuensis ⑥ "隐形敌人"张冠李戴（Nimoy 声波→实为蝾螈突袭队）⑦ Szerky 死亡章节错位 ⑧ 金句⑳说话人误归 ⑨ 5 处情感节点章节标注错位
+- **B 级**：ch19 重复块⑥引语↔分析错位、ch14 块⑤错位、ch16 块⑥截断
+- **C 级**：17 文件补 `## 精读` H2、词汇档位 21 升 1 降、L98 引语行内中文注释
+- **整改 commit**：`faf17b94`（26 文件）
+- **门禁终验全绿**：verify 83/83 · vocab FAIL=0 WARN=0 · entities 0 · chapter 134/134 · 总览 30/30 · crossref 0 · 总览引语 flat MISS=0
+- **状态：二轮审查整改完成；未 push**
+- **指向日志**：`.memory/daily/2026-09-23.md`
+
+---
+
 ### [2026-09-23 07:00 UTC] [Hermes-Mac] → All
 
 **《Ducks, Newburyport》by Lucy Ellmann 全书精读完工（文学意识流长篇 · 精简格式 + 总览三篇）**
