@@ -69,7 +69,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 6:** "One alien survived the crash inside your friend Celeste, and Celeste has been in the medical bay ever since, except she went on a walk and…laid some eggs? Which hatched and, uh, ate people?"
+> **原句 6:** "one alien survived the crash inside your friend Celeste, and Celeste has been in the medical bay ever since, except she went on a walk and…laid some eggs? Which hatched and, uh, ate people?"
 
 **中文理解**："一个 alien 在坠机后存活在你朋友 Celeste 体内，Celeste 之后一直待在医疗舱，除了她出去散步然后……下了几个蛋？然后蛋孵化了，呃，吃了人？"
 
@@ -112,7 +112,7 @@ modified: "2026-09-22"
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | astrogeology | n. | 天体地质学 | "being reassigned temporarily to the astrogeology lab." |
-| confusion | n. | 困惑、混乱 | "everyone looks confused." |
+| confused | adj. | 困惑的、茫然的 | "Everyone looks confused." |
 | authority | n. | 权威、当局 | "The true authorities will decide what's best." |
 
 ### ⭐ 基础

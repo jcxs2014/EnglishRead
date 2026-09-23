@@ -69,7 +69,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 6:** "Even with everything I'm afraid of, I'm not afraid to let go."
+> **原句 6:** "but even with everything I'm afraid of, I'm not afraid to let go."
 
 **中文理解**："即使面对所有我害怕的事，我也不害怕放手。"
 
