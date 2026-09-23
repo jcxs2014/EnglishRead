@@ -67,7 +67,7 @@ modified: "2026-09-23"
 
 **关键词**：blank、accede
 
-**为什么这样写**："goes blank" 把 ch30 "They're blank—pages" 反身应验：Lucy 终于活成她曾形容女孩们的词——被注视处，无人在场。男人类型学（Charleses／Teacher Leighs／captains／mountain men）是施害者档案学：受虐被整理成牌谱，"预测下一个词"成了生存技艺。鼻子那句最狠：幼年伤是出身，愈合后的"直"是商品改良——连疤都被折旧清零。
+**为什么这样写**："goes blank" 把 ch30 "They're blank"（Lucy 形容画页里的女孩们）反身应验：Lucy 终于活成她曾形容女孩们的词——被注视处，无人在场。男人类型学（Charleses／Teacher Leighs／captains／mountain men）是施害者档案学：受虐被整理成牌谱，"预测下一个词"成了生存技艺。鼻子那句最狠：幼年伤是出身，愈合后的"直"是商品改良——连疤都被折旧清零。
 
 ---
 
