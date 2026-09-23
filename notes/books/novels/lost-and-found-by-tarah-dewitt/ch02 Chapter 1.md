@@ -100,15 +100,15 @@ source_text: ch05
 
 ---
 
-> **原句 8:** "No, you haven't." He slides his hands into his pockets and presses his lips together like he finds this amusing.
+> **原句 8:** "I'm sorry." He slides his hands into his pockets and presses his lips together like he finds this amusing. "No, you haven't."
 
-**中文理解：** "不，你没有。"他把手插进口袋，抿起嘴唇，一副觉得这事儿很有意思的样子。
+**中文理解：** "很抱歉。"他把手插进口袋，抿起嘴唇，一副觉得这事儿很有意思的样子。"不，你没有。"——她才刚为失联道歉，他就用这句直白的否认戳穿了她。
 
 **关键词：** slides his hands into his pockets / presses his lips together / amusing / sarcastic
 
-**为什么这样写：** Silas 的"No, you haven't"直接戳穿了 Bea 的道歉——她根本没有真正想要联系他，他也没有期待过。这是一个不带指责的、真诚的对话。Silas 的肢体语言（手插口袋、抿嘴）暗示他其实在乎，但他选择用一种轻松的方式来处理这种尴尬。
+**为什么这样写：** Bea 刚说完"I'm sorry"，Silas 的第一反应不是接受道歉，而是把手插进口袋、抿嘴做出一副觉得有趣的轻松姿态，紧接着一句"No, you haven't"戳穿她——她根本没有真正想联系他，他也不打算装作没被伤到。这种带着讥诮（sarcastic）的玩笑式肢体加直白否认，代替了直接的控诉，既保留了双方的体面，也让 Bea 无从辩驳。
 
-**读者视角提示：** Silas 对 Bea 直呼其名"Ruby"——这是他给 Bea 起的外号（因为她的红发？），不是 Bea 的本名。这个细节暗示了他们关系的亲密程度。
+**读者视角提示：** 他戳穿之后立刻跟进打趣"Little rude, Ruby. Don't you think?"——"Ruby" 是 Silas 给 Bea 起的红发外号，不是她的本名；用外号配合这记戳穿，说明两人关系足够亲密，也让拒绝不显得刻薄。
 
 ---
 
