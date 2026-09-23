@@ -74,7 +74,16 @@
 - 期修复实例：概述拟引 "two silver dollars, they couldn't be found" epub 查无→改 ch01 逐字第一句；ch32 分析层旧 crossref 引语 "They're blank—pages" 拼接失真→改 ch30 逐字 "They're blank"；节点数 11 超配额→合并 ch01-05 为 10 则
 - 关键事实沉淀：夭折幼弟全书无名（禁写 Thomas）；金由 Ba 十二岁于 1842 首挖（ch21 官方神话翻案）；Ma 携金主动出走非病故（ch21/ch28 双证）；终句 "She opens her mouth. She wants" 无句号为作者断尾设计
 - commits（13 个，均未 push）：试产 `…`(ch01) 起批1–批11（含 `da3f8fa0` 批11、末批总览 `4fc64c10`）
-- 状态：**全书完工 + 总览三篇 + 四件套全绿；五步审查未做（待用户发起）**；未 push，等用户指令
+- 状态：**全书完工 + 总览三篇**
+- **五步审查（2026-09-23 用户同会话发起，a–e 全执行，门禁全部现场重跑未采信旧数字）**：
+  - **a 六门禁重跑**：verify_quotes **286/286（34/34 文件干净）** · check_vocab **571 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes **245/245** · crossref **报警 0** · verify_overview_quotes **50/50**；整改后复跑同数字全绿
+  - **b 逐章归属**：--book-dir 全书扫描 245/245 命中当章、零跨章搬句；8 条短引语（<20 flat 字符）人工 grep 逐条兜底全命中
+  - **c 结构扫描**：32 章编号连续/块子项齐全、H1 语义 3/3；**抓出流程自身结构回退**——步骤 d 批量修复脚本误删步骤 c 为 ch28-32 插入的 32 条读者视角提示（HEAD diff 51删/19增），从 `1fdbfcd7` 按块还原并复位到"为什么这样写"之后、`---` 之前，复扫全书零缺块
+  - **d 语义二审（分 5 路子代理 ~54 线索，逐条 grep 取证后行级修复，共 ~40 处）**：指涉章号错（bluster ch01→ch02、"回收 ch06"→ch08 "I'm leaving you behind"、the two hundred 首现 ch13、Gold/wind 章题计数第三次→第四次等）；细节虚构（ch09 "她进了城把妹妹留在水里"假预告、ch25 小骷髅护身符、ch17 老师痛骂矿主、ch18 狼嚎带走狗命、ch17 掌心写单词习惯、"内华达"全书 0 命中）；说话人/对象错位（ch30 把 boom 错认 beast 的是 Lucy 自己、ch20 捂嘴对象是 Lucy、ch11 第四颗糖是 Sam 吃的、ch31 "very first teacher" 重读为 Ma）；时序反转（ch13 glove 在几段前、ch27 珍珠扣是 ch26 回忆、ch24 戏装在本章末当场）
+  - **e 总览事实核对 + 章节标签对账**：金句㉔呼应行 "which does not reflect" 系虚构拼接→改 ch30 逐字 "The water does not reflect"；"rich in choices" 处 ch32 标注行→标注 ch17（Ma 原话，ch28 复现）；概述 "What makes a ___ a ___?" 为留空句式模板（home/dog/family/ghost/ship 句式全命中原文，非虚构引语）；概述行内全部英文引语逐条 flat 命中；节点 21/21、金句 29/29 复验通过
+  - **整改 commits**：章节级 ~40 处修复随本会话 staged 被另一实例提交 `e4e94e96`（Ancient Things 批17）顺带入库——多实例并行竞态，内容已逐文件核验完整；收口（提示回填+总览两处+空行归一）在 `58c88931`
+  - **同会话审查局限（如实标注）**：语义二审线索与修复判断均在本会话完成、未经异实例复核；个别重读（ch31 "very first teacher" 归 Ma 等）属文本依据的解读性修正而非机械事实——如需可另行指派异实例复核
+- 状态：**全书完工 + 总览三篇 + 五步审查通过 + 六门禁全绿**；未 push，等用户指令
 
 ### [2026-09-23 19:10 UTC] [Hermes-Mac] → All
 
