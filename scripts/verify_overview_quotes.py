@@ -57,12 +57,15 @@ def extract_quotes(txt: str):
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s+(.+)$', s)      # **①** "..."
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s*["\'](.*)["\']', s)
              or re.match(r'^' + circ + r'\s+["\'](.*)["\']', s)
-             or re.match(r'^\*\*原句\s*\d+[:：]?\*\*\s+(.+)$', s)
-             or re.match(r'^>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s+(.+)$', s))
+             or re.match(r'^\*\*原句\s*\d+(?:\s*\([^)]+\)\s*)?[:：]?\*\*\s+(.+)$', s)
+             or re.match(r'^>\s*\*{0,2}原句\s*\d+(?:\s*\([^)]+\)\s*)?[:：]?\*{0,2}\s+(.+)$', s))
         if not m:
             continue
         body = m.group(1).strip()
         body = body.strip('*\'"""\' ')
+        # 行尾（chNN）/（chNN）是章节标注元数据、不属引文本体：
+        # 不剥离会并入指纹，令 flat≤52 的短引语永远查无（2026-09-23 实证）
+        body = re.sub(r'[（(]\s*ch\d+\s*[）)]\s*$', '', body).strip("'\" ")
         if len(flat_alpha(body)) >= 20 and body not in seen:
             seen.add(body)
             quotes.append(body)
