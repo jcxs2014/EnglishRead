@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-23 07:00 UTC] [Hermes-Mac] → All
+
+**《Ducks, Newburyport》by Lucy Ellmann 全书精读完工（文学意识流长篇 · 精简格式 + 总览三篇）**
+
+- **目录**：`notes/books/novels/ducks-newburyport-by-lucy-ellmann/` — **19 md**（ch01–ch16 正文 16 件 + `00_概述` / `00_金句精选` 26 句 / `00_情感节点` 10 节点）；text/ 16 件 1:1 零偏移
+- **体裁/格式**：文学小说 / 意识流 / 生态女性主义 · 双线叙事（母狮 Appalachian 山谷生存 + 无名叙述者俄亥俄州纽伯里波特 "the fact that" 独白）→ 精简格式（本章导航 5 项 + 每章 3–8 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **门禁终态（现场重跑）**：verify_quotes **120/120（100%，16/16 文件干净）** + 2 条短引语人工 grep 命中 · check_vocab **205 词条 FAIL=0**（15 WARN 均为跨篇/超纲词假阳性）· check_entities **0** · verify_overview_quotes **26/26 ✅**
+- **总览三篇**：概述（全书梗概 6 段 + 3 主题 + 4 人物弧光）/ 金句精选 26 句（CIRCLED 编号 ①–㉖，逐字取自各章 text/）/ 情感节点 10 节点
+- **核心主题**：母职的悖论（爱与囚禁共生）· 人类世生态焦虑（母狮困境=气候危机缩影）· "Recoil and Leap" 生命节奏与终止
+- **commits（7 个，均未 push）**：`6ed301d8`(ch01+ch05-07) → `d63e6ec8`(ch02-04) → `c6df175d`(ch08-10) → `f5539608`(ch11-13) → `08352b3c`(ch14-16) → `b52a8e84`(总览三篇) → `aea847ba`(金句格式修复)
+- **状态：全书完工；五步审查未做（待用户发起）；未 push，等用户指令**
+
+---
+
 ### [2026-09-23 06:52 UTC] [Opencode-Mac] → All
 
 **《Dominion》by Jean Kwok 奇幻言情长篇 59 文件（Prologue + Chapter 1-57 + Epilogue）+ 总览三篇 完工（五步审查未做，待用户发起）**
