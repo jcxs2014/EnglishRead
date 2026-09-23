@@ -89,13 +89,13 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 8:** the fact that now James can't be friends with Ben anymore, because we failed the house inspection, the fact that I didn't like that woman anyway, James's mom, Buttinsky, Lewinsky, my me-oh-mys, my oh my, mamma mia, the fact that her decision's a relief really, to me anyway, maybe not Ben, the fact that I bet she'd be pretty tricky to deal with long-term, if you could find her, that is, in your own house
+> **原句 8:** the fact that Ben wants to go to the Boy Scouts Jamboree in Michigan this summer, but we don't think he's old enough
 
-**中文理解：** 事实是现在詹姆斯不能再和本做朋友了，因为我们没有通过房屋检查，事实是我就是不喜欢那个女人，詹姆斯的妈妈，管闲事，莱温斯基，我的天哪，我的妈呀，事实是她的决定其实是一种解脱，对我来说，也许不是本，事实是我打赌她长期相处会很难搞，如果你能找到她的话，也就是说，在你自己家里。
+**中文理解：** 事实是本想去密歇根参加今年夏天的童子军大会，但我们觉得他年纪还太小。
 
-**关键词：** failed the house inspection / can't be friends / that woman / Buttinsky / relief / tricky to deal with
+**关键词：** Boy Scouts Jamboree / Michigan / not old enough
 
-**为什么这样写：** 社会排斥的微观机制——"failed the house inspection" 是中产阶级社区的排斥工具，"Buttinsky"（好管闲事者）的昵称是叙述者的防御机制，"relief" 的矛盾情感暴露叙述者对社交的恐惧：朋友的失去=威胁的解除。
+**为什么这样写：** 童年的"被排斥"——"不够年龄"是成人世界对儿童愿望的制度性拒绝，与叙述者被社交圈排斥的经验共振。
 
 ## 本章词汇
 

@@ -81,7 +81,7 @@ modified: "2026-09-22"
 
 > **原句 7:** Her kittens' needs overrode her reluctance to venture near men, or move beyond her accustomed lands. All her days she had kept her distance from men, with their guns and their stink, and their passion for killing. But now she would have to face them. Her duty only to her kits. For men had stolen them – there was no other way the cubs could have disappeared so completely and so fast.
 
-**中文理解：** 幼崽的需求压倒了她接近人类或离开熟悉领地的不情愿。她一生都在与人类保持距离，带着他们的枪、他们的气味、他们对杀戮的激情。但现在她必须面对他们。她的责任只对人类。因为它们偷走了幼崽——没有其他方式能让幼崽如此彻底、如此迅速地消失。
+**中文理解：** 幼崽的需求压倒了她接近人类或离开熟悉领地的不情愿。她一生都在与人类保持距离，带着他们的枪、他们的气味、他们对杀戮的激情。但现在她必须面对他们。她的责任只对幼崽。因为它们偷走了幼崽——没有其他方式能让幼崽如此彻底、如此迅速地消失。
 
 **关键词：** overrode her reluctance / kept her distance from men / passion for killing / Her duty only to her kits / stolen them
 

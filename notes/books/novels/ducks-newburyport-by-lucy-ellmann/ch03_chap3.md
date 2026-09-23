@@ -89,23 +89,23 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 8:** the fact that to some extent Ben is fully formed, the fact that he knows so much, CliffsNotes, the fact that I don't think Mommy would have approved of a kid learning a load of facts like this though
+> **原句 8:** the fact that with cakes all you have to do is beat the ingredients together et voilà, pretty much, plus the frosting stage
 
-**中文理解：** 事实是在某种程度上班已经完全成型了，事实是他知道那么多，有《 cliffnotes 》，事实是我不认为妈咪会赞成一个小孩学这么一堆知识。
+**中文理解：** 事实是做蛋糕你只需要把所有原料搅拌到一起就成了，差不多吧，再加上抹糖霜环节。
 
-**关键词：** fully formed / knows so much / CliffsNotes / facts
+**关键词：** beat the ingredients together / et voilà / frosting stage
 
-**为什么这样写：** 母亲的骄傲与隐忧并行——"fully formed" 暗示孩子作为独立个体的不可控性，"CliffsNotes"（学习指南）的引号暗示母亲对二手知识的不信任，以及对学校教育替代家庭教育的焦虑。
+**为什么这样写：** "et voilà"（法语"就这样"）的插入暗示母亲对轻松创造的渴望——搅拌+糖霜=育儿的简化寓言，与实际的混乱无序形成对照。
 
 ---
 
-> **原句 9:** the fact that that kid has an encyclopedic memory, birthday present, pie rack, Empty Nest Syndrome
+> **原句 9:** the fact that candy corn has seven calories per kernel, the fact that Brach's has been going since 1904, the fact that a Brach heiress mysteriously disappeared in the seventies
 
-**中文理解：** 事实是那个孩子有百科全书般的记忆，生日礼物，馅饼架，空巢综合征。
+**中文理解：** 事实是每粒糖玉米有七卡路里，事实是布拉氏糖果公司自1904年就开始营业，事实是一位布拉氏女继承人在70年代神秘失踪了。
 
-**关键词：** encyclopedic memory / pie rack / Empty Nest Syndrome
+**关键词：** candy corn / seven calories per kernel / Brach's / heiress disappeared
 
-**为什么这样写：** 母亲视角——"百科全书式记忆" 的骄傲与 "空巢综合征" 的恐惧交织，"pie rack" 从育儿实用器具滑向情感空巢的象征，孩子终将离去、留给母亲的只剩空置的烤架。
+**为什么这样写：** 意识流对糖果公司的百科式列举（卡路里/创立年份/失踪案）= 叙述者对确定性的迷恋——在一个失控的世界里，糖果的数据是唯一可以锚定的"事实"。
 
 ## 本章词汇
 

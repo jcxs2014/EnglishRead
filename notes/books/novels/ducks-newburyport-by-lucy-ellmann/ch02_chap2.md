@@ -79,23 +79,23 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 7:** the fact that there's nothing for breakfast around here except raw cinnamon roll dough, the fact that I'm hungry but not that hungry, the fact that Gillian would eat any amount of raw cinnamon roll dough if I let her...
+> **原句 7:** the fact that I got soooo upset when my lemon drizzle cakes fell, and the fact that Cathy couldn't see why, the fact that she said it didn't matter a bit and they'd still sell it...
 
-**中文理解：** 事实是这里早餐除了生肉桂卷面团什么也没有，事实是我饿但没那么饿，事实是如果让我吉利安放开吃她能吃掉无限量的生肉桂卷面团……
+**中文理解：** 事实是我在柠檬滴落蛋糕塌陷时非常难过，事实是凯茜不明白为什么，事实是她说没关系，反正照样能卖……
 
-**关键词：** raw cinnamon roll dough / hungry but not that hungry / any amount
+**关键词：** lemon drizzle cakes fell / Cathy couldn't see why / still sell it
 
-**为什么这样写：** 母亲的饥饿被孩子的无限食欲所映衬——"无限量"暗示孩子对母亲的无意识剥削，同时生面团的"不完美"状态隐喻母爱的原始形态。
+**为什么这样写：** 蛋糕"塌陷"象征母亲对完美的执着——"still sell it" 的实用主义与叙述者的情感投入形成对照，揭示母亲将自我价值绑定在烘焙成品上。
 
 ---
 
-> **原句 8:** the fact that I dreamt I was a teenager staying with a family far from home, and I was supposed to go to school, but I could never remember the school's name or where it was, so I was always lost.
+> **原句 8:** the fact that all of life is an embarrassment, the fact that it was bad for my reputation and hers, the fact that I had to make sure that would never happen again.
 
-**中文理解：** 事实是我梦到自己是个借宿在远方家庭的青少年，该去上学了，但我总想不起学校的名字或地点，所以我总是迷路。
+**中文理解：** 事实是生活本身就是一场尴尬，事实是这有损我和她的声誉，事实是我必须确保那样的事不再发生。
 
-**关键词：** teenager / far from home / always lost
+**关键词：** embarrassment / reputation / never happen again
 
-**为什么这样写：** 反复出现的"迷路"梦境是叙述者身份焦虑的显影——癌症/母职/社会疏离让"归家之路"断裂，"永远迷路"是对失控的终极恐惧。
+**为什么这样写：** 母亲将烘焙失败上升为道德事件（"有损声誉"）——"不再发生"的誓言揭示完美主义背后对失控的恐惧，与叙述者癌症后的失控感同构。
 
 ## 本章词汇
 
