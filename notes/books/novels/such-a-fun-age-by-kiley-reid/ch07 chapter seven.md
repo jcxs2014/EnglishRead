@@ -104,3 +104,38 @@ modified: "2026-09-23"
 > **为什么这样写**：结尾的Uber对话是Emira的独立时刻——她在Kelley不注意的时候，主动提出付车费。这是她保持尊严的方式。
 >
 > **读者视角提示**：Emira说"Okay"而不是"Thank you"——她在用冷淡来保护自己，不让自己对Kelley产生更多感情。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| embarrassingly | 令人尴尬地，难为情地 | "he wore embarrassingly large, orange-tinted glasses" |
+| screenshotted | 截屏（screenshot 的过去式） | "Emira screenshotted his request and sent it to Zara" |
+| impersonation | 模仿，扮演 | "Emira reached across the table to stop him before he did another impersonation." |
+| acknowledged | 承认，公开认可 | "Chamberlain had expensive tastes that she never openly acknowledged." |
+| candlelight | 烛光 | "Kelley looked back down to the menu and used the candlelight to see." |
+| cockroaches | 蟑螂 | "there were three huge cockroaches in the middle of the floor" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| freelancers | 自由职业者 | "where freelancers and college students camped out for hours" |
+| classmates | 同学 | "seemingly to meet other classmates and friends" |
+| headphones | 耳机 | "guessing what people were listening to on their headphones" |
+| ponytail | 马尾辫 | "put her hair into a ponytail, and texted Kelley" |
+| bathroom | 洗手间 | "changed her clothes in the single bathroom" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| wine | 葡萄酒 | "Kelley handed the bottle of wine back across the table." |
+| plane | 飞机 | "thirty of us were on the same plane ride" |
+| table | 桌子 | "Kelley handed the bottle of wine back across the table." |
+
+## 一句话总结
+
+Emira 第一次进入 Kelley 的消费世界：Gloria's 的烛光菜单、他熟练地点酒、以及"工人阶级"的自我定位——她一边被这份从容吸引，一边在心里记下他"considering himself working class"的荒谬。三只蟑螂的童年故事与 Kelley 的"你身上有浴缸的味道"形成奇怪的亲密。全章的张力不在调情，而在 Zara 那句"我分不清你是被雇了还是被甩了"——这段关系的权力框架，从一开始就由旁观者替 Emira 说出。

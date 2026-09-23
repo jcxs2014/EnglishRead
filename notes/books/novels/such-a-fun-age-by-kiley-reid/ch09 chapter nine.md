@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：这是全章的落点——Alix在Emira离开时自言自语。"Mira"是Alix对Emira的昵称，这个昵称暴露了她对Emira的亲密感。"please don't leave me"是真诚的求助。
 >
 > **读者视角提示**："please don't leave me"——Alix在Emira面前放下了雇主的面具。她不再需要"feel bad"，而是直接请求Emira留下。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| halloween-themed | 万圣节主题的 | "she found a Halloween-themed dog parade in a park nearby" |
+| hyperinquisitive | 过度爱追问的 | "without the presence of a grieving, hyperinquisitive toddler" |
+| gregariousness | 爱交际，合群 | "On top of her daughter's unfiltered gregariousness" |
+| insinuating | 暗示，影射 | "insinuating to my daughter that her looks matter more than her mind" |
+| overcrowded | 过度拥挤的 | "it was one of those places with an overcrowded tank" |
+| discernibly | 明显地，可辨地 | "Laney Thacker discernibly wanted a friendship with Alix" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| upstairs | 楼上 | "Emira came upstairs as Alix finished washing her hands." |
+| envelope | 信封 | "until Emira pointed at the envelope in Alix's back pocket." |
+| floating | 漂浮的 | "Alix discovered the floating body at 11:34 a.m." |
+| feathers | 羽毛 | "How does feathers get wet?" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| phone | 手机 | "Alix placed a plant in front of the bowl and reached for her phone." |
+| front | 前面 | "Alix placed a plant in front of the bowl" |
+| still | 仍然 | "who nodded with her mouth still full" |
+
+## 一句话总结
+
+同一天里，金鱼 Spoons 在鱼缸里翻肚（"Alix discovered the floating body at 11:34 a.m."），而 Alix 正准备迎接 Peter 的搭档 Laney Thacker。她把死鱼的尸体藏在一盆植物后面、把 Briar 的追问当作"grieving, hyperinquisitive"的负担，却为 Laney 的来访反复改期两次——这场"待客"暴露了 Alix 的情感分配：她的焦虑永远优先给能派上用场的人。章末 Emira 离开后，Alix 独自问了一句"please don't leave me"——在这段雇佣关系里，真正依赖对方的人是她。

@@ -94,3 +94,36 @@ modified: "2026-09-23"
 > **为什么这样写**：这是全章的落点——Alix用"fine"来否定Allentown。"fine"是最冷淡的否定，而"Allentown again"暗示她对这个地方有深层的情感（尽管是负面的）。
 >
 > **读者视角提示**：Alix说"Pennsylvania is fine"而不是"宾州很好"——她刻意模糊了"fine"的程度，让这句话听起来比实际更轻。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| air-conditioned | 有空调的，冷气开的 | "an overly air-conditioned blast with cardboard boxes" |
+| self-fulfilling | 自我实现的（预言） | "a move of self-fulfilling pity" |
+| light-skinned | 肤色较浅的 | "Claudette was a light-skinned black woman with curly gray hair" |
+| congratulated | 自我恭贺，庆幸 | "Tamra congratulated herself" |
+| theatrically | 戏剧化地，夸张地 | "Alex theatrically removed the nozzle and sealed up the gas door" |
+| understanding | 心领神会，明白 | "Kelley, understanding the implication, replied" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| driveway | 私家车道 | "the long stretch of driveway" |
+| arrested | 被逮捕的 | "a popular black student athlete arrested on property" |
+| backyard | 后院 | "Alex looked from her backyard to Kelley." |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| house | 房子 | "they purchased a seven-bedroom house on a rolling green hill" |
+| table | 桌子 | "Tamra placed her fork on her plate and dusted her hands away from the table." |
+| front | 前面 | "She spread her fingers and waved them in front of her chest." |
+
+## 一句话总结
+
+纽约餐厅里，四个女人的"embarrassing moment"游戏把隐私变成通货——直到 Tamra 笑着说自己请同学代交考卷（"Tamra congratulated herself"），这场戏才露出真正的底色：她们的特权足够让作弊成为趣闻。章末突然切进 Alex Murphy 的族谱：祖父母两天内相继离世、被"accidentally cremated"、从 Philadelphia 搬到 Allentown 的 McMansion——以及"那晚在 Murphy 家所做的，正是 Kelley 显然希望达到的一切"。Alix 的过去第一次被当成独立故事讲述。
