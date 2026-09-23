@@ -23,11 +23,11 @@ modified: "2026-09-22"
 
 **中文理解**：当那团「墨渍」般的 Celia 从 Aditi 身后跃出——黑色工装与深影融为一体——Poppy 只能眼睁睁看着她抡起什么东西，砸向挚友的后脑。
 
-**关键词**：ink blot（墨渍）、blending in（融入）、swings（抡击）、helpless（眼睁睁）
+**关键词**：ink blot（墨渍）、blending in（融入）、swings（抡击）、nothing I can do but watch（只能眼睁睁）
 
 **为什么这样写**：比喻把 Celia 缩成一滩墨点：她不再有人形，只是阴影里一个会挥臂的污迹。而 Poppy 的视角被椅子钉死——「只能看着」是全书反复处刑的句式（ch14 镜前、ch20 窗前、此刻楼梯底），旁观至亲遇害而不可出声，是本书给「讨好者」安排的终极情境剧。
 
-**读者视角提示**：凶器是一块「半朽的两尺木方、中间还支出一根钉」——和 sledgehammer 一样，这栋宅子行凶永远就地取材于自己的破败背面。
+**读者视角提示**：凶器是一根「半朽的 two-by-four 木方、中间还支出一根钉」——和 sledgehammer 一样，这栋宅子行凶永远就地取材于自己的破败背面。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：全书罪案机制的总说明：这不是一人作案而是人格分工——Helen 执刀、Celia 打扫。Poppy 追踪三个月的「梦游疑云」（ch09 门后低语、ch14 剥脸、ch23 食骨之镜）在此统一归因：镜中像与画中像的自毁表演全是 Helen 的恶作剧。最毒的是「makes the remains look pretty」——「美化遗骸」正是 Celia 对亡妻们做的一切（蓝裙、抛光、金牌），慈善式的亵渎。
 
-**读者视角提示**：「my Celia」的物主格与 ch25「Celia is mine」完全一致——Helen 从不认为自己在「借住」，她自认原配。
+**读者视角提示**：「my Celia」的物主格与 ch24「Celia is mine」完全一致——Helen 从不认为自己在「借住」，她自认原配。
 
 ---
 
@@ -85,7 +85,7 @@ modified: "2026-09-22"
 
 **关键词**：in tatters（碎裂成条）、threads back（穿线缝回）、unconditionally（无条件地）
 
-**为什么这样写**：缝纫/结绳动词 threads 回扣 Poppy 全书的手艺人身体：她被 Celia 的爱拆线，又被 Aditi 的留下重新缝上。而「无条件」正是她在 ch02 就立下的愿望（「无条件爱我的人」）——誓言没有错，对象全错；真正兑现它的是那个被她亏欠最多、五小时前从暗号失败里读出凶讯、连夜开车来的人。本章最暖的一句与最冷的处境（骨锯在手、黑眼逼近）同框，是全书给「people-pleaser」的平反：她终于被正确地爱过一次。
+**为什么这样写**：缝纫/结绳动词 threads 回扣 Poppy 全书的手艺人身体：她被 Celia 的爱拆线，又被 Aditi 的留下重新缝上。而「unconditionally」一词是全书唯一的免费之爱——她倾注全部力气去讨的 Celia 之爱从来是有条件的自我削减；对象曾经全错，真正兑现它的是那个被她亏欠最多、五小时前从暗号失败里读出凶讯、连夜开车来的人。本章最暖的一句与最冷的处境（骨锯在手、黑眼逼近）同框，是全书给「people-pleaser」的平反：她终于被正确地爱过一次。
 
 **读者视角提示**：Aditi 的第一句台词是两次 "Shut up"——「闭嘴，我不走」。粗口的对称结构：Helen 用 Poppy 的嘴说不出「爱」，Aditi 用「闭嘴」说尽了爱。
 
@@ -97,7 +97,7 @@ modified: "2026-09-22"
 
 **关键词**：villain（反派）、epitome（典型化身）、unlawful love（非法之爱）、paint magic（画魔法）
 
-**为什么这样写**：书名典故的最后一块拼图由 Celia 本人嘶喊补完：ch04 只给了「Busirane 之屋」的布景，此刻揭出剧中戏——血绘魔法=ch12 那幅 Celia 用经血画的画、=蓝钥匙上洗不掉的血、=Poppy 被这栋「用爱之血画成的房子」牢牢粘住的全部原理。Celia 自比需要被 Britomart 营救的 Amoret，Poppy 当场的驳斥「你不是这里的受害者」把自怜戏剧一脚踹停：取了别人心的凶手，没资格扮被取心的人。
+**为什么这样写**：书名典故的最后一块拼图由 Celia 本人嘶喊补完：ch04 只给了「Busirane 之屋」的布景，此刻揭出剧中戏——血绘魔法=ch12 那幅一夜之间被血泼满的宅子画（vandalized painting）、=蓝钥匙上洗不掉的血、=Poppy 被这栋「用爱之血画成的房子」牢牢粘住的全部原理。Celia 自比需要被 Britomart 营救的 Amoret，Poppy 当场的驳斥「你不是这里的受害者」把自怜戏剧一脚踹停：取了别人心的凶手，没资格扮被取心的人。
 
 **读者视角提示**：「取心用血作画」也反转了 ch21 海伦献词的读法——Britomart 是 Celia 的自我命名，而 Helen 甘当剖心的 Amoret：在她们彼此的故事里，两个人都坚持自己才是受害者。
 
@@ -134,7 +134,7 @@ modified: "2026-09-22"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| writhe | 扭动挣扎 | There’s a string of drool trickling from my mouth and wetting the concrete pressing against my cheek as animalistic cries fight their way past my velvet gag. |
+| writhe | 扭动挣扎 | I twist and writhe against my binds, trying to find a loose point anywhere, trying to hack the claustrophobic velvet ribbon out of my mouth. |
 | bleat | （羊般）咩咩哀叫 | My warnings are muffled and muted as I bleat against the wet, foul ribbon. |
 | barnacle | 藤壶（死死附着） | I’m on my side, the chair stubbornly attached to my body like a barnacle. |
 | indisposed | 不方便出面、失调 | “Celia is indisposed,” Helen says through my wife’s mouth, her lips curving up. |

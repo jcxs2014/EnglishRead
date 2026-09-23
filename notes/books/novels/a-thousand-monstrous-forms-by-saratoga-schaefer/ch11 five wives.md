@@ -7,7 +7,7 @@ modified: "2026-09-22"
 
 ## 本章导航
 
-**一句话概括**：跨年夜派对上，陌生人 Harley 对 Celia「结过五次婚」的闲话刺痛 Poppy，勾出她前任 Oliver 的虐待旧事，Poppy 在自我说服与防卫本能之间被钻出不安的裂缝。
+**一句话概括**：跨年夜派对上，陌生人 Harley 对 Celia「multiple ex-wives」式婚史的闲话刺痛 Poppy，勾出她前任 Oliver 的虐待旧事，Poppy 在自我说服与防卫本能之间被钻出不安的裂缝。
 
 **情感弧线位置**：转折——表面是全书难得的「烟火气」暖章，实际把前十一章埋下的恐惧全部撬开一道缝；派对越热闹，Poppy 越孤立。
 
@@ -37,7 +37,7 @@ modified: "2026-09-22"
 
 **关键词**：movers（搬运工）、remains（遗骸，用于人而非物）、woods out back（屋后的林子）
 
-**为什么这样写**：Celia 无意识地把雕像称作 her、用说人的 remains——Poppy 上一秒刚「personified the faceless statue」被自己吓到，妻子的一口一个 her 让这种拟人显得理所当然，恐怖感加倍。
+**为什么这样写**：Celia 无意识地把雕像称作 her、用说人的 remains——Poppy 前文本就是被妻子的拟人吓到（"how she said it, how she personified the faceless statue"），而她一口一个 her 说得理所当然，恐怖感加倍。
 
 **读者视角提示**：呼应上一章 Poppy 数雕像的算账；Celia 轻描淡写的「摔坏了丢掉」与她对整座宅子的讳莫如深同构。
 
@@ -51,7 +51,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：前夫恶行由闺蜜之口当众掀出，Poppy 只能以 mutter 抵抗——她的「people-pleaser」人设被 Aditi 的护友怒火当众戳破；舞曲名由 Aditi 记得一清二楚——比 Poppy 自己更愿意提起。
 
-**读者视角提示**：注意是 Aditi「记得一清二楚」——旁观者的记忆比当事人的叙述更精确，这是本书反复用的「证人细节」。
+**读者视角提示**：注意 Aditi 记得全部暴行细节、却要回头问曲名（"What was it, Pops?"）——曲名脱口而出的是受害者本人，创伤的肌肉记忆比任何旁观者都精确，这是本书反复用的「证人细节」。
 
 ---
 
@@ -73,7 +73,7 @@ modified: "2026-09-22"
 
 **关键词**：apparently（带自嘲的「原来如此」）、easygoing affect（装出来的松弛气质）、assaulted（被施暴）
 
-**为什么这样写**：一句话判了「好相处人设」的死刑：装得再久，底线仍在。这是本章后文推搡旧事（purpled prints、锁门放歌）的回溯性盖棺；assaulted 一词首次不加缓冲地命名了那段关系。
+**为什么这样写**：一句话判了「好相处人设」的死刑：装得再久，底线仍在。这是本章前文推搡旧事（purpled prints、锁门放歌）的回溯性盖棺；assaulted 一词首次不加缓冲地命名了那段关系。
 
 **读者视角提示**：紧接的「The bar sunk to the floor after that. “No one cruel” was what I told people…」——创伤直接改写了她的择偶底线，为理解她为何死护 Celia 铺路。
 
@@ -109,7 +109,7 @@ modified: "2026-09-22"
 
 **关键词**：stomach twist（胃部拧紧，直觉警报）、guarantee（保证）、expect（预期）
 
-**为什么这样写**：祝福被听成诅咒的预告，Poppy 的身体先于理智接住了陌生人的潜台词；身体比理智先一步接住危险信号——与上一章 Poppy 对 Celia 隐瞒异响时「不想听起来不可靠」的自我警惕同构。
+**为什么这样写**：祝福被听成诅咒的预告，Poppy 的身体先于理智接住了陌生人的潜台词；身体比理智先一步接住危险信号——与本章前文她对 Celia 隐瞒门厅异响时「不想听起来不可靠」的自我警惕同构。
 
 **读者视角提示**：章末「a little voice in my head points out」——外人的怀疑已内化为 Poppy 自己的心声，Harley 完成「种子」的播种。
 
@@ -158,7 +158,7 @@ modified: "2026-09-22"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| foyer | 门厅 | Aditi is followed by two of her friends, other nurses I’ve met once or twice before at birthday parties or girls’ trips—Trinity and Emma. |
+| foyer | 门厅 | Aditi says as she sweeps into the foyer with a tote bag full of snacks and drink mixers. |
 | movers | 搬运工 | Maybe the movers broke one. |
 | refill | 续杯 | Refill? |
 | goblet | 高脚杯 | I pour dark red liquid from the pitcher into Harley’s goblet. |

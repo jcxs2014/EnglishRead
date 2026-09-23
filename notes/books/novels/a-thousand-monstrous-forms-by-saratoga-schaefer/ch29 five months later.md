@@ -41,7 +41,7 @@ modified: "2026-09-22"
 
 **为什么这样写**：角色认领即人格编程：Poppy 选中的三个名字恰是《仙后》里被剖心者（Amoret）、寻心者（Britomart）与永拒爱者（Belphoebe）——她把整部史诗读成「幸存者名册」，却没读到名册的规则：这书里的每一位女性，都是被 Busirane 之屋消化后再吐出来的角色。宅子改名 Belphoebe（贞洁猎女、拒绝爱情的女猎人）更是全书最大的自欺：她以为自己在挂「我不再恋爱」的免战牌，实际是把「以猎为爱」写上了门牌。
 
-**读者视角提示**：别忘了 Celia 也自比 Amoret（ch27 临终前「Britomart 要来救我」）——同一栋房子里，两任女主人共用同一套文学自怜：剧本才是本体，住户只是轮值的演员。
+**读者视角提示**：别忘了 Celia 也自比 Amoret（ch26 嘶喊 “Britomart has to rescue her”）——同一栋房子里，两任女主人共用同一套文学自怜：剧本才是本体，住户只是轮值的演员。
 
 ---
 
@@ -123,7 +123,7 @@ modified: "2026-09-22"
 |---|---|---|
 | perseverant | 顽固不化的、屡拔不绝的 | The courtyard is really coming along… gloves stained with soil and slashes of green as I yank up the perseverant weeds growing from the cracks in the concrete. |
 | docile | 温顺的、易管束的 | After all, since forcing her way inside, she’s been surprisingly docile. |
-| insistent | 纠缠不休的、急切的 | Irritating, yes, stretching out dark wings on occasion and trying to fly forward, but on the whole, harmless. |
+| insistent | 纠缠不休的、急切的 | The stain in my head has been more active, more insistent. |
 | celibate | 独身的 | My first marriage was a disaster. Marred by mistrust and betrayal. But that doesn’t mean I have to be celibate for the rest of my life. |
 | reverently | 虔诚地、肃然地 | I pull out the key ring from the pocket of my dirty jeans, running a finger along the teeth of the blue key, holding it reverently as I insert it into the lock. |
 | astounding | 惊人的 | This is such a big house. Filled with astounding art. |

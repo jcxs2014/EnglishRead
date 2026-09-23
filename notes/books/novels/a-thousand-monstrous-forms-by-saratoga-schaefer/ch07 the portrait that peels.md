@@ -81,7 +81,7 @@ modified: "2026-09-22"
 
 关键词：rind, spiraling, dangling
 
-为什么这样写：剥皮这一极端画面被配上"剥小橘子"的家常喻体，恐怖来自质感错位：peel/spiral/rind 是厨房词汇，血却是 "Acrylic blood"——颜料血，画布上发生的剥皮。remaining attached 是本章最狠的四个词：伤口拒绝完成，皮不会脱落，只会永远挂着——Busirane 的保存术（bell jar 里的不凋罂粟）作用于人。
+为什么这样写：剥皮这一极端画面被配上"剥小橘子"的家常喻体，恐怖来自质感错位：peel/spiral/rind 是厨房词汇，血却是 "Acrylic blood"——颜料血，画布上发生的剥皮。remaining attached 是本章最狠的两个词：伤口拒绝完成，皮不会脱落，只会永远挂着——Busirane 的保存术（bell jar 里的不凋罂粟）作用于人。
 
 读者视角提示：画像"找 Grip、撕开、卷起"的动作序列，与 Celia 梦话三遍 "Give me your skin" 完全同调；ch05 章末的索取在本章有了施工图纸。
 

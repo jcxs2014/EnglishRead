@@ -19,13 +19,13 @@ modified: "2026-09-22"
 
 ## 精读
 
-> **原句 1:** “The statue looks down at me from its position by the bed, its eerie blank face scratched and scarred in the harsh white light from the phone.”
+> **原句 1:** “The statue looks down at me from its position by the bed, its eerie blank face scratched and scarred in the harsh white light from the phone. It’s the same size as the other sculpted woman, but seeing it standing above my bed in the middle of the night makes it seem much larger, an unmovable colossus.”
 
 **中文理解**：雕像立在床边俯视她，手机白光下那张空白的脸满是划痕与伤疤——半夜站在自己床前，它比实际大得多，像一尊搬不动的巨像。
 
 **关键词**：colossus（巨像）、eerie（瘆人的）、scratched and scarred（划痕与伤疤）
 
-**为什么这样写**：ch09 工作室里那尊曾让她削橙子「像它受伤」的雕像，如今带着伤来「照顾」她——「unmovable（搬不动）」的巨物恰恰是自己走来的，矛盾修辞即恐怖。colossus 是古代世界七大奇迹用词：房子把「神像」搬进了卧室。
+**为什么这样写**：这正是 ch10 里那尊「fingertips look broken, cracked free from the circle of hands」的脱群者——它「逃离同伴」在前，如今带伤立于床头在后；「unmovable（搬不动）」的巨物恰恰是自己走来的，矛盾修辞即恐怖。colossus 是古代世界七大奇迹用词：房子把「神像」搬进了卧室。
 
 **读者视角提示**：注意她第一反应是「我不能现在崩溃」——创伤者的自我管理已成本能。
 
@@ -37,7 +37,7 @@ modified: "2026-09-22"
 
 **关键词**：wrench（猛拧挣脱）、fellows（同伴）、in the process（过程中）
 
-**为什么这样写**：ch09「指尖是从圆圈中崩断」的证据链在此续上：雕像不但会动，还会「逃离同伴」——被逃的那个「圈子」是什么？把石头写成有群居与脱群行为的生物，恐怖升级为「社会性」。
+**为什么这样写**：ch10「指尖是从圆圈中崩断」的证据链在此续上：雕像不但会动，还会「逃离同伴」——被逃的那个「圈子」是什么？把石头写成有群居与脱群行为的生物，恐怖升级为「社会性」。
 
 **读者视角提示**：数雕像的账本更新：五尊之庭院圈→一尊入工作室→一尊失踪→现在失踪者归案——且是「逃回来的」。
 
@@ -73,7 +73,7 @@ modified: "2026-09-22"
 
 **关键词**：betray（背叛）、trust（信任）、even this scared（哪怕怕成这样）
 
-**为什么这样写**：全书最讽刺的自律：排查完所有房间，只剩地下室没查（「他们可能是从那儿进来的」），而拦住房门的是「妻子的信任」——正是上一章 Aditi 判定她给不出的东西，她反而守得最死。两个 even 把恐惧与忠诚的配比写死。
+**为什么这样写**：全书最讽刺的自律：排查完所有房间，只剩地下室没查（「他们可能是从那儿进来的」），而拦住房门的是「妻子的信任」——正是 ch12 Aditi 当面判定她给不出的东西，她反而守得最死。两个 even 把恐惧与忠诚的配比写死。
 
 **读者视角提示**：读者已知：发电机在地下室、蓝钥匙早被收回——Celia 的信息网把「禁区」焊得比门更死。
 
@@ -93,11 +93,11 @@ modified: "2026-09-22"
 
 > **原句 7:** “The key ring in my breast pocket is suddenly hot against the silk, burning through to my skin.”
 
-**中文理解**：胸口口袋里的钥匙串突然烫穿丝绸烧到皮肤——她一把拧开音乐房的锁； 她一把拧开音乐房的门，就在推门的一瞬，亲眼看见一个琴键自己按了下去。
+**中文理解**：胸口口袋里的钥匙串突然烫穿丝绸烧到皮肤——就在她随后拧开音乐房门的一瞬，亲眼看见一个琴键自己按了下去。
 
-**关键词**：hot（灼热）、depress（按下）、all on its own（自行）
+**关键词**：hot（灼热）、burning through（烫穿）、silk（丝绸）
 
-**为什么这样写**：上一章冰凉的蓝钥匙（贴身焐不热）现在烫起来——钥匙的冷热是房子的红绿灯，上一次冰凉是因为 Celia 在场回收。「琴键自按」是 Poppy 第一次在超自然现场抓到现行：ch13 她扑了空，ch16 物证补交。
+**为什么这样写**：ch12 那把冰凉的蓝钥匙（ice cold despite spending hours tucked against my hot skin）现在烫起来——钥匙的冷热是房子的红绿灯，上一次冰凉是因为 Celia 在场回收。「琴键自按」是 Poppy 第一次在超自然现场抓到现行：ch13 她扑了空，ch16 物证补交。
 
 **读者视角提示**：这一次她「没思考」就行动——觉醒的生理表现是「不再自我审查」。
 

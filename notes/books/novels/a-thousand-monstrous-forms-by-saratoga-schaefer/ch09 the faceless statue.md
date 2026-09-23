@@ -21,7 +21,7 @@ modified: "2026-09-22"
 
 关键词：namesake, engagement gift, not doing its job
 
-为什么这样写：my namesake 一词把全书道具升为身份装置：Poppy=罂粟=那份被玻璃罩"保存"的订婚礼物。她本人也被罩在这栋宅子里：不凋、被观看、供人安眠而无助于自己。Or lately 的轻描淡写把个人失眠史并入宅邸史——从 ch02 起她的夜就没有好过。
+为什么这样写：my namesake 一词把全书道具升为身份装置：Poppy=罂粟=那份被玻璃罩"保存"的订婚礼物。她本人也被罩在这栋宅子里：不凋、被观看、供人安眠而无助于自己。Or lately 的轻描淡写把个人失眠史并入宅邸史——从 ch05 那个求皮的夜起她的夜就没有好过。
 
 读者视角提示：bell jar（钟形玻璃罩）自书名级意象 ch02 起首次与"我"同位——被保存者开始意识到罩子。
 
@@ -33,7 +33,7 @@ modified: "2026-09-22"
 
 为什么这样写：Oliver 的控词法复盘：一个教她"你的存在本身超标"的前任，遇到一个"明确说她想要你在场"的 Celia——"It was a welcome shock to meet Celia and hear her explicitly say she wanted me around"。全书的情感陷阱在此埋定：当一个人的自我价值以"不被嫌多"为度量，那个永远说"要你"的人就拿到了全部的定价权。
 
-读者视角提示：对照本章后文：夜里她真的怕的，是宅子"不想要她来"（it feels like it’s watching me / ch06 "the house knows it"）——"被嫌多"与"不被welcome"是同一根神经的两个方向。
+读者视角提示：对照本章后文：夜里她真的怕的，是宅子"不想要她来"（it feels like it’s watching me / ch07 "the house knows it"）——"被嫌多"与"不被welcome"是同一根神经的两个方向。
 
 > **原句 3:** "“This is stupid,” I mutter to myself. “This is my home.”"
 
@@ -81,7 +81,7 @@ modified: "2026-09-22"
 
 关键词：lichen, flaked, dot
 
-为什么这样写：Poppy 是手艺人，她的侦探工具是物证学：防水布未歪、走廊无蹭痕、庭院石像身上掉下的地衣却落在屋内地板——"移动过"被写成排除法的唯一余项。as if 是叙述者最后的礼貌：她其实已经知道这不是比喻。flaked 又回响 ch08 干在指甲缝里的 "Dried paint, flaking and pale"——剥落物一次次替 invisible 的行动留签名。
+为什么这样写：Poppy 是手艺人，她的侦探工具是物证学：防水布未歪、走廊无蹭痕、庭院石像身上掉下的地衣却落在屋内地板——"移动过"被写成排除法的唯一余项。as if 是叙述者最后的礼貌：她其实已经知道这不是比喻。flaked 又回响 ch07 干在指甲缝里的 "Dried paint, flaking and pale"——剥落物一次次替 invisible 的行动留签名。
 
 读者视角提示：她检查 tarps 的整段反问（wouldn't...wouldn't...wouldn't I have heard）句式像不像在做窑前检查？手艺人对抗不可知的仪式，就是核对痕迹。
 

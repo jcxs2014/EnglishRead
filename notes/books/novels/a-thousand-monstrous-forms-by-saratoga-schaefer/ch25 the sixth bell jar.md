@@ -35,7 +35,7 @@ modified: "2026-09-22"
 
 > **原句 2:** “I’m secured to a scuffed, squat chair. The kind of chair you’d find in a chain restaurant. Very different than the elegantly curated pieces Celia keeps upstairs. Basements are where we hide our ugly things, after all.”
 
-**中文理解**：她把自己绑在一张磨损矮胖的椅子上——连锁餐厅那种货色，与楼上那些精心策展的家具天差地别。毕竟，地下室就是我们藏丑东西的地方。
+**中文理解**：她被绑在一张磨损矮胖的椅子上（双臂反缚身后）——连锁餐厅那种货色，与楼上那些精心策展的家具天差地别。毕竟，地下室就是我们藏丑东西的地方。
 
 **关键词**：scuffed（磨痕累累的）、squat（矮胖的）、curated（策展挑选的）、hide（藏匿）
 

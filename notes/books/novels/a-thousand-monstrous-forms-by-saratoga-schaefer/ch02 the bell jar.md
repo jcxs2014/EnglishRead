@@ -23,7 +23,7 @@ modified: "2026-09-22"
 
 为什么这样写：一句话揭穿标题式的"完美搬家"：新娘住进丈夫的家，却是第一次登门。"ignoring"与"not wanting to admit"两个现在分频叠加，写出她靠隐瞒维持体面的即时状态。
 
-读者视角提示：搬家工人问"Which hallway?"之后才有这句——她的窘迫是被陌生人的正常问题照出来的。
+读者视角提示：搬家工人的追问"Which hallway?"紧跟在这句之后——她的窘迫是被陌生人的正常问题照出来的。
 
 > **原句 2:** "What do you want me to do? Keep living in my studio apartment in San Francisco while my wife kicks it on the East Coast?"
 
@@ -63,7 +63,7 @@ modified: "2026-09-22"
 
 为什么这样写：三个无引语的短祈使句连发，是 Poppy 的"咒语式自我确认"——"You'll understand"把 Aditi 的怀疑预定为未见真相的无知；"meant to be"取消了一切论证义务。
 
-读者视角提示：紧跟在"after everything I went through with Oliver"之后——她衡量现在幸福的标尺仍是上一段伤害。
+读者视角提示：这句之后紧接"after everything I went through with Oliver"——她衡量现在幸福的标尺仍是上一段伤害。
 
 > **原句 6:** "In the center of the courtyard is a spindly black gazebo made of wrought iron that twists within and around itself, supported by four granite pillars wrapped in ivy and moss."
 

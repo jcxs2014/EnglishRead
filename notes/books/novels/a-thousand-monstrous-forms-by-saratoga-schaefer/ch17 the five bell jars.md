@@ -67,7 +67,7 @@ modified: "2026-09-22"
 
 ---
 
-> **原句 5:** “There’s gristle hanging from some of their phalanges. The hint of dried tendon knotted in knees. Furrowed marks around their joints, as if someone had gotten careless scraping away tissue.”
+> **原句 5:** “There’s gristle hanging from some of their phalanges. The hint of dried tendons knotted in knees. Furrowed marks around their joints, as if someone had gotten careless scraping away tissue.”
 
 **中文理解**：有些指骨上挂着软组织碎屑，膝关节里结着干缩的筋腱，关节周围有犁过的刮痕——像是有人在剔肉时失了手。
 
@@ -85,7 +85,7 @@ modified: "2026-09-22"
 
 **关键词**：plaque（铭牌）、scripted（花体的）、hollow（空痛的）
 
-**为什么这样写**：上一章剪贴簿里的「第一任妻子」以标本身份重逢：Helen 拽着 Celia 头发「参观房子缺陷」，如今被永久留在房子里——「你说这房子哪儿不好，你就住进来」。五张铭牌（Helen/Eleanor/Isabel/Rosa/Blanche）正是 ch14 Poppy 默念过的那串「童话里的五姐妹」。
+**为什么这样写**：ch14 剪贴簿里的「第一任妻子」以标本身份重逢：Helen 拽着 Celia 头发「参观房子缺陷」，如今被永久留在房子里——「你说这房子哪儿不好，你就住进来」。五张铭牌（Helen/Eleanor/Isabel/Rosa/Blanche）正是 ch14 Poppy 默念过的那串「童话里的五姐妹」。
 
 **读者视角提示**：「I expect emotion… but there’s nothing」——休克以麻木登场。
 
@@ -126,7 +126,6 @@ modified: "2026-09-22"
 | astringent | 收敛性的（涩味） | An astringent, antiseptic smell wafts from below. |
 | antiseptic | 消毒剂的 | An astringent, antiseptic smell wafts from below. |
 | careen | 倾斜欲倒 | When I try to get to my feet, my body lists to the side, and I have to put a hand out to stop myself from careening over. |
-| haphazard | 杂乱的 | The edges of the basement fade away into darkness—I don’t know how far back the level goes or what else might be down here. I’m too fixated on the bell jars and what lies inside them. |
 | insinuating | 含沙射影的 | It’s taunting me, insinuating that it’s going to make sure I will be the next skeleton to be propped up down here in a clear prison. |
 | maliciously | 恶意地 | The blue key shines maliciously, the semicircle of glass bell jars mirrored on its marred surface. |
 | stagnant | 不流通的，死寂的 | The air down here is stagnant. |
