@@ -60,13 +60,13 @@ modified: "2026-09-23"
 ---
 
 > **原句 5:**
-> "I see you and I understand," I said. "You, uh… the way you try so hard to pal about with the younger ones. The clothes, the hair, the nails. When you were coming up through the ranks, the answer was to be tougher than the men."
+> "I see you and I understand," I said. "You, uh… the way you try so hard to pal about with the younger ones. The clothes, the hair, the nails. When you were coming up through the ranks, the answer was to be tougher than the men. Take the jokes with a laugh and then out-do them. You never realised you were pulling the ladder up behind you."
 
-**中文理解：** "我看到你了，我理解，"我说。"你，嗯……你和其他年轻人打成一片的方式。衣服、头发、指甲。当你在职场晋升时，答案是不比男人差。"
+**中文理解：** "我看到你了，我理解，"我说。"你，嗯……你和其他年轻人打成一片的方式。衣服、头发、指甲。当你在职场晋升时，答案是不比男人差。笑纳那些玩笑然后超越他们。你从没意识到自己在身后拉起了梯子。"
 
-**关键词：** tougher than the men（比男人更强硬）
+**关键词：** tougher than the men（比男人更强硬）；pulling the ladder up behind you（过河拆桥）
 
-**为什么这样写：** Tamsin 识别 director 的 struggle——她作为一个在男性主导领域晋升的女性，必须假装坚强。这与 Tamsin 自己作为 outsider 的 experience 平行。
+**为什么这样写：** Tamsin 识别 director 的 struggle——她作为一个在男性主导领域晋升的女性，必须假装坚强才能生存。但 Tamsin 同时指出 director 也在对更年轻的人做同样的事——这是 cycle of abuse 的结构性分析。
 
 ---
 
@@ -107,17 +107,17 @@ modified: "2026-09-23"
 
 | 单词/短语 | 释义 | 例句 |
 |-----------|------|------|
-| dissociation | 分离状态 | I watched myself pull. |
+| projecting | 投射（动词） | wide-mouth smile projecting her |
 | safety latch | 安全闸门 | I watched myself grab the safety latch. |
-| dismissal | 轻视 | Whatever that is. |
-| fear-driven | 恐惧驱动的 | It scared you not to understand. |
-| outsider | 外来者 | As an outsider in a male-dominated field. |
+| expressionless | 毫无表情的 | I watched my face, expressionless, my mouth a thin line. |
+| innovative | 创新的 | It made us more competitive, more innovative and more efficient. |
+| nervously | 紧张地 | Her eyes darted about the other faces, nervously. |
 
 ### ⭐⭐ 进阶
 
 | 单词/短语 | 释义 | 例句 |
 |-----------|------|------|
-| expressionless | 毫无表情的 | My face, expressionless. |
+| QA | 质量检查 | A quick tidy from an art worker, a check from QA. |
 | template | 模板 | Developing a template to automatically populate customer emails. |
 | shrugs | 耸肩 | The director shrugged. |
 | trauma | 创伤 | This was her core memory of trauma. |

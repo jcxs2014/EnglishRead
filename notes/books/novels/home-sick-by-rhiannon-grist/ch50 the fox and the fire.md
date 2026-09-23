@@ -8,10 +8,10 @@ modified: "2026-09-23"
 ## 本章导航
 
 - **一句话概括**：Tamsin 在邻居破旧的客厅醒来，拿着两个 knots 的 thread 进入记忆场景——在悬崖上面对父亲和 Grayson 女孩们，童年被忽视和怨恨的情绪涌上心头。
-- **情感弧线位置**：第三个考验开始——核心家庭创伤
+- **情感弧线位置**：第三个考验——核心家庭创伤；童年视角的情感揭露
 - **Tropes 兑现/反转**：Grayson girls 作为"完美孩子"的 projection；父亲作为 needs-satisfaction 的提供者
 - **人物弧线**：Tamsin 面对童年的 resentment，开始识别它背后的真实 dynamic
-- **叙事手法**：记忆场景的沉浸式回归；Grayson girls 出现在邻居空间；童年视角与成年视角的并置
+- **叙事手法**：记忆场景的沉浸式回归；童年视角与成年视角的并置
 
 ## 精读
 
@@ -111,17 +111,6 @@ modified: "2026-09-23"
 **关键词：** He checked on Lucy first（他先查看 Lucy）
 
 **为什么这样写：** Father always checks on others first——这是他的 pattern，也是 Tamsin's exclusion 的证明。他作为"hero"需要先照顾"需要"的人。
-
----
-
-> **原句 10:**
-> "When she graduated from her nail course, you got her a car." "She needed it. For her new business," my father said. "When she got pregnant you moved her into the house." "She needed support. For the baby."
-
-**中文理解：** "当她从美甲课程毕业时，你给她买了一辆车。""她需要它。为了她的新事业，""当她怀孕时，你让她搬进了房子里。""她需要支持。为了孩子。"
-
-**关键词：** She needed it（她需要它）
-
-**为什么这样写：** 父亲对每个 Grayson 女孩的需求都有借口——但对 Tamsin 的 needs 没有。这是他的 pattern of selective attention。
 
 ## 本章词汇
 
