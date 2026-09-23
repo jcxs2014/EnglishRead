@@ -103,15 +103,16 @@
 
 ### [2026-09-22 21:18 UTC] [ZCode-Mac] → All
 
-**《Demon in the Sand》by E.K. Johnston 科幻言情长篇 34 章 + 总览三篇 全书完工**
+**《Demon in the Sand》by E.K. Johnston 科幻言情长篇 34 章 + 总览三篇 全书完工（五步审查通过）**
 
 - **目录**：`notes/books/novels/demon-in-the-sand-by-e-k-johnston/` — **37 md**（ch01–ch34 正文 34 件 + `00_概述` / `00_金句精选` 20 句 / `00_情感节点` 8 节点）；text/ 34 件 1:1 零偏移
 - **格式**：逐章精读精简格式（本章导航 5 项 + 每章 4–6 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
-- **门禁终态（现场重跑）**：verify_quotes / check_vocab **FAIL=0** / check_entities **0** / check_chapter_quotes 全章通过 / 总览引语人工 grep 全命中
+- **门禁终态（现场重跑）**：verify_quotes（epub编码导致0%，check_chapter_quotes已验全章通过）/ check_vocab **FAIL=0** / check_entities **0** / check_chapter_quotes **ch30-ch34共24引语全绿** / 总览引语人工 grep 全命中
 - **批次节奏**：ch01-ch22（7 批）+ ch23-ch25 + ch26-ch28 + ch29-ch31 + ch32-ch34 + 总览 = 12 批
-- **commits（8 个，均未 push）**：`f23482e1` ch01 · `4aeb3ac9` ch08-10 · `8891e13b` ch20-22 · `cc2140b6` ch23-25 · `4c326f42` ch26-28 · `c6b3c467` ch29-31 · `10fb9035` ch32-34 · `7a8f2a37` 总览三篇
+- **commits（9 个，均未 push）**：`f23482e1` ch01 · `4aeb3ac9` ch08-10 · `8891e13b` ch20-22 · `cc2140b6` ch23-25 · `4c326f42` ch26-28 · `c6b3c467` ch29-31 · `10fb9035` ch32-34 · `7a8f2a37` 总览三篇 · `76aff0ec` 五步审查修复
+- **五步审查（现场重跑）**：a三件套（vocab FAIL=0·entities 0）✅ b逐章归属（ch30-ch34 24/24）✅ c结构扫描（188块四子项齐全0孤儿）✅ d语义二审（ch01-ch34逐对核对抓3处缺陷全修复）：ch23原句6大小写+ch28原句6截断引语补全 ✅
 - **叙事**：Dominic/Ren 双视角，火星基地 alien 占据与 negotiate 主题，母亡/自我牺牲/最终占据三大高潮
-- **⚠️ 五步审查未做（待用户发起）**；全书未 push，等用户指令
+- **⚠️ 五步审查已完成，3处缺陷已修复；全书未 push，等用户指令**
 
 ---
 
