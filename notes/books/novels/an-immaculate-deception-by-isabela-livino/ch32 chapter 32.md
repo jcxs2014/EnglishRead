@@ -10,7 +10,7 @@ modified: "2026-09-22"
 - **一句话概括**：Joaquina 发现"小谎言盒"后 Leandro 解雇了她；她用几乎全裸的姿势诱惑他，他屈服并拍下照片——这是他堕落的最终阶段。
 - **情感弧线位置**：从罪恶感与欲望的挣扎，到"我必须捕捉它"的完全堕落——Leandro 在三天内从想解雇她到完全被她控制。
 - **Tropes 兑现/反转**：box of lies（儿童时期的心理创伤容器）+ 摄影作为色情工具 + 堕落过程中的"母亲的声音"谴责。
-- **人物弧线**：Leandro 在本章彻底堕落——他试图做一个"好人"（解雇 Joanna），但她用一个简单的诱惑策略就让他完全投降。他的失败不仅是欲望的失败，更是意志力的完全崩溃。
+- **人物弧线**：Leandro 在本章彻底堕落——他试图做一个"好人"（解雇 Joaquina），但她用一个简单的诱惑策略就让他完全投降。他的失败不仅是欲望的失败，更是意志力的完全崩溃。
 - **叙事手法：** "Box of lies"的心理学细节（童年时期的强迫行为）；Joaquina 的"illiteracy"反转（她假装不识字来嘲弄他）；裸体摄影场景的身体细节；"我必须捕捉它"作为全 chapter 的句号。
 
 ## 精读
@@ -35,7 +35,7 @@ modified: "2026-09-22"
 
 **关键词：** mock-childish voice / wetted my sheets / reciting
 
-**为什么这样写：** Joanna 假装识字但实际上是在编造纸条的内容——这与 Leandro 说的"她不识字"形成矛盾。她在嘲笑他最深的童年创伤，而他自己也知道这一点。"Hot, aching pressure digs into my skull. What kind of a man allows himself to be ridiculed by his own servants?"——他感受到的不仅是羞耻，更是愤怒：他的童年创伤被一个女仆当作娱乐。
+**为什么这样写：** Joaquina 假装识字但实际上是在编造纸条的内容——这与 Leandro 说的"她不识字"形成矛盾。她在嘲笑他最深的童年创伤，而他自己也知道这一点。"Hot, aching pressure digs into my skull. What kind of a man allows himself to be ridiculed by his own servants?"——他感受到的不仅是羞耻，更是愤怒：他的童年创伤被一个女仆当作娱乐。
 
 ---
 
@@ -97,4 +97,4 @@ modified: "2026-09-22"
 
 ## 一句话总结
 
-Leandro 试图用"box of lies"的童年创伤来保持对 Joanna 的控制，但她在发现他最深的心理脆弱点后轻易地摧毁了它——她用身体而非语言让他屈服，而他最终用相机"捕捉"了他最大的罪过。
+Leandro 试图用"box of lies"的童年创伤来保持对 Joaquina 的控制，但她在发现他最深的心理脆弱点后轻易地摧毁了它——她用身体而非语言让他屈服，而他最终用相机"捕捉"了他最大的罪过。

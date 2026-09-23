@@ -7,10 +7,10 @@ modified: "2026-09-22"
 
 ## 本章导航
 
-- **一句话概括**：Leandro 持续为 Joanna 拍照，两人的关系在一周内迅速升温；Joaquina 发现了那些照片——她的脸总是被阴影遮挡或侧过，她愤怒地质问"Leandro"，而他无言以对。
+- **一句话概括**：Leandro 持续为 Joaquina 拍照，两人的关系在一周内迅速升温；Joaquina 发现了那些照片——她的脸总是被阴影遮挡或侧过，她愤怒地质问"Leandro"，而他无言以对。
 - **情感弧线位置**：欲望与罪恶感的交织——Leandro 在拍照的快感与"母亲声音"的谴责之间挣扎；Joaquina 的发现预告了即将来临的冲突。
 - **Tropes 兑现/反转**：Photography as fetish（用镜头捕捉女性而非直视她们）+ 照片作为控制工具（她的脸总是看不清）+ 阶级张力（主人/女仆）。
-- **人物弧线**：Leandro 对 Joanna 的欲望已经完全控制了他，但"母亲的声音"持续警告他这是罪恶。"Joaquina found her photographs"是全 chapter 的 cliffhanger——当她发现照片中自己的脸总是被隐藏时，她会怎么反应？
+- **人物弧线**：Leandro 对 Joaquina 的欲望已经完全控制了他，但"母亲的声音"持续警告他这是罪恶。"Joaquina found her photographs"是全 chapter 的 cliffhanger——当她发现照片中自己的脸总是被隐藏时，她会怎么反应？
 - **叙事手法：** Photography session 的感官细节（光线、快门声、香水味）；"Mother's voice"在括号中的持续评论；Joaquina 越来越不"顺从"的发展。
 
 ## 精读
@@ -22,7 +22,7 @@ modified: "2026-09-22"
 
 **关键词：** capture perfection / fleeting bursts of inspiration / gentle curve / collarbone
 
-**为什么这样写：** Leandro 对 photography 的描述完全是色情的——"脖颈的弧度"、"背部拱起"、"锁骨的棱角"。他把对 Joanna 的性吸引包装在"艺术"的语言里，而"母亲的声音"立刻指出这是"wickedness"。Photography 在这里不是艺术，而是他控制女性形象的方式——他可以决定她的脸是清晰还是模糊，是直视还是侧过。
+**为什么这样写：** Leandro 对 photography 的描述完全是色情的——"脖颈的弧度"、"背部拱起"、"锁骨的棱角"。他把对 Joaquina 的性吸引包装在"艺术"的语言里，而"母亲的声音"立刻指出这是"wickedness"。Photography 在这里不是艺术，而是他控制女性形象的方式——他可以决定她的脸是清晰还是模糊，是直视还是侧过。
 
 ---
 
@@ -33,7 +33,7 @@ modified: "2026-09-22"
 
 **关键词：** freezes a moment / for all posterity / to behold at any time
 
-**为什么这样写：** "To behold at any time"——Leandro 把照片当作可以随时"欣赏"的财产。他对 Joanna 的欲望是通过镜头来中介的——他不需要真正面对她，只需要通过取景器看她。这与他在 ch22 Madalena 发现照片时的状态形成了可怕的呼应：他一直在拍摄某个女人，把她变成对象，而她从来没有同意过。
+**为什么这样写：** "To behold at any time"——Leandro 把照片当作可以随时"欣赏"的财产。他对 Joaquina 的欲望是通过镜头来中介的——他不需要真正面对她，只需要通过取景器看她。这与他在 ch22 Madalena 发现照片时的状态形成了可怕的呼应：他一直在拍摄某个女人，把她变成对象，而她从来没有同意过。
 
 ---
 
@@ -44,7 +44,7 @@ modified: "2026-09-22"
 
 **关键词：** fragile / ephemeral / shines through
 
-**为什么这样写：** "Fragile, ephemeral"——Leandro 对 Joanna 美 的描述是矛盾的：它既是令人着迷的，又是脆弱的、短暂的。"When everything around her is mundane"——他暗示她生活的世界（作为女仆）是平凡的，而她的美是超越这个平凡的。但这种"美"被他用相机捕捉并隐藏起来，不让她看到自己的形象。
+**为什么这样写：** "Fragile, ephemeral"——Leandro 对 Joaquina 美 的描述是矛盾的：它既是令人着迷的，又是脆弱的、短暂的。"When everything around her is mundane"——他暗示她生活的世界（作为女仆）是平凡的，而她的美是超越这个平凡的。但这种"美"被他用相机捕捉并隐藏起来，不让她看到自己的形象。
 
 ---
 
@@ -89,4 +89,4 @@ modified: "2026-09-22"
 
 ## 一句话总结
 
-Leandro 在一周的拍照 sessions 中对 Joanna 的欲望迅速升温，但当他隐藏她脸部照片的真相被发现时，两人的关系即将爆发——而他仍然要应对 senzala 里那个被囚禁的"母亲"的存在。
+Leandro 在一周的拍照 sessions 中对 Joaquina 的欲望迅速升温，但当他隐藏她脸部照片的真相被发现时，两人的关系即将爆发——而他仍然要应对 senzala 里那个被囚禁的"母亲"的存在。

@@ -22,18 +22,18 @@ modified: "2026-09-22"
 
 **关键词：** the death of me
 
-**为什么这样写：** 这是"母亲的声音"在 Leandro 脑中的最后一句话——它在说他的情欲将成为他的死亡。但这句话在 ch36 的语境中有双重含义：它既可以指 Joanna（他的欲望对象），也可以指 Doctor Lobo（他的"拯救者"）。
+**为什么这样写：** 这是"母亲的声音"在 Leandro 脑中的最后一句话——它在说他的情欲将成为他的死亡。但这句话在 ch36 的语境中有双重含义：它既可以指 Joaquina（他的欲望对象），也可以指 Doctor Lobo（他的"拯救者"）。
 
 ---
 
 > **原句 2:**
 > "The whimpers soon turn into moaning, wailing, sobbing. My heart jerks in my chest. Is it Joaquina in tears, or is it the evil spirits I hear?"
 
-**中文理解：** 喘息声很快变成了呻吟、哀号、哭泣。我的心在胸腔里抽动。是 Joanna 在哭，还是我听到的邪灵？
+**中文理解：** 喘息声很快变成了呻吟、哀号、哭泣。我的心在胸腔里抽动。是 Joaquina 在哭，还是我听到的邪灵？
 
 **关键词：** whimpers / wailing / sobbing / evil spirits
 
-**为什么这样写：** Leandro 听到了楼下传来的痛苦声音，并试图将其合理化为"邪灵"。但读者知道这可能是 Joanna 正在被 ritual murder。作为读者，我们在两个视角之间被撕裂：Leandro 不知道楼下发生了什么，但我们从 Madalena 的故事中知道 Doctor Lobo 在做什么。
+**为什么这样写：** Leandro 听到了楼下传来的痛苦声音，并试图将其合理化为"邪灵"。但读者知道这可能是 Joaquina 正在被 ritual murder。作为读者，我们在两个视角之间被撕裂：Leandro 不知道楼下发生了什么，但我们从 Madalena 的故事中知道 Doctor Lobo 在做什么。
 
 ---
 
@@ -44,7 +44,7 @@ modified: "2026-09-22"
 
 **关键词：** Joaquim
 
-**为什么这样写：** 在听到楼下的可怕声音后，Leandro 不自觉地叫出了 Joanna 的名字。这是他无法压制的本能——在他脑中最重要的是她，即使他被告知要抹去她的存在。"Blood pulsing in my head"是身体对心理压力的反应，也是 Doctor Lobo 仪式的效果——他被告知会有"压力"和"干扰"。
+**为什么这样写：** 在听到楼下的可怕声音后，Leandro 不自觉地叫出了 Joaquina 的名字。这是他无法压制的本能——在他脑中最重要的是她，即使他被告知要抹去她的存在。"Blood pulsing in my head"是身体对心理压力的反应，也是 Doctor Lobo 仪式的效果——他被告知会有"压力"和"干扰"。
 
 ---
 
@@ -55,7 +55,7 @@ modified: "2026-09-22"
 
 **关键词：** He is doing what you could not
 
-**为什么这样写：** "母亲的声音"在 Leandro 终于说出了一个真理：Doctor Lobo 正在完成 Leandro 自己无法完成的事——结束与 Joanna 的关系。但这个"完成"的方式远比 Leandro 预期的更黑暗。
+**为什么这样写：** "母亲的声音"在 Leandro 终于说出了一个真理：Doctor Lobo 正在完成 Leandro 自己无法完成的事——结束与 Joaquina 的关系。但这个"完成"的方式远比 Leandro 预期的更黑暗。
 
 ## 本章词汇
 

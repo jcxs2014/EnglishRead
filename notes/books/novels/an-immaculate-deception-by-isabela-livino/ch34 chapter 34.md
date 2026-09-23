@@ -51,7 +51,7 @@ modified: "2026-09-22"
 > **原句 4:**
 > "When I wrote him the letter, I went on and on about Joaquina and how tortured I felt. I do not know what kind of help I sought, only that he seemed like the sort of man who had solutions to problems."
 
-**中文理解：** 当我给他写信时，我一直在说 Joanna 和我感受到的痛苦。我不知道我在寻求什么样的帮助，只知道他看起来像是那种有问题解决方案的人。
+**中文理解：** 当我给他写信时，我一直在说 Joaquina 和我感受到的痛苦。我不知道我在寻求什么样的帮助，只知道他看起来像是那种有问题解决方案的人。
 
 **关键词：** solutions to problems / the sort of man
 

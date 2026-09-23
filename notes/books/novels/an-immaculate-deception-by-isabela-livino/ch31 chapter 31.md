@@ -10,7 +10,7 @@ modified: "2026-09-22"
 - **一句话概括**：Joaquina 亲吻了 Leandro；在 senzala 中，Leandro 与"母亲的声音"进行内心对话——他试图将这个吻合理化为"神圣灵感"，但"母亲"指出这只是罪恶的欲望。
 - **情感弧线位置**：欲望的高潮与罪恶感的反噬——第一次亲吻带来的"宇宙扩张"感与"母亲的声音"的持续谴责形成尖锐对比。
 - **Tropes 兑现/反转**：Dante 引用（Beatrice 隐喻）+ 吻作为堕落时刻 + 内心对话作为心理分裂的可视化。
-- **人物弧线**：Leandro 在亲吻 Joanna 后感到了"生命的扩张"，但"母亲的声音"立刻将这归类为"Satan的诱惑"。他的精神分裂在本章达到极限——一半的他想要拥抱这个新的感情，另一半的他被罪恶感折磨。
+- **人物弧线**：Leandro 在亲吻 Joaquina 后感到了"生命的扩张"，但"母亲的声音"立刻将这归类为"Satan的诱惑"。他的精神分裂在本章达到极限——一半的他想要拥抱这个新的感情，另一半的他被罪恶感折磨。
 - **叙事手法：** Beatrice 隐喻的文学性（Dante 的 Beatrice 是精神之爱的对象，但 Leandro 将其用于他自己的欲望包装）；senzala 的物理环境（滴水、潮湿）与他的心理状态形成呼应；"母亲的声音"的持续对话。
 
 ## 精读
@@ -22,7 +22,7 @@ modified: "2026-09-22"
 
 **关键词：** poet journeys to the underworld / Beatrice / cannot look at her directly / divine and incandescent
 
-**为什么这样写：** Leandro 用 Dante 的 Beatrice 隐喻来解释他为什么总是把 Joanna 的脸藏在阴影里——她太美了，不能直接看。但这是一个精心编造的谎言：Beatrice 是 Dante《神曲》中引导他穿越地狱的精神向导，是崇高的、精神的爱。而 Leandro 用这个比喻来合理化他对 Joanna 的欲望——他不是在囚禁她，他是在"崇拜"她。"母亲的声音"立刻拆穿了这个谎言。
+**为什么这样写：** Leandro 用 Dante 的 Beatrice 隐喻来解释他为什么总是把 Joaquina 的脸藏在阴影里——她太美了，不能直接看。但这是一个精心编造的谎言：Beatrice 是 Dante《神曲》中引导他穿越地狱的精神向导，是崇高的、精神的爱。而 Leandro 用这个比喻来合理化他对 Joaquina 的欲望——他不是在囚禁她，他是在"崇拜"她。"母亲的声音"立刻拆穿了这个谎言。
 
 ---
 
@@ -33,7 +33,7 @@ modified: "2026-09-22"
 
 **关键词：** leans forward / presses her lips to mine
 
-**为什么这样写：** 亲吻是主动发生的——是 Joanna 先吻的 Leandro。这打破了他作为"摄影师/观察者"的控制位置。亲吻让他"震惊"到无法反应——"I did not know what to do"。这是他在整本书中第一次被动地接受，而不是主动地控制。
+**为什么这样写：** 亲吻是主动发生的——是 Joaquina 先吻的 Leandro。这打破了他作为"摄影师/观察者"的控制位置。亲吻让他"震惊"到无法反应——"I did not know what to do"。这是他在整本书中第一次被动地接受，而不是主动地控制。
 
 ---
 
@@ -55,7 +55,7 @@ modified: "2026-09-22"
 
 **关键词：** devil in her skin / nurse your lust / rationalizations
 
-**为什么这样写：** "母亲的声音"在这里直接拆穿了 Leandro 的自我欺骗。她称 Joanna 为"vile temptress"和"devil in her skin"，这是厌女症的终极表现——当一个女人主动表达欲望时，她就是"魔鬼"。但更值得注意的是"rationalizations"这个词——Leandro 知道自己在欺骗自己，但他需要这些谎言来维持自己的道德感。
+**为什么这样写：** "母亲的声音"在这里直接拆穿了 Leandro 的自我欺骗。她称 Joaquina 为"vile temptress"和"devil in her skin"，这是厌女症的终极表现——当一个女人主动表达欲望时，她就是"魔鬼"。但更值得注意的是"rationalizations"这个词——Leandro 知道自己在欺骗自己，但他需要这些谎言来维持自己的道德感。
 
 ---
 
@@ -66,7 +66,7 @@ modified: "2026-09-22"
 
 **关键词：** What are you going to do about her
 
-**为什么这样写：** 全 chapter 的 cliffhanger——"母亲的声音"在问 Leandro 他打算怎么对待 Joanna。这个问题在书中有很多层次：他对 Joanna 的责任（作为雇主对她？作为情人对她？）和他对 senzala 里那个被囚禁的女人的责任。"母亲的声音"在问的不仅是 Joanna，而是他在所有这些关系中的位置。
+**为什么这样写：** 全 chapter 的 cliffhanger——"母亲的声音"在问 Leandro 他打算怎么对待 Joaquina。这个问题在书中有很多层次：他对 Joaquina 的责任（作为雇主对她？作为情人对她？）和他对 senzala 里那个被囚禁的女人的责任。"母亲的声音"在问的不仅是 Joaquina，而是他在所有这些关系中的位置。
 
 ## 本章词汇
 
@@ -99,4 +99,4 @@ modified: "2026-09-22"
 
 ## 一句话总结
 
-Leandro 在亲吻 Joanna 后的"宇宙扩张"感与 senzala 中"母亲的声音"的持续谴责形成了全书最尖锐的内心冲突——他想要相信这是"神圣灵感"，但他的良心知道这只是罪恶的欲望，而 cliffhanger"你要怎么对待她？"将这个冲突推到了临界点。
+Leandro 在亲吻 Joaquina 后的"宇宙扩张"感与 senzala 中"母亲的声音"的持续谴责形成了全书最尖锐的内心冲突——他想要相信这是"神圣灵感"，但他的良心知道这只是罪恶的欲望，而 cliffhanger"你要怎么对待她？"将这个冲突推到了临界点。

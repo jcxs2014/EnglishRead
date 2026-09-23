@@ -7,9 +7,9 @@ modified: "2026-09-22"
 
 ## 本章导航
 
-- **一句话概括**：Leandro 的母亲死亡；Doctor Lobo 提议用"磁力治疗"——一种神秘的复活仪式；Leandro 在绝望中同意，而 Doctor Lobo 驱逐 Joanna 并准备进行"净化"仪式。
+- **一句话概括**：Leandro 的母亲死亡；Doctor Lobo 提议用"磁力治疗"——一种神秘的复活仪式；Leandro 在绝望中同意，而 Doctor Lobo 驱逐 Joaquina 并准备进行"净化"仪式。
 - **情感弧线位置**：全 book 最黑暗的认罪时刻——"I killed Mother"是 Leandro 终于说出口的真相；Doctor Lobo 作为"拯救者"的真面目开始显露。
-- **Tropes 兑现/反转**：死亡与复活的主题 + Doctor Lobo 的"三重治疗"（身体/心灵/灵魂）+ 驱逐 Joanna 作为仪式的必要准备。
+- **Tropes 兑现/反转**：死亡与复活的主题 + Doctor Lobo 的"三重治疗"（身体/心灵/灵魂）+ 驱逐 Joaquina 作为仪式的必要准备。
 - **人物弧线**：Leandro 在母亲死后彻底被 Doctor Lobo 控制——他不是因为相信这个"仪式"而接受它，而是因为他太绝望了，任何希望都比没有希望好。"Do it"是绝望的呼喊，不是信仰的宣言。
 - **叙事手法：** Doctor Lobo 的招募演讲（"all illness springs from a lack of balance in the spirit"）；"dark spirits"和"thought-forms"的恐吓技术；时间压力（hourglass）的戏剧性设置。
 
@@ -44,7 +44,7 @@ modified: "2026-09-22"
 
 **关键词：** The girl must be dismissed / never seek her out again
 
-**为什么这样写：** Doctor Lobo 在仪式之前驱逐 Joanna——这不是为了 Leandro 的"康复"，而是为了确保她在仪式期间不在场。读者现在知道他在计划什么：他要利用这个房子里的女人（ Joanna 或"母亲"）进行 ritual murder，而 Leandro 在不知情的情况下成了同谋。
+**为什么这样写：** Doctor Lobo 在仪式之前驱逐 Joaquina——这不是为了 Leandro 的"康复"，而是为了确保她在仪式期间不在场。读者现在知道他在计划什么：他要利用这个房子里的女人（ Joaquina 或"母亲"）进行 ritual murder，而 Leandro 在不知情的情况下成了同谋。
 
 ---
 
