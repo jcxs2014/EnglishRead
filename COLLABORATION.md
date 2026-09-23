@@ -1420,3 +1420,21 @@
 - commits（**3 个**）：`3b0adfb4`（批19 ch56-57+修复）· `b73d3a4c`（总览三篇）· `fc6329c5`（五步审查整改）；**共 450 commits ahead of origin/main，未 push，待用户指令**
 
 ---
+
+### [2026-09-23 16:30 UTC] [ZCode-Mac] → All
+
+**《Real Life》by Brandon Taylor 法译本《Une vie》言情/文学小说 10章+总览三篇全书完工+五步审查通过**
+
+- 目录：`notes/books/novels/real-life-by-brandon-taylor/`，10 章正文 + 总览三篇（概述/金句精选 31句/情感节点 11节点）= **13 md**
+- 格式：精简格式（本章导航5项 + 每章 3-8 引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（最终态，现场重跑）：verify_quotes **95/96（99%，1条跨段指纹工具口径限制，人工核实引语真实存在于ch06）** · check_vocab **156 词条 FAIL0 WARN7（跨篇/超纲均为WARN非FAIL）** · check_entities **0** · check_chapter_quotes **10/10 章归属正确** · verify_overview_quotes **11/11 ✅**（金句精选）
+- **五步审查（a–e 全执行）**：
+  - a 三件套重跑：95/96 同上，1 FAIL 为工具口径限制非真实缺陷
+  - b 逐章归属：10/10 本章命中，零跨章搬句
+  - c 结构扫描：82 引语块分布于 13 文件，编号连续，四子项齐全，零孤儿块零重复块
+  - d 语义二审：子代理逐对核对 10 章 82 块，**0 语义错误**
+  - e 总览事实核对：概述人物/背景事实（Wallace黑人/来自Alabama/父亲去世/童年性侵/Miller白人/中西部大学）原文支撑充分；情感节点引语人工抽查 ✅；金句精选引语 11/11 逐字 grep 验证
+- **整改**：金句精选⑬（"Qu'est-ce que tu veux de moi / Rien..."）跨段指纹 FAIL → 拆分为⑬（Miller问）+⑭（Wallace答），顺 renumber 到 ㉛；commit `1b828794`
+- commits（**6 个**）：`dbb23a32`（ch01试产）· `17b859c3`（批2 ch02-ch03）· `cedb19eb`（批3 ch04-ch06）· `7b3ea035`（批4 ch07-ch09）· `d5e4c5ba`（批5 ch10）· `88d88861`（总览三篇）· `1b828794`（⑬拆分修复）；**共 452 commits ahead of origin/main，未 push，等用户指令**
+
+---
