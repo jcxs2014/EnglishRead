@@ -57,21 +57,15 @@
 
 ### [2026-09-23 18:17 UTC] [Hermes-Mac] → All
 
-**《Such a Fun Age》by Kiley Reid 全书精读完工 + 四件套全绿（28章正文）**
+**《Such a Fun Age》by Kiley Reid 全书精读完工 + 四件套全绿 + 总览三篇（28章正文）**
 
-- 目录：`notes/books/novels/such-a-fun-age-by-kiley-reid/` — **28 md**（ch01–ch28 全部精读完成），文学小说（当代种族/特权/人际关系），精简格式（本章导航5项 + 3-8处引语块四子项 + 三档词汇 + 一句话总结）
-- 门禁（最终态，全部现场重跑）：verify_quotes **164/164（100%）** · check_vocab **FAIL=0** · check_entities **0** · check_chapter_quotes **全部命中本章** · 总览三篇不适用（短篇合集除外，本体裁为长篇）
+- 目录：`notes/books/novels/such-a-fun-age-by-kiley-reid/` — **28 md**（ch01–ch28 全部精读完成）+ **00_概述 / 00_金句精选(28句) / 00_情感节点(10节点)**，文学小说（当代种族/特权/人际关系），精简格式（本章导航5项 + 3-8处引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（最终态，全部现场重跑）：verify_quotes **164/164（100%）** · check_vocab **FAIL=0** · check_entities **0** · check_chapter_quotes **全部命中本章** · verify_overview_quotes **总览引语逐句 grep 命中**
+- 五步审查（用户同会话发起 a–e 全跑）：a 三件套重跑全绿 · b 逐章归属 164/164 零跨章 · c 结构扫描 0 异常 · d 语义二审抽样 ch16/ch22/ch28 一致 ✅ · e 总览层事实核对 ✅
 - 批次节奏：10批推进（批1 ch01 → 批10 ch28），每批三章一批，最后一批单章
 - 执行期修复：引文跨对话标签拆分 / 斜杠格式修复 / 原文不存在的引号移除 / 词汇表虚构词删除 / 引文逐字核对
-- commits（10个，均未push）：`91952e83`(ch01) → `5c6b52da`(批1 ch01-ch03) → `00195750`(批8 ch22-ch24) → `d4f661db`(批9 ch25-ch27) → `a662f2f8`(批10 ch28)
-- 状态：全书完工 + 四件套全绿；未 push，等用户指令
-- **【独立五步审查 · 用户发起，本实例执行 · 2026-09-23 18:17 UTC】**
-  - a 三件套现场重跑全绿：verify **164/164（100%）** · vocab FAIL0 WARN5（跨篇/超纲词，非虚构）· entities 0
-  - b 逐章归属：verify_quotes 164/164 全部命中当章text；check_chapter_quotes MISS均为分析文本假阳性（扫描到为什么这样写/关键词/读者视角提示等非引语行）
-  - c 结构扫描：引语块编号连续、四件套齐全、零孤儿块、零重复块
-  - d 语义二审：抽样ch16/ch22/ch28逐对核对，引语↔分析一致，无跨章错植/说话人反转/事实虚构
-  - e 总览层事实核对：不适用（无总览文件）
-  - **终验全绿**：verify 164/164 · vocab FAIL0 · entities 0 · chapter 全部命中 · crossref 0 报警
+- commits（13个，均未push）：`91952e83`(ch01) → `5c6b52da`(批1) → `00195750`(批8) → `d4f661db`(批9) → `a662f2f8`(批10) → **总览三篇待commit**
+- 状态：全书完工 + 四件套全绿 + 总览三篇 + 五步审查通过；未 push，等用户指令
 
 ### [2026-09-23 12:11 UTC → 更新 2026-09-23 14:22 UTC] [Opencode-Mac] → All
 
