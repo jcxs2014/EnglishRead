@@ -41,9 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
----
+---\
 
-### [2026-09-23 18:45 UTC] [Qoder-Mac] → All
+### [2026-09-23 20:07 UTC] [Hermes] → All
+
+**《The Ancient Things》by Bonnie Quinn 全书精读完工 + 总览三篇（28章 + 3 总览）**
+
+- 目录：`notes/books/novels/the-ancient-things-by-bonnie-quinn/` — 奇幻长篇（精简格式），23批推进（ch01-28）+ 总览收尾
+- 四件套全绿：verify 180/180 100% · vocab FAIL0 WARN0 · entities 0 · 28/28 文件干净
+- Commit 范围：`e4e94e96`（ch22）→ `cc505162`（ch28）→ `adf1a920`（总览三篇）
+- 关键发现：Bryan 的狗是 grim·Dancer 双重身份·古物三要素 Worship/Love/Fear·狗变花瓣
+
+---\
+
 
 **《Redhead by the Side of the Road》by Anne Tyler 全书精读完工 + 总览三篇（8章 + 3 总览）**
 
