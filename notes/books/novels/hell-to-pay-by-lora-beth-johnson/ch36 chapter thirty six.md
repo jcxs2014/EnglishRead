@@ -29,7 +29,7 @@ modified: "2026-09-23"
 
 **为什么这样写：** 开场先用信息量极小的一问一答（髋骨、布朗尼、配方）制造日常感，三行摊出 CJ 的双面人生——地狱打工、社区做人情；两条震惊线的反应差是人物论文（Tolliver 和 Elle 同框目瞪口呆，CJ 和 Benny 自然如常）；"Who are you? I mouth" 用口型不发声——她的失语是本章开篇姿态；随后相框把镜头推进成五人速写：Dante 是物理中心、Tolliver 的视线出卖暗恋、Crowlene 站头顶是旧团队秩序、Poppy 挨着 CJ 记录旧同盟、CJ 的"没笑但有火花"是全句钩子——她的温度从来不靠嘴给；"before Dante died" 放句首当时间状语，等于给整张照片盖遗照钢印，叹气放回相框把抒情压回日常动词。
 
-**读者视角提示：** 一张照片把 ch36 全部关系线一次画清：CJ 的火花是前史（与章末 telempathy 点头呼应）、Poppy 站位是背叛伏笔的旧账页；门外送布朗尼的 CJ 与照片里不笑的 CJ 是同一人——作者用一个 but 把她的两面缝在一起；Crowlene 的高级栖架是冷笑话也是线索：这鸟在这里有编制，她见过 CJ 的另一层生活。
+**读者视角提示：** 一张照片把本章全部关系线一次画清：CJ 的火花是前史（与章末 telempathy 点头呼应）、Poppy 站位是背叛伏笔的旧账页；门外送布朗尼的 CJ 与照片里不笑的 CJ 是同一人——作者用一个 but 把她的两面缝在一起；Crowlene 的高级栖架是冷笑话也是线索：这鸟在这里有编制，她见过 CJ 的另一层生活。
 
 ---
 
@@ -77,7 +77,7 @@ modified: "2026-09-23"
 
 **为什么这样写：** Ezra 的四连排比（jobs go bad / they just do / crew betray / I work alone）是标准的犬儒三段论，被她的"捏脸"用肢体喜剧破解——论点再硬，也怕亲近；随后的争论是全书的一次关系算总账：We 的归属之争（CJ 质疑 our、Elle 反查 finger bone、CJ 翻旧账 unhinged、Elle 质问丢下我）把旧伤与新账塞进十行对话；Tolliver 的三段裁定（转向 CJ、转向我、统一口径）用纯粹的物理转向完成调解——他不参与争论，他负责把结论摆到两边脸上。
 
-**读者视角提示：** "从头到尾我都跟着你这趟离谱的活儿"是 CJ 版的忠诚宣言——她的爱从不正面说，先骂你离谱再默默单干；Tolliver 的 "We're not going to leave you" 直接回应 ch36 前段 Elle 那句 "you all were pretty okay with leaving me after Dante died"——本章的争吵其实是同一块旧疤的两次抓挠。
+**读者视角提示：** "从头到尾我都跟着你这趟离谱的活儿"是 CJ 版的忠诚宣言——她的爱从不正面说，先骂你离谱再默默单干；Tolliver 的 "We're not going to leave you" 直接回应本章前段 Elle 那句 "you all were pretty okay with leaving me after Dante died"——本章的争吵其实是同一块旧疤的两次抓挠。
 
 ---
 

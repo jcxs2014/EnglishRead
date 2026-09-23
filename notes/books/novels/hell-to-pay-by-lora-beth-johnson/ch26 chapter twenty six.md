@@ -85,7 +85,7 @@ modified: "2026-09-23"
 
 **中文理解：** 摔伤让我慢了半拍，抬起头正好看见地狱犬开枪打中 Dante。然后我看着哥哥解体。那不是利落的消失、瞬间的蒸发——有一瞬间我以为全弄错了。可接着 Dante 开始从外向内烧掉，蜷缩着塌向自己，脸上还挂着震惊，直到那张脸也没了，他站过的地方只剩空。
 
-**关键词：** shot Dante（开枪打中 Dante）/ watched my brother disintegrate（看着哥哥解体）/ burning away from the outside in（从外向内烧尽）
+**关键词：** shoot Dante（开枪打中 Dante）/ watched my brother disintegrate（看着哥哥解体）/ burning away from the outside in（从外向内烧尽）
 
 **为什么这样写：** 死亡被拆成五拍慢镜：开枪→否认（mistake）→燃烧→蜷缩→空无——与 ch23 Ezra "Just gone." 的三行速写刻意相反：别人的死干脆利落，她的死被逐帧凌迟；"a shocked look on his face"给尸体保留了表情，直到"连震惊都没了"，作者连他的情绪都替他熄灭。
 

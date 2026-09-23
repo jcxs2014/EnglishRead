@@ -93,7 +93,7 @@ modified: "2026-09-23"
 
 ---
 
-> **原句 7:** “Of course, but Tartarus is a big place.” That knocks the wind out of me. It’s one thing to have a theory that your brother’s soul is in hell. It’s另一 thing entirely to have it confirmed.
+> **原句 7:** “Of course, but Tartarus is a big place.” That knocks the wind out of me. It’s one thing to have a theory that your brother’s soul is in hell. It’s another thing entirely to have it confirmed.
 
 **中文理解：** "当然，不过塔耳塔洛斯地方大得很。"这句话把我肺里的气全砸空了。猜测哥哥的灵魂在地狱是一回事，被权威当面确认是完全另一回事。
 
