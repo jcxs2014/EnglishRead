@@ -129,7 +129,7 @@ modified: "2026-09-23"
 
 **为什么这样写**："hate/fear" 的四词对折是本书 fae-human 政治学的终极压缩——恨是怕穿了鞋的版本；Emerlyn 想出席告别礼的动机 "to understand the people who brought you up" 恰与 ch25 她那句 "You could stay here in fae country, in the White City, and rule over the council" 的邀请互为反面：两边都想看看对方的世界，而送葬成了唯一被允许的互访；"Be safe" 被叙述者点破 "it felt maternal to Morgana"——她此生第一次从血亲嘴里领受寻常祝福，作者把重量压在最轻的三个字母上。
 
-**读者视角提示**：结尾 "Emerlyn added, under her breath, 'My dear.' Morgana, on her way out the door, nearly tripped in surprise." ——ch25 她拒绝谈 vow、拒绝认亲，如今被一声气音的 "My dear" 绊倒；身体永远先于立场诚实。
+**读者视角提示**：结尾 "Emerlyn added, under her breath, 'My dear.'…Morgana, on her way out the door, nearly tripped in surprise." ——ch25 她拒绝谈 vow、拒绝认亲，如今被一声气音的 "My dear" 绊倒；身体永远先于立场诚实。
 
 ## 本章词汇
 

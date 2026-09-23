@@ -7,7 +7,7 @@ modified: "2026-09-23"
 
 ## 本章导航
 
-**一句话概括**：风暴后的团圆晚餐上，Braithe 偷听到 Emerlyn 藏了一生的心事并推她开口——"I was the Lady's mother, long ago"，Morgana 与Emerlyn 隔代认亲、当场拒掉精灵王冠；卜视池里 Camulod 的胜利蓝旗旁躺着覆了血单的 Lancelin，三人即刻登船返岛，码头上 Emerlyn 还留下一句"曾孙"的祈愿。
+**一句话概括**：风暴后团圆的次日早餐桌上，Braithe 偷听到 Emerlyn 藏了一生的心事并推她开口——"I was the Lady's mother, long ago"，Morgana 与Emerlyn 隔代认亲、当场拒掉精灵王冠；卜视池里 Camulod 的胜利蓝旗旁躺着覆了血单的 Lancelin，三人即刻登船返岛，码头上 Emerlyn 还留下一句"曾孙"的祈愿。
 
 **情感弧线位置**：回落与再起段——ch24 复仇风暴后全书最完整的一顿团圆饭，血缘启示给逃亡线画上句点；血单卜视又把战争线一把拽回台前，节奏由"回家"切换为"赶路"。
 

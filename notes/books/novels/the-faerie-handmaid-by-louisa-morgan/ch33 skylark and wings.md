@@ -29,7 +29,7 @@ modified: "2026-09-23"
 
 **关键词**：brought our lad back·champion
 
-**为什么这样写**：Hugh 一句话说清平民的恩义账本——ch25 是他沉默划船送他们离开白城，ch30 他缺席，本章他用一条船还清；"I'm Braithe's champion" 是 Idhri 对 ch30 Lancelin "a champion about" 一词的领养式挪用：他成不了持剑的爵士，就当持桨的骑士；而 Emma "See you come back safe. And soon!" 让这家人第三次目送他为一位女性冒险——ch27 "We are what we do" 的家训已在他身上自动运转。
+**为什么这样写**：Hugh 一句话说清平民的恩义账本——ch03 是他不情不愿持桨把一行人送进雾中白城，ch25 沉默划船送他们离城的却是 Emerlyn 安排的半血 boatmaster（不是他），ch30 他缺席，本章他亲自持桨还清这笔恩义账；"I'm Braithe's champion" 是 Idhri 对 ch30 Emma 对 Lancelin 那句 "Good to have a champion about, sir" 的领养式挪用：他成不了持剑的爵士，就当持桨的骑士；而 Emma "See you come back safe. And soon!" 让这家人第三次目送他为一位女性冒险——ch27 "We are what we do" 的家训已在他身上自动运转。
 
 **读者视角提示**：黑莓季报时——"When the bramble berries come on, summer is almost over"，布丁入口即丧钟上路；作者让读者先尝到全书最暖的一口晚饭，再把它打翻。
 
@@ -47,7 +47,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：全书的 premonition 系统第一次以第一人称说出 "I feel it"——ch28 Morgana 上船时的 "quiver of premonition" 换到了 Braithe 身上，ch30 它 "persisted with a stubbornness"，读者一直以为预告的是 Gwen 或别的悬账，结果应验在 Morgana 的养父；"I cannot explain" 是魔法叙事最好的分寸——感受先于信息，身体就是电报；而 Braithe 担心错了对象："She had been worried for Morgana, when it was the Blackbird she should have thought of."
 
-**读者视角提示**："It might be too late today. The evenings are drawing in." ——Idhri 的天色提醒同时是结构提醒：ch32 的死亡发生在白天，本章夜渡是迟到的奔丧；"I should have guessed." 这句自谴，与 ch30 Morgana "I wish you had better news" 的自谴隔章成对。
+**读者视角提示**："It might be too late today. The evenings are drawing in." ——Idhri 的天色提醒同时是结构提醒：ch32 的死亡发生在白天，本章夜渡是迟到的奔丧；"I should have guessed." 这句自谴，与 ch32 Morgana "I wish you had better news" 的自谴前后成对。
 
 ---
 

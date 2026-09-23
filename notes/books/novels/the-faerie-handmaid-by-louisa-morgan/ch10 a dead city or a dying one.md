@@ -31,9 +31,9 @@ modified: "2026-09-23"
 
 **关键词:** perfect city, everything natural, eradicated
 
-**为什么这样写：** eradicate 是园艺动词（根除杂草），用在一座城里， Morgana 的语法泄露了她的判断标准：以草木为尺度，白城是一块绝育的花圃。前面三个排比细节（no birds / no butterflies or bees / not so much as a dog or a cat）从野到驯逐级搜捕，结论才落下——这一句直接接回 ch06 "deliberately bland" 与 ch08 "no music, no art, no children"：自然的死亡与文化的死亡在作者笔下是同一场灭绝的两期报告。
+**为什么这样写：** eradicate 是园艺动词（根除杂草），用在一座城里， Morgana 的语法泄露了她的判断标准：以草木为尺度，白城是一块绝育的花圃。前面三个排比细节（no birds / no butterflies or bees / not so much as a dog or a cat）从野到驯逐级搜捕，结论才落下——这一句直接接回 ch06 "deliberately bland" 与 ch08 "We have stopped making art. And we have virtually ceased having children."：自然的死亡与文化的死亡在作者笔下是同一场灭绝的两期报告。
 
-**读者视角提示：** 章末出城即有 yarrow、juniper、berry thickets——"自然"没死绝，被赶出了城墙；精灵保留田野只为吃饭，这与 ch08 "all labor has devolved onto the servants" 构成完整的城乡结构：城里是停灵所，城外是庄园。
+**读者视角提示：** 章末出城即有 yarrow、juniper、berry thickets——"自然"没死绝，被赶出了城墙；精灵保留田野只为吃饭，这与 ch09 "all labor has devolved onto the servants" 构成完整的城乡结构：城里是停灵所，城外是庄园。
 
 > **原句 3:** This city—the spotless streets, the bland parks, the emptiness, the chaotic magic swirling everywhere—it seems designed to block me.
 

@@ -9,7 +9,7 @@ modified: "2026-09-23"
 
 - **一句话概括**：Morgana 点将的理由说完，Braithe 接下任务并说出全章的题眼——"I am more or less invisible"；Idhri 第一次抢话自荐（他在田里见过半血监工），两人扮仆役混进议事厅给代表们送饮食；为伪装，Braithe 要剪掉一头金卷发，Idhri 用草药剪替她剪发，剪得有模有样；Emerlyn 私下向 Morgana 交了更深的底（精灵不再触碰彼此、女儿已逝、生父无人知晓），临去留一句"我会尽力保护你们"；夜里一名生来为仆的中年女役送来棕色衣束并警告"他们有种办法捆住我们"，Morgana 的预感像浅水里蝌蚪一样在胃中发颤——占卜只见空椅，全书行动章在"By the hand of the Lady, let it be so."的祝愿中上弦。
 - **情感弧线位置**：ch11 被点为"答案"之后的备战章：从接受任务→献出发→互交底牌，紧张感靠"送来的衣服"和"无法验证的预感"逐格上抬。
-- **人物弧线**：Braithe 把"隐形"从屈辱改写成武器；Idhri 完成三连跳（抢话自荐→执剪如执兵器→"Such a risky business!"的玩笑），胆量与手艺同步长；Morgana 第一次对同类（Emerlyn）谈到自己的出生，也第一次没给 Braithe 做护身符的自己心虚。
+- **人物弧线**：Braithe 把"隐形"从屈辱改写成武器；Idhri 完成三连跳（抢话自荐→执剪如执兵器→"Such a risky business!"的玩笑），胆量与手艺同步长；Morgana 第一次对同类（Emerlyn）谈到自己的出生，也第一次为没给自己做护身符而心虚（原文 'Perhaps she should have made one for herself' 是 Morgana 自况——Braithe 的符并未缺席）。
 - **叙事手法**：三条"警告链"叠进同一晚（老妇 ch11→送衣女仆本章→Emerlyn 的"protect you"），Morgana 的 premonition 与她平日教导 Braithe "never to ignore her intuition" 自相矛盾——作者让人物亲手给自己布下 flag；Braithe 的三种魔法比喻（庙里明灯/岛上清湖/泥河急流）是全书魔法体系最清晰的一次表述。
 - **读者视角提示**："she would have no compunction about attempting it"——Braithe 动念偷读他人心思且毫无负罪感，这句只有读者知道；下一章她若"恰好"读出什么，请记住这个念头是先于行动的。
 
@@ -31,7 +31,7 @@ modified: "2026-09-23"
 
 **关键词:** half-blood, overseer, I can do this
 
-**为什么这样写：** Idhri 打断两位女士的对话（"Morgana began, but Idhri interrupted"）——本书第一次他先于长辈开口抢任务。他的论据不是勇气而是 ch11 的田野观察：半血监工的存在证明"半血扮仆从役"在白城是可见的真实，不是猜想。三个短句零形容词，与 ch08 里"Idhri blurted"的哭腔对照，同一副嗓子已完成升级。Braithe 反对（"I don't think this is a good idea"）恰是她爱护他的旧姿态；Morgana 拍板用的是旧逻辑："Your charms will protect both of you."
+**为什么这样写：** Idhri 打断两位女士的对话（"Morgana began, but Idhri interrupted"）——本书第一次他先于长辈开口抢任务。他的论据不是勇气而是 ch10 的田野观察：半血监工的存在证明"半血扮仆从役"在白城是可见的真实，不是猜想。三个短句零形容词，与 ch08 里"Idhri blurted"的哭腔对照，同一副嗓子已完成升级。Braithe 反对（"I don't think this is a good idea"）恰是她爱护他的旧姿态；Morgana 拍板用的是旧逻辑："Your charms will protect both of you."
 
 **读者视角提示：** Emerlyn 立刻戳破："Not in the council chamber... There are blocks that neutralize all magicks."——符咒在进入议事厅那一刻就是废铁；这句话是全书迄今对"计划"最重的一次消音，而两个孩子仍然报名了。
 
@@ -83,7 +83,7 @@ modified: "2026-09-23"
 
 **为什么这样写：**  tadpole 是全书迄今最不安的比喻：蝌蚪=未成形的东西，浅水=随时蒸发或干涸的处境；预感有形体、有心跳，但物种未定——Morgana 感到的威胁连她自己都认不出类别。resurfaced 说明它先前只是潜下去了；与上一段 "she had told Braithe more than once never to ignore her intuition" 并置，构成本章最锋利的反讽：导师此刻正在违抗自己的教条，因为 "Her compulsion to protect Lloegyr was more intense than her premonition."——compulsion 压过 premonition 的那杆天平，作者让读者先看清楚砝码。
 
-**读者视角提示：** 三行之后 "Perhaps she should have made one for herself."——全书第一枚没有做出去的护身符；它会在接下来的行动里以别的方式结算。
+**读者视角提示：** 三行之后 "Perhaps she should have made one for herself."——Morgana 头一回想到该给自己也备一枚护身符；它会在接下来的行动里以别的方式结算。
 
 > **原句 8:** "By the hand of the Lady, let it be so."
 
@@ -93,7 +93,7 @@ modified: "2026-09-23"
 
 **为什么这样写：** Morgana 全书第一次把祝愿说成固定句式（by the hand of... 是 Temple 的誓词骨架），且说出口前 "eyes flashed gold before she lowered her lids to hide them"——金瞳一闪即藏，祭司在人前的信念声明与人后的不安同步交付。前一句 "Brat, I wish you would take care tomorrow. Try not to take any chances." 用的是软语气（wish/try），被 Braithe 用 "Of course" 滑过去，最后这句誓词才是她真正的送行方式。而 Braithe 的应答也早已给过："I will not be alone. I will have Idhri."——"A boy." / "The king is a boy." 之后 Morgana 只剩一声 sigh 可叹。
 
-**读者视角提示：** 章末合上的不是门是账本：没做的护身符、咽回去的女儿半句、看不见人的占卜、送衣人关于"bind"的警告——四样都在等下一章开票。
+**读者视角提示：** 章末合上的不是门是账本：没给自己做的护身符、咽回去的女儿半句、看不见人的占卜、送衣人关于"bind"的警告——四样都在等下一章开票。
 
 ## 本章词汇
 

@@ -27,7 +27,7 @@ modified: "2026-09-23"
 
 **关键词**：protect the fae from learning·rather than
 
-**为什么这样写**：这是 Braithe 替 ch08 那条 "Rule" 做的倒置注脚：读者一直被告知"精灵不得与人类同居"是隔离条款，而她点破其真正功能是屏蔽认知——不让强者看见弱者的脸；ch16 Faolin 那句 "It’s the Rule" 式的自辩由此失去最后一层体面，"被保护的无知"成了精灵体制的原罪。
+**为什么这样写**：这是 Braithe 替 ch08 那条 "Rule" 做的倒置注脚：读者一直被告知"精灵不得与人类同居"是隔离条款，而她点破其真正功能是屏蔽认知——不让强者看见弱者的脸；ch17 Emerlyn 那句 "It’s one of the Rules, and everyone observes it." 式的自辩由此失去最后一层体面，"被保护的无知"成了精灵体制的原罪。
 
 **读者视角提示**：紧接的一句 "And she would never, in her wildest dreams, have thought herself capable of magic." 请与前半段并读——ch05 的 Braithe 连离开 croft 都没想过；作者用"离开才敢想象"给 ch13 那句 "This is my time." 补了一条注脚：她的自信不是天赋，是路程。
 
@@ -87,7 +87,7 @@ modified: "2026-09-23"
 
 **关键词**：wielding his oars backward·lithe·assisted by
 
-**为什么这样写**：时间膨胀的喻体取自 Idhri 的母语——桨——ch16 以来"划船肌"是他的族谱，危机时刻大脑自动用行船经验重画战场：别人快我慢，其实是"倒桨"式的相对静止；而 "assisted by Priestess Morgana’s charm" 一笔回收 ch13 起就挂在 Idhri 胸前的护符（"his charm of protection hung beneath his tunic"），本书的护持从不浪费。
+**为什么这样写**：时间膨胀的喻体取自 Idhri 的母语——桨——ch01 以来"划船肌"是他的族谱，危机时刻大脑自动用行船经验重画战场：别人快我慢，其实是"倒桨"式的相对静止；而 "assisted by Priestess Morgana’s charm" 一笔回收 ch13 起就挂在 Idhri 胸前的护符（"his charm of protection hung beneath his tunic"），本书的护持从不浪费。
 
 **读者视角提示**："But Idhri wasn’t there." 与上两段 Skye 那记 "his knife flashing toward Idhri's heart" 对撞——这是全书第一次由半血在精灵法术上占上风，ch03 起就跟着他的 "half-blood" 骂语在此变成了优势陈述，而作者拒绝神化：护符、年少年瘦、还有 Skye 自己的伤肩——ch07 那记 "struck Skye's shoulder instead" 的铁火钳直到今天还在疼——三样都借了力。
 
@@ -121,7 +121,7 @@ modified: "2026-09-23"
 
 **为什么这样写**："bear this on your conscience" 是全章判决句：惩罚可以外包，罪疚不能——Morgana 接走的不是复仇的快意，是复仇的债，这比 ch20 她带走 Gwen 更进一步：那次是救人于牢笼，这次是救少年于自己；而 "angry... but also... relieved" 的"双非句式"精确复刻创伤者的真实情绪层：被救的感激必须经过愤怒才能抵达。
 
-**读者视角提示**：Morgana 此刻的形象是 ch23 "a lamp in the darkness" 的再一次显影——"her silver hair brilliant in the slanting light... the palm glistening as if a lamp burned there"；Braithe 站在她身旁 "Her eyes brimmed with sympathy and understanding. He saw no criticism in them."——一个发光、一个不责备，两位女性一左一右完成了本书的"收容式正义"。
+**读者视角提示**：Morgana 此刻的掌心灯影与 ch23 遥相对位——当年 "a lamp in the darkness" 指的是 Emerlyn 举起的"那只皱结却稳定的手"；今日轮到 Morgana "the palm glistening as if a lamp burned there"：两代女人先后把执法的光举进黑暗；Braithe 站在她身旁 "Her eyes brimmed with sympathy and understanding. He saw no criticism in them."——一个发光、一个不责备，两位女性一左一右完成了本书的"收容式正义"。
 
 ---
 

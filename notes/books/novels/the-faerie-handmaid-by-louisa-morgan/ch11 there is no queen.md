@@ -10,7 +10,7 @@ modified: "2026-09-23"
 - **一句话概括**：回城的路上与早餐桌上，真相连着揭开三层：一位种田的老妇人冒失死提醒 Braithe"别信他们"；Emerlyn 与 Morgana 在餐桌两端认出彼此是同一种孤独——然后她压低声音交底：**白城根本没有女王**，"女王"只是议会用来镇住代表的虚构；Braithe 的感知天赋在白城魔法里越泡越强，Morgana 却相反地枯竭；章末 Morgana 宣布今天从狐、雀、小鼠那里得到的答案是——要揪出诅咒 Mordred 的人，**得靠 Braithe**。
 - **情感弧线位置**：ch10 低谷回血后的"结盟章"：外部情报（老妇警告）→ 内部坦白（无女王）→ 队伍升级（祭司把侍女点为答案），关系网从互保走到互信。
 - **人物弧线**：Emerlyn 从官僚变成同类（"Do call me Emerlyn"），并交出全书最大政治真相；Braithe 的天赋第一次被两位长辈同时确认为"从未出过错"；Morgana 完成从"请求者"到"宣布者"的语气转变（"It will be Braithe."）。
-- **叙事手法**：早餐桌对话承担全书信息密度最高的一章——三条线（老妇警告/无女王/天赋反转）全部用"餐桌两侧的距离"来度量；ch08 "there is no queen?" 的伏笔（"now is not the best moment"）在本章就地兑现。
+- **叙事手法**：早餐桌对话承担全书信息密度最高的一章——三条线（老妇警告/无女王/天赋反转）全部用"餐桌两侧的距离"来度量；ch08 的伏笔问句（"And where is your queen?" 与 "But now is not the best moment."）在本章就地兑现。
 - **读者视角提示**：注意谎言主题的转调——Morgana 听到"无女王"时想到的是 changeling（"deception upon deception, lie upon lie"），白城的结构性欺骗与她自己的身世骗局被作者并进同一条句子里。
 
 ## 精读
@@ -41,7 +41,7 @@ modified: "2026-09-23"
 
 **关键词:** distasteful
 
-**为什么这样写：** Emerlyn 对田野草木的回答只有两个短句，却划出全书最大的一道文化断层：ch10 Morgana 说 "The creatures of the woods and fields connect me with the wisdom of the world"，此处议会代表用 distasteful 一词把这份智慧退回。注意她 "gave a small but visible shudder"——厌恶到了生理层。作者随即让 Morgana 压不住火："They are hardly more dangerous than your citizens, Councillor."——把"动物危险论"原路奉还成人权审判。
+**为什么这样写：** Emerlyn 对田野草木的回答只有两个短句，却划出全书最大的一道文化断层：本章 Morgana 前文答议会语 "The creatures of the woods and fields connect me with the wisdom of the world"，此处议会代表用 distasteful 一词把这份智慧退回。注意她 "gave a small but visible shudder"——厌恶到了生理层。作者随即让 Morgana 压不住火："They are hardly more dangerous than your citizens, Councillor."——把"动物危险论"原路奉还成人权审判。
 
 **读者视角提示：** 紧接着 Morgana 感到的情绪是 "sympathy, verging on pity"，而她自己 "had not expected to feel that way"——祭司第一次同情这座城的统治者；这份意外为章末 Emerlyn 的交底做了情感铺垫。
 
@@ -81,7 +81,7 @@ modified: "2026-09-23"
 
 **关键词:** maintain the fiction, in check
 
-**为什么这样写：** fiction/in check 是整章的概念对子：虚构不是为了欺瞒，而是治理工具——把 ch08 "boredom" 的诊断升级为制度诊断（没有恐惧的议会只会内讧）。"maintain" 一词最累：它说明这台虚构机器每天要有人添煤——Emerlyn 就是司炉工，所以她 "eat very little"、"have no one"。Braithe 的补刀更冷：女王不是 Lady，是 "another who came after, or was supposed to"，最后 "Died or fled, I don't know"；Emerlyn 纠正为 "Disappeared."——一个词的替换暴露她不愿追问的立场。
+**为什么这样写：** fiction/in check 是整章的概念对子：虚构不是为了欺瞒，而是治理工具——把 ch09 "boredom" 的诊断升级为制度诊断（没有恐惧的议会只会内讧）。"maintain" 一词最累：它说明这台虚构机器每天要有人添煤——Emerlyn 就是司炉工，所以她 "eat very little"、"have no one"。Braithe 的补刀更冷：女王不是 Lady，是 "another who came after, or was supposed to"，最后 "Died or fled, I don't know"；Emerlyn 纠正为 "Disappeared."——一个词的替换暴露她不愿追问的立场。
 
 **读者视角提示：** Morgana 的内心旁白 "It all reminded her of the changeling, deception upon deception, lie upon lie."——作者在此把"换子"与"空头女王"叠印：她查的诅咒案与这座城的底层代码是同一种罪；这个联想后面还会回头咬她。
 

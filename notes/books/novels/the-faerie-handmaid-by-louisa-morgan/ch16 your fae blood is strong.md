@@ -21,7 +21,7 @@ modified: "2026-09-23"
 
 **①**
 
-> "He had promised to be Braithe’s protector. He aspired to be her champion."
+> “He had promised to be Braithe’s protector. He aspired to be her champion.”
 
 **中文理解**：他承诺过做 Braithe 的守护者。他渴望成为她的捍卫者。
 
@@ -65,13 +65,13 @@ modified: "2026-09-23"
 
 **④**
 
-> "That curtain had refused to budge even an inch for more than two years, since Emma and Hugh took him in."
+> “That curtain had refused to budge even an inch for more than two years, since Emma and Hugh took him in.”
 
 **中文理解**：那道幕布两年多来纹丝不动，自从 Emma 和 Hugh 收留他之后。
 
 **关键词**：curtain·refused to budge·took him in
 
-**为什么这样写**：魔药/魔法段落撬开了 Idhri 被封存的两年的记忆（火焰、小屋轮廓），而触发条件被明确列为"恐惧+魔法泛滥"——创伤记忆的重启不是痊愈，章末 "He feared it was nothing good." 立刻给希望降温。
+**为什么这样写**：魔法泛滥的段落撬开了 Idhri 被封存的两年的记忆（火焰、小屋轮廓），而触发条件被明确列为"恐惧+魔法泛滥"——创伤记忆的重启不是痊愈，章末 "He feared it was nothing good." 立刻给希望降温。
 
 **读者视角提示**：Emma/Hugh 是 ch01 起就出现的养父母名字；"幕布"意象自 ch01 起就是 Idhri 身世线的核心装置，本章是它第一次自己动了。
 
@@ -123,7 +123,7 @@ modified: "2026-09-23"
 
 **⑧**
 
-> "She did have magic. It might not be much, and it had been slow to develop, but it was real."
+> “She did have magic. It might not be much, and it had been slow to develop, but it was real.”
 
 > She meant to find out just how strong one human girl’s magic could be.
 

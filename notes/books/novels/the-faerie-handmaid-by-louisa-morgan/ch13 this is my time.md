@@ -71,7 +71,7 @@ modified: "2026-09-23"
 
 **关键词:** produce nothing, argue and argue, only to exist
 
-**为什么这样写：** 这是 Morgana 口中 "The only time she had ever seen Braithe truly angry"（上一次是对 changeling）之后的第二次真怒，且从私仇升为政论：排比三句（produce/argue/exist）把 ch08 的 "boredom" 诊断、ch10 的 "wasted" 指控、ch11 的田野劳作全部并进控诉词。"I don't know, Priestess" 的中途卡壳最真实——她在愤怒里第一次触及无底的问题（一个统治阶级为何而存在），找不到词，只好让破折号悬着。前文 Morgana 那句假设（"what would happen if the servants just—stopped serving"）已被 Braithe 接成冷笑话（"There would be a lot of hungry fae"），愤与谑同锅，这是本书写穷人尊严的标准火候。
+**为什么这样写：** 这是 Morgana 口中 "The only time she had ever seen Braithe truly angry"（上一次是对 changeling）之后的第二次真怒，且从私仇升为政论：排比三句（produce/argue/exist）把 ch09 的 "boredom" 诊断、ch10 的 "wasted" 指控、ch11 的田野劳作全部并进控诉词。"I don't know, Priestess" 的中途卡壳最真实——她在愤怒里第一次触及无底的问题（一个统治阶级为何而存在），找不到词，只好让破折号悬着。前文 Morgana 那句假设（"what would happen if the servants just—stopped serving"）已被 Braithe 接成冷笑话（"There would be a lot of hungry fae"），愤与谑同锅，这是本书写穷人尊严的标准火候。
 
 **读者视角提示：** 她随即被 Morgana 用魔法伦理按住："you have seen how evil too much of it can be"——Braithe 的回应（"That's why we're here"）说明她完全听懂：愤怒不能换成力量，只能换成任务。
 

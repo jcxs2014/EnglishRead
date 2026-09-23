@@ -109,7 +109,7 @@ modified: "2026-09-23"
 
 **关键词**：ten men·at the oars·manage the boat
 
-**为什么这样写**：Lady 的介入方式是最 Camulod 的——不放电不显形，只借一阵风，"Under her breath, she prayed" 与 ch25 "Braithe prayed her magic would not wither" 同一条祈祷线接通；Lancelin 的 "The—what?" 保留了他全部的常识怀疑，而下一句 "dug the oars into the water again to steer" 已经行动投降——骑士不信神学，但服从结果；战术洞察全归 Braithe：她隔着湖水读出 Skye 的恐惧（不敢停、不会游泳、"white marks of fear around his mouth"），敌人身上的每一处无能都被她清点成武器清单。
+**为什么这样写**：Lady 的介入方式是最 Camulod 的——不放电不显形，只借一阵风，"Under her breath, she prayed" 与 ch25 "She prayed her magic would not wither soon." 同一条祈祷线接通；Lancelin 的 "The—what?" 保留了他全部的常识怀疑，而下一句 "dug the oars into the water again to steer" 已经行动投降——骑士不信神学，但服从结果；战术洞察全归 Braithe：她隔着湖水读出 Skye 的恐惧（不敢停、不会游泳、"white marks of fear around his mouth"），敌人身上的每一处无能都被她清点成武器清单。
 
 **读者视角提示**："They were terrifyingly far out on the water." 到 "We have to stop now!" 的距离变化全靠速度魔法完成调度；Idhri "from beneath his cap" 抬头的少年脸——ch35 与 ch24 的猎犬之眼叠影，读者才惊觉他始终没长出凶器。
 

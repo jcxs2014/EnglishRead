@@ -53,7 +53,7 @@ modified: "2026-09-23"
 
 **为什么这样写：** 叙事的立场学：作者让 Morgana（在场最高身份者）主动放弃纠正权，借她的沉默给 Braithe 的越级发言盖章——"every right to be angry" 是全书第一次由叙述者出面裁定谁有愤怒的资格。对照上一批章节里她的处境：在议事厅她只能被 Emerlyn 领出场（ch06 "Morgana had no choice but to follow Emerlyn out"），此刻却容许一个人类孤女用裸句质问议员——本书写"同盟"的方式，是让强者把自己的礼貌额度让给弱者花。
 
-**读者视角提示：** 前一段 Braithe 刚引用母亲的话（"The fae do what they like with humans, and we humans pay the price"）——人间一线对精灵的世仇记忆由她接过来，本章她每说一句，都是在替一条被处置过的血脉说话。
+**读者视角提示：** 后一段 Braithe 紧接着引用母亲的话（"The fae do what they like with humans, and we humans pay the price"）——人间一线对精灵的世仇记忆由她接过来，本章她每说一句，都是在替一条被处置过的血脉说话。
 
 > **原句 5:** What humans lack in magic they make up in honor.
 

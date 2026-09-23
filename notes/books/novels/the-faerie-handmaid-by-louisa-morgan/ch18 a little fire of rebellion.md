@@ -43,7 +43,7 @@ modified: "2026-09-23"
 
 **关键词**：have me·might kill you
 
-**为什么这样写**：两句同段相邻是作者的狠笔——Skye 对 Gwen 的"请求所有权"证明这类"货物转手"在精灵社会里是可以说出口的常态；紧接着 Gwen 对封锁之痛的警告，把"人口财产"与"致命结界"并排摆在 Braithe 面前：她要闯的那道门，既是刑具也是账本。
+**为什么这样写**：两句隔着整场戏，却像同一份货单的两行——Skye 对 Gwen 的"请求所有权"证明这类"货物转手"在精灵社会里是可以说出口的常态；Gwen 对封锁之痛的警告，把"人口财产"与"致命结界"并排摆在 Braithe 面前：她要闯的那道门，既是刑具也是账本。
 
 **读者视角提示**：Gwen 那句 "I never found out."（她没知道自己被"要"的结果）是留白——Skye 与 Faolin 的交情线后续还有戏，先记下这个名字的两次"缺口"。
 
@@ -121,7 +121,7 @@ modified: "2026-09-23"
 
 **关键词**：altered by time·meanness·comes with me
 
-**为什么这样写**：父子对照只用一个"again"点到为止（ch07 初见时已轰过一回）——三次名词并列（time/meanness/corruption）是 Idhri 对"我若留在精灵社会"的恐惧具象化；Skye 的索人句法与 ch16 Faolin 的 "gave me back" 同属人口所有格的语法，本章反派阵营的语言互相押韵。
+**为什么这样写**：父子对照只用一个"again"点到为止（ch04 初见那张"镜子脸"时已轰过一回）——三次名词并列（time/meanness/corruption）是 Idhri 对"我若留在精灵社会"的恐惧具象化；Skye 的索人句法与 ch16 Gwen 证词里的 'he gave me back to Faolin' 同属人口所有格的语法，本章反派阵营的语言互相押韵。
 
 **读者视角提示**：Skye "still favoring the shoulder Idhri had struck"——ch07 铁杖那一击的余痛还在；Idhri 上次面对他只能挥棍，这次他手里有 charm、身边有 Morgana，力量对比的位移读者应自行清点。
 

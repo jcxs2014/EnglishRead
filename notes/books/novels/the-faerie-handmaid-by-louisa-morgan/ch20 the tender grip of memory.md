@@ -75,7 +75,7 @@ modified: "2026-09-23"
 
 **关键词**：balancing·jagged shards
 
-**为什么这样写**：日落一线的天象与 ch16 卜视池边看出的"高墙、黑门"逐一咬合（dark gray, nearly black, just as the vision from Braithe had shown）——幻象线索全部兑清，唯独主角缺席；那扇破窗是两线交汇的物证：读者认得，那是 Braithe 昨夜用陶罐砸出来的出口，Morgana 看到的"闯入痕迹"恰是自救的痕迹。
+**为什么这样写**：日落一线的天象与 ch16 卜视池边看出的"高墙、黑门"逐一咬合（dark gray, nearly black, just as the vision from Braithe had shown）——幻象线索全部兑清，唯独主角缺席；那扇破窗是两线交汇的物证：读者认得，那是 Braithe 刚刚用陶罐砸出来的出口，Morgana 看到的"闯入痕迹"恰是自救的痕迹。
 
 **读者视角提示**："She was here," she said bitterly. "But she is no longer." ——救援线攒了三章的希望在本句兑现成空房； bitterness 不是失望是自责，请注意下一章她如何安置这口气。
 
@@ -123,7 +123,7 @@ modified: "2026-09-23"
 
 **关键词**：you will know pain·doubled over·ten steps away
 
-**为什么这样写**："as if he had kicked her" 的 "as if" 是全章最冷的一词——痛是远程魔法，但十年的驯化让她的身体分不清真假、先一步服从；这与 ch16 Braithe 所历同术（中腹之痛"as if something had stabbed her"），作者用同一解剖位置标记同一人的作案签名。
+**为什么这样写**："as if he had kicked her" 的 "as if" 是全章最冷的一词——痛是远程魔法，但长年累月的驯化让她的身体分不清真假、先一步服从；这与 ch16 Braithe 所历同术（中腹之痛"as if something had stabbed her"），作者用同一解剖位置标记同一人的作案签名。
 
 **读者视角提示**："Your victim is coming with me." ——Morgana 不再说"客人/仆人"，直接命名 victim；命名即执法的开始，Faolin 之后 "You can’t hurt me" 的心虚反问正是被这套新语法吓到。
 

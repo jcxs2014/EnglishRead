@@ -71,7 +71,7 @@ modified: "2026-09-23"
 
 **关键词:** lurch of sickness, took the place of, for certain
 
-**为什么这样写：** 全书 changeling 设定从童话层坠入犯罪层：ch04 她亲手护理过"假 Idhri"的宿体、ch08  emergence 案卷里 changeling 是武器，本章才亮出流水线的末端——被换走的本尊们关在 Faolin 们家里，"No one knows I'm missing." 是整条产业链得以运转的许可证。"It was one of her mam’s warning tales come true. It was ghastly in real life."——母亲的睡前警告故事与现实的落差只用了两个短句，是本书对"民间故事即档案"最直白的一次认领。名单继续加长：别的女孩呢？"They’re gone. He gets tired of them, and they disappear."——"to where?" 得到的回答是 "I don't know. He never says."：失踪者连失踪统计都做不了。Braithe 对 Gwen 的复杂视线也在此定型——"she couldn’t help seeing Gwenvere when she looked at Gwen, which made the old loathing burn in her breast. But that wasn’t fair to this poor creature."——恨意与对象当场分离，她亲手纠正自己的共感误差。
+**为什么这样写：** 全书 changeling 设定从童话层坠入犯罪层：ch03 她村子的民俗档案里 changeling queen 早已在册——精灵顶替人间女孩、几乎倾覆 Lloegyr（"substituted for some innocent girl who had disappeared completely"），ch09 议事厅点名的嫌犯正是 "the same ones who sent the changeling queen to betray King Arthur Dragoun"，本章才亮出流水线的末端——被换走的本尊们关在 Faolin 们家里，"No one knows I'm missing." 是整条产业链得以运转的许可证。"It was one of her mam’s warning tales come true. It was ghastly in real life."——母亲的睡前警告故事与现实的落差只用了两个短句，是本书对"民间故事即档案"最直白的一次认领。名单继续加长：别的女孩呢？"They’re gone. He gets tired of them, and they disappear."——"to where?" 得到的回答是 "I don't know. He never says."：失踪者连失踪统计都做不了。Braithe 对 Gwen 的复杂视线也在此定型——"she couldn’t help seeing Gwenvere when she looked at Gwen, which made the old loathing burn in her breast. But that wasn’t fair to this poor creature."——恨意与对象当场分离，她亲手纠正自己的共感误差。
 
 **读者视角提示：** Morgana 外线同时印证这套机制的政治面：Emerlyn 听说绑架第一反应是 "All I need... is another violation of the Rule to deal with."——受害者名额先于救援排进日程表。
 
@@ -81,7 +81,7 @@ modified: "2026-09-23"
 
 **关键词:** maiden of the Temple, would not, victim
 
-**为什么这样写：** 全章的精神收口，由两个短句构成：身份句（继承 ch10 "She's a maiden of the Temple"——同一短语第一次是被介绍、这次是自我宣誓）+意志句（would not 的过去将来式：拒绝是一种时态，指向还没发生的崩溃）。它的前文铺满了失败学：逃跑失败、读心失败、连 Gwen 的劝降都失败（"He will keep you. He always does."）；它的后文是全书最动人的"无凭据行动"——她学 Morgana 闭眼呼吸（"the way Morgana did when she was scrying"），把宅子的图像（山丘/墙园/黑门，正是原句3 里她被迫走进的那条路线）沿魔法水流发出去，然后承认："She had no idea if Morgana received her message, nor even if she had been successful at sending it."——**不确定送达，仍要发送**；对照 Morgana 占卜三连掷无应的 ch10，师徒俩互为彼此的"没有把握但仍然做"。
+**为什么这样写：** 全章的精神收口，由两个短句构成：身份句（继承 ch10 "She's a maiden of the Temple"——同一短语第一次是被介绍、这次是自我宣誓）+意志句（would not 的过去将来式：拒绝是一种时态，指向还没发生的崩溃）。它的前文铺满了失败学：逃跑失败、读心失败、连 Gwen 的劝降都失败（"He will keep you. He always does."）；它的后文是全书最动人的"无凭据行动"——她学 Morgana 闭眼呼吸（"the way Morgana did when she was scrying"），把宅子的图像（山丘/墙园/黑门，正是本章开篇她被硬拽着走过的那条路线）沿魔法水流发出去，然后承认："She had no idea if Morgana received her message, nor even if she had been successful at sending it."——**不确定送达，仍要发送**；对照 Morgana 占卜三连掷无应的 ch10，师徒俩互为彼此的"没有把握但仍然做"。
 
 **读者视角提示：** "she swore to herself she would never, ever surrender the way Gwen had done. Perhaps Gwen had never had a choice, but Braithe did."——两个 ever 之后紧跟的那句"也许 Gwen 从来没得选"是 Braithe 最了不起的地方：抵抗的同时仍替别人保留辩护。
 

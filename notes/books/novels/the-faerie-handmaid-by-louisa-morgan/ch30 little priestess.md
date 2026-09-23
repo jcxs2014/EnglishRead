@@ -59,7 +59,7 @@ modified: "2026-09-23"
 
 **关键词**：kinder, swifter death·tortured
 
-**为什么这样写**：全书的报应法则用一句比较级结案——不是同态复仇，是"反向超额"：他给别人的每一分慢，都被从自己的死里扣除；Braithe "forced herself not to look away" 是她作为护理者的职业本能，也是对 ch19 那间雕塑工室的当面清账——她看着，因为那些"hideous sculptures"背后的人从未被允许被看见。
+**为什么这样写**：全书的报应法则用一句比较级结案——不是同态复仇，是"反向超额"：他给别人的每一分慢，都被从自己的死里扣除；Braithe "forced herself not to look away" 是她作为护理者的职业本能，也是对 ch15 那间雕塑工室的当面清账——她看着，因为那些"hideous sculptures"背后的人从未被允许被看见。
 
 **读者视角提示**："there was no sound, no cry of agony" 与 ch29 Faolin 满口的 abrasive 脏话形成音量对照：这个人的声音占了全书两章，退场时一点声响都没有。
 
@@ -75,7 +75,7 @@ modified: "2026-09-23"
 
 **关键词**：Dead, is he?·No matter·seen blood before
 
-**为什么这样写**：ch26 才铺垫过的"杀猪般的熟练"在此兑现——养鱼的、腌肉的、接生过的乡村妇人，尸体对她而言只是"要擦干净的东西"；"Good." 一个词顶一篇控诉书，作者把民间对 fae 的全部态度压缩进一个音节；而 "Good to have a champion about, sir" 她对着 Lancelin 说，赏罚分明—— Emma 才是 Camulod 平民线的真正发言人。
+**为什么这样写**：乡村妇人见惯生死的底气只有本章一句 'I’ve seen blood before'——尸体对她而言只是"要擦干净的东西"；"Good." 一个词顶一篇控诉书，作者把民间对 fae 的全部态度压缩进一个音节；而 "Good to have a champion about, sir" 她对着 Lancelin 说，赏罚分明—— Emma 才是 Camulod 平民线的真正发言人。
 
 **读者视角提示**：Idhri 提醒 "the man is still in the house" 时结巴在 blood 上，Emma 的 "I’ve seen blood before" 顺手也把养子的惊恐按了回去——这一家三口的位置感，与 ch27 "We are what we do" 的价值观互为镜像。
 

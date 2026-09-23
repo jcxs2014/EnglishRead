@@ -43,7 +43,7 @@ modified: "2026-09-23"
 
 **为什么这样写：** 欲望陈述句被作者切成三段阶梯：craved（从 want 升格到渴求）、borrowed（给"靠近 Morgana 的共感"定性——她连天赋都自觉是借的）、最后两个无动词短句（Magic she could wield at will. / Magic she could depend on.）像把同一件渴望反复翻转端详。depend on 是题眼：一个从小被家庭"送走"的人，最想要的不是力量而是可靠性。
 
-**读者视角提示：** "借来的魔法"这个自我贬低与序章 queen 对"桥"的期待、与本夜她在水镜边"sharing in Morgana's magic"三者将在后文汇流——Braithe 弧线的问题意识已在此立定。
+**读者视角提示：** "借来的魔法"这个自我贬低与序章 queen 对"桥"的期待、与本夜她在骨石占卜段里"sharing in Morgana's magic"三者将在后文汇流——Braithe 弧线的问题意识已在此立定。
 
 > **原句 4:** She was fae, although that truth was a carefully held secret. Outside of the White City, only Braithe and the Blackbird knew.
 

@@ -79,7 +79,7 @@ modified: "2026-09-23"
 
 **关键词**：invaluable·unique place·that person
 
-**为什么这样写**：国王的失态是全场的信任公投——"with a slightly plaintive tone that made him sound like the boy he still was" 一句让 Mordred 的年龄与王冠并排站：他问不出体面的问题，只能脱口 "What happened to your dimples?"，直白恰恰是他给 Braithe 的平视；Lancelin 那句 "I doubt this change will be any different." 用 Morgana 的旧事作判例——ch12 她变身离场时没人安慰，如今她的伤疤成了弟子的护身符；Mordred 的独白里 "longed" 一词复用（他渴望 Morgana 的继任），与 Braithe 当年 "longed for magic" 同词——全书的"渴望"在这里合龙：两人想要的原来一直是同一个人。
+**为什么这样写**：国王的失态是全场的信任公投——"with a slightly plaintive tone that made him sound like the boy he still was" 一句让 Mordred 的年龄与王冠并排站：他问不出体面的问题，只能脱口 "What happened to your dimples?"，直白恰恰是他给 Braithe 的平视；Braithe 这句 "I doubt this change will be any different."（Lancelin 只问了 "the change—will it last?" 一句）用 Morgana 的旧事作判例——ch12 她变身离场时没人安慰，如今她的伤疤成了弟子的护身符；Mordred 的独白里 "longed" 一词复用（他渴望 Morgana 的继任），与 Braithe 当年 "longed for magic" 同词——全书的"渴望"在这里合龙：两人想要的原来一直是同一个人。
 
 **读者视角提示**："The three subjects awaiting their audience with the king had to wait a long time" 一句把"从头讲完整个故事"折进一句公务噪音——作者不肯重播前 36 章，只让读者听见椅子等了多久。
 

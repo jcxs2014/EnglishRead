@@ -29,7 +29,7 @@ modified: "2026-09-23"
 
 **关键词**：unevenly applied·retribution·cost
 
-**为什么这样写**：Emerlyn 用两句平静的话掀开 Rule 体系的底：精灵对"荣誉"的分配是选择性的——护得住 councilor，护不住人仆；而"再没人敢伤害精灵"的和平，建立在一场被轻描淡写的集体屠杀上。破折号里的 "I'm sorry to say" 是全书制度批判最锋利的一刀，包在礼貌里。
+**为什么这样写**：两句两个声部，作者把 Rule 体系的道德总账编进这组对质：第一句出自 Morgana 之口——Emerlyn 刚以 'a point of honor' 自居，她便回敬 'unevenly applied'，点破精灵的荣誉是选择性配置：护得住 councilor，护不住人仆；Emerlyn 的应答则是体制的半页供词——"再没人敢伤害精灵"的和平立在被她轻描淡写的集体屠杀上，破折号里的 "I'm sorry to say" 是全书制度批判最锋利的一刀，包在礼貌里。两句并置，天平才显形。
 
 **读者视角提示**：这句供词回照 ch16 Faolin 的 "you are all paying for her arrogance"——双方都把对方的苦难当作秩序的成本；本书的反派与体制共享同一套算术。
 

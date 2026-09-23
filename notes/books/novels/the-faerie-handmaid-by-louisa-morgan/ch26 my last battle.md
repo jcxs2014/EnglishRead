@@ -51,7 +51,7 @@ modified: "2026-09-23"
 
 **③**
 
-> “I doubt you can hurt me worse than that damned Saxon,” he rasped.
+> “I doubt you can hurt me worse than that damned Saxon did,” he rasped.
 
 > “No one would call Lancelin handsome, but his face was a compelling one.”
 

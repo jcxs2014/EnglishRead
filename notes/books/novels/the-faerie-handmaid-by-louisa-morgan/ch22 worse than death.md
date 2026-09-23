@@ -61,7 +61,7 @@ modified: "2026-09-23"
 
 **为什么这样写**：创伤不靠哭喊呈现，靠一次喝水：白泉的常温被舌尖翻译成血温——上一幕里 "hot blood follow the coldness of the steel"，这一章水的温度触发了同一条感官回路，PTSD 写进物理细节；叙述者紧跟一句 "It made no sense, of course" 是 Braithe 视角的不知，而读者知道——视角差在这里比任何解释都锋利。
 
-**读者视角提示**："he shuddered as he tasted the water" 的 shudder 与 ch19 Morgana 变身吓退 Skye 后 Idhri 的颤抖同一身体语汇——这个角色的恐惧从来用皮肤说话；Morgana 全程不吃不喝，Braithe "had no energy to admonish her"，照顾者耗尽的侧写只用一行。
+**读者视角提示**："he shuddered as he tasted the water" 的 shudder 与 ch19 Morgana 变身吓退 Skye 后 Idhri 的颤抖同一身体语汇——这个角色的恐惧从来用皮肤说话；这一餐 Morgana "ate nothing"，Braithe "had no energy to admonish her"——"and for once" 三字点出照顾者耗尽的侧写，只用一行。
 
 ---
 

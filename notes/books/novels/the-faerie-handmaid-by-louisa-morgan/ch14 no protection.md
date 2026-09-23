@@ -41,9 +41,9 @@ modified: "2026-09-23"
 
 **关键词:** worthless creatures, the lot of them
 
-**为什么这样写：** 全书反人类言论第一次以**心声直播**的形态抵达：话的主人是位活了不知多少代的年长女议员，Braithe 只多看了一眼（"caught a little breath"），代价就是整段读到的灭绝欲。句式两截：worthless 是定性、let them die 是政策——从轻蔑到屠杀只用了一个冒号级的心理距离。Braithe 的接收报告同样精确："She knew it in her bones, a conviction as clear as the words that had sounded in her mind."——knew it in her bones 回收 ch05/ch10 的骨痛语汇（白城魔法让她骨头疼），如今骨头成了测谎仪。名字获取方式同步升级："which Braithe plucked straight from her mind, was Ursula. It suited her."——plucked（采摘）这个 Morgana 的百里香动词第一次转到 Braithe 名下使用。
+**为什么这样写：** 全书反人类言论第一次以**心声直播**的形态抵达：话的主人是 Braithe 端茶时服务的第二位议员——揣着一腔 'a resentment that felt ancient' 的怒火（第一位才是只想回家的老议员，两人不是同一具躯壳），Braithe 只多看了一眼（"caught a little breath"），代价就是整段读到的灭绝欲。句式两截：worthless 是定性、let them die 是政策——从轻蔑到屠杀只用了一个冒号级的心理距离。Braithe 的接收报告同样精确："She knew it in her bones, a conviction as clear as the words that had sounded in her mind."——knew it in her bones 回收 ch05/ch09 的骨痛语汇（白城魔法让她骨头疼），如今骨头成了测谎仪。名字获取方式同步升级："which Braithe plucked straight from her mind, was Ursula. It suited her."——plucked（采摘）这个 Morgana 的百里香动词第一次转到 Braithe 名下使用。
 
-**读者视角提示：** 老妇人此前 "all she desired was to go home"——疲惫与杀意装在同一具躯壳里；本书写"平庸之恶"不靠狂徒，靠开完会想回家的老公务员。
+**读者视角提示：** 疲惫与杀意在这一幕分装于两具躯壳：第一位老议员 'all she desired was to go home'，'let them die' 的主人则是第二位暴怒的议员——本书写"平庸之恶"不靠狂徒，靠想回家的与揣着灭绝欲的同席投票。
 
 > **原句 4:** "As she turned to go on, something obscene spilled from his mind, something so brutish and foul that she had to grit her teeth to prevent herself from spilling her entire tray on his head."
 
@@ -81,7 +81,7 @@ modified: "2026-09-23"
 
 **关键词:** promised, let her walk out, guilt gripped, intervene
 
-**为什么这样写：** ch10 立誓 "I protect Braithe" 之后的第一次履约失败：作者不给他"无力阻止"的豁免——他**能**识破、也识破**了**，只是没来得及；"without doing a thing" 是人物自己的判词，不是叙述者的。gripped with a hard hand 与上段 Vivyan "laid her hand on his shoulder" 构成手部意象的连环：同一晚，一只手 bind 走 Braithe，另一只手（愧疚）攥住他——本章的"手"全在施法。但叙事立刻把自罪转成行动：他弃盘、撞人、无视 Umer 的命令、撞开后门狂奔——"He had promised" 的下半句由这串动词补完；Braithe 教的功课（先站稳再说话）他全用上了。
+**为什么这样写：** ch10 立誓 "I protect Braithe" 之后的第一次履约失败：作者不给他"无力阻止"的豁免——他**能**识破、也识破**了**，只是没来得及；"without doing a thing" 是人物自己的判词，不是叙述者的。gripped with a hard hand 与上段 Vivyan "laid her hand on his shoulder" 构成手部意象的连环：同一晚，一只手 bind 走 Braithe，另一只手（愧疚）攥住他——本章的"手"全在施法。但叙事立刻把自罪转成行动：他弃盘、撞人、无视 Umer 的命令、撞开后门狂奔——"He had promised" 的下半句由这串动词补完；他把自罪整个兑换成了脚步。
 
 **读者视角提示：** "Emerlyn hadn't been watching. No one had been watching, including himself." ——"包括他自己"四个字是全书童年期结束的里程碑：被看管者开始认领"没看住"的责任。
 

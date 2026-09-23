@@ -39,11 +39,11 @@ modified: "2026-09-23"
 
 > “If they are too weak to defend themselves, they might as well surrender to the Romans and get it over with. Is it our fault they cannot?”
 
-> “You have weakened his reign and the country’s defenses, and people are dying because of it!”
+> “You have been magicking the king of Lloegyr, a hateful thing to do. You have weakened his reign and the country’s defenses, and people are dying because of it!”
 
 **中文理解**：他们若弱到无力自保，索性向罗马人投降了结此事也好。是我们之过吗，他们偏偏不能？／你一直在对 Lloegyr 国王施法，削弱了他的统治与国家的防务——人们正因此死去！
 
-**关键词**：might as well surrender·Is it our fault·dying because of it
+**关键词**：might as well surrender·magicking the king·dying because of it
 
 **为什么这样写**：Ursula 两句完成社会达尔文主义的闭环——先判人类"活该"，再用 "Is it our fault" 把自己摘干净；Morgana 的回击专拆这半句：先列出对方的主动行为（magicking、weakened），才落到死亡——"because of it" 把因果链钉回施法者身上。全章的法律辩论其实只有一句：加害不是旁观。
 

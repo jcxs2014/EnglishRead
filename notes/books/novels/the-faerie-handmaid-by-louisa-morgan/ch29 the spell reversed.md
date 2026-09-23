@@ -61,7 +61,7 @@ modified: "2026-09-23"
 
 **关键词**：overseer·heads high·satisfaction
 
-**为什么这样写**：ch16 白城外同一种弯腰的农人反写成对照卷——那批人里有 "aged before her time" 的 Didi，这里的 "snatch of song" 有人接唱；Braithe 却不敢全享这份安宁："She would always grieve for the enslaved humans of fae country"，和平愈亮，未解的题愈黑（Gwen 的余生、Didi 的下落，她都答不动）。
+**为什么这样写**：ch11 白城外同一种弯腰的农人反写成对照卷——原文把两处之别点破："There was no woman aged before her time by brutal labor and too much sun, risking punishment to warn Braithe against the fae"——那位 "aged before her time" 的老妇是 ch11 劳作群像里的无名者，并非 Didi（Didi 是 ch13 议事厅中与她共事的仆人——本章 :94 那句 Didi’s attempt to be kind 记的就是她）；这里的 "snatch of song" 有人接唱，那里的警告却须拿处罚去换；Braithe 却不敢全享这份安宁："She would always grieve for the enslaved humans of fae country"，和平愈亮，未解的题愈黑（Gwen 的余生、Didi 的下落，她都答不动）。
 
 **读者视角提示**："her heart lifting at how well they looked, how content, how peaceful"——三个 how 排到顶，"Faolin!" 应声劈下；ch28 星夜的 "more brilliant than any other place" 原是此景的预铺，作者给突袭前最后一刻的光全部充了值。
 
