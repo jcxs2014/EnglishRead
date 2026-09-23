@@ -19,7 +19,7 @@ modified: "2026-09-23"
 >
 > **中文理解**："你看着……索尼费城分部最新的市场专员。"
 >
-> **关键词**：associate marketing specialist, Sony Philadelphia
+> **关键词**：associate marketing specialist
 >
 > **为什么这样写**：Shauny的自我介绍精确得像简历——"associate marketing specialist"是她的新身份。这个身份改变了所有事情：她有了办公室、401(k)、独立租约。
 >
