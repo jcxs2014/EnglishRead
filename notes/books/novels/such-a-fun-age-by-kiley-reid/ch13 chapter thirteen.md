@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：这是全章的落点——Alix意识到Kelley和Emira的关系超越了雇主-保姆。这是她最深的恐惧：Emira和她的丈夫，以及她的前任。
 >
 > **读者视角提示**："Simultaneously. With each other."——Alix用断句来表达她的震惊。她需要时间来消化这个事实。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| heartbreakingly | 令人心碎地 | "Because he so heartbreakingly did." |
+| recommendations | 推荐，建议 | "she gave them excellent directions and recommendations for cheap cocktails" |
+| unsuccessfully | 徒劳地，未成功地 | "Alix tried unsuccessfully to lock eyes with Jodi." |
+| interrogating | 盘问，追问 | "Rachel, Jodi, and Tamra were interrogating Emira with drinks in their hands" |
+| unbelievable | 难以置信的 | "On top of his unbelievable presence on Alix's front stoop" |
+| insecurities | 不安全感，自卑感 | "and a million insecurities in between." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| presence | 出现，在场 | "On top of his unbelievable presence on Alix's front stoop" |
+| embodied | 兼具，体现 | "this person that embodied them both" |
+| embraced | 拥抱 | "She embraced Emira" |
+| sweating | 渗出汗水的 | "under sweating foil lids" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| stood | 站着 | "In front of her stood both a grown man and a high school junior" |
+| first | 最初的 | "Alex Murphy's first everythings" |
+| hands | 双手 | "Alix had no idea what to say or where to put her hands." |
+
+## 一句话总结
+
+感恩节高潮：Kelley 站在门口叫出"Alex?"，Alix 一瞬间被拆成两个人——"In front of her stood both a grown man and a high school junior"。Kelley 与 Alix 的过去（William Massey High School, class of 2001）当场对上，而 Emira 只能站在旁边看着自己的雇主和男友互相辨认。Rachel 那句"你的前男友在跟你保姆约会？"把这层荒诞彻底说白。Alix 在心里反复念"Kelley Copeland is in my house"——她恐惧的不是重逢，是十七岁那年的自己被人带来家里。

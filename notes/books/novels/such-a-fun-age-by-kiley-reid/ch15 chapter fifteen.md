@@ -64,3 +64,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Peter的Toast是社交性的——他试图缓和气氛。但"outnumbered"暗示了他对Alix的同情——他知道Alix处于少数。
 >
 > **读者视角提示**："should I say thankful"——Peter的犹豫揭示了他的真实感受。他不确定Alix是否真的感激这个场合。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| corroboration | 印证，佐证 | "seeking corroboration that a bad word had been said" |
+| effortlessly | 毫不费力地 | "The snow swirled effortlessly behind the front window panes." |
+| collectively | 集体地，一同 | "The table collectively took in this information" |
+| backstabbing | 背后捅刀，暗算 | "was quickly replaced by a new backstabbing confusion" |
+| marshmallow | 棉花糖 | "Prudence held up a marshmallow that was melted to black on one side." |
+| appropriate | 得体的，恰当的 | "I don't know if it's appropriate." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| potatoes | 土豆 | "Jodi reached for a pot of sweet potatoes." |
+| daughter | 女儿 | "Jodi looked to her left and squared her daughter's face." |
+| remember | 记得，想起 | "I remember you now." |
+| everyone | 每个人，大家 | "Alix encouraged everyone to dig in" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| snow | 雪 | "The snow swirled effortlessly behind the front window panes." |
+| video | 录像，视频 | "There's a video?" |
+| table | 餐桌 | "Kelley smiled across the table." |
+
+## 一句话总结
+
+晚餐桌是全书的引爆点：Rachel 追问 Kelley 与 Alix 的旧事，Peter 随口补上"你当时举着手机在录像"，于是那段十七岁的录像、那场加油站、以及"你为什么那晚打电话给 Peter"的追问，在所有人的注视下变成一场公开的审判。Alix 想要一个"她想要的那种感恩节"（"Everything sounded like the Thanksgiving she wanted"），得到的却是两人同时被剥开。Emira 坐在 Kelley 旁边，第一次意识到自己从头到尾都不知道自己在这张桌子上是谁。
