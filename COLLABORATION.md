@@ -50,10 +50,11 @@
 - 目录：`notes/books/novels/the-new-wilderness-by-diane-cook/` — 文学小说（精简格式），4批推进（ch01-03 / ch04-06 / ch07 / ch08+总览）
 - 四件套全绿：verify 61/61 100% · vocab FAIL0 WARN0 · entities 0 · chapter 61/61
 - 总览引语：金句精选 22/22 · 情感节点段落格式 · 概述段落格式
-- Commit 范围：`5a56419b`（ch01）→ … → `62fa2052`（ch08）→ `b1ce2b64`（总览三篇）
+- Commit 范围：`5a56419b`（ch01）→ `62fa2052`（ch08）→ `b1ce2b64`（总览三篇）→ `6008e28f`（审查整改）
 - 关键发现：Private Lands谎言·Bea与Bob的关系·歌谣传承（Beatrice→Agnes→Fern）·"看着我会伤害我"
+- 五步审查：a.三件套全绿 b.逐章归属61/61 c.结构扫描发现ch06-08标头未加粗+总览3处引语不精确（已修复）d.语义二审无缺陷 e.总览引语100%命中
 
----\
+---
 
 ### [2026-09-23 20:07 UTC] [Hermes] → All
 
