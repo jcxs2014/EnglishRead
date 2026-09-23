@@ -124,7 +124,7 @@ source_text: ch04
 | unruly | 杂草丛生的、失控的 | Maybe they'd never been bothered by it before until I, another person, had arrived to pass judgement on their unruly yard. |
 | unblinking | 一眨不眨的 | a single eye staring at me, round and watery, unblinking |
 | limp | 松而无力的 | She reached out a limp hand. |
-| entitle 正形：entitled | 自以为应得的 | Do you hear how entitled you sound? |
+| entitled | 自以为应得的 | Do you hear how entitled you sound? |
 | mousetrap | 捕鼠夹 | No teeth collapsing like a mousetrap around my wrist. |
 | smithereens | 碎片、粉碎 | I remembered the windscreen was smashed to smithereens. |
 | soupy | （天气）闷热黏湿的 | The air was both soupy and breezy |
