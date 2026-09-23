@@ -26,7 +26,7 @@ source_text: ch26
 
 **关键词**：moment（那一瞬）· stood（站上）· effortless（毫不费力）
 
-**为什么这样写**：effortless 一词承接她一贯的"身体先会"母题（舞、curtsy、地形记忆）——别人靠练的她在靠天生的；与前文"Everyone else lurched and stumbled...Even Blake struggled"的群像垫底句并置，第一次把她写在所有人之上，竞技叙事的扬眉时刻。
+**为什么这样写**：effortless 一词承接她一贯的"身体先会"母题（舞、curtsy、地形记忆）——别人靠练的她在靠天生的；与前文"Even the strongest warriors like Blake struggled to keep their footing"的群像垫底句并置，第一次把她写在所有人之上，竞技叙事的扬眉时刻。
 
 **读者视角提示**：她的优势项清单（骑术平衡+心声协同+彩带+歌）与劣势项清单（兵器/魔力输出）剪刀差越拉越大——Culling 的选拔若考"协同"，她就是黑马；若考单兵，她仍悬。
 

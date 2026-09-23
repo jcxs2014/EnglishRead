@@ -86,7 +86,7 @@ source_text: ch58
 
 **关键词**：cannot be mine（不能是我的）· I will be yours（我做你的）· Whichever way（任何方式）
 
-**为什么这样写**：条件句的两半互为镜像（mine↔yours）——被拒绝的不是爱是**名分**，于是他连名分一起上缴：做你的护卫、你的同袍、你的影子都可以；与他 ch38"I'll follow you anywhere"同族誓言但更痛——那次是随行，这次是**预约离场**（"when he's back... I'll leave you with him"）：他把爱的终点站设在别人身边，这是 Blake 式爱情观的终极形态——爱不是持有，是护送到站。
+**为什么这样写**：条件句的两半互为镜像（mine↔yours）——被拒绝的不是爱是**名分**，于是他连名分一起上缴：做你的护卫、你的同袍、你的影子都可以；与他 ch37 "I'll follow you anywhere"同族誓言但更痛——那次是随行，这次是**预约离场**（"when he's back... I'll leave you with him"）：他把爱的终点站设在别人身边，这是 Blake 式爱情观的终极形态——爱不是持有，是护送到站。
 
 **读者视角提示**：他的"重新扣扣子"（buttoned back up）是本章最重要的动作隐喻：卸防的他被现实判定为奢侈品，军装版 Blake 回来了但带着新内核（vulnerability 已存档待用）——预测终局他会有一次**为她解开最后一颗扣子**的对称场面（内容物=那句没说完的 when it's done...）；同时记住他的承诺本质是**延期执行的牺牲**：If-sentence 永远比 when-sentence 安全，读时盯他哪天把 if 换成 never。
 

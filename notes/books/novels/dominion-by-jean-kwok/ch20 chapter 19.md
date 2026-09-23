@@ -42,13 +42,13 @@ source_text: ch20
 
 > **原句 3:** "Perhaps he dislikes seeing my face across the field because it is not his brother's."
 
-**中文理解**：也许他讨厌在场对面看见我的脸——因为那不是他兄弟的脸；Rubi 对 Blake 冷脸的猜测，Jace 铺垫后的补刀。
+**中文理解**：也许他讨厌在场对面看见我的脸——因为那不是他兄弟的脸；Jace 对 Blake 别脸原因的当场猜测（以耸肩作结）。
 
 **关键词**：dislikes（讨厌）· brother's（兄弟的）
 
-**为什么这样写**：把军营里的敌意翻译成丧亲心理学——一句猜想让 Blake 的每次皱眉都有了哀悼的底色；"my face...his brother's"的错位逻辑（你恨我因为我不像他）残忍又温柔：她同时点破了他的伤和自己的无关性。
+**为什么这样写**：把军营里的敌意翻译成丧亲心理学——一句猜想让 Blake 的每次皱眉都有了哀悼的底色；"my face...his brother's"的错位逻辑（你恨我因为我不像他）残忍又温柔：Jace 同时点破了 Blake 的丧兄之痛与自己"占着旧位置"的尴尬。
 
-**读者视角提示**：Twin Blades 前史正式入局——Blake 对 Rubi 的关注里混着对"搭档"的移情可能；后文凡遇他失神（ch16 幻景 grief、ch17 alcove），都可回本句校准。
+**读者视角提示**：Twin Blades 前史由最亲近的旁观者 Jace 亲口称出——他把 Blake 的回避读作丧兄之痛的移情（不愿看见站在旧位置上的那张脸）；后文凡遇他失神（ch16 幻景 grief、ch18 alcove），都可回本句校准。
 
 > **原句 4:** "Nice to meet another Azure here."
 
@@ -56,7 +56,7 @@ source_text: ch20
 
 **关键词**：Azure（Azure 族）· meet（结识）
 
-**为什么这样写**：在满场 Silvers 的环境里，"another Azure"两个词自带结盟效力——她甚至不用自我介绍完，身份已经完成破冰；配套动作（递包子、赠手链）全是"吃与戴"的部落语法，温暖替代了寒暄。
+**为什么这样写**：在满场 Silvers 的环境里，"another Azure"两个词自带结盟效力——她甚至不用自我介绍完，身份已经完成破冰；配套动作（递包子）是她的"给食"式部落语法，温暖替代了寒暄。
 
 **读者视角提示**：Calla 是 Rubi 第一个"同族同龄同性别"的朋友（Edith 是家人、Malissa 是敌手）——她的存在让"Azure 在 Silver 军营"这条线从苦难叙事变成社交叙事。
 

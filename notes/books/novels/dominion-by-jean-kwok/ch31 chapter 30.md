@@ -12,7 +12,7 @@ source_text: ch31
 
 **情节弧线位置**：Part II 的情感里程碑章——初吻落地 + Pairing 提议翻车与修复，把两人关系从"承认心意"推进到"身体与魔法同时在场"；他的战后创伤（不敢睡）与她的拥抱疗愈构成告白的情感前提，亲密场景建立在互为解药的语境上。
 
-**设定兑现/推进**：①Blake 的房间=人物侧写（战术图旁摆诗集、手工铸铁床头、一抽屉 Ravager 面具——军与诗、公与私同柜）；②战后失眠症：每次战斗后他无法入睡（vulnerable unspooling like a ribbon——她的意象被用来形容他）；③Pairing 语境再定义：他先以"增强战力"提出（ch22 设定课的功利面）被她怒拒，改口"forget what I said"——同一条魔法规则在感情里必须重谈价格；④吻中她的魔法"认出他"（rushing like fire...waiting for him）——resonance 体系新增"人对人"配方；⑤"worship your skin"与"Sing for me"的语言系统：他的欲望词汇始终围绕她的歌与敬意，性与崇拜在语言层绑定。
+**设定兑现/推进**：①Blake 的房间=人物侧写（战术图旁摆诗集、手工铸铁床头、一抽屉 Ravager 面具——军与诗、公与私同柜）；②战后失眠症：每次战斗后他无法入睡（vulnerable unspooling like a ribbon——她的意象被用来形容他）；③Pairing 语境再定义：他先以"增强战力"提出（ch22 设定课的功利面）被她怒拒，改口本章"forget what I said"——同一条魔法规则在感情里必须重谈价格；④吻中她的魔法"认出他"（rushing like fire...waiting for him）——resonance 体系新增"人对人"配方；⑤"worship your skin"与"Sing for me"的语言系统：他的欲望词汇始终围绕她的歌与敬意，性与崇拜在语言层绑定。
 
 **人物弧线**：Blake 完成"坦白-吻-说错话-抢救"的完整情绪周期——他的情感语言仍在草稿状态（Pairing 的功利提案是防御性撤退，被拒后才切换到真心话格式）；Rubi 在被物化为"战力增幅器"的瞬间亮出底线（"If it's about power, then Pair with Malissa"）——她的尊严教育了他，他的"想被你的绳缠住"补考通过；两人的第一次越界由她的主动（"We can share the bed"）与他的克制（吹灯才睡）共同完成——攻守节奏依旧互为镜像。
 
@@ -36,7 +36,7 @@ source_text: ch31
 
 **关键词**：hold（抱）· you（你）
 
-**为什么这样写**：just（只是）把请求削到最小分贝，道歉先行（I'm sorry）说明他自己都觉得这句越界——战争机器的睡意全权托管给一个人的体温；放在"I can't stop thinking of those people"的长篇自责之后，这句短话是所有愧疚的落点：他撑不住的时候只想抓住她。
+**为什么这样写**：just（只是）把请求削到最小分贝，道歉先行（I'm sorry）说明他自己都觉得这句越界——战争机器的睡意全权托管给一个人的体温；它落在她问出"why aren't you sleeping"之后、他的长篇自责倒出之前——赦免先于忏悔到达，这句短话是所有愧疚的落点：他撑不住的时候只想抓住她。
 
 **读者视角提示**：注意他整夜没睡（eyes shadowed, like he'd not closed them once）——他的失眠与搂抱是同一件事的两面：闭眼就要见死者，睁眼才能确认活人；她在他眼里是清场的锚。
 

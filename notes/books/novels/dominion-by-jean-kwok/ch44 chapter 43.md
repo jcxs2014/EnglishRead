@@ -58,7 +58,7 @@ source_text: ch44
 
 **为什么这样写**：时态对照（then→now）构成证据链，"but"之后一个词下诊断——buried 是全章的枢纽隐喻：埋 = 有货 + 位置深 + 需要挖；与他自己的"手洗不净"（罪疚埋着）形成镜像——这对的课题惊人地对称：他埋着愧疚，她埋着力量，两个人都在等一次开挖。
 
-**读者视角提示**：buried 与 ch28"something old and deep"、ch38 红线闸门是同一句话的三个版本——作者从不同角度反复敲同一堵墙；哪天墙破，预期"力量+记忆"双响炮，这一章的实验室戏就是预演。
+**读者视角提示**：buried 与 ch19"something old and deep"、ch38 红线闸门是同一句话的三个版本——作者从不同角度反复敲同一堵墙；哪天墙破，预期"力量+记忆"双响炮，这一章的实验室戏就是预演。
 
 > **原句 5:** "There are different ways of awakening the energy in a Pair"
 

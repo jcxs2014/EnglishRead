@@ -58,7 +58,7 @@ source_text: ch30
 
 **为什么这样写**："no future × no past"的对仗在两句对话里完成——绝望对绝望，残缺对残缺，这句是全书两人第一次在存在层面正式握手；"so I understand"的轻描淡写里藏着她自己的巨痛，安慰从不居高临下是她的语言美德。
 
-**读者视角提示**：把这句收入"金句候选"——它是这对关系的哲学底座（互补的缺失）；也呼应 ch31 他回赠的"your integrity calls to me"：他给她价值，她给他归属，交易对等。
+**读者视角提示**：把这句收入"金句候选"——它是这对关系的哲学底座（互补的缺失）；也呼应 ch31 他回赠的"everything calls to me"：他给她价值，她给他归属，交易对等。
 
 > **原句 5:** "Ever since that first night, I've felt called to you."
 

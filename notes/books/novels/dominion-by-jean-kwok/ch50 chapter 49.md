@@ -28,7 +28,7 @@ source_text: ch50
 
 **为什么这样写**：疑问句不是求证是计量——他在数罪：你做了几件我不能原谅的事？；与 ch15 宫里他替她辩护的"You're welcome"、ch30 的告解都不同：此刻每个音节都沾着她身上的伤；dared 这个词把掳掠定性为僭越——在他眼里动她=动一种他自认独有的所有权（"what's mine"紧随其后）。
 
-**读者视角提示**：注意他的暴力从不无缘发动——每次都有明确的"点名仪式"（本句、ch42"Say a word about her once more"）——他的正义程序=先宣罪、后执行；读他的战斗看罪状清单就能知道他心里的怒点排序，屡试不爽。
+**读者视角提示**：注意他的暴力从不无缘发动——每次都有明确的"点名仪式"（本句、ch40"Say a word about her once more"）——他的正义程序=先宣罪、后执行；读他的战斗看罪状清单就能知道他心里的怒点排序，屡试不爽。
 
 > **原句 2:** "You caged her. Beat her. I warned you. You will die for touching what's mine."
 
@@ -56,7 +56,7 @@ source_text: ch50
 
 **关键词**：dark magic（黑魔法）· break（打破）
 
-**为什么这样写**：三个短句递进（定性 → 责任人 → 失败）——由 Calla 而非 Blake 说出更狠：连旁观者都已确认最强者的失败；"heartbroken, the sound of tears in her words"的叙述注脚让这条情报带着哭腔送达：全书第一次，钱（Zenith 的力量）解决不了她的疼。
+**为什么这样写**：两个短句递进（定性 → 责任人失败）——由 Calla 而非 Blake 说出更狠：连旁观者都已确认最强者的失败；"heartbroken, the sound of tears in her words"的叙述注脚让这条情报带着哭腔送达：全书第一次，钱（Zenith 的力量）解决不了她的疼。
 
 **读者视角提示**：Blake can't → 谁能？此刻场内已给出备选答案（ch48 影像里 Ire 挂了蛇神的名、ch51 首选方案 Soul Pair）——项圈成为中段的核心任务物件：破它需要什么代价，是接下来三章的主考题，读时盯住每次尝试的账单。
 
@@ -66,7 +66,7 @@ source_text: ch50
 
 **关键词**：deathly calm（死寂般的平静）· terrifying（骇人）· yelled（吼叫）
 
-**为什么这样写**：以"吼"为参照物给"静"标价——他的愤怒系统里音量与杀意成反比（ch04 那句"voice steadier than it had any right to be"是同款生理学）；旁白出现在他连下重手的间隙：作者不写招式写声学，越安静，读者越确信 Ire 的死期已定。
+**为什么这样写**：以"吼"为参照物给"静"标价——他的愤怒系统里音量与杀意成反比（ch05 那句"voice steadier than it had any right to be"是同款生理学）；旁白出现在他连下重手的间隙：作者不写招式写声学，越安静，读者越确信 Ire 的死期已定。
 
 **读者视角提示**：把这条声学规律加入 Blake 阅读手册：他提高音量=情绪外溢（ch37 走廊质问），压低声音=杀意内敛（本章）——两种安静还有一种是温柔（"I just needed to hold you"），三种嗓门三种含义，读后文对号入座。
 

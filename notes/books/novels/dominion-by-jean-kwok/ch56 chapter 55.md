@@ -76,7 +76,7 @@ source_text: ch56
 
 **关键词**：Tonight（今夜）· just us（只有我们）
 
-**为什么这样写**：与"Tomorrow is for them"的对仗把公私领域一刀切开——她的第一次婚姻选择是**背着全世界**完成的，这份"先斩后奏"的性格与她后来（背着 Edith 追真相、背着 Blake 提换命）一脉相承：Rubiana 与 Rubi 共享同一个开关——凡认定是自己的，先拿到手再说；"terrified someone will discover us"的颤抖让这份果敢更真实：她怕的不是婚礼是失去它。
+**为什么这样写**：与"Tomorrow is for them"的对仗把公私领域一刀切开——她的第一次婚姻选择是**背着全世界**完成的，这份"先斩后奏"的性格与她后来（背着 Edith 追真相、背着 Blake 提换命）一脉相承：Rubiana 与 Rubi 共享同一个开关——凡认定是自己的，先拿到手再说；"terrified someone would discover us"的颤抖让这份果敢更真实：她怕的不是婚礼是失去它。
 
 **读者视角提示**：注意这场私密婚礼发生在 Annihilation **前夜**——"Tonight just us"的誓言在几小时后被 Starved 撕碎，而她全程不在场（替身在台上死）：她的婚姻记忆停在最甜的一帧，Blake 的记忆停在最惨的一帧（目击"她"死）——两人的叙事在同一场婚礼上错位成平行线，终局对撞时这是最疼的一块拼片，存档。
 

@@ -12,7 +12,7 @@ source_text: ch39
 
 **情节弧线位置**：Part III 的预警与定约章——梦境首次给出"直接对她的未来喊话"（说话人不明=新的悬疑源），而现实线用房间的物理变化给 Pairing 的效力盖章；保密协定成立：他们的关系从此是宫闱里的暗码。
 
-**设定兑现/推进**：①噩梦预言：白兽 + 水火 + "the one left to burn"——与 Prologue 预言歌（storms/r kingdoms die）、ch16 蛇神幻境共享末日语系，但说话人"achingly familiar 又看不清脸"（是 Blake？是别人？是未来的谁？）；②Pairing 的房间效应：呼吸铁笼→摇篮、战斗星座→金銀双 tyger 并肩——她的力量把他从囚禁改写成共处（twin tygers 呼应双环印记）；③保密的三层理由（魔弱更危险 / Twin Blade 半个储君 / Average 政治婚配论）——她拒绝保护伞背后的尊严逻辑；④他的反保护宣言"我不管他们说什么" + "I'll believe it for both of us"——信念代持协议；⑤"You're mine" 与 "stubborn ironnecked Silver" 的斗嘴收章——关系暗码首次试运行。
+**设定兑现/推进**：①噩梦预言：白兽 + 水火 + "the one left to burn"——与 Prologue 预言歌（storms/r kingdoms die）、ch16 蛇神幻境共享末日语系，但说话人本章"achingly familiar"、看不清脸（是 Blake？是别人？是未来的谁？）；②Pairing 的房间效应：呼吸铁笼→摇篮、战斗星座→金銀双 tyger 并肩——她的力量把他从囚禁改写成共处（twin tygers 呼应双环印记）；③保密的三层理由（魔弱更危险 / Twin Blade 半个储君 / Average 政治婚配论）——她拒绝保护伞背后的尊严逻辑；④他的反保护宣言"我不管他们说什么" + "I'll believe it for both of us"——信念代持协议；⑤"You're mine" 与 "stubborn ironnecked Silver" 的斗嘴收章——关系暗码首次试运行。
 
 **人物弧线**：噩梦里她被"自己在烧"的预言掐住，醒来看见的却是他房间变好的证据——恐惧与治愈在同一夜交接班；他的公开欲（tell everyone / proud / you're mine）被她的政治脑（威胁论、均分论）按住，两人第一次因"如何爱"而非"是否爱"争执，落点是互补协议（她管风险、他管信念）；Blake 的"It's not just about danger"式反驳全部落空说明她的判断更冷静——她的宫廷课（ch13-16）已经追平他的战场课。
 
@@ -64,7 +64,7 @@ source_text: ch39
 
 **中文理解**：两只 tyger 并肩——一金一银，不打斗，只是步调一致地走；星光凝出的新图案，全章最安静也最响的一帧。
 
-**关键词**：side by side（并肩）· gold and silver（金与银）· step for step（步调一致）
+**关键词**：side by side（并肩）· one gold, one silver（一金一银）· step for step（步调一致）
 
 **为什么这样写**：从"tygers pacing / swords / burning city"的旧星座到"双兽同行"的新图腾——打架变并肩、战争变同行，一个画面把战争世家的未来愿望画完了；金银双色同时呼应 Kingsolver（银）与她心中的火色（金/铜），也可能暗指他们各自领地的颜色：跨色并行正是这本书的终极政治理想。
 
@@ -78,7 +78,7 @@ source_text: ch39
 
 **为什么这样写**：在她的自我价值账户见底时，他把自己的信念存进她的户头（代理信念制度）——比"你很强"更高级的是"我先替你保管相信"；配合前置的慢吻，这句话是他的 love language 完整范本：不辩论、不教育，直接托管；"both of us"的复数收尾把两个人焊成一个信念共同体。
 
-**读者视角提示**：他对她的价值认证已成固定动作（ch22 "weapon of choice"、ch34 "stronger than most of the court"）——注意她每次的反应都是"I don't know how to believe"：她的信任赤字是感情线剩下的主要窟窿；哪天她自己说出"我很强"，这条线才算闭环。
+**读者视角提示**：他对她的价值认证已成固定动作（ch30 "weapon of choice"、本章"stronger than most of the court"）——注意她每次的反应都是"I don't know how to believe"：她的信任赤字是感情线剩下的主要窟窿；哪天她自己说出"我很强"，这条线才算闭环。
 
 **段落逻辑**：水火白兽噩梦（"被烧的你" + "救你自己"）→ 尖叫惊醒、清单式安抚 → 发现房间变形（牢笼→摇篮、双 tyger 并行图）→ 讨论公开与否（威胁论/均分论 vs "我不管他们说什么"）→ 代理信念协议 → 保密敲定（"second they find out, I'll be proud. You're mine"）→ ironneck 斗嘴收章（钩住四域会师）。
 

@@ -38,7 +38,7 @@ source_text: ch19
 
 **为什么这样写**：两个"I would"排比（先赢后立），动词从 win 升级到 carve——赢是比赛，凿是向岩石要地盘，阶级隐喻藏在动词里；"no matter who thought I didn't deserve it"回应满朝的白眼（ch13 贵族低语、ch14 Ire 清单），把受辱清单反向锻造成参赛清单。
 
-**读者视角提示**：这是她第一次公开向"资格论"宣战——与 ch10"I wasn't nothing"一脉：从自我确认到向世界索位，弧线在加速上扬。
+**读者视角提示**：这是她第一次公开向"资格论"宣战——与 ch08"I wasn't nothing"一脉：从自我确认到向世界索位，弧线在加速上扬。
 
 > **原句 3:** "Good. Or else I'd need to do some biting, and I hate that before breakfast."
 

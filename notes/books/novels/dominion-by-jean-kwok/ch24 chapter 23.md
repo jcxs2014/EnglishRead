@@ -48,7 +48,7 @@ source_text: ch24
 
 **为什么这样写**：长喻体（风暴→晴空）的抒情规格远超他平时的毒舌配置，所以"suddenly...before ducking his head"的动作注释格外醒目——话是自己溜出来的，他连收回都来不及；把她的舞定位成"他的天气"，等于承认她有改写他情绪的权限。
 
-**读者视角提示**：Blake 的脸红机制从此可测（words slipped out → pink high in his cheeks）——凡他自己打断自己的长句，那就是真心话溢出的时刻；与 ch13"Adequate"那次结巴归档同类。
+**读者视角提示**：Blake 的脸红机制从此可测（words slipped out → pink high in his cheeks）——凡他自己打断自己的长句，那就是真心话溢出的时刻；与 ch18"Adequate"那次结巴归档同类。
 
 > **原句 4:** "Like my hands will never be clean again."
 

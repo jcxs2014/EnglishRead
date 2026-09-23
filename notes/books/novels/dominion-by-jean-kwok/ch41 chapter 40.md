@@ -38,7 +38,7 @@ source_text: ch41
 
 **为什么这样写**：三个同位语层层推进（叛徒 → 敌人 → 家人），最后落在"family"上——罪名的痛感不在前两个词，在第三个；"Even if I'd never felt like I belonged"的让步句紧随其后，把委屈与认罪焊在一起：她既不属于 Azure 也没被 Silver 接纳，背叛的是一个从没收留过她的位置——这正是最疼的地方。
 
-**读者视角提示**：把这句与 ch39 早餐"I was on another team, away from my people"、ch14"I didn't belong"连读——她的归属三连问（我属于哪队/哪里/谁）是 Part III 的情感暗线；谁先回答这道题，谁就是终局的赢家。
+**读者视角提示**：把这句与 ch40 早餐"I was on another team, away from my people"、ch14"I didn't belong"连读——她的归属三连问（我属于哪队/哪里/谁）是 Part III 的情感暗线；谁先回答这道题，谁就是终局的赢家。
 
 > **原句 3:** "You wish to speak about something barbaric? Yins pretending at power."
 
@@ -66,7 +66,7 @@ source_text: ch41
 
 **关键词**：studious（好学的）· know-it-all（万事通）
 
-**为什么这样写**：在全场紧张到"绳子勒喉"的当口，心声里冒出的这句是全章唯一的笑声——Flame 的喜剧功能已成结构性部件（她负责在每个高压点打孔）；玩笑内容却暗藏锐角：一个"什么都学过的孩子"恰是她失落童年的侧写——兽用打趣讲出了她不敢想的可能性。
+**为什么这样写**：在早餐礼仪段平静到近乎闲谈的当口，心声里冒出的这句是全章唯一的笑声——Flame 的喜剧功能已成结构性部件（她负责在每个高压点打孔）；玩笑内容却暗藏锐角：一个"什么都学过的孩子"恰是她失落童年的侧写——兽用打趣讲出了她不敢想的可能性。
 
 **读者视角提示**：注意 Flame 现在能实时读到她的困惑并接梗——Bond 的默契度在日常化中持续加深；她的玩笑清单（咬人别在早餐前 / super wise / know-it-all）都是"用轻松话讲重话"，把她的台词当加密信道用。
 

@@ -38,7 +38,7 @@ source_text: ch23
 
 **为什么这样写**：喻体选择极毒——玩具没有主体性，摆件的"错"不在自己而在摆放者（暗讽 Blake 的决定）；"Dressed up like one of us, but soft where it counts"的后半句（制服里藏着软骨头）与她的 fit glyph 战裙形成残酷互文：装备是借的，实力呢？
 
-**读者视角提示**：注意"toy"这个物化词与 Malissa 的"what's mine"、Ire 下章的"Mine"构成所有格连击——这部书的反派把世界看成货架，读他们的话先数动词。
+**读者视角提示**：注意"toy"这个物化词与 Malissa 的"what's mine"、Ire 此前（ch21）的"Mine"构成所有格连击——这部书的反派把世界看成货架，读他们的话先数动词。
 
 > **原句 3:** "Sing. Immobilize me. Stop being so afraid and try it."
 
@@ -72,11 +72,11 @@ source_text: ch23
 
 > **原句 6:** "At least I'm not some stubborn Silver ironneck ready to slaughter and maim for his own gain."
 
-**中文理解**：至少我不是那种为了私利就屠杀残肢的顽固 Silver——她的第一次正面反击，把"irneck"的骂名原样掷回。
+**中文理解**：至少我不是那种为了私利就屠杀残肢的顽固 Silver——她的第一次正面反击，借 Azure 阵营对 Silver 的蔑称（ironneck）反贴到 Blake 头上。
 
 **关键词**：Silver ironneck（Silver 铁脖族）· slaughter（屠杀）· own gain（私利）
 
-**为什么这样写**：weeks 积压的怒气在一个"At least"里开闸——她用他的族群标签反向贴标签，以牙还牙的句式说明两人已进入对等骂战；把"屠杀"钉到他职业头上（Arena 屠杀、追杀 Azures 的旧账）一击见血，才逼出他反问那句"What are you doing here, then?"的真问题。
+**为什么这样写**：weeks 积压的怒气在一个"At least"里开闸——她把本阵营骂 Silver 的蔑称（ironneck）反贴到他脸上，以牙还牙的句式说明两人已进入对等骂战；把"屠杀"钉到他职业头上（Arena 屠杀、追杀 Azures 的旧账）一击见血，才逼出他反问那句"What are you doing here, then?"的真问题。
 
 **读者视角提示**：这场戏以互伤收场但各留破绽：他承认被刺痛、她眼眶发烫——注意骂战的"回合制"，这对的亲密就是靠这种带血的互怼垒起来的。
 

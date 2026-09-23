@@ -56,7 +56,7 @@ source_text: ch28
 
 **关键词**：marrow（骨髓）· primal（原始的）· dormant（蛰伏的）
 
-**为什么这样写**：三个"from..."的身体地理学（骨髓→肺底→原始之地）把发声的源头一路下挖到"不是她"的地方——"waiting, dormant, for this exact moment"说明这股力量有预谋地潜伏着，等的就是这场必死之局；与 ch22"something old and deep"同一句话的两次展开：她体内一直有人在排队。
+**为什么这样写**：三个"from..."的身体地理学（骨髓→肺底→原始之地）把发声的源头一路下挖到"不是她"的地方——"waiting, dormant, for this exact moment"说明这股力量有预谋地潜伏着，等的就是这场必死之局；与 ch19"something old and deep"同一句话的两次展开：她体内一直有人在排队。
 
 **读者视角提示**：她每次大招都伴随"这不是我"的失控感（ch10 without me、ch18 someone else speaking）——歌声的真正主人是谁，是全书核心谜题的第四次加重砝码；这次的关键词是 bone marrow（骨头里），离"血统"只差一层纸。
 
@@ -72,7 +72,7 @@ source_text: ch28
 
 > **原句 6:** "Letting go of my mouth, which was now just as frozen as the rest of me, the Ravager reached up and pulled off his mask."
 
-**中文理解**：他松开捂住我嘴的手——我整个人和那只手一样僵住——Ravager 抬手摘下了面具；全章定格在这一帧。
+**中文理解**：他松开捂住我嘴的手——我的嘴早和全身一样僵着；Ravager 抬手摘下了面具；全章定格在这一帧。
 
 **关键词**：mask（面具）· pulled off（摘下）· frozen（僵住）
 

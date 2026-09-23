@@ -72,7 +72,7 @@ source_text: ch16
 
 > **原句 6:** "Many will not return. But each surviving warrior shall be granted a personal boon, a wish of extraordinary magnitude."
 
-**中文理解**：很多人回不来——但每个活下来的战士将获赐一个非凡的愿望；赏格半句（他前一句刚说完"The task is dangerous"）把险与赏同时压上桌面。
+**中文理解**：很多人回不来——但每个活下来的战士将获赐一个非凡的愿望；赏格半句（她前一句刚说完"The task is dangerous"）把险与赏同时压上桌面。
 
 **关键词**：surviving（幸存的）· boon（恩赐、愿望）· return（归来）
 

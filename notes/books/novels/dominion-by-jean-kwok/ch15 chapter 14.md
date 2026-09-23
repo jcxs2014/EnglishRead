@@ -44,7 +44,7 @@ source_text: ch15
 
 **中文理解**：没有 Rubi，我们的 tygress queen 根本不会繁衍——Blake 把"杀她"直接翻译成"灭种"。
 
-**关键词**：Mate（繁殖配对）· tygress queen（tyress 女王）· without（没有）
+**关键词**：Mate（繁殖配对）· tygress queen（tygress 女王）· without（没有）
 
 **为什么这样写**：在 Ire 用礼法论证之后，Blake 用人口学反杀——一句话把处死案变成王室绝后的自杀选项；"would not Mate at all"的绝对化断言（他此前从不把话说满）显示他已读懂 Flame 的心声并选择全信，政治豪赌与私人庇护在同一条证词里完成捆绑。
 

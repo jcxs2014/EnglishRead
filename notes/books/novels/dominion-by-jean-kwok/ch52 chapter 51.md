@@ -22,7 +22,7 @@ source_text: ch52
 
 > **原句 1:** "The one that ate the Red princess's soul in front of me. While she screamed as she was dying."
 
-**中文理解**：就是当着我的面吃掉 Red 王储灵魂的那头——她临死时的惨叫我听得一清二楚；Blake 为影像里的恶魔验明身份时抖出的亲历证词。
+**中文理解**：就是当着我的面吃掉 Red 公主灵魂的那头——她临死时的惨叫我听得一清二楚；Blake 为影像里的恶魔验明身份时抖出的亲历证词。
 
 **关键词**：ate（吃掉）· soul（灵魂）· screamed（惨叫）
 

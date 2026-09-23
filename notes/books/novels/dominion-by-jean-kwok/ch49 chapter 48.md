@@ -76,7 +76,7 @@ source_text: ch49
 
 **关键词**：warlord（军阀）· legend（传说）· riding atop（骑于其上）
 
-**为什么这样写**：喻体直接动用"legend"级规格——Blake 的登场词典里第一次出现史诗腔（此前全是军令与毒舌）；"was Kingsolver, and riding atop him, Blake"的倒装句式像揭幕：先兽后人、层层亮牌——她的心上人不是走来的，是骑着银色神话冲破木门来的；与 ch10 他冷脸说"You're not dead yet"的初见押韵：每次她濒死，他的出场都自动升格一档。
+**为什么这样写**：喻体直接动用"legend"级规格——Blake 的登场词典里第一次出现史诗腔（此前全是军令与毒舌）；"was Kingsolver, and riding atop him, Blake"的倒装句式像揭幕：先兽后人、层层亮牌——她的心上人不是走来的，是骑着银色神话冲破木门来的；与 ch09 他冷脸说"You're not dead yet"的初见押韵：每次她濒死，他的出场都自动升格一档。
 
 **读者视角提示**：注意营救阵容=全境兽群+Kingsolver+Blake——她的"齐鸣广播"叫来了整个国家的兽与她们的主人：这是一次由她发起、全军执行的救援，主角位已彻底坐稳；下一章反杀的每一记，都记在她画的那条 thread 上，别让账走丢。
 
