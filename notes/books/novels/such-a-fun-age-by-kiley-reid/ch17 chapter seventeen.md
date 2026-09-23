@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Alix的内心独白是"那是我妈妈的"——这是她最深处的占有欲。她不希望任何人碰Emira，包括Kelley。
 >
 > **读者视角提示**："That's Mama's"——这是Alix的本能反应。她把Emira视为自己的财产，而不是一个独立的人。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| presentation | 展示，郑重其事的举动 | "Kelley made a grand presentation of a recently purchased condom." |
+| infatuation | 痴迷，迷恋 | "the infatuation was dangerous and heavy." |
+| remembering | 记住，回忆 | "I'll never mind remembering this." |
+| wonderfully | 令人愉悦地（此处反讽） | "Kelley made Alix so wonderfully nervous" |
+| familiarity | 亲昵，熟稔 | "not just because of the sexual familiarity that they displayed." |
+| gratitude | 感激，感恩 | "she breathed a sigh of relief and gratitude." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| purchased | 买来的 | "a recently purchased condom" |
+| squeezed | 紧紧捏，握 | "Jodi squeezed Alix's arm so hard" |
+| dormant | 潜伏的，休眠的 | "if it had only become dormant by means of time and space." |
+| throwing | 呕吐 | "her child was throwing up at the dinner table." |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| hands | 双手 | "Alix watched Jodi put her hands to her mouth." |
+| table | 餐桌 | "Emira's body was soaring across the table" |
+| towel | 毛巾 | "they should put down a towel since her bedspread was so nice." |
+
+## 一句话总结
+
+Alix 的视角里，这一章只有一件事：Kelley 的手搭在 Emira 腰上，而她想把它拿开——"not just because of the sexual familiarity that they displayed"。她认出了那只手："the same hand that used to hold the underside of her jaw after varsity games and coed scrimmages." 十七岁的迷恋从未结束，只是"dormant by means of time and space"。餐桌另一端 Briar 正在呕吐，Jodi 捏住她的手臂（"it wasn't the first time"），而 Jodi 喊出的"Alix-honey, grab your girl"让她恍惚了一下——她不确定那指的是谁。

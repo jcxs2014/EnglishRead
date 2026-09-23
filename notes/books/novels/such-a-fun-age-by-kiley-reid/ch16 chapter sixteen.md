@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira对Briar的关心是真实的——她看到Briar的异样。但在这个场合，她的关心被忽视了。
 >
 > **读者视角提示**："B"——Emira用昵称称呼Briar，这暴露了她和Briar之间的亲密关系。但这个关系在餐桌上被边缘化了。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| undergraduate | 本科（阶段） | "She'd gone to undergraduate school to figure out what she wanted to do" |
+| sister-in-law | 嫂子，小姑子 | "my sister-in-law went to a certificate program for hotel management" |
+| embarrassed | 尴尬的，难堪的 | "made Emira so embarrassed she could barely speak" |
+| calligraphy | 书法 | "Like—calligraphy and shit?" |
+| neutrality | 中立（net neutrality 网络中立） | "Walter asked Kelley what the heck net neutrality was anyway." |
+| internship | 实习，实习期 | "change up your schedule to fit in an internship or classes" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| certificate | 证书，结业证 | "a certificate program for hotel management" |
+| graduate | 研究生（的） | "wasn't graduate school for the students who had succeeded?" |
+| giggling | 咯咯笑 | "Imani was giggling in awe at Prudence" |
+| football | 橄榄球 | "discussing the new Penn State football coach" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| table | 餐桌 | "Chamberlain and the table broke off into smaller conversations." |
+| asked | 询问 | "Walter asked Kelley what the heck net neutrality was anyway." |
+| night | 夜晚，那晚 | "to cover up that awful night altogether?" |
+
+## 一句话总结
+
+Peter 的祝酒词让 Emira 尴尬到几乎说不出话，Tamra 紧接着追问她的"big goal"和 Temple 的 GPA——这张桌子上没人意识到自己正把阶级审视包装成关心。Emira 在心里反问："If I had a 'big goal,' do you really think I'd be sitting at this fucking table right now?" 她同时开始怀疑 Alix 在撒谎——"Chamberlain was lying when she said they'd met on the train, to cover up that awful night altogether?" 全章的窒息感不在争吵，而在 Emira 必须礼貌地回答每一个问题。

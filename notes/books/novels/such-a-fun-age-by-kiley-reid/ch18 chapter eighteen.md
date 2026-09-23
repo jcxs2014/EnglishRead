@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：这是Emira的独立宣言——她不再接受Kelley的指导。这是她第一次在Kelley面前站稳立场。
 >
 > **读者视角提示**："You don't get to tell me"——Emira的语气是坚定的。她不再是一个需要被指导的人。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| inconvenienced | 被添麻烦的，受累的 | "as if no one else was inconvenienced and late." |
+| sepia-colored | 深棕色（老照片色调）的 | "other sepia-colored cowboys" |
+| water-stained | 有水渍的 | "Emira looked up at the water-stained ceiling." |
+| uncomfortable | 令人不适的，不自在的 | "I wouldn't have taken you somewhere uncomfortable on purpose." |
+| particularly | 尤其，格外 | "Emira felt that Kelley was acting particularly white." |
+| recollection | 回忆，回想 | "she was finding her thoughts and recollection of the evening" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| favorite | 最喜欢的 | "This dress isn't really my favorite either." |
+| probably | 大概，很可能 | "you probably won't be the last." |
+| bothered | 在意的，介怀的 | "rather than bothered by the delay itself." |
+| trembled | 发抖，颤抖 | "her whole body trembled" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| table | 台球桌 | "a vacant pool table in a wood-paneled back room." |
+| night | 夜晚，那晚 | "I remember that night very well" |
+| dress | 连衣裙 | "This dress isn't really my favorite either." |
+
+## 一句话总结
+
+回程车上 Emira 第一次感到 Kelley "acting particularly white"；酒吧里他才把 Alex Murphy 的过去一次性倒出来——叫警察、把黑人女性当成"最好的朋友"来用："Alex completely gets off on either having black people work for her or calling the cops on them." Emira 的反击不在愤怒，而在句式的精确："I don't need you to be mad that it happened. I need you to be mad that it just like . . . happens." 她要的不是替她愤慨，而是承认这件事"就这样一直发生"。章末 Kelley 问"要不要谈谈我在酒吧说的话"，她说"Ummm, nope."——这一章里她最像一个成年人的时刻，反而发生在她拒绝的那一刻。
