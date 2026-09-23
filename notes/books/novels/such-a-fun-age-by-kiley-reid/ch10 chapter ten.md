@@ -94,3 +94,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Kelley的短信是实用的——他告诉Emira要带身份证，因为Frank（门卫）需要确认。但这也暗示了Emira的"秘密"——她需要带证件才能进入Kelley的世界。
 >
 > **读者视角提示**："Frank knows"——Kelley已经通知了门卫。这意味着Emira进入Kelley的生活是经过安排的，不是一次偶然的拜访。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| expensive-looking | 看起来很贵的 | "Chamberlain did this all in gorgeous, expensive-looking jeans." |
+| overstimulated | 过度受刺激的 | "Briar was distracted and overstimulated by the post office lights and boxes and people." |
+| congratulatory | 表示祝贺的 | "She could be genuinely congratulatory when Briar successfully pressed the button" |
+| approximately | 大约，约莫 | "he was blind for approximately two minutes" |
+| alphabetized | 按字母顺序排列的 | "A spice rack that was alphabetized" |
+| applications | 申请表，申请书 | "we'll sit in front of the TV and fill out some job applications." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| collarbones | 锁骨 | "With her hands in fists at her collarbones" |
+| button-down | 带领扣衬衫 | "a gray pencil skirt and a baby blue button-down" |
+| sandwich | 三明治 | "Josefa pressed a knife into her sandwich" |
+| bathroom | 洗手间 | "Emira stepped into the adjacent bathroom and closed the door behind her." |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| phone | 手机 | "she held her phone to her ear" |
+| hands | 双手 | "With her hands in fists at her collarbones" |
+| front | 前面 | "In a gray sweatshirt that read BU on the front" |
+
+## 一句话总结
+
+Shaunie 的生日派对是 Emira 的照妖镜：Zara 宣布拿到 Sony 的市场专员职位、Josh 在楼上等、寿星尖叫着"我拿到了"，而 Emira 唯一能做的是提出帮朋友"填 job applications"。她对 Alix 的谎言（"I'm kinda beat"）背后是月底的房租——同一晚，她第一次对 Kelley 说出"我可能会去别的地方"。全书对"朋友有了出路而我还在原地"的焦虑，在这一章写得最疼。

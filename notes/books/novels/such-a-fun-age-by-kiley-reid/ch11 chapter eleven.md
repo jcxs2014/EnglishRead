@@ -74,3 +74,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Catherine的第一句话是"Hi"——这是她对Emira的认可。在Alix的世界里，Catherine说"Hi"是一个重大事件，因为它意味着Emira被接受了。
 >
 > **读者视角提示**："Catherine May Chamberlain"——Catherine的全名出现在这里，暗示她正在成为一个独立的人，而不仅仅是"Alix的女儿"。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| breast-feeding | 哺乳，喂母乳 | "While breast-feeding Catherine, she wondered if Emira had seen the movie Pretty Woman" |
+| unsuccessfully | 不成功地，徒劳地 | "Alix often and unsuccessfully tried to drop these bits of information" |
+| reorganizing | 重新安排，重组 | "Alix also found herself reorganizing her lifestyle around Emira" |
+| accidentally | 不小心地，无意间 | "Alix would risk accidentally saying I love you" |
+| contentious | 有争议的，易引争端的 | "if she found it contentious" |
+| apocalyptic | 末日般的，灾难性的 | "It was insane, and kind of apocalyptic." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| daughter | 女儿 | "While she rocked her second daughter in front of her stomach" |
+| tomorrow | 明天 | "But tomorrow was Thanksgiving" |
+| computer | 电脑 | "she'd wait till Emira closed the door behind her to go to her computer" |
+| favorite | 最喜欢的 | "That Alix's new and favorite shoes were from Payless" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| phone | 手机 | "Emira's phone glowed with a text banner across the top." |
+| three | 三 | "she and Peter hadn't had sex in almost three weeks" |
+| found | 发现，察觉 | "Alix found herself pondering what time Emira went to bed." |
+
+## 一句话总结
+
+Alix 的视角第一次单独成章，内容却是一份病态的自白：她删掉购物标签以免 Emira 看见价格、幻想 Emira"发现真正的她"、把 Emira 可能的到场算作"让感恩节变得不同"的筹码——"发现 Emira 能在她们的感恩节餐桌上有一个座位，让 Alix 兴奋得几乎飘起来"。与此同时，她与 Peter 已三周没有性生活，与三位闺蜜也从未同框。Alix 以为自己是在关心一个年轻女性，其实她是在为自己寻找见证者。

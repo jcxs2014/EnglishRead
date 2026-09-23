@@ -64,3 +64,37 @@ modified: "2026-09-23"
 > **为什么这样写**："panic and recognition"精确描述了Mrs. Chamberlain的反应——她认出了Emira，但不知道该如何处理这个认出。"glass door"是比喻——Emira的存在像一扇透明的门，Mrs. Chamberlain差点撞上。
 >
 > **读者视角提示**："as if she'd almost walked into a very clean glass door"——这是全章最精妙的比喻。Emira的存在对Mrs. Chamberlain来说是透明的，但她差点撞上这面透明的墙。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| disappointed | 失望的 | "I'm sure you won't be disappointed." |
+| twenty-four | 二十四 | "They'd spent the last twenty-four hours together at his apartment" |
+| candlelight | 烛光 | "Fumes of candlelight, pumpkin pie, and brandy came with her." |
+| recognition | 认出，辨认 | "with both panic and recognition, as if she'd almost walked into a very clean glass door." |
+| previously | 先前地，此前 | "she spotted previously made footprints in the snow" |
+| footprints | 脚印 | "she spotted previously made footprints in the snow" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| doorbell | 门铃 | "He placed his finger on the doorbell." |
+| balanced | 平衡地搁着 | "it balanced an inch high on naked trees, wires, and window ledges." |
+| multiple | 多个的 | "along with multiple children who could speak in full sentences." |
+| handsome | 英俊的 | "so holiday handsome" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| boots | 靴子 | "Emira stepped out of a yellow cab in beige faux-suede boots." |
+| weird | 奇怪的，别扭的 | "I feel weird using my key." |
+| first | 第一次 | "It was the first time all day the snow had stopped falling" |
+
+## 一句话总结
+
+感恩节当天，Emira 带着 Kelley 走进 Chamberlain 家——她平时只在工作日进入的房子，今天她是以"客人"的身份来的（"I feel weird using my key"）。Kelley 在门口就认出了女主人：Mrs. Chamberlain 就是 Alex Murphy。全书的两条线在这里第一次物理相遇：一边是十七岁那年被毁掉名声的白人女孩，一边是黑人女孩的男友，而站在他们中间的 Emira 还不知道自己是这场重逢的引信。
