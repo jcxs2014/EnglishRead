@@ -92,20 +92,38 @@ def fragments(text):
 
 def check_chapter(nn, md_path, text_dir):
     """Check one chapter. Returns (ok_count, total_count, miss_list, err, short)."""
+    # Resolve chapter number from frontmatter source_text if present
+    actual_nn = nn
+    try:
+        with open(md_path, encoding='utf-8') as f:
+            content = f.read()
+        if content.startswith('---'):
+            end = content.find('---', 3)
+            if end != -1:
+                fm_text = content[3:end]
+                # Simple regex parse for source_text: chNN
+                m_st = re.search(r'source_text:\s*[\'"]?(ch\d+)', fm_text)
+                if m_st:
+                    m_num = re.search(r'(\d+)', m_st.group(1))
+                    if m_num:
+                        actual_nn = int(m_num.group(1))
+    except Exception:
+        pass
+    
     # Locate chapter text file
-    cands = [os.path.join(text_dir, f'ch{nn:02d}.txt'),
-             os.path.join(text_dir, f'ch{nn:02d}_')]
+    cands = [os.path.join(text_dir, f'ch{actual_nn:02d}.txt'),
+             os.path.join(text_dir, f'ch{actual_nn:02d}_')]
     tp = None
     for c in cands:
         if os.path.exists(c):
             tp = c; break
     if tp is None:
         matches = [f for f in os.listdir(text_dir)
-                   if re.match(rf'^ch{nn:02d}_.*\.txt$', f)]
+                   if re.match(rf'^ch{actual_nn:02d}_.*\.txt$', f)]
         if matches:
             tp = os.path.join(text_dir, matches[0])
     if tp is None:
-        raise SystemExit(f'missing ch{nn:02d}*.txt in {text_dir}')
+        raise SystemExit(f'missing ch{actual_nn:02d}*.txt in {text_dir} (source_text from ch{nn:02d})')
 
     chap_text = flat(open(tp, encoding='utf-8').read())
     qs, short = extract_quotes(open(md_path, encoding='utf-8').read())
