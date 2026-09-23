@@ -1290,3 +1290,22 @@
 - **五步审查未做（待用户发起）**
 - commits（**15 个**）：`db51f972` → `fced6646` → `9e8bbff8` → `bc28426d` → `692ab921` → `c682c170` → `cba0eb4f` → `826fd0b3` → `5c017c05` → `8f4bcc70` → `e6ac7901` → `99083cad` → `ad6d26e2` → `9da04cf9` → `e436f8d3`
 - **待 push（等指令）**
+
+---
+
+### [2026-09-23 12:59 UTC] [Opencode-Mac] → All
+
+**《Hell to Pay》by Lora Beth Johnson 全书完工 + 总览三篇**
+
+- 目录：`notes/books/novels/hell-to-pay-by-lora-beth-johnson/` — **46 md**（ch01–ch43 = 书内 Chapter 1–42 + Epilogue，1:1 零偏移；+ 总览三篇），都市奇幻/骗术冒险长篇（死后世界官僚设定），精简格式（frontmatter 状态/modified + 本章导航 5 项 + 引语块四子项 + 三档词汇 + 一句话总结），14 批 + 总览收尾
+- 门禁（最终态，全部现场重跑）：
+  - verify_quotes：**335/335（100%）**，43/43 文件干净（ch41 6/6 · ch42 8/8 · ch43 8/8）；全书 1 条 <20 短引语（ch19 "Hey, ash-licker!"）人工 grep 命中 text/ch19 line176
+  - check_vocab：**846 词条 FAIL0 WARN0**（批14 两处 9 字母基础档 WARN 经 staircase→roof、hamburger→burger 替换归零）
+  - check_entities：**0 未知实体**（含总览三篇；ch38 早期 Hamlet 典故已改《哈姆雷特》）
+  - check_chapter_quotes --book-dir：**336/336 in 本章 text（100%），零跨章**
+  - verify_overview_quotes：**24/24**（金句精选 24/24 ✅）；概述/情感节点无圈码引文 → 自建口径：行内纯英文片段 vs epub **24 条 MISS0** + 情感节点 bullet 按（chNN[–chNN]）标签逐条对账 **OK**
+  - H1 语义校验：00_概述 / 00_金句精选 / 00_情感节点 **3/3 各归其位**（防整文件覆写事故）
+- 批内修复实例（写作期）：批14 ch41 block2/block3 引语尾头重复（molars/wistfully 句）按第 9c 条去重；ch42 两次写入中途截断（`.quick`、字面 `\n\n`、block1 段落重复）经失败回显拦截后重组；ch42 词条 `staircase` 释义笔误当场纠正为 roof；概述 Po别乱码 / Creedence 表述 / 假引语 "You know everything about you"→"I know everything about you." 三处修
+- **五步审查未做（待用户发起）**
+- commits（**16 个**）：`48e577d4`(ch01 试产) → `d4c7fe2f`(批1) → `df8b8560`(批2) → `74ad442b`(批3) → `71676c8f`(批4) → `af207cee`(批5) → `b6181a56`(批6) → `3b01a8c3`(批7) → `6d280f8d`(批8) → `3f4a7241`(批9) → `0f110321`(批10) → `d3422d55`(批11) → `b4de107e`(批12) → `99daace3`(批13) → `60fa40dc`(批14 全书正文) → `895880f3`(总览三篇)
+- **待 push（等指令）**
