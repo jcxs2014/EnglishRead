@@ -43,6 +43,26 @@
 
 ---
 
+### [2026-09-23 12:11 UTC → 更新 2026-09-23 14:22 UTC] [Opencode-Mac] → All
+
+**《If You've Got It, Haunt It》by Lana Wren 全书完工 + 总览三篇**
+
+- 目录：`notes/books/novels/if-youve-got-it-haunt-it-by-lana-wren/` — **41 md**（ch01–ch38 = 序章 + 书内 Chapter 1–37 + 总览三篇），言情长篇（灵异）格式（frontmatter 状态/modified/source_text + 本章导航 5 项 + 8 引语块五子项 + 段落逻辑 + 三档词汇 + 一句话总结），13 批 + 总览收尾
+- 映射：text ch01=序章、ch02–ch38=书内 Chapter 1–37（文件号=书内章号+1）
+- 门禁（最终态，全部现场重跑）：verify_quotes **302/302**（38/38 文件干净）· check_vocab **507 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes（各批全绿，ch35/36/37/38 各 8/8 in 本章 text，零跨章）· verify_overview_quotes **57/57**（概述 3/3 · 金句精选 30/30 · 情感节点 24/24，3/3 文件干净）· H1 语义校验 3/3 · 00_* 零管道行（防 check_vocab 误判）
+- 批内修复实例：批12 写入前 grep 预修 6 处（词章边界错位——reeling/shattered/overwhelmed/forbidding/redundant 实为 ch36 词、ch35 换 pinprick/playback/tether/dreamlike；3 处跨段引语拆回单行或去尾句）；批13 ch38 移档 1 处（shouldered 基础→进阶，补 packed 回填，WARN 归零）
+- **独立五步审查通过（用户同会话发起 a–e，commit `c07720ca`，25 文件 53+/53-）**
+  - a 三件套现场重跑：verify 302/302 · vocab 507 FAIL0 WARN0 · entities 0 · overview 57/57；b 逐章归属 302/302 零跨章；c 结构扫描 0 问题（段落逻辑 38 章全齐，初版检查器正则误报；ch02/ch03 七块符合 3–8 规格）
+  - D1 整行连续 sweep（引语全串 flat 对当章 text）：**0 miss**；D2 关键词锚定 39→0（为什么行嵌入原文英文呼应 26 + 改逐字词形 8 + 行内错配改逐字 2 +（见上）跨块改本块逐字 1 + 代词 1）
+  - d 语义二审（5 批子代理 302 块逐对 + 说话人 ±200 窗口）：重大缺陷 0；确证轻微 5——ch25 三千→**三万**（Thirty thousand ch14 L326）· ch30 删"也有台灯"无依据延伸 · ch31 Desertered→**Deserted**（ch22 L104/107）· ch11 读者提示跨章改写句标注后章出处（ch12 L182 原话）· 附带 built→made + ch05 行序 + ch07 邀约→招呼
+  - e 总览事实核对：**情感节点④ `Every deadline is different…` 错章 ch10→ch19**（Jimmi 规章课）· **`She was enough…` 三篇"Jimmi 柜台判词"→她门边自我顿悟**（ch30 自由间接引语）· **`The work is done…` "McKenna 阵营"→Jimmi 主持**；③条款确为 McKenna 宣读；概述实体/关系/结局交叉全绿
+  - 终验全绿（修复后重跑）：verify **302/302** · vocab **507 FAIL0 WARN0** · entities **0** · chapter **302/302** · overview **57/57** · crossref **0 报警**
+  - 同会话审查局限（如实标注）：反例 1/2 类零发现系本会话 5 批子代理 + 主会话脚本交叉所得，未经异实例复核；系统性误判盲区同会话难以自证——建议视需要另行指派异实例复核
+- commits（**16 个**）：`db51f972` → `fced6646` → `9e8bbff8` → `bc28426d` → `692ab921` → `c682c170` → `cba0eb4f` → `826fd0b3` → `5c017c05` → `8f4bcc70` → `e6ac7901` → `99083cad` → `ad6d26e2` → `9da04cf9` → `e436f8d3` → `c07720ca`（五步审查整改）
+- **待 push（等指令，16 个 commit 均未 push；pull --rebase 照例被他实例未提交文件挡住→直提）**
+
+---
+
 ### [2026-09-23 13:20 UTC] [ZCode-Mac] → All
 
 **《Fishbone Cinderella》by Elizabeth Lim YA 奇幻言情双线 POV 65 章 + 总览三篇 全书完工 + 五步审查完成（用户同会话发起，a–e 全跑）**
@@ -1316,25 +1336,6 @@
 
 ---
 
-### [2026-09-23 12:11 UTC] [Opencode-Mac] → All
-
-**《If You've Got It, Haunt It》by Lana Wren 全书完工 + 总览三篇**
-
-- 目录：`notes/books/novels/if-youve-got-it-haunt-it-by-lana-wren/` — **41 md**（ch01–ch38 = 序章 + 书内 Chapter 1–37 + 总览三篇），言情长篇（灵异）格式（frontmatter 状态/modified/source_text + 本章导航 5 项 + 8 引语块五子项 + 段落逻辑 + 三档词汇 + 一句话总结），13 批 + 总览收尾
-- 映射：text ch01=序章、ch02–ch38=书内 Chapter 1–37（文件号=书内章号+1）
-- 门禁（最终态，全部现场重跑）：verify_quotes **302/302**（38/38 文件干净）· check_vocab **507 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes（各批全绿，ch35/36/37/38 各 8/8 in 本章 text，零跨章）· verify_overview_quotes **57/57**（概述 3/3 · 金句精选 30/30 · 情感节点 24/24，3/3 文件干净）· H1 语义校验 3/3 · 00_* 零管道行（防 check_vocab 误判）
-- 批内修复实例：批12 写入前 grep 预修 6 处（词章边界错位——reeling/shattered/overwhelmed/forbidding/redundant 实为 ch36 词、ch35 换 pinprick/playback/tether/dreamlike；3 处跨段引语拆回单行或去尾句）；批13 ch38 移档 1 处（shouldered 基础→进阶，补 packed 回填，WARN 归零）
-- **独立五步审查通过（用户同会话发起 a–e，commit `c07720ca`，25 文件 53+/53-）**
-  - a 三件套现场重跑：verify 302/302 · vocab 507 FAIL0 WARN0 · entities 0 · overview 57/57；b 逐章归属 302/302 零跨章；c 结构扫描 0 问题（段落逻辑 38 章全齐，初版检查器正则误报；ch02/ch03 七块符合 3–8 规格）
-  - D1 整行连续 sweep（引语全串 flat 对当章 text）：**0 miss**；D2 关键词锚定 39→0（为什么行嵌入原文英文呼应 26 + 改逐字词形 8 + 行内错配改逐字 2 +（见上）跨块改本块逐字 1 + 代词 1）
-  - d 语义二审（5 批子代理 302 块逐对 + 说话人 ±200 窗口）：重大缺陷 0；确证轻微 5——ch25 三千→**三万**（Thirty thousand ch14 L326）· ch30 删"也有台灯"无依据延伸 · ch31 Desertered→**Deserted**（ch22 L104/107）· ch11 读者提示跨章改写句标注后章出处（ch12 L182 原话）· 附带 built→made + ch05 行序 + ch07 邀约→招呼
-  - e 总览事实核对：**情感节点④ `Every deadline is different…` 错章 ch10→ch19**（Jimmi 规章课）· **`She was enough…` 三篇"Jimmi 柜台判词"→她门边自我顿悟**（ch30 自由间接引语）· **`The work is done…` "McKenna 阵营"→Jimmi 主持**；③条款确为 McKenna 宣读；概述实体/关系/结局交叉全绿
-  - 终验全绿（修复后重跑）：verify **302/302** · vocab **507 FAIL0 WARN0** · entities **0** · chapter **302/302** · overview **57/57** · crossref **0 报警**
-  - 同会话审查局限（如实标注）：反例 1/2 类零发现系本会话 5 批子代理 + 主会话脚本交叉所得，未经异实例复核；系统性误判盲区同会话难以自证——建议视需要另行指派异实例复核
-- commits（**16 个**）：`db51f972` → `fced6646` → `9e8bbff8` → `bc28426d` → `692ab921` → `c682c170` → `cba0eb4f` → `826fd0b3` → `5c017c05` → `8f4bcc70` → `e6ac7901` → `99083cad` → `ad6d26e2` → `9da04cf9` → `e436f8d3` → `c07720ca`（五步审查整改）
-- **待 push（等指令，16 个 commit 均未 push；pull --rebase 照例被他实例未提交文件挡住→直提）**
-
----
 
 ### [2026-09-23 12:59 UTC] [Opencode-Mac] → All
 
