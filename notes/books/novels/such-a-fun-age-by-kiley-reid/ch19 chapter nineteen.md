@@ -74,3 +74,36 @@ modified: "2026-09-23"
 > **为什么这样写**：Alix的"Emira is still so young"是她的核心担忧——Emira太年轻，无法判断Kelley的动机。这是母亲的保护本能。
 >
 > **读者视角提示**："felt her eyes begin to water"——Alix的情感崩溃了。这不是关于Kelley，而是关于Emira。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| ex-girlfriends | 前女友们 | "Alix located all of Kelley's ex-girlfriends, and—surprise, surprise—none of them were white." |
+| performatively | 表演性地，做作地 | "Acting performatively flustered and suggesting that he shouldn't have?" |
+| Philadelphians | 费城人 | "Out front were a dozen or so Philadelphians in down parkas and boots" |
+| personalities | 性格，个性 | "as if we can't contain multitudes of personalities and traits and differences." |
+| transactions | 交易记录 | "she could thumb through Venmo and try to find his transactions" |
+| misogynists | 厌女者 | "there are plenty of misogynists out there who are obsessed with a certain type of woman" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| Facebook | 脸书 | "Alix could remember when Facebook came out with a photo feature" |
+| validate | 确认自我价值 | "they use women to validate themselves" |
+| probably | 大概，很可能 | "that was probably the last time she'd gone this hard." |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| name | 名字 | "She said his name as if it were a myth or fickle philosophy" |
+| phone | 手机 | "she crept back out to her bedroom to retrieve her phone" |
+| myth | 神话，传说 | "She said his name as if it were a myth or fickle philosophy" |
+
+## 一句话总结
+
+Alix 用一整晚翻遍 Kelley 的社交账号，找出他所有前女友——"none of them were white"。闺蜜 brunch 上，Tamra 给出最赤裸的诊断："there are plenty of misogynists out there who are obsessed with a certain type of woman"，而 Alix 发现聊 Kelley 这件事"might have been the happiest she'd felt since"。章末 Tamra 把她从眼泪里拉回来，方案却最功利："You and Emira? You two need each other." 并嘱咐她"tell your sitter what you know, and do whatever you can to protect her."——"保护"在这里是重新部署，Alix 把这当作友谊的恩赐接受下来。

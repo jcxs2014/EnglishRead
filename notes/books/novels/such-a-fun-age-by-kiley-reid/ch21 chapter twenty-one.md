@@ -64,3 +64,36 @@ modified: "2026-09-23"
 > **为什么这样写**：这是Alix的独立宣言——她不再是被动的受害者，而是主动的保护者。这是她作为雇主和"准母亲"的双重身份。
 >
 > **读者视角提示**："whatever it takes"——Alix的语气是坚定的。她准备采取任何行动来保护Emira。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| thirty-somethings | 三十多岁的人 | "There were several twenty- and thirty-somethings in button-downs and peacoats" |
+| communications | 传播学 | "an email in her inbox from a professor in communications at the New School" |
+| underestimated | 低估 | "they both had greatly underestimated" |
+| repercussions | 后果，影响 | "without any repercussions" |
+| interrogating | 审问，盘问 | "So now you're blaming me for the police interrogating Emira?" |
+| inappropriate | 不合适的，不合时宜的 | "Was it a completely inappropriate time to clarify" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| happened | 发生 | "What the fuck just happened?" |
+| computer | 电脑 | "She went straight to the kitchen computer" |
+| daughter | 女儿 | "Her chatty and nervous daughter" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| snow | 雪 | "standing under a lamppost in the snow" |
+| movie | 电影 | "taking Briar to a movie." |
+| phone | 手机 | "Alix took her phone from the counter" |
+
+## 一句话总结
+
+Alix 去了一趟纽约：New School 的教授来信、campaign 的电话、在车站雪地里站着吃冰淇淋——她重新尝到了"从前的自己"。回到家后她做了一件事：用 Emira 的邮箱搜索 Kelley 的名字，"After Kell it came right up"，下载那封写着 September 2015 的唯一邮件（Market Depot 的视频），转发给自己、删除 Sent 记录、清空浏览历史，再补上两个"winter toddler crafts"式的搜索做掩饰。这一章让 Alix 从"自以为关心保姆的雇主"跨过了一条线——她拿走了 Emira 唯一的证据。最可怕的是她的从容：她甚至在动手之前先给 Laney 打了个电话。
