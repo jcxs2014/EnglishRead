@@ -1295,7 +1295,7 @@
 
 ### [2026-09-23 12:59 UTC] [Opencode-Mac] → All
 
-**《Hell to Pay》by Lora Beth Johnson 全书完工 + 总览三篇**
+**《Hell to Pay》by Lora Beth Johnson 全书完工 + 总览三篇 + 独立五步审查通过**
 
 - 目录：`notes/books/novels/hell-to-pay-by-lora-beth-johnson/` — **46 md**（ch01–ch43 = 书内 Chapter 1–42 + Epilogue，1:1 零偏移；+ 总览三篇），都市奇幻/骗术冒险长篇（死后世界官僚设定），精简格式（frontmatter 状态/modified + 本章导航 5 项 + 引语块四子项 + 三档词汇 + 一句话总结），14 批 + 总览收尾
 - 门禁（最终态，全部现场重跑）：
@@ -1306,6 +1306,13 @@
   - verify_overview_quotes：**24/24**（金句精选 24/24 ✅）；概述/情感节点无圈码引文 → 自建口径：行内纯英文片段 vs epub **24 条 MISS0** + 情感节点 bullet 按（chNN[–chNN]）标签逐条对账 **OK**
   - H1 语义校验：00_概述 / 00_金句精选 / 00_情感节点 **3/3 各归其位**（防整文件覆写事故）
 - 批内修复实例（写作期）：批14 ch41 block2/block3 引语尾头重复（molars/wistfully 句）按第 9c 条去重；ch42 两次写入中途截断（`.quick`、字面 `\n\n`、block1 段落重复）经失败回显拦截后重组；ch42 词条 `staircase` 释义笔误当场纠正为 roof；概述 Po别乱码 / Creedence 表述 / 假引语 "You know everything about you"→"I know everything about you." 三处修
-- **五步审查未做（待用户发起）**
-- commits（**16 个**）：`48e577d4`(ch01 试产) → `d4c7fe2f`(批1) → `df8b8560`(批2) → `74ad442b`(批3) → `71676c8f`(批4) → `af207cee`(批5) → `b6181a56`(批6) → `3b01a8c3`(批7) → `6d280f8d`(批8) → `3f4a7241`(批9) → `0f110321`(批10) → `d3422d55`(批11) → `b4de107e`(批12) → `99daace3`(批13) → `60fa40dc`(批14 全书正文) → `895880f3`(总览三篇)
+- **独立五步审查（用户同会话发起，a–e 全执行；全部现场重跑，未采信完工数字）** → 抓出并整改 **6 类缺陷（18 文件，`4601f873`）**：
+  - **c 步结构扫描**：字面 `\n\n` **62 处**（ch08/10/11/13/14/15/16 共 33 行）——「关键词」行吞并「为什么这样写」子项致其不在行首（工具口径外、四件套全绿下漏网）；修复后 336 块四子项全齐
+  - **d 步整行连续 sweep**（全串 flat，破 52 字符指纹盲区）：ch20 原句7 引语内 **CJK 侵入** `It’s另一 thing entirely` → 原文 `It’s another thing entirely`（ch20 line332 取证）
+  - **关键词锚定检查器**（≥20 章推荐自建）：真违规 **2**（ch11 `pages missing`→`those pages were removed`；ch38 `you had my word`→`I also promised I wouldn’t eat the last Eggo`）+ 2 处形变/注文规范化（ch26 shoot、ch25 元叙事词）；复扫 **0**
+  - **分析层跨章指涉 273 条清单**（check_crossref 中文盲区）：占位符 **`ch33?`**（Greg 梗实为 ch03/ch06）+ **章内自指 16 处**（ch19/22/25×2/34×2/36×2/38/40×4/43）→ 统一改「本章」；误标 **ch33→ch16**（变脸符出处，ch16 line185 `a small leather pouch` 取证）
+  - **e 步总览事实核对**：金句 24/24 逐字 ✅ + 行内引语 24 条 MISS0 + 情感节点 bullet 标签对账 OK + H1 3/3；`Garden District`（金句⑦）经 ch07 line14 取证有支撑；`Rook Crawford` / `Poppy Champagne` / `Tolliver Takao` / `Elysia Fields` 全 grep 取证；概述恶魔起源表述补原文 `if the stories are true` 存疑口径 + ch41 真相
+  - **复跑（整改后）**：verify **359/359（44/44 干净）** · vocab 846 **FAIL0 WARN0** · entities **0** · overview **24/24** · 逐章 **336/336** · crossref 8 对 0 报警 · 结构 0 / 锚定 0 / 转义 0
+  - **同会话审查局限（如实声明）**：a/b/c/e 为机械口径跨路径复跑；d 步由写作方自执行（未派异实例/子代理），对"全书统一系统性误判"的检出率低于零上下文复核——如需排除该盲区可另指派异实例抽样复核
+- commits（**17 个**）：`48e577d4`(ch01 试产) → `d4c7fe2f`(批1) → `df8b8560`(批2) → `74ad442b`(批3) → `71676c8f`(批4) → `af207cee`(批5) → `b6181a56`(批6) → `3b01a8c3`(批7) → `6d280f8d`(批8) → `3f4a7241`(批9) → `0f110321`(批10) → `d3422d55`(批11) → `b4de107e`(批12) → `99daace3`(批13) → `60fa40dc`(批14 全书正文) → `895880f3`(总览三篇) → `4601f873`(五步审查整改)
 - **待 push（等指令）**
