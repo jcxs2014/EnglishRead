@@ -9,7 +9,7 @@ source_text: ch11
 
 - **一句话概括**：Skotch 在 Mauler 的巢穴中终于见到 Meece 本人，却被 Fischer 以"Herr Bandit"称呼。Meece 揭露自己正在研发生物平等剂（对 Gehirner 和人类一视同仁的毒素），并拒绝合作。Tybelle 出现引发混战，Skotch 带 Meece 逃离。
 - **情感弧线位置**：高潮 — 揭开老鼠危险本质的一角
-- **本章精读**
+## 精读
 
 ①
 > **原句:** The great leveller. It's a phrase and Skotch knows what it means. But it's exactly the sort of rhetoric Skotch can see working on the Maulers. Just vague enough to sound like freedom until it turns out you're talking about murder.
@@ -95,15 +95,15 @@ source_text: ch11
 | Herr Bandit | 匪徒先生（Fischer 对 Skotch 的绰号） | "This here is Herr Bandit from Uzco…" |
 | Herr Washbear | 浣熊先生（Tybelle 对 Skotch 的德语绰号） | "You're short a mouse, Herr Washbear." |
 | sieve | 筛/滤（指从空气中勉强捕捉高频声音） | "The mouse makes a sound so high even Skotch's ears can only just sieve it from the air." |
+| centrifuge | 离心机（Meece 的化学实验设备） | "A miniature centrifuge whirs away, spinning its iotas of material." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| centrifuge | 离心机（Meece 的化学实验设备） | "A miniature centrifuge whirs away, spinning its iotas of material." |
 | goggles | 护目镜（Meece 的标志性装备） | "…save for that even smaller pair of goggles, bulbous and insectoid about his narrow wedge of a head." |
 | Rule One | 最高法则（禁止杀害人类或暴露 Gehirner 存在） | "Rule One teeters, but humans do know about the Gehirner." |
 
 ## 一句话总结
 
-Skotch 终于面对 Meece 本人，却发现这只老鼠正在研发生物武器（"伟大的均衡剂"），意图让人类与 Gehirner 平等 — 通过死亡。Tybelle 的突袭打断了审讯，Skotch 趁乱带 Meece 逃离 Madparrot Alley，但猫仍在追踪。
+Skotch 终于面对 Meece 本人。这位老鼠科学家自称追求 "an equality across our kind"（"the great leveller"）——Skotch 怀疑他在酿造投毒人类水源的武器，但 Meece 的真实工作要到全书后段才揭晓。Tybelle 的突袭打断了审讯，Skotch 趁乱带 Meece 逃离 Madparrot Alley，但猫仍在追踪。

@@ -74,6 +74,7 @@ source_text: ch06
 | popguns | 气枪（压缩空气驱动的简易枪支） | "Popguns slung over their backs…" |
 | bioplastic | 生物塑料（Gehirner 使用的可降解材料） | "…with bioplastic sacks and a trolley…" |
 | arsenal | 武器库 | "Nobody likes it when the rats in your walls get careless with a match and their arsenal blows up your living room." |
+| sommelier | 侍酒师 | "The sous chef and the head sommelier share an ashtray…" |
 
 ### ⭐⭐ 进阶
 
@@ -87,7 +88,6 @@ source_text: ch06
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| sommelier | 侍酒师 | "The sous chef and the head sommelier share an ashtray…" |
 | livery | 制服/号衣 | "…wearing their little waistcoats in the establishment's red and white livery." |
 | flurry | 一阵慌乱/急促的动作 | "…dashing from the room in a flurry of scrabbling paws…" |
 

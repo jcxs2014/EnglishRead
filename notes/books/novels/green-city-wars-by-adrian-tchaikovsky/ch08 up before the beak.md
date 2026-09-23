@@ -9,7 +9,7 @@ source_text: ch09
 
 - **一句话概括**：Skotch 因 Fitch 之死被 Benson 再次传讯 — 虽百般辩护仍被怀疑藏鼠，Benson 强令 Maria 随行，并暗示老鼠威胁远超赏金。Skotch 在圣弗朗西斯教堂与 Mauler 间谍 Fischer 接头，承诺谈判来交换老鼠。
 - **情感弧线位置**：高潮 — 危机加速，猎犬被迫深入猎场
-- **本章精读**
+## 精读
 
 ①
 > **原句:** "You have to admit," Benson says ponderously. "Looks pretty damn suspicious."
@@ -94,13 +94,13 @@ source_text: ch09
 | cutting in | 插队 | "There's a line, and he's cutting in…" |
 | the powers that be | 权威人士（宗教语境中指教堂管理者） | "…the powers that be have some idea of just what's at stake." |
 | circling back | 折返 | "…he keeps circling back and waving his big flat feet…" |
+| amphibian | 两栖动物（文中指 Fischer） | "Amphibians were a more ambitious engineering project than mammal or bird stock." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | possum | 负鼠 | "…possum-shaped shadow skulking along behind him." |
-| amphibian | 两栖动物（文中指 Fischer） | "Amphibians were a more ambitious engineering project than mammal or bird stock." |
 | necker | 领巾（Mauler 的标志，红色围巾） | "The knot of his red necker can just be seen jutting from between folds of warty flesh." |
 
 ## 一句话总结

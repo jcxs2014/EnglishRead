@@ -9,7 +9,7 @@ source_text: ch18
 
 - **一句话概括**：Skotch 逃离 Ratlabs — 与 Lulu 一起乘地铁（电车）横跨城市去见圣弗朗西斯。他们在电车底部与乘客近在咫尺。Lulu 伤势未愈，Skotch 意识到自己的"牵绊"正在拖累他。
 - **情感弧线位置**：转折后喘息 — 短暂的平静，但疲惫和羁绊加深
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Skotch moves swiftly through the heart of Rootspace One, hustling Lulu along even though she's weak and awkward, one wing splinted. Too big for the place and unable to just squeeze down through gaps like a raccoon. At least she's light, for all that plumpness. Skotch practically carries her hollow bones, following the tubes of illuminated roaches, passing rats who glance at him curiously but don't seem to understand who he is or why he's there.

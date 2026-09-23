@@ -9,7 +9,7 @@ source_text: ch14
 
 - **一句话概括**：Skotch 被带往 Separation Plant（分离工厂）— 等待处决。修女 Sister Craw 试图让他相信自己有"灵魂"。公开处决现场，Szerky 逼问老鼠下落，Maria 突然拒绝配合。混战爆发。
 - **情感弧线位置**：高潮 — 真相大爆发前的终极对峙
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Do raccoons have a sense of the numinous? That the world might contain more than can be grasped, smelled, bitten? Skotch, despite being one, can't say. If a lion could speak, the old human saw goes, could we understand it? And yes, it turns out you can understand the lion. But the act of reworking the lion to allow it to talk removes enough of its lion-ness that, when you ask, What's it like, being a lion? the thing can only shrug with the new shoulders you've given it.
@@ -38,7 +38,7 @@ source_text: ch14
 
 **中文理解：** Skotch 理性上认为：自我只是神经复杂性的涌现属性，浣熊天生就有某种微弱的"自我感"（nubbin），工程师只是在此基础上扩建。但现在的情况是：反正都要被机器碾碎了，为什么不信一下 Separatist？万一是真的呢？
 
-**关键词：** emergent property（涌现属性 — 复杂系统的特征）；nubbin（小块/微弱的痕迹）；bow the knee to（屈从/接受）；Pascal's wager（帕斯卡赌注 — 信上帝不会损失什么，不信可能下地狱）；post mortem（死后才生效）
+**关键词：** emergent property（涌现属性 — 复杂系统的特征）；nubbin（小块/微弱的痕迹）；bow the knee to（屈从/接受）；Pascal's wager（帕斯卡赌注 — 信上帝不会损失什么，不信可能下地狱）；post mortem（死后才生效 — Separatist 的"帮助"只在死后兑现）
 
 **为什么这样写：** 作者用帕斯卡赌注来反讽 Gehirner 的处境：信仰不是因为真实，而是因为"损失比收益不对称"。Skotch 的"实用主义信仰"是对宗教的终极解构。
 
@@ -93,12 +93,12 @@ source_text: ch14
 | emergent property | 涌现属性（复杂系统各部分交互产生的整体特征） | "…the self was no more than the emergent property of all that neurological complexity they put into him." |
 | lip service | 口头敷衍/表面认同 | "Why not pay lip service to the idea in case it's true?" |
 | guest list | 来宾名单（指围观处决的各方势力） | "…there's quite the select guest list for this execution." |
+| separator | 分离器（Gehirner 肉体的工业回收设备） | "…drop into the maw of the separator." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| separator | 分离器（Gehirner 肉体的工业回收设备） | "…drop into the maw of the separator." |
 | chute | 滑道/斜槽（尸体进入分离器的通道） | "There's a chute with a conveyor belt, constantly turning." |
 | nubbin | 小块/微弱的痕迹 | "…a native raccoon probably even has some dull nubbin of it, which the engineers built on." |
 

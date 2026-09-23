@@ -9,7 +9,7 @@ source_text: ch17
 
 - **一句话概括**：Skotch 被 Ratlabs 的 Nimoy 带到地下基地 — 见识了用蟑螂大脑"黑客"完成工作的革命性（且恐怖）技术。Nimoy 未经同意就给 Skotch 的 geneware 做了"安全更新"，展示力量并索要老鼠。
 - **情感弧线位置**：转折 — 从"老鼠是威胁"到"老鼠可能是武器"
-- **本章精读**
+## 精读
 
 ①
 > **原句:** They're on a car. Not the city's own infrastructure, not some repurposed human train or lift that the Little Helpers hitch a lift on. A little electric buggy, four wheels and a motor on a flatbed, and no obvious means of controlling it. Nimoy sits up front, but facing backwards, meaning Skotch clings on to the low rails because nobody visible is driving the thing.
@@ -67,9 +67,9 @@ source_text: ch17
 **读者视角提示：** Skotch 的恐惧不是来自 Nimoy 的恶意，而是来自她的真诚 — 她真的相信老鼠统治世界是"进步"。
 
 ⑥
-> **原句:** "hack my goddamn brain?"
+> **原句:** "Did you just," Skotch says, with admirable calm, "hack my goddamn brain?"
 
-**中文理解：** "你刚才黑了我该死的大脑？""一只孤独的浣熊，没有归属。最近的安全更新，小型的、重要的。在这些情况下，推定：你的默许。"
+**中文理解：** "你刚才，"Skotch 以令人钦佩的平静说，"黑了我该死的大脑？""一只孤独的浣熊，没有归属。最近的安全更新，小型的、重要的。在这些情况下，推定：你的默许。"
 
 **关键词：** hack my goddamn brain（黑了我该死的大脑 — Skotch 的愤怒）；no affiliation（没有归属 — Nimoy 对 Skotch 的定位：无公会人士）；security update（安全更新 — 把黑客行为包装成系统维护）；acquiescence（默示同意/默认）
 

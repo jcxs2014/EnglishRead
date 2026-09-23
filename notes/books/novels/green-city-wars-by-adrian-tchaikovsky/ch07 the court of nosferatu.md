@@ -82,13 +82,13 @@ source_text: ch08
 | spikers | 锥钉枪 | "…a trio of scar-pelted rats with spikers…" |
 | braggadocio | 吹牛/自夸 | "…some exaggerated story of braggadocio and skulduggery." |
 | skulduggery | 欺诈/阴谋 | "…some exaggerated story of braggadocio and skulduggery." |
+| partitioned | 分隔的/隔离的 | "…they live partitioned lives: armies, guilds, service contracts, territories." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | legion | 大量/众多 | "They're legion, and they live partitioned lives…" |
-| partitioned | 分隔的/隔离的 | "…they live partitioned lives: armies, guilds, service contracts, territories." |
 | stygian | 阴暗的（Styx 冥河，比喻极暗） | "…towards the stygian depths of the undercity." |
 
 ## 一句话总结

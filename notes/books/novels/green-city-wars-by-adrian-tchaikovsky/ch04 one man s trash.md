@@ -82,6 +82,7 @@ source_text: ch05
 | Skelter | 逃跑本能（虚构的 Gehirner 基因特性：松鼠的先天逃跑倾向） | "More Skelter in theirs, meaning an innate readiness to run." |
 | Rattenkönig | （德）鼠王（虚构的 Gehirner 社会结构：老鼠家族的统治者） | "…some Rattenkönig, armoured by association against any squirrel-led persecution." |
 | weathervane | 风向标/指示器 | "Always a good weathervane for how things are going…" |
+| bootlegging | 私酒酿造/非法交易 | "The Grays have a whole bootlegging operation off of the dregs." |
 
 ### ⭐ 基础
 
@@ -89,7 +90,6 @@ source_text: ch05
 |---------|------|------|
 | echelons | 等级，阶层 | "…soldiers high in the echelons of the army." |
 | conclave | 秘密会议；高层集会 | "…controlled by the sort of conclave of old Neuwien guilds…" |
-| bootlegging | 私酒酿造/非法交易 | "The Grays have a whole bootlegging operation off of the dregs." |
 
 ## 一句话总结
 

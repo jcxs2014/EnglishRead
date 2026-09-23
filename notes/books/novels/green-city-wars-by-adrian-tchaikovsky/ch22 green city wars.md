@@ -7,9 +7,9 @@ source_text: ch23
 
 ## 本章导航
 
-- **一句话概括**：Chapel 战役打响 — Szerky 率军围攻，Nimoy 的声波武器扭转战局，Szerky 被 Tybelle 杀死。
+- **一句话概括**：Chapel 战役打响 — Szerky 率军围攻；水下的蝾螈突袭队（Gasthofmund Irregulars）重创红方渡河部队，Nimoy 的声波武器击溃狐獾雇佣兵。Maria 与 Szerky 搏斗。
 - **情感弧线位置**：高潮终局 — 战争与意外的团结
-- **本章精读**
+## 精读
 
 ①
 > **原句:** "The human received a call from the sect she belongs to," Szerky announces proudly. "They are most displeased with her and have called her to an accounting. The humans, too, respect the rules. It is not fit that one of them comes down here, to soil herself amongst you city animals."
@@ -85,6 +85,7 @@ source_text: ch23
 |---------|------|------|
 | Meinen Herren and Damen | 先生们女士们（德语正式称呼） | "I'm giving you this one chance, Meinen Herren and Damen..." |
 | two pronged-attack | 双管齐下的攻击 | "...Marching orders. Two pronged-attack." |
+| promontory | 海角/岬角（Chapel 的突出部） | "...she strides forwards until she's at the furthest promontory of the Chapel's perimeter..." |
 
 ### ⭐⭐ 进阶
 
@@ -98,8 +99,7 @@ source_text: ch23
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| promontory | 海角/岬角（Chapel 的突出部） | "...she strides forwards until she's at the furthest promontory of the Chapel's perimeter..." |
 | parapet | 矮墙/护墙（指 Chapel 的防御墙） | "...putting their heads down below the parapet..." |
 
 ## 一句话总结
-Chapel 战役：Nimoy 的声波武器制造"隐形敌人"假象，红灰联军陷入混乱。Maria 与 Szerky 搏斗，Tybelle 杀死 Szerky。Meece 完成了 Plangent 公式的记录，Gehirner 社会即将迎来革命。
+Chapel 战役：蝾螈突袭队在水下重创红方渡河部队（"an invisible enemy utterly unsuspected"），Nimoy 的声波武器击溃狐獾雇佣兵。Maria 与 Szerky 搏斗 — Szerky 的结局留待下一章。

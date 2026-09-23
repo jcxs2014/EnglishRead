@@ -9,7 +9,7 @@ source_text: ch13
 
 - **一句话概括**：Skotch 在 Graycoat 的围攻中仓促赶赴 Sly 的巢穴，却发现人类捕狗队来过、Sly 的狗全被带走。Sly 本人也在 Graycoat 的攻击下奄奄一息 — 他临终前说出"拯救 Meece、改变世界"。
 - **情感弧线位置**：低谷 — 盟友死亡、线索断裂，任务濒临崩溃
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Humans don't get involved in Gehirner business. But dogs … dogs were always liminal. A pet dog is sacrosanct, protected by Rule One. A loose dog, unowned, is a problem that Gehirner tend to solve with a hunt in the same way that primitive humans wouldn't cohabit with a tiger.
@@ -83,12 +83,12 @@ source_text: ch13
 | contraband | 违禁品（指农场走私的食物） | "There's always a lively market for contraband from the farms…" |
 | bolthole | 逃生洞/藏身洞 | "…he's already cooling. Cold and sticky as laying a hand on the Baron." |
 | owing them favours | 欠人情 | "Who doesn't want to have the farm owing them favours?" |
+| Graycoats | 灰衣队（松鼠武装的别称） | "…a good dozen Graycoats, all of them armed." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| Graycoats | 灰衣队（松鼠武装的别称） | "…a good dozen Graycoats, all of them armed." |
 | popgun | 气枪 | "Skotch turns, and the popgun is in his hands." |
 | errand boys | 跑腿的/跟班 | "Graycoat Army just errand boys for the Country Clubs?" |
 

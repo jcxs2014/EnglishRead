@@ -9,7 +9,7 @@ source_text: ch10
 
 - **一句话概括**：Skotch 在 Fischer 和两只松鼠的押送下，乘木筏穿越地下水道，进入 Madparrot Alley（疯狂鹦鹉巷），会见 Mauler 头目 Wizzo 和鹦鹉外交官。他试图说服他们交出老鼠，却遭到拒绝。
 - **情感弧线位置**：高潮延续 — Skotch 深入敌方巢穴，信息量爆发式增长
-- **本章精读**
+## 精读
 
 ①
 > **原句:** The parrots had been a mistake. That was the conclusion the genetic engineers had come to, and it was a thought shared by most of their other creations.
@@ -69,13 +69,13 @@ source_text: ch10
 ⑥
 > **原句:** "Ain't nobody getting offed," says Wizzo the Rat, not looking up from his clockwork. "Some of us like Schreiber's stuff."
 
-**中文理解：** Wizzo 拒绝伤害 Skotch 和 Lulu — 原因竟是他喜欢 Lulu 的报纸专栏。这个细节既荒诞又温暖：革命队伍中人质的安全居然靠流行文化维系。
+**中文理解：** Wizzo 拒绝伤害 Skotch 和 Lulu — 原因竟是他喜欢 Schreiber 的作品。这个细节既荒诞又温暖：革命队伍中人质的安全居然靠流行文化维系。
 
-**关键词：** getting offed（被杀 — 口语化表达）；Schreiber's stuff（Schreiber 的东西，指 Lulu 的报纸专栏）
+**关键词：** getting offed（被杀 — 口语化表达）；Schreiber's stuff（Schreiber 的作品 — Lulu 的人类、小说家 Schreiber 写的书）
 
-**为什么这样写：** 作者用 "not looking up from his clockwork" 的肢体语言配合轻描淡写的台词，展现 Wizzo 的矛盾性格：一边是革命的冷酷领袖，一边是热爱读报的普通读者。这种反差让角色更立体。
+**为什么这样写：** 作者用 "not looking up from his clockwork" 的肢体语言配合轻描淡写的台词，展现 Wizzo 的矛盾性格：一边是革命的冷酷领袖，一边是热爱读书的普通读者。这种反差让角色更立体。
 
-**读者视角提示：** "Schreiber" 再次出现 — 他是 Lulu 的人类雇主，其专栏在 Gehirner 中广受欢迎。这个细节暗示 Gehirner 社会并非完全封闭：动物们在消费人类文化产品。
+**读者视角提示：** "Schreiber" 在此首次被点名 — 他是 Lulu 的人类（一名小说家，Lulu 是他的 amanuensis/记录员）。这个细节暗示 Gehirner 社会并非完全封闭：动物们在消费人类文化产品，也为末章 Schreiber 的登场埋下伏笔。
 
 ## 本章词汇
 
@@ -86,6 +86,7 @@ source_text: ch10
 | anathema | 诅咒，极度厌恶的事物 | "The sheer idea of being organised in that way turned out to be anathema to the parrots." |
 | votive worship | 祭祀供奉 | "As though that notional parrot god really does exist, in the form of the entire parrot community, and it can be appeased by votive worship." |
 | clockworks | 钟表机械（Wizzo 的爱好） | "He's making clockworks, obsessively fitting the wheels together even as he talks…" |
+| bandolier | 子弹斜挎带（Wizzo 的装饰） | "The rat with the bandolier…" |
 
 ### ⭐⭐ 进阶
 
@@ -101,7 +102,6 @@ source_text: ch10
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| bandolier | 子弹斜挎带（Wizzo 的装饰） | "The rat with the bandolier…" |
 | spanner | 扳手（Mauler 的标志性工具） | "…tinker with the nuts and bolts with a spanner…" |
 | dissent | 异议（Mauler 内部的争论） | "There is some dissent on this point…" |
 

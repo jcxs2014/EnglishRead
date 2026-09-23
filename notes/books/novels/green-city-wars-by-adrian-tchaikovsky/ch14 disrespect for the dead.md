@@ -9,7 +9,7 @@ source_text: ch15
 
 - **一句话概括**：Redcoat 突袭 Separation Plant 引发混战 — Skotch 在枪战中与 Ripper 搏斗，Lulu 被误射受伤。他被 Reds 俘获，军官 Brass-Shirt 以 Plangent 为饵逼供。
 - **情感弧线位置**：高潮余波 — 混战、逃亡、被俘
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Skotch comes as close to dying as he ever has, right in that moment, because the first shot—the one someone had time to line up—goes right into the Gray who's got a gun on him. Which means that gun goes off too as the squirrel's slammed sideways by the impact. The barrel of the weapon passes right across the breadth of Skotch's body as the trigger's being pressed. The convulsive clutch of the rodent's hands on the lever comes just as the path of the shot would take it through a solid knot of raccoon guts, but the infinitesimal delay between pressure and release means the spring-loaded projectile only hits fur.
@@ -58,11 +58,11 @@ source_text: ch15
 ⑤
 > **原句:** "Company raccoon," she says. "Where's your collar?"
 
-**中文理解：** Skotch 对着全场诅咒："我希望我毒死你们所有人" — 然后坚持说没有老鼠。他盯着那些齿轮，感觉神经像已经被勾住、越拉越紧的绳子。
+**中文理解：** "公司浣熊，"她说。"你的项圈呢？"— 他想装无辜，他真想。但他的肾上腺素系统已经超载，加上刺耳的噪音和断药的空虚，终于把他的自控 wrestle 到了地上。
 
-**关键词：** cord of his nerve stretch thin（神经被拉紧到极限）；pulled tauter and tauter（越拉越紧 — 进行时态强调持续加剧的痛苦）
+**关键词：** Company raccoon（公司浣熊 — 对 Uzco 员工的称呼）；Where's your collar（你的项圈呢 — 讽刺 Skotch 已被公司抛弃）
 
-**为什么这样写：** "I hope I poison the lot of you" — 这个诅咒来自一个事实：如果 Skotch 被做成 SLG 口粮，吃他肉的动物确实会被"毒害"（因为他的肉会变成食物）。"cord of his nerve stretch thin" — 把心理压力转化为可感知的物理体验。
+**为什么这样写：** "Where's your collar?" 一句戳穿 Skotch 的伪装 — 有主的 Gehirner 戴项圈，他这只"无主浣熊"被公司随手抛弃，此刻却还在替公司藏老鼠。问句比指控更刻薄：它把 Skotch 的处境（失业、断药、被追杀）压缩成一个物件的有无。
 
 **读者视角提示：** "Like it was already caught down there" — 他感觉自己的命运已经被齿轮咬住，正在被缓慢拖入。这是整本书最令人窒息的意象之一。
 
@@ -93,13 +93,13 @@ source_text: ch15
 | infinitesimal | 极小的/无穷小的 | "…the infinitesimal delay between pressure and release means the spring-loaded projectile only hits fur." |
 | goes to pieces | 崩溃/瓦解 | "Everything goes to pieces all at once." |
 | chain of command | 指挥链 | "…the near-side terminus of the chain of command." |
+| Graycoats | 灰衣队（松鼠武装） | "The Graycoats around the Separation Plant are simultaneously returning fire…" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | popgun | 气枪（Gehirner 的主要武器） | "The popgun goes into the mechanical jaws…" |
-| Graycoats | 灰衣队（松鼠武装） | "The Graycoats around the Separation Plant are simultaneously returning fire…" |
 | Redcoats | 红衣队（另一支松鼠武装） | "It's the Redcoats, of course." |
 
 ## 一句话总结

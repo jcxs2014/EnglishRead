@@ -9,7 +9,7 @@ source_text: ch19
 
 - **一句话概括**：Skotch 带 Lulu 到圣弗朗西斯教堂求治 — Fischer 出现并与他谈判。Skotch 通过圣弗朗西斯的通讯网联系 HengZeico 大使馆，在 Bärenhaus 与 Benson 和 Shojen 会面。各方都想要老鼠，但 Skotch 仍未做出最终决定。
 - **情感弧线位置**：转折 — 从"被追捕"到"主动谈判"
-- **本章精读**
+## 精读
 
 ①
 > **原句:** "Sister," Skotch tells the box, "honestly it's better you don't know. Just, ah, she was benevolent enough to take the hit for me and it has become my responsibility to get her patched up. I will make a donation, I swear. When I get paid." Not that it feels like anyone's going to be paying out on his current investigation, and so he's basically lying direct to a saint, but sometimes you've got to play fast and loose with religion. It's not like she's the Divine Jeff or anything.
@@ -93,13 +93,13 @@ source_text: ch19
 | self-imposed | 自我强加的 | "…her duty is self-imposed, and her order finds her embarrassing…" |
 | in a bind | 进退两难/陷入困境 | "You're in a bind, my friend." |
 | manor | 庄园（Fischer 对 Mauler 巢穴的称呼） | "Herr Bandit brought a great deal of trouble to our manor." |
+| neckerchief | 领巾/围巾（Mauler 的标志） | "He tugs at his red neckerchief…" |
+| precipice | 悬崖/危险边缘 | "Feels himself on a precipice." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| neckerchief | 领巾/围巾（Mauler 的标志） | "He tugs at his red neckerchief…" |
-| precipice | 悬崖/危险边缘 | "Feels himself on a precipice." |
 
 ## 一句话总结
 Skotch 在圣弗朗西斯教堂为 Lulu 求治，通过 Fischer 与 Maulers 谈判，并通过圣弗朗西斯的通讯网联系 HengZeico。在 Bärenhaus 的晚餐上，Benson 和 Shojen 都想要老鼠，但 Skotch 仍未做出最终决定 — 他意识到自己正站在道德悬崖的边缘。

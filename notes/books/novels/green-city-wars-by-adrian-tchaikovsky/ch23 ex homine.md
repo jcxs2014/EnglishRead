@@ -9,7 +9,7 @@ source_text: ch24
 
 - **一句话概括**：Schreiber（Lulu 的主人）出现在 Chapel — Lulu 将 Meece 的设备交给主人。Tybelle 杀死 Szerky。Rule One 被彻底打破，新秩序诞生。
 - **情感弧线位置**：结局 — 人与动物的界限模糊，革命种子播下
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Skotch looks up. And up and up. They all do. The sound of shooting makes its final death rattle and goes still. Szerky is poised, seemingly impossibly arrested in the very act of leaping, a still image of the hunter an instant before the kill. The Gehirner, as one, shrink back. Something terrible has happened. A clash of worlds that is—by the explicit design of the green cities—absolutely forbidden.
@@ -62,7 +62,7 @@ source_text: ch24
 
 **关键词：** trump card（王牌 — 扑克牌术语）；flood the Gehirner world（淹没 Gehirner 世界）；lasting enlightenment（持久的启蒙）
 
-**为什么这样写：** "plays her trump card" — Lulu 是记者，她的"王牌"是信息。"lasting enlightenment" — 讽刺的双关：Meece 的"伟大均衡剂"将带来"启蒙"，但也是"光明"（与 Plangent 的视觉效果相关）。
+**为什么这样写：** "plays her trump card" — Lulu 的"王牌"是信息：Meece 的设备就攥在她爪中。"lasting enlightenment" — 双关：Meece 的 Plangent 公式将带来字面意义的"启蒙"（Gehirner 不再依赖配给的心智燃料）。
 
 **读者视角提示：** "the revolution that will flood..." — "flood"暗示信息像洪水一样无法阻挡。
 
@@ -102,4 +102,4 @@ source_text: ch24
 | newt | 蝾螈（一种两栖动物 Gehirner） | "Newts squirm under stones." |
 
 ## 一句话总结
-Schreiber 的出现标志着 Rule One 的终结。Lulu 将 Meece 的设备（Plangent 制造公式）交给了人类 — 完成了她的"报道"。Szerky 在攻击 Lulu 之前被 Tybelle 杀死。人类与 Gehirner 之间的界限被彻底打破，新的秩序正在诞生。
+Schreiber 的出现标志着 Rule One 的终结。Lulu 在他掌中挥舞 Meece 的设备 — 制造 Plangent 的公式与工艺，随后用 Schreiber 的联网设备将其发布到 Gehirner 各组织的站点。Szerky 扑向 Skotch 未遂，被 Tybelle 撕碎 — 人类与 Gehirner 世界的界限就此打破。

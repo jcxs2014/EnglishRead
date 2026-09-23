@@ -7,9 +7,9 @@ source_text: ch20
 
 ## 本章导航
 
-- **一句话概括**：Skotch 回到 Unterroot 93 的鼠窝 — 发现 Szerky 已经在里面等着他。Tybelle 也出现了，两只猫鼠对决。Tybelle 吃了 Meece，Skotch 震惊地发现 Meece 是自愿的 — 他的"伟大均衡剂"计划已经完成。
-- **情感弧线位置**：终极高潮 — 真相大白，牺牲完成
-- **本章精读**
+- **一句话概括**：Skotch 回到 Unterroot 93 的鼠窝 — Szerky 已在里面等他，Tybelle 随之现身。龟壳里没有 Meece，Tybelle 声称"已经吃了"却拿不出尸体；Skotch 趁两者对峙脱身。
+- **情感弧线位置**：高潮 — 鼠窝对峙，Meece 下落成谜
+## 精读
 
 ①
 > **原句:** The corpse of Fitch has long since been cleared away, of course. But there's still a faint whiff of death on the air when Skotch gets back to his nook at Unterroot 93. The reminder that the space recently contained a dead raccoon and, that cadaver hauled away, there's space for another.
@@ -27,7 +27,7 @@ source_text: ch20
 
 **中文理解：** "哦，你看起来好惊讶，Herr Skotch，"她娇声说。"Ikelos 会生气的，" Skotch 瞥了一眼龟壳，"他有人脉。政治上的。甚至还有人类的。你不想惹他，Fraulein。"
 
-**关键词：** coyly（娇声地/假装害羞地）；pissed（生气 — 口语化）；contacts（人脉/关系）
+**关键词：** coyly（娇声地 — 猫玩弄猎物的姿态）；startled（受惊的 — Szerky 眼中的 Skotch）
 
 **为什么这样写：** Szerky 的"coyly"（娇声地）是猫科动物的典型行为 — 玩弄猎物。Skotch 用 "Ikelos" 来吓唬她，但他知道这没用 — Szerky 是"不 mess around"的杀手。
 
@@ -67,15 +67,15 @@ source_text: ch20
 **读者视角提示：** 铃铛声是 Tybelle 的"签名" — 她用这个声音宣告自己的到来，既是警告也是炫耀：我知道你在里面，你无处可逃。
 
 ⑥
-> **原句:** "A warning," she tells him. "Not to think that you are the equal of me. There is a hierarchy to the world, Herr Skotch. I am a warrior, of a line of warriors. You are a trash-gatherer. You shouldn't forget that."
+> **原句:** "Aw," she says to Szerky, mock solicitous. "What were you expecting to find in that shell, Fraulein Stoat?" Luxuriously licking her lips. "Meece's pieces?"
 
-**中文理解：** "Meece……还在……"Szerky 慢慢地说。"Meece 曾经是，"Tybelle 说，"很美味。"
+**中文理解：** "哦，"她对 Szerky 假意关切地说，"你指望在那龟壳里找到什么呢，鼬小姐？"惬意地舔着嘴唇。"Meece 的小碎块？"
 
-**关键词：** delicious（美味的 — Tybelle 对 Meece 的评价）
+**关键词：** mock solicitous（假意关切 — 猫的伪善姿态）；Meece's pieces（Meece 的碎块 — 把一位科学家的生死说成零食）；Luxuriously licking her lips（惬意地舔嘴唇 — 享受对方的绝望）
 
-**为什么这样写：** 这是全书最残酷的对话之一。Szerky 用"is"（还在）表示 Meece 还活着，Tybelle 用"was"（曾经是）纠正 — 他已经死了。"delicious" 这个词的随意性（像在评价一道菜）比任何残忍描写都更恐怖。
+**为什么这样写：** "Meece's pieces" 是全章最刻毒的双关 — 把一位天才老鼠的生死降格成一口零食的份量。Tybelle 的"关切"是表演：她刚看着 Szerky 扑空，正把对方的挫败当开胃菜。"mock solicitous" 与 "Luxuriously" 两个状语构成完整的猫式残忍 — 礼貌的语调，捕食者的满足。
 
-**读者视角提示：** Tybelle 的"delicious"不是夸张 — 她是一只猫，吃老鼠是她的天性。但读者知道 Meece 不仅仅是一只老鼠，他的死意味着某种可能性的终结。
+**读者视角提示：** 注意 Tybelle 全程没有拿出任何证据 — 没有尸体，没有血迹，只有一句俏皮话。这个"认领"两章后被推翻：Meece 活着混在邪教徒中抵达 Chapel。此刻连 Skotch 都信了 — 作者就是要读者也先信。
 
 ## 本章词汇
 
@@ -92,14 +92,14 @@ source_text: ch20
 |---------|------|------|
 | hierarchy | 等级制度 | "There is a hierarchy to the world, Herr Skotch." |
 | coyly | 娇声地/假装害羞地（猫科动物的行为） | "Oh, Herr Skotch, you look so startled," she says coyly. |
+| solicitous | 关切的/殷勤的（mock solicitous 假意关切） | "Aw," she says to Szerky, mock solicitous. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | tortoise | 乌龟（Ikelos 的身份） | "Ikelos of Santorini, the fugitive." |
-| hive | 龟壳（比喻） | "He puts in all the codes that get the door open, slips inside, closes up." |
 
 ## 一句话总结
 
-Skotch 回到窝里，发现 Szerky 和 Tybelle 都在。Tybelle 吃了 Meece — 但 Meece 是自愿的。他的"伟大均衡剂"（对 Gehirner 和人类一视同仁的毒素）已经通过猫的消化系统释放。世界即将改变。
+Skotch 回到窝里遭遇 Szerky 与 Tybelle 的前后夹击 — 龟壳里没有 Meece，Tybelle 宣称"已经吃了"却拿不出尸体。她与 Szerky 的对峙给 Skotch 留出脱身之机；Meece 的真实下落要到 Chapel 才揭晓。

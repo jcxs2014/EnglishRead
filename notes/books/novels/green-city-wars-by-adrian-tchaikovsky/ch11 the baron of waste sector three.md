@@ -9,7 +9,7 @@ source_text: ch12
 
 - **一句话概括**：Skotch 在 Rootspace Central 被农场杀手 Szerky 截住 — 她以终身 Plangent 供应为诱饵收买他。他拜访水回收区的 Baron（青蛙），随后准备去见 Sly。
 - **情感弧线位置**：高潮前的平静 — 新信息涌入，立场开始动摇
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Skotch should probably go home, catch some shut-eye. He's been pushing himself too hard. Gehirner engineering bestows a bit more of an energy reservoir than a natural beast might have, efficient fat reserves and a little anaerobic boost, but that just means that when the Tired hits, it really bites.
@@ -86,6 +86,7 @@ source_text: ch12
 | Jeffism | Jeff 主义（Gehirner 的自助信仰体系） | "But the point of Jeff, of Jeffism, is that you can have anything in the world…" |
 | Gasthofmund | 沼气镇（水回收区的地名，德语"酒馆+嘴"的复合词） | "They have a whole town here… Gasthofmund, a place most non-residents have no intention of ever visiting." |
 | hyphae | 菌丝（真菌的营养结构） | "…each one of them bearded with a tangled mat of hyphae that the water filters through." |
+| anaerobic | 无氧的 | "…a little anaerobic boost, but that just means that when the Tired hits, it really bites." |
 
 ### ⭐⭐ 进阶
 
@@ -100,7 +101,6 @@ source_text: ch12
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| anaerobic | 无氧的 | "…a little anaerobic boost, but that just means that when the Tired hits, it really bites." |
 | fiefdom | 小领地/割据势力 | "There are a handful of services like that… they become little fiefdoms of their own…" |
 | prybars | 撬棍（比喻插手干预） | "Better to have some lone operator who knows not to ask questions." |
 

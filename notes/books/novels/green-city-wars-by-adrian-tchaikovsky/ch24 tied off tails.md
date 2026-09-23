@@ -9,7 +9,7 @@ source_text: ch25
 
 - **一句话概括**：故事尾声 — Skotch 获得 HengZeico 的工作，与 Benson 再次会面。Plangent 已在街头自由流通，Gehirner 社会发生了不可逆转的变化。
 - **情感弧线位置**：结局 — 新秩序确立，余韵悠长
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Some time later, he actually scores that job with HengZeico he's always been angling for. He sits down with Shojen to discuss a piece of business that has the Gehirner admin of the company reaching out across the city, rather than just keeping to their own. It's happening more and more these days, what with the changes. The Changes. There's a way that the word is said, in most argots, that implies the definite article.
@@ -71,9 +71,9 @@ source_text: ch25
 
 **中文理解：** 他走开了，每走一步都感到那种额外的安全感。Lulu 在等着请他午餐、听他讲故事。他欠她一个故事，而他有一个极好的故事要讲。
 
-**关键词：** extra security in every step（每一步的额外安全感 — 指不再担心失去思考能力）；He owes her a story（他欠她一个故事 — 指 Lulu 作为"记者"的角色）
+**关键词：** extra security in every step（每一步的额外安全感 — 指不再担心失去思考能力）；He owes her a story（他欠她一个故事 — Lulu 作为记录员等着听他的冒险）
 
-**为什么这样写：** 全书以"故事"结束 — Skotch 欠 Lulu 一个"故事"。Lulu 是记者，她的工作是"记录"。Skotch 的故事是关于"一个浣熊如何改变了世界" — 或者更准确地说，"一只老鼠如何改变了世界，一只浣熊如何帮助了他"。
+**为什么这样写：** 全书以"故事"结束 — Skotch 欠 Lulu 一个"故事"。Lulu 是 Schreiber 的记录员（amanuensis），她的工作是替小说家记录。Skotch 的故事是关于"一个浣熊如何改变了世界" — 或者更准确地说，"一只老鼠如何改变了世界，一只浣熊如何帮助了他"。
 
 **读者视角提示：** "damn good one to tell" — Skotch 的"好故事"不是关于胜利或英雄主义，而是关于"混乱、意外和不可预见的后果"。这是 Tchaikovsky 对"革命"的态度：没有干净的结果，只有持续的变化。
 

@@ -9,7 +9,7 @@ source_text: ch16
 
 - **一句话概括**：Redcoat 军官 Brass-Shirt 以 Plangent 为饵审讯 Skotch — 他坦白了大部分真相但隐瞒了老鼠的致命秘密。Brass-Shirt 威胁要把他卖给最高出价者。Lulu 重伤未死。
 - **情感弧线位置**：高潮回落 — 暂时的喘息，但危机未解除
-- **本章精读**
+## 精读
 
 ①
 > **原句:** Hansard has a cup. An actual goddamn honest-to-goodness acorn cap cup, or at least one printed to look like an acorn cap. He decants most of the ampoule into it, then hands the almost-empty tab to Skotch.
@@ -81,13 +81,13 @@ source_text: ch16
 |---------|------|------|
 | false pretences | 虚假前提/幻想 | "I don't want you labouring under any false pretences…" |
 | labour under | 受…困扰/抱有…想法 | "I don't want you labouring under any false pretences…" |
+| stretcher | 担架（战场搬运工具） | "He's asking for a medic from the start… calling from his stretcher…" |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | brigand | 强盗/土匪（Brass-Shirt 对 Skotch 的称呼） | "…only the first of those will carry any weight with these brigands." |
-| stretcher | 担架（战场搬运工具） | "He's asking for a medic from the start… calling from his stretcher…" |
 
 ## 一句话总结
 

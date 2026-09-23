@@ -82,6 +82,7 @@ source_text: ch07
 | sanctuary | 避难所/圣所 | "…that means sanctuary is in session." |
 | pharmacist | 药剂师/配药者 | "Saint Frances is dispensing…" |
 |SLG | 合成液体饲料（Synthetic Liquid Gehirner-food 的缩写，Gehirner 的标准口粮） | "…not the SLG ration bars but human food…" |
+| petitioner | 请求者/请愿者 | "…most of her petitioners do…" |
 
 ### ⭐ 基础
 
@@ -89,7 +90,6 @@ source_text: ch07
 |---------|------|------|
 | grudges | 怨恨/恩怨 | "Anyone welcome, leave your grudges at the gate." |
 | sump | 集水坑/污水池 | "…this sump that the Gehirner call her Chapel." |
-| petitioner | 请求者/请愿者 | "…most of her petitioners do…" |
 
 ## 一句话总结
 

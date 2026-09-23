@@ -74,6 +74,7 @@ source_text: ch04
 | stoatweasel | 鼬鼠（stoat + weasel 的混合词，虚构的 Gehirner 执法者品种） | "Stoatweasels, is what's on their official specification." |
 | carnassials | 裂齿（食肉目动物的专用切割齿） | "Showing him her carnassials though." |
 | mutagenics | 诱变物质，致突变物 | "…just how much poison and mutagenics and contamination go on…" |
+| sacrosanct | 神圣不可侵犯的 | "Pets are sacrosanct." |
 
 ### ⭐⭐ 进阶
 
@@ -90,7 +91,6 @@ source_text: ch04
 |---------|------|------|
 | dodge | 骗局，花招 | "Sly has a dodge, though, and it's because he understands dogs." |
 | mongrel | 杂种狗 | "…some sort of mongrel terrier…" |
-| sacrosanct | 神圣不可侵犯的 | "Pets are sacrosanct." |
 
 ## 一句话总结
 

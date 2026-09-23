@@ -95,17 +95,15 @@ source_text: ch02
 | itinerant | 流动的，无固定雇主的 | "Shojen probably doesn't have any work for an itinerant racoon…" |
 | recidivist | 惯犯/屡教不改者 | "…coined by some recidivist human way back when…" |
 | freelancer | 自由职业者 | "But right now Skotch is a freelancer without a job…" |
-| precarious | 不稳定的，危险的 | "…Iggy's position is precarious, so he keeps his big rat ears to the ground." |
 | calcified | 僵化的，钙化的（比喻义：思想固化） | "…retreating into calcified old memories." |
+| fermenter | 发酵罐；酿酒厂 | "…slurring his speech like he's been at the fermenter." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| fermenter | 发酵罐；酿酒厂 | "…slurring his speech like he's been at the fermenter." |
 | guild | 行会（Gehirner 社会的行业组织） | "…a competing network of guilds, syndicates, foreign companies…" |
 | ampoule | （装有药液的小玻璃）安瓿瓶 | "…his hands… find a strip of ampoules." |
-| precarious | 不稳定的，危险的 | "…Iggy's position is precarious, so he keeps his big rat ears to the ground." |
 
 ## 一句话总结
 
