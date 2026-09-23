@@ -93,21 +93,6 @@ modified: "2026-09-23"
 | campground | 营地 | I run a private campground. |
 | passed down | 传承 | ...passed down for generations. |
 | old land | 古老土地 | It's old land... |
-| creatures | 生物 | ...creatures that have hunted humanity... |
-| generations | 世代 | ...for generations. |
-| invite | 邀请 | ...invites them home. |
-| danger | 危险 | The world is a dangerous place... |
-| forest | 森林 | ...forests and in the dark parts... |
-| threat | 威胁 | ...perceived as a threat... |
-| protect | 保护 | I protect the town... |
-| kill | 杀死 | ...quick to kill anything... |
-| love | 爱 | ...taught me to love the land... |
-| compassion | 怜悯 | ...compassion for the creatures... |
-| fight | 战斗 | I can fight... |
-| knowledge | 知识 | ...carry the knowledge... |
-| enough | 足够 | ...hope that this is enough... |
-| turn | 变成 | ...land is turning ancient... |
-| call | 呼唤 | ...ancient land calls to ancient things. |
 | keep | 保护 | ...keep you safe. |
 
 ## 一句话总结

@@ -126,7 +126,7 @@ modified: "2026-09-23"
 | vomit | 呕吐 | ...without vomiting for the next twenty-four hours. |
 | possess | 拥有 | Keep a close eye on your possessions... |
 | unpaved | 未铺砌的 | The roads leading into the woods are unpaved. |
-| muddy | 泥泞的 | ...turned into mud... |
+| mud | 泥 | ...turned into mud... |
 | tractor | 拖拉机 | ...pull your car out with the tractor... |
 
 ## 一句话总结

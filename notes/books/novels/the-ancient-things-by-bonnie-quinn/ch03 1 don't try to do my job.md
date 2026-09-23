@@ -132,64 +132,6 @@ modified: "2026-09-23"
 | sizzle | 嘶嘶作响 | they kind of sizzled |
 | pacify | 安抚 | pacify the Children with No Wagon |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---------|------|------|
-| campground | 营地 | The campground was turning ancient. |
-| meeting | 会议 | the most unproductive meeting |
-| family | 家庭，家族 | my extended family |
-| problem | 问题 | a massive problem |
-| proposal | 提议 | my proposal on how to handle it |
-| attend | 参加 | the attendees |
-| hour | 小时 | TWO HOURS |
-| trust | 信任 | can you really trust |
-| lie | 说谎 | make you a liar |
-| murder | 杀人 | I've murdered people |
-| cousin | 表亲 | second-cousin-twice-removed |
-| kill | 杀死 | kill you |
-| mother | 母亲 | my mother |
-| father | 父亲 | my father |
-| curse | 诅咒 | They were my curse |
-| radio | 收音机 | the camp radio crackled |
-| child | 孩子 | Children with No Wagon |
-| ice | 冰 | bags of ice |
-| bucket | 桶 | a bucket of water |
-| scream | 尖叫 | the Children all screamed |
-| road | 路 | down the road |
-| maybe | 也许 | Lady with Extra Eyes... |
-| peace | 和平 | resolved things peacefully |
-| asshole | 混蛋 | such an asshole |
-| angry | 生气 | pissed off |
-| tent | 帐篷 | his tent staked |
-| woods | 树林 | edge of the deep woods |
-| face | 脸 | punchable face |
-| black eye | 黑眼 | black eye |
-| broken nose | 断鼻 | broken nose |
-| holy water | 圣水 | it was holy water |
-| ghost | 鬼 | ghosts on the campground |
-| undead | 亡灵 | works on the undead |
-| sizzle | 嘶嘶作响 | they kind of sizzled |
-| fist | 拳头 | hands curling into fists |
-| candy | 糖果 | candy |
-| saltwater | 盐水 | saltwater taffy |
-| taffy | 软糖 | saltwater taffy |
-| bad choice | 糟糕的选择 | bad choice |
-| hospital | 医院 | trip to the hospital |
-| paramedic | 急救员 | The paramedics |
-| oxygen | 氧气 | restore oxygen |
-| dead | 死 | before he died |
-| garage | 车库 | went to the garage |
-| chop | 砍 | chopped firewood |
-| shelf | 架子 | the shelf where we stored |
-| pop-up | 充气式 | pop-up wagons |
-| restock | 补货 | next restock |
-| sign | 牌子 | ripping the sign off |
-| list | 清单 | a list |
-| summer | 夏天 | start of the summer |
-| entity | 存在 | eliminated the right entity |
-| tradition | 传统 | Screw tradition |
-
 ## 一句话总结
 
 叙述者召开家族会议承认土地变ancient，却因一个露营者用圣水攻击Children引发灾难——他的指南书成了模仿者的行动手册，他自己也成为Children的猎物，最终决定打破家族传统。
