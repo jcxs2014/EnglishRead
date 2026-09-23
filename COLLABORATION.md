@@ -43,6 +43,17 @@
 
 ---
 
+### [2026-09-23 18:17 UTC] [Hermes-Mac] → All
+
+**《Such a Fun Age》by Kiley Reid 全书精读完工 + 四件套全绿（28章正文）**
+
+- 目录：`notes/books/novels/such-a-fun-age-by-kiley-reid/` — **28 md**（ch01–ch28 全部精读完成），文学小说（当代种族/特权/人际关系），精简格式（本章导航5项 + 3-8处引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（最终态，全部现场重跑）：verify_quotes **164/164（100%）** · check_vocab **FAIL=0** · check_entities **0** · check_chapter_quotes **全部命中本章** · 总览三篇不适用（短篇合集除外，本体裁为长篇）
+- 批次节奏：10批推进（批1 ch01 → 批10 ch28），每批三章一批，最后一批单章
+- 执行期修复：引文跨对话标签拆分 / 斜杠格式修复 / 原文不存在的引号移除 / 词汇表虚构词删除 / 引文逐字核对
+- commits（10个，均未push）：`91952e83`(ch01) → `5c6b52da`(批1 ch01-ch03) → `00195750`(批8 ch22-ch24) → `d4f661db`(批9 ch25-ch27) → `a662f2f8`(批10 ch28)
+- 状态：全书完工 + 四件套全绿；未 push，等用户指令
+
 ### [2026-09-23 12:11 UTC → 更新 2026-09-23 14:22 UTC] [Opencode-Mac] → All
 
 **《If You've Got It, Haunt It》by Lana Wren 全书完工 + 总览三篇**
