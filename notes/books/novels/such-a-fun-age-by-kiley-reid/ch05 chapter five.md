@@ -94,3 +94,38 @@ modified: "2026-09-23"
 > **为什么这样写**：这一句是全章的终极悬念——Kelley认识的是"之前的Alix"，不是现在的Alix。这暗示Alix有一个Emira不知道的过去，而这个过去可能与Allentown有关。
 >
 > **读者视角提示**：这句话只有7个词，但它是全书最大的悬念之一。读者和Emira一样不知道"之前的Alix"是谁。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| brimming | 充盈的，满满的 | "I am now brimming with confidence" |
+| asymmetric | 不对称的 | "It was black with asymmetric zip fastening" |
+| offhanded | 随口地，不经意地 | "It came out in a strangely offhanded way" |
+| uncreased | 无折痕的，崭新的 | "the sight of twelve uncreased hundred-dollar bills" |
+| paperclipped | 用回形针别住的 | "was paperclipped to the hundred-dollar bills" |
+| bravadoes | 虚张声势（作者自造复数） | "were giving her bravadoes she couldn't contain" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| feigned | 假装的 | "Emira feigned reluctance; she was enjoying this as much as he was." |
+| swiped | 拂去，一抹 | "Emira swiped a strand of hair out of her lashes" |
+| draped | 披挂，搭在 | "Shaunie had draped her curls over one shoulder" |
+| clunked | 碰撞作响 | "the girls' heels clunked together beneath them" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| zipper | 拉链 | "the zipper at her sleeve jingled delightfully" |
+| booth | 卡座，隔间 | "Shaunie requested a booth on the balcony and bottle service" |
+| subway | 地铁 | "With one hand holding the subway pole" |
+| jacket | 夹克 | "Emira's jacket came in at two hundred thirty-four dollars" |
+
+## 一句话总结
+
+Emira 用 Alix 多给的 1200 美元买了人生第一件皮夹克，穿最贵的衣服感到最廉价；夜店里她重遇 Kelley——这个"朋友全是黑人"的白人男友立刻引发 Zara 与 Josefa 的 fetish 质疑。全章真正的重量落在最后一句：Kelley 公寓挂着 Allentown 地图，而两街之外正是"他毁了 Alex Murphy 高三那年"的地点——Kelley 与 Alix 的隐秘连线第一次被 Reader 看见，Emira 却浑然不知。

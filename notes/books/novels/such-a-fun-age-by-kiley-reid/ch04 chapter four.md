@@ -107,8 +107,8 @@ modified: "2026-09-23"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | ignorant | 无知的 | "an ignorant response" |
-| ridiculous | 荒谬的 | "completely ridiculous" |
 | sexist | 性别歧视的 | "borderline sexist" |
+| fish | 鱼 | "named the fish Spoons, and watched it swim in circles" |
 
 ## 一句话总结
 

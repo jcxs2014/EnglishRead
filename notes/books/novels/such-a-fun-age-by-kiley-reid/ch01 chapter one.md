@@ -125,20 +125,23 @@ modified: "2026-09-23"
 | veil | 面纱，遮蔽 | "Under the veil of two strong mixed drinks" |
 | articulate | 清晰表达的 | "Mrs. Chamberlain's voice was calm and strangely articulate" |
 | intersection | 交集，交叉点 | "the intersection of these spaces" |
-| implication | 暗示 | "wanted to imply that paperwork had been done" |
+| imply | 暗示，间接表达 | "wanted to imply that paperwork had been done" |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | articulate | 清晰表达的 | "Mrs. Chamberlain's voice was calm and strangely articulate" |
+| babysitting | 照看孩子 | "daily babysitting job" |
+| babysitter | 保姆 | "I'm her babysitter" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| babysitting | 保姆/临时照看孩子 | "daily babysitting job" |
-| babysitter | 保姆 | "I'm her babysitter" |
+| phone | 手机 | "Emira slipped her phone into the pouch of her crossbody bag" |
+| grocery | 杂货店 | "take Briar to the grocery store for a bit" |
+| blanket | 毯子 | "placing yourself underneath a blanket made it difficult to be found" |
 
 ## 一句话总结
 

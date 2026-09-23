@@ -64,3 +64,36 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira的回应是谨慎的——"He's cute"是安全的赞美，"wifed up"暗示她害怕被束缚。"anytime soon"表明她愿意保持开放，但不想太快承诺。
 >
 > **读者视角提示**：Emira的"我不知道"是一种保护——她不确定Alix的动机，所以不给出确定的回应。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| invasive | 侵入性的，越界的 | "Alix had developed what she knew was an awful and invasive habit" |
+| connoisseur | 鉴赏家，行家 | "I'm used to drinking like . . . boxed wine, so yeah, I'm no connoisseur." |
+| decorum | 礼仪，得体 | "she sensed those lax and wonderful feelings of decorum leaving her body" |
+| vestibule | 门厅，前室 | "In the vestibule of the Chamberlain home sat a small, teak table near the front door." |
+| flirtatious | 调情的，娇媚的 | "Her lips came together in a flirtatious secrecy." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| succulents | 多肉植物 | "a wooden trough holding three sprouting succulents" |
+| tattered | 破旧的，褴褛的 | "wrapped in her tattered white blanket" |
+| googly-eyed | 凸眼的 | "a googly-eyed witch made out of felt" |
+| shushed | 嘘（叫人安静） | "She constantly shushed the person holding her" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| crayon | 蜡笔 | "Briar held up a crayon and said, \"You do it.\"" |
+| blanket | 毯子 | "wrapped in her tattered white blanket" |
+| pasta | 意面 | "a plate of cucumbers, garbanzo beans, and plain pasta" |
+
+## 一句话总结
+
+Alix 的猎奇升级为偷看 Emira 手机锁屏——她把这个"awful and invasive"的习惯说成对 sitter 的关心，实则通过音乐列表、短信和"Kenan&Kel"这个备注名拼凑出一个她可以接近的 Emira。共饮红酒、追问约会细节、被 Briar 反复 "Shhh" 打断，全章是 Alix 单向推进的"求爱"：她要的不是 Emira 这个人，而是一份"我真的跨进了她的生活"的证据。而 Emira 全程礼貌而保留——她的"I don't know"正是 Alix 无法越过的门槛。

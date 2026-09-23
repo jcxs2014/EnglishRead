@@ -111,6 +111,7 @@ modified: "2026-09-23"
 | paperie | 文具店，高档纸品 | "high-end paperie" |
 | print debut | 首次印刷亮相 | "second print debut since NYU" |
 | editorial | 主编的，编辑风格的 | "extremely editorial" |
+| testimonial | 证明，赞誉 | "gracious testimonials" |
 
 ### ⭐ 基础
 
@@ -118,7 +119,7 @@ modified: "2026-09-23"
 |------|------|------|
 | cover letter | 推荐信，求职信 | "cover-letter-writing workshop" |
 | intern | 实习生 | "two interns" |
-| testimonial | 证明，赞誉 | "gracious testimonials" |
+| wine | 葡萄酒 | "the white wine at her wedding" |
 
 ## 一句话总结
 

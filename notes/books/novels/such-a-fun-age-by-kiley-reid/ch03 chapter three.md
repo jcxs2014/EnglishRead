@@ -84,3 +84,39 @@ modified: "2026-09-23"
 > **为什么这样写**：全书最短的句子之一。没有"想""应该""也许"——只有"知道"。这是Emira第一次做出决定，尽管还不知道找什么。
 >
 > **读者视角提示**：这句话是全章的落点——也是Emira转变的起点。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| proclivity | 倾向，癖好 | "the Tucker family had a proclivity toward craftsmanship" |
+| dogged | 顽固的，执拗的 | "that was so dogged that it leaned into religious territory" |
+| insufferable | 令人难以忍受的 | "Memorizing medical terminology was insufferable." |
+| viscerally | 发自本能地，生理性地 | "she felt viscerally disgusted" |
+| existential | 存在主义的 | "Briar was always at the edge of a tiny existential crisis." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| craftsmanship | 手艺，工艺 | "the Tucker family had a proclivity toward craftsmanship" |
+| transcription | 转录，速记整理 | "Emira also tried transcription, which seemed like a career path" |
+| steno machine | 速记机 | "when a key on her steno machine broke" |
+| altercation | 争执，冲突 | "the blatant bigotry of the altercation" |
+| roasterie | 咖啡烘焙坊 | "an apprentice at a roasterie in Austin, Texas" |
+| nauseating | 令人作呕的 | "came back to her with a nauseating surge" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| apron | 围裙 | "wearing an apron made by his mother" |
+| needle | 针 | "leather swatches, needles, bone folders, and closures" |
+| wardrobe | 衣橱，全部衣物 | "she'd look at her wardrobe full of clothes from Strawberry and Forever 21" |
+| costume | 戏服，服装 | "where she took orders for Halloween costumes and flower girl attire" |
+
+## 一句话总结
+
+Emira 的家乡 Sewell Bridge 是一个"用手说话"的手艺小镇，但她既没继承家族手艺，也没在转录学校找到方向——Market Depot 事件后她攻击自己的不是种族歧视，而是"你没有正经工作"；这份内化的阶级羞耻逼出了全章最后一句"Emira knew she had to find a new job"。转变的起点不是愤怒，而是自我否定。
