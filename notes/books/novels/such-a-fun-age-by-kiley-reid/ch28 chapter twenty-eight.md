@@ -124,3 +124,36 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira的"wrestle with"是她的人生课题——她一直在纠结Chamberlain家的经历。这是她的成长，也是她的痛苦。
 >
 > **读者视角提示**："wrestle with"——Emira用"纠结"来框架化自己的过去。这是她的持续挣扎。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| self-sufficient | 自立的，自足的 | "Briar would learn to become a self-sufficient person." |
+| administrative | 行政的 | "Paula hired Emira as an administrative assistant" |
+| encouragement | 鼓励 | "it was a clunky and trite text of encouragement" |
+| mini-pumpkins | 迷你南瓜 | "sat mini-pumpkins that had been decorated" |
+| fund-raising | 募款的 | "During a fund-raising event, Emira was refilling a large carafe" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| carnival | 嘉年华，游乐集市 | "There was a carnival in Rittenhouse Square" |
+| nannies | 保姆们 | "walked around the nannies, Briar, Mrs. Chamberlain, and Catherine." |
+| bottled | 瓶装的 | "a table of soy candles and bottled honey" |
+| pumpkin | 南瓜 | "struggling to reach a pumpkin doused in g" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| honey | 蜂蜜 | "a table of soy candles and bottled honey" |
+| ledge | 矮台，边沿 | "along a brick ledge that bordered the sidewalk" |
+| table | 桌子 | "a table of soy candles and bottled honey" |
+
+## 一句话总结
+
+两年后。Emira 成了 Paula 的行政助理，在 Rittenhouse Square 的嘉年华上撞见 Kelley（身边站着"a light-skinned black woman with fresh coils of dark hair"）和五岁的 Briar——穿着汉堡装、踮脚去够一个绿色南瓜。她没有上前，低头绕着走过了那群保姆、Briar、Mrs. Chamberlain 和 Catherine；她听见 Briar 道谢，听见 Mrs. Chamberlain 笑着替女儿道歉。全书最后两句话把她真正带走的东西写完了："Some days she carried the sweet relief that Briar would learn to become a self-sufficient person. And some days, Emira would carry the dread that if Briar ever struggled to find herself, she'd probably just hire someone to do it for her."

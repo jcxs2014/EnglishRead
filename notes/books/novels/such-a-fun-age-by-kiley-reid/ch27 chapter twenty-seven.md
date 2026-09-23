@@ -104,3 +104,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Alex的"easier"是核心判断——责怪Kelley比面对自己的不幸更容易。这是全书的主题：叙事的选择权。
 >
 > **读者视角提示**："slipped through an unlucky crack"——Alex承认自己的不幸是随机的。但她不愿意接受这个随机性。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| responsibilities | 职责，任务 | "One of the student council's responsibilities was cleaning up after graduation." |
+| alternative | 替代的，退而求其次的 | "she gave Alex the easy, alternative job of cleaning out the senior-patio lockers." |
+| maintenance | 维修，维护 | "she had to ask a maintenance worker for a new towel." |
+| malfunction | 故障 | "a locker malfunction was to blame for her demise" |
+| graduation | 毕业（典礼） | "But by graduation, it didn't feel like Alex had achieved anything" |
+| pretending | 假装 | "as if she were pretending to read a magazine" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| grudge | 怨恨，积怨 | "holding a grudge for something that he never did." |
+| pretend | 假装 | "it was like she didn't have to pretend." |
+| lockers | 储物柜 | "cleaning out the senior-patio lockers" |
+| summer | 夏天 | "And all summer long, as Alex rolled silverware" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| lousy | 糟糕的，差劲的 | "received lousy tips" |
+| tips | 小费 | "received lousy tips" |
+| crack | 裂缝，缝隙 | "she'd simply slipped through an unlucky crack." |
+
+## 一句话总结
+
+全书最重要的一章：Alix 高中最后那年的真相被完整拆开。她不是被 Kelley 毁掉的——毕业前她被派去清理储物柜，却发现"the fact that it didn't really need cleaning"，没有人喜欢她并不因为她做错了什么。结尾那句是全书最狠的判决："Kelley was the guy who ruined her senior year, much in the same way that her name was spelled A-l-i-x."她把"没人喜欢我"改写成了"我被人毁掉"，因为后者更容易活下去——"it was easier doing it while mad at Kelley, rather than having no relation to him at all."这一章让读者回头重看前二十几章里她所有的执念。

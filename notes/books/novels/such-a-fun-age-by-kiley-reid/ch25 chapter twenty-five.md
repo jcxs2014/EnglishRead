@@ -114,3 +114,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira的"at all"是绝对否定——她完全拒绝Alix的提议。这是她的独立宣言，也是她对Alix的拒绝。
 >
 > **读者视角提示**："at all"——Emira用"根本不"来表达决绝。这是她最后一次被Alix看见。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| twenty-five-year-old | 二十五岁的 | "twenty-five-year-old Temple graduate Emira Tucker being accused of kidnapping" |
+| double-checked | 反复核对 | "She circled the room as she double-checked all angles, numbers, and light sources." |
+| coincidentally | 巧合地，凑巧 | "Coincidentally, you've made a career out of it!" |
+| correspondent | 记者，通讯员 | "Our correspondent Peter Chamberlain," |
+| defensiveness | 戒备，防御姿态 | "announced with an air of defensiveness" |
+| interrogation | 审问，盘问 | "So this interrogation begins, they refuse to let you leave." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| daughter | 女儿 | "Alix looked at her daughter and said," |
+| question | 问题，提问 | "She was also the first person Alix directed her question to" |
+| security | 安保 | "accused of kidnapping by a security guard at Market Depot." |
+| realized | 意识到 | "this was the moment when Alix realized" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| phone | 手机 | "lip her phone into the waistband of her pants." |
+| camera | 镜头，摄像机 | "Laney said to the camera" |
+| dress | 连衣裙 | "in a dark purple wing-collared dress" |
+
+## 一句话总结
+
+Laney Thacker 的采访现场是全书最锋利的媒体讽刺：Alix 给 Emira 挑衣服、定调子，把"typical babysitting outfit"的质疑挡回去，然后站在旁边等她给出自己想要的答案。Emira 抛出的那句回答"evoked both petty embarrassment and screaming dread"，让 Alix 的笑容"became taut and tired"。而 Zara 冲进镜头喊出"Homegirl is out, okay?! She ain't need this!"——这句话是夸张的，但它把整场采访的性质说穿了：所有人都在剪辑 Emira 的故事，直到有人闯进画面把麦克风抢走。

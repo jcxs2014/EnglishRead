@@ -114,3 +114,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira的"You're her mom"是最终判决——Mrs. Chamberlain是Briar的母亲，她必须承担母亲的责任。这是Emira的反击。
 >
 > **读者视角提示**："You're her mom"——Emira用这句话来反击Mrs. Chamberlain。这是她的独立宣言。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| strawberries | 草莓 | "baby soap, strawberries, and the tart sweetness of dried yogurt." |
+| constructive | 有建设性的 | "but merely necessary and hopefully constructive." |
+| realization | 领悟，认清 | "beneath the realization that the ponytails she gave Briar" |
+| heartbroken | 心碎的 | "Briar would say good-bye in yearbook signatures and through heartbroken tears" |
+| whereabouts | 下落，去向 | "concerning the whereabouts of her daughter" |
+| surrendered | 交出，投降 | "as if Emira had just surrendered her last hostage." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| bathroom | 洗手间 | "Emira hoisted Briar onto the toilet in the guest bathroom" |
+| backpack | 背包 | "she spotted her backpack on the floor of the upstairs bathroom." |
+| necklace | 项链 | "Briar looked up and pointed to Emira's necklace." |
+| favorite | 最喜欢的 | "or what her favorite cocktail was" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| porch | 门廊 | "She made it all the way to the front porch" |
+| car | 汽车 | "a car honked lightly." |
+| door | 门 | "Outside the front door and down the porch steps" |
+
+## 一句话总结
+
+Emira 辞职的最后一幕。她要的不是对峙，是"come here real quick"——她想跟 Briar 单独待一会儿，把头发扎成"tragically numbered"的最后一对马尾。她意识到 Briar 根本不懂告别："Briar probably didn't know how to say good-bye because she'd never had to do it before." Zara 在楼下用"We Shall Overcome"当背景音，Mrs. Chamberlain 想说点什么挽回，Emira 只回了一句"You're her mom."走出门之后她又回头喊了一声"Sorry, Laney"，然后上了那辆银色 Ford Focus——她带走的东西里，没有一件是钱。
