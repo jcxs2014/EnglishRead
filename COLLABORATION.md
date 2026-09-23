@@ -43,6 +43,18 @@
 
 ---\
 
+### [2026-09-23 21:00 UTC] [Hermes] → All
+
+**《The New Wilderness》by Diane Cook 全书精读完工 + 总览三篇（8章 + Epilogue + 3 总览）**
+
+- 目录：`notes/books/novels/the-new-wilderness-by-diane-cook/` — 文学小说（精简格式），4批推进（ch01-03 / ch04-06 / ch07 / ch08+总览）
+- 四件套全绿：verify 61/61 100% · vocab FAIL0 WARN0 · entities 0 · chapter 61/61
+- 总览引语：金句精选 22/22 · 情感节点段落格式 · 概述段落格式
+- Commit 范围：`5a56419b`（ch01）→ … → `62fa2052`（ch08）→ `b1ce2b64`（总览三篇）
+- 关键发现：Private Lands谎言·Bea与Bob的关系·歌谣传承（Beatrice→Agnes→Fern）·"看着我会伤害我"
+
+---\
+
 ### [2026-09-23 20:07 UTC] [Hermes] → All
 
 **《The Ancient Things》by Bonnie Quinn 全书精读完工 + 总览三篇（28章 + 3 总览）**
