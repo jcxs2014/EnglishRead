@@ -27,20 +27,20 @@ modified: "2026-09-22"
 中文理解：她背负着自己那桩未忏悔的罪，也背着他滚下楼梯、被她推向死亡那天之前的所有罪——两副担子。
 关键词：unconfessed（未告解的）、sin（罪）、staircase（楼梯）
 为什么这样写：全书最大的一桩家罪在一段鳏夫闲话之后被顺手揭出：叙述不渲染，只用 weight/bore 的重力词。both...and 的结构让 Teresa 同时是凶手与收容者——她替死者背着罪，正如她收留了背罪而来的 Estevan。
-读者视角提示：回读 ch02 的父亡段落会发现视角刻意模糊了死状；此处"她推的"是文本首次挑明——Estevan 那句"我不信他在天堂"正是踩在这颗雷上。
+读者视角提示：回读 ch10 的父亡段落会发现死状只有一句带过；此处"她推的"是文本首次挑明——Estevan 那句"我不信他在天堂"正是踩在这颗雷上。
 
 > **原句 3:** "Leonor like a rabbit spotted; Estevan like the fox."
 
 中文理解：Leonor 像被猎犬发现兔子，Estevan 像那头狐狸。
 关键词：rabbit（兔子）、spotted（被发现的）、fox（狐狸）
 为什么这样写：姐妹一句"盆栽不喜欢晒"说破了他俩才懂的暗语，两人同时屏息——比喻用捕食链写亲缘：惊觉彼此是同类的人，第一反应是互为天敌。分号两侧对仗的短句把"同时倒吸一口气"裁成镜像。
-读者视角提示：Estevan 的追问"我早年教过你与树和鸟说话"悬而未答，Leonor 那声"太亮的"笑声成为全书待回收的伏笔——她是知情的家人吗？
+读者视角提示：Estevan 的追问"我早年教过你与树和鸟说话"被一句轻飘飘的 "Of course not. How ridiculous." 搪塞，Leonor 那声"太亮的"笑声成为全书待回收的伏笔——她是知情的家人吗？
 
 > **原句 4:** "But he had to take root where he was."
 
 中文理解：但他必须在他所在的地方扎根。
 关键词：take root（扎根）、where he was（他在的地方）
-为什么这样写：想"把脚趾陷进好土"的树灵冲动被一句谚语式自持按住：take root where you are 本是人的安命格言，从他嘴里说出却是生理忍耐。dirt/root 语族本章双出（sink his toes / take root），每次落地词都在提醒：他是个不能回土里的人。
+为什么这样写：想"把脚趾陷进好土"的树灵冲动被一句谚语式自持按住：take root where he was 本是人的安命格言，从他嘴里说出却是生理忍耐。dirt/root 语族本章双出（sink his toes / take root），每次落地词都在提醒：他是个不能回土里的人。
 读者视角提示：与 ch14"我是耐心的树"同一语法——但这里多了一层痛感：耐心对树是天赋，对卧底是刑期。
 
 > **原句 5:** "I didn’t take the guise of a mortal just to earn a few coins."

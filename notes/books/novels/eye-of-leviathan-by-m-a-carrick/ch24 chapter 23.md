@@ -61,7 +61,7 @@ modified: "2026-09-22"
 
 关键词：blow（重击）、burnt-meat（烧肉般）、chafing（磨破）
 
-为什么这样写：嗅觉先于视觉执行道德审判：burnt-meat 的具象把"受洗之死"翻译成人能闻到的化学语言——盐与铁对精灵是持续的火。这一拳打碎了他六年自我说服的全部修辞。
+为什么这样写：嗅觉先于视觉执行道德审判：burnt-meat 的具象把铁镣磨肉的精灵之痛翻译成人能闻到的化学语言，紧邻的"海水化身的亡者"再把这气味接上受洗之死的账。这一拳打碎了他六年自我说服的全部修辞。
 
 读者视角提示："empty chains marking the many who had died in passage and dissolved to seawater"——空链条是本章最重的意象：死亡连尸体都不留。
 

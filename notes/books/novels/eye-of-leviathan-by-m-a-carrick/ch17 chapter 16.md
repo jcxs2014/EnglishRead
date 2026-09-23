@@ -47,14 +47,14 @@ modified: "2026-09-22"
 
 中文理解：上千条绳索被抛了出去——从舰队、从头顶的飞行艇——它们攒成一束，顺着漩涡的弧线打转，像溺死女人的长发。
 关键词：ropes（绳索）、vortex（漩涡）、drowned woman（溺死的女人）
-为什么这样写：全章最阴冷的明喻：救助工具被看成尸体特征，围观者的善意与凶兆共用水流。from...from... 的重复把千帆竞救写成仪式场面，而 drowned woman 提前泄底：这场救援真正的主角是"会淹死的女人"——下一章她果然跳下去。
+为什么这样写：全章最阴冷的明喻：救助工具被看成尸体特征，围观者的善意与凶兆共用水流。from...from... 的重复把千帆竞救写成仪式场面，而 drowned woman 提前泄底：这场救援真正的主角是"会淹死的女人"——本章后文她果然跳进涡流。
 读者视角提示：murmuration 编绳（piskies 各投一线、鸟群织绳）是童话级想象，与这具"溺女"意象并置——作者在提醒：奇观的另一面始终是尸体账本。
 
 > **原句 6:** "Leviathan’s Maw was no enchantment she could ignore at will; it was a raw physical phenomenon, like a storm’s winds or the fall of a stone."
 
 中文理解：利维坦之口不是她能凭意志屏蔽的魔法；它是赤裸裸的物理现象，像风暴的风、下坠的石。
 关键词：enchantment（魔法）、phenomenon（现象）、raw（赤裸的）
-为什么这样写：免疫设定首次遭遇硬边界：她无视不了漩涡，正如她无视不了重力——"选择跳"因此才成其为选择，而非开挂。at will 与前文"风暴之声"的自愿开关呼应：她的天赋从来只是"可以听"与"可以不听"，从不是"可以不死"。
+为什么这样写：免疫设定首次遭遇硬边界：她无视不了漩涡，正如她无视不了重力——"选择跳"因此才成其为选择，而非开挂。at will 与本章后文"风暴之声"的自愿开关呼应：她的天赋从来只是"可以听"与"可以不听"，从不是"可以不死"。
 读者视角提示：紧接的 "she had no baptism to lose"（她没有洗礼可失去）是全章题眼：对 Diego 是枷锁的东西，对她反而是唯一能自由典当的资产——可她连这份资产都没有。
 
 > **原句 7:** "she was too aware of the irony that the curse he sought to be free of was the blessing she craved."

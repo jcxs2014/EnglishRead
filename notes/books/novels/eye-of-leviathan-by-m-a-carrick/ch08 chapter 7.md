@@ -47,7 +47,7 @@ modified: "2026-09-22"
 
 中文理解：风暴群岛已经不存在了；而这个 Diego，是十年前生在马德里的。
 关键词：no more（已亡）、a mere decade ago（仅仅十年前）
-为什么这样写：一个亡国贵族把自己"重新注册"为奴籍出生地：名字、故土、年龄全部被洗礼覆写——这是换子主题的暗面镜像：Estevan 用假身份活了二十年，Diego 被强制塞进假身份活了十二年。"born in Madrid"是他自嘲的墓志铭。
+为什么这样写：一个亡国贵族把自己"重新注册"为奴籍出生地：名字、故土、年龄全部被洗礼覆写——这是换子主题的暗面镜像：Estevan 用假身份活了二十年，Diego 被强制塞进假身份活了十二年。"born a mere decade ago in Madrid"是他自嘲的墓志铭。
 读者视角提示：对照海彼线 Diego"啐自己名字像啐骂话"——两处为同一人，时间线互证（海彼线=十二年前受洗后的早期生涯）。
 
 > **原句 6:** "May you someday find yourself in the Sea Beyond, bound by geas to offer no violence to those around you, while they speak of you like a dumb animal who cannot understand their arguments."
@@ -55,7 +55,7 @@ modified: "2026-09-22"
 中文理解：愿你有朝一日也落到彼海，被誓缚住手脚、不得对身边人动粗，只能听他们谈论你——像谈论一头听不懂话的哑兽。
 关键词：geas（誓缚）、dumb animal（哑兽）、someday（有朝一日）
 为什么这样写：Estevan 的"诅咒"其实是移情：他无法对同胞见死不救，便把 Diego 的处境原样"祝"回给辩敌——用最恶毒的句式写出最精确的理解。这句也吓到自己：他把底牌（懂精灵、懂誓缚、懂彼海）亮得太满。
-读者视角提示：紧接着 Diego 大笑、Gisbert 讥其"笑如疯子"——全场只有 Estevan 听懂那是"被听懂了"的笑。
+读者视角提示：这句咒语说完，Diego 反而笑得更厉害（laugh harder）；Gisbert 先前"笑如疯子"的讥评与此后的笑声一前一后夹住它——全场只有 Estevan 听懂那是"被听懂了"的笑。
 
 > **原句 7:** "As if holy water were dripping over his brow again, something drained away from the mortalizado. The arrogance of the Sea Beyond; the sense of himself as fae."
 
@@ -69,7 +69,7 @@ modified: "2026-09-22"
 中文理解："杀戮只是开始，小干脚。之后他们把岛屿钉在位置上、钉在时间里，让它们服从这个世界的律法，而不是那个世界的。"
 关键词：pin（钉住）、in place（在空间上）、in time（在时间上）、laws（律法）
 为什么这样写：全书核心谜团第一次给出机制：征服的终态不是杀人而是改物理——把随意漂移的彼海"立法固定"成地球上的一个经纬度。pin 的钉子意象接回"铁"主题：铁不仅伤精灵，还钉世界。
-读者视角提示：这句直接回收 ch06 的航线推算（水星逆行开关）与 ch07 的"固定岛屿/统一时间"常识——Estevan 拼图的两块新边角料都出自人类精灵之口。
+读者视角提示：这句把 ch06 的航线推算、本章前文 Brasa 揭开的水星逆行开关、与 ch07 的"固定岛屿/统一时间"常识——Estevan 拼图的两块新边角料都出自人类精灵之口。
 
 ## 本章词汇
 

@@ -18,7 +18,7 @@ modified: "2026-09-22"
 > **原句 1:** "Who cares if the fae might have minds and souls already, might have rights under natural law, when mortalizados make such biddable slaves for the Church to claim."
 
 中文理解：谁在乎精灵是否本有心智与灵魂、本有自然法下的权利——反正受洗的精灵做起奴隶来如此驯顺，教会何必多那道义上的坎。
-关键词：biddable（俯首帖耳的）、venality（贪腐败德）、rationality（理性）
+关键词：biddable（俯首帖耳的）、mortalizados（受洗精灵）、natural law（自然法）
 为什么这样写：Estevan 的怒斥把全书的制度批判压缩成一句：真理无关紧要，实用决定神学——"already"一词是他不敢说出口的证词（精灵确实有灵魂，他就在现场）。Alejandro 立刻警告"这话会引来宗教裁判所"，一句真话在此书世界是比魔法更危险的违禁品。
 读者视角提示：对照 ch08 公开课的从容提问们——利益集团从不需要相信谎言，只需要谎言好用。
 
@@ -26,7 +26,7 @@ modified: "2026-09-22"
 
 中文理解：父亲付了罚金，换我与母亲在家受鞭刑——教堂里没有悬挂过 sanbenito，没人知道我们曾被审判。
 关键词：fines（罚金）、whipped（受鞭刑）、sanbenito（宗教裁判所示众衣）
-为什么这样写：一个九岁孩子的"前科"被金钱改写成隐私：赎罪券逻辑的温情版——也正是这层隐私救不了他，档案在 Suprema 里等着（"烧掉他们的档案"）。他讲述时"笑声脆得像瓷"，二十年后的萨拉曼卡仍在他喉咙里。
+为什么这样写：一个九岁孩子的"前科"被金钱改写成隐私：赎罪券逻辑的温情版——也正是这层隐私救不了他，档案在 Suprema 里等着（"烧掉他们的档案"）。他讲述时笑声脆而易碎（brittle），二十年后的萨拉曼卡仍在他喉咙里。
 读者视角提示："没有示众的 sanbenito"与 ch04 火刑场的 sanbenito 互文——同一个制度，两种可见度：穷人游街，富人销案。
 
 > **原句 3:** "Trees were patient; they knew how to sneak roots through the most unlikely of gaps, then grow and grow until they broke even stone."
@@ -61,7 +61,7 @@ modified: "2026-09-22"
 
 中文理解：记得你的承诺，椴树呻吟道。
 关键词：promise（承诺）、groaned（呻吟）
-为什么这样写：全书最安静的对话：一个垂死树灵向另一个树灵讨约——"大秤"制度的活心脏被天主教镀金修剪三百年，最后向一个换子精灵求"慢慢地"兑现。groan 一词同时是木纹的吱呀、老人的叹息与被迫立约者的不甘。
+为什么这样写：全书最安静的对话：一个垂死树灵向另一个树灵讨约——"大秤"制度的活心脏被天主教化的风潮镀金修剪，最后向一个换子精灵求"慢慢地"兑现。groan 一词同时是木纹的吱呀、老人的叹息与被迫立约者的不甘。
 读者视角提示：Estevan 以靴尖拂过萎缩的根须完成"用壳投票"之外的第二次交易——他释放果核（"某个避世山谷里将长出一棵椴树"），第一次主动使用"人间规则内的魔法"对抗人间规则。
 
 > **原句 8:** "This is a kiss, Estevan thought—his only clear thought in a welter of confusion. Why a kiss?"
@@ -69,7 +69,7 @@ modified: "2026-09-22"
 中文理解：这是一个吻，Estevan 想——混乱之海中唯一清醒的一条判断。为什么要吻？
 关键词：kiss（吻）、welter（翻腾的混乱）、confusion（困惑）
 为什么这样写：用"分类学口吻"写初恋冲击：树灵无人间经验（"as a tree spirit… neither experience nor interest"），换子学生只做过旁观者——被吻的瞬间他的心智先给标本贴标签、再追问用途，恰是全书"他学会做人了吗"主线的关键刻度。
-读者视角提示：紧接他的第一反应是"检查唇上是谁的唾液"（血热而刺痛的 tingled）——身体先于文化接收信号；随后 Dinis 的坦白把"吻的意义"从他手里转交给 Alejandro 自己：本章真正的主题是每个人都在学自己没被教过的事。
+读者视角提示：紧接他的第一反应是"检查唇上是谁的唾液"（血热而刺痛的 tingled）——身体先于文化接收信号；随后 Alejandro 坦白自己倾心 Dinis，"吻的意义"的解释权整个交还到 Alejandro 手里：本章真正的主题是每个人都在学自己没被教过的事。
 
 ## 本章词汇
 

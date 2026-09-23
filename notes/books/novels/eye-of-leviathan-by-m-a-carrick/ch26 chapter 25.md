@@ -63,7 +63,7 @@ modified: "2026-09-22"
 
 为什么这样写：特蕾萨一句话拆掉埃斯特万最后的交易式思维（"因为她们救过我女儿才去救她们"）：援助若以功劳为门槛，便仍是帝国的语法。这句无条件的"regardless"正是当年她答应换子契约的原始逻辑的回声。
 
-读者视角提示：叙述者只答两个字"It was."——六年谎言的账本上，第一次出现双方都认账的条目。
+读者视角提示：Estevan 在心里只答两个字"It was."——六年谎言的账本上，第一次出现双方都认账的条目。
 
 > **原句 6:** "I am a changeling, as you guessed, but not of the usual sort. My mother made the trade fairly, asking me to be a son and take the place of her daughter."
 
@@ -93,7 +93,7 @@ modified: "2026-09-22"
 
 为什么这样写：解链的雷鸟=移动的飓风眼：黑暗中心与倾盆大雨同体，"自由的破坏力"获得了气象学精度。前一刻她"干渴凄惶地缩在石上"，此刻成为干旱瓦伦西亚的云之母——囚徒变救主只隔了一袋云料。
 
-读者视角提示：埃斯特万此刻"自由了"（free at last）——他与雷鸟在同一段落里完成同步越狱：解链者本身也是被链者。
+读者视角提示：埃斯特万此刻"自由了"（free at last）——他与雷鸟各在一处、却在同一章里完成同步越狱：解链者本身也是被链者。
 
 ## 本章词汇
 
@@ -128,7 +128,7 @@ modified: "2026-09-22"
 | perched | 栖立 | "the roc perched atop the tower and screamed her boundless fury" |
 | scant | 微薄稀少的 | "You could have given me comfort by telling me what you knew, however scant it might be." |
 | griped | 抱怨嘟囔 | "the jailer griped when Estevan showed up" |
-| witted | 意识到（wittingly） | "They had sheltered a changeling traitor in their midst, wittingly or otherwise" |
+| wittingly | 明知故犯地（副词） | "They had sheltered a changeling traitor in their midst, wittingly or otherwise" |
 | huddled | 蜷缩挤蹲 | "the roc chained atop the Porta dels Serrans had been huddled on the stone" |
 
 ### ⭐ 基础

@@ -23,7 +23,7 @@ modified: "2026-09-22"
 
 为什么这样写：三行把"环境—威胁—身体"焊成一条因果链：虫饥渴于血→空气成了瘴（miasma，兼有"瘴气"与"乌烟瘴气的群体"双义）→男孩自己反成一条河。walking river 的夸张喜剧腔与全书的苦刑底色一致：叙述者是一个活了很久的精灵在回忆九岁，自嘲是他仅剩的自由。另外，"汗如河"对无泪的精灵之躯是一语双关——他不会哭，只能流汗。
 
-读者视角提示：注意季节写法：上一章的塞维利亚在火刑季，本章夏天"biting"——本书的西班牙天气始终是敌意 actor，不是布景。
+读者视角提示：注意季节写法：上一章的马德里在火刑大典季，本章夏天"biting"——本书的西班牙天气始终是敌意 actor，不是布景。
 
 > **原句 2:** "There’s one tangled in my hair, the tree grumbled, leaves shaking in irritation."
 
@@ -61,7 +61,7 @@ modified: "2026-09-22"
 
 关键词：continue having a son, seventh daughter, pride
 
-为什么这样写：九岁"孩童"身体里住着精灵的刀法与成人的算计：他懂这个父亲的账本——儿子不是爱，是香火资产。于是他把刀刃转向自己大腿，把"杀死唯一的男性继承人"做成一道选择题递给父亲。seventh daughter 的诅咒精准命中父亲全部的愤怒来源（六个女儿的嫁妆），一句话把家庭暴力改写成谈判——这是本章真正的"火刑时刻"：一个受洗未成的精灵，用凡人的血脉逻辑赢了凡人家长。
+为什么这样写：九岁"孩童"身体里住着精灵的刀法与成人的算计：他懂这个父亲的账本——儿子不是爱，是香火资产。于是他把刀刃转向自己大腿，把"杀死唯一的男性继承人"做成一道选择题递给父亲。seventh daughter 的诅咒精准命中父亲全部的愤怒来源（六个女儿的嫁妆），一句话把家庭暴力改写成谈判——这是本章真正的"火刑时刻"：一个受洗而未改性的精灵，用凡人的血脉逻辑赢了凡人家长。
 
 读者视角提示：Teresa 隔着父亲低垂的头对他露出"颤抖的、鼓励的微笑"——母子第一次结盟成功；对照上一章她独自藏秘的处境，这个家的权力结构被一刀切开。
 
@@ -71,7 +71,7 @@ modified: "2026-09-22"
 
 关键词：nod, denounced, bled
 
-为什么这样写：作者用三段否定（shouldn't hurt / Who was she / Not a sister）搭好堤坝，再让"bled"一个词决堤——理性的自我说服越流畅，漏出的那句痛越致命。"denounce"（告发）是宗教法庭时代最家常的亲属行为，本书不渲染阴谋，只写事实：姐姐告发弟弟在当年制度里被鼓励。而 Estevan 此刻才刚被母亲教完"嫁祸给我"——他一生都在被血亲出卖与保护血亲之间做翻译。
+为什么这样写：作者用三段否定（shouldn’t have hurt / Who was Catalina / Not a sister）搭好堤坝，再让"bled"一个词决堤——理性的自我说服越流畅，漏出的那句痛越致命。"denounce"（告发）是宗教法庭时代最家常的亲属行为，本书不渲染阴谋，只写事实：姐姐告发弟弟在当年制度里被鼓励。而 Estevan 此刻才刚被母亲教完"嫁祸给我"——他一生都在被血亲出卖与保护血亲之间做翻译。
 
 读者视角提示：注意"now a young woman"：上一章她还是怀疑婴儿被换掉的十岁姐姐，她嫁去塞维利亚后仍记着这笔账——Catalina 的恨有整本童年作为账单。
 
@@ -105,7 +105,7 @@ modified: "2026-09-22"
 | sanbenito | （宗教法庭强制罪人穿着的）悔罪黄衣，刑满后悬挂于教堂示众 | "no year spent wearing a yellow sanbenito, the tunic afterward hung in their church as an eternal banner of their sins." |
 | mortalizado | （本书西语术语）被洗礼"凡人化"的精灵，灰钝无魂者 | "Did the dull grey of a mortalizado’s fate await him on the other side of his sentence?" |
 | peccadilloes | 小过错、轻微罪愆（常含轻描淡写意） | "He prepared the ground with a new litany of peccadilloes, these against his sisters." |
-| implacable | 不可 appease 的、冷酷无情的 | "The questioning proceeded, implacable as a millstone." |
+| implacable | 不可化解的、冷酷无情的 | "The questioning proceeded, implacable as a millstone." |
 | revenant | 归来者、还魂复仇的死灵 | "The bite of the whip became the gnash of teeth, a monstrous revenant erupting from the earth to catch every one of these humans in its mighty jaws and devour them" |
 | banality | 平庸乏味；陈腐 | "What followed was a strange exercise in banality." |
 | gorge | 喉咙；翻涌的恶心感 | "danger chasing him through a hell of his own making, humans all around and no way to be free, just rising walls and rising fear and rising gorge" |

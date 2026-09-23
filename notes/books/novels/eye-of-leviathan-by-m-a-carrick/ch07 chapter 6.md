@@ -34,7 +34,7 @@ modified: "2026-09-22"
 中文理解："带走她，滚得越远越好。她反正对我毫无用处，这个饿出来的蠢块！"
 关键词：good riddance（巴不得你走的客气话）、starving lump（饿出来的蠢块）
 为什么这样写：Lady 把"甩包袱"说得像开恩：惊叹的句式里裹着嫌恶，却恰好给了饥饿姑娘脱离虐待的通道——彼海的自由全凭羞辱发放。"starving lump"回扣全书称号：她的"饿"既是名字也是 Lady 治她的刑具。
-读者视角提示：注意饥饿姑娘" felt the ghost of"鹰爪的旧伤反应——被救的同时身体仍记得被推下崖的痛，善意与暴力的界线在她身上从未清晰过。
+读者视角提示：注意饥饿姑娘" felt the ghost of"鹰爪的旧伤反应——被救的同时身体仍记得那双手的推搡与旧年鹰爪的惊悸，善意与暴力的界线在她身上从未清晰过。
 
 > **原句 4:** "The people are greedy and cruel. They have little regard for those unlike them. They are quick to anger and even quicker to reach for iron to solve their problems."
 
@@ -62,7 +62,7 @@ modified: "2026-09-22"
 中文理解：他立在栏杆顶端，仅凭一只手扶绳稳住身形，离"只有空气和海的虚无"只差一步。难得的不是他面无表情——是那张脸上第一次有了东西：一种纯粹到让饥饿姑娘心口发疼的渴望。
 关键词：a mere step away（仅一步之遥）、blank（空白的）、yearning（渴望）
 为什么这样写：塞壬在召唤别人时，Diego 眼里闪的是"空洞第一次被填满"——他求的死不是毁灭而是归属。"for once"三个字把这个全章惜字如金的人物推到他唯一一次表情饱满的时刻，悬崖与舞台叠影。
-读者视角提示：紧接饥饿姑娘的抓扯与他的反噬（"Get your hands off me"），救人者被咬——本章对"救赎"的复杂定义在此完成。
+读者视角提示：紧接饥饿姑娘的抓扯与他的反噬（"Get your hands off me"），救人者反被抠腕制痛——本章对"救赎"的复杂定义在此完成。
 
 > **原句 8:** "His fire was a fury that, deprived of any other fuel, would burn him to cinders."
 

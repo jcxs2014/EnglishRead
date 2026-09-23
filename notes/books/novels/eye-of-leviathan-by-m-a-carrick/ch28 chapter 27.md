@@ -97,7 +97,7 @@ modified: "2026-09-22"
 
 为什么这样写：龙齿战士的请战词是本章道德算术的解：不死于毁器灭魂，而死于开路断后——把"毁灭"换成"牺牲"，把 Estevan 的两难转成有路径的突围。引用止于逗号：话没说完，读者已被推向下一章。
 
-读者视角提示："Stay behind us. We will cut you a path out of here." 与 ch17 里他们初醒时“Do you forget to whom you first knelt”的旧账呼应——第一次效忠对象此刻第二次兑现。
+读者视角提示："Stay behind us. We will cut you a path out of here." 与本章前文"Do you forget to whom you first knelt"的旧账呼应——初跪对象在 ch12 的 Grau：龙齿战士初醒下跪，第一次效忠此刻第二次兑现。
 
 ## 本章词汇
 

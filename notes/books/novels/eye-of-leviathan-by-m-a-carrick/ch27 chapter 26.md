@@ -128,7 +128,7 @@ modified: "2026-09-22"
 | menacing | 威吓逼人的 | "the blue gave way to a menacing wall of clouds" |
 | sporadically | 零星地 | "Firearms cracked sporadically outside" |
 | mutely | 无声地 | "Estevan stared mutely at the empty cell" |
-| availed | 取用（avail oneself of） | "he availed himself of several Otherworldly-scented oranges" |
+| availed | 取用（availed himself of） | "he availed himself of several Otherworldly-scented oranges" |
 | mustered | 被集结 | "troops from the Casa d’Armes mustered to deal with the problem of the roc" |
 | debilitated | 虚弱的 | "many of those they freed were swaying, staggering, debilitated by their imprisonment" |
 | nonplussed | 愕然语塞的 | "Nonplussed, Estevan replied in the language of birds" |

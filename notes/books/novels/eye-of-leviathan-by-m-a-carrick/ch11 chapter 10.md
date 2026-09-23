@@ -7,7 +7,7 @@ modified: "2026-09-22"
 
 ## 本章导航
 
-- **一句话概括**：征服者洗劫 Threnody 群岛后驶往 Santa Cruz del Fuego——即被火十字"钉住"、每七年才现身的传说之岛 Hy-Brasil；饥饿姑娘得知此地已是 1608 年（海上五年，人间一夜），目睹断耳成"勋爵"的兔族 mortalizado Don Miguel、被铁链锁住的巨乌贼与铁笼中的风暴罗克鸟；卫兵 Pérez 借圣名刁难 Diego 致其命令相撞，她失手将其击毙；Diego 趁势以"我失落之真名"起誓与她结逃亡之盟，Erauso 鬼使神差地同谋——三人放飞乌贼、借罗克鸟引发的暴雨脱离滩头，约定去寻只可被"从未找到者"寻见的 Goblin Armada。
+- **一句话概括**：征服者洗劫 Threnody 群岛后驶往 Santa Cruz del Fuego——即被火十字"钉住"、每七年才现身的传说之岛 Hy-Brasil；饥饿姑娘得知此地已是 1608 年（海上五年，人间一夜），目睹断耳成"勋爵"的兔族 mortalizado——Don Miguel、被铁链锁住的巨乌贼与铁笼中的风暴罗克鸟；卫兵 Pérez 借圣名刁难 Diego 致其命令相撞，她失手将其击毙；Diego 趁势以"我失落之真名"起誓与她结逃亡之盟，Erauso 鬼使神差地同谋——三人放飞乌贼、借罗克鸟引发的暴雨脱离滩头，约定去寻只可被"从未找到者"寻见的 Goblin Armada。
 - **情感弧线位置**：深渊里的结盟与出逃——海彼线三人组（人/换子/受洗精灵）形成"被命令者反命令"的雏形；饥饿姑娘完成从被动得救者到杀人者、再到承诺者的三连跳。
 - **Tropes 兑现/反转**：反转"服从公主"童话——她亲口讲出"顺从被恶人利用"的故事质问 Erauso；"越狱"反转为"带上一个不能被带上的人"：Diego 的誓约锁死一切人造载具，自由须以击昏、勒窒、拖拽的形式"偷"走；传说岛屿（Hy-Brasil、Barcelos 公鸡的镜像）全部兑现为被殖民改写的地理。
 - **人物弧线**：Diego 十二年来第一次"眼里有了光"（希望的笑、微笑的种子），从活死人转为共谋者；Erauso 从醉酒斗殴者转为"找到它听得懂的语言"的行动派；饥饿姑娘第一次为别人（而非自己的灵魂）许愿：They will not take him back。
@@ -20,14 +20,14 @@ modified: "2026-09-22"
 中文理解：食物——装在核桃里再好不过：那里面时间是冻住的，空间是无边的。
 关键词：frozen（冻结的）、infinite（无限的）、walnut（核桃）
 为什么这样写：彼海魔法的最小样本被写成一句采购清单：冒号后的短句式（More clothing… Food… A knife…）模仿账簿口吻，把"时间冻结/空间无限"这种形而上学降格为生存参数——奇幻设定服务于逃亡工程学，本书魔法永远先回答"饿不饿"。
-读者视角提示：核桃此前已作为"众多精灵携带之物"出现——本章完成伏笔回收；它对饥饿姑娘无效的原因（她非精灵、却免疫精灵魔法）仍是全书待解的例外。
+读者视角提示：核桃本是"众多精灵随身之物"，本章开篇即揭晓其真正用途（冻住时间、容下无限）——饥饿姑娘赶在水手们领悟意义之前抢先收走一枚，"偷师即生存"的注脚。
 
 > **原句 2:** "A flaming cross stood atop the island’s peak, soaring as high as the masts of the San Prisciliano and pinning Hy-Brasil in place like a skewered butterfly."
 
 中文理解：一支燃烧的火十字矗立岛巅，高过 San Prisciliano 的桅杆——把 Hy-Brasil 像标本蝴蝶一样钉死在原地。
 关键词：flaming（燃烧的）、pinning…in place（钉在原地）、skewered（穿在扦上的）
-为什么这样写：ch08 Diego 那句"钉岛"预言的实景兑现：传说里"七日一现"的流动仙岛被一枚教会之钉摁在海上，从此雾散、金剥、果秃。skewered butterfly 的收藏意象点破殖民本质——他们不是毁灭美，是把美制成标本。
-读者视角提示：注意"火"与"十字"的合成词本身即纲领（宗教裁判所的 autodafé 意象）：敌意对准的是魔法呼吸的节律，而非岛上居民。
+为什么这样写：ch08 Diego 那句"钉岛"预言的实景兑现：传说里"七年一现"的流动仙岛被一枚教会之钉摁在海上，从此雾散、金剥、果秃。skewered butterfly 的收藏意象点破殖民本质——他们不是毁灭美，是把美制成标本。
+读者视角提示：注意"火"与"十字"的合成词本身即纲领（宗教裁判所 auto de fe 的意象）：敌意对准的是魔法呼吸的节律，而非岛上居民。
 
 > **原句 3:** "Her mother the queen was thankful to have such an obedient child… until a villain learned of the geas. In the end, she gave him her mother’s crown and her kingdom, then cast herself off a cliff to join the waves before he could order her to do worse. She had no choice in following his orders. You did."
 
@@ -61,7 +61,7 @@ modified: "2026-09-22"
 
 中文理解：Goblin Armada 的规矩就是这样。只有从未找到它的人，才找得到它。
 关键词：never found（从未找到）、can find（能够找到）
-为什么这样写：一句悖论式世界规则：寻得即失去坐标——经验本身是路障。它当场封死 Diego 与她的"Old Fox 旧忆"路线，把三人组的目的地从"可去之地"改为"只能被偶遇之地"，也为 Erauso 的加入给出唯一理由：他是三人中唯一"从未找到者"。
+为什么这样写：一句悖论式世界规则：寻得即失去坐标——经验本身是路障。它当场封死 Diego 与她"凭旧路记忆寻岛"的路线，把三人组的目的地从"可去之地"改为"只能被偶遇之地"，也为 Erauso 的加入给出唯一理由：他是三人中唯一"从未找到者"。
 读者视角提示：注意叙述的冷幽默落点"Which meant neither she nor Diego could"——逃亡路线的设计图第一块就是"图不可用"；本书的地理学=愿望学。
 
 > **原句 8:** "For the first time, she saw the seed of what might one day become a smile."

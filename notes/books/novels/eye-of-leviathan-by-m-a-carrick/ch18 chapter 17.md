@@ -27,7 +27,7 @@ modified: "2026-09-22"
 中文理解：我听侯爵说，陛下上回如此事必躬亲地插手一件事，还是那场征英大业——您瞧瞧那结果有多"好"。
 关键词：Enterprise（远征大业）、interfered（干预）、turned out（收场）
 为什么这样写：look how well 是标准的反话悼念：1588 无敌舰队之败在宫廷里已是可以引用但不能直说的典故，借侯爵之口说出，既保全说话人也保全读者理解——历史创伤在本章是导航仪：西班牙的每一步作战计划都踩着对那次失败的回忆。
-读者视角提示：ch12 已埋过同一伏笔（气候与"最幸运舰队"的耻辱）；本书里 England 之败是彼海政治的隐形参与者。
+读者视角提示：本章前文 Alejandro 已点出同一伏笔（气候与"最幸运舰队"的耻辱）；本书里 England 之败是彼海政治的隐形参与者。
 
 > **原句 3:** "A thousand warnings given over a thousand years cautioned him against drinking strange brews… but he’d already risked this much, and couldn’t give up now."
 
@@ -48,7 +48,7 @@ modified: "2026-09-22"
 中文理解：一张他从未见过的脸，却一眼认出。
 关键词：never seen（未见）、knew（认出）、at first sight（第一眼）
 为什么这样写：换生感应的终极验证：从未谋面却"认得"，因为那是他顶替了一生的人。句子砍成两个对称短语，"seen/knew"一对反义动词完成悖论——认出的不是五官，是位置：镜子里站着一件家具的原始主人。
-读者视角提示：这是双主角结构合龙的爆炸点：饥饿姑娘极可能就是"第七姐妹"（被留在栗树林、失踪、流落彼海）——回读 ch02 婴儿失踪段与 ch10 树影消失，此处的"knew"是作者给读者的对账单。
+读者视角提示：这是双主角结构合龙的爆炸点：饥饿姑娘极可能就是"第七姐妹"（被留在栗树林、失踪、流落彼海）——回读 ch01 婴儿被留林中的段落与 ch10 树影消失，此处的"knew"是作者给读者的对账单。
 
 > **原句 6:** "I see too many things, too many places I’m not. I miss my tree."
 

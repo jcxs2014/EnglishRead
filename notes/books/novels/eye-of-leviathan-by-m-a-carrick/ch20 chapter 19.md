@@ -81,7 +81,7 @@ modified: "2026-09-22"
 
 关键词：knowledge（知识）、hoard（囤积）、proof（证据）
 
-为什么这样写：破折号前后是本章的哲学钉子：硬币还能靠国王收藏来垄断，知识一旦被人脑装过一次就再也关不住。分号用得像论文句式——叙述者此刻的语气比埃斯特万本人更冷酷，因为结论是：这场审判赢不了，只能拖延输的时间。
+为什么这样写：破折号前后是本章的哲学钉子：硬币还能靠国王收藏来垄断，知识一旦被人脑装过一次就再也关不住。分号用得像论文句式——叙述者此刻的语气比埃斯特万本人更冷酷，因为结论是：封锁知识的仗赢不了，审讯只能拖延输的时间。
 
 读者视角提示：回想 ch12 的护身符、ch18 的墨水——本书反复论证"秘密是有腿的"。
 
@@ -108,7 +108,7 @@ modified: "2026-09-22"
 | ostentatiously | 张扬地做样子 | "One of Jalida’s men looked around ostentatiously" |
 | barnacled | 缀满藤壶的 | "a ship whose barnacled hull still tasted faintly of the Otherworldly waters" |
 | circumspect | 谨言慎行的 | "he had to be circumspect in his phrasing" |
-| privy | 知情（get/be privy to） | "Even the cosmographers weren’t privy to that secret" |
+| privy | 知情（privy to） | "Even the cosmographers weren’t privy to that secret" |
 | rambunctious | 喧闹难驯的 | "if the cattle were particularly rambunctious" |
 | parched | 干涸渴望的 | "hadn’t left the mortal realm so parched for magic" |
 | dormant | 休眠蛰伏的 | "some part of him that had lain diminished and dormant for eons" |

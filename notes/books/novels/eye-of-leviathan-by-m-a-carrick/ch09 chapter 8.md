@@ -33,7 +33,7 @@ modified: "2026-09-22"
 
 中文理解：你们的号令已断，你们的治序已乱！我的挑战在此候着——来与我以歌相决！
 关键词：command（号令）、broken（已断）、challenge（挑战）
-为什么这样写：放逐者归来的挑战是 Threnody 的宪制程序：土地本身会质疑僭主——Lady 站在沙滩上的高音量宣告，实为一次精心计算的法律战。韵脚（wrong/standing）让宣战像童谣，残忍的轻盈。
+为什么这样写：放逐者归来的挑战是 Threnody 的宪制程序：土地本身会质疑僭主——Lady 站在沙滩上的高音量宣告，实为一次精心计算的法律战。韵脚（wrong/song）让宣战像童谣，残忍的轻盈。
 读者视角提示：这句正呼应 ch07 的"同类招引同类"定律——她带来的人类火器将成为这场"歌"的最终和声。
 
 > **原句 4:** "There was ease in obedience. There was peace. She had only to listen, and her worries would vanish."
@@ -41,14 +41,14 @@ modified: "2026-09-22"
 中文理解：顺从里有安逸，服从里有太平。她只需听下去，忧愁自会消散。
 关键词：ease（安逸）、obedience（顺从）、vanish（消散）
 为什么这样写：三主之歌的诱降被写成一幅"舒适"的静物画——短句如摇篮曲本身；这也解释了这套魔法为何对饥饿姑娘失效：她太熟悉"被照顾"的价目表，宁要清醒的苦。
-读者视角提示：紧接她的反击姿态（look Nightshade in the eye）——全书"直视"作为抵抗符号在此定格。
+读者视角提示：紧接她的反击姿态（looked Nightshade in the eye）——全书"直视"作为抵抗符号在此定格。
 
 > **原句 5:** "It was blasphemy worse than walking on water. It was arrogance beyond anything even the Three had ever claimed."
 
 中文理解：这是比水上行走更大的亵渎；这是连三主从未敢自封的狂妄。
 关键词：blasphemy（亵渎）、arrogance（狂妄）、claimed（自称）
 为什么这样写：Lady 把她的 Ave Maria 缝进王权歌袍——凡间之神与圣子之歌都要向她俯首，这一口"亵渎的贪吃"正是她流亡怨气的顶点；而叙述者连用两个比较级（worse/beyond）替她按下自毁倒计时。
-读者视角提示：讽刺的引信：这句"僭主渎神"十行后，真正的渎神者（以神之名开火的征服者）登场——本书里"blasphemy"的裁判权永远随炮火易手。
+读者视角提示：讽刺的引信：这句"僭主渎神"数页后，真正的渎神者（以神之名开火的征服者）登场——本书里"blasphemy"的裁判权永远随炮火易手。
 
 > **原句 6:** "So say you. I say that killing you is a kindness, compared to the curse you left me to suffer."
 

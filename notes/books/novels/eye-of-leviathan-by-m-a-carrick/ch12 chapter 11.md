@@ -47,7 +47,7 @@ modified: "2026-09-22"
 
 中文理解：从国王眼皮下偷走一件宝物，是于一场远大于他个人的战争不过微小的一击。但他终于出手了——这给了 Estevan 胆气。
 关键词：blow（一击）、struck（打击的过去式）、heart（勇气、志气）
-为什么这样写：give someone heart 是古雅的"壮胆"习语，与 tiny blow 的自谦形成反差：偷项圈明明是为了"不让他们得到"，叙述却用战争语法为其赋义。strike/heart 的因果句式暴露主角正在给自己编写英雄叙事。
+为什么这样写：gave Estevan heart 是古雅的"壮胆"习语，与 tiny blow 的自谦形成反差：偷项圈明明是为了"不让他们得到"，叙述却用战争语法为其赋义。strike/heart 的因果句式暴露主角正在给自己编写英雄叙事。
 读者视角提示：下一章起可留意：第一次"微小的胜利"往往是一个人对越界耐受度的起点——本书对英雄的腐蚀写得极有耐心。
 
 > **原句 6:** "I worked hard to lead Don Héctor to that flute. Let him play it… and see how hard it is to tame the winds."
@@ -61,7 +61,7 @@ modified: "2026-09-22"
 
 中文理解：你还不够狠，成不了他们那样的人——也还不够狡，斗不过他们。夹着尾巴、按他们的规矩玩，然后向他们的神祈祷别被抓。
 关键词：cruel（残忍）、cunning（狡黠）、rules（规矩）
-为什么这样写：Diego 的临别赠言是一句"三合一否定"：先刺 Estevan 不够狠（前文他不敢烧仓库），再赞他不够诈（掉包失败风险），最后给出唯一可行策略——顺从式潜伏。prayer 的宾语是"their God"，所有格重复三次（their rules/their God）把他自己的神彻底排除了出去。
+为什么这样写：Diego 的临别赠言是一句"三合一否定"：先刺 Estevan 不够狠（前文他不敢烧仓库），再赞他不够诈（掉包失败风险），最后给出唯一可行策略——顺从式潜伏。prayer 的宾语是"their God"，所有格重复两次（their rules/their God）把他自己的神彻底排除了出去。
 读者视角提示：这句恰是 ch11 结尾"顺从即自毁"的反面教材——Estevan 听完立刻改用 Alejandro 的第四选项：不按规则玩，改牌桌。
 
 > **原句 8:** "Cheat. Stack the deck. If they don’t give you a way to look good, then make one."

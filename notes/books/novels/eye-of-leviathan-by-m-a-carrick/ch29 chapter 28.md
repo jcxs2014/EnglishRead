@@ -27,7 +27,7 @@ modified: "2026-09-22"
 
 为什么这样写：Morn 把神父拖来"逼她得救"，叙述者把抽象救恩写成跪地的人形——跪姿恰好与后文 Estevan 救起"hapless priest"、Steamed Pudding 受缚刑架构成同一条身体政治线：本章所有人都跪过，唯独救恩跪得最不合时宜。
 
-读者视角提示："wasn’t right" 是她全书第一次用直觉否决别人安排的救赎——ch25 海船上她还急切询问受洗路径，此处态度已然反转，弧线靠一个短语完成。
+读者视角提示："wasn’t right" 是她全书第一次用直觉否决别人安排的救赎——ch26 报告里还写她"She greatly desired baptism"，ch27 她已说"But baptism can wait"，至此反转走到最重的终点。
 
 > **原句 2:** "And only the unbaptized can command with a true name."
 
@@ -37,7 +37,7 @@ modified: "2026-09-22"
 
 为什么这样写：全书力量法理在此补上最后一块拼图：受洗者以神之名命令，未受洗者以真名命令——而她恰好是未受洗之身，又恰好握着他被改写前的真名。对称句式让恐惧显得合乎逻辑：不是 Morn 多心，是规则真的如此。
 
-读者视角提示：这句解释了她为何执意延后受洗的隐藏代价——受洗等于销毁他手里最危险的把柄，也等于自废她保护所有人的最后筹码；两难在 ch25 的"绝不直呼其名"伏笔上收口。
+读者视角提示：这句解释了她为何执意延后受洗的隐藏代价——受洗等于销毁她手里最危险的把柄——真名在她口中，也等于自废她保护所有人的最后筹码；两难在 ch25 的"绝不直呼其名"伏笔上收口。
 
 > **原句 3:** "Not the Knight of Soul’s Morning. His true name. It beat like a caged bird in the depths of her mind, every syllable she’d spoken to shape him."
 
@@ -47,7 +47,7 @@ modified: "2026-09-22"
 
 为什么这样写：她命名了他，于是持有他——笼中鸟的比喻同时是爱意与凶器：鸟活着、会痛、扑腾，而笼门钥匙在她舌头上。作者用"beat"一个词让"名字"变成会呼吸的实体。
 
-读者视角提示：呼应 ch23 她拒绝用旧名、ch25 私称 Morn 的亲密——此刻亲密的全部重量翻面为恐怖：她能命令他的程度，恰等于她爱他的程度。
+读者视角提示：呼应 ch25 她拒绝再被唤旧名、私称 Morn 的亲密——此刻亲密的全部重量翻面为恐怖：她能命令他的程度，恰等于她爱他的程度。
 
 > **原句 4:** "Sooner or later, every human who has power uses it."
 

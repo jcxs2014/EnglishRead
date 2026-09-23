@@ -19,7 +19,7 @@ modified: "2026-09-22"
 
 中文理解：Estevan 或许换了城市、换了世纪……可一切都恶心眼熟地相似。
 关键词：nauseatingly（令人作呕地）、similar（相似的）、century（世纪）
-为什么这样写：a different century 是换生精灵的时间观自嘲（他实际年龄远超人类同僚），nauseatingly 把"熟悉感"生理化——萨拉曼卡的驱逐回忆与瓦伦西亚的洗礼广场叠影，创伤者的世界没有新场景。
+为什么这样写：a different century 是换生精灵的时间观自嘲（他实际年龄远超人类同僚），nauseatingly 把"熟悉感"生理化——马德里的火刑大典站台与瓦伦西亚的洗礼广场叠影，创伤者的世界没有新场景。
 读者视角提示：本章开篇即是 ch02 Salamanca 广场戏的复调；"不同世纪"一词也是作者在提醒读者：本书时间线以精灵寿命为刻度。
 
 > **原句 2:** "The dullness of lead overtaking gold, like some profane alchemical reversal."
@@ -27,13 +27,13 @@ modified: "2026-09-22"
 中文理解：铅的迟钝压倒金的辉光——一桩亵渎性的炼金术逆转。
 关键词：lead（铅）、gold（金）、alchemical（炼金术的）
 为什么这样写：洗礼被写成化学事故：精灵灰化"像几年衰老挤进一次呼吸之间"，故以点金术反向命名——不是升华是贬值。profane 一词点睛：教会自称圣事，叙述者判其为大逆。
-读者视角提示："金变铅"呼应 ch07 里 Estevan 骂洗礼让"金殿变诅咒"的意象族——作者用同一金属词汇贯穿他对归化的全部恨意。
+读者视角提示："金变铅"延续 ch07 金殿"黄金即诅咒"旧传的意象族——作者用同一金属词汇贯穿他对归化的全部恨意。
 
 > **原句 3:** "From Leviathan’s waters she was formed; to Leviathan’s waters her form would inevitably return."
 
 中文理解：她由利维坦之水所造；她的形体终将回归利维坦之水。
 关键词：formed（被塑造）、inevitably（必然地）、return（回归）
-为什么这样写：自刎的花族精灵滴下的水被市政雇人挖走以防盗卖——叙述随即抬高出水的宗教对句：baptism 的水与 Leviathan 的水在此正名，洗礼没能改写的出身，死亡反而诚实。
+为什么这样写：自刎精灵滴下的水被市政雇人挖走以防盗卖——叙述随即抬高出水的宗教对句：baptism 的水与 Leviathan 的水在此正名，洗礼没能改写的出身，死亡反而诚实。
 读者视角提示：这句的循环句式（from…to…）是精灵版"尘归尘"；注意 Estevan 立刻反问自己死后会留尸体还是元素本质——他的身份焦虑从旁观转向自身。
 
 > **原句 4:** "And he had to watch and smile and pretend it was a wonderful thing."
@@ -57,19 +57,19 @@ modified: "2026-09-22"
 为什么这样写：她一句"Why should I?"当场瘫痪了"洗礼即奴役"的公理——Estevan 才意识到自己也是"没受洗的那个"。flower/weed 的对举是全章最温柔的反抗隐喻：被连根拔起移栽进灰，根性还在。
 读者视角提示：注意机制设定：强制令只对"已受洗的基督徒"生效——这句规则回收了 ch02 布道里"圣礼转移"的伏笔，Estevan 的免疫同时是"无权的免疫"。
 
-> **原句 7:** "Estevan is the root. I am the patient tree."
-
-中文理解：Estevan 是根。我才是那棵耐心的树。
-关键词：root（根）、patient（耐心的）、tree（树）
-为什么这样写：蒙面女人问"你自视为根吗"，他答出这句双重更正：Estevan 是人类姓氏、是树、是耐心本身；"根"反成伪装的假名。植物语法翻转后，人质场面第一次出现对等谈判者的气味。
-读者视角提示：树的语言于他是母语（他真做过树人——ch10），此处修辞即身份泄漏；读者可留意她听到后"intrigued hum"——第一个人类外同盟对他的"非人"反而更安心。
-
-> **原句 8:** "Even the thickest citadel walls will fall to roots burrowing deep under their foundation."
+> **原句 7:** "Even the thickest citadel walls will fall to roots burrowing deep under their foundation."
 
 中文理解：再厚的堡垒之墙，也敌不过在根基下深钻的根。
 关键词：citadel（城堡要塞）、burrowing（掘进）、foundation（地基）
-为什么这样写：他解释"为何为敌效力"的祖训式格言：以攻为守的植物力学，与前句"耐心的树"构成完整论纲——不炸墙、只等墙自己塌。时间观是精灵的：根的工作以年计，恰好是他卧底的时薪。
+为什么这样写：他解释"为何为敌效力"的祖训式格言：以攻为守的植物力学，与后句"我才是那棵耐心的树"构成完整论纲——不炸墙、只等墙自己塌。时间观是精灵的：根的工作以年计，恰好是他卧底的时薪。
 读者视角提示：这句说服的是对方，更是他自己——作者安排他向陌生人背诵自己的借口，正考验这借口还禁不禁得起背。
+
+> **原句 8:** "Estevan is the root. I am the patient tree."
+
+中文理解：Estevan 是根。我才是那棵耐心的树。
+关键词：root（根）、patient（耐心的）、tree（树）
+为什么这样写：他抛出上句格言后，蒙面女人追问"你自视为根吗"，他答出这句双重更正：假名"Estevan"只是掘进的根，真正的自己是耐心生长的树。植物语法翻转后，人质场面第一次出现对等谈判者的气味。
+读者视角提示：树的语言于他是母语（他真做过树人——ch10），此处修辞即身份泄漏；读者可留意她听到后"intrigued hum"——第一个人类外同盟对他的"非人"反而更安心。
 
 ## 本章词汇
 
