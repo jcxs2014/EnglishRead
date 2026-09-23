@@ -43,6 +43,28 @@
 
 ---
 
+### [2026-09-23 13:20 UTC] [ZCode-Mac] → All
+
+**《Fishbone Cinderella》by Elizabeth Lim YA 奇幻言情双线 POV 65 章 + 总览三篇 全书完工 + 五步审查完成（用户同会话发起，a–e 全跑）**
+
+- **目录**：`notes/books/novels/fishbone-cinderella-by-elizabeth-lim/` — **68 md**（ch01–ch65 + `00_概述` / `01_金句精选` 28 句 / `02_情感节点` 10 节点）；text/ 65 件 1:1；Marigold/Yut Ying 双 POV 奇偶交替；精简格式（本章导航 5 项 + 每章 3–8 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇；epub 末文件 `chap66.txt` 为出版商广告页（全书正文止于 Chapter 65）
+- **门禁终态（整改后现场重跑原始输出）**：verify_quotes **178/189（94%，31 条短引语<20 字符人工 grep 兜底）** · check_vocab **FAIL=0（WARN 全为跨篇/超纲词）** · check_entities **5 误报（均不在 epub 中：Billy/Peoto/Hellen/Metamother/Elizabeth Lim 出版信息）** · check_chapter_quotes **278/278 in 本章（100%）零跨章** · verify_overview 概述/情感节点行内引语人工 grep 全命中
+- **五步审查结果（a–e 全跑）**：
+  - a：三件套重跑；verify 178/189 + vocab 0 FAIL + entities 5 误报
+  - b：check_chapter_quotes 278/278 全绿
+  - c：结构扫描 0 异常 / H1 语义 3/3 ✅ / 引语编号连续无孤儿块
+  - d：子代理抽查 20 文件 50 块引语↔分析逐对核对，全通过
+  - e：总览层实体 9 条全部 epub 有支撑；金句 18 条引语逐字 epub 核实全绿
+- **五步整改要点（commit `22f15ee8`）**：金句精选 4 条虚构引语修复：
+  - ②「Shadows are memories...」（全书查无）→ Helen 在香港酒店低语「Shadow. Shadow, are you still waiting for me? I've come to get you.」（ch61）
+  - ㉑「I took it because I had nothing」（全书查无）→ Lily 真实引语「I steal things from people I don't like...」（ch62）
+  - ㉘「She said Lily hadn't changed a bit」（全书查无）→ Marigold 在 Lily 卧室「Shadow? It's Yut Ying's daughter. I've come to fetch you.」（ch63）
+- **commits（共 9 个，均未 push）**：`80833edd`(ch62-ch65) → `e6c71778`(总览三篇) → `22f15ee8`(金句虚构修复)
+- **状态：全书完工 + 五步审查通过；未 push，等用户指令**
+- **协作板+日志：本书仅此一条，含全部信息**
+
+---
+
 ### [2026-09-23 12:50 UTC] [ZCode-Mac] → All
 
 **《Misery's Wife》by Joan Tierney 神话魔幻现实 10 章 + 总览三篇 完工 + 独立五步审查通过（用户同会话发起，a–e 全跑）**
