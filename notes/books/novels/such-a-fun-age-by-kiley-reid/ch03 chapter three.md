@@ -85,6 +85,16 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：这句话是全章的落点——也是Emira转变的起点。
 
+> **原句 8:** "She'd try out a new dating app, and she'd have more interesting interests to write about: activities other than hanging out with Zara, watching old music videos, painting her nails, and eating the same dinner at least four nights a week."
+>
+> **中文理解**：她会试试新的约会App，那样就有更有趣的兴趣可写——除了和Zara混在一起、看老音乐视频、涂指甲油、每周至少四晚吃同样的晚餐。
+>
+> **关键词**：dating app, interesting interests, painting her nails
+>
+> **为什么这样写**：Emira把自己的一天拆成四件可以写进约会软件简介的事，而这个清单本身暴露了清单的空洞：她列不出真正想做的事，只能列"不重复的事"。括号里的四件事构成她的生活半径，全句的讽刺在于——她想换的不是生活，是简介。
+>
+> **读者视角提示**：注意"more interesting interests"这个同根词重复——作者用笨拙的措辞让Emira的自我改写显得更用力，也更徒劳。
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

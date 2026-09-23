@@ -65,36 +65,6 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：这句话是Alix的巅峰时刻，也是她最脆弱的时刻——她把自己撕成两半给观众看。
 
-> **原句 6:** "Find You A Woman That Can Do Both."
->
-> **中文理解**："找到那个能兼顾一切的女人。"——Small Business Femme活动Instagram的标题。
->
-> **关键词**：Do Both
->
-> **为什么这样写**：活动方提炼了Alix的核心卖点，但这个标签本身是矛盾的——"能兼顾一切"暗示之前有人没能兼顾，而Alix是例外。这是社交媒体时代的真实面貌：你的痛苦被转化为标签。
->
-> **读者视角提示**：标题是别人写的——Alix没有控制自己的叙事。
-
-> **原句 7:** "This wouldn't have happened if you had a real fucking job, Emira told herself on the train ride home."
->
-> **中文理解**：要是有份真正 fucking 的工作，这就不会发生——Emira在回家的火车上对自己说。
->
-> **关键词**：real fucking job, health insurance
->
-> **为什么这样写**：Emira的自我攻击把种族歧视事件转化为阶级焦虑——她的愤怒对象不是保安，而是"自己没有正式工作"。这是内化的阶级羞耻。
->
-> **读者视角提示**："real fucking job"是Emira的创伤触发器——她一生都在用这个标准衡量自己。
-
-> **原句 8:** "She'd try out a new dating app, and she'd have more interesting interests to write about: activities other than hanging out with Zara, watching old music videos, painting her nails, and eating the same dinner at least four nights a week."
->
-> **中文理解**：她会试试新约会app，会写更有趣的兴趣——除了和Zara混在一起、看老音乐视频、涂指甲油、每周至少四晚吃同样的晚餐。
->
-> **关键词**：dating app, Crock-Pot meal, shredded chicken, salsa, cheese
->
-> **为什么这样写**：Crock-Pot meal（慢炖锅餐）的细节精确到令人心酸——这不是文学夸张，是一个25岁穷人的真实晚餐。"same dinner at least four nights"揭示了Emira生活的单调与绝望。
->
-> **读者视角提示**：这四件事（混日子/看视频/涂指甲/重复晚餐）构成Emira的"生活半径"——她从未走出这个半径。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
