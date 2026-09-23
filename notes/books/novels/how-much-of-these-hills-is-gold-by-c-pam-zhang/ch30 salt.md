@@ -29,6 +29,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：命名权的交接从第一场戏就开始：Lucy 先给海的声音分配了一个山地词汇（把 boom 错认成 beast 的吼），再由 Sam 纠正——山里带来的眼睛是第一次失业。"不反射"是全章的哲学轴：山的湖水照出脸、照出 Ma 的影像，而海只照出它自己；Lucy 在无法反射她的水前，第一次无法借风景自恋或自怜。
 
+**读者视角提示**：海在本章给出的语法（does not reflect）请一路带进红宅三章——那里一切以“倒影”自居的东西，都将与这汪不照人的水对照检验。
+
 ---
 
 > **原句 2:** "She licks, and licks again: salty.…'All this time,' she says to Sam. 'All this time, I thought I belonged in Sweetwater.'…shaking houses loose as a dog shakes fleas…Later she'll learn that when the fog lifts, there comes the hard, clear light."
@@ -38,6 +40,8 @@ modified: "2026-09-23"
 **关键词**：loose、fog
 
 **为什么这样写**：舔雾这个动作把"尝到真相"具身化：西部的尽头不是终点而是盐——全书的水脉（河、泵、浴缸、海）在此咸收。"Later she'll learn" 的三次预告（人命、海底骨、地震）以编年史口吻插入抒情，提醒读者：她们以为逃到了"不属于任何人"的地，而地的账单也在等着。"hard, clear light" 是雾的对立面，也是终章真相的照明条件。
+
+**读者视角提示**：Later she’ll learn 的三连预告是叙述者在倒数：别把雾中轻快当结局的轻快——人命、海底骨与地震的账单，作者已提前塞进抒情里。
 
 ---
 
@@ -49,6 +53,8 @@ modified: "2026-09-23"
 
 **为什么这样写**："scared of wet" 五个字重写了 ch14 以来所有洗澡抗拒的伏笔——不是邋遢、不是苦修，是身体机密。Sam 那扇门的警告句式（you asked）是全书少见的 Sam 示弱：beseeching 而非 narrow-eyed，她比 Lucy 更怕门后那一眼被看见。
 
+**读者视角提示**：跨过这道门之后，读者认识的 Sam 会越来越少神秘、越来越多孩子气；请在本章稍后橱窗前回看这个 beseeching——示弱比坦白更罕见。
+
 ---
 
 > **原句 4:** "They look like drawings of princesses in storybooks, gilt-framed.…These dresses aren't made for walking or running or riding or even sitting or staying warm. Only for beauty.…None of the girls move. If not for the slight rise of their chests, they might be statues."
@@ -58,6 +64,8 @@ modified: "2026-09-23"
 **关键词**：gilt-framed、statues
 
 **为什么这样写**：排比否定（not for walking…even sitting…staying warm）把"服装=功能"的常识一层层剥掉，剥到只剩纯粹被看的用途——这正是 Ma"美即武器"论（ch28 埋发段）的暗面镜像：武器版的美能掐死人，橱窗版的美只是不动。七个国籍的装扮（印第安公主、墨西哥女郎、挤奶女……）把"种族风情"做成货架，与掘金队挖山同源：西部一切皆可陈列。
+
+**读者视角提示**：这排橱窗与同章后半段 Lucy 撕裙的行为构成问答：若你默认这些女孩不会动，作者正等着这一撕来打所有人的脸。
 
 ---
 
@@ -81,6 +89,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：胡萝卜—石头—? 是全书性别暗线最精炼的一件道具编年：童年的欲望证物被恐惧没收，如今"没收者"换成了收费的陌生人——但读者即将发现这只是一种误读。"What's replaced the rock now?" 的问法本身是陷阱：Lucy（和多数读者）默认答案是性，作者给的答案是温水。价格（近四分之一袋金）与"来路成谜的金"（ch28）互相引爆，把追问推上二楼。
 
+**读者视角提示**：读到章末“唯一的 service 是洗澡”揭晓时，请回看胡萝卜—石头—?这条道具链：本章把答案藏在误读里，盐的价格从来不是它的价值。
+
 ---
 
 > **原句 7:** "An ocean's memory seeped through them: salt water.…Each drawing is a word formed from straight lines and curved ones, dots and dashes. She stops at a drawing she recognizes. Ma's tiger.…She knows what value this woman sees in her—the same value Charles saw. Only Lucy's difference."
@@ -91,6 +101,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：蓝皮书是 Ma 文化的遗物级意象：Lucy 已不识汉字，只能把字认作"画"——血缘语言成了外语，"dots and dashes" 的孩童式解码比任何乡愁都冷。"Ma's tiger" 一词双关（虎字/虎的故事）。而 Elske 听一句 "Nu er" 时的迷醉，与 Anna 家客厅里、Charles 身上的目光同构：她们要的不是 Lucy，是"差异"这商品的稀缺性。Lucy 看破了：她不肯交出出身叙事（We were born here 被咽回），只甩出 Ma 当年喝止自怜的那句母语（ch12 "Nu er, I don't want to hear that self-pity"）——最真的话以"最无意义"的形式成交，被买走的永远只是口音。
 
+**读者视角提示**：蓝皮书的字被 Lucy 认作“画”——请留意 Elske 对这一“画”的渴求与出价；本书里语言的每一次交易，都在给“母语失传”记账。
+
 ---
 
 > **原句 8:** "The only service Samantha requests is a bath.…The truth she gives Lucy is like an emptied-out box—its contents were already in Lucy's possession. Sam doesn't hide. Sam's been Sam all along.…She never expected that ships would look this way: grand yet ordinary.…'What makes a ship a ship?' she asks. She shouts the answer, over and over…'Wood and water. Wood and water. Wood and water.'"
@@ -100,6 +112,8 @@ modified: "2026-09-23"
 **关键词**：emptied、grand
 
 **为什么这样写**：全书最大的悬念以"倒空的盒子"落地——秘密从未存在过，存在的只是不许看的规矩；"Sam's been Sam all along" 与 ch28 的 "I won't get mistaken again" 形成问答。而船的定义由 Lucy 自己喊出：她终于不再问别人（ch28 的 "What makes a home a home?"），而是把答案像铆钉一样钉进世界——木头与水，正是这片大陆给她的全部材料。
+
+**读者视角提示**：悬念软着陆不等于平安：章末雾散后的 hard, clear light 与下一章码头的枪声接轨——真相落地之后，节奏是加速，不是休止。
 
 ---
 
@@ -134,3 +148,4 @@ modified: "2026-09-23"
 ## 一句话总结
 
 西部的尽头是一团不反射的咸水：Lucy 在红宅里买到的真相是"Sam 一直是 Sam"，而她自己第一次不再等别人回答——船就是木头和水。
+

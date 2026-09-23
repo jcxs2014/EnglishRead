@@ -29,6 +29,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：船票的"金边"是全书最精致的一记反讽：通往"不再挖金之地"的凭证，恰恰以金描边；而成交的货币仍是马——ch29 偷来的那对 Sister 与 Brother，用"违规的财产"买"离开违规之地的资格"。船长的坐地起价（Seas change）顺手预告：这个世界的规则随时可以为她们收紧。
 
+**读者视角提示**：请数一遍船价被逐次加码的过程——金边字母与坐地起价都在预支章题：离开这个世界所需的每一样东西，都得用不干净的金与马来换。
+
 ---
 
 > **原句 2:** "Elske told true: this city sees only a person’s value.…What can she offer beyond coin? And she thinks: a story.…It makes me dizzy to see a real ship. I’ve wanted to ride one since I was a little girl.…learned at the door of a long-ago parlor from her very first teacher. Beauty is a weapon."
@@ -51,6 +53,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：Sam 的怒点极精准——Elske "charged extra" 说明洗澡按性服务行情标价，"干净的需求"在这个体系里没有定价权、只能被冒领。而 Lucy 隐瞒了 "Unless you’d like to. There’s extra payment" 的后半句，仍让 Sam 当场碎裂：五年里 Sam 就是被这句话从男孩养回女孩的。"voice so small" 是全书 Sam 最小的一次。
 
+**读者视角提示**：Lucy 隐去的那半句（There’s extra payment）要到终章红宅才由读者自行补完——这处信息差就是本章的悲剧机关：Sam 碎裂的不是嫉妒，是旧伤被标价声唤醒。
+
 ---
 
 > **原句 4:** "“We’ll wake up there and all this will have been a dream.”…“You mean it?” Sam says, voice still shrunken.…She heaves the bread into the ocean, where it splashes out farther than she thought possible.…it’s a fish that rises up to claim it, longer than Lucy is tall."
@@ -60,6 +64,8 @@ modified: "2026-09-23"
 **关键词**：heaves、shrunken
 
 **为什么这样写**：Lucy 咽下了一半——她本想逼妹妹"感激这半陈的面包"，却先一步把它扔了：对 Sam 的"如梦"承诺要用弃粮来盖章（此前她们被迫吞下一切）。海里的巨鱼是被山地与矿镇吐出来的姐妹头一回得到"反哺"：这片不要她们的海，随便就长出比人还长的活物。而"voice still shrunken"提醒读者：安慰落地之前，受害者总要先把音量交出来。
+
+**读者视角提示**：扔面包的手比承诺更诚实：谁先把粮弃进海里，谁就是不敢信“梦会成真”的人——请在此刻与她们一起重新掂量安慰的重量。
 
 ---
 
@@ -71,6 +77,8 @@ modified: "2026-09-23"
 
 **为什么这样写**：五连"weight"清单是全书的行李盘点——只剩 pennies 的赌徒们，行囊里全是不肯沉底的。Ba 的探测课被改写成赌桌内功：金与悲伤同密度，以"内在的重"召唤"外在的重"。"They swallowed sadness and they swallowed gold" 一句把矿难、饥荒、离散全部吞进两具少女的身体——章末那堆赢来的银元，原来是这么长的。
 
+**读者视角提示**：幽灵之夜列出的五样重量是全书行李盘点——请对照前文逐一销账：失踪的金、失落的五年、两枚银元、父亲的手、母亲的话，哪一件在这夜之后真正放下了？
+
 ---
 
 > **原句 6:** "This is what Lucy will remember on the worst of the days to come: that for one night, at least, they made the hills hold gold.…The burst shakes the world. A hole has opened in the dock. A ragged mouth of wood, hungry ocean churning beneath.…The sky has a different aspect. A hard, clear light.…Anna claimed otherwise—but there are things Anna’s kind are blind to."
@@ -80,6 +88,8 @@ modified: "2026-09-23"
 **关键词**：burnished、breach
 
 **为什么这样写**："made the hills hold gold" 一句完成对全书土地史的复仇——挖了一辈子金被金毁掉的一家，靠一轮闭眼牌局让金山倒吸回去；下一句就让枪口把这夜封进"worst of the days to come"的琥珀。ch30 预告的 hard, clear light 如约而至，照出的第一件事是那支被日光擦得锃亮（burnished by day）、反光刺痛的枪。顺带一句冷账：Anna 家的体面曾断言黑衣人是"跑腿伙计"——盲视者的说明书读者早就有了。
+
+**读者视角提示**：注意时态装置：will remember 与 worst of the days 把庆典与死亡通知钉在同一块木头上——本章上半夜的每一分亮，都是下半夜那一枪的照明费。
 
 ---
 
@@ -102,6 +112,8 @@ modified: "2026-09-23"
 **关键词**：bandana、proper
 
 **为什么这样写**：全书的澡堂悬案由一句 "She sees me. The proper way" 结清：Sam 要的不是遮掩的干净，是被当作完整的人来注视——"the proper way" 同时也是那枚沉入海底的虎的语法（正确的安葬）。Lucy 依次看见七岁、十一岁、十六岁的 Sam 发光，把"性别"读成一段编年史而非一个秘密。章末 "I’m the clever one" 是 Lucy 亲手把 Ma 在 ch20 赐给她的名号（"my smart one"）认领回来——说这话的人已经知道，聪明在这个码头上从来不在卖方手里。
+
+**读者视角提示**：the proper way 若让你想起全书开头，那不是错觉：给 Ba 合眼的银元与给幼年 Sam 洗浴的手，属于同一套“正确的照看”语法——第一册的礼仪债在本章结清。
 
 ---
 
@@ -136,3 +148,4 @@ modified: "2026-09-23"
 ## 一句话总结
 
 一夜之间，姐妹把山"探"回了金、又眼看金把人押走——最亮的赌局与最冷的枪响共用一块码头，而"被正确地看着"成了唯一没被没收的财产。
+
