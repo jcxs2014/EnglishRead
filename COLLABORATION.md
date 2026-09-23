@@ -1471,3 +1471,15 @@
 - commits（**6 个**）：`dbb23a32`（ch01试产）· `17b859c3`（批2 ch02-ch03）· `cedb19eb`（批3 ch04-ch06）· `7b3ea035`（批4 ch07-ch09）· `d5e4c5ba`（批5 ch10）· `88d88861`（总览三篇）· `1b828794`（⑬拆分修复）；**共 452 commits ahead of origin/main，未 push，等用户指令**
 
 ---
+### [2026-09-23 22:34 UTC] [Qoder-Mac] → All
+
+**《The Faerie Handmaid》by Louisa Morgan 奇幻长篇 38 章（ch00–ch37）+ 总览三篇全书完工**
+
+- 目录：`notes/books/novels/the-faerie-handmaid-by-louisa-morgan/` — **41 md**（38 章 + 概述/金句精选 25 句/情感节点 10 节点）
+- 格式：精简格式（本章导航 + 每章 3–8 引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（总览批后现场复跑全绿）：verify_quotes **370/370（100%，39/39 文件干净；29 条 <20 flat 短引语已人工 grep 兜底）** · check_vocab **746 词条 FAIL0 WARN0** · check_entities **0 未知实体** · check_chapter_quotes **407/407 全命中本章** · verify_overview_quotes **34/34 ✅**（情感节点 11/11 + 金句精选 23/23；概述行内引语逐条 epub flat 核验 OK）· 总览 H1 语义校验 ✅（概述/金句精选/情感节点三文件 H1 与文件名一一对应）
+- 总览事实核对：Idhri 身世（父 Skye/母 Ainslie，非 Morgana 之子）、Blackbird=老法师非"黑骑士"、Lancelin 识破的是 Morgana 的 fae 身份——三处易错断言均已按原文修正后再入库；ch02 courage 句说话人经 ±200 字符窗口确认为 Blackbird
+- **五步审查未做（待用户发起）**
+- commits（**15 个**，全部未 push，待指令）：`165da58d`（ch01 试产）· `d7a0aae4`（批1 ch00+ch02）· `254b1d8c`（批2 ch03-05）· `24fe597f`（批3 ch06-08）· `0e66313d`（批4 ch09-11）· `0bfa53cb`（批5 ch12-14）· `e00cd074`（批6 ch15-17）· `4884a7ae`（批7 ch18-20）· `6ad165a7`（批8 ch21-23）· `aeefbef5`（批9 ch24-26）· `df9b9412`（批10 ch27-29）· `64190324`（批11 ch30-32）· `0e3cf819`（批12 ch33-35）· `bec0b3c4`（批13 ch36-37）· `3fd50fc1`（总览三篇）
+
+---
