@@ -63,7 +63,7 @@ modified: "2026-09-23"
 
 **关键词**：Tech Hermit、predictable
 
-**为什么这样写**：Lorna 找到他的路径是全书最温柔也最残忍的设定：不是通讯录，是她在宿舍听来的**外号**——他把自己活成了一个绰号的兑现（隐士+技术+独来独往）。"I guess I’m pretty predictable" 是 Micah 式的自我认知：他不觉得自己可怜，只觉得自己可预测，仿佛人生是一份接口文档。而 "First I was going to phone you… but then I thought, as long I had to wait anyhow, why didn’t I just come in person?" 加一句 "you get straighter answers from people face-to-face"——Lorna 一句台词就把 Micah 整个通信文明的伪装（邮件、短信、电话转述）扒了：这二十年来所有人隔屏交流，只有她半夜摸黑坐在门廊上**当面要答案**，这也是 Brink 出逃后家庭信息链第一次真正闭合。
+**为什么这样写**：Lorna 找到他的路径是全书最温柔也最残忍的设定：不是通讯录，是她在宿舍听来的**外号**——他把自己活成了一个绰号的兑现（隐士+技术+独来独往）。"I guess I’m pretty predictable" 是 Micah 式的自我认知：他不觉得自己可怜，只觉得自己可预测，仿佛人生是一份接口文档。而 "First I was going to phone you… and then I thought, as long I had to wait anyhow, why didn’t I just come in person?" 加一句 "you get straighter answers from people face-to-face"——Lorna 一句台词就把 Micah 整个通信文明的伪装（邮件、短信、电话转述）扒了：这二十年来所有人隔屏交流，只有她半夜摸黑坐在门廊上**当面要答案**，这也是 Brink 出逃后家庭信息链第一次真正闭合。
 
 **读者视角提示**：外号在 ch02 已出现（Brink 顺着 "Micah Mortimer, Prop." 的旧照片找到他），本章补全它的性别史——同一个词从女孩们嘴里的调侃变成老情人嘴里的认亲暗号，读者可以据此校准：Micah 的"隐身"从来不如他自己以为的那样成功。
 

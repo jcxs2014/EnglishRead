@@ -11,7 +11,7 @@ modified: "2026-09-23"
 
 **情感弧线位置**：坠落段的见底章——ch05 的诊断（不给第二次机会）在本章兑现为一次真实的补救尝试与真实的失败；Micah 第一次主动伸手（打电话、送东西、当面 sorry），也被第一次当面关在门外。
 
-**Tropes 兑现/反转**：言情"送还旧物"桥段反写成**物流事故**——他带着全套道歉剧本上门，她一句"Was this the evening when you suggested I should go live in my car?"就让剧本当场作废；"热心女客户暗送秋波"的 Rosalie 线被 Micah 以 "Oh. Sure thing. See you around." 原地熄火，本书的桃花运全部走岔。
+**Tropes 兑现/反转**：言情"送还旧物"桥段反写成**物流事故**——他带着全套道歉剧本上门，她一句"Was this the evening when you suggested I should go live in my car?"就让剧本当场作废；"热心女客户暗送秋波"的 Rosalie 线被 Micah 一句 "Oh. Sure thing," he said. "See you around." 原地熄火，本书的桃花运全部走岔。
 
 **人物弧线**：Micah 本章完成三次"看见别人"（Yolanda 的 pre stage、Rosalie 的孤儿富婆处境、Cass 的 change the rules 自责），却在自己最需要被看见的楼梯口全盘失灵；结尾他第一次承认"now he wondered why he’d been so eager to get back home"——家从目的降格为地点。
 

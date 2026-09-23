@@ -7,7 +7,7 @@ modified: "2026-09-23"
 
 ## 本章导航
 
-**一句话概括**：周一清晨，那个开篇旁白之声回来了，用 "such a man" 的口径给 Micah 重新验尸——灰天、悲讯、借来的梦、刮不动的胡子、停在八月的挂历；Lorna 报平安的短信换来他脑内两句没发出去的辩词，他在堵车长队里对着电台吵架，忽然被那个被驱逐者的一句话点醒（"Try again…because what else can a person do?"），于是打了转向灯向东——开往 Cass 的小学：在操场被一件外套绊了个趔趄、面对 Miss Slade 交出全书最赤裸的供词（"I've done everything wrong… I'm a roomful of broken hearts"），而 Cass 第一次叫他 "honey"，挽着他往楼里走，两个人走得近到绊住彼此的脚——他的幸福从这一刻起步。全书在未完的句子里落幕。
+**一句话概括**：周一清晨，那个开篇旁白之声回来了，用 "such a man" 的口径给 Micah 重新验尸——灰天、悲讯、借来的梦、刮不动的胡子、停在八月的挂历；Lorna 报平安的短信换来他脑内两句没发出去的辩词，他在堵车长队里对着电台吵架，忽然被那个被驱逐者的一句话点醒（"Try again…because what else can a person do?"），于是打了转向灯向东——开往 Cass 的小学：在操场被一件外套绊了个趔趄、面对 Miss Slade 交出全书最赤裸的供词（"I've done everything wrong"，又把病历本念成谢幕词："I'm a roomful of broken hearts"），而 Cass 第一次叫他 "honey"，挽着他往楼里走，两个人走得近到绊住彼此的脚——他的幸福从这一刻起步。全书在未完的句子里落幕。
 
 **情感弧线位置**：回落段的起飞点——所有坠落（Cass、Brink、Lorna 判决）在电台与操场之间完成化学反应；"expecting things to be perfect" 一句把 ch07 的自行车尸检转成出院诊断，Micah 全书第一次 **主动行动**（不是反应、不是程序）。
 
@@ -75,7 +75,7 @@ modified: "2026-09-23"
 
 **关键词**：try again、what else can a person do、signaled for a turn、east
 
-**为什么这样写**：全书的枢纽藏在一档背景电台里：Micah 刚才还嫌弃 call-in show（"leave radio to the professionals"），转头却被一个他从不正眼听的陌生移民俘获——"Try again, try again, and try again after that" 正是 ch07 Lorna 判决书的民间版：**你给不给自己第二次机会，跟世界给不给你，原来是同一个问题**。而且这句话以一个被驱逐者的口吻到达——Micah 此刻的感情处境就是"被驱逐者"（被 Cass 拒于公寓门内），他说"人还能怎么办呢"的方式是**掉头再来**。随后 "He mentally writes another text" 完成关键升级：上一秒两句给 Lorna 的脑内短信还是控诉（"MY fault?"），这一秒成了认罪书——"The only place I went wrong was expecting things to be perfect" 一句同时回收 ch01 的 dominoes 二值世界观与 ch07 的自行车病理（追求完美所以得到即贬值）。而全书最被低估的标点在这里：**he heads east instead of continuing north**——Traffic God 全程满分驾驶的男人，第一次在绿灯路口改道；转向不打给 Lorna，不打给自己，他把车开向 Cass。
+**为什么这样写**：全书的枢纽藏在一档背景电台里：Micah 刚才还嫌弃 call-in show（"leave radio to the professionals"），转头却被一个他从不正眼听的陌生移民俘获——"Try again, try again, and try again after that" 正是 ch07 Lorna 判决书的民间版：**你给不给自己第二次机会，跟世界给不给你，原来是同一个问题**。而且这句话以一个被驱逐者的口吻到达——Micah 此刻的感情处境就是"被驱逐者"（被 Cass 拒于公寓门内），他说"人还能怎么办呢"的方式是**掉头再来**。随后 "He mentally writes another text" 完成关键升级：上一秒两句给 Lorna 的脑内短信还是控诉（"MY fault?"），这一秒成了认罪书——"The only place I went wrong, he writes, was expecting things to be perfect" 一句同时回收 ch01 的 dominoes 二值世界观与 ch07 的自行车病理（追求完美所以得到即贬值）。而全书最被低估的标点在这里：**he heads east instead of continuing north**——Traffic God 全程满分驾驶的男人，第一次在绿灯路口改道；转向不打给 Lorna，不打给自己，他把车开向 Cass。
 
 **读者视角提示**：注意 11:18 这个时刻——他不知道四年级此刻在做什么，"He’ll wait for lunchtime…because what else can a person do?" 把移民的金句就地复述了一遍：一次广播，两个人，一句台词两遍落地，这是 Anne Tyler 的复调签名。
 

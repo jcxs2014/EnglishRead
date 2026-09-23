@@ -75,7 +75,7 @@ modified: "2026-09-23"
 
 **关键词**：bonbons、knife-sharp、proper sequence
 
-**为什么这样写**：爷爷 Mortimer 的出场全部通过遗物级清单：糖果盒的袜子抽屉、刀锋折痕的报纸、按颜色再按字母排列的油漆瓶（"Bs I remember especially, because there were so many of them. Beige, black, blue, brown…"）。Liz 讲这些时的口吻是悼念混着惊惧，Micah 的反问才是全书人物的总自白："What's so strange about that? How else would you do it?"——秩序观的"不可想象其反面"被一句日常困惑暴露无遗。族谱由此接上：Grandpa 一生漆匠、Micah 一生"技术隐士"，两代人中间只隔了 "Micah never knew him, but he got his genes anyhow"——ch02 Brink 喊 "Genes do count for something" 被证伪，ch04 Liz 说 "It's genes" 却在 Micah 身上**应验**：血缘论证的镜像调包，作者不动声色。
+**为什么这样写**：爷爷 Mortimer 的出场全部通过遗物级清单：糖果盒的袜子抽屉、刀锋折痕的报纸、按颜色再按字母排列的油漆瓶（"Bs I remember especially, because there were so many of them. Beige, black, blue, brown…"）。Liz 讲这些时的口吻是悼念混着惊惧，Micah 的反问才是全书人物的总自白："What's so strange about that? How else would you do it?"——秩序观的"不可想象其反面"被一句日常困惑暴露无遗。族谱由此接上：Grandpa 一生漆匠、Micah 一生"技术隐士"，两代人中间只隔了 "Micah never knew him," Liz told Lily, "but he got his genes anyhow."——ch02 Brink 喊 "Genes do count for something" 被证伪，ch04 Liz 说 "It's genes" 却在 Micah 身上**应验**：血缘论证的镜像调包，作者不动声色。
 
 **读者视角提示**：For Rent 招牌的油漆联想别忘了——爷爷是 sign painter，Micah 车顶的 TECH HERMIT  magnetic 招牌就是他的传家宝。
 
@@ -155,7 +155,7 @@ modified: "2026-09-23"
 | ruckus | /ˈrʌkəs/ | 吵闹 | "it wouldn’t have been heard in all the ruckus" |
 | finicky | /ˈfɪniki/ | 挑剔的、讲究的 | "Uncle Micah’s kind of…finicky." |
 | dubious | /ˈdjuːbiəs/ | 将信将疑的 | "They studied him, all wearing the same dubious expression." |
-| vaguely | /ˈveɪɡli/ | 含糊其辞地 | "‘Yeah, yeah, I’ll think about it…,’ Micah said vaguely." |
+| vaguely | /ˈveɪɡli/ | 含糊其辞地 | "‘Yeah, yeah, I’ll think about it…’ Micah said vaguely." |
 | crusty | /ˈkrʌsti/ | 脾气暴躁的（老光棍） | "You don’t want to end up a crusty old bachelor!" |
 
 ---

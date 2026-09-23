@@ -99,7 +99,7 @@ modified: "2026-09-23"
 
 **关键词**：big-wheelish、envisioned、handouts、resemblance
 
-**为什么这样写**：Roger 入场自带 ch04 姐夫团的反讽配置（cardigan、sagging eyes、hands in pockets——比想象的软），但作者让他执行全章最硬的一击：把 Brink 的"trait 论"翻译成**劳动伦理的鉴定书**（self-sufficient / works very hard / no handouts）——每个词都在描述 Micah，每个词都在否定 Brink 现状，一句"我不认为你是我儿子那样的好人"压缩成 "I fail to see the resemblance"。Corporate lawyer 说话的确带合同味。Brink 的应对是全书最快的出走（"as if he'd planned it along"——他随时准备跑，这正说明这一周他每天都在被审判），而 Micah 注意到的小节——**Roger 是唯一关门的人**——是全书给"正确但冰冷"最精确的物证：这个人守规矩、道歉（"I apologize, Micah"）、致谢（"Thanks, Micah"），每个礼节都满分，每个礼节都隔着一层玻璃；claw machine 的反面教材在客厅里活着，还穿着开衫。
+**为什么这样写**：Roger 入场自带 ch04 姐夫团的反讽配置（cardigan、sagging eyes、hands in pockets——比想象的软），但作者让他执行全章最硬的一击：把 Brink 的"trait 论"翻译成**劳动伦理的鉴定书**（self-sufficient / works very hard / no handouts）——每个词都在描述 Micah，每个词都在否定 Brink 现状，一句"我不认为你是我儿子那样的好人"压缩成 "I fail to see the resemblance"。Corporate lawyer 说话的确带合同味。Brink 的应对是全书最快的出走（"as if he'd planned it all along"——他随时准备跑，这正说明这一周他每天都在被审判），而 Micah 注意到的小节——**Roger 是唯一关门的人**——是全书给"正确但冰冷"最精确的物证：这个人守规矩、道歉（"I apologize, Micah"）、致谢（"Thanks, Micah"），每个礼节都满分，每个礼节都隔着一层玻璃；claw machine 的反面教材在客厅里活着，还穿着开衫。
 
 **读者视角提示**：Lorna 那句 "Do you still have him?" 用的是看管人质/宠物的句式，前文 Brink 对 Micah 说的却是收留语——同一个人，在母子双方的语言里都不是主语；这一格语法缝隙，是全书写"被爱的方式"最狠的一处。
 
