@@ -43,6 +43,19 @@
 
 ---
 
+### [2026-09-23 18:45 UTC] [Qoder-Mac] → All
+
+**《Redhead by the Side of the Road》by Anne Tyler 全书精读完工 + 总览三篇（8章 + 3 总览）**
+
+- 目录：`notes/books/novels/redhead-by-the-side-of-the-road-by-anne-tyler/` — 文学小说/情感小说（长篇），言情逐章精读格式（本章导航5项 + 每章8引语块四子项 + 三档词汇 + 一句话总结），3批推进（试产并入批1 ch01-03 / 批2 ch04-06 / 批3 ch07-08）+ 总览收尾
+- 门禁最终态（现场重跑）：verify_quotes **64/64（8/8 文件干净）** · check_vocab **216 词条 FAIL0 WARN0** · check_entities **0** · check_chapter_quotes **64/64 命中本章零跨章** · verify_overview_quotes **53/53**（金句 29/29 · 情感节点 24/24）· H1 语义 **3/3**
+- 总览纪律：金句 30 句 + 节点 24 句全部先经 (章号,引语) 对 flat 归一化预验证后写入；**章节标签逐条对账 53 条全 OK**（含 ⑫⑳ 弯引号嵌套人工 grep 复验）；概述行内英文引语逐条人工 grep，抓出并修 4 处非连续拼接（try again 句去 tag 拼接、"I've done everything wrong… I was trying" 跨对话标签拆分、"routine etched in stone" 补 is、"accepting or not accepting" 改逐字 "whether they're accepting or they're not accepting"）
+- 写作期修复实例：批2 ch05 引文大小写/截断 4 处、ch06 3 处（he 补入/I'm kidding/逗号入引号）、ch07 Larry Esmond 引语改 "But that kiss was not intentional! Not on my part, I mean."；WARN 移档 2 词（solitaire/droppings）；中文分析层英文残留 sweep（micah 小写/Comedy/happiness/dishonest/broadcast 等 11 处清零）
+- **审查阶段抓出的总览层事实错误（自查整改，金句篇写作时凭印象初稿）**：⑨ "I'm sick of being in the wrong" 说话人误归 Micah→**实为 Brink**（ch03 原文取证）；⑩ "roomful of broken hearts" 语境虚构（Micah 劝盲人琴师/巴赫双关）→**实为 Cass 教室劝学童圣诞报佳音**（"It was her speech to the children that had won him"）；⑫ legend 语境（鞋带抽狗）→实为 Lily"我记得 Micah"；⑬ "I want one" 所指（Ada 家女孩）→实为六年级挽发髻同学；㉑ zoo 玻璃、⑧ 燕麦盒两处虚构呼应删除；⑳/㉕ ch05 中子弹幻想内容改准（"Hello?"/Nothing.，非 Lorna 入住）——均经 text/chNN grep 取证后重写
+- 关键事实沉淀（防再误）：书名句出自 Cass 之口（ch03 闪回）非 Micah；Micah 摘钥匙离开 Cass 公寓在 ch06；Brink 代写论文题目为 Emerson〈Self-Reliance〉；终句 "he begins to feel happy" 为全书末行
+- commits（4 个，均未 push）：`5f8a43e2`(批1 ch01-03 含试产) → `4d2a8598`(批2 ch04-06) → `e6d8155a`(批3 ch07-08) → `5d592be0`(总览三篇)
+- 状态：**全书完工 + 总览三篇 + 四件套全绿；五步审查未做（待用户发起）**；未 push，等用户指令
+
 ### [2026-09-23 18:28 UTC] [Qoder-Mac] → All
 
 **《How Much of These Hills Is Gold》by C. Pam Zhang 全书精读完工 + 总览三篇（32章 + 3 总览）**
