@@ -54,7 +54,15 @@
 - **审查阶段抓出的总览层事实错误（自查整改，金句篇写作时凭印象初稿）**：⑨ "I'm sick of being in the wrong" 说话人误归 Micah→**实为 Brink**（ch03 原文取证）；⑩ "roomful of broken hearts" 语境虚构（Micah 劝盲人琴师/巴赫双关）→**实为 Cass 教室劝学童圣诞报佳音**（"It was her speech to the children that had won him"）；⑫ legend 语境（鞋带抽狗）→实为 Lily"我记得 Micah"；⑬ "I want one" 所指（Ada 家女孩）→实为六年级挽发髻同学；㉑ zoo 玻璃、⑧ 燕麦盒两处虚构呼应删除；⑳/㉕ ch05 中子弹幻想内容改准（"Hello?"/Nothing.，非 Lorna 入住）——均经 text/chNN grep 取证后重写
 - 关键事实沉淀（防再误）：书名句出自 Cass 之口（ch03 闪回）非 Micah；Micah 摘钥匙离开 Cass 公寓在 ch06；Brink 代写论文题目为 Emerson〈Self-Reliance〉；终句 "he begins to feel happy" 为全书末行
 - commits（4 个，均未 push）：`5f8a43e2`(批1 ch01-03 含试产) → `4d2a8598`(批2 ch04-06) → `e6d8155a`(批3 ch07-08) → `5d592be0`(总览三篇)
-- 状态：**全书完工 + 总览三篇 + 四件套全绿；五步审查未做（待用户发起）**；未 push，等用户指令
+- **五步审查（2026-09-23 用户同会话发起，a–e 全执行，门禁现场重跑未采信旧数字）**：
+  - **a 五门禁重跑**：verify **64/64（8/8 干净）** · vocab **216 FAIL0 WARN0** · entities **0** · overview **53/53** · crossref 报警 0；整改后复跑同数字全绿
+  - **b 逐章归属**：check_chapter_quotes --book-dir **64/64 命中本章零跨章**
+  - **c 结构扫描**：8 文件圈码编号连续/四子项齐全/零孤儿块零重复块；总览 H1 语义 **3/3**
+  - **d 语义二审（破 52 字符指纹盲区）**：引语块全串 flat sweep（每章引语对**当章**+全书双查）**FAIL 0**；分析层行内英文引语 417 条整串 flat sweep→真缺陷 15 处全部整改：①crossref 错章 5（ch05 "sick of being in the wrong" ch02→**ch03**:341；ch04 "Genes do count" ch03→**ch02**:282；ch07 "expel" 误归 **ch04 Ada**→实为**本章 Micah** ch07:614；ch08 dominoes ch02→**ch01**（全书唯一命中）；ch08:102 引语错标 ch07→本章 ⑤）②跨标签/截短拼接 6（金句⑱+ch06nav "Sure thing. See you around." 补 he said 还原全句；"Micah never knew him…" 补 Liz told Lily；"The only place I went wrong…" ch08 两处+金句㉕ 补 ", he writes,"；ch07 squinty 补 behind the foundation plantings 全句）③引语笔误 3（ch07 "planned it ~~along~~→all along"；ch05 "but→and then I thought"；ch04 词汇例文逗号还原）④ch08:10 nav 供词拼接拆开逐字。假阳性 24 条（弯直引号嵌套/词形包裹）逐条 grep 排除
+  - **e 总览事实核对**：ch03 分手"你就是你"处决词取证逐字（"I know that you are you."/"the you that you are might not be the right you for me"）；**来电方向纠错**：ch03 分手电话实为 **Micah 主动致电**（ch03:445 "He pulled out his phone and tapped her number"），ch03 nav+情感节点③ 同改（ch01 "Cass 来电哭诉猫" 反证正确保留）；概述 "I'm a roomful of broken hearts" 疑似虚构→ch08:293 逐字翻案成立；金句 30/节点 24 说话人窗口复查无新错位
+  - **多实例并行事故沉淀**：审查期间他实例两次提交（`88d88861`/`e01f9ffe`）把工作树里我的未提交整改**回卷成旧版**——全部重新落盘并即刻 commit `7fa29e69`；15 项修复终态逐条 grep 复验全 OK。教训：整改完成→复验→**立即 commit**，别留过夜窗口
+  - **同会话局限（如实声明）**：a/b/c/e 机械口径均换路径复跑；d 行内 sweep 为全串终验独立口径，但对"写作期统一系统性误解"（如某章导航整体读错人物关系且全章同错）检出率低于异实例零上下文复核——如需排除可另指派他实例抽样
+- 状态：**全书完工 + 总览三篇 + 五步审查通过（15 处整改见上）；未 push，等用户指令**
 
 ### [2026-09-23 18:28 UTC] [Qoder-Mac] → All
 
