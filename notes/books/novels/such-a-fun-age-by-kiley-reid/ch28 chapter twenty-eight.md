@@ -25,7 +25,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：这个细节揭示了Emira的职业本能——她无法停止"照顾"别人。
 
-> **原句 2:** "You've been here for almost two years, yes?"
+> **原句 2:** "You've been here for almost two years, yes?" Paula confirmed. After Emira nodded, she added, "When are you planning on leaving?" … Emira squinted and asked, "Am I getting fired right now?"
 >
 > **中文理解**："你在这儿快两年了，对吗？"/"我现在被解雇了吗？"
 >
@@ -65,7 +65,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："Don't Answer"——Emira用这个名字来保护自己。这是她的防御机制。
 
-> **原句 6:** "Babe, gimme two seconds."
+> **原句 6:** "Babe, gimme two seconds," she said, touching Kelley's arm. "I'm gonna see if I can sign up to sell my shea butter here next week. Can you hold this real quick?"
 >
 > **中文理解**："宝贝，给我两秒。"/"我看看下周能不能在这摆摊卖shea butter。"
 >
@@ -95,7 +95,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："Mama"——Briar叫Mrs. Chamberlain"妈妈"。这是Emira的最后打击——她被取代了。
 
-> **原句 9:** "Excuse me, nice lady?"
+> **原句 9:** "Excuse me, nice lady?" she asked. "Can you please help me reach my pumpkin?"
 >
 > **中文理解**："打扰了，漂亮女士？"/"你能帮我够到我的南瓜吗？"
 >

@@ -35,7 +35,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：Tamra的"grad school"是她的解决方案——她认为教育能解决所有问题。但她不了解Emira的处境。
 
-> **原句 3:** "If you could wake up tomorrow,"
+> **原句 3:** "If you could wake up tomorrow," Tamra said, "and do anything you wanted, what would that something be?"
 >
 > **中文理解**："如果你明天醒来能做你想做的任何事，那会是什么？"
 >

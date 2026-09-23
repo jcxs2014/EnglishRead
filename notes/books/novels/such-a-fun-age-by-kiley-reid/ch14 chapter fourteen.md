@@ -45,7 +45,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：Emira的"long"回答是一种回避——她不愿深入讨论她的头发选择，因为这涉及种族和身份。
 
-> **原句 4:** Your boss was my high school girlfriend.
+> **原句 4:** The first message from Kelley said, Your boss was my high school girlfriend. The second said, The one who only flew first class. The third said, IDon'TWant TO BE HERE ANYMORE.
 >
 > **中文理解**："你老板是我高中女友。"/"就是那个只坐头等舱的。"/"我不想待在这里了。"
 >

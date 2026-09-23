@@ -45,7 +45,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："Claudette"——Alix的童年记忆。Claudette是Alix生命中第一个黑人女性形象，她对Emira的担忧源于此。
 
-> **原句 4:** "I'm furious."
+> **原句 4:** "I'm furious." … "I hate that I'm completely shocked," Alix said, "and that I'm not surprised."
 >
 > **中文理解**："我很愤怒。"/"我讨厌我完全震惊，也讨厌我不震惊。"
 >

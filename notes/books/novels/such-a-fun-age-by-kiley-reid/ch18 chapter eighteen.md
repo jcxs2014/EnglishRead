@@ -19,7 +19,7 @@ modified: "2026-09-23"
 >
 > **中文理解**：Emira用纸巾托住呕吐物，从Briar的下巴向上经过她的鼻子。
 >
-> **关键词**：cup the vomit, from Briar's chin upward, past her nose
+> **关键词**：cupped the vomit, from Briar's chin upward, past her nose
 >
 > **为什么这样写**：Emira的动作是精确的——她用纸巾托住呕吐物，而不是擦拭。这是保姆的技能：处理脏乱而不惊慌。
 >

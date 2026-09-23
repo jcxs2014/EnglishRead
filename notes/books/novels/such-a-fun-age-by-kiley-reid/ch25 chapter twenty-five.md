@@ -25,7 +25,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：这个问题的反复出现——Alix在每个关键时刻都问自己这个问题。但答案从来不清楚。
 
-> **原句 2:** "Everybody wins with this."
+> **原句 2:** "Everybody wins with this," Laney promised her. "Emira gets to clear her name. Peter's little mix-up will be smoothed over. And you'll get to come back into the spotlight a bit."
 >
 > **中文理解**："每个人都会赢。Emira可以洗清自己的名字。Peter的小误会会被平息。你也可以回到聚光灯下。"
 >

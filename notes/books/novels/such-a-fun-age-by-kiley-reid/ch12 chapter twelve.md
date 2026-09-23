@@ -35,7 +35,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：Emira准备了"code word"——她已经在心理上准备好了逃跑。这说明她预料到了某种冲突。
 
-> **原句 3:** "Jesus, Kelley. I don't know, she's white."
+> **原句 3:** "Is she European or something?" "I don't know, maybe?" "What do you mean maybe?" "Jesus, Kelley. I don't know, she's white."
 >
 > **中文理解**："她是欧洲人还是什么？"/"天啊，Kelley。我不知道，她是白人。"
 >

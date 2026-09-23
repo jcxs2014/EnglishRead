@@ -15,7 +15,7 @@ modified: "2026-09-23"
 
 ## 精读
 
-> **原句 1:** "We had a such a nice time at Thanksgiving, and we were so glad you guys came."
+> **原句 1:** "We had a such a nice time at Thanksgiving, and we were so glad you guys came. But . . . I'm sure it was a little odd for you as well."
 >
 > **中文理解**："我们感恩节过得很开心，我们很高兴你们能来。但是……我觉得这对你来说也有点奇怪。"
 >

@@ -19,7 +19,7 @@ modified: "2026-09-23"
 >
 > **中文理解**：她从不把Emira的手机从充电器上拿下来，也很少按任何按钮（消息和通知会自动亮起），但每周三次，她用中指滑动屏幕，一边听Emira在楼上做晚饭，一边告诉Briar"吹一下看看热不热"。
 >
-> **关键词**：never took off the charger, rarely pressed any buttons, three times a week, scrolled with her middle finger
+> **关键词**：took Emira's phone off the charger, rarely pressed any buttons, three times a week, scrolled with her middle finger
 >
 > **为什么这样写**：Alix的偷窥行为被描述得如此日常化——"three times a week"像做饭一样规律的频率。"middle finger"而不是"thumb"——中指滑动暗示这不是随意的浏览，而是故意的窥视。
 >

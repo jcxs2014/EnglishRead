@@ -19,7 +19,7 @@ modified: "2026-09-23"
 >
 > **中文理解**："一切都可以停一停，因为Rachel、Jodi和Tamra要来费城过感恩节。"
 >
-> **关键词**：everything could stop, Rachel Jodi Tamra, Thanksgiving
+> **关键词**：everything could stop, Rachel, Jodi, and Tamra, Thanksgiving
 >
 > **为什么这样写**：Alix的"一切都可以停一停"暴露了她的疲惫——她的生活被工作、育儿和社交填满。朋友们的到来是她唯一的喘息。
 >
@@ -45,7 +45,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："but you should really check"——Alix的建议是善意的，但她的动机不纯。这是全章最精妙的讽刺。
 
-> **原句 4:** "I know it's not your first choice."
+> **原句 4:** "I know it's not your first choice," she said, "but we would absolutely love if you spent Thanksgiving with us."
 >
 > **中文理解**："我知道这不是你的首选，但我们非常希望你能和我们一起过感恩节。"
 >

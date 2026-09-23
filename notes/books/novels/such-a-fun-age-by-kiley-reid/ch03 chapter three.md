@@ -55,7 +55,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**：注意"welcome break"——不是"找到了使命"，只是"暂时歇脚"。
 
-> **原句 5:** "This wouldn't have happened if you had a real fucking job, Emira told herself on the train ride home."
+> **原句 5:** This wouldn't have happened if you had a real fucking job, Emira told herself on the train ride home, her legs and arms crossed on top of each other. You wouldn't leave a party to babysit. You'd have your own health insurance.
 >
 > **中文理解**：要是有份真正fucking的工作，这就不会发生——Emira在火车上对自己说。
 >

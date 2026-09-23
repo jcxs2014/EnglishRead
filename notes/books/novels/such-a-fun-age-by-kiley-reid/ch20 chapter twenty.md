@@ -25,7 +25,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："something special"——这是Emira的主动选择。她不只是响应Alix的要求，而是主动创造。
 
-> **原句 2:** "Mira, I can't find me!"
+> **原句 2:** "Mira, I can't find me!" Emira held her closer and said, "I still see you."
 >
 > **中文理解**："Mira，我找不到我自己！"/"我还看得见你。"
 >

@@ -15,7 +15,7 @@ modified: "2026-09-23"
 
 ## 精读
 
-> **原句 1:** "Ohmygod, thank you, Z."
+> **原句 1:** "Ohmygod, thank you, Z." … "Ohmygod, this thing is so tired and done. It wasn't doing anything for our brand."
 >
 > **中文理解**："哦天哪，谢谢你，Z。"/"这个东西太旧了。对我们的品牌毫无帮助。"
 >
@@ -45,7 +45,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："interview on Monday"——Emira的未来在召唤。但这个未来会因为视频而消失吗？
 
-> **原句 4:** "Kelley, Mira is blowin' up my Insta right now."
+> **原句 4:** "Kelley, Mira is blowin' up my Insta right now." Josefa's phone was still in front of her face. "She just got one hundred and fifty likes in like two hours."
 >
 > **中文理解**："Kelley，Mira的Insta现在炸了。"/"她两小时就拿了150个赞。"
 >
@@ -105,15 +105,15 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："Of course I didn't make sure"——这是Emira的诚实。她没有确认，因为信任Kelley。这是她最大的错误。
 
-> **原句 10:** "Fuck you." / "Cool."
+> **原句 10:** "Cool, but you still wanted me to share it, right?"
 >
-> **中文理解**："去你妈的。"/"酷。"
+> **中文理解**："酷，但你还是想让我把它分享出去，对吧？"
 >
-> **关键词**：Fuck you, Cool
+> **关键词**：Cool, share it
 >
-> **为什么这样写**："Fuck you"是Emira对Kelley的愤怒——他泄露了视频。"Cool"是Emira对Alix的回应——她接受了现实。这是两个不同的"Cool"。
+> **为什么这样写**：这是 Emira 对 Kelley 说的——她用一句"Cool"接住他的辩解，再一句话戳穿：想要视频和分享视频是两件事，但源头都是他。紧接着她说 "You want me to be a completely different person"，把"你到底想让我变成谁"问出口，这是她对 Kelley 最锋利的一次反驳。
 >
-> **读者视角提示**："Cool"——Emira用"酷"来掩饰痛苦。这是一种防御机制，也是她最后的尊严。
+> **读者视角提示**："Cool"是反讽，不是接受。注意同章另一处 "She stuck out her lips and said, 'Cool.'" 也是对 Kelley 说的——同一个词，击中的是同一个盲区。
 
 ## 本章词汇
 

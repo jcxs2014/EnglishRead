@@ -45,7 +45,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："still gets the DVDs"——这是Alix对Emira的温柔评判。她不理解，但接纳。
 
-> **原句 4:** "Emira, this is my very bad way . . ."
+> **原句 4:** "Emira, this is my very bad way . . ." Alix started, "of asking you to do more hours with us."
 >
 > **中文理解**："Emira，这是我非常糟糕的方式，想让你多陪陪我们。"
 >

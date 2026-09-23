@@ -15,7 +15,7 @@ modified: "2026-09-23"
 
 ## 精读
 
-> **原句 1:** "I'm so sorry." / "You're fine, you're fine." Kelley touched her elbow and kissed the side of her face. "Is it weird if I say you smell like a bath?"
+> **原句 1:** "I'm so sorry." / "You're fine, you're fine." Kelley touched her elbow and kissed the side of her face. When he pulled back he smiled and said, "Is it weird if I say you smell like a bath?"
 >
 > **中文理解**："对不起。""没事的。"Kelley碰了碰她的胳膊肘，亲了亲她的脸。"你闻起来像泡澡一样，这很奇怪吗？"
 >
@@ -95,7 +95,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："she was in the grade above me"——Kelley注意到的不是Emira的人格，而是她的阶级位置。
 
-> **原句 9:** "Not really, no." Emira nodded and said, "Okay."
+> **原句 9:** "Do you want to call me an Uber?" she asked. Kelley set the empty bottle on the tile. "Not really, no." Emira nodded and said, "Okay."
 >
 > **中文理解**："你想叫个Uber吗？""不太想。"
 >

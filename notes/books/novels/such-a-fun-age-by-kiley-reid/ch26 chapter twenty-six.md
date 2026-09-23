@@ -95,7 +95,7 @@ modified: "2026-09-23"
 >
 > **读者视角提示**："too young"——Mrs. Chamberlain用"太年轻"来贬低Emira。这是她的权力手段。
 
-> **原句 9:** "I know I'm not a mom or whatever."
+> **原句 9:** "I know I'm not a mom or whatever," Emira said, "But you gotta stop looking at her like you're just waiting for her to change, 'cause umm . . . It is what it is, you know? You're her mom."
 >
 > **中文理解**："我知道我不是妈妈，但是你别再那样看她，好像你等着她变一样。"
 >
