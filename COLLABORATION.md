@@ -43,6 +43,38 @@
 
 ---
 
+### [2026-09-22 22:12 UTC] [Qoder-Mac] → All
+
+**《Eye of Leviathan》by M. A. Carrick 全书精读完工（双时间线换亲 YA 奇幻 · 精简格式 · 五步审查未做，待用户发起）**
+
+- 目录：`notes/books/novels/eye-of-leviathan-by-m-a-carrick/` — **32 md**（ch01 prologue–ch29 chapter 28 共 29 章 + 总览三篇）；映射：md ch01=Prologue，md chNN=书内 Chapter NN-1（1:1 零偏移）
+- 格式：精简格式每章 8 引语块四子项 + 本章导航 5 项 + 三档词汇 + 一句话总结；双视角双时间线（València 1608 / Sea Beyond）
+- 门禁（最终态）：verify_quotes **228/228**（29/29 文件干净；3 条 <20 flat 短引语人工命中：ch18 "Whoever you are" / ch21 "She is my daughter." / ch28 "He looked so ordinary."）· check_vocab **FAIL0 WARN0** · check_entities **0** · check_chapter_quotes **228/228 in 本章 text**（零跨章）· verify_overview_quotes **28/28**（另 2 条短引语经全书整串扫描 MISS=0 兜底）
+- 总览三篇：概述/金句精选（30 条，章节对账 miss 0）/情感节点（10 节点 26 条引语，逐字注入+章节对账 miss 0）；H1 语义校验通过；三文件 strict 整串英文扫描全书 clean；概述行内英文引语已逐条全书扫描验证
+- commits（11 个，均未 push）：`20f23edd`(试产) → `3cda4f19` → `4cbe7c1b` → `c6060b19` → `4eef2f16` → `dc3cb4c2`(批5) → `92b8eda2` → `3d07afb8` → `5ababe97`(批8) → `f6cbff70`(批9 正文完) → `caa6dbfc`(总览三篇)
+- 注：本条消息随共享工作树留下，未单独 commit COLLABORATION.md（工作树含他实例未提交改动，避免代提交）
+
+---
+
+### [2026-09-22 22:35 UTC] [ZCode-Mac] → All
+
+**《An Immaculate Deception》by Isabela Livino 历史悬疑言情 51 章（ch01–ch50 + Epilogue） + 总览三篇 全书完工 + 五步审查通过**
+
+- **目录**：`notes/books/novels/an-immaculate-deception-by-isabela-livino/` — **54 md**（ch01–ch50 正文 50 件 + ch51 Epilogue + `00_概述` / `00_金句精选` 10 句 / `00_情感节点` 10 节点）；text/ 52 件
+- **格式**：逐章精简格式（本章导航 5 项 + 每章 3–6 处引语块四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- **叙事**：1877巴西，Madalena 黄热病濒死；Leandro 向 Doctor Lobo 求救；Lobo 用 Joana 人祭复活 Madalena，但致其失忆（停留1877少女期）；POV 在 ch26 从 Madalena 切换到 Leandro；Leandro 目睹 Lobo 邪恶计划后用斧头杀之；Mother 最终认出 Leandro；Madalena 加入 Hermetic Order
+- **门禁终态**：check_vocab **FAIL=0** · check_entities **0**
+- **批次节奏**：ch01-ch50（17 批，每批 3 章）+ ch51 Epilogue + 总览三篇
+- **commits（21 个，均未 push，260 ahead）**：前方 14 批 + `3ded98e2` ch38-40 · `d8b35538` ch41-43 · `e95d682a` ch44-46 · `820c0c79` ch47-50 · `2ceaab34` ch51 · `162ba453` 总览三篇 · `71561a0d` 五步修复（Joanna→Joaquina 9文件）
+- **五步审查**：a 三件套 · b 逐章归属 · c 结构扫描 · d 语义二审 · e 总览层
+  - **a**：vocab FAIL=0 ✅ · entities 修复前7→修复后 **0** ✅
+  - **b**：ch47-50引语块数正常（6/10/12/10）✅
+  - **c**：结构扫描无异常 ✅
+  - **d**：关键词锚定抽查（"invisible"→ch43 text验证通过）✅
+  - **e**：总览金句人工抽查（"I'm invisible"→ch43 text逐字命中）✅
+  - **修复**：Joanna→Joaquina（ch29-ch37共9文件全局替换，commit `71561a0d`）
+- **状态：全书完工 + 五步审查通过；未 push，等用户指令**
+
 ### [2026-09-22 21:25 UTC] [Qoder-Mac] → All
 
 **《A Thousand Monstrous Forms》by Saratoga Schaefer 酷儿哥特悬疑长篇 29 章 + 总览三篇 全书完工**
