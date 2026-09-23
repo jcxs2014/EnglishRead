@@ -90,13 +90,18 @@
 
 ### [2026-09-22 22:12 UTC] [Qoder-Mac] → All
 
-**《Eye of Leviathan》by M. A. Carrick 全书精读完工（双时间线换亲 YA 奇幻 · 精简格式 · 五步审查未做，待用户发起）**
+**《Eye of Leviathan》by M. A. Carrick 全书精读完工（双时间线换亲 YA 奇幻 · 精简格式 · ✅ 五步审查已通过，见本条末段）**
 
 - 目录：`notes/books/novels/eye-of-leviathan-by-m-a-carrick/` — **32 md**（ch01 prologue–ch29 chapter 28 共 29 章 + 总览三篇）；映射：md ch01=Prologue，md chNN=书内 Chapter NN-1（1:1 零偏移）
 - 格式：精简格式每章 8 引语块四子项 + 本章导航 5 项 + 三档词汇 + 一句话总结；双视角双时间线（València 1608 / Sea Beyond）
 - 门禁（最终态）：verify_quotes **228/228**（29/29 文件干净；3 条 <20 flat 短引语人工命中：ch18 "Whoever you are" / ch21 "She is my daughter." / ch28 "He looked so ordinary."）· check_vocab **FAIL0 WARN0** · check_entities **0** · check_chapter_quotes **228/228 in 本章 text**（零跨章）· verify_overview_quotes **28/28**（另 2 条短引语经全书整串扫描 MISS=0 兜底）
 - 总览三篇：概述/金句精选（30 条，章节对账 miss 0）/情感节点（10 节点 26 条引语，逐字注入+章节对账 miss 0）；H1 语义校验通过；三文件 strict 整串英文扫描全书 clean；概述行内英文引语已逐条全书扫描验证
 - commits（11 个，均未 push）：`20f23edd`(试产) → `3cda4f19` → `4cbe7c1b` → `c6060b19` → `4eef2f16` → `dc3cb4c2`(批5) → `92b8eda2` → `3d07afb8` → `5ababe97`(批8) → `f6cbff70`(批9 正文完) → `caa6dbfc`(总览三篇)
+- **五步审查（2026-09-23 用户同会话发起，已完整执行 a–e）**：a 门禁现场重跑全绿 · b 逐章归属 228/228 零跨章 · c 结构/H1/三方映射零异常 · d 语义二审（引语↔分析↔关键词逐对核对 + 全书严扫描，整改 42+16 处，含 ch14 原句⑦⑧顺序对调后分析同步） · e 总览层事实核对（本节窗口，整改 20 处）
+- **e 步抓出的主要事实缺陷（均已修）**：① 换子机制写反——实为 dryfoot 精灵 Castaña 自请顶替女婴、以"儿子"Estevan 入人类之家，女婴被带去彼界（铁证 ch01 "I could be your son." / "Not steal. Trade. Your daughter will be raised by my folk."）；② 真女王身份混淆——"凯旋歌后 Lady of Victorious Chorus"是被囚的真女王称号，Steamed Pudding 是替她受难的仆从（ch27 "Pay Swansdown no heed… protect their true queen."），空的是女王囚室非替身囚室；③ Alejandro 误写"侯爵独子"——实为商户 de Moya 家之子、后为 Dénia 侯爵幕僚书记；④ 金句㉒说话人场景误归（实为 Diego 在 San Telmo 教堂认领修院养大的女儿 María Ángela）、㉕场景误挂 al-Hurra；⑤ 情感节点九"海峡对岸"应为西班牙东岸（ch27 "The eastern shore of the Spains."）、节点八"猎人"无文本依据；⑥ 概述"神谜"错字、Estevan 弧"当众受审母亲"方向写反
+- **整改后门禁复跑（现场）**：verify_quotes 228/228 · check_vocab FAIL0 WARN0 · check_entities 0 · check_chapter_quotes 228/228 · check_crossref 报警 0 · verify_overview_quotes 金句 28/28（概述/节点行内英文另经全书严扫描） · 全书英文串严扫描零残留 · 总览三篇 H1 语义校验 3/3
+- **整改 commit**：`f95bf2c0`（31 文件 118 行替换；本书累计 12 commits，均未 push，等用户指令）
+- ⚠️ **同会话审查局限（如实声明）**：a/b/c 为机械口径跨路径现场复跑，不受写作上下文影响；d 步引语↔分析逐对核对与 e 步总览事实核对均改用与写作时不同的检查路径（窗口 grep/严扫描/说话人标签级取证），但审查方与写作方同会话共享同一心智模型，对"全书统一系统性误判"检出率仍低于异实例复核——如需排除该盲区可另指派异实例抽样复核（非强制）。
 - 注：本条消息随共享工作树留下，未单独 commit COLLABORATION.md（工作树含他实例未提交改动，避免代提交）
 
 ---
