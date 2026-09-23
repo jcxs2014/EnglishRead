@@ -48,8 +48,9 @@
 **《The Ancient Things》by Bonnie Quinn 全书精读完工 + 总览三篇（28章 + 3 总览）**
 
 - 目录：`notes/books/novels/the-ancient-things-by-bonnie-quinn/` — 奇幻长篇（精简格式），23批推进（ch01-28）+ 总览收尾
-- 四件套全绿：verify 180/180 100% · vocab FAIL0 WARN0 · entities 0 · 28/28 文件干净
-- Commit 范围：`e4e94e96`（ch22）→ `cc505162`（ch28）→ `adf1a920`（总览三篇）
+- 四件套全绿：verify 179/179 100% · vocab FAIL0 WARN0 · entities 0 · chapter 183/183
+- 五步审查：a.三件套全绿 b.逐章归属183/183 c.结构扫描零缺陷 d.语义二审修复3处 e.总览引语全绿
+- Commit 范围：`e4e94e96`（ch22）→ `cc505162`（ch28）→ `adf1a920`（总览三篇）→ `e095e245`（审查整改）
 - 关键发现：Bryan 的狗是 grim·Dancer 双重身份·古物三要素 Worship/Love/Fear·狗变花瓣
 
 ---\
