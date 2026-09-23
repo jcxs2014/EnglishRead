@@ -114,3 +114,38 @@ modified: "2026-09-23"
 > **为什么这样写**："Fuck you"是Emira对Kelley的愤怒——他泄露了视频。"Cool"是Emira对Alix的回应——她接受了现实。这是两个不同的"Cool"。
 >
 > **读者视角提示**："Cool"——Emira用"酷"来掩饰痛苦。这是一种防御机制，也是她最后的尊严。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| matte-finished | 哑光处理的 | "Zara applied the new, matte-finished gold casing onto Emira's phone." |
+| administrative | 行政的，事务性的 | "she Googled childcare and administrative positions, sent out six résumés" |
+| simultaneously | 同时地 | "put her in this bathroom and on the screen simultaneously." |
+| anticlimactic | 虎头蛇尾的，平淡的 | "she filmed an anticlimactic bottle popping from a bored bartender" |
+| aggressively | 强势地，用力地 | "the drinks and the night were aggressively sweet." |
+| hemorrhaging | 泛滥蔓延（喻） | "the enraged woman in the video that was currently hemorrhaging across the Internet." |
+| interviewing | 面试 | "You're interviewing somewhere else?" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| bathroom | 洗手间 | "Emira allowed Josefa and Zara to pull and push her toward the bathroom." |
+| appeared | 似乎，显得 | "Josefa appeared ready to confess" |
+| snatched | 一把抓过 | "Emira snatched Josefa's phone and her mouth dropped" |
+| birthday | 生日 | "But Mira, it's your birthday!" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| phone | 手机 | "Zara applied the new, matte-finished gold casing onto Emira's phone." |
+| video | 视频 | "Emira knew what video Zara was referring to" |
+| shots | 小杯烈酒 | "ordered four tequila shots." |
+
+## 一句话总结
+
+Emira 生日当晚，Zara 发现那段视频已经在网上流传——标题写着"Philadelphia Babysitter Accused of Kidnapping"。Alix 把它变成了自己的反种族主义素材，而三个女孩只能靠生日派对消化这件事（"the drinks and the night were aggressively sweet"）。Emira 全程没有愤怒，只有一种被反复使用的疲惫；她真正想弄清楚的是 Kelley 有没有把视频传出去。章末她把 Kelley 的备注名改成"Don't Answer"，两个未接来电安静地躺在那里。

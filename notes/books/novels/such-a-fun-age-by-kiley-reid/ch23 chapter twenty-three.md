@@ -74,3 +74,38 @@ modified: "2026-09-23"
 > **为什么这样写**：Alix的"having such a time"是对Emira处境的共情。但"laying all this stuff on you"是Alix的愧疚——她觉得自己在利用Emira的困境。
 >
 > **读者视角提示**："I'm so sorry"——Alix为自己的"提案"道歉。但Emira哭着说"yes"。这是Emira的选择。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| child-friendly | 适合孩子的，儿童宜看的 | "said plenty of things in front of them that are not child-friendly" |
+| champagne-pink | 香槟粉的 | "Alix saw champagne-pink terry-cloth sweatpants come down the stairs first" |
+| unsuccessfully | 不成功地，徒劳地 | "Briar was unsuccessfully trying to buckle her helmet" |
+| antibacterial | 抗菌的 | "She took out antibacterial gel and rubbed Briar's hands" |
+| uncomfortable | 不舒服的，令人难受的 | "In the most uncomfortable and cheap-looking chair Alix had ever seen" |
+| cheap-looking | 看起来很廉价的 | "In the most uncomfortable and cheap-looking chair Alix had ever seen" |
+| facilitating | 主持，开设（课程） | "I'll be facilitating a class at the New School for the upcoming semester." |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| together | 一起，聚拢 | "Her hair had been pulled up into a black silk wrap that came up together in a bun" |
+| grateful | 感激的 | "Alix was grateful that Briar raced to it" |
+| honestly | 老实说，真的 | "that was honestly the only time." |
+| strapped | 被绑缚的 | "With Catherine strapped to her front" |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| couch | 沙发 | "both a lumpy futon couch and this lovely aquarium could exist" |
+| cried | 哭了 | "Emira put her hands to her face and cried." |
+| chair | 椅子 | "In the most uncomfortable and cheap-looking chair Alix had ever seen" |
+
+## 一句话总结
+
+Alix 骑着滑板车去 Emira 的公寓送"礼物"——她自己都得"struggled to find a walking speed"才能在路上显得自然。她带来的方案是每周三十八小时、涨薪、以及一份"在 New School 开班"的远景，本质是把 Emira 更牢地绑在自己的生活里。Emira 坐在"the most uncomfortable and cheap-looking chair"上哭了出来，Alix 把这理解为感动。章末她向 Tamra 求证："I did the right thing, right?" Tamra 答得干脆："One hundred percent. This is probably the best thing to ever happen to Emira."——这是全书最恐怖的一句安慰。

@@ -104,3 +104,37 @@ modified: "2026-09-23"
 > **为什么这样写**：Emira的"I'm still gonna do it"是她的最终决定——尽管Mrs. Chamberlain讽刺了她，她仍然要去采访。这是她的坚持。
 >
 > **读者视角提示**："still"——Emira用"仍然"来表达决心。这是不受他人影响的选择。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| professionalism | 职业素养，专业态度 | "her words did not match the professionalism of the situation" |
+| midconversation | 谈话中途 | "a simple word she'd somehow forgotten midconversation." |
+| embarrassment | 尴尬，窘迫 | "she pushed past her novice and embarrassment and threw out the number." |
+| implications | 含义，潜在影响 | "The implications of Zara's allegation took their time to be hardened in her mind" |
+| dramatically | 夸张地，戏剧性地 | "Zara dramatically brought her body back to center." |
+| specifically | 特意地，专门地 | "Emira was constantly pointing out the instability of her current situation, specifically" |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| conversation | 谈话，对话 | "another conversation in which she had to examine who loved her least" |
+| understanding | 理解力，了解 | "But your understanding of technology is truly problematic." |
+| benefits | 福利，保险待遇 | "I have benefits now?" |
+| shifts | 轮班 | "she'd be working twenty-four-hour shifts." |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| dress | 连衣裙 | "she reached into the neck of her dress" |
+| smile | 笑容 | "Emira broke a smile." |
+| scene | 场面，闹剧 | "I want you to make a scene." |
+
+## 一句话总结
+
+Emira 决定辞职，但她要的不是体面退出——她和 Zara 在楼下排练"make a scene"：她要当面把视频、薪水、"I'm a nanny"那句没有兑现的家人身份全部摊开，Zara 负责闹起来。这一章最锋利的地方在于她的计算是清醒的：她算过租金、算过时薪、也算过"who loved her least"。而在镜子前整理衣服时她突然笑了——"I have benefits now?"——紧接着意识到"there would be a day, probably quite soon, when Briar would no longer remember her."全书所有的选择最后都收在这句上：她要的从来不是钱，是不必再装作不知道。
