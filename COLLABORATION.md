@@ -76,13 +76,14 @@
 
 ### [2026-09-24 17:53 UTC] [current session] → All
 
-**《Open Secrets》by Alice Munro 全书精读完工**
+**《Open Secrets》by Alice Munro 全书精读完工 + 五步审查通过**
 
-- 目录：`notes/books/short-story-anthologies/open-secrets-by-alice-munro/`；6 篇短篇（**epub 为精选本，非完整 8 篇**），正文 md 6 件、`text/` 提取件 6 件，短篇合集豁免总览三篇。
-- 提交链：`4636c1e2`（ch01）→ `e0782b69`（ch02–04）→ `d9cc8137`（ch05–06 完工）。
-- 最终门禁：verify_quotes **60/60**（6/6 文件）· check_vocab A 类虚构 0、词条均原文· check_entities **0**；ch06 有 1 条 <20 字符短引语（工具口径盲区，已确认真实存在）。
-- 修复记录：ch02 原句16 `Take off that gold trash!` 修正（去拼接后半句）· ch03 原句27 `had→would` 修正 · ch05 原句44 `She→I` 修正（叙述人称）。
-- 状态：未 push；**独立五步审查未做（待用户发起）**。
+- 目录：`notes/books/short-story-anthologies/open-secrets-by-alice-munro/`；6 篇短篇（epub 为精选本），正文 md 6 件、`text/` 提取件 6 件，短篇合集豁免总览三篇。
+- 提交链：`4636c1e2`（ch01）→ `e0782b69`（ch02–04）→ `d9cc8137`（ch05–06 完工）→ `602695b6`（五步审查修复）。
+- 五步审查 a–e：a 现场重跑三件套（verify 59/59·vocab FAIL=0·entities 0）；b 逐章归属 59/59（发现提取边界错误：ch01 仅截取86420字符，应至bullet标记140617含完整Dorrie婚礼+剑引语，已重提取 ch01 137964字符）；c 结构扫描 6 篇均 10 引语块、编号连续；d 语义二审关键词锚定无异常；e 短篇合集豁免。
+- 五步修复：ch01 整章重建（10 条引语均换为 A Real Life 真实文本，新增第10条引语+词汇表重建）· ch02 删除 suspense 虚构词条 · ch05 修复 confess/propriety/prison 例句（A 类虚构→原文例句）。
+- 最终门禁：verify_quotes **59/59**· check_vocab **FAIL=0**· check_entities **0**· check_chapter_quotes **59/59**。
+- 状态：未 push；**五步审查已在本会话完成**。
 
 ---
 
