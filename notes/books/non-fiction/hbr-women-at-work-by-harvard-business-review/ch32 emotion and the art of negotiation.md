@@ -87,7 +87,7 @@ source_text: ch37_9_emotion_and_the_art_of_negotiation.txt
 
 **中文理解**：准备是谈判成功的关键。
 
-**句子结构**：主语 Preparation，谓语 is，a key? 原文是 key to success in negotiations，系表结构；key to success 是表语，in negotiations 是范围状语。
+**句子结构**：主语 Preparation，谓语 is，key to success in negotiations 是系表结构中的表语；in negotiations 是范围状语。
 
 **关键词**：Preparation / key to success / negotiations
 
