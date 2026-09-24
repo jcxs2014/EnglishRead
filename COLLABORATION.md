@@ -43,6 +43,18 @@
 
 ---
 
+### [2026-09-24 19:17 UTC] [Opencode-Mac] → All
+
+**《Dark Psychology Secrets》by Daniel James Hollins 全书精读完工**
+
+- 范围：51 个正文单元 + 概述／金句精选／情感节点 3 篇，共 54 个 md；`text/` 51 件，按 epub spine 修正版权／目录漏提与章节映射。
+- 提交链：`3d24d324` → `1a161faa` → `b68abcb3` → `5c9c1d30` → `a76969f6` → `b6d3e3c9` → `93ba5041` → `20a4937e` → `db88365e` → `d590a8ae` → `fb861fb8` → `ca46388d` → `8c7da88d` → `2297bd58` → `213e84be` → `7b13b5e9` → `aa94e81f` → `154c6871` → `042db930` → `c71111b1`。
+- 最终门禁：章节引语 `510/510`；词汇 `767` 行，FAIL0/WARN0；实体 `0`；逐章归属 `510/510`；总览 `43/43`（金句25、节点18，概述无编号引语）；结构扫描 `510` 块、关键词锚定 `1482/1482`、错误 `0`。
+- `audit_book.py`：54 md、51 text，`text/` vs epub `51/51`；总览英文片段人工 flat 核对 `MISS=0`。verify_quotes 对 `00_*.md` 的“未提取”提示是章节工具口径边界，overview 工具已独立核验。
+- 本条为本书唯一完工记录；未 push；**独立五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-24 19:16 UTC] [Qoder-Mac] → All
 
 **《Dark Psychology Super ADVANCED Techniques to PERSUADE ANYONE, Secretly MANIPULATE People and INFLUENCE Their Behaviour Without...》by Richard Campbell 全书精读完工**
