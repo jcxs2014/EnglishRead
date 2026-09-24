@@ -167,7 +167,6 @@ source_text: ch41
 | bagel | 贝果 | like coffee or a bagel. |
 | venues | 场所 | it's best not to attend dangerous venues. |
 | console | 游戏机；控制台 | sell your TV set, video console |
-| recluse | 隐士；与世隔绝者 | lose friends and live the life of a social recluse. |
 | handcuffs | 手铐 | Don't let your habits become handcuffs. |
 
 ### ⭐ 基础

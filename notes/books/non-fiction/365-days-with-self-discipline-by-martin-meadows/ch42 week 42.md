@@ -181,6 +181,7 @@ source_text: ch42
 | wannabe | 东施效颦者； aspiring 者 | don't be like those wannabe climbers. |
 | grieve | 悲伤；哀悼 | Do not grieve. Anything you lose comes round in another form. |
 | redirect | 转向；重新导向 | cut it short and redirect your attention |
+| recluse | 隐士；与世隔绝者 | lose friends and live the life of a social recluse. |
 
 ### ⭐ 基础
 
