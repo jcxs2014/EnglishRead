@@ -34,13 +34,13 @@ modified: "2026-09-24"
 - **中文理解**：真正困扰他的，是自己灵魂的活死。
 - **关键词**：living death, own soul, troubled（活死、自己的灵魂、困扰）
 - **为什么这样写**：living death 把静态的死亡加上持续性，说明他肉体青春而灵魂已死；own 又把外部审判收回到自我内部。
-- **读者视角提示**：这句话终于准确描述肖像机制，却也显示他已把 Basil 和 Henry 的死从意识中清空，只剩自己的损失。
+- **读者视角提示**：这句话终于准确描述肖像机制，却也显示他已把 Basil 的死亡、Alan Campbell 的死和其他人的伤害从意识中清空，只剩自己的损失；他的“自我惩罚”仍回避了公共责任。
 
-> **原句 4:** "He would be good."
+> **原句 4:** "A new life! That was what he wanted. That was what he was waiting for. Surely he had begun it already. He had spared one innocent thing, at any rate. He would never again tempt innocence. He would be good."
 
-- **中文理解**：他会变好。
-- **关键词**：would be good（会变好）
-- **为什么这样写**：时态从短暂判断滑入未来承诺，又因没有行动对象而显得抽象；Dorian 把自己想象为正在发生的故事，而不是每天需要重新选择的现实。
+- **中文理解**：Dorian 告诉自己，他想开始一种新生活，并且相信自己已经开始了；放过一个无辜的人就足以证明他会变好。
+- **关键词**：new life, waiting, spared one innocent thing, tempt innocence, be good（新生活、等待、放过一个无辜者、引诱无辜、变好）
+- **为什么这样写**：段落把愿望、等待和自我证明连续压缩在一起；`Surely he had begun it already` 把尚未发生的变化提前说成事实，末句的承诺因此像自我戏剧而不是行动计划。
 - **读者视角提示**：这不是赎罪计划，而是“更好”自我形象的总标题；他没有说明将停止什么、承担什么，因此它无法抵抗下一张脸带来的刺激。
 
 > **原句 5:** "The thing was still loathsome—more loathsome, if possible, than before."

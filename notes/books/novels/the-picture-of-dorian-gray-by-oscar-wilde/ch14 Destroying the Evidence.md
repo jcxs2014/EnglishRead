@@ -40,7 +40,7 @@ modified: "2026-09-24"
 
 - **中文理解**：万一 Alan Campbell 出了英国呢？要过许多天他才能回来。
 - **关键词**：what if, out of England, elapse（万一、在英国境外、过去）
-- **为什么这样写**：三个短问句把抽象焦虑切成具体时间障碍；未发生的不确定性比确定事实更折磨他。
+- **为什么这样写**：两个短句把抽象焦虑切成具体时间障碍，其中一个以疑问句开头；未发生的不确定性比确定事实更折磨他。
 - **读者视角提示**：他第一次清楚意识到，毁尸计划不仅危险，而且依赖另一个人的及时到场；权力开始受制于他人。
 
 > **原句 5:** "You are the one man who is able to save me. I am forced to bring you into the matter. I have no option."
@@ -64,7 +64,7 @@ modified: "2026-09-24"
 - **为什么这样写**：Campbell 用死亡隐喻切断旧日交情，回应 Dorian 对往事的召唤；短促否定句把多年亲密压缩成不可进入的禁区。
 - **读者视角提示**：但过去仍能以威胁信的形式回来，证明关系并未真正死亡，只是被 Dorian 改造成债务。
 
-> **原句 8:** "I have done what you asked me to do," he muttered "And now, good-bye. Let us never see each other again."
+> **原句 8:** "I have done what you asked me to do," he muttered, "And now, good-bye. Let us never see each other again."
 
 - **中文理解**：我已经照你的要求做完了；现在再见，我们永远别再见面。
 - **关键词**：done what, good-bye, never see each other again（照要求做完、再见、永不再见）

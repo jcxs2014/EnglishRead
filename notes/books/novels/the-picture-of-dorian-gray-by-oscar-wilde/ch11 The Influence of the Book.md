@@ -38,9 +38,9 @@ modified: "2026-09-24"
 
 > **原句 4:** "The more he knew, the more he desired to know. He had mad hungers that grew more ravenous as he fed them."
 
-- **中文理解**：他知道的越多，想要知道的就越少；他有疯狂的饥渴，越喂养它们，它们就越凶猛地生长。
+- **中文理解**：他知道得越多，就越想继续知道；他有疯狂的饥渴，越喂养它们，它们就越凶猛地生长。
 - **关键词**：desired, mad hungers, ravenous（渴望、疯狂饥渴、凶猛）
-- **为什么这样写**：比较结构制造循环，再用“feeder”与“ravenous”把知识写成自我加大的捕兽陷阱；满足不是终点，而是更强烈的空腹。
+- **为什么这样写**：比较结构制造循环，再用“fed”与“ravenous”把知识写成自我加大的捕兽陷阱；满足不是终点，而是更强烈的空腹。
 - **读者视角提示**：Dorian 把求知误认为进步，但叙述已把“喂养”写成欲望的自我强化；好奇心的背后不是认识，而是无法停止的饥饿。
 
 > **原句 5:** "It was to have its service of the intellect, certainly, yet it was never to accept any theory or system that would involve the sacrifice of any mode of passionate experience."

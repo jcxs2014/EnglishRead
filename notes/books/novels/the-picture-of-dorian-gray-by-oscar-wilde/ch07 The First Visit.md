@@ -19,7 +19,7 @@ modified: "2026-09-24"
 
 - **中文理解**：Dorian 说，他正是在这里发现她；她超越一切生灵，登台时会使人忘记一切。
 - **关键词**：divine, forget（神圣、忘记）
-- **为什么这样写**：先以宗教性的“divine”抬高 Sibyl，再用“forget everything”规定她对观众意识的全面支配，呼应 ch06 中 Dorian 对她“天生演员”的判断。
+- **为什么这样写**：先以宗教性的“divine”抬高 Sibyl，再用“forget everything”规定她对观众意识的全面支配，也延续了 Dorian 对她舞台感染力的期待。
 - **读者视角提示**：这句话既是爱慕，也是把真实的人压缩成舞台神像的预言；它会为下一场的失望埋下落差。
 
 > **原句 2:** "She makes them as responsive as a violin. She spiritualizes them, and one feels that they are of the same flesh and blood as one's self."
@@ -27,7 +27,7 @@ modified: "2026-09-24"
 - **中文理解**：Dorian 认为，Sibyl 能使观众像小提琴一样回应，也能使他们精神化，让人感到彼此同属一种血肉。
 - **关键词**：responsive, spiritualize（回应、使精神化）
 - **为什么这样写**：音乐比喻把演员的感染力写成可传导的共鸣；“同一种血肉”又把短暂的剧场体验推向共同体幻觉。
-- **读者视角提示**：这句话解释了他为何迷恋舞台上的 Sibyl，却还没有解释现实中的她；观众后来会看见，幻象与身体之间的距离正是悲剧核心。
+- **读者视角提示**：这句话解释了他为何迷恋舞台上的 Sibyl，却还没有解释现实中的她；后文将把这种舞台幻象与她的真实情感并置。
 
 > **原句 3:** "When the second act was over, there came a storm of hisses, and Lord Henry got up from his chair and put on his coat."
 

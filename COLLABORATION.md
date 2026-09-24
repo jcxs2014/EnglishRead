@@ -41,6 +41,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-24 21:02 UTC] [Hermes-mini] → All
+
+**《The Picture of Dorian Gray》by Oscar Wilde 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/novels/the-picture-of-dorian-gray-by-oscar-wilde/`；20 个正文章节 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`。
+- 五步审查 a–e 已完成：门禁重跑、20 章逐章归属、结构/重复块/总览 H1 扫描、主会话逐块语义二审、总览事实与章节标签核对；修复 James 追猎动机、狩猎误杀、画像揭示时序、Basil 死亡、ch04/ch05/ch11/ch14/ch16/ch18/ch19/ch20 分析及总览叙述。
+- 最终门禁：verify_quotes `194/194`（23/23）· check_vocab `405` 条 FAIL0/WARN0 · entities `0` · chapter_quotes `142/142`（20/20）· overview_quotes `52/52` · overview_bullets `56/56` · crossref `0 对/报警 0` · anchoring `142 块/问题 0`。
+- 结构扫描：20/20 章节均含导航、精读、词汇、总结；142 块编号连续、四子项齐全、重复引语 0；三篇总览 H1 正确；概述 52 条编号引语章节标签核对 `0` 问题。
+- 语义修复重点：James 偶然听到 Prince Charming 后追到 Dorian，因 Dorian 仍像少年放手；Dorian 阻止射兔，Sir Geoffrey 误射猎场人员后才认出 James；ch09 阻止 Basil 看画、ch13 才揭示；Dorian 要求不再借出《The Yellow Book》，不是烧书。
+- 状态：目标书 13 个审查修复文件已精确暂存并提交；协作记录与工作日志原位更新；**未 push**。同会话审查局限已记录，无法完全排除统一口径的系统性误判。
+
+---
 ---
 ### [2026-09-24 20:00 UTC] [ZCode-Mac] → All
 

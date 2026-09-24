@@ -36,12 +36,12 @@ modified: "2026-09-24"
 - **为什么这样写**：谦卑与骄傲的并置，保留了 Sibyl 的自我判断：她看见双方差距，也把被爱理解成对自身价值的确认。
 - **读者视角提示**：这份骄傲来自她对“王子”的理想化，而不是对 Dorian 个人的了解；它会在真实关系出现时变得脆弱。
 
-> **原句 4:** "He is a gentleman," said the lad sullenly.
+> **原句 4:** "I hear a gentleman comes every night to the theatre and goes behind to talk to her. Is that right? What about that?"
 
-- **中文理解**：Jim 闷闷不乐地说：Dorian 是个绅士。
-- **关键词**：gentleman, sullenly（绅士、闷闷不乐）
-- **为什么这样写**：叙述者把 Jim 的判断压成短句，礼貌类别反而暴露出他的敌意；“绅士”在 Sibyl 的语境里意味着高贵，在 Jim 的语境里却像可疑的外衣。
-- **读者视角提示**：Jim 不是凭证据反对 Dorian，而是凭阶层直觉感到危险；他担心的或许不只是姐姐的名声，也包括她被自己无法控制的生活带走。
+- **中文理解**：James 问母亲，是否每晚都有绅士到剧院后台找 Sibyl 说话。
+- **关键词**：hear a gentleman, every night, behind, talk to her（听说绅士、每晚、后台、交谈）
+- **为什么这样写**：James 用连续问题把母亲含糊的说法逼成具体指控；“Is that right? What about that?” 让保护妹妹的怀疑与对身份的不信任同时显形。
+- **读者视角提示**：浪漫理想在这里被转译为夜间来访与私下交谈；Dorian 的匿名和 Sibyl 的舞台生活因此都显得可疑。
 
 > **原句 5:** "I shudder at the thought of being free."
 
@@ -75,7 +75,7 @@ modified: "2026-09-24"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| gentleman | 绅士 | He is a gentleman |
+| gentleman | 绅士 | I hear a gentleman comes every night to the theatre |
 | proud | 骄傲的 | I feel proud, terribly proud |
 | wealth | 财富 | if this gentleman is wealthy |
 | alliance | 联盟；婚姻关系 | contract an alliance with him |

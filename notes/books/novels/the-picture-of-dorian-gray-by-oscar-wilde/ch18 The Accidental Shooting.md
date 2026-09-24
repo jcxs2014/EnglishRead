@@ -7,9 +7,9 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Dorian 连续两天被 James Vane 的复仇想象折磨，随后强装轻松参加狩猎；他阻止射杀一只野兔，却导致猎手误杀陌生人，最后发现死者正是 James Vane。
+- **一句话概括**：Dorian 被关于 James Vane 的复仇想象折磨，随后强装轻松参加狩猎；他阻止射杀一只野兔，Sir Geoffrey 却误射一名猎场人员，最后发现死者正是 James Vane。
 - **情感弧线位置**：恐惧高点后的虚假回落——他先靠“只是想象”恢复镇定，又因误杀事件跌回末日感；认出死者后，恐惧瞬间转为哭泣和安全感。
-- **Tropes 兑现/反转**：“死亡预兆”没有指向 Dorian，而由一次意外射击抢先完成；一直追杀他的复仇者先死去，使不衰老从护盾彻底变成不祥。
+- **Tropes 兑现/反转**：“死亡预兆”没有指向 Dorian，而由一次意外射击抢先完成；追捕者先死去，使未衰老从护盾彻底变成不祥。
 - **人物弧线**：Dorian 从惊恐的 hunted man 变成自信地否认危险的人，又在死亡面前恢复悲悯；得知 James 身份后，他没有悔悟，只以眼泪确认自己逃脱惩罚。
 - **叙事手法**：第三人称限知；室内恐慌、户外狩猎、Henry 的轻佻劝慰和验尸式身份确认分段推进，以重复的“bad omen”让读者早于 Henry 知道危险已经兑现。
 
@@ -34,7 +34,7 @@ modified: "2026-09-24"
 - **中文理解**：青春的面具救了他。
 - **关键词**：mask of youth, saved him（青春面具、救了他）
 - **为什么这样写**：主角把外貌称作 mask，承认自己一直在用未衰老维持身份；saved 的过去时又像暂时截断处刑，而非真正获救。
-- **读者视角提示**：这张面具骗过 James 的眼睛，却没有阻止 James 说出“Sibyl Vane 是我姐姐”；身体年龄被揭穿，身份秘密才刚重新启动。
+- **读者视角提示**：这张面具在 ch16 骗过了 James 的眼睛，却不能消除 James 对 Sibyl 的追索；本章开头的恐惧正来自他仍未真正摆脱这场追捕。
 
 > **原句 4:** "It is a bad omen, Harry. I feel as if something horrible were going to happen to some of us. To myself, perhaps," he added, passing his hand over his eyes, with a gesture of pain."
 
@@ -62,7 +62,7 @@ modified: "2026-09-24"
 - **中文理解**：先生，我们不知道他是谁；我正为此冒昧来见您。
 - **关键词**：don't know who he is, took the liberty（不知道身份、冒昧前来）
 - **为什么这样写**：园丁用事务性语言报告死亡，身份空白却成为最重要信息；took the liberty 显示下属知道这件事必须由 Dorian 决定。
-- **读者视角提示**：Dorian 原本准备以捐款处理一条陌生命案；sailer 一词一出口，叙事便从社会慈善切换成 James 身份的确认。
+- **读者视角提示**：Dorian 原本准备以捐款处理一条陌生命案；sailor 一词一出口，叙事便从社会慈善切换成 James 身份的确认。
 
 > **原句 8:** "It is in an empty stable in the Home Farm, sir. The folk don't like to have that sort of thing in their houses. They say a corpse brings bad luck."
 

@@ -15,12 +15,12 @@ modified: "2026-09-24"
 
 ## 精读
 
-> **原句 1:** "How late you are, Harry!" he murmured."
+> **原句 1:** "You thought it was my husband. It is only his wife. You must let me introduce myself. I know you quite well by your photographs. I think my husband has got seventeen of them."
 
-- **中文理解**：Dorian 低声抱怨 Harry 来得太晚。
-- **关键词**：late, murmured（迟到，低声说）
-- **为什么这样写**：一个带着期待的抱怨先把 Henry 放入 Dorian 熟悉的私密节奏，也暗示 Dorian 正在等待某种思想刺激。
-- **读者视角提示**：两人的亲密已不是普通朋友式的等待，而是围绕话语、审美和欲望建立的固定仪式。
+- **中文理解**：Lady Henry 解释 Dorian 把她当成了丈夫，并自我介绍；她还说从照片上就认识 Dorian，丈夫有十七张照片。
+- **关键词**：thought, husband, introduce, photographs（误认、丈夫、介绍、照片）
+- **为什么这样写**：回答先把 Dorian 的认错具体化，再用“介绍自己”和照片细节把短暂的礼貌误会变成带社交意味的初遇。
+- **读者视角提示**：Dorian 的等待并非固定仪式，而是一次误认；场景由这句回应自然把 Lady Henry 引入 Harry 的缺席。
 
 > **原句 2:** "I had a passion for sensations …. Well, one evening about seven o'clock, I de termined to go out in search of some adventure."
 
