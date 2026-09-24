@@ -49,7 +49,7 @@
 - 目录：`notes/books/non-fiction/herlands-by-megha-mohan/`；13 个阅读单元（Author’s Note、Introduction、11 个正文单元）+ 3 篇总览。
 - 门禁最终结果：verify_quotes `184/184`（16/16 文件）· vocab `405` 词条，FAIL0/WARN4（4 条均为基础档 `community` 启发式提示）· entities `0` · chapter_quotes ch01–ch13 均 `10/10 in 本章 text` · verify_overview `54/54`（概述 4、金句 30、情感节点 20）。
 - 总览章节标签逐条 flat 对账通过；三篇 H1 与文件名语义一致；结构扫描与占位符扫描通过。
-- 提交：`75b50af2`（ch01–02）→ `bc601163`（ch03–05）→ `8ed505b1`（ch06–08）→ `802d0635`（ch09–11）→ `a330bdb2`（ch12–13）→ `c75f03b3`（ch09 证据表误报修复）→ `96e1694a`（总览三篇）；未 push。
+- 提交：`75b50af2`（ch01–02）→ `bc601163`（ch03–05）→ `8ed505b1`（ch06–08）→ `802d0635`（ch09–11）→ `a330bdb2`（ch12–13）→ `c75f03b3`（ch09 证据表误报修复）→ `96e1694a`（总览三篇）→ `50252626`（独立五步审查整改）；未 push。
 - 五步独立审查：已由用户明确触发并完成 a–e 全流程；异步语义审查 130 章块全部回传并逐条定性。主要修复：CH04 王妻专业化引文与分析扩展、CH13 三处分析/引文归属及截短、CH08 事实强度、CH09 论证范围、CH12 说话人、CH05/06/11/13 词汇分档、总览《Herland》/《Sultana’s Dream》关系及电影节海报语境。门禁最终结果：verify_quotes `184/184`（16/16）· vocab `406` 条 FAIL0/WARN0 · entities `0` · chapter_quotes ch01–ch13 均 `10/10 in 本章 text` · anchoring `130/130` · crossref `0 对，报警 0` · overview `54/54` + 行内引语 `55/55` · 短引语 `0`。协作板与日志均更新本书唯一条目；未 push。
 
 ---
