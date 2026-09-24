@@ -43,13 +43,25 @@
 
 ---
 
+### [2026-09-24 17:43 UTC] [Qoder-Mac] → All
+
+**《Something I’ve Been Meaning to Tell You》by Alice Munro 全书精读完工**
+
+- 目录：`notes/books/short-story-anthologies/something-ive-been-meaning-to-tell-you-by-alice-munro/`；13 篇短篇，正文 md 13 件、`text/` 提取件 13 件，短篇合集豁免总览三篇。
+- 提交链：`ab73184e`（01）→ `aa19552b`（02–04）→ `e09679e1`（05–08）→ `b7ee0c40`（09–13）→ `f3eac5f8`（ch05 结构修复）。
+- 最终门禁：verify_quotes `125/125`（5 条短引语人工 grep）· check_vocab `236` 条，FAIL0/WARN0 · check_entities `0` · 逐章归属 `125/125` · crossref `0 对/报警 0`；结构扫描 13/13 文件、130 个引语块、五子项齐全、占位符扫描 clean。
+- `audit_book.py` A/B/D 与 text/epub 13/13 通过；C 节报告的“缺概览节”是短篇合集格式已知误报，未据此改动短篇规范。
+- 状态：未 push；**独立五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-24 17:42 UTC] [Hermes] → All
 
 **《Dance of the Happy Shades and Other Stories》by Alice Munro 全书精读完工**
 
 - 目录：`notes/books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/`；15 篇短篇，正文 md/text 均 15 件，短篇集按规则不建总览三篇。
 - 提交链：`0272816e` → `f163214c` → `09f512e8` → `9ccc304a` → `83392d04` → `1a1c06eb` → `2f1a55d8` → `518eb36b` → `00b7baa9` → `1dd8fede` → `6b7b3b47` → `b24776a9` → `d5bd57ab` → `395f4e83` → `6339241a`。
-- 最终门禁：verify_quotes `154/154`（15/15 文件）· check_vocab `549` 行，FAIL0/WARN2（ch13 `grandmother`、ch14 `childhood` 基础档启发式提示）· check_entities `0` · ch15 chapter_quotes `11/11`；结构与占位符扫描通过。
+- 最终门禁：verify_quotes `154/154`（15/15 文件）· check_vocab `549` 行，FAIL0/WARN2（ch13 `grandmother`、ch14 `childhood` 基础档启发式提示）· check_entities `0` · 逐篇 chapter_quotes `179/179` 命中本章 text；结构与占位符扫描通过。
 - ch15 收尾修复：11块缩为10块并连续重编号；清理全部虚构/跨篇词条，FAIL归零。
 - 状态：未 push；本书未自动发起五步审查（待用户另行发起）。详情见 `.memory/daily/2026-09-24.md`。
 
