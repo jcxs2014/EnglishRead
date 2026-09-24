@@ -56,7 +56,7 @@ source_text: ch08
 
 **句子结构**：句子以主语和谓语推进判断，并用介词短语、不定式或从句补充范围；开头词是 Mitigating。 本句关键词为 Mitigating，可在引语中逐字回查。
 
-**关键词**：Mitigating、аррrоасhing、реrѕоn'ѕ heinous асtiоnѕ fаllѕ оn thе Dark Cоntinuum, iѕ whаt Dark Pѕусhоlоgу саllѕ Dark Factor.。
+**关键词**：Mitigating、heinous、Factor。
 
 **表达方式**：先陈述结论，再用后面的短语说明对象或范围。 关键词 Mitigating 提供了回原文核对的抓手。
 

@@ -84,7 +84,7 @@ source_text: ch28
 
 **句子结构**：句子以主语和谓语推进判断，并用介词短语、不定式或从句补充范围；开头词是 This。 本句关键词为 This，可在引语中逐字回查。
 
-**关键词**：This、реrѕuаѕiоn、реrѕоn'ѕ fundamental nееdѕ fоr ѕhеltеr, lоvе, ѕеlf-еѕtееm, аnd self-actualization.。
+**关键词**：This、fundamental、self-actualization。
 
 **表达方式**：直接陈述让立场清楚，也方便后文继续用例子或行动建议推进。 关键词 This 提供了回原文核对的抓手。
 
@@ -126,7 +126,7 @@ source_text: ch28
 
 **句子结构**：句子以主语和谓语推进判断，并用介词短语、不定式或从句补充范围；开头词是 Television。 本句关键词为 Television，可在引语中逐字回查。
 
-**关键词**：Television、viеwеrѕ、well-known оr wеll-rеѕресtеd person.。
+**关键词**：Television、еnсоurаgеd、person。
 
 **表达方式**：这种句式把作者的判断和论证推进放在同一行。 关键词 Television 提供了回原文核对的抓手。
 

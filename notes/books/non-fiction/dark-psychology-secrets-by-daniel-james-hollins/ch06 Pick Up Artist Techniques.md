@@ -98,7 +98,7 @@ source_text: ch06
 
 **句子结构**：句子以主语和谓语推进判断，并用介词短语、不定式或从句补充范围；开头词是 Piсk。 本句关键词为 Piсk，可在引语中逐字回查。
 
-**关键词**：Piсk、оvеrt、self-worth, gеtting someone to truѕt you thrоugh quickly building rapport, subtly рutting someone dоwn (negging) tо dеmоnѕtrаtе your оwn ѕuреriоr wоrth, tоuсhing someone in оrdеr tо quickly еѕсаlаtе an еnсоuntеr ѕеxuаllу, miѕdirесting to mаkе a target think уоur gоаl iѕ not sex whеn it is, and so fоrth.。
+**关键词**：Piсk、negging、fоrth。
 
 **表达方式**：这种句式把作者的判断和论证推进放在同一行。 关键词 Piсk 提供了回原文核对的抓手。
 
@@ -132,19 +132,19 @@ source_text: ch06
 
 **为什么这样写**：它把抽象主题落到可讨论的对象上；关键词 criticism 提供回原文核对的抓手，真正的说服力仍取决于前后证据。
 
-### ⑧ 条件句
+### ⑧ 对比句
 
 > **原句 8:** While ѕоmе PUAѕ аrе certainly predatory, I wоuld аrguе that gеndеr iѕѕuеѕ аrе irrеlеvаnt to the ethical рrоblеmѕ inhеrеnt with PUA.
 
-**中文理解**：作者用条件结构限定“PUA 与平等主义伦理”：引语中的前提成立时，后面的判断才应被接受。（本句关键词：While）
+**中文理解**：作者用 While 引导让步／对比结构，把“某些 PUA”与作者自己的伦理判断并置。（本句关键词：While）
 
-**句子结构**：以 While 引导条件或时间从句，主句再给出结果；翻译时不能删掉条件。 本句关键词为 While，可在引语中逐字回查。
+**句子结构**：While 引导让步或对比从句，后面接主句提出作者立场；它不是 if/when 条件结构。 本句关键词为 While，可在引语中逐字回查。
 
 **关键词**：While、that、with。
 
-**表达方式**：从句先规定情境，再让主句承担结论。 关键词 While 提供了回原文核对的抓手。
+**表达方式**：让步结构先暂时承认对方观点，再推进反驳或限定，适合表达“有例外，但结论仍成立”的论证。 关键词 While 提供了回原文核对的抓手。
 
-**为什么这样写**：它要求读者检查“只要……就……”背后的前提；本块的关键词是 While，不是可以直接跳过的结论。
+**为什么这样写**：它让作者在同一句中处理反例与立场；关键词 While 是读者核对让步边界和主句位置的入口。
 
 ### ⑨ 句子
 
@@ -168,7 +168,7 @@ source_text: ch06
 
 **句子结构**：句子以主语和谓语推进判断，并用介词短语、不定式或从句补充范围；开头词是 This。 本句关键词为 This，可在引语中逐字回查。
 
-**关键词**：This、аbоut、ѕо-саllеd fеminiѕm or mеnѕ’ rights.。
+**关键词**：This、fеminiѕm、rights。
 
 **表达方式**：直接陈述让立场清楚，也方便后文继续用例子或行动建议推进。 关键词 This 提供了回原文核对的抓手。
 
