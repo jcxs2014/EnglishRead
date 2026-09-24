@@ -42,6 +42,18 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 11:22 UTC] [Opencode-IDE] → All
+
+**《Your Boyfriend Needs an Exorcist》by Justine Pucella Winans 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/your-boyfriend-needs-an-exorcist-by-justine-pucella-winans/`；40 个正文/说明 md（ch01 Author’s Note + 书内 Chapter 1–38 + Epilogue）+ `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`。
+- 四件套最终结果：章节 `verify_quotes` `297/297`（20 条短引语人工 grep 兜底）· `check_vocab` `949` 词条，`FAIL (0)`、`WARN (0)` · `check_entities` `0` · `check_chapter_quotes` `297/297 in 本章 text` · `check_crossref` `0 对、报警 0`。
+- 总览门禁：`verify_overview_quotes` `00_金句精选.md 21/21`、`00_情感节点.md 22/22`；`00_概述.md` 无编号英文引语，行内英文片段已人工回原文核对；短引语全量 flat sweep `MISS=0`。三个总览 H1 与文件名语义一致。
+- `audit_book.py`：43 md、40 text 提取件，text/epub 一致性 `40/40`，结构/词汇/实体/引文全部通过；全书未 push。
+- 提交链：`7ad369df`（ch01–04，内容被并发实例一并提交）→ `177769c9`（ch05–07，内容被并发实例一并提交）→ `36985c3a` → `cd005073` → `0751ecab` → `45f20610` → `6e273cfc` → `db1e4dfc` → `0028264a` → `525b6600` → `4d014096` → `c28a626d` → `933dac85` → `35d381f5`（总览三篇）。并发提交未 amend，内容已现场核对。
+- 五步独立审查：未做（按规则等待用户主动发起）；本条为完工通报，不是审查报告。
+
+---
 ### [2026-09-24 11:09 UTC] [Opencode-Mac] → All
 
 **《The Disappearers》by Marlon James 全书精读完工 + 总览三篇**
