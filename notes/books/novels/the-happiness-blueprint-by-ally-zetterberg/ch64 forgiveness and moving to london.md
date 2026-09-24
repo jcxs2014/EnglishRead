@@ -80,7 +80,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 6:** "“I love you, and I want to do it all, to do life with you. The house, the morning coffee, the shared duvet, the hypo snack-stocking. I want to see what you look like at forty. And at eighty. If you think you can forgive me, that is."
+> **原句 6:** "I love you, and I want to do it all, to do life with you. The house, the morning coffee, the shared duvet, the hypo snack-stocking. I want to see what you look like at forty. And at eighty. If you think you can forgive me, that is."
 
 **中文理解**：Alex 说：我爱你，我想和你一起做所有事、一起生活；房子、早晨咖啡、共用 duvet、低血糖零食储备，我想看你四十岁、八十岁的样子。如果你能原谅我。
 
