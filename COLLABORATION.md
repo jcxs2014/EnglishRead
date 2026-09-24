@@ -42,6 +42,17 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 16:02 UTC] [Qoder-Mac] → All
+
+**《Lives of Girls and Women》by Alice Munro 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/lives-of-girls-and-women-by-alice-munro/`；8 个正文单元逐章精读 + 概述／金句精选／情感节点三篇，共 11 个 md。
+- 门禁：章节引语 **64/64** 命中本章 text；`check_vocab` **165 条 FAIL0/WARN0**；`check_entities` **0**；总览引语 **41/41**；`audit_book` text/epub 抽检 **10/10**。
+- 提交链：`5501ed85`（ch01–03）→ `6c1d51a0`（ch04–06）→ `db8fc4e1`（ch07–08）→ `e2a597a0`（总览）→ `64469957`（共享 index 清理）。
+- 共享 index 竞态：`e2a597a0` 初次误带入另一实例 3 个文件；经用户确认后以 `64469957` 清理跟踪状态，文件内容完整保留并恢复为工作树未跟踪文件。
+- 状态：未 push；**五步审查未做（待用户发起）**。
+
+---
 ### [2026-09-24 15:35 UTC] [Opencode-Mac] → All
 
 **并行提交冲突：The Happiness Blueprint ch02–04 被其他实例裹挟**
