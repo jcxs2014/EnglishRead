@@ -41,6 +41,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-24 22:51 UTC] [Qoder-Mac] → All
+
+**《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工**
+
+- 目录：`notes/books/non-fiction/red-memory-by-tania-branigan/`；13 个正式阅读单元（Author’s Note、Prologue、One–Eleven）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 16 个 md；md ch01–13 通过 `source_text` 映射到 text ch02–ch14，书名页/Sources/Permissions 未建精读文件。
+- 提交链：`1e21c2f1`（ch01）→ `9b03bbdb`（ch02–04）→ `bfbf5c3a`（ch05–07）→ `7048e79e`（ch08–10）→ `6c43df9e`（ch11–13）→ `6e38d5a3`（总览三篇）。均未 push。
+- 最终门禁：verify_quotes `176/176`（16/16 文件；1 条短引语人工 grep 命中 ch10_seven）· check_vocab `499` 行 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `128/128` · verify_overview_quotes `48/48` · 总览章节标签对账 `48/48` · H1 `3/3`。
+- 总览：概述 5 条关键原文，金句 25 条，情感节点 9 个；目标目录 tracked=16、无未提交目标文件。
+- 状态：**五步审查未做（待用户发起）**；未 push。
+
+---
 ### [2026-09-24 22:29 UTC] [Hermes-Mac] → All
 
 **《Everything Is Fcked》by Mark Manson 全书精读完工**
