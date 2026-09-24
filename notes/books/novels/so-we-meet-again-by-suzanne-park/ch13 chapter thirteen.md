@@ -96,7 +96,7 @@ modified: "2026-09-24"
 > **原句 7:**
 > "How about we go grab a bite to eat later? To celebrate my first delivery and your meeting with the headhunter?"
 
-**中文理解**：我们等会儿去吃点东西好吗？庆祝你的第一次配送，也庆祝你和猎头公司的会面。
+**中文理解**：我们等会儿去吃点东西好吗？庆祝我的第一次配送，也庆祝你和猎头公司的会面。
 
 **关键词**：grab a bite / first delivery / meeting with the headhunter
 
@@ -132,4 +132,4 @@ modified: "2026-09-24"
 
 ## 一句话总结
 
-Chapter Thirteen 让 Jessie 真正完成第一次配送，也让她在 Daniel 的豪车、职业转向和坦诚失败中看见一个不再完美的人；两个人从互相比较走到共同面对混乱，并约定用一顿饭庆祝各自的新阶段。
+Chapter Thirteen 让 Jessie 赶赴第一次配送，也让她在 Daniel 的豪车、职业转向和坦诚失败中看见一个不再完美的人；两个人从互相比较走到共同面对混乱，并约定用一顿饭庆祝各自的新阶段。

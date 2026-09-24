@@ -35,7 +35,7 @@ modified: "2026-09-24"
 
 **关键词**：People can change / Forget about the past / ask Daniel for help
 
-**为什么这样写**：Celeste 用三个短促祈使句把“过去不能定义现在”变成行动建议；People can change 是原则，ask Daniel for help 是 Jessie 仍觉得难以执行的现实动作。
+**为什么这样写**：Celeste 用三个短促句子——一句陈述加两句祈使——把“过去不能定义现在”变成行动建议；People can change 是原则，ask Daniel for help 是 Jessie 仍觉得难以执行的现实动作。
 
 **读者视角提示**：她把童年竞争当作求助的障碍，Celeste 则认为成人世界已经变了；读者会看到这不仅是朋友建议，也是 Jessie 重新定义 Daniel 的入口。
 

@@ -31,7 +31,7 @@ modified: "2026-09-24"
 > **原句 2:**
 > "I think Bill You would make people think they owed you money."
 
-**中文理解**：我觉得大家会以为 Bill You 欠他们钱。
+**中文理解**：我觉得大家会以为别人欠 Bill You 钱。
 
 **关键词**：Bill You / owed you money
 
@@ -61,7 +61,7 @@ modified: "2026-09-24"
 
 **关键词**：start a new career / not to rehash / past events
 
-**为什么这样写**：作者用 not to rehash 把新旧的边界直接划出；但 Jessie 随后仍被 gravitas 记忆拉回旧职场，说明一句自我声明不能立刻清除过去。
+**为什么这样写**：作者用 not to rehash 把新旧的边界直接划出；但 Jessie 刚被 gravitas 记忆拉回旧职场，这句自我声明仍不足以清除过去的影响。
 
 **读者视角提示**：读者会看到她需要的不只是新计划，还有不必为旧标签解释自己的新环境；这句话为后面的直接自我呈现定下标准。
 
@@ -113,7 +113,7 @@ modified: "2026-09-24"
 
 **关键词**：business opportunity / plopped into my lap / never happened to me before
 
-**为什么这样写**：plopped into my lap 用被动、拟物的表达把机会写成突然掉落的物体，既夸张又保留怀疑；最后一句让她承认过去缺少被机会托住的经历。
+**为什么这样写**：plopped into my lap 用过去完成时的拟物化习语把机会写成突然掉落的物体，既夸张又保留怀疑；最后一句让她承认过去缺少被机会托住的经历。
 
 **读者视角提示**：机会来自 Daniel 的引荐，却不能只当作好运；Jeff 随后提出价格、批发成本和试销条件，读者会期待 Jessie 能否独立完成提案。
 

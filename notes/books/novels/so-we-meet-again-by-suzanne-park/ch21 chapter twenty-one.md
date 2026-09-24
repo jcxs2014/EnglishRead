@@ -98,7 +98,7 @@ modified: "2026-09-24"
 
 **中文理解**：我只是不想把 Seoul Sistas 贱卖给一家会夺走品牌灵魂的公司。
 
-**关键词**：sell Seoul Sistas short / heart and soul / take out of my brand
+**关键词**：sell Seoul Sistas short / heart and soul / take the heart and soul out of my brand
 
 **为什么这样写**：sell short 既是金融术语，也暗示她在价值上被低估；heart and soul 把品牌拆解为情感和劳动的累积，解释了为什么她拒绝高额报价。
 

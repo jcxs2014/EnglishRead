@@ -42,13 +42,13 @@ modified: "2026-09-24"
 ---
 
 > **原句 3:**
-> "I worked through your finances . . . with these website preorders . . . you’ll break even end of next year."
+> "I worked through your finances . . . with these website preorders . . . assuming regular ordering will be constant . . . you’ll break even end of next year."
 
-**中文理解**：我用这些网站预订单帮你把财务算了一遍……到明年年底你就能收支平衡。
+**中文理解**：我用这些网站预订单帮你把财务算了一遍……前提是预订单能持续、稳定发生……到明年年底你就能收支平衡。
 
 **关键词**：website preorders / break even / end of next year
 
-**为什么这样写**：省略号把 Flora 的计算过程和结论分开，break even 把模糊的生存焦虑变成可测量的终点；她用财务语言给 Jessie 留出一条窄但真实的路。
+**为什么这样写**：省略号把 Flora 的计算过程、条件前提和结论分开，break even 把模糊的生存焦虑变成有条件的可测量终点；她用财务语言给 Jessie 留出一条窄但真实的路。
 
 **读者视角提示**：Flora 不是只安慰她，而是用模型告诉她怎样活下来；读者会看到创业支持也可以是朋友之间具体的脑力劳动。
 
@@ -61,9 +61,9 @@ modified: "2026-09-24"
 
 **关键词**：One hundred units / celebration cake / after all
 
-**为什么这样写**：商业数字在最需要情绪支持的时刻出现，One hundred units 让朋友先看到客户需求，再让 Jessie 恢复庆祝的可能；after all 把“也许”留下一点弹性。
+**为什么这样写**：商业数字在最需要情绪支持的时刻出现，One hundred units 让朋友先看到一条潜在企业订单需求，再让 Jessie 恢复庆祝的可能；after all 把“也许”留下一点弹性。
 
-**读者视角提示**：这不是一只小订单，而是陌生企业对她品牌的信任；读者会感到她的公司开始拥有 NiHao 之外的第二条生命线。
+**读者视角提示**：这不是一笔已经落地的订单，而是一条新的潜在企业销售方向；读者会感到她的公司开始拥有 NiHao 之外的第二条生命线。
 
 ---
 

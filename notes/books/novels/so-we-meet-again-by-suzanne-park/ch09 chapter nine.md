@@ -48,7 +48,7 @@ modified: "2026-09-24"
 
 **关键词**：golden handcuffs / start something new / more passionate about
 
-**为什么这样写**：golden handcuffs 既承认华尔街的诱惑，也承认它的束缚；被动式 I’m working on 让创业听起来正在进行，而不是尚未开始，掩饰了方案仍模糊的事实。
+**为什么这样写**：golden handcuffs 既承认华尔街的诱惑，也承认它的束缚；现在进行时 I’m working on 让创业听起来正在进行，而不是尚未开始，掩饰了方案仍模糊的事实。
 
 **读者视角提示**：这句社交包装已经排练到连她自己都差点相信；读者会期待她什么时候能把包装里的热情变成真实行动。
 

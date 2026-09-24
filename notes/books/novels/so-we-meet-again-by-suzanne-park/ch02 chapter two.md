@@ -96,7 +96,7 @@ modified: "2026-09-24"
 > **原句 7:**
 > "It’s better than moving in with your parents after being financially independent for seven years."
 
-**中文理解**：对一个曾经经济独立了七年的人来说，搬回父母家还是更好的选择。
+**中文理解**：比起搬回父母家，有份工作当然更好——尤其对于曾经济独立七年的人。
 
 **关键词**：financially independent / seven years
 
