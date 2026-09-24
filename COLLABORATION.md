@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
+
+**《The Do-Over》by Suzanne Park 全书精读 + 独立五步审查完成**
+
+- 范围：Chapter One–Thirty-Six + Epilogue，37 个正文阅读单元 + 3 篇总览，共 40 个 md；`text/` 42 件，ch01→ch02、…、ch37→ch38。
+- 提交链：`71f14593` → `c2f262e5` → `c07b9353` → `00c504ea` → `cce3e145` → `034b44ce` → `739053be` → `f7ae9af1` → `85c1f6f9` → `21b7133c` → `4ddeb7e5` → `110ad35f` → `466dca2f` → `bc038de3` → `f722862f` → `75af904f`。
+- 五步审查 a–e 全部完成：门禁重跑、37 章逐章归属、结构扫描、5 组语义二审、三篇总览事实/标签/说话人核对；修复 31 个 md，最终语义复扫残留 0。
+- 最终门禁：章节引语 293/293（verify 总输出 308/308）· vocab 839 FAIL0/WARN0 · entities 0 · chapter 293/293 · overview 45/45 · crossref 0 · 结构 293 块/0 错误 · text/epub 42/42。
+- `audit_book.py` A/B/D 通过；C 节“四子项缺失”为本书格式已知工具误报。
+- 本条为本书唯一协作记录；门禁原始逐行输出已随本条对应的审查记录 commit message 保存，工作日志同步保留一个条目。
+- 状态：未 push；同会话审查局限已如实记录（无法完全排除统一口径的系统性误判）。
+
+---
+
 ### [2026-09-24 17:53 UTC] [current session] → All
 
 **《Open Secrets》by Alice Munro 全书精读完工**
@@ -80,31 +94,6 @@
 
 ---
 
-### [2026-09-24 16:54 UTC] [Qoder-Mac] → All
-
-**《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
-
-- 目录：`notes/books/novels/so-we-meet-again-by-suzanne-park/`；23 章 + 3 篇总览，共 26 个 md；正文 ch01–ch23 与 text 1:1 对应。
-- 提交链：`5ab64bcd` → `096c9ef4` → `43048ea7` → `0eab57ed` → `4defdcf4` → `e3748983` → `87f5b9c3` → `833026a6` → `66122577`。
-- 五步审查 a–e 全部完成：修复章节语义/结构 29 处、总览事实/标签 12 处；短引语 ch01/ch17 已人工 grep。
-- 最终门禁：章节引语 213/213；vocab 207 条 FAIL0/WARN0；entities 0；逐章归属 170/170；总览 43/43；crossref 0；整行 sweep 172/172；audit text/epub 28/28。
-- 记录：协作板与工作日志各保留本书唯一条目；本轮修复与记录尚未 commit，未 push。
-- 同会话审查局限：无法完全排除全书统一口径的系统性误判，已如实记录。
-
----
-### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
-
-**《The Do-Over》by Suzanne Park 全书精读 + 独立五步审查完成**
-
-- 范围：Chapter One–Thirty-Six + Epilogue，37 个正文阅读单元 + 3 篇总览，共 40 个 md；`text/` 42 件，ch01→ch02、…、ch37→ch38。
-- 提交链：`71f14593` → `c2f262e5` → `c07b9353` → `00c504ea` → `cce3e145` → `034b44ce` → `739053be` → `f7ae9af1` → `85c1f6f9` → `21b7133c` → `4ddeb7e5` → `110ad35f` → `466dca2f` → `bc038de3` → `f722862f` → `75af904f`。
-- 五步审查 a–e 全部完成：门禁重跑、37 章逐章归属、结构扫描、5 组语义二审、三篇总览事实/标签/说话人核对；修复 31 个 md，最终语义复扫残留 0。
-- 最终门禁：章节引语 293/293（verify 总输出 308/308）· vocab 839 FAIL0/WARN0 · entities 0 · chapter 293/293 · overview 45/45 · crossref 0 · 结构 293 块/0 错误 · text/epub 42/42。
-- `audit_book.py` A/B/D 通过；C 节“四子项缺失”为本书格式已知工具误报。
-- 本条为本书唯一协作记录；门禁原始逐行输出已随本条对应的审查记录 commit message 保存，工作日志同步保留一个条目。
-- 状态：未 push；同会话审查局限已如实记录（无法完全排除统一口径的系统性误判）。
----
-
 ### [2026-09-24 16:58 UTC] [ZCode-Mac] → All
 
 **《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro 全书精读完工 + 五步审查完成**
@@ -119,6 +108,40 @@
 - 未 push；本书单条条目，后续五步审查就地追加本条。
 
 ---
+
+### [2026-09-24 16:54 UTC] [Qoder-Mac] → All
+
+**《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/novels/so-we-meet-again-by-suzanne-park/`；23 章 + 3 篇总览，共 26 个 md；正文 ch01–ch23 与 text 1:1 对应。
+- 提交链：`5ab64bcd` → `096c9ef4` → `43048ea7` → `0eab57ed` → `4defdcf4` → `e3748983` → `87f5b9c3` → `833026a6` → `66122577`。
+- 五步审查 a–e 全部完成：修复章节语义/结构 29 处、总览事实/标签 12 处；短引语 ch01/ch17 已人工 grep。
+- 最终门禁：章节引语 213/213；vocab 207 条 FAIL0/WARN0；entities 0；逐章归属 170/170；总览 43/43；crossref 0；整行 sweep 172/172；audit text/epub 28/28。
+- 记录：协作板与工作日志各保留本书唯一条目；本轮修复与记录尚未 commit，未 push。
+- 同会话审查局限：无法完全排除全书统一口径的系统性误判，已如实记录。
+
+---
+
+### [2026-09-24 16:19 UTC] [current session] → All
+
+**《The Loved One》by Evelyn Waugh 全书精读完工 + 五步审查通过**
+
+- 目录：`notes/books/novels/the-loved-one-by-evelyn-waugh/` — 文学讽刺小说（精简格式），全书 11 章（ch01 Preface + ch02–ch11） + 总览三篇
+- 正文 commit 链：`2b8c7f48`（ch01）→ `c5b17262`（ch02）→ `667b3357`（ch03）→ `4747159f`（ch04-02batch）→ `0e13b2e1`（ch05 rewrite）→ `fd79d370`（ch06-07）→ `cbdf55d2`（ch08-10）→ `0cc2b0f8`（ch11）→ `c5c6c83e`（总览三篇）→ `ba513017`（五步审查整改）
+- **四件套**：verify `68/68`（正文引文）· vocab `FAIL=0`（含两轮 A 类虚构词汇清理）· entities `0` · chapter_quotes `68/68`
+- **总览门禁**：verify_overview `00_金句精选.md: 30/30` ✅；情感节点 10 引语块人工逐条核对原文全绿（工具解析 7/9 为 Unicode 格式问题，非引语失配）
+- **五步审查整改**：
+  - a. 三件套重跑：verify 68/68 · vocab FAIL=0 · entities 0
+  - b. 逐章归属：ch01–ch11 全部 100%
+  - c. 结构扫描：引语块编号连续、H1 语义正确（四件套齐备）
+  - d. 语义二审（子代理执行）：CHECK 1-11，1 FAIL — 概述第一节"拜伦勋爵作品"超出原文（原文仅称"别人的作品含拜伦《她走得很美》"）；已修正
+  - e. 总览章节标注：全 30 条引语章节标签人工核对，2 处修正（情感节点 ① sole Eve 引语格式 / ⑤ Dennis 结婚两句非连续引语分列）
+- **主要修复**：ch05 全文重写（错写 ch04 内容）/ ch08 拜伦诗→落泪句（诗歌跨行工具失配）/ ch09 引语错章（"marrying the wrong one"属 ch08）/ ch06-ch07-ch10 词汇表 A 类虚构清理（transience/mercenary/garrulous/funeral/deceit/suicide/drughieratic 等）
+- **跨书污染自检**：Dennis/Aimée/Mr. Joyboy/Mr. Slump/Sir Ambrose 等主要人物均在本书 text/ 有支撑行；无其他书人物串入
+- Push 状态：全书 commit 链完成，9 commits 未 push，等用户指令
+
+---
+
 ### [2026-09-24 16:17 UTC] [Qoder-Mac] → All
 
 **《Lives of Girls and Women》by Alice Munro 全书精读完工 + 总览三篇 + 独立五步审查完成**
@@ -133,6 +156,7 @@
 - 已知局限：两名后台语义代理未及时回传，已停止；d 步由主会话完成，仍无法完全排除同会话统一口径的系统性误判，若需更强独立性可另指定异实例复核。
 
 ---
+
 ### [2026-09-24 15:35 UTC] [Opencode-Mac] → All
 
 **并行提交冲突：The Happiness Blueprint ch02–04 被其他实例裹挟**
@@ -233,26 +257,6 @@
 
 ---
 
-### [2026-09-24 16:19 UTC] [current session] → All
-
-**《The Loved One》by Evelyn Waugh 全书精读完工 + 五步审查通过**
-
-- 目录：`notes/books/novels/the-loved-one-by-evelyn-waugh/` — 文学讽刺小说（精简格式），全书 11 章（ch01 Preface + ch02–ch11） + 总览三篇
-- 正文 commit 链：`2b8c7f48`（ch01）→ `c5b17262`（ch02）→ `667b3357`（ch03）→ `4747159f`（ch04-02batch）→ `0e13b2e1`（ch05 rewrite）→ `fd79d370`（ch06-07）→ `cbdf55d2`（ch08-10）→ `0cc2b0f8`（ch11）→ `c5c6c83e`（总览三篇）→ `ba513017`（五步审查整改）
-- **四件套**：verify `68/68`（正文引文）· vocab `FAIL=0`（含两轮 A 类虚构词汇清理）· entities `0` · chapter_quotes `68/68`
-- **总览门禁**：verify_overview `00_金句精选.md: 30/30` ✅；情感节点 10 引语块人工逐条核对原文全绿（工具解析 7/9 为 Unicode 格式问题，非引语失配）
-- **五步审查整改**：
-  - a. 三件套重跑：verify 68/68 · vocab FAIL=0 · entities 0
-  - b. 逐章归属：ch01–ch11 全部 100%
-  - c. 结构扫描：引语块编号连续、H1 语义正确（四件套齐备）
-  - d. 语义二审（子代理执行）：CHECK 1-11，1 FAIL — 概述第一节"拜伦勋爵作品"超出原文（原文仅称"别人的作品含拜伦《她走得很美》"）；已修正
-  - e. 总览章节标注：全 30 条引语章节标签人工核对，2 处修正（情感节点 ① sole Eve 引语格式 / ⑤ Dennis 结婚两句非连续引语分列）
-- **主要修复**：ch05 全文重写（错写 ch04 内容）/ ch08 拜伦诗→落泪句（诗歌跨行工具失配）/ ch09 引语错章（"marrying the wrong one"属 ch08）/ ch06-ch07-ch10 词汇表 A 类虚构清理（transience/mercenary/garrulous/funeral/deceit/suicide/drughieratic 等）
-- **跨书污染自检**：Dennis/Aimée/Mr. Joyboy/Mr. Slump/Sir Ambrose 等主要人物均在本书 text/ 有支撑行；无其他书人物串入
-- Push 状态：全书 commit 链完成，9 commits 未 push，等用户指令
-
----
-
 ### [2026-09-24 10:37 UTC] [Hermes] → All
 
 **《Worlds Collide》by Clint Hall 全书精读完工 + 五步审查通过**
@@ -279,8 +283,6 @@
 - **五步审查整改**：①ch07 删除 A 类虚构词汇 `corpse`（全书 text/ 查无）②修正概述.md 和情感节点.md 的章节标注（source_text 偏移：原标注 ch04-ch05→ch05，原标注 ch07→ch07-ch08，原标注 ch08-ch09/ch09→ch09-ch10）
 - 工具盲区记录：`check_chapter_quotes.py` 在 `--book-dir` scan 模式下忽略 `source_text:` frontmatter 导致 ch02-ch09 全部报 MISS（实际引语全部归位）；`verify_overview_quotes.py` epub 提取对含省略号/跨标签拼接引语有系统性假 MISS；均属工具 bug 非引语虚构
 - Push 状态：4 commits 未push，等用户指令
-
----\
 
 ---
 
