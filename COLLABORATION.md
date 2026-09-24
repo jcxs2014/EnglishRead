@@ -42,6 +42,19 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
+
+**《The Do-Over》by Suzanne Park 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/the-do-over-by-suzanne-park/`；正文 Chapter One–Thirty-Six + Epilogue 共 37 个阅读单元，另有 3 篇总览，共 40 个 md；`text/` 提取件 42 个，md 映射为 ch01→text/ch02、…、ch37→text/ch38。
+- 体裁：当代言情／情感小说长篇；每章导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结。
+- 提交链：`71f14593`（ch01–03）→ `c2f262e5`（ch04–06）→ `c07b9353`（ch07–09）→ `00c504ea`（ch10–12）→ `cce3e145`（ch13–15）→ `034b44ce`（ch16–18）→ `739053be`（ch19–21）→ `f7ae9af1`（ch22–24）→ `85c1f6f9`（ch25–27）→ `21b7133c`（ch28–30）→ `4ddeb7e5`（ch31–33）→ `110ad35f`（ch34–36）→ `466dca2f`（ch37 Epilogue）→ `bc038de3`（总览三篇）。
+- 最终门禁：章节 `verify_quotes 293/293`（37/37 文件）· `check_vocab 839 条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 293/293 in 本章 text`；总览 `verify_overview_quotes 45/45`（金句 25 + 情感节点 20；概述无编号引语）；三篇 H1 语义正确，`text/` vs epub 抽检 42/42。
+- `audit_book.py` 的 A/B/D 与 text/epub 对账通过；C 节对本书四子项言情格式报告“五子项缺失”为已知格式误报，未将其当作缺陷。
+- 状态：未 push；本书已完成本会话要求的四件套与总览门禁。**独立五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-24 17:45 UTC] [ZCode-Mac] → All
 
 **《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro 全书精读完工 + 五步审查完成**
@@ -167,6 +180,26 @@
 - e：`verify_overview` `00_金句精选.md: 24/24 ✅`；概述／金句／情感节点全量 45 条引语 grep `MISS=0`，章节标签 0 mismatch；已用原文窗口复核 ch01 的 Eddy／Jordan 归属及 ch05 结尾身份线索。
 - 修复清单：ch01 原句 4 说话人；ch02 删除 `news`；ch03 《Bleak House》与 `And just.` 边界；金句⑥⑦⑧⑪㉔及情感节点 2 的 Eddy／Jordan 归属。
 - 跨书污染自检：主要实体均在本书 `text/` 有支撑行；未发现把其他书人物／设定带入总览。
+
+---
+
+### [2026-09-24 14:50 UTC] [current session] → All
+
+**《The Loved One》by Evelyn Waugh 全书精读完工 + 五步审查通过**
+
+- 目录：`notes/books/novels/the-loved-one-by-evelyn-waugh/` — 文学讽刺小说（精简格式），全书 11 章（ch01 Preface + ch02–ch11） + 总览三篇
+- 正文 commit 链：`2b8c7f48`（ch01）→ `c5b17262`（ch02）→ `667b3357`（ch03）→ `4747159f`（ch04-02batch）→ `0e13b2e1`（ch05 rewrite）→ `fd79d370`（ch06-07）→ `cbdf55d2`（ch08-10）→ `0cc2b0f8`（ch11）→ `c5c6c83e`（总览三篇）→ `ba513017`（五步审查整改）
+- **四件套**：verify `68/68`（正文引文）· vocab `FAIL=0`（含两轮 A 类虚构词汇清理）· entities `0` · chapter_quotes `68/68`
+- **总览门禁**：verify_overview `00_金句精选.md: 30/30` ✅；情感节点 10 引语块人工逐条核对原文全绿（工具解析 7/9 为 Unicode 格式问题，非引语失配）
+- **五步审查整改**：
+  - a. 三件套重跑：verify 68/68 · vocab FAIL=0 · entities 0
+  - b. 逐章归属：ch01–ch11 全部 100%
+  - c. 结构扫描：引语块编号连续、H1 语义正确（四件套齐备）
+  - d. 语义二审（子代理执行）：CHECK 1-11，1 FAIL — 概述第一节"拜伦勋爵作品"超出原文（原文仅称"别人的作品含拜伦《她走得很美》"）；已修正
+  - e. 总览章节标注：全 30 条引语章节标签人工核对，2 处修正（情感节点 ① sole Eve 引语格式 / ⑤ Dennis 结婚两句非连续引语分列）
+- **主要修复**：ch05 全文重写（错写 ch04 内容）/ ch08 拜伦诗→落泪句（诗歌跨行工具失配）/ ch09 引语错章（"marrying the wrong one"属 ch08）/ ch06-ch07-ch10 词汇表 A 类虚构清理（transience/mercenary/garrulous/funeral/deceit/suicide/drughieratic 等）
+- **跨书污染自检**：Dennis/Aimée/Mr. Joyboy/Mr. Slump/Sir Ambrose 等主要人物均在本书 text/ 有支撑行；无其他书人物串入
+- Push 状态：全书 commit 链完成，9 commits 未 push，等用户指令
 
 ---
 
