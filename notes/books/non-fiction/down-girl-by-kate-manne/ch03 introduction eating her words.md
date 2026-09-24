@@ -277,7 +277,7 @@ source_text: ch03_introduction eating her words.txt
 | thick | 厚的（thick concepts：道德"厚"概念） | "ascribing to them more elaborate, or ‘thick,’ moral-cum-political qualities" |
 | juridical | 司法的（juridical moral notions：司法性道德观念） | "trying to fight misogyny primarily using juridical moral notions" |
 | disincentives | 抑制因素（使人不想做某事的力量） | "via incentives and disincentives, positive and negative reinforcement mechanisms" |
-| prescriptive | 规定的（prescriptive claims：规定性主张） | "claims that advance prescriptions ... are the bases for giving commands" |
+| prescriptive | 规定的（prescriptive claims：规定性主张） | "claims that advance prescriptions (or, on the negative side of the same coin, issue prohibitions) are the bases for giving commands" |
 | evaluative | 评价的（evaluative claims：评价性主张） | "The former are claims about the goodness or badness of certain states of affairs" |
 | enterprising | 有进取心的（此处与 opportunistic 并列，指"钻营"） | "its mechanisms and methods are so opportunistic—or enterprising" |
 | nonappearance | 不出现（本节小节名：受害者的缺席与无声） | "NONAPPEARANCE" |
@@ -296,19 +296,19 @@ source_text: ch03_introduction eating her words.txt
 | liable | 易于、有责任的（be liable to encounter hostility） | "social environments in which women are liable to encounter hostility" |
 | uphold | 维护、支撑（uphold patriarchal order） | "Misogyny does this by visiting hostile or adverse social consequences" |
 | subordination | 从属（women’s subordination：女性的从属地位） | "Misogyny hence functions to enforce and police women’s subordination" |
-| epistemically | 在认知层面（epistemically accessible：认知上可及） | "misogyny as a relatively unmysterious, and epistemically accessible, phenomenon" |
+| epistemologically | 在认识论层面（epistemologically accessible：认识论上可及） | "misogyny as a relatively unmysterious, and epistemologically accessible, phenomenon" |
 | territory | 领地（trespassing on his territory：侵入他的领地） | "are trespassing on his territory" |
 | strangle | 勒颈（strangulation：勒颈） | "paradigmatic of misogyny, according to the account of it I develop" |
 | vulnerability | 脆弱性（vulnerable population：脆弱群体） | "against the backdrop of other intersecting systems of oppression and vulnerability" |
 | disproportionately | 不成比例地（disproportionately vulnerable：不成比例地脆弱） | "although children and infants are also disproportionately vulnerable" |
 | homicide | 杀人（attempted homicide：杀人未遂） | "seven times more likely to become the victim of an attempted homicide" |
-| stipulated / stipulate | 规定（stipulate what will be believed：规定什么将被相信） | "issuing pronouncements that simply stipulate what will be believed" |
+| stipulate | 规定（stipulate what will be believed：规定什么将被相信） | "issuing pronouncements that simply stipulate what will be believed" |
 | dominant | 占主导地位的（male dominance：男性支配） | "to uphold male dominance, against the backdrop of other intersecting systems" |
 | enforce | 强制执行（enforcement：规范执行机制） | "Misogyny hence functions to enforce and police women’s subordination" |
 | harassment | 骚扰、欺凌 | "given the prevalence of transphobic and transmisogynistic violence, harassment" |
 | testified | 作证 | "his ex-wife had testified to his raping her" |
 | maintained | 坚称（此处 "vehemently maintained"：激烈地坚持） | "after Cohen had vehemently maintained" |
-| alleged / allegations | 指控（此处复数：翻供与否认） | "Ivana now denies her previous account (and sworn testimony during divorce proceedings) vehemently enough" |
+| allegations | 指控（复数：翻供与否认） | "Ivana now denies her previous account (and sworn testimony during divorce proceedings) vehemently enough" |
 
 ### ⭐ 基础
 

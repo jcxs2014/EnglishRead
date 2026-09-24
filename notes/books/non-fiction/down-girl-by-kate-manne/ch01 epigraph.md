@@ -154,7 +154,7 @@ source_text: ch01_epigraph.txt
 | small occasion | 小小的缘由、轻微的刺激 | "for small occasion will cause them to be angry" |
 | logician | 逻辑学家 | "We shall make a great logician of you yet" |
 | mantel | 壁炉架 | "[Puts milk on the mantel.]" |
-| choke / [Choked.] | 哽咽（舞台指示） | "MRS. MANNINGHAM. [Choked.]" |
+| [Choked.] | 哽咽（舞台指示；choke 的过去分词形式） | "MRS. MANNINGHAM. [Choked.] You said you would lock me up." |
 | lock me up | 把我锁起来 | "You said you would lock me up" |
 | showeth | 表明（古语动词） | "that their froward [difficult] nature showeth" |
 | say / saith | 说（古语） | "He also saith that they were made of the rib of a man" |

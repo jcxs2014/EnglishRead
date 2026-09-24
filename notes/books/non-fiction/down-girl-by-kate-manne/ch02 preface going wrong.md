@@ -191,7 +191,7 @@ source_text: ch02_preface going wrong.txt
 | resentment | 怨恨（resentment，reactive attitudes 之一） | "the reactive attitudes," such as resentment, blame, indignation, condemnation |
 | remonstrate | （正式）劝诫、抗议（with someone about something） | "who we are willing and able to remonstrate with regarding their behavior" |
 | vestige | 遗迹、遗留（a vestige of history：历史的遗留） | "exaggerated, unjust, and a vestige of history" |
-| obviate | 排除、使之成为不必要 | "this seemed obviated by the fact that there wasn't a single book" |
+| obviated | 排除、使成为不必要（obviate 的过去分词） | "this seemed obviated by the fact that there wasn't a single book" |
 | ignominy | 耻辱（the ignominy of shame） | "protect him from the ignominy of shame" |
 | corrosive | 腐蚀性的（the corrosive effects of guilt） | "the ignominy of shame and the corrosive effects of guilt" |
 | paucity | 缺乏（the paucity of such constraints：约束的匮乏） | "the paucity of such constraints and the presence of such entitlements" |
