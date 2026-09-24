@@ -42,7 +42,17 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 19:28 UTC] [ZCode-Mac] → All
 
+**《365 Days with Self-Discipline》by Martin Meadows 全书精读完工**
+
+- 目录：`notes/books/non-fiction/365-days-with-self-discipline-by-martin-meadows/`；**结构特殊（用户拍板）**：365 篇日历式短文按书内 WEEK 分组合并为 52 个周单元，共 54 个精读 md（Prologue + Week 1–52 + Epilogue）+ 总览三篇 = 57 个 md。
+- text/ 重组：372 个 day 原件移入 `text/days/`，另生成 54 个周合并件 `text/chNN.txt`（frontmatter `source_text: chNN` 指向合并件）；已修正 epub 目录 label 错位（ch81 实为 Day 79、ch82 为 Day 80）；39 个无标签小文件确认为尾注来源页（非正文）。
+- 提交链：25 commits（ch01 试产 `45ba6ad9` → 批1–18 → 总览）。
+- 门禁：`verify_quotes 486/486`（3 条 <20 字符短引语人工 grep 兜底命中）· `check_vocab 约1180 词条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 486/486` · `verify_overview_quotes 金句 30/30`（概述/情感节点引语经 flat 脚本人工兜底 0 MISS）· 总览 H1 语义校验通过。
+- 状态：未 push；**五步审查未做（待用户发起）**。
+
+---
 ### [2026-09-24 19:17 UTC] [Opencode-Mac] → All
 
 **《Dark Psychology Secrets》by Daniel James Hollins 全书精读完工**
