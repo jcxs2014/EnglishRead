@@ -60,7 +60,7 @@ modified: "2026-09-24"
 
 **中文理解**：她是个懦夫，假装转动门把手会释放出一个由婴儿牙和裸露指骨组成的生物，它会切割、刮擦、咬到她流血。
 
-**关键词**：cowboy / milk teeth / bare finger bones
+**关键词**：coward / milk teeth / bare finger bones
 
 **为什么这样写**：Elodie 对进入 Jude 房间的恐惧被恐怖化（milk teeth 和 finger bones 是婴儿和死亡混合的意象）。"creature"揭示她对 Jude 状态的潜意识理解：他已经不再是一个普通的孩子，而是一个潜在的威胁。"coward"是她的自我批评——她应该能够进入自己孩子的房间，而她害怕。乳牙暗示 Jude 的幼小与他伤害她的能力之间的反差。
 
