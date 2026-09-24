@@ -173,7 +173,7 @@ source_text: ch09
 | self-limitation | 自我限制 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
 | self-indulgence | 自我放纵 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
 | creative energy | 创造性能量 | Human hope will be harvested like a resource, a never-ending reservoir of creative energy. |
-| nothing | 无 | Perhaps then, we will not only realize but finally embrace the Uncomfortable Truth: that we imagined our own importance, we invented our purpose, and we were, and still are, nothing. |
+| artificial crises | 人为危机 | The AI, realizing that the productive energies of humanity emerge only through conflict, will generate endless series of artificial crises in a safe virtual realm |
 
 ### ⭐⭐ 进阶
 
@@ -188,22 +188,22 @@ source_text: ch09
 | power | 权力 | Evolution rewards the most powerful creatures, and power is determined by the ability to access, harness, and manipulate information effectively. |
 | social institutions | 社会制度 | I dare to hope for a post-hope world, where people are never treated merely as means but always as ends |
 | business models | 商业模式 | I dare to hope for a post-hope world, where people are never treated merely as means but always as ends |
-| commitment | 承诺 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
+| superstitions | 迷信 | We will develop superstitions about the algorithms. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | gods | 诸神 | The old gods will be replaced by the new gods: the algorithms. |
-| algorithm | 算法 | The old gods will be replaced by the new gods: the algorithms. |
 | values | 价值 | Consciousness itself is a vast network of algorithms and decision trees—algorithms based on values and knowledge and hope. |
-| knowledge | 知识 | Consciousness itself is a vast network of algorithms and decision trees—algorithms based on values and knowledge and hope. |
 | hope | 希望 | Consciousness itself is a vast network of algorithms and decision trees—algorithms based on values and knowledge and hope. |
 | technology | 技术 | The only way to do that is to adapt our technology for our flawed psychology rather than to exploit it. |
 | people | 人们 | I dare to hope for a post-hope world, where people are never treated merely as means but always as ends |
 | world | 世界 | I dare to hope for a post-hope world, where people are never treated merely as means but always as ends |
 | freedom | 自由 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
 | better | 更好的 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
+| algorithms | 算法 | The old gods will be replaced by the new gods: the algorithms. |
+| nothing | 无 | Perhaps then, we will not only realize but finally embrace the Uncomfortable Truth: that we imagined our own importance, we invented our purpose, and we were, and still are, nothing. |
 
 ## 一句话总结
 
