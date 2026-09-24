@@ -194,6 +194,7 @@ source_text: ch02
 | motivators | 动因；激励因素 | your behavior signals that you have weak motivators |
 | sustainable | 可持续的 | I would have accomplished my goals more quickly by taking a more sustainable approach that would take me a year or two to reach my goal |
 | endeavors | 事业；努力 | you also need self-discipline to maintain a long-term focus in all of your endeavors |
+| meditative | 冥想的 | The more often you put yourself in a meditative state, the calmer you'll become in everyday situations. |
 
 ### ⭐ 基础
 
@@ -204,7 +205,6 @@ source_text: ch02
 | physique | 体格；身形 | I wanted to build a well-defined physique as quickly as possible. |
 | caloric | 热量的 | I frequently reduced my daily caloric intake to levels that were impossible to maintain over the long term. |
 | deluding | 自欺；蒙骗 | I spent several long years starting one business after another, deluding myself that it was possible to build a six-figure business in a few months. |
-| meditative | 冥想的 | The more often you put yourself in a meditative state, the calmer you'll become in everyday situations. |
 
 ## 一句话总结
 
