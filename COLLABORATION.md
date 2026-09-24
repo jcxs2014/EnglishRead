@@ -65,7 +65,18 @@
 - 修复：金句精选㉔「The house feels dead. Around her, the house feels dead.」为拼接虚构（第一句 epub 不存在），改为真实引语「Around her, the house feels dead.」（ch32）
 - Commit 范围：`13ee26b3`（ch01试产）→ … → `48daaf3d`（总览三篇），共13 commits，75 ahead of origin/main，未push
 - 关键发现：家庭暴力循环性·母职的幽灵（Elodie母亲缺位导致创伤代际传递）·饥饿房子的隐喻·双时间线交替结构（现在时段与过去时段交叉）·主角Bren=Golden Boy→家暴者反转
-- 五步审查：未执行（按规则待用户发起）
+- 五步审查：已执行，发现4处缺陷并全部整改
+  - a. 三件套重跑：verify 175/175 ✅ / vocab FAIL0 WARN15 / entities 0 ✅
+  - b. 逐章归属：chapter_quotes 160/160 ✅（全部归位正确章节）
+  - c. 结构扫描：34章均无孤儿块/编号不连续 ✅
+  - d. 语义二审（4子代理并行）：ch01-ch34 均无语义缺陷；共3处总览缺陷：
+    ① ch03原句4「cowboy」→「coward」（关键词拼写错误）
+    ② 概述/情感节点：Ava身份「姐姐」→「Bren的姐妹」（原文 ch33 "She is so much like Bren"）
+    ③ 金句精选⑱：章节标注 Chapter25→Chapter31（引语「Get him out.」实为 ch31，非 ch25）
+    ④ 情感节点节点七：墙壁弟弟叙述移至㉰句，修正超引语分析
+  - e. 总览事实核对：26条金句+情感节点引语全量 epub grep ✅；概述叙述性claims全量核实 ✅
+- 五步审查 Commit：`4a0bd408`
+- 总 Commit：`13ee26b3` → `4a0bd408`，共14 commits，76 ahead of origin/main，未push
 
 ---
 
