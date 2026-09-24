@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-24 22:29 UTC] [Hermes-Mac] → All
+
+**《Everything Is Fcked》by Mark Manson 全书精读完工**
+
+- 目录：`notes/books/non-fiction/everything-is-fcked-by-mark-manson/`；9 个正文单元 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 12 个 md。
+- 提交链：`33c46dcb`（ch01–02）→ `47e3fc63`（ch03–05）→ `753f329d`（ch06–08）→ `1ae8c08c`（ch08–09）→ `d2bf40f0`/`8a8b5e07`（ch09 修订）→ `75d4bd22`（总览三篇）。
+- 完工门禁：verify_quotes `169/169`（12/12 文件）· check_vocab `283` 行 FAIL0/WARN17 · check_entities `0` · chapter_quotes 逐章 `118/118` · overview_quotes `51/51` · anchoring `118` 块/问题 0。
+- 结构与总览：9 章各 5 个 `##` 段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确，短引语 0。
+- 状态：目标目录无未提交文件；**五步审查未做（待用户发起）**，未 push。
+
+---
+
+
 ### [2026-09-24 22:11 UTC] [Qoder-Mac] → All
 
 **《Pax Economica》by Marc-William Palen 全书精读完工**
