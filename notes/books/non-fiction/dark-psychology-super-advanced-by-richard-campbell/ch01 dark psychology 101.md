@@ -34,7 +34,7 @@ source_text: ch01
 
 1. 作者从“婴儿会为满足需求而哭泣”直接推到“操控由此开始”，中间缺少发展心理学证据；本章承认遗传与养育共同作用，却仍把早期反应写成了较确定的因果起点。
 2. “捕食者”“魅力型操控者”和“控制狂”都是宽泛的日常标签，不是明确的临床诊断标准；若直接据此判断身边的人，可能把复杂、偶发的行为过度归类。
-3. 本章提到人格障碍与控制行为的关系，但没有在正文中提供诊断依据或区分控制欲、人格障碍和普通压力的边界。读者更适合把这些特征当作观察假设，而不是给人下定论的证据。
+3. 本章给出了人格障碍的通俗定义，并提到持续、深植的行为模式与偶尔状态不佳之间的区别；但这不是正式临床诊断标准，正文也没有充分区分一般控制欲、人格障碍与普通压力。读者更适合把这些特征当作观察假设，而不是给人下定论的证据。
 
 ## 选择性精读
 
@@ -56,7 +56,7 @@ source_text: ch01
 
 **中文理解**：在我们的存在最深处，我们是以自我为中心的生命。
 
-**句子结构**：At the very core of our being 是介词短语，修饰主语 we；“we are selfish beings”用系表结构把人类描述为 selfish beings。
+**句子结构**：At the very core of our being 是表示所处层面的介词短语，作地点或范围状语；“we are selfish beings”用系表结构把人类描述为 selfish beings。
 
 **关键词**：at the very core / selfish beings
 
@@ -96,7 +96,7 @@ source_text: ch01
 
 > **原句 5:** "A group of corporations setting up industries in a residential area occupied by poorer residents is an example of intergroup predation."
 
-**中文理解**：一组企业在 poorer residents 居住的住宅区设立工业设施，就是群体间捕食的一个例子。
+**中文理解**：一组企业在较贫困居民居住的住宅区设立工业设施，就是群体间捕食的一个例子。
 
 **句子结构**：主语是 A group of corporations，后面的现在分词短语 setting up industries 修饰企业，occupied by poorer residents 修饰 residential area；is an example of 引出类别判断。句子较长，但核心是主语与例证标签的对应。
 
@@ -112,7 +112,7 @@ source_text: ch01
 
 **中文理解**：最有效率的捕食者往往也极其迷人。
 
-**句子结构**：主语是 The most efficient predators，also 连接两个并列的极端形容词：extremely 和 charming。句子没有展开原因，结论先行，形成醒目的断言。
+**句子结构**：主语是 The most efficient predators，系表结构为 are also extremely charming；extremely 是修饰 charming 的程度副词，also 表示“同时也”。
 
 **关键词**：most efficient predators / extremely charming
 
@@ -154,7 +154,7 @@ source_text: ch01
 
 **中文理解**：把别人身上的过错推到聚光灯下，是转移对自己不当行为关注的一种最好方式。
 
-**句子结构**：主句骨架是 One of the best ways to do A is to do B；A 是 deflect attention from your wrongdoings，B 是 turn the spotlight onto another person’s wrongdoings。两个 your wrongdoings 与 another person’s wrongdoings 形成对照。
+**句子结构**：主句骨架是“做 A 的最佳方式之一就是做 B”；A 是 deflect attention from your wrongdoings，B 是 turn the spotlight onto another person’s wrongdoings。your wrongdoings 与 another person’s wrongdoings 形成对照。
 
 **关键词**：deflect attention / turn the spotlight / another person’s wrongdoings
 
@@ -209,7 +209,6 @@ source_text: ch01
 | baby | 婴儿 | For instance, a baby is born with the ability to cry in order to get their needs met by another person. |
 | harm | 伤害；损害 | Dark psychology acknowledges that not everyone is a nice person, however inclined you may be to think so, and then tries to answer why that may be the case. |
 | genetics | 遗传；遗传因素 | While parents contribute to the development of manipulative behavior by virtue of genetics and the kind of nurturing, or lack thereof, provided to offspring, there are other factors at play. |
-| mask | 面具；伪装的外表 | Once this mask comes off, you will be in a whole lot of trouble. |
 | mask | 面具；伪装的外表 | Once this mask comes off, you will be in a whole lot of trouble. |
 | sharks | 鲨鱼 | Predators are like sharks--one drop of blood and they are all over you like white on rice. |
 | time | 时间；利用时间的策略 | The third way to defend yourself against predators is by using time to your advantage. |

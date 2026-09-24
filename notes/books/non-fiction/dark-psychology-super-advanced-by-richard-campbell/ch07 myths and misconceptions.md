@@ -99,7 +99,7 @@ source_text: ch07
 
 **中文理解**：谋杀只是作者笔下的 psychopaths 满足其寻求刺激欲望的方式之一。
 
-**句子结构**：Murder 是句首主题；is one of the ways 是系表结构；through which psychopaths quench their desire for the thrill 是修饰 ways 的关系从句，其中 quench 是谓语，desire for the thrill 是欲望的对象。
+**句子结构**：Murder 是句首主题；is just one of the ways 是系表结构；through which psychopaths quench their desire for the thrill 是修饰 ways 的关系从句，其中 quench 是谓语，desire for the thrill 是欲望的对象。
 
 **关键词**：Murder / one of the ways / quench / desire for the thrill
 
@@ -133,7 +133,7 @@ source_text: ch07
 
 **表达方式**：love-bombing 用复合隐喻把强烈关注和情感冲击写成“轰炸”，而 perfect match 与 all along 共同制造一种命中注定般的前景。have a way of 让表达略带口语感，但没有削弱后文对关系操控的警告。
 
-**为什么这样写**：这句解释了为什么某些关系初期可能显得异常契合，也把“爱情可以改变一个人”的期待放在行为机制中审视。它适合帮助读者观察持续的理想化和忽冷忽热模式，但不能凭一句 love-bombing 就给伴侣下心理诊断。
+**为什么这样写**：这句解释了为什么某些关系初期可能显得异常契合，也把“爱情可以改变一个人”的期待放在行为机制中审视。它适合帮助读者观察关系初期的理想化，以及之后真实面目显露的风险，但不能仅凭一句 love-bombing 就给伴侣下心理诊断。
 
 ---
 

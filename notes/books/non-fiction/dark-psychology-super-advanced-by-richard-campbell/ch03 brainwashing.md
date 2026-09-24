@@ -25,7 +25,7 @@ source_text: ch03
 | 三种社会影响路径：遵从、说服、宣传或教育 | 分类框架 | 说明洗脑的力量来自不同影响方式的叠加，而不是单一命令 |
 | 十步被组织为瓦解、给出救赎、重建三个阶段 | 过程框架 | 把长期改变拆成可观察的阶段，并解释为何过程需要持续输入 |
 | 攻击身份或自我、持续注入怀疑会使人变得脆弱 | 心理机制 | 支撑“第一步为何先动摇身份”的论证 |
-| 罪名、羞耻、忏悔、释放罪疚与重生的链条 | 过程案例 | 说明内疚如何被引导到新的信念系统 |
+| 罪疚、羞耻、忏悔、释放罪疚与重生的链条 | 过程案例 | 说明内疚如何被引导到新的信念系统 |
 | 十步模型被归于 Robert Jay Lifton，正文提到其对战俘经历的访谈 | 研究出处 | 为模型提供历史来源，但本章没有展开访谈证据或适用边界 |
 
 **论证脉络**：定义洗脑及其持续性 → 区分三种社会影响路径 → 解释三种路径的叠加 → 展开十步与三阶段 → 讨论身份、支持系统和群体压力等易感条件 → 提出警觉、核查来源、重视支持系统和独立判断等防御方法。
@@ -126,7 +126,7 @@ source_text: ch03
 
 **中文理解**：当你不知道自己是谁时，你很容易相信别人灌输给你的、关于你自己的每一个谎言。
 
-**句子结构**：When you are unsure of who you are 是时间／条件状语从句，主句是 it can be very easy to believe every lie；that you are fed about yourself 是修饰 lie 的省略结构，fed 在这里表达“被喂给、被灌输给”。
+**句子结构**：When you are unsure of who you are 是时间／条件状语从句，主句是 it can be very easy to believe every lie；that you are fed about yourself 是修饰 lie 的被动关系从句，fed 后省略了宾语，原文这一表达本身不够规范。
 
 **关键词**：unsure of who you are / believe every lie / fed about yourself
 
@@ -152,9 +152,9 @@ source_text: ch03
 
 > **原句 9:** "This olive branch serves to show the target that there is some leniency to benefit from if they are on the manipulator’s good side."
 
-**中文理解**：这根橄榄枝向目标表明：如果站在操控者受欢迎的一边，就能得到某种可以享受的宽待。
+**中文理解**：这根橄榄枝是在告诉目标：只要站在操控者这边、得到他的好感，就能得到某种宽待或优待。
 
-**句子结构**：主语是 This olive branch，谓语是 serves to show，宾语是 the target，后面接 that 内容从句；if they are on the manipulator’s good side 是条件状语从句，some leniency to benefit from 是介词 to 连接的受益对象。
+**句子结构**：主语是 This olive branch，谓语是 serves to show，宾语是 the target，后面接 that 内容从句；if they are on the manipulator’s good side 是条件状语从句，some leniency to benefit from 是表示“可以从中获益的某种宽待”的不定式修饰结构，to 是不定式符号，from 属于 benefit from 短语动词。
 
 **关键词**：olive branch / leniency / manipulator’s good side
 

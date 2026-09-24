@@ -155,11 +155,11 @@ source_text: ch09
 
 **中文理解**：本书要求你对捕食者保持戒备，与此同时也保证你偶尔可以放下戒备。
 
-**句子结构**：As much as 引导的部分说明本书在防范捕食者方面的要求，it is also an assurance that... 是主句，that 从句用 you can let your hair down 表达放松的可能。
+**句子结构**：As much as 引导的部分说明本书在防范捕食者方面的要求，it is also an assurance that... 是主句，that 从句用 your guard to be up 与 you can let your hair down 形成张弛对照。
 
 **关键词**：As much as / your guard to be up / an assurance / let your hair down
 
-**表达方式**：guard be up 与 let your hair down 都借身体姿态作隐喻；it is also 进一步把“保持戒备”和“可以放松”放进同一句，形成张弛对照。
+**表达方式**：your guard to be up 与 let your hair down 都借身体姿态作隐喻；it is also 进一步把“保持戒备”和“可以放松”放进同一句，形成张弛对照。
 
 **为什么这样写**：这句是全章最完整的情绪平衡：警觉要持续存在，紧张状态却不必永久存在。它也把本书从“猜疑所有人”重新拉回有节制的自我保护。
 

@@ -71,7 +71,7 @@ source_text: ch04
 
 **中文理解**：当你全神贯注地沉浸在书中时，作者说你实际上已经处于被催眠的状态。
 
-**句子结构**：While 引导的时间／让步状语从句描述背景，主句 you were essentially hypnotized 给出判断；be fully absorbed in 是 that state of being 的补充结构。
+**句子结构**：While 引导时间状语从句描述背景，主句 you were essentially hypnotized 给出判断；being fully absorbed in your book 是 that state of being 的补充结构。
 
 **关键词**：that state of being / fully absorbed / essentially hypnotized
 
@@ -83,13 +83,13 @@ source_text: ch04
 
 > **原句 4:** "When an audience is in this state, they are more agreeable and likely to sign up for whatever it is that you are offering."
 
-**中文理解**：当听众处于这种状态时，他们会更容易顺从，也更可能报名接受演讲者提供的内容。
+**中文理解**：当听众处于这种状态时，他们会更愿意配合，也更可能报名接受演讲者提供的内容。
 
-**句子结构**：When 引导的条件状语从句在前，they are more agreeable and likely to sign up... 在后给出结果；more 与 likely 并列，说明两个可比较的倾向。
+**句子结构**：When 引导条件状语从句；主句 they are more agreeable and likely to sign up... 给出结果；more 修饰 agreeable，likely to sign up... 是与比较级描述并列的第二个成分。
 
 **关键词**：audience / agreeable / likely / sign up
 
-**表达方式**：作者用 more 和 likely 形成双重弱化，没有断言每个人都会服从，而是把效果写成概率更高的行为倾向。
+**表达方式**：more 表示 agreeable 程度提高，likely 表示行为可能性；整体把效果写成倾向而非必然结果。
 
 **为什么这样写**：这句话承接前文关于冗长演讲与研讨的描述，用来支持“注意力下降会提高说服接受度”的论证；不过，本章没有提供受众实验数据，因此这里更适合作为作者的情境化推论，而不是已经成立的普遍规律。
 
@@ -113,7 +113,7 @@ source_text: ch04
 
 **中文理解**：作者把催眠称作一种微妙的操纵工具，并认为它不会留下证据。
 
-**句子结构**：主句框架是 A good thing about X is that Y；X 是带 as a tool of manipulation 后置修饰的 hypnosis，that 从句用 and 连接 subtle 与 leaves behind no evidence 两个并列谓语。
+**句子结构**：主句框架是“X 的好处是 Y”；X 是带 as a tool of manipulation 后置修饰的 hypnosis，that 从句包含系表结构 it is subtle 和动词短语 leaves behind no evidence，两个成分并列描述这一工具的特点。
 
 **关键词**：hypnosis / tool of manipulation / subtle / leaves behind no evidence
 
@@ -159,7 +159,7 @@ source_text: ch04
 
 **关键词**：principles / conscious decisions / influenced / actions or words
 
-**表达方式**：作者先把建议压缩成 one or two，再用 not influenced by... 说明目标；原则的复数和行为的单数形成数量对照，强调少数稳定标准胜过随波逐流。
+**表达方式**：作者先用 one or two 把原则数量压低，再用 not influenced by... 明确其作用是让决定少受他人言行影响；这里形成的是“少量原则”与“持续作出的决定”之间的对照。
 
 **为什么这样写**：论述在此从影响机制转向个人防御，把抽象的“保持意识”转成事前建立判断标准的做法；这比只要求“提高警惕”更具体，但原则仍需与证据、情境和伦理边界结合，不能取代独立判断。
 
@@ -169,7 +169,7 @@ source_text: ch04
 
 **中文理解**：作者把催眠治疗定义为一种心理控制，不过接受控制的人已经同意临床心理学家这样做。
 
-**句子结构**：主句是 Hypnotherapy is essentially mind control；where 引导的地点／关系从句从句补充这种 mind control 的执行者，并强调受控者已向 clinical psychologist 给出 consent。
+**句子结构**：主句是 Hypnotherapy is essentially mind control；where 引导关系从句，补充受控者已经向 clinical psychologist 同意这一事实及其情境。
 
 **关键词**：Hypnotherapy / mind control / consent / clinical psychologist
 

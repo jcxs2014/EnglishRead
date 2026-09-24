@@ -43,7 +43,7 @@ source_text: ch08
 
 **中文理解**：作者认为，仅阅读黑暗三联人格所体现的特征还不够，也必须承认这些人物有名字，并且生活在我们这个时代或过去。
 
-**句子结构**：前半是 It is not enough to read about...；后半是 it must also be acknowledged that...，其中 it 是形式主语，must be acknowledged 是被动结构，that 从句说明需要承认的内容。两个分号连接的句子从“只读特征”推进到“还要看具体人物”。
+**句子结构**：前半是 It is not enough to read about...；后半是 it must also be acknowledged that...，其中 it 是形式主语，must also be acknowledged 是被动结构，that 从句说明需要承认的内容。两个分号连接的句子从“只读特征”推进到“还要看具体人物”。
 
 **关键词**：dark triad / traits / personalities / names / lived among us
 
@@ -169,11 +169,11 @@ source_text: ch08
 
 **中文理解**：作者认为，要根据孩子身上存在的障碍性质来判断，可能需要专业介入。
 
-**句子结构**：Depending on the nature of... 是现在分词短语，修饰后面的判断；the nature of the disorder that is present in the child 中，that is present in the child 修饰 disorder；主句是 there might be a need for...，might 保留了可能性。
+**句子结构**：Depending on the nature of... 是现在分词短语，修饰后面的判断；the nature of the disorder that is present in the child 中，that is present in the child 修饰 disorder；主句表达可能需要外部帮助，might 保留了可能性。
 
 **关键词**：Depending on the nature / disorder / present in the child / might / professional intervention
 
-**表达方式**：Depending on... 让建议保留条件性，might 又避免把介入说成必然结果。there be a need for... 采用非人称结构，把重点放在“是否需要帮助”，而不是放在某个具体人物身上。
+**表达方式**：Depending on... 让建议保留条件性，might 又避免把介入说成必然结果。主句采用非人称结构，把重点放在“是否需要帮助”，而不是放在某个具体人物身上。
 
 **为什么这样写**：它把儿童管理从父母的即时判断转向专业支持，承认家庭观察的局限。作者在本章没有展开具体的评估流程，所以这里的结论应理解为求助方向，而不是自行诊断或自行制定治疗方案。
 

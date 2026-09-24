@@ -26,7 +26,7 @@ source_text: ch06
 | 偏好逻辑的人可能更重视事实与统计数字，而骗子也会利用这些材料 | 机制假设与观察 | 支撑“聪明不等于不易受骗”的反直觉判断 |
 | 外部认可需求、孤独、情绪化、社交孤立与缺乏学习被并列为风险因素 | 分类归纳 | 支撑防御应同时覆盖情绪、关系与知识层面 |
 | 老人遭遇情感诈骗的情节与“独行者更易被盯上”的类比 | 情境案例与类比 | 支撑保留家人朋友作为缓冲层的建议 |
-| 身份背景核实、比较言行、观察三次失信与听取直觉 | 观察规则与行动建议 | 把抽象警惕转成可执行的核验习惯 |
+| 身份背景核实、比较言行、观察三次异常、失约或言行不一致的场合与听取直觉 | 观察规则与行动建议 | 把抽象警惕转成可执行的核验习惯 |
 
 **论证脉络**：先把所有人置于潜在受骗位置 → 区分防御目的与伤害目的 → 扩展“脆弱性”的范围 → 列举认知、情绪、关系与学习四类风险 → 用诈骗场景和独行者类比说明社会支持的作用 → 给出背景核实、行为核验与重复模式观察等防线 → 落回到“保护自己优先于赢过对方”。
 
@@ -56,7 +56,7 @@ source_text: ch06
 
 **中文理解**：相反，本书的主要目的，是帮助你认出各种形式的操纵，并在必要时扭转被动局面以保护自己。
 
-**句子结构**：Rather 承接前文作方向修正；主句核心是 the main objective is to help you recognize...；recognize 与 to turn the tables 在 help you 后并列，if need be 插入第二个不定式之前。
+**句子结构**：Rather 承接前文作方向修正；主句核心是 the main objective is to help you recognize...；help you 后先接 recognize，再接 to turn the tables，原文两项在不定式形式上并不完全平行，但都服务于保护自己的目的。
 
 **关键词**：main objective / recognize manipulation / turn the tables / protect yourself
 
@@ -110,7 +110,7 @@ source_text: ch06
 
 > **原句 6:** "Even when you are certain that you are in love and your partner is the best thing that happened to you, there will be that one person in your circle whose critical thinking has not been impaired by the passion of a new relationship."
 
-**中文理解**：即使你确信自己深爱对方，也确信伴侣是生命中发生过的美好事情，你的交往圈里仍会有一个没有因新关系而失去批判性判断的人。
+**中文理解**：即使你确信自己深爱对方，也确信伴侣是你生命中最美好的事情，你的交往圈里仍会有一个没有因新关系而失去批判性判断的人。
 
 **句子结构**：Even when 引导让步状语从句，其中 and 连接两个并列判断；主句是 there will be that one person...，whose 关系从句说明这个人的特征，has not been impaired 为被动结构。
 
@@ -118,7 +118,7 @@ source_text: ch06
 
 **表达方式**：作者先叠加爱情中的强烈确信，再安排一个“未被激情削弱判断”的对照人物，使社会支持被写成认知缓冲层。
 
-**为什么这样写**：这句把“找人商量”从情感安慰提升为判断校正机制，适合用于关系与重大财务决定。不过，“一定会有这样一个人”是强断言；现实中应优先选择安全、可靠、尊重边界且能提供不同意见的支持者，而不是机械期待某个人自动发挥功能。
+**为什么这样写**：这句把“找人商量”从情感安慰提升为判断校正机制，适合用于关系中的重要决定。不过，“一定会有这样一个人”是强断言；现实中应优先选择安全、可靠、尊重边界且能提供不同意见的支持者，而不是机械期待某个人自动发挥功能。
 
 ---
 

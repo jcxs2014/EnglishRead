@@ -43,11 +43,11 @@ source_text: ch05
 
 **中文理解**：简而言之，说服一个人，就是使这个人相信并去做某件事。
 
-**句子结构**：句首是介词短语 In fewer words；主句骨架为 to persuade someone is to convince someone，两个不定式短语以系动词 is 连接；两个分句都重复 someone，结尾的 to do something 是 convince 的宾补结构。
+**句子结构**：句首 In fewer words 是介词短语；主句由 to persuade someone 和 to convince someone 两个并列不定式短语通过 is 连接；to do something 是 convince 的宾补。
 
 **关键词**：In fewer words / persuade / convince
 
-**表达方式**：作者先说“简而言之”，再用 persuade、convince、do something 三个递进动作，把词典式定义改写成易懂的日常解释。
+**表达方式**：作者用简略定义把 persuade 与 convince 对应起来，并以 do something 点明行动结果。
 
 **为什么这样写**：定义句让读者快速抓住本章的起点，即影响最终要表现为行动。但这种压缩也隐藏了一个重要问题：别人采取行动是否出于充分理解、自愿同意和真实信息，不能由“被说服”这一结果本身证明。
 
@@ -57,7 +57,7 @@ source_text: ch05
 
 **中文理解**：道德是主观的，取决于不同社会和文化所采用的衡量标准。
 
-**句子结构**：主句是系表结构 Morality is subjective；depending on the metrics put in place by different societies and cultures 是现在分词短语，其中 the metrics 是 depended on 的逻辑宾语，put in place 是后置过去分词，修饰 metrics。
+**句子结构**：主句是系表结构 Morality is subjective；depending on the metrics put in place by different societies and cultures 是现在分词短语作状语；the metrics 是介词 on 的宾语，put in place 是后置过去分词短语，修饰 metrics。
 
 **关键词**：Morality / subjective / metrics
 
@@ -71,7 +71,7 @@ source_text: ch05
 
 **中文理解**：操纵通常带有明确的私利，而说服则可能是为了整个社区的更大利益。
 
-**句子结构**：主句由 while 连接两个对比分句；前半句是 manipulation has self-interest，后半句是被动结构 persuasion may be undertaken，介词短语 for the greater good of an entire community 说明目的。
+**句子结构**：主句由 while 连接两个对比分句；前半句表达 manipulation 有明确的 self-interest，后半句是被动结构 persuasion may be undertaken，介词短语 for the greater good of an entire community 说明目的。
 
 **关键词**：manipulation / self-interest / persuasion / greater good
 
@@ -91,7 +91,7 @@ source_text: ch05
 
 **表达方式**：all cards on the table 与 hidden cards 构成扑克牌隐喻，把透明度差异压缩成一明一暗两组视觉形象；冒号让抽象的 key difference 立即落到可想象的方法。
 
-**为什么这样写**：这个比喻让作者的核心区分变得容易记忆：信息是否公开，比表面措辞是否漂亮更关键。不过，真实的说服也可能使用修辞或保留无关隐私，欺骗也不只表现为“藏牌”，所以它是启发式框架，而不是严密定义。
+**为什么这样写**：这个比喻让作者的核心区分变得容易记忆：在这个比喻中，信息是否公开是区分点。不过，真实的说服也可能使用修辞或保留无关隐私，欺骗也不只表现为“藏牌”，所以它是启发式框架，而不是严密定义。
 
 ---
 
@@ -117,7 +117,7 @@ source_text: ch05
 
 **关键词**：This time round / more homeowners / agreed / despite
 
-**表达方式**：作者用这一回与前文实验请求相比的隐含对照，再以 despite 突出结果的反常之处：广告牌更显眼也更难看，同意率却反而上升。
+**表达方式**：作者用这一回与前文实验请求相比的隐含对照，再以 despite 突出结果的反常之处：广告牌并不美观，却有更多房主同意竖立。
 
 **为什么这样写**：具体结果把“保持一致会影响后续选择”的观点变成可理解的实验叙事，也显示小承诺可能改变人对更大请求的态度。但本章没有交代研究者、样本规模、统计方法和效应量，因此它只能说明一种可能的机制，不能单独证明所有情况下都有效。
 
@@ -141,7 +141,7 @@ source_text: ch05
 
 **中文理解**：在经济学中，供需规律简单明了：当供给低而需求高时，价格就会上涨。
 
-**句子结构**：句首 In economics 限定学科；主句为 the laws of demand and supply are simple and straightforward，冒号后的 when 从句说明条件，主句 prices go up 给出结果；and 连接 supply is low 与 demand is high 两个对称分句。
+**句子结构**：句首 In economics 限定学科；整句主句为 the laws of demand and supply are simple and straightforward；冒号后的 when 引导条件状语从句，该从句以 prices go up 给出结果。
 
 **关键词**：laws of demand and supply / simple and straightforward / supply is low / prices go up
 
@@ -153,7 +153,7 @@ source_text: ch05
 
 > **原句 9:** "They did not tell an outright lie--they simply refused to tell the whole truth."
 
-**中文理解**：他们没有 outright 说谎，只是拒绝把全部真相告诉你。
+**中文理解**：他们没有明目张胆地说谎，只是拒绝把全部真相告诉你。
 
 **句子结构**：两个分句由双连字符连接并构成对比；前半句否定动词短语 tell an outright lie，后半句用 refused to tell the whole truth 与之形成 not…but 的语义关系。
 
