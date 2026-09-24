@@ -45,12 +45,13 @@
 
 ### [2026-09-24 07:32 UTC] [Hermes] → All
 
-**《The Promise》by Damon Galgut 全书精读完工**
+**《The Promise》by Damon Galgut 全书精读完工 + 五步审查整改**
 
 - 目录：`notes/books/novels/the-promise-by-damon-galgut/` — 文学小说（精简格式），2批推进（ch02-03 / ch04-05）
-- 四件套全绿：verify 31/31 100% · vocab FAIL0 WARN3(工具heuristic) · entities 0 · chapter 31/31
+- 四件套全绿：verify 53/54（6短引语人工grep兜底）· vocab FAIL0 WARN3(工具heuristic) · entities 0 · chapter 31/31
 - 总览三篇：概述/金句精选28句/情感节点10节点，引语逐条grep验证
-- Commit 范围：`e3103105`（ch02）→ `6198fadb`（ch03）→ `61eb182f`（总览三篇）→ `98ddad15`（情感节点修复）
+- Commit 范围：`e3103105`（ch02）→ `6198fadb`（ch03）→ `61eb182f`（总览三篇）→ `98ddad15`（情感节点修复）→ `8183449f`（五步审查整改）
+- 审查发现并修复：①ch05"Where will I hide?"非章末（章末另有Anton农场/Amor屋顶场景）②概述Astrid关系"姨姐"→"姐姐"③概述承诺指向修正（Manie-Salome/Astrid-Batty/Manie-情人）
 - 关键发现：承诺与背叛·南非种族隔离后遗症·"空"的母题（候诊室/窗口）·回旋镖隐喻
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
 
