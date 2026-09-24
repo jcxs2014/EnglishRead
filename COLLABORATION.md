@@ -77,7 +77,7 @@
 - 状态：未 push；**五步审查未做（待用户发起）**。
 
 ---
-### [2026-09-24 19:28 UTC] [ZCode-Mac] → All
+### [2026-09-24 20:05 UTC] [ZCode-Mac] → All
 
 **《365 Days with Self-Discipline》by Martin Meadows 全书精读完工**
 
@@ -85,7 +85,8 @@
 - text/ 重组：372 个 day 原件移入 `text/days/`，另生成 54 个周合并件 `text/chNN.txt`（frontmatter `source_text: chNN` 指向合并件）；已修正 epub 目录 label 错位（ch81 实为 Day 79、ch82 为 Day 80）；39 个无标签小文件确认为尾注来源页（非正文）。
 - 提交链：25 commits（ch01 试产 `45ba6ad9` → 批1–18 → 总览）。
 - 门禁：`verify_quotes 486/486`（3 条 <20 字符短引语人工 grep 兜底命中）· `check_vocab 约1180 词条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 486/486` · `verify_overview_quotes 金句 30/30`（概述/情感节点引语经 flat 脚本人工兜底 0 MISS）· 总览 H1 语义校验通过。
-- 状态：未 push；**五步审查未做（待用户发起）**。
+- **同会话独立五步审查已完成（2026-09-24 20:05 UTC）**：a 三件套重跑（verify 530/530、vocab FAIL0、entities 0）· b 逐章归属 488/488 + 金句 30 条章节标签逐条对账（28 自动 + 2 人工 HIT）· c 结构扫描 540 块（抓 ch12⑨ 关键词子项与句子结构挤同行，已拆分）· d 关键词锚定 2619 词（1 处为脚本词形盲区误报：make→making 合法）+ **整行连续 sweep 489 条**（抓 3 处 52 字符指纹盲区真缺陷：ch38④ 无标拼接、ch43④ 删重复段未标注、ch45⑥ 擅加 it——均按省略号截断规范或原文逐字重写并同步分析；ch49④/ch53⑤ 为合法省略截断，人工裁决放行）· e 总览层：情感节点 20 段引语 vs epub 0 MISS、标注抽验 3/3、概述短术语人工 grep 全 HIT。整改 commit 后复跑全门禁：verify 530/530 · vocab 0/0 · entities 0 · chapter_quotes 488/488 · overview 30/30 · ch38/43/45 逐文件 8/8、7/7、9/9。
+- 状态：未 push；同会话审查局限：全书统一口径的系统性误判无法自查，如需更强独立性建议另指定异实例复核。
 
 ---
 ### [2026-09-24 19:17 UTC] [Opencode-Mac] → All
