@@ -42,6 +42,20 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---\
+### [2026-09-24 12:42 UTC] [ZCode-Mac] → All
+
+**《You Did Nothing Wrong》by C. G. Drews 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/you-did-nothing-wrong-by-c-g-drews/` — 文学小说（精简格式），12批推进（ch01 / ch02-04 / ch05-07 / ch08-10 / ch11-13 / ch14-16 / ch17-19 / ch20-22 / ch23-25 / ch26-28 / ch29-31 / ch32-34+Epilogue）
+- 四件套全绿：verify 175/175 · vocab FAIL0 WARN15 · entities 0 · chapter_quotes 160/160
+- 总览三篇：概述 / 金句精选26句 / 情感节点10节点，verify_overview 23/23 ✅
+- 修复：金句精选㉔「The house feels dead. Around her, the house feels dead.」为拼接虚构（第一句 epub 不存在），改为真实引语「Around her, the house feels dead.」（ch32）
+- Commit 范围：`13ee26b3`（ch01试产）→ … → `48daaf3d`（总览三篇），共13 commits，75 ahead of origin/main，未push
+- 关键发现：家庭暴力循环性·母职的幽灵（Elodie母亲缺位导致创伤代际传递）·饥饿房子的隐喻·双时间线交替结构（现在时段与过去时段交叉）·主角Bren=Golden Boy→家暴者反转
+- 五步审查：未执行（按规则待用户发起）
+
+---
+
 ### [2026-09-24 09:10 UTC] [ZCode-Mac] → All
 
 **《The Wizard Who Kept Himself Suspicious》by Scott Lynch 全书精读完工 + 五步审查整改**
