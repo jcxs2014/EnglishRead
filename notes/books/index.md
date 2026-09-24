@@ -31,6 +31,7 @@ title: 书单
 | [Black Point](books/novels/black-point-by-jacqueline-west/) | Jacqueline West |
 | [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
 | [Burnt Sugar](books/novels/burnt-sugar-by-avni-doshi/) | Avni Doshi |
+| [The Do-Over](books/novels/the-do-over-by-suzanne-park/) | Suzanne Park |
 | [Earl Crush](books/novels/earl-crush-by-alexandra-vasi/) | Alexandra Vasti |
 | [Bury Your Dead](books/novels/bury-your-dead-by-ana-paula-maia/) | Ana Paula Maia |
 | [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
@@ -51,6 +52,9 @@ title: 书单
 | [Falling into Place](books/novels/falling-into-place-by-allison-ashley/) | Allison Ashley |
 | [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
 | [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
+| [The Happiness Blueprint](books/novels/the-happiness-blueprint-by-ally-zetterberg/) | Ally Zetterberg |
+| [Lives of Girls and Women](books/novels/lives-of-girls-and-women-by-alice-munro/) | Alice Munro |
+| [The Loved One](books/novels/the-loved-one-by-evelyn-waugh/) | Evelyn Waugh |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
@@ -92,6 +96,7 @@ title: 书单
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
+| [The Picture of Dorian Gray](books/novels/the-picture-of-dorian-gray-by-oscar-wilde/) | Oscar Wilde |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
 | [Reliquary](books/novels/reliquary-by-hannah-whitten/) | Hannah Whitten |
 | [Real Life](books/novels/real-life-by-brandon-taylor/) | Brandon Taylor |
@@ -105,6 +110,7 @@ title: 书单
 | [Rookie Season](books/novels/rookie-season-by-leah-brunner/) | Leah Brunner |
 | [Season of the Serpent](books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/) | Suyi Davies Okungbowa |
 | [She Haunts Me Still](books/novels/she-haunts-me-still-by-de-elizabeth/) | De Elizabeth |
+| [So We Meet Again](books/novels/so-we-meet-again-by-suzanne-park/) | Suzanne Park |
 | [Spellcast](books/novels/spellcast-by-sophie-jordan/) | Sophie Jordan |
 | [Strange Is the Light](books/novels/strange-is-the-light-by-sarah-maria-griffin/) | Sarah Maria Griffin |
 | [Strange Lights](books/novels/strange-lights-by-mira-gonzalez/) | Mira Gonzalez |
@@ -198,24 +204,39 @@ title: 书单
 
 | 书名 | 作者 |
 |------|------|
+| [365 Days with Self-Discipline](books/non-fiction/365-days-with-self-discipline-by-martin-meadows/) | Martin Meadows |
 | [Against Everything](books/non-fiction/against-everything-by-mark-greif/) | Mark Greif |
+| [The Art of Thinking Clearly](books/non-fiction/the-art-of-thinking-clearly-by-rolf-dobelli/) | Rolf Dobelli |
+| [Becoming](books/non-fiction/becoming-by-michelle-obama/) | Michelle Obama |
 | [Books That Saved My Life](books/non-fiction/books-that-saved-my-life/) | — |
+| [Dark Psychology Secrets](books/non-fiction/dark-psychology-secrets-by-daniel-james-hollins/) | Daniel James Hollins |
+| [Dark Psychology Super ADVANCED](books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/) | Richard Campbell |
+| [The Dolphin in the Mirror](books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/) | Diana Reiss |
 | [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
+| [Down Girl](books/non-fiction/down-girl-by-kate-manne/) | Kate Manne |
+| [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
 | [Extraordinary Insects](books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/) | Anne Sverdrup-Thygeson |
+| [HBR Women at Work](books/non-fiction/hbr-women-at-work-by-harvard-business-review/) | Harvard Business Review |
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |
 | [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
+| [Living on Paper](books/non-fiction/living-on-paper-by-iris-murdoch/) | Iris Murdoch |
 | [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
 | [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
+| [Pax Economica](books/non-fiction/pax-economica-by-marc-william-palen/) | Marc-William Palen |
 | [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |
 | [Recollections of My Nonexistence](books/non-fiction/recollections-of-my-nonexistence-by-rebecca-solnit/) | Rebecca Solnit |
+| [Red Memory](books/non-fiction/red-memory-by-tania-branigan/) | Tania Branigan |
+| [Smoke and Ashes](books/non-fiction/smoke-and-ashes-by-amitav-ghosh/) | Amitav Ghosh |
 | [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
 | [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
 | [The Fame Lunches](books/non-fiction/the-fame-lunches-by-daphne-merkin/) | Daphne Merkin |
 | [The Ugly History of Beautiful Things](books/non-fiction/the-ugly-history-of-beautiful-things-by-katy-kelleher/) | Katy Kelleher |
+| [What Happened to You?](books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/) | Oprah Winfrey & Bruce Perry |
 | [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
 | [Herlands](books/non-fiction/herlands-by-megha-mohan/) | Megha Mohan |
 | [Why We Read](books/non-fiction/why-we-read-shannon-reed-2024/) | Shannon Reed |
+| [Why We Sleep](books/non-fiction/why-we-sleep-by-matthew-walker/) | Matthew Walker |
 | [Wow, No Thank You](books/non-fiction/wow-no-thank-you-by-samantha-irby/) | Samantha Irby |
 
 ## 短篇合集
@@ -227,17 +248,22 @@ title: 书单
 | [Alfred Hitchcock Presents: Stories to Stay Awake](books/short-story-anthologies/alfred-hitchcock-presents-stories-to-stay-awake-by/) | — |
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
+| [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
 | [Eight Tastes of Treachery](books/novels/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
 | [Collected Stories](books/short-story-anthologies/collected-stories-by-peter-carey/) | Peter Carey |
 | [Empty Bottles Full of Stories](books/short-story-anthologies/empty-bottles-full-of-stories-by-r-h-sin/) | R.H. Sin |
 | [Good and Evil and Other Stories](books/short-story-anthologies/good-and-evil-and-other-stories-by-samanta-schweblin/) | Samanta Schweblin |
+| [Hateship, Friendship, Courtship, Loveship, Marriage](books/short-story-anthologies/hateship-friendship-courtship-loveship-marriage-by-alice-munro/) | Alice Munro |
 | [If You See Me Don't Say Hi](books/short-story-anthologies/if-you-see-me-dont-say-hi-by-neel-patel/) | Neel Patel |
 | [Land of Oz](books/short-story-anthologies/land-of-oz-by-marie-oregan/) | Marie O'Regan (ed.) |
 | [Ligotti Collected Short Fiction](books/short-story-anthologies/ligotti-collected-short-fiction/) | Thomas Ligotti |
 | [Nabokov's Dozen](books/short-story-anthologies/nabokovs-dozen-by-vladimir-nabokov/) | Vladimir Nabokov |
+| [Open Secrets](books/short-story-anthologies/open-secrets-by-alice-munro/) | Alice Munro |
+| [The Progress of Love](books/short-story-anthologies/the-progress-of-love-by-alice-munro/) | Alice Munro |
 | [Seven Stories for a Summer Afternoon](books/short-story-anthologies/seven-stories-for-a-summer-afternoon-by-loes-jossy/) | Loes Jossy |
+| [Something I've Been Meaning to Tell You](books/short-story-anthologies/something-ive-been-meaning-to-tell-you-by-alice-munro/) | Alice Munro |
 | [Something Macabre](books/short-story-anthologies/something-macabre-by-arthur-short/) | Arthur Short |
 | [Tales of Terror](books/short-story-anthologies/tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense/) | — |
 | [The Passing of the Dragon](books/short-story-anthologies/the-passing-of-the-dragon-by-ken-liu/) | Ken Liu |
