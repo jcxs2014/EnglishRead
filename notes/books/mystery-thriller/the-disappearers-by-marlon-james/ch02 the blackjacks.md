@@ -33,7 +33,7 @@ modified: "2026-09-24"
 
 **关键词：** instrument of peace / instrument of rage / Friday morning
 
-**为什么这样写：** 句首与句尾刻意重复 "instrument of"，仿佛同一件东西只换标签便能彻底改义；Thursday／Friday 的紧邻对照把电视上无辜者的沉静/news，直接转换成次日施暴的紧迫感。
+**为什么这样写：** 句首与句尾刻意重复 "instrument of"，仿佛同一件东西只换标签便能彻底改义；Thursday／Friday 的紧邻对照把电视上无辜者的沉静，直接转换成次日施暴的紧迫感。
 
 **读者视角提示：** 留意“工具由谁制造”：后文施暴者反复援引圣经、媒体和保护女性的话语，为自己制造出一套合理化机制。
 

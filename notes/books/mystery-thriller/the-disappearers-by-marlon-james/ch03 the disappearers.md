@@ -65,7 +65,7 @@ modified: "2026-09-24"
 
 > **原句 5:** "A good book, shit, a good story, does this thing where it just comes alive in your head. It’s why I’ve read Bleak House more times than that black-hating piece of dog shit named Dickens deserves. A good book is the same as a good painting. A bad novel is just a coloring book. But I love coloring books."
 
-**中文理解：** 一本好书、一个好故事，会在你脑子里活过来；所以我才反复读《 bleak house 》，超过那个仇视黑人的狄更斯应得的次数。好书像一幅好画；坏小说只是涂色本——但我就喜欢涂色本。
+**中文理解：** 一本好书、一个好故事，会在你脑子里活过来；所以我才反复读《Bleak House》，超过那个仇视黑人的狄更斯应得的次数。好书像一幅好画；坏小说只是涂色本——但我就喜欢涂色本。
 
 **关键词：** good book / comes alive in your head / coloring book
 
@@ -105,7 +105,7 @@ modified: "2026-09-24"
 
 **关键词：** one eyewitness / swan dive / spread his arms
 
-**为什么这样写：** 叙述者先用一个看似日常的 “says” 引入证词，再用比喻替代事实； "just…and just…" 的省略号把目击者的声音截断，也把“跳下”与“张开双臂”的动作悬置。最后一行只留下 "And just."，让解释空间成为悬念本身。
+**为什么这样写：** 叙述者先用一个看似日常的 “says” 引入证词，再用比喻替代事实； "just…and just…" 的省略号把目击者的声音截断，也把“跳下”与“张开双臂”的动作悬置。原文紧接着另起一行只留下 "And just."，让解释空间成为悬念本身。
 
 **读者视角提示：** 记住“谁在坠落、为什么坠落、谁在现场”都没有被回答；不要用后文其他人物的信息替代这段证词的直接空白。
 
