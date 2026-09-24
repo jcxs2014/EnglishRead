@@ -82,7 +82,7 @@ modified: "2026-09-24"
 
 > **原句 6:** "I think about what my dad would have on his bucket list, remembering that he always wanted to teach me how to change a tire. I want my girls to be independent. I take out my phone to schedule this toward the end of my stay when Dad is presumably more energetic."
 
-**中文理解**：Klara 想象父亲的愿望清单，记得他一直想教她换轮胎；她希望自己的女儿独立，于是把教父亲换胎安排到自己停留的最后，等他恢复更多精力。
+**中文理解**：Klara 想象父亲的愿望清单，记得父亲一直想教她换轮胎；她希望自己的女儿独立，于是把父亲教她换胎安排到自己停留的最后，等他恢复更多精力。
 
 **关键词**：dad would have on his bucket list / teach me how to change a tire / I want my girls to be independent / schedule this toward the end of my stay
 
@@ -143,7 +143,7 @@ modified: "2026-09-24"
 | block | 街区 | "walking four blocks" |
 | account | 账户 | "the expenses" |
 | years | 年 | "next five years" |
-| wedding | 婚礼 | "Sister’s wedding" |
+| wedding | 婚礼 | "My sister’s wedding" |
 | sister | 姐妹 | "My sister’s wedding" |
 | shoe | 鞋 | "the shoes I had to wear" |
 | wife | 妻子 | "his wife" |

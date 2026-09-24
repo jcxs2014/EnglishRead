@@ -159,7 +159,7 @@ modified: "2026-09-24"
 | water | 水 | "sparkling water" |
 | level | 水平；水位 | "water level" |
 | coffee | 咖啡 | "a coffee cup" |
-| time | 时间 | "the time" |
+| time | 时间 | "crafted during my time at YourMove" |
 
 ## 一句话总结
 

@@ -74,7 +74,7 @@ modified: "2026-09-24"
 
 **关键词**：wanted my spot in Saga’s queen-size bed / to be close to her / as children / before my diabetes
 
-**为什么这样写**：`spot` 把一张床写成一个需要争取的身份位置，`before my diabetes` 又让疾病成为童年关系的分界线。她想去伦敦不只是读书，也为了靠近 Saga；离开英国因此同时意味着靠近家人和失去他们。
+**为什么这样写**：`spot` 把一张床写成一个需要争取的身份位置，`before my diabetes` 又让疾病成为童年关系的分界线。她想去伦敦不只是读书，也为了靠近 Saga；这次迁移是从瑞典去英国伦敦，意味着靠近家人和开始新的独立生活。
 
 **读者视角提示**：她把独立与依赖放在同一张床上，既有成人迁移的愿望，也有儿童时期的旧地图。
 

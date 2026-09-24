@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Klara 到公司时带着结束 Tom 的消息，Alex 先因脱口而出的脏话暴露庆幸，再听她把关系结束称作 learning experience；她拒绝不欣赏自己 CGM 的 loafer，选择做一只有自己标准的 sneaker，并约他午饭继续数学。
+- **一句话概括**：Klara 到公司时带着结束 Tom 的消息，Alex 先因脱口而出的脏话暴露庆幸，再听她把关系结束称作 learning experience；她拒绝不欣赏自己 insulin pump 的 loafer，选择做一只有自己标准的 sneaker，并约他午饭继续数学。
 - **情感弧线位置**：失恋后的轻快与清醒——Tom 被退出后，Klara 没有崩溃，而是用鞋类隐喻夺回价值判断；Alex 的支持从暗恋转向陪伴。
 - **Tropes 兑现/反转**：
   - **“结束关系”的第一次经验**：她把此前没有完全说出口的结束补写成正式 breakup。
@@ -103,7 +103,7 @@ modified: "2026-09-24"
 | loafer | 便士鞋 | "I don’t want a loafer" |
 | sneaker | 运动鞋 | "I’m a sneaker" |
 | metaphor | 隐喻 | "It’s a metaphor" |
-| acknowledged | 被承认的 | "not a universally acknowledged one" |
+| acknowledged | 被承认的 | "Not a universally acknowledged one." |
 | embarrassed | 尴尬的 | "It embarrassed him" |
 | carbohydrate | 碳水化合物 | "26 grams of carbohydrates" |
 

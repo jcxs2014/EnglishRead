@@ -33,11 +33,11 @@ modified: "2026-09-24"
 
 > **原句 2:** "I’ve read somewhere that a decent-looking guy has a 5 percent success rate of getting a match on Tinder. Basically, it’s torture. We knowingly put ourselves out there knowing 95 percent will reject us."
 
-**中文理解**：Alex 读到一篇文章，说外表不错的男性在 Tinder 上获得匹配的成功率只有百分之五；这基本就是折磨，而我们明知会有百分之九十五的拒绝，仍然主动走进去。
+**中文理解**：Paul 读到一篇文章，说外表不错的男性在 Tinder 上获得匹配的成功率只有百分之五；这基本就是折磨，而我们明知会有百分之九十五的拒绝，仍然主动走进去。
 
 **关键词**：5 percent success rate / getting a match on Tinder / Basically, it’s torture / 95 percent will reject us
 
-**为什么这样写**：约会被转换成成功率，恋爱变成明知低概率的重复实验。`knowingly` 与 `torture` 并置，说明他理解统计学却仍无法退出；拒绝不再是偶发事件，而是被预期后重复施加的痛苦。
+**为什么这样写**：约会被转换成成功率，恋爱变成明知低概率的重复实验。`knowingly` 与 `torture` 并置，说明 Paul 理解统计学却仍无法退出；拒绝不再是偶发事件，而是被预期后重复施加的痛苦。
 
 **读者视角提示**：Paul 以为在讲 dating，Alex 听见的可能也包括自己面对任何亲密关系的统计风险。
 

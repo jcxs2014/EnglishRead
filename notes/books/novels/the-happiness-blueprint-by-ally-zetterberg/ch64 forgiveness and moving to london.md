@@ -142,7 +142,7 @@ modified: "2026-09-24"
 |---|---|---|
 | call | 打电话 | "missed my calls" |
 | phone | 电话 | "Phone calls" |
-| time | 时间 | "the time" |
+| time | 时间 | "I had extra time" |
 | flight | 航班 | "a flight" |
 | Iceland | 冰岛 | "to Iceland" |
 | allowed | 被允许 | "wasn’t allowed in" |
@@ -168,7 +168,7 @@ modified: "2026-09-24"
 |---|---|---|
 | home | 家 | "where home is" |
 | flat | 公寓 | "my flat" |
-| call | 打电话 | "a call" |
+| calls | 打电话 | "You missed my calls, as well." |
 | face | 脸 | "touch my face" |
 | chance | 机会 | "a chance" |
 | time | 时间 | "time" |
@@ -176,9 +176,9 @@ modified: "2026-09-24"
 | London | 伦敦 | "London" |
 | Sweden | 瑞典 | "Sweden" |
 | job | 工作 | "my old job" |
-| day | 天 | "every single day" |
+| day | 天 | "Every single day." |
 | life | 生活 | "do life with you" |
-| person | 人 | "a person" |
+| person | 人 | "the person who loves you the most" |
 | ask | 问 | "ask Google" |
 | wait | 等待 | "wait while you ask" |
 | together | 一起 | "do it together" |

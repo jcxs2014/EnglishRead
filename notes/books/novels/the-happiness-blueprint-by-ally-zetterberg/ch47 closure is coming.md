@@ -145,7 +145,7 @@ modified: "2026-09-24"
 | coffee | 咖啡 | "offered to meet me for a coffee" |
 | calendar | 日历 | "failed calendar entries" |
 | email | 邮件 | "an email that will never be read" |
-| work | 工作 | "more important things ... like work" |
+| work | 工作 | "I have more important things to concentrate on, like work and a trial" |
 
 ### ⭐ 基础
 
@@ -157,7 +157,6 @@ modified: "2026-09-24"
 | friend | 朋友 | "an old friend" |
 | love | 爱 | "Love you" |
 | friend | 朋友 | "old friend" |
-| car | 汽车 | "the car" |
 | tree | 树 | "highest branch of the tree" |
 | jump | 跳 | "jumped off" |
 | time | 时间 | "the moment we die" |

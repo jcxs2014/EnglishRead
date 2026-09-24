@@ -106,14 +106,14 @@ modified: "2026-09-24"
 | task | 任务 | "NEW TASK" |
 | Jobcenter | 就业中心 | "Go back to Jobcenter" |
 | teeth | 牙齿 | "big teeth" |
-| mouth | 嘴 | "a thin mouth" |
+| mouth | 嘴 | "A thin mouth that has dried spots at the edges" |
 | lips | 嘴唇 | "These are the lips" |
 | face | 脸 | "his face" |
 | fight | 打架 | "stop fights" |
 | voice | 声音 | "the voices behind me" |
 | front | 前面 | "right in front of Mateusz" |
 | act | 行为 | "act of violence" |
-| point | 一点；时刻 | "a point" |
+| point | 一点；时刻 | "to the point of being meek" |
 | work | 工作 | "in my job" |
 | blood | 血 | "blood on them" |
 | van | 货车 | "the van I’ve been driving" |
@@ -129,7 +129,6 @@ modified: "2026-09-24"
 | head | 头 | "smashed against the pavement" |
 | job | 工作 | "in my job" |
 | hands | 双手 | "His fucking hands" |
-| day | 一天 | "the day" |
 | pavement | 人行道 | "the pavement" |
 | time | 时间 | "twenty-nine-year-long" |
 | hearing | 听证会 | "the hearing" |

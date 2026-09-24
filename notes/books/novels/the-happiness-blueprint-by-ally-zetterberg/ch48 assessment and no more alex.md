@@ -68,7 +68,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 5:** "It’s not exactly a bar, is it?"
+> **原句 5:** "“It’s not exactly a bar, is it?” This is true. It’s not a bar. But my experience of waiting-room small talk is nonexistent, and I struggle to find something else to say."
 
 **中文理解**：Alex 说：这里不太像酒吧，对吧？确实不是；但 Klara 几乎没有候诊室闲聊经验。
 
@@ -168,7 +168,7 @@ modified: "2026-09-24"
 | London | 伦敦 | "when you’re back in London" |
 | bed | 床 | "my own bed" |
 | room | 房间 | "a one-bedroom apartment" |
-| car | 汽车 | "the car" |
+| cars | 汽车 | "every receipt found in trouser pockets and cars" |
 | man | 男人 | "a man with a ginger beard" |
 | name | 名字 | "my surname" |
 | hand | 手 | "stretches out his hand" |

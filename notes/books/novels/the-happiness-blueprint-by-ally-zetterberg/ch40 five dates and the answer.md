@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Klara 第五次和 Tom 约会时因 Alex 取消数学辅导而不安，Tom 把色情提议当作关系升级，她拒绝并回家；分手多年后她终于问出“为什么甩我”，Tom 承认当年太投入，Klara 却从他未接电话和一句“不够喜欢”里确认这段关系没有未来。
+- **一句话概括**：Klara 第五次和 Tom 约会时因 Alex 取消数学辅导而不安，Tom 把色情提议当作关系升级，她拒绝并回家；分手多年后她终于问出“为什么甩我”，Klara 承认当年太投入，而 Tom 承认自己不够喜欢她，Klara 却从他未接电话和这句坦白里确认这段关系没有未来。
 - **情感弧线位置**：从被动的 date 到主动索取答案——Klara 终于把“让自己快乐”放在 Tom 的期待之前；可迟到的解释没有给她 closure，反而把她和旧爱归入三次失败尝试。
 - **Tropes 兑现/反转**：
   - **关系升级脚本的反转**：Tom 认为 porn 是下一步，Klara 认为真正的升级是牵手、牙刷和公开身份。
@@ -56,11 +56,11 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 4:** "You didn’t ask me to stay over, you asked me to a tapas bar."
+> **原句 4:** "“You didn’t ask me to stay over, you asked me to a tapas bar.” He is starting to get on my nerves."
 
 **中文理解**：Klara 说：你没有叫我过夜，你只是请我去 tapas bar；他开始让我烦躁。
 
-**关键词**：didn’t ask me to stay over / asked me to a tapas bar / starting to get on my nerves
+**关键词**：didn’t ask me to stay over / asked me to a tapas bar / get on my nerves
 
 **为什么这样写**：Klara 用事实纠正 Tom 对邀约的想象：邀请去 bar 不等于邀请留宿。`get on my nerves` 把模糊的不适变成神经警报；她不是拒绝所有亲密，而是拒绝被对方替她定义亲密的下一步。
 

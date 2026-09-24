@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Klara 因 Mateusz 事件躲在卧室两天，靠血糖读数和讽刺冰淇淋电话维生；父亲把她带出门、承认她把公司做成“自己的事业”，姐妹骑马时在暴雨和迷路中互相揭露童年竞争，Saga 终于承认她曾想让 Klara 生病以获得父母注意。
+- **一句话概括**：Klara 因 Mateusz 事件躲在卧室两天，靠血糖读数和讽刺冰淇淋电话维生；父亲把她带出门、承认她把公司做成“自己的事业”，姐妹骑马时在暴雨和迷路中互相揭露童年竞争，Saga 终于承认自己曾希望生病，以获得母亲单独陪伴。
 - **情感弧线位置**：从隔离到重新连接——Klara 先失去 Alex、离开瑞典的意义，再通过父亲的重新评价和姐妹的脆弱坦白重建“我是谁”；她不再只把 Saga 的靠近看作理所当然。
 - **Tropes 兑现/反转**：
   - **失恋后的封闭房间**：她把卧室变成临时城堡，血糖数据成为唯一稳定的陪伴。
@@ -38,7 +38,7 @@ modified: "2026-09-24"
 
 **关键词**：blood-sugar readings / soothing / when I can’t sleep
 
-**为什么这样写**：`soothinging` 把医疗数据从管理工具变成陪伴者；数据点比人的消息更稳定，因此在她失去 Alex 的回应后仍能提供连续性。看屏幕的夜晚行为同时是照护和自我麻醉，显示她还没有找到其他可靠的陪伴方式。
+**为什么这样写**：`soothing` 把医疗数据从管理工具变成陪伴者；数据点比人的消息更稳定，因此在她失去 Alex 的回应后仍能提供连续性。看屏幕的夜晚行为同时是照护和自我麻醉，显示她还没有找到其他可靠的陪伴方式。
 
 **读者视角提示**：她相信的不是数字本身，而是只要读数还在，自己仍有一个可观测、可确认的自我。
 
@@ -74,7 +74,7 @@ modified: "2026-09-24"
 
 **关键词**：No phones for an hour / put mine on Silent / which you know very well I dislike
 
-**为什么这样写**：规则从外部治疗活动转成 Klara 自己提出的实验，`I dislike` 承认她也在付出代价。她用共同限制保护姐妹的注意力，也让 Saga 不必独自承担“带 Klara 出门”的责任。
+**为什么这样写**：规则从外部团队建设活动转成 Klara 自己提出的实验，`I dislike` 承认她也在付出代价。她用共同限制保护姐妹的注意力，也让 Saga 不必独自承担“带 Klara 出门”的责任。
 
 **读者视角提示**：Klara 开始主动设计相处，而不是只接受别人替她安排活动。
 
@@ -148,10 +148,9 @@ modified: "2026-09-24"
 | ruined | 毁掉的 | "Mateusz ruined my life" |
 | reading | 读数 | "blood-sugar readings" |
 | chocolate | 巧克力 | "Marabou milk chocolate" |
-| city | 城市 | "the city" |
 | nature | 自然 | "nature" |
 | ground | 地面 | "the ground" |
-| map | 地图 | "a map" |
+| map | 地图 | "the road and the map" |
 | location | 位置 | "a location" |
 | road | 路 | "the road" |
 | rain | 雨 | "the rain" |
@@ -172,7 +171,7 @@ modified: "2026-09-24"
 | life | 生活 | "ruined my life" |
 | sleep | 睡觉 | "can’t sleep" |
 | here | 这里 | "I’ve loved it here" |
-| home | 家 | "go home" |
+| home | 家 | "catch the last train home" |
 | horse | 马 | "horses" |
 | phone | 手机 | "No phones" |
 | hand | 手 | "put mine on Silent" |
@@ -185,7 +184,7 @@ modified: "2026-09-24"
 
 | car | 汽车 | "the car" |
 | work | 工作 | "at work" |
-| person | 人 | "a person" |
+| person | 人 | "a simple person" |
 | time | 时间 | "for an hour" |
 
 

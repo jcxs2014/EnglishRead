@@ -142,7 +142,7 @@ modified: "2026-09-24"
 |---|---|---|
 | London | 伦敦 | "Fly to London" |
 | task | 任务 | "NEW TASK" |
-| home | 家 | "go to Klara’s house" |
+| home | 家 | "Go to Klara’s house" |
 | floor | 楼层 | "second floor" |
 | eye | 眼睛 | "eyes gleaming" |
 | cat | 猫 | "like a cat’s" |
@@ -153,7 +153,7 @@ modified: "2026-09-24"
 | laugh | 笑 | "she laughs" |
 | see | 看见 | "see someone" |
 | time | 时间 | "last month" |
-| room | 房间 | "a room" |
+| room | 房间 | "an open kitchen and living room" |
 
 ## 一句话总结
 

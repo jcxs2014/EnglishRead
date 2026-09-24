@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Maja 因舞蹈受伤住院，Klara 和 Hanna 把空荡浴室布置成 Bygg-Nilsson 的“touch”，免费 toiletries 和印有艺术家的浴巾意外带来二十万粉丝与报价；公司突然被看见时，Saga 宣布来瑞典，却也承认自己被母亲、孩子和工作拉向不同方向。
+- **一句话概括**：Maja 因舞蹈受伤住院，Klara 和 Hanna 把空荡浴室布置成 Bygg-Nilsson 的“touch”，免费 toiletries 和印有艺术家的浴巾让 Maja 获得二十万粉丝；公司则收到四条未提 female/wet 的报价。与此同时，Saga 宣布来瑞典，却也承认自己被母亲、孩子和工作拉向不同方向。
 - **情感弧线位置**：事业成功与家庭裂口同时抵达——Klara 第一次享受“自己做到了”的庆祝，却也从 Saga 的来访里看见姐姐没有向父母说明的崩塌。
 - **Tropes 兑现/反转**：
   - **“小惊喜”变成 viral marketing**：Klara 原本想把裸浴室变 homey，最后变成公司品牌传播。
@@ -162,7 +162,7 @@ modified: "2026-09-24"
 |---------|------|------|
 | head | 头 | "head feels heavy" |
 | morning | 早晨 | "the next morning" |
-| face | 脸 | "putting faces to voices" |
+| face | 脸 | "Putting faces to voices and vice versa was never my strong point." |
 | voice | 声音 | "faces to voices" |
 | water | 水 | "water is switched off" |
 | night | 夜晚 | "night" |

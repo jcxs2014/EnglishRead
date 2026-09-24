@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Alex 在给 Calle 的信里追问记忆是否会随死亡消失，回忆两人童年被迫参与的捕女孩游戏和第一次接吻；他把 Callee 的吻 boy 解释为一次勇气与权力声明，也把自己对 Klara 的感情放在同一封尚未寄出的信中。
+- **一句话概括**：Alex 在给 Calle 的信里追问记忆是否会随死亡消失，回忆两人童年被迫参与的捕女孩游戏和第一次接吻；共享日历中另有与 Klara 的饮酒任务，但给 Calle 的信本身只围绕 Calle 与 Dan 的记忆，Alex 也逐渐面对自己对 Klara 的感情。
 - **情感弧线位置**：死亡记忆与新生感情的双重回望——Alex 通过回忆 Calle 获得对自身的连续性，却把“吻男孩”的勇敢投射到如今不敢约 Klara 的犹豫上。
 - **Tropes 兑现/反转**：
   - **童年游戏暴露性别暴力**：捕女孩游戏被叙述者直接命名为 sexual harassment，回忆不再只是怀旧。
@@ -62,7 +62,7 @@ modified: "2026-09-24"
 
 **关键词**：catch the girls / keep them inside the den / You guard it / instructed
 
-**为什么这样写**：祈使句把群体游戏写成命令，`den` 像一个封闭空间；叙述者随后补充这其实是 sexual harassment，童年怀旧的表面被历史命名撕开。Callee 的“guard”位置既可能被同伴视为权力，也可能只是另一个被安排的角色。
+**为什么这样写**：祈使句把群体游戏写成命令，`den` 像一个封闭空间；叙述者随后补充这其实是 sexual harassment，童年怀旧的表面被历史命名撕开。Calle 的“guard”位置既可能被同伴视为权力，也可能只是另一个被安排的角色。
 
 **读者视角提示**：Alex 记得游戏如何让所有孩子参与其中，也记得谁是执行者、谁被排除。
 
@@ -82,25 +82,25 @@ modified: "2026-09-24"
 
 > **原句 6:** "Brave from your triumph, you walk up and plant a kiss on the toothy mouth. I don’t think it was how you imagined your first kiss, but I think first kisses are often bad, often embarrassing, often tinted with regret. Yours was a triumph and a power statement."
 
-**中文理解**：Callee 因胜利而勇敢地走上前，把吻印在长着牙的嘴上；这不是他想象中的第一次接吻，但第一次接吻往往糟糕、尴尬、带着后悔，而 Calle 的吻是胜利和权力宣言。
+**中文理解**：Calle 因胜利而勇敢地走上前，把吻印在长着牙的嘴上；这不是他想象中的第一次接吻，但第一次接吻往往糟糕、尴尬、带着后悔，而 Calle 的吻是胜利和权力宣言。
 
 **关键词**：Brave from your triumph / plant a kiss / first kisses are often bad / often embarrassing / a triumph and a power statement
 
 **为什么这样写**：Alex 把童年吻从可能浪漫化的地方拉回丑牙、强迫和尴尬，再让它成为 `power statement`。`triumph` 与 `regret` 并置，说明反抗群体规则会带来个人胜利，也会留下复杂记忆。
 
-**读者视角提示**：Callee 的勇气不是天生的，而是从被迫参与中夺回一次选择；Alex 看见这一点，也看见自己如今仍在学习这样做。
+**读者视角提示**：Calle 的勇气不是天生的，而是从被迫参与中夺回一次选择；Alex 看见这一点，也看见自己如今仍在学习这样做。
 
 ---
 
 > **原句 7:** "Seeing you kiss your Dan in the church that sunny May day was one of the proudest moments of my life."
 
-**中文理解**：看到 Callee 在那个阳光明媚的五月天亲吻 Dan，是 Alex 一生中最自豪的时刻之一。
+**中文理解**：看到 Calle 在那个阳光明媚的五月天亲吻 Dan，是 Alex 一生中最自豪的时刻之一。
 
 **关键词**：kiss your Dan / the church / sunny May day / one of the proudest moments of my life
 
-**为什么这样写**：这句把私人爱情写成朋友的骄傲，`sunny May day` 让记忆明亮，却不能洗去信中关于死亡和失去的阴影。Alex 记得的不是婚礼合法性，而是朋友终于选择自己想亲吻的人；这也是他现在面对 Klara 时缺少的公开行动。
+**为什么这样写**：这句把私人爱情写成朋友的骄傲，`sunny May day` 让记忆明亮，却不能洗去信中关于死亡和失去的阴影。信中记录的是 Calle 与 Dan 的记忆；Alex 对 Klara 的犹豫属于共享日历的另一条线索，不能被当作同一封信的内容。
 
-**读者视角提示**：Alex 把 Callee 的勇敢保存为自我标准，却还没有把它用于自己的邀约。
+**读者视角提示**：Alex 保存 Calle 的勇敢作为自我标准，但这条记忆并没有自动替他完成与 Klara 的邀约。
 
 ## 本章词汇
 
@@ -157,4 +157,4 @@ modified: "2026-09-24"
 
 ## 一句话总结
 
-Alex 在信里把死亡、记忆和童年游戏拆开，最后把 Callee 的第一次吻保留为一个可以抵抗群体压力的证据；当真实情感不能科学证明时，回忆至少证明他曾经爱过，也曾经看见朋友如何勇敢选择自己。
+Alex 在信里把死亡、记忆和童年游戏拆开，最后把 Calle 的第一次吻保留为一个可以抵抗群体压力的证据；当真实情感不能科学证明时，回忆至少证明他曾经爱过，也曾经看见朋友如何勇敢选择自己。

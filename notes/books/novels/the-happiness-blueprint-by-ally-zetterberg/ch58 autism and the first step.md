@@ -165,7 +165,7 @@ modified: "2026-09-24"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| health | 健康 | "Dad’s health" |
+| health | 健康 | "my dad’s health" |
 | scan | 扫描 | "MRI" |
 | news | 消息 | "the good news" |
 | home | 家 | "I have to go home" |

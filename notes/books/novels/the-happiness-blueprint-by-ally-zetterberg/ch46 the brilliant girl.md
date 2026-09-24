@@ -110,7 +110,7 @@ modified: "2026-09-24"
 
 **关键词**：brilliant girl / knows so much / can’t remember simple things
 
-**为什么这样写**：`brilliant` 与 `can’t remember simple things` 放在同一句，表面是赞美，实际把优势和障碍绑成一个诊断问题。母亲重复了对 Harry 的评价，Klara 终于意识到两人共享同一种“聪明但不理解”的外部描述。
+**为什么这样写**：`brilliant` 与 `can’t remember simple things` 放在同一句，表面是赞美，实际把优势和障碍绑成一个诊断问题。母亲先对 Klara 说出这句评价；Saga 随后对 Harry 的相似描述，让 Klara 意识到两人共享同一种“聪明但不理解”的外部标签。
 
 **读者视角提示**：这句话让 Klara 的记忆问题第一次不再只是私人失败，而可能与成长环境、神经差异和被错过的评估有关。
 
@@ -132,7 +132,7 @@ modified: "2026-09-24"
 | pickier | 更挑食的 | "His eating is pickier" |
 | restless | 躁动不安的 | "the sleep is restless" |
 | assessment | 评估 | "having him tested for autism" |
-| behavior | 行为 | "the school had flagged some behavior" |
+| behavior | 行为 | "The school had flagged some behavior." |
 | academic | 学术的 | "academic performance" |
 | brilliance | 聪明；才华 | "this brilliant girl" |
 | characteristic | 特征 | "A great characteristic" |
@@ -168,7 +168,6 @@ modified: "2026-09-24"
 | flower | 花 | "a pink flower is planted" |
 | hand | 手 | "washing her hands" |
 | dinner | 晚餐 | "food is ready" |
-| son | 儿子 | "her son" |
 | mum | 妈妈 | "Call your mum" |
 | dad | 爸爸 | "Dad comes in" |
 | phone | 电话 | "phone call" |

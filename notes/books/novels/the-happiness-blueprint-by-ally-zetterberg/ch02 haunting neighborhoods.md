@@ -32,7 +32,7 @@ modified: "2026-09-24"
 
 > **原句 2:** "It’s fucking freezing, and I curl my fingers into my hand, shielding them within my fist. The coat sleeves just about reach down and stop any icy wind from getting to them. Don’t mind being cold: reminds me I’m still capable of feeling things."
 
-**中文理解**：Alex 把手指蜷进掌心藏进拳头，长外套袖勉强挡住寒风；他并不真的介意冷，因为疼痛至少证明自己仍能感受。
+**中文理解**：Alex 把手指蜷进掌心藏进拳头，长外套袖勉强挡住寒风；他并不真的介意冷，因为寒冷至少证明自己仍能感受。
 
 **关键词**：curl my fingers / shielding / capable of feeling things
 

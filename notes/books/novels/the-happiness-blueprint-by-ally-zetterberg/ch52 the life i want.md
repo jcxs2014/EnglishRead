@@ -130,7 +130,7 @@ modified: "2026-09-24"
 | buyer | 买家 | "font-speaking buyers" |
 | glitch | 技术故障 | "technical glitches" |
 | list | 清单 | "Google’s advice" |
-| dream | 梦想 | "my dream" |
+| dreams | 梦想 | "I have dreams and aspirations" |
 | work | 工作 | "work with properties" |
 | driving | 驾驶 | "less driving" |
 | questions | 问题 | "replying to questions" |
@@ -145,7 +145,6 @@ modified: "2026-09-24"
 | life | 生活 | "Swedish and English life" |
 | job | 工作 | "similar job" |
 | test | 考试 | "pass an IELTS test" |
-| dream | 梦想 | "I have dreams" |
 | friend | 朋友 | "my friends" |
 | family | 家人 | "my family" |
 | work | 工作 | "career" |

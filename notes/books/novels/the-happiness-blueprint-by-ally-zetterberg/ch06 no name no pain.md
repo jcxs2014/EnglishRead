@@ -69,7 +69,7 @@ modified: "2026-09-24"
 
 > **原句 5:** "When I push it up, there is a trace, like a road map, blood rushing to its place. I can’t help but feel ever so slightly free when that happens, as if life rushes back into my finger. And me. Then I slide it down again, and I’m trapped in this grief. But I wonder, if I take it off, will you be gone? If the pain isn’t there, then what is? Nothing?"
 
-**中文理解**：戒指向上滑时留下血色轨迹，生命仿佛重新流回手指，也流回 Alex；滑下后，她又被悲伤困住。她甚至怀疑，一旦取下戒指、连疼痛也消失，自己是否就会变成“什么都没有”。
+**中文理解**：戒指向上滑时留下血色轨迹，生命仿佛重新流回手指，也流回 Alex；滑下后，他又被悲伤困住。他甚至怀疑，一旦取下戒指、连疼痛也消失，自己是否就会变成“什么都没有”。
 
 **关键词**：trace, like a road map / ever so slightly free / life rushes back into my finger / If the pain isn’t there, then what is? Nothing?
 

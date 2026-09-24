@@ -22,9 +22,9 @@ modified: "2026-09-24"
 
 > **原句 1:** "• NEW TASK: Repeat. Move on to any other unsexy task I’ve ignored for the last six months."
 
-**中文理解**：新任务：清洁烤箱、清洁浴帘；重复执行，继续处理过去六个月忽略的其他不性感的任务。
+**中文理解**：新任务：重复执行，继续处理过去六个月忽略的其他不性感任务。
 
-**关键词**：Clean oven / Clean shower curtain / Move on / unsexy task / ignored for the last six months
+**关键词**：Repeat / Move on / unsexy task / ignored for the last six months
 
 **为什么这样写**：家务被列成微小、可完成的替代任务，`unsexy` 暗示 Alex 认为只有不性感的事情才配得上作为分心。`Repeat` 把自我管理写成机械循环；清洁身体环境无法清洁记忆，反而让旧场景在停顿中回来。
 

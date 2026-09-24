@@ -26,7 +26,7 @@ modified: "2026-09-24"
 
 **关键词**：Company get-together after work / Wife welcome
 
-**为什么这样写**：`Wife welcome` 三个词把公司活动瞬间转成伴侣测试，Alex 的大脑立刻问“谁的妻子”。Klara 原本可能只想邀请团队，Alex 却用婚姻词替事件补上私人关系；日历的固定格式反而放大了误读。
+**为什么这样写**：`Wife welcome` 两个词把公司活动瞬间转成伴侣测试，Alex 的大脑立刻问“谁的妻子”。Klara 原本可能只想邀请团队，Alex 却用婚姻词替事件补上私人关系；日历的固定格式反而放大了误读。
 
 **读者视角提示**：Alex 已经把 Klara 的每个系统邀请都读成潜在关系信号。
 

@@ -62,7 +62,7 @@ modified: "2026-09-24"
 
 **关键词**：family can be incredibly supportive / wasn’t limited / my time at Dad’s
 
-**为什么这样写**：`it turns out` 让支持成为经验发现，而非预先假设；`wasn’t limited` 修正 Klara 对家庭边界过去的判断。Saga、Hanna 和 Dad 的支持不再被限定在瑞典，她也开始主动把支持返还给他们。
+**为什么这样写**：`it turns out` 让支持成为经验发现，而非预先假设；`wasn’t limited` 修正 Klara 对家庭边界过去的判断。Saga 和 Dad 的支持不再被限定在瑞典，她也开始主动把支持返还给他们。
 
 **读者视角提示**：Klara 的归属不是单点家庭，而是可以跨地点延续的关系网络。
 
@@ -128,7 +128,7 @@ modified: "2026-09-24"
 | bubble | 气泡；小空间 | "small bubble" |
 | supportive | 支持的 | "incredibly supportive" |
 | obligation | 义务 | "no obligation" |
-| officially | 正式地 | "being officially Autistic" |
+| officially | 正式地 | "Being officially Autistic helps me" |
 | quirk | 怪癖 | "allowed to have quirks" |
 | engagement-ring | 订婚戒指 | "Engagement-ring shopping" |
 | engagement | 订婚 | "Engagement party" |
@@ -166,7 +166,7 @@ modified: "2026-09-24"
 | match | 匹配 | "your match" |
 | dust | 灰尘 | "brush the dust off" |
 | sunset | 日落 | "walk off into the sunset" |
-| celebrate | 庆祝 | "we may need to celebrate" |
+| celebrate | 庆祝 | "We may need to celebrate." |
 
 ### ⭐ 基础
 
@@ -176,17 +176,17 @@ modified: "2026-09-24"
 | person | 人 | "another person" |
 | phone | 手机 | "my phone" |
 | charge | 充电 | "plugged in my phone to charge" |
-| bed | 床 | "our bed" |
+| bed | 床 | "sits next to me on the bed" |
 | coffee | 咖啡 | "cup of coffee" |
 | morning | 早晨 | "morning" |
 | work | 工作 | "work" |
 | class | 课程 | "classes" |
 | phone | 手机 | "phone pings" |
 | event | 事件 | "NEW EVENT" |
-| ring | 戒指 | "wedding ring" |
+| ring | 戒指 | "Engagement-ring shopping" |
 | Sweden | 瑞典 | "Location: Sweden" |
 | year | 年 | "next year" |
-| yes | 是 | "RSVP yes" |
+| yes | 是 | "yes, yes, yes" |
 | heart | 心 | "heart is beating" |
 | couple | 伴侣 | "unusually perfect couple" |
 

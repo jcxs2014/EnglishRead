@@ -94,13 +94,13 @@ modified: "2026-09-24"
 
 > **原句 7:** "“I guess that’s the benefit of marriage as well. Even with all its challenges, you have someone around,” she remarks, and I think of Calle. And Dan. Because they’re the married people I know. I touch my ring. “I wouldn’t know, of course. Is that how it is?” she asks, and I look up."
 
-**中文理解**：Klara 说婚姻的好处是即使有挑战，也有人陪伴；Alex 想到 Calle 和 Dan，因为他们是他认识的已婚者。他摸戒指，回答自己其实不知道婚姻是否如此。
+**中文理解**：Klara 说婚姻的好处是即使有挑战，也有人陪伴；Alex 想到 Calle 和 Dan，因为他们是他认识的已婚者。Alex 摸戒指，Klara 随后问他是否知道婚姻是否如此。
 
 **关键词**：benefit of marriage / you have someone around / married people I know / I touch my ring / I wouldn’t know
 
-**为什么这样写**：Klara 将婚姻描述成“身边有人”，Alex 却被迫承认自己只见过失去或幸存后的婚姻样本。触摸戒指把 Calle 的婚姻和当前对话连在一起；`I wouldn’t know` 表明他与 Dan 的伴侣关系也不能提供普通答案。
+**为什么这样写**：Klara 将婚姻描述成“身边有人”，Alex 想到 Calle 和 Dan 这些失去或幸存后的婚姻样本；触摸戒指把旧关系和当前对话连在一起。`I wouldn’t know` 的声音仍属于 Klara，她的问句把 Alex 的经验重新推回两人的共同思考。
 
-**读者视角提示**：他不是从理论判断婚姻，而是从缺席、死亡和旧戒指判断亲密能否抵抗失去。
+**读者视角提示**：Alex 通过戒指和失去的经验面对婚姻，但这次直接说“我不知道”的人仍是 Klara；两人的视角在戒指上交错。
 
 ---
 

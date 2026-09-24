@@ -82,7 +82,7 @@ modified: "2026-09-24"
 
 > **原句 6:** "It would have been wonderful to see him, say, eight years ago. To have him turn up at the coffee-shop table where he dumped me and tell me Ha-ha! Did you believe that thing I wrote on the cup?"
 
-**中文理解**：如果八年前见到 Tom，在咖啡店桌边被他留下，告诉他“傻瓜，你相信我写在杯上的话吗”，那该多美好。
+**中文理解**：如果八年前见到 Tom，在咖啡店桌边被他留下，用“Ha-ha!”逗他并问他是否相信自己写在杯上的话，那该多美好。
 
 **关键词**：eight years ago / coffee-shop table / where he dumped me / Did you believe that thing I wrote on the cup?
 
@@ -154,12 +154,12 @@ modified: "2026-09-24"
 | van | 厢式车 | "the van" |
 | note | 便条 | "Leaving a chocolate with this note" |
 | voice | 声音 | "a voice" |
-| number | 号码 | "a number" |
-| shop | 商店 | "a familiar face comes out of the shop" |
+| number | 号码 | "I guess I should take your number" |
+| shop | 商店 | "A familiar face comes out of the shop" |
 | metal | 金属 | "the sound of metal crunching" |
 | phone | 手机 | "unpublished phone numbers" |
-| dinner | 晚餐 | "Dinner tomorrow night" |
-| friend | 朋友 | "a friend" |
+| dinner | 晚餐 | "How is dinner tomorrow night? Lund?" |
+| friends | 朋友 | "rarely have friends over" |
 
 ## 一句话总结
 

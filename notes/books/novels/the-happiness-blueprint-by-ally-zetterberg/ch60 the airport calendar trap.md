@@ -118,7 +118,7 @@ modified: "2026-09-24"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| airport | 机场 | "the airport" |
+| airport | 机场 | "The airport bustle" |
 | security | 安检 | "security" |
 | terminal | 航站楼 | "Terminal 2" |
 | event | 事件 | "New Event" |
@@ -130,7 +130,7 @@ modified: "2026-09-24"
 | calendar | 日历 | "a calendar" |
 | plan | 计划 | "life plans" |
 | man | 男人 | "not to change my life plans because of a man" |
-| search | 寻找 | "search" |
+| search | 寻找 | "Google Search" |
 | face | 脸 | "unknown faces" |
 | test | 考试 | "the IELTS test" |
 

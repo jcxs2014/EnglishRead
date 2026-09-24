@@ -105,7 +105,7 @@ modified: "2026-09-24"
 
 > **原句 8:** "While Pappa built shit, Mamma baked. Buns and rolls and shortbread cookies until her hands were rough and worked like an early-century laundry woman’s."
 
-**中文理解**：父亲去世后忙着搭建东西，母亲忙着烘焙；面包、卷饼和shortbread饼干一直做，直到双手粗糙得像早期世纪的女工。
+**中文理解**：Pappa 失去儿子后忙着搭建东西，Mamma 忙着烘焙；面包、卷饼和 shortbread 饼干一直做，直到双手粗糙得像早期世纪的女工。
 
 **关键词**：Pappa built shit / Mamma baked / shortbread cookies / hands were rough
 

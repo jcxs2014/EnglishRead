@@ -24,7 +24,7 @@ modified: "2026-09-24"
 
 **中文理解**：Alex 说“你在这儿”，Klara 盯着他：我一直在这儿等了二十分钟；既然他知道我的位置，为什么现在才到？
 
-**关键词**：There you are / There I am? / waiting for me / knew my location / arrived with his van
+**关键词**：There you are / There I am? / waiting for him / knew my location / arrived with his van
 
 **为什么这样写**：Alex 的日常招呼被 Klara 改写成质问，`There I am?` 把“你在这里”翻译成她早已存在的等待。`knew my location` 让她意识到技术定位能消除距离，却不能消除迟到；车成为实际抵达与情绪抵达的错位。
 
@@ -131,7 +131,7 @@ modified: "2026-09-24"
 | seductive | 诱惑的 | "keeping a seductive face" |
 | mischievous | 淘气的 | "a mischievous grape" |
 | unintended | 非故意的 | "an unintended addition" |
-| harmless | 无害的 | "the harmless type" |
+| harmless | 无害的 | "The harmless type." |
 | tiptoes | 脚尖 | "I’m on my tiptoes" |
 | overthinking | 过度思考 | "Queen of Overthinking Everything" |
 

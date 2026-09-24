@@ -22,13 +22,13 @@ modified: "2026-09-24"
 
 > **原句 1:** "New Note (Klara): Last night was amazing"
 
-**中文理解**：Klara 的新备注是：昨晚太棒了；Alex 回复：你太棒了。
+**中文理解**：Klara 的新备注是：昨晚太棒了。
 
 **关键词**：New Note / Last night was amazing
 
-**为什么这样写**：`Last night` 把整夜压缩成可共享的文字，`You are amazing` 又把事件评价转成对人的评价。两人第一次在日历里直接肯定幸福，却没有说“我爱你”；简单回复保留了关系的轻盈和不确定。
+**为什么这样写**：`Last night` 把整夜压缩成可共享的文字，让 Klara 先记录感受而不急着给关系命名。短备注保留了新关系的轻盈，也为下一条回复留下空间。
 
-**读者视角提示**：他们已经共享夜晚，却仍用备注而不是宣言确认彼此。
+**读者视角提示**：她先共享昨夜的好感受，而不是直接给关系下定义。
 
 ---
 
@@ -141,7 +141,7 @@ modified: "2026-09-24"
 | work | 工作 | "go to work" |
 | file | 文件 | "case file" |
 | car | 汽车 | "stop by my parents’" |
-| building | 建造物 | "birdhouses" |
+| building | 建造物 | "My dad kept building things" |
 | sled | 雪橇 | "chairs and sleds" |
 | chair | 椅子 | "chairs and sleds" |
 | loss | 失去 | "processing loss" |

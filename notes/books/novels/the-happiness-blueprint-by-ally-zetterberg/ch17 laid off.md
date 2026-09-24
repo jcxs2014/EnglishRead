@@ -12,7 +12,7 @@ modified: "2026-09-24"
 - **情感弧线位置**：被羞辱后的反击低点——她终于做出明确管理决定，却立即陷入人员流失与自我怀疑；父亲的信任没有消除危机，只把危机变成招聘与现金流的实际任务。
 - **Tropes 兑现/反转**：
   - **职场性化羞辱**：男性把 Klara 的身体和性生活当作她不适合管理的证据。
-  - **“女性必须被爱”内化**：她搜索自己是否需要被爱，说明外界歧视先进入她的自我判断。
+  - **“女性必须被性化”内化**：她搜索自己是否需要发生性行为，说明外界歧视先进入她的自我判断。
   - **辞职幻想／真正的解雇**：她用双关 `laid` 把两人的离开说成“laid off”，以幽默夺回叙述权。
 - **人物弧线**：Klara 从等待别人认可她“有用”，推进到当场拒绝侮辱并承担解雇后果；她的声音更坚定，内部却仍把自己视为会制造混乱的人。
 - **叙事手法**：第一人称现场叙述；仓库、日历、电话和人数从外部秩序切入，性别笑话与身体反应不断打断，结尾父亲用招聘任务把情绪重新拉回运营。
@@ -33,7 +33,7 @@ modified: "2026-09-24"
 
 > **原句 2:** "“She needs to get laid, probably hasn’t been shagged in years. So stiff, walking around here like she actually serves a purpose.”"
 
-**中文理解**：Mateusz 说 Klara 可能多年没有性生活，身体僵硬，走来走去却像真的在为公司发挥什么作用。
+**中文理解**：一名男员工说 Klara 可能多年没有性生活，身体僵硬，走来走去却像真的在为公司发挥什么作用。
 
 **关键词**：She needs to get laid / hasn’t been shagged in years / So stiff / actually serves a purpose
 
@@ -45,7 +45,7 @@ modified: "2026-09-24"
 
 > **原句 3:** "Do I need to get laid? I know this comment is bad because once I was pointing out to the supermarket staff that some red apples had gotten in with the green apples, and the young boy with an acne-scar-dimpled face said, “Chill. You need to get fucking laid.”"
 
-**中文理解**：Klara 忍不住搜索自己是否需要被爱；她想起曾在超市指出红苹果混进青苹果，却被 acne 男孩叫她“放轻松，你需要做爱”。
+**中文理解**：Klara 忍不住搜索自己是否需要做爱；她想起曾在超市指出红苹果混进青苹果，却被 acne 男孩叫她“放轻松，你需要做爱”。
 
 **关键词**：Do I need to get laid / red apples had gotten in with the green apples / acne-scar-dimpled face / You need to get fucking laid
 
@@ -150,8 +150,8 @@ modified: "2026-09-24"
 | employee | 员工 | "two employees" |
 | key | 钥匙 | "keys to each customer’s home" |
 | company | 公司 | "the home office" |
-| room | 房间 | "the room" |
-| work | 工作 | "the work" |
+| office | 办公室 | "the home office" |
+| work | 工作 | "unacceptable at work" |
 | home | 家 | "the home office" |
 | van | 货车 | "heads toward his van" |
 

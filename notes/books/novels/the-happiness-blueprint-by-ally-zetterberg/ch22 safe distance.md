@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Alex 入职三天后成为可靠、受欢迎又持续盯着 Klara 的新员工；她用两码“安全距离”管理吸引，向他介绍胰岛素泵与监测器，又请他教木匠活，随后因报名表把性别要求删除而经历职场边界与身体吸引的双重震荡。
+- **一句话概括**：Alex 入职三天后成为可靠、受欢迎又持续盯着 Klara 的新员工；她用两码“安全距离”管理吸引，向他介绍胰岛素泵与监测器，又请他教木匠活；此前发布招聘广告时性别条件被系统自动删除，本章则通过招聘取消和面试女性学徒，把职场边界与身体吸引的双重震荡具体化。
 - **情感弧线位置**：从职业好奇到明显心动的升温——Klara 承认 Alex 容易相处，却不断把他归类为“干扰源”；她开始主动请求他教技能，说明吸引已进入学习与依赖。
 - **Tropes 兑现/反转**：
   - **安全距离作为恋爱前兆**：两码距离看似防御，实则把注意力集中到身体边界本身。
@@ -86,9 +86,9 @@ modified: "2026-09-24"
 
 **关键词**：put things back on track / Gunnar, Alex and Hanna / get her act together / website she promised to sort out
 
-**为什么这样写**：`we` 的雏形由具体姓名组成，团队不再是她和难用的员工，而是一组可协作的支撑。Saga 的括号条件又保留了旧问题：远程承诺、实际缺席与现场人员之间仍有距离。
+**为什么这样写**：Alex 已经在下一段把自己纳入 `we`，本句则先由 Klara 列出具体姓名，把潜在团队支撑变成可见名单；Saga 的括号条件又保留了旧问题：远程承诺、实际缺席与现场人员之间仍有距离。
 
-**读者视角提示**：Klara 开始把 Alex 纳入“我们”，但仍需要在团队协同和个人安全感之间找到新协议。
+**读者视角提示**：Alex 已经开始把自己放进团队，但 Klara 仍需要在团队协同和个人安全感之间找到新协议。
 
 ---
 
@@ -137,7 +137,7 @@ modified: "2026-09-24"
 |---------|------|------|
 | apprentice | 学徒 | "A young apprentice named Hanna" |
 | diploma | 文凭 | "a diploma in tiling" |
-| cancellation | 取消 | "another email saying someone regrettably needs to cancel the job" |
+| cancellation | 取消 | "Another email saying someone regrettably needs to cancel the job" |
 | deposit | 押金 | "their deposit would be lost" |
 | carpentry | 木工；木工艺 | "teach me some carpentry" |
 | abdomen | 腹部 | "his flat, hard stomach" |

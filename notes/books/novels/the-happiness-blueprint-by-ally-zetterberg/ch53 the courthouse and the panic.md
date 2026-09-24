@@ -122,7 +122,7 @@ modified: "2026-09-24"
 |---|---|---|
 | imprint | 留下深刻印记 | "a werewolf that has imprinted" |
 | blur | 模糊；一片模糊 | "a strange blur" |
-| vanilla | 香草 | "a scented candle ... Vanilla" |
+| vanilla | 香草 | "a scented candle as well. Vanilla" |
 | carbs | 碳水化合物 | "carbs per hundred grams" |
 | depression | 抑郁 | "I’ve had depression" |
 | innate | 内在的；天生的 | "some innate part of me" |
@@ -155,7 +155,7 @@ modified: "2026-09-24"
 | support | 支持 | "those little things that just support me" |
 | files | 文件 | "stacks of files" |
 | security | 安保 | "the bulky security guy" |
-| solid | 坚固的 | "The world is there. Solid." |
+| solid | 坚固的 | "the world is there. Solid." |
 | count | 计数 | "Counting carbs" |
 | enough | 足够 | "strong enough" |
 
@@ -173,7 +173,7 @@ modified: "2026-09-24"
 | black | 黑色 | "wear black" |
 | color | 颜色 | "some color" |
 | suit | 西装 | "I’m wearing my suit" |
-| court | 法院 | "the courthouse" |
+| court | 法院 | "The courthouse is a brown ’80s building" |
 | people | 人们 | "the people I care about" |
 | file | 文件 | "stacks of files" |
 | bag | 包 | "bag-check point" |
@@ -181,7 +181,7 @@ modified: "2026-09-24"
 | breath | 呼吸 | "lungs filled with something sticky" |
 | shoulder | 肩膀 | "my shoulders relax" |
 | people | 人 | "the people I care about" |
-| time | 时间 | "all the time we—I—wasted" |
+| time | 时间 | "All the time we—I—wasted." |
 | work | 工作 | "arriving for work" |
 | life | 生活 | "life to be average" |
 

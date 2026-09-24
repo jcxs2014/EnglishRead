@@ -146,7 +146,7 @@ modified: "2026-09-24"
 | celebrate | 庆祝 | "take Dan, Mamma and Pappa out for a meal" |
 | funeral | 葬礼 | "your funeral" |
 | grief | 悲伤 | "six months of darkness" |
-| boss | 老板 | "When is your boss leaving?" |
+| boss | 老板 | "So when is your boss leaving?" |
 | coworker | 同事 | "a coworker’s excellent job performance" |
 | decent | 体面的 | "general decentness" |
 | Thai | 泰国的 | "in the mood for Thai" |

@@ -50,7 +50,7 @@ modified: "2026-09-24"
 
 **关键词**：leave early and get started / look at the time, confused / almost 5:00 p.m. / always finish work
 
-**为什么这样写**：Klara 先给行动许可，Alex 才意识到她把下班边界向后推了九分钟。`Which is when I always finish work` 让一个数字突然承载两人的关系；她的礼物不需要解释，而他先看表才看见她的意图。
+**为什么这样写**：Klara 先给行动许可，Alex 才意识到她让他在通常下班前离开；`Which is when I always finish work` 让一个数字突然承载两人的关系。她的礼物不需要解释，而他先看表才看见她的意图。
 
 **读者视角提示**：她没有替他做完调查，只把执行调查所需的时间还给了他。
 

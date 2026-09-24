@@ -105,7 +105,6 @@ modified: "2026-09-24"
 | anger | 愤怒 | "Fear, anger and regret" |
 | week | 周 | "It’s been a week" |
 | suit | 西装 | "Suit is thrown" |
-| person | 人 | "a person" |
 | talk | 谈 | "talk to me" |
 | space | 空间 | "claustrophobic" |
 
@@ -115,7 +114,6 @@ modified: "2026-09-24"
 |---|---|---|
 | week | 周 | "It’s been a week" |
 | suit | 西装 | "Suit is thrown" |
-| person | 人 | "a person" |
 | time | 时间 | "two days and five hours" |
 | fear | 恐惧 | "Fear, anger and regret" |
 | anger | 愤怒 | "Fear, anger and regret" |
@@ -126,7 +124,6 @@ modified: "2026-09-24"
 | car | 汽车 | "Sell car" |
 | ring | 戒指 | "Give ring back" |
 | job | 工作 | "Get over" |
-| person | 人 | "a person" |
 
 
 

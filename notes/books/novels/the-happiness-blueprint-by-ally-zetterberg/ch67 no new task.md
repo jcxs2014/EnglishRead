@@ -71,7 +71,7 @@ modified: "2026-09-24"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | task | 任务 | "NEW TASK" |
-| cloud | 云 | "a cloud" |
+| cloud | 云 | "Floating on a fucking cloud" |
 | brain | 大脑 | "Brain busy" |
 | love | 爱 | "busy with love" |
 | Klara | Klara | "love and Klara" |

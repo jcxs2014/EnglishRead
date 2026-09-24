@@ -97,7 +97,7 @@ modified: "2026-09-24"
 | desperately | 拼命地 | "desperately need" |
 | syndrome | 综合征 | "Down syndrome" |
 | buzz off | 嗡嗡地离开 | "buzz off now" |
-| measurable | 可测量的 | "measurable achievements" |
+| measurable | 可测量的 | "small, but measurable, achievements" |
 | sync | 同步 | "sync their lives" |
 
 ### ⭐⭐ 进阶

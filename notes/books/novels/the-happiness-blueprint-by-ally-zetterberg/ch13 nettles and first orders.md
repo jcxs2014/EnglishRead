@@ -73,7 +73,7 @@ modified: "2026-09-24"
 
 **关键词**：no tiler or carpenter / only claim to the trade / amateur installation / an electrocution chamber
 
-**为什么这样写**：她先列出自己不具备的技能，再用 `electro cution chamber` 把客户 DIY 的危险夸张成荒诞刑具。`claim` 既指主张资格，也暗示她只借父亲的身份入场；黑色幽默没有消除安全问题，反而让“看起来快完成”的错觉更刺眼。
+**为什么这样写**：她先列出自己不具备的技能，再用 `electrocution chamber` 把客户 DIY 的危险夸张成荒诞刑具。`claim` 既指主张资格，也暗示她只借父亲的身份入场；黑色幽默没有消除安全问题，反而让“看起来快完成”的错觉更刺眼。
 
 **读者视角提示**：第一次独立判断现场时，Klara 看见的不是“差一点就专业”，而是需要专业重新安装的危险。
 

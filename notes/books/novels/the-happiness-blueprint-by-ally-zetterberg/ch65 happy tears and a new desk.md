@@ -145,17 +145,15 @@ modified: "2026-09-24"
 |---|---|---|
 | task | 任务 | "NEW TASK" |
 | car | 汽车 | "the car" |
-| job | 工作 | "new job" |
 | week | 周 | "as of last week" |
-| home | 家 | "new home" |
+| home | 家 | "bring home croissants regularly" |
 | chair | 椅子 | "matching chairs" |
 | backpack | 背包 | "her backpack" |
 | jacket | 夹克 | "her jacket" |
 | cup | 杯子 | "a cup" |
 | price | 价格 | "those prices" |
 | table | 桌子 | "a table" |
-| room | 房间 | "a room" |
-| pay | 支付 | "paying" |
+| room | 房间 | "Alice, about the room" |
 | time | 时间 | "this week" |
 
 ## 一句话总结

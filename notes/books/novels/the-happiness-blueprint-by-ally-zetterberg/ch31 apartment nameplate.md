@@ -161,7 +161,7 @@ modified: "2026-09-24"
 | room | 房间 | "sparse rooms" |
 | person | 人 | "a specific person" |
 | door | 门 | "the door closes smoothly" |
-| dog | 狗 | "woman with dog" |
+| dog | 狗 | "Woman with dog and red fleece unfortunately doesn’t return many results" |
 | red | 红色 | "red fleece" |
 | home | 家 | "home on time" |
 

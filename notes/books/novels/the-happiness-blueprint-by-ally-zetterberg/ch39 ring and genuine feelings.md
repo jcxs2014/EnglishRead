@@ -161,7 +161,7 @@ modified: "2026-09-24"
 | ring | 戒指 | "the ring" |
 | hospital | 医院 | "the hospital" |
 | office | 办公室 | "consultation room" |
-| person | 人 | "a person" |
+| person | 人 | "a dead person’s ring" |
 | calendar | 日历 | "Personal Calendar" |
 
 ## 一句话总结

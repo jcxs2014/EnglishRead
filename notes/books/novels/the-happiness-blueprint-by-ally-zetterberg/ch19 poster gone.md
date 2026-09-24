@@ -21,11 +21,11 @@ modified: "2026-09-24"
 
 > **原句 1:** "Act professional and cool (like the job is already yours)"
 
-**中文理解**：日历要求 Alex 表现得专业、冷静，像工作已经拿到手，而且不要显露软弱或抑郁。
+**中文理解**：日历要求 Alex 表现得专业、冷静，像工作已经拿到手。
 
 **关键词**：Act professional and cool / like the job is already yours
 
-**为什么这样写**：任务把面试拆成表演规范，`already yours` 预先规定成功姿态，`Don’t show` 则把情绪变成可见风险。Alex 可以逐条完成，却仍会被自己的脸和声音泄露内在。
+**为什么这样写**：任务把面试拆成表演规范，`already yours` 预先规定成功姿态；Alex 可以逐条完成，却仍会被自己的脸和声音泄露内在。
 
 **读者视角提示**：恢复计划的外壳是主动控制，内里仍假设“真实的抑郁”不能被带进未来。
 

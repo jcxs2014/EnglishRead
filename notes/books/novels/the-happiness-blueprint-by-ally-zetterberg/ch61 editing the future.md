@@ -110,7 +110,7 @@ modified: "2026-09-24"
 
 **关键词**：may never read / at least it exists / the future I’d like
 
-**为什么这样写**：`may never` 不把未来寄托在对方阅读上，`at least it exists` 却保留作者本人。它从共同日历退回到私人草稿，表达不再要求即时回应；Alex 能做的最小事情，是先写出自己想成为的关系。
+**为什么这样写**：`may never` 不把未来寄托在对方阅读上，`at least it exists` 却保留作者本人。它仍写在 `Shared Calendar` 中，却不要求对方立即回应；表达从“让她回来”退为“先写出自己想成为的关系”。
 
 **读者视角提示**：他把希望从“让她回来”降为“我愿意这样活”，未来因此不再完全由她的选择决定。
 
@@ -152,7 +152,7 @@ modified: "2026-09-24"
 | speaker | 广播设备 | "on the speakers" |
 | seat | 座位 | "a seat to Reykjavik" |
 | run | 跑 | "I run toward gate 22" |
-| leg | 腿 | "my legs ache" |
+| leg | 腿 | "My legs ache from being on my feet all day." |
 | beer | 啤酒 | "the obligatory beer" |
 | wine bar | 葡萄酒吧 | "The wine bar" |
 | past | 过去 | "change the past" |
@@ -169,7 +169,7 @@ modified: "2026-09-24"
 | airport | 机场 | "Kastrup Airport" |
 | ticket | 票 | "ticket desk" |
 | help | 帮助 | "help me" |
-| name | 名字 | "a name" |
+| name | 名字 | "Klara’s name being called out" |
 | home | 家 | "get home" |
 | friend | 朋友 | "I still have Dan" |
 | day | 天 | "today" |

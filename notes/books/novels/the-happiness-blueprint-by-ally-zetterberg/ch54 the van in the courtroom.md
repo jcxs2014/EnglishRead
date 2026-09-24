@@ -8,7 +8,7 @@ modified: "2026-09-24"
 
 ## 本章导航
 
-- **一句话概括**：Klara 陪 Alex 进入庭审，第一次见到 Alex 的父母，也从文件里认出 Mateusz 是公司司机；她在法庭上与被告对峙，Alex 得知她可能开过撞死哥哥的同一辆 van，愤怒转向她，最后她离开并辞职。
+- **一句话概括**：Klara 陪 Alex 进入庭审，第一次见到 Alex 的父母，也从文件里认出 Mateusz 是公司司机；她在法庭上与被告对峙，Alex 得知她可能开过撞死哥哥的同一辆 van，愤怒转向她，最后她离开，Alex 辞职。
 - **情感弧线位置**：支持关系的突然断裂——她从紧贴 Alex、愿意陪伴，转为被指控隐瞒信息和共犯身份；Alex 的信任不是因她做错事，而是因她也不知道完整故事而被击碎。
 - **Tropes 兑现/反转**：
   - **“见家长”反转成身份审判**：Alex 的 Mum 先拥抱式问候，随后文件把 Klara 放进嫌疑链。
@@ -74,7 +74,7 @@ modified: "2026-09-24"
 
 **关键词**：Get off me / disgust in my voice
 
-**为什么这样写**：命令短促直接，`disgust` 把礼貌和克制全部撤走。此前她一直用等待、手册和自我提示处理压力，这句让她第一次把身体边界优先于社交程序；厌恶也让读者看见被告触碰的不只是肩膀，而是她的案件位置。
+**为什么这样写**：命令短促直接，`disgust` 把礼貌和克制全部撤走。在庭审现场，这句让 Klara 第一次把身体边界优先于社交程序；厌恶也让读者看见被告触碰的不只是肩膀，而是她的案件位置。
 
 **读者视角提示**：她在混乱中不是被动受害者，而是能立即说出“不”。
 
@@ -108,7 +108,7 @@ modified: "2026-09-24"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| clingy | 黏人的 | "your partner is too clingy" |
+| clingy | 黏人的 | "Your Partner Is Too Clingy" |
 | emotionally dependent | 情感依赖的 | "too emotionally dependent" |
 | tight-fitting | 紧身的 | "tight-fitting, like a garment" |
 | seasickness | 晕船 | "a seasickness band" |
@@ -135,7 +135,7 @@ modified: "2026-09-24"
 |---|---|---|
 | anxiety | 焦虑 | "anxiety attacks" |
 | attack | 发作 | "anxiety attacks" |
-| partner | 伴侣 | "your partner" |
+| partner | 伴侣 | "Your Partner" |
 | distance | 距离 | "two-yard distance" |
 | comfort | 安慰 | "comfort food" |
 | legal team | 法律团队 | "a small legal team" |
@@ -168,7 +168,7 @@ modified: "2026-09-24"
 | body | 身体 | "My body reacts" |
 | stomach | 胃 | "my stomach turning itself" |
 | document | 文件 | "full of documents" |
-| court | 法院 | "at court" |
+| court | 法院 | "I’ve never been to court before" |
 | serious | 严肃的 | "look serious" |
 | room | 房间 | "the room" |
 | floor | 地面 | "the floor ahead of me" |
