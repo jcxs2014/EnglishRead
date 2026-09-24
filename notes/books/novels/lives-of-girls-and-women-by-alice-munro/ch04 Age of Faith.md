@@ -27,7 +27,7 @@ modified: "2026-09-24"
 
 > **原句 2:** I had never had a picture of God so clear and uncomplicated as my picture of the burglars.
 
-**中文理解**：我从未像想象盗贼那样，拥有一幅如此清楚而 uncomplicated 的上帝图像。
+**中文理解**：我从未像想象盗贼那样，拥有一幅如此清楚而不复杂的上帝图像。
 
 **关键词**：picture of God / clear and uncomplicated / burglars
 
@@ -57,7 +57,7 @@ modified: "2026-09-24"
 
 > **原句 5:** So here was what I had not known, but must always have suspected, existed, what all those Methodists and Congregationalists and Presbyterians had fearfully abolished—the theatrical in religion.
 
-**中文理解**：所以，这就是我以前不知道、却一直怀疑存在的东西：卫理公会、 congregationalists 和长老会害怕地废除掉的宗教戏剧性。
+**中文理解**：所以，这就是我以前不知道、却一直怀疑存在的东西：卫理公会、公理会和长老会害怕地废除掉的宗教戏剧性。
 
 **关键词**：what I had not known / had fearfully abolished / the theatrical in religion
 
