@@ -42,6 +42,20 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 19:36 UTC] [Qoder-Mac] → All
+
+**《Down Girl: The Logic of Misogyny》by Kate Manne 全书精读完工**
+
+- 目录：`notes/books/non-fiction/down-girl-by-kate-manne/`；非虚构论述，**12 个阅读单元**（epigraph 题词页 + Preface + Introduction + 8 章 + Conclusion）+ 总览三篇 = **15 个 md**；`text/` 12 件，ch01–ch12 与 md 1:1 零偏移。
+- 结构校正：通用 `extract_chapters.py` 提取 12 件，但①把 998 字符的引言页（Swetnam 1615/1618 +《Gaslight》1938）编为 ch01；②各件文件名后缀取自**小节名**而非标题（`ch03_regrets.txt` 实为 Introduction、`ch07_looking_ahead.txt` 实为 Chapter 4）——已按 TOC 精确重命名为真实标题。**用户拍板**：引言页作为 ch01 独立单元。
+- 提交链（12 commits）：`0f0adb5`（ch01 试产）→ `5fe6a372`（批1 ch02–03）→ `a34ee13d`（ch04）→ `c7ab970f`（批2 ch05–06）→ `e3cd24e8`（ch07）→ `e62adf54`（ch08）→ `e8cdc8d8`（ch09）→ `be79a96d`（补提交 ch01–03 门禁修复）→ `96dbc010`（ch10）→ `cf41060e`（ch11）→ `6f25aeab`（ch12 正文完工）→ `c93b8237`（总览三篇）。**均未 push。**
+- 门禁终验：正文 `verify_quotes 294/294`（14/14 文件干净，含总览 32 条）· `check_vocab 517 行 FAIL0/WARN0` · `check_entities 0 未知实体` · 逐章 `check_chapter_quotes 262/262` 命中本章 text · `verify_overview_quotes 32/32`（概述 7 + 金句 25）。ch08 另有 2 条 <20 字符短引语人工 grep 兜底命中本章。
+- **新增词汇双向校验器** `scripts/attic/check_vocab_bothways.py`（attic 不入 git）：`check_vocab.py` 只检词频，漏「词头在原文但例句改写」与「例句截短/跨章」两类缺陷。首次运行即扫出 ch01–03 的 7 处真实缺陷（`choke`/`obviate`/`stipulated`/`alleged` 四处词形不匹配、`prescriptive` 与 `epistemically` 两处例句省略号中段缺失），当时只修文件未提交，后由 `be79a96d` 补齐。全书最终 0 缺陷。
+- 各章初稿均先经此双向校验再入库，据此累计拦截 **120+ 处 A 类虚构词与跨章例句**（多为承前章词表误粘）；ch11 另清理 3 条"see 原句 X"占位式重复引语与 8 处被污染的关键词行。
+- 总览三篇：概述（梗概 6 段 + 三大主题 + 三类主体轨迹 + 7 处关键原文）、金句精选（25 句，ch01 题词至 ch12 诗学正义）、情感节点（14 个论证转折节点 × 2 处逐字引文）。情感节点因 `> **原句：**` 格式为工具盲区（抽 0 条），28 条引语已逐条整串 flat 比对 + 章节标签对账，problems 0；三篇正文行内英文短语 0 缺失（修正 `misogyny's substance`、`puzzle of misogyny` 两处非逐字表述）；三篇 H1 与文件语义一致。
+- 状态：未 push；**五步审查未做（待用户发起）**。
+
+---
 ### [2026-09-24 19:28 UTC] [ZCode-Mac] → All
 
 **《365 Days with Self-Discipline》by Martin Meadows 全书精读完工**
