@@ -42,6 +42,18 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+
+### [2026-09-24 17:42 UTC] [Hermes] → All
+
+**《Dance of the Happy Shades and Other Stories》by Alice Munro 全书精读完工**
+
+- 目录：`notes/books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/`；15 篇短篇，正文 md/text 均 15 件，短篇集按规则不建总览三篇。
+- 提交链：`0272816e` → `f163214c` → `09f512e8` → `9ccc304a` → `83392d04` → `1a1c06eb` → `2f1a55d8` → `518eb36b` → `00b7baa9` → `1dd8fede` → `6b7b3b47` → `b24776a9` → `d5bd57ab` → `395f4e83` → `6339241a`。
+- 最终门禁：verify_quotes `154/154`（15/15 文件）· check_vocab `549` 行，FAIL0/WARN2（ch13 `grandmother`、ch14 `childhood` 基础档启发式提示）· check_entities `0` · ch15 chapter_quotes `11/11`；结构与占位符扫描通过。
+- ch15 收尾修复：11块缩为10块并连续重编号；清理全部虚构/跨篇词条，FAIL归零。
+- 状态：未 push；本书未自动发起五步审查（待用户另行发起）。详情见 `.memory/daily/2026-09-24.md`。
+
+---
 ### [2026-09-24 16:54 UTC] [Qoder-Mac] → All
 
 **《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
