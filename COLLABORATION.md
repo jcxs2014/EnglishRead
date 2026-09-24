@@ -46,92 +46,12 @@
 
 **《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
 
-- 目录：`notes/books/novels/so-we-meet-again-by-suzanne-park/`；23 章逐章精读 + `00_全书概述.md`／`00_金句精选.md`／`00_情感节点.md`，共 26 个 md；正文 ch01–ch23 与 text 1:1 对应。
-- 既有提交链：`5ab64bcd`（ch01–03）→ `096c9ef4`（ch04–06）→ `43048ea7`（ch07–09）→ `0eab57ed`（ch10–12）→ `4defdcf4`（ch13–15）→ `e3748983`（ch16–18）→ `87f5b9c3`（ch19–21）→ `833026a6`（ch22–23）→ `66122577`（总览三篇）。
-- 本轮由用户明确触发第 10 条 a–e 五步审查；a–e 全部完成，修复章节语义/结构 29 处、总览事实/标签 12 处；本轮修复与本条记录尚未 commit，未 push。
-
-**a 现场重跑原始结果**：
-```text
-00_全书概述.md: ⚠️ 未提取到编号引语（请人工核对格式）
-00_情感节点.md: 18/18 ✅
-00_金句精选.md: 25/25 ✅
-ch01 chapter one.md: 7/7 ✅（另有 1 条短引语未校验）
-ch02 chapter two.md: 7/7 ✅
-ch03 chapter three.md: 8/8 ✅
-ch04 chapter four.md: 7/7 ✅
-ch05 chapter five.md: 8/8 ✅
-ch06 chapter six.md: 8/8 ✅
-ch07 chapter seven.md: 6/6 ✅
-ch08 chapter eight.md: 8/8 ✅
-ch09 chapter nine.md: 7/7 ✅
-ch10 chapter ten.md: 8/8 ✅
-ch11 chapter eleven.md: 7/7 ✅
-ch12 chapter twelve.md: 8/8 ✅
-ch13 chapter thirteen.md: 7/7 ✅
-ch14 chapter fourteen.md: 8/8 ✅
-ch15 chapter fifteen.md: 8/8 ✅
-ch16 chapter sixteen.md: 7/7 ✅
-ch17 chapter seventeen.md: 6/6 ✅（另有 1 条短引语未校验）
-ch18 chapter eighteen.md: 8/8 ✅
-ch19 chapter nineteen.md: 8/8 ✅
-ch20 chapter twenty.md: 6/6 ✅
-ch21 chapter twenty-one.md: 8/8 ✅
-ch22 chapter twenty-two.md: 7/7 ✅
-ch23 chapter twenty-three.md: 8/8 ✅
-⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
-=== 总计 213/213 引文可核实（100%）；完全干净文件 25/25 ===
-```
-```text
-词条行合计: 207
---- FAIL (0) ---
---- WARN (0) ---
-```
-```text
-=== 实体一致性检测：0 个文件存在未知实体 ===
-```
-```text
-00_全书概述.md: ⚠️ 未提取到编号引语（请人工核对格式）
-00_情感节点.md: 18/18 ✅
-00_金句精选.md: 25/25 ✅
-=== 总览引文 43/43 可核实（100%）；完全干净文件 2/2 ===
-```
-```text
-交叉引用核对：0 对，报警 0
-```
-
-**b 逐章归属原始结果（逐一现场复跑）**：
-```text
-ch01 chapter one.md: 7/7 in ch01 text（另有 1 条短引语未校验）
-ch02 chapter two.md: 7/7 in ch02 text
-ch03 chapter three.md: 8/8 in ch03 text
-ch04 chapter four.md: 7/7 in ch04 text
-ch05 chapter five.md: 8/8 in ch05 text
-ch06 chapter six.md: 8/8 in ch06 text
-ch07 chapter seven.md: 6/6 in ch07 text
-ch08 chapter eight.md: 8/8 in ch08 text
-ch09 chapter nine.md: 7/7 in ch09 text
-ch10 chapter ten.md: 8/8 in ch10 text
-ch11 chapter eleven.md: 7/7 in ch11 text
-ch12 chapter twelve.md: 8/8 in ch12 text
-ch13 chapter thirteen.md: 7/7 in ch13 text
-ch14 chapter fourteen.md: 8/8 in ch14 text
-ch15 chapter fifteen.md: 8/8 in ch15 text
-ch16 chapter sixteen.md: 7/7 in ch16 text
-ch17 chapter seventeen.md: 6/6 in ch17 text（另有 1 条短引语未校验）
-ch18 chapter eighteen.md: 8/8 in ch18 text
-ch19 chapter nineteen.md: 8/8 in ch19 text
-ch20 chapter twenty.md: 6/6 in ch20 text
-ch21 chapter twenty-one.md: 8/8 in ch21 text
-ch22 chapter twenty-two.md: 7/7 in ch22 text
-ch23 chapter twenty-three.md: 8/8 in ch23 text
-```
-
-**c/d/e 审查结果**：
-- c 结构扫描：172 个章节引语块；编号连续、四子项齐全、零孤儿块、零重复块；整行 flat sweep `172/172`，关键词锚定 `0`，H1 与文件名/text 映射正确；总览 H1 语义正确，章节标签对账 `43/43`。
-- d 语义二审：5 批章节逐对核对 + 1 批总览逐条核对；修复 ch01–ch23 的术语/语义、导航事实、关键词锚定和 3 处 `读者视角提示` 标签，修复总览中的金句章节标签、说话人/场景、直播/录制、频道名称、收购洽谈措辞、结尾在场人物和母亲台词时点。跨书实体检索只命中目标书。
-- e 总览事实：`verify_overview_quotes 43/43`；概述、金句精选、情感节点的人物/关系/结局回查通过；概述行内英文片段与修正后总览标签人工核对；`audit_book` text/epub 抽检 `28/28`。
-- 短引语人工兜底：ch01 `But you’re not a leader`、ch17 `Love, love, LOVE the burn!` 均已 grep 命中本章原文。
-- 同会话审查已知局限：d 步虽分批代理并由主会话复核，仍不能完全排除全书统一口径的系统性误判；如需更强独立性，建议另指定异实例复核。
+- 目录：`notes/books/novels/so-we-meet-again-by-suzanne-park/`；23 章 + 3 篇总览，共 26 个 md；正文 ch01–ch23 与 text 1:1 对应。
+- 提交链：`5ab64bcd` → `096c9ef4` → `43048ea7` → `0eab57ed` → `4defdcf4` → `e3748983` → `87f5b9c3` → `833026a6` → `66122577`。
+- 五步审查 a–e 全部完成：修复章节语义/结构 29 处、总览事实/标签 12 处；短引语 ch01/ch17 已人工 grep。
+- 最终门禁：章节引语 213/213；vocab 207 条 FAIL0/WARN0；entities 0；逐章归属 170/170；总览 43/43；crossref 0；整行 sweep 172/172；audit text/epub 28/28。
+- 记录：协作板与工作日志各保留本书唯一条目；本轮修复与记录尚未 commit，未 push。
+- 同会话审查局限：无法完全排除全书统一口径的系统性误判，已如实记录。
 
 ---
 ### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
@@ -147,7 +67,7 @@ ch23 chapter twenty-three.md: 8/8 in ch23 text
 
 ---
 
-### [2026-09-24 17:45 UTC] [ZCode-Mac] → All
+### [2026-09-24 16:58 UTC] [ZCode-Mac] → All
 
 **《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro 全书精读完工 + 五步审查完成**
 
