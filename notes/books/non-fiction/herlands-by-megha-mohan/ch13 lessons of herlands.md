@@ -67,19 +67,19 @@ modified: "2026-09-24"
 
 **为什么这样写**：它为全书案例提供理论连接：女性空间不必先获得中心位置才开始行动，边缘性本身可以成为知识和组织的来源。
 
-### ③ 土地是共同体成员
+### ③ Babayagas 的土地伦理
 
 > **原句 3:** "They view the land on which they live as a sister in their community, one they are in a reciprocal relationship with."
 
-**中文理解**：她们把居住的土地看作共同体中的姐妹，并与它建立互惠关系。
+**中文理解**：她们（巴黎 Babayagas 共同体）把居住的土地看作共同体里的姐妹，并与它建立互惠关系。
 
-**句子结构**：`They` 是主语，`view the land` 是谓语和宾语；`as a sister in their community` 是补语，`one they are in a reciprocal relationship with` 是同位语，其中 `with` 引出关系对象。
+**句子结构**：`They` 是主语，`view the land` 是谓语和宾语；`as a sister in their community` 是补语，`one they are in a reciprocal relationship with` 是同位语，其中 `with` 引出关系对象；原文紧接着以 `The land is a community member who needs nourishment...` 进一步解释这种互惠关系。
 
 **关键词**：view the land、a sister、a reciprocal relationship。
 
 **表达方式**：`sister` 把抽象土地关系亲属化，`reciprocal` 强调土地给予和接受照护的相互性，而不是单向开发。
 
-**为什么这样写**：它把女性、土地和生态伦理连接起来，说明女性共同体的排他性也可以同时是对非人类世界的负责，而不是单纯的封闭。
+**为什么这样写**：作者把女性、土地和生态伦理连接起来，说明女性共同体的边界也可能包含对非人类世界的责任，而不是单纯的封闭。
 
 ### ④ 女性空间重新配置领导文化
 
@@ -123,7 +123,7 @@ modified: "2026-09-24"
 
 **为什么这样写**：作者把女性空间的失败放在资源和治理上解释，提醒读者：没有长期照护、筹资和组织劳动，理想不会自动持续。
 
-### ⑦ 边缘能产生改变
+### ⑦ 空间作为制度更新蓝图
 
 > **原句 7:** "The women-led spaces we’ve visited together are blueprints for a system update – a means to reset administrations conceived by male governance."
 
@@ -135,21 +135,21 @@ modified: "2026-09-24"
 
 **表达方式**：`blueprint`、`update` 和 `reset` 把政治制度改写为技术隐喻，既突出行动方向，也暗示女性空间可以成为重新设计公共系统的模型。
 
-**为什么这样写**：女性空间的价值不止是让少数人过得舒适，而在于把被男性治理忽视的经验转化为制度更新的资源和问题意识。
+**为什么这样写**：作者把女性空间与制度更新直接连接起来：边缘女性的经验不只是获得支持，也可以成为重新设计公共系统的资源。
 
 ### ⑧ 说出名字
 
-> **原句 8:** "My daughter was Jyoti Singh and I am not ashamed to name her. It is the offenders who should be ashamed and hide their name."
+> **原句 8:** "My daughter was Jyoti Singh and I am not ashamed to name her. It is the offenders who should be ashamed and hide their name. I want to tell everyone that my daughter’s name was Jyoti Singh. From today, everyone should know her as Jyoti Singh."
 
-**中文理解**：我的女儿叫 Jyoti Singh，我不怕说出她的名字。应该感到羞耻并隐藏姓名的，是那些犯罪者。
+**中文理解**：我的女儿叫 Jyoti Singh，我不怕说出她的名字。应该感到羞耻并隐藏姓名的，是那些犯罪者。我想告诉所有人：我女儿的名字就是 Jyoti Singh；从今天起，所有人都应该以 Jyoti Singh 这个名字认识她。
 
-**句子结构**：`My daughter was Jyoti Singh` 是陈述句；`I am not ashamed to name her` 中 `be ashamed to do` 是不定式结构；后句 `It is the offenders who should be ashamed and hide their name` 使用强调句型，`It` 是形式主语，`the offenders` 是强调成分。
+**句子结构**：`My daughter was Jyoti Singh` 是陈述句；`I am not ashamed to name her` 中 `be ashamed to do` 是不定式结构；`It is the offenders who should be ashamed and hide their name` 使用强调句型，`It` 是形式主语，`the offenders` 是强调成分；`I want to tell everyone that...` 以 `that` 宾语从句承载公开命名的要求，`From today` 则把重复命名转化为立即生效的公共承诺。
 
-**关键词**：Jyoti Singh、not ashamed to name、the offenders、should be ashamed、hide their name。
+**关键词**：Jyoti Singh、not ashamed to name、the offenders、should be ashamed、hide their name、tell everyone、From today、know her。
 
-**表达方式**：`not ashamed` 将羞耻从受害者转移到施害者；强调句型让 `the offenders` 成为道德判断的中心，要求国家和公众改变替谁命名、替谁沉默的秩序。
+**表达方式**：`not ashamed` 将羞耻从受害者转移到施害者；强调句型让 `the offenders` 成为道德判断的中心，重复 `my daughter’s name was Jyoti Singh` 以及 `From today` 则把命名从个人陈述推进为要求公众共同记忆的宣言。
 
-**为什么这样写**：女性空间的意义不仅是自我保护，也在于让被抹去的人重新获得名字和公共可见性；这句话把安全、尊严和反暴力连接起来。
+**为什么这样写**：女性空间的意义不仅是自我保护，也在于让被抹去的人重新获得名字和公共可见性；公开说出姓名、要求所有人记住姓名，把受害者的经历与公共反暴力行动直接连接起来。
 
 ### ⑨ 反对不包容的空间
 
@@ -202,6 +202,7 @@ modified: "2026-09-24"
 | communal will | 共同体意志 | they need constant championing and a communal will in order to continue |
 | cohabiting | 共同居住的；合住的 | It was a temporary cohabiting experiment with three rules: |
 | autonomy | 自主；自主权 | a localised community space is an act of defiance. It helps to cultivate a sense of autonomy when the wider world feels out of control. |
+| community | 共同体 | A community is a conglomerate of backstories. |
 | solidarity | 团结；声援 | a place where she can talk to and share with other women |
 | grassroots | 草根的；自下而上的 | Some point to the work done by grassroots feminists as better examples for future models. |
 | replicated | 复制；仿效 | I can see the lower commitment model of ‘际屿With’ being replicated around the world in a more fruitful way than some of the more fixed communities we have visited. |
@@ -214,7 +215,6 @@ modified: "2026-09-24"
 | women | 女性 | Women’s communities, including the ones I have visited, accept that within inclusive societies sometimes men will make an appearance. |
 | space | 空间 | Women’s communities and women’s spaces will therefore multiply. |
 | family | 家庭 | We both see family as a collective, not as atomised nuclear groups. |
-| group | 小组；群体 | a localised community space is an act of defiance. |
 | rights | 权利 | Instead of torpedoing society by loudly demanding our rights, we are quietly carving out our place through a space just for women. |
 | safety | 安全 | they have built women-led havens that redefine a woman’s status in elderhood |
 | world | 世界 | Our family tharavad may no longer exist in clay, timber and palm leaves, but the foundation for sisterhood has been laid for all the daughters of Palayil. |

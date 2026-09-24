@@ -83,17 +83,17 @@ modified: "2026-09-24"
 
 ### ④ 王妻是“女性学院”
 
-> **原句 4:** "Academic Tebogo George Mahashe refers to the queen’s wives as a ‘college of women’. ‘This was a horizontal structure. The queen was the principal and her wives were the diplomats of the nation.'"
+> **原句 4:** "Academic Tebogo George Mahashe refers to the queen’s wives as a ‘college of women’. ‘This was a horizontal structure. The queen was the principal and her wives were the diplomats of the nation. The queen’s wives were a school of highly specialised individuals, specialists in diplomacy.’"
 
-**中文理解**：学者 Tebogo George Mahashe 把女王的王妻称为一所“女子学院”；这是一个横向结构，女王是校长，而王妻则是国家的外交官。
+**中文理解**：学者 Tebogo George Mahashe 把女王的王妻称为一所“女子学院”；这是一个横向结构，女王是校长，而王妻则是国家的外交官。她们还是一群高度专业化的个体，专门从事外交。
 
-**句子结构**：第一句用 `refers to... as` 形成术语转换；第二句是对“学院”的定义，两个分句以并列谓语 `was` 和 `were` 对照，身份隐喻把组织关系和职责同时可视化。
+**句子结构**：第一句用 `refers to... as` 形成术语转换；第二句是对“学院”的定义，两个分句以并列谓语 `was` 和 `were` 对照；第三句用系表结构把王妻定义为 `a school of highly specialised individuals`，并以逗号后的同位语 `specialists in diplomacy` 具体化其专业职责。
 
-**关键词**：college of women、horizontal structure、principal、diplomats。
+**关键词**：college of women、horizontal structure、principal、diplomats、highly specialised individuals、specialists in diplomacy。
 
-**表达方式**：`college` 将女性空间教育化，`principal` 保留君主中心但 `horizontal` 立即限制其权力形态；`diplomats` 又把课堂关系换成国家关系，显示王妻拥有跨社区的实践权限。
+**表达方式**：`college` 将女性空间教育化，`principal` 保留君主中心但 `horizontal` 立即限制其权力形态；`diplomats` 又把课堂关系换成国家关系，`school of highly specialised individuals` 进一步强调王妻不是泛泛的女性同伴，而是拥有专业训练、承担外交职责的制度成员。
 
-**为什么这样写**：作者借“学院”同时回应两个偏见：女性圈不是私人后院，也不只是一个女人带领的队列；横向组织与专业劳动是其制度实质。
+**为什么这样写**：作者借“学院”同时回应两个偏见：女性圈不是私人后院，也不只是一个女人带领的队列；横向组织与专业劳动是其制度实质，而“专业外交者”的补充让女性权威具有可识别的知识和劳动内容。
 
 ### ⑤ 雨祭的核心秘密
 
@@ -125,7 +125,7 @@ modified: "2026-09-24"
 
 ### ⑦ 拒绝服从与拒绝被利用
 
-> **原句 7:** "The Balobedu were not a people driven by profit and money during the rule of the queens. Produce was farmed, consumed and traded between people, rather than marketed and sold. The queen did not tax her own people and did not want to be a part of a governmental hierarchy of money."
+> **原句 7:** "‘The Balobedu were not a people driven by profit and money during the rule of the queens,’ Rodney Mokgwakgwe Modjadji told me. ‘Produce was farmed, consumed and traded between people, rather than marketed and sold. The queen did not tax her own people and did not want to be a part of a governmental hierarchy of money.’"
 
 **中文理解**：Rodney Mokgwakgwe Modjadji 向作者讲述：女王统治时期，Balobedu 人并不是由利润和金钱驱动的民族；人们种植、消费并在彼此之间交易产品，而不是把它们市场化出售。女王不向自己的人民征税，也不愿成为金钱政府等级体系的一部分。
 
@@ -171,7 +171,7 @@ modified: "2026-09-24"
 
 **中文理解**：王权的未来仍不确定。下一任王室统治者会从女性圈中汲取力量吗？他们会坐在那棵 mobidibidi 树下，喝着一杯 mophapo 酒，培养共同体身份与归属感，并呼唤前代女王们的智慧——那些在周围土地被男性部落首领和殖民者夺走时仍坚定抵抗的女性？
 
-**句子结构**：首句是状态判断；后两句以 `Will...` 构成连续疑问，第二句用并列动名词 `sitting, drinking, cultivating... and calling...` 构成未来图景，末尾破折号中的 `the women who...` 进一步限定前代女王的历史形象。
+**句子结构**：第一句是状态判断；后两句以 `Will...` 构成连续疑问，第二句用并列动名词 `sitting, drinking, cultivating... and calling...` 构成未来图景，末尾破折号中的 `the women who...` 进一步限定前代女王的历史形象。
 
 **关键词**：future、draw strength、communal identity、belonging、wisdom。
 

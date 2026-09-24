@@ -208,20 +208,19 @@ modified: "2026-09-24"
 | machismo | 大男子主义 | Machismo situates manliness with the expectation of dominance in community and family structures. |
 | identity | 身份；共同体认同 | take comfort in a shared identity. |
 | online | 在线的 | an online outpost of Casa das Mulheres |
+| community | 共同体 | We are a community. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |
 |---------|------|-------------|
 | women | 女性 | women from the favelas |
-| group | 小组；群体 | the girls’ group chat still pings daily |
-| community | 共同体 | We are a community. |
 | house | 房屋 | the first house in the favelas of Maré |
 | help | 帮助 | we could advise them, and get them help. |
 | violence | 暴力 | if we speak up against the violence |
 | home | 家；住所 | A place to sit with your friends on a rooftop |
 | together | 一起 | they grow when they meet. |
-| girls | 女孩；年轻女性 | the girls’ group chat still pings daily |
+| girls | 女孩；年轻女性 | a group of teenage girls |
 | memory | 记忆 | The memory of Dona, the mother of Maré, is precious to the people of the favelas. |
 | city | 城市 | an informal parliament, a city hall. |
 

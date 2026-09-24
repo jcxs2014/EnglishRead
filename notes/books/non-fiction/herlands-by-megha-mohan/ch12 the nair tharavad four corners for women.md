@@ -39,7 +39,7 @@ modified: "2026-09-24"
 
 ## 选择性精读
 
-### ① 女性共同居住的词源
+### ① 制度定义与词源
 
 > **原句 1:** "A tharavad, she explained, was an ancestral home shared by extended family members linked to one common female elder."
 

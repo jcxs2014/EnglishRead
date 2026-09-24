@@ -208,6 +208,7 @@ modified: "2026-09-24"
 | ownership | 所有权 | Research shows that security and ownership of land could decrease the risk of domestic violence for some women |
 | boundaries | 边界 | It’s important that the women own their own homes and exercise their own personal boundaries when it comes to visitors |
 | fellowship | 伙伴关系；共同生活 | Yahoo shared Lynn’s desire for nature and fellowship. |
+| community | 共同体 | You can’t force a community. |
 | ecological | 生态的 | Ecological sustainability is a central tenet of most womyn’s lands. |
 | pesticide | 农药；杀虫剂 | This technique bypasses the use of pesticides, which are banned as stated in the covenants agreed by the women. |
 | sustain | 维持；供养 | Women should sustain and build on the environment with the aim of causing as little harm as possible to it. |
@@ -219,8 +220,6 @@ modified: "2026-09-24"
 |---------|------|-------------|
 | land | 土地 | The land we are on was available for $1,000 an acre. |
 | women | 女性 | women who live on the land |
-| group | 小组；群体 | a group of women, a lesbian community, sharing the farmhouse as a communal area and having small individual living spaces. |
-| community | 共同体 | You can’t force a community. |
 | family | 家庭 | how families could be organised |
 | work | 工作 | how work could be divided in households |
 | profit | 利润 | thinking in terms of transaction and profit |

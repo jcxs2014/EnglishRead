@@ -209,6 +209,7 @@ modified: "2026-09-24"
 | communal | 公共的；共用的 | there are communal facilities that may include gardens and laundry rooms. |
 | affordable | 可负担的 | she wanted the flats to be affordable for any single older woman who needed community and wanted to be active in Montreuil life. |
 | diversity | 多样性 | ‘Diversity takes lots of forms,’ Hedi adds |
+| neighbourhood | 街区 | the space would have to be of use to the whole neighbourhood. |
 | retirement | 退休；养老 | This is not a retirement home where carers time every meal and movement. |
 
 ### ⭐ 基础
@@ -218,7 +219,6 @@ modified: "2026-09-24"
 | women | 女性 | The Babayagas live together in a six-storey apartment block designed for single – and independent – women over the age of sixty |
 | age | 年龄 | women over the age of sixty |
 | home | 家 | This is not a retirement home where carers time every meal and movement. |
-| neighbourhood | 街区 | the space would have to be of use to the whole neighbourhood. |
 | family | 家庭 | She made it clear to her family that she didn’t want to spend her final years in a care home |
 | care | 照护 | she didn’t want to spend her final years in a care home, bound by timetables set by others |
 | money | 钱 | ‘I remember the money my husband gave me every month,’ Thérèse revealed |
