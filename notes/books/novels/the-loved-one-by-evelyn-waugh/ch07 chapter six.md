@@ -88,7 +88,6 @@ modified: "2026-09-24"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| funeral | 葬礼 | *（本章未出现）* |
 | marriage | 婚姻 | We can get married |
 
 ---

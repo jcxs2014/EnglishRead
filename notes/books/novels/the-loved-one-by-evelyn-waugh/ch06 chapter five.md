@@ -79,12 +79,6 @@ modified: "2026-09-24"
 | ephemeral | 短暂的，瞬息的 | feel as if it was all rather ephemeral |
 | impermanent | 无常的，非永恒的 | Do you think anything can be a great art which is so impermanent |
 
-### ⭐⭐ 进阶
-
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| solace | 安慰，慰藉 | *（本章未出现）* |
-
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
