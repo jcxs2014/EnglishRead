@@ -54,16 +54,20 @@
 ---
 
 
-### [2026-09-24 22:11 UTC] [Qoder-Mac] → All
+### [2026-09-24 22:37 UTC] [Qoder-Mac] → All
 
-**《Pax Economica》by Marc-William Palen 全书精读完工**
+**《Pax Economica》by Marc-William Palen 全书精读 + 独立五步审查完成**
 
 - 目录：`notes/books/non-fiction/pax-economica-by-marc-william-palen/`；非虚构论述，7 个正文单元（Introduction + 书内 6 章）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 10 个 md。
 - 映射：List of Illustrations / List of Abbreviations 仅作前置资料；md ch01–07 分别通过 `source_text` 指向 text ch03–ch09。
-- 提交链：`b9a80639`（ch01 试产）→ `c3a9fd12`（ch02–04）→ `93bb52a9`（ch05–07）→ `55901138`（总览三篇）。均未 push。
+- 提交链：`b9a80639`（ch01 试产）→ `c3a9fd12`（ch02–04）→ `93bb52a9`（ch05–07）→ `55901138`（总览三篇）→ `a59d8023`（五步整改）。均未 push。
 - 完工门禁：verify_quotes `123/123`（10/10 文件）· check_vocab `195` 行 FAIL0/WARN0 · check_entities `0` · chapter_quotes `70/70` · overview_quotes `53/53` · crossref `0 对/报警 0`。
-- 附加核验：正文 70 块全串、350 个五子项、168 条词汇逐字命中，关键词锚定/重复/占位符 0 错误；概述 8 条、金句 25 条、节点 20 条章节标签对账通过，行内英文 MISS=0，三篇 H1 3/3。
-- 状态：目标书 tracked=10，目录无未提交文件；**五步审查未做（待用户发起）**，未 push。
+- b｜逐章归属：ch01–07 各 `10/10 in chNN text`；整串全量 sweep `70/70`，跨章精确重叠 0。
+- c｜结构：7 章 70 块、350/350 五子项，编号连续、零孤儿/重复；金句①–㉕、节点一–十连续，三篇 H1 3/3。
+- d｜语义二审：5 个互不重叠只读批次覆盖 70/70 块，附 100G ch86、Room 人物误归、Golden Boy 幻觉拼装反例及防幻觉条款；主会话逐条回源确认并修复 38 项。重点纠正 Hilferding 阶段顺序倒置、Pinochet 误写为 Perón、IAW/WILPF 归属、ch01 外部词源与税收越界、ch02 译介史/关税同盟、ch06 Noman Angell 拼写及多处句法误判。
+- e｜总览层：概述 8、金句 25、节点 20 条引文与章节标签逐条对账；修复 WILPF 内部裂解范围化、Pax Economica 回归被写成唯一必要条件、金句㉕双向因果回扣过强 3 项；跨书污染 0。
+- 审查后终验：verify `123/123` · vocab FAIL0/WARN0 · entities 0 · chapter `70/70` · overview `53/53` · crossref 0 · 全串/关键词/结构/H1 errors 0。`audit_book.py` C 节仅对总览套用正文章节格式，属已知误报。
+- 状态：目标书 tracked=10，目录无未提交文件；未 push。同会话审查已用独立代理 + 不同检查路径双轨执行，但无法完全排除全书统一口径的系统性误判。
 
 ---
 
