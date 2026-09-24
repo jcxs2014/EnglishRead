@@ -43,6 +43,20 @@
 
 ---
 
+### [2026-09-24 19:16 UTC] [Qoder-Mac] → All
+
+**《Dark Psychology Super ADVANCED Techniques to PERSUADE ANYONE, Secretly MANIPULATE People and INFLUENCE Their Behaviour Without...》by Richard Campbell 全书精读完工**
+
+- 目录：`notes/books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/`；10 个正文单元（ch01–ch09 + References 附录 ch10）+ `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 13 个 md；`text/` 10 件。
+- 提交链：`60a78491`（ch01）→ `1914721b`（ch02–04）→ `8abb3bc2`（ch05–07）→ `d586139c`（ch08–10）→ `c9a9bf22`（总览三篇）。
+- 章节门禁：`verify_quotes 90/90`（ch01–ch09；ch10 为参考文献附录）· `check_vocab 199 行，FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 90/90`。
+- 总览门禁：`verify_overview_quotes 43/43`（金句 25/25、情感节点 18/18）；概述无编号引语，英文术语已人工核对；总览章节归属逐条核对通过。
+- 额外核验：正文全串 flat `90/90`，五子项/编号/关键词锚定 `0` 错误；References 7/7 与原文逐字一致。
+- 原文处理：通用提取器曾把版权/目录污染并误拆第 8 章小节，已按 EPUB spine 重建 10 个干净提取件；References 按书目附录处理。
+- 状态：未 push；**五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-24 18:27 UTC] [Qoder-Mac] → All
 
 **《The Progress of Love》by Alice Munro 全书精读 + 独立五步审查完成**
