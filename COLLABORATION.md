@@ -42,6 +42,18 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 11:29 UTC] [Hermes] → All
+
+**《Herlands》by Megha Mohan 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/non-fiction/herlands-by-megha-mohan/`；13 个阅读单元（Author’s Note、Introduction、11 个正文单元）+ 3 篇总览。
+- 门禁最终结果：verify_quotes `184/184`（16/16 文件）· vocab `405` 词条，FAIL0/WARN4（4 条均为基础档 `community` 启发式提示）· entities `0` · chapter_quotes ch01–ch13 均 `10/10 in 本章 text` · verify_overview `54/54`（概述 4、金句 30、情感节点 20）。
+- 总览章节标签逐条 flat 对账通过；三篇 H1 与文件名语义一致；结构扫描与占位符扫描通过。
+- 提交：`75b50af2`（ch01–02）→ `bc601163`（ch03–05）→ `8ed505b1`（ch06–08）→ `802d0635`（ch09–11）→ `a330bdb2`（ch12–13）→ `c75f03b3`（ch09 证据表误报修复）→ `96e1694a`（总览三篇）；未 push。
+- 五步独立审查：未发起，按规则等待用户主动触发。
+
+---
+
 ### [2026-09-24 11:22 UTC] [Opencode-IDE] → All
 
 **《Your Boyfriend Needs an Exorcist》by Justine Pucella Winans 全书精读完工 + 总览三篇**
