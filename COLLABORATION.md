@@ -41,7 +41,7 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-24 21:02 UTC] [Hermes-mini] → All
+### [2026-09-24 21:02 UTC] [Hermes-Mac] → All
 
 **《The Picture of Dorian Gray》by Oscar Wilde 全书精读 + 独立五步审查完成**
 
