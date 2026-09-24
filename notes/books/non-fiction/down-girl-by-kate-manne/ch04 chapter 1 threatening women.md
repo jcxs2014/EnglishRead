@@ -94,11 +94,11 @@ source_text: ch04_chapter 1 threatening women.txt
 
 **为什么这样写**：Haslanger 的改良式（ameliorative）概念工程，核心是"先问为什么要有这个词，再定其含义"。Manne 以此为自己重定义厌女辩护：我们不是随意改词，而是因为该词要服务于一个特定的政治目的（让女性能指认所受的压迫），所以才修订其内涵。
 
-> **原句 6:** "it would threaten to deprive women of the wherewithal to acquire knowledge and justified beliefs about the manifestations of misogyny that they may encounter"
+> **原句 6:** "it would threaten to deprive women of the wherewithal to acquire knowledge and justified beliefs about the manifestations of misogyny that they may encounter, and to go on to make warranted assertions on that basis"
 
 **中文理解**：它将威胁剥夺女性获取关于她们可能遭遇的厌女表现的认知能力与有正当根据的信念的能力。
 
-**句子结构**：主干为 it would threaten to deprive women of the wherewithal；后接两个并列不定式（to acquire knowledge / justified beliefs）作 wherewithal 的内容，关系从句 that they may encounter 修饰 manifestations。
+**句子结构**：主干为 it would threaten to deprive women of the wherewithal；to acquire 后接两个并列宾语（knowledge / justified beliefs），再接两个并列不定式（to go on to make warranted assertions on that basis）作 wherewithal 的内容；关系从句 that they may encounter 修饰 manifestations。
 
 **关键词**：deprive women of, the wherewithal, justified beliefs, manifestations
 
@@ -140,7 +140,7 @@ source_text: ch04_chapter 1 threatening women.txt
 
 **表达方式**：以条件句（If even…）递进（even 强调极端案例），以法庭比喻完成论证。
 
-**为什么这样写**：以"无罪判决"为法庭术语，说明如果连最明显的个案都能被判无罪，那么"无罪"本身将失去一切指认力——这是通过"锚定"（entrenchment）而实现的理论后果：拒绝对明显案例的指控，实质上使"指控"这一行动整体失去意义。
+**为什么这样写**：以"无罪判决"为法庭术语，说明如果连最明显的个案都能被判无罪，那么"无罪"本身将失去一切指认力：拒绝对明显案例的指控，实质上使"指控"这一行动整体失去分辨力——于是连真正该追究的人也一并被开脱。
 
 > **原句 10:** "the term was originally coined for this very purpose—by seventeenth-century English feminists pushing back against the moral “defamation” of women on the part of Renaissance bro Joseph Swetnam"
 
@@ -200,7 +200,7 @@ source_text: ch04_chapter 1 threatening women.txt
 
 **表达方式**：以 can（可以）这一情态词作无限定的许可，以清单扩展示例外之广。
 
-**为什么这样写**：这八个亲属称谓构成一份"爱的名单"，其作用是排除"厌女=恨所有女人"这一前提。not to mention（更不用说）尤其有力：它暗示厌女者在最亲近的女性身边仍能维持爱——只在其认为她们"失职"时才转向敌意。
+**为什么这样写**：这六类女性关系对象（母亲、姐妹、女儿、妻子、女友、秘书）构成一份"爱的名单"，其作用是排除"厌女=恨所有女人"这一前提。not to mention（更不用说）尤其有力：它暗示厌女者在最亲近的女性身边仍能维持爱——而原文紧接着点明，他们 tend to hate women who are outspoken（尤其憎恨直言不讳的女性）。
 
 > **原句 15:** "Gender-based oppression may be partly sui generis."
 

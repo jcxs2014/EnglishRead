@@ -83,7 +83,7 @@ source_text: ch02_preface going wrong.txt
 
 > **原句 5:** "Women who compete for these roles will tend to be perceived as morally suspect in at least three main ways: insufficiently caring and attentive with respect to those in her orbit deemed vulnerable; illicitly trying to gain power that she is not entitled to; and morally untrustworthy, given the other two kinds of role violations."
 
-**中文理解**：争夺这些角色的女性往往在至少三种主要方式上被视为道德可疑：对那些被她认为处于脆弱状态的人不够关怀与 attentiveness；非法图谋取她无权得到的权力；以及在前两类角色违规的基础上被视为道德不可信。
+**中文理解**：争夺这些角色的女性往往在至少三种主要方式上被视为道德可疑：对那些被视为脆弱的人不够关怀与 attentiveness；非法图谋取她无权得到的权力；以及在前两类角色违规的基础上被视为道德不可信。
 
 **句子结构**：主句为 will tend to be perceived as...；冒号后 three main ways 引出三项分号并列的名词短语（insufficiently caring / illicitly trying / morally untrustworthy）。
 
@@ -91,7 +91,7 @@ source_text: ch02_preface going wrong.txt
 
 **表达方式**：以三段式清单把道德指控结构化，层层递进（关怀不足→图谋权力→不可信）。
 
-**为什么这样写**：第三项"不可信"（untrustworthy）由前两项推论而来（given the other two kinds of role violations），这是一个闭环：关怀不足被看作自私，自私被看作图谋，图谋被看作不可信，不可信又反过来证明她自私的判断。这正是厌女话语的自我循环论证结构。
+**为什么这样写**：第三项"不可信"（untrustworthy）明确由前两项推出（given the other two kinds of role violations）：关怀不足先被读作自私，自私再被读作图谋，图谋则落实为不可信。这一推导顺序本身就是厌女话语的结构特征——判定并非基于证据，而是沿着一条自我强化的链逐级加码。
 
 > **原句 6:** "This is reflected in the fact that misogyny often involves what P. F. Strawson ([1962] 2008) calls “the reactive attitudes,” such as resentment, blame, indignation, condemnation..."
 
