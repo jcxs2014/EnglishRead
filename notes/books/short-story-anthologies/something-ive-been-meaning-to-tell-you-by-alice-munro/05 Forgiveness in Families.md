@@ -118,6 +118,8 @@ source_text: ch05
 
 **表达方式**：母亲活下来本该是喜讯，`Disappointment` 却成为叙述者最先抓住的词。这个词把医学结果转成个人关系的失败：她发现自己在意的不是母亲是否获救，而是自己是否曾希望 Cam 被证明是危险的。
 
+**为什么这样写**：母亲活下来让家庭重新获得表面上的和解，也让 Val 看见自己对弟弟的恶意并未消失。Cam 的仪式和疏忽因此没有被判定为纯粹无害，叙述者对家人的怀疑也没有因获救而消失。
+
 ### ⑨
 
 > **原句 9:** "Not whether Mother lived or died. It was what was so plain about myself."
