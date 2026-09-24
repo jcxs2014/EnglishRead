@@ -125,7 +125,7 @@ source_text: ch03_introduction.txt
 
 **句子结构**：主句为 cast of characters understood free trade to mean...；rather than 引出被排除的现代通行定义，形成历史语义与当代语义的反差。
 
-**关键词**：accordingly, understood...to mean, revenue purposes, rather than
+**关键词**：accordingly, understood free trade to mean, revenue purposes, rather than
 
 **表达方式**：先还原行动者当时的主观定义，再明确指出它与今天常见理解的差别，避免用后见之明直接改写历史。
 
