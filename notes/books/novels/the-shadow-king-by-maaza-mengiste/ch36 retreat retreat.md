@@ -73,7 +73,7 @@ modified: "2026-09-24"
 
 **关键词：** charges · rise up and crumble down · again
 
-**为什么这样写：** 三叠 charges 取消了一切战术，只剩意志的重复；rise/crumble/rise 的循环是 ch32 "marched toward ambush"的兑现，也是"die on their feet"（ch35）的字面化。动词不带宾语——冲锋没有可及的目标，只有火力这堵墙。
+**为什么这样写：** 三叠 charges 取消了一切战术，只剩意志的重复；rise/crumble/rise 的循环是 ch30 "marching toward ambush"的兑现，也是"die on their feet"（ch35）的字面化。动词不带宾语——冲锋没有可及的目标，只有火力这堵墙。
 
 ---
 

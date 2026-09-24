@@ -169,7 +169,7 @@ modified: "2026-09-24"
 
 > **原句 16:** "He has forgotten her, he decides. He has left her out of one of the many rooms in his head and she is floundering, desperate for recognition, for a way to step out of the world of the dead and into the living who carry names."
 
-**中文理解：** 他断定自己忘了她。他把她搁在脑海众多房间之外的某一间；而她挣扎着，绝望地求一个认出——求一条从死者之界跨回"有名字的生者"的路。
+**中文理解：** 他断定自己忘了她——他把她落在了脑海众多房间中的一间之外；而她挣扎着，绝望地求一个认出——求一条从死者之界跨回"有名字的生者"的路。
 
 **关键词：** rooms in his head · desperate for recognition · the living who carry names
 
@@ -211,7 +211,7 @@ modified: "2026-09-24"
 
 **中文理解：** "走开，"她对埃托雷说，"现在离开我的国。拿上这个，"她补一句，用脚把盒子推过去，"滚出去。瓦特内，"她低语，"此地不欢迎你。"
 
-**关键词：** shoving the box with her foot · Vatene · not welcome
+**关键词：** shoving the box toward him with her foot · Vatene · not welcome
 
 **为什么这样写：** 交接以脚完成——她连手的礼节都不给：归还物用鞋尖，驱逐令用母语（Vatene：滚）。全书最大宗的"归还"被故意做得最无仪式感：正义不必温情；而"我的国"三个字是 1974 年的车站里最硬的词。
 

@@ -493,7 +493,7 @@ modified: "2026-09-24"
 
 **关键词：** something new · get her · bring her here
 
-**为什么这样写：** 全书"新"字链条的最后一环（ch70 "a paternal affection that does not include mockery" 是 Fucelli 被"新"击中，这里的"新"是他献给摄影机的新展品）。Get her and bring her here 让整场战役的奇观以"猎物入帐"收尾——与 ch65 目录体首尾相扣。而"带到我跟前"是情欲、征服与收藏三种语法的叠加——Fucelli 要的不是俘虏，是他下一张相册扉页。
+**为什么这样写：** 全书"新"字链条的最后一环（ch70 "a paternal affection that does not include even a hint of mockery or disappointment" 是 Fucelli 被"新"击中，这里的"新"是他献给摄影机的新展品）。Get her and bring her here 让整场战役的奇观以"猎物入帐"收尾——与 ch65 目录体首尾相扣。而"带到我跟前"是情欲、征服与收藏三种语法的叠加——Fucelli 要的不是俘虏，是他下一张相册扉页。
 
 ## 本章词汇
 

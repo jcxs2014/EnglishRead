@@ -99,7 +99,7 @@ modified: "2026-09-24"
 
 > **原句 9:** "Papa, your name is Leo and it is not. You are an atheist and something else I have come to understand as light."
 
-**中文理解：** 爸爸，你叫利奥，又不叫利奥。你是个无神论者，还是某种我渐渐理解为"光"的东西。
+**中文理解：** 爸爸，你叫利奥，又不叫利奥。你是个无神论者，也是某种我渐渐理解为"光"的东西。
 
 **关键词：** your name is Leo and it is not · understand as light
 

@@ -179,7 +179,7 @@ modified: "2026-09-24"
 
 > **原句 17:** "There is no other choice but to be a soldier, to take her useless Wujigra, point it at the enemy, and hope for the mercy of her own death."
 
-**中文理解：** 别无选择，只能当战士：捡起她那把没用的枪，指向敌人，盼望死在自己手里算一种慈悲。
+**中文理解：** 别无选择，只能当战士：捡起她那把没用的枪，指向敌人，盼望自己的死能给敌人换来一点慈悲。
 
 **关键词：** no other choice · useless · the mercy of her own death
 

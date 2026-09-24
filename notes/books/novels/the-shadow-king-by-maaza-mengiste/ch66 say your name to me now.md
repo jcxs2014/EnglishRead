@@ -303,7 +303,7 @@ modified: "2026-09-24"
 
 **关键词：** precisely · best light · synchronized · the watches the ferenjoch love to obey
 
-**为什么这样写：** 全书对官僚之恶最精确的一份书写：五个时间刻度、无一人有名字、动词全是被动（被送、被拍、被推）。providing him with the best light 是本章最恐怖的一句话：他的拍摄需求成了死亡时刻表的原因。末句 synchronized by the watches 把"准时"这个殖民者自我标榜的美德直接判为凶器——ferenjoch（外国人）一词也说明叙述者已换成当地人。这也解释了 Ettore 在 ch57 那封未寄出的信里为何对"一天能做掉多少人"发笑。
+**为什么这样写：** 全书对官僚之恶最精确的一份书写：五个时间刻度、无一人有名字、动词全是被动（被送、被拍、被推）。providing that soldato, Navarra, with the best light 是本章最恐怖的一句话：他的拍摄需求成了死亡时刻表的原因。末句 synchronized by the watches 把"准时"这个殖民者自我标榜的美德直接判为凶器——ferenjoch（外国人）一词也说明叙述者已换成当地人。这也解释了 Ettore 在 ch57 那封未寄出的信里为何对"一天能做掉多少人"发笑。
 
 ---
 

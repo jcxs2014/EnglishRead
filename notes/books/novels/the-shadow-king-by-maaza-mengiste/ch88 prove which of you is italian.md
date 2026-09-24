@@ -189,7 +189,7 @@ modified: "2026-09-24"
 
 > **原句 18:** "what is broken is not skin, tendons have not been split, and muscles are not damaged…This is the miracle of man, Leo, you whom I will never know."
 
-**中文理解：** 破皮而未断筋，肌肉未伤……这就是人的奇迹啊，利奥——我永远无法认识的你。
+**中文理解：** 折断的不是皮肤，筋腱未裂，肌肉未伤……这就是人的奇迹啊，利奥——我永远无法认识的你。
 
 **关键词：** the miracle of man · you whom I will never know
 

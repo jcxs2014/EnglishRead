@@ -26,7 +26,7 @@ modified: "2026-09-24"
 
 > **原句 2:** "he sees him again: Dawit, glorious and fearless, charging at the enemy, that old Wujigra in his hands, his eyes ablaze with a hatred so pure that for a moment, the ascaro draws back before he lifts his weapon and aims. Kidane holds his breath until the memory passes: it grows clearer with each remembering."
 
-**中文理解：** 他又一次看见他：Dawit 光彩无畏，端着那支老 Wujigra 冲向敌人，眼里烧着纯粹得让那个 ascari 后退了一步的恨意——然后才抬枪瞄准。Kidane 屏息直到记忆过去：每一次回忆，它反而更清晰。
+**中文理解：** 他又一次看见他：Dawit 光彩无畏，端着那支老 Wujigra 冲向敌人，眼里烧着纯粹得让那个 ascaro 后退了一步的恨意——然后才抬枪瞄准。Kidane 屏息直到记忆过去：每一次回忆，它反而更清晰。
 
 **关键词：** glorious and fearless · ablaze · draws back · grows clearer
 

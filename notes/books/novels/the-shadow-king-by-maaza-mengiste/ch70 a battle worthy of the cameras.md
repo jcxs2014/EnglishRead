@@ -93,7 +93,7 @@ modified: "2026-09-24"
 
 **关键词：** rises to the surface · dim light · to a son, to himself
 
-**为什么这样写：** 深潜意象（浮上水面又沉下）呼应 ch66 "to be transmitted through inference"：Leo 的信按父亲的编码写给两个人——收信人 Ettore，当事人 Leo 自己。叙述者替 Carlo 下诊断：他读不懂的，正是一个父亲向自己认领过往的过程。
+**为什么这样写：** 深潜意象（浮上水面又沉下）呼应 ch69 "to be transmitted through inference"：Leo 的信按父亲的编码写给两个人——收信人 Ettore，当事人 Leo 自己。叙述者替 Carlo 下诊断：他读不懂的，正是一个父亲向自己认领过往的过程。
 
 ---
 
@@ -111,7 +111,7 @@ modified: "2026-09-24"
 
 **中文理解：** 每个细节都得经营：从仪表到表演——他必须演成他一生想成为的那个角色：那种他在埃塞俄比亚努力展示的领袖气质的精髓。
 
-**关键词：** appearance to performance · act the part · essence of leadership
+**关键词：** from his appearance to his performance · act the part · essence of leadership
 
 **为什么这样写：** 扣子、头盔、墨镜、香烟——四连检查动作被点明是"performance"。exhibit（展出）是博物馆动词：埃塞俄比亚是他的展厅，观众是罗马的电影镜头。本书写法西斯的关键词再次显形：它不统治，它布展。
 
@@ -119,7 +119,7 @@ modified: "2026-09-24"
 
 > **原句 11:** "He must be the heroic leader, the ruthless enemy, the fearless commander at the helm of an undefeatable army."
 
-**中文理解：** 他必须做：英勇的领袖、冷酷的敌人、无敌舰队般军队的无畏指挥官。
+**中文理解：** 他必须做：英勇的领袖、冷酷的敌人、率领一支不可战胜的军队的无畏指挥官。
 
 **关键词：** heroic / ruthless / fearless · at the helm · undefeatable
 
@@ -141,9 +141,9 @@ modified: "2026-09-24"
 
 **中文理解：** 仿佛那个男人是在写给他——写给那个他失去的幽灵儿子：一个如今从火焰灰烬中升起、与他为敌的人。
 
-**关键词：** ghost-son he lost · risen from flames and ashes · opponents
+**关键词：** ghost-son he lost · risen from the flames and ashes · opponents
 
-**为什么这样写：** 全书最危险的幻想：Carlo 把别人的家书读成写给他的悼词——ghost-son 即他流产/夭折的孩子（本书前文埋线：他"没有活下来的儿子"）。火焰灰烬把 Ettore 的父亲信（ch68 剪信的烟）与 Carlo 丧子之痛熔在同一意象里。" risen to fight against his opponents"已泄露他的错乱：他把所有活着的人看作对手，包括一个想象中的亡灵儿子。
+**为什么这样写：** 全书最危险的幻想：Carlo 把别人的家书读成写给他的悼词——ghost-son 即他流产/夭折的孩子（本书前文埋线：他"没有活下来的儿子"）。火焰灰烬把 Ettore 的父亲信（ch68 剪信的烟）与 Carlo 丧子之痛熔在同一意象里。"risen from the flames and ashes to fight against his opponents"已泄露他的错乱：他把所有活着的人看作对手，包括一个想象中的亡灵儿子。
 
 ---
 
@@ -151,7 +151,7 @@ modified: "2026-09-24"
 
 **中文理解：** Leo Navarra 让他见识了新东西：一种不带半点讥讽或失望的父爱。
 
-**关键词：** paternal affection · not a hint of mockery or disappointment
+**关键词：** paternal affection · does not include even a hint of mockery or disappointment
 
 **为什么这样写：** something new——一个四十多岁的军官第一次知道父爱还有这种配方。与 ch66 "You have found my instructions harsh"对读：Leo 的严厉至少承认孩子的独立；Carlo 的父亲只有"竞争本能"（competitive inclinations）。mockery/disappointment 二词是他家传的暴力清单。
 
@@ -163,7 +163,7 @@ modified: "2026-09-24"
 
 **关键词：** quiet disease · infectious wound · gnawing · itch
 
-**为什么这样写：** 疾病/寄生隐喻三连（disease/wound/gnawing）把"不懂爱"写成内伤：它咬你，你当它是蚊子。gnaw（啃）与 ch54 "沉默把肉啃得鼓起来"（silence plumps the meat）同一口腔暴力家族。最狠的是 itch（痒）：加害者对自身创伤的感知精度，只到"痒"为止——而他一生都在挠全世界。
+**为什么这样写：** 疾病/寄生隐喻三连（disease/wound/gnawing）把"不懂爱"写成内伤：它咬你，你当它是蚊子。gnaw（啃）与 ch54 "沉默把肉啃得鼓起来"（silence that plumps the meat）同一口腔暴力家族。最狠的是 itch（痒）：加害者对自身创伤的感知精度，只到"痒"为止——而他一生都在挠全世界。
 
 ---
 

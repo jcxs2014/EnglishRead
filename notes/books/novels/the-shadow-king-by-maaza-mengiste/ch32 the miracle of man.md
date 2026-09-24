@@ -153,7 +153,7 @@ modified: "2026-09-24"
 
 **关键词：** leaves no room · woman or song
 
-**为什么这样写：** Carlo 的认知框架是一张材料清单，女性与歌谣不在目录内，所以他只能把白裙判为幻觉。"they are not women, but illusions"不是勇敢，是无知——殖民现代性看不见自己语法之外的东西。
+**为什么这样写：** Carlo 的认知框架是一张材料清单，女性与歌谣不在目录内，所以他只能把白裙判为幻觉。"They are not women, he decides, but illusions"不是勇敢，是无知——殖民现代性看不见自己语法之外的东西。
 
 ---
 

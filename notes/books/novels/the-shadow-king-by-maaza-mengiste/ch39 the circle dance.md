@@ -57,7 +57,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 5:** "Erase his father’s name and that of his grandfather’s father and that of the long line of men before them... Make of him nothing and see what emerges willingly, without taint of duty or fear."
+> **原句 5:** "Erase his father’s name and that of his grandfather’s father and that of the long line of men before them … Make of him nothing and see what emerges willingly, without taint of duty or fear."
 
 **中文理解：** 擦去他父亲的名字、祖父之父的名字、以及他们前面那漫长的一串男人……把他变成"无"，再看什么心甘情愿地浮现——不带职责与恐惧的污点。
 

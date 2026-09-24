@@ -117,7 +117,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 11:** "held rapt by the soldato’s urgency…that they do not pause to ask what could be in that box."
+> **原句 11:** "held rapt by the soldato’s urgency, so engulfed in his secrecy and despair, that they do not pause to ask what could be in that box."
 
 **中文理解：** 被这个士兵的急迫攫住，深陷于他的秘密与绝望——两个女人竟忘了问一句：那盒子里装的是什么。
 

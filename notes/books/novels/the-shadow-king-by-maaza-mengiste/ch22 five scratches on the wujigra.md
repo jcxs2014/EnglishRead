@@ -70,7 +70,7 @@ modified: "2026-09-24"
 
 **关键词：** scratches · felled · made weep · fatherless
 
-**为什么这样写：** 本章的心脏：同一道刻痕的两种读法——勋章读法（told their own stories of glories）与验尸读法（made weep / made fatherless）。父亲的话把枪从"勇气的徽章"还原为"眼泪的计数器"，一句顶起全书反战支柱；而刻痕在西方狩猎/军旅传统里本是荣耀记账，本书特意让一个埃塞俄比亚老兵亲手撕掉这层glory包装——为 ch24 Dawit 第一次开枪即残废作反讽引线：不会记账的人接过了记账的枪。
+**为什么这样写：** 本章的心脏：同一道刻痕的两种读法——勋章读法（told their own stories about battles fought and survived）与验尸读法（made weep / made fatherless）。父亲的话把枪从"勇气的徽章"还原为"眼泪的计数器"，一句顶起全书反战支柱；而刻痕在西方狩猎/军旅传统里本是荣耀记账，本书特意让一个埃塞俄比亚老兵亲手撕掉这层glory包装——为 ch24 Dawit 第一次开枪即残废作反讽引线：不会记账的人接过了记账的枪。
 
 ---
 

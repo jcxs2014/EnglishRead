@@ -20,7 +20,7 @@ modified: "2026-09-24"
 
 **关键词：** juts · too low · turmoil
 
-**为什么这样写：** 两层"读人术"：明面的怒（chin juts daring to be hit）人人可见；暗面的崩（spoon too low）只有同为 servants 的 Hirut 能破译。本书写女性同盟最细的一笔：情绪在彼此身体上是有字典的。daring to be hit 呼应 ch07 Hirut 等 Aster 那一鞭的"tiny kernel of triumph"——受暴者的挑衅姿态是一种世袭。
+**为什么这样写：** 两层"读人术"：明面的怒（chin juts as if daring to be hit）人人可见；暗面的崩（spoon too low）只有同为 servants 的 Hirut 能破译。本书写女性同盟最细的一笔：情绪在彼此身体上是有字典的。daring to be hit 呼应 ch07 Hirut 等 Aster 那一鞭的"tiny kernel of triumph"——受暴者的挑衅姿态是一种世袭。
 
 ---
 
@@ -40,7 +40,7 @@ modified: "2026-09-24"
 
 **关键词：** no more than · unburnt
 
-**为什么这样写：** 叙述者拿着未来剧本读照片：without the scar he will get、still with unburnt skin——without/still 两个副词让静态照开始流血。"头发测战龄"呼应 ch09 群像与全书的物证史学：正式档案缺页，身体的磨损就是日历。unburnt 一词提前预告燃烧弹与焦土战术的全部未来。
+**为什么这样写：** 叙述者拿着未来剧本读照片：without the scar he will get、still with supple, unburnt skin——without/still 两个副词让静态照开始流血。"头发测战龄"呼应 ch09 群像与全书的物证史学：正式档案缺页，身体的磨损就是日历。unburnt 一词提前预告燃烧弹与焦土战术的全部未来。
 
 ---
 
@@ -58,7 +58,7 @@ modified: "2026-09-24"
 
 **中文理解：** Ettore 曾写下：一个阿比西尼亚女奴——但这张不是他拍的。……他若拍了这张照片，不可能活着走开。
 
-**关键词：** schiava · privilege · unquestioned safety
+**关键词：** schiava · not one of his · unquestioned safety
 
 **为什么这样写：** 反面题字把厨娘钉回殖民分类学（schiava abissina 是意占期标准人类学标签），叙述者却替她翻案"this is not one of his"——不是撇清 Ettore，是指出更狠的事实：这群士兵"unquestioned safety"的排他权。谁能安全地站在武装者面前拍照，谁就握有暴力担保；而那个担保人不是摄影师，是制度。
 

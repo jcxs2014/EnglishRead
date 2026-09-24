@@ -34,7 +34,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 3:** "Simonides reconstructed a collapsed building from memory. He looked at ruins and recognized their former glory. He found a way to resurrect the dead by remembering where they sat. He called them to life by calling them by name."
+> **原句 3:** "Simonides reconstructed a collapsed building from memory. He looked at ruins and recognized their former glory. He found a way to resurrect the dead by remembering where they sat. … He called them to life by calling them by name."
 
 **中文理解：** Simonides 用记忆重建了一座坍塌的厅堂。他望着废墟，认出了它从前的辉煌。他找到办法复活死者——凭记住他们坐在何处；他唤回他们，靠呼喊他们的名字。
 
@@ -50,7 +50,7 @@ modified: "2026-09-24"
 
 **关键词：** unfamiliar tunes · drown · repetitive vulgarities · detail skinning him alive
 
-**为什么这样写：** 声音战争的私人战线：ch23 的 Faccetta nera 是军营合唱，本章它是皇帝的失眠源。detail skinning him alive 双关全书的剥皮意象（ch19 ferenj "peeled of all color"）——殖民歌曲里被剥的是"黑人姑娘"的脸，在这里被剥的是皇帝本人的皮：他听得懂敌人的歌在唱什么。buy music from Djibouti/Sudan/Somalia/Yemen/Eritrea 的采集清单=一部微型流亡地理：他能派仆人抵达的世界，比他的军队能保卫的小。
+**为什么这样写：** 声音战争的私人战线：ch23 的 Faccetta nera 是军营合唱，本章它是皇帝的失眠源。detail skinning him alive 双关全书的剥皮意象（ch19 ferenj "peeled of all color"）——殖民歌曲里被剥的是"黑人姑娘"的脸，在这里被剥的是皇帝本人的皮：他听得懂敌人的歌在唱什么。buy the music of the Italian people、由仆人经火车运自 Djibouti/Sudan/Somalia/Yemen/Eritrea 的采集清单=一部微型流亡地理：他能派仆人抵达的世界，比他的军队能保卫的小。
 
 ---
 

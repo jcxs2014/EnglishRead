@@ -90,7 +90,7 @@ modified: "2026-09-24"
 
 **关键词：** gliding · the ground begged
 
-**为什么这样写：** Aster 的"傲慢"被拆解成一件可继承、也可仿制的家当：arrogance 是贵族户口的副产品。gliding 与 begged 的主客倒置（不是人踩地，是地求踩）是全书写阶级身体性最锋利的一句——接 ch16 "他站在伟大战士前完整而 unquestioned 的安全"，特权在本书里永远先是一种步态，然后才是一种罪。而 Hirut 在同一刻"smooths her hair and braces herself"：没有这种步态的人，只能靠整理头发准备挨打。
+**为什么这样写：** Aster 的"傲慢"被拆解成一件可继承、也可仿制的家当：arrogance 是贵族户口的副产品。gliding 与 begged 的主客倒置（不是人踩地，是地求踩）是全书写阶级身体性最锋利的一句——接 ch16 "他站在伟大战士前完整而 unquestioned 的安全"，特权在本书里永远先是一种步态，然后才是一种罪。而 Hirut 在同一刻"smooths her hair and tucks loose strands back into her braids, and braces herself"：没有这种步态的人，只能靠整理头发准备挨打。
 
 ---
 

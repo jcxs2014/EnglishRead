@@ -58,7 +58,7 @@ modified: "2026-09-24"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| dense as iron, easy as a blade | 铁一样密，刀一样顺 | "A black cloud, dense as iron, slides through the hills, easy as a blade." |
+| dense as iron, slides through the hills, easy as a blade | 铁一样密，刀一样顺 | "A black cloud, dense as iron, slides through the hills, easy as a blade." |
 | a beast spun from fire and steel | 火与钢纺出的兽 | "It is ungodly made, fashioned by man, a beast spun from fire and steel." |
 | the distant cry of ghosts | 远方的鬼哭 | "the song of men and beasts fading until it is no more than the distant cry of ghosts" |
 

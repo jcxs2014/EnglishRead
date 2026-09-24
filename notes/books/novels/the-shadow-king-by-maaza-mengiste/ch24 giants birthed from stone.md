@@ -64,23 +64,23 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 6:** "It is Dawit, hoisting the Wujigra that Kidane gave him, turning to look at him, both proud and disoriented, before pivoting to face the enemy again. Dawit shouts Hailu’s name like a war cry and Kidane watches, mesmerized as Dawit aims with perfect precision and pulls the trigger. … he hears clearly the horrified whisper: But it doesn’t work?"
+> **原句 6:** "It is Dawit, hoisting the Wujigra that Kidane gave him, turning to look at him, both proud and disoriented, before pivoting to face the enemy again. Dawit shouts Hailu’s name like a war cry and Kidane watches, mesmerized as Dawit aims with perfect precision and pulls the trigger. … hears clearly the horrified whisper: But it doesn’t work?"
 
 **中文理解：** 是 Dawit，高举起 Kidane 给他的那支 Wujigra，回头看他一眼——又骄傲又迷失——又转身面向敌人。他把 Hailu 的名字当战吼喊出来。Kidane 看得怔住：Dawit 以完美的精度瞄准、扣下扳机。……他清清楚楚听见那声惊骇的耳语：可是它不响？
 
 **关键词：** proud and disoriented · perfect precision · doesn’t work
 
-**为什么这样写：** 全书最毒的反讽链在三个节拍内合龙：完美瞄准（perfect precision）+ 刻满功勋的枪（ch22 五道痕）+ 一句 "it's known blood, we'll be good together"（把枪当伙伴的天真）——然后扳机空响。"But it doesn't work?" 的语域是childlike：Dawit 不喊"我中弹了"，他说"它坏了"，枪先于人崩解。而看呆了的 Kidane 是目击共犯：他上一秒刚想起"父亲说枪不保命只杀人"，下一秒亲眼看着两种家训同时爆炸。
+**为什么这样写：** 全书最毒的反讽链在三个节拍内合龙：完美瞄准（perfect precision）+ 刻满功勋的枪（ch22 五道痕）+ ch22 里 Dawit 的"It's known blood"与"We'll be good together"（把枪当伙伴的天真）——然后扳机空响。"But it doesn't work?" 的语域是childlike：Dawit 不喊"我中弹了"，他说"它坏了"，枪先于人崩解。而看呆了的 Kidane 是目击共犯：他上一秒刚想起"父亲说枪不保命只杀人"，下一秒亲眼看着两种家训同时爆炸。
 
 ---
 
 > **原句 7:** "His leg explodes into splintered flesh, bone rips out of place, and Dawit falls, splattered in his own blood. … There is nothing else but this: Kidane lifting his knife at Dawit’s attacker, his own gun forgotten on his shoulder as he lunges forward before the ascaro has time to aim once more. … this ascaro straightening tall in the face of certain death, refusing to yield to the knife thrust with such ferocious strength into the center of his uniformed chest. And the two of them spiral in the momentary quiet: ethereal and warm."
 
-**中文理解：** 他的大腿炸成碎肉，骨头崩出原位，Dawit 栽倒，溅满自己的血。……只剩这件事了：Kidane 举刀扑向伤害 Dawit 的那个 ascari，自己的枪忘在肩上，赶在对方再次瞄准前冲上去。……那个 ascari 在必死面前挺直身体，刀势凶猛地扎进他制服胸口，他仍不肯让。两人在那一瞬的寂静里旋转相拥：飘渺的，温热的。
+**中文理解：** 他的大腿炸成碎肉，骨头崩出原位，Dawit 栽倒，溅满自己的血。……只剩这件事了：Kidane 举刀扑向伤害 Dawit 的那个 ascaro，自己的枪忘在肩上，赶在对方再次瞄准前冲上去。……那个 ascaro 在必死面前挺直身体，刀势凶猛地扎进他制服胸口，他仍不肯让。两人在那一瞬的寂静里旋转相拥：飘渺的，温热的。
 
 **关键词：** explodes · forgotten on his shoulder · straightening tall · spiral
 
-**为什么这样写：** 父亲心法（use yourself as a weapon）的兑现即人枪之别：gun forgotten、knife 上身——"武器=自己"被写到字面。本书给敌人最后一次尊严特写：ascari straightening tall、refusing to yield——为殖民军队卖命的埃塞俄比亚人，战死于与同胞相残的悖论里，spiral（旋抱）一词几乎温柔。"There is nothing else but this"的句祷文（ch24 两次）把战场压缩成单焦点：这是本书对"当下即全部"最暴烈的引用。
+**为什么这样写：** 父亲心法（use yourself as a weapon）的兑现即人枪之别：gun forgotten、knife 上身——"武器=自己"被写到字面。本书给敌人最后一次尊严特写：ascaro straightening tall、refusing to yield——为殖民军队卖命的埃塞俄比亚人，战死于与同胞相残的悖论里，spiral（旋抱）一词几乎温柔。"There is nothing else but this"的句祷文（ch24 两次）把战场压缩成单焦点：这是本书对"当下即全部"最暴烈的引用。
 
 ---
 

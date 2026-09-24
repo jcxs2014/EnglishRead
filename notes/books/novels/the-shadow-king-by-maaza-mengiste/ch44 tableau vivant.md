@@ -119,7 +119,7 @@ modified: "2026-09-24"
 
 > **原句 11:** "It happened so fast, the reflex motivated by that old attack in Benghazi that left him with a knife scar in his chest. It is a terror that Carlo knows will never leave him."
 
-**中文理解：** 一切发生得太快——那是班加沙旧日遇袭留下的应激，那把刀在他胸口留下一道疤。他知道，那份恐惧永远不会离开他。
+**中文理解：** 一切发生得太快——那是班加西（Benghazi）旧日遇袭留下的应激，那把刀在他胸口留下一道疤。他知道，那份恐惧永远不会离开他。
 
 **关键词：** reflex · Benghazi · knife scar · terror
 

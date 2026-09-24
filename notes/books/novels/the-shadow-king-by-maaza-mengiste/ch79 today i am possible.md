@@ -79,7 +79,7 @@ modified: "2026-09-24"
 
 > **原句 7:** "Aida, young maiden governed by the laws of love, slave to her desire for her father's enemy, faccetta nera, come here, he says. Take my hand."
 
-**中文理解：** 阿依达，被爱情法则管辖的少女，爱上杀父仇人的奴隶，小黑脸，过来。牵我的手。
+**中文理解：** 阿依达，被爱情的法则统治的少女，受着对杀父仇人的欲望的奴役，小黑脸，过来，他说。牵我的手。
 
 **关键词：** governed by the laws of love · slave to her desire · Take my hand
 
@@ -121,7 +121,7 @@ modified: "2026-09-24"
 
 **中文理解：** 她穿着衣服却是赤裸的。她是一场奇观，却无人看见。她是一个被劈成两半的女孩，站在这里的是肉与影、骨与剪影，不过是一团灌满了烟的空气。
 
-**关键词：** clothed but naked · spectacle but invisible · flesh and shadow
+**关键词：** clothed but naked · a spectacle but she is invisible · flesh and shadow
 
 **为什么这样写：** 三个 but 的悖论排比是 ch76"赤裸分类学"的兑现：衣服已被收走（军装），换上的 abesha 衬裙反而更深地剥光了她。invisible/spectacle 的双向撕裂正是本书"观看战争"的总战场；flesh and shadow 把她的名字写进书名——影子国王名下第一个自愿成为影子的人。三叠"And the cook"的惊呼紧随其后，把这场形而上撕裂拉回一件具体的旧事：连"已经死了"的人都活着出现在铁丝网上，她的世界再无一条定律可靠。
 

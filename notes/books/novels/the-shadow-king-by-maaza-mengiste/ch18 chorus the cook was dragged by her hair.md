@@ -50,7 +50,7 @@ modified: "2026-09-24"
 
 **关键词：** stood between · drove · soft
 
-**为什么这样写：** 全书对 Aster 最严酷的判词由 Chorus 亲口下达：她没有救人，她做了田野调查。drove（驱车般砸进）与 soft（柔软）的质量差把暴力写成农耕工具入土——ch08 新婚夜 Kidane "pressing an arm against her chest" 的手法在此已教给这家人。这个"选择旁观"的 aster 弧线不是堕落而是冻结：她此后的九年哀恸里，一半是为孩子，一半为这笔她付了研究费的账。
+**为什么这样写：** 全书对 Aster 最严酷的判词由 Chorus 亲口下达：她没有救人，她做了田野调查。drove（驱车般砸进）与 soft（柔软）的质量差把暴力写成农耕工具入土——ch08 新婚夜 Kidane "presses an arm against her chest" 的手法在此已教给这家人。这个"选择旁观"的 aster 弧线不是堕落而是冻结：她此后的九年哀恸里，一半是为孩子，一半为这笔她付了研究费的账。
 
 ---
 
@@ -70,7 +70,7 @@ modified: "2026-09-24"
 
 **关键词：** measure · mimic · inherent worth
 
-**为什么这样写：** "Only after all of this"的时间副词是全书人物心理的手术记录：求救被延后，因为她在完成一场学习——模仿勇气需要先取得资格感（lineage and blood and inherent worth：被定价课反向证明的、她自己没被劈碎的那部分）。vow to mimic 的模仿链预告 ch08：新婚夜她"抵抗到更自然"（It is more natural to resist）不是天赋，是本章这堂课的复读。本书写"勇气如何传承"，写得最冷也最准的一段：勇气的来源，是一次没能救成的旁观。
+**为什么这样写：** "Only after all of this"的时间副词是全书人物心理的手术记录：求救被延后，因为她在完成一场学习——模仿勇气需要先取得资格感（her lineage and blood and her own inherent worth：被定价课反向证明的、她自己没被劈碎的那部分）。vow to mimic 的模仿链预告 ch08：新婚夜她"抵抗到更自然"（It is more natural, she is realizing, to resist）不是天赋，是本章这堂课的复读。本书写"勇气如何传承"，写得最冷也最准的一段：勇气的来源，是一次没能救成的旁观。
 
 ## 本章词汇
 

@@ -119,7 +119,7 @@ modified: "2026-09-24"
 
 > **原句 11:** "Ettore leans in, arches close, orders ascari to keep them still, but it is impossible to get a steady shot."
 
-**中文理解：** Ettore 俯身逼近，把焦距拉到最近，命令雇佣兵把他们按住——可根本不可能拍到一张清晰的。
+**中文理解：** Ettore 俯身贴近，命令阿斯卡里把他们按住——可根本不可能拍到一张稳当的画面。
 
 **关键词：** arches close · ascari · steady shot
 
@@ -133,7 +133,7 @@ modified: "2026-09-24"
 
 **关键词：** soft bones · relieved and graceless · gulf multiplies · chorus
 
-**为什么这样写：** 三个反美学词（soft/relieved/graceless）拆解了坠崖可能被拍出的"飞翔感"——连死亡都不肯上相，这是对 ch65 那种精致目录最狠的报复。gulf multiplies their voices 与 ch67 前半 Zerihun 的 ricochet 同一物理机制：深谷是帝国挖的，扩音器却归了死者。chorus（合唱）宣告女仆的姓名工程胜利：名字一旦坠入深渊，就再也收不回来了。
+**为什么这样写：** 三个反美学词（soft/relieved/graceless）拆解了坠崖可能被拍出的"飞翔感"——连死亡都不肯上相，这是对 ch65 那种精致目录最狠的报复。a gulf that multiplies their voices 与 ch67 前半 Zerihun 的 ricochet 同一物理机制：深谷是帝国挖的，扩音器却归了死者。chorus（合唱）宣告女仆的姓名工程胜利：名字一旦坠入深渊，就再也收不回来了。
 
 ---
 

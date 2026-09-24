@@ -99,7 +99,7 @@ modified: "2026-09-24"
 
 > **原句 9:** "You’re Faven and now you’re Fifi, he says. Every other waitress across Eritrea and Ethiopia is called Mimi. What is it with your people and their names?"
 
-**中文理解：** "你叫 Faven，现在又叫 Fifi，"他说，"厄立特里亚和埃塞俄比亚的女招待十个人九个叫 Mimi。你们这些人跟名字有什么仇？"
+**中文理解：** "你叫 Faven，现在又叫 Fifi，"他说，"厄立特里亚和埃塞俄比亚的女招待每隔一个就叫 Mimi。你们这些人跟名字有什么仇？"
 
 **关键词：** Faven · Mimi · names
 
@@ -147,7 +147,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 14:** "He gives into the illusion that this woman stands in the center of his palm, under his control. He imagines her beneath him, giving away codes and secrets in that way that makes her words indecipherable to all but him."
+> **原句 14:** "He gives into the illusion that this woman stands in the center of his palm, under his control. … He imagines her beneath him, giving away codes and secrets in that way that makes her words indecipherable to all but him."
 
 **中文理解：** 他沉溺于幻觉：这女人立在他掌心正中，归他掌控。他想象她在他身下吐露密码与机密，而她说出的话，除了他谁也破不了。
 

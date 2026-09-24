@@ -127,7 +127,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 12:** "The jewels catch the morning light as the animal shakes its head, reflecting warm color across Hirut’s new uniform, mimicking a constellation of bright stars. She is dressed as a Kebur Zebegna, a member of the emperor’s elite army."
+> **原句 12:** "The jewels catch the morning light as the animal shakes its head, reflecting warm color across Hirut’s new uniform, mimicking a constellation of bright stars. … She is dressed as a Kebur Zebegna, a member of the emperor’s elite army."
 
 **中文理解：** 马甩头时，宝石接住晨光，把暖色的光斑投在 Hirut 的新制服上，模拟出一片亮星的星座。她穿成了禁卫军——皇帝的近卫兵团成员。
 
@@ -171,7 +171,7 @@ modified: "2026-09-24"
 
 **中文理解：** "看看他的护卫——这些女人同样是战士，是士兵，是蒂图女皇的女儿：四十年前老外第一次入侵时，她曾率四万人与之战。"
 
-**关键词：** pay attention · also warriors · daughters of Empress Taitu · forty years ago
+**关键词：** pay attention · also warriors · daughters of our Empress Taitu · forty years ago
 
 **为什么这样写：** 政治演说的核心句：把两位女性护卫接进 1896 年 Adwa 大捷的母系谱系，用" daughters of " 改写军队血统学。Empress Taitu（真实历史人物孟尼莉皇后的变体名）与 ch51 的影子王后 Zewditu 呼应——本书正在给"女性参战"补写一份皇家出生证明。
 

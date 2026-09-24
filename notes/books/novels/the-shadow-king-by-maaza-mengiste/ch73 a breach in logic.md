@@ -101,7 +101,7 @@ modified: "2026-09-24"
 
 **中文理解：** 她什么都不是。她谁也不是。她被解开了缆、抽散了线，不属于任何家族、任何名字、任何血统。
 
-**关键词：** unmoored and unraveled · no family, no name, no lineage
+**关键词：** unmoored and unraveled · no family, to no name, to no lineage
 
 **为什么这样写：** nothing/no one 两个短句先拆人，随后三个 to no 逐条撕掉贵族的三张护身符——家族、名字、血统。动词选得极准：unmoored 是船被砍断缆绳（她曾停在"有身份"的港湾里），unraveled 是织物被抽出线头（ch74 里"走出婚纱"正是这块布的续写）。
 

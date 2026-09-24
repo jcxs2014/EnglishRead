@@ -20,7 +20,7 @@ modified: "2026-09-24"
 
 **关键词：** straight-backed · sagging
 
-**为什么这样写：** 一句话给两个人各画一副身体：straight-backed vs sagging——姿态的攻防已经先于台词分出胜负。bloodshot 泄露 Kidane 整夜未眠（操练+焦虑），意味着这位家长并非无懈可击；本章的权力翻转从脊椎开始。
+**为什么这样写：** 一句话给两个人各画一副身体：straight-backed 对 sagging shoulders——姿态的攻防已经先于台词分出胜负。bloodshot 泄露 Kidane 整夜未眠（操练+焦虑），意味着这位家长并非无懈可击；本章的权力翻转从脊椎开始。
 
 ---
 
@@ -80,7 +80,7 @@ modified: "2026-09-24"
 
 **关键词：** dress up · owe
 
-**为什么这样写：** Kidane 的收权词只有三个动词：serve（像厨娘服侍你那样）、follow、carry（抬伤员埋死者）——他的"平等动员"实际是把妻子的军装降级为后勤。everything goes to my men 的坦白令人齿冷：爱国者的债单上没有妻与子。本章开头他"Blood on my father's cape"的崇高，与章末这句的记账学构成全书对男性荣誉经济最完整的拆解。
+**为什么这样写：** Kidane 的收权词只有三个动词：serve（像厨娘服侍你那样）、follow、carry（抬伤员埋死者）——他的"平等动员"实际是把妻子的军装降级为后勤。everything goes to my men 的坦白令人齿冷：爱国者的债单上没有妻与子。本章开头厨娘"My father bled on that cape"的控诉，与章末这句的记账学构成全书对男性荣誉经济最完整的拆解。
 
 ---
 
@@ -99,7 +99,7 @@ modified: "2026-09-24"
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
 | sagging shoulders and bloodshot eyes | 垮塌的双肩与布满血丝的眼 | "She is stubborn and straight-backed confronting Kidane with his sagging shoulders and bloodshot eyes." |
-| suspended in the space like broken leaves in search of rest | 悬在两人之间如寻不到落脚处的碎叶 | "It has been raining and the air is damp. It holds Aster’s last words suspended in the space between the couple like broken leaves in search of rest." |
+| suspended in the space between the couple like broken leaves in search of rest | 悬在两人之间如寻不到落脚处的碎叶 | "It has been raining and the air is damp. It holds Aster’s last words suspended in the space between the couple like broken leaves in search of rest." |
 | I have bled when I shouldn’t | 我流了不该流的血 | "I have bled when I shouldn’t, she says." |
 | the gaunt, hungry look of a fervent priest | 苦修牧师般枯瘦饥渴的神情 | "He has the gaunt, hungry look of a fervent priest." |
 | deep, booming thuds ricocheting from valley to sky | 低沉轰鸣的鼓点从山谷弹向天空 | "And then they hear the drums, deep, booming thuds ricocheting from valley to sky to mountain to sink between them, crackling with insistence." |

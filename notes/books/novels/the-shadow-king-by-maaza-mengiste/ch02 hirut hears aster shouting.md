@@ -103,7 +103,7 @@ modified: "2026-09-24"
 | a dark hollow carved into endless tired nights | 凿入无尽疲惫之夜的暗穴 | "It is a dark hollow carved into endless tired nights." |
 | giving way to unrestrained anger | （恳求）让位于无节制的暴怒 | "Aster calls her name again, insistence giving way to unrestrained anger." |
 | a reprimand veiled by something else | 被另一种东西遮罩的责备 | "She has looked into his eyes before: where there was kindness, there is now a sternness that is new to her, a reprimand veiled by something else she cannot understand." |
-| a tone that scrapes against her chest | 嗓音像从胸腔里刮出来 | "She is lost in her thoughts, still whispering in that tone that scrapes against her chest." |
+| that tone that scrapes against her chest | 嗓音像从胸腔里刮出来 | "She is lost in her thoughts, still whispering in that tone that scrapes against her chest." |
 | loneliness stretches between them and draws them close | 寂寞在两人之间拉长、反倒把他们拉近 | "In the long silence, loneliness stretches between them and draws them close." |
 
 ### ⭐⭐ 进阶

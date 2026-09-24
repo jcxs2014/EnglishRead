@@ -129,7 +129,7 @@ modified: "2026-09-24"
 
 > **原句 12:** "I know as long as these women are alive, Kidane will come…And because they are here, we have no room for more prisoners in the jail. He slides his sunglasses from his face. He pats one of the elderly priests on the back. Which is bad luck for you, I'm afraid, he adds."
 
-**中文理解：** 我知道，只要这两个女人在世，基达内就会来。而正因为你俩在这儿，牢房没有多余的位置了。他把墨镜滑下脸。他拍拍一位老祭司的背。恐怕，这对你来说是坏运气，他补了一句。
+**中文理解：** 我知道，只要这两个女人在世，基达内就会来。而正因为她们还在这里，牢房里再没有关更多囚犯的位置了。他把墨镜滑下脸。他拍拍一位老祭司的背。恐怕，这对你来说是坏运气，他补了一句。
 
 **关键词：** no room for more prisoners · pats · bad luck
 

@@ -99,7 +99,7 @@ modified: "2026-09-24"
 
 > **原句 9:** "Now you just have to hope he doesn’t get bored. … Anyway, the woman says, better him than a poor man."
 
-**中文理解：** "现在你只要祈祷他别觉得腻。……总之，比便宜了别的男人强。"
+**中文理解：** "现在你只要祈祷他别觉得腻。……总之，比起穷男人，还是他好。"
 
 **关键词：** hope he doesn’t get bored · better him than a poor man
 

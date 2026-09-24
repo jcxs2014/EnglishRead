@@ -131,7 +131,7 @@ modified: "2026-09-24"
 
 **中文理解：**  迷人可爱的 Anya 的丈夫（1881 年 3 月 21 日—1905 年 10 月 19 日），小 Boris 的父亲（1902 年 11 月 25 日—1905 年 10 月 19 日）。
 
-**关键词：** see also · lovely · 19 October 1905
+**关键词：** lovely · 19 October 1905
 
 **为什么这样写：** 条目体的最高杀器：两个生卒区间共享同一个卒日——1905 年 10 月 19 日，敖德萨迫害之夜。数字不动声色地替代了全部叙事：妻子 24 岁、儿子不到 3 岁。lovely 一个形容词在满页数字里如一枚私章：档案馆的格式没能杀死"可爱"这个词，正如 Leo 没能杀死 Anya——他在 ch66 对儿子说"她会希望我告诉你"。这一行也回答了 ch68 的疑问：Ettore 的兄长不是 lost in transit，是被同一个日期没收的。
 
@@ -139,7 +139,7 @@ modified: "2026-09-24"
 
 > **原句 13:** "whose last full day of life was spent sleeping in his terrified mother's embrace while his father stumbled home from work, shouting for them through the fiery streets of Odessa."
 
-**中文理解：** 小 Boris 完整生命的最后一天，是在惊恐的母亲怀里睡过去的；而父亲下班跌撞回家，在烈火中的敖德萨街道上一路喊她们的名字。
+**中文理解：** 小 Boris 完整生命的最后一天，是在惊恐的母亲怀里睡过去的；而父亲下班跌撞回家，在烈火中的敖德萨街道上一路呼喊他们。
 
 **关键词：** last full day · terrified embrace · stumbled · fiery streets
 

@@ -10,7 +10,7 @@ modified: "2026-09-24"
 - **一句话概括**：一张卡车上山的照片：三位真实的西方名记（Montanelli、Matthews、Evelyn Waugh）从同一条公路读出"注定胜利"，而村口捡蛋卖蛋的老夫妇从同一片山海读出"只有血，更多的血"。
 - **情感弧线位置**：ch25 皇帝线之后的小憩镜头——Photo 声部第三次出场（ch14、ch16），把"谁定义风景"的史学问题推到观者层面。
 - **人物弧线**：无主角章：老夫妇 Ato Wolde 与 Weizero Nunush 是本书第一次给"卖蛋人"完整的台词权——底层拥有最终的解读权。
-- **叙事手法**：will 将来时全章贯穿（叙述者预言"这些记者将会说……"——事后应验式反讽）；两组排比宣言正面对撞（There is no hope... vs There is nothing that can come...）。
+- **叙事手法**：will 将来时全章贯穿（叙述者预言"这些记者将会说……"——事后应验式反讽）；两组排比宣言正面对撞（"There is no hope for this place but Il Duce" vs "There is nothing that can come from this but blood and more blood"）。
 
 ## 精读
 
@@ -20,7 +20,7 @@ modified: "2026-09-24"
 
 **关键词：** slender line · dug out · clinging · shrouded
 
-**为什么这样写：** Photo 声部的图文转换术：不写照片本身，先写照片里的物——三个无动词句如三次快门。road clinging to the edge 的路拟人（攀着崖边）预埋全章反讽：这条路自己都命悬一线，却被看成"胜利之路"。
+**为什么这样写：** Photo 声部的图文转换术：不写照片本身，先写照片里的物——三个无动词句如三次快门。clinging to the edge of a breathtaking drop 的路拟人（攀着崖边）预埋全章反讽：这条路自己都命悬一线，却被看成"胜利之路"。
 
 ---
 
@@ -50,7 +50,7 @@ modified: "2026-09-24"
 
 **关键词：** point toward · no hope for this place but · no dreams greater than
 
-**为什么这样写：** 排比路线（Asmara→Massawa→罗马）正是意军补给线的方向——记者的手指替帝国画好了后勤图。no dreams greater than those of Mussolini 是殖民话语的最纯蒸馏：把"别人的国家没有更大的梦"说成此地的事实，而非自己的暴力——梦的代表权被代办。
+**为什么这样写：** 排比路线（Asmara→Massawa→罗马）正是意军补给线的方向——记者的手指替帝国画好了后勤图。no dreams greater than those of Benito Mussolini 是殖民话语的最纯蒸馏：把"别人的国家没有更大的梦"说成此地的事实，而非自己的暴力——梦的代表权被代办。
 
 ---
 

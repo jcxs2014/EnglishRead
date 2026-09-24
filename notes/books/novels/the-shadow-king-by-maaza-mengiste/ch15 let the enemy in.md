@@ -91,7 +91,7 @@ modified: "2026-09-24"
 | a deliberate performance meant to be seen | 一场蓄意要被看见的表演 | "The invasion it announces is a deliberate performance meant to be seen, meant to watched, meant to serve as visible proof of a braggart’s strength." |
 | opening a path to death, like a disease | 如疾病般豁开一条死路 | "There is no way to explain to someone like her that there is a large patch of land in this country that supposedly belongs to no one anymore, a strip of earth called no-man’s-land that cannot be claimed by king or farmer, a ghostly region squeezed between two borders, opening a path to death, like a disease." |
 | resurrect their dead and refashion them as heroes | 招回死者并重铸为英雄 | "They have come to rewrite history, to alter memory, to resurrect their dead and refashion them as heroes." |
-| every step will have to be erased | 每一步都得被抹掉 | "They cannot use even the faintest semblance of a path. Every step they take from now on will have to be erased, their presence rendered invisible to an enemy as calculating as they." |
+| Every step they take from now on will have to be erased | 每一步都得被抹掉 | "They cannot use even the faintest semblance of a path. Every step they take from now on will have to be erased, their presence rendered invisible to an enemy as calculating as they." |
 | the smallest kernel of sand | 最小的一粒沙 | "It is useless to declare that even the smallest kernel of sand belongs to Ethiopia." |
 
 ### ⭐⭐ 进阶

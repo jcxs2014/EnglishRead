@@ -39,7 +39,7 @@ modified: "2026-09-24"
 
 > **原句 3:** "A finger pointed, an accusation, an eternal damning."
 
-**中文理解：** 一根竖起的食指——一个指控，一次永恒的定罪。
+**中文理解：** 一根手指指向前方——一个指控，一次永恒的定罪。
 
 **关键词：** pointed · accusation · eternal damning
 

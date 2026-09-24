@@ -16,7 +16,7 @@ modified: "2026-09-24"
 
 > **原句 1:** "Kidane and Berhe are near the stable, around the corner and out of view. They are speaking with an unstrained camaraderie, unaware of what is buried beneath the firewood steps from them."
 
-**中文理解：** Kidane 和 Berhe 在马厩附近，隔着一角看不见彼此。他们带着松弛的 camaraderie 说话，不知道就在离他们几步的柴火下面埋着什么。
+**中文理解：** Kidane 和 Berhe 在马厩附近，绕到拐角处、在 Hirut 看不见的地方。他们带着松弛的 camaraderie 说话，不知道就在离他们几步的柴火下面埋着什么。
 
 **关键词：** unstrained · camaraderie
 
@@ -40,7 +40,7 @@ modified: "2026-09-24"
 
 **关键词：** owners · rightful place
 
-**为什么这样写：** Hirut 的自我审判压缩成一副对偶：owners / set them in place and clean them 精确复刻"主人 / 仆役"的世袭分工。rightful（正当的）最毒——连摆放物品的位置都被说成"正当"，阶级就被写进了物的秩序里。这是她埋宝物的天真被戳破的瞬间：占有需要世界给你发证。
+**为什么这样写：** Hirut 的自我审判压缩成一副对偶：owners / set them in their rightful place and clean them 精确复刻"主人 / 仆役"的世袭分工。rightful（正当的）最毒——连摆放物品的位置都被说成"正当"，阶级就被写进了物的秩序里。这是她埋宝物的天真被戳破的瞬间：占有需要世界给你发证。
 
 ---
 
@@ -80,7 +80,7 @@ modified: "2026-09-24"
 
 **关键词：** craters · arching · broken necklace
 
-**为什么这样写：** 全书伏笔管理的样板：序章开篇"A scar like a broken necklace"的来历在此刻生成——而制造伤疤的正是项链本身出土引发的暴怒。craters（作动词，砸出环形坑）保留军事弹坑语义：鞭子是一具微型的战争机器。物（项链）→ 伤（疤）→ 记忆（全书的讲述起点），一个意象闭环咬合完成。
+**为什么这样写：** 全书伏笔管理的样板：ch01 开篇那道"like a broken necklace"的来历在此刻生成——而制造伤疤的正是项链本身出土引发的暴怒。craters（作动词，砸出环形坑）保留军事弹坑语义：鞭子是一具微型的战争机器。物（项链）→ 伤（疤）→ 记忆（全书的讲述起点），一个意象闭环咬合完成。
 
 ---
 

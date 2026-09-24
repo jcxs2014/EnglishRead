@@ -64,7 +64,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 6:** "Born in Bordeaux, that famous city of wines, Montaigne, Montesquieu, and that tremendously profitable harbor where ships sailed for the coast of Western Africa on the Triangular Trade."
+> **原句 6:** "Born in Bordeaux, that famous city of wines, Montaigne, Montesquieu, and that tremendously profitable harbor where ships sailed for the coast of Western Africa on the Triangular Trade. Triangle: a figure composed of three straight lines and three angles, not necessarily equal."
 
 **中文理解：** 他生在波尔多，那座以葡萄酒、蒙田、孟德斯鸠闻名的城市，还有那座利润惊人的港口——船只从这里驶向西非海岸，去做三角贸易。三角形：由三条直线与三个角构成的图形，角未必相等。
 
@@ -86,7 +86,7 @@ modified: "2026-09-24"
 
 > **原句 8:** "Hirut will not hear the women of Amegiagi gather the young patriots’ mother in their arms and weep so loudly that heaven bends. … She will not know that Ibrahim, a proud and trusted ascaro long in the service of Colonel Fucelli, stands stiffly next to his men while a muscle near his eye twitches like a leaf."
 
-**中文理解：** 她听不见 Amegiagi 的女人们把那位少年爱国者的母亲揽进怀里、哭得那么响，连天都被哭弯了腰。……她也不会知道：Ibrahim——那位为 Fucelli 上校效命多年、骄傲而受信任的 ascari——正笔直站在他的兵旁边，眼角一块肌肉像叶子一样抖。
+**中文理解：** 她听不见 Amegiagi 的女人们把那位少年爱国者的母亲揽进怀里、哭得那么响，连天都被哭弯了腰。……她也不会知道：Ibrahim——那位为 Fucelli 上校效命多年、骄傲而受信任的 ascaro——正笔直站在他的兵旁边，眼角一块肌肉像叶子一样抖。
 
 **关键词：** heaven bends · twitching like a leaf
 

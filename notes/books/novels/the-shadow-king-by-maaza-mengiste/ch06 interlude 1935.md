@@ -98,9 +98,9 @@ modified: "2026-09-24"
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| the first strands of night seep into the day | 最初的夜丝渗入白昼 | "It is 2 September 1935 and the first strands of night have begun to seep into the day." |
-| a war coming at him with a locomotive force | 以火车头的冲量扑向他的战争 | "He wants to sit in the middle of this shrinking room and pick his way into this war coming at him with a locomotive force." |
-| the tacit agreement in the form of inert silence | 以惰性沉默形式出现的心照不宣 | "Italy has the tacit agreement of the League of Nations in the form of inert silence." |
+| the first strands of night have begun to seep into the day | 最初的夜丝渗入白昼 | "It is 2 September 1935 and the first strands of night have begun to seep into the day." |
+| this war coming at him with a locomotive force | 以火车头的冲量扑向他的战争 | "He wants to sit in the middle of this shrinking room and pick his way into this war coming at him with a locomotive force." |
+| the tacit agreement of the League of Nations in the form of inert silence | 以惰性沉默形式出现的心照不宣 | "Italy has the tacit agreement of the League of Nations in the form of inert silence." |
 | numerous as ants | 多如蚁群 | "There are his soldati, numerous as ants." |
 | train himself to withstand disorientation | 训练自己承受迷失定向 | "He wants to train himself to withstand disorientation and stay calm until the world melds itself back together." |
 

@@ -46,7 +46,7 @@ modified: "2026-09-24"
 
 > **原句 4:** "What’s your name? he asks in Amharic. His intonation has the same hissing sound he uses when he speaks French. His accent is strange, the rhythm of the words soaked in spit. I’m Jacques Corat, he says. Do you like me? His mouth parts again in a grin, revealing more of his stained teeth."
 
-**中文理解：** "你叫什么名字？"他用阿姆哈拉语问。语调里带着说法语时同样的咝咝声。口音古怪，词语的节奏泡在唾液里。"我叫 Jacques Corat，"他说，"你喜欢我吗？"嘴又咧开，露出更多被槟榔染脏的牙。
+**中文理解：** "你叫什么名字？"他用阿姆哈拉语问。语调里带着说法语时同样的咝咝声。口音古怪，词语的节奏泡在唾液里。"我叫 Jacques Corat，"他说，"你喜欢我吗？"嘴又咧开，露出更多被 khat 染脏的牙。
 
 **关键词：** hissing · soaked in spit · Do you like me
 
@@ -76,7 +76,7 @@ modified: "2026-09-24"
 
 > **原句 7:** "I’ll get you astenagir. I know how to make it stronger, I can mix it with other things, you can sell it."
 
-**中文理解：** "我能给你弄来 astenagir（一种强化 khat 的合成品）。我知道怎么让它更烈，可以掺进别的东西，你还能转手卖。"
+**中文理解：** "我能给你弄来 astenagir（khat 断供时的替代品，更烈也更持久）。我知道怎么把它调得更猛，可以掺进别的东西，你还能转手卖。"
 
 **关键词：** astenagir · stronger · sell it
 

@@ -50,7 +50,7 @@ modified: "2026-09-24"
 
 **关键词：** clinks · snatches · breathes
 
-**为什么这样写：** 证据到手的一瞬被写成灵异场景：Kidane 书桌里"早已丢失"的项链证明他至少对妻子撒了谎；something breathes 不点破是谁（归来的亡灵？注视的丈夫？），用鬼叙事把物证变成审判。clinks like a bag of coins 的响亮与后句的寂静构成听觉蒙太奇。
+**为什么这样写：** 证据到手的一瞬被写成灵异场景：Kidane 书桌里"早已丢失"的项链证明他至少对妻子撒了谎；something breathes 不点破是谁（归来的亡灵？注视的丈夫？），用鬼叙事把物证变成审判。clinks onto the floor like a bag of coins 的响亮与后句的寂静构成听觉蒙太奇。
 
 ---
 

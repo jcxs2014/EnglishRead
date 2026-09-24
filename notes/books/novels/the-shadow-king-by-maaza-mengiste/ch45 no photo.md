@@ -39,7 +39,7 @@ modified: "2026-09-24"
 
 > **原句 3:** "I say, Father, the eye has the power to keep what it sees, the eye is greedy, the eye will always seek and devour that illumined figure made visible by predatory light."
 
-**中文理解：** 父亲，我说——眼睛有能力留存它所见的一切；眼睛是贪婪的，眼睛永远会搜寻并吞食那道被掠食者的光照亮的身影。
+**中文理解：** 父亲，我说——眼睛有能力留存它所见的一切；眼睛是贪婪的，眼睛永远会搜寻并吞食那道被掠食性的光照亮的身影。
 
 **关键词：** greedy · devour · predatory light
 

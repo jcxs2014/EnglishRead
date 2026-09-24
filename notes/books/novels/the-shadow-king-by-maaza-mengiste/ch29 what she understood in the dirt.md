@@ -58,7 +58,7 @@ modified: "2026-09-24"
 
 **中文理解：** 她扭头，尖碎石抠进脸颊；透过泪水凝成的浓雾，她看见父亲悲伤地摇头。
 
-**关键词：** pebbles dig · dense fog of tears · her father
+**关键词：** pebbles dig · dense fog of her tear-filled eyes · her father
 
 **为什么这样写：** 全章超现实的一笔：幻觉里出现的不是上帝也不是母亲，是父亲——那位教她 Wujigra 操练的人（ch21 回忆）。他摇头的语义被悬置：悲她，还是悲他自己把枪留给了这个营地？本书从不在幻觉上标注解释，因为受创者的眼睛本就长满他人的脸。碎石入颊的实感与父亲幻影的虚感同框：身体在场、灵魂已出窍——"mind slams into that space where meaning is absent"的注脚。
 

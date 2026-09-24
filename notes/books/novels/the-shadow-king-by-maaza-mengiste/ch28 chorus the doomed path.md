@@ -56,7 +56,7 @@ modified: "2026-09-24"
 
 > **原句 5:** "What she will note as she thinks back to that moment when she was still the same as she was born: the crooked path of pale sunlight falling across the leaning, flat-topped tree."
 
-**中文理解：** 日后回想，她将记住的、那个"她还和出生时一样"的最后一刻：一道惨白的日光斜落在倾斜的平顶树上。
+**中文理解：** 日后回想，她会记住那个"她还和出生时一样"的时刻：一道惨白的日光斜落在倾斜的平顶树上。
 
 **关键词：** still the same as she was born · crooked · flat-topped
 

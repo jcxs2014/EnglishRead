@@ -89,7 +89,7 @@ modified: "2026-09-24"
 
 > **原句 8:** "He sets it next to his Bible, opening the book to the verse in Isaiah he has read daily since the start of this war: Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia."
 
-**中文理解：** 他把唱片放到圣经旁边，翻开自开战以来每天读的那节以赛亚书：哀哉，这有翅膀之影遮蔽、位于埃及诸河以外的地！
+**中文理解：** 他把唱片放到圣经旁边，翻开自开战以来每天读的那节以赛亚书：哀哉，这有翅膀之影遮蔽、位于埃塞俄比亚诸河以外的地！
 
 **关键词：** Woe · shadowing with wings · the rivers of Ethiopia
 

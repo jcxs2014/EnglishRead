@@ -77,7 +77,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 7:** "They did it when they believed in the fight, he continues quietly. But they don’t believe in you. Or anyone else. They believe in the emperor."
+> **原句 7:** "They did it when they believed in the fight, he continues quietly. But they don’t believe in you. Or anyone else. … They believe in the emperor."
 
 **中文理解：** "他们拼命，是因为他们信这场仗，"Aklilu 低声继续，"可他们不信你。也不信任何别的人。他们只信皇帝。"
 

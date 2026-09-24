@@ -47,7 +47,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 4:** "the way they sliced through the distance between the royal car and the train, his heavy shoes scraping dirt?"
+> **原句 4:** "Maybe it is the emperor’s steps—so measured and slow—that he will mention first, the way they sliced through the distance between the royal car and the train, his heavy shoes scraping dirt?"
 
 **中文理解：** 还有皇帝的脚步——那样缓慢、那样沉稳，切开王车与火车之间的距离，沉重的鞋靴刮过泥土。
 

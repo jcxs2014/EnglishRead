@@ -33,7 +33,7 @@ modified: "2026-09-24"
 
 **关键词：** chapped · parted · stark
 
-**为什么这样写：** 镜头推近至特写：三个短分句像三声快门。stark 是全句的钉子——它兼有"赤裸、僵硬、直勾勾"三层：孩子没有哭喊，只是被饿得"只剩下看"。这张脸是对 ch56"types  Easily categorized"的无声反驳：分类学看得清痣的环形排列，却看不见 stark。
+**为什么这样写：** 镜头推近至特写：三个短分句像三声快门。stark 是全句的钉子——它兼有"赤裸、僵硬、直勾勾"三层：孩子没有哭喊，只是被饿得"只剩下看"。这张脸是对 ch56"They’re types, all of them. Easily categorized"的无声反驳：分类学看得清痣的环形排列，却看不见 stark。
 
 ---
 
@@ -41,7 +41,7 @@ modified: "2026-09-24"
 
 **中文理解：** 一根细瘦的手指举向天空——那是一个手势：请耐心一点，请时间多一点，请慈悲一点，请还有希望。
 
-**关键词：** slender finger · a gesture for · patience, time, mercy, hope
+**关键词：** slender finger · a gesture for · for patience, for time, for mercy, for hope
 
 **为什么这样写：** 全书最短章里的最长一笔：一根手指被放大成四个抽象名词的台阶（耐心→时间→慈悲→希望），递进里藏着绝望的顺序——先求你等，再求你慢，再求你善，最后才敢求"还有明天"。to the sky 的方向也双关：地上无人可诉，手指只能举给天——ch58 皇帝问的"What kind of god"，在这里有了同一个手势的回应。
 

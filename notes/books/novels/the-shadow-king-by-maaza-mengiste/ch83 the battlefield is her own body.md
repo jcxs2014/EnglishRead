@@ -109,7 +109,7 @@ modified: "2026-09-24"
 
 > **原句 10:** "He points to another word and then jabs his finger toward the mountains and says, Hagere, my country, il mio paese. It is not my country."
 
-**中文理解：** 他指向另一个词，朝群山戳着手指说：哈格瑞，我的国，我的国（意大利语）。那不是我的国。
+**中文理解：** 他指向另一个词，朝群山戳着手指说：哈格瑞，我的国，我的国（意大利语 il mio paese）。"那不是我的国"——这一句落在希露特这边。
 
 **关键词：** Hagere · jab · It is not my country
 

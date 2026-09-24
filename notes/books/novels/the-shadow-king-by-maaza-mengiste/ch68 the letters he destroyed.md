@@ -21,7 +21,7 @@ modified: "2026-09-24"
 
 **中文理解：** 多年之后，在那座港口城市的咖啡馆里，Ettore 会对记者 Khairallah Ali 说：那封信其实并没有真正揭开父亲生平的任何部分。
 
-**关键词：** years from now · will explain · really exposed
+**关键词：** will explain · really exposed
 
 **为什么这样写：** 本章的时间语法是全书最大胆的一次：用将来式倒叙（will explain / he will say），把"战后讲述"预写进战争进行中——等于叙述者提前宣布：这些章节的终点是一间咖啡馆、一个记者、一次采访。exposed 一词带摄影味（曝光）：儿子抱怨父亲没有"曝光"自己——摄影师儿子对冲洗照片的执念，在这里换成了对家史的。
 
@@ -33,7 +33,7 @@ modified: "2026-09-24"
 
 **关键词：** stranger · through his questions · not his answers
 
-**为什么这样写：** 与 ch66 信中"I have never been a stranger to myself"构成残酷错位：父亲说自己从不对自己陌生，儿子却说对他陌生——两句都是真的：Leo 清楚自己，却从未打算把那份清楚递交。knew him through questions 精准概括了这对父子全部的沟通方式：指令、盘问、挑战，唯独没有自述。这也是全书"父亲话语"的墓志铭。
+**为什么这样写：** 与 ch66 信中"I have never been a stranger to myself"构成残酷错位：父亲说自己从不对自己陌生，儿子却说对他陌生——两句都是真的：Leo 清楚自己，却从未打算把那份清楚递交。I knew him through his questions, not his answers 精准概括了这对父子全部的沟通方式：指令、盘问、挑战，唯独没有自述。这也是全书"父亲话语"的墓志铭。
 
 ---
 
@@ -41,9 +41,9 @@ modified: "2026-09-24"
 
 **中文理解：** "我父亲是个话语很少、含义很多的人……但我确信本来还有别的信，能告诉我更多。他就不会只问了那么少的问题。"
 
-**关键词：** few words and many meanings · lost in transit · asked so few questions
+**关键词：** few words and many meanings · asked so few questions
 
-**为什么这样写：** "few words, many meanings"是对 Leo 最准的判词，也是 Ettore 一生误读的根源：他把删节读成寡言。末句的"so few questions"最疼——他一直抱怨父亲只考不问；此刻他不知道的是，父亲不是不问，是没有可以问的人了。这两句"事后推测"全部说对了方向、说错了原因，是小说常用的"限知反讽"：读者将在下一段拿到答案。
+**为什么这样写：** "a man of few words and many meanings"是对 Leo 最准的判词，也是 Ettore 一生误读的根源：他把删节读成寡言。末句的"so few questions"最疼——他一直抱怨父亲只考不问；此刻他不知道的是，父亲不是不问，是没有可以问的人了。这两句"事后推测"全部说对了方向、说错了原因，是小说常用的"限知反讽"：读者将在下一段拿到答案。
 
 ---
 
@@ -171,7 +171,7 @@ modified: "2026-09-24"
 
 **中文理解：** 他把自己藏进词与词的缝隙里，塞满每一处空白和页边——他以这样的方式写作，最终仍在乞求：被找到，被营救，被托举——就一次——放进温柔的光里。
 
-**关键词：** hidden between the words · tucked · space and margin · held up · tender light
+**关键词：** hidden himself between the words · tucked · space and margin · held up · tender light
 
 **为什么这样写：** 全书"隐藏/显现"命题（ch50 影子王、ch60 影子里的囚徒）在微观层面终结：藏身的容器不再是照片，是字距。三个 to be 的被动式排比是 Leo 一生第一次"求"：不指人、不设条件，只求动词作用于他。tender light 呼应 ch66 "连鬼影都能拍的柔光"与 ch61 男孩"为慈悲举起的指"——而 for once（就一次）是本章落点：这个从不肯把自己交给别人的男人，把唯一的请托夹进了页边空白。被谁找到？被那个"从不对自己陌生"的儿子——小说正是那束光。
 

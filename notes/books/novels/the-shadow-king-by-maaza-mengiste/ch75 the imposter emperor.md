@@ -123,7 +123,7 @@ modified: "2026-09-24"
 
 **关键词：** duplicate self · grainy · sliding off its axis
 
-**为什么这样写：** 摄影术术语执行宇宙学：zoom in 本是求真动作（看清一点），得到的却是 grainy（颗粒化）——越靠近越模糊，这是本书对新闻片宣传的终极配方。earth sliding off its axis 让一件放映事故升级为地轴事故：希露特的女兵影像（ch71 战场上的"皇帝分身"）在此被皇帝本人亲眼撞见，世界的倾斜正是从这一格胶片开始的。
+**为什么这样写：** 摄影术术语执行宇宙学：zoom in 本是求真动作（看清一点），得到的却是 grainy（颗粒化）——越靠近越模糊，这是本书对新闻片宣传的终极配方。the earth is sliding off its axis 让一件放映事故升级为地轴事故：希露特的女兵影像（ch71 战场上的"皇帝分身"）在此被皇帝本人亲眼撞见，世界的倾斜正是从这一格胶片开始的。
 
 ---
 
@@ -151,7 +151,7 @@ modified: "2026-09-24"
 
 **中文理解：** 曾经，人们说埃塞俄比亚的皇帝是子民的太阳。但这些年证明了：我们生与死都活在影子里。皇帝想，我们所能统辖的，不过是一切沉在阴影与迷雾中的东西。
 
-**关键词：** like a sun · live and die in the shadows · dominion over shade and fog
+**关键词：** like a sun · live and die in the shadows · hold dominion over all that rests in shade and fog
 
 **为什么这样写：** 全书书名的加冕词：太阳—影子的天文学被皇帝亲口改写成政治学。dominion（统辖权）本是皇号里的词，宾语却被换成 shade and fog——他仍是一位国王，只是疆土等于他的缺席。与 ch53"影子国王在山上投下影子"首尾呼应：山里的影子是希露特们造出来的假皇帝，伦敦的阴影才是真皇帝的真领土——真假在书名里彻底对调。
 

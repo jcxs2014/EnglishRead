@@ -89,11 +89,11 @@ modified: "2026-09-24"
 
 > **原句 8:** "See Fifi shrug aside his arms, stand from the bed, and turn her face so he cannot see her twisting expressions if he awakens. See Ferres slip out of the room to return to her tent and wake the cook."
 
-**中文理解：** 看菲菲抖开他的手臂，从床上起身，转过脸去——万一他醒来，看不见她五官翻涌的表情。看菲勒斯溜出帐篷，回到自己的营地，唤醒厨子。
+**中文理解：** 看菲菲抖开他的手臂，从床上起身，转过脸去——万一他醒来，看不见她五官翻涌的表情。看菲勒斯溜出房间，回到自己的帐篷，唤醒厨子。
 
 **关键词：** shrug aside · twisting expressions · wake the cook
 
-**为什么这样写：** 四个祈使句里的人称即判决书：抖开"他手臂"的是菲菲，溜出去的是菲勒斯——同一个身体在两分钟里换了名字。结尾"唤醒厨子"把蜜弥重新接进情报线：这堵墙转身就去为别的被囚者开门。
+**为什么这样写：** 四个祈使句里的人称即判决书：抖开"他手臂"的是菲菲，溜出去的是菲勒斯——同一个身体在两分钟里换了名字。结尾"唤醒厨子"把她接进另一条情报线：这堵墙转身就去为别的被囚者开门。
 
 ## 本章词汇
 

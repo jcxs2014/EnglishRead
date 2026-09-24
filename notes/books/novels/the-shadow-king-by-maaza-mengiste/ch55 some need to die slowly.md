@@ -29,7 +29,7 @@ modified: "2026-09-24"
 
 > **原句 2:** "We got rid of some of the other banda, there was no one left to stop you. You had the chance you were begging for. Because of you, Aklilu and the others are risking their lives right now."
 
-**中文理解：** 别的几名义警也清掉了，没人拦得住你。机会是你自己求来的。而现在，因为你的缘故，Aklilu 和其他人正在拿命冒险。
+**中文理解：** 别的几伙人也清掉了，没人拦得住你。机会是你自己求来的。而现在，因为你的缘故，Aklilu 和其他人正在拿命冒险。
 
 **关键词：** banda · the chance you were begging for · risking their lives
 
@@ -73,7 +73,7 @@ modified: "2026-09-24"
 
 **关键词：** rich man · teach me my place
 
-**为什么这样写：** "teach someone their place" 是主奴秩序的惯用语，Seifu 把它原样退回：你鞭我，不是军法，是又一次"定位教学"。一句台词把抗税、抗鞭与全书"谁是谁"的分类战缝在一起。
+**为什么这样写：** "teach me my place" 是主奴秩序的惯用语，Seifu 把它原样退回：你鞭我，不是军法，是又一次"定位教学"。一句台词把抗税、抗鞭与全书"谁是谁"的分类战缝在一起。
 
 ---
 

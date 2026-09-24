@@ -23,7 +23,7 @@ modified: "2026-09-24"
 
 **关键词：** etched · hard light · between them
 
-**为什么这样写：** 与 ch39 "two slender silhouettes etched in gray light" 同词异景：同一把刻刀，上章刻出亲密，本章把施暴者与死寂的路刻成一体的材质。hard light 是光学系统落进黑暗章的标志色。
+**为什么这样写：** 与 ch38 "two slender silhouettes etched in gray light" 同词异景：同一把刻刀，上章刻出亲密，本章把施暴者与死寂的路刻成一体的材质。hard light 是光学系统落进黑暗章的标志色。
 
 ---
 
@@ -77,9 +77,9 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 7:** "a body capable of dying in war is also capable of injury, and what she knows of the body is its tender places... that men, too, can bleed in many ways"
+> **原句 7:** "a body capable of dying in war is also capable of injury, and what she knows of the body is its tender places … that men, too, can bleed in many ways"
 
-**中文理解：** 一具能在战场上死去的身体，同样也经得住分析其脆弱——她所知的身体知识就是它的柔软部位…… Dawit 教过她最要紧的一课：男人，也会以很多种方式流血。
+**中文理解：** 一具能在战争中死去的身体，也同样会受伤；她所了解的身体，就是它的柔软部位…… Dawit 教过她最要紧的一课：男人，也会以很多种方式流血。
 
 **关键词：** tender places · bleed in many ways · capable of injury
 
@@ -113,7 +113,7 @@ modified: "2026-09-24"
 
 **关键词：** made of herself a weapon · bullet released · bloody rest
 
-**为什么这样写：** 全章最惨的"她以为"：逃跑被比喻为子弹，而子弹的宿命语法里早已写着"落点"——修辞提前泄露结局（他捉住了她）。make a weapon of herself 与 ch31 Aster 演说、ch32 "人体清单"三方对位：把人改写成武器的，不只有施暴者。
+**为什么这样写：** 全章最惨的"她以为"：逃跑被比喻为子弹，而子弹的宿命语法里早已写着"落点"——修辞提前泄露结局（他捉住了她）。made of herself a weapon 与 ch31 Aster "turn your body into a weapon" 的演说、ch32 "人体清单"三方对位：把人改写成武器的，不只有施暴者。
 
 ---
 
@@ -127,7 +127,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 12:** "You have to knock a goat senseless so you can kill it, the cook once said to her."
+> **原句 12:** "You have to knock a goat senseless so you can kill it, the cook once said to her. Slap your hand across its nose, hit that place just between the eyes."
 
 **中文理解：** 厨娘讲过的宰羊术：先把羊打到失去知觉，才好下刀——拍鼻梁正中、两眼之间那点。
 
@@ -163,7 +163,7 @@ modified: "2026-09-24"
 
 **关键词：** remains intact · speaking so boldly
 
-**为什么这样写：** "intact"是本章最重的身体-精神双义词：ch29 "the body is a traitor"的反命题。全段三个 because 排比（still intact / not yet split / still whole）像辩护词——叙事者为她在暴行现场保留的"完整性"举证，拒绝以"失身"语法完成第二重伤害。
+**为什么这样写：** "intact"是本章最重的身体-精神双义词：ch29 "all of it is a traitor"的反命题。全段三个 because 排比（still intact / not yet split / still whole）像辩护词——叙事者为她在暴行现场保留的"完整性"举证，拒绝以"失身"语法完成第二重伤害。
 
 ---
 
@@ -217,7 +217,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 21:** "He wraps the edge of the blanket around her wrist and leads her to the tree... grateful for the material that guards her skin against human touch."
+> **原句 21:** "He wraps the edge of the blanket around her wrist and leads her to the tree … grateful for the material that guards her skin against human touch."
 
 **中文理解：** 他把毯子的一角绕上她的手腕，牵她走向那棵树——她感激这层布料，替她的皮肤挡住了人的触碰。
 

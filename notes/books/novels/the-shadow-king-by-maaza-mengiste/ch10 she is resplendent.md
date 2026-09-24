@@ -26,7 +26,7 @@ modified: "2026-09-24"
 
 > **原句 2:** "There is a madwoman on a wild horse blazing through the hills, she is stopping at every church and shouting into the heavens and calling wrathful angels down to Earth. … She is Empress Taitu resurrected to fight these ferenjoch."
 
-**中文理解：** 传说有个疯女人骑着野马烧过群山，她在每座教堂驻足、朝天上吼，唤愤怒的天使下凡。……她是复活的 Taitu 皇后，来与这些西洋鬼子作战。
+**中文理解：** 传说有个疯女人骑着野马烈焰般掠过山丘，她在每座教堂驻足、朝天上吼，唤愤怒的天使下凡。……她是复活的 Taitu 皇后，来与这些西洋鬼子作战。
 
 **关键词：** blazing · wrathful · resurrected
 

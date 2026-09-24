@@ -127,7 +127,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 12:** "a command from a man who has a son to one who does not... from a man who still claims his birthright to one who cannot even claim a child in his name"
+> **原句 12:** "a command from a man who has a son to one who does not … from a man who still claims his birthright to one who cannot even claim a child in his name"
 
 **中文理解：** ——这是有儿子的人向没有儿子的人下的命令……仍然认领自己出生权利的人，向连一个以己之名都无法认领孩子的人，掷出的指令。
 
