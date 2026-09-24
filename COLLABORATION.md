@@ -322,14 +322,16 @@
 
 ---
 
-### [2026-09-24] [OpenCode-Mac] → All
+### [2026-09-24 19:10 UTC] [OpenCode-Mac] → All
 
-**《The Happiness Blueprint》by Ally Zetterberg 全书精读完工 + 总览三篇**
+**《The Happiness Blueprint》by Ally Zetterberg 全书精读 + 独立五步审查完成**
 
 - 目录：`notes/books/novels/the-happiness-blueprint-by-ally-zetterberg/`；67 章（Part One ch01–17、Part Two ch18–46、Part Three ch47–65、One Year Later ch66–67）+ `概述.md`、`金句精选.md`、`情感节点.md`。
-- 体裁：当代言情／情感小说，Klara 与 Alex 双第一人称 POV；主题为数字与身体自我、创伤／正义与修复、chosen family 与共同生活。
-- 最终门禁：章节 `verify_quotes 475/475`（8 条短引语人工 grep 全部 HIT）· `check_vocab 2415` 条，FAIL0/WARN0 · `check_entities 0` · `check_chapter_quotes 475/475` · exact-contiguous 483/483 · 结构 67 文件、编号连续、四子项齐全、零孤儿 · `check_crossref 0 对/报警 0`。
-- 总览门禁：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 25/25，共 68/68；总览章节标签逐条对账 0 mismatch；H1 语义与文件名一致。`情感节点` 的工具解析盲区已用逐条原文 flat 对账兜底。
-- 完整提交链：`a7cac349` · `cfb9cde4` · `cb2e2cf5` · `10d28cd7` · `c5e117f0` · `4bd3f4c5` · `2f0e9118` · `823e348b` · `6c67e833` · `b20f99a2` · `d0b6e245`（ch29–31 并行重置后恢复）· `7bc3b99b` · `f06f278f` · `8cd6ad1d` · `2152e4ad` · `ea3c4daa` · `8fdf5222` · `b4802d78` · `c4358764` · `404cfb34` · `54c2e303` · `0306ae4d` · `5224340f`（ch64 连续引文修复、ch65–67、总览三篇）。
-- 状态：目标书工作树干净，跟踪文件 70 个；未 push。五步独立审查未自动启动，待用户另行发起；本条为本书唯一完工记录。
+- 体裁：当代言情／情感小说，Klara 与 Alex 双第一人称 POV；主题为数字与身体自我、创伤／正义与修复、被选择的家庭与共同生活。
+- **独立五步审查已完成**：a 三件套现场重跑；b 逐章归属；c 结构/关键词/例句扫描；d 四个章节批次 + 总览批次语义二审；e 总览引语、章节范围、H1 和说话人/事件核对。
+- **缺陷与修复**：确认并修复 109 项（章节语义 44：ch01–17 12、ch18–34 13、ch35–50 11、ch51–67 8；总览 31；词汇例句 34），另修关键词/结构 4 处；重点包括 POV/说话人、跨段拼接、ch20/ch22 事件边界、ch40/ch48 引文边界、ch59/ch61 场景边界、Calle 拼写、节点范围和 Mateusz 职业关系。
+- **整改后门禁**：章节 `verify_quotes 475/475`（8 条短引语人工 HIT）· `check_vocab 2405` 条 FAIL0/WARN0 · entities 0 · `check_chapter_quotes 475/475` · exact-contiguous 483/483 · 结构编号连续/四子项齐全/零孤儿 · 关键词锚定 0 · 词汇例句全串 2405/2405 · `check_crossref 0 对/报警 0`。
+- **总览门禁**：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 24/24，共 67/67；节点范围 26/26、越界 0；章节标签 flat 对账 0 mismatch；H1 语义一致。`audit_book.py` 对三篇总览的 C 节缺章节报告是总览格式已知误报。
+- **提交链**：此前精读链至 `5224340f`；独立审查修复 `14b83b8d`（56 个目标文件，171 insertions / 181 deletions）；本次协作/日志更新另以独立 commit 记录。未 push。
+- 状态：目标书工作树干净，跟踪文件 70 个；本书仅保留这一条协作记录和一条工作日志段落。审查局限：同会话主审已完成多路径和代理复核，但不能完全排除全书统一口径的系统性误判。
 
