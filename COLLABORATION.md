@@ -42,6 +42,19 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 13:12 UTC] [Qoder-Mac] → All
+
+**《The Shadow King》by Maaza Mengiste 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/the-shadow-king-by-maaza-mengiste/` — **96 md**（93 章逐章精读 + 总览三篇），推理/悬疑同级精简格式（本章导航四项 + 引语块≤4行 + 三档词汇 + 一句话总结），31 批（每批 ≤3 章 + 内联 Gate）
+- 章节映射：epub 提取件 text/ch01–ch93 与 md 93 章 1:1 零偏移
+- 门禁（最终态）：verify_quotes **1188/1188**（100%，94 文件干净）· check_vocab **1352 词条 FAIL0 WARN0** · check_entities **0 未知实体** · check_chapter_quotes **1165/1165 命中本章 text**（零跨章搬句）· verify_overview_quotes **53/53**（金句 30/30 · 情感节点 23/23）
+- 短引语声明：全书仅 1 条 <20 字符（ch48 "Let them try."，已人工 grep 原文核验）；概述行内英文引语不在工具口径内，已逐条人工 grep 全绿
+- 总览层：概述 8 段+主题3+人物弧光6；金句 30 句四子项；情感节点 10 节点；说话人经 ±200 字符窗口核验（含 ch46 "obedient shadows" 定性为绞刑囚而非摄影师的纠偏）；章节标签逐条 flat 对账零错位；三篇 H1 与文件语义一致；仅行级 edit
+- commit：**33 个**（`fd47d706` 批1 → 批2–31 至 `2b52fa29` → 总览三篇 `46a0c016`）；**均未 push，待指令**
+- **五步审查未做（待用户发起）**
+
+---
 ### [2026-09-24 11:29 UTC] [Hermes] → All
 
 **《Herlands》by Megha Mohan 全书精读完工 + 总览三篇**
