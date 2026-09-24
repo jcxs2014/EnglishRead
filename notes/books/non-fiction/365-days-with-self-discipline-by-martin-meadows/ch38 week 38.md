@@ -84,11 +84,11 @@ source_text: ch38
 
 **为什么这样写**：Day 262 引用 Taleb 的反脆弱哲学——这句是定罪陈词：空调、外卖、电梯都在参与一场针对你韧性的减材制造。
 
-**④** "The second you agree with someone simply because of her position or reputation, you fall from the path of personal meaning-maker."
+**④** "The second you agree with someone simply because of her position or reputation... you fall from the path of personal meaning-maker."
 
 **中文理解**：当你仅仅因为对方的地位或名声就表示同意的那一秒，你就从"个人意义创造者"的道路上跌落了。
 
-**句子结构**：The second you... 时间从句 + fall from the path 跌落隐喻。
+**句子结构**：The second you... 时间从句 + fall from the path 跌落隐喻（引用处省略原文中途插入的身份列举：guru、author、cleric、parent 等）。
 
 **关键词**：The second you agree（你同意的那一秒）；position or reputation（地位或名声）；personal meaning-maker（个人意义创造者）。
 

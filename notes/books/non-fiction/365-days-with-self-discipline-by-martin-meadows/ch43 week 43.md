@@ -84,7 +84,7 @@ source_text: ch43
 
 **为什么这样写**：Day 297 讨论晨型 vs 夜型之争——这句跳出立场：别问几点开工，问哪里没有 interruptions——共性思维绕开习惯战争。
 
-**④** "We get seduced by our own mantras (I'm a failure... I'm lonely...) and we become monuments to them."
+**④** "We get seduced by our own mantras (I'm a failure... I'm lonely... I'm a failure... I'm lonely...) and we become monuments to them."
 
 **中文理解**：我们被自己的咒语诱惑（我是个失败者……我很孤独……），并最终变成它们的纪念碑。
 

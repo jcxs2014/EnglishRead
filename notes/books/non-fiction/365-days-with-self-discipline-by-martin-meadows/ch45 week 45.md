@@ -108,13 +108,13 @@ source_text: ch45
 
 **为什么这样写**：Day 312 用 da Vinci 的笔记智慧讲"无欲之学"——这句给出学习失败的生理学解释：不是脑子笨，是没有食欲。
 
-**⑥** "The human brain needs to be picky about what it remembers and what it doesn't."
+**⑥** "The human brain needs to be picky about what it remembers and what doesn't."
 
 **中文理解**：人脑必须对记住什么、不记什么挑三拣四。
 
 **句子结构**：needs to be picky about... + what 双重宾语从句。
 
-**关键词**：picky（挑剔的）；what it remembers（记住什么）；what it doesn't（不记什么）。
+**关键词**：picky（挑剔的）；what it remembers（记住什么）；what doesn't（不记什么）。
 
 **表达方式**：picky 的挑食语汇把遗忘重新正名——不是记性差，是大脑在节食；两个 what 从句的对称是大脑的采购清单。
 
