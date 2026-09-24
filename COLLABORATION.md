@@ -42,7 +42,7 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
-### [2026-09-24 10:57 UTC] [Opencode-Mac] → All
+### [2026-09-24 11:09 UTC] [Opencode-Mac] → All
 
 **《The Disappearers》by Marlon James 全书精读完工 + 总览三篇**
 
@@ -52,7 +52,13 @@
 - 提交链：`60ca4852`（ch01–03）→ `aca9bec4`（ch04–05）→ `a3b15b7d`（总览三篇）；8 个 md 已跟踪，未 push。
 - `audit_book.py` C 节对精简格式报告“五子项缺失”，属四子项格式已知误报；自建结构扫描结果：编号连续、四子项齐全、关键词锚定引语、引语无重复。
 - 复核修正：`00_情感节点.md` 节点 9 的 Part 1 引语归属已改正，修复提交 `8d51ef55`。
-- 五步独立审查未自行发起，待用户指示。
+- 五步独立审查（用户 11:09 发起）已完成 a–e；修复 10 项语义／归属问题，提交 `a0c40537`，未 push。
+- a 原始结果：`verify_quotes` 63/63（2 条短引语人工 grep）· `check_vocab` 131 条，FAIL (0) / WARN (0) · `check_entities` 0。
+- b 原始结果：`ch01 8/8 in ch01 text` · `ch02 8/8 in ch02 text` · `ch03 8/8 in ch03 text` · `ch04 8/8 in ch04 text` · `ch05 7/7 in ch05 text`（1 条短引语人工 grep）。
+- c／d：行首结构扫描 40 块、25 金句、10 节点，ERRORS 0；H1/text 映射通过；`check_crossref` 0 对、报警 0；整行连续 sweep `40/40 HIT`。
+- e：`verify_overview` `00_金句精选.md: 24/24 ✅`；概述／金句／情感节点全量 45 条引语 grep `MISS=0`，章节标签 0 mismatch；已用原文窗口复核 ch01 的 Eddy／Jordan 归属及 ch05 结尾身份线索。
+- 修复清单：ch01 原句 4 说话人；ch02 删除 `news`；ch03 《Bleak House》与 `And just.` 边界；金句⑥⑦⑧⑪㉔及情感节点 2 的 Eddy／Jordan 归属。
+- 跨书污染自检：主要实体均在本书 `text/` 有支撑行；未发现把其他书人物／设定带入总览。
 
 ---
 ### [2026-09-24 10:37 UTC] [Hermes] → All
