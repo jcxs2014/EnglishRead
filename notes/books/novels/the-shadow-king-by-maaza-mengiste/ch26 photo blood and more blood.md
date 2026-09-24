@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Photo 声部的图文转换术：不写照片本身，先写照片里的物——三个无动词句如三次快门。clinging to the edge of a breathtaking drop 的路拟人（攀着崖边）预埋全章反讽：这条路自己都命悬一线，却被看成"胜利之路"。
 
+**读者视角提示：** 道路的险峻与远处将展开的进军方向形成误导性承诺；读者会不断看见那条所谓成功路线，也不断看见庞大车队正被送入同一条险路。
+
 ---
 
 > **原句 2:** "It is all there in front of the tired, sunburnt Italians: the road to victory, the winding path toward certain glory."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** tired, sunburnt · certain glory
 
 **为什么这样写：** "确定"是本章要拆的词：in front of the tired, sunburnt Italians——荣耀的确定性并不抵消肉体的疲晒，修辞承诺与身体实况同框即穿帮。all there 呼应照片的"一切尽在其中"：一张照片能装下多少错觉？
+
+**读者视角提示：** 身体已经疲惫晒伤，叙事语言却仍把未卜结果写成确定结局；这处缝隙提醒读者，所谓亲眼所见也可能先经过宣传。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章最毒的一段：三个真实人名是史实锚——Montanelli 随军报道、Waugh 亲赴前线，本书点名控诉的是战地新闻的"游客语法"：把入侵写成远足，把被侵略国写成服务不周的旅店（offerings 待客之物！）。binoculars 接 ch14 Ettore 的取景框：望远镜与相机同属"选择性视力"的仪器——他们看见苍蝇与棚屋，看不见毒气与绞架。will look/will speak/will complain 的将来时是叙述者的事后起诉书：这段话我们已在历史上读到，本书提前宣判。
 
+**读者视角提示：** 叙述者采用将来时，读者却站在已经知道结局的位置；读他们将说的每句话，都像提前听见一份后来被事实反驳的证词。
+
 ---
 
 > **原句 4:** "They will point toward Asmara, then Massawa, then across the Red Sea toward Rome and declare: There is no hope for this place but Il Duce, no dreams greater than those of Benito Mussolini."
@@ -52,6 +58,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 排比路线（Asmara→Massawa→罗马）正是意军补给线的方向——记者的手指替帝国画好了后勤图。no dreams greater than those of Benito Mussolini 是殖民话语的最纯蒸馏：把"别人的国家没有更大的梦"说成此地的事实，而非自己的暴力——梦的代表权被代办。
 
+**读者视角提示：** 手指一路越过海面指向罗马，读者会看出所谓判断其实是补给与撤退线的反向投影；越把终点放远，眼前的人就越容易免于责任。
+
 ---
 
 > **原句 5:** "But old Ato Wolde and his beloved Weizero Nunush, stepping out of their small hut to gather eggs to sell to these ferenj soldiers, blasting through their village in endless convoys, will look toward those same hills, gesture toward that same sea, and proclaim: There is nothing that can come from this but blood and more blood."
@@ -61,6 +69,8 @@ modified: "2026-09-24"
 **关键词：** beloved · gather eggs · same hills · blood and more blood
 
 **为什么这样写：** 对撞句法精确到词：point toward/gesture toward、those same hills/that same sea、declare/proclaim——两组宣言共用坐标，只有阶级不同。捡蛋卖蛋的动词（gather eggs to sell to these ferenj）写底层战争经济学：她向占领军出售早餐，他的车队碾过她的院子——生存与控诉同体。blood and more blood 的重复结构回应 no hope/no dreams：记者的排比指向虚空的荣耀，老人的排比指向满盈的血。本书为"谁有资格预言这场战争"给出的终裁：卖蛋人赢了预言，名记们赢了头条。
+
+**读者视角提示：** 两组宣告共享同一地理坐标，唯一的差异落在谁承受后果；读者不必等待作者裁决，句法本身已经把天平推向另一边。
 
 ## 本章词汇
 

@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 本章第一句就把施暴写成力学：愧疚需要出口，反抗恰好打开了空档——"only natural"三个字的反讽浓度全书最高：本书里"自然"一词从不属于天空，只属于暴力的自我辩护。pivot/force 的双关从空间一路滑向身体：路径的"强行进入"与性暴力的"强行进入"共用同一个动词，句法本身即是预警。
 
+**读者视角提示：** 叙述者已把路径命名为死路，读者因此无法再把后续靠近营地的动作看成偶然；真正需要回看的是她怎样一步步误读了这份预告。
+
 ---
 
 > **原句 2:** "But she cannot know that grief cradles at the breast of cruelty, and it hungers for more, and she is for the taking."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** grief cradles · breast of cruelty · hungers · for the taking
 
 **为什么这样写：** 全书写施暴者心理最短的公式：grief 与 cruelty 是哺乳关系（cradles at the breast）——丧友之痛（Dawit 垂死）不抵消暴行，反而喂养它。"she is for the taking"冷得像货品标签，回扣 ch19 的"useless girl"与 ch20 的"expendable servants"：被标价的人与被物化的女人是同一门经济学。
+
+**读者视角提示：** 她被说成任人取走，读者会与她保持一段安全距离，同时留意施暴者随后怎样用命令代替占有：被夺走的恐惧先于暴力发生。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 征兆系统双联：雾散=遮蔽失效（ch17 起雾是她安全感的物理层），乌鸦破阵=自然界失序——史诗传统里 bird omens 读得出一切灾难，唯独当事人读不出。believes it is simply 的"simply"是 Chorus 的疼惜：幸存者事后回顾，总看见自己当年如何把警报翻译成日常。
 
+**读者视角提示：** 她读不出雾与黑鸟的异常，读者却能；这层信息差让自然不只是布景，而像在替叙述者提前清点灾难的脚步。
+
 ---
 
 > **原句 4:** "She will not remember them. She will not recall the way Aster shrinks at the sight of her. There will be no memory of Seifu’s troubled gaze or the shaking hand Aklilu has to hide by clenching both into fists."
@@ -52,6 +58,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** trauma 的记忆窄化机制被提前建档：她将只记得光与树，不记得旁观者的脸。可 Chorus 替她记了——这本"被授权的证言"执行了自己的职责。三个旁观者三种失能：Aster 瑟缩（施暴者之妻的身体诚实）、Aklilu 握拳（连抗议都要藏）、Seifu 只有目光——本书对"沉默的多数"最温柔也最残忍的清点：他们每一人都动了心，没有一人动身。
 
+**读者视角提示：** 合唱声部记住的旁观者反应，正好补上受害者日后不会保留的证词；重读时，沉默不再是背景，而成为一组没有执行动作的记录。
+
 ---
 
 > **原句 5:** "What she will note as she thinks back to that moment when she was still the same as she was born: the crooked path of pale sunlight falling across the leaning, flat-topped tree."
@@ -61,6 +69,8 @@ modified: "2026-09-24"
 **关键词：** still the same as she was born · crooked · flat-topped
 
 **为什么这样写：** 全书最心碎的一个时间戳：still the same as she was born——人格的完整有一个截止时刻，Chorus 精确到场景替它立碑。意象自带悼词：leaning（斜）与 flat-topped（平顶，被压平的树冠）是这棵树被环境改形的履历，而她此刻还直着。惨白日光在 ch15 是"像地毯一样可以踩的光"，在 ch21 是神迹的注光，到本章沦为暴行的场灯——本书的光学三部曲在此完成降格。
+
+**读者视角提示：** 她会把光与树保留成创伤后的坐标，读者却已经知道这幅安静画面发生在暴力之前；因此“相同”既指她尚未改变，也指画面近乎照片般的静止。
 
 ## 本章词汇
 

@@ -25,6 +25,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 新保镖用"类型片脸谱"介绍出场——Ettore 的视野里连恐惧都被影像语法格式化。这份"像坏人"的自觉是本书摄影母题的前置：假与恶之间只差一个取景框。
 
+**读者视角提示：** 读者会把这段外貌描写看成帝国先给他们套上的类型标签；等到 Ettore 真正面对他们时，认出坏人和认识一个人之间的落差已经埋下。
+
 ---
 
 > **原句 2:** "He draws back at the smell that greets him: as pungent as curdled milk. It hangs, thick as another body, in the warm and humid tent."
@@ -34,6 +36,8 @@ modified: "2026-09-24"
 **关键词：** pungent · curdled milk · thick as another body
 
 **为什么这样写：** ch54 的失禁没有洗掉：羞耻以气味的形式留在帐内，成为"另一个在场者"。作者用嗅觉完成了一次无法归档的证词——照片拍不到气味，这正是帝国档案的漏洞。
+
+**读者视角提示：** 读者会记得气味不随时间消散，尤其它被写成“另一具身体”；下一次进入帐篷，读者会先于叙述察觉现场仍有人在承受。
 
 ---
 
@@ -45,6 +49,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 劫后第一句竟是"早就算到了"——自尊的止损话术。但 inevitable 一词回声 ch55 Hirut 的"概率与不可避免"：受害者的算术与加害者的宿命论共用一个词，各取所需。
 
+**读者视角提示：** 读者会把这句与后面的“类型”并置：Fucelli 先把自己的遭遇说成必然，再把别人说成可归类，困局于是从袭击转成他主动整理的对象。
+
 ---
 
 > **原句 4:** "It is a close-up of an elderly native man, his wrinkles carving deep ridges and draping his filmy eyes. A series of tiny moles form a circular pattern on one cheek. On the other side is a birthmark the size of a thumbnail, a dark moon floating in the gaunt recesses of his thin face."
@@ -54,6 +60,8 @@ modified: "2026-09-24"
 **关键词：** carving deep ridges · circular pattern · dark moon
 
 **为什么这样写：** 全章最精致的"罪证静物画"：叙述者的目光比 Fucelli 的更细，把分类学的标本重新还原成一张有月亮的脸。描写顺序（沟—痣—月）与 Fucelli 的粗读构成对照——同一张照片在两种注视下是两种人。
+
+**读者视角提示：** 读者会在 Fucelli 的标签出现之前先记住这张脸；痣、胎记和月形细节提醒我们，分类抹平的恰恰是照片无法抹平的个人差异。
 
 ---
 
@@ -65,6 +73,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 老兵的"战争终章语法"：一切崇高修辞退潮后只剩时态变化——从"为谁而战"缩为"熬到哪天"。这句把 Fucelli 从怪物写成同类（谁都熬不过战争），也正因如此，他接下来的"分类课"才更显人造之恶：倦怠不是罪恶的来源，手续才是。
 
+**读者视角提示：** 读者会听见他把战争经验讲成一条通向终点的线，因此后面安排囚犯并非临时起意，而是在等待制度把结束兑现；“结束”既安慰他，也替他拖延良知。
+
 ---
 
 > **原句 6:** "They’re types, all of them. Easily categorized."
@@ -74,6 +84,8 @@ modified: "2026-09-24"
 **关键词：** types · easily categorized
 
 **为什么这样写：** 种族科学的口吻被压进两个短句，easily 是全套帝国认识论的题眼：把"看见人"降级为"看见标签"。与 ch48"帝国一建立就要决定谁是谁"互文——分类不是认识世界，是统治世界的起手式。
+
+**读者视角提示：** 读者会注意到“轻易”把不可能的工作说得毫不费力：真正被轻易归类的是观看者的责任，而不是被观看者。
 
 ---
 
@@ -85,6 +97,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 量词暴露一切：one——人成了"一只"。Fucelli 把摄影定义为捕猎的延长线：相机是钉住蝴蝶的软木塞。这正是 ch46"拍照者是小偷"的官方版本：帝国自认了它的掠夺认识论。
 
+**读者视角提示：** 读者会从 Ettore 随后寻找特征的动作看出抵抗已经开始得太晚：他必须先学习把人辨成不同类型，才能拒绝把人缩成一只。
+
 ---
 
 > **原句 8:** "I’ve got reinforcements coming, he says slowly. We’re building this prison a little further away, higher up in the mountains, and we’re going to do it right. We’re going to suffer more attacks, but we’re ready. We’ll have prisoners soon enough, and you’re the photographer, not me."
@@ -94,6 +108,8 @@ modified: "2026-09-24"
 **关键词：** do it right · ready · you’re the photographer, not me
 
 **为什么这样写：** 暴力的行政化：遇袭没有让他收缩，反而让他升级基建并外包记录。"you're the photographer, not me" 是一次共谋指派：Ettore 从此每按下一次快门，都是在替他人的行为留档——本章他"没拍的那些照片"因此成为道德刻度。
+
+**读者视角提示：** 读者会留意 Fucelli 把最危险的责任交给 Ettore，却把最抽象的“记录”留给自己；从此照片既是命令，也是 Ettore 可以抗命而退的缝隙。
 
 ---
 
@@ -105,6 +121,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章收束于一个天真的将来时：档案=不朽。Fucelli 以为自己在给胜利编目，实际上在给纽伦堡式的审判备料——本书本身就是这句狂言的应验：被"记录"下来的，最终都被人记住了。
 
+**读者视角提示：** 读者会把“他们会记住”当作 Fucelli 对未来的误判：他想留下功绩，照片却会同时保留命令的痕迹；叙述的反讽正在替他校正胜利的说法。
+
 ---
 
 > **原句 10:** "The ferenj is as most ferenjoch are: too arrogant and ignorant to know that he is Jembere Kefyalew, loyal servant to the late Emperor Menelik, trusted soldier to the late Empress Taitu, proud warrior come to fulfill his lifelong promise to never let Ethiopia fall into foreign hands."
@@ -114,6 +132,8 @@ modified: "2026-09-24"
 **关键词：** arrogant and ignorant · loyal servant · lifelong promise
 
 **为什么这样写：** 排比头衔是老人真正的武装：两位"已故"（late）连着写，把个人史叠成国家史——他在倒叙里当兵，在现实里拦车。"太傲慢而认不出我"回收 ch52 Taitu 的演讲：被帝国看不见的人，恰是旧帝国的建造者。
+
+**读者视角提示：** 读者会从称号的层层叠加看出，老人并非只靠旧帝国的光辉证明自己；他把自己的一生交给一个如今不再向他确认这段历史的国家。
 
 ---
 
@@ -125,6 +145,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 把"穿戴整齐"写成一种战术。原文 "Mussoloni" 是排印讹拼（应为 Mussolini）——引文照录，这类拼写噪音也是文本物质史的一部分。仪式感与无力感精确互抵：他拦不住任何车队，又确实拦住了今天这一支。
 
+**读者视角提示：** 读者会开始把燕尾服和锈自行车当作他的武器：越是庄严的旧装，越显出抵抗不是新式军备，而是把自己摆到车前的身体承诺。
+
 ---
 
 > **原句 12:** "He stood straight and rigid while the planes performed slow circles around his land. He refused to flinch. He moved not a muscle when they barreled toward him, gleeful in their spite."
@@ -134,6 +156,8 @@ modified: "2026-09-24"
 **关键词：** refused to flinch · barreled toward · gleeful in their spite
 
 **为什么这样写：** 对抗毒气的"不动肌"誓约：芥子气年代以来，身体直立本身就是对空袭的答复。flinch 是全书身体的政治学最小单位——施暴者想要的只是那一下缩，谁拒绝缩，谁就赢了当日这场战争。
+
+**读者视角提示：** 读者会把他面对飞机的静止读成一次主动的身体选择，而不是被动无反应；正因为飞机在等他退缩，站着本身才成了对暴力的回答。
 
 ---
 
@@ -145,6 +169,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 老年版的人枪誓约：一枪未发，胜利归因于"勤勉"（diligent 是记账员的词，不是军人的词）。而司机随后说"他那枪根本打不响"——叙述不拆穿老人的版本，两个"真的"并置存放。作者的温柔反讽在此：叙事视角始终不拆穿老人"吓退飞机"的自我报告——抵抗需要这样的故事续命。
 
+**读者视角提示：** 读者会暂不接受叙述替老人保留的胜利神话，而会注意到枪声没有击中任何人；这个空白让“勤勉”既像信念，也像无法核验的自我辩护。
+
 ---
 
 > **原句 14:** "He is an apparition from a forgotten era, a lovely ghost on the verge of disappearing."
@@ -154,6 +180,8 @@ modified: "2026-09-24"
 **关键词：** apparition · lovely ghost · verge of disappearing
 
 **为什么这样写：** Ettore 眼中的 Jembere：燕尾服＋独粒扣＋绳腰带＝"过去的显灵"。lovely ghost 是全书对旧帝国最复杂的一个短语——可爱，且行将消失；幽灵在本书从不弱势（ch53"对幽灵开战"），旧帝国的埃塞俄比亚人正在学会用鬼魂身份作战。
+
+**读者视角提示：** 读者会把这个可爱幽灵与 Fucelli 口中的类型并置：帝国把别人变成样本，老人却以旧帝国的残影让观看发生冲突。
 
 ---
 
@@ -165,6 +193,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 本章的隐藏主角登场：山脊上"白衣、笔挺如卫兵"的一列妇人——抵抗组织的哨线。Ettore 的镜头第一次越过帝国叙事的"有趣场面"，直取它的盲区；"如礼物般"拍下这一刻，等于偷偷违抗了 Fucelli 的"拍类型"命令。
 
+**读者视角提示：** 读者会注意到 Ettore 真正按下快门的不是拦路的老人，而是被帝国叙事忽略的旁观者；这次偏转也为后文把观看推向悬崖的耐心埋下。
+
 ---
 
 > **原句 16:** "There’s tenderness in the man’s voice. They’re like children, he adds, just remember that."
@@ -174,6 +204,8 @@ modified: "2026-09-24"
 **关键词：** tenderness · like children
 
 **为什么这样写：** 全章最冷的甜蜜：善意与蔑视共用同一副语气。司机替 Jembere 推车、擦汗、称 amigo，同时把他归类为"孩子"——家长制是殖民分类术最温和也最难破除的一种。老人最后"背脊笔直地走开"，是这场温柔围猎里唯一逃走的东西。
+
+**读者视角提示：** 读者会在最后一格重新听出前面的“可爱幽灵”：司机的柔情没有解除围猎，只把它包装成更自然的优越感；老人走开时，尊严反而像他夺回来的东西。
 
 ## 本章词汇
 

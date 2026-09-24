@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 用世界的反应给一声喊叫"量级"：鸟、厨子、树逐级静音，属夸张（hyperbole）却控制在一句之内。"For an instant, nothing moves." 以极短收束长句，节奏如屏息——读者与 Hirut 同时被钉在原地。
 
+**读者视角提示：** 这一刻的“不动”不是宁静，而是危险将落下来的前奏；回头看，闯入仆役小屋的正是 Aster，喊声已经把门外的阶级秩序推到门槛上。
+
 ---
 
 > **原句 2:** "It is a space that is not a space, a room that is less than a room. It is a dark hollow carved into endless tired nights. It is not meant to be seen in daylight."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** hollow · carved
 
 **为什么这样写：** 三个否定式递进（not a space / less than a room / not meant to be seen）定义仆人的存在：她们的居所是主屋视线之外的"凿空"。carved into endless tired nights 把时间凿进空间——屋子不是砖做的，是疲惫砌的。
+
+**读者视角提示：** 白天被挡住的暗处立刻被 Aster 的到来照亮，读者会意识到 Hirut 一向居住的地方也像武器库，一旦被主人看见便再无秘密。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章步枪争夺战的价值锚点：不是贪心，而是"她仅有的一切"。清单式减法（三样之外=零）先于情节立起 stakes；句式平静如陈述事实，冷得让读者替她抱不平。
 
+**读者视角提示：** 这句话先替 Hirut 圈出全部身家，后文每件被拿走或埋藏的东西都会显得沉重；数量的贫乏也使厨子失控质问更有分量。
+
 ---
 
 > **原句 4:** "On those nights when she is at her most tired, she sleeps so she can feel the rifle by her side and pretend it is her mother's arm."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** rifle · pretend
 
 **为什么这样写：** 钢铁与体温的并置：杀器被折叠成安慰物，一句写尽孤儿的全部匮乏。pretend 这个词把武器从"暴力工具"重新定义为"触觉记忆的替身"——也解释了下文她为何宁死不让枪。
+
+**读者视角提示：** 母亲的臂弯与枪并排躺在床侧，读者以后每次读到枪的重量，都应记得它同时承担安慰与责任；武器并非一开始就是纯粹的杀物。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 无标点直引的自由间接文体让父亲的遗教像长呼吸的口语滚过来（and then... and you... and you... 三连推进）。"fear nothing except leaving your enemy alive" 以否定式翻转恐惧定义——这是全书战士教育的第一课，也是 rifle 词条章的伏笔。
 
+**读者视角提示：** 父亲的命令把“直到真正危险”留作开枪条件，读者此后看到危险逼近时会自动数她是否已越过界线；那枚与枪分开放的子弹因此成为悬念。
+
 ---
 
 > **原句 6:** "You think I don't realize you brought her here exactly one year after our son died?"
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** exactly one year
 
 **为什么这样写：** 全章真正的引爆点不在找项链，而在 Aster 终于说出口的数字。exactly one year 是哀悼期满的时间戳：她把"收养孤儿"读成"丈夫用另一个女人填补丧子"。Aster 由此从泼妇立体为未愈的母亲——本章对她完成了从反派到伤者的翻转。
+
+**读者视角提示：** Aster 的算式揭开后，Hirut 才第一次被迫看见自己进入这个家的日期与丧子相连；读者会比她更早警惕，这个“照顾”如何与占有纠缠。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 光在本章是阶级计量单位：Aster 的光"collects"（主动聚来），Kidane 的光"glimmers"（镀在肩上），厨子什么都没有——三个否定完成一幅光照等级表。"a room that still holds all she owns" 的 still 一词双关：房间还容得下她，也仅仅容得下。
 
+**读者视角提示：** 厨子的无光不只标记阶级，也预示她不是没有历史的人；等 Aster 和 Kidane 离开，门里门外便将暂时交换成两个人的证词现场。
+
 ---
 
 > **原句 8:** "Some of us came by force, the cook adds. This war will help us go back."
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** by force · go back
 
 **为什么这样写：** 厨子自白的落点。by force 与前文 Hirut"被带来"形成对照：同为仆役，一个失去父母，一个失去整个家。"战争帮我们回家"是全书对战争最悖谬也最诚实的期待——被侮辱与被损害者把浩劫当钥匙，这句话为后文女兵参战埋下动机原型。
+
+**读者视角提示：** 厨子把自己的遭遇说成一群人的命运，读者会把它与 Hirut 的“被带来”并置；两个女孩都困在“可以离开”的假象里，战争却被赋予不同的想象。
 
 ## 本章词汇
 

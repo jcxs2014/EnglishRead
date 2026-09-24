@@ -25,6 +25,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** mean 取"刻薄／卑下"义：光不再中性，它参与变形。obedient shadows 呼应 ch43 营地"恐惧与服从"——连影子都站在权力一边，只有吊着的人不服从。两个无动词短句像两块画板说明。
 
+**读者视角提示：** 随着描述移向画面边缘，读者会看见“驯服”如何反噬拍照者：最初被压暗的并不只有尸体，拍摄行为本身也开始留下阴影。
+
 ---
 
 > **原句 2:** "a neck arching horribly, the spine distended, a mother’s son pinned against a ripe afternoon sky"
@@ -34,6 +36,8 @@ modified: "2026-09-24"
 **关键词：** arching · distended · a mother’s son · pinned
 
 **为什么这样写：** 生理细节的解剖学词（distended）与"母亲之子"的亲缘词并置，第一句就把战俘还原成某人的孩子；pinned 把天空写成标本板的软木塞，ripe 的"熟透"则让晚霞带着腐坏甜腥——自然也在分赃。
+
+**读者视角提示：** 这句在点出亲缘关系的同时，夺回了帝国对死者的单一编号；此后对称出现的“其他母亲之子”只完成了一半的归认。
 
 ---
 
@@ -45,6 +49,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 与上句"一个母亲之子"形成对称句法：敌我同母，只差一方成了"证物"。mechanized 一词冷峻：野心不再是人的，而是机器的；glorious 加在 proof 上是反讽的冠冕——勋章钉在尸体上。
 
+**读者视角提示：** 观刑者被还原为母亲之子，本可打开认同的裂缝，紧接的机械化野心却立刻把他们送回系统；读者应留意这场短暂归认没有抵达行动。
+
 ---
 
 > **原句 4:** "a boy pulled into manhood, a soaring body held back by gravitational laws"
@@ -54,6 +60,8 @@ modified: "2026-09-24"
 **关键词：** pulled into manhood · soaring · gravitational laws
 
 **为什么这样写：** 与 ch44 信体"身体自行升起"互文：同一路死亡，此处用物理词（重力定律）拆掉神迹外衣。"被拽进男子气"的男孩与"向天空飞升"的身体方向相反，两条力在同一个颈部交汇。
+
+**读者视角提示：** 从男孩到男人的跨越被写成一场外力完成的暴行，读者因此会格外留意身体被夺走的中断；先前信体里的上升赞颂也因这具抽搐的身体显出空洞。
 
 ---
 
@@ -65,6 +73,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 三个祈使动词递进：看、注意、看哪——最后一声带出祭坛腔调。rebellious 回收 ch44 信体"叛逆的飞升"（rebellious flight）：死后的痉挛被读成继续反抗——照片无法让尸体认错。
 
+**读者视角提示：** 在这场解说里，帝国收走了死者的行动能力，叙述却立刻替他夺了回来；读者可以借此辨认，“反抗”其实从未因处决而停止。
+
 ---
 
 > **原句 6:** "the taker of this photograph, the thief of this moment, there he is, almost out of view, made visible in the shadow stretching toward the elevated feet, a dark figure of a man firmly in focus, the camera pointed toward that defamation."
@@ -74,6 +84,8 @@ modified: "2026-09-24"
 **关键词：** taker · thief · elevated feet · firmly in focus · defamation
 
 **为什么这样写：** taker／thief 的头韵把"拍摄"与"偷窃"缝成一个词；摄影师本想躲在画外，影子却替他签了名。elevated feet 的委婉与 defamation（名誉的毁损）这个法律腔用词收尾：合唱队宣布这不是记录，是暴行的一部分——为 ch45 记者的追问提供了第一份美学判决书。
+
+**读者视角提示：** 无论拍照者怎样把机位推到画外，影子仍让拍摄行为进入自己的物证；这份无法裁掉的共犯身份，正是读者判断照片伦理的起点。
 
 ## 本章词汇
 

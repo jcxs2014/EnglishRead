@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 照片单元的开幕法则：画框即史官，裁掉什么就遗忘什么。disappeared hand 是全书史料观最锋利的一刀——被官方镜头裁掉的，恰是"会自己记录的人"。too（也）把 Ettore 与 Hirut 缝成同门：一个用相机、一个用记忆，都在框外。
 
+**读者视角提示：** 请把“消失的手”视为整部书的阅读动作：档案通常保留被裁下的身体，却删去记录者的手。后文每次出现被命名、被定价的形象，都应追问背后的观看者是否也被藏起。
+
 ---
 
 > **原句 2:** "They are the image of youth and earnestness, their cruelty still hidden by enthusiasm and patience, submerged by gleeful captions."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** earnestness · submerged
 
 **为什么这样写：** still hidden 与 submerged 的时态分工精确：残酷此刻还"藏"着（1935 年 10 月尚无屠杀可见），但终将被图注"淹没"——宣传机器的功能不是撒谎，是让真相下沉。image of youth 的 image（画像）点破整张照片是为帝国造型的肖像画：士兵是颜料，不是人。
+
+**读者视角提示：** 这行先让读者与照片一起误认士兵，待“残酷”浮出水面，才意识到欢快图注怎样延迟审判。图注的年代比枪口更可追踪：谁为某一刻命名，谁就在占领那一刻。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 背面的两行字是道德地质层：l'invasione 用宣官方言体（占领者语言、粗黑、自信），Guerra! 用铅笔、带惊叹号、且被擦除——少年兵的恐惧写了又悔。erased but not completely 是本书的微观史学方法：官方笔迹下总留着铅笔级的人格证据。两词之差（invasione/guerra）正是宣传词与人话的词距。
 
+**读者视角提示：** 擦不净的铅笔字是读者能越过官方署名抓住的一条暗线；日后重看照片时，Ettore 既是命名者，也是被命名动作暴露的人。
+
 ---
 
 > **原句 4:** "This is the way it has been written, so this is the way it has been remembered. But what Hirut knows, sitting in that train station so many years later, shifting to move further into the shrinking afternoon light, is that when those carnivorous invaders crossed the Gash River to make their way toward Axum, the three-column formation separated, and the lines were broken and in between those spaces, Ethiopians stepped in and began to fight."
@@ -52,6 +58,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** has been written / has been remembered 的被动语链：书写与记忆共用一只看不见的手。Hirut 的反驳不靠口号靠几何：报纸画"线"，她知道线会"断"，断口（spaces）才是人民参战的入口。stepped in 与 ch10 Aster 的 strided 呼应——本书的抵抗史正是从官方队形的裂缝里走进来的。carnivorous（食肉的）是 Hirut 的措辞，叙述者允许被书写者给书写者贴标签。
 
+**读者视角提示：** 新闻的直线和 Hirut 记忆中的断口构成两套地图，读者应从此刻开始把“队形断裂”读成抵抗的入口，而不是溃败。后文每逢整齐叙事出现，都可追问断口里站着谁。
+
 ---
 
 > **原句 5:** "Because one hundred thousand men, however ravenous they might be for this beautiful land, can never total the numbers of Ethiopians intent on keeping their country free, regardless of mathematics."
@@ -61,6 +69,8 @@ modified: "2026-09-24"
 **关键词：** ravenous · regardless of mathematics
 
 **为什么这样写：** 全章论点以一道伪算术收尾：regardless of mathematics 宣布人口不是统计而是意志——被入侵者的总数永远大于远征军。however 从句里的 beautiful land 是本书土地书写的一次显性抒情，ravenous（贪食）回接 carnivorous：帝国被统一修辞为食欲。这一句也预支了第二部的全部剧情：七十个、几百个、无数个"断口里的人"。
+
+**读者视角提示：** 这里故意把人数写成不能被算术封口的集体，读者应把“十万”理解为入侵者的有限计数，而不是民族意志的上限。此句也为后文不断出现的个体名字保留位置：宏观数字最终要由具体的人来反驳。
 
 ## 本章词汇
 

@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 一句话给两个人各画一副身体：straight-backed 对 sagging shoulders——姿态的攻防已经先于台词分出胜负。bloodshot 泄露 Kidane 整夜未眠（操练+焦虑），意味着这位家长并非无懈可击；本章的权力翻转从脊椎开始。
 
+**读者视角提示：** 身体对照先把本场争执的结果写在台词之前；读者随后听见 Kidane 的命令与 Aster 的账本时，仍要留意两人真正争的并非一件披风。
+
 ---
 
 > **原句 2:** "It’s my father’s cape. You can’t see his blood on it?"
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** blood on it · cape
 
 **为什么这样写：** Kidane 的反驳只有一件物证：父亲的血。注意全书的血谱——他父亲的血浸在披风上（public, honored），Aster 的血呢？下一块她将回敬"I have bled when I shouldn't"：男人的血挂在披风上被供奉，女人的血流在床上无人记账。一件披风成了两种牺牲的产权纠纷。
+
+**读者视角提示：** Kidane 说父亲的血时，披风成为祖辈荣誉的公开载体；Aster 接下来的回应则要让读者把这件男性传家宝重新放回家中未清的账本。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Aster 的策略是接管婚姻经济学的词汇：earning/right——她不说"爱"也不说"自由"，用丈夫听得懂且无法反驳的账房语言宣战：备粮、备枪、备药都是她的劳动工时。long, long 的重复把"权利"从今晚的服装事故追溯到整个婚龄。ch10 她说"我不像仆人一样等"，本章她进一步把自己从"等待者"改写成"债权人"。
 
+**读者视角提示：** Aster 把“权利”改写成一份可核对的劳动清单，读者因此能听见家务与备战的隐形工时；这件披风也因此不只是服装，而是她拒绝再无偿付出的凭证。
+
 ---
 
 > **原句 4:** "It has been raining and the air is damp. It holds Aster’s last words suspended in the space between the couple like broken leaves in search of rest."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** suspended · in search of rest
 
 **为什么这样写：** 天气成为句子的介质：那句话（"我挣了太久"）重到落不了地，air 只好替他们托着。broken leaves in search of rest 是全书少见的纯抒情明喻——女声在男性对峙的间隙里，被写成一枚无枝可依的叶子。厨娘下一句酸涩的旁白（"那她比谁挣得多？活是谁干的？"）立刻把诗意拉回劳工问题：本书里浪漫从不过夜。
+
+**读者视角提示：** 话没有落下，冲突却已悬空；下一位厨娘开口时，读者会意识到书中总有一双劳动的手站在争执之外，替沉默记账。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 七个词的核弹。Kidane 举父亲的血，Aster 回敬自己的：生育的血、ch08 新婚夜的血、"不该"二字精确指控——那不是命运是强加。说这话时她"想把自己的头抵上他的胸口"：控诉与依偎同一体位，全书对受暴女性心理最诚实的一瞬——要正义的人，往往同时还在要爱。
 
+**读者视角提示：** “不该”把血从民族叙事中剥下，读者会在这短句里同时听见生育、婚姻之夜与家庭暴力；下一次再谈牺牲时，伤痕的归属便不能笼统处理。
+
 ---
 
 > **原句 6:** "And you haven’t even asked me about our son’s grave. I went there, and I slept on his grave for three days without you, alone."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** grave · alone
 
 **为什么这样写：** 长独白的顶点从服装滑向坟墓：slept on his grave 是母亲唯一找得到的与儿子同眠的方式，three days 对位创世叙事第七日安息的缺席——别人在安息，她在坟上失眠。without you, alone 同义叠用，逗号把孤独再补刀一次。九年卧床哀恸的 Aster 在这一句里第一次把哀悼变成呈堂证供。
+
+**读者视角提示：** Aster 说“我们的儿子”，却立刻以“独自”收束婚姻，读者会感到她仍在用共同称谓争取一次共同哀悼；Kidane 此前未问及坟墓，使这次争取先天失衡。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Kidane 的收权词只有三个动词：serve（像厨娘服侍你那样）、follow、carry（抬伤员埋死者）——他的"平等动员"实际是把妻子的军装降级为后勤。everything goes to my men 的坦白令人齿冷：爱国者的债单上没有妻与子。本章开头厨娘"My father bled on that cape"的控诉，与章末这句的记账学构成全书对男性荣誉经济最完整的拆解。
 
+**读者视角提示：** Kidane 用“服役”把 Aster 的新衣服重新改写成家务，读者会把这句命令与 Aster 的“挣得”对读：她争来的是权利，他给出的仍是服从。
+
 ---
 
 > **原句 8:** "And then they hear the drums, deep, booming thuds ricocheting from valley to sky to mountain to sink between them, crackling with insistence. … They crossed the border, Aster repeats, stunned. So the war is here."
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** ricocheting · syncopated · insistence
 
 **为什么这样写：** 鼓声是埃塞俄比亚的山地电报：syncopated 切分、" increments"码点——技术层面它接管了本章的叙事驱动。So the war is here 的 here 是全书引力的兑现：ch06 皇帝反复看"尚未到来的战争"的胶片、ch07 提到"战争未到"，至此悬置三年的未来时终于落地成现在时。而落地的这一秒，Aster 正穿着男装——本书为她的变身卡好了历史的时点。
+
+**读者视角提示：** 鼓声打断的不是争吵，而是 Aster 仍试图结算的婚姻关系；读者会感到她穿上男装后的第一场胜利尚未得到承认，战争已替她把争辩改成行动。
 
 ## 本章词汇
 

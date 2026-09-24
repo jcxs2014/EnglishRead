@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章不出现"卡车/坦克"二字：机械部队从妇女的视角抵达语言，只能借金属与刀刃作喻——钢铁认出钢铁。easy as a blade 的"顺滑"比爆炸更吓人：意军切开的是埃塞俄比亚的山，本书写入侵最先写的是阻力为零。
 
+**读者视角提示：** 黑云此刻只压向山顶，读者却应记得上一章的大队正向 Debark 推进；这页像战报前的屏息，机械部队的危险尚未抵达具体战场。
+
 ---
 
 > **原句 2:** "It is ungodly made, fashioned by man, a beast spun from fire and steel."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** ungodly made · fashioned by man · spun
 
 **为什么这样写：** 三个限定层层剥落：先否定神（ungodly），再点明人（fashioned by man），最后落到"兽"——机械的谱系学一句话讲完：人造物比神造物更近于兽。spun（纺织动词）暗藏全书最深的一次反讽：纺是妇女的手艺，敌人用工业的"纺锤"织出了火与钢，山头上的纺工们正围观自己被纺进新的历史。
+
+**读者视角提示：** 女人们织出的成果还未显出战果，敌方的兽却先用同一个动作回望她们制造的历史；读者会在这组制造者与受害者的词源交叉处停顿。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** ch21 的颂歌落定即成"耳语"——口号的气量不在分贝，而在重复几次后还敢不敢拿出来对照现实。their Aster 所有格首次归属全体妇女（不再是 Kidane's wife）。wait and listen 是教育家的手势：Aster 不把恐惧挡在感知外，反而命令姐妹直面声场——先听懂战争，再参加战争。
 
+**读者视角提示：** 口号在这里已从宣言降为耳语，考验的不是音量而是能否压住恐惧；Aster 要求“听”，也把上一章的情绪号召改造成本章的观察训练。
+
 ---
 
 > **原句 4:** "It knots and billows, contracts and expands, and from the cacophony comes the deep-throated boom of full-grown men. … the song of men and beasts fading until it is no more than the distant cry of ghosts: Faccetta nera, bell’abissina."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** knots and billows · cacophony · deep-throated · cry of ghosts
 
 **为什么这样写：** 声音设计全用"体积动词"（knots/billows/contracts/expands），把车队写成一次呼吸——山的呼吸，为下一章 giants birthed from stone（从石头里生出的巨人）布下对称：意军是钻仰呼吸的兽，埃军是从地里起身的巨人。结尾《Faccetta nera》（现实中的侵埃战争进行曲，歌词向"黑色的脸"即殖民地女性献媚）从军歌淡成鬼叫：一首歌还没唱完就已属亡灵——本书把法西斯的浪漫预支直接判成招魂。bell'abissina 的"美丽阿比西尼亚姑娘"正被山上这群"more than this"的女人亲手证伪。
+
+**读者视角提示：** 读者既听见意大利军歌，也听见队伍里人与牲口的声音被混成同一团；歌曲在结尾被译成鬼哭，让它在抵达时已经替自己预告结局。
 
 ## 本章词汇
 

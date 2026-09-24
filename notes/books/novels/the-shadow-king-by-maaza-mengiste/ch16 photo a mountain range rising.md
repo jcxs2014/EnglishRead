@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 两层"读人术"：明面的怒（chin juts as if daring to be hit）人人可见；暗面的崩（spoon too low）只有同为 servants 的 Hirut 能破译。本书写女性同盟最细的一笔：情绪在彼此身体上是有字典的。daring to be hit 呼应 ch07 Hirut 等 Aster 那一鞭的"tiny kernel of triumph"——受暴者的挑衅姿态是一种世袭。
 
+**读者视角提示：** 勺柄的破绽只有 Hirut 读得懂，读者也会被带入同一种“读人”游戏：表面姿势可以留给镜头，隐藏的愤怒只能由经历相近的人辨认。照片因此不只是证据，也是 Hirut 与厨娘之间隐秘的传讯。
+
 ---
 
 > **原句 2:** "There are men sitting on their haunches behind her, their short hair just starting to spike with growing curls. … They are like a mountain range rising over the cook’s shoulders."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** spike · mountain range
 
 **为什么这样写：** 发茬"支棱"（spike）是时间的显影液：入伍前剃的头正长回圆颅。mountain range 明喻一石三鸟：阿姆哈拉山地的地貌、士兵的体量、以及"山在人身后、人却在山前"的构图政治——被置于最前景保护资源的，恰恰是最不被看见的厨娘。
+
+**读者视角提示：** 画框把厨娘放在最前、群山放在身后，读者会先看到一个女人如何被士兵包围，随后才意识到构图也在把她变成他们气势的一部分。回头看她的低头姿势，静态照便显出遮挡与借用的双重关系。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 叙述者拿着未来剧本读照片：without the scar he will get、still with supple, unburnt skin——without/still 两个副词让静态照开始流血。"头发测战龄"呼应 ch09 群像与全书的物证史学：正式档案缺页，身体的磨损就是日历。unburnt 一词提前预告燃烧弹与焦土战术的全部未来。
 
+**读者视角提示：** 这里先给出尚未发生的伤痕，读者看照片时已知道身体会替时间记账。照片越清晰，后文那些无法被相机完整留下的变化就越令人不安。
+
 ---
 
 > **原句 4:** "He stares as if he wants to charge, as if he understands the camera’s weakness. As if he already knows the difference between what one sees and what is true. He is the only one whose mouth turns up on one side in both a smile and in mockery."
@@ -52,6 +58,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Aklilu 被写成全书第一个"摄影批判家"：相机之软弱=它只记录表面且属于掌机者。这段为他的结局（ch09 的神射手、后来的抗命者）立性格：他不信影像，只信瞄准镜——而瞄准镜同样是"看"，差别在他拒绝为帝国按快门。both a smile and in mockery 的双向嘴角是本书人物的标准表情：抵抗与戏谑同源。
 
+**读者视角提示：** 他的目光像是已经向画框外发问，读者可把他当作阅读照片的内部向导：他关心的不是姿势是否漂亮，而是图像凭什么自称为全部。这种早期的视线抵抗也提醒读者，后文任何一次拒绝官方目光，都可能从这里开始。
+
 ---
 
 > **原句 5:** "Ettore has written: Una schiava abissina, an Abyssinian slave, but this is not one of his. … He would not have taken that photo and walked away alive."
@@ -61,6 +69,8 @@ modified: "2026-09-24"
 **关键词：** schiava · not one of his · unquestioned safety
 
 **为什么这样写：** 反面题字把厨娘钉回殖民分类学（schiava abissina 是意占期标准人类学标签），叙述者却替她翻案"this is not one of his"——不是撇清 Ettore，是指出更狠的事实：这群士兵"unquestioned safety"的排他权。谁能安全地站在武装者面前拍照，谁就握有暴力担保；而那个担保人不是摄影师，是制度。
+
+**读者视角提示：** 题字者把厨娘写成“女奴”，读者的注意应落在题字与拍摄之间的断裂：谁把标签放在照片背面，谁就试图决定谁有权站在画面里。Ettore 未被指认，反而留下一种更大的制度性在场。
 
 ## 本章词汇
 

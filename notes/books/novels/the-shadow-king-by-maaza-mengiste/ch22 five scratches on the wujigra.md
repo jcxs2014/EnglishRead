@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** "a different boy"三字轻手立起抵抗网络的组织学：信使是可替换零件，不是熟人——保护网络也保护了情报本身。男孩用别人的脸读新闻的价值，是战时文盲的信息学；而他马上会在 ch23 的那朵"黑云"里变成无名的数目。
 
+**读者视角提示：** 男孩必须从三名大人的反应里估量消息的分量，说明权威不在信纸，而在接收者的脸上；读者也应习惯这些信使常在消息抵达时才获得姓名。
+
 ---
 
 > **原句 2:** "Biruk gave this to you? … He’s the weaver, the blind one. … Biruk? Seifu looks startled. My neighbor from Fogera?"
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** the blind one · neighbor · startled
 
 **为什么这样写：** 抵抗军的情报中枢是一个瞎子——"看不见"恰好是最高级的隐身：占领军不会防备一个织工盲人。Seifu 的"邻居"二字泄露本书的战争肌理：帝国调动的是千万陌生人，抵抗网织的还是村庄熟人——Fogera 的邻居、Faven 的旧友，抗意的骨干其实是童年档案。
+
+**读者视角提示：** Seifu 说出 Fogera 的邻里关系，抵抗网便显出依靠本地记忆而非英雄组织运作；读者应记住 Biruk 正藏在职业与失明替网络提供的遮蔽后面。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 斗篷三读：ch12 它是 Kidane 要拿去换枪的"父亲遗物"、ch21 它是 Aster 演说的"血统外骨骼"、本章它成了 Kidane 眼里的僭越——同一件织物在三章里完成了从财产到权柄到冒犯的语义漂移。"cannot stop thinking about"暴露他的真正不安：他怀念的是父亲，还是父亲的位置被占？
 
+**读者视角提示：** Kidane 看见的是父亲被占据，叙述却让读者同时看见 Aster 穿着它完成了公共行动；回到她的衣袖与话语时，冒犯感就会与敬意互相拉扯。
+
 ---
 
 > **原句 4:** "His already taut frame now molds around leaner muscles, giving the impression that the younger man is constructed out of bundles of unbreakable wire. He has heard several of the men whispering in disbelief about the fact that Aklilu refuses to eat until all of them are fed."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** unbreakable wire · refuses to eat
 
 **为什么这样写：** 用材料学写道德：wire 的比喻把 Aklilu 的自律铸成物理属性——他不是"在克制"，他是"由克制构成"。士兵 whispering in disbelief 是关键的社会学注脚：在一个人人抢粮的世界，与部下同饥属于神迹级行为。Aklilu 是本书给"领袖"预设的另一条赛道——与 Aster 的嗓门相反，他靠饿自己发声。
+
+**读者视角提示：** 这句赞叹先建立 Aklilu 的道德高度；到 ch24 他跨过伤员夺枪时，读者才有材料衡量那次失足，而不会把它看成无来由的背叛。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** "三发"是全书战争经济学的极限浓缩：ch21 山头演说的产出第一次被编入军需序列——妇女的弹药获得了正式编号，同时暴露其真实地位：每人三发，因为根本没有更多。父训"一发杀一人"听起来像节俭的美德，实为匮乏的修辞学：本书写穷国之战，把"少"重新命名为"准"。
 
+**读者视角提示：** 每人三发把上一章的集体动员压缩成个人配给，读者会立刻看出它怎样摊薄生产者的劳动；到下一章扣动扳机时，每一次射击都只有极少的容错。
+
 ---
 
 > **原句 6:** "On the barrel are five scratches that track the number of men felled by this rifle. These marks—like scars—told their own stories about battles fought and survived. … his father once pulled out his old gun, a Mauser, and dragged his finger over the marks on the barrel, and said: These are the mothers I made weep, my son. These are the children I made fatherless."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** scratches · felled · made weep · fatherless
 
 **为什么这样写：** 本章的心脏：同一道刻痕的两种读法——勋章读法（told their own stories about battles fought and survived）与验尸读法（made weep / made fatherless）。父亲的话把枪从"勇气的徽章"还原为"眼泪的计数器"，一句顶起全书反战支柱；而刻痕在西方狩猎/军旅传统里本是荣耀记账，本书特意让一个埃塞俄比亚老兵亲手撕掉这层glory包装——为 ch24 Dawit 第一次开枪即残废作反讽引线：不会记账的人接过了记账的枪。
+
+**读者视角提示：** 枪上的五道线在交到 Dawit 手中前已经像一份旧账；读者应等 ch24 扣下扳机后再重读父亲那句，让荣誉与代价不再能被同一个词缝合。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Dawit 把 ch09 马厩里听来的马术比喻（马见血想更多）移植到枪上，语言习惯暴露了他的全部：战争对他是一种"配对"（We'll be good together），像挑一匹熟悉的牲口。三代"父亲说"在本章排成合唱：Kidane 的父亲说枪不保命只杀人，Dawit 的父亲说枪尝血要更多——兄弟俩各持一句相反家训走向战场，本书把"继承什么"写成战前最后一道选择题。
 
+**读者视角提示：** Dawit 把武器当作伙伴的亲昵口吻，与父亲把枪限定为杀人的警句来自同一个家；读者应把两种亲密同时带进 ch24，而不是择一相信。
+
 ---
 
 > **原句 8:** "Grass stains mar the knees of her trousers—his trousers, the ones he kept for special occasions. Two swipes of charcoal rest on her cheekbones, and a thin film of dust coats the loose curls around her head. She looks sprightly, younger, more free than he has ever seen her."
@@ -92,6 +106,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 服装的挪用清单写得极细：裤子（他的、礼服级）、斗篷（他父亲的）、炭绘（战士纹饰）——Aster 把夫家全部男性符号穿成了自己的军装，而 Kidane 的注视诚实得残忍：他看见她"更自由"，用词是比较级最高级连用（younger, more free than he has ever seen her）。本书写婚姻解体不写争吵，写一个男人发现妻子在脱离自己视线的过程里发光。
 
+**读者视角提示：** Kidane 看见的是摆脱他的 Aster，读者却已看见她穿着夫家符号主动走进战争；这层错位使他的惊艳与被抛下几乎无法分开。
+
 ---
 
 > **原句 9:** "She presses her lips to his palm, the pressure gentle and soft, so tender he feels his heart lean toward her, remembering those days when she was someone else, someone he could comprehend. … She lets it slide between them like a curtain finally dropped into place."
@@ -101,6 +117,8 @@ modified: "2026-09-24"
 **关键词：** presses her lips · lean toward · curtain
 
 **为什么这样写：** 请战被拒的谈判只用了一个身体动作（吻掌）和一个收场比喻（落帘）：吻掌是旧婚姻语法的最后一次使用——她知道这招能让他心软，也知道自己已经不需要它成功。curtain 的意象把"落定的怨"空间化：帘子落下不是破裂而是换场——Aster 从这一幕退场，去 ch23 的黑云里当另一种主角。
+
+**读者视角提示：** 吻掌之后，他仍以她没有打过仗为由拒绝，读者会看见温情没有穿透军事等级；帘子落下既是告别，也是 Aster 将重心移向妇女营地的门槛。
 
 ## 本章词汇
 

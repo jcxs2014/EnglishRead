@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 摄影机先给声音后给人——ch16 照片的"未来伤疤"是时间维度，此处"先声夺人"是感官维度：战争情报在民间网络里永远先以声响存在。mirage（蜃景）与 ch11 Ettore 眼中 Massawa 的 shimmering 成对：殖民者远远看见的是海市，被看见的人真正跑起来是肉体的"左旋右转"。
 
+**读者视角提示：** 先声后人让读者在身份揭晓前先感到网络的危险，再意识到这声音来自一个孩子；夜色中的民间通信因此有自己的节奏，不必等待帝国的机器。可以把这个奔跑的身影看成抵抗开始运作的第一枚齿轮。
+
 ---
 
 > **原句 2:** "The land will protect us, she has said to them repeatedly, Every stone will come to our service, every river will flow in our direction. Keep walking, sisters, raise your head and straighten your backs, move as our mothers once did when they, too, went to war."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** service · sisters · once did
 
 **为什么这样写：** Aster 的动员术三件套：泛灵的地利（stone will come to our service——无生命物被写仆从，仆从来的人如今指挥石头）、称呼（sisters 替代"妇人们"）、谱系（mothers once did——1887 Adua 那一代女性随军史被唤回）。第三层最要害：她把行军说成"回到母业"，抵抗因此不是新事而是省亲。
+
+**读者视角提示：** “大地会护我们”像口号也像一种阅读承诺：后文若出现山地、河流或粮食，它们不只是在移动背景，而是在测试这句动员能否承受现实。读者会逐渐分辨，地形的政治意义与它的实际重量并不相同。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 一句定义全书妇女战争的技术性总纲。stripped down 与 ch09 士兵"crushing labor 的肉证"同一具身体语法：她们不是"支援"，她们就是移动系统本身——枪、水、伤员、死者都靠这副肩。to carry what cannot move on its own 的物性描述冷峻到近乎工程文档，正因如此后文她们"被记为传说"才显出反讽。
 
+**读者视角提示：** 这句把妇女性群压缩成动作后，读者会更容易忽略她们已经做出的劳动；每一件被扛起的东西都在提示，抵抗的规模先由后勤而非枪声显示。后文回忆这些队伍时，任何“帮助”式称呼都应被这条能力链校正。
+
 ---
 
 > **原句 4:** "These slaves don’t realize they don’t have to do this? … We don’t have to do anything we don’t want to anymore."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** realize · anymore
 
 **为什么这样写：** 厨娘的解放论扑了个空是本章最痛的社会观察：她喊"不必"，回应她的脸是"startled rather than furious, resigned rather than uplifted"。自由在这个清晨还不是可选项，只是语法上成立的新词——本书对"启蒙超前于群众"的诚实处理：厨娘对，但她早了，而早了的人会被留下（她终究没走成）。
+
+**读者视角提示：** 厨娘把自由说成立即可以兑现的选择，读者却看到队伍以沉默回应；这形成一种读者知道的早醒：她并不缺少判断，只缺少共同相信判断的听众。她越坚定，越显出“自由”尚未成为所有人的共同语言。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 叙述者罕见地"校注传说"：一场真实会师里，Hirut 脱口而出的那个"母亲私名"（她随即喊出 Kidu）后来被传成深情回应——ch09"history falters"的手术刀这次对准浪漫桥段。本书的史学方法在小说中段完成自证：连"一个颤动如何变成一句答话"的机制都被拆开给你看。
 
+**读者视角提示：** 叙述者提前告诉读者，眼前的发抖会被后来的叙事重新命名；因此此刻应把会师当作未压缩的事实保存下来。传说的力量不在新增证据，而在把一个极小动作推向更大的情感结论。
+
 ---
 
 > **原句 6:** "Kidu, she says, and when he smiles, she grabs his hand and takes that fateful step toward him."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** fateful · grabs his hand
 
 **为什么这样写：** fateful 是叙述者的事后之眼：一个已失去母亲（Hirut 在 ch10 首次明白"再也不会见到母亲"）的女孩喊出母亲的私称（ch05 "he is like a brother to her, too"——Getey 当年带着 Aster 逃出来时，也这样把 Kidane 认作手足），读者却已从 ch05 知道这一步通向什么。全书最安静的危险时刻：没有强迫、只有自愿的靠近——本书对"恩庇-侵害"结构的书写在此达到语义最高点：伤害的入口常常是一道旧家的门。
+
+**读者视角提示：** 读者已经知道她喊出的称呼来自何处，也正因如此，这个看似自然的靠近显得危险。名字把旧日亲缘带进当下的军事关系，读者应同时感到重逢的暖意与关系权力重新合拢的阴影。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 两句隔着一个人的肩膀对话——ch08 新婚夜的两名在场者如今各执一词：Aster 的"saved her"（救=代她承受/守密）与厨娘的"不该在场"（救=根本不该有那场救援）。全书伦理最复杂的一次对账：施害现场的"救助者"身份是否使救助者也成为共谋？Hirut 听懂了——那瓶失踪的香水正贴身带着 Aster 的气味（pungent sweetness），厨娘偷用的细节泄露：她靠"占有 Aster 的气味"来偿还在场的债。
 
+**读者视角提示：** 两个人的争辩把“救”拆成相反的账本，读者不能用一方的话替另一方结清。这里的关键不是判定谁更真诚，而是看见同一夜如何在多年后仍以不同版本索取责任。
+
 ---
 
 > **原句 8:** "Berhe takes the cook’s hand and raises it to his cheek. The gesture deflates the cook’s anger. She blinks rapidly to stop the tears."
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** raises · deflates
 
 **为什么这样写：** 夫妻语言学的样板戏：她宣布离开，他不辩一言，只做"吻手贴颊"的旧礼——deflates（泄气）写得精确：怒气不是被打败是被软化，而软化恰是更深的捆绑（"you’re going too, the cook says, but she follows him"）。本书婚姻书写的全谱系：Kidane-Aster 是账本，Berhe-厨娘是同一间屋里的另一种囚徒同盟——用手，不用话。
+
+**读者视角提示：** 这一触不是语言的回答，而是关系用动作抢先表态；读者会看到厨娘眼泪的出现，使她的“离开”从决定变成无法立即执行的挣扎。后续她跟随 Berhe 走时，这一处柔软应被视为束缚与安慰同时存在。
 
 ## 本章词汇
 

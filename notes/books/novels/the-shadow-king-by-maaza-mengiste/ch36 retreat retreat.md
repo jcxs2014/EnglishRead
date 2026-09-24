@@ -25,6 +25,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 以宇宙论开篇再坠入战场——"誓言"是本书对抗"遗忘与否认"（ch32）的总纲。 undone/unfulfilled 近义双叠，像把锁的两道闩：这世界的秩序靠"说到做到"缝合，而下文展示的正是缝合失败。
 
+**读者视角提示：** 这一定义来自全知声音而非战场人物，因此读来像公理；可当誓约在下一句延展成国家、土地与太阳的链条后，读者会记住：一旦自然被纳入承诺，承担者就只能是具体的人。
+
 ---
 
 > **原句 2:** "There is the bond between a ruler and his people, between the people and the soil, between the soil and the sun, and the sun and the tiller."
@@ -34,6 +36,8 @@ modified: "2026-09-24"
 **关键词：** bond · soil · tiller
 
 **为什么这样写：** 顶真（anadiplosis）链条一环扣一环：ruler→people→soil→sun→tiller——土地与耕者被排到宇宙序列里。注意 king 在链条最上游、tiller 在最下游，而本章的"tiller"们将死于维护这条链；这与 ch35 意大利"被音乐喂大的谎言"构成两种誓约的对撞。
+
+**读者视角提示：** 链条把人和自然写成连续关系，读者却很快看到其中每一人称环节都在断裂；土地并未守住它与太阳的纽带，反而成了毒雨承受者。
 
 ---
 
@@ -45,6 +49,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 承接原句 2 的"sky to the bird"链——链条断裂的方式是鸟绕道：自然拒绝目击，唯有人类幼崽被迫直视。wrought（锻造/作孽的双关）一词压住全章：工业化的死亡正是"手工艺"的反面。孩子的视角即本书史观：见证人要从下一代里找。
 
+**读者视角提示：** 鸟的回避与孩子的凝视形成全章第一组旁观伦理：叙事要求读者像孩子一样看得更久、更直接，而不是随天空移开目光。
+
 ---
 
 > **原句 4:** "the ruins of homes and collapsing churches, the scorched fields, the boiling rivers, the poisoned soil and the fallen trees, the exploding bombs, the choking men, the fragmented bodies"
@@ -54,6 +60,8 @@ modified: "2026-09-24"
 **关键词：** scorched · boiling · poisoned · fragmented
 
 **为什么这样写：** 九个名词的"无动词语清单"——一切都在发生却无人施动，被动世界正是芥子气战争的面目。原句 2 的誓约链在此逐环反噬：soil 被毒、rivers 被沸、churches 塌给天看。清单体与 ch32 的"死亡点名簿"同源：数字杀人，名单作证。
+
+**读者视角提示：** 清单没有施动者，读者却会因前面誓约链而期待它被谁打破；正是这种缺少责任人的被动感，让破坏显得像自行发生。
 
 ---
 
@@ -65,6 +73,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 三个真实法西斯歌曲/歌剧咏叹调名直接入文：ch35 皇帝说敌人"被谱成音乐的谎言喂大"，本章它们真的在列队行进时唱出来；而 O patria mia 恰恰来自《阿依达》——侵略军唱着"祖国"，唱词出自他们侵略对象的民族歌剧，讽刺完成闭环。
 
+**读者视角提示：** 这些歌名不是装饰：读者刚经历皇帝把敌方音乐认作喂养工具，此刻就听见喂养者把声音编进行军；同一文化机器这次由使用者亲自启动。
+
 ---
 
 > **原句 6:** "the emperor charges and charges and charges and his soldiers rise up and crumble down and rise up again"
@@ -74,6 +84,8 @@ modified: "2026-09-24"
 **关键词：** charges · rise up and crumble down · again
 
 **为什么这样写：** 三叠 charges 取消了一切战术，只剩意志的重复；rise/crumble/rise 的循环是 ch30 "marching toward ambush"的兑现，也是"die on their feet"（ch35）的字面化。动词不带宾语——冲锋没有可及的目标，只有火力这堵墙。
+
+**读者视角提示：** 三个“冲锋”之后没有目标，只剩重复；读者会在下一句毒雨落下时发现，士兵反复“站起”不是恢复，而是被誓言不断推向下一轮倒下的间隙。
 
 ---
 
@@ -85,6 +97,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** "因为要守誓，所以继续送死"——本章最痛的一处因果：誓约链（原句 2）同时是支撑与绞索。blistered（起泡）把人皮肤的水泡转印给大地：芥子气的真正受害者是土壤本身。太阳"滑进地平线的庇护"是全书天象系统落幕：连太阳都需要躲藏。
 
+**读者视角提示：** “继续”把毒雨、战斗与时间锁成同一机械链，读者不再看到中途中止的可能；誓言没有拯救大地，反而保证有人继续承受它的灼伤。
+
 ---
 
 > **原句 8:** "and still the emperor and his army keep going, in death-defying conflict, until the order finally comes: Retreat. Retreat."
@@ -94,6 +108,8 @@ modified: "2026-09-24"
 **关键词：** death-defying · the order finally comes · Retreat
 
 **为什么这样写：** 全章唯一一句"命令"，只有两个音节——与 ch35 他拒绝的"attack now"对照，他抢来的进攻最终以"retreat"收尾。两个 Retreat 之间的句点是一整代人的墓志。"comes"的被动语气：命令像天气一样来临，无人称发出者——失败本身就是主语。
+
+**读者视角提示：** 两次重复既是命令也是丧钟，读者已经听过全章持续向前的复调，此刻突然静止；请注意开头“不可失信”的誓言最终连撤退也压成两个无主音节。
 
 ## 本章词汇
 

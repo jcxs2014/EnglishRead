@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章首镜：一只拳头顶进光线——构图即威胁（ch14/16 的光学母题被征用为暴力前奏：遮蔽光的从来不是相机，是人）。shifts him into a stranger 是受害者视角的辨认失灵：本书写施暴者从不写成恶魔（那是廉价的），写成"熟人变性"——最恐怖的是认不出，而认识他这件事本身成了共谋。
 
+**读者视角提示：** “陌生人”不是另一个人，而是旧日熟悉被瞬间切断；读者会带着对熟人形象的残余，承受接下来的辨认失效。
+
 ---
 
 > **原句 2:** "She understands that it is better to dig her teeth into her tongue than to make a noise, aware that everything she says will be meaningless with that Wujigra strapped across her back."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** dig her teeth · meaningless · strapped across her back
 
 **为什么这样写：** 少女的求生算术精确得令人心碎：枪在背上，话语就失效——武器的所有权决定证词的信用（与 ch19 厨娘"验货"、ch26 记者"待客之道"同一条"话语权=装备权"的定律）。咬舌不出声是本书底层女性的第三套身体技术：厨娘不 beg、Aster 计算反叛的价、Hirut 现在把疼痛改道进自己嘴里。
+
+**读者视角提示：** 枪还在背上，读者便知道它继续支配她是否出声；这条背带把上一章的夺枪与本章的失语连成一条因果线。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 听觉畸变写惊惧：一记耳光被脑内翻译成磨刀声——本书写暴力后遗的第一秒从不用痛觉用听觉。metal against metal 也接上全书的武器声学（ch19 枪摆上 netela 的闷响、ch24 空扳机的无声）：这一回金属的声音在颅内，创伤的存放地点从外部世界搬进了她的头骨。
 
+**读者视角提示：** 刀声只存在脑内，读者会意识到现场反而失真；暴力的第一声不是来自外界，而是由她的感官先行制造。
+
 ---
 
 > **原句 4:** "From somewhere, Aklilu’s voice: Dejazmach Kidane, I’ll take it back to Dawit and get her out of here. … Dejazmach, let’s find Hailu and give him the gun. … Shut up! Kidane says. … She hears Kidane add: Leave, all of you. Now! Then: departing footsteps."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** from somewhere · get her out · Shut up · departing footsteps
 
 **为什么这样写：** 解围attempt的两段式实录：Aklilu 两次开口都走"事务性绕行"（谈枪、谈 Dawit）——不敢直说"放开她"，因为在这个营地里救一个女孩的唯一合法路径是把它写成军务。第二次仍失败，只换来 Shut up——本书写旁观者的善意有明确的射程上限。"Then: departing footsteps." 三个词整句成段：世界退场的声音被留声机般录下，这是 ch28 "她不会记得他们"的现场反驳——Chorus 记得，脚步往哪边去的都记得。
+
+**读者视角提示：** 读者听见那位妻子也在场，却只等到一声名字便沉默；合唱声部预告的旁观者清点在这里获得现场补充，离开的脚步也因此成为未被执行的援助证据。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全章超现实的一笔：幻觉里出现的不是上帝也不是母亲，是父亲——那位教她 Wujigra 操练的人（ch21 回忆）。他摇头的语义被悬置：悲她，还是悲他自己把枪留给了这个营地？本书从不在幻觉上标注解释，因为受创者的眼睛本就长满他人的脸。碎石入颊的实感与父亲幻影的虚感同框：身体在场、灵魂已出窍——"mind slams into that space where meaning is absent"的注脚。
 
+**读者视角提示：** 父亲幻影会让人把摇头读成谴责，但文本有意不裁决；读者应保留他既在又不在的状态，让记忆本身成为不可靠的第三名旁观者。
+
 ---
 
 > **原句 6:** "It’s that woman’s fault, Kidane is saying. It’s all her doing. All of this."
@@ -72,6 +82,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 施暴者的收尾语法课：不指明"那个女人"是谁（厨娘？Aster？Hirut 自己？）——泛指是推诿的最高形式，罪被倒入一整座历史的池子。All of this 三个词的轻佻与刚才的全部重量成反比。本书写性暴力最准的一刀不在过程在善后：Kidane 连自责都要外包——他的愧疚（ch28 的 guilt-ridden weight）到此完成闭环：愧疚不但喂养暴力，还负责给暴力找证人。
 
+**读者视角提示：** “那个女人”留下空白，读者可能依次想到不同对象，正说明施暴者需要一个足够宽的代罪名；他的每一种可能指认都会把责任推离自己。
+
 ---
 
 > **原句 7:** "This: the body is blood and flesh, and always a blow away from falling apart. This soft stomach, this arched back, these kicking legs, the flailing arms, her marked flesh, all of it is a traitor."
@@ -81,6 +93,8 @@ modified: "2026-09-24"
 **关键词：** a blow away · soft stomach · marked flesh · traitor
 
 **为什么这样写：** 认知断点的一手档案：Hirut 从此以"会碎裂"定义身体——不是受伤的身体，是本质上即"一击之外"的身体。marked flesh 一词回收 ch07 项链疤与胸前伤口：连伤痕都被重新登记为同谋的记号。all of it is a traitor 的判决句法与 ch18 厨娘"这身体纵使丑也神奇"对位——同一门身体神学的两代学生，一个学到身体是奇迹，一个今天学到身体是叛徒。本书的女性传承在此裂成两册教材。
+
+**读者视角提示：** “身体是叛徒”是希鲁特此刻的生存结论，读者会带着它进入后文：每次她重新取得行动能力，都是对这句判决的一次改写。
 
 ## 本章词汇
 

@@ -25,6 +25,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** etched（蚀刻）把两人刻成一幅版画——旁观者视角把亲密"图像化"。整句没有声音细节，只有"自在"的节奏本身：Kidane 羡慕的正是不必翻译的相处。
 
+**读者视角提示：** 读者会站在 Kidane 的树后，把这幅安静剪影当作他无法进入的另一种亲密；Hirut 与 Aklilu 的自在因此不只是场景细节，也显出 Kidane 与他们之间始终隔着的一层观看关系。
+
 ---
 
 > **原句 2:** "There is no tension in their rhythms, no nervousness in their gestures, there is none of the fear that Hirut exhibits when she is around him."
@@ -34,6 +36,8 @@ modified: "2026-09-24"
 **关键词：** tension · nervousness · the fear that Hirut exhibits
 
 **为什么这样写：** 三个"没有"构成照妖镜：同一双肩膀，在 Aklilu 旁松弛、在他身旁怕——她身体的读数就是这段权力关系的判决书。对 ch29 的事件只字未提，但"exhibits"（习惯性展示）让创伤从事件变成日常。
+
+**读者视角提示：** 注意 Kidane 是在比较身体反应之后才被迫承认距离：他看见 Hirut 的恐惧不是偶发情绪，而是自己在场就会触发的常态。读者也会开始留意，Hirut 越接近他，场景中的“没有”就越刺眼。
 
 ---
 
@@ -45,6 +49,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** "he sees now"是迟到十年的看见：等级制把 closest 的朋友隔成臣属。distant reserve 与 Aklilu 在 ch29 两次试图为 Hirut 解围的动作互证——他的克制不是冷漠，是在主奴语法里仅剩的善意空间。
 
+**读者视角提示：** 这次观看把 Kidane 自己置于被辨认的位置：他一直把 Aklilu 当作亲近的镜像，最后才发现对方从未能越过等级。读者也会回看前一句的“老友”，意识到那只是 Kidane 的误认。
+
 ---
 
 > **原句 4:** "They were men who understood him without explanation."
@@ -54,6 +60,8 @@ modified: "2026-09-24"
 **关键词：** understood him without explanation
 
 **为什么这样写：** without explanation 是特权的定义式：被懂得从不需要申诉。这一小节为下句对"特权"的清算蓄力——先给温暖，再拆温暖。
+
+**读者视角提示：** 这句温暖应先按字面读懂，再记住它有昂贵的门槛；“不用解释”之所以自然，是因为有人替他承担了不被理解的代价。读者可把这份无须说明的自由，与 Aklilu 和 Hirut 的生活并置观察。
 
 ---
 
@@ -65,6 +73,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Kidane 罕见的阶级自省：贵族的"义气"其实是一台把成本转嫁给他人的机器。invisible cost 在本章有名字——Hirut、Aklilu、tillers of land。这段也是作者对"抵抗运动由谁流血、由谁纪念"的总提问。
 
+**读者视角提示：** 读者会跟着 Kidane 追问谁在承担这项隐形账单：圈子越熟悉，退回圈子的动作越像自保。与后面他对 Aklilu 与 Hirut 的观察相连，这种自我审判并没有把他们重新放回同一阶层。
+
 ---
 
 > **原句 6:** "They are simple people, tillers of land. They hold nothing dear except what is directly in front of them: food and water and basic survival."
@@ -74,6 +84,8 @@ modified: "2026-09-24"
 **关键词：** tillers of land · hold nothing dear · directly in front of them
 
 **为什么这样写：** 表面是贬（简单），实质是羡（未被撕裂）——与 ch36 誓言链里排在最末也最韧的 tiller 呼应。directly in front of them 为章末的顿悟铺轨：唯有"眼前之物"不会背叛，而皇帝恰恰是远方。
+
+**读者视角提示：** 这几句表面像把两人的生活缩小，实则给读者一把衡量 Kidane 世界的尺：他们只知道眼前能握住的东西，而接到的命令来自远方。“眼前之物”也提示，真正的稳定也许不在口号里。
 
 ---
 
@@ -85,6 +97,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 史实入文：1936 年 6 月 30 日 Haile Selassie 日内瓦控诉演说无人响应。"broken its own promises"是 ch36"不可失信的誓言"链在国际舞台上的破产确认——世界秩序的话语机器当场宕机。
 
+**读者视角提示：** 读者会把这几句放回上一章火车离去之后：外部承诺没有跟上，国家便只能独自承担后果。这里的“弃约”让读者把国际秩序的承诺与人对人的在场作对照，不只看谁赢了外交。
+
 ---
 
 > **原句 8:** "Do not wait for Britain or France, do not wait for the League. Ethiopia is still ours, Kidane. Fight."
@@ -94,6 +108,8 @@ modified: "2026-09-24"
 **关键词：** do not wait · still ours · Fight
 
 **为什么这样写：** 命令的修辞学：两个"别等"删掉了所有外部救兵，"still ours"把所有权塞回自己手里，单动词 Fight 收尾——这是 stripped 到只剩主语与谓语的祖国定义。但它出自远在英国之人，为下文的反转充好电。
+
+**读者视角提示：** 这里最值得记住的不是“战斗”的硬，而是命令先把未来归还给“仍是我们的”，再要求身体去兑现。读者已经知道发出声音的人在远方，因而会把这句自助宣言听成命令与孤立同时抵达。
 
 ---
 
@@ -105,6 +121,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** curl into 是子宫姿势、也是胎儿姿势——全书最硬的男人第一次被写成想缩回虚无的婴儿。战或降都只剩"独自"，连 ch36 式的撤退都没人来接收这份孤绝。
 
+**读者视角提示：** 读者会看到一个身体在战败消息中寻找可容纳自己的形状；“洞”不是抽象的悲伤，而是让一个习惯了发号施令的人暂时失去外壳。待他重新站起来时，命令的重量也会变成另一种身体动作。
+
 ---
 
 > **原句 10:** "This is the order left behind by Haile Selassie, and this is what it contains: the assumption of obedience and loyalty at any cost."
@@ -114,6 +132,8 @@ modified: "2026-09-24"
 **关键词：** assumption · at any cost
 
 **为什么这样写：** "contains"像开箱验货：命令的货物不是战略，是预支的忠诚。assumption 一词双关（预设/僭取）：皇帝擅自把 Kidane 的命当作自己可用余额。这一句是全书对"神授王权"最冷的法理学判词。
+
+**读者视角提示：** 读者会把它当作一份只规定服从而不讨论后果的契约：它预设的不是结果，而是 Kidane 必须先成为服从的人。刚刚经历皇帝缺席，后文把这份命令读成预支死亡时才不显得突然。
 
 ---
 
@@ -125,6 +145,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Kidane 看 Hirut 的目光罕见地绕开了欲望与罪名，落在"年龄的对称"上：only a little older than Aster——他忽然看见自己当年就是这女孩。pliable（可塑）回收 ch31 训练 ascari 的 molded：这套体制塑造每个人的时间，女性的时间最先被抵押。
 
+**读者视角提示：** 这句话把 Hirut 重新放回被观看的年龄坐标里，读者会意识到 Kidane 的醒悟并没有立即带来平等；他能看见她像当年的 Aster，却仍要穿过她与制度的边界。“可塑”也提醒读者，身体的柔韧既是潜力，也可能成为被支配的证据。
+
 ---
 
 > **原句 12:** "a command from a man who has a son to one who does not … from a man who still claims his birthright to one who cannot even claim a child in his name"
@@ -135,6 +157,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 三联排比把"命令"重新定性：每条都由一个缺失不对称地发出。Tesfaye 之死（ch09）至此显出政治重量——无后的战士在国家语法里是可消耗的。皇帝 ch30 找不回的儿子照片与 Kidane 没有的儿子，构成全书最沉默的对称。
 
+**读者视角提示：** 读者会把这句命令的残酷转到关系层面：生育与不生育不仅决定谁能继承权利，也决定谁被当作可以被牺牲的人。Kidane 的无子并非私人遗憾，而是制度开口的缺口；后文他能站在场上，反而会不断触碰这道缺口。
+
 ---
 
 > **原句 13:** "And Kidane understands that this is how a disappearance begins: with an order to move toward danger then continue on toward oblivion."
@@ -144,6 +168,8 @@ modified: "2026-09-24"
 **关键词：** disappearance · move toward danger · oblivion
 
 **为什么这样写：** "how a disappearance begins"逐字回应 ch30 皇帝的"消失始于遗忘与纸箱"——两个消失主题在本书中枢对接：君王的自我消融与战士的肉身注销，用的是同一套公文。oblivion 词根即"被遗忘"，为 ch32 起贯穿的"记忆战争"落下锚点。
+
+**读者视角提示：** 从这句开始，读者要留意“离开”并不总是物理动作：一个人被命令走远后，可能逐步从共同记忆中退场。命令、遗忘和肉身消失连成一条线，也让后文的预演更像在追踪消失如何完成。
 
 ## 本章词汇
 

@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全书第一个近距离凝视的白人男性，被写成一件"被剥皮的商品"——peeled/left raw 与本章末尾他被风吹日晒折磨的旅行叙事呼应：非洲的气候在报复 ferenj。Hirut 的 fascination 与 ch16 照片里厨娘"躲开摄影师的目光"构成两层"被看/去看"的主客翻转：这一回镜头（欲望的镜头）握在少女手里。
 
+**读者视角提示：** 此时 Hirut 仍把他的裂手当作陌生而新鲜的细节，读者却已听见随后价格清单里的身体；这种不适应在 Jacques 点名时重新浮起。
+
 ---
 
 > **原句 2:** "There are five new weapons, shinier and sleeker than anything Hirut has ever seen."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** shinier · sleeker
 
 **为什么这样写：** 枪第一次以"美"的形态进入 Hirut 的视野——shinier and sleeker 的比较级对象不是别的枪，是 anything：工业制品的美学冲击被一个前现代少女全额接收。这句话是全书武器美学的原点：后来的她将成为比枪更"shine"的传说，而起点是五支枪被摆在**她的**头巾上——netela 作衬布，妇女的贴身织物成了交易的包装纸。
+
+**读者视角提示：** 枪此时被铺在她的织物上，读者会多留意一层：交易展示面与 Hirut 自己的身体一样，随时可能被用来陈列别人的货品。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 本章的道德枢纽被压进一个副词短语：becoming still——激奋的军火买家忽然静止，这一静不是良心觉醒，是开始算账。None of this is enough 一语双关：对意大利战争不够，对他自己的贪欲也永远不够——所以补货商提出 Hirut 时，他没有立刻说不。Kidane 的堕落不是暴怒而是安静，本书写恶的平庸写得最贴肤的一次。
 
+**读者视角提示：** 读者能看出交易其实已经完成，场内却仍用短缺来掩饰；此后 Kidane 的每一次沉默，都应按已经作出的让步来读。
+
 ---
 
 > **原句 4:** "What’s your name? he asks in Amharic. His intonation has the same hissing sound he uses when he speaks French. His accent is strange, the rhythm of the words soaked in spit. I’m Jacques Corat, he says. Do you like me? His mouth parts again in a grin, revealing more of his stained teeth."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** hissing · soaked in spit · Do you like me
 
 **为什么这样写：** Do you like me 是全书最脏兮兮的一句调情：khat 成瘾者的湿嘴、染黑的牙、泡在唾沫里的音节——欲望的修辞被生理细节全额去浪漫化。他的问句顺序也值得记：先问名字、再自报姓名、再讨喜欢——把搭讪写成报关流程，人是他进出货单上的一项。
+
+**读者视角提示：** 他问她是否喜欢自己，读者已经知道她很快会被他归入商品；这使他的自恋比单纯的恶意更令人不适，也提醒读者 Kidane 并非唯一的共谋者。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** knowing 与 disgust 各有所指：她认得这场交易的形状（ch18 私奔夜她见过定价的现场），厌恶的却未必是买卖本身——下一句她立刻补刀"She's not strong and she gets sick a lot. Look at her chest, are you blind?"，用卖家验货的口吻把 Hirut 的伤疤当质检报告念。这是全书最残忍的一次"救你"：厨娘知道讲不赢价格，于是把自己改成竞标的货。
 
+**读者视角提示：** Aster 只看见厨娘与 Jacques 对峙，读者却比她先明白，那句评货其实是在把女孩从价码里排除出去。
+
 ---
 
 > **原句 6:** "No girl is useless, he says. He winks at Hirut."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** no girl is useless · winks
 
 **为什么这样写：** 一句听起来像赞美的话，出处却是买家：no girl is useless 是商品目录的语言——"有用"的定义权完全在持枪的男人手里。wink 把这句行话盖了章。本书把父权话术里"女性也有价值"式的安慰句原样陈列，让读者自己听见它和"useless"共用同一套计量单位。
+
+**读者视角提示：** Hirut 本人就在场，读者却会比她更早意识到，这句安慰与上一句贬损使用的是同一种目光。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 厨娘的竞标方案是全书女性生存术的黑暗样本：她出价的是自己的手艺+毒品渠道+性服务的转包（"I’ll find another woman to take care of your business with you"）——把厨房变成实验室、把身体变成物流。astenagir 这个词前文只作为厨娘药柜里的秘密出现，本章第一次说破它的商业价值：她唯一变现的资产是男性成瘾本身。
 
+**读者视角提示：** 真正危险的不是她愿意交易，而是她熟练地把依赖也写成合同；尤其别过“另一名女人”的承诺，个人求自由的方法已经显出复制他人代价的代价。
+
 ---
 
 > **原句 8:** "He moves as if he has all the time and they will wait. Only the color rising from his neck betrays his tension. … Just wait, she says. And Berhe’s leaving with me, he’ll go back to his home. … then she turns and walks down the hill, moving quickly."
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** betrays his tension · walks down the hill
 
 **为什么这样写：** 谈判桌的权力学以颈红泄露——真正没把握的是出价方。厨娘赢下这单的方式是让买家贪口（毒品配方）压过少女偏好： Jacques 那句 "Never"（拒绝她）反而成了她的放行条。她走下山坡的"moving quickly"与 ch17 她"跟着 Berhe 却又说我在走"的拉扯对账：四次预告离开，这一次真的走了——本书最干净的一次退场，把舞台留给 Hirut 的灾难。
+
+**读者视角提示：** 读者会短暂把她视作破解交易的答案；直到她走开而 Hirut 仍被留下，答案才显出并未真正抵达 Hirut。
 
 ## 本章词汇
 

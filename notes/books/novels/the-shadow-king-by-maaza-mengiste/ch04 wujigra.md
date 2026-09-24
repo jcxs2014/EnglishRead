@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全书唯一的"物词条章"用武器说明书开场——冷冰冰的参数（origin/caliber/accuracy）先于任何人名。这既是历史小说的道具考据，也是叙事立场：在埃塞俄比亚，一支枪的"血统"（法式、一战老枪）比持有者的身份更能决定命运。说明书的句式随即被父亲的口语融化。
 
+**读者视角提示：** 词条把枪的来历先于父女关系说出，读者第一次读到它的法文来源时，会本能追问这支旧枪如何穿越殖民战争而抵达 Hirut 手中。
+
 ---
 
 > **原句 2:** "Watch how I do this, Hirut, sit still and pay attention."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** watch · sit still · pay attention
 
 **为什么这样写：** 三个祈使句是全部父爱的浓缩形式：不说"我爱你"，说"看着我"。这一课在此书里会被反复闪回（每章 Hirut 举枪的动作都回到这句 "watch how I do this"），是行为层面的主题句。
+
+**读者视角提示：** 父亲把“看着我”变成课程，读者会把后来所有持枪时刻当作对这句指令的延迟回应；枪术不只是技巧，也是在寻找缺席父亲的现场。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 规训的考古学：一只惯用手如何被文化逐出"正当行为"的版图。三个名词递降（devil → thief → secret things）把左撇子从疾病讲成罪行；阿姆哈拉语 leyba 的插入提醒读者这套禁忌的本土血统。而下句枪柄偏偏"不偏袒左撇子"——世界的构造与她的身体作对。
 
+**读者视角提示：** 母亲关于左手的禁忌先像家规，后文战争会把它改写成敌我界线；读者应留意 Hirut 每次使用右手，是否都在用身体的僵硬回答“左手”。
+
 ---
 
 > **原句 4:** "So when she becomes a soldier, she thinks that day with her father, she must shoot with her right, the hand that resists when she tries to make it do anything."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** resists
 
 **为什么这样写：** "when she becomes a soldier" 用一般现在时的 when 从句写一个孤儿女孩对未来的确定式想象——父亲授枪=授职。the hand that resists 一词把全书主角的核心处境说尽：她此生要用的武器（语言、勇气、欲望）都是未经训练、会反抗的那只手。
+
+**读者视角提示：** 她把未来士兵的身份提前放在那一天，读者因而知道这不是临时学艺，而是一场与童年诀别的自我塑形；此后每次举枪，先要辨认的将是抵抗而非熟练。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 本章唯一柔软的一拍：枪托抵肩点与女儿安睡点重合——杀人与护家在身体坐标上是同一个位置。He smiles 只有两个词的独立成句，把武器课里突然露出的父爱闪帧钉在读者眼里；也因此，后文父亲"声音变了"才格外冷。
 
+**读者视角提示：** 父亲说到这里停下，读者会记住他脸上那一笑；下一次父亲的声音改变时，这张照片般的温柔会成为辨认他已不在场的反衬。
+
 ---
 
 > **原句 6:** "He does not sound the same. He does not sound like her father. When he looks at her, it is as if he is not looking at her. His face is collapsing around the eyes and she sees that he pretends to squint to hide it."
@@ -72,6 +82,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 病容的三重退避写法：声音先叛变（不像父亲）、目光后叛变（不看她）、脸最后叛变（collapse 塌向眼窝）。孩子"看出他在假装"是全书关于观看与自知的第一课——Hirut 从此拥有对大人掩饰的 X 光眼。squint（瞄准的眯眼）与"藏病"的双关：瞄准镜的动作就是父亲最后的体面。
 
+**读者视角提示：** Hirut 看出了父亲在掩饰，读者却不能替他解释那是病、恐惧还是告别；这个留白会让人物最亲近的声音从此带上一层不可翻译的裂缝。
+
 ---
 
 > **原句 7:** "Prepared for what, she asks. He slips the bullet back into his pocket. Prepared to be something you are not."
@@ -81,6 +93,8 @@ modified: "2026-09-24"
 **关键词：** prepared · something you are not
 
 **为什么这样写：** 章眼。扳机不可触碰的告诫被推到存在论层面：扣下扳机=越出自我边界。这句话同时是 H 全书的预言——左手的女孩将用右手开枪，良善的人将杀戮，沉默的仆女将成为"影王的卫兵"。父亲的回答故意不完整（something you are not 没有宾语补足语），空白处正是战争将填进去的东西。
+
+**读者视角提示：** 父亲不说明她要成为什么，读者会把空白一路带到战争；往后她每一次被推向新身份，都应回到这句未完成的警告前停一停。
 
 ## 本章词汇
 

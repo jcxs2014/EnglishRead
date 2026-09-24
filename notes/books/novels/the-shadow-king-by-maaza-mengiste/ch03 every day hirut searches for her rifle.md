@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 连续三个 She + 动词的短句是行为强迫症的文体：句子不停顿，动作就不停。"as she cleans" 的并置尤为残忍——她必须把工作做完美，以便让搜找隐形；打扫与寻枪共用同一双手，仆役身份成了她的掩护与枷锁。
 
+**读者视角提示：** 每一件被挪动的东西都把搜寻伪装成劳动，读者因此会开始和她一起怀疑：她究竟在找枪，还是在找任何能证明自己曾拥有选择的痕迹。
+
 ---
 
 > **原句 2:** "What is lost is gone, my child, what is lost makes room for something else."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** makes room
 
 **为什么这样写：** Berhe 拦在大门口的耳语，是全章唯一的箴言句。前半句冷酷（gone），后半句温柔（makes room），用同一个 lost 完成翻转。这句话是全书的对照组：Hirut 恰恰证明了"失去会不断索取"——她此后的每一步都在拒绝这句话。
+
+**读者视角提示：** 她把这句话记在心底，却用更疯狂的打扫回应；后文她一件件取走物品，正是在把 Berhe 的安慰反转成自己的反命题。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 失枪的恐怖不在武器，而在同构：枪=她仅存的所有物=她自己。swallow/devours 两个吞食动词由小到大，接上身体恐怖（骨头软化滑动）——被剥夺者会连同自己一起被没收。这段是全书"物与人互相定义"主题的最简公式。
 
+**读者视角提示：** 失枪的裂缝从屋里扩到她对自我存在的感受，读者会预感到寻找不可能止于武器；它还会让“她从何处来”的问题获得危险的身体形状。
+
 ---
 
 > **原句 4:** "It slips out of her hold and clinks onto the floor like a bag of coins and when she snatches it up, heart pounding, something breathes in the room."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** clinks · snatches · breathes
 
 **为什么这样写：** 证据到手的一瞬被写成灵异场景：Kidane 书桌里"早已丢失"的项链证明他至少对妻子撒了谎；something breathes 不点破是谁（归来的亡灵？注视的丈夫？），用鬼叙事把物证变成审判。clinks onto the floor like a bag of coins 的响亮与后句的寂静构成听觉蒙太奇。
+
+**读者视角提示：** 项链从书房出现，Hirut 得到一张物证，却没有得到一个解释；读者的疑问会越过 Aster 的失物，转向 Kidane 究竟在隐瞒什么。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 空位替代实体的仪式：pat 的动作既是安抚自己也是告别。梦里的女孩不用名字——那是她尚未成为的自己；"山上的胜利"要到 ch71 的伏击与全书结尾才兑现。梦境在此书是预告装置而非逃避。
 
+**读者视角提示：** 梦里胜利者没有名字，读者此时只能把她当作 Hirut 的未来替身；等到那个持枪站在高处的人真正出现，才会知道这场梦怎样被现实改写。
+
 ---
 
 > **原句 6:** "She is careful, reveling in the thrill of possession, made bold by the sudden freedom of theft."
@@ -72,6 +82,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 三重抽象名词链（possession → theft → freedom）把小偷写成人权行为：一个除了三件旧物外"什么都不拥有"的人，偷回属于自己的"被允许想要的东西"。made bold 呼应前章"Once, she had been more than a servant"——失枪之后，她以偷窃重建主权。
 
+**读者视角提示：** 她从捡回项链开始学会夜里的奖赏制度，读者会察觉“偷”如何从一次冒险变成持续的自我授权；每一次谨慎都在积累她的主动性。
+
 ---
 
 > **原句 7:** "Hirut shoves the unnecessary details aside while listening for the name of the rifle that belonged to her father and once belonged to her: Wujigra."
@@ -81,6 +93,8 @@ modified: "2026-09-24"
 **关键词：** belonged · once belonged
 
 **为什么这样写：** 时态是本章的伤：belonged to her father（过去）· once belonged to her（曾经）——现在它属于"战争"。她偷听法语新闻、记住了 League of Nations 与 Mussolini，却把一切"不必要的细节"推开，只剩一个词：枪的名字。下一整章将只由这个词条构成，结构上完成"一个词吞掉一章"。
+
+**读者视角提示：** 噪音里她只抓住一个专名，读者也会在下一章到来时发现，这个名字已从一个物件变成她通往父亲记忆的入口。
 
 ## 本章词汇
 

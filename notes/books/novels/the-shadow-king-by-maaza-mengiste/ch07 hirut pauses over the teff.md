@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全知视角先向读者交底"埋着东西"，人物却一无所知——悬念的教科书配置。unstrained（不紧绷）是反讽定语：男人之间越轻松，女人之间的秘密就越岌岌可危；buried 一词同时指向柴堆下的宝物与全书的战争掩体（后文 rifle cache 呼应）。
 
+**读者视角提示：** 开篇先把“埋着”交给读者，随后两人的谈话始终没有触及柴堆；越过这道信息差，回看 Kidane 和 Berhe 的松弛会更像倒计时。
+
 ---
 
 > **原句 2:** "It is only when Hirut hears the tap-tap-tap that she looks up, startled to see the woman's hand pressed against the glass as if she wants to shatter it in her fist."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** tap-tap-tap · shatter
 
 **为什么这样写：** 拟声三连是危险逼近的节奏器——全书多次用声音抢先报信（ch05 的咳嗽、此处的敲窗）。shatter it in her fist 写的是 Aster：被锁在屋里九年的人，想砸的第一样东西是玻璃而不是门——门通向丈夫，玻璃只通向外面看见她的目光。
+
+**读者视角提示：** 窗上的敲击声先于人物对话抵达，读者已经听见 Aster 的焦躁；接下来 Hirut 的每一次回避，都要在这声敲击的余压下阅读。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Hirut 的自我审判压缩成一副对偶：owners / set them in their rightful place and clean them 精确复刻"主人 / 仆役"的世袭分工。rightful（正当的）最毒——连摆放物品的位置都被说成"正当"，阶级就被写进了物的秩序里。这是她埋宝物的天真被戳破的瞬间：占有需要世界给你发证。
 
+**读者视角提示：** 这句话会让读者重新估价前面 Hirut 收拢零碎物的场景：她当时以为是在储藏，叙述在这里提醒，那其实是在冒领他人的秩序。
+
 ---
 
 > **原句 4:** "You still think this world was built around you? … Do you think you matter more than this country?"
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** built around you · matter more
 
 **为什么这样写：** Aster 的武器是话术：她把私怨包装成国事——枪"属于埃塞俄比亚"，所以你"不重要"。两个问句构成全书反复出现的结构性暴力：宏大叙事（国家/战争）随时可被征用，为对弱者的索取盖章。注意她"built around you"的矛头其实扎向所有人：她自己也从未被这世界围着转过。
+
+**读者视角提示：** 注意 Aster 并未替自己辩解，她直接把个人争执换成国家利益；读者随后应留意她面对丧子、婚姻与从军时，也不断调用这种话语置换。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 插叙母亲教歌唱时突然升调成认识论：truth 不是地面是地形（terrains，会移动）。makes a thing so 三个音节落地如判词——全书的史诗生成机制（Aster 如何被"传唱"成女英雄、Shadow King 如何被"相信"出来）都埋在这一句里。叙事者提前替主角交底：故事可以改写现实。
 
+**读者视角提示：** 母亲关于歌唱的知识由插叙提前放到这里，读到 Aster 被歌谣改造成传奇时，读者会认出这不是作者旁白，而是 Hirut 家族早已掌握的认识论。
+
 ---
 
 > **原句 6:** "Hirut begins to hum. As she removes one row after the other, keeping pace with the sad cadence of her wordless ballad, she starts to say her mother's name: Getey. She whispers it as she works, until nothing but the narrow mound of dirt rises to meet her gaze like an accusation."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** cadence · wordless · accusation
 
 **为什么这样写：** 上一章刚说完"她以歌唱改写现实"，这一章她立刻实践：wordless ballad（无词谣）是没有证词可留的哀悼。mound（坟丘状小土堆）把宝物坑写成一座坟——挖开它等于掘母坟，soil 里埋的是 Getey 传给她的一切。like an accusation 的指控对象含糊得精准：指控她藏宝？指控 Aster 逼她？还是指控这个世界？
+
+**读者视角提示：** Getey 的名字与土堆并置后，母亲不再只是回忆中的声音，而像随女儿被挖出；此后凡涉及母亲与土地、血缘的段落，都可回看这里形成的母题。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 全书伏笔管理的样板：ch01 开篇那道"like a broken necklace"的来历在此刻生成——而制造伤疤的正是项链本身出土引发的暴怒。craters（作动词，砸出环形坑）保留军事弹坑语义：鞭子是一具微型的战争机器。物（项链）→ 伤（疤）→ 记忆（全书的讲述起点），一个意象闭环咬合完成。
 
+**读者视角提示：** 此刻读者才明白，血线上的项链正是 Aster 刚挖出的物件；同一意象随后从伤口变成疤痕，暴力的发生与记忆的成形被压在同一条弧线上。
+
 ---
 
 > **原句 8:** "Then: It was for nothing? Aster shouts as she shakes Hirut by the shoulder. Was it for nothing?"
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** for nothing · shakes
 
 **为什么这样写：** 章末的问句表面在骂 Hirut 偷藏，真正击穿的是 Aster 自己：她九年隐忍、守口、顺从婚姻，"for nothing"。两问之间插着 shakes——她摇晃的是情敌还是那个嫁错了人的自己？Then: 的冒号让整章从叙述切进剧本式即时感：这一刻没有转述，只有声音。全书两个女人在这里第一次互相看见对方的伤口，虽然谁都不肯承认。
+
+**读者视角提示：** 重复的追问使“什么都没有”同时指向被埋起的物件、九年的婚姻生活与 Aster 刚刚显露的丧子痛；读者会意识到她问的不只是 Hirut。
 
 ## 本章词汇
 

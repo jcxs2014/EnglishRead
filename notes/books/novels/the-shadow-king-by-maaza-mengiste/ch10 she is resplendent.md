@@ -22,6 +22,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** "站在丈夫站过的位置"= 空间意义上的主权接管。随后自然界的集体屏息（树/风/鸟三主语连动）把一位出走主妇写出了英雄出场的气象规格——叙述者从本章开始用"传说级"笔法为 Aster 造像。pivot（旋转调头）与 ch09 士兵"pivoting in the light"互为回声：她成为被注视的中心。
 
+**读者视角提示：** Kidane 离场后，Aster 站上他的位置并借用他的披风，读者会意识到她不是复制丈夫的权力，而是在公开接管他留下的空位。
+
 ---
 
 > **原句 2:** "There is a madwoman on a wild horse blazing through the hills, she is stopping at every church and shouting into the heavens and calling wrathful angels down to Earth. … She is Empress Taitu resurrected to fight these ferenjoch."
@@ -31,6 +33,8 @@ modified: "2026-09-24"
 **关键词：** blazing · wrathful · resurrected
 
 **为什么这样写：** THE RUMORS 段是"史诗生成现场"：七日不见的出走先被村庄讲成神话（madwoman→nun→hyena→ghost→Taitu），再等本人回来。blazing（燃烧般疾驰）与 wrathful angels 显示民间口传如何给女性愤怒加装超自然合法性——Aster 私人的一次骑马，正在被编译成国家的预兆。Taitu（真实历史上主持迁都亚的斯亚贝巴、有政治手腕的皇后）被选中作模板：女性政治传统的招魂。
+
+**读者视角提示：** Aster 本人尚未归来，村庄已经替她安排好了形象；读到她日后真正穿男装时，读者要区分哪些动作是她的选择，哪些是传说先行赋予她的神话。
 
 ---
 
@@ -42,6 +46,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 厨娘深夜第一次对 Hirut 开枪：她看见了 ch05 办公室那一幕，憋了数章才甩出来。指责的错位最见底层同盟的裂痕——她骂的不是施暴的男主人而是"招灾"的女孩，因为指向 Kidane 的指控付不起代价。it’s your fault 的干脆与 ch07 Aster 的"你凭什么"构成主仆两套互相指认的话术，Hirut 被夹在两个女人的罪名单中间。
 
+**读者视角提示：** 厨娘对 Hirut 的责怪把一条多边形的共谋缩成“女人的错”；读者因此知道，她替 Aster 守密并不等于认可 Hirut 或 Kidane。
+
 ---
 
 > **原句 4:** "We came here in different ways, the cook says. … Not so different."
@@ -51,6 +57,8 @@ modified: "2026-09-24"
 **关键词：** different ways · Not so different
 
 **为什么这样写：** 五个词的微型史论：厨娘强调"我是被骗来的、你是嫁来的"，Aster 回一句"Not so different"——婚姻与仆役在同一种财产制度下共用出口。全书对"女性同盟"的论证内核就压在这两行对白里：差异是入场券的样式，共同点是都没有离场权。下文厨娘讨自由、Aster 用"我需要你"拦下的拉锯，全在此句延长线上。
+
+**读者视角提示：** 这场短谈把两位女性短暂放到同一位置，随后 Aster 说“我需要你”又立刻恢复上下级语法；读者会看见同盟是如何被需要重新收编的。
 
 ---
 
@@ -62,6 +70,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** Aster 的账本：母亲的地毯→枪；丈夫给的项链→不卖。她变卖的全是"女性传承"换来的都是"战争资本"，唯独留婚链——不是留恋婚姻，是留作 ch08 那个夜晚的物证与日后给儿子的遗嘱。That’s all that’s left 的 quietly 是本章唯一的音量降级：疯骑传说与卖毯壮举之后，剩下的是一个只剩一件嫁妆的女人。
 
+**读者视角提示：** 读者刚听见她把母亲遗物换成枪，下一句又拒绝交出婚链；这使项链同时成为战争的最后资产和婚姻创伤的私人锚点。
+
 ---
 
 > **原句 6:** "This is life, he says. Then he settles his palm on the gun, This is death. Never underestimate either."
@@ -71,6 +81,8 @@ modified: "2026-09-24"
 **关键词：** settles · Never underestimate
 
 **为什么这样写：** ch04 教枪课的压缩续篇：父亲把胸口的枪托位称作 life、把握把称作 death，两个名词教学里藏着他在战场摸过尸体的履历。"Never underestimate either"的 either 是眼——死亡被预设为"同样值得认真对待的邻居"，而 Hirut 此刻摸着 warm as skin 的枪托，正在走进父亲设计好的双重课。原文逗号接 "This is death" 的失格标点保留口授的急促。
+
+**读者视角提示：** 枪托的温度让父亲的课程从回忆重新进入 Hirut 的身体；此后她每次触枪，读者都应留意触碰究竟唤起训练、亲缘，还是被压住的暴力记忆。
 
 ---
 
@@ -82,6 +94,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 对 ch05 末"有些记忆该被别的记忆拦在门外"的反转：封锁坝自己漏了。被动语态 has slipped out 让记忆有自主意志——被压的过去不归人管、归时间管。滑出的内容正是本章最重倒叙：母亲 Getey 端枪对准 Kidane 之父 Checole、父亲抱住陌生人的腿乞求——Hirut 家与 Kidane 家的血债连线首次显影，为后文"两家的旧约"补上底牌。
 
+**读者视角提示：** 读者第一次和她同时获知这段家庭旧事，因此比 Getey 当年更接近真相；这种“后来者才拼全”的视角，也预告两家旧账将不断从遗忘中返场。
+
 ---
 
 > **原句 8:** "She is a perfect weight balancing an unruly world and grinding it back into place as she lifts a hand to her forehead, and salutes."
@@ -91,6 +105,8 @@ modified: "2026-09-24"
 **关键词：** perfect weight · unruly · grinding
 
 **为什么这样写：** 变身仪式的最后一帧：Empress Menen 在电波里说"战争毁灭人类"，Aster 在起居室里穿上男装、背枪、向收音机敬礼——帝国第一夫人用电波动员女性，她直接用动作回执。balancing/grinding 是机械与碾磨的双动词：她不是被战争动员，是她把倾斜的世界扳平。ch08 那个"正在消失"的女孩，在本章最后一个动作里重新在场。
+
+**读者视角提示：** 敬礼把广播里的公共号召转换成 Aster 私人的身体宣言；读者要注意 Hirut 仍是见证者而非参与者，她的“看见了什么”将成为下一阶段的叙事责任。
 
 ## 本章词汇
 

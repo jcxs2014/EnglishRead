@@ -25,6 +25,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 与 ch64 那对"早已洗不干净"的男女共用记号（stained/worn），说明体开始自己编织系列：这些不是散照，是同一场暴行的连拍。"像父亲的胸膛"是全章最疼的比喻：孩子的身体知道该靠什么，石头没有体温，他便把石头当有体温的——与 ch69 父亲"土地承载我们的苦难"的论述恰好相反：大人说土地记得我们，孩子只想要土地的体温。
 
+**读者视角提示：** 读完整章再回看，照片最先保存的不是动作而是依赖；于是“相机能否留住人”从结尾才浮现的疑问，在开篇便已潜伏。
+
 ---
 
 > **原句 2:** "He stares at the camera, doe-eyed and curious, his lips folded around a mouthful of food, a stream of words, a cry for help, a burst of laughter."
@@ -34,6 +36,8 @@ modified: "2026-09-24"
 **关键词：** doe-eyed · lips folded around · a cry for help
 
 **为什么这样写：** doe-eyed（小鹿眼）是英语写"天真"的现成套语，用在这里正是要让套语见血：猎物眼神配猎场。四个"一"（口／串／声／阵）的名词排比把照片里定格的嘴写活了——说明者无法确定那一刻嘴里是什么，索性把四种可能全数列出。这是照片说明体的极限自白：帧与帧之间的一切，只能在文字里同时为真。
+
+**读者视角提示：** 四种可能挤在同一张嘴里，照片越显得信息丰富，文字越暴露它的缺失；读到镜头无法稳定时，读者会意识到可拍与可知的裂缝从一开始就已存在。
 
 ---
 
@@ -45,6 +49,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** ch61 的"为耐心、为时间、为慈悲、为希望"与 ch63 的"一根手指，一次永恒的定罪"在此合流：同一根手指既是指控又是请求——孩子的姿势还没有学会把愤怒和恳求分成两件事。balances（平衡）一词提醒读者他正坐在崖边：他的手不是在打人，是在不被吹下去。
 
+**读者视角提示：** 同一手势被解释为控诉和求耐心，意味着照片中的姿态拒绝单义；留意后文囚徒如何追问观看者的名字，这只手势正可成为整场权力倒置的缩影。
+
 ---
 
 > **原句 4:** "His small heels dip over the plateau's edge, his broad toes cling desperately to earth."
@@ -54,6 +60,8 @@ modified: "2026-09-24"
 **关键词：** heels dip over · toes cling · desperately
 
 **为什么这样写：** 全章构图的心脏：上半身靠石头"安睡"，下半身悬在世界的边上——说明者只报身体部位，引力自己会完成控诉。dip 与 cling 一轻一重：轻的那半写天真（还不知道要掉下去），重的那半写身体先于心智的恐惧（脚趾已经知道）。与 ch66 父亲"身体被端点限制"的哲学对读：这个孩子的端点已经先到一步。
+
+**读者视角提示：** 真正被保存下来的不是孩子尚能说出的恐惧，而是身体已经知道的危险；这会让后文反复喊出的名字，更像求生本能与意志共同发出的声音。
 
 ---
 
@@ -65,6 +73,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 风景在本书里从不是背景：ravine 是"张着口的"（gaping 与 ch57 的 V 形裂口同一口型），美与凶同时成立。breathtaking 与"坠崖让人断气"构成词源级的反讽，frozen glimpse（冻住的一瞥）则与 ch65 目录体的静止呼应——照片冻结的是光，冻结不了的是那张口等在下一次的深谷。
 
+**读者视角提示：** 壮丽与致命同时入镜，读者会比照片说明者更早意识到审美正在替暴力遮掩；到处决段落，风景越美，镜头越显得与死亡共谋。
+
 ---
 
 > **原句 6:** "His face: a blur of tender features: the shaking head moving faster than shutter speed, swinging left then right then left again in defiance and horror."
@@ -74,6 +84,8 @@ modified: "2026-09-24"
 **关键词：** blur · faster than shutter speed · defiance and horror
 
 **为什么这样写：** 全书摄影链条的高科技殉难点：ch56 说拍照要"把人摁住"，ch63 的青年至少还能定格怒视，这个孩子用摇头直接赢了相机——模糊是他留下的反抗形状。技术细节（快门速度）成了暴力度量衡：头的速度大于快门，等于"我拒绝成为你的照片"。left then right then left again 的节奏本身在摇，句法仿拟了动作。
+
+**读者视角提示：** 把“看不清”只视为技术失败，就会错过孩子主动夺取影像解释权的可能；“拍不到”的名单由此开始显出另一层意义。
 
 ---
 
@@ -85,6 +97,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 说明体的自我拆界："拍不到的"之后紧接一段无法被影像证实的叙述——名字三连是全书"姓名工程"（ch66 账本、ch69 土地记忆）最孤绝的执行：没有人替他写进账本，他便自己喊到坠落。ricochet（弹射）把声音写成有轨迹的实物，撞在山壁上；tempering 是金属术语（回火）：土地像铁一样被自己的回声慢慢淬火变韧——全书对"故土"最复杂的一个动词：它行凶，它也哀悼。
 
+**读者视角提示：** 关键信息被明确挡在照片之外，却由叙述者补入，说明文字与照片结成互相纠错的档案；读者应把“无法拍到”当作另一种证词，而非单纯遗憾。
+
 ---
 
 > **原句 8:** "They say their names and demand to know his."
@@ -94,6 +108,8 @@ modified: "2026-09-24"
 **关键词：** say their names · demand to know his
 
 **为什么这样写：** 原文此句整句大写，说明体向叙事体的交接用音量完成。demand to know his 是全章的主动权翻转点：ch65 目录里无人有名、拍照者有签名，此刻囚徒要求给"观看者"建档——匿名是帝国的武器，他们要把它夺回来。这也兑现 ch63 "一根竖起的食指"的预告：审判已经开庭，被告需要姓名。
+
+**读者视角提示：** 当被拍摄者开始索取观看者的名字，权力关系已经从观看转成追问；照片与处决场在此紧密相接，前后两种声音不是叠加，而是接力。
 
 ---
 
@@ -105,6 +121,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** threshold（门槛）是本书死亡地理的固定词（ch57 崖口、ch66 五点钟）：跨过去就不是门，是断头台。笑声（ch66 男孩那声"意大利万岁"的余波）在此写成 mindless——不是胜利的笑，是神经的笑。爬向门槛再瘫倒，身体演完了"走向死亡"的全过程：帝国的仪式需要他们站着，身体拒绝配合。
 
+**读者视角提示：** 笑与倒下的先后值得留意：失控也可能是一种抵抗，帝国要求的仪式姿态在身体这里失效，而旁观者很容易把它误读成纯粹崩溃。
+
 ---
 
 > **原句 10:** "Light wavers around their sluggish figures: unsteady bodies sinking into haze."
@@ -114,6 +132,8 @@ modified: "2026-09-24"
 **关键词：** wavers · sluggish · sinking into haze
 
 **为什么这样写：** 全书"光"的伦理在此反转：光不再是帝国的资产（"三点半最好的光线"），它开始摇晃、不可靠——药物（astefaris）改写的不只是囚徒的感知，连镜头里的光都跟着失真。Ettore 的技艺以光为食，光开始晃，他的专业也随之失效。
+
+**读者视角提示：** 把光回看为帝国的技术资产，便能发现这一段的抖动不是气氛修饰，而是权力视觉秩序开始失灵；正因如此，照片的“真实”也开始摇晃。
 
 ---
 
@@ -125,6 +145,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** arches close 是摄影术语（光圈）第一次出现在叙事动作里：他的应对方案仍是技术参数——世界在失序，他先调镜头。ascari（殖民军雇佣兵）一词点明这套机器的本地零件。impossible to get a steady shot 是本章的技术性判决：模糊不再是他摇头的成果，而是秩序本身松动——"稳"从来是权力给的，此刻权力稳不住了。
 
+**读者视角提示：** 命令与失败紧邻，提醒读者别把 Ettore 只当被动摄影师：正是他试图用技术控制现场，而失败由此成为整套秩序失控的现场证词。
+
 ---
 
 > **原句 12:** "The prisoners tip over the edge with soft bones, relieved and graceless, and all Ettore can photograph are awkward figures buckling into empty space, shouting their names into a gulf that multiplies their voices, a repetitive, deafening chorus."
@@ -135,6 +157,8 @@ modified: "2026-09-24"
 
 **为什么这样写：** 三个反美学词（soft/relieved/graceless）拆解了坠崖可能被拍出的"飞翔感"——连死亡都不肯上相，这是对 ch65 那种精致目录最狠的报复。a gulf that multiplies their voices 与 ch67 前半 Zerihun 的 ricochet 同一物理机制：深谷是帝国挖的，扩音器却归了死者。chorus（合唱）宣告女仆的姓名工程胜利：名字一旦坠入深渊，就再也收不回来了。
 
+**读者视角提示：** 前一张照片靠补写声音延命，这一处则让群体声音压过视觉；读到这里应意识到，文字接管的并非细节，而是被帝国图像体系排斥的经历。
+
 ---
 
 > **原句 13:** "They spill over the edge as if gliding underwater, drowning and surging up for air, spinning between a rapturous dream and a paralyzing nightmare: ghastly shapes of unspeakable words: dark marks against the sky."
@@ -144,6 +168,8 @@ modified: "2026-09-24"
 **关键词：** spill · gliding underwater · rapturous / paralyzing · dark marks
 
 **为什么这样写：** 坠落的喻体从"飞"（ch66 学会飞）换成"淹"——空气在海里，是本章给"天使"补的写实的另一半。两个形容词极端对仗（狂喜／瘫痪）对应药物状态的两端：astefaris 让一部分人飘进梦，现实把另一部分人钉死。dark marks against the sky 是全书摄影美学的最终清算：把人拍成天空上的黑点，帝国以为得到的是战果清单，说明词却承认——那些是"说不出口的话的形状"。照片的尽头，小说把镜头递回给喊名字的人。
+
+**读者视角提示：** 末段把可见者压缩成不可读的黑色痕迹，读者应回看整章对“留下证据”的执着：即使记录成立，被记录者也已经失语。
 
 ## 本章词汇
 
