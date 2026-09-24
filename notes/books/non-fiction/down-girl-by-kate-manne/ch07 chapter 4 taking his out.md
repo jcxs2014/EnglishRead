@@ -142,15 +142,15 @@ source_text: ch07_chapter 4 taking his out.txt
 
 **为什么这样写**：Manne 以"竞价"（bid）而非"骚扰"来定位猫叫，因为她的模型不把它归入"敌意"（hostility）的范畴，而归入"应得"（entitlement）的范畴：他的竞价之所以理直气壮，正因为他相信她欠他注意力。这与 ch02"反应性态度"区分：这里的施动者并不愤怒于她拒绝，而是理直气壮于她"本该回应"。
 
-> **原句 10:** "her presence within those walls stood to deprive the male cadets of that to which they felt entitled, in the form of a guarantee against winding up shame faced in her eyes."
+> **原句 10:** "her presence within those walls stood to deprive the male cadets of that to which they felt entitled, in the form of a guarantee against winding up shame-faced in her eyes."
 
 **中文理解**：她在那道围墙之内的存在，足以剥夺那些男学员他们自以为应得的东西——即不会在她的目光中羞愧难当的保证。
 
-**句子结构**：主干为 her presence stood to deprive the male cadets of that；to which they felt entitled 为定语从句（修饰 that）；in the form of a guarantee against winding up shame faced in her eyes 为方式/内容状语。
+**句子结构**：主干为 her presence stood to deprive the male cadets of that；to which they felt entitled 为定语从句（修饰 that）；in the form of a guarantee against winding up shame-faced in her eyes 为方式/内容状语。
 
-**关键词**：stood to deprive, that to which they felt entitled, a guarantee against, winding up shame faced
+**关键词**：stood to deprive, that to which they felt entitled, a guarantee against, winding up shame-faced
 
-**表达方式**：以"围墙"（walls）暗喻封闭的男性空间，以"避免在她眼中蒙羞的保证"（a guarantee against winding up shame faced）作为"被剥夺之物"的荒谬具体内容。
+**表达方式**：以"围墙"（walls）暗喻封闭的男性空间，以"避免在她眼中蒙羞的保证"（a guarantee against winding up shame-faced）作为"被剥夺之物"的荒谬具体内容。
 
 **为什么这样写**：Manne 借 Faludi 对女子学院（Citadel）男生的描述指出：女性的在场之所以构成"剥夺"，不在于她占据了某个位置，而在于她的目光意味着被审视的可能。男性在此享有的"应得"是"免于被女性评价"的豁免——而这恰是"被剥夺"（deprive）的对象，显示厌女的"应得"常常是对他人主体性的否定。
 
@@ -202,13 +202,13 @@ source_text: ch07_chapter 4 taking his out.txt
 
 **为什么这样写**：Manne 引用 Erikson 却立刻扭转其方向：Erikson 描述的是羞耻者"想躲"的冲动，Manne 要论证的是"应得感式羞耻"（entitled shame）者"想毁"的冲动。"毁掉世界的眼睛"（destroy the eyes of the world）为下一段"家庭灭绝者"（family annihilator）的杀戮提供了心理学桥梁。
 
-> **原句 15:** "what’s “his for the taking” may include the lives of his female partner and their children, when the alternative is to wind up shame faced in their eyes, and then watch them move on without looking up to him."
+> **原句 15:** "what’s “his for the taking” may include the lives of his female partner and their children, when the alternative is to wind up shame-faced in their eyes, and then watch them move on without looking up to him."
 
 **中文理解**："他可取用之物"（his for the taking）可以包括他的女性伴侣与孩子的生命——当另一种选择是在她们的目光中羞愧难当、然后眼睁睁看她们离去、再也不仰望他的时候。
 
-**句子结构**：主干为 what's "his for the taking" may include the lives of his female partner and their children；when 引导时间/条件状语从句，内含两个并列分句（to wind up shame faced in their eyes / to watch them move on without looking up to him）。
+**句子结构**：主干为 what's "his for the taking" may include the lives of his female partner and their children；when 引导时间/条件状语从句，内含两个并列分句（to wind up shame-faced in their eyes / to watch them move on without looking up to him）。
 
-**关键词**：his for the taking, wind up shame faced, without looking up to him, the lives of his female partner
+**关键词**：his for the taking, wind up shame-faced, without looking up to him, the lives of his female partner
 
 **表达方式**：以"当……的时候"（when）把杀戮行为呈现为面对羞辱时的唯一选项，而非无缘无故的暴力。
 

@@ -276,7 +276,7 @@ source_text: ch08_chapter 5 humanizing hatred.txt
 
 **表达方式**：以 or, rather, 修正前项（wishful thinking → willful denial），加重"非认知性"（volitional）的成分。
 
-**为什么这样写**：Manne 借 Gaita 的材料提出一个 Gaita 自己"草率地略过"（dismissed rather summarily）的可能：M 的行为不是相信越南人情感浅，而是**不愿**相信——因为承认对方的主体性会引发罪疚（guilt）、羞耻（shame）或被压倒的同情（overwhelming compassion）。这正是"社会处境化"解释的具体机制：不是感知失败，而是意愿的规避。
+**为什么这样写**：Manne 借 Gaita 的材料提出一个 Gaita 自己"草率地略过"（dismissed rather summarily）的可能：M 的行为不是相信越南人情感浅，而是**不愿**相信——因为承认对方的主体性会引发罪疚（guilt）、羞耻（shame）或令人无法承受的同情（原文：confronting, even overwhelming 的 empathy 与 debilitating compassion）。这正是"社会处境化"解释的具体机制：不是感知失败，而是意愿的规避。
 
 > **原句 21:** "if, in fact, you are one"
 

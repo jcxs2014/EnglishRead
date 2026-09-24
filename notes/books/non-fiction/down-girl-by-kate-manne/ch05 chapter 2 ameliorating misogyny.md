@@ -80,7 +80,7 @@ source_text: ch05_chapter 2 ameliorating misogyny.txt
 
 **表达方式**：以"粘贴"（pasted over）这一具体动作为隐喻，将抽象的"类型化"还原为对具体面孔的暴力覆盖。
 
-**为什么这样写**：Manne 把"抽象敌意"具象为"贴上一张脸"——受害者成了某个原型（荡妇、独立女性、_repulsive woman_）的载体。这种"合成图像"（composite image）正是 ch07 "Suspecting Victims"（怀疑受害者）中"典型化"（typification）的心理基础。
+**为什么这样写**：Manne 把"抽象敌意"具象为"贴上一张脸"——受害者成了某个原型的载体，原文举例为"自私、孩子气、支配欲强的'女权主义者'"（selfish, childish, domineering "Feminazis"）。这种"合成图像"（composite image）正是 ch07 "Suspecting Victims"（怀疑受害者）中"典型化"（typification）的心理基础。
 
 > **原句 5:** "Rather than conceptualizing misogyny from the point of view of the accused, at least implicitly, we might move to think of it instead from the point of view of its targets or victims."
 

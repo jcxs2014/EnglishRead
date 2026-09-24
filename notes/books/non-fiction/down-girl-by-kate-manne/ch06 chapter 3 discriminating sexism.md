@@ -180,13 +180,13 @@ source_text: ch06_chapter 3 discriminating sexism.txt
 
 > **原句 13:** "Hence women who seek abortions, even to save their own lives, are a blank canvas on which to project a set of grievances borne of unmet felt needs in turn borne of a sense of entitlement."
 
-**中文理解**：因此，那些寻求堕胎的女性——即便为保命——也是一块空白画布（Balkanken），可供投射一系列委屈；这些委屈源自未满足的、被感知到的需要，而后者又源自一种应得感（entitlement）。
+**中文理解**：因此，那些寻求堕胎的女性——即便为保命——也是一块空白画布，可供投射一系列委屈；这些委屈源自未满足的、被感知到的需要，而后者又源自一种应得感（entitlement）。
 
 **句子结构**：主干为 women are a blank canvas（表语）；on which to project... 为后置定语修饰 canvas；borne of... in turn borne of... 为两个并列的过去分词短语作后置修饰，层层递进（委屈←需要←应得感）。
 
 **关键词**：blank canvas, project, unmet felt needs, a sense of entitlement
 
-**表达方式**：以"空白画布"（blank canvas）隐喻女性为被投射的屏幕，并以三个 borne of（源于）构成因果链：委屈源于需要，需要源于应得感。
+**表达方式**：以"空白画布"（blank canvas）隐喻女性为被投射的屏幕，并以两个 borne of（源于）构成因果链：委屈源于需要，需要源于应得感。
 
 **为什么这样写**：这是本章最具理论穿透力的假说：男性把自己的不满投射到女性身上，而女性因被视为"应该给予"（owed）的对象而成为理想的投射屏。链条的关键在"sense of entitlement"（应得感）——它是 ch02 序言的核心机制（entitled to rely on），在此获得了心理动力学的说明：厌女源于"被亏待感"（sense of being wronged），而"被亏待"的根据恰是那份不应有的应得感。
 
