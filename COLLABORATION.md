@@ -43,6 +43,23 @@
 
 ---
 
+### [2026-09-24 18:27 UTC] [Qoder-Mac] → All
+
+**《The Progress of Love》by Alice Munro 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/short-story-anthologies/the-progress-of-love-by-alice-munro/`；短篇合集 11 篇，共 11 个 md，每篇 10 处引语块 + 五子项 + 三档词汇 + 一句话总结；短篇集豁免总览三篇（无 `00_*.md`）。
+- 提交链：`ca8e35d4`（ch01 试产）→ `b7d53aae`（ch02–04）→ `c396d823`（ch05–06）→ `01764135`（ch07）→ `d752b97d`（ch08）→ `4ca71098`（ch09）→ `fdb727da`（ch10）→ `dbab4c27`（ch11 完工）→ `174f2729`（五步审查修复）。未 push。
+- 工具链修正：通用 `extract_chapters.py` 误收书末推广页为 ch12、误连 7 处独立词（`OLord`/`AQueer`）、每篇混入 `@page` CSS 残片 → 写本书专用提取器修正，11 篇干净；短篇合集文件名无 `ch` 前缀致 `check_vocab` 取不到章号 → 全部文件加 `source_text: chNN` 显式映射。
+- **a 门禁重跑**（不采信完工时旧数字）：`verify_quotes 108/108`（11/11 文件干净）· `check_vocab 680 行 FAIL0/WARN0` · `check_entities 0`。
+- **b 逐章归属**：改用**全串 flat 扫描**（区别于写作时 `check_chapter_quotes` 的 52 字符指纹路径），抓出 3 处指纹盲区缺陷——ch03 跨叙述标签拼接、ch04 `treacherous` 擅改为 `treacherously`、ch07 省略号右侧补入原文不存在的从句。修复后全串 `109/109` 零 MISS。
+- **c 结构扫描**：110 块编号连续、五子项齐全、无孤儿块；抓出 ch03 原句 2/3 引语完全重复（b 步修复副作用），改用后段独立引文。
+- **d 语义二审**：关键词锚定 110/110、分析层英文片段全量 flat 比对、数字断言逐条回原文。修复 8 处关键词未锚定、3 处分析层英文与原文不符（ch01 漏 `and`、ch02 `wished`→`wishes`、ch03 原文无 `that's`）、4 处无原文依据的年龄/年份推断。
+- **e 事实层**：一句话总结层英文片段 0 条；核心人名跨书检索仅通用名巧合，`check_entities` 0 未知实体，无跨书污染。
+- 终验：`verify_quotes 108/108` · vocab `680 行 FAIL0/WARN0` · entities `0` · 全串 flat `109/109` · 结构与关键词锚定 `110/110` 零错误 · 2 条 <20 字符短引语人工 grep 兜底命中本章。
+- 已知局限：用户于本会话主动发起五步审查，a–e 已完整执行不得因同会话而降低标准；但**全书统一口径的系统性误判**（如对 Munro 句法的统一理解偏差）同一模型无法自查发现，如需更强独立性建议另指定异实例复核。
+
+---
+
 ### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
 
 **《The Do-Over》by Suzanne Park 全书精读 + 独立五步审查完成**
@@ -301,3 +318,17 @@
 - 审查发现并修复：①ch05"Where will I hide?"非章末（章末另有Anton农场/Amor屋顶场景）②概述Astrid关系"姨姐"→"姐姐"③概述承诺指向修正（Manie-Salome/Astrid-Batty/Manie-情人）
 - 关键发现：承诺与背叛·南非种族隔离后遗症·"空"的母题（候诊室/窗口）·回旋镖隐喻
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
+
+---
+
+### [2026-09-24] [OpenCode-Mac] → All
+
+**《The Happiness Blueprint》by Ally Zetterberg 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/novels/the-happiness-blueprint-by-ally-zetterberg/`；67 章（Part One ch01–17、Part Two ch18–46、Part Three ch47–65、One Year Later ch66–67）+ `概述.md`、`金句精选.md`、`情感节点.md`。
+- 体裁：当代言情／情感小说，Klara 与 Alex 双第一人称 POV；主题为数字与身体自我、创伤／正义与修复、chosen family 与共同生活。
+- 最终门禁：章节 `verify_quotes 475/475`（8 条短引语人工 grep 全部 HIT）· `check_vocab 2415` 条，FAIL0/WARN0 · `check_entities 0` · `check_chapter_quotes 475/475` · exact-contiguous 483/483 · 结构 67 文件、编号连续、四子项齐全、零孤儿 · `check_crossref 0 对/报警 0`。
+- 总览门禁：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 25/25，共 68/68；总览章节标签逐条对账 0 mismatch；H1 语义与文件名一致。`情感节点` 的工具解析盲区已用逐条原文 flat 对账兜底。
+- 完整提交链：`a7cac349` · `cfb9cde4` · `cb2e2cf5` · `10d28cd7` · `c5e117f0` · `4bd3f4c5` · `2f0e9118` · `823e348b` · `6c67e833` · `b20f99a2` · `d0b6e245`（ch29–31 并行重置后恢复）· `7bc3b99b` · `f06f278f` · `8cd6ad1d` · `2152e4ad` · `ea3c4daa` · `8fdf5222` · `b4802d78` · `c4358764` · `404cfb34` · `54c2e303` · `0306ae4d` · `5224340f`（ch64 连续引文修复、ch65–67、总览三篇）。
+- 状态：目标书工作树干净，跟踪文件 70 个；未 push。五步独立审查未自动启动，待用户另行发起；本条为本书唯一完工记录。
+
