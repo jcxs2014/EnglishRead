@@ -8,11 +8,11 @@ source_text: ch34_chapter_thirty_three.txt
 
 ## 本章导航
 
-- **一句话概括**：Lily 和 Jake 回到十二年前分手的长椅，先各自讲述当年的压力和伤害，再承认彼此都已经改变；两人互相道歉、表达爱意并接吻，但 Lily 仍保留 TA/学生边界，把复合放在谨慎而诚实的重新开始上。
+- **一句话概括**：Lily 和 Jake 回到十多年前分手的长椅，先各自讲述当年的压力和伤害，再承认彼此都已经改变；两人互相道歉、表达爱意并接吻，但 Lily 仍保留 TA/学生边界，把复合放在谨慎而诚实的重新开始上。
 - **情感弧线位置**：关系高潮——旧伤被完整说出口，Jake 的道歉不再只是解释，Lily 也从独自承担创伤走向接受一个同样改变过的人。
 - **Tropes 兑现/反转**：前任重逢、旧地点重建记忆、双向道歉和复合；浪漫高潮没有抹掉 Title IX、校园声誉和历史责任，而是让两人在边界内选择重新开始。
 - **人物弧线**：Lily 从担心重蹈覆辙到说“I love you too”，同时仍明确自己是学生、关系不能凌驾于学业；Jake 从解释家庭压力转为承担自己当时的自私和沉默。
-- **叙事手法**：长椅作为旧地点把十年前和现在叠合；雪景制造浪漫滤镜，身体麻木、胸口紧缩和历史叙述又把场景拉回真实后果，最后以“future, not shit”的玩笑降回亲密日常。
+- **叙事手法**：长椅作为旧地点把十多年前和现在叠合；雪景制造浪漫滤镜，身体麻木、胸口紧缩和历史叙述又把场景拉回真实后果，最后以“future, not shit”的玩笑降回亲密日常。
 
 ## 精读
 
@@ -22,7 +22,7 @@ source_text: ch34_chapter_thirty_three.txt
 
 **关键词：** easier to meet in person / phone reception / too numerous and confusing
 
-**为什么这样写**：两个 `because` 原因分列，信号问题和信息过载都指向同一个选择：面对面。`too numerous and confusing` 把双方的无序状态具体化，说明他们需要的不是更多文字，而是重新共享一个空间。
+**为什么这样写**：一个 `because` 从手机信号问题延伸到信息过载，两个结果都指向同一个选择：面对面。`too numerous and confusing` 把双方的无序状态具体化，说明他们需要的不是更多文字，而是重新共享一个空间。
 
 **读者视角提示**：旧地点因此不只是浪漫布景，也是解决误会的技术选择；读者会期待两人能否让现场对话超过过去的文字。
 
@@ -78,7 +78,7 @@ source_text: ch34_chapter_thirty_three.txt
 
 > **原句 7:** \"I know I don’t deserve it, but if you find it in your heart to forgive me, I’d do anything for a second chance at . . . us.\"
 
-**中文理解**：“我知道我不配得到原谅，但如果你能在心里给我一个机会，让我为‘我们’再争取一次机会，我愿意做任何事。”
+**中文理解**：“我知道自己不配得到原谅，但如果你能在心中原谅我，我愿意做任何事，只为再得到一次‘我们’的机会。”
 
 **关键词：** don’t deserve it / find it in your heart / forgive me / a second chance at . . . us
 

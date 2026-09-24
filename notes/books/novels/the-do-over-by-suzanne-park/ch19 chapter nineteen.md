@@ -30,7 +30,7 @@ source_text: ch20_chapter_nineteen.txt
 
 **中文理解：** 以前我做过这个梦的不同版本——报名了却没去上课，甚至忘了自己选过；进了期末考场才发现错过了考试；甚至光着身子参加期末考——而最近几个月，这些梦越来越频繁。
 
-**关键词：** variations of this dream / forgot I enrolled / gotten more frequent
+**关键词：** variations of this dream / forgetting I enrolled / gotten more frequent
 
 **为什么这样写：** 破折号把几个失败场景串成 escalating 的清单，从缺课、错过考试到梦中裸身面对考试，焦虑的范围不断扩大。`more frequent` 让梦境不再是好玩的巧合，而像持续返回的心理警报。
 
@@ -52,7 +52,7 @@ source_text: ch20_chapter_nineteen.txt
 
 **关键词：** constantly thought / not measuring up / concerned about failure
 
-**为什么这样写：** `How could I tell him` 先把坦白写成沟通难题，后面的 `constantly` 与 `always` 把频率推到持续状态。`not measuring up` 是不完整的否定结构，像 Lily 只敢用半句话描述自己的自我审判。
+**为什么这样写：** `How could I tell him` 先把坦白写成沟通难题，后面的 `constantly` 与 `always` 把频率推到持续状态。`not measuring up` 把自我评价压缩成一个完整的否定动名词短语，却让 Lily 显得只敢用最低限度的话描述自己的失败感。
 
 **读者视角提示：** 她并非不知道如何获得支持，而是认为没有资格把失败和压力说出口；这为读者理解她后来接受帮助留下空间。
 

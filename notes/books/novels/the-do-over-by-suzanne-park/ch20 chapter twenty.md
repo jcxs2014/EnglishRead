@@ -42,7 +42,7 @@ source_text: ch21_chapter_twenty.txt
 
 **关键词：** studying for exams / hanging out at Jake’s / the last possible moment
 
-**为什么这样写：** `so much time` 和 `the last possible moment` 把时间冲突写成一条逐渐收紧的绳子；两个 `and` 让学习与恋爱成为同时占用她的资源。作者用事实而非责备承认她的分心，也保留了她需要自己承担后果的部分。
+**为什么这样写：** `so much time` 和 `the last possible moment` 把时间冲突写成一条逐渐收紧的绳子；一个 `and` 把备考与 Jake 的陪伴并置，说明两件事同时占用了她的资源。作者用事实而非责备承认她的分心，也保留了她需要自己承担后果的部分。
 
 **读者视角提示**：Lily 不是没有目标，而是把当下的快乐放在了学位手续之前；Mia 的干预因此有充分理由。
 
@@ -62,7 +62,7 @@ source_text: ch21_chapter_twenty.txt
 
 **关键词：** Cultural stigmas / mental health support / prevented me from getting help
 
-**为什么这样写：** 两个破折号插入的短语把社群和家庭两层压力并置，`prevented` 把复杂的文化经验压缩成一个结果。句子不是简单说家人不好，而是说明羞耻和污名如何延迟求助；叙述者用现在完成时的洞察回望过去的限制。
+**为什么这样写：** 一对破折号把家庭羞耻这一插入语与前面的社群污名并置，`prevented` 以一般过去时概括过去被延误的求助。句子不是简单说家人不好，而是说明羞耻和污名如何延迟求助；叙述者是在现在回望并重新理解当时的限制。
 
 **读者视角提示**：这段话把 Lily 的个人选择放入结构性语境，也解释了为什么她直到现在才更能谈论焦虑和支持。
 
@@ -88,11 +88,11 @@ source_text: ch21_chapter_twenty.txt
 
 > **原句 8:** "Also a re-ex? My mind spun to the point of dizziness."
 
-**中文理解：** “所以我也是一个前任复合对象？”我的脑子 spun（旋转）到头晕。
+**中文理解：** “所以我也是一个前任复合对象？”我的脑子旋转到头晕。
 
 **关键词：** a re-ex / My mind spun / dizziness
 
-**为什么这样写：** `re-ex` 是 Lily 在情绪中临时造出的标签，把 Jake 的复合行为和自己可能的角色压缩到同一个词；`mind spun` 与 `dizziness` 让想法和身体旋转相连。她不是已经证实了“rebound”，而是让可能性在眩晕中迅速扩大。
+**为什么这样写：** `re-ex` 这个标签先由 Mia 抛出，Lily 随即把它转向自己，意识到自己也可能是某种 rebound/re-ex；`mind spun` 与 `dizziness` 让想法和身体旋转相连。她不是已经证实了“rebound”，而是让可能性在眩晕中迅速扩大。
 
 **读者视角提示**：本章的危机来自解释不足和照片证据的并置；读者会等待 Jake 说明这段关系的真实时间和性质。
 

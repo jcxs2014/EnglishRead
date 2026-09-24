@@ -22,7 +22,7 @@ source_text: ch09_chapter_eight.txt
 
 **关键词：** motivated by food / Specifically, free food / club meetings
 
-**为什么这样写：** 句子先用比较级把 Mia 的特点推到极端，再用 `Specifically` 自我修正，揭示她追求的不是食物本身，而是免费和社交场景的组合。`club meetings` 让动机获得校园制度背景，读者立刻明白这场巡游的路线。
+**为什么这样写：** 句子先用比较结构把 Mia 的特点推到极端，再用 `Specifically` 自我修正，揭示她追求的不是食物本身，而是免费和社交场景的组合。`club meetings` 让动机获得校园制度背景，读者立刻明白这场巡游的路线。
 
 **读者视角提示：** Mia 的行动逻辑被写得坦率又可爱；她带 Lily 穿过校园组织，也把两位女孩的友谊和校园生活连接起来。
 
@@ -38,11 +38,11 @@ source_text: ch09_chapter_eight.txt
 
 > **原句 3:** The doctor at the Student Health Clinic says for me to lay off soda or anything acidic; he thinks that can help calm some of my stomach pain.
 
-**中文理解：** 校医说，我应该少喝汽水或任何酸性饮品；他认为这有助于缓解我的胃痛。
+**中文理解：** 校医说，我应该停喝或避免喝汽水以及任何酸性饮品；他认为这有助于缓解我的胃痛。
 
 **关键词：** lay off soda / anything acidic / calm some of my stomach pain
 
-**为什么这样写：** `lay off` 在这里是“暂停或减少摄入”，比直接说 stop 更像医嘱；分号把医生的话和解释分成两层。身体的不适没有被夸张成重大疾病，却被写成 Lily 必须调整日常习惯的现实约束。
+**为什么这样写：** `lay off` 在这里是“暂停或避免摄入”，比直接说 stop 更像医嘱；分号把医生的话和解释分成两层。身体的不适没有被夸张成重大疾病，却被写成 Lily 必须调整日常习惯的现实约束。
 
 **读者视角提示：** 自由食物的轻松叙述在这里被身体警报打断；读者会开始注意 Lily 在大学时期已经习惯管理自己的脆弱。
 
@@ -62,7 +62,7 @@ source_text: ch09_chapter_eight.txt
 
 **关键词：** the way he was speaking / try to talk / humanize themselves
 
-**为什么这样写：** 夸张的 `serial killers` 把普通的谨慎放大成危险想象，`humanize` 则给这种想象一个反讽的核心：Jake 看似在努力让自己显得无害。比较级和目的状语让 Lily 的判断既机警又带喜剧性。
+**为什么这样写：** 夸张的 `serial killers` 把普通的谨慎放大成危险想象，`humanize` 则给这种想象一个反讽的核心：Jake 看似在努力让自己显得无害。`reminded me of` 的比较结构和 `so` 引导的结果让 Lily 的判断既机警又带喜剧性。
 
 **读者视角提示：** 这不是对 Jake 的真实评价，而是 Lily 用夸张类比处理陌生人的方式；读者会在 humor 和警觉之间读出她谨慎的外壳。
 
@@ -82,7 +82,7 @@ source_text: ch09_chapter_eight.txt
 
 **关键词：** A pull / A tug / gentle easing
 
-**为什么这样写：** 三个短句用重复的句法模拟情绪逐渐松动的过程；`pull` 和 `tug` 都是轻微动词，最后的 `easing` 才带来方向变化。作者把心动写成身体内部慢慢松开的过程，而不是突然爆发的强烈冲击。
+**为什么这样写：** 三个短句用重复的句法模拟情绪逐渐松动的过程；`pull`、`tug` 和 `easing` 在这里都是隐喻性的名词片段，最后的 `easing` 才带来方向变化。作者把心动写成身体内部慢慢松开的过程，而不是突然爆发的强烈冲击。
 
 **读者视角提示：** Lily 没有用“爱”或“喜欢”命名感受，读者会从身体的松绑中读出她正在允许自己靠近。
 

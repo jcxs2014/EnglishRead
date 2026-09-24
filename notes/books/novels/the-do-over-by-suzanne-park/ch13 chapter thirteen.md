@@ -26,17 +26,7 @@ source_text: ch14_chapter_thirteen.txt
 
 **读者视角提示：** 猫的出场先制造悬念和可爱，再间接回应 Lily 对 Jake 生活方式的想象；读者会等待她是否承认自己其实在注意他。
 
-> **原句 2:** I got invited to a frat party LOL
-
-**中文理解：** 我被邀请参加兄弟会派对，哈哈。
-
-**关键词：** got invited / a frat party / LOL
-
-**为什么这样写：** 句子用短信式的短表达和 `LOL` 把邀请的语气写得很轻，仿佛这不是一个会触发 Lily 不安的活动，而只是校园群里的一条普通消息。`got invited` 保留了被动结构，也暗示她还没有主动选择要走进这个社交场景。
-
-**读者视角提示：** Lily 先把邀请当作笑话，随后才意识到它可能要求她重新扮演“年轻人”；轻描淡写与后续焦虑形成反差。
-
-> **原句 3:** I still couldn’t get over how this photograph was possibly worse than any high school yearbook image, corporate security badge picture, or double-chin-angled selfie taken by someone with short arms.
+> **原句 2:** I still couldn’t get over how this photograph was possibly worse than any high school yearbook image, corporate security badge picture, or double-chin-angled selfie taken by someone with short arms.
 
 **中文理解：** 我仍然无法接受，这张照片可能比任何高中年鉴照、企业证件照，或由手臂太短的人拍出的双下巴自拍都糟糕。
 
@@ -46,17 +36,17 @@ source_text: ch14_chapter_thirteen.txt
 
 **读者视角提示：** 读者会同时觉得她夸张和心酸：她不是客观评价照片，而是在寻找一个最坏的参照来证明自己不适合这个校园。
 
-> **原句 4:** I had no game plan. I’d already finished the week’s lesson. And the following week’s one as well.
+> **原句 3:** I got invited to a frat party LOL
 
-**中文理解：** 我没有行动计划；这一周的课程我已经学完了，下一周的也学完了。
+**中文理解：** 我被邀请参加兄弟会派对，哈哈。
 
-**关键词：** no game plan / the week’s lesson / the following week’s one
+**关键词：** got invited / a frat party / LOL
 
-**为什么这样写：** 三个短句都用完成时 `had ...` 制造过去完成的动作，却把 Lily 的现在导向空白；“没有计划”不是她不想做事，而是她已经做完能做的事，只能用无目的行动填补空白。重复的 `week` 还让她看见自己被困在循环里。
+**为什么这样写：** 句子用短信式的短表达和 `LOL` 把邀请的语气写得很轻，仿佛这不是一个会触发 Lily 不安的活动，而只是校园群里的一条普通消息。`got invited` 保留了被动结构，也暗示她还没有主动选择要走进这个社交场景。
 
-**读者视角提示：** 她去 Jake 办公室并不真正需要学习问题，读者会感到她正在用靠近前任来逃避“无事可做”的失重感。
+**读者视角提示：** Lily 先把邀请当作笑话，随后才意识到它可能要求她重新扮演“年轻人”；轻描淡写与后续焦虑形成反差。
 
-> **原句 5:** A sense of urgency jolted me into action.
+> **原句 4:** A sense of urgency jolted me into action.
 
 **中文理解：** 一种紧迫感猛地把我推向了行动。
 
@@ -65,6 +55,16 @@ source_text: ch14_chapter_thirteen.txt
 **为什么这样写：** `jolted me` 用突然的冲击动作表现外部刺激的力量，`into action` 则把心理感受迅速转成行为结果。句子很短，说明她还没有想清楚目的，身体已经先替她做了决定。
 
 **读者视角提示：** Lily 的行动速度再次证明她容易被当下的刺激带走；这既是喜剧来源，也是她需要学习辨别自己真正欲望的地方。
+
+> **原句 5:** I had no game plan. I’d already finished the week’s lesson. And the following week’s one as well.
+
+**中文理解：** 我没有行动计划；这一周的课程我已经学完了，下一周的也学完了。
+
+**关键词：** no game plan / the week’s lesson / the following week’s one
+
+**为什么这样写：** 第一句说明 Lily 当时没有计划；后两句用过去完成时和省略结构说明课程已经提前完成。重复的 `week` 把她困在“做完事情却没有下一步”的循环里。
+
+**读者视角提示：** 她去 Jake 办公室并不真正需要学习问题，读者会感到她正在用靠近前任来逃避“无事可做”的失重感。
 
 > **原句 6:** "Where we’re going, the drinks are free. The frat party!"
 

@@ -90,7 +90,7 @@ source_text: ch13_chapter_twelve.txt
 
 **中文理解：** 这些云会不会是我人生的隐喻？其中有没有银色边缘？而 Jake Cho 代表的究竟是云，还是那道银色边缘？
 
-**关键词：** clouds as a metaphor / a silver lining / Jake Cho represent
+**关键词：** these clouds / a metaphor for my life / a silver lining
 
 **为什么这样写：** 三个问句把天气意象转成开放的自我解释，`silver lining` 不再只是天气短语，而成为 Lily 重新判断经历的希望工具。最后一个问题刻意不回答，保留言情线的多义性：Jake 可能带来压力，也可能带来出口。
 

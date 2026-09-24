@@ -38,7 +38,7 @@ source_text: ch07_chapter_six.txt
 
 > **原句 3:** "It appears that your major is no longer one we offer. As such, I’m loath to say that you will need to pick a new major."
 
-**中文理解：** “看来你原来的专业学校已经不再开设了。因此，我很难过地告诉你，你需要重新选择一个专业。”
+**中文理解：** “看来你原来的专业学校已经不再开设了。因此，我实在很不情愿地告诉你，你需要重新选择一个专业。”
 
 **关键词：** no longer one we offer / loath to say / pick a new major
 

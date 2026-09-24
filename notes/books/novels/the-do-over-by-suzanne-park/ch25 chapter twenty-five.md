@@ -22,7 +22,7 @@ source_text: ch26_chapter_twenty_five.txt
 
 **关键词：** Exhausting / Exhilarating / something I wanted to do
 
-**为什么这样写：** 三个短句先以反问开始，再给出两个相反却互补的形容词，最后回到明确愿望。`Exhausting` 与 `Exhilarating` 的并置保留了机会的真实成本，没有把求职写成轻松的奖励。
+**为什么这样写：** `How did it sound?` 先复述招聘人员的问题，随后以三个极短回答依次给出“疲惫”“兴奋”和“想做”；`Exhausting` 与 `Exhilarating` 的并置保留了机会的真实成本，没有把求职写成轻松的奖励。
 
 **读者视角提示**：Lily 已经把复杂的职业判断压缩成身体和情绪都能感受到的三个词；读者能听见她既害怕又想要。
 

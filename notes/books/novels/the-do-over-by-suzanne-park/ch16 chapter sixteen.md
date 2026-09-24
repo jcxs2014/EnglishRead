@@ -36,13 +36,13 @@ source_text: ch17_chapter_sixteen.txt
 
 **读者视角提示：** 读者会意识到 Jake 的关心不能脱离职责判断；他越认真，越让这次谈话不只是私人暧昧。
 
-> **原句 3:** "Would you like any help? I have some time before I have to go and I know the last lecture was a lot to take in."
+> **原句 3:** "Would you like any help? I have some time before I have to go and I know the last lecture was a lot to take in, I could see it in everyone’s faces."
 
-**中文理解：** “你需要帮助吗？我还有一点时间才得走，而且我知道上一堂课内容很难。”
+**中文理解：** “你需要帮助吗？我还有一点时间才得走，而且我知道上一堂课内容很难，我能从每个人的脸上看出来。”
 
-**关键词：** Would you like any help / I have some time / a lot to take in
+**关键词：** Would you like any help / I have some time / a lot to take in / I could see it in everyone’s faces
 
-**为什么这样写：** 句子用问句给 Lily 主动选择的机会，`I have some time` 和 `a lot to take in` 同时提供资源与共情。Jake 没有直接替她解决，而是先承认她的困难，再把帮助放在她可以接受的位置。
+**为什么这样写：** 句子用问句给 Lily 主动选择的机会，`I have some time`、`a lot to take in` 和 `I could see it in everyone’s faces` 同时提供资源与共情。Jake 没有直接替她解决，而是先承认她的困难，再把帮助放在她可以接受的位置。
 
 **读者视角提示：** 这是一个重要的关系转折：她可以接受专业帮助，而不必把它解释成欠人情或失去独立。
 
@@ -88,7 +88,7 @@ source_text: ch17_chapter_sixteen.txt
 
 > **原句 8:** Perhaps I could do this after all, but it might need to be an entirely different book.
 
-**中文理解**：也许我最终能做到，但这本书可能需要彻底换一种写法。
+**中文理解**：也许我最终能做到，但这本书可能需要变成完全不同的另一本书。
 
 **关键词：** Perhaps I could do this / entirely different book
 

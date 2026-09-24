@@ -4,7 +4,7 @@ modified: "2026-09-24"
 source_text: ch22_chapter_twenty_one.txt
 ---
 
-# 21. Chapter Twenty One
+# 21. Chapter Twenty-One
 
 ## 本章导航
 
@@ -42,7 +42,7 @@ source_text: ch22_chapter_twenty_one.txt
 
 **关键词：** a fresh wound / critical midterm season / Fantastic
 
-**为什么这样写：** 破折号把心伤和考试季并置，`Fantastic` 用反讽回应自己的倒霉处境。短句节奏像受伤后的冷幽默，表面上可笑，底下却是她觉得多重压力同时落下来的真实疲惫。
+**为什么这样写：** 句号把“心伤叠加在关键期中季”的陈述与独立的 `Fantastic` 分开，形成冷幽默的两个短拍；`Fantastic` 以反讽回应多重压力。短句节奏像受伤后的自嘲，表面上可笑，底下却是她觉得多重压力同时落下来的真实疲惫。
 
 **读者视角提示**：浪漫危机没有让学业线暂停，反而与 deadlines 叠在一起；Lily 必须先处理情绪，才能处理考试和作者活动。
 
@@ -52,7 +52,7 @@ source_text: ch22_chapter_twenty_one.txt
 
 **关键词：** We were over / started dating again / ten-year high school reunion
 
-**为什么这样写：** `We were over` 先给出结论，`but` 再承认后来复合的时间线，`had a fun time together` 则把复合的起点写得轻巧而不复杂。句子的过去时和 `years later` 让 Lily 必须重新校准自己对“现在”的理解。
+**为什么这样写：** `We were over` 先给出结论，`and yes` 补充多年后重新交往的时间线，`had a fun time together` 则把复合的起点写得轻巧而不复杂。句子的过去时和 `years later` 让 Lily 必须重新校准自己对“现在”的理解。
 
 **读者视角提示**：解释有一部分合理，却没有直接回答那张订婚照片为什么仍在书架上；信息缺口因此继续存在。
 
@@ -62,7 +62,7 @@ source_text: ch22_chapter_twenty_one.txt
 
 **关键词：** adult lives / diverged / more different
 
-**为什么这样写：** `diverged` 用路径分开的隐象描述关系变化，`more different than ever` 则把差异推到最高级。它听起来像客观总结，却隐藏了双方如何分配责任、如何结束关系的叙事。
+**为什么这样写：** `diverged` 用路径分开的隐象描述关系变化，`more different than ever` 用比较级把两人的差异推向过去未曾有过的程度。它听起来像客观总结，却隐藏了双方如何分配责任、如何结束关系的叙事。
 
 **读者视角提示**：Jake 给出“不同所以分开”的理由，读者会把它与 Lily 问的“是否只是方便”联系起来，而不是立刻接受。
 
@@ -78,11 +78,11 @@ source_text: ch22_chapter_twenty_one.txt
 
 > **原句 7:** "I’m keeping the class. I’m going to do my best, study hard, try to ace the exam, and then see what happens with that internship."
 
-**中文理解：** “我会保留 CS 课。我会尽力、努力学习、争取考试拿高分，然后看看那份实习机会会怎样。”
+**中文理解：** “我会保留这门课。我会尽力、努力学习、争取考试拿高分，然后看看那份实习机会会怎样。”
 
-**关键词：** keeping the CS class / study hard / try to ace the exam
+**关键词：** keeping the class / study hard / try to ace the exam
 
-**为什么这样写：** 四个短动作从课程到考试再到实习排列，形成一条现实的行动链；`try to ace` 把目标写得很具体，而不是用“尽我所能”泛泛承诺。Lily 在感情失落后仍能把选择落实到学业，展示出优先级重建。
+**为什么这样写：** 五个连续动作从课程延伸到考试和实习，形成一条现实的行动链；`try to ace` 把目标写得很具体，而不是用“尽我所能”泛泛承诺。Lily 在感情失落后仍能把选择落实到学业，展示出优先级重建。
 
 **读者视角提示**：她没有因为 Jake 离开就放弃新领域，反而把失望转成继续学习的理由；这也是她对“重新做一遍”最实际的回应。
 

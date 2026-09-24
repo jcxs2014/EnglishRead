@@ -38,7 +38,7 @@ source_text: ch27_chapter_twenty_six.txt
 
 > **原句 3:** "You need to be able to do a full seventy-five yards without any breaks."
 
-**中文理解：** “我需要能够不间断游完完整的七十五码。”
+**中文理解：** “你需要能够不间断游完完整的七十五码。”
 
 **关键词：** full seventy-five yards / without any breaks
 
@@ -82,7 +82,7 @@ source_text: ch27_chapter_twenty_six.txt
 
 **关键词：** second college journey / a sad slice / Plexiglas partition
 
-**为什么这样写：** `second college journey` 把回归校园重新命名，`sad slice` 与具体地点让开端保留失败感；`Plexiglas partition` 把 registrar office 的物理隔断变成记忆中的分界线。句子用对称的过去和现在建立回望距离。
+**为什么这样写：** `second college journey` 把回归校园重新命名，`sad slice` 与具体地点让开端保留失败感；`Plexiglas partition` 把 registrar office 的物理隔断变成记忆中的分界线。句中的 `had started` 把开端写成已经封存的旧记忆。
 
 **读者视角提示**：第一章的蛋糕不是被删掉的开端，而是本章庆功蛋糕的回声；Lily 的第二次旅程从一开始就带着被拒绝的痕迹。
 

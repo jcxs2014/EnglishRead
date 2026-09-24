@@ -8,17 +8,17 @@ source_text: ch35_chapter_thirty_four.txt
 
 ## 本章导航
 
-- **一句话概括**：O’Hara 的公开活动从 Cameron 的挑衅开始，莉莉在全场观众面前解释返校、Solv 实习和自我怀疑，随后宣布新书《Type AMinus》；她没有让学历污名决定自己，而是把失败、治疗和第二次尝试变成公共叙事。
+- **一句话概括**：O’Hara 的公开活动从 Cameron 的挑衅开始，Lily 在全场观众面前解释返校、Solv 实习和自我怀疑，随后宣布新书，暂定书名为《Type AMinus》；她没有让学历污名决定自己，而是把失败、焦虑和第二次尝试写成未来的公共叙事。
 - **情感弧线位置**：高潮后的公开胜出——个人隐私被 Cameron 再次攻击，Mary、Mia、Jake 和观众却构成支持场；Lily 从被审问者转为主动发言者和新书作者。
-- **Tropes 兑现/反转**：公开问答、媒体审视、前任/对手挑衅和“冒名者”主题；Cameron 想用学历定义她，Lily 反而把学历漏洞、实习和不完美经历整合成专业身份。
-- **人物弧线**：她承认过去的 career ruse 和错误，但拒绝道歉到自我抹除；她用“no one is born an expert”重新解释自己的第二次学习，也让读者看见脆弱与自我倡导可以同时存在。
+- **Tropes 兑现/反转**：公开问答、媒体审视、对手挑衅和“冒名者”主题；Cameron 想用学历定义她，Lily 反而把学历漏洞、实习和不完美经历整合成专业身份。
+- **人物弧线**：她面对 Cameron 对 career ruse 的指控，承认自己对学历状况不知情并修正公开信息，但不承认自己明知故意维持骗局；她用“no one is born an expert”重新解释自己的第二次学习，也让读者看见脆弱与自我倡导可以同时存在。
 - **叙事手法**：活动前半以舞台调度和旁观者反应制造压力，中段长问答逐层拆解指控；后段用掌声、观众举手和新书标题将个人辩护转成公共宣言。
 
 ## 精读
 
 > **原句 1:** The atmosphere was exactly how you would imagine a secret society’s meeting place might look.
 
-**中文理解：** 这里的氛围完全像人们想象中的秘密社团 meeting place。
+**中文理解：** 这里的氛围完全像人们想象中的秘密社团聚会场所。
 
 **关键词：** exactly / a secret society / meeting place
 
@@ -42,17 +42,17 @@ source_text: ch35_chapter_thirty_four.txt
 
 **关键词：** truthfully / a long story / What happened to me
 
-**为什么这样写**：`truthfully` 把即将到来的说明与 Cameron 的断章取义区分开，`a long story` 和破折号则制造停顿，让读者意识到她准备补充被删掉的时间线。省略号保留了叙述节奏，也使 Cameron 再次打断显得更具攻击性。
+**为什么这样写**：`truthfully` 把即将到来的说明与 Cameron 的断章取义区分开，`a long story` 和未完的破折号则制造停顿，让读者意识到她准备补充被删掉的时间线。破折号保留了叙述节奏，也使 Cameron 再次打断显得更具攻击性。
 
 **读者视角提示**：Lily 不急于用一个标签回答学历问题；她要先把“错过、隐藏、返校和实习”按真实顺序讲出来。
 
-> **原句 4:** \"I wasn’t going to let Cam steer this narrative. I’d already had enough. ... It was a miscalculation—\"
+> **原句 4:** \"If you want to know what happened ten years ago, it was a miscalculation—\"
 
-**中文理解**：“我不会让 Cam 操控这个叙事。我已经受够了。……那是一个判断失误——”
+**中文理解**：“如果你想知道十年前发生了什么，那是一个判断失误——”
 
-**关键词：** steer this narrative / already had enough / a miscalculation
+**关键词：** If you want to know / ten years ago / a miscalculation
 
-**为什么这样写**：前半句确立 Lily 的主体性，后半句把十年前的选择收束为 `a miscalculation`，既承认错误又拒绝被道德化。`I’d already had enough` 让说明从个人辩解转为对长久沉默的终止声明。
+**为什么这样写**：条件句先邀请听众追问，再用 `a miscalculation` 把十年前的选择收束为一个可分析的判断，而不是道德判决。破折号保留了 Lily 尚未说完的叙述，也让她在公开活动中重新掌握解释节奏。
 
 **读者视角提示**：她终于把“失败”命名成可分析的判断，而不是身份判决；语气克制，行动却明确。
 
@@ -88,11 +88,11 @@ source_text: ch35_chapter_thirty_four.txt
 
 > **原句 8:** \"I’m proud of myself for going back to school to get my college degree.\"
 
-**中文理解**：“我为自己回到学校、完成大学学位而骄傲。”
+**中文理解**：“我为自己回到学校、重新取得大学学位而骄傲。”
 
 **关键词：** proud of myself / going back to school / get my college degree
 
-**为什么这样写**：`I’m proud of myself` 把主语锁定在自己身上，避免把功劳交给学校、父母或运气；`going back to school` 与 `get my college degree` 形成行动和结果的两步链。句子没有等别人批准，直接把完成学位定义为个人成就。
+**为什么这样写**：`I’m proud of myself` 把主语锁定在自己身上，避免把功劳交给学校、父母或运气；`going back to school` 与 `get my college degree` 形成行动和目标的两步链。句子没有等别人批准，直接把重新取得学位定义为自己正在完成的成就。
 
 **读者视角提示**：这是 Lily 对 Cameron 学历攻击的最终回应：她承认过去的漏洞，但拒绝因此否认现在的行动。
 

@@ -52,7 +52,7 @@ source_text: ch28_chapter_twenty_seven.txt
 
 **关键词：** twenty schools / offer classes / including Spain
 
-**为什么这样写：** 粗口和 `like twenty` 让兴奋先于正式计算出现，`including Spain` 又把她童年/大学想象中的目的地直接放进可行选项。句子把信息搜索转成即时的惊奇，语言保留了 Lily 第一次发现新可能时的失态。
+**为什么这样写：** 粗口和 `like twenty` 让兴奋先于正式计算出现，`including Spain` 又把她大学时期曾经放弃的留学目的地直接放进重新打开的可行选项。句子把信息搜索转成即时的惊奇，语言保留了 Lily 第一次发现新可能时的失态。
 
 **读者视角提示**：留学不再是一个抽象的“如果”，而是一张可以浏览的网站列表；Jake 的一句话重新打开了 Lily 已经关上的未来。
 

@@ -82,7 +82,7 @@ source_text: ch32_chapter_thirty_one.txt
 
 **关键词：** We choose wrong / stronger person / handle more pressure
 
-**为什么这样写**：母亲先承认集体判断 `We choose wrong`，再解释当时如何把“更强”误当成“能承受更多”。句子的代词从个人转到父母，承认错误的责任不再被推给某一个人；它也让 Lily 听见家庭如何把她的坚强变成负担。
+**为什么这样写**：母亲从开头就用 `We` 代表父母共同承认判断错误，再解释当时如何把“更强”误当成“能承受更多”。复数代词让责任不再落在某一个人身上，也让 Lily 听见家庭如何把她的坚强变成负担。
 
 **读者视角提示**：这不是父母立刻变成理想盟友，而是一个迟来的解释；但解释承认了 Lily 过去承担了不该独自承担的重量。
 
@@ -92,7 +92,7 @@ source_text: ch32_chapter_thirty_one.txt
 
 **关键词：** For the first time ever / life choices / a them problem / not a me problem
 
-**为什么这样写**：`For once` 为这次承认加上漫长历史的重量，`them` 和 `me` 的对照把责任从个人失败重新放回家庭。`a them problem` 用不寻常的短语让 Lily 的成长获得语言：她不必再把所有不认同都内化成自身缺陷。
+**为什么这样写**：`For the first time ever` 用明确的“人生第一次”加上漫长历史的重量，`them` 和 `me` 的对照把责任从个人失败重新放回家庭。`a them problem` 用不寻常的短语让 Lily 的成长获得语言：她不必再把所有不认同都内化成自身缺陷。
 
 **读者视角提示**：读者会感到这不是“父母完全正确”，而是他们终于承认自己参与了伤害；这让后面的买书和优惠券有了可信的情感底色。
 

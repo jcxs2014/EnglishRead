@@ -20,11 +20,11 @@ source_text: ch18_chapter_seventeen.txt
 
 **中文理解：** 亚裔学生协会包了一辆去曼哈顿的车，让成员参观 NYU 和 Columbia 的校园，也让我们有机会观看两所学校的韩籍学生协会文化表演。
 
-**关键词：** chartered a bus / visit campuses / culture shows
+**关键词：** chartered a bus / visit NYU’s and Columbia’s campuses / culture shows
 
 **为什么这样写：** `chartered a bus` 把一次社团活动写成有组织、资源充足的集体行动，`NYU` 和 `Columbia` 提供具体城市坐标。`giving us an opportunity` 既交代组织功能，也把旅行包装成认识自我和他人的窗口。
 
-**读者视角提示：** 这次出行不是单纯的观光，而是 Lily 第一次进入一个她既熟悉又不完全属于的亚裔/韩裔学生空间。
+**读者视角提示：** 这次出行不是单纯的观光，而是 Lily 第一次参加纽约两校的 ASA 跨校文化活动、第一次观看两校的文化表演；她并非第一次进入这个学生社群，却第一次在纽约的跨校语境里重新打量自己的身份。
 
 > **原句 2:** "There are all types of Koreans in the diaspora, as you should know," I argued.
 

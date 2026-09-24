@@ -38,7 +38,7 @@ source_text: ch08_chapter_seven.txt
 
 > **原句 3:** Jake Cho had grown into a hot older guy.
 
-**中文理解：** Jake Cho 已经长成了一个性感的中年男人。
+**中文理解：** Jake Cho 已经长成了一个性感、年纪更大的男人。
 
 **关键词：** grown into / hot / older guy
 

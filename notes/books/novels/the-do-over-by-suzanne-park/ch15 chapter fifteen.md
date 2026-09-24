@@ -56,7 +56,17 @@ source_text: ch16_chapter_fifteen.txt
 
 **读者视角提示**：这不是简单的“被美食收买”，而是 Lily 重新承认自己需要正常生活；她可以在现实需要面前调整原则。
 
-> **原句 5:** My team was not only outnumbered by the O’Hara party, we were out-everythinged.
+> **原句 5:** They have a big marketing and publicity budget and we’re thinking this is a good opportunity for you to ask for what you want.
+
+**中文理解：** 他们有充足的营销和宣传预算，我们认为这是让你争取自己想要的东西的好机会。
+
+**关键词：** marketing and publicity budget / a good opportunity / ask for what you want
+
+**为什么这样写：** 编辑先用 `big ... budget` 描述资源，再把机会定义成 `ask for what you want`，把资源转成 Lily 的主动权。`we’re thinking` 保持礼貌，却给出一句清楚的经济逻辑：对方有钱，她应该要求相应回报。
+
+**读者视角提示：** 这句话既可能真诚，也可能是在给她画饼；Lily 需要像评估营销策略一样评估这份善意。
+
+> **原句 6:** My team was not only outnumbered by the O’Hara party, we were out-everythinged.
 
 **中文理解：** 我的团队不只是人数少于 O’Hara 一方，他们在各方面都被比下去了。
 
@@ -66,7 +76,7 @@ source_text: ch16_chapter_fifteen.txt
 
 **读者视角提示：** Lily 并非没有团队，而是团队被对方的规模和资源压住；她需要谈判的不是礼貌，而是曝光条件。
 
-> **原句 6:** "I’m still on board with the in-person event sponsored by LBS alumni."
+> **原句 7:** "I’m still on board with the in-person event sponsored by LBS alumni."
 
 **中文理解：** “我仍然同意参加由 LBS 校友赞助的线下活动。”
 
@@ -76,25 +86,15 @@ source_text: ch16_chapter_fifteen.txt
 
 **读者视角提示**：这是 Lily 从被动被安排转向主动选择的证据；她可以借机会扩大影响力，但不必接受对方的全部叙事。
 
-> **原句 7:** I would need to run this O’Hara quasi-partnership by my personal board of directors—aka Mia, some former work friends, and Beth.
+> **原句 8:** I would need to run this O’Hara quasi-partnership by my personal board of directors—aka Mia, some former work friends, and Beth.
 
-**中文理解：** 我需要把这个 O’Hara 准合作案交给我的私人董事会——也就是 Mia、一些前同事和 Beth。
+**中文理解**：我需要把这个 O’Hara 准合作案交给我的私人董事会——也就是 Mia、一些前同事和 Beth。
 
-**关键词：** quasi-partnership / personal board of directors / run something by
+**关键词**：quasi-partnership / personal board of directors / run this O’Hara quasi-partnership by
 
-**为什么这样写：** `quasi-partnership` 故意把合作的不确定性写进名称，`personal board of directors` 又用正式组织语言包装一群朋友。破折号后的 `aka` 把比喻拉回现实，幽默地承认她需要的是可信的人，而不是更昂贵的顾问。
+**为什么这样写**：`quasi-partnership` 故意把合作的不确定性写进名称，`personal board of directors` 又用正式组织语言包装一群朋友。破折号后的 `aka` 把比喻拉回现实，幽默地承认她需要的是可信的人，而不是更昂贵的顾问。
 
 **读者视角提示**：Lily 把友谊当作个人风险控制系统；她开始承认支持网络可以在职业决策中发挥实际作用。
-
-> **原句 8:** They have a big marketing and publicity budget and we’re thinking this is a good opportunity for you to ask for what you want.
-
-**中文理解**：他们有充足的营销和宣传预算，我们认为这是让你争取自己想要的东西的好机会。
-
-**关键词：** marketing and publicity budget / a good opportunity / ask for what you want
-
-**为什么这样写：** 编辑先用 `big ... budget` 描述资源，再把机会定义成 `ask for what you want`，把资源转成 Lily 的主动权。`we’re thinking` 保持礼貌，却给出一句清楚的经济逻辑：对方有钱，她应该要求相应回报。
-
-**读者视角提示**：这句话既可能真诚，也可能是在给她画饼；Lily 需要像评估营销策略一样评估这份善意。
 
 ## 本章词汇
 

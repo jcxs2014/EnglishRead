@@ -22,9 +22,9 @@ source_text: ch04_chapter_three.txt
 
 **关键词：** On my last day / choked on / Publishers Digest
 
-**为什么这样写：** 句子把“职业告别”与“身体失态”压在同一刻，喜剧性的物理事故立刻打破了离别的庄重感。文章本身又与她的呛咳形成反讽：她正想控制自己的职业形象，却连一杯咖啡都控制不好。
+**为什么这样写：** 句子把“离开纽约的生活阶段”与“身体失态”压在同一刻，喜剧性的物理事故立刻打破了告别的庄重感。文章本身又与她的呛咳形成反讽：她正想控制离开时的自我形象，却连一杯咖啡都控制不好。
 
-**读者视角提示：** 这是一个用幽默卸下重量的开场；读者先笑，再意识到“最后一次待在家里”与即将返回校园的未知即将同时到来。
+**读者视角提示：** 这是一个用幽默卸下重量的开场；读者先笑，再意识到“离开纽约前的最后一天”与即将返回校园的未知即将同时到来。
 
 > **原句 2:** Mia always knew how to make things a little better, even when my life was swirling down the drain.
 
@@ -36,7 +36,17 @@ source_text: ch04_chapter_three.txt
 
 **读者视角提示：** 朋友的陪伴先于冲突出现，读者会知道 Lily 不是独自面对新阶段，而是带着一段长期可靠的“found family”关系。
 
-> **原句 3:** They want to see success without all the grittiness, ugliness, and struggles behind the scenes.
+> **原句 3:** "Yours is about how real people get jobs and climb their way up."
+
+**中文理解：** “你的书写的是普通人如何找到工作、如何一步步往上走。”
+
+**关键词：** real people / get jobs / climb their way up
+
+**为什么这样写：** Mia 用两个核心动词把“真实”落到普通人的行动上：找到工作、向上攀登。它与奥哈拉双胞胎凭家庭网络获得机会的叙事相对照，说明真正的价值不在职位高低，而在过程是否可供他人理解。
+
+**读者视角提示：** 这是朋友对 Lily 的重新定位：她的劣势不必被抹掉，反而可以成为作品与读者之间的连接。
+
+> **原句 4:** They want to see success without all the grittiness, ugliness, and struggles behind the scenes.
 
 **中文理解：** 他们想看到成功，却不想看到幕后那些狼狈、难看和挣扎。
 
@@ -44,17 +54,7 @@ source_text: ch04_chapter_three.txt
 
 **为什么这样写：** 三个并列名词从抽象的“困难”逐步落到可见的“丑陋”和“挣扎”，把公众对成功故事的期待写得具体而尖锐。“behind the scenes”借舞台隐喻揭示：台下的代价正是 Lily 正在经历的现实。
 
-**读者视角提示：** 这句话是她全章判断的起点；读者会开始区分“被展示的成功形象”和“真实经历过的人生”。
-
-> **原句 4:** "Yours is about how real people get jobs and climb their way up."
-
-**中文理解：** “你的书写的是普通人如何找到工作、如何一步步往上走。”
-
-**关键词：** real people / get jobs / climb their way up
-
-**为什么这样写：** Mia 用三个具体动词把“真实”落到普通人的行动上：找到工作、向上攀登。它与奥哈拉双胞胎凭家庭网络获得机会的叙事相对照，说明真正的价值不在职位高低，而在过程是否可供他人理解。
-
-**读者视角提示：** 这是朋友对 Lily 的重新定位：她的劣势不必被抹掉，反而可以成为作品与读者之间的连接。
+**读者视角提示：** 这句话把 Lily 刚刚听到的“普通人成功”具体化为对幕后代价的要求；读者会开始区分“被展示的成功形象”和“真实经历过的人生”。
 
 > **原句 5:** "People need stories with real adversity, like yours."
 
@@ -76,17 +76,7 @@ source_text: ch04_chapter_three.txt
 
 **读者视角提示：** 她口中的“希望”仍像转瞬即逝的信号，读者会等待她是否能把这点信号变成行动。
 
-> **原句 7:** "Maybe I was looking at life all wrong, seeing the world through shit-colored glasses, and I’d missed out on good things right in front of me."
-
-**中文理解：** “也许我一直都看错了人生，透过一坨脏东西一样的有色眼镜看世界，错过了眼前的好事。”
-
-**关键词：** looking at life all wrong / shit-colored glasses / missed out on good things
-
-**为什么这样写：** 粗俗而鲜明的颜色比喻把 Lily 的悲观视觉化，也保留了她的幽默口吻。“right in front of me”把改变的可能放在当下近距离：她不必先获得巨大的好运，只需换一种看事情的方式。
-
-**读者视角提示：** 这是章内最重要的转折性自我修正；Lily 开始怀疑问题不完全是运气差，也包括自己如何解释所遭遇的一切。
-
-> **原句 8:** "The first one I’d ever seen. I wouldn’t have noticed it at all if she hadn’t mentioned it."
+> **原句 7:** "The first one I’d ever seen. I wouldn’t have noticed it at all if she hadn’t mentioned it."
 
 **中文理解：** “这是我见过的第一道双彩虹。要不是她指给我看，我根本不会注意到。”
 
@@ -95,6 +85,16 @@ source_text: ch04_chapter_three.txt
 **为什么这样写：** 两个短句先给出新奇事实，再补出“差点错过”的条件结构，把 Mia 的观察写成 Lily 重新获得视野的触发器。双彩虹不是被解释成奇迹，而是被写成只要有人提醒就可能出现的日常景象。
 
 **读者视角提示：** 结尾的象征很轻，却准确地落在“重做”的主题上：重新开始有时不是制造全新机会，而是先看见已经存在的可能。
+
+> **原句 8:** "Maybe I was looking at life all wrong, seeing the world through shit-colored glasses, and I’d missed out on good things right in front of me."
+
+**中文理解：** “也许我一直都看错了人生，透过一坨脏东西一样的有色眼镜看世界，错过了眼前的好事。”
+
+**关键词：** looking at life all wrong / shit-colored glasses / missed out on good things
+
+**为什么这样写：** 粗俗而鲜明的颜色比喻把 Lily 的悲观视觉化，也保留了她的幽默口吻。“right in front of me”把改变的可能放在当下近距离：她不必先获得巨大的好运，只需换一种看事情的方式。
+
+**读者视角提示：** 这是章内最重要的转折性自我修正；Lily 开始怀疑问题不完全是运气差，也包括自己如何解释所遭遇的一切。
 
 ## 本章词汇
 

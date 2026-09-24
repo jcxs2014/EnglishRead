@@ -42,7 +42,7 @@ source_text: ch37_chapter_thirty_six.txt
 
 **关键词：** Self-love / what I needed most / I had that now
 
-**为什么这样写**：两个短句用 `what I needed most` 和 `now` 把需求与现状对置，形成明确的时间跨度。`had` 用简单完成时暗示自爱不是永远静止的天赋，而是过去十年逐渐积累的结果。
+**为什么这样写**：两个短句用 `what I needed most` 和 `now` 把需求与现状对置，形成明确的时间跨度。`had` 用简单过去式把过去的需要与现在的拥有并置，暗示自爱已经成为她能够带回的内在资源。
 
 **读者视角提示**：这句把父母、朋友和导师的支持都放在次要位置；Lily 最终拥有可以自己带回的内在资源。
 
@@ -62,7 +62,7 @@ source_text: ch37_chapter_thirty_six.txt
 
 **关键词：** Walking the stage again / as a real graduate / especially important
 
-**为什么这样写**：`again` 把舞台和第一次毕业连接，`as a real graduate` 则修正她在过去几年里“未完成”的身份。`especially important this time` 没有说明具体重要在哪里，让动作本身承担重量。
+**为什么这样写**：`again` 把舞台和第一次毕业连接，`as a real graduate` 则修正她在十年前“未完成”的身份。`especially important this time` 没有说明具体重要在哪里，让动作本身承担重量。
 
 **读者视角提示**：读者会感到这不是重复仪式，而是 Lily 终于以完整身份重新进入自己曾离开的制度。
 
@@ -70,9 +70,9 @@ source_text: ch37_chapter_thirty_six.txt
 
 **中文理解**：“你是对的。我很自私，也犯了许多我深深后悔的错误。”
 
-**关键词：** You were right / selfish / mistakes I regret deeply
+**关键词：** You were right / selfish / mistakes that I regret deeply
 
-**为什么这样写**：`You were right` 把十年前的判断交给 Dean 亲口承认，`I was selfish` 则用第一人称承担道德责任。句子没有辩护或条件化，公开道歉因此成为她接受的前置条件。
+**为什么这样写**：`You were right` 把十年前的判断交给 Dean 亲口承认，`I was selfish` 则用第一人称承担道德责任。句子没有辩护或条件化；公开道歉促成了这场和解，也让 Lily 得到了一个可以接受的结果。
 
 **读者视角提示**：读者会感到 Lily 的成长不是让所有人继续崇拜她，而是让掌权者能够承认错误并承担后果。
 
@@ -90,7 +90,7 @@ source_text: ch37_chapter_thirty_six.txt
 
 **中文理解**：我享受着这一刻：“只是一个会犯错、并最终学会从错误中学习的普通人。”
 
-**关键词：** relished / normal human / learning from mistakes
+**关键词：** relished / normal human / learning from them
 
 **为什么这样写**：`relished` 让 Lily 不再急着离开这个尴尬对话，而是享受自己已经能够理解它的时刻。`a normal human` 降低头衔的权威，`finally learning` 则保留过程和改变，没有把成长包装成完美结局。
 

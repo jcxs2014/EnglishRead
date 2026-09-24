@@ -46,27 +46,17 @@ source_text: ch30_chapter_twenty_nine.txt
 
 **读者视角提示**：Lily 的两个 A 并不能自动结束自我怀疑，因为比较会立刻寻找下一个更高的标准；这就是她仍会感到“不够好”的原因。
 
-> **原句 4:** \"It was like you were inside my head with a magnifying glass.\"
-
-**中文理解**：那感觉就像你拿着放大镜走进了我的脑子。
-
-**关键词：** inside my head / with a magnifying glass
-
-**为什么这样写**：空间隐喻把 Beth 的 seminar 变成一次侵入性检查，`magnifying glass` 则把原本模糊的习惯放大到无法回避。句子用夸张的画面承认被看穿的难堪，却没有把这种难堪写成失败本身。
-
-**读者视角提示**：读者会感到 Lily 既想逃开，又需要这场观察；她的抗拒和依赖同时存在。
-
-> **原句 5:** \"We’re all in the practice of projecting the best version of our lives, our highlight reels of all the good things.\"
+> **原句 4:** \"We’re all in the practice of projecting the best version of our lives, our highlight reels of all the good things.\"
 
 **中文理解**：“我们都在练习把自己生活的最好版本投射出去，也就是由所有好事组成的 highlight reel。”
 
 **关键词：** projecting the best version / highlight reels / all the good things
 
-**为什么这样写**：`highlight reel` 从电影借来剪辑概念，说明社交媒体只保留高光片段；`all the good things` 又把这种删选写成对负面经历的抹除。Beth 借此把个人比较和平台机制连起来。
+**为什么这样写**：`highlight reel` 从电影借来剪辑概念，说明社交媒体只保留高光片段；`all the good things` 又把这种删选写成对负面经历的抹除。Mia 借此把个人比较和平台机制连起来。
 
 **读者视角提示**：Mia 看起来最能宣传自己，却也在用精心编辑的形象压迫真实的自己；朋友的表面成功并不等于她没有同样脆弱。
 
-> **原句 6:** \"It’s about fixing the systemic bias and cultural inertia all around us.\"
+> **原句 5:** \"It’s about fixing the systemic bias and cultural inertia all around us.\"
 
 **中文理解**：“这意味着要修正我们周围的 systemic bias（系统性偏见）和 cultural inertia（文化惯性）。”
 
@@ -76,17 +66,17 @@ source_text: ch30_chapter_twenty_nine.txt
 
 **读者视角提示**：Lily 不再只问“我怎样才能更自信”，而开始问“是什么让这种自我贬低持续发生”；这是她理解层面的成熟转折。
 
-> **原句 7:** \"I won’t downplay my accomplishments, not anymore.\"
+> **原句 6:** \"It was like you were inside my head with a magnifying glass.\"
 
-**中文理解**：“我不会再贬低自己的成就了，不会再这样了。”
+**中文理解**：那感觉就像你拿着放大镜走进了我的脑子。
 
-**关键词：** won’t downplay / my accomplishments / not anymore
+**关键词：** inside my head / with a magnifying glass
 
-**为什么这样写**：`not anymore` 把承诺的边界放在时间上，而不是泛泛地说“我会变好”。`downplay` 精确对应她过去的语言习惯，`accomplishments` 则把需要被承认的事实重新放回句子中心。
+**为什么这样写**：空间隐喻把 Beth 的 seminar 变成一次侵入性检查，`magnifying glass` 则把原本模糊的习惯放大到无法回避。句子用夸张的画面承认被看穿的难堪，却没有把这种难堪写成失败本身。
 
-**读者视角提示**：这不是突然自信，而是一条可观察的改变承诺；读者会等她下一次如何介绍自己的成绩。
+**读者视角提示**：读者会感到 Lily 既想逃开，又需要这场观察；她的抗拒和依赖同时存在。
 
-> **原句 8:** \"I’ll start with refraining from my self-limiting, undermining language.\"
+> **原句 7:** \"I’ll start with refraining from my self-limiting, undermining language.\"
 
 **中文理解**：“我会先从不再使用那些限制自己、削弱自己的语言开始。”
 
@@ -95,6 +85,16 @@ source_text: ch30_chapter_twenty_nine.txt
 **为什么这样写**：`start with` 避免把自我改变写成一次完成的宏大工程，`refraining from` 则把语言变成可以逐次检查的行为。两个形容词形成同向叠加，说明一句话如何同时限制行动和侵蚀自我评价。
 
 **读者视角提示**：Lily 没有先要求自己完成全部改变，而是选出一处可操作的入口；这让自我倡导从口号变成语言习惯的练习。
+
+> **原句 8:** \"I won’t downplay my accomplishments, not anymore.\"
+
+**中文理解**：“我不会再贬低自己的成就了，不会再这样了。”
+
+**关键词：** won’t downplay / my accomplishments / not anymore
+
+**为什么这样写**：`not anymore` 把承诺的边界放在时间上，而不是泛泛地说“我会变好”。`downplay` 精确对应她过去的语言习惯，`accomplishments` 则把需要被承认的事实重新放回句子中心。
+
+**读者视角提示**：这不是突然自信，而是一条可观察的改变承诺；读者会等她下一次如何介绍自己的成绩。
 
 ## 本章词汇
 

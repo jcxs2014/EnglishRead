@@ -58,7 +58,7 @@ source_text: ch24_chapter_twenty_three.txt
 
 > **原句 5:** "I want this celebration to be easy. Like French fries, nachos, and sangria at home easy."
 
-**中文理解：** “我希望这次庆祝是容易的。就是在家吃薯片、玉米片、喝桑格利亚的那种容易。”
+**中文理解：** “我希望这次庆祝是容易的。就是在家吃薯条、玉米片、喝桑格利亚的那种容易。”
 
 **关键词：** easy / French fries, nachos, and sangria / at home
 

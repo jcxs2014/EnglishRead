@@ -42,9 +42,9 @@ source_text: ch02_chapter_one.txt
 
 **关键词：** All of this / too good to be true
 
-**为什么这样写：** 前一句连续堆叠“梦想公司、梦想工作、梦想团队”，这一句突然用否定判断收束。表面上是兴奋，潜台词却是 Lily 已经预感好消息不会完整到来；省略主语反而让整个人生处境悬在不确定性中。
+**为什么这样写：** 前一句连续堆叠“梦想公司、梦想工作、梦想团队”，这一句突然用否定判断收束。表面上是兴奋，潜台词却是 Lily 已经预感好消息不会完整到来；概括性的主语 `All of this` 把个体层面的期待扩展为整个人生处境的判断。
 
-**读者视角提示：** 读者会比 Lily 更早意识到她注意到了“没有恭喜”和下降的语调，正文的戏剧反讽从这里开始运转。
+**读者视角提示：** 读者与 Lily 同步从“没有恭喜”和下降的语调中察觉异常，并可能比 Lily 更早预感坏消息尚未说完；正文的戏剧反讽从这里开始运转。
 
 > **原句 4:** My walk down memory lane would have to be another day, under happier, more forgiving circumstances.
 
@@ -80,7 +80,7 @@ source_text: ch02_chapter_one.txt
 
 **中文理解：** 坏消息像雪崩一样压下来，我的头嗡的一声，双膝发软。
 
-**关键词：** My head whooshed / knees buckled / an avalanche of bad news
+**关键词：** My head whooshed / knees buckled / this avalanche of bad news
 
 **为什么这样写：** “whooshed”和“buckled”把冲击转成声音与身体失衡的动作；“avalanche of bad news”则用雪崩比喻信息量 overwhelm（压垮）一个人。作者不直接说“她很震惊”，而让读者通过身体反应感受到冲击。
 
@@ -107,7 +107,7 @@ source_text: ch02_chapter_one.txt
 | nostalgic | 怀旧的；勾起回忆的 | There would be no nostalgic strolls through the courtyard. |
 | matriculation | 注册入学；入学注册 | The matriculation date was listed at the top of the transcript, but the graduation date was not. |
 | commencement | 毕业典礼 | I attended commencement. |
-| an avalanche of bad news | 接连不断的坏消息；压倒性的坏消息 | this avalanche of bad news |
+| this avalanche of bad news | 接连不断的坏消息；压倒性的坏消息 | this avalanche of bad news |
 | latent | 潜在的；尚未显现的 | A latent ability I never wanted to experience again. |
 
 ### ⭐⭐ 进阶

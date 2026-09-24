@@ -16,17 +16,7 @@ source_text: ch10_chapter_nine.txt
 
 ## 精读
 
-> **原句 1:** I actually saw him at the market the other day but didn’t realize it was him.
-
-**中文理解：** 我前几天的确在市场见过他，只是当时没意识到那就是他。
-
-**关键词：** actually saw him / the market / didn’t realize
-
-**为什么这样写：** `actually` 先制造迟来的确认，`didn’t realize` 又把错误认识写成过去无法挽回的延迟。短句把杂货店偶遇重新解释为 Jake 一直在场，读者会感到 Lily 的记忆系统刚刚被迫更新。
-
-**读者视角提示：** 这一句让前章的 Red Hat Guy 与现在的助教身份彻底重合；读者会比 Lily 更早意识到，重逢并不是偶然的舞台安排。
-
-> **原句 2:** He’s the TA for the computer science class, and getting a PhD, if you can believe it.
+> **原句 1:** He’s the TA for the computer science class, and getting a PhD, if you can believe it.
 
 **中文理解：** 他是计算机科学课的助教，而且还在攻读博士学位，信不信由你。
 
@@ -35,6 +25,16 @@ source_text: ch10_chapter_nine.txt
 **为什么这样写：** 句子把“他就是那个人”推进到“他拥有新的专业身份”，`if you can believe it` 保留了 Lily 的不信和不愿接受。职业信息与旧关系并置，让 Jake 的成长既令人沮丧，又不得不令人注意。
 
 **读者视角提示：** Lily 原本只想避开一个前男友，现在却必须面对一个有资格评价她的人；读者会感到重逢的权力压力被重新抬高。
+
+> **原句 2:** I actually saw him at the market the other day but didn’t realize it was him.
+
+**中文理解：** 我前几天的确在市场见过他，只是当时没意识到那就是他。
+
+**关键词：** actually saw him / the market / didn’t realize
+
+**为什么这样写：** `actually` 先制造迟来的确认，`didn’t realize` 又把错误认识写成过去无法挽回的延迟。短句把杂货店偶遇重新解释为 Jake 一直在场，读者会感到 Lily 的记忆系统刚刚被迫更新。
+
+**读者视角提示：** 这一句让前章的 Red Hat Guy 与现在的助教身份彻底重合；读者会比 Lily 更早意识到，重逢并不是偶然的舞台安排。
 
 > **原句 3:** He quit on me when I needed him the most, and I could never forgive him for that.
 

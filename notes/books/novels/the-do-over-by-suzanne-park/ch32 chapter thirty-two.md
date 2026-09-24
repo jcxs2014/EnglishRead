@@ -10,8 +10,8 @@ source_text: ch33_chapter_thirty_two.txt
 
 - **一句话概括**：Lily 因 Jake 两天没有回电话而再次准备切断关系，Mia 却把媒体危机变成可控的公关行动；Jake 最终解释自己刚完成博士论文答辩，Lily 在愤怒、惊讶和重新信任之间，决定给他一个解释和陪伴自己的机会。
 - **情感弧线位置**：低位后的重新连接——Lily 先用删除和“Again”恢复防御，Jake 的解释没有抹去迟到的伤害，却让他的学业努力终于进入她的现实。
-- **Tropes 兑现/反转**：失联误会、前任博士毕业、Solv/媒体危机并行；Lily 没有立刻复合，而是先要求听见解释，再决定是否重新打开关系。
-- **人物弧线**：她把“已读不回”视为重复旧伤，也承认自己误解了 Jake 消失的原因；她重新评估他时，愤怒仍在，但空洞和怨恨开始退去。
+- **Tropes 兑现/反转**：失联误会、即将正式完成的博士项目和媒体危机并行；Lily 没有立刻复合，而是先要求听见解释，再决定是否重新打开关系。
+- **人物弧线**：她把“没有回电话、没有回消息”视为重复旧伤，也承认自己误解了 Jake 消失的原因；她重新评估他时，愤怒仍在，但空洞和怨恨开始退去。
 - **叙事手法**：重复的 Again、短促的“Promised”表现创伤惯性；公关计划以工作语言稳定情绪，电话解释则用信息逐步释放，结尾以长时间通话恢复亲密可能。
 
 ## 精读
@@ -58,7 +58,7 @@ source_text: ch33_chapter_thirty_two.txt
 
 > **原句 5:** \"I can see an event with the O’Haras going either way: it could be beneficial or a total disaster, depending on the crowd and the questions they ask.\"
 
-**中文理解**：“我能预见和 O’Haras 的活动有两种结果：可能很有帮助，也可能是彻底的灾难，取决于现场观众和他们提出的问题。”
+**中文理解**：“我能预见与 O’Haras 一起举行的活动有两种结果：可能很有帮助，也可能是彻底的灾难，取决于现场观众和他们提出的问题。”
 
 **关键词：** going either way / beneficial / a total disaster / depending on
 
@@ -68,7 +68,7 @@ source_text: ch33_chapter_thirty_two.txt
 
 > **原句 6:** \"They’ve doubled in the last day. Maybe this hasn’t been all bad.\"
 
-**中文理解**：“它们一天之内翻倍了。也许这次不全都是坏事。”
+**中文理解**：“粉丝和订阅者数量一天之内翻倍了。也许这次不全都是坏事。”
 
 **关键词：** doubled / in the last day / Maybe
 
@@ -80,7 +80,7 @@ source_text: ch33_chapter_thirty_two.txt
 
 **中文理解**：“我需要你知道，你让我失望得有多严重。这又不是第一次。”
 
-**关键词：** badly / let me down / not the first time
+**关键词：** badly / let me down / It’s not like it’s the first time
 
 **为什么这样写**：`let me down` 先用日常短语承认失望，后半句再把范围扩展到重复历史。Lily 没有立刻挂断，说明她既需要表达伤害，也需要听到事实；语气仍然冷，但关系并未被一句话彻底关闭。
 
@@ -90,7 +90,7 @@ source_text: ch33_chapter_thirty_two.txt
 
 **中文理解**：“对！严格说还不算正式，但很快就是了。我甚至还打了领带、穿了西裤。你能相信吗？我完成了博士项目！”
 
-**关键词：** Yes / informally / dressed pants / finished my PhD program
+**关键词：** Yes / informally / dress pants / finished my PhD program
 
 **为什么这样写**：`Yes!` 先把压抑的对话重新打开，`informally` 又给成就保留尚未落地的边缘；`a tie` 和 `dress pants` 用可见的成长细节替代抽象的“变好了”。反问句 `Can you believe it?` 把 Jake 的兴奋直接交给 Lily，让他的学业完成成为两人关系中的新事实。
 

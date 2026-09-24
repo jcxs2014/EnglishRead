@@ -18,21 +18,21 @@ source_text: ch12_chapter_eleven.txt
 
 > **原句 1:** "I’m procrasti-baking,” she explained. “Feel free to have whatever you want."
 
-**中文理解：** “我在用烘焙来拖延事情。”她解释道。
+**中文理解：** “我在用烘焙来拖延事情。”她解释道，“想吃什么尽管拿。”
 
 **关键词：** procrasti-baking / she explained
 
-**为什么这样写：** 作者把 `procrastinating` 和 `baking` 合成临时词，一句话就把 Beth 的性格和此刻的任务都压缩出来；引号和 `she explained` 保留了对话的轻松语气。这个自造词还暗示拖延本身成了有创造力的行为，而不只是懒惰。
+**为什么这样写：** 作者把 `procrastinating` 和 `baking` 合成临时词，先把 Beth 的性格和此刻的任务压缩出来；随后 “Feel free...” 又把厨房从私人拖延现场变成共享空间。这个自造词暗示拖延本身成了有创造力的行为，而不只是懒惰。
 
 **读者视角提示：** 读者会立刻接受 Beth 的生活方式：她可以用食物同时处理情绪、友情和商业目标。
 
-> **原句 2:** It was evident that Beth was no novice in monetarily beneficial baking.
+> **原句 2:** it was evident that Beth was no novice in monetarily beneficial baking.
 
 **中文理解：** 很明显，Beth 对能带来经济效益的烘焙已经不是新手。
 
-**关键词：** It was evident / no novice / monetarily beneficial baking
+**关键词：** it was evident / no novice / monetarily beneficial baking
 
-**为什么这样写：** `It was evident` 先给出观察结论，`no novice` 再用否定结构突出熟练程度；`monetarily beneficial` 把“烘焙”从兴趣重新命名为一种可计算的技能。作者用略正式的商业词汇对照 Beth 的随意形象，制造反差。
+**为什么这样写：** `it was evident` 先给出观察结论，`no novice` 再用否定结构突出熟练程度；`monetarily beneficial` 把“烘焙”从兴趣重新命名为一种可计算的技能。作者用略正式的商业词汇对照 Beth 的随意形象，制造反差。
 
 **读者视角提示：** 读者会看到 Beth 并非只是在厨房里躲避作业，而是在无意间建立一项小型创业系统。
 
@@ -66,11 +66,11 @@ source_text: ch12_chapter_eleven.txt
 
 **读者视角提示：** 这句是 Mia 的人物概括：她的尖锐不是拒绝关系，而是关系必须通过长期信任来获得。
 
-> **原句 6:** That experience introduced me to the world of noise-canceling headphones.
+> **原句 6:** But that experience introduced me to the world of noise-canceling headphones.
 
 **中文理解：** 那段经历让我认识了降噪耳机这个世界。
 
-**关键词：** introduced me / noise-canceling headphones
+**关键词：** But that experience / introduced me / noise-canceling headphones
 
 **为什么这样写：** `introduced me to the world of` 把一次尴尬的过去写成进入新世界的仪式，`noise-canceling` 则用技术产品回应前面持续的噪音。句子以轻松的产品名结束前面荒诞的故事，把创伤转成可购买、可携带的解决方案。
 

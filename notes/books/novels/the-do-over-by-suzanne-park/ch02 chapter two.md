@@ -82,7 +82,7 @@ source_text: ch03_chapter_two.txt
 
 **关键词：** In four months / would have my degree / plenty of reason to celebrate
 
-**为什么这样写：** 三个短句都用条件式“would”制造未来幻象；“go back the way it was”把人生想象成一条可以倒退的轨道，而“plenty of reason”让庆祝显得既具体又空洞。结尾用重复的确定语气掩盖她对失败的恐惧。
+**为什么这样写：** 三个短句都用过去将来式的 `would` 投射一个四个月后的想象未来，制造“一切都会恢复原状”的幻觉；“go back the way it was”把人生想象成一条可以倒退的轨道，而“plenty of reason”让庆祝显得既具体又空洞。结尾用重复的确定语气掩盖她对失败的恐惧。
 
 **读者视角提示：** 读者会意识到这不是计划，而是把“重新上学”包装成恢复旧生活的办法；真正的成长要等她接受人生不能回到原处。
 
