@@ -113,7 +113,7 @@ source_text: ch03_three_an_actor_in_its_own_right.txt
 
 **中文理解**：正因为鸦片本身就是一种历史力量，研究者必须充分注意它长期以来与人类互动的方式。
 
-**句子结构**：`It is because... that...` 强调句突出原因；主句以 `must be approached with due attention to` 表达研究义务，`in which` 引导定语从句修饰 interaction。
+**句子结构**：`It is because... that...` 强调句突出原因；主句以 `must be approached with due attention to` 表达研究义务，`in which` 引导定语从句修饰 `the ways`。
 
 **关键词**：historical force、in its own right、due attention、interacted with humans。
 
@@ -127,13 +127,13 @@ source_text: ch03_three_an_actor_in_its_own_right.txt
 
 **中文理解**：这类暴发发生时，病原体往往会经历变异，使其能够逃过人类免疫系统。
 
-**句子结构**：时间状语从句 `when these outbreaks happen` 修饰主句；`which allows it to elude...` 是非限制性定语从句，说明 mutation 的结果，`elude` 后接无 to 的不定式 `to elude`。
+**句子结构**：时间状语从句 `when these outbreaks happen` 修饰主句；`which allows it to elude...` 是非限制性定语从句，说明 mutation 的结果；`allows` 后接 `it to elude...` 的宾语补足结构，`to elude` 是不定式。
 
 **关键词**：outbreaks、pathogen、mutation、elude human immune systems。
 
 **表达方式**：借医学熟悉的 outbreak、mutation 与 immune systems，为鸦片扩散建立动态模型；三个词把静态商品写成会变化、会逃逸的行动系统。
 
-**为什么这样写**：鸦片本身不会像病毒那样复制，但它的化学形态会变成吗啡、海洛因、羟考酮乃至芬太尼；借用“变异”语言，可以同时解释旧形式失效与更强形式出现。
+**为什么这样写**：鸦片本身不会像病毒那样复制，但它的化学形态会变成吗啡、海洛因、羟考酮等鸦片衍生形式，以及芬太尼等合成类似物；借用“变异”语言，可以同时解释旧形式失效与更强形式出现。
 
 ### ⑧ 缓慢暴露形成社会习俗
 
@@ -184,9 +184,9 @@ source_text: ch03_three_an_actor_in_its_own_right.txt
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | cultivars | 栽培品种 | they are all cultivars that evolved in collaboration with human beings |
-| psychoactive | 影响心智或意识的 | the lumping together of opioids with other psychoactives, as a ‘drug’, is not just misleading |
+| psychoactive | 影响心智或意识的 | The lumping together of opioids with other psychoactives, as a ‘drug’, is not just misleading |
 | pharmacologically | 在药理学上 | opium remains pharmacologically indispensable to this day |
-| indispensable | 不可或缺的 | it takes only a glance at the list of chemicals in several commonly used medications to see that opium remains pharmacologically indispensable to this day |
+| indispensable | 不可或缺的 | It takes only a glance at the list of chemicals in several commonly used medications to see that opium remains pharmacologically indispensable to this day |
 | anaesthetic | 麻醉剂；麻醉的 | Even today many, if not most, anaesthetics are derived from opioids. |
 | euphoria | 欣快感；极度愉悦 | the otherwise ghastly experience of a colonoscopy can end with a strange feeling of euphoria |
 | commodified | 商品化的 | even when substances derived from coca leaves, such as cocaine, became commodified as recreational drugs |

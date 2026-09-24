@@ -43,7 +43,7 @@ source_text: ch02_two_seeds.txt
 
 **中文理解**：这个故事开始于一颗种子——茶树（Camellia sinensis），它生产了世界上的大部分茶。现存最古老的茶叶可以追溯 2,150 年，发现于中国贾定皇帝的陵墓。
 
-**句子结构**：首句是包含定语从句的非限制性关系结构；第二个 which 修饰 tea bush。末句用 `go back to` 表示追溯，并以 `were found` 给出考古发现。
+**句子结构**：首句是包含定语从句的非限制性关系结构；其中的 `which` 修饰 tea bush。末句用 `go back to` 表示追溯，并以 `were found` 给出考古发现。
 
 **关键词**：tea bush、produces、go back 2,150 years。
 
@@ -71,7 +71,7 @@ source_text: ch02_two_seeds.txt
 
 **中文理解**：整个十八世纪，即使英国正在北美和印度次大陆征服大片领土，中国茶仍是东印度公司最重要的收入来源，其中很大一部分被用于资助殖民扩张。历史学家埃里卡·拉帕波特写道：“在十八世纪，茶叶为战争付费，而战争也为茶叶付费。”
 
-**句子结构**：主句以 `even as` 让步从句形成对照；冒号后是史家话语的间接引语，末句再用两个相互回返的分句压缩财政与战争的循环关系。
+**句子结构**：主句以 `even as` 让步从句形成对照；冒号后由 `writes the historian` 引出 Rappaport 的直接引语，末句再用两个相互回返的分句压缩财政与战争的循环关系。
 
 **关键词**：prime source of revenue、finance British colonial expansion、tea paid for war。
 
@@ -85,7 +85,7 @@ source_text: ch02_two_seeds.txt
 
 **中文理解**：问题在于，英国没有多少东西可以卖给中国作为回报；中国人对大多数西方商品兴趣很少，也并不需要它们。
 
-**句子结构**：主干 `The problem was that...` 引出问题；分号两侧形成紧密对照，`nothing much to sell` 与 `little interest` 后面各接 `in` 短语，从供需两端说明逆差。
+**句子结构**：主干 `The problem was that...` 引出问题；分号两侧形成紧密对照，`nothing much to sell to China in return` 与 `little interest in...` 分别说明英国的供给困境和中国对西方商品的需求状况。
 
 **关键词**：nothing much to sell、in return、little interest、no need。
 
@@ -113,7 +113,7 @@ source_text: ch02_two_seeds.txt
 
 **中文理解**：一个简单办法本是在印度开始种茶。公司从十八世纪末起确实一直追逐这个梦想，派遣熟练植物学家与植物猎手前往中国，希望偷走茶树以及与茶树栽培有关的知识技术。
 
-**句子结构**：首句用虚拟语气 `would have been` 提出未实现的解决方案；第二句以过去进行时 `had pursued` 表现长期目标，`dispatching...` 与 `in the hope of...` 分词结构补充手段和目的。
+**句子结构**：首句用虚拟语气 `would have been` 提出未实现的解决方案；第二句以过去完成时 `had pursued` 表现早于叙述时点已持续的目标，`dispatching...` 与 `in the hope of...` 分词结构补充手段和目的。
 
 **关键词**：start growing tea、skilled botanists、plant hunters、stealing the plants、know-how。
 

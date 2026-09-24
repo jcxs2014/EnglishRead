@@ -220,7 +220,7 @@ source_text: ch17_seventeen_parallels.txt
 | Britain | 英国 | all of Britain |
 | empire | 帝国 | the British Empire |
 | demand | 需求 | the growth in demand |
-| supply | 供应 | changes in supply |
+| supply | 供应 | Changes in supply |
 | market | 市场 | the market essentially created itself |
 | history | 历史 | the history of opium |
 | war | 战争 | the First Opium War |

@@ -193,7 +193,7 @@ source_text: ch04_four_frenemies.txt
 | progeny | 后代 | he and his progeny reaped enormous profits |
 | frenemies | 亦敌亦友者 | the two ‘frenemies’ also learnt from each other |
 | enfeebled | 衰弱的 | at the expense of the increasingly enfeebled remnants of the Mughal Empire |
-| clandestine | 秘密的；隐秘的 | It is beneath the Company to be engaged in such a clandestine trade |
+| clandestine | 秘密的；隐秘的 | [I]t is beneath the Company to be engaged in such a clandestine trade |
 | exculpatory | 开脱罪责的 | another instance of the British Empire’s remarkable talents in self-exculpatory myth-making |
 
 ### ⭐⭐ 进阶
@@ -203,7 +203,7 @@ source_text: ch04_four_frenemies.txt
 | monopolies | 垄断；独占 | leveraging it to impose monopolies as well as monopsonies |
 | procuring | 采购；取得 | they first started procuring large amounts of opium in India |
 | auctioned | 拍卖 | it was auctioned off by its officials to opium ‘farmers’ or retailers |
-| refined | 精制的；精炼的 | a technique for refining crude opium to create a substance known as chandu |
+| refining | 精炼；精炼过程 | a technique for refining crude opium to create a substance known as chandu |
 | windfall | 意外之财；横财 | the opium market was a windfall |
 | stern admonition | 严厉斥责 | they even sent a stern admonition to Calcutta |
 | designated agents | 指定代理人 | farmers could sell their opium only to the Company’s designated agents |

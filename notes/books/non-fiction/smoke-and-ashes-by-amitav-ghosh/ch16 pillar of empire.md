@@ -43,7 +43,7 @@ source_text: ch16_sixteen_pillar_of_empire.txt
 
 **中文理解**：你不是追逐一个市场；你创造一个市场。
 
-**句子结构**：两个分句以分号分隔，均为否定式 `don’t...`；`chase` 与 `create` 形成动作对立。
+**句子结构**：两个分句以分号分隔，前一分句是否定式 `don’t chase...`，后一分句是肯定式 `you create it`；`chase` 与 `create` 形成动作对立。
 
 **关键词**：don’t chase a market、create it。
 
@@ -61,7 +61,7 @@ source_text: ch16_sixteen_pillar_of_empire.txt
 
 **关键词**：Four years later、sales had grown、1.1 billion dollars、increase of、2,192 per cent。
 
-**表达方式**：年份、金额和百分比三层数据把增长压缩成可核验的速度；`had grown` 的完成进行式强调已经发生的结果。
+**表达方式**：年份、金额和百分比三层数据把增长压缩成可核验的速度；`had grown` 的过去完成时强调销售增长在四年期限之后已经完成。
 
 **为什么这样写**：OxyContin 的数字与英国鸦片箱数并置，显示“创造市场”不是修辞，而是规模、速度和资本回报的实际过程。
 
@@ -155,13 +155,13 @@ source_text: ch16_sixteen_pillar_of_empire.txt
 
 **中文理解**：然而，对于那些夸耀自己肩负“白人负担”、要给土著带来进步的政权来说，公共卫生屈居收入之后并不是一件容易承认的事。
 
-**句子结构**：`Yet` 引入转折；`the fact that...` 主语从句，`was not easy` 判断，`for regimes that...` 限定面对这一事实的群体。
+**句子结构**：句首的 `To admit that...` 是不定式短语作主语，`was not easy` 为谓语；`for regimes that...` 限定面对这一事实的群体。
 
 **关键词**：public health、played second fiddle to revenue、not easy、regimes、white man’s burden、bringing progress、natives。
 
 **表达方式**：`played second fiddle` 用音乐隐喻表示退居次位，`white man’s burden` 与 `bringing progress` 则引用殖民者自我正当化的双重口号。
 
-**为什么这样写**：作者把“进步”和“公共卫生”都放进讽刺引号语境，指出殖民话语越强调文明责任，实际政策越服从收入；道德修辞无法消除政策的排序。
+**为什么这样写**：作者通过把公共卫生置于收入之后，形成反讽性的价值排序；殖民话语越强调文明责任，实际政策越服从收入，道德修辞无法消除政策的优先顺序。
 
 ### ⑩ 鸦片战争的决定性原因
 
@@ -218,7 +218,7 @@ source_text: ch16_sixteen_pillar_of_empire.txt
 | opium | 鸦片 | opium revenue |
 | China | 中国 | the Company’s opium exports to China |
 | India | 印度 | India’s colonizers |
-| trade | 贸易 | the China trade |
+| trade | 贸易 | China trade |
 | market | 市场 | the Chinese market |
 | war | 战争 | Britain went to war |
 | empire | 帝国 | the British Empire |

@@ -193,7 +193,7 @@ source_text: ch06_six_big_brother.txt
 | refractions | 折射；变形反映 | Science and Empire were refractions of each other |
 | subjugation | 征服；压制 | one requiring the subjugation of Nature |
 | paean | 赞歌 | Sherwill’s prints were a kind of paean to the Industrial Revolution |
-| redolent | 弥漫着……气味的 | The air is redolent with opium |
+| redolent | 弥漫着……气味的 | [T]he air is redolent with opium |
 | recalcitrant | 顽抗的；不服从的 | sacrifices that involved the infliction of suffering on the benighted and the recalcitrant |
 
 ### ⭐⭐ 进阶
@@ -206,7 +206,7 @@ source_text: ch06_six_big_brother.txt
 | picturesque | 风景如画的 | impart to it a quite picturesque appearance |
 | retrograde | 倒退的；反动的 | meet the demands of retrograde Asiatics and their rulers |
 | purportedly | 据称；假称 | this system of purportedly free trade |
-| casus belli | 宣战理由 | the merchants’ losses became the casus belli for war |
+| casus belli | 宣战理由 | the merchants’ losses became the casus belli  for war |
 | state-sponsored spin | 国家赞助的宣传说辞 | state-sponsored spin of this kind |
 | free trade | 自由贸易 | purportedly free trade |
 | black markets | 黑市 | smuggling and black markets |

@@ -15,7 +15,7 @@ source_text: ch08_eight_family_story.txt
 
 ## 论证结构
 
-- **核心论点**：鸦片不是一个可以外在于家庭的地方经济现象；它通过契约劳工、行政就业、土地诉讼、文化想象和地方阶层流动塑造了作者祖先的生活。个人寻根因此成为检验宏观帝国史的方法，而 *Phoolsunghi* 证明鸦片已深入bihari社会想象力。
+- **核心论点**：鸦片不是一个可以外在于家庭的地方经济现象；它通过契约劳工、行政就业、土地诉讼、文化想象和地方阶层流动塑造了作者祖先的生活。个人寻根因此成为检验宏观帝国史的方法，而 *Phoolsunghi* 证明鸦片已深入 Bihari 社会想象力。
 
 - **证据链**：
 
@@ -39,7 +39,7 @@ source_text: ch08_eight_family_story.txt
 
 ### ① 一颗植物进入家族史
 
-> **原句 1:** "For me the strangest, most unexpected result of writing the Ibis Trilogy was the discovery that a plant, the opium poppy, had to a significant degree, and without my being aware of it, moulded the history of my own family."
+> **原句 1:** "For me the strangest, most unexpected result of writing the Ibis Trilogy  was the discovery that a plant, the opium poppy, had to a significant degree, and without my being aware of it, moulded the history of my own family."
 
 **中文理解**：对我来说，创作*Ibis Trilogy*最奇怪、最出乎意料的发现是：一种植物——罂粟——在相当程度上、且在我没有意识到的情况下塑造了我自己家族的历史。
 
@@ -57,7 +57,7 @@ source_text: ch08_eight_family_story.txt
 
 **中文理解**：这里是我父亲家族一百多年的家，尽管他们本身在族裔上并不是 Bihari。
 
-**句子结构**：主句为地点 `home to...` 与时间 `for more than 100 years`；`although` 引导让步从句，指出居住时间与族裔身份之间的张力。
+**句子结构**：`This was home to...` 为主系表结构，`for more than 100 years` 是表示持续时间的状语；`although` 引导让步从句，指出居住时间与族裔身份之间的张力。
 
 **关键词**：home、father’s family、more than 100 years、although、not themselves ethnically Bihari。
 
@@ -91,7 +91,7 @@ source_text: ch08_eight_family_story.txt
 
 **表达方式**：材质细节 `yellowing` 与 `tattered` 把档案变成脆弱遗物；`sacredness` 和 `testaments` 将普通纸片提升为存在证据。
 
-**为什么这样写**：帝国契约劳工制度只留下姓名、身高和身体标记，作者却从破损痕迹中恢复人的尊严；档案的空缺因此不只是信息损失，也可能是国家暴力的结果。
+**为什么这样写**：帝国契约劳工制度留下姓名、年龄、身高、种姓、村庄和身体标记等身体化档案，作者却从破损痕迹中恢复人的尊严；档案的空缺因此不只是信息损失，也可能是国家暴力的结果。
 
 ### ⑤ Chhapra 的真正主业
 
@@ -169,7 +169,7 @@ source_text: ch08_eight_family_story.txt
 
 **中文理解**：然而，真正令人震惊的是：鸦片制度造成的动荡深刻改变了数百万人的生活并塑造了作者家族的命运，却不是由本地或区域的目标决定的；它们毋宁是两个位于欧亚大陆两端、相距遥远的外国力量——英国与中国——之间持续数百年的冲突与竞争所带来的意外后果。
 
-**句子结构**：首句主干为 `What is staggering... is that...`，其中让步插入语 `which...` 修饰 opium regime；第二句用 `They were rather the unintended consequences...` 重新命名这些动荡的来源，破折号点名英中两国。
+**句子结构**：首句主干为 `What is staggering... is that...`，其中非限制性关系从句 `which...` 修饰 opium regime；第二句用 `They were rather the unintended consequences...` 重新命名这些动荡的来源，破折号点名英中两国。
 
 **关键词**：staggering、upheavals caused by the opium regime、profoundly altered、shaped my family’s destiny、unintended consequences、Great Britain and China。
 
@@ -202,8 +202,8 @@ source_text: ch08_eight_family_story.txt
 |----------|------|--------------|
 | ancestral | 祖传的；祖先的 | an ancestral connection |
 | certificates | 证书；证件 | a large collection of the emigration certificates that were issued to indentured workers |
-| recruiter | 招募者 | listed the name of the recruiter (duffadar) responsible for bringing in the prospective migrant |
-| duffadar | 招募人；工头 | the recruiter (duffadar) responsible for bringing in the prospective migrant |
+| recruiter | 招募者 | listed the name of the recruiter  (duffadar) responsible for bringing in the prospective migrant |
+| duffadar | 招募人；工头 | the recruiter  (duffadar) responsible for bringing in the prospective migrant |
 | moral universe | 道德宇宙 | everybody in the novel lives in a moral universe created by the Opium Agent |
 | world-renouncing | 放弃世界的；出世的 | a world-renouncing sadhu-like figure |
 | zamindari | 地主权益；地主领地 | acquiring a zamindari to boot |

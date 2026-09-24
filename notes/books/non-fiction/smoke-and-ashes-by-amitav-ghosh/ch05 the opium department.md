@@ -75,7 +75,7 @@ source_text: ch05_five_the_opium_department.txt
 
 **关键词**：sought-after、white families、large broods of sons、in contrast、did not require clearing an examination。
 
-**表达方式**：句首 `But` 回应上文的低薪与晋升缓慢，句中却用 `attractive` 完成反转；`broods of sons` 把家庭教育和官职分配联系起来。
+**表达方式**：句首 `Yet` 回应上文的低薪与晋升缓慢，句中却用 `attractive` 完成反转；`broods of sons` 把家庭教育和官职分配联系起来。
 
 **为什么这样写**：作者把职位看作白人家庭的制度化出路：考试门槛较低，Agent 可用 patronage 安排年轻男性；这使鸦片局的阶级特权不仅靠薪酬，也靠准入规则延续。
 

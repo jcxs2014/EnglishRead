@@ -28,7 +28,7 @@ source_text: ch07_seven_visions.txt
 | Lehne 研究指出鸦片种植区长期教育、医疗、识字和社会经济结果更差 | 区域研究／因果比较 | 鸦片制度的代价可能通过公共投资和监控结构延续 |
 | 恒河地区同时提供鸦片与军队人力；1857 年后英军减少 Purbiyas 招募并转向旁遮普 | 军事史／长期制度分析 | 帝国会以资源、族群与投资的不平衡重组长期发展 |
 
-- **论证脉络**：Sita Ram 作品被档案埋藏 → 赞助关系与殖民旅行塑造图像 → 鸟瞰和宫殿化消除工厂劳动 → Sherwill 以透视和 Progress 神话放大技术 → Shiva Lal 聚焦工人、检查与实验室 → 图像差异映射殖民者／被殖民者视角 → 鸦片区的长期代价与“资源诅咒”相连 → 鸦片区又成为军队人库 → 战后族群平衡改变 → 旁遮普获得更多投资 → 贫困与历史印记延续。
+- **论证脉络**：Sita Ram 作品被档案埋藏 → 赞助关系与殖民旅行塑造图像 → 鸟瞰和宫殿化消除工厂劳动 → Sherwill 以透视和 Progress 神话放大技术 → Shiva Lal 聚焦工人、检查与实验室 → 图像差异映射殖民者／被殖民者视角 → 鸦片区的长期代价与“资源诅咒”相连 → 鸦片区又成为军队人力库 → 战后族群平衡改变 → 旁遮普获得更多投资 → 贫困与历史印记延续。
 
 - **可质疑处**：
   1. 从图像形式推断艺术家的“意图”或意识形态时，需要区分画家主动选择、殖民赞助人的要求和观众期待；本章虽有艺术史研究支撑，仍应避免把视觉效果直接等同于唯一动机。
@@ -57,7 +57,7 @@ source_text: ch07_seven_visions.txt
 
 **中文理解**：其中一幅确实是工厂及其巨大院落的鸟瞰图：艺术家的眼睛仿佛长出翅膀，升到足以看见远处地球曲率的高度。
 
-**句子结构**：主句为 `One of these is... a bird’s-eye view`；冒号后的解释以 `the artist’s eye takes wing` 为主语，`as it were` 插入，`and rises...` 与 `can perceive...` 并行动词串。
+**句子结构**：主句为 `One of these is... a bird’s-eye view`；冒号后的解释以 `the artist’s eye takes wing` 为主语，`as it were` 插入，`takes wing` 与 `rises...` 由 `and` 协调，`can perceive...` 位于 `such...that...` 结果从句中。
 
 **关键词**：bird’s-eye view、vast compound、eye takes wing、rises to such a height、curvature of the earth。
 
@@ -97,7 +97,7 @@ source_text: ch07_seven_visions.txt
 
 > **原句 5:** "In essence, both Sita Ram and Sherwill were trying to fit an inconvenient Indian reality into a European mould, except that one did so through the idiom of modernity while the other did so by appealing to Western conceptions of the Orient, and of classical antiquity."
 
-**中文理解**：从本质上看，Sita Ram 和 Sherwell 都试图把一个不便处理的印度现实塞进欧洲模具；只是前者借现代性的语言，后者则诉诸西方关于东方与古典古代的观念。
+**中文理解**：从本质上看，Sita Ram 和 Sherwill 都试图把一个不便处理的印度现实塞进欧洲模具；只是前者借现代性的语言，后者则诉诸西方关于东方与古典古代的观念。
 
 **句子结构**：`In essence` 引入判断；主句为 `both... were trying to fit A into B`，`except that` 从句用 `one... while the other...` 区分两条路径。
 
@@ -115,7 +115,7 @@ source_text: ch07_seven_visions.txt
 
 **句子结构**：`Whereas` 引导对比从句，`both... had portrayed... highlighting...` 描述前者；主句用 `almost exclusively` 将后者焦点锁定在 workers and tasks。
 
-**关键词**：Whereas、portrayed as a testament to Empire、highlighting the buildings、monumentality、almost exclusively、workers and the tasks。
+**关键词**：Whereas、portrayed the Opium Factory as a testament to Empire、highlighting the buildings、monumentality、almost exclusively、workers and the tasks。
 
 **表达方式**：`Whereas` 把纪念性建筑与劳动任务放在同一尺度上比较；`almost exclusively` 则把视觉注意力从帝国象征拉回生产过程。
 
@@ -131,7 +131,7 @@ source_text: ch07_seven_visions.txt
 
 **关键词**：Unlike、attentive to、surveillance、ever-present、being checked、leave the factory。
 
-**表达方式**：`ever-present` 把监视写成空间常量；被动语态不说明检查者是谁，却让工人成为被处理的 grammatical object。
+**表达方式**：`ever-present` 把监视写成空间常量；被动语态不说明检查者是谁，却让 workers 成为被动句的语法主语、语义上的受事者。
 
 **为什么这样写**：画面记录了殖民制度的身体技术，却不替检查者命名；这种省略与制度的责任分散相呼应，也让观者必须自己面对被检查者的脆弱位置。
 
@@ -202,7 +202,7 @@ source_text: ch07_seven_visions.txt
 |----------|------|--------------|
 | flattered | 美化；使显得更漂亮 | He flattered the factory by turning it into a version of a Mughal or Rajput palace |
 | edification | 教益；启迪 | perhaps for the edification of British tourists |
-| mural | 壁画 | commissioned Shiva Lal to paint murals on the walls of the opium factory |
+| murals | 壁画 | commissioned Shiva Lal to paint murals on the walls of the opium factory |
 | polarization | 极化 | the intense polarization of the country’s atmosphere |
 | surveillance | 监视 | the surveillance that was ever-present in the factory |
 | technicians | 技术员 | portray Indians as skilled technicians working in a laboratory |
@@ -217,7 +217,7 @@ source_text: ch07_seven_visions.txt
 |----------|------|--------------|
 | artist | 艺术家 | The two Indian artists who painted the Patna Opium Factory |
 | patron | 赞助人 | his chief patron: Lord Moira |
-| worker | 工人 | legions of underpaid workers |
+| workers | 工人 | legions of underpaid workers |
 | factory | 工厂 | the Opium Factory |
 | opium | 鸦片 | opium cultivation in British India |
 | army | 军队 | the ethnic composition of its army |

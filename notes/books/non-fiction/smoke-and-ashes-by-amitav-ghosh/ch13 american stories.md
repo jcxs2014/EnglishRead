@@ -55,7 +55,7 @@ source_text: ch13_thirteen_american_stories.txt
 
 > **原句 2:** "The clipper was the contribution of a school of Baltimore shipbuilders who specialized in building small streamlined vessels that were fast enough to elude British warships"
 
-**中文理解**：clipper 是 Baltimore 一所造船学校的贡献；这所学校的造船者专门建造小型、流线型、快到足以躲避英国军舰的船只。
+**中文理解**：clipper 是 Baltimore 一批造船者的贡献；这些造船者专门建造小型、流线型、快到足以躲避英国军舰的船只。
 
 **句子结构**：`The clipper was the contribution of...` 为主系表；`who specialized in building...` 关系从句说明船匠专长，`that were fast enough...` 修饰 vessels。
 
@@ -125,7 +125,7 @@ source_text: ch13_thirteen_american_stories.txt
 
 > **原句 7:** "Many ‘Canton graduates’ (to use Downs’s phrase) were in their twenties when they returned from China: not only were they young and vigorous, but also their experience of doing business in China had given them a solid understanding of international trade and finance."
 
-**中文理解**：许多“Canton graduates”（借用 Downs 的说法）回到中国时只有二十多岁：他们不仅年轻、充满活力，而且在中国做生意的经验给了他们稳固的国际贸易与金融理解。
+**中文理解**：许多“Canton graduates”（借用 Downs 的说法）从中国回来时只有二十多岁：他们不仅年轻、充满活力，而且在中国做生意的经验给了他们稳固的国际贸易与金融理解。
 
 **句子结构**：`Many... were in their twenties when...` 交代年龄与回归时点；冒号后 `not only... but also...` 并列年轻体力和商业知识，`had given` 过去完成时强调经验先于后续投资。
 

@@ -39,13 +39,13 @@ source_text: ch14_fourteen_guangzhou.txt
 
 ### ① 过去并未消失
 
-> **原句 1:** "Past and present intersect everywhere in Guangzhou, in the most unexpected ways—tucked between glittering skyscrapers and long stretches of urban redevelopment are thousand-year-old Buddhist temples, centuries-old gardens, a seventh-century mosque and neighbourhoods that have remained more or less intact since the eighteenth century."
+> **原句 1:** "past and present intersect everywhere in Guangzhou, in the most unexpected ways—tucked between glittering skyscrapers and long stretches of urban redevelopment are thousand-year-old Buddhist temples, centuries-old gardens, a seventh-century mosque and neighbourhoods that have remained more or less intact since the eighteenth century."
 
 **中文理解**：过去与现在在广州各处以最出人意料的方式交汇：闪烁的摩天楼和大片城市更新之间，藏着千年佛寺、数百年花园、七世纪清真寺，以及自十八世纪以来大体保持完整的街区。
 
-**句子结构**：`Past and present intersect everywhere` 为主句；破折号后的分词短语 `tucked between...` 展开地点细节，`are...` 列出四类历史遗存。
+**句子结构**：`past and present intersect everywhere` 为主句；破折号后的分词短语 `tucked between...` 展开地点细节，`are...` 列出四类历史遗存。
 
-**关键词**：Past and present、intersect everywhere、glittering skyscrapers、urban redevelopment、thousand-year-old Buddhist temples、intact。
+**关键词**：past and present、intersect everywhere、glittering skyscrapers、urban redevelopment、thousand-year-old Buddhist temples、intact。
 
 **表达方式**：`intersect` 把时间写成空间交叉；`tucked` 让古物像被藏在现代建筑之间，清单则把千年与数世纪压缩到一条街景。
 
@@ -155,7 +155,7 @@ source_text: ch14_fourteen_guangzhou.txt
 
 **中文理解**：如果是这样，那么，那个通常被称为“Westernization”的文化适应过程，岂不是更应该被称作“Cantonization”？
 
-**句子结构**：`If so` 条件前置，`then surely` 加强推断；主句为 `that process... should be termed...`，两个现在分词短语 `called...` 与 `termed...` 并列。
+**句子结构**：`If so` 条件前置，`then surely` 加强推断；主句为 `that process... should be termed...`，`called ‘Westernization’` 与 `termed... ‘Cantonization’` 是两个过去分词短语，分别说明这一过程原有的名称和作者提议的新名称。
 
 **关键词**：If so、acculturation、Westernization、termed、Cantonization。
 
@@ -203,9 +203,9 @@ source_text: ch14_fourteen_guangzhou.txt
 | Foreign Enclave | 外国飞地 | Guangzhou’s new Foreign Enclave after the Opium Wars |
 | Cohong | 广州行商 | the wealthy merchants of the Cohong guild |
 | nurseries | 苗圃； nursery | the most important of Guangzhou’s nurseries |
-| florimania | 花卉癖 | ‘Florimania,’ he noted, ‘is even more prevalent in China than in Europe’ |
+| florimania | 花卉癖 | ‘Florimania,’ he noted, ‘is even more prevalent in China than in Europe.’ |
 | lacquered | 涂漆的 | lacquered boxes |
-| cantonment | 兵营；营区 | the military camps known as ‘cantonments’ |
+| cantonment | 兵营；营区 | The military camps known as ‘cantonments’ |
 | plant hunters | 植物猎人 | Guangzhou attracted a stream of British plant hunters |
 | gardening | 园艺 | their present taste in gardening from the Chinese |
 | mass market | 大众市场 | had an eye on the mass market |

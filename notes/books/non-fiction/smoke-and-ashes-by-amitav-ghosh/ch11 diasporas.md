@@ -207,8 +207,8 @@ source_text: ch11_eleven_diasporas.txt
 | comprador | 买办；外商本地代理 | every foreigner was required to hire a local comprador |
 | Golden Ghetto | 黄金隔离区 | a ‘Golden Ghetto’ |
 | opium farm | 鸦片专卖农场 | the opium farm, rather than a mine or a plantation |
-| syndicate | 辛迪加；联合商团 | the merchant or, more commonly, the syndicate that put in the winning bid |
-| interlocutor | 对话者；中介 | they served as essential interlocutors and intermediaries |
+| syndicate | 辛迪加；联合商团 | The merchant or, more commonly, the syndicate that put in the winning bid |
+| interlocutors | 对话者；中介 | they served as essential interlocutors and intermediaries |
 | seed capital | 启动资本 | providing not only sustenance for what is arguably the region’s most important city, Singapore, but also the seed capital for entrepreneurs |
 
 ### ⭐ 基础
@@ -221,7 +221,7 @@ source_text: ch11_eleven_diasporas.txt
 | China | 中国 | the China trade |
 | cities | 城市 | many of the cities that are now pillars |
 | merchant | 商人 | the non-Western merchants who were present in Guangzhou |
-| profit | 利润 | the bulk of the owners’ profits |
+| profits | 利润 | the bulk of the owners’ profits |
 | Britain | 英国 | It was in the name of this doctrine that Britain launched both its wars against China in the nineteenth century |
 
 ## 一句话总结

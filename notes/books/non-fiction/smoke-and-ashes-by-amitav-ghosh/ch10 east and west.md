@@ -32,7 +32,7 @@ source_text: ch10_ten_east_and_west.txt
 
 - **可质疑处**：
   1. 将 Calcutta 的激进主义与东部鸦片垄断直接连成因果很有解释力，但殖民排斥、工业化、族群结构和国际社会主义同样重要，不能让单一商品承担全部解释。
-  2. “British Bombay never essentially a colonial city”是有力的城市性格概括，但 Bombay 同样存在殖民racial秩序、工人贫困和商业排斥，不能把多样性等同于平等。
+  2. “British Bombay never essentially a colonial city”是有力的城市性格概括，但 Bombay 同样存在殖民 racial 秩序、族群差异和商业排斥，不能把多样性等同于平等。
   3. 章节称印度商人几乎没有表达对鸦片贸易的道德不安，随后以 Naoroji 作为反例；这能修正“所有商人皆无悔”的说法，却还需要更多商人、船员和地方社群的档案来衡量责任。
 
 ## 选择性精读
@@ -95,11 +95,11 @@ source_text: ch10_ten_east_and_west.txt
 
 ### ⑤ 鸦片是资本积累的主要来源
 
-> **原句 5:** "There can be no doubt, writes Farooqui, that opium was the main source of capital accumulation for indigenous merchants and bankers in western India during the first half of the nineteenth century"
+> **原句 5:** "‘There can be no doubt,’ writes Farooqui, ‘that opium was the main source of capital accumulation for indigenous merchants and bankers in western India during the first half of the nineteenth century.’"
 
 **中文理解**：Farooqui 写道，毫无疑问，鸦片是十九世纪上半叶西印度本土商人和银行家积累资本的主要来源。
 
-**句子结构**：`There can be no doubt` 为主句，`that...` 为同位语从句；插入语 `writes Farooqui` 说明来源，`during...` 限定时间，介词 `for` 连接受益者。
+**句子结构**：冒号后先以直接引语 `There can be no doubt` 引出判断，再由叙述性归属语 `writes Farooqui` 衔接第二个直接引语；`that...` 是第二个引语的内容从句，`during...` 限定时间，介词 `for` 连接受益者。
 
 **关键词**：no doubt、opium、main source of capital accumulation、indigenous merchants and bankers、western India、first half of the nineteenth century。
 
@@ -113,7 +113,7 @@ source_text: ch10_ten_east_and_west.txt
 
 **中文理解**：因此，无论以何种方式，鸦片对西印度和中印度每个商贸社群的企业成功都至关重要；事实上，可以说在这一时期，该地区极少有商号、贸易家族和商业公司完全没有以某种方式参与鸦片。
 
-**句子结构**：`Thus` 总结前文；冒号前主句为 `opium was crucial to...`，冒号后 `indeed` 引出强化的同位结构，`that...` 从句以 `there were very few... not involved...` 双重否定表达普遍性。
+**句子结构**：`Thus` 总结前文；冒号前主句为 `opium was crucial to...`，冒号后 `indeed` 引出强化的形式主语结构，`it can be said... that...` 用外置 `it` 引出内容从句，并以 `there were very few... not involved...` 双重否定表达普遍性。
 
 **关键词**：in one way or another、crucial to the success、every trading community、business houses、trading families、not involved with opium。
 
@@ -161,13 +161,13 @@ source_text: ch10_ten_east_and_west.txt
 
 **表达方式**：`never essentially` 不是简单否认殖民存在，而是拒绝把城市性格缩成殖民统治；比较结构迫使 Bombay 与 Calcutta 同时接受检验。
 
-**为什么这样写**：作者解释 Bombay 商业多样性、商人直接参与和跨社群开放的原因；但这句话是城市理想类型，不应抹去 Bombay 的工人、族群与殖民等级问题。
+**为什么这样写**：Gillian Tindall 认为 Bombay 的商业多样性、商人直接参与和跨社群开放使它有别于 Calcutta；Ghosh 借此支持两种城市制度的对照，但这句话仍不应抹去 Bombay 的族群与殖民等级问题。
 
 ### ⑩ 毒品的伦理与历史责任
 
 > **原句 10:** "This opium trade is a sin on England’s head, and a curse on India for her share in being the instrument."
 
-**中文理解**：这项鸦片贸易是英国的罪孽，也是印度的诅咒，因为印度曾参与成为其工具。
+**中文理解**：Dadabhai Naoroji 在 1901 年《Poverty and Un-British Rule in India》中把这项鸦片贸易称为英国的罪孽，也是印度的诅咒，因为印度曾参与成为其工具。
 
 **句子结构**：主句为 `This opium trade is...`，`a sin` 与 `a curse` 两个名词短语并列；`for her share in being the instrument` 说明 India 承担的具体角色。
 
@@ -175,7 +175,7 @@ source_text: ch10_ten_east_and_west.txt
 
 **表达方式**：`sin` 与 `curse` 把经济判断提升为道德和宗教审判；`being the instrument` 又指出印度不是唯一行动者，而是被纳入帝国链条的工具。
 
-**为什么这样写**：章节在大量商业分析后没有停在“利润如何分配”，而是回到中国受害、殖民共谋与印度道德责任；双重指控既拒绝洗白英国，也不让印度商人成为隐形者。
+**为什么这样写**：Naoroji 在 1901 年《Poverty and Un-British Rule in India》中把利润分析重新转成殖民责任问题；双重指控既拒绝洗白英国，也不让印度商人成为隐形者。
 
 ## 词汇分级
 

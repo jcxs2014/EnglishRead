@@ -43,7 +43,7 @@ source_text: ch09_nine_malwa.txt
 
 **中文理解**：这些领土并未由殖民国家直接管理，但当地同样种植罂粟，而且条件与比哈尔明显不同。
 
-**句子结构**：`not directly administered` 是过去分词短语，修饰 territories；`but poppies were grown...` 为主句，`under conditions...` 说明地点差异，`markedly different` 强调程度。
+**句子结构**：`These territories were not directly administered...` 是被动结构，`not directly administered` 是谓语中的过去分词；`but poppies were grown...` 为主句，`under conditions...` 说明地点差异，`markedly different` 强调程度。
 
 **关键词**：not directly administered、poppies were grown、under conditions、markedly different、Bihar。
 
@@ -91,7 +91,7 @@ source_text: ch09_nine_malwa.txt
 
 **表达方式**：把鸦片与稻麦放在同一比较框架中，故意淡化其特殊商品属性；`as freely as` 将生产描述为普通农业选择，而非国家命令。
 
-**为什么这样写**：西部地方生产没有东部鸦片局的全链条控制，这为商人网络保留利润与信息；自由并非抽象理念，而体现为谁能决定种植、加工和销售。
+**为什么这样写**：作者引用一位十九世纪英国鸦片贸易编年史作者，呈现西部地方生产没有东部鸦片局的全链条控制；这为商人网络保留利润与信息，“自由”并非抽象理念，而体现为谁能决定种植、加工和销售。
 
 ### ⑤ 商人与统治者的共生网络
 
@@ -147,7 +147,7 @@ source_text: ch09_nine_malwa.txt
 
 **表达方式**：用“被自己的火药炸死”的谚语把殖民者与 Malwa 商人放在同一讽刺平面；`something similar` 拒绝简单判断谁是唯一受害者。
 
-**为什么这样写**：作者不是说双方完全相同，而是指出控制的结构会复制；英国以武力限制中国鸦片流入，Malwa 网络则以走私和地方权力限制英国控制。
+**为什么这样写**：作者不是说双方完全相同，而是指出控制的结构会复制：英国以武力迫使清朝接受鸦片贸易，Malwa 网络则以走私和地方权力阻碍英国垄断。
 
 ### ⑨ 弱者的武器
 
@@ -167,15 +167,15 @@ source_text: ch09_nine_malwa.txt
 
 > **原句 10:** "There can be no trade without war, and no war without trade."
 
-**中文理解**：没有贸易就没有战争，没有战争也没有贸易。
+**中文理解**：荷兰殖民者 Jan Pieterszoon Coen 说，没有贸易就没有战争，没有战争也没有贸易。
 
 **句子结构**：两个分句以 `without` 构成互相依赖的对称结构；`can be no` 取代 `There is no`，使句子更具格言式力度。
 
 **关键词**：no trade without war、no war without trade。
 
-**表达方式**：短句重复 `without`，把复杂历史压缩为双向命题；它既是警句，也是对英国“自由贸易”宣传的最终反驳。
+**表达方式**：短句重复 `without`，把复杂历史压缩为双向命题；它既是 Jan Pieterszoon Coen 的警句，也是对英国“自由贸易”宣传的最终反驳。
 
-**为什么这样写**：本章从 Malwa 的商业网络推到殖民帝国的军事逻辑，最后用两句互文提醒：商业繁荣与战争并非偶然相邻，而是相互创造条件。
+**为什么这样写**：作者引用荷兰殖民者 Jan Pieterszoon Coen 的判断，从 Malwa 的商业网络推到殖民帝国的军事逻辑：商业繁荣与战争并非偶然相邻，而是相互创造条件。
 
 ## 词汇分级
 
@@ -190,7 +190,7 @@ source_text: ch09_nine_malwa.txt
 | formidable | 强大的；难对付的 | they still faced formidable challenges in western and central India |
 | insatiable | 贪得无厌的 | the British appetite for conquest had become so insatiable |
 | predatory | 掠夺性的 | fight off the predatory colonial power |
-| annihilation | 彻底消灭 | for the prevention of the growth of that Commerce and for its ultimate annihilation |
+| annihilation | 彻底消灭 | ‘the prevention of the growth of that Commerce and for its ultimate annihilation’ |
 | clandestine | 秘密的；隐蔽的 | the clandestine opium trade thus became an instrument of resistance |
 | petard | 火药；自炸物 | the colonial regime was hoist with its own petard |
 | asymmetry | 不对称 | an overwhelming asymmetry in military power |
@@ -209,6 +209,7 @@ source_text: ch09_nine_malwa.txt
 | transit duties | 过境税 | allowed the Company to jack up the transit duties to 50 and even 70 per cent |
 | indirect rule | 间接统治 | the Company opted to place them under a form of indirect rule |
 | smuggling | 走私 | Smuggling as Subversion |
+| merchants | 商人 | the canny merchants of the west coast |
 | standing armies | 常备军 | the wherewithal to maintain well-equipped standing armies |
 
 ### ⭐ 基础
@@ -217,7 +218,6 @@ source_text: ch09_nine_malwa.txt
 |----------|------|--------------|
 | colour | 颜色 | the poppies grown on the Opium Department’s territories were uniformly of the same colour: white |
 | flower | 花 | its preferred variety of flower |
-| merchant | 商人 | the canny merchants of the west coast |
 | port | 港口 | the Company’s own port, Bombay |
 | trade | 贸易 | the opium trade |
 | profit | 利润 | bringing huge profits into the Company’s coffers |

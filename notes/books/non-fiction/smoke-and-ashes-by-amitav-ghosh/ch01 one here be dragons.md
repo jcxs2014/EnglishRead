@@ -85,7 +85,7 @@ source_text: ch01_one_here_be_dragons.txt
 
 **中文理解**：然而，边界两侧都不乏兴趣与好奇。恰恰相反：印度与巴基斯坦对彼此的政治、文化、历史、时事、体育等抱有近乎痴迷的关注。
 
-**句子结构**：`Yet` 承接转折，`there is no lack of...` 先否定“兴趣不足”；`Quite the contrary` 后用冒号引出正面证据，并以六个名词短语平行列举关注领域。
+**句子结构**：`Yet` 承接转折，`there is no lack of...` 先否定“兴趣不足”；`Quite the contrary` 后用冒号引出正面证据，并以五个已列出的名词短语平行列举关注领域，末尾的 `and so on` 表示未尽清单。
 
 **关键词**：no lack of interest、Quite the contrary、obsessive interest。
 

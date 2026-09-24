@@ -25,7 +25,7 @@ source_text: ch18_eighteen_portents.txt
   | 基因工程罂粟、通信技术和芬太尼前体化学品扩大生产与运输能力 | 技术与供应链案例 | 战争、网络和人工智能会让药物扩散更难追踪 |
   | 1906 年清政府重新禁烟，1907 年英国承诺十年内停止从印度出口鸦片 | 政策史 | 国际舆论和双边承诺能够改变殖民财政的既定安排 |
   | 女性组织、社会改革者、记者和地方反鸦片者组成跨国网络 | 公民社会案例 | 反鸦片并非殖民者单独完成的“文明使命” |
-  | 独立印度和中国的强力禁烟政策曾显著压低消费，但后来“合法”鸦片又流入犯罪网络 | 政策后果 | 禁烟若与财政激励脱钩，仍可能被供应结构逆转 |
+  | 独立印度和中国的强力禁烟政策曾显著压低消费；后来印度重新以财政生产“合法”鸦片，部分供应流入犯罪网络 | 政策后果 | 禁烟若与财政激励脱钩，仍可能被印度的供应结构逆转 |
   | 气候运动以撤资和声誉损失作为策略 | 当代行动类比 | 历史上的跨国联盟为能源企业撤资提供了可借鉴的组织逻辑 |
 
 - **论证脉络**：当代供应链与旧殖民控制对比 → 犯罪网络、基因工程和芬太尼扩大风险 → 国家治理能力下降 → 鸦片与化石燃料成为现代性的双重破坏力量 → 反鸦片历史中的公众联盟 → 国际舆论改变国家政策 → 独立后的禁烟反复与财政反弹 → 以撤资和声誉成本为气候行动落点。
@@ -127,7 +127,7 @@ source_text: ch18_eighteen_portents.txt
 
 **中文理解**：但正如历史学家 Steffen Rimner 在其出色的 2018 年研究《Opium’s Long Shadow: From Asian Revolt to Global Drug Control》中所展示的，正是中国公民社会团体的坚定决心，以及清朝层级中少数人物的娴熟外交，为“世界药物管制公约”的出现提供了主要推动力。
 
-**句子结构**：`But as...` 让步状语从句引入修正，`it was... that...` 是强调句；两个并列主语 `the dogged determination...` 与 `the adroit diplomacy...` 由 `as well as` 连接，`that provided...` 强调真正的主语。
+**句子结构**：`But` 引入与前文的修正，`as the historian... has shown...` 是依据状语从句；`it was... that...` 是强调句，两个并列主语 `the dogged determination...` 与 `the adroit diplomacy...` 由 `as well as` 连接，`that provided...` 强调真正的主语。
 
 **关键词**：Steffen Rimner、dogged determination、Chinese civil society groups、adroit diplomacy、Qing hierarchy、main impetus、worldwide covenant on drug control。
 
@@ -175,7 +175,7 @@ source_text: ch18_eighteen_portents.txt
 
 **表达方式**：`enough people` 设定数量门槛，`in an organized fashion` 规定组织性，`reputational damage...outweigh the profits` 用结果比较把道德压力转换为经济变量。
 
-**为什么这样写**：作者从反鸦片历史推出气候行动策略：不只揭露企业危害，还要让大学、教会、养老金和政府同时撤资，使声誉代价超过化石燃料的利润。
+**为什么这样写**：作者从反鸦片历史推出气候行动策略：不只揭露企业危害，还要推动大学、教会、养老金和政府撤资，使声誉代价超过化石燃料的利润。
 
 ## 词汇分级
 
@@ -227,7 +227,7 @@ source_text: ch18_eighteen_portents.txt
 | India | 印度 | opium exports from India |
 | Britain | 英国 | Britain signed an agreement with China |
 | state | 国家；政府 | the traffic is controlled by criminal networks that operate outside state control |
-| supply | 供应 | the influence that any government can now exert on drug supplies |
+| supply | 供应 | The influence that any government can now exert on drug supplies |
 | empire | 帝国 | the British Empire |
 | trade | 贸易 | the opium trade |
 | movement | 运动 | the anti-opium movement |

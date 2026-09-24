@@ -25,7 +25,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 | 英军以 Nemesis 炮艇、Bengal Volunteers 和 6 million dollar indemnity 发动进攻 | 军事史／战争档案 | 鸦片利益通过海陆技术、赔款和印度兵力进入战争 |
 | Bihari sepoy 与 camp-followers 承担高风险运输、作战和后勤，却常被记忆图像抹去 | 劳工史／图像分析 | 帝国战争依赖殖民地身体，且其贡献被重新叙事 |
 | 三元里民团以“义士”名义抵抗，战斗记忆被视为中国近代民族主义起点 | 纪念史／民族主义研究 | 地方抵抗会改变国家历史叙事，但英方档案常把它称为小冲突 |
-| Kesri 既是英国殖民者也是鸦片作物的受害者／工具，鸦片“支配”扩张链条 | 生态／历史类比 | 非人类实体通过制度与身体参与历史，而非被动商品 |
+| Kesri 是英国殖民统治下的 Bihari sepoy，也是鸦片种植制度的受害者／工具，鸦片“支配”扩张链条 | 生态／历史类比 | 非人类实体通过制度与身体参与历史，而非被动商品 |
 | Qing 曾考虑利用 Nepal／Gurkha 从后方攻击英国，但因地理、外交与疑虑放弃 | 反事实战略分析 | 鸦片战争是全球战略选择，不是不可避免的文明冲突 |
 
 - **论证脉络**：镇海楼保存战争记忆 → 英军与 Bihari  troops 进入广州 → 赔款与鸦片走私利益驱动进攻 → 民团抵抗 → 战役成为中国民族主义象征 → 博物馆图像抹去印度人 → sepoy 在多重战争中寻找忠诚 → Qing 未能联合 Gurkha → 鸦片作物反过来支配帝国与士兵 → 历史记忆继续影响今日边界。
@@ -57,7 +57,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 
 **中文理解**：但零星抵抗仍在继续，中国统治者也不愿承认失败：他们持续拒绝英国的条件，其中包括要求支付 600 万白银，作为外国鸦片走私者所受损失的“赔偿”。
 
-**句子结构**：`But...` 引入僵局，`including` 从句列出条件；`to be paid` 被动不定式说明付款，`for the losses sustained by...` 说明赔偿依据。
+**句子结构**：`But...` 引入僵局，`which include...` 是非限制性定语从句，`including` 短语列出条件；`to be paid` 被动不定式说明付款，`for the losses sustained by...` 说明赔偿依据。
 
 **关键词**：sporadic resistance、reluctant to acknowledge defeat、baulk at Britain’s conditions、6 million silver dollars、reparations、foreign opium smugglers。
 
@@ -113,7 +113,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 
 **中文理解**：但在中国历史记忆中，三元里战役获得了巨大的象征意义，并被视为标志人民抵抗帝国主义开端的事件。
 
-**句子结构**：`But in Chinese historical memory` 为对比状语；主句为 `the battle... has acquired... and is regarded...`，两个被动结构分别连接象征获得与历史定位。
+**句子结构**：`But in Chinese historical memory` 为对比状语；主句为 `the battle... has acquired... and is regarded...`，由主动谓语 `has acquired` 与被动谓语 `is regarded` 构成并列结构，分别连接象征获得与历史定位。
 
 **关键词**：Chinese historical memory、battle of Sanyuanli、great symbolic importance、regarded as、beginning of popular resistance、imperialism。
 
@@ -169,7 +169,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 
 **中文理解**：尼泊尔至今仍是一个独立国家，这一事实表明，茶、鸦片和中国以许多无形方式塑造了印度次大陆的历史，也塑造了其政治地理。
 
-**句子结构**：`It is the fact that...` 强调主语从句，`is a sign of...` 给出解释；`not just... but also...` 把历史和政治地理并列，`in which` 修饰 ways。
+**句子结构**：`the fact that...` 作主语，`is a sign of...` 是表语；`not just... but also...` 把历史和政治地理并列，`in which` 修饰 ways。
 
 **关键词**：Nepal remains、independent country、a sign of、invisible hands、tea、opium、China、political geography。
 
@@ -188,7 +188,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 | expeditionary | 远征的 | the British Expeditionary Force has been in China |
 | lethally | 致命地 | the expedition’s naval wing is lethally powerful |
 | indemnity | 赔款；赔偿金 | the British now demand an ‘indemnity’ of 6 million silver dollars |
-| pillage | 劫掠；掠夺 | the troops have been ordered not to pillage |
+| pillage | 劫掠；掠夺 | The troops have been ordered not to pillage |
 | sepoys | 印度士兵 | consisting of 112 Bihari sepoys and four British officers |
 | militias | 民兵组织 | The resistance of the militias is fiercer |
 | predation | 掠夺；捕食 | instruments of predation of the white foreigners |
@@ -205,7 +205,7 @@ source_text: ch15_fifteen_the_sea_calming_tower.txt
 | garrison | 守备部队；驻军 | the small garrison inside is quickly overwhelmed |
 | Bengal Volunteers | 孟加拉志愿兵 | a company of ‘Bengal Volunteers’ |
 | camp-followers | 随军人员 | an Indian camp-follower is found just outside the camp |
-| Soldiers of Righteousness | 义士 | they call themselves ‘Soldiers of Righteousness’ |
+| Soldiers of Righteousness | 义士 | They call themselves ‘Soldiers of Righteousness’ |
 | nationalism | 民族主义 | the first link in a chain of transformations that led to modern Chinese nationalism |
 | opium poppy | 罂粟 | the colonial subject not just of the British but also of the opium poppy |
 | Gurkha kingdom | 廓尔喀王国 | in alliance with the Gurkha kingdom |
