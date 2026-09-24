@@ -89,7 +89,6 @@ modified: "2026-09-24"
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| conservatory | 温室 | sitting in the conservatory at Selby Royal |
 | garden | 花园 | Let us go and help him |
 | tea | 茶 | It was tea-time |
 | chair | 椅子 | sinking into a chair |
