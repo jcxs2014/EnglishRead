@@ -48,7 +48,7 @@ modified: "2026-09-24"
 
 > **原句 1:** I was a child of the South Side, now raising daughters who slept in rooms designed by a high-end interior decorator and who could custom order their breakfast from a chef.
 
-**中文理解**：我是一个南城孩子，如今却在养育这样的女儿——她们睡在高端室内设计师设计的房间里，还能向主厨.custom 点早餐。
+**中文理解**：我是一个南城孩子，如今却在养育这样的女儿——她们睡在高端室内设计师设计的房间里，还能向主厨定制早餐。
 
 **句子结构**：child of the South Side 与 raising daughters 的身份对照 → 两个 who 从句的奢侈细节叠加。
 

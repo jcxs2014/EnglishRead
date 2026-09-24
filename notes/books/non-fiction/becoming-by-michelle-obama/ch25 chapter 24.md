@@ -96,7 +96,7 @@ modified: "2026-09-24"
 
 **句子结构**：possible 的确认 → 破折号后的双脚意象对切（planted / pointed）。
 
-**关键词**：two planes at once（两个平面同时）、planted in reality（扎在现实里）、pointed toward progress（指向进步）
+**关键词**：two planes at once（两个平面同时）、planted in reality（扎在现实里）、the direction of progress（进步的方向）
 
 **表达方式**：planted 与 pointed 共用一双脚——现实感与方向感不冲突；这与菜园的 root 哲学同宗。
 

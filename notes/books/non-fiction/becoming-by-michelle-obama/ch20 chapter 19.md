@@ -86,7 +86,7 @@ modified: "2026-09-24"
 
 **表达方式**：define 一词两用的主动/被动对切——把舆论场写成空白地争抢；quickly and inaccurately 的副词对表示"错得又快又稳"。
 
-**为什么这样写**：这是第 16 章 "princess" 风暴的方法论结晶，也是她第一夫人生涯的第一战略——garden、Joining Forces、Let Girls Learn 都由此展开；一句话统摄 Part Three。
+**为什么这样写**：这是第 17 章 "princess" 风暴的方法论结晶，也是她第一夫人生涯的第一战略——garden、Joining Forces、Let Girls Learn 都由此展开；一句话统摄 Part Three。
 
 ### ④
 
@@ -170,7 +170,7 @@ modified: "2026-09-24"
 
 **表达方式**：裙子被写成复活术——礼服与疲惫的对照（此前刚写"hit a final fence line"）；"capable of climbing onto another stage" 呼应 "Am I good enough" 的攀登谱系。
 
-**为什么这样写**：Jason Wu 的象牙裙是 2009 年的文化记忆——她却把重点写在"复活"而非"惊艳"：真正的功能是把耗尽的自己缝回舞台；princess 的词汇在此被中性化回收（对比第 16 章的 "princess of South Chicago" 之辱）。
+**为什么这样写**：Jason Wu 的象牙裙是 2009 年的文化记忆——她却把重点写在"复活"而非"惊艳"：真正的功能是把耗尽的自己缝回舞台；princess 的词汇在此被中性化回收（对比第 17 章的 "princess of South Chicago" 之辱）。
 
 ### ⑩
 

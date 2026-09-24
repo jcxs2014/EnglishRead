@@ -71,7 +71,7 @@ modified: "2026-09-24"
 
 **表达方式**：把 West Wing 的 optics 行话（第 21 章 Halloween 之争）反手用来批评新政府——微笑本是她的义务，此刻成了她的抗议；极短句是全书式的落锤。
 
-**为什么这样写**：她全程以"grace and dignity"自持，唯一的反抗是收起笑容——这是全书对"politeness as power"最精妙的一次示范；与 ch19 的 painted-on smile 拒绝一脉相承。
+**为什么这样写**：她全程以"grace and dignity"自持，唯一的反抗是收起笑容——这是全书对"politeness as power"最精妙的一次示范；与 ch18 的 painted-on smile 拒绝一脉相承。
 
 ### ③
 

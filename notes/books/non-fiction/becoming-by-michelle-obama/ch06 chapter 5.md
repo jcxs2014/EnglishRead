@@ -153,7 +153,7 @@ modified: "2026-09-24"
 
 **关键词**：lower my sights（调低瞄准线）、the absolute reverse（彻底的反面）
 
-**表达方式**：sights（准星）与第二章 "I was ambitious, though I didn't know exactly what I was shooting for" 的 shooting 同一弹道系；every last thing 以最大量词托底。
+**表达方式**：sights（准星）与序言 "I was ambitious, though I didn't know exactly what I was shooting for" 的 shooting 同一弹道系；every last thing 以最大量词托底。
 
 **为什么这样写**：一句"调低准星"被判定为家庭价值观的反面——本章的对抗由此升级为"咨询师 vs 父母"两种声音的对决；她选择沿用家里的弹道。
 

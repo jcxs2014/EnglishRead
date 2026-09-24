@@ -95,7 +95,7 @@ modified: "2026-09-24"
 
 **句子结构**：When 时间从句内嵌 cheerily adding 现在分词 → 主句 "I demanded it" 四词收束。
 
-**关键词**：cheerily（愉快地）、demanded（强烈要求）、do-over（重做）
+**关键词**：cheerily（愉快地）、demanded（强烈要求）、kindergartners（幼儿园孩子们）
 
 **表达方式**：老师的 "cheerily" 与孩子的 "demanded" 形成温度对比；前句拖长、后句极短，速度差即态度差。
 

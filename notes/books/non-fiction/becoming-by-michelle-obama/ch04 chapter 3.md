@@ -133,7 +133,7 @@ modified: "2026-09-24"
 
 > **原句 7:** If you wanted to work as an electrician (or as a steelworker, carpenter, or plumber, for that matter) on any of the big job sites in Chicago, you needed a union card. And if you were black, the overwhelming odds were that you weren't going to get one.
 
-**中文理解**：在芝加哥，你想在任何一个大工地当电工——钳工、木匠、水管工也一样——就需要一张工会卡。而如果你是黑人，压倒性的可能是：你拿不到。
+**中文理解**：在芝加哥，你想在任何一个大工地当电工——炼钢工人、木匠、水管工也一样——就需要一张工会卡。而如果你是黑人，压倒性的可能是：你拿不到。
 
 **句子结构**：If 条件句 + 括号插入职业列举 → And if you were black 递进反转，短句收尾。
 
