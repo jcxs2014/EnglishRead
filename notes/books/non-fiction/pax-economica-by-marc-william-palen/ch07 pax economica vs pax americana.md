@@ -23,9 +23,9 @@ source_text: ch09_6_pax_economica_vs_pax_americana_the_lef.txt
 | 香农机场以布伦丹·奥里根推动的免税购物、联合国资助的多周培训课程及 Toblerone 的传播 | 案例 | 日常免税消费可被追溯为战后左翼以贸易绕开殖民壁垒、发展经济并创造和平的具体制度遗产 |
 | 冷战阵营化、朝鲜战争、美国援越、古巴禁运及关贸总协定中的保护主义延续 | 案例 | Pax Americana 的军事优先与经济民族主义持续挤压商业和平运动的多边主义方案 |
 | 印度 Swadeshi、加纳发展主义、阿根廷普雷比什及各国对李斯特思想的重新解释 | 案例 | 去殖民世界会把美国体系式保护主义转化为反新殖民的经济民族主义 |
-| CCRWT、YWCA、WCC、SPA、国际合作运动、Fair Trade 与欧洲区域主义的不同立场 | 研究 | 左翼行动者在多边治理、福利国家、劳动者权利和全球南方需求之间不断重组其自由贸易纲领 |
+| CCRWT、YWCA、WCC、SPA、国际合作运动、Fair Trade 与欧洲区域主义的不同立场 | 案例（组织实践与立场比较） | 左翼行动者在多边治理、福利国家、劳动者权利和全球南方需求之间不断重组其自由贸易纲领 |
 | G77、UNCTAD 与 1974 年 NIEO 对开放北方市场、优惠贸易、财富转移和工业保护的共同诉求 | 案例 | 第三世界可以把自由贸易的反帝主义与经济民族主义的反帝主义结合成另一种全球秩序方案 |
-| 华盛顿共识、IMF 与世界银行债务、里根与撒切尔改革、庇隆和南非支持及新自由主义时期的不平等 | 案例 | 右翼新自由主义虽继承超国家开放形式，却背离商业和平运动所要求的民主、监管、公平与不干预条件 |
+| 华盛顿共识、IMF 与世界银行债务、里根与撒切尔改革、对皮诺切特治下智利和南非的支持及新自由主义时期的不平等 | 案例 | 右翼新自由主义虽继承超国家开放形式，却背离商业和平运动所要求的民主、监管、公平与不干预条件 |
 
 - **论证脉络**：以香农机场免税购物回扣“奶酪战争” → 将战后开放秩序的失败归因于新殖民主义、新重商主义与新自由主义 → 说明冷战军事化如何把商业和平运动推向区域主义和发展权立场 → 追踪女性、基督教、社会主义、合作主义与 Fair Trade 组织对多边贸易的延续和修正 → 以 UNCTAD、G77 和 NIEO 展示全球南方如何组合开放要求与暂时保护 → 对照新自由主义借“自由—民主—和平”语言削弱左翼联盟 → 说明 2016 年后的新重商主义危机同时威胁既有秩序并可能为 Pax Economica 重新打开道路。
 - **可质疑处**：
@@ -147,7 +147,7 @@ source_text: ch09_6_pax_economica_vs_pax_americana_the_lef.txt
 
 **中文理解**：不过，新自由主义的消亡也可能再次为左翼全球主义者的 Pax Economica 梦想打开大门。
 
-**句子结构**：But 承接上一句转折；主句主语为 neoliberalism’s demise，谓语为 might also open，宾语为 the door；once again 为时间副词，to left-wing globalist dreams of Pax Economica 为不定式补足 open 的方向与内容。
+**句子结构**：But 承接上一句转折；主句主语为 neoliberalism’s demise，谓语为 might also open，宾语为 the door；once again 为时间副词，to left-wing globalist dreams of Pax Economica 是介词短语，作为 open 的补充成分，说明“为之打开通往这一梦想之门”。
 
 **关键词**：neoliberalism’s demise, open the door, left-wing globalist dreams, Pax Economica
 

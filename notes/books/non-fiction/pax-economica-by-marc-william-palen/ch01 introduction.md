@@ -45,13 +45,13 @@ source_text: ch03_introduction.txt
 
 **表达方式**：用消费者选择被压缩的讽刺场景，把抽象的关税保护转化为日常“被迫购买”的画面。
 
-**为什么这样写**：保护主义常以国家产业、就业和竞争力为辩护；这句故意只写它对个体选择的限制，为下一段把个人选择升级为国际战争制造反差。
+**为什么这样写**：保护主义常以保护国内生产者和应对国际竞争为辩护；这句故意只写它对个体选择的限制，为下一段把个人选择升级为国际战争制造反差。
 
 > **原句 2:** "But just as the war with Switzerland winds down and a peaceful League of Cheese established, an ultimatum arrives from Russia objecting to a US tariff on caviar."
 
 **中文理解**：然而，就在对瑞士的战争逐渐结束、“和平奶酪联盟”建立之际，俄罗斯又因美国对鱼子酱征收关税而发出最后通牒。
 
-**句子结构**：But just as 引导时间让步状语从句，主句为 an ultimatum arrives；objecting to a US tariff on caviar 是现在分词短语，修饰 arrives 所隐含的交涉行为。
+**句子结构**：But just as 引导时间让步状语从句，主句为 an ultimatum arrives；objecting to a US tariff on caviar 是带省略逻辑主语的分词状语，表示俄罗斯反对该关税。原文 a peaceful League of Cheese established 缺少系动词，应视为 source 的语法瑕疵，不按完整并列句分析。
 
 **关键词**：winds down, an ultimatum arrives, objecting to, caviar
 
@@ -69,7 +69,7 @@ source_text: ch03_introduction.txt
 
 **表达方式**：先给出正面替代方案，再用冒号把历史术语 “Pax Economica” 命名化，使复杂运动获得清晰标识。
 
-**为什么这样写**：“罗马和平（Pax Romana）”的经济类比把和平理解为需要制度设计的世界秩序，而非没有冲突的自然状态；devoid of 进一步明确该秩序同时排斥帝国与战争。
+**为什么这样写**：这个词把和平活动家的替代性愿景命名化，强调它不是没有冲突的自然状态，而是需要制度设计的经济秩序；devoid of 进一步明确该秩序同时排斥帝国与战争。
 
 > **原句 4:** "The ensuing stringent travel restrictions, broken supply chains, resurgent xenophobia, and further protectionist retrenchment that have followed demonstrate how the coronavirus has ratcheted up the political forces of anti-globalism that had been making headway in the years since the 2008 Great Recession."
 
@@ -87,7 +87,7 @@ source_text: ch03_introduction.txt
 
 **中文理解**：一些人追求改革，另一些人追求革命，但所有人都相信，经济相互依存能够促进民主化、经济与社会正义以及世界和谐。
 
-**句子结构**：Some..., others..., but all... 构成对照递进；all shared the belief 后接 that 同位语从句，从句内用 could foster 连接三个并列宾语。
+**句子结构**：Some..., others... 构成对照，but all... 在承认差异后转向共同点；all shared the belief 后接 that 同位语从句，从句内用 could foster 连接三个并列宾语。
 
 **关键词**：Some sought reform, others revolution, economic interdependence, foster democratization
 
@@ -117,7 +117,7 @@ source_text: ch03_introduction.txt
 
 **表达方式**：用两组 even 排除“国际主义等于否认国家”的误读，并让承认国家现实与超越国家限制同时成立。
 
-**为什么这样写**：这一并列句校准本书的历史语义：19 至 20 世纪的国际主义不是后nationalist时代的无政府想象，而是以国家持久存在为前提、试图限制其破坏力的政治方案。
+**为什么这样写**：这一并列句校准本书的历史语义：19 至 20 世纪的国际主义以承认民族国家的持久存在为前提，并试图限制民族主义对和平秩序的破坏，而不是否认国家本身。
 
 > **原句 8:** "Pax Economica’s cast of characters accordingly understood free trade to mean low tariffs for revenue purposes only, rather than their near absence as free trade is commonly thought of today."
 
@@ -129,7 +129,7 @@ source_text: ch03_introduction.txt
 
 **表达方式**：先还原行动者当时的主观定义，再明确指出它与今天常见理解的差别，避免用后见之明直接改写历史。
 
-**为什么这样写**：战前政府大量依赖关税获得财政收入，因此“低关税”本身就是实质性制度变化；澄清这一点，才能理解左翼为何把降低军费、降低税收与和平目标连在一起。
+**为什么这样写**：战前政府大量依赖关税获得财政收入，因此“低关税”本身就是实质性制度变化；澄清这一点，才能理解左翼为何把降低帝国防务和军费支出、把财政收入关税压低与和平目标连在一起。
 
 > **原句 9:** "Excepting British peace historiography, most national histories of pre-1945 peace movements (and most are national histories) grant little more than a passing reference, if any, to free trade."
 
@@ -153,7 +153,7 @@ source_text: ch03_introduction.txt
 
 **表达方式**：先创造“跨帝国”这一分析概念，随即把它还原为读者更熟悉的“跨国”，说明它不是泛称，而是有明确边界的史学操作。
 
-**为什么这样写**：跨国容易让人联想到民族国家之间的合作，跨帝国则强调反帝行动经常发生在帝国统治内部、跨越帝国网络，并利用帝国体系自身的交通、通信和制度条件。
+**为什么这样写**：跨国容易让人联想到民族国家之间的合作，跨帝国则强调反帝行动经常发生在帝国统治内部并跨越其边界，而不是仅在帝国之外抵抗。
 
 ## 词汇分级
 

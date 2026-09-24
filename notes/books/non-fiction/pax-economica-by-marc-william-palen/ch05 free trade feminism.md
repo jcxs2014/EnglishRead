@@ -30,7 +30,7 @@ source_text: ch07_4_free_trade_feminism_the_international_.txt
 - **可质疑处**：
   1. 本章主要以组织纲领、会议决议、演讲和个人思想来证明女性自由贸易主义的历史影响，尚未系统比较它与美国国家政策、男性和平组织、战争经济动员及消费者利益之间的相对作用，因此“女性运动帮助塑造战后秩序”的因果强度仍需更多反事实证据。
   2. 反帝主义并非稳定而一致的女性立场。Martineau 和 Nightingale 曾接受殖民统治或文明化使命，20 世纪初的参选运动也受种族化世界观的约束；即便 1926 年 Dublin 大会的反帝方案，仍需由外部机构“regulation without control”。这使“非强制自由贸易”与跨国治理之间的边界并不清楚。
-  3. 作者承认全球南方反殖民民族主义可能需要关税保护来发展本国工业，但主要把 Swadeshi Movement、墨西哥石油国有化等案例作为组织内部张力的例证，尚未充分比较殖民地发展权与普遍自由贸易原则发生冲突时，哪些制度条件应优先。
+  3. 作者承认全球南方反殖民民族主义可能需要经济民族主义的临时例外，包括资源控制、抵制和发展本国工业；墨西哥案例是石油国有化，而非关税保护。作者主要把这些案例作为组织内部张力的例证，尚未充分比较殖民地发展权与普遍自由贸易原则发生冲突时，哪些制度条件应优先。
 
 ## 选择性精读
 
@@ -86,7 +86,7 @@ source_text: ch07_4_free_trade_feminism_the_international_.txt
 
 **中文理解**：第一届国际妇女大会于 1915 年春天在海牙召开，大会敦促各国实现商业自由，并主张自由航行和开放门户。
 
-**句子结构**：主语为 The first International Congress of Women，谓语为 was convened；at The Hague 和 in Spring 1915 提供地点与时间，where 引导非限制性定语从句修饰大会；urged 后接三个并列宾语，第一项是带引号的直接引语。
+**句子结构**：主语为 The first International Congress of Women，谓语为 was convened；at The Hague 和 in Spring 1915 提供地点与时间，where 为指向前文地点 The Hague 的地点关系副词，引导在该地发生的后续动作；urged 后接三个并列宾语，第一项是带引号的直接引语。
 
 **关键词**：International Congress of Women, liberty of commerce, freedom of the seas, the open door
 
@@ -108,15 +108,15 @@ source_text: ch07_4_free_trade_feminism_the_international_.txt
 
 > **原句 7:** "The organization also gave its support to the League of Nations’s call for economic interdependence and European union to end the ‘menace to world peace’."
 
-**中文理解**：该组织还支持国际联盟关于加强经济相互依存和欧洲联合的呼吁，以终结对世界和平的“威胁”。
+**中文理解**：国际妇女参政权与平等公民权联盟（IAW）还支持国际联盟关于加强经济相互依存和欧洲联合的呼吁，以终结对世界和平的“威胁”。
 
-**句子结构**：主语为 The organization，谓语为 gave，宾语为 its support，介词 to 引出 League of Nations’s call；call 的后置目的状语 to end 以引号中的 menace to world peace 具体化目标。
+**句子结构**：The organization 指国际妇女参政权与平等公民权联盟（IAW）；主语为 The organization，谓语为 gave，宾语为 its support，介词 to 引出 League of Nations’s call；call 的后置目的状语 to end 以引号中的 menace to world peace 具体化目标。
 
 **关键词**：League of Nations’s call, economic interdependence, European union, menace to world peace
 
-**表达方式**：用 also 表明这是对既有自由贸易立场的延伸，再用经济相互依存、欧洲联合和和平威胁组成由机制到目标的政策链。
+**表达方式**：IAW 以 also 表明这是对既有自由贸易立场的延伸，再用经济相互依存、欧洲联合和和平威胁组成由机制到目标的政策链。
 
-**为什么这样写**：这句显示战间期女性主义已不满足于本国关税改革，而是把国际联盟和欧洲合作视为管理相互依存的制度工具，为后文的超国家治理埋下逻辑基础。
+**为什么这样写**：这句显示 IAW 及战间期女性主义已不满足于本国关税改革，而是把国际联盟和欧洲合作视为管理相互依存的制度工具，为后文的超国家治理埋下逻辑基础。
 
 > **原句 8:** "In Dublin, Balch called for a non-coercive programme of free trade and supranational governance to give underdeveloped states a leg up."
 
@@ -146,7 +146,7 @@ source_text: ch07_4_free_trade_feminism_the_international_.txt
 
 **中文理解**：然而，到第二次世界大战爆发时，这种对自由贸易的支持有时会使国际女性和平组织与全球南方的反殖民民族主义者发生冲突；后者转而采纳经济民族主义，以发展本国工业并削弱西方殖民主义。
 
-**句子结构**：前置时间状语 By the outbreak of the Second World War 后以 however 转折；主语为 this free-trade endorsement，谓语为 would sometimes place，地点关系由 at loggerheads with 表示；those anti-colonial nationalists 由 who 引导定语从句，从句再以 in order to 交代目的。
+**句子结构**：前置时间状语 By the outbreak of the Second World War 后以 however 转折；主语为 this free-trade endorsement，谓语为 would sometimes place，at loggerheads with 表示组织间对立而非地点关系；those anti-colonial nationalists 由 who 引导定语从句，从句再以 in order to 交代目的。
 
 **关键词**：Second World War, free-trade endorsement, anti-colonial nationalists, economic nationalism, develop domestic industries
 

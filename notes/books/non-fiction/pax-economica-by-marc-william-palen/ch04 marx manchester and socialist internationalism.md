@@ -42,9 +42,9 @@ source_text: ch06_3_marx_and_manchester_the_pacifistic_evo.txt
 
 **关键词**：Much like their liberal radical contemporaries, free trade, closely tied to, peace and anti-imperial activism
 
-**表达方式**：以 Much like 把社会主义者放进自由激进派的历史环境中，再用 closely tied to 把三者压缩成一条因果链。
+**表达方式**：以 Much like 把社会主义者放进自由激进派的历史环境中，再用 closely tied to 把自由贸易与和平、反帝行动压缩成一条紧密关联的历史脉络。
 
-**为什么这样写**：这句直接提出全章的“奇怪伙伴”命题：社会主义者不是在接受右翼市场自由主义，而是在和平与反帝目标上同曼彻斯特传统相遇。
+**为什么这样写**：这句直接提出全章的“奇怪伙伴”命题：社会主义者不是简单接受资本主义自由贸易方案，而是在和平与反帝目标上同曼彻斯特传统相遇。
 
 > **原句 2:** "After the First World War, an even stronger global swing towards economic nationalism and imperial retrenchment encouraged the widespread left-wing socialist internationalist backing of capitalist supranational initiatives such as the League of Nations, and subsequently the United Nations and European Union, in the hope of facilitating freer trade, decolonization, and world peace."
 
@@ -92,7 +92,7 @@ source_text: ch06_3_marx_and_manchester_the_pacifistic_evo.txt
 
 **表达方式**：四项并列把保护主义的后果逐级扩展到经济不平等与国际冲突，再用 paving the way 把所有后果汇入革命方向。
 
-**为什么这样写**：希尔费丁并非抛弃马克思的自由贸易，而是反转其阶段顺序：保护主义先于并制造自由贸易的历史条件，垄断金融资本遂成为资本主义的最新乃至最高阶段。
+**为什么这样写**：希尔费丁并非抛弃马克思的自由贸易，而是把阶段顺序倒置为自由贸易在先、保护主义作为其后的进步阶段；保护主义造成的垄断与金融资本遂被视为资本主义的最新乃至最高阶段。
 
 > **原句 6:** "Within Euro-America, Marx-List nationalist adherents tended to support militarism, immigration restrictions, monopolies, and imperialism, providing a stark contrast to the Marx-Manchester internationalist supporters of free trade, anti-imperialism, and peace."
 
@@ -134,7 +134,7 @@ source_text: ch06_3_marx_and_manchester_the_pacifistic_evo.txt
 
 **中文理解**：战间期复兴的国际合作运动为 Marx-Manchester 和平运动注入动力；该运动主张一条经济上的“第三条道路”，位于个人主义与集体主义之间，也位于自由主义改革与社会主义革命之间。
 
-**句子结构**：主句主语为 The Marx-Manchester peace movement，谓语 received an interwar boost；which 引导非限制性定语从句，修饰 movement；situated between... and between... 双重并列说明“第三条道路”的位置。
+**句子结构**：主句主语为 The Marx-Manchester peace movement，谓语 received an interwar boost；which 引导非限制性定语从句，修饰 the resurgent international co-operative movement，而不是主句主语；situated between... and between... 双重并列说明“第三条道路”的位置。
 
 **关键词**：interwar boost, resurgent international co-operative movement, an economic ‘third way’, situated between, liberal reform and socialist revolution
 

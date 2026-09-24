@@ -21,12 +21,12 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|------|---------|
 | Cobden、Bright、Sturge 与反《谷物法》运动同废奴和贵格会和平网络结合 | 案例 | 自由贸易与基督教和平并非偶然并列，而形成了跨大西洋的“婚姻” |
-| Bowring、Livingstone 及传教士一方面宣传反奴役和商业开放，另一方面支持鸦片战争与帝国扩张 | 案例 | 基督教的经济世界主义并不天然排斥帝国主义，作者必须解释其内在矛盾 |
+| Bowring 强制开放中国市场、Livingstone 参与非正式帝国使节网络、传教游说团体接受鸦片战争结果并为之正当化 | 案例 | 基督教的经济世界主义并不天然排斥帝国主义，作者必须解释其内在矛盾 |
 | Leavitt、Garrison、Sturge 等人在 Free Produce、抵制和自由劳动问题上虽手段不一，却共享解放人身与贸易的目标 | 案例 | 运动的统一主要体现在政治目的，而非具体经济手段；分歧并未消除共同左翼信念 |
 | 1930 年代 YWCA、World Tomorrow、Alliance 与天主教和平组织把关税、原料、移民和主权问题纳入世界秩序方案 | 案例 | 经济民族主义不再只是贸易偏好，而被和平活动者解释为帝国主义、征服与战争的制度根源 |
 | Hull 的 RTAA、GATT 以及 1945 年联合国成立得到基督教经济和平工作者的支持 | 案例 | 自由贸易、超国家治理和世界联邦最终获得了战后制度化通道 |
 
-- **论证脉络**：从 19 世纪中叶传教与反奴役网络中提出自由贸易和平的结合 → 展示基督教活动者同时参与帝国扩张与废奴反帝实践 → 追溯贵格会、废奴主义者、Henry George、Noman Angell 与合作社传统的扩散 → 说明第一次世界大战、经济大萧条和关税战把温和改革推向更激进的反民族主义立场 → 以 YWCA、World Tomorrow、Alliance、天主教组织及青年运动构建制度和舆论网络 → 落在 Hull 的贸易自由化、GATT 与联合国所代表的基督教经济世界主义制度化。
+- **论证脉络**：从 19 世纪中叶传教与反奴役网络中提出自由贸易和平的结合 → 展示基督教活动者同时参与帝国扩张与废奴反帝实践 → 追溯贵格会、废奴主义者、Henry George、Norman Angell 与合作社传统的扩散 → 说明第一次世界大战、经济大萧条和关税战把温和改革推向更激进的反民族主义立场 → 以 YWCA、World Tomorrow、Alliance、天主教组织及青年运动构建制度和舆论网络 → 落在 Hull 的贸易自由化、GATT 与联合国所代表的基督教经济世界主义制度化。
 - **可质疑处**：
   1. 本章用 Cobden、Bright、Leavitt 等案例说明自由贸易和平联盟的形成，但这些材料主要展示思想接近、组织联系和政策倡议；它们尚不足以单独证明贸易自由化在所有成员的实际政策中稳定地压倒了帝国利益、国家保护和阶级冲突。
   2. 原文反复把经济民族主义描述为帝国主义、征服和战争的原因或“微妙形式”，却主要通过组织报告、历史类比和行动者的自我解释来支撑这一因果判断，缺少对不同关税体系与战争结果的比较检验。因此，“关税导致战争”的强命题与“关税加剧既有民族主义和帝国竞争”的较弱命题之间仍有解释空间。
@@ -42,7 +42,7 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 
 **关键词**：a consensus was reached, a worsening economic depression, mounting trade wars, free trade as a prerequisite for world peace
 
-**表达方式**：先用一个简短的完成时判断收束长期争论，再用三个并列的危机名词把组织立场放回具体的 1930 年代背景中。
+**表达方式**：先用一个简短的结果性过去时被动判断收束长期争论，再用三个并列的危机名词把组织立场放回具体的 1930 年代背景中。
 
 **为什么这样写**：它把“支持自由贸易”从抽象教义改写成危机中的制度选择，并为后文解释 YWCA 如何影响 Cordell Hull 的贸易改革建立时间与因果上的过渡。
 
@@ -50,7 +50,7 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 
 **中文理解**：相反，他们认为，上帝所意图的是一种新的经济秩序：一种由自由贸易、兄弟情谊和联邦主义推导出来的、相互依存、和平且公平的世界秩序。
 
-**句子结构**：主句为 They desired a new economic order；as, they felt, 是插入的叙述性副词，God had intended it 是无引导词的内容分句，说明行动者如何理解这一秩序；冒号后的名词短语进一步解释 a new economic order，to be derived from 说明其来源。
+**句子结构**：主句为 They desired a new economic order；as 引导内容从句，they felt 为插入的叙述性成分，God had intended it 是该从句的主谓结构；冒号后的名词短语进一步解释 a new economic order，to be derived from 说明其来源。
 
 **关键词**：instead desired, as, they felt, God had intended it, interdependent, peaceful, and equitable, derived from free trade, fraternity, and federation
 
@@ -110,7 +110,7 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 
 **中文理解**：第一次世界大战和大萧条之后滋长的种种不自由“主义”——法西斯主义、纳粹主义、殖民主义和保护主义——反而加强了基督教世界主义者的决心：经济相互依存与国际兄弟情谊必须成为和平世界秩序的基础。
 
-**句子结构**：主语是 The illiberal ‘isms’ that grew...，其中 that 引导定语从句；两个破折号之间是 appositive 解释；主句谓语为 only strengthened，宾语 the Christian cosmopolitan resolve 后接 that 宾语从句及 must underpin。
+**句子结构**：主语是 The illiberal ‘isms’ that grew...，其中 that 引导定语从句；两个破折号之间是 appositive 解释；主句谓语为 only strengthened，宾语 the Christian cosmopolitan resolve 后接 that 内容从句，说明经济相互依存与国际兄弟情谊必须支撑和平秩序。
 
 **关键词**：The illiberal ‘isms’, in the wake of the First World War and the Great Depression, only strengthened, economic interdependence and international fraternity, must underpin a peaceful world order
 
@@ -122,11 +122,11 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 
 **中文理解**：极端经济民族主义不只是商品交换、金融稳定和人员自由往来的障碍；它还会煽动帝国主义、征服和战争，并且本身就是一种隐蔽而阴险的战争形式。
 
-**句子结构**：第一句用 more than + 名词短语，把 Extreme economic nationalism 界定为不止于一个贸易、金融和人员流动的障碍；后面两句以 It is 起句反复，分别用不定式短语和介词短语补足表语，形成层层升级的判断。
+**句子结构**：第一句用 more than + 名词短语，把 Extreme economic nationalism 界定为不止于一个贸易、金融和人员流动的障碍；后面两句均以 It is + 名词短语作表语，并由 to imperialism、of war 等介词短语补充具体对象，形成层层升级的判断。
 
 **关键词**：Extreme economic nationalism, more than a barrier, the free intercourse of men, an incitement to imperialism, conquest and war, a subtle and insidious form of war
 
-**表达方式**：先列举贸易、金融和人员流动的正常受益者，再以重复的 It is 句式把“障碍”升级为“煽动”，最后直接改写为“战争本身”。
+**表达方式**：先列举贸易、金融稳定和人员自由往来等正常经济活动，再以重复的 It is 句式把“障碍”升级为“煽动”，最后直接改写为“战争本身”。
 
 **为什么这样写**：这组三句是本章最强的规范判断：它把关税、原料争夺和贸易战从经济摩擦重新定义为帝国主义与战争的先导机制。
 
@@ -140,13 +140,13 @@ source_text: ch08_5_free_trade_fraternity_and_federation_t.txt
 
 **表达方式**：用四个现在时动作组成跨越大洲和月份的经济连锁反应，以银行倒闭、抵制和失业把“相互依存”写成具体的时间链。
 
-**为什么这样写**：作者不把全球相互依存描绘成自动带来繁荣的好处，而是让读者看到经济联系如何把银行危机、殖民地运动和工人失业连在一起，从而为世界治理的必要性铺垫。
+**为什么这样写**：Palen 借 Richard Fagley 的观察指出，全球相互依存并不会自动带来繁荣；经济联系会把银行危机、殖民地运动和工人失业连在一起，从而为世界治理的必要性铺垫。
 
 > **原句 10:** "After a century of left-wing Christians’ grassroots activism on behalf of free trade, fraternity, and federation, their ecumenical Pax Economica appeared to have finally arrived."
 
 **中文理解**：经过一个世纪以来左翼基督徒以自由贸易、兄弟情谊和联邦主义为目标的基层行动，他们那普世合一的“Pax Economica”似乎终于到来了。
 
-**句子结构**：After 引导完成时状语从句，主句为 their ecumenical Pax Economica appeared to have finally arrived；appear to have done 是“似乎已经完成”的结构，to have arrived 为完成不定式。
+**句子结构**：After 引导介词短语作时间背景状语，主句为 their ecumenical Pax Economica appeared to have finally arrived；appear to have done 是“似乎已经完成”的结构，to have arrived 为完成不定式。
 
 **关键词**：After a century of left-wing Christians’ grassroots activism, on behalf of free trade, fraternity, and federation, their ecumenical Pax Economica, appeared to have finally arrived
 

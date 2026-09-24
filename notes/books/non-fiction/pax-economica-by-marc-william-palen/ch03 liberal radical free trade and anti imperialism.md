@@ -21,7 +21,7 @@ source_text: ch05_2_the_anti_imperialism_of_free_trade_the.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 1851 年伦敦世界博览会及曼彻斯特学派对自由贸易、繁荣、民主与和平的联结 | 案例（大型博览会与政治组织） | 自由贸易和平愿景不是抽象口号，而被组织者转化为跨国公共活动和政治纲领 |
-| 科布登反对英印殖民体系、帕麦斯顿式干预与英国以“自由贸易使命”为名的武力政策 | 案例（外交与殖民政策史） | “自由贸易”只有在非强制、允许殖民地独立并削减帝国军费时才具有本章所定义的反帝意义 |
+| 科布登反对英印殖民体系、帕麦斯顿式干预与英国以“自由贸易使命”为名的武力政策 | 案例（外交与殖民政策史） | 在科布登式反帝论述中，非强制贸易、殖民地独立或权力移交、削减帝国军费被视为相互联系的重要条件 |
 | 自由贸易运动同废奴主义结合，并在英、美、西、德、法、意等国形成组织；古巴与菲律宾反殖民者又把自由贸易诉求反馈给美国政策 | 案例（跨国组织与思想传播） | 运动既能跨越帝国边界，也能从殖民地社会内部批判帝国关税统治 |
 | 乔治主义的土地单一税、霍布森等新自由主义者的帝国主义批判，以及国际自由贸易联盟的跨阶层网络 | 研究（理论文本与组织网络） | 去除土地垄断、保护主义、金融势力和民族主义，被视为阻止帝国扩张与战争的制度路径 |
 | 国际联盟时期的自由贸易倡议，以及赫尔主持的互惠贸易协定、联合国与关贸总协定建设 | 案例（制度史） | 商业和平运动的思想资源进入 1930—1940 年代国家政策与国际制度建设，支持战后开放型秩序 |
@@ -56,7 +56,7 @@ source_text: ch05_2_the_anti_imperialism_of_free_trade_the.txt
 
 **表达方式**：engraft“嫁接”把两项原本分离的政治运动写成可以连接的有机组织，而末句以等式化判断取消二者的界限。
 
-**为什么这样写**：本章并不把反帝主义当作自由贸易自然附带的次要结果；科布登的觉醒时刻表明，它需要一场有意识的政治联盟，并且和平活动者能够为贸易改革提供更明确的目标。
+**为什么这样写**：本章并不把反帝主义当作自由贸易自然附带的次要结果；科布登的觉醒时刻表明，自由贸易运动与和平运动被视为同一事业，并需要有意识的政治联盟。
 
 > **原句 3:** "Granting colonies their independence in turn meant that Britain (and by extension rival powers) could substantially cut back on military spending that would otherwise be directed towards imperial defence, thus permitting lower taxation."
 
@@ -68,7 +68,7 @@ source_text: ch05_2_the_anti_imperialism_of_free_trade_the.txt
 
 **表达方式**：用“殖民地独立 → 帝国军费削减 → 税收降低”的因果链，把抽象的反殖民立场转化为各国财政利益可以感知的政策后果。
 
-**为什么这样写**：作者在回应“自由贸易只会帮助英国商业力量”的反驳；殖民独立在此不是人道口号，而是让帝国防务失去必要并释放公共财政的结构性条件。
+**为什么这样写**：作者把殖民独立与反帝、和平目标连接起来：独立并非只是人道口号，而是使原本用于帝国防卫的军费可以被大幅削减，从而降低税负并释放公共财政的结构性条件。
 
 > **原句 4:** "Bowring’s liberal imperial enforcement of free trade as a ‘civilizing mission’ earned the support of Palmerston himself."
 
@@ -120,7 +120,7 @@ source_text: ch05_2_the_anti_imperialism_of_free_trade_the.txt
 
 > **原句 8:** "As a result, financiers, in cahoots with industrial monopolists and aristocrats, next turned to formal colonialism to acquire outlets for surplus capital and new sources of raw materials."
 
-**中文理解**：结果，金融家与工业垄断者、贵族沆瀣一气，继而转向正式殖民主义，以获取过剩资本的出口和新的原材料来源。
+**中文理解**：结果，金融家与工业垄断者、贵族沆瀣一气，继而转向正式殖民主义，以获取过剩资本的投资出路和新的原材料来源。
 
 **句子结构**：As a result 为结果状语；主语为 financiers，in cahoots with ... 为插入修饰语；谓语 turned to，to acquire ... 为目的状语，next 在时间维度上标记行动升级。
 
