@@ -218,7 +218,7 @@ modified: "2026-09-24"
 | women | 女性 | The Babayagas live together in a six-storey apartment block designed for single – and independent – women over the age of sixty |
 | age | 年龄 | women over the age of sixty |
 | home | 家 | This is not a retirement home where carers time every meal and movement. |
-| community | 社区 | There are over a hundred different ethnicities living in Montreuil, and it feels like they’re all here on Rue de l’Église. |
+| neighbourhood | 街区 | the space would have to be of use to the whole neighbourhood. |
 | family | 家庭 | She made it clear to her family that she didn’t want to spend her final years in a care home |
 | care | 照护 | she didn’t want to spend her final years in a care home, bound by timetables set by others |
 | money | 钱 | ‘I remember the money my husband gave me every month,’ Thérèse revealed |

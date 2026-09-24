@@ -63,7 +63,7 @@ modified: "2026-09-24"
 
 **句子结构**：`The five women leaders` 是主语，`from different parts...` 是后置定语；`share the aim of` 后接动名词 `restructuring`，`by tackling...` 说明实现目标的方式，`the most urgent issues affecting Faguas` 为 tackling 的宾语。
 
-**关键词**：different social strata、share the aim、restructuring、male-centred、most urgent issues。
+**关键词**：social strata、share the aim、restructuring、male-centred、urgent issues。
 
 **表达方式**：`from different parts of the social strata` 不只是人物说明，也预先规定政治代表必须跨越阶层；`most urgent` 将宏大重构压到暴力这一最紧迫的现实。
 

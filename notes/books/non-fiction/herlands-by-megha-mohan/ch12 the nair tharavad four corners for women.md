@@ -10,7 +10,7 @@ modified: "2026-09-24"
 - **出处**：*Herlands* by Megha Mohan，“10: The Nair Tharavad: Four Corners for Women”
 - **作者**：Megha Mohan（英国广播公司全球性别与身份记者、作家）
 - **章节定位**：全书第十章，也是作者以家族记忆为线索的倒数第二篇案例研究。作者追溯印度喀拉拉邦奈尔族女性母系 tharavad 的生活史、空间制度、财产继承、婚姻实践与殖民改造，揭示女性共同居住曾经提供的安全和地位，也记录其阶级、种姓与殖民权力限制。
-- **字符数**：约 45,600 字符
+- **字符数**：约 43,600 字符
 - **一句话主旨**：tharavad 不是天然平等的女性乌托邦，而是一套把女性居住、照护、财产和记忆集中起来的制度；它曾经让女性免于被排除在婚姻和老年之外，却依赖贫困女性劳动、男性等级与殖民法律，最终在现代核心家庭和女性个人自由之间留下两难。
 
 ## 论证结构
@@ -43,13 +43,13 @@ modified: "2026-09-24"
 
 > **原句 1:** "A tharavad, she explained, was an ancestral home shared by extended family members linked to one common female elder."
 
-**中文理解**：作者写道，一位年长女性是家族成员共同联系的中心，tharavad 便是围绕她建立的、由大家族成员共同居住的祖居。
+**中文理解**：Geetha chechi 解释道，tharavad 是由同一位年长女性联系起来的大家族成员共同居住的祖居。
 
 **句子结构**：`A tharavad` 是主语，`was` 是系动词，`an ancestral home` 是表语；`shared by extended family members linked to one common female elder` 是过去分词短语，修饰 `ancestral home`，其中 `linked to` 进一步说明家族成员的联系。
 
 **关键词**：ancestral home、shared by、extended family members、one common female elder。
 
-**表达方式**：作者先用 `ancestral home` 保留家庭尺度，再用 `one common female elder` 把继承关系具体化；词源解释不是抽象术语，而是女性居住和家族记忆的组织机制。
+**表达方式**：Geetha chechi 先用 `ancestral home` 保留家庭尺度，再用 `one common female elder` 把居住与继承关系具体化；这是制度定义，而非词源说明。
 
 **为什么这样写**：tharavad 的制度意义必须从“谁居住、谁连接、谁继承”开始理解，而不能把它简单翻译成一个地方名；这也为后文讨论女性空间、身份和现代迁移留下标准。
 
@@ -159,7 +159,7 @@ modified: "2026-09-24"
 
 **句子结构**：`The Travancore Nair Act ... and the Cochin Nair Act ...` 是并列主语；`made ... illegal` 是谓语；`and as a result` 引出结果，`joint female-led set-ups dissipated` 为主句，`giving way to` 为现在分词短语。
 
-**关键词**：made the informal marriage illegal、joint female-led set-ups、dissipated、giving way to。
+**关键词**：informal marriage、sambadhanam、illegal、female-led set-ups、giving way to。
 
 **表达方式**：作者把法律名称、时间、`illegal` 和结果放在同一句中，形成制度转折的时间线；`dissipated` 也保留了变化并非瞬间完成的渐进性。
 

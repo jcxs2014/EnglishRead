@@ -89,7 +89,7 @@ modified: "2026-09-24"
 
 **中文理解**：后来，性别关系发生了变化。女性主导的共同体变成了传统的男性主导共同体。
 
-**句子结构**：第一句是无主语的时间连接句，`changed` 为系表结构；第二句主语为 `The women-led community`，`became` 后接表语 `a traditional male-led one`，以 `women-led` 与 `male-led` 形成对称对照。
+**句子结构**：第一句用 `Then` 承接时间转折，`the gender dynamics` 为主语，`changed` 为谓语动词；第二句主语为 `The women-led community`，`became` 后接表语 `a traditional male-led one`，以 `women-led` 与 `male-led` 形成对称对照。
 
 **关键词**：gender dynamics、women-led、traditional、male-led、became。
 
@@ -155,7 +155,7 @@ modified: "2026-09-24"
 
 ### ⑨ “没有我们就没有关于我们”
 
-> **原句 9:** "‘Nothing about us, without us.’"
+> **原句 9:** "Nothing about us, without us."
 
 **中文理解**：“没有我们，就不能谈论我们。”
 

@@ -127,15 +127,15 @@ modified: "2026-09-24"
 
 > **原句 7:** "The Balobedu were not a people driven by profit and money during the rule of the queens. Produce was farmed, consumed and traded between people, rather than marketed and sold. The queen did not tax her own people and did not want to be a part of a governmental hierarchy of money."
 
-**中文理解**：女王统治时期，Balobedu 人并不是由利润和金钱驱动的民族；人们种植、消费并在彼此之间交易产品，而不是把它们市场化出售。女王不向自己的人民征税，也不愿成为金钱政府等级体系的一部分。
+**中文理解**：Rodney Mokgwakgwe Modjadji 向作者讲述：女王统治时期，Balobedu 人并不是由利润和金钱驱动的民族；人们种植、消费并在彼此之间交易产品，而不是把它们市场化出售。女王不向自己的人民征税，也不愿成为金钱政府等级体系的一部分。
 
-**句子结构**：首句是 `not a people driven by...` 的否定性定义；第二句以 `Produce` 为施事者并列三个过去分词 `farmed, consumed and traded`，`rather than marketed and sold` 构成对照；第三句两个并列否定 `did not tax... and did not want...` 展开政治立场。
+**句子结构**：这是 Rodney Mokgwakgwe Modjadji 的直接引语。首句是 `not a people driven by...` 的否定性定义；第二句以 `Produce` 为施事者并列三个过去分词 `farmed, consumed and traded`，`rather than marketed and sold` 构成对照；第三句两个并列否定 `did not tax... and did not want...` 展开政治立场。
 
-**关键词**：profit and money、farmed、consumed、traded、tax、hierarchies。
+**关键词**：profit and money、farmed、consumed、traded、tax、hierarchy。
 
 **表达方式**：`farmed, consumed and traded` 形成从生产到交换的闭环，拒绝把生活压缩为利润；两个 `did not` 把“女王的自主”从象征姿态落实为不征税、不进入财政等级。
 
-**为什么这样写**：殖民国家通常要求传统领袖成为税收和行政体系的节点；作者用女王拒绝把人民货币化的事实，说明女性权力不仅是个人地位，也是一种不同的政治经济原则。
+**为什么这样写**：作者通过 Rodney Mokgwakgwe Modjadji 的证言，把女王拒绝把人民货币化的立场落实为不同来源的政治经济原则，而不是作者自己的概括。
 
 ### ⑧ 现代女王的矛盾
 
@@ -167,11 +167,11 @@ modified: "2026-09-24"
 
 ### ⑩ 未来的共同体
 
-> **原句 10:** "The future of the queenship remains uncertain. Will the next royal ruler draw strength from a circle of women? Will they sit under a mobidibidi tree, drinking a mug of mophapo beer, cultivating a communal identity and belonging, and calling to the wisdom of queens who came before?"
+> **原句 10:** "The future of the queenship remains uncertain. Will the next royal ruler draw strength from a circle of women? Will they sit under a mobidibidi tree, drinking a mug of mophapo beer, cultivating a communal identity and belonging, and calling to the wisdom of queens who came before – the women who stood defiantly as the lands around them were seized by male tribal leaders and colonisers?"
 
-**中文理解**：王权的未来仍不确定。下一任王室统治者会从女性圈中汲取力量吗？他们会坐在那棵 mobidibidi 树下，喝着一杯 mophapo 酒，培养共同体身份与归属感，并呼唤前代女王们的智慧吗？
+**中文理解**：王权的未来仍不确定。下一任王室统治者会从女性圈中汲取力量吗？他们会坐在那棵 mobidibidi 树下，喝着一杯 mophapo 酒，培养共同体身份与归属感，并呼唤前代女王们的智慧——那些在周围土地被男性部落首领和殖民者夺走时仍坚定抵抗的女性？
 
-**句子结构**：首句是状态判断；后两句以 `Will...` 构成连续疑问，第二句用并列动名词 `sitting, drinking, cultivating... and calling...` 构成设问中的未来图景，`of women` 和 `to the wisdom` 分别限定圆的来源与智慧的来源。
+**句子结构**：首句是状态判断；后两句以 `Will...` 构成连续疑问，第二句用并列动名词 `sitting, drinking, cultivating... and calling...` 构成未来图景，末尾破折号中的 `the women who...` 进一步限定前代女王的历史形象。
 
 **关键词**：future、draw strength、communal identity、belonging、wisdom。
 

@@ -118,7 +118,7 @@ modified: "2026-09-24"
 
 **句子结构**：`All fifty states` 是全称主语，`had` 与过去时间标记制度状态；`that` 同位语从句解释婚姻豁免的内容；`until the 1970s` 给出终止点，`after formal shelters were set up` 补充庇护所建立后的时间关联。
 
-**关键词**：All fifty states、marital exemption、sexual assault、formal shelters。
+**关键词**：All fifty states、marital exemption、sexually assault、formal shelters。
 
 **表达方式**：全称主语与 `without fear of legal consequences` 将抽象法律写成普遍而具体的免罚；末句把庇护所放在时间转折处，形成“空间实践—法律变化”的逆向因果。
 
@@ -174,7 +174,7 @@ modified: "2026-09-24"
 
 **句子结构**：第一句是判断句，`for women who...` 限定对象；第二句用 `Without Nüshu` 条件状语和被动式 `could have gone unnoticed` 表达反事实；第三句以 `Men, who...` 非限定定语从句说明男性的写作优势；末句以 `Nüshu created... without...` 重新把主动权交还给女性声音。
 
-**关键词**：self-created rebellion、little to no autonomy、wall of history、men were taught to write、created a culture and a voice。
+**关键词**：self-created rebellion、little to no autonomy、wall of history、Men、created a culture and a voice。
 
 **表达方式**：第一、二句先建立“没有它就不可见”的反事实，第三句指出男性拥有记录工具，末句才把“创造文化与声音”作为女性语言的主动行动；`looming presence` 把制度性排除写成有空间压迫感的威胁。
 

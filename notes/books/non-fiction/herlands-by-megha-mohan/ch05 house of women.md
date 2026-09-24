@@ -61,7 +61,7 @@ modified: "2026-09-24"
 
 **句子结构**：`Local historians say` 为引述框架；主句为 `Dona built it with her own hands`；冒号后同位语 `a shack on spindly stilts` 说明房屋，介词短语 `with...` 依次列举材料与构件。
 
-**关键词**：built with her own hands、shack、spindly stilts、crescent tiles。
+**关键词**：Dona built it、own hands、shack、spindly stilts、crescent tiles。
 
 **表达方式**：`with her own hands` 把劳动直接写进所有权；`spindly` 的细弱与 `beautiful` 的弯月瓦片并置，材料贫乏并不取消建筑的美和尊严。
 
@@ -214,7 +214,8 @@ modified: "2026-09-24"
 | 词/短语 | 释义 | 例句（原文） |
 |---------|------|-------------|
 | women | 女性 | women from the favelas |
-| community | 社区；共同体 | We are a community. |
+| group | 小组；群体 | the girls’ group chat still pings daily |
+| community | 共同体 | We are a community. |
 | house | 房屋 | the first house in the favelas of Maré |
 | help | 帮助 | we could advise them, and get them help. |
 | violence | 暴力 | if we speak up against the violence |

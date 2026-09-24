@@ -10,7 +10,7 @@ modified: "2026-09-24"
 - **出处**：*Herlands* by Megha Mohan，“11: Lessons of Herlands”
 - **作者**：Megha Mohan（英国广播公司全球性别与身份记者、作家）
 - **章节定位**：全书第十一章、终章。作者把前文关于女性土地、村庄、在线社区、精英俱乐部和老年共居的案例放在同一框架中，回答女性专属空间为何必要、为何失败，以及未来应采用何种低承诺且不封闭的选择性联结。
-- **字符数**：约 36,850 字符
+- **字符数**：约 35,600 字符
 - **一句话主旨**：女性空间不是从主旋律中逃往完美孤岛，而是从边缘出发、在不完全性与冲突中建立暂时的安全、资源和行动能力；未来不必在“永久分离”与“完全融入男性结构”之间二选一，而应让女性能够选择进入、退出、混合和重组自己的共同体。
 
 ## 论证结构
@@ -89,7 +89,7 @@ modified: "2026-09-24"
 
 **句子结构**：`Women’s clubs` 是主语，`have insisted on pushing back against this culture` 是完成时谓语；`inviting women to network` 和 `reconfigure the values` 是两个并列的现在分词短语。
 
-**关键词**：insisting on pushing back、inviting women to network、reconfigure the values。
+**关键词**：Women’s clubs、insisted on pushing back、inviting women、reconfigure the values。
 
 **表达方式**：`pushing back` 具有行动性，`inviting` 让女性网络不是封闭命令而是参与邀请，`reconfigure` 则把变革指向组织内部结构。
 
@@ -214,7 +214,7 @@ modified: "2026-09-24"
 | women | 女性 | Women’s communities, including the ones I have visited, accept that within inclusive societies sometimes men will make an appearance. |
 | space | 空间 | Women’s communities and women’s spaces will therefore multiply. |
 | family | 家庭 | We both see family as a collective, not as atomised nuclear groups. |
-| community | 社区 | A community is a conglomerate of backstories. |
+| group | 小组；群体 | a localised community space is an act of defiance. |
 | rights | 权利 | Instead of torpedoing society by loudly demanding our rights, we are quietly carving out our place through a space just for women. |
 | safety | 安全 | they have built women-led havens that redefine a woman’s status in elderhood |
 | world | 世界 | Our family tharavad may no longer exist in clay, timber and palm leaves, but the foundation for sisterhood has been laid for all the daughters of Palayil. |

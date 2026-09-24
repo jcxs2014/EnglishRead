@@ -151,6 +151,20 @@
 
 ---
 
+### [2026-09-23 22:34 UTC] [Qoder-Mac] → All
+
+**《The Faerie Handmaid》by Louisa Morgan 奇幻长篇 38 章（ch00–ch37）+ 总览三篇全书完工**
+
+- 目录：`notes/books/novels/the-faerie-handmaid-by-louisa-morgan/` — **41 md**（38 章 + 概述/金句精选 25 句/情感节点 10 节点）
+- 格式：精简格式（本章导航 + 每章 3–8 引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（总览批后现场复跑全绿）：verify_quotes **370/370（100%，39/39 文件干净；29 条 <20 flat 短引语已人工 grep 兜底）** · check_vocab **746 词条 FAIL0 WARN0** · check_entities **0 未知实体** · check_chapter_quotes **407/407 全命中本章** · verify_overview_quotes **34/34 ✅**（情感节点 11/11 + 金句精选 23/23；概述行内引语逐条 epub flat 核验 OK）· 总览 H1 语义校验 ✅（概述/金句精选/情感节点三文件 H1 与文件名一一对应）
+- 总览事实核对：Idhri 身世（父 Skye/母 Ainslie，非 Morgana 之子）、Blackbird=老法师非"黑骑士"、Lancelin 识破的是 Morgana 的 fae 身份——三处易错断言均已按原文修正后再入库；ch02 courage 句说话人经 ±200 字符窗口确认为 Blackbird
+- **五步审查已执行（2026-09-24，用户本会话发起，同会话审查）**：a–e 五步全跑，门禁现场重跑全绿——verify_quotes 370/370 · vocab FAIL0 WARN0 · entities 0 · chapter_quotes 407/407 · overview 34/34 · crossref 报警 0 · 结构扫描（块编号连续/四子项齐全/3–8 块配额/无重复块）与总览 H1 语义 ✓
+- **整改**：commit `5ed568eb`（27 文件 65 处）。说话人反转 4 处（ch17① "unevenly applied" 归位 Morgana、金句⑤⑥⑬⑯㉒ 上下文重写等）；章节标注错位 10+ 处（ch11/ch13 "boredom" 诊断 ch08→ch09、ch14 骨痛 ch10→ch09、ch24① It's the Rule ch16→ch17、ch30 雕塑工室 ch19→ch15、ch33① champion 归位 Emma 等）；总览情节虚构修正（概述王后端后语改写为两段女王原话连续引、狼段救援对象/破戒告白归位 Idhri 线、Blackbird 死于 ch32 水葬 ch34、Niamh 破冰断言删除、袍服改制归 Loria）；情感节点五标签 ch16-17→ch15-17、节点十① 换 Morgana 原话；ch26③ 补 "did"（verify_quotes 52 字符指纹盲区逃逸实证，终验整行 sweep 抓出）
+- **同会话局限如实标注**：引语↔分析逐对核对与说话人窗口均已按异路径复核（子代理批扫+主会话终验），但同会话仍可能对全书统一性误判失察；本轮未发现 Room 级规模误归（金句层误归 4 处已全部整改）。如需零盲点可另指派异实例复核
+- commits（**16 个**，全部未 push，待指令）：`165da58d`（ch01 试产）· `d7a0aae4`（批1 ch00+ch02）· `254b1d8c`（批2 ch03-05）· `24fe597f`（批3 ch06-08）· `0e66313d`（批4 ch09-11）· `0bfa53cb`（批5 ch12-14）· `e00cd074`（批6 ch15-17）· `4884a7ae`（批7 ch18-20）· `6ad165a7`（批8 ch21-23）· `aeefbef5`（批9 ch24-26）· `df9b9412`（批10 ch27-29）· `64190324`（批11 ch30-32）· `0e3cf819`（批12 ch33-35）· `bec0b3c4`（批13 ch36-37）· `3fd50fc1`（总览三篇）· `5ed568eb`（五步审查整改）
+
+---
 ### [2026-09-23 21:00 UTC] [Hermes] → All
 
 **《The New Wilderness》by Diane Cook 全书精读完工 + 总览三篇（8章 + Epilogue + 3 总览）**
@@ -228,7 +242,25 @@
 - **审查过程自身教训**：e 步脚本初版解析顺序有 bug，误报"金句精选 19 条章节标注错位"，读行复核后确认全为假阳性、未误改（报警≠缺陷；同批次确认说话人 6 处全对：Briar、Laney→Alix、Kelley→Emira 等）
 - commits（14 个，均未push）：结构补全批1–批8 `8c2866e1` … `932a0352` · ch02/ch03 `457f2564` · 总览修正 `e982ad53` · 记录 `30b0b33a` · **五步审查整改 `e01f9ffe`** · 整改补漏 `10e3904d`（ch10 关键词锚定，前一批 git add 清单遗漏）
 - 状态：全书完工 + 总览三篇 + 五步审查通过 + 门禁全绿；未 push，等用户指令
+---
 
+### [2026-09-23 16:30 UTC] [ZCode-Mac] → All
+
+**《Real Life》by Brandon Taylor 法译本《Une vie》言情/文学小说 10章+总览三篇全书完工+五步审查通过**
+
+- 目录：`notes/books/novels/real-life-by-brandon-taylor/`，10 章正文 + 总览三篇（概述/金句精选 31句/情感节点 11节点）= **13 md**
+- 格式：精简格式（本章导航5项 + 每章 3-8 引语块四子项 + 三档词汇 + 一句话总结）
+- 门禁（最终态，现场重跑）：verify_quotes **95/96（99%，1条跨段指纹工具口径限制，人工核实引语真实存在于ch06）** · check_vocab **156 词条 FAIL0 WARN7（跨篇/超纲均为WARN非FAIL）** · check_entities **0** · check_chapter_quotes **10/10 章归属正确** · verify_overview_quotes **11/11 ✅**（金句精选）
+- **五步审查（a–e 全执行）**：
+  - a 三件套重跑：95/96 同上，1 FAIL 为工具口径限制非真实缺陷
+  - b 逐章归属：10/10 本章命中，零跨章搬句
+  - c 结构扫描：82 引语块分布于 13 文件，编号连续，四子项齐全，零孤儿块零重复块
+  - d 语义二审：子代理逐对核对 10 章 82 块，**0 语义错误**
+  - e 总览事实核对：概述人物/背景事实（Wallace黑人/来自Alabama/父亲去世/童年性侵/Miller白人/中西部大学）原文支撑充分；情感节点引语人工抽查 ✅；金句精选引语 11/11 逐字 grep 验证
+- **整改**：金句精选⑬（"Qu'est-ce que tu veux de moi / Rien..."）跨段指纹 FAIL → 拆分为⑬（Miller问）+⑭（Wallace答），顺 renumber 到 ㉛；commit `1b828794`
+- commits（**6 个**）：`dbb23a32`（ch01试产）· `17b859c3`（批2 ch02-ch03）· `cedb19eb`（批3 ch04-ch06）· `7b3ea035`（批4 ch07-ch09）· `d5e4c5ba`（批5 ch10）· `88d88861`（总览三篇）· `1b828794`（⑬拆分修复）；**共 452 commits ahead of origin/main，未 push，等用户指令**
+
+---
 ### [2026-09-23 12:11 UTC → 更新 2026-09-23 14:22 UTC] [Opencode-Mac] → All
 
 **《If You've Got It, Haunt It》by Lana Wren 全书完工 + 总览三篇**
@@ -1560,36 +1592,5 @@
 ### [2026-09-16 06:50 UTC] [Opencode-Mac] → All
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
-
-
-### [2026-09-23 16:30 UTC] [ZCode-Mac] → All
-
-**《Real Life》by Brandon Taylor 法译本《Une vie》言情/文学小说 10章+总览三篇全书完工+五步审查通过**
-
-- 目录：`notes/books/novels/real-life-by-brandon-taylor/`，10 章正文 + 总览三篇（概述/金句精选 31句/情感节点 11节点）= **13 md**
-- 格式：精简格式（本章导航5项 + 每章 3-8 引语块四子项 + 三档词汇 + 一句话总结）
-- 门禁（最终态，现场重跑）：verify_quotes **95/96（99%，1条跨段指纹工具口径限制，人工核实引语真实存在于ch06）** · check_vocab **156 词条 FAIL0 WARN7（跨篇/超纲均为WARN非FAIL）** · check_entities **0** · check_chapter_quotes **10/10 章归属正确** · verify_overview_quotes **11/11 ✅**（金句精选）
-- **五步审查（a–e 全执行）**：
-  - a 三件套重跑：95/96 同上，1 FAIL 为工具口径限制非真实缺陷
-  - b 逐章归属：10/10 本章命中，零跨章搬句
-  - c 结构扫描：82 引语块分布于 13 文件，编号连续，四子项齐全，零孤儿块零重复块
-  - d 语义二审：子代理逐对核对 10 章 82 块，**0 语义错误**
-  - e 总览事实核对：概述人物/背景事实（Wallace黑人/来自Alabama/父亲去世/童年性侵/Miller白人/中西部大学）原文支撑充分；情感节点引语人工抽查 ✅；金句精选引语 11/11 逐字 grep 验证
-- **整改**：金句精选⑬（"Qu'est-ce que tu veux de moi / Rien..."）跨段指纹 FAIL → 拆分为⑬（Miller问）+⑭（Wallace答），顺 renumber 到 ㉛；commit `1b828794`
-- commits（**6 个**）：`dbb23a32`（ch01试产）· `17b859c3`（批2 ch02-ch03）· `cedb19eb`（批3 ch04-ch06）· `7b3ea035`（批4 ch07-ch09）· `d5e4c5ba`（批5 ch10）· `88d88861`（总览三篇）· `1b828794`（⑬拆分修复）；**共 452 commits ahead of origin/main，未 push，等用户指令**
-
----
-### [2026-09-23 22:34 UTC] [Qoder-Mac] → All
-
-**《The Faerie Handmaid》by Louisa Morgan 奇幻长篇 38 章（ch00–ch37）+ 总览三篇全书完工**
-
-- 目录：`notes/books/novels/the-faerie-handmaid-by-louisa-morgan/` — **41 md**（38 章 + 概述/金句精选 25 句/情感节点 10 节点）
-- 格式：精简格式（本章导航 + 每章 3–8 引语块四子项 + 三档词汇 + 一句话总结）
-- 门禁（总览批后现场复跑全绿）：verify_quotes **370/370（100%，39/39 文件干净；29 条 <20 flat 短引语已人工 grep 兜底）** · check_vocab **746 词条 FAIL0 WARN0** · check_entities **0 未知实体** · check_chapter_quotes **407/407 全命中本章** · verify_overview_quotes **34/34 ✅**（情感节点 11/11 + 金句精选 23/23；概述行内引语逐条 epub flat 核验 OK）· 总览 H1 语义校验 ✅（概述/金句精选/情感节点三文件 H1 与文件名一一对应）
-- 总览事实核对：Idhri 身世（父 Skye/母 Ainslie，非 Morgana 之子）、Blackbird=老法师非"黑骑士"、Lancelin 识破的是 Morgana 的 fae 身份——三处易错断言均已按原文修正后再入库；ch02 courage 句说话人经 ±200 字符窗口确认为 Blackbird
-- **五步审查已执行（2026-09-24，用户本会话发起，同会话审查）**：a–e 五步全跑，门禁现场重跑全绿——verify_quotes 370/370 · vocab FAIL0 WARN0 · entities 0 · chapter_quotes 407/407 · overview 34/34 · crossref 报警 0 · 结构扫描（块编号连续/四子项齐全/3–8 块配额/无重复块）与总览 H1 语义 ✓
-- **整改**：commit `5ed568eb`（27 文件 65 处）。说话人反转 4 处（ch17① "unevenly applied" 归位 Morgana、金句⑤⑥⑬⑯㉒ 上下文重写等）；章节标注错位 10+ 处（ch11/ch13 "boredom" 诊断 ch08→ch09、ch14 骨痛 ch10→ch09、ch24① It's the Rule ch16→ch17、ch30 雕塑工室 ch19→ch15、ch33① champion 归位 Emma 等）；总览情节虚构修正（概述王后端后语改写为两段女王原话连续引、狼段救援对象/破戒告白归位 Idhri 线、Blackbird 死于 ch32 水葬 ch34、Niamh 破冰断言删除、袍服改制归 Loria）；情感节点五标签 ch16-17→ch15-17、节点十① 换 Morgana 原话；ch26③ 补 "did"（verify_quotes 52 字符指纹盲区逃逸实证，终验整行 sweep 抓出）
-- **同会话局限如实标注**：引语↔分析逐对核对与说话人窗口均已按异路径复核（子代理批扫+主会话终验），但同会话仍可能对全书统一性误判失察；本轮未发现 Room 级规模误归（金句层误归 4 处已全部整改）。如需零盲点可另指派异实例复核
-- commits（**16 个**，全部未 push，待指令）：`165da58d`（ch01 试产）· `d7a0aae4`（批1 ch00+ch02）· `254b1d8c`（批2 ch03-05）· `24fe597f`（批3 ch06-08）· `0e66313d`（批4 ch09-11）· `0bfa53cb`（批5 ch12-14）· `e00cd074`（批6 ch15-17）· `4884a7ae`（批7 ch18-20）· `6ad165a7`（批8 ch21-23）· `aeefbef5`（批9 ch24-26）· `df9b9412`（批10 ch27-29）· `64190324`（批11 ch30-32）· `0e3cf819`（批12 ch33-35）· `bec0b3c4`（批13 ch36-37）· `3fd50fc1`（总览三篇）· `5ed568eb`（五步审查整改）
 
 ---

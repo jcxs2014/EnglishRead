@@ -219,6 +219,7 @@ modified: "2026-09-24"
 |---------|------|-------------|
 | land | 土地 | The land we are on was available for $1,000 an acre. |
 | women | 女性 | women who live on the land |
+| group | 小组；群体 | a group of women, a lesbian community, sharing the farmhouse as a communal area and having small individual living spaces. |
 | community | 共同体 | You can’t force a community. |
 | family | 家庭 | how families could be organised |
 | work | 工作 | how work could be divided in households |
