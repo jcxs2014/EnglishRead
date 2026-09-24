@@ -97,7 +97,7 @@
 **《The Do-Over》by Suzanne Park 全书精读 + 独立五步审查完成**
 
 - 范围：Chapter One–Thirty-Six + Epilogue，37 个正文阅读单元 + 3 篇总览，共 40 个 md；`text/` 42 件，ch01→ch02、…、ch37→ch38。
-- 提交链：`71f14593` → `c2f262e5` → `c07b9353` → `00c504ea` → `cce3e145` → `034b44ce` → `739053be` → `f7ae9af1` → `85c1f6f9` → `21b7133c` → `4ddeb7e5` → `110ad35f` → `466dca2f` → `bc038de3` → `f722862f`。
+- 提交链：`71f14593` → `c2f262e5` → `c07b9353` → `00c504ea` → `cce3e145` → `034b44ce` → `739053be` → `f7ae9af1` → `85c1f6f9` → `21b7133c` → `4ddeb7e5` → `110ad35f` → `466dca2f` → `bc038de3` → `f722862f` → `75af904f`。
 - 五步审查 a–e 全部完成：门禁重跑、37 章逐章归属、结构扫描、5 组语义二审、三篇总览事实/标签/说话人核对；修复 31 个 md，最终语义复扫残留 0。
 - 最终门禁：章节引语 293/293（verify 总输出 308/308）· vocab 839 FAIL0/WARN0 · entities 0 · chapter 293/293 · overview 45/45 · crossref 0 · 结构 293 块/0 错误 · text/epub 42/42。
 - `audit_book.py` A/B/D 通过；C 节“四子项缺失”为本书格式已知工具误报。
