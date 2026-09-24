@@ -119,19 +119,45 @@
 
 ---
 
-### [2026-09-24 19:16 UTC] [Qoder-Mac] → All
+### [2026-09-24 21:34 UTC] [Qoder-Mac] → All
 
-**《Dark Psychology Super ADVANCED Techniques to PERSUADE ANYONE, Secretly MANIPULATE People and INFLUENCE Their Behaviour Without...》by Richard Campbell 全书精读完工**
+**《Dark Psychology Super ADVANCED Techniques to PERSUADE ANYONE, Secretly MANIPULATE People and INFLUENCE Their Behaviour Without...》by Richard Campbell 全书精读 + 独立五步审查完成**
 
 - 目录：`notes/books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/`；10 个正文单元（ch01–ch09 + References 附录 ch10）+ `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 13 个 md；`text/` 10 件。
-- 提交链：`60a78491`（ch01）→ `1914721b`（ch02–04）→ `8abb3bc2`（ch05–07）→ `d586139c`（ch08–10）→ `c9a9bf22`（总览三篇）。
-- 章节门禁：`verify_quotes 90/90`（ch01–ch09；ch10 为参考文献附录）· `check_vocab 199 行，FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 90/90`。
-- 总览门禁：`verify_overview_quotes 43/43`（金句 25/25、情感节点 18/18）；概述无编号引语，英文术语已人工核对；总览章节归属逐条核对通过。
-- 额外核验：正文全串 flat `90/90`，五子项/编号/关键词锚定 `0` 错误；References 7/7 与原文逐字一致。
-- 原文处理：通用提取器曾把版权/目录污染并误拆第 8 章小节，已按 EPUB spine 重建 10 个干净提取件；References 按书目附录处理。
-- 状态：未 push；**五步审查未做（待用户发起）**。
-
----
+- 提交链：`60a78491`（ch01）→ `1914721b`（ch02–04）→ `8abb3bc2`（ch05–07）→ `d586139c`（ch08–10）→ `c9a9bf22`（总览三篇）→ `c2fe9abc`（五步审查整改）。
+- a｜三件套原始输出：
+  ```text
+  ch01 dark psychology 101.md: 10/10 ✅
+  ch02 dark triad.md: 10/10 ✅
+  ch03 brainwashing.md: 10/10 ✅
+  ch04 hypnosis.md: 10/10 ✅
+  ch05 persuasion and deception.md: 10/10 ✅
+  ch06 defending yourself.md: 10/10 ✅
+  ch07 myths and misconceptions.md: 10/10 ✅
+  ch08 famous dark triad personalities.md: 10/10 ✅
+  ch09 conclusion.md: 10/10 ✅
+  === 总计 90/90 引文可核实（100%）；完全干净文件 9/9 ===
+  词条行合计: 198
+  --- FAIL (0) ---
+  --- WARN (0) ---
+  === 实体一致性检测：0 个文件存在未知实体 ===
+  ```
+- b｜逐章归属原始输出：ch01–ch09 均为 `10/10 in chNN text`；全串 flat `90/90`，短引语 0，MISS 0。
+- c｜结构扫描：`正文全串=90/90; 结构/重复错误=0`；`FULL_SWEEP_STRUCTURE PASS`。
+- d｜语义二审：`词条例句精确检查 rows=198 errors=0`；`analysis_english_fragments=313 review=0`；`交叉引用核对：0 对，报警 0`。三组代理逐块回原文复核后，修复 ch01–ch09 的句法、翻译、证据链、重复词条和语义边界问题。
+- e｜总览原始输出：
+  ```text
+  00_情感节点.md: 18/18 ✅
+  00_概述.md: ⚠️ 未提取到编号引语（中文概述，无编号引语）
+  00_金句精选.md: 25/25 ✅
+  === 总览引文 43/43 可核实（100%）；完全干净文件 2/2 ===
+  references= 7 missing= 0
+  REFERENCES_EXACT PASS
+  ```
+  总览逐条章节归属、H1、金句 25 条、节点 18 条和 References 7 条均通过；修复概述 ch06 归属、金句编号/翻译/标签和节点外推。
+- `audit_book.py`：A/B/D 通过；C 节仅对 ch10 References 报“缺精读节/词汇分级”，这是书目附录不适用正文格式的已知误报，未人为补造内容。
+- 状态：目标书 13 个文件工作树干净；未 push。协作板与工作日志均就地更新本书唯一条目，未新建条目。
+- 已知局限：本次为用户在本会话主动发起的同会话审查，a–e 已完整执行；仍无法完全排除全书统一口径造成的系统性误判，如需更强独立性可另指定异实例复核。
 
 ### [2026-09-24 18:27 UTC] [Qoder-Mac] → All
 
