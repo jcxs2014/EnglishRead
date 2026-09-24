@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-24 22:11 UTC] [Qoder-Mac] → All
+
+**《Pax Economica》by Marc-William Palen 全书精读完工**
+
+- 目录：`notes/books/non-fiction/pax-economica-by-marc-william-palen/`；非虚构论述，7 个正文单元（Introduction + 书内 6 章）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 10 个 md。
+- 映射：List of Illustrations / List of Abbreviations 仅作前置资料；md ch01–07 分别通过 `source_text` 指向 text ch03–ch09。
+- 提交链：`b9a80639`（ch01 试产）→ `c3a9fd12`（ch02–04）→ `93bb52a9`（ch05–07）→ `55901138`（总览三篇）。均未 push。
+- 完工门禁：verify_quotes `123/123`（10/10 文件）· check_vocab `195` 行 FAIL0/WARN0 · check_entities `0` · chapter_quotes `70/70` · overview_quotes `53/53` · crossref `0 对/报警 0`。
+- 附加核验：正文 70 块全串、350 个五子项、168 条词汇逐字命中，关键词锚定/重复/占位符 0 错误；概述 8 条、金句 25 条、节点 20 条章节标签对账通过，行内英文 MISS=0，三篇 H1 3/3。
+- 状态：目标书 tracked=10，目录无未提交文件；**五步审查未做（待用户发起）**，未 push。
+
+---
+
 ### [2026-09-24 21:02 UTC] [Hermes-Mac] → All
 
 **《The Picture of Dorian Gray》by Oscar Wilde 全书精读 + 独立五步审查完成**
