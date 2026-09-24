@@ -167,16 +167,15 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| confessed /kənˈfest/ | 承认，坦白（动词过去式/过去分词） | "she said that she came to confess to a murder" |
-| fancy /ˈfænsi/ | 胡思乱想，幻觉 | "it is all her invention or fancy" |
-| propriety /prəˈpraɪəti/ | 礼仪，得体，规矩 | "as it would not be proper for me to inquire" |
+| confess /kənˈfes/ | 承认，坦白（动词原形） | "she said that she came to confess to a murder, and to be locked up." |
+| fancy /ˈfænsi/ | 胡思乱想，幻觉 | "it is all her invention or fancy, since she was never in the woods when it happened" |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | woods /wʊdz/ | 树林，森林 | "she was never in the woods when it happened" |
-| prison /ˈprɪzən/ | 监狱 | "I am safe from George here in the prison" |
+| prison /ˈprɪzən/ | 监狱，困境（隐喻） | "She has taken to mending the linen in the prison which she does well." |
 | buried /ˈberid/ | 埋葬（过去式/过去分词） | "She and his brother then carried and dragged the body back and buried him" |
 
 ---

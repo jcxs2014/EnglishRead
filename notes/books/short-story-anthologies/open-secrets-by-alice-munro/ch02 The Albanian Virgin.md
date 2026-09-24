@@ -164,7 +164,6 @@ modified: "2026-09-24"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | **triumphant** | 胜利的/得意洋洋的（通常指克服质疑后的满足感） | "Those who said it seemed triumphant, challenging others who must have doubted that the transformation could be made." |
-| **suspense** | 悬疑/悬念（此处指身体被悬空绑着的状态及其心理感受） | "When she was being carried through the pine forest, she awoke and found herself suspended..." |
 | **melodrama** | 情节剧/夸张叙事（暗示事件过于戏剧化而失真） | "Melodrama and confusion made this place seem more ordinary to me, but less within my grasp." |
 
 ### ⭐ 基础
