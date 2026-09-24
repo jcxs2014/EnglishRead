@@ -124,7 +124,7 @@ source_text: ch04_chapter 1 threatening women.txt
 
 **句子结构**：So 并列两个分句；主干为 we allow the word to get away from us；at our peril 为介词短语作方式状语。
 
-**关键词**：get away, at our peril, the word, recourse
+**关键词**：get away, at our peril, the word, allow
 
 **表达方式**：以"任某物逃逸"（get away）的动态隐喻搭配 at our peril（冒着风险），暗示危险迫在眉睫。
 

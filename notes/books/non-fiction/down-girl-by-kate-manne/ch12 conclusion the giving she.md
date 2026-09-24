@@ -276,7 +276,7 @@ source_text: ch12_conclusion the giving she.txt
 
 > **原句 22:** "One woman’s misogyny is thus some men’s poetic justice."
 
-**中文理解**：因此，一位女性的厌女，便是某些男性的诗学正义（poetic justice）。
+**中文理解**：因此，一位女性所遭受的厌女（她被 silencing、被处置的整个过程），在某些男性那里便被称作诗学正义（poetic justice）。
 
 **句子结构**：主干为 One woman's misogyny is thus some men's poetic justice（is 为主系动词；thus 为连接副词）。
 

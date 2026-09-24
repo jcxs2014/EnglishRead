@@ -52,7 +52,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：主句为 The incident will be shrouded；过去分词短语 shrouded in silence 作表语；括号内引注出处。
 
-**关键词**：shrouded in silence, incident, epistemic oppression
+**关键词**：shrouded in silence, incident, will be, shrouded
 
 **表达方式**：以"被动的笼罩"（be shrouded）描绘沉默——不是当事人选择沉默，而是沉默被施加于她。
 
@@ -64,7 +64,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：以第二人称 You can 起的祈使式能力句（modal + bare infinitive）。
 
-**关键词**：put words into her mouth, epistemic oppression
+**关键词**：put words into her mouth, her mouth, You can
 
 **表达方式**：以第二人称"你"直接对读者说，把宏观的认知压迫写成一项可动手的操作。
 
@@ -76,7 +76,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：两个省略 be 动词的判断句（It was nothing / nothing happened），以分号连接。
 
-**关键词**：nothing happened, semantic evasion, locker room talk
+**关键词**：nothing happened, It was nothing, nothing
 
 **表达方式**：以两句互文式短句构成"清白"宣告，句子越短，责任越轻。
 
@@ -112,7 +112,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：两个独立的反意疑问句（Are we...？），后句省略助动词（are）。
 
-**关键词**：pre-gaslit, self-gaslighting, white women voters
+**关键词**：pre-gaslit, self-gaslighting, Are we
 
 **表达方式**：以两个递进的反问句收束一节，先问外力，再问自我施加。
 
@@ -160,7 +160,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：首句为省略句（there will not be any such way open to her）；次句为 there be 句型的强调式（Double binds... are common），破折号插入 worse 补充"更糟"。
 
-**关键词**：Double binds, disincentives, social control, common
+**关键词**：Double binds, there will not be, are common, worse
 
 **表达方式**：以省略句 + 强调 there be 句型，把"无路可走"的困境压缩为极短的判断。
 
@@ -196,7 +196,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：主干为 I also discuss the flow of sympathy away from... toward...；破折号后 which I call "himpathy" 为同位语定义。
 
-**关键词**：himpathy, flow of sympathy, male victimizers, exonerating narratives
+**关键词**：himpathy, flow of sympathy, male victimizers, which I call
 
 **表达方式**：以 himpathy 这一自造词（him + empathy 或 him + sympathy 的混成）指称一种特定的同情倒错。
 
@@ -232,7 +232,7 @@ source_text: ch03_introduction eating her words.txt
 
 **句子结构**：主干为 trying to fight misogyny... is a bit like trying to fight fire with oxygen；两个动名词短语（fight X / fight Y）平行，以 with oxygen 作方式状语。
 
-**关键词**：juridical moral notions, fight fire with oxygen, prescriptive, evaluative
+**关键词**：juridical moral notions, fight fire with oxygen, is a bit like, misogyny
 
 **表达方式**：以"用氧气灭火"（fight fire with oxygen）这一自嘲的常识悖论作类比，暗示司法手段本身可能是厌女的燃料。
 

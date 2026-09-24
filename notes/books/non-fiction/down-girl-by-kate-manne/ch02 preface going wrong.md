@@ -123,7 +123,7 @@ source_text: ch02_preface going wrong.txt
 
 **句子结构**：主句为 Privilege is prone to confer...；one's own proprietary turf 为宾语；epistemically and morally 为方式状语，限定 confer 的层面。
 
-**关键词**：Prilege is prone to confer, proprietary turf, epistemically
+**关键词**：Privilege is prone to confer, proprietary turf, epistemically
 
 **表达方式**：以"领地"（turf）隐喻将抽象特权具象化为私人地产。
 

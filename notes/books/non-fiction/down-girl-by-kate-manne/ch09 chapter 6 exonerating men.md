@@ -157,13 +157,13 @@ source_text: ch09_chapter 6 exonerating men.txt
 
 > **原句 11:** "But just as the murderer can’t claim credit for all of the people he didn’t kill, Turner was no less a rapist for all of the women he didn’t violate."
 
-**中文理解**：但正如凶手不能把他没杀的人也算作自己的功劳，特朗普也不会因为他没侵犯的那些女性而少一分强奸犯的本色。
+**中文理解**：但正如凶手不能把他没杀的人也算作自己的功劳，布罗克·特纳也不会因为他没侵犯的那些女性而少一分强奸犯的本色。
 
 **句子结构**：But 置于句首作转折；主干为 Turner was no less a rapist for all the women he didn't violate（比较级 no less + for 引出的原因）。
 
 **关键词**：can't claim credit, no less a rapist, for all the women he didn't violate, just as the murderer
 
-**表达方式**：以两个"否定—双否定"结构（can't claim credit / no less）构成讽刺类比：凶手不能领功于未杀者，特朗普也不能减罪于未侵犯者。
+**表达方式**：以两个"否定—双否定"结构（can't claim credit / no less）构成讽刺类比：凶手不能领功于未杀者，特纳也不能减罪于未侵犯者。
 
 **为什么这样写**：Manne 针对 Dan Turner 声称儿子只是"二十年的好行为中二十分钟的失足"（twenty minutes of action out of twenty years of good behavior）这一辩护，以对称的逻辑予以反驳。这一反驳的力量在于其不可回避：无论"没杀/没侵犯"多少人，都不改变已发生行为的性质。
 
@@ -261,7 +261,7 @@ source_text: ch09_chapter 6 exonerating men.txt
 
 **表达方式**：以 "not as A but rather as B" 的对比结构，暴露把她从"程序中艰难前行的人"替换为"为私怨复仇者"的重写。
 
-**为什么这样写**：这一句（取自受害者-impact statement："what does she want out of this?"）是 Manne 对"cui bono?"（谁受益？）式质问的分析：当人们问"她为什么要追究？"时，他们把刑事程序替换成了个人恩怨。这一替换把受害者从"公民"（履行举证责任）重写为"仇人"（追求报复）——呼应 ch07"不应索取"（don't ask for）规范中女性"要取"时的定性污名。
+**为什么这样写**：Manne 以一个内嵌的转述反问（"what does she want out of this?"，即受害者-impact statement 中的追问）对"她为什么要追究？"式的质问进行分析：当人们这样问时，他们把刑事程序替换成了个人恩怨。这一替换把受害者从"公民"（履行举证责任）重写为"仇人"（追求报复）——呼应 ch07"不应索取"（don't ask for）规范中女性"要取"时的定性污名。
 
 > **原句 20:** "her body, though hers, and hers alone, is also that of someone whose interests we are collectively invested in protecting"
 
@@ -441,7 +441,7 @@ source_text: ch09_chapter 6 exonerating men.txt
 
 **表达方式**：以三个短句的断句节奏（信-错-然而）构成论证的节奏：先陈述其自认"被亏欠"（owed），再直接判定"他错了"（He is wrong），最后以"然而"（Yet）转折，指向忠诚的错位。
 
-**为什么这样写**：这是 Holtzclaw 案中某位支持者的原话（Daniel Holtzclaw:），Manne 以此作为全章的结语。三个短句的节奏恰似公理：他说自己应得（owed）——错。他说应得——错。但"我们的忠诚却常常在他那边"（our loyalties often lie with him）——这是偏见本身。破折号后的对比（least deserving / most expectant）点出核心矛盾：越是最不配得的人，越是被期待给予他人关怀，而"被期待"反而成了他们的特权。
+**为什么这样写**：这是 Manne 自己对开脱逻辑的评断，并以 Daniel Holtzclaw 案作结。三个短句的节奏恰似公理：他说自己应得（owed）——错。他说应得——错。但"我们的忠诚却常常在他那边"（our loyalties often lie with him）——这是偏见本身。破折号后的对比（least deserving / most expectant）点出核心矛盾：越是最不配得的人，越是被期待给予他人关怀，而"被期待"反而成了他们的特权。
 
 ## 词汇分级
 

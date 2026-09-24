@@ -131,7 +131,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **表达方式**：以拉丁语前缀 ad hoc（权宜的、临时的）与 post hoc（事后的）并置，将"偏见"翻译为"临时标准"与"事后合理化"。
 
-**为什么这样写**：呼应 ch08 中"隐性偏见"（implicit bias）的机制：当"看到 Andrea 照片的女性觉得她不成功"与"看到 James 照片的女性觉得他成功"在相同信息下发生，这一差异无法用"理性判断"解释，只能诉诸 ad hoc（临时拟定的）标准与 post hoc（事后找的）理由。Manne 指出，即便参与者"自认为有理由"，这些理由也只能是事后建构的——这正是 ch05 中"可改写的道德脚本"（rewritable moral scripts）的心理学对应物。
+**为什么这样写**：呼应 ch08 中"隐性偏见"（implicit bias）的机制：当被试读到署名 James 的材料时认为其更成功、读到署名 Andrea 的材料时认为其不成功，而这仅因材料中的姓名被对调、信息内容完全相同——这一差异无法用"理性判断"解释，只能诉诸 ad hoc（临时拟定的）标准与 post hoc（事后找的）理由。Manne 指出，即便参与者"自认为有理由"，这些理由也只能是事后建构的——这正是 ch05 中"可改写的道德脚本"（rewritable moral scripts）的心理学对应物。
 
 > **原句 9:** "people are (often unwittingly) motivated to maintain gender hierarchies, by applying social penalties to women who compete for, or otherwise threaten to advance to, high-status, masculine-coded positions"
 
@@ -157,7 +157,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：这一转译是"比较性别偏见"（comparative gender biases）的核心机制：同一品质（自信、有决断）在女性身上被读为"傲慢"（arrogant）与"好斗"（aggressive），而在男性身上则被读为"有能力"（capable）。Manne 以"极端"（extreme）一词点明其逻辑：问题不是能力本身，而是能力的"程度"——而对女性而言，任何程度的能耐都已是"过度"。
 
-> **原句 12:** "these results] provide direct evidence that backlash functions to preserve the gender hierarchy"
+> **原句 11:** "[these results] provide direct evidence that backlash functions to preserve the gender hierarchy"
 
 **中文理解**：这些结果提供了直接证据，表明反扑（backlash）的作用是维护性别等级。
 
@@ -169,7 +169,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：这是 Rudman 等（2012）的结论，也是全章论证的枢纽。Manne 以"直接证据"（direct evidence）为"反扑维护性别等级"这一论断背书——这承接 ch06 "Misogyny as Backlash"（厌女即反扑）的论点，将其从描述性观察（"反扑发生了"）提升为功能性论断（"反扑的作用是维护等级"）。这一转译使反扑从"情绪"变为"机制"。
 
-> **原句 13:** "disgust is the emotion of social rejection rather than anger"
+> **原句 12:** "disgust is the emotion of social rejection rather than anger"
 
 **中文理解**：厌恶是社会拒绝的情绪，而非愤怒。
 
@@ -181,7 +181,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 借 Kelly 的定义提出本章的关键洞察：厌恶不是"我讨厌你"（an emotion directed at the other），而是"我不要你"（a rejection of the other）。这一区分有实践后果：愤怒可以被驳斥（对方可以辩解），而厌恶只能被回避（no argument can make someone not-disgusting）。这解释了为什么对女性政治人物的厌恶如此难以通过"证明自己"来化解——厌恶不是关于事实的判断，故而无法被事实所纠正。
 
-> **原句 14:** "disgust sticks, stains, seeps, and catches; disgust is easy to learn from others by bearing witness to their disgusted reactions to people and objects."
+> **原句 13:** "disgust sticks, stains, seeps, and catches; disgust is easy to learn from others by bearing witness to their disgusted reactions to people and objects."
 
 **中文理解**：厌恶会黏附、玷污、渗出、传染；厌恶很容易通过目睹他人对人或物的厌恶反应而从他人那里学到。
 
@@ -193,7 +193,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以四个黏性动词描绘厌恶的"物质性"（physicality）——它不是一种可被理性消解的态度，而是一种附着于对象之上的属性。更关键的是"传染"（catches）：厌恶可以通过"见证"（bearing witness）他人对某人的厌恶反应而习得。这一机制揭示了群体性厌女的形成路径——个体的厌恶通过社会传染而成为集体的"共识"，而"共识"一旦形成，反驳它的力量便极为薄弱。
 
-> **原句 15:** "those who tangle with what disgusts us may become disgusting to us too"
+> **原句 14:** "those who tangle with what disgusts us may become disgusting to us too"
 
 **中文理解**：那些与我们令人厌恶之物纠缠在一起的人，也可能对我们而言变得令人厌恶。
 
@@ -205,7 +205,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 借 Inbar 与 Pizarro 的"通过联想传播"（spreading by association）指出厌恶的"连坐"机制：一个女性若与另一个被厌女"污染"的对象（如希拉里与"邮件门"）相关，她本人也会变得令人厌恶。这解释了一个常见现象——为何与被厌女针对者"站在一起"（如为希拉里辩护）本身也会招致同样的敌意。厌恶的连坐性使"支持受害者"成为一种高风险的行为。
 
-> **原句 16:** "disgust reactions can make us harsher moral critics and may even prompt some people to read moral offenses into entirely, and obviously, innocent actions"
+> **原句 15:** "disgust reactions can make us harsher moral critics and may even prompt some people to read moral offenses into entirely, and obviously, innocent actions"
 
 **中文理解**：厌恶反应能使我们成为更严苛的道德批评者，甚至可能促使一些人在完全、显然无辜的行为中读出道德过错。
 
@@ -217,7 +217,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"读入"（read...into）这一隐喻指出厌女的认知机制：不是"发现"了过错，而是"读到"（project）了过错。这一过程既不依赖证据，也不依赖恶意——它是一种自动的"意义投射"（meaning projection），将既有判断（她不可信）投射到任何行为之上（她销毁邮件=她在掩盖什么）。这呼应 ch08 中"后设合理化"（post hoc rationalization）的运作方式。
 
-> **原句 17:** "we reach for these reasons and arguments to rationalize a verdict already rendered"
+> **原句 16:** "we reach for these reasons and arguments to rationalize a verdict already rendered"
 
 **中文理解**：我们伸手去取这些理由与论据，以为已经作出的裁决作合理化。
 
@@ -229,7 +229,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"裁决已作出"（verdict already rendered）的时态强调因果顺序：不是"因为理由所以判决"，而是"因为判决所以理由"。这一倒置是"偏见"（prejudice）的最简定义——judgment 先于 justification。呼应 ch08 中"特权授予领地错觉"（privilege confers a sense of one's own proprietary turf）的论点：当裁决已在先，理由便沦为对既有裁决的"合理化"（rationalization）。
 
-> **原句 18:** "an old lady, now presumptively useless except for providing caregiving labor"
+> **原句 17:** "an old lady, now presumptively useless except for providing caregiving labor"
 
 **中文理解**：一个老太太，如今想当然地被认为除了提供照护劳动之外已无用武之地。
 
@@ -241,7 +241,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以这一短语概括对希拉里的年龄厌女（ageist misogyny）：即使在贬低她"无用"之后，仍要承认她"有用"——有用仅在于"提供照护劳动"（caregiving labor）。这一保留极其关键：它揭示了"有用/无用"这一二元判断的内含标准始终是"能否服务他人"——而女性的价值在"不能服务他人"时便自动归零。这呼应 ch02 序言的"给予/取用"经济：她的"有用"从来不是自身的属性，而是相对于"他是否需要她"的关系属性。
 
-> **原句 19:** "we drag her name through the mud; we uphold his dignity almost primly"
+> **原句 18:** "we drag her name through the mud; we uphold his dignity almost primly"
 
 **中文理解**：我们把她的名字拖入污泥；我们则几乎一本正经地维护他的尊严。
 
@@ -253,7 +253,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"污泥"（mud）与"矜持"（primly）的对比，揭示"结构性遗忘"（structural amnesia）的运作：针对希拉里的"湿裤子"传闻被迅速遗忘，而针对她的任何不雅细节却被反复放大。这一对照呼应 ch05 中"讲述理由"（reasons of entitlement）的观点——被遗忘与被牢记的差异，不是基于证据的判断，而是基于"谁的过失值得追究"这一先在的道德分工。
 
-> **原句 20:** "But it also went beyond that and seemed to express a desire for her containment."
+> **原句 19:** "But it also went beyond that and seemed to express a desire for her containment."
 
 **中文理解**：但这不仅止于此，而且似乎表达了一种将她"收容"（containment）的欲望。
 
@@ -265,7 +265,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 将"lock her up"（把她锁起来）的政治呼号解读为"拘禁"（containment）的欲望——这呼应 ch01 题词页中 Hamilton《Gaslight》的台词"我早晚会把你关起来"（I will see you in the gutter）。当政治口号以囚禁为形式表达时，它所调用的正是厌女的原始语法："把她关起来"（put her away）——不是惩罚，而是"控制"（containment）。
 
-> **原句 21:** "The attempt to clear her of false accusations and poorly evidenced myths and rumors hence often resembled a game of whack-a-mole."
+> **原句 20:** "The attempt to clear her of false accusations and poorly evidenced myths and rumors hence often resembled a game of whack-a-mole."
 
 **中文理解**：因此，试图为她洗清虚假指控与证据薄弱的迷思与传言的努力，往往类似于一场打地鼠的游戏。
 
@@ -277,7 +277,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"打地鼠"（whack-a-mole）这一童趣游戏的隐喻说明厌恶的"粘性"（stickiness）：每一项指控被否定，新的指控便随即出现。她指出，这并非因为指控本身有力（because they are powerful），而是因为厌恶本身不依赖证据——它只需要不断有新的话题被"读入"（read into）。这一隐喻也预示了下节"how disgust sticks"（厌恶如何粘住）的分析。
 
-> **原句 22:** "the way misogyny works to disrupt female solidarity, especially among white women"
+> **原句 21:** "the way misogyny works to disrupt female solidarity, especially among white women"
 
 **中文理解**：厌女运作以破坏女性团结（尤其在白人女性之中）的方式。
 
@@ -289,7 +289,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 指出厌女的一个群体性后果：它不只是压迫女性，更瓦解女性之间的团结（female solidarity）。而这一瓦解在白人女性之间尤为严重——因为黑人女性所受的厌女黑（misogynoir）在白人的同情分配中往往被"忽略"。这呼应 ch05 中"envy or resentment"（嫉妒或怨恨）的机制：当一位女性"争夺"本应属于男性的同情时，其他女性——尤其是同样处于从属地位的女性——也可能视她为威胁，而非盟友。
 
-> **原句 23:** "women who aspire to be “good” have social incentives to distance themselves from a woman deemed “bad,” as Clinton often was, and to publicly participate when she was ostracized and punished for supposed moral crimes and misdemeanors"
+> **原句 22:** "women who aspire to be “good” have social incentives to distance themselves from a woman deemed “bad,” as Clinton often was, and to publicly participate when she was ostracized and punished for supposed moral crimes and misdemeanors"
 
 **中文理解**：那些渴望成为"好"（女性）的女性，具有社会性的激励去与一位被视为"坏"（女性）的人——正如克林顿常常被看待的那样——保持距离，并在她因所谓道德罪行与不端行为而被放逐与惩罚时公开参与其中。
 
@@ -301,7 +301,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 解释"好女人"（good women）如何成为厌女的执行者：她们通过与"坏女人"（bad women）保持距离并公开参与其惩罚，来证明自身的" goodness"（goodness）。这呼应 ch03 中"献祭母亲"（sacred motherhood）式的意识形态——"好母亲"的身份恰恰以"不宽容堕胎者"为前提。Manne 指出，这一机制并非出于恶意，而是一种"社会激励"（social incentives）的理性回应：当"不参与惩罚"被解读为"不道德"时，沉默便成了"道德"的伪装。
 
-> **原句 24:** "we often take men and women to have fundamentally different, and nominally complementary, responsibilities"
+> **原句 23:** "we often take men and women to have fundamentally different, and nominally complementary, responsibilities"
 
 **中文理解**：我们常常认为男性与女性承担着根本上不同的、（名义上）互补的责任。
 
@@ -313,7 +313,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 提出对"双重标准"（double standards）讨论的重要修正：问题不是"对男女用不同标准"，而是"对男女设定根本不同的责任"（fundamentally different responsibilities）。以"照护"（care-mongering）为代表，女性被期待"关怀他人"，而男性被期待"不被关怀"。这一框架比"标准高低"更为根本——它关乎"各自被期待成为谁"这一身份性问题。
 
-> **原句 25:** "which is a lot of blokes trying to monster up a woman"
+> **原句 24:** "which is a lot of blokes trying to monster up a woman"
 
 **中文理解**：这不过是一群男人试图将一个女人怪物化而已。
 
@@ -325,7 +325,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以极为口语化的语气（"a lot of blokes"）评述针对 Gillard 的攻击，这种"轻描淡写"（understatement）恰恰是修辞武器：她不说"一场系统性的厌女运动"，而说"一群家伙试图把一个女人怪物化"——这一降格（diminution）本身便传达了她的轻蔑。此句亦回应 ch08 "he is the monster"（他是怪物）的指控：怪物化既是厌女的武器，也是其"免除道德责任"的机制。
 
-> **原句 26:** "his behavior seems normal, unremarkable, business as usual, nothing to see here. Her doing the same thing makes us wonder: what’s she hiding?"
+> **原句 25:** "his behavior seems normal, unremarkable, business as usual, nothing to see here. Her doing the same thing makes us wonder: what’s she hiding?"
 
 **中文理解**：他的行为似乎正常、毫不值得关注、一切照旧、这里没什么可看的。而她做同样的事，则会使我们疑惑：她在隐瞒什么？
 
@@ -337,7 +337,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 指出"分裂感知"（split perception）的核心：同一行为，在男性身上是"正常"（normal），在女性身上则是"可疑"（suspicious）。这一分裂不是基于行为，而是基于行为者的性别。"她在隐瞒什么"（what's she hiding）这一追问，恰恰预设了女性行为背后必有不可告人之物——这一预设本身即是厌女的产物。Manne 指出，女性被训练以"可被审视"（scrutinized）的身份存在，而男性的行为则"免于审视"。
 
-> **原句 27:** "they’re not baseless so much as defunct: these women are breaking the rules of an unjust patriarchal system that is still in the process of being dismantled"
+> **原句 26:** "they’re not baseless so much as defunct: these women are breaking the rules of an unjust patriarchal system that is still in the process of being dismantled"
 
 **中文理解**：这些看法与其说是毫无根据（baseless），不如说是已经过时（defunct）：因为这些女性正在打破一个不公正的父权系统的规则，而这一系统仍在被拆除的过程中。
 
@@ -349,7 +349,7 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"过时"（defunct）一词指出关于女性"不守规矩"的指控的历史性：这些"规矩"来自一个正在被拆除的父权系统，因而是"过时"而非"正当"。这一转换呼应 ch10 中"剧作家"（playwright）的隐喻——女性因为"不按剧本演出"（not playing her part）而被称为"违规者"（rule-breaker），但 Manne 指出：她们正在拆毁的，正是那个剧本本身。
 
-> **原句 28:** "The latter judgments drive the former, rather than the reverse."
+> **原句 27:** "The latter judgments drive the former, rather than the reverse."
 
 **中文理解**：后一类判断（指"危险、可疑、有风险、欺骗"）驱动着前一类判断（指"道德怀疑与困惑"），而非相反。
 
@@ -361,60 +361,60 @@ source_text: ch11_chapter 8 losing to misogynists.txt
 
 **为什么这样写**：Manne 以"后者驱动前者"（the latter drives the former）纠正一个常见的因果假设：人们常以为"因为她值得怀疑，所以她危险"（先有道德怀疑，后有危险判断）；但她主张相反的次序——因为她"是"危险的（因为她打破规则），所以她"看起来"可疑（因此被道德怀疑）。这一"因果倒置"（causal inversion）呼应 ch05 中"后述合理化"（post hoc rationalization）——判定在先，理由在后。
 
-> **原句 29:** "When men engage in these actions, it is unremarkable, and hence tends to go unremarked on. But when a woman encroaching on men’s turf does the same thing, her actions—and she—may seem deceptive or negligent."
+> **原句 28:** "When men engage in these actions, it is unremarkable, and hence tends to go unremarked on. But when a woman encroaching on men’s turf does the same thing, her actions—and she—may seem deceptive or negligent."
 
 **中文理解**：当男性从事这些行为时，它们不值一提，因而往往无人置评。但当一位侵占（encroaching）男性地盘的女性做同样的事时，她的行为——以及她本人——可能显得欺骗或疏忽。
 
 **句子结构**：第一句为时间状语从句（When men engage in these actions）+ 主句（it is unremarkable, and hence tends to go unremarked on）；第二句为 But 连接的对比句（when a woman... does the same thing... her actions—and she—may seem deceptive or negligent）。
 
-**关键词":"When men engage in these actions","it is unremarkable","go unremarked on","encroaching on men's turf","her actions—and she—","deceptive or negligent"]]
+**关键词**：When men engage in these actions, it is unremarkable, go unremarked on, encroaching on men's turf, her actions—and she—, deceptive or negligent
 **表达方式**：以第一句的"不值一提"（unremarkable）与第二句的"欺骗/疏忽"（deceptive or negligent）构成直接对照，并以破折号引出的"and she"（以及她本人）将批评从行为延伸至人。
 
 **为什么这样写**：Manne 以 Clinton 与 Goffman 的"销毁证据"（销毁邮件、黑莓）为例：同一行为（销毁信息），男性做则"无人置评"（unremarked on），女性做则"欺骗/疏忽"（deceptive or negligent）。而"her actions—and she"（她的行为——以及她本人）这一破折号插入是关键：批评的对象从行为滑向了人本身。这一"由事及人"（from action to person）的滑移，正是本章所说的"goes to a woman's character especially quickly and cut especially deep"（迅速且深切地指向女性品格）。
 
-> **原句 30:** "so-called imposter syndrome is sometimes in the eye of the beholder of female as compared with male professors"
+> **原句 29:** "so-called imposter syndrome is sometimes in the eye of the beholder of female as compared with male professors"
 
 **中文理解**：所谓的"冒名顶替综合征"（imposter syndrome），有时存在于旁观者眼中——就女性教授而言，与男性教授相比。
 
 **句子结构**：主干为 so-called imposter syndrome is sometimes in the eye of the beholder（in the eye of the beholder：俗语，"在旁观者眼中"）；of female as compared with male professors 为修饰（beholder of... 与 female... 并列）。
 
-**关键词":"so-called imposter syndrome","in the eye of the beholder","of female as compared with male professors","sometimes"
+**关键词**：,, ,, ,
 
 **表达方式**：以 "in the eye of the beholder"（在旁观者眼中）这一俗语将"冒名顶替综合征"从"内在于感受者"的信念，转为"存在于旁观者的判断"之中。
 
 **为什么这样写**：Manne 指出"冒名顶替综合征"（imposter syndrome）的两种形式：本人的"我不够格"（I am not good enough），与旁人的"她不够格"（she is not good enough）。她主张后者——学生对女教授的"fake"评价——才是"真正"的不真实感所在。这一转换说明"冒名顶替"（imposter）作为一种指控，其起源不在教师的内心，而在学生（旁观者）的眼中——这呼应 ch09 中"可信度赤字"（credibility deficit）的概念，以及 ch08 中"特权授予领地错觉"的机制。
 
-> **原句 31:** "the preposterous rumor that Hillary had a “body double”"
+> **原句 30:** "the preposterous rumor that Hillary had a “body double”"
 
 **中文理解**：那个荒谬绝伦的传言——希拉里有一个"替身"（body double）。
 
 **句子结构**：主干为 the preposterous rumor（主语）+ that Hillary had a "body double"（同位语从句，表传闻的内容）。
 
-**关键词":"the preposterous rumor","body double","Hillary","had a"
+**关键词**：,, ,, ,
 
 **表达方式**：以 "preposterous"（荒谬的）修饰 rumor，同时以引号引出 "body double" 这一具体说法——在正式语域与荒诞内容之间形成反讽。
 
 **为什么这样写**：Manne 以"替身"（body double）传言作为"厌恶"运行至极限的例证：既然一个真实的女性政治家可以被如此厌女，人们甚至可以否认她的存在本身——将她替换为一个"影子"（doppelganger）。这呼应 ch08 "太像人"（all too human）的悖论之反面：当一个女性太过"像人"（有血有肉、有具体存在）时，人们宁愿相信她是"假"的——因为真实的她太过具体、太过可指责。
 
-> **原句 32:** "They look hollow, stiff, wooden, robotic, as well as fake and inauthentic."
+> **原句 31:** "They look hollow, stiff, wooden, robotic, as well as fake and inauthentic."
 
 **中文理解**：她们看起来空洞、僵硬、木讷、机器般，以及虚假、不真诚。
 
 **句子结构**：主干为 They look hollow, stiff, wooden, robotic, as well as fake and inauthentic（look + 六个并行的表语形容词）。
 
-**关键词":"look hollow","stiff","wooden","robotic","fake and inauthentic","They look"
+**关键词**：,, ,, ,, ,, ,
 
 **表达方式**：以 look（看起来）+ 六个形容词并置（hollow/stiff/wooden/robotic/fake/inauthentic），呈现一连串"无生命"的特征。
 
 **为什么这样写**：Manne 指出对女性政治人物"不真实"（inauthentic）判断的知觉基础：她们"看起来"（look）像物件而非人。hollow（空洞的）、stiff（僵硬的）、wooden（木讷的）、robotic（机械的）——这四个形容词都属于"物"（objects）而非"人"（persons）的属性库。Manne 指出，女性领导人在政治中的可信度问题，甚至在"视觉层面"（at the level of visual perception）上就已失败——这使她想起 ch10 中"她们需要表演受害者"的策略：既然无法被相信"真实"，则唯一的选择是表演"真实"。
 
-> **原句 33:** "the power of the man’s ability to convey the impression of authenticity without its substance was underestimated by many liberals"
+> **原句 32:** "the power of the man’s ability to convey the impression of authenticity without its substance was underestimated by many liberals"
 
 **中文理解**：这个男人在无实质的情况下传达"真实"（authenticity）印象的力量，被许多自由主义者低估了。
 
 **句子结构**：主干为 the power of the man's ability to convey the impression of authenticity without its substance was underestimated by many liberals（power of the... ability... 为 of 短语多层嵌套；without its substance 作介词短语修饰 authenticity）。
 
-**关键词":"the power of the man's ability","convey the impression of","authenticity without its substance","was underestimated","by many liberals"
+**关键词**：,, ,, ,, ,
 
 **表达方式**：以 "authenticity without its substance"（无实质的真实）这一矛盾修饰，将"真实"（authenticity）与"实质"（substance）作对立并置。
 

@@ -50,9 +50,9 @@ source_text: ch08_chapter 5 humanizing hatred.txt
 
 **为什么这样写**：这是 Lindy West 对其网络攻击者的提问，也是全章的起点。它之所以有力，在于它假定了"把人当人"是不假思索的默认状态——正是这一假定构成了人文主义解释的核心（ch03 与 ch06 皆已预示此处的"承认即人性"命题）。West 的攻击者无法回答此问题，正是 Manne 随后要论证的：他的敌意并不来自去人化。
 
-> **原句 2:** "such questions—for example, “Why didn’t he automatically see us as human beings?”—rest on a common mistake: reflexively attributing “man’s inhumanity to men” to some sort of dehumanizing psychological attitude."
+> **原句 2:** "such questions—for example, “Why didn’t he automatically see us as human beings?”—rest on a common mistake: reflexively attributing “man’s inhumanity to men”2 to some sort of dehumanizing psychological attitude."
 
-**中文理解**：这类问题——例如"他为什么没有自动把我们当人看？"——建立在一个常见错误之上：反射性地把"男人对人的非人行为"（man's inhumanity to men）归因于某种去人化的心理态度。
+**中文理解**：这类问题——例如"他为什么没有自动把我们当人看？"——建立在一个常见错误之上：反射性地把"男人对人的非人行为"（man's inhumanity to men）2 归因于某种去人化的心理态度。
 
 **句子结构**：主干为 such questions rest on a common mistake；破折号插入举例（for example...）；冒号后 reflexively attributing... 为 mistake 的同位解释（动名词短语）。
 
@@ -176,7 +176,7 @@ source_text: ch08_chapter 5 humanizing hatred.txt
 
 **句子结构**：主干为 such recognition seems to have been its very precondition；in fact 为插入强调语。
 
-**关键词**：such recognition, very precondition, in fact, its antecedent
+**关键词**：such recognition, very precondition, in fact, seems
 
 **表达方式**：以 "in fact" 翻转预期（预期是"承认人性会阻止敌意"），再以 "very precondition"（正是前置条件）完成反转。
 
@@ -284,7 +284,7 @@ source_text: ch08_chapter 5 humanizing hatred.txt
 
 **句子结构**：以 if 引导的条件状语从句（if, in fact, you are one）独立成句，主句省略（隐含"那么称你为老鼠并无错"）。
 
-**关键词**：if, in fact, you are one, apropos
+**关键词**：if, in fact, you are one, you are
 
 **表达方式**：以一个极端的荒谬条件句（if you actually are a rat）作反讽，讽刺"去人化"言辞的语义前提。
 

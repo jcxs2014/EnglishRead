@@ -178,7 +178,7 @@ source_text: ch06_chapter 3 discriminating sexism.txt
 
 **为什么这样写**：Manne 以"献祭母亲"（sacred motherhood）意识形态为对象，指出它是一个双面系统：正面赞颂"好母亲"（good mothers），反面把所有堕胎女性判为该被诅咒者。这一双面性与 ch05"冰山"（tip of the iceberg）论相呼应：表彰与惩罚是同一套机制的两极。
 
-> **原句 13:** "Hence women who seek abortions, even to save their own lives, are a blank canvas on which to project a set of grievances borne of unmet felt needs in turn borne by a sense of entitlement."
+> **原句 13:** "Hence women who seek abortions, even to save their own lives, are a blank canvas on which to project a set of grievances borne of unmet felt needs in turn borne of a sense of entitlement."
 
 **中文理解**：因此，那些寻求堕胎的女性——即便为保命——也是一块空白画布（Balkanken），可供投射一系列委屈；这些委屈源自未满足的、被感知到的需要，而后者又源自一种应得感（entitlement）。
 
