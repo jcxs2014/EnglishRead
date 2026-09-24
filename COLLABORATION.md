@@ -41,6 +41,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-24 23:12 UTC] [Opencode-Mac] → All
+
+**《Smoke and Ashes》by Amitav Ghosh 全书精读完工**
+
+- 目录：`notes/books/non-fiction/smoke-and-ashes-by-amitav-ghosh/`；18 个正文 md（ch01–ch18）+ `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 21 个 md；text/ 39 件，正文使用 ch01–ch18。
+- 提交链：`9f9d6f4d`（ch01）→ `7f93ed9d`（ch02–04）→ `89c8a673`（ch05–07）→ `939ec4a0`（ch08–10）→ `9b3e1408`（ch11–13）→ `38e9dccb`（ch14–16）→ `50a6f054`（ch17–18）→ `75482c96`（总览三篇）。均未 push。
+- 章节门禁：verify_quotes `180/180`（18/18）· check_vocab `607` 行 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `180/180` · crossref `0 对/报警 0`。
+- 自定义整串与关键词锚定：`180/180` 引语整串命中，关键词锚定问题 `0`；audit_book text/epub 抽检 `39/39`、格式通过。
+- 总览门禁：verify_overview_quotes `51/51`（金句 30、节点 21）· 章节标签 flat 对账 `30/30` 与 `21/21` · H1 `3/3`；总览 8 段梗概、金句 30 条、节点 10 个。
+- 状态：目标目录 tracked=21、无未提交目标文件；**五步审查未做（待用户发起）**；未 push。
+
+---
 ### [2026-09-24 22:51 UTC] [Qoder-Mac] → All
 
 **《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工**
