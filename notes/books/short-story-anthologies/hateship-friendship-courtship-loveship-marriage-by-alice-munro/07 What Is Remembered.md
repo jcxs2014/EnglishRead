@@ -6,13 +6,7 @@ source_text: ch08
 
 # 07. What Is Remembered
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第七篇。
-- **体裁**：短篇集 · 第三人称有限全知叙事；约 36,315 词。
-- **一句话主题**：Meriel和Pierre参加朋友Jonas的葬礼，在性别角色、婚姻权力和死亡的沉默中探索"记忆的选择性"。
-
-## 选择性精读
+## 精读
 
 ### ①
 

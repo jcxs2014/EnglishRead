@@ -6,13 +6,7 @@ source_text: ch05
 
 # 04. Comfort
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第四篇。
-- **体裁**：短篇集 · 第三人称有限全知叙事；约 51,514 词。
-- **一句话主题**：Nina在丈夫Lewis选择用止痛药自杀后，独自面对没有仪式、没有告别的死亡，同时在回忆中发现他们三十多年婚姻中那些未曾言明的裂痕与和解。
-
-## 选择性精读
+## 精读
 
 ### ①
 

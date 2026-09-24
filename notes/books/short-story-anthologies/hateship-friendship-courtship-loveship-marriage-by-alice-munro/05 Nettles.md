@@ -6,13 +6,7 @@ source_text: ch06
 
 # 05. Nettles
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第五篇。
-- **体裁**：短篇集 · 第一人称回忆叙事；约 47,764 词。
-- **一句话主题**：叙述者回忆童年夏天与随父亲漂泊的男孩Mike McCallum的友谊，在战俘游戏和河流探索中第一次意识到阶级差异与性的存在。
-
-## 选择性精读
+## 精读
 
 ### ①
 

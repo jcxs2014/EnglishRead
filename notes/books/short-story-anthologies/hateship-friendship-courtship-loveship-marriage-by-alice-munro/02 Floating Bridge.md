@@ -6,13 +6,7 @@ source_text: ch03
 
 # 02. Floating Bridge
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第二篇。
-- **体裁**：短篇集 · 第三人称有限全知叙事；约 42,851 词。
-- **一句话主题**：Jinny身患癌症，和伴侣Neal及他们请来的看护Helen共同度过一段日子，在病痛与照护的日常中发现关系的脆弱与坚韧。
-
-## 选择性精读
+## 精读
 
 ### ①
 

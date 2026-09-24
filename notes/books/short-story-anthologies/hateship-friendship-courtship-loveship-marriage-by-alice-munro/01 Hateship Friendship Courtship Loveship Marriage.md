@@ -6,13 +6,7 @@ source_text: ch02
 
 # 01. Hateship, Friendship, Courtship, Loveship, Marriage
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第一篇。
-- **体裁**：短篇集 · 第三人称全知叙事；约 77,195 词。
-- **一句话主题**：孤独的女仆Johanna与落魄的Ken Boudreau通过信件产生情感联结，最终不顾一切奔赴Saskatchewan；与此同时，被背叛的老人McCauley在空荡荡的屋子里哀叹人性的背弃。
-
-## 选择性精读
+## 精读
 
 ### ①
 

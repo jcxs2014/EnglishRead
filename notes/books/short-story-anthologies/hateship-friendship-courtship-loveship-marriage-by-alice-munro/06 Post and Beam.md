@@ -6,13 +6,7 @@ source_text: ch07
 
 # 06. Post and Beam
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第六篇。
-- **体裁**：短篇集 · 第三人称有限全知叙事；约 45,012 词。
-- **一句话主题**：数学天才Lionel向朋友Lorna讲述母亲临终时化妆的故事，探索天才的陨落、疯狂的馈赠，以及语言与数学之间的奇异联系。
-
-## 选择性精读
+## 精读
 
 ### ①
 

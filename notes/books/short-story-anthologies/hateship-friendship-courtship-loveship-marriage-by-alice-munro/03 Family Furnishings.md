@@ -6,13 +6,7 @@ source_text: ch04
 
 # 03. Family Furnishings
 
-## 概览
-
-- **出处**：《Hateship, Friendship, Courtship, Loveship, Marriage》by Alice Munro；第三篇。
-- **体裁**：短篇集 · 第一人称回忆叙事；约 51,909 词。
-- **一句话主题**：叙述者回忆表亲Alfrida——一个写假专栏但活得很"真"的女人，她的存在让叙述者看到自己父母的狭隘，也让她第一次意识到文字可以是一种叛逆的工具。
-
-## 选择性精读
+## 精读
 
 ### ①
 
