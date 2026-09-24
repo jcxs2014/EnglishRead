@@ -196,6 +196,7 @@ source_text: ch08
 | apprehensive | 忧虑的；担心的 | you won't feel apprehensive about declining an invitation for a party |
 | misfortunes | 不幸；灾祸 | Misfortunes aren't fun to deal with, but bearing them nobly strengthens your ability |
 | nobly | 高尚地；有尊严地 | Misfortunes aren't fun to deal with, but bearing them nobly strengthens your ability |
+| mindlessly | 盲目地；不动脑地 | you were mindlessly following the herd |
 
 ### ⭐ 基础
 
@@ -205,7 +206,6 @@ source_text: ch08
 | ego | 自我；自尊心 | if their business fails, their ego will suffer too hard of a blow. |
 | velocity | 速度 | The trick is to stick to your goals long enough for the velocity to accrue. |
 | beaten | 被击败的 | If you think you are beaten, you are; |
-| mindlessly | 盲目地；不动脑地 | you were mindlessly following the herd |
 
 ## 一句话总结
 
