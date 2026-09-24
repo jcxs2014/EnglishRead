@@ -58,7 +58,7 @@ source_text: ch17
 
 > **原句 5:** "It’s like he disappeared off the face of the planet."
 
-**理解**：他就像从地球表面彻底消失了一样。
+**中文理解**：他就像从地球表面彻底消失了一样。
 
 **关键词**：disappeared · off the face of the planet
 
@@ -88,7 +88,7 @@ source_text: ch17
 
 > **原句 8:** "“We’re going to church.”"
 
-**理解**：“我们要去做礼拜。”
+**中文理解**：“我们要去做礼拜。”
 
 **关键词**：We’re going · church
 

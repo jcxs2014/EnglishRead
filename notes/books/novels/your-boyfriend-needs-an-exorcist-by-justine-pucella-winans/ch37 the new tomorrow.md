@@ -36,7 +36,7 @@ source_text: ch37
 
 **读者视角提示**：稳定不是问题完全解决，而是她活到可以谈话、可以被寻找；Schuyler 第一次在危机后面对的不是尸体，而是可持续的关系。
 
-> **原句 3:** "“That guilt is a good thing. Proves that you aren’t what you did.”"
+> **原句 3:** "that guilt is a good thing. Proves that you aren’t what you did."
 
 **中文理解**：“这种内疚是件好事。它证明你不是你所做的事。”
 
@@ -46,7 +46,7 @@ source_text: ch37
 
 **读者视角提示**：Sister Maria Lucia 不让 Schuyler 把内疚视为敌人，但她也没有说内疚本身值得永远保留；这句话要求她用内疚推动改变，而不是用内疚继续定罪。
 
-> **原句 4:** "“What’s important is belief. Having hope and faith in something. That’s what gives you power, and that’s what I need you to hold on to.”"
+> **原句 4:** "What’s important is belief. Having hope and faith in something. That’s what gives you power, and that’s what I need you to hold on to.”"
 
 **中文理解**：“重要的是信念。对某种东西怀抱希望和信仰。那会给你力量，也是我需要你抓住的东西。”
 
@@ -56,7 +56,7 @@ source_text: ch37
 
 **读者视角提示**：Schuyler 不必先决定属于哪种宗教，才能拥有活下去的力量；信仰在这里是跨宗派的心理和伦理资源。
 
-> **原句 5:** "“You’ll have to live with what you did, there’s no way around that.”"
+> **原句 5:** "You’ll have to live with what you did, there’s no way around that."
 
 **中文理解**：“你必须带着你做过的事活下去，没有办法绕过去。”
 

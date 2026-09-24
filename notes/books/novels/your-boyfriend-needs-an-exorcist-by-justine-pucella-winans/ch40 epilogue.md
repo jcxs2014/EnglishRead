@@ -16,7 +16,7 @@ source_text: ch40
 
 ## 精读
 
-> **原句 1:** "The Soul Formerly Known as Lorenzo Altamura has never been happier."
+> **原句 1:** "The Soul Formerly Known As Lorenzo Altamura has never been happier."
 
 **中文理解**：这位曾经被称为 Lorenzo Altamura 的灵魂从来没有这么幸福过。
 
@@ -120,4 +120,4 @@ source_text: ch40
 
 ## 一句话总结
 
-Epilogue 让曾经寻找人类生活答案的 Lorenzo 以 Snugglebug 的身体醒来：没有责任、没有 guidebook，也没有必须完成的身份目标；他伸展、打盹、推倒杯子并被全家宠爱，最后用“Life was good”确认第二次生命已经把幸福从抽象未来带回了每一个当下。
+Epilogue 让曾经寻找人类生活答案的 Lorenzo 以 Snugglebug 的身体醒来：没有责任、没有 guidebook，也没有必须完成的身份目标；他伸展、打盹、打翻玻璃杯并被全家宠爱，最后用“Life was good”确认第二次生命已经把幸福从抽象未来带回了每一个当下。

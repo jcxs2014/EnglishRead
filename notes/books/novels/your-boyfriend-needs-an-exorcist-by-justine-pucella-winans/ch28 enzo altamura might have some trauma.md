@@ -86,7 +86,7 @@ source_text: ch28
 
 **读者视角提示**：这个“家”同时属于亲情、猫咪、Wren 的记忆和她不愿归还的生活；愿望越真实，身体占有的伦理重量越大。
 
-> **原句 8:** "I don’t deserve this, I sob. I don’t deserve to be Enzo."
+> **原句 8:** "“I don’t deserve this,” I sob. “I don’t deserve to be Enzo.”"
 
 **中文理解**：我哭着说：“我不配得到这些。我不配成为 Enzo。”
 

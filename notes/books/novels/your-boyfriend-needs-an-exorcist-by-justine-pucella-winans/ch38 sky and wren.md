@@ -26,7 +26,7 @@ source_text: ch38
 
 **读者视角提示**：Wren 的语气不是突然翻脸，而是长期证据累积后的谨慎；这一句提醒读者，分手并非缺少爱，而是爱无法覆盖创伤。
 
-> **原句 2:** "“I know it wasn’t your fault, and you were just doing what you had to, but . . . I don’t know if this is something I can get past, Sky.”"
+> **原句 2:** "“I know it wasn’t your fault, and you were just doing what you had to, but . . . I don’t know if this is something I can get past, Sky."
 
 **中文理解**：“我知道那不是你的错，你也只是做你不得不做的事，但……我不知道自己能不能跨过这一切，Sky。”
 
@@ -36,7 +36,7 @@ source_text: ch38
 
 **读者视角提示**：Wren 明确不否认附身带来的危险，也明确不否认 Schuyler 的善意；“不能 get past”让离开成为当事人对自身承受力的诚实选择。
 
-> **原句 3:** "“I’m not going to tell anyone, though! I mean it when I say I’m happy for you.”"
+> **原句 3:** "“I’m not going to tell anyone, though! I mean it when I say I’m happy for you."
 
 **中文理解**：“不过我不会告诉任何人！我说我为你高兴，是认真的。”
 
@@ -46,7 +46,7 @@ source_text: ch38
 
 **读者视角提示**：她的善意和离开并不互相抵消；这段话让分手成为双向负责，而不是惩罚或威胁。
 
-> **原句 4:** "“I think I need some time to myself and to figure out me, honestly.”"
+> **原句 4:** "I think I need some time to myself and to figure out me, honestly.”"
 
 **中文理解**：“老实说，我觉得自己需要一点独处的时间，也需要弄清楚我到底是谁。”
 
@@ -84,9 +84,9 @@ source_text: ch38
 
 **为什么这样写**：regardless of what happened 把复杂事实压缩成不取消感谢的背景，I deserve better 与 deserve to be loved 从比较转向自我价值；Wren 的告别因此还完成了一次对旧关系伤害的命名。
 
-**读者视角提示**：Schuyler 带给 Wren 的影响不会因分手消失；她没有用“被爱”交换关系延续，而是把对方对自己的肯定作为永久礼物。
+**读者视角提示**：Wren 带给 Schuyler 的影响不会因分手消失；她没有用“被爱”交换关系延续，而是把对方对自己的肯定作为永久礼物。
 
-> **原句 8:** "“I’m just grateful to know that I’ll have a tomorrow, at least for a while.”"
+> **原句 8:** "I’m just grateful to know that I’ll have a tomorrow, at least for a while."
 
 **中文理解**：“我只是很感激，知道自己至少还能拥有一个明天。”
 

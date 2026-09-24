@@ -16,7 +16,7 @@ source_text: ch34
 
 ## 精读
 
-> **原句 1:** "“He’s here,” Vinny starts, “but we can’t see him—”
+> **原句 1:** "“He’s here,” Vinny starts, “but we can’t see him—”"
 
 **中文理解**：“他在这里，但我们看不见他——”
 
@@ -56,7 +56,7 @@ source_text: ch34
 
 **读者视角提示**：Key 并不意外她会离开前任，因为痛苦和依赖本来就可能把她推回他身边；这句话让读者重新审视他过去所谓“等待”和“理解”。
 
-> **原句 5:** "“Fuck you, Raymond.”"
+> **原句 5:** "“Fuck you, Raymond,” I say."
 
 **中文理解**：“去你的，Raymond。”
 
@@ -76,7 +76,7 @@ source_text: ch34
 
 **读者视角提示**：Vinny 的要求真实而感人，但也暴露出替代家庭对 Schuyler 的依赖；她需要 fighting back，不是因为别人命令她活下去，而是因为她自己也想要一个未来。
 
-> **原句 7:** "“It’s this evil spirit, not you, baby. You have to fight him.”"
+> **原句 7:** "It’s this evil spirit, not you, baby. You have to fight him.”"
 
 **中文理解**：“是这个恶灵，不是你，宝贝。你必须和他战斗。”
 
@@ -86,7 +86,7 @@ source_text: ch34
 
 **读者视角提示**：这句话与 Key 的“你是怪物”形成正面冲突；Ms. Altamura 不是否认行为后果，而是不允许 Schuyler 把恶灵的控制权等同于她的全部人格。
 
-> **原句 8:** "“Please choose yourself.”"
+> **原句 8:** "Please choose yourself.”"
 
 **中文理解**：“请选择你自己。”
 

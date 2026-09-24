@@ -66,7 +66,7 @@ source_text: ch10
 
 **读者视角提示**：照片不是证明附身魔法真实性的唯一证据，却是 Wren 可以亲自核验的旧生活痕迹；Schuyler 需要的不只是被相信，而是被承认为一个曾经活过的人。
 
-> **原句 6:** "I’m sorry for possessing your boyfriend, I say. I swear, I didn’t mean to. I didn’t know that was a possibility. But someone had to do something."
+> **原句 6:** "“I’m sorry for possessing your boyfriend,” I say. “I swear, I didn’t mean to. I didn’t know that was a possibility. But someone had to do something.”"
 
 **中文理解**：“对不起，我附身了你男朋友。”我说，“我发誓，我不是故意的。我不知道这会成为可能。但总得有人做点什么。”
 

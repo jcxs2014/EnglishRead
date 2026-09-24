@@ -56,7 +56,7 @@ source_text: ch30
 
 **读者视角提示**：Moose 的猜测并没有击中真实答案，却为后续“熊人”伪装提供掩护；当玩笑变成她腿上的真实伤口，分类的轻盈就会显出代价。
 
-> **原句 5:** "“I have to stop this. I have to.”"
+> **原句 5:** "I have to stop this. I have to."
 
 **中文理解**：“我必须阻止这件事。我必须。”
 
@@ -66,7 +66,7 @@ source_text: ch30
 
 **读者视角提示**：Schuyler 仍想把 Moose 和 Vinny 从自己造成的危险中排除；这份保护意图与随后咬伤 Moose 的结果形成残酷反差，不能被后续道歉完全抵消。
 
-> **原句 6:** "“My claws start to shrink back in.”"
+> **原句 6:** "My claws start to shrink back in."
 
 **中文理解**：“我的爪子开始缩回去了。”
 
@@ -86,7 +86,7 @@ source_text: ch30
 
 **读者视角提示**：Moose 的惊叫是本章的伦理校正点；Schuyler 曾在脑中把她当盟友或“保护对象”，但身体记得她是另一个需要被避免伤害的人。
 
-> **原句 8:** "“You have to complete the possession.”"
+> **原句 8:** "“You have to complete the possession,” she says."
 
 **中文理解**：“你必须完成附身。”
 

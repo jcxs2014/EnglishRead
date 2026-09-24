@@ -56,7 +56,7 @@ source_text: ch32
 
 **读者视角提示**：Wren 并没有把 Enzo 的身体当作完全虚假的关系对象，但她也没有假装附身不存在；这句承认让后面的爱更接近真实协商，而不是单方面幻想。
 
-> **原句 5:** "“This is as real of a body as I’ve had. And it’s still, you know, me.”"
+> **原句 5:** "This is as real of a body as I’ve had. And it’s still, you know, me.”"
 
 **中文理解**：“这是我一直拥有过的最真实的身体，而且它仍然是我。”
 
@@ -66,7 +66,7 @@ source_text: ch32
 
 **读者视角提示**：Schuyler 在这里说出了自己的核心经验：身体可以是借来的，感觉和选择却仍属于自己；但她也清楚，这种自我确认无法替 Wren 承担即将看到的事实。
 
-> **原句 6:** "“I love you, Wren Castillo. I think I fell in love with you from the moment I saw you. And maybe people don’t believe in that kind of love, maybe you don’t believe in that kind of love, but I do. No matter how many afterlives I live, I won’t forget that.”"
+> **原句 6:** "I love you, Wren Castillo. I think I fell in love with you from the moment I saw you. And maybe people don’t believe in that kind of love, maybe you don’t believe in that kind of love, but I do. No matter how many afterlives I live, I won’t forget that.”"
 
 **中文理解**：“我爱你，Wren Castillo。我想我从看见你的那一刻就爱上了你。也许人们不相信这种爱，也许你不相信这种爱，但我相信。无论我经历多少个来世，我都不会忘记。”
 

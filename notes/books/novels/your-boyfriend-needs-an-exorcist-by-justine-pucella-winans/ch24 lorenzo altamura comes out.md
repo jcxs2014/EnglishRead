@@ -36,7 +36,7 @@ source_text: ch24
 
 **读者视角提示**：Schuyler 不是在寻找一个绝对答案，而是在允许自己提出问题；问号保留了探索空间，也让 Rainbow Club 的回应不必替她完成定义。
 
-> **原句 3:** "“No, I mean more transmasc, I blurt, before remembering my situation.”"
+> **原句 3:** "“No, I mean more transmasc,” I blurt, before remembering my situation."
 
 **中文理解**：“不，我的意思是更偏 transmasc。”我脱口而出，随后才想起自己的处境。
 
@@ -46,7 +46,7 @@ source_text: ch24
 
 **读者视角提示**：这个词不只是性别标签，也连接了 Schuyler 对 Enzo 身体的实际舒适感；她必须在说清自己的感受和保护附身秘密之间走钢丝。
 
-> **原句 4:** "“I’m not straight, I quietly correct. I’m bisexual.”"
+> **原句 4:** "“I’m not straight,” I quietly correct. “I’m bisexual.”"
 
 **中文理解**：“我不是异性恋。”我轻声纠正，“我是双性恋。”
 

@@ -66,13 +66,13 @@ source_text: ch08
 
 **读者视角提示**：Echo 的出现把学校路程变成事故现场的回放；Schuyler 现在的身体能感到心跳，却仍可能被过去的画面拖回死亡瞬间。
 
-> **原句 6:** "Oreo. It’s my plushie, the one thing I have from my old life, it’s . . . I couldn’t take him from the attic. I need him."
+> **原句 6:** "“Oreo. It’s my plushie, the one thing I have from my old life, it’s . . . … I couldn’t take him from the attic. I need him.”"
 
 **中文理解**：Oreo。他是我从旧生活留下的唯一毛绒玩具，我……我没法把他从阁楼带出来。我需要他。
 
 **关键词**：my plushie · the one thing · I need him
 
-**为什么这样写**：Oreo 的单独呼喊把恐慌压缩成一个名字，后面的省略号模拟呼吸中断；the one thing I have 把物件提升为身份锚点，I need him 则把“需要”写成直接的依赖。
+**为什么这样写**：Oreo 的单独呼喊把恐慌压缩成一个名字，原文先以 `. . .` 截断呼吸，精读引文再用 `…` 省略中间叙述标签，把两段仍连在同一次失语里的发言拼回；the one thing I have 把物件提升为身份锚点，I need him 则把“需要”写成直接的依赖。
 
 **读者视角提示**：附身带来的自由并没有替代 Schuyler 原本的依靠；她需要一个来自旧生活的实物来确认自己没有被 Enzo 的生活吞没。
 

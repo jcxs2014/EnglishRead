@@ -46,7 +46,7 @@ source_text: ch27
 
 **读者视角提示**：Key 不是被击败，而是被暂时驱逐；Schuyler 可以稍后为他的去向辩解，但当下必须承认他的力量已经超出普通驱魔者能控制的范围。
 
-> **原句 4:** "“But since Enzo’s soul is not in his body, the reason you’re not in full possession is all you.”"
+> **原句 4:** "But since Enzo’s soul is not in his body, the reason you’re not in full possession is all you.”"
 
 **中文理解**：“但既然 Enzo 的灵魂不在身体里，你没有完成全部附身的原因就是你。”
 
@@ -66,7 +66,7 @@ source_text: ch27
 
 **读者视角提示**：Schuyler 长久以来把灵魂看作外部实体，心理阻碍的说法迫使她考虑：也许是内部记忆和自我价值在阻止她成为完整的 Enzo。
 
-> **原句 6:** "“I think there’s a big part of you that doesn’t believe you deserve to be alive. That doesn’t think you’re worthy of this opportunity in front of you.”"
+> **原句 6:** "I think there’s a big part of you that doesn’t believe you deserve to be alive. That doesn’t think you’re worthy of this opportunity in front of you.”"
 
 **中文理解**：“我觉得你有一部分非常不相信自己值得活着，也不相信自己配得上眼前这个机会。”
 
@@ -76,7 +76,7 @@ source_text: ch27
 
 **读者视角提示**：Sister Maria Lucia 没有说 Schuyler 的感受是事实，而是指出她相信的自我判决；这部分心理结构需要被看见，才能不再以 Evil Spirit 作为唯一身份。
 
-> **原句 7:** "“Our pasts do not define us, but we carry them with us. We can’t pretend they don’t exist. You can’t just leave that part of you behind. She’s still you. And she’s hurting.”"
+> **原句 7:** "“Our pasts do not define us, but we carry them with us. We can’t pretend they don’t exist. You can’t just leave that part of you behind. She’s still you. And she’s hurting."
 
 **中文理解**：“我们的过去不能定义我们，但我们会带着它们。我们不能假装它们不存在，也不能把那一部分自己丢在身后。她仍然是你，而且她正在受伤。”
 

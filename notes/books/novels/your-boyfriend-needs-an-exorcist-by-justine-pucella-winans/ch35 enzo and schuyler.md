@@ -26,7 +26,7 @@ source_text: ch35
 
 **读者视角提示**：Schuyler 不是从昏迷中正常醒来，而是在“疼痛暂停”的空隙里进入自我对话；意识场景因此更像一次内在审判，而非外部救援。
 
-> **原句 2:** "“I’m proud of you. What you did to make things better for Vinny. For Mom. For me, I guess.”"
+> **原句 2:** "I’m proud of you. What you did to make things better for Vinny. For Mom. For me, I guess."
 
 **中文理解**：“我为你骄傲。你为 Vinny、为妈妈、也许也为我做的事情，让事情变好了。”
 
@@ -46,7 +46,7 @@ source_text: ch35
 
 **读者视角提示**：这是 Enzo 对自己的心理说明，不是替所有伤害开脱；理解他的恐惧能解释行为，却不能抹去他曾让 Vinny 和 Ms. Altamura 承受的后果。
 
-> **原句 4:** "“You’re the brother and son they always should’ve had.”"
+> **原句 4:** "you’re the brother and son they always should’ve had."
 
 **中文理解**：“你就是他们一直应该有的哥哥和儿子。”
 
@@ -56,7 +56,7 @@ source_text: ch35
 
 **读者视角提示**：这句话看似把 Enzo 的位置让出，实际上也在处理他的被抛弃感；他并非完全无私，而是从与 Key 争夺身体转为把“成为儿子”的愿望交给别人。
 
-> **原句 5:** "“You deserve this shit.”"
+> **原句 5:** "“You deserve this shit,” Enzo says firmly, dropping his hand."
 
 **中文理解**：“你值得这一切。”
 
@@ -76,7 +76,7 @@ source_text: ch35
 
 **读者视角提示**：Schuyler 只需说“I’m trying”，并没有突然痊愈；这段话承认自我接纳是过程，也让她从别人的允许进入自己的练习。
 
-> **原句 7:** "“I’m sorry you had to go through so much.”"
+> **原句 7:** "“I’m sorry you had to go through so much."
 
 **中文理解**：“对不起，你不得不经历这么多。”
 

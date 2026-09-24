@@ -66,7 +66,7 @@ source_text: ch11
 
 **读者视角提示**：这是关系线与友情线的第一次正面冲突；她不是不知道 Key 会难过，而是把当下的爱情和暂时的未来放在了他的需要之前。
 
-> **原句 6:** "I’m not stealing his life, I say, despite the guilt coating my words. I’m just borrowing it."
+> **原句 6:** "“I’m not stealing his life,” I say, despite the guilt coating my words. “I’m just borrowing it.”"
 
 **中文理解**：“我不是在偷走他的人生。”我说，尽管内疚像一层涂层覆盖着我的话，“我只是借用它。”
 
@@ -76,7 +76,7 @@ source_text: ch11
 
 **读者视角提示**：Schuyler 知道“借用”不能消除占有问题；她选择这个词，是因为它保留了归还的可能，也因为她还不愿承认自己正在偷走时间、关系和选择。
 
-> **原句 7:** "I’m sorry, I say. I’ll see you Sunday. I promise."
+> **原句 7:** "“I’m sorry,” I say. “I’ll see you Sunday. I promise.”"
 
 **中文理解**：“对不起。”我说，“星期天见。我保证。”
 

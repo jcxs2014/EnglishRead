@@ -66,7 +66,7 @@ source_text: ch12
 
 **读者视角提示**：Schuyler 并不是天生就知道自己要什么，而是在被限制的经验之后才敢尝试；她的可爱偏好因此带有争取自主权的重量。
 
-> **原句 6:** "You decided to believe me and to take a chance on me, I say. That’s not just anything, that’s . . . everything."
+> **原句 6:** "“You decided to believe me and to take a chance on me,” I say. “That’s not just anything, that’s . . . everything.”"
 
 **中文理解**：“你决定相信我，并愿意在我身上赌一次。”我说，“那不是小事，那是……一切。”
 
@@ -76,7 +76,7 @@ source_text: ch12
 
 **读者视角提示**：Wren 的相信不是被动接受，而是主动下注；Schuyler 因而把“被选择”理解成需要用全部时间偿还的礼物。
 
-> **原句 7:** "I’m feeling better than I have in a long time, I admit. Maybe better than I ever have."
+> **原句 7:** "“I’m feeling better than I have in a long time,” I admit. “Maybe better than I ever have.”"
 
 **中文理解**：“我承认，我现在的感觉比很长一段时间里都好，也许比以往任何时候都好。”
 
@@ -86,13 +86,13 @@ source_text: ch12
 
 **读者视角提示**：自我感觉变好并不等于她已经被新身份完全接受；本章随后让朋友和外表偏好检验这份改善能否承受公共目光。
 
-> **原句 8:** "I mean, I’m getting my nails painted, I get to hang out with you all, and . . . I’m dating the most beautiful girl in the world. What more can anyone want?"
+> **原句 8:** "“I mean, I’m getting my nails painted, I get to hang out with you all, and . . . … I’m dating the most beautiful girl in the world. What more can anyone want?”"
 
 **中文理解**：我的意思是，我正在涂指甲，可以和你们一起玩，而且……我正在和世界上最美丽的女孩约会。任何人还能想要更多吗？
 
 **关键词**：getting my nails painted · dating the most beautiful girl · what more can anyone want
 
-**为什么这样写**：三段并列把小小美甲、朋友聚会和爱情压缩成一份清单，and 后的省略号故意制造故作轻松的停顿；反问 What more can anyone want? 把个人幸福夸张到仿佛全世界都该满足，也暴露她仍在向外界索取确认。
+**为什么这样写**：三段并列把小小美甲、朋友聚会和爱情压缩成一份清单，and 后的原文省略号制造故作轻松的停顿；引文中的 `…` 省略了她转身拨头发的叙述性插入，保留两次发言由动作连接起来的节奏；反问 What more can anyone want? 把个人幸福夸张到仿佛全世界都该满足，也暴露她仍在向外界索取确认。
 
 **读者视角提示**：Schuyler 的兴奋是真实的，但“世界上最美丽的女孩”仍是单向理想化；朋友们的反应会提醒读者，爱情和自我表达都需要经过他人的真实目光。
 

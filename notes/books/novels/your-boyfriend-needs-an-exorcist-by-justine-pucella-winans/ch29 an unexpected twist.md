@@ -36,7 +36,7 @@ source_text: ch29
 
 **读者视角提示**：她既拒绝 Enzo，也不确定旧 Schuyler 是否完整；Vinny 随后给出的答案不是恢复旧名，而是允许她重新命名。
 
-> **原句 3:** "I don’t know who the fuck I am."
+> **原句 3:** "“I don’t know who the fuck I am,” I say to Vinny."
 
 **中文理解**：我他妈根本不知道自己是谁。
 
@@ -46,7 +46,7 @@ source_text: ch29
 
 **读者视角提示**：这是 Vinny 给出“你是兄弟”之前的高点，也是本章真正的情感危机；她不是缺少信息，而是所有旧身份都被经历改变。
 
-> **原句 4:** "You don’t have to be anyone. You can be whoever you want to be."
+> **原句 4:** "The point is, you don’t have to be anyone. You can be whoever you want to be.”"
 
 **中文理解**：你不必成为任何人。你可以成为你想成为的任何人。
 
@@ -76,7 +76,7 @@ source_text: ch29
 
 **读者视角提示**：Schuyler 不只是害怕 Key 或过去，也害怕说出来后 Vinny 会如何看她；恐惧因此成为她打开真实故事的门槛。
 
-> **原句 7:** "“I may not know everything,” Vinny starts when I hesitate, “but I’m glad you want to trust me with it.”"
+> **原句 7:** "“I may not know everything,” Vinny starts when I hesitate, “but I’m glad you want to trust me with it. If you’re ready, I hope you can trust me enough to know that I’m here for you no matter what.”"
 
 **中文理解**：“我可能不是什么都清楚。”Vinny 在我犹豫时开口，“但我很高兴你愿意把它托付给我。”
 
@@ -86,7 +86,7 @@ source_text: ch29
 
 **读者视角提示**：Schuyler 需要的不是一个立刻给出答案的人，而是一个听完仍能留下的人；这段对话让她的创伤叙述从被迫供述变成主动选择。
 
-> **原句 8:** "“It’s my fault, Vinny. I was too scared to drive, too scared to stand up to him, too stupid to not crash us. I didn’t just kill the two of us, I killed Key.”"
+> **原句 8:** "“It’s my fault, Vinny. I was too scared to drive, too scared to stand up to him, too stupid to not crash us. I didn’t just kill the two of us, I killed Key."
 
 **中文理解**：“这是我的错，Vinny。我太害怕开车，太害怕反抗他，太愚蠢到没有阻止我们撞车。我不只是杀了我们两个，我还杀了 Key。”
 

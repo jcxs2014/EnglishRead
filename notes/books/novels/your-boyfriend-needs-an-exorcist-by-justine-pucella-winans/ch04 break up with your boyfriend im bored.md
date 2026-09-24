@@ -56,7 +56,7 @@ source_text: ch04
 
 **读者视角提示**：Schuyler 的愤怒来自价值判断：她认为 Wren 本身已经是奖品，Enzo 却把这份好运当成理所当然。
 
-> **原句 5:** "You shouldn’t have to be the only one responsible for your band’s success."
+> **原句 5:** "“You shouldn’t have to be the only one responsible for your band’s success,” I tell Wren."
 
 **中文理解**：你不该成为乐队成功的唯一负责人。
 

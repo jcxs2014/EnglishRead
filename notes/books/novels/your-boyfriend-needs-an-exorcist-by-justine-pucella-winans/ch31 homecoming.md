@@ -34,7 +34,7 @@ source_text: ch31
 
 **为什么这样写**：don’t have to 先取消道歉义务，Schuyler 的名字把安慰具体指向当事人，trying your best 衡量的是努力而不是结果；Papa Lloyd 不否认灾难，却拒绝让内疚成为唯一关系语言。
 
-**读者视角提示**：这是外部者第一次清楚替她区分努力与失败；Schuyler 仍可以觉得自己有责任，却不必把每一次未能阻止都解释成道德 deficiencies。
+**读者视角提示**：这是外部者第一次清楚替她区分努力与失败；Schuyler 仍可以觉得自己有责任，却不必把每一次未能阻止都解释成道德缺陷。
 
 > **原句 3:** "“Schuyler Thompson, that boy is not and has never been your responsibility, and you don’t owe him a goddamn thing.”"
 
@@ -46,7 +46,7 @@ source_text: ch31
 
 **读者视角提示**：这不是否认 Key 的痛苦，而是否定 Schuyler 对他全部人生拥有最终管辖权；Papa Lloyd 为她划出责任边界，让她有机会停止把所有恶都归到自己身上。
 
-> **原句 4:** "“He constantly guilts you, makes you apologize. He doesn’t let you have a moment of peace.”"
+> **原句 4:** "“He constantly guilts you, makes you apologize. He doesn’t let you have a moment of peace."
 
 **中文理解**：“他不断让你内疚，逼你道歉，不让你拥有一刻安宁。”
 
@@ -56,7 +56,7 @@ source_text: ch31
 
 **读者视角提示**：这句话将“Key 被抛弃”与“Key 如何使用罪责”区分开；理解他的痛苦，不等于允许他垄断 Schuyler 的内在空间。
 
-> **原句 5:** "“I don’t think wanting to be alive is such a sin.”"
+> **原句 5:** "I don’t think wanting to be alive is such a sin.”"
 
 **中文理解**：“我不觉得想要活着是这么大的罪。”
 

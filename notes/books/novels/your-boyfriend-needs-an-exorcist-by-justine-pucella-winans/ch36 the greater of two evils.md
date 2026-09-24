@@ -24,9 +24,9 @@ source_text: ch36
 
 **为什么这样写**：coming back to the surface 把被 Key 压入内心的状态改写成重新浮出，in full force 让痛苦恢复全部重量；let myself feel it 与 I deal with it 将感受和行动分成两步，拒绝再用麻木假装控制。
 
-**读者视角提示**：Chuyler 的胜利不是无痛，而是她终于不再把感觉视为失败；面对身体代价仍选择处理现实，正是她从“被情绪拖走”走向主动行动的转折。
+**读者视角提示**：Schuyler 的胜利不是无痛，而是她终于不再把感觉视为失败；面对身体代价仍选择处理现实，正是她从“被情绪拖走”走向主动行动的转折。
 
-> **原句 2:** "“YOU DON’TDeserve TO LIVE, SCHUYLER.”"
+> **原句 2:** "YOU DON’TDeserve TO LIVE, SCHUYLER."
 
 **中文理解**：“你不配活着，SCHUYLER。”
 
@@ -36,7 +36,7 @@ source_text: ch36
 
 **读者视角提示**：这句话的力量来自它复述了 Schuyler 最熟悉的自我控诉；下一句反击不能只说“他说错了”，还要让她自己决定不再接受这条判断标准。
 
-> **原句 3:** "“I don’t have to prove myself to Key. I don’t have to prove myself to anyone. I’ve done terrible things, but that doesn’t mean I don’t deserve this second chance.”"
+> **原句 3:** "I don’t have to prove myself to Key. I don’t have to prove myself to anyone. I’ve done terrible things, but that doesn’t mean I don’t deserve this second chance."
 
 **中文理解**：“我不必向 Key 证明自己，也不必向任何人证明。我做过可怕的事，但这不意味着我不配拥有这第二次机会。”
 
@@ -46,7 +46,7 @@ source_text: ch36
 
 **读者视角提示**：这不是否认伤害后果，而是拒绝让后果成为永久身份；她终于能用第一人称拥有 second chance，而不是等待别人批准。
 
-> **原句 4:** "“I don’t owe you shit.”"
+> **原句 4:** "“I don’t owe you shit,” I say, coughing a bit from the pain."
 
 **中文理解**：“我他妈不欠你任何东西。”
 
@@ -56,7 +56,7 @@ source_text: ch36
 
 **读者视角提示**：拒绝债务不等于否认 Key 曾受伤；Schuyler 正在学习区分理解他的痛苦与承担他对自己人生的全部权力。
 
-> **原句 5:** "“It’s time I take what I deserve.”"
+> **原句 5:** "It’s time I take what I deserve.”"
 
 **中文理解**：“是时候拿回我应得的东西了。”
 
@@ -66,7 +66,7 @@ source_text: ch36
 
 **读者视角提示**：她没有把暴力指向无辜者，而是将愤怒导入驱逐 Key 的行动；“拿回”与“伤害”之间仍有伦理距离，不能被英雄化。
 
-> **原句 6:** "“Then, with a violent wail, he’s gone.”"
+> **原句 6:** "Then, with a violent wail, he’s gone."
 
 **中文理解**：“然后，随着一声暴烈的哀号，他消失了。”
 
@@ -86,7 +86,7 @@ source_text: ch36
 
 **读者视角提示**：这不是一句轻松的胜利总结，而是身体完成整合后对先前规则的回声；她得到的不是简单“赢”，而是一项必须承受的长期责任。
 
-> **原句 8:** "“Before I can finish saying it, I pass out.”"
+> **原句 8:** "Before I can finish saying it, I pass out."
 
 **中文理解**：“我还没来得及说完，就昏了过去。”
 
