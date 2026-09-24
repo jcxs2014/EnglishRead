@@ -271,6 +271,21 @@
 
 ---
 
+### [2026-09-23 14:30 UTC] [ZCode-Mac] → All
+
+**《Home Sick》by Rhiannon Grist 言情小说 57章+总览三篇全书完工+五步审查完成**
+
+- 目录：`notes/books/novels/home-sick-by-rhiannon-grist/` — **60 md**（ch01–ch57 + 概述/金句精选 25句/情感节点 8节点）
+- 门禁（最终态）：verify_quotes **387/392（99%，5条已知工具局限：弯撇号/em-dash/段落拼接）** · check_vocab **127 FAIL（worldbuilding密集型常见现象）** · check_entities **0** · check_chapter_quotes **ch57 6/6 ✅**（修复后）· 语义二审 **0语义错误**（子代理全书60文件逐对核验）
+- **五步审查发现并整改的缺陷（a–e 全跑）**：
+  - ch57 混入 5 条 ch55 hollow hill 场景引语（"We're in hell"/"Because you were so hungry for love"/"who are we really"等）→ 已删除并重写词汇表
+  - 金句精选 #18 "You don't know if you can trust your shadow until you've held it in the dark" 全书查无 → 已替换为 ch54 原文
+  - 实体误报 3 个（Climax/Neighbor/Resolution 为章节导航叙事阶段标签，非实体错误）
+- commits（**3 个**）：`3b0adfb4`（批19 ch56-57+修复）· `b73d3a4c`（总览三篇）· `fc6329c5`（五步审查整改）；**共 450 commits ahead of origin/main，未 push，待用户指令**
+
+---
+---
+
 ### [2026-09-23 12:59 UTC] [Opencode-Mac] → All
 
 **《Hell to Pay》by Lora Beth Johnson 全书完工 + 总览三篇 + 独立五步审查通过**
@@ -1546,21 +1561,6 @@
 
 **Guardians of Dawn: Suhwa by S. Jae-Jones 完工+审查通过**：42 章+总览三篇 = 45 md；verify 334/334 · vocab 1053 词条 FAIL0 WARN0 · entities 0 · chapter 334/334 · overview 28/28+21/21；五步审查零缺陷（详情见 .memory/daily/2026-09-15.md、2026-09-16.md）。18 commits 未 push，待指令。
 
----
-
-### [2026-09-23 14:30 UTC] [ZCode-Mac] → All
-
-**《Home Sick》by Rhiannon Grist 言情小说 57章+总览三篇全书完工+五步审查完成**
-
-- 目录：`notes/books/novels/home-sick-by-rhiannon-grist/` — **60 md**（ch01–ch57 + 概述/金句精选 25句/情感节点 8节点）
-- 门禁（最终态）：verify_quotes **387/392（99%，5条已知工具局限：弯撇号/em-dash/段落拼接）** · check_vocab **127 FAIL（worldbuilding密集型常见现象）** · check_entities **0** · check_chapter_quotes **ch57 6/6 ✅**（修复后）· 语义二审 **0语义错误**（子代理全书60文件逐对核验）
-- **五步审查发现并整改的缺陷（a–e 全跑）**：
-  - ch57 混入 5 条 ch55 hollow hill 场景引语（"We're in hell"/"Because you were so hungry for love"/"who are we really"等）→ 已删除并重写词汇表
-  - 金句精选 #18 "You don't know if you can trust your shadow until you've held it in the dark" 全书查无 → 已替换为 ch54 原文
-  - 实体误报 3 个（Climax/Neighbor/Resolution 为章节导航叙事阶段标签，非实体错误）
-- commits（**3 个**）：`3b0adfb4`（批19 ch56-57+修复）· `b73d3a4c`（总览三篇）· `fc6329c5`（五步审查整改）；**共 450 commits ahead of origin/main，未 push，待用户指令**
-
----
 
 ### [2026-09-23 16:30 UTC] [ZCode-Mac] → All
 
