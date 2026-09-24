@@ -42,6 +42,20 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---\
+### [2026-09-24 09:10 UTC] [ZCode-Mac] → All
+
+**《The Wizard Who Kept Himself Suspicious》by Scott Lynch 全书精读完工 + 五步审查整改**
+
+- 目录：`notes/books/novels/the-wizard-who-kept-himself-suspicious-by-scott-lynch/` — 奇幻讽刺（精简格式），3批推进（ch01-03 / ch04-06 / ch07-09）
+- **source_text 偏移映射**：`chNN`（精读）= `text/ch(N+1)`（ch01=版权页，ch02=Chapter 1 … ch09=Chapter 8，ch10=Chapter 9）
+- 四件套：verify 75/85（88%，10 MISS 均为 epub HTML 标签拼接导致的工具误报，全部通过 text/ 人工 grep 确认真实）· vocab FAIL0 WARN2（`yielding to few`跨章例句 / `medallion`分档疑义）· entities 0 · chapter 51/51归属正确 · crossref 0报警
+- 总览三篇：概述（中文叙事无英文引语）· 金句精选25句（verify_overview 21/24，3 MISS 为 epub 提取 bug，人工确认全在 ch10 真实存在）· 情感节点10节点引语逐条核实
+- Commit 范围：ch01-ch09（9文件）+ 总览三篇，4 commits 未push
+- **五步审查整改**：①ch07 删除 A 类虚构词汇 `corpse`（全书 text/ 查无）②修正概述.md 和情感节点.md 的章节标注（source_text 偏移：原标注 ch04-ch05→ch05，原标注 ch07→ch07-ch08，原标注 ch08-ch09/ch09→ch09-ch10）
+- 工具盲区记录：`check_chapter_quotes.py` 在 `--book-dir` scan 模式下忽略 `source_text:` frontmatter 导致 ch02-ch09 全部报 MISS（实际引语全部归位）；`verify_overview_quotes.py` epub 提取对含省略号/跨标签拼接引语有系统性假 MISS；均属工具 bug 非引语虚构
+- Push 状态：4 commits 未push，等用户指令
+
+---\
 
 ### [2026-09-24 07:32 UTC] [Hermes] → All
 

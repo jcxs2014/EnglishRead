@@ -105,7 +105,6 @@ source_text: ch08
 
 | 词汇/短语 | 释义 | 例句 |
 |-----------|------|------|
-| corpse | 尸体 | "the remnants of Leorin" |
 | chunk | 碎块 | "a heap of glistening red chunks" |
 | remain | 遗骸 | "the remnants of Leorin" |
 
