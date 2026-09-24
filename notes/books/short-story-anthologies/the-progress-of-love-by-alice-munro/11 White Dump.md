@@ -32,7 +32,7 @@ source_text: ch11
 
 **句子结构**：两句短句，句式重复（`An Old Norse + 动词短语`）；`And goes North` 省略主语，以 `And` 起句作补充；前一句 `An Old Norse never takes a summer vacation.”` 与本句之间被 `said Isabel severely.` 隔开，故只取后半段连续原文。
 
-**关键词**：An Old Norse takes a winter vacation; And goes North; said Isabel severely
+**关键词**：An Old Norse takes a winter vacation; And goes North; Old Norse
 
 **表达方式**：三句的节拍像一条下坡的滑梯。`goes North`（往北走）在加拿大语境里是双关——既是旅游方向，也是童年想学北极科学的那个孩子的人生方向。
 

@@ -80,15 +80,15 @@ source_text: ch07
 
 ### ⑥
 
-> **原句 6:** "He is telling me I’m to blame, while his fingers start up these flutters under my skin... His hand rouses and his words shame me, and something in his voice mocks, mocks endlessly, at both these responses."
+> **原句 6:** "He is telling me I’m to blame, while his fingers start up these flutters under my skin"
 
-**中文理解**："他在告诉我该受责罚，而他的手指在我皮肤下引起这些颤动……他的手在撩拨，他的话在羞辱我，而他声音里的某种东西在嘲笑，无尽地嘲笑这两种反应。"
+**中文理解**："他在告诉我该受责罚，而他的手指在我皮肤下引起这些颤动。"
 
-**句子结构**：第一个分句为进行时（`He is telling`，`while` 引导对比）；后半为三个现在时短句排比（`hand rouses`/`words shame`/`voice mocks`），末句用 `mocks, mocks endlessly` 动词重复。
+**句子结构**：`He is telling` 进行时表当时正在发生；`while` 引导对比状语从句；两个分句构成"手在动作 / 话在定罪"的并置。后文 `, rousing a tender, distant ache. His dry voice reproaches me. His hand rouses and his words shame me…` 与本句被逗号句号隔开，属另一次发言，故只取前段连续原文。
 
-**关键词**：start up these flutters; hand rouses; words shame; mocks endlessly
+**关键词**：He is telling me I’m to blame; while; start up these flutters
 
-**表达方式**：手、语言、声音三条线同时动作，彼此矛盾。动词重复 `mocks, mocks` 把嘲笑写成一种持续的、无处不在的第三者。
+**表达方式**：一句之内手与话同时动作而彼此矛盾——手在撩拨，话在定罪。`start up these flutters`（引起这些颤动）用轻快的动词 `start` 配身体的细微反应，把一次抚摸写成无数细小的开始。
 
 **为什么这样写**：这是全篇最精密的身体描写。Mr. Cryderman 的"手在撩拨、话在训诫"构成施虐的两面，而第三个元素（声音里的嘲笑）把叙述者变成旁观者——她看着自己同时被唤醒和羞辱。这份"三重分裂"正是她随后"骄傲硬化"（Pride hardens）的心理机制。
 

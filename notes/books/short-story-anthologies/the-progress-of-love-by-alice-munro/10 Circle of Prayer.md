@@ -30,7 +30,7 @@ source_text: ch10
 
 **句子结构**：`She called + 宾语 + 直接引语` 的转述句结构；直接引语 `Jenny the Feeb` 为绰号，前后文另起句（`joking.` 与 `She called...` 同段相邻）。
 
-**关键词**：keep joking; Jenny the Feeb
+**关键词**：She called Genevieve; Jenny the Feeb
 
 **表达方式**：`keep + Ving` 表示持续性动作。用一个绰号（`the Feeb`）代替真名，是 Trudy 用来消解痛苦的语言策略。
 

@@ -20,7 +20,7 @@ source_text: ch04
 
 **表达方式**：用四个连续的"没有"把空缺写成一个洞。`his due of grief`（他应得的悲伤）用的是债权语气——死者的悲伤被写成一笔无人认领的账。
 
-**为什么这样写**：这句把一桩未被哀悼的死亡写成了社会性亏欠。Steve 的父亲独居、没有家庭，葬礼办不成——不是因为他冷漠，而是因为他没有"接收"这具身体的资格。叙述者在此处第一次提出"谁有权为谁收尸"，这个问题在二十年后由她自己的家庭回答。
+**为什么这样写**：这句把一桩未被哀悼的死亡写成了社会性亏欠。Steve 的父亲独居、没有家庭，葬礼办不成——不是因为他冷漠，而是因为他没有"接收"这具身体的资格。叙述者在此处第一次提出"谁有权为谁收尸"，这个问题在多年后由她自己的家庭回答。
 
 ### ②
 
@@ -80,15 +80,15 @@ source_text: ch04
 
 ### ⑥
 
-> **原句 6:** "At that moment, Meg was slipping, surprised, into the treacherous clear blue water."
+> **原句 6:** "At that moment, Meg was slipping, surprised, into the treacherously clear blue water."
 
 **中文理解**：就在那一刻，梅格正惊讶地滑入那片背叛的、澄澈的蓝水里。
 
-**句子结构**：`At that moment` 时间状语开头；主句 `Meg was slipping` 进行时表当时正在发生；`, surprised,` 为插入的形容词（说明状态）；`into the treacherous clear blue water` 介词短语作方向补语。定语 `treacherous`（背叛的）与 `clear`（清澈的）并置修饰 `blue water`。
+**句子结构**：`At that moment` 时间状语开头；主句 `Meg was slipping` 进行时表当时正在发生；`, surprised,` 为插入的形容词（说明状态）；`into the treacherously clear blue water` 介词短语作方向补语。定语 `treacherously`（背叛地/危险地）与 `clear`（清澈的）并置修饰 `blue water`。
 
-**关键词**：slipping, surprised; treacherous clear blue water
+**关键词**：slipping, surprised; treacherously clear blue water
 
-**表达方式**：`treacherous`（背叛的）与 `clear`（清澈的）构成矛盾修饰——水是透明的，危险正因透明而不设防。这是全篇最核心的意象之一，与前面"看穿"的`watcher`逻辑呼应。
+**表达方式**：`treacherously`（背叛的）与 `clear`（清澈的）构成矛盾修饰——水是透明的，危险正因透明而不设防。这是全篇最核心的意象之一，与前面"看穿"的`watcher`逻辑呼应。
 
 **为什么这样写**：那句"透明得足以背叛"的水，是这本合集标题的隐喻内核。人物必须透过表面看暗流，看清反而可能招致灾祸。"惊讶地滑入"（`slipping, surprised`）——一个不设防的、无知的危险瞬间，正是纳特所写的"pool of meaning"的最好诠释。
 
@@ -237,4 +237,4 @@ source_text: ch04
 
 ## 一句话总结
 
-看穿了透明水面的危险之后，叙述者必须同时想象两个方向：幸运的链条（梅格浮上来）与可耻的链条（陈尸运走），而当她把这条链子反过来投向自己的父母时，才终于说出那句迟到二十年的话——生下孩子，本身就是一种允许孩子去死的同意。
+看穿了透明水面的危险之后，叙述者必须同时想象两个方向：幸运的链条（梅格浮上来）与可耻的链条（陈尸运走），而当她把这条链子反过来投向自己的父母时，才终于说出那句迟到多年的话——生下孩子，本身就是一种允许孩子去死的同意。

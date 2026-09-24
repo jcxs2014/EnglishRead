@@ -16,7 +16,7 @@ source_text: ch05
 
 **句子结构**：`I knew there wasn’t anybody but me alive in the house` 主句（`there be` 存在句 + 主语后置定语 `alive`）；`Then I saw his leg` 独立小句重复三次递进；`I knew then` 与前句时态对照（`knew` → `knew then`）；`but I had to go on in and make sure` 转折，`had to` 表义务。
 
-**关键词**：nobody but me alive; I saw his leg; I had to go on in and make sure
+**关键词**：anybody but me alive; I saw his leg; I had to go on in and make sure
 
 **表达方式**：同一结构三次重复（`I saw his leg`），把一个视觉冲击写成慢镜头。`I knew` 先于 `I saw`——她不是先看到才明白，而是先明白才去看。
 
@@ -114,7 +114,7 @@ source_text: ch05
 
 **句子结构**：`I knew + 从句`；`wouldn’t want + 双重否定从句 not to know`。全句是双重否定套嵌，构成一个悖论式陈述。
 
-**关键词**：wouldn’t want not to know; Nobody would want not to know
+**关键词**：I knew she wouldn’t; want not to know; wouldn’t want
 
 **表达方式**：一个"不会想要不知道"的悖论。`not to know` 作为"想要"的宾语，把"想知道"这件事实颠倒着说——这是全篇最漂亮的悖论句，被重复两次以强调其普适性。
 

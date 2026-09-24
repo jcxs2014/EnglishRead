@@ -126,7 +126,7 @@ source_text: ch02
 
 **中文理解**：修整过去，让凡是他希望发生过的，都变成发生过。
 
-**句子结构**：`fixing up the past so + 从句` 为现在分词短语作目的状语；`anything he wished had happened` 是动名词从句作从句主语，`did happen` 用助动词强调。
+**句子结构**：`fixing up the past so + 从句` 为现在分词短语作目的状语；`anything he wishes had happened` 是动名词从句作从句主语，`did happen` 用助动词强调。
 
 **关键词**：big recreation; fixing up the past; anything he wishes had happened
 

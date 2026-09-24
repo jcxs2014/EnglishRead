@@ -88,7 +88,7 @@ source_text: ch09
 
 **句子结构**：`Because + 主系表` 原因状语从句；`so + 形容词` 表程度；全句被 `said Violet vehemently` 隔开，与后半句 `"I don’t want anybody to see."` 分属不同言语标签。
 
-**关键词**：Because I am so ashamed; so ashamed; said Violet vehemently
+**关键词**：Because I am so ashamed; so ashamed; Because
 
 **表达方式**：一句被喊出来的坦白，感叹号保留了音量；紧随其后的 `said Violet vehemently`（她激烈地说）把音量坐实。`so ashamed` 里 `so` 加强的不是程度而是羞耻的实体性——它像个东西，就在那里。
 

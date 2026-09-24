@@ -38,17 +38,17 @@ source_text: ch03
 
 ### ③
 
-> **原句 3:** "He didn’t say he didn’t. … Just that he’s inclined to be independent."
+> **原句 3:** "Just that he’s inclined to be independent."
 
-**中文理解**："他没说不是。……只说他有点倾向于独立。"
+**中文理解**："只说他有点倾向于独立。"
 
-**句子结构**：两处均为间接引语；前句双重否定，后句 `just that + 主系表` 降格为"不过是说他……"，把指控降为性格描述。
+**句子结构**：`just that + 主系表` 的降格结构：`just`（不过是）把前半句的指控削成性格描述，`inclined to be` 用 `to + 动词原形` 表倾向。
 
-**关键词**：just that; inclined to be; independent
+**关键词**：Just that; inclined to be; independent
 
-**表达方式**：从"没有否认"到"只是有点独立"，是一次完整的降级：事实问题被换成形容词。`inclined to` 的委婉与 `independent` 的褒义，让校长的免责意图自然浮现。
+**表达方式**：`Just that`（不过是）四个字把一场问责降级为一条性格备注。`inclined to be independent` 用最温和的语法承载最强的免责声明。
 
-**为什么这样写**：这段是全篇主题句的第一次亮相——人如何用语言把无法归类的事物安放进现成的抽屉。Ross 的两顶帽子、后来的大引擎，都是被这样"独立"地处理掉的。真正关心他的人（Colin、Glenna、Nancy）反而一句都不能说。
+**为什么这样写**：这是全篇主题句的第一次亮相——人如何用语言把无法归类的事物安放进现成的抽屉。Ross 的两顶帽子、后来的大引擎，都是被这样"独立"地处理掉的。真正关心他的人（Colin、Glenna、Nancy）反而一句都不能说。
 
 ### ④
 
@@ -70,9 +70,9 @@ source_text: ch03
 
 **中文理解**："就是因为我没有先找到你！"
 
-**句子结构**：`is that + 从句` 作表语从句（`the only thing that’s the matter with you is that...` 的后半）；`didn’t find` 强调未完成的动作。
+**句子结构**：`is that + 从句` 作表语从句（原文 `The only thing the matter with you is that...`，此处为其后半段）；`didn’t find` 强调未完成的动作。
 
-**关键词**：the matter with you; didn’t find; first
+**关键词**：is that; didn’t find; first
 
 **表达方式**：Ross 的第一句话是关于"先后"的，而不是关于"优劣"。他把"你有问题"重构成"我没早到一步"，一个仲裁式的玩笑。
 
@@ -142,7 +142,7 @@ source_text: ch03
 
 **句子结构**：`give + 宾语 + credit for + 名词` 结构；两处破折号内的同位语 `the world of adults, at the party or anywhere else` 插入强调，`anywhere else` 扩展范围。
 
-**关键词**：credit for existing; the world of adults; no longer
+**关键词**：credit for existing; the world of adults; would not give
 
 **表达方式**：`credit for existing` 是商业/账目语汇——你甚至不承认账上有这笔。这比"不在乎"更冷：不承认即不存在。
 
