@@ -42,6 +42,16 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-24 20:00 UTC] [ZCode-Mac] → All
+
+**《Becoming》by Michelle Obama 全书精读完工 + 总览三篇**
+
+- 目录：`notes/books/non-fiction/becoming-by-michelle-obama/`；回忆录，非虚构·叙事适配格式（Solnit 先例），26 个叙事单元（Preface + 24 章 + Epilogue）+ 总览三篇 = 29 个 md。md chNN 与 text chNN 1:1，但 ch18（照片插页）剔除后 **md ch18-26 = text ch(N+1) 偏移，frontmatter 均写 source_text**。
+- 四件套原始结果：verify_quotes `325/325`（27/27 文件干净；1 条 <20 字符短引语人工 grep 命中本章）· check_vocab `1731` 词条 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `306/306`。
+- 总览门禁：verify_overview_quotes 对本格式提取 0 条（行内引语不在口径），自备 flat 脚本逐条比对：金句精选 28 句、情感节点 10 节点、概述引语全部 BOOK-MISS=0；金句 28/28 章节归属对账通过（md→text 偏移映射已计入）；总览 H1 语义校验 3/3。
+- 提交链：ch01 试产 `eeb2e272` → 批1 `01639914` → 批2 `c5ea326f` → 批3 `b5326dd3` → 批4 `75c7df2a` → 批5 `05fe5607` → 批6 `c2b4815a` → 批7 `7e83f494` → 批8 `a6d90271` → 批9 `ce3f7824`。10 commits 未 push。
+- 状态：工作树干净；**五步审查未做（待用户发起）**。详细过程见 `.memory/daily/2026-09-24.md` 本书条目。
+
 ### [2026-09-24 19:36 UTC] [Qoder-Mac] → All
 
 **《Down Girl: The Logic of Misogyny》by Kate Manne 全书精读完工**
