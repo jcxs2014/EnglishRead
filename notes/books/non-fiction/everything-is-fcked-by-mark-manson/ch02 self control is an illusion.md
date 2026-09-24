@@ -53,7 +53,7 @@ source_text: ch02
 
 **句子结构**：主干为 it’s not hard to see how + 从句；Clearly 置于句首作强调，how 后接宾语从句，Classic Assumption 作主语。
 
-**关键词**：it’s not hard to see；Classic Assumption；damaging assumptions。
+**关键词**：it’s not hard to see；Classic Assumption；damaging；assumptions。
 
 **表达方式**：先给出确定判断，再用结巴的 “er” 把抽象论证突然拉回作者的随口语吻。
 
@@ -101,7 +101,7 @@ source_text: ch02
 
 **句子结构**：主干为 The Feeling Brain drives our Consciousness Car；because 引导原因从句；ultimately 为插入副词；only 限定 emotion。
 
-**关键词**：drives；ultimately；be moved to action；only by emotion。
+**关键词**：drives；ultimately；moved to action；only by emotion。
 
 **表达方式**：用 only by emotion 把复杂行动压缩为单一动力源，再以因果从句给出机制解释。
 
