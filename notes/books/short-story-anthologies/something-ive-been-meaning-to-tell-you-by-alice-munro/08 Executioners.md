@@ -14,9 +14,9 @@ source_text: ch08
 
 **中文理解**：我预期会有人责怪我。
 
-**句子结构**：这是省略主语和情态动词的过去时片段；`expected blame` 用动词加名词表达一种对未来的心理预设。
+**句子结构**：这是完整的一般过去时陈述句：`I` 是主语，`expected` 是过去式谓语，`blame` 是宾语名词。
 
-**关键词**：expected; blame; thin-skinned
+**关键词**：expected; blame
 
 **表达方式**：一个短句先把儿童的自我定位说清楚：她不是已经犯错，而是提前等着被归罪。`blame` 像一种环境会主动投递来的东西。
 
@@ -44,7 +44,7 @@ source_text: ch08
 
 **句子结构**：这是 `will never + 动词原形` 的将来时否定；`darken their door` 是固定表达，表示登门、登门拜访。
 
-**关键词**：never; darken their door; family shame
+**关键词**：never; darken their door
 
 **表达方式**：母亲用一句夸张的固定表达回应镇上人的排斥，仿佛问题不是个人关系而是道德污染。`their door` 把整个社区变成一个不可接近的整体。
 
@@ -70,7 +70,7 @@ source_text: ch08
 
 **中文理解**：羞辱已经被许诺下来，但它或许早已存在；它包含在听见那句话、被迫停下、不得不承认的瞬间里。
 
-**句子结构**：主句是 `Humiliation was promised`；`but was perhaps already there` 是转折，`was contained in...` 继续解释羞辱存在于哪些动作中，三个 `the + Ving` 结构并列。
+**句子结构**：主句是 `Humiliation was promised`；`but was perhaps already there` 是转折，`was contained in...` 后接三个动名词或名词化成分：`the hearing`、`the being stopped`、`having to acknowledge`，三者结构并不完全相同。
 
 **关键词**：Humiliation; promised; already there; being stopped; acknowledge
 
@@ -86,7 +86,7 @@ source_text: ch08
 
 **句子结构**：这是 `Danger was in...` 的系表结构；`the aura of the word` 用介词短语说明危险的来源。
 
-**关键词**：Danger; aura; the word; stop
+**关键词**：Danger; aura; the word
 
 **表达方式**：短句不再描述刀、攻击者或身体伤害，而把危险集中在词语周围。`aura` 使一个脏话变成有边界、有温度、能提前压迫人的场域。
 
@@ -126,7 +126,7 @@ source_text: ch08
 
 **中文理解**：我不明白为什么没有风是幸运的，也不懂现在还有什么能够算幸运。
 
-**句子结构**：主句是 `I did not understand...`；两个 `what` 从句并列，前一个指 `why it was lucky`，后一个扩展为 `what could be lucky, now`。
+**句子结构**：主句是 `I did not understand...`；两个并列宾语从句分别由 `why` 和 `what` 引导：`why it was lucky` 与 `what could be lucky`。
 
 **关键词**：did not understand; lucky; now; what could be lucky
 

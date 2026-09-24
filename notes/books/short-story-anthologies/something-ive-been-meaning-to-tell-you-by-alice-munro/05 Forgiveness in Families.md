@@ -14,7 +14,7 @@ source_text: ch05
 
 **中文理解**：上帝爱一个疯子。
 
-**句子结构**：这是一个省略主语和系动词的名词性判断；`lunatic` 作表语，`the Lord` 作主语，构成直接而反讽的宗教判断。
+**句子结构**：这是完整的主谓宾宗教判断：`the Lord` 是主语，`loves` 是谓语，`a lunatic` 是宾语。
 
 **关键词**：Lord; loves; lunatic
 
@@ -74,9 +74,9 @@ source_text: ch05
 
 **关键词**：hope; understand; committing murder
 
-**表达方式**：Cam 把母亲吃肉类和糖造成的“旧毒素”解释成需要呕吐出来的东西，Val 用同一套逻辑反击。既然他的语言把饮食说成谋杀，她就把指责也推回给他。
+**表达方式**：Cam 把根菜说成谋杀，因为根菜被他的宗教饮食规则禁止。Val 没有沿用这套逻辑，只拒绝并命令他离开；随后他才把母亲食用肉类和糖说成体内旧毒。
 
-**为什么这样写**：宗教式饮食规则本来是私人信仰，进入母亲的生活后却变成医疗判断。Val 的回击不是单纯反对素食，而是拒绝让 Cam 的信念绕过家庭成员的同意和身体边界。
+**为什么这样写**：宗教式饮食规则本来是私人信仰，进入家庭生活后却开始替他人判断身体。Val 的拒绝不是单纯反对素食，而是拒绝让 Cam 的信念绕过家庭成员的同意和身体边界。
 
 ### ⑥
 
@@ -98,7 +98,7 @@ source_text: ch05
 
 **中文理解**：真正的祈祷就是工作，相信我。
 
-**句子结构**：这是一个省略系动词的判断；`Real praying` 与 `work` 通过 `is` 构成定义关系，`believe me` 是祈使式补充。
+**句子结构**：这是完整的系表判断：`Real praying` 是主语，`is` 是系动词，`work` 是表语；`believe me` 是独立祈使句。
 
 **关键词**：real praying; work; believe me
 
@@ -124,7 +124,7 @@ source_text: ch05
 
 > **原句 9:** "Not whether Mother lived or died. It was what was so plain about myself."
 
-**中文理解**：关键不在于母亲活下来还是死去，而在于我自己竟然如此明显。
+**中文理解**：关键不在于母亲活下来还是死去，而在于我自己内心的某种东西暴露得一清二楚。
 
 **句子结构**：第一句是否定结构 `Not whether...`；第二句用 `It was what...` 重新指定真正重要的判断对象。
 
@@ -140,7 +140,7 @@ source_text: ch05
 
 **中文理解**：家庭中的宽恕对我来说是个谜，我不知道它如何发生，也不知道它如何持续。
 
-**句子结构**：主句是系表结构 `Forgiveness... is a mystery to me`；`how it comes` 与 `how it lasts` 是两个并列的宾语从句。
+**句子结构**：主句是系表结构 `Forgiveness... is a mystery to me`；两个 `how` 引导并列疑问方式状语，分别追问宽恕如何产生、如何维持。
 
 **关键词**：forgiveness; families; mystery; how it comes; how it lasts
 

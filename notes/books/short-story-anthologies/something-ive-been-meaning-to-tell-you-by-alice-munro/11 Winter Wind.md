@@ -16,7 +16,7 @@ source_text: ch11
 
 **句子结构**：这是引语转述中的比较结构；`Like Siberia` 是比较项，`you would think...` 是主句，`offended` 插入说明祖母的语气。
 
-**关键词**：Like Siberia; offended; edge of the wilderness; farms
+**关键词**：Like Siberia; offended; edge of the wilderness
 
 **表达方式**：用宏大的地理名称描写普通农场，再由 `offended` 把气候玩笑写成轻微的家庭争执。`wilderness` 与 `farms` 的矛盾制造了反讽。
 
@@ -40,7 +40,7 @@ source_text: ch11
 
 > **原句 3:** "A blizzard in town hardly seemed like a blizzard to me"
 
-**中文理解**：在小镇里，暴雪对我来说 hardly 像一场暴雪。
+**中文理解**：在小镇里，暴雪对我来说几乎算不上暴雪。
 
 **句子结构**：这是主系补语结构；`hardly` 修饰 `seemed`，`to me` 说明判断的主体。
 
@@ -84,7 +84,7 @@ source_text: ch11
 
 **中文理解**：在家里读的书和在祖母那里读的书，也是不一样的。
 
-**句子结构**：这是存在句 `There is a difference`；`in books read at home and at my grandmother’s` 说明差异的来源，两个 `at` 结构并列。
+**句子结构**：这是存在句 `There was a difference`；`in books read at home and at my grandmother’s` 说明差异的来源，两个 `at` 结构并列。
 
 **关键词**：difference; books; at home; at my grandmother’s
 
@@ -100,7 +100,7 @@ source_text: ch11
 
 **句子结构**：这是由 `All their time` 作主语、`was waiting time` 作表语的强调式判断；`waiting time` 把抽象时间转成具体状态。
 
-**关键词**：All their time; waiting time; wait; tidiness
+**关键词**：All their time; waiting time; wait
 
 **表达方式**：`All` 扩大范围，`waiting time` 把生活压缩成单一节奏。它不是某一个等待事件，而是祖母和 Aunt Madge 共同存在的组织方式。
 
@@ -114,7 +114,7 @@ source_text: ch11
 
 **句子结构**：这是完成时否定句；`lose control` 作为宾语，`never heard` 表示过去的长期经验范围。
 
-**关键词**：never heard; lose control; grandmother; anger
+**关键词**：never heard; lose control; grandmother
 
 **表达方式**：句子把祖母的失控当作罕见事件，因而立即赋予它重量。没有说明她说了什么，先让读者感受到平时权威出现裂缝。
 
@@ -124,11 +124,11 @@ source_text: ch11
 
 > **原句 9:** "My grandmother could feel endangered by my mother"
 
-**中文理解**：我的母亲让祖母感到受威胁。
+**中文理解**：我的母亲可能让祖母感到自己受到威胁。
 
 **句子结构**：这是情态动词 `could feel` 构成的过去推测；`by my mother` 说明威胁来源，`endangered` 描述祖母的心理状态。
 
-**关键词**：endangered; feel; my mother; threat
+**关键词**：endangered; feel; my mother
 
 **表达方式**：把家庭关系写成保护和侵犯的双向关系。`could` 保留了叙述者的推测距离，祖母的权威和母亲的不服从因此没有被简化成谁对谁错。
 

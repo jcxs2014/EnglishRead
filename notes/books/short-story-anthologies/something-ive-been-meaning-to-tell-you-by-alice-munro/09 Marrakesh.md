@@ -30,7 +30,7 @@ source_text: ch09
 
 **句子结构**：这是一个省略主语和系动词的引语片段；`it’s` 把 `my only vice` 变成个人化的自我辩护。
 
-**关键词**：Tell them; only vice; chest pains
+**关键词**：Tell them; only vice
 
 **表达方式**：一句俏皮话把被迫戒烟说成“唯一恶习”，把身体的限制转成可控的玩笑。`only` 既表示数量，也像在和学校董事会讨价还价。
 
@@ -42,9 +42,9 @@ source_text: ch09
 
 **中文理解**：墓地有什么值得爱的？
 
-**句子结构**：这是省略主语和系动词的疑问片段；`there is` 被省略后，`What` 直接成为需要判断的对象。
+**句子结构**：这是完整的疑问句：`What` 作主语，`is` 为系动词，`there` 是地点副词，`to love` 是不定式成分。
 
-**关键词**：there is; love; cemetery; black coffee
+**关键词**：What; is; to love
 
 **表达方式**：短问句把 Jeanette 对墓地的抒情理解截断。Dorothy 把墓地看作秩序、禁忌和令人不快的义务，而不是风景。
 
@@ -58,7 +58,7 @@ source_text: ch09
 
 **句子结构**：这是主系补语结构 `The whole country is turning...`；`a junkyard` 是补足语，介词 `into` 表示状态变化。
 
-**关键词**：whole country; turning; junkyard; destruction
+**关键词**：whole country; turning; junkyard
 
 **表达方式**：Jeanette 用一个巨大的空间隐喻概括社会变化。`whole country` 把个人对树木的惋惜扩大成文明论，而 `junkyard` 让宏大判断带着粗粝、拥挤的视觉形象。
 
@@ -72,7 +72,7 @@ source_text: ch09
 
 **句子结构**：主句是 `I was inclined to trust...`；`the one talking to me` 是动名词短语作后置定语，`because he had blue eyes` 是原因状语从句。
 
-**关键词**：inclined to trust; talking to me; blue eyes; prejudice
+**关键词**：inclined to trust; talking to me; blue eyes
 
 **表达方式**：叙述者承认自己的信任来自一个荒谬而直接的身体标记。`because` 把偏见写成因果关系，而 `blue eyes` 让宏大的道德判断落在一个可见的颜色上。
 
@@ -98,9 +98,9 @@ source_text: ch09
 
 **中文理解**：这是 Dorothy 自己推动起来的事，但她不必担心。
 
-**句子结构**：主干是 `It was what Dorothy had set in motion`；`but she need not worry` 是转折，`need not` 表示没有必要担心。
+**句子结构**：主干是 `This was what Dorothy had set in motion`；`This` 是指代眼前场景的指示代词作主语，`but she need not worry` 是转折，`need not` 表示没有必要担心。
 
-**关键词**：set in motion; need not worry; Dorothy; neighbors
+**关键词**：This; set in motion; need not worry
 
 **表达方式**：叙述者用 `set in motion` 把 Dorothy 安排 Blair 与 Jeanette 相处的责任轻描淡写地指出来。`need not worry` 像一种迟来的自我安慰，也把后果推给当事人承担。
 
@@ -114,7 +114,7 @@ source_text: ch09
 
 **句子结构**：这是两个 `like` 构成的比较结构；`to scare children` 是第一层比较的目的，`an old Norse witch` 是第二层比喻。
 
-**关键词**：character; scare children; old Norse witch; face
+**关键词**：character; scare children; old Norse witch
 
 **表达方式**：叙述者从镜子里看见自己的脸，再用一个古老、夸张的形象描述它。`like` 重复出现，使她从具体人物滑向童话中的角色。
 
@@ -142,7 +142,7 @@ source_text: ch09
 
 **句子结构**：这是一个包含定语从句的疑问句；`that is not being told` 修饰前面的全部内容，`What is there here` 构成疑问主体。
 
-**关键词**：not being told; here; what is not being told; Jeanette’s story
+**关键词**：not being told; here; what is not being told
 
 **表达方式**：问题把叙述者自己的经验也放进了审查范围。她无法确定 Jeanette 省略了什么，也就无法确认自己究竟听见了什么。
 

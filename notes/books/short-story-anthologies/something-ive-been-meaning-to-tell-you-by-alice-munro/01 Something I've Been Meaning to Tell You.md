@@ -14,7 +14,7 @@ source_text: ch01
 
 **中文理解**：Char 如今白发了，像一个幽灵；然而她的美丽仍然没有消失。
 
-**句子结构**：第一句用两个并列的 `with` 结构和系动词 `was` 描写外貌；第二句以 `But` 转折，把衰老和美丽放在一起。
+**句子结构**：主句以 `was` 构成系表结构，`with her hair gone white` 是单个介词短语，补充白发的外貌细节；第二句以 `But` 转折，把衰老和美丽放在一起。
 
 **关键词**：ghost; hair gone white; beautiful
 
@@ -28,7 +28,7 @@ source_text: ch01
 
 **中文理解**：那年夏天刚开始、大家刚听说 Blaikie 回来时，Et 就说过：他如今真是跌落得太厉害了。
 
-**句子结构**：主干是感叹句 `What a comedown`；`Et had said` 是插入的过去完成时叙述，说明这句话是回忆中的早期判断。
+**句子结构**：主干是感叹句 `What a comedown`；`Et had said` 是过去时报告从句，说明这是她在当年说过的话。
 
 **关键词**：comedown; first found out; he was back
 
@@ -98,7 +98,7 @@ source_text: ch01
 
 **中文理解**：情人。这个词并不像人们以为的那样柔软，而是残酷而具有撕裂性。
 
-**句子结构**：首句是名词性判断；后两句以 `not... but...` 重新定义这个词，`as people thought` 插入社会对“恋人”的想象。
+**句子结构**：首句 `Lovers` 是名词性片段；第二句以省略结构 `Not ... but ...` 重新界定该词，`as people thought` 插入社会对“恋人”的想象。
 
 **关键词**：lovers; not a soft word; cruel and tearing
 
@@ -140,7 +140,7 @@ source_text: ch01
 
 **中文理解**：唯一弄错的，只是她动手的时机。
 
-**句子结构**：这是省略主语和系动词的强调句；`Only` 把否定范围压缩到“时机”，使其他事实都保持不变。
+**句子结构**：这是主谓宾完整的系表句；前置焦点 `Only her timing` 强调唯一判断失误的部分是时间，而非其他事实。
 
 **关键词**：only; timing; mistaken
 

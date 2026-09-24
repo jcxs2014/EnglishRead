@@ -12,9 +12,9 @@ source_text: ch03
 
 > **原句 1:** "We heard the plane come over at noon, roaring through the radio news, and we were sure it was going to hit the house, so we all ran out into the yard."
 
-**中文理解**：中午我们听见飞机从头顶飞过，声音通过无线电新闻传来；我们认定它会撞上房子，于是全跑进院子。
+**中文理解**：中午我们听见飞机从头顶轰鸣而来，轰鸣声穿插、压过无线电新闻；我们认定它会撞上房子，于是全跑进院子。
 
-**句子结构**：主干是 `We heard...` 和 `we were sure...` 两个过去时分句；`roaring through the radio news` 是插入的现在分词短语，`so` 引导结果从句。
+**句子结构**：这是由两个过去时限定动词引导的独立分句构成的复合句，`roaring...` 是现在分词短语，`so` 引导结果从句。
 
 **关键词**：plane; radio news; hit the house; yard
 
@@ -110,7 +110,7 @@ source_text: ch03
 
 > **原句 8:** "I was perfectly happy, waiting, I forgot all about Alice Kelling and her misery and awful talk and Mrs. Peebles and her chilliness and the embarrassment of whether she had told Dr. Peebles and the face of Loretta Bird, getting her fill of other people’s troubles."
 
-**中文理解**：等待时我非常快乐；我忘了 Alice Kelling 的痛苦和恶言、忘了 Mrs. Peebles 的冷淡、忘了她是否告诉 Dr. Peebles 的尴尬，也忘了 Loretta Bird 那副尽情打听别人 troubles 的表情。
+**中文理解**：等待时我非常快乐；我忘了 Alice Kelling 的痛苦和恶言、忘了 Mrs. Peebles 的冷淡、忘了她是否告诉 Dr. Peebles 的尴尬，也忘了 Loretta Bird 那副尽情吸纳、看尽别人烦心之事的表情。
 
 **句子结构**：主句是 `I was perfectly happy, waiting`；逗号后的 `I forgot...` 继续展开，末尾以 `getting her fill...` 补充 Loretta Bird 的状态。
 
@@ -126,7 +126,7 @@ source_text: ch03
 
 **中文理解**：不会有信了，永远不会来。
 
-**句子结构**：这是一个省略主语和系动词的否定陈述；`ever` 加强永久性，`was going to come` 表示原先的预期被突然取消。
+**句子结构**：这是完整的否定陈述；`No letter` 是主语，`was going to come` 表示原先的预期最终被取消。
 
 **关键词**：No letter; ever; going to come
 

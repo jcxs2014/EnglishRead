@@ -20,7 +20,7 @@ source_text: ch02
 
 **表达方式**：用夸张的“十二年没有读”把叙述者与文学的距离一下子拉开；`praise God` 让这句自嘲听起来既虔诚又尖刻。
 
-**为什么这样写**：开篇先宣布叙述者不熟悉当代文学，却在丈夫买来前夫的故事集后被迫重新判断他。这个反差让“我对写作的判断”本身成为需要被重新审视的材料。
+**为什么这样写**：开篇先宣布叙述者不再翻阅文学期刊；随后 Gabriel 在书店找到 Hugo 的短篇集并让她买给 Clea，迫使她重新判断前夫的写作。这个反差让“我对写作的判断”本身成为需要被重新审视的材料。
 
 ### ②
 
@@ -28,7 +28,7 @@ source_text: ch02
 
 **中文理解**：我认为这是因为他自己也做这种匿名的工作——一种只有同类才能理解的工作。
 
-**句子结构**：`I think it is because...` 是主句；`himself` 插入语强调工作性质，两个 `work` 形成重复，突出“匿名劳动”和“专业共同体”的对照。
+**句子结构**：`I think it is because...` 是主句；`himself` 是反身副词，强调这种工作由 Gabriel 本人完成，两个 `work` 形成重复，突出“匿名劳动”和“专业共同体”的对照。
 
 **关键词**：anonymous work; intelligible; his own kind
 
@@ -40,7 +40,7 @@ source_text: ch02
 
 > **原句 3:** "Gabriel told me when I first knew him that he enjoyed life. He did not say that he believed in enjoying it; he said that he did."
 
-**中文理解**：Gabriel 刚认识我时就说他享受生活。他不是说相信自己应该享受生活，而是说他确实在享受生活。
+**中文理解**：我初次认识 Gabriel 时，他就告诉我他享受生活。他不是说相信自己应该享受生活，而是说他确实在享受生活。
 
 **句子结构**：两句都采用 `He did not say...; he said...` 的对照结构；`believed in` 与 `did` 形成从理念到事实的语义对比。
 

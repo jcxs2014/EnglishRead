@@ -12,9 +12,9 @@ source_text: ch04
 
 > **原句 1:** "His aim was to give people what they thought they wanted, and continue, himself, solitary and unmolested."
 
-**中文理解**：他的目标是把自己认为别人想要的东西给他们，同时让自己继续独处，不受打扰。
+**中文理解**：他的目标是满足人们自以为想要的东西，同时让自己继续独处，不受打扰。
 
-**句子结构**：主干是 `His aim was to give... and continue...`；两个 `to` 不定式并列，`himself` 插在 `continue` 后，强调行为对象。
+**句子结构**：主干是 `His aim was to give... and continue...`；`to give...` 与省略 `to` 的 `continue...` 并列，`himself` 是置于 `continue` 后的反身副词。
 
 **关键词**：aim; give people what they thought they wanted; solitary; unmolested
 
@@ -84,9 +84,9 @@ source_text: ch04
 
 **中文理解**：但我只是把自己借出去，我只是被使用。
 
-**句子结构**：两个由 `I am` 构成的现在时被动表达并列；`lending` 和 `being used` 把主动与被动连接起来。
+**句子结构**：前一分句是主动进行体 `I am lending myself`，后一分句是被动进行体 `I am being used`，形成主动借出自我与被更大力量使用的对照。
 
-**关键词**：lending myself; being used; purpose beyond me
+**关键词**：lending myself; being used
 
 **表达方式**：Eugene 把自己描述成工具，而不是表演的主人。`lending` 保留了主动选择，`being used` 又把选择交给更大的未知目的，形成一种既是主体又不是控制者的矛盾。
 
@@ -114,7 +114,7 @@ source_text: ch04
 
 **句子结构**：两个过去时动作由 `and` 并列；`bowed his head` 是可见的预备动作，`went under` 用简洁的趋向动词完成真正的进入。
 
-**关键词**：bowed his head; went under; water
+**关键词**：bowed his head; went under
 
 **表达方式**：这句没有解释，也没有判断。`went under` 把可能的奇迹压缩成最普通的动作；越是短，读者越难确定这是一场失败、一次练习，还是另一种成功。
 

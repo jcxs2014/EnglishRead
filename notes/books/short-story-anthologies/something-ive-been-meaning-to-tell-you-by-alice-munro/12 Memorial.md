@@ -42,7 +42,7 @@ source_text: ch12
 
 **中文理解**：我不想让他们的感情受到压抑，但也不想人为地刺激它们。
 
-**句子结构**：两个分句都由 `I don’t want` 引导；`but` 和 `also` 构成对称，`repressed` 与 `artificially stimulated` 分别从被动和主动两个方向限制情感。
+**句子结构**：两个分句都由 `I don’t want` 引导；`but ... either` 构成对称，`repressed` 与 `artificially stimulated` 分别从被动和主动两个方向限制情感。
 
 **关键词**：feelings; repressed; artificially; stimulated
 
@@ -58,7 +58,7 @@ source_text: ch12
 
 **句子结构**：这是一个系表判断；`Order` 是主语，`is` 是系动词，`an anal perversion` 是表语，句号制造短促的讽刺。
 
-**关键词**：Order; anal; perversion; compulsive
+**关键词**：Order; anal; perversion
 
 **表达方式**：Eileen 用弗洛伊德式词语把 June 的收纳秩序说成心理倒错。短句不解释，既显得聪明，也把姐妹之间最熟悉的生活用品变成相互伤害的证据。
 
@@ -72,7 +72,7 @@ source_text: ch12
 
 **句子结构**：这是 `There was` 存在句；两个 `a morality of` 结构并列，分别把消费行为提升为道德体系。
 
-**关键词**：morality; buying and use; consumerism; responsibility
+**关键词**：morality; buying and use; consumerism
 
 **表达方式**：叙述者先写两个重复的 `a morality of`，把普通消费转成伦理判断。`consumerism` 这个长词让日常购物获得制度性的重量。
 
@@ -86,7 +86,7 @@ source_text: ch12
 
 **句子结构**：这是两个简短的主谓分句；重复的 `made no difference` 形成平行，也把一个人的死亡与一种普遍状态直接等同。
 
-**关键词**：Douglas; made no difference; death; paralysis
+**关键词**：Douglas; made no difference; death
 
 **表达方式**：句子用重复压平了个人的死亡。Douglas 的名字和 `death` 并列后，叙事不再提供安慰或解释，只显示 Eileen 仍被旧有无力感控制。
 
@@ -100,7 +100,7 @@ source_text: ch12
 
 **句子结构**：三个短分句用分号和逗号切分；`they suffer` 与 `they die` 形成时间顺序，重复 `die` 强调生命循环。
 
-**关键词**：People die; suffer; die; illness
+**关键词**：People die; suffer; die
 
 **表达方式**：叙述者把复杂经验压缩成不可解释的基本事实。分号和逗号让句子像呼吸一样短促，拒绝提供安慰性结论。
 
@@ -112,7 +112,7 @@ source_text: ch12
 
 **中文理解**：所有言语都是可耻的，它们应该在羞耻中碎裂。
 
-**句子结构**：这是两个省略 `are` 的判断句；第二句使用情态动词 `ought to` 和被动结构 `be crumbled`，把道德要求写成分解动作。
+**句子结构**：第一句是完整的系表判断句；第二句是 `ought to + 动词原形 crumble` 的主动结构，不是 `be crumbled` 的被动结构。
 
 **关键词**：Words; shameful; crumble; shame
 
@@ -128,7 +128,7 @@ source_text: ch12
 
 **句子结构**：这是一个一般现在时习惯句；`always` 修饰 `pack`，`more than` 构成数量比较。
 
-**关键词**：always; pack; more than; leave
+**关键词**：always; pack; more than
 
 **表达方式**：句子用轻描淡写的自嘲回应 June 对她离开太早的遗憾。`always` 把个人习惯变成固定性格，暗示她无法真正删减生活中的负担。
 
@@ -142,7 +142,7 @@ source_text: ch12
 
 **句子结构**：这是一个情态结构；`Acts done without faith` 是过去分词短语作主语，`may restore faith` 表示可能性和结果。
 
-**关键词**：Acts; without faith; restore faith; believe
+**关键词**：Acts; without faith; restore faith
 
 **表达方式**：句子把“行动”和“信仰”拆开，承认人可以在不相信时仍然做一件有意义的事。`may` 保留了不确定性，不把经验写成保证。
 

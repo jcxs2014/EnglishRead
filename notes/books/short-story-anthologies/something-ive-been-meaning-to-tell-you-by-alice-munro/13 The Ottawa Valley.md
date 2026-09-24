@@ -26,9 +26,9 @@ source_text: ch13
 
 > **原句 2:** "It was one summer during the War, we waited between trains;"
 
-**中文理解**：那是战争期间的一个夏天，我们夹在两列火车之间等待。
+**中文理解**：那年战争期间的一个夏天，我们在两段火车行程之间等待。
 
-**句子结构**：这是一个过去时的时间状语从句片段；`one summer during the War` 是时间背景，`we waited between trains` 是主语和谓语。
+**句子结构**：这是由逗号连接的时间背景句和主句构成的片段：`It was one summer during the War` 提供背景，`we waited between trains` 是主句。
 
 **关键词**：one summer; during the War; waited; between trains
 
@@ -44,7 +44,7 @@ source_text: ch13
 
 **句子结构**：这是两个重复的呼语加上一个陈述句；`this is` 用指示代词把眼前的风景直接命名为家族故乡。
 
-**关键词**：Children; Ottawa Valley; valley; exclamation
+**关键词**：Children; Ottawa Valley; valley
 
 **表达方式**：重复的 `Children` 像导游或召唤，把黑暗的乡间景色转换成一次家庭远行。母亲在普通地理上强加家族意义，显示她习惯用命名控制记忆。
 
@@ -58,7 +58,7 @@ source_text: ch13
 
 **句子结构**：这是比较结构；`the poorest house` 是比较对象，`I had ever been in, to stay` 用过去完成时和插入语 `to stay` 限定经历。
 
-**关键词**：poorest house; ever been in; to stay; poverty
+**关键词**：poorest house; ever been in; to stay
 
 **表达方式**：`poorest` 把房屋直接变成社会等级的证据，`to stay` 又把比较限制在居住经验而非路过。句子简短的判断让贫困成为空间本身，而不只是一段家庭背景。
 
@@ -86,9 +86,9 @@ source_text: ch13
 
 **句子结构**：这是一个情态否定句；`never` 修饰 `can`，`forgive` 后接宾语 `her`，句子依靠副词和动词原形完成绝对判断。
 
-**关键词**：never; forgive; her; resentment
+**关键词**：never; forgive; her
 
-**表达方式**：短句把复杂童年压缩成一个不可撤销的道德判断。它既是叙述者的真实记忆，也是她对母亲、姨母和家族沉默的自我保护。
+**表达方式**：短句把复杂童年压缩成一个不可撤销的道德判断。它是叙述者在 Aunt Dodie 讲完母亲临终照护后重复说出的判断，也是她面对母亲、家族沉默和童年记忆的自我保护。
 
 **为什么这样写**：母亲的冷漠和家族故事在叙述中不断被重写，但这句话拒绝被心理分析化解。宽恕不一定是理解，理解也不等于原谅；家庭记忆因此保留了无法修复的部分。
 
@@ -114,7 +114,7 @@ source_text: ch13
 
 **句子结构**：这是一个由 `But` 引导的转折分句；`I take delight in` 是谓语，`the water of the barley` 是介词宾语。
 
-**关键词**：take delight; water; barley; song
+**关键词**：take delight; water; barley
 
 **表达方式**：这句歌词突然脱离家庭争执，进入一种古老的、自然的意象。`but` 把前面的笑声和回忆与这句诗连接起来，却不说明谁在听见、谁在感到愉悦。
 

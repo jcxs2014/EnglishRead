@@ -30,7 +30,7 @@ source_text: ch10
 
 **句子结构**：主句是 `The reason that we feel jealous...`；`is that we feel abandoned` 用表语从句解释原因，两个 `feel` 形成重复。
 
-**关键词**：reason; jealous; abandoned; self-esteem
+**关键词**：reason; jealous; abandoned
 
 **表达方式**：两个 `feel` 把嫉妒和被抛弃放在同一心理动作里。`abandoned` 让情绪获得了一个具体的叙事来源，而不是把它归咎于对方品质。
 
@@ -44,7 +44,7 @@ source_text: ch10
 
 **句子结构**：两个短句组成强烈断言；第二句用 `could never` 表达道德上无法跨越的界限，`do that` 回指前文的欺骗。
 
-**关键词**：despise; both; I could never; deception
+**关键词**：despise; both; I could never
 
 **表达方式**：`both` 把丈夫和 Margaret 合并成共同责任；`I could never` 则把自己放在裁判位置，语气从受伤突然变成宣判。
 
@@ -58,7 +58,7 @@ source_text: ch10
 
 **句子结构**：`not like... it is like...` 是对比结构；`dim ironic stories` 与 `daytime serial` 分别用文学和电视类型命名生活的两个模型。
 
-**关键词**：dim ironic stories; daytime serial; television; banality
+**关键词**：dim ironic stories; daytime serial; television
 
 **表达方式**：叙述者把高雅文学和廉价连续剧并置，说明她对生活的判断已经不再追求深刻，而要求一种持续、平凡、每天更新的情感刺激。
 
@@ -100,7 +100,7 @@ source_text: ch10
 
 **句子结构**：这是一个省略定语从句中关系代词的结构；`I could never tell you` 修饰 `moment`，`the unhappiest` 说明其程度。
 
-**关键词**：unhappiest moment; could never tell you; hidden; marriage
+**关键词**：unhappiest moment; could never tell you
 
 **表达方式**：句子把“最不幸的时刻”和“永远不能告诉你”绑定，像一个被锁住的档案。`could never` 不是“没有发生”，而是“发生过但不允许发生”。
 
