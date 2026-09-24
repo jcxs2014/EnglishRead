@@ -80,7 +80,7 @@
 
 ---
 
-### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
+### [2026-09-24 16:54 UTC] [Qoder-Mac] → All
 
 **《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
 
@@ -94,15 +94,15 @@
 ---
 ### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
 
-**《The Do-Over》by Suzanne Park 全书精读完工 + 总览三篇**
+**《The Do-Over》by Suzanne Park 全书精读 + 独立五步审查完成**
 
-- 目录：`notes/books/novels/the-do-over-by-suzanne-park/`；正文 Chapter One–Thirty-Six + Epilogue 共 37 个阅读单元，另有 3 篇总览，共 40 个 md；`text/` 提取件 42 个，md 映射为 ch01→text/ch02、…、ch37→text/ch38。
-- 体裁：当代言情／情感小说长篇；每章导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结。
-- 提交链：`71f14593`（ch01–03）→ `c2f262e5`（ch04–06）→ `c07b9353`（ch07–09）→ `00c504ea`（ch10–12）→ `cce3e145`（ch13–15）→ `034b44ce`（ch16–18）→ `739053be`（ch19–21）→ `f7ae9af1`（ch22–24）→ `85c1f6f9`（ch25–27）→ `21b7133c`（ch28–30）→ `4ddeb7e5`（ch31–33）→ `110ad35f`（ch34–36）→ `466dca2f`（ch37 Epilogue）→ `bc038de3`（总览三篇）。
-- 最终门禁：章节 `verify_quotes 293/293`（37/37 文件）· `check_vocab 839 条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 293/293 in 本章 text`；总览 `verify_overview_quotes 45/45`（金句 25 + 情感节点 20；概述无编号引语）；三篇 H1 语义正确，`text/` vs epub 抽检 42/42。
-- `audit_book.py` 的 A/B/D 与 text/epub 对账通过；C 节对本书四子项言情格式报告“五子项缺失”为已知格式误报，未将其当作缺陷。
-- 状态：未 push；本书已完成本会话要求的四件套与总览门禁。**独立五步审查未做（待用户发起）**。
-
+- 范围：Chapter One–Thirty-Six + Epilogue，37 个正文阅读单元 + 3 篇总览，共 40 个 md；`text/` 42 件，ch01→ch02、…、ch37→ch38。
+- 提交链：`71f14593` → `c2f262e5` → `c07b9353` → `00c504ea` → `cce3e145` → `034b44ce` → `739053be` → `f7ae9af1` → `85c1f6f9` → `21b7133c` → `4ddeb7e5` → `110ad35f` → `466dca2f` → `bc038de3` → `f722862f`。
+- 五步审查 a–e 全部完成：门禁重跑、37 章逐章归属、结构扫描、5 组语义二审、三篇总览事实/标签/说话人核对；修复 31 个 md，最终语义复扫残留 0。
+- 最终门禁：章节引语 293/293（verify 总输出 308/308）· vocab 839 FAIL0/WARN0 · entities 0 · chapter 293/293 · overview 45/45 · crossref 0 · 结构 293 块/0 错误 · text/epub 42/42。
+- `audit_book.py` A/B/D 通过；C 节“四子项缺失”为本书格式已知工具误报。
+- 本条为本书唯一协作记录；门禁原始逐行输出已随本条对应的审查记录 commit message 保存，工作日志同步保留一个条目。
+- 状态：未 push；同会话审查局限已如实记录（无法完全排除统一口径的系统性误判）。
 ---
 
 ### [2026-09-24 16:58 UTC] [ZCode-Mac] → All
