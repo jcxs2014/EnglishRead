@@ -116,7 +116,7 @@ source_text: ch03
 
 > **原句 6:** "They had an expression that was dogged and uncompromising, even brutal, and I thought of that as part of my father’s look, the counterpart of his face, with its readiness for jokes and courtesies."
 
-**中文理解**：父亲的靴子有一种顽强、不妥协甚至残酷的表情；叙述者把它看作父亲面孔的反面，而那张脸随时准备开玩笑与施礼。
+**中文理解**：父亲的靴子脱下后立在厨房角落，有一种顽强、不妥协甚至残酷的表情；叙述者把它看作父亲面孔的反面，而那张脸随时准备开玩笑与施礼。
 
 **句子结构**：主语 `They` 指靴子；`that...` 说明靴子的表情，`the counterpart...` 将其与父亲的脸并置，两个 `with` 结构分别写靴子与脸的特征。
 

@@ -133,7 +133,7 @@ source_text: ch09
 
 > **原句 7:** "I was pleased by the way he stood listening, politely as he would to a salesman or a stranger, but with an air of wanting to get on with his real work."
 
-**中文理解**：我喜欢他站在那里听的样子：他像对待推销员或陌生人那样礼貌，却又带着想赶紧回到真正工作的神情。
+**中文理解**：他站着听的方式让我感到愉悦：他像对待推销员或陌生人那样礼貌，却又带着想赶紧回到真正工作的神情。
 
 **句子结构**：`I was pleased by...` 是主句；`politely...but with an air...` 两个方式状语对举，把父亲的同一姿态分成礼貌与急躁两面。
 
@@ -175,7 +175,7 @@ source_text: ch09
 
 > **原句 10:** "He spoke with resignation, even good humour, the words which absolved and dismissed me for good. “She’s only a girl,” he said."
 
-**中文理解**：他带着认命、甚至还带着好脾气说出这些话；这些既 absolve（ absolve／赦免）了我，也永远把我打发掉。“她只是个女孩。”他说。
+**中文理解**：他带着认命、甚至还带着好脾气说出这些话；这些话语把我从过错中开脱，也永远把我打发掉。“她只是个女孩。”他说。
 
 **句子结构**：`He spoke...` 后用逗号插入 `the words which...` 解释性名词短语；最后的独立引语完成判决。
 

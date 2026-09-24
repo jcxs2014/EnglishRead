@@ -85,7 +85,7 @@ source_text: ch10
 
 **中文理解**：我把信从头到尾读完，想道——这已经不是第一次了，任何傻瓜都能看出读完这封信后不会再有下一封。
 
-**句子结构**：`I read...` 后接 `I thought`；插入语 `not for the first time` 修饰思考，两个 `there is not going to be another` 重复形成结论。
+**句子结构**：`I read...` 后接 `I thought`；插入语 `not for the first time` 修饰思考，末尾用一个 `there is not going to be another` 收束判断。
 
 **关键词**：all the way through; not for the first time; not going to be another
 

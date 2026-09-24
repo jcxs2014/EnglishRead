@@ -51,17 +51,17 @@ source_text: ch06
 
 ### ①
 
-> **原句 1:** "But ignorance, my mother said, ignorance, or innocence if you like, is not always such a fine thing as people think and I am not sure it may not be dangerous for a girl like you."
+> **原句 1:** "But ignorance, my mother said, ignorance, or innocence if you like, is not always such a fine thing as people think and I am not sure it may not be dangerous for a girl like you; then she emphasized her point, as she had a habit of doing, with some quotation which had an innocent promposity and odour of mothballs."
 
-**中文理解**：母亲说，无知或纯真并不总是人们以为的美德，对女孩甚至可能危险。
+**中文理解**：母亲说，无知或纯真并不总是人们以为的美德，对女孩甚至可能危险；随后她用一句带着天真做作和樟脑丸气味的引文来强调这一点。
 
-**句子结构**：插入语 `my mother said` 将格言切成现场对话；`is not always...` 先限定，再由 `I am not sure it may not be...` 叠加双重否定。
+**句子结构**：插入语 `my mother said` 将格言切成现场对话；`is not always...` 先限定，再由 `I am not sure it may not be...` 叠加双重否定；分号后的 `then she emphasized...` 转入母亲用引文强化观点的动作。
 
-**关键词**：ignorance; innocence; dangerous for a girl
+**关键词**：ignorance; innocence; dangerous for a girl; emphasized her point; odour of mothballs
 
-**表达方式**：重复 `ignorance` 制造训诫节奏；`not always` 与 `not sure...may not` 把确定语气降为犹疑预兆。
+**表达方式**：重复 `ignorance` 制造训诫节奏；`not always` 与 `not sure...may not` 把确定语气降为犹疑预兆；`with some quotation... odour of mothballs` 把抽象训诫落成一则气味鲜明的旧式引文。
 
-**为什么这样写**：故事随后会证明她恰好在安全环境里首次饮酒、呕吐和求救。母亲的警告不是抽象清规，而被后文改成讽刺性的先知话语。
+**为什么这样写**：故事随后会证明她恰好在安全环境里首次饮酒、呕吐和求救。母亲的警告不是抽象清规，而被后文改成讽刺性的先知话语；她还借带有樟脑丸气味的旧引文把这种控制包装成无害的老生常谈。
 
 ### ②
 

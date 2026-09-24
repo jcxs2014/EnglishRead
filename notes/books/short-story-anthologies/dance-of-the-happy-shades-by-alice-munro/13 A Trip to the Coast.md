@@ -89,7 +89,7 @@ source_text: ch13
 
 **关键词**：no reasonable shape; flat and narrow; a little mound; rode preposterously
 
-**表达方式**：`clothe to` 把衣服与身体关系写成“依附”；`except` 后的比喻本应解释身体，却用一个不合比例的孕期制造怪诞感。
+**表达方式**：`clothes to cling to` 把衣服与身体关系写成“依附”；`except` 后的比喻本应解释身体，却用一个不合比例的孕期制造怪诞感。
 
 **为什么这样写**：祖母的身体既衰老又被叙述成“不可合理穿衣”的形态。她的不顺从不是性格装饰，而是贫困、年龄和自我保护共同制造的存在方式。
 

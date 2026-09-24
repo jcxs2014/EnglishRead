@@ -116,7 +116,7 @@ source_text: ch04
 
 > **原句 6:** "The drunken, nose-thumbing, toe-twirling satisfaction could not now be mistaken as she stood there foolishly, tauntingly, with her skirt spread out."
 
-**中文理解**： Lois 醉后做鼻子、扭脚趾，显示一种不能被误认的满足；她傻站着挑衅，手里的裙子展开。
+**中文理解**：Lois 醉后做鼻子、扭脚趾，显示一种不能被误认的满足；她傻站着挑衅，裙子展开着。
 
 **句子结构**：主语由三个分词短语延展，`as...with...` 解释她当时的身体动作。
 
