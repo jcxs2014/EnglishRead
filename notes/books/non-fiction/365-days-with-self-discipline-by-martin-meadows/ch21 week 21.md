@@ -216,7 +216,6 @@ source_text: ch21
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | aerobics | 有氧运动操 | You don't need to attend expensive aerobics classes to become fit. |
-| precision | 精确 | slicing a loaf of bread with more precision. |
 | figs | 无花果 | I saw myself sitting in the crotch of this fig tree, starving to death |
 
 ## 一句话总结
