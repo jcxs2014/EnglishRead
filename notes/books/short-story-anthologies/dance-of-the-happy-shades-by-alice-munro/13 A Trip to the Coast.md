@@ -49,6 +49,8 @@ source_text: ch13
 
 > The old woman stared with furious unblinking obedience at the bottle-opener in the man’s hand.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "People who are passing through, on their way to the Lakes of Muskoka and the northern bush, may notice that around here the bountiful landscape thins and flattens, worn elbows of rock appear in the diminishing fields and the deep, harmonious woodlots of elm and maple give way to a denser, less hospitable scrub-forest of birch and poplar, spruce and pine—where in the heat of the afternoon the pointed trees at the end of the road turn blue, transparent, retreating into the distance like a company of ghosts."

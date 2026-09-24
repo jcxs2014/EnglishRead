@@ -43,6 +43,8 @@ source_text: ch09
 
 > Just the same, I did not regret it; when she came running at me and I held the gate open, that was the only thing I could do.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "Against a background of cold blue sky and black pine forests and treacherous northern rivers, plumed adventurers planted the flags of England or of France; magnificent savages bent their backs to the portage."

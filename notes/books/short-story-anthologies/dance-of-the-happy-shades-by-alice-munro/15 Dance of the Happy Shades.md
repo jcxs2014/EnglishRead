@@ -115,9 +115,7 @@ source_text: ch15
 
 **中文理解**：虽然它以自己那种安详而过时的方式存在，却仍然有风格。
 
-**句子结构**：`in its own... way` 是方式状语；主句 `it had style` 将存在评价与审美评价压在一起，`serenely out-of-date` 本身又是对立修饰。
-
-**句子结构补充**：`serenely` 修饰 `out-of-date`，把“落后”从衰退结果改写成稳定性格。
+**句子结构**：`in its own... way` 是方式状语，先建立整体评价；主句 `it had style` 将存在评价与审美评价压在一起，`serenely out-of-date` 本身又是对立修饰，并把“落后”从衰退结果改写成稳定性格。
 
 **关键词**：in its own way; serenely out-of-date; had style
 
@@ -220,10 +218,7 @@ source_text: ch15
 | 单词 / 短语 | 释义 | 原文例句 |
 |---|---|---|
 | mystification | 故弄玄虚 | Now? asks Miss Marsalles, stung, pretending mystification, or perhaps for that matter really feeling it. |
-| disconcerting | 令人不安的 | For one of the most disconcerting things about the last two or three parties has been the widening gap in the ranks of the regulars, the old pupils whose children seem to be the only new pupils Miss Marsalles ever has. |
-| implausible | 难以置信的 | The little girls in dresses with skirts as stiff as bells moved with a natural awareness of ceremony against the dark walls of books, and their mothers’ faces wore the dull, not unpleasant look of acquiescence, the touch of absurd and slightly artificial nostalgia which would carry them through any lengthy family ritual. |
 | peculiar | 奇怪的 | How peculiar; and a boy, too. |
-| unexceptional | 平凡无奇的 | there are other children whose features are regular and unexceptional, marked only by an infantile openness and calm. |
 | wedged | 卡在狭窄处的 | Miss Marsalles is wedged between the door, the coatrack and the stairs; there is barely room to get past her into the living room, and it would be impossible, the way things are now, for anyone to get from the living room upstairs. |
 | feverish | 激动的、脸颊发红的 | In this full light she looks like a character in a masquerade, like the feverish, fancied-up courtesan of an unpleasant Puritan imagination. |
 | uneasiness | 不安 | The women’s faces in the room, made up some time before, have begun to show the effects of heat and a fairly general uneasiness. |
@@ -234,7 +229,7 @@ source_text: ch15
 
 | 单词 / 短语 | 释义 | 原文例句 |
 |---|---|---|
-| bunch | 一束 | a flossy bunch of peonies and spirea dropping petals on the piano was Miss Marsalles’ own touch and not entirely happy |
+| bunch | 一束 | the flossy bunch of peonies and spirea dropping petals on the piano was Miss Marsalles’ own touch and not entirely happy |
 | sashes | 腰带 | the girls wear dresses of grey-green cotton with red buttons and sashes. |
 | calm | 平静的 | there are other children whose features are regular and unexceptional, marked only by an infantile openness and calm. |
 | fond | 喜爱 | She is fond of music in any form. |

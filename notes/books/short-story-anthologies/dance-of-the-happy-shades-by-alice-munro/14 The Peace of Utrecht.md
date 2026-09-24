@@ -49,6 +49,8 @@ source_text: ch14
 
 > I couldn’t go on,” she said. “I wanted my life.”
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "I have been at home now for three weeks and it has not been a success."

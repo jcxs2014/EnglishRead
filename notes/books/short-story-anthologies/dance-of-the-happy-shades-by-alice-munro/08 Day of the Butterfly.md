@@ -45,6 +45,8 @@ source_text: ch08
 
 > She sat in her high bed, her delicate brown neck, rising out of a hospital gown too big for her, her brown carved face immune to treachery.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "I do not remember when Myra Sayla came to town, though she must have been in our class at school for two or three years."

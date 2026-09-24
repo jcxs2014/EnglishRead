@@ -49,6 +49,8 @@ source_text: ch10
 
 > Seeing Clare MacQuarrie as an unexplaining man, I felt for the first time that I wanted to reach out my hands and touch him.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "I used to say to Clare, write me a letter while you’re away, and he would say, what do you want me to write about?"
@@ -218,9 +220,7 @@ source_text: ch10
 |---|---|---|
 | sore | 疼痛的；酸痛的 | thinking how sick I was of snow, sore throats, the whole dragged-out tail-end of winter |
 | irrelevant | 无关的 | Whenever I had to talk to Porky I would make some mistake like saying something was irrevelant to me when I know the word is irrelevant, and she never let on but I thought about it afterwards and burned. |
-| cooped | 关在狭小空间里的 | Momma said we would all feel better if we went downstairs and had a cup of tea and something to eat, instead of staying cooped up in this little bedroom. |
 | tiptoe | 踮着脚尖走 | Then we’d tiptoe up the back stairs to Clare’s room and turn on the television so she’d think he was by himself, watching that. |
-| paralyzed | 瘫痪的 | upstairs old Mrs. MacQuarrie was lying, and is still, paralyzed down one side and not able to speak, Willa Montgomery tending her by day and Clare by night. |
 | fuss | 大惊小怪； fuss | The fuss he made at first made me sorry for him. |
 | offense | 冒犯 | “Can’t I open my mouth without you taking offense?” said Momma mildly. |
 | upstairs | 楼上 | I run the upstairs, Children’s Wear, and put in the Toyland at Christmas. |

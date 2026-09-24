@@ -48,6 +48,8 @@ source_text: ch11
 
 > I understood what a mysterious and oppressive obligation I had, to be happy.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "My mother was making me a dress. All through the month of November I would come from school and find her in the kitchen, surrounded by cut-up red velvet and scraps of tissue-paper pattern."

@@ -49,6 +49,8 @@ source_text: ch12
 
 > This stranger’s touch had eased her.
 
+## 选择性精读
+
 ### ①
 
 > **原句 1:** "Mrs. Gannett came into the kitchen walking delicately to a melody played in her head, flashing the polished cotton skirts of a flowered sundress."

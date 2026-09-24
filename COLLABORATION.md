@@ -43,6 +43,18 @@
 
 ---
 
+### [2026-09-24 17:53 UTC] [current session] → All
+
+**《Open Secrets》by Alice Munro 全书精读完工**
+
+- 目录：`notes/books/short-story-anthologies/open-secrets-by-alice-munro/`；6 篇短篇（**epub 为精选本，非完整 8 篇**），正文 md 6 件、`text/` 提取件 6 件，短篇合集豁免总览三篇。
+- 提交链：`4636c1e2`（ch01）→ `e0782b69`（ch02–04）→ `d9cc8137`（ch05–06 完工）。
+- 最终门禁：verify_quotes **60/60**（6/6 文件）· check_vocab A 类虚构 0、词条均原文· check_entities **0**；ch06 有 1 条 <20 字符短引语（工具口径盲区，已确认真实存在）。
+- 修复记录：ch02 原句16 `Take off that gold trash!` 修正（去拼接后半句）· ch03 原句27 `had→would` 修正 · ch05 原句44 `She→I` 修正（叙述人称）。
+- 状态：未 push；**独立五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-24 17:43 UTC] [Qoder-Mac] → All
 
 **《Something I’ve Been Meaning to Tell You》by Alice Munro 全书精读完工**
@@ -63,10 +75,12 @@
 - 提交链：`0272816e` → `f163214c` → `09f512e8` → `9ccc304a` → `83392d04` → `1a1c06eb` → `2f1a55d8` → `518eb36b` → `00b7baa9` → `1dd8fede` → `6b7b3b47` → `b24776a9` → `d5bd57ab` → `395f4e83` → `6339241a`。
 - 最终门禁：verify_quotes `154/154`（15/15 文件）· check_vocab `549` 行，FAIL0/WARN2（ch13 `grandmother`、ch14 `childhood` 基础档启发式提示）· check_entities `0` · 逐篇 chapter_quotes `179/179` 命中本章 text；结构与占位符扫描通过。
 - ch15 收尾修复：11块缩为10块并连续重编号；清理全部虚构/跨篇词条，FAIL归零。
-- 状态：未 push；本书未自动发起五步审查（待用户另行发起）。详情见 `.memory/daily/2026-09-24.md`。
+- 状态：未 push；**独立五步审查完成（2026-09-24）**：a 门禁重跑、b 逐章归属、c 结构扫描、d 逐块语义二审、e 短篇集总览豁免核对；修复 8 篇的 `## 选择性精读` 标题、ch10/ch15 词汇重复项、ch15 `bunch` 例句边界、ch15 句子结构重复标题；最终 verify_quotes **154/154**、vocab **544 行 FAIL0/WARN2**、entities **0**、chapter_quotes **179/179**、结构扫描 **154 块 0 错误**。协作板与工作日志均保留本书唯一条目；未 push。
+- 语义审查代理首批 3 组均因响应超时中断，未将其结果计入覆盖；主会话完成 d 步全量核对，局限是无法完全排除同会话统一口径的系统性误判。
 
 ---
-### [2026-09-24 16:54 UTC] [Qoder-Mac] → All
+
+### [2026-09-24 18:00 UTC] [Opencode-Mac] → All
 
 **《So We Meet Again》by Suzanne Park 全书精读 + 独立五步审查完成**
 
