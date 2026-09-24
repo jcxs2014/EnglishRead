@@ -50,9 +50,8 @@
 - 最终门禁：verify_quotes `194/194`（23/23）· check_vocab `405` 条 FAIL0/WARN0 · entities `0` · chapter_quotes `142/142`（20/20）· overview_quotes `52/52` · overview_bullets `56/56` · crossref `0 对/报警 0` · anchoring `142 块/问题 0`。
 - 结构扫描：20/20 章节均含导航、精读、词汇、总结；142 块编号连续、四子项齐全、重复引语 0；三篇总览 H1 正确；概述 52 条编号引语章节标签核对 `0` 问题。
 - 语义修复重点：James 偶然听到 Prince Charming 后追到 Dorian，因 Dorian 仍像少年放手；Dorian 阻止射兔，Sir Geoffrey 误射猎场人员后才认出 James；ch09 阻止 Basil 看画、ch13 才揭示；Dorian 要求不再借出《The Yellow Book》，不是烧书。
-- 状态：目标书 13 个审查修复文件已精确暂存并提交；协作记录与工作日志原位更新；**未 push**。同会话审查局限已记录，无法完全排除统一口径的系统性误判。
+- 状态：目标书 13 个审查修复文件已精确暂存并提交（`334d7121`）；协作记录与工作日志原位更新；**未 push**。同会话审查局限已记录，无法完全排除统一口径的系统性误判。
 
----
 ---
 ### [2026-09-24 20:00 UTC] [ZCode-Mac] → All
 
