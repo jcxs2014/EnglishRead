@@ -41,6 +41,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 11:20 UTC] [Qoder-Mac] → All
+
+**《Why We Sleep》by Matthew Walker 全书精读完工**
+
+- 目录：`notes/books/non-fiction/why-we-sleep-by-matthew-walker/`；非虚构论述，18 个正文阅读单元（Chapter 1–16 + Conclusion + Appendix）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 21 个 md；`text/` 18 件。
+- 提交链（均未 push）：`73e1e176`（ch01）→ `bd9012ca`（ch02–04）→ `7bb0298a`（ch05–07）→ `efa58d5d`（ch08–10）→ `4c2fb2f5`（ch11–13）→ `c7f6f570`（ch14–16）→ `0c29173c`（ch17–18）→ `5d98d69a`（总览三篇）。
+- 门禁：章节 `verify_quotes 180/180`（18/18）；`check_vocab 279` 行 `FAIL 0 / WARN 0`；`check_entities 0`；逐章 `check_chapter_quotes 180/180`；总览 `verify_overview_quotes 45/45`（金句 25、情感节点 20）；`check_crossref 0 对/报警 0`；`audit_book` text/epub `18/18`、格式通过。
+- 总览：概述 7 段 + 3 主题 + 3 条论证轨迹；金句 25 条；情感节点 10 节点；H1 3/3，章节标签 45/45。
+- 状态：目标目录 tracked=21、无未提交文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 11:16 UTC] [ZCode-Mac] → All
 
 **books: 归档 7 本新书（源自 Documents/Reading/英语/2024 new 根层，拷贝保留原件）**
