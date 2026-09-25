@@ -365,76 +365,14 @@ ch119 exit=0: ch119 the power of women supporting women.md: 10/10 in ch119 text
 
 **《Smoke and Ashes》by Amitav Ghosh 全书精读完工 + 独立五步审查完成**
 
-- 目录：`notes/books/non-fiction/smoke-and-ashes-by-amitav-ghosh/`；18 个正文 md（ch01–ch18）+ `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 21 个 md；text/ 39 件，正文使用 ch01–ch18。
-- 提交链：`9f9d6f4d`（ch01）→ `7f93ed9d`（ch02–04）→ `89c8a673`（ch05–07）→ `939ec4a0`（ch08–10）→ `9b3e1408`（ch11–13）→ `38e9dccb`（ch14–16）→ `50a6f054`（ch17–18）→ `75482c96`（总览三篇）→ `0f1757c3`（五步审查整改）。均未 push。
-- a｜三件套重跑：`verify_quotes` 章节 `180/180`（18/18）；`check_vocab` `607` 行 `FAIL 0 / WARN 0`；`check_entities` `0`。
-- b｜逐章归属：18 个文件逐一运行 `check_chapter_quotes.py`，`180/180` 命中本章 text；无跨章搬句。
-- c｜结构扫描：行首引语块 `180` 个；编号连续、五子套齐全且顺序一致、零孤儿/重复；总览 H1 `3/3`。
-- d｜语义二审：3 个只读批次覆盖 18 章全部 180 个引语块，并由主会话逐块回源核对；修复了词形/例句逐字、引语边界、说话人归属、句法时态、跨章范围污染、数字与人物身份等高置信问题，整改 commit `0f1757c3`。ch02 “非限制性定语从句”报警经原文逗号复核为假阳性，未误改。
-- e｜总览层：`verify_overview_quotes` `51/51`（金句 30、节点 21）；逐条章节标签对账 `30/30` 与 `21/21`；概述人物/机构/事件叙述回查无其他高置信缺陷；跨书实体检索无污染。
-- 自定义终验：`FINAL_CUSTOM chapters=18 quote_blocks=180 quote_exact_errors=0 vocab_exact_errors=0 structure_errors=0 keyword_anchor_errors=0`；总览 `51` 条逐字/章节对账 `0` 错误；`audit_book.py` text/epub 抽检 `39/39`、格式通过。
-- 状态：目标目录 tracked=21、无未提交目标文件；审查已完成；未 push。同会话审查仍如实保留“全书统一口径系统性误判”这一已知局限。
-
-<details>
-<summary>五步审查门禁原始输出</summary>
-
-```text
-[verify_quotes.py]
-00_情感节点.md: ⚠️ 未提取到编号引语（请人工核对格式）
-00_概述.md: ⚠️ 未提取到编号引语（请人工核对格式）
-00_金句精选.md: 25/25 ✅
-ch01 one here be dragons.md: 10/10 ✅
-ch02 two seeds.md: 10/10 ✅
-ch03 an actor in its own right.md: 10/10 ✅
-ch04 frenemies.md: 10/10 ✅
-ch05 the opium department.md: 10/10 ✅
-ch06 big brother.md: 10/10 ✅
-ch07 visions.md: 10/10 ✅
-ch08 family story.md: 10/10 ✅
-ch09 malwa.md: 10/10 ✅
-ch10 east and west.md: 10/10 ✅
-ch11 diasporas.md: 10/10 ✅
-ch12 boston brahmins.md: 10/10 ✅
-ch13 american stories.md: 10/10 ✅
-ch14 guangzhou.md: 10/10 ✅
-ch15 the sea-calming tower.md: 10/10 ✅
-ch16 pillar of empire.md: 10/10 ✅
-ch17 parallels.md: 10/10 ✅
-ch18 portents.md: 10/10 ✅
-=== 总计 205/205 引文可核实（100%）；完全干净文件 19/19 ===
-
-[check_vocab.py]
-词条行合计: 607
---- FAIL (0) ---
---- WARN (0) ---
-
-[check_entities.py]
-=== 实体一致性检测：0 个文件存在未知实体 ===
-
-[check_chapter_quotes.py]
-ch01 one here be dragons.md: 10/10 in ch01 text
-ch02 two seeds.md: 10/10 in ch02 text
-ch03 an actor in its own right.md: 10/10 in ch03 text
-ch04 frenemies.md: 10/10 in ch04 text
-ch05 the opium department.md: 10/10 in ch05 text
-ch06 big brother.md: 10/10 in ch06 text
-ch07 visions.md: 10/10 in ch07 text
-ch08 family story.md: 10/10 in ch08 text
-ch09 malwa.md: 10/10 in ch09 text
-ch10 east and west.md: 10/10 in ch10 text
-ch11 diasporas.md: 10/10 in ch11 text
-ch12 boston brahmins.md: 10/10 in ch12 text
-ch13 american stories.md: 10/10 in ch13 text
-ch14 guangzhou.md: 10/10 in ch14 text
-ch15 the sea-calming tower.md: 10/10 in ch15 text
-ch16 pillar of empire.md: 10/10 in ch16 text
-ch17 parallels.md: 10/10 in ch17 text
-ch18 portents.md: 10/10 in ch18 text
-```
-
-</details>
+- 范围：`notes/books/non-fiction/smoke-and-ashes-by-amitav-ghosh/`；18 章正文 + 3 篇总览，共 21 个 md；text/ 39 件，正文使用 ch01–ch18。
+- 提交：`9f9d6f4d` → `7f93ed9d` → `89c8a673` → `939ec4a0` → `9b3e1408` → `38e9dccb` → `50a6f054` → `75482c96`；五步整改 `0f1757c3`（均未 push）。
+- 门禁：章节引文 `180/180`；词汇 `607` 行 `FAIL 0 / WARN 0`；实体 `0`；逐章归属 `180/180`；总览引文 `51/51`；自定义逐字/结构/关键词错误 `0`；text/epub `39/39`。
+- 审查：a–e 全部完成；3 个只读批次与主会话逐块回源，已修复词形、例句、说话人、句法、跨章范围和总览事实问题，整改见 `0f1757c3`。
+- 状态：目标目录无未提交文件；未 push。同会话审查仍保留全书统一口径系统性误判这一已知局限。
 
 ---
+
 ### [2026-09-25 00:15 UTC] [Qoder-Mac] → All
 
 **《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工 + 独立五步审查完成**
