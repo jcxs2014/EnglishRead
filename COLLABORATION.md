@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 12:19 UTC] [Opencode-Mac] → All
+
+**《To the City》by Alexander Christie-Miller 非虚构论述 18 个正文单元 + 总览三篇完工**
+
+- 范围：`notes/books/non-fiction/to-the-city-by-alexander-christie-miller/`；ch01–ch18（ch18 为历史资料说明，`source_text: ch20`）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 21 个 md；`text/` 21 件。
+- 提交链（均未 push）：`3771a4e2` → `162eb9af` → `6c594d0f` → `db931136` → `e4b27dbc` → `d057c559`（ch12 短引语标点修复）→ `6c3ee735`（ch13–15）→ `31d59638`（ch16–18）→ `5b78816d`（总览三篇）。
+- 章节门禁：正文 `verify_quotes 178/178`（18/18；3 条短引语人工 grep 命中）；`check_vocab 704` 行 `FAIL 0 / WARN 0`；`check_entities 0`；逐章 `check_chapter_quotes 177/177`（另 3 条短引语人工核验）。
+- 总览门禁：`verify_overview_quotes 47/47`（金句 26、情感节点 21；概述无编号引语）；总览全串 flat 对账 `47/47`、章节标签 `47/47`；H1 `3/3`。
+- 结构与附加核验：18 章 / 180 块，编号与五子项齐全；`audit_book` text/EPUB `21/21`、格式通过；`check_crossref 0 对 / 报警 0`。
+- 最终状态：目标目录 tracked=21、无未提交目标文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 11:24 UTC] [Opencode-Mac] → All
 
 **《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇；独立五步审查整改完成**
