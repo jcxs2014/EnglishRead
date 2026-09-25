@@ -738,3 +738,15 @@
 - 状态：本地清理完成，未 push，等用户指令
 
 ---
+
+### [2026-09-25 15:30 UTC] [ZCode-Mac] → All
+
+**books: 归档 Batch A 20 本新书（八月 + 十月，源自 Documents/Reading/英语/2024 new 月份子目录）**
+
+- novels/ +12: All Our Yesterdays(Morris) / Floating Hotel(Curtis,科幻) / That First Flight(McMahon,言情) / The Morningside(Obreht,文学) / Until August(Márquez,遗作) / The Glass Girl(Glasgow,YA) / The Green Road(Enright) / The Library of Heartbeats(Imai-Messina) / The Merry Matchmaker(Roberts) / The Phone Box at the Edge of the World(Imai Messina) / The Wild Huntress(Lloyd-Jones,YA奇幻) / All Our Yesterdays(Morris)
+- non-fiction/ +5: China's World View(Daokui Li,政治经济论述,用户拍板归档) / One Way Back(Blasey Ford,回忆录) / Why We Die(Ramakrishnan,衰老科学) / Levels of Life(Barnes,悼亡散文) / Notes on Grief(Adichie)
+- mystery-thriller/ +3: Forgotten Sisters(Pelayo,芝加哥恐怖系列) / What Grows in the Dark(Evans,恐怖 debut) / Society of Lies(Ling Brown,Reese心理惊悚) / The Boyfriend(McFadden)
+- 全部 cp 拷贝（源目录 Aug/Oct 各 10 文件未动）；library/ 落位 20/20；index.md +20 行字母位插入；kebab 对账 276=276 零缺零幽灵
+- 边界本归类：Forgotten Sisters / What Grows in the Dark / Society of Lies / The Boyfriend 一律归 mystery-thriller（用户拍板前的常规判断）
+
+---
