@@ -71,9 +71,23 @@
 ---
 
 - **独立五步审查（2026-09-25，commit `94b5bb9e`）**：a 三件套重跑 0 FAIL；b 逐章归属 9 章 68/68 零跨章；c 结构扫描 74 块编号连续、四子项齐全且顺序正确；d 语义二审派 2 路子代理逐块审 74 块（TSV 26+48 行全覆盖），报警 9 → 回源逐条 grep 全部确认为真缺陷，已全部修复；e 总览层 25 金句归属 0 不符、24 项情节断言 0 无支撑、跨书污染 0、H1 语义 3/3。修后全套门禁复跑全绿。审查明细见 `.memory/daily/2026-09-25.md`。
-### [2026-09-25 16:03 UTC] [ZCode-Mac] → All
+### [2026-09-25 20:15 UTC] [Qoder-Mac] → All
 
-**《Exhausted: An A–Z for the Weary》by Anna Katharina Schaffner 非虚构论述 27 单元 + 总览三篇完工**
+**《All Our Yesterdays》by Joel H. Morris 历史小说 27 个阅读单元 + 总览三篇完工**
+
+- 目录：`notes/books/novels/all-our-yesterdays-by-joel-h-morris/`；ch01 Historical Note + ch02 Prologue + Part I–V 双线 ch03–ch26 + 尾章 ch27，共 27 个正文 md + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，合计 30 个 md；`text/` 27 件，与 epub spine 1:1 零偏移（出版商营销页 `ch28_chap28.txt` 已重命名为 `xx_promotional.txt` 移出 ch 编号）。
+- 提交链（均未 push，11 commits）：`f5b035a5`（ch01 试产）→ `7ce8b8fb`/`0a6cf592`/`3976ee4a`/`570a5c38`/`3352deea`/`3502140b`/`31f9c262`/`8b135f17`（批1–8）→ `f1250364`（ch19 导航层修正）→ `6353b47f`（ch26-27 正文完）→ `310ad332`（总览三篇）。
+- 格式：长篇逐章（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结）；ch01/ch14/ch21 为短章，格式说明中已标注配额下调。本书无全独立 POV 的单一主角，章内交替处理。
+- 正文门禁：`verify_quotes 256/256`（29/29 文件干净；1 个文件含短引语）；`check_vocab 489 行 FAIL 0 / WARN 0`；`check_entities 0`；全书逐章扫描 `check_chapter_quotes 234/234`，零跨章搬句；自建关键词锚定检查器 `1425/1425`。
+- 总览门禁：`verify_overview_quotes 25/25`（金句，编号 ①–㉕ 不超 CIRCLED 口径）；金句章节标签对账 `25/25`；情感节点 20 条引语与标注章一致 `20/20`（该形态工具 0 提取，自备脚本兜底）；H1 语义 `3/3`；概述与情感节点的中文引号内混排英文全部 flat 命中。
+- 过程坑（已入 daily 日志）：词汇表虚构/跨章例句是本批次最高频缺陷（约 30 处，全部由 check_vocab 拦截），根因是我按印象填例句；改用「程序化提取该章词频 + 逐条 flat 比对」后彻底消除。另有一类工具盲区需记住：**导航/格式说明层出现英文专名会被 check_entities 与 check_chapter_quotes 误当正文**（本书 `Part III` ×4、`Part V` ×1）。
+- 最终状态：目标目录 tracked=30、无未提交文件；未 push。**独立五步审查未由用户发起，未自动执行。**
+
+---
+
+### [2026-09-25 20:15 UTC] [ZCode-Mac] → All
+
+**《Exhausted: An A–Z for the Weary》by Anna Katharina Schaffner 非虚构论述 27 单元 + 总览三篇完工 + 独立五步审查整改完成**
 
 - 目录：`notes/books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/`；ch01 Introduction + ch02–ch27（A–Z 每字母一词条）+ 三篇总览，共 30 个 md；`text/` 27 件 1:1 零偏移；Notes（纯文献目录）按惯例排除。
 - 提交链（均未 push，共 11 commits）：`4d9a9baa`（ch01 试产）→ `66c8360e`/`5d92972d`/`4d4f3c88`/`3ea57b59`/`2f92a363`/`d6b56306`/`81e67fdf`/`44ec7986`/`88fe2726`（批1–9）→ `6526b76b`（总览三篇）。
@@ -81,7 +95,15 @@
 - 正文门禁：`verify_quotes 270/270`（27/27 干净）；`check_vocab FAIL 0 / WARN 0`；`check_entities 0`；`check_chapter_quotes 270/270` 零跨章搬句；漏提交检测 27/27。
 - 总览门禁：`verify_overview_quotes` 对本格式提取 0 条（已知工具盲区），自备 flat 脚本兜底：总览引语块 53/53 全串命中、章节归属 MISS 0；H1 语义 3/3；概述行内英文短语已逐条人工 grep。
 - 过程坑（已入 daily 日志）：提取件印刷页码粘连密集（如 `2Association`/`to 7describe`），选句与例句全部避开污染段；跨章例句 2 例（earn our successes/stimuli）被内联 Gate 拦截修复；分析层表格第一格禁放专名/外语词（Gallup/Berufung 两例 WARN/FAIL 源）。
-- 最终状态：目标目录 tracked=30、无未提交文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+- **独立五步审查（用户 2026-09-25 发起，a–e 完整执行，整改 commit `fd1c3b68`）**：
+  - a｜三件套重跑：`verify_quotes 323/323`（29/29 干净，含总览 53 条）；`check_vocab 1265` 行 FAIL0/WARN0；`check_entities 0`。
+  - b｜逐章归属：`check_chapter_quotes 270/270` + **换路径整行连续 sweep**（非 52 字符指纹）——抓获 ch19 原句 7 引语行混入草稿标记（指纹盲区，已修复）。
+  - c｜结构扫描（自建行首块口径）：270 块编号连续/五子项齐全有序/零孤儿零重复/关键词锚定 0/占位符 0；词汇表例句整行 sweep 抓 5 条页码粘连横穿例句（check_vocab 60 字符指纹盲区），均已改取安全片段。
+  - d｜语义二审：四路只读子代理（ch01–07/08–14/15–21/22–27）+ 主会话逐条复核，确认并修复 **63 处**——计数断言 ~20 处（"五个词/七个实词/三连/四连"类，含 ch20 九实词、ch24 十词vs三词等）、语法术语 6 处（分词/动名词/双重否定/双并列从句等）、**虚构书名与出处 2 处**（ch08《怒海争先》、ch04"负里尼"）、跨章错植 4 处（ch13 呼应对象实为 ch12、ch21 回指实为 ch01、ch18 虚构 ch17 花园、ch18 虚构 ch06 立场）、词汇表词头-例句配对 9 处（monetised/dwindling/listlessness/sin/evaluative/contended 词形/enticing 等）、实体未锚定 2 处（BuzzPuzzler→原词 BuzzFeed、概述 Gallup 残留）、归因断言 2 处（urgency/emergency 非同源、trepalium 无"三叉"细节）等。
+  - e｜总览核对：金句 ①–㉚ 出处对账 30/30（每条引语 flat 命中其所标词条章节）；情感节点 23/23（含双章节节点）；概述行内英文 28 词逐条 grep（清除 Gallup 残留 1 处）；说话人 ±200 字符窗口抽验 4/4；H1 语义 3/3。
+  - 整改后复跑：verify 323/323 · vocab F0W0 · entities 0 · 逐章 270/270 · 引语整行 sweep 270/270 · 词汇例句 sweep 1128/1128 · 结构/锚定 0。
+  - 已知局限：同会话审查（四路子代理与写作同源模型族），无法完全排除全书统一口径的系统性误判；引语层经工具+整行 sweep 双口径、语义层经子代理+主会话双轨，残余风险集中于两代理均未覆盖的极长句语义细读。
+- 最终状态：目标目录 tracked=30、无未提交文件；未 push。
 
 ---
 
