@@ -80,7 +80,7 @@ source_text: ch12
 |---|---|---|
 | blackmail | 勒索；敲诈 | "Judy looked at Guy. “It’s blackmail!”" |
 | terrified | 极度害怕的 | "how terrified she was at the thought of letting me into her apartment tonight" |
-| agitated | 激动的；焦躁的 | "Guy played the part of a distraught designer" |
+| distraught | 心神错乱的；狂乱的 | "Guy played the part of a distraught designer" |
 | unmarked | 未做记号的；无标记的 | "Make sure the money is unmarked because we’ll check it." |
 
 ### ⭐⭐ 进阶
@@ -88,7 +88,7 @@ source_text: ch12
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | wretched | 极其糟糕的；可怜的 | "Guy said wretchedly" |
-| suspected | 怀疑的；被怀疑的 | "I think I’m their chief suspect." |
+| suspect | 嫌疑人；被怀疑的对象 | "I think I’m their chief suspect." |
 | evidence | 证据 | "they’re incriminating evidence" |
 | scales | 天平；衡量标准 | "Justice depends on who is holding the scales." |
 

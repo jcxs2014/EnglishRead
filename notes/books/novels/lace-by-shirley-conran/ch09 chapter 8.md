@@ -23,7 +23,7 @@ source_text: ch09
 - 为什么这样写：Guy 的设计原则用 `without` 划出反命题：好看不能以牺牲舒适为代价；它把成衣和定制的差异转成对女性日常生活的回应。
 - 读者视角提示：本章的服装讨论最终回到人的身体需要，Judy 也会用这套标准判断自己的职业和工作。
 
-> **原句 2:** "Myself? I live in constant self-doubt, indecision and secret panic about my capability,” Guy said.
+> **原句 2:** "Myself? I live in constant self-doubt, indecision and secret panic about my capability," Guy said.
 
 - 中文理解：Guy 说自己吗？他一直活在不断的自我怀疑、犹豫和对自己能力的秘密恐慌里。
 - 关键词：self-doubt / indecision / secret panic——连续的抽象名词把天才生活写成持续危机。
@@ -58,7 +58,7 @@ source_text: ch09
 - 为什么这样写：长句先列出三项高级定制特征，再用 `although` 承认不能提供的服务；理想的代价被写进商业模型，而不是藏在广告里。
 - 读者视角提示：Guy 的梦想并非消灭定制，而是让更多人接近它的质量；Judy 的商业头脑使这个梦想不再只是个人审美。
 
-> **原句 7:** "One whole day wasted on fittings,” groaned Guy one evening, throwing himself onto the bottom of the bed.
+> **原句 7:** "One whole day wasted on fittings," groaned Guy one evening, throwing himself onto the bottom of the bed.
 
 - 中文理解：Guy 抱怨说，整整一天都浪费在试衣上，然后把自己扔到床底下。
 - 关键词：one whole day / wasted on fittings——时间被明确计量，劳作被直接称为浪费。

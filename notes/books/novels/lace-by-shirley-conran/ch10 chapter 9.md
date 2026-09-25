@@ -16,14 +16,14 @@ source_text: ch10
 
 ## 精读
 
-> **原句 1:** "KEEP STILL, AND breathe in,” urged Judy, heaving on the zipper.
+> **原句 1:** "KEEP STILL, AND breathe in," urged Judy, heaving on the zipper.
 
 - 中文理解：Judy 拉着拉链，催她：“保持别动，吸气。”
 - 关键词：KEEP STILL / breathe in——身体操作指令压缩成时装秀后台的节奏。
 - 为什么这样写：全大写开头制造紧急感，Judy 从主持人变成服装技师；一句指令同时写出她的临时工作、效率和现场压力。
 - 读者视角提示：Judy 的主动性不是职位带来的，而是她在混乱中迅速承担责任；她的职业能力也在危机中得到验证。
 
-> **原句 2:** "Not one, not one order, except from friends!”
+> **原句 2:** "Not one, not one order, except from friends!"
 
 - 中文理解：Guy 抱怨说：一张订单都没有，除了朋友们的！
 - 关键词：Not one / except from friends——重复否定把失败压到私人关系层面。
