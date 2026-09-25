@@ -130,7 +130,7 @@ modified: "2026-09-25"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| bleed out of | （消息）从……渗出、扩散 | It bled out of the radio into the corner stores and funding offices, into snippets of conversation you passed in the street. |
+| bled | （消息）渗出、扩散（bleed out of） | It bled out of the radio into the corner stores and funding offices, into snippets of conversation you passed in the street. |
 | rimmed by | 被……环绕/镶边 | In the very middle of it all sat a glistening red-and-white hunk, rimmed by a crown of bones. |
 | keeping busy | 手上不停闲 | But she liked animals. And keeping busy. And she loved me. |
 | eke out | 勉强挤出、一点点弄出 | From the little I'd been able to eke out from my mother, I knew that where home had once been there now remained only a ragged palisade. |
