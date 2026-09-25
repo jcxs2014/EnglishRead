@@ -91,7 +91,7 @@ source_text: ch03
 
 **关键词**：`All Chinese are historians`、`Of course, I am exaggerating`
 
-**表达方式**：断言后立即自我否定（Of course, I am exaggerating）；全句仅 8 词，不含任何限定语与数据，靠"夸张—自纠"的对仗制造张力。
+**表达方式**：断言后立即自我否定（Of course, I am exaggerating）；全句仅 9 词，不含任何限定语与数据，靠"夸张—自纠"的对仗制造张力。
 
 **为什么这样写**：作者需要一个足够大的开场来支撑全章的野心——他随后要论证领导人与民众的思维都由历史塑造。自我否定使这句断言不至于被当作民族志式的自夸，反而成为方法论提示：接下来他要举出的证据会远大于这句夸张。
 
@@ -99,7 +99,7 @@ source_text: ch03
 
 **中文理解**：一个著名的例子是：京剧《霸王别姬》背后的那段历史，激励毛泽东在国共内战中继续战斗下去。
 
-**句子结构**：主干为 One famous example is how...（表语从句）；how 引导的宾语从句内含一个被动式 inspired Mao to keep fighting（inspire sb. to do sth.），时间状语 in the Chinese Civil War 置于句末。
+**句子结构**：主干为 One famous example is how...（表语从句）；how 引导的宾语从句内含使役结构 inspired Mao to keep fighting（inspire sb. to do sth.，主动形式表被动意义），时间状语 in the Chinese Civil War 置于句末。
 
 **关键词**：`One famous example`、`the Peking Opera play A Farewell to My Concubine`、`inspired Mao to keep fighting`
 
@@ -123,7 +123,7 @@ source_text: ch03
 
 **中文理解**：不，我们要的是快、准、狠、有效的打击。
 
-**句子结构**：Rather 为句首副词（意为"不（那样），而要……"），后接省略主语与助动词的 we want；四个形容词 swift / accurate / powerful / effective 并列作宾补，四个词各用一个字母开头，构成首字母缩略式修辞。
+**句子结构**：Rather 为句首副词（意为"不（那样），而要……"），后接省略主语与助动词的 we want；四个形容词 swift / accurate / powerful / effective 并列作宾补，四个词各以同一个字母 s 开头，构成头韵（alliteration）。
 
 **关键词**：`Rather, we want`、`swift, accurate, powerful, and effective strikes`
 
@@ -147,7 +147,7 @@ source_text: ch03
 
 **中文理解**：他不愿在历史上被记为一个面对正在酝酿的危机却行动迟缓的决策者。
 
-**句子结构**：主句 He did not want to be recorded in history；不定式 to be a slow-acting decision maker 作 want 的宾语；现在分词短语 facing a brewing crisis 后置修饰 decision maker。
+**句子结构**：主句 He did not want to be recorded in history；want 的宾语是 to be recorded in history，to be a slow-acting decision maker 为宾语补足语；现在分词短语 facing a brewing crisis 后置修饰 decision maker。
 
 **关键词**：`did not want to be recorded in history`、`a slow-acting decision maker`、`facing a brewing crisis`
 
@@ -163,7 +163,7 @@ source_text: ch03
 
 **关键词**：`My honest view`、`any sensible person in his position`、`would make the same decision`
 
-**表达方式**：以"任何理智的人都会如此"这类换位论证回避直接辩护；插入语 in his position（7 词）承担了全部限定，使判断不至于滑向普遍适用的道德说教。
+**表达方式**：以"任何理智的人都会如此"这类换位论证回避直接辩护；插入语 in his position（3 词）承担了全部限定，使判断不至于滑向普遍适用的道德说教。
 
 **为什么这样写**：4 万亿在事后被广泛批评为债务根源，作者要为一个已经成熟的政策辩护，又不能让自己显得在为错误张目。换成"任何同位置的人"的换位判断，既承认了批评的存在，又把争论锚定在当时的信息条件下——这是他为决策者争取的最好防线。
 
@@ -171,7 +171,7 @@ source_text: ch03
 
 **中文理解**：如果我们继续落后，就会再次被打败——经济上、军事上，最终是文化上——中国会在世界上失去自我。
 
-**句子结构**：When 引导条件状语从句（remain backward）；主句 we will be beaten again 为主动语态的被动式（be beaten）；economically / militarily / eventually culturally 三个副词短语作方式状语并以 and 连接形成递进；逗号后 and China will lose its identity in the world 为并列分句。
+**句子结构**：When 引导条件状语从句（remain backward）；主句 we will be beaten again 为被动语态（be beaten + by 省略）；economically / militarily / eventually culturally 三个副词短语作方式状语并以 and 连接形成递进；逗号后 and China will lose its identity in the world 为并列分句。
 
 **关键词**：`When we remain backward`、`we will be beaten again`、`China will lose its identity in the world`
 
@@ -199,7 +199,7 @@ source_text: ch03
 
 **关键词**：`Our findings were shocking`、`began to decline one thousand years ago`、`dating back to the Song Dynasty`
 
-**表达方式**：以 shocking 一词直接预告结论的冲击力，再用一个跨越千年的时间跨度（a thousand years ago / dating back to）把学术研究压进一句大白话；冒号使"发现"与"发现的内容"紧贴。
+**表达方式**：以 shocking 一词直接预告结论的冲击力，再用一个跨越千年的时间跨度（one thousand years ago / dating back to the Song Dynasty）把学术研究压进一句大白话；冒号使"发现"与"发现的内容"紧贴。
 
 **为什么这样写**：作者做的是一件对本国读者最有杀伤力的事——用一个可核验的长期数据否定"五百年最繁荣"的自豪叙事。 shocking 这个词提前给出情绪坐标，让读者知道接下来的数字会让他们不适。
 

@@ -12,7 +12,7 @@ source_text: ch16
 - **作者**：David Daokui Li（李稻葵）
 - **体裁**：非虚构论述（政治经济学／中国研究）；全书前十五章（历史／政府／市场／社会／经济）之后的收束章
 - **章节定位**：Chapter 15（ch16）；正面接住第一章提出的那个问题——"中国是否在走自己的治理模式"，用三根支柱描述已经成型的做法，再用四类证据说明这一模式既不会被命名，也不会被输出，最后指出中西影响正在变成双向；下一章的"中国世界观"即由本章三根支柱推出
-- **字符数**：37,749 字符（约 7,230 词）；53 个实质段落（全书最长章，无小标题，通篇以段落推进）
+- **字符数**：37,749 字符（约 7,230 词）；54 个实质段落（全书最长章，通篇以段落推进）
 - **一句话主旨**：作者的回答是一个双重否定加一个肯定——"中国模式"这个说法连中国学者自己都不愿用、也不会出口，但三根支柱（全负责任政府、执政党内部纪律、尊重中心的外交）已经清晰成型；中国之所以不输出它，不是因为虚伪，而是因为一整套嵌在一千年官僚传统里的治理方式在物理上无法移植，加上自上而下的架构在超大国家里已出现规模报酬递减。
 
 本章开篇即抛出三个连问：中国是否在走自己的社会政治治理模式？是否真有"中国模式"、中国是否不同于西方？中国的实力与影响力还会不会继续上升？随后立刻给出反直觉的答案：许多中国学者根本不愿讨论这个问题，因为他们认为还有太多问题没解决，中国要安定于一套制度仍然为时过早；即便有中国模式，中国也几乎不可能给它贴标签并出口，因为中国的文化与历史处境使这件事根本做不到。于是作者转而绕过命名，直接拆解三根支柱：全负责任政府（及与之匹配的社会心态）、政府内部的纪律、尊重中心而非意识形态中心或利益中心的外交。
@@ -215,7 +215,7 @@ source_text: ch16
 
 **关键词**：`no historical exception`、`the rule that`、`when people get rich`、`they will fight for democracy`
 
-**表达方式**：no historical exception 用全称否定把一条经验规律抬升为绝对律；the rule that 的同位语从句把"规则"的内容直接嵌进来，省去 the rule that people get rich... 里的重复主语与引语嵌套。
+**表达方式**：no historical exception 用全称否定把一条经验规律抬升为绝对律；the rule that 的同位语从句把"规则"的内容直接嵌进来，省去 "the rule that when people get rich, they will fight for democracy" 里的重复主语与引语嵌套。
 
 **为什么这样写**：作者必须先让对手把话说满，后面两节的地缘、文化、历史反驳才有分量。no historical exception 是一个在经验上不可能成立的强断言——正因为它过强，逐字转录这句话（并保留直引的小写起首形式）才能让读者看到它确实被公开说出过；作者接下来要拆的正是这种"无一例外"的姿态。
 
@@ -259,7 +259,7 @@ source_text: ch16
 
 **中文理解**：（作者自承有以偏概括全之嫌）西方典型政府像**快洗**：车主坐在车里，洗车工只洗车身外表。全负责任政府则像**精细洗车**：把钥匙交给我们、信任我们，我们回来时交上一份彻底清洁的工作。
 
-**句子结构**：四个句子构成的对照。首句为 a typical government in the West is + 名词短语（a quick carwash），冒号后为解释；次句 An all-responsible government is like a thorough detailing of the car 同样以 like 引出比较；后两句为三个并列祈使句／陈述句（Give us / trust us / we come back）。
+**句子结构**：两个句子构成的对照。首句为 a typical government in the West is + 名词短语（a quick carwash），冒号后为解释；次句 An all-responsible government is like a thorough detailing of the car 同样以 like 引出比较；后两句为三个并列祈使句／陈述句（Give us / trust us / we come back）。
 
 **关键词**：`a quick carwash`、`the washer only cleans the outside`、`a thorough detailing of the car`、`Give us the key, trust us`
 

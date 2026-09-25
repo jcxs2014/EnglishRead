@@ -11,13 +11,13 @@ source_text: ch07
 - **出处**：*China's World View: Demystifying China to Prevent Global Conflict*，Chapter 6
 - **作者**：David Daokui Li（李稻葵）
 - **体裁**：非虚构论述（政治经济学／中国研究）；第一部分"中国如何运作"第六章
-- **章节定位**：Chapter 6（ch06）；政治部分的收尾章——在交代了党与中央、地方政府的组织结构之后，转向评估这套体制最严重的内部病症：日常几乎清廉的高层级腐败、2012 年起的反腐战役及其三重副作用（官员不作为、政治化、追溯性），以及香港与新加坡的制度化出路
+- **章节定位**：Chapter 6（ch06）；政治部分的收尾章——在交代了党与中央、地方政府的组织结构之后，转向评估这套体制最严重的内部病症：基层几乎清廉而高层腐败严重、2012 年起的反腐战役及其副作用（官员不作为、政治化的任意性）（官员不作为、政治化、追溯性），以及香港与新加坡的制度化出路
 - **字符数**：约 24,155 字符（约 4,700 词）；32 个实质段落
 - **一句话主旨**：中国的腐败是"结构性"而非"普遍性"的——基层几乎无小额腐败、高层却因薪酬与晋升的失衡而风险极高，因此它对经济的损害相对可控、对政权的信任损害却极为严重；习近平 2012 年起的反腐战役确实成效卓著（部长级以上十年内约 17% 被处分），但以今日之规矩追溯往日之行为带来任意性，而真正可持续的出路是香港、新加坡式的制度化——高薪、高标准与严密监督。
 
 本章给出四点。第一，日常层面——海关通关、交通警察检查、护照办理——中国基本没有腐败，相关官员受极严监控。第二，过去的腐败主要在商业往来，个别涉及官员晋升；在商业领域腐败曾是绕过繁琐官僚程序的有效手段，而这类程序如今已大幅放松。第三，打击腐败是习近平 2012 年上台后的标志性动作，效果非常好，但副作用显著，包括官员普遍偷懒与缺乏主动性。
 
-作者先解释基层为何清廉。至少二十年来，交警或海关官员索贿这类"小额腐败"在中国不成问题——这与许多治理 poor 的国家形成鲜明对照（那里的警察以查酒驾为名收现金免开罚单）。技术原因是所有在岗官员都被严密监控：警察必须随身携带录像设备并受到严格审视，一旦被抓即受严厉纪律处分；边检与海关等公共场所布满监控摄像头。更根本的原因是：作为持续增长的经济体，中国财政充裕，基层官员的薪酬相对其他行业同行已算优厚。高级官员的薪酬当然远低于企业高管——"这是一个为高层腐败埋下种子的事实"。另有一个关键背景：2000 年代初，时任公安部长周永康作为一位强硬的高级警官推行了一场卓有成效的整顿，清理了警队中的不良行为。"讽刺的是，十五年后，他以高度腐败官员的身份被判处无期徒刑。"
+作者先解释基层为何清廉。至少二十年来，交警或海关官员索贿这类"小额腐败"在中国不成问题——这与许多治理不善的国家形成鲜明对照（那里的警察以查酒驾为名收现金免开罚单）。技术原因是所有在岗官员都被严密监控：警察必须随身携带录像设备并受到严格审视，一旦被抓即受严厉纪律处分；边检与海关等公共场所布满监控摄像头。更根本的原因是：作为持续增长的经济体，中国财政充裕，基层官员的薪酬相对其他行业同行已算优厚。高级官员的薪酬当然远低于企业高管——"这是一个为高层腐败埋下种子的事实"。另有一个关键背景：2000 年代初，时任公安部长周永康作为一位强硬的高级警官推行了一场卓有成效的整顿，清理了警队中的不良行为。"讽刺的是，十五年后，他以高度腐败官员的身份被判处无期徒刑。"
 
 2012 年以前中国的严重腐败有两种形态：为经济利益，以及为政治利益——后者主要发生在谋求晋升、成为人大代表或被选为政协委员的人身上。辽宁在 2011 与 2013 年就发生了与省级领导与人大代表、政协委员遴选相关的大面积行贿，案件被彻底调查，许多官员获刑。
 
@@ -98,7 +98,7 @@ source_text: ch07
 21. **王岐山人物速写**："普京 + 克林顿"；2015 年宴会；与 Larry Summers 关于读书与《论语》的对话。
 22. **为何是他**：无子女、妻子为革命元老后代（家庭"方便"）、问题解决者与执行者。
 23. **副作用一：官员惰性**（以今日规矩审判往日行为）；副作用二：政治化与任意性（破产国企股份案）。
-24. **增长代价与长期收益**：美银美林 -1%（2014）、巴黎银行 -1%~-1.5%；彭博调查 2020 年后每年 +0.1~0.5 个百分点。
+24. **增长代价与长期收益**：美银美林 -1%（2014）、巴黎银行 -1%~-1.5%；彭博调查估计到 2020 年每年 +0.1~0.5 个百分点。
 25. **制度化出路**：香港 ICAC、新加坡高薪高薪标准；中国部长年薪与终身住房；预期加薪到司局级。
 26. **国家监察委员会**（2018）：结束运动、保持战斗，也管非党员。
 27. **收束**：腐败让位于育儿/医疗成本等社会问题；政府职位仍具吸引力。
@@ -154,9 +154,9 @@ source_text: ch07
 
 **中文理解**：这是一个为高层官员腐败埋下种子的经济事实。
 
-**句子结构**：全句为无主语的名词短语；中心词为 an economic fact，后接现在分词短语 sowing the seeds of corruption of higher-level officials 作后置定语。
+**句子结构**：全句为无主语的名词短语；中心词为 an economic fact，后接现在分词短语 sowing the seeds for corruption of higher-level officials 作后置定语。
 
-**关键词**：`an economic fact`、`sowing the seeds of corruption`、`of higher-level officials`
+**关键词**：`an economic fact`、`sowing the seeds for corruption`、`of higher-level officials`
 
 **表达方式**：主语被省略（facts sow seeds），因而这一句像一条被单独摘出的公理；sow the seeds 隐喻把静态的薪酬差距写成一条正在发生的因果链。
 
@@ -200,7 +200,7 @@ source_text: ch07
 
 > **原句 6:** "Guo agreed to the promotion, but a few days later, when another major general offered 20 million RMB for the same position, Guo Boxiong awarded the promotion to the higher bidder."
 
-**中文理解**：郭同意了这晋升，但几天后，另一名少将为同一职位出价 2,000 万元，郭伯雄便把晋升给了出价更高的那位。
+**中文理解**：郭同意这次晋升，但几天后，另一名少将为同一职位出价 2,000 万元，郭伯雄便把晋升给了出价更高的那位。
 
 **句子结构**：主句 Guo agreed to the promotion；but 连接转折分句，内嵌 when 引导的时间状语从句，从句主语 another major general、谓语 offered、宾语 20 million RMB for the same position；主句谓语 awarded the promotion to the higher bidder。
 
@@ -270,7 +270,7 @@ source_text: ch07
 | impeccable | 无瑕的；清白无暇的 | "The anticorruption campaign requires a person with an impeccable reputation and no possible connection to corruption to lead it, and Wang Qishan fits this profile perfectly." |
 | diametrical opposite | 截然相反的一面 | "The party claims to represent the interests of all people in China, whereas corruption embodies the diametrical opposite of this goal by serving only the interests of the most powerful." |
 | cozy up to | 套近乎；刻意拉近（关系） | "Eventually, he decided to cozy up to party officials such as Ling Jihua, then chief of staff to Hu Jintao, the general secretary of the CCP at the time." |
-| expedient | 权宜便利的（此处指家庭结构"省事"） | "Wang’s family situation is expedient, as it is often wives and children who demand bribes, sometimes even without the knowledge of the official." |
+| expedient | 方便的；对反腐负责人有利的（此处指家庭结构不构成牵连） | "Wang’s family situation is expedient, as it is often wives and children who demand bribes, sometimes even without the knowledge of the official." |
 | implementer | 执行者；落实者 | "Wang is also a problem solver and implementer—absolutely essential attributes for an anticorruption chief." |
 | inert | 惰性的；不作为的 | "The first side effect is that government officials, especially those dealing with economic affairs, have now become inert." |
 | retroactively prosecute | 追溯性地起诉 | "The ability to retroactively prosecute past behavior using today’s new standards has resulted in rather flexible interpretations of corruption." |
@@ -285,7 +285,7 @@ source_text: ch07
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| sow the seeds of | 为……埋下种子 | "Senior officials of course are paid much lower than business executives, an economic fact sowing the seeds for corruption of higher-level officials." |
+| sowing the seeds for | 为……埋下种子 | "Senior officials of course are paid much lower than business executives, an economic fact sowing the seeds for corruption of higher-level officials." |
 | pioneering entrepreneurs | 开拓型的创业者 | "but pioneering entrepreneurs still enjoy clear advantages" |
 | coveted (list) | 令人觊觎的（名单／位置） | "enterprises commonly lobby individuals within the CSRC to win a spot on this coveted list" |
 | life-changing effects | 改变人生的效应 | "Considering the life-changing effects of an IPO that allows a founder of a corporation to quickly turn years of hard work into cash, it is no wonder why this is a major source of corruption in China." |

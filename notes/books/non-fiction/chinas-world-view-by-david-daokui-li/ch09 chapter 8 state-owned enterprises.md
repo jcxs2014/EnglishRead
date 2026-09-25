@@ -12,7 +12,7 @@ source_text: ch09
 - **作者**：David Daokui Li（李稻葵）
 - **体裁**：非虚构论述（政治经济学／中国研究）；第二部分"中国经济"第二章
 - **章节定位**：Chapter 8（ch09）；继政府与经济的关系之后，逐一检视中国的主要企业形态之一——回答两个问题：国企为什么存在（历史、公共财政、政策执行、意识形态四条理由），以及它们将往哪里去（混合所有制 + 政府投资基金），并用北京麦当劳、合肥蔚来、珠海格力三个案例说明"地方国企才是主角"
-- **字符数**：约 17,128 字符（约 3,400 词）；25 个实质段落
+- **字符数**：约 17,128 字符（约 3,400 词）；26 个实质段落
 - **一句话主旨**：国有企业之所以让中国不被许多国际贸易与投资条约承认为市场经济，根源在于"政府持股最多"这一形式定义；但除少数国家垄断外，多数国企在市场上与民企无异、且正被持续改造为现代公司——作者用四条理由解释其存续（历史遗留、稳定财政、执行政策、意识形态），判定意识形态一条"站不住脚"，并以混合所有制与政府投资基金作为出路，最终把中国经济的动力归还给民企。
 
 本章开篇即承认国企是中国经济讨论中的显眼对象，需要深入分析；而它们的存在正是中国未被许多国际贸易与投资条约承认为市场经济的主要原因——这些条约指责国企违反市场原则。作者在本章只讲两点。第一，除少数国家垄断行业外，多数国企在市场上经营与竞争的方式与民企完全一样。第二，国企正在持续改革，多数将转变为类似 IBM 或博世的现代公司；政府不再直接控制国企，而是像养老金管理人那样主要持有各公司的股份，中国经济将受到各级政府直接控制力递减的影响。
@@ -29,7 +29,7 @@ source_text: ch09
 
 国企为何存在？最简单的答案是"历史"。许多国企是改革开放前计划经济时代的遗产。1949 年建国时，最初的观念是企业与生产资产必须归政府所有——这是社会主义经济的定义性特征。中共执政时的最初计划是对西方控制的公司实行国有化，称之为"帝国主义公司"，花旗银行与汇丰银行等商业银行即如此；这与拉丁美洲、非洲许多国家在摆脱殖民统治后发生的事并无不同。中共最初决定有必要从国民党政府时期存在的资本主义经济逐步过渡到社会主义经济，打算用十五到二十年逐步国有化或集体化企业。
 
-毛泽东在 1958 年的大跃进中大幅加快了这一国有化计划：农业集体化、居民土地所有权集中到人民公社，商业、服务与工业资产迅速国有化。作者母亲的家属于 1930 年代初在南京（国民政府首都）拥有并经营多处房产，在大跃进期间被共产党政府没收；作为交换，祖父母得到一些现金并被迁到南京远郊，在那里盖了间小房子、靠剩余的补偿款生活。这个大家庭过去有五十多人，午饭或晚饭时族长要摇铃召唤众人到餐厅；到了郊区，只有祖父母两人同住，生活水平大幅下降、生存十分困难；所幸作者母亲已在工作，他记得自己每月会把工资的三分之一寄回家支持父母。
+毛泽东在 1958 年的大跃进中大幅加快了这一国有化计划：农业集体化、居民土地所有权集中到人民公社，商业、服务与工业资产迅速国有化。作者母亲的家属于 1930 年代初在南京（国民政府首都）拥有并经营多处房产，在大跃进期间被共产党政府没收；作为交换，祖父母得到一些现金并被迁到南京远郊，在那里盖了间小房子、靠剩余的补偿款生活。这个大家庭过去有五十多人，午饭或晚饭时族长要摇铃召唤众人到餐厅；到了郊区，只有祖父母两人同住，生活水平大幅下降、生存十分困难；所幸作者的母亲当时已在工作，他记得母亲每月会把工资的三分之一寄回家接济祖父母。
 
 1978 年进入改革时代后，中国政府开始逐步私有化国企，因为许多国企已变得无利可图且效率低下。例如中国工业重镇沈阳市曾有六千家工业国企，到 2021 年已不足二十家；这个过程对沈阳很痛苦，最艰难的是 1990 年代末，多达六万名国企工人失业；在中央政府与一家宝马合资厂的帮助下（该厂如今贡献该市约三分之一的财政收入），这座城市逐渐恢复。
 
@@ -39,15 +39,15 @@ source_text: ch09
 
 第三个理由是国企能帮助政府执行民企可能不会执行的某些政策。2008 年北京奥运是一个明显例子，其办赛规模（尤其是开闭幕式）超过历史上任何一届奥运会；近届奥运已被证明极其不盈利、可能让城市负债多年，但北京却实现了小额盈利。答案是北京市政府在中央政府帮助下向国企提出大量要求——比如在奥运公园附近建专用电厂；国企被要求赶工期建设设施与道路，甚至被要求协助仪式彩排。
 
-第四个理由是意识形态的（尽管这一点可能随时间改变）：中国是社会主义经济、中共是执政党，所以国企应当是政治体制的基石。表面上看这个论证合乎逻辑，但现实中"它站不住脚"：政府直接拥有如此多资产以维持政治治理，实属过度；原因在于政府对所有企业征税，而一家普通企业的税收很容易达到总销售额的 20% 以上，因此政府已经是每一家企业的巨大利益相关方，而不只是国企。全是企业都是政治治理的基础。
+第四个理由是意识形态的（尽管这一点可能随时间改变）：中国是社会主义经济、中共是执政党，所以国企应当是政治体制的基石。表面上看这个论证合乎逻辑，但现实中"它站不住脚"：政府直接拥有如此多资产以维持政治治理，实属过度；原因在于政府对所有企业征税，而一家普通企业的税收很容易达到总销售额的 20% 以上，因此政府已经是每一家企业的巨大利益相关方，而不只是国企。所有企业都是政治治理的基础。
 
-那么国企的行为与民企或跨国公司不同吗？一般来说，答案是不同。经过数十年的残酷市场竞争与筛选，绝大多数国企是有竞争力的，且由地方政府持有；它们大多已在股市上市；不盈利的已被私有化，因为中国政府不愿背补贴包袱；而剩下的大多数国企都有非常强势且独立的高管，常受地方政府首长的敬重。
+那么国企的行为与民企或跨国公司不同吗？一般来说，答案是没有不同（原文 "The answer is no"）。经过数十年的残酷市场竞争与筛选，绝大多数国企是有竞争力的，且由地方政府持有；它们大多已在股市上市；不盈利的已被私有化，因为中国政府不愿背补贴包袱；而剩下的大多数国企都有非常强势且独立的高管，常受地方政府首长的敬重。
 
-典型案例是格力电器——世界领先的家电压缩机生产商之一。它拥有一位极有能力且富有魅力的 CEO 董明珠，其权力甚至可能超过惠普前 CEO 菲奥莉娜；董明珠受欢迎、善辩，而最要紧的是有权力，她甚至出现在公司全国性电视广告中，说格力不需要请成龙这样昂贵的电影明星做代言人，她本人免费拍就行。格力是中国股市的明星公司，拥有耶鲁大学捐赠基金与淡马锡（新加坡政府运作的投资基金）等知名投资者。可能令人吃惊的是，格力是一家由经济特区珠海市持有的国企。在一次与董明珠同台的电视节目中，作者开玩笑说，她应当承认自己成功的一个重要因素：她有一位不干涉的"婆婆"——作者所说的"婆婆"指珠海市政府；平时好争论的她 readily 同意了，还补充说珠海市政府在她这件事上确实采取了极其放任自由（laissez faire）的做法。
+典型案例是格力电器——世界领先的家电生产商之一。它拥有一位极有能力且富有魅力的 CEO 董明珠，其权力甚至可能超过惠普前 CEO 菲奥莉娜；董明珠受欢迎、善辩，而最要紧的是有权力，她甚至出现在公司全国性电视广告中，说格力不需要请成龙这样昂贵的电影明星做代言人，她本人免费拍就行。格力是中国股市的明星公司，拥有耶鲁大学捐赠基金与淡马锡（新加坡政府运作的投资基金）等知名投资者。可能令人吃惊的是，格力是一家由经济特区珠海市持有的国企。在一次与董明珠同台的电视节目中，作者开玩笑说，她应当承认自己成功的一个重要因素：她有一位不干涉的"婆婆"——作者所说的"婆婆"指珠海市政府；平时好争论的她 readily 同意了，还补充说珠海市政府在她这件事上确实采取了极其放任自由（laissez faire）的做法。
 
 像格力这样的地方国企数量相当多，各有一位像董明珠一样强势的领导者，包括山东的潍柴动力、安徽的海螺水泥与江苏的徐工。我与这类公司高管同台出席公开活动时，常开玩笑问他们是否愿意与中央政府所属企业的 CEO 互换位置，回答永远是"绝不"。
 
-对一两家 dozen 家中央政府的超大型国企而言，高管由中央政府任命，随时可能被提拔或轮转到政府岗位，因此这类国企必须更关注中央政策与社会责任（例如支持北京奥运）；但高管的日常职责仍是在市场上让公司具有竞争力，而且他们多数非常有能力。我经常遇到这些国企的高管：一次是在瑞士达沃斯世界经济论坛年会上，走出一场闭门会议后，世界前五大矿业公司的高管叫住我问："David，请给我解释一下，为什么 Chinalco（中国最大的铝业公司）的那个人在自己的业务上真做到了顶尖、什么都懂，比许多西方公司的高管强得多？为什么？"我的回答是他的首要任务是盈利，而且正是在 Chinalco 财务状况很差时被选上来的——当然他也必须留意政治。
+对一二十家中央政府所属的超大型国企而言，高管由中央政府任命，随时可能被提拔或轮转到政府岗位，因此这类国企必须更关注中央政策与社会责任（例如支持北京奥运）；但高管的日常职责仍是在市场上让公司具有竞争力，而且他们多数非常有能力。我经常遇到这些国企的高管：一次是在瑞士达沃斯世界经济论坛年会上，走出一场闭门会议后，世界前五大矿业公司的高管叫住我问："David，请给我解释一下，为什么 Chinalco（中国最大的铝业公司）的那个人在自己的业务上真做到了顶尖、什么都懂，比许多西方公司的高管强得多？为什么？"我的回答是他的首要任务是盈利，而且正是在 Chinalco 财务状况很差时被选上来的——当然他也必须留意政治。
 
 另一个例子是工商银行——全球最大、并且多年来最赚钱的商业银行。其前董事长姜建清是中国任职最久的商业银行家，来自中国南方，在金融与管理方面头脑极为敏锐；他的薪酬一度约 100 万元人民币，如今被限制在 60 万元人民币（约 10 万美元）——这个数字与其岗位的重要性实在难以相称；作为一名事实上的政治任命者，他别无选择只能接受。
 
@@ -85,7 +85,7 @@ source_text: ch09
 16. **央企高管的处境**：可随时被调走； Davos 遇 Chinalco 高管之问（首要任务是盈利）。
 17. **工商银行与姜建清**：薪酬从 100 万降至 60 万人民币（约 10 万美元），"与岗位重要性难以相称"。
 18. **两项改革**：混合所有制（非政府实体持多数股）+ 政府投资基金取代直接管理。
-19. **改革的政治来源**：2013 年三中全会八Year 改革文件；2017 年十九大确认；市场化聘任高管。
+19. **改革的政治来源**：2013 年三中全会通过的八年全面经济改革纲领；2017 年十九大确认；市场化聘任高管。
 20. **改革的市场理由**：政府直接外购服务优于自建国企；车队/公交外包、餐饮外包。
 21. **改革的国际理由**：习的雄心、激进减排、2018 年 1 月达沃斯的全球化宣言。
 22. **基金化的未来**：每城若干 TEMASEK 式基金；北京三到五个基金；彼此竞争、年度向人大报告。
@@ -118,7 +118,7 @@ source_text: ch09
   | 地方国企高管被问是否与央企 CEO 换位，回答"绝不" | 观察 | 地方国企在薪酬与自主性上更有吸引力 |
   | Chinalco 高管在财务困难时被选中、Davos 现场提问 | 亲历 | 央企高管的首要考核是盈利 |
   | 姜建清薪酬 100 万 → 60 万人民币（约 10 万美元） | 数据 | 央企高管的薪酬与岗位重要性不匹配 |
-  | 2013 年三中全会八year 改革文件、2017 年十九大确认；混合所有制 + 市场化聘任 | 制度文件 | 改革方向已写入党的重要决议 |
+  | 2013 年三中全会通过的八年全面经济改革纲领、2017 年十九大确认；混合所有制 + 市场化聘任 | 制度文件 | 改革方向已写入党的重要决议 |
   | 地方政府外包公交、餐饮服务 | 案例 | 市场替代国企是"买服务"而非"办企业" |
   | 2018 年 1 月达沃斯宣布要成为全球化领导者 | 引述/事件 | 国企去政府直接影响有国际议程上的动因 |
   | 2020 年 11 月宣布申请加入 CPTPP；TPP 本为排除中国、实质不允许国企 | 制度/事件 | 改革的最硬外部约束来自入约承诺 |
@@ -127,7 +127,7 @@ source_text: ch09
 - **可质疑处**：
   1. **"多数国企与民企无异"的判断依赖上市与筛选口径**：作者以"已在股市上市""不盈利者已被私有化"作为竞争力证据，但上市本身只说明通过审核而不说明盈利能力；而地方国资委旗下的未上市平台型国企在数量上并不小，这一类在本章完全没有出现。
   2. **四条理由中只有意识形态一条被明确否证，另三条的代价未被评估**：作者肯定了北京奥运式的政策执行价值，却未讨论 2008 年后地方国企在政府隐性担保（城投债）中所扮演的角色——而这恰恰是本章所述"稳财政"逻辑最需要被检验的地方。
-  3. **"政府税收 ≥ 销售额 20% 所以已是所有企业的利益相关方"是一个未受检验的替代论证**：它能削弱"国企是政权基石"的意识形态论证，却不能替代一个制度问题——既然税收已提供稳定收益，何以仍需直接持股？作者跳过了从"征税"到"可以放弃持股"这一关键推论，而第四章（ch05）已说明地方政府对国企的人事与经营仍有深度介入。
+  3. **"政府税收 ≥ 销售额 20% 所以已是所有企业的利益相关方"是一个未受检验的替代论证**：它能削弱"国企是政权基石"的意识形态论证，却不能替代一个制度问题——既然税收已提供稳定收益，何以仍需直接持股？作者跳过了从"征税"到"可以放弃持股"这一关键推论，而第五章（ch06）已说明地方政府对国企的人事与经营仍有深度介入。
 
 ## 选择性精读
 
@@ -147,7 +147,7 @@ source_text: ch09
 
 **中文理解**：除少数国家垄断行业外，多数国有企业在市场上经营与竞争的方式与私营企业完全一样。
 
-**句子结构**：except for a small number of national monopolies 为介词短语作例外状语；主句 the majority of SOEs operate and compete in the marketplace；just as private enterprises do 为比较结构（so...as... 的省略式，do 代替 operate and compete）。
+**句子结构**：except for a small number of national monopolies 为介词短语作例外状语；主句 the majority of SOEs operate and compete in the marketplace；just as private enterprises do 为比较状语（原文只有 just as，无 so...as 结构），do 代替前句的 operate and compete。
 
 **关键词**：`except for a small number of national monopolies`、`the majority of SOEs operate and compete in the marketplace`、`just as private enterprises do`
 
@@ -183,7 +183,7 @@ source_text: ch09
 
 **中文理解**：如果政府已经拥有资产——哪怕只是少数股权——它就可以拿这些资产作抵押来发行债券，或直接出售部分股权以帮助平衡预算。
 
-**句子结构**：if 引导条件状语从句，内含省略 that 的宾语从句（the government already owns assets）；破折号内 even minority shares 为插入强调；主句为并列句 it can use these assets as collateral to issue debt 与 (it can) simply sell some of the shares to help balance the budget。
+**句子结构**：if 引导条件状语从句，从句自身的主语为 the government、谓语为 already owns assets；破折号内 even minority shares 为插入强调；主句为并列句 it can use these assets as collateral to issue debt 与 (it can) simply sell some of the shares to help balance the budget。
 
 **关键词**：`even minority shares`、`use these assets as collateral to issue debt`、`sell some of the shares to help balance the budget`
 
@@ -195,7 +195,7 @@ source_text: ch09
 
 **中文理解**：它在现实中站不住脚。
 
-**句子结构**：全句为形式主语句（it 为形式主语，does not 为助动词，hold 为动词原形，water 为无不定式宾格）；省略了主语 this argument。
+**句子结构**：全句为代词主语句：it 为代词主语（回指前句的 this argument），does not 为助动词，hold 为动词原形，water 为名词宾语（hold water 意为"站得住脚"）。
 
 **关键词**：`does not hold water`
 
@@ -258,7 +258,7 @@ source_text: ch09
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | quintessential | 典型的；最典型的 | "While McDonald’s represents a quintessential symbol of American capitalism, in the city of Beijing, McDonald’s restaurants are all SOEs that have franchise agreements with the McDonald’s corporation." |
-| cornerstone |  cornerstone；基石 | "This ideological view holds that China is a socialist economy and the Communist Party is the party in power, so SOEs should be the cornerstones of the political regime." |
+| cornerstone | 基石 | "This ideological view holds that China is a socialist economy and the Communist Party is the party in power, so SOEs should be the cornerstones of the political regime." |
 | hold water | 站得住脚；经得起推敲 | "On its surface, this argument is logical, but in reality, it does not hold water." |
 | collateral | 抵押品 | "it can use these assets as collateral to issue debt or simply sell some of the shares to help balance the budget." |
 | nationalization | 国有化 | "When the Communist Party assumed power, its initial plan called for the nationalization of Western-controlled companies, which the party called “imperialist companies.”" |
@@ -269,7 +269,7 @@ source_text: ch09
 | unprofitable | 无利可图的 | "In the reform era starting in 1978, the Chinese government began to gradually privatize SOEs because many SOEs had become unprofitable and ineffective." |
 | revered | 受敬重的 | "Moreover, most of the remaining SOEs have very strong and independent senior executives who are often respected and revered by local government heads." |
 | antiglobalization | 反全球化 | "More importantly, against the trend of antiglobalization, he has demonstrated that China under his leadership wants to be a leader in globalization." |
-| dynamism | 活力； dynamism | "As interesting and unique as SOEs are, the dynamism of the Chinese economy has not been due to their existence." |
+| dynamism | 活力 | "As interesting and unique as SOEs are, the dynamism of the Chinese economy has not been due to their existence." |
 | mixed-ownership | 混合所有制 | "The first reform is to transform most SOEs into mixed-ownership companies with majority shares held by nongovernment entities, greatly reducing the direct influence of the government." |
 
 ### ⭐⭐ 进阶
