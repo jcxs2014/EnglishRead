@@ -603,6 +603,19 @@ ch18 portents.md: 10/10 in ch18 text
 - 状态：目标书 13 个文件工作树干净；未 push。协作板与工作日志均就地更新本书唯一条目，未新建条目。
 - 已知局限：本次为用户在本会话主动发起的同会话审查，a–e 已完整执行；仍无法完全排除全书统一口径造成的系统性误判，如需更强独立性可另指定异实例复核。
 
+### [2026-09-24 19:10 UTC] [OpenCode-Mac] → All
+
+**《The Happiness Blueprint》by Ally Zetterberg 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/novels/the-happiness-blueprint-by-ally-zetterberg/`；67 章（Part One ch01–17、Part Two ch18–46、Part Three ch47–65、One Year Later ch66–67）+ `概述.md`、`金句精选.md`、`情感节点.md`。
+- 体裁：当代言情／情感小说，Klara 与 Alex 双第一人称 POV；主题为数字与身体自我、创伤／正义与修复、被选择的家庭与共同生活。
+- **独立五步审查已完成**：a 三件套现场重跑；b 逐章归属；c 结构/关键词/例句扫描；d 四个章节批次 + 总览批次语义二审；e 总览引语、章节范围、H1 和说话人/事件核对。
+- **缺陷与修复**：确认并修复 109 项（章节语义 44：ch01–17 12、ch18–34 13、ch35–50 11、ch51–67 8；总览 31；词汇例句 34），另修关键词/结构 4 处；重点包括 POV/说话人、跨段拼接、ch20/ch22 事件边界、ch40/ch48 引文边界、ch59/ch61 场景边界、Calle 拼写、节点范围和 Mateusz 职业关系。
+- **整改后门禁**：章节 `verify_quotes 475/475`（8 条短引语人工 HIT）· `check_vocab 2405` 条 FAIL0/WARN0 · entities 0 · `check_chapter_quotes 475/475` · exact-contiguous 483/483 · 结构编号连续/四子项齐全/零孤儿 · 关键词锚定 0 · 词汇例句全串 2405/2405 · `check_crossref 0 对/报警 0`。
+- **总览门禁**：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 24/24，共 67/67；节点范围 26/26、越界 0；章节标签 flat 对账 0 mismatch；H1 语义一致。`audit_book.py` 对三篇总览的 C 节缺章节报告是总览格式已知误报。
+- **提交链**：此前精读链至 `5224340f`；ch02–04 并行提交冲突的实际纳入 commit 为 `e2a597a0`；独立审查修复 `14b83b8d`（56 个目标文件，171 insertions / 181 deletions）；协作/日志更新 `01bf8676`，条目合并 `837af676`。未 push。
+- 状态：目标书工作树干净，跟踪文件 70 个；本书仅保留这一条协作记录和一条工作日志段落。审查局限：同会话主审已完成多路径和代理复核，但不能完全排除全书统一口径的系统性误判。
+
 ### [2026-09-24 18:27 UTC] [Qoder-Mac] → All
 
 **《The Progress of Love》by Alice Munro 全书精读 + 独立五步审查完成**
@@ -869,17 +882,3 @@ ch18 portents.md: 10/10 in ch18 text
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
 
 ---
-
-### [2026-09-24 19:10 UTC] [OpenCode-Mac] → All
-
-**《The Happiness Blueprint》by Ally Zetterberg 全书精读 + 独立五步审查完成**
-
-- 目录：`notes/books/novels/the-happiness-blueprint-by-ally-zetterberg/`；67 章（Part One ch01–17、Part Two ch18–46、Part Three ch47–65、One Year Later ch66–67）+ `概述.md`、`金句精选.md`、`情感节点.md`。
-- 体裁：当代言情／情感小说，Klara 与 Alex 双第一人称 POV；主题为数字与身体自我、创伤／正义与修复、被选择的家庭与共同生活。
-- **独立五步审查已完成**：a 三件套现场重跑；b 逐章归属；c 结构/关键词/例句扫描；d 四个章节批次 + 总览批次语义二审；e 总览引语、章节范围、H1 和说话人/事件核对。
-- **缺陷与修复**：确认并修复 109 项（章节语义 44：ch01–17 12、ch18–34 13、ch35–50 11、ch51–67 8；总览 31；词汇例句 34），另修关键词/结构 4 处；重点包括 POV/说话人、跨段拼接、ch20/ch22 事件边界、ch40/ch48 引文边界、ch59/ch61 场景边界、Calle 拼写、节点范围和 Mateusz 职业关系。
-- **整改后门禁**：章节 `verify_quotes 475/475`（8 条短引语人工 HIT）· `check_vocab 2405` 条 FAIL0/WARN0 · entities 0 · `check_chapter_quotes 475/475` · exact-contiguous 483/483 · 结构编号连续/四子项齐全/零孤儿 · 关键词锚定 0 · 词汇例句全串 2405/2405 · `check_crossref 0 对/报警 0`。
-- **总览门禁**：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 24/24，共 67/67；节点范围 26/26、越界 0；章节标签 flat 对账 0 mismatch；H1 语义一致。`audit_book.py` 对三篇总览的 C 节缺章节报告是总览格式已知误报。
-- **提交链**：此前精读链至 `5224340f`；ch02–04 并行提交冲突的实际纳入 commit 为 `e2a597a0`；独立审查修复 `14b83b8d`（56 个目标文件，171 insertions / 181 deletions）；协作/日志更新 `01bf8676`，条目合并 `837af676`。未 push。
-- 状态：目标书工作树干净，跟踪文件 70 个；本书仅保留这一条协作记录和一条工作日志段落。审查局限：同会话主审已完成多路径和代理复核，但不能完全排除全书统一口径的系统性误判。
-
