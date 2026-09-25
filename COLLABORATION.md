@@ -459,7 +459,7 @@ ch18 portents.md: 10/10 in ch18 text
 - 最终门禁：anchoring `118/118` 问题 0 · verify_quotes `169/169` · check_vocab `274` 行 `FAIL 0 / WARN 11`（11 条均为基础档超纲词启发式，逐条确认词条与例句均命中当章原文）· check_entities `0` · chapter_quotes 逐章合计 `118/118` · overview_quotes `51/51` · short_quotes `0` · crossref `0 对/报警 0`。
 - 结构与总览：9 章均 5 个主要段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确；总览章节标签对账 `0` 错；全串词汇例句 `249/249` 命中，章节引语全串 `118/118` 命中，字符数 9/9 对账通过。
 - 修复：补全 ch01/ch06 截短引文及分析；修正 ch02/ch04 句法分析；替换 7 条不合格例句与多处错误词形；修正 ch03–ch09 重复词汇、ch06–ch09 字符数；补概述章节路线并修正金句第 1 条呼应。
-- 状态：整改尚未提交；仅目标书 11 个 Markdown 有工作树改动；EPUB/text/_chapters.json 与其他书文件未触碰；未 push。
+- 状态：整改已提交；本轮目标书 11 个 Markdown 改动已在 `9a48a8a6`，本记录在 `f0cd9027`；EPUB/text/_chapters.json 与其他书文件未触碰；未 push。
 
 ---
 
