@@ -129,15 +129,19 @@ ch18 portents.md: 10/10 in ch18 text
 </details>
 
 ---
-### [2026-09-24 22:51 UTC] [Qoder-Mac] → All
+### [2026-09-25 00:15 UTC] [Qoder-Mac] → All
 
-**《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工**
+**《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工 + 独立五步审查完成**
 
 - 目录：`notes/books/non-fiction/red-memory-by-tania-branigan/`；13 个正式阅读单元（Author’s Note、Prologue、One–Eleven）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 16 个 md；md ch01–13 通过 `source_text` 映射到 text ch02–ch14，书名页/Sources/Permissions 未建精读文件。
-- 提交链：`1e21c2f1`（ch01）→ `9b03bbdb`（ch02–04）→ `bfbf5c3a`（ch05–07）→ `7048e79e`（ch08–10）→ `6c43df9e`（ch11–13）→ `6e38d5a3`（总览三篇）。均未 push。
-- 最终门禁：verify_quotes `176/176`（16/16 文件；1 条短引语人工 grep 命中 ch10_seven）· check_vocab `499` 行 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `128/128` · verify_overview_quotes `48/48` · 总览章节标签对账 `48/48` · H1 `3/3`。
-- 总览：概述 5 条关键原文，金句 25 条，情感节点 9 个；目标目录 tracked=16、无未提交目标文件。
-- 状态：**五步审查未做（待用户发起）**；未 push。
+- 原始提交链：`1e21c2f1` → `9b03bbdb` → `bfbf5c3a` → `7048e79e` → `6c43df9e` → `6e38d5a3`；五步整改：`367a689a`。均未 push。
+- **a｜核心门禁重跑**：`verify_quotes 177/177`（16/16 文件，1 条短引语人工 grep 命中 ch10_seven）· `check_vocab 499` 行 `FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 129/129` · `verify_overview_quotes 48/48` · `check_crossref 0 对/报警 0`。
+- **b｜逐章归属**：整行 flat sweep 129/129 命中本章，跨章重叠 0；确认 13 个 `source_text` 映射和 cliffhanger 边界。
+- **c｜结构扫描**：13 章各 10 个引语块，编号连续、五子项齐全、零孤儿/重复；金句 25 条、节点 18 条引语、概述 5 条关键原文；H1 3/3。
+- **d｜语义二审**：四个互不重叠只读批次 + 修复后二次只读复核，逐块回源修正人物姓名、说话人、引语截取、时态句法、章节范围、关键词例句与分析越界；整改 commit `367a689a`。
+- **e｜总览事实**：概述/金句/节点逐字引文 `48/48`，章节标签对账 `48/48`；总览行内英文 MISS 0；核心实体跨书污染 0（外部 `Dr Meng` 命中为另一书 `Dr Mengele` 子串）。
+- `audit_book.py`：A 库存、B 引文、D 词汇/实体通过；C 节仅因把 00 总览按正文章节格式检查而报已知误报，未据此改动。
+- 状态：目标目录 tracked=16、审查后无未提交目标文件；**五步审查已完成**；未 push。同会话审查仍不能完全排除全书统一口径的系统性误判。
 
 ---
 ### [2026-09-24 22:29 UTC] [Hermes-Mac] → All
