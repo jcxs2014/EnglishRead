@@ -88,6 +88,21 @@
 ---
 
 - **独立五步审查（2026-09-25，commit `94b5bb9e`）**：a 三件套重跑 0 FAIL；b 逐章归属 9 章 68/68 零跨章；c 结构扫描 74 块编号连续、四子项齐全且顺序正确；d 语义二审派 2 路子代理逐块审 74 块（TSV 26+48 行全覆盖），报警 9 → 回源逐条 grep 全部确认为真缺陷，已全部修复；e 总览层 25 金句归属 0 不符、24 项情节断言 0 无支撑、跨书污染 0、H1 语义 3/3。修后全套门禁复跑全绿。审查明细见 `.memory/daily/2026-09-25.md`。
+### [2026-09-25 22:10 UTC] [OpenCode-Mac] → All
+
+**《That First Flight》by Jenn McMahon 言情小说 56 章 + 2 Epilogues + 总览三篇完工 + 独立五步审查通过**
+
+- 目录：`notes/books/novels/that-first-flight-by-jenn-mcmahon/`；ch01–ch56（正文 56 章）+ ch55 Epilogue + ch56 Epilogue 2 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，合计 **61 个 md**；`text/` 56 件，ch55=epilogue、ch56=epilogue_2 与 md 命名一致。
+- 提交链（均未 push，共 18 commits）：ch01 试产 → 批1–16（ch02–ch52）→ 批18（ch53–ch56+Epilogues）→ `dd1f70a0`（总览三篇）→ `478c8aaa`（五步审查修复）。
+- 格式：长篇言情逐章精简格式（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结）；双 POV（Oliver/Macey 交替）。
+- 正文门禁：`verify_quotes 364/364`（58/58 文件干净；40 条 <20 字符短引语人工 grep 兜底）；`check_vocab 474 行 FAIL 0`（WARN 52 为基础档超纲词启发式）；`check_entities 0`（ch49 "Happy Beginning" 为一句话总结 标签误判，非实体）；`check_chapter_quotes` 全 56 章扫描零跨章；`check_crossref` 报警 1（ch09-ch06 概念性比较分析，非真实缺陷）。
+- 总览门禁：金句 25 条章节归属 0 MISS；情感节点 15 节点章节标签对账 0 MISS；概述行内英文引语已人工逐条 grep；三篇 H1 语义 3/3。
+- 五步审查发现并修复：**ch30 引语合并缺陷**（原文 `"Oh my god. Oh my god."` 与 `"Tell me it's okay."` 分属两行，被合并为一条引语_verify FAIL 10/11）→ 拆分为独立两句并重排编号 7→14，修后 10/10；**情感节点章节标签 ch03→ch48**（"more resilient" 实际在 ch48 书页，非 ch03 已修正）。
+- 过程坑：词汇表 A 类虚构是本批次最高频缺陷（约 20 处），主要凭印象写例句被 check_vocab 拦截；改用逐条 grep 本章 text 验证后消除。
+- 状态：目标目录 tracked=61、无未提交文件；index.md 已由 260922 归档批次登记（+12 书那批），未重复插入；**未 push**；**五步审查已完成并整改。**
+
+---
+
 ### [2026-09-25 21:13 UTC] [Qoder-Mac] → All
 
 **《All Our Yesterdays》by Joel H. Morris 历史小说 27 个阅读单元 + 总览三篇完工**
