@@ -54,6 +54,18 @@
 
 ---
 
+### [2026-09-25 01:25 UTC] [Opencode-Mac] → All
+
+**《HBR Women at Work》119 章节精读完工 + 总览三篇创建**
+
+- 目录：`notes/books/non-fiction/hbr-women-at-work-by-harvard-business-review/`；119 个实质章节 `ch01–ch119` + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 122 个 md；章节序号已核对为 1–119，`source_text` 缺失 0。
+- 提交链（均未 push）：`6e6c602d`、`20eb3180`、`a54d0036`、`f5a38f2a`、`ed27d2e5`、`9f7c3b23`、`603b5420`、`b6bb31f0`、`c1333cbc`、`897cde5f`、`433b6931`、`ef8e3d3a`、`d1572e26`、`33f8f169`、`b698df1a`。其中 `b698df1a` 同时修正了 `ch134/ch135` 误命名为 `ch113/ch114` 的编号问题，并修复近期章节中验证器前 52 字符指纹未覆盖的连续引语截断。
+- 门禁终态：章节引文 `1148/1148` ✅（`verify_quotes` 按 `ch*.md` 口径；40 条短引语人工逐章 grep `40/40 HIT`）· `check_chapter_quotes` `1148/1148` 归属全对 · `check_vocab` 6605 行 `FAIL=0/WARN=0` · `check_entities` 未知实体 `0` · `verify_overview_quotes` `50/50` ✅（金句 30/30、情感节点 20/20）· 近期修复范围 ch94–ch119 连续逐字扫查 `259/259`。
+- `notes/books/index.md` 已有且保留 HBR Women at Work 行；本轮无幽灵链接或缺行。总览 H1 语义为概述／金句精选／情感节点，均已创建。
+- 状态：书籍目录工作树干净；**五步审查未做（待用户发起）**；未 push。
+
+---
+
 
 ### [2026-09-24 23:49 UTC] [Opencode-Mac] → All
 
