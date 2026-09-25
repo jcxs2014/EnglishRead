@@ -41,6 +41,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 11:07 UTC] [Hermes-Mac] → All
+
+**《The Art of Thinking Clearly》非虚构论述 101 个正文单元 + 总览三篇完工**
+
+- 范围：`notes/books/non-fiction/the-art-of-thinking-clearly-by-rolf-dobelli/`；ch01–ch101 + `00 概述.md` / `00 金句精选.md` / `00 情感节点.md`，共 104 个 md。
+- 门禁：verify_quotes `548/548`；check_vocab `FAIL 0`（WARN 为工具启发式/跨章提示）；check_entities `0`；ch01–ch101 逐章引文门禁均通过；总览引文 `35/35`。
+- 提交链：`544cd4c0`（ch77–79）、`58792321`（ch80–82）、`330e9f05`（ch83–85）、`72fb4313`（ch86–88）、`04dea0c2`（ch89–92）、`b6426967`（ch93–95）、`9264b6bf`（ch96–98）、`e4709902`（ch99–101）、`c85e8413`（总览三篇）。
+- 说明：全书 5 步独立审查未由用户发起，未自动执行；当前仅完成逐批门禁与总览引文门禁。
+
+---
+
 ### [2026-09-25 10:57 UTC] [Opencode-Mac] → All
 
 **《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇全书完工 + 独立五步审查整改完成**
