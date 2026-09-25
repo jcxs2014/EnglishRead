@@ -263,7 +263,7 @@ source_text: ch02
 | bankrupt | 破产 | "I am reminded of the quote from Hemingway’s The Sun Also Rises, in which a character is asked how he went bankrupt, and he replies, “Two ways. Gradually, then suddenly.”" |
 | transplant | 移植 | "We can donate entire organs, and they work just fine in someone else if transplanted quickly enough." |
 | a growing fetus | 生长中的胎儿 | "only long after that, with the development of a nervous system and its brain, can the growing fetus sense pain." |
-| embryo | 胚胎 | "Although we think of birth and death as instantaneous events—in one instant we come into existance and in another we cease to exist—the boundaries of life are blurry." |
+| embryo | 胚胎 | "Although we think of birth and death as instantaneous events—in one instant we come into existence and in another we cease to exist—the boundaries of life are blurry." |
 | spawn | 产卵；繁殖 | "On the other hand, the reproductive behavior of salmon is a result of their life cycle: they have to swim thousands of miles in the ocean before returning to spawn." |
 | clones | 克隆体（遗传上完全相同的个体） | "This kind of reproductive behavior makes sense for worms, which usually live as inbred clones and are therefore genetically identical to their offspring." |
 | resets the aging clock | 重置衰老时钟 | "The germ-line cells that propagate our genes are immortal in the sense that a tiny fraction of them are used to create the next generation of both somatic and germ-line cells by sexual reproduction, which effectively resets the aging clock." |

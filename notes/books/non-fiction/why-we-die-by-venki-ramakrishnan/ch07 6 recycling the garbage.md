@@ -20,7 +20,7 @@ source_text: ch07
 ### 结构列表
 
 1. **七十岁的遗忘**：作者自述的健忘与丢三落四，以及随之而来的对神经退行性疾病的恐惧。
-2. **痴呆症的数字**：五千万人患痴呆，预计 2050 年达一亿三千万；在英格兰与威尔士已超过心脏病成为首要死因。
+2. **痴呆症的数字**：五千万人患痴呆，预计 2030 年达七千八百万、2050 年达一亿三千九百万；在英格兰与威尔士已超过心脏病成为首要死因。
 3. **阿尔茨海默病的表现**：从记忆与辨认的丧失，到最终失去自我意识与语言能力。
 4. **蛋白质折叠的物理原理**：疏水氨基酸藏内、亲水氨基酸朝外，折叠由热力学倾向驱动。
 5. **家庭物品的类比**：新买的次品、使用中的损伤、老化过时、季节性需求——蛋白质的问题与此同构。
@@ -56,13 +56,12 @@ source_text: ch07
   | 溶酶体是「城中垃圾回收中心」 | 类比 | 自噬系统处理大体积残余 |
   | de Duve 发现溶酶体与自噬 | 发现史 | 细胞自我消解机制的发现 |
   | Ohsumi 在酵母中筛出十二个自噬必需基因 | 实验 | 自噬是可被遗传学解析的主动过程 |
-  | 猪尾蛔虫幼虫可进入 dauer 状态存活数月 | 案例 | 细胞可在极低代谢下维持功能 |
   | ISR 增强改善小鼠病理，ISR 抑制改善阿尔茨海默记忆 | 双向实验 | 同一机制在不同状态下作用相反 |
   | ISRIB 在脑损伤一个月后给药仍有效 | 实验 | 记忆恢复的时序观察 |
   | 神经退行性疾病随年龄升高且由自身蛋白功能障碍引起 | 分类 | 蛋白质错误折叠是共同病理机制 |
-  | Gajdusek 发现朊病毒病 | 医学史 | 一种仅由蛋白单独致病的疾病，确证「蛋白可致病」 |
+  | Gajdusek 证明 kuru 具传染性；Prusiner 随后分离出传染因子并确认它是蛋白 | 医学史 | 一种仅由蛋白单独致病的疾病，确证「蛋白可致病」 |
 
-- **论证脉络：以作者的衰老焦虑与痴呆症数据建立问题的重要性 → 交代蛋白质折叠的物理基础 → 用家庭物品的类比引入「质量管理」的概念 → 指出细胞与家庭的关键差异（协同工作要求）→ 逐一列举蛋白质缺陷的四种来源（错译、折叠失败、解链、糖化）→ 介绍第一道防线（伴侣蛋白）与第二道防线（泛素-蛋白酶体）→ 转向大体积残余的自噬-溶酶体系统 → 由 de Duve 与 Ohsumi 的发现补完机制 → 说明自噬的正常发育功能（房屋翻新的比喻）→ 描述 ISR 的作用机制（交通堵塞的比喻）→ 提出 ISR 效果的方向性依赖（增益与抑制各有实验支持）→ 用刹车比喻解释其双重性 → 交代产业动向 → 以交响乐团总结蛋白质协同的要求 → 引出朊病毒病研究史。
+- **论证脉络**：以作者的衰老焦虑与痴呆症数据建立问题的重要性 → 交代蛋白质折叠的物理基础 → 用家庭物品的类比引入「质量管理」的概念 → 指出细胞与家庭的关键差异（协同工作要求）→ 逐一列举蛋白质缺陷的四种来源（错译、折叠失败、解链、糖化）→ 介绍第一道防线（伴侣蛋白）与第二道防线（泛素-蛋白酶体）→ 转向大体积残余的自噬-溶酶体系统 → 由 de Duve 与 Ohsumi 的发现补完机制 → 说明自噬的正常发育功能（房屋翻新的比喻）→ 描述 ISR 的作用机制（交通堵塞的比喻）→ 提出 ISR 效果的方向性依赖（增益与抑制各有实验支持）→ 用刹车比喻解释其双重性 → 交代产业动向 → 以交响乐团总结蛋白质协同的要求 → 引出朊病毒病研究史。
 - **可质疑处**：
   1. 本章对「蛋白质错误折叠导致神经退行性疾病」的叙述在总体上被学界接受，但作者将阿尔茨海默病与帕金森病、Pick 病的共同病因归结为「我们自身蛋白的功能障碍」，这一表述较研究现状更强——就阿尔茨海默病而言，tau 与 β-淀粉样蛋白的确切致病机制至今仍有争议。
   2. 作者指出 ISRIB 改善小鼠记忆后，对结果的解释完全依赖于 Sonenberg 的「刹车常踩」这一比喻（ISR 慢性失控）。这一解释本身合理，但目前尚无直接证据表明老年人的 ISR 确实处于慢性失控状态。
@@ -87,7 +86,7 @@ source_text: ch07
 
 **中文理解**：他诙谐地把这些蛋白质命名为「陪伴者」（chaperones）。
 
-**句子结构**：省略主语的过去分词结构作插入语，修饰前面的动词（named）；these proteins 为宾语；chaperones 为宾语补足语（宾语与补足语之间有逗号隔开，构成「命名……为……」结构）。
+**句子结构**：主句为完整的主谓宾结构：主语 Ron Laskey, one of my fellow scientists in Cambridge（后接同位语）；谓语 humorously named；宾语 these proteins；chaperones 为宾语补足语（宾语与补足语之间有逗号隔开，构成「命名……为……」结构）。
 
 **关键词**：`humorously named`、`these proteins`、`chaperones`
 
@@ -99,7 +98,7 @@ source_text: ch07
 
 **中文理解**：就像维多利亚时代 courtship 期间的陪护人一样，这些蛋白质阻止肽链不同部分之间、以及肽链彼此之间的不当接触。
 
-**句子结构**：主句为 There be 结构的隐含主语 these proteins（这些蛋白）；谓语 prevent；宾语 improper interactions；between...and... 介词短语说明「不当接触」发生的位置。
+**句子结构**：主句为显性主语的主谓宾结构：主语 these proteins（这些蛋白）；谓语 prevent；宾语 improper interactions；between...and... 介词短语说明「不当接触」发生的位置。
 
 **关键词**：`Like Victorian chaperones`、`prevent improper interactions`、`between different parts of the chain`
 
@@ -165,7 +164,7 @@ source_text: ch07
 
 **表达方式**：以 It is not unlike（这与……并无不同）作弱化否定，避免过于肯定的类比；a symphony orchestra（交响乐团）作为全章的总结意象，指向协调与协作；all the instruments 与 all have to（双重 all）强调无一例外。
 
-**为什么这样写**：交响乐团是作者全书的标志性比喻（他还将在后续章节中用它来对照细胞内部的无指挥状态）。这个比喻的最终功能是把本章的机制描述升华为一个整体论断：蛋白质并非各自独立工作，而是像乐团一样必须同步；任何一部分失准，整个演出就崩塌。衰老因而不是某个蛋白的故障，而是乐团整体的走调。
+**为什么这样写**：交响乐团是作者全书的标志性比喻（同一段紧接着的下一句就写「如同某些现代乐团，没有指挥」）。这个比喻的最终功能是把本章的机制描述升华为一个整体论断：蛋白质并非各自独立工作，而是像乐团一样必须同步；任何一部分失准，整个演出就崩塌。衰老因而不是某个蛋白的故障，而是乐团整体的走调。
 
 ## 词汇分级
 
@@ -213,7 +212,7 @@ source_text: ch07
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | neurodegenerative diseases | 神经退行性疾病 | "We all face the prospect of suffering from neurodegenerative diseases that cause us not just to forget but also to completely lose our sense of who we are." |
-| accumulation | 积累 | "Cells have an elaborate sensor to detect the buildup of unfolded proteins." |
+| the buildup of unfolded proteins | 未折叠蛋白的堆积 | "Cells have an elaborate sensor to detect the buildup of unfolded proteins." |
 | a prion | 一种朊病毒 | "misfolded, scrapie version of the protein acts as a mold, or template, and induces each normal prion protein it encounters to switch to the misfolded version." |
 | autophagy | 细胞自噬 | "De Duve coined the term autophagy, from the Greek for “self-eating,” because the cell was digesting away parts of itself." |
 | digest | 消化；分解 | "He and his Leuven colleagues found they were full of digestive enzymes that would break down any of the major constituents of living matter." |

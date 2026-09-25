@@ -15,7 +15,7 @@ source_text: ch09
 - **字符数**：约 38,839 字符（去空白）
 - **一句话主旨**：长寿并非由上百个小基因拼凑而成，而可能由少数几条主通路控制——在线虫中这是 IGF-1，在酵母中这是 Sir2；但从这些发现通向「青春永驻」的道路，最终被 sirtuin 学派的红酒神话与其自身的实验缺陷所阻断。
 
-本章由一个统计问题开篇：丹麦双胞胎研究显示人类寿命的遗传度仅约 25%，且被认为由大量微效基因累加而成。而 1996 年该研究进行时，一种低等线虫已在推翻这一图景。全章以 Brenner 培养的秀丽隐杆线虫（Caenorhabditis elegans）为主线：Johnson 筛出 age-1 突变体使寿命加倍；Kenyon 筛出 daf-2 使寿命翻倍；Ruvkun 阐明 daf-2 编码 IGF-1 受体，从而把通路机制落实为一条激酶级联（daf-2 → … → daf-16）。线虫研究随即外推到果蝇（CHICO）、小鼠（胰岛素受体单拷贝敲除）与人类（阿什肯纳兹犹太百岁老人中 IGF-1 功能受损突变富集）。作者随即拆解一个陷阱：这些通路虽能延寿，但长寿个体在繁殖竞争上并不占优——这正印证了拮抗多效性与可弃体质理论。第二个主角是二甲双胍：作者亲自造访 Steve O'Rahilly 实验室厘清胰岛素与 IGF-1 的关键差异（胰岛素像快艇、半衰期四分钟；IGF-1 像油箱船，且限食不会导致 IGF-1 通路式的脂肪释放），从而说明为何 IGF-1 通路的药物极难开发。最后是本章最具警示意味的部分：Guarente 与 Kenyon 因发现 SIR2 突变在《Nature》撰文预言「衰老是一种可被治愈的疾病」并创办 Elixir Pharmaceuticals，Sinclair 的白藜芦醇与红葡萄酒故事随之而来；但 Kennedy 与 Kaeberlein 的复核证明白藜芦醇的效应实为荧光检测分子的假象，2013 年 NIA 的系统评测也未发现任何延寿作用，Glaxo 最终关闭该部门。Guarente 本人把线虫寿命增幅从 50% 下调到约 15%。
+本章由一个统计问题开篇：丹麦双胞胎研究显示人类寿命的遗传度仅约 25%，且被认为由大量微效基因累加而成。而 1996 年该研究进行时，一种低等线虫已在推翻这一图景。全章以 Brenner 培养的秀丽隐杆线虫（Caenorhabditis elegans）为主线：Johnson 筛出 age-1 突变体使寿命加倍；Kenyon 筛出 daf-2 使寿命翻倍；Ruvkun 阐明 daf-2 编码 IGF-1 受体，从而把通路机制落实为一条激酶级联（daf-2 → … → daf-16）。线虫研究随即外推到果蝇（CHICO）、小鼠（胰岛素受体单拷贝敲除）与人类（阿什肯纳兹犹太百岁老人中 IGF-1 功能受损突变富集）。作者随即拆解一个陷阱：这些通路虽能延寿，但长寿个体在繁殖竞争上并不占优——这正印证了拮抗多效性与可弃体质理论。第二个主角是二甲双胍：作者亲自造访 Steve O'Rahilly 实验室厘清胰岛素与 IGF-1 的关键差异（胰岛素像快艇、半衰期四分钟；IGF-1 像油箱船，且限食不会导致 IGF-1 通路式的脂肪释放），从而说明为何 IGF-1 通路的药物极难开发。最后是本章最具警示意味的部分：Guarente 与 Kenyon 因发现增加 SIR2 表达可延长线虫寿命、在《Nature》撰文预言「衰老是一种可被治愈的疾病」并创办 Elixir Pharmaceuticals，Sinclair 的白藜芦醇与红葡萄酒故事随之而来；但 Kennedy 与 Kaeberlein 的复核证明白藜芦醇的效应实为荧光检测分子的假象，2013 年 NIA 的系统评测也未发现任何延寿作用，Glaxo 最终关闭该部门。Guarente 本人把线虫寿命增幅从 50% 下调到约 15%。
 
 ### 结构列表
 
@@ -64,13 +64,13 @@ source_text: ch09
   | 长寿线虫在繁殖竞争中输给野生型 | 实验 | 拮抗多效性与可弃体质理论得到验证 |
   | 二甲双胍在糖尿病患者中延长寿命，且延长幅度大于他汀 | 观察 | 二甲双胍值得作为抗衰候选药物研究 |
   | 二甲双胍在年长线虫中反而缩短寿命、并削弱运动益处 | 实验 | 抗衰效果高度依赖给药时机与对象 |
-  | SIR2 突变使线虫寿命增加约 50% | 实验 | sirtuin 通路与寿命相关 |
+  | 增加 Sir2 表达延长线虫寿命（作者后将其修正为约 15%）；使 Sir2 突变的线虫寿命缩短 | 实验 | sirtuin 通路与寿命相关 |
   | 白藜芦醇对 SIRT1 的效应依赖荧光检测分子 | 复核 | 核心早期结论建立在实验假象上 |
   | 2013 年 NIA 系统评测：白藜芦醇、姜黄素、绿茶提取物均无延寿作用 | 系统评测 | 各类「抗衰化合物」主张缺乏支持 |
   | 去掉其他基因改变后，Sir2 过表达在线虫与果蝇中无效 | 复核 | 早期效应实为遗传背景混杂 |
   | Guarente 将线虫寿命增幅从 50% 下调至约 15% | 数据修正 | 真实效应远小于最初报告 |
 
-- **论证脉络：以遗传度的迷题开篇 → 引入线虫作为研究工具 → Johnson 与 Kenyon 各自发现长寿突变基因 → 指出其中一次优先权被忽视的插曲 → Ruvkun 阐明 IGF-1 级联 → 外推到其他物种与人类 → 提出「精调系统难以干预」的警告 → 阐述通路之间的交叉 → 用繁殖竞争实验印证演化理论 → 转向二甲双胍并解释为何 IGF-1 通路难以药物化 → 评估其证据强度 → 进入酵母与 sirtuin 故事 → 描述从学术发现到商业炒作的完整链条 → 详述第三方复核的证伪过程 → 给出行业与个人的收场 → 保留 SIRT6 作为开放悬念。
+- **论证脉络**：以遗传度的迷题开篇 → 引入线虫作为研究工具 → Johnson 与 Kenyon 各自发现长寿突变基因 → 指出其中一次优先权被忽视的插曲 → Ruvkun 阐明 IGF-1 级联 → 外推到其他物种与人类 → 提出「精调系统难以干预」的警告 → 阐述通路之间的交叉 → 用繁殖竞争实验印证演化理论 → 转向二甲双胍并解释为何 IGF-1 通路难以药物化 → 评估其证据强度 → 进入酵母与 sirtuin 故事 → 描述从学术发现到商业炒作的完整链条 → 详述第三方复核的证伪过程 → 给出行业与个人的收场 → 保留 SIRT6 作为开放悬念。
 - **可质疑处**：
   1. 本章末尾对 SIRT6 的处理值得注意：SIRT6 缺失的小鼠在数周内死亡，作者却只引用一项「有研究认为」的延寿结论。这类「某项研究显示」式的单薄证据出现在一整章大量其他证据都有明确出处的语境中，容易让读者高估其分量。
   2. 关于 Kenyon 与 Johnson 之间的优先权，作者明确指出「an unfortunate omission」。这是可查证的史实，但作者选择将其纳入正文而非注释，意味着它在叙事中承担了「科学共同体如何对待先行者」这一主题性功能——读者应意识到这是作者的编辑判断。
@@ -131,13 +131,13 @@ source_text: ch09
 
 **中文理解**：一个高度保守的基因。
 
-**句子结构**：名词短语作表语（在本章中补足 prior to being described 或充当中心语）；a 为不定冠词；highly 为程度副词；conserved 为形容词；gene 为中心语。
+**句子结构**：该短语在原文中作名词性主语：a 为不定冠词；highly 为程度副词修饰 conserved；conserved 为形容词；gene 为中心语。
 
 **关键词**：`a highly conserved gene`
 
 **表达方式**：以高度保守（highly conserved）标记一个跨物种存续的基因；conserved 一词暗示该基因的序列在进化中几乎未变。
 
-**为什么这样写**：在发现线虫的 age-1 突变体后，作者强调了这个基因是一个高度保守的基因——也就是说，它在果蝇、线虫甚至人类中都能找到对应物。这把「线虫研究」的成果的适用范围从一种小生物扩展到了整个动物界，也是后续发现 sirtuin 在哺乳动物中同样存在的关键提示。
+**为什么这样写**：在酵母中筛出 Sir2 后，作者强调这是一个高度保守的基因——也就是说，它在果蝇、线虫甚至人类中都能找到对应物。这把「线虫研究」的成果的适用范围从一种小生物扩展到了整个动物界，也是后续发现 sirtuin 在哺乳动物中同样存在的关键提示。
 
 > **原句 6:** "The sirtuin with the most dramatic effect may actually turn out to be SIRT6."
 
@@ -175,7 +175,7 @@ source_text: ch09
 | leprechaunism | 妖精病（胰岛素受体缺陷病） | "Some of them suffer from a disease called leprechaunism, which stunts growth, and seldom reach adulthood." |
 | centenarians | 百岁老人 | "Mutations known to impair IGF-1 function are overrepresented in a study of Ashkenazi Jewish centenarians, and variants in the insulin receptor gene are linked to longevity in a Japanese group." |
 | replicative | 复制性的（指细胞分裂次数） | "This inability to divide further is called replicative aging." |
-| metabolism | 新陈代谢 | "According to another study, the drug alters our gut microbiome in a way that is at least partly responsible for its effects." |
+| gut microbiome | 肠道菌群 | "According to another study, the drug alters our gut microbiome in a way that is at least partly responsible for its effects." |
 | metformin | 二甲双胍（降糖药） | "There is a great deal of interest in metformin, a diabetes treatment." |
 | statins | 他汀类（降脂药） | "More than metformin, it was the family of cholesterol-lowering medications known as statins that dramatically reduced mortality, especially in patients with a history of cardiovascular disease." |
 | resveratrol | 白藜芦醇 | "Sinclair, collaborating with a biotech company in Boston, identified resveratrol as one of the compounds that stimulated SIRT1." |

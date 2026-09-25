@@ -15,7 +15,7 @@ source_text: ch12
 - **字符数**：约 40,647 字符（去空白）
 - **一句话主旨**：从保存器官到上传意识，社会为「不死」开出的价码远超其科学基础；真正值得关注的不是那些声称能造出永生机器的人，而是那些在已知生物学约束下、以可验证方式推进延寿科学的人。
 
-本章以大英博物馆木乃伊展的私人感受开篇——每一具木乃伊都曾是一个活过的人，由此引出「现代版的木乃伊崇拜」。冷冻保存（cryopreservation）作为一项成熟技术被首先区分出来：玻璃化冷冻能保存干细胞、胚胎与精液，这一部分无可指摘。真正的疑云从整个人体冷冻开始。Ettinger 的故事以近乎黑色幽默的方式展开：他冷冻了自己的母亲、两位妻子，死后自己也加入其中；Alcor 对全身冷冻标价二十万美元。跨人类主义者更进一步，只冻大脑并期待意识上传。作者对这些主张的反驳分为技术层面与本体论层面：技术层面，脑连接组学尚在果蝇阶段，保存人脑所需的灌注过程会杀死对象；本体论层面，把神经元当作晶体管的类比「极其天真」，因为大脑的状态是基因与蛋白质的持续执行过程，而非一张线路图——这就像用道路图推断一个国家的未来。Cardona 的补充则指出：大脑的形态本身由它与身体的关系塑造。两名真实案例（患癌少女的司法许可、棒球明星 Ted Williams 家属的争执）为冷冻提供了伦理注脚；Nectome 的「安乐死式」神经保存方案更把「概率不确定的必然死亡」摆上台面。章节后半转向 Aubrey de Grey——前数学家 turned 老年学家，提出「逃逸速度」概念与 SENS 七项方案，却遭到二十八位老年学家联名反驳，以及 Richard Miller 关于「飞猪」的著名戏仿。作者以「既然衰老已解决，不如去解决猪不会飞的问题」这一讽刺，暴露了该领域的轻率。最后以 David Sinclair 为例，说明一位真正的顶尖科学家也可能因过度自我宣传而损害学术信誉。
+本章以大英博物馆木乃伊展的私人感受开篇——每一具木乃伊都曾是一个活过的人，由此引出「现代版的木乃伊崇拜」。冷冻保存（cryopreservation）作为一项成熟技术被首先区分出来：玻璃化冷冻能保存干细胞、胚胎与精液，这一部分无可指摘。真正的疑云从整个人体冷冻开始。Ettinger 的故事以近乎黑色幽默的方式展开：他冷冻了自己的母亲、两位妻子，死后自己也加入其中；Alcor 对全身冷冻标价二十万美元。跨人类主义者更进一步，只冻大脑并期待意识上传。作者对这些主张的反驳分为技术层面与本体论层面：技术层面，脑连接组学尚在果蝇阶段，保存人脑所需的灌注过程会杀死对象；本体论层面，把神经元当作晶体管的类比「极其天真」，因为大脑的状态是基因与蛋白质的持续执行过程，而非一张线路图——这就像用道路图推断一个国家的未来。Cardona 的补充则指出：大脑的形态本身由它与身体的关系塑造。两名真实案例（患癌少女的司法许可、棒球明星 Ted Williams 家属的争执）为冷冻提供了伦理注脚；Nectome 的「安乐死式」神经保存方案更把「概率不确定的必然死亡」摆上台面。章节后半转向 Aubrey de Grey——以计算机科学家出身、并非职业数学家的老年学家，提出「逃逸速度」概念与 SENS 七项方案，却遭到二十八位老年学界同行的联名反驳，以及 Richard Miller 关于「飞猪」的著名戏仿。作者以「既然衰老已解决，不如去解决猪不会飞的问题」这一讽刺，暴露了该领域的轻率。最后以 David Sinclair 为例，说明一位真正的顶尖科学家也可能因过度自我宣传而损害学术信誉。
 
 ### 结构列表
 
@@ -67,7 +67,7 @@ source_text: ch12
   | Richard Miller 的「飞猪」戏仿 | 讽刺 | 对过度自信方案的典型批评方式 |
   | Sinclair 的高调自我宣传 | 案例 | 科学家的公众形象可损害学术信誉 |
 
-- **论证脉络：以木乃伊展的私人震动开篇 → 区分成熟的冷冻保存技术与不成熟的人体冷冻 → 讲述 Ettinger 的冷冻家庭 → 说明跨人类主义的主张 → 以「无任何可信证据」为总纲分三层反驳（时间窗、连接组学、本体论）→ 引入 Cardona 的专业意见 → 指出身体与大脑的不可分割 → 追问「为将老者冷冻的意义」→ 列举真实案例与知名支持者 → 介绍 Nectome 的激进方案 → 转向 de Grey 的 SENS 方案 → 交代学界联名反驳与「飞猪」戏仿 → 引出 Lord Kelvin 的历史先例 → 提及 de Grey 的个人争议 → 以 Sinclair 作对照，说明科学家声誉的脆弱 → 提出区分「怪人」与「先知」的标准。
+- **论证脉络**：以木乃伊展的私人震动开篇 → 区分成熟的冷冻保存技术与不成熟的人体冷冻 → 讲述 Ettinger 的冷冻家庭 → 说明跨人类主义的主张 → 以「无任何可信证据」为总纲分三层反驳（时间窗、连接组学、本体论）→ 引入 Cardona 的专业意见 → 指出身体与大脑的不可分割 → 追问「为将老者冷冻的意义」→ 列举真实案例与知名支持者 → 介绍 Nectome 的激进方案 → 转向 de Grey 的 SENS 方案 → 交代学界联名反驳与「飞猪」戏仿 → 引出 Lord Kelvin 的历史先例 → 提及 de Grey 的个人争议 → 以 Sinclair 作对照，说明科学家声誉的脆弱 → 提出区分「怪人」与「先知」的标准。
 - **可质疑处**：
   1. 作者以「不只是一位科学家」的方式评判 de Grey 与 Sinclair，篇幅涉及他们的私人生活（婚外情、性骚扰指控）。这些事实虽有报道来源，但把它们与科学主张的可信度并置，容易使读者将「人品问题」直接等同于「观点错误」——作者并未论证二者之间的关联。
   2. 作者在反驳跨人类主义时所用的「神经元不是晶体管」是有效的，但这一反驳的力度取决于「未来是否会发现大脑确实可被完整模拟」。作者以「目前没有证据」立论，而反对者同样可以说「目前没有证据」并不等于「将来也不会有」——这是一个开放问题，而非已被否证的主张。
@@ -176,8 +176,8 @@ source_text: ch12
 | transhumanist | 跨人类主义者 | "Then there are the transhumanists who want to transcend our bodies entirely." |
 | singularity | 奇点（技术加速点） | "computer scientist Ray Kurzweil, best known for his prediction that in 2045 we will reach the singularity where machines will become more intelligent than all humans combined" |
 | connectomics | 连接组学（神经连接图谱科学） | "Mapping all the neurons in a brain is an emerging science called connectomics." |
-| immortality | 不朽；永生 | "It is of cosmic importance to preserve our consciousnesses and minds and spread them throughout the universe." |
-| senescent | （细胞）衰老的 | "De Grey has learned enough biology to pinpoint many of the things that go wrong as we age." |
+| immortality | 不朽；永生 | "Then there are the transhumanists who want to transcend our bodies entirely. But they don’t want humanity as we know it to end before we have figured out a way to preserve our minds and consciousnesses indefinitely in some other form." |
+| aging | 衰老 | "De Grey has learned enough biology to pinpoint many of the things that go wrong as we age." |
 | decrepit | 破旧的；衰败的 | "Moreover, if we wait until we age and die, we would be pickling an old, decrepit brain, not the finely tuned machine of a twenty-five-year-old." |
 | embalming | 防腐（处理） | "In 2018, a San Francisco company called Nectome was reported to have plans to do exactly that to human beings: infusing a mixture of embalming chemicals into the carotid arteries in the neck—killing the customer immediately in the process." |
 | hawk | 兜售；沿街叫卖 | "They would often make the most tenuous connection with some genuine research finding to hawk their" |

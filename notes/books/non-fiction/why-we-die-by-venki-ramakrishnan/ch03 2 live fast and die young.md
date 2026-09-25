@@ -23,7 +23,7 @@ source_text: ch03
 2. **巨杉与紫杉**：树能活上千年以上，但其寿命计算方式与动物不同。
 3. **可再生的类树生物**：水螅、灯塔水母与断肢重生的海星——看似不死，实则更接近植物。
 4. **「生物学上不死」的严格定义**：不死不等于不会死，而只是死亡概率不随年龄增长。
-5. **标尺的建立**：体型大者寿命长，根源在于代谢率（Kleiber 定律，¼ 幂或 ⅔ 幂）。
+5. **标尺的建立**：体型大者寿命长，根源在于代谢率（Kleiber 定律，¾ 幂或 ⅔ 幂）。
 6. **心跳的恒定预算**：哺乳动物一生约十五亿次心跳，汽车约十五万英里；West 半开玩笑地问这是否意味共同机制。
 7. **标尺的自然边界**：体型与代谢率各有其物理上限，寿命因此有天花板；但人类预期寿命翻倍而最大寿命仍约一百二十岁。
 8. **熵的反对意见**：多数生物学家不接受热力学第二定律被生硬套用，因为生命体不是封闭系统。
@@ -46,7 +46,7 @@ source_text: ch03
   |------|------|------|
   | 巨杉存活逾 1,300 年、某些紫杉逾 3,000 年 | 数据 | 寿命跨度可以极其巨大；但树的寿命计算方式与动物不同（可由扦插克隆延续） |
   | 水螅可无限再生组织，灯塔水母受伤后回到发育早期阶段 | 研究 | 存在生物学上近乎不老的物种，但机制与人类衰老不可直接类比 |
-  | Kleiber 定律：代谢率随体重的 ¼（或 ⅔）次幂变化 | 定律 | 体型与寿命的关联有可量化的生理基础 |
+  | Kleiber 定律：代谢率随体重的 ¾（或 ⅔）次幂变化 | 定律 | 体型与寿命的关联有可量化的生理基础 |
   | 哺乳动物一生心跳约 15 亿次，汽车约 15 万英里、引擎总转数亦约 15 亿次 | 类比 | 存在一条统计上的寿命预算，但尚不能确定是否反映共同机制 |
   | 体重低于约 1 公斤时，哺乳动物体型与寿命的关系消失 | 研究 | 标尺有明确的适用边界，且此边界与「会飞的动物」相关 |
   | Austad 与 Fischer 统计数百种动物，得出 longevity quotient（LQ） | 指标设计 | 用单一比值将跨物种寿命归一化，便于识别离群物种 |
@@ -197,7 +197,7 @@ source_text: ch03
 
 **表达方式**：以 do（确实）强调「会衰老」这一事实，just（只是）则限定衰老的程度；两个限定词看似矛盾，实则共同完成对「慢」与「有」的分别确认。
 
-**为什么这样写**：这句是作者在拆解「可忽略衰老＝永生」这一误解时的核心一击。它把「衰老」和「死亡」解耦——「会衰老」和「寿命长」是两回事，一个八十岁的人类与一只八百岁的海龟都在衰老，只是速率不同。这个区分对于理解「延寿」的真实含义至关重要：延长的是尺度，不是取消这个过程。
+**为什么这样写**：这句是作者在拆解「可忽略衰老＝永生」这一误解时的核心一击。它把「衰老」和「死亡」解耦——「会衰老」和「寿命长」是两回事，一个八十岁的人类与一只两百岁的象龟都在衰老，只是速率不同。这个区分对于理解「延寿」的真实含义至关重要：延长的是尺度，不是取消这个过程。
 
 > **原句 12:** "How such an animal can survive for about 250 years is still a mystery."
 
@@ -249,7 +249,7 @@ source_text: ch03
 | recaptured | 重新捕获（同一只被环志的个体） | "A male of the species was recaptured in the wild forty-one years after it was originally banded." |
 | band | 为动物加环志 | "A male of the species was recaptured in the wild forty-one years after it was originally banded." |
 | scavenger | 食腐动物 | "Greenland sharks swim more slowly than a normal eighty-year-old human walks, and they seem to be scavengers, rather than catching prey." |
-| dwell | 居住；栖息 | "The champion is Brandt’s bat, a small, brown animal that fits comfortably in the palm of your hand." |
+| sea dweller | 海生动物 | "If the hydra is remarkable, it is related to another sea dweller that can age backward—at least metaphorically." |
 
 ### ⭐ 基础
 

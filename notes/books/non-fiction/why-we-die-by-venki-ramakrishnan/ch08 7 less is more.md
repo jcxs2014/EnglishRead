@@ -15,7 +15,7 @@ source_text: ch08
 - **字符数**：约 31,026 字符（去空白）
 - **一句话主旨**：限制热量摄入几乎在所有被测物种中延长健康寿命，而这一效应最终被追溯到一个具体的分子——TOR 通路；雷帕霉素能模拟限食效应，但它是免疫抑制剂，因此「抗衰药」与「免疫风险」之间的取舍至今无解。
 
-本章从作者的印度背景讲起——印度教、伊斯兰教、基督教的斋戒传统，以及暴食作为一种恶习的普遍道德定位——转入代谢起源问题：人类可能演化于采集狩猎时代，偶发暴食加长期断食。肥胖流行的解释也在此被处理：流行的「节俭基因」说正在被质疑，Speakman 提出「漂移基因」说——当食物稀缺时，即便有易胖基因也极少胖，而今天充足的高热量食物才让这些基因现形。核心实验证据在限食（CR）一节：1917 年即有实验，长期被忽视；啮齿动物限食可延寿 20–50%；但 2009 年威斯康星大学与 2014 年 NIA 的恒河猴研究得出相反结论——已经健康的动物再限食并无额外益处。睡眠与进食时间的关系也在此提出：把进食限制在白天（鼠类本该睡觉的时间）所得的「额外益处」其实来自睡眠被破坏。作者随即转向关键发现：自 1964 年起，科学家们追踪一种土壤细菌的次级代谢产物，它既抑制真菌、又是免疫抑制剂、又是抗癌药——这就是雷帕霉素，以复活节岛 Rapa Nui 命名。其作用靶点的发现历经曲折（酵母遗传筛选、基因命名 TOR、mTOR 名称之争），最终由 Hall 证明：TOR 通过感知营养物质主动推动细胞生长，而限食则是通过关闭 TOR 来实现的。作者以蒸汽机车与汽车的区别解释这一「主动性」的发现，并以机场枢纽图描述 TOR 在细胞代谢网络中的中心地位。
+本章从作者的印度背景讲起——印度教、伊斯兰教、基督教的斋戒传统，以及暴食作为一种恶习的普遍道德定位——转入代谢起源问题：人类可能演化于采集狩猎时代，偶发暴食加长期断食。肥胖流行的解释也在此被处理：流行的「节俭基因」说正在被质疑，Speakman 提出「漂移基因」说——当食物稀缺时，即便有易胖基因也极少胖，而今天充足的高热量食物才让这些基因现形。核心实验证据在限食（CR）一节：1917 年即有实验，长期被忽视；啮齿动物限食可延寿 20–50%；但 2009 年威斯康星大学的研究随后被 NIA 一项历时二十五年的恒河猴研究否定——已经健康的动物再限食并无额外益处。睡眠与进食时间的关系也在此提出：把进食限制在白天（鼠类本该睡觉的时间）所得的「额外益处」其实来自睡眠被破坏。作者随即转向关键发现：自 1964 年起，科学家们追踪一种土壤细菌的次级代谢产物，它既抑制真菌、又是免疫抑制剂、又是抗癌药——这就是雷帕霉素，以复活节岛 Rapa Nui 命名。其作用靶点的发现历经曲折（酵母遗传筛选、基因命名 TOR、mTOR 名称之争），最终由 Hall 证明：TOR 通过感知营养物质主动推动细胞生长，而限食则是通过关闭 TOR 来实现的。作者以蒸汽机车与汽车的区别解释这一「主动性」的发现，并以机场枢纽图描述 TOR 在细胞代谢网络中的中心地位。
 
 ### 结构列表
 
@@ -43,9 +43,9 @@ source_text: ch08
 22. **免疫学的悖论**：抑制移植排斥却改善免疫功能。
 23. **警示与产业动向**：感染风险、疫苗前需停药两周，以及未被解开的取舍。
 
-### 结构：
+## 论证结构
 
-> **核心论点**：限食之所以能延长寿命，是因为它关闭了 TOR——一个在营养充足时主动推动细胞生长的核心分子。若能仅关闭 TOR 而不减少饮食摄入，就可获得限食的全部益处而无其痛苦；雷帕霉素正是这样的一种药，但因其免疫抑制作用，临床应用前景受限。
+- **核心论点**：限食之所以能延长寿命，是因为它关闭了 TOR——一个在营养充足时主动推动细胞生长的核心分子。若能仅关闭 TOR 而不减少饮食摄入，就可获得限食的全部益处而无其痛苦；雷帕霉素正是这样的一种药，但因其免疫抑制作用，临床应用前景受限。
 
 - **证据链**：
 
@@ -62,7 +62,7 @@ source_text: ch08
   | 雷帕霉素同时改善某些免疫指标 | 矛盾证据 | 该药并非单纯的免疫抑制剂 |
   | 疫苗前需停药两周以免抑制免疫应答 | 限制条件 | 抗衰与免疫之间存在真实张力 |
 
-- **论证脉络：以斋戒的普遍性建立「少吃有益」的直觉 → 追溯代谢的演化背景 → 处理肥胖流行的解释之争 → 界定限食的实验证据与争议 → 引出睡眠作为关键变量 → 交代限食的反例与反对意见 → 转入复活节岛土壤样本的故事 → 雷帕霉素的发现与被搁置 → 巴塞尔三人组的合作与 TOR 基因的发现 → 名称之争的小插曲 → Hall 关于「生长主动性」的范式转变 → 以蒸汽机车与汽车解释这一转变 → 描述 TOR 作为代谢枢纽的地位 → 说明 TORC1 的营养感知 → 阐明 TOR 与自噬的相反作用 → 由此得出限食＝关闭 TOR → 展示雷帕霉素在多种生物中的效果 → 呈现免疫学的悖论与临床风险 → 以「取舍未决」收束。
+- **论证脉络**：以斋戒的普遍性建立「少吃有益」的直觉 → 追溯代谢的演化背景 → 处理肥胖流行的解释之争 → 界定限食的实验证据与争议 → 引出睡眠作为关键变量 → 交代限食的反例与反对意见 → 转入复活节岛土壤样本的故事 → 雷帕霉素的发现与被搁置 → 巴塞尔三人组的合作与 TOR 基因的发现 → 名称之争的小插曲 → Hall 关于「生长主动性」的范式转变 → 以蒸汽机车与汽车解释这一转变 → 描述 TOR 作为代谢枢纽的地位 → 说明 TORC1 的营养感知 → 阐明 TOR 与自噬的相反作用 → 由此得出限食＝关闭 TOR → 展示雷帕霉素在多种生物中的效果 → 呈现免疫学的悖论与临床风险 → 以「取舍未决」收束。
 - **可质疑处**：
   1. 本章对限食效果的正面呈现，主要建立在啮齿动物与酵母实验之上，而作者自己也承认在多数受试小鼠中限食反而缩短寿命、在恒河猴中效果存疑。读者应把这些数据视为「机制上的可能性」而非「已确证的人体效益」。
   2. 作者提到 NIA 研究中对照组并非自由进食（ad libitum），而是被定量喂养以防肥胖。这确实削弱了两个研究的可比性，但作者并未深入说明两研究在饲料成分与喂养方式上的具体差异，读者难以判断矛盾的真实来源。
@@ -75,7 +75,7 @@ source_text: ch08
 
 **中文理解**：我们并没有演化出节制饮食的倾向。
 
-**句子结构**：这是一个省略 we have 的片段（原文为 nor we have not evolved to be abstemious 的分句形式）；主语 we；否定副词 not；谓语 evolved to be + 形容词。
+**句子结构**：这是 and 连接的并列分句（前半为 we now live in a time of plentiful food）；本分句结构完整：主语 we；助动词 have；否定副词 not；谓语 evolved to be + 形容词。
 
 **关键词**：`not evolved to be abstemious`
 
@@ -111,7 +111,7 @@ source_text: ch08
 
 **中文理解**：TOR 就是那个踩着油门踏板以确保可用营养被用于驱动细胞生长的司机。
 
-**句子结构**：主句 TOR is the driver that presses on the gas pedal...；that 从句修饰 driver；to ensure that... 为不定式短语作目的状语，内含 that 从句；available nutrients 为后置定语修饰 nutrients。
+**句子结构**：主句 TOR is the driver that presses on the gas pedal...；that 从句修饰 driver；to ensure that... 为不定式短语作目的状语，内含 that 从句；available 为置于名词前的形容词性前置定语，修饰 nutrients。
 
 **关键词**：`the driver`、`presses on the gas pedal`、`to ensure that available nutrients are used`
 
@@ -159,7 +159,7 @@ source_text: ch08
 
 **中文理解**：有必要提出一点警示。
 
-**句子结构**：there be 句型（省略 there is）；a note of caution 为主语；is warranted 为系动词短语（warrant = 使……有正当理由）。
+**句子结构**：主句为显性主语的主系表结构：主语 a note of caution；系动词 is + warranted（过去分词作表语，warrant = 使……有正当理由）。
 
 **关键词**：`a note of caution`、`is warranted`
 
@@ -211,7 +211,7 @@ source_text: ch08
 | metabolic | 代谢的 | "Perhaps our metabolism evolved to adapt to that lifestyle." |
 | rejuvenate | 使恢复年轻；使焕发青春 | "Another study, from 2009, showed that administering rapamycin in mice rejuvenates aging hematopoietic stem cells, the precursors of the cells of the immune system, and boosts the body’s response to the influenza vaccination." |
 | B cells | B 细胞 | "There are two important components of our immune system: one is B cells" |
-| dramatic | 戏剧性的；显著的 | "Strikingly, even short courses of rapamycin" |
+| strikingly | 显著地；引人注目地 | "Strikingly, even short courses of rapamycin, or initiating treatment relatively late in the life of mice" |
 | vaccine | 疫苗 | "Another study, from 2009, showed that administering rapamycin in mice rejuvenates aging hematopoietic stem cells, the precursors of the cells of the immune system, and boosts the body’s response to the influenza vaccination." |
 
 ## 一句话总结

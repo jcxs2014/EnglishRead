@@ -230,7 +230,7 @@ source_text: ch01
 | coping strategies | 应对（痛苦处境）的策略 | "He classifies our coping strategies into four plans." |
 | euphemisms | 委婉说法 | "And when someone dies, we struggle to acknowledge that straightforwardly, and instead use euphemisms such as “passed away” or “departed,” which suggest that death is not final but merely a transition to something else." |
 | reincarnated | 转世重生的 | "Hindus and Buddhists gladly embrace Plan C, and the idea that each person has an immortal soul that lives on after death by being reincarnated in a new body, even in a completely different species." |
-| the elixir of life | 长生不老药 | "He turned his attention to seeking the elixir of life." |
+| the elixir of life | 长生不老药 | "he turned his attention to seeking the elixir of life." |
 | terra-cotta | 陶土的；陶制的 | "The tomb contained an army of 7,000 terra-cotta warriors and horses—all meant to guard the deceased emperor until he could be reborn." |
 | mausoleum | 陵墓 | "Qin also ordered the construction of a city-sized mausoleum for himself in Xian, employing 700,000 men in the process." |
 | skepticism | 怀疑态度 | "The growth of rationality and skepticism means that although many of us still hang on to some forms of Plans B and C, deep down we have become less sure they are real alternatives." |
