@@ -81,17 +81,29 @@ modified: "2026-09-25"
 
 ### 第三幕：相机落地——"I ruin everything"
 
-> **原句 7:** "Oh my god. Oh my god. Tell me it's okay."
+> **原句 7:** "Oh my god. Oh my god," she repeats over and over.
 
-**中文理解**：天啊，天啊。告诉我没事的。
+**中文理解**：Mackenzie 不停地重复"天啊，天啊"。
 
-**关键词**：tell me it's okay
+**关键词**：Oh my god（天啊）
 
-**为什么这样写**：Mackenzie 吓坏了——她最害怕的事情发生了，镜头摔坏了。她立刻问"没事吧"，因为她知道这个相机是 Oliver 的重要工具。
+**为什么这样写**：Mackenzie 吓坏了的反应——她最害怕的事情发生了。不停重复是因为她太震惊了。
 
 ---
 
-> **原句 8:** "I broke it. I'm so sorry, Ollie. I'm so sorry. I didn't mean-"
+> **原句 8:** "Tell me it's okay."
+
+**中文理解**：告诉我没事的。
+
+**关键词**：Tell me it's okay
+
+**为什么这样写**：Mackenzie 立刻问"没事吧"，因为她知道这个相机是 Oliver 的重要工具。她最害怕弄坏别人的东西。
+
+**读者视角提示**：注意原文中"she repeats over and over"和"Tell me it's okay"是分开的两句引语。
+
+---
+
+> **原句 9:** "I broke it. I'm so sorry, Ollie. I'm so sorry. I didn't mean-"
 
 **中文理解**：我把它摔坏了。对不起，Ollie。对不起。我不是故意的——
 
@@ -101,7 +113,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 9:** "I ruin everything," Mackenzie screams back at me.
+> **原句 10:** "I ruin everything," Mackenzie screams back at me.
 
 **中文理解**：我破坏一切。我摔坏所有东西。我毁掉一切！
 
@@ -111,7 +123,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 10:** "Don't you dare say that, Mackenzie."
+> **原句 11:** "Don't you dare say that, Mackenzie."
 
 **中文理解**：你不许那样说你自己，Mackenzie。
 
@@ -121,7 +133,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 11:** "I hate that she's feeling like this. I hate that she feels this guilty over something that can easily be replaced."
+> **原句 12:** "I hate that she's feeling like this. I hate that she feels this guilty over something that can easily be replaced."
 
 **中文理解**：我讨厌她有这种感觉。我讨厌她因为一个完全可以替换的东西而这么内疚。
 
@@ -131,7 +143,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 12:** "I crouch down at her level, gripping her wrists in my hands."
+> **原句 13:** "I crouch down at her level, gripping her wrists in my hands."
 
 **中文理解**：我在她面前蹲下来，双手握住她的手腕。
 
@@ -141,7 +153,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 13:** "My heart cracks."
+> **原句 14:** "My heart cracks."
 
 **中文理解**：我的心疼裂了。
 
