@@ -750,3 +750,15 @@
 - 边界本归类：Forgotten Sisters / What Grows in the Dark / Society of Lies / The Boyfriend 一律归 mystery-thriller（用户拍板前的常规判断）
 
 ---
+
+### [2026-09-25 15:50 UTC] [ZCode-Mac] → All
+
+**books: 归档 Batch B 12 本（九月经典 + Athill + 短篇合集）**
+
+- novels/ +3: Jane Eyre(Brontë,经典) / Pride and Prejudice(Austen,经典) / Tomorrow in the Battle Think on Me(Marías,文学)
+- non-fiction/ +7: Living to Tell the Tale(Márquez 自传) / After a Funeral / Alive Alive Oh / Don't Look at Me Like That / Letters to a Friend / Somewhere Towards the End / Stet(Diana Athill 回忆录/书信, 全 6 本)
+- short-story-anthologies/ +2: That Glimpse of Truth(Head of Zeus) / Real Life: Short Stories 2002(Dani Couture ed.,与在库长篇同名不同书,用 -2002-anthology 区分 slug)
+- 排除: 100 Great Short Stories(已在库同名 Dover 版 → 视同已归档); Very Short Stories(Sean Hill 同名已在库, 用户拍板不归档); A Ghost a Day 365 True Tales(下一批)
+- 全部 cp 拷贝（源目录 九月 84 文件未动）；library/ 落位 12/12；index.md +12 行；kebab 对账 288=288 零缺零幽灵
+
+---

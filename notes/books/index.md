@@ -96,6 +96,7 @@ title: 书单
 | [Inverno](books/novels/inverno-by-cynthia-zarin/) | Cynthia Zarin |
 | [The Invisible Life of Addie LaRue](books/novels/the-invisible-life-of-addie-laud-by-v-e-schwab/) | V.E. Schwab |
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
+| [Jane Eyre](books/novels/jane-eyre-by-charlotte-bronte/) | Charlotte Brontë |
 | [Kiss Slay Replay](books/novels/kiss-slay-replay-by-rachel-harrison/) | Rachel Harrison |
 | [Lace](books/novels/lace-by-shirley-conran/) | Shirley Conran |
 | [Lace II](books/novels/lace-ii-by-shirley-conran/) | Shirley Conran |
@@ -137,6 +138,7 @@ title: 书单
 | [Pictures of You](books/novels/pictures-of-you-by-josh-malerman/) | Josh Malerman |
 | [Preaching to the Choir](books/novels/preaching-to-the-choir-by-adrian-tchaikovsky/) | Adrian Tchaikovsky |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
+| [Pride and Prejudice](books/novels/pride-and-prejudice-by-jane-austen/) | Jane Austen |
 | [The Promise](books/novels/the-promise-by-damon-galgut/) | Damon Galgut |
 | [The Raven and the Reindeer](books/novels/the-raven-and-the-reindeer-by-t-kingfisher/) | T. Kingfisher |
 | [Real Life](books/novels/real-life-by-brandon-taylor/) | Brandon Taylor |
@@ -166,6 +168,7 @@ title: 书单
 | [This Thing Between Us](books/novels/this-thing-between-us-by-gus-morales/) | Gus Morales |
 | [Ticket to Mars](books/novels/ticket-to-mars-by-kieran-fanning/) | Kieran Fanning |
 | [The Tinder Box](books/novels/the-tinder-box-by-m-r-carey/) | M.R. Carey |
+| [Tomorrow in the Battle Think on Me](books/novels/tomorrow-in-the-battle-think-on-me-by-javier-marias/) | Javier Marías |
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
 | [Until August](books/novels/until-august-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
@@ -223,7 +226,9 @@ title: 书单
 | 书名 | 作者 |
 |------|------|
 | [365 Days with Self-Discipline](books/non-fiction/365-days-with-self-discipline-by-martin-meadows/) | Martin Meadows |
+| [After a Funeral: A Memoir](books/non-fiction/after-a-funeral-by-diana-athill/) | Diana Athill |
 | [Against Everything](books/non-fiction/against-everything-by-mark-greif/) | Mark Greif |
+| [Alive, Alive Oh](books/non-fiction/alive-alive-oh-by-diana-athill/) | Diana Athill |
 | [The Art of Thinking Clearly](books/non-fiction/the-art-of-thinking-clearly-by-rolf-dobelli/) | Rolf Dobelli |
 | [Becoming](books/non-fiction/becoming-by-michelle-obama/) | Michelle Obama |
 | [Books That Saved My Life](books/non-fiction/books-that-saved-my-life/) | — |
@@ -231,6 +236,7 @@ title: 书单
 | [Dark Psychology Secrets](books/non-fiction/dark-psychology-secrets-by-daniel-james-hollins/) | Daniel James Hollins |
 | [Dark Psychology Super ADVANCED](books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/) | Richard Campbell |
 | [The Dolphin in the Mirror](books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/) | Diana Reiss |
+| [Don't Look at Me Like That](books/non-fiction/dont-look-at-me-like-that-by-diana-athill/) | Diana Athill |
 | [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
 | [Down Girl](books/non-fiction/down-girl-by-kate-manne/) | Kate Manne |
 | [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
@@ -240,8 +246,10 @@ title: 书单
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |
 | [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
+| [Letters to a Friend](books/non-fiction/letters-to-a-friend-by-diana-athill/) | Diana Athill |
 | [Levels of Life](books/non-fiction/levels-of-life-by-julian-barnes/) | Julian Barnes |
 | [Living on Paper](books/non-fiction/living-on-paper-by-iris-murdoch/) | Iris Murdoch |
+| [Living to Tell the Tale](books/non-fiction/living-to-tell-the-tale-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
 | [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
 | [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
 | [Notes on Grief](books/non-fiction/notes-on-grief-by-chimamanda-ngozi-adichie/) | Chimamanda Ngozi Adichie |
@@ -251,7 +259,9 @@ title: 书单
 | [Recollections of My Nonexistence](books/non-fiction/recollections-of-my-nonexistence-by-rebecca-solnit/) | Rebecca Solnit |
 | [Red Memory](books/non-fiction/red-memory-by-tania-branigan/) | Tania Branigan |
 | [Smoke and Ashes](books/non-fiction/smoke-and-ashes-by-amitav-ghosh/) | Amitav Ghosh |
+| [Somewhere Towards the End](books/non-fiction/somewhere-towards-the-end-by-diana-athill/) | Diana Athill |
 | [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
+| [Stet: An Editor's Life](books/non-fiction/stet-an-editors-life-by-diana-athill/) | Diana Athill |
 | [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
 | [The Fame Lunches](books/non-fiction/the-fame-lunches-by-daphne-merkin/) | Daphne Merkin |
 | [To the City](books/non-fiction/to-the-city-by-alexander-christie-miller/) | Alexander Christie-Miller |
@@ -274,6 +284,8 @@ title: 书单
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
+| [Real Life: Short Stories (2002)](books/short-story-anthologies/real-life-short-stories-2002-anthology/) | Dani Couture (ed.) |
+| [That Glimpse of Truth](books/short-story-anthologies/that-glimpse-of-truth-by-head-of-zeus/) | Head of Zeus Ltd. |
 | [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
