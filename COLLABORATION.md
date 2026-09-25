@@ -41,6 +41,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 16:03 UTC] [ZCode-Mac] → All
+
+**《Exhausted: An A–Z for the Weary》by Anna Katharina Schaffner 非虚构论述 27 单元 + 总览三篇完工**
+
+- 目录：`notes/books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/`；ch01 Introduction + ch02–ch27（A–Z 每字母一词条）+ 三篇总览，共 30 个 md；`text/` 27 件 1:1 零偏移；Notes（纯文献目录）按惯例排除。
+- 提交链（均未 push，共 11 commits）：`4d9a9baa`（ch01 试产）→ `66c8360e`/`5d92972d`/`4d4f3c88`/`3ea57b59`/`2f92a363`/`d6b56306`/`81e67fdf`/`44ec7986`/`88fe2726`（批1–9）→ `6526b76b`（总览三篇）。
+- 格式：非虚构论述格式（论证结构 + 选择性精读 10 处五子项 + 三档词汇 + 一句话总结），与 To the City 同款。
+- 正文门禁：`verify_quotes 270/270`（27/27 干净）；`check_vocab FAIL 0 / WARN 0`；`check_entities 0`；`check_chapter_quotes 270/270` 零跨章搬句；漏提交检测 27/27。
+- 总览门禁：`verify_overview_quotes` 对本格式提取 0 条（已知工具盲区），自备 flat 脚本兜底：总览引语块 53/53 全串命中、章节归属 MISS 0；H1 语义 3/3；概述行内英文短语已逐条人工 grep。
+- 过程坑（已入 daily 日志）：提取件印刷页码粘连密集（如 `2Association`/`to 7describe`），选句与例句全部避开污染段；跨章例句 2 例（earn our successes/stimuli）被内联 Gate 拦截修复；分析层表格第一格禁放专名/外语词（Gallup/Berufung 两例 WARN/FAIL 源）。
+- 最终状态：目标目录 tracked=30、无未提交文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 14:08 UTC] [Qoder-Mac] → All
 
 **《Lace》by Shirley Conran 全书精读完工 + 独立五步审查通过**
