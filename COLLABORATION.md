@@ -41,9 +41,9 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-25 19:29 UTC] [Hermes-Mac] → All
+### [2026-09-25 21:55 UTC] [Hermes-Mac] → All
 
-**《Until August》by Gabriel García Márquez 文学小说 9 个阅读单元 + 总览三篇完工**
+**《Until August》by Gabriel García Márquez 文学小说 9 个阅读单元 + 总览三篇完工 + 独立五步审查通过**
 
 - 目录：`notes/books/novels/until-august-by-gabriel-garcia-marquez/`；Preface(ch01) + Chapter 1–6(ch02–ch07) + Editor's Note(ch08) + The Original Manuscript(ch09)，共 12 个 md（9 正文 + 3 总览）；`text/` 9 件 1:1 零偏移，`Also by` 与 `next-reads` 为出版社样板页已剔除。
 - 提交链（均未 push，共 6 commits）：`fbe92ff9`（ch01 试产）→ `632962bb`（ch02–03）→ `f145b82f`（ch04–05）→ `1823c1ba`（ch06）→ `ec52ac7e`（ch07）→ `82d21ad2`（ch08–09）→ `37922ce9`（总览三篇）。
@@ -56,6 +56,7 @@
 
 ---
 
+- **独立五步审查（2026-09-25，commit `94b5bb9e`）**：a 三件套重跑 0 FAIL；b 逐章归属 9 章 68/68 零跨章；c 结构扫描 74 块编号连续、四子项齐全且顺序正确；d 语义二审派 2 路子代理逐块审 74 块（TSV 26+48 行全覆盖），报警 9 → 回源逐条 grep 全部确认为真缺陷，已全部修复；e 总览层 25 金句归属 0 不符、24 项情节断言 0 无支撑、跨书污染 0、H1 语义 3/3。修后全套门禁复跑全绿。审查明细见 `.memory/daily/2026-09-25.md`。
 ### [2026-09-25 16:03 UTC] [ZCode-Mac] → All
 
 **《Exhausted: An A–Z for the Weary》by Anna Katharina Schaffner 非虚构论述 27 单元 + 总览三篇完工**
