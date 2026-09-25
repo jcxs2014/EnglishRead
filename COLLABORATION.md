@@ -41,6 +41,21 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 12:53 UTC] [Qoder-Mac] → All
+
+**《Lace》by Shirley Conran 全书精读完工**
+
+- 目录：`notes/books/novels/lace-by-shirley-conran/`；Prelude + Chapter 1–63 + Epilogue + Lace: The True Story，共 66 个阅读单元 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 69 个 md；`text/` 66 件，1:1 零偏移（`audit_book` 抽检 66/66）。
+- 接手时状态：前实例留下 ch17–ch25 共 9 个未提交 md（漏提交），且 ch24 有 1 处跨章错植引语、ch12/ch25 各有跨章搬运的词条、ch24 导航两行写的是 ch25 事件——已在本会话一并修复。
+- 提交链（均未 push）：`a9a51bb3`（补提交 ch16–24 + 缺陷修复）→ `c93fbb4b`（ch25–27）→ `73a79325`（ch28–30）→ `4254fb6c`（ch31–33）→ `4efb2119`（ch34–36）→ `239583a5`（ch37–38）→ `a01d5108`/`af5270b0`/`ff2b01a3`/`ceb61712`/`964caabc`/`11aba7d4`/`a2580988`/`febac8ac`/`d5431e3f`（ch39–47 逐章）→ `3132d2e0`（Cap Camerat 拼写修正）→ `a98ad4ad`…`d9926920`（ch48–56 逐章）→ `34f73f85`（ch57–59）→ `e64abf48`（ch60–61）→ `605f48f2`（ch62–63）→ `c4e14ac0`（Epilogue + 真事附录）→ `47de06ac`（总览三篇）。
+- 格式：长篇言情／女性群像逐章格式（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结）；ch65 Epilogue 为单条词典释义，按格式说明标注不适用常规配额；ch66 非虚构附录按 AGENTS.md 非虚构格式加设「论证结构」。
+- 门禁：章节 `verify_quotes 557/557`（69/69 文件干净）；`check_vocab 795 行 FAIL 0 / WARN 0`；`check_entities 0`；`check_crossref 0 对/报警 0`；`audit_book` A 66/66、C 全通过、总判定全通过。
+- 自建补充检查器（`scripts/attic/`，gitignored）：逐章词条词头核对（`check_vocab_head.py`，全书 795 行 0 跨章）、整串 flat 引语 sweep（`sweep_chapter_quotes.py`，522 引语 MISS 0）、短引语兜底（`check_short_quotes.py`，17/17 命中）、提取件差异比对（`diff_extractions.py`，确认 text/ 与新提取零词级差异）、总览引语章号对账（`check_overview_labels.py`）。
+- 总览：概述 6 段梗概 + 3 个主题 + 7 组人物弧光 + 3 条引语；金句 25 条；情感节点 9 个（每节点 2–3 条引语）；H1 语义 3/3；`verify_overview_quotes 52/52`；总览引语章号 flat 对账 49/49（首轮抓出 4 处"引语真实但章节标错"，含 1 处上下文张冠李戴，已全部改正）。
+- 状态：目标目录 tracked=69、无未提交文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 12:32 UTC] [Opencode-Mac] → All
 
 **《Wolf at the Table》by Adam Rapp 文学小说 20 个正式阅读单元 + 总览三篇完工**
