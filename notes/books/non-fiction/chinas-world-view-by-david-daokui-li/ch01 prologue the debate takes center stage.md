@@ -193,7 +193,6 @@ source_text: ch01
 | ulterior | 隐藏的；不可告人的（动机） | "Most importantly, I am fully aware that readers in the West may not trust me, since they may perceive me as being too close to the Chinese government, with ulterior motives to promote China." |
 | detachment | 超脱；独立不倚 | "This detachment allows me to make my own observations and judgment calls." |
 | trepidation | 恐惧；不安 | "To do so, I first explore China’s place as “number two” in the world—mostly economically—and how China’s large population, non-Western political and economic institutions, and huge potential for growth cause trepidation among many observers outside China." |
-| audacious | 大胆的；胆大妄为的 | "Many young people have become increasingly vocal in expressing their views online, and an outsider might be surprised to see how audacious they are." |
 | misjudgments | 误判 | "My worries about conflict stemming from misunderstandings and misjudgments between China and the West were heightened by the life experience of one young American friend and former colleague." |
 
 ### ⭐⭐ 进阶
@@ -211,9 +210,9 @@ source_text: ch01
 | gulf | 鸿沟；鸿沟般的差距 | "Throughout the past decade, I have witnessed the widening gulf of misunderstanding between China and the West, especially the United States." |
 | reputation | 名声；声誉 | "Reputation-wise, I am running a significant risk of being attacked in China as a “traitor trying to please Westerners.”" |
 | implication | 含义；可能带来的影响 | "It was common for many Canadians and Westerners to wonder whether China’s time was indeed coming and what implications this would have for their lives." |
-| assessment | 评估；判断 | "There, top executives of a specific industry have told me that they value my assessment of what is really going on in China so that they can make important strategic decisions." |
-| strategic | 战略的；战略层面的 | "There, top executives of a specific industry have told me that they value my assessment of what is really going on in China so that they can make important strategic decisions." |
 | postretirement | 退休后的 | "It has resulted in as many as four hundred million fewer people being born, a rapidly aging population, and pressure on society as two pairs of aging couples now often rely on one young couple to support their postretirement life." |
+| value / assessment / strategic | 看重；评估；战略层面的（此处 value 为动词用法） | "There, top executives of a specific industry have told me that they value my assessment of what is really going on in China so that they can make important strategic decisions." |
+| vocal / audacious | 直言不讳的；大胆的 | "Many young people have become increasingly vocal in expressing their views online, and an outsider might be surprised to see how audacious they are." |
 
 ### ⭐ 基础
 
@@ -225,8 +224,6 @@ source_text: ch01
 | audience | 听众；观众 | "The distinguished audience included former Canadian prime minister Brian Mulroney, former US secretary of defense William Cohen, and many leading writers and thinkers from the United States and China." |
 | rise | 崛起；上升 | "The key message of this book is very simple: The rise of China is not a threat to the rest of the world, and in fact, will provide many global benefits." |
 | truth | 真相；事实 | "Regardless of the truth, the threat of China had suddenly been perceived to be real and present by many people in the United States." |
-| value | 看重；珍视（此处为动词用法） | "There, top executives of a specific industry have told me that they value my assessment of what is really going on in China so that they can make important strategic decisions." |
-| vocal | 直言不讳的；声音大的 | "Many young people have become increasingly vocal in expressing their views online, and an outsider might be surprised to see how audacious they are." |
 | explicit | 明确的；显性的 | "This also has broad implications for Chinese society, as explicit and implicit rules have emerged to deal with extreme online views." |
 
 ## 一句话总结

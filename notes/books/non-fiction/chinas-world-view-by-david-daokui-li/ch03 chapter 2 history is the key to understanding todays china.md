@@ -215,34 +215,30 @@ source_text: ch03
 | grossly | 严重地；过分地（grossly overstate = 大为夸大） | "This statement grossly overstates the glory of China’s economic history." |
 | archives | 档案；档案馆藏 | "We spent years exploring the archives of the Chinese national library, recording the physical output of grain, paper, iron, coal, and artistic items such as porcelain, to reconstruct the total GDP of various Chinese dynasties." |
 | arable | 可耕种的 | "The reason for this was very simple: The rapid increase in population outpaced the growth of arable land and capital, so that on the per capita level, capital and land were declining." |
-| chronic | 长期的；慢性的 | "With the chronic decline in per capita income, extreme poverty and a surplus of agricultural labor took root." |
+| chronic / take root | 长期的；扎根的 | "With the chronic decline in per capita income, extreme poverty and a surplus of agricultural labor took root." |
 | cede | 割让（领土） | "Taiwan was first taken away from mainland China after the First Sino-Japanese War of 1895, when it was ceded to Japan as part of a huge war settlement." |
 | paramount | 至高无上的；最重要的 | "The determination to bring Taiwan and Hong Kong under the mainland’s sovereignty, which is a tricky and sophisticated concept, is paramount." |
-| domineering | 专横的；盛气凌人的 | "At a risk of oversimplification, my observation is that most people recognize that the United States is and remains the most powerful and domineering country in the world." |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| well-choreographed | 精心编排的（此处指鸿门宴式的杀局） | "All of Xiang Yu’s advisors told him to assassinate Liu Bang at a well-choreographed banquet, but Xiang lacked a killer’s instinct." |
-| a killer’s instinct | 杀手的本能／决断 | "All of Xiang Yu’s advisors told him to assassinate Liu Bang at a well-choreographed banquet, but Xiang lacked a killer’s instinct." |
+| well-choreographed / a killer’s instinct | 精心编排的（杀局）／杀手的本能 | "All of Xiang Yu’s advisors told him to assassinate Liu Bang at a well-choreographed banquet, but Xiang lacked a killer’s instinct." |
 | an informal accountability measure | 一种非正式的问责机制 | "As such, the weight of historical judgment acts as an informal accountability measure in the Chinese political system." |
 | disarray | 混乱；失序 | "China remained in disarray until the Communist Party assumed national power in 1949, and from this historical perspective, the Communist Party is recognized as a hero among many people of China." |
-| take root | 扎根；根深蒂固 | "With the chronic decline in per capita income, extreme poverty and a surplus of agricultural labor took root." |
 | fended off | 击退；挡住（进攻） | "Instead, powerful dynasties successfully fended off invasions, mostly from the north, and then made peace with the invaders by various means, including marrying off royal princesses to heads of the northern powers." |
 | rips open | 撕开（伤口） | "That’s why any indication of Hong Kong moving toward independence rips open yet another deep wound, bringing historical trauma to the surface." |
 | plagued with | 饱受……困扰 | "Rather, he would be constantly plagued with blame for the two unfortunate episodes that occurred on his watch: the US invasion of Iraq in 2003 and the global financial crisis in 2008." |
 | humiliation | 屈辱 | "I also explain that most people in mainland China perceive the country’s modern history as starting with the Opium War (1840–1842), which was the start of the “century of humiliation.”" |
-| at a risk of oversimplification | 有过度简化之虞 | "At a risk of oversimplification, my observation is that most people recognize that the United States is and remains the most powerful and domineering country in the world." |
+| at a risk of oversimplification / domineering | 有过度简化之虞／专横的 | "At a risk of oversimplification, my observation is that most people recognize that the United States is and remains the most powerful and domineering country in the world." |
 | dating back to | 追溯到（某个时间点） | "Our findings were shocking: The per capita income of China began to decline one thousand years ago, dating back to the Song Dynasty." |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| dynasty | 王朝 | "In ancient Chinese history, it was common to have a powerful empire ruling the country for a few hundred years, followed by a period of civil war or foreign invasion, chaos, and breakup into small kingdoms." |
-| empire | 帝国 | "In ancient Chinese history, it was common to have a powerful empire ruling the country for a few hundred years, followed by a period of civil war or foreign invasion, chaos, and breakup into small kingdoms." |
-| invasion | 入侵 | "Rather, he would be constantly plagued with blame for the two unfortunate episodes that occurred on his watch: the US invasion of Iraq in 2003 and the global financial crisis in 2008." |
+| dynasty | 王朝 | "The cycle would then repeat as the country was reunited again, sometimes with the help of external invaders, as was the case with the Yuan Dynasty (under the Mongolians) and the last Chinese dynasty, the Qing Dynasty founded by the Manchurians from northeastern China." |
+| invasion | 入侵 | "In ancient Chinese history, it was common to have a powerful empire ruling the country for a few hundred years, followed by a period of civil war or foreign invasion, chaos, and breakup into small kingdoms." |
 | civil war | 内战 | "One famous example is how the history behind the Peking Opera play AFarewell to My Concubine inspired Mao to keep fighting in the Chinese Civil War." |
 | republic | 共和国 | "Then the Nationalist Party overthrew the last dynasty in 1911, establishing the Republic of China." |
 | treaties | 条约 | "The last emperors of the final dynasty got into deep troubles dealing with Western powers and were forced to sign a sequence of treaties, known as the unequal treaties, authorizing concessions." |

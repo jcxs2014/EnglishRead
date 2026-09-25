@@ -244,8 +244,7 @@ source_text: ch06
 | nepotism | 任人唯亲；裙带关系 | "In an effort to avoid nepotism, in Chinese politics, a city’s leader is usually not from the area." |
 | thorny (issues) | 棘手的（问题） | "After lunch, Party Secretary Chen attended the meeting of the Communist Party’s Legal Affairs Committee, where a few thorny issues emerged." |
 | salubrious | 有益健康的；宜人的 | "The answer: salubrious." |
-| remorse | 悔恨；懊悔 | "Mr. Chen gave a very sincere and tear-jerking interview during which he expressed remorse for his corrupt behavior and admonished other government officials to remain firmly rooted in their moral principles." |
-| admonish | 告诫；规劝 | "Mr. Chen gave a very sincere and tear-jerking interview during which he expressed remorse for his corrupt behavior and admonished other government officials to remain firmly rooted in their moral principles." |
+| remorse / admonish | 悔恨；告诫 | "Mr. Chen gave a very sincere and tear-jerking interview during which he expressed remorse for his corrupt behavior and admonished other government officials to remain firmly rooted in their moral principles." |
 | savvy | 老练的；精明的 | "As a capable and savvy official, Mr. Chen was familiar enough with Chinese politics to know that superb job performance would not be enough to secure a promotion." |
 | coveted | 令人觊觎的；垂涎的 | "Of the two, party secretary is the more coveted position for the simple reason that the party secretary is the number one official of the region." |
 | brimming with | 充满（活动、事务） | "Their schedules are brimming with banquets and investment forums, events that help them build relationships with businesses that might invest in their region." |

@@ -335,8 +335,8 @@ source_text: ch10
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | dynamic | 活跃的；有活力的 | "Private businesses are the most dynamic forces behind China’s economic growth" |
-| jobs | 工作；就业岗位 | "accounting for over 75 percent of the country’s economic output and 90 percent of nongovernment employment." |
-| output | 产出 | "accounting for over 75 percent of the country’s economic output" |
+| jobs | 工作；职位 | "In the mid-1990s, as the saying goes, a wave of government officials took the “leap into the ocean,” quitting their government jobs and entering the business world" |
+| output | 产出 | "accounting for over 75 percent of the country’s economic output and 90 percent of nongovernment employment." |
 | venture | 商业风险；事业 | "His US experience and education clearly proved beneficial in his business ventures." |
 | joint venture | 合资企业 | "Shanghai Automobile Industrial Company (SAIC) and Volkswagen (VW) of Germany formed a joint venture." |
 | contract | 合同 | "Ultimately, Mr. Cao was awarded a contract to produce fifty thousand bumpers" |

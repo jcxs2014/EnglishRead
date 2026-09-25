@@ -295,15 +295,14 @@ source_text: ch09
 |---|---|---|
 | majority shares | 多数股权 | "transform most SOEs into mixed-ownership companies with majority shares held by nongovernment entities" |
 | monopoly | 垄断（企业/行业） | "The first type of SOEs is large monopolies managed mostly by the central government." |
-| debt | 债务 | "it can use these assets as collateral to issue debt" |
+| debt | 债务 | "Recent Olympics have proven to be enormously unprofitable and can burden a city with debt for many years." |
 | relocate | 迁居；搬迁 | "In exchange, my grandparents were given some cash and relocated to a distant suburb of Nanjing" |
 | stake | 权益（的） | "As a result, the government is already a huge stakeholder in every enterprise, not just SOEs." |
-| chairman | 董事长 | "This gives the government the authority to appoint the chairman of the board, fill top management positions, and approve key decisions." |
+| chairman / board | 董事长；董事会 | "This gives the government the authority to appoint the chairman of the board, fill top management positions, and approve key decisions." |
 | oil | 石油 | "PetroChina, one of the top ten national oil companies in the world, is a state-owned enterprise that was listed on the New York Stock Exchange between 2000 and 2022." |
 | share | 股份 | "in which the government holds the largest number of shares." |
 | pension | 养老金 | "as pension fund managers do" |
 | tax | 税收 | "Although tax revenue tends to fluctuate with the macroeconomy, in an economic crisis, if the government already owns assets—even minority shares—it can use these assets as collateral to issue debt or simply sell some of the shares to help balance the budget." |
-| board | 董事会 | "This gives the government the authority to appoint the chairman of the board, fill top management positions, and approve key decisions." |
 
 ## 一句话总结
 

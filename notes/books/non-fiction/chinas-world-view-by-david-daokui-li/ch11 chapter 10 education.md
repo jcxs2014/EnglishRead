@@ -245,9 +245,8 @@ source_text: ch11
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| subsidiaries | 子公司（复数）；（喻）附属体 | "In contrast, Chinese kids are lifetime unlimited subsidiaries of their parents, never spinning off from their parents’ balance sheets." |
+| subsidiaries / balance sheet | 子公司（复数）；资产负债表 | "In contrast, Chinese kids are lifetime unlimited subsidiaries of their parents, never spinning off from their parents’ balance sheets." |
 | spin-offs | 剥离出的独立体（复数） | "children are limited subsidiaries of their parent companies, becoming spin-offs when they reach independence at age eighteen to twenty." |
-| balance sheet | 资产负债表 | "In contrast, Chinese kids are lifetime unlimited subsidiaries of their parents, never spinning off from their parents’ balance sheets." |
 | ostracized | 被排斥的；被疏远的 | "lower-achieving students are often teased and ostracized by schoolmates or even teachers" |
 | secluded | 被隔离的 | "Before the test, all who were involved in designing the exam questions are secluded in a hotel until the exams conclude." |
 | rigid (rubric) | 僵硬的（评分标准） | "The Chinese education system rewards students who succeed based on a rigid academic rubric early on" |
