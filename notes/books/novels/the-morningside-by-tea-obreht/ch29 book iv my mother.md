@@ -97,7 +97,7 @@ modified: "2026-09-25"
 | take his chances | 赌一把 | I could tell he was ready to take his chances. |
 | decency | 体面、善良 | But he had a firm belief in the decency of people. |
 | reservations | 顾虑 | I wouldn't say that Sil's father had no reservations—he wasn't stupid. |
-
+| desperate | 绝望的 | But when people are desperate and afraid, they get cruel. |
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
@@ -114,7 +114,6 @@ modified: "2026-09-25"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | brave | 勇敢的 | nobody was brave enough to admit that we never heard from them again |
-| desperate | 绝望的 | But when people are desperate and afraid, they get cruel. |
 | assuring | 使安心的 | to reassure themselves |
 | bribes | 贿赂 | officials and liaisons had taken bribes from neighboring countries |
 | show | 门面 | For show, of course. |
