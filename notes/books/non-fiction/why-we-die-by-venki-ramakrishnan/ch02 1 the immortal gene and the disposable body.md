@@ -247,7 +247,7 @@ source_text: ch02
 | fecundity | 繁殖力；生育率 | "Exactly as these theories would predict, mutations that increase life span reduce fecundity (the rate at which an organism produces offspring)." |
 | the disposable soma hypothesis | 可弃体质假说 | "Similarly, the disposable soma hypothesis posits that an organism with limited resources must apportion them between investing in early growth and reproduction and prolonging life by continuously repairing wear and tear in the cell." |
 | strongly selected against | 受到强烈的反向选择 | "A mutation that is harmful early in life, each realized, would be strongly selected against because those who carry it would not reproduce." |
-| a harried parent | 被育儿事务缠身的父母 | "although, of course, as any harried parent knows, there could have been many other reasons why having fewer children extends life expectancy" |
+| a harried parent knows | 疲于育儿之事者深知 | "although, of course, as any harried parent knows, there could have been many other reasons why having fewer children extends life expectancy" |
 | menopause | 更年期；绝经 | "THE INCREASE IN OUR LIFE span over the last century brings us to another curious feature of aging that is almost unique to humans: menopause." |
 | the grandmother hypothesis | 祖母假说 | "The grandmother hypothesis for the origin of menopause takes the idea one generation further." |
 | intergenerational conflict | 代际冲突 | "Another idea, based on studying killer whales, one of the few species that, like humans, has true menopause and lives in groups, is that menopause is a way to avoid intergenerational conflict." |
@@ -262,7 +262,7 @@ source_text: ch02
 | a limb | （人的）四肢之一 | "Sometimes the reverse is also true: suppose we were to lose a limb in an accident." |
 | bankrupt | 破产 | "I am reminded of the quote from Hemingway’s The Sun Also Rises, in which a character is asked how he went bankrupt, and he replies, “Two ways. Gradually, then suddenly.”" |
 | transplant | 移植 | "We can donate entire organs, and they work just fine in someone else if transplanted quickly enough." |
-| a fetus | 胎儿 | "only long after that, with the development of a nervous system and its brain, can the growing fetus sense pain." |
+| a growing fetus | 生长中的胎儿 | "only long after that, with the development of a nervous system and its brain, can the growing fetus sense pain." |
 | embryo | 胚胎 | "Although we think of birth and death as instantaneous events—in one instant we come into existance and in another we cease to exist—the boundaries of life are blurry." |
 | spawn | 产卵；繁殖 | "On the other hand, the reproductive behavior of salmon is a result of their life cycle: they have to swim thousands of miles in the ocean before returning to spawn." |
 | clones | 克隆体（遗传上完全相同的个体） | "This kind of reproductive behavior makes sense for worms, which usually live as inbred clones and are therefore genetically identical to their offspring." |

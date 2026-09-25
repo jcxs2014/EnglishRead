@@ -224,8 +224,8 @@ source_text: ch03
 | the wear and tear of being alive | 活着这件事本身的磨损 | "he argues that, according to the evidence, aging and mortality result from the wear and tear of being alive." |
 | negligible senescence | 可忽略的衰老（死亡率不随年龄上升） | "The biologist’s term negligible senescence, which means little or no increase in mortality, has been interpreted popularly to mean “eternal life,” but this is a bit of a misnomer." |
 | Inexorable forces of entropy | 不可阻挡的熵增之力 | "Inexorable forces of entropy—a measure of disorder—that push in the direction of disorder and disintegration press against that dream of immortality." |
-| a scaling law | 一条标度定律 | "Geoffrey West declares that just knowing the size of a mammal, he could use scaling laws to estimate almost everything about it: from its food consumption, to its heart rate, to its life span." |
-| longevity quotient (LQ) | 长寿系数（实际寿命／标度预期寿命） | "coining what they called the longevity quotient. The LQ is the ratio of the average life span of the species to what it would be if it followed the scaling laws." |
+| scaling laws | 标度定律 | "Geoffrey West declares that just knowing the size of a mammal, he could use scaling laws to estimate almost everything about it: from its food consumption, to its heart rate, to its life span." |
+| longevity quotient | 长寿系数（实际寿命／标度预期寿命） | "coining what they called the longevity quotient. The LQ is the ratio of the average life span of the species to what it would be if it followed the scaling laws." |
 | outperform | 表现优于；胜过 | "Nineteen mammalian species outperform us: eighteen species of bat and the naked mole rat." |
 | terminal state | 终末状态（细胞不再分裂的终末分化） | "instead of proliferating like cancerous cells, the naked mole rat cells entered a terminal state and were cleared away" |
 | beat the system | 打破（这套）规则 | "WHILE THIS RULE-OF-THUMB CONNECTION AMONG size, metabolism, and life span is fascinating, biologists tend to be more interested in the exceptions. They love to study species that beat the system, in the hopes that they can tell us something about the underlying mechanisms of aging." |
@@ -234,7 +234,7 @@ source_text: ch03
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| a riot of bluebells | 漫山遍野的蓝铃花 | "In springtime, my wife and I will often take a walk in Hardwick Wood near Cambridge to see the riot of bluebells that cover the forest ground." |
+| the riot of bluebells | 漫山遍野的蓝铃花 | "In springtime, my wife and I will often take a walk in Hardwick Wood near Cambridge to see the riot of bluebells that cover the forest ground." |
 | a stone monument | 一座石碑 | "we came upon a stone monument commemorating Oliver John Hardiment, a young man who died in 2006 at the age of twenty-five." |
 | commemorating | 纪念（正在进行分词） | "we came upon a stone monument commemorating Oliver John Hardiment, a young man who died in 2006 at the age of twenty-five." |
 | fleetingly short | 极短暂 | "As I considered the fleetingly short life of a typical butterfly, I was reminded of the contrast with something else that had fascinated me." |

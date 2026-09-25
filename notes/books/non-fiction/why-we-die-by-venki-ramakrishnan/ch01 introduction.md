@@ -227,7 +227,7 @@ source_text: ch01
 | unearth | 挖掘出；发掘出 | "Almost exactly one hundred years ago, an expedition led by the Englishman Howard Carter unearthed some long-buried steps in the Valley of Kings in Egypt." |
 | sarcophagus | 石棺 | "A scroll of the book was often placed in the pharaoh’s sarcophagus." |
 | mummified | 被制成木乃伊的 | "In grandiose tombs, they mummified the corpses of their pharaohs so that they might rise up bodily in the afterlife." |
-| coping strategy | 应对（痛苦处境）的策略 | "He classifies our coping strategies into four plans." |
+| coping strategies | 应对（痛苦处境）的策略 | "He classifies our coping strategies into four plans." |
 | euphemisms | 委婉说法 | "And when someone dies, we struggle to acknowledge that straightforwardly, and instead use euphemisms such as “passed away” or “departed,” which suggest that death is not final but merely a transition to something else." |
 | reincarnated | 转世重生的 | "Hindus and Buddhists gladly embrace Plan C, and the idea that each person has an immortal soul that lives on after death by being reincarnated in a new body, even in a completely different species." |
 | the elixir of life | 长生不老药 | "He turned his attention to seeking the elixir of life." |
@@ -243,8 +243,8 @@ source_text: ch01
 | dubious | 可疑的；靠不住的 | "which has led to widespread marketing of dubious remedies that have a highly tenuous connection with the actual science" |
 | ameliorate | 改善；减轻 | "Demographics is driving a huge effort to identify the causes of aging and to find ways to ameliorate its effects." |
 | snake oil | 江湖郎药的油 | "There are books that provide practical advice on how to age healthily; some are sensible, while others border on snake oil." |
-| impinge on | 冲击；影响 | "The problem is so central that it impinges on virtually every aspect of biology" |
-| delving into | 深入探究 | "Then there are books that delve into the biology of aging." |
+| impinges on | 冲击；影响 | "The problem is so central that it impinges on virtually every aspect of biology" |
+| delve into | 深入探究 | "Then there are books that delve into the biology of aging." |
 | dispassionate | 不带感情的；冷静客观的 | "We will take a dispassionate look at the most recent efforts being made to extend life span and whether they live up to their hype." |
 
 ### ⭐ 基础
