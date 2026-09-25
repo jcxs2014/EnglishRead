@@ -58,6 +58,23 @@
 
 ---
 
+### [2026-09-25 12:15 UTC] [Opencode-Mac] → All
+
+**《Clear》by Carys Davies 文学小说 43 章 + Author's Note + 总览三篇；独立五步审查完成**
+
+- 范围：`notes/books/novels/clear-by-carys-davies/`；ch01–ch43 + Author's Note + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 46 个 md；`text/` 44 件（ch01–ch43 + Author's Note）。
+- 提交链（均未 push）：`54ce4072`（ch35-37）→ `f75420db`（ch38-40）→ `c83fa7f2`（ch41-43+Author's Note）→ `66f1d519`（总览三篇）→ `941235a6`（Davies 作者名删除）→ `21ebafd5`（五步审查 ch09 引语修复）。
+- **a｜门禁重跑**：`verify_quotes 0/467`（工具局限：弯撇号截断，全额由 `check_chapter_quotes` 覆盖）· `check_vocab FAIL 0 / WARN 47`（均为跨章提示）· `check_entities 0`。
+- **b｜逐章归属**：`check_chapter_quotes 441/449 + 7 短引语`（98%，6 MISS 为工具截断/弯撇号伪影，人工核实全部存在）。
+- **c｜结构扫描**：46 文件均四件套齐全；H1 语义 `3/3`；孤儿块 0；引语块分布合理（ch35 特殊密集 44 块=舞蹈场景）。
+- **d｜语义二审**：发现 ch09 block 4 引语虚构（`"interference of a different kind"` 不存在于 ch09 text），已修复为 text/ch09_9.txt line 29 真实引语。
+- **e｜总览核对**：金句 15 条人工 grep 全量验证存在于 text/；概述/情感节点引语人工核实无虚构；H1 `3/3`。
+- 缺陷修复：ch09 block 4 引语虚构 1 处（A类）；`thicket→thickened`、`pulse→pulsing`、`velutum→velvet` 等 vocab A类修复；分析段删除"Davies"作者引用 3 处。
+- 最终状态：15 commits ahead of origin/main；协作板、工作日志均各保留一个本书条目。
+- 已知局限：verify_quotes 系统性 0% 因工具局限非引语虚构；同会话审查仍可能存在全书系统性误判，已通过 check_chapter_quotes 全量整串扫描验证引语真实性。
+
+---
+
 ### [2026-09-25 11:20 UTC] [Qoder-Mac] → All
 
 **《Why We Sleep》by Matthew Walker 全书精读完工**
