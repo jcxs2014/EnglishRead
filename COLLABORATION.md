@@ -958,3 +958,59 @@ H1 语义 3/3 ｜ 乱码 0 ｜ tracked 35/35 ｜ 工作树 clean
 **同会话审查的已知局限（如实标注）**：本书由本会话**同时完成写作与审查**，尽管全程强制重跑门禁 + 换检查路径 + 子代理分批逐对读，**仍可能存在全书统一性的系统性误判**——尤其「跨章引用」一类，其成因（两套编号混用）本身是系统性的，若有漏网很可能成簇而非零散。子代理报为「不可机械判定」的约 40 条中文意译型回指**未逐条人读**；「待人读」类未收敛。留给下一轮。
 
 ---
+
+### [2026-09-25 21:14 UTC] [Opencode-Mac] → All
+
+**《Floating Hotel》（Grace Curtis）完工** — `notes/books/novels/floating-hotel-by-grace-curtis/`
+
+**体裁与格式**：思辨科幻 / 文学小说（后帝国星际豪华酒店），无爱情线、无推理骨架 → 用户拍板用**精简格式**（导航 4 项 + 每章 3–8 处四子项精读 + 三档词汇 + 一句话总结）。**24 章 = 24 篇正文 md，与 `text/` 1:1、零偏移**（故无需 `source_text` frontmatter），另加总览三篇。Lamplighter 手稿节 7 篇（ch03/06/08/10/12/14/23）按体内文献体处理，编号乱序为原书设定（#49/#38/#5/#14/#26/#14/#55）。
+
+**全部 commit（16 个，本地未 push）**：
+```
+d995200a ch01 carl                      85014632 ch13 daphne
+80577563 ch02 forty years later / ch03 on gutting / ch04 uwade
+717e5379 ch05 shit movie club / ch06 riots and revolts
+619f5b5b ch07 dunk                      e12d6ade ch08 virtue and the body / ch10 aspiration and ambition
+6d5d564f ch09 professor mara azad       2c192054 ch11 mr corinth
+88e590fa ch12 death and deathlessness   64231d80 ch14 the supremacy of man / ch15 the premiere
+7579277f ch16 they                      f7bf53df ch17 lucia
+72a699ff ch18 ephraim                   e17e2f46 ch19 the grand finale
+1ae51fd9 ch20 rogan                     a36100f9 ch21 ooly mall
+e7b3c43a ch22 angouleme                 8dba7907 ch23 walking away
+e9250c98 ch24 carl again                1fc1455b 总览三篇
+```
+
+**完工门禁（全部现场重跑，raw 输出摘要）**：
+```
+verify_quotes          168/168 (100%)    完全干净文件 25/25
+check_vocab            566 行            FAIL (0) / WARN (0)
+check_entities         0
+check_chapter_quotes   24/24 章逐章      146 块零跨章搬句（全 X/X in chNN text）
+check_crossref         1 对 / 报警 0
+structure_scan         0 错误            （编号连续·四子项齐全·零孤儿·零重复·三档·零占位行）
+keyword_anchor         0 违规            （关键词英文词须命中本块引语）
+overview_check         64/64             BOOK-MISS = 0（总览层，非主脚本口径）
+8 条短引语人工兜底      全 HIT 且全在当章   + epub 命中
+金句章节标注对账        25/25 零错位
+情感节点章节归属        10/10 全 OK
+tracked 27/27 ｜ 工作树无未跟踪
+```
+
+**⚠️ 本轮真正的收获不在写完，在抓到 8 处总览层事实性缺陷**——全部是**四件套全绿下**的盲区，补救了 `verify_overview_quotes` 对本库格式提取 0 条（本库用 CIRCLED ①② 而非脚本认的格式，故该脚本对本书完全空转，我另建 `scripts/attic/overview_check.py` 兜底）：
+
+| # | 位置 | 缺陷 | 原文证据 |
+|---|---|---|---|
+| 1 | 概述 §七 | 期限写成"四个小时" | ch19 Belle 原话 `You have four days, Mr. Kravitz.` |
+| 2 | 概述 §七 | 递手帕的写成 Kipple | 崩溃的是 **Mataz**（`A single mascara-black tear... Mataz, the eternally unrumpled, seemed to fold.`） |
+| 3 | 概述 §七 / 节点九 | 客人写成三百名 | ch24 `a hundred terrified eyes` |
+| 4 | 概述 §八 / 节点七 | Kipple 出身写成"帝国情报部门" | ch24 `I wasn't born to be a person, you know. I was born to be a ruler—the seventeenth of my line.` |
+| 5 | 概述 Nina 段 | **`the greatest pleasure of my life was to be your accountant` 挂在 Nina 名下** | 该句属 **Kipple 遗书**，署 `Yours forever, KP (Kipple Pittsburgh)` |
+| 6 | 概述 Kipple 段 | 用"他"指代 Kipple | 书中通篇 **they / them**，已改中性指代 |
+| 7 | 概述 §二 | Carl 的"准则"当成其自述 | 该句是 **ch17 由 Sasha 视角给出的定义**（`The manager has mastered the art of paying enough attention to make others feel special, but not so much that they feel exposed.`） |
+| 8 | 节点二 / 节点八 | 引语跨章 + 情节误读 | `Things, never good…` 属 **ch01** 非 ch02（已换 ch02 真实引语）；"厨子想当问题解决者"是误读（Problem-Solvers 是客人投诉大会）；Sasha 并非"把宝石换自己的命"，而是交给 du Bois **换对方能留下**，书也是 du Bois 留下的不是儿子的 |
+
+**沉淀建议（值得进 AGENTS.md 盲区表）**：`verify_overview_quotes.py` 的引语提取只认它自己的编号格式，**本库统一用 `**① "..."**` + 四子项，全书提取 0 条、脚本静默空转**——"0/0 可核实"看起来像满分，其实是零覆盖。今后凡新建总览，完工通报里必须显式写出总览引语条数（本轮 64 条），否则"脚本 PASS"与"没检查"无法区分。另：`git ls-files | grep -c '\.md$'` 对含中文的文件名会因 git 的 octal 转义漏计（本轮 27 报成 24），须加 `-c core.quotepath=false`。
+
+**未做**：五步独立审查（按 AGENTS.md 第 10 条，待用户发起）。所有 16 个 commit 均本地，未 push。
+
+---
