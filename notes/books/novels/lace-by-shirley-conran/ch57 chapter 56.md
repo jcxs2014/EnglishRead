@@ -21,12 +21,12 @@ source_text: ch57
 - 中文理解："我好像已经认识你了，好像一直都认识你，"她低声说。
 - 关键词：I already know you / I've always known you — 两次 `know`，一个 `already` 一个 `always`。
 - 为什么这样写：两个时间副词一前一后，把"认识"推向一种没有来由的熟悉；`whispered` 让这句坦白小到几乎听不见。
-- 读者视角提示：读者应该在这里同时听见他几个月前在银幕前说的那句——同一个句式，两个相隔三十年的人。
+- 读者视角提示：读者应该在这里同时听见他在本章前面说过的那句“我觉得我早就认识那个女人”——同一个句式，隔着一次偶遇和一次邀请。
 
 > **原句 2:** "I feel I already know that woman," he puzzled, "although I'm sure we haven't met and I've never seen this film. Q—strange!"
 
 - 中文理解："我觉得我已经认识那个女人了，"他纳闷道，"尽管我敢肯定我们没见过的，而且我从没看过这部电影。Q——真奇怪！"
-- 关键词：I already know that woman / I'm sure we haven't met / I've never seen this film — 三个否定的对照。
+- 关键词：I already know that woman / I'm sure we haven't met / I've never seen this film — 两个否定形式与一个时间副词 already 的对照。
 - 为什么这样写：句子先断言，再用两句反证自己；`Q— strange!` 那个破折号和叹号，把一份国家级的邀请变成了一次私人冲动。
 - 读者视角提示：读者应该在这一刻明白，他爱上的是那部电影里的她，而那个版本正是 Serge 造出来的产品。
 
@@ -34,7 +34,7 @@ source_text: ch57
 
 - 中文理解：把她给我找来。
 - 关键词：四个词。
-- 为什么这样写：这是全章唯一一个不带任何限定词的句子；和前后那些犹豫的、`Oh, I suppose so`、`Why should I`形成绝对落差。
+- 为什么这样写：这是本章最直接、几乎不带限定的命令之一；和前后那些犹豫的、`Oh, I suppose so`、`Why should I`形成绝对落差。
 - 读者视角提示：一个刚刚无力的国王，只用四个字就恢复了权力——这正是全书对他全部统治方式的总结。
 
 > **原句 4:** "In his heart, Abdullah knew he would have other sons, but no other child would ever replace Mustapha—the only person Abdullah had ever loved."
@@ -56,7 +56,7 @@ source_text: ch57
 - 中文理解：不到一个小时，Lili 就意识到，这是她这辈子第二次爱上一个男人，但这一次是带着一种猛烈的激情、一种她从未体验过的全然放纵。
 - 关键词：for the second time in her life / but this time it was with a violent passion / such as she had never experienced — 一次计数和一次升级。
 - 为什么这样写：`for the second time` 把第一次推到暗处，读者只能靠猜；`but this time` 之后三个递进的形容词（violent / total abandon / never experienced）一次性把两次经验切成了两半。
-- 读者视角提示：读者应该在这里感到不安——她人生中第一次爱是十三岁被拍照片那一次。
+- 读者视角提示：读者应该在这里感到不安——原文只说这是 Lili 第二次爱上一个男人；她十三岁被拍照片的经历被写成被迫的侵害与剥削，原文没有把它称作她的第一次爱。
 
 > **原句 7:** "She was determined that nothing was going to rob her of what she had worked so hard to achieve—respect as a serious actress."
 
@@ -70,7 +70,7 @@ source_text: ch57
 - 中文理解：在 Sydon 待上一两个星期，能有多大关系呢，对吧？
 - 关键词：A week or two / could hardly matter / could it? — 一句自我安慰和一个反问。
 - 为什么这样写：整句用虚拟语气把自己劝了一遍；`could it?` 那个问号朝着读者，而不是朝着她自己的答案。
-- 读者视角提示：读者应该在这里想起四十六章结尾她走向窗户的那一步——这一回她走向的是同一扇门。
+- 读者视角提示：读者应该在这里想起她此前在“离开”与“留下”之间反复权衡的那一步——这一回她又一次用“一两个星期能有多大关系”说服了自己。
 
 ## 本章词汇
 

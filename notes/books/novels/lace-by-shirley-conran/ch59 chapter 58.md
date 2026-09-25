@@ -26,7 +26,7 @@ source_text: ch59
 > **原句 2:** "But the odd thing is that I've never once regretted what I did. I'm proud I had the strength to do it."
 
 - 中文理解：不过奇怪的地方在于，我从来没有一次后悔过自己做的事。我为自己有勇气做这件事感到骄傲。
-- 关键词：never once regretted / I'm proud / I had the strength — 八个 `I` 和一个 `never once`。
+- 关键词：never once regretted / I'm proud / I had the strength — 四次第一人称 I 和一个 never once。
 - 为什么这样写：`never once` 把"一次都没有"说得像在数日子；`But the odd thing is` 让这份骄傲自己都觉得奇怪。
 - 读者视角提示：读者应该在这里明白，她要证明的从来不是"他不好"，而是"我可以"。
 
@@ -48,15 +48,15 @@ source_text: ch59
 
 - 中文理解：Lili 是天生的演员，而且甩不掉它。天赋要求被实现；被闷住的天赋就是被闷住的人格。
 - 关键词：a born actress and she's stuck with it / talent demands fulfillment / talent stifled is personality stifled — 一个判断和一句等式。
-- 为什么这样写：句子用 `stuck with it` 把天赋说成一件甩不掉的行李；后半句用两个分号连接的两半构成等式，直接推出一个结论。
+- 为什么这样写：句子用 `stuck with it` 把天赋说成一件甩不掉的行李；后半句用一个分号连接两半，构成等式，直接推出一个结论。
 - 读者视角提示：读者应该在这里意识到 Zimmer 早就看清了，于是他给她找来一个愿意"先学好再去拍"的人。
 
 > **原句 6:** "I like you without makeup. I like seeing the real you."
 
 - 中文理解：我喜欢你没化妆的样子。我喜欢看见真的你。
-- 关键词：without makeup / the real you — 两个"真"。
+- 关键词：without makeup / the real you — 两个分句都在谈“真实”，但原文中 real 只出现一次，另一个是 without makeup。
 - 为什么这样写：句子用最短的两个分句说出全书最难得的一个要求；前面刚有一句 `Lili, my ass` 把它垫在喜剧的高点之后。
-- 读者视角提示：读者应该在这一句上停一下——她花了三十年想遇见一个不要求她表演的人，而他是用一个喜剧误会说出这句话的。
+- 读者视角提示：读者应该在这一句上停一下——她花了三十年想遇见一个不要求她表演的人，而 Simon 是直接、真诚地对她说这句话，并非喜剧误会。
 
 > **原句 7:** "Lili, my ass," grunted the cop.
 
@@ -68,9 +68,9 @@ source_text: ch59
 > **原句 8:** "You can leave without it or stay with it."
 
 - 中文理解：你可以不要这只手，也可以留下它。
-- 关键词：You can leave without it / or stay with it — 四个 `it` 指同一只手。
+- 关键词：You can leave without it / or stay with it — 两个 `it` 都指同一只手。
 - 为什么这样写：句子把"离开"和"留下"压进同一个指代里，拒绝解释；这既是邀请，也是把选择权原样交还。
-- 读者视角提示：读者应该在这里想起四十章那个在巴士车场递给她咖啡的男孩——那时他说"记住我是谁"，这一次他连名字都没提。
+- 读者视角提示：读者应该在这里想起那个在片场巴士上递给她咖啡的男孩——那时他告诉她自己叫 Simon Pont，这一次他连名字都没提。
 
 ## 本章词汇
 

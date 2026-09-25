@@ -8,11 +8,11 @@ source_text: ch63
 
 ## 本章导航
 
-- **一句话概括**：1949 年的春天，十七岁的 Judy 发现自己怀了那个不能说的孩子的孩子；堕胎不成，她便在四个女学生的共同账目下生下女儿 Elizabeth，代价是这个孩子一生都不能知道自己的生母是谁——而连护士都被要求不许对孩子说谎的方向说错一句话。
-- **情感弧线位置**：全书因果的第二块拼图；上一章交代了那件事怎么发生，这一章交代它如何变成一份持续六十年的托付。
+- **一句话概括**：1949 年的春天，十七岁的 Judy 发现自己怀了那个说不出姓名的男人的孩子；堕胎不成，她便在四个女学生的共同账目下生下女儿 Elizabeth，代价是这个孩子从小不能知道自己的生母是谁——她们还决定不把 Madame Dassin 说成孩子的亲生母亲。
+- **情感弧线位置**：全书因果的第二块拼图；上一章交代了那件事怎么发生，这一章交代它如何变成一份持续近三十年的托付。
 - **Tropes 兑现/反转**："少女未婚先孕"没有变成任何一种现成结局：她既没有堕胎，也没有留下孩子；四个人把一场灾难处理成了一份合资项目，连孩子该叫什么、由谁骗谁都被提前排定。
-- **人物弧线：Judy 从那个只会哭的女孩，变成一个当众撒谎、算清账目、并且坚持"这是我唯一一次说谎"的人；Maxine 学会了她人生第一笔账；Pagan 卖掉了她最恨的珍珠项链。
-- **叙事手法：用四笔捐款的明细（四百镑、三千六百法郎、三十法郎一周、祖传的印章戒指）替代任何抒情；用"假姐姐"这套自造的亲属关系撑起整场交接；结尾只留一声啼哭。
+- **人物弧线：Judy 从那个只会哭的女孩，变成一个在医生面前撒谎、并配合这套共同安排的人；Maxine 学会了她人生第一笔账；Pagan 卖掉了她最恨的珍珠项链。
+- **叙事手法：用三方的捐款明细（四百镑、三千六百法郎、Maxine 的三百法郎与每周三十法郎）替代任何抒情；祖传的印章戒指虽被提到却没有卖掉；用"假姐姐"这套自造的亲属关系撑起整场交接；结尾只留一声啼哭。
 
 ## 精读
 
@@ -34,7 +34,7 @@ source_text: ch63
 
 - 中文理解："那不可能，我父母都死了，"Judy 听见自己这么说。
 - 关键词：That's not possible / both my parents are dead / heard herself say — 一个双重谎言。
-- 为什么这样写：她刚用一句真话（父母双亡）去掩盖另一句假话（"姐姐 Judy Jordan"）；`heard herself say` 让读者听见她说这话时的茫然。
+- 为什么这样写：她先用“父母双亡”这个假信息挡住医生追问，再临时编出“姐姐 Judy Jordan”作掩护；`heard herself say` 让读者听见她说这话时的茫然。
 - 读者视角提示：这是全书最精密的一次用真话造假——它同时解释了为什么她必须自己写回信。
 
 > **原句 4:** "Her baby was lying there under her heart, curled up in her body. Already it had a little nose and mouth and minuscule fingers. It was her flesh and blood. She couldn't hand that to somebody else, like a parcel over a post office counter."
@@ -42,13 +42,13 @@ source_text: ch63
 - 中文理解：她的孩子正躺在她心口底下，蜷在她的身体里。它已经有一个小鼻子、一张嘴和几根极小的手指。那是她的骨血。她没法把那样东西像邮局柜台上的包裹一样交给别人。
 - 关键词：curled up in her body / her flesh and blood / like a parcel over a post office counter — 三个递进。
 - 为什么这样写：三个细节从身体到法律再到日常物件，一层层把"母亲"翻译成最普通的场景；`like a parcel over a post office counter` 那个比喻精确得让人难受。
-- 读者视角提示：读者应该在这一句里明白，她交出去的不是孩子，是名字。
+- 读者视角提示：读者应该在这一句里明白，她最终会把孩子交给寄养家庭，却保留作为母亲的联系和将来亲自抚养他的权利。
 
 > **原句 5:** "I want to keep it. I don't want to give my baby away. I would like to find my baby foster parents until I'm old enough to have a home of my own for him."
 
-- 中文理解："我想留下它。我不想把我的孩子送人。我想给我孩子找个寄养母亲，直到我年纪够大，能给他一个自己的家。"
+- 中文理解："我想留下它。我不想把我的孩子送人。我想给我孩子找寄养父母，直到我年纪够大，能给他一个自己的家。"
 - 关键词：I want to keep it / find my baby foster parents / until I'm old enough — 三个递进的时间表。
-- 为什么这样写：十个 `I` 开头把句子写成一份申请；`until I'm old enough` 把"永远"换成了一个具体的、可能兑现的期限。
+- 为什么这样写：三个以 `I` 开头的分句（连同 `I'm` 共四个第一人称形式）把句子写成一份申请；`until I'm old enough` 把"永远"换成了一个具体的、可能兑现的期限。
 - 读者视角提示：读者应该在这里听见，四个女人赌的就是这个"够大"，而这个期限最终到 Lili 问出"谁是我妈"时才到期。
 
 > **原句 6:** "If it's a girl it will be Elizabeth after my mother. If it's a boy it will be Nicholas."
@@ -103,4 +103,4 @@ source_text: ch63
 
 ## 一句话总结
 
-Chapter 63 把一章的产痛写成了四笔账和一句交代：Judy 没能堕胎，于是她生下 Elizabeth，用一个假姐姐、一张假病历和一句"不许说她是亲生母亲"把她送下山；此后六十年，Lili 追问的那个问题，其实从出生那天起就已经有人替她答过了。
+Chapter 63 把一章的产痛写成了几笔账和一句交代：Judy 没能堕胎，于是她生下 Elizabeth，用一个假姐姐身份、一封由“姐姐”署名的回信和一句“不许把 Madame Dassin 说成孩子的亲生母亲”把她送进寄养安排；此后近三十年，Lili 追问的那个问题，其实从出生那天起就已经有人替她答过了。

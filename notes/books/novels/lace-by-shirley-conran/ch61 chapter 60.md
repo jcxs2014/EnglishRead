@@ -34,7 +34,7 @@ source_text: ch61
 
 - 中文理解："你为什么不留下自己的孩子？"Lili 哭道。她跳起来，用拳头捶着自己的大腿，愤怒而无能。
 - 关键词：Why didn't you keep your child / sprang up / impotent rage — 三个动作。
-- 为什么这样写：`impotent` 这个词在她身上用得最准：她打的是自己的腿；`sprang up` 与后面跪下问 Pagan 的动作形成一个来回。
+- 为什么这样写：`impotent` 这个词在她身上用得最准：她打的是自己的腿；`sprang up` 与她刚才蹲到 Pagan 面前问“是不是亲生母亲”的动作形成一个来回。
 - 读者视角提示：读者应该在这里看见全书最重的一次错位——她恨的人刚刚证明了她也一直是受害者。
 
 > **原句 4:** "My dear girl," said Pagan, "you must let us explain what happened, you mustn't jump to conclusions. We can all guess how you feel, but please listen to us because, you see, you were frightfully important to all of us. It could have happened to any of us."

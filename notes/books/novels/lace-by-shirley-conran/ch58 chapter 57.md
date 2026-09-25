@@ -21,12 +21,12 @@ source_text: ch58
 - 中文理解：残忍是从施加痛苦中获得快感。我只在必要的时候施加痛苦，而且我从中得不到任何快感。
 - 关键词：Cruelty is finding pleasure in inflicting pain / only when it is necessary / I don't find any pleasure in it — 一个定义和一个否认。
 - 为什么这样写：句子用语法结构本身完成区分——前半句说残忍的本质，后半句用 `only` 和 `I don't` 两次否定把自己放在定义之外。
-- 读者视角提示：读者应该在这一刻停下来，因为同一章的结尾他就推翻了这个定义——他抓住她手腕时，那正是从痛苦里得到的快感。
+- 读者视角提示：读者应该在这一刻停下来，因为同一章后段他抓住她的手腕、粗暴地摇晃她并发生性关系，这与前面的自我辩护形成强烈反差；原文没有明说他从痛苦中获得快感。
 
 > **原句 2:** "However, I am certainly ruthless."
 
 - 中文理解：不过，我确实是无情的。
-- 关键词：However / certainly ruthless — 一个转折和两个副词。
+- 关键词：However / certainly ruthless — 一个转折副词、一个副词 certainly；ruthless 是形容词。
 - 为什么这样写：`However` 一个词把上一段的辩护全部推翻；`certainly` 又和上一段的 `I don't` 形成对照——他不肯承认残忍，却欣然承认无情。
 - 读者视角提示：读者应该在这两个词之间听见全书的一个分水岭：愿意谈自己冷酷的人，往往比不谈的人更危险。
 
@@ -68,8 +68,8 @@ source_text: ch58
 > **原句 8:** "You Westerners, with your endless quest for identity, you never know who you are. If you really want to know, then why don't you try to find out, instead of simply talking about it?"
 
 - 中文理解："你们西方人，一味追问身份，永远不知道自己是谁。要是你真想知道，那为什么不去查清楚，而不是光说不做？"
-- 关键词：endless quest for identity / why don't you try to find out / instead of simply talking about it — 两个反问。
-- 为什么这样写：`You Westerners` 一开口就把她整个人变成一个类别；最后那个 `instead of simply talking about it` 把"空谈"说成她唯一的习惯。
+- 关键词：endless quest for identity / why don't you try to find out / instead of simply talking about it — 一个直接问句，而不是两个反问。
+- 为什么这样写：`You Westerners` 一开口就把她整个人变成一个类别；最后那个 `instead of simply talking about it` 把"空谈"写成了她不去查明真相的替代做法。
 - 读者视角提示：读者应该在这一刻想起一年前她在 Zimmer 公寓里说过的那句"我要去见那个真的我"——他正在把她自己提出的任务，退回成一句指责。
 
 ## 本章词汇
