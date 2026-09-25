@@ -10,9 +10,9 @@ source_text: ch61_12_when_and_how_to_respond_to_microaggre.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 12 “When and How to Respond to Microaggressions”
 - **作者**：Ella F. Washington、Alison Hall Birch、Laura Morgan Roberts
 - **章节定位**：第三册第十二篇正式文章；文章定义 microaggressions，比较 let it go、respond immediately、respond later 三种回应，并提出 Discern、Disarm、Defy、Decide 框架及 non-Black allies 指南。
-- **字符数**：约 10,414 字符
+- **字符数**：约 9,164 字符
 - **一句话主旨**：微侵犯虽小，却会累积成情绪、健康和职业伤害；Black employees 不必每次都回应，但应按重要性、关系、感受和未来形象决定时机，并用澄清问题、影响说明和个人边界把回应变成保护自己的选择。
-- **核心论点**：文章不把回应微侵犯简化为立即反击，因为沉默、当面指出和事后反馈各有风险。它把当事人放在决策中心：先判断投入程度，再帮助对方 disarmed、澄清 intent、承认 impact，最后由个人决定不让事件继续夺走生活和工作。
+- **核心论点**：文章不把回应微侵犯简化为立即反击，因为沉默、当面指出和事后反馈各有风险。它把当事人放在决策中心：先判断投入程度，再帮助对方 disarm、澄清 intent、承认 impact，最后由个人决定不让事件继续夺走生活和工作。
 - **核心论点**：microaggression 的伤害来自持续、隐蔽和种族化的贬损，而不是某一句话单独造成。三种回应策略各有代价，真正有效的做法是让 Black employee 根据情境、情绪和未来需要选择，并用 Discern—Disarm—Defy—Decide 将个人反应与系统性修复连接起来。
 
 ## 论证结构
@@ -137,7 +137,7 @@ source_text: ch61_12_when_and_how_to_respond_to_microaggre.txt
 
 **中文理解**：确定你愿意投入多少精力来处理这次微侵犯。
 
-**句子结构**：祈使句 Determine 是谓语，how much of an investment... 是宾语从句，you want to make 是插入的愿望结构，in addressing... 说明范围。
+**句子结构**：祈使句 Determine 是谓语，how much of an investment... 是宾语从句，you want to make 是修饰 investment 的省略关系从句，in addressing... 说明范围。
 
 **关键词**：Determine / how much of an investment / addressing the microaggression
 
@@ -191,7 +191,7 @@ source_text: ch61_12_when_and_how_to_respond_to_microaggre.txt
 | assumption | 假设 | "racist assumptions" |
 | employee | 员工 | "an employee’s experience" |
 | health | 健康 | "physical health" |
-| mental health | 心理健康 | "psychological well-being" |
+| psychological well-being | 心理福祉 | "psychological well-being" |
 | harm | 伤害 | "at least as harmful" |
 | awareness | 意识 | "increasing awareness" |
 | prevention | 预防 | "complete prevention" |
@@ -205,7 +205,7 @@ source_text: ch61_12_when_and_how_to_respond_to_microaggre.txt
 |----------|------|--------------|
 | work | 工作 | "at work" |
 | people | 人们 | "people of color" |
-| word | 词语 | "the word" |
+| word | 词语 | "words or deeds" |
 | behavior | 行为 | "verbal, behavioral" |
 | comment | 评论 | "offensive comments" |
 | manager | 管理者 | "Black employees and managers" |

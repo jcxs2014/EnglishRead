@@ -11,7 +11,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 9 “Make Yourself Sponsor-Worthy”
 - **作者**：Sylvia Ann Hewlett
 - **章节定位**：第六册第九篇正式文章；文章用 Maggie、Sian McIntyre、Tiger Tyagarajan 和 Merrill Lynch 案例说明 performance、loyalty、differentiation、peer amplification 和 finding the right sponsor 如何把 hard work 转成 career leverage。
-- **字符数**：约 9,814 字符
+- **字符数**：约 6,384 字符
 - **一句话主旨**：赞助不是运气，而是 leader 对可验证结果、忠诚、独特价值、可见成就和有影响力盟友的综合投资；女性要让 sponsor 能看到并使用自己的 distinct value。
 - **核心论点**：Maggie 长期 110% 付出却因不 strategic 地选择对象而陷入 permanent lieutenant syndrome。Sian 的“我已交付”和 Tyagarajan 的基于价值 pushback 说明 performance 与 trust 是基础，但还必须 differentiate。
 - **核心论点**：Efficacy trumps affinity：需要的是能改变 career 的 power 和 reach，不是最像你的朋友。女性应寻找 two levels above、founder 或 inner circle 等有实际 clout 的 sponsor，并让 peers 预先互相介绍成果。
@@ -43,7 +43,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **中文理解**：我一直都付出 110%。
 
-**句子结构**：主句 I’ve always given...，now 进行时标记持续状态，110% 是程度补语。
+**句子结构**：I’ve always given 110% 使用现在完成时，always 表示持续到现在的状态；110% 是程度补语。
 
 **关键词**：always / given / 110%
 
@@ -53,9 +53,9 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 > **原句 2:** Without a sponsor to spotlight her attributes, offer her opportunities, and kick her career into high gear, she found herself stuck in what she calls “permanent lieutenant syndrome.”
 
-**中文理解**：永久中尉综合征。
+**中文理解**：没有 sponsor 替她突出属性、提供机会并让职业加速，她发现自己困在所谓的“permanent lieutenant syndrome”。
 
-**句子结构**：这是名词性短语，作为 Maggie 对 career plateau 的命名。
+**句子结构**：Without a sponsor... 是原因状语；she found herself stuck in... 是主句，what she calls “permanent lieutenant syndrome” 是名词性从句，说明她给困境起的名称。
 
 **关键词**：Permanent / lieutenant / syndrome / stuck
 
@@ -69,7 +69,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **句子结构**：现在完成时主句，delivered 是过去分词，隐含结果已实现。
 
-**关键词**：I’ve delivered / performance / stand out / targets
+**关键词**：I’ve delivered / performance
 
 **表达方式**：短句不列具体指标，用完成时保留证据已兑现，deliver 代替抽象 performance。
 
@@ -77,11 +77,11 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 > **原句 4:** “They all felt the benefit of that,” McIntyre notes, “and wanted me on board for subsequent projects.”
 
-**中文理解**：他们所有人都从中受益。
+**中文理解**：他们都感受到了其中的好处，并希望我参与后续项目。
 
-**句子结构**：主句 They felt，the benefit of that 是宾语，that 指代 delivery。
+**句子结构**：直接引语由两个并列分句组成：They all felt the benefit of that 与 they wanted me on board for subsequent projects；McIntyre notes 是说话者归属。
 
-**关键词**：felt the benefit / sponsor / subsequent projects / delivered
+**关键词**：felt the benefit / subsequent projects
 
 **表达方式**：all 扩大证据范围，benefit 将绩效转成 sponsor 的收益。
 
@@ -93,7 +93,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **句子结构**：两个分句由 and 连接，had different styles 是过去时，simply agreed to disagree 是过去时短语。
 
-**关键词**：very different styles / agreed to disagree / trust / shared values
+**关键词**：very different styles / agreed to disagree
 
 **表达方式**：different styles 先承认差异，agreed to disagree 将冲突变成可协商的共同基础。
 
@@ -115,9 +115,9 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **中文理解**：你带来什么贡献？
 
-**句子结构**：疑问句 What 作主语，do... 是助动词，bring... 表语，to the table 是介词短语。
+**句子结构**：What 是疑问代词，作 bring 的宾语；do 是助动词，bring 是谓语动词，to the table 是介词短语。
 
-**关键词**：What do you bring / the table / distinct value / extend reach
+**关键词**：What do you bring / the table
 
 **表达方式**：Bring to the table 用餐桌隐喻把价值具体化，疑问句将读者转为 sponsor 视角。
 
@@ -137,9 +137,9 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 > **原句 9:** Efficacy trumps affinity; you’re looking for an ally, not a friend.
 
-**中文理解**：效能比亲近关系更重要。
+**中文理解**：效能比亲近关系更重要；你要找的是盟友，而不是朋友。
 
-**句子结构**：主句 Efficacy trumps affinity，trumps 是系动词，affinity 是表语。
+**句子结构**：Efficacy trumps affinity 中 trumps 是谓语动词；分号后 you’re looking for... 是并列结果分句。
 
 **关键词**：Efficacy / trumps / affinity / sponsor / ally
 

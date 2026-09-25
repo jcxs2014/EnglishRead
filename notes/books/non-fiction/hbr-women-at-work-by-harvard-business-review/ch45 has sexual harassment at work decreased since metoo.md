@@ -10,8 +10,8 @@ source_text: ch54_5_has_sexual_harassment_at_work_decrease.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 5 “Has Sexual Harassment at Work Decreased Since #MeToo?”
 - **作者**：Stefanie K. Johnson、Ksenia Keplinger、Jessica F. Kirk、Liza Barnes
 - **章节定位**：第三册第五篇正式文章；文章对比 #MeToo 前后美国女性调查和访谈，区分 sexual coercion、unwanted sexual attention 与 gender harassment，分析明显性骚扰减少、敌意增加及组织和盟友行动。
-- **字符数**：约 8,226 字符
-- **一句话主旨**：#MeToo 后女性报告的明显性骚扰可能下降，但 gender harassment 和 backlash 上升；社会认知能缓冲自我怀疑，却必须由 HR、经理、男性盟友和制度保护持续支撑，才能让变化不逆转。
+- **字符数**：约 7,532 字符
+- **一句话主旨**：#MeToo 后女性报告的明显性骚扰可能下降，但 gender harassment 报告比例上升，数据提示或可能存在 backlash；社会认知能缓冲自我怀疑，却必须由 HR、经理、男性盟友和制度保护持续支撑，才能让变化不逆转。
 - **核心论点**：研究基于 250 名女性的 #MeToo 前调查、31 次访谈和之后的 263 人调查。结果显示 sexual coercion 从 25% 降至 16%，unwanted sexual attention 从 66% 降至 25%，但 gender harassment 从 76% 升至 92%；因此评价进展不能只看单一指标，还要看自评、敌意、旁观者、脆弱工人和法律保护。
 
 ## 论证结构
@@ -22,7 +22,7 @@ source_text: ch54_5_has_sexual_harassment_at_work_decrease.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 250 名女性调查、31 次访谈 | 质性／基线研究 | 建立 #MeToo 前经历和观点 |
-| #MeToo 后 263 名女性调查与回访 | 追踪调查 | 比较行为和感受变化 |
+| #MeToo 后 263 名女性调查与回访 | 后续调查（并回访部分访谈者） | 比较行为和感受变化 |
 | 前后数据：性胁迫 25% 降至 16%、非自愿性关注 66% 降至 25% | 前后数据 | 显示明显性骚扰可能下降 |
 | 前后数据：性别骚扰从 76% 升至 92% | 前后数据 | 支撑反弹效应警告 |
 | self-esteem 上升、self-doubt 下降及其关联减弱 | 调查结果 | 说明认知正常化的缓冲作用 |
@@ -40,7 +40,7 @@ source_text: ch54_5_has_sexual_harassment_at_work_decrease.txt
 
 **中文理解**：在 #MeToo 走红之前，我们调查了美国 250 名职场女性，了解性骚扰在其工作场所的普遍程度及对工作的影响；还访谈了 31 名美国女性的个人经历。
 
-**句子结构**：Before #MeToo went viral 是时间状语；主句由 and 连接 survey 和 interview 两个动名词结构；about... 和 how... 分别说明调查内容，in the U.S. 是地点状语。
+**句子结构**：Before #MeToo went viral 是时间状语；分号连接两个独立分句：we surveyed... 和 we also interviewed...，由 and 连接两个有限动词结构。
 
 **关键词**：Before #MeToo / surveyed 250 working women / pervasiveness / sexual harassment / interviewed 31 women / individual experiences
 
@@ -88,25 +88,25 @@ source_text: ch54_5_has_sexual_harassment_at_work_decrease.txt
 
 **中文理解**：相比之下，我们注意到性别骚扰报告从 2016 年女性的 76% 增加到 2018 年的 92%。
 
-**句子结构**：In contrast 是转折状语；主语 reports of gender harassment，谓语 noticed，宾语 an increase in reports；from...to... 说明起点和终点。
+**句子结构**：In contrast 是转折状语；主语 we，谓语 noticed，宾语 an increase in reports of gender harassment；from...to... 说明起点和终点。
 
 **关键词**：In contrast / increase in reports / gender harassment / from 76% / to 92%
 
 **表达方式**：In contrast 将数据方向反转，from...to... 使上升幅度可计算，reported／reports 保留报告层面的测量对象。
 
-**为什么这样写**：文章反对用一个“性骚扰下降”指标概括趋势。gender harassment 的显著增加提醒读者，公开表达可能伴随 backlash 和敌意转移。
+**为什么这样写**：文章反对用一个“性骚扰下降”指标概括趋势。gender harassment 报告比例上升提醒读者，公开表达可能伴随 backlash 和敌意转移。
 
 > **原句 6:** "This data suggests that while blatant sexual harassment—experiences that drive many women out of their careers—might be declining, workplaces may be seeing a “backlash effect,” or an increase in hostility toward women."
 
 **中文理解**：这些数据表明，虽然明目张胆的性骚扰——那些使许多女性离开职业的经历——可能正在减少，但工作场所可能正在经历“反弹效应”，即对女性的敌意增加。
 
-**句子结构**：主语 This data，谓语 suggests，that 从句说明推论；while 引导让步从句，might be declining 是主句；破折号插入解释 blatant sexual harassment，or...解释 backlash effect。
+**句子结构**：主句 This data suggests that...；while 引导让步从句，might be declining 位于该从句内；主句是 workplaces may be seeing a “backlash effect,” or an increase in hostility toward women。
 
 **关键词**：This data suggests / blatant sexual harassment / drive many women out of their careers / backlash effect / increase in hostility
 
 **表达方式**：while...might 将正面趋势写成保留判断，插入语解释严重性，or 将术语和普通解释配对，backlash effect 形成反身隐喻。
 
-**为什么这样写**：文章把“更少公开性行为”与“更多敌意”放在同一因果框架中。它要求读者关注行为形式变化，而不只是表面成功。
+**为什么这样写**：文章把“更少公开性行为”与“更多敌意”放在同一数据框架中。它要求读者关注行为形式变化，而不只是表面成功。
 
 > **原句 7:** "More important, the relationship between unwanted sexual attention and both of these outcomes (lower self-esteem, higher self-doubt) was weaker in 2018."
 
@@ -136,7 +136,7 @@ source_text: ch54_5_has_sexual_harassment_at_work_decrease.txt
 
 **中文理解**：在最基本的层面，我们仍需继续强调预防性骚扰的重要性。
 
-**句子结构**：On the most basic level 是范围状语；主语 we need to continue to highlight，宾语 the importance of preventing sexual harassment。
+**句子结构**：On the most basic level 是范围状语；主语 we，谓语 need to continue to highlight，宾语 the importance of preventing sexual harassment。
 
 **关键词**：most basic level / continue to highlight / importance / preventing sexual harassment
 

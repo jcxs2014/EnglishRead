@@ -11,7 +11,7 @@ source_text: ch138_17_how_gender_bias_corrupts_performance_.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 17 “How Gender Bias Corrupts Performance Reviews”
 - **作者**：Paola Cecchi-Dimeglio
 - **章节定位**：第六册第十七篇正式文章；文章用 annual performance review 的主观反馈、double standard 和 gender-neutral criteria 研究，说明评价制度本身会复制偏见，并提出 real-time feedback、multiple reviewers、objective criteria 和 accountability。
-- **字符数**：约 15,271 字符
+- **字符数**：约 8,708 字符
 - **一句话主旨**：女性在绩效评估中常收到更多负面的主观批评、更少具体的建设性反馈，贡献也可能被归因于运气或长工时；通过设计更频繁、客观、多元的评价系统，组织才能让女性风格和实际贡献被看见。
 - **核心论点**：annual evaluations 的主观性打开 gender bias、confirmation bias、leniency 和 halo effect；同一行为会因评价对象是女性或男性而被 spin 成相反评价。
 - **核心论点**：field experiments 显示 automated real-time tools、gender-neutral feedback、多个 reviewers 和频繁 check-ins 能减少偏见，让 collaborative／participatory leadership styles 更易被识别，并把 feedback 变成可行动的 start／stop／continue。
@@ -56,7 +56,7 @@ source_text: ch138_17_how_gender_bias_corrupts_performance_.txt
 
 **中文理解**：女性在这些评估中吃了亏，得到的评价少于应得。
 
-**句子结构**：`Women` 主语，`are shortchanged` 被动系表结构，`by these reviews` 介词短语。
+**句子结构**：Women 是主语，are shortchanged 由 are 加过去分词构成被动语态，by these reviews 是施事/来源短语。
 
 **关键词**：Women / shortchanged / these reviews
 

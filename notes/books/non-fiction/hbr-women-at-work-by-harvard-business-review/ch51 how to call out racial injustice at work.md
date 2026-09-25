@@ -10,7 +10,7 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 11 “How to Call Out Racial Injustice at Work”
 - **作者**：James R. Detert、Laura Morgan Roberts
 - **章节定位**：第三册第十一篇正式文章；文章从 Black employees 承受的更高发声风险出发，提出 collective voice、情绪调节、预判反应、对方框架和 follow-up 五种策略，帮助人们在组织内部推动种族公平。
-- **字符数**：约 11,665 字符
+- **字符数**：约 9,510 字符
 - **一句话主旨**：指出种族不公会带来职业、社会和心理风险，尤其对 Black employees；但通过盟友集体发声、先处理情绪、用问题降低防御、以共同进步而非个人反抗来框定主张，并在事后跟进，个人能提高被听见和改变的可能性。
 - **核心论点**：种族正义发声不是单靠勇气，而是一种风险管理。Detert 与 Roberts 认为 Black people 面对更高污名和职业风险，因此要借助多元盟友、调节 rage、预判对方情绪、用对方关心的语言提出改变，并在困难对话后确认资源、行动和问责。
 - **核心论点**：文章把种族不公的指出写成个人、组织和风险三者的互动问题。发声者需要勇气，但也需要策略：collective voice 降低个人被抹黑的可能，emotional regulation 防止被贴上“too emotional”标签，framing 让道德要求听起来像共同进化，follow-up 则把一次对话变成可追踪的改变。
@@ -56,7 +56,7 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 
 **句子结构**：主语 Speaking up in this way，is risky but...；studies have shown that... 是研究证据从句，beyond the realm of conversations about race 是范围状语。
 
-**关键词**：Speaking up / risky / studies have shown / vitally important / beyond the realm of race
+**关键词**：Speaking up in this way / risky / studies beyond the realm of conversations about race have shown / vitally important / beyond the realm of conversations about race
 
 **表达方式**：but 将风险和价值放在同一判断中，vitally important 强化重要性，beyond the realm 避免文章只依赖单一研究领域。
 
@@ -70,7 +70,7 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 
 **关键词**：stakes / white people / higher if you’re Black / speak up
 
-**表达方式**：As high...higher... 用重复比较突出不平等，if you’re Black 将风险差异落到身份条件，句尾 intentionally 简短。
+**表达方式**：As high...higher... 用重复比较突出不平等，if you’re Black 将风险差异落到身份条件，句尾短促。
 
 **为什么这样写**：文章把种族不公发声的策略建立在差异化风险上。不同人拥有的权力、污名和职业保护不同，个人勇气不能被当作统一标准。
 
@@ -80,9 +80,9 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 
 **句子结构**：主句 Courageous actions are rooted in...；willingness 是主语，to sacrifice... 是不定式，for the sake of... 是不定式目的状语，that... 修饰 cause。
 
-**关键词**：Courageous actions / rooted in / sacrifice security and stability / cause greater than career advancement
+**关键词**：Courageous actions / rooted in / sacrifice their security and stability / a cause that is greater than their career advancement
 
-**表达方式**：are rooted in 将勇气写成价值基础，sacrifice security and stability 与 greater than career advancement 形成现实代价和道德理想的张力。
+**表达方式**：are rooted in 将勇气写成价值基础，sacrifice their security and stability 与 a cause that is greater than their career advancement 形成现实代价和道德理想的张力。
 
 **为什么这样写**：作者承认发声需要牺牲，但立即在后文提出降低风险的方法。勇气不是忽略安全，而是知道代价后决定如何行动。
 
@@ -114,9 +114,9 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 
 **中文理解**：在掌权者面前充分展示你的愤怒或绝望，会让你因为“太情绪化”而被驳回或惩罚。
 
-**句子结构**：主语 Revealing the full extent...，谓语 sets you up，to be dismissed or punished 是不定式，for being... 是原因状语，those with power 是介词短语。
+**句子结构**：主语 Revealing the full extent...，谓语 sets you up，to be dismissed or punished 是不定式，for being... 是原因状语；those with power 是名词短语，with power 修饰 those，in front of 才是介词短语。
 
-**关键词**：full extent of rage or despair / those with power / dismissed or punished / too emotional
+**关键词**：full extent of your rage or despair / those with power / dismissed or punished / too emotional
 
 **表达方式**：full extent 将情绪强度具体化，sets you up 写成预先设置的风险结构，dismissed or punished 并列两种组织反应。
 
@@ -140,23 +140,23 @@ source_text: ch60_11_how_to_call_out_racial_injustice_at_w.txt
 
 **句子结构**：主句 Make it easier for...to see...；your message 是宾语，as coming from... 是补足语，rather than... 构成对比。
 
-**关键词：**make it easier / those you’re imploring to change / see your message / We are evolving together / rather than I am revolting against you
+**关键词**：make it easier / those you’re imploring to change / see your message / We are evolving together / rather than I am revolting against you
 
 **表达方式**：Make it easier 将框架设计写成具体影响，position of 抽象化立场，两个引号对句把共同进化和个人反抗对立。
 
 **为什么这样写**：种族公平容易被听成对领导者的攻击。作者建议把“改变对方”写成共同成长过程，但不放弃道德要求，只改变沟通包装。
 
-> **原句 10:** "After a difficult conversation, often the last thing we want to do is to go engage the same people again anytime soon."
+> **原句 10:** "If you need those people to stand with you for real change to take root, you’ll want to check in."
 
-**中文理解**：在一次困难对话之后，我们往往最不想做的事情，就是很快再次与同一个人接触。
+**中文理解**：如果你需要这些人支持你，让真正的改变扎根，你就会想要跟进确认。
 
-**句子结构**：After a difficult conversation 是时间状语，the last thing we want to do 是主语，to go engage... 是不定式，anytime soon 是时间状语。
+**句子结构**：If you need those people to stand with you for real change to take root 是条件状语从句；主句 you’ll want to check in 中，want to 后接动词原形 check in。
 
-**关键词**：After a difficult conversation / the last thing we want to do / go engage the same people / anytime soon
+**关键词**：If you need those people / stand with you / real change / take root / check in
 
-**表达方式**：the last thing we want to do 把心理倾向写成排序，the same people 强调关系对象，anytime soon 表达对再次接触的回避。
+**表达方式**：If 把跟进写成真实改变的条件，stand with you 把对方定位为共同支持者，take root 把改变写成需要扎根的过程，want to 保留行动的必要性而不替读者直接下命令。
 
-**为什么这样写**：作者反对“说完就逃”，因为敏感议题需要 follow-up 才能落实。跟进不是强迫对方马上改变，而是确认误解、承诺和下一步。
+**为什么这样写**：作者把敏感对话之后的跟进从可选礼节改成改变能否持续的条件。check in 可以澄清误解、确认承诺并推进下一步，而不是要求对方立即改变。
 
 ## 词汇分级
 

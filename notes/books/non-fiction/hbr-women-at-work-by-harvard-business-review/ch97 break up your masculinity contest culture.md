@@ -11,7 +11,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 18 “Break Up Your Masculinity Contest Culture”
 - **作者**：Jennifer L. Berdahl、Peter Glick、Marianne Cooper
 - **章节定位**：第五册第十八篇正式文章；文章提出 masculinity contest culture，归纳 Show no weakness、Strength and stamina、Put work first、Dog eat dog 四项规范，分析其对女性和少数群体的 double bind，并提出 mission-based reform 和公开拒绝 contest norms 两条行动。
-- **字符数**：约 12,643 字符
+- **字符数**：约 9,848 字符
 - **一句话主旨**：当组织把 emotional toughness、endurance、无条件工作和残酷竞争当作男性证明方式时，harassment、burnout、psychological safety 和女性 advancement 都会受损；改变文化必须让 mission 优先于 masculinity。
 - **核心论点**：masculinity 是 precarious、需要反复证明的身份；男性在感受到 threat 时会 aggressive、risk-taking、cutthroat 和 sexually harass，女性和少数群体则被要求更努力证明自己，同时因显示 dominance 而受 backlash。
 - **核心论点**：diversity initiative 不足以关掉 contest game。领导者要把安全、创新、价值观与组织 mission 相连，公开拒绝性别化规范，并保护发声者不受 retaliation。
@@ -69,7 +69,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **句子结构**：祈使句 Show 加否定宾语 weakness，句号构成规范标签。
 
-**关键词**：Show no weakness / norm / workplace
+**关键词**：Show no weakness
 
 **表达方式**：短促命令句模拟组织口头规范，no 把脆弱完全排除在合法性之外。
 
@@ -81,7 +81,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **句子结构**：名词短语由两个并列名词构成，句号使其成为规范标题。
 
-**关键词**：Strength and stamina / athletic / endurance / extreme hours
+**关键词**：Strength and stamina
 
 **表达方式**：两个强词并置制造压倒性，stamina 把工作时长和身体耐力联系起来。
 
@@ -93,7 +93,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **句子结构**：祈使句 Put 加宾语 work 和地点／顺序补语 first，句号形成标签。
 
-**关键词**：Put work first / family / break / commitment
+**关键词**：Put work first / commitment
 
 **表达方式**：动词 Put 将价值排序写入口令，first 排除生活需求。
 
@@ -105,7 +105,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **句子结构**：名词性习语作规范标签，隐喻表示互相残杀式竞争。
 
-**关键词**：Dog eat dog / ruthless competition / winners / losers / no one is trusted
+**关键词**：Dog eat dog
 
 **表达方式**：动物隐喻把办公室竞争写得残酷，winners／losers 的二分强化零和结构。
 
@@ -127,7 +127,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **中文理解**：竞争滋长未说出口的焦虑（因为承认焦虑会被视为软弱）和防御心理，削弱合作、心理安全、同事信任以及承认不确定或错误的能力。
 
-**句子结构**：主句 The competition breeds anxiety and defensiveness，because... 是原因状语，`(e.g., ...)` 举例说明 defensiveness，undermining 后接四个并列宾语。
+**句子结构**：主句 The competition breeds unspoken anxiety and defensiveness，because... 是原因状语，`(e.g., ...)` 举例说明 defensiveness，undermining 后接四个并列宾语。
 
 **关键词**：competition breeds / unspoken anxiety / seen as weak / psychological safety / admit uncertainty or mistakes
 
@@ -137,11 +137,11 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 > **原句 9:** But the game is rigged against women and minorities: Suspected of not “having what it takes,” they must work harder to prove themselves while facing backlash for displaying dominant behaviors like anger and self-promotion.
 
-**中文理解**：这场游戏从一开始就对女性和少数群体不利。
+**中文理解**：这场游戏从一开始就对女性和少数群体不利：她们被怀疑“不具备所需能力”，因此必须更努力证明自己，同时又可能因愤怒、自我宣传等支配性行为而遭到反弹。
 
-**句子结构**：主句 The game，is rigged against women and minorities 是系表结构。
+**句子结构**：前半句 The game is rigged against women and minorities 是系表结构；冒号后的 Suspected of not... 是过去分词短语，they must work harder... 是主句，while facing backlash... 是伴随/结果状语。
 
-**关键词**：game / rigged against / women / minorities
+**关键词**：game is rigged against women and minorities / suspected of not having what it takes / work harder to prove themselves / backlash / dominant behaviors
 
 **表达方式**：rigged 用预置比赛的隐喻说明结构偏向，against women and minorities 明确受影响群体。
 

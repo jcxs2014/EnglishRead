@@ -11,7 +11,7 @@ source_text: ch100_4_building_relationships_when_you_feel_e.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 4 “Building Relationships When You Feel Excluded”
 - **作者**：Brenda F. Wensil、Kathryn Heath
 - **章节定位**：第五册第四篇正式文章；文章区分 explicit／formal 与 informal／relationship-based work，说明 81% 女性经历 social exclusion，并提出 leverage informal norms、make time meaningful、suit yourself、face forward 四个策略。
-- **字符数**：约 7,409 字符
+- **字符数**：约 6,717 字符
 - **一句话主旨**：女性即使不能融入男性主导的 informal network，也可以理解组织社交规则、最大化碎片时间、选择适合自己的社交形式并保持 face-to-face presence，逐步获得 sponsor、影响力和职业 advancement。
 - **核心论点**：职业关系不只来自正式职位，也来自 coffee、after-hours events、proximity 和 informal networks。男性更常被纳入这些关系，女性则受到 exclusion、照护责任和时间限制的三重挤压。
 - **核心论点**：作者不要求女性复制男性社交习惯，而是建议先 understand rituals，再把可支配的 extraneous time 用于连接；relationship building is another part of the job，关系劳动应被视为职业工作而非私人可有可无的附加。
@@ -43,7 +43,7 @@ source_text: ch100_4_building_relationships_when_you_feel_e.txt
 
 **中文理解**：他能如此轻易地融入其中，而这些女性没有这种便利。
 
-**句子结构**：两个独立句：He could blend in so easily 是主句；These women didn’t have that luxury 是省略 had 的否定结构，that 指代前面场景。
+**句子结构**：两个独立句：He could blend in so easily 是主句；These women didn’t have that luxury 中 did、not 和动词原形 have 构成否定结构，that 指代前面的场景。
 
 **关键词**：blend in / so easily / These women / didn’t have that luxury
 
@@ -93,7 +93,7 @@ source_text: ch100_4_building_relationships_when_you_feel_e.txt
 
 **句子结构**：动名词短语 Doing less relationship building 作主语，limits 和 diminishes 是并列谓语，access to sponsorship 和 chances for career advancement 是宾语。
 
-**关键词**：less relationship building / limits access / sponsorship / career advancement
+**关键词**：less relationship building / limits women’s access to sponsorship / career advancement
 
 **表达方式**：Doing... 开头把投入不足写成原因，limits／diminishes 递进，sponsorship 与 advancement 构成职业后果链。
 
@@ -139,7 +139,6 @@ source_text: ch100_4_building_relationships_when_you_feel_e.txt
 
 **中文理解**：不要躲在手机后面。
 
-**中文理解补充**：停止躲在手机后面。
 
 **句子结构**：祈使句 Stop hiding，behind your phone 是地点／方式状语；hiding 是动名词。
 

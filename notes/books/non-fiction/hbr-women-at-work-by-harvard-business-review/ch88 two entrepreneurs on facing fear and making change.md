@@ -9,9 +9,9 @@ source_text: ch105_9_two_entrepreneurs_on_facing_fear_and_m.txt
 ## 概览
 
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 9 “Two Entrepreneurs on Facing Fear and Making Change”
-- **形式/对话嘉宾**：Stacey Abrams、Lara Hodgson 与 Emily Caulfield
+- **形式/对话嘉宾**：Stacey Abrams、Lara Hodgson；Emily Caulfield 主持
 - **章节定位**：第五册第九篇正式文章；两位创业者以 partnership、self-doubt、gender／race、sticky floor、situational／institutional change 和 inside-out strategy 说明女性创业者的恐惧管理。
-- **字符数**：约 13,602 字符
+- **字符数**：约 7,365 字符
 - **一句话主旨**：女性创始人的 self-doubt 常由真实恐惧、gender／race exclusion 和资源不平等共同驱动；不否认 warning signs，而是借助 partnership 调查恐惧、准备 danger、运用差异优势，并从 institutional 内部推动改变。
 - **核心论点**：Abrams 与 Hodgson 拒绝“必须无畏”的建议，主张 fear is real、salient 且来自具体原因。女性可以通过 partner 保持 grounded，把恐惧的根源调查清楚并转化为 preparation。
 - **核心论点**：作为女性和有色人种，创业者需要把“不同视角”变成 differentiation 和 power，同时在 situational solution 与 institutional solution 之间同时工作，进入机构内部以 inquisitor 而非 conqueror 的姿态改革。
@@ -66,7 +66,7 @@ source_text: ch105_9_two_entrepreneurs_on_facing_fear_and_m.txt
 
 **中文理解**：Lara 和我做得非常有效的一件事，就是直面恐惧。
 
-**句子结构**：主句 One thing... is to confront the fear；Lara and I 是主语，confront the fear 是表语。
+**句子结构**：主句主语是 One thing Lara and I do so effectively，is 后接表语 confront the fear；Lara and I 嵌在关系结构中，不能单独当作主句主语。
 
 **关键词**：confront the fear / effectively / Lara and I
 
@@ -138,7 +138,7 @@ source_text: ch105_9_two_entrepreneurs_on_facing_fear_and_m.txt
 
 **中文理解**：我们从内部向外工作，也从外部向内部工作。
 
-**句子结构**：两个 from...to... 方向结构并列，均以 We work 为共同主句。
+**句子结构**：这是一个单句，we 是主语，work 是谓语；from the inside out 和 from the outside in 是两个由 and 连接的介词短语，共享主谓 we work。
 
 **关键词**：inside out / outside in / work
 
@@ -152,7 +152,7 @@ source_text: ch105_9_two_entrepreneurs_on_facing_fear_and_m.txt
 
 **句子结构**：If 引导条件从句，we don’t fix or address the systemic 是条件；主句 the system just gets more hardened 是结果。
 
-**关键词**：don’t fix / systemic / system gets more hardened
+**关键词**：system gets more hardened / the system just gets more hardened / addressing the systemic
 
 **表达方式**：don’t fix or address...the systemic 把改革对象系统化，just 限定趋势，gets more hardened 用隐喻表示固化。
 

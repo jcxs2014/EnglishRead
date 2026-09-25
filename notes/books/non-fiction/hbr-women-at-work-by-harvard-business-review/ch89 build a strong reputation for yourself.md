@@ -11,7 +11,7 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 10 “Build a Strong Reputation for Yourself”
 - **作者**：Dorie Clark
 - **章节定位**：第五册第十篇正式文章；文章把 personal brand 作为 sponsor、assignment 和职业 hedge，分析女性面临的 likability conundrum，并提出 network both inside／outside、control narrative、share ideas publicly 三个策略。
-- **字符数**：约 15,291 字符
+- **字符数**：约 8,603 字符
 - **一句话主旨**：职业声誉需要被广泛的人理解，而不是只让身边同事看到；女性必须扩展 bridging network、主动讲清自己的职业叙事、公开分享知识，才能让 talents 被识别并在组织外也保持可见。
 - **核心论点**：personal branding 不是虚荣，而是让真实能力获得 sponsor、资源和机会；但女性在展示成就时会遭遇 agreeable／warm／nurturing 的 gender norms 和 aggressive／ice queen 的惩罚。
 - **核心论点**：文章把“别人会注意到努力”改成责任：女性要控制 narrative、connect past and present、用 content creation 建立 scale visibility，同时保持专业而非自我消费。
@@ -63,15 +63,15 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 
 **为什么这样写**：作者先为 gender-specific branding penalty 命名，让“太aggressive”“ice queen”等批评不再被当作个人反应，而成为可分析的社会模式。
 
-> **原句 3:** “Too many professionals overindex on ‘bonding capital’ and underinvest in ‘bridging capital.’”
+> **原句 3:** "Too many professionals overindex on “bonding capital,” to use a term popularized by Harvard sociologist Robert Putnam, and underinvest in “bridging capital.”"
 
 **中文理解**：太多 professionals 过度依赖“凝聚型资本”，却投入不足于“桥接型资本”。
 
-**句子结构**：主句 Too many professionals，overindex on... and underinvest in... 是并列谓语。
+**句子结构**：主句 Too many professionals，overindex on... and underinvest in... 是并列谓语；to use a term popularized by Harvard sociologist Robert Putnam 是插入说明，交代 bonding capital 的术语来源。
 
-**关键词**：overindex on / bonding capital / underinvest / bridging capital
+**关键词**：Too many professionals / overindex on / bonding capital / Harvard sociologist Robert Putnam / underinvest in / bridging capital
 
-**表达方式**：overindex／underinvest 用投资隐喻，both terms 引用 Putnam 框架，Too many 把问题普遍化。
+**表达方式**：overindex／underinvest 用投资隐喻，to use a term popularized by... 补出 Putnam 框架的来源，Too many 把问题普遍化。
 
 **为什么这样写**：个人品牌不能只由熟悉你的人证明。扩大跨行业、跨组织的 network 才能让声誉成为可转移资产。
 
@@ -103,7 +103,7 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 
 **中文理解**：通过 developing a clear and concise elevator pitch，帮助别人理解你的职业旅程。
 
-**句子结构**：祈使句 Help others understand...，by developing... 是方式状语，that 从句说明要理解的对象。
+**句子结构**：Help others 是带宾补足语的祈使结构；your journey 是 understand 的直接宾语，句中没有 that 从句。
 
 **关键词**：Help others understand / clear and concise / elevator pitch
 
@@ -115,7 +115,7 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 
 **中文理解**：但你知道，你在 HR 的经验教会了你如何同理倾听、理解人们的动机并开发双赢方案。
 
-**句子结构**：主句 you know，that your experience... 是宾语从句；三个 how to 结构由 and 并列。
+**句子结构**：how to 引出三个共享的不定式／原形结构：listen empathetically、understand what motivates people、develop win-win solutions。
 
 **关键词**：experience in HR / listen empathetically / motivates people / win-win solutions
 
@@ -129,7 +129,7 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 
 **句子结构**：两个分句由分号连接；not just laid out 与 have provided 对比，that 从句修饰 context。
 
-**关键词**：laid out job titles / provided context / strong personal brand
+**关键词**：laid out your job titles / provided context / strong personal brand
 
 **表达方式**：not just...you’ve... 将表面清单与 context 对照，conveys 把叙事转成他人感知。
 
@@ -151,7 +151,7 @@ source_text: ch106_10_build_a_strong_reputation_for_yoursel.txt
 
 **中文理解**：如果我们不控制自己的叙事、不向世界展示我们能贡献什么，很可能很少有人真正注意到。
 
-**句子结构**：If 引导条件从句，主句 odds are that... 是概率结构，show 并列两个动名词。
+**句子结构**：If 引导条件从句，主句 odds are that... 是概率结构；control 和 show 是两个并列的 base-form 谓语。
 
 **关键词**：control our own narratives / show the world / contribute / odds are / very few people
 

@@ -10,7 +10,7 @@ source_text: ch49_introduction_get_ready_to_speak_up.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series）导言
 - **作者**：Amanda Kersey
 - **章节定位**：第三册导言，位于女性发声、职场骚扰和领导力专题之前；作者从自己做 production assistant 时不敢发言的经历出发，解释打断、偏见、羞耻和准备如何影响女性声音。
-- **字符数**：约 2,608 字符
+- **字符数**：约 4,180 字符
 - **一句话主旨**：发声不是天生勇气，而是可以通过观察打断、理解偏见、准备语言、获得盟友和练习安全环境逐步建立的职业技能；个人策略必须与愿意倾听的管理者和团队规范结合，才能真正让声音被听见。
 - **核心论点**：作者从“我有想法却说不出来”的经历切入，指出沉默来自学习曲线、对 ridicule 的恐惧、 agreeable／passive 的性别期待和对 harassment 的无准备。发声技能需要长期练习，组织也要通过 civility、公开征询和 power 的分配创造心理安全。
 
@@ -38,7 +38,7 @@ source_text: ch49_introduction_get_ready_to_speak_up.txt
 
 **中文理解**：在第一份全职工作、担任新闻编辑室 production assistant 时，我很少在晨会上发言。
 
-**句子结构**：主语 I，谓语 rarely said，宾语 anything；during the morning in my first full-time job 是时间状语，as a production assistant... 说明身份。
+**句子结构**：during the morning meeting in my first full-time job 是时间／场景短语，in my first full-time job 是其中的背景状语；主句 I was so nervous... 保持完整主谓结构。
 
 **关键词**：rarely said anything / morning meeting / first full-time job / production assistant / newsroom
 
@@ -86,7 +86,7 @@ source_text: ch49_introduction_get_ready_to_speak_up.txt
 
 **中文理解**：对骚扰和仇恨行为即兴做出恰当回应很困难。
 
-**句子结构**：主语 Improvising an appropriate response，is difficult 是系表结构；to harassment and hate 是不定式说明回应对象。
+**句子结构**：主语 The organization，is likely to respond... 是主句；to harassment and hate 是介词短语，说明 response 的对象，不是目的不定式。
 
 **关键词**：Improvising / appropriate response / harassment and hate / difficult
 
@@ -98,7 +98,7 @@ source_text: ch49_introduction_get_ready_to_speak_up.txt
 
 **中文理解**：我不仅在会议中贡献意见；我也主持会议。
 
-**句子结构**：not just contribute...I run... 是省略主语 I 的对比结构，don’t just...和 run 并列，两个分句由分号连接。
+**句子结构**：两个分句都显式出现主语 I：I don’t just contribute... 和 I run them...；don’t contribute 与 run them 构成对比，projects 是 run 的宾语。
 
 **关键词**：don’t just contribute / run them / meetings
 
@@ -146,7 +146,7 @@ source_text: ch49_introduction_get_ready_to_speak_up.txt
 
 **中文理解**：你可以增强自己的声音；你可以被听见。
 
-**句子结构**：两个简单将来句重复主语 You，can strengthen... 和 can be heard... 是并列动作。
+**句子结构**：can strengthen... 和 can be heard... 是两个并列情态结构，can 是情态动词，不是 will 型简单将来句。
 
 **关键词**：strengthen your voice / be heard
 

@@ -11,7 +11,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 14 “Advance in Your Career, Even When Your Boss Won’t Help”
 - **作者**：Kristi Hedges
 - **章节定位**：第六册第十四篇正式文章；文章以没有 supportive boss 的 panel 经验为起点，提出 advocacy team、visibility、influencers、positive outside pressure 和 sustainable support network。
-- **字符数**：约 9,939 字符
+- **字符数**：约 7,536 字符
 - **一句话主旨**：直属老板可能不是你的 sponsor，但 career resilience 来自跨层级、跨职能的关系组合；你可以通过主动提供帮助、创造 visibility、建立外部平台来扩展自己的 advocacy network。
 - **核心论点**：direct boss 的 influence 和 people-development skills 有限，依赖单一 leader 还会带来 risk。advocacy team 让人借力而不是把职业命运交给一个人。
 - **核心论点**：visibility、influencers 和 outside platform 是 boss 不支持时的替代路径；长期关系要有 give-and-take，而不是短期交换。
@@ -94,7 +94,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 
 **句子结构**：祈使句 Prioritize 加宾语 Visibility，标题首字母大写。
 
-**关键词**：Prioritize Visibility / stakeholders / platform / project
+**关键词**：Prioritize Visibility / stakeholders / project
 
 **表达方式**：动词 Prioritize 把 visibility 提升为行动优先级，标题式短句便于记忆和执行。
 
@@ -118,7 +118,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 
 **句子结构**：两个并列祈使句 Find... and Offer...，to Help 是不定式表目的。
 
-**关键词**：Find the Influencers / Offer to Help / centers of influence / relationships
+**关键词**：Find the Influencers / Offer to Help
 
 **表达方式**：Find 与 Offer 构成行动链，not just what they can give you 的反向逻辑把关系变成给予。
 
@@ -138,7 +138,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 
 > **原句 9:** “Building your status outside the organization can often gain you visibility inside it.”
 
-**中文理解**：在组织外部建立声，常常能让你在组织内部获得可见度。
+**中文理解**：在组织外部建立声誉或地位，常常能让你在组织内部获得可见度。
 
 **句子结构**：`Building...` 动名词作主语，`can often gain...` 是情态谓语。
 
@@ -182,14 +182,14 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 | key opinion leader | 关键意见领袖 | “key opinion leaders” |
 | productive relationship | 有效关系 | “productive relationships” |
 | outside pressure | 外部压力 | “outside pressure” |
-| platform | 平台 | “platform” |","replaceAll":false}
+| platform | 平台 | “platform” |
 | customer visibility | 客户可见度 | “visible to customers” |
 | industry recognition | 行业认可 | “industry recognition” |
 | external validation | 外部验证 | “external validation” |
-","replaceAll":false}
+
 | support network | 支持网络 | “range of supporters” |
 | sustainable approach | 可持续方法 | “sustainable approach” |
-| resilient | 有韧性的 | “resilient network” |","replaceAll":false}
+| resilient | 有韧性的 | “resilient network” |
 | potential | 潜力 | “potential” |
 | visibility | 可见度 | “visibility” |
 | influence | 影响力 | “influence” |
@@ -203,7 +203,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 | mentor | 导师 | “mentor” |
 | advice | 建议 | “ask for advice” |
 | advocate | 倡导者 | “advocate” |
-| credible | 可信的 | “credible” |","replaceAll":false}
+| credible | 可信的 | “credible” |
 | invest | 投入 | “become invested” |
 | connection | 关系连接 | “connections” |
 | network | 网络 | “network” |
@@ -214,7 +214,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 | need | 需求 | “need” |
 | executive team | 高管团队 | “executive team” |
 | CEO | 首席执行官 | “CEO” |
-| VP | 副总裁 | “VP” |","replaceAll":false}
+| VP | 副总裁 | “VP” |
 | strategic | 战略的 | “strategic skills” |
 | diversity | 多样性 | “diversity” |
 | inclusion | 包容 | “inclusion” |
@@ -228,7 +228,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 | benefit | 好处 | “benefit” |
 | return | 回报 | “short-term return” |
 | leader | 领导者 | “leadership” |
-| grow | 成长 | “grow” |","replaceAll":false}
+| grow | 成长 | “grow” |
 
 ### ⭐ 基础
 
@@ -244,22 +244,22 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 | company | 公司 | “company” |
 | client | 客户 | “client” |
 | project | 项目 | “projects” |
-","replaceAll":false}
+
 | goal | 目标 | “goals” |
-","replaceAll":false}
+
 | skill | 技能 | “skills” |
 | help | 帮助 | “help” |
-","replaceAll":false}
+
 | time | 时间 | “time” |
-","replaceAll":false}
+
 | need | 需要 | “needs” |
-","replaceAll":false}
-","replaceAll":false}
+
+
 | role | 角色 | “role” |
-","replaceAll":false}
+
 | power | 权力 | “power” |
 | success | 成功 | “success” |
-","replaceAll":false}
+
 | help | 帮助 | “help” |
 
 ## 一句话总结

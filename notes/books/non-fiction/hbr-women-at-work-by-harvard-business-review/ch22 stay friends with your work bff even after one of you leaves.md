@@ -10,7 +10,7 @@ source_text: ch23_21_stay_friends_with_your_work_bff_even_.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 21 “Stay Friends with Your Work BFF—Even After One of You Leaves”
 - **作者**：Shasta Nelson
 - **章节定位**：第一册 networking 部分的收束文章；文章讨论工作友谊在一方离职后如何从共享工作场景迁移到新的生活模式，并以 consistency、vulnerability、positivity 三个关系条件解释维系方法。
-- **字符数**：约 4,789 字符
+- **字符数**：约 5,860 字符
 - **一句话主旨**：工作友谊结束不一定是冲突或失望，也可能只是同事离开；关系能否延续取决于双方是否主动建立新的互动模式、保持稳定节奏，并把话题从共同工作扩展到彼此新的生活与压力。
 - **核心论点**：工作友谊依赖同一空间和频率，离职会突然切断 consistency，继而削弱 vulnerability 和 positivity。维持方法不是等待自然发生，而是提前或事后主动联系、重复发起、设定固定约会，并通过好奇和关怀建立工作之外的新话题。
 
@@ -148,7 +148,7 @@ source_text: ch23_21_stay_friends_with_your_work_bff_even_.txt
 
 **中文理解**：目标是让双方都感到安全，能够分享对自己最重要的事情。
 
-**句子结构**：主句 The goal is for both parties to feel safe；for both parties 是不利关系者；to feel safe 是不定式作表语，sharing what’s most important to them 是 feel safe 的方式／内容。
+**句子结构**：主句 The goal is for both parties to feel safe；for both parties to feel safe 是不定式补足语，both parties 是不定式从句的主语，sharing what’s most important to them 是 feel safe 的方式／内容。
 
 **关键词**：goal / both parties / feel safe / sharing / most important
 

@@ -10,8 +10,8 @@ source_text: ch37_9_emotion_and_the_art_of_negotiation.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 9 “Emotion and the Art of Negotiation”
 - **作者**：Alison Wood Brooks
 - **章节定位**：第二册第九篇正式文章；文章用课堂“Honoring the Contract”演练和实验研究，说明焦虑、愤怒、失望、后悔、兴奋等情绪如何改变谈判结果，并给出调节、表达、暂停和重述策略。
-- **字符数**：约 20,159 字符
-- **一句话主旨**：谈判不是纯逻辑活动，情绪会改变让步、让步、退出、关系和价值；优秀谈判者不压抑一切情绪，而是识别触发点、训练调节、谨慎表达愤怒，并在适当时间展示有助于合作和长期关系的情绪。
+- **字符数**：约 30,100 字符
+- **一句话主旨**：谈判不是纯逻辑活动，情绪会改变报价、退出速度、关系和价值结果；优秀谈判者不压抑一切情绪，而是识别触发点、训练调节、谨慎表达愤怒，并在适当时间展示有助于合作和长期关系的情绪。
 - **核心论点**：具体情绪不仅是主观状态，也会通过表达、对方感知和反馈回路影响协议。文章区分 feeling 与 expressing，证明焦虑会削弱报价和退出判断，愤怒常伤害长期关系，失望和询问可减少后悔，兴奋则可能诱发过度承诺；情绪策略必须与谈判阶段和关系类型相配。
 
 ## 论证结构
@@ -24,7 +24,7 @@ source_text: ch37_9_emotion_and_the_art_of_negotiation.txt
 | 185 名专业人员的预期情绪调查 | 问卷研究 | 说明不同谈判场景的焦虑／兴奋差异 |
 | 136 人听 Psycho 或 Handel 音乐的实验 | 实验 | 识别焦虑对首 offer 和退出的影响 |
 | 焦虑谈判协议财务吸引力低 12% | 实验数据 | 量化焦虑的行为后果 |
-| 43 项虚拟谈判研究与 8 项焦虑建议实验 | 元分析／实验 | 支撑调节、咨询和表达边界 |
+| 136 人焦虑实验与 8 项咨询建议实验 | 元分析／实验 | 支撑调节、咨询和表达边界 |
 | “post-settlement settlement” | 实践策略 | 说明 deal 达成后仍可改善双方满意度 |
 
 - **论证脉络**：课堂愤怒实验 → 情绪不是附带信息 → 研究转向具体情绪 → 区分感觉与表达 → 焦虑实验 → 焦虑使人 timid / early exit / poor value → 训练、暴露、代理 → 愤怒与 fixed-pie bias → 表达伤害长期关系 → 失望、后悔、兴奋分别需要不同策略 → poker face 与情绪时机 → 谈判前准备 emotional strategy。
@@ -75,7 +75,7 @@ source_text: ch37_9_emotion_and_the_art_of_negotiation.txt
 
 **中文理解**：然而，在过去十年里，研究者开始考察具体的愤怒、悲伤、失望、焦虑、嫉妒、兴奋和后悔如何影响谈判者行为。
 
-**句子结构**：Over the past decade 是时间状语，researchers have begun examining 是现在完成进行结构，how... 引导宾语从句；括号内情绪由破折号和逗号列举。
+**句子结构**：researchers have begun examining... 是现在完成时，have begun 表示研究已经开始并持续到当前；后面从句说明正在考察的情绪与谈判结果。
 
 **关键词**：specific emotions / affect the behavior / negotiators / anger, sadness, disappointment, anxiety, envy, excitement, regret
 
@@ -119,7 +119,7 @@ source_text: ch37_9_emotion_and_the_art_of_negotiation.txt
 
 **为什么这样写**：数字让“焦虑影响谈判”不只停留在感受层面。它也证明情绪调节具有实际经济回报，但读者仍需注意实验情境的外推限制。
 
-> **原句 8:** "Many people believe that anger can be a productive emotion—one that will help them win a larger share of the pie."
+> **原句 8:** "When it comes to negotiating, however, many people believe that anger can be a productive emotion—one that will help them win a larger share of the pie."
 
 **中文理解**：许多人认为愤怒可以是一种有建设性的情绪——一种能帮助他们赢得更大一块馅饼的情绪。
 

@@ -10,7 +10,7 @@ source_text: ch62_13_how_to_disrupt_a_system_that_was_buil.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 13 “How to Disrupt a System That Was Built to Hold You Back”
 - **作者**：Lan Nguyen Chaplin
 - **章节定位**：第三册第十三篇正式文章；作者以亚裔美国女性教授的个人经历为线索，提出 allyship、confrontation、disruption 三组工具，保护职业路径、工作边界和心理健康。
-- **字符数**：约 16,474 字符
+- **字符数**：约 12,506 字符
 - **一句话主旨**：当制度、刻板印象和无意识偏见持续把女性和有色人种挡在门外，个人不能独自修复系统，但可以通过盟友网络、具体而克制的偏见对话、拒绝无偿 service 和要求 reward model 改变来积累 disrupt 力量。
 - **核心论点**：Chaplin 承认结构性不平等是机构、雇主和领导的责任，不把改变全部压给个人；但为了在环境中生存和发展，她建议寻找 inclusive leaders 和同侪盟友、针对行为而非人格进行私下对话、用证据和 matter-of-fact tone 反馈，并要求 emotional labor 被公平认可。
 - **核心论点**：文章先通过个人 classroom、tenure、Asian American 和女性身份经验展示制度偏见，再把个人策略分为 allyship、confrontation 和 disruption。它强调“权力在人数中”、行为可以改变、service 要进入 reward model，同时不放弃“机构必须解决不平等”的责任。
@@ -22,7 +22,7 @@ source_text: ch62_13_how_to_disrupt_a_system_that_was_buil.txt
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
-| 个人经历：作者的终身教职、亚裔美国身份和 14 个兄弟姐妹家庭背景 | 个人经历 | 展示多重交叉身份和系统挑战 |
+| 个人经历：作者的终身教职、亚裔美国身份和 14 个孩子家庭中最小者家庭背景 | 个人经历 | 展示多重交叉身份和系统挑战 |
 | MBA 课堂“how long have you been teaching” | 课堂案例 | 说明年龄／种族化偏见如何进入专业空间 |
 | 女性仅占 business school full professors 22%、Asian female 3% | 数据 | 量化代表性和结构性障碍 |
 | model minority myth 与资源不足 | 文化分析 | 解释同化期待和有色人种内部竞争 |
@@ -128,7 +128,7 @@ source_text: ch62_13_how_to_disrupt_a_system_that_was_buil.txt
 
 **句子结构**：主句 The myth not only erases..., but also ignores...，and worse, pits... 是三层并列谓语；when we should really be allies 是对比时间从句。
 
-**关键词**：myth / erases individual struggles / ignores racism / pits people of color / allies
+**关键词**：myth / erases the individual struggles / ignores the role racism / pits people of color / allies
 
 **表达方式**：not only...but also... 建立递进，and worse, 将社会后果升级，pits...against... 与 allies 形成直接对立。
 
@@ -191,7 +191,7 @@ source_text: ch62_13_how_to_disrupt_a_system_that_was_buil.txt
 | discrimination | 歧视 | "This kind of discrimination" |
 | network | 网络 | "a lack of social networks" |
 | ally | 盟友 | "your ally can be..." |
-| unrecognized | 未被认可的 | "if this work is going unrecognized and decreasing our productivity" |
+| unrecognized | 未被认可的 | "if this work is going unrecognized and decreasing your productivity in areas that are recognized" |
 | behavior | 行为 | "Focus on the other person’s behaviors" |
 | evidence | 证据 | "support your point with evidence" |
 | listening | 倾听 | "Really listen to what the other person says" |

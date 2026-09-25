@@ -10,7 +10,7 @@ source_text: ch52_3_you_don_t_just_need_one_leadership_voi.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 3 “You Don’t Just Need One Leadership Voice—You Need Many”
 - **作者**：Amy Jen Su
 - **章节定位**：第三册第三篇正式文章；文章把 leadership voice 拆为 character、context、clarity、curiosity 和 connection 五种声音，说明不同领导情境需要调取不同表达方式。
-- **字符数**：约 9,358 字符
+- **字符数**：约 7,697 字符
 - **一句话主旨**：领导力不是一种固定的自信姿态，而是一套随情境切换的 voice toolkit；稳定的 character 让人有根，context 和 clarity 组织重点，curiosity 打开信息，connection 维持关系，长期练习才能在复杂受众面前真实而有效地发声。
 - **核心论点**：文章反对模仿 louder、more confident 的单一领导形象，提出领导力声音是多个可培养部分的总和。每种 voice 对应不同任务：character 保持原则，context 解释大局，clarity 聚焦，curiosity 倾听，connection 建立信任；领导者应按 moment 和 situation 调取，而不是一套话术应对所有人。
 

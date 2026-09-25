@@ -11,7 +11,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 10 “The Art of Claiming Credit”
 - **形式/对话嘉宾**：Amy Jen Su 与 Amy Bernstein、Nicole Torres、Sarah Green Carmichael
 - **章节定位**：第六册第十篇正式文章；文章讨论女性如何准备 nugget、理解 audience、用 context 和 shaping questions 分享想法，并在 proactive request、space 和 self-compassion 中主张 ownership 而非 bragging。
-- **字符数**：约 18,857 字符
+- **字符数**：约 10,151 字符
 - **一句话主旨**：主张 credit 不是突然抢功，而是让重要贡献在正确 context 中被理解、被讨论并进入组织决策；女性要以准备、framing、questions、clear requests 和 visible presence 建立 ownership。
 - **核心论点**：Su 认为人们常误以为可以 wing it，真正有效的 claim credit 需要 back-pocket nuggets、audience awareness 和把信息嵌入 business dialogue。她区分 reactive complaint 与 proactive ownership。
 - **核心论点**：女性与男性共同项目时更可能少得 credit，因此要在会前请求 inclusion、明确 lead ownership、占据空间并坚持边界；同时不必把 claim credit 变成 Machiavellian politics。
@@ -52,13 +52,13 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **为什么这样写**：Su 把 credit 重新定义为主动 communication problem，而不是等待组织记忆。没有先说，贡献很容易被忽略或归属他人。
 
-> **原句 2:** “If you start to feel like your career is stalling out, or that you’re burning out, those are two important places to pause and ask yourself…”
+> **原句 2:** "If you start to feel like your career is stalling out, or that you’re burning out, those are two important places to pause and ask yourself, “Why am I being passed up for certain opportunities?” or “Am I so exhausted because I’m just doing, doing, doing, and not getting the credit for it that I deserve?”"
 
-**中文理解**：如果你开始感觉职业停滞，或者正在 burnout，那些都是停下来问自己的重要时刻。
+**中文理解**：如果你开始感觉职业停滞或正在燃尽，暂停并问自己：为什么我错过某些机会？我是不是只是不断做事，却没有得到应得的 credit？
 
-**句子结构**：If 条件从句，those 指代两种感受，to pause and ask yourself 是不定式，冒号后引出问题。
+**句子结构**：If 引导条件从句，those 指代 career stalling 和 burning out 两种感受；to pause and ask yourself 是不定式，逗号后两个直接引语由 or 并列提出问题。
 
-**关键词**：career stalling / burning out / pause / ask yourself
+**关键词**：career is stalling out / burning out / pause and ask yourself / passed up / not getting the credit
 
 **表达方式**：stalling out 与 burning out 形成停滞／消耗对照，those two places 将内在感受转为反思触发点。
 
@@ -70,19 +70,19 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **句子结构**：主句 It begins with...，the way you prepare 是介词短语。
 
-**关键词**：begins with / way you prepare / important meeting / visible
+**关键词**：begins with / way you prepare
 
 **表达方式**：It begins 把过程定位在准备阶段，the way... 将准备写成方法而非状态。
 
-**为什么这样写**：Su 认为 effective claim credit 不是临场抢话，而是提前准备 three to five nuggets，让现场发言看起来自然却有结构。
+**为什么这样写**：Su 认为有效地 claiming credit 不是临场抢话，而是提前准备 three to five nuggets，让现场发言看起来自然却有结构。
 
 > **原句 4:** Part two of that preparation is to make sure that you’re artful in considering your audience.
 
 **中文理解**：确保你有技巧地考虑你的受众。
 
-**句子结构**：祈使句 Make sure，that... 是宾语从句，artful 修饰 considering。
+**句子结构**：Part two of that preparation is to make sure... 是主系表结构，to make sure... 是表语不定式；that you’re artful... 是宾语从句，不是祈使句。
 
-**关键词**：artful / considering your audience / Who’s going to be in the room
+**关键词**：artful / considering your audience
 
 **表达方式**：Make sure 加强要求，artful 把 audience adaptation 写成技巧，considering audience 关注信息如何被接收。
 
@@ -106,7 +106,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **句子结构**：主句 Boss dynamics are tricky，are 是系动词，tricky 是表语。
 
-**关键词**：Boss dynamics / tricky / tool kit / shaping questions
+**关键词**：Boss dynamics / tricky
 
 **表达方式**：Boss dynamics 将组织权力写成关系动态，tricky 承认策略需要情境调整。
 
@@ -118,7 +118,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **句子结构**：系表句，It 指代 claiming credit 与 letting others think it’s their idea 的连续谱。
 
-**关键词**：really a balance / claim credit / letting other people / influence
+**关键词**：really a balance
 
 **表达方式**：短句把二元选择降为 continuum，really 强调没有绝对规则。
 
@@ -130,7 +130,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **句子结构**：一般疑问句 Am I making...，that I need 修饰 requests，along the way 是时间状语。
 
-**关键词**：clear requests / need / along the way / proactive
+**关键词**：clear requests / need / along the way
 
 **表达方式**：Am I making 将 proactive action 变成自我检查，clear requests 直接把隐性需要外显。
 
@@ -138,11 +138,11 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 > **原句 9:** And that comes in many forms: Maybe it’s when you walk into a conference room, not being shy about picking a chair that’s in the flow of the conversation, or even at the head of the table if you’re one of the co-leads.
 
-**中文理解**：也许是在走进会议室时，不要因为害羞而不选择处于对话流动中的椅子。
+**中文理解**：这些形式包括：走进会议室时不羞于选择处于对话流动中的椅子，若是共同负责人，甚至可以选择桌首的位置。
 
-**句子结构**：主句 Maybe it’s when you walk...，not being shy... 是省略 to be 的补语，picking... 是动名词。
+**句子结构**：主句 And that comes in many forms: 后接 Maybe...；not being shy about picking... 是现在分词短语，picking... 是其宾语，at the head of the table 说明空间位置。
 
-**关键词**：walk into a conference room / not being shy / picking a chair / flow of the conversation
+**关键词**：walk into a conference room / not being shy about picking a chair / flow of the conversation / head of the table / co-leads
 
 **表达方式**：具体空间动作把 presence 具体化，flow 暗示 participation dynamics。
 
@@ -154,7 +154,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **句子结构**：主句 We all need to stop beating ourselves up，need to 后接动词原形，ourselves 是反身宾语。
 
-**关键词**：stop beating ourselves up / self-compassion / credit / trend or pattern
+**关键词**：stop beating ourselves up / self-compassion / credit
 
 **表达方式**：all 普遍化，beating ourselves up 用暴力隐喻命名 self-blame，stop 是直接行动。
 

@@ -11,7 +11,7 @@ source_text: ch121_introduction_becoming_a_leader.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Introduction “Becoming a Leader”
 - **作者**：Amy Bernstein
 - **章节定位**：第六册导言；作者从自己在男性为主会议中保持沉默、被同事质问的经历出发，讨论女性如何看见自己、承担领导责任、在 gender expectations 与 double bind 中成为 authentic leader。
-- **字符数**：约 8,118 字符
+- **字符数**：约 6,098 字符
 - **一句话主旨**：女性不能只等待别人授予领导资格；要认识自己的价值和想领导的方向，区分自我怀疑与偏见反馈，并同时准备应对组织政策、照护期待和“温暖但必须强硬”的双重标准。
 - **核心论点**：Bernstein 的沉默源自 fear of ridicule、male-coded meeting culture 和对 profile 的需要。同事的直接质问迫使她把 stalled career 重新解释为需要主动承担责任，而不是单纯等待许可。
 - **核心论点**：leadership 是 vision、determination、empathy，也是让他人看见潜力的关系过程。女性面对的不是单一能力不足，而是 self-image／external feedback 的差距、gendered double bind 和制度性 bias。
@@ -55,7 +55,7 @@ source_text: ch121_introduction_becoming_a_leader.txt
 
 **中文理解**：我们刚开完会，而我像往常一样，什么也没说。
 
-**句子结构**：There was a meeting，and I... 并列两个过去完成时动作；as usual 是插入短语，absolutely nothing 加强否定。
+**句子结构**：We’d just had a meeting 和 I had said absolutely nothing 由 and 并列；前者是过去完成时，后者是一般过去时，as usual 是插入短语。
 
 **关键词**：just had a meeting / as usual / said absolutely nothing
 
@@ -93,7 +93,7 @@ source_text: ch121_introduction_becoming_a_leader.txt
 
 **句子结构**：There is no one right way... 是存在句；right 修饰 way，to be a leader 是不定式表语。
 
-**关键词**：no one right way / leader / figure out / who you are
+**关键词**：no one right way / leader
 
 **表达方式**：no one right way 否定单一模板，隐含后面必须由个人探索自身路径。
 
@@ -103,7 +103,7 @@ source_text: ch121_introduction_becoming_a_leader.txt
 
 **中文理解**：Double bind 是一个矛盾：一方面社会期待我们作为女性的行为，另一方面又期待我们作为领导者的行为。
 
-**句子结构**：Consider 引出 double bind，破号后同位解释；what... and leaders... 是两个 of 结构的对照。
+**句子结构**：Consider 引出 double bind，破折号后同位解释；expects 支配两个并列宾语：what society expects of us as women 和 leaders，第二个 leaders 是省略宾语。
 
 **关键词**：double bind / contradiction / society expects / women / leaders
 
@@ -151,7 +151,7 @@ source_text: ch121_introduction_becoming_a_leader.txt
 
 **中文理解**：而那就是成为领导者的第一步。
 
-**句子结构**：主句 that is the first step，to becoming a leader 是不定式作后置修饰。
+**句子结构**：主句 that is the first step，to becoming a leader 是介词 to 后接动名词 becoming 的介词短语，不是后置不定式。
 
 **关键词**：first step / becoming a leader
 

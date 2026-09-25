@@ -11,7 +11,7 @@ source_text: ch78_7_how_to_ask_for_the_job_title_you_deser.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 7 “How to Ask for the Job Title You Deserve”
 - **作者**：Rebecca Knight；文中含 Margaret Neale、Dan Cable 和 Rhonda Rees 案例
 - **章节定位**：第四册第七篇正式文章；文章把 job title 当作 compensation package、status signal 和自我表达，提出 reflect、homework、think holistically、listen、strategize、talk to boss、be appreciative 七步。
-- **字符数**：约 17,409 字符
+- **字符数**：约 10,429 字符
 - **一句话主旨**：职位名称虽不是全部，却会传递组织层级、影响薪酬谈判和塑造他人期待；与其临时要求一个名称，不如用职责和证据明确匹配关系，再把 title 放进整体 package，在 learning mode 中讨论和持续谈判。
 - **核心论点**：Neale 与 Cable 认为 title 是价值、status、connections 和自我表达的信号。有效请求要回答“为什么需要、凭什么匹配、怎样帮助老板解决问题”，而不是只说“我值得”；同时要用现实层级和可交付结果限制 avant-garde 要求。
 - **核心论点**：文章将 title negotiation 从单一要求改成多议题、长期、关系性的谈判。先做 soul-searching 和 market research，再听组织问题、设计 boss case，最后以感谢而非 demanding prima donna 的姿态提出；接受后若条件不足，仍可询问 advance criteria。
@@ -47,7 +47,7 @@ source_text: ch78_7_how_to_ask_for_the_job_title_you_deser.txt
 
 **关键词**：job title / isn’t everything / does matter
 
-**表达方式**：双重否定／肯定结构先降低再抬高主题，but 将重要性写成平衡判断而非夸张。
+**表达方式**：否定—肯定对照先降低再抬高主题，but 将重要性写成平衡判断而非夸张。
 
 **为什么这样写**：作者在请求 title 前先承认其局限，避免把文章变成“名字比工作重要”。这样读者会接受后文的证据和整体 package 论证。
 

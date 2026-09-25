@@ -10,9 +10,9 @@ source_text: ch31_3_stop_overlooking_opportunities_to_nego.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 3 “Stop Overlooking Opportunities to Negotiate”
 - **作者**：Suzanne de Janasz
 - **章节定位**：第二册第三篇正式文章；文章以鞋店折扣情境说明，低风险谈判练习能够建立高风险谈判所需的信心和能力，并提出识别机会、评估成本收益、练习和关系管理方法。
-- **字符数**：约 7,128 字符
+- **字符数**：约 6,765 字符
 - **一句话主旨**：很多女性并非不知道谈判技巧，而是根本没有把日常折扣、分配不均和工作机会识别为谈判；通过低风险练习、现实评估和及时表达，能够把谈判从恐惧驱动变成可迁移的能力。
-- **核心论点**：谈判能力的第一步是发现机会。文化、榜样、角色和经验决定了人看见哪些请求；女性还会因冲突恐惧、害怕被拒绝或担心被看作 aggressive 而回避。文章建议用购物、账单和家务等低风险场景练习识别公平问题，再用成本收益计算决定是否谈判，从而把“ negotiating muscle”带到薪资、晋升和关系冲突中。
+- **核心论点**：谈判能力的第一步是发现机会。文化、榜样和目标决定了人看见哪些请求；女性还会因冲突恐惧、害怕被拒绝或担心被看作 aggressive 而回避。文章建议用购物、账单和家务等低风险场景练习识别公平问题，再用成本收益计算决定是否谈判，从而把“ negotiating muscle”带到薪资、晋升和关系冲突中。
 
 ## 论证结构
 
@@ -22,7 +22,7 @@ source_text: ch31_3_stop_overlooking_opportunities_to_nego.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 鞋店折扣情境与在线下单 | 课堂情境 | 展示低风险谈判如何被错过 |
-| 折扣、折扣、现金支付和家务等例子 | 日常案例 | 说明谈判不限于金钱 |
+| 售价折扣、要求更优惠费率、现金支付和家务等例子 | 日常案例 | 说明谈判不限于金钱 |
 | 女性谈判频率约为男性四分之一，20% 从不谈判 | 调查数据 | 量化女性的机会识别和参与差距 |
 | “公平吗／我应得更好结果吗／更自信的我会请求吗”三问 | 诊断问题 | 将模糊不安转为机会识别工具 |
 | 成本收益计算和 43 年薪资差距 | 框架与计算 | 说明何时值得谈判以及忽略机会的长期代价 |
@@ -84,7 +84,7 @@ source_text: ch31_3_stop_overlooking_opportunities_to_nego.txt
 
 **为什么这样写**：文章把“知道怎么做”与“知道什么时候做”区分开。策略培训若没有机会识别，便无法被调用；因此第一步必须练习观察。
 
-> **原句 5:** "Women negotiate only about 25% as often as men do, and about 20% of all women never negotiate at all."
+> **原句 5:** "women negotiate only about 25% as often as men do, and about 20% of all women never negotiate at all."
 
 **中文理解**：女性进行谈判的频率只有男性的约 25%，而且约 20% 的女性从不谈判。
 
@@ -120,7 +120,7 @@ source_text: ch31_3_stop_overlooking_opportunities_to_nego.txt
 
 **为什么这样写**：作者避免把有意义的谈判包装成必须执行的任务。承认不谈判可能是合理选择，才能让真正重要的请求更突出，也减少读者对谈判的道德压力。
 
-> **原句 8:** "The more you ignore conflictual situations that could be improved with negotiation, the more you give such conflicts power over you."
+> **原句 8:** "But the more you ignore conflictual situations that could be improved with negotiation, the more you give such conflicts power over you."
 
 **中文理解**：你越是忽视那些本可以通过谈判改善的冲突情形，就越会让这些冲突获得对你的控制力。
 
@@ -132,15 +132,15 @@ source_text: ch31_3_stop_overlooking_opportunities_to_nego.txt
 
 **为什么这样写**：文章把沉默和拖延视为有后果的选择。家务、工资和资源分配中的小冲突若不断积累，可能转化为更大的晋升和收入问题。
 
-> **原句 9:** "By being mindful about recognizing and evaluating potential negotiation opportunities—weighing the financial, emotional, moral, or psychological trade-offs—you not only put yourself in a position to strategically approach how to negotiate for what you deserve."
+> **原句 9:** "By being mindful about recognizing and evaluating potential negotiation opportunities—weighing the financial, emotional, moral, or psychological trade-offs—you not only put yourself in a position to strategically approach how to negotiate for what you deserve (such as money, recognition, equitable treatment), you also open the door to even better outcomes."
 
-**中文理解**：通过有意识地识别和评估潜在谈判机会——权衡财务、情绪、道德或心理上的取舍——你不仅会把自己置于能够策略性地谈判、争取应得结果的位置。
+**中文理解**：通过有意识地识别和评估潜在谈判机会——权衡财务、情绪、道德或心理上的取舍——你不仅会把自己置于能够策略性地谈判、争取应得结果的位置，还为更好的结果打开大门。
 
-**句子结构**：By being mindful... 是方式状语，weighing... 是插入的现在分词短语；主语 you，谓语 put yourself in a position，to strategically approach... 是不定式作后置补足语，not only 引导强调。
+**句子结构**：By being mindful... 是方式状语，weighing... 是插入的现在分词短语；主句 you not only put yourself in a position..., you also open the door... 由 not only...also 连接两个并列谓语，括号内容举例说明 what you deserve。
 
 **关键词**：mindful / recognizing and evaluating / potential negotiation opportunities / trade-offs / strategically approach / what you deserve
 
-**表达方式**：By...—weighing...— 用插入语列出多维成本，not only 把行动扩展到“更有能力谈判”之外，deserve 将结果从个人偏好提升到公平要求。
+**表达方式**：By...—weighing...— 列出多维成本，not only...also 把行动扩展为争取更好结果，deserve 将结果从个人偏好提升到公平要求。
 
 **为什么这样写**：文章把机会识别、评估和策略行动连成一条链。财务、情绪、道德和心理变量共同决定谈判是否值得，帮助读者避免只看价格。
 

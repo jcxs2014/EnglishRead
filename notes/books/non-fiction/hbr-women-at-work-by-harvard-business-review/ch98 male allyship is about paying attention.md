@@ -11,7 +11,7 @@ source_text: ch115_19_male_allyship_is_about_paying_attenti.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 19 “Male Allyship Is About Paying Attention”
 - **作者**：W. Brad Johnson、David G. Smith
 - **章节定位**：第五册第十九篇正式文章；文章用 male gender intelligence（GQ）和 situational awareness 解释男性为何看不见实时 harassment，并提出 self-educate、attend to nonverbals、notice sexist words、focus on intersections、pay attention to inclusion、ask women 六类观察实践。
-- **字符数**：约 17,336 字符
+- **字符数**：约 8,568 字符
 - **一句话主旨**：支持 gender equity 的男性如果不能识别现场偏见，就无法成为 effective ally；盟友行动要求持续观察非语言、倾听女性经验、理解交叉身份、追问 inclusion，并公开打断日常 bias。
 - **核心论点**：77% 的男性在 2018 年没有把 harassment 看作问题，而 38% 的女性同事报告经历过职场 harassment。缺乏 awareness 让男性停留在旁观者位置，即使他们主观上支持平等。
 - **核心论点**：GQ 不是抽象的善意，而是 relational environment 的 situational awareness。男性要把“看不见”变成可观察的问题：谁被纳入、谁被打断、谁不舒服、谁的经验被忽略。
@@ -54,7 +54,7 @@ source_text: ch115_19_male_allyship_is_about_paying_attenti.txt
 
 > **原句 2:** “77% of men didn’t see harassment as a problem—even as 38% of their female colleagues reported experiencing workplace harassment.”
 
-**中文理解**：77% 的男性没有把骚扰视为问题，尽管他们 38% 的女性同事报告经历过职场骚扰。
+**中文理解**：77% 的男性没有把骚扰视为问题，尽管这些男性所在的女性同事中有 38% 报告经历过职场骚扰。
 
 **句子结构**：两个百分比分句由 even as 连接；men 和 female colleagues 分别作报告与 experienced 的相关主语。
 
@@ -126,7 +126,7 @@ source_text: ch115_19_male_allyship_is_about_paying_attenti.txt
 
 > **原句 8:** “Developing your GQ and sharpening your situational awareness requires learning about the experiences of women of color (among other intersectional identities).”
 
-**中文理解**：发展男性性别智慧、 sharpen situational awareness，需要了解有色人种女性（以及其他交叉身份）的经验。
+**中文理解**：发展男性性别智慧、提升情境意识，需要了解有色人种女性（以及其他交叉身份）的经验。
 
 **句子结构**：动名词短语 Developing... and sharpening... 作主语，requires 后接动名词 learning about...，括号补充其他身份。
 
@@ -181,7 +181,7 @@ source_text: ch115_19_male_allyship_is_about_paying_attenti.txt
 | bro banter | 兄弟式闲聊 | “bro banter” |
 | misogyny | 厌女 | “misogyny” |
 | intersectional identities | 交叉身份 | “intersectional identities” |
-| inclusion uncertainty | 归属不确定 | “belonging uncertainty” |
+| belonging uncertainty | 归属不确定 | "belonging uncertainty" |
 | living experience | 生活经验 | “lived experiences” |
 | empathy | 共情 | “better empathy” |
 | humility | 谦逊 | “humble and curious” |
@@ -208,7 +208,7 @@ source_text: ch115_19_male_allyship_is_about_paying_attenti.txt
 | devalue | 贬值／贬低 | “devalued” |
 | overlook | 忽视 | “overlooked” |
 | hiring | 招聘 | “at hiring” |
-| interview | 会议／面试 | “meeting” |
+| interviewed | 访谈；采访 | "interviewed" |
 | colleague | 同事 | “female colleagues” |
 | subject-matter expert | 主题专家 | “subject-matter expert” |
 | interrupt | 打断 | “being interrupted” |

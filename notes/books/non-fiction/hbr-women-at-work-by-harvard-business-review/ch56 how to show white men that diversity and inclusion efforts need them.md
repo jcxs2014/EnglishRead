@@ -10,14 +10,14 @@ source_text: ch65_16_how_to_show_white_men_that_diversity_.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 16 “How to Show White Men That Diversity and Inclusion Efforts Need Them”
 - **作者**：Lily Zheng
 - **章节定位**：第三册第十六篇正式文章；文章根据 White Men’s Leadership Study 解释特权群体对 D&I 的防御，提出把身份重构为 insight、围绕 equality 建立共同价值，并用 Jigsaw Classroom 促进协作。
-- **字符数**：约 10,703 字符
+- **字符数**：约 7,776 字符
 - **一句话主旨**：很多白人男性并非公开反对 D&I，而是担心自己不被需要、被视为问题；与其 dismiss 这种情绪，不如理解 privilege、identity salience 和 racial stamina，再用身份洞察、公平和共同学习把他们转成参与者。
 - **核心论点**：D&I 实践者容易只把 marginalized identities 框成 uplift 来源，使 privileged leaders 感到被排除。Zheng 提出 identity as insight 和 equality 两个框架：承认白人男性对自身系统有部分但有限的了解，把他们放进共同任务，再通过 Jigsaw 协作让每个人的经验成为解决复杂问题所需的一块。
 - **核心论点**：文章不是要求白人男性放弃权力，而是让他们看到自己的身份、知识和局限如何成为 D&I 的入口。特权身份不必被污名化，也可以被重新描述为 partial insight；同时必须明确公平不是给每个人同样待遇，而是保证每个人都能参与和成长。
 
 ## 论证结构
 
-- **核心论点**：文章先呈现 D&I 领导者的私下防御和“everyone is out to get white men”的感受，再解释 privileged identity 不被日常提醒、因而对批评更敏感；随后提出两种实践框架，最后用 Jigsaw Classroom 将个人经验转成互相依赖的共同学习。
+- **核心论点**：文章先呈现 D&I 领导者的私下防御和“everyone is out to get the white guys”的感受，再解释 privileged identity 不被日常提醒、因而对批评更敏感；随后提出两种实践框架，最后用 Jigsaw Classroom 将个人经验转成互相依赖的共同学习。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -143,7 +143,7 @@ source_text: ch65_16_how_to_show_white_men_that_diversity_.txt
 
 **表达方式**：Equality or fairness 给出同义入口，one of the most powerful... 赋予文化共同性，that 从句把抽象价值写成两句信念。
 
-**为什么这样写**：D&I 讨论若只谈身份会让 privileged leaders 防御，equality 则是更普遍的共享价值。Zheg 用共同信念把对方带进参与，而不是要求其先放弃权力。
+**为什么这样写**：D&I 讨论若只谈身份会让 privileged leaders 防御，equality 则是更普遍的共享价值。Zheng 用共同信念把对方带进参与，而不是要求其先放弃权力。
 
 > **原句 10:** "By understanding our unique experiences as pieces of a complex puzzle, we can defuse defensiveness and find a way to together create a more equitable world."
 
@@ -212,8 +212,8 @@ source_text: ch65_16_how_to_show_white_men_that_diversity_.txt
 | women | 女性 | "the women in the room" |
 | class | 课堂 | "leadership class" |
 | student | 学生 | "each student" |
-| team | 团队 | "interdependent" |
-| piece | 部分 | "a piece" |
+| group | 群体 | "a group of leaders" |
+| pieces | 部分；碎片 | "pieces of a complex puzzle" |
 
 ## 一句话总结
 Zheng 认为 D&I 阻力常来自 privileged leaders 不知道自己想不想被邀请、也缺少讨论身份的 racial stamina；把身份表述为 partial insight、用 equality 作为共同价值，再以 Jigsaw 方式让不同经验共同完成任务，可以让白人男性从防御者变成参与者。

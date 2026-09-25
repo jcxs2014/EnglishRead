@@ -11,7 +11,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 5 “Seeing Ourselves as Leaders”
 - **形式/对话嘉宾**：Muriel Maignan Wilkins、Amy Jen Su 与 Amy Gallo、Nicole Torres
 - **章节定位**：第六册第五篇正式文章；文章讨论从 individual contributor 到 leader 的 internal shift，white masculine way、leadership skills、felt experience、specific request、sponsors 和 career horizon。
-- **字符数**：约 19,990 字符
+- **字符数**：约 17,277 字符
 - **一句话主旨**：成为领导者不仅是别人给你 title，而是先在内部承认自己拥有可以影响他人的判断，再用 communication、business judgment、specific requests 和 support network 把这种可能性持续做出来。
 - **核心论点**：Wilkins 与 Su 都把 transition 描述为 uncomfortable growth。外部 promotion 容易成为“leaderly”的许可，但 women 往往更晚才得到练习，必须从 day one 建立 leadership skills。
 - **核心论点**：leadership 不是复制 assertive、aggressive 的 white masculine way，而是理解 principles、desired way of being 和 relevant behaviors。领导可见性还需要具体请求、sponsors 和对环境 bias 的判断。
@@ -66,7 +66,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 > **原句 3:** “There was just this moment of, Wow, perhaps I’m a leader now, and my temperament, mood, and state of being are actually going to impact the way others feel.”
 
-**中文理解**：就在那一刻我意识到：也许我现在就是领导者了，而且我的 temperament、mood 和 state of being 确实会影响他人的感受。
+**中文理解**：就在那一刻我意识到：也许我现在就是领导者了，而且我的气质、情绪和当下状态确实会影响他人的感受。
 
 **句子结构**：There was this moment of...，Wow... 是直接引语；my temperament... are going to impact... 是从句。
 
@@ -130,7 +130,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 **句子结构**：主句 The word ‘embodying’ is really important，系表结构。
 
-**关键词**：embodying / important / leadership
+**关键词**：embodying / important
 
 **表达方式**：the word 指向概念，really important 强化方法差异，quotes 使术语突出。
 
@@ -154,7 +154,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 **句子结构**：祈使句 Ask，in a specific way 是方式状语。
 
-**关键词**：Ask / specific way / request
+**关键词**：Ask / specific way
 
 **表达方式**：短祈使句压缩长期建议，specific 将抽象成长愿望转成可观察行为。
 

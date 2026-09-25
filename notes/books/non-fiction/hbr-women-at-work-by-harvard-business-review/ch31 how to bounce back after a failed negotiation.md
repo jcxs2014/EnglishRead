@@ -10,7 +10,7 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 8 “How to Bounce Back After a Failed Negotiation”
 - **作者**：Carolyn O’Hara
 - **章节定位**：第二册第八篇正式文章；文章结合 Jeff Weiss、Margaret Neale 的建议和 Saloonbox 案例，提出失望后控制损失、寻找潜在收益、承认错误、准备下一次谈判和复盘的过程。
-- **字符数**：约 3,748 字符
+- **字符数**：约 6,831 字符
 - **一句话主旨**：一次谈判没有如愿不等于声誉或关系终结；失败后应放弃 save-face 对抗，限制损失、寻找未预见价值、透明说明误判、着眼未来并复盘，才能把一次结果转化为长期信誉和下一次机会。
 - **核心论点**：谈判结果是一次交易而不是全部商业价值，声誉来自持续行为。失败后的恢复不是掩饰，而是通过 problem solving、upside、transparent learning、future leverage 和 postmortem 把损失放进长期序列。
 
@@ -47,11 +47,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：文章从无法控制的失败开始，而不是教如何避免失败。它降低读者对“必须赢”的压力，为恢复策略腾出空间。
 
-> **原句 2:** "A reputation comes from consistent behavior."
+> **原句 2:** "A reputation comes from consistent behavior,” says Jeff Weiss"
 
 **中文理解**：声誉来自持续一致的行为。
 
-**句子结构**：主语 A reputation，谓语 comes from，介词短语 from consistent behavior 说明来源。
+**句子结构**：直接引语 A reputation comes from consistent behavior 后接叙述插入语 says Jeff Weiss；引语本身是主系表结构，says 标明说话者。
 
 **关键词**：reputation / comes from / consistent behavior
 
@@ -59,11 +59,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：这句话把失败放入声誉的时间尺度。它告诉读者，失去一轮不等于失去信誉，后续如何处理才是更重要证据。
 
-> **原句 3:** "If all you’re thinking about is saving face, you’ve already made the negotiation and its aftermath into a battle."
+> **原句 3:** "If all you’re thinking about is saving face, you’ve already made the negotiation and its aftermath into a battle,” says Margaret Neale"
 
 **中文理解**：如果你满脑子想的都是保全面子，你就已经把谈判及其后果变成了一场战斗。
 
-**句子结构**：If 引导条件状语从句，what you’re thinking about 是介词宾语从句；主句 you’ve already made...into a battle，negotiation and its aftermath 是宾语，into 短语说明结果。
+**句子结构**：If 引导条件状语从句，what you’re thinking about 是介词宾语从句；主句 you’ve already made...into a battle，says Margaret Neale 是说话者归属。
 
 **关键词**：saving face / already made / negotiation and aftermath / into a battle
 
@@ -71,11 +71,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：作者指出 face-saving 不是中性策略，而会改变互动结构。关注解决而不是战胜对方，才能产生真正的 win-win 机会。
 
-> **原句 4:** "Don’t assume that this is the end of the world."
+> **原句 4:** "Don’t assume that this is the end of the world,” says Weiss"
 
 **中文理解**：不要假定这就是世界末日。
 
-**句子结构**：否定祈使句 Don’t assume，that 从句是 assume 的宾语，the end of the world 是固定习语。
+**句子结构**：否定祈使句 Don’t assume，that 从句是 assume 的宾语，says Weiss 是叙述插入语；the end of the world 是固定习语。
 
 **关键词**：Don’t assume / the end of the world
 
@@ -95,11 +95,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：文章把当前结果放入交易序列，降低一次谈判对声誉和未来收入的影响。它也支持“着眼未来”的 leverage 建议。
 
-> **原句 6:** "You’re never going to get 100% of what you want."
+> **原句 6:** "You’re never going to get 100% of what you want,” says Neale"
 
 **中文理解**：你永远不可能得到想要的所有东西。
 
-**句子结构**：主语 You，谓语 are going to get，宾语 100% of what you want；what you want 是名词性从句。
+**句子结构**：主语 You，谓语 are going to get，宾语 100% of what you want；what you want 是名词性从句，says Neale 是说话者归属。
 
 **关键词**：never going to get / 100% / what you want
 
@@ -107,11 +107,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：失败后寻找 upside 的前提，是承认结果很少完全符合原方案。这个句子把失望重新定位为谈判本身的常态。
 
-> **原句 7:** "Ask yourself if you can tie some other detail to a piece of the deal."
+> **原句 7:** "Ask yourself if you can tie some other detail to a piece of the deal,” suggests Weiss"
 
 **中文理解**：问问自己，是否能把另一个细节与协议的一部分联系起来。
 
-**句子结构**：祈使句 Ask yourself，if 从句说明要思考的问题，tie some other detail to a piece of the deal 是疑问内容。
+**句子结构**：祈使句 Ask yourself，if 从句说明要思考的问题，tie...to... 是疑问内容；suggests Weiss 是说话者归属。
 
 **关键词**：Ask yourself / tie some other detail / a piece of the deal
 
@@ -119,11 +119,11 @@ source_text: ch36_8_how_to_bounce_back_after_a_failed_nego.txt
 
 **为什么这样写**：文章不鼓励失落后立即重新讨价还价，而是寻找其他条件平衡结果。议题之间的 trade 能把单一输赢转成组合价值。
 
-> **原句 8:** "Consider whether there are people internally you need to talk to, to get out ahead of this."
+> **原句 8:** "Consider whether there are people internally you need to talk to, to get out ahead of this,” says Weiss"
 
 **中文理解**：考虑是否有内部人员需要你去沟通，以便提前处理这件事。
 
-**句子结构**：Consider whether there are people... 是祈使句；internally 修饰 people，to talk to 是不定式，to get out ahead of this 说明目的。
+**句子结构**：Consider whether... 是祈使句；internally 修饰 people，to talk to 是不定式，to get out ahead of this 说明目的，says Weiss 是说话者归属。
 
 **关键词**：Consider whether / people internally / need to talk to / get out ahead of this
 

@@ -11,7 +11,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 15 “To Build Grit, Go Back to Basics”
 - **形式/采访对象**：Shannon Huffman Polson；采访者 Curt Nickisch
 - **章节定位**：第六册第十五篇正式文章；文章用 Apache attack helicopter飞行员、军队经历和 Fort Bragg 的 gender exclusion，说明 grit 来自 purpose、self-authored story、repeated asks 与逐步增加挑战。
-- **字符数**：约 13,678 字符
+- **字符数**：约 10,284 字符
 - **一句话主旨**：坚毅不是硬撑或假装不怕，而是理解自己的故事和核心目的，在障碍面前反复 ask、逐步挑战，并把“我不能”改写成“我可以选择如何回应”。
 - **核心论点**：Polson 将 grit 定义为面对困难处境时的 dogged determination；她也认可 Duckworth 的 passion and perseverance，但更强调 uncertain、ambiguous 环境中的 purpose。
 - **核心论点**：她在 Colonel 说“你永远不能驾驶 attack aircraft”后没有只说 Yes, sir，而是转入 active duty；她认为先 earn、再 ask，并可借 Five Whys 和 journey line 找到自己的 core purpose。
@@ -44,7 +44,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 **中文理解**：在困难处境面前保持顽强的决心。
 
-**句子结构**：名词短语，`in the face of...` 是介词短语，determination 是核心名词。
+**句子结构**：完整主句是 The way... is...；is 后接定义性名词短语 a dogged determination...，in the face of... 是介词短语。
 
 **关键词**：dogged determination / difficult circumstances
 
@@ -90,7 +90,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 > **原句 5:** You get to say either, “I was a victim of this circumstance” or “I was able to overcome this. I was able to push through.”
 
-**中文理解**：你可以选择说：“我是这个处境的受害者”，或者“我能够克服它”。
+**中文理解**：我可以说“我只是这个处境的受害者”，也可以说“我能够克服它，能够坚持挺过去”。
 
 **句子结构**：`You get to say either...or...` 是选择结构，两个直接引语是并列补语。
 
@@ -116,7 +116,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 **中文理解**：其中一种方法是从所谓的 journey line 或 lifeline 开始。
 
-**句子结构**：`One of them is to start with...` 是表语结构，what is called... 是同位语从句。
+**句子结构**：One of them is to start with... 是表语结构；what is sometimes called... 是作 with 宾语的名词性 what-从句。
 
 **关键词**：journey line / lifeline / start with
 
@@ -140,7 +140,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 **中文理解**：我在军队里的每一次机会，都必须主动争取。
 
-**句子结构**：`Every single opportunity...` 是主语，`I had to ask for` 是强调结构。
+**句子结构**：Every single opportunity... 是主语，I had to ask for 中 had to 后接不带 to 的动词原形 ask，是义务结构，不是强调句。
 
 **关键词**：Every single opportunity / had to / ask for
 

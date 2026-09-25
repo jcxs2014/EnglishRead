@@ -10,7 +10,7 @@ source_text: ch58_9_how_to_conduct_difficult_conversations.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 9 “How to Conduct Difficult Conversations About Sexual Harassment”
 - **形式/对话嘉宾**：Amy Bernstein、Amy Gallo、Nicole Torres 与 Sarah Pierson Beaulieu 对谈
 - **章节定位**：第三册第九篇正式文章；文章从“文化就是对话”出发，讨论如何理解影响、练习不舒服的干预、寻找 bystander、向 HR 报告，以及在不确定时用低强度问题打开行动空间。
-- **字符数**：约 24,395 字符
+- **字符数**：约 21,989 字符
 - **一句话主旨**：性骚扰应对不能只靠受害者临场勇敢、HR 流程或“百分之百确定”后才行动；个人和领导要提前练习共情、旁观者介入、报告和反馈对话，并把干预焦点从判断当事人转到改变文化。
 - **核心论点**：Beaulieu 认为 progress 慢是因为文化由对话组成，而人们没有练习不舒服的 conversations。受害者不总能单独干预，旁观者可以预先成为 helpers；报告需要信息和不报复，HR 需要透明回应；即使不确定，也可以用低强度开场给别人澄清和求助的机会。
 - **核心论点**：对话式改变从“识别行为—承受不确定—选择行动”三步展开。Sarah 以自身被搭讪和旁观者介入的案例说明，求助不一定是正面冲突，也可以是邀请他人参与、通知场所工作人员或事后报告；管理者则要提前建立可接受的反应和求助路径。
@@ -89,7 +89,7 @@ source_text: ch58_9_how_to_conduct_difficult_conversations.txt
 
 **中文理解**：要求遭受骚扰的受害者亲自进行干预对话，对人们来说是不现实的期待。
 
-**句子结构**：主语 An intervention conversation，when you are the victim of harassment 是时间／条件状语从句，is an unrealistic expectation for people 是系表结构。
+**句子结构**：主语 An intervention conversation，when you are the victim of harassment 是修饰 conversation 的关系性从句，含有时间／条件意义；is an unrealistic expectation for people 是系表结构。
 
 **关键词**：intervention conversation / victim of harassment / unrealistic expectation / people
 
@@ -181,6 +181,7 @@ source_text: ch58_9_how_to_conduct_difficult_conversations.txt
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
+| engagement | 活动／演讲 engagements | "a speaking engagement" |
 | harassment | 骚扰 | "respond to sexual harassment" |
 | uncomfortable | 不舒服的 | "it’s going to feel horribly uncomfortable" |
 | practice | 练习 | "practice those conversations ahead of time" |
@@ -208,7 +209,6 @@ source_text: ch58_9_how_to_conduct_difficult_conversations.txt
 | company | 公司 | "Companies are still sorting out" |
 | team | 团队 | "there are six other colleagues there" |
 | meeting | 会议 | "meeting today" |
-| event | 活动 | "a speaking engagement" |
 | bar | 酒吧 | "in a bar" |
 | staff | 工作人员 | "bartending staff" |
 | help | 帮助 | "ask for help" |

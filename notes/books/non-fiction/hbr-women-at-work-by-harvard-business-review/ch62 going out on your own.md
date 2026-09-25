@@ -10,7 +10,7 @@ source_text: ch75_4_going_out_on_your_own.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 4 “Going Out on Your Own”
 - **形式/对话嘉宾**：Stacey Abrams、Lara Hodgson 与 Women at Work 主持人 Amy Bernstein、Emily Caulfield 对谈
 - **章节定位**：第四册第四篇正式文章；两位创业者分享 risk tolerance、curiosity、transparency、伙伴规则、self-doubt、fear 和 female／race 交叉身份对创业的影响。
-- **字符数**：约 12,178 字符
+- **字符数**：约 9,799 字符
 - **一句话主旨**：独立创业不是只靠勇气或随机冒险，而是需要学习力、韧性、风险承受、透明合作和对自我怀疑的持续检验；女性和有色人种还要面对 gender／race 双重标准，并把差异转成可用的 superpowers。
 - **核心论点**：Abrams 与 Hodgson 将个人品质、伙伴关系和制度现实分开讨论。Stacey 强调 risk tolerance、curiosity 和 transparency；Lara 强调 resilience、grit、承认害怕和保留不同视角。两人把女性创业的“sticky floor”转成可调查的 fear、可共享的 learning 和主动选择的 identity advantage。
 - **核心论点**：创业关系需要 rules、honesty 和 transparency，而不是只靠友谊；伙伴要在不同观点和空间距离中保持信任。对女性和有色人种来说，既要承认 fear 的警告意义，也要利用被边缘化带来的观察力和不同问题视角。
@@ -53,9 +53,9 @@ source_text: ch75_4_going_out_on_your_own.txt
 
 **中文理解**：我不是风险冒险者，但我非常能承受风险。
 
-**句子结构**：I’m not...but I am... 是 not...but 省略结构；risk seeker 和 risk tolerant 名词化对比。
+**句子结构**：I’m not...but I am... 是 not...but 对比结构；a risk seeker 是名词短语，very risk tolerant 是形容词短语作表语。
 
-**关键词**：not a risk seeker / very risk tolerant / contrast
+**关键词**：not a risk seeker / very risk tolerant
 
 **表达方式**：否定和肯定对照保留风险边界，seeker 与 tolerant 的词根对比把主动寻找和承受不确定性区分开。
 
@@ -127,7 +127,7 @@ source_text: ch75_4_going_out_on_your_own.txt
 
 **句子结构**：主句 One of the corollaries is that...，that 从句是表语；is driven by 是被动结构，by fear 是原因。
 
-**关键词**：corollary / self-doubt / driven by fear
+**关键词**：self-doubt / driven by fear
 
 **表达方式**：corollary 将自我怀疑作为前面讨论的逻辑结果，is driven by 将心理状态连接到具体情绪来源。
 

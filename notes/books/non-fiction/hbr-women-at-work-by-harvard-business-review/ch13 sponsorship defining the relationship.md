@@ -10,7 +10,7 @@ source_text: ch14_12_sponsorship_defining_the_relationship.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 12 “Sponsorship: Defining the Relationship”
 - **作者/对话嘉宾**：Rosalind Chow；Amy Bernstein、Amy Gallo、Nicole Torres 主持
 - **章节定位**：第一册 networking 部分进入 sponsorship 的第一篇文章；文章以研究者访谈区分 mentorship 与 sponsorship，解释赞助者如何使用社会资本为受赞助者创造机会和可见性。
-- **字符数**：约 14,112 字符
+- **字符数**：约 17,217 字符
 - **一句话主旨**：mentorship 主要通过时间和建议改变受指导者本人，sponsorship 则通过影响、声望和机会改变别人对受赞助者的看法；真正的 sponsorship 需要先建立可信度、明确目标并让多个支持者共同发挥作用，而不是把关系变成交易。
 
 ## 论证结构
@@ -75,7 +75,7 @@ source_text: ch14_12_sponsorship_defining_the_relationship.txt
 
 **中文理解**：例如，如果你邀请一个本来不会参加某场会议的人参会，你本人可能不去那场会议，但你已经给了他一个否则无法获得的巨大机会。
 
-**句子结构**：For instance 引入例证；if you invite... 是条件状语从句，that they would never otherwise have gone to 修饰 conference；you may not yourself go... 与 but you have provided... 由 but 连接，后者是主句。would not otherwise have had access 是虚拟／倒装结构。
+**句子结构**：For instance 引入例证；if you invite... 是条件状语从句，that they would never otherwise have gone to 修饰 conference；you may not yourself go... 与 but you have provided... 由 but 连接，后者是主句。would not otherwise have had access 是情态／条件式完成结构。
 
 **关键词**：invite someone / conference / incredible opportunity / wouldn’t otherwise have had access
 
@@ -87,7 +87,7 @@ source_text: ch14_12_sponsorship_defining_the_relationship.txt
 
 **中文理解**：换一种思考方式是：“如果这个人成功了，会不会影响我的声誉？”
 
-**句子结构**：Another way to think about it is 是框架句；冒号后直接引语以 if 引导条件从句，does it impact my reputation 是主句。If 与 impact 的现在时让问题具有自我审查的即时性。
+**句子结构**：Another way to think about it is 是框架句；逗号后直接引语以 if 引导条件从句，does it impact my reputation 是主句。If 与 impact 的现在时让问题具有自我审查的即时性。
 
 **关键词**：Another way to think / if this person succeeds / impact my reputation
 
@@ -101,7 +101,7 @@ source_text: ch14_12_sponsorship_defining_the_relationship.txt
 
 **句子结构**：It’s more that... 是强调框架，the protégé 是主语，has to establish their credibility with the sponsor first 是谓语；first 是时间／顺序副词。
 
-**关键词**：protégé / establish credibility / with the sponsor / first
+**关键词**：protégé / establish their credibility / with the sponsor / first
 
 **表达方式**：more that 把建议从直接请求修正为关系准备，first 将可信度置于 sponsorship 请求之前。作者用顺序词把“先证明、后请求”写成流程。
 

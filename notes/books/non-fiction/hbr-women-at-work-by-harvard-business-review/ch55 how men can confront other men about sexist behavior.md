@@ -10,7 +10,7 @@ source_text: ch64_15_how_men_can_confront_other_men_about_.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 15 “How Men Can Confront Other Men About Sexist Behavior”
 - **作者**：W. Brad Johnson、David G. Smith
 - **章节定位**：第三册第十五篇正式文章；文章区分 interpersonal allyship 与 public allyship，提出 two-second rule、I-statements、Socratic questions、个人经历、幽默和 carefrontation 六种男性干预策略。
-- **字符数**：约 10,245 字符
+- **字符数**：约 8,203 字符
 - **一句话主旨**：男性支持性别平等却常只做私下 mentoring，真正困难的是公开面对其他男性的偏见和骚扰；用立即、清晰、非控诉且站在同一阵营的 male allyship，男性可以打破沉默、改变规范并减少女性单独承担发声风险。
 - **核心论点**：77% 男性认为自己尽了力，但只有 41% 女性认同，说明男性需要从私人支持转向 public confrontation。干预之所以有效，不只因为内容正确，也因为 speaker 的 in-group identity 使信息更容易被接受；策略包括 Ouch、I-statements、提问、分享经历、幽默和先建立同盟再纠正。
 - **核心论点**：文章把 male allyship 定义为让男性意识到并指出其他男性的 sexism、bias 和 harassment。六种策略分别解决沉默启动、责任归属、认知重构、关系信任和持续强化，重点不是羞辱，而是让行为改变成为男性群体规范的一部分。

@@ -10,7 +10,7 @@ source_text: ch20_18_work_friendships_are_mostly_amazing_a.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 18 “Work Friendships Are Mostly Amazing and Sometimes Messy”
 - **作者/对话嘉宾**：Nancy Rothbard、Julianna Pillemer；Amy Bernstein、Amy Gallo、Nicole Torres 主持
 - **章节定位**：第一册 networking 部分进入 work friendship 的文章；研究者访谈从情感支持、身份和共同目标出发，也讨论等级差异、偏袒、外部排除、孤独和关系破裂后的修复。
-- **字符数**：约 11,442 字符
+- **字符数**：约 14,012 字符
 - **一句话主旨**：职场友谊能提供快乐、能量和社会情感支持，但它同时受雇佣关系、等级权力和任务要求的约束；最健康的关系不是无限亲近，而是尽早谈边界、理解双方视角，并在必要时修复而非简单切断。
 - **核心论点**：work friendship 可以是真实友谊，却具有非自愿接触、正式规范、交换导向和共同任务等独特结构。它既帮助个人减轻孤独，也可能让人分心、难以反驳朋友或让他人感到被排除；管理者和员工需要提前协商期待、保持透明度，并以有限而真实的自我参与关系。
 
@@ -108,7 +108,7 @@ source_text: ch20_18_work_friendships_are_mostly_amazing_a.txt
 
 **为什么这样写**：作者把 support 的反面写成 attention cost，为下一句的互惠负担铺路。工作友谊需要同时衡量情感支持和完成任务的能力。
 
-> **原句 7:** "A second piece, which is related to what Julianna talked about earlier, is that when we’re friends with somebody in the same work group, we may feel uncomfortable disagreeing with them, even when it is necessary for the betterment of the organization."
+> **原句 7:** "A second piece, which is related to what Julianna talked about earlier, is that when we’re friends with somebody in the same work group, we may feel uncomfortable disagreeing with them, even when it’s necessary for the betterment of the organization."
 
 **中文理解**：第二点与 Julianna 先前谈到的内容相关：当我们和同工作组的某人成为朋友时，即使为了组织改善有必要，我们也可能不愿意与其意见相左。
 
@@ -126,7 +126,7 @@ source_text: ch20_18_work_friendships_are_mostly_amazing_a.txt
 
 **句子结构**：主句是 Just awareness... and just having...—that alone can help to mitigate...；awareness 和 having those conversations 是两个并列名词／动名词结构；that alone 是强调主语。
 
-**关键词**：awareness / downsides can occur / conversations very early / even before conflict / mitigate threats
+**关键词**：awareness / downsides can occur / conversations very early / even before conflict / mitigate some of those threats
 
 **表达方式**：Just...just 的重复让建议显得轻量，early 和 even before conflict 把预防时点明确前置，that alone 避免把结果夸成唯一方案。
 
@@ -138,7 +138,7 @@ source_text: ch20_18_work_friendships_are_mostly_amazing_a.txt
 
 **句子结构**：It’s almost like setting up a contract or an expectation... 是系表结构；what your priorities are 和 what you need... 是两个并列的名词性从句，about 引导说明契约内容。
 
-**关键词**：contract or expectation / up front / priorities / what you need / work done effectively
+**关键词**：a contract or an expectation / up front / priorities / what you need / work done effectively
 
 **表达方式**：contract 把友谊中的边界写成可协商规则，up front 强调提前，what...and what... 让对话聚焦优先事项与实际需要。
 

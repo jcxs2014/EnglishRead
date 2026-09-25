@@ -11,7 +11,7 @@ source_text: ch85_14_network_with_people_outside_your_indu.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 14 “Network with People Outside Your Industry”
 - **作者**：Dorie Clark
 - **章节定位**：第四册第十四篇正式文章；文章说明只和同行业同事建立关系的风险，提出 inventory、schedule、recommendations、long game 四个扩大 bridging capital 的策略。
-- **字符数**：约 10,344 字符
+- **字符数**：约 5,929 字符
 - **一句话主旨：**职业网络若过度集中在同一行业，会限制转型、削弱多元观点并增加 layoffs 风险；通过盘点关系、把 networking 放进日程、请人推荐、不追求即时回报，能建立跨行业的 bridging capital 和 career insurance。
 - **核心论点**：**proximity** 让人自然地建立同质网络，**groupthink** 是其副作用；bridging capital 要求在共同点之外建立跨差异关系。职业多样性不只是资源交换，也服务于个人好奇和自我成长。
 - **核心论点**：**Dorie Clark** 以 Dan 的 engineering director 转型为案例，说明跨行业连接能在行业变动时带来新工作和新洞见；有效策略先量化网络构成，再建立固定习惯、借助 outlier 介绍，并把长期关系当作职业保险而非即时交易。
@@ -105,7 +105,7 @@ source_text: ch85_14_network_with_people_outside_your_indu.txt
 
 **句子结构：**If 引导条件从句，your network has become... 是从句；主句 you limit your options，in case of... 是条件状语。
 
-**关键词：**network too narrow / limit options / career change / downturn / industry
+**关键词**：network has become too narrow / limit your options / career change / downturn / industry
 
 **表达方式：**If...limit 将网络结构与选择空间连接，in case of 同时列 career change 和 downturn，too narrow 给出问题阈值。
 

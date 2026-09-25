@@ -10,9 +10,9 @@ source_text: ch53_4_why_things_aren_t_better_yet.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 4 “Why Things Aren’t Better Yet”
 - **形式/对话嘉宾**：Amy Gallo 与 VMware Women’s Leadership Innovation Lab 高级研究学者 Marianne Cooper 对谈
 - **章节定位**：第三册第四篇正式文章；文章结合 *Women in the Workplace 2018* 的数据，讨论 #MeToo 后的政策、举报、领导层性别比例、绩效目标和组织文化为何仍存在滞后。
-- **字符数**：约 16,110 字符
+- **字符数**：约 12,388 字符
 - **一句话主旨**：#MeToo 让人们更愿意发声，却不会自动改变组织的激励、预算、指标和问责；只有把安全文化、领导多样性、薪酬与晋升数据纳入 business objectives，并用制度、联盟和反报复流程支持举报，文化变化才会持续。
-- **核心论点**：社会规范变化与组织行动之间存在 lag。数据能让人看见问题，却不能自动改变行为；如果经理的 performance objectives 不包含安全文化、团队多样性和包容气候，他们就会优先追求真正被奖励的指标。女性发声必须与组织问责、工会／法律支持和集体 solidarity 连接。
+- **核心论点**：社会规范变化与组织行动之间存在 lag。数据能让人看见问题，却不能自动改变行为；如果经理的 performance objectives 不包含安全文化、团队多样性和包容气候，他们就会优先追求真正被奖励的指标。女性发声必须与组织问责、法律支持和集体 solidarity 连接。
 - **核心论点**：文章把“#MeToo 后为何仍无改善”解释为社会变革与组织执行之间的时滞：发声会先发生，政策、实践、预算和问责才慢慢改变。解决方案不仅是个人勇气，而是把骚扰预防、领导多样性、薪酬追踪和公平晋升当成可衡量的 business objectives，并让举报者获得安全和制度支持。
 
 ## 论证结构
@@ -23,7 +23,7 @@ source_text: ch53_4_why_things_aren_t_better_yet.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 35% 女性经历骚扰、52% 认为举报公平有效 | 调查数据 | 说明 prevalence 与制度信任落差 |
-| #MeToo 后组织政策更新比例仍只有 60% | 调查数据 | 说明文化变化没有自动变成政策 |
+| #MeToo 后只有 60% 的员工报告称公司已澄清政策 | 调查数据 | 说明文化变化没有自动变成政策 |
 | 组织诊断：顶层女性少、预算缺多元包容支持、缺晋升和薪酬公平追踪 | 组织诊断 | 说明系统性投入和指标不足 |
 | 男性／女性对举报有效性的 70%／50% 估计差异 | 调查分类 | 说明不同经验造成 his-and-her story |
 | 举报后报复风险与法律、记录建议 | 实务建议 | 支撑个人风险管理和组织责任区分 |
@@ -55,7 +55,7 @@ source_text: ch53_4_why_things_aren_t_better_yet.txt
 
 **句子结构**：主语 Thirty-five percent of women，谓语 report，having experienced it 是动名词作宾语；it 回指 sexual harassment。
 
-**关键词**：Thirty-five percent / women / report having experienced / sexual harassment
+**关键词**：Thirty-five percent / women / report having experienced
 
 **表达方式**：数字先行，report having experienced 保留受访者报告而非作者直接断言，it 依赖上文回指。
 

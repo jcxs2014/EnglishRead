@@ -10,9 +10,9 @@ source_text: ch57_8_why_open_secrets_exist_in_organization.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 8 “Why Open Secrets Exist in Organizations”
 - **作者**：Insiya Hussain、Subra Tangirala
 - **章节定位**：第三册第八篇正式文章；文章以 Weinstein 事件为入口，用三项研究解释“大家都知道但没人公开说”的 open secret、bystander effect 和 diffusion of responsibility，并给管理者具体干预建议。
-- **字符数**：约 9,059 字符
+- **字符数**：约 7,303 字符
 - **一句话主旨**：当问题在组织中越来越成为共同知识，个体反而更不愿向高层发声，因为他们把责任和风险分散给别人；管理者必须明确告诉员工“即使别人也知道，你的声音仍不重复”，奖励个人勇气，才能打破沉默。
-- **核心论点**：三人研究分别在印度财富 500 电子公司、美国本科生和美国工作成年人中重复发现：知道问题的人越多，个人越不愿单独承担发声成本。Hussain 与 Tangirala 将其解释为 bystander effect 和 diffusion of responsibility，并建议经理把员工从等待别人行动的旁观者转成主动公民。
+- **核心论点**：三项研究分别在印度财富 500 电子公司、美国本科生和美国工作成年人中重复发现：知道问题的人越多，个人越不愿单独承担发声成本。Hussain 与 Tangirala 将其解释为 bystander effect 和 diffusion of responsibility，并建议经理把员工从等待别人行动的旁观者转成主动公民。
 - **核心论点**：open secret 不是因为没有人知道，而是因为每个人都知道别人知道，于是把个人责任推给群体。文章以 Weinstein 事件和三项研究说明“共同知识”反而会降低发声意愿；经理必须打破责任分散，明确邀请、奖励和评价个人发声，而不是只说“如果你看到问题就说”。
 
 ## 论证结构
@@ -53,7 +53,7 @@ source_text: ch57_8_why_open_secrets_exist_in_organization.txt
 
 **中文理解**：这就提出了一个问题：为什么在许多员工都知道某个问题或担忧的组织里，事情仍然是公开的秘密，却没有人公开提出？
 
-**句子结构**：主句 This raises the question；冒号后是直接引语；where multiple employees know... but no one publicly brings it up 是组织情境的关系从句。
+**句子结构**：主句 This raises the question；冒号后是直接疑问句 Why do issues remain...；where multiple employees know... but no one publicly brings it up 是组织情境的关系从句。
 
 **关键词**：raises the question / remain open secrets / multiple employees know / no one publicly brings it up
 
@@ -77,7 +77,7 @@ source_text: ch57_8_why_open_secrets_exist_in_organization.txt
 
 **中文理解**：旁观者效应可以通过一个例子理解：想象 Jane 是某公司工程团队的一员。
 
-**句子结构**：主句 The bystander effect can be understood with an example；冒号后是直接引语；Imagine 是祈使动词，Jane... 是宾语和身份说明。
+**句子结构**：主句 The bystander effect can be understood with an example；冒号后是命令式示例 Imagine Jane...，不是人物直接引语；Jane... 说明案例对象。
 
 **关键词**：bystander effect / understood with an example / Imagine Jane / engineering team / company
 
@@ -123,9 +123,9 @@ source_text: ch57_8_why_open_secrets_exist_in_organization.txt
 
 > **原句 8:** "In fact, those who believed they were the only ones aware of the issue were 2.5 times more likely to volunteer to personally raise the issue with the senate."
 
-**中文理解**：事实上，那些认为自己是唯一意识到问题的人，亲自向参议院提出问题的可能性高出 2.5 倍。
+**中文理解**：事实上，那些认为自己是唯一意识到问题的人，亲自向大学学生议事会提出问题的可能性是对照组的 2.5 倍。
 
-**句子结构**：主语 those who believed...；谓语 were 2.5 times more likely to volunteer，to personally raise the issue... 是不定式，with the senate 是范围状语。
+**句子结构**：主语 those who believed...；谓语 were 2.5 times more likely to volunteer，to personally raise the issue... 是不定式，with the university senate 是介词短语，说明接受/沟通对象。
 
 **关键词**：only ones aware / 2.5 times more likely / volunteer / personally raise the issue / senate
 

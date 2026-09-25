@@ -10,7 +10,7 @@ source_text: ch39_11_the_science_of_choking_under_pressure.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 11 “The Science of Choking Under Pressure”
 - **作者**：Alyson Meister、Maude Lavanchy
 - **章节定位**：第二册第十一篇正式文章；文章把运动表现中的 choke 机制迁移到职场，说明威胁反应、压力与资源失衡如何损害工作表现，并提出心理预演、压力练习、赛前例程、正念和压力重构。
-- **字符数**：约 9,102 字符
+- **字符数**：约 11,881 字符
 - **一句话主旨**：即使拥有技能和经验，关键时刻也可能因威胁反应超出个人资源而“冻结”；通过提前预演、主动制造压力、建立固定 routine、减少过度思考、把 stress 解释为兴奋并拉长视角，可以恢复技能访问并减少再次 choke 的循环。
 - **核心论点**：choking 不是单纯的准备不足，而是外部要求与个人应对资源之间的失衡，且可能在无意识中发生。运动训练提供了可迁移的行为工具：mental imagery、pressure rehearsal、preperformance routine、self-distraction、mindfulness 和 stress mindset 共同帮助大脑在高压时访问已练技能。
 
@@ -103,11 +103,11 @@ source_text: ch39_11_the_science_of_choking_under_pressure.txt
 
 **关键词**：Practice / for pressure
 
-**表达方式**：四词祈使句将一个复杂策略压缩成动作目标。for pressure 说明练习不只是技能重复，而是刻意改变心理条件。
+**表达方式**：三词祈使句将一个复杂策略压缩成动作目标。Practice、for、pressure 三个词直接规定练习及其对象。
 
 **为什么这样写**：文章区分“为技能练习”和“为压力练习”。通过打断、负面评论或撤掉支持材料，演讲者可以提前适应真实失控感。
 
-> **原句 7:** "Develop a preperformance routine."
+> **原句 7:** "Develop a preperformance routine"
 
 **中文理解**：建立一套表现前例程。
 
@@ -131,7 +131,7 @@ source_text: ch39_11_the_science_of_choking_under_pressure.txt
 
 **为什么这样写**：过度分析会让本应自动化的动作重新进入意识，增加错误和犹豫。作者建议用 self-distraction 或例程保护自动技能，而非临场强迫自己“不要想”。
 
-> **原句 9:** "Develop a stress mindset."
+> **原句 9:** "Develop a stress mindset"
 
 **中文理解**：建立一种压力心态。
 

@@ -10,7 +10,7 @@ source_text: ch28_introduction_every_negotiation_is_an_opp.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series）导言
 - **作者**：Amy Gallo
 - **章节定位**：第二册“Next-Level Negotiating”的开篇导言，位于 Chapter 1 “How Women Can Get What They Want in a Negotiation” 之前；作者以自己的费用谈判经历说明 negotiation 的技能、性别压力与关系学习。
-- **字符数**：约 5,864 字符
+- **字符数**：约 7,099 字符
 - **一句话主旨**：谈判不是赢得对抗或单纯保护关系的二选一，而是一次练习坚定、边界、协作和理解情境的机会；女性面对的偏见与不自信可以被识别并转化为更好的谈判能力。
 - **核心论点**：作者曾害怕谈判并试图雇人代表自己，后来意识到自己总在教别人处理困难对话，也应该实践自己的建议。谈判中的 discomfort 和 self-doubt 不必先被消除，重要的是用准备、目标、边界和创造性方案行动；女性常因 gender expectations 被惩罚，却仍可通过自信、协作和关系学习获得更好的结果。
 
@@ -22,7 +22,7 @@ source_text: ch28_introduction_every_negotiation_is_an_opp.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 作者因费用谈判尴尬而想雇 speaking agent | 个人案例 | 展示谈判中的自我怀疑与性别化压力 |
-| 作者转而采用自己教给客户的清晰目标、边界和自我倡导建议 | 行为变化 | 证明能力可以通过实践内化 |
+| 作者转而采用自己在演讲／工作坊中给出的清晰目标、边界和自我倡导建议 | 行为变化 | 证明能力可以通过实践内化 |
 | Rosette 关于“negotiate against themselves”的建议 | 专家观点 | 指出女性常在谈判前先降低自己的目标 |
 | Bowles 与 Babcock 关于女性因谈判受罚的研究 | 研究引述 | 解释现实障碍而不把问题归咎个人 |
 | 创造性、协作式谈判同时满足多方需要 | 机制／建议 | 反对“坚定或关系”二选一 |
@@ -64,7 +64,7 @@ source_text: ch28_introduction_every_negotiation_is_an_opp.txt
 
 **中文理解**：我最终没有和 speaker’s bureau 签约。
 
-**句子结构**：主句 I didn’t end up，signing with a speaker’s bureau 是动名词作介词 with 的宾语，didn’t end up 标记过去未完成的选择。
+**句子结构**：主句 I didn’t end up signing with a speaker’s bureau；end up 后接动名词 signing，with a speaker’s bureau 修饰 signing，didn’t end up 标记过去未完成的选择。
 
 **关键词**：didn’t end up / signing / speaker’s bureau
 
@@ -88,7 +88,7 @@ source_text: ch28_introduction_every_negotiation_is_an_opp.txt
 
 **中文理解**：我记得听到 Ashleigh Shelby Rosette 教授在 Women at Work 播客第一季的一期节目中提醒女性，不要“和自己谈判”——那是在作者成为联合主持人之前，当时她还是节目的听众和忠实听众。
 
-**句子结构**：主句 I remember hearing... 是感官记忆加动名词结构；professor Ashleigh Shelby Rosette 是提到的人，caution women to not... 是省略 to 的不定式；on an episode... 是地点／来源状语，括号说明作者当时的听众身份。
+**句子结构**：主句 I remember hearing... 是感官记忆加动名词结构；professor Ashleigh Shelby Rosette 是提到的人，caution women to not... 是 caution + 宾语 + to not do 的完整不定式结构；on an episode... 是地点／来源状语，括号说明作者当时的听众身份。
 
 **关键词**：remember hearing / professor Ashleigh Shelby Rosette / caution women / negotiate against themselves / episode of the Women at Work podcast
 
@@ -150,7 +150,7 @@ source_text: ch28_introduction_every_negotiation_is_an_opp.txt
 
 **句子结构**：主语 The articles and interviews，outline、offer 和 provide 三个动词并列；tactics that work 是 outline 的宾语，what to do... 是 guidance 的同位内容。
 
-**关键词**：articles and interviews / outline tactics / putting them in practice / struggling / reach a resolution
+**关键词**：articles and interviews / outline tactics / putting them in practice / struggling
 
 **表达方式**：outline／offer／provide 三个近义动作把全书功能分成识别、实践和求助三层，what to do 把困难场景具体化。struggling to reach a resolution 把读者放入过程中的阻力位置。
 

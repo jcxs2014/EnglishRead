@@ -10,7 +10,7 @@ source_text: ch12_10_how_to_protect_your_time_without_alie.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 10 “How to Protect Your Time Without Alienating Your Network”
 - **作者**：Dorie Clark
 - **章节定位**：第一册 networking 部分的第五篇文章；文章讨论职位上升后请求增多时，如何在拒绝、筛选和回应请求的同时保留盟友关系与个人优先事项。
-- **字符数**：约 5,151 字符
+- **字符数**：约 6,276 字符
 - **一句话主旨**：保护时间不是简单地忽略所有请求，而是通过规模化回应、保持谦逊和信任、以及明确选择自己要“不擅长”的事情来建立可持续边界，同时避免把时间管理变成对他人的冷酷控制。
 
 ## 论证结构
@@ -51,7 +51,7 @@ source_text: ch12_10_how_to_protect_your_time_without_alie.txt
 
 **中文理解**：但当然，这样做有可能疏远你最积极的支持者。
 
-**句子结构**：But of course 引导转折；that 指代前文“忽略所有请求”的做法，risks alienating 是情态动词加动名词；some of your biggest advocates 是疏远的对象。
+**句子结构**：But of course 引导转折；that 指代前文“忽略所有请求”的做法，risks alienating 中 risk 是实义动词、that 是主语，alienating... 是动名词宾语；some of your biggest advocates 是疏远的对象。
 
 **关键词**：of course / risks alienating / biggest advocates
 
@@ -95,9 +95,9 @@ source_text: ch12_10_how_to_protect_your_time_without_alie.txt
 
 **为什么这样写**：作者将社交从个人服务改造成网络编织：一顿饭连接多个原本不相识的人，回应了 networking 对跨边界联系的需要，也减少重复 coffee 的时间成本。
 
-> **原句 6:** "But there has to be a baseline of trust and humility, especially when you’ve been introduced by a mutual contact."
+> **原句 6:** "Of course, it’s important to guard your time and be selective about which events you attend, but there has to be a baseline of trust and humility, especially when you’ve been introduced by a mutual contact."
 
-**中文理解**：但尤其当你通过共同联系人被介绍时，仍然必须保持最低限度的信任和谦逊。
+**中文理解**：当然，保护自己的时间、谨慎选择参加哪些活动很重要；但尤其当你通过共同联系人被介绍时，仍然必须保持最低限度的信任和谦逊。
 
 **句子结构**：But 引导转折；there has to be a baseline of... 是存在句，of trust and humility 说明基准内容；especially when... 是强调条件状语从句。
 

@@ -10,7 +10,7 @@ source_text: ch50_1_make_yourself_heard.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 1 “Make Yourself Heard”
 - **形式/对话嘉宾**：Amy Bernstein、Sarah Green Carmichael、Nicole Torres 与 Georgetown University 语言学教授 Deborah Tannen 对谈
 - **章节定位**：第三册第一篇正式文章；文章从会议中被忽略的 idea 和 ritual opposition 出发，分析女性间接表达、credit taking、double bind 与 apology ritual 如何影响领导力和可见度。
-- **字符数**：约 13,695 字符
+- **字符数**：约 13,137 字符
 - **一句话主旨**：女性并非没有能力或想法，而是常在“像女性一样礼貌”与“像权威一样确定”之间走钢丝；通过减少自我贬低、明确认领 credit、用坚定而非含糊的请求和适度的 ritual，可以让自己的声音既被听见又不被惩罚。
 - **核心论点**：Tannen 认为工作语言受到童年同性群体规范和性别权力预期的共同塑造。女性为避免被看作 bossy 或 stuck up 而弱化权威，男性则更容易公开主张能力；组织又常把男性的权威模式当作唯一标准，形成 women 的 double bind。女性需要找到 self-effacing 与 declarative 之间的 middle ground，并改变把 indirectness 当成美德的默认脚本。
 
@@ -76,7 +76,7 @@ source_text: ch50_1_make_yourself_heard.txt
 
 **中文理解**：我的印象是，情况没有太大变化。
 
-**句子结构**：主语 My impression，be 后省略 is；that not much has changed 是表语从句。
+**句子结构**：主句 My impression is...，is 明确出现，that not much has changed 是表语/内容从句，说明作者对变化的判断。
 
 **关键词**：My impression / not much / changed
 

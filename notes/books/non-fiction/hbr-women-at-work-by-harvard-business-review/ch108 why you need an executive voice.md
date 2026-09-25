@@ -11,7 +11,7 @@ source_text: ch129_8_why_you_need_an_executive_voice.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 8 “Why You Need an Executive Voice”
 - **作者**：Rebecca Shambaugh
 - **章节定位**：第六册第八篇正式文章；文章把 executive voice 解释为 context、vision、relationships、solutions 和 calm pressure 下的 strategic communication，并要求发言者知道自己在会议中的角色。
-- **字符数**：约 11,648 字符
+- **字符数**：约 6,837 字符
 - **一句话主旨**：高管声音不是职位带来的声音，而是根据 context、role、audience 和 timing 选择简洁、有愿景、可连接、解决导向且能承受压力的表达方式。
 - **核心论点**：Shambaugh 认为 executive voice 涉及 strategic instincts、understanding of context 和 awareness of signals；错误常常不是内容差，而是发言时机、角色和场景不匹配。
 - **核心论点**：strategic voice 要从“指出问题”升级到“bring solutions”，从个人 department 扩展到 enterprise view，并通过 relationships 和 facts 保持 pressure cooker 中的 levelheaded leadership。
@@ -43,7 +43,7 @@ source_text: ch129_8_why_you_need_an_executive_voice.txt
 
 **中文理解**：无论你是 associate manager 还是 senior executive，你说什么、怎么说、何时说、对谁说以及是否在正确 context 中说，都是发挥全部战略领导潜力的关键部分。
 
-**句子结构**：Whether...or... 是让步／范围从句，what／how／when／to whom／whether... 并列作主语，are critical components... 是系表结构。
+**句子结构**：Whether you are an associate manager or a senior executive 与后续 what/how/when/to whom/whether... 共同构成主语部分；Whether 不是独立让步状语从句。
 
 **关键词**：associate manager / senior executive / what you say / how you say it / proper context / strategic leadership
 
@@ -67,7 +67,7 @@ source_text: ch129_8_why_you_need_an_executive_voice.txt
 
 **中文理解**：我经常听高管说，他们想晋升一位高潜领导者，但觉得这个人还不够 strategic，无法继续晋升。
 
-**句子结构**：主句 I hear from top executives，that... 是同位语从句，would like to promote... 与 feel... 并列。
+**句子结构**：主句 I frequently hear from top executives，that 从句是 hear 的宾语/内容从句；其中 would like to promote... 与 feel... 并列。
 
 **关键词**：top executives / high-potential leaders / promote / strategic enough / advance
 
@@ -79,7 +79,7 @@ source_text: ch129_8_why_you_need_an_executive_voice.txt
 
 **中文理解**：如果你是某主题的主要权威，情境很可能要求你主持会议并作出最终决定。
 
-**句子结构**：If 条件从句，主句 it’s likely that... 是强调结构，context would require... 从句和 make... 并列。
+**句子结构**：If 条件从句，主句 it’s likely that... 是形式主语 it 加 that 从句的 anticipated-it 结构，不是强调句。
 
 **关键词**：primary authority / context / lead the meeting / final decisions
 

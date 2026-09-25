@@ -10,8 +10,8 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 19 “The Power of Women Supporting Women”
 - **作者**：Anne Welsh McNulty
-- **章节定位**：第六册第十九篇正式文章；文章从 McNulty 在 Big Eight 会计师事务所的经历和“queen bee”现象出发，说明女性同事之间建立联系、分享信息和公开 sponsorship 能减少孤立、焦虑与 attrition。
-- **字符数**：约 14,607 字符
+- **章节定位**：第六册第十九篇正式文章；文章从 McNulty 在 Big Eight 会计师事务所的经历和“queen bee”现象出发，说明女性同事之间建立联系、分享信息和公开 sponsorship 可能减少孤立与焦虑；作者希望这些做法可能降低 attrition 率。
+- **字符数**：约 7,941 字符
 - **一句话主旨**：女性在顶层稀缺和 queen-bee 压力下，不能把彼此视为 quota 竞争者；women-only lunches、open channels、公开赞助和跨公司网络能把个人困境识别为 collective obstacles，并改变组织文化。
 - **核心论点**：McNulty 初入职场时把 parity 看成 pipeline problem，误以为女性同事会提供 sisterhood；现实中 senior woman 明确说“这里只有一个 female partner 的位置”，而同层女性也缺少交流。
 - **核心论点**：women supporting women 的收益不仅是个人获得 advice 和 information，也包括 sponsor 身份、talent culture 和 collective identity；组织必须允许女性发声，并处理女性因支持他人而受惩罚的结构。
@@ -66,11 +66,11 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 > **原句 3:** My brusque colleague’s behavior has a (misogynistic) academic name: the “queen bee” phenomenon.
 
-**中文理解**：“queen bee”（女王蜂）现象。
+**中文理解**：我那位粗鲁同事的行为有一个带厌女色彩的学术名称：“queen bee”现象。
 
-**句子结构**：这是带同位解释的名词短语，queen bee 置于引号中。
+**句子结构**：主句 My brusque colleague’s behavior，谓语 has，冒号后的 the “queen bee” phenomenon 是同位说明，she says 标明说话者 Sandra Corelli。
 
-**关键词**：queen bee / senior-level women / junior women / distance
+**关键词**：brusque colleague’s behavior / misogynistic academic name / queen bee phenomenon
 
 **表达方式**：动物隐喻把组织中的女性排斥和竞争可视化，phenomenon 使其成为可研究对象。
 
@@ -240,7 +240,6 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 | dedicated | 专门的 | “dedicated space” |
 | company | 公司 | “company” |
 | research | 研究 | “research” |
-| data | 数据 | “data” |
 | representation gap | 代表性差距 | “representation” |
 | program | 项目 | “program” |
 | leadership | 领导力 | “leadership” |
@@ -289,4 +288,4 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 ## 一句话总结
 
-McNulty 说明，女性支持女性不是竞争顶层席位的附属品，而是把 individual frustration 转成 collective information、减少孤立和 attrition、公开 sponsorship 并改变 talent culture 的基础设施；即使女性会因互相支持受罚，仍应持续建立连接并让支持变得可见。
+McNulty 说明，女性支持女性不是竞争顶层席位的附属品，而是把 individual frustration 转成 collective information、减少孤立和焦虑、作者希望可能降低 attrition 率、公开 sponsorship 并改变 talent culture 的基础设施；即使女性会因互相支持受罚，仍应持续建立连接并让支持变得可见。

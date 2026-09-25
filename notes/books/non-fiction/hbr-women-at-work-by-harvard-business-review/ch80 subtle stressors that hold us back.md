@@ -11,7 +11,7 @@ source_text: ch97_1_subtle_stressors_that_hold_us_back.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 1 “Subtle Stressors That Hold Us Back”
 - **形式/对话嘉宾**：Teresa Cardador 与 Amy Bernstein、Amy Gallo、Nicole Torres
 - **章节定位**：第五册第一篇正式文章；讨论 outsider status、confidence gap、managerial／technical skill value、path dependence、performative niceness 和 organizational responsibility。
-- **字符数**：约 16,813 字符
+- **字符数**：约 14,110 字符
 - **一句话主旨**：女性工程师的 stress 不只来自 overt bias，也来自 outsider status、confidence gap、被推向 perceived peripheral 的 managerial roles 和必须持续“nice”的 emotional labor；个人要识别 path dependence、保留 technical chops、评估 role fit，但组织必须改变 culture 和 reward system。
 - **核心论点**：Cardador 将男性主导行业的性别分工内化为 stress：hard technical skills 更受重视，soft professional／managerial skills 被视为 peripheral；女性进入这些 roles 并不自动通向 top management，反而可能被认为技术不足、承担 work-life 代价并遭遇更严厉评判。
 - **核心论点**：女性无法单独修复 male-dominated system，但可以保持 career flexibility、拒绝被 mentoring path 固化，并识别 performative niceness 的情绪劳动。长期解决方案是组织停止把女性适应偏见当作成人责任。
@@ -150,13 +150,13 @@ source_text: ch97_1_subtle_stressors_that_hold_us_back.txt
 
 **中文理解**：要让这些问题真正改变，责任必须落在组织身上。
 
-**句子结构**：For these issues to... 是目的／条件结构，the onus needs to be on organizations 是主句，really really 强调程度。
+**句子结构**：For these issues to... 是目的／条件结构，the onus needs to be on organizations 是主句，really, truly 强调程度。
 
 **关键词**：these issues / really truly change / onus / organizations
 
 **表达方式**：really really 重复强调，onus really needs 重复责任判断，on organizations 明确责任主体。
 
-**为什么这样写**：Edwards／Cardador 的结尾把女性从“调整自己”的期望中释放出来。文化、奖励和评价系统必须由组织改变。
+**为什么这样写**：Cardador 的结尾把女性从“调整自己”的期望中释放出来。文化、奖励和评价系统必须由组织改变。
 
 ## 词汇分级
 

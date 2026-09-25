@@ -10,9 +10,9 @@ source_text: ch66_17_use_your_social_network_as_a_tool_for.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 17 “Use Your Social Network as a Tool for Social Justice”
 - **作者**：Raina Brands、Aneeta Rattan
 - **章节定位**：第三册第十七篇正式文章；文章从 Black Lives Matter 和 majority-group solidarity 出发，说明社会网络的三阶影响、建议网络如何支持女性和少数族群，并提出 active inclusion 实践。
-- **字符数**：约 10,020 字符
+- **字符数**：约 9,982 字符
 - **一句话主旨**：多数群体和男性拥有的社会网络是阻止职场偏见的重要资源；通过分享具体 antibias 行动、支持处于中心或边缘网络中的女性和少数族群，主动把他们纳入 informal network 并分享机会，才能把私人同情转为社会正义实践。
-- **核心论点**：个人直接影响的不只是朋友，也包括朋友的朋友及其朋友；但网络影响必须超出价值声明，转为具体 anti-bias 行为。研究显示，处于中心 advice network 的女性更可能面对性别偏见，active inclusion 既能赋权她们，也能改变多数群体自己的同质化网络。
+- **核心论点**：个人直接影响的不只是朋友，也包括朋友的朋友及其朋友；但网络影响必须超出价值声明，转为具体 anti-bias 行为。研究显示，处于中心 advice network 的女性更可能主动 confront 性别偏见、更敢于发声，active inclusion 既能赋权她们，也能改变多数群体自己的同质化网络。
 - **核心论点**：Brands 与 Rattan 将社交网络视为 social justice infrastructure。多数群体成员可以用它广播反种族主义和反厌女价值、确认受影响者经历、支持她们发声，并把原本排他的网络改造成主动包含关系、专业知识和机会分享的场所。
 
 ## 论证结构
@@ -77,7 +77,7 @@ source_text: ch66_17_use_your_social_network_as_a_tool_for.txt
 
 **中文理解**：你的想法和行为从你这里扩散出去，影响你的朋友、你可能不认识的朋友的朋友，以及这些朋友的朋友。
 
-**句子结构**：主句 Your ideas and behaviors，谓语 ripple out and influence；三个 by...结构说明影响范围，as well 连接最后一层。
+**句子结构**：主句 Your ideas and behaviors，ripple out from you 是谓语，influencing... 是现在分词短语；from you 后接 friends、friends of friends whom you may not even know 和 friends of those friends as well 三层并列对象。
 
 **关键词**：ideas and behaviors / ripple out / friends of friends / whom you may not even know / friends of those friends
 
@@ -103,7 +103,7 @@ source_text: ch66_17_use_your_social_network_as_a_tool_for.txt
 
 **句子结构**：If 引导条件状语从句，主句 I am more likely to support...；liking 和 support 使用重复的 diversity and inclusion initiative。
 
-**关键词**：If my friend likes / diversity and inclusion initiative / more likely to support / same initiative
+**关键词**：If my friend likes / diversity and inclusion initiative / more likely to support / the diversity and inclusion initiative
 
 **表达方式**：If...then 呈现条件推论，重复 initiative 明确影响对象，more likely 保留概率而非确定性。
 

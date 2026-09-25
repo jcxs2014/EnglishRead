@@ -10,7 +10,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 11 “How to Maintain Your Professional Network over the Years”
 - **作者**：Rebecca Knight
 - **章节定位**：第一册 networking 部分的第六篇文章；文章汇总专家建议，区分“建立网络”和“长期维护”，提出优先排序、主动关心、策略使用社交媒体、帮助他人、不炫耀、不强迫以及定期审计等做法。
-- **字符数**：约 6,689 字符
+- **字符数**：约 8,117 字符
 - **一句话主旨**：职业网络需要被当作长期关系而非联系人库存来维护：定期排序联系人、在对方需要之前表达关心、把线上互动带回线下、提供真实帮助，并允许新关系进入、旧关系调整。
 
 ## 论证结构
@@ -71,7 +71,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 
 **为什么这样写**：长期网络的关键不在认识多少新人，而在旧关系是否仍能被重新激活。它把“偶尔联系”解释为维护未来机会的基础。
 
-> **原句 4:** "She suggests “grouping your contacts into buckets” of categories—for example, current clients, potential clients, influential and powerful colleagues, and “friends who are real connectors”—and then figuring out how best to allocate your attention."
+> **原句 4:** "She suggests “grouping your contacts into buckets” of categories—for example, current clients, potential clients, influential and powerful colleagues, and “friends who are real connectors”—and then figuring how best to allocate your attention."
 
 **中文理解**：她建议把联系人按类别“分桶”，例如现有客户、潜在客户、有影响力和权力的同事，以及“真正能牵线的朋友”，然后再想办法分配自己的注意力。
 
@@ -107,7 +107,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 
 **为什么这样写**：这句承接“be in the orbit”，把抽象的可见性转成日常维护原则。它也为后文“不只在需要时联系”提供简短而可记忆的判准。
 
-> **原句 7:** "Just as a phone call is not the same as conversing in person, social media has a different level of fidelity."
+> **原句 7:** "Just as a phone call is not the same as conversing in person, social media has a different level of fidelity,"
 
 **中文理解**：正如电话交谈不同于当面交谈，社交媒体也具有不同的保真度。
 
@@ -119,7 +119,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 
 **为什么这样写**：文章承认数字工具的便利，却反对把点赞和转发误认为完整关系。fidelity 让读者思考：某种沟通形式保留了关系的多少真实信息。
 
-> **原句 8:** "Helping others is a fine thing to do, but doing so in order to gain favor only serves to demonstrate to those you intend to impress that you are shallow—the opposite of your goal."
+> **原句 8:** "Helping others is a fine thing to do, but doing so in order to gain favor only serves to demonstrate to those you intend to impress that you are shallow—the opposite of your goal,"
 
 **中文理解**：帮助别人本来是件好事，但如果只是为了赢得 favor，反而会向你想要打动的人证明你是肤浅的，与你的目标正好相反。
 
@@ -143,7 +143,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 
 **为什么这样写**：作者没有说真诚一定带来回报，而是说更可能产生尊重。这种谨慎与反对功利的动机警告相一致，也提醒读者长期关系需要可持续的自我一致性。
 
-> **原句 10:** "Play the long game but always be genuine."
+> **原句 10:** "Play the long game but always be genuine,"
 
 **中文理解**：玩长期游戏，但始终保持真诚。
 
@@ -153,7 +153,7 @@ source_text: ch13_11_how_to_maintain_your_professional_net.txt
 
 **表达方式**：短促的双祈使句把长期性和真实性压成两句格言。but 将时间策略与道德条件相连，说明长期并不需要牺牲真诚。
 
-**为什么这样写**：这是文章对“不要强行维持所有关系”的最终校准。长期视角让人接受关系有起落，但仍要求不以功利或伪装换取结果。
+**为什么这样写**：这是文章在“Don't force friendships”部分提出的原则性修正，而不是全文最后一句。长期视角让人接受关系有起落，但仍要求不以功利或伪装换取结果。
 
 ## 词汇分级
 

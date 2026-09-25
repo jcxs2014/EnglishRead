@@ -10,7 +10,7 @@ source_text: ch06_4_to_foster_trust_organizations_need_inc.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 4 “To Foster Trust, Organizations Need Inclusion and Belonging”
 - **作者**：Michael Slepian
 - **章节定位**：第一册“Real Connections Begin with Trust”部分的第四篇文章；文章把 diversity、inclusion 与 belonging 区分开，论证组织不能只依赖代表性或表面参与，而要创造让个人感到安全、被尊重并能够归属的工作环境。
-- **字符数**：约 7,303 字符
+- **字符数**：约 8,640 字符
 - **一句话主旨**：多样性本身不会自动产生信任；身份威胁、被排除与缺乏归属会削弱员工的安全感和真实性，管理者因此要在不把个人工具化为群体代表的前提下，同时维护群体尊严、个人价值和真实参与。
 
 ## 论证结构
@@ -59,11 +59,11 @@ source_text: ch06_4_to_foster_trust_organizations_need_inc.txt
 
 **为什么这样写**：作者把“身份威胁”从歧视的同义词中拆开，指出一个看似轻微的惊喜、刻板印象或旅行谈话也可能使差异变得显著。这个定义让后文讨论 belonging 时有更具体的观察对象。
 
-> **原句 3:** "They reported that they had many such experiences—an average of 11 in a week."
+> **原句 3:** "We asked our participants whether they recently experienced identity-threatening situations, and they reported that they had many such experiences—an average of 11 in a week."
 
-**中文理解**：他们报告自己有过许多这样的经历，平均每周有 11 次。
+**中文理解**：我们询问参与者最近是否经历过身份威胁情境，他们报告自己有过许多这样的经历，平均每周有 11 次。
 
-**句子结构**：主语 They，reported that... 是报告结构；that 从句包含 such experiences 作宾语，破折号后的 an average of 11 in a week 对 many 作数量具体化。in a week 是时间范围。
+**句子结构**：主句是 We asked...whether...，and they reported...；whether 引导宾语从句说明询问内容，reported that... 承接并引出报告结果；破折号后的 an average of 11 in a week 对 many 作数量具体化，in a week 是时间范围。
 
 **关键词**：reported / many such experiences / an average of 11 / in a week
 
@@ -135,7 +135,7 @@ source_text: ch06_4_to_foster_trust_organizations_need_inc.txt
 
 **中文理解**：让员工感到被纳入的秘诀，是把你的团队成员当作具体个人来认识。
 
-**句子结构**：主语是 The secret to making employees feel included，系动词 is，表语是动名词短语 getting to know the people on your team as individuals。as individuals 是方式状语，说明认识他们的方式。
+**句子结构**：主语是 The secret to making employees feel included，系动词 is，表语是动名词短语 getting to know the people on your team as individuals。as individuals 表示“把团队成员当作个人”来认识，说明身份／角色而非方式状语。
 
 **关键词**：The secret / feel included / getting to know / people on your team / as individuals
 
@@ -147,7 +147,7 @@ source_text: ch06_4_to_foster_trust_organizations_need_inc.txt
 
 **中文理解**：人们既希望自己的社会群体被纳入，也希望作为一个人的自我归属于某个地方。
 
-**句子结构**：主语 People，want 后接两个由 and 连接的宾语从句：their social group to be included 与 their individual self to belong。两个 to 分别接被动结构 be included 和系表结构 belong。
+**句子结构**：主语 People，want 后接两个由 and 连接的名词短语宾语：their social group 与 their individual self；两个 to-infinitive 分别说明各自的状态：to be included 与 to belong。
 
 **关键词**：social group / included / individual self / belong
 
@@ -192,7 +192,7 @@ source_text: ch06_4_to_foster_trust_organizations_need_inc.txt
 | value | 重视；价值 | "feel respected, valued, or supported by the organization" |
 | support system | 支持系统 | "support systems are available to them" |
 | employee relations | 员工关系 | "recommendations from HR and employee relations representatives" |
-| individual | 个人的；个体 | "the framing of these appeals and communications is critical" |
+| individual | 个人的；个体 | "focused more on the individual than the social group" |
 
 ### ⭐ 基础
 

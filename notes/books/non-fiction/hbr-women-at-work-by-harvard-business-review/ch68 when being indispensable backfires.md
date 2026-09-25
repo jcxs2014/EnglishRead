@@ -10,8 +10,8 @@ source_text: ch81_10_when_being_indispensable_backfires.txt
 
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 10 “When Being Indispensable Backfires”
 - **作者**：Mita Mallick；文中含 Christy DeSantis、Lola Bakare 的建议
-- **章节定位**：第四册第十篇正式文章；作者以自己因总被经理调用而四年无法离开同一岗位的经历，说明如何减少可用性、说 no 后选择更可见项目、明确下一步并培养 successor。
-- **字符数**：约 9,406 字符
+- **章节定位**：第四册第十篇正式文章；作者以自己因总被经理调用而四年多无法离开同一岗位的经历，说明如何减少可用性、说 no 后选择更可见项目、明确下一步并培养 successor。
+- **字符数**：约 6,810 字符
 - **一句话主旨**：经理因为你“太能干”而不断把任务交给你时，indispensable 会从安全网变成职业陷阱；要用 boundaries、可交接的成果、组织内支持和继任计划让自己重新可移动，而不是把价值绑在单一经理身上。
 - **核心论点**：Mallick 的四个建议分别是 make yourself less available、say no and then say yes、be clear on what you want to do next、help find your successor。它们共同把“被需要”重写为“选择能带来可见成长的工作，并让组织能看见你的下一步”。
 - **核心论点**：文章的隐形问题是职业停滞不只来自能力不足，也来自过度可用、承担临时任务和经理把人锁在原位。解决方案既包含个人边界和项目选择，也需要让其他 leaders、HR 和潜在 successor 参与职业路径。
@@ -23,7 +23,7 @@ source_text: ch81_10_when_being_indispensable_backfires.txt
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
-| 作者四年仍在同一职位 | 个人案例 | 说明 excessive availability 的结果 |
+| 作者四年多仍在同一职位 | 个人案例 | 说明 excessive availability 的结果 |
 | manager 借调 vendors、speeches、CEO briefs | 职业轶事 | 展示“有用”如何吞掉职业边界 |
 | 6:30 a.m. texts 和周末电话 | 经验细节 | 说明 always-on 期待如何形成 |
 | “say no, then say yes” | 实务策略 | 把拒绝转为替代选择 |
@@ -68,7 +68,7 @@ source_text: ch81_10_when_being_indispensable_backfires.txt
 
 **句子结构**：If 引导条件从句，repeatedly respond 是谓语；主句 your manager expects...，because... 是原因状语从句。
 
-**关键词**：repeatedly respond / 6:30 a.m. / expect availability / set boundaries
+**关键词**：repeatedly respond / 6:30 a.m. / set your boundaries
 
 **表达方式**：If 条件把行为训练成期待，because 说明边界缺失是管理预期形成的机制，6:30 提供具体场景。
 
@@ -140,7 +140,7 @@ source_text: ch81_10_when_being_indispensable_backfires.txt
 
 **句子结构**：动名词短语 Setting your successor up for wins 作主语，means 是谓语，you won’t be pulled... 和 can move... 是并列结果。
 
-**关键词**：successor / wins / pulled into old role / move on / next chapter
+**关键词**：successor / wins / pulled into your old role / move on / next chapter
 
 **表达方式**：Setting...up for wins 将继任者成功写成你的收益，old role／next chapter 形成空间叙事。
 

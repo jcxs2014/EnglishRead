@@ -10,15 +10,15 @@ source_text: ch91_20_learn_to_get_better_at_transitions.txt
 
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 20 “Learn to Get Better at Transitions”
 - **作者**：Avivah Wittenberg-Cox
-- **章节定位**：第四册第二十篇正式文章；文章以婴儿鸟、跨代家庭和职业转折为意象，提出 pacing and planning、leaving gracefully、letting the inside out、letting the outside in、leaping 五项 transition skills。
-- **字符数**：约 12,441 字符
+- **章节定位**：第四册第二十篇正式文章；文章以婴儿鸟、跨代家庭和职业转折为意象，提出 pacing and planning、leaving gracefully、letting the inside out、letting the outside in 四项 component skills，并以 leaping 收束。
+- **字符数**：约 8,081 字符
 - **一句话主旨**：长寿和频繁变化让 transition 成为长期能力；要主动规划人生章节、优雅结束旧角色、探索内在未被开发的身份、通过外部反馈 test 新计划，并允许自己在 duties 之后 leaping 到真正关心的事。
 - **核心论点**：Wittenberg-Cox 不把转型当作一次性的职业事件，而是整个人生的 recurring practice。skill 包括 leaving well、self-knowledge、outsight 和 calling，帮助人们在未知中保持 agency。
 - **核心论点**：从 baby robin 到 great-grandmother 的跨代意象说明每个年龄都在 cusp of transition。过渡既需要内部探索，也需要外部市场检验；二者结合，人才能在长期生活中不断 re-creation。
 
 ## 论证结构
 
-- **核心论点**：先以跨代家庭的具体变化建立普遍性，再提出五种 component skills，随后分别说明 pacing、ending、inside、outside、leaping 的动作和案例。
+- **核心论点**：先以跨代家庭的具体变化建立普遍性，再原文称 four component skills；正文实际设置四个组件章节，另以 Leaping 收束，随后分别说明 pacing、ending、inside、outside、leaping 的动作和案例。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -68,7 +68,7 @@ source_text: ch91_20_learn_to_get_better_at_transitions.txt
 
 **句子结构**：There is a mixture of fear and excitement 是存在句；括号内两个直接引语分别对应情绪内容。
 
-**关键词：**mixture of fear and excitement / Who am I / ready for a change
+**关键词**：mixture of fear / Who am I / ready for a change / excitement
 
 **表达方式**：mixture 允许矛盾情绪并存，两个引号问答让抽象情绪变成内心声音。
 

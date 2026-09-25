@@ -10,7 +10,7 @@ source_text: ch02_introduction_move_beyond_small_talk_and_.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series）导言
 - **作者**：Emily Caulfield、Amy Gallo（Women at Work 播客联合主持人）
 - **章节定位**：六册合集的第一册开篇导言，位于 Chapter 1 “Sisterhood Is Trust” 之前；它不是一篇独立的研究论文，而是为全书的关系主题铺设个人经验与问题框架。
-- **字符数**：约 6,545 字符
+- **字符数**：约 7,911 字符
 - **一句话主旨**：作者把真正的工作关系从交换名片和例行寒暄中区分出来，主张共同面对新挑战、彼此信任、承认差异并展现真实自我，才能把职业关系发展成支持、信息、归属与职业成长的持续连接。
 
 ## 论证结构
@@ -74,7 +74,7 @@ source_text: ch02_introduction_move_beyond_small_talk_and_.txt
 
 **中文理解**：当我们在家里和工作上分别面对意外挑战时，我们发现，信任——本书第一部分将要讨论的一个关键基础——是把完整的自我带进节目内外各种对话中的一个重要因素。
 
-**句子结构**：As we each confronted unexpected challenges at home and work 是时间状语从句；we found that trust 是主句，that 引导宾语从句；两个破折号夹住 a key foundation we cover in the first section of this book，对 trust 作插入解释；句末 was an essential ingredient... 是系表结构，介词 to 后面接 bringing 的动名词。
+**句子结构**：As we each confronted unexpected challenges at home and work 是时间状语从句；主句核心是 we found，that trust ... was an essential ingredient... 是 found 的宾语从句；两个破折号夹住 a key foundation we cover in the first section of this book，对 trust 作插入解释；句末 was an essential ingredient... 是从句中的系表结构，介词 to 后面接 bringing 的动名词。
 
 **关键词**：unexpected challenges / trust / essential ingredient / bringing our full selves
 
@@ -86,7 +86,7 @@ source_text: ch02_introduction_move_beyond_small_talk_and_.txt
 
 **中文理解**：对 Emily 来说，工作中的真正连接帮助她弥合职业身份与个人身份之间的差距，使她在工作场所更像自己；这种平衡本身就是一种持续的挣扎，尤其当她还是工作场所中少数有色人种之一时。
 
-**句子结构**：For Emily 是介词短语，交代观点来源；help bridge the gap between... 是谓语核心，bridge the gap 是动名词结构；a way to feel more like herself 是同位说明；括号内 which can feel like a constant struggle 是修饰 balancing act 的定语从句，especially 进一步限定处境。
+**句子结构**：For Emily 是介词短语，交代观点来源；help bridge the gap between... 是谓语核心，help 后接不带 to 的原形不定式 bridge；a way to feel more like herself 是同位说明；括号内 which can feel like a constant struggle 是修饰 balancing act 的定语从句，especially 进一步限定处境。
 
 **关键词**：real connections / bridge the gap / professional and personal identities / feel more like herself
 
@@ -180,7 +180,7 @@ source_text: ch02_introduction_move_beyond_small_talk_and_.txt
 | uncertainty | 不确定性 | "how unsettling it was to live with constant uncertainty" |
 | logistics | 事务安排；后勤事务 | "Amy was drowning in logistics of transitioning her daughter to in-person school." |
 | informal role | 非正式角色 | "Amy took on an informal role as a mentor." |
-| overlap | 重合；共同之处 | "we could easily have continued simply as work acquaintances in different departments" |
+| overlap | 重合；共同之处 | "it didn’t take long for us to identify overlap in how we experience work and life" |
 | acknowledging | 承认；确认（动名词） | "while also acknowledging the differences" |
 | generations | 世代；不同年龄层 | "people from different generations, racial backgrounds" |
 | introvert | 内向的人 | "It’s easy for her, as an introvert, to get heads down in her work" |

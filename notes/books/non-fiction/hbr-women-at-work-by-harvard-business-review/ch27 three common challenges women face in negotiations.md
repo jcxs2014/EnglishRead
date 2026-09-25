@@ -10,7 +10,7 @@ source_text: ch32_4_three_common_challenges_women_face_in_.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 4 “Three Common Challenges Women Face in Negotiations”
 - **作者**：Mara Olekalns、Ruchi Sinha、Carol T. Kulik
 - **章节定位**：第二册第四篇正式文章；文章基于 84 名女性的田野访谈，归纳自我倡导与共同体、困难情绪和人际阻力三类挑战，并给出准备、情绪调节、坚持和灵活性建议。
-- **字符数**：约 12,294 字符
+- **字符数**：约 11,527 字符
 - **一句话主旨**：女性在谈判中常同时面对“为自己争取会伤害关系”的担忧、情绪失控和更强烈的人际阻力；有效策略不是压低自己或一味强硬，而是用共同利益措辞提出请求、提前处理情绪、识别触发点并把 setback 当作信息。
 - **核心论点**：田野研究显示，女性在谈判中遇到的阻力与性别刻板印象和权力结构相连。文章把应对分为三类：平衡 self-advocacy 与 communality，管理 anticipatory anxiety 和负面情绪，以及在 resistance-ready 的状态下坚持并保持创造力。
 
@@ -60,11 +60,11 @@ source_text: ch32_4_three_common_challenges_women_face_in_.txt
 
 **为什么这样写**：作者先交代研究方法，降低案例叙述的主观性。significant negotiation 规定样本中的“重要”，但后面会补充日常小谈判同样重要。
 
-> **原句 3:** "Based on these concerns, we identified three unique challenges women face during negotiations."
+> **原句 3:** "Based on these concerns, we identified three unique challenges women face during negotiations:"
 
 **中文理解**：基于这些担忧，我们识别出女性在谈判中面临的三种独特挑战。
 
-**句子结构**：Based on these concerns 是过去分词状语；主句 we identified，宾语 three unique challenges，that women face during negotiations 是定语从句。
+**句子结构**：Based on these concerns 是过去分词状语；主句 we identified，宾语 three unique challenges，that women face during negotiations 是定语从句，句末冒号引出后续列表。
 
 **关键词**：Based on these concerns / identified / three unique challenges / during negotiations
 
@@ -120,11 +120,11 @@ source_text: ch32_4_three_common_challenges_women_face_in_.txt
 
 **为什么这样写**：文章在指出女性挑战时没有否认男性也会愤怒或焦虑。性别差异影响表达和代价，但情绪本身是共同的人类经验。
 
-> **原句 8:** "One strategy in particular can reduce anticipatory anxiety."
+> **原句 8:** "Before the negotiation, one strategy in particular can reduce anticipatory anxiety."
 
 **中文理解**：其中一种策略尤其可以减轻预期性焦虑。
 
-**句子结构**：主语 One strategy，in particular 是插入状语，can reduce anticipatory anxiety 是谓语和宾语。
+**句子结构**：Before the negotiation 是时间状语，one strategy in particular 是主语，can reduce anticipatory anxiety 是谓语和宾语；in particular 突出特定策略。
 
 **关键词**：strategy in particular / reduce / anticipatory anxiety
 

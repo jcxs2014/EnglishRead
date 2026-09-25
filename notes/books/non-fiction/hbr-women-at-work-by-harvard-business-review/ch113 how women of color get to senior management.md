@@ -11,9 +11,9 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 13 “How Women of Color Get to Senior Management”
 - **作者**：Cindy Pace
 - **章节定位**：第六册第十三篇正式文章；文章基于 Fortune 500 公司 23 位有色人种女性中高层管理者的 case study，提出 aspiration、seizing opportunities、management challenges、influential mentors 四条 advancement 路径，并要求公司提供 manager education、bias conversation、sponsorship 和 critical business experiences。
-- **字符数**：约 18,575 字符
+- **字符数**：约 21,903 字符
 - **一句话主旨**：有色人种女性进入高级管理层的路径不是单一 talent story，而是由高 aspiration、主动争取机会、复杂管理挑战、跨身份关系资本和组织的结构性支持共同构成。
-- **核心论点**：23 位 midlevel／upper-midlevel women of color 都有 promotion、role expansion 或 high-potential 标记；她们的共同点不是等待，而是把 aspiration 转成行动，并在关键时刻扩大 experience、network 和 visibility。
+- **核心论点**：23 位 midlevel／upper-midlevel women of color 都至少获得过一次 promotion 或 role expansion，且都被识别为 high leadership potential；她们的共同点不是等待，而是把 aspiration 转成行动，并在关键时刻扩大 experience、network 和 visibility。
 - **核心论点**：公司不能把 advancement 只交给个人。公司需要训练 managers 理解 intersectional barriers、在 sponsorship 中公开谈 bias、让女性获得 critical assignments，并用 culture／talent metrics 对结果问责。
 
 ## 论证结构
@@ -78,7 +78,7 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 
 > **原句 4:** To increase diversity at senior executive levels, more must be known about one group in particular: women of color in midlevel leadership, who successfully developed and progressed beyond individual contributor and first-line management.
 
-**中文理解**：要增加高级管理层的多样性，尤其需要更多了解一个群体：处于中层领导岗位的有色人种女性。
+**中文理解**：这项 case study 关注已超越 individual contributor 和 first-line management、在中层领导岗位发展的有色人种女性。
 
 **句子结构**：`To increase...` 不定式表目的，`more must be known about...` 是主句，冒号后同位解释 one group。
 
@@ -92,7 +92,7 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 
 **中文理解**：为研究这些问题，我作为论文研究的一部分，对一家 Fortune 500 公司的 23 位有色人种女性进行了 case study。
 
-**句子结构**：`To look into...` 不定式表目的，`I conducted...` 是主句，involving... 过去分词作后置修饰。
+**句子结构**：To look into... 是不定式表目的，I conducted... 是主句，involving 23 women... 是现在分词短语作非限定性后置修饰。
 
 **关键词**：case study / dissertation research / 23 women of color / Fortune 500
 
@@ -184,13 +184,13 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 | tacit knowledge | 隐性知识 | “tacit knowledge” |
 | unwritten rule | 非成文规则 | “unwritten rules” |
 | stakeholder | 利益相关者 | “stakeholder” |
-| accountable | 负有责任的 | “held accountable” |","replaceAll>false
+| accountable | 负有责任的 | “held accountable” |
 | culture and talent metrics | 文化与人才指标 | “culture and talent metrics” |
 | inclusive behavior | 包容行为 | “inclusive behaviors” |
 | sponsor-ready | 做好被赞助准备的 | “sponsor-ready” |
 | unwritten rules | 非成文规则 | “unwritten rules of senior leadership” |
 | promotion | 晋升 | “promotions” |
-| turnover | 人员流动 | “turnover” |","replaceAll>false
+| turnover | 人员流动 | “turnover” |
 
 ### ⭐⭐ 进阶
 
@@ -202,11 +202,10 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 | sector | 行业部门 | “all sectors” |
 | executive team | 高管团队 | “executive teams” |
 | financial return | 财务回报 | “financial returns” |
-| aspire | 渴望 | “aspire to hold” |","replaceAll>false
+| aspire | 渴望 | “aspire to hold” |
 | status | 地位 | “status, power, and influence” |
 | lateral move | 横向调动 | “lateral move” |
 | trade-off | 权衡 | “trade-offs” |
-","replaceAll>false
 | role expansion | 角色扩展 | “expansion of roles” |
 | strategy | 战略 | “strategy” |
 | finance | 财务 | “finance” |
@@ -247,18 +246,13 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 | employee | 员工 | “employees” |
 | client | 客户 | “client” |
 
-","replaceAll>false
 | skill | 技能 | “skills” |
-","replaceAll>false
 | goal | 目标 | “goal” |
-","replaceAll>false
 | business | 业务 | “business” |
-","replaceAll>false
 | help | 帮助 | “help” |
 | value | 价值 | “value” |
 | time | 时间 | “time” |
 | people | 人们 | “people” |
-","replaceAll>false
 | feedback | 反馈 | “feedback” |
 
 ## 一句话总结

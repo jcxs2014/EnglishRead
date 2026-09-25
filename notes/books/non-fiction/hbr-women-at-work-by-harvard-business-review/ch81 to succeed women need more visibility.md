@@ -11,7 +11,7 @@ source_text: ch98_2_to_succeed_women_need_more_visibility.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 2 “To Succeed, Women Need More Visibility”
 - **作者**：Shelley J. Correll、Lori Nishiura Mackenzie
 - **章节定位**：第五册第二篇正式文章；文章以科技公司女性高级员工的流失为问题，结合 240 名高级领导者的 thought exercise、绩效校准和 focus groups，分析 visibility of valued skills、assignments 和 networks，并提出 question criteria、equalize access、open networks 三步方案。
-- **字符数**：约 15,273 字符
+- **字符数**：约 7,703 字符
 - **一句话主旨**：在男性主导的科技行业中，女性即使有能力，也可能因为缺少高可见度项目、技术标签和 influential networks 而被视为不够可见；组织必须澄清晋升标准、公平分配 stretch assignments，并把 senior leaders 的网络开放给女性。
 - **核心论点**：visibility 不是个人性格的附属品，而是技能、项目、关系和组织评价共同决定的晋升资源。文章的论证链是：女性被排除在高可见度项目之外，因而较少被认为拥有 valued skills；较少被认为有能力，又使她们继续被排除。
 - **核心论点**：女性的行为也会受到 gender-labeled evaluation 的影响：男性被赞为 driver、quick，女性同样的行为却被称为 demanding、bossy、agitated。文章因此把“提升 visibility”从个人营销重新定义为组织要消除的 access gap。

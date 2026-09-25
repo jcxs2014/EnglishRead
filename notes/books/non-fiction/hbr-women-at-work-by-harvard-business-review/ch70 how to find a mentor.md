@@ -11,10 +11,10 @@ source_text: ch83_12_how_to_find_a_mentor.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 12 “How to Find a Mentor”
 - **作者**：Janet T. Phan
 - **章节定位**：第四册第十二篇正式文章；作者从 gas station、college 和 technology career 的经历出发，说明如何用低承诺第一次接触、感谢信、跟进、回报进度和 reciprocity 维护导师关系。
-- **字符数**：约 13,781 字符
+- **字符数**：约 11,282 字符
 - **一句话主旨**：找到导师不是等别人发现你，而是以具体、适度、互惠的 ask 开始；先请求一次 15–30 分钟交流，了解彼此，再用行动、感谢和更新证明导师的时间产生了价值。
 - **核心论点**：76% 的人认为导师重要，却只有 37% 真正拥有导师，差距来自害怕拒绝和不知道如何开口。作者建议把第一次请求降到低承诺，关系从个人了解开始，再决定是否提出正式 mentorship。
-- **核心论点**：导师关系是双向投资。 mentee 必须做建议、发送跟进、分享进步、帮助导师并表达感谢；relationship 的持续来自可见 return on investment，而不是一次性获得建议。
+- **核心论点**：导师关系是双向投资。 mentee 必须采取行动、发送更新、分享进步、帮助导师并表达感谢；relationship 的持续来自可见 return on investment，而不是一次性获得建议。
 
 ## 论证结构
 
@@ -80,7 +80,7 @@ source_text: ch83_12_how_to_find_a_mentor.txt
 
 **句子结构**：祈使句 Share...then tell...；tell 后面接三个并列宾语从句，about yourself、why... 和 what...。
 
-**关键词**：admire their work / tell them about yourself / reaching out / would like to learn
+**关键词**：things you admire about their work / tell them a little about yourself / reaching out / would like to learn
 
 **表达方式**：one or two 控制赞美范围，then 建立信息顺序，三个 tell 宾语让请求有背景、有目的。
 
@@ -90,7 +90,7 @@ source_text: ch83_12_how_to_find_a_mentor.txt
 
 **中文理解：**一次咖啡或短视频通话的初次见面，对目标导师来说承诺很低。
 
-**句子结构：**主语 A first meeting... is low commitment，for your target mentor 是受益者；over coffee or... 是方式状语。
+**句子结构**：主句 A first meeting over coffee or a short video call is low commitment；for your target mentor 是修饰 low commitment 的介词短语，指明低承诺成本的对象；over coffee or... 是方式状语。
 
 **关键词：**first meeting / low commitment / target mentor / short video call
 
@@ -152,7 +152,7 @@ source_text: ch83_12_how_to_find_a_mentor.txt
 
 **句子结构：**祈使句 Use the time，between your catch-ups 是时间状语，to take action... 是不定式表目的。
 
-**关键词：**Use the time / between catch-ups / take action / goals / mentor
+**关键词**：Use the time / between your catch-ups / take action / goals / mentor
 
 **表达方式：**Use the time 把关系间隔转成行动窗口，take action 对比单纯等待，goals you set 保持共同承诺。
 

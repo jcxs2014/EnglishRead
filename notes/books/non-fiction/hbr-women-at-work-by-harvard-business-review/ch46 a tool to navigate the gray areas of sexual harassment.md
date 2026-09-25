@@ -3,14 +3,14 @@
 modified: "2026-09-25"
 source_text: ch55_6_a_tool_to_navigate_the_gray_areas_of_s.txt
 ---
-# 46. A Tool to Navigate the Gray Areas of Sexual Misconduct（用工具处理性骚扰的灰色地带）
+# 46. A Tool to Navigate the Gray Areas of Sexual Harassment（应对性骚扰灰色地带的工具）
 
 ## 概览
 
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 6 “A Tool to Navigate the Gray Areas of Sexual Harassment”
 - **作者**：Kathleen Kelley Reardon
-- **章节定位**：第三册第六篇正式文章；文章提出 sexual misconduct spectrum of workplace（SSMW），把从一般不冒犯到严重性侵的性别化不当行为放进可讨论、可调整的连续框架，并提供现场回应语言。
-- **字符数**：约 17,114 字符
+- **章节定位**：第三册第六篇正式文章；文章提出 the spectrum of sexual misconduct at work（SSMW），把从一般不冒犯到严重性不端／严重性骚扰行为的性别化不当行为放进可讨论、可调整的连续框架，并提供现场回应语言。
+- **字符数**：约 14,475 字符
 - **一句话主旨**：许多组织不是不知道性骚扰需要处理，而是无法清楚界定轻微、冒犯、严重和极端行为；SSMW 通过情境、历史、语气、非语言行为和组织对话帮助团队讨论边界、减少报复并及早干预。
 - **核心论点**：灰区不是回避责任的理由，而是训练组织学习如何判断和回应的起点。Reardon 的 spectrum 不是静态一刀切分类，而是由团队共同补充例子、讨论行为和处理方式的 working taxonomy；有效使用还需要中立主持人、提前讨论和现场表达脚本。
 - **核心论点**：文章把“什么是性骚扰”的模糊性视为 backlash 和沉默的来源之一。SSMW 以连续谱替代二元判断，依据情境、关系历史、语气和非语言行为定位行为，再让组织讨论何时现场回应、何时升级到 HR 或管理层。工具的价值在于共享语言和提前预防，而非把所有争议交给事后法律程序。
@@ -155,7 +155,7 @@ source_text: ch55_6_a_tool_to_navigate_the_gray_areas_of_s.txt
 
 **表达方式**：single 与 string of them 形成数量对照，but 产生递进，turn into a sentence 把累积行为隐喻为语言伤害。
 
-**为什么这样写**：文章用一句简洁比喻说明“轻微”行为的累积效应。它让团队在处理单次评论时不能忽略重复、升级和关系历史。
+**为什么这样写**：Sandra Corelli 用一句简洁比喻说明累积效应：单次评论可能意义有限，但反复行为会组成伤人的话。它提醒团队不能忽略重复、升级和关系历史。
 
 ## 词汇分级
 

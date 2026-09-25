@@ -11,7 +11,7 @@ source_text: ch103_7_don_t_let_self_doubt_hold_you_back.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 7 “Don’t Let Self-Doubt Hold You Back”
 - **作者**：Alisa Cohn
 - **章节定位**：第五册第七篇正式文章；文章从 self-awareness 可能滑向 insecurity 的风险出发，提出 channel alter ego、view through others’ lens、tune out uninformed feedback、reframe self-talk 四种策略。
-- **字符数**：约 16,643 字符
+- **字符数**：约 11,175 字符
 - **一句话主旨**：认识弱点有助于成长，但若把 self-awareness 变成持续的 self-doubt，就会形成 insecurity 和 imposter syndrome；通过 self-distancing、他者视角、过滤 feedback 和重写内部叙事，职业者可以恢复 perspective 与 decisive action。
 - **核心论点**：Cohn 不要求消除自我怀疑，而是管理它。productive mindfulness 应帮助人识别成长领域，同时避免把 shortcomings 当成全部身份。
 - **核心论点**：文章以 Rebecca、Sandy、Jennifer 的案例说明，短期 thought exercise、客观观点和新的 phrase 可以改变行为；但 stereotype threat 仍提醒我们，很多 self-doubt 来自结构性偏见而非个人缺陷。
@@ -81,7 +81,7 @@ source_text: ch103_7_don_t_let_self_doubt_hold_you_back.txt
 
 **句子结构**：When 引导时间从句，it’s helpful to... 是主句，by channeling... 是方式状语。
 
-**关键词**：gain distance / ourselves / channeling an alter ego / helpful
+**关键词**：gain a little distance / ourselves / channeling an alter ego / helpful
 
 **表达方式**：When this happens 指代前文 limitations，gain a little distance 降低强度，by channeling 说明方法。
 
@@ -105,7 +105,7 @@ source_text: ch103_7_don_t_let_self_doubt_hold_you_back.txt
 
 **句子结构**：主句 Another strategy... is to think...，that... 修饰 strategy，from someone else’s point of view 是方式状语。
 
-**关键词**：snap out / excessive self-consciousness / someone else’s point of view
+**关键词**：snap you out of / excessive self-consciousness / someone else’s point of view
 
 **表达方式**：Another strategy 建立系列关系，snap you out of 形象化打断，someone else’s point of view 明确切换观察者。
 

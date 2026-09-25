@@ -11,7 +11,7 @@ source_text: ch99_3_when_women_compete.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 3 “When Women Compete”
 - **形式/对话嘉宾**：Leah Sheppard 与 Amy Bernstein、Amy Gallo、Nicole Torres
 - **章节定位**：第五册第三篇正式文章；文章解释女性竞争为何会被 prescriptive stereotypes 放大为 rivalry，讨论 scarcity、agentic behavior、observers’ emotional shrapnel，并提出公平呈现冲突和放大他人声音等做法。
-- **字符数**：约 23,899 字符
+- **字符数**：约 17,733 字符
 - **一句话主旨**：女性之间的正常竞争会被“女性应互相支持”的刻板期待重新解释为个人问题；承认 task conflict 的健康性、检查自身 gender bias、保护女性贡献并避免 gossip，才能把竞争从零和 rivalry 转回共同成长。
 - **核心论点**：Sheppard 认为观察者往往预设女性冲突更难解决、更影响绩效，女性也因此更谨慎地参与竞争。稀缺的高层位置和 prescriptive stereotype 共同制造“one seat at the table”的心态。
 - **核心论点**：agentic 女性行为（雄心、独立、主张自己）会同时获得能力认可和“不讨喜”惩罚；作者建议把讨论焦点放在任务、证据和 solution，而不是把健康竞争解释成 interpersonal hostility。
@@ -41,7 +41,7 @@ source_text: ch99_3_when_women_compete.txt
 
 > **原句 1:** “There is this negative narrative that women have problematic relationships with other women at work or that they’re uniquely competitive with one another.”
 
-**中文理解**：存在一种负面叙事，认为女性在工作场所与其他女性有问题的关系，或认为她们彼此 uniquely competitive。
+**中文理解**：存在一种负面叙事，认为女性在工作场所与其他女性有问题的关系，或认为她们彼此尤其具有竞争性。
 
 **句子结构**：主句 There is this negative narrative，that women have... or that they’re... 是同位语从句；两个 that 从句由 or 并列。
 
@@ -105,7 +105,7 @@ source_text: ch99_3_when_women_compete.txt
 
 **句子结构**：主句 Women might feel...，because they think... 是原因从句；think 后省略引号，直接呈现内心想法。
 
-**关键词**：competing against a man / feel more comfortable / for him it’s normal / used to it
+**关键词**：competing against a man / feel a bit more comfortable / for him it’s normal / used to it
 
 **表达方式**：might 保留可能性，because they think 将推测归于社会经验，for him it’s normal 简练呈现男性默认特权。
 
@@ -139,7 +139,7 @@ source_text: ch99_3_when_women_compete.txt
 
 **中文理解**：那可能只会强化刻板印象。
 
-**句子结构**：主句 That could just reinforce...；just 限定程度，the stereotype 是宾语。
+**句子结构**：主句 It could just reinforce...；just 限定程度，the stereotype 是宾语。
 
 **关键词**：could / just reinforce / the stereotype
 
@@ -153,7 +153,7 @@ source_text: ch99_3_when_women_compete.txt
 
 **句子结构**：When conflict is about... 是时间从句，主句 we would think...，that 从句作表语，as long as... 是条件状语。
 
-**关键词**：conflict about the task / healthy kind / better outcomes / moderate amount
+**关键词**：conflict is about the task / healthy kind / better outcomes / moderate amount
 
 **表达方式**：for example 引出情境，as long as it’s a moderate amount 规定边界，actually 保留改善可能性。
 

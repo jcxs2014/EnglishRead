@@ -11,7 +11,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 7 “How to Increase Your Influence at Work”
 - **作者**：Rebecca Knight
 - **章节定位**：第六册第七篇正式文章；文章将 influence 定义为连接、倾听、body language、expertise、power map 和 stakeholder framing 的组合，并用 Marcy Shinder 的入职案例说明如何从 listening agenda 建立影响力。
-- **字符数**：约 14,435 字符
+- **字符数**：约 8,110 字符
 - **一句话主旨**：影响力不来自职位或压倒性 charisma，而来自 rapport、被听见、开放姿态、可见 expertise、针对决策者的策略和对 stakeholder 需求的理解。
 - **核心论点**：现代职场 distraction 和 information overload 使 influence 更难；人仍会依据 friend／foe 线索、body language 和 perceived expertise 判断是否信任你。
 - **核心论点**：Knight 不把 influence 写成操控，而是将 listening、power mapping 和 benefit framing 组合成 professional strategy。文章最终要求把个人 pitch 调整为不同 stakeholder 能理解和认同的语言。
@@ -54,11 +54,11 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 > **原句 2:** “You get more done and you advance the projects you care about and are responsible for,” which means “you’re more likely to be noticed, get promoted, and receive raises.”
 
-**中文理解**：你能完成更多工作，也能推进自己关心并负责的项目。
+**中文理解**：你能完成更多工作，也能推进自己关心并负责的项目；这意味着你更可能被注意、晋升和加薪。
 
-**句子结构**：主句 You get more done and you advance...，两个并列谓语共享主语，第二个 advance 带 projects 宾语。
+**句子结构**：主句 You get more done and you advance...，which means 引导结果从句；which 从句中 you’re more likely to be... 是表语结构，noticed、get promoted、receive raises 并列。
 
-**关键词**：more done / advance projects / responsible for
+**关键词**：more done / advance the projects / noticed / get promoted / receive raises
 
 **表达方式**：get more done 与 advance 形成结果递进，care about and are responsible for 区分兴趣和责任。
 
@@ -68,7 +68,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **中文理解**：影响他人从未如此困难，因为他们从未如此分心。
 
-**句子结构**：两个分句由 because 引导因果，never...harder 与 never...distracted 形成平行比较。
+**句子结构**：两个分句由 because 引导因果，never been harder 与 never been more distracted 形成平行比较。
 
 **关键词**：never been harder / influence others / distracted
 
@@ -80,7 +80,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **中文理解**：你不必成为房间里“最厉害的人”，也不必确保每个人都被你的魅力震撼。
 
-**句子结构**：两个 don’t have to 并列，or 连接；引号内是夸张的评价标准。
+**句子结构**：一个 You don’t have to 支配两个由 or 连接的补足成分：be the awesome-est person... 和 make sure everyone is blown away...。
 
 **关键词**：awesome-est person / charisma / everyone is blown away
 
@@ -114,9 +114,9 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 > **原句 7:** “[We’re] hardwired to be asking the question, ‘Is this person a friend or foe? Is this person trying to undercut me, or are we on the same side?’”
 
-**中文理解**：我们天生会问：这个人是朋友还是敌人？
+**中文理解**：我们天生会问：“这个人是朋友还是敌人？这个人是在削弱我，还是站在同一边？”
 
-**句子结构**：主句 We’re hardwired to be asking...，the question 是动名词宾语，Is this person... 是间接问句。
+**句子结构**：主句 We’re hardwired to be asking...，the question 是动名词宾语，两个间接问句由 and 连接，分别扫描 friend/foe 与 undercut/same side。
 
 **关键词**：hardwired / friend or foe / question
 
@@ -128,7 +128,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **中文理解**：在所在行业或组织中被视为公认专家。
 
-**句子结构**：祈使句 Be seen...，within... 是范围状语，recognized expert 是宾语补足语。
+**句子结构**：Another way to increase your influence at work is to be seen as a recognized expert...；be seen... 是不定式补足语，within... 是范围状语。
 
 **关键词**：be seen / recognized expert / industry / organization
 

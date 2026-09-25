@@ -11,8 +11,8 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 18 “What Men Can Do to Be Better Advocates for Women”
 - **作者**：Rania H. Anderson、David G. Smith
 - **章节定位**：第六册第十八篇正式文章；文章用 sponsorship 数据和 Lean In／Bloomberg／Coqual 研究说明男性领导常无意识地优先帮助相似者，并提出 identify、stretch、support、pave、persist、champion 等赞助步骤。
-- **字符数**：约 10,887 字符
-- **一句话主旨**：男性成为女性的有效 sponsor，不是做 benignant benefactor，而是主动寻找不同背景的高潜者，给予高可见度挑战、资源、关系、反馈和公开 advocacy。
+- **字符数**：约 9,846 字符
+- **一句话主旨**：男性成为女性的有效 sponsor，不是做 benevolent benefactor，而是主动寻找不同背景的高潜者，给予高可见度挑战、资源、关系、反馈和公开 advocacy。
 - **核心论点**：女性得到的 career-path information、career discussion 和 sponsorship 都少于男性；71% 的 executives 的 protégés 与自己性别或种族相同，说明 homophily 会直接减少女性 advancement。
 - **核心论点**：sponsor 需要知道技能、看见 potential、编排 advancement 和支持；文章用 Stan／Beth、Jay／Lexi 案例说明 stretch role、results communication 和 promotion advocacy 如何把潜力转成职业流动。
 
@@ -94,7 +94,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **句子结构**：祈使句 Identify 加宾语 high-potential talent，标题式表达。
 
-**关键词**：Identify / high-potential / talent / sponsors
+**关键词**：Identify / high-potential / talent
 
 **表达方式**：Identify 规定 sponsor 的第一步，high-potential 与 talent 构成招聘／发展的对象。
 
@@ -106,7 +106,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **句子结构**：祈使句 Determine 加 the best stretch role，best 说明选择标准。
 
-**关键词**：Determine / stretch role / high-visibility / protégé’s perspectives
+**关键词**：Determine / stretch role
 
 **表达方式**：best 要求 sponsor 依据业务价值匹配角色，stretch 说明角色超出当前经验。
 
@@ -116,9 +116,9 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **中文理解**：提供发展与支持的机会。
 
-**句子结构**：祈使句 Provide 加两个并列宾语 opportunities for development and support。
+**句子结构**：Provide 是祈使谓语，直接宾语是 opportunities；for development and support 是修饰 opportunities 的介词短语，不是第二个并列宾语。
 
-**关键词**：Provide / development / support / skills / resources / budget
+**关键词**：Provide / development / support / skills
 
 **表达方式**：development 和 support 并列，说明 sponsor 的责任不仅是给任务，也提供能力成长条件。
 
@@ -130,7 +130,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **句子结构**：祈使短语 Pave 加宾语 the way，隐喻性动作短语。
 
-**关键词**：Pave the way / influential people / clients / connections
+**关键词**：Pave the way
 
 **表达方式**：道路隐喻把 sponsor 的 invisible work 写成提前清除障碍、建立入口。
 
@@ -142,7 +142,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **句子结构**：祈使句 Help 加宾语 protégés，动词 persist 是不定式／原形补足语。
 
-**关键词**：Help / protégés / persist / challenges / setbacks
+**关键词**：Help / protégés / persist
 
 **表达方式**：Help 与 persist 构成结果链，implicitly 将赞助从一次 assignment 扩展到 adversity 阶段。
 
@@ -152,7 +152,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 
 **中文理解**：赞助者为值得支持的受赞助者争取加薪、晋升和认可。
 
-**句子结构**：`Sponsors` 主语，`advocate for` 谓语，three 并列宾语，to deserving protégés 是范围状语。
+**句子结构**：Sponsors 是主语，advocate for 是谓语，raises、promotions 和 recognition 是三个并列宾语；to deserving protégés 是介词补语，表示帮助对象。
 
 **关键词**：advocate for / raises / promotions / recognition / deserving protégés
 
@@ -182,7 +182,7 @@ source_text: ch139_18_what_men_can_do_to_be_better_advocate.txt
 | support | 支持 | “support” |
 | resources | 资源 | “resources” |
 | budget | 预算 | “budget” |
-| p | 铺路 | “Pave the way” |
+| pave the way | 铺路；开辟道路 | "Pave the way" |
 | persist | 坚持 | “persist” |
 | setback | 挫折 | “setbacks” |
 | advocacy for promotion | 晋升倡导 | “advocate for raises” |

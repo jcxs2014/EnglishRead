@@ -10,7 +10,7 @@ source_text: ch04_2_what_psychological_safety_looks_like_i.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 2 “What Psychological Safety Looks Like in a Hybrid Workplace”
 - **作者**：Amy Edmondson、Mark Mortensen
 - **章节定位**：第一册“Real Connections Begin with Trust”部分的第二篇正式文章；文章从远程办公与混合工作的管理难题切入，把传统的心理安全概念从“工作内容上的发言安全”扩展到“工作—生活边界的可谈程度”。
-- **字符数**：约 9,238 字符
+- **字符数**：约 11,072 字符
 - **一句话主旨**：混合工作迫使管理者处理员工的家庭、健康和日程需求，因此不能靠要求个人披露或一句“信任我”建立安全，而要以分阶段、渐进式、可持续迭代的方式扩大可以谈论的工作生活议题。
 
 ## 论证结构
@@ -110,7 +110,7 @@ source_text: ch04_2_what_psychological_safety_looks_like_i.txt
 
 **中文理解**：表明你是认真的最好方式，是先暴露自己的脆弱，分享你自己在在家办公／混合工作中的个人挑战和限制。
 
-**句子结构**：主句是 The best way to show you’re serious；is to expose... 是表语结构；by sharing... 是方式状语；own vulnerability 与 own personal challenges and constraints 形成两组 alliteration（重复的 own）并突出责任的对称性。
+**句子结构**：主句是 The best way to show you’re serious；is to expose... 是表语结构；by sharing... 是方式状语；own vulnerability 与 own personal challenges and constraints 重复使用 own，形成词项重复并突出责任的对称性。
 
 **关键词**：show you’re serious / expose your own vulnerability / personal challenges and constraints
 
@@ -138,7 +138,7 @@ source_text: ch04_2_what_psychological_safety_looks_like_i.txt
 
 **关键词**：Most people recognize / takes time to build / moments to destroy
 
-**表达方式**：takes time 与 moments 形成“长期／瞬间”的不对称对照，build 与 destroy 组成反向动词对。作者用 Everyone 都熟悉的常识形式，突出一旦失言或惩罚就会迅速破坏安全感。
+**表达方式**：takes time 与 moments 形成“长期／瞬间”的不对称对照，build 与 destroy 组成反向动词对。作者用 Most people recognize that... 所概括的普遍共识，突出一旦失言或惩罚就会迅速破坏安全感。
 
 **为什么这样写**：五步策略中最容易被忽略的不是如何开始，而是如何维持。心理安全的脆弱性决定了建立和破坏的成本不同，因此管理者必须持续观察员工是否因一次回应而选择沉默。
 
@@ -172,7 +172,7 @@ source_text: ch04_2_what_psychological_safety_looks_like_i.txt
 | fraught | 充满困难的；令人担忧的 | "Psychological safety is needed to enable productive conversations in new, challenging (and potentially fraught) territory." |
 | candor | 坦率；直言 | "managers who demand candor of their employees" |
 | constraints | 限制；约束 | "your own WFH/hybrid work personal challenges and constraints" |
-| transparency | 透明度 | "the benefits of sharing these challenges and needs" |
+| transparency | 透明度 | "increased transparency is happening and is helping the team design new arrangements" |
 | watchdog | 看门人；监督者 | "Be a watchdog" |
 | emergent | 逐渐形成的；涌现的 | "they’re emergent processes that develop and shift over time" |
 | iterative | 迭代的 | "will have to be navigated iteratively" |

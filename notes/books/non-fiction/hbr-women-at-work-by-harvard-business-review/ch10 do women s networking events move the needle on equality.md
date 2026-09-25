@@ -10,7 +10,7 @@ source_text: ch11_9_do_women_s_networking_events_move_the_.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 9 “Do Women’s Networking Events Move the Needle on Equality?”
 - **作者**：Shawn Achor
 - **章节定位**：第一册 networking 部分的第四篇文章；文章以 Conference for Women 的数据和作者个人观察检验女性联结活动是否带来长期职业与心理收益。
-- **字符数**：约 6,457 字符
+- **字符数**：约 7,820 字符
 - **一句话主旨**：女性会议不应只凭“连接很重要”的口号辩护；一项以已报名但尚未参加者为控制组的研究显示，出席者在晋升、涨薪、乐观和连接感方面都有更高结果，而活动的关键是有意义的参与、榜样和面向未来的共同感。
 
 ## 论证结构
@@ -39,7 +39,7 @@ source_text: ch11_9_do_women_s_networking_events_move_the_.txt
 
 **中文理解**：仅仅声称女性之间的连接“重要”、会在工作和社会中“产生影响”，并不能改变任何人的想法。
 
-**句子结构**：主句是 It won’t change anyone’s mindset；to just claim... 是目的或方式状语；connecting women 是动名词短语作 claim 的逻辑主语；important 和 have an impact... 是两个被引号标出的口号性表达。
+**句子结构**：主句是 It won’t change anyone’s mindset；to just claim... 是不定式内容结构，说明 change 的具体内容；connecting women 是动名词短语作 claim 的逻辑主语；important 和 have an impact... 是两个被引号标出的口号性表达。
 
 **关键词**：change anyone’s mindset / just claim / connecting women / important / have an impact
 
@@ -63,7 +63,7 @@ source_text: ch11_9_do_women_s_networking_events_move_the_.txt
 
 **中文理解**：在我们对参加美国多个州 Conference for Women 的 2,600 名跨职能、跨行业在职女性的初步研究中，我们考察了她们参加后一年中发生的多种结果。
 
-**句子结构**：主语是 In our initial study of 2,600 working women...，study 的介词短语中包含 across functions and industries 与 attending... 两个后置修饰；主句为 we examined a number of outcomes...，that occurred... 修饰 outcomes。
+**句子结构**：前置状语 In our initial study of 2,600 working women... 修饰主句 we examined a number of outcomes...；across functions and industries 与 attending... 是说明研究对象的后置修饰，that occurred... 修饰 outcomes。
 
 **关键词**：initial study / 2,600 working women / across functions and industries / outcomes / occurred in the year
 
@@ -75,7 +75,7 @@ source_text: ch11_9_do_women_s_networking_events_move_the_.txt
 
 **中文理解**：对于已报名但尚未参会的女性，研究期间有 18% 获得晋升，而已经参加会议的女性中有 42% 获得晋升。
 
-**句子结构**：主语是 For the women who’d signed up...，who 从句和 but had yet to attend 规定控制组；主句是 18% received a promotion；compared with 42% of women... 是比较状语，who had already attended... 修饰后者。
+**句子结构**：For the women who’d signed up... 是限定比较群体的状语；主句是 18% received a promotion；compared with 42% of women... 是比较状语，who had already attended... 修饰后者。
 
 **关键词**：signed up / had yet to attend / 18% received a promotion / compared with 42% / already attended
 

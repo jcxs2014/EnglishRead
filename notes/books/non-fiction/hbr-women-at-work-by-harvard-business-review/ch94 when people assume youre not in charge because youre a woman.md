@@ -11,7 +11,7 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 15 “When People Assume You’re Not in Charge Because You’re a Woman”
 - **作者**：Amy Diehl、Leanne M. Dzubinski
 - **章节定位**：第五册第十五篇正式文章；文章用 Alexandra 的客户故事命名 role incredulity，分析女性被误认成 support／female role 的成本，并提出 Set Norms、Be an Ally、Own Your Mistakes、Proactively Identify Your Role 四类干预。
-- **字符数**：约 13,388 字符
+- **字符数**：约 10,122 字符
 - **一句话主旨**：当别人因为性别而把女性误认为秘书、助理、妻子或护士时，问题不只是礼貌失误，而是 role incredulity；组织要用明确 title、规范介绍和 ally 介入减少这种默认误判，个人也要主动但不必独自承担修复责任。
 - **核心论点**：Alexandra 被客户问“是不是在等他”时，谈判从一开始就建立在 lowered credibility 上。女性必须额外花时间和能量证明职位，导致讨论受限、职业路径受损，甚至产生安全问题。
 - **核心论点**：文章同时把责任分成组织与个人：组织通过 title、signature、promotion announcement 和多性别图像传递角色；同事通过正确介绍和纠错阻断误判；女性可主动介绍 title，但不应把系统性 bias 变成个人必须不断自证的负担。
@@ -55,7 +55,7 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 
 **中文理解**：走进一场谈判，而对方在你开口前就已经基本认定你低人一等，这种经历过去和现在都令人 demoralizing。
 
-**句子结构**：动名词短语 Walking into... 作主语，where... 是定语从句，was and is 为现在完成时结构，even before... 是时间状语。
+**句子结构**：动名词短语 Walking into... 作主语，where... 是定语从句；was 和 is 并列，分别构成一般过去和一般现在形式，不是现在完成时。
 
 **关键词**：Walking into a negotiation / telling you up front / deem you less than / demoralizing
 
@@ -81,7 +81,7 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 
 **句子结构**：主句 Role incredulity is a form of gender bias，where... 是定语从句；两组角色短语由 rather than 对比，括号中的名词是举例。
 
-**关键词**：form of gender bias / mistakenly assumed / support role / leadership role / rather than
+**关键词**：form of gender bias / mistakenly assumed / stereotypically female role / leadership or stereotypically male role / rather than
 
 **表达方式**：is a form of 把行为归入 gender bias，mistakenly assumed 指出错误机制，rather than 将两个 role system 对立。
 
@@ -141,7 +141,7 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 
 **句子结构**：祈使句 Set 加复数宾语 Norms，简洁地提出组织行动。
 
-**关键词**：Set Norms / norms / organization
+**关键词**：Set Norms / norms
 
 **表达方式**：两个词构成 action heading，Set 用动词强调领导者需要主动建立环境。
 
@@ -153,11 +153,11 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 
 **句子结构**：副词 Proactively 修饰动词短语 Identify Your Role，说明行动发生的时间与主动性。
 
-**关键词**：Proactively / identify your role / email signature / title and credentials
+**关键词**：Proactively / Identify Your Role
 
 **表达方式**：Proactively 把被动等待改写成主动行为，Identify 强调确认而非自我吹嘘。
 
-**为什么这样写**：在长期规范形成前，女性可以用 title、credentials 和简短 correction 保护谈判位置。它是短期缓冲，不是结构问题的终点。
+**为什么这样写**：在长期规范形成前，女性可以用 title、credentials 和简短 correction 保护谈判位置；原文还建议用 position title and credentials 让角色更明确。这是短期缓冲，不是结构问题的终点。
 
 ## 词汇分级
 
@@ -193,7 +193,7 @@ source_text: ch111_15_when_people_assume_you_re_not_in_char.txt
 | promotion | 晋升 | “promotions” |
 | employee | 员工 | “employee” |
 | staff member | 工作人员 | “staff member” |
-| female-dominated role | 女性主导角色 | “male-dominated role” |
+| male-dominated role | 男性主导角色 | "male-dominated role" |
 | social media post | 社交媒体帖子 | “social media posts” |
 | public article | 公开文章 | “public articles” |
 | considered for promotion | 被考虑晋升 | “considered for promotions” |

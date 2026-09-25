@@ -11,7 +11,7 @@ source_text: ch88_17_returning_to_the_workforce_after_bein.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 17 “Returning to the Workforce After Being a Caregiver”
 - **作者**：Rebecca Zucker
 - **章节定位**：第四册第十七篇正式文章；文章以 caregiving career break 的偏见和重新进入 fast-moving workforce 的压力为背景，提出 self-compassion、transparency、share learning、don’t dwell、values match 和 support 六项策略。
-- **字符数**：约 14,807 字符
+- **字符数**：约 9,233 字符
 - **一句话主旨**：离开 paid workforce 照顾家人不等于失去职业能力；更新简历、准确说明 employment dates、把照护中的判断和责任转译为工作能力、不为 gap道歉，并通过 values-based 双向选择，重新进入更适合的职场。
 - **核心论点**：招聘中的 caregiving bias 让女性和男性照护者都担心被视为不投入。文章认为照护经历包含 selflessness、high-stakes decisions、coordination、financial／estate management 等可迁移能力，但候选人需要用事实而非 apology 说明自己为何离开、学到什么、现在能贡献什么。
 - **核心论点**：caregiving break 是职业历史的一部分，而非需要隐藏的污点。候选人应透明、准确、matter-of-fact，并把重点放在过去的工作成果和未来的 strategic goals；雇主也应通过 return-to-work 和 empathetic recruiting 降低重新进入的门槛。
@@ -69,7 +69,7 @@ source_text: ch88_17_returning_to_the_workforce_after_bein.txt
 
 **句子结构**：祈使句 Be 是谓语，transparent 是表语形容词。
 
-**关键词**：Be transparent / résumé / dates of employment
+**关键词**：Be transparent / employment dates
 
 **表达方式**：祈使句极短，要求直接而不修饰，强调准确披露比隐藏更重要。
 
@@ -81,7 +81,7 @@ source_text: ch88_17_returning_to_the_workforce_after_bein.txt
 
 **句子结构**：祈使句 Make it clear，that this was time out—not time off 是宾语从句；破折号区分 time out 和 time off。
 
-**关键词**：time out / not time off / clear / caregiving
+**关键词**：time out / not time off / clear
 
 **表达方式**：Make it clear 把解释写成任务，time out／time off 的破折号对照纠正外界误读。
 
@@ -89,7 +89,7 @@ source_text: ch88_17_returning_to_the_workforce_after_bein.txt
 
 > **原句 5:** “You can also elaborate on the range and complexity of the responsibilities you managed.”
 
-**中文理解**：你还可以详细说明自己管理过哪些不同且复杂的责任。
+**中文理解**：你还可以详细说明自己管理过的职责范围和复杂程度。
 
 **句子结构**：主句 You can also elaborate，on... 是介词短语，the range and complexity... 是 elaborated 的宾语；you managed 修饰 responsibilities。
 

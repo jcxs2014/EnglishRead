@@ -11,7 +11,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 12 “Having the Here’s-What-I-Want Conversation with Your Boss”
 - **作者**：Rebecca Shambaugh
 - **章节定位**：第六册第十二篇正式文章；文章从一位考虑辞职的高管案例出发，说明如何用 open dialogue、open questions、what-if responses 和 backup plans 向直属上级谈 promotion、raise、time off 或其他职业需求。
-- **字符数**：约 7,801 字符
+- **字符数**：约 7,345 字符
 - **一句话主旨**：想要晋升、加薪、休假或资源，不能只默默等待；要先做研究，再用合作式问题了解 boss 的约束，以可追踪的 what-if 方案争取 buy-in，并为“no”准备 plan B。
 - **核心论点**：asking 并不等于 entitlement，而是 strength、self-confidence 和 respect；直接上级虽不能独自决定全部结果，却是影响 advancement 的关键 gatekeeper。
 - **核心论点**：successful ask 不是单维度坚持自己的 desired outcome，而是把 boss concerns 与 request 连接起来，听取 context、用具体方案推进，并在谈判变化时寻找 small win。
@@ -33,7 +33,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 - **论证脉络**：career gatekeeper → asking as strength → preparation → open dialogue → what-if plan → flexible negotiation → confidence for future。
 - **可质疑处**：
-  1. “What’s in it for me?” 的协作话术可能要求女性先证明自己对 boss 的价值，才配谈个人需求。
+  1. 文章用“how do we both do well?”等真实问句展开协作话术可能要求女性先证明自己对 boss 的价值，才配谈个人需求。
   2. 组织若存在 promotion freeze、透明晋升标准和反报复保护，个人 negotiation 不能替代制度修复。
   3. 把 plan B 当作持续争取策略时，需要避免无休止的自我牺牲和反复承担额外工作。
 
@@ -77,7 +77,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 > **原句 4:** Did you consider going to your boss and directly asking for what you want—maybe some additional time off or even going part-time for a while—to facilitate your ability to accept the promotion while still making more time for family?
 
-**中文理解**：你有没有考虑过去找老板，直接说出你想要的东西？
+**中文理解**：你是否考虑直接向老板提出需要什么，例如 additional time off、暂时 part-time，以便在接受晋升的同时为家庭留出更多时间？
 
 **句子结构**：一般疑问句，`going to your boss and directly asking...` 是两个并列动名词。
 
@@ -127,7 +127,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 **中文理解**：既然我已经在这个职位做了两年，要做哪些事情才能晋升到下一级？
 
-**句子结构**：`Now that...` 是时间／条件从句，主句 what actions... 是宾语从句，would it take 是强调结构。
+**句子结构**：Now that... 是时间状语从句；主句是 what actions would it take... 的直接疑问结构，不是宾语从句，也不是强调句。
 
 **关键词**：Now that / two years / what actions / advance to the next level
 
@@ -139,7 +139,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 **中文理解**：如果我直接在 marketing department 参与 Johnson campaign，会怎样？
 
-**句子结构**：`What if` 引导假设从句，主句省略 would...，work... 是建议动作。
+**句子结构**：What if 引导整个条件性假设疑问结构；I work directly... 是该疑问结构的建议内容，没有省略 would 的主句。
 
 **关键词**：What if / work directly / marketing department / Johnson campaign
 
@@ -169,7 +169,6 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 | direct supervisor | 直属上级 | “direct supervisor” |
 | promotion | 晋升 | “promotion” |
 | raise | 加薪 | “raise” |
-","replaceAll>false
 | open question | 开放问题 | “open questions” |
 | collaborative approach | 协作式方法 | “collaborative approach” |
 | what-if response | “如果……会怎样”的回应 | “what-if responses” |
@@ -180,7 +179,6 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 | negotiation | 谈判 | “negotiation” |
 | cross-functional | 跨职能的 | “cross-functional experience” |
 | stretch assignment | 挑战性任务 | “stretch assignments” |
-","replaceAll>false
 | freeze | 冻结 | “freeze on promotions” |
 | reevaluation | 重新评估 | “reevaluation of the timing” |
 | internal market research | 内部市场调研 | “internal and external market research” |
@@ -192,9 +190,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 |----------|------|--------------|
 | supervisor | 上级 | “supervisor” |
 | manager | 经理 | “your manager” |
-","replaceAll>false
 | research | 研究 | “researching your case” |
-","replaceAll>false
 | financial position | 财务状况 | “financial position” |
 | successful negotiation | 成功谈判 | “Successful negotiation” |
 | strategy | 策略 | “a poor strategy” |
@@ -224,17 +220,13 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 | boss | 老板 | “your boss” |
 | family | 家庭 | “family situation” |
 | time off | 休假 | “more time off” |
-","replaceAll>false
-","replaceAll>false
 | team | 团队 | “team” |
-","replaceAll>false
 | role | 角色 | “role” |
 | need | 需要 | “need” |
 | help | 帮助 | “help” |
 | answer | 答案 | “an answer” |
 | goal | 目标 | “goal” |
 | plan | 计划 | “plan” |
-","replaceAll>false
 | month | 月 | “six months” |
 | year | 年 | “two years” |
 | question | 问题 | “questions” |

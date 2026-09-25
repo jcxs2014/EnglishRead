@@ -10,8 +10,8 @@ source_text: ch96_introduction_fighting_the_disparities.txt
 
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series）导言
 - **作者**：Amanda Kersey
-- **章节定位**：第五册导言；作者从 Olin College 的女性工程学生、家务和 segregation 经验、工程和建筑行业数据及听众来信，说明 male-dominated workplace 中的 visible／hidden disparities、isolating、normal work 和 organizational responsibility。
-- **字符数**：约 7,917 字符
+- **章节定位**：第五册导言；作者从 Olin College 的女性工程教育与进入 far less equal, inhospitable workforce 的落差，以及职场性别／种族隔离经验、工程和建筑行业数据及听众来信，说明 male-dominated workplace 中的 visible／hidden disparities、isolating、normal work 和 organizational responsibility。
+- **字符数**：约 8,164 字符
 - **一句话主旨**：女性在男性占多数的行业中面对的不只是显性歧视，还有隐形 coffee cliques、代表性不足、额外证明和“正常”标准带来的 invisibility；个人需要盟友、可见工作和回应 bias，组织必须改变 reward systems、价值排序和文化责任。
 - **核心论点**：导言把个人处境放回结构和 intersection：女性可能从学校获得 support，却进入 far less equal、inhospitable workforce；她们需要提前识别 hidden stressors、选择公司、建立 reputation 并在 overt bias 时发声，也需要组织承担改变文化与 reward system 的责任。
 - **核心论点**：Kersey 用 engineering、construction、mining 和 utility 的例子说明“folding chair”与“seat at the table”的不同现实。女性不必只为自己辩护，men and leaders 也要一起打破 masculine culture、关注非白人女性并 enact real change。
@@ -105,7 +105,7 @@ source_text: ch96_introduction_fighting_the_disparities.txt
 
 **句子结构**：Sometimes we won’t have... 是让步分句，but bring your folding chair 是祈使句；but 前后形成对照。
 
-**关键词**：seat at the table / folding chair / bring your own
+**关键词**：seat at the table / folding chair / bring your folding chair
 
 **表达方式**：两个空间隐喻将 exclusion 和 agency 并置，祈使句让资源fulness 成为行动。
 
@@ -129,7 +129,7 @@ source_text: ch96_introduction_fighting_the_disparities.txt
 
 **句子结构**：主语 The onus，谓语 needs to be on organizations，to change... 是表语；三个 change 平行，that they have 是定语从句。
 
-**关键词**：onus / organizations / change cultures / reward systems / value and reward men over women
+**关键词**：onus / organizations / change their cultures / reward systems / value and reward men over women
 
 **表达方式**：The onus really needs to be 强化责任位置，change...or change... 给出制度层面路径，men over women 揭示偏向。
 
@@ -151,7 +151,7 @@ source_text: ch96_introduction_fighting_the_disparities.txt
 
 **中文理解**：这些空间里的男性常常假设女性，尤其是非白人女性，没有足够能力，即使她们受过高等教育且技术熟练。
 
-**句子结构**：主句 Men in these spaces often assume，that women... are sufficiently competent 是宾语从句，even if they’re... 是让步状语从句。
+**句子结构**：主句 Men in these spaces often assume，that women... are not sufficiently competent 是宾语从句，even if they’re... 是让步状语从句。
 
 **关键词**：in these spaces / often assume / especially nonwhite women / sufficiently competent / highly educated and skilled
 

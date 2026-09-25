@@ -10,7 +10,7 @@ source_text: ch15_13_sponsors_need_to_stop_acting_like_men.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 13 “Sponsors Need to Stop Acting Like Mentors”
 - **作者**：Julia Taylor Kennedy、Pooja Jain-Link
 - **章节定位**：第一册 networking 部分关于 sponsorship 的第二篇文章；文章基于对 3,000 多名美国专业人士的调查和高层访谈，指出许多 sponsor 实际上只做 mentor，且倾向于选择“mini-me”。
-- **字符数**：约 6,862 字符
+- **字符数**：约 8,232 字符
 - **一句话主旨**：sponsor 的责任不是给建议或提供 air cover 的偶然机会，而是公开和私下为 protégé 争取晋升、承担风险并提供保护；真正有效的赞助还必须跨越相似性偏见，主动寻找能补充自身能力的人才。
 - **核心论点**：sponsorship 是一种主动 advocacy，包含相信并为 protégé 冒险、动用组织资本推动晋升、以及为风险尝试提供 air cover 三项责任。由于许多 sponsor 只做 mentoring 或选择和自己相似的人，潜在人才被挡在领导层之外；跨差异赞助同时也能为 sponsor 带来信任、反馈、能力和组织传承。
 
@@ -30,7 +30,7 @@ source_text: ch15_13_sponsors_need_to_stop_acting_like_men.txt
 - **论证脉络**：sponsorship 成为热门干预 → 调查发现 sponsor 不理解角色 → 定义 sponsor 的三项责任 → 量化 advocacy／air cover 缺失 → 识别 mini-me syndrome → 说明相似性如何阻碍 diversity → 提出 prioritize difference → 展示 sponsor 的收益 → 用高层案例说明信任和传承 → 以跨差异伙伴关系收束。
 - **可质疑处**：
   1. 调查是自报的全国代表性样本，但 sponsor 是否真正推动晋升、保护风险或影响决策，仍取决于组织制度、职位权力和记录方式。
-  2. “男性 sponsor 更有效”“女性 sponsor 较少被采纳”的结果不能简单转成性别本质判断；组织中 sponsorship 的权力、可见度和风险承担方式需要具体分析。
+  2. 本章调查主要测量 sponsor 的自报行为与收益，不能据此判断不同性别 sponsor 的效果或采纳率；组织中 sponsorship 的权力、可见度和风险承担方式仍需要具体分析。
   3. 要求 sponsor 主动选择差异人才可能改善代表性，但也可能把组织偏见转成 sponsor 个人承担的风险；若没有制度化的晋升和问责机制，个案倡议未必能转化为长期公平。
 
 ## 选择性精读

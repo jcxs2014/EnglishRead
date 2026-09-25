@@ -11,7 +11,7 @@ source_text: ch82_11_start_building_meaningful_connections.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 11 “Start Building Meaningful Connections”
 - **作者**：Jenny Fernandez、Luis Velasquez
 - **章节定位**：第四册第十一篇正式文章；文章把职业关系分成 mentor、sponsor、partner、competitor 和 mentee 五类，分别说明它们的功能、形成方式和长期价值。
-- **字符数**：约 19,838 字符
+- **字符数**：约 12,303 字符
 - **一句话主旨**：职业成长需要一组不同功能的长期关系，而不只是 LinkedIn 联系人；导师提供指导，赞助者替你发声，伙伴互补，竞争对手促成成长，门生关系反过来训练领导能力。
 - **核心论点**：Fernandez 与 Velasquez 把个人职业网络比作 board of directors，强调关系需要时间、信任、互动和 intentionality。每种关系都不是同一支持：mentor 教知识与判断，sponsor 推动 advancement，partner 通过互惠合作，competitor 以 win-win 促进结果，mentee 让你通过教学成为更好的 leader。
 - **核心论点**：文章反对把人脉等同于交换名片，建议从可达的 path、可见的工作和具体的 purpose 开始建立关系。关系选择、互动频率、互补优势和 reciprocal support 决定网络能否真正扩大职业机会。
@@ -117,7 +117,7 @@ source_text: ch82_11_start_building_meaningful_connections.txt
 
 **句子结构**：When 引导时间从句，主句 the other women would repeat it，giving credit to its author 是现在分词短语作结果伴随状语。
 
-**关键词**：key point / repeat it / giving credit / author / amplification
+**关键词**：key point / repeat it / giving credit / author
 
 **表达方式**：When...would repeat 把支持写成重复行为，giving credit...明确不是争夺而是放大作者声音。
 
@@ -180,7 +180,6 @@ source_text: ch82_11_start_building_meaningful_connections.txt
 | mentee | 门生／受指导者 | “The Mentee” |
 | soft skills | 软技能 | “important soft skills” |
 | personal brand | 个人品牌 | “personal brand” |
-| standing | 稳定性 | “competitive relationships” |
 | vulnerable | 坦诚脆弱的 | “a vulnerable conversation” |
 | visibility | 可见度 | “increase your visibility” |
 

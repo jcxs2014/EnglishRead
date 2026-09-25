@@ -11,7 +11,7 @@ source_text: ch104_8_stop_second_guessing_yourself.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 8 “Stop Second-Guessing Yourself”
 - **作者**：Tucci Ivowi
 - **章节定位**：第五册第八篇正式文章；文章从作者第一次 coffee 培训时不敢举手，到成为跨国组织业务单元负责人，提出承认紧张、不要害怕失败、诚实对待自己、接受没有全知答案和寻找 peer coach／ally 五条建议。
-- **字符数**：约 16,147 字符
+- **字符数**：约 8,750 字符
 - **一句话主旨**：imposter syndrome 常让有能力的人因害怕犯错而沉默；通过把 nervousness 正常化、用证据检验自我评价、持续学习、拥有 strengths 和 peer support，女性可以减少 self-criticism，真正在工作中贡献和领导。
 - **核心论点**：Ivowi 不把自我怀疑简单视为个人缺陷，而是承认它在新角色、少数身份和高压情境中有现实功能；但 fear of failure 不能阻止发声和行动。
 - **核心论点**：职业自信来自 repeated contribution、evidence、personal growth 和 authentic identity，而不是一次性的“感觉像专家”。peer coach 之所以有效，是因为对方能直接观察行为、贡献和 strengths。
@@ -43,11 +43,11 @@ source_text: ch104_8_stop_second_guessing_yourself.txt
 
 **中文理解**：事实证明，我当时确实知道答案。
 
-**句子结构**：Turns out 是插入语，主句 I had the right answer 是过去完成时。
+**句子结构**：Turns out 是插入语，主句 I had the right answer 使用一般过去时；没有更早时间参照，不构成过去完成时。
 
 **关键词**：Turns out / right answer / had
 
-**表达方式**：Turns out 逆转此前自我怀疑，right answer 简洁证明，had the answer 使用过去完成时回看认知事实。
+**表达方式**：Turns out 逆转此前自我怀疑，right answer 简洁证明，had the answer 回看叙事中的过去事实。
 
 **为什么这样写**：故事先让读者经历“知道却不说”，再用一句结果翻转自我评价。它说明 silence 的代价不一定来自能力不足，而来自对错误的恐惧。
 
@@ -153,7 +153,7 @@ source_text: ch104_8_stop_second_guessing_yourself.txt
 
 **句子结构**：主句 You’re an asset；You’re 是 You are 的缩写，an asset 是表语。
 
-**关键词**：You’re an asset / asset / self-worth
+**关键词**：You’re an asset / asset
 
 **表达方式**：短句把职业价值压缩为可拥有资源，asset 呼应前面的 evidence、strengths 和 contribution。
 

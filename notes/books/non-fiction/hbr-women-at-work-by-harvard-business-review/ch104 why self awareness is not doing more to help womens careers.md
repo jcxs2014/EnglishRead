@@ -11,7 +11,7 @@ source_text: ch125_4_why_self_awareness_isn_t_doing_more_to.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 4 “Why Self-Awareness Isn’t Doing More to Help Women’s Careers”
 - **作者**：Tasha Eurich
 - **章节定位**：第六册第四篇正式文章；文章基于 self-awareness 研究提出三个 lesson：女性可能低估他人对贡献的评价、得到的 feedback 更少且更模糊、也更容易把 feedback 过度带入 self-view，并提出 Reflected Best Self Exercise 和 loving critics。
-- **字符数**：约 20,558 字符
+- **字符数**：约 11,213 字符
 - **一句话主旨**：女性拥有 self-awareness 优势却仍未获得同等 advancement，说明问题不是缺少自我认识，而是 meta-perception、feedback quality 和 social evaluation 的性别化；女性需要建立更准确的自我画像、主动索取具体反馈并保留自己的判断标准。
 - **核心论点**：研究发现女性的 self-ratings 略高、对 self-awareness 的职业意义认识更清楚，但她们预测 supervisor 对 EQ 的评分比男性低三倍。女性低估的是“别人是否重视我的贡献”，不是所有 leadership 能力。
 - **核心论点**：女性通常得到较少、较模糊的 feedback，且更容易根据他人评价修改 self-view。Reflected Best Self Exercise、loving critics、follow-up questions 和 self-reliance 可以恢复 meta-perception 与 agency。
@@ -90,7 +90,7 @@ source_text: ch125_4_why_self_awareness_isn_t_doing_more_to.txt
 
 > **原句 5:** “The ability to correctly predict how others see us, often called meta-perception, is an important aspect of self-awareness.”
 
-**中文理解**：正确预测他人如何看待自己的能力（通常称为元认知／meta-perception）是 self-awareness 的重要方面。
+**中文理解**：正确预测他人如何看待自己的能力（通常称为元感知／meta-perception），是 self-awareness 的重要方面。
 
 **句子结构**：主句 The ability... is an important aspect，called meta-perception 是过去分词短语，how others see us 是宾语从句。
 

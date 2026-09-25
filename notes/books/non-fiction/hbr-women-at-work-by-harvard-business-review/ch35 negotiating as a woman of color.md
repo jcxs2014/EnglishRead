@@ -10,7 +10,7 @@ source_text: ch40_12_negotiating_as_a_woman_of_color.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 12 “Negotiating as a Woman of Color”
 - **作者**：Deepa Purushothaman、Deborah M. Kolb、Hannah Riley Bowles、Valerie Purdie-Greenaway
 - **章节定位**：第二册第十二篇正式文章；文章结合 1,000 多位职业与高管有色人种女性的访谈及性别谈判研究，分析四类职场陷阱，并提出 job-within-job、shared responsibility、organizational mentorship 和 external options 等谈判路径。
-- **字符数**：约 10,809 字符
+- **字符数**：约 15,616 字符
 - **一句话主旨**：有色人种女性面对的不是单一的“不会谈判”，而是文化规训、交叉性 invisibility、被当作例外和额外隐形劳动的叠加；谈判应被用来定义角色、分配责任、确认组织承诺，并在内外市场创造更多选择。
 - **核心论点**：WOC 常被教导“go along to get along”，且 negotiation 常被窄化为正式合同谈判，导致她们看不见时间、价值、空间和额外任务中的议价空间。通过 mutually beneficial options、collective proposals、data、coalition 和 pause，谈判可以成为抵抗 invisible work 和 reclaim power 的工具。
 
@@ -71,9 +71,9 @@ source_text: ch40_12_negotiating_as_a_woman_of_color.txt
 
 **为什么这样写**：文化规训会把拒绝或争取需要描述成不合群。文章先让这些建议的后果可见，再提出超越 yes／no 的替代语言。
 
-> **原句 4:** "There are often choices beyond saying yes or no."
+> **原句 4:** "We want to model and discuss what WOC might do when asked to take on additional tasks and roles at work—and highlight that there are often choices beyond saying yes or no."
 
-**中文理解**：通常还存在超出简单说“是”或“否”的选择。
+**中文理解**：我们希望讨论有色人种女性在面对额外工作任务时的选择，并强调答案不只有说是或说不是。
 
 **句子结构**：There are often choices 是存在句，beyond saying yes or no 是范围状语，saying yes or no 是动名词结构。
 
@@ -119,15 +119,15 @@ source_text: ch40_12_negotiating_as_a_woman_of_color.txt
 
 **为什么这样写**：Maria 的问题不是懒散，而是组织把公共利益转成个人负担。集体分享可以让隐性价值从个人牺牲变成团队制度。
 
-> **原句 8:** "This common type of invisible work often falls on path-breaking WOC."
+> **原句 8:** "This common type of invisible work often falls on path-breaking WOC and came up in our interviews frequently."
 
-**中文理解**：这种常见的隐形工作常常落在开辟道路的有色人种女性身上。
+**中文理解**：这种常见的隐形工作经常落在开路的 WOC 身上，而且在我们的访谈中频繁出现。
 
-**句子结构**：主句 This common type of invisible work，often falls on path-breaking WOC；on 表示责任落点，path-breaking 修饰 WOC。
+**句子结构**：主句 This common type of invisible work，谓语 falls on... and came up... 是两个并列过去时谓语；on path-breaking WOC 和 in our interviews 分别说明承受者与访谈来源。
 
 **关键词**：common type / invisible work / falls on / path-breaking WOC
 
-**表达方式**：invisible work 将贡献与可见性脱钩，falls on 暗示负担自然倾倒，path-breaking 保留开辟者的主体性。
+**表达方式**：often falls on 写隐形劳动的分配，came up in our interviews frequently 把它锚定为访谈中反复出现的经验；and 连接两个观察。
 
 **为什么这样写**：作者把结构性不平等命名为 invisible work，不把它归咎于个人选择。看见这种劳动是谈判和制度化要求的第一步。
 
@@ -225,4 +225,4 @@ source_text: ch40_12_negotiating_as_a_woman_of_color.txt
 
 ## 一句话总结
 
-Purushothaman 等人把有色人种女性的谈判困境拆成文化规训、隐形劳动、独自承担和激情被边缘化四类陷阱；通过重新定义角色、共享责任、把个人 mentor 工作制度化、用试点和外部选项测试价值，WOC 可以把“yes or no”改写成更有 agency 的持续谈判。
+Purushothaman 等人把有色人种女性的谈判困境拆成 job-within-job 的额外职责、shared administrative work、lonely-only mentorship 和 passion project 被边缘化四类陷阱；通过重新定义角色、共享责任、把个人 mentor 工作制度化、用试点和外部选项测试价值，WOC 可以把“yes or no”改写成更有 agency 的持续谈判。

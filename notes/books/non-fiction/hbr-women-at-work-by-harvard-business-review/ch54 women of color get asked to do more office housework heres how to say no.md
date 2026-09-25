@@ -10,14 +10,14 @@ source_text: ch63_14_women_of_color_get_asked_to_do_more_o.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 14 “Women of Color Get Asked to Do More ‘Office Housework.’ Here’s How to Say No”
 - **作者**：Ruchika Tulshyan
 - **章节定位**：第三册第十四篇正式文章；文章以 Selena Rezvani 的午餐经历和 Center for WorkLife Law 研究说明 office housework 如何将女性和有色人种困在低可见度任务中，并提供拒绝、证据、团队轮换、盟友和 credit 等策略。
-- **字符数**：约 10,288 字符
+- **字符数**：约 8,972 字符
 - **一句话主旨**：办公室杂务看似微小，却会占用有色人种女性的高可见度时间、影响晋升并强化低权力位置；在组织尚未改变的当下，女性可以用 watertight refusal、证据、communal give、manager cover、轮换和盟友网络有尊严地拒绝并要求 credit。
 - **核心论点**：office housework 包括记笔记、订会议室、安排午餐、发起流程和跟踪合同等不直接带来 revenue 的工作。研究显示女性和有色人种常承担更差 assignment，女性有色人种还承受 gender／race double jeopardy。解决方案既是改变文化，也是个体用具体语言、经理支持和可轮换制度降低个人成本。
 - **核心论点**：拒绝不是单纯“说不”，而是要把任务与岗位、收入目标和可用 bandwidth 连接起来。个人可用证据和经理背书降低被视为 difficult 的风险；长期则应把 office housework 轮换、纳入 reward model，并让女性有色人种参与组织规范改变。
 
 ## 论证结构
 
-- **核心论点**：文章从 Rezvani 被默认订午餐的个案开始，结合访谈、WorkLife Law 定义和 double jeopardy 解释 office housework；随后列出七类个人策略，最后以“改变文化、让领导者 mitigate impact”为收束。
+- **核心论点**：文章从 Rezvani 被默认订午餐的个案开始，结合访谈、WorkLife Law 定义和 double jeopardy 解释 office housework；随后列出十项个人策略，最后以“改变文化、让领导者 mitigate impact”为收束。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -44,7 +44,7 @@ source_text: ch63_14_women_of_color_get_asked_to_do_more_o.txt
 
 **句子结构**：主句 Selena Rezvani was in... when...；when 引导时间状语从句，she faced a challenge... 是从句主句，冒号后 She was expected... 说明挑战内容。
 
-**关键词**：Selena Rezvani / all-day strategy session / challenge many women of color are familiar with / arrange lunch
+**关键词**：Selena Rezvani / all-day strategy session / challenge many women of color are intimately familiar with / arrange lunch
 
 **表达方式**：时间从句让个案发生在具体会议中，intimately familiar with 将个人经历连接到群体经验，冒号后直接呈现默认劳动。
 
@@ -92,7 +92,7 @@ source_text: ch63_14_women_of_color_get_asked_to_do_more_o.txt
 
 **句子结构**：第一句 Research shows...；However 引导对比，第二句 statistics... are worse；We face... 是结果，where... 解释 double jeopardy。
 
-**关键词**：white women / advancement / every industry / statistics for women of color are worse / double jeopardy / gender and race
+**关键词**：white women / advancement / every industry / statistics for women of color are worse / double jeopardy / both our gender and our race
 
 **表达方式**：However 将普遍女性问题与更严重 subgroup 经验对照，double jeopardy 用交叉隐喻说明两类偏见叠加。
 

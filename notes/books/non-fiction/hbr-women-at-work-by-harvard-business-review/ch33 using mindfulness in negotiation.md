@@ -10,13 +10,13 @@ source_text: ch38_10_using_mindfulness_in_negotiation.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 10 “Using Mindfulness in Negotiation”
 - **作者**：Gaëtan Pellerin
 - **章节定位**：第二册第十篇正式文章；文章以薪资谈判被拒为场景，解释 ego 如何把当前冲突连接到过去经验，并提出四步正念流程：识别 triggers、预演新反应、现场觉察并调整、以好奇心继续谈判。
-- **字符数**：约 7,512 字符
+- **字符数**：约 8,165 字符
 - **一句话主旨**：谈判中的拒绝会触发自我威胁和旧经验，正念让人在压力下觉察感受、留在当下并选择反应；通过 what-if 练习、情绪预案、呼吸暂停、好奇提问和创造性补偿，谈判者可以避免自动负面反应并保留主动权。
 - **核心论点**：正念不是让谈判者没有情绪，而是建立觉察、调节和选择的能力。文章把自我批判、冲动和过去奖励经验区分开来，训练谈判者在触发点出现时暂停、恢复身体平衡，再把触发点转成探索对方需要和新方案的信息。
 
 ## 论证结构
 
-- **核心论点**：谈判通常被看作逻辑对话，但大脑和身体会先对威胁作出反应。正念四步流程在会前建立自我觉察和替代方案，在会中恢复身体平衡并重新选择注意方向，在会后保留对情绪和选择的责任；它不能消除偏见，但能减少自动反应造成的破坏。
+- **核心论点**：谈判通常被看作逻辑对话，但大脑和身体会先对威胁作出反应。正念四步流程在会前建立自我觉察和替代方案，在会中恢复身体平衡并重新选择注意方向，并把触发点转成可探索的信息；它不能消除偏见，但能减少自动反应造成的破坏。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -108,7 +108,7 @@ source_text: ch38_10_using_mindfulness_in_negotiation.txt
 
 **为什么这样写**：文章解释了为什么当前拒绝会引发不成比例的反应。识别过去经验与当前事件的区别，是第一步觉察而非责怪自己。
 
-> **原句 7:** "Try using the following exercise to figure out what’s going on for you internally before your next negotiation."
+> **原句 7:** "Try using the following exercise to figure out what’s going on for you internally before your next negotiation:"
 
 **中文理解**：在下次谈判前，尝试使用下面的练习弄清楚你内在正在发生什么。
 
@@ -120,11 +120,11 @@ source_text: ch38_10_using_mindfulness_in_negotiation.txt
 
 **为什么这样写**：作者把自我觉察变成可提前完成的作业。它让谈判者在会前看到自己的自动反应，而不是在现场才发现。
 
-> **原句 8:** "Pause. Take a deep breath. Inhale for a count of four and exhale for a count of eight."
+> **原句 8:** "When this happens, pause. Take a deep breath. Inhale for a count of four and exhale for a count of eight."
 
-**中文理解**：暂停。深呼吸。吸气数四拍，呼气数八拍。
+**中文理解**：发生这种情况时，暂停。深呼吸。吸气数四拍，呼气数八拍。
 
-**句子结构**：三个祈使句形成短促节奏；Inhale for a count of four 和 exhale for a count of eight 由 and 连接，for a count of 规定时间长度。
+**句子结构**：When this happens 是时间状语从句，pause、Take a deep breath、Inhale... 和 exhale... 是连续祈使句；for a count of four/eight 规定呼吸长度。
 
 **关键词**：Pause / deep breath / inhale for a count of four / exhale for a count of eight
 

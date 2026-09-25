@@ -10,7 +10,7 @@ source_text: ch30_2_understanding_the_negotiation_process.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 2 “Understanding the Negotiation Process”
 - **作者/对话嘉宾**：Marisa Mauro、Ashleigh Shelby Rosette；Amy Gallo 主持
 - **章节定位**：第二册第二篇正式文章；文章借小企业主 Mauro 的奶油供应谈判，提出准备、谈判、达成协议和履行协议四个阶段，并说明如何诊断谈判类型、管理关系与情绪、决定信息披露。
-- **字符数**：约 20,050 字符
+- **字符数**：约 24,350 字符
 - **一句话主旨**：谈判不是临场反应，而是可以预先诊断、备选、排序和复盘的过程；明确的替代方案、强关系、适当的信息分享和对情绪的管理，能让谈判者更稳定地争取结果。
 - **核心论点**：好的谈判从准备开始，谈判者要判断 distributive 或 integrative 类型，列出议题、排序优先级并准备 BATNA；关系、信任、直接沟通和情绪觉察影响信息共享与结果。文章把这些原则从一次商业谈判延伸到所有涉及个人、组织和商业需要的互动。
 
@@ -36,11 +36,11 @@ source_text: ch30_2_understanding_the_negotiation_process.txt
 
 ## 选择性精读
 
-> **原句 1:** "A good negotiator is a prepared negotiator."
+> **原句 1:** "A frequent mantra that I use is that a good negotiator is a prepared negotiator."
 
 **中文理解**：好的谈判者是准备充分的谈判者。
 
-**句子结构**：主句 A good negotiator is a prepared negotiator，两个名词短语由 is 连接；a good negotiator 和 a prepared negotiator 重复 negotiator，形成定义式平行。
+**句子结构**：A frequent mantra that I use is 主句，that a good negotiator is a prepared negotiator 是同位语从句，说明这句常用格言的内容；is 是从句系动词，两个 negotiator 形成定义式重复。
 
 **关键词**：good negotiator / prepared negotiator
 
@@ -64,7 +64,7 @@ source_text: ch30_2_understanding_the_negotiation_process.txt
 
 **中文理解**：一份好的计划文档可以帮助减轻焦虑、提高信心，并减少谈判桌上的失误。
 
-**句子结构**：主语 A good planning document，谓语 can help，宾语是三个并列动名词：minimize anxiety、increase confidence、minimize gaffes；at the negotiation table 是地点状语。
+**句子结构**：主语 A good planning document，谓语 can help，宾语内容是三个并列动词短语：minimize anxiety、increase confidence、minimize gaffes；at the negotiation table 是地点状语。
 
 **关键词**：good planning document / minimize anxiety / increase confidence / minimize gaffes / negotiation table
 
@@ -96,11 +96,11 @@ source_text: ch30_2_understanding_the_negotiation_process.txt
 
 **为什么这样写**：BATNA 给了谈判者离开的可行性。替代方案越现实，谈判者越能坚持重点议题，也越不容易在高压现场接受次优结果。
 
-> **原句 6:** "You took a distributive negotiation and made it integrative by adding an additional issue."
+> **原句 6:** "No, you took a distributive negotiation and made it integrative by adding an additional issue."
 
 **中文理解**：你把一场分配式谈判变成了整合式谈判，因为加入了一个额外议题。
 
-**句子结构**：主句 You took a distributive negotiation and made it integrative；by adding an additional issue 是方式状语；took 和 made 是并列过去时谓语。
+**句子结构**：主句 No, you took... and made it integrative...；took 和 made 是并列过去时谓语，by adding an additional issue 是方式状语；No 标记对前述观点的纠正。
 
 **关键词**：distributive negotiation / integrative / adding an additional issue
 

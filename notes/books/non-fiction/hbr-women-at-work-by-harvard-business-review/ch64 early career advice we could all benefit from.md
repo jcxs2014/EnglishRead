@@ -11,7 +11,7 @@ source_text: ch77_6_early_career_advice_we_could_all_benef.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 6 “Early Career Advice We Could All Benefit From”
 - **形式/对话嘉宾**：Paige Cohen 与 Amy Bernstein 对谈
 - **章节定位**：第四册第六篇正式文章；围绕早期职业女性的 assertiveness／persuasion、double bind、反馈、职业野心、C-suite 准备和 role models 给出具体建议。
-- **字符数**：约 13,277 字符
+- **字符数**：约 10,529 字符
 - **一句话主旨**：女性早期既要练习坚定表达，也要学会让别人愿意听；从小行动、预演、读懂情境、建立盟友和展示额外能力，既能应对“太强势”的惩罚，又能为未来的领导岗位积累可信记录。
 - **核心论点**：文章把 shy、quiet 与 self-advocacy 的困难放回 gendered double bind，而不是要求女性变成外向者。Paige 建议先在低风险会议预演、act small before acting big、把反馈当作 work 而不是 personal judgment；同时用 networking、role models、skills 和 C-suite ambition 为长期晋升铺路。
 - **核心论点**：早期职业建议不是“学会大喊”，而是逐步建立可信度、影响力和盟友。assertiveness 需要 persuasion 的包装，ambition 需要实际工作证据，role models 需要通过 asking how they got there 来学习。
@@ -57,7 +57,7 @@ source_text: ch77_6_early_career_advice_we_could_all_benef.txt
 
 **句子结构**：两个并列句均为 must be 情态结构；demanding but caring、authoritative yet participative 是形容词并列对照。
 
-**关键词**：demanding but caring / authoritative yet participative / balancing act
+**关键词**：demanding but caring / authoritative yet participative
 
 **表达方式**：but 和 yet 将相互冲突的期待并置，两个句子重复 must 强化不可回避的平衡。
 

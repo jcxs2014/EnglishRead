@@ -10,7 +10,7 @@ source_text: ch59_10_ending_harassment_at_work_requires_an.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 10 “Ending Harassment at Work Requires an Intersectional Approach”
 - **作者**：Pooja Jain-Link、Trudy Bourgeois、Julia Taylor Kennedy
 - **章节定位**：第三册第十篇正式文章；文章依据 Center for Talent Innovation 对不同种族、性别和职级员工的研究，反驳“资深男性施害、初级女性受害”的单一叙事，提出 culture audit、保密报告和交叉性培训。
-- **字符数**：约 8,337 字符
+- **字符数**：约 6,782 字符
 - **一句话主旨**：性骚扰不是单一的上下级性暴力，而是种族、性别、职级和权力不对称交织的行为；若只用 one-size-fits-all 方案，就会忽视亚裔女性、黑人女性和黑人男性等不同群体的风险，需先审计文化，再提供真正保密的报告和全员 ally 训练。
 - **核心论点**：研究显示 34% 女性员工曾被同事骚扰，亚裔女性受害案例中近三分之一施害者是 junior colleague，黑人女性受害者也报告女性或低职级施害者；黑人男性遭遇更深羞耻且 85% 的骚扰来自女性。文章据此要求组织同时看 above／below hierarchy、race 和 gender，并让不同群体参与设计和监督解决方案。
 - **核心论点**：交叉性方法不是把身份标签并列，而是分析权力如何在性别、种族和职级交叉处运作。culture audit 先发现组织具体模式，confidential reporting 解决“有色人种女性、男性受害者、少数指控”的不信任，bystander、civility 和 allyship training 则把全组织纳入预防和行动。
@@ -30,7 +30,7 @@ source_text: ch59_10_ending_harassment_at_work_requires_an.txt
 | Callisto 加密时间戳平台 | 技术／制度案例 | 解决保密、独奏指控和报告不信任 |
 | Jackson Katz、bystander、civility、ally training | 培训实践 | 扩展全组织参与预防 |
 
-- **论证脉络：一刀切方案 → 性骚扰是权力工具 → 34% 基线 → below-up／女性施害／男性受害 → 种族与职级交叉 → culture audit → confidential reporting → creative training → 挑战简单定义 → 保护全 workforce。
+- **论证脉络：一刀切方案 → 性骚扰是权力工具 → 34% 基线 → bottom-up／女性施害／男性受害 → 种族与职级交叉 → culture audit → confidential reporting → creative training → 挑战简单定义 → 保护全 workforce。
 - **可质疑处**：
   1. 研究样本的种族分类和职位数据可能无法呈现每个群体内部差异；交叉性分析应避免把统计群体变成固定本质。
   2. culture audit 和匿名数据若缺乏保密、补救和反报复承诺，可能只收集恐惧而不改变工作条件。
@@ -217,7 +217,7 @@ source_text: ch59_10_ending_harassment_at_work_requires_an.txt
 | platform | 平台 | "Callisto is a platform" |
 | option | 选项 | "opportunities for male allyship" |
 | level | 层级 | "race and seniority" |
-| team | 团队 | "employees across all levels of the organization" |
+| employee | 员工 | "employees across all levels of the organization" |
 
 ## 一句话总结
 Jain-Link、Bourgeois 与 Kennedy 说明，性骚扰的施害方向和后果会随种族、性别与职级交叉变化；组织必须先做具体 culture audit，再提供真正保密的报告、让全员参与 bystander／civility／ally 训练，才能避免一刀切方案遗漏最脆弱的人。

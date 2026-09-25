@@ -10,7 +10,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 1 “Sisterhood Is Trust”
 - **作者/对话嘉宾**：Tina Opie、Beth Livingston；对话由 Amy Bernstein、Amy Gallo、Nicole Torres 主持
 - **章节定位**：第一册“Real Connections Begin with Trust”部分的首篇正式文章；形式是研究者访谈，重点不是泛泛鼓励女性互助，而是用研究结果追问情绪脆弱、跨文化信任和组织包容之间的复杂关系。
-- **字符数**：约 13,408 字符
+- **字符数**：约 16,289 字符
 - **一句话主旨**：作者主张，真正能推动女性赋权与职场公平的姐妹情谊，必须建立在诚实表达情绪、承认不同群体处境并不相同、并以实际行为验证组织包容性之上；制度层面的 inclusion 是必要条件，却不能自动制造足够的人际信任。
 
 ## 论证结构
@@ -23,7 +23,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 | 研究者访谈跨文化背景不同的职场女性，并提出“emotional caring capacity”概念 | 研究框架／概念 | 说明情绪脆弱不只是个人性格，而是关系能力的一部分 |
 | 研究发现 Black women 在职场表现出较低的情绪脆弱，且在高度相互依赖的工作情境中更明显 | 研究结果 | 说明结构位置和工作依赖会改变人们披露情绪的意愿 |
 | 故事中女性会在会议后通过点头、眨眼和咖啡谈话分享受伤、愤怒或悲伤 | 案例 | 展示非语言信号和低压交流如何使真实情绪重新进入职场 |
-| 访谈者说“differs by race, nationality, social class, or something else”，研究者也拒绝把非白人女性混为一谈 | 分类与反例 | 支撑交叉性分析：不同群体面对的排斥机制不能被一个平均数遮蔽 |
+| 叙述者说明两人的文化身份因种族、国籍、社会阶层等而不同，研究者也拒绝把非白人女性混为一谈 | 分类与反例 | 支撑交叉性分析：不同群体面对的排斥机制不能被一个平均数遮蔽 |
 | 组织层面的 inclusion 与同事层面的信任、guard down、feedback 相互对照 | 组织分析／管理建议 | 证明“包容”必须落实到资源、流程和日常互动，而非只停留在话语 |
 
 - **论证脉络**：以情绪脆弱作为高质量关系的起点 → 说明女性互助需要诚实说出受伤、沮丧和不安 → 引入研究概念并报告不同群体的差异 → 用跨种族、跨阶层的个人关系说明信任的实际收益 → 拆解“包容等于安全”的乐观假设 → 区分宏观制度与微观互动 → 提出管理者必须主动验证安全、允许成员指出不一致 → 把共享姐妹情谊定义为女性赋权、绩效和组织改进的机制。
@@ -122,7 +122,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 
 **中文理解**：包容性的组织气候运行在宏观层面，而我们谈到的一些例子则发生在人际互动层面。
 
-**句子结构**：前半句是主系表结构 An inclusive climate is operating；后半句以 some of the examples...作主语，are operating 为谓语；while 引导对比，把 operating at a macro level 与 are at the interpersonal level 并列对照。
+**句子结构**：前半句是主系表结构 An inclusive climate is operating；后半句以 some of the examples... 作主语，are at 为谓语；while 引导对比，把 operating at a macro level 与 are at the interpersonal level 并列对照。
 
 **关键词**：inclusive climate / macro level / interpersonal level / while
 
@@ -140,7 +140,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 
 **表达方式**：作者用 slap on a label 的动作隐喻批评“贴标签”，再用 without...to... 把真正公平所需的制度变化补出来。politically correct 与 equitable 形成话语姿态和实际结果的反差。
 
-**为什么这样写**：这段话把批评从个人偏见推进到组织流程：如果资源、决策机制和实际支持没有改变，包容就可能只是低成本的语言姿态。它也解释了为什么 Tina 认为 Black women 会保持 guard down，直到组织用可观察行为证明安全。
+**为什么这样写**：这段话把批评从个人偏见推进到组织流程：如果资源、决策机制和实际支持没有改变，包容就可能只是低成本的语言姿态。它也解释了为什么 Beth 认为 Black women 会保持 guard down，直到组织用可观察行为证明安全。
 
 > **原句 10:** "I’m not going to put my guard down until you show me that this is actually a safe place for me to do so."
 
@@ -152,7 +152,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 
 **表达方式**：put my guard down 用可见的防守动作表达心理防备，until you show me 把信任设定为有条件的、可验证的。actually 反对空洞的安全宣言，要求组织通过行动提供证据。
 
-**为什么这样写**：这是全章从“包容是好事”走向“包容必须被验证”的落点。Tina 不是拒绝合作，而是要求合作者先承担证明责任；这让信任从抽象善意变成关系双方可以观察和讨论的行为标准。
+**为什么这样写**：这是全章从“包容是好事”走向“包容必须被验证”的落点。Beth 不是拒绝合作，而是要求合作者先承担证明责任；这让信任从抽象善意变成关系双方可以观察和讨论的行为标准。
 
 ## 词汇分级
 
@@ -168,7 +168,7 @@ source_text: ch03_1_sisterhood_is_trust.txt
 | dismantling | 拆解、瓦解 | "The goal of shared sisterhood is also about empowerment, about dismantling the very structures of oppression." |
 | oppression | 压迫 | "dismantling the very structures of oppression" |
 | resilient | 有韧性的 | "We would be more resilient and have stronger interpersonal connections" |
-| interpersonal | 人际的 | "The more inclusive the environment, the more willing they were to be vulnerable with their coworkers" |
+| interpersonal | 人际的 | "stronger interpersonal connections in the workplace" |
 | unmitigated | 未受缓解的；未经调整的 | "this sort of inclusive climate is often promoted as an unmitigated good" |
 | devalued | 被贬值的 | "I would love for organizations to be able to have these kinds of conversations where the woman whose manager said, “Well it’s difficult for everyone,” could follow up with that manager, and it would be OK for her to say, “You know, I reflected on that conversation and I really felt devalued, and I want to discuss that with you. I want to be fully committed here, and right now I’m feeling distanced from the organization and from you.”" |
 | guard down | 放下防备 | "I’m not going to put my guard down until you show me" |

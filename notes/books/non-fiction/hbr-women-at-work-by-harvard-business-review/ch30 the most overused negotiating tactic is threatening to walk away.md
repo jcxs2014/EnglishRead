@@ -10,7 +10,7 @@ source_text: ch35_7_the_most_overused_negotiating_tactic_i.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 7 “The Most Overused Negotiating Tactic Is Threatening to Walk Away”
 - **作者**：Jay A. Hewlin
 - **章节定位**：第二册第七篇正式文章；文章批评把 BATNA 和 walk-away 当作谈判主要杠杆，提出以 mutual dependence、客观情境、提问和未知信息探索来创造更大价值。
-- **字符数**：约 12,253 字符
+- **字符数**：约 8,851 字符
 - **一句话主旨**：BATNA 是最低／最高结果阈值和谈判防御，却不是关系的建立、创造性或协作机制；真正有效的权力来自双方相互依赖、对对方需要的客观判断和持续学习，而不是把退出威胁当成万能筹码。
 - **核心论点**：谈判没有绝对权力，只有相互依赖和不同来源的相对权力。过度依赖 BATNA 会把注意力锁定在“超过最好替代方案多少”，忽略对方的需求、情境和未知信息；谈判者应把问题从“我能多拿多少”转为“我如何展示对我的价值”，并让双方共同发现超出 BATNA 的方案。
 
@@ -108,11 +108,11 @@ source_text: ch35_7_the_most_overused_negotiating_tactic_i.txt
 
 **为什么这样写**：文章不是否认自信有帮助，而是说感觉本身不能替代权力来源。情绪性强势可能诱发机会主义，弱势感也可能让谈判者过度退让。
 
-> **原句 7:** "Three priorities during a negotiation should be: Learning as much as possible about the person with whom you are dealing; Learning as much as possible about the entity with which you are dealing; Ascertaining as much as possible about their circumstances."
+> **原句 7:** "Three priorities during a negotiation should be: Learning as much as possible about the person with whom you are dealing Learning as much as possible about the entity with which you are dealing Ascertaining as much as possible about their circumstances."
 
 **中文理解**：谈判期间应有三项优先事项：尽可能了解与你打交道的个人；尽可能了解与你打交道的组织；尽可能弄清他们所处的情境。
 
-**句子结构**：主句 Three priorities...should be，后接三个冒号分隔的动名词短语；with whom／with which 修饰 person／entity，their circumstances 说明情境。
+**句子结构**：主句 Three priorities during a negotiation should be: 后接三个项目；项目分别说明了解 person、entity 和 circumstances，with whom／with which 修饰前面的名词。原文以分行列表呈现，转写时保留词序。
 
 **关键词**：Three priorities / learning as much as possible / person with whom / entity with which / ascertaining / circumstances
 
@@ -150,7 +150,7 @@ source_text: ch35_7_the_most_overused_negotiating_tactic_i.txt
 
 **句子结构**：Only you and your counterpart 是主语，working together at the table 是现在分词短语；have the power to create... 是谓语，not only...but perhaps... 连接两个结果。
 
-**关键词**：Only you and your counterpart / working together / exceed the BATNA / makes it irrelevant / create a deal
+**关键词**：Only you and your counterpart / working together / makes it irrelevant / create a deal
 
 **表达方式**：Only...have... 把共同创造设为唯一来源，not only...but perhaps... 将 BATNA 从比较标准提升为可能不再重要的背景。
 

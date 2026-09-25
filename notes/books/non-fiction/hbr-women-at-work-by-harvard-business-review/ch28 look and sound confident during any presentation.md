@@ -10,7 +10,7 @@ source_text: ch33_5_look_and_sound_confident_during_any_pr.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 5 “Look and Sound Confident During Any Presentation”
 - **作者**：Carmine Gallo
 - **章节定位**：第二册第五篇正式文章；文章将表达自信拆为眼神、开放姿势、手势、填充词、停顿和语速等可练习行为，并引用演讲和沟通研究。
-- **字符数**：约 9,314 字符
+- **字符数**：约 7,528 字符
 - **一句话主旨**：听众会在极短时间内根据身体和声音判断演讲者是否可信、胜任；即使内心紧张，演讲者也能通过录制练习、开放姿势、自然手势、减少填充词、停顿和变换语速，让外在表现与思想力量匹配。
 - **核心论点**：自信不是抽象气质，而是一组可观察的交付行为。眼睛和开放姿势建立信任，手势强化信息，填充词和语速影响清晰度与情绪；反复观看录像和模仿高水平演讲者能把这些行为从意识负担变成本能。
 
@@ -108,7 +108,7 @@ source_text: ch33_5_look_and_sound_confident_during_any_pr.txt
 
 **为什么这样写**：手势不是装饰，而是把抽象观点转成可感知动作。文章随后把手势与故事、比喻和个人故事联系起来，说明身体动作可以增强记忆和情绪参与。
 
-> **原句 7:** "Eliminate filler words."
+> **原句 7:** "Eliminate filler words"
 
 **中文理解**：消除填充词。
 

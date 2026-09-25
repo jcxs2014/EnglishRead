@@ -10,7 +10,7 @@ source_text: ch41_13_don_t_ask_for_a_raise_negotiate_it.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 13 “Don’t Ask for a Raise—Negotiate It”
 - **作者**：Carol Hagh
 - **章节定位**：第二册第十三篇正式文章；文章以英国 3,000 名员工调查和 executive coaching 经验为背景，提出 two-way commitment、四步加薪／晋升准备、渐进设定期待、平等管理会谈和过程性结果。
-- **字符数**：约 7,972 字符
+- **字符数**：约 9,592 字符
 - **一句话主旨**：加薪、晋升和内部流动不是被动“请求”，而是围绕组织优先事项、员工价值和双向承诺进行的谈判；先理解对方权限和时机，再准备交换方案，最后以合作而非乞求的方式提出请求。
 - **核心论点**：55% 英国员工不愿 ask for a raise，原因包括不知道说什么、害怕显得 greedy 和单纯害怕。文章将谈薪改为 two-way commitment：员工先说明能带来的价值，组织再决定如何支持；通过理解老板、逐步测试期待、准备 WANT／OFFER 和管理对话，可以把 nervous interaction 变成 strategic negotiation。
 
@@ -39,11 +39,11 @@ source_text: ch41_13_don_t_ask_for_a_raise_negotiate_it.txt
 
 **中文理解**：想到要求加薪或晋升会让你紧张吗？
 
-**句子结构**：Does the thought of asking... 是主句，make you nervous 是省略 to 的不定式作补足语；of asking for a raise or promotion 是介词短语。
+**句子结构**：Does the thought of asking... 是一般疑问句的主干，make you nervous 是省略 to 的不定式作补足语；of asking for a raise or promotion 是介词短语。
 
 **关键词**：thought of asking / raise or promotion / make you nervous
 
-**表达方式**：Does the thought of... 用反问直接把读者带入个人情绪，asking for a raise or promotion 将两个常见职业诉求并列。
+**表达方式**：Does the thought of... 用直接的一般疑问句把读者带入个人情绪，asking for a raise or promotion 将两个常见职业诉求并列。
 
 **为什么这样写**：开篇以一个熟悉问题确认谈薪的普遍焦虑，为后续把“nervous interaction”改写为 strategic negotiation 建立共同起点。
 

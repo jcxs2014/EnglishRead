@@ -10,7 +10,7 @@ source_text: ch19_17_what_men_can_do_to_be_better_mentors_.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 17 “What Men Can Do to Be Better Mentors and Sponsors to Women”
 - **作者**：Rania H. Anderson、David G. Smith
 - **章节定位**：第一册 networking 部分关于男性支持女性职业发展的文章；文章结合 Working Mother Research Institute、Lean In、Bloomberg、Center for Talent Innovation 和 McKinsey 等研究，提出八步 sponsor 行动框架。
-- **字符数**：约 8,837 字符
+- **字符数**：约 10,546 字符
 - **一句话主旨**：男性领导者和公司不应把女性晋升差距归咎于女性或回避一对一关系，而应识别高潜多元人才、给予高可见度 stretch role、配置发展资源、铺路、反馈、支持坚持、争取晋升，并把 sponsorship 纳入正式制度与问责。
 - **核心论点**：女性得到的职业路径信息、导师对话、晋升和 sponsorship 都少于男性，而男性领导者的相似性偏见进一步放大了差距。男性 sponsor 的角色不是施舍，而是利用权力推进业务和人才潜力；组织必须教授、示范并追责这一角色，才能把个人 allyship 转为可持续的公平结果。
 
@@ -136,7 +136,7 @@ source_text: ch19_17_what_men_can_do_to_be_better_mentors_.txt
 
 **中文理解**：sponsor 有责任把 protégés 介绍给组织或行业中有影响力和权力的人，包括客户，尤其是在这些人对 protégé 的工作成功至关重要时。
 
-**句子结构**：主语 Sponsors，have a responsibility to introduce... 是情态结构；their protégés 是宾语，influential and powerful people 是宾语补足语；in their organization or industry 说明范围，including clients 补充对象，if they are crucial... 是条件状语。
+**句子结构**：主语 Sponsors，have a responsibility to introduce... 是情态结构；their protégés 是 introduce 的宾语，to influential and powerful people 是介词短语，说明介绍对象；in their organization or industry 说明范围，including clients 补充对象，if they are crucial... 是条件状语。
 
 **关键词**：responsibility / introduce their protégés / influential and powerful people / organization or industry / including clients / crucial for success
 

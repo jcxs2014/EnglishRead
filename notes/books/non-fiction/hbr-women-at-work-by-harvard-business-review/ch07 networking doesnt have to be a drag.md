@@ -10,7 +10,7 @@ source_text: ch08_6_networking_doesn_t_have_to_be_a_drag.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 6 “Networking Doesn’t Have to Be a Drag”
 - **作者/对话嘉宾**：Inga Carboni；Amy Bernstein、Nicole Torres 主持
 - **章节定位**：第一册“Real Connections Begin with Trust”部分转向 networking 的第一篇文章；研究访谈把“强关系”从社交活动数量重新定义为跨越边界的联系、互惠的维护和能带来能量的互动。
-- **字符数**：约 12,530 字符
+- **字符数**：约 15,263 字符
 - **一句话主旨**：有效网络不必依赖令人讨厌的活动或功利交换；通过跨越群体边界、主动维护多样性、避免协作过载并选择与兴趣和价值一致的场景，人们可以建立更自然、更有战略且更有效的职业连接。
 
 ## 论证结构

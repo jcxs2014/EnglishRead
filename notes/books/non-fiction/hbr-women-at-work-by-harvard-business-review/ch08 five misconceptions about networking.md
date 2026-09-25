@@ -10,7 +10,7 @@ source_text: ch09_7_five_misconceptions_about_networking.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 7 “Five Misconceptions About Networking”
 - **作者**：Herminia Ibarra
 - **章节定位**：第一册 networking 部分的第一篇编号文章；文章以五种常见误解为框架，说明网络的价值取决于意识到的目标、刻意扩展的关系和对弱连接的重视，而不只是社交天赋。
-- **字符数**：约 6,109 字符
+- **字符数**：约 7,393 字符
 - **一句话主旨**：人们常把 networking 视为浪费时间、 天赋决定、顺其自然、自私交换或只依靠强关系；Ibarra 逐项拆解这些心态，强调以 intention、growth mindset、主动设计和弱连接扩大网络，才能获得信息、创新和职业支持。
 
 ## 论证结构
@@ -25,7 +25,7 @@ source_text: ch09_7_five_misconceptions_about_networking.txt
 | Kuwabara、Hildebrand、Zou 的研究发现 | 实证研究 | 支撑“把 networking 看作可发展技能”会增加动机、努力和回报 |
 | 社交心理学关于相似关系自然形成的发现 | 研究综述 | 解释只维持同质网络会限制信息和决策视野 |
 | weak ties 能带来远端信息和创新 | 网络理论／研究 | 修正只重视 strong ties 的直觉 |
-| “mindsets can change... through direct experience” | 实践结论 | 把观念转变落实为亲自尝试，而非停留在信念上 |
+| “Mindsets can change and do but only with direct experience” | 实践结论 | 把观念转变落实为亲自尝试，而非停留在信念上 |
 
 - **论证脉络**：列出网络的多重价值 → 说明多数人先遇到的是心理抵抗 → 误区一：网络不是自动产生效用，而是取决于主动设计 → 误区二：能力可以发展，非外向者也能练习 → 误区三：关系需要刻意经营，否则自然形成的关系过于同质 → 误区四：职业网络不必被理解为单向自私或虚伪交换 → 误区五：弱连接带来新信息和创新 → 通过直接尝试改变心态。
 - **可质疑处**：
@@ -113,7 +113,7 @@ source_text: ch09_7_five_misconceptions_about_networking.txt
 
 **句子结构**：主句为 The problem with this way of thinking is that...；that 从句说明结果；it produces networks... 是主语加谓语结构；neither...nor 连接 useful to you 与 useful to your contacts；because... 解释原因。
 
-**关键词**：problem with this way of thinking / produces networks / neither useful nor useful / too homogenous
+**关键词**：problem with this way of thinking / produces networks / neither useful to you nor useful to your contacts / too homogenous
 
 **表达方式**：neither...nor 把网络的双向无效性压缩为对称结构，because 把“同质化”直接连到无用后果。homogenous 保留原文拼写，突出问题在结构而非人数。
 

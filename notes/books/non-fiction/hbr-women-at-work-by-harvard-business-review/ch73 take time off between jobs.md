@@ -11,7 +11,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 15 “Take Time Off Between Jobs”
 - **作者**：Rebecca Zucker
 - **章节定位**：第四册第十五篇正式文章；文章以 sabbatical 和换工作 start date 为背景，说明如何用 multi-issue negotiation 谈 time off，并按 business needs、notice、financial、personal、decompress、ramp-up 评估请求。
-- **字符数**：约 14,942 字符
+- **字符数**：约 10,780 字符
 - **一句话主旨**：换工作前可以、也应该谈 time off；不要把休息看成单方面福利，而要把它放进 start date、notice、财务和身心状态的 multi-issue package，说明自己能带着更多精力和清晰度为组织工作。
 - **核心论点**：若人已准备好，短假可换成更高薪酬；若需要真正恢复，则按企业 milestone、背景调查、保险和奖金、家庭事务、decompression 和 ramp-up 计算时间。一个月是常见 bell curve 峰值，但真正标准是个人需要和双方 trade-offs。
 - **核心论点**：文章不把休假浪漫化为随时可用的 sabbatical，而是承认失业、garden leave、财务和健康差异。它建议用具体周数、not calendar date，谈清福利和开始时间对双方的影响。
@@ -24,7 +24,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | 一年巴黎长期休假 | 个人案例 | 说明停歇时间的职业重置作用 |
-| 75／38／52 等报告数字 | 调查数据 | 说明未认可与晋升机会落差 |
+| 原文实际提供的休假时间例子：8 days、2 weeks、1 month | 实务数据／建议 | 说明工作间歇与恢复时间的具体范围 |
 | 业务 milestone 和至少两周建议 | 专家建议 | 说明业务需要是起点 |
 | background check、COBRA、bonus dates | 财务／实务 | 说明时间和经济风险 |
 | 研究：理想假期长度为八天 | 研究 | 支持恢复和解压的价值 |
@@ -65,7 +65,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 
 > **原句 3:** “The question, then, for many people when changing jobs is often, ‘Can I negotiate time off before I start my new job, and how much is reasonable to ask for?’”
 
-**中文理解**：因此，换工作时许多人常问的问题是：“我能在开始新工作前协商休假时间吗？ asking 多少才合理？”
+**中文理解**：因此，换工作时许多人常问的问题是：“我能在开始新工作前协商休假时间吗？我该要求多少才合理？”
 
 **句子结构**：主句 The question... is often...，冒号后直接引语包含两个问句；negotiate time off 和 how much... 是并列问题。
 
@@ -91,7 +91,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 
 **中文理解**：如果公司有具体里程碑，认真考虑他们必须应对的里程碑很重要。
 
-**句子结构**：If 引导条件从句，the company has...；it’s about being thoughtful that they have to deal with 是主句，that 从句说明 thoughtful 的对象。
+**句子结构**：If 引导条件状语从句；company has a specific milestone 是主句主语，it’s [about] being really thoughtful... 是系表结构；that they have to deal with 修饰 milestone，说明公司必须处理的具体节点。
 
 **关键词**：specific milestone / thoughtful / company / deal with
 
@@ -103,7 +103,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 
 **中文理解**：如果公司总体上有大量工作，而且希望你尽快到岗，Thornton 建议在两份工作之间至少休两周“喘口气”。
 
-**句子结构**：If 引导条件状语从句，the company...and they... 是并列从句；主句 Thornton advises，taking...off... 是不定式作宾语，to take a breath 是不定式表目的。
+**句子结构**：主句 Thornton advises，taking at least two weeks off between jobs 是 advises 的动名词宾语；to take a breath 是不定式，说明休假的目的。
 
 **关键词**：a lot of work / as soon as possible / Thornton advises / at least two weeks / take a breath
 
@@ -137,7 +137,7 @@ source_text: ch86_15_take_time_off_between_jobs.txt
 
 > **原句 9:** “I’ve never seen anyone take more than a month when it’s an active job.”
 
-**中文理解**：我从未见过有人在积极工作期间请超过一个月的假。
+**中文理解**：我从未见过有人在仍处于在职状态时休假超过一个月。
 
 **句子结构**：主句 I’ve never seen anyone，take more than a month 是省略 to 的不定式宾语，when it’s an active job 是时间状语从句。
 

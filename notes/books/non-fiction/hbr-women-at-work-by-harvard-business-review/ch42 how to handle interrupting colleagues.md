@@ -8,9 +8,9 @@ source_text: ch51_2_how_to_handle_interrupting_colleagues.txt
 ## 概览
 
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 2 “How to Handle Interrupting Colleagues”
-- **作者**：Francesca Gino
+- **作者**：Francesca Gino（主文；侧栏为 Amy Gallo）
 - **章节定位**：第三册第二篇正式文章；文章先从 presentation 被反复打断的日常场景出发，解释文化、status、power 如何影响 interruption，再提供 preempt、私下沟通、现场表达和中立框架等应对策略。
-- **字符数**：约 6,417 字符
+- **字符数**：约 8,628 字符
 - **一句话主旨**：打断不一定是恶意或单纯的个人习惯，它可能由文化规范、地位和权力感驱动；先理解原因，再在发言前设定边界、现场保护思路、私下提供具体例子，必要时让整个团队参与反思，才能恢复平衡对话。
 - **核心论点**：Gino 借自己的意大利式打断经历和文化研究说明，interruption 既有 cooperative clarification，也有 intrusive dominance。地位和权力会提高发言量和打断频率，并让领导者错过成员的关键信息；因此处理策略应从诊断、预防到具体反馈逐级升级。
 - **核心论点**：打断问题不能只靠被打断者“更坚定”解决。文化、语言、status 和 power 都会影响参与机会，而高权力者还可能因此失去信息。有效策略是在发言前设定规则、现场礼貌地收回话轮、私下用观察和具体例子反馈，必要时把问题交给群体共同改善。
@@ -124,7 +124,7 @@ source_text: ch51_2_how_to_handle_interrupting_colleagues.txt
 
 > **原句 8:** "Speak up in the moment."
 
-**中文理解**：在当下就发声。
+**中文理解**：侧栏 Amy Gallo 建议：当场发声。
 
 **句子结构**：祈使句 Speak 是谓语，in the moment 是时间状语。
 
@@ -132,7 +132,7 @@ source_text: ch51_2_how_to_handle_interrupting_colleagues.txt
 
 **表达方式**：两个极简动作短语把“当场设限”从长期抱怨中分离出来，Speak up 与 in the moment 形成及时性要求。
 
-**为什么这样写**：如果每次都被打断后才私下处理，话轮已经在现场丢失。Gino 先要求被读者建立即时、低摩擦的边界。
+**为什么这样写**：侧栏 Amy Gallo 建议如果每次被打断后才私下处理，话轮已经在现场丢失。她要求读者先建立即时、低摩擦的边界。
 
 > **原句 9:** "Don’t assign negative intentions."
 
@@ -144,7 +144,7 @@ source_text: ch51_2_how_to_handle_interrupting_colleagues.txt
 
 **表达方式**：Don’t assign 将行为解释从事实中分离，negative intentions 点出最需要避免的推断。
 
-**为什么这样写**：对方可能只是没意识到打断，而不是想压制你。先描述可观察行为，能让反馈从“你在攻击我”转为“我们有共同问题”。
+**为什么这样写**：侧栏 Amy Gallo 指出，对方可能只是没意识到打断，而不是想压制你。先描述可观察行为，能让反馈从互相攻击转为共同问题。
 
 > **原句 10:** "If you’d prefer to avoid embarrassing the interrupter, you can address the whole group without pointing fingers."
 
@@ -156,7 +156,7 @@ source_text: ch51_2_how_to_handle_interrupting_colleagues.txt
 
 **表达方式**：If...prefer... 保留选择权，whole group 与 pointing fingers 形成公开处理与个人归责的对照。
 
-**为什么这样写**：文章承认私下反馈可能让对方难堪，因此提供群体层面的替代路径。它把问题从个人羞耻转成团队需要改善的互动规范。
+**为什么这样写**：侧栏 Amy Gallo 承认私下反馈可能让对方难堪，因此提供群体层面的替代路径，把问题从个人羞耻转成团队需要改善的互动规范。
 
 ## 词汇分级
 

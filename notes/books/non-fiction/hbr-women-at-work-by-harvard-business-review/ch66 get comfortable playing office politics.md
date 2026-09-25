@@ -11,10 +11,10 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 8 “Get Comfortable Playing Office Politics”
 - **作者**：Lisa Zigarmi、Julie Diamond、Lesli Mones
 - **章节定位**：第四册第八篇正式文章；文章解释女性对 office politics 的五种厌恶理由，并提供从 work speaks for itself 到 prioritize growth 的五种 mindset shift。
-- **字符数**：约 21,870 字符
+- **字符数**：约 17,734 字符
 - **一句话主旨**：政治技能是组织生活中的必要关系能力，女性不必把它理解成肮脏或零和游戏；通过 enterprise mindset、连接的力量、authentic point of view、按情境选择 hard／soft power，并为 growth 准备 allies 和 plan B，女性可以参与政治而不再被它定义。
 - **核心论点**：作者不否认权力、影响和办公室政治的存在，也不要求女性享受它们。关键是把“政治是人格污点”的信念改成可观察、可选择、可反思的工具，并用关系、组织目标和自身成长衡量其代价与收益。
-- **核心论点**：女性对政治的反感有现实依据：她们常承担更多无偿照护劳动，并因展示 ambition 或 assertiveness 受到惩罚。文章通过五个 mindset shift 解释如何在不否认风险的前提下取得更多选择权和职业发展。
+- **核心论点**：女性对政治的反感有现实依据：她们常承担更多更多家务和杂务劳动，并因展示 ambition 或 assertiveness 受到惩罚。文章通过五个 mindset shift 解释如何在不否认风险的前提下取得更多选择权和职业发展。
 
 ## 论证结构
 
@@ -23,7 +23,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
-| 研究数据：女性多花 37% 时间做家务 | 研究数据 | 说明政治活动的时间成本不平等 |
+| 研究数据：女性平均比男性多花 37% 时间做家务和杂务 | 研究数据 | 说明政治活动的时间成本不平等 |
 | 研究引述：政治技能对职业晋升重要 | 研究引述 | 证明政治能力不是可有可无 |
 | 教练案例：资深女性提前五分钟预测反弹 | 教练案例 | 展示企业思维 |
 | 研究数据：女性会议提升晋升、薪酬和乐观 | 研究数据 | 说明连接的力量倍增作用 |
@@ -43,7 +43,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 **中文理解**：广义地说，办公室政治是成功驾驭事情如何、经由谁完成的潜规则的能力，包括理解他人的动机，并利用这些知识增强个人利益和组织目标。
 
-**句子结构**：主语 Politics，is the ability... is 后省略；how things get done and through whom 是介词宾语，includes 后接两个动名词短语。
+**句子结构**：Politics 为主语，broadly defined as... 是修饰 Politics 的定义性插入结构；主句谓语是 includes，后接两个动名词短语。
 
 **关键词**：unwritten rules / how things get done / through whom / motivations / organizational objectives
 
@@ -69,7 +69,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 **句子结构**：My work 是主语，should speak for itself 是情态谓语；for itself 是介词短语。
 
-**关键词**：work should speak for itself / meritocracy / work speaks
+**关键词**：work should speak for itself / meritocracy
 
 **表达方式**：should speak for itself 把工作成果拟人化为会表达者，常见信念被写成一句可反驳的宣言。
 
@@ -81,7 +81,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 **句子结构**：No one 是主语，an island 是表语；这是一个否定定义的格言句。
 
-**关键词**：no one / island / interdependence
+**关键词**：no one / island
 
 **表达方式**：短句把个人独立观转换成关系事实，为 enterprise mindset 提供直接过渡。
 
@@ -93,7 +93,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 **句子结构**：主句 we focus on moving，from...to... 是方向补足语，When we work... 是时间状语从句。
 
-**关键词**：shifting / functional mindset / expert mindset / enterprise mindset
+**关键词**：shifting away / functional or expert mindset / enterprise one
 
 **表达方式**：moving from...to... 将心态转换写成空间位移，functional／expert 对 enterprise 形成能力范围扩大。
 
@@ -141,7 +141,7 @@ source_text: ch79_8_get_comfortable_playing_office_politic.txt
 
 **句子结构**：The mindset here is one of prioritizing growth；one of... 是表语，prioritizing growth 是动名词短语。
 
-**关键词**：mindset / prioritize growth
+**关键词**：mindset
 
 **表达方式**：here 指向作者建议的转变，one of 保留成长不是唯一价值的谦逊，prioritizing 把心态写成行动排序。
 

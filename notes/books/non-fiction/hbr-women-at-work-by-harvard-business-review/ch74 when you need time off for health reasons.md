@@ -11,7 +11,7 @@ source_text: ch87_16_when_you_need_time_off_for_health_rea.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 16 “When You Need Time Off for Health Reasons”
 - **形式/对话嘉宾**：Laurie Edwards 与 Amy Bernstein、Emily Caulfield
 - **章节定位**：第四册第十六篇正式文章；文章讨论 chronic illness／acute health issue 的 disclosure、隐私、工作影响、accommodations、manager support 和 stigma，强调按实际工作障碍沟通，而非被迫分享全部医疗细节。
-- **字符数**：约 12,340 字符
+- **字符数**：约 10,390 字符
 - **一句话主旨**：健康隐私不必全部公开，但当疾病影响完成工作的能力时，应以 clear、specific、actionable 的方式说明障碍和需要支持的具体方案；经理则要先问“怎样支持你”，而非把恐惧、诊断或情绪当作能力判断。
 - **核心论点**：Edwards 将 disclosure 时机写成“无法按现状完成工作时”，并建议围绕 job、obstacle、plan 沟通，而不是围绕 illness 细节。健康信息只应披露到足以让团队提供合理支持和达成工作目标。
 - **核心论点**：慢性病的不稳定和不可预测使员工长期处于 disclosure 的张力中。组织要提供 privacy、flexibility、collaboration 和 accommodations，避免把短期或长期健康问题等同于低能力。
@@ -73,7 +73,7 @@ source_text: ch87_16_when_you_need_time_off_for_health_rea.txt
 
 **表达方式**：no longer 标出能力变化，as it stands 保留当前工作定义，then 将条件转成及时行动。
 
-**为什么这样写**：作者用 rule of thumb 给出 disclosure 的最低工作标准。它既不要求病人立即公开，也不鼓励等到完全无法工作才求助。
+**为什么这样写**：这句 rule of thumb 把 disclosure 时点放在工作已经受到影响之后；它确实可能让读者等到无法按现状工作才求助，因此需要把这套判断与更早沟通的风险和条件一起审视。
 
 > **原句 4:** “There’s no one-size-fits-all answer.”
 
@@ -149,9 +149,9 @@ source_text: ch87_16_when_you_need_time_off_for_health_rea.txt
 
 > **原句 10:** “Work doesn’t have to look the way you always assume it should for us to be productive and viable members of the workforce.”
 
-**中文理解**：工作不必总是你想象中的样子，我们才能成为生产力强、可持续参与工作的人。
+**中文理解**：工作不必符合你原先想象的样子，慢性病或严重疾病者也可以成为生产力充足、可持续参与工作的人。
 
-**句子结构**：主句 Work doesn’t have to look... for us to be...；so that／for... 是不定式目的结构，viable 修饰 members。
+**句子结构**：主句 Work doesn’t have to look the way you always assume it should，for us to be productive and viable members of the workforce 是 for + us + to be 的目的结构；viable 修饰 members。
 
 **关键词**：work doesn’t have to / assume / productive / viable members / workforce
 

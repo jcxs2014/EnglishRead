@@ -11,8 +11,8 @@ source_text: ch109_13_feeling_underappreciated_or_undervalu.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 13 “Feeling Underappreciated or Undervalued at Work?”
 - **作者**：Rebecca Knight；文中含 Annie McKee、Karen Dillon
 - **章节定位**：第五册第十三篇正式文章；文章提供 assess、talk to boss、increase team visibility、recognize others、validate yourself、consider moving on 六步，帮助被忽视者把贡献转成可见性，同时不陷入 self-doubt。
-- **字符数**：约 10,596 字符
-- **一句话主旨**：贡献长期不被看见会侵蚀 belonging、advancement 和 self-doubt；先评估期待、与老板谈具体成果、让团队贡献可见、公开 praise 他人、建立 intrinsic validation，再判断环境是否值得留下。
+- **字符数**：约 6,598 字符
+- **一句话主旨**：贡献长期不被看见会侵蚀 belonging 和 advancement，并引发／加剧 self-doubt；先评估期待、与老板谈具体成果、让团队贡献可见、公开 praise 他人、建立 intrinsic validation，再判断环境是否值得留下。
 - **核心论点**：不被感谢不一定是个人失败，也可能是组织忙碌、经理不关注 human needs 或反馈渠道有限。女性要区分 extraordinary work、正常期望和需要改变的 invisibility。
 - **核心论点**：文章同时反对只等待 external validation 和无限自夸。toot your own horn 要有具体 examples、分享 credit、管理团队 visibility，并在必要时考虑离开 undervaluing environment。
 
@@ -27,7 +27,7 @@ source_text: ch109_13_feeling_underappreciated_or_undervalu.txt
 | personal litmus test | 专家工具 | 区分 extraordinary 与常规工作 |
 | 过去三个月 strengths 对话 | 教练建议 | 让 manager 看见具体贡献 |
 | team work product 署名 | 组织建议 | 让集体贡献可见 |
-| praise others 引发回报 | 关系研究／经验 | 说明认可可以扩散 |
+| praise others 引发回报 | 经验性引语／实践建议 | 说明认可可以扩散 |
 | 自我反思练习：每周回顾 wins | 自我反思练习 | 建立内在的自我认可 |
 | job 不合适时 move on | 职业建议 | 把环境判断纳入策略 |
 
@@ -85,13 +85,13 @@ source_text: ch109_13_feeling_underappreciated_or_undervalu.txt
 
 **表达方式**：many ways 避免单一解决法，make sure 表示目标，understand and see 把 visibility 分成理解和看见。
 
-**为什么这样写**：McKee 从无力感转向可行动空间。后续策略分别处理 boss、team、credit 和 intrinsic value。
+**为什么这样写**：Karen Dillon 从无力感转向可行动空间。后续策略分别处理 boss、team、credit 和 intrinsic value。
 
 > **原句 5:** “Was my work extraordinary? Was it over and above what my peers typically do?”
 
 **中文理解**：我的工作是否非同寻常？是否超出了同事通常会做的范围？
 
-**句子结构**：两个一般疑问句，均以 Was... 开头；second and above 是并列副词，what my peers typically do 是宾语从句。
+**句子结构**：两个一般疑问句，均以 Was... 开头；over and above 是并列副词，what my peers typically do 是宾语从句。
 
 **关键词**：extraordinary / over and above / peers / typically
 
@@ -115,7 +115,7 @@ source_text: ch109_13_feeling_underappreciated_or_undervalu.txt
 
 **中文理解**：我想谈谈过去三个月，了解我的优势在哪里以及我可以在哪里学习。
 
-**句子结构**：主句 I’d like to talk about...，and get a sense... 是并列目的；where... and where... 是两个宾语从句。
+**句子结构**：I’d like 后接两个共享的并列谓语：talk... 和 get a sense...；两个 where 从句是 sense of 的介词补足从句。
 
 **关键词**：past three months / get a sense / strengths / where I could learn
 

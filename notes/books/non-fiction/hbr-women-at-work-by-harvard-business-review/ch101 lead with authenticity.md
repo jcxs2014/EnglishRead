@@ -11,7 +11,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 1 “Lead with Authenticity”
 - **形式/对话嘉宾**：Tina Opie 与 Amy Bernstein、Sarah Green Carmichael、Nicole Torres
 - **章节定位**：第六册第一篇正式文章；文章讨论 authenticity 与 appearance、communication、anger、directness、culture 和 power 的关系，并提出 authenticity 是 being your best self 而非随意发泄。
-- **字符数**：约 20,837 字符
+- **字符数**：约 16,884 字符
 - **一句话主旨**：女性面对的 authenticity 不是把全部情绪原样倾倒，而是让行为与价值一致，并在不同文化、家庭、种族、性别和权力位置下有意识地管理表达方式。
 - **核心论点**：社会先通过 appearance 和印象快速分类，女性和少数群体往往需要额外证明自己 professional、fierce 或 amazing。authenticity 因此与 career strategy、self-presentation 和 organizational norms 交织。
 - **核心论点**：anger、directness、polite communication 和 emotional expression 都受 backlash 与文化 upbringing 调节。leadership 需要 direct with kindness，但不把某个声音、姿态或表达方式规定为女性必须模仿的标准。
@@ -55,7 +55,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 
 **中文理解**：我们生活在 impression 很重要的世界里，而 appearance 与 impressions 紧密相连。
 
-**句子结构**：两个 where 从句并列修饰 world，where are mattering... 是重复结构。
+**句子结构**：两个 where 从句并列修饰 world：where impressions matter 与 where appearance is highly connected to impressions。
 
 **关键词**：impressions matter / appearance / connected / impressions
 
@@ -127,7 +127,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 
 **中文理解**：但其中一些是要求服从的微妙线索：说得更大声、使用更明确的陈述、更强调、站起来、占据空间。
 
-**句子结构**：主句 some of it is subtle cues to conform，冒号后四个不定式并列，说明 conform 的具体要求。
+**句子结构**：主句 some of it is subtle cues to conform，冒号后按语义列出多个非限定结构：to speak louder、to use more declarative statements、to be more emphatic、to stand up...、to get in there and command the space。
 
 **关键词**：subtle cues / conform / speak louder / declarative statements / possess the room
 
@@ -137,9 +137,9 @@ source_text: ch122_1_lead_with_authenticity.txt
 
 > **原句 9:** TINA: I do think it’s possible for a woman to be an authentic leader—a person who is expressing themselves, who is reflected in the values that they want to bring to the workplace, who is willing to share the pros and cons with the people who are following them.
 
-**中文理解**：我确实认为女性有可能成为真实的领导者。
+**中文理解**：我认为女性有可能成为 authentic leader：她们表达自我，体现在希望带入职场的价值中，也愿意与追随者分享利弊。
 
-**句子结构**：主句 I do think it’s possible...，do 强调判断，for a woman... 是真正主语。
+**句子结构**：正式主语是 it；for a woman to be an authentic leader 是不定式分析结构，后面三个 who 从句分别说明表达自我、反映价值和愿意分享利弊。
 
 **关键词**：possible / woman / authentic leader
 
@@ -208,7 +208,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 | identify | 认同／识别 | “identify as Asian” |
 | leadership | 领导力 | “leadership” |
 | leader | 领导者 | “leader” |
-| employee | 员工 | “employer” |
+| employee | 员工 | "employees" |
 | employer | 雇主 | “employer” |
 | power | 权力 | “power” |
 | leader | 领导者 | “leader” |

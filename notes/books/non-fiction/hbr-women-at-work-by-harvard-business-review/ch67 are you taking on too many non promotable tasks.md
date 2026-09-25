@@ -10,8 +10,8 @@ source_text: ch80_9_are_you_taking_on_too_many_non_promota.txt
 
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 9 “Are You Taking On Too Many Non-Promotable Tasks?”
 - **作者**：Linda Babcock、Brenda Peyser、Lise Vesterlund、Laurie R. Weingart
-- **章节定位**：第四册第九篇正式文章；文章以 Francesca 的 intern program 案例定义 non-promotable tasks（NPTs），解释其组织、可见性和技能特征，并提出 24 小时延迟、评估 implicit no、轮换任务和选择间接有益的 NPT。
-- **字符数**：约 14,494 字符
+- **章节定位**：第四册第九篇正式文章；文章以 Francesca 的 intern program 案例定义 non-promotable tasks（NPTs），解释其组织、可见性和技能特征，并提出 至少 24 小时延迟、评估 implicit no、轮换任务和选择间接有益的 NPT。
+- **字符数**：约 8,981 字符
 - **一句话主旨**：许多组织和女性都在“帮助团队”的任务上投入大量时间，却失去 billable work、晋升机会和自我发展；识别 NPT、争取思考时间、评估机会成本并有意识地选择少数有长期收益的任务，才能把时间投向真正有回报的工作。
 - **核心论点**：NPT 不是绝对无价值，而是与组织使命、可见性和独特技能关联较弱，因而很少进入绩效和晋升判断。女性尤其容易因内化的“应该答应”期待而频繁承担它们，需要用数据和职业目标挑战即时答应。
 - **核心论点**：作者将职业判断从“要不要帮助别人”转为“这份工作会把我带去哪里”。拖延 24 小时、问是否最佳使用时间、计算 implicit no 和 urgency、考虑 indirectly promotable 的 NPT，能让帮助与职业发展同时可见。
@@ -24,7 +24,7 @@ source_text: ch80_9_are_you_taking_on_too_many_non_promota.txt
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
 | Francesca 负责 intern program 却没有绩效收益 | 个案 | 说明 NPT 的职业代价 |
-| 女性每年多 200 小时做 NPT | 纵向数据 | 说明问题的性别差异 |
+| 女性员工的中位数每年比男性多花 200 小时做非晋升任务 | 纵向数据 | 说明问题的性别差异 |
 | 组织使命、可见性、专门技能三个标准 | 分类框架 | 识别 promotable task |
 | 24 小时延迟和优先级说法 | 实务建议 | 阻止即时答应 |
 | 经济学概念：隐含的拒绝与机会成本 | 经济学概念 | 说明“说是”必然牺牲其他工作 |
@@ -78,9 +78,9 @@ source_text: ch80_9_are_you_taking_on_too_many_non_promota.txt
 
 **中文理解**：任务与组织目标越不匹配，它的可晋升性就越低。
 
-**句子结构**：The less...the lower... 是比较结构；a task aligns with those objectives 是主句，its promotability 是比较项。
+**句子结构**：The less...the lower... 是比较级相关结构；前一半从句说明条件，后一半说明结果。a task aligns with those objectives 不是独立主句。
 
-**关键词**：align with objectives / lower / promotability / the less...the lower
+**关键词**：lower / promotability / the less...the lower
 
 **表达方式**：The less...the lower 把关系写成连续梯度，align with 和 promotability 连接任务与组织目标。
 
@@ -208,7 +208,7 @@ source_text: ch80_9_are_you_taking_on_too_many_non_promota.txt
 | task | 任务 | “take on a task” |
 | job | 工作 | “at work” |
 | intern | 实习生 | “summer intern program” |
-| client | 客户 | “helping your own team” |
+| client | 客户 | "handles that low-revenue and time-consuming client" |
 | employee | 员工 | “the person who does them” |
 | time | 时间 | “too much time” |
 | say | 说 | “say yes” |

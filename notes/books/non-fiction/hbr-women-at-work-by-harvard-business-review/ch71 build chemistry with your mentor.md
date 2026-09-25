@@ -11,7 +11,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 13 “Build Chemistry with Your Mentor”
 - **作者**：Janice Omadeke
 - **章节定位**：第四册第十三篇正式文章；文章把 chemistry 定义为 professional interaction 中的和谐、有效连接，提出 Comfort、Connection、Click or Clash 三组自测问题，并讨论 transparency、peer-to-peer 和 group mentoring。
-- **字符数**：约 13,763 字符
+- **字符数**：约 8,608 字符
 - **一句话主旨**：导师关系能否发挥潜力，取决于双方是否感到安全、互相在乎、期待见面和愿意投资；chemistry 不是瞬时缘分，而是可以通过透明意图、持续互动和更包容的导师形式逐步培养。
 - **核心论点**：Omadeke 反对把 chemistry 只理解为浪漫吸引，她将其扩展为和谐或有效的工作互动。信任、能量、共同投入和享受彼此的陪伴会影响导师关系的深度与持续性。
 - **核心论点**：如果传统相似性配对造成 groupthink，读者可以考虑同层级 peer mentoring 或 group mentoring；不同背景、年龄和生活经验也能带来专业视角。关系质量比表面相似更重要。
@@ -27,7 +27,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 | 磁铁隐喻 | 类比 | 说明不可见的相互吸引 |
 | Comfort／Connection／Click 问题 | 自我评估工具 | 检测安全、关心和能量 |
 | trust、positive energy、mutual investment | 机制列表 | 解释关系为什么有效 |
-| similar pairing 导致 groupthink | 反例／研究引用 | 说明需要不同导师 |
+| similar pairing 导致 groupthink | 作者论述／反例 | 说明需要不同导师 |
 | peer-to-peer 关系 | 模式 | 减少代际和权力差距 |
 | group mentoring | 模式 | 增加找到适配导师的机会 |
 
@@ -45,7 +45,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 
 **句子结构**：主句 That’s chemistry；That’s 是 that is 的缩写，chemistry 是表语。
 
-**关键词**：chemistry / professional relationship
+**关键词**：chemistry
 
 **表达方式**：短句命名前文难以观察的关系质量，That 指代可建立而非自动拥有的连接。
 
@@ -55,7 +55,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 
 **中文理解**：这里的 chemistry 是“一起工作的人之间的互动”，更具体地说，是“和谐或有效”的互动。
 
-**句子结构**：主句 Chemistry as...，more specifically 插入补充，后两个引号短语分别定义 interaction 和 interaction 的性质。
+**句子结构**：chemistry as... 是冒号后的定义性名词短语／片段，不是独立主句；more specifically 进一步说明 interaction 的性质。
 
 **关键词：**interaction between people / working together / harmonious / effective / chemistry
 
@@ -81,7 +81,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 
 **句子结构**：If 引导条件状语从句，don’t naturally enjoy... 是从句；主句 you are going to be less emotionally invested 和 your relationship will probably fall... 是并列预测。
 
-**关键词**：don’t naturally enjoy / emotionally invested / relationship / fall flat
+**关键词**：don’t naturally enjoy / emotionally invested / relationship / fall a little flat
 
 **表达方式**：if...going to 预测后果，less emotionally invested 与 fall a little flat 逐层降低，naturally 与 probably 保留程度。
 
@@ -129,7 +129,7 @@ source_text: ch84_13_build_chemistry_with_your_mentor.txt
 
 **句子结构**：主语 Transparency about your intentions，including... 是插入修饰，is a good way... 是系表结构；to strengthen... 和 set... 是并列不定式。
 
-**关键词：**transparency / intentions / strengthen your connection / chemistry develop
+**关键词**：transparency / intentions / strengthen your connection / chemistry to develop
 
 **表达方式**：including 将关系目标和 transparency 连接，两个不定式说明透明的双重功能。
 

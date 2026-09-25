@@ -11,14 +11,14 @@ source_text: ch90_19_when_a_major_life_change_upends_your_.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 19 “When a Major Life Change Upends Your Sense of Self”
 - **作者**：Madeline Toubiana、Trish Ruebottom、Luciana Turchick Hakak
 - **章节定位**：第四册第十九篇正式文章；文章研究失去 undesired／desired identity 的人如何经历 identity paralysis，并提出 mark a break、craft a story、work through emotions、focus on non-work identities、fantasize 五种身份成长策略。
-- **字符数**：约 16,385 字符
+- **字符数**：约 11,732 字符
 - **一句话主旨**：失去工作、迁移、疾病或照护会让人卡在过去身份；通过标记新旧分界、编出连接过去与现在的故事、处理羞耻和愤怒、激活其他身份并允许适度幻想，才能把 identity transition 从瘫痪变成成长。
 - **核心论点**：人们并不总能立即接受新身份，即使变化客观上更好。文章通过数百次访谈发现，最能前进的人不是否认过去，而是给它一个有意义的结束、连贯叙事和情感处理，同时保留多重身份。
 - **核心论点**：identity paralysis 同时包含认知、情绪和想象层面；理性上知道情况已改变，仍可能因 shame、anger 或旧自我想象而停滞。五种策略分别处理象征转折、叙事、情绪、非工作身份和未来幻想。
 
 ## 论证结构
 
-- **核心论点**：先用研究者访谈定义 identity paralysis，再以五项策略依次回应，最后用“acknowledge current identity, past self, everything in between”收束。
+- **核心论点**：先用研究者访谈定义 identity paralysis，再以五项策略依次回应，最后用“acknowledge and embrace your current identity, your past self, and everything in between”收束。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -100,7 +100,7 @@ source_text: ch90_19_when_a_major_life_change_upends_your_.txt
 
 > **原句 6:** “Focus on meaningful non-work-related identities.”
 
-**中文理解**：关注有意义的、与工作无关的身份。
+**中文理解**：把父母、社区、志愿者或社会行动／行动主义等非工作身份纳入自我定义。
 
 **句子结构**：祈使句 Focus on，meaningful non-work-related identities 是宾语。
 

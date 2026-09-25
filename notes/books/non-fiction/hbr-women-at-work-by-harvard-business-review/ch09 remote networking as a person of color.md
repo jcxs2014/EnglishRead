@@ -10,7 +10,7 @@ source_text: ch10_8_remote_networking_as_a_person_of_color.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 8 “Remote Networking as a Person of Color”
 - **作者**：Laura Morgan Roberts、Anthony J. Mayo
 - **章节定位**：第一册 networking 部分的第三篇文章；文章以疫情后的远程工作为背景，结合对 300 名美国中高层有色人种专业人士的调查，讨论网络参与障碍、可见性以及重新设计 networking 的策略。
-- **字符数**：约 10,708 字符
+- **字符数**：约 12,696 字符
 - **一句话主旨**：远程工作削弱了偶发的人际接触，却也为有色人种专业人士提供更灵活、共享和以价值为中心的连接方式；不过，不能把维持联系的全部责任再次压在少数群体身上，管理者也必须主动保持接触。
 - **一句话主旨（补充）**：文章既承认远程 networking 的必要性，也揭示“不可见、边缘化、种族边界和忙碌／政治化联想”如何共同压低参与率。
 
@@ -76,7 +76,7 @@ source_text: ch10_8_remote_networking_as_a_person_of_color.txt
 
 **中文理解**：超过一半的人报告说自己“太忙”，无法参加 networking 活动；30% 提到工作相关冲突，17% 表示更愿意专注工作，另有 17% 把 networking 与“玩政治”联系起来。
 
-**句子结构**：主语是 More than half reported that...，后面三个并列分句由逗号、and 和 and 连接；30% cited...、17% reported...、17% associated... 分别给出不同归因。引号保留参与者自己的心理语言。
+**句子结构**：More than half 作主语，reported that... 是谓语部分；后面三个并列分句由逗号、and 和 and 连接；30% cited...、17% reported...、17% associated... 分别给出不同归因。引号保留参与者自己的心理语言。
 
 **关键词**：More than half / too busy / work-related conflicts / preferred to focus on work / playing politics
 

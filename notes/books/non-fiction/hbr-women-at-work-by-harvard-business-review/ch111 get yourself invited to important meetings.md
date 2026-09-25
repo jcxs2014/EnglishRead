@@ -11,7 +11,7 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 11 “Get Yourself Invited to Important Meetings”
 - **作者**：Nina A. Bowman
 - **章节定位**：第六册第十一篇正式文章；文章用 Mark、Karen 等 coaching cases 说明 meeting exclusion 可能来自 value、style、power 或 oversight，并提供 pause、assess value、assess style 和按情境选择 strategy 的路径。
-- **字符数**：约 15,232 字符
+- **字符数**：约 7,816 字符
 - **一句话主旨**：没有 meeting invitation 不应先归咎于 exclusion；先判断自己的 decision role、impact、knowledge、perspective 和 value，再根据 boss／peer／organizer 的关系选择具体 strategy。
 - **核心论点**：Mark 以为自己是 decision maker，但没有以 ideas 和 process 行动；Karen 有独特 legal knowledge，却因 conservative、problem-focused style 让别人看不见价值。被排除有时是 perception 和 approach 的问题。
 - **核心论点**：文章最终把 responsibility 还给个人，要求用 business value 证明自己应进入房间；但它也承认 oversight 和 power dynamics，不能把制度性 exclusion 全写成个人 failure。
@@ -58,7 +58,7 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 
 **句子结构**：祈使句 Pause，But First 是插入的步骤标记，First 首字母大写。
 
-**关键词**：First / Pause / meeting invitation
+**关键词**：First / Pause
 
 **表达方式**：But First 转折后用逗号隔离，Pause 是单个动作词，形成强制性停顿。
 
@@ -104,7 +104,7 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 
 **中文理解**：Karen 过去一直被邀请参加关键营销会议，但她注意到越来越多的会议不再有她。
 
-**句子结构**：主句 Karen had always been invited，but she noticed...，without her 是省略 being invited 的补语。
+**句子结构**：主句 Karen had always been invited，but she noticed...；without her 是介词短语作伴随/背景状语，表示她不在场，不是省略 being invited。
 
 **关键词**：Karen / always been invited / more and more / meetings / without her
 
@@ -154,7 +154,7 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 
 **句子结构**：主句 You aren’t on...，organizer’s radar screen 是表语，just 限定程度。
 
-**关键词**：organizer / radar screen / relationships / value / useful
+**关键词**：organizer / radar screen / relationships / useful
 
 **表达方式**：radar screen 用航空／技术隐喻说明 visibility，just 暗示可能只是 awareness gap。
 
@@ -186,7 +186,6 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 | radar screen | 雷达屏幕 | “radar screen” |
 | useful | 有用的 | “Make yourself useful” |
 
-| account | 说明／负责 | “your assistance” |
 
 | decision-maker role | 决策者角色 | “decision maker” |
 
@@ -256,7 +255,6 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 
 | goal | 目标 | “goal” |
 | group | 群组 | “group” |
-| respond | 回应 | “respond” |
 | join | 加入 | “joining” |
 | invite | 邀请 | “invited” |
 | reason | 理由 | “reasons” |

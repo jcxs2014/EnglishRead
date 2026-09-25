@@ -10,7 +10,7 @@ source_text: ch43_15_even_when_women_ask_for_a_raise_they_.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 15 “Even When Women Ask for a Raise, They Don’t Ask for Enough”
 - **作者**：Kathryn Heath
 - **章节定位**：第二册第十五篇正式文章；文章结合对数百名女性高管的 coaching、360-degree feedback 和 Margot 案例，说明女性常提出请求但 ask 不足，建议提高期待、把请求具体化并向上争取机会。
-- **字符数**：约 4,310 字符
+- **字符数**：约 4,117 字符
 - **一句话主旨**：女性不是从不争取，而是常在第一次就接受自己认为应得的较小结果；通过选择 dream role、用证据和具体数字把 ask 调高、建立互惠网络并向更高层级表达意向，才能把“被看见”转成晋升机会。
 - **核心论点**：女性普遍低估自己和职位的市场价值，worry about being pushy 使其 ask 不够 forceful。文章用 TV remote 比喻、校准后的表达层级和 Margot 案例说明：assertiveness 需要具体依据、目标幅度和向上连接，而不是无限冒进或单纯情绪。
 
@@ -93,7 +93,7 @@ source_text: ch43_15_even_when_women_ask_for_a_raise_they_.txt
 
 **表达方式**：TV remote 把 assertive 程度变成可听见的音量刻度，three clicks 提供具体而非抽象的调整量。
 
-**为什么这样写**：女性担心 pushy，教练需要一个介于 wishy-washy 和 aggression 之间的校准工具。遥控器比喻保留了调节空间，也承认 ask 需要练习。
+**为什么这样写**：女性担心 pushy，教练需要一个介于 wishy-washy 和 assertive 之间的校准工具。遥控器比喻保留了调节空间，也承认 ask 需要练习。
 
 > **原句 6:** "Based on my work managing the team during the acquisition I deserve a [specific] raise and I would like to be put on the fast track for a [be specific] promotion."
 
@@ -149,7 +149,7 @@ source_text: ch43_15_even_when_women_ask_for_a_raise_they_.txt
 
 **句子结构**：主句 You will never be considered for it，if you don’t 是省略宾语的否定条件从句，it 回指 big job。
 
-**关键词**：never be considered / if you don’t / big job
+**关键词**：never be considered / if you don’t
 
 **表达方式**：never 将不提出的后果绝对化，if you don’t 保留条件，it 用回指避免重复。
 

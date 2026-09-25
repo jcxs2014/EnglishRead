@@ -10,7 +10,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 5 “Repairing a Professional Relationship When Trust Has Broken Down”
 - **作者**：Dorie Clark
 - **章节定位**：第一册“Real Connections Begin with Trust”部分的第五篇文章；文章从职业冲突的普遍性出发，提出一套从承认修复价值、反思自身责任、邀请对方共同重置，到改变互动模式的修复路径。
-- **字符数**：约 3,735 字符
+- **字符数**：约 4,508 字符
 - **一句话主旨**：职业关系并不需要双方永远投缘，但当冲突影响工作时应停止回避、承认自己参与形成了僵局、让对方成为修复的伙伴，并通过持续改变行为而不是只靠一次承诺来重建合作。
 
 ## 论证结构
@@ -46,7 +46,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 
 **为什么这样写**：开头先取消“关系破裂是个人失败”的羞耻感，让读者愿意继续阅读。它把冲突放进长期职业轨迹，而不是一次偶然事故，为后文提出修复责任做铺垫。
 
-> **原句 2:** "If it’s your boss or a teammate, ignoring them is a losing strategy."
+> **原句 2:** "But if it’s your boss or a teammate, ignoring them is a losing strategy."
 
 **中文理解**：如果对方是你的老板或团队成员，忽视他们是一个会输的策略。
 
@@ -82,7 +82,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 
 **为什么这样写**：这段把关系修复从情绪义务转成个人效率和注意力管理。冲突未解决会持续占据工作记忆，因此主动处理关系具有实际收益，也为下一步自我反思提供理由。
 
-> **原句 5:** "You’re almost certainly contributing to the dynamic in some way, as well."
+> **原句 5:** "But you’re almost certainly contributing to the dynamic in some way, as well."
 
 **中文理解**：你几乎肯定也以某种方式参与并促成了这种互动局面。
 
@@ -110,7 +110,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 
 **中文理解**：如果你单方面“决定”要改善与同事的关系，你很可能会很快失望。
 
-**句子结构**：If you unilaterally “decide”... 是条件状语从句，you’re going to improve... 是从句中的主谓结构；主句 you’re likely to be disappointed quickly 中，be likely to do 表示很可能做某事，quickly 修饰失望发生的时间。
+**句子结构**：If you unilaterally “decide”... 是条件状语从句，you’re going to improve... 是从句中的主谓结构；主句 you’re likely to be disappointed quickly 中，be likely to be disappointed 是被动结构，quickly 修饰失望发生的时间。
 
 **关键词**：unilaterally / “decide” / improve your relationship / likely to be disappointed quickly
 
@@ -152,7 +152,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 
 **表达方式**：understanding 与 making changes 由 and 连接，从诊断推进到干预；markedly more positive results 用比较级加强改善幅度。but 让前文的困难与最后的可能性形成回环。
 
-**为什么这样写**：结尾不承诺关系必然恢复，而是给出较克制的 may/can 方向：理解动态并改变行为，可能显著改善结果。它既保留人的可塑性，也避免把关系修复写成单方面的保证。
+**为什么这样写**：结尾不承诺关系必然恢复，而是给出较克制的 can 方向：理解动态并改变行为，可能显著改善结果。它既保留人的可塑性，也避免把关系修复写成单方面的保证。
 
 ## 词汇分级
 
@@ -198,7 +198,7 @@ source_text: ch07_5_repairing_a_professional_relationship_.txt
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | conflict | 冲突 | "When conflict happens, many of us try to disengage" |
-| boss | 老板；上司 | "If it’s your boss or a teammate, ignoring them is a losing strategy." |
+| boss | 老板；上司 | "But if it’s your boss or a teammate, ignoring them is a losing strategy." |
 | manager | 管理者 | "you’re a bad manager or employee" |
 | employee | 员工 | "you’re a bad manager or employee" |
 | work | 工作 | "how we can work together really well" |

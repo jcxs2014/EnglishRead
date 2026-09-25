@@ -10,7 +10,7 @@ source_text: ch73_2_four_questions_to_help_women_navigate_.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 2 “Four Questions to Help Women Navigate the Second Half of Their Careers”
 - **作者**：Palena Neale
 - **章节定位**：第四册第二篇正式文章；文章以 50 岁左右女性的事业转折为背景，提出无障碍想象、给自己 permissions、审计支持网络和识别需要学习的新技能四个问题。
-- **字符数**：约 11,563 字符
+- **字符数**：约 7,474 字符
 - **一句话主旨**：职业后半程常同时出现空巢、丰富经验和经济自由，也可能被固定身份、习惯性独立和很少自我推广卡住；通过四个问题，女性可以重新想象目标、扩展身份、盘点关系并补足技能。
 - **核心论点**：Neale 以 Isabelle 和 Florence 的教练案例说明，职业中期不是只能维持现状，而是重新投资时间、精力和自由的窗口。四个问题从“如果没有任何东西阻挡”开始，接着问需要允许自己成为谁、如何建立支持网络、要学什么，最后把自我也纳入支持 inventory。
 - **核心论点**：文章不是提供一套女性专属的答案，而是把自我觉察转成行动。Isabelle 从不问别人帮助到请求 boss 介绍，Florence 从低调做事到主动争取领导位置；relationship audit 让她们看见自己如何支持他人，也把 networking 重构为 reciprocal activity。
@@ -43,7 +43,7 @@ source_text: ch73_2_four_questions_to_help_women_navigate_.txt
 
 **句子结构**：While I’ve helped... 是让步状语从句，I’ve found that... 是主句；主句中 the combination of... makes it... 是主语和谓语，for many women in their fifties 是人群范围。
 
-**关键词**：women of all ages / women in their fifties / newly empty nests / extensive professional experience / financial freedom / accelerate careers
+**关键词**：women of all ages / women in their fifties / newly empty nests / extensive professional experience / financial freedom / accelerate their careers
 
 **表达方式**：While...I’ve found 将普遍教练经验与特定发现对照，三个名词的 combination 将条件写成组合，perfect time 保留观察判断。
 
@@ -87,7 +87,7 @@ source_text: ch73_2_four_questions_to_help_women_navigate_.txt
 
 > **原句 5:** "Isabelle started to appreciate that asking for help signaled good leadership rather than a lack of independence."
 
-**中文理解**：Isabelle 开始意识到，寻求帮助 signifies good leadership，而不是缺乏独立。
+**中文理解**：Isabelle 开始意识到，寻求帮助 signaled good leadership，而不是缺乏独立。
 
 **句子结构**：主语 Isabelle，谓语 started to appreciate，that asking for help signaled good leadership... 是宾语从句；rather than... 对比信号意义。
 
@@ -103,7 +103,7 @@ source_text: ch73_2_four_questions_to_help_women_navigate_.txt
 
 **句子结构**：At first 是时间状语，主语 neither...nor... 两个人名，谓语 leveraged，宾语 their networks，to further their ambitions 是不定式。
 
-**关键词**：At first / neither...nor / leveraged their networks / further ambitions
+**关键词**：At first / neither...nor / leveraged their networks / further their ambitions
 
 **表达方式**：neither...nor 明确两人共同状态，leveraged 将关系写成可使用的资源，further ambitions 把网络与目标连接。
 
@@ -139,11 +139,23 @@ source_text: ch73_2_four_questions_to_help_women_navigate_.txt
 
 **句子结构**：主句 You are your own strongest ally，破折号后 so move forward... 是结果／建议结构；boldly 和 with no regrets 是方式状语。
 
-**关键词**：own strongest ally / move forward boldly / no regrets
+**关键词**：your own strongest ally / move forward boldly / no regrets
 
 **表达方式**：You are your own strongest ally 将自我支持提升为第一关系，破折号将结论变成命令，boldly／no regrets 规定行动情绪。
 
 **为什么这样写**：文章不把支持网络完全放在外部人物上，提醒女性在列出 champions、mentors 和 connectors 后先把自己算进去。
+
+> **原句 10:** "What follows are four questions that can help anyone rethink and achieve their professional goals."
+
+**中文理解**：接下来提出的四个问题，可以帮助任何人重新思考并实现自己的职业目标。
+
+**句子结构**：What follows are four questions 是主句；that can help anyone rethink and achieve their professional goals 是定语从句，修饰 four questions，其中 rethink 和 achieve 由 and 并列。
+
+**关键词**：What follows / four questions / help anyone / rethink / achieve their professional goals
+
+**表达方式**：What follows 预告后文的四个问题，anyone 把适用对象从五十多岁女性扩展到任何人，rethink and achieve 把思考和行动连成结果链。
+
+**为什么这样写**：作者先说明这些问题的普遍适用性，再把它们定位为重新规划职业的工具。结构上的预告让读者把后文当作一套可操作的自我提问框架，而不是只针对某个年龄段的建议。
 
 ## 词汇分级
 

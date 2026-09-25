@@ -10,7 +10,7 @@ source_text: ch21_19_what_to_do_when_you_become_your_frien.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 19 “What to Do When You Become Your Friend’s Boss”
 - **作者**：Ben Laker、Charmi Patel、Ashish Malik、Pawan Budhwar
 - **章节定位**：第一册 networking 部分关于职场友谊权力转换的文章；文章基于 17 个国家 400 名首次升任管理者的调查和后续访谈，提出承认权力转移、接受新角色、公平一致、隔离社交媒体等建议。
-- **字符数**：约 8,066 字符
+- **字符数**：约 9,762 字符
 - **一句话主旨**：从同事变成上司后，友谊不会自动消失，但关系必须重新协商；新管理者要尽早承认权力变化，停止 friend mode 的八卦和偏袒，用客观标准做困难决定，并管理社交媒体上的边界，才能同时保住公平和职业信任。
 - **核心论点**：90% 以上首次管理者曾难以处理上司／朋友边界，超过 70% 失去友谊。文章认为问题不是私人关系本身，而是权力转移未被公开处理、管理者继续沿用平等同事的行为、情绪影响决策和数字媒介模糊边界；五项策略帮助管理者主动重设关系。
 
@@ -114,7 +114,7 @@ source_text: ch21_19_what_to_do_when_you_become_your_frien.txt
 
 **句子结构**：Once you are the boss 是时间状语从句；it’s essential to be respectful and treat all your team members equally 是主句，be respectful 和 treat...equally 并列。
 
-**关键词**：Once you are the boss / essential / be respectful / treat all team members equally
+**关键词**：Once you are the boss / essential / be respectful / treat all your team members equally
 
 **表达方式**：Once 立即标记角色转换，essential 提升要求的规范性，respectful 和 equally 两个动作／状态共同定义领导行为。
 

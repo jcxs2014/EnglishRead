@@ -11,7 +11,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 3 “Make Room in Your Work Life for the Rest of Your Self”
 - **作者**：Brianna Barker Caza、Lakshmi Ramarajan、Erin Reid、Stephanie Creary
 - **章节定位**：第六册第三篇正式文章；文章以 Shonda Rhimes 的 work identity 和 burnout 为入口，讨论 multiple identities、zero-sum thinking、connections、boundaries、code-switching、role models 和 leaders 如何支持 complexity。
-- **字符数**：约 25,809 字符
+- **字符数**：约 18,836 字符
 - **一句话主旨**：工作不应吞没人的全部身份；理解多个身份之间的连接、练习平衡和边界、选择 thoughtful authenticity，并为他人和他人的复杂性创造空间，才能成为完整而可持续的职业者。
 - **核心论点**：Rhimes 把 work hum 体验为强烈 highs，却因 single-minded investment 进入 burnout。恢复不是放弃工作，而是让 mother、friend、sister、athlete 等身份重新出现。
 - **核心论点**：多元身份不是互相争夺时间的独立盒子，而是可以产生 skill、meaning、synergy 和 creativity 的 portfolio。文章最后把 responsibility 扩展到 leaders：谁被展示、被奖励、被鼓励扩展，会改变组织对复杂性的容忍度。
@@ -42,9 +42,9 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 > **原句 1:** She became more outspoken about being a woman, a mother, and an African American in the entertainment industry: “Work’s hum is still a piece of me, it is just no longer all of me,” she said.
 
-**中文理解**：工作的嗡鸣仍然是我的一部分，但不再是我的全部。
+**中文理解**：她后来更公开谈论自己作为女性、母亲和娱乐行业非裔美国人的身份，并说：“工作的嗡鸣仍是我的一部分，只是不再是我全部。”
 
-**句子结构**：两个分句由逗号连接；first 是现在进行时 is，second 是 just no longer all of me 的比较结构。
+**句子结构**：主句 She became more outspoken about...，冒号后直接引语 Work’s hum...，she said 是说话者归属；being... 列举身份。
 
 **关键词**：Work’s hum / a piece of me / no longer all of me
 
@@ -66,9 +66,9 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 > **原句 3:** Left untackled, this fear can limit us: It led the nurse-midwife to temper her professional actions.
 
-**中文理解**：如果不处理，这种恐惧会限制我们。
+**中文理解**：如果这种恐惧没有得到处理，就会限制我们：它使护士助产士收敛自己的专业行动。
 
-**句子结构**：Left untackled 是过去分词短语作条件状语，主句 this fear can limit us 是情态句。
+**句子结构**：Left untackled 是过去分词短语，this fear can limit us 是主句；冒号后的 It led the nurse-midwife to temper her professional actions 是结果说明。
 
 **关键词**：Left untackled / this fear / limit us
 
@@ -82,7 +82,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 **句子结构**：两个独立分句由逗号连接；前半是 not... and... 的对比，后半用 100% of both 重复并修正比例。
 
-**关键词**：not 50% / 100% of both / identity / percentage
+**关键词**：not 50% / 100% of both
 
 **表达方式**：百分比把身份量化，not... 100%... 通过数字反转 zero-sum 逻辑。
 
@@ -90,7 +90,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 > **原句 5:** Don’t think about each of your identities as being independent pieces of who you are; think about how they’re connected and how they might affect each other in positive ways.
 
-**中文理解**：不要把每个身份看成彼此独立的碎片；要思考它们如何连接。
+**中文理解**：不要把每个身份看成彼此独立的碎片；要思考它们如何连接，以及如何彼此产生正面影响。
 
 **句子结构**：两个祈使句由分号连接；第一个否定 think about... as，第二个 think about how... 给出替代框架。
 
@@ -102,7 +102,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 > **原句 6:** “It is the perfect confluence of all my passions—biking, giving, and Israel.”
 
-**中文理解**：这是我所热爱的两件事的完美汇合——骑车、捐赠和 Israel。
+**中文理解**：这是我所有激情的完美交汇：骑车、捐赠和 Israel（与我的身份/归属相连）。
 
 **句子结构**：主句 It is the perfect confluence of all my passions，破号后三个名词列举具体 passions。
 
@@ -147,6 +147,18 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 **表达方式**：from... to... 展示认知升级，portfolio 把多个身份写成有配置和取舍的组合。
 
 **为什么这样写**：结尾把 burnout 问题重新组织成 identity portfolio 管理。它既包括个人时间边界，也包括组织如何奖励复杂性。
+
+> **原句 10:** "Doing so may initially increase the chaos, but once we fully embrace our complexity, we can feel more fulfilled and create more sustainable and agile organizations and communities."
+
+**中文理解**：这样做起初可能增加混乱，但一旦我们充分接纳自身的复杂性，就能感到更满足，并创造更可持续、更具敏捷性的组织和社区。
+
+**句子结构**：Doing so 是动名词短语，作主句主语；may initially increase the chaos 是情态谓语；but once we fully embrace our complexity 是时间／条件状语从句，主句 we can feel more fulfilled and create more sustainable and agile organizations and communities 中 feel 与 create 由 and 并列。
+
+**关键词**：Doing so / initially increase the chaos / fully embrace our complexity / feel more fulfilled / sustainable and agile organizations and communities
+
+**表达方式**：Doing so 回指前文的 portfolio 管理，initially 保留短期混乱，but 把短期代价与长期收益对置；fulfilled、sustainable 和 agile 分别从个人感受、组织持续性和适应能力三个层面展开结果。
+
+**为什么这样写**：结尾承认复杂性管理不会立即带来整齐成果，先承认可能增加的混乱，再说明完全接纳后的长期回报。这避免把“管理多个自我”写成没有成本的个人优化术。
 
 ## 词汇分级
 

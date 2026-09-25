@@ -10,7 +10,7 @@ source_text: ch56_7_why_sexual_harassment_programs_backfir.txt
 - **出处**：*Speak Up, Speak Out*（HBR Women at Work series），Chapter 7 “Why Sexual Harassment Programs Backfire”
 - **作者**：Frank Dobbin、Alexandra Kalev
 - **章节定位**：第三册第七篇正式文章；文章基于 800 多家美国公司、800 多万员工和长期纵向数据，评估强制性培训、申诉程序、旁观者训练、经理训练、ombuds 和自愿争议解决的效果。
-- **字符数**：约 29,899 字符
+- **字符数**：约 31,182 字符
 - **一句话主旨**：只讲禁止行为、只保护被指控者且以报复为后果的正式项目，可能让女性管理者减少、男性更易责怪受害者；有效的替代方案是把员工训练成盟友和现场干预者、把经理训练成问题解决者，并提供真正保密、受害者可控的申诉渠道。
 - **核心论点**：公司把培训、grievance procedure 和法律合规当作“已经处理问题”的证据，但组织行为和女性管理者数据长期没有改善。Dobbin 与 Kalev 反对“把全员当成潜在骚扰者”和让受害者承担法律式举证，转而倡导 bystander-intervention、manager training、ombuds、voluntary dispute resolution、task forces 和公开指标。
 - **核心论点**：文章用大规模组织数据检验项目是否真正改善女性处境，结论是传统 forbidden-behavior training 和法律化 grievance systems 可能适得其反。有效制度必须改变参与者角色、降低报复、提供保密且由受害者控制的选择，并通过文化和公开指标持续问责。
@@ -51,13 +51,13 @@ source_text: ch56_7_why_sexual_harassment_programs_backfir.txt
 
 **为什么这样写**：文章先建立概念和制度的来路，再批评企业把法律程序当作解决方案。它提醒读者，制度出现并不等于问题已经被解决。
 
-> **原句 2:** "By 1997, 75% of American companies had developed mandatory training programs for all employees to explain what the law forbids and how to file a complaint."
+> **原句 2:** "By 1997, 75% of American companies had developed mandatory training programs for all employees to explain what behaviors the law forbids and how to file a complaint, and 95% had put grievance procedures in place for reporting harassment and requesting hearings."
 
-**中文理解**：到 1997 年，75% 的美国公司已经为所有员工开发强制性培训项目，用来说明法律禁止什么以及如何提交投诉。
+**中文理解**：到 1997 年，75% 的美国公司已为所有员工开发强制性培训项目，说明法律禁止的行为以及如何提交投诉；95% 已建立举报骚扰和要求听证的申诉程序。
 
-**句子结构**：By 1997 是时间状语，主语 75% of American companies，谓语 had developed，宾语 mandatory training programs；to explain... and how to file... 两个不定式说明项目内容。
+**句子结构**：By 1997 是时间状语，主句 75%... had developed...，and 95% had put... 连接第二个过去完成时分句；to explain... 和 how to file... 说明培训内容，后半句补充 grievance procedures。
 
-**关键词**：By 1997 / 75% / mandatory training / all employees / what the law forbids / file a complaint
+**关键词**：By 1997 / 75% / mandatory training / all employees / what behaviors the law forbids / file a complaint
 
 **表达方式**：By 1997 把普及速度压缩成一个时间点，75% 量化覆盖，mandatory 与 all employees 强化强制性，forbid 和 complaint 连接法律与举报。
 

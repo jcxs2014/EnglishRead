@@ -10,7 +10,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 3 “Finding a Job When You Don’t Know What You Want to Do Next”
 - **作者**：Mimi Aboubaker
 - **章节定位**：第四册第三篇正式文章；文章把求职分为 avoiders 和 gatherers，提出 career and personal manifesto 的 evaluate、engage、execute 三步，并用 prioritization matrix 减少无方向搜索。
-- **字符数**：约 11,473 字符
+- **字符数**：约 11,429 字符
 - **一句话主旨**：不知道想做什么时，完全不做和广泛投简历都会浪费职业能量；先评估环境、角色、薪酬、技能、职业叙事和下一步，再连接合适的人并排序机会，才能在不确定中保持主动。
 - **核心论点**：求职成功不是盲目扩大申请量，而是有意图地决定申请什么、为什么申请以及如何投入。Evaluate 帮助求职者识别 needs and goals，Engage 把 network 分成 thought partners 和 opportunity sourcers，Execute 则用两个最重要标准排序机会。
 - **核心论点**：文章认为职业迷茫时需要结构而非等待灵感。career manifesto 把自我评估、网络行动和机会取舍连接起来，帮助 early-career job seekers 避免 avoider 的停滞和 gatherer 的无方向扩散。
@@ -53,7 +53,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 
 **中文理解**：因此，职业早期求职者往往落入两大类：回避者和收集者。
 
-**句子结构**：As a result 是结果状语，主句 early-career job seekers，谓语 tend to fall into，冒号后 two categories 是宾语，avoids 和 gatherers 列举类别。
+**句子结构**：As a result 是结果状语，主句 early-career job seekers，谓语 tend to fall into，冒号后 two categories 是宾语，avoiders 和 gatherers 列举类别。
 
 **关键词**：early-career job seekers / tend to fall into / two broad categories / avoiders / gatherers
 
@@ -65,7 +65,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 
 **中文理解**：这份宣言有三个步骤：评估、连接和执行。
 
-**句子结构**：主句 The manifesto has three steps；冒号后三个编号名词短语由 and 连接。
+**句子结构**：The manifesto has three steps: 后接三个编号步骤；(1) evaluate、(2) engage 和 (3) execute 是三个裸动词项目，不是名词短语。
 
 **关键词**：manifesto / three steps / evaluate, engage, and execute
 
@@ -127,7 +127,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 
 **句子结构**：主句 work with the contacts... to identify...；that are a good fit... 修饰 opportunities，preceding step 是过去时间状语。
 
-**关键词**：At this stage / work with contacts / preceding step / identify a few opportunities / good fit
+**关键词**：At this stage / work with the contacts / preceding step / identify a few opportunities / good fit
 
 **表达方式**：At this stage 标记流程位置，work with 把网络变成共同研究，a few 防止无边界扩张，good fit 连接个人标准。
 
@@ -151,7 +151,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 
 **句子结构**：By using... 是方式状语，主句 you’ll end up with... and avoid...；such as this one 修饰 framework。
 
-**关键词**：structured framework / focus your efforts / favorable outcome / avoid avoider or gatherer
+**关键词**：structured framework / focus your efforts / favorable outcome / avoid becoming an avoider or a gatherer
 
 **表达方式**：By using 将方法写成可执行条件，focus your efforts 表示注意力分配，favorable outcome 与两个失败身份形成结果对照。
 
@@ -165,7 +165,7 @@ source_text: ch74_3_finding_a_job_when_you_don_t_know_what.txt
 |----------|------|--------------|
 | job search | 求职 | "a job search" |
 | early-career | 职业早期的 | "early-career job seekers" |
-| avoider | 回避者 | "avoids" |
+| avoider | 回避者 | "avoid becoming an avoider" |
 | gatherer | 收集者 | "gatherers" |
 | career and personal manifesto | 职业与个人宣言 | "a career and personal manifesto" |
 | evaluation | 评估 | "six evaluation categories" |

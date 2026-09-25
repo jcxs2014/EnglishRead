@@ -10,7 +10,7 @@ source_text: ch05_3_the_three_elements_of_trust.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 3 “The Three Elements of Trust”
 - **作者**：Jack Zenger、Joseph Folkman
 - **章节定位**：第一册“Real Connections Begin with Trust”部分的第三篇文章；文章把抽象的“赢得信任”拆成可观察、可测量的领导行为，并用大规模 360° 评估数据说明三类要素如何共同影响他人评价。
-- **字符数**：约 4,642 字符
+- **字符数**：约 5,665 字符
 - **一句话主旨**：领导者通常把注意力放在能力、诚意或人格魅力中的某一两项，但研究显示信任需要正向关系、良好判断与专业能力、以及一致性三种要素同时达到至少略高于平均水平；其中，正向关系对信任分数的影响尤其显著。
 
 ## 论证结构

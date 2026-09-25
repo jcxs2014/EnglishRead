@@ -11,7 +11,7 @@ source_text: ch89_18_a_detour_doesn_t_have_to_compromise_y.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 18 “A Detour Doesn’t Have to Compromise Your Goals”
 - **作者**：Dorie Clark
 - **章节定位**：第四册第十八篇正式文章；文章处理 layoff、reassignment、relocation、健康和照护导致的 career detour，提出 reframe、dig、push back、harness small amounts of time 四种恢复长期轨迹的方法。
-- **字符数**：约 8,319 字符
+- **字符数**：约 5,919 字符
 - **一句话主旨**：短期收入、照护和现实压力可能迫使人接受 detour，但不必把长期目标全部放弃；把当前局面重新解释为学习、家庭或其他重要进展，主动创造非二元选项，并用碎片时间积累 momentum，才能快速回到适合自己的路径。
 - **核心论点**：**career detour** 不是职业失败，而是暂时偏离；重要的是保持 long-term trajectory 的可见度。个人可以通过 broaden the view、identify learning、question two choices、leverage spare minutes 重新取得控制感。
 - **核心论点**：文章不否认 detour 的代价，也不要求女性在危机中坚持梦想而不顾家庭。它提出在短期需求和长期成长之间持续 reframe，并把小步行动视为保持 momentum 的方法。
@@ -127,7 +127,7 @@ source_text: ch89_18_a_detour_doesn_t_have_to_compromise_y.txt
 
 **句子结构**：动名词短语 Your leveraging... 作主语，to send... 和 to download... 并列；may seem insignificant 是情态谓语。
 
-**关键词：**leveraging / spare three minutes / networking email / download articles / may seem insignificant
+**关键词**：leveraging / spare three minutes / networking email / download a few articles / may seem insignificant
 
 **表达方式**：spare three minutes 把时间具体化，两个 to... 并列展示微小行动，may seem insignificant 暂时承认表面小。
 
@@ -151,7 +151,7 @@ source_text: ch89_18_a_detour_doesn_t_have_to_compromise_y.txt
 
 **句子结构**：主句 you can accomplish... and prepare...，by following... 是方式状语，and coupling... 是并列连接；what needs to happen 和 the future... 是宾语。
 
-**关键词：**four strategies / dose of grace / self-compassion / accomplish what needs to happen / prepare for the future
+**关键词**：four strategies / dose of grace / self-compassion / accomplish what needs to happen / prepare yourself for the future
 
 **表达方式**：by following 和 coupling 把方法与态度并置，a dose of grace 降低自我批判，what needs... 与 future... 覆盖当下和未来。
 

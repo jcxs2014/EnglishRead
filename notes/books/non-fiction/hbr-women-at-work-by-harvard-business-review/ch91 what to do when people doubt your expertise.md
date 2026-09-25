@@ -9,11 +9,11 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 ## 概览
 
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 12 “What to Do When People Doubt Your Expertise”
-- **形式/对话嘉宾**：Raven Hoffman 与 Vanessa Bohns、Amy Gallo
+- **形式/对话嘉宾**：Raven Hoffman 与 Vanessa Bohns；Amy Gallo 主持
 - **章节定位**：第五册第十二篇正式文章；文章从建筑业 senior estimator Raven 的客户经历出发，分析 stereotype、authority gap、warmth／competence、reciprocity 和失败后的 question-asking。
-- **字符数**：约 15,773 字符
+- **字符数**：约 11,271 字符
 - **一句话主旨**：别人怀疑女性专家能力时，单纯等待老板替自己背书并不够；可以通过主动说明 authority、用 warm language 配 competence、展示 persuadability 和在失败后提问来建立影响，但长期仍需组织挑战 stereotype。
-- **核心论点**：Raven 在公司内部被信任，外部客户却把她转给男性老板，说明 gender coding 会先于实际专业表现生效。Bohns 将其解释为 authority deficit 与 women’ tendency to downplay expertise 的双重 whammy。
+- **核心论点**：Raven 在公司内部被信任，外部客户却把她转给男性老板，说明 gender coding 会先于实际专业表现生效。Bohns 将其解释为 authority deficit 与 women’s tendency to downplay expertise 的双重 whammy。
 - **核心论点**：proclaiming authority 若没有 warmth 会被看作 cold／arrogant，couple competence with warmth 可以让经验成为合作邀请；persuasion 不是 one-shot sales，而是长期 relationship、reciprocity 和对对方需求的 curiosity。
 
 ## 论证结构
@@ -43,7 +43,7 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **中文理解**：通常是在外部，我的知识似乎会受到质疑。
 
-**句子结构**：副词短语 Often it’s externally that... 为主句，my knowledge 是主语，seems to be under question 是系表结构。
+**句子结构**：Often it’s externally that... 是分裂强调句；my knowledge 才是主句主语，externally 是焦点成分，Often 是频率修饰语。
 
 **关键词**：externally / knowledge / under question
 
@@ -67,9 +67,9 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **中文理解**：但女性常常面临某种双重打击。
 
-**句子结构**：副词 Unfortunately 修饰主句，women 是主语，face 是谓语，a sort of double whammy 是宾语。
+**句子结构**：But 是篇章转折标志，women 是主语，face 是谓语，a sort of double whammy 是宾语；本块没有 Unfortunately。
 
-**关键词**：Unfortunately / women / face / double whammy
+**关键词**：women / face / double whammy
 
 **表达方式**：face 使处境成为被遭遇的行动，double whammy 简洁命名两种叠加压力。
 
@@ -91,7 +91,7 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **中文理解**：这是我的专业经验清单，也是我今天和你谈这个的原因。
 
-**句子结构**：两个独立句，Here’s 是 There is 的口语缩写，and 连接 expertise 和 why 从句。
+**句子结构**：两个独立分句 Here’s my long list of expertise 和 this is why I’m talking to you 由 and 连接，不是 expertise 与从句的并列。
 
 **关键词**：long list of expertise / why I’m talking to you
 
@@ -103,7 +103,7 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **中文理解**：事实上，当我们被别人评价时，别人往往主要从温暖和胜任力两个方面判断我们。
 
-**句子结构**：主句 we tend to be judged，when... 是时间从句，on two main things 是范围状语，冒号后 warmth and competence 并列。
+**句子结构**：主句 we tend to be judged，on two main things 是介词 judge 的结构补足语，冒号后 warmth and competence 并列。
 
 **关键词**：judged by other people / two main things / warmth and competence
 
@@ -113,9 +113,9 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 > **原句 7:** “Unfortunately, the best way to counteract that is to couple your expressions of competence with something warm.”
 
-**中文理解**：不幸的是，抵消这种问题的最好方式，是把表达能力与某种温暖的内容结合起来。
+**中文理解**：不幸的是，抵消这种问题的最好方式，是把能力表达与某种温暖表达配起来。
 
-**句子结构**：主句 the best way to counteract that is to couple...，with something warm 是方式状语。
+**句子结构**：the best way to counteract that is to couple your expressions of competence with something warm；with something warm 是 couple 的配对补足成分，不是方式状语。
 
 **关键词**：counteract / expressions of competence / couple / something warm
 
@@ -133,15 +133,15 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **表达方式**：without... 引出顾虑，arrogant 解释需要调整的社交风险，what 从句把新话术转为想象场景。
 
-**为什么这样写**：作者先承认新话术可能不自然，再通过客户案例说明如何因情境调整。影响技巧需要练习，不是背诵口号。
+**为什么这样写**：Raven 承认自己尚未尝试，并担心显得 arrogant；随后 Bohns 解释她所在小组的女性也担心被看作 bragging 或 arrogant。原文没有提供这里的客户案例细节。
 
 > **原句 9:** “So, I give a little, you give a little.”
 
 **中文理解**：所以，我给一点，你也给一点。
 
-**句子结构**：两个祈使句由 so 和逗号连接，a little 并列重复。
+**句子结构**：So 引出结果或补充说明，后接 I give a little 和 you give a little 两个平行陈述句。
 
-**关键词**：give a little / reciprocity
+**关键词**：give a little
 
 **表达方式**：对称的 I／you 句式把 reciprocity 写成轮流行为，重复制造节奏。
 
@@ -153,7 +153,7 @@ source_text: ch108_12_what_to_do_when_people_doubt_your_exp.txt
 
 **句子结构**：主句 I would get into question-asking mode；would 是虚拟／委婉情态，question-asking 复合形容词。
 
-**关键词**：question-asking mode / get into / curiosity
+**关键词**：question-asking mode / get into
 
 **表达方式**：get into 表示进入状态，question-asking mode 将好奇变成可执行的工作模式。
 

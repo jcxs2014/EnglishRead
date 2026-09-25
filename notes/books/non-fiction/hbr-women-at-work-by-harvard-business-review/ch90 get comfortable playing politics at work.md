@@ -11,7 +11,7 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 11 “Get Comfortable ‘Playing Politics’ at Work”
 - **作者**：Lisa Zigarmi、Julie Diamond、Lesli Mones
 - **章节定位**：第五册第十一篇正式文章；文章将 office politics 定义为驾驭潜规则、动机和组织目标的能力，分析五种造成女性厌恶的信念，并提出从 work speaks for itself 到 prioritize growth 的五种 mindset shift。
-- **字符数**：约 22,017 字符
+- **字符数**：约 16,568 字符
 - **一句话主旨**：政治技能是组织生活所需的关系能力，女性不必把它理解为肮脏或零和游戏；通过 enterprise mindset、connections as force multiplier、authentic point of view、按情境选择 hard／soft power 和 growth mindset，女性可以参与政治而不再被它定义。
 - **核心论点**：文章不否认权力、影响和 office politics 的存在，也不要求女性享受它们。关键是把“政治是人格污点”的信念改成可观察、可选择、可反思的工具，并以关系、组织目标和自身成长衡量代价与收益。
 - **核心论点**：女性对政治的反感有现实依据：她们常承担更多无偿照护劳动，并因展示 ambition 或 assertiveness 受到惩罚。五种 mindset 是在承认风险的前提下取得选择权，而不是否认结构。
@@ -51,11 +51,11 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 
 **为什么这样写**：作者先去掉“政治等于拉帮结派”的狭窄想象，把它定义为关系、规则和动机的理解能力。后续心态转换因此是在学习组织现实，而非要求女性做不道德的事。
 
-> **原句 2:** “Political skill matters; it is a necessary part of organizational life.”
+> **原句 2:** "Political skill matters—it is a necessary part of organizational life."
 
 **中文理解**：政治技能很重要，它是组织生活中必要的一部分。
 
-**句子结构**：两个独立分句均为系表结构；it 指代 political skill，a necessary part of... 是表语。
+**句子结构**：Political skill 是主语，matters 是谓语，破折号后的 it is a necessary part of organizational life 是对前句的同位解释；不是分号连接的两个独立句。
 
 **关键词**：political skill / necessary / organizational life
 
@@ -69,7 +69,7 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 
 **句子结构**：主语 My work，should speak for itself 是情态谓语；for itself 是介词短语。
 
-**关键词**：work should speak for itself / meritocracy / work speaks
+**关键词**：work should speak for itself / meritocracy
 
 **表达方式**：should speak for itself 把工作成果拟人化为会表达者，常见信念被写成一句可反驳的宣言。
 
@@ -81,33 +81,33 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 
 **句子结构**：No one 是主语，an island 是表语；这是一个否定定义的格言句。
 
-**关键词**：no one / island / interdependence
+**关键词**：no one / island
 
 **表达方式**：短句把个人独立观转换成关系事实，为 enterprise mindset 提供直接过渡。
 
 **为什么这样写**：若工作真的只靠个人贡献，政治似乎多余；但组织成果依赖协作和他人理解。政治技能首先是让工作被看见并产生协同。
 
-> **原句 5:** “When we work with people on making a shift away from this mindset, we focus on moving from a functional or expert mindset to an enterprise one.”
+> **原句 5:** “When we work with people on making a shift away from this mindset, we focus on transitioning from a functional or expert mindset to an enterprise one.”
 
 **中文理解**：当我们帮助人们摆脱这种心态时，重点是让他们从功能性或专家思维转向企业思维。
 
-**句子结构**：主句 we focus on moving，from...to... 是方向补足语，When we work... 是时间状语。
+**句子结构**：主句 we focus on transitioning，from...to... 是方向补足语，When we work... 是时间状语。
 
-**关键词**：shifting / functional mindset / expert mindset / enterprise mindset
+**关键词**：making a shift / functional or expert mindset / enterprise one
 
-**表达方式**：moving from...to... 将心态转换写成空间位移，functional／expert 对 enterprise 形成能力范围扩大。
+**表达方式**：transitioning from...to... 将心态转换写成过程，functional／expert 对 enterprise 形成能力范围扩大。
 
 **为什么这样写**：作者把个人贡献观转成组织贡献观。领导不是只证明技术正确，而是说明专长怎样帮助整体业务。
 
-> **原句 6:** “Before every conversation, every meeting, and every presentation, she would take five minutes to anticipate the possible blowback or resistance she could incur.”
+> **原句 6:** “Before every conversation, every meeting, and every presentation, she would set aside five minutes to anticipate the possible blowback or resistance she could incur.”
 
 **中文理解**：在每次对话、会议和演示前，她都会花五分钟预判可能遭遇的反弹或阻力。
 
-**句子结构**：Before every... 是时间状语，主句 she would take five minutes，to anticipate... 是不定式表目的；or 连接两个可能对象。
+**句子结构**：Before every... 是时间状语，主句 she would set aside five minutes，to anticipate... 是不定式表目的；or 连接两个可能对象。
 
-**关键词**：before every conversation / take five minutes / anticipate / blowback or resistance
+**关键词**：before every conversation / set aside five minutes / anticipate / blowback or resistance
 
-**表达方式**：every 的重复建立习惯，five minutes 将准备具体化，blowback／resistance 把政治风险写出来。
+**表达方式**：every 的重复建立习惯，set aside five minutes 将准备具体化，blowback／resistance 把政治风险写出来。
 
 **为什么这样写**：企业思维不是临时话术，而是提前研究听众、需求和反对意见。资深女性通过预判把被动应对变成主动定位。
 
@@ -117,7 +117,7 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 
 **句子结构**：When we work with leaders... 是时间从句，主句 we help them see...；not just the burden of doing so 是比较省略结构。
 
-**关键词**：move away / benefits / burden / doing so
+**关键词**：benefits / burden / doing so
 
 **表达方式**：not just... 把连接从成本扩展为双重价值，we help them see 保持教练视角，benefits 与 burden 对照。
 
@@ -141,11 +141,11 @@ source_text: ch107_11_get_comfortable_playing_politics_at_w.txt
 
 **句子结构**：主句 The mindset here is one of prioritizing growth；one of... 是表语，prioritizing growth 是动名词短语。
 
-**关键词**：mindset / prioritize growth
+**关键词**：mindset
 
 **表达方式**：here 指向作者建议的转变，one of 保留成长不是唯一价值的谦逊，prioritizing 把心态写成行动排序。
 
-**为什么这样写**：面对 ambition 的反弹，文章建议把“别人怎么看”放到次要位置，把技能、影响和未来选择放到主要位置。这仍需计划和资源支持。
+**为什么这样写**：面对 ambition 的反弹，文章建议把成长而不是他人评价放到优先位置，并预先准备资源、盟友、替代方案和风险。
 
 > **原句 10:** “It’s better to be a player than a pawn.”
 

@@ -11,7 +11,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 6 “Act Like a Leader Before You Are One”
 - **作者**：Amy Gallo
 - **章节定位**：第六册第六篇正式文章；文章建议女性在等待 title 之前通过 results、help your boss、seize small opportunities、white space、leadership presence、steward leadership、role models 和 relationships 建立领导证据。
-- **字符数**：约 13,165 字符
+- **字符数**：约 9,191 字符
 - **一句话主旨**：职业晋升不是突然授予的身份，而是长期积累的可见证据；即使没有 title，也可以通过交付结果、支持上级、主动承担、改进 presence 和建立跨组织关系让领导潜力被观察。
 - **核心论点**：Gallo 强调 current day job 是基础：ambition 不能替代 performance。help your boss 和 small initiatives 让你在没有 title 时练习 influence，同时让组织先看到 future potential。
 - **核心论点**：leadership presence 可拆为 assumptions、communication repertoire 和 energy；ambition 又必须与 steward leadership、humble confidence 和不 fake it 的角色示范结合，避免“too big for your britches”。
@@ -28,7 +28,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 | white space tasks | 组织实践 | 说明如何解决没人关注的问题 |
 | 教练框架：presence 三要素 | 教练框架 | 说明假设、沟通和能量的共同作用 |
 | 领导原则：steward leadership 与 humble confidence | 领导原则 | 说明抱负与自我中心的边界 |
-| role model 研究 | 职业策略 | 说明下一层级学习路径 |
+| role model 建议 | 专家建议／职业策略 | 说明下一层级学习路径 |
 | 关系原则：“It’s not who you know...”格言 | 关系原则 | 说明组织可见度 |
 | 职业案例：Heather Espinosa 成为 managing director | 职业案例 | 说明解决问题先于追求晋升 |
 
@@ -106,7 +106,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **句子结构**：祈使句 Set 加宾语 the right assumptions，right 修饰 assumptions。
 
-**关键词**：Set / right assumptions / leadership presence
+**关键词**：Set / right assumptions
 
 **表达方式**：两个词压缩 presence 的第一部分，right 暗示主动检查而非被动接受。
 
@@ -118,7 +118,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **句子结构**：祈使句 Review your communication repertoire，communication repertoire 是复合名词宾语。
 
-**关键词**：Review / communication repertoire / engage / influence / inspire
+**关键词**：Review / communication repertoire
 
 **表达方式**：repertoire 从音乐词汇借来，表示多种可选择策略，Review 强调观察和选择而非机械重复。
 
@@ -130,7 +130,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **句子结构**：祈使句 Manage your energy，your energy 是名词所有格宾语。
 
-**关键词**：Manage your energy / interaction / tone / nonverbal cues
+**关键词**：Manage your energy
 
 **表达方式**：Manage 将 presence 写成可调控过程，energy 与 tone／nonverbal cues 连接身体和互动。
 
@@ -142,7 +142,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **句子结构**：祈使句 Don’t try to exert...，when you don’t have it 是时间／条件从句。
 
-**关键词**：exert authority / don’t have it / steward leadership / ambitious
+**关键词**：exert authority / don’t have it / steward leadership
 
 **表达方式**：Don’t try 将越权行为设为边界，steward leadership 紧随其后提供替代价值来源。
 
@@ -154,7 +154,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **句子结构**：两个 it’s clauses 并列，who... 两次省略相同结构，第二个分句修正第一个。
 
-**关键词**：who you know / who knows you / relationships / promotion
+**关键词**：who you know / who knows you / promotion
 
 **表达方式**：重复句式形成格言式反转，who knows you 把关系从私人网络改成可见 reputation。
 

@@ -11,7 +11,7 @@ source_text: ch102_6_identifying_male_allies_in_your_organi.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 6 “Identifying Male Allies in Your Organization”
 - **作者**：Tsedale M. Melaku、Christoph Winkler
 - **章节定位**：第五册第六篇正式文章；文章把 allyship 从口头支持定义为可问责的日常行动，提出 take the temperature、look for patterns、beware performative allyship、trust your gut 四步识别指南。
-- **字符数**：约 8,881 字符
+- **字符数**：约 8,928 字符
 - **一句话主旨**：真正的男性盟友不是自称 ally 的人，而是能在 pressured moments 使用 privilege、让 marginalized colleagues 被听见、用 concrete results 改变制度并承担 accountability 的人。
 - **核心论点**：女性在男性主导组织中需要 allies 来减少 invisible labor、打开 advancement 和 sponsorship，但识别 ally 不能依靠自我宣传，而要观察其行为、模式和对边缘群体的长期支持。
 - **核心论点**：文章也提醒白人和非白人女性面对的 intersectional oppression 不同；盟友必须用自身 privilege 支持更被边缘化的群体，且 onus 不应只落在女性身上。

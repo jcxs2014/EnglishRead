@@ -10,7 +10,7 @@ source_text: ch18_16_want_to_be_a_better_manager_get_a_pro.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 16 “Want to Be a Better Manager? Get a Protégé”
 - **作者**：Sylvia Ann Hewlett
 - **章节定位**：第一册 networking 部分关于 sponsor 收益的文章；文章从“只有 protégé 受益”的直觉转向 sponsor 自身的晋升、legacy、生产力和知识／技能补足。
-- **字符数**：约 5,094 字符
+- **字符数**：约 6,117 字符
 - **一句话主旨**：sponsorship 是双向的主动投资：protégé 为 sponsor 提供忠诚、表现和不同的视角，sponsor 则提供经验、联系、公开倡导和风险保护；只要识别差异人才、管理风险并明确互惠条件，双方都能获得长期回报。
 - **核心论点**：protégé 不是新鲜人也不是单纯年轻的下属，而是能够有效忠诚地工作并扩展 sponsor 世界观或技能的人。好的 sponsor 会用七步管理投资：识别、纳入不同、激励、指导、检验、明确交易和投入资本／关系／保护。
 
@@ -46,7 +46,7 @@ source_text: ch18_16_want_to_be_a_better_manager_get_a_pro.txt
 
 **表达方式**：if...you’d 结构直接邀请读者自我测验，half right 用比例把直觉拆成两半。the protégé 作为唯一名词答案制造停顿。
 
-**为什么这样写**：文章用反问式开头打破“赞助只是帮助下属”的常见理解。半对答案让读者在进入数据前意识到 sponsor 自己的收益同样需要被解释。
+**为什么这样写**：文章先用条件式自我检验承接前一句反问，读者若只答出 protégé，便只得到一半答案。这个开场把“赞助只是帮助下属”的常见理解变成需要检验的假设。
 
 > **原句 2:** "But data shows that the sponsor also gains enormous value from this relationship."
 
@@ -138,7 +138,7 @@ source_text: ch18_16_want_to_be_a_better_manager_get_a_pro.txt
 
 **句子结构**：主语 Savvy sponsors，谓语 act to mitigate and maximize；by following seven steps 是方式状语；括号式破折号插入 a significant investment...，连接 risks 和 benefits 的共同对象。
 
-**关键词**：Savvy sponsors / mitigate the risks / maximize the benefits / significant investment / time and personal brand / seven steps
+**关键词**：Savvy sponsors / mitigate the risks / maximize the benefits / significant investment / time and their personal brand / seven steps
 
 **表达方式**：act to...to...形成两端目标，therefore 把建议建立在风险承认之上。significant investment 把时间和个人品牌并列为 sponsor 付出的稀缺资源。
 
@@ -150,7 +150,7 @@ source_text: ch18_16_want_to_be_a_better_manager_get_a_pro.txt
 
 **句子结构**：Whether you’re...or... 是让步／选择结构，两个 you’re 分句分别描述 mid-level manager 和 senior executive；主句 a protégé can be the answer 中 can 表示可能性。
 
-**关键词**：mid-level manager / senior executive / expand productivity and reach / protégé can be the answer
+**关键词**：mid-level manager / senior executive / expand your productivity and reach / protégé can be the answer
 
 **表达方式**：whether...or...把职业阶段和目标并列，make your name 与 expand...形成两种 sponsor 动机，can be 保留条件性而不承诺结果。
 

@@ -11,10 +11,10 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 16 “Your Boss Made a Biased Remark—Now What?”
 - **作者**：Aneeta Rattan
 - **章节定位**：第五册第十六篇正式文章；文章从 MBA 学生对“会不会回应”的理想回答与实际无力之间的落差出发，讨论 timing、risk、rehearsed statements、closing request、documenting 和 escalation。
-- **字符数**：约 21,708 字符
+- **字符数**：约 9,880 字符
 - **一句话主旨**：面对权力更高者的偏见言论，受害者不是必须立即 confronting；先承认伤害和现实风险，判断何时说、如何用具体问题表达不适，再提出明确请求，必要时留下书面记录并寻求支持。
 - **核心论点**：Rattan 把“不敢说”还原为权力、风险和情绪资源的真实约束。发声不是勇气测试，沉默也不证明自己认同偏见。
-- **核心论点**：沟通策略取决于 boss 是否重视 equality、偏见是否公开、听众是否已经被冒犯。即时回应、事后私下沟通和书面升级各有适用场景；最终目标不是让对方羞愧，而是改变行为。
+- **核心论点**：沟通策略取决于 boss 是否重视 equality、偏见是否公开、听众是否已经被冒犯。即时回应、事后私下沟通和书面升级各有适用场景；最终目标是让对方理解影响、作出作者所请求的具体行为改变；作者不保证对方成长。
 
 ## 论证结构
 
@@ -44,7 +44,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：每个人都说会。
 
-**句子结构**：Everybody 作主语，says 是谓语，yes 和 they would 是间接引语。
+**句子结构**：Everybody says yes，yes 是 says 的宾语补足语；they would 是承前省略 respond 的内容从句。
 
 **关键词**：Everybody / says yes / they would
 
@@ -68,7 +68,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：无论偏见是有意识还是无意识，它都会造成伤害。
 
-**句子结构**：No matter how... 引导让步条件，a bias 是主语，it hurts 是系表结构。
+**句子结构**：No matter how... 引导让步条件，a bias 是主语，it hurts 中 hurt 是不及物谓语，不是系表结构。
 
 **关键词**：No matter how / conscious or unconscious / bias / hurts
 
@@ -104,7 +104,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：这取决于两件事：你的老板，以及偏见的性质。
 
-**句子结构**：主句 It depends on two things，冒号后两项是介词 of 的补充；Your boss 和 nature... 并列。
+**句子结构**：主句 It depends on two things，冒号后两项是 two things 的同位列举；只有第二项内部含 of the bias。
 
 **关键词**：depends on two things / your boss / nature of the bias
 
@@ -116,7 +116,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：你具体那样说是什么意思，因为我不确定自己是否理解错了？
 
-**句子结构**：主句 What specifically did you mean by that，because... 是原因从句；what 引导宾语从句。
+**句子结构**：整句是直接疑问句；What specifically 是 mean 的疑问代词宾语，because I’m not sure I got it 是原因状语从句。
 
 **关键词**：What specifically / did you mean by that / not sure I got it
 
@@ -128,7 +128,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：这对我不可以，而且我尊重你到足以让你知道这一点。
 
-**句子结构**：两个独立分句由 and 连接；第一个是系表结构，第二个 enough to... 说明尊重的程度和目的。
+**句子结构**：That’s not OK with me...，and I respect you enough to let you know 是两个分句；enough to let you know 补充说明尊重达到足以告知对方的程度，不是目的结构。
 
 **关键词**：not OK with me / respect you / enough to let you know
 
@@ -152,7 +152,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **中文理解**：我告诉你这些，是因为我相信在偏见问题上，我们都可以学习和成长。
 
-**句子结构**：主句 I’m telling you this，because I believe... 是原因从句；when it comes to... 是介词短语，we can all learn and grow 是并列谓语。
+**句子结构**：主句 I’m telling you this，because I believe... 是原因从句；when it comes to issues of bias 是时间／让步状语从句，we can all learn and grow 是 believe 的省略式宾语从句。
 
 **关键词**：telling you this / because I believe / issues of bias / learn and grow
 

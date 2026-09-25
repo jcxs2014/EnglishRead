@@ -9,9 +9,9 @@ source_text: ch101_5_sponsorship_is_support.txt
 ## 概览
 
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 5 “Sponsorship Is Support”
-- **形式/对话嘉宾**：Cristina Massа 与 Julia González Romero；Amy Bernstein 主持
+- **形式/对话嘉宾**：Cristina Massa 与 Julia González Romero；Amy Bernstein 主持
 - **章节定位**：第五册第五篇正式文章；文章以墨西哥城律师事务所的 sponsor–protégé 关系说明 sponsorship 如何通过 exposure、资源、薪酬谈判、边界和 pipeline 支持职业发展。
-- **字符数**：约 20,464 字符
+- **字符数**：约 15,303 字符
 - **一句话主旨**：mentorship 给 advice，sponsorship 则由有权力的人代表你、打开 exposure 和 resources；protégé 要主动提问、说明需求、接受边界，sponsor 要承担 visibility、risk 和 institutional change，而双方还要管理冲突与照护现实。
 - **核心论点**：Cristina 通过让 Julia 参加 unchaperoned events、介绍正确的人、支持 salary negotiation 和建立女性 pipeline，把个人支持转化为组织影响力。赞助不是无偿照顾，而是对人才、业务和公平 pipeline 的投资。
 - **核心论点**：Julia 的案例也说明 sponsorship 需要 mutual agency：她主动问 right questions，sponsor 回应，但 sponsor 会说 no、守边界、避免为 protégé 弯曲规则；关系因此不是无限服务，而是有条件的专业联盟。
@@ -29,7 +29,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 | salary negotiation／play hardball | 谈判案例 | 说明 sponsor 支持不一定代替本人谈判 |
 | firm pipeline 和 female associates | 组织战略案例 | 说明 sponsor 的自身利益与女性群体利益相连 |
 | 规则、边界和 no | 关系案例 | 说明 sponsorship 不是无限服从 |
-| sponsor 为 Julia 支付申请、考试和旅行 | 个人回忆 | 说明支持可以改变人生轨迹 |
+| 一位早年赞助者为 Cristina 支付申请、考试和赴美面试旅行 | 个人回忆 | 说明支持可以改变人生轨迹 |
 | mentee 要主动问 | 专家建议 | 说明关系需要双方行动 |
 
 - **论证脉络：mentor vs sponsor → Julia asks for help → exposure／events／pay → sponsor 的业务与 pipeline 利益 → conflict and boundaries → sponsor 的慷慨历史 → protégé 的 proactivity。
@@ -44,7 +44,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 **中文理解**：有时支持以 mentorship 的形式出现，即有更多经验的人给我们建议或指导，帮助我们改进。
 
-**句子结构**：主句 that comes in the form of mentorship，where a person... gives us advice or guidance 是定语从句，on how we can improve 是介词短语。
+**句子结构**：Sometimes that comes in the form of mentorship... 中 that 是修饰 support 的关系代词，comes in the form of mentorship 是定语从句；where a person... gives us advice or guidance on how we can improve 说明 mentorship 的内容。
 
 **关键词**：mentorship / more experience / advice or guidance / how we can improve
 
@@ -80,7 +80,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 **中文理解**：我一直积极推动 Julia 独自参加活动，不带陪同者。
 
-**句子结构**：现在完成进行时 I have been actively pushing，for Julia 是不定式目的的对象，to go... 是补足语，unaccompanied and unchaperoned 并列副词。
+**句子结构**：现在完成进行时 I have been actively pushing，for Julia 是修饰 pushing 的介词短语，to go to events unaccompanied and unchaperoned 是不定式补足语；两个 un- 副词并列。
 
 **关键词**：have been actively pushing / Julia / go to events / unaccompanied / unchaperoned
 
@@ -94,7 +94,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 **句子结构**：主句 She is the expert，on her topic 是介词短语，not her boss 是省略 be 的对比结构。
 
-**关键词**：expert on her topic / not her boss / authority / expertise
+**关键词**：expert on her topic / not her boss / expertise
 
 **表达方式**：两个身份名词对举，not 修正传统权力结构，her topic 将专业判断归给 Julia。
 
@@ -106,7 +106,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 **句子结构**：情态句 you really need to play hardball；need to 后接动词原形，really 强调必要性。
 
-**关键词**：really need / play hardball / compensation negotiation
+**关键词**：really need / play hardball
 
 **表达方式**：really need 提高语气，play hardball 使用体育隐喻表达坚定谈判。
 
@@ -126,7 +126,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 > **原句 8:** “Being the sole female partner and not having a pipeline of powerful women—it’s a queen bee scenario that I don’t want in my firm.”
 
-**中文理解**：作为唯一女性合伙人却没有强大的女性人才梯队，这是我称为“女王蜂”情境的做法，也是我不愿在律所看到的。
+**中文理解**：作为唯一女性合伙人却没有强大的女性人才梯队，会形成我不愿在律所出现的“女王蜂”情境。
 
 **句子结构**：动名词短语 Being... 作主语，and not having... 是并列条件，it’s a queen bee scenario 是同位解释，that I don’t want... 修饰 scenario。
 
@@ -134,7 +134,7 @@ source_text: ch101_5_sponsorship_is_support.txt
 
 **表达方式**：sole 与 not having 叠加稀缺，queen bee scenario 用结构隐喻指女性孤立，that 从句表达价值判断。
 
-**为什么这样写**：Cristina 说明女性 sponsor 也不能只维护自己的位置。建立 female pipeline 既减少 queen bee 风险，也增加 firm 的长期 talent supply。
+**为什么这样写**：Cristina 说明女性 sponsor 也不能只维护自己的位置。建立 female pipeline 既减少 queen bee 风险，也增加 firm 的长期 talent supply；这不是 Cristina 自创的术语，而是她描述自己不愿看到的情境。
 
 > **原句 9:** “You have to be proactive. You cannot wait for people to take care of you.”
 

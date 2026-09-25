@@ -11,7 +11,7 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 20 “How One Biotech Company Narrowed the Gender Gap in Its Top Ranks”
 - **作者**：Cynthia Burks
 - **章节定位**：第五册第二十篇正式文章；文章以 Genentech 2007–2017 的 gender diversity 改革为案例，说明 data、recognizing existing talent、improving talent pipeline、accountability、small actions add up 如何共同改变 senior leadership。
-- **字符数**：约 13,755 字符
+- **字符数**：约 9,588 字符
 - **一句话主旨**：缩小高层性别差距不是一次招聘活动，而是用数据找出障碍、让现有女性 talent 被看见、建立 sponsorship 和 pipeline、改造 interview process、并让每个 leader 对 succession 和结果负责的持续制度工程。
 - **核心论点**：Genentech 早期 women 在 employees 中比例接近一半，却只占 officers 的 16%，且 directors 离职率是男性两倍。领导层看到数据后设定“remove barriers／increase qualified pool by 50%”的目标。
 - **核心论点**：改革采用 two-pronged approach：既要 recognize and grow existing talent，也要 improve the pipeline；数据和 accountability 让 progress 可追踪，small actions 通过重复变成 habit。
@@ -72,7 +72,7 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 
 **关键词**：see what’s wrong / in this room / tell me / Because it’s not
 
-**表达方式**：三个短句形成公开质问，there is no 省略在 because it’s not 中，节奏直接而不留模糊空间。
+**表达方式**：三个短句形成公开质问，Because it’s not 直接否定前句的“OK”判断，节奏明确而不虚构 there is no 的省略。
 
 **为什么这样写**：Art Levinson 在 town hall 用数据要求集体承认问题。它把领导者的公开承诺变成不可回避的共同事实。
 
@@ -106,7 +106,7 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 
 **句子结构**：主句 We redesigned，also 是插入的递进副词，our interview process 是宾语。
 
-**关键词**：redesigned / interview process / hiring
+**关键词**：redesigned / interview process
 
 **表达方式**：短句和 also 将招聘流程纳入长期改革，而不只是 employee development。
 
@@ -138,9 +138,9 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 
 > **原句 9:** If there are no women on a leader’s list, the leader is expected to explain why—to managers, HR business partners, executive coaches, and our organizational development team.
 
-**中文理解**：如果一个领导者的名单上没有女性，他需要解释原因。
+**中文理解**：如果一个领导者的名单上没有女性，他需要向经理、HR business partners、高管教练和组织发展团队解释原因。
 
-**句子结构**：If 引导条件从句，the leader is expected... 是主句，why 是 explain 的宾语从句。
+**句子结构**：If 引导条件从句，the leader is expected... 是主句，why 是 explain 的宾语从句，破折号后的 to... 列出接受解释的受众。
 
 **关键词**：no women / leader’s list / expected to explain / why
 

@@ -11,7 +11,7 @@ source_text: ch123_2_how_women_manage_the_gendered_norms_of.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 2 “How Women Manage the Gendered Norms of Leadership”
 - **作者**：Wei Zheng、Ronit Kark、Alyson Meister
 - **章节定位**：第六册第二篇正式文章；文章基于对 64 名 VP 以上女性领导者的访谈，提出 demanding/caring、authoritative/participative、advocating/serving、distance/approachable 四个 paradox，以及 adapt to situation、go in order、win-wins、soft on people、reframe 五种策略。
-- **字符数**：约 18,029 字符
+- **字符数**：约 9,799 字符
 - **一句话主旨**：女性领导者的 tough／nice double bind 不是个人能力不足，而是社会期待彼此冲突造成的 paradox；她们通过情境切换、先关系后要求、寻找 win-win、对任务强硬对人温和和 reframe 来管理张力。
 - **核心论点**：64 名高级女性领导者的案例显示，女性常被要求同时 demanding／caring、authoritative／participative、advocating／serving、distance／approachable。任何一侧过度都会损害领导效果。
 - **核心论点**：个人 strategies 能提高 effectiveness 和 resilience，但不能替代社会与组织系统改变。领导者的任务、关系和表达方式需要根据 audience 与情境设计，而不是寻找一个“正确性格”。

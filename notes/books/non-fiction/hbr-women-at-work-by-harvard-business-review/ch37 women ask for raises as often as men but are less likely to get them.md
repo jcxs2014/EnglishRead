@@ -10,7 +10,7 @@ source_text: ch42_14_women_ask_for_raises_as_often_as_men_.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 14 “Women Ask for Raises as Often as Men but Are Less Likely to Get Them”
 - **作者**：Benjamin Artz、Amanda Goodall、Andrew J. Oswald
 - **章节定位**：第二册第十四篇正式文章；文章使用澳大利亚 4,600 名员工、800 个工作场所的 matched survey，重新检验“女性不主动谈薪”的解释，发现女性同样会提出请求，但成功率较低。
-- **字符数**：约 7,032 字符
+- **字符数**：约 7,213 字符
 - **一句话主旨**：女性并不比男性更少提出加薪请求，差距更可能发生在请求得到回应、评估和结果分配的环节；研究要求把 asking behavior 与 getting outcome 分开，并警惕把“女性不问”当作默认解释。
 - **核心论点**：作者用控制背景因素、记录工作场所和动机的数据反驳“女性不问”的普遍叙事。女性提出加薪 15%、男性 20%，关系担忧在男女中都约 14%；研究结论不是女性要更努力请求，而是组织可能以不同标准对待相同请求。
 
@@ -51,7 +51,7 @@ source_text: ch42_14_women_ask_for_raises_as_often_as_men_.txt
 
 **中文理解**：我们研究的底线结论是，女性提出请求的次数和男性一样多。
 
-**句子结构**：主语 The bottom line of our study，be 后省略 is；that 从句是表语，women 和 men 是比较对象，do ask 是强调结构。
+**句子结构**：The bottom line is that... 是主系表结构，is 明确出现，that 从句说明底线内容；从句中的 women... 是主语，earn... 与 be passed over... 是两个结果。
 
 **关键词**：bottom line / women do ask / just as often as men
 
@@ -87,7 +87,7 @@ source_text: ch42_14_women_ask_for_raises_as_often_as_men_.txt
 
 **中文理解**：14% 的男性和 14% 的女性都说自己曾这样做。
 
-**句子结构**：主语 Both 14% of males and 14% of females，谓语 say，that 从句说明内容，this 回指前文“因为担心职场关系而不提出请求”。
+**句子结构**：主句是省略 that 的宾语/内容从句 say they have done this；they 是主语，have done 是谓语，this 指代前文提到的要求或谈判行为。
 
 **关键词**：Both 14% / males / females / say / done this
 

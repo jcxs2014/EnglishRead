@@ -10,7 +10,7 @@ source_text: ch44_16_negotiating_your_next_job.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 16 “Negotiating Your Next Job”
 - **作者**：Hannah Riley Bowles、Bobbi Thomason
 - **章节定位**：第二册第十六篇正式文章；文章把 career negotiation 从薪酬扩展到角色、发展、工作量和关系，并提出从目标、谈判类型、信息与关系四个步骤准备复杂职业谈判。
-- **字符数**：约 25,801 字符
+- **字符数**：约 20,434 字符
 - **一句话主旨**：职业谈判不只是争取 offer package，而是协商角色范围、发展机会、工作生活条件、组织资源和长期方向；先明确目标，区分 asking／bending／shaping，减少 what／how／with whom 的信息歧义，再通过关系和联盟增强方案。
 - **核心论点**：复杂职业谈判涉及多方、多轮和长期路径，不能只准备桌上的话术。谈判者要从最终目标倒推议题，分析对方利益和可谈判空间，广泛获取信息并用 shuttle diplomacy 建立支持，最终让职业结果与工作关系彼此增强。
 
@@ -39,7 +39,7 @@ source_text: ch44_16_negotiating_your_next_job.txt
 
 **中文理解**：当我们请专业人士描述职业谈判时，许多人首先想到的是与招聘经理就 offer package 讨价还价。
 
-**句子结构**：When we ask professionals... 是时间状语从句；主句 the first thing... is bargaining...，many people think of 是插入成分，with a hiring manager 和 over an offer package 说明对象。
+**句子结构**：When we ask professionals... 是时间状语从句；主句 the first thing... is bargaining...，many people think of 是修饰 the first thing 的省略关系结构，不是插入成分；with... 和 over... 说明对象。
 
 **关键词**：career negotiation / many people think of / bargaining / hiring manager / offer package
 
@@ -95,15 +95,15 @@ source_text: ch44_16_negotiating_your_next_job.txt
 
 **为什么这样写**：作者先交代案例广度，再给四步建议，使建议不只来自单一高管的偏好。它也为后续持续回访早期步骤提供研究基础。
 
-> **原句 6:** "In asking situations, you must demonstrate that your request or proposal is reasonable because it fits with existing practices or norms."
+> **原句 6:** "In asking situations, you must demonstrate that your request or proposal is reasonable because it fits with existing practices or norms—for example, a pay raise is warranted in light of an outside offer, or you deserve a promotion or a developmental opportunity because other employees with your track record or experience have received such rewards."
 
-**中文理解**：在 asking 型谈判中，你必须证明请求或提议是合理的，因为它符合既有实践或规范。
+**中文理解**：在 asking 型谈判中，你必须证明请求或提议合理，因为它符合既有实践或规范——例如，外部 offer 可以证明加薪合理，或同履历的员工已获得晋升/发展机会也能证明你应得这些奖励。
 
-**句子结构**：In asking situations 是场景状语；主句 you must demonstrate，that 从句是宾语；because it fits... 解释合理性的依据。
+**句子结构**：In asking situations 是场景状语；主句 you must demonstrate，that 从句是宾语；because 解释合理性的依据，破折号后的两个 for example 分句分别说明加薪和晋升／发展机会。
 
 **关键词**：asking situations / demonstrate / request or proposal / reasonable / existing practices / norms
 
-**表达方式**：because 把“合理”从主观品质改成符合规范，existing practices／norms 让 asking 有可比较的先例。
+**表达方式**：because 把合理性与组织先例连接，两个 for example 分支把抽象规范具体化为外部 offer 和同履历先例。
 
 **为什么这样写**：分类框架的第一类不是任意请求，而是说明为什么你的要求符合组织惯例。标准越清楚，越容易让对方支持。
 
@@ -131,15 +131,15 @@ source_text: ch44_16_negotiating_your_next_job.txt
 
 **为什么这样写**：谈判不仅是个人话术，也是信息制度问题。知道什么可谈、谁能谈、如何谈，才能减少被隐藏规则和偏见排除的风险。
 
-> **原句 9:** "To build a coalition of support for what you hope to do, you might start off by trying something akin to the shuttle diplomacy used by negotiators of international affairs."
+> **原句 9:** "To build a coalition of support for what you hope to do, you might start off by trying something akin to the shuttle diplomacy used by negotiators of international affairs: Make the rounds of key stakeholders, talking with them individually to solicit their feedback and input."
 
-**中文理解**：为了为希望做的事情建立支持联盟，你可以先尝试类似国际谈判者使用的 shuttle diplomacy。
+**中文理解**：为了为希望做的事建立支持联盟，你可以先尝试类似国际谈判者使用的穿梭外交：逐一走访关键利益相关者，分别交谈以征求反馈和意见。
 
-**句子结构**：To build... 是目的状语；主句 you might start off by trying...，akin to... 修饰 trying something，what you hope to do 是宾语从句。
+**句子结构**：To build... 是目的状语；主句 you might start off by trying...，akin to... 修饰 trying something，冒号后 Make the rounds... 是补充的祈使步骤，talking... 说明交谈目的。
 
 **关键词**：coalition of support / start off / shuttle diplomacy / negotiators of international affairs
 
-**表达方式**：build a coalition 把关系支持写成组织过程，akin to 将个人职业策略与国际谈判类比，shuttle diplomacy 用外交隐喻表现逐个沟通。
+**表达方式**：build a coalition 把关系支持写成组织过程，shuttle diplomacy 用外交隐喻表现逐个沟通，Make the rounds 和 individually 把方法具体化。
 
 **为什么这样写**：复杂提案往往需要多个 stakeholder 同意。文章建议先私下了解利益、担忧和反对意见，再把反馈整合进正式提案。
 

@@ -9,9 +9,9 @@ source_text: ch113_17_leaders_stop_denying_the_gender_inequ.txt
 ## 概览
 
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 17 “Leaders, Stop Denying the Gender Inequity in Your Organization”
-- **作者**：Michelle King
+- **作者**：主文 Michelle King；侧栏 Amy Diehl、Amber L. Stephenson、Leanne M. Dzubinski
 - **章节定位**：第五册第十七篇正式文章；文章批评只看 representation 和“add women and stir”的做法，说明 gender bias 在女性主导行业也持续存在，并提出 Disrupt Denial、Get to Know the Barriers、Manage the Moments 三步领导者行动。
-- **字符数**：约 14,904 字符
+- **字符数**：约 9,807 字符
 - **一句话主旨**：增加女性领导者不等于平等；领导者必须停止否认女性经历不同，识别 performance tax、role conflict、identity conflict 和 intersectional barriers，并把 equality 变成持续的日常行为、反馈和规范。
 - **核心论点**：King 的 72 人访谈显示，管理者常相信 workplace 是 meritocracy、男女机会和路径相同，从而把结构性障碍归咎于女性个人选择。否认使 leaders 看不见自己如何奖励、忽视或默许不平等。
 - **核心论点**：policy、quota 和 training 不会自动改变文化。真正重要的是领导者是否公开讨论 pay gap、motherhood penalty、microaggressions，是否对 informal behavior 给出直接反馈，以及是否把个人身份和多重交叉身份纳入 barrier analysis。
@@ -23,7 +23,7 @@ source_text: ch113_17_leaders_stop_denying_the_gender_inequ.txt
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
-| 72 名领导者的访谈 | 质性研究 | 说明 meritocracy denial 的普遍性 |
+| 两家组织的 72 名 senior executives 访谈 | 质性研究 | 说明 denial 在所访谈组织中反复出现 |
 | 1,606 名女性领导者的 Gender Bias Scale | 量化／质性研究 | 说明女性人数多仍不能消除 bias |
 | “add women and stir” 框架 | 概念类比 | 说明只加人数不改变 system |
 | performance tax／role conflict／identity conflict | 障碍框架 | 说明女性面对的多重成本 |
@@ -79,7 +79,7 @@ source_text: ch113_17_leaders_stop_denying_the_gender_inequ.txt
 
 **中文理解**：那么，为什么领导者没有创造这样的环境？一个词：否认。
 
-**句子结构**：So why... 是疑问句；In a word: denial 是省略主语的判断句，denial 作表语。
+**句子结构**：So why... 是疑问句；In a word, denial 是评述性状语加被突出的名词性片段，不能硬套正常主谓表结构。
 
 **关键词**：why aren’t leaders / creating these environments / In a word / denial
 

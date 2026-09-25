@@ -10,7 +10,7 @@ source_text: ch76_5_what_to_do_when_you_don_t_feel_valued_.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 5 “What to Do When You Don’t Feel Valued at Work”
 - **作者**：Rebecca Knight；文中含 Annie McKee、Karen Dillon 和 Anna Brockway 案例
 - **章节定位**：第四册第五篇正式文章；文章从 unseen and unheard 的感受出发，提出 realistic assessment、和老板谈、提高团队可见度、认可他人、自我验证和考虑离开等行动。
-- **字符数**：约 15,496 字符
+- **字符数**：约 8,798 字符
 - **一句话主旨**：感到不被看见时，不必立刻把问题归为个人失败或马上离职；先现实评估工作是否 extraordinary，再准备具体证据与老板谈、让团队贡献可见、主动认可他人、建立自我价值来源，最后判断环境是否值得留下。
 - **核心论点**：未被认可会威胁归属感和职业 advancement，但员工仍能影响可见度。McKee 与 Dillon 建议用 diplomatic ways to toot your own horn，Brockway 案例展示 transparent showcase 如何让 work 被看见；自我验证和离开则分别处理内部动力和环境边界。
 - **核心论点**：文章把 career visibility 看成沟通、关系和自我认知问题。认可不是夸张，而是以具体例子、团队 credit、真实支持和定期反思让贡献可被理解；若组织持续无视经过尝试的可见度策略，离开也是职业选择，而非失败。
@@ -42,7 +42,7 @@ source_text: ch76_5_what_to_do_when_you_don_t_feel_valued_.txt
 
 **中文理解**：在工作努力无人注意的地方辛苦劳作，一点也不有趣。
 
-**句子结构**：主句 It’s no fun to toil away，where your efforts go unnoticed 是定语从句修饰 job；toil away 是动名词短语。
+**句子结构**：主句 It’s no fun to toil away，where your efforts go unnoticed 是定语从句修饰 job；to toil away 是不定式／动词短语，不是动名词短语。
 
 **关键词**：no fun / toil away / efforts / go unnoticed
 
@@ -102,7 +102,7 @@ source_text: ch76_5_what_to_do_when_you_don_t_feel_valued_.txt
 
 **中文理解**：不要走进去说：“我想要更多认可。”
 
-**句子结构**：否定祈使句 Don’t go in saying，that 从句省略为直接引语，I want... 是引语内容。
+**句子结构**：否定祈使句 Don’t go in saying 后直接接引语 I want more appreciation；I want... 是 saying 的直接引语宾语，没有省略的 that 从句。
 
 **关键词**：Don’t go in / saying / want more appreciation
 
@@ -172,7 +172,7 @@ source_text: ch76_5_what_to_do_when_you_don_t_feel_valued_.txt
 | personal litmus test | 个人试金石测试 | "a “personal litmus test”" |
 | extraordinary | 非凡的 | "Was my work extraordinary?" |
 | over and above | 超出 | "over and above what my peers typically do" |
-| recognize | 认可 | "What to Do When You Don’t Feel Valued" |
+| recognize | 认可 | "Recognize others’ contributions" |
 | visible | 可见的 | "get my work to be more visible" |
 | spread credit | 分享功劳 | "spread, not hoard, credit" |
 | intrinsic motivator | 内在激励 | "Intrinsic motivators" |

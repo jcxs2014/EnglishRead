@@ -10,7 +10,7 @@ source_text: ch72_1_how_to_build_a_career_you_won_t_hate.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series），Chapter 1 “How to Build a Career You Won’t Hate”
 - **作者**：Michelle Gibbings；文中含 Art Markman 关于 burnout 的对话
 - **章节定位**：第四册第一篇正式文章；文章提出 career guide 的四步：识别 career traps、定义 purpose、写 unique selling statement、抓住扩展机会，并以 daily resilience 和 learning 支撑长期职业。
-- **字符数**：约 25,698 字符
+- **字符数**：约 20,020 字符
 - **一句话主旨**：职业不应只靠下一个职位、晋升或加薪来决定，而应以 career guide 审视自己正在重复的 traps、找到 purpose、证明独特价值并选择能扩展能力和网络的机会；burnout 也会威胁财务安全。
 - **核心论点**：Gibbings 认为 career guide 应 strategic、intentional、flexible。四步分别对应诊断（ambition／expectation／busyness／translation／adrenaline traps）、目的、技能表达和机会；学习不是额外任务，而是每天从他人、实验和 collective curriculum 中建立 resilience。
 - **核心论点**：文章把职业设计和心理健康、财务安全连接起来。burnout 可能让人无法工作、动用储蓄并中断退休计划；小而频繁的 restorative deposits 比一年两次长假更能保护 career resilience。建立 guide 的目的不是预测路线，而是不断根据 purpose、skills 和 network 重新选择。
@@ -209,19 +209,19 @@ source_text: ch72_1_how_to_build_a_career_you_won_t_hate.txt
 |----------|------|--------------|
 | work | 工作 | "at work" |
 | career | 职业 | "career" |
-| job | 工作 | "a new job" |
+| job | 工作 | "change jobs" |
 | role | 角色 | "new role" |
-| plan | 计划 | "a plan" |
+| plan | 计划 | "a well-thought-out plan" |
 | goal | 目标 | "where you should focus your energy" |
 | question | 问题 | "What matters to me?" |
 | time | 时间 | "spend time with" |
 | people | 人们 | "The people" |
-| result | 结果 | "results" |
+| result | 结果 | "outcomes" |
 | energy | 精力 | "energy and effort" |
 | health | 健康 | "poor health" |
 | savings | 储蓄 | "retirement and savings" |
 | money | 钱 | "financial risk" |
-| team | 团队 | "the team" |
+| team | 团队 | "As a team" |
 | help | 帮助 | "help you align your career" |
 | year | 年 | "Every year" |
 

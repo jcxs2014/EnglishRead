@@ -10,7 +10,7 @@ source_text: ch22_20_when_a_work_friendship_becomes_emotio.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 20 “When a Work Friendship Becomes Emotionally Draining”
 - **作者**：Amy Gallo
 - **章节定位**：第一册 networking 部分关于职场友谊边界的文章；文章结合 Susan David、Annie McKee 的建议和两个案例，解释如何识别消耗、调整互动而不必立即切断关系。
-- **字符数**：约 8,703 字符
+- **字符数**：约 10,649 字符
 - **一句话主旨**：共情是职场资产，但当倾听和帮助开始侵蚀工作表现时，问题通常不是对方单方面造成，而是关系模式需要被调整；通过自我反思、降低互动频率、缩小支持范围、重新强调专业关系和坚定边界，可以恢复平衡而不必牺牲友谊。
 - **核心论点**：情绪消耗的早期信号包括忽视工作、情绪过山车和只看到对方视角。有效处理不是把责任全推给朋友，也不是突然断绝，而是承认自己在关系中的角色，逐步改变沟通方式、把部分问题转介给别人，并在短期不适中守住边界。
 
@@ -74,7 +74,7 @@ source_text: ch22_20_when_a_work_friendship_becomes_emotio.txt
 
 > **原句 4:** "When you’re neglecting your work to tend to an office friend, it’s a sign that something needs to change."
 
-**中文理解**：当你为了照顾办公室朋友而 neglecting 工作时，这就是某种情况需要改变的信号。
+**中文理解**：当你为了照顾办公室朋友而忽视工作时，这就是某种情况需要改变的信号。
 
 **句子结构**：When you’re neglecting... 是时间状语从句，it’s a sign that... 是主句，that something needs to change 是同位语从句。
 

@@ -10,7 +10,7 @@ source_text: ch17_15_don_t_underestimate_the_power_of_wome.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 15 “Don’t Underestimate the Power of Women Supporting Each Other at Work”
 - **作者**：Anne Welsh McNulty
 - **章节定位**：第一册 networking 部分关于女性支持网络的文章；作者从个人经历和性别代表性数据出发，反驳女性竞争、沉默和“Queen Bee”叙事，主张在公司内部建立跨层级女性连接。
-- **字符数**：约 6,714 字符
+- **字符数**：约 8,093 字符
 - **一句话主旨**：女性支持彼此并非等待配额自动增加，而是通过午餐、开放沟通、分享经历和公开赞助来减少孤立、识别系统问题并改变“谁值得被看见”的组织文化；但这种互助必须与制度改革一起推进。
 - **核心论点**：女性常常被期待互相支持，却因竞争稀缺位置、害怕被视为不够专业或缺乏沟通而彼此隔离。作者以个人经历、代表性比例和 Queen Bee 研究说明，女性需要主动建立内部网络，并通过公开 sponsorship 让支持既保护个人，也改变组织的权力结构。
 
@@ -96,15 +96,15 @@ source_text: ch17_15_don_t_underestimate_the_power_of_wome.txt
 
 **为什么这样写**：这句是审计师故事的转折点：同一职级、同一批女性，因为客户团队分开而缺乏横向联系。它解释了为什么共同困境没有及时变成共同行动。
 
-> **原句 6:** "We expected our performance to be judged as objectively as our clients’ books, but we didn’t realize the need to band together until it was too late."
+> **原句 6:** "We expected our performance to be judged as objectively as our clients’ books, and we didn’t realize the need to band together until it was too late."
 
 **中文理解**：我们期待自己的表现会像客户的账簿一样被客观评判，但直到太晚才意识到需要联合起来。
 
-**句子结构**：主句 We expected...but we didn’t realize...，两个分句由 but 连接；as objectively as... 是比较结构，band together 是 realize 的宾语，until it was too late 是时间状语。
+**句子结构**：主句 We expected...and we didn’t realize...，两个分句由 and 连接；as objectively as... 是比较结构，the need to band together 是 realize 的宾语，to band together 修饰 need，until it was too late 是时间状语。
 
 **关键词**：expected our performance / judged as objectively / clients’ books / band together / until it was too late
 
-**表达方式**：clients’ books 为客观判断提供具体标准，but 把理性期待与迟来的团结并置。band together 用动作短语把 awareness 变成组织行动。
+**表达方式**：clients’ books 为客观判断提供具体标准，and 把理性期待与迟来的团结并置。band together 用动作短语把 awareness 变成组织行动。
 
 **为什么这样写**：作者指出女性并非不愿互助，而是把孤立误认为个人问题。只有横向交流让她们看见相似经历，才可能从 individually dealing 转向 collective action。
 

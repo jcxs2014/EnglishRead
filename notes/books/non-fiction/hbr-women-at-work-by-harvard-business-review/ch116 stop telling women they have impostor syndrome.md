@@ -11,7 +11,7 @@ source_text: ch137_16_stop_telling_women_they_have_impostor.txt
 - **出处**：*You, the Leader*（HBR Women at Work series），Chapter 16 “Stop Telling Women They Have Impostor Syndrome”
 - **作者**：Ruchika Tulshyan、Jodi-Ann Burey
 - **章节定位**：第六册第十六篇正式文章；文章以 Talisa Lavarry 的职场经历为入口，重新审视 impostor syndrome 的个人化叙事，指出 systemic racism、gender bias、exclusion 和 confidence double standard 才是需要修复的环境。
-- **字符数**：约 15,976 字符
+- **字符数**：约 10,486 字符
 - **一句话主旨**：女性的自我怀疑不能自动归因于 impostor syndrome；在被贬低、排除和缺少归属的环境中，真正的问题是系统如何把偏见误写成个人缺陷。
 - **核心论点**：Lavarry 的 expertise 被政治和 bullying 侵蚀，最终怀疑自己并险些自杀；作者强调这源于反复面对 systemic racism 和 bias，而非 confidence 不足。
 - **核心论点**：impostor syndrome 原本研究高成就女性，却排除了 women of color、不同阶层和职业背景；今天的 label 把 discomfort、second-guessing 和 anxiety 个体化，忽略历史、文化和权力结构。
@@ -56,7 +56,7 @@ source_text: ch137_16_stop_telling_women_they_have_impostor.txt
 
 **中文理解**：如今，Lavarry 回想当时陷入的 impostor syndrome，知道阻碍她的并不是缺乏自信。
 
-**句子结构**：`when...reflects on...` 时间从句，主句 she knows...，it wasn’t a lack... 是表语从句。
+**句子结构**：when...reflects on... 是时间从句，主句 she knows...；it wasn’t a lack... 是 knows 后省略 that 的宾语/内容从句。
 
 **关键词**：reflects on / fell prey to / wasn’t a lack of self-confidence / held her back
 

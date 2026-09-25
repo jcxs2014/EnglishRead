@@ -10,7 +10,7 @@ source_text: ch16_14_make_yourself_sponsor_worthy.txt
 - **出处**：*Making Real Connections*（HBR Women at Work Series），Chapter 14 “Make Yourself Sponsor-Worthy”
 - **作者**：Sylvia Ann Hewlett
 - **章节定位**：第一册 networking 部分关于 sponsorship 的第三篇文章；文章用 Maggie、Sian McIntyre、Tiger Tyagarajan 和金融业高潜女性的案例，说明如何通过 performance、loyalty、差异化能力、个人品牌和主动展示成果来吸引 sponsor。
-- **字符数**：约 4,352 字符
+- **字符数**：约 5,253 字符
 - **一句话主旨**：辛勤工作本身不会自动带来 sponsor；候选人必须先证明稳定交付和忠诚，再以互补技能扩大 sponsor 的能力边界，并让他人知道自己的成果，才能从“permanent lieutenant”走向被视为 emerging leader。
 - **核心论点**：成为 sponsor-worthy 不是一味讨好，而是建立一套可被他人观察、转述和承担风险的证据：performance 证明你能交付，loyalty 证明你可信且会在必要时提出异议，独特价值让 sponsor 愿意扩展影响力，主动分享成功则让这些价值进入决策者的视野。
 
@@ -73,7 +73,7 @@ source_text: ch16_14_make_yourself_sponsor_worthy.txt
 
 > **原句 4:** "Rather than hoping for a lucky break, focus your energies by making yourself sponsor-worthy."
 
-**中文理解**：与其等待好运_break，不如把精力用来让自己成为值得被 sponsor 的人。
+**中文理解**：与其等待意外的好运或转机，不如把精力用来让自己成为值得被 sponsor 的人。
 
 **句子结构**：Rather than hoping for a lucky break 是 instead of 的替代结构，focus your energies 是祈使句主干，by making... 说明方式。
 
@@ -101,7 +101,7 @@ source_text: ch16_14_make_yourself_sponsor_worthy.txt
 
 **句子结构**：主语 Loyalty，manifests in 是系表结构；冒号后三个名词短语由逗号并列，earned through... 修饰 trust，commitment 和 allegiance 与 trust 平行。
 
-**关键词**：Loyalty manifests / trust earned / dedicated work ethic / shared mission / allegiance to the firm
+**关键词**：Loyalty manifests / trust that’s earned / dedicated work ethic / shared mission / allegiance to the firm
 
 **表达方式**：manifests 把忠诚从内心状态改成可见表现，三个名词短语分别覆盖行为、目标和组织归属。through repeated demonstration 说明信任需要时间累积。
 

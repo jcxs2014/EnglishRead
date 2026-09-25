@@ -11,7 +11,7 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 - **出处**：*Thriving in a Male-Dominated Workplace*（HBR Women at Work series），Chapter 14 “How to React to Incidents of Bias at Work”
 - **作者**：Judith Honesty、David Maxfield、Joseph Grenny
 - **章节定位**：第五册第十四篇正式文章；文章区分 overt／unconscious bias，使用 permanent、pervasive、uncontrollable 三个 helplessness 维度，并提出 responding not reacting、Know your goal、State your take、Make it safe 和 C.P.R. 工具。
-- **字符数**：约 19,998 字符
+- **字符数**：约 9,251 字符
 - **一句话主旨**：面对职场的微小偏见，受害者不必独自承受或立即贴上 bigot 标签；先辨认 content、pattern、relationship 层级，明确目标，陈述事实并让对方安全，才能把无法言说的 bias 转成可处理的对话与组织行动。
 - **核心论点**：bias 可能是 shocking，也可能是“Wait, what just happened?”的细微瞬间。后者难以识别、描述和改变，且受害者往往担心被称为 playing the diversity card，因此需要沟通和制度支持。
 - **核心论点**：个人回应不能替代文化改变；组织必须追踪 bias 的 challenging goals、识别 crucial moments、组合 diverse solutions。个人则用 C.P.R.、事实陈述和安全对话减少即时伤害。
@@ -74,7 +74,7 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 
 **表达方式**：isn’t just... and It’s that... 把问题从经历本身推进到不可讨论的沉默，undiscussable 命名结构性障碍。
 
-**为什么这样写**：这一句来自 ch74，但同样适合本章的 emotional toll：bias 的影响不是一次性事件。
+**为什么这样写**：这一句在当前章节的 source 中，同样适合本章的 emotional toll：bias 的影响不是一次性事件。
 
 > **原句 4:** “Bias’s sometimes slippery nature also makes it difficult to eradicate in the workplace.”
 
@@ -104,9 +104,9 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 
 **中文理解**：永久性。
 
-**句子结构**：这是由三个维度构成的列表项，Permanent 是名词性标签，句号表示该项目独立。
+**句子结构**：这是三个 helplessness 维度中的列表项，Permanent 是形容词性标签，句号表示项目独立。
 
-**关键词**：Permanent / enduring / happens regularly
+**关键词**：Permanent
 
 **表达方式**：单个形容词／名词作为标题，简洁有力，配套数据随后解释其含义。
 
@@ -116,9 +116,9 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 
 **中文理解**：普遍性。
 
-**句子结构**：同样是三维度列表项，Pervasive 是名词性概括。
+**句子结构**：同样是三维度列表项，Pervasive 是形容词性标签／维度片段。
 
-**关键词**：Pervasive / impacts all aspects / engagement / morale
+**关键词**：Pervasive / engagement / morale
 
 **表达方式**：单词标题压缩复杂影响，all aspects 在解释中展开范围。
 
@@ -128,9 +128,9 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 
 **中文理解**：不可控性。
 
-**句子结构**：三维度列表的最后一项，Uncontrollable 为名词性概括。
+**句子结构**：三维度列表的最后一项，Uncontrollable 是形容词性标签／维度片段。
 
-**关键词**：Uncontrollable / could not master / prevent from recurring
+**关键词**：Uncontrollable
 
 **表达方式**：单词标题与前两项平行，could not / prevent 说明无力感的两个方向。
 
@@ -142,7 +142,7 @@ source_text: ch110_14_how_to_react_to_incidents_of_bias_at_.txt
 
 **句子结构**：祈使句 Use，宾语是缩写 C.P.R.；后文 Content、Pattern、Relationship 是三个展开项。
 
-**关键词**：C.P.R. / Content / Pattern / Relationship
+**关键词**：C.P.R.
 
 **表达方式**：三个首字母把复杂回应压缩为可记忆工具，后续列表分别定义。
 

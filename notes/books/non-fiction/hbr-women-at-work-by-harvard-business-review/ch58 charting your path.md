@@ -10,10 +10,10 @@ source_text: ch71_introduction_charting_your_path.txt
 - **出处**：*Taking Charge of Your Career*（HBR Women at Work series）导言
 - **作者**：Amy Bernstein
 - **章节定位**：第四册导言；作者以临近 50 岁时对无方向职业路径的反思为起点，介绍 career questions、自我倡导、支持网络和应对生活 detours 的全书框架。
-- **字符数**：约 5,365 字符
+- **字符数**：约 6,399 字符
 - **一句话主旨**：职业满足感不来自随机等待下一个有趣工作，而来自主动识别 priorities、给自己 permissions、建立 support network、学习并接受变化；女性尤其要把职业 steering 从他人手中拿回来。
 - **核心论点**：导言从“没有计划地换工作”转向在迷失时选择目标和路线，再把全书分为 turning points、self-advocacy、support team、change and uncertainty 四部分。职业不是一张固定 roadmap，而是在 detour、identity transition 和 support 关系中持续导航。
-- **核心论点**：作者将职业自主拆成四个相互连接的动作：想清楚无障碍时想要什么、允许自己成为可能的人、盘点 mentors／sponsors／mentees 等支持、接受照护和职业转折。作者强调“steer your career”不是个人主义，而是对职业影响力和长期意义的主动负责。
+- **核心论点**：作者将职业自主拆成四个相互连接的动作：想清楚无障碍时想要什么、允许自己成为可能的人、盘点 mentors／sponsors／mentees 等支持、学习新知识和技能；照护与职业转折另列为后续主题。作者强调“steer your career”不是个人主义，而是对职业影响力和长期意义的主动负责。
 
 ## 论证结构
 
@@ -53,7 +53,7 @@ source_text: ch71_introduction_charting_your_path.txt
 
 **中文理解**：我职业生涯的大部分时间都没有职业计划。
 
-**句子结构**：时间状语 For most of my career，完整形式为 for the most part of my career；主语 I，谓语 had，宾语 no career plan。
+**句子结构**：For most of my career 是表示职业生涯中大部分时间的完整时间状语；主句 I，谓语 had，宾语 no career plan。
 
 **关键词**：most of my career / no career plan
 

@@ -10,7 +10,7 @@ source_text: ch29_1_how_women_can_get_what_they_want_in_a_.txt
 - **出处**：*Next-Level Negotiating*（HBR Women at Work Series），Chapter 1 “How Women Can Get What They Want in a Negotiation”
 - **作者**：Suzanne de Janasz、Beth Cabrera
 - **章节定位**：第二册第一篇正式文章；文章结合性别谈判研究、案例和正念／积极情绪研究，提出准备、积极情绪、情绪智力、共同体谈判和 package negotiating 五项策略。
-- **字符数**：约 8,626 字符
+- **字符数**：约 10,266 字符
 - **一句话主旨**：女性不谈判往往源于把过程理解为麻烦、缺乏数据、害怕被讨厌或认为需求必须以个人对抗形式提出；充分准备、积极情绪、情绪觉察、I-we 重构和总报酬 package 能让女性更有信心、更少付出社会成本地争取自身需要。
 - **核心论点**：谈判效果不只由个人技巧决定，也受性别期待、情绪状态、问题框架和文化差异影响。女性可以通过准备获得替代方案和数据，用积极情绪扩大合作选项，用 mindfulness 降低情绪反应，再把个人要求重构为群体、公司或共同事业的目标，从而实现结果与关系的双赢。
 
@@ -21,7 +21,7 @@ source_text: ch29_1_how_women_can_get_what_they_want_in_a_.txt
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|---------|
-| 20% 女性从不谈判，起薪差距可达数万美元至百万美元 | 调查／经济数据 | 说明不谈判的机会成本 |
+| 20% 女性从不谈判；首年平均少 7,000 美元，45 年职业生涯损失 65 万至 100 万美元 | 调查／经济数据 | 说明不谈判的机会成本 |
 | 球赛与看牙医的隐喻差异 | 心理学案例 | 说明性别期待进入谈判情绪 |
 | Tara 收集 Glassdoor 数据并计划说服解释 | 案例 | 说明准备提升价值和信心 |
 | 积极情绪增加合作、创造性和灵活思考 | 实证研究 | 支撑积极情绪策略 |
@@ -148,7 +148,7 @@ source_text: ch29_1_how_women_can_get_what_they_want_in_a_.txt
 
 **中文理解：** 当只有一个议题时，谈判更容易被视为赢者／输者式的对抗。
 
-**句子结构：** 主句 When there is one issue 是时间状语从句，the negotiation is more likely to be seen as adversarial 是主语系表被动结构；冒号后 win or lose 解释 adversarial 的二元框架。
+**句子结构：** 主句 When there is one issue 是时间状语从句，the negotiation is more likely to be seen as adversarial 中 be seen as... 是被动结构；冒号后 win or lose 解释 adversarial 的二元框架。
 
 **关键词：** one issue / seen as adversarial / win or lose
 
