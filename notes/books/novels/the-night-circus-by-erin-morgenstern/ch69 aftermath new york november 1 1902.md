@@ -7,7 +7,7 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Bailey进入空荡荡的马戏团，发现篝火熄灭、地面焦黑；Tsukiko告知他Celeste"可能撑不了多久"；他被引向"野兽与奇异生物"帐篷——这是最终对决的入口。
+- **一句话概括**：Bailey进入空荡荡的马戏团，发现篝火熄灭、地面焦黑；Tsukiko告知他Celia"可能撑不了多久"；他被引向"野兽与奇异生物"帐篷——这是最终对决的入口。
 - **情感弧线位置**：高潮前的准备，马戏团的终局即将到来
 - **Tropes 兑现/反转**：篝火熄灭（Bonfire Extinguished）——这个永不熄灭的火焰熄灭了，象征竞技的终结；引路人（Guide）——Tsukiko作为非生者的使者
 - **人物弧线**：Bailey从"追寻者"变成"被引导至最终命运的人"；Tsukiko以" emissary"身份出现
@@ -33,7 +33,7 @@ modified: "2026-09-25"
 
 **关键词**：she will be able to hold on much longer
 
-**为什么这样写**：Tsukiko暗示Celeste的状态——"她"指Celeste，她可能正在死亡或已经死了；这是全章最沉重的预告。
+**为什么这样写**：Tsukiko暗示Celia的状态——"她"指Celia，她可能正在死亡或已经死了；这是全章最沉重的预告。
 
 ---
 
@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：Miss Bowen's doing / without that precaution / more extensive damage
 
-**为什么这样写**：Celeste在爆炸前用魔法保护了帐篷——但她自己可能因此受伤或耗尽了力量；这是她的最后行动：保护马戏团而非保护自己。
+**为什么这样写**：Celia在爆炸前用魔法保护了帐篷——但她自己可能因此受伤或耗尽了力量；这是她的最后行动：保护马戏团而非保护自己。
 
 ---
 
@@ -77,7 +77,7 @@ modified: "2026-09-25"
 
 **关键词**：only an emissary / act as convoy to escort you to a meeting / only living person / what has transpired / Your questions are better saved for someone else
 
-**为什么这样写**：Tsukiko的角色定位——她是"唯一活着的知情者"（因为她是前任参赛者，已经"死"过一次）；她带Bailey去见"someone else"——很可能是Celeste或她的灵魂。
+**为什么这样写**：Tsukiko的角色定位——她是"唯一活着的知情者"（因为她是前任参赛者，已经"死"过一次）；她带Bailey去见"someone else"——很可能是Celia或她的灵魂。
 
 ---
 
