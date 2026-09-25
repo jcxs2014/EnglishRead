@@ -846,3 +846,35 @@
 - 状态：未 push；精读开工待用户指令（建议首章试产：Until August / The Morningside / Nexus / Big Little Lies 任选）
 
 ---
+
+### [2026-09-25 20:10 UTC] [Opencode-Mac] → All
+
+**books: Forgotten Sisters（Cynthia Pelayo）全书精读完工 —— 32 章 + 总览三篇**
+
+- 目录：`notes/books/mystery-thriller/forgotten-sisters-by-cynthia-pelayo/`
+- 体裁：哥特恐怖 + 连环凶案双线（侦探／灵异），按 AGENTS.md **推理/悬疑/奇幻精简格式**（四子项），用户已验收
+- 规模：32 个正文 md（Prologue + Chapter 1–31，与 text/ 1:1 零偏移）+ 总览三篇；**249 个引语块、533 条词条、25 句金句、10 个情感节点**
+- **12 个 commit**：`a5270c58`（ch01 试产，用户验收）→ `120c26ae` → `53ddbfeb` → `9f993924` → `e8b59e8d` → `5f0c0325` → `e814b107` → `1c9f9e5e` → `3f7f6830` → `ddc28334` → `391208e3`（正文 32/32）→ `62d46994`（总览三篇）
+- **状态：未 push**（等用户指令）；**独立五步审查未由用户发起，未自动执行**
+
+**完工门禁原始数字（全部现场重跑）**
+- `verify_quotes` **263/263（100%）**，完全干净文件 33/33；全书 11 条 <20 flat 字符短引语已逐条人工 grep 兜底并命中当章（ch09:207 / ch12:99 / ch19×3 / ch20 / ch24 / ch25 / ch30 / ch32）
+- `check_vocab` 词条行合计 533，**FAIL (0) / WARN (0)**
+- `check_entities` **0** 个文件存在未知实体
+- `check_chapter_quotes`（逐章口径）每批 8/8、8/8、8/8、8/8、8/8、8/8、8/8、8/8、7/7+1短、8/8、8/8、8/8、7/7+1短、8/8、4/4+1短 —— 累计 249 块，零跨章搬句
+- `verify_overview_quotes` 金句 **24/24**（另 13 条英文短引语经自建 `inline_check` 全串 flat 命中全书）
+- 自建 `overview_check`：全串 **MISS 0 / 章节标签错位 0 / H1 语义 3/3**；`inline_check` MISS 0；`chapref_check` PASS
+- 漏提交检测：目标目录 **tracked=35**、未提交文件 0；全书 mojibake 0
+
+**过程缺陷统计（写作层，非门禁层）—— 内联 Gate 与整串 sweep 的价值**
+- 章节层抓到 6 处真缺陷：ch10 跨叙述标签拼接、ch22 块 1 漏写 `it's` 中的 `s`、ch22 块 5 跨标签拼接、ch26 原句 8 句首 `But`→`And`、ch30 原句 1 漏定冠词 `the`、ch31 原句 7 跨标签拼接；另有 ch19 `Trition`→`Triton`、ch20 `Jenny`→`Jennie` 两处专名错，由 `check_entities` 首度在本书报警
+- **4 处漏字全部由整串 flat sweep 抓出，`verify_quotes` 与 `check_chapter_quotes` 双双全绿** —— 再次实证 52 字符指纹盲区（ch22 `see it's that` / ch26 `But`→`And` / ch30 `the story`）
+- **总览层抓到 9 处**：金句 ⑤ 章节标签错标 ch13→ch06、金句 ⑪ 虚构「四个穿紧身胸衣的十六岁女孩」（ch31 无 four/sixteen）、金句 ⑫ 把 Anna 播客原话误归 Ursula、11 处跨章回指章号错位、概述称 Bobby 私人创伤在 ch03（ch03 全文 0 次 Bobby/Robert，实为 ch07）、情感节点 6 处省略号拼接引语、概述误标系列信息、概述视角倒转章号错、全书「第 N 章」统一改写为 chNN
+
+**工具链沉淀（两条已写进脚本注释）**
+1. `verify_quotes.py` 的引号剥离 `endswith` 元组**实测只含 ASCII 直引号**，U+201C/U+201D 不在其中 → 以弯引号收尾的引语**也会**被 m2 截断；`selfcheck.py` 原口径含弯引号，漏报 3 条短引语，已按工具实际字节逐字对齐
+2. 跨章回指用「第 N 章」会与 md 文件号混用产生整类 off-by-one —— 本书总览统一改用 `chNN` 文件号；`chapref_check.py` 只认「同行内、章号在引语之前」的引用模式
+
+**新沉淀工具**（`scripts/attic/`，gitignored）：`overview_check.py`（总览全串 + 章节标签对账 + H1 语义）、`inline_check.py`（行内英文引语与短引语兜底，中文引号内容按 ASCII 占比 ≥60% 排除）、`chapref_check.py`（跨章回指落地）、`selfcheck.py`（结构/关键词锚定/整串 sweep/短引语/占位行）
+
+---
