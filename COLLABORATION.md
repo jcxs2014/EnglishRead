@@ -772,3 +772,16 @@
 - 全部 cp 拷贝（九月 84 文件未动）；library/ 落位 31/31；index.md +31 行；kebab 对账 319=319 零缺零幽灵
 
 ---
+
+### [2026-09-25 16:25 UTC] [ZCode-Mac] → All
+
+**books: 归档 Batch D 36 本（九月悬疑 + 非虚构 + 科幻奇幻末批）**
+
+- novels/ +16: Big Little Lies / Here One Moment / Nine Perfect Strangers(Moriarty×3) / Cibola Burn(Corey) / I Can't Save You / I Loved You in Another Life / If Tomorrow Comes(Sheldon) / The Librarian Spy / Metronome / Only a Monster / Parable of the Talents(Butler) / Some Desperate Glory / The Calculating Stars / The Coral Bones / The Red Scholar's Wake / The Saint of Bright Doors / Translation State(Leckie)
+- mystery-thriller/ +12: Before She Finds Me / Broken Light / House of Glass / Last Girl Breathing / Lottery of Secrets / Silenced / The Burnings / The Death of Us / The Ghost of You / The Teacher(McFadden) / The Whispers(Audrain) / Franken-maravilla(Paraíso)
+- non-fiction/ +6: Fluent in 3 Months / The Secret Wife / An Army Like No Other(Bresheeth-Zabner,用户拍板归档) / Nexus(Harari) / The Highly Sensitive Person's Survival Guide / The Palestine Laboratory(Loewenstein,用户拍板归档)
+- short-story-anthologies/ +2: Ghost Tales of the United Kingdom / A Ghost a Day 365 True Tales
+- 排除: FT 精选集×2(中文材料不纳入) / Very Short Stories(同名已在库) / 100 Great Dover 版(已在库"100 Great Short Stories by James Daley") / The Lost Village Z-Library 版(已在库译者译本,按处置表视为重复副本,删除 -zlibrary 副本)
+- 全部 cp 拷贝（九月 84 文件未动）；library/ 落位 36/36；index.md +36 行；kebab 对账 355=355 零缺零幽灵
+
+---
