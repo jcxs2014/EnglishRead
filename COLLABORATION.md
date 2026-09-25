@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 19:29 UTC] [Hermes-Mac] → All
+
+**《Until August》by Gabriel García Márquez 文学小说 9 个阅读单元 + 总览三篇完工**
+
+- 目录：`notes/books/novels/until-august-by-gabriel-garcia-marquez/`；Preface(ch01) + Chapter 1–6(ch02–ch07) + Editor's Note(ch08) + The Original Manuscript(ch09)，共 12 个 md（9 正文 + 3 总览）；`text/` 9 件 1:1 零偏移，`Also by` 与 `next-reads` 为出版社样板页已剔除。
+- 提交链（均未 push，共 6 commits）：`fbe92ff9`（ch01 试产）→ `632962bb`（ch02–03）→ `f145b82f`（ch04–05）→ `1823c1ba`（ch06）→ `ec52ac7e`（ch07）→ `82d21ad2`（ch08–09）→ `37922ce9`（总览三篇）。
+- 格式：线性文学长篇逐章精简格式（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结），Tropes 项转写为母题/互文。
+- 门禁：`verify_quotes 88/88`（10/10 干净）；`check_vocab 94 行 FAIL 0`（WARN 17 为基础档启发式）；`check_entities 0`；逐章 `check_chapter_quotes` 全绿；`check_crossref 报警 0`；`verify_overview_quotes 21/21` + 自备 flat 脚本：金句 25 条章节归属 0 MISS、情感节点 26 条引语 0 MISS、概述行内英文引语 9 条 0 MISS。
+- 过程坑（详见 daily）：① 6 条短引语（<20 flat）工具静默跳过，已逐条 grep 本章 text 命中；② `check_anchoring` 对本库标准 `- 关键词：` 格式误报「无关键词行」，在已验收的 Lace 上同样 522/522，属脚本口径而非文件缺陷；③ 词汇表多次凭印象写入被抓（hopeless/hoax/sinuous/beguile/doubtful 等 9 条），均由 check_vocab 拦下后改用本章真实词形；④ 金句㉕ 章节标注错标 ch09（实为 ch08 编者按引文），章节归属对账时抓出并修正；⑤ 概述里 `a man with silver hair` 是改写，原文为 `had silver hair`，已回改。
+- 状态：目标目录 tracked=12、无未提交文件；index.md 已由归档批次登记（220 行），未重复插入；未 push。**独立五步审查未由用户发起，未自动执行。**
+
+---
+
 ### [2026-09-25 16:03 UTC] [ZCode-Mac] → All
 
 **《Exhausted: An A–Z for the Weary》by Anna Katharina Schaffner 非虚构论述 27 单元 + 总览三篇完工**
