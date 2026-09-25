@@ -159,6 +159,7 @@ modified: "2026-09-25"
 | incongruence | 不协调、不相称 | the incongruence of smelling her and knowing her to be gone |
 | cold-shouldering | 冷肩而过 | my door-slamming, cold-shouldering, silent mass of a mother |
 | bottleneck | 瓶颈 | Bottlenecked. |
+| rummaging | 翻找 | on her hands and knees inside the closet, rummaging through the old backpack |
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
@@ -171,7 +172,6 @@ modified: "2026-09-25"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| rummaging | 翻找 | on her hands and knees inside the closet, rummaging through the old backpack |
 | curb | 路沿 | My mother sat on the curb. |
 
 ## 一句话总结
