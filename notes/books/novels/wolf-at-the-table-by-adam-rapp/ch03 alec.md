@@ -90,7 +90,7 @@ Duke 有一个儿子这件事让 Alec 震惊到他必须克制自己坐到地上
 
 热度终于稍微降了一些，巴士穿过 Utica 那些朴素的社区，朝 Interstate 90 方向颠簸前行。
 
-**关键词**：heat finally lifted / modest neighborhoods / toward Interstate 90
+**关键词**：heat has finally lifted / modest neighborhoods / toward Interstate 90
 
 **为什么这样写**：`finally` 让旅程像是熬过一段停滞后的重新启动；`modest` 与 `Interstate 90` 并置，把低收入社区和高速方向并置，显示 Alec 正从旧的狭窄生活驶向更大的、但同样无保障的空间。
 

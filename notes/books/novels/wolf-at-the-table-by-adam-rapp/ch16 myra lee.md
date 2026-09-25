@@ -50,7 +50,7 @@ Myra 已经成了自己的生化实验。
 
 Ronan 和 Henny 的血统交融产生了一个漂亮的铜色皮肤男孩：他有一头桃色的卷发和一双不同寻常、充满探问意味的眼睛，那双眼睛超自然般地在绿茶色和完全的银白色之间转换。
 
-**关键词**：mingling of blood / inquisitive eyes / preternaturally shift
+**关键词**：mingling of Ronan and Henny’s blood / inquisitive eyes / preternaturally shift
 
 **为什么这样写**：颜色和身体细节把血统写成可见的混合，`inquisitive` 又让 Bruce 的眼睛不只是遗传标记，而是观察世界的方式。`preternaturally` 把颜色的变化推到日常经验之外，既美化孩子，也隐约让读者联想到 Ronan 自己对异常感知的家族经验。
 
@@ -76,13 +76,13 @@ Ronan 和 Henny 的血统交融产生了一个漂亮的铜色皮肤男孩：他�
 
 **读者视角提示**：Ronan 的“像父亲”并不意味着复制 Denny，而是他在母亲面前提供了 Denny 没能持续提供的陪伴；这层差异正是本章对父子关系的重新定义。
 
-> **原句 7:** She can feel the shape of each pill forging its path down the muscles of her throat, three soft descending rectangles. The poetry of medicine.
+> **原句 7:** She can feel the shape of each pill forging its path down the muscles of her throat, three soft descending rectangles. … The poetry of medicine.
 
 她能感觉每一粒药沿着喉咙的肌肉向下移动，像三个柔软的下降矩形。药物的诗意。
 
 **关键词**：shape of each pill / forging its path / descending rectangles / poetry of medicine
 
-**为什么这样写**：`forging` 让吞咽带上制造和定形的重量，`descending rectangles` 则把药片变成有几何形状的微小下行物。紧接着的 `poetry` 把科学、疼痛和安慰混在一起，说明药物既不是奇迹，也不是纯粹化学，而被她体验成一种短暂抵达平静的方式。
+**为什么这样写**：`forging` 让吞咽带上制造和定形的重量，`descending rectangles` 则把药片变成有几何形状的微小下行物。中间省略的叙述之后，`poetry` 把科学、疼痛和安慰混在一起，说明药物既不是奇迹，也不是纯粹化学，而被她体验成一种短暂抵达平静的方式。
 
 **读者视角提示**：这几句不能被读成对死亡的浪漫化；它们首先是一个正在经历身体衰退的人对药效的感知，也是 Ronan 陪伴她完成的最后行动。
 

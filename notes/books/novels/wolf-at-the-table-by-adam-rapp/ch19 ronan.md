@@ -10,7 +10,7 @@ source_text: ch19
 
 - **一句话概括**：多年以后，Ronan 在洛杉矶观看十一岁的儿子 Bruce 打垒球；男孩把天空看成凝固的血和兔子，让 Ronan 面对疾病与家族历史可能的遗传阴影，同时坚定自己不会成为父亲那样缺席的人。
 - **情感弧线位置**：儿子击球的纯真兴奋—比赛中突然停步的惊吓—父子谈论异常视觉的担忧—Ronan 独处时回忆母亲、Alec 和 Denny—在跑道与家族云影中重新确认父亲身份。
-- **Tropes 兑现/反转**：孩子拥有超常感官、父亲担心遗传疾病的家庭焦虑被具体化；Ronan 并没有通过“治好儿子”或否认异常来获得安心，而是把责任转化为持续在场。
+- **Tropes 兑现/反转**：孩子出现异常视觉，父母担心这是否与 Ronan 自身的精神疾病史有关；章节不作诊断，也不把 Bruce 写成拥有已确认的“超常感官”， Ronan 则把责任转化为持续在场。
 - **人物弧线**：Ronan 已从被幻觉追逐的年轻剧作家成为能承担家庭和创作责任的父亲；他对 Bruce 的异常既害怕又保护，拒绝让恐惧把自己变成孩子生命中的“幽灵”。
 - **叙事手法**：第三人称限知视角；棒球场的突然静止、餐桌的科学解释、后院冥想和大学跑道的时间跳跃彼此呼应。结尾把家庭成员放进云中，再用“奔跑”把过去、现在和未来压进同一幅画面。
 
@@ -78,7 +78,7 @@ Ronan 被一种确定性攫住：他绝不会在儿子的生活中变得遥远�
 
 > **原句 7:** As he jogs the curve of the track before starting another sprint, his mother’s family, all those Larkins from life and from photographs—Aunt Lexy, Aunt Joan, Aunt Fiona, Uncle Alec, his mother, Grandpa Donald, and Grandma Ava—appear in the clouds, their figures as faint as faded tea stains.
 
-当他沿着跑道弯道慢跑、准备开始另一次冲刺时，他的母亲家族——那些来自生活和照片中的 Larkin 家人——Lexy、Joan、Fiona、Alec、母亲、父亲 Donald 和祖母 Ava——出现在云里，身影像褪色的茶渍一样淡。
+当他沿着跑道弯道慢跑、准备开始另一次冲刺时，他的母亲家族——那些来自生活和照片中的 Larkin 家人——Lexy、Joan、Fiona、Alec、母亲、外公 Donald 和祖母 Ava——出现在云里，身影像褪色的茶渍一样淡。
 
 **关键词**：curve of the track / another sprint / from life and from photographs / faded tea stains
 

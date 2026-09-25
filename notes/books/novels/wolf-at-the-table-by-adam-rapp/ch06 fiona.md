@@ -32,7 +32,7 @@ source_text: ch06
 
 **关键词**：in the classic sense / seasons / truer than the news
 
-**为什么这样写**：小写复数 `we` 把时间观改写为共同体共享的尺度。`Weather is truer than the news` 把自然节律与政治新闻对置，暗示 Farm 不靠公共叙事，而靠可触摸的劳动和季节判断生活。
+**为什么这样写**：第一人称复数 `we` 把时间观改写为共同体共享的尺度。`Weather is truer than the news` 把自然节律与政治新闻对置，暗示 Farm 不靠公共叙事，而靠可触摸的劳动和季节判断生活。
 
 **读者视角提示**：这句话不是简单反科技或反城市，而是在建立一个替代时间表；后面农业、互助和社区规则都从这种尺度中展开。
 

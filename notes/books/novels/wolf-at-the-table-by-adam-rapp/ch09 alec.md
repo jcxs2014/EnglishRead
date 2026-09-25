@@ -11,7 +11,7 @@ source_text: ch09
 - **一句话概括**：四十一岁的 Alec 在俄亥俄河边遇见十三岁的 Grady，用荒诞的 drumfish 幸运故事和他约定周一再见；回到破败 houseboat 后，他在孤独、酒精和自毁冲动中等待一个孩子兑现承诺。
 - **情感弧线位置**：孤独低谷—短暂连接—再次封闭—低至自杀幻象；在人与人的微小约定里出现一点温度，但 Alec 无法让温度转化为稳定的生活。
 - **Tropes 兑现/反转**：落魄成年人与迷路少年、幸运护符、寻找父亲式导师等套路被改写成不稳定的镜像；Alec 能给 Grady 讲一个故事，却不能为自己承担未来。
-- **人物弧线**：Alec 从自给自足的流浪者变成愿意分享食物、烟草和迷信的陪伴者；他短暂承认“有人会来”，回屋后却用钱、威士忌和孤独重新把自己封闭起来。
+- **人物弧线**：Alec 从自给自足的流浪者变成愿意分享十美元买饵、鼓鱼传说和保密约定的陪伴者；他短暂承认“有人会来”，回屋后却面对空酒瓶、卖血换钱的压力与孤独。
 - **叙事手法**：第三人称限知视角；河边对话与 houseboat 内部独白交替，鼓鱼、石子、烟、火柴和河道形成一套寓言化生存系统。
 
 ## 精读
@@ -22,13 +22,13 @@ source_text: ch09
 
 **关键词**：smell especially rank / warm trout / left in the sun
 
-**为什么这样写**：`rank` 在这里同时有气味恶臭和腐败变质的含义；`warm trout` 把腐败写成可感知的温度和重量。河岸不是风景，而是尸体、污水和无人清理的残留物。
+**为什么这样写**：`rank` 在这里同时有气味恶臭和腐败变质的含义；`warm trout` 把腐败写成可感知的温度和重量。河岸不是风景，而是腐败、无人清理的残留物。
 
 **读者视角提示**：开篇先把地点写成不适合居住的身体空间，Alec 坐在这里并非浪漫漂泊，而是被贫困、酒精和卫生问题包围。
 
 > **原句 2:** If you catch one with the first letter of your first name on it, it’ll bring you good luck for the rest of your life.
 
-如果你抓到一颗、石头上的字母和自己名字首字母相同，它就会给你余生的好运。
+如果你抓到一条鼓鱼，石头上的字母和自己名字首字母相同，它就会给你余生的好运。
 
 **关键词**：first letter of your first name / bring you good luck / rest of your life
 
@@ -82,7 +82,7 @@ source_text: ch09
 
 **关键词**：Monday / moldering, floating cabin / I’ll be waiting for you
 
-**为什么这样写**：请求从对孩子说的一句话变成对空墙的重复，`Please` 的叠加把愿望削弱成无力哀求。`moldering, floating cabin` 同时对应物理住所和心理状态；`I’ll be waiting` 则把等待变成一种没有对象的被动。
+**为什么这样写**：请求从对孩子说的一句话变成对空墙的重复，`Please` 的叠加把愿望削弱成无力哀求。`moldering, floating cabin` 同时对应物理住所和心理状态；`I’ll be waiting` 则把约定转成他无法掌控 Grady 是否赴约的被动等待。
 
 **读者视角提示**：本章没有证明 Grady 一定会来。结尾把希望留在约定上，Alec 仍必须独自面对黑夜、债务和自毁冲动。
 

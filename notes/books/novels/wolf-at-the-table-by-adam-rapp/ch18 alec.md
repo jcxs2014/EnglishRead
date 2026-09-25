@@ -42,7 +42,7 @@ source_text: ch18
 
 **关键词**：final hours / feel primitive / doomed Bible character / jackals
 
-**为什么这样写**：`primitive` 和 `primordial` 将返乡旅行改写成宗教寓言，`vultures`、`jackals` 则把死亡想象成一群等待猎物的动物。连续的 `as if` 让夸张成为 Alec 自我导演的舞台语言，他不是单纯回到 Elmira，而是在扮演一个注定受难的版本自己。
+**为什么这样写**：`primitive` 和 `primordial` 将返乡旅行改写成宗教寓言，`vultures`、`jackals` 则把死亡想象成一群等待猎物的动物。这一处 `as if` 加上随后层层递进的动物意象，让夸张成为 Alec 自我导演的舞台语言；他不只是回到 Elmira，而是在扮演一个注定受难的版本自己。
 
 **读者视角提示**：这套宗教意象可能既是求救也是自我惩罚。分析时要区分 Alec 借来的叙事声音和叙述者对他是否真有救赎意愿的判断。
 

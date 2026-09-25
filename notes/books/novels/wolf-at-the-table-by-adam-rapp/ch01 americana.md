@@ -34,7 +34,7 @@ source_text: ch01
 
 **为什么这样写**：`full-throated` 把鸟鸣写成身体性的、几乎用尽全力的声音；`fruit-laden` 用复合形容词压缩“果实压满枝头”的画面，让自然显得丰饶、成熟、充满生命。
 
-**读者视角提示**：与下一段以 `But when` 开始的突变相比，这里越明亮，后面的“sea of night”就越具有侵入性。
+**读者视角提示**：与接下来的 `Shiny cars line the streets` 以及随后以 `But when` 开始的突变相比，这里越明亮，后面的“sea of night”就越具有侵入性。
 
 > **原句 3:** But when the sea of night rolls in from the east to cover the continent, over the foothills and factories and the deep rivers overflowing with rain,
 
@@ -44,7 +44,7 @@ source_text: ch01
 
 **为什么这样写**：`sea of night` 把夜色扩大成有体积、有运动方向的海；`rolls in` 让抽象黑暗获得潮水般的持续压力。随后从山麓、工厂到深河，空间尺度不断放大，说明灾难不是局部的天气，而是席卷整个社会的洪水。
 
-**读者视角提示**：单个 `But` 突然截断前两段的田园安稳；“from the east”还让读者意识到威胁有明确方向，并非只是抽象的黑暗。
+**读者视角提示**：前置的三个明亮意象（房屋、鸟鸣和汽车）之后，单个 `But` 突然截断田园安稳；“from the east”还让读者意识到威胁有明确方向，并非只是抽象的黑暗。
 
 > **原句 4:** the men and women sitting in hot rooms with tightly drawn drapes turn off their televisions and pull down the sheets and lie side by side in silence,
 

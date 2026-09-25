@@ -8,7 +8,7 @@ source_text: ch13
 
 ## 本章导航
 
-- **一句话概括**：五十四岁的 Alec 在 Tunica 赌场接近十六岁的 Jermaine，以 Donkey Kong、Mickey Mantle 卡片和“成为朋友”的承诺把他带进自己的房子；当男孩赢得比赛后，Alec 迅速结束游戏并实施伤害性控制。
+- **一句话概括**：五十四岁的 Alec 在 Tunica 赌场接近十四岁的 Jermaine（Alec 初看以为他至多十六岁），以 Donkey Kong、Mickey Mantle 卡片和“成为朋友”的承诺把他带进自己的房子；当男孩赢得比赛后，Alec 迅速结束游戏并实施伤害性控制。
 - **情感弧线位置**：陪伴与操控的升温—竞争游戏中的短暂兴奋—过去的循环记忆插入—结尾的冷静反转；Alec 把“朋友关系”包装成奖品，实际把男孩引向自己早已重复的伤害模式。
 - **Tropes 兑现/反转**：坏叔叔、送礼和共同冒险的表面亲密被反转成控制与诱骗；“游戏得分”不是简单竞争，而是 Alec 用来测试、延迟和占有孩子的框架。
 - **人物弧线**：Alec 呈现出照顾、幽默、慷慨与熟悉的谈吐，但这些品质没有改变他对男孩的控制欲； Teddy 记忆说明他把自己的羞耻和童年受害经验复制到下一代。
@@ -32,7 +32,7 @@ Alec 和男孩达成的协议是：如果男孩打破他的最高分，就把那
 
 **关键词**：Nothing / pleasure of your company / plenty good
 
-**为什么这样写**：`Nothing` 先压低男孩应得的回报，`pleasure of your company` 却把陪伴夸大成奖赏。`plenty good` 语气轻松，像临时起意的慷慨，实际掩盖了男孩没有真正选择的关系。
+**为什么这样写**：`Nothing` 先压低男孩应得的回报，`pleasure of your company` 却把陪伴夸大成奖赏。`plenty good` 语气轻松，把预先设计的整晚游戏包装成无偿陪伴；Jermaine 明知交换条件后主动同意，但他的选择仍被高额奖品和成人承诺牵引。
 
 **读者视角提示**：Alec 把控制说成慷慨，把占有说成陪伴；分析时不能只把这看成古怪的大人幽默。
 
@@ -46,7 +46,7 @@ Alec 和男孩达成的协议是：如果男孩打破他的最高分，就把那
 
 **读者视角提示**：Alec 反复把“将来”当作现在的筹码；他不需要当下承认任何东西，只要让孩子相信未来会带来回报。
 
-> **原句 4:** “So, you, like, work for yourself?” “That’s right,” Alec says. “I’m my own boss.”
+> **原句 4:** “So you, like, work for yourself?” “That’s right,” Alec says. “I’m my own boss.”
 
 “所以，你是自己工作？”男孩问。“没错，”Alec 说，“我是我自己的老板。”
 
@@ -66,15 +66,15 @@ Alec 和男孩达成的协议是：如果男孩打破他的最高分，就把那
 
 **读者视角提示**：这句话与前文“给你卡片”的奖励形成连续话术；读者要同时看表面的鼓励和背后的控制。
 
-> **原句 6:** Alec was overwhelmed by a feeling of shame so profound that he felt his only choice was to make it disappear.
+> **原句 6:** Alec was overwhelmed by a feeling of shame so profound that he felt his only choice was to make it disappear, to somehow reverse its hold on him, to clear out the gunk thickening his blood.
 
-Alec 被一种深重的羞耻感淹没，以至于他觉得唯一的选择就是让它消失。
+Alec 被一种深重的羞耻感淹没，以至于他觉得唯一的选择就是让它消失、扭转它对自己的控制，并清除体内越来越稠的浊物。
 
 **关键词**：overwhelmed / shame so profound / make it disappear
 
-**为什么这样写**：`so profound` 把羞耻写成有重量、足以压倒行动的力量；`make it disappear` 不是处理羞耻，而是消除见证和后果。随后他把伤害行为想成“让男孩睡着”，显示羞耻如何被改写成对他人身体的控制。
+**为什么这样写**：`so profound` 把羞耻写成有重量、足以压倒行动的力量；`make it disappear` 和 `reverse its hold on him` 让 Alec 想要摆脱的是羞耻对身体的控制，而不是消除某个见证。随后他把这个闪回中的伤害行为想成“让男孩睡着”，显示羞耻如何被改写成对他人的控制。
 
-**读者视角提示**：这是创伤循环的关键心理节点，但不能把受害经历变成对 Alec 的辩护；原文明确让他把自己的行动重新命名为安静的结束。
+**读者视角提示**：这是 1982 年 Teddy 闪回中的心理节点，不是当前 Jermaine 场景的直接动作；原文随后把伤害行为重新命名为让男孩睡着，不能把受害经历变成对 Alec 的辩护。
 
 > **原句 7:** But the rag doused with chloroform is already over the boy’s face, and not even a minute later, after a brief struggle, the boy is rendered silent and his body goes limp.
 
