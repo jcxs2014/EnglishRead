@@ -55,7 +55,7 @@ source_text: ch32
 
 - 中文理解：如果你爱我，你就得完全照我说的做。你不服从，我以后就再也不会见你。
 - 关键词：If you love me / exactly as I say / You'll obey me or — 爱被写成服从的前提。
-- 为什么这样写：`If you love me` 把爱设成条件，`exactly` 留不出商量余地；两个分句用同一个 `You` 开头，命令的语气比内容更重。
+- 为什么这样写：`If you love me` 把爱设成条件，`exactly` 留不出商量余地；两个分句用同四个 `You` 开头，命令的语气比内容更重。
 - 读者视角提示：这一句和上一章 Kate 对医生说的"难道你没有精神疾病"是同一种句式——用最关心的话，把最不该有的权力交出去。
 
 > **原句 7:** "Of course, kitten," he said soothingly, and he bent to kiss her wet cheek, with no intention of ever seeing her again."

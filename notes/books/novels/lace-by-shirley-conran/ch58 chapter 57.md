@@ -48,7 +48,7 @@ source_text: ch58
 
 - 中文理解："这永远行不通，对不对？"她喊道。"我不断被提醒我哪里配不上你，可你有没有意识到，有一个重要的理由是我配不上你的？"
 - 关键词：This is never going to work / the reasons that I am wrong for you / there is a major reason why you are wrong for me — 一个对称的反问。
-- 为什么这样写：句子用 `wrong for you` 和 `wrong for me` 做一次完美的对调；`major reason` 三个词把"他不够格"和"她不够格"放上天平两端。
+- 为什么这样写：句子用 `wrong for you` 和 `wrong for me` 做一次完美的对调；`major reason` 这个说法把"他不够格"和"她不够格"放上天平两端。
 - 读者视角提示：这是全书最重要的一次论证反转——她用他那套"找不到理由"的推演方式，反过来审他。
 
 > **原句 6:** "The problem is, Abdi, that you can't trust anybody—not even me—and you can't love someone if you don't trust her."

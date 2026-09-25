@@ -35,7 +35,7 @@ source_text: ch31
 - 中文理解：他不能吃盐，因为身体不能积水；他要吃利尿剂，好让自己不停上厕所，一天到晚进进出出厕所。他还必须戒烟。但真正可怕的是不能有性生活。
 - 关键词：retain fluid / diuretic pills / But the really awful thing is no sex — 清单、体面的转折和 `But`。
 - 为什么这样写：一串 `He isn't supposed to`、`He's also had to` 把婚姻写成医嘱；`But the really awful thing` 用一个转折把整张清单作废。
-- 读者视角提示：读者刚被训练成理解医学术语，`no sex` 三个词就把刚建立起来的平衡掀翻。
+- 读者视角提示：读者刚被训练成理解医学术语，`no sex` 这个最坏的结论就把刚建立起来的平衡掀翻。
 
 > **原句 4:** "As soon as Christopher had left for the laboratory I used to set the alarm clock for four p.m., then grab the cooking sherry and sip until I passed out or was sick."
 
@@ -62,7 +62,7 @@ source_text: ch31
 
 - 中文理解："哦，我结婚前刚猜到的，"他说，"每天晚上我回家，你嘴上的漱口水味没有别的解释，所以我在酒瓶上做了记号——不是酒柜里的那些，我知道你太狡猾，不会去动那些。"
 - 关键词：I guessed just before we were married / the reek of mouthwash / too crafty to take those — 早已知道、证据和看穿。
-- 为什么这样写：`marked the bottles` 是全章最狠的一个动作——他量过她一次酒的实际用量；`too crafty` 四个字带着宠溺，也说明他早就把她看透了。
+- 为什么这样写：`marked the bottles` 是全章最狠的一个动作——他量过她一次酒的实际用量；`too crafty` 这句俏皮话带着宠溺，也说明他早就把她看透了。
 - 读者视角提示：她以为自己一直在隐瞒，其实整段婚姻都建在一个被默许的谎上；他等的不是坦白，是她愿意把这件事当成可以被谈论的事。
 
 > **原句 8:** "Guilt is the most useless bit of baggage. You don't want to clutter your head with it. It can't do any good and it only makes you feel awful."

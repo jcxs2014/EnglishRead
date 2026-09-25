@@ -28,7 +28,7 @@ source_text: ch61
 - 中文理解："不，Pagan 不是你母亲，"她说。"是我。"
 - 关键词：Pagan isn't your mother / I am — 一句否定加两个词。
 - 为什么这样写：整章最重的转折只用了两个短句；`I am` 后面连一个词都没有，让它悬在空气里。
-- 读者视角提示：读者应该在这一刻和 Lili 同时失去所有别的可能性——她刚刚还跪下来问 Pagan。
+- 读者视角提示：读者应该在这一刻和 Lili 同时失去所有别的可能性——她刚刚还蹲到 Pagan 面前，问她是不是自己的亲生母亲。
 
 > **原句 3:** "Why didn't you keep your child?" Lili cried. She sprang up, beating her fists against her thighs in impotent rage.
 
@@ -47,16 +47,16 @@ source_text: ch61
 > **原句 5:** "Any one of us might have been your mother, and so we decided that we would all be responsible for you. In a way you had three godmothers, Kate, Maxine and me. We all wanted you, we all worried about you, we all hoped for you and we all loved you."
 
 - 中文理解：她们中有任何一个人都可能是你的母亲，所以我们决定由我们四个人一起负责。某种意义上，你有三位教母——Kate、Maxine 和我。我们都想要你，都担心你，都希望你，都爱你。
-- 关键词：we decided that we would all be responsible / you had three godmothers / We all wanted you... we all loved you — 三个 `we all`。
-- 为什么这样写：四个 `We all` 排成一段合唱，把一句辩护写成了四个人的共同宣言；`godmothers` 三个词把一次抛弃重新命名为一次收养。
+- 关键词：we decided that we would all be responsible / you had three godmothers / We all wanted you... we all loved you — 四个 `we all`。
+- 为什么这样写：四个 `we all` 排成一段合唱，把一句辩护写成了四个人的共同宣言；`godmothers` 这个词把一次抛弃重新命名为一次收养。
 - 读者视角提示：读者应该在这一刻明白，为什么这四个人此后一生都互相当作家人。
 
 > **原句 6:** "We visited every single camp. We checked every single list, we talked to everyone we could and we checked every child we saw. But nobody had any news of Elizabeth Dassin."
 
 - 中文理解：她们走遍了每一个营地，核对了每一份名单，找遍了能找的人，看过了每一个孩子。可是没有一个人听说过 Elizabeth Dassin 的消息。
-- 关键词：every single camp / every single list / we checked every child we saw — 三个 `every single`。
-- 为什么这样写：三个 `every single` 把一个月的寻找压成一段不肯停的机械动作；`But nobody had any news` 是全书唯一一次"彻底做完却一无所获"的句式。
-- 读者视角提示：读者应该在这里明白，她们没有抛弃她——她们是在找她之后才决定不再找的。
+- 关键词：every single camp / every single list / we checked every child we saw — 两个 `every single`。
+- 为什么这样写：两个 `every single` 把寻找压成一段不肯停的机械动作；`But nobody had any news` 是全书唯一一次"彻底做完却一无所获"的句式。
+- 读者视角提示：读者应该在这里明白，她们没有抛弃她；她们曾在边境四处寻找她，后来收到官方消息，误以为她已经死亡。
 
 > **原句 7:** "In that case, why didn't you look for me after the revolution?" cried Lili.
 
@@ -69,7 +69,7 @@ source_text: ch61
 
 - 中文理解："既然这样，"Lili 说，"那我父亲是谁？"
 - 关键词：In that case / who is my father — 一句收束和一个新问题。
-- 为什么这样写：全章最后一句只换了问的对象，句式几乎照抄前一句；`my father` 三个字轻得像随口一问，可它才是这一章真正的引爆点。
+- 为什么这样写：全章最后一句只换了问的对象，句式几乎照抄前一句；`my father` 这两个字轻得像随口一问，可它才是这一章真正的引爆点。
 - 读者视角提示：读者应该在这一行上立刻明白——这四个人愿意认下孩子，却未必愿意认下男人。
 
 ## 本章词汇

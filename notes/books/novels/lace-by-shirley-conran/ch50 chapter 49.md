@@ -20,7 +20,7 @@ source_text: ch50
 
 - 中文理解："看在天分上，你也是其中之一啊！"Kate 叫道。"现在是 1970 年，沉睡的公主正在醒来。她有自己的工作、自己的钱，她可以自己定规矩、自己过生活。"
 - 关键词：you're one of them / the Sleeping Princess is waking up / her own job, her own money — 一个童话和三项清单。
-- 为什么这样写：Kate 用一句玩笑把 Judy 归进运动内部，化解了她的抵触；`the Sleeping Princess` 把整个女性处境写成一个童话，而后面三个 `her own` 一项项拆解"自己的"这三个字。
+- 为什么这样写：Kate 用一句玩笑把 Judy 归进运动内部，化解了她的抵触；`the Sleeping Princess` 把整个女性处境写成一个童话，而后面四个 `her own` 一项项拆解"自己的"这三个字。
 - 读者视角提示：读者应该在这一刻意识到，Kate 谈的其实不是女性解放，是她自己的三个朋友。
 
 > **原句 2:** "No magazine is doing that; there's a clear gap in the market."
@@ -62,7 +62,7 @@ source_text: ch50
 
 - 中文理解：要是没有 Judy 推她一把，她大概会是个不幸的离婚女人，在 Harrods 花钱花得太过头。
 - 关键词：Without Judy to push her / an unhappy divorcée / spending too much at Harrods — 一个 `without` 和三个并列。
-- 为什么这样写：句子把 Kate 的整个人生压缩成三个症状，全部是可被购物的；`Harrods` 三个字母让这份判决听起来体面而廉价。
+- 为什么这样写：句子把 Kate 的整个人生压缩成三个症状，全部是可被购物的；一个高级百货公司的名字让这份判决听起来体面而廉价。
 - 读者视角提示：接下来同样是"没有 Kate，Pagan 会……"——这段互评其实是全书对友情最吝啬也最准确的定义。
 
 > **原句 8:** "Alone, their frailties might have overwhelmed them. Together, they had strength and speed and style—which is what VERVE! was going to push as hard as it could."

@@ -33,7 +33,7 @@ source_text: ch37
 > **原句 3:** "Then take your hands off me. If you're really serious, you're the one man I'll never go to bed with."
 
 - 中文理解："那就把你的手拿开。如果你是认真的，你就是我这辈子绝不会上床的那个男人。"
-- 关键词：take your hands off me / you're the one man I'll never go to bed with — 两个 `you` 的对照。
+- 关键词：take your hands off me / you're the one man I'll never go to bed with — 三个 `you` 的对照。
 - 为什么这样写：`If you're really serious` 承认了他的认真，`never` 才落得下分量；整句把拒绝写成了一种奖赏。
 - 读者视角提示：她把性换成了生意，而对方真的接了这个换法——Tom 下一句就说出了他的报价。
 
@@ -46,8 +46,8 @@ source_text: ch37
 
 > **原句 5:** "How about Local American Creative Enterprise?"
 
-- 中文理解："叫'美国本地创意企业'怎么样？""太长了。""那用首字母就不长了。""L-A-C-E。 neat。"
-- 关键词：Local American Creative Enterprise / L-A-C-E / Neat — 三个步骤。
+- 中文理解："叫'美国本地创意企业'怎么样？"——他把四个字的公司名当作一个提议抛出来。
+- 关键词：Local American Creative Enterprise / How about — 一问一答的公司命名。
 - 为什么这样写：作者让角色在对话里把这个书名拼出来，还让他自己评价" neat"；这段荒诞正是全书的题眼。
 - 读者视角提示：公司在她手里第一次成了别人的名字，而她当时还不知道公司会叫什么。
 
@@ -68,7 +68,7 @@ source_text: ch37
 > **原句 8:** "It was a ridiculously simple idea. And because of that, it worked brilliantly."
 
 - 中文理解：这是个简单得可笑的想法。也正因为如此，它运作得极其成功。
-- 关键词：a ridiculously simple idea / because of that / it worked brilliantly — 两个 `that` 构成的因果。
+- 关键词：a ridiculously simple idea / because of that / it worked brilliantly — 一个 `that` 构成的因果。
 - 为什么这样写：`ridiculously` 和 `brilliantly` 一褒一贬，落在同一件事上；作者用两句把前面所有关于性格、运气和男人的讨论全部跳过。
 - 读者视角提示：这一句同样可以概括这本书——四段最简单的关系，被写成了一部畅销书。
 

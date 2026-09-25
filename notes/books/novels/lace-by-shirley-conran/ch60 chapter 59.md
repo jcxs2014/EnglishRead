@@ -21,14 +21,14 @@ source_text: ch60
 - 中文理解：我想这件事不会消失，直到我知道我的父母是谁。虽然我拼命想知道，可与此同时，我又害怕真的知道。
 - 关键词：until I know who my parents are / I desperately long to know / I'm frightened of finding out — 两个 `know`。
 - 为什么这样写：句子的前后两半用 `although` 和 `at the same time` 两次转折锁住，让"渴望"和"恐惧"指向同一个动作。
-- 读者视角提示：读者应该在这里明白，她二十多年来所有的摇摆——酗酒、被包养、跟着国王跑——都挂在这一个她不敢执行的问号上。
+- 读者视角提示：读者应该在这里明白，她二十多年来所有不敢深究的摇摆，都挂在这一个她既渴望又害怕的问号上。
 
 > **原句 2:** "A man has only to say something in a reassuringly avuncular voice and you think he's Santa Claus; you'll sign any paper he puts before you. But Santa Claus doesn't exist, so stop looking for him, Lili."
 
 - 中文理解：男人只要用一种让人安心的叔叔般的口气说句话，你就会以为他是圣诞老人；他会递给你任何文件，你都会签。可圣诞老人并不存在，所以别再找了，Lili。
-- 关键词：a reassuringly avuncular voice / you think he's Santa Claus / Santa Claus doesn't exist, so stop looking for him — 三个 `Santa Claus`。
+- 关键词：a reassuringly avuncular voice / you think he's Santa Claus / Santa Claus doesn't exist, so stop looking for him — 两个 `Santa Claus`。
 - 为什么这样写：句子把一个童年神话当成了一整套识别骗局的程序；`But` 之后那句把整段比喻拆掉，剩下的只有一句实用的建议。
-- 读者视角提示：读者应该在这里想起她十三岁那年被人用"我可以保护你"说过的那句话——Simon 正在替她把那个程序反着写一遍。
+- 读者视角提示：读者应该在这里明白，Simon 指出的是她最容易把陌生男性想象成安全的保护者，因此对方一用安抚的口气说话，她就会不加审查地签字。
 
 > **原句 3:** "It looked as if Lili had not been abandoned for pathetic and forgivable reasons by a humble peasant woman. It looked as if Lili had been dumped by some rich little bitch who'd been unable to get an abortion."
 
@@ -41,21 +41,21 @@ source_text: ch60
 
 - 中文理解："不！"Lili 一下从椅子上跳起来。她的脸被炉火烤得通红，深色的头发乱成一团。
 - 关键词：No! / sprang to her feet / disheveled — 一个词和一个动作。
-- 为什么这样写：全章最短的一次拒绝，和她上一次对 Zimmer 说"我不想见人"时的句式正好相反；破折号之后的两个细节，把一个高贵决定写成了狼狈模样。
-- 读者视角提示：读者应该在这里明白——她拒绝的不是真相，是"从她们四个人嘴里听到的真相"。
+- 为什么这样写：全章最短的一次拒绝，和她上一次对 Zimmer 说"我不想见人"时的句式正好相反；随后关于脸色和头发的两个细节，把一个高贵决定写成了狼狈模样。
+- 读者视角提示：读者应该在这里明白——她当场拒绝的并不是真相本身，而是不愿由这四个人来交出真相；她真正不肯面对的是"从她们四个人嘴里听到的真相"。
 
 > **原句 5:** "I would like you to let me have a dossier on all four of them."
 
 - 中文理解："我希望你把她们四个人的档案都给我。"
-- 关键词：let me have a dossier on all four of them / I will decide what to do — 两句都用命令口气。
-- 为什么这样写：她用了 `let me have` 这个说法，把请求变成了取件；紧接着那句 `I will decide what to do` 表明她已经从被动等待转为主动出击。
+- 关键词：let me have a dossier on all four of them——把请求变成主动索取材料的命令。
+- 为什么这样写：`let me have` 把请求变成了取件式的主动要求；这个措辞表明她已经从被动等待转为主动索取材料。
 - 读者视角提示：读者应该在这里意识到，她要的不是答案，是材料——她准备自己审问。
 
 > **原句 6:** "the only chance she had of finding out the truth was to confront them together, to surprise or shock them into telling the truth."
 
 - 中文理解：她推断出，自己查明真相的唯一机会，就是把她们一起叫来，用惊讶或震动逼她们说出真相。
 - 关键词：the only chance she had / confront them together / to surprise or shock them — 三层递进。
-- 为什么这样写：`to confront` 和 `to surprise` 用了两个不定式并列，节奏冷得像一份计划；`together` 三个字母，说明她已经算清了四个人单独不会开口。
+- 为什么这样写：`to confront` 和 `to surprise` 用了两个不定式并列，节奏冷得像一份计划；`together` 一词说明她已经算清了四个人单独不会开口。
 - 读者视角提示：读者应该在这里意识到，她准备做的事，正是第 44 章 royal garden party 那一幕的反面。
 
 > **原句 7:** "If our Emily Post exists, all four of the women we have tracked down will know about her."
@@ -63,14 +63,14 @@ source_text: ch60
 - 中文理解："如果我们那位 Emily Post 真的存在，那么我们已经查到的这四位女士一定都知道她。"
 - 关键词：If our Emily Post exists / all four of the women we have tracked down / will know about her — 一个条件句。
 - 为什么这样写：侦探用一句假设就跳过了四个女人的名字；`all four of the women we have tracked down` 这个长定语把四个人捆成了一个整体。
-- 读者视角提示：读者应该在这里明白，他其实已经替她选好了答案，只是她还不知道。
+- 读者视角提示：读者应该在这里明白，他只是把调查范围缩小到这四个人，并没有替她选定唯一的母亲。
 
 > **原句 8:** "She hoped it was Pagan, since she had never clashed with her."
 
 - 中文理解：她希望是 Pagan，因为她从来没有和她起过冲突。
 - 关键词：She hoped it was Pagan / since she had never clashed with her — 一个理由。
-- 为什么这样写：句子把整整三十年的等待，压缩成一个"因为没吵过架"的判断；`clashed` 这个词带着上一章的橙子树和耳光。
-- 读者视角提示：读者应该在这里听见她的逻辑——她挑母亲的标准，和她挑男人的标准是同一套。
+- 为什么这样写：句子把二十九年的等待压缩成一个"因为没吵过架"的判断；`clashed` 让人想到更早的 Chapter 54——Maxine 与 Lili 在橘园里的冲突和随之而来的耳光。
+- 读者视角提示：读者应该在这里听见她的逻辑——她挑母亲的标准，和她挑男人的标准是同一套：先看对方给不给自己地位。
 
 ## 本章词汇
 

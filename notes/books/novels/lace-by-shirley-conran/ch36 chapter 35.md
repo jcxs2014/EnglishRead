@@ -20,7 +20,7 @@ source_text: ch36
 
 - 中文理解：Kate 的母亲找到他的时候，他已经死了。
 - 关键词：He was dead / when Kate's mother found him — 状态与发现者的错位。
-- 为什么这样写：句子把死讯交给最不该先知道的人；`was dead` 用完成时态，说明这件事在他摔倒的那一刻就已经结束了，跟谁发现无关。
+- 为什么这样写：句子把死讯交给最不该先知道的人；`was dead` 用简单过去时直接呈现他已经死亡的状态，说明母亲发现时一切早已结束。
 - 读者视角提示：Kate 哭了整整一周却说不清为什么——她恨过他，也正是这个恨让她没法把父亲当成纯粹的受害者。
 
 > **原句 2:** "It's as if I were a schoolgirl again!"
@@ -63,7 +63,7 @@ source_text: ch36
 - 中文理解：Toby 皱着眉看了看自己米色的麂皮靴，很和气地说，他真的不认为 Kate 有那份天分。
 - 关键词：quite kindly / he didn't really think Kate had what it took — 善意的壳与判断的内容。
 - 为什么这样写：`quite kindly` 让读者先放松，再被 `had what it took` 一击；`what it took` 故意不说清楚是什么天分，模糊反而更伤人。
-- 读者视角提示：这句话同时否定了她想学画的念头和她本人，而她当时穿的是他讨厌的那双靴子。
+- 读者视角提示：这句话同时否定了她想学画的念头和她本人；而他皱着眉看的，是他自己脚上那双米色麂皮靴。
 
 > **原句 8:** "She proceeded to spend a fortune on telegrams and was as anxious as any worried mother during Pagan's brief and dizzy courtship."
 

@@ -19,7 +19,7 @@ source_text: ch49
 > **原句 1:** "Jo was cremated three days ago," he said quietly.
 
 - 中文理解："Jo 三天前已经火化了，"他轻声说。
-- 关键词：Jo was cremated / three days ago / he said quietly — 一个时态、一个时间和三个副词。
+- 关键词：Jo was cremated / three days ago / he said quietly — 一个被动时态、一个时间短语和一个副词。
 - 为什么这样写：`quietly` 让这句话几乎不像通知；`three days ago` 这个时间差意味着她已经被镇静了三天而毫不知情，读者会立刻算出她失去的是什么。
 - 读者视角提示：她还不知道自己没有权利知道——"火化"这个手续之所以能办完，靠的是她刚签下的那叠纸。
 
@@ -34,7 +34,7 @@ source_text: ch49
 
 - 中文理解："不过先办几道手续。您不介意先签个字吧？"
 - 关键词：a couple of formalities / would you mind signing this, please — 一个轻描淡写的名词和一句客气的请求。
-- 为什么这样写：`a couple of` 明明是七八页纸；`would you mind` 把正在发生的事包装成打扰；整句没有一个词提到这些文件是什么。
+- 为什么这样写：`a couple of` 把连续多份文件轻描淡写地说成几道手续；`would you mind` 把正在发生的事包装成打扰；整句没有一个词提到这些文件是什么。
 - 读者视角提示：这是全书对"同意"这两个字最冷的一次使用——签字的人此刻连自己签的是什么都不知道。
 
 > **原句 4:** "What pictures?" he asked softly.
@@ -49,13 +49,13 @@ source_text: ch49
 - 中文理解：保险箱深处有一点微光。她用食指把它勾出来——那是她手链上的一枚挂饰，一艘"密涅瓦号"游艇的微缩复制品。
 - 关键词：a small gleam of gold / a charm from her bracelet / a miniature copy of the Minerva — 三层缩小。
 - 为什么这样写：唯一留下的东西不能变卖、不能变现，却带着那晚的整段记忆；`miniature copy` 这个词把一艘能横渡大西洋的船缩成一枚扣子，恰好就是她此刻的位置。
-- 读者视角提示：这是全书最含蓄的一次告别——他留给她的不是钱，是他最后抱过她的那个东西的复制品。
+- 读者视角提示：这是全书最含蓄的一次告别——她从自己的手链上取下的这枚游艇挂饰，既不能变现也不能自证；原文没有把它写成谁留给她的遗物。
 
 > **原句 6:** "And then she remembered signing the papers."
 
 - 中文理解：然后她想起了自己签过的那些纸。
 - 关键词：And then she remembered / signing the papers — 一个 `then` 和一个迟来的记忆。
-- 为什么这样写：短句单独成段，节奏突然慢下来；`remembered` 用的是完成时，说明这段记忆一直在，只是延迟到达。
+- 为什么这样写：短句单独成段，节奏突然慢下来；`remembered` 用简单过去时，突出了她此刻才想起自己签过字。
 - 读者视角提示：全书写"信息迟到"写了七十多章，这里是它最贵的一次兑现。
 
 > **原句 7:** "He had given Lili something else of great value—her self-confidence."
@@ -69,7 +69,7 @@ source_text: ch49
 
 - 中文理解：然后她会让 Zimmer 给她推荐一个经纪人，尽快回到工作上去。
 - 关键词：ask Zimmer to recommend an agent / get back to work as fast as possible — 两个将来时。
-- 为什么这样写：两个 `would` 把决心写成了日程；`as fast as possible` 是全书极少数不写理由的地方。
+- 为什么这样写：一个 `would` 把决心写成了日程；`as fast as possible` 是全书极少数不写理由的地方。
 - 读者视角提示：二十岁的 Lili 此刻拥有五万三千法郎、一部旧车和一个真会打电话的朋友——这是全书她第一次真正的开始。
 
 ## 本章词汇

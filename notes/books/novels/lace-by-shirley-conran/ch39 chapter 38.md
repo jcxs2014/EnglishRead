@@ -40,7 +40,7 @@ source_text: ch39
 > **原句 4:** "And just remember you were nothing," Serge would snarl, snapping his fingers under her nose, "nothing before I found you. And without me you'd be nothing again!"
 
 - 中文理解："你给我记住，你本来什么都不是，"Serge 会在她鼻子底下打着响指吼道，"在我找到你之前你什么都不是，没有我你又会什么都不是！"
-- 关键词：you were nothing / before I found you / you'd be nothing again — 两个 `nothing` 夹住一个 `before` 和一个 `without`。
+- 关键词：you were nothing / before I found you / you'd be nothing again — 三个 `nothing` 夹住一个 `before` 和一个 `without`。
 - 为什么这样写：同一句话在时间上做了一个闭环——过去一无所有、现在靠他、将来又会一无所有；`snapping his fingers under her nose` 让威胁有了具体的距离。
 - 读者视角提示：这是全书最完整的一句驯化话术：它不否认她现在的价值，只否认她自己的价值。
 

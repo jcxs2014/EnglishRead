@@ -62,7 +62,7 @@ source_text: ch57
 
 - 中文理解：她下定决心，不让任何东西夺走她如此辛苦挣来的东西——作为一个严肃演员的尊重。
 - 关键词：nothing was going to rob her / what she had worked so hard to achieve / respect as a serious actress — 一个决心和一份清单。
-- 为什么这样写：`rob` 这个词把风险说成抢劫；破折号之后她终于说出了自己这三年真正攒下的东西——不是奖，不是钱，是那三个字。
+- 为什么这样写：`rob` 这个词把风险说成抢劫；破折号之后她终于说出了自己这三年真正攒下的东西——不是奖，不是钱，是那种作为一个严肃演员的尊重。
 - 读者视角提示：读者应该在这里明白，她来之前刚刚对 Zimmer 说过"我要去见那个真的我"——而她带着一套自我保护来到这个花园。
 
 > **原句 8:** "A week or two in Sydon could hardly matter, could it?"

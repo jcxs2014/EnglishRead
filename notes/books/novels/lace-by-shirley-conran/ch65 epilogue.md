@@ -20,7 +20,7 @@ source_text: ch65
 
 - 中文理解：一种精致的、装饰性的织物，穿织在由不同花样和图形构成的开放网眼中。
 - 关键词：delicate / decorative / woven in an open web — 三个形容词和一个织法。
-- 为什么这样写：定义先给材质，再给用法；`open web` 三个词是全书的政治隐喻——缠绕的前提是先有一个通透的结构。
+- 为什么这样写：定义先给材质，再给用法；`open web` 这个说法是全书的政治隐喻——缠绕的前提是先有一个通透的结构。
 - 读者视角提示：读者应该在这一句里想起 Kate 在第四十四章说的"这些披肩是虚假安全的蜘蛛网"——lace 从来不是保护。
 
 > **原句 2:** "to interlace: to join together (fingers, patterns): to intertwine: to mingle or blend in an intricate way"

@@ -55,7 +55,7 @@ source_text: ch33
 
 - 中文理解：纸面上，Sergio Productions 每年付她四十万法郎，差不多相当于一个女秘书的薪水；但 Serge 扣走百分之十五作为经纪人佣金、百分之三十作为她的经理费、百分之三十作为食宿衣费用，剩下给 Lili 的就不多了。
 - 关键词：On paper she was paid / but Serge deducted / which didn't leave much for Lili — 账面、扣项与余额。
-- 为什么这样写：三项加起来正好百分之七十五；`On paper` 三个字先把一切合法性写好，再让扣款一件件发生。
+- 为什么这样写：三项加起来正好百分之七十五；`On paper` 这个限定先把一切合法性写好，再让扣款一件件发生。
 - 读者视角提示：这套账目在任何商业语境里都合法，而它同时说明"合法"和"剥削"从来不是反义词。
 
 > **原句 7:** "She was under contract to Sergio Productions, so Serge owned her."

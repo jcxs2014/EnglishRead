@@ -55,7 +55,7 @@ source_text: ch47
 
 - 中文理解："的确有很多离婚，但一个主要原因是：女人总以为自己嫁的是丈夫，醒来才发现嫁的是一门生意。"
 - 关键词：a major reason for that / think they're marrying a husband / they've married a business — 一句格言。
-- 为什么这样写：`wake up to find` 用起床这个动作承载一生的发现；句末的 `a business` 三个词把整段婚姻压缩成一件可以并购的东西。
+- 为什么这样写：`wake up to find` 用起床这个动作承载一生的发现；句末的 `a business` 这个说法把整段婚姻压缩成一件可以并购的东西。
 - 读者视角提示：读者应该把它和 Kate 十六岁那年在 Trelawney 母亲签下的五十年租约放在一起看——同一句话，Lili 用一生才听懂。
 
 > **原句 7:** "He wanted her to wonder why he didn't. And he wanted her to wonder what it would be like if he did."

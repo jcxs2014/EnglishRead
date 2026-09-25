@@ -41,7 +41,7 @@ source_text: ch44
 
 - 中文理解：我希望我们没有形成这种观念：如果你没有男人，你就是失败者，因为那样你既没有地位也没有保护。
 - 关键词：you were a failure if you didn't have a man / without status and protection — 一个假设加两个名词。
-- 为什么这样写：`picked up` 这个词说明这个观念不是天生的，是像硬币一样从别人手里接过来的；`status and protection` 两个词把经济和社会评价绑在一起。
+- 为什么这样写：`picked up` 这个词说明这个观念不是天生的，是像硬币一样从别人手里接过来的；`status and protection` 这一组把经济和社会评价绑在一起。
 - 读者视角提示：Judy 说这句话时，她自己刚在上一章对 Griffin 说"我不想让幸福依赖别人"——她知道这话有多难。
 
 > **原句 5:** "It was our mothers who brought us up to be dependent and lazy where it matters most—in the head."
@@ -60,8 +60,8 @@ source_text: ch44
 
 > **原句 7:** "because they make you so damned vulnerable when you find that your lace shawl has been whipped away by Fate, leaving you naked and defenseless."
 
-- 中文理解："这比没有安全更糟，因为等你发现命运把你的蕾丝披肩抽走时，你就赤身裸体、毫无防备了。"
-- 关键词：worse than no security / whipped away by Fate / naked and defenseless — 比较、一个主动的施动者和两个形容词。
+- 中文理解："所以这比没有安全更糟——等你发现命运把你的蕾丝披肩抽走时，你就赤身裸体、毫无防备了。"
+- 关键词：whipped away by Fate / naked and defenseless — 一个主动的施动者和两个形容词。
 - 为什么这样写：`whipped away` 把"命运"写成一个会动手的人；`so damned vulnerable` 里的 `damned` 是全章唯一一次粗口，正好落在最沉的一句上。
 - 读者视角提示：Maxine 替 Kate 的比喻补上了最难听的一半——而这半句正是 Kate 那三次流产和八年婚姻的写照。
 

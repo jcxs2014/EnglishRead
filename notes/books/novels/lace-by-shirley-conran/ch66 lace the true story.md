@@ -44,7 +44,7 @@ source_text: ch66
 > **原句 1:** "Lace is based on my own life, my own experiences and my own friends. Most of the characters in Lace exist in real life; only the plot is complete invention."
 
 - 中文理解：《Lace》以我的人生、我的经历和我的朋友为基础。书里大多数人物都真实存在；只有情节是完全虚构的。
-- 关键词：based on my own life / exist in real life / only the plot is complete invention — 三个 `only` 级差。
+- 关键词：based on my own life / exist in real life / only the plot is complete invention — 一个 `only` 级差。
 - 为什么这样写：句子用 `Most` 和 `only` 两个限定把话说到最准；`complete invention` 里的 `complete` 是一次让步性的强调。
 - 读者视角提示：读者应该在这里确认一件事——这本书最吓人的部分不是编的。
 
@@ -52,7 +52,7 @@ source_text: ch66
 
 - 中文理解：我的女主人公 Lili，原型是一位真实的十二岁匈牙利难民，她和家人坐火车逃出来，在巴黎求学时过着一种堪称模范的生活。
 - 关键词：a real twelve-year-old Hungarian refugee / escaped on a train / lived an exemplary life — 一句档案式的描述。
-- 为什么这样写：`exemplary life` 四个字是全段最刺眼的地方；紧接着下一段作者自己就把它推翻了。
+- 为什么这样写：`exemplary life` 这个说法是全段最刺眼的地方；紧接着下一段作者自己就把它推翻了。
 - 读者视角提示：读者应该在这一句里听出"模范生活"这个说法的勉强——它更像是幸存者的说法。
 
 > **原句 3:** "But thousands of other Hungarian refugees had terrifying experiences – and many were killed."
@@ -73,7 +73,7 @@ source_text: ch66
 
 - 中文理解：但 Judy 知道，能长期改善她生活的唯一一个人，就是 Judy 自己。
 - 关键词：the only person who could improve her life / longterm / was Judy — 两个限定。
-- 为什么这样写：句子用一个 `the only person` 把选项压到零，再用 `longterm` 挡住"暂时"这个退路；结尾把 Judy 三个字单独放在句号前。
+- 为什么这样写：句子用一个 `the only person` 把选项压到零，再用 `longterm` 挡住"暂时"这个退路；结尾把 Judy 这个名字单独放在句号前。
 - 读者视角提示：读者应该在这一句里听见 Judy 后来对 Kate 说的"我一个人也能起家"——那句话在小说里是她自己想出来的，在这里是原型说的。
 
 > **原句 6:** "There still is."

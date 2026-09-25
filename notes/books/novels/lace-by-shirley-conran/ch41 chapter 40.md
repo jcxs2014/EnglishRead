@@ -60,8 +60,8 @@ source_text: ch41
 
 > **原句 7:** "It said 'Dress as your own favourite sexual fantasy,' and as you see almost everyone has."
 
-- 中文理解："亲爱的，你没看请柬吗？上面写着'装扮成你最喜欢的性幻想'，你看，几乎每个人都照做了。"
-- 关键词：Don't you read your invitations / your own favourite sexual fantasy / almost everyone has — 邀请式的轻描淡写。
+- 中文理解："上面写着'装扮成你最喜欢的性幻想'，你看，几乎每个人都照做了。"
+- 关键词：your own favourite sexual fantasy / almost everyone has — 邀请式的轻描淡写。
 - 为什么这样写：句子把一个私人癖好包装成全体共识；`almost everyone has` 让读者意识到这不是个例。
 - 读者视角提示：这场化装舞会其实是一份城市报告——Kate 走进去的那间屋子，是整本书的缩影。
 

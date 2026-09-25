@@ -27,7 +27,7 @@ source_text: ch62
 
 - 中文理解："别哭，小鸟，"他低声说，"哭什么？第一次总是会痛的，小鸟。"
 - 关键词：Don't cry, little bird / The first time there is always pain — 一次哄劝和一句"常识"。
-- 为什么这样写：他把暴力说成了一次课程；`little bird` 重复两次，既是昵称也是他对她的分类；`always` 三个字母承担了全部的伪证。
+- 为什么这样写：他把暴力说成了一次课程；`little bird` 重复两次，既是昵称也是他对她的分类；`always` 这个绝对词承担了全部的伪证。
 - 读者视角提示：读者应该在这里看见全书最关键的一次偷换——把"我不愿意"改写成"第一次"。
 
 > **原句 3:** "Like many men he didn't regard rape as rape if it didn't happen in a back alley and there weren't any bruises."

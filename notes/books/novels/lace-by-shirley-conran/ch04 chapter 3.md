@@ -26,7 +26,7 @@ source_text: ch04
 > **原句 2:** "There was an awed silence from the three girls around the table who had never thought about the future, never planned further ahead than the next holiday."
 
 - 中文理解：桌边三个女孩陷入敬畏般的沉默；她们从未认真思考未来，也从未比下一个假期更远地计划过。
-- 关键词awed silence / never thought about the future——无知的静默与被动的未来观。
+- 关键词：awed silence / never thought about the future——无知的静默与被动的未来观。
 - 为什么这样写：Judy 的实际计划让其他人的“未来”显得像儿童画；作者用对比而非嘲讽，把特权生活的停滞和 Judy 的自我推动放在同一张桌边。
 - 读者视角提示：她们羡慕 Judy 的自由，却暂时看不见自由需要劳动、牺牲和承担风险。
 

@@ -48,7 +48,7 @@ source_text: ch63
 
 - 中文理解："我想留下它。我不想把我的孩子送人。我想给我孩子找个寄养母亲，直到我年纪够大，能给他一个自己的家。"
 - 关键词：I want to keep it / find my baby foster parents / until I'm old enough — 三个递进的时间表。
-- 为什么这样写：三个 `I` 开头把句子写成一份申请；`until I'm old enough` 把"永远"换成了一个具体的、可能兑现的期限。
+- 为什么这样写：十个 `I` 开头把句子写成一份申请；`until I'm old enough` 把"永远"换成了一个具体的、可能兑现的期限。
 - 读者视角提示：读者应该在这里听见，四个女人赌的就是这个"够大"，而这个期限最终到 Lili 问出"谁是我妈"时才到期。
 
 > **原句 6:** "If it's a girl it will be Elizabeth after my mother. If it's a boy it will be Nicholas."
@@ -69,7 +69,7 @@ source_text: ch63
 
 - 中文理解：一个发育完好的婴儿从她身体里滑了出来，发出一声细小的呜咽，小 Elizabeth 出生了。
 - 关键词：A perfectly formed baby / slipped out of her body / with a whimper — 三个细节。
-- 为什么这样写：`slipped` 这个轻动词和前面几十页的剧痛形成反讽；`with a whimper` 四个字轻描淡写，把那个撕裂般的结束写成了日常。
+- 为什么这样写：`slipped` 这个轻动词和前面几十页的剧痛形成反讽；`with a whimper` 轻描淡写，把那个撕裂般的结束写成了日常。
 - 读者视角提示：读者应该在这一行上意识到——她一生的第一件事，就是把一个秘密带出产房，而那个秘密比她本人活得久。
 
 ## 本章词汇

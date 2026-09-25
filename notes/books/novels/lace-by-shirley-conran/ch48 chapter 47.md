@@ -26,7 +26,7 @@ source_text: ch48
 > **原句 2:** "I want Jo. I do not ask for marriage. This way he knows that I'm not . . . what his children tell him I am . . . a gold digger."
 
 - 中文理解：我要的是 Jo。我不要求结婚。这样他就明白我不是……他孩子们说的那种人……不是个挖金子的女人。
-- 关键词：I don't ask for marriage / This way he knows / a gold digger — 一个策略和一个自我辩解。
+- 关键词：I do not ask for marriage / This way he knows / a gold digger — 一个策略和一个自我辩解。
 - 为什么这样写：`This way he knows` 让拒绝变成了一种证明；两个省略号把 `a gold digger` 悬在半空，像一个她急于否认又无法完全否认的词。
 - 读者视角提示：她以为自己在争取一份不附带条件的关系，读者却已经能看出这是她能想到的最聪明的一次谈判。
 
@@ -55,14 +55,14 @@ source_text: ch48
 
 - 中文理解：他本来也许能替你查到你的亲生父母！可要是你找到了真实的身份，他怕自己会失去对你的掌控。
 - 关键词：trace your parents / if you found your true identity / lose his power over you — 一个可能和两个后果。
-- 为什么这样写：句子用两个 `if` 把善意和恐惧绑在一起；`trace your parents` 这个具体到几乎可行的选项，让整段批评立刻有了分量。
+- 为什么这样写：句子用一个 `if` 把善意和恐惧绑在一起；`trace your parents` 这个具体到几乎可行的选项，让整段批评立刻有了分量。
 - 读者视角提示：Zimmer 指出的不是 Stiarkoz 坏，而是他在用保护的名义保留那道锁。
 
 > **原句 7:** "A relationship that's going to last isn't based on sheer sexual madness and nonstop sexual excitement but on . . . understanding and tolerance."
 
 - 中文理解：一段要维持下去的关系，不是建立在纯粹的性疯狂和不停的性兴奋上，而是建立在……理解和宽容上。
 - 关键词：isn't based on sheer sexual madness and nonstop sexual excitement / but on . . . understanding and tolerance — 一组排除和一次停顿。
-- 为什么这样写：两个 `and` 串起一堆被否定的词，节奏拖得越来越长；`but on . . .` 后面那个省略号让"理解和宽容"落得特别慢。
+- 为什么这样写：三个 `and` 串起一堆被否定的词，节奏拖得越来越长；`but on . . .` 后面那个省略号让"理解和宽容"落得特别慢。
 - 读者视角提示：她说这话时二十四周岁，正在用一句成熟的话解释自己为什么接受一段不平等——而她对性遭遇的全部记忆都在这本书的前五十章里。
 
 > **原句 8:** "She knew immediately that something dreadful had happened to Jo."

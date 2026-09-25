@@ -20,7 +20,7 @@ source_text: ch42
 
 - 中文理解：真正的保护不是一个男人——是钱！钱给你行善的力量、作恶的力量、留下的力量和离开的力量。
 - 关键词：Real protection isn't a man / it's money / the power to do good, to be bad, to stay or to leave — 一个否定加四个短语。
-- 为什么这样写：破折号把"不是男人"和"是钱"硬接在一起；后面四个 `the power to` 结构完全平行，`stay or to leave` 把全书的核心困境压进了一组介词。
+- 为什么这样写：破折号把"不是男人"和"是钱"硬接在一起；后面三个 `the power to` 结构完全平行，`stay or to leave` 把全书的核心困境压进了一组介词。
 - 读者视角提示：这句话是 Judy 用三年挣来的，也是用一夜的失眠买来的——本章后面立刻会证明这两件事同时成立。
 
 > **原句 2:** "We should all have been taught how to earn it, how to make it, how to multiply it, how to keep it! But women are merely taught how to spend it."
@@ -62,7 +62,7 @@ source_text: ch42
 
 - 中文理解：友谊会膨胀，去填满所有空出来的空间。
 - 关键词：Friendship expands / to fill the space available — 一个主语、一个目的。
-- 为什么这样写：句子把一种感情说成会自动生长填补空缺的东西；`available` 三个字母说明她的结论是有条件的。
+- 为什么这样写：句子把一种感情说成会自动生长填补空缺的东西；`available` 这个词本身说明她的结论是有条件的。
 - 读者视角提示：Maxine 立刻补上"会消退也会再涨回来"，两人一起来的定义，其实是对四种关系（生意、爱情、友谊、债务）的一次总结。
 
 > **原句 8:** "I'm sorry, but no." Judy walked away with just a hint of rudeness. She didn't need that kind of rich man's power play and didn't appreciate it one bit.

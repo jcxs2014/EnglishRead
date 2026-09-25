@@ -48,7 +48,7 @@ source_text: ch29
 
 - 中文理解：我喝酒的时候从没打算喝醉。我现在也没有，我从来不觉得需要，我只是想："为什么不呢？"然后我又喝一杯，再喝一点，再一杯又一杯，直到我记不清自己喝了多少。
 - 关键词：never meant to get drunk / I just feel, 'why not?' / until I can't remember how many — 没有意图、随手一句和终点消失。
-- 为什么这样写：两个 `another` 递进，最后用"记不清"收尾——失控不是爆发，是渐进的遗忘；`why not` 三个字把责任彻底推给无所谓。
+- 为什么这样写：三个 `another` 递进，最后用"记不清"收尾——失控不是爆发，是渐进的遗忘；`why not` 这种随口反问把责任彻底推给无所谓。
 - 读者视角提示：她自己描述的机制毫无戏剧性，这正是成瘾最真实的样子。
 
 > **原句 6:** "I didn't need an excuse to die, I needed an excuse to live, and I almost ran out of excuses."
@@ -62,7 +62,7 @@ source_text: ch29
 
 - 中文理解：酒抹掉了那份消沉；它让我觉得自己像个真人，像我本来的样子，也像我本来可能成为的样子。喝醉的时候，我不觉得自己是个失败者。
 - 关键词：blotted out the depression / the person I might have been / didn't feel like a failure — 抹除、可能的自我和失败的缺席。
-- 为什么这样写：`might have been` 是全句最重要的两个词，酒给她的不是快乐，是一次暂时的自我恢复。
+- 为什么这样写：`might have been` 是全句最重要的结构，酒给她的不是快乐，是一次暂时的自我恢复。
 - 读者视角提示：这解释了为什么她无法靠意志停下来——她喝的不是快乐，是身份。
 
 > **原句 8:** "Because there's nothing wrong with her. It's just that she drinks too much. There's nothing wrong with her head. All she needs is self-discipline. Psychiatrists are for the mentally ill and there's no mental illness in our family."

@@ -55,7 +55,7 @@ source_text: ch54
 
 - 中文理解："我的孩子！我的孩子！你根本不在乎我的孩子！"她朝他扑过去，双手把操纵杆拉向自己，整个身体压了上去，死死抱住它，力量大得出乎意料。
 - 关键词：My child! My child! / yanked the control stick toward her / clung to it with surprising strength — 三个短句和三个动作。
-- 为什么这样写：三个 `My child` 是全书她唯一重复的东西；`yanked`、`bent her body over it`、`clung to it` 三个动词一路加码，而 `surprising strength` 四个字把她的绝望写成了体力。
+- 为什么这样写：三个 `My child` 是全书她唯一重复的东西；`yanked`、`bent her body over it`、`clung to it` 三个动词一路加码，而 `surprising strength` 这个补充把她的绝望写成了体力。
 - 读者视角提示：读者应该在这一刻明白，本章的死者不是被机器杀的，是被两个人的爱与怕一起拉下去的。
 
 > **原句 7:** "He had no time to be frightened, and there was no need for fear."

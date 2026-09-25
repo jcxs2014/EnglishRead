@@ -55,7 +55,7 @@ source_text: ch52
 
 - 中文理解："我在性方面真正喜欢的，"她若有所思地说，"是老套的肉麻话。"
 - 关键词：What I really like sexually / is corny rubbish — 一个承认和一个标签。
-- 为什么这样写：`corny rubbish` 三个词轻得像在自嘲，可前面那句 `What I really like sexually` 用了 `really`，把重量全压在这个词上。
+- 为什么这样写：`corny rubbish` 这个说法轻得像在自嘲，可前面那句 `What I really like sexually` 用了 `really`，把重量全压在这个词上。
 - 读者视角提示：全书她都在假装自己爱的是别的——假装爱白天的谈笑风生，假装爱更激烈的东西，直到这里她才第一次要了她本来就想要的那个。
 
 > **原句 7:** "She already knew that what triggered love for her was harsh rejection and an abject, humiliating need for approval."

@@ -20,7 +20,7 @@ source_text: ch51
 
 - 中文理解：女人觉得男人身上吸引人的东西，和男人以为女人会觉得吸引人的东西，结果完全不同。
 - 关键词：what women find attractive / what men think women find attractive / turn out to be entirely different — 一个对照结构。
-- 为什么这样写：前半句用了三次 `find`，第三次才加上 `think`；`turn out to be` 让结论像被数据揭开的秘密，而不是她本人的主张。
+- 为什么这样写：前半句用了两次 `find`，第三次才加上 `think`；`turn out to be` 让结论像被数据揭开的秘密，而不是她本人的主张。
 - 读者视角提示：这份调查就是整本杂志的立足点——她要卖给女人的，是一种"你以为的你自己"。
 
 > **原句 2:** "Twenty-two percent of males admitted that what they thought appealed most to a woman was a large, tight-trousered bulge, but only three percent of the women thought so."
@@ -33,7 +33,7 @@ source_text: ch51
 > **原句 3:** "But Kate didn't fit the glossy, Virginia-Slims-Lib image any more than she did the heavy Ms. image. Tom couldn't place her."
 
 - 中文理解：可 Kate 既不合乎那种光鲜的"弗吉尼亚·斯利姆斯自由派"形象，也不合乎《Ms.》那种沉重的形象。Tom 没法给她归类。
-- 关键词：didn't fit the glossy image any more than the heavy Ms. image / Tom couldn't place her — 两个 `any more than`。
+- 关键词：didn't fit the glossy image any more than the heavy Ms. image / Tom couldn't place her — 一个 `any more than`。
 - 为什么这样写：句子用 `any more than` 把两种女性主义杂志都排除了；`couldn't place her` 用了商业分类的说法，说明对她来说"归不了类"就是"没价值"。
 - 读者视角提示：Tom 上一章刚说过"别鼓吹平等，不然一份也印不出来"——他不反对平等，他只是不打算为它付版面成本。
 
@@ -54,14 +54,14 @@ source_text: ch51
 > **原句 6:** "She capitulated and remembered. Instead of discharging her anger in a blazing row, she stored up her resentment."
 
 - 中文理解：她让步了，然后记住了。她不在一场暴怒中发泄怒气，而是把委屈一点点存起来。
-- 关键词：She capitulated and remembered / instead of discharging her anger / stored up her resentment — 两个 `and` 与一个对比。
+- 关键词：She capitulated and remembered / instead of discharging her anger / stored up her resentment — 一个 `and` 与一个对比。
 - 为什么这样写：`capitulated` 和 `remembered` 之间没有 `but`，说明在叙述者眼里这两件事本来就是一件；`stored up` 把情绪写成存货，于是它有了利息。
 - 读者视角提示：这是全书写 Kate 童年创伤最直接的一处——她父亲的怒火到这一页还没有还清。
 
 > **原句 7:** "It wasn't the sort of fun that their readers imagined. It wasn't a playgirl existence lived from champagne reception to dress show. VERVE! was absorbing work. That was the best possible fun."
 
 - 中文理解：那不是读者想象中的那种乐趣。不是从香槟招待会活到时装表演的花瓶生活。VERVE! 正在吸干工作。那才是最好的乐趣。
-- 关键词：It wasn't the sort of fun that their readers imagined / VERVE! was absorbing work / That was the best possible fun — 两个 `wasn't` 和一个 `was`。
+- 关键词：It wasn't the sort of fun that their readers imagined / VERVE! was absorbing work / That was the best possible fun — 两个 `wasn't` 和四个 `was`。
 - 为什么这样写：`absorbing` 兼有"吸收"和"引人入胜"两义，作者让它同时吸干人力也吸住读者；`That was the best possible fun` 单独成句，用最平的语调作结。
 - 读者视角提示：读者应该在这里明白，Kate 此刻得到的不是她写进文章里的那种生活，而是一种她从不写出来的东西。
 
@@ -69,7 +69,7 @@ source_text: ch51
 
 - 中文理解：Kate 抓起那本样刊，跑向 Judy 的办公室。"看！"她喊道。"我们做成生意了。"
 - 关键词：picked it up and ran / Look! / We're in business — 两个感叹和一句陈述。
-- 为什么这样写：`ran` 这个动词把她从封面笑脸旁边拉回来；`in business` 三个词是全章唯一一次不谈内容只谈状态的表达。
+- 为什么这样写：`ran` 这个动词把她从封面笑脸旁边拉回来；`in business` 这个说法是全章唯一一次不谈内容只谈状态的表达。
 - 读者视角提示：她要证明的是自己算得准，而这张笑脸证明了——至于封面下写什么，明天再说。
 
 ## 本章词汇

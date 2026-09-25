@@ -55,7 +55,7 @@ source_text: ch43
 
 - 中文理解：独处和孤独之间有着天壤之别。
 - 关键词：a world of difference / being alone / being lonely — 一个对比。
-- 为什么这样写：两个只差一个字母的词构成全书最经济的一次区分；`a world of difference` 用最陈的套语包住最现代的一个想法。
+- 为什么这样写：两个共享词根、只差一个后缀的词构成全书最经济的一次区分；`a world of difference` 用最陈的套语包住最现代的一个想法。
 - 读者视角提示：这是 Judy 为自己选择过的生活方式所作的辩护，也是她这一生的主题句。
 
 > **原句 7:** "Once upon a time if a man told me he was lonely I used to melt with sympathy. But now I run a mile."

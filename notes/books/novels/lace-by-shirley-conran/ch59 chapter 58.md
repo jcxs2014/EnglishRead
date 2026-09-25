@@ -26,14 +26,14 @@ source_text: ch59
 > **原句 2:** "But the odd thing is that I've never once regretted what I did. I'm proud I had the strength to do it."
 
 - 中文理解：不过奇怪的地方在于，我从来没有一次后悔过自己做的事。我为自己有勇气做这件事感到骄傲。
-- 关键词：never once regretted / I'm proud / I had the strength — 两个 `I` 和一个 `never once`。
+- 关键词：never once regretted / I'm proud / I had the strength — 八个 `I` 和一个 `never once`。
 - 为什么这样写：`never once` 把"一次都没有"说得像在数日子；`But the odd thing is` 让这份骄傲自己都觉得奇怪。
 - 读者视角提示：读者应该在这里明白，她要证明的从来不是"他不好"，而是"我可以"。
 
 > **原句 3:** "What I want to do is get back to work as fast as possible. It's the one, never-fail anodyne for pain."
 
 - 中文理解：我想做的就是尽快回去工作。那是唯一一件对疼痛屡试不爽的止痛药。
-- 关键词：get back to work as fast as possible / the one, never-fail anodyne for pain — 两个 `the one`。
+- 关键词：get back to work as fast as possible / the one, never-fail anodyne for pain — 一个 `the one`。
 - 为什么这样写：`anodyne` 是个药名，而她说这话时手里还拿着针线；`never-fail` 把工作说成一份处方。
 - 读者视角提示：读者应该在这一句里听见全书的另一个答案——Judy 在第 42 章说过"真正的保护是钱"，而 Lili 的版本是"工作"。
 
@@ -68,7 +68,7 @@ source_text: ch59
 > **原句 8:** "You can leave without it or stay with it."
 
 - 中文理解：你可以不要这只手，也可以留下它。
-- 关键词：You can leave without it / or stay with it — 两个 `it` 指同一只手。
+- 关键词：You can leave without it / or stay with it — 四个 `it` 指同一只手。
 - 为什么这样写：句子把"离开"和"留下"压进同一个指代里，拒绝解释；这既是邀请，也是把选择权原样交还。
 - 读者视角提示：读者应该在这里想起四十章那个在巴士车场递给她咖啡的男孩——那时他说"记住我是谁"，这一次他连名字都没提。
 

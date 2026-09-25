@@ -33,7 +33,7 @@ source_text: ch21
 > **原句 3:** "The Sardeaus were childless."
 
 - 中文理解：Sardeau 夫妇没有孩子。
-- 关键词：childless / adopted orphan / practical——家庭空缺与实际动机相互定义。
+- 关键词：childless——家庭空缺先被写成一句事实，再由叙述者拆成生活安排。
 - 为什么这样写：短句先给出事实，随后叙述者解释他们提供照顾是为了养老、护理和陪伴；领养的伦理动机被拆成生活安排。
 - 读者视角提示：他们并非完全残忍，但“好心”并不自动等于把 Lili 当作一个完整的家庭成员。
 

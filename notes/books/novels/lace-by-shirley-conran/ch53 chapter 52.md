@@ -27,13 +27,13 @@ source_text: ch53
 
 - 中文理解：看着一个没安全感的穷姑娘变成一个没安全感的富姑娘，真让人难过。话说你当初目标定得很高，还记得吗？别只因为你超过了目标就吓着自己。
 - 关键词：an insecure poor girl turn into an insecure rich one / you aimed high / don't get frightened just because you passed your target — 一次转换和三段说教。
-- 为什么这样写：前后两个 `insecure` 把变化锁死在"同一件事变得更贵"上；最后那句连用三个 `because`-式的理由，口气像教练而不是丈夫。
+- 为什么这样写：前后两个 `insecure` 把变化锁死在"同一件事变得更贵"上；最后那句连用一个 `because`-式的理由，口气像教练而不是丈夫。
 - 读者视角提示：读者应该在这里发现，全章最有资格说这句话的人不是 Tom——他才是那个把安全感全换成股票的人。
 
 > **原句 3:** "Never mind my guts. I know where your heart is. In that cluster of money boxes called Wall Street."
 
 - 中文理解：别管我的胆量了。我知道你的心在哪儿——就在那一堆叫华尔街的钱盒子里。
-- 关键词：Never mind my guts / I know where your heart is / a cluster of money boxes called Wall Street — 两个 `I` 加一个比喻。
+- 关键词：Never mind my guts / I know where your heart is / a cluster of money boxes called Wall Street — 四个 `I` 加一个比喻。
 - 为什么这样写：`Never mind my guts` 是对上一句"你的胆量呢"的直接回敬；`a cluster of money boxes` 把整条金融街降成一堆盒子，一个比喻就把严肃的一方说小了。
 - 读者视角提示：她用的是他给她的语言——他指责她胆怯，她就拿这个还回去。
 
@@ -47,7 +47,7 @@ source_text: ch53
 > **原句 5:** "I don't think the guy that made that horse intended it to be stabled in a bank vault. I think he'd want Kate to have it."
 
 - 中文理解："我不认为做那匹马的人是想把它养在银行金库里。我想他一定希望 Kate 拥有它。"
-- 关键词：didn't intend it to be stabled in a bank vault / he'd want Kate to have it — 两个 `think`。
+- 关键词：I don't think / he'd want Kate to have it — 两个 `think`。
 - 为什么这样写：句子把死物的意愿和活人的需求放在同一句里；`he'd want` 用一个完成时讲给一个已经过了一千多年的人的话。
 - 读者视角提示：这是全章唯一一次有人为一件东西说话，而说出的话正好是这一章的主题：藏品该属于谁。
 

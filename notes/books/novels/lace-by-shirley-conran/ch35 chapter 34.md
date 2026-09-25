@@ -26,8 +26,8 @@ source_text: ch35
 > **原句 2:** "When men started to criticise her, she always fell in love with them. And when she fell in love with them, she fell into bed with them. And when she went to bed with them, she never climaxed. And she never dared to tell them. So Kate faked."
 
 - 中文理解：男人一开始批评她，她就爱上了他们。她爱上他们，就和他们上床。她上了床，却从来没有高潮过。她也从来不敢告诉他们。所以 Kate 假装。
-- 关键词：criticise / fell in love / fell into bed / never climaxed / never dared to tell — 四个 `And` 串成的下行阶梯。
-- 为什么这样写：四个分句结构完全相同，只有动词在变，读者会跟着滑下去；`So Kate faked` 单独成句，把整条链子的代价压成一个词。
+- 关键词：criticise / fell in love / fell into bed / never climaxed / never dared to tell — 三个 `And` 串成的下行阶梯。
+- 为什么这样写：四个分句结构几乎相同，只有动词在变，读者会跟着滑下去；`So Kate faked` 单独成句，把整条链子的代价压成一个词。
 - 读者视角提示：她最擅长的"情感诚实"，恰恰是她一直隐瞒到底的那件事。
 
 > **原句 3:** "A promiscuous man is afraid he might be missing something. A promiscuous woman is seeking something and—sadly—not finding it."
@@ -40,8 +40,8 @@ source_text: ch35
 > **原句 4:** "Maybe you are too eager for love—too quick to be affectionate, too clinging, too claustrophobic."
 
 - 中文理解：也许你对爱太急切——太快去示好、太黏人、太让人透不过气。
-- 关键词：too eager for love / too quick to be affectionate / too clinging / too claustrophobic — 三个 `too` 递进。
-- 为什么这样写：三个 `too` 把笼统的"太热情"拆成三种具体行为；`claustrophobic` 是最狠的一个词，它把爱说成了密闭空间。
+- 关键词：too eager for love / too quick to be affectionate / too clinging / too claustrophobic — 四个 `too` 递进。
+- 为什么这样写：四个 `too` 把笼统的"太热情"拆成三种具体行为；`claustrophobic` 是最狠的一个词，它把爱说成了密闭空间。
 - 读者视角提示：读者会在这里第一次意识到 Kate 的问题不是缺爱，是爱的剂量和方式。
 
 > **原句 5:** "Deliberately playing hard to get is nasty psychological exploitation," said Kate, "and it's phony."
@@ -70,7 +70,7 @@ source_text: ch35
 - 中文理解：那是 Kate 最后一次听见他说话。
 - 关键词：the last words that Kate heard him say — 一个被提前宣布的句号。
 - 为什么这样写：读者在读到这句之前并不会知道它指的是哪句话；作者把一个句号放在句号前面，让全章在愉快里突然断掉。
-- 读者视角提示：他夸的是一罐鹅肝；他买下了她的房子；而他只来得及说一句"挺好吃"。
+- 读者视角提示：他夸的是那罐 confit d’oie（油封鹅肉）；他买下了她的房子，而临别时只说了一句"这个真不错"。
 
 ## 本章词汇
 

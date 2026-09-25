@@ -34,7 +34,7 @@ source_text: ch46
 
 - 中文理解：什么都试过了。他哄她、捧她、让她彻底沉溺、用恐惧吓她，甚至动手打过她两回。
 - 关键词：Serge had tried everything / soothed / flattered / frightened / even roughed her up — 一份逐级上升的清单。
-- 为什么这样写：`tried everything` 四个字把暴行包装成穷尽式的努力；四个动词从安抚到殴打一路加码，`even` 一词替最后一项加了道德上的破格感。
+- 为什么这样写：`tried everything` 这个说法把暴行包装成穷尽式的努力；四个动词从安抚到殴打一路加码，`even` 一词替最后一项加了道德上的破格感。
 - 读者视角提示：这是一份完整的操控目录，而且它没有一项改变过他的目的——让她的脸还能卖钱。
 
 > **原句 4:** "He'd given the nurse an immense bonus for keeping Lili under constant surveillance, and just to make sure of AC as well as DC, he'd picked the ugliest bitch on the nursing agency's books."

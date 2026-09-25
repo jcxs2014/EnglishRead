@@ -48,13 +48,13 @@ source_text: ch55
 
 - 中文理解："你嫉妒，是因为你有过他，而你没有。"
 - 关键词：You are jealous / I had him and you can't — 一句最短的诊断。
-- 为什么这样写：句子把嫉妒从情绪改写成账目——"有过"和"没有"；`can't` 三个字母落在最后，把矛头直接扎回她自己的婚姻。
+- 为什么这样写：句子把嫉妒从情绪改写成账目——"有过"和"没有"；`can't` 这个否定落在最后，把矛头直接扎回她自己的婚姻。
 - 读者视角提示：读者应该在这一刻想起第 53 章 Judy 说的那句"一个没安全感的富太太"——全书的四个女人都在同一句话上被戳中。
 
 > **原句 6:** "Maxine was ashamed, mortified and alarmed. She had never hit anyone in her life, not even her sons when they were children. Yet she had now allowed herself to behave as badly as this slut."
 
 - 中文理解：Maxine 又羞愧、又屈辱、又害怕。她这辈子从没打过人，哪怕是小时候的儿子。可现在她竟允许自己 behave 得和这个婊子一样坏。
-- 关键词：ashamed, mortified and alarmed / had never hit anyone in her life / behave as badly as this slut — 三个形容词和两个 `as`。
+- 关键词：ashamed, mortified and alarmed / had never hit anyone in her life / behave as badly as this slut — 三个形容词和四个 `as`。
 - 为什么这样写：三个同源的情绪词排成一串，读者能感到它们互相盖住；`as badly as this slut` 里的 `this slut` 让她把自己和眼前这个人放在同一个类别里。
 - 读者视角提示：这是全书最诚实的一次自我揭露——她打人的时候清楚地知道自己也变成了什么。
 

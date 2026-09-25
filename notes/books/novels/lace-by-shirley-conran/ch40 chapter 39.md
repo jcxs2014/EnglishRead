@@ -62,7 +62,7 @@ source_text: ch40
 
 - 中文理解：我妻子婚后不久流产过，接着第二年生下一个死产的女孩。然后 1957 年她生下一个早产儿，出生两周就死了。他皱起眉。我不知道自己为什么要告诉你。
 - 关键词：a miscarriage / a stillborn daughter / a premature son who died — 三次并排的失去。
-- 为什么这样写：三个短语一句比一句短、句号一个接一个，把统计式的生育史写成一份伤亡名单；`I don't know why I'm telling you` 是全章最诚实的一句。
+- 为什么这样写：三个短语按时间逐项追加，句号一个接一个，把统计式的生育史写成一份伤亡名单；`I don't know why I'm telling you` 是全章最诚实的一句。
 - 读者视角提示：Kate 那一刻只能盯着他想起自己的三次流产——两位素不相识的女人在同一章里失去同样的东西。
 
 > **原句 8:** "The article was syndicated worldwide. It told a receptive audience, quite simply, that war was about killing people."

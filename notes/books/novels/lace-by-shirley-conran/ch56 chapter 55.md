@@ -41,7 +41,7 @@ source_text: ch56
 
 - 中文理解：在片场我是明星，出了片场我觉得所有人都在嘲笑我……那真是一种该死的感觉，孤单。
 - 关键词：On the set I'm a star / off the set everyone's sneering at me / such a damn lonely feeling — 一个对照和一个总结。
-- 为什么这样写：`On the set` 和 `off the set` 用完全相同的四个词对称排开；破折号之后那句总结突然变短，抽象的委屈落到一个具体的形容词上。
+- 为什么这样写：`On the set` 和 `off the set` 用完全相同的三个词对称排开；破折号之后那句总结突然变短，抽象的委屈落到一个具体的形容词上。
 - 读者视角提示：读者应该在这里想起她说的那句"我怕被人看见才碰我"——她学会的不是演戏，是躲。
 
 > **原句 5:** "I want to know who I really am. I want to meet the real me!"
@@ -55,7 +55,7 @@ source_text: ch56
 
 - 中文理解：我身上有一部分是缺失的，而我甚至不知道缺的是哪一部分。我只知道内心有一种空，而那些高级的请柬和这种感觉比起来根本不算什么。
 - 关键词：a part of me that's missing / I don't even know what part / the emptiness inside me — 三次承认不知道。
-- 为什么这样写：她把最重要的东西说成"某个部分"，两次 `I don't even know` 让它无法被命名；`aren't important compared to` 这个比较句式把一整张请柬放在天平上却毫无重量。
+- 为什么这样写：她把最重要的东西说成"某个部分"，一次 `I don't even know` 让它无法被命名；`aren't important compared to` 这个比较句式把一整张请柬放在天平上却毫无重量。
 - 读者视角提示：读者应该在这里明白，一封来自国王的请柬救不了她——因为她要的东西根本不是别人能给的。
 
 > **原句 7:** "Who does know who they are? Don't you think that perhaps you use your lack of a family as a convenient excuse for whatever's going wrong in your life?"

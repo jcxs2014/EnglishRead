@@ -55,7 +55,7 @@ source_text: ch30
 
 - 中文理解："可是我不能，我停不下来。这太丢人了。我得解释……我不能，我不能，"Pagan 惨然地哭道。
 - 关键词：I can't, I can't stop / It's so shaming / I'd have to explain — 重复的否定、羞感和解释的义务。
-- 为什么这样写：三个 `I can't` 不是卡壳，是她能说出的全部；`I'd have to explain` 把真正的障碍说破——她怕的不是酒，是身份被改写。
+- 为什么这样写：四个 `I can't` 不是卡壳，是她能说出的全部；`I'd have to explain` 把真正的障碍说破——她怕的不是酒，是身份被改写。
 - 读者视角提示：她需要的不是有人替她停，是有人允许她在被看见的状态下继续。
 
 > **原句 7:** "Might look odder if you don't stop," Kate said.
