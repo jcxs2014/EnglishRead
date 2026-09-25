@@ -102,7 +102,7 @@ source_text: ch06
 
 ### ⑦ 致 Hal Lidderdale · 1948-春 · 两大高峰相认
 
-> **原句 7:** "I recently realised with a shock that Wittgenstein's Tractatus and Husserl's Ideen are trying to do much the same thing, though in different ways."
+> **原句 7:** "I recently realised with a shock that Wittgenstein's Tractatus and Husserl's Ideen … are trying to do much the same thing, though in different ways."
 
 **中文理解：** 我最近震惊地意识到：维特根斯坦的《逻辑哲学论》与胡塞尔的《观念》其实试图做的是同一件事，只是路径不同。
 

@@ -88,7 +88,7 @@ source_text: ch14
 
 ### ⑥ 致 Brigid Brophy · 1971-04 · 老化的红利
 
-> **原句 6:** "However, I find I live increasingly in the present, an effect probably of ageing rather than of any sort of enlightenment. However, the consolations of art and love become greater too, more complex and more vivid."
+> **原句 6:** "However, I find I live increasingly in the present, an effect probably of ageing rather than of any sort of enlightenment. … However the consolations of art and love become greater too, more complex and more vivid."
 
 **中文理解：** 不过，我发现自己越来越活在当下——这多半是衰老的功效，而非什么开悟。不过，艺术与爱的安慰也随之变大、变复杂、变鲜活。
 

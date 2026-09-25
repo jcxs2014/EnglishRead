@@ -60,7 +60,7 @@ source_text: ch10
 
 ### ④ 致 Philippa Foot · 1963-11 · 角色移民
 
-> **原句 4:** "I am feeling rather peculiar having just finished a novel – an odd sort of loneliness – a lot of people I've been with a long time have just gone away. It's as if they've emigrated and though I shall hear tell of them I shall never be with them again."
+> **原句 4:** "I am feeling rather peculiar having just finished a novel … an odd sort of loneliness – a lot of people I've been with a long time have just gone away. It's as if they've emigrated and though I shall hear tell of them I shall never be with them again."
 
 **中文理解：** 刚写完一部小说，我感觉怪怪的——一种奇特的孤独——许多相处已久的人刚刚离我而去。仿佛他们移民了，往后只听得他们的消息，却再也不能相聚。
 
