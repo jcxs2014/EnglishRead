@@ -46,7 +46,7 @@
 **《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇全书完工**
 
 - 范围：`notes/books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/`；26 个正文精读文件（ch01–ch26，含 Chapter 7–10 续篇与 Resources）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 29 个 md；`text/` ch01–ch26 与正文 `source_text` 一一映射。
-- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af`。
+- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af` → `1db35122`（总览三篇）。
 - 章节门禁：`verify_quotes 257/257`（26/26）；`check_vocab 908` 行 `FAIL 0 / WARN 0`；`check_entities 0`；`check_chapter_quotes 257/257`；3 条短引语已人工 grep 兜底。
 - 总览门禁：`verify_overview_quotes 51/51`（金句 30、情感节点 21）；金句章节标签 `30/30`、节点标签 `21/21`；三篇 H1 语义校验 `3/3`。
 - 状态：执行方四件套与总览门禁完成；**独立五步审查未做（待用户主动发起）**；未 push。
