@@ -72,7 +72,7 @@ source_text: ch09
 
 **中文理解**：那条赛道上没有真正的莽撞鬼；优秀车手从不冒不必要的风险。他们不是鲁莽的男孩赛车手，而是冷静的专业人士，深深尊重危险，绝不乱来。
 
-**关键词**：no daredevils、good driver、unnecessary risk、cool professionals
+**关键词**：aren’t any daredevils、good driver、unnecessary risk、cool professionals
 
 **为什么这样写**：先否定最吸引人的莽撞形象，再以重复的专业定义重建勇气；good driver 的标准不是速度冲动，而是对危险的持续尊重。
 
@@ -106,7 +106,7 @@ source_text: ch09
 
 > "It was better to put yourself in the wrong and get your own way, than to stubbornly insist on being right and continue to be miserable."
 
-**中文理解**：把自己置于错误之中、从而得到你想要的结果，比固执地坚持自己正确、继续 miserable 要好。
+**中文理解**：把自己置于错误之中、从而得到你想要的结果，比固执地坚持自己正确、继续痛苦不堪要好。
 
 **关键词**：put yourself in the wrong、get your own way、stubbornly insist、continue to be miserable
 

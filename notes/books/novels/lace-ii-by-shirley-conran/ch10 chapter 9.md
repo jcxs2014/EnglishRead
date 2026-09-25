@@ -12,9 +12,9 @@ source_text: ch10
 
 **情感弧线位置**：公共改革受阻与私人关系复苏并行 → 欲望和危险共同升高 → 关系被外部袭击打断 → 帕根从压抑悲伤转为接受改变。
 
-**Tropes 兑现/反转**：鳏夫与旧爱重逢的禁忌浪漫被政治暗杀和公共风险放大；男性求婚并非单纯告白，而把国家改革与女性劳动绑定在一起。
+**Tropes 兑现/反转**：鳏夫与旧爱重逢的禁忌浪漫被政治暗杀和公共风险放大；男性求爱并非单纯告白，而把国家改革与女性劳动绑定在一起。
 
-**人物弧线**：阿卜杜勒拉从孤独的统治者转向向帕根寻求私人支持和公共合作；帕根从以拒绝维持体面，转为接受欲望、经历袭击并承认旧生活已经结束。
+**人物弧线**：阿卜杜勒拉从孤独的统治者转向向帕根寻求私人支持和公共合作；帕根从为维持体面而拒绝，转为接受欲望、经历袭击并承认旧生活已经结束。
 
 **叙事手法**：在阿卜杜勒拉的政治线、帕根的丧亲线和两人的关系线之间交叉剪辑；章节末把炸弹声作为硬切，随后用办公桌、狗项圈和哭泣把宏观危机重新落回个人创伤。
 
@@ -22,7 +22,7 @@ source_text: ch10
 
 > "Only the Sydonite women themselves can stop this practice. A man may agree that a virgin bride need not be proven so by mutilation but the women do not believe that, when it comes to the point, a man will accept such a girl. Because of their fear, no progress can be made."
 
-**中文理解**：只有西东尼特女性自己才能阻止这种做法。男人或许同意不必用 mutilation 来证明新娘是处女，但女性并不相信，在真正需要时，男人会接受这样的女孩；正因她们的恐惧，改革无法推进。
+**中文理解**：只有西东尼特女性自己才能阻止这种做法。男人或许同意不必用残割（割礼）来证明新娘是处女，但女性并不相信，在真正需要时，男人会接受这样的女孩；正因她们的恐惧，改革无法推进。
 
 **关键词**：Only the Sydonite women themselves、do not believe、when it comes to the point、no progress can be made
 
@@ -34,7 +34,7 @@ source_text: ch10
 
 > "a lonely child might well lack the urge toward curiosity and aggression, two qualities that are necessary to any adult male."
 
-**中文理解**：一个孤独的孩子可能恰恰缺少好奇心和进取心，而这两点 qualities 对任何成年男性都是必要的。
+**中文理解**：一个孤独的孩子可能恰恰缺少好奇心和进取心，而这两点特质对任何成年男性都是必要的。
 
 **关键词**：lonely child、lack the urge、curiosity and aggression、adult male
 
@@ -62,7 +62,7 @@ source_text: ch10
 
 **关键词**：a widow、haven’t made love、only used to、no longer the girl he remembers
 
-**为什么这样写**：四个短句把身份、经验、恐惧和衰老感逐层摊开；I must be put of my mind 把外部危险转成自我怀疑，显示帕根真正害怕的是再次被看见时失去旧自我。
+**为什么这样写**：五个短句把身份、经验、恐惧和衰老感逐层摊开；I must be put of my mind 把外部危险转成自我怀疑，显示帕根真正害怕的是再次被看见时失去旧自我。
 
 **读者视角提示**：她拒绝的不是爱情本身，而是被爱情唤醒的羞耻、衰老和失败记忆。
 

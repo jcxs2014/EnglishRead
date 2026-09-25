@@ -86,7 +86,7 @@ source_text: ch19
 
 **关键词**：your friend、This is Judy、out here
 
-**为什么这样写**：简短的身份陈述利用了旧关系，也迫使托尼从武器和陌生人重新定位到熟悉的人；重复姓名让朱迪把自己变成唯一可理解的入口。
+**为什么这样写**：简短的身份陈述利用了旧关系，也迫使托尼从武器和陌生人重新定位到熟悉的人；直接自报姓名让朱迪把自己变成唯一可理解的入口。
 
 **读者视角提示**：她不是以警察身份进入，而是以朋友身份谈判，这也解释了托尼为何愿意短暂打开门锁。
 
@@ -94,7 +94,7 @@ source_text: ch19
 
 > "As soon as Lili’s hands were free, she flung her arms around Judy. “You did come for me,” Lili said, as she fought back tears of relief and happiness. “My real mother did come for me, in the end.”"
 
-**中文理解**：莉莉的手一获得自由，她就张开双臂抱住朱迪。“你来救我了，”莉莉说着，努力忍住 relief 和 happiness 的眼泪。“最后，我的亲生母亲还是来救我了。”
+**中文理解**：莉莉的手一获得自由，她就张开双臂抱住朱迪。“你来救我了，”莉莉说着，努力忍住如释重负与喜悦的泪水。“最后，我的亲生母亲还是来救我了。”
 
 **关键词**：hands were free、flung her arms around Judy、You did come for me、My real mother
 
@@ -119,23 +119,26 @@ source_text: ch19
 | interminable | 无尽的；持续不断的 | the interminable police megaphone |
 | siege | 围困；围攻 | The police always string out a siege as long as they can |
 | handholds | 可抓握的支撑点 | There are a lot of handholds on that building |
-| momentum | 动量；势头 | I wouldn’t be able to maneuver into the window with the correct momentum. |
-| vulnerable | 易受伤害的 | Dangling from the rope, Gregg felt naked and vulnerable. |
 | supplication | 哀求；恳求 | Lili closed her eyes and linked her handcuffed fingers in an unconscious gesture of supplication. |
 | resolute | 坚决的 | Judy stood in front of Colonel Aziz, a resolute expression on her face. |
 | nerve-racking | 令人神经紧张的 | There was a long, nerve-racking pause. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| momentum | 动量；势头 | I wouldn’t be able to maneuver into the window with the correct momentum. |
+| vulnerable | 易受伤害的 | Dangling from the rope, Gregg felt naked and vulnerable. |
 | itinerary | 行程安排 | I had a copy of your travel itinerary |
 | first-rate | 一流的；极好的 | Judy, you know I’m a first-rate swimmer |
 | punishable | 应受惩罚的 | kidnapping is a crime punishable by death |
 | contemptuous | 轻蔑的 | She threw a contemptuous glance at Lili. |
 | ricocheted | 弹跳；反弹 | bullets ricocheted around the small stone-enclosed space |
 
-### ⭐⭐ 进阶
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| ambulance | 救护车 | I saw her into the ambulance, then came back here to look after you. |
-| kidnapper | 绑架者 | The longer it goes on, the jumpier the kidnapper gets |
 | mother | 母亲 | My real mother did come for me, in the end. |
 | daughter | 女儿 | my daughter’s life |
 | friend | 朋友 | I’m your friend, Tony. |

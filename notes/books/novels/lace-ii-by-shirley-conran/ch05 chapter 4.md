@@ -50,9 +50,9 @@ source_text: ch05
 
 **关键词**：live alone、stand on my own two feet、what I’m capable of、know myself properly
 
-**为什么这样写**：两组 if/otherwise 句把独立与自我认识绑定；stand on my own two feet 使用日常习语，让宏大的身份命题先落在双脚站稳的具体动作上。
+**为什么这样写**：一个 if 从句与 otherwise 结果结构把独立与自我认识绑定；stand on my own two feet 使用日常习语，让宏大的身份命题先落在双脚站稳的具体动作上。
 
-**读者视角提示**：莉莉把“被爱”视为旧关系的陷阱，但下一章她很快又把马克的吸引体验为新的自由，两者之间的张力已经开始。
+**读者视角提示**：莉莉警惕爱情再次成为生活的中心；下一章她又体验到另一种吸引，两者之间的张力已经开始。
 
 ---
 
@@ -84,7 +84,7 @@ source_text: ch05
 
 **中文理解**：我知道你在想什么；你想说要不是我这个带星号的女儿莉莉，我们不会陷入这团麻烦。
 
-**关键词**：what you’re thinking、my asterisk-asterisk daughter、weren’t in this mess
+**关键词**：what you’re thinking、my asterisk-asterisk daughter、wouldn’t be in this mess
 
 **为什么这样写**：asterisk-asterisk 模拟编辑在校样旁加注批注的符号，把税务、排印和未来争议一并塞进一个玩笑；玩笑越轻，母女身份带来的事业风险越沉重。
 

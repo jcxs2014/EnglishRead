@@ -86,7 +86,7 @@ source_text: ch12
 
 **关键词**：any number of nubile young women、snapping one’s fingers、less inclined、snap them
 
-**为什么这样写**：长句故意把选择数量和动作重复化，逻辑上像是在用 abundance 证明克制；yet the answer remains evasive，语言上的自信没有回答忠诚问题。
+**为什么这样写**：长句故意把选择数量和动作重复化，逻辑上像是在用 abundance 证明克制；但回答仍回避核心问题，语言上的自信没有回答忠诚。
 
 **读者视角提示**：帕根需要的是可执行的承诺，而不是把选择权交给阿卜杜勒拉的自我判断。
 

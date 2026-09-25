@@ -36,7 +36,7 @@ source_text: ch15
 
 **中文理解**：我的女儿身处危险，而我坐在这张该死的办公桌后面，感觉自己如此无力。
 
-**关键词**：fucking powerless、sitting behind this desk、daughter、in danger
+**关键词**：fucking powerless、sitting behind this fucking desk、daughter、in danger
 
 **为什么这样写**：粗口打破上层阶级的克制语体，把金钱、计划和法律都无法解决的无力直接推到身体感受；重复 fucking 让句子具有失控边缘的情绪节奏。
 

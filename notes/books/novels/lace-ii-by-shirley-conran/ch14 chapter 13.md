@@ -58,11 +58,11 @@ source_text: ch14
 
 > "Because America really is beautiful, American really is friendly, and America really is free!"
 
-**中文理解**：因为美国 really 美丽，美国 really 友好，美国 really 自由！
+**中文理解**：因为美国非常美丽、非常友好、非常自由！
 
 **关键词**：America really is、beautiful、friendly、free
 
-**为什么这样写**：三个平行分句制造竞选演讲式的节奏，重复 really 把口号推成一种过度自信的表演；桑迪的机智在于让观众相信她，同时暴露语言的 manufactured 性质。
+**为什么这样写**：三个平行分句制造竞选演讲式的节奏，重复 really 把口号推成一种过度自信的表演；桑迪的机智在于让观众相信她，同时暴露语言被人工制造的性质。
 
 **读者视角提示**：她的答案既是真心的家庭认同，也是精心计算过的电视媒介策略，甜美和商业在这里无法分开。
 

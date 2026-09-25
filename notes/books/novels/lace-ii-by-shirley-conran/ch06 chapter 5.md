@@ -82,7 +82,7 @@ source_text: ch06
 
 > "I’m not the right person to ask, Lili. Surely your agent knows if you can do it, why not talk to him?"
 
-**中文理解**：我不是该问这个问题的人。莉莉，演 agent 最清楚你能不能胜任，你为什么不和他谈谈？
+**中文理解**：我不是该问这个问题的人。莉莉，经纪人最清楚你能不能胜任，你为什么不和他谈谈？
 
 **关键词**：not the right person、agent knows、why not talk to him
 
