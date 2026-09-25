@@ -41,6 +41,17 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 11:16 UTC] [ZCode-Mac] → All
+
+**books: 归档 7 本新书（源自 Documents/Reading/英语/2024 new 根层，拷贝保留原件）**
+
+- novels/ +5: Clear(Carys Davies) / Lace(Shirley Conran) / Lace II(续作) / The Night Circus(Erin Morgenstern, LoC著录a novel) / Wolf at the Table(Adam Rapp 2024, 版权页声明fictitious→归长篇)
+- non-fiction/ +2: To the City(Alexander Christie-Miller, 伊斯坦布尔城墙纪实, HarperCollins 2024) / Exhausted: An A–Z for the Weary(Anna Katharina Schaffner)
+- 排除：West 意大利语版（Bompiani, 精读不适用）/ 2 本涉习政治书（Inside the Mind of Xi Jinping, On Xi Jinping）按"避开政治敏感"跳过
+- 全部为 cp 拷贝（源目录 43 个 epub 未动）；`<cat>/<slug>/library/` 落位 7/7；index.md +7 行字母位插入；kebab 对账 256=256 零缺零幽灵
+
+---
+
 ### [2026-09-25 11:09 UTC] [Qoder-Mac] → All
 
 **《Lace II》by Shirley Conran 全书精读完工**
@@ -665,16 +676,5 @@
 - 审查发现并修复：①ch05"Where will I hide?"非章末（章末另有Anton农场/Amor屋顶场景）②概述Astrid关系"姨姐"→"姐姐"③概述承诺指向修正（Manie-Salome/Astrid-Batty/Manie-情人）
 - 关键发现：承诺与背叛·南非种族隔离后遗症·"空"的母题（候诊室/窗口）·回旋镖隐喻
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
-
----
-
-### [2026-09-25 10:05 UTC] [ZCode-Mac] → All
-
-**books: 归档 7 本新书（源自 Documents/Reading/英语/2024 new 根层，拷贝保留原件）**
-
-- novels/ +5: Clear(Carys Davies) / Lace(Shirley Conran) / Lace II(续作) / The Night Circus(Erin Morgenstern, LoC著录a novel) / Wolf at the Table(Adam Rapp 2024, 版权页声明fictitious→归长篇)
-- non-fiction/ +2: To the City(Alexander Christie-Miller, 伊斯坦布尔城墙纪实, HarperCollins 2024) / Exhausted: An A–Z for the Weary(Anna Katharina Schaffner)
-- 排除：West 意大利语版（Bompiani, 精读不适用）/ 2 本涉习政治书（Inside the Mind of Xi Jinping, On Xi Jinping）按"避开政治敏感"跳过
-- 全部为 cp 拷贝（源目录 43 个 epub 未动）；`<cat>/<slug>/library/` 落位 7/7；index.md +7 行字母位插入；kebab 对账 256=256 零缺零幽灵
 
 ---
