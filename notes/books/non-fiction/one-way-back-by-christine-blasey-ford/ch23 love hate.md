@@ -38,7 +38,7 @@ modified: "2026-09-25"
 
 > "Even worse, it felt like if they knew the real me, they'd take it all back."
 
-> "I saw people holding signs that read "Stay Strong Christine" and "We Stand with Christine" while they chanted, "We are her. She is us.""
+> "My coworkers and students went, my friend Kirsten spoke, and it was featured on local news that night."
 
 ---
 

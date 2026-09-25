@@ -37,7 +37,7 @@ modified: "2026-09-25"
 
 > "Now I had coaches who knew the game better than I ever would."
 
-> "I imagined them saying, "Who is this nutty lady, with the underside of her hair dyed blue?""
+> "I called him from the parking lot of a Walgreens in Rehoboth so I could continue to avoid my parents' curiosity."
 
 > "For someone who feels like they might die during every flight they take, that is a lot of travel to handle in such a short time."
 

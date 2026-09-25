@@ -39,7 +39,7 @@ modified: "2026-09-25"
 
 > "I got notifications that my LinkedIn profile had been viewed by someone whose profile boasted that she'd destroyed Hillary Clinton's reputation during the email scandal."
 
-> "I packed a tote bag with a bathing suit for the pool, some pajamas, and a few extra shirts. I wouldn't be going home again for months."
+> "I was held hostage, periodically peeking out the window only to find that another car had shown up on my typically quiet street."
 
 ---
 
