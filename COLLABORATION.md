@@ -51,6 +51,8 @@
 - 门禁：`verify_quotes 88/88`（10/10 干净）；`check_vocab 94 行 FAIL 0`（WARN 17 为基础档启发式）；`check_entities 0`；逐章 `check_chapter_quotes` 全绿；`check_crossref 报警 0`；`verify_overview_quotes 21/21` + 自备 flat 脚本：金句 25 条章节归属 0 MISS、情感节点 26 条引语 0 MISS、概述行内英文引语 9 条 0 MISS。
 - 过程坑（详见 daily）：① 6 条短引语（<20 flat）工具静默跳过，已逐条 grep 本章 text 命中；② `check_anchoring` 对本库标准 `- 关键词：` 格式误报「无关键词行」，在已验收的 Lace 上同样 522/522，属脚本口径而非文件缺陷；③ 词汇表多次凭印象写入被抓（hopeless/hoax/sinuous/beguile/doubtful 等 9 条），均由 check_vocab 拦下后改用本章真实词形；④ 金句㉕ 章节标注错标 ch09（实为 ch08 编者按引文），章节归属对账时抓出并修正；⑤ 概述里 `a man with silver hair` 是改写，原文为 `had silver hair`，已回改。
 - 状态：目标目录 tracked=12、无未提交文件；index.md 已由归档批次登记（220 行），未重复插入；未 push。**独立五步审查未由用户发起，未自动执行。**
+- **终验自审（`64e6eb2a`，非五步审查）**：结构扫描 9 章四段齐全 / 74 块编号连续零重复零孤儿零占位；全串 sweep 绕开 52 字符指纹盲区（正文 74 + 金句 25 + 节点 32 + 概述 4 条，MISS 全 0）；分析层回源抓出并修正 2 处——概述误写丈夫 48 岁（原文 54）与职业表述（采 ch03 更具体版；ch01 说他是 conductor 属**原文自身前后不一致**，非精读缺陷）、ch09 手稿批注 `Gran OK final` 与 ch08 所引 `Grand final OK` 的措辞差异显式标注；说话人归属 8 条逐条 ±170 字符窗口确认；18 条亲属/身份断言全部有原文支撑。改后全套门禁重跑仍全绿。
+- 状态：目标目录 tracked=12、无未提交文件；index.md 已由归档批次登记（220 行），未重复插入；未 push。**独立五步审查未由用户发起，未自动执行**（上条终验为执行方自审，非审查）。
 
 ---
 
