@@ -12,7 +12,7 @@ source_text: ch13
 - **作者**：Alexander Christie-Miller
 - **体裁**：旅行纪实／叙事非虚构；少数族群史、机场建设与流亡经验
 - **章节定位**：Part II “Omens”第三章；从Silivrikapı的泉与希腊社区遗迹，转向库尔德活动者Tarık、移民经历、伊斯坦布尔机场的生态与劳工代价
-- **字符数**：约 30,200 字符；47 个实质段落
+- **字符数**：约 25,015 字符；47 个实质段落
 - **一句话主旨**：城墙边的少数族群历史并没有停留在过去：希腊Rum社区的沉默、库尔德家庭的流亡和机场建设对森林与劳工的伤害，共同说明所谓城市现代化不断以“历史连续性”和“国家未来”为名制造新的流离失所。
 
 章节以Balıklı修道院和Mihail对城墙的记忆开篇：历史遗址仍重要，却已经成为吸毒者、伪造者使用的空间。随后作者转向库尔德活动者Tarık，从父亲被捕、童年恐惧到机场工作被迫结束，呈现身份政治如何进入身体、工作和移民路线。机场的森林、蜜蜂、跑道、劳工和公共资金被放在同一叙事中，批评“现代化”如何把自然与人的代价隐藏在成功、速度和就业数字之后。
@@ -55,7 +55,7 @@ source_text: ch13
 
 **中文理解**：Silivrikapı门以Silivri命名——即古代的Selymbria，这条道路通向马尔马拉海沿岸的这座城镇；如今人们主要因它庞大的法院和监狱建筑群而知道那里，许多政治驱动的大规模审判曾在那里进行。
 
-**句子结构**：主句 The gate... was named after Silivri，破折号中的 ancient Selymbria 为同位语；to which its road had led 为定语从句，now known... 为现在分词短语，at which... 修饰 complex。
+**句子结构**：主句 The gate... was named after Silivri，破折号中的 ancient Selymbria 为同位语；to which its road had led 为定语从句，now known... 为过去分词构成的缩略过去分词结构，at which... 修饰 complex。
 
 **关键词**：`Silivrikapı`、`Silivri – ancient Selymbria`、`the Marmara coast`、`huge court and prison complex`、`politically-driven mass trials`
 
@@ -81,7 +81,7 @@ source_text: ch13
 
 **句子结构**：主语 I + 谓语 am still thinking + 宾语 that five-thousand-year-old footprint；that为指示限定语，footprint为名词。
 
-**关键词**：`still thinking`、`a five-thousand-year-old footprint`
+**关键词**：`still thinking`、`that five-thousand-year-old footprint`
 
 **表达方式**：用still强调持续性，用复合形容词把时间尺度压进一个名词短语；短句保留思考未完成的感觉。
 
@@ -153,7 +153,7 @@ source_text: ch13
 
 **句子结构**：主句 It was a situation enforced from two sides；冒号后的 on the one hand... and on the other hand... 为对称结构；made...criminal act 和 sought to claim and co-opt... 为并列谓语。
 
-**关键词**：`enforced from two sides`、`the state’s repression`、`potentially a criminal act`、`the PKK aggressively sought to claim and co-opt`、`all expressions of Kurdishness`
+**关键词**：`enforced from two sides`、`the state’s repression`、`a potentially criminal act`、`the PKK aggressively sought to claim and co-opt`、`all expressions of Kurdishness`
 
 **表达方式**：用from two sides先给出结构判断，再以on the one hand/on the other hand展开对位；enforced、claim、co-opt把制度与组织行动写成压力来源。
 
@@ -169,7 +169,7 @@ source_text: ch13
 
 **表达方式**：用are one把两个身份名词压缩为一个不可分割整体，because从句把当下选择追溯到世代历史；否定形式强调延续而非开端。
 
-**为什么这样写**：Tarık在结尾拒绝把自己的政治立场说成一时冲动或外部标签。历史压迫使族群和政治成为同一场生存斗争，也解释了他为何最终选择离开土耳其。
+**为什么这样写**：Tarık在结尾拒绝把自己的政治立场说成一时冲动或外部标签。历史压迫使族群和政治成为同一场生存斗争，也与他最终在恐惧中离开土耳其的政治压力相连。
 
 ## 词汇分级
 

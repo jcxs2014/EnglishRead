@@ -12,7 +12,7 @@ source_text: ch20
 - **作者**：Alexander Christie-Miller
 - **体裁**：历史说明／方法论附注；二手史料、战争叙事与写作影响
 - **章节定位**：全书正式阅读单元的收束说明；作者在正文之后交代自己并非受过训练的历史学家，并说明三部研究1453年君士坦丁堡围城的作品如何构成其知识基础
-- **字符数**：约 1,400 字符；1 个实质段落
+- **字符数**：约 1,217 字符；1 个实质段落
 - **一句话主旨**：作者用一段简短的史料说明主动降低自己的权威姿态：他承认没有原创研究、全靠历史学家的成果，同时把Runciman、Philippides、Hanak和Crowley分别放在“事件骨架”“证据审查”和“大众叙事影响”三个位置上，说明本书的历史叙述如何被既有传统塑造。
 
 这段附注只有十余行，却承担了全书方法论的门牌功能。作者先说明自己不是专业历史学家，也没有进行原创研究；然后把Steven Runciman、Marios Philippides、Walter K. Hanak和Roger Crowley的书分别说明为整体事件结构、史料概览和叙事灵感。最后，他说自己读Crowley后常感到在其阴影下写作，却仍认为那是一部无法轻易超越的大众史；关于末日暗示、新旧技术竞争的兴趣，也主要从那本书中得到更深入展开。附注因此不是普通推荐书目，而是作者对知识来源、权威边界和文学影响的自我定位。
@@ -92,13 +92,13 @@ source_text: ch20
 
 **中文理解**：虽然我在注释和书目中于适当的地方承认了这些来源。
 
-**句子结构**：While引导让步状语从句，主句省略了主语和谓语的延续意义；`where appropriate`作地点状语，`in the notes and bibliography`作范围状语。
+**句子结构**：选出的片段以 While 引导让步状语从句，主句在原文中位于片段之后；`where appropriate` 在此意为“在适当的情况下”，`in the notes and bibliography` 是范围状语。
 
 **关键词**：`acknowledged these`、`where appropriate`、`the notes and bibliography`
 
 **表达方式**：`where appropriate`保留了选择性的来源说明，而不是声称每一句都逐项标注；两个文献载体用and并列，体现学术写作的程序意识。
 
-**为什么这样写**：作者说明来源如何进入书末 apparatus，而不是把正文写成无来源的叙事。`appropriate`也提醒读者：注释不是装饰，而是有选择、有范围的证据管理。
+**为什么这样写**：作者说明来源如何进入书末的注释系统，而不是把正文写成无来源的叙事。`appropriate`也提醒读者：注释不是装饰，而是有选择、有范围的证据管理。
 
 > **原句 5:** "Steven Runciman’s The Fall of Constantinople, 1453, the classic account of the siege"
 
@@ -116,7 +116,7 @@ source_text: ch20
 
 **中文理解**：它在帮助我熟悉事件的整体结构以及我们关于这些事件的知识来源方面极其有用。
 
-**句子结构**：被动/系表结构was immensely helpful；in terms of引出用途，`familiarising myself with...`与`the origins...`为两个并列的介词短语结构。
+**句子结构**：被动/系表结构 was immensely helpful；in terms of 引出用途，后接动名词短语 familiarising myself with... 和名词短语 the origins... 两个并列的说明对象。
 
 **关键词**：`immensely helpful`、`familiarising myself`、`the overall structure of events`、`the origins of our knowledge`
 
@@ -140,7 +140,7 @@ source_text: ch20
 
 **中文理解**：它对历史来源的概览具有检验性，而且充满了引人入胜的细节和洞见。
 
-**句子结构**：两个并列系表结构：`forensic in its overview...`与`crammed with...`；in its overview说明范围，with连接填充内容。
+**句子结构**：两个并列的表语形容词结构：`forensic in its overview...` 与 `crammed with...`；in its overview说明范围，with连接填充内容。
 
 **关键词**：`forensic`、`its overview of the historical sources`、`crammed with fascinating details and insights`
 

@@ -12,7 +12,7 @@ source_text: ch17
 - **作者**：Alexander Christie-Miller
 - **体裁**：旅行纪实／叙事非虚构；海洋生态、城市扩张、奥斯曼历史、动物安置与帝国记忆
 - **章节定位**：Part II “Omens”第七章；从Marble Tower与海岸公路的变化，写入Sea of Marmara的污染和过度捕捞，再转向Sivriada的犬只流放史、Hagia Sophia的宗教转换和1453年征服
-- **字符数**：约 46,200 字符；71 个实质段落
+- **字符数**：约 38,158 字符；71 个实质段落
 - **一句话主旨**：城市的自然边界、动物记忆和宗教建筑都不是静止背景，而会在现代化、帝国叙事和生态危机中不断被重新解释；从Marmara海 dying到Hagia Sophia的转换，作者最终追问一个失落的城市是否真实存在、是否还能回来。
 
 本章从一座看似没有变化的Marble Tower开始，但新海岸公路、人工土地和地图上不断增大的城市轮廓已经改变了它的位置。作者在渔民İhsan Özçakal的带领下进入Sea of Marmara，既看到物种消失和黏液灾难，也追溯Dalan时期把Golden Horn污水改排入海的政策。叙事随后转向Sivriada：十九世纪欧洲化改革者把街头犬只视为公共卫生和国家落后的问题，最终实施大规模流放。最后，Hagia Sophia的拜占庭、奥斯曼和现代博物馆／清真寺身份，与1453年征服的目击者记录并置，构成一部关于谁有权讲述城市、谁被排除在现代化之外的历史。
@@ -168,11 +168,11 @@ source_text: ch17
 
 **中文理解**：我对那座城市感到一种不确定的渴望；我想相信它曾经存在过，不总是幻觉，也没有隐藏的代价和失衡。它究竟真实存在过吗？还能再次成为那样吗？
 
-**句子结构**：分号连接两个独立分句；`that...that...that...`构成三个并列宾语从句，句末两个疑问句把陈述转为开放追问。
+**句子结构**：分号连接两个独立分句；believe后接一组并列宾语：it had existed（省略that）、that it was not always an illusion，以及that there had not been some hidden cost in it, some imbalance（后一个名词短语沿用there had not been），句末两个疑问句把陈述转为开放追问。
 
 **关键词**：`an uncertain longing`、`I wanted to believe it had existed`、`it was not always an illusion`、`some hidden cost`、`some imbalance`、`Could it be again`
 
-**表达方式**：分号把向往与自我怀疑并置，三个`that`反复把理想城市拆成存在、代价和失衡三个问题；短问句将怀旧从赞美降为需要承担后果的追问。
+**表达方式**：分号把向往与自我怀疑并置，省略that的it had existed与后续两个that从句把理想城市拆成存在、代价和失衡三个问题；短问句将怀旧从赞美降为需要承担后果的追问。
 
 **为什么这样写**：结尾不提供自然和谐城市的保证，而是承认愿望可能建立在历史隐忧上。它把整章的生态灾难、动物流放和帝国更替收束成一个仍未解决的未来问题。
 

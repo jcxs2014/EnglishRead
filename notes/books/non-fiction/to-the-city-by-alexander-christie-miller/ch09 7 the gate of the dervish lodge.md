@@ -4,7 +4,7 @@ modified: "2026-09-25"
 source_text: ch09
 ---
 
-# 09. 7 The Gate of the Dervish Lodge（旋转门）
+# 09. 7 The Gate of the Dervish Lodge（道院之门）
 
 ## 概览
 
@@ -26,7 +26,7 @@ source_text: ch09
 5. **Fırat的行动**：Gezi之后，他把国家、环境和社区问题连接起来，建立居民协会。
 6. **协会的扩展**：组织从单一征收议题扩展到教育、难民课程、儿童补课和女性社交。
 7. **Cem的成瘾史**：军事服役、毒品、婚姻破裂、住房丧失与家庭支持把个人堕落连到城市结构。
-8. **康复与结构**：AMATEM、NA和Esenyurt live-in centre提供长期支持，但Cem强调这些仍只是表面，未触及根源。
+8. **康复与结构**：AMATEM、NA和Esenyurt的住宿式康复中心提供长期支持，但Cem强调这些仍只是表面，未触及根源。
 
 ## 论证结构
 
@@ -40,13 +40,13 @@ source_text: ch09
   | 居民从单户谈判转为以协会身份与市政府对话 | 组织与谈判记录 | 支撑集体行动比个体被动接受更能改变制度回应 |
   | Fırat把Gezi经验转成对社区住房和教育问题的责任 | 人物行动链 | 连接宏观政治事件与地方防守 |
   | Cem经历多次短期康复、复发和长期NA支持 | 成瘾经历与康复叙述 | 支撑“持续关系”比一次性治疗更重要 |
-  | Esenyurt高失业／低收入／移民环境与高海洛因使用并存 | 城市数据与田野观察 | 支撑成瘾治理必须处理贫困、家庭和住房根源 |
+  | Esenyurt人口几乎全由近期移民构成，且相关研究中海洛因使用率最高 | 城市数据与田野观察 | 支撑成瘾治理必须处理贫困、家庭和住房根源 |
 
 - **论证脉络**：穿过修复后的宗教街区和Paşa → 进入Yurdanur的婚姻与房屋 → 追溯Alevi和左翼社区历史 → 讲述征收如何把房屋价值变成债务 → Fırat从Gezi转向社区组织 → 协会扩大教育与社会服务 → 转入Cem的军事与成瘾经历 → 描写家庭支持和长期康复 → 前往Esenyurt比较新的成瘾规模 → 以“治疗需要触及根源”收束。
 - **可质疑处**：
   1. Yurdanur、Cem和Fırat的叙事都很有感染力，但三个人物不能自动代表Paşa所有居民；女性、租户、青年、老人和无子女家庭的差异在本章抽样中并不充分。
   2. 作者把社区互助写成抵抗更新和成瘾的重要资源，同时也在人物故事中呈现控制、排斥和家族伤害；这种复杂性值得保留，不能把“社区”自动等同于无条件安全。
-  3. Esenyurt的废水分析和Cem的观察显示问题规模，但短期康复中心的效果、复发率和长期成本仍缺少系统追踪；“live-in centre”是重要实验，却不能仅凭个案被评估为已经解决根源。
+  3. Esenyurt的废水分析和Cem的观察显示问题规模，但住宿式康复中心的效果、复发率和长期成本仍缺少系统追踪；这一“live-in centre”是重要实验，却不能仅凭个案被评估为已经解决根源。
 
 ## 选择性精读
 
@@ -54,7 +54,7 @@ source_text: ch09
 
 **中文理解**：那是一个街道紧密拥挤的世界，房屋破败杂乱，低层公寓楼交错其间。
 
-**句子结构**：主句 It was a world of...；with 复合介词短语列出 tight-packed streets、a motley of decaying houses 和 low apartment blocks 三个并列表语。
+**句子结构**：主句 It was a world of...；of 的补足语是 tight-packed streets，with 短语则并列 a motley of decaying houses 和 low apartment blocks。
 
 **关键词**：`a world of`、`tight-packed streets`、`a motley of decaying houses`、`low apartment blocks`
 
@@ -156,13 +156,13 @@ source_text: ch09
 
 **表达方式**：用两个并列过去完成时突出政策投入，再用but和no tangible results突然撤掉成果，形成投入／效果的落差。
 
-**为什么这样写**：Cem的经验迫使读者区分“政府有行动”与“行动有效”。把资金、人数和结果放在同一句中，揭示短期住院模式无法处理长期复发与社会根源。
+**为什么这样写**：Cem的经验迫使读者区分“政府有行动”与“行动有效”。把资金、人数和结果放在同一句中，揭示这种集中住院做法无法处理长期复发与社会根源。
 
 > **原句 10:** "What they were doing barely scratched the surface of the drug problem in Esenyurt, and did nothing to address its root causes."
 
 **中文理解**：他们所做的几乎只触及了Esenyurt毒品问题的表面，完全没有处理其根源。
 
-**句子结构**：主句 What they were doing 作主语从句，谓语 barely scratched the surface of the drug problem and did nothing to address its root causes 为并列谓语；its 指代 drug problem。
+**句子结构**：主句 What they were doing 作主语从句，谓语 barely scratched the surface of the drug problem in Esenyurt 与 did nothing to address its root causes 为并列谓语；its 指代 drug problem。
 
 **关键词**：`barely scratched the surface`、`the drug problem in Esenyurt`、`did nothing to address`、`its root causes`
 
@@ -201,7 +201,7 @@ source_text: ch09
 | activism | 行动主义；社会行动 | "He had been inspired to activism by the Gezi protests, and even years later – when he’d gone bald, got married, and had a child – he would still say that Gezi Park had changed his life." |
 | a collective voice | 集体声音 | "He wanted to start an association that would bring together the people of the neighbourhood so they could resist the project with a collective voice." |
 | expropriation | 征收；征收问题 | "In the end many of those affected by the scheme were won over, and the idea for the association evolved organically during these conversations to encompass more than just the expropriation issue." |
-| rehabilitation | 康复； rehabilitated state | "Nowadays Cem almost never came to Paşa; staying away had been part of his rehabilitation." |
+| rehabilitation | 康复；恢复 | "Nowadays Cem almost never came to Paşa; staying away had been part of his rehabilitation." |
 | addiction | 成瘾 | "Later, it was impossible for him to disentangle his descent into addiction from his experiences on military service." |
 | urban renewal | 城市更新 | "Fırat had heard from a friend about the urban renewal project to demolish the houses along the walls, and this was the issue he’d decided to focus on." |
 | neighbour | 邻居 | "You shared [your troubles] with your neighbour – we supported each other." |

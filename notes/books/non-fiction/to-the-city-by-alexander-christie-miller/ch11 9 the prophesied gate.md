@@ -12,7 +12,7 @@ source_text: ch11
 - **作者**：Alexander Christie-Miller
 - **体裁**：旅行纪实／叙事非虚构；自然史、末世预言与军事史互文
 - **章节定位**：Part II “Omens”第一章；由Vanuatu火山喷发和1452年天象异象进入1453年围城，解释预言、史料偏见与军事偶然性
-- **字符数**：约 36,906 字符；61 个实质段落
+- **字符数**：约 30,239 字符；61 个实质段落
 - **一句话主旨**：预言和异象可以解释围城者的恐惧，却不能把Mehmet的胜利写成不可避免的命运；本章通过地震、海战、陆战、援军与史料来源的细节，重新把1453年还原为一场结果长期不确定、双方都可能被击败的人与技术的较量。
 
 作者先以Kuwae火山喷发造成的全球气候和光学效应，连接自然事件与君士坦丁堡居民看到的天光；继而介绍Pseudo-Methodius预言和Xylokerkos门的古老故事。为了避免把后来的胜利倒推成必然，作者强调亲历记录多来自守军、奥斯曼方面资料稀少，并把“预兆”放回围城者的恐惧和有限知识中。军事部分从巨炮、修补城墙和海战写到Golden Horn运输船与最终攻势，说明Mehmet差一点失败，历史并非预言的自动实现。
@@ -21,7 +21,7 @@ source_text: ch11
 
 1. **火山与天象**：Kuwae喷发产生的尘埃和光学效应为城市异象提供自然解释。
 2. **预言网络**：末世文本、Xylokerkos故事和长期忧郁构成君士坦丁堡的心理背景。
-3. **史料警戒**：亲历者多来自守军，叙事可能让Mehmet显得 inevitability，掩盖其险些失败。
+3. **史料警戒**：亲历者多来自守军，叙事可能让Mehmet显得不可避免，掩盖其险些失败。
 4. **陆上围城**：巨炮、工程师、反地道和临时街垒使城墙不断被打开又修复。
 5. **海上的竞争**：援军四船在Golden Horn外与奥斯曼舰队交战，风向决定结果。
 6. **运输与反击**：Mehmet把船拖过陆路进入Golden Horn，迫使守军分兵并暴露海墙。
@@ -45,7 +45,7 @@ source_text: ch11
 
 - **论证脉络**：火山喷发 → 城市天象 → 预言文本 → 城墙封闭 → 史料来源偏差 → 巨炮轰击 → 临时修补 → 海战 → 援军抵达 → 陆路运船 → 守军分兵 → 最终三波攻势 → 城门被打开 → 重新评估“必然性”。
 - **可质疑处**：
-  1. 将1452年天象与Kuwae联系具有启发性，但自然证据只能支持“可能相关”，不能证明每一项异象都由同一火山活动造成；作者的“partial explanation”限定必须保留。
+  1. 将1452年天象与Kuwae联系具有启发性，但自然证据只能支持“可能相关”，不能证明每一项异象都由同一火山活动造成；作者的“部分解释”限定必须保留。
   2. 亲历资料偏向守军并不等于奥斯曼没有决策者、士兵和城市居民的经验；本章虽提到奥斯曼信件和学者，仍需避免用守军叙述替代对方视角。
   3. 战争中的“偶然”与“战略选择”很难完全分开。风向救了援军，Mehmet的运输计划也利用了具体地形和对手误判；若把一切归于不确定性，会削弱行动者应负的责任。
 
@@ -67,7 +67,7 @@ source_text: ch11
 
 **中文理解**：君士坦丁堡人民早已深陷预言和预兆的网中；随着帝国的长期衰落进入最后阶段，这些预兆变得更加悲观、更加令人窒息。
 
-**句子结构**：主句 The people... had long been mired in a web...；which 引导非限定性定语从句修饰 web，as 引导时间从句；their long decline entered its terminal phase 是从句中的主句。
+**句子结构**：主句 The people... had long been mired in a web...；which 引导非限定性定语从句，语义上修饰 prophecies and omens，as 引导时间从句；their long decline entered its terminal phase 是从句中的主句。
 
 **关键词**：`had long been mired in`、`a web of prophecies and omens`、`more pessimistic and stifling`、`long decline`、`terminal phase`
 
@@ -81,9 +81,9 @@ source_text: ch11
 
 **句子结构**：主语 The thicket of omens and prophecies... + 谓语 risks blinding；in which... 修饰 thicket，those of us who try to look back... 是宾语。
 
-**关键词**：`a thicket of omens and prophecies`、`tangled`、`risks blinding`、`those of us who try to look back`
+**关键词**：`The thicket of omens and prophecies`、`tangled`、`risks blinding`、`those of us who try to look back`
 
-**表达方式**：以thicket和tangled构成丛莽隐喻，再把“遮蔽观察者”作为历史解释的风险；risks weakening而非绝对断言，保留不确定性。
+**表达方式**：以thicket和tangled构成丛莽隐喻，再把“遮蔽观察者”作为历史解释的风险；risks blinding而非绝对断言，保留不确定性。
 
 **为什么这样写**：作者把自己也放入观察者的风险中，提醒读者亲历者会被预言框架牵引。历史解释既要解释他们的恐惧，也要避免继承他们的必然感。
 
@@ -163,7 +163,7 @@ source_text: ch11
 
 **中文理解**：Mehmet下令把他们钉在防守者看得见的地方；这种处决方式有时会让受害者在痛苦中存活好几天。
 
-**句子结构**：主句 Mehmet had them impaled in full view of the defenders；a method of execution... 为同位语，which 引导定语从句，left 为过去时，its victims... 为宾语和表语。
+**句子结构**：主句 Mehmet had them impaled in full view of the defenders；a method of execution... 为同位语，which 引导定语从句，left 为过去时，its victims 为宾语，painfully alive 为宾语补足语。
 
 **关键词**：`impaled in full view of the defenders`、`a method of execution`、`painfully alive`、`for as long as a few days`
 

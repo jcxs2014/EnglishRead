@@ -24,7 +24,7 @@ source_text: ch02
 3. **现场触发点**：空街、无人采摘的果实与沉默城墙构成作者所说的 “That was the moment”。
 4. **城墙象征**：四英里城墙被解释为抵御动荡、迁移和资本开发的“地质层”。
 5. **城市历史**：伊斯坦布尔在人口崩落与重建间反复吸引移民，几乎人人都可被描述为外来者。
-6. **作者转变**：新闻知识增加并未提升自信，反而让作者意识到愤怒、恐惧与距离 compromises 自己的位置。
+6. **作者转变**：新闻知识增加并未提升自信，反而让作者意识到愤怒、恐惧与距离会损害自己的位置。
 7. **全书承诺**：个人故事与1453年围城史并置，最终描绘一个被过去与未来同时压迫、却仍充满生命力的现在。
 
 ## 论证结构
@@ -55,7 +55,7 @@ source_text: ch02
 
 **句子结构**：This is a book about 后接两个并列介词短语：the old Byzantine land walls of Istanbul and the people who have lived around them，以及 their history and their endurance；through an era of relentless change 限定两个 their 名词短语。
 
-**关键词**：`old Byzantine land walls`、`people who have lived around them`、`their history`、`enduring through an era of relentless change`
+**关键词**：`old Byzantine land walls`、`people who have lived around them`、`their history`、`their endurance through an era of relentless change`
 
 **表达方式**：用 about 统领对象清单，再以 and 把“墙与人”“历史与韧性”两对关系并置，开篇便把建筑写成社会关系的载体。
 
@@ -119,7 +119,7 @@ source_text: ch02
 
 **表达方式**：先把建筑提升为 resistance 的 symbol，再用连续地质隐喻解释这种象征：城墙如岩层、岬角和背风面，抵抗时间、侵蚀与变化。
 
-**为什么这样写**：这是全章的核心隐喻，把城墙的耐久性与周边居民的脆弱形成反差。与此同时，leeway 中的 remnants 也承认抵抗以保存残余形式进行，为后文“城市不断被侵蚀”预留空间。
+**为什么这样写**：这是全章的核心隐喻，把城墙的耐久性与周边居民的脆弱形成反差。与此同时，依附在背风面的 remnants 也承认抵抗以保存残余形式进行，为后文“城市不断被侵蚀”预留空间。
 
 > **原句 7:** "But it has always risen again, always pulled in more people."
 
@@ -137,7 +137,7 @@ source_text: ch02
 
 **中文理解**：因为在伊斯坦布尔，每个人都来自别处。
 
-**句子结构**：Because 引导原因状语从句 in Istanbul, everyone is from somewhere else；everything 都与地点状语共同指向共同身份经验。
+**句子结构**：Because 引导原因状语从句 in Istanbul, everyone is from somewhere else；everyone 与地点状语共同指向共同身份经验。
 
 **关键词**：`Because in Istanbul`、`everyone`、`is from somewhere else`
 

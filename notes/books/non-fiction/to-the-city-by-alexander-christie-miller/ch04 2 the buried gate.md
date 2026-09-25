@@ -101,7 +101,7 @@ source_text: ch04
 
 **中文理解**：在中世纪战争中，它相当于一次登月式飞跃；在“墙与炮”之间旷日持久的战斗中，它向“保存与毁灭”推进了一大步——一边守护既有之物，另一边则将其摧毁，为新事物让路。
 
-**句子结构**：主句 It was a moonshot in medieval warfare；a leap forward in the long battle... 是同位语，between A and B 与 preservation and destruction 两组介词结构并列，one safeguarding... 和 the other tearing... 分别说明两方。
+**句子结构**：主句 It was a moonshot in medieval warfare；a leap forward in the long battle... 是同位语，between the wall and the gun 是介词短语，preservation and destruction 是并列名词短语，one safeguarding... 和 the other tearing... 分别说明两方。
 
 **关键词**：`a moonshot in medieval warfare`、`a leap forward`、`between the wall and the gun`、`preservation and destruction`、`tearing it down to make way for something new`
 
@@ -137,7 +137,7 @@ source_text: ch04
 
 **中文理解**：我们不应该过分强调他的年轻。
 
-**句子结构**：情态动词 should not 后接动词原形 make，too much 修饰 make a point of 的含义；his youth 是宾语。
+**句子结构**：情态动词 should not 后接动词原形 make，too much 修饰 make 所表达的“过分看重”含义；his youth 是宾语。
 
 **关键词**：`shouldn’t make too much`、`his youth`
 
@@ -161,11 +161,11 @@ source_text: ch04
 
 **中文理解**：但就像他下令铸造的那门巨炮一样，年轻的Mehmet身上有某种预兆性的东西：一种打破并重塑世界的意志。
 
-**句子结构**：But 引入主句 there was something portentous about the young Mehmet；like the great cannon he had ordered into being 为比较状语，he had ordered into being 是过去完成时被动式定语，冒号后 there was a will to break and remake the world 重新说明 something。
+**句子结构**：But 引入主句 there was something portentous about the young Mehmet；like the great cannon he had ordered into being 为比较状语，he had ordered into being 是主动过去完成时的省略定语，into being 表示制造的结果，冒号后的 a will to break and remake the world 重新说明 something。
 
 **关键词**：`like the great cannon`、`something portentous`、`a will to break and remake the world`
 
-**表达方式**：用 like 将Mehmet与巨炮并置，再以冒号揭示“预兆”背后的意志；连续过去完成时和被动式让命令、创造和结果彼此连接。
+**表达方式**：用 like 将Mehmet与巨炮并置，再以冒号揭示“预兆”背后的意志；过去完成时和 into being 的结果结构让命令、创造和结果彼此连接。
 
 **为什么这样写**：结尾将技术物和人合并为同一种“正在成形的力量”。巨炮只有一次成败，Mehmet的意志也被写成一次不可逆的历史实验，完成从城墙考古到人物行动的闭环。
 
@@ -185,7 +185,7 @@ source_text: ch04
 | virtually impenetrable | 几乎无法攻破的 | "At the time of its construction and for centuries afterwards, it was virtually impenetrable to the military technology of the day." |
 | a key civic duty | 一项关键的公民责任 | "Throughout the city’s history the maintenance of the walls remained a key civic duty that often involved the assistance of the general population, and repairs continued until the end, so far as the city’s rulers were able to finance them." |
 | surgical intent | 外科手术般精确的意图 | "From the first moments of his rule he moved with patience and surgical intent." |
-| a mask of cold reserve | 一副冷漠克制的面具 | "He hid his intentions behind a mask of cold reserve; his former impetuousity had been honed into an obsessive focus and a belief in his own destiny that exceeded even what one might expect from the heir to an empire." |
+| a mask of cold reserve | 一副冷漠克制的面具 | "He hid his intentions behind a mask of cold reserve; his former impetuousness had been honed into an obsessive focus and a belief in his own destiny that exceeded even what one might expect from the heir to an empire." |
 | portentous | 预兆性的；意味深长而令人不安的 | "But like the great cannon he had ordered into being, there was something portentous about the young Mehmet: a will to break and remake the world." |
 | a will to break and remake the world | 打破并重塑世界的意志 | "But like the great cannon he had ordered into being, there was something portentous about the young Mehmet: a will to break and remake the world." |
 

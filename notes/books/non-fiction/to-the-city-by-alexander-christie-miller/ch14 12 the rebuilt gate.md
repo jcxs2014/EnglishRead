@@ -12,7 +12,7 @@ source_text: ch14
 - **作者**：Alexander Christie-Miller
 - **体裁**：旅行纪实／叙事非虚构；城市遗产、地震防护、政治权力与社区生态
 - **章节定位**：Part II “Omens”第四章；从Belgradkapı修复争议写到2019年市政更替、城墙工程的公共原则，以及bostan菜园被拆除后的未来
-- **字符数**：约 23,200 字符；31 个实质段落
+- **字符数**：约 19,320 字符；31 个实质段落
 - **一句话主旨**：城墙修复不是把旧物“变新”的工程问题，而是在灾难风险、国家权力、旅游想象和居民生活之间决定什么值得保存的公共政治；本章以Belgradkapı的错误修复、现行项目的克制原则和bostan的消失，说明城市记忆只有在不被“现代化”抹平时才仍有公共价值。
 
 作者先回到Belgradkapı：1987年的修复用水泥和工业砖，把一座经历多个时代的门重新做成第五世纪的近似物；三十多年后，原有建筑反而像一件廉价而死亡的主题公园设施。章节随后把这段历史接到2019年İmamoğlu击败AK Party后启动的新工程，市政部门以“冻结遗址、最少干预”和抗震安全为原则，展示保护与维修可以同时存在。最后，镜头转向城墙旁的bostan：菜园被推土机掩埋，而居民对“公园还是菜园”的分歧说明，绿色空间一旦被旅游开发和房产利益重新命名，日常生活就会变成可被牺牲的残余。
@@ -155,7 +155,7 @@ source_text: ch14
 
 **中文理解**：难点在于，在这套“冻结原则”的保护要求与面对即将到来的地震、必须稳定塔楼的首要需求之间取得平衡。
 
-**句子结构**：主句 The difficulty + 系动词 was + 表语 balancing...；两个动名词短语balancing和to stabilise构成平行对照，of preservation修饰principle，in the face of...说明处境。
+**句子结构**：主句 The difficulty + 系动词 was + 表语 balancing...；动名词 balancing 与不定式 to stabilise 构成平行对照，of preservation修饰principle，in the face of...说明处境。
 
 **关键词**：`The difficulty was balancing`、`freezing principle`、`the paramount need to stabilise`、`in the face of the coming quake`
 

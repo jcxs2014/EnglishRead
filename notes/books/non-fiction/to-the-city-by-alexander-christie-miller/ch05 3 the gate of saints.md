@@ -26,7 +26,7 @@ source_text: ch05
 5. **茶馆与足球**：茶馆作为邻里节点，足球作为跨越教育和阶层差异的“水泥”。
 6. **külhanbeys与地方正义**：他们既保护社区也跨越法律边界，连接十九世纪遗产与Salih的童年记忆。
 7. **经济与政治的连锁冲击**：产业外迁、1980年政变、右翼自由化和Dalan的城市品牌工程使社区基础逐渐松动。
-8. **内部 developer**：Ertan来自本地并与政府关系密切；Salih既愤怒又认为项目“总要有人做”，最后以共同悲痛暂时修复对Ertan的敌意。
+8. **内部开发商**：Ertan来自本地并与政府关系密切；Salih既愤怒又认为项目“总要有人做”，最后以共同悲痛暂时修复对Ertan的敌意。
 
 ## 论证结构
 
@@ -42,7 +42,7 @@ source_text: ch05
   | 工业外迁削弱财政来源，随后足球俱乐部关闭 | 经济因果链与个人回忆 | 展示城市更新如何依赖更早的经济撤退 |
   | Ertan是本地家族并与Serdar有姻亲关系，Salih却认为项目无法避免 | 关系网络与人物叙述 | 破坏“外部资本入侵社区”的二分，揭示内部参与和结构性必然性 |
 
-- **论证脉络**：İsmet失去旧屋 → 追溯圣徒墓地和更早的居民迁徙 → 解释mahalle的历史结构 → 讨论现代化对亲密共同体的削弱 → 观察茶馆、足球和地方权威如何维持归属 → 追溯工业、政治暴力和自由化造成的长期衰退 → 发现Ertan既是亲戚也是开发商 → 呈现Salih的愤怒、谈判与宿命论 → 以Ertan丧子后的共同悲伤暂时恢复“一心一 fist”的共同体情绪。
+- **论证脉络**：İsmet失去旧屋 → 追溯圣徒墓地和更早的居民迁徙 → 解释mahalle的历史结构 → 讨论现代化对亲密共同体的削弱 → 观察茶馆、足球和地方权威如何维持归属 → 追溯工业、政治暴力和自由化造成的长期衰退 → 发现Ertan既是亲戚也是开发商 → 呈现Salih的愤怒、谈判与宿命论 → 以Ertan丧子后的共同悲伤暂时恢复“一颗心、一只拳头”的共同体情绪。
 - **可质疑处**：
   1. 从奥斯曼mahalle到今天的更新项目，叙述容易形成“传统共同体—现代资本”的单线退化史；实际上，早期邻里也包含排斥、闲言和强制，现代制度也提供了个人权利与公共福利，不能只以怀旧尺度衡量。
   2. “社区正在死亡”的判断主要来自作者的田野感受和Salih等男性口述者，缺少对女性、租户、年轻人和未发言居民的系统比较；社区内部的经验差异可能被“温暖的一大家子”意象遮蔽。
@@ -78,7 +78,7 @@ source_text: ch05
 
 **中文理解**：我有时觉得，把土耳其维系在一起的其实是茶。
 
-**句子结构**：I sometimes thought 后接 that 宾语从句；it 是形式上的强调焦点，tea 是从句主语，held Turkey together 是过去时谓语。
+**句子结构**：I sometimes thought 后接 that 宾语从句；it 是前置占位主语，真正被强调的是 tea，held Turkey together 是过去时谓语。
 
 **关键词**：`I sometimes thought`、`it was tea`、`held Turkey together`
 
@@ -102,7 +102,7 @@ source_text: ch05
 
 **中文理解**：如果这叫城市更新，那就应该和居住在其中的人一起做。
 
-**句子结构**：If 引导条件状语从句，it’s urban renewal 是缩写判断；主句 you do it with the people in it 使用祈使式表达，with 短语指明实施方式。
+**句子结构**：If 引导条件状语从句，it’s urban renewal 是缩写判断；主句 you do it with the people in it 是省略了情态成分的陈述句，具有规范／命令意味，with 短语指明实施方式。
 
 **关键词**：`If it’s urban renewal`、`you do it`、`with the people in it`
 
@@ -186,7 +186,7 @@ source_text: ch05
 | a state monopoly tea industry | 国家垄断的茶产业 | "Studies had pointed to it as a promising place for tea cultivation, so Menderes threw the state’s full weight behind the plan, creating a state monopoly tea industry from scratch: subsidising plantings, building the factories, training the workers, and buying the crop." |
 | a virtuous circle | 自我强化的良性循环 | "Cheap and ubiquitous, the tea of the Black Sea coast became a source of pride: a drink of the people, grown by the people, for the people, each act of consumption completing a virtuous circle through which the nation strengthened itself." |
 | a virtual neighbourhood parliament | 虚拟的邻里议会 | "They were places where disputes were aired and resolved, and came to serve as a ‘virtual neighbourhood parliament’ in the phrase of historian Ekrem Işın." |
-| a bellwether | 风向标；能预示变化的指标 | "As I spent more time at the teahouse, its very ordinariness began to strike me as significant. It was like a bellwether, the kind of place foreign reporters sweep into ahead of elections to take the ‘pulse of the nation’." |
+| a bellwether | 风向标；能预示变化的指标 | "As I spent more time at the teahouse, its very ordinariness began to strike me as significant. It was like a bellwether, the kind of place foreign reporters sweep into ahead of elections to take the ‘pulse of the nation’, and after observing it over time I began to draw sweeping insights from its most trivial features." |
 | sweeping insights | 宏大而概括的洞见 | "As I spent more time at the teahouse, its very ordinariness began to strike me as significant. It was like a bellwether, the kind of place foreign reporters sweep into ahead of elections to take the ‘pulse of the nation’, and after observing it over time I began to draw sweeping insights from its most trivial features." |
 | duelling attitudes | 相互对立的两种态度 | "There were the contradictory signs at the entrance, one reading ‘Welcome’, and the other warning that ‘non-members may not enter’, which to me seemed to encapsulate the duelling attitudes of warmth and wariness characteristic of small communities in Turkey." |
 | a different complexion | 不同的面貌；新的理解角度 | "It was only now, though, talking about Serdar’s nephew, that I learned something which put a different complexion on the Tokludede project." |

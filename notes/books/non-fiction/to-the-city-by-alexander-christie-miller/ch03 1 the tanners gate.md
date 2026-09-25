@@ -54,11 +54,11 @@ source_text: ch03
 
 **中文理解**：尽管海面吹来带着盐味的微风，浓重而黏腻的狗粪味仍宣告我已经抵达动物收容所。
 
-**句子结构**：主语 The smell of dog shit + 系动词 smell 的同位说明 thick and cloying；despite the salt breeze blowing in from the sea 是让步状语，blowing in from the sea 修饰 breeze；谓语 announced my arrival at the animal shelter 使用感官意象作主语。
+**句子结构**：主语 The smell of dog shit 后接 thick and cloying 作描述性修饰；despite the salt breeze blowing in from the sea 是让步状语，blowing in from the sea 修饰 breeze；谓语 announced my arrival at the animal shelter 使用感官意象作主语。
 
 **关键词**：`thick and cloying`、`despite the salt breeze`、`announced my arrival`、`animal shelter`
 
-**表达方式**：用 contradict 预期的 despite 结构压住海风的清爽，再让气味充当“ announces”这一到达动作的执行者； unpleasant sensation与arrival形成反常而鲜明的组合。
+**表达方式**：用出乎预期的 despite 结构压住海风的清爽，再让气味充当“announces”这一到达动作的执行者；令人不快的嗅觉与到达感形成反常而鲜明的组合。
 
 **为什么这样写**：作者把跨文化门槛压缩成一种可立即感知的身体经验：读者无需先理解历史便能进入场景。气味既是动物照护的日常证据，也与城市外围令人窒息的紧张形成后续对照。
 
@@ -90,7 +90,7 @@ source_text: ch03
 
 **中文理解**：评论家兼随笔家约翰·伯格写道，人与动物之间的陪伴不同于人与人之间的陪伴，因为这种陪伴是提供给作为一个物种的人类之孤独的。
 
-**句子结构**：主句 The companionship of animals differs from human companionship；the critic and essayist John Berger has written 为逗号插入的来源说明；because 引导原因从句，it 指代 animal companionship，offered to the loneliness of man as a species 为过去分词短语。
+**句子结构**：主句由 The companionship of animals 与 differs from human companionship 两部分组成；the critic and essayist John Berger has written 为逗号插入的来源说明；because 引导原因从句，it 指代 animal companionship，offered to the loneliness of man as a species 为过去分词短语。
 
 **关键词**：`differs from human companionship`、`companionship offered to the loneliness`、`man as a species`
 

@@ -15,11 +15,11 @@ source_text: ch10
 - **字符数**：约 59,579 字符；106 个实质段落
 - **一句话主旨**：2016年政变不仅改变了土耳其的政治制度，也改变了人们理解死亡、家庭、英雄和牺牲的方式；政府把抵抗叙述为民族复兴，把死者纳入烈士神话，而Gökhan、Tülay、Servet和作者家庭的经历显示，胜利叙事很快与任意逮捕、死亡责任和流亡生活交织在一起。
 
-本章从地铁站进入烈士墓地，再切换到2016年7月15日的城市战场。普通市民上街、警察和示威者与士兵交火、Erdoğan通过手机号召聚集，这些场景构成“人民意志”的公共戏剧。叙事随后转向Gökhan的拘押和死亡：官方验尸报告、拒绝调查与“叛徒墓地”把法律分类变成惩罚性标签。Tarkan为儿子建立家庭博物馆，展示了纪念如何把个人悲痛转成国家神话；作者则以父亲被调查、同事被捕和最终迁往英格兰的经历记录恐惧如何改变新闻工作与家庭生活。
+本章从Metrobus站进入烈士墓地，再切换到2016年7月15日的城市战场。普通市民上街、警察和示威者与士兵交火、Erdoğan通过手机号召聚集，这些场景构成“人民意志”的公共戏剧。叙事随后转向Gökhan的拘押和死亡：官方验尸报告、拒绝调查与“叛徒墓地”把法律分类变成惩罚性标签。Tarkan为儿子建立家庭博物馆，展示了纪念如何把个人悲痛转成国家神话；作者则以岳父被调查、外国记者朋友被驱逐、反对派媒体朋友被问讯或逮捕和最终迁往英格兰的经历，记录恐惧如何改变新闻工作与家庭生活。
 
 ### 结构列表
 
-1. **地铁与墓地**：现代交通设施切入烈士墓地，城市景观在死亡记忆中呈现。
+1. **Metrobus与墓地**：现代交通设施切入烈士墓地，城市景观在死亡记忆中呈现。
 2. **政变开始**：普通家庭收到消息、桥梁被封锁，历史性的“第五次政变”被居民迅速辨认。
 3. **街上抵抗**：Tolga、Servet和Açıkkollu一家面对坦克、飞机、枪声和失序的实时新闻。
 4. **人民与领导人**：Erdoğan通过脆弱的视频连接号召人们到广场，把私人危机转成全国动员。
@@ -36,14 +36,14 @@ source_text: ch10
 
   | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
   |------|------|------|
-  | 地铁站以“utilitarian violence”切入墓地 | 城市空间观察 | 说明现代基础设施与国家纪念仪式交叠 |
+  | Metrobus站以“utilitarian violence”切入墓地 | 城市空间观察 | 说明现代基础设施与国家纪念仪式交叠 |
   | 2016年7月15日居民实时观看坦克、飞机和军队行动 | 现场与新闻材料 | 证明政变经历由直播和身体在场共同形成 |
   | Erdoğan通过手机视频号召群众到广场 | 领导讲话与媒体传播 | 说明“人民意志”如何被转化为全国动员 |
   | Gökhan被拘押、死亡，官方报告与家属叙述存在冲突 | 医疗／司法文件与家庭证词 | 支撑政变后执法责任和程序正义的问题 |
-  | Tarkan在旧屋中保存Tolga的遗物并命名为“second conquest” | 家庭纪念与博物馆比较 | 说明国家神话如何吸收私人悲痛 |
-  | 77,000人被捕、180,000人失去公共岗位、170家媒体关闭 | 官方统计与制度后果 | 量化政变后镇压的范围和扩大趋势 |
+  | Tarkan把旧屋改成纪念儿子的博物馆，并称7月15日为“第二次征服” | 家庭纪念与博物馆比较 | 说明国家神话如何吸收私人悲痛 |
+  | 超过77,000人被捕、180,000人失去公共岗位、超过170家媒体关闭 | 官方统计与制度后果 | 量化政变后镇压的范围和扩大趋势 |
 
-- **论证脉络**：从地铁站到烈士墓地 → 进入政变当夜的普通家庭 → 记录街上抵抗与Erdoğan号召 → 转向Gökhan的拘押和死亡 → 说明验尸与司法拒绝 → 观看Tarkan的烈士博物馆 → 追踪Gülen清洗和Servet的英雄叙事 → 观察作者的岳父与新闻网络受压 → 以家庭迁离结束。
+- **论证脉络**：从Metrobus站到烈士墓地 → 进入政变当夜的普通家庭 → 记录街上抵抗与Erdoğan号召 → 转向Gökhan的拘押和死亡 → 说明验尸与司法拒绝 → 观看Tarkan的烈士博物馆 → 追踪Gülen清洗和Servet的英雄叙事 → 观察作者的岳父与新闻网络受压 → 以家庭迁离结束。
 - **可质疑处**：
   1. 叙事容易把“人民抵抗”与“民主合法性”自然等同，但街上参与者动机复杂，政变本身也涉及Gülen网络、军队派系和未解决的提前预警问题；抵抗胜利不能自动回答政变责任的全部范围。
   2. Tarkan的烈士叙事代表一种真实家庭立场，但作者把它与国家神话并置时，可能低估了悲痛者主动寻找意义、抵抗被清除的政治空间；需要把“被国家利用”与“主动相信”区分开。
@@ -53,7 +53,7 @@ source_text: ch10
 
 > **原句 1:** "The Edirnekapı Metrobus station was, in its way, just as characteristic of the city’s moods and atmospheres: a breathtaking piece of utilitarian violence wrought on the urban topography."
 
-**中文理解**：Edirnekapı地铁站在某种意义上同样典型地体现了这座城市的情绪和氛围：一件令人震撼的、铸入城市地形的功利主义暴力作品。
+**中文理解**：Edirnekapı Metrobus站（BRT公交站）在某种意义上同样典型地体现了这座城市的情绪和氛围：一件令人震撼的、铸入城市地形的功利主义暴力作品。
 
 **句子结构**：主句 The Edirnekapı Metrobus station was, in its way, just as characteristic of the city’s moods and atmospheres；冒号后的 a breathtaking piece of utilitarian violence... 是同位语，wrought on the urban topography 为过去分词短语。
 
@@ -61,7 +61,7 @@ source_text: ch10
 
 **表达方式**：用 characteristic把建筑与城市性格连接，再用 breathtaking和 utilitarian violence制造审美与功能性的冲突；wrought将基础设施写成被铸造进土地的作品。
 
-**为什么这样写**：作者不把地铁站当作中性交通工具，而把它看成现代城市速度、权力和墓地共存的空间。标题的Gate of Martyrs因此从一个地理地点扩展为“交通、死亡和国家记忆相互塑造”的入口。
+**为什么这样写**：作者不把Metrobus站当作中性交通工具，而把它看成现代城市速度、权力和墓地共存的空间。标题的Gate of Martyrs因此从一个地理地点扩展为“交通、死亡和国家记忆相互塑造”的入口。
 
 > **原句 2:** "For the fifth time in six decades Turkey’s military, or a faction within it, had decided to overthrow the elected government."
 
@@ -121,13 +121,13 @@ source_text: ch10
 
 **表达方式**：用医疗记录的客观名词和并列伤情制造“制度语气”，却在最后一个被动分词短语中留下责任争议：resuscitation被描述为原因来源，而不是独立解释。
 
-**为什么这样写**：作者不直接断言Gökhan死于酷刑，而是让报告自身的语言把问题交给读者。心跳骤停、出血、骨折和“抢救”之间的因果关系，正是司法拒绝继续调查的核心。
+**为什么这样写**：作者不直接断言Gökhan死于酷刑，而是让报告自身的语言把问题交给读者。心脏病发作、出血、骨折和“抢救”之间的因果关系，正是司法拒绝继续调查的核心。
 
 > **原句 7:** "In the new mythology of Turkey, 15 July was a stepping stone in the country’s emancipation from the colonial influence of the West and its re-establishment as a global power."
 
 **中文理解**：在土耳其的新神话中，7月15日是国家摆脱西方殖民影响、重新确立全球强国地位的一块踏脚石。
 
-**句子结构**：In the new mythology of Turkey 是地点状语；主语 15 July + 系动词 was + 表语 a stepping stone；of/in 介词短语分别说明踏脚石所指向的解放和全球权力。
+**句子结构**：In the new mythology of Turkey 是地点状语；主语 15 July + 系动词 was + 表语 a stepping stone；in the country’s emancipation from the colonial influence of the West 和 its re-establishment as a global power 是两个并列的介词短语，分别说明解放和全球权力。
 
 **关键词**：`the new mythology of Turkey`、`15 July`、`a stepping stone`、`emancipation from the colonial influence of the West`、`re-establishment as a global power`
 
@@ -169,7 +169,7 @@ source_text: ch10
 
 **表达方式**：用短句完成重大人生迁移，too将作者与此前叙述中离开的群体并置；两个并列动词去掉解释，留下行动本身。
 
-**为什么这样写**：这句话是全章从公共事件到私人后果的收束。土耳其的恐惧、监控和不确定性不能只留在政治分析里，而会改变记者家庭的国籍、语言和未来。
+**为什么这样写**：这句话是全章从公共事件到私人后果的收束。土耳其的恐惧、监控和不确定性不能只留在政治分析里，而会改变记者家庭的生活地点与未来方向。
 
 ## 词汇分级
 

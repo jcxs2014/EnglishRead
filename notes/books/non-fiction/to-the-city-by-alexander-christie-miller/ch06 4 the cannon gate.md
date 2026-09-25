@@ -4,7 +4,7 @@ modified: "2026-09-25"
 source_text: ch06
 ---
 
-# 06. 4 The Cannon Gate（炮弹之门）
+# 06. 4 The Cannon Gate（大炮门）
 
 ## 概览
 
@@ -91,7 +91,7 @@ source_text: ch06
 
 **中文理解**：“没人注意到那件事。”Kader说。“想想看，情况得糟糕到什么程度才会发生这种事？她做过MRI检查、肺部和脊髓X光检查……可没有人发现。”
 
-**句子结构**：第一句是直接引语加说话人标签said Kader；第二句是另一段直接引语，Think about... 是省略 that 的疑问宾语从句，She went through... 是陈述证据，省略号表示中间话语被省略。
+**句子结构**：第一句是直接引语加说话人标签said Kader；第二句是另一段直接引语，Think about... 是祈使结构加 how terrible... 宾语从句，She went through... 是陈述证据，省略号表示中间话语被省略。
 
 **关键词**：`Nobody noticed it`、`Think about how terrible`、`MRI scans`、`lung and spinal cord X-rays`、`No one saw it`
 
@@ -103,7 +103,7 @@ source_text: ch06
 
 **中文理解**：医疗改革是容易摘取的政治成果，它给了政府一个机会去争取那些被既有系统辜负的数百万人；也让西方支持者高兴的是，政府很大程度上遵循了世界银行制定的新自由主义蓝图。
 
-**句子结构**：主句主语 Healthcare reform + 系动词 was + 表语 low-hanging fruit；which 引导定语从句，offered... and... 连接两个结果；a neo-liberal blueprint developed by the World Bank 是蓝图的后置定语。
+**句子结构**：主句主语 Healthcare reform + 系动词 was + 表语 low-hanging fruit；which 引导定语从句，offered... 是第一个结果；and 连接第二个主句 they largely followed...，to the delight of their Western supporters 为插入语，a neo-liberal blueprint developed by the World Bank 是蓝图的后置定语。
 
 **关键词**：`Healthcare reform`、`low-hanging fruit`、`the millions of people`、`being failed by the existing system`、`neo-liberal blueprint`
 
@@ -127,11 +127,11 @@ source_text: ch06
 
 **中文理解**：“（在AK党那里）我对公众和国家感受到更多的团结与慈善——这是我亲眼见到的。”
 
-**句子结构**：There is 引导存在句；主语 more solidarity and charity，介词短语 towards the public and the nation 说明对象，方括号内为作者补充的说话人归属破折号结构中的插入语，I’ve seen it 是省略主语 I 的现在完成时证据句。
+**句子结构**：There is 引导存在句；主语 more solidarity and charity，介词短语 towards the public and the nation 说明对象，方括号内为作者补充的政治主体说明，I’ve seen it 是省略主语 I 的现在完成时证据句。
 
 **关键词**：`more solidarity and charity`、`towards the public and the nation`、`I’ve seen it`
 
-**表达方式**：用存在句先给判断，再以方括号补出党这一政治主体；破折号后的 I’ve seen it把宏观评价拉回个人见证。
+**表达方式**：用存在句先给判断，再以方括号补出提供团结与慈善的政治主体；破折号后的 I’ve seen it把宏观评价拉回个人见证。
 
 **为什么这样写**：Kader不否认组织带来的实际互助，也不把党只描述成压迫机器。句子通过“团结／慈善”与“亲眼见过”的并置，呈现支持者如何把公共福利理解为归属和忠诚的来源。
 
