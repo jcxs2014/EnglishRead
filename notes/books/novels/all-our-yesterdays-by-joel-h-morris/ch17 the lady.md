@@ -26,27 +26,7 @@ source_text: ch17
 
 **读者视角提示**：`They say witches prowl about` 与 ch07 里 Marsaili 讲女巫、ch12 里黑袍妇人在城下宰猪，是同一条线索的第三次点亮。
 
-> **原句 2:** She is an object of my will, and I can simply think her away.
-
-她是我意志的对象，我只要把她想掉就行了。
-
-**关键词**：an object of my will / think her away
-
-**为什么这样写**：`an object of my will`（我意志的对象）用一种近乎法律与神学的措辞描述一个女仆：她不是人，是一件被意志处置的物。而 `think her away`（把她想掉）把「无视」这个最抽象的社交行为具象成了一次意念的删除——她不赶走她，只是停止看见她。这句话是全书对她权力最精炼的一次定义，也是本章后面一切行动的方法论：她处理世界的默认动作就是**取消**。
-
-**读者视角提示**：几段之后，她用同样的方式取消了女侍——不是解雇她，而是写信让国王替她取消解雇。
-
-> **原句 3:** “It is unnatural. I swear I’ll be cursed if I do.”
-
-「这不自然。我发誓，我要是碰了它就会遭诅咒。」
-
-**关键词**：It is unnatural / I swear / I’ll be cursed if I do
-
-**为什么这样写**：女侍的抵抗完全建立在两句话上：`It is unnatural`（这不是自然之物）与 `I swear`（我发誓）——两个都是**修辞**而非证据。而 `I'll be cursed if I do` 用条件句把触碰这件事的代价预支给未来，她甚至不需要知道那东西是什么。值得注意的是她的句式里没有「我不敢」，只有「我会遭诅咒」：恐惧被写成了命运的条款，而不是自己的怯懦。
-
-**读者视角提示**：格鲁奥赫的回应只有一句 `Nonsense. Pick it up and show me.`（胡说。捡起来给我看看。）——两种世界观在本段第一次正面相撞。
-
-> **原句 4:** I can only think of old wives’ remedies. I do not wish to turn to those.
+> **原句 2:** I can only think of old wives’ remedies. I do not wish to turn to those.
 
 我只能想到那些老妲娘的药方。我不想去用那些。
 
@@ -56,7 +36,7 @@ source_text: ch17
 
 **读者视角提示**：读者会想起 ch04 里那卷十一重的祈祷经、那个十一岁的女孩；她一生都在拒绝用迷信救自己，而这一章逼她破了例。
 
-> **原句 5:** The joy of Ard Ri—of any game—is thinking as another might think.
+> **原句 3:** The joy of Ard Ri—of any game—is thinking as another might think.
 
 Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
@@ -66,17 +46,7 @@ Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
 **读者视角提示**：这一段是她本章的方法论基础；读完它，读者才明白接下来那场对质在她眼里只是一次「应手」。
 
-> **原句 6:** In those moments you know that another’s mind is her own.
-
-在那些时刻你才会知道，另一个人的心智是她自己的。
-
-**关键词**：In those moments / another’s mind is her own
-
-**为什么这样写**：`In those moments` 承接上文那个「最罕见的情形」——对手选了一步你绝不会选的棋。整句的真正设计在系动词 `is`：`another’s mind`（他人的心智）与 `her own`（她自己的）用的是同一个 `own`——两者在语法上被写成同一件东西，却在事实上截然不同。而这正是作者下一句要展开的悖论：你们受同样的力、吃同样的食物、被同样的人群围绕，思维却完全不同。
-
-**读者视角提示**：这句话同时是全书对她与儿子关系的预告——她一生都无法真正读懂那个孩子。
-
-> **原句 7:** Instead, we have been playing different games. She is not some incubus, some witch; she’s a frightened girl.
+> **原句 4:** Instead, we have been playing different games. She is not some incubus, some witch; she’s a frightened girl.
 
 不，我们一直在下的是不同的棋。她不是什么梦魔，不是什么女巫；她只是一个受惊的女孩。
 
@@ -86,27 +56,7 @@ Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
 **读者视角提示**：`We have been playing different games`（我们下的是不同的棋）是她第一次意识到：她与女侍之间不存在真正的对抗，只是一次各自孤独的计算。
 
-> **原句 8:** This is the world, its workings. It is like a clockwork, actions begetting reactions.
-
-这就是世界，它的运作方式。它像一座钟表机构，行动生出反应。
-
-**关键词**：its workings / like a clockwork / actions begetting reactions
-
-**为什么这样写**：`workings`（机件、运作）一词把世界比作一组齿轮，而 `actions begetting reactions`（行动生出反应）用 `-ing` 的现在分词复数构成一个机械的闭环：每一个动作都生出一个反作用，而反作用又成为下一个动作的原因。`begetting` 这个词把因果关系降格为生殖——机芯不带感情，只按齿序啮合。
-
-**读者视角提示**：紧接其后的 `My own life has been like a clockwork, too, beyond my control`（我的一生同样像一座钟表机构，不受我控制）把这套比喻用在她自己身上；她刚刚用钟表解释完女侍，也用钟表解释完自己。
-
-> **原句 9:** It was only…when she died, Banquo barely set eyes on the baby.
-
-只是……她死后，Banquo 几乎不看孩子一眼。
-
-**关键词**：It was only / when she died / barely set eyes on the baby
-
-**为什么这样写**：句首那个被引号吞掉的省略号（`It was only…`）在原文里是被引用的心话——女侍承认自己动手脚的理由，全在这一句里。而 `barely set eyes on`（几乎不看一眼）把「不关心」写成一件**用眼睛完成的**事，随后 `the baby` 的宾语位置让这个词组显得格外刺目。她做的所有事都是为了补上这双不看孩子的眼睛。
-
-**读者视角提示**：这一句与 ch12 那场围骂里村民喊的 `Moray’s burned to ash` 属同一类语法——用一个动词短语把整条责任链说尽。
-
-> **原句 10:** I was the daughter of a dead mother, an indifferent father. Wife of a brutal husband.
+> **原句 5:** I was the daughter of a dead mother, an indifferent father. Wife of a brutal husband.
 
 我是一个死去的母亲的女儿，一个冷漠的父亲的妻子。一个暴虐丈夫的妻子。
 
@@ -116,17 +66,17 @@ Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
 **读者视角提示**：`All of it was a clockwork cage to live in`（这一切是一座供人活着的钟表牢笼）紧接其后——她给自己的整个人生只留了一个容器，没有出口。
 
-> **原句 11:** “Do not go,” I say. “Ignore Banquo’s dismissal. Stay.”
+> **原句 6:** “Do not go,” I say. “Ignore Banquo’s dismissal. Stay.”
 
 「别走，」我说。「不要理会 Banquo 的辞退。留下。」
 
 **关键词**：Do not go / Ignore Banquo’s dismissal / Stay
 
-**为什么这样写**：三个短促的祈使句，从拒绝到指令到收束，节奏像盖下一枚印。而 `Ignore`（无视）一词是本段的关键：她并不撤销 Banquo 的命令，她教人**不理它**——这是 ch08 她自己总结出的那条方法（`which face to present to them`）的第一次实际运用。`Stay` 单独成句，与下一段里国王来信将要起的作用遥相呼应：她此刻说的每一句，几天后都会以另一个人的名义被兑现。
+**为什么这样写**：三个短促的祈使句，从拒绝到指令到收束，节奏像盖下一枚印。而 `Ignore`（无视）一词是本段的关键：她并不撤销 Banquo 的命令，她教人**不理它**——这是 ch13 她自己总结出的那条方法（`which face to present to them`）的第一次实际运用。`Stay` 单独成句，与下一段里国王来信将要起的作用遥相呼应：她此刻说的每一句，几天后都会以另一个人的名义被兑现。
 
 **读者视角提示**：全书最重要的一句政治操作只用了三个词；读者此时已经知道结局——而 Banquo 将会以为是自己想通的。
 
-> **原句 12:** I have written a letter to King Malcolm. I am within my rights.
+> **原句 7:** I have written a letter to King Malcolm. I am within my rights.
 
 我给国王 Malcolm 写了一封信。这是我的权利。
 
@@ -136,17 +86,7 @@ Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
 **读者视角提示**：这是历史上真实发生的事（Malcolm III 曾就 Fleance 写信给 Banquo），作者把一封史料放在了一个虚构动机下——她要用它来救下那个刚刚承认自己毒了婴儿的女侍。
 
-> **原句 13:** A new time will begin. Banquo may suspect me somehow, but more likely he will believe he has come to his conclusions alone.
-
-一个新时期将要开始。Banquo 或许会怀疑到我，但更可能的是，他会相信那些结论是他自己想出来的。
-
-**关键词**：A new time will begin / he will believe he has come to his conclusions alone
-
-**为什么这样写**：`A new time will begin`（一个新时期将要开始）用了极简的将来时，却重得能压住整章——与 ch13 那句 `A peaceful house with a baby and a ghost mother in it` 同一笔法。而后半句的 `he will believe he has come to his conclusions alone`（他会相信那些结论是他自己想出来的）用 `alone` 作宾语的补足语，把「功劳」判给了对方：她要的不是被感激，是不被察觉。
-
-**读者视角提示**：`I have spun a tale in which only one person wins`（我编了一套只有一个人赢的故事）一句道破了本段的算术——她刚刚替那位亡妻做了一个了断（她在 Banquo 记忆里成了被魔鬼缠上的女人），而这个了断会随新时期的开始被埋葬。
-
-> **原句 14:** No matter. I will be out of earshot, out of sight. I will be home.
+> **原句 8:** No matter. I will be out of earshot, out of sight. I will be home.
 
 不要紧。我会离开听力所及，离开视线。我要回家了。
 
@@ -185,7 +125,6 @@ Ard Ri 之乐——任何棋类的乐趣——在于像对方那样思考。
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| spell | （一次）施咒 | He dropped them into Banquo’s posset for him to drink |
 | blood | 血 | A stain of dried blood |
 | linen | 亚麻布 | She holds up a thin piece of linen |
 | pall | 覆盖物；幔帐 | the pall over the place, the fear of the dark fiend |

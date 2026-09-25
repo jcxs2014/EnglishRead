@@ -16,17 +16,7 @@ source_text: ch18
 
 ## 精读
 
-> **原句 1:** Outside the castle gate stood a line of beggars—thin men, hungry; women with bluing lips; children shivering in the cold.
-
-城堡门外站着一队乞丐——瘦削的、饥饿的男人；嘴唇发青的女人；在冷风里发抖的孩子。
-
-**关键词**：a line of beggars / thin men, hungry / bluing lips
-
-**为什么这样写**：破折号前后的对照是本章的背景音：门外是三组被削到极限的人（瘦、青、抖），门内是一个有火、有麦酒、有施舍的城堡。而 `bluing lips`（发青的嘴唇）用了一个极冷的生理细节——饿到嘴唇变蓝需要很长时间，作者让读者一眼看出这是一群长期饥饿的人。这三个分句各用一个逗号切断，节奏像在清点货物。
-
-**读者视角提示**：本章他第一次从城墙上俯视自己的领民；`Even in the harsh winter, men from the village would come up the road…` 紧接其后，饥饿与秩序在同一条路上并存。
-
-> **原句 2:** There was a man so thin he looked like a skeleton with a beard sprouting from his bony chops.
+> **原句 1:** There was a man so thin he looked like a skeleton with a beard sprouting from his bony chops.
 
 有那么一个人瘦得像个骷髅，骨朵上却冒着一丛胡子。
 
@@ -36,27 +26,17 @@ source_text: ch18
 
 **读者视角提示**：紧接着作者写了那个胖乞丐（`a large, hefty man… with round, rosy cheeks`）与他形成正反两面，而胖子最终被所有人接进了火堆——本段的关键不在于穷苦，而在于**谁被接纳**。
 
-> **原句 3:** But the others accepted him with nods and allowed him into their fire circle, even the skeletal man.
-
-但其他人点头接纳了他，让他进了自己的火圈，连那个骷髅一样的人也接纳了。
-
-**关键词**：accepted him with nods / allowed him into their fire circle / even the skeletal man
-
-**为什么这样写**：`But` 一词把整段推翻——这个胖子既不瘦（`fat compared to the rest`）也不属于任何家族，却因为饥饿而平等。而 `fire circle`（火圈）是一个有边界、有次序的意象：篝火边的位置就是社会位置。`even the skeletal man` 这个插入语才是真正的证明：最不可能与他为伍的那个人接纳了他。
-
-**读者视角提示**：那个胖子唱完歌后抬头对城墙上他眨了眨眼（`looked up at the boy on the parapet and winked`）——这是男孩第一次被一个不属于他家族的人看见。
-
-> **原句 4:** They only know my legs and my voice. But you they can see more squarely. They can look you in the eyes.
+> **原句 2:** They only know my legs and my voice. But you they can see more squarely. They can look you in the eyes.
 
 他们只认得我的腿和我的声音。可你他们看得更清楚。他们能直视你的眼睛。
 
 **关键词**：only know my legs and my voice / you they can see more squarely / look you in the eyes
 
-**为什么这样写**：`legs and voice` 两个极具体的身体部位，被缩略成一条狗能认识的全部——这个观察本身就把王权降格为一种表演性的存在。而 `but you` 的转折把「我」与「你」放在同一架天平上：狗认不得主人的脸，却认得一个孩子的整张脸。`more squarely`（更方正地）暗示视线的高度差——孩子与狗视线齐平。
+**为什么这样写**：`my legs and my voice` 两个极具体的身体部位，被缩略成一条狗能认识的全部——这个观察本身就把王权降格为一种表演性的存在。而 `but you` 的转折把「我」与「你」放在同一架天平上：狗认不得主人的脸，却认得一个孩子的整张脸。`more squarely`（更方正地）暗示视线的高度差——孩子与狗视线齐平。
 
 **读者视角提示**：这一段是全书对「被看见」最坦率的一次论述；读者会立刻想到 ch08 那位母亲被称作 `a vase`、被国王的关心「整只花瓶是否完好」。
 
-> **原句 5:** I knew her thoughts, and she knew mine. Once I had a dream that we were out together… She was hunting, too. We were having the same dream.
+> **原句 3:** I knew her thoughts, and she knew mine. Once I had a dream that we were out together… She was hunting, too. We were having the same dream.
 
 我知道她的想法，她也知道我的。有一次我梦见我们一起出去……她也在打猎。我们做了同一个梦。
 
@@ -66,7 +46,7 @@ source_text: ch18
 
 **读者视角提示**：全书唯一一处人与动物之间的彻底通感；作者写它，是为了在几页之后用一个九岁女孩的话（`She is in you, too`）把这条通道重新封死。
 
-> **原句 6:** Anyone can give a dog food to gain his loyalty, but such loyalty is thin.
+> **原句 4:** Anyone can give a dog food to gain his loyalty, but such loyalty is thin.
 
 任何人都可以用食物换取一条狗的忠诚，但那样的忠诚是薄的。
 
@@ -76,17 +56,7 @@ source_text: ch18
 
 **读者视角提示**：`Take him with you, keep him by your side. You are his master, but see if you can make him your greatest ally.`（把他带在身边。你是他的主人，但要看他能不能成为你最要紧的盟友。）——他给男孩布置的作业，本章末尾男孩都没能完成。
 
-> **原句 7:** The sky no longer lingered above, but had driven itself down to the land like an iron lid.
-
-天空不再在上方停留，而是像一扇铁盖那样，压到了地面上。
-
-**关键词**：no longer lingered / driven itself down to the land / like an iron lid
-
-**为什么这样写**：`lingered`（逗留）一词给天空配上停留的意志，而 `had driven itself down`（自己压了下来）用反身语态让天空成了主动施压的一方——它压下来，城堡就成了一个扣上的盒子。而 `like an iron lid` 把天空与城堡的关系写成了容器与盖子的关系：所有在城里的人，包括读者，此刻都在盒子里。
-
-**读者视角提示**：这一句与 ch12 那场围猎时的 `in its place was a great gaping pit`（原地裂开一个大口）构成一组对照——那时是地面塌陷，此刻是天空压下，两种封闭都在同一座城堡周围发生。
-
-> **原句 8:** She looked like a skinned lamb’s head with its milk-blue unblinking eyes.
+> **原句 5:** She looked like a skinned lamb’s head with its milk-blue unblinking eyes.
 
 她看起来像一颗剥了皮的羊头，眼睛是奶蓝色的，一动不动。
 
@@ -94,9 +64,9 @@ source_text: ch18
 
 **为什么这样写**：`skinned`（剥了皮的）把这张脸的处理方式一次说完：皮还在，只是被拿掉了。而 `milk-blue unblinking eyes`（奶蓝色的、不眨动的眼睛）用了两个都是叠合的复合形容词，把「眼白翻出的死鱼眼」写成一种婴儿牛奶般的颜色——`milk` 与 `lamb` 两个词在同一条句子里互为质地，形成一种不该有的温柔。`unblinking` 一个词就完成了死亡。
 
-**读者视角提示**：这个比喻直接来自他四岁那年在自己床边对那个黑衣妇人所见的幻象（ch04：`The circle the cloaked woman made. The fire, the babe.`）——他认得这张脸。
+**读者视角提示**：这个比喻直接来自**他母亲**在十一岁那年林中空地上对同一个黑衣妇人所见的幻象（ch04：`The circle the cloaked woman made. The fire, the babe.`）——他那时还没出生。
 
-> **原句 9:** “She is in you, too.”
+> **原句 6:** “She is in you, too.”
 
 「她也在你里面。」
 
@@ -104,9 +74,9 @@ source_text: ch18
 
 **为什么这样写**：`too` 是本句的全部——它把一个指控变成了一个共谋的邀请。Marsaili 刚刚说了 `Here,`（在这里）并指了指自己的心，而男孩否认了；于是她把 `too` 加上去，于是问题从「你心里有女巫吗」变成了「我们两个都是」。全句只有四个词，是全书最短也最重的一句定性。
 
-**读者视角提示**：读者刚刚在 ch16 看过这个男孩毒死 Broccin、拿刀、咬人——`She is in you, too` 此刻既是女巫的判词，也是读者对本书全部暴力的一次总结。
+**读者视角提示**：读者刚刚在 ch16 看过这个男孩毒死 Broccin、被踢断一颗牙——`She is in you, too` 此刻既是女巫的判词，也是读者对本书全部暴力的一次总结。
 
-> **原句 10:** “The girl did not weep,” the boy’s mother said to him. “Nor shall you cry for me when I am gone.”
+> **原句 7:** “The girl did not weep,” the boy’s mother said to him. “Nor shall you cry for me when I am gone. The dead do not know that the living mourn for them, nor do they care. The dead are as stone. Remember that.”
 
 「那女孩没有哭，」男孩的母亲对他说。「等我不在了，你也不许为我哭。」
 
@@ -116,7 +86,7 @@ source_text: ch18
 
 **读者视角提示**：读者知道 ch04 里她为孩子的父亲（郡伯）流过泪吗？没有；她甚至当着他的面说过 `No`（ch10）。这位母亲刚刚给自己写好了遗嘱。
 
-> **原句 11:** “Be sure to put new petals in it,” she said. “The white angel flowers. They will keep the witch away.”
+> **原句 8:** “Be sure to put new petals in it,” she said. “The white angel flowers. They will keep the witch away.”
 
 「一定要往里面放新的花瓣，」她说。「那些白色的天使花。它们会把女巫挡在外面。」
 

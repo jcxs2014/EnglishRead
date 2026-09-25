@@ -8,11 +8,11 @@ source_text: ch26
 
 ## 本章导航
 
-- **一句话概括**：夜宴上她一边维持笑容一边听见自己的血液里发生的一切；她在阳台上看见 Macdonald 对着三缕雾气说话，被警钟打断；跑下楼时她的儿子已经死在桌上，后脑的伤还在流血；国王的手按在他胸口，她从那只手势里读出了《The Monkey》的回声，最后认出来人递上的那把刀是她儿子的。
+- **一句话概括**：夜宴上她一边维持笑容一边听见自己的血液里发生的一切；她在阳台上看见 Macdonald 对着三缕雾气说话，被警钟打断；跑下楼时她的儿子已经死在桌上，后脑的伤还在流血；国王的手按在他胸口，她从那只手势里读出了ch04 那只醉猴的影��，最后认出来人递上的那把刀是她儿子的。
 - **情感弧线位置**：Lady 线的谷底，也是全书因果的结算点。ch11 她把预言的责任转给儿子（「是你让他看见了失败」），本章证明她是对的。
 - **Tropes 兑现/反转**：兑现「盛宴上的凶讯」与「血亲之死」两重经典；反转有三处——国王摸尸求活的仪式被她在现场识破为虚妄；救她的人（Macduff）与杀她儿子的人（Macbeth）在此刻同处一室；而结尾那句 `It is Macbeth's dagger. It is my son's.` 让凶器本身成为遗言。
-- **人物弧线**：本章的她第一次真正成为母亲——`We are none of us there. We are none of us anywhere.` 之后她抱起孩子；而在此之前她写下 `I did nothing. I know the shape of me: my hands curled into fists at my sides, held fast, held tight, clenched against the coming.`
-- **叙事手法**：以分隔线切为四段——宴会/阳台目击/警钟/验尸。四段各自用一种文体：宴会是散乱的意识流，阳台是悬疑，目击段是高强度的细节速写，验尸段是缓慢的、逐部位的清点。
+- **人物弧线**：本章的她第一次真正成为母亲——`We are none of us there. We are none of us anywhere.` 之后她抱起孩子；而在此之前，验尸的一段里她写的是 `My fingers bend to pick him up, to pull him to me, to take him in again.`——想抱，却悬着没有落下
+- **叙事手法**：以分隔线切为五段——夜宴／阳台目击／警钟与奔下楼／验尸与 Duncan 抚尸／余下的交代。五段各自用一种文体：夜宴是散乱的意识流，阳台是悬疑，验尸段是缓慢的、逐部位的清点。
 
 > **格式说明**：本节原文 13664 字符，精读配额取 8 处。
 
@@ -28,17 +28,7 @@ source_text: ch26
 
 **读者视角提示**：这三句是**谋杀发生的那一刻**——她的身体在那一刻已经知道了，而她要到几小时后才追到楼下；读者会比她先看到刀。
 
-> **原句 2:** If only we could feel the future—it would sting as sharply as the past.
-
-要是我们能感觉到未来就好了——它会像过去一样尖锐地刺痛。
-
-**关键词**：If only we could feel the future / it would sting as sharply as the past
-
-**为什么这样写**：`If only`（要是……就好了）这一条件式把愿望写成了一个不存在的世界；而破折号后的 `it would sting as sharply as the past` 用一个比较把它接回经验。未来之所以不可感，是因为它不痛；`as sharply as`（和……一样尖锐）则说明这份钝感不是暂时的，而是与痛感同等的另一种状态。整句是全书对「母亲」这个身份最冷的一次定义。
-
-**读者视角提示**：`So we wander through our days, ignorant of the life or death to come.`（于是我们就在日子里游荡，不知将至的是生是死。）——这句与 ch24 那句 `How we deceive ourselves in days, in hours.` 是同一论断的两次表述，一次在幸福中，一次在血泊边。
-
-> **原句 3:** But within that love coils a revulsion, a blame for abandoning them to the world so that they must go out into it and find some purpose.
+> **原句 2:** But within that love coils a revulsion, a blame for abandoning them to the world so that they must go out into it and find some purpose.
 
 但在那份爱的内部盘踞着一种憎恶——一种责怪：责怪他们被丢给了这个世界，好让他们不得不走出去，在其中找到某种意义。
 
@@ -48,7 +38,7 @@ source_text: ch26
 
 **读者视角提示**：紧接着的 `And so they go, wandering within the great circle of time, stepping in the same steps as their fathers, their fathers' fathers.`（于是他们走了，在时间的大圆里游荡，走着父辈、祖辈的同一批步子。）——作者把女性的「抵达」与男性的「循环」并置，这就是她所说的 `Women contain the world` 的底层逻辑。
 
-> **原句 4:** Women contain the world, and the world hates us for it.
+> **原句 3:** Women contain the world, and the world hates us for it.
 
 女人承载这个世界，而这个世界因此恨我们。
 
@@ -58,7 +48,7 @@ source_text: ch26
 
 **读者视角提示**：这句在全章的葬礼场景之前说出，而它的下一句是 `I had done it for him. I had given him over to the world that had for so long sought to undo me.`（我为此做了这件事。我把他交给了那个长久以来试图拆毁我的世界。）——她清楚地知道自己做了什么。
 
-> **原句 5:** His face is white, like porcelain. His eyelids like oysters. His lips are blue.
+> **原句 4:** His face is white, like porcelain. His eyelids like oysters. His lips are blue.
 
 他的脸是白的，像瓷。他的眼皮像牡蛎。他的嘴唇是青的。
 
@@ -68,7 +58,7 @@ source_text: ch26
 
 **读者视角提示**：`There is a cut on his cheek. A rufous trickle runs down his ear… And from the wound on the back of his head pours the rest of his life.`（他的脸颊上有一道伤口。一道暗红的细流顺着耳朵淌下……而从他后脑的伤口里，涌出的是他余下的全部生命。）——`pours`（倾泻）一词把「剩下的一切」写成了液体，与那句 `a rufous trickle`（一道暗红的细流）形成体积上的对仗。
 
-> **原句 6:** I see my own shaking hands as they reach for him. They are someone else’s hands. His body is someone else’s body. We are none of us there. We are none of us anywhere.
+> **原句 5:** I see my own shaking hands as they reach for him. They are someone else’s hands. His body is someone else’s body. We are none of us there. We are none of us anywhere.
 
 我看见自己颤抖的双手伸向他。那是别人的手。他的身体是别人的身体。我们谁都不在那里。我们谁都不在任何地方。
 
@@ -78,7 +68,7 @@ source_text: ch26
 
 **读者视角提示**：这三句与 ch26 前段那三个短句（`I feel nothing. Hear nothing. See nothing.`）是同一次失能的两端：一端是她感觉不到儿子被杀的瞬间，另一端是她终于看见尸体却认不出自己。
 
-> **原句 7:** No more than the monkey that mocked the mormaer all those years ago. This king was no greater than that. A monkey, a beast. A man.
+> **原句 6:** No more than the monkey that mocked the mormaer all those years ago. This king was no greater than that. A monkey, a beast. A man.
 
 不比当年那只嘲弄郡伯的猴子更强。这位国王并不比它高明多少。一只猴子，一只野兽，一个人。
 
@@ -88,17 +78,17 @@ source_text: ch26
 
 **读者视角提示**：`A man.` 与紧接其后的国王那句话 `Amen` 构成对照：她刚刚把「人」写成三者中最低的一级，而所有人都在为这个人低头。
 
-> **原句 8:** The spell is broken. But there was nothing to it to begin with. It was always just that—nothing.
+> **原句 7:** The spell is broken. But there was nothing to it to begin with. It was always just that—nothing.
 
 咒语解除了。可它从一开始就什么也不是。它一直都是这样——什么也不是。
 
 **关键词**：The spell is broken / there was nothing to it to begin with / It was always just that—nothing
 
-**为什么这样写**：第一句用被动式（`is broken`）——咒语是**自己**破的，而破它的不是任何人。破折号后的 `nothing` 独立成段，与前一句的 `nothing` 呼应，形成一次时间的对折：`to begin with`（从头）指向过去，`always`（一直）指向全程，而两端是同一件事。整段是全书对「信念」本身的一次清算：她并不只是失去了儿子，她失去的是相信儿子会被救回来的那个能力。
+**为什么这样写**：第一句用被动式（`is broken`）——咒语是**自己**破的，而破它的不是任何人。破折号后的 `nothing` 落在同段末，与前一句的 `nothing` 呼应，形成一次时间的对折：`to begin with`（从头）指向过去，`always`（一直）指向全程，而两端是同一件事。整段是全书对「信念」本身的一次清算：她并不只是失去了儿子，她失去的是相信儿子会被救回来的那个能力。
 
 **读者视角提示**：这一段紧接在 `I am lying to myself. This is not what Duncan is doing.`（我在骗自己。这不是 Duncan 在做的事。）之后——她先拆穿了一个自我安慰，再用两句把这份拆穿固定下来。
 
-> **原句 9:** It is Macbeth’s dagger. It is my son’s.
+> **原句 8:** It is Macbeth’s dagger. It is my son’s.
 
 那是 Macbeth 的刀。那是我儿子的。
 
@@ -106,7 +96,7 @@ source_text: ch26
 
 **为什么这样写**：两个句子结构完全相同，只换了所有格——而正是这个替换完成了全书最长的一次改写：同一个物件，从父亲的变成了儿子的。破折号都没有，句子短促到不容置喙。而 `It is my son's` 里的 `It` 同时指那把刀和**那件事**：凶器是儿子的，正如死亡是儿子的。
 
-**读者视角提示**：读者会立刻想起 ch22 那封羊皮纸信——`he who bears my blood, who will pass it on to your own son`（而你会把它传给你自己的儿子）；ch25 里他刚在帐篷上得到这把刀，本章它就回来了。
+**读者视角提示**：读者会立刻想起 ch04 里郡伯对孩子的训话——`You, who bears my blood, who will pass it on to your own son.`（你，你会把它传给你自己的儿子）；ch25 里他刚在帐篷上得到这把刀，本章它就回来了。
 
 ## 本章词汇
 
@@ -128,8 +118,6 @@ source_text: ch26
 | crannies | （墙上的）缝隙 | I search the corridors, the crannies and nooks |
 | susurrations | （风声的）沙沙低语 | my ear is tuned to its thoughtless susurrations |
 | revulsion | 憎恶 | within that love coils a revulsion |
-| carpenter | 木匠 | the carpenter makes a coffin for half a man |
-| crypt | 地下墓室 | It is set down in the crypt of our |
 
 ### ⭐ 基础
 

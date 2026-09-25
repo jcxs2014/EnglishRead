@@ -12,7 +12,7 @@ source_text: ch20
 - **情感弧线位置**：男孩线由上一章的丧友转入一段低回的冬眠——他失去了玩伴、失去了教师、失去了母亲的一半，唯一抓在手的是那盒早已失效的干花瓣。
 - **Tropes 兑现/反转**：兑现「孩子握着护身符」的迷信结构；反转是这个护身符早就失效（干成粉末）而他明知无效却照旧抱着——他坚持的不是迷信，是与 Marsaili 的关系。
 - **人物弧线**：本章他第一次问出一个关于父亲的**怀疑式**问题（`But I don't think he's a ghost`），理由是「不然他早就来接我了」——这是把愿望当作推理的典型。
-- **叙事手法**：以分隔线切为三段——冬日城堡（外部）／母亲的琴（母子）／Caimbeul 与 Seyton（两条辅线）。第三段以seyton 的两句硬话收束全章，是 第三部 唯一一次以成年人视角的冷幽默解围。
+- **叙事手法**：以分隔线切为五段——冬日施舍／母亲的琴／新教师 Caimbeul／Seyton 与马厩／冬夜与鬼火。末段以 Seyton 的两句硬话收束全章，是第三部唯一一次以成年人视角的冷幽默解围。
 
 ## 精读
 
@@ -22,7 +22,7 @@ source_text: ch20
 
 **关键词**：The dry petals in the box / would have to be enough / was already within him
 
-**为什么这样写**：`would have to be`（将不得不）这五个字把一件保护物写成了唯一剩下的依赖。而 `was already within him`（已经在他心里）比「外面的邪恶」更可怕——因为外面的东西他还能跑，里面���他跑不掉。这一句把 ch05 那个装着白花瓣的黑木盒从一件护身符降格为一种心理仪式：`dry`（干枯的）一词始终在场，提醒读者这盒东西早就失效了。
+**为什么这样写**：`would have to be`（将不得不）这五个字把一件保护物写成了唯一剩下的依赖。而 `was already within him`（已经在他心里）比「外面的邪恶」更可怕——因为外面的东西他还能跑，里面的他跑不掉。这一句把 ch05 那个装着白花瓣的黑木盒从一件护身符降格为一种心理仪式：`dry`（干枯的）一词始终在场，提醒读者这盒东西早就失效了。
 
 **读者视角提示**：紧接其前的 `he clutched Marsaili's box, clinging more to his memory of her than to his fear of fending off witches`（他紧抱着 Marsaili 的盒子，抱住的与其说是对女巫的恐惧，不如说是对她的记忆）——作者已经替读者说破了这一层。
 
@@ -32,9 +32,9 @@ source_text: ch20
 
 **关键词**：But the words / the words are too much
 
-**为什么这样写**：全章的转折点在这六个词上。`too much`（太多）是一个关于**承载力**的判断，不是关于意愿的——她不是不想唱，是唱不了。而 `the words` 的重复把一个抽象的名词变成了一个具体的、可以被数出来的东西：它们是具体的、沉甸甸的。这个 `But` 接的是她刚刚承认过的「有词」（`she said yes, but she did not wish to sing them`），把一个婉拒改写成一个诊断。
+**为什么这样写**：全章的转折点在这五个词上。`too much`（太多）是一个关于**承载力**的判断，不是关于意愿的——她不是不想唱，是唱不了。而 `the words` 的重复把一个抽象的名词变成了一个具体的、可以被数出来的东西：它们是具体的、沉甸甸的。这个 `But` 接的是她刚刚承认过的「有词」（`she said yes, but she did not wish to sing them`），把一个婉拒改写成一个诊断。
 
-**读者视角提示**：读者从 ch15 已经知道这些歌是什么——那是她与前夫郡伯的婚姻史，也是她此后人生的底稿；她把它们封存在旋律里。
+**读者视角提示**：读者从 ch13 已经知道她弹琴的来历——那是她为父亲、为郡伯与他的手下而弹；本章这些歌则是更早的，是她自己说的「少女时代的歌」，也是她此后人生的底稿；她把它们封存在旋律里。
 
 > **原句 3:** “It is enough to simply think of them,” she said, “to keep them in my mind and to hum in their place.”
 
@@ -52,7 +52,7 @@ source_text: ch20
 
 **关键词**：My dear Lady / the sun to / an old man’s diminishing days
 
-**为什么这样写**：一个老人对一位贵妇人的标准献辞，而它的荒诞正在于每个成分都是真的。`the sun to` 这个比喻（您是我的太阳）被接上一个刻意做旧的定语 `diminishing days`（日渐衰残的日子）——太阳没有衰残，是他的日子在衰残；两件事被压进同一句话。整句用三个感叹号级别的赞美堆出一位长者的尊卑颠倒：在这座城堡里，权力在她，而他刚到任三天。
+**为什么这样写**：一个老人对一位贵妇人的标准献辞，而它的荒诞正在于每个成分都是真的。`the sun to` 这个比喻（您是我的太阳）被接上一个刻意做旧的定语 `diminishing days`（日渐衰残的日子）——太阳没有衰残，是他的日子在衰残；两件事被压进同一句话。整句用三个感叹号级别的赞美堆出一位长者的尊卑颠倒：在这座城堡里，权力在她，而这位教师刚到任。
 
 **读者视角提示**：`You are the sun` 让人想起 ch04 那句 `The sun is a great fire… It is God’s eye`——那正是 Broccin 用来吓唬孩子的话；Caimbeul 用同一个意象只是为了讨好人。
 
@@ -72,7 +72,7 @@ source_text: ch20
 
 **关键词**：Otherwise / he would have come for me
 
-**为什么这样写**：`Otherwise`（不然）把这个孩子的整套推理一次交完：父亲不是鬼，因为鬼会来接他。而 `he would have come for me` 用完成时（`would have`）指一个从未发生的将来——这是他一直以来的推论方式（ch03 那句 `His father was coming. He must be.`），只��这一次被换成了一个否定。整句因此既是一个反驳，也是一次表白：他想要的不是一个鬼魂，是一个来接他的人。
+**为什么这样写**：`Otherwise`（不然）把这个孩子的整套推理一次交完：父亲不是鬼，因为鬼会来接他。而 `he would have come for me` 用完成时（`would have`）指一个从未发生的将来——这是他一直以来的推论方式（ch03 那句 `His father was coming. He must be.`），只在这一次被换成了一个否定。整句因此既是一个反驳，也是一次表白：他想要的不是一个鬼魂，是一个来接他的人。
 
 **读者视角提示**：这句与 ch03 那句关于「父亲会回来」的执念构成了 Boy 线的首尾呼应；而 ch18 里他已经开始 `went about forgetting again`（重新学着去忘记）——遗忘与不肯忘记在他身上同时存在。
 
@@ -82,9 +82,9 @@ source_text: ch20
 
 **关键词**：Well / refocusing on the collar / we can’t know the minds of ghosts
 
-**为什么这样写**：`refocusing on the collar`（把心思重新收回到马轭上）这个分词短语是全句的枢纽：Seyton 用手上的活计来结束一个不该由他回答的问题——马具匠不负责鬼魂学的判断。`Well` 这个英语中最无内容的语气词在此承担了全部的敷衍。而 `we can't know` 里的 `we` 把他和孩子并成一个无知者阵营，而 `minds`（心思）一词把 ch08 里 Macbeth 说过的那句 `I believe I shall find them out`（我相信我会把它们找出来）原封不动地还了回去。
+**为什么这样写**：`refocusing on the collar`（把心思重新收回到马轭上）这个分词短语是全句的枢纽：Seyton 用手上的活计来结束一个不该由他回答的问题——马具匠不负责鬼魂学的判断。`Well` 这个英语中最无内容的语气词在此承担了全部的敷衍。而 `we can't know` 里的 `we` 把他和孩子并成一个无知者阵营，而 `minds`（心思）一词把 ch02 序章里 Macbeth 说过的那句 `I believe I shall find them out`（我相信我会把它们找出来）原封不动地还了回去。
 
-**读者视角提示**：读者已经读过 ch08 那场壁炉夜谈，知道 Macbeth 当时是怎么说的；这一句是他的老实话在两年后由另一个人说出。
+**读者视角提示**：读者已经读过 ch02 序章那场新婚夜对话；`I believe I shall find them out` 这句原话就在序章里——只是那是在情人间调「你还有秘密没说」；说「我们无法知道鬼魂的心事」的则是 ch20 里的 Seyton，知道 Macbeth 当时是怎么说的；这一句是他的老实话在两年后由另一个人说出。
 
 ## 本章词汇
 

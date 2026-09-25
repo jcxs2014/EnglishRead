@@ -56,7 +56,7 @@ source_text: ch24
 
 **为什么这样写**：两个分句共享一个地点（`near the flames` / `by the fire`），却方向相反：第一个是「靠近火焰」，第二个是「在火边睡着」。整句因此写成一次危险的置换——从**怕**变成**安睡**，只差一个介词。`no longer` 是本句的时间机器：它的有效期将在本章末尾被她自己亲手终止。
 
-**读者视角提示**：ch04 里她曾因他差点跌进壁炉而尖叫着把他抱走；本章的同一件事以「我不再怕」收场，而读者会记得她为什么怕。
+**读者视角提示**：ch04 里她曾因他差点跌进壁炉而尖叫着把他拎回房间；本章的同一件事以「我不再怕」收场，而读者会记得她为什么怕。
 
 > **原句 5:** Still, I hear it on the wind. In the trees. You shall be queen.
 
@@ -66,7 +66,7 @@ source_text: ch24
 
 **为什么这样写**：三个短句一句比一句短，而 `Still`（仍然）这个副词独立在句首，像一句压不住的自言自语。`on the wind`（在风里）与 `In the trees`（在树丛中）把声音的来源拆成两处，两处都在城堡之外——也就是在她新获得的「完美王国」之外。而末句用的是未来时 `shall be`，正是那则预言当年的原话形式：预言从不用现在时。
 
-**读者视角提示**：这三行与 ch24 后面那句完整的预言（`When you are bold enough to know, you must give over your son.`）之间只隔了几页；读者会自己把它们接起来。
+**读者视角提示**：这三句（仍在同一段里）与 ch24 后面那句完整的预言（`When you are bold enough to know, you must give over your son.`）之间只隔了几页；读者会自己把它们接起来。
 
 > **原句 6:** But still I hear it through the crenellated battlements as I walk the grounds. When you are bold enough to know, you must give over your son.
 
@@ -74,21 +74,11 @@ source_text: ch24
 
 **关键词**：through the crenellated battlements / When you are bold enough to know / you must give over your son
 
-**为什么这样写**：`crenellated`（有雉堞的）一个词把「城垛」写成了建筑学，而 `through`（穿过）说明声音不是从外面传来，而是**穿过**了这道墙——她建起的一切都不隔音。而 `When you are bold enough to know`（等你有勇气去知道的时候）把这句要求设定为一次**主动**的求知：预言不惩罚无知，只惩罚明知。末句 `you must give over your son` 用 `must`（必须）——这是那则预言里唯一一次出现的情态词。
+**为什么这样写**：`crenellated`（有雉堞的）一个词把「城垛」写成了建筑学，而 `through`（穿过）说明声音不是从外面传来，而是**穿过**了这道墙——她建起的一切都不隔音。而 `When you are bold enough to know`（等你有勇气去知道的时候）把这句要求设定为一次**主动**的求知：预言不惩罚无知，只惩罚明知。末句 `you must give over your son` 用 `must`（必须）——预言里另有两处情态（`He must die for you to know.` 与 `You must give over your son.`），这句是第三处。
 
 **读者视角提示**：`You shall be queen`（你将成为王后）与 `you must give over your son`（你必须交出你的儿子）是同一次交易的两面，而这句话是书里把两面同时说全的唯一一处。
 
-> **原句 7:** Over and over their little swarm lifts up and drops down, turning the tree into a little cloud, crying a shower of doves.
-
-它们那一小群一次又一次地升起又落下，把那棵树变成一小片云，洒下一场斑鸠之雨。
-
-**关键词**：their little swarm / lifts up and drops down / a shower of doves
-
-**为什么这样写**：`swarm`（一群）本用于蜜蜂或虫群，用来写鸟群是一种不协调的搭配，而 `their` 又把这群鸟写成了属于这只树的居民。`turning the tree into a little cloud`（把树变成一小片云）是本句的核心：升起的不是鸟，是**云**；而末句 `a shower of doves`（一场斑鸠的雨）用 `shower`（阵雨）把这个群体从空中转成了一次降落。
-
-**读者视角提示**：作者在此处安插一个纯粹的美学时刻，而它的功能与 ch18 那只死掉的雏鸟（`She looked like a skinned lamb's head`）完全相反——同样是鸟，同样的高度，一个是死亡，一个是雨。
-
-> **原句 8:** I, a living statue, could be happy.
+> **原句 7:** I, a living statue, could be happy.
 
 我，一尊活着的石像，本可以是快乐的。
 
@@ -98,7 +88,7 @@ source_text: ch24
 
 **读者视角提示**：紧接其后的 `Instead I return to bed, leaving bare, muddy footprints for the servants to marvel at.`（我回到床上，留下赤裸的、湿泥的脚印，让仆人们惊叹。）——石像不能走，而她走了，还留下了痕迹。
 
-> **原句 9:** In that form I feel another, swimming. I feel a little fish child within.
+> **原句 8:** In that form I feel another, swimming. I feel a little fish child within.
 
 在那个形态里，我感觉到另一个生命，在游动。我感觉到体内有一条小鱼一样的孩子。
 
@@ -107,16 +97,6 @@ source_text: ch24
 **为什么这样写**：`In that form`（在那个形态里）里的 `that` 指的是**石像**的形态——她在石像的想象里就已经感到了孩子，于是这一段把「石像」与「怀孕」接在了一起。`another, swimming` 用一个逗号把另一个分词短语孤立出来，让「游动」成为唯一的动作。而 `a little fish child within` 把三个词压缩成一个复合名词：fish（小鱼）+ child（孩子）+ within（在内），这与 ch15 那句 `It is a guppy in a pond, and I am the water`（它是一条池里的小鱼，而我是那水）形成了全书唯一一次精确的回声。
 
 **读者视角提示**：她刚刚在石像的梦里许愿要变成不会腐坏的东西，而她刚刚感觉到的是九个月后必然腐坏的生命；整段是全书最安静的一次绝望。
-
-> **原句 10:** “Are you sure?” he says.
-
-「你确定吗？」他说。
-
-**关键词**：Are you sure
-
-**为什么这样写**：全章最短的一句台词，六个词。而她自己的判词紧接其后：`A question only a man would ask.`（这是只有男人才会问的问题。）`Are you sure`（你确定吗）字面上是在确认一件完全属于女性身体的事（是否怀孕），而作者用叙述者的评语把这道确认写成一次权力交接——他只能问，不能知道。
-
-**读者视角提示**：`Women spend so much time testing the world of men for their place in it, and men think next to nothing of their place in ours.`（女人们花那么多时间在男人的世界里试探自己的位置，而男人们对自己在我们世界里的位置却几乎不加思量。）——这句是全书对性别处境最直白的一次概括，而它出自一个刚刚赢了城堡、刚刚被认下儿子的女人。
 
 ## 本章词汇
 

@@ -36,27 +36,17 @@ source_text: ch08
 
 **读者视角提示**：这是她第一次在夜里单独行动。此后每逢「夜」，读者都会自动想起这一段。
 
-> **原句 3:** I caught the smell of him, the after-scent that lingered, musky and sweet. An entirely different smell from my husband.
-
-我闻到了他的气味，那残留不散的后味，麝香而甘甜。与我丈夫完全不同的气味。
-
-**关键词**：the after-scent that lingered / musky and sweet / An entirely different smell
-
-**为什么这样写**：`after-scent`（事后之味）是一个复合词，指人在场时闻不到、离开后才留在空气里的东西——这是一个极有经验的人才写得出的词。`musky and sweet` 两个感官形容词并置却不解释，读者只能自行判断这气味意味着什么。末句用 `An entirely different smell` 作独立句，与前句形成一次冷静的对照：她记得前一个丈夫的味道，而这个味道完全不同。
-
-**读者视角提示**：这是全书极少数以嗅觉标记人物的段落。读者在此第一次把 Macbeth 的身体与他此前的名声分开。
-
-> **原句 4:** Farther down the king’s letter, my eyes rested on my own name. I held my breath.
+> **原句 3:** Farther down the king’s letter, my eyes rested on my own name. I held my breath.
 
 再往下翻到国王书信的中段，我的目光落在自己的名字上。我屏住了呼吸。
 
 **关键词**：Farther down the king’s letter / my eyes rested on my own name / I held my breath
 
-**为什么这样写**：`Farther down` 与 `my eyes rested on` 是两个慢动作，把读者的注意力逼到那个名字上，制造出一种必须屏息的悬念。`rested` 一词尤其关键——她的目光是被那个名字**拦住**的，不是扫过的，说明这个名字的出现毫无预警。而 `I held my breath` 独立成段，把生理反应单独切出来，让读者先于她知道：这个名字不是中性的。
+**为什么这样写**：`Farther down` 与 `my eyes rested on` 是两个慢动作，把读者的注意力逼到那个名字上，制造出一种必须屏息的悬念。`rested` 一词尤其关键——她的目光是被那个名字**拦住**的，不是扫过的，说明这个名字的出现毫无预警。而 `I held my breath` 是同段的第二句，把生理反应单独切出来，让读者先于她知道：这个名字不是中性的。
 
 **读者视角提示**：这个被国王称为「the good Lady, lately widowed」的人，此刻正拿着信站在杀人者的房间里。
 
-> **原句 5:** I—a vase. Perhaps this was the reason for the thane’s kindness. It was an order from his grandfather.
+> **原句 4:** I—a vase. Perhaps this was the reason for the thane’s kindness. It was an order from his grandfather.
 
 我——一只花瓶。也许这就是索恩待我如此和善的原因。那是他祖父的一道命令。
 
@@ -66,7 +56,7 @@ source_text: ch08
 
 **读者视角提示**：这个比喻会在全书后续被反复推翻——她既不是器皿也不是被保管物；本节是全书对「女性作为珍玩」这一父权设定最直白的正面撞击。
 
-> **原句 6:** His feelings were either in his head alone or they were set down, sent off, made known to higher powers.
+> **原句 5:** His feelings were either in his head alone or they were set down, sent off, made known to higher powers.
 
 他的感受要么只在他自己脑子里，要么已经被写下、寄出、让更高处的力量知晓。
 
@@ -76,7 +66,7 @@ source_text: ch08
 
 **读者视角提示**：这个结论直接引出了下一段：她读不到他的心思，于是转而去听他的**习惯**。
 
-> **原句 7:** At first his silences were far more frightening than any shouting he might have done—I would have preferred the stomping, the din; at least then you know the man’s mind.
+> **原句 6:** At first his silences were far more frightening than any shouting he might have done—I would have preferred the stomping, the din; at least then you know the man’s mind.
 
 起初，他的沉默比任何他可能发出的吼叫都要可怕得多——我宁愿听那跺脚、那喧闹；至少那样，你知道这人的心思。
 
@@ -86,7 +76,7 @@ source_text: ch08
 
 **读者视角提示**：`But gradually his silences brought me peace`（但渐渐地，他的沉默带给我安宁）紧接其后——同一样东西，先成恐惧后成慰藉，这是本节的核心转折。
 
-> **原句 8:** My mind, you see—it would drift down roads. Not true roads, not roads for horse and cart. Roads and byways to other thoughts.
+> **原句 7:** My mind, you see—it would drift down roads. Not true roads, not roads for horse and cart. Roads and byways to other thoughts.
 
 我的心，你明白——它会漂移到别的路上。不是那种真正的路，不是走马车的路。是通往其他念头的路与岔道。
 
@@ -96,7 +86,7 @@ source_text: ch08
 
 **读者视角提示**：全书接下来会反复回到「漂流的道路」这个意象；ch15 之后的预言、以及他与森林的每一次接触，都是这条路的延伸。
 
-> **原句 9:** “Boys do love their mothers,” he said. “Don’t they?”
+> **原句 8:** “Boys do love their mothers,” he said. “Don’t they?”
 
 「男孩都爱他们的母亲，」他说。「不是吗？」
 

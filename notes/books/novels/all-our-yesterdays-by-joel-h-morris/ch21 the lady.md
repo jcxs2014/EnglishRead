@@ -68,13 +68,13 @@ source_text: ch21
 
 **读者视角提示**：读者会立刻想起 ch04 里那卷十一重的经书、被禁止的火光、以及那个被抛进火焰的婴儿——`a knot in her hand to untie` 正是那段记忆被压成的一个手势。
 
-> **原句 6:** “The devil’s foot. I saw her pull it from her cloak and throw it in the fire.” / “Lamb’s trotters. For a stew.”
+> **原句 6:** “The devil’s foot. I saw her pull it from her cloak and throw it in the fire.” … “Lamb’s trotters. For a stew.”
 
 「魔鬼的蹄子。我看见她从斗篷里把它拉出来，扔进火里。」/「羊蹄。炖汤用的。」
 
 **关键词**：The devil’s foot / Lamb’s trotters / For a stew
 
-**为什么这样写**：这是全章的正面交锋，而他只用两个短句就完成了降级：`Lamb's trotters`（羊蹄）与她的 `The devil's foot`（魔鬼的蹄子）在句法上完全对称——同一种形状，只是换了一个来源与用途。而 `For a stew`（炖汤用的）三个词把一个十一岁孩子的终身恐惧还原成一顿饭。这正是 ch08 里那场壁炉夜谈的延续：他的方法是把一切奇异之物翻译成日常。
+**为什么这样写**：这是全章的正面交锋，而他只用两个短句就完成了降级：`Lamb's trotters`（羊蹄）与她的 `The devil's foot`（魔鬼的蹄子）在句法上完全对称——同一种形状，只是换了一个来源与用途。而 `For a stew`（炖汤用的）三个词把一个十一岁孩子的终身恐惧还原成一顿饭。这正是 ch02 序章那场新婚夜对话的延续（同样的「降级」手法）：他的方法是把一切奇异之物翻译成日常。
 
 **读者视角提示**：她立刻用尺度反驳（`It was large. Like a horse's hoof.`）——而他立刻再次让步（`Perhaps a cow's, then.`）。读者会明白：他已经相信了她，只是不肯把这件事当真。
 
@@ -84,7 +84,7 @@ source_text: ch21
 
 **关键词**：I did not tell him / the thought that had vanished like the flames / You shall be queen
 
-**为什么这样写**：`I did not tell him` 与末句 `You shall be queen` 之间隔着一整段被压回过去的记忆，而 `vanished`（消失）在这里出现了三次（vanished like the flames / like the burning child / like the very truth of it），把一个具体的幻象、一具尸体与一句预言绑成同一个消失动作。破折号把「她」与「他」之间的这段空白切开后，`You shall be queen` 才落地——它不是本章的遗言，是一句她咽下去的话。
+**为什么这样写**：`I did not tell him` 与末句 `You shall be queen` 之间隔着一整段被压回过去的记忆，而 `like` 的同位链在这里出现了三次（vanished like the flames / like the burning child / like the very truth of it），把一个具体的幻象、一具尸体与一句预言绑成同一个消失动作。这一段的空白在此被摊开后，`You shall be queen` 才落地——它不是本章的遗言，是一句她咽下去的话。
 
 **读者视角提示**：`You shall be queen` 是 ch15 闪回里那同一个女巫的完整预言；她记得，只是这一次她选择不说。
 
@@ -96,7 +96,7 @@ source_text: ch21
 
 **为什么这样写**：`I beg him`（我求他）用的是求告的直陈式，而整句的 `Promise me` 是一个由「我」发出的指令式请求——`me` 的宾格出现在动词前，把请求的指向从丈夫转向自己。而 `look after him`（照看他）用最平常的短语，装下了一个刚讲完女巫故事的女人全部的恐惧。整句是本章她唯一一次不带任何修辞的句子。
 
-**读者视角提示**：`I will," Macbeth assures me. "I do."`（我会的，Macbeth 向我保证。「会的。」）——这个 `I do` 的重复比任何誓言都更像一个已经预定好的答案。
+**读者视角提示**：`“I will,” Macbeth assures me. “I do.”`（我会的，Macbeth 向我保证。「会的。」）——这个 `I do` 的重复比任何誓言都更像一个已经预定好的答案。
 
 ## 本章词汇
 
@@ -120,7 +120,6 @@ source_text: ch21
 | whinny | （马）嘶鸣 | I hear a horse whinny—the boys on their hunt |
 | seal | 印章 | The seal was Macduff’s |
 | panic | 惊慌 | I reel backward, trying to find a place to direct my panic |
-| whinny | （马）嘶鸣 | I think I hear a horse whinny |
 
 ### ⭐ 基础
 

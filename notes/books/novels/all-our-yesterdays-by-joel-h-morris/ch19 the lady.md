@@ -10,7 +10,7 @@ source_text: ch19
 
 - **一句话概括**：冬天里她为 Ysenda 之死与 Marsaili 的远行哀伤，随即退回记忆：父亲的酒话、Macduff 一家为迎接 Duncan 而来、男孩在墓园里背诵「这是种子」、她骂了一句「你母亲是个该死的老婊子」而失去唯一的朋友；第二天 Duncan 亲口夸她漂亮，却在她身上看不见一丝光。
 - **情感弧线位置**：全书最长的一次闪回（近三万字符），交代 Lady 线的情感底色——她与 Macduff 的情谊如何在童年被一句脏话打碎，以及她父亲那把「照亮一切却自称无光」的刀。
-- **Tropes 兑现/反转**：兑现「 Duncan 访���—预言王子—篡位者之友」这一莎翁式的政治前提；反转在于本书让 Duncan 在出场时毫无神性（`There was not a sliver of light about him`），而把全部神圣感给了十二岁的 Macduff。
+- **Tropes 兑现/反转**：兑现「Duncan 登门—预言王子—篡位者之友」这一莎翁式的政治前提；反转在于本书让 Duncan 在出场时毫无神性（`There was not a sliver of light about him`），而把全部神圣感给了十二岁的 Macduff。
 - **人物弧线**：本节的她第一次承认自己曾经需要人（`All I had were graves`），也第一次为了留住一个人而失言；那句 `My wolf's tooth was sharp, but my tongue had been sharper` 是她一生全部灾难的自我诊断。
 - **叙事手法**：第一人称长段闪回，以「记忆的碎片」推进——父亲的酒话、姑姑的耳语、墓园的对峙、Duncan 的进场，形成一次完整的失序；本节大量使用十四到二十岁的当代英语（`a coterie`、`unprincelike`），与 ch02 的日常语体形成对比。
 
@@ -44,7 +44,7 @@ source_text: ch19
 
 **为什么这样写**：`usual` 一词最狠：这不是一次发作，这是常态。`mercurial`（水银般的）选得极准——水银能同时处于液态与固态，能在常温下变化，且有毒性；而 `jovial one moment, bitter the next` 用一对反义形容词配 `one moment / the next` 的对称结构，把这个性格写成一个恒定的振荡公式。整句在作者提到「继承人」这种大事之前落下，先把读者的预期定在一个不可靠的基线上。
 
-**读者视角提示**：`calling it a "gracious visit"`（称之为「一次仁慈的来访」）——父亲给这次政治接待用的唯一形容词是「仁慈」，而读者随后会知道来的是谁。
+**读者视角提示**：`calling it a “gracious visit.”`（称之为「一次仁慈的来访」）——父亲给这次政治接待用的唯一形容词是「仁慈」，而读者随后会知道来的是谁。
 
 > **原句 4:** The firelight caught the blade of Father’s dinner knife.
 
@@ -52,21 +52,11 @@ source_text: ch19
 
 **关键词**：The firelight caught / the blade / Father’s dinner knife
 
-**为什么这样写**：全句只有八个词，六个是名词性的修饰语。`caught`（捕捉）是光的物理动作：火光照到了刀刃上，而它本不该被照到——它是餐具的一部分。`Father's dinner knife` 用所有格把刀牢牢系在父亲身上，同时提醒读者：此刻正在发生的一切都建立在这个人的经济与餐桌之上。`blade` 一词把一个餐具词换成了解剖词，读者在意识到之前已经被换过一遍。
+**为什么这样写**：全句只有九个词，六个是名词性的修饰语。`caught`（捕捉）是光的物理动作：火光照到了刀刃上，而它本不该被照到——它是餐具的一部分。`Father's dinner knife` 用所有格把刀牢牢系在父亲身上，同时提醒读者：此刻正在发生的一切都建立在这个人的经济与餐桌之上。`blade` 一词把一个餐具词换成了解剖词，读者在意识到之前已经被换过一遍。
 
 **读者视角提示**：紧接其后的对话是父亲讲他姐姐（Macduff 的母亲）被剖腹取子的故事——那把刀不在这段里，却已经在这段的中心。
 
-> **原句 5:** There was not a sliver of light about him.
-
-他身上没有一丝光。
-
-**关键词**：There was not a sliver of light / about him
-
-**为什么这样写**：`sliver`（一丝、一小条）本身已经把量词降到最小，而 `not` 与 `sliver` 的组合让「毫无」变成了「一丝都没有」——这是本章里唯一一次用量的语言说「没有」。`about him`（他身上／他周围）一词刻意模糊：他既没有内在的光，也没有神圣的光晕。
-
-**读者视角提示**：这与 ch19 稍后 Macduff 对她说的 `He will bring light to the world. He'll cure the sick. He might even raise the dead.`（他会把光带到世界。他会治病，甚至可能起死回生。）构成全书最锋利的一次对照——预言给了 Macduff，实体却站在她面前，且没有光。
-
-> **原句 6:** “This meeting,” my cousin continued, brushing the tip of a gravestone with his finger, as though testing its coldness, “it is the seed. The future will grow out of this moment. It is destined to be.”
+> **原句 5:** “This meeting,” my cousin continued, brushing the tip of a gravestone with his finger, as though testing its coldness, “it is the seed. The future will grow out of this moment. It is destined to be. Duncan will be king…”
 
 「这次会面，」我表兄继续说，一边用手指拨弄一块墓碑的顶端，仿佛在试探它的冷度，「它是种子。未来将从这一刻长出来。这是命中注定的。」
 
@@ -74,9 +64,9 @@ source_text: ch19
 
 **为什么这样写**：一个十二岁男孩在墓地里背诵政治预言，而作者让他用手指摸着一块墓碑说——`brushing the tip of a gravestone with his finger, as though testing its coldness`（像在试探它的冷），这个动作把「预言」的重量压回具体的触觉上。三个短句（`it is the seed` / `The future will grow out of this moment` / `It is destined to be`）逐级加码：种子、时间、命数。`destined`（注定的）这个词在此后的十六章里会一直回荡。
 
-**读者视角提示**：她当场识破了这段话——`Ha. I laughed. "It sounds like your bad poetry."`（哈，我笑了。「听上去像你那蹩脚的诗。」）这是全书对预言的第一次正面否定，而说话的人是被预言的牺牲品。
+**读者视角提示**：她当场识破了这段话——`“Ha.” I laughed. “It sounds like your bad poetry.”`（哈，我笑了。「听上去像你那蹩脚的诗。」）这是全书对预言的第一次正面否定，而说话的人是被预言的牺牲品。
 
-> **原句 7:** “Oh, damn your mother,” I cried. “She’s a skirling old cunt!”
+> **原句 6:** “Oh, damn your mother,” I cried. “She’s a skirling old cunt!”
 
 「去你母亲的，」我叫道。「她是个该死的老婊子！」
 
@@ -86,7 +76,7 @@ source_text: ch19
 
 **读者视角提示**：这句话之后是 `My wolf's tooth was sharp, but my tongue had been sharper.`（我的狼牙很利，但我的舌头更利。）——本书全部因果链的自我诊断就在这里。
 
-> **原句 8:** My wolf’s tooth was sharp, but my tongue had been sharper.
+> **原句 7:** My wolf’s tooth was sharp, but my tongue had been sharper.
 
 我的狼牙很利，但我的舌头更利。
 
@@ -96,17 +86,7 @@ source_text: ch19
 
 **读者视角提示**：ch15 那句 `The tongue is truly sharper than the sword`（舌头确实比剑更锋利）是这句的直接回响，只是那时她已经赢了整盘棋。
 
-> **原句 9:** Children together for the last time, I squeezed my cousin’s hand. In that final moment I loved him again.
-
-两个孩子最后一次在一起，我握紧了表兄的手。就在那一刻我又爱了他一次。
-
-**关键词**：Children together for the last time / In that final moment / I loved him again
-
-**为什么这样写**：`for the last time` 这个状语把整段童年封存为一个已经结束的区块，而 `In that final moment` 又把它重新打开在现在——时间在同一个句子里被用过一次。`I loved him again`（我又爱了他一次）里那个 `again` 是复活的标志：她刚刚在墓地里骂了他的母亲、失去了他、又得到了他。
-
-**读者视角提示**：`last time` 是一句作者以事后之明写下的判词；读者此时已经知道 Macduff 将成为 Macbeth 的敌人。
-
-> **原句 10:** noting how Duncan stood out from the others—not because he was a prince-in-waiting but because of how unprincelike he was
+> **原句 8:** noting how Duncan stood out from the others—not because he was a prince-in-waiting but because of how unprincelike he was
 
 ——不是因为他是一个待继位的王子，而是因为他身上那种毫不像王子的样子，Duncan 从人群中脱然而出
 

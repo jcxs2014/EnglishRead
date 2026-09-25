@@ -12,7 +12,7 @@ source_text: ch09
 - **情感弧线位置**：男孩线的第一次真正反抗，也是他与母亲之间第一次出现裂口。此前他所有的愤怒都朝着外面（Eachann、野兽、死人），这一次全部转向家里。
 - **Tropes 兑现/反转**：兑现「严师体罚」与「偏心母亲」的组合；反转在于母亲的偏心不是纵容，而是把她自己的计划推进他身上——她需要一个比别的男人更出色的儿子，因为那是她唯一还能支配的东西。
 - **人物弧线**：本章他第一次问出一个成人问题（父亲怎么死的），并第一次得到一句谎；他也是第一次被母亲以「你的身份」为由下令闭嘴。羞辱从此有了归属。
-- **叙事手法**：以分隔线切为三段——请教师的争执、Broccin 的私塾、爆发与母亲的惩罚。中间的私塾段落以男孩的知觉为主，白昼的酷刑与母亲的布匹、笑声形成冷热对撞。
+- **叙事手法**：以分隔线切为两段：前半是请教师的争执与 Broccin 的私塾，后半是爆发与母亲的惩罚。前一段以男孩的知觉为主，白昼的酷刑与母亲的布匹、笑声形成冷热对撞。
 
 ## 精读
 
@@ -26,17 +26,7 @@ source_text: ch09
 
 **读者视角提示**：`jug-eared`（招风耳）是全书对 Eachann 的固定标记；本节一现，读者立刻知道那场羞辱还压在他身上。
 
-> **原句 2:** “He should grow to be better than other men,” she said. “He should be even more the man.”
-
-「他该长得比别的男人更好，」她说。「他该更加是个男人。」
-
-**关键词**：better than other men / even more the man
-
-**为什么这样写**：这是母亲在他面前第一次把「教育」说成一件利己的事。`better than other men` 与 `even more the man` 两个比较级叠在一起，衡量标准却始终不是孩子本人，而是他在别人面前的排名。而 `the man` 的定冠词尤其耐人寻味——「男人」在这里是一个类别标签，不是成长结果。整句因此比任何“我希望他快乐”都冷：她要的是一个能压过 Macbeth 的筹码。
-
-**读者视角提示**：紧接着 Macbeth 摇头说「他还没被试过分量」（`He’s not yet had his mettle tested`）；夫妻二人的分歧由此第一次落到孩子身上，而且双方都以为是在为他好。
-
-> **原句 3:** You do not even like him to get too close to fire.
+> **原句 2:** You do not even like him to get too close to fire.
 
 你甚至不喜欢他靠近火。
 
@@ -46,7 +36,7 @@ source_text: ch09
 
 **读者视角提示**：本章每一场关于火的禁止都在替 ch04 的预言保密；只有读者同时握着两头的钥匙。
 
-> **原句 4:** He was bone-thin and draped in a heavy black cloak, above which floated a pale, horselike face.
+> **原句 3:** He was bone-thin and draped in a heavy black cloak, above which floated a pale, horselike face.
 
 他瘦骨嶙峋，裹在一件沉重的黑斗篷里，斗篷之上浮着一张苍白的、马一样的脸。
 
@@ -56,17 +46,7 @@ source_text: ch09
 
 **读者视角提示**：作者随后给出了一个孩子式的答案——他大概给自己贴了太多水蛭。这既是全书最好笑的一处讽刺，也预告了他之后会把「独处」教成一种美德。
 
-> **原句 5:** Solitude, he told the boy, was a watery oasis in the desert of life.
-
-他告诉男孩，独处是生命荒漠里的一处水绿洲。
-
-**关键词**：Solitude / a watery oasis in the desert of life
-
-**为什么这样写**：一句完整的比喻，却精确地暴露了说话者的绝望——独处被描述成「荒漠中的绿洲」，也就是说，基态是荒漠，独处只是例外。`watery`（水的）让绿洲带上了一层不合时宜的质感：在这座中世纪城堡里，水是稀缺品，也是生命之源。整句是一个用漂亮比喻包装的哀叹，而说这句话的人正在逼一个九岁的孩子接受它。
-
-**读者视角提示**：`Solitude was what God was before he created the world` 紧接其后——他把自己的孤僻一路追溯到创世之前，这是全书对「隐修」最彻底的一次消解。
-
-> **原句 6:** The words swam on the page, impenetrable marks that curled and twisted like dry insect legs.
+> **原句 4:** The words swam on the page, impenetrable marks that curled and twisted like dry insect legs.
 
 那些字在纸上游动，像干枯虫子的腿一样蜷曲扭动，是无法穿透的记号。
 
@@ -76,7 +56,7 @@ source_text: ch09
 
 **读者视角提示**：这一段写的是本书唯一一次真正的学习场景；它的效果全在于用孩子的感官逻辑绕开了「拉丁文很难」这个平淡的事实。
 
-> **原句 7:** “He needs it so that he may find a good wife—an intelligent wife—who can help him run his household.”
+> **原句 5:** “He needs it so that he may find a good wife—an intelligent wife—who can help him run his household.”
 
 「他需要读书，为了能找到一位好妻子——一位聪明的妻子——能帮他打理他的家务。」
 
@@ -86,7 +66,7 @@ source_text: ch09
 
 **读者视角提示**：她随后举出的三条理由（读契约、算开销、裁断纠纷）全是索恩的职务——她要培养的不是儿子，是一个缩小版的自己。
 
-> **原句 8:** “My real father would not tolerate a ruddy tutor treating his son this way.”
+> **原句 6:** “My father would not allow it. My real father would not tolerate a ruddy tutor treating his son this way. He would step on his neck, he would gouge out his eyes—”
 
 「我真正的父亲绝不会容忍一个红鼻子的教师这样对待他的儿子。」
 
@@ -96,7 +76,7 @@ source_text: ch09
 
 **读者视角提示**：紧接其后的两行（踩住他的脖子、挖出他的眼睛）使用的是父亲的暴力词汇——他第一次发现，痛恨继父也可以用赞美亲生父亲的方式完成。
 
-> **原句 9:** “Is dead. And may that piece of him that remains in you die with him.”
+> **原句 7:** “Is dead. And may that piece of him that remains in you die with him.”
 
 「已经死了。愿他留在你身上仅剩的那一块，也随他一起死。」
 
@@ -106,7 +86,7 @@ source_text: ch09
 
 **读者视角提示**：注意她并未否认那句控诉的准确性——她否认的是「还活着」，并在此之上加了一层诅咒。
 
-> **原句 10:** “He met with an accident,” she said. “You’re lying,” the boy shot back. “He died out of hatred for you.”
+> **原句 8:** “He met with an accident,” she said. “You’re lying,” the boy shot back. “He died out of hatred for you.”
 
 「他死于一场意外，」她说。「你在撒谎，」男孩顶了回去。「他死于对你的恨。」
 

@@ -12,7 +12,7 @@ source_text: ch25
 - **情感弧线位置**：Boy 线的成年的门槛。全章有两个继承仪式叠在一起——刀与信——而它们合起来把「郡伯的儿子」这个身份彻底注销。
 - **Tropes 兑现/反转**：兑现「刀＝成年礼」与「立储文书」两重结构；反转是 Macbeth 讲的那个故事：他的父亲临死时逼他拔出了插在自己身上的刀，而这一刀是第 ch06–ch22 那场火与那些尸体的真正起点。
 - **人物弧线**：本章的他在海边第一次完全独处（`untethered, adrift`），也在帐篷里第一次听懂父亲的故事；`He felt the dagger in his hand. It was heavier, weighted with more than metal.` 是他第一次对一件器物做道德判断。
-- **叙事手法**：以分隔线切为四段——噩梦与木盒／村中（Eachann 已死）／海边独骑／帐篷里的两次交递。末段是全书最长的一次口述转述，作者用一杯倒地的酒把「他父亲的死」与「他自己的传位」在同一个动作里焊在一起。
+- **叙事手法**：以分隔线切为十段——噩梦与木盒／村中（Eachann 已死）／海边独骑／母亲报喜／Caimbeul 与老女仆／军营与姑父／Forres 与 Duncan 一家／夜谈。帐篷里的两次交递在末段，是全书最长的一次口述转述，作者用一杯倒地的酒把「他父亲的死」与「他自己的传位」在同一个动作里焊在一起。
 
 > **格式说明**：本节原文 56814 字符，为全书最长章；精读配额取 3–8 处上限中的 8 处。
 
@@ -28,17 +28,7 @@ source_text: ch25
 
 **读者视角提示**：`The boy's leg ached from the horse's fall`（男孩的腿因为那次坠马而作痛）与这句紧邻——身体与心理在同一段里各自记账，而没有人被允许对账。
 
-> **原句 2:** “Never trust a man who disparages dogs,” Macbeth told the boy.
-
-「永远不要相信一个贬低狗的人，」Macbeth 告诉男孩。
-
-**关键词**：Never trust a man / who disparages dogs
-
-**为什么这样写**：整句是一个带定语从句的格言，而 `disparages`（贬低）这个动词把「谈狗」升级成了一件涉及人品的事。`Never` 放在句首，把这条判断写成了终身适用的准则。值得注意的是说话的对象：Macbeth 是在一个 Mills 已经死了的儿子、而全村都在背后说他「像狗一样蠢」的时刻说出这句话的——因此它既是处世哲学，也是对 miller（磨坊主）的一句评价。
-
-**读者视角提示**：紧接其前的 `Slow as a snail, the miller's son had been. Dumb as a dog.`（磨坊主的儿子慢得像蜗牛，蠢得像条狗。）——全章最锋利的一次铺垫，而 Macbeth 立刻把「狗」从骂人词变成了一条判据。
-
-> **原句 3:** The sea and the loneliness made him feel untethered, adrift, as though he might be swept away.
+> **原句 2:** The sea and the loneliness made him feel untethered, adrift, as though he might be swept away.
 
 大海与孤独让他觉得自己被解开了缆绳、漂在水面，仿佛随时会被卷走。
 
@@ -48,17 +38,7 @@ source_text: ch25
 
 **读者视角提示**：紧接其后的 `there was land and there was air and there was sea, but there was no map to the boy's mind`（有陆地，有空气，有大海，但男孩的心里没有一张地图）——物理空间与心理空间在此被明确区分开。
 
-> **原句 4:** “This, too, is my land,” Macbeth said after they had drunk.
-
-「这里也是我的地，」他们喝过之后 Macbeth 说。
-
-**关键词**：This, too, is my land / after they had drunk
-
-**为什么这样写**：`This, too`（这里也是）里那个 `too`（也）是本句的全部：它把一句领地宣言变成为了一次**扩张**——刚才这片是别人的，现在也是我的。而 `after they had drunk`（在他们喝过之后）用完成时把这句宣示挂在一个具体的时点上，使它成为一次酒后的话，而不是一次宪法。`is my land` 三个词用的是最朴素的 be 动词，没有权术、没有修辞。
-
-**读者视角提示**：`And this small tent is no different from my castle. I have power over this place and all it possesses.`（而这顶小帐篷与我的城堡没有分别。我对这块地方及其所有物拥有权力。）——作者紧接一句就把这句朴素的宣言扩张成了绝对的君权陈述。
-
-> **原句 5:** His blood was pooled on the floor like this wine. I had to step through it to reach him.
+> **原句 3:** His blood was pooled on the floor like this wine. I had to step through it to reach him.
 
 他的血像这酒一样，在地板上积成一滩。我必须踩过它，才能走到他身边。
 
@@ -66,19 +46,19 @@ source_text: ch25
 
 **为什么这样写**：一个精确的仪式动作——他把酒倒在地上形成一滩（`poured a dram onto the ground`），然后叙述立刻把那一滩认作他父亲的血。而 `step through it`（踩过它）这个短语是本章唯一一处身体细节：他没有绕过，他**踩着血走**过去。整句用一个比喻（`like this wine`）与一个动作（`step through`）把二十年前的一个场面和此刻脚下的这一滩酒焊在一起。
 
-**读者视角提示**：`Then Macbeth stepped into the pool of wine.`（于是 Macbeth 踏进了那滩酒里。）——两句话一先一后，一次是二十年前，一次是此刻，而叙述者用同一个 `step` 把它们叠在一起。
+**读者视角提示**：`Macbeth stepped into the pool of wine.`（于是 Macbeth 踏进了那滩酒里。）——两句话一先一后，一次是二十年前，一次是此刻，而叙述者用同一个 `step` 把它们叠在一起。
 
-> **原句 6:** “I once gave you a dagger. Now, as my father did, I give this to you as my son.”
+> **原句 4:** “I once gave you a dagger. Now, as my father did, I give this to you as my son.”
 
 「我从前给过你一把刀。现在，正如我父亲对我做的，我把这把给你，以我儿子的身份。」
 
 **关键词**：I once gave you a dagger / as my father did / I give this to you as my son
 
-**为什么这样写**：整句是一个对称结构（`I once gave …` / `Now … I give …`），而 `as my father did` 把一个继承链在这句话里一次接通三代：他父亲给了 Macbeth，Macbeth 给了男孩。而 `as my son`（以我儿子的身份）不是地点状语而是一种**关系宣告**——这正是 ch24 那句 `my boy—our boy—our boy` 的正式版。整句是全书最长的一次传承修辞，而它被两个都曾被父亲亲手杀掉的人说出口。
+**为什么这样写**：整句是一个对称结构（`I once gave …` / `Now … I give …`），而 `as my father did` 把一个继承链在这句话里一次接通三代：他父亲给了 Macbeth，Macbeth 给了男孩。而 `as my son`（以我儿子的身份）不是地点状语而是一种**关系宣告**——这正是 ch24 那句 `my boy—our boy—shall be declared` 的正式版。整句是全书最长的一次传承修辞，而它被两个都曾被父亲亲手杀掉的人说出口。
 
 **读者视角提示**：`He was my father no more.`（他从此不再是我的父亲。）紧接在刀被拔出的叙述之后——父亲死于他被迫完成的那个动作，而如今他把这个动作的传承受给了下一代。
 
-> **原句 7:** The blade crossed Macbeth’s gloved fingers and came to rest evenly across the boy’s palm.
+> **原句 5:** The blade crossed Macbeth’s gloved fingers and came to rest evenly across the boy’s palm.
 
 刀刃越过 Macbeth 戴着手套的手指，平平地落在男孩的掌心上。
 
@@ -88,17 +68,17 @@ source_text: ch25
 
 **读者视角提示**：全章第二次交刀。第一次（ch04）刀刃划开了她母亲的手掌；这一次刀刃完好无损——而它同样是继承。
 
-> **原句 8:** “One day your mother will be gone,” he said. “As will I. Better that I say now to you what should be said, lest you wait to hear it from a ghost.”
+> **原句 6:** “One day your mother will be gone,” he said. “As will I. Better that I say now to you what should be said, lest you wait to hear it from a ghost.”
 
 「总有一天你母亲会不在了，」他说。「我也会。趁现在我把该说的说给你，好过让你将来从一个鬼魂那里听见。」
 
 **关键词**：One day your mother will be gone / lest you wait to hear it from a ghost
 
-**为什么这样写**：两句极短的未来时陈述（`will be gone` / `As will I`）并置，把「母亲」与「我」放在同一个消失序列里；而 `Better that I say now`（趁现在我说）里的 `Better` 把死亡叙述转成了一次时间管理的建议。末句 `lest you wait to hear it from a ghost`（好过让你从一个鬼魂那里听见）用 `lest` 引出一个反向的结果，而「鬼魂」这个词在本书里首次由 Macbeth 自己说出——他在 ch08 说过「我们无法知道鬼魂的心事」（那是 Seyton），而这里他把自己写成即将成为那个鬼魂。
+**为什么这样写**：两句极短的未来时陈述（`will be gone` / `As will I`）并置，把「母亲」与「我」放在同一个消失序列里；而 `Better that I say now`（趁现在我说）里的 `Better` 把死亡叙述转成了一次时间管理的建议。末句 `lest you wait to hear it from a ghost`（好过让你从一个鬼魂那里听见）用 `lest` 引出一个反向的结果，而「鬼魂」这个词在本书里首次由 Macbeth 自己说出——而 ch20 里说「我们无法知道鬼魂的心事」的是 Seyton，不是 Macbeth，而这里他把自己写成即将成为那个鬼魂。
 
-**读者视角提示**：`lest` 的这一用法使父亲的宣告同时成为一句预言与一句遗嘱；而三年之后（ch27）读者会知道：他两件事都说中了。
+**读者视角提示**：`lest` 的这一用法使父亲的宣告同时成为一句预言与一句遗嘱；而许多年后（ch27）读者会知道：他两件事都说中了。
 
-> **原句 9:** The words were unfixed, mocking, withholding.
+> **原句 7:** The words were unfixed, mocking, withholding.
 
 那些字是浮动的、嘲弄的、拒不给的。
 
@@ -108,7 +88,7 @@ source_text: ch25
 
 **读者视角提示**：`He tried to read, tried to find something to tether himself to, a meaning.`（他试着去读，试着找到一个可以系住自己的东西，一个意义。）——`tether`（系住）又一次回到了海边那个 `untethered` 的反义。
 
-> **原句 10:** He felt the dagger in his hand. It was heavier, weighted with more than metal.
+> **原句 8:** He felt the dagger in his hand. It was heavier, weighted with more than metal.
 
 他感觉到手里那把刀。它更重，重的不只是金属。
 

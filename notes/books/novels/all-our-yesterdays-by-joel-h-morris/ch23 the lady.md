@@ -26,27 +26,17 @@ source_text: ch23
 
 **读者视角提示**：本句的第一人称是回望式的；写这段话时，她已经知道他不会回来，而读者将在 ch25 才知道她为何这样说。
 
-> **原句 2:** The mormaer wished to conceive a man. It took a woman to do it.
-
-郡伯想要生下一个男人。做成这件事需要的是一个女人。
-
-**关键词**：wished to conceive a man / It took a woman to do it
-
-**为什么这样写**：前一句用 `the mormaer`（那个男人）作主语，后一句把它换成 `a woman`——不是「我」，而是泛指的「一个女人」，这个降格是刻意的。`wished to conceive`（想要孕育）把生育写成一个愿望的实现，而 `It took a woman to do it` 里的 `It` 指的是整件事，`took`（需要）把两性关系写成了一次分工。整段是全书对生育最经济的一次陈述：男人提供愿望，女人提供代价。
-
-**读者视角提示**：`It took a woman to do it` 里的 `It` 也可以指「把这孩子生下来」或「把一个男人生出来」——两种读法都成立，而两种读法都正是全书的核心。
-
-> **原句 3:** In sleep lies all possibility.
+> **原句 2:** In sleep lies all possibility.
 
 在睡眠里蕴藏着一切可能。
 
 **关键词**：In sleep lies all possibility
 
-**为什么这样写**：一句典型的格言式倒装（把 `all possibility` 提前作主语，`lies` 用单数现在时），而 `lies` 这个动词（卧、躺）本身带有身体的意味——可能性是**躺着**的，不是站着的。整句只有六个词，却精确地描述了她此刻的处境：她所有的可能性都在睡眠里，在白天的 Scone 仪式上她只能等待。
+**为什么这样写**：一句格言（不可数名词作主语，`lies` 配单数现在时），而 `lies` 这个动词（卧、躺）本身带有身体的意味——可能性是**躺着**的，不是站着的。整句只有六个词，却精确地描述了她此刻的处境：她所有的可能性都在睡眠里，在白天的 Scone 仪式上她只能等待。
 
 **读者视角提示**：这一句与紧接其后的 `The fact that your boy is gone and that you were the one who sent him to his death.`（你的儿子走了，而把他送去死的人是你。）构成一组：睡眠里是可能性，醒来后是事实。
 
-> **原句 4:** The fact that your boy is gone and that you were the one who sent him to his death.
+> **原句 3:** The fact that your boy is gone and that you were the one who sent him to his death.
 
 你的儿子走了，而把他送去死的人是你。
 
@@ -54,9 +44,9 @@ source_text: ch23
 
 **为什么这样写**：整句由两个并列的 `that` 从句构成，而两个从句的主语分别是 `your boy` 与 `you`——句子的几何形状就是一场对质：一个走了，一个送他走。而 `to his death`（送他去死）用的是 `his` 而非 `your`，在语法上把她从这件事里摘了出去；可正是这个 `his` 让整句更像一次自我指控。
 
-**读者视角提示**：这是全书最锋利的一句内心独白；读者会立刻想起 ch16 那封写给国王的信、ch17 那盘棋——她一生都在用间接手段送人上路，而这一次她是直接交出了手。
+**读者视角提示**：这是全书最锋利的一句内心独白；读者会立刻想起 ch17 里那封写给国王的信、那盘棋——她一生都在用间接手段送人上路，而这一次她是直接交出了手。
 
-> **原句 5:** “Consider it not so deeply,” my grandam would say.
+> **原句 4:** “Consider it not so deeply,” my grandam would say.
 
 「别把它想得那么深，」我的祖母总这样说。
 
@@ -66,7 +56,7 @@ source_text: ch23
 
 **读者视角提示**：`She disdained anything that was troubling`（她瞧不起任何令人不安的东西）紧接其后——这既是对祖母性格的说明，也是她此刻对自己说的话。
 
-> **原句 6:** So I will not be queen. I do not want it, and to believe it could be true beggars all belief.
+> **原句 5:** So I will not be queen. I do not want it, and to believe it could be true beggars all belief.
 
 所以我不会成为王后。我不想要它，而相信它可能是真的，会让一切相信都变得寒酸。
 
@@ -74,21 +64,9 @@ source_text: ch23
 
 **为什么这样写**：这是全书她对自己下的**判词**，而它的论证形式是：`So`（所以）从一句事实（我不想）推出一句结论（我不会）——但中间缺了一个环节，她自己也知道。`beggars all belief`（让一切相信都变得寒酸／乞丐化）是这一段最狠的一个词：`beggar` 在此不是「使人相信」，而是**使人贫困**；相信那则预言会让她失去一切信念的底气。整句是修辞学上的一次自我缴械。
 
-**读者视角提示**：`And yet.`（然而。）在下一段开头独立成段——三个词，是全书最短的一次转折，也是她唯一一次不为自己辩护。
+**读者视角提示**：`And yet.`（然而。）紧跟在同段的前一句 `A madwoman’s prating.` 之后——两个词，是全书最短的一次转折，也是她唯一一次不为自己辩护。
 
-> **原句 7:** His scepter is a golden fire.
-
-他的权杖是一团金色的火。
-
-**关键词**：His scepter is a golden fire
-
-**关键词（附加）**：scepter
-
-**为什么这样写**：一个七词句，把一件金属器物直接等同于火。而 `golden` 一词把两样东西连在一起：那是**加冕礼上的金**（教会所赐的权柄）与**她一生禁止的火**（那个女巫的预言）在此重叠。整句没有主语的情感词，没有惊叹号，却比任何惊叹都更响。
-
-**读者视角提示**：紧接其后的三行 `On the night of fog and flame. / Queen hereafter.`（在雾与火焰之夜。此后你将是王后。）——预言的最后两块碎片，在她眼前自行拼合。
-
-> **原句 8:** Duncan’s body is not a body but an edifice, a temple, a church.
+> **原句 6:** Duncan’s body is not a body but an edifice, a temple, a church.
 
 Duncan 的身体不是一具身体，而是一座建筑、一座神殿、一座教堂。
 
@@ -98,7 +76,7 @@ Duncan 的身体不是一具身体，而是一座建筑、一座神殿、一座�
 
 **读者视角提示**：她本人在同页被主教的一举一动吸引到无法思考（`I try to put it out of my mind, but I cannot`）；她越是努力抵抗，就越彻底地被这场仪式改写。
 
-> **原句 9:** I feel the sun even though there is no sun. I feel Truth.
+> **原句 7:** I feel the sun even though there is no sun. I feel Truth.
 
 我感受到了太阳，尽管没有太阳。我感受到了真理。
 
@@ -108,7 +86,7 @@ Duncan 的身体不是一具身体，而是一座建筑、一座神殿、一座�
 
 **读者视角提示**：紧接着是 `I weep and rejoice as all the others weep and rejoice, too. I shout with everyone: Hail! Hail!`——`as all the others … too` 的三重 `as / too` 把她的感受并入群体，而她的下一句（`Suddenly, I also believe…`）仍以 `also`（也）开头。
 
-> **原句 10:** Suddenly, I also believe my son and husband are dead.
+> **原句 8:** Suddenly, I also believe my son and husband are dead.
 
 突然，我也相信我的儿子和丈夫已经死了。
 
@@ -138,7 +116,6 @@ Duncan 的身体不是一具身体，而是一座建筑、一座神殿、一座�
 | candlelight | 烛光 | I would stare into the candlelight |
 | incantation | 咒语 | only a few more incantations to go |
 | solemnly | 庄重地 | He stands there solemnly, not seeming to enjoy his father’s celebratory day |
-| incantation | 咒语 | the incantation she made before she cast the swaddling babe into the fire |
 | crow | （鸡）啼叫 | Now the nobles have gathered in a circle around the coronation stone |
 | anoint | 涂油（祝圣）| He anoints Duncan with oil |
 

@@ -52,7 +52,7 @@ source_text: ch02
 
 **关键词**：wolf’s fang / I know it / its shame
 
-**为什么这样写**：三个短句独立成段，像心跳的间隔。`wolf’s fang` 是全书的自我定语——她把自己的一颗尖牙认作狼的獠牙，从此把自己归入野兽一族。`its shame` 用物主代词 `its` 指向「fang」，而不是「I」，于是羞耻最终属于那颗牙本身，也因此顺延到她身上。这是 ch01 历史说明里那个「女儿、杀母者、Macbeth 之妻」的历史身份，在这里第一次有了具体的身体部位。
+**为什么这样写**：三个短句同处一段、句号各自落地，像心跳的间隔。`wolf’s fang` 是全书的自我定语——她把自己的一颗尖牙认作狼的獠牙，从此把自己归入野兽一族。`its shame` 用物主代词 `its` 指向「fang」，而不是「I」，于是羞耻最终属于那颗牙本身，也因此顺延到她身上。这是 ch01 历史说明里那个「女儿、杀母者、Macbeth 之妻」的历史身份，在这里第一次有了具体的身体部位。
 
 **读者视角提示**：`I know it` 三个词构成一次彻底的自我指认——她并不辩解，只承认。这份不辩解是她此后说服 Macbeth、说服自己的全部资本。
 
@@ -82,7 +82,7 @@ source_text: ch02
 
 **关键词**：as if for a kiss / Instead / a faint mingling of salt and blood
 
-**为什么这样写**：`as if` 与 `Instead` 一前一后构成一次精确的背叛：动作的前提（接吻）与实际（咬）之间只隔一个词。`a faint mingling` 用两个极轻的词（`faint`、`mingling`）去承载血腥，形成语调与内容的反差。`He does not flinch.` 单句成段，把这句反常的坦荡推到极致——他不退，反而是她先松口（`I release`）。整段是她对上一段判词的现场作答：既然你说我只给人看幕布，那我就让你尝尝幕布后面是什么味道。
+**为什么这样写**：`as if` 与 `Instead` 一前一后构成一次精确的背叛：动作的前提（接吻）与实际（咬）之间只隔一个词。`a faint mingling` 用两个极轻的词（`faint`、`mingling`）去承载血腥，形成语调与内容的反差。`He does not flinch.` 落在同一段的第四句，把这句反常的坦荡推到极致——他不退，反而是她先松口（`I release`）。整段是她对上一段判词的现场作答：既然你说我只给人看幕布，那我就让你尝尝幕布后面是什么味道。
 
 **读者视角提示**：`He does not flinch` 与 `I release` 的对照说明：他欣赏的正是危险本身。这解释了他此后为何既依赖她，又从不放松警惕。
 
@@ -104,9 +104,6 @@ source_text: ch02
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| equivocator | 说话含糊其辞的人 | Like an equivocator |
-| glean | （目光）搜寻、细察 | He gleans my face, reading once more |
-| rehearsed | 排练过的 | Your face, my Lady, is as a play |
 | stifle | 抑制（住）| I cannot stifle a laugh |
 | muses | 沉思着说 | “Your eyes,” he muses |
 | hovering | 悬停；徘徊不去 | his lips hovering above my lips |

@@ -14,7 +14,7 @@ source_text: ch01
 - **人物弧线**：本节不推进任何心理活动，只摆出一生的骨架——少女 → 十几岁被联姻 → 经历一场焚死而活下来 → 带着别人的孩子改嫁杀夫者。性格的全部展示留给正文。
 - **叙事手法**：全书唯一的第三人称说明体（其余各章为格鲁奥赫第一人称与其子第三人称限知的双线交替）。本页只给史实框架，不作道德判断。
 
-> **格式说明**：本节原文仅 540 字符、4 个句子，不足以支撑 3–8 处的常规配额，故下调为 3 处精读。
+> **格式说明**：本节原文仅 540 字符、6 个句子，不足以支撑 3–8 处的常规配额，故下调为 3 处精读。
 
 ## 精读
 
@@ -38,13 +38,13 @@ source_text: ch01
 
 **读者视角提示**：`With him she had a child.` 独立成句，六个词，句号落下后没有停顿也没有评价，正是这句的重量所在——它决定了她后半生所有的筹码与代价。
 
-> **原句 3:** After the mormaer and fifty of his men were killed after being locked in a building and burned as they slept, she married her husband's murderer: the thane Macbeth. Into that marriage she brought her son.
+> **原句 3:** After the mormaer and fifty of his men were killed after being locked in a building and burned as they slept, she married her husband’s murderer: the thane Macbeth. Into that marriage she brought her son.
 
 郡伯与他手下的五十人被人锁在屋内、就着火焚之后，格鲁奥赫嫁给了杀她丈夫的人——索恩·麦克白。她把自己的儿子带进了这段婚姻。
 
 **关键词**：locked in a building and burned as they slept / her husband’s murderer / brought her son
 
-**为什么这样写**：三个 `after` / `killed` / `after` 构成一次冗余的叠用，把屠杀的因果链条压进一个长句，读来有窒息感。全部被动结构（`were killed`、`were locked`、`were burned`）把施暴者完全隐去，读者只能听见屋内的睡眠与外面的火——这是受害者的语法视角。而全书最狠的一击落在句号之后：`she married her husband's murderer: the thane Macbeth`，冒号后面那个「谋杀她丈夫的人」就是她新的丈夫。末句 `Into that marriage she brought her son` 用一个介词短语收束，把儿子写成她带进婚姻的资产，也写成 Macbeth 一生都介意的那笔旧账。
+**为什么这样写**：三个 `after` / `killed` / `after` 构成一次冗余的叠用，把屠杀的因果链条压进一个长句，读来有窒息感。全部被动结构（`were killed`、`locked in a building`、`were burned`）把施暴者完全隐去，读者只能听见屋内的睡眠与外面的火——这是受害者的语法视角。而全书最狠的一击落在句号之后：`she married her husband's murderer: the thane Macbeth`，冒号后面那个「谋杀她丈夫的人」就是她新的丈夫。末句 `Into that marriage she brought her son` 用一个介词短语收束，把儿子写成她带进婚姻的资产，也写成 Macbeth 一生都介意的那笔旧账。
 
 **读者视角提示**：本节不解释她为何愿意改嫁凶手，正文会给出答案（详见 ch02 Prologue 她如何主动走向 Macbeth 的门）。而「带着儿子进入这段婚姻」这件事，将在 The Boy 线（ch03 起）以孩子的视角被重新讲述一遍——那时读者会知道，火夜之中发生了什么。
 

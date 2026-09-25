@@ -36,37 +36,17 @@ source_text: ch12
 
 **读者视角提示**：他当下被一个教师用锁链固定，而本章后半段他被一群人围住却无法逃走——两种「mobbed」构成一组呼应。
 
-> **原句 3:** “Your redemption depends on it.”
+> **原句 3:** “…Now, conjugate. Your redemption depends on it.”
 
 「你的救赎取决于此。」
 
 **关键词**：Your redemption depends on it
 
-**为什么这样写**：六个词，把拉丁语变位和灵魂得救绑成了一次交易。`depends on it` 里的 `it` 回指那句完全没有说出口的服从——即「把它写对」。整句用最抽象的名词（redemption）去支撑一个最具体的动作（抄写），两个世界被作者强行接在一起；本句是 Broccin 全部方法论的总结，也是本书中最露骨的一次洗脑修辞。
+**为什么这样写**：五个词，把拉丁语变位和灵魂得救绑成了一次交易。`depends on it` 里的 `it` 回指那句完全没有说出口的服从——即「把它写对」。整句用最抽象的名词（redemption）去支撑一个最具体的动作（抄写），两个世界被作者强行接在一起；本句是 Broccin 全部方法论的总结，也是本书中最露骨的一次洗脑修辞。
 
-**读者视角提示**：`redemption`（救赎）这个词在全书别处从未出现；读者此刻明白，这位教师要救赎的是自己的罪孽，不是男孩的。
+**读者视角提示**：`redemption`（救赎）这个词在 ch16 还会再出现一次（同一位教师的原话）；读者此刻就该明白，这位教师要救赎的是自己的罪孽，不是男孩的。
 
-> **原句 4:** It was a wild battle, both birds flying up over the castle top and behind a turret.
-
-那是一场混战，两只鸟一同飞过城堡顶端，飞到塔楼的后面。
-
-**关键词**：It was a wild battle / both birds flying up / behind a turret
-
-**为什么这样写**：`It was a wild battle`（那是一场混战）用军事词汇描写两只鸟在空中的追逐，是孩子视角的典型降级——他不知道该怎么形容，于是借用了成人的战争语言。而 `both` 一词抹掉了捕食者与猎物的区别，两个人在此是对等的交战方。`over the castle top and behind a turret` 两个方位短语的连缀让战斗不断向上、向后延伸，每一次都超出视野，读者跟着他一起失去了那只燕子。
-
-**读者视角提示**：这一段真正的作用是把「追猎」这个动作预先安装进孩子的行为模式里——当天傍晚他就用同样的方式扑向了那只死雏鸟。
-
-> **原句 5:** She was twisted, misshapen, like one of the gnarled trees behind her.
-
-她扭曲、残缺，像她身后那些虬结的树一样。
-
-**关键词**：twisted, misshapen / like one of the gnarled trees
-
-**为什么这样写**：`twisted` 与 `misshapen` 两个词并列，前者强调拧曲、后者强调形状不对，叠加成一幅具体的身体图景。而 `like one of the gnarled trees behind her` 把人与树并置——`gnarled`（虬结的）用在一个形容关节扭曲的形容词上，本身也带着扭曲义，作者让一个词在自己身上回响。三个动词（be twisted / be misshapen / be like）层层收束，读者得到的是一具无法被修复的躯体。
-
-**读者视角提示**：这与他童年在林中设想的三个弟妹（Their faces, flushed cheeks, None of them had the wolf's tooth）正好相反；在这里他终于见到了一个**真的**残缺的人。
-
-> **原句 6:** She looked up at it, looked back at the castle, at the boy, her mouth covered in blood.
+> **原句 4:** She looked up at it, looked back at the castle, at the boy, her mouth covered in blood.
 
 她抬头看那鹰，又回头望向城堡、望向男孩，她的嘴上沾满了血。
 
@@ -76,7 +56,7 @@ source_text: ch12
 
 **读者视角提示**：男孩此刻感受到的不是恐惧而是困惑（`Was she looking at him?`）；他很快被强行带走，没机会问出口。
 
-> **原句 7:** “I daresay it is as you suspect, good lady. There is a—fiendishness about.” His bushy eyebrows were raised; there was a frown on his face that made the gleam of saliva on his chin more pronounced. “Be vigilant.”
+> **原句 5:** “I daresay it is as you suspect, good lady. There is a—fiendishness about.” His bushy eyebrows were raised; there was a frown on his face that made the gleam of saliva on his chin more pronounced. “Be vigilant.”
 
 「我敢说，正如你所怀疑的，夫人。这事有一种——妖气在。」他的浓眉高高扬起；他脸上皱着，那让他下巴上的唾液亮光更加明显。「务必小心。」
 
@@ -86,7 +66,7 @@ source_text: ch12
 
 **读者视角提示**：`the gleam of saliva on his chin`（下巴上唾液的亮光）把一句鬼气森森的警告放在了一张滑稽的嘴脸上，喜剧与恐怖在同一句里并置。
 
-> **原句 8:** “Moray’s son,” said another. “Moray’s burned to ash,” someone answered behind the rows of heads.
+> **原句 6:** “Moray’s son,” said another. “Moray’s burned to ash,” someone answered behind the rows of heads.
 
 「莫雷的儿子，」另一个人说。「莫雷早就烧成灰了，」人群后面的某个声音答道。
 
@@ -94,9 +74,9 @@ source_text: ch12
 
 **为什么这样写**：两句相隔不到一行，却完成了一次身份核销：先由一个人说出他的身份（连他的母亲都已被算进去），再由另一个人把那个身份连同它的主人一起注销（burned to ash）。`burned to ash` 与 ch01 历史说明里的那场火、ch10 里的火屋是同一场，作者用一次跨线的重复把全体村民的判断与故事的史实对齐。
 
-**读者视角提示**：这个「莫雷」指的不是他自己，而是他那位从未谋面的祖父——他正在为祖先的火焰付出代价。
+**读者视角提示**：这个「莫雷」不是他自己，而是他那位从未谋面的父亲——他正在为父亲的火焰付出代价（ch01 写明「With him she had a child」；本章村民也明说「Cooked in his own bloody sauce.」）。
 
-> **原句 9:** Their voices rose. The word came coiling at him, each wanting to out-cry the other, hollering hell.
+> **原句 7:** Their voices rose. The word came coiling at him, each wanting to out-cry the other, hollering hell.
 
 他们的声音升高了。那个词像一条蛇一样朝他卷来，每个人都想压过另一个人，大喊「地狱」。
 
@@ -106,7 +86,7 @@ source_text: ch12
 
 **读者视角提示**：作者用 `he could almost feel the fumes of it, rising`（他几乎能感到那热气，正在升起）把声音接到了嗅觉上——地狱不是一个词，是一股气味。
 
-> **原句 10:** Suddenly the boy was falling—down, down, fainting through the hellish shouts.
+> **原句 8:** Suddenly the boy was falling—down, down, fainting through the hellish shouts.
 
 突然，男孩向下坠落——向下，向下，穿过那些地狱般的喊叫晕了过去。
 

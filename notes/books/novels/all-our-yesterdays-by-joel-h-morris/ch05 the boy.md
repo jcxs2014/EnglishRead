@@ -12,11 +12,11 @@ source_text: ch05
 - **情感弧线位置**：男孩线的第一次「有家」——前几章都是失去，本章第一次出现拥有（狗、玩伴、礼物），也因此第一次出现「将来」的形状。
 - **Tropes 兑现/反转**：兑现「适应新家」的温情套路；反转在于母亲教他的不是怎么交朋友，而是怎么与继父建立同盟——她把亲子关系直接转译成一套政治工程。
 - **人物弧线**：他从抵触新家（把狗当唯一的旧识）走到主动出击（教 Marsaili 怎么让狗接受她）；但他仍没有放下旧账——本章唯一一处回望是母亲掌心那道刀疤，他知道是自己的错。
-- **叙事手法**：以分隔线（`—`）切为三段：抵达与晚餐、狗房里的初遇、母亲夜谈。三段各自完整，节奏由白日的喧闹转向夜里的密谋。
+- **叙事手法**：以分隔线（`—`）切为四段：搬进新家、狗房里的初遇、白天的狗与新教师、母亲夜谈。四段各自完整，节奏由白日的喧闹转向夜里的密谋。
 
 ## 精读
 
-> **原句 1:** Macbeth’s castle loomed ahead, sharp-stoned against the sun. Under its battlements clung a dozen muddy nests from which arrowlike birds dart and dove. The boy watched them rise up high over the walls and then fly down, spiraling and swooping, then vanish into the pocked castle walls.
+> **原句 1:** Macbeth’s castle loomed ahead, sharp-stoned against the sun. Under its battlements clung a dozen muddy nests from which arrowlike birds darted and dove. The boy watched them rise up high over the walls and then fly down, spiraling and swooping, then vanish into the pocked castle walls.
 
 麦克白的城堡在前方逼近，尖石砌成的墙面在阳光下发亮。城垛下挂着十几个泥糊的鸟窝，箭一般的鸟从里面射进又俯冲而出。男孩看它们高高升起越过城墙，然后俯冲、盘旋，消失在满是坑洞的城墙里。
 
@@ -42,7 +42,7 @@ source_text: ch05
 
 **关键词**：things enter my head / they’re impolite / so I don’t say them
 
-**为什么这样写**：整句只有十四个词，全部由一个孩子最容易用的三段结构组成：某物进来 → 它不好 → 所以我不说。`they’re impolite` 是全句最锋利的地方——她并非害怕这些念头，而是认为它们不合礼数，因此闭嘴。这个区分很关键：她不是被噤声，她是自己选择了沉默，而这正是 Macbeth 在 ch02 序章里诊断出的那种「practiced honesty」的雏形。
+**为什么这样写**：整句只有十三个词，全部由一个孩子最容易用的三段结构组成：某物进来 → 它不好 → 所以我不说。`they’re impolite` 是全句最锋利的地方——她并非害怕这些念头，而是认为它们不合礼数，因此闭嘴。这个区分很关键：她不是被噤声，她是自己选择了沉默，而这正是 Macbeth 在 ch02 序章里诊断出的那种「practiced honesty」的雏形。
 
 **读者视角提示**：这个九岁女孩此后将成为全书最会保守秘密的人；她与格鲁奥赫在此处完成了一次跨越年龄的认同，而他对此一无所知。
 

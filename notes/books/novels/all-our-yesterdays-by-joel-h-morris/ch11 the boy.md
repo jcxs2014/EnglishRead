@@ -11,7 +11,7 @@ source_text: ch11
 - **一句话概括**：母亲宣布要与 Macbeth 出访两周，男孩追问「你爱过他吗，我父亲？」；她把刀疤举给他看，告诉他那是一个承诺，随后说出一个更重的答案：他当年拒绝接刀，所以她父亲才会死。
 - **情感弧线位置**：男孩线的最低点与全书预言的正式移交——ch04 那句「他会死，而我是原因」在本章由母亲亲手交到男孩手里，并且当场改了责任人。
 - **Tropes 兑现/反转**：兑现「孩子追问亡母的真心」这一套路；反转是母亲用一个假的因果回答了他——`You showed him that failure`（是你让他失败）。她把预言从自己身上转移到了孩子身上。
-- **人物弧线**：他本章唯一一次赢下了辩论（`He relented. "Yes."`），代价是接受了一套关于自身处境的新叙事；他还不知道那句 `Yes` 会成为他此后整个人生的底色。
+- **人物弧线**：他本章唯一一次赢下了辩论（`He relented. “Yes.” “Good.”`），代价是接受了一套关于自身处境的新叙事；他还不知道那句 `Yes` 会成为他此后整个人生的底色。
 - **叙事手法**：全章为一场深夜对话，由母亲单向推进。她几乎每说一段就用一件实物（蜡烛、木兵、刀疤、季节）来承载抽象内容；结尾她给出全书最辽阔的一句安慰，而读者知道这安慰是用来封口的。
 
 ## 精读
@@ -32,7 +32,7 @@ source_text: ch11
 
 **关键词**：a compact that promised / uproot / will never return again
 
-**为什么这样写**：`compact`（约定）一词把一场婚姻说成一纸合约，而 `promised` 后面并列的两项正是这份合约的条款：搬迁，以及父亲的永久缺席。`uproot`（连根拔起）是本句的重量所在——这个词本用于植物，落在人身上就成了「从故土拔出来、无法复种」。而 `will never return again` 用双重否定式的将来时（永不＋再回来），把希望彻底关在门外。
+**为什么这样写**：`compact`（约定）一词把一场婚姻说成一纸合约，而 `promised` 后面并列的两项正是这份合约的条款：搬迁，以及父亲的永久缺席。`uproot`（连根拔起）是本句的重量所在——这个词本用于植物，落在人身上就成了「从故土拔出来、无法复种」。而 `would never return again` 用双重否定式的将来时（永不＋再回来），把希望彻底关在门外。
 
 **读者视角提示**：这是男孩第一次听说父亲不会回来；母亲的解释是「约定」，而 ch03 里他一整天的等待与暴怒，正是为了推翻这份他不理解的合约。
 
@@ -66,7 +66,7 @@ source_text: ch11
 
 **读者视角提示**：这是全书最锋利的一个孩子提问；她接下来的每一个动作（握住他的手、翻过手掌、把手放到刀疤上）都是在回答它。
 
-> **原句 6:** “You showed him that failure.” “That led to his accident.” “Yes.” She folded her hands. “You understand?”
+> **原句 6:** “…You showed him that failure.” “That led to his accident.” “Yes.” She folded her hands. “You understand?”
 
 「是你让他看到了那种失败。」「那导致了他的意外。」「对。」她把双手叠在一起。「你明白了吗？」
 
@@ -86,7 +86,7 @@ source_text: ch11
 
 **读者视角提示**：这句话是母亲在整部书里最接近真情的一次流露；它紧接在她刚刚用谎话封住孩子之后。
 
-> **原句 8:** “We’ve found a sea of love, you and I, and we are only standing on the shore.”
+> **原句 8:** “…We’ve found a sea of love, you and I, and we are only standing on the shore.”
 
 「你和我已经找到了一片爱之海，而我们只是站在岸上。」
 

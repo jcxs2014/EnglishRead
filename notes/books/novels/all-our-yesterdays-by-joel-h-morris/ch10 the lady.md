@@ -36,37 +36,17 @@ source_text: ch10
 
 **读者视角提示**：本节她起身出门，是因为她终于等到了；而这个「合适时机」会在她敲门的那一刻被她自己取消——她先说 `No, I would be bold`，用的是临时替换的方案。
 
-> **原句 3:** I was alone. I shouted for someone, but no one came.
-
-我独自一人。我喊了一声，可是没有人来。
-
-**关键词**：I was alone / I shouted for someone / but no one came
-
-**为什么这样写**：这是一句纯粹用 `I` 和 `no one` 构成的对照。主语是 `I`，回应却落在一个缺席的 `no one` 上，两端之间只隔一个 `but`。而 `I shouted for someone` 用 `for` 而非 `at`（喊向谁），说明他喊的不是某个具体的人，只是喊出一个人形的需求。整句二十来个词，把 Macbeth 变成的那个世界——他靠篡位与火攻夺取的王国——还原成一个空房间。
-
-**读者视角提示**：这是全书对 Macbeth 内心最直接的一次披露；也是他后来反复在荒原上站住不动的那个梦的第一次出现。
-
-> **原句 4:** I lacked the ability. Or the will.
-
-我缺少那种能力。或者是那种意志。
-
-**关键词**：I lacked the ability / Or the will
-
-**为什么这样写**：两个分句之间只有一个 `Or`，而这个 `Or` 承担了全句的全部重量：先是身体的不能（ability），再是意愿的不为（will）。作者不给读者判断哪一个是真的，只用两句话并列，把这份不确定性永久地留在叙述里。这与他对火屋的叙述形成尖锐反差——那件事他做得毫不犹豫，连一句解释都欠奉。
-
-**读者视角提示**：读者此刻已经能看出他对自己的两种失控给出的是两种解释，而这两种解释他都当真。
-
-> **原句 5:** It didn’t matter whether I stayed rooted to the spot or walked a thousand miles. It was all the same string of tomorrows that stretched out before me. You see?
+> **原句 3:** It didn’t matter whether I stayed rooted to the spot or walked a thousand miles. It was all the same string of tomorrows that stretched out before me. You see?
 
 是我待在那块地方不动，还是走上一千里，都无关紧要。横在我面前的，反正都是同一串「明天」。你懂吗？
 
-**关键词**:stayed rooted to the spot / walked a thousand miles / the same string of tomorrows
+**关键词**：stayed rooted to the spot / walked a thousand miles / the same string of tomorrows
 
-**为什么这样写**：`didn’t matter whether … or …` 用一个对称的选择结构把「静止」和「远行」并置，随后立刻宣布两者等价——这是全书最彻底的一次绝望表述。而 `a string of tomorrows`（一串明天）是本句的发明：`string` 把时间写成可以拿在手里、可以数得清的东西，`tomorrows` 用复数让它变成一条没有尽头的绳。末句 `You see?`（你懂吗？）反客为主——他问的不是她的理解，而是她的认同。
+**为什么这样写**：`didn’t matter whether … or …` 用一个对称的选择结构把「静止」和「远行」并置，随后立刻宣布两者等价——这是全书最彻底的一次绝望表述。而 `the same string of tomorrows`（同一串明天）是本句的发明：`string` 把时间写成可以拿在手里、可以数得清的东西，`tomorrows` 用复数让它变成一条没有尽头的绳。末句 `You see?`（你懂吗？）反客为主——他问的不是她的理解，而是她的认同。
 
-**读者视角提示**：他随即就承认了 `No, he said with a sigh. But no matter.`，说明他知道她不懂；而她确实不懂，本书用了整整二十章才让「同一串明天」这句话获得重量。
+**读者视角提示**：他随即就承认了 `“No,” he said with a sigh. “But no matter.”`，说明他知道她不懂；而她确实不懂，本书用了整整二十章才让「同一串明天」这句话获得重量。
 
-> **原句 6:** “Must there be a reason?”
+> **原句 4:** “Must there be a reason?”
 
 一定需要一个理由吗？
 
@@ -76,7 +56,7 @@ source_text: ch10
 
 **读者视角提示**：他被这五个字逼得回了句 `I suppose not, though it seems wasteful`（我想不用，虽然看起来挺浪费）——这是本书里他唯一一次被她说得语塞。
 
-> **原句 7:** “I wondered,” he said, “what chance had led me to this place. What fate. I waited, but there was no answer. There was only the fact of it: they were inside, and I was out. So I watched the fire. I watched them burn.”
+> **原句 5:** “I wondered,” he said, “what chance had led me to this place. What fate. I waited, but there was no answer. There was only the fact of it: they were inside, and I was out. So I watched the fire. I watched them burn.”
 
 「我想过，」他说，「是什么机缘把我引到这个地方。是怎样的命运。我等着，可是没有答案。有的只是这个事实：他们在里面，我在外头。于是我看着那场火。我看着他们烧。」
 
@@ -86,7 +66,7 @@ source_text: ch10
 
 **读者视角提示**：她说不出话，因为她在听的正是那个关于火夜的问题；而 ch01 的历史说明已经把这笔账写清了。此刻读者同时握着三方的证词。
 
-> **原句 8:** Flesh and bone now turned to smoke. Rising upward, ash falling down on the living like snow.
+> **原句 6:** Flesh and bone now turned to smoke. Rising upward, ash falling down on the living like snow.
 
 血肉与骨骸此刻化成了烟。向上升起，灰落在活人身上，像雪。
 
@@ -96,17 +76,17 @@ source_text: ch10
 
 **读者视角提示**：`falling down on the living` 里的 `living`（活人）此刻就站在火边——他本人就是那个 `living`，这句因此不是客观描述，而是一份自供。
 
-> **原句 9:** They knew it was him only because of the metal on him. His sword. The chain around his neck that was his alone.
+> **原句 7:** They knew it was him only because of the metal on him. His sword. The chain around his neck that was his alone.
 
 他们认出那是他，只因为身上的金属。他的剑。他脖子上那条只属于他的链子。
 
 **关键词**：only because of the metal on him / His sword / that was his alone
 
-**为什么这样写**：这段回忆的高潮不是火，是身份无法被身体保存。`only because of` 把「认出一个人」的全部依据压缩成附着物；随后的两个短句各由五六个词构成，像清点遗物。`that was his alone`（那是他一个人的）用一个孤零零的 `alone` 收尾——一堆烧焦的肉无法证明身份，能证明的只有金属；而「谁的」这个问题，作者让一个永远不会回答的人物的链子替她回答了。
+**为什么这样写**：这段回忆的高潮不是火，是身份无法被身体保存。`only because of` 把「认出一个人」的全部依据压缩成附着物；随后的两个短句一个只有两个词（`His sword.`），另一个有九个词（`The chain around his neck that was his alone.`），长短悬殊，像清点遗物时手里忽轻忽重。`that was his alone`（那是他一个人的）用一个孤零零的 `alone` 收尾——一堆烧焦的肉无法证明身份，能证明的只有金属；而「谁的」这个问题，作者让一个永远不会回答的人物的链子替她回答了。
 
 **读者视角提示**：读者在此确知 ch01 那笔「五十个人锁在屋里烧死」的账目完全属实；她听着这一切，肩膀上披着同一场火的死者关系。
 
-> **原句 10:** “Because you should have come here long ago.” I smiled.
+> **原句 8:** “Because you should have come here long ago.” I smiled.
 
 「因为你早该来这里。」我笑了。
 

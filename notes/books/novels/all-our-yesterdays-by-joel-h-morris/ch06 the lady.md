@@ -34,7 +34,7 @@ source_text: ch06
 
 **为什么这样写**：三个逗号串起三级衰变，用的都是听觉与视觉的消散物：`echo`（有声无形）、`fume`（有形无质）、`then died out altogether`（连痕迹也没有）。`altogether` 在这里承担一个不合时宜的强调——它属于 `died out` 而非 `become`，让最后一级的消失显得格外彻底。这三步其实是时间本身的三种写法：回声需要墙，烟需要空气，熄灭则什么都不需要。
 
-**读者视角提示**：她的丈夫在她眼前以三种方式各死一次——先是名字死，然后是他在这座房子里的存在死，最后才是尸体回来。全章随后立刻处理第三种。
+**读者视角提示**：她的丈夫在她眼前以三种方式各死一次——先是名字死，然后是他在这座房子里的存在死，最后是死讯随 Macbeth 的军队一起进门。全章随后立刻处理的正是这一件。
 
 > **原句 3:** It was a man, come to claim the house as his own. His soldiers took their positions, ordered by their rank. It was a military siege, accompanied by so much show.
 
@@ -60,7 +60,7 @@ source_text: ch06
 
 我本该怎么做？我本该暴怒。我本该用拳头捶打凶手的胸膛。我本该痛哭。我本该把自己裹进丧服里。
 
-**关键词**：What should I have done / I should have raged / I did none of these
+**关键词**：What should I have done / I should have raged / a veil of mourning
 
 **为什么这样写**：四个 `I should have` 以完全相同的句法连排，像一份清单、一个仪式，甚至像在为某套标准答案默念。四个动作（暴怒／捶打／痛哭／丧服）从激烈到哀伤，是一整套「被冒犯的妻子」的教科书反应——而 `shrouded myself in a veil of mourning` 里的 `myself` 是自闭动词，正好对应「把自己藏起来」，与她的实际选择（走出去、开口、谈条件）正好相反。整段的力量全在这份清单的整齐上。
 
@@ -82,7 +82,7 @@ source_text: ch06
 
 **关键词**：You have no knife / Here / Take mine
 
-**为什么这样写**：整句由三个短促的小节组成（`Ah` / `Here` / `Take mine`），中间的停顿比词本身更有内容。`You have no knife` 先陈述一个客观事实——桌上的男孩没有武器——`Here. Take mine` 随即把唯一的武器递过去。这与 ch04 那把刀形成严丝合缝的对照：那时是母亲把自己的刀柄塞进孩子手里，遭到失败；这一次是杀她丈夫的人主动把自己那把给了他。`mine` 而不是 `my dagger`，把物件的所有权与给予的许可合为一个词。
+**为什么这样写**：整句由三个短促的小节组成（`Ah` / `Here` / `Take mine`），中间的停顿比词本身更有内容。`You have no knife` 先陈述一个客观事实——桌上的男孩没有武器——`Here. Take mine` 随即把唯一的武器递过去。这与 ch04 那把刀形成严丝合缝的对照：那时是母亲把自己的刀柄塞进孩子手里，遭到失败；这一次是杀她丈夫的人主动把自己那把给了他。`mine` 而不是 `Take mine` 里的定冠词，把物件的所有权与给予的许可合为一个词。
 
 **读者视角提示**：她在旁边「闭了一下眼，又睁开」，并且明确算过这件事的两条路径（他可以割断孩子的喉咙，然后割她的；或者她自己动手）。这才是他这次递刀的分量。
 
