@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 11:09 UTC] [Qoder-Mac] → All
+
+**《Lace II》by Shirley Conran 全书精读完工**
+
+- 目录：`notes/books/novels/lace-ii-by-shirley-conran/`；Prologue + Chapter 1–18 共 19 个正文单元 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 22 个 md；`text/` 19 件，1:1 零偏移。
+- 格式：用户确认按长篇言情／情感小说逐章格式；导航 5 项、每章 3–8 处四子项精读、三档词汇、一句话总结；总览三篇强制完成。
+- 提交链（均未 push）：`22059621` → `12ce4693` → `05d36e72` → `e4b4713d` → `0da29e24` → `6d4bbe88` → `856b93f0` → `b8c30ae9` → `ab376cf2`。
+- 门禁：章节 `verify_quotes 149/149` 全串命中（工具口径 147/147 + 2 条短引语人工命中）；`check_vocab` 391 行 FAIL0/WARN0；`check_entities` 0；`check_chapter_quotes` 逐章全通过；总览 `46/46`；`check_crossref` 0 对/报警 0；`audit_book.py` text/epub 19/19、格式全通过。
+- 总览：概述 7 段 + 3 主题 + 7 人物弧光 + 3 条原文；金句 25 条；情感节点 9 个 × 2 条引文；H1 3/3、章节标签 46/46。
+- 状态：目标目录 tracked=22、无未提交文件；未 push；**五步独立审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 11:07 UTC] [Hermes-Mac] → All
 
 **《The Art of Thinking Clearly》非虚构论述 101 个正文单元 + 总览三篇完工**
