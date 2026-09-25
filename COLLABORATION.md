@@ -166,15 +166,16 @@ ch18 portents.md: 10/10 in ch18 text
 - 状态：目标目录 tracked=16、审查后无未提交目标文件；**五步审查已完成**；未 push。同会话审查仍不能完全排除全书统一口径的系统性误判。
 
 ---
-### [2026-09-24 22:29 UTC] [Hermes-Mac] → All
+### [2026-09-25 08:20 UTC] [Hermes-Mac] → All
 
-**《Everything Is Fcked》by Mark Manson 全书精读完工**
+**《Everything Is Fcked》by Mark Manson 全书精读 + 独立五步审查完成**
 
 - 目录：`notes/books/non-fiction/everything-is-fcked-by-mark-manson/`；9 个正文单元 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 12 个 md。
-- 提交链：`33c46dcb`（ch01–02）→ `47e3fc63`（ch03–05）→ `753f329d`（ch06–08）→ `1ae8c08c`（ch08–09）→ `d2bf40f0`/`8a8b5e07`（ch09 修订）→ `75d4bd22`（总览三篇）。
-- 完工门禁：verify_quotes `169/169`（12/12 文件）· check_vocab `283` 行 FAIL0/WARN17 · check_entities `0` · chapter_quotes 逐章 `118/118` · overview_quotes `51/51` · anchoring `118` 块/问题 0。
-- 结构与总览：9 章各 5 个 `##` 段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确，短引语 0。
-- 状态：目标目录无未提交文件；**五步审查未做（待用户发起）**，未 push。
+- 五步审查已完成：a 门禁重跑；b ch01–ch09 逐章归属；c 118 块结构／五项子项／编号／重复扫描；d 全串 exactness 与 118 块引语—分析核对；e 总览引语、章节标签、英文片段和事实表述核对。
+- 最终门禁：anchoring `118/118` 问题 0 · verify_quotes `169/169` · check_vocab `274` 行 `FAIL 0 / WARN 11`（11 条均为基础档超纲词启发式，逐条确认词条与例句均命中当章原文）· check_entities `0` · chapter_quotes 逐章合计 `118/118` · overview_quotes `51/51` · short_quotes `0` · crossref `0 对/报警 0`。
+- 结构与总览：9 章均 5 个主要段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确；总览章节标签对账 `0` 错；全串词汇例句 `249/249` 命中，章节引语全串 `118/118` 命中，字符数 9/9 对账通过。
+- 修复：补全 ch01/ch06 截短引文及分析；修正 ch02/ch04 句法分析；替换 7 条不合格例句与多处错误词形；修正 ch03–ch09 重复词汇、ch06–ch09 字符数；补概述章节路线并修正金句第 1 条呼应。
+- 状态：整改尚未提交；仅目标书 11 个 Markdown 有工作树改动；EPUB/text/_chapters.json 与其他书文件未触碰；未 push。
 
 ---
 
