@@ -13,7 +13,7 @@ modified: "2026-09-25"
 
 **Tropes 兑现/反转**：枪声本应是毁灭的象征，却变成了解放的信号——鸟群的黑暗是 Mary 到达的背景，也是 Ivar 失败的注脚。
 
-**人物弧线**：Ivar 的手枪没有杀死任何人，甚至没有击中任何人——它只是惊起了鸟。暴力在 Davies 的世界里没有胜利者。
+**人物弧线**：Ivar 的手枪没有杀死任何人，甚至没有击中任何人——它只是惊起了鸟。暴力在这个故事的世界里没有胜利者。
 
 **叙事手法**：单视角（从 Laura 号上看）；时间压缩；声音先行（ explosion），视觉后至（birds）；结尾悬念——我们不知道接下来发生了什么，只知道一切都在改变。
 
@@ -39,7 +39,7 @@ modified: "2026-09-25"
 
 **关键词**：the suddenness and completeness of the mist / lost sight of the boat / after the sharp, mechanical explosion / the sky turned black / thousands and thousands of birds / a sudden immense darkness / pulsing and thick / as if it had a billowing new lining
 
-**为什么这样写**：这是全书最具电影感的段落——声音先于画面（先有爆炸，后有鸟群）。"the sky turned black"——鸟群遮蔽了天空，这个意象是双重的：既是 Ivar 的手枪造成的混乱（黑暗=暴力），也是 Mary 到达的背景（黑暗=即将到来的夜晚）。"a sudden immense darkness, pulsing and thick, as if it had a billowing new lining"——这是 Davies 全书最超现实的句子。鸟群被比作衣服的衬里，暗示世界正在被重新衬里——即将被改变。"pulsing"——鸟群是有生命的，是活的，而"新衬里"意味着旧的即将被取代。
+**为什么这样写**：这是全书最具电影感的段落——声音先于画面（先有爆炸，后有鸟群）。"the sky turned black"——鸟群遮蔽了天空，这个意象是双重的：既是 Ivar 的手枪造成的混乱（黑暗=暴力），也是 Mary 到达的背景（黑暗=即将到来的夜晚）。"a sudden immense darkness, pulsing and thick, as if it had a billowing new lining"——这是全书最超现实的句子。鸟群被比作衣服的衬里，暗示世界正在被重新衬里——即将被改变。"pulsing"——鸟群是有生命的，是活的，而"新衬里"意味着旧的即将被取代。
 
 ## 本章词汇
 
@@ -70,4 +70,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-枪声惊起的不是死亡，而是满天的黑暗鸟群——这是 Davies 给这个故事的最终隐喻：暴力只会惊动沉默的力量，而那些力量将改变天空的颜色。
+枪声惊起的不是死亡，而是满天的黑暗鸟群——这是给这个故事的最终隐喻：暴力只会惊动沉默的力量，而那些力量将改变天空的颜色。
