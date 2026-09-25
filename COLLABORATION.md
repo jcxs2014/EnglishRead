@@ -41,18 +41,24 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-25 12:53 UTC] [Qoder-Mac] → All
+### [2026-09-25 13:48 UTC] [Qoder-Mac] → All
 
-**《Lace》by Shirley Conran 全书精读完工**
+**《Lace》by Shirley Conran 全书精读完工 + 独立五步审查通过**
 
 - 目录：`notes/books/novels/lace-by-shirley-conran/`；Prelude + Chapter 1–63 + Epilogue + Lace: The True Story，共 66 个阅读单元 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 69 个 md；`text/` 66 件，1:1 零偏移（`audit_book` 抽检 66/66）。
 - 接手时状态：前实例留下 ch17–ch25 共 9 个未提交 md（漏提交），且 ch24 有 1 处跨章错植引语、ch12/ch25 各有跨章搬运的词条、ch24 导航两行写的是 ch25 事件——已在本会话一并修复。
-- 提交链（均未 push）：`a9a51bb3`（补提交 ch16–24 + 缺陷修复）→ `c93fbb4b`（ch25–27）→ `73a79325`（ch28–30）→ `4254fb6c`（ch31–33）→ `4efb2119`（ch34–36）→ `239583a5`（ch37–38）→ `a01d5108`/`af5270b0`/`ff2b01a3`/`ceb61712`/`964caabc`/`11aba7d4`/`a2580988`/`febac8ac`/`d5431e3f`（ch39–47 逐章）→ `3132d2e0`（Cap Camerat 拼写修正）→ `a98ad4ad`…`d9926920`（ch48–56 逐章）→ `34f73f85`（ch57–59）→ `e64abf48`（ch60–61）→ `605f48f2`（ch62–63）→ `c4e14ac0`（Epilogue + 真事附录）→ `47de06ac`（总览三篇）。
+- 提交链（均未 push）：`a9a51bb3`（补提交 ch16–24 + 缺陷修复）→ `c93fbb4b`…`d9926920`（ch25–56）→ `34f73f85`/`e64abf48`/`605f48f2`（ch57–63）→ `c4e14ac0`（Epilogue + 真事附录）→ `47de06ac`（总览三篇）→ `ae36d2a9`/`aa1f3b33`（五步审查两轮整改）。
 - 格式：长篇言情／女性群像逐章格式（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结）；ch65 Epilogue 为单条词典释义，按格式说明标注不适用常规配额；ch66 非虚构附录按 AGENTS.md 非虚构格式加设「论证结构」。
-- 门禁：章节 `verify_quotes 557/557`（69/69 文件干净）；`check_vocab 795 行 FAIL 0 / WARN 0`；`check_entities 0`；`check_crossref 0 对/报警 0`；`audit_book` A 66/66、C 全通过、总判定全通过。
-- 自建补充检查器（`scripts/attic/`，gitignored）：逐章词条词头核对（`check_vocab_head.py`，全书 795 行 0 跨章）、整串 flat 引语 sweep（`sweep_chapter_quotes.py`，522 引语 MISS 0）、短引语兜底（`check_short_quotes.py`，17/17 命中）、提取件差异比对（`diff_extractions.py`，确认 text/ 与新提取零词级差异）、总览引语章号对账（`check_overview_labels.py`）。
-- 总览：概述 6 段梗概 + 3 个主题 + 7 组人物弧光 + 3 条引语；金句 25 条；情感节点 9 个（每节点 2–3 条引语）；H1 语义 3/3；`verify_overview_quotes 52/52`；总览引语章号 flat 对账 49/49（首轮抓出 4 处"引语真实但章节标错"，含 1 处上下文张冠李戴，已全部改正）。
-- 状态：目标目录 tracked=69、无未提交文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+- **独立五步审查（用户 12:53 后于同会话发起，a–e 全执行）**：门禁全部重跑不采信旧数字；逐章归属、结构扫描、crossref、总览三层均改用与写作时不同的检查路径。**引语层本就干净，全部缺陷都在分析层**：
+  - 结构 3 处：ch03/ch25 各有一行重复的「中文理解」；ch04 的「关键词」行缺 `- ` 前缀与冒号。
+  - 锚定漂移 6 处：裁掉跨叙述标签拼接后，中文理解/关键词仍在描述已被裁掉的内容（ch37/ch41/ch44），另 ch48/ch53 关键词用了引语里没有的缩写形式。
+  - **计数断言 67 处**：本批次最系统的一类缺陷——"X 三个字母"这个修辞套语不管词长一律套用，产生 `available` 9 个字母、`Harrods` 7 个、`together` 8 个，以及多处 `三个 And`（实为三个但我写四个）之类的假数字。已逐条按引语重算；真数字撑不住原论点处改写为不含计数的表述。
+  - 语义与人物归属 13 处（两批子代理 + 逐条回原文复核）：ch49 的挂饰是 Lili **自己手链上的**，不是我写的 Abdullah 遗物；ch36 的麂皮靴是 **Toby 的**，不是 Kate 穿的；`confit d'oie` 是油封鹅肉不是鹅肝；ch60 的 Lili 被安上了 Pagan 的酗酒与"跟着国王跑"；ch58 的 `you are wrong for me` 被译成与前半句同向，直接抹掉该块自己声称的"对调"；ch64 的 `Sick and sin` 回指被指到第四十八章的棋牌桌（实为第三十章纽约大堂）；ch64 把 Lili 写成十九岁（实约二十八岁）。
+  - 总览层：概述开篇误把 Prelude 写成"1948 年冬逃出匈牙利"——**开篇实为 1963 年巴黎一间无麻醉的地下诊所**，逃亡在第十五章且她当时六岁；情感节点一的概述与它自己引用的 ch01 引语（堕胎场景）不符，一并改正。
+- 门禁（审查后复跑）：`verify_quotes 557/557`（69/69 干净）；`check_vocab 794 行 FAIL 0 / WARN 0`；`check_entities 0`；`check_chapter_quotes 514/514`；`check_crossref 0 对/报警 0`；`verify_overview_quotes 52/52`；总览引语章号对账 49/49；`audit_book` 总判定全通过。
+- 自建检查器（`scripts/attic/`，gitignored）：`structure_scan`（522 块，编号/四子项顺序/孤儿/重复/H1）· `keyword_anchor`（522 块，0）· `count_claims`（计数断言）· `semantic_crosscheck`（数字断言+说话人，522 块 0 报警）· `check_vocab_head`（794 行 0 跨章）· `sweep_chapter_quotes`（522 引语 MISS 0）· `check_short_quotes`（17/17）· `check_overview_labels`（49/49）· `gloss_lang`（中文行内英文词，报告用）· `diff_extractions`（语料可信度）。
+- 状态：目标目录 tracked=69、无未提交文件；未 push。**同会话审查的已知局限**：审查方即写作方，全书统一的系统性误判（如那个"三个字母"套语、跨章回指习惯性偏一章）无法靠"换一条检查路径"排除；若要进一步确认，可由另一实例对 ch57–ch64 的语义层抽样复核。
+
 
 ---
 
