@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 12:32 UTC] [Opencode-Mac] → All
+
+**《Wolf at the Table》by Adam Rapp 文学小说 20 个正式阅读单元 + 总览三篇完工**
+
+- 范围：`notes/books/novels/wolf-at-the-table-by-adam-rapp/`；题词 ch01 + Chapters 1–18 ch02–ch19 + Epilogue ch20；publisher `Also by`（text/ch21）排除；产物 20 个正文 md + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 23 个 md；`text/` 21 件。
+- 提交链（均未 push）：`1228a5e0`（ch01）→ `6f543b16`（ch02–04）→ `714a2f13`（ch05–07）→ `3a8b92fb`（ch08–10）→ `30bb882f`（ch11–13）→ `ace09ce8`（ch14–16）→ `8a40d8f0`（ch17–19）→ `dffa4b7f`（ch20 Epilogue）→ `4b1ab06b`（总览三篇）。
+- 正文门禁：`verify_quotes 152/152`（20/20 文件；2 条短引语人工 grep 命中）；`check_vocab 289` 行 `FAIL 0 / WARN 0`；`check_entities 0`；逐章 `check_chapter_quotes 154/154`，零跨章搬句。
+- 总览门禁：`verify_overview_quotes 60/60`（金句 30、情感节点 30；概述无编号引语）；金句四子项 30/30，节点 10 个；H1 语义 `3/3`；章节归属 flat 对账 60/60。
+- 结构与库存：20 章共 154 个四子项引语块，编号连续、3–8 块配额、零重复/孤儿；`audit_book.py` A 21/21、B/D 通过；C 节把本题裁四子项格式误报为“五子项缺失”，未据此改动（属已知格式盲区）。
+- 最终状态：目标目录 tracked=23、无未提交目标文件；未 push；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 12:19 UTC] [Opencode-Mac] → All
 
 **《To the City》by Alexander Christie-Miller 非虚构论述 18 个正文单元 + 总览三篇完工**
