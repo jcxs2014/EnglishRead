@@ -40,7 +40,7 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 ## 选择性精读
 
-> **原句 1:** “Conversations between women have massive benefits for the individual and the organization.”
+> **原句 1:** As my experience of advancing from rookie accountant to managing director at an investment bank taught me, conversations between women have massive benefits for the individual and the organization.
 
 **中文理解**：女性之间的对话对个人和组织都有巨大的益处。
 
@@ -64,7 +64,7 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 **为什么这样写**：这句话把 queen bee 现象从抽象标签变成女性在稀缺晋升系统中保护自己资源的关系选择。
 
-> **原句 3:** “The ‘queen bee’ phenomenon”
+> **原句 3:** My brusque colleague’s behavior has a (misogynistic) academic name: the “queen bee” phenomenon.
 
 **中文理解**：“queen bee”（女王蜂）现象。
 
@@ -76,7 +76,7 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 **为什么这样写**：作者随后指出这更多是对顶层 inequality 的 response，而不是造成 inequality 的原因，避免把女性互相隔离当作个人性格。
 
-> **原句 4:** “Men are 46% more likely to have a higher-ranking advocate in the office.”
+> **原句 4:** By contrast, men are 46% more likely to have a higher-ranking advocate in the office, according to economist Sylvia Ann Hewlett.
 
 **中文理解**：男性在办公室更可能拥有一位更高层级的倡导者，比例为高出 46%。
 
@@ -100,7 +100,7 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 **为什么这样写**：McNulty 说明孤立不是因为问题不可共享，而是因为横向信息没有流动，女性各自把 challenge 当成个人 failure。
 
-> **原句 6:** “I resolved not to let either of those scenarios happen again.”
+> **原句 6:** I resolved not to let either of those scenarios happen again; I wanted to be aware of what was going on with the women I worked with.
 
 **中文理解**：我决定不让上述两种情况再次发生。
 
@@ -136,11 +136,11 @@ source_text: ch140_19_the_power_of_women_supporting_women.txt
 
 **为什么这样写**：作者承认女性支持他人有现实代价，同时拒绝以竞争心理作为默认策略，要求她们持续发声并改变文化。
 
-> **原句 9:** “The antidote to being penalized for sponsoring women may just be to do it more—and to do it vocally, loudly, and proudly.”
+> **原句 9:** “The antidote to being penalized for sponsoring women may just be to do it more—and to do it vocally, loudly, and proudly—until we’re able to change perceptions.”
 
 **中文理解**：对因赞助女性而受惩罚的解法，可能就是更多去做——而且要公开、响亮、自豪地去做。
 
-**句子结构**：`The antidote...` 主语，`may be` 情态系表，`to do it more` 和 `to do it...` 并列不定式。
+**句子结构**：`The antidote...` 主语，`may be` 情态系表，`to do it more` 和 `to do it...` 并列不定式，`until we’re able to change perceptions` 补充持续目标。
 
 **关键词**：antidote / penalized / sponsoring women / vocally / loudly / proudly
 

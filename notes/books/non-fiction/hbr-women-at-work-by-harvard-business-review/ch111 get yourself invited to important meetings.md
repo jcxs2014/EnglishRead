@@ -148,7 +148,7 @@ source_text: ch132_11_get_yourself_invited_to_important_mee.txt
 
 **为什么这样写**：面对 peer exclusion，作者建议谈 pattern 和 business reasons，并邀请受邀且 trusted 的同事发 email／cc organizer，避免让排除者单独掌握决定权。
 
-> **原句 10:** “You just aren’t on the organizer’s radar screen.”
+> **原句 10:** You just aren’t on the organizer’s radar screen
 
 **中文理解**：你只是还没有出现在 organizer 的雷达屏幕上。
 

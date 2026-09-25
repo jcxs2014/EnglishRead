@@ -112,7 +112,7 @@ source_text: ch112_16_your_boss_made_a_biased_remark_now_wh.txt
 
 **为什么这样写**：作者反对一套适用于所有上级的脚本。权力关系、组织气候和偏见严重程度决定回应时机。
 
-> **原句 7:** “What specifically did you mean by that, because I’m not sure I got it?”
+> **原句 7:** “What specifically did you mean by that, because I’m not sure I got it.”
 
 **中文理解**：你具体那样说是什么意思，因为我不确定自己是否理解错了？
 

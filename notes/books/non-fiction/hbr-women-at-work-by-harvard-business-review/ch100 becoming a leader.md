@@ -99,11 +99,11 @@ source_text: ch121_introduction_becoming_a_leader.txt
 
 **为什么这样写**：导言拒绝把领导力等同于白人男性模板。authentic leadership 由此成为选择价值与行为的长期工作。
 
-> **原句 6:** “The double bind—the contradiction between what society expects of us as women on the one hand and leaders on the other.”
+> **原句 6:** “Consider the double bind—the contradiction between what society expects of us as women on the one hand and leaders on the other.”
 
 **中文理解**：Double bind 是一个矛盾：一方面社会期待我们作为女性的行为，另一方面又期待我们作为领导者的行为。
 
-**句子结构**：主句 The double bind，破号后同位解释；what... and leaders... 是两个 of 结构的对照。
+**句子结构**：Consider 引出 double bind，破号后同位解释；what... and leaders... 是两个 of 结构的对照。
 
 **关键词**：double bind / contradiction / society expects / women / leaders
 

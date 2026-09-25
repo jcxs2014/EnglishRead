@@ -52,7 +52,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：文章把 influence 定义为现代组织的基础能力，而非可选的 soft skill，为后续关系和策略工具建立正当性。
 
-> **原句 2:** “You get more done and you advance the projects you care about and are responsible for.”
+> **原句 2:** “You get more done and you advance the projects you care about and are responsible for,” which means “you’re more likely to be noticed, get promoted, and receive raises.”
 
 **中文理解**：你能完成更多工作，也能推进自己关心并负责的项目。
 
@@ -64,7 +64,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：Clark 将 influence 与个人项目结果连接。它反驳 influence 只是“让人喜欢”的印象。
 
-> **原句 3:** “It’s never been harder to influence others, because they’ve never been more distracted.”
+> **原句 3:** “It’s never been harder to influence others, because they’ve never been more distracted,” he says.
 
 **中文理解**：影响他人从未如此困难，因为他们从未如此分心。
 
@@ -76,7 +76,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：Morgan 说明现代职场的 attention economy 使影响需要更精准的 timing、context 和 audience，而非只靠职位。
 
-> **原句 4:** “You don’t have to be ‘the awesome-est person in the room’ or make sure ‘everyone is blown away by your charisma.’”
+> **原句 4:** You don’t have to be “the awesome-est person in the room” or make sure “everyone is blown away by your charisma.”
 
 **中文理解**：你不必成为房间里“最厉害的人”，也不必确保每个人都被你的魅力震撼。
 
@@ -88,7 +88,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：文章将影响从 personality mythology 拉回 rapport 和 listening。女性不需要先变成最外向、最自信的人。
 
-> **原句 5:** “Most of us walk around with a running to-do list in our heads.”
+> **原句 5:** “Most of us walk around with a running to-do list in our heads,” Morgan says, and it shows.
 
 **中文理解**：我们大多数人都带着脑中持续运转的待办清单走来走去。
 
@@ -112,7 +112,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：Clark 将倾听从礼貌升级为 influence prerequisite。真正听到同事的观点，才能让 idea 有支持基础。
 
-> **原句 7:** “We’re hardwired to be asking the question, ‘Is this person a friend or foe?’”
+> **原句 7:** “[We’re] hardwired to be asking the question, ‘Is this person a friend or foe? Is this person trying to undercut me, or are we on the same side?’”
 
 **中文理解**：我们天生会问：这个人是朋友还是敌人？
 
@@ -124,7 +124,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：Morgan 说明 body language 影响 influence，因为同事会快速判断你是盟友还是威胁。开放身体姿态因此是 signal。
 
-> **原句 8:** “Be seen as a recognized expert within your industry or organization.”
+> **原句 8:** Another way to increase your influence at work is to “be seen as a recognized expert” within your industry or organization, Clark says.
 
 **中文理解**：在所在行业或组织中被视为公认专家。
 
@@ -136,7 +136,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：Clark 建议通过会议、课程、certification、blogging 和 newsletter 让 knowledge 不被隐藏。影响力需要可验证 expertise。
 
-> **原句 9:** “Create an org chart of decision makers related to your issue.”
+> **原句 9:** “Create an org chart of decision makers related to your issue,” she says.
 
 **中文理解**：为与你的议题相关的决策者制作一张组织结构图。
 
@@ -148,7 +148,7 @@ source_text: ch128_7_how_to_increase_your_influence_at_work.txt
 
 **为什么这样写**：power map 不是操控清单，而是帮助你问“直接影响谁、间接影响谁、何时接近”的战略工具。
 
-> **原句 10:** “Do your homework to find out what they need to hear and what will capture their attention.”
+> **原句 10:** “Do your homework to find out what they need to hear and what will capture their attention,” Morgan says.
 
 **中文理解**：做好功课，找出他们需要听到什么，以及什么能吸引他们的注意。
 

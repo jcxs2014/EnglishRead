@@ -123,7 +123,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 
 **为什么这样写**：作者承认有意识的 communication adjustment 可以是普遍职业学习，而不是女性为了适应偏见而被迫改变。
 
-> **原句 8:** “But some of it is subtle cues to conform: to speak louder; to use more declarative statements; to be more emphatic; to stand up, spread yourself out, and possess the room.”
+> **原句 8:** But some of it is subtle cues to conform; to speak louder; to use more declarative statements; to be more emphatic; to stand up, spread yourself out, and possess the room; to get in there and command the space.
 
 **中文理解**：但其中一些是要求服从的微妙线索：说得更大声、使用更明确的陈述、更强调、站起来、占据空间。
 
@@ -135,7 +135,7 @@ source_text: ch122_1_lead_with_authenticity.txt
 
 **为什么这样写**：作者区分帮助表达和隐性同化。建议女性更直接并不必然失真，但所有姿势、声音和空间都变成规范时就要警惕。
 
-> **原句 9:** “I do think it’s possible for a woman to be an authentic leader.”
+> **原句 9:** TINA: I do think it’s possible for a woman to be an authentic leader—a person who is expressing themselves, who is reflected in the values that they want to bring to the workplace, who is willing to share the pros and cons with the people who are following them.
 
 **中文理解**：我确实认为女性有可能成为真实的领导者。
 

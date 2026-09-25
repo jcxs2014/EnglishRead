@@ -136,7 +136,7 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 
 **为什么这样写**：如果 diversity 只停留在项目口号，leader 没有动力改变 succession 行为。问责把公平与绩效管理连接。
 
-> **原句 9:** “If there are no women on a leader’s list, the leader is expected to explain why.”
+> **原句 9:** If there are no women on a leader’s list, the leader is expected to explain why—to managers, HR business partners, executive coaches, and our organizational development team.
 
 **中文理解**：如果一个领导者的名单上没有女性，他需要解释原因。
 
@@ -148,7 +148,7 @@ source_text: ch116_20_how_one_biotech_company_narrowed_the_.txt
 
 **为什么这样写**：这使 succession planning 变成可被追问的决策。没有女性名单不自动等于错误，但沉默不再是默认答案。
 
-> **原句 10:** “A broad variety of perspectives and skill sets enhances our ability to discover and develop medicines that treat patients with some of the world’s most serious diseases.”
+> **原句 10:** A broad variety of perspectives and skill sets enhances our ability to discover and develop medicines that treat patients with some of the world’s most serious diseases.
 
 **中文理解**：广泛而多样的观点和技能组合增强了我们发现和开发治疗严重疾病药物的能力。
 

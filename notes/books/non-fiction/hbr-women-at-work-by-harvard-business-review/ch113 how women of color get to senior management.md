@@ -76,7 +76,7 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 
 **为什么这样写**：研究先承认 structural failure，再研究个人如何应对。个人策略不能替代公司改变 promotion system。
 
-> **原句 4:** “To increase diversity at senior executive levels, more must be known about one group in particular: women of color in midlevel leadership...”
+> **原句 4:** To increase diversity at senior executive levels, more must be known about one group in particular: women of color in midlevel leadership, who successfully developed and progressed beyond individual contributor and first-line management.
 
 **中文理解**：要增加高级管理层的多样性，尤其需要更多了解一个群体：处于中层领导岗位的有色人种女性。
 
@@ -148,7 +148,7 @@ source_text: ch134_13_how_women_of_color_get_to_senior_mana.txt
 
 **为什么这样写**：mentor 关系提供 tacit knowledge、resilience 和 hypervisibility management；它超越只给 advice 的表面支持。
 
-> **原句 10:** “Elevating women of color isn’t just the job of the women themselves...”
+> **原句 10:** Elevating women of color isn’t just the job of the women themselves, as these experiences highlight.
 
 **中文理解**：提升有色人种女性的地位不只是女性自己的责任。
 

@@ -52,7 +52,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **为什么这样写**：文章先拆除“领导身份由 title 授予”的幻觉。行动、影响和证据可以在职级之前开始积累。
 
-> **原句 2:** “It’s never foolish to begin preparing for a transition, no matter how many years away it is or where you are in your career.”
+> **原句 2:** “It’s never foolish to begin preparing for a transition, no matter how many years away it is or where you are in your career,” says Muriel Maignan Wilkins, coauthor of Own the Room.
 
 **中文理解**：无论过渡还要多久、你在职业生涯哪个位置，开始为转变做准备都不愚蠢。
 
@@ -64,7 +64,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **为什么这样写**：Gallo 把长期领导发展从不确定的 future event 变成现在开始的可控过程。
 
-> **原句 3:** “You still have to deliver results in your day job.”
+> **原句 3:** “You still have to deliver results in your day job,” says Su.
 
 **中文理解**：你仍然必须在日常工作中交付结果。
 
@@ -76,7 +76,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **为什么这样写**：作者避免把 ambition 当成逃避 current responsibilities 的借口。结果是后续领导可见性的基础。
 
-> **原句 4:** “You have to execute on your boss’s priorities too.”
+> **原句 4:** “You have to execute on your boss’s priorities too,” says Watkins.
 
 **中文理解**：你也必须执行老板的优先事项。
 
@@ -88,7 +88,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **为什么这样写**：领导潜力在组织中通过支持上级决策被观察。主动接棒重要项目比只谈个人晋升更可信。
 
-> **原句 5:** “Every organization has needs that nobody is paying attention to, or that people are actively ignoring.”
+> **原句 5:** “Every organization has needs that nobody is paying attention to, or that people are actively ignoring,” Wilkins says.
 
 **中文理解**：每个组织都有没人关注或正在被主动忽略的需求。
 
@@ -136,7 +136,7 @@ source_text: ch127_6_act_like_a_leader_before_you_are_one.txt
 
 **为什么这样写**：能量无法靠抽象自信获得，需要通过 film presentation、feedback 和 situational match 观察。它把 presence 拉回行为反馈。
 
-> **原句 9:** “Don’t try to exert authority when you don’t have it.”
+> **原句 9:** “Don’t try to exert authority when you don’t have it,” says Watkins.
 
 **中文理解**：不要在你没有 authority 时强行施加权威。
 

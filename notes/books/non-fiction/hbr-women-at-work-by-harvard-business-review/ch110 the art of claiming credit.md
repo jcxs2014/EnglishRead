@@ -76,7 +76,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **为什么这样写**：Su 认为 effective claim credit 不是临场抢话，而是提前准备 three to five nuggets，让现场发言看起来自然却有结构。
 
-> **原句 4:** “Make sure that you’re artful in considering your audience.”
+> **原句 4:** Part two of that preparation is to make sure that you’re artful in considering your audience.
 
 **中文理解**：确保你有技巧地考虑你的受众。
 
@@ -88,7 +88,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **为什么这样写**：同样一句 customer insight，在不同 room 需要不同 context。准备不只是内容准备，也是关系和 timing 准备。
 
-> **原句 5:** “So when we say ‘claim credit,’ it’s not out of the blue, with no context.”
+> **原句 5:** So when we say “claim credit,” it’s not out of the blue, with no context.
 
 **中文理解**：所以，当我们说“主张功劳”时，它不是毫无缘由地突然出现。
 
@@ -136,7 +136,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **为什么这样写**：在 male-dominated collaboration 中，女性常默认自己会被纳入。清楚请求 inclusion、agenda 和 lead part 是改变默认分工的具体动作。
 
-> **原句 9:** “Maybe it’s when you walk into a conference room, not being shy about picking a chair that’s in the flow of the conversation.”
+> **原句 9:** And that comes in many forms: Maybe it’s when you walk into a conference room, not being shy about picking a chair that’s in the flow of the conversation, or even at the head of the table if you’re one of the co-leads.
 
 **中文理解**：也许是在走进会议室时，不要因为害羞而不选择处于对话流动中的椅子。
 
@@ -148,7 +148,7 @@ source_text: ch131_10_the_art_of_claiming_credit.txt
 
 **为什么这样写**：Su 将“占据空间”拆成可观察的 micro-behaviors。女性不一定要 aggressive，但要让自己的 presence 进入 room 的物理和交流结构。
 
-> **原句 10:** “We all need to stop beating ourselves up.”
+> **原句 10:** AMY S.: I hope one of the takeaways on this topic is, we all need to stop beating ourselves up.
 
 **中文理解**：我们都需要停止责打自己。
 

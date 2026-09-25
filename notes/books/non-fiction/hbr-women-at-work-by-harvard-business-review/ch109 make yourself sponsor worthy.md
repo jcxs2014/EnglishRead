@@ -51,7 +51,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **为什么这样写**：Maggie 的故事先让读者看到“足够努力”的自我叙事，再揭示没有 strategic recipient 的风险。
 
-> **原句 2:** “Permanent lieutenant syndrome”
+> **原句 2:** Without a sponsor to spotlight her attributes, offer her opportunities, and kick her career into high gear, she found herself stuck in what she calls “permanent lieutenant syndrome.”
 
 **中文理解**：永久中尉综合征。
 
@@ -75,7 +75,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **为什么这样写**：Sian 的回答把 sponsor-worthy 缩成可验证的结果。突出 performance 是最基础但不可跳过的条件。
 
-> **原句 4:** “They all felt the benefit of that.”
+> **原句 4:** “They all felt the benefit of that,” McIntyre notes, “and wanted me on board for subsequent projects.”
 
 **中文理解**：他们所有人都从中受益。
 
@@ -99,7 +99,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **为什么这样写**：Tyagarajan 证明 loyalty 不是复制 sponsor，而是能在共同价值下 push back 并保持互补。
 
-> **原句 6:** “Yet performance and loyalty are not enough to get a sponsor’s notice.”
+> **原句 6:** “Yet performance and loyalty are not enough to get a sponsor’s notice, let alone convince them to invest in you.”
 
 **中文理解**：然而，绩效和忠诚还不足以让赞助者注意到你。
 
@@ -107,7 +107,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **关键词**：performance / loyalty / not enough / sponsor’s notice
 
-**表达方式**：not enough 否定基础条件，Yet 承接转折，notice 将 visibility 具体化。
+**表达方式**：not enough 否定基础条件，let alone... 将“被注意”进一步推进到“被 sponsor 投资”，Yet 承接转折，notice 将 visibility 具体化。
 
 **为什么这样写**：文章把 sponsor-worthiness 从基础信誉推进到 differentiation。做到基本要求只是入场券。
 
@@ -123,7 +123,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **为什么这样写**：Sponsorship 是 resource exchange。问题从“我需要什么”转为“我能为 sponsor 扩展什么 reach”。
 
-> **原句 8:** “So if my boss were to complain about some problem he’s struggling to solve, I could say, ‘You know, you should talk to Lisa in global equities, because she’s had a lot of experience with that.’”
+> **原句 8:** “So if my boss were to complain about some problem he’s struggling to solve, I could say, ‘You know, you should talk to Lisa in global equities, because she’s had a lot of experience with that,’” this vice president explained.
 
 **中文理解**：所以，如果老板抱怨某个他正努力解决的问题，我可以说：“你知道，你应该和全球 equities 的 Lisa 谈谈，因为她在那方面有很多经验。”
 
@@ -135,7 +135,7 @@ source_text: ch130_9_make_yourself_sponsor_worthy.txt
 
 **为什么这样写**：四位女性通过 monthly lunch 互相准备 recommendations。visibility 不只靠自己 toot horn，也可以靠可信 peers 放大。
 
-> **原句 9:** “Efficacy trumps affinity.”
+> **原句 9:** Efficacy trumps affinity; you’re looking for an ally, not a friend.
 
 **中文理解**：效能比亲近关系更重要。
 

@@ -40,7 +40,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 ## 选择性精读
 
-> **原句 1:** “A dogged determination in the face of difficult circumstances.”
+> **原句 1:** The way that I have defined it over the years is “a dogged determination in the face of difficult circumstances.”
 
 **中文理解**：在困难处境面前保持顽强的决心。
 
@@ -88,7 +88,7 @@ source_text: ch136_15_to_build_grit_go_back_to_basics.txt
 
 **为什么这样写**：Polson 认为 purpose 能让注意力不被 obstacles 完全占据，但这不意味着障碍不存在。
 
-> **原句 5:** “You get to say either, ‘I was a victim of this circumstance’ or ‘I was able to overcome this.’”
+> **原句 5:** You get to say either, “I was a victim of this circumstance” or “I was able to overcome this. I was able to push through.”
 
 **中文理解**：你可以选择说：“我是这个处境的受害者”，或者“我能够克服它”。
 

@@ -123,7 +123,7 @@ source_text: ch113_17_leaders_stop_denying_the_gender_inequ.txt
 
 **为什么这样写**：作者将“领导风格”具体化为资源分配。偏见往往不是明确政策，而是某个 joke、comment 或 decision 被默许。
 
-> **原句 8:** “The first step is for leaders to get out of denial and become aware of how inequality shows up in your team, department, and organization.”
+> **原句 8:** The first step is for leaders to get out of denial and become aware of how inequality shows up in their team, department, and organization.
 
 **中文理解**：第一步是让领导者走出否认，意识到不平等如何出现在团队、部门和组织中。
 

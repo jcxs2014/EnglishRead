@@ -75,7 +75,7 @@ source_text: ch129_8_why_you_need_an_executive_voice.txt
 
 **为什么这样写**：文章先呈现领导者的常见判断，再挑战它可能只是没有识别出 candidate 已有的 strategic capacity。
 
-> **原句 4:** “If you are the primary authority on a topic, then it’s likely that the context would require you to lead the meeting and make any final decisions.”
+> **原句 4:** For example, if you are the primary authority on a topic, then it’s likely that the context would require you to lead the meeting and make any final decisions.
 
 **中文理解**：如果你是某主题的主要权威，情境很可能要求你主持会议并作出最终决定。
 

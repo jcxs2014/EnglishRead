@@ -148,7 +148,7 @@ source_text: ch137_16_stop_telling_women_they_have_impostor.txt
 
 **为什么这样写**：文章拆开 confidence 和 competence：男性过度自信可能被奖励，女性缺乏自信或表达方式不符标准则可能被惩罚。
 
-> **原句 10:** “Perhaps then we can stop misdiagnosing women with ‘impostor syndrome’ once and for all.”
+> **原句 10:** Perhaps then we can stop misdiagnosing women with “impostor syndrome” once and for all.
 
 **中文理解**：也许这样我们就能彻底停止用“impostor syndrome”误诊女性了。
 

@@ -124,7 +124,7 @@ source_text: ch135_14_advance_in_your_career_even_when_your.txt
 
 **为什么这样写**：影响力中心不一定是 positional power。retired executive、CEO assistant 和 key opinion leaders 都可能影响资源和机会。
 
-> **原句 8:** “Being a giver, as he calls it, is often far more beneficial and effective than being just a taker.”
+> **原句 8:** As Wharton professor Adam Grant notes in his book Give and Take, being a giver, as he calls it, is often far more beneficial and effective than being just a taker.
 
 **中文理解**：正如 Adam Grant 所说，作为给予者通常比只是索取者更有益、更有效。
 

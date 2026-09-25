@@ -76,7 +76,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 **为什么这样写**：Su 的经验说明领导能力包括对自己影响的觉察。女性可能先通过影响他人的状态而看见自己的领导身份。
 
-> **原句 4:** “The internal shift often happens sooner and with a greater pronouncement than how others view you.”
+> **原句 4:** In our coaching work, we’ve seen that the internal shift often happens sooner and with a greater pronouncement than how others view you.
 
 **中文理解**：内部的转变往往比他人看待你的方式更早、也更明显地发生。
 
@@ -88,7 +88,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 **为什么这样写**：作者承认 women 可能先 internalize leadership，却还没有得到外部认可。领导成长因此不能等 promotion 后才开始。
 
-> **原句 5:** “Being a leader or acting as a leader doesn’t necessarily require the hierarchical position.”
+> **原句 5:** With clients, one of the big things they need to embrace is that being a leader or acting as a leader doesn’t necessarily require the hierarchical position.
 
 **中文理解**：成为或表现得像领导者不一定需要层级职位。
 
@@ -124,7 +124,7 @@ source_text: ch126_5_seeing_ourselves_as_leaders.txt
 
 **为什么这样写**：Wilkins 从内部开始 coaching 女性。领导不是先选一个职位，而是先明确自己要坚持的价值和行为。
 
-> **原句 8:** “The word ‘embodying’ is really important.”
+> **原句 8:** AMY S.: The word “embodying” is really important.
 
 **中文理解**：“embodying（体现）”这个词非常重要。
 

@@ -100,7 +100,7 @@ source_text: ch125_4_why_self_awareness_isn_t_doing_more_to.txt
 
 **为什么这样写**：meta-perception 让“别人是否重视我”成为可分析的 self-awareness 子技能，而不是模糊的自信问题。
 
-> **原句 6:** “The Reflected Best Self Exercise is a powerful vehicle to discover our defining strengths as others see them.”
+> **原句 6:** The Reflected Best Self Exercise is a powerful vehicle to discover our defining strengths as others see them—something vital for women leaders to understand.
 
 **中文理解**：Reflected Best Self Exercise 是一个强有力的工具，可以发现别人眼中的、定义我们的优势。
 

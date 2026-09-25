@@ -39,7 +39,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 ## 选择性精读
 
-> **原句 1:** “Our research identifies an underlying cause: what we call a ‘masculinity contest culture.’”
+> **原句 1:** Our research identifies an underlying cause: what we call a “masculinity contest culture.”
 
 **中文理解**：我们的研究指出一个深层原因：我们称之为“男性气质竞争文化”。
 
@@ -111,7 +111,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **为什么这样写**：这一标签把合作转成互相击败，也解释了 blame、cutthroat 和不信任为何在组织中扩散。
 
-> **原句 7:** “Masculinity is precarious: hard-won and easily lost.”
+> **原句 7:** What all of this means is that masculinity is precarious: hard-won and easily lost.
 
 **中文理解**：男性气质是脆弱的：得来不易，也很容易失去。
 
@@ -123,11 +123,11 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **为什么这样写**：作者解释了 masculinity 为什么需要反复证明，而不是一次获得的身份。precariousness 是 aggression 和 harassment 的心理动力。
 
-> **原句 8:** “The competition breeds unspoken anxiety (because admitting anxiety is seen as weak) and defensiveness, undermining cooperation, psychological safety, trust in coworkers, and the ability to admit uncertainty or mistakes.”
+> **原句 8:** “The competition breeds unspoken anxiety (because admitting anxiety is seen as weak) and defensiveness (e.g., blaming subordinates for any failure), undermining cooperation, psychological safety, trust in coworkers, and the ability to admit uncertainty or mistakes.”
 
 **中文理解**：竞争滋长未说出口的焦虑（因为承认焦虑会被视为软弱）和防御心理，削弱合作、心理安全、同事信任以及承认不确定或错误的能力。
 
-**句子结构**：主句 The competition breeds anxiety and defensiveness，because... 是原因状语，undermining 后接四个并列宾语。
+**句子结构**：主句 The competition breeds anxiety and defensiveness，because... 是原因状语，`(e.g., ...)` 举例说明 defensiveness，undermining 后接四个并列宾语。
 
 **关键词**：competition breeds / unspoken anxiety / seen as weak / psychological safety / admit uncertainty or mistakes
 
@@ -135,7 +135,7 @@ source_text: ch114_18_break_up_your_masculinity_contest_cul.txt
 
 **为什么这样写**：作者把问题从“坏人做了坏事”转向“正常行为如何制造沉默和防御”。这也说明心理安全是改革目标而非额外福利。
 
-> **原句 9:** “The game is rigged against women and minorities.”
+> **原句 9:** But the game is rigged against women and minorities: Suspected of not “having what it takes,” they must work harder to prove themselves while facing backlash for displaying dominant behaviors like anger and self-promotion.
 
 **中文理解**：这场游戏从一开始就对女性和少数群体不利。
 

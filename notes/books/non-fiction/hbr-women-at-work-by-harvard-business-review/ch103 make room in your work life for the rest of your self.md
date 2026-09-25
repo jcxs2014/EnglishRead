@@ -40,7 +40,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 ## 选择性精读
 
-> **原句 1:** “Work’s hum is still a piece of me, it is just no longer all of me.”
+> **原句 1:** She became more outspoken about being a woman, a mother, and an African American in the entertainment industry: “Work’s hum is still a piece of me, it is just no longer all of me,” she said.
 
 **中文理解**：工作的嗡鸣仍然是我的一部分，但不再是我的全部。
 
@@ -64,7 +64,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 **为什么这样写**：作者说明 cross-identity 不只带来资源，也带来 belonging 风险。复杂性管理必须先处理被排除的经验。
 
-> **原句 3:** “Left untackled, this fear can limit us.”
+> **原句 3:** Left untackled, this fear can limit us: It led the nurse-midwife to temper her professional actions.
 
 **中文理解**：如果不处理，这种恐惧会限制我们。
 
@@ -88,7 +88,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 **为什么这样写**：作者用简单数字回应 either/or thinking。身份不是资源抽屉，不能用一个角色的时间或社会认可抵扣另一个。
 
-> **原句 5:** “Don’t think about each of your identities as being independent pieces of who you are; think about how they’re connected.”
+> **原句 5:** Don’t think about each of your identities as being independent pieces of who you are; think about how they’re connected and how they might affect each other in positive ways.
 
 **中文理解**：不要把每个身份看成彼此独立的碎片；要思考它们如何连接。
 
@@ -124,7 +124,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 **为什么这样写**：作者把 identity leverage 变成句法练习。把一个角色学到的 skill 迁移到另一个角色，能让 multiple identities 产生实际收益。
 
-> **原句 8:** “Present yourself authentically, but thoughtfully.”
+> **原句 8:** Present yourself authentically, but thoughtfully
 
 **中文理解**：有真实性地表达自己，但也要经过思考。
 
@@ -136,7 +136,7 @@ source_text: ch124_3_make_room_in_your_work_life_for_the_re.txt
 
 **为什么这样写**：文章修正“authentic 就是全部说出来”的假设。个人可以根据 preference、circumference 和 safety 选择分享什么。
 
-> **原句 9:** “To be effective in today’s workplace, we need to shift our mindset and actions from managing oneself to managing one’s portfolio of selves.”
+> **原句 9:** To be effective in today’s workplace, we need to shift our mindset and actions from managing oneself to managing one’s portfolio of selves.
 
 **中文理解**：要在今天的职场有效，我们需要把心态和行动从管理自己转向管理自己的多个自我组合。
 

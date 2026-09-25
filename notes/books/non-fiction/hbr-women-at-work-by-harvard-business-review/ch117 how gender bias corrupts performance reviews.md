@@ -64,11 +64,11 @@ source_text: ch138_17_how_gender_bias_corrupts_performance_.txt
 
 **为什么这样写**：作者把问题从个人 receiving feedback 提升为制度 systematic shortchanging。
 
-> **原句 3:** “Women were 1.4 times more likely to receive critical subjective feedback than either positive feedback or critical objective feedback.”
+> **原句 3:** “One of my findings, using content analysis of individual annual performance reviews, shows that women were 1.4 times more likely to receive critical subjective feedback than either positive feedback or critical objective feedback.”
 
 **中文理解**：女性收到批评性主观反馈的可能性，是收到积极反馈或批评性客观反馈的 1.4 倍。
 
-**句子结构**：`Women` 主语，`were...more likely` 比较结构，`than...` 连接两个比较对象。
+**句子结构**：`One of my findings` 是主语，using... 是插入的现在分词短语，shows 是谓语；that 从句中 `women` 是比较对象，than... 连接两个反馈类型。
 
 **关键词**：1.4 times / critical subjective feedback / positive feedback / critical objective feedback
 
@@ -124,7 +124,7 @@ source_text: ch138_17_how_gender_bias_corrupts_performance_.txt
 
 **为什么这样写**：文章从问题诊断转向制度设计，避免把 bias 当成无法改变的命运。
 
-> **原句 8:** “Specifically, my field experiments at professional services firms suggest that the use of tailor-made, automated, real-time communication tools with instant feedback... can have dramatic results for women.”
+> **原句 8:** Specifically, my field experiments at professional services firms suggest that the use of tailor-made, automated, real-time communication tools with instant feedback on employees’ weekly performance from supervisors, colleagues, and clients can have dramatic results for women.
 
 **中文理解**：具体而言，我在专业服务公司的实地实验表明，使用定制的、自动化、实时的沟通工具并提供即时反馈，可能给女性带来显著结果。
 
@@ -148,7 +148,7 @@ source_text: ch138_17_how_gender_bias_corrupts_performance_.txt
 
 **为什么这样写**：作者正面回应 adoption resistance，用每名 reviewer 每周有限时间的操作细节降低改革阻力。
 
-> **原句 10:** “Companies can start leveling the playing field by redesigning their performance appraisal system with a few simple steps.”
+> **原句 10:** Companies can start leveling the playing field by redesigning their performance appraisal system with a few simple steps:
 
 **中文理解**：公司可以从几个简单步骤开始，重新设计绩效评估系统，从而创造更公平的竞争环境。
 

@@ -75,7 +75,7 @@ source_text: ch123_2_how_women_manage_the_gendered_norms_of.txt
 
 **为什么这样写**：这是 paradox 1 的概括。女性领导的责任不是单一要求结果，还要维护关系和情绪安全。
 
-> **原句 4:** “They learned to ‘toughen up,’ ‘speak louder,’ and ‘act decisively.’”
+> **原句 4:** They learned to “toughen up,” “speak louder,” and “act decisively.”
 
 **中文理解**：她们学会了“变得更强硬”“更大声说话”“更果断行动”。
 
@@ -99,7 +99,7 @@ source_text: ch123_2_how_women_manage_the_gendered_norms_of.txt
 
 **为什么这样写**：Claire 的反思说明女性领导不是一味 tough，而是在 authoritative 与 participative 之间校准自己的默认风格。
 
-> **原句 6:** “First, you build relationships, establish trust, and engage people, and then you follow up with harder behavior or language.”
+> **原句 6:** First, you build relationships, establish trust, and engage people, and then you follow up with harder behavior or language to challenge the status quo or achieve goals.
 
 **中文理解**：首先建立关系、建立信任并让人参与，然后用更 hard 的行为或语言跟进。
 
@@ -111,7 +111,7 @@ source_text: ch123_2_how_women_manage_the_gendered_norms_of.txt
 
 **为什么这样写**：“go in order”不是软弱，而是先积累 relational capital，再用 demanding 行为改变现状。
 
-> **原句 7:** “Many women we talked to focused on identifying opportunities where niceness and toughness converge—what they sometimes called a ‘win-win’ strategy.”
+> **原句 7:** “Many women we talked to focused on identifying opportunities where niceness and toughness converge—what they sometimes called a “win-win” strategy.”
 
 **中文理解**：我们交谈的许多女性专注于寻找 niceness 与 toughness 汇合的机会——她们有时称之为“win-win”策略。
 

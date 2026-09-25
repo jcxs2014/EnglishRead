@@ -75,7 +75,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 **为什么这样写**：未沟通的需求已经产生 exit plan。作者用“差点辞职”证明拖延 ask 的机会成本。
 
-> **原句 4:** “Did you consider going to your boss and directly asking for what you want...?”
+> **原句 4:** Did you consider going to your boss and directly asking for what you want—maybe some additional time off or even going part-time for a while—to facilitate your ability to accept the promotion while still making more time for family?
 
 **中文理解**：你有没有考虑过去找老板，直接说出你想要的东西？
 
@@ -147,7 +147,7 @@ source_text: ch133_12_having_the_here_s_what_i_want_convers.txt
 
 **为什么这样写**：what-if response 让 boss 从“说你还不够经验”转向“如何获得经验”，并留下可追踪的 commitment。
 
-> **原句 10:** “If your manager denies your request the first time, it doesn’t necessarily mean that ‘no’ is the final answer.”
+> **原句 10:** If your manager denies your request the first time, it doesn’t necessarily mean that “no” is the final answer.
 
 **中文理解**：如果你的经理第一次拒绝了你的请求，这不一定意味着“不”就是最终答案。
 
