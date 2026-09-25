@@ -31,6 +31,7 @@ title: 书单
 | [Black Point](books/novels/black-point-by-jacqueline-west/) | Jacqueline West |
 | [Burn for You](books/novels/burn-for-you-by-bridie-charles/) | Bridie Charles |
 | [Burnt Sugar](books/novels/burnt-sugar-by-avni-doshi/) | Avni Doshi |
+| [Clear](books/novels/clear-by-carys-davies/) | Carys Davies |
 | [The Do-Over](books/novels/the-do-over-by-suzanne-park/) | Suzanne Park |
 | [Earl Crush](books/novels/earl-crush-by-alexandra-vasi/) | Alexandra Vasti |
 | [Bury Your Dead](books/novels/bury-your-dead-by-ana-paula-maia/) | Ana Paula Maia |
@@ -53,6 +54,8 @@ title: 书单
 | [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
 | [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
 | [The Happiness Blueprint](books/novels/the-happiness-blueprint-by-ally-zetterberg/) | Ally Zetterberg |
+| [Lace](books/novels/lace-by-shirley-conran/) | Shirley Conran |
+| [Lace II](books/novels/lace-ii-by-shirley-conran/) | Shirley Conran |
 | [Lives of Girls and Women](books/novels/lives-of-girls-and-women-by-alice-munro/) | Alice Munro |
 | [The Loved One](books/novels/the-loved-one-by-evelyn-waugh/) | Evelyn Waugh |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
@@ -94,6 +97,7 @@ title: 书单
 | [Misery's Wife](books/novels/miserys-wife-by-joan-tierney/) | Joan Tierney |
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
+| [The Night Circus](books/novels/the-night-circus-by-erin-morgenstern/) | Erin Morgenstern |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [The Picture of Dorian Gray](books/novels/the-picture-of-dorian-gray-by-oscar-wilde/) | Oscar Wilde |
@@ -158,6 +162,7 @@ title: 书单
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
+| [Wolf at the Table](books/novels/wolf-at-the-table-by-adam-rapp/) | Adam Rapp |
 | [Worlds Collide](books/novels/worlds-collide-by-clint-hall/) | Clint Hall |
 | [What If It's You](books/novels/what-if-its-you-by-jilly-gagnon/) | Jilly Gagnon |
 | [Who Is the Liar](books/novels/who-is-the-liar-by-laura-lee-bahr/) | Laura Lee Bahr |
@@ -215,6 +220,7 @@ title: 书单
 | [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
 | [Down Girl](books/non-fiction/down-girl-by-kate-manne/) | Kate Manne |
 | [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
+| [Exhausted: An A–Z for the Weary](books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/) | Anna Katharina Schaffner |
 | [Extraordinary Insects](books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/) | Anne Sverdrup-Thygeson |
 | [HBR Women at Work](books/non-fiction/hbr-women-at-work-by-harvard-business-review/) | Harvard Business Review |
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
@@ -231,6 +237,7 @@ title: 书单
 | [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
 | [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
 | [The Fame Lunches](books/non-fiction/the-fame-lunches-by-daphne-merkin/) | Daphne Merkin |
+| [To the City](books/non-fiction/to-the-city-by-alexander-christie-miller/) | Alexander Christie-Miller |
 | [The Ugly History of Beautiful Things](books/non-fiction/the-ugly-history-of-beautiful-things-by-katy-kelleher/) | Katy Kelleher |
 | [What Happened to You?](books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/) | Oprah Winfrey & Bruce Perry |
 | [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |

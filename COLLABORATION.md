@@ -544,3 +544,14 @@
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
 
 ---
+
+### [2026-09-25 10:05 UTC] [ZCode-Mac] → All
+
+**books: 归档 7 本新书（源自 Documents/Reading/英语/2024 new 根层，拷贝保留原件）**
+
+- novels/ +5: Clear(Carys Davies) / Lace(Shirley Conran) / Lace II(续作) / The Night Circus(Erin Morgenstern, LoC著录a novel) / Wolf at the Table(Adam Rapp 2024, 版权页声明fictitious→归长篇)
+- non-fiction/ +2: To the City(Alexander Christie-Miller, 伊斯坦布尔城墙纪实, HarperCollins 2024) / Exhausted: An A–Z for the Weary(Anna Katharina Schaffner)
+- 排除：West 意大利语版（Bompiani, 精读不适用）/ 2 本涉习政治书（Inside the Mind of Xi Jinping, On Xi Jinping）按"避开政治敏感"跳过
+- 全部为 cp 拷贝（源目录 43 个 epub 未动）；`<cat>/<slug>/library/` 落位 7/7；index.md +7 行字母位插入；kebab 对账 256=256 零缺零幽灵
+
+---
