@@ -520,14 +520,19 @@
 
 ### [2026-09-24 17:53 UTC] [current session] → All
 
-**《Open Secrets》by Alice Munro 全书精读完工 + 五步审查通过**
+**《Open Secrets》by Alice Munro 全书精读完工（8 篇）+ 五步审查通过 + Carried Away/Vandals 缺口已补**
 
-- 目录：`notes/books/short-story-anthologies/open-secrets-by-alice-munro/`；6 篇短篇（epub 为精选本），正文 md 6 件、`text/` 提取件 6 件，短篇合集豁免总览三篇。
-- 提交链：`4636c1e2`（ch01）→ `e0782b69`（ch02–04）→ `d9cc8137`（ch05–06 完工）→ `602695b6`（五步审查修复）。
-- 五步审查 a–e：a 现场重跑三件套（verify 59/59·vocab FAIL=0·entities 0）；b 逐章归属 59/59（发现提取边界错误：ch01 仅截取86420字符，应至bullet标记140617含完整Dorrie婚礼+剑引语，已重提取 ch01 137964字符）；c 结构扫描 6 篇均 10 引语块、编号连续；d 语义二审关键词锚定无异常；e 短篇合集豁免。
-- 五步修复：ch01 整章重建（10 条引语均换为 A Real Life 真实文本，新增第10条引语+词汇表重建）· ch02 删除 suspense 虚构词条 · ch05 修复 confess/propriety/prison 例句（A 类虚构→原文例句）。
-- 最终门禁：verify_quotes **59/59**· check_vocab **FAIL=0**· check_entities **0**· check_chapter_quotes **59/59**。
-- 状态：未 push；**五步审查已在本会话完成**。
+- 目录：`notes/books/short-story-anthologies/open-secrets-by-alice-munro/`；**8 篇短篇**（epub 实收 8 篇：Carried Away / A Real Life / The Albanian Virgin / Open Secrets / The Jack Randa Hotel / A Wilderness Station / Spaceships Have Landed / Vandals），正文 md 8 件、`text/` 提取件 8 件，短篇合集豁免总览三篇。
+- 提交链：`4636c1e2` → `e0782b69` → `d9cc8137` → `602695b6`（首轮五步审查）→ `024a3654`（**8 篇真相修复：补齐 Carried Away/Vandals 缺口**）。
+- **关键事实修正（用户派单实证）**：epub 实收 8 篇；extract 边界错误把 Carried Away（Louisa/Jack Agnew/Carstairs）并入 ch01（138KB）、Vandals（Liza/Ladner/Warren）并入 ch06（123KB）。此前"6 篇完工"结论作废——旧 ch01 的 Louisa 系引语实为 Carried Away 内容，A Real Life（Dorrie/Millicent）与 Vandals 此前零精读。
+- 8 篇修复内容：①text/ 重拆为 ch01_carried_away(86404)+ch02_a_real_life(51435)+ch07_spaceships(62229)+ch08_vandals(60267)，人物锚点验收每文件仅含本篇人物；②ch01 改名 Carried Away，原句 1–9 逐字验证保留，原句 10（light gray coat 属 A Real Life）换为结尾铃声句，修正 Jim Frarey 婚姻误写（实嫁 Arthur Doud）与 Jack 死因（归国后工厂事故非战争）；③新建 ch02 A Real Life（原句 11–20，Dorrie 婚礼/核桃树），清理 text 页码 bleed；④新建 ch08 Vandals（原句 71–80，书信开场/Ladner/Liza 创伤），清理 16 处页眉 bleed + `gasping` 劈裂；⑤全书原句 1–80 连续重排（ch03–ch07 各 +10）。
+- 最终门禁（原始输出）：
+  - verify_quotes：ch01 10/10 ✅ · ch02 10/10 ✅ · ch03 10/10 ✅ · ch04 10/10 ✅ · ch05 10/10 ✅ · ch06 10/10 ✅ · ch07 9/9 ✅（1 条短引语兜底）· ch08 10/10 ✅ · **总计 79/79（100%），完全干净文件 8/8**；
+  - check_vocab：**83 词条 FAIL=0**（WARN 4 均为基础档超纲启发式：librarian/beautiful/shivering/snowmobile）；
+  - check_entities：**0 个文件存在未知实体**；
+  - check_chapter_quotes --book-dir：**79/79（100%）全部归属正确章节**；ch07 短引语 "Time marches on," he says. 人工 grep 命中本章（flat 位置 47215）；
+  - 结构扫描：8 文件 × 10 块，编号 1–80 连续、五子项齐全、零孤儿块、零重复块。
+- 状态：未 push；**五步审查已在本会话完成；Carried Away/Vandals 缺口已补，全书 8 篇完工**。
 
 ---
 
