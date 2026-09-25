@@ -7,7 +7,7 @@ modified: "2026-09-24"
 
 ## 逐句精读（10处）
 
-> **原句31:** "On the runway, in Honolulu, the plane loses speed, loses heart, falters and veers onto the grass, and bumps to a stop."
+> **原句 41:** "On the runway, in Honolulu, the plane loses speed, loses heart, falters and veers onto the grass, and bumps to a stop."
 
 **中文理解**：在火奴鲁鲁的跑道上，飞机失去速度，失去勇气，摇晃着偏离到草地上，颠簸着停了下来。
 
@@ -21,7 +21,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句32:** "After Will went away, it seemed to Gail that her shop was filling up with women."
+> **原句 42:** "After Will went away, it seemed to Gail that her shop was filling up with women."
 
 **中文理解**：Will 离开后，Gail 的店里似乎挤满了女人。
 
@@ -35,7 +35,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句33:** "What sort of woman did she think she was making herself into? The sort that a woman like Phyllis would play bridge with? If so, she has got it wrong."
+> **原句 43:** "What sort of woman did she think she was making herself into? The sort that a woman like Phyllis would play bridge with? If so, she has got it wrong."
 
 **中文理解**：她觉得自己在把自己变成什么样的女人？那种会和 Phyllis 一起打桥牌的女人？假如是这样，她就大错特错了。
 
@@ -49,7 +49,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句34:** "Gail's heart shrinks—her heart is in a cruel clutch, to see that fence, that green."
+> **原句 44:** "Gail's heart shrinks—her heart is in a cruel clutch, to see that fence, that green."
 
 **中文理解**：Gail 的心缩紧了——她的心被残酷地攥紧，看到那道栅栏，那抹绿色。
 
@@ -63,7 +63,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句35:** "And Gail does slip a hand in. She can't stop herself."
+> **原句 45:** "And Gail does slip a hand in. She can't stop herself."
 
 **中文理解**：Gail 确实把手伸了进去。她无法阻止自己。
 
@@ -77,7 +77,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句36:** "Lovers, Gail thinks. She is suddenly sure of it. She feels a shiver of sympathy, an odd gratification."
+> **原句 46:** "Lovers, Gail thinks. She is suddenly sure of it. She feels a shiver of sympathy, an odd gratification."
 
 **中文理解**：情侣，Gail 想。她突然确信这一点。她感到一阵同情的颤抖，一种奇异的满足。
 
@@ -91,7 +91,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句37:** "Only those who can trace their descent from the family in the twelfth century are the true, armigerous Thornabys."
+> **原句 47:** "Only those who can trace their descent from the family in the twelfth century are the true, armigerous Thornabys."
 
 **中文理解**：只有那些能够追溯到十二世纪家族血脉的人，才是真正的、有权佩带盾徽的 Thornaby 家族成员。
 
@@ -105,7 +105,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句38:** "Through the window in the back door then she sees Will."
+> **原句 48:** "Through the window in the back door then she sees Will."
 
 **中文理解**：透过后门的窗户，她看到了 Will。
 
@@ -119,7 +119,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句39:** "A moment ago he was holding on—with great force, it seemed, enough force to hold her back, when she would have sprung towards Will."
+> **原句 49:** "A moment ago he was holding on—with great force, it seemed, enough force to hold her back, when she would have sprung towards Will."
 
 **中文理解**：片刻之前他还紧紧握着——看起来力道很大，足够把她拉回来，当时她正想朝 Will 扑去。
 
@@ -133,7 +133,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句40:** "Words most wished for can change. Something can happen to them, while you are waiting. Love—need—forgive. Love—need—forever. The sound of such words can become a din, a battering, a sound of hammers in the street."
+> **原句 50:** "Words most wished for can change. Something can happen to them, while you are waiting. Love—need—forgive. Love—need—forever. The sound of such words can become a din, a battering, a sound of hammers in the street."
 
 **中文理解**：最期盼的话语会改变。在你等待的时候，某些事情会发生在它们身上。爱——需要——原谅。爱——需要——永远。这些词的声音可能变成喧哗、变成撞击、变成街上的锤子声。
 

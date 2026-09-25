@@ -7,7 +7,7 @@ modified: "2026-09-24"
 
 ## 逐句精读
 
-> **原句21:** "Well, I don't believe she drowned," Frances said. "That I don't believe."
+> **原句 31:** "Well, I don't believe she drowned," Frances said. "That I don't believe."
 
 **中文理解：** Frances表示她不相信Heather Bell是溺死的——她根本不信这个说法。
 
@@ -21,7 +21,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句22:** The Falls on the Peregrine River were nothing like the waterfalls you see pictures of. They were just water falling over limestone shelves, none of them more than six or seven feet high. There was a breathing spot where you could stand behind the hard-falling curtain of water, and all around in the limestone there were pools, smooth-rimmed and not much bigger than bathtubs, where the water lay trapped and warm. You would have to be very determined to drown in there.
+> **原句 32:** The Falls on the Peregrine River were nothing like the waterfalls you see pictures of. They were just water falling over limestone shelves, none of them more than six or seven feet high. There was a breathing spot where you could stand behind the hard-falling curtain of water, and all around in the limestone there were pools, smooth-rimmed and not much bigger than bathtubs, where the water lay trapped and warm. You would have to be very determined to drown in there.
 
 **中文理解：** 佩里格林河瀑布和照片里的瀑布完全不同。它们只是水流过石灰岩岩架，每级不过六七英尺高。有一个可以站立的地方，就在那哗哗流水的水帘背后，石灰岩上环绕着一些水池，边缘圆润，比浴缸大不了多少，水被困在其中，温暖宜人。要在这里溺水，你必须有很强的决心。
 
@@ -35,7 +35,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句23:** She had had polio and nearly died of it, at the age of thirteen or fourteen. She was left with short legs, a short, thick body, crooked shoulders, and a slightly twisted neck, which kept her big head a little tilted to one side.
+> **原句 33:** She had had polio and nearly died of it, at the age of thirteen or fourteen. She was left with short legs, a short, thick body, crooked shoulders, and a slightly twisted neck, which kept her big head a little tilted to one side.
 
 **中文理解：** 她小时候得过脊髓灰质炎，十三四岁时差点死掉。病后她留下了短腿、矮壮身材、歪斜的肩膀，还有一只微微歪斜的脖子，让她的一个大脑袋总是偏向一侧。
 
@@ -49,7 +49,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句24:** She remembered how noisy she had been then. A shrieker, a dare-taker. Just before she hit high school, a giddiness either genuine or faked or half-and-half became available to her. Soon it vanished, her bold body vanished inside this ample one, and she became a studious, shy girl, a blusher.
+> **原句 34:** She remembered how noisy she had been then. A shrieker, a dare-taker. Just before she hit high school, a giddiness either genuine or faked or half-and-half became available to her. Soon it vanished, her bold body vanished inside this ample one, and she became a studious, shy girl, a blusher.
 
 **中文理解：** 她记得那时候的自己多么吵闹——一个尖叫者，一个敢赌敢做的女孩。就在升入初中之前，一种真假难辨的眩晕感向她袭来，伴随某种轻浮，也许是真的，也许是装的，也许一半一半。很快这一切就消失了，她大胆的身体消失在现在这个丰满的身体里，她变成了一个用功的、害羞的女孩，一个容易脸红的人。
 
@@ -63,7 +63,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句25:** To be careless, dauntless, to create havoc—that was the lost hope of girls.
+> **原句 35:** To be careless, dauntless, to create havoc—that was the lost hope of girls.
 
 **中文理解：** 做一个无所顾忌的、无畏的女孩，去制造混乱——那是女孩们已经失去的希望。
 
@@ -77,7 +77,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句26:** He used to be a dignified, sarcastic little Englishman, with a pleasant wife.
+> **原句 36:** He used to be a dignified, sarcastic little Englishman, with a pleasant wife.
 
 **中文理解：** 他曾经是一个有尊严的、爱讽刺人的矮小的英国人，有一个愉快的妻子。
 
@@ -91,7 +91,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句27:** She had to be taken account of.
+> **原句 37:** She had to be taken account of.
 
 **中文理解：** 无论 Marian 走到哪里，她都觉得自己必须被他人认真对待。
 
@@ -105,7 +105,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句28:** She couldn't see the backyard from the kitchen—to do that, you had to go right out through what they called the back kitchen. It was just a sort of catchall room, like a shed tacked onto the house, all jumbled up with everything.
+> **原句 38:** She couldn't see the backyard from the kitchen—to do that, you had to go right out through what they called the back kitchen. It was just a sort of catchall room, like a shed tacked onto the house, all jumbled up with everything.
 
 **中文理解：** 从厨房看不到后院——要看到后院，你得穿过他们叫做"后厨房"的房间走出去。那不过是个杂物间，像是从房子上硬接出去的一个棚子，什么东西都乱糟糟地塞在一起。
 
@@ -119,7 +119,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句29:** His reproofs were extraordinarily effective.
+> **原句 39:** His reproofs were extraordinarily effective.
 
 **中文理解：** 他的训诫具有非凡的效力。
 
@@ -133,7 +133,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句30:** Lying there in the iron lung, she was sensible and stupid at once, as you are when something like that hits you.
+> **原句 40:** Lying there in the iron lung, she was sensible and stupid at once, as you are when something like that hits you.
 
 **中文理解：** 躺在铁肺里，她同时既明智又愚蠢，就像这种事突然降临到你身上时你的反应一样。
 

@@ -13,7 +13,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ## 逐句精读
 
-> **原句 41:** "On its being inquired what she did there, she said that she came to confess to a murder, and to be locked up."
+> **原句 51:** "On its being inquired what she did there, she said that she came to confess to a murder, and to be locked up."
 
 **中文理解**：当被问到她来此处做什么时，她说她是来认罪并要求被关起来的。
 
@@ -27,7 +27,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 42:** "A branch was loosed while chopping down a tree and fell upon the elder brother so as to cause instant death."
+> **原句 52:** "A branch was loosed while chopping down a tree and fell upon the elder brother so as to cause instant death."
 
 **中文理解**：在砍树的时候，一根树枝松脱了，砸在了年长的哥哥身上，导致他当场死亡。
 
@@ -41,7 +41,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 43:** "He says that it is all her invention or fancy, since she was never in the woods when it happened and there was no need for her to be, as they had carried their food with them when they left the house."
+> **原句 53:** "He says that it is all her invention or fancy, since she was never in the woods when it happened and there was no need for her to be, as they had carried their food with them when they left the house."
 
 **中文理解**：他说这全是她捏造的或胡思乱想出来的，因为事发时她根本不在树林里，也没有必要去那里，因为他们出门时已经自带了食物。
 
@@ -55,7 +55,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 44:** "I sewed his head in first folding the sheet over it because I had to look in his eyes and mouth."
+> **原句 54:** "I sewed his head in first folding the sheet over it because I had to look in his eyes and mouth."
 
 **中文理解**：我先把他的头缝进去，把布单折过来盖住头，因为我必须看着他的眼睛和嘴巴。
 
@@ -69,7 +69,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 45:** "I said, Our Father who art in Heaven, and that was how I got my courage. I kept saying it every time I moved."
+> **原句 55:** "I said, Our Father who art in Heaven, and that was how I got my courage. I kept saying it every time I moved."
 
 **中文理解**：我说，天父在上，这就是我获得勇气的方式。每当我动一下，我就持续念诵这句话。
 
@@ -83,7 +83,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 46:** "Madness is at first taken on by some as a kind of play, for which shallowness and audacity they are punished later on, by finding out that it is play no longer, and the Devil has blocked off every escape."
+> **原句 56:** "Madness is at first taken on by some as a kind of play, for which shallowness and audacity they are punished later on, by finding out that it is play no longer, and the Devil has blocked off every escape."
 
 **中文理解**：疯狂最初被一些人当作一种游戏来承受，由于他们的浅薄与胆大妄为，他们后来受到了惩罚——发现这已不再是游戏，而魔鬼已封死了所有的退路。
 
@@ -97,7 +97,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 47:** "I am safe from George here is the main thing."
+> **原句 57:** "I am safe from George here is the main thing."
 
 **中文理解**：我从乔治那里获得安全——待在这里是唯一重要的事。
 
@@ -111,7 +111,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 48:** "Dreams are sent to warn us."
+> **原句 58:** "Dreams are sent to warn us."
 
 **中文理解**：梦是来警告我们的。
 
@@ -125,7 +125,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 49:** "I trust that better than giving it to them like the two letters I gave them already that they never have sent."
+> **原句 59:** "I trust that better than giving it to them like the two letters I gave them already that they never have sent."
 
 **中文理解**：我把信托付给" finder please post"这种方式，而不是像之前那两封信那样直接交给他们，结果他们从来没有寄出去。
 
@@ -139,7 +139,7 @@ Alice Munro 的《A Wilderness Station》是短篇集 *Open Secrets* 第五章�
 
 ---
 
-> **原句 50:** "It cost twelve hundred dollars, that being part of my inheritance from my grandfather James Mullen who was an early Clerk of the Peace in Walley."
+> **原句 60:** "It cost twelve hundred dollars, that being part of my inheritance from my grandfather James Mullen who was an early Clerk of the Peace in Walley."
 
 **中文理解**：这辆车花了我一千二百美元，那是我从外祖父詹姆斯·马伦那里继承来的遗产的一部分，詹姆斯·马伦早年担任瓦利镇的治安官。
 

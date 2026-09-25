@@ -13,7 +13,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 51:** "Each of them was called Tom. The Two Toms. A Tom was a noun to them, not just a name. It was not male or female. It meant somebody exceptionally brave and clever but not always lucky, and—just barely—indestructible."
+> **原句 61:** "Each of them was called Tom. The Two Toms. A Tom was a noun to them, not just a name. It was not male or female. It meant somebody exceptionally brave and clever but not always lucky, and—just barely—indestructible."
 
 **中文理解：** 她们各自被叫作"汤姆"。"两个汤姆"——"汤姆"对她们而言是一个名词，而不仅仅是名字。它不分男女，意思是极为勇敢聪明却并非总是幸运的人，而且——勉强算——不可摧毁。
 
@@ -27,7 +27,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 52:** "She had the idea of herself, at this juncture, being opened and squeezed, opened and squeezed shut, like an accordion."
+> **原句 62:** "She had the idea of herself, at this juncture, being opened and squeezed, opened and squeezed shut, like an accordion."
 
 **中文理解：** 在这个关口，她有一种关于自己的感觉——被打开又被挤压，打开再合上，像一架手风琴。
 
@@ -41,7 +41,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 53:** "she could feel cut off and bewildered, as if she had lost something instead of gaining it. As if she had suffered a banishment. From what?"
+> **原句 63:** "she could feel cut off and bewildered, as if she had lost something instead of gaining it. As if she had suffered a banishment. From what?"
 
 **中文理解：** 她感到被隔绝、被困惑，好像自己失去而非得到了什么。好像遭受了一种放逐。从什么中被放逐？
 
@@ -55,7 +55,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 54:** "But Wayne was very drunk when he said that. Drunkards speak truth."
+> **原句 64:** "But Wayne was very drunk when he said that. Drunkards speak truth."
 
 **中文理解：** 但Wayne在说那句话时已经烂醉如泥。酒鬼说的是真话。
 
@@ -69,7 +69,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 55:** "How can you ever be sure that you are not ugly? But if she was ugly, would Billy Doud have gone out with her in the first place?"
+> **原句 65:** "How can you ever be sure that you are not ugly? But if she was ugly, would Billy Doud have gone out with her in the first place?"
 
 **中文理解：** 你怎么可能确定自己不丑？但如果她真的丑，Billy Doud当初还会和她约会吗？
 
@@ -83,7 +83,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 56:** "She was just suddenly inside it, and she saw that it was white, very high and white, and shivering like the sails on a boat."
+> **原句 66:** "She was just suddenly inside it, and she saw that it was white, very high and white, and shivering like the sails on a boat."
 
 **中文理解：** 她就这样突然置身其中，看见它是一片白色，非常高、纯白，在风中颤抖如同船帆。
 
@@ -97,7 +97,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 57:** "Mrs. Monk was to Rhea the most interesting person in the room."
+> **原句 67:** "Mrs. Monk was to Rhea the most interesting person in the room."
 
 **中文理解：** 在Rhea眼中，Monk太太是这间屋子里最有趣的人。
 
@@ -111,7 +111,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 58:** "Time marches on," he says."
+> **原句 68:** "Time marches on," he says."
 
 **中文理解：** "时光流逝，"他说。
 
@@ -125,7 +125,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 59:** "She looked at her face in the mirror over the sink and spoke to it with recklessness and approval. 'Let him,' she said."
+> **原句 69:** "She looked at her face in the mirror over the sink and spoke to it with recklessness and approval. 'Let him,' she said."
 
 **中文理解：** 她看着洗手池上方镜子里自己的脸，带着一种无所顾忌和自我认可的神情对着镜子说话。"随他去吧，"她说。
 
@@ -139,7 +139,7 @@ Alice Munro 的短篇《Spaceships Have Landed》出自《Open Secrets》集（1
 
 ---
 
-> **原句 60:** "Wonderful," said Billy Doud several times as he watched and listened to Eunie."
+> **原句 70:** "Wonderful," said Billy Doud several times as he watched and listened to Eunie."
 
 **中文理解：** "了不起，"Billy Doud一边观看一边听Eunie讲述，反复说着。
 

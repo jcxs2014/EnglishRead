@@ -9,7 +9,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 11:** "The rug was full of vermin, which got under the rag tied around her leg."
+> **原句 21:** "The rug was full of vermin, which got under the rag tied around her leg."
 
 **中文理解**：Lottar 被毯子裹着由马驮运，身上爬满了虫子，这些虫子钻进绑在她腿上的破布条里。这句话用极为具体的细节描绘了她被囚禁时的狼狈处境——她完全丧失了对身体的控制，被毯子和爬虫覆盖，如同牲畜一般被拖拽穿越山脉。
 
@@ -23,7 +23,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 12:** "When she was being carried through the pine forest, she awoke and found herself suspended, lulled—in spite of the pain and perhaps because of the raki—into a disbelieving surrender."
+> **原句 22:** "When she was being carried through the pine forest, she awoke and found herself suspended, lulled—in spite of the pain and perhaps because of the raki—into a disbelieving surrender."
 
 **中文理解**：当她被抬着穿过松林时，她醒了，发现自己被悬空绑着，在疼痛的折磨中——或许恰恰是因为那拉基酒的作用——她被哄入了某种半信半疑的听任状态。这句话精妙地捕捉了 Lottar 在极端处境下的心理状态：她既不完全信任这个将她运走的人群，却也无能为力，只能任由命运摆布。
 
@@ -37,7 +37,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 13:** "'Oh, Lottar, you are so stupid! Don't you know when you see a Virgin?'"
+> **原句 23:** "'Oh, Lottar, you are so stupid! Don't you know when you see a Virgin?'"
 
 **中文理解**："哦，Lottar，你真是太笨了！难道你不知道你看到的是一个圣女吗？"当 Lottar 悄悄向其他女人打听那个"没有胡子"的男人是否是女人时，年轻姑娘们用嘲弄的语气重复她的问题，并直接告诉她答案——在阿尔巴尼亚的山区文化中，存在一种叫"Virgin"的女人，她们宣誓不婚，穿男装、佩枪，像男人一样生活。
 
@@ -51,7 +51,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 14:** "'See! She is beautiful!' Those who said it seemed triumphant, challenging others who must have doubted that the transformation could be made."
+> **原句 24:** "'See! She is beautiful!' Those who said it seemed triumphant, challenging others who must have doubted that the transformation could be made."
 
 **中文理解**："看！她多美！"说这话的人们显得胜利在握，像是在挑战那些曾经怀疑过这场改造能否成功的人。Lottar 被妇女们盛装打扮——黑色染料梳理好的头发、白色衬衫、金色刺绣、红 色胸衣、条纹丝质腰带、黑色羊毛裙——她们为自己的手艺感到骄傲，仿佛完成了一件艺术品。
 
@@ -65,7 +65,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 15:** "'You! You sitting there in your paint,' he said to Lottar. 'All for a pig of a Muslim!'"
+> **原句 25:** "'You! You sitting there in your paint,' he said to Lottar. 'All for a pig of a Muslim!'"
 
 **中文理解**："你！你坐在那儿一脸脂粉，"他（Lottar）对说。"全都是为了一个穆斯林猪猡！"神父冲上阳台，当众羞辱了盛装打扮的 Lottar 和那些妇女们。他知道她们已经把她卖给了一个穆斯林男人，而 Lottar 身上的一切——脂粉、婚纱、金饰——都是为了这次婚配准备的。
 
@@ -79,7 +79,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 16:** "'Take off that gold trash!'"
+> **原句 26:** "'Take off that gold trash!'"
 
 **中文理解**："把那堆金垃圾脱下来！我要让她成为一个圣女！"面对即将被卖给穆斯林男人的 Lottar，神父当众宣布了一个解决方案——让她发誓守贞，成为一个"Virgin"（圣女），这样她就不再是待嫁的新娘，而是一个获得了社会身份的的女人，穆斯林男人也就没有理由买她了。
 
@@ -93,7 +93,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 17:** "She did not want to marry, and she took an oath in front of witnesses that she never would, and then she put on men's clothes and had her own gun, and her horse if she could afford one, and she lived as she liked."
+> **原句 27:** "She did not want to marry, and she took an oath in front of witnesses that she never would, and then she put on men's clothes and had her own gun, and her horse if she could afford one, and she lived as she liked."
 
 **中文理解**：她不想结婚，于是她在十二个证人面前立下誓言，此生绝不嫁人，然后她穿上了男人的衣服，拥有了自己的枪，如果买得起的话还有一匹马，从此按自己的方式生活。这句话一口气列出了成为"圣女"的全部条件：誓言、男装、枪支、马匹，以及——自由。
 
@@ -107,7 +107,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 18:** "I had painted the walls of my bookstore a clear, light yellow. Yellow stands for intellectual curiosity."
+> **原句 28:** "I had painted the walls of my bookstore a clear, light yellow. Yellow stands for intellectual curiosity."
 
 **中文理解**：我把自己的书店墙壁涂成了透亮的淡黄色。黄色代表求知欲。这是叙事者（在维多利亚开书店的"我"）对自己生活的描述——她选择黄色来定义自己的书店，这个选择本身就是一种自我宣言。她从伦敦安大略来到BC省的维多利亚，从一段婚外情的混乱中逃离，开了这家书店，试图用知识来重新定义自己的人生。
 
@@ -121,7 +121,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 19:** "She had painted her toenails to match the T-shirt."
+> **原句 29:** "She had painted her toenails to match the T-shirt."
 
 **中文理解**：她把脚趾甲涂成了与 T 恤相配的颜色。Charlotte 穿着一件玫瑰色的 T 恤，不配文胸，她的脚趾甲也涂成了相同的玫瑰色——从头到脚，每一处细节都被精心协调。这是叙事者对 Charlotte 外观的描写，揭示了 Charlotte 作为一个"角色"对自己形象的控制——她不是在穿着，而是在扮演。
 
@@ -135,7 +135,7 @@ modified: "2026-09-24"
 
 ---
 
-> **原句 20:** "Melodrama and confusion made this place seem more ordinary to me, but less within my grasp."
+> **原句 30:** "Melodrama and confusion made this place seem more ordinary to me, but less within my grasp."
 
 **中文理解**："情节剧与混乱"——叙事者在医院病房里亲历了 Notary Public 被袭事件（可能失明）、Charlotte 即将死去、以及 Charlotte 和 Gjurdhi 突然消失——这些戏剧性的事件并没有让这个世界显得更离奇，反而让它显得更普通了，但同时也越来越难以被理解。这句话是 Munro 对"现实与故事关系"的最直接陈述。
 
