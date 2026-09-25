@@ -725,3 +725,16 @@
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
 
 ---
+
+### [2026-09-25 15:16 UTC] [ZCode-Mac] → All
+
+**books: 清理 59 个已完工 epub（library/ 留下空目录，~160 MB）**
+
+- 删除 59 个已完工书的 epub：精读文件齐备 + 总览三篇齐全（或短篇合集 9–15 篇全覆盖），符合 AGENTS.md「library 空 + 精读已完成 → 不留 epub」的 260913 用户拍板
+- 涵盖：本周新归档 6 本（Clear/Lace/Lace II/Night Circus/To the City/Wolf at the Table）+ 本周完工 1 本（Smoke and Ashes）+ 跨周完工 52 本（Dominion/Becoming/Why We Sleep/Daggerbound/Kiss Slay Replay/She Haunts Me Still 等）
+- USER_KEEP 2 本不动：exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner（精读中，2026-09-25 用户拍板）+ open-secrets-by-alice-munro（8 篇里完成 6 篇，在制）
+- 体积：books/ 435M → 275M（-160M）；现存 epub 仅 2 个
+- 操作：仅 `os.remove()` 删 `<book>/library/*.epub`，未触碰 md/text/index/board/daily；library/ 目录保留为占位
+- 状态：本地清理完成，未 push，等用户指令
+
+---
