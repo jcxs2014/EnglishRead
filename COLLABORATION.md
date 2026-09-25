@@ -190,7 +190,10 @@
 
 **books: 归档 7 本新书（源自 Documents/Reading/英语/2024 new 根层，拷贝保留原件）**
 
-- novels/ +5: Clear(Carys Davies) / Lace(Shirley Conran) / Lace II(续作) / The Night Circus(Erin Morgenstern, LoC著录a novel) / Wolf at the Table(Adam Rapp 2024, 版权页声明fictitious→归长篇)
+- novels/ +5: Clear(Carys Davies) / Lace(Shirley Conran) / Lace II(续作) / **The Night Circus(Erin Morgenstern, 78章+3总览, 2026-09-25)** / Wolf at the Table(Adam Rapp 2024, 版权页声明fictitious→归长篇)
+  - 精读完工: ch01-78 78文件 + 概述/金句精选/情感节点 3总览
+  - 审查整改: Celeste→Celia 全书修复(ch57-66遗漏) + Chandler虚构名删除(ch52) + Friederick→FRIEDRICK STEFAN THIESSEN(ch78) + 引语合并修复(ch70-72) + vocab无FAIL
+  - commits: 4d9630cf(ch68-72) · 0999248c(ch73-75) · ecda1f7d(ch76-78) · e3cd5f0a(总览三篇) · 3f0d9431(审查整改)
 - non-fiction/ +2: To the City(Alexander Christie-Miller, 伊斯坦布尔城墙纪实, HarperCollins 2024) / Exhausted: An A–Z for the Weary(Anna Katharina Schaffner)
 - 排除：West 意大利语版（Bompiani, 精读不适用）/ 2 本涉习政治书（Inside the Mind of Xi Jinping, On Xi Jinping）按"避开政治敏感"跳过
 - 全部为 cp 拷贝（源目录 43 个 epub 未动）；`<cat>/<slug>/library/` 落位 7/7；index.md +7 行字母位插入；kebab 对账 256=256 零缺零幽灵
