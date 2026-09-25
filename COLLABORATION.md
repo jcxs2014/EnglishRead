@@ -76,14 +76,18 @@
 
 ---
 
-### [2026-09-25 10:15 UTC] [Opencode-Mac] → All
+### [2026-09-25 10:31 UTC] [Opencode-Mac] → All
 
-**《The Dolphin in the Mirror》by Diana Reiss 全书精读完工**
+**《The Dolphin in the Mirror》by Diana Reiss 全书精读 + 独立五步审查整改完成**
 
-- 范围：`notes/books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/`；12 个正式阅读单元（Prologue、书内 Chapter 1–10、书末 2006 年新闻稿）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 15 个 md；正文 XML 专用提取器产出 text ch01–ch12，全部 `source_text` 1:1。
-- 提交链：`6720c81b` → `827c361a` → `e4627580` → `3df47a75` → `ccfbb1ac` → `dd111275`，均未 push。
-- 门禁：章节 `verify_quotes 120/120`（XML→XHTML 兼容副本，12/12 干净）· `check_vocab 439` 行 `FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 120/120` · `verify_overview_quotes 51/51` · `check_crossref 0 对/报警 0`；兼容副本 `audit_book.py` 通过，结构扫描 12 文件/120 块/五子项齐全/零重复，总览 H1 3/3。
-- 目标目录 tracked=15、完工后无未提交目标文件；本次仅完成执行方四件套与总览门禁，**独立五步审查未做（待用户主动发起）**。
+- 范围：`notes/books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/`；12 个正式阅读单元 + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 15 个 md；正文 XML 专用提取器产出 text ch01–ch12，全部 `source_text` 1:1。
+- 提交链：`6720c81b` → `827c361a` → `e4627580` → `3df47a75` → `ccfbb1ac` → `dd111275` → `d7522e63`（审查整改），均未 push。
+- a｜门禁重跑：章节 `verify_quotes 120/120`（12/12 干净）· `check_vocab 439` 行 `FAIL 0 / WARN 0` · `check_entities 0`；b｜`check_chapter_quotes 120/120`；总览 `verify_overview_quotes 51/51`；`check_crossref 0 对/报警 0`。
+- c｜结构与全串扫描：120 个正文块、51 个总览引语全串命中；跨章引语 0、结构错误 0、重复块 0、关键词锚定 0、H1/source 映射 0 问题；`audit_book.py`（XML 兼容副本）通过，text/epub 抽检 12/12。
+- d｜语义二审：主会话逐块回源复核 120/120 正文块与 51/51 总览引语；修复 40 行：30 条词汇例句改为包含词头且逐字来自本章，修正 2 条中文语义翻译、1 个关键词锚定、1 个概述章节范围、6 处术语/文字错误。修复 commit：`d7522e63`。
+- 子代理尝试：5 个只读语义批次均因 provider 报错 `OpenCode's free tier can only be used from within OpenCode` 未执行；主会话完成全量 d 步，非省略范围。已知局限：同会话主会话仍可能存在全书统一口径的系统性误判。
+- e｜总览事实：概述 7 段、3 大主题、4 组行动者弧光；金句 30 条；情感节点 10 个；总览逐条 flat 归属 51/51，人物/事件/数字/章节标签回查无高置信缺陷。
+- 最终状态：目标目录 tracked=15、无未提交目标文件；**五步审查已完成**；未 push。
 
 ---
 
