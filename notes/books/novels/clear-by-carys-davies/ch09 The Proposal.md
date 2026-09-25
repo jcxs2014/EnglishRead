@@ -59,17 +59,17 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** They had not interfered, the Reverend John Ferguson had been given to understand; but now it was time for interference of a different kind.
+> **原句 4:** Whether they'd stayed with the established Church or come out with the new one, it made no difference; they had not interfered.
 
-**中文理解**：他们没有干预过，Reverend John Ferguson 被告知；但现在到了进行不同类型的干预的时候了。
+**中文理解**：无论他们是留在旧教会还是跟随新教会出来，都没有任何区别；他们从来没有干预过（清退）。
 
-**句子结构**：They had not interfered（被动结构的插入语）+ but now it was time for interference of a different kind（主句）；插入语暗示 Ferguson 对这段历史的理解。
+**句子结构**：whether 引导的让步状语从句 + 主句 they had not interfered；省略了与前文相同的谓语部分（kicked up any sort of fuss about the removal...）。
 
-**关键词**：interference of a different kind（John 以为他是在帮助人，但实际上他是来驱逐人的；这种"干预"不是慈善，而是强制）
+**关键词**：they had not interfered（牧师们从未干预过清退运动——这是 Lowrie 的核心论点，也是 John 即将面对的道德困境）
 
-**表达方式**：对比结构——not interfered vs interference of a different kind；这两个短语的结构对称，但意思完全相反。
+**表达方式**：省略结构——whether 从句后半部分的动词"kicked up any sort of fuss"被省略，以避免重复前文内容。
 
-**为什么这样写**：这是本书到目前为止最具讽刺性的一勺——John Ferguson 认为他是在"帮助"这个岛上的人，但实际上他是被雇来把他们驱逐出去的；他的"interference"将以"清除"的形式出现。
+**为什么这样写**：这是本书最具讽刺性的一勺——John Ferguson 认为他是在"帮助"这个岛上的人，但实际上他的前任们从未干预过清退；他以为自己是第一个来做善事的人，但其实他只是另一个没有干预的牧师。
 
 ---
 
