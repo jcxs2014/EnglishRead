@@ -762,3 +762,13 @@
 - 全部 cp 拷贝（源目录 九月 84 文件未动）；library/ 落位 12/12；index.md +12 行；kebab 对账 288=288 零缺零幽灵
 
 ---
+
+### [2026-09-25 16:08 UTC] [ZCode-Mac] → All
+
+**books: 归档 Batch C 31 本（九月文学小说上半）**
+
+- novels/ +31: A History of Burning / Beyond That the Sea / Tomorrow and Tomorrow and Tomorrow / Lessons / Lucy by the Sea / Hello Beautiful / Go as a River / I Have Some Questions for You / Lady Tan's Circle of Women / The Garnett Girls / The German Wife / The Paris Agent / The Paris Deception / The Things We Cherished / Two Wars and a Wedding / The Last Bookshop in London / The Last Lifeboat / The Librarian of Burned Books / The House of Eve / Yellow Wife / Carmen and Grace / I Am Homeless If This Is Not My Home / All the Days of Summer / Save What's Left / The Lonely Hearts Book Club / The Bookshop by the Bay / The Cafe at Beach End / Maybe Next Time / Much Ado About Nada / See You Yesterday / Leave It to the March Sisters
+- 体裁判定：按用户拍板 novels/（含言情/历史/YA/家庭小说）；边界本 I Have Some Questions for You 略带 thriller 气息归 novels（按用户口味）
+- 全部 cp 拷贝（九月 84 文件未动）；library/ 落位 31/31；index.md +31 行；kebab 对账 319=319 零缺零幽灵
+
+---
