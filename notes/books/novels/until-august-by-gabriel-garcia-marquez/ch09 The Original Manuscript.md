@@ -56,7 +56,7 @@ modified: "2026-09-25"
 中文理解：与此同时，其他改动会被录入数字版本，比如对形容词"tenue"（微弱的）的疑问，它最终变成了"continuo"（连续的）。
 关键词: other changes, the doubt about the adjective tenue, eventually became continuo
 为什么这样写：以一个形容词的演变（tenue→continuo）作为整本书编辑工作的缩影；一个词的更替，就是这本书从"手稿"变成"书"的全部过程。
-读者视角提示：全书最后落在两个词上——微弱的变成连续的；而读者在 ch01 开头读到的"a tenuous breeze"，正是被定稿保留下来的那个微弱。
+读者视角提示：全书最后落在两个词上——微弱的变成连续的；而 ch07 开篇那句 "a tenuous breeze" 仍原样留在定稿里——tenue 这处犹豫并未变成 continuo。
 
 ## 本章词汇
 

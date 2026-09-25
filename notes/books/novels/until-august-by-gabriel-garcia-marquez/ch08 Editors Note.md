@@ -76,7 +76,7 @@ modified: "2026-09-25"
 中文理解：我记得自己留下的印象：对一个他此前未曾触及的原创主题的绝对掌控，以及有朝一日能与读者共享的愿望。
 关键词: absolute mastery, an original theme he had not tackled previously, the desire that one day his readers could share it
 为什么这样写：全章唯一的正面评价，用"绝对掌控"与"未曾触及"双重限定；后半句把这份掌控寄托于未来读者，使编者成为本书与读者之间的中介。
-读者视角提示：这是作者对自己作品的最后判断——他认可主题的新鲜，却不认为作品已经完成。
+读者视角提示：这是编者读完三章后留下的印象——他认可主题的新鲜；而作者对作品的判断在 Preface 里已给出：这本书不成立，必须销毁。
 
 > **原句 10:** "to demonstrate with his smile that he was a man"
 

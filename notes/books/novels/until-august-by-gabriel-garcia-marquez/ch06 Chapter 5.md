@@ -7,7 +7,7 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：第四年因国际旅游大会而无房可住的 Ana Magdalena，与一位自称主教的陌生男子共享一晚；他留下一张名片，她认得那白色剑兰的来历——"那正是母亲墓上的花"。
+- **一句话概括**：第四年因国际旅游大会而无房可住的 Ana Magdalena，与一位自称主教的陌生男子共享一晚；他留下一张名片，她认得那剑兰的来历——"那正是母亲墓上的花"。
 - **情感弧线位置**：转折——这是全书唯一一次"她既得到又知道对方是谁"的相遇：她得到一夜，也得到一个身份（主教）与一个姓氏（未曾问、但她先报了假名 Perpetua）。
 - **母题兑现/反转**：兑现"唐菖蒲"母题的最大一次反转——匿名者竟提前送来她母亲的 花；"二十美元"母题则从"嫖资"转成"名片"，同一件从书里取出留的东西，两种价值体系正面相撞。
 - **人物弧线**：从"把错失当年份"（"took it for granted that she had lost another year"）到"主动放弃一次可能的延续"（"Until never again"）；她在这一夜里既极度主动（电话里编造取消的谎）又极度克制（不肯表现出轻易）。
@@ -22,12 +22,12 @@ modified: "2026-09-25"
 为什么这样写：谎言被包装成"卫生习惯"——把暧昧表述为卫生学，把越界说成规矩；chivalrous 的礼貌与实际意图（分开住）之间的缝，正是全书幽默的来源。
 读者视角提示：她"played along"（配合演）——她自 15 岁起就掌握着拒绝与配合的开关，这次是主动的共谋。
 
-> **原句 2:** "She suddenly realized that on the twenty-fifth of November she would turn fifty, the age she most feared."
+> **原句 2:** "She suddenly realized that on the twenty-fifth of November she would turn fifty, the age she most feared, not much younger than her mother had been when she died."
 
 中文理解：她忽然意识到十一月二十五日她就满五十岁了——那个她最怕的年纪。
 关键词：the twenty-fifth of November, turn fifty, the age she most feared
 为什么这样写：日期精确到日，却用一个比较结构点明它真正的意义来自对照（母亲去世时的年龄）；"the age she most feared"不解释怕什么，把恐惧指向时间本身。
-读者视角提示：五十岁是她每年都要面对的倒计时；全书她每年都在母亲死去的年龄区间里过活。
+读者视角提示：五十岁是她每年都要面对的倒计时；原文用它与母亲的死因年龄直接对表——她怕的不是数字本身，而是自己正滑向母亲离世的那个年纪。
 
 > **原句 3:** "“What a stroke of luck!” she said without skipping a beat. “They’ve just canceled because of the rain.”"
 

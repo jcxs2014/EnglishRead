@@ -48,7 +48,7 @@ modified: "2026-09-25"
 中文理解："就是那位总是来的先生。"
 关键词：The gentleman who always does
 为什么这样写：园丁（caretaker）的一句话用定语从句构成谜面；"always"暗示这是长期行为，"the gentleman"表示他从不具名；这句无意的话把一个母亲级别的秘密推到女儿眼前。
-读者视角提示：墓上被花覆盖的事实，在下一段被解释成一位七十岁、拄伞的"先生"——而她随即想到这个人可能就是自己的母亲。
+读者视角提示：墓上被花覆盖的事实，在下一段被解释成一位七十岁、拄伞的"先生"——而她的推论只是母亲的原因与激情或许与自己相同。
 
 > **原句 6:** "She did not feel sad but rather encouraged by the realization that the miracle of her life was to have continued that of her dead mother."
 
@@ -76,7 +76,7 @@ modified: "2026-09-25"
 中文理解："到了我这个年纪，"她说，"所有女人都是孤独的。"
 关键词：At my age, all women are alone
 为什么这样写：泛化的格言（all women）既是自我诊断，也是防御性的普遍化；把个人的处境升格为所有女性的命运，既是控诉也是自弃。
-读者视角提示：她用年龄作为放弃的理由——这正是她五十一岁、六十岁每年仍回到那座岛上的矛盾所在。
+读者视角提示：她用年龄作为放弃的理由——这正是她此后每年仍回到那座岛上的矛盾所在。
 
 > **原句 10:** "She stayed like that, biting the tear-soaked pillow so she wouldn’t have to ask who it was, until the person who was knocking stopped."
 
