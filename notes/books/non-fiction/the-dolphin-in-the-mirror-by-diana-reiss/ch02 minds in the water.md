@@ -230,7 +230,7 @@ source_text: ch02
 | history | 历史 | "After mythology comes history, the putative record of actual events." |
 | human | 人类 | "Humans and dolphins could hardly be more different in our physical forms and in the worlds we inhabit." |
 | animal | 动物 | "Injured animals of any kind." |
-| story | 故事 | "Stories of dolphins are an integral part of the Aborigines' Dreamtime—that is, the time of the creation of the world in Aboriginal mythology." |
+| story | 故事 | "The story of how this came about has many versions, as is common in Greek (and Roman) mythology." |
 | protect | 保护 | "as natural resources were seen more and more as ours to exploit, rather than protect, dolphins moved from being sacred to being mundane, just another resource to be exploited for our material benefit." |
 
 ## 一句话总结

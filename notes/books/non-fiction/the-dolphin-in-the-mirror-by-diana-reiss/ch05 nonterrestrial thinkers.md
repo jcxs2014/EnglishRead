@@ -44,7 +44,7 @@ source_text: ch05
 
 ## 论证结构
 
-- **核心论点**：海豚的智能应通过其面对环境、物體、社会伙伴和人类时的可变行为来理解；创造性地制造玩具、使用工具、形成群体传统和操控互动，都表明其认知活动具有计划性、适应性和可能的社会心理深度。
+- **核心论点**：海豚的智能应通过其面对环境、物体、社会伙伴和人类时的可变行为来理解；创造性地制造玩具、使用工具、形成群体传统和操控互动，都表明其认知活动具有计划性、适应性和可能的社会心理深度。
 - **证据链**：
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
@@ -72,7 +72,7 @@ source_text: ch05
 
 **关键词**：`don't have hands`、`hasn't stopped them`、`creative and manipulative`、`numerous ways`
 
-**表达方式**：先设置“没有手”的身体限制，再用 hasn't stopped 把限制改写成创造性前提；creator 与 manipulative 并置，扩大“智力”的表现范围。
+**表达方式**：先设置“没有手”的身体限制，再用 hasn't stopped 把限制改写成创造性前提；creative 与 manipulative 并置，扩大“智力”的表现范围。
 
 **为什么这样写**：它直接回应读者最容易产生的直觉：没有手就不能制造和操作。作者把“没有手”从能力上限改写为认知形式的差异，为泡泡环、石块和工具案例搭桥。
 
@@ -195,8 +195,8 @@ source_text: ch05
 | exaptation | 旧结构被征用于新功能；扩展适应 | "But forms can be co-opted for other functions as well. Stephen Jay Gould termed this exaptation." |
 | manipulative | 操控的；操纵环境的 | "Dolphins don't have hands, but that hasn't stopped them from being creative and manipulative in numerous ways." |
 | sponging | 用海绵辅助觅食 | "One of the more bizarre foraging specializations in bottlenose dolphins is called sponging." |
-| foraging | 觅食；寻找和获取食物 | "Bottlenose dolphins live in a great variety of ecosystems, so it isn't surprising that they find different ways of catching prey." |
-| symbiotic | 共生的；双方相互受益的 | "It is a relationship in which both mammals benefit and learn from each other." |
+| foraging | 觅食；寻找和获取食物 | "But dolphins are opportunistic feeders who use a large number of foraging techniques that are not driven simply by the characteristics of the different ecosystems." |
+| symbiotic | 共生的；双方相互受益的 | "I am talking about a form of cooperation that has gone on for at least two thousand years: a symbiotic relationship between dolphins and fishermen." |
 | deception | 欺骗；故意让他人形成错误认识 | "Deception is also a form of manipulation, but of other individuals rather than of the physical environment." |
 | Machiavellian | 马基雅维利式的；善于策略和操控的 | "They collected these instances in a book, Machiavellian Intelligence: Social Expertise and the Evolution of Intellect in Monkeys, Apes, and Humans, published in 1988." |
 | ritualized | 仪式化的；按固定程序进行的 | "Karen Pryor, who led the study, described the whole affair as \"highly ritualized, and appears to involve learned behaviors in both men and dolphins.\"" |
@@ -210,9 +210,9 @@ source_text: ch05
 | sedate | 平静的；沉着的 | "Bubble caps are smaller, more sedate, and seem to be produced voluntarily." |
 | voluntarily | 自愿地；主动地 | "Bubble caps are smaller, more sedate, and seem to be produced voluntarily." |
 | postprandial | 餐后的；进食后的 | "While Presley's and Tab's postprandial display seemed to have a degree of intention and control to it, it doesn't match what is required for blowing bubble rings." |
-| concomitant | 同时发生的；伴随的 | "Others in Stormy's pool followed very much the same procedure, although with some variations." |
+| concomitant | 同时发生的；伴随的 | "I've already described Stormy's particular modus: the characteristic posture near the bottom of the deep pool, a quick upward jerk of the head with a concomitant release of a bubble that immediately forms a ring." |
 | vortex | 涡流；旋涡 | "He deftly dropped the fish fragment in the center of the bubble ring, and it rose under the influence of the rising ring, spinning violently in the ring's vortex." |
-| helix | 螺旋线；螺旋形结构 | "Tinkerbell had a second, similar technique in which she swam in a curved path across the tank, producing \"an invisible dorsal fin vortex.\"" |
+| helix | 螺旋线；螺旋形结构 | "She then turns quickly, and as the dorsal fin on her back brushes past the bubbles, the vortex formed by the fin brings the bubbles together and coils them into a helix." |
 | proficient | 熟练的；精通的 | "Before long, the youngsters were quite proficient, and they became inventive." |
 | deliberation | 深思熟虑；仔细考虑 | "The dolphins seem to embark on the task with some planning and deliberation, they seem to know what they are doing, and they seem to have some grasp of the physics of how to produce them and how to manipulate them in creative ways." |
 | deliberate | 故意的；深思熟虑的 | "Spock's behavior looks very much like deliberate deception, because he hadn't been trained to take small pieces of litter to Jim and then be rewarded." |
@@ -229,7 +229,7 @@ source_text: ch05
 | water | 水 | "Bubble caps look like silvery mushroom caps that slowly rise through the water, swaying slightly and expanding as they ascend." |
 | social | 社会的；群体互动的 | "But much of the dolphins' behavior, like that of other social mammals, is learned." |
 | behavior | 行为 | "The degree of behavioral diversity in dolphins, including cooperative ventures, speaks of extensive behavioral flexibility rather than genetic hard-wiring." |
-| group | 群体；一组 | "These four young dolphins really did seem to know what they were doing, plan what they were doing, and respond to contingencies." |
+| group | 群体；一组 | "On one occasion in this group, Stormy was blowing single bubble rings and watching them as they rose." |
 
 ## 一句话总结
 

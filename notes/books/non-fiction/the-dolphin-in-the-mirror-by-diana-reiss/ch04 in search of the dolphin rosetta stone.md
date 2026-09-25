@@ -192,7 +192,7 @@ source_text: ch04
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| imminent | 即将发生的；迫近的 | "Everyone at the pool was in a state of high alert, and more than a little anxious. During the previous few years there had been several births among the performing dolphins, but for various unrelated reasons, none of the calves had survived. I was determined that Terry's and Circe's infants weren't going to suffer the same fate, especially as these were my first dolphin births." |
+| imminent | 即将发生的；迫近的 | "That told us that delivery was imminent." |
 | distended | 膨胀的；鼓起的 | "About a month earlier, Terry's belly region had become quite distended, a sign that birth was not far away, a matter of weeks." |
 | bewildered | 困惑的；不知所措的 | "Yet it appeared to us that Circe (like many other dolphins I've since observed) had no instinct to do any such thing and that she was completely bewildered." |
 | abdicate | 放弃；让出（权力） | "In contrast, my goal was to abdicate power and turn at least some choice and control over to the dolphins and see what their big brains would do with it." |
@@ -201,7 +201,7 @@ source_text: ch04
 | paradigm | 范式；研究问题的基本框架 | "Two landmark scientific conferences in 1956, one at the Massachusetts Institute of Technology and one at Dartmouth College, marked a paradigm shift in thinking about minds, brains, and computers." |
 | meticulous | 一丝不苟的；细致的 | "I try to trust my instincts, trust the insights that emerge, but I verify them with scientific tests as meticulous as the circumstances allow." |
 | spectrograph | 频谱图；声音图谱 | "I couldn't wait to get to the lab to print out a spectrograph (a sound picture) of what I'd been hearing." |
-| facsimile | 复制品；高度相似的再现 | "They had invented their own new whistle with no guidance, reward, or acknowledgment from us; this was the dolphins' own doing. A reflection of these minds in the water." |
+| facsimile | 复制品；高度相似的再现 | "I saw one long continuous whistle that began with a facsimile of the ring whistle and then connected to a facsimile of the ball whistle." |
 | segmentation | 分段；把整体分成部分 | "By repeating the last part, then the first part, then putting it all together, Pan had done what young children do when they learn new words. It's called segmentation." |
 | referential | 指称的；指向对象或事物的 | "It seems that dolphins may call to or refer to other dolphins in what may function as a referential call." |
 
@@ -224,12 +224,12 @@ source_text: ch04
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| dolphin | 海豚 | "My keyboard research—focused on Pan and Delphi—had quite ambitious goals." |
+| dolphin | 海豚 | "The three dolphins I observed were a somewhat unusual social group: two female Atlantic bottlenose dolphins, eighteen-year-old Terry and eight-year-old Spray (I soon renamed her Circe in honor of my first dolphin mentor, whom I still held dear), and a huge, older male Pacific bottlenose dolphin, Gordo." |
 | behavior | 行为 | "The standard research approach at that time used techniques that were similar to those used when training dolphins to perform specific behaviors in shows." |
 | research | 研究 | "My keyboard research—focused on Pan and Delphi—had quite ambitious goals." |
 | keyboard | 键盘 | "Terry, Circe, Pan, and Delphi were the first dolphins with whom I tried keyboard studies." |
 | sound | 声音 | "It was the sound of the step, not the arm raising, that the dolphin understood as the signal to jump." |
-| whistle | 哨音；哨声 | "Dolphins are most vocal when they are at a distance from one another, and when in close proximity, they apparently turn to other means of communication." |
+| whistle | 哨音；哨声 | "My second question: How do dolphins learn their whistle repertoires?" |
 | calf | 幼崽；幼海豚 | "The calf had passed his first hurdle." |
 | pool | 水池；池子 | "The research pool at Marine World was in the middle of a raised wooded mound in what was effectively a six-hundred-acre wildlife theme park." |
 

@@ -4,7 +4,7 @@ modified: "2026-09-25"
 source_text: ch10
 ---
 
-# 9. Into the Cove（进入海灣）
+# 9. Into the Cove（进入海湾）
 
 ## 概览
 
@@ -21,7 +21,7 @@ source_text: ch10
 
 1. **Mara 的痛苦叫声**：个体死亡和尸检让 falling-bomb whistle 成为潜在的兽医与福利指标。
 2. **从科学家到倡议者**：作者在学术会议设置请愿、放映记录，公开把研究用于停止驱猎。
-3. **Taiji 的历史与机制**：从传统捕鲸、IWC 禁令到 oikomi 声音墙，解释驱猎如何把社会群体逼入海灣。
+3. **Taiji 的历史与机制**：从传统捕鲸、IWC 禁令到 oikomi 声音墙，解释驱猎如何把社会群体逼入海湾。
 4. **文化与科学的争辩**：政府、水族馆和民族主义话语把动物痛苦重新命名为资源控制或文化差异。
 5. **使馆谈判的失败**：科学论文被烟雾弹式的相关问题带偏，作者意识到“证据堆积”不等于政策改变。
 6. **《The Cove》的制作与传播**：纪录片以潜入、隐蔽摄像和公共舆论打破遮蔽，获得奖项也引发水族馆反弹。
@@ -201,7 +201,7 @@ source_text: ch10
 | sonogram | 声呐图；声音图像 | "My poster presentation included audio of the calls and a sonogram, or sound picture, of them." |
 | duress | 胁迫；身体痛苦 | "Five years prior to the San Diego meeting I had by chance become interested in what can best be described as distress calls, the kind made when dolphins are under duress, such as in pain or severe stress." |
 | scientist-advocate | 科学家倡议者 | "It was something of a schizophrenic experience for me, this division between the scientist coolly amassing evidence and the scientist-advocate desperately trying to find ways of changing the world." |
-| sentience | 感知能力；感受生命的能力 | "Bottlenose dolphins are sentient, highly social, and highly intelligent animals." |
+| sentience | 感知能力；感受生命的能力 | "It was a celebration of dolphin intelligence in many realms—their brains, their awareness of self, their sentience, their social complexity." |
 | inhumane | 非人道的；残酷的 | "The government of Japan allows the Taiji fishermen to kill twenty-three hundred dolphins and small whales each year in the most brutal and inhumane manner imaginable." |
 | welfare | 动物福利；福祉 | "Now I realized that if we could confirm that dolphins produce these falling-bomb calls when they are in physical duress and at no other time, then we would have a terrific veterinary and welfare tool;" |
 | oikomi | 围捕鲸豚的声学驱赶方法 | "The fishermen position themselves between the groups and the open ocean and then herd the dolphins toward shallow lagoons using the oikomi method that we used to save Humphrey the humpback whale:" |
@@ -219,7 +219,7 @@ source_text: ch10
 | happenstance | 偶然；机缘巧合 | "But the topic wasn't prominent in anyone's mind when I came across it through happenstance in the year 2000." |
 | poster session | 海报展示会议 | "Poster sessions at these extravagant scientific gatherings give researchers an opportunity to display new research and research in progress, often prior to publication." |
 | petition | 请愿；请愿书 | "I had, however, managed to persuade society officials that the dolphin drives were such an egregious affront to marine mammal integrity and dignity, they should allow me to seek signatures to a petition calling for its termination." |
-| endorse | 公开支持；背书 | "The long statement addressed to the government of Japan urged it to "lead the way and take action in stopping the inhumane treatment and killing of these highly sentient mammals." It turned out to be easy to get people to sign." |
+| endorse | 公开支持；背书 | "My colleague Lori Marino worked with me on the petition, and we asked our colleague Sam Ridgway to help us draft the scientists' statement we were asking participants to endorse." |
 | ritual | 仪式；固定传统 | "For centuries, with great ritual and considerable skill, the men of Taiji put to sea in swift, elaborately decorated boats to hunt whales, primarily right whales, which provided more than enough for the villagers' subsistence needs and plenty for trade to other parts of the country." |
 | elaborate | 精心制作的；复杂的 | "For centuries, with great ritual and considerable skill, the men of Taiji put to sea in swift, elaborately decorated boats to hunt whales, primarily right whales, which provided more than enough for the villagers' subsistence needs and plenty for trade to other parts of the country." |
 | subsistence | 生存；生计所需 | "For centuries, with great ritual and considerable skill, the men of Taiji put to sea in swift, elaborately decorated boats to hunt whales, primarily right whales, which provided more than enough for the villagers' subsistence needs and plenty for trade to other parts of the country." |
@@ -236,10 +236,10 @@ source_text: ch10
 |---|---|---|
 | research | 研究 | "Poster sessions at these extravagant scientific gatherings give researchers an opportunity to display new research and research in progress, often prior to publication." |
 | evidence | 证据 | "It was something of a schizophrenic experience for me, this division between the scientist coolly amassing evidence and the scientist-advocate desperately trying to find ways of changing the world." |
-| state | 国家；政府 | "The government of Japan allows the Taiji fishermen to kill twenty-three hundred dolphins and small whales each year in the most brutal and inhumane manner imaginable." |
+| state | 状态；情形 | "In water, dolphins are virtually weightless, and their anatomy is adapted to that state of near equilibrium." |
 | animal | 动物 | "Dolphins, like many other animals, often mask their pain." |
 | fish | 鱼 | "The government considered dolphins competitors for fish, and so they had to be exterminated." |
-| water | 水 | "The fishermen position themselves between the groups and the open ocean and then herd the dolphins toward shallow lagoons using the oikomi method that we used to save Humphrey the humpback whale:" |
+| water | 水 | "It showed a photograph of a small cove and fishing boats, and another photograph of a single dolphin, its blood-covered head plaintively raised above the water." |
 | group | 群体 | "The fishermen then herd the rest of the social group, the unlucky ones, to the killing cove in Hatagiri Bay, with craggy, scrub-covered cliffs rising steeply on three sides." |
 | film | 电影；影片 | "The film, ironically, damaged the overall cause—and weakened, at least temporarily, our coalition." |
 | meeting | 会面；会议 | "Our principal concern in planning for the meeting was staying on message: the drive hunts at Taiji were brutally inhumane and should therefore be stopped." |

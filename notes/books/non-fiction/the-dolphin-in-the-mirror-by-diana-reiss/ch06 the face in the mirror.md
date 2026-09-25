@@ -151,7 +151,7 @@ source_text: ch06
 
 > **原句 8:** "Perhaps that's why Delphi and Pan failed the mark (with no hands) test—perhaps neither one was sufficiently engaged by a foreign mark on his body."
 
-**中文理解**：也许这就是 Delphi 和 Pan 未能通过“无手标记”测试的原因——也许它们都没有充分注意到身体上的外来标记。
+**中文理解**：也许这就是 Delphi 和 Pan 未能通过“无手标记”测试的原因——也许它们都没有充分受到身体上外来标记的驱动去检查。
 
 **句子结构**：两个 Perhaps 分别引出原因猜测；第一个 perhaps 后接从句，第二个 perhaps 后接 neither...nor... 的否定结构，engaged by... 说明被什么吸引。
 
@@ -194,7 +194,7 @@ source_text: ch06
 | intromission | 插入式交配；插入行为 | "To put it technically, they were attempting intromission." |
 | copulation | 交配 | "In general, for bottlenose dolphins, copulation is the culmination of an aquatic courtship dance that I think they start to learn in the first few weeks of their lives—from their mothers." |
 | echelon | 梯队；并排或列队位置 | "In the first few weeks of life, calves, who don't yet have full coordination of swimming and breathing, swim right next to their mothers. This is called echelon swimming." |
-| slipstreaming | 借流；利用滑行气流或水流节省力气 | "In the mother's slipstream, the calf gets a bit of a free ride, expending less energy during the early weeks of life." |
+| slipstreaming | 借流；利用滑行气流或水流节省力气 | "Slipstreaming also keeps the calf in close proximity and tightly coordinated with its mother's movements." |
 | thermoregulate | 调节体温 | "Newborn dolphins are born without much blubber—a layer of insulation made up of fat and fiber, riddled with blood vessels, that helps dolphins and whales thermoregulate in cold and warm waters." |
 | camouflage | 伪装；保护色 | "Also, it may confer some camouflage from potential predators below." |
 | sociosexual | 社会性与性相关的 | "This sociosexual behavior between male dolphins helps them form and maintain bonds; when performed with receptive female dolphins in estrus, it functions as reproductive behavior." |
@@ -225,11 +225,11 @@ source_text: ch06
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | dolphin | 海豚 | "In general, for bottlenose dolphins, copulation is the culmination of an aquatic courtship dance that I think they start to learn in the first few weeks of their lives—from their mothers." |
-| calf | 幼崽 | "In the first few weeks of life, calves, who don't yet have full coordination of swimming and breathing, swim right next to their mothers." |
+| calf | 幼崽 | "As the calf gradually gains better control over its breathing, it begins to swim just underneath the mother." |
 | mother | 母亲 | "In the first few weeks of life, calves, who don't yet have full coordination of swimming and breathing, swim right next to their mothers." |
 | behavior | 行为 | "The behavior patterns that I saw with Terry and Pan were usually repeated within a few hours or a day later by Circe and Delphi." |
 | mirror | 镜子 | "We installed the mirror in the pool as part of a very serious scientific experiment." |
-| body | 身体 | "Dolphins engage in high degrees of tactile and physical contact with others, both dolphins and humans, and their skin is highly innervated so they are sensitive to touch." |
+| body | 身体 | "Our plan was that during a feeding session, we would put a mark on each dolphin's body in a place he could not ordinarily see." |
 | pool | 水池 | "We installed the mirror in the pool as part of a very serious scientific experiment." |
 | mark | 标记；印记 | "The trainer quickly wiped away the big white mark, and Delphi immediately relaxed." |
 

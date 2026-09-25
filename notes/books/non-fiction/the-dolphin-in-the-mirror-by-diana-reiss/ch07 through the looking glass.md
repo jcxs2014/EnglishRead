@@ -193,7 +193,7 @@ source_text: ch07
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | self-recognition | 自我识别；认出自己 | "This was early in 1998 at the Wildlife Conservation Society's New York Aquarium in Brooklyn, and I had embarked on mirror-self-recognition investigations again, with two male dolphins, thirteen-year-old Presley and seventeen-year-old Tab, both of them captive-born." |
-| contingency | 条件关系；情境结果 | "Like Groucho, and like our close ape cousins, the dolphins appeared to be testing the contingencies of their own behavior at the mirror." |
+| contingency | 条件关系；情境结果 | "In mirror self-recognition studies, this is called the contingency-testing phase, a critical hurdle to pass on the way to self-recognition." |
 | deliberate | 故意的；深思熟虑的 | "He quite deliberately backed away from the mirror until he could see his entire body, and then he went into the horizontal swirl: spin and look, spin and look, spin and look." |
 | fetal | 胎儿的；胎儿姿势的 | "He was lying below the water's surface on his left side, his body curled in a fetal position as he spun and looked, spun and looked, spun and looked." |
 | shepherding | 引导；像牧羊人一样引导 | "This approach would allow them to show me what they were capable of without my shepherding them toward a particular behavior." |
@@ -213,7 +213,7 @@ source_text: ch07
 | novel | 新颖的；前所未有的 | "Presley apparently first tested out the physics of seeing the whole of his body in the small mirror, and then went into this entirely novel behavior, a move he invented." |
 | motivated | 有动机的；主动的 | "Yet Presley was suddenly motivated to carry out the swirl." |
 | baseline | 基线；实验前的基础状态 | "First, we already had baseline data on him, in the form of a video record of his behaviors in the presence and absence of a mirror." |
-| sham | 假的；假处理的 | "This involved taking the nontoxic dye out of the marker, replacing it with water, and then touching the dolphin on a part of his body he couldn't normally see as if we had truly marked him." |
+| sham | 假的；假处理的 | "First, before we actually put a mark on either animal, we did sham marking." |
 | rating | 评分；评定 | "As raters, we were unaware of whether each dolphin had been marked in any particular video segment being observed. We were "blind" to the condition we were rating." |
 | proficient | 熟练的；精通的 | "When the dolphin became proficient at this, we'd put the suction cup on his forehead, where it would be invisible to him—unless he used a mirror." |
 | marked | 被标记的 | "We also predicted that when marked after a feeding session, the dolphin would move to the mirror more quickly to check himself out than when he was not marked after a feeding session." |

@@ -173,7 +173,7 @@ source_text: ch11
 
 **句子结构**：第一句是 If we lived... and we were deciding... 的假设条件，主句 I would be among... saying no；第二句 But we don't live in that world 用省略了 if 的现实陈述转折。
 
-**关键词**：`weren't a single dolphin`、`deciding if we should have`、`saying no`、`we don't live in that world`
+**关键词**：`wasn't a single dolphin`、`deciding if we should have`、`saying no`、`we don't live in that world`
 
 **表达方式**：先设置一个没有既有圈养动物的反事实实验，再用 But 把现实约束拉回，拒绝用抽象的乌托邦立场逃避当前选择。
 
@@ -197,7 +197,7 @@ source_text: ch11
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| Ladder of Nature | 自然阶梯；人类高于动物的精神等级观 | "This is not so unlike Aristotle's placement of humans, alone, at the top of the Ladder of Life—alone." |
+| Ladder of Nature | 自然阶梯；人类高于动物的精神等级观 | "I start the course talking about how as early as the fourth century B.C.E., Aristotle had classified the natural world and described man's relationship to other animals in his concept of the Ladder of Nature,* a Platonic version of souls in which plants were endowed with vegetative souls, responsible for reproduction and growth" |
 | vegetative souls | 营养灵魂；负责繁殖和生长 | "plants were endowed with vegetative souls, responsible for reproduction and growth" |
 | sensitive souls | 感觉灵魂；负责运动和感觉 | "animals (a class that did not include humans) had both vegetative and sensitive souls, which oversaw mobility and sensation" |
 | rational souls | 理性灵魂 | "while humans, in splendid isolation, were the sole possessors of rational souls, which endowed us alone in nature with the capacity for thought and reflection." |
@@ -249,7 +249,7 @@ source_text: ch11
 | thought | 思想；思考 | "while humans, in splendid isolation, were the sole possessors of rational souls, which endowed us alone in nature with the capacity for thought and reflection." |
 | behavior | 行为 | "When we try to interpret animal minds, animal thinking, and animal behavior, it is all too easy to use our own experience as a model." |
 | brain | 大脑 | "Human brains and the brains of other animals are built from the same components, so there is at least the possibility that the functions they support will be similar." |
-| world | 世界 | "Humans and dolphins may be among the few species that reciprocate a very special emotion, empathy." |
+| world | 世界 | "We now recognize that Homo sapiens ("wise man" or "knowing man" or "thinking man") shares the world with other creatures that think too." |
 | rescue | 救援 | "I have been involved in many rescues of dolphins, some of which have been stranded on beaches." |
 | care | 照护；关心 | "I've suggested that social groups of captive dolphins could be transfered to protected marine sanctuaries where they would be fed and cared for by trained staff." |
 

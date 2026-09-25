@@ -94,7 +94,7 @@ source_text: ch08
 
 > **原句 3:** "Yet the question of who is more or less intelligent is perhaps the wrong one to ask."
 
-**中文理解**：然而，“谁更聪明、谁较不聪明”这个问题Perhaps本身就是问错了。
+**中文理解**：然而，“谁更聪明、谁较不聪明”这个问题本身或许就问错了。
 
 **句子结构**：主句 the question of who is more or less intelligent 是介词短语；is perhaps the wrong one to ask 用系表结构作判断，Yet 把它与前面的观察转折连接起来。
 
@@ -130,7 +130,7 @@ source_text: ch08
 
 > **原句 6:** "Working with them has presented me with a gnawing concern: Would we recognize their form of intelligence, the meaning of their messages, even if it were right there in front of us?"
 
-**中文理解**：与它们合作让我产生一个挥之不去的担忧：即使它们的形式和意义就在我们眼前，我们能认出吗？
+**中文理解**：与它们合作让我产生一个挥之不去的担忧：即使它们的智能形式和消息意义就在我们眼前，我们能认出吗？
 
 **句子结构**：动名词短语 Working with them 作主语，has presented me with a gnawing concern 作谓语；冒号后的 Would we recognize... 是直接疑问句，提出研究者的认识论问题。
 
@@ -216,14 +216,14 @@ source_text: ch08
 |---|---|---|
 | sensory abilities | 感官能力 | "Ashby's definition levels the playing field and allows intelligence to be considered relative to the sensory abilities and social and environmental factors at work." |
 | evolutionary history | 演化历史 | "Every intelligent species (and others that are less well endowed mentally) will, because of its unique evolutionary history, possess special abilities unmatched by other similarly intelligent species." |
-| cognitive level | 认知水平 | "Being able to respond appropriately to arbitrary hand gestures and being sensitive to "word" order, as dolphins are in Lou Herman's facility in Hawaii, is of the same intellectual level (see next chapter)." |
+| intellectual level | 智力水平 | "Being able to respond appropriately to arbitrary hand gestures and being sensitive to "word" order, as dolphins are in Lou Herman's facility in Hawaii, is of the same intellectual level (see next chapter)." |
 | problem solving | 解决问题 | ""problem solving" is largely, perhaps entirely, a matter of appropriate selection." |
 | arbitrary symbols | 任意符号 | "As we know now, they have the ability to learn arbitrary symbols and use them appropriately in relation to specific objects." |
 | reproductive success | 繁殖成功 | "The organizing principle of chimpanzee society, indeed of all animal societies, is reproductive success." |
 | alliance | 联盟；合作关系 | "Dolphins form close and long-lasting bonds with one another that can last lifetimes, and they often interact collaboratively and cooperatively in alliances in their myriad of foraging strategies, in mating, and in the rearing of young." |
 | empathy | 同理心；对他者感受的体会 | "Even the specific types of cells found in brains may provide clues about intelligence. Von Economo neurons (VENs) are specialized, elongated spindle-shaped cells that are found in specific parts of the human brain and are thought by some to be linked to social cognition, empathy, emotion, theory of mind, and "gut" feelings." |
 | self-awareness | 自我意识 | "Where does self-awareness, or consciousness, fit into this hypothesis?" |
-| neural | 神经的 | "But an additional factor to consider is the size of the neurons themselves in different brains." |
+| neural | 神经的 | "In an adult human, the three pounds of gray and other neural matter in the head represents less than 2 percent of total body weight, yet it consumes about 18 percent of the body's energy budget." |
 
 ### ⭐ 基础
 
@@ -232,12 +232,12 @@ source_text: ch08
 | dolphin | 海豚 | "Dolphins are a large-brained, highly gregarious species whose body form and sensory systems have been exquisitely shaped for life in the seas by millions of years of evolutionary selection." |
 | brain | 大脑 | "The bottlenose dolphin—Pan and Delphi's species—has a brain that weighs about seventeen hundred grams; the human brain weighs about thirteen hundred grams, so the dolphin brain is about 30 percent larger." |
 | species | 物种 | "Even the smartest of species with the cleverest of brains often operate on cognitive autopilot, deftly navigating the daily practicalities of subsistence and social interaction while beyond the realm of awareness." |
-| behavior | 行为 | "The dolphin literature is full of instances where these animals perform tasks that require not only motivation and attention but also complex problem solving and creative intelligence." |
+| behavior | 行为 | "Brain size has been linked to intelligence because in mammals and birds, those species with the largest brains show the greatest range and versatility in behavior." |
 | clever | 聪明的；灵巧的 | "Dolphins are very clever at locating and capturing schools of fish." |
-| social | 社会的；群体性的 | "Dolphins are a large-brained, highly gregarious species whose body form and sensory systems have been exquisitely shaped for life in the seas by millions of years of evolutionary selection." |
+| social | 社会的；群体性的 | "What may be meaningful to dolphins, so important to them in complex sea-based social networks, may be so alien to us that we can't even conceive of it." |
 | sea | 海；海域 | "Dolphins are a large-brained, highly gregarious species whose body form and sensory systems have been exquisitely shaped for life in the seas by millions of years of evolutionary selection." |
 | mirror | 镜子 | "Whatever the answer, long-held assumptions about a revered function of the human brain have been shattered by watching dolphins in the mirror." |
-| mind | 心智；头脑 | "Dolphins and great apes last shared a common ancestor thirty million years before dinosaurs became extinct." |
+| mind | 心智；头脑 | "In other words, what is it like in the mind of a dolphin?" |
 
 ## 一句话总结
 

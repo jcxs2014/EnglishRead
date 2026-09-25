@@ -232,7 +232,7 @@ source_text: ch09
 |---|---|---|
 | dolphin | 海豚 | "Dolphins learn through imitation in a social context, and this was a wonderful example." |
 | behavior | 行为 | "The behaviors I am describing here are what we would call empathy or, more simply, caregiving, and dolphin lore is replete with such tales." |
-| object | 物体 | "A boat buoy in the shape of a fish, for example." |
+| object | 物体 | "A trainer would sometimes ask one of the dolphins to fetch a novel object and do something with it, and the trainer would use a symbol for the object that the dolphin had not yet learned." |
 | sound | 声音 | "While humans are primarily visual creatures, dolphins experience their world primarily through sound, through their exquisite echolocation system." |
 | symbol | 符号 | "The Kewalo dolphins quickly grasped not only the meaning of the symbols (for hoop, ball, fetch, and so on, which can be thought of as the semantics of the language) but also the meaning of the word order (the syntax)." |
 | trainer | 训练员 | "When a trainer gave her the "hooray" signal, both arms stretched up vertically, Elele would leap into the air, squeaking and clicking with delight." |

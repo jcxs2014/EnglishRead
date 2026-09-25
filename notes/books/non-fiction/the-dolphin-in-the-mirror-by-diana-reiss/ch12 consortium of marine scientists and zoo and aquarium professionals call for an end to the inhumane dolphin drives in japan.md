@@ -89,7 +89,7 @@ source_text: ch12
 
 **表达方式**：用 During the hunts 定位时间，用 herd、banging、create 三个动作串起“驱赶—工具—结果”，将复杂机制压缩成一条因果链。
 
-**为什么这样写**：驱猎争论容易被抽象为“捕杀海豚”，这句把捕杀还原成可观察的围捕技术。sound barrier 这个科学化名称还把人为伤害包装成技术流程，强化其非人道性。
+**为什么这样写**：驱猎争论容易被抽象为“捕杀海豚”，这句把捕杀还原成可观察的围捕技术。sonic barrier 这个科学化名称还把人为伤害包装成技术流程，强化其非人道性。
 
 > **原句 3:** "Once there, the dolphins are corralled into nets and then speared, hooked, hoisted into the air by their tails by cranes in a manner that is inhumane by any standard."
 

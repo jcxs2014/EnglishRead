@@ -214,7 +214,7 @@ source_text: ch03
 | tactile | 触觉的；触摸的 | "Dolphin social behavior frequently involves tactile interactions such as pectoral-fin rubbing, pectoral-to-pectoral fin contact while swimming (it looks like handholding!), and body rubbing." |
 | visceral | 发自内脏的；强烈而直接的 | "Despite this visceral connection, people recognize how different humans are from dolphins in physical form and, of course, in aquatic abilities." |
 | rudimentary | 初步的；简陋的 | "After this, I would provide the dolphin with a free-choice situation, a rudimentary keyboard of sorts, that would display the three visual symbols that had been associated with the different toys in the previous experiment." |
-| discrimination | 辨别；区分 | "So my first experiment was to investigate whether dolphins could visually discriminate one three-dimensional white geometric form on a black background from another when the forms were presented to them above the water's surface." |
+| discrimination | 辨别；区分 | "A second experiment tested whether dolphins could learn conditional discrimination, which, simply put, meant seeing if they could learn to associate a specific visual symbol with a specific toy (say, a ball or ring)." |
 | conditional | 有条件的；条件性的 | "A second experiment tested whether dolphins could learn conditional discrimination, which, simply put, meant seeing if they could learn to associate a specific visual symbol with a specific toy (say, a ball or ring)." |
 | synchrony | 同步；协调一致 | "So we communicate—it is a matter of developing a synchrony of behavior between two or more participants." |
 | tenets | 基本原则；信条 | "There are two basic tenets of communication theory: First, meaningful communication develops through social interactions." |
@@ -225,8 +225,8 @@ source_text: ch03
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | dolphin | 海豚 | "My recently formulated life's goal was not modest: I wanted to understand the dolphin mind and learn how these highly social animals communicated." |
-| object | 物体；对象 | "I first taught her that she could obtain a toy by simply touching it when I presented it to her at the side of the pool." |
-| behavior | 行为 | "During that first week of quiet observation and the subsequent weeks of more directed study, I noticed how very social the dolphins were, not just with each other but also with me." |
+| object | 物体；对象 | "The low-frequency clicks are longer wavelengths; they travel farther and give the dolphin a general overview of an object." |
+| behavior | 行为 | "During that first day I sat by the edge of the lagoon, quietly observing their behavior, and that night I could hear their breathing— chuff—as from time to time they broke the water's surface and exhaled and inhaled through the blowholes on the tops of their heads." |
 | sound | 声音 | "The numbers here are impressive. Dolphins can produce from as few as eight clicks a second, which sounds like a creaking door, to as many as two thousand clicks a second, which sounds like a high-pitched buzz." |
 | sleep | 睡眠 | "All mammals sleep, and dolphins are no exception." |
 | pattern | 模式；规律 | "The pattern that connects; the recognition of familiarity." |
