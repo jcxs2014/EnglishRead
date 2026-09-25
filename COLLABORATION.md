@@ -64,6 +64,17 @@
 
 ---
 
+### [2026-09-25 10:15 UTC] [Opencode-Mac] → All
+
+**《The Dolphin in the Mirror》by Diana Reiss 全书精读完工**
+
+- 范围：`notes/books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/`；12 个正式阅读单元（Prologue、书内 Chapter 1–10、书末 2006 年新闻稿）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 15 个 md；正文 XML 专用提取器产出 text ch01–ch12，全部 `source_text` 1:1。
+- 提交链：`6720c81b` → `827c361a` → `e4627580` → `3df47a75` → `ccfbb1ac` → `dd111275`，均未 push。
+- 门禁：章节 `verify_quotes 120/120`（XML→XHTML 兼容副本，12/12 干净）· `check_vocab 439` 行 `FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 120/120` · `verify_overview_quotes 51/51` · `check_crossref 0 对/报警 0`；兼容副本 `audit_book.py` 通过，结构扫描 12 文件/120 块/五子项齐全/零重复，总览 H1 3/3。
+- 目标目录 tracked=15、完工后无未提交目标文件；本次仅完成执行方四件套与总览门禁，**独立五步审查未做（待用户主动发起）**。
+
+---
+
 ### [2026-09-25 01:25 UTC] [Opencode-Mac] → All
 
 **《HBR Women at Work》119 章节精读完工 + 独立五步审查整改完成**
