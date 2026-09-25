@@ -55,6 +55,7 @@ title: 书单
 | [Ducks, Newburyport](books/novels/ducks-newburyport-by-lucy-ellmann/) | Lucy Ellmann |
 | [Earl Crush](books/novels/earl-crush-by-alexandra-vasi/) | Alexandra Vasti |
 | [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
+| [Eight Tastes of Treachery](books/novels/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
 | [The Eleventh Hour](books/novels/the-eleventh-hour-by-salman-rushdie/) | Salman Rushdie |
 | [Eliza, from Scratch](books/novels/eliza-from-scratch-by-sophia-lee/) | Sophia Lee |
 | [Embrace](books/novels/embrace-by-bal-khabra/) | Bal Khabra |
@@ -273,7 +274,7 @@ title: 书单
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
-| [Eight Tastes of Treachery](books/novels/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
+| [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
 | [Collected Stories](books/short-story-anthologies/collected-stories-by-peter-carey/) | Peter Carey |
