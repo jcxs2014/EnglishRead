@@ -285,6 +285,7 @@ modified: "2026-09-25"
 | clamber | 攀爬 | was obliged to clamber through the second |
 | thicket | 灌木丛 | It was while she was holding the thicket back for me that I realized it was not a bush at all |
 | skulking | 鬼鬼祟祟地走 | We can't keep skulking around here. |
+| bristling | 竖满、长满 | bristling with pale mushrooms |
 | reproach | 责备 | an unintelligible bolt of reproach from a low female voice |
 
 ### ⭐ 基础
@@ -294,7 +295,6 @@ modified: "2026-09-25"
 | conceal | 藏起来 | we had concealed ourselves in the basement bicycle room |
 | stakeout | 埋伏 | she'd been wrong about where to position our stakeout |
 | twinge | 一阵（抽痛） | an odd twinge of territoriality |
-| bristling | 竖满、长满 | bristling with pale mushrooms |
 
 ## 一句话总结
 
