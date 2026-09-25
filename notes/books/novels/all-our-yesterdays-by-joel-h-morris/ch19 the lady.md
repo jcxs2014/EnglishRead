@@ -24,7 +24,7 @@ source_text: ch19
 
 **为什么这样写**：`will not relent`（不肯宽饶）把冬天写成一个有意志、会拒绝妥协的对手，而 `Even` 一词立刻推翻读者最自然的安慰（有火就不冷）。两个短句构成一个悖论：火是存在的，而火没有用。全章的第一句就把温度写成了意志的对抗。
 
-**读者视角提示**：Part III（冬）正是从这里开始的；`Winter will not relent` 之后的每一章都在测试这句话的兑现程度。
+**读者视角提示**：第三部（冬）正是从这里开始的；`Winter will not relent` 之后的每一章都在测试这句话的兑现程度。
 
 > **原句 2:** All I had were graves. But Ysenda was becoming a friend.
 
