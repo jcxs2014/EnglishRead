@@ -41,16 +41,26 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-25 00:15 UTC] [ZCode-Mac] → All
+### [2026-09-25 03:01 UTC] [ZCode-Mac] → All
 
-**《Living on Paper: Letters from Iris Murdoch 1934–1995》书信集全书精读完工**
+**《Living on Paper: Letters from Iris Murdoch 1934–1995》书信集全书精读完工 + 独立五步审查通过**
 
 - 目录：`notes/books/non-fiction/living-on-paper-by-iris-murdoch/`；书信集（非虚构），**书信适配·选择性精读格式**（用户拍板）：21 正单元（ch01 编者导言 + ch02–ch21 按年份段覆盖 8 Part / 759 封信）+ 总览三篇 = 24 md；md chNN 与 text 1:1 零偏移，frontmatter 均写 source_text。
 - 提交链（10 commits，均未 push）：ch01 试产 `4c589364` → 批1–批7 → 总览三篇 `3e11387e` → ch12 子项修复 `c6aa6e94`。
 - 提取要点：epub 导航错标 Part Four/Six 为 "Plate 1/2"（实为正文）已按内容修正；书专用拆分器（HTML 斜体导语锚点 + 年份段打包，attic 不入库）产出 21 单元；epub 源缺陷备案——20+ 处信尾署名 "Iris" 被分页劈成孤立 "I"，精读未引用残句。
 - 门禁终态：verify_quotes **209/209**（21/21 干净；1 条短引语 19 flat 字符人工 grep 兜底）· check_vocab **471 词条 FAIL0/WARN0** · check_entities **0** · check_chapter_quotes **209/209** 归属全对 · 总览自备 flat 脚本 **52 条引语 BOOK-MISS 0** + 金句 28/节点 15 章节标签对账 0 mismatch · 五子项 21 文件满配 · H1 校验 3/3。
 - 过程坑已入 daily 日志：脚注号粘连引语中段 9 例（省略号规避）、check_vocab 基础档 ≥9 字符启发式 7 词、内联 Gate 拦截一次跨章例句污染、verify_overview_quotes 对 bullet 格式提取 0 条由自备脚本兜底、audit_book C 节本书格式已知误报。
-- 状态：工作树干净；**五步审查未做（待用户发起）**。
+- 状态：工作树干净。
+- **独立五步审查已完成（2026-09-25 00:35 UTC 前后，用户同会话发起，a–e 完整执行）**：
+  - a 三件套重跑：verify 209/209（21/21 干净；短引语 "Our liberty is fragile" 19 flat 人工 grep 命中 ch19）· vocab 471 词条 FAIL0/WARN0 · entities 0；
+  - b 逐章归属：check_chapter_quotes 209/209 全部命中本章；
+  - c 结构扫描（行首引语块新口径）：210 块编号连续/单引语行/零重复块/零孤儿块/五子项齐全且顺序正常；check_crossref 0 对报警 0；
+  - d 语义二审：主会话**整行连续 sweep** 210 块抓出 3 处 52 字符指纹盲区（ch06 Ideen44 / ch10 novel21 脚注粘连、ch14 两个 However 句中段 4 句无声省略）+ 1 处无支撑月份断言（郭尼埃"1976 年 10 月"→原文仅 died in 1976），均已修（f0ffe28d）；三路子代理逐对核对 210 块（附 3 个本库失败案例+防幻觉条款），确认 30 处分析层缺陷全修复（206b1152）：时序断言 9（"一个月前"→5个月、"两年后"→9年、"下一封信"→同信上一段、"十四个月"→约两年、"五个月"→数日/一年、查泰莱"三年后"→判决在前等）、对象错置 3（邓颖超→邓小平、德里达 mystagogue"同信"→致 Dunbar 信、ch19 ③"同上信"→1988-05 信）、方向反置 2（UGC 废立、ch14 复联主动方）、混信污染 2（ch18 伊斯兰句出自 1979 信、ch21 遗孀→鳏夫利维）、人名/年份 5（Mary Levey→Michael、1943→1944、1987→1970、53岁→51岁、布鲁塞尔）+ 译误 1（outgrown"长出了"→"长过了"）等；假阳性裁决 2 条（"露西"=Sister Marian 俗名 Lucy Klatschko 不改；"31 年"以 1944-06 处决年计正确不改）；
+  - e 总览核对：自备 flat 脚本 52 条引语 BOOK-MISS 0 + 金句 28/节点 15 章节标签对账 0 mismatch（修复后复跑同绿）；金句①②说话人 ±200 字符窗口核验正确；概述行内引语全命中；
+  - 整改后全门禁复跑：verify 209/209 · vocab F0W0 · entities 0 · chapter_quotes 209/209 · sweep 210/210 · crossref 0 · 总览 52/52 · 结构 210 块 0 问题。
+- 提交链补：审查整改 3 commits（f0ffe28d / 206b1152 / 本条目更新），本书共 13 commits 未 push。
+- 同会话审查已知局限：全书统一口径的系统性误判（如对默多克信件语气的统一理解偏差）同一模型无法自查；语义二审子代理与前批同源，建议如需更强独立性另派异实例复核。
+- **五步审查：已完成（用户同会话发起）**。
 
 ---
 
