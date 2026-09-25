@@ -211,6 +211,7 @@ modified: "2026-09-25"
 | votive | 还愿蜡烛 | setting votives between empty chafing dishes on the long tables |
 | chafing dish | 保温餐盘 | setting votives between empty chafing dishes |
 | frock | 罩衫、长袍 | She was dressed in a shapeless gray frock |
+| champagne saber | 用剑劈开香槟（侍者用） | I had just delivered a champagne saber to the headwaiter |
 
 ### ⭐ 基础
 
@@ -221,7 +222,6 @@ modified: "2026-09-25"
 | caviar | 鱼子酱 | "That's caviar," I said. "Apparently." |
 | sylvan | 森林的、林木的 | most of the progress on South Falls Island has been sylvan in nature |
 | brambles | 荆棘 | It's all woods and brambles. |
-| champagne saber | 用剑劈开香槟（侍者用） | I had just delivered a champagne saber to the headwaiter |
 | ambush | 伏击、突袭 | "It's an ambush." A man's voice. |
 
 ## 一句话总结
