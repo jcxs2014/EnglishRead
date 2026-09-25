@@ -23,7 +23,7 @@ source_text: ch11
 2. **处方与辩护**：找爱好——不是玩笑：爱好只生产快乐。
 3. **词源**：hobby←hobbyhorse（木马）——"哪里也去不了的活动"。
 4. **严格定义**：不产技能/资本/照片/健康——atelic，无 telos。
-5. **豁免失败**：爱好者给自己 widest permission for failure；可以烂得很快乐。
+5. **豁免失败**：爱好者给自己 broadest permission for failure；可以烂得很快乐。
 6. **父亲的长号**：六十年、不胜任、毫不在乎——词条的活标本。
 7. **文化诊断**：Burkeman——工具化时代，爱好者是 subversive。
 8. **self-care 解剖**：被营销收编的"保养"逻辑；Nietzsche 预言"喜悦羞于自称喜悦"。
@@ -75,7 +75,7 @@ source_text: ch11
 
 **关键词**：`not facetious advice`、`serve no purpose other than`、`making the person who performs them happy`
 
-**表达方式**：no purpose other than 把"无用"写成爱好的功能——修辞上的悖论直指词条核心；performers（表演者）一词暗示：爱好者在别人眼里像在做"无用表演"。
+**表达方式**：no purpose other than 把"无用"写成爱好的功能——修辞上的悖论直指词条核心；the person who performs them 的动词选择暗示：爱好者在别人眼里像在做"无用表演"。
 
 **为什么这样写**：作者预判读者会笑（"找爱好"听着像失恋朋友的敷衍），于是先自我辩护再展开定义——论证顺序服务于说服的防区。
 
@@ -161,7 +161,7 @@ source_text: ch11
 
 **表达方式**：岩浆地板是孩子的游戏（the floor is lava），用虚拟语气把自我贬低变成游戏重演；geriatric（老年病的）用临床词自嘲，幽默削减了羞耻。
 
-**为什么这样写**：作者以自己的零天赋示范"widest permission for failure"：词条理论（爱好豁免失败）在自传细节里被兑现——幽默本身就是不道歉的语气。
+**为什么这样写**：作者以自己的零天赋示范"broadest permission for failure"：词条理论（爱好豁免失败）在自传细节里被兑现——幽默本身就是不道歉的语气。
 
 > **原句 10:** "Our uncaged spirit knows where to find it, amongst the garbage and the flowers, in poems and in songs."
 
@@ -186,7 +186,7 @@ source_text: ch11
 | zest | 热情；兴致 | "engaged, connected and full of zest" |
 | facetious | 轻佻的；玩笑口气的 | "This is not facetious advice for the following reasons: hobbies serve no purpose other than making the person who performs them happy." |
 | unapologetically | 毫无歉意地；理直气壮地 | "Like child’s play, they are unapologetically non-instrumental activities." |
-| monetised | 被变现 | "Like child’s play, they are unapologetically non-instrumental activities." |
+| monetised | 被变现 | "They cannot be monetised nor utilised." |
 | barren flatlands | 贫瘠的平原（枯竭之地） | "And it is precisely because they ‘don’t go anywhere’ that hobbies can lead us out of the barren flatlands of our exhaustion." |
 | utilitarian | 功利主义的 | "Hobbies, by their very nature, challenge utilitarian beliefs." |
 | atelic activities | 无目的（无 telos）的活动 | "They are atelic activities – activities without telos, an ultimate aim." |
@@ -196,7 +196,7 @@ source_text: ch11
 | frugal | 节俭的；吝啬的 | "How frugal our educated people … have become regarding ‘joy’!" |
 | recuperate | 恢复；休养 | "the desire for joy already calls itself a ‘need to recuperate’ and is becoming ashamed of itself." |
 | co-opted | 被收编；被征用 | "immune to being co-opted in our quest" |
-| dwindling | 逐渐减少的 | "They are radically purposeless, immune to being co-opted in our quest" |
+| dwindling | 逐渐减少的 | "recharging our dwindling energy resources." |
 | futility | 徒劳；无用 | "True hobbyists embrace futility, indulging in the wonderfully pointless: they construct ships in bottles or model aeroplanes that can’t fly." |
 | meanders | 蜿蜒（meander 的第三人称单数） | "I run along the river that meanders through Canterbury, or in the nearby woods, across fields and meadows, or up the steep hill from where our university looks down on the city." |
 | murmurings | 低吟；潺潺声 | "murmurings of the waters of the Stour." |
@@ -213,7 +213,7 @@ source_text: ch11
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | dulled | 变迟钝的 | "With our senses dulled and emotions numbed, everything can appear to be drained of colour, as though someone has activated a cosmic greyscale filter." |
-| utilised | 被利用 | "Like child’s play, they are unapologetically non-instrumental activities." |
+| utilised | 被利用 | "They cannot be monetised nor utilised." |
 | wrestle with | 与……搏斗 | "just another arena in which we wrestle with our perfectionism" |
 | battered | 破旧的；被敲打的 | "Nobody had picked the battered brass trombone, so my father did." |
 | cylindrical | 圆柱形的 | "Its long cylindrical metal tube with two turns and a bell, its movable slides, complicated valve system and cup-shaped mouthpiece, which requires trembling lips to create a decent sound, are incredibly difficult to master for those of average musical ability." |

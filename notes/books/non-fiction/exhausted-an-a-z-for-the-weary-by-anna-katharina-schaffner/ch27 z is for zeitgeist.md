@@ -158,11 +158,11 @@ source_text: ch27
 
 **中文理解**：因此，我们需要崭新的、诱人的故事与隐喻——还有诗、哲学、艺术与歌。
 
-**句子结构**：need + 双形容词修饰的宾语（stories and metaphors）+ as well as 五连文化品类清单。
+**句子结构**：need + 双形容词修饰的宾语（stories and metaphors）+ as well as 四项文化品类清单。
 
 **关键词**：`new and seductive stories and metaphors`、`poetry, philosophy, art and song`
 
-**表达方式**：seductive 的选词大胆——对"知行鸿沟"，处方不是更强的论证而是更有魅力的诱惑；五连清单恰好是本书自己的目录（A–Z 正是用文学哲学艺术歌写成的自助）。
+**表达方式**：seductive 的选词大胆——对"知行鸿沟"，处方不是更强的论证而是更有魅力的诱惑；四项清单恰好是本书自己的目录（A–Z 正是用文学哲学艺术歌写成的自助）。
 
 **为什么这样写**：修辞学处方（logos/pathos/ethos）的落地句：它同时是作者的自我陈述——这本 A–Z 就是"新故事与隐喻"的实践。处方与书在句中互为证据。
 

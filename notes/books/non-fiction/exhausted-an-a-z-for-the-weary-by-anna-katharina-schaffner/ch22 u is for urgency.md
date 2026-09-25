@@ -77,7 +77,7 @@ source_text: ch22
 
 **关键词**：`part of our culture`、`very rarely a response`、`actual emergencies`
 
-**表达方式**：urgency/emergency 的同源词拆字是句子的巧劲：紧急感（urgency）本该是紧急事（emergency）的影子，如今影子自己上了街——词源学完成社会诊断。
+**表达方式**：urgency/emergency 的词形呼应是句子的巧劲：紧急感（urgency）本该是紧急事（emergency）的影子，如今影子自己上了街——词源学完成社会诊断。
 
 **为什么这样写**：这是词条的中心区分：作为文化的紧迫感 vs 作为反应的紧迫感——为后文"真紧急被拖延"（气候）与"假紧急被追捧"（邮件）的对照表立好两栏。
 
@@ -133,7 +133,7 @@ source_text: ch22
 
 **中文理解**：我担心有一天我会搞不定，然后正式沦为恐龙——跌跌撞撞走进阶梯教室，怀里只抱着一沓写在发黄纸张上的手写讲义，连那套复杂至极的灯光系统都打不开。
 
-**句子结构**：worried that + 双并列宾语从句（wouldn't manage / would become）+ stumbling/clutching/unable to 三个分词与形容词短语的开路队形。
+**句子结构**：worried that + 宾语从句内两个并列谓语（wouldn't manage / would become）+ stumbling/clutching/unable to 三个分词与形容词短语的开路队形。
 
 **关键词**：`officially become a dinosaur`、`stumbling into the lecture theatre`、`clutching nothing but an armful of handwritten notes`、`the hyper-complex lighting system`
 
@@ -145,7 +145,7 @@ source_text: ch22
 
 **中文理解**：她指出，来访者们的各种"高速生活"形式，"发挥着某种情绪回避的功能"。
 
-**句子结构**：主系表 + 插入语 she says + 引语作表语。
+**句子结构**：主语 + 现在进行时谓语 are...serving + 插入语 she says + 引语补足内容。
 
 **关键词**：`‘high-speed living’`、`serving as some kind of emotional avoidance`
 
@@ -221,7 +221,7 @@ source_text: ch22
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | hoovers | 吸尘器（英式） | "The Silent Generation, Boomers and Gen Xers had to learn how to board planes, use hoovers, microwaves, computers, mobile phones, WhatsApp and Zoom" |
-| upskill | 提升技能 | "if we don’t constantly upskill and upgrade, our expertise can become obsolete very quickly" |
+| upskill | 提升技能 | "if we don’t constantly upskill and upgrade" |
 | technophobe | 技术恐惧者 | "I’m no technophobe, and not yet that old, but at the beginning of each academic year I spent a few panicky days trying to figure out how to use constantly changing software" |
 | armful | 一抱之量 | "clutching nothing but an armful of handwritten notes on yellowing paper" |
 | commuting | 通勤 | "we now spend more time commuting to ever more remote workplaces" |

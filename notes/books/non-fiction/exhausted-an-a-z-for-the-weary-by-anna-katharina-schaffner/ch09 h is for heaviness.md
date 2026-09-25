@@ -70,7 +70,7 @@ source_text: ch09
 
 **中文理解**：它诱使我们把内在生活想成被硬接线、程序设定、故障、过载、耗尽的电池、开关和恶意软件所决定的东西。
 
-**句子结构**：encourage sb to think of A as being determined by... + 七个并列名词的单列清单（hard-wiring 到 malware），无任何连接词的累积结构。
+**句子结构**：encourage sb to think of A as being determined by... + 七个并列名词的单列清单（hard-wiring 到 malware），末项以 and 收束的累积结构。
 
 **关键词**：`encourages us to think of`、`being determined by`、`hard-wiring`、`glitches, overload`、`psychological malware`
 

@@ -64,7 +64,7 @@ source_text: ch12
 
 **关键词**：`sustainable change`、`requires perseverance`、`instantaneous magical transformation`、`just that – a fantasy`
 
-**表达方式**：is just that – a fantasy 的同位语回环是修辞上的"拆穿"动作：幻想的唯一成分还是幻想。三个形容词（instantaneous/magical/transformation）堆出励志产业的卖相再一次拆掉。
+**表达方式**：is just that – a fantasy 的同位语回环是修辞上的"拆穿"动作：幻想的唯一成分还是幻想。两个形容词加一个名词（instantaneous/magical/transformation）堆出励志产业的卖相再一次拆掉。
 
 **为什么这样写**：词条第一句先排掉自助市场的主流幻觉（速效），为 kaizen 的"慢"清场——这是全书立场（无 quick-fix）在本词条的节奏学表达。
 

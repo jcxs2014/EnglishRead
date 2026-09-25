@@ -25,7 +25,7 @@ source_text: ch13
 4. **life-cost 定义**：与 cost of living 相对——所得的代价是"被交换的生命"。
 5. **翻转算法**：先定基本需求 → 算钱 → 只工作六周；日结零工保弹性。
 6. **时间即货币**：工作给绝对最少；work–life balance 的先声。
-7. **现代后裔一：自愿简朴**：Sim plicity Collective、Elgin"外简内富"；Kasser 研究证伪物质主义。
+7. **现代后裔一：自愿简朴**：Simplicity Collective、Elgin"外简内富"；Kasser 研究证伪物质主义。
 8. **现代后裔二：FIRE**：储蓄 70%、黄色标签超市、提前退休。
 9. **分野**：FIRE 彻底未来导向——简朴是手段非目的。
 10. **诚实的边界**：Thoreau 的特权身份（白/男/单身/富裕）；但只要有选择，货币是生命时间。
@@ -153,7 +153,7 @@ source_text: ch13
 
 **中文理解**：值得记住的是：Thoreau 是白人、男性、单身，而且家境优渥。
 
-**句子结构**：插入语 it is worth remembering 切开主语与表语；五个并列身份定语（white/male/single/well-off）的清单式呈现。
+**句子结构**：插入语 it is worth remembering 切开主语与表语；四个并列身份定语（white/male/single/well-off）的清单式呈现。
 
 **关键词**：`it is worth remembering`、`white, male and single`、`a well-off family`
 
@@ -169,7 +169,7 @@ source_text: ch13
 
 **关键词**：`the currency with which we pay`、`life time`、`could spend in other ways`、`the things that truly matter to us`
 
-**表达方式**：could spend 的虚拟语气是全词条最后的心跳：不是"不能"而是"本可以"——机会成本的语法形式。truly matter 呼应词条第 2 句的 reconnect with what truly matters。
+**表达方式**：could spend 的虚拟语气是全词条最后的心跳：不是"不能"而是"本可以"——机会成本的语法形式。truly matter 呼应 ch12 开篇的 reconnect with what we value and what truly matters to us。
 
 **为什么这样写**：结尾没有号召搬去森林，只留下一个记账请求：把生命时间写进你的成本表——词条在承认结构约束后，把 Thoreau 的遗产压缩成一种人人可用的复式记账法。
 

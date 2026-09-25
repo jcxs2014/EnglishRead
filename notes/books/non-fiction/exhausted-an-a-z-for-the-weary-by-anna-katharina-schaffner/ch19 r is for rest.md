@@ -130,7 +130,7 @@ source_text: ch19
 
 **为什么这样写**：与上一句的"shared rhythm"直接对撞：现代性不是取消了休息，而是取消了"同步"——每个人的休息互相错开，于是谁也得不到集体停摆的保护。
 
-> **原句 7:** "Well-placed pauses can be pregnant with meaning, and in music it is the pause which它与休止——需要说 no。"
+> **原句 7:** "Well-placed pauses can be pregnant with meaning, and in music it is the pause which lends pieces their shape and beauty."
 
 **中文理解**：位置得当的停顿可以满载意义；在音乐中，正是休止赋予了乐句形状与美。
 
@@ -170,7 +170,7 @@ source_text: ch19
 
 **中文理解**：不过往好处想：刷剧总比躺着灌下几品脱牛奶、就着大量羊排、无聊至死——还被绑在床上——要强一些。
 
-**句子结构**：On the bright side 让步转折 + may be preferable to 比较 + 三个平行动名词（washing.../dying.../lie tied down）堆出荒诞清单。
+**句子结构**：On the bright side 让步转折 + may be preferable to 比较 + 两个动名词加一个 as 从句（washing.../dying.../as we lie tied down）堆出荒诞清单。
 
 **关键词**：`On the bright side`、`binge-watching series`、`washing copious amounts of mutton chops down with pints of milk`、`tied down to a bed`
 

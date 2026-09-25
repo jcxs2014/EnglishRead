@@ -161,7 +161,7 @@ source_text: ch10
 
 **关键词**：`a massive difference`、`thinking that we are unlovable`、`our inner critic is telling us that`
 
-**表达方式**：A/B 两半只差五个词（our inner critic is telling us that），句子用近乎复制的排比让"差异"自己显形——认知融合与解融合的分界线被语法画出。
+**表达方式**：A/B 两半只差七个词（our inner critic is telling us that），句子用近乎复制的排比让"差异"自己显形——认知融合与解融合的分界线被语法画出。
 
 **为什么这样写**：这是 ACT 解融合的教科书演示：同一负面内容，加上一个"它正在说"的外框，就从事实降级为广播。词条的处方部分用句法本身完成了示范。
 

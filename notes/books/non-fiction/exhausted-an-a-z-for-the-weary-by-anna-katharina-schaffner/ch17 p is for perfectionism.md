@@ -214,7 +214,7 @@ source_text: ch17
 | perfectionist strivings | 完美主义追求（健康侧） | "Perfectionist strivings, by contrast, are associated mainly with positives, including conscientiousness, problem-solving and enjoyable emotions." |
 | perfectionist concerns | 完美主义担忧（毒性侧） | "Stoeber and Damian understand perfectionist concerns broadly as negative assessments of our own performance – the inner judgements we make after we have completed a task." |
 | neuroticism | 神经质 | "Perfectionist concerns about our own performance are typically associated with neuroticism, avoidance behaviour and negative feelings and thoughts." |
-| evaluative | 评判性的 | "But perfectionism is not only an individual ailment. It is also a consequence of a wider cultural malaise." |
+| evaluative | 评判性的 | "There are five key reasons why perfectionism of the evaluative kind is dangerous and can make us ill." |
 | armchair perfectionists | 扶手椅完美主义者（只说不练） | "We may become endlessly procrastinating armchair perfectionists" |
 | grandfather | 祖父 | "But my grandfather just could not bring himself to let go of any of his pieces until his inner perfectionist was satisfied." |
 | carpenter | 木匠 | "My grandfather was a carpenter." |

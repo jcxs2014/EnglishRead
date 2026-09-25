@@ -122,7 +122,7 @@ source_text: ch26
 
 **关键词**：`golden pill`、`draw out phlegm, blood and black bile`、`sharpen and illuminate the spirit`
 
-**表达方式**：draw out（抽出）的管道意象 + illuminate（照亮）的光学意象——药丸被赋予 plumbing 与 lighting 的双重职能；sharpen/illuminate 的头韵让广告词穿越五百年。
+**表达方式**：draw out（抽出）的管道意象 + illuminate（照亮）的光学意象——药丸被赋予“抽排”与“照明”的双重职能；sharpen/illuminate 的头韵让广告词穿越五百年。
 
 **为什么这样写**：引完配方（真金箔+香料+纯酒）后用这句功能陈述收拢：荒诞的药丸有严肃的愿望——炼金术的真正目标从来是"灰暗自我的点金术"，与今日倦怠研究同梦。
 

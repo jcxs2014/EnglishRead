@@ -12,7 +12,7 @@ source_text: ch15
 - **作者**：Anna Katharina Schaffner
 - **体裁**：非虚构论述（心理自助/文化史）；A–Z 词条
 - **章节定位**：全书概念史总纲——把 D（acedia）与 M（时代焦虑）的线索收拢成"叙事决定归因"的理论
-- **字符数**：约 12,972 字符；约 18 个实质段落 + Cassian/Beard 两处引文块（全书最长词条）
+- **字符数**：约 12,972 字符；约 18 个实质段落 + Cassian/Beard 两处引文块
 - **一句话主旨**：每个时代都觉得自己最累、都怀念更轻松的过去——变的不是疲惫本身，而是我们给它讲的病因故事；忧郁症/怠惰罪/神经衰弱三个诊断依次揭示：叙事决定我们把疲惫者当天才、罪人还是社会威胁。
 
 词条以历史祛魅开题：古人同样叫累、同样怀念想象中更简单的黄金时代。三个前现代诊断依次登场：melancholia（黑胆汁过剩——燃烧的胆烟熏黑了头脑，患者透过暗色镜片看世界，却又与天才绑定回 Aristotle）；acedia（修院的"正午恶魔"——被神学定为存在性忘恩、万罪之门，Cassian 笔下的僧人症状与现代倦怠惊人相似：脑雾、逃逸幻想、暴食、恶性循环）；neurasthenia（Beard 的"神经衰弱"——大脑是电池，文明刺激耗干神经力，诊断因把精英/敏感/文明绑在一起而流行——"与其说是病不如说是头衔"）。作者从三段历史提炼三条定律：病因叙事随时代剧变、归因在身心/内外/文化技术之间摆动、叙事决定道德判断（该自责还是环境受害者）。结尾把刀递给读者：检查你自己那套疲惫叙事里的责任假设与道德审判。
@@ -112,7 +112,7 @@ source_text: ch15
 
 **关键词**：`Even worse`、`a form of existential ingratitude`、`contempt for God’s divine creation`
 
-**表达方式**：even as 的二级递进把"没劲"逐级升格成"渎神"——道德叙事的滑坡机制被语法重演；existential ingratitude 四个词把倦怠写成对存在本身的白眼。
+**表达方式**：even as 的二级递进把"没劲"逐级升格成"渎神"——道德叙事的滑坡机制被语法重演；existential ingratitude 两个词把倦怠写成对存在本身的白眼。
 
 **为什么这样写**：这是 acedia 段的道德归因顶点：与 melancholia 的身体归因对照，同一个疲惫在教会语境里成了重罪——归因决定罪责的现场演示。
 
@@ -120,7 +120,7 @@ source_text: ch15
 
 **中文理解**：从这个意义上说，他们和我们一模一样——都是疲惫的二十一世纪倦怠者，忙着一堆同样毫无产出的替代性活动。
 
-**句子结构**：破折号同位 + wearied...burnouts 核心名词 + who 定语从句（engage in a host of...）；twenty-first-century 修饰 burnouts 的时代错位修辞（放在修士身上）。
+**句子结构**：破折号同位 + weary...burnouts 核心名词 + who 定语从句（engage in a host of...）；twenty-first-century 修饰 burnouts 的时代错位修辞（放在修士身上）。
 
 **关键词**：`just like us`、`weary twenty-first-century burnouts`、`a host of similarly unproductive displacement activities`
 
@@ -130,7 +130,7 @@ source_text: ch15
 
 > **原句 7:** "Sloth was so dangerous because it could breed resentment and prove to be harmful to the social fabric."
 
-**中文理解**：怠惰之所以危险，是因为它会滋生根意，并可能被证明对社会肌体有害。
+**中文理解**：怠惰之所以危险，是因为它会滋生怨意，并可能被证明对社会肌体有害。
 
 **句子结构**：so...because... 强调因果 + breed resentment / prove to be harmful 双并列谓语 + the social fabric 织物隐喻。
 
@@ -168,7 +168,7 @@ source_text: ch15
 
 **中文理解**：那么，我们应当仔细审视自己的疲惫叙事，质询其中关于能动性与责任的隐含假设——以及这些故事通常附带的道德审判。
 
-**句子结构**：reflect on A, and question B 双并列动名词 + in the stories we tell ourselves 地点限定 + as well as C 附加宾语（moral judgements + that 定语从句）。
+**句子结构**：reflect on A, and question B 并列动词原形 + in the stories we tell ourselves 地点限定 + as well as C 附加宾语（moral judgements + that 定语从句）。
 
 **关键词**：`reflect carefully on our own exhaustion narratives`、`underlying assumptions about agency and responsibility`、`the stories we tell ourselves`、`moral judgements that tend to accompany them`
 
@@ -198,7 +198,7 @@ source_text: ch15
 | grumpy | 脾气坏的 | "Melancholics were thought to be grumpy, rude, miserable and often misanthropic." |
 | glamorised | 美化；使有魅力 | "when a bunch of rule-breaking and world-weary poets glamorised weariness in all its manifestations." |
 | recast | 重新塑造；改写角色 | "In the post-classical Christian period, melancholia was recast as acedia." |
-| listlessness | 无精打采 | "It denotes a ‘state of non-caring’ and has been described as ‘weariness of the heart’." |
+| listlessness | 无精打采 | "Acedia is derived from the ancient Greek word for indifference, listlessness or apathy." |
 | existential ingratitude | 存在性的忘恩负义 | "Even worse, acedia was understood as a form of existential ingratitude, even as contempt for God’s divine creation." |
 | malaise | 恙；不适（post-exertion malaise：劳累后不适） | "Here, Cassian describes the physical symptoms of acedia in terms of what we would now call post-exertion malaise, a bodily fatigue that is as intense as that experienced after prolonged fasting, hard labour or extended walking." |
 | battering ram | 攻城锤 | "the monk, ‘worn out by the spirit of accidie, as by some strong battering ram’, sinks into slumber or else seeks idle chit-chat with his fellow monks" |
@@ -227,7 +227,7 @@ source_text: ch15
 | imbalance | 失衡 | "In the pre-modern period, by contrast, exhaustion was understood as the result of an imbalance of the humours and as a spiritual failing." |
 | physicians | 医师 | "To re-establish harmony between these humours, physicians used interventions such as bloodletting and purging." |
 | brethren | 同胞；教友（brother 的古复数） | "sighs that none of the brethren come to see him" |
-| sin | 罪 | "Acedia was also associated with the ‘noonday demon’ who attacks when the heat is at its most oppressive." |
+| sin | 罪 | "while eighteenth-century medics deemed the ‘solitary sin’ of masturbation to be the main cause for our depleted energies." |
 | sensory overload | 感官过载 | "Beard worried that the sensitive nervous systems of men and women would simply be unable to cope with this continuous sensory overload." |
 | assaulted | 被强攻；被冲击 | "People’s senses were incessantly assaulted by noise, sights and information." |
 | relieved | 解除；免除 | "The diagnosis also relieved sufferers from personal responsibility for their exhaustion, because it was caused by factors firmly beyond their control." |

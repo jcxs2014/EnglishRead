@@ -69,7 +69,7 @@ source_text: ch25
 
 **中文理解**：客谊要求我们向陌生人敞开大门，给他们饭吃、给他们沐浴、给他们衣穿，赠以礼物，让他们恢复力气，并确保他们平安抵达下一站。
 
-**句子结构**：demands that + 虚拟语气 + 六个连续动词短语的仪式清单（throw open/feed/bathe/clothe/provide/let...make sure）。
+**句子结构**：demands that + 虚拟语气 + 七个连续动词短语的仪式清单（throw open/feed/bathe/clothe/provide/let...make sure）。
 
 **关键词**：`throw open our doors`、`feed, bathe and clothe them`、`recover their strength`、`safely to their next destination`
 
@@ -93,7 +93,7 @@ source_text: ch25
 
 **中文理解**：就像《奥德赛》里那群声名狼藉的求婚人——在奥德修斯不在家期间，他们名副其实地把他吃穷到家，吞他的牲畜、灌他的酒，还企图娶他的妻子。
 
-**句子结构**：like 明喻 + who 定语从句（eat out of house and home 习语）+ devouring/guzzling/wooing 三个现在分词的罪行清单。
+**句子结构**：like 明喻 + who 定语从句（eat out of house and home 习语）+ devouring/guzzling/seeking to woo 三个分词短语的罪行清单。
 
 **关键词**：`the infamous suitors`、`eat Odysseus out of house and home`、`devouring his livestock`、`guzzling his wine`、`woo his wife`
 
@@ -147,7 +147,7 @@ source_text: ch25
 
 **表达方式**：bearing news 的信使意象把疲惫写成"来自潜意识地域的使节"——demons 的消息不是恐惧而是情报；raging 的进行时提醒：内战仍在打，战报持续更新。
 
-**为什么这样写**：这是第三份礼物的心理学展开：耗竭的镜像功能——它把 unconscious 层的冲突（想赢vs想停、被爱vs自由）打到桌面。疲惫是症状，更是密报。
+**为什么这样写**：这是第三份礼物的心理学展开：耗竭的镜像功能——它把潜意识层的冲突（想赢vs想停、被爱vs自由）打到桌面。疲惫是症状，更是密报。
 
 > **原句 9:** "If we want to experience good feelings, such as joy, vitality, connectedness and love, we also have to make room in our lives for less desirable ones, such as sadness, shame and fear."
 

@@ -140,7 +140,7 @@ source_text: ch02
 
 **中文理解**：我对自己接纳的一切，都无法被用来反对我、贬低我。
 
-**句子结构**：Nothing 作主语（否定代词前置）；I accept about myself 是省略 that/which 的定语从句修饰 Nothing；can be used against me to diminish me 被动语态 + 不定式目的状语，me 一句三现。
+**句子结构**：Nothing 作主语（否定代词前置）；I accept about myself 是省略 that/which 的定语从句修饰 Nothing；can be used against me to diminish me 被动语态 + 不定式目的状语，me 两现、myself 一现，共三处回指。
 
 **关键词**：`Nothing I accept about myself`、`used against me`、`diminish me`
 
@@ -156,7 +156,7 @@ source_text: ch02
 
 **关键词**：`accept myself as I am`、`then I change`
 
-**表达方式**：格言式紧缩：条件（accept）与结果（change）被 when...then 铰链锁死，七个实词说完一个悖论。as I am 呼应上句 Brach 的 as it is——自我版本。
+**表达方式**：格言式紧缩：条件（accept）与结果（change）被 when...then 铰链锁死，十个词说完一个悖论。as I am 呼应上句 Brach 的 as it is——自我版本。
 
 **为什么这样写**：Rogers 的" curious paradox"被作者用作自我接纳一节的定海神针：改变的前提竟是先停止自我改造。与前句 Lorde 合看，接纳同时是防御（对外）与动力（对内）。
 

@@ -64,7 +64,7 @@ source_text: ch18
 
 **关键词**：`consider it absurd`、`look at symptoms in isolation`
 
-**表达方式**：absurd 是强词——不是"欠妥"而是"荒谬"；in isolation 的医学套语被直接审判，七个词完成两套认识论的换位。
+**表达方式**：absurd 是强词——不是"欠妥"而是"荒谬"；in isolation 的医学套语被直接审判，十个词完成两套认识论的换位。
 
 **为什么这样写**：词条第一段就把差异推到不可调和处：分科诊疗在西方是精确，在 TCM 眼里是失真——为"气"的出场制造最大反差背景。
 
@@ -78,7 +78,7 @@ source_text: ch18
 
 **表达方式**：园圃隐喻自带时间观——植物不长快，只长得稳；our patch（我们那一小片地）把责任落到具体且有限的一格，既不推诿也不夸大。
 
-**为什么这样写**：在"治未病"的总纲之后立即给出可握住的形象：园圃为全词条的"慢养"价值观提供物证，也悄悄区别于 ch17 检讨过的"完美主义花园"——这里的杂草也是生态。
+**为什么这样写**：在"治未病"的总纲之后立即给出可握住的形象：园圃为全词条的"慢养"价值观提供物证——这里的杂草也是生态。
 
 > **原句 3:** "The key strategy for restoring balance in our lives is ensuring the healthy flow of qi."
 
@@ -138,7 +138,7 @@ source_text: ch18
 
 **表达方式**：dud（哑弹/废柴）的俚俗与 acupuncture 的学术语域相撞，幽默卸下了"信不信"的紧张；虚拟语气的完成式把淘汰机制写得干脆利落。
 
-**为什么这样写**：一句话挡住最常见质疑（"不科学"）：市场演化论证——无效的东西留不下来。它继承 ch06 的实用主义（"不必相信机制"）并把它推到俏皮的极致。
+**为什么这样写**：一句话挡住最常见质疑（"不科学"）：市场演化论证——无效的东西留不下来。它把本章前文的实用主义宽容（"不必相信机制"）并把它推到俏皮的极致。
 
 > **原句 8:** "It has significantly contributed to what the sociologist Max Weber called the ‘disenchantment of the world’"
 
@@ -168,7 +168,7 @@ source_text: ch18
 
 **中文理解**：在西方的想象里，占主导的是耗尽的电池、透支的银行账户、过载或接错线的电脑。但这些机械与金融隐喻真的有帮助吗？
 
-**句子结构**：四连隐喻名词清单作主语 + tend to dominate + But 反问句收束。
+**句子结构**：三连隐喻名词清单作主语 + tend to dominate + But 反问句收束。
 
 **关键词**：`depleted batteries`、`overdrawn bank accounts`、`mis-wired computers`、`mechanistic and financial metaphors`
 

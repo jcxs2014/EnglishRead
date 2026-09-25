@@ -60,7 +60,7 @@ source_text: ch03
 
 **关键词**：`not because we are exhausted`、`our hearts are broken`、`went unrequited`、`did not love us back`
 
-**表达方式**：把倦怠从能量问题改写为爱情叙事：单恋（unrequited love）的隐喻让"付出—回报"失衡变得可感。it did not love us back 五个短词是全词条最痛的一刀。
+**表达方式**：把倦怠从能量问题改写为爱情叙事：单恋（unrequited love）的隐喻让"付出—回报"失衡变得可感。it did not love us back 六个短词是全词条最痛的一刀。
 
 **为什么这样写**：Malesic 的定义被放在概念史之后、临床定义之前——先给情感真相，再给学术框架，顺序本身就在示范本书"文学与科学混合"的方法。
 

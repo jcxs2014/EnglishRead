@@ -72,11 +72,11 @@ source_text: ch20
 
 **中文理解**：没有什么东西本来就好或不好——是思考让它如此。
 
-**句子结构**：nothing...but... 的双重否定格言结构（but 相当于 unless/except）；either...or 的对称被 but 后的思考权收束。
+**句子结构**：nothing...but... 的否定加 except 格言结构（but 相当于 unless/except）；either...or 的对称被 but 后的思考权收束。
 
 **关键词**：`nothing either good or bad`、`thinking makes it so`
 
-**表达方式**：makes it so 的航海用语（使其如此）把认知写成造物行为——事件是原料，判断是加工；九个实词承载整派哲学，格言密度极高。
+**表达方式**：makes it so 的航海用语（使其如此）把认知写成造物行为——事件是原料，判断是加工；六个实词承载整派哲学，格言密度极高。
 
 **为什么这样写**：这句（作者归于塞内加名下引用）是"判断第一性"的最短公式：放在命运学校叙事之后，它解释为什么流放与为奴都可以被重新叙述——事件不变，句子可换。
 
@@ -124,7 +124,7 @@ source_text: ch20
 
 **关键词**：`Only a madman`、`looks for figs in winter`
 
-**表达方式**：figs/winter 的物候错位就是全部论证——期待错季即疯狂；madman 的尖锐让"调整期待"从修养升格为理智底线。六个实词装下一整套关系伦理。
+**表达方式**：figs/winter 的物候错位就是全部论证——期待错季即疯狂；madman 的尖锐让"调整期待"从修养升格为理智底线。八个词装下一整套关系伦理。
 
 **为什么这样写**：Aurelius 这条格言被作者用作"期待管理"的绝杀例：向不会倾听的父母索要认可、向冷漠者索要热情，都是冬天找无花果——把抽象的期待论钉进最日常的关系场景。
 
@@ -218,8 +218,8 @@ source_text: ch20
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | steadiness within ourselves | 内在的稳定 | "steadiness within ourselves" |
-| contended | 抗争；应对（contend 的过去式） | "During his reign, the emperor Marcus Aurelius had to contend with the flooding of the Tiber, famine and the plague, as well as various attempts to usurp him." |
-| enticing | 诱人的 | "we are repelled by exertion, death, pain, disgrace and limited means" |
+| contend | 抗争；应对（had to contend with） | "During his reign, the emperor Marcus Aurelius had to contend with the flooding of the Tiber, famine and the plague, as well as various attempts to usurp him." |
+| enticing | 诱人的 | "We are attracted by wealth, pleasures, good looks, political advancement and various other welcoming and enticing prospects" |
 | repelled | 被排斥；被击退 | "we are repelled by exertion, death, pain, disgrace and limited means" |
 | exertion | 费力；辛劳 | "we are repelled by exertion, death, pain, disgrace and limited means" |
 | twisted | 被扭曲的 | "Would using our twisted reason then not be like trying to wash dishes in dirty dishwater?" |

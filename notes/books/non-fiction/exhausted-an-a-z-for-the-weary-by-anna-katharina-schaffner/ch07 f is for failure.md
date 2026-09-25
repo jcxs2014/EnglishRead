@@ -62,7 +62,7 @@ source_text: ch07
 
 **表达方式**：电报体省略主语，节奏像钉钉子；前五句平铺绝望的循环，第六句 better 陡然拧转——全部意义压在最后一个词上。
 
-**为什么这样写**：作者选它开题恰因它已被用成励志贴纸：词条的任务是把这句被掏空的格言重新装回"如何失败"的严肃问题里——首段末句"most of us don't know how to fail"随即接住。
+**为什么这样写**：作者选它开题恰因它已被用成励志贴纸：词条的任务是把这句被掏空的格言重新装回"如何失败"的严肃问题里——首段第二句"most of us don't know how to fail"随即接住。
 
 > **原句 2:** "That is because there is nothing harder than failing, let alone failing well."
 
@@ -72,7 +72,7 @@ source_text: ch07
 
 **关键词**：`nothing harder than failing`、`let alone failing well`
 
-**表达方式**：let alone 的递进结构把 failing well 标记为比 failing 更高阶的技能——失败是事件，败得好是修养。七个词的短句承担定义全章任务的反差。
+**表达方式**：let alone 的递进结构把 failing well 标记为比 failing 更高阶的技能——失败是事件，败得好是修养。十三个词的短句承担定义全章任务的反差。
 
 **为什么这样写**：紧跟贝克特格言作"降温"处理：名言人人会背，但格言与能力之间隔着"没有任何东西比这更难"的现实——为词条的整个教学工程申请合法性。
 
@@ -132,7 +132,7 @@ source_text: ch07
 
 **关键词**：`knocked down flat`、`in front of the whole world`、`I rose`、`right where I’d been knocked down`
 
-**表达方式**：I rose 三次复现如副歌；right where 的"原地"与 in front of the whole world 的"全场围观"对照——公开的失败被原地起身公开地回答。
+**表达方式**：I rose 两次复现如副歌；right where 的"原地"与 in front of the whole world 的"全场围观"对照——公开的失败被原地起身公开地回答。
 
 **为什么这样写**：Angelou 的口语文本被用作"接纳层"的肉身证据： defeat 与 defeated 的区分（可被击败、不可被打败）由节奏而非论证传达——权威引证里最接近身体的一句。
 
@@ -164,7 +164,7 @@ source_text: ch07
 
 **中文理解**：金色的蜜蜂正用我旧的失败，酿出白色的蜂巢与甜美的蜂蜜。
 
-**句子结构**：过去进行时 were making + 双宾语（white combs and sweet honey）+ from my old failures 来源状语——一行诗的完整转化装置。
+**句子结构**：过去进行时 were making + 两个并列宾语（white combs and sweet honey）+ from my old failures 来源状语——一行诗的完整转化装置。
 
 **关键词**：`golden bees`、`white combs`、`sweet honey`、`from my old failures`
 

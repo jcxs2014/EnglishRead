@@ -35,7 +35,7 @@ source_text: ch01
 
   | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
   |------|------|------|
-  | APA 2022 报告：各行业倦怠与压力创历史新高 | 研究/数据 | 疲惫是本时代最普遍的疾患之一 |
+  | APA 报告：各行业倦怠与压力创历史新高 | 研究/数据 | 疲惫是本时代最普遍的疾患之一 |
   | 五大倦怠诱因：不公对待、超载工作量、角色不清、沟通支持不足、时间压力 | 研究/数据 | 归因应从个人应对转向工作环境 |
   | 作者本人在大学的倦怠经历（终身岗也朝不保夕） | 个人案例 | 第一人称可信度；结构致病并不豁免"稳定"人群 |
   | Cohen "Working…is now the imperative of our time" | 权威引证 | 工作已膨胀为时代总命令，渗入生活全部 |
@@ -158,13 +158,13 @@ source_text: ch01
 
 **表达方式**：把情绪状态（倦怠）翻译成几何图像（距离），too much to bear 用最简单的词给出临界点语义。ideal 与 possible 的并置暗示：问题不在理想太高，而在"可能的现实"被压得太低。
 
-**为什么这样写**：Petersen 这句在 BuzzPuzzler 式的流行语海里幸存，靠的正是几何化的精确。作者引它来把倦怠从"个人心理问题"改写为"代际结构性落差"，与自己的结构归因同向。
+**为什么这样写**：Petersen 这句在 BuzzFeed 式的流行语海里幸存，靠的正是几何化的精确。作者引它来把倦怠从"个人心理问题"改写为"代际结构性落差"，与自己的结构归因同向。
 
 > **原句 10:** "Theories of exhaustion, moreover, are also powerful barometers for dominant cultural anxieties and aspirations."
 
 **中文理解**：此外，各种疲惫理论也是强力的晴雨表，能测出特定文化占主导地位的焦虑与渴望。
 
-**句子结构**：主语 Theories of exhaustion + 系表 are barometers for...；moreover 与 also 双连接词标示递进；dominant cultural anxieties and aspirations 是双重宾语。
+**句子结构**：主语 Theories of exhaustion + 系表 are barometers for...；moreover 与 also 双连接词标示递进；dominant cultural anxieties and aspirations 是两个并列的介词宾语。
 
 **关键词**：`moreover`、`barometers`、`dominant cultural anxieties and aspirations`
 

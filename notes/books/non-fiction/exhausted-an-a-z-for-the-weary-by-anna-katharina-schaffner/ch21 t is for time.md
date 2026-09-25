@@ -152,7 +152,7 @@ source_text: ch21
 
 **表达方式**：of our own making（亲手所造）是判词的最后一锤：笼子没有狱卒——设计图、建材与锁全是自供；cages 与"监工"配套，工作伦理完成了从美德到监狱建筑的变身。
 
-**为什么这样写**：承接上一句的"灰色地带"，这句给出地理成因：不是老板的笼子而是自己的——与 ch02"we can be our own bad bosses"首尾呼应，全书的归因闭环在此合拢。
+**为什么这样写**：承接上一句的"灰色地带"，这句给出地理成因：不是老板的笼子而是自己的——与 ch01"we can be our own bad bosses"首尾呼应，全书的归因闭环在此合拢。
 
 > **原句 9:** "It’s a catch-22 situation: the more of our time we dedicate to work, the emptier our life becomes in other domains, and the more scary it is to stop working and to confront that emptiness."
 
@@ -189,7 +189,7 @@ source_text: ch21
 | archetypal | 原型的 | "In the past, injunctions such as carpe diem (seize the day) and memento mori addressed archetypal anxieties about human finitude." |
 | quantified and commodified | 被量化与商品化 | "We think of time as something that doesn’t merely pass but that can be both quantified and commodified." |
 | mortal sin | 死罪（神学） | "Wasting time, as the Puritans held, is a mortal sin." |
-| gratification | 满足（delay of gratification：延迟满足） | "The definition of time wisely spent usually entails activities that are future-orientated and that require the delay of gratification and impulse control." |
+| gratification | 满足（delay of gratification：延迟满足） | "delay of gratification and impulse control." |
 | chastised | 被惩戒 | "Today, we may still be chastised for wasting our employer’s time by being late, missing deadlines, working inefficiently or too slowly, or by procrastinating or idling." |
 | dictates | 支配；指令 | "Do you live by the dictates of clock time, or are you attuned to more ancient forms of temporal measurement" |
 | circadian rhythm | 昼夜节律 | "the circadian rhythm, the lunar calendar, the movement of the tides, the passing of the seasons or sidereal time" |

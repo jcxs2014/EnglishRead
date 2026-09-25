@@ -105,13 +105,13 @@ source_text: ch06
 
 **中文理解**：病发之后才去治病，就像叛乱爆发之后才去镇压。如果有人口渴了才挖井、开战了才铸造兵器，人们不禁要问：这些举措难道不是太晚了吗？
 
-**句子结构**：第一句 A is like B 平行类比（treating/suppressing + after it has begun/broken out 完成时对称）；第二句 If 条件句 + or 并列两个分词短语（digs a well / forges weapons）+ cannot help but ask + 反问收尾。
+**句子结构**：第一句 A is like B 平行类比（treating/suppressing + after it has begun/broken out 完成时对称）；第二句 If 条件句 + or 并列两个限定动词短语（digs a well / forges weapons）+ cannot help but ask + 反问收尾。
 
 **关键词**：`is like suppressing revolt`、`digs a well when thirsty`、`forges weapons after becoming engaged in battle`、`Are not these actions too late?`
 
-**表达方式**：两个"事后补救"意象（镇压叛乱、渴而穿井、斗而铸锥）排比递进，反问句收束成道德律令的节奏——这是《黄帝内经》英译的修辞力。
+**表达方式**：三个"事后补救"意象（镇压叛乱、渴而穿井、斗而铸锥）排比递进，反问句收束成道德律令的节奏——这是《黄帝内经》英译的修辞力。
 
-**为什么这样写**：把预防式能量自养的东方方案放进权威引文块：不给论证，直接给三千年前的格言。它为后文"能量审计/节律觉察"提供古早合法性，也示范词条"mixed mental arts"的取材方式。
+**为什么这样写**：把预防式能量自养的东方方案放进权威引文块：不给论证，直接给两千多年前的格言。它为后文"能量审计/节律觉察"提供古早合法性，也示范词条"mixed mental arts"的取材方式。
 
 > **原句 6:** "Energy audits are another good starting point for learning to care for our energy in a more sustainable way."
 
@@ -147,7 +147,7 @@ source_text: ch06
 
 **表达方式**：主语清单本身就是能量来源的画像：小、随机、感官（heron 苍鹭的具象一瞬）。from slumped into lightness 的空间位移把情绪写成海拔。
 
-**为什么这样写**：这是"节律觉察"的正面样本——作者用自传细节演示能量被微小事 B 件瞬间调制的机制，具体名词（heron）让"身心连结"从口号变成画面。
+**为什么这样写**：这是"节律觉察"的正面样本——作者用自传细节演示能量被微小事件瞬间调制的机制，具体名词（heron）让"身心连结"从口号变成画面。
 
 > **原句 9:** "Anyone who doesn’t believe in the mind–body nexus should study children."
 

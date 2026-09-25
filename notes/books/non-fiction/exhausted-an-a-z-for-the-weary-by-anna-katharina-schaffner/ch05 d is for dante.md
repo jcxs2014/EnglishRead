@@ -167,7 +167,7 @@ source_text: ch05
 
 **关键词**：`your own Virgil`、`guiding you from darkness into light`、`last but not least`
 
-**表达方式**：your own Virgil 把文学人物变成普通名词（可自填空位的角色），一句话完成从史诗到自助的降维。from darkness into light 呼应词条第一句的 from dark to light——首尾同构。
+**表达方式**：your own Virgil 把文学人物变成普通名词（可自填空位的角色），一句话完成从史诗到自助的降维。from darkness into light 呼应原句 1 的 from dark to light——首尾同构。
 
 **为什么这样写**：四步机制里"向导"被作者标注为最易被忽视的一步；词条把它留作最后的祈使——从"威胁—净化—信念"的旧机制里，挑出对现代读者仍然有效且最不道德化的那一味。
 

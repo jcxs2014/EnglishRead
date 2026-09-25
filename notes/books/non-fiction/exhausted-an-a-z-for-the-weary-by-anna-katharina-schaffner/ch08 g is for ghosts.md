@@ -12,7 +12,7 @@ source_text: ch08
 - **作者**：Anna Katharina Schaffner
 - **体裁**：非虚构论述（心理自助/文化史）；A–Z 词条
 - **章节定位**：文学案例词条——用 Melville 的 Bartleby 定义"幽灵劳动者"（ghost-worker）
-- **字符数**：约 8,685 字符；约 13 个实质段落（含《怒海争先》式文本细读）
+- **字符数**：约 8,685 字符；约 13 个实质段落（含《抄写员巴托比》细读）
 - **一句话主旨**：重度耗竭把人变成"既不活也不死"的幽灵——Bartleby 的"我宁愿不"既是对倦怠文化的抗议，也是死于"只有否定性愿望"的警示：治愈需要正向愿景，而非仅仅是拒绝。
 
 词条以幽灵隐喻定义最深度的耗竭：身体还在运转，灵魂已经离场——麻木不是没有感觉，而是"不敢感觉"。随后全文细读《抄写员巴托比》：无窗景观的华尔街律师事务所、"苍白地整洁、可怜地体面、不可救药地凄凉"的复制员、那句著名的"I would prefer not to"、死墙前的出神、监狱里蜷成胎位的死亡。作者检阅三种批评读法（马克思主义/英雄抵抗/精神性饥饿）后给出自己的翻译：Bartleby 是 HR 教科书级的失职案例，也是竞争资本主义机器里的扳手。词条后半做了一组关键的对照实验：当代"去他的"（F**k It）自助潮流 vs Bartleby 的"我宁愿不"——后者更温柔、不贬低他人；但两者共同的陷阱是"死人的目标"（dead man's goals）：只会说不要什么，说不出要什么。治愈的第一步是回答"那你更愿意做什么？"
@@ -171,7 +171,7 @@ source_text: ch08
 
 **表达方式**：anaphora（句首重复）让两句像医嘱的双联；positive vision 与 don't-want 清单的对立是全词条的最终区分——否定性愿望再多也拼不出方向。
 
-**为什么这样写**：这是对 Bartleby 之死的最终裁决，也是对读者的移交：词条诊断了幽灵状态，但处方只能由"想要什么"的想象开启——问句在上一段已经给出，这里给出它的必要性证明。
+**为什么这样写**：这是对 Bartleby 之死的最终裁决，也是对读者的移交：词条诊断了幽灵状态，但处方只能由"想要什么"的想象开启——问句已在前文给出，这里给出它的必要性证明。
 
 ## 词汇分级
 
@@ -189,8 +189,8 @@ source_text: ch08
 | incurably forlorn | 不可救药地凄凉 | "Into this deathly environment wanders Bartleby, ‘pallidly neat, pitiably respectable, incurably forlorn!’" |
 | reveries | 出神；幻想 | "Bartleby henceforth spends his days in ‘dead-wall reveries’, gazing dull-eyed at the ‘dead brick wall’ onto which his window looks." |
 | disconcerting | 令人不安的 | "His ghostly presence in the offices is increasingly disconcerting." |
-| nemesis | 不可逃避的对手；克星 | "The narrator tries to alleviate his bad conscience by visiting his gentle nemesis and by paying a ‘grub man’ to feed him." |
-| alleviate | 减轻；缓解 | "The narrator tries to alleviate his bad conscience by visiting his gentle nemesis and by paying a ‘grub man’ to feed him." |
+| nemesis | 不可逃避的对手；克星 | "The narrator tries to alleviate his bad conscience by visiting his gentle nemesis" |
+| alleviate | 减轻；缓解 | "The narrator tries to alleviate his bad conscience by visiting his gentle nemesis" |
 | cadaverous | 死尸般的；苍白的 | "Bartleby is described as ‘motionless’, ‘mild’ and ‘cadaverous’, and his ghost-like paleness is repeatedly emphasised." |
 | anhedonic | 快感缺失的 | "Nowadays, we would probably describe him as burnt out and anhedonic – unable to experience pleasure of any kind." |
 | foetal position | 胎儿蜷缩姿势 | "rolled up in a foetal position in front of one of the prison walls" |
@@ -226,7 +226,7 @@ source_text: ch08
 | dull-eyed | 目光呆滞的 | "Bartleby henceforth spends his days in ‘dead-wall reveries’, gazing dull-eyed at the ‘dead brick wall’ onto which his window looks." |
 | budge | 让步；挪动 | "Yet even after the narrator has moved out, Bartleby refuses to budge." |
 | quit | 辞去；离开 | "But Bartleby prefers not to quit the premises, in which he now also lives full-time." |
-| apt | 贴切的 | "And that is very apt, for dead people are the true masters of not working, smoking, drinking, overeating or under-exercising, and not worrying or feeling tired anymore." |
+| apt | 贴切的 | "And that is very apt, for dead people are the true masters of not" |
 | knees drawn up | 双膝蜷起 | "‘Huddled at the base of the wall, his knees drawn up, and lying on his side, his head touching the cold stones’, Bartleby has finally succeeded in wasting away." |
 
 ## 一句话总结
