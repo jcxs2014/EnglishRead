@@ -225,6 +225,6 @@ source_text: ch06
 | public | 公众；公共的 | "There is more solidarity and charity towards the public and the nation [in the AK Party] – I’ve seen it." |
 | history | 历史 | "Turkish history was certainly complex and painful." |
 
-## 一句话总结**
+## 一句话总结
 
 **当一座旧城门同时承载交通、福利、历史展览、宗教机构和政治记忆时，真正争夺的就不只是“谁拥有空间”，而是国家能否让人在其中看见自身，并让人把被看见的方式当成自由。**
