@@ -11,7 +11,7 @@ source_text: ch06
 - **出处**：*Everything Is F*cked: A Book About Hope*，第 6 章
 - **作者**：Mark Manson
 - **章节定位**：Part I: Hope；把“希望”改写为不依赖未来回报的道德原则
-- **字符数**：约 42,904 个非空白字符
+- **字符数**：约 35,249 个非空白字符
 - **一句话主旨**：人的价值从儿童的快乐与痛苦、青春期的交易与规则，走向成人的无条件原则；Kant 的人性公式要求我们把任何意识当作目的而非手段，并以当前的选择而非对天堂、地狱的承诺改变世界。
 
 ## 论证结构
@@ -121,17 +121,17 @@ source_text: ch06
 
 **为什么这样写**：从儿童反馈到社会制度，稳定预期是形成规则与原则的基础；没有信任，成长只能退回自利。
 
-> **原句 8:** "Making the leap of faith into a virtuous adulthood requires not just an ability to endure pain, but also the courage to abandon hope."
+> **原句 8:** "Making the leap of faith into a virtuous adulthood requires not just an ability to endure pain, but also the courage to abandon hope, to let go of the desire for things always to be better or more pleasant or a ton of fun."
 
-**中文理解**：迈入有德之成年，不仅需要忍受痛苦的能力，也需要放弃希望的勇气。
+**中文理解**：迈入有德之成年，不仅需要忍受痛苦的能力，也需要放弃希望的勇气，放下对一切永远更好、更愉快或更多乐趣的欲望。
 
-**句子结构**：主语为 Making the leap...；requires 为谓语；not just A but also B 为并列结构；the courage to abandon hope 为 B 成分。
+**句子结构**：主语为 Making the leap...；requires 为谓语；not just A but also B 为并列结构；the courage to abandon hope 与 to let go... 是并列不定式，to let go... 说明放弃希望的具体内容。
 
 **关键词**：leap of faith；virtuous adulthood；endure pain；courage to abandon hope。
 
-**表达方式**：用 not just...but also 把忍耐与放弃希望并列为成人的双重要求。
+**表达方式**：用 not just...but also 把忍受痛苦与放弃希望并列为成人的双重要求，再以第二个不定式解释“放弃”具体意味着什么。
 
-**为什么这样写**：它把希望从目标改成需要摆脱的心理交易，让无条件的道德选择有清晰代价。
+**为什么这样写**：作者把无条件的道德选择写成对持续期待更好结果的心理戒断，而不是对未来保证的交换；这为“改变自己而非等待世界变好”提供直接语言依据。
 
 > **原句 9:** "None of these ideological religions confronted the fundamental issue at hand: conditionality."
 
@@ -214,7 +214,7 @@ source_text: ch06
 | unconditional | 无条件的 | The principled values of adulthood are unconditional—that is, they cannot be reached through any other means. |
 | value hierarchy | 价值层级 | We’re building up our value hierarchy, figuring out what our first and primary values are, so that we can begin to know what to hope for. |
 | transactional | 交易的 | While people who navigate life through bargaining and rules can get far in the material world, they remain crippled and alone in their emotional world. |
-| virtuous | 有德行的 | Making the leap of faith into a virtuous adulthood requires not just an ability to endure pain, but also the courage to abandon hope. |
+| virtuous | 有德行的 | Instead, he decided that the only logical way to improve the world is through improving ourselves—by growing up and becoming more virtuous—by making the simple decision, in each moment, to treat ourselves and others as ends, and never merely as means. |
 | conception | 观念；理解 | To become an emotionally healthy individual, you must break out of this constant bargaining, endlessly treating everyone as a means to some pleasurable end, and come to understand even higher and more abstract guiding principles. |
 | arbitrary | 任意的 | whatever you make your God Value, you will always be willing, at some point, to bargain away human life in order to get closer to it. |
 | all-encompassing | 包罗万象的 | This is how you change the world—not through some all-encompassing ideology or mass religious conversion or misplaced dreams of the future |
@@ -245,11 +245,11 @@ source_text: ch06
 | adult | 成年人 | The principled values of adulthood are unconditional |
 | trust | 信任 | Ultimately, graduating to adolescence requires trust. |
 | action | 行动 | This is how you change the world—not through some all-encompassing ideology or mass religious conversion or misplaced dreams of the future |
-| principle | 原则 | Adulthood is the realization that sometimes an abstract principle is right and good for its own sake |
+| principle | 原则 | As a result, some general principles begin to emerge in our minds: take care around dangerous things so you won’t get hurt; be honest with your parents and they’ll treat you well; share with your siblings and they’ll share with you. |
 | future | 未来 | This is how you change the world—not through some all-encompassing ideology or mass religious conversion or misplaced dreams of the future |
 | pain | 痛苦 | Making the leap of faith into a virtuous adulthood requires not just an ability to endure pain |
 | society | 社会 | A society without trustworthy institutions or leaders cannot develop rules and roles. |
-| choice | 选择 | Instead, he decided that the only logical way to improve the world is through improving ourselves |
+| choice | 选择 | Because there is no heaven or hell in the future. There are only the choices you make in each and every moment. |
 | respect | 尊重 | A society without trustworthy institutions or leaders cannot develop rules and roles. |
 
 ## 一句话总结

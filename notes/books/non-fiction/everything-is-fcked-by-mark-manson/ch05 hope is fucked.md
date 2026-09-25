@@ -218,9 +218,9 @@ source_text: ch05
 | conflict | 冲突 | Therefore, it is the conflict that maintains the hope. |
 | better | 更好的 | To not hope for better. |
 | life | 生活 | They believed there was something in this decrepit man that could potentially change history. |
-| care | 照料；关心 | this truth scares them because it liberates them to responsibility . |
-| responsibility | 责任 | this truth scares them because it liberates them to responsibility . |
-| love | 爱 | and little to nothing that we do will ever matter on a cosmic scale. |
+| care | 照料；关心 | His lifelong dependence on the care of women seemed to blur his ability to see them clearly. |
+| responsibility | 责任 | And of course, equality: because if a big patriarchal God isn’t dictating who deserves what, that must mean that either no one deserves anything or everyone deserves everything. |
+| love | 爱 | But the only thing that frees us is that truth: You and I and everyone we know will die, and little to nothing that we do will ever matter on a cosmic scale. |
 
 ## 一句话总结
 

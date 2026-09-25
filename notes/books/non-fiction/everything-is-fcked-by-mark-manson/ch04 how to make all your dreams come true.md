@@ -89,7 +89,7 @@ source_text: ch04
 
 **中文理解**：我们无法验证价值。按定义，它们是主观而任意的。
 
-**句子结构**：We cannot verify values 为第一句；They 为第二句主语；are 为系动词；by definition 与 subjective and arbitrary 分别作状语和表语。
+**句子结构**：You cannot verify values 为第一句；主语为 You，cannot verify 为谓语，values 为宾语；They 为第二句主语；are 为系动词；by definition 与 subjective and arbitrary 分别作状语和表语。
 
 **关键词**：cannot verify；by definition；subjective and arbitrary。
 
@@ -205,19 +205,14 @@ source_text: ch04
 | disaffected | 疏离的；不满的 | It finds disaffected and agitated college students |
 | uncompromising | 不妥协的 | angry at how uncompromising and disappointing it is to be an adult |
 | validate | 证实；认可 | Religions bring groups of people together to mutually validate one another and make one another feel important. |
-| ritual | 仪式 | Rituals are visual and experiential representations of what we deem important. |
+| ritual | 仪式 | Rituals connect us with the past. |
 | ideological | 意识形态的 | an ideological religion |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| hope | 希望 | Therefore, he gave them hope. |
-| community | 共同体；群体 | we all need communities to build hope |
-| value | 价值 | We organize our lives, and all other values, around that value. |
-| faith | 信仰 | We all must have faith in something. |
 | religion | 宗教 | Religions are the basis for that communal hope. |
-| ritual | 仪式 | Rituals connect us with the past. |
 | sacrifice | 牺牲 | Rituals are usually about some sacrifice. |
 | future | 未来 | this one thing will produce the best future reality |
 | leader | 领导者 | Leaders need their followers to be perpetually dissatisfied |

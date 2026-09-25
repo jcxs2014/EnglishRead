@@ -11,7 +11,7 @@ source_text: ch07
 - **出处**：*Everything Is F*cked: A Book About Hope*，第 7 章
 - **作者**：Mark Manson
 - **章节定位**：Part I: Hope；把“痛苦不可消除”改写为可以主动承受并利用的价值来源
-- **字符数**：约 52,433 个非空白字符
+- **字符数**：约 43,025 个非空白字符
 - **一句话主旨**：人类感知的“常量”并非时间或幸福，而是痛苦；人会为了维持预期的不适而扭曲判断，所以成长不是逃避痛苦，而是让痛苦成为反脆弱、人格成熟和有意义的价值的媒介。
 
 ## 论证结构
@@ -238,7 +238,7 @@ source_text: ch07
 |----------|------|--------------|
 | prevalence-induced concept change | 流行率诱导的概念变化 | The psychologists were researching something they would call “prevalence-induced concept change.” |
 | Blue Dot Effect | 蓝点效应 | The Blue Dot Effect suggests that, essentially, the more we look for threats, the more we will see them |
-| hedonic treadmill | 幸福跑步机 | This constancy of pain results in what is known as “the hedonic treadmill” |
+| hedonic treadmill | 幸福跑步机 | This constancy of pain results in what is known as “the hedonic treadmill,” upon which you run and run and run, chasing your imagined ten. |
 | antifragile | 反脆弱的 | Whereas a fragile system breaks down and a robust system resists change, the antifragile system gains from stressors and external pressures. |
 | self-perpetuating | 自我延续的 | This is why hope is ultimately self-defeating and self-perpetuating |
 | inevitable | 不可避免的 | That while pain is inevitable, suffering is always a choice. |
@@ -250,7 +250,7 @@ source_text: ch07
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| perception | 感知 | It seemed that their eyes distorted the colors and continued to seek a certain number of blue dots, no matter how many were actually shown. |
+| perceive | 察觉；感知 | But this is not true—in fact, this is backward. Pain is the universal constant of life. And human perception and expectations warp themselves to fit a predetermined amount of pain. |
 | distort | 扭曲 | It seemed that their eyes distorted the colors and continued to seek a certain number of blue dots, no matter how many were actually shown. |
 | adversity | 逆境 | Removing healthy adversity and challenge, people struggle even more. |
 | distorted | 扭曲的 | It seemed that their eyes distorted the colors and continued to seek a certain number of blue dots, no matter how many were actually shown. |
@@ -267,7 +267,7 @@ source_text: ch07
 | pain | 痛苦 | Pain is the universal constant of life. |
 | constant | 常量 | Time and space are what we call “universal constants.” |
 | perception | 感知 | our mind will always imagine just enough clouds to be slightly disappointed. |
-| expectation | 预期 | And human perception and expectations warp themselves to fit a predetermined amount of pain. |
+| expectation | 预期 | But this is not true—in fact, this is backward. Pain is the universal constant of life. And human perception and expectations warp themselves to fit a predetermined amount of pain. |
 | hope | 希望 | This is why hope is ultimately self-defeating and self-perpetuating |
 | value | 价值 | Pain is the source of all value. |
 | choice | 选择 | That while pain is inevitable, suffering is always a choice. |

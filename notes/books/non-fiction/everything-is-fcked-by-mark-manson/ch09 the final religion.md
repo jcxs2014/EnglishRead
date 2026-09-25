@@ -11,7 +11,7 @@ source_text: ch09
 - **出处**：*Everything Is F*cked: A Book About Hope*，第 9 章
 - **作者**：Mark Manson
 - **章节定位**：Part I: Hope；把个人原则、共同体承诺与超越希望的人生实践收束起来
-- **字符数**：约 31,475 个非空白字符
+- **字符数**：约 26,019 个非空白字符
 - **一句话主旨**：希望只有在被一种超越个人得失的信仰和生活实践取代时才会停止自我毁灭；真正的宗教不是许诺天堂或提供组织，而是让人通过无条件原则、承担痛苦、服务他人和在当下创造意义，成为彼此眼中的神。
 
 ## 论证结构
@@ -180,7 +180,7 @@ source_text: ch09
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | replace | 取代 | The old gods will be replaced by the new gods: the algorithms. |
-| algorithms | 算法 | The old gods will be replaced by the new gods: the algorithms. |
+| algorithms | 算法 | We will develop superstitions about the algorithms. |
 | consciousness | 意识 | Consciousness itself is a vast network of algorithms and decision trees—algorithms based on values and knowledge and hope. |
 | evolution | 进化 | Evolution rewards the most powerful creatures, and power is determined by the ability to access, harness, and manipulate information effectively. |
 | reward | 奖励 | Evolution rewards the most powerful creatures, and power is determined by the ability to access, harness, and manipulate information effectively. |
@@ -202,7 +202,6 @@ source_text: ch09
 | world | 世界 | I dare to hope for a post-hope world, where people are never treated merely as means but always as ends |
 | freedom | 自由 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
 | better | 更好的 | I dare to hope that the fake freedom of variety will be rejected by people in favor of the deeper, more meaningful freedom of commitment; that people will opt in to self-limitation rather than the quixotic quest of self-indulgence; that people will demand something better of themselves first before demanding something better from the world. |
-| algorithms | 算法 | The old gods will be replaced by the new gods: the algorithms. |
 | nothing | 无 | Perhaps then, we will not only realize but finally embrace the Uncomfortable Truth: that we imagined our own importance, we invented our purpose, and we were, and still are, nothing. |
 
 ## 一句话总结

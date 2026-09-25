@@ -147,7 +147,7 @@ source_text: ch02
 
 **中文理解**：让思考脑落入陷阱、只为画出感受脑想走的路线，是极其容易的事。
 
-**句子结构**：主干为 It’s easy for someone to do something；for your Thinking Brain 是不定式逻辑主语；to fall into the trap 与 to merely draw... 是并行动词不定式。
+**句子结构**：主干为 It’s incredibly easy to let...；to let your Thinking Brain fall into the trap 是不定式作宾语；to merely draw... 是 let 的逻辑补语，修饰 Thinking Brain 的动作。
 
 **关键词**：incredibly easy；fall into the trap；merely drawing the maps；wants to follow。
 
@@ -159,7 +159,7 @@ source_text: ch02
 
 **中文理解**：人们总是把感觉不错的东西误当成真正好的东西。
 
-**句子结构**：主干为 people are always mistaking A for B；what feels good 与 what is good 是两个并列名词性从句。
+**句子结构**：主干为 people are always mistaking what feels good for what is good；mistaking A for B 为固定搭配，what feels good 与 what is good 是两个并列的名词性从句。
 
 **关键词**：always mistaking；what feels good；for what is good。
 
@@ -224,12 +224,12 @@ source_text: ch02
 | self-serving bias | 自利偏差；只为自己辩护的偏见 | This is called the “self-serving bias,” and it’s the basis for pretty much everything awful about humanity. |
 | Classic Assumption | 经典假设；理性必须统治情绪 | Let’s call it the “Classic Assumption.” |
 | Thinking Brain | 思考脑；偏重推理、事实与长期方向的判断系统 | The Thinking Brain makes associations among facts, data, and observations. |
-| Feeling Brain | 感受脑；偏重情绪、冲动与即时反应的判断系统 | The Feeling Brain decides what is good and what is bad; what is desirable and what is undesirable. |
-| emotional regulation | 情绪调节 | This is what’s referred to in psychology as “emotional regulation” |
+| Feeling Brain | 感受脑；偏重情绪、冲动与即时反应的判断系统 | The Feeling Brain makes value judgments based on those same facts, data, and observations. |
+| emotional regulation | 情绪调节 | This is what’s referred to in psychology as “emotional regulation,” and it’s basically learning how to put a bunch of fucking guardrails and One Way signs along your road of life to keep your Feeling Brain from careening off a cliff. |
 | self-control | 自控；自我控制 | Self-control is an illusion. |
 | value judgments | 价值判断 | By rejecting his emotions, he rejects making value judgments, that is, deciding that one thing is better than another. |
 | hopeless | 无望的；没有希望的 | the world around them begins to feel hopeless |
-| guilt | 内疚；罪责感 | Feeling self-loathing? Perhaps that’s an invitation to take the conversation further. |
+| self-loathing | 自厌；自责 | Feeling self-loathing? Perhaps that’s an invitation to take the conversation further. |
 | Stockholm syndrome | 斯德哥尔摩综合征 | it develops a sort of Stockholm syndrome |
 | self-aggrandizement | 自我膨胀 | Everything else (all the judgments and assumptions and self-aggrandizement) is an illusion. |
 
@@ -237,15 +237,15 @@ source_text: ch02
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| subjugate feelings | 压制情绪 | it’s because he lacks the ability to subjugate his feelings |
+| subjugate | 压制；征服 | it’s because he lacks the ability to subjugate his feelings |
 | conscious thoughts | 有意识的思维 | The Thinking Brain represents your conscious thoughts |
 | rational | 理性的 | It is methodical and rational, but it is also slow. |
 | irrational | 不理性的 | The problem is that it is often inaccurate and irrational. |
 | emotional benefit | 情绪收益 | When you offer something easy with an emotional benefit |
 | compromise | 妥协 | offer another compromise |
-| psychology | 心理学 | This is what’s referred to in psychology as “emotional regulation” |
+| psychology | 心理学 | This is what’s referred to in psychology as “emotional regulation,” and it’s basically learning how to put a bunch of fucking guardrails and One Way signs along your road of life to keep your Feeling Brain from careening off a cliff. |
 | acceptance | 接纳 | self-acceptance and emotional intelligence |
-| cooperation | 合作 | this whole “teach your Thinking Brain to decipher and cooperate with your Feeling Brain instead of judging him and thinking he’s an evil piece of shit” is the basis for CBT |
+| cooperate | 合作 | this whole “teach your Thinking Brain to decipher and cooperate with your Feeling Brain instead of judging him and thinking he’s an evil piece of shit” is the basis for CBT |
 | chronic | 长期的；慢性的 | no signs of chronic anxiety or stress |
 
 ### ⭐ 基础
@@ -255,7 +255,7 @@ source_text: ch02
 | headache | 头痛 | It all started with a headache. |
 | surgeon | 外科医生 | The surgeon cut the tumor out, and Elliot went home. |
 | tumor | 肿瘤 | he had a brain tumor |
-| reasoning | 推理 | His reasoning was solid. |
+| reasoning | 推理 | Every doctor had been so concerned about Elliot’s reasoning abilities that no one had stopped to consider that it was Elliot’s capacity for emotion that had been damaged. |
 | memory | 记忆 | His memory was great. |
 | decision | 决定 | why couldn’t he make effective decisions anymore? |
 | emotion | 情绪 | Emotion is the biological hydraulic system that pushes our bodies into movement. |

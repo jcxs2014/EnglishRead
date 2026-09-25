@@ -215,7 +215,7 @@ source_text: ch03
 | self-worth | 自我价值感 | This surrender to and acceptance of ourselves as inherently inferior is often referred to as shame or low self-worth. |
 | narcissism | 自恋；自我中心 | Both are narcissistic. |
 | narrative | 叙事；关于自我和世界的故事 | Our values aren’t just collections of feelings. Our values are stories. |
-| value hierarchy | 价值层级 | The Feeling Brain then makes its decisions by simply pursuing experiences on the highest shelf possible. |
+| value hierarchy | 价值层级 | When we have experiences, our Feeling Brain creates a sort of value hierarchy for them. |
 | emotional gravitation | 情绪引力 | This emotional gravity, I declare, is the fundamental organization of all human conflict and endeavor. |
 | snowball effect | 滚雪球效应 | This “snowball effect” of early values is why our childhood experiences, both good and bad, have long-lasting effects on our identities |
 | crystallize | 结晶；形成固定结构 | The values we pick up throughout our lives crystallize and form a sediment on top of our personality. |
@@ -226,7 +226,6 @@ source_text: ch03
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | immutable | 不可改变的 | an immutable truth |
-| trauma | 创伤 | childhood trauma fucks us up |
 | perceive | 察觉；认为 | Yet, in their own minds, they somehow believed their actions to be consistent and true. |
 | internalize | 内化 | his Feeling Brain silently internalized the knowledge that there was something fundamentally broken about this small English boy from Lincolnshire. |
 | contextual | 语境的；受情境影响的 | Self-worth is contextual. |
@@ -243,7 +242,7 @@ source_text: ch03
 | pain | 痛苦 | Pain causes moral gaps. |
 | action | 行动 | every action demands an equal and opposite emotional reaction |
 | value | 价值 | Our values aren’t just collections of feelings. |
-| experience | 经验 | Experiences that cause us pain create a moral gap within our minds, and our Feeling Brain deems those experiences inferior and undesirable. |
+| experience | 经验 | When we have experiences, our Feeling Brain creates a sort of value hierarchy for them. |
 | change | 改变 | when they change, you don’t actually lose anything |
 | hurt | 伤害 | what will help it and what will hurt it |
 | trust | 信任 | no one could be trusted |

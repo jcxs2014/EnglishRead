@@ -11,7 +11,7 @@ source_text: ch08
 - **出处**：*Everything Is F*cked: A Book About Hope*，第 8 章
 - **作者**：Mark Manson
 - **章节定位**：Part I: Hope；把市场、互联网与自由重新放回情绪驱动的交换系统
-- **字符数**：约 41,279 个非空白字符
+- **字符数**：约 34,042 个非空白字符
 - **一句话主旨**：金钱、市场营销和互联网都通过塑造人的感受来引导选择；当经济从改善痛苦的技术转向麻痹痛苦的消费，真正的自由不是获得更多选择，而是选择约束、承诺和愿意承担的代价。
 
 ## 论证结构
@@ -231,7 +231,7 @@ source_text: ch08
 | media | 媒体 | The commercial age commenced in the early twentieth century with Bernays’s discovery that you could market to people’s unconscious feelings and desires. |
 | innovative | 创新的 | The internet is a bona fide innovation. |
 | atomization | 原子化 | This atomization of society has significant effects, he argues: social trust has declined, with people becoming more isolated, less politically engaged, and all-around more paranoid about their neighbors. |
-| identity | 身份 | If he wanted women to smoke, then he had to appeal not to their thoughts but to their values. He needed to appeal to women’s identities . |
+| identities | 身份；认同 | If he wanted women to smoke, then he had to appeal not to their thoughts but to their values. He needed to appeal to women’s identities . |
 | utopian | 乌托邦式的 | A near-utopian level of optimism developed throughout the 1990s and 2000s. |
 | self-centered | 以自我为中心的 | people’s values deteriorate and become more childish and self-centered |
 
@@ -246,7 +246,6 @@ source_text: ch08
 | addictive | 成瘾的 | Many diversions trip certain circuits in our brain, making them addictive. |
 | control | 控制 | You lose control of yourself—your Feeling Brain has locked your Thinking Brain in the trunk and isn’t letting it out until it gets its next hit of whatever. |
 | available | 可获得的 | As a result, we’ve built a culture in which most technological “innovation” is merely figuring out how to scale diversions in new, more efficient (and more intrusive) ways. |
-| control | 控制 | You lose control of yourself—your Feeling Brain has locked your Thinking Brain in the trunk and isn’t letting it out until it gets its next hit of whatever. |
 | virtue | 美德 | Freedom itself demands discomfort. |
 | social | 社会的 | This atomization of society has significant effects, he argues: social trust has declined, with people becoming more isolated, less politically engaged, and all-around more paranoid about their neighbors. |
 
@@ -259,11 +258,10 @@ source_text: ch08
 | freedom | 自由 | Freedom itself demands discomfort. |
 | choice | 选择 | The more options we’re given (i.e., the more “freedom” we have), the less satisfied we are with whatever option we go with. |
 | power | 权力 | And where the money flows, power flows. |
-| innovation | 创新 | The internet is a bona fide innovation. |
-| toxic | 有毒的 | If the pursuit of happiness pulls us all back into childishness, then fake freedom conspires to keep us there. |
+| innovation | 创新 | When the scientific revolution first got going, most economic progress was due to innovation. |
+| childishness | 幼稚化；退行 | If the pursuit of happiness pulls us all back into childishness, then fake freedom conspires to keep us there. |
 | truth | 真实 | Instead, most of us will google for what is pleasant but untrue. |
 | people | 人们 | The world runs on one thing: feelings. |
-| choice | 选择 | The more options we’re given (i.e., the more “freedom” we have), the less satisfied we are with whatever option we go with. |
 
 ## 一句话总结
 

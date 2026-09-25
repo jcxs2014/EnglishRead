@@ -119,15 +119,15 @@ source_text: ch01
 
 **为什么这样写**：全段最重要的诚实之处，是不把希望美化成永远正确的答案；它只是避免无望的心理后果，因此必须接受它可能不完美。
 
-> **原句 8:** "It doesn’t matter if the way you get to hope is via religious faith or evidence-based theory or an intuition or a well-reasoned argument—they all produce the same result."
+> **原句 8:** "It doesn’t matter if the way you get to hope is via religious faith or evidence-based theory or an intuition or a well-reasoned argument—they all produce the same result: you have some belief that (a) there is potential for growth or improvement or salvation in the future, and (b) there are ways we can navigate ourselves to get there."
 
-**中文理解**：你通过宗教信仰、基于证据的理论、直觉还是充分论证获得希望，并不重要；它们最终都产生同样的结果。
+**中文理解**：你通过宗教信仰、基于证据的理论、直觉还是充分论证获得希望，并不重要；它们最终都产生同样的结果：你相信未来存在成长、改善或救赎的可能，也相信自己能找到抵达那里的路径。
 
-**句子结构**：主句为 It doesn’t matter + whether/if...；via...or...形成四条路径的并列；破折号后 they all produce the same result 给出结论。
+**句子结构**：主句为 It doesn’t matter + whether/if...；via...or...形成四条路径的并列；破折号后的 they all produce the same result 引出冒号解释，两个条件共同说明希望的具体内容。
 
-**关键词**：It doesn’t matter（这并不重要）；via...or...（通过……或……）；produce the same result（产生同样的结果）。
+**关键词**：It doesn’t matter（这并不重要）；via...or...（通过……或……）；potential for growth（成长的可能）；navigate ourselves to get there（引导自己抵达那里）。
 
-**表达方式**：把不同认识路径压缩为“通往 hope 的不同路线”，再用破折号分号转折到共同结果；作者在此处强调结果的功能性，而非宗教或理性路径的绝对优先级。
+**表达方式**：先承认不同认识路径，再把它们压缩到同一个心理结果：相信未来可能，并相信存在抵达路径；这是从信念方式转向希望结构的功能性分析。
 
 **为什么这样写**：这让全书的“希望”保持开放性：它既不要求读者接受宗教，也不要求读者拥有纯理性证据，而允许不同信念承担同样的心理功能。
 
@@ -168,7 +168,7 @@ source_text: ch01
 | benevolent | 仁慈的；善意的 | And not just any hope, but a sustainable, benevolent form of hope. |
 | nihilism | 虚无主义 | Hopelessness is a cold and bleak nihilism, a sense that there is no point |
 | resignation | 听天由命；顺从命运 | an endless gray horizon of resignation and indifference |
-| stabilize | 稳定；使稳定 | as they are the only stabilizing force protecting our minds from the Uncomfortable Truth |
+| stabilizing | 起稳定作用的 | as they are the only stabilizing force protecting our minds from the Uncomfortable Truth |
 | gratitude | 感激；感恩 | a sense of gratitude and satisfaction |
 | aspiration | 抱负；志向 | it was important for me to carry on hope and aspiration in his honor |
 
@@ -198,7 +198,7 @@ source_text: ch01
 | survive | 生存 | Our psyche needs hope to survive |
 | control | 控制 | a sense of control |
 | values | 价值 | a belief in the value of something |
-| community | 共同体；群体 | and a community |
+| community | 共同体；群体 | our sense of control ( chapter 2 ), our values ( chapter 3 ), and our communities ( chapter 4 ) |
 | future | 未来 | the future will be better than the present |
 | nothing | 什么也没有；无 | we believe we are nothing |
 
