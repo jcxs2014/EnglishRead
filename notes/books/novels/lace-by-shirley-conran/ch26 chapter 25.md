@@ -19,7 +19,7 @@ source_text: ch26
 > **原句 1:** "Now I'm going to undress you," he purred, "very slowly."
 
 - 中文理解："现在我要脱你的衣服，"他咕哝着说，"慢慢地脱。"
-- 关键词：purred / very slowly / undress you——预告、速度和许可。
+- 关键词：purred / very slowly / undress you——预告、速度和掌控。
 - 为什么这样写：`purred` 把命令说成宠爱，`very slowly` 把控制说成体贴；预告本身成了他展示 technique 的仪式。
 - 读者视角提示：女人抗议的恰恰是节奏，而他从不放弃节奏。
 
@@ -101,7 +101,6 @@ source_text: ch26
 | aide-de-camp | 副官 | "his aide-de-camp was calling him through the ornate doors" |
 | prince | 王子；亲王 | "Prince Abdullah’s mind spun back seven years to 1947" |
 | receiver | 听筒 | "carefully lifted the receiver and had a short conversation" |
-| aide-de-camp | 副官 | "his aide-de-camp was calling him through the ornate doors" |
 | gun | 枪 | "had grabbed his gun before the woman on the bed realised" |
 
 ## 一句话总结

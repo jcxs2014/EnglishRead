@@ -8,7 +8,7 @@ source_text: ch62
 
 ## 本章导航
 
-- **一句话概括**：1949 年 2 月 6 日夜里，Gstaad 某家酒店的走廊上，一个端着盘子的女服务员撞上了刚离开 Pagan 的男人；三天后她硬着头皮回到 ballroom，端着托盘，看见他挽着 Pagan 的手臂走进来——那个强暴她的"黑发陌生人"，是 Sydon 的王子。
+- **一句话概括**：1949 年 2 月 6 日夜里，Gstaad 某家酒店的走廊上，一个端着盘子的女服务员撞上了刚离开 Pagan 的男人；一周后——情人节那晚——她硬着头皮回到 ballroom，端着托盘，看见他挽着 Pagan 的手臂走进来——那个强暴她的"黑发陌生人"，是 Sydon 的王子。
 - **情感弧线位置**：全书因果的起点，也是全书最深的一道底色；前六十章里四个女人之间那套不讲道理的忠诚、互相照看和绝不追问的默契，都源于这一夜。
 - **Tropes 兑现/反转**："灰姑娘被王子带走"的幻想被彻底反转：她确实遇见了王子，可那晚之后她不能报警、不能说、连自己曾经"勾引过他"的念头都不敢有——而他甚至没记住她的脸。
 - **人物弧线：Judy 从那个在商务会议上寸步不让的人，退回到一个十七岁、只学会"把这件事咽下去"的女孩；Abdullah 则从头到尾是一个不知道自己做过什么的人。
@@ -20,7 +20,7 @@ source_text: ch62
 
 - 中文理解："见鬼，"她说完就哭了出来。
 - 关键词：Goddammit / burst into tears — 一个粗口和一次爆发。
-- 为什么这样写：全章的第一个词是脏话，说明这个此前几乎没说过一句台词的女孩，从一开始就是被打断的；破折号之后的动作比任何解释都快。
+- 为什么这样写：全章的第一句台词就是一个脏话，说明这个此前一句台词都没说过的女孩，从一开始就是被打断的；逗号之后的动作比任何解释都快。
 - 读者视角提示：读者应该在这一行就明白，这个女孩的全部人生都将在下一分钟里决定。
 
 > **原句 2:** "Don't cry, little bird," he murmured, "why this weeping? The first time there is always pain, little bird."
@@ -41,7 +41,7 @@ source_text: ch62
 
 - 中文理解：绝不能让任何人知道。没有哪个男孩会娶一个被强奸过的女孩。她只会被鄙视。她只能独自承受这份痛苦。
 - 关键词：Nobody must ever know / No boy ever goes with a girl that's been raped / She had to suffer this misery by herself — 三层自我封闭。
-- 为什么这样写：三个短句排成一段清点，逻辑严密得可怕；`that has been raped` 这个现在分词结构，让"经历"变成"身份"，于是她被永久地改写了。
+- 为什么这样写：四个短句排成一段清点，逻辑严密得可怕；`that's been raped` 这个过去分词（被动）结构，让"经历"变成"身份"，于是她被永久地改写了。
 - 读者视角提示：读者应该在这一句里听见全书对女性处境最冷的一次估价——她连被同情的资格都没有。
 
 > **原句 5:** "She didn't worry about catching a sexual disease because she didn't know that they existed, and oddly enough, it never once occurred to her that she might be pregnant."
@@ -49,14 +49,14 @@ source_text: ch62
 - 中文理解：她并不担心染上性病，因为她根本不知道有这种东西；而且奇怪的是，她一次也没想到自己可能会怀孕。
 - 关键词：didn't know that they existed / it never once occurred to her / she might be pregnant — 两次"不知道"。
 - 为什么这样写：句子用两次无知保护了一个十七岁的女孩；`never once` 的强调让读者的心沉下去——她之所以没算到，恰恰是因为她不知道自己要算什么。
-- 读者视角提示：读者应该在这里意识到，这一夜唯一活下来的不是爱情，是她自己的身体，而它将要在四十九年后变成一份出生证明。
+- 读者视角提示：读者应该在这里意识到，这一夜唯一活下来的不是爱情，是她自己的身体，而它将在不到八个月后变成一份出生证明——1949 年 10 月 15 日。
 
 > **原句 6:** "Had she led him on? And, if so, to what extent was she guilty?"
 
 - 中文理解：是她自己招来的吗？如果是，那她有多大责任？
 - 关键词：Had she led him on / to what extent was she guilty — 两个自我审问。
-- 为什么这样写：两个问句都用了完成时；`guilty` 那个词把她的整套辩护——"停、别、我不想"——压缩成一个她答不出的变量。
-- 读者视角提示：读者应该在这里明白，这三个问号会跟着她四十九年，直到第 60 章她终于说出"我不知道我是谁"。
+- 为什么这样写：两个问句都落在过去：第一个用过去完成时，把"是不是早就勾引过他"推到更早的时间点，第二个用一般过去时，把责任推到她眼前；`guilty` 那个词把她的整套辩护——"停、别、我不想"——压缩成一个她答不出的变量。
+- 读者视角提示：读者应该在这里明白，这两个问号会跟着她近三十年；直到第三十九章，同一句 "I don't know who I am" 从女儿 Lili 嘴里说出来——追问的人已经换了。
 
 > **原句 7:** "It would not occur to him to notice the face of a waitress."
 

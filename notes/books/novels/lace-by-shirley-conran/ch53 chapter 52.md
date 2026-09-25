@@ -39,7 +39,7 @@ source_text: ch53
 
 > **原句 4:** "Judy felt a sharp, nasty feeling—a sort of yellow jab in the head—that, to her surprise, she immediately recognised as jealousy."
 
-- 中文理解：Judy 感到一阵尖锐的、难受的东西——像是脑袋里被人捅了一记黄拳——她吃惊地立刻认出那是嫉妒。
+- 中文理解：Judy 突然感到一阵尖锐而令人不快的情绪——像脑袋里挨了一记不光彩的突袭——她吃惊地立刻认出那是嫉妒。
 - 关键词：a sharp, nasty feeling / a sort of yellow jab in the head / immediately recognised as jealousy — 三个阶段。
 - 为什么这样写：感受先以身体形式出现，然后被命名；`immediately` 说明她对自己的了解快过对自己情绪的了解，这一点在全书反复出现。
 - 读者视角提示：读者应该在这一刻明白，她嫉妒的不是 Kate 的房子，是 Kate 拥有那种不必解释的日常。
@@ -48,7 +48,7 @@ source_text: ch53
 
 - 中文理解："我不认为做那匹马的人是想把它养在银行金库里。我想他一定希望 Kate 拥有它。"
 - 关键词：I don't think / he'd want Kate to have it — 两个 `think`。
-- 为什么这样写：句子把死物的意愿和活人的需求放在同一句里；`he'd want` 用一个完成时讲给一个已经过了一千多年的人的话。
+- 为什么这样写：句子把死物的意愿和活人的需求放在同一句里；`he'd want` 用推测语气想象那位制作者对千年之后归属的愿望。
 - 读者视角提示：这是全章唯一一次有人为一件东西说话，而说出的话正好是这一章的主题：藏品该属于谁。
 
 > **原句 6:** "Now look, I didn't come here to discuss that guilt-and-responsibility thing again. I'm here to ask you, now that it's possible—will you marry me, darling?"
@@ -69,7 +69,7 @@ source_text: ch53
 
 - 中文理解："当然了，我本来就没指望被感谢。"
 - 关键词：Naturally / I didn't expect to be thanked — 两个副词式的轻描淡写。
-- 为什么这样写：整句只有八个词，语气却是一个已经习惯了不被感谢的人的口吻；`Naturally` 让这委屈听上去像常识。
+- 为什么这样写：整句只有七个词，语气却是一个已经习惯了不被感谢的人的口吻；`Naturally` 让这委屈听上去像常识。
 - 读者视角提示：把这句和本章最后那句"她答不出来"放在一起，才看得出她们都住在同一套不被感谢的婚姻里。
 
 ## 本章词汇

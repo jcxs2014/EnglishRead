@@ -62,7 +62,7 @@ source_text: ch48
 
 - 中文理解：一段要维持下去的关系，不是建立在纯粹的性疯狂和不停的性兴奋上，而是建立在……理解和宽容上。
 - 关键词：isn't based on sheer sexual madness and nonstop sexual excitement / but on . . . understanding and tolerance — 一组排除和一次停顿。
-- 为什么这样写：三个 `and` 串起一堆被否定的词，节奏拖得越来越长；`but on . . .` 后面那个省略号让"理解和宽容"落得特别慢。
+- 为什么这样写：两个 `and` 串起一组被否定的性欲词，节奏拖得越来越长；`but on . . .` 后面那个省略号让"理解和宽容"落得特别慢。
 - 读者视角提示：她说这话时二十四周岁，正在用一句成熟的话解释自己为什么接受一段不平等——而她对性遭遇的全部记忆都在这本书的前五十章里。
 
 > **原句 8:** "She knew immediately that something dreadful had happened to Jo."

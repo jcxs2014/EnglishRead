@@ -9,7 +9,7 @@ source_text: ch58
 ## 本章导航
 
 - **一句话概括**：一年后 Lili 成了国王的隐居伴侣，白天孤独、夜晚激烈；当他发现她和美国大使握了手，那个"残酷还是无情"的辩论只用了两句就结束，接下来沙滩上是一场没有自控的粗鲁，以及全书最锋利的一段反问——"你不能信任任何人，也就不能爱任何人。"
-- **情感弧线位置**：全书爱情线的天花板与转折点；第 25 章那个用"你什么都不用怕"支配她的人，此刻正用"我不能信任任何人"解释他为什么不给她全部。
+- **情感弧线位置**：全书爱情线的天花板与转折点；此前那个用"你不必怕我"式承诺把她圈住的人，此刻正用"我不能信任任何人"解释他为什么不给她全部。
 - **Tropes 兑现/反转**："灰姑娘与王子的结合"没有走到婚礼：她不是妻子而是"国王的婊子"，而他给不出不设防的爱——不是因为不爱，而是因为王位要求他永远先怀疑。
 - **人物弧线：Lili 从"被保护"走到"要求全部"；Abdullah 从"我无情但不残酷"走到被逼承认自己怕再次失去；两人第一次不在床上和解，而在沙滩上把话说完。
 - **叙事手法：用一间房的尺度和颜色写她的处境（十五米、三面玻璃、桃色房间、阿比西尼亚豹皮）；用一场未完成的争吵替代正式分手；结尾让"过去时"那一个词承担全部转折。
@@ -39,14 +39,14 @@ source_text: ch58
 
 > **原句 4:** "My advisers resent my—consorting—with a Westerner, and they cannot afford to regard you as trustworthy!"
 
-- 中文理解："我的谋臣们不满我——和一个西方人厮混——而且他们不能被说服认为你是可信的！"
+- 中文理解："我的谋臣们不满我——和一个西方人厮混——而且他们承担不起把你当作可信之人的代价！"
 - 关键词：My advisers resent / consorting with a Westerner / cannot afford to regard you as trustworthy — 一对破折号。
 - 为什么这样写：那两个破折号把 `consorting` 夹在中间，语法上像是他自己也说不出口；`cannot afford to regard` 把谋臣的算计说成一种财政决定。
-- 读者视角提示：读者应该在这里明白，他说的每一句话都主语是"我的谋臣"——他从没说过这是他自己的判断。
+- 读者视角提示：读者应该在这里明白，这句话的两个分句主语都是“我的谋臣”"——他从没说过这是他自己的判断。
 
 > **原句 5:** "This is never going to work, is it?" she cried. "Constantly I am made aware of the reasons that I am wrong for you, Abdi, but do you realise that there is a major reason why you are wrong for me?"
 
-- 中文理解："这永远行不通，对不对？"她喊道。"我不断被提醒我哪里配不上你，可你有没有意识到，有一个重要的理由是我配不上你的？"
+- 中文理解："这永远行不通，对不对？"她喊道。"我不断被提醒自己哪里配不上他，可你有没有意识到，有一个重要的理由是我不该要他？"
 - 关键词：This is never going to work / the reasons that I am wrong for you / there is a major reason why you are wrong for me — 一个对称的反问。
 - 为什么这样写：句子用 `wrong for you` 和 `wrong for me` 做一次完美的对调；`major reason` 这个说法把"他不够格"和"她不够格"放上天平两端。
 - 读者视角提示：这是全书最重要的一次论证反转——她用他那套"找不到理由"的推演方式，反过来审他。
@@ -70,7 +70,7 @@ source_text: ch58
 - 中文理解："你们西方人，一味追问身份，永远不知道自己是谁。要是你真想知道，那为什么不去查清楚，而不是光说不做？"
 - 关键词：endless quest for identity / why don't you try to find out / instead of simply talking about it — 两个反问。
 - 为什么这样写：`You Westerners` 一开口就把她整个人变成一个类别；最后那个 `instead of simply talking about it` 把"空谈"说成她唯一的习惯。
-- 读者视角提示：读者应该在这一刻想起她三个月前在车上说过的那句"我要去见那个真的我"——他正在把她自己提出的任务，退回成一句指责。
+- 读者视角提示：读者应该在这一刻想起一年前她在 Zimmer 公寓里说过的那句"我要去见那个真的我"——他正在把她自己提出的任务，退回成一句指责。
 
 ## 本章词汇
 
