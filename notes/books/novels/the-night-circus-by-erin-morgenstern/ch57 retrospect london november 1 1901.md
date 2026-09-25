@@ -7,10 +7,10 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Hector（灰衣人的鬼魂）与Mr. A. H—在马戏团中对话，揭示棋手的对决、他们对Celeste与Marco的操控，以及Friedrick之死背后的真相。
+- **一句话概括**：Hector（灰衣人的鬼魂）与Mr. A. H—在马戏团中对话，揭示棋手的对决、他们对Celia与Marco的操控，以及Friedrick之死背后的真相。
 - **情感弧线位置**：揭秘 / 幕后真相的第一次正面呈现
 - **Tropes 兑现/反转**：师徒对决（Mentor vs. Mentor）——两个幕后操控者的摊牌；无情节反转，有立场冲突
-- **人物弧线**：Mr. A. H—（灰衣人）vs. Hector的对抗，揭示两人分别操控着Celeste与Marco，Friedrick之死是两方博弈的意外代价
+- **人物弧线**：Mr. A. H—（灰衣人）vs. Hector的对抗，揭示两人分别操控着Celia与Marco，Friedrick之死是两方博弈的意外代价
 - **叙事手法**：双鬼魂对话，场景切换（从人群到离开），大量对话驱动
 
 ## 精读
@@ -99,7 +99,7 @@ modified: "2026-09-25"
 
 **关键词**：keeps them apart / put them together properly / she would have broken him years ago
 
-**为什么这样写**：Hector批评灰衣人的隔离策略——认为如果Celeste和Marco从一开始就被放在一起，Celeste会赢；但灰衣人的设计是让他们慢慢爱上对方，然后让一方毁掉另一方——这是更残忍的玩法。
+**为什么这样写**：Hector批评灰衣人的隔离策略——认为如果Celia和Marco从一开始就被放在一起，Celia会赢；但灰衣人的设计是让他们慢慢爱上对方，然后让一方毁掉另一方——这是更残忍的玩法。
 
 ---
 
@@ -110,7 +110,7 @@ modified: "2026-09-25"
 
 **关键词**：Has your current state made you blind / fool to trap yourself / besotted with the other / would have happened sooner
 
-**为什么这样写**：灰衣人反击——他指出Hector困于鬼魂状态（因为输掉了比赛），以及Hector看不到Marco和Celeste彼此深爱的事实。这是全书第一次有人明确说出Marco和Celeste的关系本质。
+**为什么这样写**：灰衣人反击——他指出Hector困于鬼魂状态（因为输掉了比赛），以及Hector看不到Marco和Celia彼此深爱的事实。这是全书第一次有人明确说出Marco和Celia的关系本质。
 
 ---
 
@@ -121,7 +121,7 @@ modified: "2026-09-25"
 
 **关键词**：damned matchmaker / narrowed eyes vanishing and reappearing / I have trained my player better than that
 
-**为什么这样写**：Hector的反驳——讽刺灰衣人的"保密协议"实际上是在撮合他们；"I have trained my player better than that"表明他对Celeste的实力有信心，暗示Celeste是更强的选手。
+**为什么这样写**：Hector的反驳——讽刺灰衣人的"保密协议"实际上是在撮合他们；"I have trained my player better than that"表明他对Celia的实力有信心，暗示Celia是更强的选手。
 
 ---
 
@@ -132,7 +132,7 @@ modified: "2026-09-25"
 
 **关键词**：she came to me / invited me here personally / a figure in the crowd catching his eye
 
-**为什么这样写**：灰衣人暗示Celeste主动来找他，请求某种干预——这是重要的情报，说明Celeste并非完全被动；他的中断暗示他看到了Marco或Chandresh。
+**为什么这样写**：灰衣人暗示Celia主动来找他，请求某种干预——这是重要的情报，说明Celia并非完全被动；他的中断暗示他看到了Marco或Chandresh。
 
 ---
 
@@ -143,7 +143,7 @@ modified: "2026-09-25"
 
 **关键词**：choose a player you could tolerate losing / grow too attached to your students / few of them ever realize that
 
-**为什么这样写**：Hector的观察——灰衣人爱上了Marco（"too attached"），这是他的弱点；"能意识到这一点的学生少之又少"是Hector的自省——他自己也曾对Celeste投入太多，导致她的失败。
+**为什么这样写**：Hector的观察——灰衣人爱上了Marco（"too attached"），这是他的弱点；"能意识到这一点的学生少之又少"是Hector的自省——他自己也曾对Celia投入太多，导致她的失败。
 
 ---
 
@@ -154,7 +154,7 @@ modified: "2026-09-25"
 
 **关键词**：end the game themselves / Seven / Will your daughter be the eighth
 
-**为什么这样写**：全书最黑暗的对话之一——暗示Hector之前有七个学生选择自杀（结束游戏）；而Celeste可能成为第八个。灰衣人的冷酷揭示了竞技的真正代价：不是输赢，而是死亡。
+**为什么这样写**：全书最黑暗的对话之一——暗示Hector之前有七个学生选择自杀（结束游戏）；而Celia可能成为第八个。灰衣人的冷酷揭示了竞技的真正代价：不是输赢，而是死亡。
 
 ---
 
@@ -165,7 +165,7 @@ modified: "2026-09-25"
 
 **关键词**：That is not going to happen again / sharp and heavy / insubstantial form
 
-**为什么这样写**：Hector的决心——尽管已成鬼魂，他仍决心不让Celeste重蹈覆辙；"again"证实了前七个学生的悲剧。
+**为什么这样写**：Hector的决心——尽管已成鬼魂，他仍决心不让Celia重蹈覆辙；"again"证实了前七个学生的悲剧。
 
 ---
 
@@ -176,7 +176,7 @@ modified: "2026-09-25"
 
 **关键词**：If she wins / she will hate you for it
 
-**为什么这样写**：灰衣人的另一层残忍——即使Celeste赢了，她也不会感激Hector，因为Hector从一开始就在操控她的人生。
+**为什么这样写**：灰衣人的另一层残忍——即使Celia赢了，她也不会感激Hector，因为Hector从一开始就在操控她的人生。
 
 ---
 
@@ -187,7 +187,7 @@ modified: "2026-09-25"
 
 **关键词**：She will win / stronger player than yours / always has been
 
-**为什么这样写**：Hector对Celeste的绝对信心——这是父亲对女儿的信任，也是一个训练者对选手的信念。
+**为什么这样写**：Hector对Celia的绝对信心——这是父亲对女儿的信任，也是一个训练者对选手的信念。
 
 ---
 
@@ -198,18 +198,18 @@ modified: "2026-09-25"
 
 **关键词**：lifts a hand / amplifying the sound / repeating Friedrick's name / in increasing panic
 
-**为什么这样写**：灰衣人的能力展示（放大声音）——他让Hector听到Celeste的崩溃，这是他的武器：让Hector面对自己造成的伤害。Celeste念着Friedrick的名字——证明她在乎这个被她间接杀死的人。
+**为什么这样写**：灰衣人的能力展示（放大声音）——他让Hector听到Celia的崩溃，这是他的武器：让Hector面对自己造成的伤害。Celia念着Friedrick的名字——证明她在乎这个被她间接杀死的人。
 
 ---
 
 > **原句 18:**
-> "Does that sound like strength to you?" he asks, dropping his hand and letting Celestes voice blend into the din of the crowd.
+> "Does that sound like strength to you?" he asks, dropping his hand and letting Celias voice blend into the din of the crowd.
 
-**中文理解**："这听起来像力量吗？"他放下手，让Celeste的声音消散在人群的喧哗中。
+**中文理解**："这听起来像力量吗？"他放下手，让Celia的声音消散在人群的喧哗中。
 
 **关键词**：Does that sound like strength / dropping his hand / blend into the din of the crowd
 
-**为什么这样写**：灰衣人的最后一击——Celeste的崩溃证明她不是"强者"，至少现在不是；这直接反驳了Hector的断言。
+**为什么这样写**：灰衣人的最后一击——Celia的崩溃证明她不是"强者"，至少现在不是；这直接反驳了Hector的断言。
 
 ---
 

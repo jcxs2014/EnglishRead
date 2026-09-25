@@ -7,11 +7,11 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Celeste乘坐神秘火车从伦敦前往慕尼黑，在火车上与Tsukiko深谈——得知Tsukiko也是曾经的参赛者，她的对手如今是"京都田野里的一柱灰烬"；Celeste试图从她那里获取关于游戏规则的答案。
-- **情感弧线位置**：揭秘 / 沉思，Celeste在崩溃后的重建中寻求方向
+- **一句话概括**：Celia乘坐神秘火车从伦敦前往慕尼黑，在火车上与Tsukiko深谈——得知Tsukiko也是曾经的参赛者，她的对手如今是"京都田野里的一柱灰烬"；Celia试图从她那里获取关于游戏规则的答案。
+- **情感弧线位置**：揭秘 / 沉思，Celia在崩溃后的重建中寻求方向
 - **Tropes 兑现/反转**：师徒揭示（Mentor Revelation）——Tsukiko是前任参赛者；火车是"之间"（in-between）的象征空间
 - **人物弧线**：Tsukiko从"神秘旁观者"变为"曾经的参赛者"，她的存在证明游戏可以结束，但代价是死亡
-- **叙事手法**：火车内景与对话为主，Celeste内聚焦；空间逼仄但信息密度极高
+- **叙事手法**：火车内景与对话为主，Celia内聚焦；空间逼仄但信息密度极高
 
 ## 精读
 
@@ -22,7 +22,7 @@ modified: "2026-09-25"
 
 **关键词**：opulent gilded warm / thick patterned carpets / burgundies and violets and creams / dipped in a sunset / holding on to the colors before they fade to midnight and stars
 
-**为什么这样写**：火车内部是马戏团的美学延伸——奢华、色彩丰富、介于日夜之间的时刻感；"在褪色成午夜和星辰之前抓紧颜色"暗示所有美好事物的短暂性，也暗示Celeste正在抓紧她与Marco共度的最后时光。
+**为什么这样写**：火车内部是马戏团的美学延伸——奢华、色彩丰富、介于日夜之间的时刻感；"在褪色成午夜和星辰之前抓紧颜色"暗示所有美好事物的短暂性，也暗示Celia正在抓紧她与Marco共度的最后时光。
 
 ---
 
@@ -33,18 +33,18 @@ modified: "2026-09-25"
 
 **关键词**：You are not interrupting / help me convince Isobel / she is in need of some rest
 
-**为什么这样写**：Tsukiko请Celeste帮忙——显示两人之间有一定程度的信任；Isobel在哭（因为她撤除护符导致Friedrick之死）；Tsukiko的平静与Isobel的崩溃形成对比。
+**为什么这样写**：Tsukiko请Celia帮忙——显示两人之间有一定程度的信任；Isobel在哭（因为她撤除护符导致Friedrick之死）；Tsukiko的平静与Isobel的崩溃形成对比。
 
 ---
 
 > **原句 3:**
 > "I was bound into a challenge almost thirty years ago," Celia says. She sips her tea before adding, "Are you going to show me your scar, now that you have seen mine?"
 
-**中文理解**："我大约三十年前被绑定进一场比赛，"Celeste说。她抿了一口茶，然后补充道："你看过我的伤疤了，现在你要给我看你的吗？"
+**中文理解**："我大约三十年前被绑定进一场比赛，"Celia说。她抿了一口茶，然后补充道："你看过我的伤疤了，现在你要给我看你的吗？"
 
 **关键词**：bound into a challenge / almost thirty years ago / Are you going to show me your scar / now that you have seen mine
 
-**为什么这样写**：Celeste主动展示伤疤并询问Tsukiko的——这是信任的交换，也是对等的寻求；三十年的束缚在此被轻描淡写。
+**为什么这样写**：Celia主动展示伤疤并询问Tsukiko的——这是信任的交换，也是对等的寻求；三十年的束缚在此被轻描淡写。
 
 ---
 
@@ -77,7 +77,7 @@ modified: "2026-09-25"
 
 **关键词**：There is more to it than you think / everything you do every moment of the day and night is a move / You carry your chessboard with you / not contained within canvas and stripes
 
-**为什么这样写**：Tsukiko揭示游戏的真正本质——不是关于帐篷或魔法，而是关于"每时每刻"的生活方式；这意味着Celeste与Marco的爱情、Bailey的加入、每个人的选择都是游戏的一部分。棋盘随身携带——游戏即生活。
+**为什么这样写**：Tsukiko揭示游戏的真正本质——不是关于帐篷或魔法，而是关于"每时每刻"的生活方式；这意味着Celia与Marco的爱情、Bailey的加入、每个人的选择都是游戏的一部分。棋盘随身携带——游戏即生活。
 
 ---
 
@@ -99,7 +99,7 @@ modified: "2026-09-25"
 
 **关键词**：Do you believe he loves you
 
-**为什么这样写**：Tsukiko的问题直击Celeste的信任危机——她刚刚发现游戏的规则，可能Marco对她的感情也只是游戏的一部分？这是全书最残酷的问题之一。
+**为什么这样写**：Tsukiko的问题直击Celia的信任危机——她刚刚发现游戏的规则，可能Marco对她的感情也只是游戏的一部分？这是全书最残酷的问题之一。
 
 ---
 
@@ -110,7 +110,7 @@ modified: "2026-09-25"
 
 **关键词**：matter of perspective / opponent and partner / step to the side / which face is true
 
-**为什么这样写**：Tsukiko的哲学——爱情与操纵可以并存，同一个人可以同时是对手和爱人；这与Celeste的困境直接相关：Marco是爱她还是在操纵她？
+**为什么这样写**：Tsukiko的哲学——爱情与操纵可以并存，同一个人可以同时是对手和爱人；这与Celia的困境直接相关：Marco是爱她还是在操纵她？
 
 ---
 
@@ -121,7 +121,7 @@ modified: "2026-09-25"
 
 **关键词**：You have work to do / if you expect this circus to endure / stabbed a knife in your heart / this train would crash
 
-**为什么这样写**：Tsukiko揭示Celeste与马戏团的绑定程度——如果她死了，马戏团也会毁；这是她不能轻易退出游戏的原因，也是她正在试图让马戏团独立于自己的原因。
+**为什么这样写**：Tsukiko揭示Celia与马戏团的绑定程度——如果她死了，马戏团也会毁；这是她不能轻易退出游戏的原因，也是她正在试图让马戏团独立于自己的原因。
 
 ---
 
@@ -162,4 +162,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-火车上的秘密对话——Tsukiko揭示自己曾是参赛者（对手已成灰烬），Celeste得知游戏是每时每刻的生死之争，而爱与操纵的边界在Tsukiko的哲学中变得模糊不清。
+火车上的秘密对话——Tsukiko揭示自己曾是参赛者（对手已成灰烬），Celia得知游戏是每时每刻的生死之争，而爱与操纵的边界在Tsukiko的哲学中变得模糊不清。

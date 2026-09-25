@@ -77,7 +77,7 @@ modified: "2026-09-25"
 
 **关键词**：smiles at you / white flames in her hand / deft movement of her fingers / a boat / a book / a heart of fire
 
-**为什么这样写**：三个形状——船（旅程）、书（故事）、心（爱情）——恰好是马戏团和Celeste/Marco关系的三个核心象征。火心是全章的情感高潮，也是对ch58"Beautiful Pain"的回响。
+**为什么这样写**：三个形状——船（旅程）、书（故事）、心（爱情）——恰好是马戏团和Celia/Marco关系的三个核心象征。火心是全章的情感高潮，也是对ch58"Beautiful Pain"的回响。
 
 ## 本章词汇
 

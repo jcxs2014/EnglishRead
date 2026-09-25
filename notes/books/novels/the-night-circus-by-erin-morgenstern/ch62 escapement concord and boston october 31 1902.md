@@ -88,7 +88,7 @@ modified: "2026-09-25"
 
 **关键词**：He did always sound very fond of her / How could anyone not be fond of her / Lorena turns to look at him curiously
 
-**为什么这样写**：reveur 们观察到Friedrick对Celeste的深情；Victor对Celeste才华的赞美（"怎么可能有人不喜欢她"）与他对"secret romance" gossip的嗤之以鼻形成张力；Lorena的"好奇地看他"暗示Victor对Celeste可能有超越崇拜的感情。
+**为什么这样写**：reveur 们观察到Friedrick对Celia的深情；Victor对Celia才华的赞美（"怎么可能有人不喜欢她"）与他对"secret romance" gossip的嗤之以鼻形成张力；Lorena的"好奇地看他"暗示Victor对Celia可能有超越崇拜的感情。
 
 ---
 

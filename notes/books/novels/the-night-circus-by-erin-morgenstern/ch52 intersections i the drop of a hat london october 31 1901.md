@@ -7,7 +7,7 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：All Hallows' Eve 夜晚，Isobel 向 Marco 传达了坏消息，随后独自面对她多年来一直保护的 hatbox——里面是 Chandler 用过的旧礼帽和手帕，曾被她用来维持 circus 的平衡。
+- **一句话概括**：All Hallows' Eve 夜晚，Isobel 向 Marco 传达了坏消息，随后独自面对她多年来一直保护的 hatbox——里面是 一个旧礼帽和手帕，曾被她用来维持 circus 的平衡。
 - **情感弧线位置**：高潮前的压抑 · Isobel 意识到她所做的平衡工作已经失效，hatbox 被打开，ribbons 被撕裂。
 - **Tropes 兑现/反转**：hatbox 的双重含义（字面上装帽子的盒子 + 情感上保存的记忆)、"The smallest charms can be the most effective"（灰衣人的话再次回响）、 tarot La Papessa 牌（女教皇/阴性智慧）。
 - **人物弧线**：Isobel 从"平衡的守护者"变成"意识到自己无能为力的人"——她撕开 ribbons 但什么都没发生。

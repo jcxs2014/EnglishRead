@@ -33,7 +33,7 @@ modified: "2026-09-25"
 
 **关键词**：Two white cobras / coil around each other / in perfect time with the music / seem to be one snake / moving down along the sides / gliding onto the ground close to your feet
 
-**为什么这样写**：合一与分离——两条蛇在音乐中先合为一体再分开，暗示二元对立（Celeste/Marco、爱/恨、生/死）的流动性；它们靠近你的脚——你成为表演的一部分。
+**为什么这样写**：合一与分离——两条蛇在音乐中先合为一体再分开，暗示二元对立（Celia/Marco、爱/恨、生/死）的流动性；它们靠近你的脚——你成为表演的一部分。
 
 ---
 

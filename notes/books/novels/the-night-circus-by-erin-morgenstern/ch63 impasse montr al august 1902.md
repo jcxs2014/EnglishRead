@@ -7,11 +7,11 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Celeste与Marco在蒙特利尔马戏团相遇——两人终于对峙，Celeste透露她计划牺牲自己让Marco赢，以此结束比赛；Marco恳求她不要离开，但他们都知道无法改变结局。
+- **一句话概括**：Celia与Marco在蒙特利尔马戏团相遇——两人终于对峙，Celia透露她计划牺牲自己让Marco赢，以此结束比赛；Marco恳求她不要离开，但他们都知道无法改变结局。
 - **情感弧线位置**：高潮 / 诀别，马戏团即将终结前的最后对话
 - **Tropes 兑现/反转**：悲剧性诀别（Tragic farewell）——一方计划赴死，另一方恳求无果
-- **人物弧线**：Celeste从"修复者"到"准备赴死者"；Marco从"深爱她"到"眼睁睁看她离开"
-- **叙事手法**：场景在Celeste的幻术帐篷中展开，Celeste内聚焦；魔法场景（变出的 ballroom）与现实情感交织
+- **人物弧线**：Celia从"修复者"到"准备赴死者"；Marco从"深爱她"到"眼睁睁看她离开"
+- **叙事手法**：场景在Celia的幻术帐篷中展开，Celia内聚焦；魔法场景（变出的 ballroom）与现实情感交织
 
 ## 精读
 
@@ -22,7 +22,7 @@ modified: "2026-09-25"
 
 **关键词**：You have
 
-**为什么这样写**：Marco的控诉开场——简短的一句，"You have"是"You have been avoiding me"的省略说法，直指Celeste一直在逃避他的事实。
+**为什么这样写**：Marco的控诉开场——简短的一句，"You have"是"You have been avoiding me"的省略说法，直指Celia一直在逃避他的事实。
 
 ---
 
@@ -40,33 +40,33 @@ modified: "2026-09-25"
 > **原句 3:**
 > "I am trying to make the circus independent," Celia says. "To untie it from the challenge, from us. From me. I needed to learn your system to make it work properly."
 
-**中文理解**："我正在试图让马戏团独立，"Celeste说，"把它从比赛、从我们、从我这里解绑。我需要学习你的系统让它正常工作。"
+**中文理解**："我正在试图让马戏团独立，"Celia说，"把它从比赛、从我们、从我这里解绑。我需要学习你的系统让它正常工作。"
 
 **关键词**：make the circus independent / untie it from the challenge / from us / from me / learn your system to make it work properly
 
-**为什么这样写**：Celeste的目标——让马戏团在她死后仍能存在；这是她能留给世界的遗产。她偷走safeguard是为了理解它，而不是为了控制。
+**为什么这样写**：Celia的目标——让马戏团在她死后仍能存在；这是她能留给世界的遗产。她偷走safeguard是为了理解它，而不是为了控制。
 
 ---
 
 > **原句 3:**
 > "I have Ethan Barris and Lainie Burgess," Celia says. "They have agreed to assume management for the basic operation. With a little more training, Poppet and Widget should be able to handle the manipulation aspects that Ethan and Lainie cannot manage."
 
-**中文理解**："我有Ethan Barris和Lainie Burgess，"Celeste说，"他们已经同意承担基本运营的管理工作。再经过一些训练，Poppet和Widget应该能够处理Ethan和Lainie无法管理的那些操控性工作。"
+**中文理解**："我有Ethan Barris和Lainie Burgess，"Celia说，"他们已经同意承担基本运营的管理工作。再经过一些训练，Poppet和Widget应该能够处理Ethan和Lainie无法管理的那些操控性工作。"
 
 **关键词**：Ethan Barris / Lainie Burgess / assume management / basic operation / Poppet and Widget / handle the manipulation aspects
 
-**为什么这样写**：Celeste的继任计划——Ethan和Lainie负责基本运营，Poppet和Widget（因为他们的魔法能力）负责维持马戏团的魔法层面。这说明她已经在为身后事做准备。
+**为什么这样写**：Celia的继任计划——Ethan和Lainie负责基本运营，Poppet和Widget（因为他们的魔法能力）负责维持马戏团的魔法层面。这说明她已经在为身后事做准备。
 
 ---
 
 > **原句 4:**
 > "You don't trust me," he says. "Isobel trusted you," Celia says, looking at the ground. "So did Chandresh. How can I believe that you are honest with me and not with them, when I am the one you have the most reason to deceive?"
 
-**中文理解**："你不信任我，"他说。"Isobel信任你，"Celeste说，看着地面。"Chandresh也是。我怎么能相信你对我诚实而不是对他们诚实？当我是你最有理由欺骗的人时？"
+**中文理解**："你不信任我，"他说。"Isobel信任你，"Celia说，看着地面。"Chandresh也是。我怎么能相信你对我诚实而不是对他们诚实？当我是你最有理由欺骗的人时？"
 
 **关键词**：You don't trust me / Isobel trusted you / So did Chandresh / the most reason to deceive
 
-**为什么这样写**：Celeste的逻辑——如果Marco能欺骗Isobel和Chandresh，他也能欺骗她；她是对手，所以被他欺骗的可能性最大；这是信任悖论：你最爱的人也是最有可能伤害你的人。
+**为什么这样写**：Celia的逻辑——如果Marco能欺骗Isobel和Chandresh，他也能欺骗她；她是对手，所以被他欺骗的可能性最大；这是信任悖论：你最爱的人也是最有可能伤害你的人。
 
 ---
 
@@ -84,11 +84,11 @@ modified: "2026-09-25"
 > **原句 6:**
 > "It has to kill one of us," Celia says quietly.
 
-**中文理解**："我们之间必须有一个死，"Celeste平静地说。
+**中文理解**："我们之间必须有一个死，"Celia平静地说。
 
 **关键词**：It has to kill one of us
 
-**为什么这样写**：全章最残酷的对话的开场——Celeste终于对Marco说出了规则；他一直不知道（或不愿相信）比赛是致死的。她的平静与他的震惊形成对照。
+**为什么这样写**：全章最残酷的对话的开场——Celia终于对Marco说出了规则；他一直不知道（或不愿相信）比赛是致死的。她的平静与他的震惊形成对照。
 
 ---
 
@@ -99,7 +99,7 @@ modified: "2026-09-25"
 
 **关键词**：The one who survives is the victor / The winner lives the loser dies / That's how the game ends
 
-**为什么这样写**：Celeste补充了规则的细节——不是技能比拼，而是等对方死；这是她从父亲那里得知的真相，也是她决定赴死的原因。
+**为什么这样写**：Celia补充了规则的细节——不是技能比拼，而是等对方死；这是她从父亲那里得知的真相，也是她决定赴死的原因。
 
 ---
 
@@ -110,7 +110,7 @@ modified: "2026-09-25"
 
 **关键词**：do what your father did / take yourself off the board
 
-**为什么这样写**：Marco的理解——Celeste计划自杀，就像她父亲曾经让他的某个学生自杀一样；这是他的恐惧，也是他的控诉。
+**为什么这样写**：Marco的理解——Celia计划自杀，就像她父亲曾经让他的某个学生自杀一样；这是他的恐惧，也是他的控诉。
 
 ---
 
@@ -121,18 +121,18 @@ modified: "2026-09-25"
 
 **关键词**：I can't keep holding on / every night it becomes more difficult / I have to let you win
 
-**为什么这样写**：Celeste的疲惫——她每晚都在消耗自己；如果她不主动退出，比赛会继续直到她被消耗死。"Let you win"是她能选择的唯一死法——不是被杀，而是主动赴死。
+**为什么这样写**：Celia的疲惫——她每晚都在消耗自己；如果她不主动退出，比赛会继续直到她被消耗死。"Let you win"是她能选择的唯一死法——不是被杀，而是主动赴死。
 
 ---
 
 > **原句 9:**
 > As he kisses her, the bonfire glows brighter. The acrobats catch the light perfectly as they spin. The entire circus sparkles, dazzling every patron. And then the immaculate cohesion stops as Celia reluctantly breaks away.
 
-**中文理解**：他吻她的时候，篝火变得更亮了。杂技演员们在旋转中完美地捕捉着光线。整个马戏团闪闪发光，令每一位观众目眩神迷。然后完美的凝聚力停止了，Celeste不情愿地挣脱开。
+**中文理解**：他吻她的时候，篝火变得更亮了。杂技演员们在旋转中完美地捕捉着光线。整个马戏团闪闪发光，令每一位观众目眩神迷。然后完美的凝聚力停止了，Celia不情愿地挣脱开。
 
 **关键词**：bonfire glows brighter / acrobats catch the light / entire circus sparkles / immaculate cohesion stops / reluctantly breaks away
 
-**为什么这样写**：Magic与情感的连接——他们的亲吻能让马戏团发光；这是爱的力量，也是他们绑定之深的证明；但Celeste"不情愿地"挣脱——她想留下，但留下意味着继续比赛，而继续比赛意味着最终死亡。
+**为什么这样写**：Magic与情感的连接——他们的亲吻能让马戏团发光；这是爱的力量，也是他们绑定之深的证明；但Celia"不情愿地"挣脱——她想留下，但留下意味着继续比赛，而继续比赛意味着最终死亡。
 
 ---
 
@@ -173,4 +173,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-Celeste与Marco的诀别——她计划赴死让马戏团独立于比赛，他恳求她不要离开，但她的回答是"别回来"；在魔法的光芒中，他们知道这是最后一次拥抱。
+Celia与Marco的诀别——她计划赴死让马戏团独立于比赛，他恳求她不要离开，但她的回答是"别回来"；在魔法的光芒中，他们知道这是最后一次拥抱。

@@ -7,11 +7,11 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Marco与Celeste深夜在他满是魔法道具的公寓里相会——Celeste身上染着Friedrick的血，试图修复失败；两人终于肉体结合；Celeste离开时偷走了他的 safeguard 手册。
+- **一句话概括**：Marco与Celia深夜在他满是魔法道具的公寓里相会——Celia身上染着Friedrick的血，试图修复失败；两人终于肉体结合；Celia离开时偷走了他的 safeguard 手册。
 - **情感弧线位置**：高潮 / 破局，十年隐忍后的爆发
 - **Tropes 兑现/反转**：言情经典"终于结合"（The Union）——但背景是死亡与破碎；悲剧性洞房
-- **人物弧线**：Marco从"保护者"到"无力阻止悲剧"的失败；Celeste从"修复者"到接受"无法修复"的崩溃与释放
-- **叙事手法**：交替内聚焦（Celeste和Marco），场景在公寓现实与Marco的魔法密室之间穿梭
+- **人物弧线**：Marco从"保护者"到"无力阻止悲剧"的失败；Celia从"修复者"到接受"无法修复"的崩溃与释放
+- **叙事手法**：交替内聚焦（Celia和Marco），场景在公寓现实与Marco的魔法密室之间穿梭
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-09-25"
 
 **关键词**：opens of its own volition / locks falling open / hinges swinging wildly / spilling a bottle of ink
 
-**为什么这样写**：Celeste不用敲门——她的魔法让门为她打开；墨水洒出是全章"破碎"的第一个意象，与接下来染血的礼服形成对比（墨水黑，血猩红）。
+**为什么这样写**：Celia不用敲门——她的魔法让门为她打开；墨水洒出是全章"破碎"的第一个意象，与接下来染血的礼服形成对比（墨水黑，血猩红）。
 
 ---
 
@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：beneath her coat / gown is covered with blood / does Marco notice
 
-**为什么这样写**：延迟的发现——Marco第一眼看到的是Celeste这个人，而非她的状态；门锁的细节显示Celeste在进入前已经用魔法确保了私密性——她知道这次谈话不能被打断。
+**为什么这样写**：延迟的发现——Marco第一眼看到的是Celia这个人，而非她的状态；门锁的细节显示Celia在进入前已经用魔法确保了私密性——她知道这次谈话不能被打断。
 
 ---
 
@@ -55,18 +55,18 @@ modified: "2026-09-25"
 
 **关键词**：fix it / setting a clock to make it tick again / I knew exactly what was wrong / couldn't make it right / it didn't work
 
-**为什么这样写**：Celeste的"修复"尝试——用修复钟表的逻辑来修复人，这是她作为魔术师的本能；但Friedrick的死亡不是机械故障，不能用调整来逆转。她"认识他那么久"暗示两人的友谊深度，也是她内疚的根源。
+**为什么这样写**：Celia的"修复"尝试——用修复钟表的逻辑来修复人，这是她作为魔术师的本能；但Friedrick的死亡不是机械故障，不能用调整来逆转。她"认识他那么久"暗示两人的友谊深度，也是她内疚的根源。
 
 ---
 
 > **原句 5:**
 > "It was Isobel," Celia says.
 
-**中文理解**："是Isobel，"Celeste说。
+**中文理解**："是Isobel，"Celia说。
 
 **关键词**：It was Isobel
 
-**为什么这样写**：Celeste开口就说出了答案——是Isobel的护符出了问题。简短的一句揭示，节奏急促。
+**为什么这样写**：Celia开口就说出了答案——是Isobel的护符出了问题。简短的一句揭示，节奏急促。
 
 ---
 
@@ -77,13 +77,13 @@ modified: "2026-09-25"
 
 **关键词**：Isobel's charm / over the circus / I knew about it / I could feel it / didn't think it was doing much / why she chose tonight to stop
 
-**为什么这样写**：Isobel的护符——是她的魔法在维持Celeste和Marco之间的某种平衡；护符的撤除导致了今晚的一切混乱。Isobel选择今晚撤除的原因与Marco告诉Isobel他爱Celeste直接相关（见第8句）。
+**为什么这样写**：Isobel的护符——是她的魔法在维持Celia和Marco之间的某种平衡；护符的撤除导致了今晚的一切混乱。Isobel选择今晚撤除的原因与Marco告诉Isobel他爱Celia直接相关（见第8句）。
 
-**中文理解**："是Isobel，"Celeste说，"是Isobel对马戏团、对你和我施加的护符。我知道它的存在，我能感觉到它。我以为它没起什么作用，但显然它是起作用的。我不知道为什么她选择今晚撤除。"
+**中文理解**："是Isobel，"Celia说，"是Isobel对马戏团、对你和我施加的护符。我知道它的存在，我能感觉到它。我以为它没起什么作用，但显然它是起作用的。我不知道为什么她选择今晚撤除。"
 
 **关键词**：Isobel's charm / over the circus / I knew about it / I could feel it / didn't think it was doing much / why she chose tonight to stop
 
-**为什么这样写**：Isobel的护符——是她的魔法在维持Celeste和Marco之间的某种平衡；护符的撤除导致了今晚的一切混乱。Isobel选择今晚撤除的原因与Marco告诉Isobel他爱Celeste直接相关（见第8句）。
+**为什么这样写**：Isobel的护符——是她的魔法在维持Celia和Marco之间的某种平衡；护符的撤除导致了今晚的一切混乱。Isobel选择今晚撤除的原因与Marco告诉Isobel他爱Celia直接相关（见第8句）。
 
 ---
 
@@ -94,7 +94,7 @@ modified: "2026-09-25"
 
 **关键词**：I finally told her that I love you / I should have done it years ago / I thought she took it well / I haven't the slightest idea what Alexander was doing there
 
-**为什么这样写**：全章最关键的告白——Marco对Isobel说出"我爱Celeste"本意是信任的表示，却触发了Isobel撤除护符的连锁反应。Isobel的"接受得好"是误导——她的沉默不等于认同。
+**为什么这样写**：全章最关键的告白——Marco对Isobel说出"我爱Celia"本意是信任的表示，却触发了Isobel撤除护符的连锁反应。Isobel的"接受得好"是误导——她的沉默不等于认同。
 
 ---
 
@@ -105,7 +105,7 @@ modified: "2026-09-25"
 
 **关键词**：I wanted a verdict / I wanted this to be over / so I could be with you / a winner could be determined / how else they expect it to be settled
 
-**为什么这样写**：Celeste承认自己主动邀请了Mr. A. H———她想通过让裁判亲眼看马戏团来迫使比赛结束，但这个决定直接导致了Friedrick的死亡。她的动机是爱，但结果是死亡。
+**为什么这样写**：Celia承认自己主动邀请了Mr. A. H———她想通过让裁判亲眼看马戏团来迫使比赛结束，但这个决定直接导致了Friedrick的死亡。她的动机是爱，但结果是死亡。
 
 ---
 
@@ -116,7 +116,7 @@ modified: "2026-09-25"
 
 **关键词**：the one which binds everyone in the circus / the safeguard / I placed a copy of it in the bonfire / I've made adjustments to this one
 
-**为什么这样写**：Marco的 safeguard——一本记录所有人名字的册子，是他对马戏团的控制工具；他在篝火中放了一份副本，但这一本（有调整的版本）是他实际使用的。他让Celeste看到他的整个系统——这是最深的信任，也是最后背叛的前奏。
+**为什么这样写**：Marco的 safeguard——一本记录所有人名字的册子，是他对马戏团的控制工具；他在篝火中放了一份副本，但这一本（有调整的版本）是他实际使用的。他让Celia看到他的整个系统——这是最深的信任，也是最后背叛的前奏。
 
 ---
 
@@ -138,18 +138,18 @@ modified: "2026-09-25"
 
 **关键词**：I could speak with Alexander / provide a verdict / disqualification / he thinks me a disappointment / declare you the win
 
-**为什么这样写**：Marco的第一反应是理性解决方案——找一个能结束比赛的方式；他对Celeste说"你可以赢"——显示他不在乎输赢，只在乎Celeste。但Celeste说"停止"。
+**为什么这样写**：Marco的第一反应是理性解决方案——找一个能结束比赛的方式；他对Celia说"你可以赢"——显示他不在乎输赢，只在乎Celia。但Celia说"停止"。
 
 ---
 
 > **原句 11:**
 > "I am tired of trying to hold things together that cannot be held," Celia says when he approaches her. "Trying to control what cannot be controlled. I am tired of denying myself what I want for fear of breaking things I cannot fix. They will break no matter what we do."
 
-**中文理解**："我厌倦了试图抓住那些无法留住的东西，"Celeste在他走近时说，"我厌倦了试图控制那些无法控制的东西。我厌倦了因为害怕打破我无法修复的东西而否定我想要的。不管我们做什么，它们都会碎。"
+**中文理解**："我厌倦了试图抓住那些无法留住的东西，"Celia在他走近时说，"我厌倦了试图控制那些无法控制的东西。我厌倦了因为害怕打破我无法修复的东西而否定我想要的。不管我们做什么，它们都会碎。"
 
 **关键词**：tired of trying to hold things together / cannot be held / tired of denying myself / what I want / they will break no matter what we do
 
-**为什么这样写**：Celeste的疲惫宣言——这是全章的情感核心，也是她对比赛态度的转折点：她不再试图修复或控制，只是想要"在一起"。这句话也是对全书主题的总结：马戏团、爱情、比赛——一切都会碎裂。
+**为什么这样写**：Celia的疲惫宣言——这是全章的情感核心，也是她对比赛态度的转折点：她不再试图修复或控制，只是想要"在一起"。这句话也是对全书主题的总结：马戏团、爱情、比赛——一切都会碎裂。
 
 ---
 
@@ -167,7 +167,7 @@ modified: "2026-09-25"
 > **原句 13:**
 > Trapped in silence, Marco traces apologies and adorations across Celia's body with his tongue. Mutely expressing all the things he cannot speak aloud. He finds other ways to tell her, his fingers leaving faint trails of ink in their wake. He savors every sound he elicits from her.
 
-**中文理解**：被困在沉默中，Marco用唇舌在Celeste身上书写道歉与爱慕，无声地表达所有他无法说出口的话。他用其他方式告诉她，手指在身后留下淡淡的墨迹。他细细品味她发出的每一个声音。
+**中文理解**：被困在沉默中，Marco用唇舌在Celia身上书写道歉与爱慕，无声地表达所有他无法说出口的话。他用其他方式告诉她，手指在身后留下淡淡的墨迹。他细细品味她发出的每一个声音。
 
 **关键词**：trapped in silence / traces apologies and adorations / mutely expressing / cannot speak aloud / fingers leaving faint trails of ink / savoring every sound
 
@@ -178,11 +178,11 @@ modified: "2026-09-25"
 > **原句 14:**
 > Upon the two of hearts on the mantel, there sits a silver band engraved in Latin. Marco smiles, slipping Celia's ring onto his pinkie, alongside the scar on his ring finger. He does not notice until later that the leather-bound safeguard that had been on his desk is gone.
 
-**中文理解**：壁炉架上的两张红心牌上，放着一枚刻有拉丁文的银戒指。Marco微笑着，把Celeste的戒指套在小指上，就在他无名指的伤疤旁边。直到后来他才发现桌上那本皮革封面的 safeguard 已经不见了。
+**中文理解**：壁炉架上的两张红心牌上，放着一枚刻有拉丁文的银戒指。Marco微笑着，把Celia的戒指套在小指上，就在他无名指的伤疤旁边。直到后来他才发现桌上那本皮革封面的 safeguard 已经不见了。
 
 **关键词**：silver band engraved in Latin / slipping Celia's ring onto his pinkie / alongside the scar on his ring finger / the leather-bound safeguard that had been on his desk is gone
 
-**为什么这样写**：Celeste留下戒指——她用她的方式给予他承诺；Marco把它戴在小指上（而非无名指）——婚姻的承诺但以脆弱的方式戴着。但safeguard的消失是背叛的伏笔——Celeste偷走了它，这本是他控制一切的工具。
+**为什么这样写**：Celia留下戒指——她用她的方式给予他承诺；Marco把它戴在小指上（而非无名指）——婚姻的承诺但以脆弱的方式戴着。但safeguard的消失是背叛的伏笔——Celia偷走了它，这本是他控制一切的工具。
 
 ## 本章词汇
 
@@ -213,4 +213,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-全章是破局之夜——Celeste带着Friedrick的血与无力感来到Marco的公寓，两人在Hector的监听下无声地完成了十年隐忍的结合，但Celeste偷走safeguard离开，为接下来的终极对决埋下伏笔。
+全章是破局之夜——Celia带着Friedrick的血与无力感来到Marco的公寓，两人在Hector的监听下无声地完成了十年隐忍的结合，但Celia偷走safeguard离开，为接下来的终极对决埋下伏笔。

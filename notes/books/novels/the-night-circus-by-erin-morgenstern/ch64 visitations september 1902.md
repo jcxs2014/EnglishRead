@@ -7,22 +7,22 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Hector的鬼魂拜访正在研究Marco系统的Celeste，揭露他操纵Chandresh刺杀Alexander的真相；同一天，Marco从Alexander那里确认了比赛只有一方死亡才能终结。
+- **一句话概括**：Hector的鬼魂拜访正在研究Marco系统的Celia，揭露他操纵Chandresh刺杀Alexander的真相；同一天，Marco从Alexander那里确认了比赛只有一方死亡才能终结。
 - **情感弧线位置**：揭秘 / 崩溃边缘，两条线同时揭露残酷真相
 - **Tropes 兑现/反转**：鬼魂现身（Ghostly Appearance）——Hector以鬼魂形态纠缠女儿；父女对峙升级为你死我活
-- **人物弧线**：Celeste彻底认清父亲的邪恶本质（操纵谋杀），与Hector决裂；Marco从Alexander处得知自己必须死于或杀死Celeste才能终结比赛
-- **叙事手法**：双线并行（Celeste线 + Marco线），场景在Celeste的书房与Marco的公寓之间切换
+- **人物弧线**：Celia彻底认清父亲的邪恶本质（操纵谋杀），与Hector决裂；Marco从Alexander处得知自己必须死于或杀死Celia才能终结比赛
+- **叙事手法**：双线并行（Celia线 + Marco线），场景在Celia的书房与Marco的公寓之间切换
 
 ## 精读
 
 > **原句 1:**
 > "You're bothering Huginn," Celia says, without looking up. The candlelight catches only the edges of her father's form as he hovers nearby. Highlighting the creases of his jacket, the collar of his shirt. Glinting in the hollows of his dark eyes.
 
-**中文理解**："你在打扰Huginn，"Celeste说，头也不抬。烛光只照亮她父亲身形 的边缘。他飘浮在旁边，照亮了外套的褶皱、衬衫的领口，在他黑色的眼窝里闪烁。
+**中文理解**："你在打扰Huginn，"Celia说，头也不抬。烛光只照亮她父亲身形 的边缘。他飘浮在旁边，照亮了外套的褶皱、衬衫的领口，在他黑色的眼窝里闪烁。
 
 **关键词**：bothering Huginn / without looking up / edges of her father's form / hovers nearby / creases of his jacket / glinting in the hollows of his dark eyes
 
-**为什么这样写**：Hector的鬼魂形态——Celeste称他为"你"而不是"父亲"，显示距离感；Huginn（思想之鸦）的典故来自北欧神话（Odin的两只乌鸦代表思想和记忆）；烛光只照亮"边缘"——鬼魂不是完全实体。
+**为什么这样写**：Hector的鬼魂形态——Celia称他为"你"而不是"父亲"，显示距离感；Huginn（思想之鸦）的典故来自北欧神话（Odin的两只乌鸦代表思想和记忆）；烛光只照亮"边缘"——鬼魂不是完全实体。
 
 ---
 
@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：Interfering with you or your opponent / I can interfere with anyone else / as much as I please
 
-**为什么这样写**：规则漏洞——Hector不能直接干涉Celeste或Marco，但他可以操纵其他人（Chandresh、Friedrick等）来间接影响比赛结果。这是他一直在做的事。
+**为什么这样写**：规则漏洞——Hector不能直接干涉Celia或Marco，但他可以操纵其他人（Chandresh、Friedrick等）来间接影响比赛结果。这是他一直在做的事。
 
 ---
 
@@ -55,7 +55,7 @@ modified: "2026-09-25"
 
 **关键词**：other clockmakers in the world / find a new one / additional timepieces
 
-**为什么这样写**：Hector对Friedrick之死的冷漠——在他眼里，Friedrick只是一个"计时器"，死了可以再找一个；他完全不理解Celeste对Friedrick的感情，也不关心他造成了多大的伤害。
+**为什么这样写**：Hector对Friedrick之死的冷漠——在他眼里，Friedrick只是一个"计时器"，死了可以再找一个；他完全不理解Celia对Friedrick的感情，也不关心他造成了多大的伤害。
 
 ---
 
@@ -66,7 +66,7 @@ modified: "2026-09-25"
 
 **关键词**：personal connections / You think you mean anything to them / They are all going to die eventually / letting your emotions trump your power
 
-**为什么这样写**：Hector的哲学——这也是他的悲剧：他把所有人都视为棋子，情感是软弱的象征；但正因如此，他失去了女儿的爱，也失去了作为"人"的可能性。他的虚无主义与Celeste的人性形成对照。
+**为什么这样写**：Hector的哲学——这也是他的悲剧：他把所有人都视为棋子，情感是软弱的象征；但正因如此，他失去了女儿的爱，也失去了作为"人"的可能性。他的虚无主义与Celia的人性形成对照。
 
 ---
 
@@ -77,7 +77,7 @@ modified: "2026-09-25"
 
 **关键词**：To win would be worse than losing / your feelings for Miss Bowen / make the challenge more difficult
 
-**为什么这样写**：Marco的困境——如果他赢了（Celeste死了），他将永远活在失去她的痛苦中；如果他输了（自己死了），他将永远无法和她在一起。无论哪种结局，他都是输家。
+**为什么这样写**：Marco的困境——如果他赢了（Celia死了），他将永远活在失去她的痛苦中；如果他输了（自己死了），他将永远无法和她在一起。无论哪种结局，他都是输家。
 
 ---
 
@@ -118,4 +118,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-Hector揭露他操纵Friedrick之死的真相，与Celeste彻底决裂；Marco从Alexander处确认赢比输更糟糕——两人的悲剧在同一天揭晓，马戏团的终局已不可逆转。
+Hector揭露他操纵Friedrick之死的真相，与Celia彻底决裂；Marco从Alexander处确认赢比输更糟糕——两人的悲剧在同一天揭晓，马戏团的终局已不可逆转。

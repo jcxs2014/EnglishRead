@@ -7,11 +7,11 @@ modified: "2026-09-25"
 
 ## 本章导航
 
-- **一句话概括**：Poppet和Widget在火车上向Celeste报告他们的预见——大火、Bonfire、一个戴圆顶礼帽的男人；Bailey本该同来却不在（他在波士顿与rêveurs在一起）；Widget发现这是场比赛，Celeste首次向他完全开放了她的思想。
+- **一句话概括**：Poppet和Widget在火车上向Celia报告他们的预见——大火、Bonfire、一个戴圆顶礼帽的男人；Bailey本该同来却不在（他在波士顿与rêveurs在一起）；Widget发现这是场比赛，Celia首次向他完全开放了她的思想。
 - **情感弧线位置**：揭秘 / 铺垫，Poppet的预见指向最终对决
 - **Tropes 兑现/反转**：预言能力（Precognition）——Poppet看到未来但无法改变；信息揭示（Widget发现游戏存在）
-- **人物弧线**：Poppet从"预见者"变成"无法看到清晰的未来的困惑者"；Widget从"旁观者"变成"理解者"；Celeste从"隐藏者"变成"开放者"
-- **叙事手法**：火车内景，三人对话驱动；Celeste内聚焦为主
+- **人物弧线**：Poppet从"预见者"变成"无法看到清晰的未来的困惑者"；Widget从"旁观者"变成"理解者"；Celia从"隐藏者"变成"开放者"
+- **叙事手法**：火车内景，三人对话驱动；Celia内聚焦为主
 
 ## 精读
 
@@ -40,11 +40,11 @@ modified: "2026-09-25"
 > **原句 3:**
 > "You cannot stop things," Celia says. "You can only be prepared for them to happen."
 
-**中文理解**："你无法阻止事情发生，"Celeste说，"你只能为它们的到来做好准备。"
+**中文理解**："你无法阻止事情发生，"Celia说，"你只能为它们的到来做好准备。"
 
 **关键词**：You cannot stop things / can only be prepared / for them to happen
 
-**为什么这样写**：Celeste的哲学——这也是她的处境：她知道比赛只有一方死才能终结，她无法阻止这个结局，只能"准备"；但她的准备是让马戏团独立于她，这样她死后马戏团还能存续。
+**为什么这样写**：Celia的哲学——这也是她的处境：她知道比赛只有一方死才能终结，她无法阻止这个结局，只能"准备"；但她的准备是让马戏团独立于她，这样她死后马戏团还能存续。
 
 ---
 
@@ -58,8 +58,8 @@ modified: "2026-09-25"
 **为什么这样写**：Poppet的预言——这是全章最重要的引语，指向最终对决的场景：
 - 大火从Bonfire开始（竞技的高潮）
 - 整个庭院着火（马戏团的终结）
-- Celeste和"戴圆顶礼帽的男人"（可能是Marco或Alexander）
-- "不在但仍然在"——暗示Celeste会死但她的影响仍在，或者她用某种方式逃脱
+- Celia和"戴圆顶礼帽的男人"（可能是Marco或Alexander）
+- "不在但仍然在"——暗示Celia会死但她的影响仍在，或者她用某种方式逃脱
 
 ---
 
@@ -70,7 +70,7 @@ modified: "2026-09-25"
 
 **关键词**：It's a game
 
-**为什么这样写**：Widget终于发现了真相——马戏团是一场竞争游戏的核心；他用了十六年才理解，说明Celeste一直在隐藏这个事实。
+**为什么这样写**：Widget终于发现了真相——马戏团是一场竞争游戏的核心；他用了十六年才理解，说明Celia一直在隐藏这个事实。
 
 ---
 
@@ -81,18 +81,18 @@ modified: "2026-09-25"
 
 **关键词**：Like a chess game / The circus is the board
 
-**为什么这样写**：Widget的比喻——他用棋局来理解这个复杂的游戏；马戏团是棋盘，但玩家是Celeste和Marco，其他人都是棋子。
+**为什么这样写**：Widget的比喻——他用棋局来理解这个复杂的游戏；马戏团是棋盘，但玩家是Celia和Marco，其他人都是棋子。
 
 ---
 
 > **原句 7:**
 > "Not exactly," Celia says. "It's not as straightforward as chess."
 
-**中文理解**："不完全是，"Celeste说，"它不像棋局那么简单。"
+**中文理解**："不完全是，"Celia说，"它不像棋局那么简单。"
 
 **关键词**：Not exactly / It's not as straightforward as chess
 
-**为什么这样写**：Celeste的纠正——棋局是回合制的、有明确规则的，但真正的比赛是每时每刻的、没有明确规则的，而且棋盘上的人（马戏团的所有人）都不知道自己是被下的棋子。
+**为什么这样写**：Celia的纠正——棋局是回合制的、有明确规则的，但真正的比赛是每时每刻的、没有明确规则的，而且棋盘上的人（马戏团的所有人）都不知道自己是被下的棋子。
 
 ---
 
@@ -103,7 +103,7 @@ modified: "2026-09-25"
 
 **关键词**：returns her gaze / Widget blinks / the surprise evident / She let me read her / All of her / without concealing anything / She's never done that before
 
-**为什么这样写**：Celeste对Widget开放了她的全部思想——这是极大的信任，也是她的告别方式之一；她知道自己时间不多了，所以把真相交给下一代。"She's never done that before"说明她以前一直在隐藏，现在她选择透明。
+**为什么这样写**：Celia对Widget开放了她的全部思想——这是极大的信任，也是她的告别方式之一；她知道自己时间不多了，所以把真相交给下一代。"She's never done that before"说明她以前一直在隐藏，现在她选择透明。
 
 ## 本章词汇
 
@@ -133,4 +133,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-Poppet的预见指向最终对决（大火、庭院、一个戴圆顶礼帽的男人），Widget发现这是场比赛并得到Celeste前所未有的信任——她向他完全开放了自己的思想，仿佛在交代后事。
+Poppet的预见指向最终对决（大火、庭院、一个戴圆顶礼帽的男人），Widget发现这是场比赛并得到Celia前所未有的信任——她向他完全开放了自己的思想，仿佛在交代后事。
