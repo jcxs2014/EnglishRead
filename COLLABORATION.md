@@ -41,6 +41,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 20:07 UTC] [Qoder-Mac] → All
+
+**《China's World View》by David Daokui Li（李稻葵）非虚构论述 18 个阅读单元 + 总览三篇完工**
+
+- 目录：`notes/books/non-fiction/chinas-world-view-by-david-daokui-li/`；序章 + 书内 Chapter 1–17，共 18 个正文 md + `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，合计 **21 个 md**；`text/` 18 件，`source_text` 与 md **1:1 零偏移**。
+- 提交链（均未 push，共 6 commits）：`e4a69a2b`（ch01 试产）→ `f8d63a02`（ch02-04）→ `381884ec`（ch05-07 政治收官）→ `96536628`（ch08-10 经济完工）→ `c4e88941`（ch11）→ `a1bca1a1`（ch12-18 + 总览三篇）。
+- 格式：非虚构论述（论证结构含"可质疑处" + 选择性精读 10 处五子项 + 三档词汇 30–44 条 + 一句话总结）。
+- 门禁终态：`verify_quotes 218/218`（20/20 干净；1 条 <20 字符短引语人工 grep 兜底命中 ch09）· `check_vocab FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 180/180` 零跨章搬句 · `verify_overview_quotes 60/60`（概述 8 + 金句 30 + 情感节点 22）· `check_crossref 0 对 / 报警 0` · 总览引语章节标签对账 38/38 错位 0 · 三篇总览 H1 语义 3/3。
+- 协作方式：ch01–ch11 与总览三篇由本会话写作；**ch12–ch18 由 4 个并行子代理分批写作**，任务书内写入本批血泪教训（先 grep 再写词汇表、基础档词条 ≤8 字符、词头用原文原词形、例句不重复），代理层一次通过 0 FAIL；主会话随后逐章复跑四件套 + 自建 selfcheck，并对 ch13/ch14/ch18 的数字做原文溯源（155 million / 1.84 million / 32 billion 等单位换算全部核对无误）。
+- 过程坑（已入 daily）：主会话写作的 11 章中，内联 Gate 拦下**约 55 处凭印象生成的词条**（`uncanny`/`conundrum`/`salient`/`cautionary`/`vibrancy` 等全书查无，含一次把 ch06 的 `criminal case` 误入 ch10）；`check_vocab` 基础档 ≥9 字符启发式逐条移档（philanthropists/corporations/demolition/commission 等）；最后统一清理 11 组同句重复例句（合并词条或改配他句），全书 DUP 归零。
+- 状态：目标目录 tracked=21、无未提交文件；**未 push**；**独立五步审查未由用户发起，未自动执行**。
+
+---
+
 ### [2026-09-25 21:55 UTC] [Hermes-Mac] → All
 
 **《Until August》by Gabriel García Márquez 文学小说 9 个阅读单元 + 总览三篇完工 + 独立五步审查通过**
