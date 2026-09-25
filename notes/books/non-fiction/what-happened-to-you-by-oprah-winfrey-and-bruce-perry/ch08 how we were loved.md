@@ -10,7 +10,7 @@ source_text: ch08_how_we_were_loved.txt
 - **出处**：*What Happened to You?*，Chapter 3
 - **作者**：Bruce D. Perry
 - **章节定位**：第三章前半单元，以 Gloria、Tilly 和寄养母亲 Mama P 的 reunification 过程说明“爱”如何被重复、练习和重新学习
-- **字符数**：约 5,390 字符（提取件）
+- **字符数**：约 6,542 字符（提取件）
 - **一句话主旨**：一个从小缺少关爱的母亲仍然会用糖果表达爱，而照料者不羞辱她、而是把这种粗糙的爱转化为可学习和可持续的照料；神经可塑性说明，爱并非只由经历决定，也能在安全关系和反复练习中形成。
 
 ## 论证结构
@@ -75,13 +75,13 @@ source_text: ch08_how_we_were_loved.txt
 
 **中文理解**：你爱别人的方式，就是你曾经被爱的方式。
 
-**句子结构**：主语为 You；主句为 love others；the way you’ve been loved 是方式状语从句，and the way 与主句谓语形成镜像。
+**句子结构**：主语为 You；主句为 love others；the way (that) you’ve been loved 是方式状语从句，the way 与 love/loved 形成镜像。
 
 **关键词**：love others, the way, you’ve been loved
 
 **表达方式**：用 love 与 loved 的过去/现在形式对举，四个词组成对称句；you 和 others 的代词回环让经验传递关系一目了然。
 
-**为什么这样写**：这句短促、可背诵，是本案例的理论桥梁；它解释了为什么团队选择理解 Gloria 的爱意，而不是把她对自己的拒绝直接复制到下一代。
+**为什么这样写**：这句短促、可背诵，是本案例的理论桥梁；它解释了为什么团队选择理解 Gloria 用糖果表达爱的经验，并把缺失的被爱经验转化为新的关系学习。
 
 > **原句 5:** Rather than undermine a mother doing the best she could, we kept showing Gloria and Tilly love, and how to love.
 
@@ -147,7 +147,7 @@ source_text: ch08_how_we_were_loved.txt
 
 **中文理解**：在被给予爱的条件下，那些从未被爱过的人也可以学着去爱。
 
-**句子结构**：Given love 是过去分词短语作条件状语；主语为 the unloved，can become loving 为情态结构，becoming 后接形容词。
+**句子结构**：Given love 是过去分词短语作条件状语；主语为 the unloved，can become loving 为情态结构，become 后接形容词 loving。
 
 **关键词**：Given love, the unloved, can become, loving
 
@@ -180,8 +180,8 @@ source_text: ch08_how_we_were_loved.txt
 | caseworker | 社工；个案工作者 | On my left was Tilly’s new Child Protective Services (CPS) caseworker, her fifth over the last two years. |
 | nurturing | 养育；提供关爱 | Over the next two years, Mama P helped both Gloria and Tilly. She was attentive and nurturing, creating a safe and stable home for Tilly. |
 | sugar-free candy | 无糖糖果 | “It’s sugar-free candy.” Clearly, this caseworker, new to Tilly and likely dealing with sixty other cases, had not read the most recent reports. |
-| nutrition | 营养 | And taught her about nutrition and diabetes. |
-| diabetes | 糖尿病 | And taught her about nutrition and diabetes. |
+| nutrition | 营养 | So instead of admonishing Gloria, we simply had her switch to sugar-free candy, and taught her about nutrition and diabetes. |
+| diabetes | 糖尿病 | So instead of admonishing Gloria, we simply had her switch to sugar-free candy, and taught her about nutrition and diabetes. |
 | repetition | 重复 | This aspect of neuroplasticity—repetition leads to change—is well known and is why practice in sports, arts, and academics can lead to improvement. |
 | capacity to love | 爱的能力 | This principle of “specificity” applies to all brain-mediated functions, including the capacity to love. |
 | emerge | 出现；发展出来 | The good news is that with use, with practice, these capabilities can emerge. |

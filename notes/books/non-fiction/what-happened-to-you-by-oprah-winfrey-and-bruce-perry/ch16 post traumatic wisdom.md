@@ -10,7 +10,7 @@ source_text: ch16_post_traumatic_wisdom.txt
 - **出处**：*What Happened to You?*，Chapter 7
 - **作者**：Bruce D. Perry
 - **章节定位**：第七章前半单元，反驳“孩子会自己挺过去”的简化叙事，解释社区支持为何在创伤六个月后更显重要
-- **字符数**：约 4,784 字符（提取件）
+- **字符数**：约 4,684 字符（提取件）
 - **一句话主旨**：把受创者称为“resilient”很容易成为旁观者的情绪盾牌，掩盖创伤的长期代价；真正的支持需要在最初动员之后持续存在，帮助人经历情绪低谷、关系重建和通往创伤后智慧的艰难过程。
 
 ## 论证结构
@@ -73,7 +73,7 @@ source_text: ch16_post_traumatic_wisdom.txt
 
 > **原句 4:** The emotional bottom does not come in the first weeks following the traumatic event.
 
-**中文理解**：情绪低谷并不是创伤事件后的最初几周才出现的。
+**中文理解**：情绪低谷不会在创伤事件后的最初几周出现。
 
 **句子结构**：主语为 The emotional bottom；系动词为 does not come；时间状语 in the first weeks following the traumatic event 说明通常被误判的时段。
 
@@ -135,7 +135,7 @@ source_text: ch16_post_traumatic_wisdom.txt
 
 **中文理解**：创伤之后，最难理解的是：没有任何东西、也没有任何人能够替我们拿走痛苦。
 
-**句子结构**：In the wake of trauma 是时间状语；主语从句为 the hardest thing to understand；that nothing and no one can take away the pain 是同位语从句。
+**句子结构**：In the wake of trauma 是时间状语；the hardest thing to understand 是主语名词短语；is 为系动词；that nothing and no one can take away the pain 是说明“最难理解什么”的表语从句。
 
 **关键词**：wake of trauma, hardest thing to understand, nothing and no one, take away the pain
 

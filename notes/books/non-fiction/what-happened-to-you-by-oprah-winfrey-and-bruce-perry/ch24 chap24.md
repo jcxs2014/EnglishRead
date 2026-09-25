@@ -3,14 +3,14 @@
 modified: "2026-09-25"
 source_text: ch24_chap24.txt
 ---
-# 24. Chapter 10（续）· Jesse 的重建与新的安全世界
+# 24. Epilogue（终章）· Jesse 的重建与新的安全世界
 
 ## 概览
 
-- **出处**：*What Happened to You?*，Chapter 10 的续篇案例单元
+- **出处**：*What Happened to You?*，Epilogue
 - **作者**：Bruce D. Perry
-- **章节定位**：第十章案例续篇，回访 Chapter 3 的 Jesse，说明安全、稳定、充满关爱的退休社区如何通过新的感官和关系目录帮助他疗愈
-- **字符数**：约 9,725 字符（提取件）
+- **章节定位**：终章前半单元，回访 Chapter 3 的 Jesse，说明安全、稳定、充满关爱的退休社区如何通过新的感官和关系目录帮助他疗愈
+- **字符数**：约 9,511 字符（提取件）
 - **一句话主旨**：Jesse 的身体和记忆没有因脑损伤而简单消失，而是在新的环境中重新组织；当环境减少与童年威胁有关的唤起线索、增加可预测和可控制的关系时，他建立了新的“安全与熟悉”目录，长期治疗不必每次都回访最痛的地方。
 
 ## 论证结构
@@ -145,7 +145,7 @@ source_text: ch24_chap24.txt
 
 > **原句 10:** There are ways to help make the trauma easier to carry.
 
-**中文理解**：有很多方法可以帮助让创伤变得更容易承受。
+**中文理解**：Perry 对 Jesse 说，有很多方法可以帮助让创伤变得更容易承受。
 
 **句子结构：**There are ways 为存在句；to help make the trauma easier to carry 为不定式，make...easier 为宾语补足结构，carry 为原形动词。
 
@@ -153,7 +153,7 @@ source_text: ch24_chap24.txt
 
 **表达方式**：用 easier to carry 把疗愈从彻底消除改成减轻负担；carry 的隐喻保留创伤的现实性，There are ways 留下开放的治疗可能。
 
-**为什么这样写**：结尾不以“创伤消失”作结，而以可承受、可求助和持续学习作结；这与 Jesse 和 Perry 仍在学习的结尾相互呼应。
+**为什么这样写**：这是 Perry 给 Jesse 的建议，而不是 Jesse 的自述；结尾不以“创伤消失”作结，而以可承受、可求助和持续学习作结，这与 Jesse 和 Perry 仍在学习的结尾相互呼应。
 
 ## 词汇分级
 
@@ -161,7 +161,7 @@ source_text: ch24_chap24.txt
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| narrative memory | 叙事记忆 | His “autobiographical” memory of life before the coma was in disorganized shards. |
+| narrative memory | 叙事记忆 | Initially he had signs of severe brain damage, but slowly, all of his functioning returned, with the exception of some aspects of his long-term memory, especially “narrative” memory. |
 | autobiographical memory | 自传体记忆 | His “autobiographical” memory of life before the coma was in disorganized shards. |
 | disorganized shards | 混乱的碎片 | His “autobiographical” memory of life before the coma was in disorganized shards. |
 | rehabilitation | 康复 | Initially, Jesse needed a special-needs placement due to his rehabilitation plan. |
@@ -179,10 +179,10 @@ source_text: ch24_chap24.txt
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| coma | 昏迷 | The last time I’d seen him, ten years earlier, he was unconscious in a hospital bed. |
+| coma | 昏迷 | When I originally evaluated Jesse, it was a consultation for a clinical team in another state. After the initial in-person consultation, which took place while Jesse was still in a coma, I continued to track his progress and consult to his team from a distance. |
 | amnesia | 失忆 | Having seen multiple cases of amnesia following trauma, I wasn’t so sure. |
 | placement | 安置 | Most important, let’s get him into a safe, stable, and nurturing placement for the first time in his life. |
-| foster | 寄养；养育 | They agreed to “foster” Jesse. |
+| foster | 寄养；养育 | The two of them lived together “on campus” at the retirement community, and they agreed to “foster” Jesse. |
 | interaction | 互动 | Relational interactions were different as well—more parallel and less evocative than those of his childhood. |
 | foundation | 基础 | Over time he was able to build a whole new catalog of “safe and familiar” that provided the foundation for his healing. |
 | healing | 疗愈 | Thousands upon thousands of unstructured therapeutic moments in his community had helped him heal. |

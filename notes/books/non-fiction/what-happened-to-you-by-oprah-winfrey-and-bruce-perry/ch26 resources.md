@@ -10,7 +10,7 @@ source_text: ch26_resources.txt
 - **出处**：*What Happened to You?*，Resources
 - **作者**：Oprah Winfrey 与 Bruce D. Perry
 - **章节定位**：全书资源页，按继续阅读、脑科学、虐待预防、ACE 和 Neurosequential Model 分类列出延伸入口
-- **字符数**：约 4,384 字符（提取件）
+- **字符数**：约 4,362 字符（提取件）
 - **一句话主旨**：资源页承认创伤与发育逆境的范围远超一本书所能覆盖的边界，随后提供书籍、公共网站和模型网络作为继续学习的起点；同时提醒读者把“知道去哪里找”与真正理解、实施和持续关系区分开来。
 
 ## 论证结构
@@ -44,7 +44,7 @@ source_text: ch26_resources.txt
 
 **关键词**：Our hope, caused you to reflect, understand yourself and others, piqued your interest
 
-**表达方式**：用 hope 保持期待而非命令，caused...reflect 与 piqued interest 形成从反思到继续探索的递进；两个 by/ how 结构把兴趣具体化。
+**表达方式**：用 hope 保持期待而非命令，caused...reflect 与 piqued interest 形成从反思到继续探索的递进；cause sb. to do 结构与一个 how 宾语从句把兴趣具体化。
 
 **为什么这样写**：资源页不是直接列书名，而是先说明全书希望读者带走什么；这为“延伸阅读”建立目的，也把读者从被动的信息接收者变成主动学习者。
 
@@ -196,9 +196,9 @@ source_text: ch26_resources.txt
 | book | 书 | It is an excellent complement to this book and provides a “deeper dive” into some of the core concepts discussed in What Happened to You? |
 | research | 研究 | This classic book, published in 2014, outlines the development of his research, clinical approach, and thinking about the complex effects of trauma on the brain, mind, and body. |
 | brain | 大脑 | This is the most reliable, accurate, and accessible resource for anyone interested in the brain. |
-| family | 家庭 | This is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
-| abuse | 虐待 | This is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
-| neglect | 忽视 | This is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
+| families | 家庭；家人 | This site is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
+| abuse | 虐待 | This site is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
+| neglect | 忽视 | This site is a great starting place to learn more about innovative, supportive programs for families proven to reduce abuse and neglect. |
 | resource | 资源 | This is the most reliable, accurate, and accessible resource for anyone interested in the brain. |
 | site | 网站；站点 | This site is a treasure trove of educational resources, research articles, and policy implications related to adverse childhood experiences. |
 | reflect | 反思 | Our hope is that this book has caused you to reflect on how you understand yourself and others, and that we have piqued your interest. |

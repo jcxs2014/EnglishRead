@@ -10,7 +10,7 @@ source_text: ch12_connecting_the_dots.txt
 - **出处**：*What Happened to You?*，Chapter 5
 - **作者**：Oprah Winfrey
 - **章节定位**：第五章前半单元，以成年后独自在家的恐惧和一则学校安全新闻为线索，重新连接祖母夜间受袭的个人记忆
-- **字符数**：约 3,520 字符（提取件）
+- **字符数**：约 4,239 字符（提取件）
 - **一句话主旨**：Oprah 读到学校校长拒绝锁门的报道时突然哭泣，并由此意识到祖母房门上的铁罐和椅子早已把一段夜间袭击写进她的身体；连接起恐惧的原因与反应后，她学会了在即时情绪和本能行动之间留出空间。
 
 ## 论证结构
@@ -86,7 +86,7 @@ source_text: ch12_connecting_the_dots.txt
 
 **中文理解**：我祖母门上的铁罐，向年幼学生传达的正是校长努力避免传达的那种讯息。
 
-**句子结构**：主语为 The cans on my grandmother’s door；谓语为 sent；宾语为 the very message；the principal... 是后置定语修饰 principal，what? 句中没有独立从句，`trying to avoid sending to his young students` 是不定式短语作后置修饰。
+**句子结构**：主语为 The cans on my grandmother’s door；谓语为 sent；宾语为 the very message；the principal was trying to avoid sending to his young students 是修饰 message 的省略关系从句，句中 the principal 是从句主语，trying to avoid sending... 是从句中的不定式结构。
 
 **关键词**：cans on my grandmother’s door, sent the very message, principal, young students, trying to avoid
 
@@ -169,7 +169,7 @@ source_text: ch12_connecting_the_dots.txt
 | instinctive reaction | 本能反应 | As you consider your individual response patterns, know that by putting a small moment of space between the immediate feeling and your instinctive reaction, you are allowing yourself to stay present and ultimately regain control. |
 | regain control | 重新获得控制 | As you consider your individual response patterns, know that by putting a small moment of space between the immediate feeling and your instinctive reaction, you are allowing yourself to stay present and ultimately regain control. |
 | emotional scars | 情绪伤痕 | Obviously it left deep emotional scars. |
-| forgotten memory | 被遗忘的记忆 | The words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
+| forgotten memory | 被遗忘的记忆 | Not just for the children and their families who were picking up the pieces after a tragedy, but because the words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
 
 ### ⭐⭐ 进阶
 
@@ -179,13 +179,13 @@ source_text: ch12_connecting_the_dots.txt
 | doorman | 门卫 | Even in Chicago, where I lived on the fifty-seventh floor of a building staffed with security and a doorman, I didn’t feel safe. |
 | safe | 安全的 | I felt safer in the hotel because no one would know I was there. |
 | fears | 恐惧 | My fears didn’t make sense to me, and they were getting worse. |
-| trigger | 触发；引起反应 | The words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
-| memory | 记忆 | The words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
+| trigger | 触发；引起反应 | Not just for the children and their families who were picking up the pieces after a tragedy, but because the words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
+| memory | 记忆 | Not just for the children and their families who were picking up the pieces after a tragedy, but because the words of the principal who refused to barricade the children triggered a long-forgotten memory of an event I hadn’t thought of in years. |
 | cause and effect | 原因与结果 | Making that connection, finally understanding both the cause and effect of my sleep trouble, was a game changer for me. |
 | game changer | 改变局面的因素；转折点 | Making that connection, finally understanding both the cause and effect of my sleep trouble, was a game changer for me. |
 | response patterns | 反应模式 | As you consider your individual response patterns, know that by putting a small moment of space between the immediate feeling and your instinctive reaction, you are allowing yourself to stay present and ultimately regain control. |
 | grandmother | 祖母；外祖母 | Growing up in Mississippi, I always slept with my grandmother. |
-| present | 当下的；在场的 | You are allowing yourself to stay present and ultimately regain control. |
+| present | 当下的；在场的 | As you consider your individual response patterns, know that by putting a small moment of space between the immediate feeling and your instinctive reaction, you are allowing yourself to stay present and ultimately regain control. |
 
 ### ⭐ 基础
 
@@ -193,7 +193,7 @@ source_text: ch12_connecting_the_dots.txt
 |----------|------|--------------|
 | night | 夜晚 | For much of my adult life, being alone at night was extremely stressful. |
 | home | 家 | I finally connected the dots as to why I was afraid to be home alone at night. |
-| sleep | 睡眠 | As I tried to sleep, my mind was conditioned to stay in a constant state of arousal, prepared for attack. |
+| sleep | 睡眠 | Even as an adult, as I tried to sleep, my mind was conditioned to stay in a constant state of arousal, prepared for attack. |
 | fear | 恐惧 | My fears didn’t make sense to me, and they were getting worse. |
 | door | 门 | The cans on my grandmother’s door sent the very message the principal was trying to avoid sending to his young students. |
 | school | 学校 | In the aftermath of the shooting, angry and anguished parents were calling for the school’s doors to be locked and chained and manned by security guards. |

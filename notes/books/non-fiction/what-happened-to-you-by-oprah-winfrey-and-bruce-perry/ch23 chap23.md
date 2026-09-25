@@ -10,7 +10,7 @@ source_text: ch23_chap23.txt
 - **出处**：*What Happened to You?*，Chapter 10 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第十章中段，讨论如何打破创伤循环、Neurosequential Model、Susan 案例、成人自我照料和社会层面的集体疗愈
-- **字符数**：约 19,391 字符（提取件）
+- **字符数**：约 19,081 字符（提取件）
 - **一句话主旨**：改变不必从“消灭过去”开始，而可以从识别发展顺序开始：先处理基础和调节，再进入关系、认知和更高层的学习；同时，照护者必须先获得支持，才能把安全和在场传递给儿童与社区。
 
 ## 论证结构
@@ -87,7 +87,7 @@ source_text: ch23_chap23.txt
 
 **中文理解：**那是一个恐惧、困惑、尚未发展成熟的孩子。
 
-**句子结构：**It 为指示代词；was 为系动词；terrified、confused、undeveloped 三个过去分词/形容词并列作表语；child 为中心名词。
+**句子结构：**This 为指示代词；was 为系动词；terrified、confused、undeveloped 三个过去分词/形容词并列作表语；child 为中心名词。
 
 **关键词：**terrified, confused, undeveloped child
 

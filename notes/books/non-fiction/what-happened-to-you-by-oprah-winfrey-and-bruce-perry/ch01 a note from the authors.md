@@ -10,7 +10,7 @@ source_text: ch01_a_note_from_the_authors.txt
 - **出处**：*What Happened to You?*，A Note from the Authors
 - **作者**：Oprah Winfrey、Bruce D. Perry
 - **章节定位**：全书正文之前的作者说明，先界定读者范围，再预告阅读中的情绪与认知挑战
-- **字符数**：约 929 字符（提取件）
+- **字符数**：约 1,135 字符（提取件）
 - **一句话主旨**：作者把本书定位为一封写给创伤经验者及其亲近者的说明信：即使一个人被贴上“讨好者”“自我破坏者”等标签，也可以从理解“发生过什么”开始寻找新的方向。
 
 ## 论证结构
@@ -36,7 +36,7 @@ source_text: ch01_a_note_from_the_authors.txt
 
 > **原句 1:** This book is for anyone with a mother, father, partner, or child who may have experienced trauma.
 
-**中文理解**：如果你身边有母亲、父亲、伴侣或孩子可能经历过创伤，这本书就是为你而写的。
+**中文理解**：如果你可能经历过创伤，并且拥有母亲、父亲、伴侣或孩子，这本书就是为你而写的。
 
 **句子结构**：主句为 This book is for anyone with...；介词短语 with 列出四种关系对象，who may have experienced trauma 修饰 anyone，先界定读者身份，再补充可能涉及的经验。
 
@@ -44,7 +44,7 @@ source_text: ch01_a_note_from_the_authors.txt
 
 **表达方式**：用四个关系名词的平行列举扩大“目标读者”的范围，再以 may 保持谨慎，不把所有关系中的人都直接判定为创伤经历者。
 
-**为什么这样写**：作者先把阅读对象从“受过创伤的人”扩展到“与创伤者有关系的人”，让照料者、伴侣和亲属也进入这本书的视野；may 则避免把标签变成未经确认的身份判决。
+**为什么这样写**：作者把“可能经历过创伤的人”设为读者核心，同时列出他们拥有的母亲、父亲、伴侣或孩子等关系角色；may 则避免把标签变成未经确认的身份判决。
 
 > **原句 2:** And, if you’ve ever had labels like “people pleaser,” “self-sabotager,” “disruptive,” “argumentative,” “checked out,” “can’t hold a job,” or “bad at relationships” used to describe you or your loved ones, this book is for you.
 
@@ -134,7 +134,7 @@ source_text: ch01_a_note_from_the_authors.txt
 
 **中文理解**：把书放下一小时，或者放下一个星期。
 
-**句子结构**：祈使句 Put the book down 中，down 是可分离的动词短语宾补；for an hour or a week 是时间状语，or 连接两个时间选择。
+**句子结构**：祈使句 Put the book down 中，down 是小品词，和 put 构成动词短语；for an hour or a week 是时间状语，or 连接两个时间选择。
 
 **关键词**：Put the book down, an hour, a week
 
@@ -146,7 +146,7 @@ source_text: ch01_a_note_from_the_authors.txt
 
 **中文理解**：你也许会找到一条向前走的路。
 
-**句子结构**：主句为 You may discover a path forward；just 位于情态动词 may 前，起弱化与缓和作用，discover 后接不定式短语 a path forward 作宾语。
+**句子结构**：主句为 You may discover a path forward；just 位于情态动词 may 前，起弱化与缓和作用，discover 后接名词短语 a path forward 作宾语。
 
 **关键词**：just may, discover, a path forward
 

@@ -10,7 +10,7 @@ source_text: ch17_chap17.txt
 - **出处**：*What Happened to You?*，Chapter 7 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第七章后半单元，区分 resilience 与 malleability，解释适度挑战、节奏、治疗剂量、社区关系和创伤后智慧
-- **字符数**：约 35,988 字符（提取件）
+- **字符数**：约 35,476 字符（提取件）
 - **一句话主旨**：韧性不是创伤后自动回到原状，而是由安全关系、适度挑战、节奏调节和可控的疗愈接触逐步建立的能力；真正的 post-traumatic wisdom 来自与他人一起经历痛苦，而不是把痛苦单独扛成神话。
 
 ## 论证结构
@@ -40,7 +40,7 @@ source_text: ch17_chap17.txt
 
 **中文理解**：如果你拿一个 Nerf 球，挤压、弯折并施加各种力，它最终会回到原本的球形。
 
-**句子结构**：If 引导条件状语从句，主句为 it will return；take、squeeze、bend、apply 四个动作并列，全部由介词短语和动词原形构成。
+**句子结构**：If 引导条件状语从句，主句为 it will return；take、squeeze、bend、apply 是四个并列的动词原形，其后分别接宾语或介词补足语。
 
 **关键词**：Nerf ball, squeeze, bend, apply force, return to original shape
 
@@ -72,15 +72,15 @@ source_text: ch17_chap17.txt
 
 **为什么这样写**：作者不把恢复归因于个人意志或年龄，而把关系连接放在因果链中心；这也让“韧性”从内在特质变成可由环境支持的能力。
 
-> **原句 4:** The actual best indicators of change in the brain following trauma or neglect are “functional” changes.
+> **原句 4:** The actual best indicators of change in the brain following trauma or neglect are “functional” changes: Is the child impulsive or inattentive? Do they have speech and language problems or fine-motor-control issues? Are they depressed or anxious? Do they have a hard time learning? Can they form and maintain healthy relationships? All of these things are much better indicators of changes in the brain than brain scans are.
 
-**中文理解**：创伤或忽视之后，衡量大脑变化的最佳指标其实是“功能性”变化。
+**中文理解**：创伤或忽视之后，衡量大脑变化的最佳指标其实是“功能性”变化：孩子是否冲动或注意力不集中？是否有语言或精细运动问题？是否抑郁或焦虑？是否难以学习？能否形成并维持健康关系？所有这些都比脑扫描更能说明大脑的变化。
 
-**句子结构**：主语为 The actual best indicators of change in the brain following trauma or neglect；系动词为 are；表语为 functional changes，引号突出功能维度。
+**句子结构**：主语为 The actual best indicators of change in the brain following trauma or neglect；系动词为 are；表语为 functional changes，后接冒号和五个功能性问题组成的列举；最后 All of these things... 是总结句。
 
-**关键词**：actual best indicators, change in the brain, following trauma or neglect, functional changes
+**关键词**：actual best indicators, change in the brain, following trauma or neglect, functional changes, impulsive or inattentive, speech and language problems, fine-motor-control issues, healthy relationships
 
-**表达方式**：用 actual best 强调实践中的优先顺序，functional 加引号则把抽象的神经变化转化为行为和能力维度。
+**表达方式**：用 actual best 强调实践中的优先顺序；冒号后的五个问题把抽象的“功能性变化”拆成可观察的行为、语言、运动、情绪、学习和关系指标，All of these things 再收束为整体判断。
 
 **为什么这样写**：作者反对只依赖脑扫描，转而关注孩子是否冲动、能否学习、能否建立关系；功能指标让“看不见的脑变化”进入教育、家庭和临床观察。
 
@@ -162,14 +162,14 @@ source_text: ch17_chap17.txt
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| resilience | 韧性；复原力 | We are always changing. We change from all of our experiences, good and bad. This is because our brain is changeable—malleable. |
+| resilience | 韧性；复原力 | When a person is able to “recover” emotionally—returning to a pre-trauma level of functioning—we refer to that as demonstrating resilience. |
 | malleable | 可塑的 | We are always changing. We change from all of our experiences, good and bad. This is because our brain is changeable—malleable. |
 | neuroendocrine | 神经内分泌的 | A child may continue to do just as well in school, for example, but it may take much more energy and effort. Or we may find that a child is able to return to his previous level of emotional functioning, but changes in his neuroendocrine system may make him more likely to develop diabetes. |
-| neuroimaging | 神经影像 | Our current brain-imaging techniques are pretty sophisticated, but they’re not yet sensitive enough to scan an individual child and say with confidence, for example, “This underactivity in the prefrontal cortex is from abuse.” |
-| functional changes | 功能性变化 | The actual best indicators of change in the brain following trauma or neglect are “functional” changes. |
+| neuroimaging | 神经影像 | But the complexities of development, the brain, and the nature of trauma make neuroimaging studies very difficult to interpret. |
+| functional changes | 功能性变化 | The actual best indicators of change in the brain following trauma or neglect are “functional” changes: Is the child impulsive or inattentive? Do they have speech and language problems or fine-motor-control issues? Are they depressed or anxious? Do they have a hard time learning? Can they form and maintain healthy relationships? All of these things are much better indicators of changes in the brain than brain scans are. |
 | relational reward | 关系性奖励 | And the relational reward—the smile, word of encouragement, congratulations for progress during and after the challenge—motivates the child, which leads to repetition and mastery. |
 | Goldilocks situation | 金发姑娘式情境；恰到好处的量 | It’s a Goldilocks situation. |
-| sensitized stress response | 被敏化的压力反应 | Remember, they frequently live in a persistent state of fear. |
+| sensitized stress response | 被敏化的压力反应 | In a classroom, what may seem to be a moderate, developmentally appropriate challenge for many children may be an overwhelming demand on a child with a sensitized stress response (see Figure 5). |
 | reflective listening | 反映式倾听 | If you do use words, it’s best to restate what they’re saying; this is called reflective listening. |
 | rhythmic regulating activity | 节奏性调节活动 | It also helps to use some form of rhythmic regulating activity to keep yourself regulated while you’re doing this—like taking a walk, kicking a ball back and forth, shooting some baskets, coloring side-by-side; there are dozens of rhythmic ways to help us regulate. |
 | therapeutic moments | 疗愈时刻 | Many were brief therapeutic moments: A child would ask, “What do you think will happen to my mom?”—then listen to a reassuring comment and drift back to play. |
@@ -189,7 +189,7 @@ source_text: ch17_chap17.txt
 | cortex | 大脑皮层 | And fear shuts down parts of the cortex—the thinking part of the brain. |
 | dysregulated | 失调的 | But I knew that talking with dysregulated children was not going to be effective. |
 | community | 社区 | We heal best in community. |
-| supportive | 支持性的 | Of course, other factors also impact a person’s capacity to demonstrate resilience. Some of the most important are related to the sensitivity of your stress-response systems. |
+| supportive | 支持性的 | It’s really important to note that the supportive parent, teacher, or coach also helps provide the proper “dosing” of challenge for the child. |
 | healing | 疗愈 | Healing takes place when there are dozens of therapeutic moments available each day for the person to control, revisiting and reworking their traumatic experience. |
 | relationship | 关系 | It is in the context of nurturing and caring relationships that the child can meet a challenge; in the face of any new challenge, an adult can model, encourage, and provide a helping hand. |
 | challenge | 挑战 | It is in the context of nurturing and caring relationships that the child can meet a challenge; in the face of any new challenge, an adult can model, encourage, and provide a helping hand. |
@@ -201,8 +201,8 @@ source_text: ch17_chap17.txt
 | child | 孩子 | A child without these relational supports will not have as many developmental successes. |
 | stress | 压力 | All development involves being exposed to novelty, which in turn activates our stress response. |
 | brain | 大脑 | This is because our brain is changeable—malleable. |
-| teacher | 教师 | The supportive parent, teacher, or coach also helps provide the proper “dosing” of challenge for the child. |
-| coach | 教练 | The supportive parent, teacher, or coach also helps provide the proper “dosing” of challenge for the child. |
+| teacher | 教师 | It’s really important to note that the supportive parent, teacher, or coach also helps provide the proper “dosing” of challenge for the child. |
+| coach | 教练 | It’s really important to note that the supportive parent, teacher, or coach also helps provide the proper “dosing” of challenge for the child. |
 | family | 家庭 | When you have friends, family, and other healthy people in your life, you have a natural healing environment. |
 | sleep | 睡眠 | That made it hard for him to fall asleep. |
 | dance | 跳舞 | Thinking about this helped me begin to piece together the regulating potential of patterned, repetitive activity like dancing or massage. |

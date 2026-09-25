@@ -10,7 +10,7 @@ source_text: ch19_chap19.txt
 - **出处**：*What Happened to You?*，Chapter 8 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第八章后半单元，讨论 trauma-informed care 的定义混乱、学校和临床系统中的再创伤、隐性与显性偏见，以及关系性改变
-- **字符数**：约 50,787 字符（提取件）
+- **字符数**：约 49,983 字符（提取件）
 - **一句话主旨**：创伤知情不是给机构贴一个标签或参加一次培训，而是要求每个系统先问“发生了什么”、识别自身的偏见和结构风险，再用调节、连接、发展史和多样化工具改变儿童实际经历的每一天。
 - **章节结构补充**：本单元从 TIC 的术语争议进入学校、临床与司法系统，再讨论童年经验如何形成对族群和差异的隐性与显性偏见，最后以个体经验和真实关系提出改变路径。
 
@@ -45,7 +45,7 @@ source_text: ch19_chap19.txt
 
 **关键词**：long time, change people, even longer, change systems
 
-**表达方式**：用两个 take 结构形成递进，systems 置于 people 之后；破折号制造停顿，让制度改变显得比个人改变更慢。
+**表达方式**：用一个 take 结构配合 even longer 的比较级完成递进，systems 置于 people 之后；破折号制造停顿，让制度改变显得比个人改变更慢。
 
 **为什么这样写**：作者先承认进展缓慢，避免把制度改变写成一夜完成的培训任务；比较结构也把责任从个人行为转向系统设计和资源。
 
@@ -180,8 +180,8 @@ source_text: ch19_chap19.txt
 | therapeutic web | 治疗之网 | The therapeutic web is the collection of positive relational-based opportunities you have throughout your day. |
 | implicit bias | 隐性偏见 | Implicit bias suggests that the bias is present but not “plainly expressed”—sometimes even unintentionally expressed. |
 | anti-racist system | 反种族主义系统 | This is why I believe that a truly trauma-informed system is an anti-racist system. |
-| overt racism | 显性种族主义 | Racism, on the other hand, is an actual overt set of beliefs about the superiority of one race over others. |
-| cultural-sensitivity training | 文化敏感度培训 | You can’t become culturally sensitive from a three-hour seminar. |
+| overt and implicit racism | 显性与隐性种族主义 | His original negative experiences with whiteness, reinforced by many related experiences of overt and implicit racism at school and in the community, stayed with him. |
+| cultural-sensitivity training | 文化敏感度培训 | And this is why you can’t be in a corporation and address these issues by simply having everyone go to an anti-racism course or cultural-sensitivity training. |
 
 ### ⭐⭐ 进阶
 
@@ -195,7 +195,7 @@ source_text: ch19_chap19.txt
 | overmedicated | 被过度用药 | They are mislabeled and, typically, overmedicated. |
 | assessment | 评估 | In the ideal situation, the child will get an assessment that looks at their developmental history—basically, a detailed evaluation of “what happened to you?” |
 | strengths | 优势 | A good assessment will also determine the child’s needs and strengths. |
-| intervention | 干预 | Based upon these, the team can create an individual treatment approach that will take advantage of the child’s strengths and target the areas of need with appropriate enrichment, educational, or therapeutic activities. |
+| intervention | 干预 | At a clinic that has learned that trauma-focused cognitive behavioral therapy (TF-CBT) is an evidence-based intervention for trauma, everyone with trauma may get this intervention. |
 | treatment | 治疗 | Based upon these, the team can create an individual treatment approach that will take advantage of the child’s strengths and target the areas of need with appropriate enrichment, educational, or therapeutic activities. |
 | regulation | 调节 | All of the successful models have one thing in common: They emphasize regulation and connection. |
 | connectedness | 连接感 | Ideally, a child can have connectedness to family, community, and culture, along with a trauma-aware clinical team and its range of tools. |

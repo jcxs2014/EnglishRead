@@ -10,7 +10,7 @@ source_text: ch20_relational_hunger_in_the_modern_world.txt
 - **出处**：*What Happened to You?*，Chapter 9
 - **作者**：Oprah Winfrey
 - **章节定位**：第九章前半单元，从毛利社区的 pōwhiri 与 whanaungatanga 出发，转向 Timothy 的治疗案例，说明关系健康是理解儿童发展和创伤恢复的核心
-- **字符数**：约 14,716 字符（提取件）
+- **字符数**：约 14,486 字符（提取件）
 - **一句话主旨**：毛利传统把健康理解为关系、家族、社区和自然的整体连接，而现代专业系统却容易把人拆成症状；Perry 以 Timothy 的孤立和后来获得的导师、俱乐部、教会及家庭关系为证，说明疗愈需要重新建立一张关系网。
 
 ## 论证结构
@@ -71,13 +71,13 @@ source_text: ch20_relational_hunger_in_the_modern_world.txt
 
 **为什么这样写**：这句把西方医学模型的症状分类和毛利整体关系视角正面区分；它也直接挑战医疗系统以诊断和项目管理替代真实关系的倾向。
 
-> **原句 4:** Pain, distress, and dysfunction would arise from some form of fragmentation, disconnection, dyssynchrony.
+> **原句 4:** For my Māori hosts, pain, distress, and dysfunction would arise from some form of fragmentation, disconnection, dyssynchrony.
 
-**中文理解**：疼痛、痛苦和失调会源自某种形式的碎片化、断联与不同步。
+**中文理解**：对我的毛利主人来说，疼痛、痛苦和失调会源自某种形式的碎片化、断联与不同步。
 
-**句子结构**：主语为 Pain, distress, and dysfunction；谓语为 would arise from；some form of fragmentation, disconnection, dyssynchrony 为三个并列名词。
+**句子结构**：For my Māori hosts 是介词短语，修饰主句；主语为 pain, distress, and dysfunction；谓语为 would arise from；some form of fragmentation, disconnection, dyssynchrony 为三个并列名词。
 
-**关键词**：Pain, distress, dysfunction, arise from, fragmentation, disconnection, dyssynchrony
+**关键词：**For my Māori hosts, pain, distress, dysfunction, arise from, fragmentation, disconnection, dyssynchrony
 
 **表达方式**：把三个症状名词并置，再用 fragmentation、disconnection、dyssynchrony 三个机制名词映射；would arise 让判断带有总结和模型色彩。
 
@@ -99,7 +99,7 @@ source_text: ch20_relational_hunger_in_the_modern_world.txt
 
 **中文理解**：所有传统疗愈实践的一个核心要素，是毛利人称为 whanaungatanga 的东西。
 
-**句子结构**：主语为 A core element of all of the traditional healing practices；系动词为 was；表语为 something the Māori called whanaungatanga，called 后接过去分词作定语。
+**句子结构**：主语为 A core element of all of the traditional healing practices；系动词为 was；表语为 something the Māori called whanaungatanga。something 后接省略 that 的限定性关系从句，从句中 called 为主动谓语，宾语为 whanaungatanga。
 
 **关键词**：core element, traditional healing practices, Māori, called, whanaungatanga
 
@@ -186,7 +186,7 @@ source_text: ch20_relational_hunger_in_the_modern_world.txt
 | disconnection | 断联 | For my Māori hosts, pain, distress, and dysfunction would arise from some form of fragmentation, disconnection, dyssynchrony. |
 | symptom | 症状 | We are chasing symptoms, not healing people. |
 | depression | 抑郁 | I asked how they handled depression, sleep problems, drug abuse, and trauma. |
-| social practice | 社会练习 | He was like a five-year-old in a ten-year-old social world. |
+| social practice | 社会练习 | Despite being ten years old, Timothy had grown up with few opportunities for social “practice.” |
 | mentor | 导师 | We found Timothy an in-school mentor, signed him up for an after-school program with the Boys & Girls Club in his neighborhood, and stopped all his medications. |
 | medication | 药物 | We found Timothy an in-school mentor, signed him up for an after-school program with the Boys & Girls Club in his neighborhood, and stopped all his medications. |
 | belonging | 归属感 | Positive reciprocal relationships and a new sense of belonging helped heal this small family. |

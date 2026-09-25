@@ -3,16 +3,16 @@
 modified: "2026-09-25"
 source_text: ch25_chap25.txt
 ---
-# 25. Chapter 10（续）· 与母亲和解与创伤后力量
+# 25. Epilogue（续）· 与母亲和解与创伤后力量
 
 ## 概览
 
-- **出处**：*What Happened to You?*，Chapter 10 的续篇单元
+- **出处**：*What Happened to You?*，Epilogue
 - **作者**：Oprah Winfrey
-- **章节定位**：第十章收束单元，回顾母亲 Vernita Lee 的临终、迟到的对话、宽恕与把过去转为力量
-- **字符数**：约 5,521 字符（提取件）
-- **一句话主旨**：Oprah 终于把“母亲没有成为我需要的母亲”和“母亲也是一个没有足够资源与爱长大的女孩”同时放进同一幅图景；在最后的陪伴和道歉中，她不是抹去伤害，而是停止要求过去符合自己的愿望，从而把创伤转化为理解、同理心和未来的力量。
-- **章节结构补充**：本章从母亲去世的消息与长期关系冲突写到临终前无法开口的遗憾，再通过音乐、祷告和直接谈话完成迟到的工作，最后把个人宽恕扩展为普遍的 post-traumatic wisdom。
+- **章节定位**：终章后半单元，回顾母亲 Vernita Lee 的临终、迟到的对话、宽恕与把过去转为力量
+- **字符数**：约 5,417 字符（提取件）
+- **一句话主旨**：Oprah 终于把“母亲没有成为我需要的母亲”和“母亲也是一个没有足够资源与爱长大的女孩”同时放进同一幅图景；在最后的陪伴、感谢与释放中，她不是抹去伤害，而是停止要求过去符合自己的愿望，从而把创伤转化为理解、同理心和未来的力量。
+- **章节结构补充**：本终章从母亲去世的消息与长期关系冲突写到临终前无法开口的遗憾，再通过音乐、祷告和直接谈话完成迟到的工作，最后把个人宽恕扩展为普遍的 post-traumatic wisdom。
 
 ## 论证结构
 
@@ -28,7 +28,7 @@ source_text: ch25_chap25.txt
 | 她用“宽恕是放弃希望过去本可以不同”定义放下比较 | 概念/语言 | 将宽恕从原谅具体行为转为停止要求历史满足愿望 |
 | 她以“what happened to you can be your power”结束 | 概念/希望 | 把创伤经历从伤口转为理解他人和自我成长的资源，但不否认痛苦 |
 
-- **论证脉络**：母亲去世 → 关系中的亏欠与比较 → 金钱照料无法代替连接 → 临终前话语失语 → 内在警告促使折返 → 音乐/祷告带来开口 → 重新理解母亲的历史处境 → 说感谢、道歉和宽恕 → 放弃“本应如此”的期待 → 从痛苦中提取力量。
+- **论证脉络**：母亲去世 → 关系中的亏欠与比较 → 金钱照料无法代替连接 → 临终前话语失语 → 内在警告促使折返 → 音乐/祷告带来开口 → 重新理解母亲的历史处境 → 说感谢、表达宽恕并释放 → 放弃“本应如此”的期待 → 从痛苦中提取力量。
 - **可质疑处**：
   1. 母亲的资源与历史处境能够解释她的选择，却不能消除她对女儿造成的实际伤害；理解与责任、宽恕与恢复关系必须同时存在。
   2. Oprah 成功后才获得母亲更多关注的回忆是个人经验，不能直接推论所有父母或所有亲子关系都遵循同一模式。
@@ -166,7 +166,7 @@ source_text: ch25_chap25.txt
 | sacred | 神圣的；意义深远的 | It was a sacred, beautiful moment, one of the proudest of my life. |
 | post-traumatic wisdom | 创伤后智慧 | All of us who have been broken and scarred by trauma have the chance to turn those experiences into what Dr. Perry and I have been talking about: post-traumatic wisdom. |
 | forgiveness | 宽恕 | Forgiveness is giving up the hope that the past could have been any different. |
-| shame and guilt | 羞耻与内疚 | I believe I was able to release her from the shame and the guilt of the past. |
+| shame | 羞耻 | I believe I was able to release her from the shame and the guilt of the past. |
 | strength times strength | 一次又一次的力量 | Strength times strength times strength equals power. |
 | power | 力量 | What happened to you can be your power. |
 | transition | 转变；生命过渡 | When her health began to decline a few years ago, I knew I needed to prepare myself for her transition. |

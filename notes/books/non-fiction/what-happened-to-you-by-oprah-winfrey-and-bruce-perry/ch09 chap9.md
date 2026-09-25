@@ -10,7 +10,7 @@ source_text: ch09_chap9.txt
 - **出处**：*What Happened to You?*，Chapter 3 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第三章后半单元，从爱的生理基础推进到发育逆境、Jesse 案例、解离与激活反应，最后提出创伤知情系统
-- **字符数**：约 31,099 字符（提取件）
+- **字符数**：约 30,753 字符（提取件）
 - **一句话主旨**：人类首先是需要被看见、被回应和被连接的社会性存在，早期照料因此会塑造大脑的调节网络和世界观；创伤造成的警觉或解离在原本危险的环境中可能是适应性的，但学校、司法和医疗系统若只把它当成违规或疾病，就会重复伤害。
 
 ## 论证结构
@@ -39,13 +39,13 @@ source_text: ch09_chap9.txt
 
 **中文理解**：我们都想知道自己做的事、说的话以及自己的存在是重要的。
 
-**句子结构**：主语为 All of us；want to know that... 是宾语从句，that 从句中 what we do, what we say, and who we are 为三个并列主语，matters 为系表结构。
+**句子结构**：主语为 All of us；want to know that... 是宾语从句，that 从句中 what we do, what we say 为两个 what 从句，who we are 为一个 who 从句，matters 为系表结构。
 
 **关键词**：All of us, want to know, what we do, what we say, who we are, matters
 
 **表达方式**：用三个 what 从句和 who we are 把“重要性”拆成行为、语言和整体身份三个层面；All of us 把个人经验扩展为共同需求。
 
-**为什么这样写**：作者从五万次采访提炼出一个最小共同点，让“关系性”不是从理论开始，而从人人都想被确认的经验开始；三个并列 also 为后文爱与 belonging 的定义搭桥。
+**为什么这样写**：作者从超过五万名受访者提炼出一个最小共同点，让“关系性”不是从理论开始，而从人人都想被确认的经验开始；两个 what 从句和一个 who 从句为后文爱与 belonging 的定义搭桥。
 
 > **原句 2:** We are a social species; we are meant to be in community—emotionally, socially, and physically interconnected with others.
 
@@ -63,7 +63,7 @@ source_text: ch09_chap9.txt
 
 **中文理解**：对新生儿来说，爱就是行动；就是成年人提供的专注、回应和养育性照料。
 
-**句子结构**：分号前为省略主语的判断句，To the newborn 是话题/范围状语；分号后 it 指代 love，is 后接三个并列形容词修饰 care。
+**句子结构**：分号前主语为 love，is 为系动词，To the newborn 是范围状语；分号后 it 指代 love，is 后接三个并列形容词修饰 care。
 
 **关键词**：To the newborn, love is action, attentive, responsive, nurturing care, adults provide
 
@@ -111,7 +111,7 @@ source_text: ch09_chap9.txt
 
 **中文理解**：解离是一种我们日常生活中也会使用的复杂心理能力；它涉及从外部世界脱离，并把注意力集中到内在世界。
 
-**句子结构**：分号前主语为 Dissociation，系动词为 is，表语为 a complex mental capability，that we use... 是定语从句；分号后 it 指代 dissociation，involving... 为现在分词短语作伴随定语。
+**句子结构**：分号前主语为 Dissociation，系动词为 is，表语为 a complex mental capability，that we use... 是定语从句；分号后 it 指代 dissociation，involves 后接 disengaging... 和 focusing... 两个动名词短语作宾语。
 
 **关键词**：Dissociation, complex mental capability, everyday life, disengaging, external world, inner world
 
@@ -171,10 +171,10 @@ source_text: ch09_chap9.txt
 | arousal response | 激活反应 | In the arousal response, as we noted earlier, the brain will focus on the threat, tuning out any nonessential input from the body and the outside world. |
 | dissociation | 解离 | Dissociation is a complex mental capability that we use in everyday life; it involves disengaging from the external world and focusing on our inner world. |
 | evocative cue | 唤起记忆的线索 | Even when the cortex was unavailable (in other words, asleep or in a coma), these evocative cues triggered complex behaviors, emotions, and physiological responses because they are due to memory stored in lower systems in the brain. |
-| malleability | 可塑性；可改变性 | For now, know that his story shows the remarkable malleability of the brain, and the power of hope. |
+| malleability | 可塑性；可改变性 | When we talk about healing and recovery we’ll revisit Jesse; for now, know that his story shows the remarkable malleability of the brain, and the power of hope. |
 | state-dependent | 依赖状态的 | All functioning of the brain is “state-dependent.” |
 | trauma-informed systems | 创伤知情系统 | And this is why we need trauma-informed systems. |
-| oppositional defiant disorder | 对立行为障碍 | The resistance and defiance of Alarm and Fear get labeled as oppositional defiant disorder. |
+| oppositional defiant disorder | 对立行为障碍 | Now, as we’ve suggested before, what is adaptive for children living in chaotic, violent, trauma-permeated environments becomes maladaptive in other environments—especially school. The hypervigilance of the Alert state is mistaken for ADHD; the resistance and defiance of Alarm and Fear get labeled as oppositional defiant disorder; flight behavior gets them suspended from school; fight behavior gets them charged with assault. |
 
 ### ⭐⭐ 进阶
 
@@ -183,9 +183,9 @@ source_text: ch09_chap9.txt
 | attentive | 专注的；细心回应的 | To the newborn, love is action; it is the attentive, responsive, nurturing care that adults provide. |
 | responsive | 有回应的；能及时响应的 | The thousands of these loving, responsive interactions shape the developing brain of the infant. |
 | nurturing | 养育的；提供关爱的 | The attentive, loving behaviors grow the neural networks that allow us to feel love, and then act in loving ways toward others. |
-| worldview | 世界观 | It is through these interactions that the child’s worldview is built. |
+| worldview | 世界观 | The infant begins to associate these responsive people with pleasure, sustenance, warmth; her view of the world is being shaped. Remember our little girl in the airport? People are good. It is through these interactions that the child’s worldview is built, and depending upon the quality and pattern of the caregiver’s responses, will build resilience or contribute to a sensitized, vulnerable child. |
 | stress-response systems | 压力反应系统 | A big part of the vulnerability will come from the way chaotic and unpredictable caregiving influences the developing stress-response systems to become sensitized. |
-| activation | 激活 | When a challenge or stressor occurs, it will push us out of balance, and an internal stress response will be activated to get us back into balance. |
+| activation | 激活 | When a challenge or stressor occurs, it will push us out of balance, and an internal stress response will be activated to get us back in balance. |
 | community | 社区；共同体 | In community, we can protect one another, cooperatively hunt and gather, share with the dependents of our family, our clan. |
 | threat | 威胁 | When we encounter a potential threat, our initial default behavior is to flock. |
 | recovery | 恢复；康复 | The process of his recovery has much to tell us about the healing power of connection. |
@@ -199,7 +199,7 @@ source_text: ch09_chap9.txt
 | family | 家庭 | Isolated and disconnected, we are vulnerable. |
 | body | 身体 | If you look at the fundamental organization and functioning of the human body, including the brain, you will see that so much of it is intended to help us create, maintain, and manage social interactions. |
 | brain | 大脑 | Childhood experiences literally impact the biology of the brain. |
-| school | 学校 | What is adaptive for children living in chaotic, violent, trauma-permeated environments becomes maladaptive in other environments—especially school. |
+| school | 学校 | Now, as we’ve suggested before, what is adaptive for children living in chaotic, violent, trauma-permeated environments becomes maladaptive in other environments—especially school. The hypervigilance of the Alert state is mistaken for ADHD; the resistance and defiance of Alarm and Fear get labeled as oppositional defiant disorder; flight behavior gets them suspended from school; fight behavior gets them charged with assault. |
 | work | 工作 | He ultimately went to a retirement home where he lived and worked as a transportation aide. |
 
 ## 一句话总结**：Perry 把爱、被看见和被回应追溯到大脑发展的起点，再用 Jesse 说明恐惧会改变人的功能状态；因此，学校、医疗和司法必须先理解行为背后的经历与环境功能，才能把创伤知情从一句提问变成真正安全的制度。

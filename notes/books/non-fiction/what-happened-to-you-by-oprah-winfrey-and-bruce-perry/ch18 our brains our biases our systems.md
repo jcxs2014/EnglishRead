@@ -10,7 +10,7 @@ source_text: ch18_our_brains_our_biases_our_systems.txt
 - **出处**：*What Happened to You?*，Chapter 8
 - **作者**：Oprah Winfrey
 - **章节定位**：第八章前半单元，以 Shaka Senghor 的成长、犯罪、监禁和重建为主线，展示环境如何塑造身份与选择
-- **字符数**：约 6,668 字符（提取件）
+- **字符数**：约 6,528 字符（提取件）
 - **一句话主旨**：Shaka 从成绩优秀、渴望成为医生的孩子走向街头和监狱，并非简单的“变坏”故事，而是连续的拒绝和寻找爱的反应；他的转变说明系统必须先问“发生了什么”，理解过去才可能承认改变和救赎的可能。
 
 ## 论证结构
@@ -105,7 +105,7 @@ source_text: ch18_our_brains_our_biases_our_systems.txt
 
 **表达方式**：用 isn’t just...it’s that... 从即时痛苦推进到长期学习；bury 与 accept 两个并列动词表现情绪和判断如何一起被压抑。
 
-**为什么这样写**：作者把创伤的代价从事件瞬间扩展到行为学习，说明孩子不仅感到害怕，还在关系中学会了怎样回应和压抑；为 later systemic behavior 铺垫。
+**为什么这样写**：作者把创伤的代价从事件瞬间扩展到行为学习，说明孩子不仅感到害怕，还在关系中学会了怎样回应和压抑；为后文讨论系统性行为铺垫。
 
 > **原句 7:** What struck me most about Shaka’s story is that at no time during this change—from straight-A student to street kid—did anyone ask, “What happened to you? Why are you behaving this way?”
 
@@ -163,16 +163,16 @@ source_text: ch18_our_brains_our_biases_our_systems.txt
 |----------|------|--------------|
 | second-degree murder | 二级谋杀罪 | At the age of nineteen, Shaka had been convicted of second-degree murder. |
 | solitary confinement | 单独监禁 | He served nineteen years in prison, including a total of seven years in solitary confinement. |
-| bestselling memoir | 畅销回忆录 | He started meditating, reading, journaling—and writing what would eventually become his bestselling memoir, Writing My Wrongs. |
-| straight-A student | 全优学生 | Shaka, born James White, grew up in a middle-class family in Detroit. |
+| bestselling memoir | 畅销回忆录 | In his five-by-seven cell, he started meditating, reading, journaling—and writing what would eventually become his bestselling memoir, Writing My Wrongs. |
+| straight-A student | 全优学生 | As a young boy, James was a straight-A student with dreams of becoming a doctor. |
 | explosive temper | 爆炸般的脾气 | But Shaka says for as long as he can remember, his mother had an explosive temper and took out her rage on her children. |
 | physical abuse | 身体虐待 | In addition to his mother’s physical abuse, Shaka says the last five years of his parents’ marriage were unstable. |
-| emotional wall | 情绪墙 | He built an emotional wall and sought protection and acceptance from the streets. |
+| emotional wall | 情绪墙 | Shaka, tired of being betrayed by the people he loved most, says he built an emotional wall and sought protection and acceptance from the streets. |
 | criminal-justice reform | 刑事司法改革 | Since Shaka’s release from prison in 2010, he’s been a vocal advocate for criminal-justice reform. |
 | redemption | 救赎；重新获得价值 | At the heart of his work is the belief that people should not be defined by their past mistakes, and that redemption is possible. |
 | excavating | 发掘；挖掘 | Most people who are in the process of excavating the reasons they do what they do are met at some point with resistance. |
-| validation | 认可；肯定 | I guess I imagined if I became a doctor, she would be nice to me. |
-| trauma layers | 创伤层次 | It takes courage to confront our actions, peel back the layers of trauma in our lives, and expose the raw truth of our past. |
+| validation | 认可；肯定 | It was a deeply moving moment of realization for both of us: a young man, confused and rejected by those who were charged with raising him, simply seeking his mother’s validation and love. |
+| layers of trauma | 创伤层次 | It takes courage to confront our actions, peel back the layers of trauma in our lives, and expose the raw truth of our past. |
 
 ### ⭐⭐ 进阶
 
@@ -186,7 +186,7 @@ source_text: ch18_our_brains_our_biases_our_systems.txt
 | rejected | 被拒绝的 | It was a deeply moving moment of realization for both of us: a young man, confused and rejected by those who were charged with raising him, simply seeking his mother’s validation and love. |
 | advocate | 倡导者 | Since Shaka’s release from prison in 2010, he’s been a vocal advocate for criminal-justice reform. |
 | resistance | 抵抗；反弹 | Most people who are in the process of excavating the reasons they do what they do are met at some point with resistance. |
-| explanation | 解释 | Your past is not an excuse. But it is an explanation—offering insight into the questions so many of us ask ourselves. |
+| explanation | 解释 | This is true. Your past is not an excuse. But it is an explanation—offering insight into the questions so many of us ask ourselves: Why do I behave the way I behave? Why do I feel the way I do? For me, there is no doubt that our strengths, vulnerabilities, and unique responses are an expression of what happened to us. |
 | healing | 疗愈 | But this is where healing begins. |
 
 ### ⭐ 基础
@@ -198,9 +198,9 @@ source_text: ch18_our_brains_our_biases_our_systems.txt
 | mother | 母亲 | “I never knew,” he said. “My mother was upset often.” |
 | school | 学校 | He began acting out: getting in fights, refusing to do schoolwork, running away from home. |
 | love | 爱 | “I guess I imagined if I became a doctor, she would be nice to me.” |
-| support | 支持 | “In that space, I felt accepted,” Shaka told me. |
+| support | 支持 | “In that space, I felt accepted,” Shaka told me. “I was around other broken, fragile young males, and we banded together around our brokenness. I thought, This is support. This is love. This is ‘I got your back no matter what.’” |
 | dreams | 梦想 | As a young boy, James was a straight-A student with dreams of becoming a doctor. |
-| action | 行动 | Most people who are in the process of excavating the reasons they do what they do are met at some point with resistance. |
+| action | 行动 | It takes courage to confront our actions, peel back the layers of trauma in our lives, and expose the raw truth of our past. |
 | mistake | 错误 | At the heart of his work is the belief that people should not be defined by their past mistakes, and that redemption is possible. |
 | story | 故事 | What struck me most about Shaka’s story is that at no time during this change—from straight-A student to street kid—did anyone ask, “What happened to you? Why are you behaving this way?” |
 

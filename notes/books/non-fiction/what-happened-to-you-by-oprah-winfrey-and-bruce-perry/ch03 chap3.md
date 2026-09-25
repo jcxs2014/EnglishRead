@@ -10,7 +10,7 @@ source_text: ch03_chap3.txt
 - **出处**：*What Happened to You?*，Chapter 3（Bruce Perry 撰写的作者说明）
 - **作者**：Bruce D. Perry
 - **章节定位**：继 Oprah 的个人引言之后，作者以个人职业经历说明创伤研究如何从实验室走向公共政策、教育和大众传播，并在结尾提出全书的标题性问题
-- **字符数**：约 5,873 字符（提取件）
+- **字符数**：约 7,047 字符（提取件）
 - **一句话主旨**：Perry 回顾自己从发展神经科学研究者成为儿童保护倡议者的过程，说明“创伤”不只属于临床或政治文本，也需要在教育、媒体和日常生活中被看见；而书名提出的“What happened to you?”把对人的评判改写为对经历的理解。
 
 ## 论证结构
@@ -123,7 +123,7 @@ source_text: ch03_chap3.txt
 
 **中文理解**：这个非凡的机构旨在选拔、支持、教育并培养有高潜能的“弱势”女孩。
 
-**句子结构**：主语为 This remarkable institution；谓语为 was created to select...，四个并列动名词共同说明机构目的；disadvantaged 用引号标出其社会分类含义。
+**句子结构**：主语为 This remarkable institution；谓语为 was created to select...，to 后接四个并列的 bare infinitives（不带 to 的动词原形）共同说明机构目的；disadvantaged 用引号标出其社会分类含义。
 
 **关键词**：remarkable institution, select, support, educate, enrich, disadvantaged girls, high potential
 

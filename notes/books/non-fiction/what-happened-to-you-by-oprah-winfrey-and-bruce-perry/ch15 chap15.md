@@ -10,7 +10,7 @@ source_text: ch15_chap15.txt
 - **出处**：*What Happened to You?*，Chapter 6 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第六章后半单元，区分忽视的不同形式，讨论关系一致性、解离的保护功能、自我伤害调节和通过新联结建立新默认路径
-- **字符数**：约 42,923 字符（提取件）
+- **字符数**：约 42,300 字符（提取件）
 - **一句话主旨**：忽视不是“没有发生任何事”，而是关键经验缺失、模式混乱或某一发展领域长期没有被充分刺激；解离既可能在危险中保护人，也可以成为可训练的创造性能力。疗愈不是删除旧经验，而是以持续、新的关系和重复练习建立更健康的默认路径。
 
 ## 论证结构
@@ -68,7 +68,7 @@ source_text: ch15_chap15.txt
 
 **关键词**：most common form of neglect, fragmented, patternless caregiving
 
-**表达方式**：用 The most common form 把一个类别推到显著位置；fragmented 与 patternless 形成头韵式节奏，直接传达照料的不连贯和不可预测。
+**表达方式**：用 The most common form 把一个类别推到显著位置；fragmented 与 patternless 是两个并列形容词，直接表现照料的不连贯和不可预测。
 
 **为什么这样写**：作者用模式而非“是否爱孩子”定义忽视；照护者可能偶尔喂食、拥抱，却在另一天缺席或愤怒，导致儿童无法建立稳定信号。
 
@@ -100,7 +100,7 @@ source_text: ch15_chap15.txt
 
 **中文理解**：孩子想要的是充分的参与；他们希望你真正在场。
 
-**句子结构**：They want full engagement 与 They want you to be present 是两个重复主语、重复谓语的短句；be present 为省略不定式的表语补足结构。
+**句子结构**：They want full engagement 与 They want you to be present 是两个重复主语、重复谓语的短句；be present 为省略 to 的不定式作 want 的宾语补足语。
 
 **关键词**：full engagement, want, present
 
@@ -110,7 +110,7 @@ source_text: ch15_chap15.txt
 
 > **原句 7:** The Still-Face paradigm shows viscerally that within seconds of a child perceiving their parent to be disengaged and emotionally absent, they start to feel distress and attempt to reengage the parent.
 
-**中文理解**：Still-Face（静止脸）范式直观地显示：孩子几秒钟内察觉到父母疏离、情感缺席后，就会开始感到痛苦并试图重新与父母建立连接。
+**中文理解**：Still-Face（静止脸）范式直观地显示：孩子几秒钟内察觉到单一位家长疏离、情感缺席后，就会开始感到痛苦并试图重新与这位家长建立连接。
 
 **句子结构**：主语为 The Still-Face paradigm；谓语为 shows；that 引导宾语从句；within seconds of... 是时间状语，perceiving... 是分词结构，they start... 为主句。
 
@@ -154,7 +154,7 @@ source_text: ch15_chap15.txt
 
 **表达方式**：用 more about 把治疗从“清除过去”转向“建设未来”；new 重复两次，default pathways 把改变写成日常自动运行的路线。
 
-**为什么这样写**：作者反对把疗愈理解为删除创伤记忆，而强调在旧路径旁建立替代路径；这句话把希望落实为关联、重复和新的自动化反应，也为全书从理解走向行动收束。
+**为什么这样写**：作者反对把疗愈理解为删除创伤记忆，而强调在旧路径旁建立替代路径；这句话把希望落实为关联、重复和新的自动化反应，为 Chapter 6 从理解创伤转向以新联结和重复练习实施疗愈作结。
 
 ## 词汇分级
 
@@ -170,7 +170,7 @@ source_text: ch15_chap15.txt
 | malnutrition | 营养不良 | The children suffered deprivation, malnutrition, abuse, and more. |
 | deficits | 缺陷；不足 | Even after being removed from the institutions, they grew up with a range of deficits. |
 | undersocialized | 社会化不足的 | These children grow up undersocialized. |
-| fragmented caregiving | 碎片化的照料 | The most common form of neglect is fragmented, patternless caregiving. |
+| fragmented | 碎片化的 | The most common form of neglect is fragmented, patternless caregiving. |
 | splinter neglect | 碎片式忽视 | Another kind of neglect—“splinter” neglect—occurs when many aspects of development are normal and some key systems receive appropriately timed experiences, but one or more does not—leading to the absence of a critical aspect of healthy development. |
 | relational architecture | 关系架构 | This lets you get adequate repetitions to build the foundation—the fundamental relational architecture—that will allow you to continue to grow healthy relational connections. |
 | Still-Face paradigm | 静止脸范式 | There’s a famous experiment in developmental psychology created by a friend and colleague of mine, Dr. Ed Tronick, called the Still-Face paradigm, which can give us a clue. |
@@ -184,7 +184,7 @@ source_text: ch15_chap15.txt
 | neglect | 忽视 | When you say neglect, what do you mean? Isn’t neglect traumatic? |
 | developing child | 发展中的儿童 | Okay, let’s think about the developing child. |
 | stimulation | 刺激 | Neglect is most destructive early in life, when the brain is rapidly growing; early neglect interferes with the child’s getting the necessary stimulation required for normal development. |
-| institution | 机构；孤儿院 | It is likely that more than five hundred thousand children spent part of their early lives in the state-run institutional orphanages during the Ceauşescu regime in Romania. |
+| institution | 机构；孤儿院 | It is likely that more than five hundred thousand children spent part of their early lives in the state-run institutional orphanages during the Ceauşescu regime in Romania; in 1989, when communism ended in the country, the public and press saw the horrible conditions these children had been subjected to. |
 | caregiver | 照料者 | The most common form of neglect is fragmented, patternless caregiving. |
 | consistent | 持续的；一致的 | The key to having many healthy relationships in your life is having only a few safe, stable, and nurturing relationships in your first year. |
 | nurturing | 养育的；提供关爱的 | The key to having many healthy relationships in your life is having only a few safe, stable, and nurturing relationships in your first year. |
@@ -192,7 +192,7 @@ source_text: ch15_chap15.txt
 | distress | 痛苦 | The Still-Face paradigm shows viscerally that within seconds of a child perceiving their parent to be disengaged and emotionally absent, they start to feel distress and attempt to reengage the parent. |
 | self-soothing | 自我安抚 | Making yourself throw up can also cause that opioid burst. So there are eating disorders related to “self-soothing” and not to body image. |
 | dissociative response | 解离反应 | Precisely. This dissociative response is used when there is inescapable, unavoidable distress and pain. |
-| repetition | 重复 | It takes repetition, and time; honestly, it works best if someone understands how the brain changes. |
+| repetition | 重复 | And that takes repetition, and time; honestly, it works best if someone understands how the brain changes. |
 | malleable | 可塑的；可改变的 | The good news is that the brain is malleable all through life. |
 | relationship | 关系 | The key to having many healthy relationships in your life is having only a few safe, stable, and nurturing relationships in your first year. |
 | attention | 注意力 | And it requires giving the infant, toddler, or child your attention. |
@@ -206,7 +206,7 @@ source_text: ch15_chap15.txt
 | family | 家庭 | These children grow up undersocialized. |
 | home | 家；家庭环境 | But when an infant, toddler, or child grows up in a household where “loving” is outsourced, the result can be a form of splinter neglect, where key relational capabilities are undeveloped or stunted. |
 | language | 语言 | Say you speak only English to an infant for six weeks and then say, “English is done, we’re going to speak Chinese.” |
-| fear | 恐惧 | They start to feel distress and attempt to reengage the parent. |
+| fear | 恐惧 | The problem was that she had a fixed delusion and a profound fear that her children would be harmed if they left her sight. |
 | help | 帮助 | So help me understand neglect. |
 | health | 健康 | The inability to be really present has a toxic impact on healthy development. |
 

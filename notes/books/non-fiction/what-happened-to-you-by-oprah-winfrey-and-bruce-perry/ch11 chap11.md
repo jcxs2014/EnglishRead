@@ -10,7 +10,7 @@ source_text: ch11_chap11.txt
 - **出处**：*What Happened to You?*，Chapter 4 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第四章后半单元，讨论创伤定义、三个 E、ACE 研究的局限、关系与时机的保护作用、治疗性接触的剂量，以及 PTSD 症状群
-- **字符数**：约 32,930 字符（提取件）
+- **字符数**：约 32,516 字符（提取件）
 - **一句话主旨**：创伤不能只按事件严重程度或一个 ACE 分数定义，必须同时看个人体验、反应模式、关系支持和发生时机；治疗也不是强迫当事人长时间重访伤口，而是用短暂、可承受、可退出的接触反复提供安全和连接。
 
 ## 论证结构
@@ -120,11 +120,11 @@ source_text: ch11_chap11.txt
 
 **为什么这样写**：作者用时机修正 ACE 总量模型，提示同样长的逆境若集中在早期发展期，可能产生不同结果；但 huge difference 也需要读者结合后文对发展阶段的限定理解。
 
-> **原句 8:** A meaningful dose of therapeutic interaction isn’t forty-five minutes once a week.
+> **原句 8:** This means that a meaningful dose of therapeutic interaction isn’t forty-five minutes once a week.
 
 **中文理解**：有意义的治疗性互动剂量，并不是每周一次、每次四十五分钟。
 
-**句子结构**：主语为 A meaningful dose of therapeutic interaction；系动词为 isn’t；表语为 forty-five minutes once a week。
+**句子结构**：主句为 This means；that a meaningful dose of therapeutic interaction isn’t forty-five minutes once a week 是省略 that 的内容从句，从句主语为 a meaningful dose of therapeutic interaction，系动词为 isn’t。
 
 **关键词**：meaningful dose, therapeutic interaction, forty-five minutes, once a week
 
@@ -142,7 +142,7 @@ source_text: ch11_chap11.txt
 
 **表达方式**：用 shipwrecked 这一强烈隐喻把内在世界写成失事现场；短句没有解释细节，让读者先感受破碎和失重。
 
-**为什么这样写**：在解释 PTSD 症状前，作者用沉船比喻被破坏的世界观和记忆；这个意象也连接后文反复回访残骸、重新建立安全地点的疗愈过程。
+**为什么这样写**：在讲解 PTSD 症状群的过程中，作者用沉船比喻被破坏的世界观和记忆；这个意象也连接后文反复回访残骸、重新建立安全地点的疗愈过程。
 
 > **原句 10:** The effects of trauma stretch far and wide across generations and across communities, and it’s important to always come back to our central question with compassion: What happened to you?
 
@@ -169,7 +169,7 @@ source_text: ch11_chap11.txt
 | three E’s | 三个 E：事件、体验、后果 | They came up with the “three E’s” definition of trauma, which articulates what we just talked about: that a trauma has three key aspects—the event, the experience, and the effects. |
 | sensitized stress-response | 被敏化的压力反应 | Remember that if the life experiences of the first two months include inconsistent or unpredictable stress, this pattern of activation creates a sensitized stress response (see Figures 3 and 5). |
 | buffering capacity | 缓冲能力 | The specific effects on your health will be determined by a variety of other factors, including genetic vulnerability, the developmental stage at which the traumatic events occurred, history of your previous trauma, your family’s history of trauma, and the buffering capacity of healthy relationships, family, and community. |
-| epidemiological study | 流行病学研究 | These ACE studies are some of the most important epidemiology studies done in our lifetime. |
+| epidemiological study | 流行病学研究 | The first ACE epidemiological study found a correlation between the ACE score and the nine major causes of death in adult life. |
 | correlation | 相关性 | The primary misunderstanding of the study, however, is that people confuse correlation with causation. |
 | causation | 因果关系 | The primary misunderstanding of the study, however, is that people confuse correlation with causation. |
 | predictive power | 预测力 | But the ACE score doesn’t have much real predictive power on an individual basis, or as a clinical tool. |

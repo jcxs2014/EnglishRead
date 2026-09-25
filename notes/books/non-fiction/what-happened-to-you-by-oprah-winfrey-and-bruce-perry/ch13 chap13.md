@@ -10,7 +10,7 @@ source_text: ch13_chap13.txt
 - **出处**：*What Happened to You?*，Chapter 5 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第五章后半单元，从“恐惧能否遗传”谈到历史创伤、情绪传染、社会文化传递、表观遗传和关系/身体健康
-- **字符数**：约 45,501 字符（提取件）
+- **字符数**：约 44,675 字符（提取件）
 - **一句话主旨**：创伤不仅通过个人记忆和关系延续，也会经由家庭情绪、社会文化、基因表达和身体调节进入后代；理解传递机制的目的不是宿命化，而是找出可以被打断、重新选择和有意改变的环节。
 
 ## 论证结构
@@ -49,13 +49,13 @@ source_text: ch13_chap13.txt
 
 > **原句 2:** The fear of the grandparent becomes the fear of the parent, which becomes the fear of the child.
 
-**中文理解**：祖母的恐惧变成父母的恐惧，父母的恐惧又变成孩子的恐惧。
+**中文理解**：祖辈的恐惧变成父辈的恐惧，父辈的恐惧又变成孩子的恐惧。
 
 **句子结构**：主语为 The fear of the grandparent；主句为 becomes the fear of the parent，which 引导非限定性定语从句继续说明 parent’s fear 的下一次传递。
 
 **关键词**：fear of the grandparent, becomes, fear of the parent, fear of the child
 
-**表达方式**：用 becomes 反复构成代际链，句法结构本身模拟了情绪的连续传递；三个 allomorphy（fear/of/the）保持节奏稳定。
+**表达方式**：用 becomes 反复构成代际链，句法结构本身模拟了情绪的连续传递；fear、of、the 三个词项反复出现，形成平行节奏。
 
 **为什么这样写**：它把抽象的历史影响变成可追踪的家庭链条，提醒读者孩子不必经历原始事件，也可能接收到由身体和互动传递的恐惧。
 

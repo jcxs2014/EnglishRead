@@ -10,7 +10,7 @@ source_text: ch07_chap7.txt
 - **出处**：*What Happened to You?*，Chapter 2 的续篇对话单元
 - **作者**：Bruce D. Perry 与 Oprah Winfrey 对话
 - **章节定位**：第二章后半单元，从婴儿的节奏与外部调节讲到压力模式、依恋关系、成瘾和关系性奖励
-- **字符数**：约 31,028 字符（提取件）
+- **字符数**：约 30,694 字符（提取件）
 - **一句话主旨**：健康并不等于永远没有压力，而在于压力是否以可预测、可回应的方式出现；婴儿通过照料者的节奏和回应建立调节能力，成人则需要通过安全关系和多样奖励来抵抗失调与成瘾循环。
 
 ## 论证结构
@@ -63,7 +63,7 @@ source_text: ch07_chap7.txt
 
 **中文理解**：当一个要求或挑战把我们带离平衡、带离原本受调节的“设定点”时，压力就发生了。
 
-**句子结构**：主句为 Stress is what occurs；when 引导时间/条件从句，a demand or challenge 作主语，takes us out of balance 为主句；破折号中的 away from... 补充说明平衡被破坏后的方向。
+**句子结构**：主句为 Stress is what occurs；what occurs 内嵌 when 从句，a demand or challenge 作从句主语，takes us out of balance 为从句谓语；破折号中的 away from... 补充说明平衡被破坏后的方向。
 
 **关键词**：Stress, demand or challenge, out of balance, regulated set points
 
@@ -117,7 +117,7 @@ source_text: ch07_chap7.txt
 
 **表达方式**：用三个递进的过去分词形容父母状态，再以 have a hard time regulating child 把失调节传递到亲子关系；副词 consistently and predictably 再次强调稳定回应。
 
-**为什么这样写**：作者把照料困难放在资源和支持不足的情境中，而不是归咎于父母恶意；这也是他随后提出社会需要给父母更多支持、而不只是训练他们“做得更好”的基础。
+**为什么这样写**：作者把照料困难放在资源和支持不足的情境中，而不是归咎于父母恶意；这承接前文对社会支持不足的判断，也为后文讨论支持系统做铺垫。
 
 > **原句 8:** “Reality is my problem, drugs and alcohol are my solution.”
 
@@ -165,10 +165,10 @@ source_text: ch07_chap7.txt
 | external regulation | 外部调节 | Caregiving adults provide external regulation. |
 | core regulatory networks | 核心调节网络 | We have a set of core regulatory networks (CRNs), or neural systems, originating in the lower parts of the brain and spreading throughout the whole brain, that work together to keep us regulated in the face of various stressors. |
 | Tree of Regulation | 调节之树 | When you mix in attentive, responsive, and nurturing caregiving, the roots and trunk of our brain’s Tree of Regulation are being organized (see Figure 2). |
-| sensitization | 敏化；对刺激变得过度敏感 | When the hungry, cold, scared infant is inconsistently responded to—and regulated—by the overwhelmed caregiver, this creates an inconsistent, prolonged, and unpredictable activation of the child’s stress-response systems. The result is a sensitization of these important systems. |
+| sensitization | 敏化；对刺激变得过度敏感 | If the hungry, cold, scared infant is inconsistently responded to—and regulated—by the overwhelmed caregiver, this creates an inconsistent, prolonged, and unpredictable activation of the child’s stress-response systems. The result is a sensitization of these important systems. |
 | functional vulnerability | 功能性脆弱 | Over time, this can lead to functional vulnerability, and since the stress-response systems collectively reach all parts of the brain and body, a cascade of risk in emotional, social, mental, and physical health occurs. |
 | dissociation | 解离；从外部世界脱离并转入内在世界 | This is all part of another adaptive capability, called dissociation. |
-| self-medication | 自我用药；用物质自行缓解痛苦 | And as these children get older and are introduced to drugs or alcohol themselves, they may discover that they can feel a quiet they have never experienced; the pleasure that comes from the relief of distress becomes a powerful reward. |
+| self-medication | 自我用药；用物质自行缓解痛苦 | The cycle of dysregulation, self-medication, relational disruption, lack of reward leads to more substance abuse. |
 | reward bucket | 奖励桶；满足调节与奖励需要的资源容器 | Every day we “fill our reward bucket” with various sources of reward—and not every day is the same (see Figure 4). |
 | relational disruption | 关系中断 | The cycle of dysregulation, self-medication, relational disruption, lack of reward leads to more substance abuse. |
 | substance abuse | 物质滥用 | Disconnection, marginalization, demonizing, and punishing only make the problems of substance abuse worse. |
@@ -189,7 +189,7 @@ source_text: ch07_chap7.txt
 | relief | 缓解；痛苦减轻 | They are relaxed for the first time in their lives. |
 | internal storm | 内在风暴；持续的强烈失调 | So often when we ask, “What happened?” we find a history of developmental trauma. Most people with “developmental adversity” are chronically dysregulated—they tend to be wound up, anxious. Sometimes they feel like they are jumping out of their skin—or, as Russell Brand described it so well, the internal storm. |
 | connectedness | 连接感；与他人的联系 | The healthiest way to do this is through relationships. Connectedness regulates and rewards us. |
-| marginalized | 被边缘化的 | Disconnection, marginalization, demonizing, and punishing only make the problems of substance abuse worse. |
+| marginalization | 边缘化 | Disconnection, marginalization, demonizing, and punishing only make the problems of substance abuse worse. |
 
 ### ⭐ 基础
 

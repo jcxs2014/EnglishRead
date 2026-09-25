@@ -10,7 +10,7 @@ source_text: ch05_chap5.txt
 - **出处**：*What Happened to You?*，Chapter 1 的续篇对话单元
 - **作者**：Bruce D. Perry（与 Oprah Winfrey 对话）
 - **章节定位**：第一章后半单元，以 Mike Roseman 的 PTSD 案例建立大脑自下而上的加工模型，再讨论早期感觉输入、非语言线索、记忆联结与个人“代码本”
-- **字符数**：约 36,349 字符（提取件）
+- **字符数**：约 35,669 字符（提取件）
 - **一句话主旨**：许多看似无缘无故的行为，其实是大脑把过去的威胁线索与当前感觉连接起来的适应性反应；通过理解感觉如何触发记忆、关系如何塑造早期世界观，以及这些联结如何被重新组织，提问“What happened to you?”才有可能解释当下的困难。
 
 ## 论证结构
@@ -111,7 +111,7 @@ source_text: ch05_chap5.txt
 
 **中文理解**：所有经验都是从下到上处理的；也就是说，要到达大脑顶部那个更“聪明”的部分，我们必须先经过下面那个没那么“聪明”的部分。
 
-**句子结构**：主句为 All experience is processed from the bottom up；meaning 是同位语，to get to... 是目的状语，we have to go through... 是主句；两个引号把 smart 与 not-so-smart 标为口语化比喻。
+**句子结构**：主句为 All experience is processed from the bottom up；meaning 是补充说明，to get to... 是目的状语，we have to go through... 仍是同一主句的谓语部分；两个引号把 smart 与 not-so-smart 标为口语化比喻。
 
 **关键词**：All experience, processed from the bottom up, top, smart part, go through the lower part
 
@@ -171,10 +171,10 @@ source_text: ch05_chap5.txt
 | oversensitive and overreactive | 过度敏感且反应过度 | I think part of the problem is that many years ago, in Korea, Mike’s brain adapted to continuous threat—his body and brain became oversensitive and overreactive to any threat-related signals from the world. |
 | maladaptive | 不适应的；不再适合环境的 | But what was once adaptive has become maladaptive. |
 | interoception | 内感受；感知身体内部状态的能力 | We also have sensory systems that tell us what is going on inside our body. This is called interoception, and it creates our sense of, for instance, being thirsty, hungry, or short of breath. |
-| linear narrative memory | 线性叙事记忆 | In children younger than three, the neural networks are not mature enough to create what’s called linear narrative memory (in other words, a who, what, when, and where memory). |
-| personal codebook | 个人代码本；由经验形成的解释系统 | As we grow up, we are all trying to make sense of what’s happening around us. What does that sound mean? What does it mean when someone rubs my back? What does that expression on his face mean? What else happens when that scent is present? Moment by moment in early life, our developing brain sorts and stores our personal experiences, making our personal “codebook” that helps us interpret the world. |
+| linear narrative memory | 线性叙事记忆 | In a young child, the cortex is not yet fully developed; in children younger than three, the neural networks are not mature enough to create what’s called linear narrative memory (in other words, a who, what, when, and where memory). |
+| personal codebook | 个人代码本；由经验形成的解释系统 | Moment by moment in early life, our developing brain sorts and stores our personal experiences, making our personal “codebook” that helps us interpret the world. |
 | dysregulated | 失调的；难以调节的 | A child exposed to unpredictable or extreme stress will become what we call dysregulated. |
-| implicit biases | 隐性偏见 | If our brains are filled with associations based upon media-driven biases about ideal body type, or racial or cultural stereotypes, for example, we will exhibit implicit biases (and maybe overt bias). |
+| implicit biases | 隐性偏见 | In turn, if our brains are filled with associations based upon media-driven biases about ideal body type, or racial or cultural stereotypes, for example, we will exhibit implicit biases (and maybe overt bias). |
 | trauma memory | 创伤记忆 | And as his brain is trying to make sense of the whole experience, it’s also making a trauma memory. |
 
 ### ⭐⭐ 进阶
@@ -182,15 +182,15 @@ source_text: ch05_chap5.txt
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
 | clinical problem | 临床问题 | I started to look at a clinical problem through the lens of the brain. |
-| threat response | 威胁反应 | Since your brainstem can’t tell time, or know that many years have passed, it activates the stress response and you have a full-blown threat response. |
-| sensory input | 感觉输入 | Input from all of our senses—vision, hearing, touch, smell—first comes into our brain in the lower areas. |
+| threat response | 威胁反应 | And since your brainstem can’t tell time, or know that many years have passed, it activates the stress response and you have a full-blown threat response. |
+| sensory input | 感觉输入 | It illuminated how “evocative cues”—basically any sensory input, like a sight, sound, smell, taste, or touch—can activate a traumatic memory. |
 | neural networks | 神经网络 | Each brain area has the capacity to create memory—to change in response to experience and to store those changes in its particular neural networks. |
 | associations | 联结；联想 | The brain categorizes every bit of sensory input and sends it “up the triangle” to other parts of the brain to integrate and process it further. |
-| co-occur | 同时发生；共同出现 | We talked about how our brain makes sense of the world by connecting sights and sounds and smells that “co-occur.” |
+| co-occur | 同时发生；共同出现 | I showed Sam the same upside-down triangle brain drawing, and we talked about how our brain makes sense of the world by connecting sights and sounds and smells that “co-occur.” |
 | nonverbal relational cues | 非语言的关系线索 | There are parts of our brain that are very, very sensitive to nonverbal relational cues. |
 | proximity | 接近；邻近关系 | Proximity was the only possible trigger I saw; the closer the teacher was, the worse Sam’s agitation. |
 | reconnect | 重新联系；重新建立联结 | One of the first things we did was reconnect him with his siblings, setting up weekly calls and monthly visits. |
-| worldview | 世界观 | As we grow up, we are all trying to make sense of what’s happening around us. Moment by moment in early life, our developing brain sorts and stores our personal experiences, making our personal “codebook” that helps us interpret the world. Each of us creates a unique worldview shaped by our life’s experiences. |
+| worldview | 世界观 | Each of us creates a unique worldview shaped by our life’s experiences. |
 
 ### ⭐ 基础
 
@@ -199,12 +199,12 @@ source_text: ch05_chap5.txt
 | brain | 大脑 | I think about the brain a lot. |
 | behavior | 行为 | Over the years, I’ve found that seemingly senseless behavior makes sense once you look at what is behind it. |
 | memory | 记忆 | As your brain starts to create the complex memories that store these connections, your personal catalog of experiences is being created. |
-| threat | 威胁 | I think part of the problem is that many years ago, in Korea, Mike’s brain adapted to continuous threat. |
+| threat | 威胁 | I think part of the problem is that many years ago, in Korea, Mike’s brain adapted to continuous threat—his body and brain became oversensitive and overreactive to any threat-related signals from the world. |
 | stress | 压力 | I was trained as a neuroscientist and have been studying the brain and stress-response systems since I was in college. |
 | people | 人们 | I’ve found that a “brain-aware” perspective helps me when I’m trying to understand people. |
 | child | 孩子 | Being a child psychiatrist, I’m often asked about troubling behaviors. |
 | room | 房间 | Mike, I’ve seen you flinch and startle in my office many times when a door slams or a cart rattles too loud in the hallway. |
-| time | 时间 | Since your brainstem can’t tell time, or know that many years have passed, it activates the stress response and you have a full-blown threat response. |
+| time | 时间 | And since your brainstem can’t tell time, or know that many years have passed, it activates the stress response and you have a full-blown threat response. |
 | world | 世界 | Each of us creates a unique worldview shaped by our life’s experiences. |
 
 ## 一句话总结**：Perry 用 Mike 的战争闪回、婴儿的感觉输入和 Sam 的 Old Spice 触发说明，行为常常是大脑根据旧经验即时生成的生存答案；要改变当下，就必须找到“发生了什么”如何在感觉、记忆和关系中留下可观察的联结。

@@ -10,7 +10,7 @@ source_text: ch02_introduction.txt
 - **出处**：*What Happened to You?*，Introduction（Oprah Winfrey 撰写的个人叙述）
 - **作者**：Oprah Winfrey
 - **章节定位**：全书开篇的自传性引言，先从童年遭受体罚的经历切入，再把个人记忆与大脑适应和疗愈的可能性连接起来
-- **字符数**：约 3,745 字符（提取件）
+- **字符数**：约 4,597 字符（提取件）
 - **一句话主旨**：Oprah 追溯自己在童年体罚、强迫沉默与微笑中形成的条件性顺从，说明这段经历如何塑造长期的讨好模式，并以大脑具有适应能力的事实为重新理解自己、修复自我价值提供希望。
 
 ## 论证结构
@@ -39,7 +39,7 @@ source_text: ch02_introduction.txt
 
 **中文理解**：“我这样做是因为爱你，”她总在我耳边重复这句辩解。
 
-**句子结构**：直接引语作主句，she’d repeat her defense in my ear 是主语从句的外层叙述；in my ear 作地点状语，because I love you 在引语内部说明原因。
+**句子结构**：外层主句为 she’d repeat her defense in my ear；直接引语是被转述的内容，in my ear 作地点状语，because I love you 在引语内部说明原因。
 
 **关键词**：I do this because I love you, repeat her defense, in my ear
 
@@ -51,7 +51,7 @@ source_text: ch02_introduction.txt
 
 **中文理解**：在当时，照料者用体罚来管教孩子被视为一种被接受的做法。
 
-**句子结构**：时间状语 At the time 置于句首；主句为 it was accepted practice，for caregivers to use... 是介词短语，to discipline a child 为目的状语。
+**句子结构**：时间状语 At the time 置于句首；it 是预期性主语，was accepted practice 是系表结构，accepted 在 was accepted practice 中作表语形容词；for caregivers to use... 是介词短语，to discipline a child 为目的状语。
 
 **关键词**：At the time, accepted practice, caregivers, corporal punishment, discipline
 
@@ -67,7 +67,7 @@ source_text: ch02_introduction.txt
 
 **关键词**：But even, at three years old, I knew, experiencing was wrong
 
-**表达方式**：用 But even at three years old 把成年后的理解倒推到最早的主观记忆，凸显儿童已经拥有判断伤害的能力；now knowing 与 childhood awareness 形成时间张力。
+**表达方式**：用 But even at three years old 把成年后的理解倒推到最早的主观记忆，凸显儿童已经拥有判断伤害的能力。
 
 **为什么这样写**：这一句阻止读者把服从误解为孩子自愿接受暴力；三岁孩子无法改变照料环境，却能隐约感到经验不对，作者借此保留受害者的道德主体性。
 
@@ -141,7 +141,7 @@ source_text: ch02_introduction.txt
 
 **表达方式**：用 have been opened to this fact 写认知改变，再用 although... 从句把“曾经受害”与“大脑适应”并置；叙事从个人记忆转入科学解释，语气也随之从控诉转为理解。
 
-**为什么这样写**：作者并非否认童年的伤害，而是在伤害事实之后加入适应机制，说明行为反应可能具有保护性的来源；这也是她把“person pleaser”从道德污名重新解释为发展结果的关键转折。
+**为什么这样写**：作者并非否认童年的伤害，而是在伤害事实之后加入适应机制，说明行为反应可能具有保护性的来源；这也是她把“people pleaser”从道德污名重新解释为发展结果的关键转折。
 
 > **原句 10:** This is where hope lives for all of us—in the unique adaptability of our miraculous brains.
 
@@ -166,7 +166,7 @@ source_text: ch02_introduction.txt
 | people pleaser | 讨好型的人；过度满足他人期待的人 | The long-term impact of being whupped—then forced to hush and even smile about it—turned me into a world-class people pleaser for most of my life. |
 | deeply rooted trauma | 根深蒂固的创伤 | For the next forty years, that pattern of conditioned compliance—the result of deeply rooted trauma—would define every relationship, interaction, and decision in my life. |
 | set boundaries | 设定边界 | It would not have taken me half a lifetime to learn to set boundaries and say “no” with confidence had I been nurtured differently. |
-| biological response | 生物学反应 | Through my work with Dr. Perry, my eyes have been opened to the fact that although I experienced abuse and trauma as a child, my brain found ways to adapt. |
+| biological response | 生物学反应 | There was also a biological response. |
 | adaptability | 适应能力 | This is where hope lives for all of us—in the unique adaptability of our miraculous brains. |
 | recalibrate | 重新校准 | Through this lens we can build a renewed sense of personal self-worth and ultimately recalibrate our responses to circumstances, situations, and relationships. |
 

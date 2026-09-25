@@ -10,7 +10,7 @@ source_text: ch10_the_spectrum_of_trauma.txt
 - **出处**：*What Happened to You?*，Chapter 4
 - **作者**：Oprah Winfrey
 - **章节定位**：第四章前半单元，以 Cynthia Bond 的小说与个人精神健康经历引出创伤的多种表现、内在羞耻和“What happened to you?”视角
-- **字符数**：约 3,688 字符（提取件）
+- **字符数**：约 4,475 字符（提取件）
 - **一句话主旨**：创伤不仅表现为诊断、失眠或关系困难，也会以羞耻、完美主义的生活外壳和成年后的破坏性选择留下痕迹；理解“发生过什么”能把道德评判改写成对痛苦根源的探索，并保留逐步恢复的希望。
 
 ## 论证结构
@@ -75,7 +75,7 @@ source_text: ch10_the_spectrum_of_trauma.txt
 
 **中文理解**：一种深深的羞耻笼罩下来：为什么我不能“振作起来”、不能“放下它”？
 
-**句子结构**：主语为 A deep shame，谓语为 descended；冒号后是直接引语中的两个省略疑问，Why couldn’t I 后接两个并列动词短语。
+**句子结构**：主语为 A deep shame，谓语为 descended；冒号后是一个直接思想式疑问句，Why couldn’t I 后接两个并列的省略不定式短语。
 
 **关键词**：deep shame, descended, buck up, get over it
 

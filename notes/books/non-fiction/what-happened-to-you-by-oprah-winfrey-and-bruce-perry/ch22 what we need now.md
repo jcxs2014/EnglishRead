@@ -10,7 +10,7 @@ source_text: ch22_what_we_need_now.txt
 - **出处**：*What Happened to You?*，Chapter 10
 - **作者**：Oprah Winfrey
 - **章节定位**：第十章前半单元，以《Beloved》拍摄中“tucking in”的无知为入口，回到六岁被安置在门廊的母亲记忆
-- **字符数**：约 4,455 字符（提取件）
+- **字符数**：约 4,349 字符（提取件）
 - **一句话主旨**：Oprah 意识到自己从未真正体验过带有爱意的“被安置入睡”，这份缺失连接了她后来对母亲、母亲身份和他人痛苦的感受；理解自己的故事如何形成同理心，也要求她停止把童年痛苦当作个人缺陷。
 - **章节结构补充**：本章从电影角色与现场误解写到观察母亲照料孩子，再回到自己在 Milwaukee 门廊的第一夜，最后把个人痛苦转化为公共倾听和照护的动机。
 
@@ -52,7 +52,7 @@ source_text: ch22_what_we_need_now.txt
 
 **中文理解**：我从未感到有人带着那样充满爱意的意图，把一条毯子盖在我身上。
 
-**句子结构**：主语为 I；谓语为 never felt；anybody 为宾语，place a blanket on me 为不带 to 的复合宾语；with that kind of loving intention 为方式状语。
+**句子结构**：主语为 I；谓语为 never felt；anyone 为宾语，place a blanket on me 为不带 to 的复合宾语；with that kind of loving intention 为方式状语。
 
 **关键词**：never felt, place a blanket, on me, loving intention
 
@@ -92,9 +92,9 @@ source_text: ch22_what_we_need_now.txt
 
 **关键词：**She’ll have to, sleep on the porch
 
-**表达方式**：用 have to 把排斥写成照料者口中的必要性，on the porch 把儿童从家庭内部移到边缘空间；简短引语让权力决定显得日常而冷酷。
+**表达方式**：用 have to 把排斥写成 Ms. Miller 口中的必要性，on the porch 把儿童从家庭内部移到边缘空间；母亲的 “All right” 只显示她默认并接受了这个安排。简短引语让权力决定显得日常而冷酷。
 
-**为什么这样写**：说话者不是直接说“我不爱你”，而是用设施安排表达不接纳；这种日常语言暴力让童年记忆中的不安全不是偶然情绪，而是被安排出来的现实。
+**为什么这样写**：说话者是母亲的房东 Ms. Miller，而不是母亲本人；她不是直接说“我不爱你”，而是用设施安排表达不接纳，母亲随后只回答 “All right”。这种日常语言暴力让童年记忆中的不安全不是偶然情绪，而是被安排出来的现实。
 
 > **原句 6:** I had never slept anywhere but in my grandmother’s bed.
 
@@ -176,7 +176,7 @@ source_text: ch22_what_we_need_now.txt
 | tucking in | 盖好被子哄睡 | The only instruction I got from the director, Jonathan Demme, was, “Okay, tuck her in.” |
 | making the bed | 整理床铺 | “You’re making the bed,” he said. “Not tucking in your daughter for bed.” |
 | tenderness | 温柔；柔情 | The tenderness with which she did it seared my soul. |
-| childhood | 童年；儿童时期 | I have no memory of my mother during that period. |
+| childhood | 童年；儿童时期 | As I mentioned earlier, I spent my early childhood—my first six years—living with my grandmother. |
 | loneliness | 孤独 | I was consumed with a terrified sense of loneliness that brought me to tears. |
 | validation | 认可；肯定 | The validation I longed for as a child is what I see other people longing for just as intensely. |
 

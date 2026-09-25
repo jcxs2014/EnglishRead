@@ -10,7 +10,7 @@ source_text: ch06_seeking_balance.txt
 - **出处**：*What Happened to You?*，Chapter 2
 - **作者**：Oprah Winfrey
 - **章节定位**：第二章前半单元，从心跳和身体预警写到工作压力、边界与恢复节奏，提出自我调节的日常实践
-- **字符数**：约 3,397 字符（提取件）
+- **字符数**：约 4,157 字符（提取件）
 - **一句话主旨**：Oprah 把心跳视为身体持续发送信息的内部警报，说明长期压力需要被听见；她通过拒绝、保留个人时间、亲近自然和寻找自然的安抚活动，重新学习与自己的能量和节奏相处。
 
 ## 论证结构
@@ -39,7 +39,7 @@ source_text: ch06_seeking_balance.txt
 
 **中文理解**：你有多少时间会想到自己的心脏？
 
-**句子结构**：How much 引导特殊疑问句，do you think 是插入的思维动作，about your heart 是介词短语说明思考对象。
+**句子结构**：How much 是 think about 的疑问成分，do 是助动词；about your heart 是介词短语，说明思考对象。
 
 **关键词**：How much, do you think, about your heart
 
@@ -63,7 +63,7 @@ source_text: ch06_seeking_balance.txt
 
 **中文理解**：但除了把必需的营养输送到每个细胞、组织和器官这项复杂的物理任务之外，你的心跳还调节着你的情绪能量。
 
-**句子结构**：But beyond... 介词短语作比较范围；delivering... 是动名词短语作 task 的后置修饰；主句为 your heart’s pulse also regulates，of your emotional energy 是后置定语。
+**句子结构**：But beyond... 介词短语作比较范围；delivering... 是动名词短语作 task 的后置修饰；主句为 your heart’s pulse also regulates，your emotional energy 是 regulates 的直接宾语。
 
 **关键词**：complex physical task, essential nutrients, heart’s pulse, regulates your emotional energy
 
@@ -75,7 +75,7 @@ source_text: ch06_seeking_balance.txt
 
 **中文理解**：一天夜里，我醒来时心脏跳得如此剧烈，以至于我第一次以为自己快要死了。
 
-**句子结构**：One night 是时间状语；主句为 I awoke，with my heart beating so intensely 是伴随状语；I thought... 是第二个分句，for the first time 和 that I was about to die 分别作时间与宾语补足语。
+**句子结构**：One night 是时间状语；主句为 I awoke，with my heart beating so intensely 是伴随状语；I thought... 是第二个分句，for the first time 是时间状语，that I was about to die 是 thought 的宾语从句。
 
 **关键词**：One night, awoke, heart beating so intensely, thought I was about to die
 
@@ -85,9 +85,9 @@ source_text: ch06_seeking_balance.txt
 
 > **原句 5:** They were proof of what I already believed: that my body is always speaking to me.
 
-**中文理解**：这些发作证明了我一直相信的事情：我的身体始终在对我说话。
+**中文理解**：这些来自心脏的信息证明了我一直相信的事情：我的身体始终在对我说话。
 
-**句子结构**：主句为 They were proof of what I already believed；冒号后 that... 是同位语从句，解释 belief 的内容，is always speaking 是系表结构。
+**句子结构**：主句为 They were proof of what I already believed；冒号后 that... 是说明 belief 内容的表语从句，is always speaking 是现在进行时。
 
 **关键词**：They were proof, what I already believed, my body, always speaking to me
 
@@ -97,7 +97,7 @@ source_text: ch06_seeking_balance.txt
 
 > **原句 6:** Ever since those episodes with my heart, I’ve felt deep gratitude for this ever-vigilant internal alarm.
 
-**中文理解**：自从经历那些心脏发作以来，我一直对这个永不疲倦的内部警报心怀深深的感激。
+**中文理解**：自从经历那些心悸发作以来，我一直对这个永不疲倦的内部警报心怀深深的感激。
 
 **句子结构**：Ever since those episodes with my heart 是时间状语；主句为 I’ve felt deep gratitude；for this ever-vigilant internal alarm 是介词短语，说明感激的对象。
 
@@ -139,15 +139,15 @@ source_text: ch06_seeking_balance.txt
 
 **关键词**：stress indicators, body was sending, ignored them, soothe myself, most easily accessible, food
 
-**表达方式**：用 indicators 把身体感受写成信号系统，再用 drug 与 food 的冒号揭示比喻；choosing instead of 突出替代性自我安抚，呈现忽略与满足之间的冲突。
+**表达方式**：用 indicators 把身体感受写成信号系统，再用 drug 与 food 的冒号揭示比喻；choosing instead to 突出替代性自我安抚，呈现忽略与满足之间的冲突。
 
 **为什么这样写**：作者没有用道德失败来定义食物，而是指出当时最容易获得、立刻有效的应对方式；stress indicators 则把饮食行为放回身体调节的因果背景。
 
 > **原句 10:** Music, laughter, dancing (even a party for one), knitting, cooking—finding what naturally soothes you not only regulates your heart and mind, it helps you stay open to the goodness in you and in the world.
 
-**中文理解**：音乐、笑声、舞蹈（哪怕是独自开的派对）、编织、烹饪——找到自然能安抚你的东西，不仅能调节你的心智，还能帮助你对自己和世界中的善保持开放。
+**中文理解**：音乐、笑声、舞蹈（哪怕是独自开的派对）、编织、烹饪——找到自然能安抚你的东西，不仅能调节你的身心，还能帮助你对自己和世界中的善保持开放。
 
-**句子结构**：前五个名词构成主语清单，破折号后 finding... 是解释/结果结构；not only...it helps... 以 not only 引导递进关系，主句为 it helps you stay open...
+**句子结构**：前五个名词构成主语清单，破折号后 finding what naturally soothes you 是话题性举例；真正的主句中心是 not only it regulates your heart and mind, it helps you stay open...，not only...it... 构成递进结构。
 
 **关键词**：Music, laughter, dancing, knitting, cooking, naturally soothes, regulates your heart and mind, goodness
 

@@ -10,7 +10,7 @@ source_text: ch14_from_coping_to_healing.txt
 - **出处**：*What Happened to You?*，Chapter 6
 - **作者**：Bruce D. Perry
 - **章节定位**：第六章前半单元，以 Thomas 和 James 两个拥有相同 DSM 标签、却有完全不同反应模式的男孩，说明创伤与忽视不能只按诊断标签理解
-- **字符数**：约 9,606 字符（提取件）
+- **字符数**：约 9,464 字符（提取件）
 - **一句话主旨**：相同的诊断名称可能掩盖不同的早期经历和压力反应：Thomas 的恐惧来自显性虐待与仍有爱的照料者，James 的空洞与威胁感来自照料中断和忽视；理解“什么没有发生”同样重要，因为未被提供的关系经验本身就是创伤。
 
 ## 论证结构
@@ -173,7 +173,7 @@ source_text: ch14_from_coping_to_healing.txt
 | self-soothing | 自我安抚 | But if crying doesn’t bring the responsive caregiver, or if the crying brings a frustrated or enraged caregiver, the infant is forced to use other self-soothing options. |
 | inescapable | 无法逃避的 | When I met James, I knew that dissociation was the primary adaptation when animals were stressed in specific ways—when the threat was inescapable or immobilizing and when fighting was useless. |
 | immobilizing | 使无法动弹的 | When I met James, I knew that dissociation was the primary adaptation when animals were stressed in specific ways—when the threat was inescapable or immobilizing and when fighting was useless. |
-| capitulation response | 投降反应 | This kind of stress leads to a “capitulation” or “defeat” response in animals. |
+| capitulation | 投降反应 | This kind of stress leads to a “capitulation” or “defeat” response in animals. |
 | neurophysiology | 神经生理学 | Oddly, to this day, parallel research into the neurophysiology of dissociation in humans lags well behind. |
 | buffering effect | 缓冲作用 | The buffering effect of these caregivers and his good early start made all the difference. |
 | trauma-sensitized | 创伤敏化的 | Thomas ended up with healthy relational neurobiology despite his trauma-sensitized stress response. |
@@ -202,7 +202,7 @@ source_text: ch14_from_coping_to_healing.txt
 | child | 孩子 | Each had been sent there because they’d been “out of control” in a series of foster homes and other residential schools. |
 | brain | 大脑 | James, five months old, with a rapidly developing brain containing a set of confused, disorganized “memories” about human connection, has learned that people disappear. |
 | family | 家庭 | The trauma cycle—shame, pain, booze, rage, humiliation, and loss—accelerated the family’s fragmentation. |
-| behavior | 行为 | But in his grandmother’s care, James started to be inattentive and disobedient. |
+| behavior | 行为 | In his grandmother’s care, James started to be inattentive and disobedient. |
 | love | 爱 | What attention, nurturing touch, reassurance—basically, what love—didn’t you get? |
 | help | 帮助 | It was almost as if, even with therapeutic help, he didn’t have the tools to succeed. |
 | school | 学校 | They were both in the sixth grade, but both struggled in school, reading at a fourth-grade level. |

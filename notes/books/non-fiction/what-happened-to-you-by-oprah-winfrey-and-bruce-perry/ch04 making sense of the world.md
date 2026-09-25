@@ -10,7 +10,7 @@ source_text: ch04_making_sense_of_the_world.txt
 - **出处**：*What Happened to You?*，Chapter 1
 - **作者**：Oprah Winfrey
 - **章节定位**：第一章前半单元，从人类共同的出生处境写到个人童年经验，提出“早期经验如何进入人格”的总问题
-- **字符数**：约 3,376 字符（提取件）
+- **字符数**：约 4,129 字符（提取件）
 - **一句话主旨**：所有孩子都带着完整感和对世界的最初信赖出生，但早期照料、忽视和伤害会把“我是否值得被爱”的问题写进身体与关系；因此，理解成年的自我破坏，必须回到尚未能够用语言命名经历的早年经验。
 
 ## 论证结构
@@ -49,7 +49,7 @@ source_text: ch04_making_sense_of_the_world.txt
 
 > **原句 2:** Some are welcomed with gratitude and joy, cradled in the arms of their ecstatic parents and family.
 
-**中文理解**：有些婴儿带着感激与喜悦被迎接，躺在欣喜若狂的父母和家人怀中。
+**中文理解**：有些婴儿在父母和家人的感激与喜悦中被迎接，躺在欣喜若狂的父母和家人怀中。
 
 **句子结构**：主语为 Some；被动结构 are welcomed with... 说明迎接方式，cradled in the arms... 是过去分词短语作伴随状语，描述身体被抱在怀中的画面。
 
@@ -123,7 +123,7 @@ source_text: ch04_making_sense_of_the_world.txt
 
 **中文理解**：随着这些孩子长大，他们缺乏判断自己应得什么的能力。
 
-**句子结构**：As these children grow 是时间状语从句；主句为 they lack the ability，of what they deserve 是后置定语修饰 standard。
+**句子结构**：As these children grow 是时间状语从句；主句为 they lack the ability，to set a standard 是动词不定式，for what they deserve 是介词 for 的宾语从句。
 
 **关键词**：as these children grow, lack the ability, set a standard, what they deserve
 
@@ -135,7 +135,7 @@ source_text: ch04_making_sense_of_the_world.txt
 
 **中文理解**：这正是工作开始的地方——去挖掘那些早在我们拥有能够说清发生了什么的语言之前，就已经种下的根。
 
-**句子结构**：主句为 This is where the work begins；破折号后 the work to excavate... 是 appositive，重新界定 work；what was happening to us 是关系从句，修饰 those roots/long before 之后的整体时间背景。
+**句子结构**：主句为 This is where the work begins；破折号后 the work to excavate... 是 appositive，重新界定 work；that were put down long before... 修饰 roots，what was happening to us 是 articulate 的宾语名词从句。
 
 **关键词**：where the work begins, excavate the roots, before we had the words, articulate what was happening
 
@@ -177,7 +177,7 @@ source_text: ch04_making_sense_of_the_world.txt
 | social, economic, and cultural circumstances | 社会、经济和文化处境 | Each arrives into their own unique set of social, economic, and cultural circumstances. |
 | welcomed | 被欢迎；被接纳 | Some are welcomed with gratitude and joy, cradled in the arms of their ecstatic parents and family. |
 | gratitude | 感激 | Some are welcomed with gratitude and joy, cradled in the arms of their ecstatic parents and family. |
-| rejection | 拒绝；排斥 | Others are more like me, experiencing rejection from a young mother who dreamed of a different life, a couple crushed by the pressures of poverty, an enraged father perpetrating a cycle of abuse. |
+| rejection | 拒绝；排斥 | Others are more like me, experiencing rejection from a young mother who dreamed of a different life, a couple crushed by the pressures of poverty, an enraged father perpetuating a cycle of abuse. |
 | nurturing | 养育；提供关爱和照料 | There was no time for nurturing. |
 | shuttled | 被来回接送；不断转移 | After my grandmother passed away, I was shuttled between my mother, who had moved to Milwaukee, and my father, in Nashville. |
 | painful experiences | 痛苦经历 | What I’ve learned from talking to so many victims of traumatic events, abuse, or neglect is that after absorbing these painful experiences, the child begins to ache. |
