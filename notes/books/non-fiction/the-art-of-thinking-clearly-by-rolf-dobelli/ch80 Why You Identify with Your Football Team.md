@@ -39,63 +39,59 @@ source_text: ch80_79_why_you_identify_with_your_football_t.txt
 
 **句子结构**：The group members 为主语；found each other more agreeable than members of other groups 为谓语和比较结构。
 
-**关键词**：group members, more agreeable, other groups
+**关键词：** **：group members, more agreeable, other groups
 
 **表达方式**：用比较结果呈现群体偏好。
 
 **为什么这样写**：随机分组削弱了共同经历的前提，显示群体偏见可以非常快出现。
 
 ### ② 外群体同质性
-
 > **原句 2:** "You perceive people outside your own group to be more similar than they actually are."
 
 **中文理解**：你会认为群体外的人比实际更相似。
 
 **句子结构**：You 为主语；perceive people...to be... 为宾语补足结构；than they actually are 为比较结构。
 
-**关键词**：outside your own group, more similar, out-group homogeneity bias
+**关键词：** **：outside your own group, more similar
 
 **表达方式**：用认知错误命名群体外部的同质化。
 
 **为什么这样写**：当外群体被简化，他们内部的差异就会被忽略。
 
 ### ③ 组织盲视
-
 > **原句 3:** "It leads to the infamous organizational blindness."
 
 **中文理解**：这会导致臭名昭著的组织盲视。
 
 **句子结构**：It 为主语；leads to 为谓语；the infamous organizational blindness 为宾语。
 
-**关键词**：leads to, infamous, organizational blindness
+**关键词：** **：leads to, infamous, organizational blindness
 
 **表达方式**：用“臭名昭著”把认知现象连接到组织代价。
 
 **为什么这样写**：群体支持自己的观点，会让外部证据难以进入决策。
 
 ### ④ 伪亲缘
-
 > **原句 4:** "Such feelings can lead to the most idiotic cognitive error of all."
 
 **中文理解**：这种情感可能导致最愚蠢的认知错误。
 
 **句子结构**：Such feelings 为主语；can lead to 为谓语；the most idiotic cognitive error of all 为宾语。
 
-**关键词**：Such feelings, lead to, idiotic cognitive error
+**关键词：** **：Such feelings, lead to, idiotic cognitive error
 
 **表达方式**：用最高级表达强化批评。
 
 **为什么这样写**：它把对群体的情感直接连接到为战争牺牲生命的后果。
 
 ### ⑤ 结论
-
 > **原句 5:** "Identifying with a group distorts your view of the facts."
 
 **中文理解**：认同群体会扭曲你看事实的方式。
 
 **句子结构**：Identifying with a group 为主语动名词；distorts 为谓语；your view of the facts 为宾语。
 
-**关键词**：Identifying, distorts, view of the facts
+**关键词：** **：Identifying, distorts, view of the facts
 
 **表达方式**：用一般现在时把历史解释转为日常原则。
 

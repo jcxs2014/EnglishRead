@@ -39,63 +39,59 @@ source_text: ch24_23_don_t_cling_to_things_endowment_effec.txt
 
 **句子结构**：主句 Something... had passed... and suddenly taken...；两个过去完成/过去分词结构按时间推进。
 
-**关键词**：possession, suddenly, taken on, value
+**关键词：** **：possession, suddenly, taken on, value
 
 **表达方式**：用同一物品的两个价格构成心理价值跳跃。
 
 **为什么这样写**：前后价格差把“拥有”从法律状态变成心理变化，直接呈现禀赋效应的瞬间发生。
 
 ### ② 篮球票
-
 > **原句 2:** "The simple fact of ownership makes us add zeros to the selling price."
 
 **中文理解**：仅仅拥有这一事实，就让我们给卖价加上几个零。
 
 **句子结构**：主语 The simple fact of ownership + 谓语 makes；us 为不定式逻辑主语，to add zeros 为不定式补足语。
 
-**关键词**：fact of ownership, makes us, add zeros, selling price
+**关键词：** **：fact of ownership, makes us, add zeros, selling price
 
 **表达方式**：用 add zeros 这个具体动作把抽象估值偏差变成可见变化。
 
 **为什么这样写**：它把实验结果从“价格更高”改写成“价格凭空膨胀”，强化拥有感对数字的直接影响。
 
 ### ③ 卖方与买方
-
 > **原句 3:** "Because the average owner would not sell below $5.25, and the average buyer would not pay more than $2.25 for a mug."
 
 **中文理解**：因为平均所有者不会低于 5.25 美元出售，而平均买家不会出高于 2.25 美元购买。
 
 **句子结构**：Because 引导原因；两个分句由 and 并列，分别描述 owner 与 buyer 的边界。
 
-**关键词**：average owner, would not sell, average buyer, would not pay
+**关键词：** **：average owner, would not sell, average buyer, would not pay
 
 **表达方式**：用一组对称数字把买卖双方的价格意愿差距固定下来。
 
 **为什么这样写**：交易无法发生不只是因为偏误，而是因为卖方和买方分别在两个方向上提高了成交门槛。
 
 ### ④ 竞拍幻觉
-
 > **原句 4:** "A person who bids until the end of an auction gets the feeling that the object is practically theirs..."
 
 **中文理解**：竞价直到拍卖最后一刻的人会感觉物品几乎已经属于自己。
 
 **句子结构**：A person who... 为定语从句；gets the feeling that... 为宾语从句。
 
-**关键词**：bids, auction, gets the feeling, practically theirs
+**关键词：** **：bids, auction, gets the feeling, practically theirs
 
 **表达方式**：用 practically 将“接近拥有”写得像“已经拥有”。
 
 **为什么这样写**：竞拍延长了未决状态，让心理所有权提前形成，从而推动出价者超越原定预算。
 
 ### ⑤ 暂时拥有
-
 > **原句 5:** "Consider your property something that the “universe” (whatever you believe this to be) has bestowed to you temporarily."
 
 **中文理解**：把你的财产看作“宇宙”（无论你相信它是什么）暂时赐予你的东西。
 
 **句子结构**：祈使句 Consider...；your property 为宾语；that... 为宾语从句，whatever... 为插入语。
 
-**关键词**：property, bestowed, temporarily
+**关键词：** **：property, bestowed, temporarily
 
 **表达方式**：把所有权改写为暂时托管，借括号容纳不同信仰立场。
 

@@ -39,63 +39,59 @@ source_text: ch25_24_the_inevitability_of_unlikely_events_.txt
 
 **句子结构**：两个名词短语构成省略的 either...or... 选择疑问句。
 
-**关键词**：Hand of God, coincidence
+**关键词：** **：Hand of God, coincidence
 
 **表达方式**：用两个极端解释的短问句，保留故事的神秘张力。
 
 **为什么这样写**：它把读者从宗教解释和随机解释之间逼出选择，为后文的概率计算制造认知冲突。
 
 ### ② 事件网格
-
 > **原句 2:** "Draw four boxes to represent each of the potential events."
 
 **中文理解**：画四个方框，分别代表所有可能发生的事件。
 
 **句子结构**：祈使句 Draw four boxes；to represent... 为目的状语，each of the potential events 为宾语。
 
-**关键词**：Draw four boxes, represent, potential events
+**关键词：** **：Draw four boxes, represent, potential events
 
 **表达方式**：把“不可能的巧合”转成可枚举的表格任务。
 
 **为什么这样写**：一旦列出所有组合，读者就不能只盯着实际发生的那一格，基础频率因此进入视野。
 
 ### ③ 失去戏剧性
-
 > **原句 3:** "Suddenly, the story has lost its unimaginable quality."
 
 **中文理解**：突然之间，这个故事失去了不可思议的性质。
 
 **句子结构**：Suddenly 为时间状语；主句 the story has lost...，its unimaginable quality 为宾语。
 
-**关键词**：Suddenly, story, lost, unimaginable quality
+**关键词：** **：Suddenly, story, lost, unimaginable quality
 
 **表达方式**：用“失去戏剧性”描述频率信息对叙事冲击的削弱。
 
 **为什么这样写**：当大量未爆炸的日常事件被纳入分母，原先的“奇迹”就不再超出概率范围。
 
 ### ④ 无限次机会
-
 > **原句 4:** "There is an almost infinite number of occasions when you don’t think of him and he doesn’t call."
 
 **中文理解**：你不想他、而他也没有打电话的场合，几乎无限多。
 
 **句子结构**：There is an almost infinite number of occasions 为 there be 结构；when... 为定语从句。
 
-**关键词**：almost infinite, occasions, don’t think, doesn’t call
+**关键词：** **：almost infinite, occasions, don’t think, doesn’t call
 
 **表达方式**：通过补足“没有发生”的巨大分母，削弱单次巧合的戏剧性。
 
 **为什么这样写**：人只记住想他也打电话的那一次，却忽略更多没有打电话的普通场合。
 
 ### ⑤ 罕见但可能
-
 > **原句 5:** "Improbable coincidences are precisely that: rare but very possible events."
 
 **中文理解**：不寻常的巧合正是如此：罕见但完全可能发生的事件。
 
 **句子结构**：Improbable coincidences 为主语；are 为系动词；that 为表语同位语；rare but very possible events 为同位解释。
 
-**关键词**：Improbable coincidences, precisely, rare, possible events
+**关键词：** **：Improbable coincidences, precisely, rare, possible events
 
 **表达方式**：用 precisely that 重新定义惊讶，保留“罕见”但不升级为“超自然”。
 

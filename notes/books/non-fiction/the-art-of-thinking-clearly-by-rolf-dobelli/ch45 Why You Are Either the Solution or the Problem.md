@@ -39,63 +39,59 @@ source_text: ch45_44_why_you_are_either_the_solution_or_th.txt
 
 **句子结构**：The first 为主语；slips and falls 为并列谓语；into a crevasse 为方向状语。
 
-**关键词**：slips, falls, crevasse
+**关键词：** **：slips, falls, crevasse
 
 **表达方式**：用短促动作建立道德情境。
 
 **为什么这样写**：先让读者看到不行动的可见后果，再与主动推人并列。
 
 ### ② 后果相同
-
 > **原句 2:** "Considering the options rationally, it’s obvious that both are equally reprehensible."
 
 **中文理解**：理性考虑这些选项，显然两者同样应受谴责。
 
 **句子结构**：Considering... 为方式状语；it’s 为形式主语；both are equally reprehensible 为真正主谓结构。
 
-**关键词**：rationally, equally, reprehensible
+**关键词：** **：rationally, equally, reprehensible
 
 **表达方式**：用副词和比较结构制造暂时清晰。
 
 **为什么这样写**：它把情绪判断暂时搁置，建立后续“理性与直觉不一致”的张力。
 
 ### ③ 药品审批
-
 > **原句 3:** "They kill 20 percent of patients on the spot, but save the lives of the other 80 percent within a short period of time."
 
 **中文理解**：它们会立即杀死 20% 的患者，却能在短期内挽救其余 80% 患者的生命。
 
 **句子结构**：两个分句以 but 连接；前半为主语 They 加两个并列谓语，后半为 save 的动宾结构。
 
-**关键词**：kill, save, patients, 80 percent
+**关键词：** **：kill, save, patients, 80 percent
 
 **表达方式**：用对称的 20/80 百分比对照选择后果。
 
 **为什么这样写**：主动批准的风险被放大为“立即杀人”，而不批准救命治疗则更容易被忽略。
 
 ### ④ 法律差异
-
 > **原句 4:** "Active euthanasia, even if it is the explicit wish of the dying, is punishable by law."
 
 **中文理解**：即使临终者明确提出安乐死，主动安乐死仍受法律惩罚。
 
 **句子结构**：Active euthanasia 为主语；even if 引导让步状语从句；is punishable by law 为被动结构。
 
-**关键词**：active euthanasia, explicit wish, punishable
+**关键词：** **：active euthanasia, explicit wish, punishable
 
 **表达方式**：用 even if 凸显行动意图明确却仍被法律区别对待。
 
 **为什么这样写**：它让读者看到遗漏偏误并不只是个人心理，也被写进法律边界。
 
 ### ⑤ 不作为的比较
-
 > **原句 5:** "Building no emission filter into a coal plant feels superior to removing one for cost reasons."
 
 **中文理解**：不为煤电厂安装排放过滤器，感觉上比为了省钱而拆除过滤器更合理。
 
 **句子结构**：动名词短语 Building no emission filter... 为主语；feels superior to... 为系表比较结构。
 
-**关键词**：emission filter, coal plant, feels superior, cost
+**关键词：** **：emission filter, coal plant, feels superior, cost
 
 **表达方式**：用两个近似行动构造道德对照。
 

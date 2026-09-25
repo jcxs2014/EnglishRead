@@ -39,63 +39,59 @@ source_text: ch27_26_why_you_ll_soon_be_playing_mega_trill.txt
 
 **句子结构**：两个分句共享主语 The probability of winning；in the first game 与 in the second game 分别限定条件。
 
-**关键词**：probability of winning, one in 100 million, one in 10,000
+**关键词：** **：probability of winning, one in 100 million, one in 10, 000
 
 **表达方式**：用两个精确分母把巨大头奖与现实概率并列。
 
 **为什么这样写**：读者能看到第一局的期望值其实更高，巨大奖金的吸引力却可能压过数字。
 
 ### ② 忽视概率
-
 > **原句 2:** "We lack an intuitive grasp of probability."
 
 **中文理解**：我们对概率缺乏直觉性的把握。
 
 **句子结构**：主句 We lack an intuitive grasp；of probability 为介词短语。
 
-**关键词**：lack, intuitive grasp, probability
+**关键词：** **：lack, intuitive grasp, probability
 
 **表达方式**：用“缺乏直觉理解”直接命名能力缺口。
 
 **为什么这样写**：作者将错误从个人知识问题提升为普遍认知限制，解释了为什么高风险选择反复发生。
 
 ### ③ 零风险偏好
-
 > **原句 3:** "If you think like most people, you will opt for method B—which is silly because with measure A, 3 percent fewer people die, and with B, just 1 percent fewer."
 
 **中文理解**：大多数人会选择方法 B——这很荒谬，因为方法 A 能少死 3%，方法 B 只少死 1%。
 
 **句子结构**：If 引导条件；主句 you will opt for method B；which 引导非限制性定语从句，两个 with 结构作比较。
 
-**关键词**：opt for, method B, 3 percent, 1 percent
+**关键词：** **：opt for, method B, 3 percent, 1 percent
 
 **表达方式**：用“多数人”的选择与数字计算形成直接反讽。
 
 **为什么这样写**：它把零风险偏好的代价量化：消除一个风险点，可能牺牲更多的总体收益。
 
 ### ④ 剂量原则
-
 > **原句 4:** "Poisoning is always a question of dosage."
 
 **中文理解**：中毒始终是剂量问题。
 
 **句子结构**：系表结构；Poisoning 为主语，a question of dosage 为表语。
 
-**关键词**：Poisoning, question, dosage
+**关键词：** **：Poisoning, question, dosage
 
 **表达方式**：用 Paracelsus 的格言式判断替代长篇说明。
 
 **为什么这样写**：它支持作者的核心质疑：把“含有致癌物”简单等同于绝对危险，会忽略剂量与替代方案。
 
 ### ⑤ 风险恐惧
-
 > **原句 5:** "The more serious the threat and the more emotional the topic, the less reassuring a reduction in risk seems to us."
 
 **中文理解**：威胁越严重、话题越情绪化，风险降低在我们看来就越不能让人安心。
 
 **句子结构**：the more..., the less... 比较结构；a reduction in risk 作主语，seems to us 为系表结构。
 
-**关键词**：serious, threat, emotional, reduction in risk, reassuring
+**关键词：** **：serious, threat, emotional, reduction in risk, reassuring
 
 **表达方式**：以严重性、情绪性和安心程度构成三维比较。
 

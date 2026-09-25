@@ -39,63 +39,55 @@ source_text: ch48_47_do_not_marvel_at_your_existence_self_.txt
 
 **句子结构**：As 引导时间/原因状语从句；主句 I asked myself...；whether 引导宾语从句。
 
-**关键词**：crawling forward, snail’s pace, braking and accelerating, especially unlucky
+**关键词：** crawling forward, snail’s pace, braking and accelerating, especially unlucky
 
 **表达方式**：用身体速度比喻强化不耐烦感。
 
 **为什么这样写**：堵车让时间膨胀，读者能感到“似乎总轮到红灯”的体验从何而来。
 
-### ② 概率与时间比例
-
-> **原句 2:** "The probability that I will get stuck in a jam on a particular day is not greater than the probability that one will occur."
+### ② 概率与时间比例> **原句 2:** "The probability that I will get stuck in a jam on a particular day is not greater than the probability that one will occur."
 
 **中文理解**：某一天我陷入堵车的概率不会高于发生堵车的概率。
 
 **句子结构**：主语从句 The probability... 后接 not greater than 比较结构；两个 probability 形成并列。
 
-**关键词**：probability, get stuck, particular day, not greater than
+**关键词：** probability, get stuck, particular day, not greater than
 
 **表达方式**：用重复 probability 区分事件概率与某时点暴露。
 
 **为什么这样写**：数学上不把某一天放大，但停滞状态持续时间更长，感知就会产生偏差。
 
-### ③ 红灯时间
-
-> **原句 3:** "On average, one out of the ten will always be red, and the others green."
+### ③ 红灯时间> **原句 3:** "On average, one out of the ten will always be red, and the others green."
 
 **中文理解**：平均而言，十个红灯中总有一个是红灯，其他都是绿灯。
 
 **句子结构**：one out of the ten 作主语；will always be red 为谓语；and the others green 为省略结构。
 
-**关键词**：On average, one out of the ten, red, green
+**关键词：** On average, one out of the ten, red, green
 
 **表达方式**：用十次循环的小模型把概率视觉化。
 
 **为什么这样写**：读者可以自己检查平均值与等待感受之间的差异。
 
-### ④ 样本选择
-
-> **原句 4:** "The grumblers form part of the sample."
+### ④ 样本选择> **原句 4:** "The grumblers form part of the sample."
 
 **中文理解**：抱怨者本身就构成了样本的一部分。
 
 **句子结构**：The grumblers 为主语；form part of the sample 为系表结构。
 
-**关键词**：grumblers, form part, sample
+**关键词：** grumblers, form part, sample
 
 **表达方式**：用简短事实句揭示样本构成。
 
 **为什么这样写**：如果只观察抱怨者，就会把少数体验误认为整体规律。
 
-### ⑤ 通讯录调查
-
-> **原句 5:** "Unfortunately, this reaches only one group: current subscribers who are clearly satisfied, have time to respond, and have not canceled their subscriptions."
+### ⑤ 通讯录调查> **原句 5:** "Unfortunately, this reaches only one group: current subscribers who are clearly satisfied, have time to respond, and have not canceled their subscriptions."
 
 **中文理解**：遗憾的是，调查只接触到一个群体：目前满意、有时间回复且没有取消订阅的订户。
 
 **句子结构**：this 为主语；reaches only one group 为谓语；冒号后的现在分词短语解释群体特征。
 
-**关键词**：reaches only one group, current subscribers, canceled, subscriptions
+**关键词：** reaches only one group, current subscribers, canceled, subscriptions
 
 **表达方式**：用三项筛选条件把样本偏差具体化。
 

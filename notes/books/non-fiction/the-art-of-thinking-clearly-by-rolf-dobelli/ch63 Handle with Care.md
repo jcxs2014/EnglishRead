@@ -39,63 +39,59 @@ source_text: ch63_62_handle_with_care_expectations.txt
 
 **句子结构**：Revenue 和 Net profit 为两个并列名词；up 97 percent、up 82 percent 分别为各自的后置表达。
 
-**关键词**：Revenue, up 97 percent, Net profit, up 82 percent
+**关键词：** **：Revenue, up 97 percent, Net profit, up 82 percent
 
 **表达方式**：用两条极端漂亮的数字制造表面成功。
 
 **为什么这样写**：市场随后暴跌，说明“增长”本身不够，真正关键是是否超过预期。
 
 ### ② 预期落空
-
 > **原句 2:** "What had gone wrong?"
 
 **中文理解**：到底出了什么问题？
 
 **句子结构**：What 引导特殊疑问句作主语；had gone wrong 为过去完成时谓语。
 
-**关键词**：What had gone wrong, analysts, anticipated, $20 billion
+**关键词：** **：What had gone wrong
 
 **表达方式**：用短问句制造悬念，迫使读者寻找预期而非业绩。
 
 **为什么这样写**：它把利润下降的真正解释从“业绩差”转向“业绩不够好”。
 
 ### ③ 惩罚微小差距
-
 > **原句 3:** "Any disparity gives rise to draconian punishment, regardless of how paltry the gap is."
 
 **中文理解**：任何差距都会招致严厉惩罚，无论差距多么微不足道。
 
 **句子结构**：Any disparity 为主语；gives rise to 为谓语；draconian punishment 为宾语；regardless of... 为让步状语。
 
-**关键词**：disparity, draconian punishment, paltry, gap
+**关键词：** **：disparity, draconian punishment, paltry, gap
 
 **表达方式**：用 draconian 和 paltry 放大预期与现实之间的不对称。
 
 **为什么这样写**：当市场价格锁定在预期上，微小偏差也可能造成巨大损失。
 
 ### ④ Rosenthal 效应
-
 > **原句 4:** "After a year, Rosenthal discovered that these students had developed much higher IQs than other children in a control group."
 
 **中文理解**：一年后，Rosenthal 发现这些学生的 IQ 远高于控制组儿童。
 
 **句子结构**：After a year 为时间状语；Rosenthal 为主语；discovered 后接 that 宾语从句。
 
-**关键词**：After a year, Rosenthal, higher IQs, control group
+**关键词：** **：After a year, Rosenthal, higher IQs, control group
 
 **表达方式**：用前后对照呈现预期造成的长期结果。
 
 **为什么这样写**：教师相信“潜在学生”更优秀，便可能投入更多注意和期待，从而影响学生发展。
 
 ### ⑤ 管理期望
-
 > **原句 5:** "The best way to shield yourself from nasty surprises is to anticipate them."
 
 **中文理解**：防止讨厌意外发生的最好方法，就是预先预见它们。
 
 **句子结构**：The best way to shield yourself from... 为主语；is to anticipate them 为系表结构。
 
-**关键词**：best way, shield, nasty surprises, anticipate
+**关键词：** **：best way, shield, nasty surprises, anticipate
 
 **表达方式**：用悖论式格言把防御转为主动预测。
 

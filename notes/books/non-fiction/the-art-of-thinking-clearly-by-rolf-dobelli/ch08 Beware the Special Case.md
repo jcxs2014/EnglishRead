@@ -39,63 +39,59 @@ source_text: ch08_7_beware_the_special_case_confirmation_b.txt
 
 **句子结构**：两个 If 从句分别引出相反证据，结构对称；considers... 与 writes it off as... 是并列行动。
 
-**关键词**：lost weight, pats himself, normal fluctuation, forgets
+**关键词：** **：lost weight, pats himself, normal fluctuation, forgets
 
 **表达方式**：用对称句把同一套自我辩护机制写成一组镜像。
 
 **为什么这样写**：让读者看到确认偏误不是遗漏一个数字，而是主动解释相反数字。
 
 ### ② 定义
-
 > **原句 2:** "The confirmation bias is the mother of all misconceptions. It is the tendency to interpret new information so that it becomes compatible with our existing theories, beliefs, and convictions."
 
 **中文理解**：确认偏误是所有误解的母亲；它是把新信息解释成与既有理论、信念和信念体系相容的倾向。
 
 **句子结构**：主系表结构；to interpret... 为不定式，表语 tendency；so that 引导目的从句，with... 为兼容对象。
 
-**关键词**：confirmation bias, interpret new information, compatible, convictions
+**关键词：** **：confirmation bias, interpret new information, compatible, convictions
 
 **表达方式**：用 compatible 将“解释”具体化为信息与信念之间的适配关系。
 
 **为什么这样写**：定义把日常的“固执”提升为可观察的信息处理模式。
 
 ### ③ 反证被过滤
-
 > **原句 3:** "In other words, we filter out any new information that contradicts our existing views (“disconfirming evidence”)."
 
 **中文理解**：换句话说，我们过滤掉任何与既有观点相矛盾的新信息，也就是反证。
 
 **句子结构**：In other words 为释义信号；主句 we filter out...；that 引导定语从句修饰 information。
 
-**关键词**：filter out, contradicts, existing views, disconfirming evidence
+**关键词：** **：filter out, contradicts, existing views, disconfirming evidence
 
 **表达方式**：用 filter out 的动作性表现认知不是被动偏误，而是选择性处理。
 
 **为什么这样写**：作者把“看不见反证”改为“过滤反证”，使责任和机制更清楚。
 
 ### ④ 特殊情况
-
 > **原句 4:** "If the word “exception” crops up, prick up your ears."
 
 **中文理解**：如果“例外”这个词出现，就竖起耳朵留意。
 
 **句子结构**：If 引导条件从句；主语 the word... 为主语，crop up 为谓语，prick up your ears 为祈使式补充。
 
-**关键词**：exception, crops up, prick up your ears
+**关键词：** **：exception, crops up, prick up your ears
 
 **表达方式**：用命令式短语把语言本身变成偏差警报器。
 
 **为什么这样写**：读者在商业或政治讨论中听到“特殊案例”时，可以立即追问：反证是否被降格了？
 
 ### ⑤ 达尔文的反例记录
-
 > **原句 5:** "Whenever observations contradicted his theory, he took them very seriously and noted them down immediately."
 
 **中文理解**：每当观察结果与理论矛盾时，他都认真对待并立即记录下来。
 
 **句子结构**：Whenever 引导时间从句；主句为 he took them... and noted them down...，两个并列谓语共享主语与宾语。
 
-**关键词**：observations contradicted, took seriously, noted them down
+**关键词：** **：observations contradicted, noted them down
 
 **表达方式**：以“立即记录”把科学态度写成可执行动作，而不是抽象的开放心态。
 

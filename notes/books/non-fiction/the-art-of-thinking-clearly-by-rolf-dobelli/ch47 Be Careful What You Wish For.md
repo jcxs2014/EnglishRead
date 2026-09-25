@@ -39,49 +39,46 @@ source_text: ch47_46_be_careful_what_you_wish_for_hedonic_.txt
 
 **句子结构**：特殊疑问句 how long 作主语；would feel 为情态谓语；like that 为宾语。
 
-**关键词**：How long, feel, lottery jackpot, passed away
+**关键词：** **：How long, feel
 
 **表达方式**：把强烈情绪转化为时间问题。
 
 **为什么这样写**：情绪预测的真正难点不是感觉有多强，而是它会持续多久。
 
 ### ② 情感预测
-
 > **原句 2:** "He calls this “affective forecasting”: our inability to correctly predict our own emotions."
 
 **中文理解**：他称之为“情感预测”：我们无法正确预测自己的情绪。
 
 **句子结构**：He calls this... 为主句；冒号后的 appositive 解释术语；our inability 为名词短语。
 
-**关键词**：affective forecasting, inability, predict, emotions
+**关键词：** **：affective forecasting, inability, predict, emotions
 
 **表达方式**：用学术术语命名日常失败。
 
 **为什么这样写**：命名让读者在面对自己的兴奋或悲观时，能够怀疑预测本身。
 
 ### ③ 别墅的适应
-
 > **原句 3:** "The villa was no longer his dream."
 
 **中文理解**：别墅不再是他的梦想。
 
 **句子结构**：The villa 为主语；was no longer 为系表结构；his dream 为表语。
 
-**关键词**：villa, no longer, dream
+**关键词：** **：villa, no longer, dream
 
 **表达方式**：用短句呈现目标和现实的断裂。
 
 **为什么这样写**：一旦梦想变成日常环境，它就失去了激发幸福的力量。
 
 ### ④ 享乐跑步机
-
 > **原句 4:** "We work hard, advance, and are able to afford more and nicer things, and yet this doesn’t make us any happier."
 
 **中文理解**：我们努力工作、不断进步，并能负担更多更好的东西，却并没有因此更快乐。
 
 **句子结构**：三个并列动词短语作主语；and yet 引导转折分句；doesn’t make us any happier 为否定比较结构。
 
-**关键词**：work hard, advance, afford, doesn’t make us any happier
+**关键词：** **：work hard, advance, afford, doesn’t make us any happier
 
 **表达方式**：用累积努力的 does...and yet... 制造进步与幸福之间的落差。
 

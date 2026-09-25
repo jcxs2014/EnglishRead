@@ -40,63 +40,59 @@ source_text: ch96_95_why_checklists_deceive_you_feature_po.txt
 
 **句子结构**：Absence 为主语；is harder to detect than presence 为比较结构。
 
-**关键词：** Absence, harder to detect, presence, feature-positive effect
+**关键词：** Absence, harder to detect, presence
 
 **表达方式**：用对称名词构成对照句。
 
 **为什么这样写**：它先给出认知规律，后面的审计、产品和学术案例都围绕这条规律展开。
 
 ### ② 存在更重要
-
 > **原句 2:** "What exists means a lot more than what is missing."
 
 **中文理解**：存在的东西比缺失的东西重要得多。
 
 **句子结构**：What exists 与 what is missing 为并列主语；means...more than... 为比较结构。
 
-**关键词：** What exists, what is missing, feature-positive effect
+**关键词：** What exists, what is missing
 
 **表达方式**：重复 what 从句构成概念对照。
 
 **为什么这样写**：它把“未发生”与“已存在”的心理权重差异直接说出来。
 
 ### ③ 吸烟宣传
-
 > **原句 3:** "“Smoking causes lung cancer” is much more powerful than “Not smoking leads to a life free of lung cancer.”"
 
 **中文理解**：“吸烟导致肺癌”比“不吸烟会过上没有肺癌的生活”更有力量。
 
 **句子结构**：两个引号内句子分别作主语；more powerful than 构成比较。
 
-**关键词：** Smoking causes lung cancer, Not smoking, life free, prevention campaigns
+**关键词：** Smoking causes lung cancer, Not smoking, life free
 
 **表达方式**：用正向致病句和负向无病句比较宣传效果。
 
 **为什么这样写**：正向行动能抓住注意，负向预防需要读者想象一个没有出现的健康结果。
 
 ### ④ 清单遗漏
-
 > **原句 4:** "What does not appear, however, is more artistic fraud."
 
 **中文理解**：然而，没有出现在清单上的，是更复杂的艺术性欺诈。
 
 **句子结构**：What does not appear 为主语从句；is more artistic fraud 为系表结构。
 
-**关键词：** does not appear, artistic fraud, checklist, Enron
+**关键词：** does not appear, artistic fraud
 
 **表达方式**：用 however 转折突出“清单之外”的风险。
 
 **为什么这样写**：复杂欺诈不易被预先命名，所以它们恰恰最容易逃过标准清单。
 
 ### ⑤ 无事件
-
 > **原句 5:** "We are blind to what does not exist."
 
 **中文理解**：我们对不存在的事物视而不见。
 
 **句子结构**：We 为主语；are blind to... 为系表结构；what does not exist 为介词宾语从句。
 
-**关键词：** blind to, does not exist, feature-positive effect, absence
+**关键词：** blind to, does not exist
 
 **表达方式**：用“盲目”这一视觉隐喻总结认知局限。
 

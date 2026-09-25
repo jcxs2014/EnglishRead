@@ -39,63 +39,59 @@ source_text: ch17_16_don_t_take_news_anchors_seriously_cha.txt
 
 **句子结构**：主语 My chauffeur + 谓语 will answer；代词 it 指代前文问题。
 
-**关键词**：chauffeur, answer it
+**关键词：** **：chauffeur, answer it
 
 **表达方式**：用荒诞的自信和身份错置完成讽刺。
 
 **为什么这样写**：他没有能力回答，却把城市等级误当成知识等级，集中暴露了表演型权威的空洞。
 
 ### ② 两种知识
-
 > **原句 2:** "The second type is chauffeur knowledge—knowledge from people who have learned to put on a show."
 
 **中文理解**：第二种是司机知识——来自那些学会表演的人的知识。
 
 **句子结构**：The second type is chauffeur knowledge 为系表结构；破折号后 knowledge from people... 为同位解释。
 
-**关键词**：second type, chauffeur knowledge, learned, put on a show
+**关键词：** **：second type, chauffeur knowledge, learned, put on a show
 
 **表达方式**：先命名，再用破折号给出定义，概念因此具有记忆点。
 
 **为什么这样写**：它把“会讲”与“知道”拆成两类，避免把流畅表达误当专业能力。
 
 ### ③ 能力圈
-
 > **原句 3:** "What lies inside this circle you understand intuitively; what lies outside, you may only partially comprehend."
 
 **中文理解**：圆圈之内的东西你能凭直觉理解；圆圈之外的东西，你可能只能部分理解。
 
 **句子结构**：两个 what 引导的名词性从句作主语；understand 与 comprehend 均为谓语，分号连接对照。
 
-**关键词**：circle, intuitively, outside, partially comprehend
+**关键词：** **：circle, intuitively, outside, partially comprehend
 
 **表达方式**：用空间隐喻把知识边界画成可见的圆。
 
 **为什么这样写**：能力圈不要求人成为全才，只要求知道边界在哪里；边界意识比虚张知识更能保护判断。
 
 ### ④ 边界在哪里
-
 > **原句 4:** "It’s not terribly important how big the circle is. But it is terribly important that you know where the perimeter is."
 
 **中文理解**：圆有多大并没有那么重要；知道自己知道什么、不懂什么、边界在哪里，却极其重要。
 
 **句子结构**：两个完整句以 not...important 与 it is...important 对照；where the perimeter is 为名词性从句作 know 的宾语。
 
-**关键词**：circle, big, perimeter, know where
+**关键词：** **：circle, big, perimeter, know where
 
 **表达方式**：通过重复 terribly important，把次要问题与核心问题压成对照。
 
 **为什么这样写**：它把“扩大能力圈”与“识别能力圈”区分开：一个人不必什么都会，但不能不知道自己不会什么。
 
 ### ⑤ 我不知道
-
 > **原句 5:** "True experts recognize the limits of what they know and what they do not know."
 
 **中文理解**：真正的专家认识到自己知道和不知道的范围极限。
 
 **句子结构**：主语 True experts + 谓语 recognize；what they know and what they do not know 为并列宾语从句。
 
-**关键词**：True experts, recognize, limits, know
+**关键词：** **：True experts, recognize, limits, know
 
 **表达方式**：以对称的 know / do not know 收束全章。
 

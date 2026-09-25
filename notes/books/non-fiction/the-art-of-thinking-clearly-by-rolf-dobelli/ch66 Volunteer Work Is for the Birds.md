@@ -39,63 +39,59 @@ source_text: ch66_65_volunteer_work_is_for_the_birds_volun.txt
 
 **句子结构**：两个省略句以 Jack earns... 和 A carpenter... 并列，依靠语境补足动词。
 
-**关键词**：earns, $500 an hour, carpenter, $50
+**关键词：** **：earns, $500 an hour, carpenter, $50
 
 **表达方式**：用两个数字立即建立机会成本对照。
 
 **为什么这样写**：志愿服务若不能利用专业技能，就会让更有价值的工作被低效劳动替代。
 
 ### ② 捐钱更有效
-
 > **原句 2:** "Doing so, his contribution would go much further than if he grabbed a saw and rolled up his sleeves."
 
 **中文理解**：这样做的话，他的贡献会比拿起锯子撸起袖子更有价值。
 
 **句子结构**：Doing so 为现在分词短语；his contribution 为主语；would go much further 为比较结构；than if... 为比较状语从句。
 
-**关键词**：Doing so, go much further, grabbed a saw, rolled up his sleeves
+**关键词：** **：Doing so, go much further, grabbed a saw, rolled up his sleeves
 
 **表达方式**：用“卷起袖子”描写低效率劳动的直观形象。
 
 **为什么这样写**：善意也需要效率；贡献的价值取决于结果，而不是付出的辛苦感。
 
 ### ③ 志愿者的收益
-
 > **原句 3:** "Personal benefits play a big part, such as gaining skills, experience, and contacts."
 
 **中文理解**：个人收益占很大作用，例如获得技能、经验和人脉。
 
 **句子结构**：Personal benefits 为主语；play a big part 为谓语；such as... 为举例短语。
 
-**关键词**：Personal benefits, gaining skills, experience, contacts
+**关键词：** **：Personal benefits, gaining skills, experience, contacts
 
 **表达方式**：用三项并列收益打破纯粹利他的想象。
 
 **为什么这样写**：承认志愿者也能获益，不等于否定志愿服务，而是要求更诚实地描述动机。
 
 ### ④ 名人效应
-
 > **原句 4:** "They lend something priceless to the situation: publicity."
 
 **中文理解**：他们给这一情境带来无价的东西：宣传曝光。
 
 **句子结构**：They 为主语；lend something priceless to the situation 为谓语；冒号后 publicity 为同位解释。
 
-**关键词**：lend, priceless, situation, publicity
+**关键词：** **：lend, priceless, situation, publicity
 
 **表达方式**：用冒号揭示名人参与的特殊贡献。
 
 **为什么这样写**：普通劳动者和名人劳动的产品不同，前者增加工时，后者增加可见度。
 
 ### ⑤ 普通人的建议
-
 > **原句 5:** "The best way to contribute is with greenbacks rather than greenhorn labor."
 
 **中文理解**：最好的贡献方式是捐钱，而不是用生手劳动。
 
 **句子结构**：The best way to contribute 为主语；is with greenbacks 为系表结构；rather than greenhorn labor 为比较状语。
 
-**关键词**：best way, greenbacks, greenhorn labor, contribute
+**关键词：** **：best way, greenbacks, greenhorn labor, contribute
 
 **表达方式**：用 greenbacks 与 greenhorn labor 的头韵对照收束。
 

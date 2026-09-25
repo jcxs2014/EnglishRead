@@ -39,63 +39,59 @@ source_text: ch59_58_how_to_increase_the_average_iq_of_two.txt
 
 **句子结构**：祈使句 Take... and give...；两个并列祈使结构共享主语 you。
 
-**关键词**：sizable, huge, pool of money, instead
+**关键词：** **：sizable, huge, pool of money, instead
 
 **表达方式**：用简单操作呈现统计操控。
 
 **为什么这样写**：它让读者看到平均数变化不需要新增财富，只需要改变分类边界。
 
 ### ② 基金重排
-
 > **原句 2:** "The combined value of the trio hasn’t risen by a single cent, but people will still pat you on the back."
 
 **中文理解**：三者的总价值一分钱也没有增加，但人们仍会拍你的肩膀。
 
 **句子结构**：The combined value 为主语；hasn’t risen 为完成时否定谓语；but people will still pat you on the back 为结果分句。
 
-**关键词**：combined value, risen by a single cent, pat you on the back
+**关键词：** **：combined value, risen by a single cent, pat you on the back
 
 **表达方式**：用“没有增加一分钱”与外部表扬构成反差。
 
 **为什么这样写**：评价者奖励可见的平均改善，却不检查总价值是否变化。
 
 ### ③ 阶段迁移名称
-
 > **原句 3:** "This effect is called “stage migration” or the Will Rogers phenomenon."
 
 **中文理解**：这种现象叫作“阶段迁移”或威尔·罗杰斯现象。
 
 **句子结构**：This effect 为主语；is called 为被动谓语；or 连接两个同位术语。
 
-**关键词**：stage migration, Will Rogers phenomenon, effect, called
+**关键词：** **：stage migration, Will Rogers phenomenon, effect, called
 
 **表达方式**：用两个术语命名同一统计操作。
 
 **为什么这样写**：一个医学术语和一个历史笑话并置，显示指标错觉可以跨越领域出现。
 
 ### ④ 销售员算例
-
 > **原句 4:** "Such switcheroo strategies don’t change anything overall, but they create an impressive illusion."
 
 **中文理解**：这种调换策略不会改变整体情况，却会制造令人印象深刻的假象。
 
 **句子结构**：Such switcheroo strategies 为主语；don’t change anything overall 为否定谓语；but they create an impressive illusion 为转折分句。
 
-**关键词**：switcheroo strategies, change anything overall, impressive illusion
+**关键词：** **：switcheroo strategies, change anything overall, impressive illusion
 
 **表达方式**：用 switcheroo 轻巧命名复杂操作，再用 illusion 揭露结果。
 
 **为什么这样写**：它把统计操作戏剧化，提醒读者警惕“每个部门都改善”的汇报。
 
 ### ⑤ 医疗阶段迁移
-
 > **原句 5:** "A great medical success? Unfortunately not: mere stage migration."
 
 **中文理解**：一项伟大的医疗成功吗？遗憾的是，不是；这只是阶段迁移。
 
 **句子结构**：疑问句 A great medical success；回答 Unfortunately not；冒号后 mere stage migration 为解释。
 
-**关键词**：medical success, Unfortunately not, mere, stage migration
+**关键词：** **：medical success, Unfortunately not, mere, stage migration
 
 **表达方式**：用反问、否定和冒号构成快速反转。
 

@@ -39,77 +39,67 @@ source_text: ch40_39_congratulations_you_ve_won_russian_ro.txt
 
 **句子结构**：省略主语和助动词的疑问句；play 为动词原形。
 
-**关键词**：Russian roulette, play
+**关键词：** Russian roulette, play
 
 **表达方式**：用一句短问句制造戏剧性。
 
 **为什么这样写**：故事从明确的游戏提议开始，读者立即知道选择会涉及生死，而不只是金钱。
 
-### ② 风险与奖励
-
-> **原句 2:** "Ten million dollars would change your life."
+### ② 风险与奖励> **原句 2:** "Ten million dollars would change your life."
 
 **中文理解**：一千万美元会改变你的人生。
 
 **句子结构**：Ten million dollars 为主语；would change 为谓语；your life 为宾语。
 
-**关键词**：Ten million dollars, change your life
+**关键词：** Ten million dollars, change your life
 
 **表达方式**：用条件式把巨额金钱描绘成彻底改变人生的杠杆。
 
 **为什么这样写**：它先建立诱惑的吸引力，之后的死亡分支才会对读者形成真正压力。
 
-### ③ 两条路径的对照
-
-> **原句 3:** "The crucial difference between the two of you remains hidden from view: the risk that lurks behind each of the $10 million."
+### ③ 两条路径的对照> **原句 3:** "The crucial difference between the two of you remains hidden from view: the risk that lurks behind each of the $10 million."
 
 **中文理解**：你们之间最关键的区别仍然隐藏在视野之外：每得一千万美元背后潜藏的风险。
 
 **句子结构**：主句为 the difference remains hidden；冒号后同位语解释 risk that lurks behind each of the $10 million。
 
-**关键词**：crucial difference, hidden from view, lurks behind
+**关键词：** crucial difference, hidden from view, lurks behind
 
 **表达方式**：用“隐藏的风险”把表面财富拉回过程层面。
 
 **为什么这样写**：记者只比较结果，无法看见通往结果的风险；替代路径正是让被遮蔽的差异重新出现。
 
-### ④ 替代路径定义
-
-> **原句 4:** "Alternative paths are all the outcomes that could have happened but did not."
+### ④ 替代路径定义> **原句 4:** "Alternative paths are all the outcomes that could have happened but did not."
 
 **中文理解**：替代路径是所有可能发生却没有发生的结果。
 
 **句子结构**：主语 Alternative paths；系动词 are；表语为 that 从句，从句中 could have happened 与 did not 构成情态与实体的对比。
 
-**关键词**：Alternative paths, outcomes, could have happened, did not
+**关键词：** Alternative paths, outcomes, could have happened, did not
 
 **表达方式**：用否定定义处理不可见事物。
 
 **为什么这样写**：它把“未发生”提升为可分析对象，提醒人评价决策时不能只看唯一实际结果。
 
-### ⑤ 风险调整后的财富
-
-> **原句 5:** "To a rational mind, $10 million that comes about through a huge risk is worth less than the same sum earned by years of drudgery."
+### ⑤ 风险调整后的财富> **原句 5:** "To a rational mind, $10 million that comes about through a huge risk is worth less than the same sum earned by years of drudgery."
 
 **中文理解**：对理性头脑而言，通过巨大风险获得的一千万美元，低于多年辛苦工作赚得的同额财富。
 
 **句子结构**：主语为复杂名词短语；is worth less than 为比较结构；that comes about through... 修饰 first sum。
 
-**关键词**：rational mind, huge risk, worth less, drudgery
+**关键词：** rational mind, huge risk, worth less, drudgery
 
 **表达方式**：用相同金额、不同路径构成价值对比。
 
 **为什么这样写**：它提出“财富价值取决于路径”的原则，但把理性判断说成可普遍接受的观点，仍需结合个人价值观。
 
-### ⑥ 日常风险判断
-
-> **原句 6:** "Considering the alternative paths, you’ve actually already paid for half of this dinner."
+### ⑥ 日常风险判断> **原句 6:** "Considering the alternative paths, you’ve actually already paid for half of this dinner."
 
 **中文理解**：考虑到各种替代路径，实际上你已经为这顿饭付了一半的钱。
 
 **句子结构**：Considering the alternative paths 为现在分词短语作条件状语；主句为现在完成时，第二人称 you 作主语。
 
-**关键词**：Considering, alternative paths, already paid
+**关键词：** Considering, alternative paths, already paid
 
 **表达方式**：把抽象的风险调整原则突然落到晚餐账单。
 

@@ -39,7 +39,7 @@ source_text: ch22_21_less_is_more_paradox_of_choice.txt
 
 **句子结构**：直接引语为 there be 句型；she exclaims 为引语后的叙述标签。
 
-**关键词**：too many, choose from, exclaims
+**关键词：**：too many, choose from, exclaims
 
 **表达方式**：用人物直接引语把抽象的选择悖论落在家庭争执上。
 
@@ -53,49 +53,46 @@ source_text: ch22_21_less_is_more_paradox_of_choice.txt
 
 **句子结构**：And yet 引导转折；selection 是主语，is the yardstick of progress 为系表结构。
 
-**关键词**：selection, yardstick, progress
+**关键词：** **：selection, yardstick, progress
 
 **表达方式**：用 yardstick 把选择提升为文明进步的尺度。
 
 **为什么这样写**：作者先承认选择本身的价值，再提出边界，避免把“少”绝对化。
 
 ### ③ 果冻实验
-
 > **原句 3:** "The result? They sold ten times more jelly on day two."
 
 **中文理解**：结果？第二天他们卖出的果冻多了十倍。
 
 **句子结构**：The result 为省略主语的小句；They sold... 为完整句；on day two 为时间状语。
 
-**关键词**：result, sold ten times more, jelly, day two
+**关键词：** **：result, sold ten times more, jelly, day two
 
 **表达方式**：用问号短句制造实验揭示的冲击，再给出量化结果。
 
 **为什么这样写**：24 种到 6 种的减少没有牺牲产品质量，却让购买量大幅增加，直接说明选项数量会阻碍选择。
 
 ### ④ 不确定性
-
 > **原句 4:** "The more choice you have, the more unsure and therefore dissatisfied you are afterward."
 
 **中文理解**：你拥有的选择越多，事后就越不确定，也越不满意。
 
 **句子结构**：The more...the more... 比较结构；first 分句含省略主语 you，therefore 连接结果。
 
-**关键词**：more choice, more unsure, dissatisfied, afterward
+**关键词：** **：more choice, more unsure, dissatisfied, afterward
 
 **表达方式**：用平行比较结构把选择数量与后悔感受连接起来。
 
 **为什么这样写**：更多可能性没有提高决策质量，反而增加了比较、怀疑和事后不满。
 
 ### ⑤ 足够好
-
 > **原句 5:** "“Good enough” is the new optimum."
 
 **中文理解**：“足够好”成为新的最优状态。
 
 **句子结构**：Good enough 为带引号的名词短语作主语；is the new optimum 为系表结构。
 
-**关键词**：Good enough, new optimum
+**关键词：** **：Good enough, new optimum
 
 **表达方式**：用反传统的口号把“足够好”从妥协改写为理性最优。
 

@@ -39,63 +39,59 @@ source_text: ch88_87_why_you_prefer_novels_to_statistics_p.txt
 
 **句子结构**：We 为主语；can find out... 为并列分句；but 连接转折。
 
-**关键词**：casualties, statistics, leave us cold
+**关键词：** **：casualties, statistics, leave us cold
 
 **表达方式**：用“数字冰冷”的反差说明信息量不等于情感影响。
 
 **为什么这样写**：它指出统计的准确性与人的反应之间存在缺口。
 
 ### ② 理论心智
-
 > **原句 2:** "We have developed an impressive sense of how others think and feel."
 
 **中文理解**：我们形成了一种令人印象深刻的、感知他人如何思考和感受的能力。
 
 **句子结构**：We 为主语；have developed 为谓语；an impressive sense 为宾语；how... 为同位从句。
 
-**关键词**：developed, sense, others, think and feel
+**关键词：** **：developed, sense, others, think and feel
 
 **表达方式**：用“令人印象深刻的”修饰人类共情能力。
 
 **为什么这样写**：作者先给出进化解释，后面的实验才显得是在测试一种普遍能力。
 
 ### ③ 最后通牒
-
 > **原句 3:** "They offered the other party between 30 percent and 50 percent."
 
 **中文理解**：他们给另一方提出 30% 到 50% 的份额。
 
 **句子结构**：They 为主语；offered... 为谓语；between...and... 为范围状语。
 
-**关键词**：offered, other party, 30 percent, 50 percent
+**关键词：** **：offered, other party, 30 percent, 50 percent
 
 **表达方式**：用具体百分比呈现实验结果。
 
 **为什么这样写**：人们愿意分出远超经济自利的部分，显示他们在模拟对方感受。
 
 ### ④ 面孔与数字
-
 > **原句 4:** "The average donation dropped by 50 percent."
 
 **中文理解**：平均捐款下降了 50%。
 
 **句子结构**：The average donation 为主语；dropped 为谓语；by 50 percent 为幅度状语。
 
-**关键词**：average donation, dropped, 50 percent, statistics
+**关键词：** **：average donation, dropped, 50 percent
 
 **表达方式**：用单一数字把对照实验结果压缩清楚。
 
 **为什么这样写**：统计版信息更完整，却因为缺少面孔而引发了更少捐赠。
 
 ### ⑤ 故事与分布
-
 > **原句 5:** "Ask for the facts and the statistical distribution behind them."
 
 **中文理解**：要求提供故事背后的事实和统计分布。
 
 **句子结构**：祈使句；省略主语 you；Ask for 为谓语；facts 与 statistical distribution 为并列宾语。
 
-**关键词**：facts, statistical distribution, behind them, context
+**关键词：** **：facts, statistical distribution, behind them
 
 **表达方式**：用两个明确请求把共情重新接回分析。
 

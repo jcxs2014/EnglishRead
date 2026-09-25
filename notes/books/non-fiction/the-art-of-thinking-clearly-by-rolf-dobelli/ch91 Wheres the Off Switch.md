@@ -46,49 +46,45 @@ source_text: ch91_90_where_s_the_off_switch_overthinking.txt
 **为什么这样写**：寓言把“分析过度”的后果直接表现为无法前进一步。
 
 ### ② 高尔夫
-
 > **原句 2:** "He teed off like a beginner."
 
 **中文理解**：他像初学者一样开球。
 
 **句子结构**：He 为主语；teed off 为谓语；like a beginner 为方式状语。
 
-**关键词：** teed off, beginner, flawlessly, nervous
+**关键词：** teed off, beginner
 
 **表达方式**：用身份化比喻描述动作质量骤降。
 
 **为什么这样写**：领先时仍过度思考，反而使熟练技能暂时失效。
 
 ### ③ 果冻排序
-
 > **原句 3:** "The rankings turned out to be completely warped."
 
 **中文理解**：排名结果完全被扭曲了。
 
 **句子结构**：The rankings 为主语；turned out to be 为系表结构；completely warped 为表语。
 
-**关键词：** rankings, completely warped, justify, ratings
+**关键词：** rankings, completely warped
 
 **表达方式**：用结果性判断呈现解释过程的副作用。
 
 **为什么这样写**：要求为直觉辩护，迫使大脑修改本来更准确的感受。
 
 ### ④ 情绪
-
 > **原句 4:** "They are merely a different form of information processing."
 
 **中文理解**：它们只是另一种信息处理形式。
 
 **句子结构**：They 为主语；are merely... 为系表结构；a different form... 为表语。
 
-**关键词：** emotions, information processing, primordial, inferior variant
+**关键词：** information processing
 
 **表达方式**：用认知科学词汇降低情绪与理性的等级对立。
 
 **为什么这样写**：它为直觉保留了合法性，避免把所有非理性思考都排除掉。
 
 ### ⑤ 分工
-
 > **原句 5:** "With complex matters, though, such as investment decisions, sober reflection is indispensable."
 
 **中文理解**：但面对投资决策等复杂事务，冷静反思不可或缺。

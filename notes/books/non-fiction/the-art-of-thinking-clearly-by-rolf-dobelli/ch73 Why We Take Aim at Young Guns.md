@@ -39,63 +39,59 @@ source_text: ch73_72_why_we_take_aim_at_young_guns_social_.txt
 
 **句子结构**：As I pondered the question 为时间状语从句；I realized... 为主句；had kicked in 为过去完成时。
 
-**关键词**：pondered, realized, social comparison bias, kicked in
+**关键词：** **：pondered, realized, social comparison bias, kicked in
 
 **表达方式**：用内省把个人犹豫标记为可命名的偏差。
 
 **为什么这样写**：它先承认“我也想拒绝”，再把情绪提升为可检查的机制。
 
 ### ② 学术门槛
-
 > **原句 2:** "They will be especially rigorous when evaluating the article."
 
 **中文理解**：他们在评审这篇文章时会特别严格。
 
 **句子结构**：They 为主语；will be especially rigorous 为谓语；when evaluating... 为时间状语。
 
-**关键词**：especially rigorous, evaluating, article, young researcher
+**关键词：** **：especially rigorous, evaluating, article
 
 **表达方式**：用 especially 暗示严格程度与威胁程度成正比。
 
 **为什么这样写**：当现有权威可能失去位置，常规质量控制也可能被竞争恐惧扭曲。
 
 ### ③ 长期损失
-
 > **原句 3:** "What happens when that young prodigy joins another research group and applies his acumen there?"
 
 **中文理解**：当那个年轻天才加入其他研究小组并在那里施展才华时，会发生什么？
 
 **句子结构**：What happens when... 为主语从句；joins... 和 applies... 为并列谓语。
 
-**关键词**：young prodigy, joins another research group, applies his acumen
+**关键词：** **：young prodigy, joins another research group, applies his acumen
 
 **表达方式**：用反问把眼前收益翻转成长期后果。
 
 **为什么这样写**：短期阻止一个人的行为，可能把创新和人才推向竞争者。
 
 ### ④ 等级循环
-
 > **原句 4:** "A-players hire people even better than themselves."
 
 **中文理解**：A 类人才会雇用比自己更好的人。
 
 **句子结构**：A-players 为主语；hire 为谓语；people even better than themselves 为宾语。
 
-**关键词**：A-players, hire people, even better than themselves
+**关键词：** **：A-players, hire people, even better than themselves
 
 **表达方式**：用等级字母把组织能力抽象成分层。
 
 **为什么这样写**：对比 B/C 等级的自我安慰，清楚显示优秀组织如何保持人才优势。
 
 ### ⑤ 结论
-
 > **原句 5:** "You should get in the up-and-comers’ good books—and learn from them."
 
 **中文理解**：你应当讨好有上升潜力的人，并向他们学习。
 
 **句子结构**：祈使句 should 后接 get in...；破折号连接两个并列祈使动作。
 
-**关键词**：up-and-comers, good books, learn from them, talented
+**关键词：** **：up-and-comers, good books, learn from them
 
 **表达方式**：用反讽式的“结交”把未来竞争者转为学习对象。
 

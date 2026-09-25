@@ -39,63 +39,59 @@ source_text: ch20_19_the_dubious_efficacy_of_doctors_consu.txt
 
 **句子结构**：What links the three men 是主语从句；is a fallacy 为系表结构；冒号后同位解释 the regression-to-mean delusion。
 
-**关键词**：links, fallacy, regression-to-mean delusion
+**关键词：** **：links, fallacy, regression-to-mean delusion
 
 **表达方式**：先概括三个故事，再用冒号命名共同错误。
 
 **为什么这样写**：不同场景的共同机制被压缩成一个概念，读者可以把个人轶事迁移到医疗和商业判断。
 
 ### ② 天气类比
-
 > **原句 2:** "Weather fluctuates around a mean."
 
 **中文理解**：天气围绕平均值波动。
 
 **句子结构**：主语 Weather + 动词 fluctuates；around a mean 为介词短语。
 
-**关键词**：Weather, fluctuates, mean
+**关键词：** **：Weather, fluctuates, mean
 
 **表达方式**：用极短句把复杂统计规律还原为日常经验。
 
 **为什么这样写**：抽象的“回归均值”先通过天气变得可感知，后续关于疼痛、股票和成绩的论证便更容易理解。
 
 ### ③ 极端表现
-
 > **原句 3:** "Extreme performances are interspersed with less extreme ones."
 
 **中文理解**：极端表现与较不极端的表现交错出现。
 
 **句子结构**：主语 Extreme performances + 被动谓语 are interspersed；with less extreme ones 为介词短语。
 
-**关键词**：Extreme performances, interspersed, less extreme
+**关键词：** **：Extreme performances, interspersed, less extreme
 
 **表达方式**：用 intersperse 描述波动序列，避免只说“极端之后会变好”。
 
 **为什么这样写**：自然波动的结构不只存在于平均值附近，也意味着一次极端结果不能自然推出下一次仍会重复。
 
 ### ④ 奖惩颠倒
-
 > **原句 4:** "Thus, the teacher concludes that reproach helps and praise hinders: a fallacy that keeps on giving."
 
 **中文理解**：于是老师得出结论：批评有帮助，表扬反而妨碍；这是一种屡试不爽的谬误。
 
 **句子结构**：Thus 引导结果；主句 the teacher concludes...；冒号后 a fallacy... 为同位说明。
 
-**关键词**：teacher, concludes, reproach, praise, fallacy
+**关键词：** **：teacher, concludes, reproach, praise, fallacy
 
 **表达方式**：用荒谬的因果归因展示回归均值如何进入教育制度。
 
 **为什么这样写**：极端学生下一次换人后，老师会把随机回归误读为惩罚有效、表扬有害，从而维持错误政策。
 
 ### ⑤ 识别信号
-
 > **原句 5:** "When you hear stories such as: “I was sick, went to the doctor, and got better a few days later”..."
 
 **中文理解**：当你听到“我生病了，去看医生，几天后好转”这类故事时，要警惕回归均值错误。
 
 **句子结构**：When 引导时间/条件从句；hear stories such as... 为从句主体，冒号后用直接引语举例。
 
-**关键词**：stories, sick, doctor, got better, regression-to-mean error
+**关键词：** **：stories, sick, doctor, got better
 
 **表达方式**：用最常见的医疗叙事示范“先后发生”如何被误读成“治疗造成”。
 

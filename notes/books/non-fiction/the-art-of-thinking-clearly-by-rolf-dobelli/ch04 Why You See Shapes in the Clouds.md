@@ -39,91 +39,85 @@ source_text: ch04_3_why_you_see_shapes_in_the_clouds_clust.txt
 
 **句子结构**：主语 The human brain + 谓语 seeks；and 连接两个并列宾语 patterns 与 rules。
 
-**关键词**：human brain, seeks, patterns, rules
+**关键词：** **：human brain, seeks, patterns, rules
 
 **表达方式**：短句直接给出心理机制，随后章节再用案例说明其过度延伸。
 
 **为什么这样写**：作者把复杂认知能力先正常化，再指出“能找模式”不等于“找到的模式真实存在”。
 
 ### ② 发明模式
-
 > **原句 2:** "If it finds no familiar patterns, it simply invents some."
 
 **中文理解**：如果它找不到熟悉的模式，就会直接发明一个。
 
 **句子结构**：条件状语从句 If it finds no familiar patterns；主句 it simply invents some，some 替代前面的 patterns。
 
-**关键词**：finds no familiar patterns, invents some
+**关键词：** **：finds no familiar patterns, invents some
 
 **表达方式**：If / simply 把模式制造写得像无意识的自动程序。
 
 **为什么这样写**：这解释了为什么人会从噪声中读出脸、声音或市场信号：不是看见了真实结构，而是大脑必须继续解释输入。
 
 ### ③ 模糊信号
-
 > **原句 3:** "The more diffuse the signal, such as the background noise on the tape, the easier it is to find “hidden messages” in it."
 
 **中文理解**：信号越模糊，例如磁带中的背景噪声，就越容易从中找到“隐藏信息”。
 
 **句子结构**：The more..., the easier... 构成比较结构；such as 插入语举例说明 diffuse signal。
 
-**关键词**：diffuse signal, background noise, hidden messages
+**关键词：** background noise, hidden messages
 
 **表达方式**：用程度比较把“信号越弱—解释越自由”的关系写出来。
 
 **为什么这样写**：它把幻觉从神秘故事转成信息质量问题：输入越不确定，大脑越容易补足意义。
 
 ### ④ 市场伪规律
-
 > **原句 4:** "He had sensed a pattern where none existed."
 
 **中文理解**：他感知到了一个其实并不存在的模式。
 
 **句子结构**：主语 He + 谓语 had sensed + 宾语 a pattern；where none existed 为关系副词从句，修饰 pattern 的存在状态。
 
-**关键词**：sensed a pattern, none existed
+**关键词：** **：sensed a pattern, none existed
 
 **表达方式**：用极短句作案例结论，把复杂的市场故事收束到判断本身。
 
 **为什么这样写**：前面用大量数据制造“发现规律”的错觉，短句则提醒读者：错觉最终只是一个不存在的模式。
 
 ### ⑤ 随机令人不安
-
 > **原句 5:** "Apparently we have trouble accepting that such events can take place by chance."
 
 **中文理解**：显然，我们很难接受这类事件可能只是偶然发生的。
 
 **句子结构**：主句 we have trouble accepting；that 宾语从句说明“难以接受”的内容，by chance 放在从句末标示原因。
 
-**关键词**：trouble accepting, take place, by chance
+**关键词：** **：trouble accepting, take place, by chance
 
 **表达方式**：把“偶然”写成难以接受的心理事实，而非单纯的统计知识。
 
 **为什么这样写**：作者先承认人类直觉的抵抗，再让读者知道纠正偏差必须对抗这种本能。
 
 ### ⑥ 战争地图
-
 > **原句 6:** "They thought they had discovered a pattern and developed theories about which parts of the city were the safest."
 
 **中文理解**：他们以为自己发现了模式，并 Develop theories about which parts of the city were the safest.
 
 **句子结构**：They thought + had discovered and developed；and 连接两个过去进行/完成意义不同的动作；about 短语说明 theories 的内容。
 
-**关键词**：discovered a pattern, developed theories, safest
+**关键词：** **：discovered a pattern, developed theories, safest
 
 **表达方式**：用 believed/think 的认知动词包裹“危险区域判断”，显示结论建立在主观解释上。
 
 **为什么这样写**：战争落点把抽象的随机性变成生死风险，说明未经验证的模式会直接影响行为。
 
 ### ⑦ 怀疑优先
-
 > **原句 7:** "If you think you have discovered a pattern, first consider it pure chance."
 
 **中文理解**：如果你以为自己发现了一个模式，首先把它视为纯粹偶然。
 
 **句子结构**：If 引导条件从句；主句 first consider it pure chance，it 为回指代词，pure chance 为宾语补足语。
 
-**关键词**：discovered a pattern, first, pure chance
+**关键词：** **：discovered a pattern, first, pure chance
 
 **表达方式**：用祈使式把怀疑原则变成读者可以立即执行的步骤。
 

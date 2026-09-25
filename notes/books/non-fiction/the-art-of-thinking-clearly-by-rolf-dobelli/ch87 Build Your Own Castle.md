@@ -40,63 +40,59 @@ source_text: ch87_86_build_your_own_castle_envy.txt
 
 **句子结构**：You 为主语；are 为系动词；a victim of... 为表语。
 
-**关键词**：victim, green-eyed monster, envy
+**关键词：** **：victim, green-eyed monster
 
 **表达方式**：用莎士比亚式隐喻代替直接说“嫉妒”。
 
 **为什么这样写**：隐喻保留了情绪的戏剧性，同时把心理反应人格化。
 
 ### ② 寓言愿望
-
 > **原句 2:** "I hope that his drops dead."
 
 **中文理解**：我希望他死掉。
 
 **句子结构**：I 为主语；hope 为谓语；that 从句为宾语。
 
-**关键词**：hope, drops dead, cow, wish
+**关键词：** **：hope, drops dead
 
 **表达方式**：用突兀的残酷愿望暴露嫉妒的非理性。
 
 **为什么这样写**：荒诞内容让读者看到嫉妒会越过正常竞争，进入伤害性幻想。
 
 ### ③ 没有优势
-
 > **原句 3:** "Envy is the most stupid of vices, for there is no single advantage to be gained from it."
 
 **中文理解**：嫉妒是最愚蠢的恶习，因为它没有任何可获得的优势。
 
 **句子结构**：Envy 为主语；is the most stupid of vices 为系表结构；for... 为原因状语。
 
-**关键词**：vices, advantage, be gained, envy
+**关键词：** **：vices, advantage, be gained, envy
 
 **表达方式**：用最高级和原因从句下强判断。
 
 **为什么这样写**：它把“嫉妒是否值得”转化为收益核算，直击情绪的无效性。
 
 ### ④ 相似者
-
 > **原句 4:** "We don’t envy millionaires on the other side of the globe—just those on the other side of the city."
 
 **中文理解**：我们不嫉妒地球另一边的百万富翁，只嫉妒城市另一边的百万富翁。
 
 **句子结构**：前半省略 don’t envy 的重复；just those... 与前句形成对比。
 
-**关键词**：millionaires, other side of the globe, other side of the city
+**关键词：** **：millionaires, other side of the globe, other side of the city
 
 **表达方式**：用地理距离的对比突出嫉妒的近邻性。
 
 **为什么这样写**：相似性越强，参照价值越高，嫉妒越容易被激活。
 
 ### ⑤ 城堡
-
 > **原句 5:** "The main thing is that you are king of the castle."
 
 **中文理解**：最重要的是成为自己城堡里的国王。
 
 **句子结构**：The main thing 为主语；is that... 为表语从句。
 
-**关键词**：main thing, king of the castle, competence, niche
+**关键词：** **：main thing, king of the castle
 
 **表达方式**：用中世纪城堡意象表达个人主导权。
 

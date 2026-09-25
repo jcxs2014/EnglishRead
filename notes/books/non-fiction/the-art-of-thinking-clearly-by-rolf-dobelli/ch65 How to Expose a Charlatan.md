@@ -39,63 +39,59 @@ source_text: ch65_64_how_to_expose_a_charlatan_forer_effec.txt
 
 **句子结构**：This 为指示代词作主语；I 为 would sum 的施事；you 为宾语；up 为小品词。
 
-**关键词**：sum you up, need, personality, security
+**关键词：** **：sum you up
 
 **表达方式**：用“总结你”制造评估者的全知姿态。
 
 **为什么这样写**：它把读者的自我认同直接置于分析对象的中心，为后面普遍描述的接受铺路。
 
 ### ② 评分问题
-
 > **原句 2:** "On a scale from 1 (poor) to 5 (excellent), how was my assessment?"
 
 **中文理解**：在 1 分（差）到 5 分（优秀）的量表上，你认为我的评价如何？
 
 **句子结构**：On a scale from... 为介词短语；how was my assessment 为特殊疑问句作表语。
 
-**关键词**：scale, 1, 5, assessment
+**关键词：** **：scale, 1, 5, assessment
 
 **表达方式**：把准确性问题转成打分行为。
 
 **为什么这样写**：分数看似客观，实际会诱导读者寻找匹配项，而不是检查描述的证据基础。
 
 ### ③ Forer 实验
-
 > **原句 3:** "On average, the students rated their characterizations 4.3 out of 5."
 
 **中文理解**：学生平均将这些描述评为 5 分中的 4.3 分。
 
 **句子结构**：On average 为频率状语；students 为主语；rated their characterizations 为谓语；4.3 out of 5 为评分补语。
 
-**关键词**：On average, 4.3 out of 5, characterizations
+**关键词：** **：On average, 4.3 out of 5, characterizations
 
 **表达方式**：用精确均值呈现“准确感”。
 
 **为什么这样写**：读者会把自己认同的部分保留下来，却忽略没有提到的特征。
 
 ### ④ 特征正面效应
-
 > **原句 4:** "The text contains no negative statements."
 
 **中文理解**：这段文字不含负面陈述。
 
 **句子结构**：The text 为主语；contains 为谓语；no negative statements 为宾语。
 
-**关键词**：text, contains, negative statements, feature-positive effect
+**关键词：** **：text, contains, negative statements
 
 **表达方式**：用简单否定句指出文本的单向性。
 
 **为什么这样写**：只写“你是什么样的人”而不写“你没有什么”，会让每个读者都能找到自我投射空间。
 
 ### ⑤ 盲测
-
 > **原句 5:** "Only when the majority of people identify “their” description is there real talent at hand."
 
 **中文理解**：只有当多数人都能认出“自己的”描述时，才说明确实存在真正的才能。
 
 **句子结构**：Only when... 引导条件状语从句；is there real talent at hand 为倒装系表结构。
 
-**关键词**：Only when, majority, identify, description, real talent
+**关键词：** **：Only when, majority, identify, description, real talent
 
 **表达方式**：用 only when 把实验验收条件说成必要条件。
 

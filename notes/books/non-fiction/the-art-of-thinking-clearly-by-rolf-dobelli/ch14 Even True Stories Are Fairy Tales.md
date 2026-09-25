@@ -39,63 +39,59 @@ source_text: ch14_13_even_true_stories_are_fairy_tales_sto.txt
 
 **句子结构**：系表结构；as intricate as a Gordian knot 为同级比较结构，as...as 连接形容词与名词。
 
-**关键词**：Life, muddle, intricate, Gordian knot
+**关键词：** **：Life, muddle, intricate, Gordian knot
 
 **表达方式**：以著名神话难题作比喻，把“复杂”转化为可想象的未解结。
 
 **为什么这样写**：作者先拒绝线性人生叙事的天然感，为后来说明“意义是后来织入的”建立前提。
 
 ### ② 故事偏误
-
 > **原句 2:** "We try on stories as we try on clothes."
 
 **中文理解**：我们试穿故事，就像试穿衣服一样。
 
 **句子结构**：比较结构 as...as 共享主语和动词；stories 与 clothes 分别作两个比较项。
 
-**关键词**：try on, stories, clothes
+**关键词：** **：try on, stories, clothes
 
 **表达方式**：用日常动作比喻观点选择，暗示身份和解释可以暂时穿戴、替换。
 
 **为什么这样写**：故事不是被动接收的事实，而是人主动选择、调整的解释外衣。
 
 ### ③ 扭曲与过滤
-
 > **原句 3:** "They simplify and distort reality and filter things that don’t fit."
 
 **中文理解**：它们简化并扭曲现实，还会过滤掉不契合的部分。
 
 **句子结构**：主语 They + 三个并列谓语 simplify、distort、filter；that don’t fit 为定语从句修饰 things。
 
-**关键词**：simplify, distort reality, filter things, don’t fit
+**关键词：** **：simplify, distort reality, filter things, don’t fit
 
 **表达方式**：用三个递进式动词把叙事功能拆成压缩、变形和排除三步。
 
 **为什么这样写**：它明确指出故事偏误不只是“缺少细节”，而是主动删除不合适的证据。
 
 ### ④ 故事吸引人
-
 > **原句 4:** "Stories attract us; abstract details repel us."
 
 **中文理解**：故事吸引我们，抽象细节则排斥我们。
 
 **句子结构**：两个并列分句分别以 Stories 和 abstract details 作主语，attract 与 repel 构成反义对照。
 
-**关键词**：Stories attract, abstract details, repel
+**关键词：** **：Stories attract, abstract details, repel
 
 **表达方式**：用对称短句制造注意力差异，解释为什么媒体偏向人物背景而非工程细节。
 
 **为什么这样写**：它把认知偏好与信息选择直接连接起来：不是抽象事实不重要，而是故事形式更容易获得注意。
 
 ### ⑤ 追问故事
-
 > **原句 5:** "Whenever you hear a story, ask yourself: Who is the sender, what are his intentions, and what did he hide under the rug?"
 
 **中文理解**：每当听到一个故事，问自己：发送者是谁，他的意图是什么，他掩盖了什么？
 
 **句子结构**：Whenever 引导时间从句；ask yourself 后接三个并列特殊疑问句。
 
-**关键词**：sender, intentions, hide under the rug
+**关键词：** **：sender, intentions, hide under the rug
 
 **表达方式**：把欣赏故事转为审查故事的三个问题，形成可执行的阅读纪律。
 

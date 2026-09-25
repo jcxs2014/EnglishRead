@@ -39,105 +39,98 @@ source_text: ch05_4_if_fifty_million_people_say_something_.txt
 
 **句子结构**：At an intersection 为地点状语；you encounter a group... 为从句；Without even thinking about it 为条件状语；主句 you peer upward, too。
 
-**关键词**：encounter a group, staring at the sky, peer upward
+**关键词：** **：encounter a group, staring at the sky, peer upward
 
 **表达方式**：用连续动作展示从众如何先于判断发生。
 
 **为什么这样写**：行为链越短，越能证明社会认同不必经过明确推理就能改变身体行动。
 
 ### ② 社会认同的定义
-
 > **原句 2:** "Social proof, sometimes roughly termed the “herd instinct,” dictates that individuals feel they are behaving correctly when they act the same as other people."
 
 **中文理解**：社会认同有时被粗略地称为“ herd instinct”，它规定：当个人与他人采取相同行为时，便觉得自己做得正确。
 
 **句子结构**：主语 Social proof + 谓语 dictates；that 宾语从句中 individuals 是主语，when they act the same as other people 是时间状语从句。
 
-**关键词**：Social proof, herd instinct, feel they are behaving correctly
+**关键词：** **：Social proof, herd instinct, feel they are behaving correctly
 
 **表达方式**：先给术语别称，再用一个 when 从句把“行为相似”改写成“行为正确”的心理感受。
 
 **为什么这样写**：作者不把从众描述成简单模仿，而指出人会从模仿中推导自我正确性。
 
 ### ③ 荒谬的判断标准
-
 > **原句 3:** "The more people who follow a certain idea, the better (truer) we deem the idea to be."
 
 **中文理解**：遵循某个想法的人越多，我们就越认为这个想法更好、越真实。
 
 **句子结构**：The more..., the better... 是比较结构；who follow a certain idea 修饰 people；we deem the idea to be 中 to be 为不定式补足语。
 
-**关键词**：the more people, follow, deem, truer
+**关键词：** **：the more people, follow, deem, truer
 
 **表达方式**：用括号中的 better 与 truer 扩展“人数多＝真理”的荒谬标准。
 
 **为什么这样写**：把常见的社会认同从行为层推到认识论层，揭示多数意见如何被误当成证据。
 
 ### ④ Asch 实验
-
 > **原句 4:** "In one-third of cases, he will answer incorrectly to match the other people’s responses."
 
 **中文理解**：在三分之一的情况下，他也会为了符合其他人的回答而给出错误答案。
 
 **句子结构**：In one-third of cases 为时间/频率状语；he will answer incorrectly 为谓语；to match... 为目的状语。
 
-**关键词**：one-third of cases, answer incorrectly, match, responses
+**关键词：** **：one-third of cases, answer incorrectly, match, responses
 
 **表达方式**：用精确比例呈现群体压力造成的错误，不依赖情绪化形容词。
 
 **为什么这样写**：比例把“少数人会被影响”转化为可比较的证据，也使社会认同的代价具体化。
 
 ### ⑤ 进化遗留
-
 > **原句 5:** "This pattern is so deeply rooted in us that we still use it today, even when it offers no survival advantage."
 
 **中文理解**：这种模式在我们身上根深蒂固，以至于即使它不再提供生存优势，我们今天仍会使用它。
 
 **句子结构**：so... that... 结果结构；主句 This pattern + is deeply rooted in us；even when it offers no survival advantage 为让步状语从句。
 
-**关键词**：deeply rooted, survival advantage, use it today
+**关键词：** **：deeply rooted, survival advantage, use it today
 
 **表达方式**：用“根深蒂固”与“毫无优势”并置，形成机制与当前环境之间的断裂。
 
 **为什么这样写**：它解释了为什么理性教育不能自动消除从众：直觉机制可能在环境改变后仍然存在。
 
 ### ⑥ 群体反应被制造
-
 > **原句 6:** "Comedy and talk shows make use of social proof by inserting canned laughter at strategic points, inciting the audience to laugh along."
 
 **中文理解**：喜剧和谈话节目会在策略性位置插入罐头笑声，借此煽动观众跟着笑。
 
 **句子结构**：主语 Comedy and talk shows + 谓语 make use of；by inserting... 为方式状语，inciting... 为结果伴随分词。
 
-**关键词**：canned laughter, strategic points, audience, laugh along
+**关键词：** **：canned laughter, strategic points, audience, laugh along
 
 **表达方式**：用制作术语 strategic points 把笑声转换成可设计的传播机制。
 
 **为什么这样写**：作者区分自发群体反应与被预制的反应，提醒读者“大家都在做”可能只是场景设计的结果。
 
 ### ⑦ 独立判断的反事实
-
 > **原句 7:** "If the attendees had been asked individually and anonymously, it is likely that nobody would have consented to this crazy proposal."
 
 **中文理解**：如果分别且匿名地询问与会者，他们很可能没有人会同意这个疯狂提议。
 
 **句子结构**：If 从句使用过去完成时；主句使用 it is likely that...；had been asked 与 would have consented 构成与过去事实相反的虚拟语气。
 
-**关键词**：individually, anonymously, consented, crazy proposal
+**关键词：** **：individually, anonymously, consented, crazy proposal
 
 **表达方式**：用反事实假设把公开群体反应和私人判断拆开。
 
 **为什么这样写**：这句话指出社会认同的测量方式会改变答案：公开表达可能制造虚假的一致性。
 
 ### ⑧ 广告利用不确定性
-
 > **原句 8:** "This works well when a situation is unclear... and where people “like you and me” appear."
 
 **中文理解**：当情境不明确，而且广告中出现“像你我这样的人”时，社会认同就特别有效。
 
 **句子结构**：when 引导条件从句；and where... 补充第二个条件；people... appear 为省略系动词的口语表达。
 
-**关键词**：situation is unclear, like you and me, appear, works well
+**关键词：** **：situation is unclear, like you and me, appear, works well
 
 **表达方式**：用两个并列条件解释广告何时有效，不把营销效果归因于单一技巧。
 

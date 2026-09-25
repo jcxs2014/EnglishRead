@@ -39,63 +39,59 @@ source_text: ch51_50_sweet_little_lies_cognitive_dissonanc.txt
 
 **句子结构**：These aren’t even ripe yet 为否定陈述；Why would I want... 为疑问句。
 
-**关键词**：aren’t ripe, sour grapes, want
+**关键词：** sour grapes, want
 
 **表达方式**：用自我辩护的短问句完成认知重构。
 
 **为什么这样写**：狐狸通过改变对目标价值的判断，减轻无法得到葡萄的失败感。
 
 ### ② 三种冲突解决方案
-
 > **原句 2:** "He can resolve this conflict in one of three ways."
 
 **中文理解**：他可以通过三种方式之一解决这个冲突。
 
 **句子结构**：He 为主语；can resolve 为情态谓语；this conflict 为宾语；in one of three ways 为方式状语。
 
-**关键词**：resolve, conflict, three ways
+**关键词：** **：resolve, conflict, three ways
 
 **表达方式**：先搭建选项框架，再展开解释。
 
 **为什么这样写**：把防御机制拆成可比较的路径，读者可以定位自己正在使用哪一种。
 
 ### ③ 新车辩护
-
 > **原句 3:** "You tell yourself that a loud engine and awkward seats are great safety features."
 
 **中文理解**：你告诉自己，响亮的发动机和难坐的座椅是很好的安全功能。
 
 **句子结构**：You tell yourself that... 为 tell 的双宾语结构；that 从句为内容补语。
 
-**关键词**：tell yourself, loud engine, awkward seats, safety features
+**关键词：** **：tell yourself, loud engine, awkward seats, safety features
 
 **表达方式**：把明显缺点重新命名为功能。
 
 **为什么这样写**：叙事重标签比承认买错更能让自我形象保持一致。
 
 ### ④ 实验条件
-
 > **原句 4:** "Each student in group A received a dollar (it was 1959) and instructions to wax lyrical about the work to another student waiting outside—in other words, to lie."
 
 **中文理解**：A 组每名学生得到一美元，并被要求对工作赞不绝口。
 
 **句子结构**：Each student 为主语；received 为并列谓语之一；and 后接 received 的第二个宾语 instructions。
 
-**关键词**：group A, received a dollar, wax lyrical
+**关键词：** **：group A, received a dollar, wax lyrical
 
 **表达方式**：用具体报酬和指令呈现心理实验。
 
 **为什么这样写**：较小的外部收益不足以让受试者公开撒谎，于是内部态度被迫调整。
 
 ### ⑤ 投资的“潜力”
-
 > **原句 5:** "It still had more potential overall."
 
 **中文理解**：它总体上仍然具有更多潜力。
 
 **句子结构**：It 为主语；had 为谓语；more potential 为宾语；overall 为状语。
 
-**关键词**：still, potential, overall
+**关键词：** **：still, potential, overall
 
 **表达方式**：用 still 保留希望，用 overall 扩大正面解释。
 

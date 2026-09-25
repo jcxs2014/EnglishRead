@@ -38,49 +38,46 @@ source_text: ch62_61_why_small_things_loom_large_the_law_o.txt
 
 **句子结构**：The branches 为主语；with the highest theft rate 为后置定语；are primarily in rural areas 为系表结构。
 
-**关键词**：branches, highest theft rate, primarily, rural areas
+**关键词：** **：branches, highest theft rate, primarily, rural areas
 
 **表达方式**：用报告式结论把相关性说成明显事实。
 
 **为什么这样写**：只查看最高失窃率会忽略最低失窃率也集中在农村，真正变量是门店大小。
 
 ### ② 纠正地点解释
-
 > **原句 2:** "The location isn’t the deciding factor."
 
 **中文理解**：地点不是决定因素。
 
 **句子结构**：The location 为主语；isn’t the deciding factor 为否定系表结构。
 
-**关键词**：location, deciding factor, small stores, theft rate
+**关键词：** **：location, deciding factor
 
 **表达方式**：用否定系表句推翻上一段的显眼结论。
 
 **为什么这样写**：它迫使读者从“在哪里发生”转向“什么机制造成波动”。
 
 ### ③ 门店大小
-
 > **原句 3:** "What counts is the size of the store."
 
 **中文理解**：真正重要的是商店的规模。
 
 **句子结构**：What counts 为主语从句；is the size of the store 为系表结构。
 
-**关键词**：What counts, size of the store, rural branches, vary greatly
+**关键词：** **：What counts, size of the store
 
 **表达方式**：用倒装式 what counts 突出真正的解释变量。
 
 **为什么这样写**：小店的单次事件会显著改变比率，平均值不能代表整体规律。
 
 ### ④ 创业公司 IQ
-
 > **原句 4:** "The National Institute’s study has zero significance."
 
 **中文理解**：该国家研究所的研究毫无意义。
 
 **句子结构**：The National Institute’s study 为主语；has zero significance 为系表结构。
 
-**关键词**：National Institute, study, zero significance, laws of chance
+**关键词：** **：National Institute, study, zero significance
 
 **表达方式**：用 zero 夸大否定，把研究归为随机法则的例证。
 

@@ -39,49 +39,46 @@ source_text: ch09_8_murder_your_darlings_confirmation_bias.txt
 
 **句子结构**：主语 We + 动词短语 are forced to；establish 后接关于多个领域的宾语，and more 表示未穷尽列举。
 
-**关键词**：establish beliefs, world, economy, investments, careers
+**关键词：** **：establish beliefs, world, economy, investments, careers
 
 **表达方式**：用领域清单表现信念不是少数哲学命题，而是日常判断的基础设施。
 
 **为什么这样写**：确认偏误之所以普遍，是因为人必须先有模型才能行动。
 
 ### ② 模糊预言
-
 > **原句 2:** "They utter prophecies so vague that any event can substantiate them."
 
 **中文理解**：他们发出如此模糊的预言，以至于任何事件都能证明它们成立。
 
 **句子结构**：主语 They + 谓语 utter；so... that... 结果结构，vague 修饰 prophecies，substantiate them 说明证明对象。
 
-**关键词**：prophecies, vague, substantiate, any event
+**关键词：** **：prophecies, vague, substantiate, any event
 
 **表达方式**：用 so... that... 把模糊性和不可证伪性连接成一条机制。
 
 **为什么这样写**：当命题没有清晰边界，任何结果都能被吸收，语言就失去了检验现实的能力。
 
 ### ③ 商业报道
-
 > **原句 3:** "Rarely does the writer seek out disconfirming evidence."
 
 **中文理解**：记者很少主动寻找反证。
 
 **句子结构**：Rarely 置于句首引起部分倒装；does the writer seek out 为倒装谓语。
 
-**关键词**：Rarely, writer, seek out, disconfirming evidence
+**关键词：** **：Rarely, writer, seek out, disconfirming evidence
 
 **表达方式**：用倒装正式句和 rarely 制造冷峻判断，直指报道的结构性遗漏。
 
 **为什么这样写**：作者批评的不是某个记者的偏见，而是专业报道流程中缺少反证搜索。
 
 ### ④ 信息回音室
-
 > **原句 4:** "We inevitably land in communities of like-minded people, further reinforcing our convictions—and the confirmation bias."
 
 **中文理解**：我们不可避免地进入志同道合者的社群，进一步强化自己的信念和确认偏误。
 
 **句子结构**：主句 We land in communities；further reinforcing... 为现在分词短语，our convictions 与 the confirmation bias 为并列宾语。
 
-**关键词**：inevitably, communities, like-minded, reinforcing
+**关键词：** **：inevitably, communities, like-minded, reinforcing
 
 **表达方式**：以 reinforcing 的进行式表现偏差在环境中持续自我复制。
 

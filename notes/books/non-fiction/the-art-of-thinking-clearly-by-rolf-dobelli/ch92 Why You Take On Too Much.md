@@ -39,56 +39,52 @@ source_text: ch92_91_why_you_take_on_too_much_planning_fal.txt
 
 **句子结构**：Your plans 为主语；are ambitious 为系表结构；absurdly 为程度副词。
 
-**关键词：** plans, absurdly, ambitious, overestimated
+**关键词：** plans, absurdly, ambitious
 
 **表达方式**：用带讽刺意味的副词强化批评。
 
 **为什么这样写**：它把每日超载从偶发失误提升为反复出现的系统倾向。
 
 ### ② 论文研究
-
 > **原句 2:** "On average, the students needed 50 percent more time than planned."
 
 **中文理解**：学生平均比计划多用 50% 的时间。
 
 **句子结构**：On average 为状语；the students 为主语；needed...than... 为比较结构。
 
-**关键词：** average, 50 percent, time than planned, deadline
+**关键词：** average, 50 percent, time than planned
 
 **表达方式**：用单一数字把规划失败量化。
 
 **为什么这样写**：百分比让“我总是做不完”变成可比较的基线问题。
 
 ### ③ 悉尼歌剧院
-
 > **原句 3:** "It finally opened its doors in 1973 after $102 million had been pumped in."
 
 **中文理解**：它最终在 1973 年开放，此前已投入 1.02 亿美元。
 
 **句子结构**：It 为主语；opened...after... 为时间状语；had been pumped in 为过去完成时被动结构。
 
-**关键词：** finally, 102 million, pumped in, original estimate
+**关键词：** finally, 102 million, pumped in
 
 **表达方式**：用日期和金额对照展示长期超支。
 
 **为什么这样写**：大型公共项目让读者直观看到规划误差如何累积成制度性成本。
 
 ### ④ 外部干扰
-
 > **原句 4:** "There goes the plan."
 
 **中文理解**：计划泡汤了。
 
 **句子结构**：There goes... 为倒装式独立句，强调计划突然消失。
 
-**关键词：** There goes the plan, unexpected events, outside influences, plan
+**关键词：** There goes the plan, plan
 
 **表达方式**：用极短感叹完成叙事转折。
 
 **为什么这样写**：它把鱼骨、电池和房屋报价等外部事件压缩成一个可感知的失败瞬间。
 
 ### ⑤ 预演失败
-
 > **原句 5:** "Imagine it is a year from today. We have followed the plan to the letter. The result is a disaster."
 
 **中文理解**：想象一年后的今天：我们完全照计划执行，结果是一场灾难。

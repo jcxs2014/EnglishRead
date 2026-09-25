@@ -39,63 +39,59 @@ source_text: ch71_70_why_propaganda_works_sleeper_effect.txt
 
 **句子结构**：The result 为主语；冒号后 They 为主语；did not intensify... 为否定谓语。
 
-**关键词**：disappointing, privates, enthusiasm for war, in the slightest
+**关键词：** **：disappointing, privates, enthusiasm for war, in the slightest
 
 **表达方式**：用冒号连接实验结论与具体范围。
 
 **为什么这样写**：即时没有效果，正是后续“睡眠者效应”出现的必要反差。
 
 ### ② 延迟效果
-
 > **原句 2:** "Whoever had seen the movie expressed much more support for the war than those who had not viewed it."
 
 **中文理解**：看过电影的人比没看过的人表达出更多对战争的支持。
 
 **句子结构**：Whoever had seen... 为主语从句；than those who had not viewed it 为比较结构。
 
-**关键词**：Whoever had seen, much more support, than those who had not
+**关键词：** **：Whoever had seen, much more support, than those who had not
 
 **表达方式**：用相对群体对照突出差异。
 
 **为什么这样写**：它把“毫无作用”的初步结论翻转成延迟效应。
 
 ### ③ 半衰期
-
 > **原句 3:** "It has a half-life like a radioactive substance."
 
 **中文理解**：它像放射性物质一样有半衰期。
 
 **句子结构**：It 为主语；has a half-life 为系表结构；like a radioactive substance 为比较短语。
 
-**关键词**：half-life, radioactive substance, persuasiveness, time
+**关键词：** **：half-life, radioactive substance
 
 **表达方式**：借科学术语比喻说服力的衰减。
 
 **为什么这样写**：它让抽象的记忆变化具有可感知的数量模型。
 
 ### ④ 来源消退
-
 > **原句 4:** "The discrediting force melts away faster than the message does."
 
 **中文理解**：使人不再信任来源的力量，比信息本身消失得更快。
 
 **句子结构**：The discrediting force 为主语；melts away 为谓语；than the message does 为比较结构。
 
-**关键词**：discrediting force, melts away, message, faster
+**关键词：** **：discrediting force, melts away, message, faster
 
 **表达方式**：用“融化”隐喻呈现来源污名的消退。
 
 **为什么这样写**：它准确概括了睡眠者效应的关键：消息脱离了质疑它的标签。
 
 ### ⑤ 防护
-
 > **原句 5:** "Third, try to remember the source of every argument you encounter."
 
 **中文理解**：第三，尝试记住你遇到的每个论证的来源。
 
 **句子结构**：祈使句 Third 提示序号；try to remember 为谓语；the source... 为宾语。
 
-**关键词**：remember the source, every argument, encounter, Probe
+**关键词：** **：remember the source, every argument, encounter
 
 **表达方式**：用行动清单把机制转成可执行的防御。
 

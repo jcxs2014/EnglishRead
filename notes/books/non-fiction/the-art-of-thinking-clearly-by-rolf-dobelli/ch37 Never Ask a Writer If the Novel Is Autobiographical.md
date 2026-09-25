@@ -39,63 +39,55 @@ source_text: ch37_36_never_ask_a_writer_if_the_novel_is_au.txt
 
 **句子结构**：直接引语为系表结构；it seems 为插入式评语。
 
-**关键词**：Every story, has a face, seems
+**关键词：** Every story, has a face, seems
 
 **表达方式**：用拟人化的“脸”概括新闻叙事。
 
 **为什么这样写**：故事需要面孔才能被记住，媒体因此优先寻找领导者、英雄和罪魁祸首。
 
-### ② 偏误定义
-
-> **原句 2:** "This describes the tendency to overestimate individuals’ influence and underestimate external, situational factors."
+### ② 偏误定义> **原句 2:** "This describes the tendency to overestimate individuals’ influence and underestimate external, situational factors."
 
 **中文理解**：这描述的是高估个人影响、低估外部情境因素的趋势。
 
 **句子结构**：This describes the tendency；to overestimate... 和 underestimate... 为并列不定式。
 
-**关键词**：overestimate, individuals’ influence, underestimate, situational factors
+**关键词：** overestimate, individuals’ influence, underestimate, situational factors
 
 **表达方式**：用 overestimate / underestimate 的对称结构同时界定偏误两端。
 
 **为什么这样写**：定义指出问题不是“相信人”，而是把情境权重压得过低。
 
-### ③ 实验归因
-
-> **原句 3:** "They falsely attributed the content of the speech to his character and ignored the external factors..."
+### ③ 实验归因> **原句 3:** "They falsely attributed the content of the speech to his character and ignored the external factors..."
 
 **中文理解**：他们错误地把演讲内容归因于他的性格，忽视外部因素。
 
 **句子结构**：They 为主语；attributed...to... 与 ignored... 为并列谓语。
 
-**关键词**：falsely attributed, content, his character, external factors
+**关键词：** falsely attributed, content, his character, external factors
 
 **表达方式**：用 falsely 与 ignored 对照，把注意力和归因方向同时标出。
 
 **为什么这样写**：教授只负责写作，受众却把文本内容当成作者稳定人格，忽略了任务分配的外部约束。
 
-### ④ 简化归罪
-
-> **原句 4:** "Hitler singlehandedly caused World War II."
+### ④ 简化归罪> **原句 4:** "Hitler singlehandedly caused World War II."
 
 **中文理解**：希特勒单枪匹马导致了第二次世界大战。
 
 **句子结构**：Hitler 为主语；singlehandedly caused... 为谓语；World War II 为宾语。
 
-**关键词**：Hitler, singlehandedly, caused, World War II
+**关键词：** Hitler, singlehandedly, caused, World War II
 
 **表达方式**：用 singlehandedly 将复杂历史压缩成单一因果链。
 
 **为什么这样写**：简单归罪让人感觉可控，却也掩盖了军事、经济、制度和多重参与者。
 
-### ⑤ 情境之舞
-
-> **原句 5:** "Pay close attention to the dance of influences to which the actors are subjected."
+### ⑤ 情境之舞> **原句 5:** "Pay close attention to the dance of influences to which the actors are subjected."
 
 **中文理解**：密切关注演员所承受的影响之舞。
 
 **句子结构**：Pay close attention 为祈使句；to the dance of influences 为介词短语；to which... 为关系从句。
 
-**关键词**：Pay close attention, dance of influences, actors, subjected
+**关键词：** Pay close attention, dance of influences, actors, subjected
 
 **表达方式**：用舞蹈比喻情境与个人的互动，而非把人写成孤立原因。
 

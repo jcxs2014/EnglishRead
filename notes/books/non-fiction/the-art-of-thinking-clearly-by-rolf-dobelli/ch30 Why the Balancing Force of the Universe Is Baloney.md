@@ -39,63 +39,59 @@ source_text: ch30_29_why_the_balancing_force_of_the_univer.txt
 
 **句子结构**：It 为形式主语；had to change 为过去将来结构，eventually 为时间状语。
 
-**关键词**：change eventually, had to
+**关键词：** **：change eventually, had to
 
 **表达方式**：用感叹号把心理上的必然期待变成情绪爆发。
 
 **为什么这样写**：赌徒谬误的核心不是计算，而是对“必须纠正”的强烈体感。
 
 ### ② IQ 样本
-
 > **原句 2:** "Forty-nine times 100 plus one IQ of 150 gives us an average of 101 in the sample."
 
 **中文理解**：四十九乘以 100 再加一个 150，得到样本平均值 101。
 
 **句子结构**：主语 A plus B + 第三个加数，谓语 gives；four-nine times 100 为无系数乘法的数量表达。
 
-**关键词**：Forty-nine times 100, one IQ of 150, average of 101
+**关键词：** **：Forty-nine times 100, one IQ of 150, average of 101
 
 **表达方式**：用一个简单算式击破“极端值必被其他极端值抵消”的直觉。
 
 **为什么这样写**：小样本不会自动制造平衡，统计平均是加权计算，不是神秘的对称宇宙。
 
 ### ③ 定义
-
 > **原句 3:** "The gambler’s fallacy leads us to believe that something must change."
 
 **中文理解**：赌徒谬错误导我们相信某件事必然发生变化。
 
 **句子结构**：主句 The gambler’s fallacy + 谓语 leads；us 为宾语，to believe... 为不定式补足语，that... 为宾语从句。
 
-**关键词**：gambler’s fallacy, leads us, believe, something must change
+**关键词：** **：gambler’s fallacy, leads us, believe, something must change
 
 **表达方式**：用定义句直接命名思维路径。
 
 **为什么这样写**：把“我觉得下一轮该反转”从个人感觉提升为可识别的系统性错误。
 
 ### ④ 独立事件
-
 > **原句 4:** "A ball cannot remember how many times it has landed on black."
 
 **中文理解**：球不可能记得自己有多少次落在黑色上。
 
 **句子结构**：否定句 cannot + 动词原形；how many times... 为宾语从句。
 
-**关键词**：ball, cannot remember, landed on black
+**关键词：** **：ball, cannot remember, landed on black
 
 **表达方式**：赋予球“记忆”以拟人化效果，迅速说明随机设备没有历史。
 
 **为什么这样写**：赌徒谬误的荒谬可从因果机制看出：设备没有记忆，过去不构成未来的原因。
 
 ### ⑤ 独立与非独立
-
 > **原句 5:** "What has already happened has an influence on what will happen."
 
 **中文理解**：已经发生的事情会影响将要发生的事情。
 
 **句子结构**：What has already happened 为主语从句，has influence... 为谓语；what will happen 为宾语从句。
 
-**关键词**：already happened, influence, what will happen
+**关键词：** **：already happened, influence, what will happen
 
 **表达方式**：用重复的 what 从句结构区分过去与未来，同时保留条件限定。
 

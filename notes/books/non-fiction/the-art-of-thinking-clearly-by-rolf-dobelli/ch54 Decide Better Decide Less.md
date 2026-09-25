@@ -39,63 +39,59 @@ source_text: ch54_53_decide_better_decide_less_decision_fa.txt
 
 **句子结构**：Which slot 为疑问词作宾语；do you choose 为一般现在时疑问结构。
 
-**关键词**：Which slot, choose, CEO’s assistant
+**关键词：** **：Which slot, choose
 
 **表达方式**：用简单问题让读者立刻代入选择。
 
 **为什么这样写**：决策疲劳不是抽象概念，而是从选择时间、衣服或商品开始逐渐累积。
 
 ### ② 冰水实验
-
 > **原句 2:** "The deciders pulled their hands out of the icy water much sooner than the non-deciders did."
 
 **中文理解**：决策组比非决策组更早把手从冰水中抽出。
 
 **句子结构**：The deciders 为主语；pulled their hands out 为谓语；than the non-deciders did 为省略比较结构。
 
-**关键词**：deciders, pulled their hands, icy water, sooner
+**关键词：** **：deciders, pulled their hands, icy water, sooner
 
 **表达方式**：用 sooner 而非具体秒数，保留实验结论的核心比较。
 
 **为什么这样写**：意志力耗竭被转换成可见的“坚持时间”，让心理成本变得容易理解。
 
 ### ③ 决策疲劳定义
-
 > **原句 3:** "Science calls this decision fatigue."
 
 **中文理解**：科学界把这称为决策疲劳。
 
 **句子结构**：Science 为主语；calls this decision fatigue 为动宾结构，this 为宾语。
 
-**关键词**：Science, calls, decision fatigue
+**关键词：** **：Science, calls, decision fatigue
 
 **表达方式**：用一句命名句把实验现象接入公共语言。
 
 **为什么这样写**：命名帮助读者在购物、招聘和谈判中识别“只是累了”的状态。
 
 ### ④ 意志力像电池
-
 > **原句 4:** "Willpower is like a battery."
 
 **中文理解**：意志力就像一块电池。
 
 **句子结构**：Willpower 为主语；is like a battery 为系表比喻结构。
 
-**关键词**：Willpower, like a battery, runs out, recharged
+**关键词：** **：Willpower, like a battery
 
 **表达方式**：用日常物品比喻有限心理资源。
 
 **为什么这样写**：它解释了为什么高摩擦、高要求的决定不能无限连续进行。
 
 ### ⑤ 法官的疲惫
-
 > **原句 5:** "They took the easy option (the status quo) and the men remained in jail."
 
 **中文理解**：他们选择了最容易的选项（维持现状），于是那些人继续留在监狱。
 
 **句子结构**：They 为主语；took the easy option 为谓语；and 连接结果分句；the men remained in jail 为被动结果。
 
-**关键词**：easy option, status quo, remained in jail
+**关键词：** **：easy option, status quo, remained in jail
 
 **表达方式**：用括号解释抽象选项，用结果句显示制度后果。
 

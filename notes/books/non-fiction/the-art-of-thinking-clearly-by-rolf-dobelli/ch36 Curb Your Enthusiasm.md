@@ -39,63 +39,59 @@ source_text: ch36_35_curb_your_enthusiasm_winner_s_curse.txt
 
 **句子结构**：The lowest assessment 与 The highest is... 构成平行句；数字对比替代解释。
 
-**关键词**：lowest assessment, $10 million, highest, $100 million
+**关键词：** **：lowest assessment, $10 million, highest, $100 million
 
 **表达方式**：用十倍价差建立估值不确定性。
 
 **为什么这样写**：当报价范围极宽时，最高价最可能来自过高估计，而不是最准确的判断。
 
 ### ② 真实价值
-
 > **原句 2:** "The highest bid at an auction is often much too high..."
 
 **中文理解**：拍卖中的最高出价往往高得过头。
 
 **句子结构**：The highest bid 为主语；is often much too high 为系表结构，unless 引导例外条件。
 
-**关键词**：highest bid, auction, much too high, unless
+**关键词：** **：highest bid, auction, much too high
 
 **表达方式**：用“通常”保留概率语义，再以 unless 补充信息优势这一例外。
 
 **为什么这样写**：赢家诅咒不是“最高价必错”，而是在价值未知时最高价最可能来自偏误。
 
 ### ③ 互联网竞拍
-
 > **原句 3:** "Thirty painters from more than three hundred miles away competed for the job."
 
 **中文理解**：来自三百多英里外的三十名油漆工竞争这份工作。
 
 **句子结构**：Thirty painters 为主语；from more than... away 为地点/来源状语；competed for... 为谓语。
 
-**关键词**：Thirty painters, three hundred miles, competed, job
+**关键词：** **：Thirty painters, three hundred miles, competed, job
 
 **表达方式**：用具体人数和距离夸大供给竞争的荒诞。
 
 **为什么这样写**：广泛竞争会压低报价，说明竞拍机制不只制造高价，也可能制造低于合理成本的价格。
 
 ### ④ 竞争性
-
 > **原句 4:** "Everyone wants to be the official supplier to Apple, even though whoever gets the contract is likely to lose money."
 
 **中文理解**：每个人都想成为 Apple 的官方供应商，尽管中标者很可能亏钱。
 
 **句子结构**：Everyone wants... 为主句；even though 引导让步从句，whoever gets... 为名词性从句。
 
-**关键词**：official supplier, Apple, whoever gets, likely to lose money
+**关键词：** **：official supplier, Apple, whoever gets, likely to lose money
 
 **表达方式**：用“人人想赢”与“赢家可能亏钱”的反差揭示竞争性激励。
 
 **为什么这样写**：中标的社会收益和荣誉会压过项目的经济回报，使个人理性被竞拍情绪覆盖。
 
 ### ⑤ 最高价格
-
 > **原句 5:** "Write this number on a piece of paper and don’t go a cent over it."
 
 **中文理解**：把这个数字写在纸上，绝不要多出一分钱。
 
 **句子结构**：祈使句 Write this number...；and don’t go a cent over it 为并列祈使结构。
 
-**关键词**：Write this number, piece of paper, don’t go a cent over it
+**关键词：** **：Write this number, piece of paper, don’t go a cent over it
 
 **表达方式**：把抽象的最高价变成可执行的书面上限，保留“绝不越过”的强约束。
 

@@ -38,77 +38,72 @@ source_text: ch41_40_false_prophets_forecast_illusion.txt
 
 **句子结构**：Every day 为时间状语；experts 为主语；bombard us with predictions 为谓语；but 引导省略疑问分句。
 
-**关键词**：Every day, experts, bombard, predictions, reliable
+**关键词：** **：Every day, experts, bombard, predictions, reliable
 
 **表达方式**：用 bombard 把信息过载写成攻击性隐喻。
 
 **为什么这样写**：它把被动接收预测的问题改写为主动检查可靠性的责任。
 
 ### ② 专家与随机预测比较
-
 > **原句 2:** "In terms of accuracy, the experts fared only marginally better than a random forecast generator."
 
 **中文理解**：就准确率而言，专家的表现只比随机预测生成器略好。
 
 **句子结构**：In terms of accuracy 为方式状语；experts 为主语；fared only marginally better than... 为比较结构。
 
-**关键词**：accuracy, fared, marginally, random forecast generator
+**关键词：** **：accuracy, fared, marginally, random forecast generator
 
 **表达方式**：用 marginally better 把权威评价压缩成有限优势。
 
 **为什么这样写**：与随机基线比较，避免把“看起来有道理”误认为“有预测能力”。
 
 ### ③ 预测者的激励
-
 > **原句 3:** "The problem is that experts enjoy free rein with few negative consequences."
 
 **中文理解**：问题在于专家可以不受约束地预测，却很少承担负面后果。
 
 **句子结构**：主语从句 The problem is that...；从句 experts enjoy free rein with few negative consequences。
 
-**关键词**：free rein, negative consequences, experts
+**关键词：** **：free rein, negative consequences, experts
 
 **表达方式**：用 free rein 和 few consequences 呈现权力与责任失衡。
 
 **为什么这样写**：预测正确带来声誉，错误几乎没有代价，这种奖惩结构会鼓励不断制造预测。
 
 ### ④ 复杂系统
-
 > **原句 4:** "However, the more complex a system, and the longer the time frame, the more blurred the view of the future will be."
 
 **中文理解**：系统越复杂、时间跨度越长，对未来的视野就越模糊。
 
 **句子结构**：the more...the more... 引导比较结构，两个 the more 并列修饰 complex 和 blurred。
 
-**关键词**：complex system, time frame, blurred, future
+**关键词：** time frame, blurred, future
 
 **表达方式**：用视觉模糊化表达预测难度。
 
 **为什么这样写**：它把不可预测性从个人能力不足转移到问题结构，避免把复杂系统误当成个人智力问题。
 
 ### ⑤ 两个审查问题
-
 > **原句 5:** "First, what incentive does the expert have?"
 
 **中文理解**：第一，专家有什么激励？
 
 **句子结构**：First 为序号状语；what 引导特殊疑问句作表语；the expert 为疑问词组。
 
-**关键词**：First, incentive, expert
+**关键词：** **：First, incentive, expert
 
 **表达方式**：用短问句把抽象的激励分析变成操作清单。
 
 **为什么这样写**：读者可以直接追问预测者的收入、声誉和职业风险，而不必接受其权威姿态。
 
 ### ⑥ 结尾反讽
-
 > **原句 6:** "I don’t make predictions. I never have, and I never will."
 
 **中文理解**：我不做预测。我从未做过，以后也不会做。
 
 **句子结构**：三个否定陈述构成排比；后两句省略主语和助动词。
 
-**关键词**：don’t make predictions, never have, never will
+**关键词：** **：don’t make predictions, never have, never will
 
 **表达方式**：以权威人物的自我限制结束对预测的批评。
 

@@ -39,35 +39,33 @@ source_text: ch29_28_when_you_hear_hoofbeats_don_t_expect_.txt
 
 **句子结构**：比较结构 more A than B；twice 等数量修饰 more，句末用名词短语而非分句。
 
-**关键词**：truck drivers, literature professors, ten thousand times
+**关键词：** **：truck drivers, literature professors, ten thousand times
 
 **表达方式**：用数量级差异把模糊的职业印象变成粗略概率。
 
 **为什么这样写**：Mark 的外貌和爱好是醒目的细节，但真正决定可能性的仍是基率。
 
 ### ② 偏误命名
-
 > **原句 2:** "The detailed description enticed us to overlook the statistical reality."
 
 **中文理解**：详细描述诱使我们忽视统计现实。
 
 **句子结构**：主句 The detailed description + 谓语 enticed；us 为不定式逻辑主语，to overlook... 为不定式补足语。
 
-**关键词**：detailed description, enticed, overlook, statistical reality
+**关键词：** **：detailed description, enticed, overlook, statistical reality
 
 **表达方式**：把叙事吸引力描述成诱因，明确错误的心理来源。
 
 **为什么这样写**：问题不在于人不会概率，而在于故事线索会劫持注意力，让人忘记分母。
 
 ### ③ 医疗格言
-
 > **原句 3:** “When you hear hoofbeats behind you, don’t expect to see a zebra,”
 
 **中文理解**：“当你身后传来蹄声时，不要期待看到斑马。”
 
 **句子结构**：When 引导时间从句，主句省略主语，don’t expect... 为否定祈使句。
 
-**关键词**：hoofbeats, don’t expect, zebra
+**关键词：**：hoofbeats, don’t expect, zebra
 
 **表达方式**：用马与斑马的视觉对照承载医学诊断原则。
 
@@ -81,21 +79,20 @@ source_text: ch29_28_when_you_hear_hoofbeats_don_t_expect_.txt
 
 **句子结构**：主语 The probability + of 从句；that 从句作同位语说明概率内容。
 
-**关键词**：probability, firm, survive, first five years
+**关键词：** **：probability, firm, survive, first five years
 
 **表达方式**：用单一数字打破创业者对“下一个 Google”的兴奋。
 
 **为什么这样写**：当失败案例不可见时，基率是唯一能校正故事偏差的外部约束。
 
 ### ⑤ 概率课程
-
 > **原句 5:** "With a degree from this school, your chance of landing a spot on the board of a Fortune 500 company is less than 0.1 percent."
 
 **中文理解**：拥有这所学校的学位，进入财富 500 强公司董事会的概率低于 0.1%。
 
 **句子结构**：With 复合结构作条件状语；主句 your chance... is...，of landing... 说明概率事件。
 
-**关键词**：degree, chance, board, Fortune 500, 0.1 percent
+**关键词：** **：degree, chance, board, Fortune 500, 0.1 percent
 
 **表达方式**：以精确的“低于 0.1%”直接挑战精英学生的自我叙事。
 

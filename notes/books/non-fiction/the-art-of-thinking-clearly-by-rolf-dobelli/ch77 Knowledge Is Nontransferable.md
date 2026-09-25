@@ -39,63 +39,59 @@ source_text: ch77_76_knowledge_is_nontransferable_domain_d.txt
 
 **句子结构**：The conclusion 为主语冒号提示；Insights 为主语；do not pass well from...to... 为否定谓语。
 
-**关键词**：Insights, do not pass well, one field, another
+**关键词：** **：Insights, do not pass well, one field, another
 
 **表达方式**：用定义性结论收束演讲观察。
 
 **为什么这样写**：先呈现医生和投资者的不同反应，再给出领域依赖的定义。
 
 ### ② Markowitz
-
 > **原句 2:** "He simply opted for fifty-fifty distribution."
 
 **中文理解**：他干脆选择了五五分配。
 
 **句子结构**：He 为主语；opted for 为谓语；fifty-fifty distribution 为宾语。
 
-**关键词**：opted for, fifty-fifty, distribution, portfolio
+**关键词：** **：opted for, fifty-fifty, distribution
 
 **表达方式**：用简洁动作反衬理论的复杂与个人选择的普通。
 
 **为什么这样写**：它让抽象的领域依赖变成一个令人意外的诺贝尔奖得主故事。
 
 ### ③ 技能迁移
-
 > **原句 3:** "The new position blunts his talents; transferring his sales skills from products to services is exceedingly difficult."
 
 **中文理解**：新职位削弱了他的才能；把销售技能从产品转移到服务极其困难。
 
 **句子结构**：The new position 为主语；blunts 为谓语；transferring... 为动名词主语；is difficult 为系表结构。
 
-**关键词**：new position, blunts, transferring, exceedingly difficult
+**关键词：** **：new position, blunts, transferring, exceedingly difficult
 
 **表达方式**：用分号连接影响与机制。
 
 **为什么这样写**：它指出职位变化不是能力总量变化，而是能力与场景的匹配关系改变。
 
 ### ④ 私人领域
-
 > **原句 4:** "I know CEOs who are charismatic leaders in the office and hopeless duds at home."
 
 **中文理解**：我知道一些 CEO 在办公室是魅力领导者，在家里却笨手笨脚。
 
 **句子结构**：I know 为主语；who 引导定语从句；and 连接两个场景。
 
-**关键词**：charismatic leaders, office, hopeless duds, home
+**关键词：** **：charismatic leaders, office, hopeless duds, home
 
 **表达方式**：用办公室与家庭的强对比呈现能力的情境性。
 
 **为什么这样写**：职业领域的成功不能自动证明私人生活的适应能力。
 
 ### ⑤ 学术到现实
-
 > **原句 5:** "Book smarts don’t transfer to street smarts easily."
 
 **中文理解**：书本智慧不容易迁移为街头智慧。
 
 **句子结构**：Book smarts 为主语；don’t transfer to 为否定谓语；street smarts 为宾语。
 
-**关键词**：Book smarts, transfer, street smarts, easily
+**关键词：** **：Book smarts, transfer, street smarts, easily
 
 **表达方式**：用对偶短语完成全章收束。
 

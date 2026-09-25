@@ -39,63 +39,59 @@ source_text: ch95_94_the_boat_matters_more_than_the_rowing.txt
 
 **句子结构**：Serial entrepreneurs 为主语；account for... 为谓语；less than 1 percent 为比例补语。
 
-**关键词：serial entrepreneurs, account for, less than 1 percent, company
+**关键词：** serial entrepreneurs, account for, less than 1 percent, company
 
 **表达方式**：用精确比例把疑问转成可观察现象。
 
 **为什么这样写**：如果第一次成功主要来自技能，连续创业比例应该更高；低比例促使读者检验技能假说。
 
 ### ② 运气更大
-
 > **原句 2:** "Luck plays a bigger role than skill does."
 
 **中文理解**：运气发挥的作用比技能更大。
 
 **句子结构**：Luck 为主语；plays...role 为谓语；than skill does 为比较结构。
 
-**关键词：Luck, bigger role, skill, illusion of skill
+**关键词：** Luck, bigger role, skill
 
 **表达方式**：用直接比较句给出反直觉结论。
 
 **为什么这样写**：作者把商业成功从能力叙事重新拉回随机性解释。
 
 ### ③ 长期检验
-
 > **原句 3:** "when they enjoy more success in the long run compared to less qualified people"
 
 **中文理解**：当他们在长期中比能力更弱的人取得更多成功时。
 
 **句子结构**：when 引导时间/条件状语从句；they 为主语；enjoy more success 为谓语；compared to... 为比较结构。
 
-**关键词：long run, more success, less qualified, essential element
+**关键词：** long run, more success, less qualified
 
 **表达方式**：用持续比较替代一次成功来定义技能证据。
 
 **为什么这样写**：它把技能从短期结果中剥离出来，要求可重复的长期表现作为证据。
 
 ### ④ CEO 对比
-
 > **原句 4:** "If you compare two companies at random, in 60 percent of cases, the stronger CEO leads the stronger company."
 
 **中文理解**：如果随机比较两家公司，60% 的情况下，更强的 CEO 领导更强的公司。
 
 **句子结构**：If 引导条件状语从句；in 60 percent of cases 为插入状语；主句为 the stronger CEO leads the stronger company。
 
-**关键词：compare two companies, stronger CEO, stronger company, random
+**关键词：** compare two companies, stronger CEO, stronger company, random
 
 **表达方式**：用随机比较和百分比弱化 CEO 崇拜。
 
 **为什么这样写**：如果 CEO 真是决定性因素，相关比例应远高于 60%；数据迫使读者重新估计个人贡献。
 
 ### ⑤ 船与桨
-
 > **原句 5:** "A good managerial record . . . is far more a function of what business boat you get into than it is of how effectively you row."
 
 **中文理解**：好的管理记录更多取决于你进入了什么商业之船，而不是你划得多有效率。
 
 **句子结构**：A good managerial record 为主语；is...function of... 为系表结构；than... 比较两个决定因素。
 
-**关键词：managerial record, business boat, row, effectively
+**关键词：** managerial record, business boat, row, effectively
 
 **表达方式**：用航海隐喻拆分环境与个人努力。
 

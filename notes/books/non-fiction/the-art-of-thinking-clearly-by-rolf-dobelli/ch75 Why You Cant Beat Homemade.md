@@ -39,63 +39,59 @@ source_text: ch75_74_why_you_can_t_beat_homemade_not_inven.txt
 
 **句子结构**：I 为主语；was guilty of 为系表结构；the syndrome 为介词宾语。
 
-**关键词**：guilty, not-invented-here syndrome, NIH syndrome, self
+**关键词：** **：guilty, not-invented-here syndrome
 
 **表达方式**：用自嘲承认判断错误。
 
 **为什么这样写**：把一次烹调失败变成可迁移的组织认知案例。
 
 ### ② 外部方案
-
 > **原句 2:** "Most insurers are convinced that the best solution is what they have crafted themselves in-house."
 
 **中文理解**：大多数保险公司确信，最好的解决方案就是他们自己内部打造的系统。
 
 **句子结构**：Most insurers 为主语；are convinced that... 为宾语从句；what they have crafted... 为表语。
 
-**关键词**：insurers, convinced, best solution, crafted themselves
+**关键词：** **：insurers, convinced, best solution, crafted themselves
 
 **表达方式**：用“内部打造”突出自我评价的封闭性。
 
 **为什么这样写**：它把 NIH 从个人偏好扩展为机构购买软件时的系统性失败。
 
 ### ③ 团队分工
-
 > **原句 3:** "The first group generates ideas, the second rates them, and vice versa."
 
 **中文理解**：第一组提出想法，第二组评价想法，反之亦然。
 
 **句子结构**：三个并列分句共享主语逻辑；first、second 和 vice versa 形成交换关系。
 
-**关键词**：generates ideas, rates them, vice versa, groups
+**关键词：** **：generates ideas, rates them, vice versa
 
 **表达方式**：用对称结构给出组织流程。
 
 **为什么这样写**：交换生成与评价角色，能降低自己评价自己造成的系统性高估。
 
 ### ④ 相同答案
-
 > **原句 4:** "the majority rated their own responses as more important and applicable than the others"
 
 **中文理解**：多数人认为自己的回答比别人更重要、更适用。
 
 **句子结构**：the majority 为主语；rated...as... 为谓语；than the others 为比较结构。
 
-**关键词**：majority, own responses, important, applicable
+**关键词：** **：majority, own responses, important, applicable
 
 **表达方式**：用自我优先的评价结果呈现偏见。
 
 **为什么这样写**：当建议被统一限制为相同答案时，差异只能来自评价者的自我偏好。
 
 ### ⑤ 回看
-
 > **原句 5:** "We are drunk on our own ideas."
 
 **中文理解**：我们沉醉在自己的想法里。
 
 **句子结构**：We 为主语；are drunk on 为系表短语；our own ideas 为介词宾语。
 
-**关键词**：drunk, own ideas, sober up, hindsight
+**关键词：** **：drunk, own ideas
 
 **表达方式**：用醉酒比喻自负与执着。
 

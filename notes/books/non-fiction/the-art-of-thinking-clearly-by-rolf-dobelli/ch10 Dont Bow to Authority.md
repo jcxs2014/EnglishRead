@@ -39,63 +39,59 @@ source_text: ch10_9_don_t_bow_to_authority_authority_bias.txt
 
 **句子结构**：主语 Authorities + 谓语 pose；two main problems 为宾语，to clear thinking 说明对象。
 
-**关键词**：Authorities, pose, main problems, clear thinking
+**关键词：** **：Authorities, pose, main problems, clear thinking
 
 **表达方式**：用短句开门，把抽象偏见转成明确问题清单。
 
 **为什么这样写**：作者不立即展开权威的优点，而先承认它对判断存在系统性干扰。
 
 ### ② 专家预测失败
-
 > **原句 2:** "There are about one million trained economists on the planet, and not one of them could accurately predict the timing of the 2008 financial crisis..."
 
 **中文理解**：地球上有大约一百万名受过训练的经济学家，却没有一个人能准确预测 2008 年金融危机的时点。
 
 **句子结构**：There are... 为存在句；and not one of them... 与前句形成数量与能力上的强烈反差，who 从句修饰 economists。
 
-**关键词**：trained economists, predict, timing, financial crisis
+**关键词：** **：trained economists, predict, timing, financial crisis
 
 **表达方式**：用“一百万对零”的数量对比让权威记录的局限具有冲击力。
 
 **为什么这样写**：专业身份与预测结果之间的落差，提醒读者不要把头衔当作未来判断的保证。
 
 ### ③ 服从实验
-
 > **原句 3:** "The majority of people continued with the electrocution."
 
 **中文理解**：大多数人都继续进行了电击。
 
 **句子结构**：主语 The majority of people + 谓语 continued；with the electrocution 为方式补足语。
 
-**关键词**：majority of people, continued, electrocution
+**关键词：** **：majority of people, continued, electrocution
 
 **表达方式**：用极短结果句落在行动上，避免用抽象的“服从”替代具体后果。
 
 **为什么这样写**：Milgram 案例的可冲击性不在实验细节，而在多数人把伤害行为继续执行下去。
 
 ### ④ 公开质疑
-
 > **原句 4:** "They carefully deprogram the authority bias."
 
 **中文理解**：他们小心地“去编程化”权威偏误。
 
 **句子结构**：主语 They + 谓语 deprogram；the authority bias 为宾语，carefully 修饰动作。
 
-**关键词**: deprogram, authority bias, carefully
+**关键词：** **: deprogram, authority bias, carefully
 
 **表达方式**：把组织干预拟写成“去除预设程序”，暗示权威反应可以被训练修正。
 
 **为什么这样写**：CRM 的价值在于制度化地让机组成员说“不同意见”，而不是依赖个人勇气。
 
 ### ⑤ 权威符号
-
 > **原句 5:** "Doctors and researchers sport white coats."
 
 **中文理解**：医生和研究者穿白大褂。
 
 **句子结构**：主语 Doctors and researchers + 谓语 sport；white coats 为宾语。
 
-**关键词**：Doctors, researchers, white coats
+**关键词：** **：Doctors, researchers, white coats
 
 **表达方式**：用列举衣物和身份符号，把权威的视觉编码具体化。
 

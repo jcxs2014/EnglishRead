@@ -39,63 +39,59 @@ source_text: ch34_33_why_teams_are_lazy_social_loafing.txt
 
 **句子结构**：主语 The power... + 谓语 did not equal；of two animals... 与 of a single horse 分别作后置定语。
 
-**关键词**：power, two animals, equal twice, single horse
+**关键词：** **：power, two animals, equal twice, single horse
 
 **表达方式**：用倍数量词把集体力量与个体数量直接对照。
 
 **为什么这样写**：先从马匹实验建立直觉，再把同一机制迁移到人类团队。
 
 ### ② 个人贡献
-
 > **原句 2:** "It occurs when individual performance is not directly visible; it blends into the group effort."
 
 **中文理解**：当个人表现不可直接看见时，社会懈怠就会发生；它融入集体努力之中。
 
 **句子结构**：When 引导时间/条件从句；主句 it blends into...，两个分句由分号连接。
 
-**关键词**：individual performance, directly visible, blends, group effort
+**关键词：** **：individual performance, directly visible, blends, group effort
 
 **表达方式**：用“融入”解释贡献如何失去边界。
 
 **为什么这样写**：社会懈怠的机制不是没有能力，而是个人努力被集体结果吸收后难以追责。
 
 ### ③ 责任
-
 > **原句 3:** "Our input doesn’t grind to a complete halt."
 
 **中文理解**：我们的投入并不会完全停止。
 
 **句子结构**：主句 Our input + 动词短语 doesn’t grind；to a complete halt 为介词短语。
 
-**关键词**：input, doesn’t grind, complete halt
+**关键词：** **：input, doesn’t grind, complete halt
 
 **表达方式**：用“不会完全停摆”保留贡献空间，避免把懈怠绝对化。
 
 **为什么这样写**：团队中的人通常会减少努力，而不是彻底退出；制度要利用这一点设计可观察的贡献。
 
 ### ④ 团队规模
-
 > **原句 4:** "However, once a certain number of participants are involved, our performance plateaus."
 
 **中文理解**：然而，一旦参与人数达到某个数量，我们的表现就趋于平台。
 
 **句子结构**：once 引导时间从句；主句 our performance plateaus，certain number of participants 参与结构复杂化。
 
-**关键词**：participants, performance, plateaus
+**关键词：** **：participants, performance, plateaus
 
 **表达方式**：用 plateaus 描述团队规模增加后边际投入不再增加。
 
 **为什么这样写**：从二十人到一百人，团队表现可能不再改善，说明扩大人数不能自动改善集体产出。
 
 ### ⑤ 责任扩散
-
 > **原句 5:** "Nobody wants to take the rap for the misdeeds or poor decisions of the whole group."
 
 **中文理解**：没人愿意为整个团队的错误行为或糟糕决策承担责任。
 
 **句子结构**：Nobody wants to take the rap；for... 为介词短语，misdeeds 与 poor decisions 并列。
 
-**关键词**：take the rap, misdeeds, poor decisions, whole group
+**关键词：** **：take the rap, misdeeds, poor decisions, whole group
 
 **表达方式**：用 take the rap 的口语表达把抽象责任转成个人承担风险的现实代价。
 

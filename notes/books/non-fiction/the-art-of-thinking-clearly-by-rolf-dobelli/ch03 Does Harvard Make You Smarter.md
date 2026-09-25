@@ -38,77 +38,72 @@ source_text: ch03_2_does_harvard_make_you_smarter_swimmer_.txt
 
 **句子结构**：两个分句以 not... because... 和 Rather, ... because... 构成明确因果反转。
 
-**关键词**：professional swimmers, perfect bodies, train extensively, physique
+**关键词：** **：professional swimmers, perfect bodies, train extensively, physique
 
 **表达方式**：用重复的 because 形成同词反义，强化因果关系的倒置。
 
 **为什么这样写**：先把大众熟悉的“训练塑造身体”翻转成“身体帮助成为运动员”，让选择效应变得可见。
 
 ### ② 选择因素
-
 > **原句 2:** "Whenever we confuse selection factors with results, we fall prey to what Taleb calls the swimmer’s body illusion."
 
 **中文理解**：每当我们混淆选择因素与结果，就会落入 Taleb 所谓的“游泳运动员身体幻觉”。
 
 **句子结构**：Whenever 引导时间/条件从句；主句为 we fall prey to what Taleb calls the swimmer’s body illusion。
 
-**关键词**：selection factors, results, fall prey to, swimmer’s body illusion
+**关键词：** **：selection factors, results, fall prey to, swimmer’s body illusion
 
 **表达方式**：用 Whenever 把错误普遍化，再用专名把现象固定成可记忆标签。
 
 **为什么这样写**：作者先抽象命名偏差，再让读者把运动员、模特和名校案例归入同一框架。
 
 ### ③ 模特的反向例子
-
 > **原句 3:** "The models are born attractive, and only for this reason are they candidates for cosmetics advertising."
 
 **中文理解**：模特天生具有吸引力，也正因为如此，她们才成为化妆品广告的候选人。
 
 **句子结构**：The models 为主语；are born attractive 为一般现在时谓语；only for this reason 置于句首引起强调，are candidates... 使用部分倒装。
 
-**关键词**：born attractive, candidates, cosmetics advertising
+**关键词：** **：born attractive, candidates, cosmetics advertising
 
 **表达方式**：把“产品制造美”的广告逻辑改写成“外貌带来广告资格”的选择逻辑。
 
 **为什么这样写**：同一个身体案例被迁移到商业广告，说明偏差并不限于体育领域。
 
 ### ④ 哈佛问题
-
 > **原句 4:** "Many highly successful people have studied there. Does this mean that Harvard is a good school? We don’t know."
 
 **中文理解**：许多非常成功的人曾在哈佛学习。这是否意味着哈佛是一所好学校？我们不知道。
 
 **句子结构**：前句是事实陈述；后两句构成反问与直接回答，We don’t know 刻意限制推论强度。
 
-**关键词**：highly successful, studied there, good school
+**关键词：** **：highly successful, studied there, good school
 
 **表达方式**：先呈现相关性，再用问句和不确定回答阻止读者立即得出因果结论。
 
 **为什么这样写**：名校的声望容易制造教育效果幻觉；作者故意不替哈佛下结论，而要求读者保持证据克制。
 
 ### ⑤ MBA 统计
-
 > **原句 5:** "Many prospective students fall for this approach."
 
 **中文理解**：许多 prospective students 会被这种方法吸引。
 
 **句子结构**：主语 Many prospective students + 谓语 fall for + 宾语 this approach。
 
-**关键词**：prospective students, fall for, approach
+**关键词：** **：prospective students, fall for, approach
 
 **表达方式**：用 fall for 的日常搭配表现“被统计话术说服”的轻率与自我暴露。
 
 **为什么这样写**：作者把批判对象具体化为“准学生如何接受 MBA 收入承诺”，避免只停留在抽象的选择偏差。
 
 ### ⑥ 幸感的错觉
-
 > **原句 6:** "They do not realize that cheerfulness—according to many studies, such as those conducted by Harvard’s Dan Gilbert—is largely a personality trait that remains constant throughout life."
 
 **中文理解**：他们没有意识到，愉快在许多研究看来主要是一种贯穿一生的性格特征，例如哈佛 Dan Gilbert 的研究就持这种看法。
 
 **句子结构**：主句为 They do not realize；that 宾语从句内含 according to 插入语，is largely a personality trait... 为系表结构，that 引导定语从句修饰 trait。
 
-**关键词**：cheerfulness, personality trait, remains constant
+**关键词：** **：cheerfulness, personality trait, remains constant
 
 **表达方式**：用插入的研究来源压低断言的权威性，再用 remains constant 把“训练 happiness”的想象固定化。
 

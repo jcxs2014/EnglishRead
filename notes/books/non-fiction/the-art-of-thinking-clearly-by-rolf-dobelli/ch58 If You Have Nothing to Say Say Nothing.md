@@ -39,63 +39,59 @@ source_text: ch58_57_if_you_have_nothing_to_say_say_nothin.txt
 
 **句子结构**：the more eloquent the haze of words 为比较结构；the more easily we fall for them 为主句比较结构。
 
-**关键词**：more eloquent, haze of words, more easily, fall for
+**关键词：** **：more eloquent, haze of words, more easily, fall for
 
 **表达方式**：用 the more...the more... 把语言流畅和受骗程度连接起来。
 
 **为什么这样写**：它指出权威感不是来自信息正确，而是来自表达形式本身。
 
 ### ② 作者自述
-
 > **原句 2:** "I myself have fallen for the twaddle tendency on many occasions."
 
 **中文理解**：我自己也多次中过这种冗词倾向的招。
 
 **句子结构**：I myself 为主语；have fallen for the twaddle tendency 为现在完成时谓语。
 
-**关键词**：myself, fallen for, twaddle tendency, many occasions
+**关键词：** **：myself, fallen for, twaddle tendency, many occasions
 
 **表达方式**：用第一人称承认自身受骗。
 
 **为什么这样写**：作者不把错误归于年轻人或外行，承认权威感也可能是自己的盲点。
 
 ### ③ 体育采访
-
 > **原句 3:** "Jabber disguises ignorance."
 
 **中文理解**：喋喋不休掩饰无知。
 
 **句子结构**：Jabber 为主语；disguises 为谓语；ignorance 为宾语。
 
-**关键词**：Jabber, disguises, ignorance
+**关键词：** **：Jabber, disguises, ignorance
 
 **表达方式**：用两个词构成因果压缩判断。
 
 **为什么这样写**：体育结果明确时，主持人却要求球员填充节目时间，语言负担反而制造噪声。
 
 ### ④ 公司话术
-
 > **原句 4:** "The worse off a company is, the greater the talk of the CEO."
 
 **中文理解**：公司状况越差，CEO 的话越多。
 
 **句子结构**：The worse off a company is 为比较结构；the greater the talk of the CEO 为主句。
 
-**关键词**：worse off, greater, talk, CEO
+**关键词：** **：worse off, greater, talk, CEO
 
 **表达方式**：用比较结构把经营困境和话语增加并置。
 
 **为什么这样写**：它把“多说”从个人习惯扩展为组织危机时的防御性信号。
 
 ### ⑤ 结尾格言
-
 > **原句 5:** "If you have nothing to say, say nothing."
 
 **中文理解**：如果你没有话说，就什么也别说。
 
 **句子结构**：If 引导条件状语从句；主句为省略主语 you 的祈使结构 say nothing。
 
-**关键词**：nothing to say, say nothing
+**关键词：** **：nothing to say, say nothing
 
 **表达方式**：重复 nothing/say nothing，形成对称格言。
 

@@ -39,63 +39,59 @@ source_text: ch72_71_why_it_s_never_just_a_two_horse_race_.txt
 
 **句子结构**：Such an argument 为主语；hides 为谓语；not one but four 为并列强调；fallacies 为宾语。
 
-**关键词**：hides, not one but four, fallacies, argument
+**关键词：** **：hides, not one but four, fallacies, argument
 
 **表达方式**：用数量递进把一个看似合理的数字宣传拆成多个问题。
 
 **为什么这样写**：读者会预期寻找一个错误，却突然知道至少需要检查四个。
 
 ### ② 机会成本
-
 > **原句 2:** "So in fact the MBA costs $200,000, not $100,000."
 
 **中文理解**：所以实际上 MBA 的成本是 20 万美元，不是 10 万美元。
 
 **句子结构**：So 为连接词；in fact 为插入语；costs...not... 为比较结构。
 
-**关键词**：in fact, costs $200,000, not $100,000, loss of earnings
+**关键词：** **：in fact, costs $200, 000, not $100, 000
 
 **表达方式**：用直接纠错把表面价格改成总机会成本。
 
 **为什么这样写**：两年学习期间的收入损失让真实代价翻倍，削弱宣传册的“净赚”叙事。
 
 ### ③ 定义
-
 > **原句 3:** "We systematically forget to compare an existing offer with the next-best alternative."
 
 **中文理解**：我们会系统性地忘记把现有选项与次优替代方案比较。
 
 **句子结构**：We 为主语；systematically forget to compare 为谓语；with... 为比较对象。
 
-**关键词**：systematically forget, existing offer, next-best alternative, compare
+**关键词：** **：systematically forget, existing offer, next-best alternative, compare
 
 **表达方式**：用定义句命名替代方案盲视。
 
 **为什么这样写**：名字让读者能在之后的投资、城市和医疗决策中识别同一错误。
 
 ### ④ Buffett
-
 > **原句 4:** "Each deal we measure against the second-best deal that is available at any given time."
 
 **中文理解**：我们会把每笔交易与当时可获得的次优交易进行比较。
 
 **句子结构**：Each deal 为主语；we measure 为被动省略结构；against... 为比较对象；that... 为定语从句。
 
-**关键词**：Each deal, measure against, second-best deal, available
+**关键词：** **：Each deal, measure against, second-best deal, available
 
 **表达方式**：用“每笔交易”扩大原则的适用范围。
 
 **为什么这样写**：它把投资家个人的比较习惯提炼成可迁移的决策规则。
 
 ### ⑤ 更多选择
-
 > **原句 5:** "Perhaps there is a variant of the invasive surgery that your hospital doesn’t offer but a hospital across town does."
 
 **中文理解**：也许有一种侵入式手术的变体，是你的医院不提供、但城另一端的医院提供。
 
 **句子结构**：Perhaps 置于句首；there is 为存在句；that... 但... 省略结构作定语。
 
-**关键词**：variant, invasive surgery, doesn’t offer, across town
+**关键词：** **：variant, invasive surgery, doesn’t offer, across town
 
 **表达方式**：用“也许还有另一种版本”打破非此即彼。
 

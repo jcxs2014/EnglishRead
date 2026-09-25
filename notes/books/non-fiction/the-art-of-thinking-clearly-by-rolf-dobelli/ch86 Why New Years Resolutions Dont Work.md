@@ -39,63 +39,59 @@ source_text: ch86_85_why_new_year_s_resolutions_don_t_work.txt
 
 **句子结构**：Researching 和 writing 为并列名词；is...than... 为比较结构。
 
-**关键词**：Researching, enjoyable, writing, procrastination
+**关键词：** **：Researching, enjoyable, writing
 
 **表达方式**：用自我辩解呈现拖延的常见语言。
 
 **为什么这样写**：准备活动看似是工作，却可能成为逃避真正产出的活动。
 
 ### ② 定义
-
 > **原句 2:** "Procrastination is the tendency to delay unpleasant but important acts."
 
 **中文理解**：拖延是推迟令人不快却重要行为的倾向。
 
 **句子结构**：Procrastination 为主语；is the tendency to delay... 为系表结构。
 
-**关键词**：tendency, delay, unpleasant, important acts
+**关键词：** **：tendency, delay, unpleasant, important acts
 
 **表达方式**：用两个对立形容词抓住拖延的条件。
 
 **为什么这样写**：它说明拖延并非单纯懒惰，而是难任务与重要任务冲突的结果。
 
 ### ③ 意志力耗竭
-
 > **原句 3:** "The period of self-control had drained their mental energy—or willpower."
 
 **中文理解**：这段自控期耗尽了他们的心理能量，也就是意志力。
 
 **句子结构**：The period 为主语；had drained 为谓语；their mental energy 为宾语；or willpower 为同位解释。
 
-**关键词**：self-control, drained, mental energy, willpower
+**关键词：** **：self-control, drained, mental energy, willpower
 
 **表达方式**：用同位解释把心理能量与意志力连起来。
 
 **为什么这样写**：实验结果被转译成读者能立即理解的资源耗竭比喻。
 
 ### ④ 外部期限
-
 > **原句 4:** "Psychologist Dan Ariely found that dates stipulated by external authorities—for example, a teacher or the IRS—work best."
 
 **中文理解**：心理学家丹·艾里利发现，由外部权威规定的日期最有效。
 
 **句子结构**：Psychologist Dan Ariely 为主语；found that... 为宾语从句；for example 插入解释外部权威。
 
-**关键词**：Dan Ariely, external authorities, dates, deadlines
+**关键词：** **：Dan Ariely, external authorities, dates
 
 **表达方式**：用研究背书并列举教师、税务机关两类权威。
 
 **为什么这样写**：外部日期减少了自我协商的空间，能让任务从愿望变成承诺。
 
 ### ⑤ 实践方案
-
 > **原句 5:** "She transformed personal deadlines into public commitments."
 
 **中文理解**：她把个人期限变成了公开承诺。
 
 **句子结构**：She 为主语；transformed...into... 为谓语和宾补结构。
 
-**关键词**：personal deadlines, public commitments, business cards, doctoral thesis
+**关键词：** **：personal deadlines, public commitments
 
 **表达方式**：用 A into B 的结构呈现责任升级。
 

@@ -39,7 +39,7 @@ source_text: ch18_17_you_control_less_than_you_think_illus.txt
 
 **句子结构**：Well 为话语标记；I must be doing... 为情态动词构成的推测；then 为附加语。
 
-**关键词**：must be, doing a good job
+**关键词：**：must be, doing a good job
 
 **表达方式**：用反向逻辑把“没有长颈鹿”解释成自己的行动成功。
 
@@ -53,49 +53,43 @@ source_text: ch18_17_you_control_less_than_you_think_illus.txt
 
 **句子结构**：Even when 引导让步时间从句；主句 subjects were convinced...，by flicking... 为方式状语。
 
-**关键词**：at random, convinced, influence, flicking the switches
+**关键词：** at random, convinced, influence, flicking the switches
 
 **表达方式**：把随机条件与主观确信并置，突出现实和归因的断裂。
 
 **为什么这样写**：实验把控制感从真实结果中剥离出来，显示人会在纯随机反馈中寻找自己的作用。
 
-### ③ 安慰性按钮
-
-> **原句 3:** "Such tricks are also designed in open-plan offices: For some people it will always be too hot, for others, too cold."
+### ③ 安慰性按钮> **原句 3:** "Such tricks are also designed in open-plan offices: For some people it will always be too hot, for others, too cold."
 
 **中文理解**：这类把戏也被设计进开放式办公室：有些人总觉得太热，另一些人则觉得太冷。
 
 **句子结构**：Such tricks... 为主句；冒号后两个 for 短语构成并列对照。
 
-**关键词**：open-plan offices, too hot, too cold
+**关键词：** open-plan offices, too hot, too cold
 
 **表达方式**：用热与冷的对照呈现同一空间无法同时满足所有人的控制需求。
 
 **为什么这样写**：温度旋钮让个体获得可操作的幻觉，进而减少抱怨；这说明控制感本身可能成为管理工具。
 
-### ④ 央行按钮
-
-> **原句 4:** "They are merely sound waves."
+### ④ 央行按钮> **原句 4:** "They are merely sound waves."
 
 **中文理解**：它们不过是声波。
 
 **句子结构**：They 为代词主语；merely sound waves 为名词短语作表语，句末句号形成收束。
 
-**关键词**：merely, sound waves
+**关键词：** merely, sound waves
 
 **表达方式**：把复杂政策信号压缩成物理性短句，削弱其神圣感。
 
 **为什么这样写**：当市场把隔夜利率调整和讲话当作可理解的力量时，作者提醒我们：信号与实体经济之间可能只有权威和声波。
 
-### ⑤ 少数可控事项
-
-> **原句 5:** "Therefore, focus on the few things of importance that you can really influence."
+### ⑤ 少数可控事项> **原句 5:** "Therefore, focus on the few things of importance that you can really influence."
 
 **中文理解**：因此，把注意力集中在一少数真正能够影响的重要事项上。
 
 **句子结构**：Therefore 为结果连接词；focus on... 为祈使句；that you can really influence 为限定从句。
 
-**关键词**：Therefore, focus on, things of importance, really influence
+**关键词：** Therefore, focus on, things of importance, really influence
 
 **表达方式**：从对宏大系统的不可控转向少数可行动作的祈使句。
 

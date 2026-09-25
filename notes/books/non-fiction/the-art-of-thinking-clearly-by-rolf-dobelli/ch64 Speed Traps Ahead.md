@@ -39,63 +39,59 @@ source_text: ch64_63_speed_traps_ahead_simple_logic.txt
 
 **句子结构**：First question 为提示语；主句为 a paddle and a ball cost $1.10。
 
-**关键词**：First question, department store, Ping-Pong paddle, cost
+**关键词：** **：First question, department store, Ping-Pong paddle, cost
 
 **表达方式**：用短小算式制造可立即作答的实验情境。
 
 **为什么这样写**：读者必须先写下直觉答案，之后才有机会意识到算术关系。
 
 ### ② 正确答案
-
 > **原句 2:** "The solutions are: five cents, five minutes, and forty-seven days."
 
 **中文理解**：答案是：5 美分、5 分钟和 47 天。
 
 **句子结构**：The solutions 为主语；are 为系动词；三个并列名词短语作表语。
 
-**关键词**：solutions, five cents, five minutes, forty-seven days
+**关键词：** **：solutions, five cents, five minutes, forty-seven days
 
 **表达方式**：用三组并列答案收束计算。
 
 **为什么这样写**：数字答案的差距把“感觉合理”和“关系正确”分开。
 
 ### ③ 认知反思测验
-
 > **原句 3:** "Thousands of people have taken this Cognitive Reflection Test (CRT)."
 
 **中文理解**：成千上万的人参加了这个认知反思测验。
 
 **句子结构**：Thousands of people 为主语；have taken 为现在完成时谓语；this Cognitive Reflection Test 为宾语。
 
-**关键词**：Cognitive Reflection Test, thousands, taken, CRT
+**关键词：** **：Cognitive Reflection Test, thousands, taken, CRT
 
 **表达方式**：用名称和缩写把简单题目转成可比较的研究工具。
 
 **为什么这样写**：测验的价值不只在于答案，还在于它能区分冲动与反思。
 
 ### ④ 风险偏好
-
 > **原句 4:** "Those who score at least 2 or higher usually opt for the riskier option."
 
 **中文理解**：得分至少 2 分的人通常会选择风险更大的选项。
 
 **句子结构**：Those who score... 为主语从句；opt for 为谓语；the riskier option 为宾语。
 
-**关键词**：score at least 2, opt for, riskier option
+**关键词：** **：score at least 2, opt for, riskier option
 
 **表达方式**：用 at least 2 设定行为分界。
 
 **为什么这样写**：它把认知测验结果与现实决策风格连接起来，但不等于证明分数造成冒险。
 
 ### ⑤ 拒绝直觉
-
 > **原句 5:** "Not everything that seems plausible is true."
 
 **中文理解**：不是所有看起来可信的东西都是真的。
 
 **句子结构**：Not everything... 为主语部分；that seems plausible 为定语从句；is true 为系表结构。
 
-**关键词**：Not everything, seems plausible, true, logical questions
+**关键词：** **：Not everything, seems plausible, true
 
 **表达方式**：用否定概括句把测验提升为思维纪律。
 

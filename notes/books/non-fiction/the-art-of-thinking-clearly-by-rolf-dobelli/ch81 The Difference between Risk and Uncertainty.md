@@ -39,63 +39,59 @@ source_text: ch81_80_the_difference_between_risk_and_uncer.txt
 
 **句子结构**：The majority 为主语；will opt for 为谓语；A 为宾语。
 
-**关键词**：majority, opt for, Box A
+**关键词：** **：majority, opt for
 
 **表达方式**：用极短结论固定读者预期。
 
 **为什么这样写**：第一轮的直觉选择为第二轮揭示不一致埋下对照。
 
 ### ② 不一致
-
 > **原句 2:** "But that’s illogical!"
 
 **中文理解**：但那是不合逻辑的！
 
 **句子结构**：独立感叹句，省略主语和谓语。
 
-**关键词**：But, illogical, same boxes
+**关键词：** **：But, illogical
 
 **表达方式**：用短促感叹打断常规推理。
 
 **为什么这样写**：它把第二次仍选 A 的行为直接标为矛盾，推动读者寻找原因。
 
 ### ③ 风险定义
-
 > **原句 3:** "Risk means that the probabilities are known."
 
 **中文理解**：风险意味着概率是已知的。
 
 **句子结构**：Risk 为主语；means 为系动词；that 从句作表语。
 
-**关键词**：Risk, probabilities, known, uncertainty
+**关键词：** **：Risk, probabilities, known
 
 **表达方式**：用定义句区分两个核心概念。
 
 **为什么这样写**：概念边界明确后，后续医疗和金融例子才有判断标准。
 
 ### ④ 无法计算
-
 > **原句 4:** "You can make calculations with risk, but not with uncertainty."
 
 **中文理解**：你可以对风险进行计算，却不能对不确定性进行计算。
 
 **句子结构**：You 为主语；can make calculations 和 cannot... 并列；with risk 和 with uncertainty 分别为比较范围。
 
-**关键词：** calculations, risk, uncertainty, probabilities
+**关键词：** calculations, risk, uncertainty
 
 **表达方式**：用对称否定结构呈现可计算与不可计算的落差。
 
 **为什么这样写**：它解释了为什么模糊问题不能用看似精确的数字解决。
 
 ### ⑤ 结论
-
 > **原句 5:** "Only in very few areas can we count on clear probabilities."
 
 **中文理解**：只有在很少的领域，我们才能依赖清晰的概率。
 
 **句子结构**：Only in very few areas 为地点状语；can we count on 为主句倒装；clear probabilities 为宾语。
 
-**关键词**：Only in very few areas, count on, clear probabilities
+**关键词：** **：Only in very few areas, count on, clear probabilities
 
 **表达方式**：用倒装和 only 限制确定性适用范围。
 

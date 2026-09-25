@@ -38,63 +38,55 @@ source_text: ch55_54_would_you_wear_hitler_s_sweater_conta.txt
 
 **句子结构**：Anything 为主语；had come 为完成时谓语；in contact with a saint 为介词短语作状语。
 
-**关键词**：Anything, come in contact, saint
+**关键词：** Anything, come in contact, saint
 
 **表达方式**：用全称词定义一整类物品。
 
 **为什么这样写**：它把圣物的象征边界扩展到凡接触过圣人的碎片、残片和遗物。
 
-### ② 和平倡议
-
-> **原句 2:** "The bishop’s unique appeal to their conscience spread throughout Europe."
+### ② 和平倡议> **原句 2:** "The bishop’s unique appeal to their conscience spread throughout Europe."
 
 **中文理解**：主教对良心的独特呼吁传遍欧洲。
 
 **句子结构**：The bishop’s unique appeal 为主语；to their conscience 为介词短语；spread throughout Europe 为谓语。
 
-**关键词**：bishop, appeal, conscience, spread
+**关键词：** bishop, appeal, conscience, spread
 
 **表达方式**：把观念传播写成可传染的过程。
 
 **为什么这样写**：它为后续“传染偏误”提供历史例证：信念和禁忌也能跨越群体传播。
 
-### ③ 希特勒毛衣
-
-> **原句 3:** "There isn’t a single molecule of Hitler’s sweat on it."
+### ③ 希特勒毛衣> **原句 3:** "There isn’t a single molecule of Hitler’s sweat on it."
 
 **中文理解**：它上面没有希特勒的一滴汗分子。
 
 **句子结构**：There isn’t 为存在句；a single molecule of Hitler’s sweat 为真正主语。
 
-**关键词**：There isn’t, single molecule, sweat
+**关键词：** There isn’t, single molecule, sweat
 
 **表达方式**：用极端精确的“单个分子”反驳物质残留。
 
 **为什么这样写**：事实层面的无残留与心理层面的拒绝形成张力，说明污染物不是纯物质概念。
 
-### ④ 飞镖实验
-
-> **原句 4:** "The test subjects behaved as if a mystic force prevented them from hitting the photos."
+### ④ 飞镖实验> **原句 4:** "The test subjects behaved as if a mystic force prevented them from hitting the photos."
 
 **中文理解**：受试者的行为仿佛有一股神秘力量阻止他们射中照片。
 
 **句子结构**：The test subjects 为主语；behaved as if 为方式结构；a mystic force prevented them... 为 as if 从句。
 
-**关键词**：test subjects, mystic force, prevented, hitting the photos
+**关键词：** test subjects, mystic force, prevented, hitting the photos
 
 **表达方式**：用 as if 把内在信念外化为假装的神秘力量。
 
 **为什么这样写**：即使知道照片不会受伤，行为仍显示出对关系和对象的象征性保护。
 
-### ⑤ 萨达姆酒杯
-
-> **原句 5:** "A horrified guest spat his wine back into the glass and began to splutter uncontrollably."
+### ⑤ 萨达姆酒杯> **原句 5:** "A horrified guest spat his wine back into the glass and began to splutter uncontrollably."
 
 **中文理解**：一名惊恐的客人把酒喷回杯中，开始无法控制地呛咳。
 
 **句子结构**：A horrified guest 为主语；spat... and began... 为并列谓语；uncontrollably 修饰 splutter。
 
-**关键词**：horrified, spat, splutter, uncontrollably
+**关键词：** horrified, spat, splutter, uncontrollably
 
 **表达方式**：用身体反应把象征污染写成即时厌恶。
 

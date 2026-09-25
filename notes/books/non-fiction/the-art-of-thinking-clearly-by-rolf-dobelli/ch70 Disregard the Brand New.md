@@ -39,63 +39,59 @@ source_text: ch70_69_disregard_the_brand_new_neomania.txt
 
 **句子结构**：三个 would 引导的并列动词短语；live、work、vacation 共用 would。
 
-**关键词**：plastic capsules, underwater cities, moon, future
+**关键词：** **：plastic capsules, underwater cities, moon
 
 **表达方式**：用三个平行未来场景制造想象冲击。
 
 **为什么这样写**：并列让当时的技术想象显得完整、必然，也为后文的反差提供落点。
 
 ### ② 旧物
-
 > **原句 2:** "Nothing has changed."
 
 **中文理解**：什么都没有改变。
 
 **句子结构**：Nothing 为不定代词；has changed 为现在完成时系表结构。
 
-**关键词**：Nothing, changed, invention, future
+**关键词：** **：Nothing, changed
 
 **表达方式**：用极短否定句总结前面长串例子。
 
 **为什么这样写**：当读者刚看见未来预言时，“什么都没有改变”立即制造认知反转。
 
 ### ③ 反脆弱
-
 > **原句 3:** "Old technology has proven itself; it possesses an inherent logic even if we do not always understand it."
 
 **中文理解**：旧技术已经证明了自己；即便我们不完全理解，它也具有内在逻辑。
 
 **句子结构**：第一个分句为现在完成时；第二个分句为现在时，even if 引导让步状语从句。
 
-**关键词**：Old technology, proven itself, inherent logic, understand
+**关键词：** **：Old technology, proven itself, inherent logic, understand
 
 **表达方式**：用分号连接经验结论与解释性补充。
 
 **为什么这样写**：它把“古老”从怀旧偏好改写成经过时间检验的证据。
 
 ### ④ 新迷恋
-
 > **原句 4:** "To them, it is of minor importance if an invention provides tangible benefits; novelty matters more."
 
 **中文理解**：对他们来说，发明是否带来实际好处并不重要；新奇性更重要。
 
 **句子结构**：if 引导条件状语从句；分号连接两个对比判断。
 
-**关键词**：minor importance, tangible benefits, novelty
+**关键词：** **：minor importance, tangible benefits, novelty
 
 **表达方式**：用分号突出“实际收益”和“新奇感”的价值倒置。
 
 **为什么这样写**：它批评的不是购买新事物本身，而是把新当作替代效果标准的判断方式。
 
 ### ⑤ 存活法则
-
 > **原句 5:** "Whatever has survived for X years will last another X years."
 
 **中文理解**：任何存活了 X 年的东西，还会再延续 X 年。
 
 **句子结构**：Whatever 引导主语从句；has survived 与 will last 为两个谓语。
 
-**关键词**：Whatever, survived, X years, last another X years
+**关键词：** **：Whatever, survived, X years, last another X years
 
 **表达方式**：用对称的 X 年结构把经验压缩成可记忆规则。
 

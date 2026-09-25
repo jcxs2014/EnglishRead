@@ -40,28 +40,26 @@ source_text: ch94_93_mission_accomplished_zeigarnik_effect.txt
 
 **句子结构**：I 为主语；keep...in my head 为谓语和地点状语；until it is served 为时间状语。
 
-**关键词**：keep every order, in my head, until it is served
+**关键词：** **：keep every order, in my head, until it is served
 
 **表达方式**：用破折号引出“直到完成”的边界。
 
 **为什么这样写**：一句对白同时呈现记忆机制与完成后的释放。
 
 ### ② 未完成任务
-
 > **原句 2:** "We seldom forget uncompleted tasks."
 
 **中文理解**：我们很少忘记未完成的任务。
 
 **句子结构**：We 为主语；seldom forget 为谓语；uncompleted tasks 为宾语。
 
-**关键词：uncompleted tasks, seldom forget, consciousness, attention
+**关键词：** uncompleted tasks, seldom forget
 
 **表达方式**：用 seldom 限定频率，避免绝对化。
 
 **为什么这样写**：它先建立现象，再引出研究者对该现象的解释。
 
 ### ③ 计划足够
-
 > **原句 3:** "Outstanding tasks gnaw at us only until we have a clear idea of how we will deal with them."
 
 **中文理解**：未完成任务只有在我们清楚知道如何处理之前，才会持续啃噬我们。
@@ -75,28 +73,26 @@ source_text: ch94_93_mission_accomplished_zeigarnik_effect.txt
 **为什么这样写**：它把“完成任务”改成“知道怎么做”，降低了心理负担的解除条件。
 
 ### ④ 详细
-
 > **原句 4:** "The adjective “detailed” is important."
 
 **中文理解**：“详细”这个形容词很重要。
 
 **句子结构**：The adjective 为主语；is 为系动词；important 为表语。
 
-**关键词：** adjective, detailed, important, step-by-step tasks
+**关键词：** adjective, detailed, important
 
 **表达方式**：用短句单独强调一个普通形容词。
 
 **为什么这样写**：它提醒读者，关键不是列任务，而是把任务拆到能执行的程度。
 
 ### ⑤ 两者都要
-
 > **原句 5:** "If you want both, do both."
 
 **中文理解**：如果你两者都想要，就两件事都做。
 
 **句子结构**：If 引导条件状语从句；do both 为主句。
 
-**关键词：** If you want both, do both, planning fallacy, peace of mind
+**关键词：** If you want both, do both
 
 **表达方式**：用对称祈使句解决两种目标之间的表面冲突。
 

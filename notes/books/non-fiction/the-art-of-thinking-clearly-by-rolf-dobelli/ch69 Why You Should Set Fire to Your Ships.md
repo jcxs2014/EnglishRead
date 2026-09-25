@@ -39,63 +39,59 @@ source_text: ch69_68_why_you_should_set_fire_to_your_ships.txt
 
 **句子结构**：I know 后接 that 从句；won’t help 为否定谓语；any real insights 为宾语。
 
-**关键词**：sporadic reading, real insights, twenty-four
+**关键词：** **：sporadic reading, real insights
 
 **表达方式**：以自我诊断开篇，承认问题首先是知识管理失败。
 
 **为什么这样写**：作者不是泛泛劝人专注，而是把自己的二十四本书作为反例。
 
 ### ② 约会类比
-
 > **原句 2:** "If he refrains from deciding, all options remain open."
 
 **中文理解**：如果他拒绝决定，所有选项就仍然开放。
 
 **句子结构**：If 引导条件状语从句；主句为 all options remain open。
 
-**关键词**：refrains from deciding, all options, remain open
+**关键词：** **：refrains from deciding, all options, remain open
 
 **表达方式**：用条件句呈现“不选择”的虚假自由。
 
 **为什么这样写**：不选择看似避免损失，实际让每项关系都无法获得真实承诺。
 
 ### ③ 沉船
-
 > **原句 3:** "By removing the option of retreat, he switched their focus to the only thing that mattered: the battle."
 
 **中文理解**：通过取消撤退选择，他把他们的注意力转向唯一重要的事情：战斗。
 
 **句子结构**：By 引导方式状语；he switched...；the only thing that mattered 作同位解释，冒号后 battle 作强调。
 
-**关键词**：removing, option of retreat, focus, mattered
+**关键词：** **：removing, option of retreat, focus, mattered
 
 **表达方式**：用“撤退选项”具体化注意力分散的原因。
 
 **为什么这样写**：沉船的戏剧性把战略选择讲成一次不可逆的注意力集中。
 
 ### ④ 游戏结果
-
 > **原句 4:** "Sacrificing options was a price they were not willing to pay."
 
 **中文理解**：牺牲选项是他们不愿支付的价格。
 
 **句子结构**：Sacrificing options 为主语；was 为系动词；a price... 为表语。
 
-**关键词**：Sacrificing options, a price, not willing to pay
+**关键词：** **：Sacrificing options, a price, not willing to pay
 
 **表达方式**：把抽象选择写成一张心理账单。
 
 **为什么这样写**：它揭示人们愿意承受效率损失，只因为放弃可能性的痛苦即时而可见。
 
 ### ⑤ 不做什么
-
 > **原句 5:** "A business strategy is primarily a statement on what not to engage in."
 
 **中文理解**：商业战略首先是一份关于不参与什么的声明。
 
 **句子结构**：A business strategy 为主语；is 为系动词；a statement on... 为表语。
 
-**关键词**：business strategy, statement, not to engage in
+**关键词：** **：business strategy, statement, not to engage in
 
 **表达方式**：用否定式定义战略，扭转“战略意味着选择更多”的直觉。
 

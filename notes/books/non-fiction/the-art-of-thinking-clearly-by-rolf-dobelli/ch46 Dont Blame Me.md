@@ -40,63 +40,59 @@ source_text: ch46_45_don_t_blame_me_self_serving_bias.txt
 
 **句子结构**：主语 We；谓语 attribute；两个 to 短语分别说明 success 与 failures 的归因方向。
 
-**关键词**：attribute, success, failures, external factors
+**关键词：** attribute, success, failures, external factors
 
 **表达方式**：用对称结构概括整章。
 
 **为什么这样写**：它把复杂的事后叙事压缩成一个可识别的心理模式。
 
 ### ② 成绩归因
-
 > **原句 2:** "If you got an A, you were solely responsible."
 
 **中文理解**：如果你得了 A，你完全归功于自己。
 
 **句子结构**：If 引导条件状语从句；主句 you were solely responsible。
 
-**关键词**：got an A, solely responsible, grades
+**关键词：** got an A, solely responsible
 
 **表达方式**：用字母成绩作为高度压缩的成功符号。
 
 **为什么这样写**：学校提供明确反馈，因此自利性归因可以被直接观察和类比迁移。
 
 ### ③ 随机分数实验
-
 > **原句 3:** "Those who got scored highly found the test thorough and fair; low scorers rated it completely useless."
 
 **中文理解**：得分高的人认为测试全面而公平；得分低的人则认为它完全没用。
 
 **句子结构**：Those who got scored highly 为主语从句；found...fair 为动宾结构；low scorers 为第二个并列主语，rated...useless 为谓语。
 
-**关键词**：scored highly, thorough and fair, low scorers, completely useless
+**关键词：** scored highly, thorough and fair, low scorers, completely useless
 
 **表达方式**：用同一测试的相反评价展示结果影响自我感受。
 
 **为什么这样写**：随机分配分数排除了能力差异，评价反转显示人们会把结果解释成自我价值的证据。
 
 ### ④ 记忆增强
-
-> **原句 5:** "They are neither lying nor exaggerating; they are simply “enhancing” the result a little."
+> **原句 4:** "They are neither lying nor exaggerating; they are simply “enhancing” the result a little."
 
 **中文理解**：他们既没有撒谎，也没有夸大，只是稍微“美化”结果。
 
 **句子结构**：neither...nor... 连接两个否定分句；simply emphasizing 为表语，quotes 标出隐含的修正意味。
 
-**关键词**：lying, exaggerating, enhancing, result
+**关键词：** lying, exaggerating, enhancing, result
 
 **表达方式**：先排除明显欺骗，再给无意识改写命名。
 
 **为什么这样写**：自利性偏差并不总是有意撒谎，而可能发生在诚实却有偏差的记忆中。
 
 ### ⑤ 倒垃圾比例
-
-> **原句 6:** "Although their answers should have added up to 100 percent, these boys achieved an impressive 320 percent!"
+> **原句 5:** "Although their answers should have added up to 100 percent, these boys achieved an impressive 320 percent!"
 
 **中文理解**：尽管答案加起来应该是 100%，这些男生却达到了惊人的 320%。
 
 **句子结构**：Although 引导让步状语从句；主句 these boys achieved an impressive 320 percent。
 
-**关键词**：answers, added up, 100 percent, 320 percent
+**关键词：** answers, added up, 100 percent, 320 percent
 
 **表达方式**：用明显超出总数的数字制造反讽。
 

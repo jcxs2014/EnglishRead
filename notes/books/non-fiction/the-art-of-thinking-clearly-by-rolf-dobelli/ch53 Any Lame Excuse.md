@@ -39,63 +39,59 @@ source_text: ch53_52_any_lame_excuse_because_justification.txt
 
 **句子结构**：Her success rate 为主语；was 为系动词；60 percent 为表语。
 
-**关键词**：success rate, 60 percent
+**关键词：** **：success rate, 60 percent
 
 **表达方式**：用精确百分比建立实验可信度。
 
 **为什么这样写**：百分比让“理由是否有用”的差异从模糊感受变成可比较数据。
 
 ### ② 加入理由
-
 > **原句 2:** "In almost all cases (94 percent), she was allowed to go ahead."
 
 **中文理解**：在几乎所有情况下（94%），她都获准先使用。
 
 **句子结构**：In almost all cases 为状语；括号补充精确比例；主句 she was allowed to go ahead 为被动结构。
 
-**关键词**：almost all cases, 94 percent, allowed, go ahead
+**关键词：** **：almost all cases, 94 percent, allowed, go ahead
 
 **表达方式**：用 almost 与精确百分比并置。
 
 **为什么这样写**：理由的效果并不只是“更友好”，而是大幅改变陌生人的合作判断。
 
 ### ③ 理由的充分性
-
 > **原句 3:** "It seems to matter very little if your excuse is good or not."
 
 **中文理解**：你的借口好不好，似乎并不那么重要。
 
 **句子结构**：It 为形式主语；to matter very little 为真正主谓；if 引导让步状语从句。
 
-**关键词**：seems, matter very little, excuse, good or not
+**关键词：** **：seems, matter very little, excuse, good or not
 
 **表达方式**：用保留语 seems 把观察与普遍定律区分开。
 
 **为什么这样写**：它提出核心判断：社会互动首先需要理由的格式，而不总是理由的质量。
 
 ### ④ 航班公告
-
 > **原句 4:** "Flight 5678 is delayed by three hours due to operational reasons."
 
 **中文理解**：5678 航班因运营原因延误三小时。
 
 **句子结构**：Flight 5678 为主语；is delayed 为被动谓语；due to operational reasons 为原因状语。
 
-**关键词**：Flight, delayed, due to, operational reasons
+**关键词：** **：Flight, delayed, due to, operational reasons
 
 **表达方式**：用正式公告和空泛原因制造秩序感。
 
 **为什么这样写**：乘客无法从“运营原因”获得可行动信息，却因解释存在而感到被告知。
 
 ### ⑤ 鞋业公司的目的
-
 > **原句 5:** "We want our shoes to revolutionize the market."
 
 **中文理解**：我们希望让鞋子革新市场。
 
 **句子结构**：We 为主语；want 为谓语；our shoes 为宾语；to revolutionize the market 为不定式补语。
 
-**关键词**：revolutionize, market, purpose, footwear
+**关键词：** **：revolutionize, market
 
 **表达方式**：用宏大目的替代“制造鞋子”的平淡功能。
 

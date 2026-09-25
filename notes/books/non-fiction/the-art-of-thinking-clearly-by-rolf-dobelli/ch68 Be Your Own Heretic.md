@@ -38,63 +38,59 @@ source_text: ch68_67_be_your_own_heretic_introspection_ill.txt
 
 **句子结构**：You can peek into A, but not into B；两个并列动语结构构成对比。
 
-**关键词**：peek into, own soul, not into his
+**关键词：** **：peek into, own soul, not into his
 
 **表达方式**：用窥探内心的空间隐喻区分自我与他人。
 
 **为什么这样写**：它先制造自我观察的特殊感，随后为内省幻觉的反驳设置反差。
 
 ### ② 面孔实验
-
 > **原句 2:** "Most participants failed to notice and proceeded to justify, in detail, why they favored the image."
 
 **中文理解**：多数参与者没有察觉，仍详细为自己喜欢这幅图像寻找理由。
 
 **句子结构**：Most participants 为主语；failed to notice 和 proceeded to justify 为并列谓语；why 从句作宾语。
 
-**关键词**：failed to notice, proceeded to justify, in detail, favored
+**关键词：** **：failed to notice, proceeded to justify, in detail, favored
 
 **表达方式**：用“注意不到，却能详细解释”的悖论推进论证。
 
 **为什么这样写**：它把自我解释从发现事实的能力，转化为事后编造理由的能力。
 
 ### ③ 三种反应
-
 > **原句 3:** "The belief that reflection leads to truth or accuracy is called the introspection illusion."
 
 **中文理解**：认为反思会带来真相或准确性的信念，被称为内省幻觉。
 
 **句子结构**：The belief 为主语；that reflection leads to truth or accuracy 为同位语从句；is called 为被动系表结构。
 
-**关键词**：reflection, truth, accuracy, introspection illusion
+**关键词：** **：reflection, truth, accuracy, introspection illusion
 
 **表达方式**：用定义句把实验发现提升为可复用的概念。
 
 **为什么这样写**：命名机制后，读者可以把分散的自我辩护现象放到同一框架中理解。
 
 ### ④ 内部优越感
-
 > **原句 4:** "We believe that our introspections are more reliable than those of others, which creates an illusion of superiority."
 
 **中文理解**：我们认为自己的内省比他人的更可靠，于是产生优越感幻觉。
 
 **句子结构**：主句 We believe that...；which 引导非限制性定语从句指代前面整件事。
 
-**关键词**：introspections, more reliable, illusion of superiority
+**关键词：** **：introspections, more reliable, illusion of superiority
 
 **表达方式**：用因果关系把内省偏差与道德优越连接起来。
 
 **为什么这样写**：自我感觉正确不仅影响个人判断，还会使人轻视不同意见。
 
 ### ⑤ 自我批评
-
 > **原句 5:** "Become your own toughest critic."
 
 **中文理解**：成为自己最严厉的批评者。
 
 **句子结构**：祈使句，动词 Become 为主语省略的谓语；your own toughest critic 为宾语。
 
-**关键词**：Become, own, toughest critic
+**关键词：** **：Become, own, toughest critic
 
 **表达方式**：用短促命令句收束全章。
 

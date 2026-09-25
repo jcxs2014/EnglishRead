@@ -39,63 +39,55 @@ source_text: ch11_10_leave_your_supermodel_friends_at_home.txt
 
 **句子结构**：省略主语 He 的引语；says 为谓语，twenty-two dollars 为宾语。
 
-**关键词**：He says, twenty-two dollars
+**关键词：** He says, twenty-two dollars
 
 **表达方式**：用一句短报价把复杂的说服机制落在具体金额上。
 
 **为什么这样写**：它让读者看到“错误理解”如何直接改变消费行为，而不是停留在抽象的参照效应。
 
-### ② 冷热参照
-
-> **原句 2:** "The lukewarm water feels as it should to the left hand and piping hot to the right hand."
+### ② 冷热参照> **原句 2:** "The lukewarm water feels as it should to the left hand and piping hot to the right hand."
 
 **中文理解**：温水对左手来说感觉正常，对右手来说却像滚烫的热水。
 
 **句子结构**：主语 The lukewarm water + 双重谓语 feels as it should... and piping hot...；两个分句共享主语。
 
-**关键词**：lukewarm water, piping hot, right hand
+**关键词：** lukewarm water, piping hot, right hand
 
 **表达方式**：用同一对象的两种身体感受构成即时对照。
 
 **为什么这样写**：身体经验让人无需抽象定义便能理解：感受不是由对象单独决定，也由刚经历过的参照物决定。
 
-### ③ 定义
-
-> **原句 3:** "We judge something to be beautiful, expensive, or large if we have something ugly, cheap, or small in front of us."
+### ③ 定义> **原句 3:** "We judge something to be beautiful, expensive, or large if we have something ugly, cheap, or small in front of us."
 
 **中文理解**：如果眼前有丑、便宜或小的对象，我们就会把某物判断为美丽、昂贵或巨大。
 
 **句子结构**：主句 We judge something to be...；if 引导条件从句，something ugly... 与 something beautiful... 构成三组对照。
 
-**关键词**：judge, beautiful, expensive, large, in front of us
+**关键词：** judge, beautiful, expensive, large, in front of us
 
 **表达方式**：用 beautiful / ugly、expensive / cheap、large / small 的三组对称词制造清晰的相对结构。
 
 **为什么这样写**：三个维度同时出现，避免把对比效应限制在价格或美貌这一种消费判断中。
 
-### ④ 折扣
-
-> **原句 4:** "A product that has been reduced from $100 to $70 seems a better value than a product that has always cost $70."
+### ④ 折扣> **原句 4:** "A product that has been reduced from $100 to $70 seems a better value than a product that has always cost $70."
 
 **中文理解**：从一百美元降到七十美元的产品，看起来比一直卖七十美元的产品更有价值。
 
 **句子结构**：两个 that 从句分别修饰 a product；第一个 has been reduced...，第二个 has always cost...。
 
-**关键词**：reduced from, better value, always cost
+**关键词：** reduced from, better value, always cost
 
 **表达方式**：通过改变“原价”而不是改变商品本身，制造价值差异。
 
 **为什么这样写**：折扣的核心不是低价，而是让同一价格拥有一条更高的虚构参照线。
 
-### ⑤ 渐进变化
-
-> **原句 5:** "Our weak spot: We don’t notice small, gradual changes."
+### ⑤ 渐进变化> **原句 5:** "Our weak spot: We don’t notice small, gradual changes."
 
 **中文理解**：我们的弱点是注意不到微小而渐进的变化。
 
 **句子结构**：冒号引出判断；主句 We don’t notice...，small and gradual 共同修饰 changes。
 
-**关键词**：weak spot, notice, small, gradual changes
+**关键词：** weak spot, notice, small, gradual changes
 
 **表达方式**：用短句和冒号将复杂心理弱点收束为可识别的注意缺陷。
 

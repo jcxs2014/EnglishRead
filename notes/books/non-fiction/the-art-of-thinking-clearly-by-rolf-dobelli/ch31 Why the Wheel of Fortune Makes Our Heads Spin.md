@@ -39,63 +39,59 @@ source_text: ch31_30_why_the_wheel_of_fortune_makes_our_he.txt
 
 **句子结构**：主句 We found an anchor... and worked from there；破折号插入锚点内容；to an educated guess 为结果状语。
 
-**关键词**：anchor, the year 1865, worked from there, educated guess
+**关键词：** **：anchor, the year 1865, worked from there, educated guess
 
 **表达方式**：用具体年份说明抽象锚点的计算方向。
 
 **为什么这样写**：即使估算错误，锚定也让人感觉自己在推理，而不是凭空猜数字。
 
 ### ② 锚点定义
-
 > **原句 2:** "We start with something we are sure of and venture into unfamiliar territory from there."
 
 **中文理解**：我们从确定的东西出发，从那里进入陌生领域。
 
 **句子结构**：We start with... and venture into... 共享主语；from there 为方式/起点状语。
 
-**关键词**：start with, sure of, venture into, unfamiliar territory
+**关键词：** **：start with, sure of, venture into, unfamiliar territory
 
 **表达方式**：用探险地理比喻解释认知估算过程。
 
 **为什么这样写**：它承认锚点是认知推理的起点，错误在于把任意起点误当成可靠依据。
 
 ### ③ 数字影响价格
-
 > **原句 3:** "Students with higher numbers bid nearly twice as much as students with lower numbers."
 
 **中文理解**：数字较高的学生出价几乎是数字较低学生的两倍。
 
 **句子结构**：比较结构 nearly twice as much as；with higher numbers 和 with lower numbers 分别修饰两组学生。
 
-**关键词**：higher numbers, bid, nearly twice as much, lower numbers
+**关键词：** **：higher numbers, bid, nearly twice as much, lower numbers
 
 **表达方式**：用倍数结果呈现完全无关数字的价格影响。
 
 **为什么这样写**：社保号没有经济意义，却能改变支付行为，暴露判断对起始数字的依赖。
 
 ### ④ 专家也受影响
-
 > **原句 4:** "The more uncertain the value of something—such as real estate, company stock, or art—the more susceptible even experts are to anchors."
 
 **中文理解**：某物价值越不确定——如房地产、公司股票或艺术品——即使是专家也越容易受锚点影响。
 
 **句子结构**：the more..., the more... 比较结构；such as... 为插入举例；experts 为 are susceptible 的宾语。
 
-**关键词**：uncertain, susceptible, real estate, experts, anchors
+**关键词：** **：uncertain, susceptible, real estate, experts, anchors
 
 **表达方式**：用价值不确定性解释专家也不能免疫的条件。
 
 **为什么这样写**：专业判断不是“无论什么都绝对准确”，专业身份也必须在低确定性任务中接受锚点检查。
 
 ### ⑤ 报价锚点
-
 > **原句 5:** "The anchor was dropped: The price negotiations started at exactly five million."
 
 **中文理解**：锚点已经投放：价格谈判正好从五百万开始。
 
 **句子结构**：两个独立句；冒号后第二句说明锚点造成的具体结果。
 
-**关键词**：anchor was dropped, price negotiations, started, five million
+**关键词：** **：anchor was dropped, price negotiations, started, five million
 
 **表达方式**：用“投放锚点”的隐喻把销售报价描述为策略动作。
 

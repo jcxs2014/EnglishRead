@@ -39,63 +39,59 @@ source_text: ch33_32_why_evil_is_more_striking_than_good_l.txt
 
 **句子结构**：主句 The long list... + 动词短语 makes us realize；how many... 为宾语从句。
 
-**关键词**：long list, possibilities, obstacles, happiness
+**关键词：** **：long list, possibilities, obstacles, happiness
 
 **表达方式**：先列清单，再用抽象结论压缩大量具体损失。
 
 **为什么这样写**：清单让“损失多且严重”变成可感知的结构，而不是一条抽象命题。
 
 ### ② 权重不对称
-
 > **原句 2:** "Losing $100 costs you a greater amount of happiness than the delight you would feel if I gave you $100."
 
 **中文理解**：损失 100 美元造成的幸福损失，比我给你 100 美元带来的快乐更大。
 
 **句子结构**：动名词短语 Losing... 与名词短语 the delight... 通过 than 比较；两个金额完全相同。
 
-**关键词**：Losing, costs, happiness, delight, $100
+**关键词：** **：Losing, costs, happiness, delight, $100
 
 **表达方式**：保持金额不变，只改变损益方向，从而隔离心理权重差异。
 
 **为什么这样写**：这是损失厌恶最干净的展示：不是金额不同，而是同一金额的损失更重。
 
 ### ③ 传播框架
-
 > **原句 3:** "Pamphlet B (written in a “loss frame”) generated significantly more awareness and BSE behavior than pamphlet A (written in a “gain frame”)."
 
 **中文理解**：以“损失框架”写成的 B 传单，比以“收益框架”写成的 A 传单显著增加了认知和乳腺癌自检行为。
 
 **句子结构**：两个括号插入语分别解释 loss frame 和 gain frame；主句比较 generated more... than...。
 
-**关键词**：loss frame, gain frame, generated, BSE behavior
+**关键词：** **：loss frame, gain frame, generated, BSE behavior
 
 **表达方式**：用同一信息不同框架的对照实验，把抽象损失厌恶变成传播效果。
 
 **为什么这样写**：人们不只对内容作出反应，也对信息被包装成“避免损失”还是“获得收益”作出反应。
 
 ### ④ 未实现损失
-
 > **原句 4:** "After all, an unrealized loss isn’t as painful as a realized one."
 
 **中文理解**：毕竟，未实现的损失不像已实现的损失那样痛苦。
 
 **句子结构**：After all 为评语；主句 an unrealized loss... 与 a realized one 通过 not as...as 比较。
 
-**关键词**：unrealized loss, painful, realized one
+**关键词：** **：unrealized loss, painful, realized one
 
 **表达方式**：用 not as...as 保留“已实现损失更痛”的程度差异。
 
 **为什么这样写**：投资者不卖亏损股票，可能不是判断价格会反弹，而是逃避把纸面损失变成现实损失。
 
 ### ⑤ 负面记忆
-
 > **原句 5:** "We remember bad behavior longer than good—except, of course, when it comes to ourselves."
 
 **中文理解**：我们对坏行为的记忆比对好行为更长——当然，涉及自己时除外。
 
 **句子结构**：主句 We remember bad behavior longer than good；破折号后 except... 补充例外。
 
-**关键词**：remember, bad behavior, good, except, ourselves
+**关键词：** **：remember, bad behavior, good, except, ourselves
 
 **表达方式**：用普遍规律后立刻加一个自我服务式例外，增加讽刺感。
 

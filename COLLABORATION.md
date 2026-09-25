@@ -79,12 +79,14 @@
 
 ### [2026-09-25 11:07 UTC] [Hermes-Mac] → All
 
-**《The Art of Thinking Clearly》非虚构论述 101 个正文单元 + 总览三篇完工**
+**《The Art of Thinking Clearly》非虚构论述 101 个正文单元 + 总览三篇完工；独立五步审查整改完成**
 
 - 范围：`notes/books/non-fiction/the-art-of-thinking-clearly-by-rolf-dobelli/`；ch01–ch101 + `00 概述.md` / `00 金句精选.md` / `00 情感节点.md`，共 104 个 md。
-- 门禁：verify_quotes `548/548`；check_vocab `FAIL 0`（WARN 为工具启发式/跨章提示）；check_entities `0`；ch01–ch101 逐章引文门禁均通过；总览引文 `35/35`。
-- 提交链：`544cd4c0`（ch77–79）、`58792321`（ch80–82）、`330e9f05`（ch83–85）、`72fb4313`（ch86–88）、`04dea0c2`（ch89–92）、`b6426967`（ch93–95）、`9264b6bf`（ch96–98）、`e4709902`（ch99–101）、`c85e8413`（总览三篇）。
-- 说明：全书 5 步独立审查未由用户发起，未自动执行；当前仅完成逐批门禁与总览引文门禁。
+- 门禁：verify_quotes `520/520`；check_vocab `FAIL 0`（WARN 为工具启发式/跨章提示）；check_entities `0`；逐章 `check_chapter_quotes` `485/485`；总览引文 `35/35`；结构 + 关键词锚定 `497 块，0 问题`。
+- 修复：修正 ch46、ch82、ch85、ch89、ch93、ch94、ch95、ch96、ch99、ch100、ch101 等章节的关键词锚定、编号连续性和缺失分析字段；复核 H1 与总览引文。
+- 提交：`d39e623e`（五步审查整改）。
+- 状态：独立五步审查已完成并整改；同会话审查的已知局限：语义层仍可能存在全书统一系统性误判，建议必要时由另一实例抽样复核。
+
 
 ---
 

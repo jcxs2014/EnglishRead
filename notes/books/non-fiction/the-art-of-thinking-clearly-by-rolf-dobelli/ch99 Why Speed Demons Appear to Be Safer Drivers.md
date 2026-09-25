@@ -39,36 +39,39 @@ source_text: ch99_98_why_speed_demons_appear_to_be_safer_d.txt
 
 **句子结构**：This 为指示代词主语；puts...in... 为使役结构；who... 引导定语从句。
 
-**关键词**：automatically, end up in accidents, slower drivers, category
+**关键词：** **：automatically, end up in accidents, slower drivers, category
 
 **表达方式**：用“自动”强调错误不是偶然，而是分组设计必然产生的偏差。
 
-### ② 错误样本
+**为什么这样写**：它把事故者被归入慢车组的过程写成不可见但必然的机制，直接揭示错误如何制造“安全”的表象。
 
+### ② 错误样本
 > **原句 2:** "The intention-to-treat error is not easy to recognize."
 
 **中文理解**：意向处理错误很难识别。
 
 **句子结构**：The intention-to-treat error 为主语；is not easy to recognize 为系表结构。
 
-**关键词：intention-to-treat error, recognize, sample, survivorship bias
+**关键词：** intention-to-treat error, recognize
 
 **表达方式**：用直接判断提醒读者隐藏偏差难以察觉。
 
-### ③ 贷款研究
+**为什么这样写**：它先承认这种错误不显眼，再用后面的贷款和药物案例说明研究者也可能被分组结果误导。
 
+### ③ 贷款研究
 > **原句 3:** "Unprofitable companies don’t get corporate loans."
 
 **中文理解**：无利可图的公司拿不到公司贷款。
 
 **句子结构**：Unprofitable companies 为主语；don’t get 为谓语；corporate loans 为宾语。
 
-**关键词：** Unprofitable, corporate loans, disappear from the sample, debt group
+**关键词：** Unprofitable, corporate loans
 
 **表达方式**：用企业行为解释样本消失，而非用抽象统计术语。
 
-### ④ 药物分组
+**为什么这样写**：它把“债务组更健康”的表面结果追溯到信贷筛选机制，提示相关性可能来自样本选择。
 
+### ④ 药物分组
 > **原句 4:** "The really sick patients who, for this very reason, couldn’t take the drug on a regular basis ended up populating the “irregular intake” group."
 
 **中文理解**：真正病情严重、因此无法规律服药的患者，最终进入了“不规律服药”组。
@@ -79,17 +82,20 @@ source_text: ch99_98_why_speed_demons_appear_to_be_safer_d.txt
 
 **表达方式**：用“真正病情严重”揭示分组标签背后的反向因果。
 
-### ⑤ 检查
+**为什么这样写**：它让读者看到所谓服药不规律可能是疾病严重的结果，而不是药物无效的证据。
 
+### ⑤ 检查
 > **原句 5:** "Always check whether test subjects—drivers who end up in accidents, bankrupt companies, critically ill patients—have, for whatever reason, vanished from the sample."
 
 **中文理解**：始终检查测试对象——事故司机、破产公司、重病患者——是否因任何原因从样本中消失。
 
 **句子结构**：祈使句；check whether... 为谓语；三个破折号成分解释 test subjects。
 
-**关键词**：Always check, test subjects, vanished from the sample, critically ill
+**关键词：** **：Always check, test subjects, vanished from the sample, critically ill
 
 **表达方式**：先给命令，再用三个具体对象防止抽象化。
+
+**为什么这样写**：它把“检查样本是否完整”变成读者可以立刻套用的审查动作，并覆盖三类退出机制。
 
 ## 词汇分级
 

@@ -39,63 +39,59 @@ source_text: ch16_15_why_you_systematically_overestimate_y.txt
 
 **句子结构**：祈使句 Choose a range；for example 插入举例；aiming... 为目的状语，其中 98 percent correct 与 only 2 percent off 构成对照。
 
-**关键词**：Choose a range, estimate, 98 percent correct, 2 percent off
+**关键词：** **：Choose a range, estimate, 98 percent correct, 2 percent off
 
 **表达方式**：把宽泛知识转成一个看似精确的错误率目标，凸显自信与准确之间的落差。
 
 **为什么这样写**：它先让读者主动承诺高置信度，再让后文的 40% 错误结果成为对自我判断的直接反证。
 
 ### ② 过度自信效应
-
 > **原句 2:** "The researchers dubbed this amazing phenomenon the overconfidence effect."
 
 **中文理解**：研究者把这个惊人的现象命名为“过度自信效应”。
 
 **句子结构**：主语 The researchers + 谓语 dubbed；this amazing phenomenon 为宾语，the overconfidence effect 为宾语补足语。
 
-**关键词**：researchers, dubbed, amazing phenomenon, overconfidence effect
+**关键词：** **：researchers, dubbed, amazing phenomenon, overconfidence effect
 
 **表达方式**：用 dubbed 将一次实验结果正式命名，使个人体验进入可复用的概念系统。
 
 **为什么这样写**：命名不仅总结现象，也为后续跨领域迁移提供术语：经济、自我评价和项目计划都可以放入同一框架。
 
 ### ③ 专家并不更准
-
 > **原句 3:** "The overconfidence effect does not deal with whether single estimates are correct or not."
 
 **中文理解**：过度自信效应并不是在衡量单个估计是否正确。
 
 **句子结构**：主句 The overconfidence effect + 谓语 does not deal with；whether...or not 为宾语从句。
 
-**关键词**：overconfidence effect, single estimates, correct, whether...or not
+**关键词：** **：overconfidence effect, single estimates, correct
 
 **表达方式**：先否定一个直觉指标，把评价标准从“答案对不对”转向信心与知识之间的差距。
 
 **为什么这样写**：一个预测偶尔猜中并不证明预测者可靠；真正需要检验的是长期校准程度。
 
 ### ④ 专家确定性
-
 > **原句 4:** "However, the professor will offer his forecast with certitude."
 
 **中文理解**：然而，教授会非常确定地提出自己的预测。
 
 **句子结构**：However 引导转折；the professor 为新主语，will offer 为谓语，with certitude 为方式补足语。
 
-**关键词**：professor, forecast, certitude
+**关键词：** **：professor, forecast, certitude
 
 **表达方式**：把准确性未知与语气确定并置，形成专家形象的核心反差。
 
 **为什么这样写**：权威和确定性容易被误读为 competence；本章要求读者把表达的自信与预测的可靠性分开。
 
 ### ⑤ 悲观情景
-
 > **原句 5:** "And with all plans, favor the pessimistic scenario."
 
 **中文理解**：对于所有计划，都应优先考虑悲观情景。
 
 **句子结构**：And 承接建议；with all plans 为介词短语，favor the pessimistic scenario 为祈使句核心。
 
-**关键词**：plans, favor, pessimistic scenario
+**关键词：** **：plans, favor, pessimistic scenario
 
 **表达方式**：以短促祈使句收束，不追求平衡措辞，直接把悲观规划设为默认方案。
 

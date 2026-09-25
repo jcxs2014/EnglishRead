@@ -39,63 +39,59 @@ source_text: ch60_59_if_you_have_an_enemy_give_him_informa.txt
 
 **句子结构**：介词短语 with a scale of 1:1 修饰 map；as large as the country itself 为比较结构。
 
-**关键词**：map, scale, 1:1, country itself
+**关键词：** **：map, scale, 1:1, country itself
 
 **表达方式**：用精确比例和荒诞尺寸构成思想实验。
 
 **为什么这样写**：信息最大化并不能保证洞察；完整复制现实可能只让人更拥挤地站在现实里。
 
 ### ② 酒店选择
-
 > **原句 2:** "The mountain of additional information did not lead to a better decision."
 
 **中文理解**：堆积如山的新增信息并没有带来更好的决定。
 
 **句子结构**：The mountain of additional information 为主语；did not lead to 为否定谓语；a better decision 为宾语。
 
-**关键词**：mountain, additional information, did not lead, better decision
+**关键词：** **：mountain, additional information, did not lead, better decision
 
 **表达方式**：用 mountain 视觉化信息数量，同时否定其决策价值。
 
 **为什么这样写**：酒店作者把“继续搜索”误当成“提高判断力”，实际上增加了成本。
 
 ### ③ 无关诊断信息
-
 > **原句 3:** "The additional information contributes nothing of value to the decision."
 
 **中文理解**：这些额外信息对决定毫无价值。
 
 **句子结构**：The additional information 为主语；contributes nothing of value 为谓语；to the decision 为状语。
 
-**关键词**：additional information, contributes nothing, value, decision
+**关键词：** **：additional information, contributes nothing, value, decision
 
 **表达方式**：用 nothing of value 明确否定信息的决策相关性。
 
 **为什么这样写**：信息是否存在不是重点，它是否改变最优行动才是。
 
 ### ④ 信息更多却猜错
-
 > **原句 4:** "They had more information, and it misled them."
 
 **中文理解**：他们掌握了更多信息，而这些信息误导了他们。
 
 **句子结构**：They 为主语；had 为谓语；and it misled them 为并列分句。
 
-**关键词**：more information, misled, Chicagoans, household names
+**关键词：** **：more information, misled
 
 **表达方式**：用 and 制造信息量与判断质量的反常关系。
 
 **为什么这样写**：熟悉度会让人把“不熟悉”误当成“更少”，从而破坏概率判断。
 
 ### ⑤ 知识的幻觉
-
 > **原句 5:** "The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge."
 
 **中文理解**：发现的最大障碍不是无知，而是知识的幻觉。
 
 **句子结构**：The greatest obstacle 为主语；not ignorance 与 the illusion of knowledge 构成对比，破折号连接两个名词短语。
 
-**关键词**：greatest obstacle, discovery, ignorance, illusion of knowledge
+**关键词：** **：greatest obstacle, discovery, ignorance, illusion of knowledge
 
 **表达方式**：用 not...but... 的强调对比改写格言。
 

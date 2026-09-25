@@ -39,63 +39,59 @@ source_text: ch85_84_why_money_is_not_naked_house_money_ef.txt
 
 **句子结构**：The money 为主语；spent little time in my pocket 为谓语；I soon bought... 为后续叙述。
 
-**关键词**：spent little time, top-of-the-range, disc brakes, Shimano gears
+**关键词：** **：spent little time, top-of-the-range, disc brakes, Shimano gears
 
 **表达方式**：用具体配件把“挥霍”写成可视故事。
 
 **为什么这样写**：细节让读者看见钱如何迅速从临时财富变成享受。
 
 ### ② 同样的钱
-
 > **原句 2:** "You can count it any way you like; $20,000 is still $20,000."
 
 **中文理解**：你可以随意计算这笔钱；20,000 美元仍然是 20,000 美元。
 
 **句子结构**：You 为主语；can count 为谓语；分号连接第二句作为反驳。
 
-**关键词**：count it any way, still, $20,000
+**关键词：** **：count it any way, still, $20, 000
 
 **表达方式**：用金额不变反驳心理账户差异。
 
 **为什么这样写**：它直接指出事实金额与主观意义之间的矛盾。
 
 ### ③ 赌场
-
 > **原句 3:** "I didn’t really gamble away a thousand dollars. I won all that earlier."
 
 **中文理解**：我其实没有输掉一千美元；这些钱都是之前赢来的。
 
 **句子结构**：I 为主语；didn’t really gamble away... 为否定谓语；I won... 为补充说明。
 
-**关键词**：gamble away, won all that, psychological account
+**关键词：** **：gamble away, won all that
 
 **表达方式**：用人物自我辩解呈现心理账本。
 
 **为什么这样写**：它让读者听见损失如何被重新命名为“花掉赢来的钱”。
 
 ### ④ 命名
-
-> **原句 5:** "The economist Richard Thaler calls this the house-money effect."
+> **原句 4:** "The economist Richard Thaler calls this the house-money effect."
 
 **中文理解**：经济学家理查德·塞勒把这称为房钱效应。
 
 **句子结构**：The economist Richard Thaler 为主语；calls this... 为谓语；the house-money effect 为宾语补足语。
 
-**关键词**：Richard Thaler, calls this, house-money effect
+**关键词：** Richard Thaler, calls this, house-money effect
 
 **表达方式**：用命名把分散案例收束成可复用概念。
 
 **为什么这样写**：有了概念名，读者就能识别免费奖金、优惠和返利中的共同模式。
 
 ### ⑤ 结论
-
 > **原句 5:** "Put it in workmen’s gear."
 
 **中文理解**：把它换成工作服。
 
 **句子结构**：隐含主语 you；Put 为祈使动词；it 为宾语；in workmen’s gear 为地点状语。
 
-**关键词**：workmen’s gear, free money, bank account
+**关键词：** workmen’s gear
 
 **表达方式**：用“工作服”隐喻把奖金重新纳入严肃、长期的资金用途。
 

@@ -39,49 +39,46 @@ source_text: ch44_43_why_watching_and_waiting_is_torture_a.txt
 
 **句子结构**：冒号前是定义短语，冒号后为祈使句 Look active；even if 引导让步状语从句。
 
-**关键词**：action bias, Look active, achieves nothing
+**关键词：** **：action bias, Look active, achieves nothing
 
 **表达方式**：用命令式短语压缩机制。
 
 **为什么这样写**：把复杂心理归因变成行为准则：行动的外在价值可能压过实际效果。
 
 ### ② 警察介入
-
 > **原句 2:** "If no experienced officers are involved, this situation often ends differently."
 
 **中文理解**：如果没有资深警察参与，这种情况往往会以不同方式结束。
 
 **句子结构**：If 引导条件状语从句；主句 this situation often ends differently，often 为频率状语。
 
-**关键词**：experienced officers, involved, ends differently
+**关键词：** **：experienced officers, involved, ends differently
 
 **表达方式**：用反事实条件把经验的作用呈现出来。
 
 **为什么这样写**：它把“看起来果断”与“降低伤亡”区分开，说明等待也可能是专业行动。
 
 ### ③ 投资者的过度活跃
-
 > **原句 3:** "They can’t yet judge the stock market so they compensate with a sort of hyperactivity."
 
 **中文理解**：他们还不能判断股市，于是用某种过度活跃来补偿。
 
 **句子结构**：They can’t yet judge... 为原因分句；so they compensate... 为结果分句。
 
-**关键词**：can’t judge, compensate, hyperactivity
+**关键词：** compensate, hyperactivity
 
 **表达方式**：用 compensate 把焦虑与交易行为连接起来。
 
 **为什么这样写**：行动不是掌握信息的证据，可能只是不确定性的情绪出口。
 
 ### ④ 等待的机会成本
-
 > **原句 4:** "You get no honor, no medal, no statue with your name on it if you make exactly the right decision by waiting."
 
 **中文理解**：如果因等待而作出完全正确的决定，你得不到荣誉、奖章或雕像。
 
 **句子结构**：You get no honor, no medal, no statue 为三个并列名词；if 引导条件状语从句。
 
-**关键词**：honor, medal, statue, waiting
+**关键词：** **：honor, medal, statue, waiting
 
 **表达方式**：用三项奖励的排比强调等待缺少可见反馈。
 

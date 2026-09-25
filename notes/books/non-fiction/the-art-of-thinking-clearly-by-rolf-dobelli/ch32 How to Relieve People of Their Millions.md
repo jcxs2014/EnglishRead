@@ -39,63 +39,59 @@ source_text: ch32_31_how_to_relieve_people_of_their_millio.txt
 
 **句子结构**：Each additional day’s feeding 作主语；confirms 为谓语；this 指代前句“农民对我有best interests at heart”。
 
-**关键词**：additional day, feeding, confirms
+**关键词：** **：additional day, feeding, confirms
 
 **表达方式**：用重复动作的累积性表现归纳如何逐步强化信念。
 
 **为什么这样写**：鹅不是突然相信农民，而是每天得到一个新样本，最终把有限善意扩大成绝对可靠。
 
 ### ② 连续上涨
-
 > **原句 2:** "The share price rockets, and at first he is wary."
 
 **中文理解**：股价飙升，起初他还保持警惕。
 
 **句子结构**：并列复合句；The share price rockets 与 he is wary 分别描述价格变化和投资者反应。
 
-**关键词**：share price, rockets, at first, wary
+**关键词：** **：share price, rockets, at first, wary
 
 **表达方式**：把价格上涨和心理警惕放在同一时间线上，制造后续信念转变的落差。
 
 **为什么这样写**：上涨越持续，警惕越像多余；这为投资者把历史表现误当未来保证埋下逻辑入口。
 
 ### ③ 预测骗局
-
 > **原句 3:** "From their perspective, you are a genius."
 
 **中文理解**：从他们的角度看，你就是个天才。
 
 **句子结构**：介词短语 From their perspective 作状语；you are a genius 为系表结构。
 
-**关键词**：perspective, genius
+**关键词：** **：perspective, genius
 
 **表达方式**：用幸存者视角揭示骗局的核心：幸存者只看自己的命中记录。
 
 **为什么这样写**：预测邮件不断淘汰错的人，最终只剩“连续预测正确”的人，但他们看不见筛选机制。
 
 ### ④ 跳伞者
-
 > **原句 4:** "This single event was enough to eradicate a theory confirmed a thousand times over."
 
 **中文理解**：这一个事件就足以摧毁一个已被确认上千次的理论。
 
 **句子结构**：This single event 为主语；was enough to... 为系表结构；confirmed a thousand times over 为过去分词短语修饰 theory。
 
-**关键词**：single event, eradicate, theory, confirmed a thousand times
+**关键词：** **：single event, eradicate, theory, confirmed a thousand times
 
 **表达方式**：用“单次反例击碎千次确认”的不对称性说明归纳脆弱。
 
 **为什么这样写**：风险的尾部损失可能很大，不能用过去一千次无事故把下一次事故降为零。
 
 ### ⑤ 暂时信心
-
 > **原句 5:** "These are confidences without which we could not live, but we must remember that certainties are always provisional."
 
 **中文理解**：没有这些信心我们就无法生活，但必须记住，确定性永远是暂时的。
 
 **句子结构**：without which we could not live 为省略关系从句的定语结构；but 引导转折，certainties are always provisional 为主句。
 
-**关键词**：confidences, could not live, certainties, provisional
+**关键词：** **：confidences, could not live, certainties, provisional
 
 **表达方式**：先承认归纳的必要功能，再给它的确定性加时间限制。
 

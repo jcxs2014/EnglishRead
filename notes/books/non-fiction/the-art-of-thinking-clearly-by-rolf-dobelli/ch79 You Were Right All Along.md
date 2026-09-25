@@ -39,56 +39,52 @@ source_text: ch79_78_you_were_right_all_along_falsificatio.txt
 
 **句子结构**：Revising the past 为主语；creates the illusion of infallibility 为并列谓语之一；helps the government secure... 为第二谓语。
 
-**关键词**：Revising the past, illusion of infallibility, secure absolute power
+**关键词：** **：Revising the past, illusion of infallibility, secure absolute power
 
 **表达方式**：用两个并列结果说明改写历史的功能。
 
 **为什么这样写**：它把记忆改写从个人心理提升为权力机制。
 
 ### ② 记忆中的自我修正
-
 > **原句 2:** "As they vanish one by one, you start to believe you were right all along."
 
 **中文理解**：当旧观点一个个消失时，你开始相信自己一直是对的。
 
 **句子结构**：As they vanish one by one 为时间状语从句；you 为主语；start to believe... 为谓语。
 
-**关键词**：vanish one by one, start to believe, right all along
+**关键词：** **：vanish one by one, start to believe, right all along
 
 **表达方式**：用渐进消失的过程解释“从未错过”的自我叙事。
 
 **为什么这样写**：它准确描述了记忆重构后主观确定感如何形成。
 
 ### ③ 追踪研究
-
 > **原句 3:** "What they recalled disclosing in 1973 was almost identical to their present-day views."
 
 **中文理解**：他们回忆自己在 1973 年表达的内容，几乎与今天的观点完全相同。
 
 **句子结构**：What they recalled disclosing... 为主语从句；was 为系动词；almost identical to... 为表语。
 
-**关键词**：recalled disclosing, 1973, present-day views, almost identical
+**关键词：** **：recalled disclosing, 1973, present-day views, almost identical
 
 **表达方式**：用时间跨度与相似结果突出记忆改写。
 
 **为什么这样写**：人们报告的“过去观点”已不再能作为稳定证据。
 
 ### ④ 闪光灯记忆
-
 > **原句 4:** "They are the product of reconstruction."
 
 **中文理解**：它们是重构的产物。
 
 **句子结构**：They 为主语；are 为系动词；the product of reconstruction 为表语。
 
-**关键词：** They, product of reconstruction, flashbulb memories
+**关键词：** They, product of reconstruction
 
 **表达方式**：用极短定义句制造判断落点。
 
 **为什么这样写**：在读者刚相信重大记忆像照片后，这句话直接推翻确定性。
 
 ### ⑤ 司法风险
-
 > **原句 5:** "To trust such accounts without additional investigation is reckless."
 
 **中文理解**：不经进一步调查就相信这类说法是鲁莽的。

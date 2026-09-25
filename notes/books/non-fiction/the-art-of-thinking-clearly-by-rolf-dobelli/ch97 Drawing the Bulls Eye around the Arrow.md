@@ -47,56 +47,52 @@ source_text: ch97_96_drawing_the_bull_s_eye_around_the_arr.txt
 **为什么这样写**：酒店案例让读者先承认自己熟悉这种偏差，再看到它如何进入正式报告。
 
 ### ② 目标机构
-
 > **原句 2:** "These bodies also cherry-pick."
 
 **中文理解**：这些机构也会挑选有利信息呈现。
 
 **句子结构**：These bodies 为主语；also cherry-pick 为谓语。
 
-**关键词：** These bodies, cherry-pick, objective depictions, annual reports
+**关键词：** These bodies, cherry-pick
 
 **表达方式**：用 also 扩大问题范围。
 
 **为什么这样写**：它打破了“只有商家会这么做”的心理舒适区。
 
 ### ③ 轶事
-
 > **原句 3:** "To rebuff an anecdote is difficult because it is a mini-story."
 
 **中文理解**：反驳一个轶事很难，因为它是一个小故事。
 
 **句子结构**：To rebuff... 为不定式目的；because 引出原因；it is a mini-story 为原因从句。
 
-**关键词：** rebuff an anecdote, mini-story, weight, survey
+**关键词：** rebuff an anecdote, mini-story
 
 **表达方式**：用“迷你故事”解释人为何容易被单个案例说服。
 
 **为什么这样写**：故事具有情感连贯性，而总体数据往往缺乏戏剧性；形式本身会影响证据权重。
 
 ### ④ 遗漏的樱桃
-
 > **原句 4:** "ask about the “leftover cherries,” the failed projects and missed goals."
 
 **中文理解**：询问“剩下的樱桃”、失败的项目和错过的目标。
 
 **句子结构**：祈使句；ask about 为谓语；三个名词短语为并列宾语。
 
-**关键词：** leftover cherries, failed projects, missed goals, supervisory board
+**关键词：** leftover cherries, failed projects, missed goals
 
 **表达方式**：用新鲜隐喻把未报告内容具象化。
 
 **为什么这样写**：把“遗漏项”变成可主动追问的对象，监督者才不会只听成功故事。
 
 ### ⑤ 围靶心
-
 > **原句 5:** "It is the equivalent of shooting an arrow and drawing a bull’s-eye around where it lands."
 
 **中文理解**：这相当于射出箭后，再围着落点画一个靶心。
 
 **句子结构**：It 为主语；is the equivalent of... 为系表结构；drawing 为动名词。
 
-**关键词：** shooting an arrow, bull’s-eye, where it lands, self-set goals
+**关键词：** shooting an arrow, bull’s-eye, where it lands
 
 **表达方式**：用动作隐喻批评事后调整标准。
 

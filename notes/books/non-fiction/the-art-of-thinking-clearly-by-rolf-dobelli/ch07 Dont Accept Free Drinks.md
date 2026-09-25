@@ -39,105 +39,98 @@ source_text: ch07_6_don_t_accept_free_drinks_reciprocity.txt
 
 **句子结构**：If 引导条件从句；主句 you took the flower；simply to avoid seeming rude 为目的状语。
 
-**关键词**：took the flower, avoid seeming rude, most people
+**关键词：** **：took the flower, avoid seeming rude, most people
 
 **表达方式**：用 “most people” 和礼貌理由解释接受礼物，而非先讨论对方的目的。
 
 **为什么这样写**：它把互惠的起点放在社交礼仪中：人们往往还没意识到索取，就先完成了“礼貌性接受”。
 
 ### ② 亏欠感
-
 > **原句 2:** "He has studied the phenomenon of reciprocity and has established that people have extreme difficulty being in another person’s debt."
 
 **中文理解**：他研究了互惠现象，并确认人们极难承受处在他人亏欠之中。
 
 **句子结构**：He has studied... and has established... 为两个并列现在完成时谓语；that people... 为第二个宾语从句。
 
-**关键词**：phenomenon of reciprocity, established, in another person’s debt
+**关键词：** **：phenomenon of reciprocity, established, in another person’s debt
 
 **表达方式**：用 debt 把抽象的互惠心理翻译成债务关系。
 
 **为什么这样写**：亏欠感是连接“接受礼物”和“答应请求”的关键中间机制，术语化后便于读者识别。
 
 ### ③ 先给后取
-
 > **原句 3:** "Many NGOs and philanthropic organizations use exactly the same techniques: First give, then take."
 
 **中文理解**：许多非政府组织和慈善机构完全使用同样的技巧：先给予，然后索取。
 
 **句子结构**：主语 Many NGOs and philanthropic organizations + 谓语 use；冒号后的 First give, then take 是两个省略主语和助动词的祈使式短句。
 
-**关键词**：NGOs, philanthropic organizations, First give, then take
+**关键词：** **：NGOs, philanthropic organizations, First give, then take
 
 **表达方式**：以两个对称的短命令把复杂募捐策略压缩成顺序公式。
 
 **为什么这样写**：顺序是互惠操纵的核心；作者用最小句式让读者记住“先给，再要”。
 
 ### ④ 理解策略仍然上当
-
 > **原句 4:** "Even though I understood the tactic, it took a little willpower and ruthlessness to throw them in the trash."
 
 **中文理解**：即使我理解这个策略，仍需要一点意志力和无情，才能把它们扔进垃圾桶。
 
 **句子结构**：Even though 引导让步从句；主句 it took... to throw... 中 it 为形式主语，willpower and ruthlessness 为并列名词。
 
-**关键词**：understood the tactic, willpower, ruthlessness, throw them in the trash
+**关键词：** **：understood the tactic, willpower, ruthlessness, throw them in the trash
 
 **表达方式**：承认知道策略并不等于能抵抗策略，把意志成本写进案例。
 
 **为什么这样写**：它避免把互惠偏差归咎于无知，说明即使识别了操纵，情绪和礼貌仍可能让人屈服。
 
 ### ⑤ 猎物的分享
-
 > **原句 5:** "The bellies of your buddies serve as your refrigerator."
 
 **中文理解**：你伙伴的肚子就是你的冰箱。
 
 **句子结构**：主语 The bellies of your buddies + 谓语 serve as；your refrigerator 为介词 as 的宾语。
 
-**关键词**：bellies, buddies, serve as, refrigerator
+**关键词：** **：bellies, buddies, serve as, refrigerator
 
 **表达方式**：用生活化类比解释互相分享在匮乏环境中的储藏功能。
 
 **为什么这样写**：互惠的正面价值先被具体化，后文批评操纵时才不会把合作本身误判为错误。
 
 ### ⑥ 互惠的生存价值
-
 > **原句 6:** "Reciprocity is a very useful survival strategy, a form of risk management."
 
 **中文理解**：互惠是一种非常有用的生存策略，也是一种风险管理形式。
 
 **句子结构**：主语 Reciprocity + 系动词 is；两个同位表语 a very useful survival strategy 与 a form of risk management 并列。
 
-**关键词**：useful survival strategy, risk management, reciprocity
+**关键词：** **：useful survival strategy, risk management, reciprocity
 
 **表达方式**：用同位结构给概念双重定位，兼顾合作和风险管理。
 
 **为什么这样写**：作者承认互惠并非天然有害，避免把“回报”简单等同于操控。
 
 ### ⑦ 报复的副作用
-
 > **原句 7:** "Revenge breeds counter-revenge, and you soon find yourself in a full-scale war."
 
 **中文理解**：报复滋生反报复，你很快发现自己陷入全面战争。
 
 **句子结构**：Revenge breeds counter-revenge 为并列因果链；and you soon find... 为结果分句，yourself in a full-scale war 为介词短语。
 
-**关键词**：revenge, counter-revenge, full-scale war
+**关键词：** **：revenge, counter-revenge, full-scale war
 
 **表达方式**：用 breeds 和 soon find 把互惠的回报逻辑推到失控的对抗终点。
 
 **为什么这样写**：互惠的“公平回报”如果缺少边界，就可能从合作机制变成循环升级。
 
 ### ⑧ 晚餐循环
-
 > **原句 8:** "The constraint of reciprocity had now presented us with two wearisome evenings."
 
 **中文理解**：互惠这一约束随后给我们带来了两个令人疲惫的晚上。
 
 **句子结构**：主语 The constraint of reciprocity + 过去完成时谓语 had presented；us 为间接受事者，with two wearisome evenings 为方式/伴随补语。
 
-**关键词**：constraint of reciprocity, presented, two wearisome evenings
+**关键词：** **：constraint of reciprocity, presented, two wearisome evenings
 
 **表达方式**：把心理压力人格化为 constraint，并将社交义务转换成两个具体的疲惫夜晚。
 

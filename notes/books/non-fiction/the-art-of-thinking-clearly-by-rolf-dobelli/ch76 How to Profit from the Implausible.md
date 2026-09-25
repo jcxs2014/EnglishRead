@@ -39,56 +39,52 @@ source_text: ch76_75_how_to_profit_from_the_implausible_th.txt
 
 **句子结构**：All swans 为主语；are white 为系表结构。
 
-**关键词**：All swans, white, watertight, black swans
+**关键词：** **：All swans, white
 
 **表达方式**：用绝对化的短句建立一个看似不可动摇的经验规律。
 
 **为什么这样写**：黑天鹅的价值在于把一句绝对判断直接击穿。
 
 ### ② 市场崩跌
-
 > **原句 2:** "Then, suddenly, a day like October 19, 1987, comes around and the stock market tumbles 22 percent."
 
 **中文理解**：然后，突然像 1987 年 10 月 19 日这样的日子到来，股市暴跌 22%。
 
 **句子结构**：Then 与 suddenly 构成时间强调；a day... 为主语；comes around and tumbles 为并列谓语。
 
-**关键词**：suddenly, October 19, 1987, tumbles 22 percent
+**关键词：** **：suddenly, October 19, 1987, tumbles 22 percent
 
 **表达方式**：用精确日期和百分比把抽象风险变成历史事件。
 
 **为什么这样写**：极端事件并非纯粹想象，股灾说明线性上涨经验可能突然失效。
 
 ### ③ 黑天鹅
-
 > **原句 3:** "A Black Swan is an unthinkable event that massively affects your life."
 
 **中文理解**：黑天鹅是一个难以想象、却会极大影响你生活的事件。
 
 **句子结构**：A Black Swan 为主语；is 为系动词；an unthinkable event that... 为表语。
 
-**关键词**：Black Swan, unthinkable event, massively affects, life
+**关键词：** **：Black Swan, unthinkable event, massively affects, life
 
 **表达方式**：用定义句明确核心概念。
 
 **为什么这样写**：定义同时包含不可预测性和影响巨大两个条件。
 
 ### ④ 未知未知
-
 > **原句 4:** "There are things we do not know that we do not know."
 
 **中文理解**：有些事情，我们甚至不知道自己不知道。
 
 **句子结构**：There are things 为存在句；we do not know that we do not know 为定语从句和宾语从句嵌套。
 
-**关键词**：things we do not know, unknown unknowns, foresaw, Black Swan
+**关键词：** **：things we do not know
 
 **表达方式**：用重复否定制造哲学式悖论。
 
 **为什么这样写**：它区分了可通过研究回答的未知与连问题本身都尚未出现的情况。
 
 ### ⑤ 防御
-
 > **原句 5:** "Stay out of debt, invest your savings as conservatively as possible."
 
 **中文理解**：不要负债，尽可能保守地投资你的积蓄。

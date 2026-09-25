@@ -39,63 +39,59 @@ source_text: ch89_88_you_have_no_idea_what_you_are_overloo.txt
 
 **句子结构**：The drivers 为主语；were so focused...that... 为结果状语从句。
 
-**关键词**：focused on, navigation systems, didn’t notice, right in front
+**关键词：** **：focused on, navigation systems, didn’t notice, right in front
 
 **表达方式**：用 so...that... 将注意力集中与漏看直接连接。
 
 **为什么这样写**：它把抽象的注意力盲区落到迫在眉睫的现实危险上。
 
 ### ② 猩 gorilla
-
 > **原句 2:** "Gorilla? What gorilla?"
 
 **中文理解**：猩猩？什么猩猩？
 
 **句子结构**：两个省略式疑问句，省略主语和谓语。
 
-**关键词**：Gorilla, noticed, unusual, illusion of attention
+**关键词：** Gorilla
 
 **表达方式**：用断裂式重复表现观众完全漏看。
 
 **为什么这样写**：反问把读者从“外部观察者”位置拉入实验参与者的困惑。
 
 ### ③ 注意力错觉
-
 > **原句 3:** "We are confident that we notice everything that takes place in front of us."
 
 **中文理解**：我们确信自己注意到了眼前发生的一切。
 
 **句子结构**：We 为主语；are confident that... 为系表结构；that 从句为宾语。
 
-**关键词**：confident, notice everything, takes place, illusion
+**关键词：** confident, notice everything, takes place
 
 **表达方式**：用 confident that 呈现过度自信。
 
 **为什么这样写**：问题不只是漏看，而是人不会意识到自己漏看。
 
 ### ④ 房间里的猩猩
-
 > **原句 4:** "a topic that is of the utmost importance and urgency, and that we absolutely need to address, but nobody knows about it."
 
 **中文理解**：一个极其重要、极其紧迫、我们绝对需要处理，却没有人知道的话题。
 
 **句子结构**：a topic 为主语；that... and that... 为并列定语从句；but nobody... 为转折。
 
-**关键词：utmost importance, urgency, address, nobody knows
+**关键词：** utmost importance, urgency, address, nobody knows
 
 **表达方式**：用最高级和转折堆叠定义隐性问题。
 
 **为什么这样写**：真正危险的问题未必最响亮，可能正是因为没有人谈论才持续存在。
 
 ### ⑤ 结论
-
 > **原句 5:** "Check the periphery, not just the center."
 
 **中文理解**：要检查外围，而不只是中心。
 
 **句子结构**：祈使句；省略主语 you；Check 为谓语；the periphery 与 the center 通过 not just 对比。
 
-**关键词：Check the periphery, not just the center, unexpected events, unheard
+**关键词：** Check the periphery, not just the center
 
 **表达方式**：用对照式命令给出行为方案。
 

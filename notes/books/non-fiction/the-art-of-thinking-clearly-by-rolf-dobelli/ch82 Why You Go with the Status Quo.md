@@ -39,63 +39,59 @@ source_text: ch82_81_why_you_go_with_the_status_quo_defaul.txt
 
 **句子结构**：How many... 为特殊疑问句；You guessed it 为省略句；not one 为省略回答。
 
-**关键词**：set up, guessed, not one, default effect
+**关键词：** **：set up, guessed, not one
 
 **表达方式**：用问答和省略回答表现选项过多。
 
 **为什么这样写**：它把“自由定制”反转为“完全不配置”的默认行为。
 
 ### ② 柔软枕头
-
 > **原句 2:** "The default setting is as warm and welcoming as a soft pillow."
 
 **中文理解**：默认设置像柔软枕头一样温暖、诱人。
 
 **句子结构**：The default setting 为主语；is as...as... 为比较结构；a soft pillow 为比较对象。
 
-**关键词：default setting, warm, welcoming, soft pillow
+**关键词：** default setting, warm, welcoming, soft pillow
 
 **表达方式**：用柔软枕头比喻低摩擦选项。
 
 **为什么这样写**：身体舒适感准确传达了人为何不愿改变默认值。
 
 ### ③ 保险政策
-
 > **原句 3:** "The first policy was cheaper but waived certain rights to compensation should an accident take place."
 
 **中文理解**：第一种保险更便宜，但若发生事故，会放弃某些赔偿权利。
 
 **句子结构**：The first policy 为主语；was cheaper 为系表结构；but waived... 为并列谓语；should... 为条件状语。
 
-**关键词：policy, cheaper, waived, compensation, accident
+**关键词：** policy, cheaper, waived, compensation, accident
 
 **表达方式**：用“便宜但放弃权利”呈现默认选择的隐性成本。
 
 **为什么这样写**：如果只看价格而不看放弃的权利，默认项就很难被理性比较。
 
 ### ④ 器官捐献
-
 > **原句 4:** "Making donation the default option increased take-up from 40 percent to more than 80 percent."
 
 **中文理解**：把捐献设为默认选项，使参与率从 40% 提高到 80% 以上。
 
 **句子结构**：Making donation the default option 为动名词主语；increased 为谓语；from...to... 为范围变化。
 
-**关键词：donation, default option, increased, take-up, 40 percent
+**关键词：** donation, default option, increased, take-up, 40 percent
 
 **表达方式**：用前后百分比直接展示制度设计的巨大影响。
 
 **为什么这样写**：同一项选择仅改变默认值，参与率就翻倍，说明行为高度受呈现方式影响。
 
 ### ⑤ 损失厌恶
-
 > **原句 5:** "Loss aversion plays a role."
 
 **中文理解**：损失厌恶也起了作用。
 
 **句子结构**：Loss aversion 为主语；plays a role 为系表结构。
 
-**关键词：Loss aversion, plays a role, status-quo bias, concessions
+**关键词：** Loss aversion, plays a role
 
 **表达方式**：用短句补充现状偏好的心理机制。
 

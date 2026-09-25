@@ -40,63 +40,59 @@ source_text: ch98_97_the_stone_age_hunt_for_scapegoats_fal.txt
 
 **句子结构**：省略祈使句；The real reason 为强调宾语；not the sales pitch 为对比。
 
-**关键词：** real reason, sales pitch, motive, war
+**关键词：** real reason, sales pitch
 
 **表达方式**：用简短对比逼问真正动机。
 
 **为什么这样写**：媒体的单一原因问题会预设“存在一个隐藏在官方说法背后的原因”，这正是本章要拆解的直觉。
 
 ### ② 命名
-
 > **原句 2:** "the fallacy of the single cause"
 
 **中文理解**：单一原因谬误。
 
 **句子结构**：名词短语作 the awkward phrase 的同位解释。
 
-**关键词：** fallacy, single cause, awkward phrase, mental error
+**关键词：** fallacy, single cause
 
 **表达方式**：用学术名称替代日常缺失的说法。
 
 **为什么这样写**：命名让分散的新闻、金融和哲学案例归于同一认知错误。
 
 ### ③ 共同作用
-
 > **原句 3:** "Not a single one, and yet every one of these, is the cause."
 
 **中文理解**：没有哪一个单独的原因，但这些因素每一个都是原因。
 
 **句子结构**：Not a single one 与 and yet every one... 形成对照。
 
-**关键词：** not a single one, every one, the cause, factors
+**关键词：** not a single one, every one, the cause
 
 **表达方式**：用否定和肯定并置打破“单一原因”前提。
 
 **为什么这样写**：复杂事件不是没有原因，而是由多个部分共同构成原因。
 
 ### ④ 网络
-
 > **原句 4:** "After a while, you will have a network of possible influencing factors."
 
 **中文理解**：过一段时间，你会得到一张可能影响因素的网络。
 
 **句子结构**：After a while 为时间状语；you 为主语；will have 为谓语；a network 为宾语。
 
-**关键词：** network, possible, influencing factors, empirical tests
+**关键词：** network, possible, influencing factors
 
 **表达方式**：用“网络”取代单条因果链。
 
 **为什么这样写**：网络允许因素互相影响，也提醒分析者不要过早锁定单一路径。
 
 ### ⑤ 替罪羊
-
 > **原句 5:** "The idiotic hunt for a scapegoat goes hand in hand with the exercise of power."
 
 **中文理解**：寻找替罪羊的愚蠢狩猎与行使权力手挽手并行。
 
 **句子结构**：The idiotic hunt 为主语；goes hand in hand with... 为系表结构。
 
-**关键词：** scapegoat, hunt, exercise of power, single reason
+**关键词：** scapegoat, hunt, exercise of power
 
 **表达方式**：用固定搭配把认知错误和权力结构相连。
 

@@ -39,77 +39,72 @@ source_text: ch39_38_why_attractive_people_climb_the_caree.txt
 
 **句子结构**：What had changed 为主语从句，was demand 为系表结构；that was through no fault of the firm 为补充说明。
 
-**关键词**：What had changed, dot-com crash, demand, through no fault
+**关键词：** **：What had changed, dot-com crash, demand, through no fault
 
 **表达方式**：把市场变化与公司责任分开，直接打断读者的归因。
 
 **为什么这样写**：前一段的负面评价来自单一股价变化，这一句指出真正的变化在需求端，从而展示光环如何遮蔽真正原因。
 
 ### ② 定义光环效应
-
 > **原句 2:** "The halo effect occurs when a single aspect dazzles us and affects how we see the full picture."
 
 **中文理解**：当某个单一方面迷住我们，并影响我们对整体的看法时，光环效应就出现了。
 
 **句子结构**：主语 The halo effect；谓语 occurs when；when 引导时间/条件状语从句；两个并列分句由 and 连接。
 
-**关键词**：halo effect, dazzles, full picture
+**关键词：** **：halo effect, dazzles, full picture
 
 **表达方式**：以 when 引导的定义句直接命名机制。
 
 **为什么这样写**：它把抽象偏见写成视觉隐喻：一个亮点遮住了其他部分。
 
 ### ③ 从局部外推整体
-
 > **原句 3:** "We take a simple-to-obtain or remarkable fact or detail, such as a company’s financial situation, and extrapolate conclusions from there that are harder to nail down, such as the merit of its management or the feasibility of its strategy."
 
 **中文理解**：我们抓住容易获得或引人注目的事实细节，再由此外推到更难确定的结论。
 
 **句子结构**：We take... and extrapolate... 为并列谓语；两处 such as 分别举例说明“事实”和“结论”。
 
-**关键词**：simple-to-obtain, remarkable, extrapolate, merit, feasibility
+**关键词：** **：simple-to-obtain, remarkable, extrapolate, merit, feasibility
 
 **表达方式**：用成对的对举呈现输入的容易与输出的困难。
 
 **为什么这样写**：它说明偏见不是凭空产生的，而是认知上用容易判断的指标替代难以核验的指标。
 
 ### ④ 外貌与整体判断
-
 > **原句 4:** "Dozens of studies have shown that we automatically regard good-looking people as more pleasant, honest, and intelligent."
 
 **中文理解**：几十项研究显示，我们会自动把好看的人看作更愉快、更诚实、更聪明。
 
 **句子结构**：主语 Dozens of studies；谓语 have shown；that 引导宾语从句；more pleasant, honest, and intelligent 为并列比较结构。
 
-**关键词**：Dozens of studies, automatically, good-looking, pleasant, honest, intelligent
+**关键词：** **：Dozens of studies, automatically, good-looking, pleasant, honest, intelligent
 
 **表达方式**：用研究数量和三联形容词增强可信度，同时暴露评价范围过宽。
 
 **为什么这样写**：外貌特征本身不能证明道德或智力，但光环效应会让无关品质随之上涨。
 
 ### ⑤ 明星广告
-
 > **原句 5:** "We are so used to seeing celebrities promoting arbitrary products that we never stop to consider why their support should be of any importance to us."
 
 **中文理解**：我们太习惯看到名人推广任意产品，以至于从不考虑他们的支持为何对我们重要。
 
 **句子结构**：so...that... 结果状语从句；stop to consider 后接 why 宾语从句。
 
-**关键词**：used to, celebrities, arbitrary, stop to consider
+**关键词：** **：used to, celebrities, arbitrary, stop to consider
 
 **表达方式**：用 so...that... 描述习惯如何关闭了质疑。
 
 **为什么这样写**：它把消费者从主动判断者改写为被熟悉广告格式牵着走的人。
 
 ### ⑥ 隔离突出特征
-
 > **原句 6:** "World-class orchestras achieve this by making candidates play behind a screen."
 
 **中文理解**：世界级管弦乐团通过让候选人躲在幕布后演奏来做到这一点。
 
 **句子结构**：主语 World-class orchestra（原文为复数 orchestras）；谓语 achieves；by 引导方式状语；candidates play 为省略 to 的不定式。
 
-**关键词**：World-class orchestras, candidates, behind a screen
+**关键词：** **：World-class orchestras, candidates, behind a screen
 
 **表达方式**：用制度设计解决个人偏见。
 

@@ -39,63 +39,59 @@ source_text: ch61_60_hurts_so_good_effort_justification.txt
 
 **句子结构**：He 为主语；opens his top shirt button 为谓语；at every opportunity 为时间状语；to showcase... 为目的状语。
 
-**关键词**：top shirt button, opportunity, showcase, small scar
+**关键词：** **：top shirt button, opportunity, showcase, small scar
 
 **表达方式**：用反复动作把疤痕转成身份展示。
 
 **为什么这样写**：身体疼痛成为勋章价值的来源，尽管徽章本身没有因此变贵。
 
 ### ② 哈雷摩托
-
 > **原句 2:** "Even when a prospect offers double the actual value, Mark does not sell it."
 
 **中文理解**：即使有人出价是实际价值的两倍，马克仍不出售它。
 
 **句子结构**：Even when 引导让步状语从句；Mark 为主语；does not sell it 为否定谓语。
 
-**关键词**：prospect, double, actual value, does not sell
+**关键词：** **：prospect, double, actual value, does not sell
 
 **表达方式**：用高额报价与拒绝并置，展示投入造成的估值偏离。
 
 **为什么这样写**：出售会确认过去投入的沉没成本，保留则能继续维护努力辩护。
 
 ### ③ 努力辩护
-
 > **原句 3:** "When you put a lot of energy into a task, you tend to overvalue the result."
 
 **中文理解**：当你在任务上投入大量精力时，往往会高估结果。
 
 **句子结构**：When 引导时间/条件状语从句；主句 you tend to overvalue the result。
 
-**关键词**：put energy, tend to, overvalue, result
+**关键词：** tend to, overvalue, result
 
 **表达方式**：用 tend to 保留程度和情境限制。
 
 **为什么这样写**：投入让结果在心理上变重，即使外部质量没有变化。
 
 ### ④ MBA 价值
-
 > **原句 4:** "They’ll deem the qualification essential for their careers simply because it demanded so much of them."
 
 **中文理解**：他们会认为这个资格对职业至关重要，只因为它向他们索取了太多。
 
 **句子结构**：They 为主语；deem the qualification essential 为动宾补语结构；for their careers 为范围状语；because 引导原因。
 
-**关键词**：deem, qualification, essential, careers, demanded
+**关键词：** **：deem, qualification, essential, careers, demanded
 
 **表达方式**：把“证书有用”反转为“因为太难所以显得有用”。
 
 **为什么这样写**：牺牲成本被误当成质量和身份价值的证据。
 
 ### ⑤ 自我审查
-
 > **原句 5:** "Whenever you have invested a lot of time and effort into something, stand back and examine the result—only the result."
 
 **中文理解**：每当你在某件事上投入大量时间和精力，就退后一步，审视结果——只看结果。
 
 **句子结构**：Whenever 引导时间状语从句；主句为祈使句 stand back and examine the result；破折号强调 only the result。
 
-**关键词**：invested, time and effort, stand back, examine, only the result
+**关键词：** **：invested, time and effort, stand back, examine, only the result
 
 **表达方式**：用两个祈使动作和强调短语隔离投入与产出。
 

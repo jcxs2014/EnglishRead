@@ -39,63 +39,59 @@ source_text: ch50_49_be_wary_when_things_get_off_to_a_grea.txt
 
 **句子结构**：Convinced of... 为过去分词短语作状语；these amateurs 为主语；increase the stakes 为谓语。
 
-**关键词**：above-average, amateurs, increase the stakes
+**关键词：** **：above-average, amateurs, increase the stakes
 
 **表达方式**：用信念—行为链说明运气如何转化为风险。
 
 **为什么这样写**：短期胜利先改变自我认知，再改变实际下注规模。
 
 ### ② 连续收购
-
 > **原句 2:** "The acquisitions prove a success, and the directors believe they have real skill for acquisitions."
 
 **中文理解**：这些收购取得成功，董事们因此相信自己具有真正的收购能力。
 
 **句子结构**：The acquisitions 为主语；prove a success 为谓语；and 后的 directors believe... 为并列分句。
 
-**关键词**：acquisitions, directors, real skill
+**关键词：** **：acquisitions, directors, real skill
 
 **表达方式**：把企业结果与管理者能力直接连接。
 
 **为什么这样写**：连续成功会制造归因幻觉，而没有验证市场条件的作用。
 
 ### ③ 泡沫中的“能力”
-
 > **原句 3:** "These investors overlooked one tiny detail: Their amazing profits at the time had nothing to do with their stock-picking abilities."
 
 **中文理解**：这些投资者忽略了一个小细节：当时的惊人利润与选股能力毫无关系。
 
 **句子结构**：investors 为主语；overlooked 为谓语；冒号后的独立句解释被忽略的细节。
 
-**关键词**：overlooked, amazing profits, stock-picking abilities
+**关键词：** **：overlooked, amazing profits, stock-picking abilities
 
 **表达方式**：用冒号把关键遗漏直接摊开。
 
 **为什么这样写**：它把市场上涨造成的共同收益与个人选择能力明确拆开。
 
 ### ④ 长期检验
-
 > **原句 4:** "If you are much better than others over a long period of time, you can be fairly sure that talent plays a part."
 
 **中文理解**：如果你长期明显优于他人，可以相当有把握地认为才华起了作用。
 
 **句子结构**：If 引导条件状语从句；主句 you can be fairly sure；that talent plays a part 为同位语从句。
 
-**关键词**：long period, fairly sure, talent, plays a part
+**关键词：** **：long period, fairly sure, talent, plays a part
 
 **表达方式**：用保留语 fairly sure 避免绝对化断言。
 
 **为什么这样写**：能力判断需要时间尺度，但作者仍承认无法达到百分之百确定。
 
 ### ⑤ 主动反证
-
 > **原句 5:** "Try to disprove them."
 
 **中文理解**：尝试证伪这些理论。
 
 **句子结构**：祈使句 Try to disprove them；disprove 为动词不定式。
 
-**关键词**：Try, disprove, theories
+**关键词：** **：Try, disprove
 
 **表达方式**：用简短的祈使句把科学方法转成行动指令。
 

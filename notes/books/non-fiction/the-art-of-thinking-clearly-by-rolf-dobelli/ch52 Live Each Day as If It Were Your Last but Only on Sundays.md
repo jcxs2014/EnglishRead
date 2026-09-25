@@ -39,63 +39,59 @@ source_text: ch52_51_live_each_day_as_if_it_were_your_last.txt
 
 **句子结构**：You would no longer 后接五个并列动词原形，构成结果列表。
 
-**关键词**：no longer, brush your teeth, wash your hair, pay the bills
+**关键词：** **：no longer, brush your teeth, wash your hair, pay the bills
 
 **表达方式**：用日常清单把“活在当下”推到荒诞极端。
 
 **为什么这样写**：格言的价值在于提醒把握当下，若字面执行却会摧毁长期生活，说明即时刻度需要校正。
 
 ### ② 延迟更久的收益
-
 > **原句 2:** "Most people will opt for the larger sum in thirteen months."
 
 **中文理解**：大多数人会在十三个月后选择更大的金额。
 
 **句子结构**：Most people 为主语；will opt for 为谓语；the larger sum 为宾语；in thirteen months 为时间状语。
 
-**关键词**：opt for, larger sum, thirteen months
+**关键词：** **：opt for, larger sum, thirteen months
 
 **表达方式**：用“多数人”概括稳定选择。
 
 **为什么这样写**：当两个选项都没有“现在”时，额外一个月会触发延迟满足。
 
 ### ③ 即时偏好反转
-
 > **原句 3:** "The introduction of “now” causes us to make inconsistent decisions."
 
 **中文理解**：“现在”的引入会导致我们做出不一致的决定。
 
 **句子结构**：主语 The introduction of now；causes 为谓语；us 为宾语；to make inconsistent decisions 为不定式补语。
 
-**关键词**：introduction of now, causes, inconsistent decisions
+**关键词：** **：introduction of now, causes, inconsistent decisions
 
 **表达方式**：把“现在”写成改变选择的变量。
 
 **为什么这样写**：同样的经济差额仅因“现在”出现就失效，显示时间偏好不是固定利率。
 
 ### ④ 双曲贴现
-
 > **原句 4:** "The closer a reward is, the higher our “emotional interest rate” rises."
 
 **中文理解**：奖励越近，我们的“情绪利率”就越高。
 
 **句子结构**：The closer a reward is 为比较从句；the higher our emotional interest rate rises 为主句比较结构。
 
-**关键词**：closer, reward, emotional interest rate, rises
+**关键词：** **：closer, reward, emotional interest rate, rises
 
 **表达方式**：把心理冲动拟作金融利率。
 
 **为什么这样写**：用经济术语命名即时诱惑，读者可以把它和真实利率、冲动消费联系起来。
 
 ### ⑤ 棉花糖实验
-
 > **原句 5:** "Patience is indeed a virtue."
 
 **中文理解**：耐心确实是一种美德。
 
 **句子结构**：Patience 为主语；is 为系动词；indeed a virtue 为表语。
 
-**关键词**：Patience, virtue, delayed gratification
+**关键词：** **：Patience, virtue
 
 **表达方式**：以简短格言式判断收束实验意义。
 

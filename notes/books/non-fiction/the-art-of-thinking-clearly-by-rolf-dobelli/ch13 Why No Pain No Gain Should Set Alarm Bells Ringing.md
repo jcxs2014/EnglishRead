@@ -39,63 +39,59 @@ source_text: ch13_12_why_no_pain_no_gain_should_set_alarm_.txt
 
 **句子结构**：It 为形式主语；will get worse before it gets better 为并列谓语，before 引导时间关系。
 
-**关键词**：get worse, before, get better
+**关键词：** **：get worse, before
 
 **表达方式**：用两个对称的 get 动词构成安慰性诊断。
 
 **为什么这样写**：短句听上去像专业判断，实际上没有说明原因、时长或可验证指标，因此很容易逃避责任。
 
 ### ② 信任的错位
-
 > **原句 2:** "I replied: “It all happened exactly as the doctor said, so I trusted him.”"
 
 **中文理解**：我回答说：“事情完全按医生说的那样发生了，所以我信任了他。”
 
 **句子结构**：I replied 引出直接引语；引语内 It all happened... 为主句，so I trusted him 为结果分句。
 
-**关键词**：exactly as, happened, trusted him
+**关键词：** **：exactly as, happened, trusted him
 
 **表达方式**：把错误预测转写为“完全应验”，用叙事重复强化因果错觉。
 
 **为什么这样写**：短期吻合会让患者把随机或错误判断当成诊断能力，延误真正的治疗。
 
 ### ③ 烟幕
-
 > **原句 3:** "A mere smoke screen, the it’ll-get-worse-before-it-gets-better fallacy is a variant of the so-called confirmation bias."
 
 **中文理解**：所谓的“先变糟、后变好”谬误不过是烟幕，是所谓确认偏误的一个变体。
 
 **句子结构**：A mere smoke screen 与主句名词短语形成同位结构；is a variant of... 为系表结构，so-called 修饰 confirmation bias。
 
-**关键词**：smoke screen, fallacy, variant, confirmation bias
+**关键词：** **：smoke screen, fallacy, variant, confirmation bias
 
 **表达方式**：以 smoke screen 将抽象逻辑迅速定性为掩盖责任的工具。
 
 **为什么这样写**：它把话术的功能说透：只要恶化可以支持“变好之前”，提出者就暂时无需提供证明。
 
 ### ④ 模糊期限
-
 > **原句 4:** "Naturally you leave the duration and severity of the period open."
 
 **中文理解**：当然，你会让这段时期的持续时间和严重程度保持开放。
 
 **句子结构**：Naturally 为前置评语；主句 you leave... open，the duration and severity 为并列宾语，of the period 修饰名词。
 
-**关键词**：duration, severity, period, open
+**关键词：** **：duration, severity, period, open
 
 **表达方式**：用 open 表示关键参数没有被决定，形成策略上的模糊空间。
 
 **为什么这样写**：当期限和损害程度都不确定，所谓改善条件就可以不断后移，承诺者得以逃避证伪。
 
 ### ⑤ 里程碑
-
 > **原句 5:** "Look to these rather than to the heavens."
 
 **中文理解**：要看这些里程碑，而不是仰望天空。
 
 **句子结构**：Look to those rather than to the heavens 为祈使句；rather than 连接两个介词短语。
 
-**关键词**：Look to, rather than, heavens
+**关键词：** **：Look to, rather than, heavens
 
 **表达方式**：用“天上”与“地面上的指标”形成空间对举，结束抽象的先验叙事。
 

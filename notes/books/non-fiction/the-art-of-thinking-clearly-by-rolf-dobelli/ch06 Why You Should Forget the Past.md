@@ -38,91 +38,85 @@ source_text: ch06_5_why_you_should_forget_the_past_sunk_co.txt
 
 **句子结构**：省略主语 we 的口语对白；We’re not throwing away... 为否定进行体表达，throwing away 为动名词宾语。
 
-**关键词**：No way, throwing away, thirty dollars
+**关键词：** **：No way, throwing away, thirty dollars
 
 **表达方式**：用短促口语呈现沉没成本谬误最朴素的版本：钱已花，所以不能走。
 
 **为什么这样写**：作者从读者熟悉的夫妻争执开始，不先讲理论，而让偏差在情绪中自然显形。
 
 ### ② 已经花掉的钱
-
 > **原句 2:** "We have spent the thirty dollars regardless of whether we stay or leave, so this factor should not play a role in our decision."
 
 **中文理解**：不管我们留下还是离开，那三十美元都已经花掉了，所以这个因素不应影响我们的决定。
 
 **句子结构**：We have spent... 为现在完成时；regardless of whether... 为让步条件；so this factor should not... 为结果句。
 
-**关键词**：spent, regardless of, should not play a role, decision
+**关键词：** **：spent, regardless of, should not play a role, decision
 
 **表达方式**：用 regardless of 建立两种情形下不变的事实，逻辑上排除沉没成本的相关性。
 
 **为什么这样写**：句式本身展示“成本已经不可改变”，比抽象说“向前看”更有说服力。
 
 ### ③ 商业项目
-
 > **原句 3:** "Our advertising campaign had been running for four months and had not met even one of its goals."
 
 **中文理解**：我们的广告活动已经运行了四个月，却连一个目标都没有达到。
 
 **句子结构**：主句为过去完成时结构；两个并列谓语 had been running 与 had not met 共享主语 campaign。
 
-**关键词**：advertising campaign, four months, goals, had not met
+**关键词：** **：advertising campaign, four months, goals, had not met
 
 **表达方式**：用时间投入和目标失败的反差展示“越久越难退出”。
 
 **为什么这样写**：营销经理没有立刻谈未来，只强调已经投入多久，便让继续项目显得更合理。
 
 ### ④ 关系的沉没成本
-
 > **原句 4:** "I’ve invested so much energy in the relationship, it would be wrong to throw it away."
 
 **中文理解**：我在这段关系中投入了太多精力，丢掉它会是错的。
 
 **句子结构**：I’ve invested so much energy... 为完成时原因分句；it would be wrong... 为主句，so much 修饰投入程度。
 
-**关键词**：invested, energy, relationship, throw it away
+**关键词：** **：invested, energy, relationship, throw it away
 
 **表达方式**：用投入的沉没成本替换关系是否值得继续这个真正问题。
 
 **为什么这样写**：亲密关系中的道德语言使错误决策显得像责任感，从而让沉没成本更难被识别。
 
 ### ⑤ 购入价的干扰
-
 > **原句 5:** "Often they base their trading decisions on acquisition prices."
 
 **中文理解**：投资者常常把自己的交易决定建立在购入价格上。
 
 **句子结构**：Often 为频度副词；they base their trading decisions on acquisition prices 为主谓宾结构，on 引出依据。
 
-**关键词**：base, trading decisions, acquisition prices
+**关键词：** **：base, trading decisions, acquisition prices
 
 **表达方式**：用一个常见决策动作直接命名错误的参考点。
 
 **为什么这样写**：投资者记住的是“买入价”，而不是股票未来可能的收益；作者把注意力从过去拉向未来。
 
 ### ⑥ 一致性与面子
-
 > **原句 6:** "If we decide to cancel a project halfway through, we create a contradiction: We admit that we once thought differently."
 
 **中文理解**：如果我们决定中途取消项目，就制造了矛盾：这等于承认自己曾经有过不同的想法。
 
 **句子结构**：If 引导条件从句；主句为 we create a contradiction；冒号后的 We admit... 解释矛盾的具体内容。
 
-**关键词**：cancel a project, halfway through, contradiction, admit
+**关键词：** **：cancel a project, halfway through, contradiction, admit
 
 **表达方式**：把取消项目解释成自我叙事冲突，指出理性退出为何会伤害面子。
 
 **为什么这样写**：沉没成本不仅涉及金钱，也涉及身份一致性；继续投入因此成为一种心理防御。
 
 ### ⑦ 未来原则
-
 > **原句 7:** "No matter how much you have already invested, only your assessment of the future costs and benefits counts."
 
 **中文理解**：无论你已经投入多少，只有你对未来成本和收益的评估才算数。
 
 **句子结构**：No matter how much... 为让步状语；主句 only your assessment... counts 为强调句，of... 说明评估对象。
 
-**关键词**：already invested, future costs, benefits, counts
+**关键词：** **：already invested, future costs, benefits, counts
 
 **表达方式**：用 only 把决策标准压缩到单一未来变量，形成全章的规范性收束。
 

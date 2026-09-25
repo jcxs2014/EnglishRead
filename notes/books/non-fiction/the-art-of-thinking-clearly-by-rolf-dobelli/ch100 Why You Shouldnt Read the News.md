@@ -43,53 +43,59 @@ source_text: ch100_99_why_you_shouldn_t_read_the_news_news_.txt
 
 **表达方式**：用糖的类比把信息消费和身体成瘾并置。
 
-### ② 三年实验
+**为什么这样写**：它把新闻从“信息”重新解释为一种刺激物，预先说明为什么新闻会让人上瘾却损害长期判断。
 
+### ② 三年实验
 > **原句 2:** "The result after three years: clearer thoughts, more valuable insights, better decisions, and much more time."
 
 **中文理解**：三年后的结果是：思路更清晰、洞见更有价值、决策更好，也有更多时间。
 
 **句子结构**：The result 为主语；after three years 为时间状语；后接四个名词短语。
 
-**关键词：** after three years, clearer thoughts, valuable insights, better decisions
+**关键词：** after three years, clearer thoughts, valuable insights, better decisions, time
 
 **表达方式**：用四项平行结果让个人实验显得可检验。
 
-### ③ 注意力经济
+**为什么这样写**：它把个人实验的结果写成四个可比较维度，为后文的决策收益检验提供证据。
 
+### ③ 注意力经济
 > **原句 3:** "News producers capitalize on this."
 
 **中文理解**：新闻生产者利用了这一点。
 
 **句子结构**：News producers 为主语；capitalize on 为谓语；this 为宾语。
 
-**关键词：** News producers, capitalize, attention, advertisers
+**关键词：** News producers, capitalize
 
 **表达方式**：用商业动词把新闻内容选择连接到激励机制。
 
-### ④ 竞争劣势
+**为什么这样写**：它把新闻偏向耸动内容追溯到广告和注意力机制，解释为什么新闻生产者会主动过滤复杂信息。
 
+### ④ 竞争劣势
 > **原句 4:** "In reality, news consumption represents a competitive disadvantage."
 
 **中文理解**：实际上，新闻消费代表一种竞争劣势。
 
 **句子结构**：In reality 为状语；news consumption 为主语；represents... 为谓语。
 
-**关键词：** In reality, competitive disadvantage, news consumption, useful
+**关键词：** In reality, competitive disadvantage, news consumption
 
 **表达方式**：用反直觉判断挑战“信息即优势”的商业常识。
 
-### ⑤ 书籍
+**为什么这样写**：它把“知道更多”与“做出更好决定”区分开，迫使读者用实际收益检验新闻消费的价值。
 
+### ⑤ 书籍
 > **原句 5:** "Nothing beats books for understanding the world."
 
 **中文理解**：理解世界，没有什么比书籍更有效。
 
 **句子结构**：Nothing 为主语；beats books 为谓语比较；for... 为目的状语。
 
-**关键词：** Nothing beats books, understanding the world, long background articles
+**关键词：** Nothing beats books, understanding the world
 
 **表达方式**：用最高级式否定比较收束全章。
+
+**为什么这样写**：它把阅读长篇背景材料设为新闻的替代方案，完成从拒绝即时信息到重建知识输入的转折。
 
 ## 词汇分级
 

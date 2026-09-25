@@ -39,63 +39,59 @@ source_text: ch15_14_why_you_should_keep_a_diary_hindsight.txt
 
 **句子结构**：主语 Everyone + 系动词 is；that 宾语从句说明确信内容，by the end of year 为时间状语。
 
-**关键词**：Everyone, certain, Germans, leave, end of year
+**关键词：** **：Everyone, certain, Germans, leave, end of year
 
 **表达方式**：用“所有人”制造当时舆论一致感，与后文四年占领形成反差。
 
 **为什么这样写**：同期记录保存了预测者的确信，却没有保存结果；这种时间差正是后见之明的实验材料。
 
 ### ② 事后明显
-
 > **原句 2:** "In hindsight, the reasons for the crash seem painfully obvious."
 
 **中文理解**：事后看来，崩溃的原因似乎痛苦地显而易见。
 
 **句子结构**：In hindsight 为前置状语；主句 the reasons... seem painfully obvious，painfully 修饰 obvious。
 
-**关键词**：In hindsight, reasons for the crash, seem, painfully obvious
+**关键词：** **：In hindsight, reasons for the crash, seem, painfully obvious
 
 **表达方式**：用 painfully obvious 表达“知道答案后觉得当初应该也知道”的刺痛。
 
 **为什么这样写**：作者把后见之明描述成一种事后惩罚感：结果越严重，过去越显得本不该被误判。
 
 ### ③ 预测幻觉
-
 > **原句 3:** "In retrospect, everything seems clear and inevitable."
 
 **中文理解**：事后看来，一切都显得清楚而不可避免。
 
 **句子结构**：In retrospect 为时间/视角状语；everything 为不定代词，seems clear and inevitable 为系表并列。
 
-**关键词**：retrospect, everything, clear, inevitable
+**关键词：** **：retrospect, everything, clear, inevitable
 
 **表达方式**：用 clear 与 inevitable 两个递进判断制造必然感。
 
 **为什么这样写**： inevitable 把偶然结果改写为命运，掩盖了当时真正的多种可能性。
 
 ### ④ 风险来源
-
 > **原句 4:** "It makes us believe we are better predictors than we actually are, causing us to be arrogant about our knowledge and consequently to take too much risk."
 
 **中文理解**：它让我们以为自己比实际更擅长预测，从而使我们对自己的知识过于傲慢，并承担过多风险。
 
 **句子结构**：主句 It makes us believe...；causing... to be arrogant... and consequently to take... 为结果结构，两个 to-infinitives 并列。
 
-**关键词**：better predictors, arrogant, knowledge, take too much risk
+**关键词：** **：better predictors, arrogant, knowledge, take too much risk
 
 **表达方式**：用 belief → arrogance → risk 的因果链说明自我评价如何改变行动。
 
 **为什么这样写**：后见之明不只是回顾误差，还会反馈到未来：人越觉得自己看得准，越敢承担不能预测的风险。
 
 ### ⑤ 预测记录
-
 > **原句 5:** "Write down your predictions—for political changes, your career, your weight, the stock market, and so on."
 
 **中文理解**：写下你的预测——政治变化、你的职业、体重、股市等等。
 
 **句子结构**：祈使句 Write down your predictions；破折号后为政治变化、职业、体重和股市等宾语列举，and so on 表示未完列举。
 
-**关键词**：write down, predictions, political changes, stock market
+**关键词：** **：write down, predictions, political changes, stock market
 
 **表达方式**：用动词命令加领域清单把抽象的“校准预测”变成日常操作。
 

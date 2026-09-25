@@ -39,63 +39,59 @@ source_text: ch21_20_never_judge_a_decision_by_its_outcome.txt
 
 **句子结构**：After twenty weeks 为时间状语；主句 just one monkey will remain；破折号后 this one... 是同位说明，chose... and is... 为并列谓语。
 
-**关键词**：remain, without fail, right stocks, billionaire
+**关键词：** **：remain, without fail, right stocks, billionaire
 
 **表达方式**：用“幸存者”构成一个极端成功故事，让幸存者偏差变得可视。
 
 **为什么这样写**：随机过程必然产生一个极端幸存者；媒体只需为他编出香蕉数量、坐姿等“成功秘诀”。
 
 ### ② 偏误定义
-
 > **原句 2:** "We tend to evaluate decisions based on the result rather than on the decision process."
 
 **中文理解**：我们倾向于根据结果而不是决策过程来评价决策。
 
 **句子结构**：主句 We tend to evaluate...；based on the result 与 rather than on the decision process 构成对比。
 
-**关键词**：evaluate decisions, based on the result, rather than, decision process
+**关键词：** **：evaluate decisions, based on the result, rather than, decision process
 
 **表达方式**：用 rather than 将评价标准从结果切换到过程。
 
 **为什么这样写**：短句明确指出结果偏误的判断轴，帮助读者把“猜中了”与“做得好”区分开。
 
 ### ③ 当时信息
-
 > **原句 3:** "However, only in retrospect do the signals appear so clear."
 
 **中文理解**：然而，只有事后看来，这些信号才显得如此清楚。
 
 **句子结构**：However 引导转折；only in retrospect 为时间/视角状语；do the signals appear... 为倒装句。
 
-**关键词**：only in retrospect, signals appear, so clear
+**关键词：** **：only in retrospect, signals appear, so clear
 
 **表达方式**：用 only in retrospect 限制“清晰性”的时间范围。
 
 **为什么这样写**：历史决策不能使用后来才获得的信息回放，否则会把当时合理的不确定性伪装成明显错误。
 
 ### ④ 小样本
-
 > **原句 4:** "The samples are too small, rendering the results meaningless."
 
 **中文理解**：样本太小，使结果没有意义。
 
 **句子结构**：主句 The samples are too small；现在分词短语 rendering the results meaningless 为结果状语。
 
-**关键词**：samples, too small, rendering, meaningless
+**关键词：** **：samples, too small, rendering, meaningless
 
 **表达方式**：因果结构把“样本量不足”直接连接到“结果无意义”。
 
 **为什么这样写**：少量手术的死亡结果会被随机波动放大，不能直接证明医生能力高低。
 
 ### ⑤ 坚持方法
-
 > **原句 5:** "Were your reasons rational and understandable? Then you would do well to stick with that method, even if you didn’t strike it lucky last time."
 
 **中文理解**：你的理由是否理性且可理解？如果是，即便上次没有走运，也最好坚持那个方法。
 
 **句子结构**：Were your reasons... 为倒装疑问句；Then 引导条件结果；stick with that method 为祈使式建议。
 
-**关键词**：rational, understandable, stick with, strike it lucky
+**关键词：** **：rational, understandable, stick with, strike it lucky
 
 **表达方式**：把评价标准落到当时理由和持续方法，而非一次结果。
 

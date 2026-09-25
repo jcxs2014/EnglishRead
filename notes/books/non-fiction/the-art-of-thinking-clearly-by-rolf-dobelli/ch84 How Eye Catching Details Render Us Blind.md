@@ -39,63 +39,59 @@ source_text: ch84_83_how_eye_catching_details_render_us_bl.txt
 
 **句子结构**：Salience 为主语；refers to 为谓语；后面用四个同位短语解释。
 
-**关键词**：Salience, prominent feature, stand-out attribute, catches your eye
+**关键词：** **：Salience, prominent feature, stand-out attribute, catches your eye
 
 **表达方式**：用递进同位短语定义抽象概念。
 
 **为什么这样写**：它把“显著性”从统计学术语转成日常可感知的注意现象。
 
 ### ② 新闻标题
-
 > **原句 2:** "Marijuana Kills Yet Another Motorist."
 
 **中文理解**：大麻又导致一名司机死亡。
 
 **句子结构**：这是省略结构的新闻标题；主语和谓语均省略，只有消息核心。
 
-**关键词**：Marijuana, kills, Motorist
+**关键词：** **：Marijuana, kills, Motorist
 
 **表达方式**：用标题式压缩把相关性改写成因果暗示。
 
 **为什么这样写**：标题强调的是醒目的实体，而不是统计关系或样本大小。
 
 ### ③ 性别标签
-
 > **原句 3:** "In this news story, gender is the salient feature, and thus it earns undue weight."
 
 **中文理解**：在这条新闻中，性别是显著特征，因此获得了不应有的分量。
 
 **句子结构**：In this news story 为状语；gender 为主语；is... and thus... 为并列谓语。
 
-**关键词**：news story, salient feature, undue weight
+**关键词：** **：news story, salient feature, undue weight
 
 **表达方式**：用“因此获得不应有的权重”直接命名注意偏差。
 
 **为什么这样写**：它说明报道中突出什么，就会影响读者认为什么最重要。
 
 ### ④ 预测
-
 > **原句 4:** "We place unwarranted emphasis on salient information when we are forecasting."
 
 **中文理解**：预测时，我们会对显著信息赋予没有根据的重视。
 
 **句子结构**：We 为主语；place...on... 为谓语；when... 为时间状语。
 
-**关键词**：forecasting, unwarranted emphasis, salient information
+**关键词：** **：forecasting, unwarranted emphasis, salient information
 
 **表达方式**：用 when 从句限定偏差发生的时间。
 
 **为什么这样写**：作者把影响范围从解释过去扩展到预测未来。
 
 ### ⑤ 红色书封
-
 > **原句 5:** "A book with an unusual, fire-engine red jacket makes it onto the bestseller list."
 
 **中文理解**：一本封面异常、像消防车一样鲜红的书上了畅销书榜。
 
 **句子结构**：A book 为主语；with... 为定语；makes it onto... 为谓语宾补结构。
 
-**关键词**：unusual, fire-engine red, bestseller list
+**关键词：** **：unusual, fire-engine red, bestseller list
 
 **表达方式**：用醒目的颜色作日常例子。
 

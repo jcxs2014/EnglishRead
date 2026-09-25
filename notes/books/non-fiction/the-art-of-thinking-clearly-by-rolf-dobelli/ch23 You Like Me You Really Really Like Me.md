@@ -39,63 +39,59 @@ source_text: ch23_22_you_like_me_you_really_really_like_me.txt
 
 **句子结构**：第一个分句为省略主语的过去事实；not even Bordeaux 为递进补充；but 引导转折。
 
-**关键词**：rarely, wine, sales assistant, so nice
+**关键词：** **：rarely, wine, sales assistant, so nice
 
 **表达方式**：用“原本不需要”与“实际购买”的反差突出情感因素。
 
 **为什么这样写**：产品的适配性没有改变，购买行为却发生了，销售者的亲和力因此成为独立变量。
 
 ### ② 一句话卡片
-
 > **原句 2:** "Just one sentence salutes them: “I like you.”"
 
 **中文理解**：只用一句话向他们致意：“我喜欢你。”
 
 **句子结构**：Just one sentence 为名词短语作句子成分；salutes them 为谓语；冒号后直接引语呈现内容。
 
-**关键词**：Just one sentence, salutes, I like you
+**关键词：** **：Just one sentence, salutes, I like you
 
 **表达方式**：极简内容与频繁联系形成反差，用短句制造持续的心理暗示。
 
 **为什么这样写**：复杂销售被压缩成一句可重复的记忆信息，让好感通过重复而不是论证积累。
 
 ### ③ 三项标准
-
 > **原句 3:** "According to research, we see people as pleasant, if (a) they are outwardly attractive, (b) they are similar to us..."
 
 **中文理解**：研究显示，如果一个人外表有吸引力、与我们相似，或喜欢我们，我们会觉得他们令人愉快。
 
 **句子结构**：主句 we see people as pleasant；if 引导条件，a、b、c 三项并列条件展开。
 
-**关键词**：research, outwardly attractive, similar, pleasant
+**关键词：** **：research, outwardly attractive, similar, pleasant
 
 **表达方式**：用编号式条件将“喜欢”拆成可观察的三类线索。
 
 **为什么这样写**：把抽象好感转成销售、广告和竞选都能操控的行为变量。
 
 ### ④ 相似性
-
 > **原句 4:** "The more similar, the better."
 
 **中文理解**：越相似越好。
 
 **句子结构**：The more similar, the better 为“the + 比较级, the + 比较级”结构。
 
-**关键词**：more similar, the better
+**关键词：** **：more similar, the better
 
 **表达方式**：用极短的结构化比较表达最大化相似的策略。
 
 **为什么这样写**：它把销售者的任务压缩为“变得像客户”，解释了镜像语言、姿势和背景的运用。
 
 ### ⑤ 关系与销售
-
 > **原句 5:** "Amiability works better than bribery."
 
 **中文理解**：亲和力比贿赂更有效。
 
 **句子结构**：系表结构；Amiability 为主语，works better than bribery 为谓语比较级。
 
-**关键词**：Amiability, works better, bribery
+**关键词：** **：Amiability, works better, bribery
 
 **表达方式**：用短促结论替代更多解释，强化关系资本的商业价值。
 

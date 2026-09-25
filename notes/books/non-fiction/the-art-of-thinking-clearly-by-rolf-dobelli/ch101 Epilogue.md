@@ -40,36 +40,39 @@ source_text: ch101_epilogue.txt
 
 **句子结构**：I 为主语；removed 为谓语；everything that is not David 为宾语。
 
-**关键词：** removed everything, not David, masterpiece, success
+**关键词：** removed everything, not David
 
 **表达方式**：用否定结构重新定义创造。
 
-### ② 负知识
+**为什么这样写**：它把成功从增加正确因素改写为删除错误因素，为全书的负知识方法提供形象起点。
 
+### ② 负知识
 > **原句 2:** "Negative knowledge (what not to do) is much more potent than positive knowledge (what to do)."
 
 **中文理解**：负知识（不要做什么）比正面知识（应该做什么）更有力量。
 
 **句子结构**：Negative knowledge 为主语；is...than... 为比较结构；两个括号解释术语。
 
-**关键词：** Negative knowledge, positive knowledge, potent, errors
+**关键词：** Negative knowledge, positive knowledge, potent
 
 **表达方式**：用括号定义与比较结构并置。
 
-### ③ 冷理论
+**为什么这样写**：它把“应该做什么”的空泛建议与“不要做什么”的可执行排除法区分开。
 
+### ③ 冷理论
 > **原句 3:** "The result was a cold theory of irrationality that states: Thinking is in itself not pure, but prone to error."
 
 **中文理解**：结果形成了一种冷非理性理论：思维本身并不纯粹，而是容易出错。
 
 **句子结构**：The result 为主语；was... 为系表结构；that states 后接冒号和宾语从句。
 
-**关键词：** cold theory, irrationality, prone to error, cognitive traps
+**关键词：** cold theory, irrationality, prone to error
 
 **表达方式**：用结果句引出全书核心理论。
 
-### ④ 决策分层
+**为什么这样写**：它把非理性从情绪失控重新定义为可预测、可检查的思维错误。
 
+### ④ 决策分层
 > **原句 4:** "In situations where the possible consequences are large, I try to be as reasonable and rational as possible when choosing."
 
 **中文理解**：在可能后果重大的情境中，我选择时尽量保持合理和理性。
@@ -80,8 +83,9 @@ source_text: ch101_epilogue.txt
 
 **表达方式**：把抽象原则落到“后果大小”这一判断轴。
 
-### ⑤ 能力圈
+**为什么这样写**：它避免了“永远理性”的教条，规定理性投入应当与决定后果相匹配。
 
+### ⑤ 能力圈
 > **原句 5:** "If you face a consequential decision outside that circle, apply the hard, slow, rational thinking."
 
 **中文理解**：如果面对能力圈之外影响重大的决定，就采用艰难、缓慢而理性的思考。
@@ -91,6 +95,8 @@ source_text: ch101_epilogue.txt
 **关键词：** consequential decision, circle, hard, slow, rational thinking
 
 **表达方式**：用三项并列形容词把抽象原则变成可感知的行动节奏。
+
+**为什么这样写**：它把“能力圈之外”明确设为理性检查的触发条件，并明确思考应缓慢而费力。
 
 ## 词汇分级
 

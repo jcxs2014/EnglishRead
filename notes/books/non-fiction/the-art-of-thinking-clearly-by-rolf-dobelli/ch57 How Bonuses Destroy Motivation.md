@@ -39,63 +39,59 @@ source_text: ch57_56_how_bonuses_destroy_motivation_motiva.txt
 
 **句子结构**：Enclosed 为过去分词短语作主语；was 为系动词；a $50 bill 为表语。
 
-**关键词**：Enclosed, $50 bill, thank-you letter
+**关键词：** **：Enclosed, $50 bill
 
 **表达方式**：用倒装句突出物件突然出现。
 
 **为什么这样写**：酬谢本身像礼貌，但正文把它变成一个检验：善意被金钱标记后还剩下什么。
 
 ### ② 投票支持率
-
 > **原句 2:** "Results plummeted: Only 24.6 percent were willing to endorse the proposal."
 
 **中文理解**：结果大幅下降：只有 24.6% 的人愿意支持这项提议。
 
 **句子结构**：Results 为主语；plummeted 为谓语；冒号后的分句 only 24.6 percent were willing to endorse... 展开结果。
 
-**关键词**：Results plummeted, 24.6 percent, willing, endorse
+**关键词：** **：Results plummeted, 24.6 percent, willing, endorse
 
 **表达方式**：用冒号和精确百分比把变化量化。
 
 **为什么这样写**：金钱奖励没有买来支持，反而可能把公民责任重新标价为可交易物。
 
 ### ③ 迟延费反效果
-
 > **原句 3:** "Ironically, studies show that tardiness actually increased."
 
 **中文理解**：讽刺的是，研究显示迟到实际上增加了。
 
 **句子结构**：Ironically 为状语；studies 为主语；show 为谓语；that 从句作宾语。
 
-**关键词**：Ironically, studies show, tardiness, increased
+**关键词：** **：Ironically, studies show, tardiness, increased
 
 **表达方式**：用 Ironically 把制度目标与实际结果直接对撞。
 
 **为什么这样写**：收费传达了“迟到可以被购买”，于是原本的道德约束被价格替代。
 
 ### ④ 动机挤出
-
 > **原句 4:** "Small—surprisingly small—monetary incentives crowd out other types of incentives."
 
 **中文理解**：小额、令人惊讶的小额金钱激励会挤出其他类型的激励。
 
 **句子结构**：Small—surprisingly small— 为插入语；monetary incentives 为主语；crowd out 为谓语；other types of incentives 为宾语。
 
-**关键词**：Small, monetary incentives, crowd out, other types
+**关键词：** **：Small, monetary incentives, crowd out, other types
 
 **表达方式**：用插入语和重复强调制造反直觉。
 
 **为什么这样写**：不是奖励太大才有害，小额金钱也可能改变行为的社会意义。
 
 ### ⑤ 家庭建议
-
 > **原句 5:** "Do not reach for your wallet."
 
 **中文理解**：不要伸手拿钱包。
 
 **句子结构**：祈使句 Do not reach for your wallet；not 后接动词原形 reach。
 
-**关键词**：Do not, reach for, wallet
+**关键词：** **：Do not, reach for, wallet
 
 **表达方式**：用短促祈使句结束长篇机制分析。
 
