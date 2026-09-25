@@ -107,7 +107,7 @@ modified: "2026-09-25"
 
 **为什么这样写：** 句子用一个双重让步（no matter what… no matter the…）先把所有可能的条件清空，再给出三个 forever。三个 forever 分别对应 believe（相信）、need（需要）、love（爱）——从认知到生理到情感的完整序列，而这个序列本身是**倒错的**：正常人的顺序是先爱后信，她先信后爱。"I know that"（我知道）把这份决心写成一个已被验证的结论，而不是一个愿望。
 
-**读者视角提示：** 这段是全书最诚实也最危险的自白：她并非不知情，她是把"不知情"当作前提来爱的；请把它与第 15 章 Jennie 那句"你会被他害死"并读。
+**读者视角提示：** 这段是全书最诚实也最危险的自白：她并非不知情，她是把"不知情"当作前提来爱的；请把它与 ch15 Jennie 那句"there will be destruction…and there will be nothing to save either of you"并读——那才是她真正说出口的判词。
 
 ## 本章词汇
 
