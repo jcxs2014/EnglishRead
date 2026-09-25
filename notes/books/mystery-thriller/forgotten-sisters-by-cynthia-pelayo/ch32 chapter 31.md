@@ -43,7 +43,6 @@ modified: "2026-09-25"
 
 **中文理解：** 我听见河边一声响亮的水花，比我见过的任何一条鱼都响。
 
-**中文理解补充：** 原句为 "louder than any fish I have ever encountered"（比我遇见过的任何鱼都响）。
 
 **关键词：** a loud splash at the river / louder than any fish I have ever encountered
 
