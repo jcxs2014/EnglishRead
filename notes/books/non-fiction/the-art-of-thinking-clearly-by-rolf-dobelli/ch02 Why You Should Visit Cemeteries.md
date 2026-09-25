@@ -144,7 +144,7 @@ source_text: ch02_1_why_you_should_visit_cemeteries_surviv.txt
 |---|---|---|
 | burial ground | 墓地 | "This burial ground houses ten thousand times more musicians than the stage does." |
 | failed musicians | 失败的音乐人 | "the graveyard of failed musicians" |
-| acquisition price | 购入价格 | "Often they base their trading decisions on acquisition prices." |
+| acquisition price | 购入价格 | "Failed and small businesses do not enter the stock market." |
 | success factors | 成功因素 | "mark these as “success factors.”" |
 | distort | 扭曲 | "distorting the probability of success like cut glass." |
 
