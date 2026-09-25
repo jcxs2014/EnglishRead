@@ -41,17 +41,22 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-25 21:15 UTC] [OpenCode-Mac] → All
+### [2026-09-25 22:00 UTC] [OpenCode-Mac] → All
 
-**《Why We Die》by Venki Ramakrishnan 非虚构论述 13 个正文单元 + 总览三篇完工**
+**《Why We Die》by Venki Ramakrishnan 非虚构论述 13 个正文单元 + 总览三篇完工 + 独立五步审查完成并整改**
 
 - 目录：`notes/books/non-fiction/why-we-die-by-venki-ramakrishnan/`；ch01 Introduction + ch02–ch13（书内 1–12 章）+ 三篇总览，共 16 个 md；`text/` 13 件，md 与 text 1:1 零偏移；`xx_about_the_publisher.txt` 为出版社样板页，已移出 ch 编号。
-- 提交链（均未 push，共 8 commits）：`381672e8`（ch01 试产）→ `1da1151a`（批1 ch02–03）→ `4c011b2a`（批2 ch04–06）→ `63fb2ace`（词形修正）→ `a7c67266`（批3 ch07–09）→ `08d691fc`（批4 ch10–12）→ `d4034c0d`（ch13）→ `e537d528`（总览三篇）。
+- 提交链（均未 push，共 9 commits）：`381672e8`（ch01 试产）→ `1da1151a`（批1 ch02–03）→ `4c011b2a`（批2 ch04–06）→ `63fb2ace`（词形修正）→ `a7c67266`（批3 ch07–09）→ `08d691fc`（批4 ch10–12）→ `d4034c0d`（ch13）→ `e537d528`（总览三篇）→ `da165f5e`（五步审查整改）。
 - 格式：非虚构论述格式（论证结构 + 选择性精读 6–12 处五子项 + 三档词汇 + 一句话总结）。
-- 正文门禁：`verify_quotes 145/145`（15/15 文件干净；2 条 <20 字符短引语人工 grep 命中本章）；`check_vocab 521` 词条 `FAIL 0`（WARN 38 为基础档超纲词启发式）；`check_entities 0`；`check_chapter_quotes 109/109` 零跨章搬句；`check_crossref 0 对/报警 0`；结构扫描 111 块编号连续、五子项齐全、零孤儿零重复；关键词锚定 111 块/未锚定 0。
-- 总览门禁：`verify_overview_quotes 42/42`（金句 24、情感节点 18；概述为中文行内引语不在工具口径，已人工 flat 逐条核对 3 条全 HIT）；金句 24 + 情感节点 18 条章节标签 flat 对账 0 mismatch；H1 语义 3/3。
-- 过程坑（详见 daily）：新建 `scripts/attic/scrub_vocab.py`（attic 不入 git）——批量剥离词汇表占位行并按 `source_text` 逐条报告零命中词头；该检查器累计拦下 **50+ 处 A 类虚构**（`rejuvenation`/`endoscmbiosis`/`quack`/`senescent→跨章例句` 等），并抓出 2 处跨章污染（ch05 误入 ch04 的 Pott 行、ch09 误用 ch03 例句）与 2 处他章引语误用（ch02/ch06 原句复用），均已改为本章真实原句并重写分析。
-- 状态：目标目录 tracked=16、无未提交文件；**未 push**；**独立五步审查未由用户发起，未自动执行。**
+- **独立五步审查（用户于 2026-09-25 本会话发起，a–e 全执行；门禁全部重跑不采信旧数字）**：
+  - **a｜三件套重跑**：`verify_quotes 145/145`（15/15 干净；2 条短引语人工 grep）· `check_vocab 520` 词条 `FAIL 0` · `check_entities 0`。
+  - **b｜逐章归属**：显式逐文件 13 章 `check_chapter_quotes` 合计 `109/109`；另跑**自备全串 flat sweep**（绕开 verify_quotes 的 52 字符指纹盲区）`111/111` 零 MISS；跨章精确重复 0。
+  - **c｜结构扫描**：111 块编号连续、五子项齐全且顺序正确、零孤儿零重复；H1/source_text 13/13。**抓出 2 类格式缺陷**：ch08「论证结构」标题误写为 `### 结构：`、8 章「论证脉络」缺 `**` 闭合。
+  - **d｜语义二审**：3 个互不重叠只读子代理（ch01–04 / ch05–08 / ch09–13）逐块回源，报警 62 项，**主会话逐条 grep 复核后确认全部为真缺陷并修复**：句子结构误判 14、数字与归因错误 9、事实与归属错误 8、词汇例句不锚定 8、跨章错误 4、分析与引语不符 5、格式标签 14。重点：ch04 概览虚构「Tasdimos 奖章」、Auwerbach→Auerbach；ch03 Kleiber ¾ 次幂误写 ¼、「八百岁海龟」虚构；ch10「六十年统治」无原文依据；ch11 肩周炎→骨关节炎；ch12 de Grey「数学家出身」→计算机科学家（原文明确否认其职业数学家身份）、Prusiner/Gajdusek 贡献混淆；ch13「20%」误作全球、「每天服用抗衰药」→实为降压药/他汀/阿司匹林。
+  - **e｜总览层**：自备全串逐字 + 章节标签对账抓出 2 处标签错位（金句⑭ 实为 ch13、节点⑨ 实为 ch11）；子代理另抓 11 项（概述把 ch02 金句标入 ch01–03、「第九章最长」不实、Sinclair 与 Belmonte 混述、白藜芦醇结论过强、公司创办人归属等）全部修复；**⑪ 编号缺口闭合**（①–㉕ 重编）并重映射全部交叉引用。
+- 审查后终验：`verify_quotes 145/145` · `verify_overview_quotes 42/42` · `check_vocab FAIL 0` · `check_entities 0` · `check_chapter_quotes 109/109` · `check_crossref 0 报警` · 结构 111 块 0 错误 · 关键词锚定 111/0 · 全串 sweep 0 MISS · 总览标签对账 0 问题。
+- 过程坑（详见 daily）：新建 `scripts/attic/scrub_vocab.py`（attic 不入 git）批量剥离词汇表占位行并报告零命中词头，累计拦下 50+ 处 A 类虚构。**审查暴露的根因**：写作期门禁只查「引语是否逐字」，对**分析层**（句子结构判断、数字归因、事实断言、跨章指涉）几乎无覆盖——这正是五步审查 d 步的价值所在。
+- 状态：目标目录 tracked=16、无未提交文件；**未 push**。**已知局限**：本次为同会话审查，d 步虽有 3 个独立只读子代理，但主会话与子代理同源，**全书统一口径的系统性误判无法完全排除**。
 
 ### [2026-09-25 20:32 UTC] [Qoder-Mac] → All
 
