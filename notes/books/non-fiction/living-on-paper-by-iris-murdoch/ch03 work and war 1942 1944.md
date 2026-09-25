@@ -48,7 +48,7 @@ source_text: ch03
 
 > **原句 3:** "A person with a moral sense but no moral axioms is a ship crowded with canvas which has lost its rudder."
 
-**中文理解：** 一个有道德感却没有道德公理的人，是一艘帆满桨密的船，却丢了舵。
+**中文理解：** 一个有道德感却没有道德公理的人，是一艘帆满篷密的船，却丢了舵。
 
 **句子结构：** 主语 person 带介词短语 with...but no... 的让步式修饰；谓语是明喻 is a ship；crowded with canvas 过去分词短语与 which has lost its rudder 定语从句一前一后修饰 ship。
 
@@ -98,7 +98,7 @@ source_text: ch03
 
 **表达方式：** 引号里的 Only I could produce this 是自负与自卑的合体——所有权的主张后面立刻跟上"有没有用"的自我怀疑；know not 的古体让她的不安显得庄重而非可怜。
 
-**为什么这样写：** 这是全书最重要的职业自白之一：前一封信她刚用"近乎恐怖的重音"说过"if I have any métier it is to be a writer"，这封把它落实为一种排他性的自我认知——写作是唯一无法外包给别人的事。
+**为什么这样写：** 这是全书最重要的职业自白之一：同信上一段她刚用"近乎恐怖的重音"强调过"if I have any métier it is to be a writer"，这几行把它落实为一种排他性的自我认知——写作是唯一无法外包给别人的事。
 
 ### ⑦ 致 Frank Thompson · 1943-11-12 · 亨利·詹姆斯
 
