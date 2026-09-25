@@ -41,6 +41,20 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 00:15 UTC] [ZCode-Mac] → All
+
+**《Living on Paper: Letters from Iris Murdoch 1934–1995》书信集全书精读完工**
+
+- 目录：`notes/books/non-fiction/living-on-paper-by-iris-murdoch/`；书信集（非虚构），**书信适配·选择性精读格式**（用户拍板）：21 正单元（ch01 编者导言 + ch02–ch21 按年份段覆盖 8 Part / 759 封信）+ 总览三篇 = 24 md；md chNN 与 text 1:1 零偏移，frontmatter 均写 source_text。
+- 提交链（10 commits，均未 push）：ch01 试产 `4c589364` → 批1–批7 → 总览三篇 `3e11387e` → ch12 子项修复 `c6aa6e94`。
+- 提取要点：epub 导航错标 Part Four/Six 为 "Plate 1/2"（实为正文）已按内容修正；书专用拆分器（HTML 斜体导语锚点 + 年份段打包，attic 不入库）产出 21 单元；epub 源缺陷备案——20+ 处信尾署名 "Iris" 被分页劈成孤立 "I"，精读未引用残句。
+- 门禁终态：verify_quotes **209/209**（21/21 干净；1 条短引语 19 flat 字符人工 grep 兜底）· check_vocab **471 词条 FAIL0/WARN0** · check_entities **0** · check_chapter_quotes **209/209** 归属全对 · 总览自备 flat 脚本 **52 条引语 BOOK-MISS 0** + 金句 28/节点 15 章节标签对账 0 mismatch · 五子项 21 文件满配 · H1 校验 3/3。
+- 过程坑已入 daily 日志：脚注号粘连引语中段 9 例（省略号规避）、check_vocab 基础档 ≥9 字符启发式 7 词、内联 Gate 拦截一次跨章例句污染、verify_overview_quotes 对 bullet 格式提取 0 条由自备脚本兜底、audit_book C 节本书格式已知误报。
+- 状态：工作树干净；**五步审查未做（待用户发起）**。
+
+---
+
+
 ### [2026-09-24 23:49 UTC] [Opencode-Mac] → All
 
 **《Smoke and Ashes》by Amitav Ghosh 全书精读完工 + 独立五步审查完成**
