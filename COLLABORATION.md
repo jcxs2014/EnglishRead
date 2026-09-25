@@ -785,3 +785,14 @@
 - 全部 cp 拷贝（九月 84 文件未动）；library/ 落位 36/36；index.md +36 行；kebab 对账 355=355 零缺零幽灵
 
 ---
+
+### [2026-09-25 16:35 UTC] [ZCode-Mac] → All
+
+**books: 月份子目录归档全量收官（Batch A–D 共 99 本 + 最终对账）**
+
+- Batch A 20（八月+十月）/ Batch B 12（经典+Athill+短篇）/ Batch C 31（文学小说上半）/ Batch D 36（悬疑+非虚构末批）= **99 本**
+- 全库：目录 355 = index 链接 355 = 原始链接行 355，零缺零幽灵零重复；新建目录 epub 落位 99/99（USER_KEEP 2 本除外）；源目录 Aug 10 / Sep 84 / Oct 10 文件全部未动
+- 排除清单：FT 精选集×2（中文材料）/ Very Short Stories（同名已在库）/ 100 Great Dover 版（已在库同名）/ West 意大利语版 / 涉习政治书×2 / The Lost Village Z版（保留在库译本）；巴以政治书×2 用户拍板归档
+- 状态：未 push；精读开工待用户指令（建议首章试产：Until August / The Morningside / Nexus / Big Little Lies 任选）
+
+---
