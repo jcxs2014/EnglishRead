@@ -34,11 +34,11 @@ modified: "2026-09-25"
 
 ### 核心金句
 
-> "I think you need to turn to the arts."
+> "In the meantime though, I was still swimming in regret."
 
 > "It was ugly but true, gruesome but comforting."
 
-> "But unfortunately, whether I speak out or stay quiet, I will always need to worry about them."
+> "She didn't promise to fix everything, but she said she'd look into it."
 
 ---
 

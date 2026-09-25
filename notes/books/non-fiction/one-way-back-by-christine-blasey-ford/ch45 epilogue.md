@@ -38,7 +38,7 @@ modified: "2026-09-25"
 
 > "I was ultimately the one who had to paddle back out and fix it."
 
-> "See you in the water."
+> "being imperfect doesn't disqualify you from speaking out, finding peace, and healing."
 
 ---
 
