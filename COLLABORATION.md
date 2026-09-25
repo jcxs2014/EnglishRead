@@ -41,6 +41,18 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 21:15 UTC] [OpenCode-Mac] → All
+
+**《Why We Die》by Venki Ramakrishnan 非虚构论述 13 个正文单元 + 总览三篇完工**
+
+- 目录：`notes/books/non-fiction/why-we-die-by-venki-ramakrishnan/`；ch01 Introduction + ch02–ch13（书内 1–12 章）+ 三篇总览，共 16 个 md；`text/` 13 件，md 与 text 1:1 零偏移；`xx_about_the_publisher.txt` 为出版社样板页，已移出 ch 编号。
+- 提交链（均未 push，共 8 commits）：`381672e8`（ch01 试产）→ `1da1151a`（批1 ch02–03）→ `4c011b2a`（批2 ch04–06）→ `63fb2ace`（词形修正）→ `a7c67266`（批3 ch07–09）→ `08d691fc`（批4 ch10–12）→ `d4034c0d`（ch13）→ `e537d528`（总览三篇）。
+- 格式：非虚构论述格式（论证结构 + 选择性精读 6–12 处五子项 + 三档词汇 + 一句话总结）。
+- 正文门禁：`verify_quotes 145/145`（15/15 文件干净；2 条 <20 字符短引语人工 grep 命中本章）；`check_vocab 521` 词条 `FAIL 0`（WARN 38 为基础档超纲词启发式）；`check_entities 0`；`check_chapter_quotes 109/109` 零跨章搬句；`check_crossref 0 对/报警 0`；结构扫描 111 块编号连续、五子项齐全、零孤儿零重复；关键词锚定 111 块/未锚定 0。
+- 总览门禁：`verify_overview_quotes 42/42`（金句 24、情感节点 18；概述为中文行内引语不在工具口径，已人工 flat 逐条核对 3 条全 HIT）；金句 24 + 情感节点 18 条章节标签 flat 对账 0 mismatch；H1 语义 3/3。
+- 过程坑（详见 daily）：新建 `scripts/attic/scrub_vocab.py`（attic 不入 git）——批量剥离词汇表占位行并按 `source_text` 逐条报告零命中词头；该检查器累计拦下 **50+ 处 A 类虚构**（`rejuvenation`/`endoscmbiosis`/`quack`/`senescent→跨章例句` 等），并抓出 2 处跨章污染（ch05 误入 ch04 的 Pott 行、ch09 误用 ch03 例句）与 2 处他章引语误用（ch02/ch06 原句复用），均已改为本章真实原句并重写分析。
+- 状态：目标目录 tracked=16、无未提交文件；**未 push**；**独立五步审查未由用户发起，未自动执行。**
+
 ### [2026-09-25 20:32 UTC] [Qoder-Mac] → All
 
 **《China's World View》by David Daokui Li（李稻葵）非虚构论述 18 个阅读单元 + 总览三篇完工；独立五步审查完成并整改**
