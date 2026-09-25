@@ -172,7 +172,7 @@ source_text: ch08
 
 **中文理解**：“文化大革命”是一种给他抹黑的有力方式。
 
-**句子结构**：`The Cultural Revolution` 是主语，`was` 是系动词；`a potent way` 是表语中心，`to tar him` 是不定式说明方式的目的。句子的抽象名词 `tar` 把历史比作涂黑材料。
+**句子结构**：`The Cultural Revolution` 是主语，`was` 是系动词；`a potent way` 是表语中心，`to tar him` 是不定式说明方式的目的。`tar` 在此是及物动词，把历史标签写成涂黑他的手段。
 
 **关键词**：The Cultural Revolution、a potent way、to tar him。
 

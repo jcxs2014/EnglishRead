@@ -156,7 +156,7 @@ source_text: ch02
 
 > **原句 9:** "I would urge anyone who wants to know more to explore the compelling books and papers listed in the endnotes."
 
-**中文理解**：我 urges 任何想进一步了解的人去阅读书末注释中列出的那些引人入胜的书籍和论文。
+**中文理解**：我敦促任何想进一步了解的人去阅读书末注释中列出的那些引人入胜的书籍和论文。
 
 **句子结构**：`I would urge anyone...to explore...` 是建议结构；`who wants to know more` 从句限定建议对象；`the compelling books and papers listed in the endnotes` 作 explore 的宾语，分词短语 `listed in the endnotes` 进一步限定书目。
 

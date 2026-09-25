@@ -88,7 +88,7 @@ source_text: ch11
 
 **中文理解**：这些角色扮演者身上并没有刻意的俗气。
 
-**句子结构**：`There was nothing` 是存在否定结构；`intentionally kitsch` 是介词短语作后置定语，修饰 `impersonators`；`about` 引出评价对象。
+**句子结构**：`There was nothing` 是存在否定结构；`intentionally kitsch` 是副词 `intentionally` 修饰形容词 `kitsch` 的组合，后者后置修饰 `nothing`；`about` 引出评价对象。
 
 **关键词**：nothing intentionally、kitsch、impersonators。
 
@@ -178,7 +178,7 @@ source_text: ch11
 
 **表达方式**：疾病隐喻把政治清洗转成医学救治：`cancer` 指向腐败，`doctor` 指向权力中心，`cutting out` 则把惩罚写成必要手术。比喻降低了政治行动的暴力感，也隐藏了谁决定病灶、谁接受治疗的权力问题。
 
-**为什么这样写**：Gao 借官方反腐话语表达对 Xi 的支持，说明革命时代的政治语言仍在今天流通。作者指出这与编辑控制的重复性，提示我们观察意识形态时不能只寻找新词汇，旧隐喻也能在新政治中继续工作。
+**为什么这样写**：Gao 借官方反腐话语表达对 Xi 的支持，说明革命时代的政治语言仍在今天流通。作者指出这与官方社论中反复使用的 cancer/tiger rhetoric 相连，提示我们观察意识形态时不能只寻找新词汇，旧隐喻也能在新政治中继续工作。
 
 ## 词汇分级
 

@@ -36,7 +36,7 @@ source_text: ch10
 
 1. “让物品自己说话”可以减少官方式说教，但物件本身没有独立的解释权；没有背景、来源和矛盾并置时，博物馆也可能只制造怀旧或神秘感。
 2. Fan 的收藏规模极大，作者以他的个人经历说明“材料越多越清晰”，但数量增加也可能增加噪声，使研究者更难辨认最重要的证据。
-3. 本章把“物品自己说话”与“作者站远一点”联系起来，但历史距离本身也有选择性；某些受害者需要近距离阅读才能看见被宏大叙事压平的伤害。
+3. 本章把“物品自己说话”与 Fan 所说的“站远一点”联系起来，但历史距离本身也有选择性；某些受害者需要近距离阅读才能看见被宏大叙事压平的伤害。
 
 ## 选择性精读
 
@@ -94,7 +94,7 @@ source_text: ch10
 
 **表达方式**：数字图像的隐喻把收藏从“物”转换成“分辨率”，也暗示单一物件无法独立讲述历史。数量不再是物质堆积，而是提高认知清晰度的条件。
 
-**为什么这样写**：作者在参观 Fan Jianchuan 的巨大收藏时提出方法论：材料越多，越可能看见整体。这个比喻解释了私人收藏和档案工作的价值，也留下一个关键问题：分辨率提高后，历史是否真的更容易理解？
+**为什么这样写**：Fan 在介绍自己的巨大收藏时提出这一方法论：材料越多，越可能看见整体。这个比喻解释了私人收藏和档案工作的价值，也留下一个关键问题：分辨率提高后，历史是否真的更容易理解？
 
 ### ⑤ 材料越多，理解反而越困难
 
@@ -158,7 +158,7 @@ source_text: ch10
 
 **中文理解**：当某件事物达到极端，它就只能朝相反的方向发展。
 
-**句子结构**：`when something reaches an extreme` 是时间／条件从句；主句 `it can only go in the opposite direction` 使用情态动词 `only` 限制方向；`opposite` 把变化写成二元反转。
+**句子结构**：`when something reaches an extreme` 是时间／条件从句；主句 `it can only go in the opposite direction` 中，`can` 是情态动词，`only` 是副词，用来强调唯一方向；`opposite` 把变化写成二元反转。
 
 **关键词**：when something reaches an extreme、can only、go in the opposite direction。
 
@@ -209,7 +209,7 @@ source_text: ch10
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| by the way | 顺便说；不过 | When that fell by the way |
+| fell by the way | 被遗忘；搁置 | When that fell by the way |
 | a billion | 十亿 | A billion were printed during the Cultural Revolution |
 | a huge mirror | 一面巨大的镜子 | A huge mirror, set at the corner of two corridors |
 

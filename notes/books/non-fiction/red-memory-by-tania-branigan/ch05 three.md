@@ -106,7 +106,7 @@ source_text: ch06
 
 **关键词**：persuading people、their own omissions、their own volition、nothing to see。
 
-**表达方式**：`their own` 重复三次，把外部强制改写成内部意愿。`nothing to see` 把“可见之物”本身取消，暗示审查不必删除每个事实，只要让受众相信事实从未存在。
+**表达方式**：`their own` 重复两次，把外部强制改写成内部意愿。`nothing to see` 把“可见之物”本身取消，暗示审查不必删除每个事实，只要让受众相信事实从未存在。
 
 **为什么这样写**：这句揭示遗忘最深的一层：不是单纯让人们闭嘴，而是让他们参与制造沉默。自我审查因此不是被动服从，而是制度把责任伪装成个人判断的结果。
 
@@ -235,7 +235,6 @@ source_text: ch06
 | school | 学校 | schools had crumbled |
 | war | 战争 | the Opium Wars |
 | power | 权力 | wealth and power |
-| art | 艺术 | the arts |
 
 ## 一句话总结
 

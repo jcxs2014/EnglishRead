@@ -23,7 +23,7 @@ source_text: ch14
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|----------|
-| 2015 年后春节越来越安静，作者却怀念北京曾经的喧闹与生命力 | 个人观察 | 说明政治、商业和社会气氛的变化会先以感官差异出现 |
+| 到 2015 年春节逐年变得更安静，作者却怀念北京曾经的喧闹与生命力 | 个人观察 | 说明政治、商业和社会气氛的变化会先以感官差异出现 |
 | activists、律师、朋友和外国人逐渐减少发言，数字监控与社会信用系统扩张 | 当代制度观察 | 说明国家不必依赖旧式邻居监视，也能通过数据识别和惩罚个人 |
 | 2021 年“历史虚无主义”举报网站、热线和历史文本删改 | 政策与档案 | 显示历史解释已被纳入国家安全与政治纪律 |
 | 官方历史决议把 Mao、Deng、Xi 串成“站起来、富起来、强起来”的连续进程 | 官方叙事 | 解释权力如何通过历史阶段论获得继承合法性 |
@@ -60,13 +60,13 @@ source_text: ch14
 
 **中文理解**：党媒正在竭尽全力塑造一个新的偶像。
 
-**句子结构**：`The Party media` 是主语，`is going to great lengths` 是进行时情态结构；`to create` 是不定式，`a new Idol` 是宾语。
+**句子结构**：`The Party media` 是主语，`is going to great lengths` 是固定习语，搭配 `be going to`；`to create` 是不定式，`a new Idol` 是宾语。
 
 **关键词**：The Party media、going to great lengths、create、a new Idol。
 
 **表达方式**：`great lengths` 表示不遗余力，`new Idol` 用大写把偶像提升到宗教或神话位置。句子把媒体制作、政治传播和个人崇拜压缩成一个动作链。
 
-**为什么这样写**：学者因批评“新偶像”而被拘押、停职，说明媒体塑造与惩罚之间存在直接联系。作者让这句匿名文章成为自身命运的反讽，揭示批评偶像的代价。
+**为什么这样写**：一名学者因发表批评文字被拘留一周、解雇并限制离开北京，说明媒体塑造与惩罚之间存在直接联系。作者没有在此处称文章匿名，只指出批评偶像会付出现实代价。
 
 ### ③ 学会历史就是理解兴衰
 
@@ -88,13 +88,13 @@ source_text: ch14
 
 **中文理解**：他所谈论的那套历史，靠抹去另一套历史而繁荣。
 
-**句子结构**：`The history he speaks of` 是定语从句作主语；`thrives` 是谓语；`by erasing another` 是方式状语，`another` 回指另一套历史。
+**句子结构**：`The history he speaks of` 是包含定语从句的名词短语作主语；`thrives` 是谓语；`by erasing another` 是方式状语，`another` 回指另一套历史。
 
 **关键词**：The history、thrives、by erasing、another。
 
 **表达方式**：`thrives` 把历史写成需要营养和竞争优势的生命体，`erasing` 则把记忆工作写成破坏行为。`another` 的模糊代词让读者自己寻找被抹去的对象。
 
-**为什么这样写**：作者在 Xi 的“学习历史”之后立即指出另一种记忆的消失。两套历史不是和平共存，而是以删除、删帖和改写教材的方式争夺同一现实。
+**为什么这样写**：作者在 Xi 的“学习历史”之后立即指出另一种记忆的消失。两套历史不是和平共存，而是以删除网络讨论、压缩官方党史的方式争夺同一现实。
 
 ### ⑤ 越有用，越不能接受
 
@@ -102,7 +102,7 @@ source_text: ch14
 
 **中文理解**：事实上，历史的效用与可接受性之间存在反向关系。
 
-**句子结构**：`There is` 是存在句；`an inverse relationship` 作主语中心；`between utility and acceptability` 是介词短语，`and` 连接两个抽象名词。
+**句子结构**：`There is` 是存在句；`an inverse relationship` 是 `There is` 的主语补足语；`between utility and acceptability` 是介词短语，`and` 连接两个抽象名词。
 
 **关键词**：There is、an inverse relationship、utility、acceptability。
 
@@ -116,7 +116,7 @@ source_text: ch14
 
 **中文理解**：在 Mao 领导下，据说中国站了起来；在 Deng 领导下，中国变得富裕；在 Xi 领导下，中国正在强大起来。
 
-**句子结构**：三个分句都以 `Under...` 时间／条件状语开头；主语 China 省略，`we are told` 插入第一个分句；三个动词短语 `stood up`、`became rich`、`grows strong` 形成平行递进。
+**句子结构**：三个分句都以 `Under...` 时间／条件状语开头；主语 China 省略，`we are told` 插入第一个分句；三个动词短语 `stood up`、`became rich`、`grows strong` 形成平行递进，最后一个是一般现在时。
 
 **关键词**：Under Mao、we are told、China stood up、became rich、grows strong。
 
@@ -144,7 +144,7 @@ source_text: ch14
 
 **中文理解**：他们如今应该已经是成年人，并有了自己的孩子。
 
-**句子结构**：`They` 是主语，`would be` 是过去将来时系动词；`adults now` 是表语；`with children of their own` 是 with 短语作伴随状语。
+**句子结构**：`They` 是主语，`would be` 是表示推测的情态结构；`adults now` 是表语；`with children of their own` 是 with 短语作伴随状语。
 
 **关键词**：They would be、adults now、with children、their own。
 
@@ -165,6 +165,20 @@ source_text: ch14
 **表达方式**：短句把视线方向写成道德与时间动作。`Not one` 排除任何例外，`looks back` 让画中少年的运动看似自愿而其实被定格，读者因此感到天真和危险并存。
 
 **为什么这样写**：这是全书结尾的最后一个动作。向前奔跑既是希望，也是宣传画要求的方向；不回头的人无法知道身后发生了什么，也无法为自己保留反思的距离。
+
+### ⑩ 监控技术被升级
+
+> **原句 10:** "The tools the party-state never abandoned – the ability to peer into each life, or exert pressure via friends or family – have been upgraded for the twenty-first century."
+
+**中文理解**：党国从未放弃的工具——窥探每个人的生活，或通过朋友和家人施加压力——已经为二十一世纪升级。
+
+**句子结构**：`The tools` 是主语中心；`the party-state never abandoned` 是后置定语；破折号内两个 `the ability to...` 并列说明工具内容；`have been upgraded` 是现在完成时被动结构，`for the twenty-first century` 说明时间范围。
+
+**关键词**：party-state、peer into each life、exert pressure、upgraded、twenty-first century。
+
+**表达方式**：`never abandoned` 先建立连续性，破折号再把旧工具拆成窥探与施压两种能力；`upgraded` 将政治控制写成技术迭代，暗示形式改变而核心目的延续。
+
+**为什么这样写**：作者没有把数字监控当作全新的时代断裂，而是强调它继承了旧有关系网络。作者由此把今天的技术治理与文革时期的举报、监视和集体压力连接起来。
 
 ## 词汇分级
 
@@ -196,7 +210,6 @@ source_text: ch14
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| by the way | 顺便说 | Yet Xi is only half Mao: it is impossible ... |
 | in private | 私下 | There are, in private, faint murmurings of discontent |
 | at once | 同时；立刻 | He is at once powerful and reassuring |
 
@@ -211,7 +224,7 @@ source_text: ch14
 | future | 未来 | the future |
 | family | 家庭 | family members abroad |
 | children | 孩子 | children |
-| work | 工作 | the work |
+| work | 工作 | do their work |
 | life | 生活 | life |
 | world | 世界 | the world |
 | state | 国家；状态 | the state |

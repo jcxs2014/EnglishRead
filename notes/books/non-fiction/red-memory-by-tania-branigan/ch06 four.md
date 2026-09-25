@@ -24,10 +24,10 @@ source_text: ch07
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|----------|
 | Wang Jingyao 保存妻子血衣、求助信和骨灰秘密供奉 | 家庭遗存 | 说明记忆也可以由私人文件和身体动作承担抵抗 |
-| Youqin 多年收集北京红八月死难者姓名，并建立纪念网站与报告 | 档案研究／个人行动 | 记录不是一次性完成，而是需要长期证人、勇气和风险的工作 |
+| Youqin 多年收集北京红八月死难者姓名，并建立纪念网站 | 档案研究／个人行动 | 记录不是一次性完成，而是需要长期证人、勇气和风险的工作 |
 | Bian Zhongyun 的死亡被学生领袖一句“她死了，结束了”迅速切断 | 现场见证 | 说明权力如何用简短行政语言阻断集体哀悼 |
-| Song Binbin 后来公开道歉，却被部分受害者家属认为道歉太快、太浅、太刻意 | 道歉与和解争议 | 揭示事实恢复、个人悔意和受害者接受之间不能自动衔接 |
-| 研究报告整理时间、地点、殴打和拖延求医等细节，却不急于指定单一凶手 | 集体调查 | 说明“整体过程有罪”与“具体责任归属”必须同时保留 |
+| Song Binbin 后来公开道歉，却被批评者认为太迟、太少、太造作、太表面；Wang Jingyao 也拒绝相信这份道歉 | 道歉与和解争议 | 揭示事实恢复、个人悔意和受害者接受之间不能自动衔接 |
+| Song 及其朋友的研究报告整理时间、地点、殴打和拖延求医等细节，却不急于指定单一凶手 | 集体调查 | 说明“整体过程有罪”与“具体责任归属”必须同时保留 |
 | 记忆争论最终被审查、宣传禁报和网络删帖再次压制 | 当代制度反应 | 显示公开反思会触发国家控制，而“和解”也可能成为继续沉默的理由 |
 
 **论证脉络**：从 Wang Jingyao 的私人保存开始 → 重建 Bian 被杀与学校集体沉默的现场 → 转入 Youqin 的档案劳动和受害者名单 → 说明没有受害者就无法理解文革 → 介绍 Song Binbin 的象征身份与道歉 → 展开事实、正义、宽恕和和解的冲突 → 以审查介入、争论继续升级收束。
@@ -60,7 +60,7 @@ source_text: ch07
 
 **中文理解**：暴力并没有突然爆发，而是一步步建立起来。
 
-**句子结构**：第一句是过去时否定判断 `did not explode`；第二句以 `It built` 省略主语和情态意义，用一般过去时描述持续累积。两个短句以句号断开，再以 `It` 回指 violence。
+**句子结构**：第一句是过去时否定判断 `did not explode`；第二句以 `It built` 回指 violence，用一般过去时描述持续累积。两个短句以句号断开，`It` 在第二句中作主语。
 
 **关键词**：violence、did not explode、It built。
 
@@ -112,11 +112,11 @@ source_text: ch07
 
 ### ⑥ 十八岁女孩的死亡被简报化
 
-> **原句 6:** "They killed a girl! Just eighteen years old!"
+> **原句 6:** "They killed a girl! Just eighteen years old! Just from a working-class family!"
 
-**中文理解**：他们杀死了一个女孩！才十八岁！
+**中文理解**：他们杀死了一个女孩！才十八岁！她只是工薪阶层家庭出身！
 
-**句子结构**：两个感叹句构成独立呼喊；`They killed a girl` 是主谓宾结构，`Just eighteen years old` 是省略主语的状态补语；重复的 `Just` 将年龄事实变成道德冲击。
+**句子结构**：三个感叹句构成独立呼喊；`They killed a girl` 是主谓宾结构，`Just eighteen years old` 和 `Just from a working-class family!` 是两个省略主语的状态补语；重复的 `Just` 将年龄与阶层事实变成道德冲击。
 
 **关键词**：They killed a girl、Just、eighteen years old。
 
@@ -126,17 +126,17 @@ source_text: ch07
 
 ### ⑦ 先面对历史，再谈宽容与妥协
 
-> **原句 7:** "Our aim is to face history, refuse to forget, restore the facts."
+> **原句 7:** "Our aim is to face history, refuse to forget, restore the facts. The purpose is not to create new problems or conflicts, but tolerance and compromise."
 
-**中文理解**：我们的目标是面对历史、拒绝遗忘、恢复事实。
+**中文理解**：我们的目标是面对历史、拒绝遗忘、恢复事实。目的不是制造新问题或冲突，而是宽容与妥协。
 
-**句子结构**：`Our aim is to...` 是目的结构；三个动名词 `facing history`、`refuse to forget`（原文为 refuse to forget 的动名结构）和 `restore the facts` 以逗号并列，动作从面对到记忆再到证据逐层推进。
+**句子结构**：`Our aim is to...` 是目的结构，`to` 后的 `face history`、`refuse to forget` 和 `restore the facts` 是三个并列的裸不定式；第二句 `The purpose is not to...` 进一步说明目标不是制造冲突，而是宽容与妥协。
 
 **关键词**：Our aim、face history、refuse to forget、restore the facts。
 
 **表达方式**：三个动词短语不使用复杂修饰，靠平行节奏建立伦理纲领。`restore` 把事实看作被破坏后可以修复的东西，`refuse` 则把遗忘写成需要主动抵抗的行为。
 
-**为什么这样写**：这段话来自宋同学及其朋友对道歉和真相委员会的说明。作者将它与“宽容和妥协”并置，说明和解不能先于事实；只有恢复发生了什么，宽容与和解才不会变成要求受害者替遗忘承担责任。
+**为什么这样写**：这段话来自到场受访女生中的一位对道歉与和解的说明。作者将它与“宽容和妥协”并置，说明和解不能先于事实；只有恢复发生了什么，宽容与和解才不会变成要求受害者替遗忘承担责任。
 
 ### ⑧ 真正的问题不是谎言，而是只说部分真相
 
@@ -150,7 +150,7 @@ source_text: ch07
 
 **表达方式**：句子没有把记忆冲突简单归因于恶意欺骗，而是指向选择性叙述。`a part of the truth` 看似仍是真相，却在效果上保留了关键责任和因果的空缺。
 
-**为什么这样写**：本章中每个人的叙述都有真实片段，却可能把另一些人的痛苦排除在外。作者用这句自我反思说明，写历史不只是收集材料，还要检查谁在材料中消失、谁被放在边缘。
+**为什么这样写**：本章中每个人的叙述都有真实片段，却可能把另一些人的痛苦排除在外。Youqin 用这句自我反思说明，写历史不只是收集材料，还要检查谁在材料中消失、谁被放在边缘。
 
 ### ⑨ 任何道歉都无法匹配恐怖
 
@@ -188,7 +188,7 @@ source_text: ch07
 |----------|------|--------------|
 | vindicated | 证明无罪；洗清 | he hoped that one day she would be vindicated |
 | futile | 无效的；徒劳的 | Her futile plea for help from officials |
-| ransacked | 洗劫；翻乱 | They ransacked the place, even pulled up the floorboards |
+| ransacked | 洗劫；翻乱 | The Red Guards broke in days before they killed her – ransacked the place |
 | caricatures | 讽刺画； caricature 的复数 | There are caricatures of Bian as a sweaty, fearful pig |
 | rigour | 严谨；严格 | It had rigour: he captured everything |
 | crematorium | 火葬场 | the smoke from the crematorium chimney |

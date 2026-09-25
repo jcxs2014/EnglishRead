@@ -23,7 +23,7 @@ source_text: ch09
 
 | 证据 | 类型（案例/研究/数据/类比） | 支撑什么 |
 |------|---------------------------|----------|
-| 1,700 万名城市青年被送往农村，其中很多人只有十四五岁、从未离过家 | 政策数据／个人叙述 | 说明知青下乡是规模巨大且高度强迫性的社会迁移 |
+| 1,700 万名城市青年被送往农村，其中有些人年仅十四岁，许多人从未离开过家 | 政策数据／个人叙述 | 说明知青下乡是规模巨大且高度强迫性的社会迁移 |
 | 重庆知青朋友会在网络聊天室重新聚集，共享歌、舞蹈和“精神财富” | 群体与社交媒体 | 说明共同经历如何在后来转化为身份共同体和情感资源 |
 | 习近平在梁家河的知青岁月被官方叙事改写为纪律、奉献和与人民联系的成长神话 | 政治人物案例 | 说明个人苦难如何被吸收进国家领导人的合法性叙事 |
 | 知青群体讲述疾病、营养不良、工伤、强奸威胁和个人绝望，同时分享爱情与婚姻故事 | 生活史／口述 | 说明“下乡”包含多种风险，不能被单一的青春叙事覆盖 |
@@ -58,7 +58,7 @@ source_text: ch09
 
 > **原句 2:** "17 million boys and girls, enough to people a nation of their own."
 
-**中文理解**：一千七百万名男孩和女孩，多到足以给一个国家般的人群居住。
+**中文理解**：一千七百万名男孩和女孩，多到足以构成一个国家的人口规模。
 
 **句子结构**：`17 million boys and girls` 是数量名词短语，作主语中心；`enough to people...` 是结果结构，`people` 在这里是动词“使……成为有人居住的地方”，不是名词“人们”；`a nation of their own` 说明这个群体的巨大规模。
 
@@ -88,7 +88,7 @@ source_text: ch09
 
 **中文理解**：十五岁来到黄土地时，我焦虑而迷茫；二十二岁离开黄土地时，我的人生目标坚定，充满信心。
 
-**句子结构**：两个 `When...` 时间状语从句以重复结构平行；`at fifteen` 与 `at twenty-two` 对举年龄；`anxious and confused` 与 `firm and filled with confidence` 形成情绪与状态的对照。
+**句子结构**：两个 `When...` 时间状语从句以重复结构平行；`at fifteen` 与 `at twenty-two` 对举年龄；`anxious and confused` 与 `my life goals were firm and I was filled with confidence` 形成情绪与状态的对照。
 
 **关键词**：Yellow Earth、at fifteen、at twenty-two、anxious and confused、life goals were firm。
 
@@ -158,7 +158,7 @@ source_text: ch09
 
 **中文理解**：谁会不怀念自己的青春？
 
-**句子结构**：这是一个省略主语的反问句，`Who` 是疑问代词作主语，`isn’t nostalgic for` 构成否定系表，`their youth` 是介词宾语。
+**句子结构**：这是一个疑问代词 `Who` 作主语的反问句；`isn’t nostalgic for` 构成否定系表，`their youth` 是介词宾语。
 
 **关键词**：Who、isn’t nostalgic、their youth。
 

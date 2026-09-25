@@ -27,7 +27,7 @@ source_text: ch13
 | 幸存者的失眠、疼痛、抑郁和身体疾病跨越数十年，并出现在子女与孙辈 | 临床观察／代际案例 | 支持创伤会复制、变形并通过家庭关系延续 |
 | Dr Yang 将文革的核心描述为不稳定与随时可能改变的政治环境 | 专业口述 | 说明恐惧不只来自暴力本身，也来自无法预测的规则和关系 |
 | “沉默是安全，但代价高昂”成为家庭应对方式 | 家庭口述 | 展示保护自身与维持关系如何依赖压抑记忆 |
-| 心理治疗在中国曾被列为资产阶级伪科学，2013 年才获得法律承认 | 制度史 | 说明治疗语言的发展本身受到政治历史制约 |
+| 心理学在文革开始时被 Mao 禁止、被视为资产阶级伪科学；心理治疗直到 2013 年才获得法律承认 | 制度史 | 说明治疗语言的发展本身受到政治历史制约 |
 | 心理治疗会议中治疗师与听众都面对“文革是否应该谈”的不适 | 当代观察 | 展示个人疗愈、集体记忆和外来者介入之间的张力 |
 
 **论证脉络**：从“文革何时结束”的家庭问题进入 → 描述创伤的身体与代际后果 → 引入心理治疗师的匿名观察 → 说明恐惧源于不稳定关系而非单次暴力 → 解释沉默与治疗的伦理 → 讨论集体历史能否被治疗 → 展示 Dr Meng 的代际选择与希望 → 以“挖出真相再埋回去”的悖论收束。
@@ -62,7 +62,7 @@ source_text: ch13
 
 **句子结构**：`We` 是主语，`didn’t escape` 是否定过去时；`until my father died last April` 是时间终止从句，`last April` 给出具体时间锚点。
 
-**关键词：**We didn’t escape、until、my father died、last April。
+**关键词**： We didn’t escape、until、my father died、last April。
 
 **表达方式**：`until` 把逃亡与死亡锁在同一时间线上，个人生命成为历史结束的唯一坐标。`last April` 让宏大事件落在一个家庭的时间点。
 
@@ -84,7 +84,7 @@ source_text: ch13
 
 ### ④ 创伤不会随受害者死亡而结束
 
-> **原句 4:** "The trauma would not die with its victims: it had already replicated itself in their children"
+> **原句 4:** "The trauma would not die with its victims: it had already replicated itself in their children, and their children’s children."
 
 **中文理解**：创伤不会随着受害者死去；它已经在他们的孩子身上复制了自己。
 
@@ -94,7 +94,7 @@ source_text: ch13
 
 **表达方式**：冒号把不可见的心理后果转成复制机制，`replicated itself` 使用生物与科技词汇，暗示代际传递并非简单回忆，而是结构性再生产。
 
-**为什么这样写**：本章把“过去影响现在”推进到下一代，说明文革记忆不只通过档案传播。儿童的身体、情绪和家庭关系可能成为父母未处理历史的容器。
+**为什么这样写**：本章把“过去影响现在”推进到下一代和孙辈，说明文革记忆不只通过档案传播。儿童的身体、情绪和家庭关系可能成为父母未处理历史的容器。
 
 ### ⑤ 不稳定比暴力更根本
 
@@ -102,9 +102,9 @@ source_text: ch13
 
 **中文理解**：定义文革的与其说是暴力，不如说是不稳定。
 
-**句子结构**：`It wasn’t so much A as B` 是比较结构；`the violence` 与 `the instability` 形成 A/B 对照，`that defined...` 是限定定语从句。
+**句子结构**：这是“不是 A 而是 B”的比较结构；`the violence` 与 `the instability` 形成 A/B 对照，`that defined...` 是限定定语从句。
 
-**关键词：**wasn’t so much、violence、instability、defined、the Cultural Revolution。
+**关键词**： wasn’t so much、violence、instability、defined、the Cultural Revolution。
 
 **表达方式**：`not so much...as...` 不是完全否定暴力，而是重新安排两者的解释权重。`instability` 作为后置焦点，说明规则随时变化比一次暴力更令人恐惧。
 
@@ -130,9 +130,9 @@ source_text: ch13
 
 **中文理解**：文革表明，有一件事比陌生人更令人恐惧：亲近的人。
 
-**句子结构**：`The Cultural Revolution showed that...` 是主句；冒号后的同位语从句具体说明“更令人恐惧”的对象；`a stranger` 与 `someone close to you` 形成对比。
+**句子结构**：`The Cultural Revolution showed that...` 是主句；冒号后的 `someone close to you` 是解释“更令人恐惧”对象的同位语名词短语；`a stranger` 与 `someone close to you` 形成对比。
 
-**关键词：**more terrifying、a stranger、someone close to you、Cultural Revolution。
+**关键词**： more terrifying、a stranger、someone close to you、Cultural Revolution。
 
 **表达方式**：句子先给出一个普遍安全假设，再把威胁改写为亲密关系。`stranger` 与 `someone close to you` 的距离从陌生缩短到床边，政治因此进入家庭最深处。
 
@@ -146,11 +146,11 @@ source_text: ch13
 
 **句子结构**：`The “trauma process”` 是主语，`is not about` 是系表结构；`the truth of history` 是介词宾语，`in the usual sense of the word` 是范围限定。
 
-**关键词：**trauma process、not about、the truth of history、usual sense。
+**关键词**： trauma process、not about、the truth of history、usual sense。
 
 **表达方式**：句子把一个带引号的专业术语与“历史真相”区分开，像是在提前回应两种话语的冲突。`usual sense` 让读者知道作者不是否认事实，而是在限定“处理创伤”与“查明事实”不是同一任务。
 
-**为什么这样写**：心理治疗师不能公开断言历史责任，却可以帮助人承受失去；本章借此追问个人疗愈是否必须依赖公共真相，并揭示两者之间可能的冲突。
+**为什么这样写**：作者引用这一区分，追问个人疗愈是否必须依赖公共真相，并揭示两者之间可能的冲突；原文并未说治疗师在制度上不能断言历史责任。
 
 ### ⑨ 穿过，而不是绕过
 
@@ -160,7 +160,7 @@ source_text: ch13
 
 **句子结构**：两个短句结构相同，`I can’t` 与 `I have to` 形成否定／必要对比；`go around` 与 `go through` 共享 go 动词，空间隐喻把历史变成必须穿越的空间。
 
-**关键词：**can’t、go around、have to、go through。
+**关键词**： can’t、go around、have to、go through。
 
 **表达方式**：`around` 与 `through` 把心理经验空间化：一个人可以绕开创伤，却不能真正理解它。重复 `I` 把责任收回说话者自身，`have to` 排除轻松选择。
 
@@ -174,7 +174,7 @@ source_text: ch13
 
 **句子结构**：`They` 是主语，`excavated` 是过去时谓语；`the truth` 是宾语；`to rebury it` 是不定式短语，说明动作的目的，`it` 回指 truth。
 
-**关键词：**excavated、the truth、to rebury it。
+**关键词**： excavated、the truth、to rebury it。
 
 **表达方式**：挖掘和埋葬是相反动作，却被同一个目的连接。`to rebury` 把治疗行为写成保存而不是公开，暗示在政治禁忌下，真相即使被发现也未必能被说出。
 
@@ -186,7 +186,7 @@ source_text: ch13
 
 | 词/短语 | 释义 | 例句（原文） |
 |----------|------|--------------|
-| relentless | 无情的；持续不断的 | a pain that ate people up and wore them out |
+| relentless | 无情的；持续不断的 | acid, relentless, or came in spasms sharp enough to paralyse |
 | anaclitic | 依恋性的 | cathexis and anaclitic |
 | unabashed | 毫不羞愧的 | They were unabashed and unironic |
 | sincerity | 真诚 | They saw no shame in sincerity |
@@ -194,7 +194,7 @@ source_text: ch13
 | aftermath | 余波；后果 | what happened in the aftermath |
 | psychotherapist | 心理治疗师 | the psychotherapist continued |
 | Confucian | 儒家的 | traditional Confucian precepts |
-| traumatic | 创伤性的 | their trauma as commonplace |
+| traumatic | 创伤性的 | traumatic social movements |
 | taboo | 禁忌 | remained largely taboo |
 | archaeologist | 考古学家 | Freud saw himself as an archaeologist of the mind |
 | transgenerational | 跨世代的 | a theory of transgenerational trauma |
@@ -225,7 +225,7 @@ source_text: ch13
 | people | 人们 | people without roots |
 | country | 国家 | the country |
 | life | 生活 | life |
-| work | 工作 | the work |
+| work | 工作 | her work |
 | power | 权力 | power disappeared |
 | future | 未来 | the future |
 | children | 孩子 | their children |
