@@ -51,7 +51,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** the living are left to endure, fractured representations of their former selves, moving about and functioning without the motivation to truly exist. Living, then, becomes a series of predetermined movements.
+> **原句 4:** …the living are left to endure, fractured representations of their former selves, moving about and functioning without the motivation to truly exist. Living, then, becomes a series of predetermined movements.
 
 **中文理解：** 活着的人只能留下来忍受，成为自己昔日那种破碎的复制品，走动、机械运作，却再也没有真正活下去的动机。于是"活着"就变成了一连串预先排定的动作。
 

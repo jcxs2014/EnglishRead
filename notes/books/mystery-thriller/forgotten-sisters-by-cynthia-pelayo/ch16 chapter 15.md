@@ -75,7 +75,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 6:** as I step closer to the river’s edge, all of the objects freeze in place, and hundreds of faces all at once break through the surface, water pouring down eyes, ears, noses, and foreheads, and all of them staring at me. Their blue mouths open in silent screams.
+> **原句 6:** As I step closer to the river’s edge, all of the objects freeze in place, and hundreds of faces all at once break through the surface, water pouring down eyes, ears, noses, and foreheads, and all of them staring at me. Their blue mouths open in silent screams.
 
 **中文理解：** 当我朝河岸走近，所有东西都定在原地，几百张脸同时破水而出，水从他们的眼睛、耳朵、鼻子和额头上淌下来，全都盯着我。他们发青的嘴张开，发出无声的尖叫。
 

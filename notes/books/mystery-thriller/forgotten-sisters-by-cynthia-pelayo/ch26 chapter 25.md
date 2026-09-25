@@ -51,13 +51,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** “Hate it here. Will you take me away to live with you, under the sea?”
+> **原句 4:** “I hate it here. Will you take me away to live with you, under the sea?”
 
 **中文理解：** "我讨厌这里。你会带我走吗？到海底去和你一起住？"
 
 **关键词：** I hate it here / Will you take me away / to live with you, under the sea
 
-**为什么这样写：** 书信体在这里被压缩到最短：第一句七个词，第二句一个问句，两个并列的短句像一次最后的呼救。"under the sea"（在海底）用介词 under 而非 in 或 at——**under 在英文里既是"在……之下"，也是"在水下"**，因此这句同时是一次投降与一次下降。全信没有落款式的日期、没有解释、没有称呼，只有这十五个词；而这是全书唯一一次，Anna 把自己的愿望直接说给河听。
+**为什么这样写：** 书信体在这里被压缩到最短：第一句只有四个词，第二句一个问句，两个并列的短句像一次最后的呼救。"under the sea"（在海底）用介词 under 而非 in 或 at——**under 在英文里既是"在……之下"，也是"在水下"**，因此这句同时是一次投降与一次下降。全信有称呼（Dear Fairy）与落款（Love, Anna），却没有日期与解释，只有这十六个词；而这是全书唯一一次，Anna 把自己的愿望直接说给河听。
 
 **读者视角提示：** 请把这封信与第二十一章那句"带我走"（Take me with you）对照：她八岁写给海，二十三岁对一个男人说出同一句话——**一个从水里来的人，从水里被带走。**
 
@@ -87,7 +87,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 7:** It is as if my mind is playing back a memory.
+> **原句 7:** It is as if my mind is playing back a memory, and for an instant Grandmother is, indeed, there sitting on the sofa, patting the space beside her with her hand.
 
 **中文理解：** 就好像我的大脑正在回放一段记忆。
 
