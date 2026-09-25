@@ -41,15 +41,87 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
-### [2026-09-25 10:23 UTC] [Opencode-Mac] → All
+### [2026-09-25 10:57 UTC] [Opencode-Mac] → All
 
-**《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇全书完工**
+**《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇全书完工 + 独立五步审查整改完成**
 
-- 范围：`notes/books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/`；26 个正文精读文件（ch01–ch26，含 Chapter 7–10 续篇与 Resources）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 29 个 md；`text/` ch01–ch26 与正文 `source_text` 一一映射。
-- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af` → `1db35122`（总览三篇）。
-- 章节门禁：`verify_quotes 257/257`（26/26）；`check_vocab 908` 行 `FAIL 0 / WARN 0`；`check_entities 0`；`check_chapter_quotes 257/257`；3 条短引语已人工 grep 兜底。
-- 总览门禁：`verify_overview_quotes 51/51`（金句 30、情感节点 21）；金句章节标签 `30/30`、节点标签 `21/21`；三篇 H1 语义校验 `3/3`。
-- 状态：执行方四件套与总览门禁完成；**独立五步审查未做（待用户主动发起）**；未 push。
+- 范围：`notes/books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/`；26 个正文精读文件（ch01–ch26，含 Chapter 7–10 续篇、ch24–25 Epilogue 终章与 Resources）+ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`，共 29 个 md；`text/` ch01–ch26 与正文 `source_text` 一一映射。
+- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af` → `1db35122` → `e8c9c844`（独立五步审查整改）。
+- a｜三件套重跑原始结果：
+  - `verify_quotes.py`：
+    ```
+    00_情感节点.md: 16/16 ✅
+    00_概述.md: ⚠️ 未提取到编号引语（请人工核对格式）
+    00_金句精选.md: 20/20 ✅
+    ch01 a note from the authors.md: 10/10 ✅
+    ch02 introduction.md: 10/10 ✅
+    ch03 chap3.md: 10/10 ✅
+    ch04 making sense of the world.md: 10/10 ✅
+    ch05 chap5.md: 10/10 ✅
+    ch06 seeking balance.md: 10/10 ✅
+    ch07 chap7.md: 10/10 ✅
+    ch08 how we were loved.md: 10/10 ✅
+    ch09 chap9.md: 10/10 ✅
+    ch10 the spectrum of trauma.md: 10/10 ✅
+    ch11 chap11.md: 10/10 ✅
+    ch12 connecting the dots.md: 10/10 ✅
+    ch13 chap13.md: 10/10 ✅
+    ch14 from coping to healing.md: 10/10 ✅
+    ch15 chap15.md: 10/10 ✅
+    ch16 post traumatic wisdom.md: 10/10 ✅
+    ch17 chap17.md: 9/9 ✅（另有 1 条短引语未校验）
+    ch18 our brains our biases our systems.md: 10/10 ✅
+    ch19 chap19.md: 10/10 ✅
+    ch20 relational hunger in the modern world.md: 10/10 ✅
+    ch21 chap21.md: 10/10 ✅
+    ch22 what we need now.md: 9/9 ✅（另有 1 条短引语未校验）
+    ch23 chap23.md: 9/9 ✅（另有 1 条短引语未校验）
+    ch24 chap24.md: 10/10 ✅
+    ch25 chap25.md: 10/10 ✅
+    ch26 resources.md: 10/10 ✅
+    ⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+    === 总计 293/293 引文可核实（100%）；完全干净文件 28/28 ===
+    ```
+  - `check_vocab.py`：
+    ```
+    词条行合计: 908
+    --- FAIL (0) ---
+    --- WARN (0) ---
+    ```
+  - `check_entities.py`：`=== 实体一致性检测：0 个文件存在未知实体 ===`
+- b｜逐章归属原始结果：
+  ```
+  ch01 a note from the authors.md: 10/10 in ch01 text
+  ch02 introduction.md: 10/10 in ch02 text
+  ch03 chap3.md: 10/10 in ch03 text
+  ch04 making sense of the world.md: 10/10 in ch04 text
+  ch05 chap5.md: 10/10 in ch05 text
+  ch06 seeking balance.md: 10/10 in ch06 text
+  ch07 chap7.md: 10/10 in ch07 text
+  ch08 how we were loved.md: 10/10 in ch08 text
+  ch09 chap9.md: 10/10 in ch09 text
+  ch10 the spectrum of trauma.md: 10/10 in ch10 text
+  ch11 chap11.md: 10/10 in ch11 text
+  ch12 connecting the dots.md: 10/10 in ch12 text
+  ch13 chap13.md: 10/10 in ch13 text
+  ch14 from coping to healing.md: 10/10 in ch14 text
+  ch15 chap15.md: 10/10 in ch15 text
+  ch16 post traumatic wisdom.md: 10/10 in ch16 text
+  ch17 chap17.md: 9/9 in ch17 text（另有 1 条短引语未校验）
+  ch18 our brains our biases our systems.md: 10/10 in ch18 text
+  ch19 chap19.md: 10/10 in ch19 text
+  ch20 relational hunger in the modern world.md: 10/10 in ch20 text
+  ch21 chap21.md: 10/10 in ch21 text
+  ch22 what we need now.md: 9/9 in ch22 text（另有 1 条短引语未校验）
+  ch23 chap23.md: 9/9 in ch23 text（另有 1 条短引语未校验）
+  ch24 chap24.md: 10/10 in ch24 text
+  ch25 chap25.md: 10/10 in ch25 text
+  ch26 resources.md: 10/10 in ch26 text
+  ```
+- c｜结构与交叉引用：自定义扫描 `chapters=26 blocks=260 duplicate_quote_bodies=0 quote_sweep_errors=0 vocab_example_misses=0 total_errors=0`；五子项齐全、编号连续、零孤儿/重复块、关键词锚定 0 违规；H1/source_text 映射 0 问题；三篇总览 H1 语义 `3/3`；`check_crossref.py`：`交叉引用核对：0 对，报警 0`。
+- d｜语义二审：主会话按行首引语块逐对复核 260/260（257 条工具校验长引语 + 3 条人工短引语），并对 ch01–ch09、ch10–ch18、ch19–ch26 分三批只读回源复核；已修复引语截断/分析错位、时序与说话人归属、语法结构误判、词汇例句改写与句界问题、概述事实错误。重点修复包括 ch11 `This means` 完整引语、ch17 完整 `functional changes` 句、ch20 `For my Māori hosts` 前缀、ch24–25 Epilogue 标签、ch25 删除不存在的“道歉”、ch22 明确 Ms. Miller 说话人，以及 26 章字符数由字节数纠正为实际字符数。
+- e｜总览层：`verify_overview_quotes.py` 原始结果为 `00_情感节点.md: 21/21 ✅`、`00_金句精选.md: 30/30 ✅`、`=== 总览引文 51/51 可核实（100%） ===`；概述无编号引语，行内英文短语全量 flat MISS=0；金句章节标签 `30/30`、情感节点 `21/21`。关键事实回源：Shaka/James White 与儿子信 `ch18...txt:18,26,42,44,62,64`；Māori/whanaungatanga 与 Timothy `ch20...txt:36,43,45,47,49,83,85`；Neurosequential/Susan `ch23...txt:18,28,30,34,36,38,44,46`；Jesse `ch24...txt:10,14,16,18,62,72`；Vernita Lee 与结尾力量 `ch25...txt:8,64`；Resources `ch26...txt:52,60`。
+- 整改后复跑：`audit_book.py` text/EPUB 抽检 `26/26`、格式门禁通过；协作板与工作日志均只保留本书这一条记录。已知局限：同会话审查仍可能存在全书统一口径的系统性误判；本轮已用三批只读回源、全文整串、逐章归属、章节标签和人物事实多路径交叉复核。状态：整改完成，未 push。
 
 ---
 
