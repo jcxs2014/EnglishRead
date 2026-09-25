@@ -14,13 +14,13 @@ modified: "2026-09-25"
 
 ## 精读
 
-> **原句 1:** "The hateful practice of developing resource-rich planets to the point of destruction—colloquially known as GUTTING—has long been a habit in a glorious Empire of ours . . . but in the last few years the process has accelerated to an almost INSANE degree."
+> **原句 1:** "The hateful practice of developing resource-rich planets to the point of destruction—colloquially known as GUTTING—has long been a habit in this glorious Empire of ours . . . but in the last few years the process has accelerated to an almost INSANE degree."
 
 **中文理解**：把资源丰富的行星开发到彻底毁灭——俗称 GUTTING（掏空）——这种可憎的行为，长期以来一直是"我们这光辉帝国"的一项惯例……但近些年，这道工序已经加速到几乎**疯狂**的程度。
 
 **关键词**：hateful / colloquially known as / INSANE degree
 
-**为什么这样写**：这是本书的招牌句法，四个步骤一次做完。①先立一个道德上已经定罪的形容词（hateful 可憎的），②用破折号插入俗称 GUTTING 并大写，让它变成一个专有名词，③主句用"光辉帝国"这类官方套话（has long been a habit in this glorious Empire of ours），④再靠一个 but 把话头扳向崩溃。全句只有二十来个词，态度却两次翻转。作者把 `hateful` 放在句首作判决，把 `INSANE` 放在句末作判刑，中间夹着帝国的自我表扬——批判全靠"套话"与"事实"的缝隙完成，正文一个字都没有明说。
+**为什么这样写**：这是本书的招牌句法，四个步骤一次做完。①先立一个道德上已经定罪的形容词（hateful 可憎的），②用破折号插入俗称 GUTTING 并大写，让它变成一个专有名词，③主句用"光辉帝国"这类官方套话（has long been a habit in this glorious Empire of ours），④再靠一个 but 把话头扳向崩溃。全句约四十词，态度却两次翻转。作者把 `hateful` 放在句首作判决，把 `INSANE` 放在句末作判刑，中间夹着帝国的自我表扬——批判全靠"套话"与"事实"的缝隙完成，正文一个字都没有明说。
 
 **读者视角提示**：句中所有大写词（GUTTING / INSANE）都是文书写手式的强调，与 ch01 Carl 初见酒店的抒情腔形成极端对照。
 
@@ -38,15 +38,15 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 3:** "The hateful practice of developing resource-rich planets to the point of destruction—colloquially known as GUTTING—has long been a habit in a glorious Empire of ours"
+> **原句 3:** "Galilee is now the ninth planet to be strip-mined to oblivion in the last handful of decades."
 
-**中文理解**：把资源丰富的行星开发到彻底毁灭——俗称 GUTTING——这种可憎的行为，长期以来一直是"我们这光辉帝国"的一项惯例。
+**中文理解**：加利利如今是过去几十年里第九颗被采掘到虚无的行星。
 
-**关键词**：developing / destruction / habit
+**关键词**：the ninth planet / strip-mined / to oblivion
 
-**为什么这样写**：developing（开发）与 destruction（毁灭）被 to the point of destruction（直到毁灭的程度）焊在同一个动宾结构里，动词与终点形成反讽。帝国宣传把"开发资源"与"毁灭行星"当作同一件事描述，这里是全文最锋利的地方。habit（习惯）一词更是把屠杀降格成日常生活。
+**为什么这样写**：全篇最冷的一次降格。to be strip-mined to oblivion（被采掘到虚无）是一整个动名词短语当宾语，而它在句中的身份是 the ninth planet——**行星成了 countable 的序号单位**。作者不写"损失惨重"，只数出一个序数词；hath 不必出现，判决已经下达。ninth 这个词尤其毒：它同时意味着前面还有八颗，而这一颗只是最新的一块砖。
 
-**读者视角提示**：这个"开发即毁灭"的定义，本书正篇里会以 empire 巡演、diorama（银河立体模型）被关闭的形式反复重演。
+**读者视角提示**：留意这个"数数"的动作与本篇标题的呼应——手稿通篇在做的事就是把屠杀换算成清单。
 
 ---
 

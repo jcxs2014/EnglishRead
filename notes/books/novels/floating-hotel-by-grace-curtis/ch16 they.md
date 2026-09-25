@@ -40,7 +40,7 @@ modified: "2026-09-25"
 
 > **原句 3:** "Watching her from behind he imagined that his anger was a beam of hot light funneled through a convex lens"
 
-**中文理解**：他感到自己的怒气冷却下来，和它沸腾时一样迅速。
+**中文理解**：他站在她身后看着她，幻想自己的怒气是一束经凸透镜收束的灼热光——只要盯得够狠，她脖子上的皮肤就要开始冒烟。
 
 **关键词**：a beam of hot light / funneled through / a convex lens
 

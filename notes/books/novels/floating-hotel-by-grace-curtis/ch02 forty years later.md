@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：indispensable / like an organ / no stomach for silence
 
-**为什么这样写**：先给褒义（indispensable twice，第二次直接顶格另起），再用一个 But 抽掉。like an organ 是精准的比喻——器官不可或缺，却不说话；作者借这个比喻提前预告了 Mataz 后面必然闯祸。no stomach for silence 是全文最好的短语之一：stomach 既是"胃"（能吞下多少话）又是"胆量/定力"，Carl 两次打断他（Sasha. Guests. / Mataz, we were talking about Daphne）正是因为这句话。
+**为什么这样写**：先给褒义（`Indispensable.` 第一次顶格另起当句子，第二次缩在冒号后重复同词），再用一个 But 抽掉。like an organ 是精准的比喻——器官不可或缺，却不说话；作者借这个比喻提前预告了 Mataz 后面必然闯祸。no stomach for silence 是全文最好的短语之一：stomach 既是"胃"（能吞下多少话）又是"胆量/定力"，Carl 两次打断他（Sasha. Guests. / Mataz, we were talking about Daphne）正是因为这句话。
 
 **读者视角提示**：Mataz 是本章的"剧作家"——reveled in the drama of a good crisis 一句就交代了他的全部动机。
 
@@ -58,7 +58,7 @@ modified: "2026-09-25"
 
 **为什么这样写**：technically 是全章最重要的两个字：权力是名义的，威权是情感的。which way to hold a fork 是极精准的屈辱细节——不是被打、不是被骂，而是被笑"连餐具都不会拿"，这是殖民地孤儿受过的具体轻蔑。wet-eared（乳臭未干）配 periphery（边缘星）一软一硬，交代 Carl 的出身始终是他的心理底色。
 
-**读者视角提示**：Kipple 是 ch01 里的 Carl 看电梯按钮要人领进门的那个"前辈"，四十年的权力关系仍是这一根手指的差别。
+**读者视角提示**：Kipple 当年只是个 trainee（练习生），四十年后仍能用一个眼神把 Carl 顶回当初那个"湿耳朵的矿星小孩"的位置——而今天连按电梯按钮 Carl 都是用手肘（原文写的是 `Nudged the button to call the elevator with his elbow`），连这点小事他也不再亲手做。
 
 ---
 

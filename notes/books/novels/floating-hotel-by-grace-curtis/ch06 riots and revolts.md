@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：common knowledge / unthinking workers / last in line
 
-**为什么这样写**：even though 引导的让步从句是全句重心：粮食（that food）若非他们的劳动便不存在（were it not 用虚拟语气，与 now 的事实形成时态错位），却排在队伍最后。unthinking workers 加引号，是帝国对不服管束者的标准蔑称。It is common knowledge（这是常识）暗示这不是个别官僚的私人恶行，而是整个阶层的公开共识——**共谋被写成了常识**。
+**为什么这样写**：even though 引导的让步从句是全句重心：粮食（the food）若非他们的劳动便不存在（were it not 用虚拟语气，与主句 are to be last in line 的现在时形成时态错位），却排在队伍最后。unthinking workers 加引号，是帝国对不服管束者的标准蔑称。It is common knowledge（这是常识）暗示这不是个别官僚的私人恶行，而是整个阶层的公开共识——**共谋被写成了常识**。
 
 **读者视角提示**：注意 even though 之后是一个省略结构（food would not exist were it not for their labor），主语与助动词双双倒装，句子重心被压到最后半句。
 

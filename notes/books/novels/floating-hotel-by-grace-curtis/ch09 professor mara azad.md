@@ -32,7 +32,7 @@ modified: "2026-09-25"
 
 **关键词**：Wealth redistribution / she told herself
 
-**为什么这样写**：全章最短、也最冷的一句。四个字的名词短语（一个左翼政治术语）被 Azad 当成收据的**自欺工具**：她收受贿赂、把分数抬上去，却用"财富再分配"这个说法给自己开脱。she told herself 三个词是全句的良心所在——作者不判她有罪，只让她自己听见了自己在说什么。这种反讽比任何评论都省力。
+**为什么这样写**：全章最短、也最冷的一句。两个词的名词短语（一个左翼政治术语）被 Azad 当成收据的**自欺工具**：她收受贿赂、把分数抬上去，却用"财富再分配"这个说法给自己开脱。she told herself 三个词是全句的良心所在——作者不判她有罪，只让她自己听见了自己在说什么。这种反讽比任何评论都省力。
 
 **读者视角提示**：这四个字是本书对"堕落"一词最省力的定义：不是变得缺德，是给自己发明一个词。
 
@@ -44,7 +44,7 @@ modified: "2026-09-25"
 
 **关键词**：turned out / an excellent career move
 
-**为什么这样写**：主语是一个完整的句子（Not giving a shit），主语从句被提到句首，而真正的谓语（turned out to be...）落在后面——这个语序本身就是"先摆出事实、后补上评价"的懒散姿态，与她"不在乎"的人设严格一致。turned out（结果是）是叙事者事后追溯的语气，说明这句是多年之后的总结；而 an excellent career move 用职场术语（career move 职业举动）来评价一种**放弃**，词语的正式度与内容的荒唐度形成落差。
+**为什么这样写**：主语是一个动名词短语（Not giving a shit），被提到句首，而真正的谓语（turned out to be...）落在后面——这个语序本身就是"先摆出事实、后补上评价"的懒散姿态，与她"不在乎"的人设严格一致。turned out（结果是）是叙事者事后追溯的语气，说明这句是多年之后的总结；而 an excellent career move 用职场术语（career move 职业举动）来评价一种**放弃**，词语的正式度与内容的荒唐度形成落差。
 
 **读者视角提示**：这一句是全章的题眼。Azad 的一切转折，都始于这个"划算的放弃"。
 
@@ -56,7 +56,7 @@ modified: "2026-09-25"
 
 **关键词**：knew / all too well / the Lamplighter’s dispatches
 
-**为什么这样写**：全书最重的一句伏笔揭示，只用十来个词。all too well（再熟悉不过）是"熟到不该这么熟"的说法——它暗示 Azad 与提灯人的关系**不止于读者与读物**。作者在这里第一次把"手稿节"（ch03/ch06/ch08/ch10/ch14/ch23）那六篇匿名快报与主线人物直接挂上，读者由此回头意识到：那些"分发者不明"的文本一直在场。
+**为什么这样写**：全书最重的一句伏笔揭示，只用八个词。all too well（再熟悉不过）是"熟到不该这么熟"的说法——它暗示 Azad 与提灯人的关系**不止于读者与读物**。作者在这里第一次把"手稿节"（ch03/ch06/ch08/ch10/ch12/ch14/ch23）那七篇匿名快报与主线人物直接挂上，读者由此回头意识到：那些"分发者不明"的文本一直在场。
 
 **读者视角提示**：注意下一句紧跟的是"年轻时她虔诚地收集它们"——Azad 从少女时代就是提灯人的读者，而她现在被帝国要求破译的，正是提灯人用的密码。
 
@@ -80,7 +80,7 @@ modified: "2026-09-25"
 
 **关键词**：mapped out / the distance / between you and home
 
-**为什么这样写**：全章的收束级比喻，六个词。mapped out（标绘出）把债务画成一张**地图**；between you and home 里的"家"既是 Azad 那间付着租金的旧药铺，也是帝国许诺的终身教职。数学第一次在这里显出它的诗意：一个负数不告诉你欠多少，只告诉你**离归处还有多远**。
+**为什么这样写**：全章的收束级比喻，九个词。mapped out（标绘出）把债务画成一张**地图**；between you and home 里的"家"指的是那把她用 bribes 换来、也用来封住嘴的 PSC 终身教职——Azad 全章住在酒店的客房里，没有店铺、没有产业，这个"家"从头到尾只是一份职位。数学第一次在这里显出它的诗意：一个负数不告诉你欠多少，只告诉你**离归处还有多远**。
 
 **读者视角提示**：这句与 ch04 里 Uwade 那句"像一盘被陌生人的牙啃干净的肉"同一谱系——把抽象的处境（内疚、无望）交给具体的量度来承担。
 
@@ -98,13 +98,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 8:** "though he said it quietly, he used the word “cool” with no trace of detachment or irony. Ooly Mall was sincere, he realized. He sincerely thought it was cool."
+> **原句 8:** "though he said it quietly, he used the word “cool” with no trace of detachment or irony. Ooly Mall was sincere, she realized. He sincerely thought it was cool."
 
 **中文理解**：尽管他说得很轻，却用"酷"这个词时，不带一丝疏离或反讽。Azad 此刻才意识到：Ooly Mall 是真心的。他真心觉得那很酷。
 
 **关键词**：no trace of / detachment / sincerely
 
-**为什么这样写**：全章最温柔的一处转折，藏在"意识到"（realized）这个动词里。作者先用 no trace of（毫无痕迹）排除掉 Ooly 可能的油滑，再用 sincere（真诚）两次、sincerely 一次反复夯实。上一句还在说她"鄙视"（despise）他，这一刻却开始承认他的认真。Azad 这一生的病根是"她认定所有人都在演"，而 Ooly 是第一个不演的人。
+**为什么这样写**：全章最温柔的一处转折，藏在"意识到"（realized）这个动词里。作者先用 no trace of（毫无痕迹）排除掉 Ooly 可能的油滑，再用 sincere（真诚）两次、sincerely 一次反复夯实。上一句他还只是随口一句 `Okay. Cool.`——作者用叙述者的 `felt the first murmurings of respect` 点明：转变在这一刻之前就已启动，`though he said it quietly`（尽管他说得很轻）说明他毫无自觉，是 Azad 先认出来的。Azad 这一生的病根是"她认定所有人都在演"，而 Ooly 是第一个不演的人。
 
 **读者视角提示**：这是全书为数不多的"和解"时刻，且它发生在一个最不合时宜的场合（她刚被 Ooly 闯入私人空间）。留心这里的"转变"是**瞬间的、非理性的**。
 

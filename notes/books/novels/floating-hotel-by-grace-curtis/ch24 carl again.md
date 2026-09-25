@@ -44,9 +44,9 @@ modified: "2026-09-25"
 
 **关键词**：All good-byes / too quickly / come too late
 
-**为什么这样写**：全章——也可能是全书——最沉重的一句格言，作者借 Carl 之口说出，却把**两个时间方向**压进一句：too quickly（太早）与 too late（太迟）。而"太迟"的主语是**被告别的人**：他一生都在说这句，只是从没说出口。slowly 那个词在 Kipple 的信里还出现了一次（"我故意写得很慢来气他"），两处一快一慢，构成全书最后的一组节奏。
+**为什么这样写**：全章——也可能是全书——最沉重的一句格言，这句是叙述者的评语（不是任何人物的口白），却把**两个时间方向**压进一句：too quickly（太快）与 too late（太迟）——同一件事的两种时间失配。Carl 一生都在说这句，只是从没说出口。slowly 那个词在 Kipple 的信里还出现了一次（"我故意写得很慢来气他"），两处一快一慢，构成全书最后的一组节奏。
 
-**读者视角提示**：这句在原文里是叙述者的转述，出现在 Carl 追忆疏散的几天之后。把它与 ch02 结尾那句"他在四十年后的同一天切开一个香槟"对读——那是他不肯看船那一眼的代价。
+**读者视角提示**：这句在原文里是叙述者的评语，插在两处之间：前面是 Carl 算清遣散费、确认所有人都已脱身（`When he knew for sure they’d gotten away with it`），后面才是 `For a long time afterward he’d sweetly treasure the memory of…`（此后多年他反复回味）。把它与 ch02 那只员工凑钱买的生日香槟对读——那时是别人给他庆祝，这一次是他自己买单送人走。
 
 ---
 
@@ -56,9 +56,9 @@ modified: "2026-09-25"
 
 **关键词**：the greatest pleasure of my life / was to be / your accountant
 
-**为什么这样写**：Kipple 遗书里最重的一句，也是全书最锋利的一次**降格**。taut 全文反复出现的 Empire of the Never-Setting Sun、Perpetual Emperor、维度的门，全部被一句"当你的会计"顶掉了。而作者用的是 greatest pleasure（最大的乐趣）——不是最骄傲、最有意义、不是最忠诚，是**乐趣**。这个词选得极冷也极准：她一生没被允许做自己，最后发现自己最享受的，是替一个好人算账。
+**为什么这样写**：Kipple 遗书里最重的一句，也是全书最锋利的一次**降格**。这封信里 Kipple 自陈的整条身世——`I wasn’t born to be a person, you know. I was born to be a ruler—the seventeenth of my line`、还有那场"An Empire is a tricky thing to dismantle"——全部被一句"当你的会计"顶掉了。而作者用的是 greatest pleasure（最大的乐趣）——不是最骄傲、最有意义、不是最忠诚，是**乐趣**。这个词选得极冷也极准：她一生没被允许做自己，最后发现自己最享受的，是替一个好人算账。
 
-**读者视角提示**：把这封信与手稿节 ch03 那句"把资源丰富的行星开发到毁灭"对读——写信人出身帝国情报部门（她是"我这一脉的第十七位"，生来该做统治者），而她最终选择做的事，是"当你的会计"。署名是 KP（Kipple Pittsburgh），不是帝国，也不是提灯人这个化名。
+**读者视角提示**：把这封信与手稿节 ch03 那句"把资源丰富的行星开发到毁灭"对读——写信人出身帝国皇室（"我这一脉的第十七位"，生来该做统治者），而她最终选择做的事，是"当你的会计"。署名是 KP（Kipple Pittsburgh），不是帝国，也不是提灯人这个化名。
 
 ---
 

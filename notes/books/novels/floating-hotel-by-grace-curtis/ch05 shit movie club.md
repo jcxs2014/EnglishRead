@@ -32,7 +32,7 @@ modified: "2026-09-25"
 
 **关键词**：rinsed / endless / viewings and re-viewings
 
-**为什么这样写**：rinsed（冲洗）是与上文 ticker-tape 呼应的水系意象。电影在这里成了"被冲洗"的东西——rinsed of interest 暗示趣味是被洗掉的损耗物，不是一次性的爆点。viewings and re-viewings 把"放映"与"重映"用连字符黏成一个复合词，修饰 endless 再叠一层前缀 re-，让"没完没了"在语法层面成立而不只是靠一个副词。
+**为什么这样写**：rinsed（冲洗）是与上文 ticker-tape 呼应的水系意象。电影在这里成了"被冲洗"的东西——rinsed of interest 暗示趣味是被洗掉的损耗物，不是一次性的爆点。viewings and re-viewings 靠 re- 前缀把同一个动作叠成往复（放映—重映—再放映），再由 endless 兜住，让"没完没了"在语法层面成立而不只是靠一个副词。
 
 **读者视角提示**：这俱乐部之所以叫 Shit Movie Club，正因为放映次数太多，电影已被彻底榨干——但本章的观众（和 Reggie）显然乐在其中。
 
@@ -44,19 +44,21 @@ modified: "2026-09-25"
 
 **关键词**：pomp and portent / self-seriousness / God's imminent arrival
 
-**为什么这样写**：这是全章最华丽的一句，也是最刻薄的一句：作者故意用宣告神明降临的词汇（pomp and portent 排场与预兆）来描述一个放映员念电影预告的嗓音，形成一次精确的"降级式崇高"（mock sublime）。if not A, but the voice of the person sent to announce A——把"神的声音"降格为"报信人"，语气越庄重，嘲讽越彻底。
+**为什么这样写**：这是全章最华丽的一句，也是最刻薄的一句：作者故意用宣告神明降临的词汇（pomp and portent 排场与预兆）来描述那个叙述者始终不指认发声者的嗓音（原文只写 `the arrival of a voice`、`said the voice`），而它念的其实是影片自身的开场旁白——片名 FRIENDS FROM BEYOND 由 `that singular voice` 回声（echo）而出，随后一句 `Thus the story began` 把它钉死为故事的开头。这形成一次精确的"降级式崇高"（mock sublime）。if not A, but the voice of the person sent to announce A——把"神的声音"降格为"报信人"，语气越庄重，嘲讽越彻底。
 
 **读者视角提示**：注意这句用 so...that... 的巨大结构，本身就在模仿它所嘲讽的那种电影式修辞——句子和它嘲笑的对象一样夸张。
 
 ---
 
-> **原句 4:** "What followed was an overacted, badly written, glitzy, teeth-rotting affair of the highest order."
+> **原句 4:** "What followed was an overacted, badly written, glitzy, teeth-rotting affair of the highest order, wherein an intrepid spacefaring hero with the improbable name of \u201cBiggs Dipper\u201d formed a powerful masculine bond with a sentient being called Gorb."
 
-**中文理解**：接下来的是一部过火演绎、写得很糟、闪闪发亮、烂到掉牙的作品，货真价实的烂片。
+**中文理解**：接下来的是一部过火演绎、写得很糟、闪闪发亮、烂到掉牙的作品——货真价实的烂片；片子讲的是一个名字取得不可能的星际英雄"Biggs Dipper"，与一个叫 Gorb 的有智慧生物之间结成了"强有力的男性情谊"。
 
-**关键词**：overacted / teeth-rotting / of the highest order
+**关键词**：overacted / teeth-rotting / of the highest order / wherein / powerful masculine bond
 
 **为什么这样写**：四个贬义短语并置，全是骂，却用 of the highest order（最高规格的）作结——把骂人的形容词用"最高级"结构托起来，是反讽的经典手法（说它烂到极致，听上去反而像在吹捧）。overacted（演得太过火）一词精确点出烂片的病灶：不是剧本差，而是所有演员都在用力过猛。teeth-rotting（烂到掉牙）用身体感受代替"糟糕"，比 bad 高了三个量级。
+
+真正的毒在破折号之后的 wherein 从句：作者在这里**顺手把烂片的类型套路也嘲讽了一遍**——intrepid spacefaring hero（无畏的星际英雄）、improbable name（不可能的名字）、powerful masculine bond（强有力的男性情谊）连成一串标准好莱坞零件，而被"结成男性情谊"的对象叫 Gorb。于是这片子的烂有了两层：台词烂，结构也烂。
 
 **读者视角提示**：这句是叙述者（而非角色）第一次对电影作出评价，透露出 Carl 之外的成人视角。
 
@@ -92,7 +94,7 @@ modified: "2026-09-25"
 
 **关键词**：lifting dizziness / emerging / another world
 
-**为什么这样写**：电影散场，作者用一个生理词（dizziness 眩晕）来写"从故事里走出来"的恍惚——把"出戏"写成一种身体反应，lifting（浮升的）既是走出暗厅时被强光晃到的错觉，也是那种"从另一个世界浮回现实"的轻盈。这个词组与后文 Carl 说"这是真的另一个世界"、以及 Angoulême 隔墙听琴时"是同类相认还是死亡俯冲"的双关遥相呼应。
+**为什么这样写**：电影散场，作者用一个生理词（dizziness 眩晕）来写"从故事里走出来"的恍惚——把"出戏"写成一种身体反应，lifting（浮升的）既是走出暗厅时被强光晃到的错觉，也是那种"从另一个世界浮回现实"的轻盈。这个词组与 ch04 结尾 Angoulême 隔墙听琴时"是同类相认还是死亡俯冲"的双关遥相呼应：一个在黑暗里靠声音辨认彼此，一个在散场后靠眩晕从故事里退出来。
 
 **读者视角提示**：留意全书对"另一个世界"一词的反复使用——它既指银幕上的星际影片，也指放映散场时那种"从另一个世界浮上来"的眩晕，也指 ch01 里 Carl 初见酒店时"以为自己在做梦"的那一刻。
 

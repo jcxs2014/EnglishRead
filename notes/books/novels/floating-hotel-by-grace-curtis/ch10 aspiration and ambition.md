@@ -16,7 +16,7 @@ modified: "2026-09-25"
 
 > **原句 1:** "In our virtuous and sensible Empire, Dukedom is awarded not on the basis of birth, but at the discretion of the previous duke, who picks their successor from a pool of the outstanding citizenry supposedly nominated by the local people."
 
-**中文理解**：在我们这个德行而明智的帝国里，公爵爵位不按血统授予，而由前任公爵裁量决定——他从不许由地方人民提名的杰出公民中挑选自己的继任者。
+**中文理解**：在我们这个德行而明智的帝国里，公爵爵位不按血统授予，而由前任公爵裁量决定——他正是从那个**据称**由地方人民提名的杰出公民池子里，挑出自己的继任者。
 
 **关键词**：virtuous and sensible / at the discretion of / supposedly
 
@@ -34,7 +34,7 @@ modified: "2026-09-25"
 
 **为什么这样写**：作者在这里直接对读者发问（rhetorical question），并自己给出答案。UTTERLY FIXED（完全固定）以全大写出现，是"定罪"式的宣判。作者不用"其实并非如此"这类委婉的转折，而用反问 + 断语，把论证推到读者面前，迫使读者自己得出"这根本不是选举"的结论。Will it surprise you 的反问还暗含一种疲倦的自信：答案当然是不。
 
-**读者视角提示**：这一问与 ch04 里 Kipple 那句"你以为有选择吗"是同一种帝国腔——用提问代替回答，实际上是在引诱对方自己承认。
+**读者视角提示**：这一问与 ch02 里人们对 Kipple 说的那句"Work some of the old Kipple magic?"（用点旧的 Kipple 魔法总行吧）是同一种帝国腔——用一个反问代替回答，实际上是在引诱对方自己承认。
 
 ---
 

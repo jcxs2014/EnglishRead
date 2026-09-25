@@ -50,7 +50,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** "it was probably money. It was always money."
+> **原句 4:** "…but it was probably money. It was always money."
 
 **中文理解**：争论的内容大概是为了钱。永远都是钱。
 
@@ -92,9 +92,9 @@ modified: "2026-09-25"
 
 **关键词**：the girl / from reception
 
-**为什么这样写**：作者把这六个词单独成段、去掉引号、顶格写出来，用**转述句（reported speech）**直接代替了 Mr. Corinth 的台词。这既是他的问话（Are you the girl from reception?），也是他的回答（No—of course not），更是 Uwade 自我定义的降格说明。写下这行的其实是 Uwade 自己；作者让她把自己的身份用别人的轻蔑说法复述了一遍，比任何心理描写都更冷。下一行她答 "Yes, sir. That's me."——一个人就这样接受了别人对她的命名。
+**为什么这样写**：作者把这四个词单独成段、去掉引号、顶格写出来，用**转述句（reported speech）**直接代替了 Mr. Corinth 的台词。这既是他的问话（Are you the girl from reception?），也是他的回答（No—of course not），更是 Uwade 自我定义的降格说明。写下这行的其实是 Uwade 自己；作者让她把自己的身份用别人的轻蔑说法复述了一遍，比任何心理描写都更冷。下一行她答 "Yes, sir. That's me."——一个人就这样接受了别人对她的命名。
 
-**读者视角提示**：这六个字是全书对酒店员工处境最省力的一次概括，比任何论说都狠。
+**读者视角提示**：这四个词是全书对酒店员工处境最省力的一次概括，比任何论说都狠。
 
 ---
 
@@ -104,7 +104,7 @@ modified: "2026-09-25"
 
 **关键词**：music / soft barrier
 
-**为什么这样写**：全章的落点由五个词完成。她本来打算藏起来（Unseen by anyone），弹琴的物理声波却先把人拦住——barrier 一词既是"隔断"也是"屏障"，既保护她不被看见，又保护她不被听见。下一句用动物意象（ears pricked, listening for the call of a fellow beast）把这道屏障拟人化；但作者立刻在最后一行翻脸：Or the swoop of death from a higher plain（也可能是一双自更高处俯冲而下的死之翅），把"同类相认"一秒翻成"捕食"。
+**为什么这样写**：全章的落点由六个词完成。注意这一段的真正主语换人了：弹琴的是 Uwade，走廊里经过的是 Angoulême（`Unseen by anyone, out in the hallway, the pianist Angoulême was passing, fingers trailing the wall`）——音乐把一个**别人**拦住了。barrier 一词既是"隔断"也是"屏障"，既保护弹琴者不被看见，又保护她不被听见。而下一句的动物意象（ears pricked, listening for the call of a fellow beast）写的是**停步的 Angoulême**：`First she slowed, then stopped completely. It was the alert stillness of an animal`——被拟人化成动物的首先是那个过路人，不是屏障；但作者立刻在最后一行翻脸：Or the swoop of death from a higher plain（也可能是一双自更高处俯冲而下的死之翅），把"同类相认"一秒翻成"捕食"。
 
 **读者视角提示**：本段是全书双关密度最高的一处，翻译时丢掉任一半都会失真。
 
@@ -156,4 +156,4 @@ modified: "2026-09-25"
 
 ## 一句话总结
 
-用六个词（"前台的那个女孩"）和五个词（"那音乐是一道柔软的屏障"）把一个娱乐工业幸存者重新命名为"前台"，再让她在无人处用旧琴声守住一点自己。
+用四个词（"前台的那个女孩"）和六个词（"那音乐是一道柔软的屏障"）把一个娱乐工业幸存者重新命名为"前台"，再让她在无人处用旧琴声守住一点自己。

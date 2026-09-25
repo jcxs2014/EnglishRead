@@ -16,11 +16,11 @@ modified: "2026-09-25"
 
 > **原句 1:** "all these hairless little bipeds packed in to stare adoringly at a wall"
 
-**中文理解**：这一屋子挤作一团、瞪大眼睛痴望一面墙的、毛茸茸的小两足动物。
+**中文理解**：这一屋子挤作一团、瞪大眼睛痴望一面墙的、光溜溜的小两足动物。
 
 **关键词**：hairless little bipeds / adoringly / a wall
 
-**为什么这样写**：全章第一句就把镜头拉到**外星视角**，而观众是 Reggie。hairless little bipeds（无毛的小两足）正是"Friends from Beyond"那部禁片的开场词，作者把它原封不动搬回来描述**真实观众**——一群在墙前看得入迷的员工。这个反讽是双向的：影片里的外星人觉得地球人傻，而地球上的观众正在为同样幼稚的仪式屏息。adoringly（痴爱地）一词尤其刻薄：他们不是在看电影，是在膜拜。
+**为什么这样写**：全章第一句就把镜头拉到**外星视角**，而观众是 Reggie。hairless little bipeds（无毛的小两足）是 Reggie 借外星视角给**真实观众**下的定义——一群在墙前看得入迷的员工；全片没有一个人称他们"人类"，而让一个整天待在放映室的年轻人用生物分类学的口吻数落他们。这个反讽是双向的：影片里的外星人觉得地球人傻，而地球上的观众正在为同样幼稚的仪式屏息。adoringly（痴爱地）一词尤其刻薄：他们不是在看电影，是在膜拜。
 
 **读者视角提示**：注意 Reggie 的身份——他是那个放映的人，却把自己也算进"admirers"里。留心这个自我认知。
 
@@ -32,9 +32,9 @@ modified: "2026-09-25"
 
 **关键词**：mole / came out / the hole
 
-**为什么这样写**：全章最短的一句冷幽默，逻辑却极其精确：Rogan 要给 Carl 让座，Kipple 迫于压力起身，于是 Rogan 用一句童谣式的俗语（the mole came out the hole）宣布胜利。这个比喻把 Kipple 的行为处理成**动物本能**——不是妥协，是被逼出洞的耗子。而"耗子"这个绰号会在下一句被 Kipple 原样奉还（Primate，猿猴），两人用对方的动物形象互相降格。
+**为什么这样写**：全章最短的一句冷幽默，逻辑却极其精确：Rogan 先是把旁边的客人往过道里轰（`shooing the people next to her further up the aisle`），然后**自己**起身挪到 Kipple 身边、给 Carl 让出位置——原文只写 `the lifeguard get up and move`，并没有写 Kipple 起身。于是 Rogan 用一句童谣式的俗语（the mole came out the hole）宣布胜利。这个比喻把**她自己**的移动处理成**动物本能**——不是妥协，是被挤出了洞的耗子。而"耗子"这个绰号会在下一句被 Kipple 原样奉还（Primate，猿猴），两人用对方的动物形象互相降格。
 
-**读者视角提示**：注意 Rogan 是全书最刺的人，但她只对KIPPLE 用这套话。作者用这种对仗标明：酒店内部的等级并不靠职位排。
+**读者视角提示**：注意 Rogan 是全书最刺的人，但她只对 Kipple 用这套话。作者用这种对仗标明：酒店内部的等级并不靠职位排。
 
 ---
 
@@ -42,7 +42,7 @@ modified: "2026-09-25"
 
 **中文理解**：她是在把我的水位拉低到她那一层。（Kipple 语）
 
-**关键词**：dragging / my level / hers
+**关键词**：dragging / me to / her level
 
 **为什么这样写**：Kipple 的抗议用了一个**降维**式的比喻：dragging me down（把我拽下去）暗示 Rogan 的粗鄙本是她自带的属性，而"拉到我这一层"其实是在说她"在我这条水平线上"。全句用"她拉我"与"她那一层"两个表达，把一句抱怨讲成了指责对方自甘堕落——这是全书最优雅的一句反击，冷静、精确、不带脏字。
 
@@ -68,7 +68,7 @@ modified: "2026-09-25"
 
 **关键词**：I don't need to know / the best staff / don't I?
 
-**为什么这样写**：全章 Carl 的一句自我总结，三个短小节拍。不（I don't）→ 不用（I needn't）→ 不（I don't）——否定重复三次，却以反问收尾，把心虚直接变成自豪。这是 Carl 整个人物的缩影：他用**服务者的骄傲**来掩盖**管理者的无知**（他连下一站是哪里都不知道）。而他问的其实是 Sasha——一个真正懂船的员工。这正是本书的核心张力：一个把"人"看得最重的管理者，对"事"一无所知。
+**为什么这样写**：全章 Carl 的一句自我总结，三个短小节拍。不（I don't need to know）→ 有（I have the best staff）→ 不（don't I?）——**两次否定夹一个反问**，否定与自夸撞在一起，把心虚直接变成自豪。这是 Carl 整个人物的缩影：他用**服务者的骄傲**来掩盖**管理者的无知**（他连下一站是哪里都不知道）。而他问的其实是 Sasha——一个真正懂船的员工。这正是本书的核心张力：一个把"人"看得最重的管理者，对"事"一无所知。
 
 **读者视角提示**：留意紧接着的 "Ahh, you slick talker."——Sasha 早就看穿他。Carl 的魅力和他的空洞是同一件事。
 
@@ -76,11 +76,11 @@ modified: "2026-09-25"
 
 > **原句 6:** "a sort of lunar eclipse, gone in the same moment it appeared"
 
-**中文理解**：像是日全食那样的一道阴影——出现与消失，是同一瞬间。
+**中文理解**：像是月食那样的一道阴影——出现与消失，是同一瞬间。
 
 **关键词**：lunar eclipse / a sort of / gone in the same moment
 
-**为什么这样写**：Sasha 报出"Daramulum"（下一站）时的反应，用一个天象比喻。前一句先写"A shadow of something passed over her face"（某种东西的阴影掠过她的脸），紧接这一句用 eclipse（日全食）给它一个具体形状：不是"她脸色一沉"，而是有一片**日食般的黑暗**划过。作者不写内容，只写形状（eclipse）与速度（同一瞬间出现又消失），让"她知道什么"这个问题悬在半空。
+**为什么这样写**：Sasha 报出"Daramulum"（下一站）时的反应，用一个天象比喻。前一句先写"A shadow of something passed over her face"（某种东西的阴影掠过她的脸），紧接这一句用 eclipse（月食）给它一个具体形状：不是"她脸色一沉"，而是有一片**日食般的黑暗**划过。作者不写内容，只写形状（eclipse）与速度（同一瞬间出现又消失），让"她知道什么"这个问题悬在半空。
 
 **读者视角提示**：全书只在极少数地方暗示 Sasha 知道航程真相。这道"日食"是其中之一，且紧接在她甩了 Carl 一巴掌之前——愤怒与阴影，同一秒。
 
@@ -109,7 +109,7 @@ modified: "2026-09-25"
 | unstable | adj. 不稳定的；情绪不稳的 | The man is unstable. We ought to do a proper search. |
 | caveman | n. 穴居人 | when caveman first struck caveman, and the blood of the first wound was spilled |
 | spawn | n./v. 繁殖；后代 | Friends turn upon friends, spawners upon the spawn |
-| eclipse | n./v.（日）食；掩蔽 | a sort of lunar eclipse, gone in the same moment it appeared |
+| eclipse | n./v.（日／月）食；掩蔽 | a sort of lunar eclipse, gone in the same moment it appeared |
 
 ### ⭐⭐ 进阶
 
