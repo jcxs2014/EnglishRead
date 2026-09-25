@@ -41,6 +41,23 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 11:24 UTC] [Opencode-Mac] → All
+
+**《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇；独立五步审查整改完成**
+
+- 范围：`notes/books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/`；ch01–ch26（含 Chapter 7–10 续篇、ch24–25 Epilogue、Resources）+ 三篇总览，共 29 个 md；`text/` 与 `source_text` 一一对应。
+- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af` → `1db35122` → `e8c9c844`（整改）→ `5aca8809`（记录）。
+- 整改类别：引语完整性与分析同步；语法/时序/说话人/人物事实；词汇例句逐字与句界；字符数与 Epilogue 章节标签。
+- **a｜门禁重跑**：`verify_quotes 293/293`（正文 `257/257`，3 条短引语人工回源）；`check_vocab 908` 行 `FAIL 0 / WARN 0`；`check_entities 0`。
+- **b｜逐章归属**：`check_chapter_quotes 257/257`，零跨章搬句。
+- **c｜结构扫描**：26 章 / 260 块；编号、五子项、孤儿块、重复块、关键词锚定、H1/source_text 均 0 问题；`check_crossref 0 对 / 报警 0`。
+- **d｜语义二审**：主会话复核 260/260 块，三批只读回源覆盖 ch01–09、ch10–18、ch19–26；已修复引语截断、分析错位、说话人/时序、概述事实、词汇例句及字符数等问题，整改 commit `e8c9c844`。
+- **e｜总览核对**：`verify_overview_quotes 51/51`；金句 `30/30`、情感节点 `21/21`；概述行内英文全量命中，H1 `3/3`；`audit_book` text/EPUB `26/26`。
+- 最终状态：目标目录与记录条目干净；协作板、工作日志均各保留一个本书条目；未 push。详细逐行原始门禁输出已保留在前一版记录 commit `5aca8809`。
+- 已知局限：同会话审查仍可能存在全书统一口径的系统性误判；已用三批独立只读回源、全文整串、逐章归属、章节标签和人物事实多路径交叉复核。
+
+---
+
 ### [2026-09-25 11:20 UTC] [Qoder-Mac] → All
 
 **《Why We Sleep》by Matthew Walker 全书精读完工**
@@ -76,47 +93,6 @@
 - 提交：`23c51786`（五步审查整改）。
 - 状态：独立五步审查已完成并整改；同会话审查的已知局限：语义层仍可能存在全书统一系统性误判，建议必要时由另一实例抽样复核。
 
-
----
-
-### [2026-09-25 11:24 UTC] [Opencode-Mac] → All
-
-**《What Happened to You?》非虚构论述 26 个正文单元 + 总览三篇；独立五步审查整改完成**
-
-- 范围：`notes/books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/`；ch01–ch26（含 Chapter 7–10 续篇、ch24–25 Epilogue、Resources）+ 三篇总览，共 29 个 md；`text/` 与 `source_text` 一一对应。
-- 提交链（均未 push）：`c4d70b36` → `c5edfb1b` → `9ab7c6f8` → `90c1ed1d` → `95b7a45a` → `073671f7` → `e1543b58` → `526fa05c` → `fc8288f5` → `69b2b7af` → `1db35122` → `e8c9c844`（整改）→ `5aca8809`（记录）。
-- 整改类别：引语完整性与分析同步；语法/时序/说话人/人物事实；词汇例句逐字与句界；字符数与 Epilogue 章节标签。
-- **a｜门禁重跑**：`verify_quotes 293/293`（正文 `257/257`，3 条短引语人工回源）；`check_vocab 908` 行 `FAIL 0 / WARN 0`；`check_entities 0`。
-- **b｜逐章归属**：`check_chapter_quotes 257/257`，零跨章搬句。
-- **c｜结构扫描**：26 章 / 260 块；编号、五子项、孤儿块、重复块、关键词锚定、H1/source_text 均 0 问题；`check_crossref 0 对 / 报警 0`。
-- **d｜语义二审**：主会话复核 260/260 块，三批只读回源覆盖 ch01–09、ch10–18、ch19–26；已修复引语截断、分析错位、说话人/时序、概述事实、词汇例句及字符数等问题，整改 commit `e8c9c844`。
-- **e｜总览核对**：`verify_overview_quotes 51/51`；金句 `30/30`、情感节点 `21/21`；概述行内英文全量命中，H1 `3/3`；`audit_book` text/EPUB `26/26`。
-- 最终状态：目标目录与记录条目干净；协作板、工作日志均各保留一个本书条目；未 push。详细逐行原始门禁输出已保留在前一版记录 commit `5aca8809`。
-- 已知局限：同会话审查仍可能存在全书统一口径的系统性误判；已用三批独立只读回源、全文整串、逐章归属、章节标签和人物事实多路径交叉复核。
-
----
-
-### [2026-09-25 03:01 UTC] [ZCode-Mac] → All
-
-**《Living on Paper: Letters from Iris Murdoch 1934–1995》书信集全书精读完工 + 独立五步审查通过**
-
-- 目录：`notes/books/non-fiction/living-on-paper-by-iris-murdoch/`；书信集（非虚构），**书信适配·选择性精读格式**（用户拍板）：21 正单元（ch01 编者导言 + ch02–ch21 按年份段覆盖 8 Part / 759 封信）+ 总览三篇 = 24 md；md chNN 与 text 1:1 零偏移，frontmatter 均写 source_text。
-- 提交链（10 commits，均未 push）：ch01 试产 `4c589364` → 批1–批7 → 总览三篇 `3e11387e` → ch12 子项修复 `c6aa6e94`。
-- 提取要点：epub 导航错标 Part Four/Six 为 "Plate 1/2"（实为正文）已按内容修正；书专用拆分器（HTML 斜体导语锚点 + 年份段打包，attic 不入库）产出 21 单元；epub 源缺陷备案——20+ 处信尾署名 "Iris" 被分页劈成孤立 "I"，精读未引用残句。
-- 门禁终态：verify_quotes **209/209**（21/21 干净；1 条短引语 19 flat 字符人工 grep 兜底）· check_vocab **471 词条 FAIL0/WARN0** · check_entities **0** · check_chapter_quotes **209/209** 归属全对 · 总览自备 flat 脚本 **52 条引语 BOOK-MISS 0** + 金句 28/节点 15 章节标签对账 0 mismatch · 五子项 21 文件满配 · H1 校验 3/3。
-- 过程坑已入 daily 日志：脚注号粘连引语中段 9 例（省略号规避）、check_vocab 基础档 ≥9 字符启发式 7 词、内联 Gate 拦截一次跨章例句污染、verify_overview_quotes 对 bullet 格式提取 0 条由自备脚本兜底、audit_book C 节本书格式已知误报。
-- 状态：工作树干净。
-- **独立五步审查已完成（2026-09-25 00:35 UTC 前后，用户同会话发起，a–e 完整执行）**：
-  - a 三件套重跑：verify 209/209（21/21 干净；短引语 "Our liberty is fragile" 19 flat 人工 grep 命中 ch19）· vocab 471 词条 FAIL0/WARN0 · entities 0；
-  - b 逐章归属：check_chapter_quotes 209/209 全部命中本章；
-  - c 结构扫描（行首引语块新口径）：210 块编号连续/单引语行/零重复块/零孤儿块/五子项齐全且顺序正常；check_crossref 0 对报警 0；
-  - d 语义二审：主会话**整行连续 sweep** 210 块抓出 3 处 52 字符指纹盲区（ch06 Ideen44 / ch10 novel21 脚注粘连、ch14 两个 However 句中段 4 句无声省略）+ 1 处无支撑月份断言（郭尼埃"1976 年 10 月"→原文仅 died in 1976），均已修（f0ffe28d）；三路子代理逐对核对 210 块（附 3 个本库失败案例+防幻觉条款），确认 30 处分析层缺陷全修复（206b1152）：时序断言 9（"一个月前"→5个月、"两年后"→9年、"下一封信"→同信上一段、"十四个月"→约两年、"五个月"→数日/一年、查泰莱"三年后"→判决在前等）、对象错置 3（邓颖超→邓小平、德里达 mystagogue"同信"→致 Dunbar 信、ch19 ③"同上信"→1988-05 信）、方向反置 2（UGC 废立、ch14 复联主动方）、混信污染 2（ch18 伊斯兰句出自 1979 信、ch21 遗孀→鳏夫利维）、人名/年份 5（Mary Levey→Michael、1943→1944、1987→1970、53岁→51岁、布鲁塞尔）+ 译误 1（outgrown"长出了"→"长过了"）等；假阳性裁决 2 条（"露西"=Sister Marian 俗名 Lucy Klatschko 不改；"31 年"以 1944-06 处决年计正确不改）；
-  - e 总览核对：自备 flat 脚本 52 条引语 BOOK-MISS 0 + 金句 28/节点 15 章节标签对账 0 mismatch（修复后复跑同绿）；金句①②说话人 ±200 字符窗口核验正确；概述行内引语全命中；
-  - 整改后全门禁复跑：verify 209/209 · vocab F0W0 · entities 0 · chapter_quotes 209/209 · sweep 210/210 · crossref 0 · 总览 52/52 · 结构 210 块 0 问题。
-- 提交链补：审查整改 3 commits（f0ffe28d / 206b1152 / 本条目更新），本书共 13 commits 未 push。
-- 同会话审查已知局限：全书统一口径的系统性误判（如对默多克信件语气的统一理解偏差）同一模型无法自查；语义二审子代理与前批同源，建议如需更强独立性另派异实例复核。
-- **五步审查：已完成（用户同会话发起）**。
-
 ---
 
 ### [2026-09-25 10:31 UTC] [Opencode-Mac] → All
@@ -145,6 +121,42 @@
 
 ---
 
+### [2026-09-25 08:20 UTC] [Hermes-Mac] → All
+
+**《Everything Is Fcked》by Mark Manson 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/non-fiction/everything-is-fcked-by-mark-manson/`；9 个正文单元 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 12 个 md。
+- 五步审查已完成：a 门禁重跑；b ch01–ch09 逐章归属；c 118 块结构／五项子项／编号／重复扫描；d 全串 exactness 与 118 块引语—分析核对；e 总览引语、章节标签、英文片段和事实表述核对。
+- 最终门禁：anchoring `118/118` 问题 0 · verify_quotes `169/169` · check_vocab `274` 行 `FAIL 0 / WARN 11`（11 条均为基础档超纲词启发式，逐条确认词条与例句均命中当章原文）· check_entities `0` · chapter_quotes 逐章合计 `118/118` · overview_quotes `51/51` · short_quotes `0` · crossref `0 对/报警 0`。
+- 结构与总览：9 章均 5 个主要段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确；总览章节标签对账 `0` 错；全串词汇例句 `249/249` 命中，章节引语全串 `118/118` 命中，字符数 9/9 对账通过。
+- 修复：补全 ch01/ch06 截短引文及分析；修正 ch02/ch04 句法分析；替换 7 条不合格例句与多处错误词形；修正 ch03–ch09 重复词汇、ch06–ch09 字符数；补概述章节路线并修正金句第 1 条呼应。
+- 状态：整改已提交；本轮目标书 11 个 Markdown 改动已在 `9a48a8a6`，本记录已提交；EPUB/text/_chapters.json 与其他书文件未触碰；未 push。
+
+---
+
+### [2026-09-25 03:01 UTC] [ZCode-Mac] → All
+
+**《Living on Paper: Letters from Iris Murdoch 1934–1995》书信集全书精读完工 + 独立五步审查通过**
+
+- 目录：`notes/books/non-fiction/living-on-paper-by-iris-murdoch/`；书信集（非虚构），**书信适配·选择性精读格式**（用户拍板）：21 正单元（ch01 编者导言 + ch02–ch21 按年份段覆盖 8 Part / 759 封信）+ 总览三篇 = 24 md；md chNN 与 text 1:1 零偏移，frontmatter 均写 source_text。
+- 提交链（10 commits，均未 push）：ch01 试产 `4c589364` → 批1–批7 → 总览三篇 `3e11387e` → ch12 子项修复 `c6aa6e94`。
+- 提取要点：epub 导航错标 Part Four/Six 为 "Plate 1/2"（实为正文）已按内容修正；书专用拆分器（HTML 斜体导语锚点 + 年份段打包，attic 不入库）产出 21 单元；epub 源缺陷备案——20+ 处信尾署名 "Iris" 被分页劈成孤立 "I"，精读未引用残句。
+- 门禁终态：verify_quotes **209/209**（21/21 干净；1 条短引语 19 flat 字符人工 grep 兜底）· check_vocab **471 词条 FAIL0/WARN0** · check_entities **0** · check_chapter_quotes **209/209** 归属全对 · 总览自备 flat 脚本 **52 条引语 BOOK-MISS 0** + 金句 28/节点 15 章节标签对账 0 mismatch · 五子项 21 文件满配 · H1 校验 3/3。
+- 过程坑已入 daily 日志：脚注号粘连引语中段 9 例（省略号规避）、check_vocab 基础档 ≥9 字符启发式 7 词、内联 Gate 拦截一次跨章例句污染、verify_overview_quotes 对 bullet 格式提取 0 条由自备脚本兜底、audit_book C 节本书格式已知误报。
+- 状态：工作树干净。
+- **独立五步审查已完成（2026-09-25 00:35 UTC 前后，用户同会话发起，a–e 完整执行）**：
+  - a 三件套重跑：verify 209/209（21/21 干净；短引语 "Our liberty is fragile" 19 flat 人工 grep 命中 ch19）· vocab 471 词条 FAIL0/WARN0 · entities 0；
+  - b 逐章归属：check_chapter_quotes 209/209 全部命中本章；
+  - c 结构扫描（行首引语块新口径）：210 块编号连续/单引语行/零重复块/零孤儿块/五子项齐全且顺序正常；check_crossref 0 对报警 0；
+  - d 语义二审：主会话**整行连续 sweep** 210 块抓出 3 处 52 字符指纹盲区（ch06 Ideen44 / ch10 novel21 脚注粘连、ch14 两个 However 句中段 4 句无声省略）+ 1 处无支撑月份断言（郭尼埃"1976 年 10 月"→原文仅 died in 1976），均已修（f0ffe28d）；三路子代理逐对核对 210 块（附 3 个本库失败案例+防幻觉条款），确认 30 处分析层缺陷全修复（206b1152）：时序断言 9（"一个月前"→5个月、"两年后"→9年、"下一封信"→同信上一段、"十四个月"→约两年、"五个月"→数日/一年、查泰莱"三年后"→判决在前等）、对象错置 3（邓颖超→邓小平、德里达 mystagogue"同信"→致 Dunbar 信、ch19 ③"同上信"→1988-05 信）、方向反置 2（UGC 废立、ch14 复联主动方）、混信污染 2（ch18 伊斯兰句出自 1979 信、ch21 遗孀→鳏夫利维）、人名/年份 5（Mary Levey→Michael、1943→1944、1987→1970、53岁→51岁、布鲁塞尔）+ 译误 1（outgrown"长出了"→"长过了"）等；假阳性裁决 2 条（"露西"=Sister Marian 俗名 Lucy Klatschko 不改；"31 年"以 1944-06 处决年计正确不改）；
+  - e 总览核对：自备 flat 脚本 52 条引语 BOOK-MISS 0 + 金句 28/节点 15 章节标签对账 0 mismatch（修复后复跑同绿）；金句①②说话人 ±200 字符窗口核验正确；概述行内引语全命中；
+  - 整改后全门禁复跑：verify 209/209 · vocab F0W0 · entities 0 · chapter_quotes 209/209 · sweep 210/210 · crossref 0 · 总览 52/52 · 结构 210 块 0 问题。
+- 提交链补：审查整改 3 commits（f0ffe28d / 206b1152 / 本条目更新），本书共 13 commits 未 push。
+- 同会话审查已知局限：全书统一口径的系统性误判（如对默多克信件语气的统一理解偏差）同一模型无法自查；语义二审子代理与前批同源，建议如需更强独立性另派异实例复核。
+- **五步审查：已完成（用户同会话发起）**。
+
+---
+
 ### [2026-09-25 01:25 UTC] [Opencode-Mac] → All
 
 **《HBR Women at Work》119 章节精读完工 + 独立五步审查整改完成**
@@ -159,6 +171,22 @@
 - 最终门禁：连续 text/EPUB 扫描 0 mismatch；关键词 0；`check_crossref` 0；`audit_book.py` 通过；工作树干净。
 - 状态：五步审查已完成；**未 push**。
 - 已知局限：本次为同会话主会话审查，虽有独立只读子代理复核，仍可能存在全书统一口径造成的系统性误判。
+
+---
+
+### [2026-09-25 00:15 UTC] [Qoder-Mac] → All
+
+**《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工 + 独立五步审查完成**
+
+- 目录：`notes/books/non-fiction/red-memory-by-tania-branigan/`；13 个正式阅读单元（Author’s Note、Prologue、One–Eleven）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 16 个 md；md ch01–13 通过 `source_text` 映射到 text ch02–ch14，书名页/Sources/Permissions 未建精读文件。
+- 原始提交链：`1e21c2f1` → `9b03bbdb` → `bfbf5c3a` → `7048e79e` → `6c43df9e` → `6e38d5a3`；五步整改：`367a689a`。均未 push。
+- **a｜核心门禁重跑**：`verify_quotes 177/177`（16/16 文件，1 条短引语人工 grep 命中 ch10_seven）· `check_vocab 499` 行 `FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 129/129` · `verify_overview_quotes 48/48` · `check_crossref 0 对/报警 0`。
+- **b｜逐章归属**：整行 flat sweep 129/129 命中本章，跨章重叠 0；确认 13 个 `source_text` 映射和 cliffhanger 边界。
+- **c｜结构扫描**：13 章各 10 个引语块，编号连续、五子项齐全、零孤儿/重复；金句 25 条、节点 18 条引语、概述 5 条关键原文；H1 3/3。
+- **d｜语义二审**：四个互不重叠只读批次 + 修复后二次只读复核，逐块回源修正人物姓名、说话人、引语截取、时态句法、章节范围、关键词例句与分析越界；整改 commit `367a689a`。
+- **e｜总览事实**：概述/金句/节点逐字引文 `48/48`，章节标签对账 `48/48`；总览行内英文 MISS 0；核心实体跨书污染 0（外部 `Dr Meng` 命中为另一书 `Dr Mengele` 子串）。
+- `audit_book.py`：A 库存、B 引文、D 词汇/实体通过；C 节仅因把 00 总览按正文章节格式检查而报已知误报，未据此改动。
+- 状态：目标目录 tracked=16、审查后无未提交目标文件；**五步审查已完成**；未 push。同会话审查仍不能完全排除全书统一口径的系统性误判。
 
 ---
 
@@ -178,35 +206,6 @@
 
 ---
 
-### [2026-09-25 00:15 UTC] [Qoder-Mac] → All
-
-**《Red Memory: The Afterlives of China’s Cultural Revolution》by Tania Branigan 全书精读完工 + 独立五步审查完成**
-
-- 目录：`notes/books/non-fiction/red-memory-by-tania-branigan/`；13 个正式阅读单元（Author’s Note、Prologue、One–Eleven）+ `00 概述.md`、`00 金句精选.md`、`00 情感节点.md`，共 16 个 md；md ch01–13 通过 `source_text` 映射到 text ch02–ch14，书名页/Sources/Permissions 未建精读文件。
-- 原始提交链：`1e21c2f1` → `9b03bbdb` → `bfbf5c3a` → `7048e79e` → `6c43df9e` → `6e38d5a3`；五步整改：`367a689a`。均未 push。
-- **a｜核心门禁重跑**：`verify_quotes 177/177`（16/16 文件，1 条短引语人工 grep 命中 ch10_seven）· `check_vocab 499` 行 `FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 129/129` · `verify_overview_quotes 48/48` · `check_crossref 0 对/报警 0`。
-- **b｜逐章归属**：整行 flat sweep 129/129 命中本章，跨章重叠 0；确认 13 个 `source_text` 映射和 cliffhanger 边界。
-- **c｜结构扫描**：13 章各 10 个引语块，编号连续、五子项齐全、零孤儿/重复；金句 25 条、节点 18 条引语、概述 5 条关键原文；H1 3/3。
-- **d｜语义二审**：四个互不重叠只读批次 + 修复后二次只读复核，逐块回源修正人物姓名、说话人、引语截取、时态句法、章节范围、关键词例句与分析越界；整改 commit `367a689a`。
-- **e｜总览事实**：概述/金句/节点逐字引文 `48/48`，章节标签对账 `48/48`；总览行内英文 MISS 0；核心实体跨书污染 0（外部 `Dr Meng` 命中为另一书 `Dr Mengele` 子串）。
-- `audit_book.py`：A 库存、B 引文、D 词汇/实体通过；C 节仅因把 00 总览按正文章节格式检查而报已知误报，未据此改动。
-- 状态：目标目录 tracked=16、审查后无未提交目标文件；**五步审查已完成**；未 push。同会话审查仍不能完全排除全书统一口径的系统性误判。
-
----
-### [2026-09-25 08:20 UTC] [Hermes-Mac] → All
-
-**《Everything Is Fcked》by Mark Manson 全书精读 + 独立五步审查完成**
-
-- 目录：`notes/books/non-fiction/everything-is-fcked-by-mark-manson/`；9 个正文单元 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`，共 12 个 md。
-- 五步审查已完成：a 门禁重跑；b ch01–ch09 逐章归属；c 118 块结构／五项子项／编号／重复扫描；d 全串 exactness 与 118 块引语—分析核对；e 总览引语、章节标签、英文片段和事实表述核对。
-- 最终门禁：anchoring `118/118` 问题 0 · verify_quotes `169/169` · check_vocab `274` 行 `FAIL 0 / WARN 11`（11 条均为基础档超纲词启发式，逐条确认词条与例句均命中当章原文）· check_entities `0` · chapter_quotes 逐章合计 `118/118` · overview_quotes `51/51` · short_quotes `0` · crossref `0 对/报警 0`。
-- 结构与总览：9 章均 5 个主要段；金句 30 条、情感节点 20 条、概述 1 条；三篇 H1 正确；总览章节标签对账 `0` 错；全串词汇例句 `249/249` 命中，章节引语全串 `118/118` 命中，字符数 9/9 对账通过。
-- 修复：补全 ch01/ch06 截短引文及分析；修正 ch02/ch04 句法分析；替换 7 条不合格例句与多处错误词形；修正 ch03–ch09 重复词汇、ch06–ch09 字符数；补概述章节路线并修正金句第 1 条呼应。
-- 状态：整改已提交；本轮目标书 11 个 Markdown 改动已在 `9a48a8a6`，本记录已提交；EPUB/text/_chapters.json 与其他书文件未触碰；未 push。
-
----
-
-
 ### [2026-09-24 22:37 UTC] [Qoder-Mac] → All
 
 **《Pax Economica》by Marc-William Palen 全书精读 + 独立五步审查完成**
@@ -221,88 +220,6 @@
 - e｜总览层：概述 8、金句 25、节点 20 条引文与章节标签逐条对账；修复 WILPF 内部裂解范围化、Pax Economica 回归被写成唯一必要条件、金句㉕双向因果回扣过强 3 项；跨书污染 0。
 - 审查后终验：verify `123/123` · vocab FAIL0/WARN0 · entities 0 · chapter `70/70` · overview `53/53` · crossref 0 · 全串/关键词/结构/H1 errors 0。`audit_book.py` C 节仅对总览套用正文章节格式，属已知误报。
 - 状态：目标书 tracked=10，目录无未提交文件；未 push。同会话审查已用独立代理 + 不同检查路径双轨执行，但无法完全排除全书统一口径的系统性误判。
-
----
-
-### [2026-09-24 21:02 UTC] [Hermes-Mac] → All
-
-**《The Picture of Dorian Gray》by Oscar Wilde 全书精读 + 独立五步审查完成**
-
-- 目录：`notes/books/novels/the-picture-of-dorian-gray-by-oscar-wilde/`；20 个正文章节 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`。
-- 五步审查 a–e 已完成：门禁重跑、20 章逐章归属、结构/重复块/总览 H1 扫描、主会话逐块语义二审、总览事实与章节标签核对；修复 James 追猎动机、狩猎误杀、画像揭示时序、Basil 死亡、ch04/ch05/ch11/ch14/ch16/ch18/ch19/ch20 分析及总览叙述。
-- 最终门禁：verify_quotes `194/194`（23/23）· check_vocab `405` 条 FAIL0/WARN0 · entities `0` · chapter_quotes `142/142`（20/20）· overview_quotes `52/52` · overview_bullets `56/56` · crossref `0 对/报警 0` · anchoring `142 块/问题 0`。
-- 结构扫描：20/20 章节均含导航、精读、词汇、总结；142 块编号连续、四子项齐全、重复引语 0；三篇总览 H1 正确；概述 52 条编号引语章节标签核对 `0` 问题。
-- 语义修复重点：James 偶然听到 Prince Charming 后追到 Dorian，因 Dorian 仍像少年放手；Dorian 阻止射兔，Sir Geoffrey 误射猎场人员后才认出 James；ch09 阻止 Basil 看画、ch13 才揭示；Dorian 要求不再借出《The Yellow Book》，不是烧书。
-- 状态：目标书 13 个审查修复文件已精确暂存并提交（`334d7121`）；协作记录与工作日志原位更新；**未 push**。同会话审查局限已记录，无法完全排除统一口径的系统性误判。
-
----
-### [2026-09-24 21:26 UTC] [ZCode-Mac] → All
-
-**《Becoming》by Michelle Obama 全书精读完工 + 独立五步审查通过**（就地更新 20:00 条目）
-
-- 目录：`notes/books/non-fiction/becoming-by-michelle-obama/`；回忆录，非虚构·叙事适配格式（Solnit 先例），26 个叙事单元（Preface + 24 章 + Epilogue）+ 总览三篇 = 29 个 md。md ch01-17 与 text 1:1；照片插页剔除后 **md ch18-26 = text ch(N+1) 偏移，frontmatter 均写 source_text**。
-- 四件套原始结果（审查后复跑）：verify_quotes `325/325`（27/27 文件干净；1 条 <20 字符短引语人工 grep 命中本章）· check_vocab `1731` 词条 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `306/306` · check_crossref `0 对/报警 0`。
-- 总览门禁：verify_overview_quotes 对本格式提取 0 条（行内引语不在口径），自备 flat 脚本逐条比对：99 条英文引语 BOOK-MISS=0；金句 28/28 章节归属对账通过；呼应字段 30+ 处 chNN 交叉引用逐条对账 0 错章；总览 H1 语义校验 3/3。
-- **五步审查（用户发起，同会话执行）**：a 三件套重跑全绿（原始输出见上）· b 逐章 306/306 + 跨章溢出扫描 0 · c 结构扫描（编号连续/五子项/零孤儿零重复）errors 0 + H1 3/3 + 关键词锚定 1055 词违规 0（1 处 took/taken 不规则动词为检查器假阳性）· d 语义二审：批次 A 子代理（70 块，报 10 处）+ 主会话批次 B/C/D 自审（196 块）——引语层零缺陷，分析层抓 24 处并全部整改 · e 总览层：说话人窗口核验 11 条对话引语归属全对 + 章节标签对账 0 mismatch。
-- **d 步整改清单（24 处，commit `e5664856`）**：分析层虚构断言 1（ch11 "五个五十年" 无原文支撑，删）、无锚定英文引用 2（ch07 Acceleration/"everything I thought..."）、数字断言 1（ch15 crime bill 一票之差→五票之差）、实体笔误 1（ch08 Harley→Sidley）、章节回指错位 9（ch20 princess 第16→17章×2、ch07 诀别第9→10章、ch06 shooting 第2章→序言、ch07 rooms/地下室回指、ch26 painted-on ch19→18、ch07 主语从句→表语、ch07 形式宾语→let+宾补、ch02 ⑧ 改引语留旧分析句法残留）、语法计数 3（ch01 四个→三个 I wanted、ch02 定语从句范围、ch04 钳工→炼钢工人）、关键词锚定 3（bolster/do-over/toward 换为引语内实词）、总览呼应 chNN 错章 16（系统性 md 码/书内章号混用，含 ch25→ch26、ch08→ch23、ch14 copper pot 等）。
-- 提交链：ch01 试产 `eeb2e272` → 批1 `01639914` → 批2 `c5ea326f` → 批3 `b5326dd3` → 批4 `75c7df2a` → 批5 `05fe5607` → 批6 `c2b4815a` → 批7 `7e83f494` → 批8 `a6d90271` → 批9 `ce3f7824` → 协作/日志 `612c9c2d` → **审查整改 `e5664856`**。12 commits 未 push。
-- 审查局限：同会话审查（批次 A 为独立子代理、B/C/D 为写作会话主审自查，d 步引语↔分析逐对核对已全量完成），不能完全排除全书统一口径的系统性误判。
-- 状态：工作树干净；**五步审查已完成并通过**，未 push。详细过程见 `.memory/daily/2026-09-24.md` 本书条目（同一条目就地更新）。
-
-### [2026-09-24 19:36 UTC] [Qoder-Mac] → All
-
-**《Down Girl: The Logic of Misogyny》by Kate Manne 全书精读完工**
-
-- 目录：`notes/books/non-fiction/down-girl-by-kate-manne/`；非虚构论述，**12 个阅读单元**（epigraph 题词页 + Preface + Introduction + 8 章 + Conclusion）+ 总览三篇 = **15 个 md**；`text/` 12 件，ch01–ch12 与 md 1:1 零偏移。
-- 结构校正：通用 `extract_chapters.py` 提取 12 件，但①把 998 字符的引言页（Swetnam 1615/1618 +《Gaslight》1938）编为 ch01；②各件文件名后缀取自**小节名**而非标题（`ch03_regrets.txt` 实为 Introduction、`ch07_looking_ahead.txt` 实为 Chapter 4）——已按 TOC 精确重命名为真实标题。**用户拍板**：引言页作为 ch01 独立单元。
-- 提交链（12 commits）：`0f0adb5`（ch01 试产）→ `5fe6a372`（批1 ch02–03）→ `a34ee13d`（ch04）→ `c7ab970f`（批2 ch05–06）→ `e3cd24e8`（ch07）→ `e62adf54`（ch08）→ `e8cdc8d8`（ch09）→ `be79a96d`（补提交 ch01–03 门禁修复）→ `96dbc010`（ch10）→ `cf41060e`（ch11）→ `6f25aeab`（ch12 正文完工）→ `c93b8237`（总览三篇）。**均未 push。**
-- 门禁终验：正文 `verify_quotes 294/294`（14/14 文件干净，含总览 32 条）· `check_vocab 517 行 FAIL0/WARN0` · `check_entities 0 未知实体` · 逐章 `check_chapter_quotes 262/262` 命中本章 text · `verify_overview_quotes 32/32`（概述 7 + 金句 25）。ch08 另有 2 条 <20 字符短引语人工 grep 兜底命中本章。
-- **新增词汇双向校验器** `scripts/attic/check_vocab_bothways.py`（attic 不入 git）：`check_vocab.py` 只检词频，漏「词头在原文但例句改写」与「例句截短/跨章」两类缺陷。首次运行即扫出 ch01–03 的 7 处真实缺陷（`choke`/`obviate`/`stipulated`/`alleged` 四处词形不匹配、`prescriptive` 与 `epistemically` 两处例句省略号中段缺失），当时只修文件未提交，后由 `be79a96d` 补齐。全书最终 0 缺陷。
-- 各章初稿均先经此双向校验再入库，据此累计拦截 **120+ 处 A 类虚构词与跨章例句**（多为承前章词表误粘）；ch11 另清理 3 条"see 原句 X"占位式重复引语与 8 处被污染的关键词行。
-- 总览三篇：概述（梗概 6 段 + 三大主题 + 三类主体轨迹 + 7 处关键原文）、金句精选（25 句，ch01 题词至 ch12 诗学正义）、情感节点（14 个论证转折节点 × 2 处逐字引文）。情感节点因 `> **原句：**` 格式为工具盲区（抽 0 条），28 条引语已逐条整串 flat 比对 + 章节标签对账，problems 0；三篇正文行内英文短语 0 缺失（修正 `misogyny's substance`、`puzzle of misogyny` 两处非逐字表述）；三篇 H1 与文件语义一致。
-- 状态：未 push；**独立五步审查已完成（见下方记录）**。
-
-**独立五步审查记录（用户 2026-09-24 本会话主动发起，a–e 完整执行，修复 3 commit：`89d7a8d3` / `adff15e4` / `ccc5a12f`）**
-
-- **a｜三件套重跑**（不采信完工报告任何旧数字）：`verify_quotes 294/294`（14/14 文件干净）· `check_vocab 517 行 FAIL0/WARN0` · `check_entities 0 未知实体`。
-- **b｜逐章归属**：12 章全跑 `check_chapter_quotes`，合计 **262/262** 命中本章 text，零跨章搬句；ch08 2 条 <20 字符短引语人工 grep 兜底命中。
-- **c｜结构扫描**（行首 `> **原句 N:**` 口径，换路径自建 `scripts/attic/review_down_girl.py`）：编号连续、五子项齐全且顺序一致、零孤儿块、零重复块。**抓出 6 处**：ch11 删占位引语后编号断档（重编 32 块）、ch11 四处关键词行格式损坏、ch02 错词 `Prilege`。
-- **d｜语义二审**：三路子代理分批（ch01–04 / ch05–08 / ch09–12）逐对核对引语↔五项分析，每批附**本库真实失败案例**作反例（100G ch86、Room 37% 说话人误归、Golden Boy 幻觉）+ **防幻觉条款**；主会话对每条报警逐条 grep 复核。共修复 **16 处**：
-  - 引语擅改 4 处：ch06 `borne by`→`borne of`、ch08 原句2 漏脚注标记 `men"2`、ch04 原句6 漏 `and to go on to make warranted assertions`（补回并修正结构为"两并列宾语+两并列不定式"）、ch07 `shame faced`→`shame-faced`（7 处）。
-  - 说话人/归属错误 3 处：ch09 原句11 **Brock Turner 误作"特朗普"**、ch09 原句19 误标为"取自 impact statement"、ch09 原句34 误标为"某位支持者的原话"。
-  - 引语与分析不对应 4 处：ch12 原句22 主语歧义（改"一位女性所遭受的厌女"并同步金句）、ch02 原句5 `deemed vulnerable` 擅改+自加"闭环"、ch03 原句15 称"无可争议的正当行为"（原文允许 omissions 是 negligent/healthy humility）、ch04 原句14 "八个亲属称谓"计数错+自加"失职"。
-  - 分析层幻觉 5 处：ch11 "Andrea 照片"（实为履历包姓名对调）、ch01 "lock her up in the attic"（attic 全书查无）、ch05 "repulsive woman"、ch06 "Balkanken"（疑 hallucination）、ch08 "overwhelming compassion"（原文 debilitating）。
-  - 关键词锚定 11 处（AGENTS §9b）：ch03 七处、ch04 一处、ch08 两处替换为引语内真实词；修复后锚定检查 0 真实违规。
-- **e｜总览层**：`verify_overview_quotes 32/32`；情感节点 28 条引语逐条 flat 比对 + 章节标签对账 problems 0；三篇行内英文短语 0 缺失；三篇 H1 语义一致。**跨书污染自检**：13 个核心实体全库检索仅命中本书，无跨书污染。
-- **审查后终验**：verify 294/294 · vocab 517 行 FAIL0/WARN0 · entities 0 · 逐章 262/262 · overview 32/32 · 词汇双向校验 0 缺陷 · 结构与 sweep 0 缺陷。
-- **同会话审查已知局限**：a–e 全部重跑未采信旧数字、逐层换检查路径（自建 `review_down_girl.py` + `check_vocab_bothways.py` + 三路子代理 + 主会话 grep 复核）、d 步双轨完成，但全书统一口径的系统性误判同一模型无法完全自查；如需更强独立性建议另指定异实例复核。
-
----
-### [2026-09-24 21:11 UTC] [ZCode-Mac] → All
-
-**《365 Days with Self-Discipline》by Martin Meadows 全书精读完工**
-
-- 目录：`notes/books/non-fiction/365-days-with-self-discipline-by-martin-meadows/`；**结构特殊（用户拍板）**：365 篇日历式短文按书内 WEEK 分组合并为 52 个周单元，共 54 个精读 md（Prologue + Week 1–52 + Epilogue）+ 总览三篇 = 57 个 md。
-- text/ 重组：372 个 day 原件移入 `text/days/`，另生成 54 个周合并件 `text/chNN.txt`（frontmatter `source_text: chNN` 指向合并件）；已修正 epub 目录 label 错位（ch81 实为 Day 79、ch82 为 Day 80）；39 个无标签小文件确认为尾注来源页（非正文）。
-- 提交链：25 commits（ch01 试产 `45ba6ad9` → 批1–18 → 总览）。
-- 门禁：`verify_quotes 486/486`（3 条 <20 字符短引语人工 grep 兜底命中）· `check_vocab 约1180 词条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 486/486` · `verify_overview_quotes 金句 30/30`（概述/情感节点引语经 flat 脚本人工兜底 0 MISS）· 总览 H1 语义校验通过。
-- **同会话独立五步审查已完成（2026-09-24 20:05 UTC）**：a 三件套重跑（verify 530/530、vocab FAIL0、entities 0）· b 逐章归属 488/488 + 金句 30 条章节标签逐条对账（28 自动 + 2 人工 HIT）· c 结构扫描 540 块（抓 ch12⑨ 关键词子项与句子结构挤同行，已拆分）· d 关键词锚定 2619 词（1 处为脚本词形盲区误报：make→making 合法）+ **整行连续 sweep 489 条**（抓 3 处 52 字符指纹盲区真缺陷：ch38④ 无标拼接、ch43④ 删重复段未标注、ch45⑥ 擅加 it——均按省略号截断规范或原文逐字重写并同步分析；ch49④/ch53⑤ 为合法省略截断，人工裁决放行）· e 总览层：情感节点 20 段引语 vs epub 0 MISS、标注抽验 3/3、概述短术语人工 grep 全 HIT。整改 commit 后复跑全门禁：verify 530/530 · vocab 0/0 · entities 0 · chapter_quotes 488/488 · overview 30/30 · ch38/43/45 逐文件 8/8、7/7、9/9。
-- 状态：未 push；同会话审查局限：全书统一口径的系统性误判无法自查，如需更强独立性建议另指定异实例复核。
-
----
-### [2026-09-24 19:17 UTC] [Opencode-Mac] → All
-
-**《Dark Psychology Secrets》by Daniel James Hollins 全书精读 + 独立五步审查完成**（原位更新）
-
-- 范围：51 个正文单元 + 概述／金句精选／情感节点 3 篇，共 54 个 md；`text/` 51 件。
-- 提交链：原 20 个完工/修复提交 → 审查整改 `c193f7ff` → 复审残留修复 `2f033d17`（ch04–ch51 与总览；ch01–ch03 经审查无高置信缺陷，未改）。
-- a 门禁原始结果：章节 `verify_quotes 475/475`（工具校验）+ 35 条短引语人工 flat `0 MISS`；`check_vocab 763` 行 FAIL0/WARN0；`check_entities 0`；`check_chapter_quotes 475/510`（其余 35 条短引语人工逐条命中本章）。
-- b 逐章归属：显式逐文件 `ch01–ch51` 全部运行，`failed=[]`；全串 interval sweep `0` 重叠。
-- c 结构：51 文件、510 块、编号连续、五子项齐全、无孤儿/重复；关键词锚定 `1500/1500`；总览 H1 语义正确。
-- d 语义二审：7 个只读子代理分段复核 ch01–ch51，确认并修复 ch04–ch06、ch09–ch40、ch41–ch51 的引语/分析错位、跨段截取、重复窗口、模板化和跨章论证污染；重写章节元数据、选句和五项分析，词汇例句改为本章真实片段。
-- 复审残留：再次抽查 22 章 220 块，修复 While/For example/Or/省略疑问的句法误判、完整句误标片段、关键词字段污染与短问句占位词；新增修复 `2f033d17`。
-- e 总览：概述改为按 ch29/ch30 原文区分日常欺骗与科研诚信；金句25条、节点9个改为逐条语境分析；`verify_overview_quotes 43/43`，概述英文片段人工 `MISS=0`，章节标签 `0` mismatch，`check_crossref 0 对/报警0`。
-- `audit_book.py`：md 54、text 51、text/epub `51/51`，C/D 通过。状态：未 push；同会话审查仍可能存在统一口径的系统性误判，已按规则如实标注。
 
 ---
 
@@ -346,6 +263,95 @@
 - 状态：目标书 13 个文件工作树干净；未 push。协作板与工作日志均就地更新本书唯一条目，未新建条目。
 - 已知局限：本次为用户在本会话主动发起的同会话审查，a–e 已完整执行；仍无法完全排除全书统一口径造成的系统性误判，如需更强独立性可另指定异实例复核。
 
+---
+
+### [2026-09-24 21:26 UTC] [ZCode-Mac] → All
+
+**《Becoming》by Michelle Obama 全书精读完工 + 独立五步审查通过**（就地更新 20:00 条目）
+
+- 目录：`notes/books/non-fiction/becoming-by-michelle-obama/`；回忆录，非虚构·叙事适配格式（Solnit 先例），26 个叙事单元（Preface + 24 章 + Epilogue）+ 总览三篇 = 29 个 md。md ch01-17 与 text 1:1；照片插页剔除后 **md ch18-26 = text ch(N+1) 偏移，frontmatter 均写 source_text**。
+- 四件套原始结果（审查后复跑）：verify_quotes `325/325`（27/27 文件干净；1 条 <20 字符短引语人工 grep 命中本章）· check_vocab `1731` 词条 FAIL0/WARN0 · check_entities `0` · check_chapter_quotes `306/306` · check_crossref `0 对/报警 0`。
+- 总览门禁：verify_overview_quotes 对本格式提取 0 条（行内引语不在口径），自备 flat 脚本逐条比对：99 条英文引语 BOOK-MISS=0；金句 28/28 章节归属对账通过；呼应字段 30+ 处 chNN 交叉引用逐条对账 0 错章；总览 H1 语义校验 3/3。
+- **五步审查（用户发起，同会话执行）**：a 三件套重跑全绿（原始输出见上）· b 逐章 306/306 + 跨章溢出扫描 0 · c 结构扫描（编号连续/五子项/零孤儿零重复）errors 0 + H1 3/3 + 关键词锚定 1055 词违规 0（1 处 took/taken 不规则动词为检查器假阳性）· d 语义二审：批次 A 子代理（70 块，报 10 处）+ 主会话批次 B/C/D 自审（196 块）——引语层零缺陷，分析层抓 24 处并全部整改 · e 总览层：说话人窗口核验 11 条对话引语归属全对 + 章节标签对账 0 mismatch。
+- **d 步整改清单（24 处，commit `e5664856`）**：分析层虚构断言 1（ch11 "五个五十年" 无原文支撑，删）、无锚定英文引用 2（ch07 Acceleration/"everything I thought..."）、数字断言 1（ch15 crime bill 一票之差→五票之差）、实体笔误 1（ch08 Harley→Sidley）、章节回指错位 9（ch20 princess 第16→17章×2、ch07 诀别第9→10章、ch06 shooting 第2章→序言、ch07 rooms/地下室回指、ch26 painted-on ch19→18、ch07 主语从句→表语、ch07 形式宾语→let+宾补、ch02 ⑧ 改引语留旧分析句法残留）、语法计数 3（ch01 四个→三个 I wanted、ch02 定语从句范围、ch04 钳工→炼钢工人）、关键词锚定 3（bolster/do-over/toward 换为引语内实词）、总览呼应 chNN 错章 16（系统性 md 码/书内章号混用，含 ch25→ch26、ch08→ch23、ch14 copper pot 等）。
+- 提交链：ch01 试产 `eeb2e272` → 批1 `01639914` → 批2 `c5ea326f` → 批3 `b5326dd3` → 批4 `75c7df2a` → 批5 `05fe5607` → 批6 `c2b4815a` → 批7 `7e83f494` → 批8 `a6d90271` → 批9 `ce3f7824` → 协作/日志 `612c9c2d` → **审查整改 `e5664856`**。12 commits 未 push。
+- 审查局限：同会话审查（批次 A 为独立子代理、B/C/D 为写作会话主审自查，d 步引语↔分析逐对核对已全量完成），不能完全排除全书统一口径的系统性误判。
+- 状态：工作树干净；**五步审查已完成并通过**，未 push。详细过程见 `.memory/daily/2026-09-24.md` 本书条目（同一条目就地更新）。
+
+---
+
+### [2026-09-24 21:11 UTC] [ZCode-Mac] → All
+
+**《365 Days with Self-Discipline》by Martin Meadows 全书精读完工**
+
+- 目录：`notes/books/non-fiction/365-days-with-self-discipline-by-martin-meadows/`；**结构特殊（用户拍板）**：365 篇日历式短文按书内 WEEK 分组合并为 52 个周单元，共 54 个精读 md（Prologue + Week 1–52 + Epilogue）+ 总览三篇 = 57 个 md。
+- text/ 重组：372 个 day 原件移入 `text/days/`，另生成 54 个周合并件 `text/chNN.txt`（frontmatter `source_text: chNN` 指向合并件）；已修正 epub 目录 label 错位（ch81 实为 Day 79、ch82 为 Day 80）；39 个无标签小文件确认为尾注来源页（非正文）。
+- 提交链：25 commits（ch01 试产 `45ba6ad9` → 批1–18 → 总览）。
+- 门禁：`verify_quotes 486/486`（3 条 <20 字符短引语人工 grep 兜底命中）· `check_vocab 约1180 词条 FAIL0/WARN0` · `check_entities 0` · `check_chapter_quotes 486/486` · `verify_overview_quotes 金句 30/30`（概述/情感节点引语经 flat 脚本人工兜底 0 MISS）· 总览 H1 语义校验通过。
+- **同会话独立五步审查已完成（2026-09-24 20:05 UTC）**：a 三件套重跑（verify 530/530、vocab FAIL0、entities 0）· b 逐章归属 488/488 + 金句 30 条章节标签逐条对账（28 自动 + 2 人工 HIT）· c 结构扫描 540 块（抓 ch12⑨ 关键词子项与句子结构挤同行，已拆分）· d 关键词锚定 2619 词（1 处为脚本词形盲区误报：make→making 合法）+ **整行连续 sweep 489 条**（抓 3 处 52 字符指纹盲区真缺陷：ch38④ 无标拼接、ch43④ 删重复段未标注、ch45⑥ 擅加 it——均按省略号截断规范或原文逐字重写并同步分析；ch49④/ch53⑤ 为合法省略截断，人工裁决放行）· e 总览层：情感节点 20 段引语 vs epub 0 MISS、标注抽验 3/3、概述短术语人工 grep 全 HIT。整改 commit 后复跑全门禁：verify 530/530 · vocab 0/0 · entities 0 · chapter_quotes 488/488 · overview 30/30 · ch38/43/45 逐文件 8/8、7/7、9/9。
+- 状态：未 push；同会话审查局限：全书统一口径的系统性误判无法自查，如需更强独立性建议另指定异实例复核。
+
+---
+
+### [2026-09-24 21:02 UTC] [Hermes-Mac] → All
+
+**《The Picture of Dorian Gray》by Oscar Wilde 全书精读 + 独立五步审查完成**
+
+- 目录：`notes/books/novels/the-picture-of-dorian-gray-by-oscar-wilde/`；20 个正文章节 + `00_概述.md`、`00_金句精选.md`、`00_情感节点.md`。
+- 五步审查 a–e 已完成：门禁重跑、20 章逐章归属、结构/重复块/总览 H1 扫描、主会话逐块语义二审、总览事实与章节标签核对；修复 James 追猎动机、狩猎误杀、画像揭示时序、Basil 死亡、ch04/ch05/ch11/ch14/ch16/ch18/ch19/ch20 分析及总览叙述。
+- 最终门禁：verify_quotes `194/194`（23/23）· check_vocab `405` 条 FAIL0/WARN0 · entities `0` · chapter_quotes `142/142`（20/20）· overview_quotes `52/52` · overview_bullets `56/56` · crossref `0 对/报警 0` · anchoring `142 块/问题 0`。
+- 结构扫描：20/20 章节均含导航、精读、词汇、总结；142 块编号连续、四子项齐全、重复引语 0；三篇总览 H1 正确；概述 52 条编号引语章节标签核对 `0` 问题。
+- 语义修复重点：James 偶然听到 Prince Charming 后追到 Dorian，因 Dorian 仍像少年放手；Dorian 阻止射兔，Sir Geoffrey 误射猎场人员后才认出 James；ch09 阻止 Basil 看画、ch13 才揭示；Dorian 要求不再借出《The Yellow Book》，不是烧书。
+- 状态：目标书 13 个审查修复文件已精确暂存并提交（`334d7121`）；协作记录与工作日志原位更新；**未 push**。同会话审查局限已记录，无法完全排除统一口径的系统性误判。
+
+---
+
+### [2026-09-24 19:36 UTC] [Qoder-Mac] → All
+
+**《Down Girl: The Logic of Misogyny》by Kate Manne 全书精读完工**
+
+- 目录：`notes/books/non-fiction/down-girl-by-kate-manne/`；非虚构论述，**12 个阅读单元**（epigraph 题词页 + Preface + Introduction + 8 章 + Conclusion）+ 总览三篇 = **15 个 md**；`text/` 12 件，ch01–ch12 与 md 1:1 零偏移。
+- 结构校正：通用 `extract_chapters.py` 提取 12 件，但①把 998 字符的引言页（Swetnam 1615/1618 +《Gaslight》1938）编为 ch01；②各件文件名后缀取自**小节名**而非标题（`ch03_regrets.txt` 实为 Introduction、`ch07_looking_ahead.txt` 实为 Chapter 4）——已按 TOC 精确重命名为真实标题。**用户拍板**：引言页作为 ch01 独立单元。
+- 提交链（12 commits）：`0f0adb5`（ch01 试产）→ `5fe6a372`（批1 ch02–03）→ `a34ee13d`（ch04）→ `c7ab970f`（批2 ch05–06）→ `e3cd24e8`（ch07）→ `e62adf54`（ch08）→ `e8cdc8d8`（ch09）→ `be79a96d`（补提交 ch01–03 门禁修复）→ `96dbc010`（ch10）→ `cf41060e`（ch11）→ `6f25aeab`（ch12 正文完工）→ `c93b8237`（总览三篇）。**均未 push。**
+- 门禁终验：正文 `verify_quotes 294/294`（14/14 文件干净，含总览 32 条）· `check_vocab 517 行 FAIL0/WARN0` · `check_entities 0 未知实体` · 逐章 `check_chapter_quotes 262/262` 命中本章 text · `verify_overview_quotes 32/32`（概述 7 + 金句 25）。ch08 另有 2 条 <20 字符短引语人工 grep 兜底命中本章。
+- **新增词汇双向校验器** `scripts/attic/check_vocab_bothways.py`（attic 不入 git）：`check_vocab.py` 只检词频，漏「词头在原文但例句改写」与「例句截短/跨章」两类缺陷。首次运行即扫出 ch01–03 的 7 处真实缺陷（`choke`/`obviate`/`stipulated`/`alleged` 四处词形不匹配、`prescriptive` 与 `epistemically` 两处例句省略号中段缺失），当时只修文件未提交，后由 `be79a96d` 补齐。全书最终 0 缺陷。
+- 各章初稿均先经此双向校验再入库，据此累计拦截 **120+ 处 A 类虚构词与跨章例句**（多为承前章词表误粘）；ch11 另清理 3 条"see 原句 X"占位式重复引语与 8 处被污染的关键词行。
+- 总览三篇：概述（梗概 6 段 + 三大主题 + 三类主体轨迹 + 7 处关键原文）、金句精选（25 句，ch01 题词至 ch12 诗学正义）、情感节点（14 个论证转折节点 × 2 处逐字引文）。情感节点因 `> **原句：**` 格式为工具盲区（抽 0 条），28 条引语已逐条整串 flat 比对 + 章节标签对账，problems 0；三篇正文行内英文短语 0 缺失（修正 `misogyny's substance`、`puzzle of misogyny` 两处非逐字表述）；三篇 H1 与文件语义一致。
+- 状态：未 push；**独立五步审查已完成（见下方记录）**。
+
+**独立五步审查记录（用户 2026-09-24 本会话主动发起，a–e 完整执行，修复 3 commit：`89d7a8d3` / `adff15e4` / `ccc5a12f`）**
+
+- **a｜三件套重跑**（不采信完工报告任何旧数字）：`verify_quotes 294/294`（14/14 文件干净）· `check_vocab 517 行 FAIL0/WARN0` · `check_entities 0 未知实体`。
+- **b｜逐章归属**：12 章全跑 `check_chapter_quotes`，合计 **262/262** 命中本章 text，零跨章搬句；ch08 2 条 <20 字符短引语人工 grep 兜底命中。
+- **c｜结构扫描**（行首 `> **原句 N:**` 口径，换路径自建 `scripts/attic/review_down_girl.py`）：编号连续、五子项齐全且顺序一致、零孤儿块、零重复块。**抓出 6 处**：ch11 删占位引语后编号断档（重编 32 块）、ch11 四处关键词行格式损坏、ch02 错词 `Prilege`。
+- **d｜语义二审**：三路子代理分批（ch01–04 / ch05–08 / ch09–12）逐对核对引语↔五项分析，每批附**本库真实失败案例**作反例（100G ch86、Room 37% 说话人误归、Golden Boy 幻觉）+ **防幻觉条款**；主会话对每条报警逐条 grep 复核。共修复 **16 处**：
+  - 引语擅改 4 处：ch06 `borne by`→`borne of`、ch08 原句2 漏脚注标记 `men"2`、ch04 原句6 漏 `and to go on to make warranted assertions`（补回并修正结构为"两并列宾语+两并列不定式"）、ch07 `shame faced`→`shame-faced`（7 处）。
+  - 说话人/归属错误 3 处：ch09 原句11 **Brock Turner 误作"特朗普"**、ch09 原句19 误标为"取自 impact statement"、ch09 原句34 误标为"某位支持者的原话"。
+  - 引语与分析不对应 4 处：ch12 原句22 主语歧义（改"一位女性所遭受的厌女"并同步金句）、ch02 原句5 `deemed vulnerable` 擅改+自加"闭环"、ch03 原句15 称"无可争议的正当行为"（原文允许 omissions 是 negligent/healthy humility）、ch04 原句14 "八个亲属称谓"计数错+自加"失职"。
+  - 分析层幻觉 5 处：ch11 "Andrea 照片"（实为履历包姓名对调）、ch01 "lock her up in the attic"（attic 全书查无）、ch05 "repulsive woman"、ch06 "Balkanken"（疑 hallucination）、ch08 "overwhelming compassion"（原文 debilitating）。
+  - 关键词锚定 11 处（AGENTS §9b）：ch03 七处、ch04 一处、ch08 两处替换为引语内真实词；修复后锚定检查 0 真实违规。
+- **e｜总览层**：`verify_overview_quotes 32/32`；情感节点 28 条引语逐条 flat 比对 + 章节标签对账 problems 0；三篇行内英文短语 0 缺失；三篇 H1 语义一致。**跨书污染自检**：13 个核心实体全库检索仅命中本书，无跨书污染。
+- **审查后终验**：verify 294/294 · vocab 517 行 FAIL0/WARN0 · entities 0 · 逐章 262/262 · overview 32/32 · 词汇双向校验 0 缺陷 · 结构与 sweep 0 缺陷。
+- **同会话审查已知局限**：a–e 全部重跑未采信旧数字、逐层换检查路径（自建 `review_down_girl.py` + `check_vocab_bothways.py` + 三路子代理 + 主会话 grep 复核）、d 步双轨完成，但全书统一口径的系统性误判同一模型无法完全自查；如需更强独立性建议另指定异实例复核。
+
+---
+
+### [2026-09-24 19:17 UTC] [Opencode-Mac] → All
+
+**《Dark Psychology Secrets》by Daniel James Hollins 全书精读 + 独立五步审查完成**（原位更新）
+
+- 范围：51 个正文单元 + 概述／金句精选／情感节点 3 篇，共 54 个 md；`text/` 51 件。
+- 提交链：原 20 个完工/修复提交 → 审查整改 `c193f7ff` → 复审残留修复 `2f033d17`（ch04–ch51 与总览；ch01–ch03 经审查无高置信缺陷，未改）。
+- a 门禁原始结果：章节 `verify_quotes 475/475`（工具校验）+ 35 条短引语人工 flat `0 MISS`；`check_vocab 763` 行 FAIL0/WARN0；`check_entities 0`；`check_chapter_quotes 475/510`（其余 35 条短引语人工逐条命中本章）。
+- b 逐章归属：显式逐文件 `ch01–ch51` 全部运行，`failed=[]`；全串 interval sweep `0` 重叠。
+- c 结构：51 文件、510 块、编号连续、五子项齐全、无孤儿/重复；关键词锚定 `1500/1500`；总览 H1 语义正确。
+- d 语义二审：7 个只读子代理分段复核 ch01–ch51，确认并修复 ch04–ch06、ch09–ch40、ch41–ch51 的引语/分析错位、跨段截取、重复窗口、模板化和跨章论证污染；重写章节元数据、选句和五项分析，词汇例句改为本章真实片段。
+- 复审残留：再次抽查 22 章 220 块，修复 While/For example/Or/省略疑问的句法误判、完整句误标片段、关键词字段污染与短问句占位词；新增修复 `2f033d17`。
+- e 总览：概述改为按 ch29/ch30 原文区分日常欺骗与科研诚信；金句25条、节点9个改为逐条语境分析；`verify_overview_quotes 43/43`，概述英文片段人工 `MISS=0`，章节标签 `0` mismatch，`check_crossref 0 对/报警0`。
+- `audit_book.py`：md 54、text 51、text/epub `51/51`，C/D 通过。状态：未 push；同会话审查仍可能存在统一口径的系统性误判，已按规则如实标注。
+
+---
+
 ### [2026-09-24 19:10 UTC] [OpenCode-Mac] → All
 
 **《The Happiness Blueprint》by Ally Zetterberg 全书精读 + 独立五步审查完成**
@@ -358,6 +364,8 @@
 - **总览门禁**：临时 `00_*.md` 链接运行 `verify_overview_quotes.py`，概述 13/13、金句 30/30、情感节点 24/24，共 67/67；节点范围 26/26、越界 0；章节标签 flat 对账 0 mismatch；H1 语义一致。`audit_book.py` 对三篇总览的 C 节缺章节报告是总览格式已知误报。
 - **提交链**：此前精读链至 `5224340f`；ch02–04 并行提交冲突的实际纳入 commit 为 `e2a597a0`；独立审查修复 `14b83b8d`（56 个目标文件，171 insertions / 181 deletions）；协作/日志更新 `01bf8676`，条目合并 `837af676`。未 push。
 - 状态：目标书工作树干净，跟踪文件 70 个；本书仅保留这一条协作记录和一条工作日志段落。审查局限：同会话主审已完成多路径和代理复核，但不能完全排除全书统一口径的系统性误判。
+
+---
 
 ### [2026-09-24 18:27 UTC] [Qoder-Mac] → All
 
@@ -373,6 +381,22 @@
 - **e 事实层**：一句话总结层英文片段 0 条；核心人名跨书检索仅通用名巧合，`check_entities` 0 未知实体，无跨书污染。
 - 终验：`verify_quotes 108/108` · vocab `680 行 FAIL0/WARN0` · entities `0` · 全串 flat `109/109` · 结构与关键词锚定 `110/110` 零错误 · 2 条 <20 字符短引语人工 grep 兜底命中本章。
 - 已知局限：用户于本会话主动发起五步审查，a–e 已完整执行不得因同会话而降低标准；但**全书统一口径的系统性误判**（如对 Munro 句法的统一理解偏差）同一模型无法自查发现，如需更强独立性建议另指定异实例复核。
+
+---
+
+### [2026-09-24 18:19 UTC] [Qoder-Mac] → All
+
+**《Something I’ve Been Meaning to Tell You》by Alice Munro 全书精读完工**
+
+- 目录：`notes/books/short-story-anthologies/something-ive-been-meaning-to-tell-you-by-alice-munro/`；13 篇短篇，正文 md 13 件、`text/` 提取件 13 件，短篇合集豁免总览三篇。
+- 提交链：`ab73184e`（01）→ `aa19552b`（02–04）→ `e09679e1`（05–08）→ `b7ee0c40`（09–13）→ `f3eac5f8`（ch05 结构修复）。
+- 最终门禁：verify_quotes `125/125`（5 条短引语人工 grep）· check_vocab `236` 条，FAIL0/WARN0 · check_entities `0` · 逐章归属 `125/125` · crossref `0 对/报警 0`；结构扫描 13/13 文件、130 个引语块、五子项齐全、占位符扫描 clean。
+- `audit_book.py` A/B/D 与 text/epub 13/13 通过；C 节报告的“缺概览节”是短篇合集格式已知误报，未据此改动短篇规范。
+- 状态：未 push；**独立五步审查已由用户在本会话发起并完成**。
+- 五步审查 a–e：a 现场重跑三件套；b 显式核验 13 篇逐章归属；c 独立结构/编号/五子项/孤儿块扫描 0 错误；d 由两个不重叠子批次逐块语义二审，并回原文确认修复 40 余处句法、代词指向、说话人/人物归属、情节对应和关键词锚定问题；e 短篇合集总览豁免，text/epub 13/13，audit C 节“缺概览”为已知格式误报。
+- 语义修复提交：`29a35ee0`；修复后 diff 为 78 行新增 / 78 行删除；最终关键词锚定扫描 `KEYWORD_ANCHOR_MISSES []`。
+- 修复后门禁：verify_quotes `125/125` · check_vocab `236` 条 FAIL0/WARN0 · check_entities `0` · 逐章归属 `125/125` · crossref `0 对/报警 0` · 5 条短引语人工 grep 命中。
+- 已知局限：本次为用户发起的同会话审查；虽采用两组不重叠子代理和主会话回原文复核，仍无法完全排除全书统一口径的系统性误判。
 
 ---
 
@@ -400,22 +424,6 @@
 - 五步修复：ch01 整章重建（10 条引语均换为 A Real Life 真实文本，新增第10条引语+词汇表重建）· ch02 删除 suspense 虚构词条 · ch05 修复 confess/propriety/prison 例句（A 类虚构→原文例句）。
 - 最终门禁：verify_quotes **59/59**· check_vocab **FAIL=0**· check_entities **0**· check_chapter_quotes **59/59**。
 - 状态：未 push；**五步审查已在本会话完成**。
-
----
-
-### [2026-09-24 18:19 UTC] [Qoder-Mac] → All
-
-**《Something I’ve Been Meaning to Tell You》by Alice Munro 全书精读完工**
-
-- 目录：`notes/books/short-story-anthologies/something-ive-been-meaning-to-tell-you-by-alice-munro/`；13 篇短篇，正文 md 13 件、`text/` 提取件 13 件，短篇合集豁免总览三篇。
-- 提交链：`ab73184e`（01）→ `aa19552b`（02–04）→ `e09679e1`（05–08）→ `b7ee0c40`（09–13）→ `f3eac5f8`（ch05 结构修复）。
-- 最终门禁：verify_quotes `125/125`（5 条短引语人工 grep）· check_vocab `236` 条，FAIL0/WARN0 · check_entities `0` · 逐章归属 `125/125` · crossref `0 对/报警 0`；结构扫描 13/13 文件、130 个引语块、五子项齐全、占位符扫描 clean。
-- `audit_book.py` A/B/D 与 text/epub 13/13 通过；C 节报告的“缺概览节”是短篇合集格式已知误报，未据此改动短篇规范。
-- 状态：未 push；**独立五步审查已由用户在本会话发起并完成**。
-- 五步审查 a–e：a 现场重跑三件套；b 显式核验 13 篇逐章归属；c 独立结构/编号/五子项/孤儿块扫描 0 错误；d 由两个不重叠子批次逐块语义二审，并回原文确认修复 40 余处句法、代词指向、说话人/人物归属、情节对应和关键词锚定问题；e 短篇合集总览豁免，text/epub 13/13，audit C 节“缺概览”为已知格式误报。
-- 语义修复提交：`29a35ee0`；修复后 diff 为 78 行新增 / 78 行删除；最终关键词锚定扫描 `KEYWORD_ANCHOR_MISSES []`。
-- 修复后门禁：verify_quotes `125/125` · check_vocab `236` 条 FAIL0/WARN0 · check_entities `0` · 逐章归属 `125/125` · crossref `0 对/报警 0` · 5 条短引语人工 grep 命中。
-- 已知局限：本次为用户发起的同会话审查；虽采用两组不重叠子代理和主会话回原文复核，仍无法完全排除全书统一口径的系统性误判。
 
 ---
 
@@ -492,6 +500,8 @@
 - 共享 index 竞态已处理：误带入的另一实例文件内容完整保留，未改动其内容。
 - 状态：未 push；**本条为本书唯一协作记录，审查结论已就地追加**。
 - 已知局限：两名后台语义代理未及时回传，已停止；d 步由主会话完成，仍无法完全排除同会话统一口径的系统性误判，若需更强独立性可另指定异实例复核。
+
+---
 
 ### [2026-09-24 13:12 UTC] [Qoder-Mac] → All
 
