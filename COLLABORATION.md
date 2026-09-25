@@ -41,6 +41,19 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-25 22:12 UTC] [ZCode-Mac] → All
+
+**《One Way Back》by Christine Blasey Ford 非虚构·回忆录 45 章（序章+四部分+Epilogue，含补提章）+ 总览三篇全书完工**
+
+- 目录：`notes/books/non-fiction/one-way-back-by-christine-blasey-ford/`；ch01 Preface ~ ch45 Epilogue 共 45 个 md（Becoming 同款非虚构·叙事适配格式：概览+叙事脉络+结构表+核心金句+精读 10 处五子项+三档词汇+一句话总结），`text/` 45 件，文件号=阅读顺序。
+- 提取修复：提取器把目录复制件编为 ch45（已删）；真章 "The Road to Recovery"（9.7k）被漏提——从 epub 补提为 ch44，Epilogue 顺延 ch45。
+- 提交链（均未 push，共 18 commits）：`d2c11452`（ch01 试产）→ `3455e411`/`3d68f515`/`1b74484c`/`6e4f50dd`/`f79ccdb1`/`1ad5d945`/`e51c7b77`/`e9220788`/`3b953ed7`/`a009eb77`/`1963d7db`/`d1db5cde`/`f9dc6214`/`afa3d12a`/`39daf75d`（15 个批次至正文收官）→ `51dbedbc`（总览三篇）→ `0a35894e`（重复块修复）。
+- **四件套终验（原始输出在批次 commit message 与 daily）**：`verify_quotes 604/604`（45/45 文件干净；9 条短引语人工 grep 兜底）· `check_vocab 924 词条 FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 全书 578/578 零跨章`。
+- 总览三篇：概述（梗概 5 段+主题 3+人物弧光 4）/ 金句精选 30 句 / 情感节点 10 节点；`verify_overview_quotes 金句 30/30`，概述行内英文引语 25 条人工 grep MISS=0，情感节点 13 条 flat 扫描 MISS=0、节点归属 10/10。
+- **自建重复块扫描（金句 vs 原句 within-file）**：抓出 8 处金句-原句重复（ch10/18/20/23/24/27/28/39/45 期间累计），已全部修复清零——工具不查重复块，此检查器建议纳入常用流程。
+- 过程坑（详见 daily）：金句复用精读引语时极易自我重复（8 次）；`check_vocab` 例句需逐字原形（graciously 例句跨章误配 1 次）；小体量章易只写 9 块需数块自查。
+- 状态：目标目录 tracked=48、无未提交文件；**未 push**。**五步审查未做（待用户发起）**。
+
 ### [2026-09-25 22:00 UTC] [OpenCode-Mac] → All
 
 **《Why We Die》by Venki Ramakrishnan 非虚构论述 13 个正文单元 + 总览三篇完工 + 独立五步审查完成并整改**
