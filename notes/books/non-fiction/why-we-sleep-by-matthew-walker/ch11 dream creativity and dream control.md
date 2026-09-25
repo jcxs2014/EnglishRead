@@ -123,7 +123,7 @@ source_text: ch12
 
 **中文理解**：不过，日常所说的清醒梦更多指获得对梦的有意控制，并能操纵这种体验，例如决定飞行，甚至改变梦的功能，如解决问题。
 
-**句子结构**：However 区分术语的严格和日常含义，主语为 the term，is used to describe 后接两个动名词短语 gaining control 和 manipulate；such as...or perhaps even... 区分控制内容与功能。
+**句子结构**：However 区分术语的严格和日常含义，主语为 the term，is used to describe 后接两个并列结构：gaining volitional control... 与 the ability to manipulate...；such as...or perhaps even... 区分控制内容与功能。
 
 **关键词**：colloquially, volitional control, manipulate, problem solving
 
@@ -147,7 +147,7 @@ source_text: ch12
 
 **中文理解**：清醒梦究竟有益还是有害仍不清楚，因为超过八成普通人并不是天生的清醒梦者。
 
-**句子结构**：形式主语 It 与表语 unclear 构成主系表结构，whether...or... 为宾语从句，since 引出支持不确定性的依据。
+**句子结构**：形式主语 It 与表语 unclear 构成主系表结构，whether...or... 为表语从句，since 引出支持不确定性的依据。
 
 **关键词**：remains unclear, beneficial or detrimental, over 80 percent, natural lucid dreamers
 

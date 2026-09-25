@@ -24,7 +24,7 @@ source_text: ch10
 | 脑扫描可预测梦的形式与部分低层内容 | 早期解码研究 | 梦不是完全无规律，但预测分辨率有限 |
 | 解码研究只有三名受试者 | 小样本先导实验 | 结论只能作为探索性证据，不能视为成熟诊断技术 |
 | 弗洛伊德理论缺少清晰、可证伪的预测 | 理论检验标准 | 解释若无法被结果否定，就难以形成科学预测 |
-| 299 份梦中仅约百分之一至二明确重放日间事件，情绪主题却在约三成半至五成半梦中复现 | 十四天日记实验 | 梦排除整体录像式重放，同时保留情绪关切 |
+| 299 份梦中仅约百分之一至二明确重放日间事件，约三成半至五成半的日间情绪主题与关切在梦中复现 | 十四天日记实验 | 梦排除整体录像式重放，同时保留情绪关切 |
 
 - **论证脉络**：用五种清醒期精神病性症状反衬梦的普遍性 → 界定“真正做梦”主要来自快速眼动 → 展示快速眼动脑区点亮与理性控制减弱 → 介绍脑扫描预测梦形式 → 说明预测不能确定具体对象 → 以小样本限制解释强度 → 批评弗洛伊德理论不可证伪 → 用日记研究区分事件内容与情绪主题 → 在章末提出梦具有功能并把证明任务交给下一章。
 - **可质疑处**：
@@ -50,7 +50,7 @@ source_text: ch10
 
 **中文理解**：但我们通常所说的梦——幻觉性、运动性、情绪性和叙事丰富的怪异体验——来自快速眼动睡眠，许多睡眠研究者也把“真正的梦”限定为快速眼动期间发生的体验。
 
-**句子结构**：主干主语为 dreams as most of us think of them，破折号以 those... 定语从句描述梦；谓语为 come from，and 后 many sleep researchers 为新主语，limit their definition to... 完成并列。
+**句子结构**：主干主语为 dreams as most of us think of them，破折号后的 those hallucinogenic, motoric, emotional, and bizarre experiences... 是同位名词短语；谓语为 come from，and 后 many sleep researchers 为新主语，limit their definition to... 完成并列。
 
 **关键词**：dreams as most of us think of them, hallucinogenic, rich narrative, come from REM sleep
 
@@ -86,7 +86,7 @@ source_text: ch10
 
 **中文理解**：研究者能有把握地预测一个人的梦会呈现什么形式。
 
-**句子结构**：动宾结构 could predict 后接两个宾语：with confidence 说明预测信心，the form of someone’s dream 表示被预测对象。
+**句子结构**：动宾结构 could predict 后接 the form of someone’s dream 作宾语，with confidence 是方式状语，someone’s dream 修饰 form。
 
 **关键词**：predict with confidence, the form, someone’s dream
 
@@ -98,7 +98,7 @@ source_text: ch10
 
 **中文理解**：这项方法目前还不能准确确定做梦者看见的是哪一个男人、女人或汽车。
 
-**句子结构**：it 为形式主语，真正主语为后续不定式短语 determine exactly what...；what 引导宾语从句，the dreamer 是 seeing 的逻辑主语。
+**句子结构**：it 是指代方法的普通代词主语，determine exactly what... 是谓语；what 引导宾语从句，the dreamer 是 seeing 的逻辑主语。
 
 **关键词**：cannot currently determine, exactly what, dreamer, seeing
 
@@ -134,7 +134,7 @@ source_text: ch10
 
 **中文理解**：参与者在白天体验到的情绪主题和关切，又强烈而明确地重新出现在梦里。
 
-**句子结构**：主语为 emotional themes and concerns，that 从句修饰二者，having experienced them while awake 构成进行时分词；谓语 resurfaced 与 strongly/unambiguously 等副词共同表达其重新浮现。
+**句子结构**：主语为 emotional themes and concerns，that 从句以 participants 为主语，were having while they were awake during the day 描述日间关切；谓语 resurfaced 与 strongly/unambiguously 等副词共同表达其重新浮现。
 
 **关键词**：emotional themes, concerns, while they were awake, resurfaced
 
@@ -146,7 +146,7 @@ source_text: ch10
 
 **中文理解**：但梦本身是否超出快速眼动睡眠的生理发生过程，真的对我们做了些什么？作为科学事实，答案是肯定的，它们确实如此。
 
-**句子结构**：首句为 but 引导的一般疑问句，主语为 dreams themselves，插入语 above and beyond REM sleep 限定比较范围；次句以省略主语的肯定回答 yes 开头，they do 再次使用助动词 do 强调。
+**句子结构**：首句为 but 引导的一般疑问句，主语为 dreams themselves，插入语 above and beyond REM sleep 限定比较范围；次句以独立肯定回答 yes 作简短回应，they do 再用助动词 do 强调。
 
 **关键词**：dreams themselves, above and beyond REM sleep, actually do anything, they do
 

@@ -39,7 +39,7 @@ source_text: ch03
 
 **中文理解**：你的身体怎么知道什么时候该睡觉？
 
-**句子结构**：特殊疑问句。How 构成疑问方式，does 构成助动词，主体为 your body，know 为动词原形，when it’s time to sleep 是时间状语从句。
+**句子结构**：特殊疑问句。How 构成疑问方式，does 构成助动词，主语为 your body，know 为动词原形，when it’s time to sleep 是时间状语从句。
 
 **关键词**：How, your body, know, time to sleep
 
@@ -51,7 +51,7 @@ source_text: ch03
 
 **中文理解**：有两个主要因素决定你何时想睡以及何时想保持清醒。
 
-**句子结构**：There be 句型作主句；two main factors 是主语，that 从句修饰 factors，从句内用 when...and when... 的并列结构连接两个时间状语。
+**句子结构**：There be 句型作主句；two main factors 是主语，that 从句修饰 factors，从句内用 when...and when... 的并列结构连接两个 determine 的宾语从句。
 
 **关键词**：two main factors, determine, when you want to sleep, when you want to be awake
 
@@ -61,7 +61,7 @@ source_text: ch03
 
 > **原句 3:** "The first was that humans, like de Mairan’s heliotrope plants, generated their own endogenous circadian rhythm in the absence of external light from the sun."
 
-**中文理解**：第一项发现是，人类像德梅兰研究的向日葵植物一样，在没有太阳外部光线的情况下，也会产生自己的内源性昼夜节律。
+**中文理解**：第一项发现是，人类像德梅兰研究的含羞草一样，在没有太阳外部光线的情况下，也会产生自己的内源性昼夜节律。
 
 **句子结构**：主语为 The first，表语为 that 从句；从句主语 humans 与比较结构 like de Mairan’s heliotrope plants 并列，谓语 generated，宾语 their own endogenous circadian rhythm，in the absence of... 是条件状语。
 
@@ -85,13 +85,13 @@ source_text: ch03
 
 > **原句 5:** "With dawn, as sunlight enters the brain through the eyes (even through the closed lids), a brake pedal is applied to the pineal gland, thereby shutting off the release of melatonin."
 
-**中文理解**：黎明来临时，阳光通过眼睛进入大脑，即使眼睑闭着也一样；此时松果腺像被踩下刹车，褪黑素释放随之关闭。
+**中文理解**：黎明来临时，阳光通过眼睛进入大脑，即使眼睑闭着也一样；此时松果体像被踩下刹车，褪黑素释放随之关闭。
 
-**句子结构**：主体是 With dawn 引导的时间状语，as 从句交代光照进入大脑的路径；主句主语为 a brake pedal，谓语 is applied，to the pineal gland 说明作用对象，thereby 分词短语说明结果。
+**句子结构**：With dawn 是前置时间状语，as 从句交代光照进入大脑的路径；主句主语为 a brake pedal，谓语 is applied，to the pineal gland 说明作用对象，thereby 分词短语说明结果。
 
 **关键词**：dawn, brake pedal, pineal gland, shutting off
 
-**表达方式**：把松果腺写成一辆会被晨光踩下刹车的车，用连续因果链把光线、眼睛、脑内路径和激素变化压缩进一个驾驶隐喻。
+**表达方式**：把松果体写成一辆会被晨光踩下刹车的车，用连续因果链把光线、眼睛、脑内路径和激素变化压缩进一个驾驶隐喻。
 
 **为什么这样写**：褪黑素停止释放常被讲成抽象曲线，本句用“刹车”给出可感的控制关系，也为“早晨见光、晚上避光”的应用建议建立机制方向。
 
@@ -147,7 +147,7 @@ source_text: ch03
 
 **中文理解**：第一，早晨醒来之后，如果到了上午十点或十一点，你还能重新睡着吗？
 
-**句子结构**：First 是列举开头；after waking up in the morning 为时间状语，主句使用情态动词 could，主体为 you，谓语为 fall back asleep，at ten or eleven a.m. 是时间状语。
+**句子结构**：First 是列举开头；after waking up in the morning 为时间状语，主句使用情态动词 could，主语为 you，谓语为 fall back asleep，at ten or eleven a.m. 是时间状语。
 
 **关键词**：after waking up, fall back asleep, ten or eleven a.m.
 

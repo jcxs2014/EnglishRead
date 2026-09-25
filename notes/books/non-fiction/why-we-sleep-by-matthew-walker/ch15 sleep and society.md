@@ -97,7 +97,7 @@ source_text: ch16
 
 > **原句 6:** "Nevertheless, the US Department of Defense subverted this ruling, authorizing twenty-hour interrogations of detainees in Guantánamo Bay between 2003 and 2004. Such treatment remains permissible to this day of writing, as the revised US Army Field Manual states, in appendix M, that detainees can be limited to just four hours of sleep every twenty-four hours, for up to four weeks. I note that it was not always so. A much earlier 1992 edition of the same publication held that extended sleep deprivation was a clear and inhumane example of “mental torture.”"
 
-**中文理解**：美国国防部仍绕过限制，允许长时间审讯；修订军务手册甚至允许在押人员每二十四小时只睡四小时并持续四周，而 1992 年旧版曾明确把长期睡眠剥夺称为精神折磨。
+**中文理解**：美国国防部仍绕过限制，允许长时间审讯；修订军务手册甚至允许在押人员每二十四小时只睡四小时，最多持续四周，而 1992 年旧版曾明确把长期睡眠剥夺称为精神折磨。
 
 **句子结构**：Nevertheless 转折并接授权分词结构；as...states...that... 嵌入制度依据，末句用年份和旧版文本形成历史对照。
 
@@ -133,7 +133,7 @@ source_text: ch16
 
 > **原句 9:** "Residents working a thirty-hour-straight shift will commit 36 percent more serious medical errors, such as prescribing the wrong dose of a drug or leaving a surgical implement inside of a patient, compared with those working sixteen hours or less. Additionally, after a thirty-hour shift without sleep, residents make a whopping 460 percent more diagnostic mistakes in the intensive care unit than when well rested after enough sleep. Throughout the course of their residency, one in five medical residents will make a sleepless-related medical error that causes significant, liable harm to a patient. One in twenty residents will kill a patient due to a lack of sleep."
 
-**中文理解**：连续工作三十小时的住院医会多犯百分之三十六严重医疗错误，诊断错误多达四百六十个百分点；培训期内五分之一可能造成可追责伤害，二十分之一可能因缺觉导致患者死亡。
+**中文理解**：连续工作三十小时的住院医会多犯百分之三十六严重医疗错误，诊断错误增加百分之四百六十；培训期内五分之一可能造成可追责伤害，二十分之一可能因缺觉导致患者死亡。
 
 **句子结构**：四句依次报告轮班比较、诊断比较、培训期比例和死亡比例，one in five/one in twenty 转成直观分母。
 
@@ -145,7 +145,7 @@ source_text: ch16
 
 > **原句 10:** "Facing government threats that would apply federally enforced work hours due to the extent of damning evidence, the Accreditation Council for Graduate Medical Education made the following alterations. First-year residents would be limited to (1) working no more than an 80-hour week (which still averages out at 11.5 hours per day for 7 days straight), (2) working no more than 24 hours nonstop, and (3) performing one overnight on-call shift every third night. That revised schedule still far exceeds any ability of the brain to perform optimally. Errors, mistakes, and deaths continued in response to the anemic diet of sleep they were being fed while training."
 
-**中文理解**：在证据与联邦工时压力下，住院医教育机构限制周工时、连续值班和夜班频率；但新制度仍超过大脑最佳能力，错误和死亡持续。
+**中文理解**：在证据与联邦工时压力下，住院医教育机构限制第一年住院医的周工时、连续值班和夜班频率；但新制度仍超过大脑最佳能力，错误和死亡持续。
 
 **句子结构**： Facing... 交代改革动因，第二句编号三项限制，第三句评价制度，末句陈述结果。
 

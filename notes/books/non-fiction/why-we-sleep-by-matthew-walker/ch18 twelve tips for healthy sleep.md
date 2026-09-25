@@ -10,7 +10,7 @@ source_text: ch19
 - **出处**：*Why We Sleep: Unlocking the Power of Sleep and Dreams*，Appendix “Twelve Tips for Healthy Sleep”
 - **作者**：Matthew Walker
 - **章节定位**：原书 Appendix
-- **字符数**：4,403 字符（Python `len`，含换行与脚注）
+- **字符数**：4,380 字符（Python `len`，含换行与脚注）
 - **一句话主旨**：附录把睡眠科学压缩成日常可执行的行为清单：固定作息、适度运动、避开咖啡因和酒精、减少晚间负担、谨慎使用药物、安排小睡与睡前放松，并利用黑暗、凉爽、无电子设备、晨间光照和清醒时离床等环境与行为线索支持入睡。
 
 ## 论证结构
@@ -50,7 +50,7 @@ source_text: ch19
 
 **中文理解**：大多数日子尝试至少运动三十分钟，但不要晚于睡前两到三小时。
 
-**句子结构**：Try to exercise 为不定式，but not later than... 限制时间，at least thirty minutes 和 on most days 共同规定频率与时长。
+**句子结构**：Try 是祈使句谓语，to exercise 是不定式；but not later than... 限制时间，at least thirty minutes 和 on most days 共同规定频率与时长。
 
 **关键词**：Try to exercise, at least thirty minutes, most days, not later than
 
@@ -62,13 +62,13 @@ source_text: ch19
 
 **中文理解**：咖啡、可乐、部分茶和巧克力含咖啡因，其影响可能持续八小时才完全消退。
 
-**句子结构**： 四类饮品作并列主语，and 连接两个独立分句，as long as eight hours 限定持续时间。
+**句子结构**：四种含咖啡因的食物与饮品作并列主语，and 连接两个独立分句，as long as eight hours 限定持续时间。
 
 **关键词**：Coffee, colas, chocolate, stimulant caffeine, eight hours
 
-**表达方式**：先列日常饮品，再把影响时间量化为八小时。
+**表达方式**：先列日常含咖啡因食物与饮品，再把影响时间量化为八小时。
 
-**为什么这样写**：读者往往只看咖啡因是否影响入睡，而长代谢半衰期说明下午饮用也可能影响夜间睡眠。
+**为什么这样写**：读者往往只看咖啡因是否影响入睡，而作用消退时间最长可达八小时，说明下午饮用也可能影响夜间睡眠。
 
 > **原句 4:** "heavy use robs you of REM sleep, keeping you in the lighter stages of sleep."
 
@@ -134,7 +134,7 @@ source_text: ch19
 
 **中文理解**：每天尽量到户外接受至少三十分钟自然阳光。
 
-**句子结构**： Try to get outside 为不定式，in natural sunlight 与 for at least thirty minutes each day 分别说明环境和频率。
+**句子结构**：Try 是祈使句谓语，to get outside 是不定式；in natural sunlight 与 for at least thirty minutes each day 分别说明环境和频率。
 
 **关键词**：get outside, natural sunlight, at least thirty minutes, each day
 

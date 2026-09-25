@@ -10,7 +10,7 @@ source_text: ch18
 - **出处**：*Why We Sleep: Unlocking the Power of Sleep and Dreams*，Conclusion “To Sleep or Not to Sleep”
 - **作者**：Matthew Walker
 - **章节定位**：原书 Conclusion
-- **字符数**：1,228 字符（Python `len`，含换行）
+- **字符数**：1,226 字符（Python `len`，含换行）
 - **一句话主旨**：结论把前文关于睡眠健康、认知、情绪和身体代价的证据收束为一项社会与文化宣言：工业国家正在放弃进化所要求的睡眠，必须在个人、职业、文化和制度层面重新承认完整睡眠的权利。
 
 ## 论证结构
@@ -31,9 +31,11 @@ source_text: ch18
 
 ## 选择性精读
 
+> 注：结论文本只有 7 个完整句；原句 8–10 是对长句中三个不重复句法片段的补充精读，不代表额外完整句。
+
 > **原句 1:** "Within the space of a mere hundred years, human beings have abandoned their biologically mandated need for adequate sleep—one that evolution spent 3,400,000 years perfecting in service of life-support functions."
 
-**中文理解**：在一百年里，人类就放弃了对充足睡眠的生物必需，而进化曾用三百四十万年完善它以服务生命支持功能。
+**中文理解**：在一百年里，人类就放弃了生物学上必需的充足睡眠需求，而进化曾用三百四十万年完善它以服务生命支持功能。
 
 **句子结构**：Within the space of... 为时间状语，human beings 为主语，have abandoned... 为现在完成时，破折号中的 one that... 同位说明睡眠。
 
@@ -81,7 +83,7 @@ source_text: ch18
 
 > **原句 5:** "I believe it is time for us to reclaim our right to a full night of sleep, without embarrassment or the damaging stigma of laziness."
 
-**中文理解**：我认为，现在是时候重新夺回完整睡眠一夜的权利，不再为此 embarrassed，也不再背负懒惰的伤害性污名。
+**中文理解**：我认为，现在是时候重新夺回完整睡眠一夜的权利，不再为此尴尬，也不再背负懒惰的伤害性污名。
 
 **句子结构**：I believe it is time for us to... 为主干，to reclaim... 为不定式，without embarrassment or... 为方式状语。
 
@@ -131,7 +133,7 @@ source_text: ch18
 
 **中文理解**：影响涉及健康、预期寿命、安全、生产力和儿童教育。
 
-**句子结构**：该片段承接前句 catastrophic impact，五个名词短语以逗号并列，构成影响范围清单。
+**句子结构**：该片段列举前述 catastrophic impact 的五项范围，五个名词短语以逗号并列，构成影响清单。
 
 **关键词**：health, life expectancy, safety, productivity, education
 
@@ -139,17 +141,17 @@ source_text: ch18
 
 **为什么这样写**：它让读者看到睡眠政策不能只落在个人自律，必须进入安全、教育和经济制度。
 
-> **原句 10:** "a radical shift in our personal, cultural, professional, and societal appreciation of sleep must occur."
+> **原句 10:** "dispensed through every conceivable biological pathway."
 
-**中文理解**：个人、文化、职业和社会对睡眠的理解必须发生彻底转变。
+**中文理解**：睡眠通过每一条可想象的生物通路发挥作用。
 
-**句子结构**：主语为 a radical shift in... appreciation of sleep，must occur 为情态谓语，四个领域并列限定转变范围。
+**句子结构**：这是 dispensed through every conceivable biological pathway 的过去分词短语，修饰前文的 elixir，说明睡眠作用于多种生物通路。
 
-**关键词**：radical shift, personal, cultural, professional, societal appreciation
+**关键词**：dispensed, every conceivable, biological pathway
 
-**表达方式**：用 must occur 将价值判断写成必要条件，并以四领域扩大责任主体。
+**表达方式**：用 every conceivable 把睡眠的收益从单一作用扩展为全身生物系统。
 
-**为什么这样写**：结论不把解决方案交给个人睡眠技巧，而要求整个社会重新评价睡眠，这是全书从研究转向倡议的最终落点。
+**为什么这样写**：它把健康和活力写成多种生物通路共同作用的系统性结果，而不是单一功能。
 
 ## 词汇分级
 

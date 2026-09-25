@@ -39,7 +39,7 @@ source_text: ch11
 
 **中文理解**：梦可能像灯泡产生的热一样毫无功能，只是没有用途和后果的伴随现象，不过是快速眼动睡眠的意外副产品。
 
-**句子结构**：首句为比较判断，Dreams...may serve no function 为主语加情态动词和表语；次句以 Dreams may simply be... 重复判断，末句用 merely an unintended by-product... 把结论进一步收紧。
+**句子结构**：首句为比较判断，serve 是动词，no function 是宾语；次句以 Dreams may simply be... 重复判断，末句用 merely an unintended by-product... 把结论进一步收紧。
 
 **关键词**：may serve no function, epiphenomena, no use or consequence, unintended by-product
 
@@ -99,7 +99,7 @@ source_text: ch11
 
 **中文理解**：你并没有忘记那段记忆，而是卸下了它的情绪重量，至少卸下了相当一部分。
 
-**句子结构**：not...but... 构成对比，cast off 为祈使句谓语，the emotional charge 为宾语，or at least... 修正卸下程度。
+**句子结构**：not...but... 构成对比，第二个分句是现在完成时谓语 have cast off，the emotional charge 为宾语，or at least... 修正卸下程度。
 
 **关键词**：not forgotten, cast off, emotional charge, significant amount
 
@@ -111,7 +111,7 @@ source_text: ch11
 
 **中文理解**：她的患者需要快速眼动睡眠并做梦，但必须是涉及清醒创伤情绪主题和感受的特定梦。
 
-**句子结构**：主干 required REM sleep with dreaming，but 后的 dreaming of a very specific kind 补足方式；冒号后的 that 从句进一步解释特定梦内容。
+**句子结构**：主干 required REM sleep with dreaming，but 后的 dreaming of a very specific kind 补足方式；冒号后的 that which... 是融合关系从句，进一步解释特定梦内容。
 
 **关键词**：required REM sleep, specific kind, emotional themes, waking trauma
 

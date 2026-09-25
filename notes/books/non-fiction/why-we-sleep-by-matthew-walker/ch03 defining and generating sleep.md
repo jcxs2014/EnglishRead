@@ -39,7 +39,7 @@ source_text: ch04
 
 **中文理解**：这些迹象十分可靠，因此科学家已经能够列出一组可观察特征，用来判断人类和其他物种是否处于睡眠。
 
-**句子结构**：So + 形容词 reliable 构成倒装让步结构，these signs 是主语；主句为 a set of observable features exists，that 从句修饰 features，从句以 indicate... 说明这些特征的作用。
+**句子结构**：So + 形容词 reliable 构成倒装结构，these signs 是主语；that 结果结构引出主句 a set of observable features exists，that 从句修饰 features，从句以 indicate... 说明这些特征的作用。
 
 **关键词**：So reliable, observable features, scientists agree, presence of sleep
 
@@ -51,7 +51,7 @@ source_text: ch04
 
 **中文理解**：第一个特征是外部意识的丧失——你不再感知外部世界。
 
-**句子结构**：First is the loss of external awareness 为主系表结构，破折号后 you stop perceiving the outside world 对前面的抽象名词作具体解释；两个分句都把状态主语转换为被比较对象。
+**句子结构**：First is the loss of external awareness 为主系表结构，破折号后 you stop perceiving the outside world 对前面的抽象名词作具体解释。
 
 **关键词**：First, loss of external awareness, stop perceiving, outside world
 
@@ -73,7 +73,7 @@ source_text: ch04
 
 > **原句 4:** "One last temporal distortion deserves mention here—that of time dilation in dreams, beyond sleep itself."
 
-**中文理解**：这里还值得提最后一种时间扭曲：梦中不仅没有时间感，甚至会出现时间膨胀。
+**中文理解**：这里还值得提最后一种时间扭曲：梦中仍能感知时间，但时间常显得被拉长，甚至会出现时间膨胀。
 
 **句子结构**：主干为 One last temporal distortion deserves mention here；破折号后的 that of time dilation in dreams 是同位语，beyond sleep itself 说明这种扭曲比睡眠中的一般时间感变化更进一步。
 
@@ -87,7 +87,7 @@ source_text: ch04
 
 **中文理解**：就在那一刻，克莱特曼和阿泽林斯基意识到自己得出了重大发现：人类并非只进入一种睡眠，而是在两种完全不同的睡眠类型之间循环。
 
-**句子结构**：时间状语从句 At that moment... 修饰主句谓语 realized；冒号后的 that 从句说明发现内容，not just...but... 构成对照，从句主语 humans 充当动词短语 cycle through 的施事者。
+**句子结构**：时间状语短语 At that moment 修饰主句谓语 realized；冒号后的 that 从句说明发现内容，not just...but... 构成对照，从句主语 humans 充当动词短语 cycle through 的施事者。
 
 **关键词**：profound discovery, cycle through, two completely different types, don’t just sleep
 
@@ -123,7 +123,7 @@ source_text: ch04
 
 **中文理解**：自从埃斯特的睡眠发现以来，我们已经知道，非快速眼动睡眠与快速眼动睡眠会在整夜反复展开一场你推我拉的脑部控制权争夺。
 
-**句子结构**：时间状语从句 In the years since... 之后，that 从句作 learned 的宾语；从句主语为 the two stages of sleep，破折号解释两种阶段，play out in... 描述其反复对抗方式。
+**句子结构**：时间状语介词短语 In the years since... 之后，that 从句作 learned 的宾语；从句主语为 the two stages of sleep，破折号解释两种阶段，play out in... 描述其反复对抗方式。
 
 **关键词**：two stages of sleep, NREM and REM, recurring, push-pull battle
 
@@ -135,7 +135,7 @@ source_text: ch04
 
 **中文理解**：同样值得注意的是，非快速眼动睡眠的慢波还比清醒时的脑波活动远为同步和稳定。
 
-**句子结构**：As remarkable 为评述性补语，主句 the slow waves... are also far more synchronous and reliable than those...；than those of... 通过 of 结构比较睡眠与清醒时的脑波。
+**句子结构**：As remarkable 为评述性插入语，主句 the slow waves... are also far more synchronous and reliable than those...；than those of... 通过 of 结构比较睡眠与清醒时的脑波。
 
 **关键词**：slow waves of NREM, synchronous, reliable, waking brain activity
 

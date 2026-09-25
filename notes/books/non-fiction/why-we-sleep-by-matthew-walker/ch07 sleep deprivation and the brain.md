@@ -37,13 +37,13 @@ source_text: ch08
 
 > **原句 1:** "After four hours of sleep for six nights, participants’ performance was just as bad as those who had not slept for twenty-four hours straight—that is, a 400 percent increase in the number of microsleeps."
 
-**中文理解**：连续六晚每晚只睡四小时后，参与者的表现与整整二十四小时不睡的人一样差，微睡眠数量增加了四百个百分点。
+**中文理解**：连续六晚每晚只睡四小时后，参与者的表现与整整二十四小时不睡的人一样差，微睡眠数量增加百分之四百，约为此前的五倍。
 
 **句子结构**：时间条件状语 After four hours... 置于句首，主句为 participants’ performance was just as bad as those...，those 指代连续二十四小时不睡者；破折号后的 that is... 解释微睡眠增幅。
 
 **关键词**：four hours of sleep, six nights, just as bad, 400 percent increase
 
-**表达方式**：用两个睡眠方案做等效比较，再以四百个百分点把“表现一样差”转成可想象的风险规模。
+**表达方式**：用两个睡眠方案做等效比较，再以百分之四百的相对增幅把“表现一样差”转成可想象的风险规模。
 
 **为什么这样写**：它纠正“偶尔少睡可以慢慢适应”的直觉：稳定但不足的睡眠并非介于正常与完全不睡之间，而可能迅速逼近严重剥夺状态。
 
@@ -75,7 +75,7 @@ source_text: ch08
 
 **中文理解**：大脑左右两侧各有一个杏仁核，它是触发愤怒等强烈情绪、与战斗或逃跑反应有关的关键热点；缺觉参与者的杏仁核情绪反应增幅超过六成。
 
-**句子结构**：主语为 A structure，called the amygdala 为后置过去分词短语；两个破折号分别解释杏仁核功能和实验结果，谓语 showed，宾语为 well over a 60 percent amplification...，in the participants... 限定实验组。
+**句子结构**：主语为 A structure，called the amygdala 为后置过去分词短语；一对破折号共同夹住对杏仁核的同位解释，showed 为主句谓语，宾语为 well over a 60 percent amplification...。
 
 **关键词**：amygdala, strong emotions, fight-or-flight, 60 percent amplification
 
@@ -87,11 +87,11 @@ source_text: ch08
 
 **中文理解**：我们无法约束原始的冲动：杏仁核像踩得过重的情绪油门，而前额叶像制动不足的调节刹车。
 
-**句子结构**：主干为 We cannot rein in our atavistic impulses，破折号后的独立小句用 too much...and not enough... 比较两个失衡方向，括号分别标明杏仁核和前额叶。
+**句子结构**：主干为 We cannot rein in our atavistic impulses，破折号后的 too much...and not enough... 是并列名词短语/省略比较结构，括号分别标明杏仁核和前额叶。
 
 **关键词**：rein in, atavistic impulses, emotional gas pedal, regulatory brake
 
-**表达方式**：把前额叶与杏仁核写成油门和刹车，用两个独立小句呈现“加速过多、制动不足”的双重失衡。
+**表达方式**：把前额叶与杏仁核写成油门和刹车，用两个无限定动词的并列短语呈现“加速过多、制动不足”的双重失衡。
 
 **为什么这样写**：比喻把抽象的神经耦合关系转换成驾驶控制，使缺觉后的冲动决策既容易记忆，也保留前额叶作为调节系统的机制方向。
 

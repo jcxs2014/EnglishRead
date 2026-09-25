@@ -87,13 +87,13 @@ source_text: ch06
 
 **中文理解**：与工业化国家成人单一的整期睡眠模式相比，婴儿和幼儿表现出多相睡眠：昼夜中有许多短小睡眠片段，并被频繁醒来打断，而且常常伴随哭声。
 
-**句子结构**：In contrast to 引出成人对照模式，主句主语为 infants and young kids，谓语 display，宾语 polyphasic sleep；冒号后的同位语 many short snippets... 解释“多相”，participated in 分词结构 punctuated by... 描写频繁醒来。
+**句子结构**：In contrast to 引出成人对照模式，主句主语为 infants and young kids，谓语 display，宾语 polyphasic sleep；冒号后的同位语 many short snippets... 解释“多相”，punctuated by... 分词结构描写频繁醒来。
 
 **关键词**：monophasic, infants and young kids, polyphasic sleep, numerous awakenings
 
 **表达方式**：以单相成人模式作参照，再从昼夜分布、片段长度和醒来频率三个维度描绘婴幼儿多相睡眠。
 
-**为什么这样写**：同样的八小时并非同一种睡眠结构；本句解释新生儿为何能总睡很久却仍被父母反复叫醒，也为之后节律成熟和睡眠整合建立问题。
+**为什么这样写**：婴幼儿总睡眠时间随年龄下降，却分散成大量短片段；本句解释婴儿为何总睡很久仍被父母反复叫醒，也为之后节律成熟和睡眠整合建立问题。
 
 > **原句 6:** "At this stage, the child has transitioned from a polyphasic sleep pattern to a biphasic sleep pattern."
 
@@ -111,7 +111,7 @@ source_text: ch06
 
 **中文理解**：借助快速眼动睡眠增加脑连接的阶段已经结束；接下来，剪除连接成为白天——或者说夜晚——的主要任务，而深非快速眼动睡眠伸出了雕塑之手。
 
-**句子结构**：第一句为现在完成时判断，with the help of... 修饰 adding brain connections；第二句用 Instead 转折，主语为 pruning of connections，becomes the order... 为系表结构；括号 should I say 完成夜晚的幽默修正，第三句以拟人化祈使句 Enter... 点出执行者。
+**句子结构**：第一句为一般现在时判断，with the help of... 修饰 adding brain connections；第二句用 Instead 转折，主语为 pruning of connections，becomes the order... 为系表结构；括号 should I say 完成夜晚的幽默修正，第三句以拟人化祈使句 Enter... 点出执行者。
 
 **关键词**：adding brain connections, pruning of connections, order of the day, sculpting hand
 

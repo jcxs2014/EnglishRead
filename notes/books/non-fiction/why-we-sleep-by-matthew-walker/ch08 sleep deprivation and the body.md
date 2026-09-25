@@ -51,7 +51,7 @@ source_text: ch09
 
 **中文理解**：发生一次或多次心搏骤停的可能性高出百分之四百到五百。
 
-**句子结构**：核心为 400 to 500 percent more likely，to suffer... 补足比较内容；数字范围置于句首以突出相对增幅。
+**句子结构**：引语是完整句中的结果片段；核心为 400 to 500 percent more likely，to suffer... 补足比较内容，数字范围在原句中位于 were 之后。
 
 **关键词**：400 to 500 percent, more likely, suffer, cardiac arrests
 
@@ -75,7 +75,7 @@ source_text: ch09
 
 **中文理解**：吸收标准剂量葡萄糖的效率下降了百分之四十。
 
-**句子结构**：比较结构 less effective at 后接动名词 absorbing，a standard dose of glucose 明确比较对象。
+**句子结构**：比较结构 less effective at 后接动名词 absorbing，a standard dose of glucose 是 absorbing 的宾语；比较基准是充分休息状态。
 
 **关键词**：40 percent, less effective, absorbing, standard dose of glucose
 
@@ -97,7 +97,7 @@ source_text: ch09
 
 > **原句 6:** "the infection rate was almost 50 percent"
 
-**中文理解**：感染率接近百分之五十。
+**中文理解**：平均每晚睡约五小时的那组人，感染率接近百分之五十。
 
 **句子结构**：主语 the infection rate，系动词 was，表语 almost 50 percent 表示接近但未达到的数值。
 
@@ -111,7 +111,7 @@ source_text: ch09
 
 **中文理解**：罹患癌症的风险增加百分之四十。
 
-**句子结构**：名词短语 a 40 percent increased risk 作主语，of developing cancer 后置限定风险类型。
+**句子结构**：引语是完整句中的名词短语片段，a 40 percent increased risk 作 associated with 的宾语，of developing cancer 后置限定风险类型。
 
 **关键词**：40 percent, increased risk, developing, cancer
 
@@ -133,7 +133,7 @@ source_text: ch09
 
 > **原句 9:** "80 percent more likely to suffer from issues of sub-fertility"
 
-**中文理解**：出现生育力问题的可能性高出百分之八十。
+**中文理解**：在夜班不规律、睡眠质量较差的女性研究中，出现生育力问题的可能性高出百分之八十。
 
 **句子结构**：核心为 80 percent more likely，to suffer from... 补足结果，issues of sub-fertility 表示问题范围。
 
@@ -147,7 +147,7 @@ source_text: ch09
 
 **中文理解**：作为细胞寿命封顶结构的端粒受损越严重。
 
-**句子结构**：the more damaged...the more... 比较结构在此处只保留前项，省略后项使短语成为下一句比较的铺垫。
+**句子结构**：引语是 the less...the more... 比较结构的结果项；它不是完整比较句，而是后续结果说明的一部分。
 
 **关键词**：more damaged, capstone, telomeres
 

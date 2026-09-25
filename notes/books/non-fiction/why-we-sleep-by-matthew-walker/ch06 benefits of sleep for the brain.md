@@ -88,7 +88,7 @@ source_text: ch07
 
 **中文理解**：睡眠强力却高度选择性地增强了先前标记为“记住”的词保持，同时主动避免强化那些标记为“忘掉”的记忆。
 
-**句子结构**：主语 Sleep 带两个方式状语 powerfully 与 selectively，谓语 boosted，宾语为 the retention of those words...；yet 引导并列分句，主语仍为 Sleep，谓语 actively avoided，宾语为 the strengthening...
+**句子结构**：主语 Sleep 带两个方式状语 powerfully 与 selectively，谓语 boosted，宾语为 the retention of those words...；第一个 yet 分隔两个方式状语，第二个 yet 连接 boosted... 与 actively avoided... 两个谓语。
 
 **关键词**：powerfully, very selectively, boosted the retention, actively avoided
 
@@ -124,7 +124,7 @@ source_text: ch07
 
 **中文理解**：如果每晚睡眠少于八小时，尤其少于六小时，运动至体力耗尽的时间会下降百分之十到三十，耐氧输出也会显著降低。
 
-**句子结构**：条件状语从句 Obtain anything less than... 与主句 the following happens 构成假设框架，冒号后的同位语解释结果；后一分句用 and 并列 time to physical exhaustion drops 与 aerobic output is reduced。
+**句子结构**：Obtain anything less than... 是祈使式条件结构，与主句 the following happens 构成假设框架；冒号后的同位语解释结果，后一分句用 and 并列 time to physical exhaustion drops 与 aerobic output is reduced。
 
 **关键词**：less than eight hours, less than six hours, physical exhaustion, aerobic output
 

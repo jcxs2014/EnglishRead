@@ -80,7 +80,7 @@ source_text: ch05
 
 **表达方式**：用极短结论句结束跨物种比较，不附加机制，让此前分散的阶段差异最终汇聚为共同底线。
 
-**为什么这样写**：即使各物种的睡眠比例、时长和分布方式不同，两种阶段都不可替代；短句把多样性讨论统一到不可拆分的生理需要上。
+**为什么这样写**：在同时具有两种阶段的鸟类、哺乳动物及人类中，两种阶段都不可替代；短句把多样性讨论统一到不可拆分的生理需要上。
 
 > **原句 5:** "Their sleep, of which there is only NREM, can be unihemispheric, meaning they will sleep with half a brain at a time!"
 
@@ -110,7 +110,7 @@ source_text: ch05
 
 **中文理解**：如果你在树枝或巢中睡得太沉，松垂的四肢就可能成为重力需要的全部邀请，让你迅速坠地、致命摔落，并被自然选择淘汰。
 
-**句子结构**：本句为条件状语从句 Become... 加结果主句；if 从句包含时间/让步状语 when slouched...，主句以 and 连接两个并列分句，第二个分句以现在分词短语 removing... 修饰致命坠落的结果。
+**句子结构**：本句是祈使式条件表达 Become... 加结果主句；when slouched... 交代姿势条件，主句以 and 连接两个并列分句，第二个分句以现在分词短语 removing... 修饰致命坠落的结果。
 
 **关键词**：slouched on a branch, dangling limb, life-ending fall, gene pool
 
@@ -146,7 +146,7 @@ source_text: ch05
 
 **中文理解**：根据这些线索，我提出一条定理：从树栖到地面生活的睡眠重构，是推动智人跃升到进化金字塔顶部的关键触发因素。
 
-**句子结构**：介词短语 From these clues 交代证据来源，主句 I offer a theorem，冒号后的 that 从句解释定理内容；主语为 the tree-to-ground reengineering of sleep，系动词为 was，a key trigger 为表语，that rocketed... 为结果从句。
+**句子结构**：介词短语 From these clues 交代证据来源，主句 I offer a theorem，冒号后的 the tree-to-ground reengineering... 是对定理内容的同位语说明；其中 was a key trigger 为系表结构，that rocketed... 为结果从句。
 
 **关键词**：From these clues, I offer a theorem, reengineering of sleep, key trigger, Homo sapiens
 

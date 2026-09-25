@@ -37,7 +37,7 @@ source_text: ch02
 
 > **原句 1:** "Do you think you got enough sleep this past week? Can you recall the last time you woke up without an alarm clock feeling refreshed, not needing caffeine?"
 
-**中文理解**：你想觉得自己上周睡够了吗？你还能否想起，最近一次醒来时没有闹钟催促、身体感觉精神焕发，而且不需要咖啡因是什么时候？
+**中文理解**：你认为自己上周睡够了吗？你还能否想起，最近一次醒来时没有闹钟催促、身体感觉精神焕发，而且不需要咖啡因是什么时候？
 
 **句子结构**：两个并列的特殊疑问句。第一个用 Do you think... 征询判断，第二个用 Can you recall... 征询回忆；not needing caffeine 与 feeling refreshed 共同描述理想状态。
 
@@ -75,7 +75,7 @@ source_text: ch02
 
 **中文理解**：然而，睡眠一直延续下来，甚至可以说英勇地延续；事实上，迄今研究过的每一个物种都会睡眠。
 
-**句子结构**：首句以 Yet 承接上文的进化压力，主系表结构为 sleep has persisted；Heroically so. 是省略主语和系动词的强调句；Indeed 引导的第三句用 every species studied to date 作主语，以现在完成时 sleeps 描述跨物种事实。
+**句子结构**：首句以 Yet 承接上文的进化压力，主系表结构为 sleep has persisted；Heroically so. 是省略主语和系动词的强调句；Indeed 引导的第三句用 every species studied to date 作主语，以一般现在时 sleeps 描述跨物种事实。
 
 **关键词**：Yet, persisted, Heroically so, every species
 
@@ -87,7 +87,7 @@ source_text: ch02
 
 **中文理解**：人体似乎没有任何重要器官，或大脑内部没有任何重要过程，不会在睡眠中得到最佳强化；反过来，睡眠不足时，它们都会受到不利损害。
 
-**句子结构**：there be 句型的否定强化式 There does not seem to be...；第一个 or 连接两个主语中心，that 引导定语从句修饰前面的名词，isn’t optimally enhanced 与括号内的 and detrimentally impaired... 构成 not only...but also 式反向对照。
+**句子结构**：主句为 there does not seem to be...；第一个 or 连接两个主语中心，that 引导定语从句修饰前面的名词；isn’t optimally enhanced 与括号内的 and detrimentally impaired... 构成反向补充对照。
 
 **关键词**：major organ, optimally enhanced, detrimentally impaired, there does not seem to be
 
@@ -111,7 +111,7 @@ source_text: ch02
 
 **中文理解**：可悲的是，在美国每小时都有一人因疲劳导致的错误死于交通事故；令人不安的是，疲劳驾驶造成的车辆事故比酒精和药物共同造成的事故还要多。
 
-**句子结构**：第一句是 there be 结构的数量陈述，every hour 提供时间频率，due to a fatigue-related error 说明原因；第二句主语为 vehicular accidents caused by drowsy driving，谓语 exceed，宾语为 those caused by alcohol and drugs combined。
+**句子结构**：第一句是 one person dies... 的主谓句，every hour 提供时间频率，due to a fatigue-related error 说明原因；第二句主语为 vehicular accidents caused by drowsy driving，谓语 exceed，宾语为 those caused by alcohol and drugs combined。
 
 **关键词**：every hour, fatigue-related error, drowsy driving, exceed
 
