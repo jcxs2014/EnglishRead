@@ -169,7 +169,6 @@ title: 书单
 | [Until August](books/novels/until-august-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [Waking the Warriors](books/novels/waking-the-warriors-by-ben-okri/) | Ben Okri |
-| [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
 | [What If It's You](books/novels/what-if-its-you-by-jilly-gagnon/) | Jilly Gagnon |
 | [Who Is the Liar](books/novels/who-is-the-liar-by-laura-lee-bahr/) | Laura Lee Bahr |
