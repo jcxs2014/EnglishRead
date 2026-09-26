@@ -18,7 +18,7 @@ source_text: ch09
 
 ## 故事梗概
 
-周三。代数课上她困得睁不开眼。英语课上 `Mr. Deavers` 让她清两次嗓子才抬头；他从不微笑，`He never smiles. It's always like he looks right through us, especially the girls.`。她要一张图书馆通行证印论文，他用 `pray tell` 拖着声腔追问，全班有人插话（`save the trees, for god's sake, let us turn stuff in online`），教室安静，她说 `I just need a pass so I can go print it out right now`，他以「今天有测验」拒绝，只准她午休时段补做。她想反驳（`My brain says: To be a giant asshole?`），心却同意（`Well, I have to agree on that one.`）。测验五十题，她一道也集中不了。美术课上 `Ms. Green` 扣她的小组发言分，说 `I'm not trying to be mean, Bella. Just fair.`；她注意到 `Lemon` 画的是一棵树，`Ms. Green` 让他 `Be the tree, Bella.`，她答 `I'm in the tree. Just up high, where you can’t see it.`。同一位老师还当面叫 `Lemon` 的本名——`There's no extra credit in my class, Rudy, and you had a doctor's note.`。午休她在图书馆等电脑，`Mr. Deavers` 低声说 `Happy holiday, Miss Leahey.`。放学 `Kristen` 提起万圣节派对，她答 `I'm not supposed to go to parties right now, remember? You all put me on probation.`
+周三。代数课上她困得睁不开眼。英语课上 `Mr. Deavers` 让她清两次嗓子才抬头；他从不微笑，`He never smiles. It's always like he looks right through us, especially the girls.`。她要一张图书馆通行证印论文，他用 `pray tell` 拖着声腔追问，全班有人插话（`save the trees, for god's sake, let us turn stuff in online`），教室安静，她说 `I just need a pass so I can go print it out right now`，他以「今天有测验」拒绝，只准她午休时段补做。她想反驳（`My brain says: To be a giant asshole?`），心却同意（`Well, I have to agree on that one.`）。测验五十题，她一道也集中不了。美术课上 `Ms. Green` 扣她的小组发言分，说 `I'm not trying to be mean, Bella. Just fair.`；她注意到 `Lemon` 画的是一棵树，`Ms. Green` 问她 `Are you the tree?`，`Lemon` 在旁边笑并接了一句 `Be the tree, Bella.`，她答 `I'm in the tree,` 又说 `Just up high, where you can't see it.`。同一位老师还当面叫 `Lemon` 的本名——`There's no extra credit in my class, Rudy, and you had a doctor's note.`。午休她在图书馆等电脑，`Mr. Deavers` 低声说 `Happy holiday, Miss Leahey.`。放学 `Kristen` 提起万圣节派对，她答 `I'm not supposed to go to parties right now, remember? You all put me on probation.`
 
 ## 精读
 
@@ -86,13 +86,20 @@ source_text: ch09
 
 > "“Be the tree, Bella.” … “I’m in the tree,” I say. “Just up high, where you can’t see it. I’m going to put that in, I swear."
 
-**中文理解**："成为那棵树吧，Bella。"——"我在树里，"我说，"在高处，你看不见的地方。"
+**中文理解**："成为那棵树吧，Bella。"——`Lemon` 说的（`Beside me, Lemon giggles.`）——"我在树里，"我说，"在高处，你看不见的地方。"
 
 **关键词**：Be the tree, Bella / I’m in the tree / Just up high, where you can’t see it
 
-**为什么这样写**：作业要求画一棵树并**分析创作过程**（`examine the process of the assignment`），而老师的批注是 `Be the tree, Bella.`——**一个双关：画树／成为那棵树**。而她的回答把整章的自我认知一次交出去：**`Just up high, where you can't see it.`**（在高处、你看不见的地方）——这与 ch03 的 `The stuff that no one can see`（没人看得见的东西）、ch02 的 `The stuff poking me and making me bleed` 构成同一条线，**只是这一次她主动选择了位置**，而不是被迫藏起来。`Lemon` 在旁边笑（`Be the tree, Bella.`）说明**只有他听见这句话是笑话**。
+**为什么这样写**：作业要求画一棵树并**分析创作过程**（老师原话 `examine the process of self-portraiture`），而这个双关**由两个人接力完成，句式都变了**：
 
-**读者视角提示**：本章最重要的一笔是 `I’m in the tree` 的**时态**——不是 `I'm getting in the tree`（正在爬进去），是**已经在了**。
+- **老师给的是条件句 + 问句**（`text/ch09` L137）：`I’m not sure I’m seeing you here, unless you are the tree. Are you the tree?`——「unless」把"你是不是那棵树"设成**前提**。
+- **`Lemon` 接的是祈使句**（L139）：`Beside me, Lemon giggles. "Be the tree, Bella."`——**命令句**。
+
+**同一个双关，问句与命令句之间隔着一次 `giggles`。** 作者把「画树／成为那棵树」这个双关拆给两个人：老师负责**提问**，同学负责**下达**。而她的回答 `Just up high, where you can't see it.`（在高处、你看不见的地方）把整章的自我认知一次交出去——这与 ch03 的 `The stuff that no one can see`（没人看得见的东西）、ch02 的 `The stuff poking me and making me bleed` 构成同一条线，**只是这一次她主动选择了位置**，而不是被迫藏起来。
+
+**⚠️ 说话人已核（2026-09-26 复核）**：`Be the tree, Bella.` 是 **`Lemon`**，不是老师——原文两句相邻且中间无换行标记，`Lemon giggles` 与引语在**同一句**里。本块初稿误记为「老师的批注」，已改。
+
+**读者视角提示**：本章最重要的一笔是 `I’m in the tree` 的**时态**——不是 `I'm getting in the tree`（**假设句，原文没有**，用来对照"正在爬进去"），是**已经在了**。
 
 ### ⑦
 
