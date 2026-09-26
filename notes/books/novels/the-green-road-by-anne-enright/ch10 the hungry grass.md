@@ -92,7 +92,7 @@ modified: "2026-09-27"
 | jersey | （针织）毛呢布 | Shauna stood where she was, slender in a dress of black jersey that just about covered the beautiful S of her backside. |
 | fretful | 焦躁的；不安的 | His father was a Catholic. He was the real thing. Sinner and supplicant, one of the fretfully unredeemed. |
 | glassware | 玻璃器皿 | She looked about her, at the faces moving, the food, the candles, the glassware, the yellow of the white wine and the brown of the red. |
-| Sell, sell, sell | （呼告）变卖呀，变卖呀，变卖呀 | And Sell sell sell, he thought. Give the money to the poor. Burn the fucking place down. |
+| Sell sell sell | （呼告）变卖呀，变卖呀，变卖呀 | And Sell sell sell, he thought. Give the money to the poor. Burn the fucking place down. |
 
 ### ⭐ 基础
 
