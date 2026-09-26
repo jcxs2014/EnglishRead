@@ -66,6 +66,32 @@ because chapter every chapter sunday monday tuesday wednesday thursday friday
 saturday prologue epigraph author copyright isbn www http https com org
 """.split())
 
+# ── 透明词（2026-09-26 ch07 实测后新增）─────────────────────────────
+# 症状：脚本的基础档给出 `find` / `file` / `drawer` / `grab` / `room` /
+# `front` / `calls` —— 这些是**透明词**（读者不需要查），我嫌它们
+# 「太像不值当列进词表」，**整档换成了从记忆里写的词**（`pack` / `throw up` /
+# `hang out` / `make up` / `stare at`），结果 8 条里 5 条出缺陷
+# （1 伪造 + 4 词典式词头）。
+#
+# ⇒ **根因是黑名单漏了透明词，不是使用者的疏忽。**
+# 与 COMMON 的区别：COMMON 挡的是「高频语法功能词」，TRANSPARENT 挡的是
+# 「高频但仍被当词表候选吐出来的内容词」——两者都要挡。
+# ⚠️ 增补 TRANSPARENT 时注意：把某个**本章真实要收录的词**加进来会造成漏，
+#   所以只加「任何一章都不值得单列」的那类。
+TRANSPARENT = set("""
+find finds found grab grabs grabbed file files filed drawer drawers room rooms
+front fronts call calls called calling keep keeps kept put puts putting
+look looks looked come comes came get gets got give gives gave
+take takes took make makes made move moves moved open opens opened close closes
+closed sit sits sat stand stands stood wait waits waited try tries tried
+want wants wanted need needs needed know knows knew think thinks thought
+feel feels felt say says said tell tells told ask asks asked
+work works worked live lives lived walk walks walked talk talks talked
+play plays played turn turns turned help helps helped start starts started
+leave leaves left begin begins began happen happens believe believes
+remember remembers understand understands mean means meant seem seems
+""".split())
+
 
 def chapter_text(book_dir, ch):
     """定位 text/chNN*.txt（书内命名多为 chNN_slug.txt）"""
@@ -120,9 +146,76 @@ def main():
     sents = sentences(src)
 
     seen, rows = set(), []
-    # 两遍：① min_len 以上的"生词"候选（高级/进阶）
-    #        ② 4..min_len-1 的短词（基础档）——否则基础档会空
-    for lo, hi, tiers in ((a.min_len, 0, True), (4, a.min_len, False)):
+
+    # ── 基础档：优先「短名词短语 / 介词短语」（2026-09-26 ch07 实测后加）──
+    # 症状：基础档原本按「4..min_len-1 的单词」抽，给出 find / file / drawer /
+    # grab / room / front / calls —— 全是**透明词**，我因此整档换成记忆里的词，
+    # 8 条里 5 条出缺陷。
+    # ⇒ 基础档改为抽**短语**：`a doctor's note` / `on probation` /
+    # `an extension` / `file drawer` 这类**学习者真会查的块**。
+    # 短语按出现次数降序（出现多次 = 本章更核心），且限定 2–3 词。
+    PHRASE_RE = re.compile(
+        r"\b(?:a|an|the|my|your|his|her|their|our)\s+"
+        r"([a-z][a-z'-]*(?:\s+[a-z][a-z'-]*)?)"
+        r"|\b(on|in|at|to|for|of|with|without|from|by|into|out of|off|down|up)\s+"
+        r"([a-z][a-z'-]*(?:\s+[a-z][a-z'-]*)?)", re.I)
+    ph_count, ph_pos = {}, {}
+    for m in PHRASE_RE.finditer(src):
+        tail = (m.group(1) or m.group(2) or '').strip()
+        words = tail.split()
+        if not words or len(words) > 2:
+            continue
+        if any(w.lower() in COMMON or w.lower() in TRANSPARENT for w in words):
+            continue
+        if any(len(w) < 3 for w in words):
+            continue
+        key = ' '.join(words).lower()
+        ph_count[key] = ph_count.get(key, 0) + 1
+        ph_pos.setdefault(key, m.start())
+
+    sents_cache = sents
+    # 末词是动词性词时**整条丢弃**（实测产出过垃圾块 `bench trying`：
+    # 原文 `...over the bench trying to get out` —— 介词 + 名词 + 动词
+    # 不构成可学的短语）。宁可少一条，也不给假短语。
+    VERBY = {'trying', 'getting', 'going', 'doing', 'saying', 'telling', 'looking',
+             'working', 'sitting', 'standing', 'walking', 'talking', 'being',
+             'having', 'making', 'taking', 'putting', 'using', 'letting',
+             'coming', 'feeling', 'thinking', 'knowing', 'seeing',
+             'wanting', 'needing', 'giving'}
+    for key in sorted(ph_count, key=lambda k: (-ph_count[k], k)):
+        if sum(1 for r in rows if r[0] == '⭐') >= max(8, a.limit // 3):
+            break
+        words = key.split()
+        _orig = key          # 保底：查 ph_pos 用原短语键
+        if words[-1].lower() in VERBY:
+            continue
+        # ⚠️ 二词短语的末词若是分词/副词/过去式，说明**名词短语还在继续**
+        # （实测 ch09 原文 `the bell ending lunch rings` 被抽成 `bell ending`
+        #  ——伪块）。**截断为一词**而不是丢弃（`bell` 本身仍是合格基础词）。
+        if len(words) == 2 and re.search(r'(ing|ly|ed)$', words[1]):
+            words = words[:1]
+            if words[0] in seen:
+                continue
+            # ⚠️ **只改展示用的 key，不改 ph_pos 的查表键**——否则
+            # `pos = ph_pos['bell']` 会 KeyError（ph_pos 是按原短语建的）。
+            # 这个 bug 让 ch09 直接崩溃，而我的回归脚本把崩溃当成
+            # 「0 条候选、0 缺陷」——**"0" 又一次来自工具坏掉**。
+            key = words[0]
+        pos = ph_pos[_orig]
+        ex = pick_sentence(sents_cache, pos, src, a.max_sent)
+        if not ex:
+            continue
+        # 短语必须在例句里**逐字**出现（保留原文大小写与撇号形态）
+        m2 = re.search(r'\b' + r'[\s\S]{0,12}?'.join(
+            re.escape(w) for w in re.findall(r"[A-Za-z][A-Za-z'-]*", key)) + r'\b', ex)
+        if not m2:
+            continue
+        surface = m2.group(0).strip()
+        rows.append(('⭐', surface, ex, pos))
+        seen.update(w.lower() for w in key.split())
+
+    # 高级/进阶：min_len 以上的"生词"候选
+    for lo, hi, tiers in ((a.min_len, 0, True),):
         # ⚠️ 实现坑：无上限时必须用 `{lo-1,}`，不能写 `{lo-1,0}`
         #（min > max 会抛 re.PatternError: min repeat greater than max repeat，
         #  位置 19）。第一版就这么写错了一次。
@@ -131,7 +224,7 @@ def main():
         for m in re.finditer(r"[A-Za-z]" + quant, src):
             w = m.group(0)
             lw = w.lower()
-            if lw in COMMON or lw in NOISE or lw in seen:
+            if lw in COMMON or lw in NOISE or lw in TRANSPARENT or lw in seen:
                 continue
             ex = pick_sentence(sents, m.start(), src, a.max_sent)
             # ⚠️ 实现坑：必须用**词边界**判词头是否在例句里，不能用 `w in ex`
