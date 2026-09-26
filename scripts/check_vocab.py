@@ -19,6 +19,21 @@ check_vocab.py — 词汇表真实性/分档检测（逐章版）
   3. 分档合理性：⭐ 基础档含超纲生僻词 / ⭐⭐⭐ 高级档混入高频常用词 → WARN
   4. 占位/自标注：例句列"—"/"no"/释义含"可略"/"未出现" → FAIL
 退出码：存在 fail 则非 0。
+
+改动（v3，方案 P0-2 / P0-2b，2026-09-26）
+------------------------------------------------
+1. **节边界（P0-2b）**：旧实现 tier 一旦命中就**再也不复位**，同一文件里
+   `## 可迁移表达` / `## 论证结构`（证据链）/ `## 概览` 等任意表格的行都被当词条行
+   计数。现只扫 `## 词汇` 节（兼容英文 `## Vocabulary`）。全库实测排除 4716 行
+   （2.6%），并对**词汇节外的词条形行显式报 WARN**——静默丢弃会造新盲区。
+   无 `## 词汇` 节标题的文件**回退全文件扫描** + 格式 WARN，不丢覆盖。
+2. **按表头名定位列（P0-2）**：旧口径 `cells[:3]` 遇 4 列表
+   （`词汇|音标|释义|例句` / `词汇|词性|释义|例句`）会把音标/词性当例句，
+   **真例句列从不校验**。全库实测此类表 264+ 张命中此盲区。
+   现按表头名（词/释义/例句）定位列号；表头行取 sentinel **之前**那一行
+   （标准 markdown 是「表头 → |---| → 数据行」）。
+3. 本版同时修掉两个自伤：resolve_cols 回退候选未排除词头列（中文例句列会让
+   xi 落到词头上 → 假 FAIL）；表头行识别方向搞反（把数据行当表头）。
 """
 import re, sys, glob, os, zipfile, html as htmlmod, unicodedata
 
@@ -46,6 +61,60 @@ PH_HIT    = re.compile(r'^[—\-]\s*$')            # 例句列 = 纯占位
 NO_HIT    = re.compile(r'^\s*no\s*$', re.I)      # 例句列 = no
 ANN_HIT   = re.compile(r'[（()](可略|未出现|未在|此处未用|可省|略|见高级|见ch)[)）]')  # 释义自标（含全角/半角括号 + 扩展关键词）
 EPUB_SENTINEL = re.compile(r'\[以下例句未出现在原文，[^\]]+\]', re.IGNORECASE)
+
+# ── P0-2b 词汇表节边界（2026-09-26）────────────────────────────────────────
+# 旧实现 tier 一旦被 TIER_PAT 命中就**再也不复位**，于是同一文件里
+# 「可迁移表达」「论证结构」「段落脉络」等任意表格的行都被当词条行计数。
+VOCAB_SEC = re.compile(r'^##\s.*(词汇|vocab|word\s*list|lexicon)', re.I)
+H2_PAT    = re.compile(r'^##\s')
+
+# 表头角色定位（P0-2）。全库表头实测：3 列 `词/短语|释义|例句` 为主，
+# 另有 `词汇|音标|释义|例句` / `词汇|词性|释义|例句` 两类 4 列——旧口径
+# cells[:3] 会把「音标/词性」当例句，**真例句列从不校验**。
+HDR_ENTRY = ('词/短语', '词条', '单词/短语', '单词', '词汇', '短语', '表达', 'word', 'term', 'phrase')
+HDR_MEAN  = ('释义', '含义', '意思', '解释', 'definition', 'meaning', 'gloss')
+HDR_EXAM  = ('例句', '原文例', '例 句', 'example', 'sentence', 'citation')
+
+
+def resolve_cols(cells):
+    """按**表头名**定位 entry/meaning/example 列号。返回 (ei, mi, xi)。
+
+    找不到可识别的表头时返回 None，由调用方回退旧口径 (0, 1, 2)。
+    分档表头行（`⭐⭐⭐ 高级 | 释义 | 例句`）无 entry 列 → entry 缺省 0。
+
+    ⚠️ 回退候选**必须排除已定位的 entry/释义列**：否则一行
+    `epiphany | 顿悟 | （本章未出现，预估后续章节）` 会被解析成 xi=0
+    （唯一含 ≥8 字母数字的列就是词头自己），例句变成词头 → 假 FAIL。
+    """
+    def find(kws, skip=()):
+        for i, c in enumerate(cells):
+            if i in skip:
+                continue
+            cl = c.strip().lower()
+            if any(k in cl for k in kws):
+                return i
+        return None
+    ei = find(HDR_ENTRY)
+    mi = find(HDR_MEAN, skip=(ei,) if ei is not None else ())
+    xi = find(HDR_EXAM, skip=tuple(i for i in (ei, mi) if i is not None))
+    if xi is None:
+        # 无「例句」表头 → 最后一个含 ≥8 字母数字的列（兼容 4 列无名表头）
+        skip = {i for i in (ei, mi) if i is not None}
+        cands = [i for i, c in enumerate(cells)
+                 if i not in skip and len(re.findall(r'[A-Za-z0-9]', c)) >= 8]
+        if not cands:
+            return None
+        xi = cands[-1]
+    if mi is None:
+        mi = 1 if xi != 1 else 0
+    if ei is None:
+        ei = 0 if mi != 0 else 1
+    if not (0 <= ei < len(cells) and 0 <= mi < len(cells) and 0 <= xi < len(cells)):
+        return None
+    if xi == ei:                      # 例句列与词头列重合 → 判定不可信，回退
+        return None
+    return ei, mi, xi
+
 
 
 def load_epub_book(epub_path):
@@ -164,16 +233,58 @@ def check_book(book_dir, verbose=False):
 
         tier = None
         n_rows = 0
-        for line in open(f, encoding='utf-8'):
-            hm = TIER_PAT.match(line.strip())
+        # ── P0-2b 两遍：先判本文件有无词汇节，再决定扫描范围 ──────────
+        lines = open(f, encoding='utf-8').read().splitlines()
+        has_vocab_sec = any(VOCAB_SEC.match(l.strip()) for l in lines)
+        if not has_vocab_sec:
+            # 无节标题 → 回退全文件扫描（宁可多查不可静默丢覆盖），并报格式 WARN。
+            # 实测 14 个真章节属此情形（natural-selection / unearthed 用英文
+            # `## Vocabulary` 者已由 VOCAB_SEC 覆盖，此处是连节标题都没写）。
+            warns.append((name, None, '无 `## 词汇` 节标题，已按全文件扫描（格式应补节标题）', ''))
+        in_vocab = not has_vocab_sec          # 无节标题时全文件都算
+        sec_name = '(全文)'
+        stray = {}                            # 节名 → 被排除的词条形行数
+        hdr = None                            # 表头定位结果 (ei, mi, xi)
+        prev_cells = None                     # sentinel 之前那一行 = 候选表头
+        for line in lines:
+            s = line.strip()
+            # ── 节边界：H2 切换 in_vocab；H3 分档切 tier ──
+            if H2_PAT.match(s):
+                in_vocab = (not has_vocab_sec) or bool(VOCAB_SEC.match(s))
+                sec_name = s.lstrip('#').strip()
+                tier = None; hdr = None; prev_cells = None
+                continue
+            hm = TIER_PAT.match(s)
             if hm:
-                tier = hm.group(1); continue
-            if SENTINEL.match(line) or '|---' in line:
+                tier = hm.group(1); hdr = None; prev_cells = None
                 continue
-            cells = [c.strip() for c in line.strip().strip('|').split('|')]
-            if len(cells) < 2 or not any(re.search(r'[A-Za-z]{2,}', c) for c in cells[:1]):
+            if not s.startswith('|'):
+                prev_cells = None
                 continue
-            entry, meaning, example = (cells + ['', ''])[:3]
+            if SENTINEL.match(s) or '|---' in s:
+                # 标准 markdown 顺序是「表头 → |---| → 数据行」，故表头是
+                # sentinel **之前**那一行。取到就定位列号（第一版误把 sentinel
+                # 之后的行当表头，导致数据行被解析 → 假 FAIL）。
+                hdr = resolve_cols(prev_cells) if prev_cells else None
+                prev_cells = None
+                continue
+            cells = [c.strip() for c in s.strip('|').split('|')]
+            if len(cells) < 2:
+                prev_cells = None
+                continue
+            prev_cells = cells                   # 供下一条 sentinel 回填用
+            ei, mi, xi = hdr if hdr else (0, 1, 2)
+            if ei >= len(cells) or not re.search(r'[A-Za-z]{2,}', cells[ei]):
+                continue
+            if not in_vocab:
+                # 词汇节之外的词条形行：不计入，但**必须显式报出**——
+                # 静默丢弃会造新盲区（§8.6）。典型成因是同一文件里
+                # `## 精读` 下又摆了一份重复词汇表（Addie Laud ch36 实测 348 行）。
+                stray[sec_name] = stray.get(sec_name, 0) + 1
+                continue
+            entry = cells[ei]
+            meaning = cells[mi] if mi < len(cells) else ''
+            example = cells[xi] if xi < len(cells) else ''
             words = [w.lower() for w in re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", entry)]
             words = [w for w in words if w not in ('the','a','an','of','in','on','to','and','or')]
             if not words:
@@ -213,6 +324,10 @@ def check_book(book_dir, verbose=False):
                 warns.append((name, tier, '高级档混入常用词', entry))
 
         total_rows += n_rows
+        for sec, k in sorted(stray.items(), key=lambda x: -x[1]):
+            warns.append((name, None,
+                          f'词汇节外有 {k} 行词条形表格（`{sec}`）已排除——'
+                          f'格式应把词汇表归入 `## 词汇` 节，否则等于重复登记', ''))
 
     return {'fails': fails, 'warns': warns, 'rows': total_rows}
 
