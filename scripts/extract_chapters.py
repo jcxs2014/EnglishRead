@@ -49,6 +49,9 @@ def main():
     opf_path = posixpath.dirname(re.search(r'full-path="([^"]+)"', container).group(1))
     opf_file = re.search(r'full-path="([^"]+)"', container).group(1)
     opf = z.read(opf_file).decode('utf-8', 'ignore')
+    # 书名（用于剥书眉）：dc:title 首个
+    _mt = re.search(r'<dc:title[^>]*>(.*?)</dc:title>', opf, re.S)
+    book_title = html.unescape(re.sub(r'\s+', ' ', _mt.group(1))).strip() if _mt else ''
 
     manifest = {}
     for it in re.findall(r'<item\b[^>]*/?>', opf):
@@ -66,7 +69,39 @@ def main():
                 if lm and sm:
                     labels[posixpath.normpath(posixpath.join(opf_path, unquote(html.unescape(sm.group(1)).split('#')[0])))] = html.unescape(lm.group(1))
 
-    skip_pat = re.compile(r'(cover|copyright|colophon|\bcontents\b|toc|title[_ ]?page|other ?books|dedication|acknowledg|\bnotes\b(?! on the writing)|appendix|translator|bibliograph|\bindex\b|epigraph|about ?the ?author|praise ?for|excerpt|newsletter|noteon|sign.?up)', re.I)
+    # ── 装置页（非正文）判定：2026-09-26 重写 ──
+    # **原实现是子串搜索，而被搜的是章节标题（可能是散文性文字），23 个探针里 6 个
+    # 误判**，其中 3 个方向最危险——**静默丢掉真实章节**：
+    #   `Today You Will Rediscover…`  被 `cover` 命中（discover ⊃ cover）——整章丢失
+    #   `Protocol` / `Stockholm`      被 `toc` 命中（toc ⊂ protocol / stockholm）
+    #   `The Cover Letter`           被 `Cover` 命中
+    # 另有 2 个反向漏进：`Resources` / `Reading Group Guide` 不在任何分支里。
+    # 改为**标签精确匹配**（出版商 nav 标签是干净短标签）+ **词边界路径判据**。
+    BOILER_LABEL = {
+        'cover', 'cover image', 'front cover', 'back cover', 'cover page',
+        'title page', 'half title', 'copyright', 'colophon', 'imprint',
+        'contents', 'table of contents', 'toc', 'dedication',
+        'acknowledgment', 'acknowledgments', 'acknowledgement', 'acknowledgements',
+        'about the author', 'about the artist', 'also by', 'also by the author',
+        'epigraph', 'index', 'resources', 'reading group guide', 'reader guide',
+        'excerpt', 'newsletter', 'sign up', 'other titles', 'other books',
+        'works by', 'selected bibliography', 'bibliography', 'notes', 'endnotes',
+        'footnotes', 'praise for', 'about the publisher',
+    }
+    # 出版商固定文件名 + 导航文档 + 促销页
+    BOILER_PATH = re.compile(
+        r'_(cov|tp|cop|ctc|toc|ded|ack|ata|rsc|excerpt|newsletter|promo|ssd|bmn|cue|int|nav|ncx)\d*_'
+        r'|(^|[/_-])(nav|ncx|toc|next-?reads?|promo|advert|ads?)\.xhtml$', re.I)
+
+    def _label_key(s):
+        return re.sub(r'[^a-z0-9 ]+', ' ', (s or '').lower()).strip()
+
+    def is_boilerplate(title, path, text_head):
+        # ⚠️ nav 标签缺失时用**正文首行兜底**——否则装置页没有标签可测，
+        # 只能靠长度放行（实测出版社促销页 "Discover your next great read!"
+        # 无 nav 标签，1187 字符 > min_len，于是被当正文收进来）。
+        lab = _label_key(title) or _label_key(text_head[:60])
+        return lab in BOILER_LABEL or bool(BOILER_PATH.search(path))
     out_dir = a.out_dir or '.'
     os.makedirs(out_dir, exist_ok=True)
     written, skipped = [], []
@@ -79,17 +114,33 @@ def main():
         raw = z.read(path).decode('utf-8', errors='ignore')
         text = clean(raw)
         title = labels.get(posixpath.normpath(path), '')
-        is_story = len(text) > a.min_len and not (skip_pat.search(title) or skip_pat.search(path.split('/')[-1]))
+        is_story = len(text) > a.min_len and not is_boilerplate(
+            title, path.split('/')[-1], text)
         if not is_story:
             skipped.append((path.split('/')[-1], title or '(no label)', len(text)))
             continue
         body = text
-        # 去掉文件头部的书名横幅行（如 "The Stories of Vladimir Nabokov"）
-        first_lines = [l for l in body.split('\n') if l][:3]
-        for fl in first_lines:
-            if fl.strip().lower().startswith(('the stories of', 'stories of')) and len(body.split('\n')) > 2:
-                body = '\n'.join(l for l in body.split('\n')[1:] if True).strip()
-                break
+        # ── 去掉文件头部的书眉/书名横幅行 ──
+        # 原实现只认 `the stories of` / `stories of`，是**为某一本书写死的补丁**。
+        # 改为通用规则：首行等于书名、或以「, 书名」结尾（出版商 running head 惯例，
+        # 实测 `Continued, The Glass Girl` / `Friday, The Glass Girl`），一律删掉。
+        # 不删的后果：① 提取件首行不是正文首句，`verify_corpus` 首末句抽印与
+        # AGENTS 第 8 条 8.1「先摘录」都会取到书眉；② slug 回落到文件名
+        # （`ch02_chap2.txt`），章节名丢失。
+        blines = body.split('\n')
+        nz = [i for i, l in enumerate(blines) if l.strip()]
+        if nz and len(nz) > 1:
+            first = blines[nz[0]].strip()
+            hit = False
+            if book_title:
+                bt = re.sub(r'\s+', ' ', book_title).strip().lower()
+                fl = re.sub(r'\s+', ' ', first).strip().lower()
+                hit = (fl == bt) or fl.endswith(', ' + bt) or fl.endswith(' ' + bt)
+            if not hit and first.lower().startswith(('the stories of', 'stories of')):
+                hit = True
+            if hit:
+                del blines[nz[0]]
+                body = '\n'.join(blines).strip()
         slug = slugify(title, f'chap{n}')
         target = f"{a.prefix}{n:02d}_{slug}.txt"
         open(f"{out_dir}/{target}", 'w').write(body + "\n")
