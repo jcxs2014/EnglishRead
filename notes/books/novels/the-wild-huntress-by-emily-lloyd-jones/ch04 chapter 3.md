@@ -120,7 +120,7 @@ source_text: ch04
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | knack (n.) | （此处 a knack for：一种独门本事） | She kept quiet about her eye and simply let the villagers think that she had a knack for finding the unseen. |
-| stagger (v.) | （此处 stagger：踉跄、站立不稳） | The shock had her staggering, and instinctively, her hand rose up to protect her cheek. |
+| staggering (v.) | 踉跄、站立不稳 | The shock had her staggering, and instinctively, her hand rose up to protect her cheek. |
 | gooseflesh (n.) | 鸡皮疙瘩 | Her bare forearms were prickled with gooseflesh, and her feet were bare and muddied. |
 | livestock (n.) | 牲畜 | Sooner or later, they would attack livestock. |
 | hilt (n.) | （刀的）柄 | She quickened her step, her hand resting on the hilt of her dagger. |

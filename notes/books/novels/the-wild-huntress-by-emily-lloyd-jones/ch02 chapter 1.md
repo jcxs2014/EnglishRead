@@ -112,7 +112,7 @@ source_text: ch02
 | sodden (adj.) | 湿透的（形容词后置） | She wore a white gown sodden with creek water. |
 | sun-warmed (adj.) | 被阳光晒暖的 | The lush scent of sun-warmed blackberries made her stomach clench with hunger. |
 | ordinary-looking (adj.) | 看上去极其普通的 | The hunt to find him had led Branwen to this briar patch and this very ordinary-looking traveler. |
-| lodge (v.) | 卡住、嵌在（此处指箭镞留在胸腔） | An iron-tipped arrow had pierced the maiden’s chest and lodged there. |
+| lodged (v.) | 卡住、嵌在（此处指箭镞留在胸腔） | An iron-tipped arrow had pierced the maiden’s chest and lodged there. |
 
 ### ⭐⭐ 进阶
 
@@ -124,7 +124,7 @@ source_text: ch02
 | merrily (adv.) | 欢快地、兴高采烈地 | Sunlight danced merrily upon the water. |
 | gorse (n.) | 荆豆（可驱魔的干叶） | Branwen shoved a hand into her pocket and withdrew a handful of dried gorse. |
 | snare (n.) | 套索、陷阱 | She thrashed like an animal caught in a snare, but the grip was unbreakable. |
-| smother (v.) | 闷熄、扑灭（此处指铁压制魔法） | It smothered magic, like dirt poured on flames. |
+| smothered (v.) | 闷熄、扑灭（此处指铁压制魔法） | It smothered magic, like dirt poured on flames. |
 | cyhyraeth (n.) | cyhyraeth（威尔士传说中预告死亡的海妖） | A cyhyraeth. A maiden of bracken, bone, and driftwood. |
 | barwn (n.) | barwn（威尔士语：贵族） | A noble, Barwn Ifor, lost his son a few weeks ago, after the young man ventured too near Annwvyn. |
 | spirits (n.) | 烈酒（此处指她喝的那口酒） | She swallowed instinctively, and a few drops of the spirits slipped down her throat. |

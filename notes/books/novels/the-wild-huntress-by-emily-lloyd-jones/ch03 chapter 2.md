@@ -113,7 +113,7 @@ source_text: ch03
 | dozed (v.) | 打盹（此处拟人写橡树） | The old oak dozed in the morning sunlight, its golden and brown leaves fluttering in the breeze. |
 | proffered (adj.) | 主动递出的（此处形容橡树垂下的枝） | Gwydion took hold of the proffered branch and heaved himself upward. |
 | heft (v.) | 举起、托起（此处形容橡树把他扛上肩） | Once he was secure, the oak shifted again, lifting him the way an adult might heft a child to their shoulder. |
-| simmer (v.) | 慢煮、煨（此处形容 Amaethon 的嗓音） | “Come down, Gwydion,” said Amaethon, voice like simmering coals. |
+| simmering (v.) | 慢煮、煨（此处形容 Amaethon 的嗓音） | “Come down, Gwydion,” said Amaethon, voice like simmering coals. |
 | glowered (v.) | 怒视、阴沉地瞪 | Amaethon glowered at her. |
 | tufts (n.) | （毛发的）一簇、一撮 | He reached to pluck several tufts of fur from the thorns. |
 | rustled (v.) | （树叶）沙沙响 | The wind rustled through the browning leaves, and there was an answering groan. |
