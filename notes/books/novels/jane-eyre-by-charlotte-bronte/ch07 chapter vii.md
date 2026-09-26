@@ -40,7 +40,7 @@ modified: "2026-09-27"
 
 中文理解：可惜布罗克赫斯特先生没能也看见她们；否则他也许会觉得，无论他能把杯盘的外表怎么样，杯盘里面的东西比他以为的更远远地在他的干预之外。
 关键词：a pity Mr. Brocklehurst could not see them too, the outside of the cup and platter, the inside was further beyond his interference than he imagined
-为什么这样写：一个 "outside／inside" 的对照把"剪头发"降格成一件只能动外表的事，而真正的部分（想法、看法、信仰）被判定为**超出他的管辖**；句子用虚拟语气（he would, perhaps, have felt）把反击藏在假设里，是简第一次不动声色地赢。
+为什么这样写：一对 outside 与 inside 的对照把"剪头发"降格成一件只能动外表的事，而真正的部分（想法、看法、信仰）被判定为**超出他的管辖**；句子用虚拟语气（he would, perhaps, have felt）把反击藏在假设里，是简第一次不动声色地赢。
 读者视角提示：这一句是简的智力第一次压过布罗克赫斯特；此后她每一次赢他都靠同一招——不吵，只指出他管不着的那一半。
 
 > **原句 5:** "“Another minute, and she will despise me for a hypocrite,” thought I; and an impulse of fury against Reed, Brocklehurst and Co. bounded in my pulses at the conviction. I was no Helen Burns."

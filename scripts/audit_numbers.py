@@ -226,7 +226,7 @@ def main():
                 unresolved.append((name, i, '%s个%s' % (m.group(1), unit),
                                    '「N 个词」指引语内某子短语，无法机械定位，不判'
                                    '（整条引语 %d 词）' % nwords(tgt)))
-            for m in re.finditer(r'(%s+)\s*个\s*分句' % NUMC, l):
+            for m in re.finditer(r'(%s)\s*个\s*分句' % NUMC, l):
                 n_claims += 1
                 # **一律未判**：本库「分句」口径不统一——按 `，,；;` 切得 6、
                 # 按 `.!?…` 切得 1，同一条断言两种算法差 5 倍（实测 all-our-yesterdays

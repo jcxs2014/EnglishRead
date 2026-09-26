@@ -40,7 +40,7 @@ modified: "2026-09-27"
 
 中文理解：你看；为了从你、或坦普尔小姐、或任何一个我真心爱的人那里，换得一点真正的 affection，我心甘情愿让人敲碎我胳膊的骨头，或让公牛把我挑起来，或站到一匹踢人的马背后，让它的蹄子朝我胸口踢过来——
 关键词：to gain some real affection, I would willingly submit to have the bone of my arm broken, or to let a bull toss me, or to stand behind a kicking horse, let it dash its hoof at my chest
-为什么这样写：三个 "or" 把愿意付出的代价排成一条从轻到重的斜坡（敲碎骨头／被挑起／被马踢穿胸口），而这条斜坡的顶端只换来"some real affection"（一点真正的爱）——极重的代价配极小的收益，这就是简的定价。
+为什么这样写：四个 "or" 把愿意付出的代价排成一条从轻到重的斜坡（敲碎骨头／被挑起／被马踢穿胸口），而这条斜坡的顶端只换来"some real affection"（一点真正的爱）——极重的代价配极小的收益，这就是简的定价。
 读者视角提示：这是简第一次把"爱"当作**交换物**来谈；海伦立刻用 "you think too much of the love of human beings" 顶回去——两人的分歧从此不再是"受不受罚"，而是"值不值得为人的爱去受苦"。
 
 > **原句 5:** "“Well, now, Jane, you know, or at least I will tell you, that when a criminal is accused, he is always allowed to speak in his own defence. You have been charged with falsehood; defend yourself to me as well as you can. Say whatever your memory suggests as true; but add nothing and exaggerate nothing.”"

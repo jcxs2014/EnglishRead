@@ -26,7 +26,7 @@ modified: "2026-09-27"
 
 中文理解：然后我醒了；然后我记起自己在哪里、是什么处境；然后我在那张没有窗帘的床上坐起来，发抖、发颤；于是那静默的、暗夜旁观了绝望的抽搐，听见了激情迸裂的声音。
 关键词：Then I awoke, then I recalled where I was, and how situated, curtainless bed, trembling and quivering, the still, dark night witnessed the convulsion of despair
-为什么这样写：三个 "then" 排成一条下坠的阶梯，醒来之后不是缓冲而是一层层复原现实；最后一句把夜晚写成**证人**（witnessed… heard），于是她的崩溃不再只是私事，而是被黑暗本身记录在案的事件。
+为什么这样写：四个 "then" 排成一条下坠的阶梯，醒来之后不是缓冲而是一层层复原现实；最后一句把夜晚写成**证人**（witnessed… heard），于是她的崩溃不再只是私事，而是被黑暗本身记录在案的事件。
 读者视角提示："curtainless bed"（没有窗帘的床）是一个精确的贫穷注脚：盖茨海德的红房子有猩红帷幔，莫顿教员宿舍只有一张光床；两处床的差别就是简这十年走过的距离。
 
 > **原句 3:** "He seemed to say, with his sad and resolute look, if he did not say it with his lips, “I love you, and I know you prefer me. It is not despair of success that keeps me dumb; if I offered my heart, I believe you would accept it. But that heart is already laid on a sacred altar—the fire is arranged round it; it will soon be no more than a sacrifice consumed.”"
@@ -54,7 +54,7 @@ modified: "2026-09-27"
 
 中文理解：唉！我们的时代的读者没那么有福。但要有勇气！我既不打算停下来控诉，也不打算停下来抱怨。我知道诗没有死，天才也没有失落；财神也没有取得凌驾于它们之上的力量来捆缚或杀害它们；总有一天，它们会重新宣示自己的存在、自己在场、自己的自由与力量。
 关键词：the readers of our era are less favored, But, courage, I will not pause either to accuse or repine, poetry is not dead, nor genius lost, nor has Mammon gained power over either, to bind or slay
-为什么这样写：圣约翰在这里以议论者的身份说话，三个 "nor" 把"诗没死／天才没失落／财神没得势"排成一列；Alas 与 But, courage! 相邻，反问与呼告只用一次叹号和一次逗号分开——他把同情与催促压在同一个呼吸里。
+为什么这样写：圣约翰在这里以议论者的身份说话，两个 "nor" 把"诗没死／天才没失落／财神没得势"排成一列；Alas 与 But, courage! 相邻，反问与呼告只用一次叹号和一次逗号分开——他把同情与催促压在同一个呼吸里。
 读者视角提示：这段是全书对**书与作者**的第一次正面辩护（他送的是一本诗集）；他说"我们的时代读者没那么有福"，与他自称"不是诗人"（前一段说他 bound 不了 the poet）恰好相反——这个自相矛盾正是简后来能撬开他的缝。
 
 > **原句 7:** "I’ll try if I cannot discover the secret spring of your confidence, and find an aperture in that marble breast through which I can shed one drop of the balm of sympathy."
