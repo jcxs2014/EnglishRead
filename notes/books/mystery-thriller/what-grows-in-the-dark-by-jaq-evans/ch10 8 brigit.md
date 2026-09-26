@@ -51,15 +51,15 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** “If we show up,” he said, “we’re getting murdered. Right?” / “Oh, most definitely. Are you up for it?”
+> **原句 4:** “If we show up,” he said, “we’re getting murdered. Right?”
 
-**中文理解：** "如果我们露面，"他说，"我们会被杀掉。对吧？" / "哦，非常可能。你敢不敢？"
+**中文理解：** "如果我们露面，"他说，"我们会被杀掉。对吧？"
 
-**关键词：** we’re getting murdered. Right? / Oh, most definitely. / Are you up for it?
+**关键词：** If we show up / we’re getting murdered. Right?
 
-**为什么这样写：** 一句玩笑话里藏着一个转折：Ian 用"被杀"把风险说成笑话，Brigit 用"非常可能"把他的玩笑**接住并拧真**——她不是在吓他，是在确认"你怕的是不是这个"。两个人用最轻的语气谈论最重的事，是这本书处理危险的一贯调子。Right? 把问句丢回给对方，让读者也必须在"去"和"不去"之间选一次。Are you up for it?（你敢不敢）把风险转成邀请——这一刻她不是被调查的对象，是带队的人。
+**为什么这样写：** 一句玩笑话里藏着一个转折：Ian 用"被杀"把风险说成笑话，而 Right? 把问句丢回给对方，**让读者也必须在"去"和"不去"之间选一次**。这句话的语气轻得像在讨论晚餐，而内容是两个人即将走进一片吞过孩子的地方——**这本书处理危险的一贯调子，就是用最轻的语气谈论最重的事。**
 
-**读者视角提示：** 这是 Brigit 全书第一次"领着 Ian 走"；对照 ch01 是 Ian 说服她来此地，两人的位置完全调换了。
+**读者视角提示：** 他的回答在下一句（Brigit 的 "Oh, most definitely. Are you up for it?"）——**那一刻她不是被调查的对象，是带队的人。**
 
 ---
 

@@ -51,11 +51,11 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** He stopped, the others coming to ungraceful halts behind him.
+> **原句 4:** He stopped, the others coming to ungraceful halts behind them.
 
 **中文理解：** 他停住了，**其他人跟在他身后，狼狈地一个接一个刹住**。
 
-**关键词：** ungraceful halts / behind him
+**关键词：** ungraceful halts / behind them
 
 **为什么这样写：** 作者用一个全副副词（ungraceful，**不优雅地**）来写四个成年人急停的瞬间，把一次军事／行动场面写成**一群人不合时宜的滑稽**。而 halts（停顿）这个复数名词让"停"变成一个**接二连三的连锁反应**——**一个人发现，所有人都必须跟着显得狼狈**。这句的幽默与其说是喜剧，不如说是**人物关系的速写**：Ian's 停不是命令，是他**身体先动**，而另外三个人只能追。
 

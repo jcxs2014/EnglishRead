@@ -35,7 +35,7 @@ modified: "2026-09-25"
 
 **为什么这样写：** 作者用三个词（其中一个重复）写完 Ian 醒来后的全部世界：第一个 Pain 是一块石头，第二个 Pain and absence（痛与空缺）才是真相——**他失去的不是记忆，是"感觉"。** absence（空缺、缺席）这个词在全书里第一次不带"人"出现：不是 Emma 的缺席、不是 Ian 的缺席，而是**他心里那个洞本身**。三个词不加任何解释，像一份被削到最短的伤情报告。
 
-**读者视角提示：** "absence"与 ch07 "something that slides and slips"、ch12 "thousands of fingers"是同一条神经；Ian 的伤疤与 Brigit 的伤疤在此对称。
+**读者视角提示：** "absence"与 ch07 那段"从泪道钻进颅内的虫"、ch12 的 "thousands of fingers"是同一条神经——**三处都把侵入写成一种触感，而触感是这本书里唯一不受意志管辖的通道**；Ian 的伤疤与 Brigit 的伤疤在此对称。
 
 ---
 

@@ -51,15 +51,15 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** “She could also make you feel whatever she felt, though I’m not sure she always knew she was doing it.” / “I suppose I thought Brigit might be exactly the same, or completely the opposite.”
+> **原句 4:** “She could also make you feel whatever she felt, though I’m not sure she always knew she was doing it.”
 
-**中文理解：** "她还能让你感受到她所感受到的，尽管我不确定她是不是总知道自己正在这么做。" / "我想我以为 Brigit 或许会和她**完全一样**，或者**完全相反**。"
+**中文理解：** "她还能让你感受到她所感受到的，尽管我不确定她是不是总知道自己正在这么做。"
 
-**关键词：** make you feel whatever she felt / not sure she always knew she was doing it / exactly the same, or completely the opposite
+**关键词：** make you feel whatever she felt / not sure she always knew she was doing it
 
-**为什么这样写：** 第一句是全书对 Emma **最重要的一次描述**，也是一个心理学式的冷判断：**她有情绪传染的能力，而且不自知**。whatever she felt（她所感受到的）这个回声结构是关键——**不是她让你感同身受，是她把自己的感受塞了进来**。而第二句的"完全一样／完全相反"是一个二选一的陷阱：**Alicia 承认她其实并不了解 Brigit**（exactly the same, or completely the opposite＝两者都不敢排除）。这让 Ian 的下一句玩笑（"有些东西是遗传的"）显得既轻佻又准确。
+**为什么这样写：** 这是全书对 Emma **最重要的一次描述**，也是一个心理学式的冷判断：**她有情绪传染的能力，而且不自知**。whatever she felt（她所感受到的）这个回声结构是关键——**不是她让你感同身受，是她把自己的感受塞了进来**。而 though I’m not sure（我不确定）把这个判断再次退让一步：**连说这句话的人都不敢把话说满**。这句话由 Alicia 说出，而她口中的 Emma 正是 ch07 电话里那个"像广告"的声音——**同一个人的两种评价，来自两个不同年代的人。**
 
-**读者视角提示：** "情绪传染"这一机制在 ch33 与 ch39 会成为 Brigit 自觉使用的工具；她 ch01 说的"You ask, I deliver"就是它的商业版。
+**读者视角提示：** "情绪传染"这一机制在 ch33 与 ch39 会成为 Brigit 自觉使用的工具；ch01 她的那句 "You ask, I deliver"（你问，我给）就是它的商业版。
 
 ---
 

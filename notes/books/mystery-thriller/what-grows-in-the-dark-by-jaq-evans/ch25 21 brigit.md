@@ -51,13 +51,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** Her body continued without her brain… bad enough they’d all seen her crying, reaching for Ian like a goddamn Renaissance painting.
+> **原句 4:** Bad enough they’d all seen her crying, reaching for Ian like a goddamn Renaissance painting.
 
-**中文理解：** ……他们全都已经看见她哭、看见她伸手去摸 Ian，**像一幅该死的文艺复兴名画**。
+**中文理解：** 他们全都已经看见她哭、看见她伸手去摸 Ian，**像一幅该死的文艺复兴名画**。
 
-**关键词：** reaching for Ian / like a goddamn Renaissance painting
+**关键词：** Bad enough / they’d all seen her crying / reaching for Ian / like a goddamn Renaissance painting
 
-**为什么这样写：** 作者让 Brigit 用**艺术史**来嘲弄自己：Renaissance painting（文艺复兴名画）专指那些构图庄重、姿态暧昧、意义待解的画——而她伸手摸一个昏迷男人脸的样子，**正好像一幅被后人过度解读的宗教画**。goddamn（该死的）把她从艺术评论里拉回粗口，**优雅与粗鄙同框**，正是她此刻的心理状态。这句自嘲狠在**她仍在用知识贬低自己**：连羞耻都要附一条学术注解。
+**为什么这样写：** 作者让 Brigit 用**艺术史**来嘲弄自己：Renaissance painting（文艺复兴名画）专指那些构图庄重、姿态暧昧、意义待解的画——而她伸手摸一个昏迷男人脸的样子，**正好像一幅被后人过度解读的宗教画**。goddamn（该死的）把她从艺术评论里拉回粗口，**优雅与粗鄙同框**，正是她此刻的心理状态。这句自嘲狠在**她仍在用知识贬低自己**：连羞耻都要附一条学术注解。而句首的 Bad enough（够糟的了）把她**关在洗手间里的那扇门**与"被看见"这件事并置——**她躲开了所有人，却已经被所有人看见了。**
 
 **读者视角提示：** "画"这个意象在 ch26（心理评估）与 ch30（Ian 视角的回忆）会再次出现；这本书里"被观看"始终是 Brigit 最深的恐惧。
 

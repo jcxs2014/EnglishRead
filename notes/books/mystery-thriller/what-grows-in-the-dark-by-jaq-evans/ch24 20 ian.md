@@ -75,15 +75,15 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 6:** “No. Lacey’s dead. I have more to say to you.” … “I think we should talk about responsibility. I think it’s interesting, how people deal with feeling responsible. Don’t you?”
+> **原句 6:** “I think we should talk about responsibility. I think it’s interesting, how people deal with feeling responsible. Don’t you?”
 
-**中文理解：** "不。Lacey 已经死了。我有话要对你说。" …… "我觉得我们该谈谈**责任**。我觉得有意思的是，人们**怎么处理自己的责任感**。你说呢？"
+**中文理解：** "我觉得我们该谈谈**责任**。我觉得有意思的是，人们**怎么处理自己的责任感**。你说呢？"
 
-**关键词：** No. Lacey’s dead. / I have more to say to you / talk about responsibility / how people deal with feeling responsible
+**关键词：** talk about responsibility / how people deal with feeling responsible / Don’t you?
 
-**为什么这样写：** 作者把全书最重的一个词（responsibility）**藏在最轻的语气里**。第一句用最短的三个短句拆掉 Brigit 的整场仪式（"不。Lacey 死了。"），却接着说 "I have more to say to you"（我还有话**要对你**说）——它不否认仪式，它**把仪式改成对话**，而且对象明确：Brigit。第二句则用 it's interesting（有意思的）这种评论性副词，把一件痛苦的事说成"一个研究课题"；how people deal with feeling（人们如何处理"感觉到"）这个双重结构用 deal（处理）而非 have（拥有），**暗示责任感是一种需要被料理的东西**。最后的 "Don't you?"（你说呢？）是一句**邀请**，把审判变成了共谋的邀请。
+**为什么这样写：** 作者把全书最重的一个词（responsibility）**藏在最轻的语气里**。it's interesting（有意思的）这个评论性副词，把一件痛苦的事说成"一个研究课题"；how people deal with feeling（人们如何处理"感觉到"）这个双重结构用 deal（处理）而非 have（拥有），**暗示责任感是一种需要被料理的东西**——**不是一种状态，是一道菜**。而发问的人此刻是**被附身的 Ian**，被占用的人正在用最理性的句式讨论最不理性的命题：**这是全书对"责任"最冷也最准的一次定义。** 最后的 "Don’t you?"（你说呢？）是一句**邀请**，把审判变成了共谋的邀请。
 
-**读者视角提示：** 这一章是全书"审判"与"共谋"的分界：它没有指控任何人，它只是**提议大家来谈**——而 ch34 真正被谈出来的，是 ch24 埋在这里的这个词。
+**读者视角提示：** 它紧接在原句 5 的仪式之后——**这一章是全书"审判"与"共谋"的分界：它没有指控任何人，它只是提议大家来谈**；而 ch34 真正被谈出来的，是 ch24 埋在这里的这个词。
 
 ## 本章词汇
 

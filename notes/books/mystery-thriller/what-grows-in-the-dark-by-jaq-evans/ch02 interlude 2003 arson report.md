@@ -15,7 +15,7 @@ modified: "2026-09-25"
 
 ## 精读
 
-> **原句 1:** Caller: (23:18:06) She’s—wait. Emma? Emma, is that—Boys! Get back inside! Listen, the cops are on the way. You don’t want to do that.
+> **原句 1:** Caller: (23:18:06) She’s—wait. Emma? Emma, is that—Boys! Get back inside! Listen, the cops are on their way. You don’t want to do that.
 
 **中文理解：** 报警人：（23:18:06）她——等等。Emma？Emma，那是—— boys！都回屋里去！听着，警察在路上了。你不想那样的。
 

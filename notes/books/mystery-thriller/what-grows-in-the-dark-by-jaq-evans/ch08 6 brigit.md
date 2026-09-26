@@ -27,19 +27,8 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 2:** he smiled, the crooked one that invited conspiracy
 
-**中文理解：** 他笑了——那个歪斜的、用来邀人一起密谋的笑。
-
-**关键词：** the crooked one / that invited conspiracy
-
-**为什么这样写：** 括号式的插入语（the crooked one that invited conspiracy）用定语从句把一个"招牌表情"解释掉：crooked 既是"歪的"（笑的样子），也是"不正当的"（conspiracy 前科）。一个定语从句同时完成两义，是英文里很经济的一种玩法。invited conspiracy 用主动式：笑不是邀请"谈话"，是邀请"共谋"——Ian 在电话里向侦探讨线索时用的正是这一招。这也让读者意识到：他这套拉人入伙的本领，对 Brigit 也用过。
-
-**读者视角提示：** crooked + conspiracy 的双关是本书英文的"文字游戏"代表；注意 Ian 对每个本地人都是这一招。
-
----
-
-> **原句 3:** her silence was a fault line running through her
+> **原句 2:** her silence was a fault line running through her
 
 **中文理解：** 她的沉默是一条贯穿她身体的断层线。
 
@@ -51,7 +40,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** A cowardly vein of rot.
+> **原句 3:** A cowardly vein of rot.
 
 **中文理解：** 一条怯懦的腐烂血管。
 
@@ -63,7 +52,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 5:** the gloves, red fingers twitching like infected grubs
+> **原句 4:** the gloves, red fingers twitching like infected grubs
 
 **中文理解：** 那双手套——红手指像感染的蛴螬一样抽动着。
 
@@ -75,7 +64,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 6:** “Not doing the goth thing anymore, I see.”
+> **原句 5:** “Not doing the goth thing anymore, I see.”
 
 **中文理解：** "不再玩哥特这套了，是吧。"
 
@@ -87,7 +76,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 7:** “My mom was thrilled. No, for real—she was scared I would be a nerd forever.”
+> **原句 6:** “My mom was thrilled. No, for real—she was scared I would be a nerd forever.”
 
 **中文理解：** "我妈可高兴了。不，说真的——她怕我这辈子都是个书呆子。"
 
@@ -99,7 +88,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 8:** “Beth? I almost didn’t recognize you without the makeup.”
+> **原句 7:** “Beth? I almost didn’t recognize you without the makeup.”
 
 **中文理解：** "Beth？我差点没认出你——没化妆的样子。"
 
@@ -111,7 +100,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 9:** “Of all the gin joints, et cetera. I can’t say I ever thought I’d see you back here.”
+> **原句 8:** “Of all the gin joints, et cetera. I can’t say I ever thought I’d see you back here.”
 
 **中文理解：** "这满城的破酒吧，我还真没想到会在这儿再见到你。"
 

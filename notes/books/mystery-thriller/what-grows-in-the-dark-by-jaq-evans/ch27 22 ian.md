@@ -75,15 +75,15 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 6:** “I never believed there was really something out there.” / Not until Gabrielle and James.
+> **原句 6:** “I never believed there was really something out there.”
 
-**中文理解：** "**我从来不相信那外面真的有什么东西。**"……直到 Gabrielle 和 James。
+**中文理解：** "**我从来不相信那外面真的有什么东西。**"
 
-**关键词：** I never believed there was really something out there / Not until Gabrielle and James
+**关键词：** I never believed / there was really something out there
 
-**为什么这样写：** 这是全书**第一次由一个"体制内的人"说出"我原本不信"**——而说出者不是 Brigit，是**执法者 Alicia**。这句的结构极为保守：I never believed（我从不信）用完成时强调"一直不信"，而 really（真的）那个词才是重点——**她不信的不是有怪物，是"真的有"（really）**。而最后那句 Not until Gabrielle and James 用一个时间状语从句把"信"钉在两个名字上：**一个人的死不足以说服她，两人才够**。这句是全书对超自然最诚实的一次表态，也是 ch29–ch39 的悬念引擎。
+**为什么这样写：** 这是全书**第一次由一个"体制内的人"说出"我原本不信"**——而说出者不是 Brigit，是**执法者 Alicia**。这句的结构极为保守：I never believed（我从不信）用完成时强调"一直不信"，而 really（真的）那个词才是重点——**她不信的不是有怪物，是"真的有"（really）**。而"真的没有"这个判断，被她**说在一个刚从林子里出来的重案组组长口中**——**这比任何供词都更有说服力，也比任何供词都更让人心寒。**
 
-**读者视角提示：** "Not until…"这个句式在 ch34 会被 Brigit 原样用来审问 Ian：**你在什么时候开始信的？**
+**读者视角提示：** 她紧接着给出的那个条件（"Not until Gabrielle and James."）与她此刻的否认在同一段里——**一次信服的代价是两个孩子的失踪**。
 
 ## 本章词汇
 
