@@ -22,7 +22,7 @@ source_text: ch01
 
 **关键词**：Hepburn Romanisation / short vowels / carry a macron
 
-**为什么这样写**：五个例词全部是单音节，而且元音位置严格对应——a 在 cat、e 在 edge、i 在 igloo、o 在 octopus、u 在 umbrella，等于把一条抽象规则摊成五件可以立刻拿在手里验证的实物。`unless they carry a macron (ō)` 把符号本身用括号摆在句子正中央，读者不必离开这一行就能读完整条规则；`which doubles the length of the vowel sound` 用 `doubles`（翻倍）而不是 `makes it longer`，把音长变化写成一个可换算的量。
+**为什么这样写**：五个例词全部是单音节，而且元音位置严格对应——a 在 cat、e 在 edge、i 在 igloo、o 在 octopus、u 在 umbrella，等于把一条抽象规则摊成五件可以立刻拿在手里验证的实物。`unless they carry a macron (ō)` 把符号本身用括号摆在句子正中央，读者不必离开这一行就能读完整条规则；`which doubles the length of the vowel sound` 用 `doubles`（翻倍）这个词，把音长变化写成一个可换算的量——比「变长了」这种笼统说法多一层精确。
 
 **读者视角提示**：这是全书唯一一次直接对读者说话——`has been used` 的被动式不指明是谁用的，译者因此可以不署名地立规矩。往后 ch03 起的 `Shūichi`、ch17 的 `Mrs Ōno` 都按这里定的规则拼读。
 
@@ -42,7 +42,7 @@ g 读硬音，像 pig 里的 g；f 念起来更接近 h；而 r 有点更接近 
 
 **关键词**：Following the Japanese convention / surnames precede first names
 
-**为什么这样写**：全章最短的一句，却用 `precede`（先于）这个精确的动词，而不是英语母语者更顺手的 `come first`。差别在于 `precede` 只描述顺序，不带任何褒贬；而 `come first` 暗含「谁领衔」。`Following the Japanese convention` 又把规则的来源交给文化而不是译者个人，于是读者不会觉得是译者强加了一条规矩。
+**为什么这样写**：全章最短的一句，却用 `precede`（先于）这个精确的动词，而不是英语母语者更顺手的「谁在前头」那类说法。差别在于 `precede` 只描述顺序，不带任何褒贬；而「谁在前头」的说法暗含一层比较意味，仿佛两个项目在争先。`Following the Japanese convention` 又把规则的来源交给文化而不是译者个人，于是读者不会觉得是译者强加了一条规矩。
 
 **读者视角提示**：这一句在 ch03 立刻兑现——`Ōmachi`、`Komachi`、`Inamuragasaki` 全在前，`Shūichi` 在后。往后遇到 `Koda-san`、`Wakamiya` 这类写法，读法由此确定。
 
