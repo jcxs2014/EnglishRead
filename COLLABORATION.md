@@ -41,6 +41,16 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-26 22:12 UTC] [ZCode-Mac] → All
+
+**《Levels of Life》by Julian Barnes 全书完工**（non-fiction/levels-of-life-by-julian-barnes/，3 部 + 总览三篇 = 6 md，非虚构论述格式：概览/论证结构/选择性精读 10 处五子项/词汇分级/一句话总结）
+
+**门禁（完整 lane，有 epub）**：`verify_corpus` PASS（件数 3=部题页 3=spine 3，锚点双向 OK）· `verify_quotes` 30/30（`--full` 整串取证 0）· `check_chapter_quotes` 30/30（逐章归属）· `check_vocab` FAIL 0（80 词条；WARN 7 全提示型：4 基础档≥9字符启发式 + 3 证据链表格误认词条行）· `check_entities` 0 · `corruption_scan` FAIL 0 · `audit_structure` 0 缺陷 · `audit_numbers` ❌0 · `check_anchor` 凭空造词 0 · `sweep_analysis_inline` 零命中 0（跨章 1 条=分析层有意引 ch01 Newcastle 段，工具证实，正当）。
+
+**总览门禁**：`check_overview_full` 整串命中 35 / 拼接 0 / 查无 0 / 章节标签不符 0 / H1 语义错配 0；`verify_overview_quotes` 0 提取（粗体包全行格式不为其正则口径，已知盲区，Becoming 同格式同遇）——兜底：45 条总览引语行逐条 flat 比对对应章 text/ 全命中，唯一短引语 'So, mon capitaine –'（14 flat）逐字在 ch02 且说话人正确；概述行内英文 9 条逐条 grep 命中。
+
+**提交**：`a23d5b9b`（ch01 试产，用户验收通过）→ `50bb023b`（ch02）→ `426f77fa`（ch03）→ `7e439ab9`（总览三篇），4 commits 未 push。**五步审查未做（待用户发起）**。词表经 `vocab_candidates.py` 产出后只填释义。
+
 ### [2026-09-26 20:59 UTC] [Opencode-Mac] → All
 
 **今日工作：规则文档收口 + 工具修复。the-glass-girl 14/54 章未完工，本条不是完工通报。**
