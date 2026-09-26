@@ -400,6 +400,11 @@ def check_book(book_dir, verbose=False):
                               + '（体裁差异，不判红）', ''))
         if nn is None:
             attr_missing.append((name, '文件名无 chNN 前缀且 frontmatter 无 source_text/chapter'))
+        elif nn not in chapter_corpora:
+            # 静默的一类：章号推得出，但 text/ 里没有这一章的提取件。旧版两个分支
+            # 都不覆盖它，等于无声。实测 65 个文件（books-that-saved-my-life 40 /
+            # a-most-angelic-death 18 / if-we-cannot-go-at-the-speed-of-light 7）。
+            attr_missing.append((name, f'章号指向 ch{nn:02d}，但 text/ 无对应提取件'))
         for _i, _l in enumerate(lines, 1):
             if FORBIDDEN_ANNOT.search(_l):
                 annot_hits.append((name, _i, _l.strip()[:70]))
@@ -469,11 +474,17 @@ def check_book(book_dir, verbose=False):
                 fails.append((name, tier, '释义含自标绕过注释（未出现在原文/可略）', entry))
                 continue
             # 3. 例句不命中本章（省略号分段也不命中）
+            #    ⚠️ ch_corpus 为空时**不可判定，不判红** —— 与下面第 4 项词条判定同口径。
+            #    否则「章节归属缺失」的文件每条例句都判未命中，FAIL 数字被灌水而无一处
+            #    说明原因（实测 267 本 831 文件；the-glass-girl 14 章 0）。
             if example and len(re.findall(r'[A-Za-z0-9]', example)) >= 8:
-                ok, detail = example_ok(example, ch_corpus)
-                if not ok:
-                    fails.append((name, tier, f'例句未命中本章({detail})', example[:60]))
-                    continue
+                if not ch_corpus:
+                    undetermined.append((name, entry, '例句校验空跑（本章语料缺失，text/ 无对应件）'))
+                else:
+                    ok, detail = example_ok(example, ch_corpus)
+                    if not ok:
+                        fails.append((name, tier, f'例句不命中本章({detail})', example[:60]))
+                        continue
             # 4. 词条实词不在本章 —— **全书判定按口径分权**（见 load_book_corpus）
             #    逐章判定（例句命中本章）不需要 epub，任何书都权威；
             #    全书判定（是否 A 类虚构）只有 epub 口径权威。
