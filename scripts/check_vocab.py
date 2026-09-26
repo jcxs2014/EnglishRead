@@ -229,11 +229,23 @@ def load_chapter_corpora(book_dir):
 
 
 def load_epub_if_needed(book_dir, chapter_corpora):
-    """Return full-book flat-alpha (for跨书/跨篇 fallback only)."""
+    """Return full-book flat-alpha (for跨书/跨篇 fallback only).
+
+    ⚠️ 2026-09-26 修**假红源头**：完工书按 AGENTS 规则不留 epub（`library/`
+    为空），此处原本返回空串，于是判定「本章无 + 全书无 → A类虚构」时那个
+    "全书" 问句**恒答不在**——所有**合法的跨篇词条**（词在别的章节、依法
+    不该收录但确实存在）全被误报成"虚构"。实测近两日 28 本里三本有 FAIL
+    的书（art-of-thinking / clear / night-circus）**全部无 epub**，
+    308 条「A类虚构」中约 **291 条是这么来的**。
+    → 无 epub 时回退到 `text/` 逐章语料的并集。epub 口径更全（能含
+    未提取章节），但拿不到时用次优口径，**远好过让兜底问句恒为否**。
+    """
     epubs = glob.glob(os.path.join(book_dir, 'library', '*.epub'))
     if epubs:
-        return load_epub_book(epubs[0])
-    return ''
+        b = load_epub_book(epubs[0])
+        if b:
+            return b
+    return ''.join(chapter_corpora.values())
 
 
 CONTRACTIONS = {"i've","i'm","he'd","she'd","we'd","they'd","it's","that's","don't","won't","can't","didn't","wasn't","i'll","he'll","she'll","we'll","they'll","you'd","you'll","you've","we've","they've","there's","what's","let's","couldn't","shouldn't","wouldn't","hadn't","hasn't","haven't","aren't","isn't"}
