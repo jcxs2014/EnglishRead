@@ -123,7 +123,7 @@ source_text: ch11
 | yelp (n.) | （狗的）短吠 | There was a startled yelp and a thump, but before the second hound could react, Branwen fired again. |
 | slunk (v.) | （此处分词）潜行而出 | The monster slunk out of the tall grasses. |
 | sleek (adj.) | （此处形容狼狗）光滑的 | It was lean, almost skeletal, with sleek white fur and red-tipped ears. |
-| bristle (n.) | （此处 a bristle of fur：指那道竖起的毛） | she could see the bristle of fur running down its back |
+| bristle (n.) | （此处指脊背上那道竖起的毛） | she could see the bristle of fur running down its back |
 
 ### ⭐ 基础
 

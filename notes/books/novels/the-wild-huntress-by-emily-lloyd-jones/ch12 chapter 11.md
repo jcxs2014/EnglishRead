@@ -121,7 +121,7 @@ source_text: ch12
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| yearned (v.) | 渴望（此处 yearn to do：想去做某事） | Part of her yearned to kneel beside Rhain, to simply sit next to him and pretend the old man was merely napping. |
+| yearned (v.) | 渴望（此处指强烈想做某事） | Part of her yearned to kneel beside Rhain, to simply sit next to him and pretend the old man was merely napping. |
 | numb (adj.) | 麻木的 | A flicker of anger pierced her numb exhaustion. |
 | pierce (v.) | 刺穿（此处穿过麻木） | A flicker of anger pierced her numb exhaustion. |
 | lullaby (n.) | 摇篮曲 | It was a soft little song, a lullaby so quiet that the words blended into one another. |
