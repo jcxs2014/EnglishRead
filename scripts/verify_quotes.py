@@ -49,8 +49,12 @@ def read_html(p: str) -> str:
     t = html.unescape(t).replace('\u00a0', ' ')
     return t
 
-def extract_quotes(txt: str):
+def extract_quotes(txt: str, include_short: bool = False):
     """按行提取候选引文，兼容多种书写顺序；同文本去重保序。
+
+    `include_short=True` 时把 <20 flat 字符的短引语也一并放进返回值（默认
+    False，主门禁行为不变）。短引语平时只计数不返回，故**外部无从核对**——
+    check_short_quotes.py 靠这个开关把它们捡回来。
 
     口径：
       ① 圈数字行（①-㉕，裸字/粗体/引号包裹均可）
@@ -88,6 +92,11 @@ def extract_quotes(txt: str):
         if fa < 20:
             if fa >= 5:
                 short += 1   # 有英文内容但太短——计数，提示人工核
+            # `include_short=True` 时把短引语也放进 quotes（check_short_quotes
+            # 要逐条核对它们）。默认 False ⇒ 主门禁行为**逐字不变**。
+            if include_short and body not in seen:
+                seen.add(body)
+                quotes.append(body)
             continue
         if body not in seen:
             seen.add(body)
