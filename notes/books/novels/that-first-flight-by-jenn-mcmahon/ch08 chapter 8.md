@@ -59,13 +59,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 5:** "Samuel told me they are forcing you to take the day off to spend it with me. 'That girl works too damn much.' Sorry for cursing. But you do work a lot, Mom."
+> **原句 5:** "Samuel told me they are forcing you to take the day off to spend it with me." … "His exact words were 'that girl works too damn much.' Sorry for cursing. But you do work a lot, Mom."
 
-**中文理解**：Samuel 告诉我他们强迫你今天休假来陪我。"那女孩工作得太他妈累了。"抱歉说了脏话。但你确实工作太多了，妈妈。
+**中文理解**：Samuel 告诉我他们强迫你今天休假来陪我。"……"他的原话是"那女孩工作得太他妈累了"。抱歉说了脏话。但你确实工作太多了，妈妈。
 
-**关键词**：forcing you to take the day off / work too damn much
+**关键词**：forcing you to take the day off / His exact words were / work too damn much
 
-**为什么这样写**：Mackenzie 引用 Samuel 的话，显示整个社区都在关心 Macey——她不是独自一人。"work too damn much"是外人对她的客观评价，与她自己的自我怀疑形成对比。
+**为什么这样写**：Mackenzie 先转述安排、再模仿 Samuel 的原话语气，中间一个"His exact words were"让孩子的模仿腔调跃然纸上——显示整个社区都在关心 Macey。"work too damn much"是外人对她的客观评价，与她自己的自我怀疑形成对比。
 
 ---
 
@@ -85,7 +85,6 @@ modified: "2026-09-25"
 |------|------|------|
 | anxiety | 焦虑症 | "dealing with my anxiety" |
 | intrusive thoughts | 侵入性思维 | "It's full of intrusive thoughts of things that could possibly go wrong" |
-| pivotal | 关键的 | （本章未出现） |
 
 ### ⭐⭐ 进阶
 

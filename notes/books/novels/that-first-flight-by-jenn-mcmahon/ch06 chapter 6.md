@@ -85,7 +85,6 @@ modified: "2026-09-25"
 |------|------|------|
 | pivotal | 关键的 | "there have been a handful of pivotal moments" |
 | pour from an empty cup | 杯水车薪 | "you can't pour from an empty cup" |
-| notch | 档次 | （本章未出现） |
 
 ### ⭐⭐ 进阶
 

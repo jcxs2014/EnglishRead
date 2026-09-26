@@ -51,13 +51,13 @@ modified: "2026-09-25"
 
 ### 第二幕：Jan 的观察——"You are glowing"
 
-> **原句 4:** "You don't have to lie to me. I have a keen sense for that kind of thing. And you are glowing."
+> **原句 4:** "You don't have to lie to me. I have a keen sense for that kind of thing. And you"—she tosses a pasta noodle at me now—"are glowing."
 
-**中文理解**：你不用对我撒谎。我对这种事有敏锐的直觉。而且你容光焕发。
+**中文理解**：你不用对我撒谎。我对这种事有敏锐的直觉。而且你——她现在朝我扔来一根意面——容光焕发。
 
-**关键词**：glowing
+**关键词**：keen sense / tosses a pasta noodle / glowing
 
-**为什么这样写**：Jan 观察到 Macey 的变化——她不再是刚来时疲惫、紧张的单亲妈妈，而是一个幸福的女人。
+**为什么这样写**：Jan 的"直觉论"配上扔意面的小动作，把闺蜜间的打闹感写活了——刚才 Macey 扔她一根面，现在她"礼尚往来"。一句"glowing"点出 Macey 的变化：她不再是刚来时疲惫、紧张的单亲妈妈，而是一个幸福的女人。
 
 ---
 

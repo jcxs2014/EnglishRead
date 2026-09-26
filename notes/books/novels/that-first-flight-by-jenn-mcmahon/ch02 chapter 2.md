@@ -84,8 +84,6 @@ modified: "2026-09-25"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | naive | 天真 | "I was naive to believe that Brad, my high school sweetheart, was my soulmate." |
-| captivate | 迷住 | （本章未出现，预估后续章节） |
-| engrave | 铭刻 | （本章未出现，预估后续章节） |
 
 ### ⭐⭐ 进阶
 
@@ -93,7 +91,6 @@ modified: "2026-09-25"
 |------|------|------|
 | stumble | 踉跄 | "my steps falter at the same time my stomach bottoms out" |
 | soulmate | 灵魂伴侣 | "Brad, my high school sweetheart, was my soulmate" |
-| a sore thumb | 格格不入 | （本章未出现，预估后续章节） |
 
 ### ⭐ 基础
 

@@ -39,9 +39,9 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 3:** "Mom was not wanting to go. At all. You know, the whole stranger thing. She gets a little bit of anxiety about things. She worries a lot."
+> **原句 3:** "Mom was not wanting to go. At all. You know, the whole stranger thing." … "She gets a little bit of anxiety about things. She worries a lot."
 
-**中文理解**："妈妈其实不太想去。一点都不。你知道的，陌生人什么的。她会有点焦虑，事情多的时候会担心很多。"
+**中文理解**："妈妈其实不太想去。一点都不。你知道的，陌生人什么的。"……"她会有点焦虑，事情多的时候会担心很多。"（原文两句之间 Mackenzie 还凑近压低声音继续说）
 
 **关键词**：anxiety / worries a lot
 

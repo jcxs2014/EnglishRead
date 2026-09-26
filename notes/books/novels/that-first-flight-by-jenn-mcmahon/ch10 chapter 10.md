@@ -102,8 +102,6 @@ modified: "2026-09-25"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | shatter into pieces | 碎成碎片 | "I drop the glass I was holding, letting it shatter into pieces" |
-| pour from an empty cup | 杯水车薪 | （本章未出现） |
-| intuitive | 敏锐的 | （本章未出现） |
 
 ### ⭐ 基础
 

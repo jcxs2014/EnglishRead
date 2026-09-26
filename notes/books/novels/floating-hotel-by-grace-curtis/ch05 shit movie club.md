@@ -50,7 +50,7 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 4:** "What followed was an overacted, badly written, glitzy, teeth-rotting affair of the highest order, wherein an intrepid spacefaring hero with the improbable name of \u201cBiggs Dipper\u201d formed a powerful masculine bond with a sentient being called Gorb."
+> **原句 4:** "What followed was an overacted, badly written, glitzy, teeth-rotting affair of the highest order, wherein an intrepid spacefaring hero with the improbable name of “Biggs Dipper” formed a powerful masculine bond with a sentient being called Gorb."
 
 **中文理解**：接下来的是一部过火演绎、写得很糟、闪闪发亮、烂到掉牙的作品——货真价实的烂片；片子讲的是一个名字取得不可能的星际英雄"Biggs Dipper"，与一个叫 Gorb 的有智慧生物之间结成了"强有力的男性情谊"。
 

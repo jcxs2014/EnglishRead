@@ -15,9 +15,9 @@ modified: "2026-09-25"
 
 ## 精读
 
-> **原句 1:** “Don’t look,” he said again, and it tasted like a prayer. “Don’t look, come here, come with me.”
+> **原句 1:** “Don’t look,” Ian said again, and it tasted like a prayer. “Don’t look, come here, come with me.”
 
-**中文理解：** "别看，"他又说了一遍，那话尝起来像一段祈祷。"别看，过来，跟我走。"
+**中文理解：** "别看，"Ian 又说了一遍，那话尝起来像一段祈祷。"别看，过来，跟我走。"
 
 **关键词：** Don’t look / it tasted like a prayer / come here, come with me
 

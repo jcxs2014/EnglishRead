@@ -84,7 +84,6 @@ modified: "2026-09-25"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | crème de la crème | 精华中的精华 | "they said this was the crème de la crème of cookware sets" |
-| roam | 漫步 | （本章未出现） |
 
 ### ⭐⭐ 进阶
 

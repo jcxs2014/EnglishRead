@@ -11,7 +11,7 @@ modified: "2026-09-25"
 
 **情感弧线位置**：转折/回升——从父母伤害后的阴影中走出， Mackenzie 接受 Oliver，三人关系正式确立。
 
-**Tropes 兑现/反转**：继父角色被接受（"I think you should marry each other!"）+ 家庭重组的 Happy Beginning。
+**Tropes 兑现/反转**：继父角色被接受（"I think you should marry each other!"）+ 家庭重组的美好开端。
 
 **人物弧线**：Macey 从隐忍创伤到主动选择幸福；Mackenzie 终于有了安全感；Oliver 从"秘密男友"变成"正式男友"。
 

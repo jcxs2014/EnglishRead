@@ -19,13 +19,13 @@ modified: "2026-09-25"
 
 ## 精读
 
-> **原句 1:** "You know what I hate more than anything in the world? Snow."
+> **原句 1:** "I can't remember the last time I felt this exhausted."
 
-**中文理解**：你知道我最讨厌的事情是什么吗？雪。
+**中文理解**：我都不记得上一次这么累是什么时候了。
 
-**关键词**：what I hate more than anything / snow
+**关键词**：can't remember / exhausted
 
-**为什么这样写**：Oliver 在 Florida 的飞机上回想初到 Roxbury 时在酒吧说的第一句话——现在他已经完全颠覆了当时的人设。他曾经讨厌雪（象征封闭、孤独、冬季），现在却急着回家见"black-haired beauty"。
+**为什么这样写**：本章开篇第一句。Oliver 把疲惫归因于飞机、汽车、长途奔波，但下一段马上露出真实原因——"a black-haired beauty occupying my thoughts every minute of the day"。口是心非的开场让他"嘴上不承认恋爱"的人设一开始就站不住脚。
 
 ---
 

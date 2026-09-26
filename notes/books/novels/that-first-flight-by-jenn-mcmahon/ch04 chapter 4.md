@@ -59,13 +59,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 5:** "'First of all, it's seat hubby,' I joke back with her. 'And my name is Oliver.' 'Macey.' She says my name with a broad smile."
+> **原句 5:** "'First of all, it's seat hubby,' I joke back with her. 'And my name is Oliver.' … 'Okay, so what I'm hearing is that you want to be my friend, Macey?'"
 
-**中文理解**："首先，这是座位老公，"我跟着她打趣。"我叫 Oliver。""Macey。"她带着灿烂的笑容念出我的名字。
+**中文理解**："首先，是座位老公才对，"我跟着她打趣。"还有，我叫 Oliver。"……"所以我的理解是——你想跟我做朋友，对吧，Macey？"
 
-**关键词**：seat hubby / my name is Oliver
+**关键词**：seat hubby / my name is Oliver / be my friend
 
-**为什么这样写**：名字交换是经典言情桥段——"seat hubby"的玩笑延续了"seat wife"的调情逻辑，而 Oliver 说出真名代表他愿意跨出一步；Macey 用名字回应他，暗示她也愿意。
+**为什么这样写**：名字交换是经典言情桥段——"seat hubby"的玩笑延续了"seat wife"的调情逻辑，Oliver 主动报上真名代表他愿意跨出一步；紧接着又用"做朋友"的歪理把 Macey 的名字念了出来，两次确认式调情把两人的距离一下子拉近。
 
 ---
 
@@ -91,7 +91,7 @@ modified: "2026-09-25"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| enthralled | 被迷住的 | （本章未出现，预估后续章节） |
+| enthralled | 被迷住的 | "the jade green eyes staring back at me behind long, thick lashes that have me enthralled by her" |
 | engulf | 吞没 | "disappointment engulfs every part of me" |
 | a burning stove top | 滚烫的灶台 | "that's what it feels like to put your hand on a burning hot stove top" |
 
@@ -101,7 +101,6 @@ modified: "2026-09-25"
 |------|------|------|
 | dragonfly | 蜻蜓 | "the large dragonfly covering the majority of her forearm" |
 | sleeve | 纹身袖（全臂） | "it disappears under her shirt that it's a full sleeve" |
-| forehead | 前额 | （本章未出现） |
 | aisle | 走道 | "before the aisle clogs up" |
 
 ## 一句话总结

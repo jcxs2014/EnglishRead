@@ -109,9 +109,9 @@ This girl remembers everything.
 
 ### 第八处：tattoo 的含义
 
-> "The cherry blossom is for you." The minute the words leave my lips, her eyes snap up to meet mine. "I had Mackenzie draw me her favorite flower on a piece of paper. The artist was able to take her exact drawing and put it with the cherry blossom, intertwining them together as one. The compass faded into the background is for me. A reminder that all of my travels have led me home where I belong."
+> "The cherry blossom is for you." The minute the words leave my lips, her eyes snap up to meet mine. Her cheeks flame and her eyes start to glisten with emotion. "I had Mackenzie draw me her favorite flower on a piece of paper. The artist was able to take her exact drawing and put it with the cherry blossom, intertwining them together as one. The compass faded into the background is for me. A reminder that all of my travels have led me home where I belong."
 
-**中文理解**：纹身含义：樱花代表 Macey（结合了 Mackenzie 画的花）、背景里的指南针代表 Oliver 自己的旅行终点是回家。
+**中文理解**：纹身含义：樱花代表 Macey（结合了 Mackenzie 画的花）、背景里的指南针代表 Oliver 自己的旅行终点是回家。话音刚落，Macey 的脸颊泛红、眼里泛起泪光——这句解释对她冲击极大。
 
 **关键词**：intertwining（交织）/ compass（指南针）/ led me home（带我回家）
 

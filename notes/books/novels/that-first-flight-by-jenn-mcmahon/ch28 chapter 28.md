@@ -39,13 +39,13 @@ modified: "2026-09-25"
 
 ---
 
-> **原句 3:** "I brought you in here because it makes me completely rage inside knowing you and this body have never been worshiped before."
+> **原句 3:** "I brought you in here because it makes me completely rage inside knowing you and this body have never been fucking worshiped before."
 
-**中文理解**：我带你来这里是因为想到你的身体从来没有被崇拜过，我就完全怒火中烧。
+**中文理解**：我带你来这里是因为一想到你这个身体从来没被人好好崇拜过，我就气得不行。
 
-**关键词**：never been worshiped before
+**关键词**：rage inside / fucking worshiped
 
-**为什么这样写**：Oliver 说的"worship"是全章的核心——他不是要"做"，而是要"崇拜"。这个词选择显示了他对 Macey 的态度：她不是欲望的对象，而是要被珍惜的宝贝。
+**为什么这样写**："fucking"放在"worshiped"前不是粗口泄愤，而是把情绪强度推到顶——Oliver 说的"worship"是全章的核心：他不是要"做"，而是要"崇拜"。怒气词与崇拜词并置，显示他对 Macey 的态度：她不是欲望的对象，而是要被珍惜的宝贝。
 
 ---
 

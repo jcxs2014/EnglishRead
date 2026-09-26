@@ -122,7 +122,6 @@ modified: "2026-09-25"
 |------|------|------|
 | girls' night | 闺蜜之夜 | "impromptu girls' night" |
 | knock off | 取消/不继续 | "I was reluctant to have them over" |
-| toddler | 幼儿 | （文中未出现，仅词汇学习） |
 
 ## 一句话总结
 
