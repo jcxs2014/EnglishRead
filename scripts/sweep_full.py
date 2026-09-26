@@ -61,9 +61,38 @@ def load_chapters(book):
 
 
 def halves(q):
-    """按句末标点切分，各段 flat 长度 ≥5 的留下（跨标签拼接兜底）。"""
-    parts = re.split(r'(?<=[.!?…])\s+', q.strip())
-    return [flat_alpha(p) for p in parts if len(flat_alpha(p)) >= 5]
+    """按句末标点与省略号切分，返回**原文**片段（不是 flat 串——suffix_match 要按词切）。
+
+    ⚠️ 只按 `.!?…` 切会漏掉「片段以逗号/破折号悬空结尾」的情形，须额外试
+    「去掉末段」的变体（末段本身不在片段里，中间被换掉的部分缺位）。
+    """
+    parts = [p for p in re.split(r'(?<=[.!?…])\s+|\s*…\s*|\.\.\.', q.strip()) if p.strip()]
+    seg = [p for p in parts if len(flat_alpha(p)) >= 5]
+    if len(seg) > 1:
+        return seg
+    if len(parts) > 1 and any(p.rstrip().endswith((',', '，', '—', '–')) for p in parts):
+        trimmed = [p for p in parts[:-1] if len(flat_alpha(p)) >= 5]
+        if trimmed:
+            return trimmed + ['']
+    return seg
+
+
+def suffix_match(seg, allflat):
+    """seg 去掉前 k 个词后能否命中——抓**段内拼接**。
+
+    叙述标签被删导致的前缀错位，整段比对与按句切两段都救不了（切分点落在段内部）：
+      原书 `raised her eyebrows in surprise—"Tamsin from CRM Services for"—she
+             squinted at the paper and l…`
+      md   `We've got Tamsin from CRM Services for developing a template to…`
+    与 `check_overview_full` 同一实现——两处口径必须一致，否则同一段文字在
+    正文章节判 🔶、在总览判 ❌，排查的人会怀疑工具而不是怀疑书。
+    """
+    toks = re.findall(r"[A-Za-z][A-Za-z']*", seg)
+    for k in range(1, len(toks)):
+        cand = ' '.join(toks[k:])
+        if len(cand) >= 12 and flat_alpha(cand) in allflat:
+            return k
+    return 0
 
 
 def md_chapter(body, name):
@@ -137,7 +166,11 @@ def main():
                 n_ok += 1
                 continue
             seg = halves(q)
-            if len(seg) > 1 and all(s in allflat for s in seg):
+            if len(seg) > 1 and all(flat_alpha(s) in allflat for s in seg if s):
+                n_splice += 1
+                splices.append((name, chap, q))
+                continue
+            if any(suffix_match(s, allflat) for s in seg if s):
                 n_splice += 1
                 splices.append((name, chap, q))
                 continue
