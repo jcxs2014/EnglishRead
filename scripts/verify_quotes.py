@@ -283,8 +283,15 @@ def main(book_dir: str, epub_path: str, full_mode: bool = False):
         else:
             bad += 1
             print(f"{name}: {ok}/{len(quotes)} ❌{note}")
-            for m in miss[:2]:
+            for m in miss[:5]:
                 print(f"    ✗ {m}...")
+            if len(miss) > 5:
+                # ⚠️ 2026-09-26 修**工单漏数根因**：原实现只打前 2 条且**不报
+                # 剩余数**，于是「10/13 ❌」看上去只有 2 条问题——据此写工单时
+                # 把 10 条缺陷记成 1 条（that-first-flight 总览层，情感节点 3 +
+                # 金句精选 7）。**显示条数少不是问题，不报剩余数才是问题。**
+                print(f"    …另有 {len(miss) - 5} 条未列出（**全部 {len(miss)} 条均已计入 "
+                      f"本文件 FAIL**）")
     if short_total:
         print(f"\n⚠️ 全书共 {short_total} 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底")
     # ── P0-1 0 提取的角色分派结论 ──────────────────────────────────
