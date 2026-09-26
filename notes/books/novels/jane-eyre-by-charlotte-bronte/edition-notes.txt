@@ -1,0 +1,41 @@
+《Jane Eyre》本 epub 版本须知（2026-09-27 核，供精读与审查用）
+================================================================
+
+来源：Bronte, Charlotte - Jane Eyre (2010, Samphire Press) - libgen.li.epub
+正文 38 章，text/ 逐章提取件 38 个 + 前后置材料 10 个（xx_ 前缀，不占 ch 编号）。
+
+【1】尾注标记焊在词尾（必须知道，否则引语会假 MISS）
+  本版把尾注编号直接焊在正文字符后面，flat 之后词与标记连成一串：
+    epub 里  poltroon + x ｜ racy + z ｜ swallowing + fr ｜ carriage + dck
+             bilious + f ｜ hierophant + hz ｜ castaway + 103 ｜ serried + cf
+  凡引用命中这类词，verify_quotes 必然 MISS（text/ 侧已剥干净，故两套门禁会打架）。
+  完整清单见同目录 endnote-markers.txt（616 条词｜标记）。
+  判定方法：不要按词表猜（名单里混着 it/you/me/on 这类功能词，命中率极高但多数无关），
+  直接对 epub 展平整串实测——标记只焊在个别出现位上，不是每次出现都焊。
+
+【2】本版是删节本，与通行 1847 文本有出入（已实测，非推测）
+  · 第二十八章开头直接是 "Two days are passed"，简已在赶路去惠特克罗斯的马车里。
+    通行本该章开头那场"阁楼夜"（简深夜上阁楼、险些闷死婴儿，随后天不亮出门）**不在本版**。
+    佐证：tired, tired ／ Jane, Jane, rest easy ／ the vigils ／ dashing the child
+          ／ I was in the nursery ／ sat on the floor —— 六个特征串在 epub 全文 0 命中；
+          第二十七章结尾是"她摸到路、等到马车"，第二十八章紧接 "Two days are passed"。
+  · 第二十七章 Rochester 谈那位"疯妻"时，用的是 "this narrow stone hell"、
+    "the curse of the place"、"remove the maniac elsewhere" 一类说法，
+    **全书 38 章正文里 "attic" 一词只出现在罗沃德的顶楼与桑菲尔德的屋顶描写上，
+    从不指关她的那个房间**。
+  · 因此：本精读各章凡写"阁楼夜"的断言一律不成立；已按 grep 结果改写
+    （ch01 母题线、ch04 玩偶母题线各改一处）。
+  · ch13 没有 "you are not Rochester's equal" 那段（ch14 变成 "I was your equal at eighteen"）；
+    ch37 结尾不是海边意象。跨章断言一律以本版 text/ 的 grep 结果为准，不以通行本记忆为准。
+
+【3】提取件的已知瑕疵（照 text/ 走，引用时避开即可）
+  · 行内断词：trac tability ／ crim soned ／ triv ial ／ Tyrian-dyedcurtain 等。
+  · 粘连：cabinetpiano,quite ／ Mr. Fairfax's"I observed。
+  · 头两处英文与 epub 本身有出入（如 ch13 "choler by his grim mouth" 与 text/ 的
+    "choler; his grim mouth" 差一个 by，其后还有页码 bleed p143）。
+  这些位置一律不引；引语两端都取干净连续段。
+
+【4】引语纪律（本版专属）
+  · verify_quotes 的 52 字符指纹在 --full 下才算数，提交前必须跑 --full。
+  · 省略号只在同一说话轮次内使用，且两侧都必须是原文连续出现的词。
+  · 词表例句以本章 text/ 为准（例句命中本章是逐章判定，两种 lane 都权威）。

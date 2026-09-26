@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：简在过完一个没有她的圣诞节后被叫去见布罗克赫斯特先生（Mr. Brocklehurst），听他在里德太太面前把她说成"惯于说谎的孩子"；当场她把《说谎者的 child's guide》甩回给 Georgiana，宣布永不叫 aunt，然后独自在结了冰的园子里问了一路"我该怎么办"。
 - **情感弧线位置**：**全书第一个真正的转折点**——谷底到此结束。上一章的好转（有人照应、有人建议上学）在本章被一笔勾销，简靠自己的爆发换来了离开的船票；代价是紧接着的悔恨与寒意，所以这一次"赢"同时是升华和教训。
-- **母题与互文**：**doll（玩偶）是 Jane Eyre 自己的画像**——"a faded graven image, shabby as a miniature scare-crow"，她抱着它睡觉、"believing it happy likewise"，这个动作会在她抱着被关在阁楼里试图窒死自己的女儿那一夜（第二十七章结尾）原样重演。互文：布罗克赫斯特的"take away your heart of stone and give you a heart of flesh"（除去石心、赐予肉心）出自《圣经·以西结书》，全书随后会不断用"石头与血肉"这组对照。
+- **母题与互文**：**doll（玩偶）是 Jane Eyre 自己的画像**——"a faded graven image, shabby as a miniature scare-crow"，她抱着它睡觉、"believing it happy likewise"，这个"替代品式的爱"此后还会被点名两次：第十二章阿黛勒拿到的是一尊 best wax doll（对照简自己那尊"一直包在银纸里"的蜡娃娃），第十七章 Rochester 当面问她从哪里弄来这么个小娃娃；第二十四章则换成她自己的话——被人打扮得像洋娃娃一样最受不了互文：布罗克赫斯特的"take away your heart of stone and give you a heart of flesh"（除去石心、赐予肉心）出自《圣经·以西结书》，全书随后会不断用"石头与血肉"这组对照。
 - **人物弧线**：本章简第一次**赢**，也第一次**因为赢而恶心自己**——"Something of vengeance I had tasted for the first time; as aromatic wine it seemed on swallowing, warm and racy; its after-flavor, metallic and corroding"：她把复仇写成了喝下的一口酒，咽下去时是暖的，回味是金属腐蚀味。人物弧线由"必须被承认"推进到"知道自己能伤人"。
 - **叙事手法**：**外部场景（见客）与内部场景（园中踱步）严格对切**——见客段是台词密集的正剧，园中段是几乎无对白的心理独白；两次切换都用一个动作完成（走出去、听见贝茜喊她吃饭），把"胜利"立刻拖进"日常"。
 
