@@ -18,7 +18,19 @@ check_vocab.py — 词汇表真实性/分档检测（逐章版）
   2. 例句逐字锚定：整句 + 省略号分段均须命中本章 text（FAIL）
   3. 分档合理性：⭐ 基础档含超纲生僻词 / ⭐⭐⭐ 高级档混入高频常用词 → WARN
   4. 占位/自标注：例句列"—"/"no"/释义含"可略"/"未出现" → FAIL
-退出码：存在 fail 则非 0。
+退出码：存在 fail 则非 0。**「存量待清」段只检出、不判红**（存量清理是另一件事）。
+
+5. **禁止标注检出**（FORBIDDEN_ANNOT，宽口径）：AGENTS 第 5 条明令禁止在例句列
+   写「未出现/凭记忆/仅记忆/待补」等标注绕过工具，但旧 ANN_HIT 要求关键词后
+   **紧接**右括号，`（未出现在原文）` 里夹着的「原文」把它挡掉了——实测
+   ANN_HIT 全库只命中 4 行，真实存量 260 处 / 22 本，门禁基本是瞎的。
+6. **章节归属缺失检出**：md 文件名无 `chNN` 前缀且 frontmatter 无
+   `source_text`/`chapter` 时，`ch_corpus` 为空 → 每条例句都判未命中，
+   **FAIL 数字被灌水而没有任何一处说明原因**。实测全库 831 个文件 / 41 本
+   （100 Great Short Stories 99 个、Empty Bottles 93 个）——该书基线
+   FAIL=1206/1206 即由此而来。
+   ⚠️ 早前一处统计报「97 本」偏高，是因为把总览文件也算进去了（它们本就无
+   chNN）；排除总览后为 41 本。此处以工具输出为准。
 
 改动（v3，方案 P0-2 / P0-2b，2026-09-26）
 ------------------------------------------------
@@ -81,6 +93,15 @@ PH_HIT    = re.compile(r'^[—\-]\s*$')            # 例句列 = 纯占位
 NO_HIT    = re.compile(r'^\s*no\s*$', re.I)      # 例句列 = no
 ANN_HIT   = re.compile(r'[（()](可略|未出现|未在|此处未用|可省|略|见高级|见ch)[)）]')  # 释义自标（含全角/半角括号 + 扩展关键词）
 EPUB_SENTINEL = re.compile(r'\[以下例句未出现在原文，[^\]]+\]', re.IGNORECASE)
+# ⚠️ ANN_HIT 要求关键词后**紧接**右括号，于是 `（未出现在原文）` 里夹着的
+# 「原文」把它挡掉了——实测 ANN_HIT 全库只命中 4 行，而真实存量 259 行 /
+# 132 文件，门禁基本是瞎的（AGENTS 第 5 条明令禁止此类标注，却拦不住）。
+# FORBIDDEN_ANNOT 是宽口径检出正则，**只报不判红**（存量清理是另一件事）。
+FORBIDDEN_ANNOT = re.compile(
+    r'[（(【\[][^）)】\]]{0,20}?'
+    r'(未出现|未见于|未在本|未在原|未见于原|仅记忆|凭记忆|未核对|待补|暂缺|'
+    r'此处未用|可略|可省)'
+    r'[^）)】\]]{0,14}?[）)】\]]')
 
 # ── P0-2b 词汇表节边界（2026-09-26）────────────────────────────────────────
 # 旧实现 tier 一旦被 TIER_PAT 命中就**再也不复位**，于是同一文件里
@@ -273,6 +294,8 @@ def check_book(book_dir, verbose=False):
 
     fails, warns = [], []
     total_rows = 0
+    annot_hits = []      # (文件名, 行号, 片段) —— 禁止标注存量（只报不判红）
+    attr_missing = []    # (文件名, 原因)      —— 章节归属缺失（只报不判红）
 
     md_files = sorted(glob.glob(os.path.join(book_dir, '*.md')))
     # P0-4 前置：本书的「必备角色」按多数派自校准（排除总览三篇）
@@ -325,6 +348,11 @@ def check_book(book_dir, verbose=False):
             if miss:
                 fails.append((name, None,
                               '缺必备章节（同侪多数派有）：' + '、'.join(miss), ''))
+        if nn is None:
+            attr_missing.append((name, '文件名无 chNN 前缀且 frontmatter 无 source_text/chapter'))
+        for _i, _l in enumerate(lines, 1):
+            if FORBIDDEN_ANNOT.search(_l):
+                annot_hits.append((name, _i, _l.strip()[:70]))
         has_vocab_sec = any(VOCAB_SEC.match(l.strip()) for l in lines)
         if not has_vocab_sec:
             # 无节标题 → 回退全文件扫描（宁可多查不可静默丢覆盖），并报格式 WARN。
@@ -431,7 +459,8 @@ def check_book(book_dir, verbose=False):
                           f'词汇节外有 {k} 行词条形表格（`{sec}`）已排除——'
                           f'格式应把词汇表归入 `## 词汇` 节，否则等于重复登记', ''))
 
-    return {'fails': fails, 'warns': warns, 'rows': total_rows}
+    return {'fails': fails, 'warns': warns, 'rows': total_rows,
+            'annot': annot_hits, 'attr': attr_missing}
 
 
 def main(book_dir, verbose=False):
@@ -441,6 +470,22 @@ def main(book_dir, verbose=False):
     for x in r['fails']:
         print(f'  {x[0]} [{x[1] or "?"}] {x[2]}')
         print(f'      「{x[3][:70]}」')
+    if r.get('annot') or r.get('attr'):
+        print(f'\n--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---')
+        if r.get('attr'):
+            print(f'  章节归属缺失 {len(r["attr"])} 个文件——这些文件的例句校验等于'
+                  f'空跑（ch_corpus 为空，每条例句都判未命中，FAIL 数字因此被灌水）：')
+            for nm, why in r['attr'][:20]:
+                print(f'    · {nm}  （{why}）')
+            if len(r['attr']) > 20:
+                print(f'    …另有 {len(r["attr"]) - 20} 个')
+        if r.get('annot'):
+            print(f'  禁止标注（AGENTS 第 5 条明令禁止，例句列写「未出现/凭记忆」等）'
+                  f'{len(r["annot"])} 处：')
+            for nm, ln, frag in r['annot'][:20]:
+                print(f'    · {nm}:{ln}  {frag}')
+            if len(r['annot']) > 20:
+                print(f'    …另有 {len(r["annot"]) - 20} 处')
     print(f'\n--- WARN ({len(r["warns"])}) ---')
     for x in r['warns']:
         print(f'  {x[0]} [{x[1] or "?"}] {x[2]}「{x[3][:70]}」')
