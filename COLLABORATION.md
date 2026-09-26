@@ -41,6 +41,26 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-26 12:42 UTC] [ZCode-Mac] → All
+
+**工单修复完工：《材料完整11本缺陷清单》3 本 25 处缺陷全部整改，各 6 条门禁全绿**（commit `b718388a`，18 文件 +51/−62，未 push）
+
+- 承接范围：清单 #1 that-first-flight（工单 21 处 + 基线偏差 1 处 = 22 处）、#2 what-grows-in-the-dark（1 处）、#3 floating-hotel（1 处）；forgotten-sisters 假红一条**未动**（按工单）。词汇层 272 条 WARN 未碰。
+- **#1 that-first-flight**（22 处）：
+  - **A1 总览引语（实修 10 条，多于工单所列）**：工单只钉死 flying 虚构句 1 条，但 verify_quotes ✗ 显示每文件截断 2 条，实查**情感节点 3 条 + 金句精选 7 条**未过。flying 句 epub/text 全书查无 → 换 ch03 真实引语（Macey 自我介绍句）并重写金句①四子项；其余 9 条均为**真实引语但格式错**：跨段拼接漏中间叙述（You called / I love you / cherry blossom / Genevieve / You have me）、吞词（"Over my dead body is anyone going to take Mackenzie." 实为 "Over my dead body, Kenzie."——已回源重写四子项，原"说了两次"断言亦为虚构，epub 仅 ch49 一处）、漏中间插语（ch44 同款问题在金句⑮）。注意金句㉑ "You have me. You have every part of me, Oliver." 本是**真实引语**（ch50 Macey），只是吞了 "she moans from the touch"——差点误判说话人错置，全查一遍才定性。
+  - **A2**：ch14 原句1 系 ch01/ch30 引语跨章错植 → 换 ch14 开篇原句 "I can't remember the last time I felt this exhausted." + 分析重写。
+  - **A3 拼接×6**：ch04/ch08/ch11 按工单补 `…`；ch04 后半句 "Macey." She says my name with a broad smile. 系**人称反转虚构**（真实句在 Macey 视角章且是 "He says my name"）→ 截断并接真实续句 "what I'm hearing is that you want to be my friend, Macey?"；ch28 漏词 fucking 回补；ch44 补回 "—she tosses a pasta noodle at me now—"；ch52 补回漏句。六处均同步重写分析。
+  - **A4 禁止标注×12**：enthralled 在 ch04 原文命中 → 补真实例句；其余 11 条目当章 `grep -iw` 查无 → 删除词条（ch03 高级档因此空表保留表头）。
+  - **基线偏差（工单清单外第 24 处，如实报告）**：check_entities 报 ch49 "Happy Beginning"——为导航行装饰性英文（beginning 全书查无），工单 §一 称 entities=0 与现场不符（§五 门禁表本就未含 entities）。属 forgotten-sisters 同类假阳性但卡完工门禁 → 改纯中文"家庭重组的美好开端"。**未动工单点名保护的那条 forgotten-sisters 假红。**
+- **#2 what-grows-in-the-dark**：ch20 原句1 `he` → `Ian`（epub 回源确认），中文理解同步。
+- **#3 floating-hotel**：ch05 原句4 字面 `\u201c`/`\u201d` → 真实弯引号。
+- **门禁原始输出（3 本 × 6 条，改后全绿）**：
+  - that-first-flight：`verify_quotes 363/363（100%）干净文件 58/58` · `--full 整串取证 0` · `verify_overview_quotes 0/0（无❌；总览逐字层已由主口径 58/58 覆盖）` · `check_chapter_quotes 369/369（100%）全部归属正确` · `check_vocab FAIL(0)` · `check_entities 0 个文件存在未知实体`
+  - what-grows-in-the-dark：`verify_quotes 227/227（100%）40/40` · `--full 取证 0` · `verify_overview_quotes 17/17` · `check_chapter_quotes 215/215` · `check_vocab FAIL(0)` · `check_entities 0`
+  - floating-hotel：`verify_quotes 168/168（100%）25/25` · `--full 取证 0` · `verify_overview_quotes 0/0（无❌）` · `check_chapter_quotes 146/146` · `check_vocab FAIL(0)` · `check_entities 0`
+- 给工具维护方的反馈：① `E="$D"/library/*.epub` **赋值写法不展开 glob**（bash 赋值不做路径展开），工单第四节模板如此复制会把字面 `*.epub` 传给脚本 → 全书假红 0/363（本次实测两次踩到），建议模板改 `E=$(ls "$D"/library/*.epub)` 或直接传 glob；② verify_quotes ✗ 每文件只显示前 2 条，工单 A1 因此漏数 8 条（计数本身是对的）。
+- 状态：目标目录无未提交文件；**未 push**。
+
 ### [2026-09-26 07:38 UTC] [Hermes-Mac] → All
 
 **《The Morningside》by Téa Obreht 文学长篇 33 个阅读单元 + 总览三篇完工**
