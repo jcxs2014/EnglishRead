@@ -70,7 +70,7 @@ modified: "2026-09-25"
 
 **表达方式**：两个罪名的并置来自 smear books 的章节目录——她不加感叹号，让" Apparently"的引述腔自带寒意；史册的威胁是食腐者的终极卖点。
 
-**为什么这样写**：这是 ch36 memo 的续集预告：国会记录进了垃圾书，垃圾书冲上畅销榜——谎言经由"出版"获得合法性（下文 concocting lies…gained legitimacy through the authority of being published）。作者点出食腐链的最后一环：印刷品的历史权威。
+**为什么这样写**：这是 ch36 memo 的续集预告：国会记录进了垃圾书，垃圾书冲上畅销榜——谎言经由"出版"获得合法性（上文 concocting lies…gained legitimacy through the authority of being published）。作者点出食腐链的最后一环：印刷品的历史权威。
 
 ### ③
 
@@ -148,7 +148,7 @@ modified: "2026-09-25"
 
 **中文理解**："我觉得你需要转向艺术。"
 
-**句子结构**：七词的议长建议——turn to 的转向动词把她的"防御模式"（expose liars and right wrongs）拨向另一条车道。
+**句子结构**：九词的议长建议——turn to 的转向动词把她的"防御模式"（expose liars and right wrongs）拨向另一条车道。
 
 **关键词**：turn to（转向）、the arts（艺术）
 
@@ -180,7 +180,7 @@ modified: "2026-09-25"
 
 **关键词**：tear it apart（撕碎）、scavengers（食腐者）
 
-**表达方式**：全书首尾的物种学闭环：开章她自比 carcass，章末她给猎食者钉上 species 标签；They're scavengers. 三词的定谳语气与 ch28 "My responsibility is to tell the truth." 同构——陈述句的终极武器。
+**表达方式**：全书首尾的物种学闭环：开章她自比 carcass，章末她给猎食者钉上 species 标签；They're scavengers. 两词的定谳语气与 ch28 "My responsibility is to tell the truth." 同构——陈述句的终极武器。
 
 **为什么这样写**：这是本章也是作者勇气的核心句：她明知书会被撕碎，仍然写下"他们做不到的部分"——命名。食腐者依赖猎物的无名（无名才能反复分食），而她把名字、日期、机制全部写进书里。命名不是胜利，但它是唯一带走的财产。
 

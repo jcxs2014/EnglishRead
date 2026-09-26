@@ -105,7 +105,7 @@ modified: "2026-09-25"
 
 **中文理解**：它其实不是树，不是动物，甚至不是植物。它是一种叫 heterokont（不等鞭毛类）的生物，藻类家族的成员——而它是海洋健康的秘密。
 
-**句子结构**：三个 not 的排除法 + 一个 It's 的重新归类；secret to an ocean's health 的拟人化收束。
+**句子结构**：一个 not 统摄三项排除 + 一个 It's 的重新归类；secret to an ocean's health 的拟人化收束。
 
 **关键词**：organism（生物体）、heterokont（不等鞭毛类藻）、the secret（秘密）
 

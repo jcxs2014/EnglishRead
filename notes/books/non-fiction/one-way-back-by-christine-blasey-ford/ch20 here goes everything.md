@@ -12,7 +12,7 @@ modified: "2026-09-25"
 - **作者**：Christine Blasey Ford
 - **章节定位**：围困章——首周听证、家门口的记者、BuzzFeed 闯入教室、Emma Brown 采访与"最后一个问题"、出逃打包
 - **字符数**：约 5,900
-- **一句话主旨**：新闻伦理保证不点名、却拦不住堵门——porcelain 皮肤的 Mr. Farrow 在街上来回走（Deb 非chalant："那是 Ronan Farrow"）；小儿子放 BuzzFeed 记者进家门、她又在一小时三节课后的教室里被追问 "Do you have the letter?"；Emma Brown 的反精英选择（"让无名记者破大案"）带来 Half Moon Bay 婚礼之地的采访；录音开始后名姓的拆分游戏（Blasey? Ford?）令人哭笑不得；采访后机场来电的"真不想问"三连（手指/侵入确认）让她心说 "I just wanted to share some information"；周六晚是"杀掉报道"的最后窗口——她没退；周日 White House 审稿一小时变成几小时，opposition research 上线（Clinton 邮件门操盘手浏览她的 LinkedIn）；1998 论文下载 200 次如登畅销榜；她打包一只 tote bag——"好几个月不会再回家了"
+- **一句话主旨**：新闻伦理保证不点名、却拦不住堵门——porcelain 皮肤的 Mr. Farrow 在街上来回走（Deb 非chalant："那是 Ronan Farrow"）；小儿子放 BuzzFeed 记者进家门、她又在三小时连堂课后的教室里被追问 "Do you have the letter?"；Emma Brown 的反精英选择（"让无名记者破大案"）带来 Half Moon Bay 婚礼之地的采访；录音开始后名姓的拆分游戏（Blasey? Ford?）令人哭笑不得；采访后机场来电的"真不想问"三连（手指/侵入确认）让她心说 "I just wanted to share some information"；周六晚是"杀掉报道"的最后窗口——她没退；周日 White House 审稿一小时变成几小时，opposition research 上线（Clinton 邮件门操盘手浏览她的 LinkedIn）；1998 论文下载 200 次如登畅销榜；她打包一只 tote bag——"好几个月不会再回家了"
 
 ### 叙事脉络
 
@@ -93,7 +93,7 @@ modified: "2026-09-25"
 
 **中文理解**：我听见一个女声说："我有个问题。"我以为是个学生，直到看清她的脸。"那封信你手里有吗？"
 
-**句子结构**：声音先行、面部反转、来意揭晓的三拍微惊悚；Do you have the letter? 的业务化措辞——五节课后的教室成了新闻现场。
+**句子结构**：声音先行、面部反转、来意揭晓的三拍微惊悚；Do you have the letter? 的业务化措辞——三小时讲课后的教室成了新闻现场。
 
 **关键词**：I have a question（我有个问题）、the letter（那封信）
 

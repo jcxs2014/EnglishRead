@@ -81,7 +81,7 @@ modified: "2026-09-25"
 
 **句子结构**：For the question…he answered 引语框架；两句引语并排对撞（结婚生子 vs 冲浪伴），My response was 平行结构强化错位。
 
-**关键词**：intentions（意图）、soulmate 式宣言的对位
+**关键词**：intentions（意图）、Having somebody to surf with（找个冲浪伴）
 
 **表达方式**：引语直接对置不加评论——一个往前承诺人生，一个往后退守爱好；量级差自己说话。
 

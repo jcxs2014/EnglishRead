@@ -132,7 +132,7 @@ modified: "2026-09-25"
 
 > **原句 7:** "I don't mind being the poster child for mental illness," I said. "If they want to rip me apart for going to therapy, I'm okay with that. If it means that the next person in my shoes doesn't have to go through this, I'll take it."
 
-**中文理解**："我不介意当精神健康议题的代言人，"我说。"如果他们想因为看治疗师而把我撕碎，我接受。如果这能让下一个处在我位置的人不必经历这些，我认了。"
+**中文理解**："我不介意当精神疾病的代言人，"我说。"如果他们想因为看治疗师而把我撕碎，我接受。如果这能让下一个处在我位置的人不必经历这些，我认了。"
 
 **句子结构**：三段递进的受难谈判——不介意/接受/认了；the next person in my shoes 的代际置换是她讨价还价的唯一筹码。
 

@@ -92,7 +92,7 @@ modified: "2026-09-25"
 
 **中文理解**：当时我以为 WhatsApp 在替我隐藏身份。吃一堑长一智。
 
-**句子结构**：thought 的过去时宣判天真；Live and learn. 两词独立成段收束——学费已交。
+**句子结构**：thought 的过去时宣判天真；Live and learn. 三词收尾——学费已交。
 
 **关键词**：disguising（伪装，隐藏）、Live and learn（吃一堑长一智）
 

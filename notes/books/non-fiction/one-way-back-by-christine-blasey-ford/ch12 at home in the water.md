@@ -51,7 +51,7 @@ modified: "2026-09-25"
 
 **句子结构**：turned them down 与 chose 的零修饰因果并列；good surf / good waves 的重复收尾——取舍标准单一到固执。
 
-**关键词**：turned down（拒绝）、scholarships（奖学金，前句）、waves（浪）
+**关键词**：turned down（拒绝）、good surf（好浪）、waves（浪）
 
 **表达方式**：拿奖学金的 PhD offer 与冲浪条件放在天平上——荒诞的选择题外壳，内核是全书最高优先级声明；两个短句的斩钉截铁没有一丝犹豫的修辞空间。
 

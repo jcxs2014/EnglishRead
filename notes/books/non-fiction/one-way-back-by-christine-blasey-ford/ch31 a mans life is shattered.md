@@ -81,7 +81,7 @@ modified: "2026-09-25"
 
 **句子结构**：四组问答的机械排比——总统用最原始的复读机修辞做模仿秀；引语的排比密度本身就是嘲弄的技术分析。
 
-**关键词**：I don't remember（我不记得）、impersonations（模仿，下句）
+**关键词**：I don't remember（我不记得）、How many years ago（多少年前）
 
 **表达方式**：她原文照录被模仿的版本——让排比的空洞自我展示；不加愤怒注脚，只说 more bizarre than infuriating（下句）。
 

@@ -81,7 +81,7 @@ modified: "2026-09-25"
 
 **句子结构**：It shows 的物证口吻（收据=档案）；so out of character 的自我评注；somewhere in my glass 的方位隐喻——力气藏在酒里。
 
-**关键词**：whiskey neat（纯威士忌，不加冰）、out of character（不像平时的自己）、receipt（收据）
+**关键词**：whiskey neat（纯威士忌，不加冰）、out of character（不像平时的自己）、find strength（找一点力气）
 
 **表达方式**：用收据这种最官僚的纸片承载最私人的时刻——证据与情感的反差幽默；glass as strength container 的微比喻把勇气写成可点单的商品。
 

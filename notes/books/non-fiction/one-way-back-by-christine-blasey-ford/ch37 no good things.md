@@ -48,7 +48,7 @@ modified: "2026-09-25"
 
 > **原句 1:** I could only picture a crowd laughing as Ellen danced around and I just cried onstage.
 
-**中文理解**：我只能想象出这样一个画面：全场观众大笑着，艾伦在台上又蹦又跳，而我坐在那里哭。
+**中文理解**：我只能想象出这样一个画面：全场观众大笑着，艾伦在台上又蹦又跳，而我只会站在台上哭。
 
 **句子结构**：picture 的预演机制 + 三个动作的分镜（crowd laughing/Ellen dancing/I crying）——综艺的欢乐节奏与她的崩溃同帧。
 
@@ -110,7 +110,7 @@ modified: "2026-09-25"
 
 **关键词**：literally（真的，字面意义上）、shirt off his back（背上的球衣）、bracelet（手环）
 
-**表达方式**：shirt off his back 的习语本义是"倾其所有"——库里把它做成了字面动作；孩子们身上的 vagabond 四件套（前文）与球衣的交接是全章最亮的换装仪式。
+**表达方式**：shirt off his back 的习语本义是"倾其所有"——库里把它做成了字面动作；孩子们身上的 vagabond 四件套（后文）与球衣的交接是全章最亮的换装仪式。
 
 **为什么这样写**：这是黑暗月份里的一次实际的光：她自认"搞砸了"的育儿账，被一位球星的两件礼物部分冲销。作者不给这段加抒情——shirt/bracelet 的实物清单本身就是这个家庭最需要的证据：世界仍有不负代价的善意。
 

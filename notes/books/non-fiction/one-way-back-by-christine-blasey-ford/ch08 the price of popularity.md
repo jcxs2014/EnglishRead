@@ -61,7 +61,7 @@ modified: "2026-09-25"
 
 ### ②
 
-> **原句 2:** Most “couples” got together through inertia and spent a few weeks being publicly attached while privately clueless.
+> **原句 2:** Most “couples” got together through inertia and spent a few weeks being publicly attached while privately clueless
 
 **中文理解**：大多数"情侣"是靠惯性凑成的，公开地黏在一起几周，私下里完全摸不着头脑。
 
@@ -137,7 +137,7 @@ modified: "2026-09-25"
 
 **句子结构**：三段式说教引语：年龄陈述→must know→谜语式结论；And it's not to be your friend. 的悬置句法——把"那件事"留给听者自己补全。
 
-**关键词**：scare tactics（恐吓战术）、one thing（一件事）
+**关键词**：one thing（一件事）、not to be your friend（不是做朋友）
 
 **表达方式**：母亲的两性教育=一则吓唬+一道谜语：说出了欲望的存在，拒绝命名欲望的内容；definitely nothing about consent 的缺口由这句话的沉默结构显影。
 

@@ -146,7 +146,7 @@ modified: "2026-09-25"
 
 > **原句 8:** Later he presented calendars that showed his daily activities, including numerous house parties during which he said he and his friends drank beer.
 
-**中文理解**：后来他出示了记录他日常活动的日历——上面密密麻麻全是家庭派对，而他说，那些派对上他和朋友们都喝啤酒。
+**中文理解**：后来他出示了记录他日常活动的日历——上面有大量家庭派对的记录，而他说，那些派对上他和朋友们都喝啤酒。
 
 **句子结构**：calendars 的物证主语 + including 递进的引火烧身；he said 的转述隔离——她对"喝啤酒"只作转述不背书。
 

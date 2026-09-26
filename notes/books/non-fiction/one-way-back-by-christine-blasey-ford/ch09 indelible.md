@@ -81,7 +81,7 @@ modified: "2026-09-25"
 
 **句子结构**：However 转折 + sets up shop 的商业习语拟人；influencing…without…having to remind 的分词结构写出"无监控运行"。
 
-**关键词**：sets up shop（安营扎寨，开张营业）、unthought known（未曾想起的已知）
+**关键词**：sets up shop（安营扎寨，开张营业）、deep within us（在我们内心深处）
 
 **表达方式**：把创伤记忆写成地下企业——不营业却持续供货；习语的市井感消解了精神分析术语（unthought known）的玄奥。
 

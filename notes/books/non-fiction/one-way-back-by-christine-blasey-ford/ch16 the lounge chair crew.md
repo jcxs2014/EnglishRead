@@ -177,7 +177,7 @@ modified: "2026-09-25"
 
 **中文理解**：我一头扎进泳池，憋着气潜完整条泳道没有换气。我独自一人反而更好。
 
-**句子结构**：动作句（dove→swam→without coming up）先于结论句；without coming up for a breath 的极限生理描写给心理决断做具身注脚；I was better off alone. 五词判决独立成段。
+**句子结构**：动作句（dove→swam→without coming up）先于结论句；without coming up for a breath 的极限生理描写给心理决断做具身注脚；I was better off alone. 五词判决收束。
 
 **关键词**：dove（扎入）、underwater（水下）、better off alone（独自更好）
 

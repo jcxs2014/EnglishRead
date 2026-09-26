@@ -93,7 +93,7 @@ modified: "2026-09-25"
 
 **中文理解**：“你告诉过多少人？”她问。……“没几个，”我说，心里担心自己已经犯了错。
 
-**句子结构**：审计式问句直击要害 + 省略号跳过第二场会面的重复叙述；worried that I'd already made a mistake 的自我归咎从句收尾。
+**句子结构**：审计式问句直击要害 + 省略号连接两段相邻对话；worried that I'd already made a mistake 的自我归咎从句收尾。
 
 **关键词**：How many（多少人）、made a mistake（犯了错）
 

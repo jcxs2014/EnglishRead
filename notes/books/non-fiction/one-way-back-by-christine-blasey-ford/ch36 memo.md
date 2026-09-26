@@ -136,7 +136,7 @@ modified: "2026-09-25"
 
 **句子结构**：三层嵌套的官样注脚（同意转发→没有转发→已被证伪）——文件自己在注释里认罪。
 
-**关键词**：phony photo（假照片，前文）、proved to be false（已被证实为假）、failed to do so（未履行）
+**关键词**：forward the photo（转发照片）、proved to be false（已被证实为假）、failed to do so（未履行）
 
 **表达方式**：已证伪的照片仍然入档——注释的顺序（先引用后承认存疑）就是 propaganda 的排版学；her 转述时不加重音，让官腔的冷处理显得更冷。
 

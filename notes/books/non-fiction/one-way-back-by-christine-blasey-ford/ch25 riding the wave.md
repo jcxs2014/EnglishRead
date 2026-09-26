@@ -53,7 +53,7 @@ modified: "2026-09-25"
 
 **句子结构**：重复两遍的 fantasy football——第一遍是类比，第二遍是爱好者宣言。
 
-**关键词**：fantasy football（梦幻体育选秀）、the cut（入选线）
+**关键词**：fantasy football（梦幻体育选秀）、Choosing the people（挑选队员）
 
 **表达方式**：把世纪听证的支持团写成周末选秀——语域的骤降是心理防护：用熟悉的游戏框架处理恐怖的日程；I love 的直白是全章最松弛的一笔。
 
@@ -67,7 +67,7 @@ modified: "2026-09-25"
 
 **句子结构**：didn't know…should have 的虚拟补救（本该却没做）；as Brett would during his 的对照从句把缺席写成不对称。
 
-**关键词**：front row（第一排）、testimony（作证）、vouch（前文）
+**关键词**：front row（第一排）、testimony（作证）、as Brett would during his（Brett 的对照）
 
 **表达方式**：第一排是 credibность的剧场座位表——支持者的可见度即证词的可信度；should have 的语法把"无知"记成账。
 

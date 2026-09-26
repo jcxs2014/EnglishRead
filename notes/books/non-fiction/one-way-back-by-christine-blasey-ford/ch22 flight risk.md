@@ -64,7 +64,7 @@ modified: "2026-09-25"
 
 **中文理解**：我在机舱里环顾四周，惊叹于那些几乎没注意到广播的乘客，或者那些只嫌广播打断电影的——而我，攥紧扶手，准备赴死。
 
-**句子结构**：marveling at…or…while 的三段对照；prepare for death 的四词极值收束——喜剧的夸张外壳，真实的生理内核。
+**句子结构**：marveling at…or…while 的三段对照；prepare for death 的三词极值收束——喜剧的夸张外壳，真实的生理内核。
 
 **关键词**：cabin（机舱）、armrests（扶手）、prepare for death（准备赴死）
 

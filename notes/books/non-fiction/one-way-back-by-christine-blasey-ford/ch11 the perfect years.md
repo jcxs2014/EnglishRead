@@ -137,7 +137,7 @@ modified: "2026-09-25"
 
 **句子结构**：感叹句作判词 + assured me 的安抚动词；ceremony/burn 的仪式意象把事故升格为典礼。
 
-**关键词**：rite of passage（成人礼，通过仪式）、sacrifice（牺牲，祭品）
+**关键词**：rite of passage（成人礼，通过仪式）、ceremony（仪式）
 
 **表达方式**：冲浪圈的民俗学解释——事故被重新编码为入会仪式；burn the board 的火祭把物损失转译为精神收益。
 

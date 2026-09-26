@@ -164,7 +164,7 @@ modified: "2026-09-25"
 
 **句子结构**：imagined 的内心放映 + insides filling 的生理复活动画 + second chance 的馈赠语收尾。
 
-**关键词**：sand dollar（沙钱，前文）、salty water（咸水）、a second chance（第二次机会）
+**关键词**：their insides（它们的内里）、salty water（咸水）、a second chance（第二次机会）
 
 **表达方式**：把捡贝壳写成器官移植——海胆没了，海水回来了；second chance 的宗教级措辞用在沙钱身上，密度的反差即温柔。
 

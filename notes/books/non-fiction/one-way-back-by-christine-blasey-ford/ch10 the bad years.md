@@ -149,7 +149,7 @@ modified: "2026-09-25"
 
 **中文理解**：我从来不清楚自己这辈子要干什么，但突然间，我像一台被编好程序的机器人。无论如何，我要拿到心理学博士。
 
-**句子结构**：but suddenly 的转折急转 + like I was a programmed robot 的明喻；No matter what 的绝对让步独立成段。
+**句子结构**：but suddenly 的转折急转 + like I was a programmed robot 的明喻；No matter what 的绝对让步收束。
 
 **关键词**：programmed robot（被编程的机器人）、PhD（博士）
 
