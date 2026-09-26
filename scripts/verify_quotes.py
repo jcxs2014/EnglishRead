@@ -245,7 +245,14 @@ def main(book_dir: str, epub_path: str, full_mode: bool = False):
         miss = []
         frag_evidence = []      # P0-6 取证：指纹过但整串对不上的引语
         for q in quotes:
-            qa = flat_alpha(q)
+            # 尾部出处标注（`（ch12）` / `[chNN]` / `——ch04` / `p.12`）是**编辑性
+            # 标记**，永不属于引语内容。原实现只在 --full 路径剥离，默认 52 字符
+            # 路径不剥 → 短引语（>20 flat 字符会被校验）带着标注就判红。
+            # 实测 what-grows-in-the-dark `00_情感节点.md` 两条：`（ch12）`、
+            # `（ch30）` 剥离后均命中，原样均查无。标签层归 verify_overview_quotes
+            # 管（它同样不剥，见其盲区），但引语层必须剥——否则是假红。
+            q_body, _stripped = _strip_trailing_annot(q)
+            qa = flat_alpha(q_body)
             frag = qa[:52]
             if frag in full:
                 ok += 1
@@ -254,7 +261,7 @@ def main(book_dir: str, epub_path: str, full_mode: bool = False):
                 continue
             # 引号分段回退：`"A" tag "B"` 跨标签行拆引号内各段独立验证
             # （对话体跨标签实证——flat 指纹跨标签必 MISS）
-            qparts = re.findall(r'["\u201c]([^"\u201d]{12,})["\u201d]', q)
+            qparts = re.findall(r'["\u201c]([^"\u201d]{12,})["\u201d]', q_body)
             if len(qparts) >= 2 and all(flat_alpha(p)[:40] in full for p in qparts):
                 ok += 1
                 continue

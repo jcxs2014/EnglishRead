@@ -156,10 +156,28 @@
 3. **提交门禁（三件套全绿）**：书籍批次 commit 前必须依次跑三个检测器，任一 ❌ 回炉后才可 commit：
 
    ```bash
-   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>"      # 引文逐字（每篇 10/10 ✅）
-   python3 scripts/check_vocab.py "<书目录>"                     # 词汇表词条真实性（FAIL=0）
-   python3 scripts/check_entities.py "<书目录>"                  # 梗概实体一致性（未知实体=0）
+   # 🚦 先判 lane：有 epub = 完整门禁；无 epub = 降级（部分判定不适用，见下）
+   ls "<书目录>"/library/*.epub >/dev/null 2>&1 && echo "完整 lane" || echo "降级 lane"
+
+   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>"                    # 引文逐字（每篇 10/10 ✅）
+   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>" --full             # 关闭 52 字符指纹盲区
+   python3 scripts/check_vocab.py "<书目录>"                                   # 词汇表（FAIL=0）
+   python3 scripts/check_entities.py "<书目录>"                                # 梗概实体一致性（未知实体=0）
    ```
+
+   **🚦 lane 决定哪些判定成立**（2026-09-26 实测确立，务必先读）：
+
+   | 判定 | 依据 | 完整 lane | 降级 lane（无 epub） |
+   |---|---|---|---|
+   | 例句是否命中**本章** | 本章 `text/` | 权威 | **权威，照常判** |
+   | 引语是否逐字在**全书** | epub | 权威 | **不适用**（`verify_quotes` 跑不起来） |
+   | 词条是否 A 类虚构 | 全书参考集 | 权威（epub 口径） | **不出结论**，列「❓ 无法判定」 |
+
+   **实测规模：全库 355 本中只有 11 本（3%）有 epub**；完工书 227 本里仅 11 本
+   有（5%），在制书 128 本里 89 本有（70%）。**降级 lane 的书不是"检查通过"，
+   是"部分检查没做"**——报告里必须写清 lane，不得与完整 lane 的数字混用。
+   epub 留存策略暂定未决（AGENTS「完成的书不留存 epub」条），故本表按 lane
+   表述而非假定 epub 总在。
 
    有 text/ 逐章提取件的批次，加跑 `check_chapter_quotes.py` 逐章严格校验（引语必须命中**该章自己的**提取件，防跨故事搬句）。
    总览文件（概述/金句精选/情感节点）不在 verify_quotes 主口径内，须单独加跑 `python3 scripts/verify_overview_quotes.py "<书目录>" "<epub>"` 验证总览引语。
