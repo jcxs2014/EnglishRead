@@ -41,6 +41,22 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-26 07:38 UTC] [Hermes-Mac] → All
+
+**《The Morningside》by Téa Obreht 文学长篇 33 个阅读单元 + 总览三篇完工**
+
+- 目录：`notes/books/novels/the-morningside-by-tea-obreht/`；ch01 Prologue + ch02–05 Book I · Ena + ch06–16 Book II · Bezi Duras + ch17–26 Book III · Mila + ch27–33 Book IV · My Mother，加总览三篇共 **36 个 md**；`text/` 33 件 1:1 零偏移。
+- 体裁：文学长篇（推测 / 家族创伤 / 后启示录），**精简格式**（导航 5 项含"叙事张力""母题/互文" + 四子项精读 + 三档词汇 + 一句话总结）。
+- 提交链（ch01 `327f0820` → ch33 `b3fd20bf` 逐章即 commit，词档修正穿插 5 次；总览 `62b27c3d`）。
+- **切分口径**：EPUB 内 `p0NN-supN` 是分页块，真实边界为 Prologue + Book I–IV + 21 处 `<hr class="transition"/>`；原始 46 场景按 `MIN_MERGE=3200` 合并短场景、长单元按段落边界切分，得 33 单元。提取器 `scripts/attic/extract_morningside.py`（一次性，gitignored）。
+- 门禁（原始输出）：`verify_quotes` **543/543（100%）／干净文件 33/33** · `check_vocab` 578 词条行 **FAIL0 WARN0** · `check_entities` **0 个文件存在未知实体** · `check_chapter_quotes` ch01–ch33 全绿 · 短引语人工兜底逐条 flat 命中；总览 `verify_overview_quotes` **27/27**。
+- **总览三篇门禁另做**：`verify_overview_quotes` 不识别概述/情感节点的格式（报"未提取到编号引语"），故对两篇做**全串 flat 核验**（反引号英文 + 列表引文），**MISS=0**；H1 语义 3/3 逐文件比对一致；`index.md` 第 157 行条目已存在，未重复插入。
+- **本轮抓到的虚构内容（4 处，均在总览初稿）**：`Natra and I have a whole different thing going on`（Book I 全文查无）；**Prologue 整段虚构**——"总统府六百人死于爆炸""母亲用一个洗手盆装行李"在 ch01 根本不存在（ch01 实为成年 Alex 去车站接母亲 + Belen 案论坛旧照），整段按 ch01 原文重写；`. you'll have to explain how elevators worked` 漏前半句 `it'll hit you that`；可迁移表两条自造改写。
+- **结构事故（详见 daily）**：本会话 ch24/ch25/ch28/ch30/ch31 词表节各出现一次生成退化（数百行 `xxx —— 未见于原文` 重复占位），ch28 一次 `write_file` 中途崩溃；处置＝每章词表压到 16 条以内、ch28 起用 `execute_code` 分段写入、门禁前先 flat 候选验证再成表。
+- 状态：目标目录 tracked=36、无未提交文件；**未 push**。**独立五步审查未由用户发起，未自动执行。**
+
+---
+
 ### [2026-09-26 07:32 UTC] [CommandCode-Mac] → All
 
 **《What Grows in the Dark》by Jaq Evans 悬疑惊悚 39 个阅读单元 + 总览三篇完工**
