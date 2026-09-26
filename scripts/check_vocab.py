@@ -228,24 +228,33 @@ def load_chapter_corpora(book_dir):
     return corpora
 
 
-def load_epub_if_needed(book_dir, chapter_corpora):
-    """Return full-book flat-alpha (for跨书/跨篇 fallback only).
+def load_book_corpus(book_dir, chapter_corpora):
+    """返回 (全书参考集, 来源标记)。来源 ∈ {'epub', 'text-union'}。
 
-    ⚠️ 2026-09-26 修**假红源头**：完工书按 AGENTS 规则不留 epub（`library/`
-    为空），此处原本返回空串，于是判定「本章无 + 全书无 → A类虚构」时那个
-    "全书" 问句**恒答不在**——所有**合法的跨篇词条**（词在别的章节、依法
-    不该收录但确实存在）全被误报成"虚构"。实测近两日 28 本里三本有 FAIL
-    的书（art-of-thinking / clear / night-circus）**全部无 epub**，
-    308 条「A类虚构」中约 **291 条是这么来的**。
-    → 无 epub 时回退到 `text/` 逐章语料的并集。epub 口径更全（能含
-    未提取章节），但拿不到时用次优口径，**远好过让兜底问句恒为否**。
+    ⚠️ 2026-09-26 第二次修正（用户指出「没有 epub 原文的书早就该排除在
+    检查之外」）。第一版修法是「无 epub 时回退 text/ 并集」——**那是错的**：
+    它让同一个判定（「词在不在全书」）在两种参考集上切换，口径随书而异，
+    同一本书只要哪天补回 epub，结论就会变。**这正是本项目反复吃过亏的
+    「口径没锁死就报数」**。
+
+    现改为**显式双口径 + 按判定分权**：
+      · 逐章判定（例句是否命中**本章** text/）→ 不需要全书，**任何书都
+        权威**。这正是 220 条真缺陷（抽词拼接 / 跨章搬用）能被查出的原因。
+      · 全书判定（词条是否 A 类虚构）→ **只有 epub 口径才权威**。无 epub
+        时判「无法判定」，既不 FAIL 也不 WARN，单独计数。
+      · text/ 并集仅作**次优参考**保留（extract_chapters 会跳过书目页等，
+        「词不在并集」不等于「词不在书里」，故不足以支撑 FAIL 结论）。
+
+    实测依据：全库 355 本中**只有 11 本（3%）有 epub**；完工书 227 本里
+    仅 11 本有（5%），在制书 128 本里 89 本有（70%）——即「完工删 epub」
+    这条规则**把最强的门禁在完工那一刻关掉了**，方向是反的。
     """
     epubs = glob.glob(os.path.join(book_dir, 'library', '*.epub'))
     if epubs:
         b = load_epub_book(epubs[0])
         if b:
-            return b
-    return ''.join(chapter_corpora.values())
+            return b, 'epub'
+    return ''.join(chapter_corpora.values()), 'text-union'
 
 
 CONTRACTIONS = {"i've","i'm","he'd","she'd","we'd","they'd","it's","that's","don't","won't","can't","didn't","wasn't","i'll","he'll","she'll","we'll","they'll","you'd","you'll","you've","we've","they've","there's","what's","let's","couldn't","shouldn't","wouldn't","hadn't","hasn't","haven't","aren't","isn't"}
@@ -302,12 +311,13 @@ def example_ok(example, corpus):
 
 def check_book(book_dir, verbose=False):
     chapter_corpora = load_chapter_corpora(book_dir)
-    book_corpus = load_epub_if_needed(book_dir, chapter_corpora)
+    book_corpus, corpus_src = load_book_corpus(book_dir, chapter_corpora)
 
     fails, warns = [], []
     total_rows = 0
     annot_hits = []      # (文件名, 行号, 片段) —— 禁止标注存量（只报不判红）
     attr_missing = []    # (文件名, 原因)      —— 章节归属缺失（只报不判红）
+    undetermined = []    # (文件名, 词条, 原因) —— 无权威参考集、无法判定（不判红）
 
     md_files = sorted(glob.glob(os.path.join(book_dir, '*.md')))
     # P0-4 前置：本书的「必备角色」按多数派自校准（排除总览三篇）
@@ -436,13 +446,27 @@ def check_book(book_dir, verbose=False):
                 if not ok:
                     fails.append((name, tier, f'例句未命中本章({detail})', example[:60]))
                     continue
-            # 4. 词条实词不在本章（全书中也不存在 → 真虚构；有但不在本章 → 跨篇词条，降级 WARN）
+            # 4. 词条实词不在本章 —— **全书判定按口径分权**（见 load_book_corpus）
+            #    逐章判定（例句命中本章）不需要 epub，任何书都权威；
+            #    全书判定（是否 A 类虚构）只有 epub 口径权威。
             missing_ch = [w for w in words if len(w) >= 4 and not word_hits_corpus(w, ch_corpus)]
             if missing_ch:
-                if ch_corpus and not any(word_hits_corpus(w, book_corpus) for w in missing_ch):
-                    fails.append((name, tier, f'词条(A类虚构，全书查无)', entry))
+                if not ch_corpus:
+                    undetermined.append((name, entry, '本章语料缺失（text/ 无对应件）'))
                 else:
-                    warns.append((name, tier, f'词条跨篇(本章无，全书有)', entry))
+                    in_book = any(word_hits_corpus(w, book_corpus) for w in missing_ch)
+                    if corpus_src == 'epub':
+                        if not in_book:
+                            fails.append((name, tier, '词条(A类虚构，epub 全书查无)', entry))
+                        else:
+                            warns.append((name, tier, '词条跨篇(本章无，epub 全书有)', entry))
+                    else:
+                        # 次优口径：text/ 并集不足以支撑「虚构」结论
+                        if in_book:
+                            warns.append((name, tier, '词条跨篇(本章无，text/并集有)', entry))
+                        else:
+                            undetermined.append((name, entry,
+                                '无 epub 权威全书，无法判定是否虚构'))
             # ── WARN 层 ──────────────────────────────────────────
             # 5. 分档合理性
             key = min(words, key=len) if words else ''
@@ -472,7 +496,8 @@ def check_book(book_dir, verbose=False):
                           f'格式应把词汇表归入 `## 词汇` 节，否则等于重复登记', ''))
 
     return {'fails': fails, 'warns': warns, 'rows': total_rows,
-            'annot': annot_hits, 'attr': attr_missing}
+            'annot': annot_hits, 'attr': attr_missing,
+            'undet': undetermined, 'corpus_src': corpus_src}
 
 
 def main(book_dir, verbose=False):
@@ -482,6 +507,20 @@ def main(book_dir, verbose=False):
     for x in r['fails']:
         print(f'  {x[0]} [{x[1] or "?"}] {x[2]}')
         print(f'      「{x[3][:70]}」')
+    src = r.get('corpus_src')
+    if src != 'epub':
+        print(f'\n--- 🚦 门禁 lane：降级（无 library/*.epub）---')
+        print('    「词是否 A 类虚构」属**全书判定**，只有 epub 口径权威。')
+        print('    本书无 epub → 该判定**不出结论**（列入下方「无法判定」，不判红）。')
+        print('    「例句是否命中本章」属**逐章判定**，比对本章 text/，**任何书都权威**，照常判。')
+        print('    ⚠️ 实测全库 355 本仅 11 本（3%）有 epub；完工书 227 本里仅 11 本（5%）有——')
+        print('       「完工删 epub」这条规则把最强门禁在完工那一刻关掉了，方向是反的。')
+    if r.get('undet'):
+        print(f'\n--- ❓ 无法判定（{len(r["undet"])} 条，无权威参考集，不判红）---')
+        for nm, entry, why in r['undet'][:20]:
+            print(f'    · {nm}：「{entry[:40]}」 —— {why}')
+        if len(r['undet']) > 20:
+            print(f'    …另有 {len(r["undet"]) - 20} 条')
     if r.get('annot') or r.get('attr'):
         print(f'\n--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---')
         if r.get('attr'):
