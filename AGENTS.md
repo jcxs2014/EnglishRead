@@ -144,6 +144,14 @@
 **适用范围**：`notes/books/` 下所有整本书/短篇合集精读（期刊文章无成书可比，不适用）。
 
 1. **原文先行**：精读任何书籍篇章前，必须先把该章原文放入上下文——从 `library/*.epub` 按章提取纯文本存 `text/ch<NN>_<slug>.txt`（text/ 已 gitignore）。**禁止凭记忆引用原句**。
+
+   **1a. 语料层验收（`verify_corpus.py`，开工第 1 步）**：提取完、动笔前跑 `python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "<来源>" --anchors "ch01=甲,乙; ch02=丙"`。
+   **为什么这一层在最前**：`check_chapter_quotes` / `verify_quotes` / `audit_book.py` A2 **全部以 `text/` 为真值**。若提取边界把两篇合并进一个文件，则三者会**同时全绿**——引语确实在"那一章"的 text 里（两个故事都在），内容也确实都在 epub 里，A2 防的是**内容保真**不是**归属边界**。**这一层错了，下面所有门禁的绿都是假的**（Open Secrets 6 件=6 篇的自洽假象即此）。
+   四项检查：① 件数 = 预期篇目数 ② **人物锚点双向**（本篇人物 >0 / 他篇人物 =0，锚点须用**该篇独有实体**）③ 每件首末句抽印人工过目 ④ 字面转义符 / LaTeX / 页码 bleed 体检。
+   - **必跑 ②**：短篇集 / 分部书 / 多 POV / 日历书（合并与拆分事故只能靠这一项抓，件数对账抓不到——它自己就自洽）。连载主角用 `--shared "名字"` 豁免。
+   - **可选**：单 POV 长篇小说跑 ①④ 即可。
+   - **预期篇目数必须写来源**（版权页发表出处列表 / 目录页 / bullet 实测），`--expect-source` 是必填项语义：**"件数 = 自己数出来的"等于没验**。
+   - FAIL 时**先修 text/ 再动笔**；WARN 里的页码 bleed 提示选句与例句避开粘连点。
 2. **引文逐字**：精读文件中所有英文引语必须逐字取自提取文本；需省略中间文字用 `…` 且省略号两侧都必须是原词。改写式的"意思对了"不算数。
 3. **提交门禁（三件套全绿）**：书籍批次 commit 前必须依次跑三个检测器，任一 ❌ 回炉后才可 commit：
 
@@ -249,6 +257,7 @@
 | 工具 | 用途 | 用法 |
 |---|---|---|
 | `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号；**提取后必核件数=章数**（短章可能被 min-len 滤掉） |
+| `verify_corpus.py` | **语料层验收（原文核验第 1a 条，P0-0）**：件数对账 / 人物锚点双向 / 首末句抽印 / 转义符与页码 bleed 体检 | `python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "<来源>" --anchors "ch01=甲,乙; ch02=丙"`；`--shared "名字"` 豁免连载主角；`--quiet-edges` 批量模式。**在所有以 text/ 为真值的门禁之前跑**——它错了那些门禁会同时假绿 |
 | `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式、`**①**` 行中格式、言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
 | `check_vocab.py` | 词汇表真实性/分档抽检 | `python3 scripts/check_vocab.py "<书目录>"`（FAIL=词条查无此词；WARN=例句改写/分档存疑）。注意：撇号缩写词条（I've/he'd）有 3 字符下限特判 + lowercase 归一（7 用例单测覆盖）；误报 A类虚构时先核词条是否含撇号再走 A/B 裁决 |
 | `check_entities.py` | 梗概实体一致性 | `python3 scripts/check_entities.py "<书目录>"`（未知人名地名 = 情节虚构信号） |
@@ -265,6 +274,7 @@
 | 工具 | 已知盲区 / 注意点 |
 |------|------------------|
 | `verify_quotes.py` | 不覆盖 `00_*.md` 总览（须另跑 verify_overview_quotes）；<20 flat 字符短引语不校验（输出提示 N 条，须人工 grep 清零）；指纹只取前 52 字符——`/` 拼接引语第二段是盲区（根本解法=改原文连续段） |
+| `verify_corpus.py` | **不传 `--anchors` 则 ② 整项跳过、只报 WARN**——"PASS" 可能只是没跑，合并事故照样漏（看 WARN 行，别只看 FAIL 计数）；**不传 `--expect` 则 ① 跳过**，而"件数 = 自己数出来的"等于没验；页码 bleed 是 **WARN 非 FAIL**（正则 `[A-Za-z]{3,}\d{1,3}[A-Za-z]` 会有误报，需人工看窗口）；③ 首末句是**粗切**（标点/换行）不追语言学精确；锚点若人名本身是另一词子串（Open Secrets 实录 ch03 `Lottar` vs 正文 `Lotta`）会漏，须人工确认锚点写法；**不能用 flat 做锚点判定**（删空格后边界恒假）——norm 保留空格才有词边界 |
 | `check_vocab.py` | 不识别中文标注（"（未出现在原文）"可绕检——独立审查时 grep 该字符串）；撇号缩写词条走 3 字符下限 + lowercase 归一（误报先核撇号再 A/B 裁决）；词形变化（torn≠tore）报跨篇/虚构——词条头必须本章原词形；**概述/导航层用 `\|` 作分隔符会误判为词汇表行报 FAIL——改用 `·`**；批量生成后 grep 行尾 `\| *$` 自查占位行 |
 | `check_chapter_quotes.py` | flat 匹配对弯撇号/超长句有假 MISS（Ligotti ch22 实证）——MISS 先人工 grep 再定性 |
 | `verify_overview_quotes.py` | 概述行内英文引语不在口径内（须逐条人工 grep）；CIRCLED 已扩至㉚，超出部分仍须人工兜底 |
