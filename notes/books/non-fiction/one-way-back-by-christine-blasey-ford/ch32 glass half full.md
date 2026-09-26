@@ -114,9 +114,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全章最露的一次心理泄密：一堂客观的浪型课，比喻系统却全是牢笼词。作者以此示范创伤叙事的隐秘机制——你以为在讲浪，其实每层比喻都过安检。prison yard 与 hotel arrest、quasi prison（ch33）连成本章的空间词链。
 
-### ⑤
+### ⑥
 
-> **原句 5:** Ocean Beach in San Francisco is a famous beach break that's been kicking surfers' asses for years.
+> **原句 6:** Ocean Beach in San Francisco is a famous beach break that's been kicking surfers' asses for years.
 
 **中文理解**：旧金山的 Ocean Beach 是个有名的 beach break，多年来一直把冲浪者揍得屁滚尿流。
 
@@ -128,9 +128,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是她的写作签名：技术准确+市井幽默。在全书最压抑的 Part Four 开篇，这一句是刻意保留的生猛——证明讲台上的她还在。也是给读者的定心丸：这堂课她讲得下去，说明海还没失去她的讲师。
 
-### ⑥
+### ⑦
 
-> **原句 6:** I always needed to have my own space. I never wanted to feel trapped while doing the thing I loved the most.
+> **原句 7:** I always needed to have my own space. I never wanted to feel trapped while doing the thing I loved the most.
 
 **中文理解**：我一直需要有自己的空间。我最热爱的事情进行时，我绝不想感觉被困住。
 
@@ -142,9 +142,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是 ch03 "commit" 公理的姊妹条款：commit 决定下水，space 决定留下。她拒绝 point break 的黄金浪况，只因它的单一起乘点像排队的门——这句话解释了她一生的社交建筑学：为什么离开 Beltway、为什么只雇不添乱的朋友、为什么拒绝 murder boards。
 
-### ⑦
+### ⑧
 
-> **原句 7:** Paddle out. Pop up. Wipe out. Paddle out. Pop up. Again and again.
+> **原句 8:** Paddle out. Pop up. Wipe out. Paddle out. Pop up. Again and again.
 
 **中文理解**：划出去。起身。落水。划出去。起身。一次又一次。
 
@@ -156,9 +156,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全书冲浪书写的语法巅峰：ch03 的长句教学在此压缩成六词口诀。它也悄悄翻译了她的 2018：联系/被拒/重来，联系/被拒/重来——paddle out 的哲学在政治里继续运行。三拍循环的平静语气是回忆录对创伤的最终姿态：动作还在，就还活着。
 
-### ⑧
+### ⑨
 
-> **原句 8:** I imagined their insides filling once again with salty water, given a second chance at life.
+> **原句 9:** I imagined their insides filling once again with salty water, given a second chance at life.
 
 **中文理解**：我想象它们的内里重新注满咸咸的海水——获得了第二次生命。
 
@@ -170,9 +170,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全章最私密的一幅画面：一个无法自救的人，每天在沙滩上给沙钱第二次生命。作者不给这段加任何点评——放生的仪式替她说出了全书没说的话：被冲上岸的东西，值得一次回去的机会。下一段她自己就是那只沙钱。
 
-### ⑨
+### ⑩
 
-> **原句 9:** The ocean has so often been painted as dangerous, something that could snatch a life and pull it down into its depths. But I know the truth.
+> **原句 10:** The ocean has so often been painted as dangerous, something that could snatch a life and pull it down into its depths. But I know the truth.
 
 **中文理解**：海洋总被描绘成危险之物——能夺走一条命、把它拖进深水的东西。但我知道真相。
 

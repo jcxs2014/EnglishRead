@@ -89,7 +89,21 @@ modified: "2026-09-25"
 
 ### ④
 
-> **原句 4:** “You know that story about the little girl on the mountain?” she asked, as if of course I knew the story she was talking about. “She blows the petals of a flower into the wind, and they all scatter. And then she wants them back, so she goes around trying to gather them all up, but it’s impossible.”
+> **原句 4:** “How many people have you told?” she asked. … “Not that many,” I said, worried that I’d already made a mistake.
+
+**中文理解**：“你告诉过多少人？”她问。……“没几个，”我说，心里担心自己已经犯了错。
+
+**句子结构**：审计式问句直击要害 + 省略号跳过第二场会面的重复叙述；worried that I'd already made a mistake 的自我归咎从句收尾。
+
+**关键词**：How many（多少人）、made a mistake（犯了错）
+
+**表达方式**：政治世界的第一反应是量化泄露面——人数即风险敞口；她的回答只有三个词，省略号两侧都是原词。
+
+**为什么这样写**：这是她学到的官僚第一课：秘密的计量单位是知情人数。三词回答与 ch05 对儿子的坦白同构——她始终按“最少知情人”的原则经营这件事，而这一原则将在 WhatsApp 一节（ch15）被证明是天真的一课。
+
+### ⑤
+
+> **原句 5:** “You know that story about the little girl on the mountain?” she asked, as if of course I knew the story she was talking about. “She blows the petals of a flower into the wind, and they all scatter. And then she wants them back, so she goes around trying to gather them all up, but it’s impossible.”
 
 **中文理解**："你知道那个山上小女孩的故事吧？"她问，仿佛我当然知道她在说什么。"她把花瓣吹散进风里，全都四散了。然后她想收回它们，就到处去捡——但那是不可能的。"
 
@@ -101,9 +115,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是政客版本的创伤管理课：信息一旦交出便不可回收。作者如实记录自己的"没跟上"（feeling like back in school）——权力对天真者说话的方式正是寓言：温柔、精准、不容讨论。花瓣意象也与她的水世界互文：风一吹就散的东西，和浪一样不听指挥。
 
-### ⑤
+### ⑥
 
-> **原句 5:** “We don’t want this to get out of your control,” she told me. “Whoever you’ve told, make a list of their names. And don’t add to it.”
+> **原句 6:** “We don’t want this to get out of your control,” she told me. “Whoever you’ve told, make a list of their names. And don’t add to it.”
 
 **中文理解**："我们不想让这件事脱离你的控制，"她告诉我。"你告诉过谁，就列一张名单。然后别再增加。"
 
@@ -115,9 +129,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是体制给幸存者的第一份规则清单：从现在起你的社交网络是证据链的管理成本。作者不加评论地记录这个瞬间——读者自己会撞见它的双面性：它确实保护了她（ch16-19 的策略由此展开），也确实让她在 structurally 孤立了。清单的官僚温度与花瓣寓言的童话温度恰好同源。
 
-### ⑥
+### ⑦
 
-> **原句 6:** What a strange thing, to go into a congressperson’s office to tell them something that might affect the integrity of the Supreme Court and have them assure you that they won’t tell anyone.
+> **原句 7:** What a strange thing, to go into a congressperson’s office to tell them something that might affect the integrity of the Supreme Court and have them assure you that they won’t tell anyone.
 
 **中文理解**：多么奇怪的一件事：你走进一位国会议员的办公室，告诉她一件可能影响最高法院完整性的事，而她向你保证——她不会告诉任何人。
 
@@ -129,9 +143,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全书政治认知的第一个断层时刻：她以为自己在报警，对方却当她在告解。作者的措辞（strange 而非 furious）保持了她一贯的分寸——但读者能从"integrity"这个词上听见她的信仰碰撞：她信任机构到把机构该做的事（保密 vs 行动）都当成机构的诚实。
 
-### ⑦
+### ⑧
 
-> **原句 7:** Now it felt like I’d tried to hand off the football, but it had just been passed right back to me.
+> **原句 8:** Now it felt like I’d tried to hand off the football, but it had just been passed right back to me.
 
 **中文理解**：现在这感觉就像我试图把橄榄球传出去，结果球又被传回了我自己手里。
 
@@ -143,9 +157,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是本章的自我定位句：Eshoo 之行不是行动的开始，是幻觉的结束——她第一次摸到体制的手感：程序接收一切，但握力为零。hand off 的橄榄球语言也和她的冲浪语言并置成全书的两套运动隐喻：球类讲队友，浪讲独自——她的处境永远是后者。
 
-### ⑧
+### ⑨
 
-> **原句 8:** “Well, I guess there are certain things you just have to do alone,” he said, “and this is going to be one of them.”
+> **原句 9:** “Well, I guess there are certain things you just have to do alone,” he said, “and this is going to be one of them.”
 
 **中文理解**："这个嘛，我猜有些事情你就是得独自去做，"他说，"这会是一件。"
 
@@ -157,9 +171,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这句温和的话是本章最冷的一条信息：连她最信任的日常倾诉对象都接受了沉默协议。作者展示 2018 年夏天的真实人际拓扑：每个人都愿意支持，但每个人都在礼貌地让她独自扛。它与 ch16 的 lone reed 一起，解释了为什么躺椅兵团如此珍贵。
 
-### ⑨
+### ⑩
 
-> **原句 9:** Still early in my journey, it was what I would come to discover as the survivor’s Catch-22: you’re told not to tell too many people, but then later you’re told your story isn’t credible because you didn’t tell anyone. You can’t win.
+> **原句 10:** Still early in my journey, it was what I would come to discover as the survivor’s Catch-22: you’re told not to tell too many people, but then later you’re told your story isn’t credible because you didn’t tell anyone. You can’t win.
 
 **中文理解**：旅程刚开始，这还是我后来才醒悟的"幸存者第 22 条军规"：他们叫你别告诉太多人，可后来他们又说你的故事不可信——因为你当时没告诉过任何人。你不可能赢。
 

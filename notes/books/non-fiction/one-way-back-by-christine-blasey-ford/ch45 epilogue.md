@@ -74,7 +74,21 @@ modified: "2026-09-25"
 
 ### ③
 
-> **原句 3:** This isn't a redemption story, because I shouldn't have to redeem myself. I am a multifaceted, nuanced person.
+> **原句 3:** But while my body feels stuck, putting the words down on paper has freed part of my brain.
+
+**中文理解**：但当我的身体感觉被卡住时，把文字落到纸上，解放了我大脑的一部分。
+
+**句子结构**：while 引导的并行对峙（body stuck / brain freed）——一句话装下写作的生理悖论。
+
+**关键词**：stuck（卡住）、putting the words down on paper（把文字落到纸上）、freed（解放）
+
+**表达方式**：身体与大脑的分工制——应激冻结躯体，写作绕过冻结；freed 的动词把书写写成一次越狱。
+
+**为什么这样写**：这是全书写作行为的生理学收据：fawn/fight/flight 让身体死机，而 paper 是绕开 limbic system 的旁路。这句话也解释了这本书为什么存在——它不是产品，是解法。
+
+### ④
+
+> **原句 4:** This isn't a redemption story, because I shouldn't have to redeem myself. I am a multifaceted, nuanced person.
 
 **中文理解**：这不是一个救赎故事——因为我根本不该需要救赎自己。我是一个多面向的、层次复杂的人。
 
@@ -86,9 +100,23 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全书对"幸存者叙事消费"的终极拒绝：读者想要一个被净化过的女主角，她偏要做一个 multifaceted 的真人。这句话也是对所有 "imperfect survivors"（下一句）的公开站队——不够完美的讲述者，不欠任何人一个救赎弧。
 
-### ④
+### ⑤
 
-> **原句 4:** I didn't fail to navigate the process. There never has been one.
+> **原句 5:** There's not a lot of grace for imperfect survivors.
+
+**中文理解**：这个世界对不完美的幸存者，没有多少宽容。
+
+**句子结构**：八词的存在判断句——grace 的宗教词给"宽容"上了神学刻度。
+
+**关键词**：grace（宽容，恩典）、imperfect survivors（不完美的幸存者）
+
+**表达方式**：把社会对幸存者的完美预期写成"恩典稀缺"——叙事工业只封圣无瑕者。
+
+**为什么这样写**：紧接 "This isn't a redemption story" 的第二锤：她拒绝救赎叙事的理由，是它只收完美受害者。这句也是对所有"不够模范"的幸存者的公开站队。
+
+### ⑥
+
+> **原句 6:** I didn't fail to navigate the process. There never has been one.
 
 **中文理解**：我并没有没能驾驭那个流程。那个流程从来就不存在。
 
@@ -100,9 +128,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是 4500 条 tip 被 White House 过滤的真相（前文）之后的最终陈述：她的"天真"（ch15/25）被平反了——不是她不懂流程，是根本没修路。作者把个人愧疚翻译成制度审计报告，一句话替所有在官僚迷宫里自我怀疑的人结案。
 
-### ⑤
+### ⑦
 
-> **原句 5:** Sometimes you don't do it because you are a natural-born disrupter. You do it because you have the power to help push the tides in the right direction. To cause a ripple that might one day become a wave.
+> **原句 7:** Sometimes you don't do it because you are a natural-born disrupter. You do it because you have the power to help push the tides in the right direction. To cause a ripple that might one day become a wave.
 
 **中文理解**：有时候你站出来，不是因为你天生是个搅局者。你站出来，是因为你有能力帮着把潮水往对的方向推一把——去激起一道涟漪，说不定哪天它会变成一道浪。
 
@@ -114,9 +142,23 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全书对自己的最后一次身份改写（Chrissy gone→symbol→disrupter→普通人）：她拒绝 hero 叙事，只承认"在正确位置推了一把"。这句话把她的个案翻译成所有普通人的可选动作——革命不招天生领袖，只招在场的人。
 
-### ⑥
+### ⑧
 
-> **原句 6:** Every swell starts with one wave. The world changes when the regular, imperfect people who have been on the beach look out at what's happening—fear and uncertainty hurling at them with unstoppable force—and decide to paddle out and take their chances. When enough of us do it, justice will finally prevail.
+> **原句 8:** If my act of speaking out plays a role in an eventual paradigm shift, ending stigma around sexual assault and holding powerful people accountable for their actions, then I accept whatever personal sacrifices I had to make.
+
+**中文理解**：如果我的发声能在一个终将到来的范式转移里扮演一角——终结性侵污名、让有权者为自己的行为负责——那么我接受我不得不付出的任何个人牺牲。
+
+**句子结构**：if 超长条件句（三个并列目的）+ then I accept 的让步收束——牺牲被写成投资条款。
+
+**关键词**：paradigm shift（范式转移）、stigma（污名）、sacrifices（牺牲）
+
+**表达方式**：库恩科学哲学词汇（paradigm shift）进入个人叙事——科学家把痛苦折算成研究成本；accept 的动词没有英雄主义，只有核算后的签字。
+
+**为什么这样写**：紧接《科学革命的结构》的引用，这句把全书的意义论定稿：革命在发生时不可见，个人牺牲是范式转移的入场费。它也是对 ch35 "You pay a price for telling the truth" 的最终对账——价签还在，但她签了收据。
+
+### ⑨
+
+> **原句 9:** Every swell starts with one wave. The world changes when the regular, imperfect people who have been on the beach look out at what's happening—fear and uncertainty hurling at them with unstoppable force—and decide to paddle out and take their chances. When enough of us do it, justice will finally prevail.
 
 **中文理解**：每一场涌浪都始于一道浪。当海滩上那些平凡的、不完美的人望着正在发生的一切——恐惧与不确定以不可阻挡之力扑面而来——然后决定划出去、赌上自己的机会，世界就会改变。当我们中有足够多的人这么做，正义终将胜出。
 
@@ -128,9 +170,9 @@ modified: "2026-09-25"
 
 **为什么这样写**：这是全书题目的物理学答辩：One Way Back 的"一条路"终于接线到集体动词——每个人独自划出去，但方向汇成 swell。作者把毕生的浪学（ch03 教学/ch10 commit/ch24 high tide/ch22 wave coming）兑换成一个社会运动模型，收束在她最信任的语言里。
 
-### ⑦
+### ⑩
 
-> **原句 7:** See you in the water.
+> **原句 10:** See you in the water.
 
 **中文理解**：水里见。
 

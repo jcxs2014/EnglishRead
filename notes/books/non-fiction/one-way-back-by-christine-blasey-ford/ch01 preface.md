@@ -37,8 +37,6 @@ modified: "2026-09-25"
 
 > "It was as if I had crawled out of a cave only to walk back in and tell everyone else who was still hiding inside, "Don't go out there; it's not worth it.""
 
-> "You can never be anything else now. You can never be different than you were on that day."
-
 > "Do I regret it? In many ways, yes."
 
 > "Would I do it again? Absolutely."

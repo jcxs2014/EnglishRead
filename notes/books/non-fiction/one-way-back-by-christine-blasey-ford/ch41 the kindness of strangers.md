@@ -140,7 +140,7 @@ modified: "2026-09-25"
 
 **表达方式**：亿万身家的主人蹲在尘土里绑绳——动作的熟练度打破阶层的全部预设；nonchalantly 与 her perfect white blouse（前文）同框：白衬衫不心疼，泥卡车不嫌弃。
 
-**为什么这是章的名场面**：这是"kindness of strangers"的具象化巅峰：不是支票不是演讲，是名人朋友跪在土里帮你绑冲浪板。作者用她无法隐藏的表情（下一句 couldn't hide the look on my face）收束——那一刻她接住的不是绳钩，是世界重新可信的证据。
+**为什么这样写**：这是"kindness of strangers"的具象化巅峰：不是支票不是演讲，是名人朋友跪在土里帮你绑冲浪板。作者用她无法隐藏的表情（下一句 couldn't hide the look on my face）收束——那一刻她接住的不是绳钩，是世界重新可信的证据。
 
 ### ⑧
 

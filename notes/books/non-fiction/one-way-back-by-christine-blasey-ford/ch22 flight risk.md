@@ -158,7 +158,7 @@ modified: "2026-09-25"
 
 ### ⑨
 
-> **原句 9:** But I wasn’t going to play a game of telephone. Talking about the experience was uncomfortable, and I wasn’t eager to lay it out in detail for people who weren’t directly involved. I wanted to tell it to just a few people—the right people—and only once.
+> **原句 9:** But I wasn’t going to play a game of telephone. Talking about the experience was uncomfortable, and I wasn’t eager to lay it all out in detail for people who weren’t directly involved. I wanted to tell it to just a few people—the right people—and only once.
 
 **中文理解**：但我不想玩传话游戏。谈论那段经历本来就很难受，我不愿意把它一五一十讲给不相干的人听。我只想讲给少数人——对的人——而且只讲一次。
 
