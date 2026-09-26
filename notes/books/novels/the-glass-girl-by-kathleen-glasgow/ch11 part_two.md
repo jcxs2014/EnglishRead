@@ -68,7 +68,7 @@ source_text: ch11
 
 **为什么这样写**：她认出这一场，不是因为有人说"干预"，而是因为**她认得这个布景**——电视里的模板（瘫坐、家人、清算）她见过太多次，所以当房间真的排成这个样子，她先感到的是形式上的熟悉，而不是内容上的震惊。`Haggard, strung-out` 这对形容词直接照搬她看过的节目词汇。末尾 `and…Oh my god.` 的省略号是**思路断掉**的位置：清单还没列完，她已经听不下去。
 
-**读者视角提示**：`I cannot believe this is happening to me` 与 ④ 段开头那句 `Oh my god` 同词重复——**她只能反复用这三个字，因为她没有别的词可用**。
+**读者视角提示**：`I cannot believe this is happening to me` 与 ④ 段开头那句 `Oh my god` 同词重复——**她只能反复用同一句惊呼，因为她没有别的说法可用**。
 
 ### ⑤
 
@@ -102,7 +102,7 @@ source_text: ch11
 
 **关键词**：extra level of tension / we don’t advocate / shakes her head
 
-**为什么这样写**：她问能不能跟父母道别，得到的是**一句机构话术**。`we don't advocate` 里的 `we` 不指现场任何人——不指父亲、不指母亲、也不指 Bella，指的是 Tracy 背后的那套流程。这个 `we` 是全章最冷的一个词：它把一次母女分离说成"一个我们不鼓励的紧张等级"。`shakes her head` 夹在两句台词之间，是唯一的非语言回应。
+**为什么这样写**：她问能不能跟父母道别，得到的是**一句机构话术**。`we don't advocate` 里的 `we` 不指现场任何人——不指父亲、不指母亲、也不指 Bella，指的是 Tracy 背后的那套流程。这个 `we` 是全章最冷的一处：它把一次母女分离说成"一个我们不鼓励的紧张等级"。`shakes her head` 夹在两句台词之间，是唯一的非语言回应。
 
 **读者视角提示**：**说话人 = Tracy**（已核：上一行是 Bella 的 `"But my parents. Where are they? Don't I get to say goodbye?"`；`she` 承接 L1220 `I just stand there as Tracy walks toward the lobby doors. She looks back.`）。**全章 208 个对话引号只有 3 个就近说话人标签，其余全靠这种回指。**
 
