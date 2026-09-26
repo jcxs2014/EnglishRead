@@ -39,6 +39,24 @@ metadata:
 | **新书启动模板** | `docs/新书启动模板.md` | **每本新书开工前必读**，含执行规则速查 + 历史坑表 |
 | 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first） |
 
+## tracked 门禁脚本索引
+
+> 权威用法与**已知盲区**以根 `AGENTS.md` 的「配套工具链」与「工具已知盲区速查」
+> 两表为准；此处只作跨会话记忆的快速定位。`scripts/attic/` 是 gitignored 的
+> 一次性脚本区，**不在门禁内**，不要引用其结论。
+
+| 脚本 | 一句话职责 | 关键前提 / 盲区速记 |
+|------|-----------|------------------|
+| `verify_corpus.py` | **语料层验收**（P0-0）：件数对账 / 人物锚点双向 / 首末句抽印 / 转义符与页码 bleed | 在所有以 `text/` 为真值的门禁**之前**跑；不传 `--anchors` 则 ② 整项跳过 |
+| `check_vocab.py` | 词汇表真实性 / 例句逐字 / 分档合理性 / 必备章节 / 空文件 | v3 起只扫 `## 词汇` 节；v4 起必备章节按「该书 ≥50% 文件都有」判定 |
+| `verify_quotes.py` | 引语逐字（对 epub 全文）；`--full` 关闭 52 字符指纹盲区 | **必须有 `library/*.epub`**；「0 提取」按文件名四类分派 |
+| `check_chapter_quotes.py` | 引语**逐章归属**（对 `text/`），防跨章搬句 | 不需 epub；P0-5 吞词检测**只报不判红**（md 吞词 / text 粘连无法分辨） |
+| `verify_overview_quotes.py` | 总览三篇引语门禁（`verify_quotes` 不覆盖总览） | 概述行内英文引语不在口径内，须逐条人工 grep |
+| `check_entities.py` | 梗概实体一致性（未知人名地名 = 情节虚构信号） | — |
+| `check_crossref.py` | 分析层 `chNN "引语"` 跨章引用是否指对章 | **只认英文模式**，中文「第X章」写法不在口径 |
+| `extract_chapters.py` | epub → 逐章 `text/` | dropcap 修连正则有已知误伤；提取后必跑 `verify_corpus` |
+| `audit_book.py` | 一键总账（A 库存 / B 引文 / C 格式 / D 词汇实体） | **不含 crossref**（由 `check_crossref` 承担） |
+
 ## 重要记忆（按时间倒序）
 
 ### 2026-09-18 新增
