@@ -69,7 +69,7 @@ modified: "2026-09-25"
 中文理解：为什么我们每往前迈一步，紧跟着的总是某个可以预料得到的人为挫折。好像我们不知道这场仗已经打完了似的。
 关键词：every step we take forward / some predictably human setback / we don't know the fight's already over
 为什么这样写：`predictably human`（可以预料得到的、人为的）——**这是全书对"制度"最准确的一个词组：灾难之所以是灾难，正因为它可预测。** `the fight's already over`（这场仗已经打完了）——**从"前進"的反义词跳到"战争已经结束"，是一个类比的骤然换层**。
-读者视图提示：而投诉者说得更短：`"That's a real shitty thing to say, Dispatcher."`（这话说得可真他妈烂，调度员。）——**全书唯一一次听众直接否决 May 的道德立场，而 May 的回答是：`"I guess it is."`** ——**他承认得比任何人都快。** 紧接着他说出全书对广播这门手艺的唯一辩护：`I worry that most stories I know aren't mine to tell.`（我担心我知道的大多数故事都不该由我来讲。）
+读者视角提示：而投诉者说得更短：`"That's a real shitty thing to say, Dispatcher."`（这话说得可真他妈烂，调度员。）——**全书唯一一次听众直接否决 May 的道德立场，而 May 的回答是：`"I guess it is."`** ——**他承认得比任何人都快。** 紧接着他说出全书对广播这门手艺的唯一辩护：`I worry that most stories I know aren't mine to tell.`（我担心我知道的大多数故事都不该由我来讲。）
 
 > **原句 9:** "They thought, 'War.' They thought, 'Poor guy.' But they imagined themselves into his struggles, and they did not think, 'Killer.'"
 
@@ -126,7 +126,7 @@ modified: "2026-09-25"
 中文理解：我站在她身边，什么也没说，可我心里的某个阀门在一声碎裂的巨压下松开了。当然。当然会是 Bezi Duras 带走 Mila。至少现在我知道了。
 关键词：said nothing / a valve released with shattering pressure / Of course. / At least now I knew
 为什么这样写：`a valve released`（一个阀门松开了）——**这是全书最反生理的一次描写：痛苦被写成蒸汽泄压**。`shattering pressure`（碎裂的压力）——**`shattering`（碎裂的）与"松开"构成反义并置。** `Of course.` 独立成段，后面 `Of course,` 再来一次——**这两个 `Of course` 就是全书判决书**。而最后一句的 `At least now I knew.`（至少现在我知道了。）——**全书"知道"这个动作的代价，第一次由 Alex 自己结清。**
-读者视图提示：而在电视上，**Mila 父亲的眼眶也被写成了同一个物理问题**：`His eyes looked like they'd been rubbed with sandpaper, and he recited one platitude after another in a low, flat voice.`（**他的眼睛像是被砂纸擦过，用一种低而平的声音一句接一句地念着套话。**）——**两个人，一块砂纸，一个阀门。**
+读者视角提示：而在电视上，**Mila 父亲的眼眶也被写成了同一个物理问题**：`His eyes looked like they'd been rubbed with sandpaper, and he recited one platitude after another in a low, flat voice.`（**他的眼睛像是被砂纸擦过，用一种低而平的声音一句接一句地念着套话。**）——**两个人，一块砂纸，一个阀门。**
 
 > **原句 17:** ""You ought to report him," the caller said. "I'm not sure how much good that would do.""
 

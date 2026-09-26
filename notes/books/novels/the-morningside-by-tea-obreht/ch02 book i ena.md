@@ -75,7 +75,7 @@ modified: "2026-09-25"
 
 中文理解：那些既不是贼也不是"撵客"的人，是"哗啦族"——这是 Ena 和我母亲用来说那种把全部首饰一次戴在身上的人的一个词。
 关键词：a term ... used to denote / wore all their jewelry at once
-为什么这样写：一个**纯人造词**（janglers），靠服饰细节定义族群，讽刺精确到只用一个动作（一次戴完全部首饰）。`a term ... used to denote` 的插入语先声明"这是我们自己的叫法"，把词源和判断都挡在说话人身上。
+为什么这样写：一个**纯人造词**（janglers），靠服饰细节定义族群，讽刺精确到只用一个动作（一次戴完全部首饰）。`a term Ena and my mother used to denote` 这个同位插入语先声明"这是我们自己的叫法"，把词源和判断都挡在说话人身上。
 读者视角提示：这个词在后半部书里还会出现（母亲用它评价某些访客），Ch02 是它的第一次定义。
 
 > **原句 10:** "Each card asked the same three questions, spaced neatly down the page and presented in unobtrusive capital letters"

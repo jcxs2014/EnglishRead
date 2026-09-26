@@ -85,11 +85,11 @@ modified: "2026-09-25"
 为什么这样写：三个 `had turned` 结构完全同构，逐级下坠，从物到人到母亲的性格。`somebodies`（某些人，复数）被拆成不成词的 `nobodies`——**人变成句法上不成立的东西**，这是把"人口失踪"写成语法事故。
 读者视角提示：这是 ch01 那张合影的反面叙述：照片里十一年前的母亲在笑，本句交代了她后来成了什么样的人。
 
-> **原句 11:** "Don't put so much stock in your aunt's version of things. She was lucky enough to leave home before she had to. While it was still green."
+> **原句 11:** "She was lucky enough to leave home before she had to. While it was still green."
 
 中文理解：别那么看重你姨妈说的那个版本。她足够幸运，能在非走不可之前就离开家。趁它还绿着。
-关键词：put so much stock in / lucky enough to leave home before she had to / while it was still green
-为什么这样写：`stock`（看重、押注）把记忆版本说成可以估值的筹码。`While it was still green` 用一个**最简形容词**收尾：绿=还活着=还湿润。三个短句，句号代替了任何解释。
+关键词：lucky enough to leave home before she had to / While it was still green
+为什么这样写：**两句都是"侥幸"的语法**——`lucky enough to leave home before she had to`（幸运到能在非走不可之前离开）里 `enough to`（足以）把一次幸存写成了**一个刚好够用的条件**。而 `While it was still green` 用一个最简形容词收尾：绿=还活着=还湿润。
 读者视角提示：`while it was still green` 与 ch01 标题意象（晨光）互文；母亲口中的"绿"是全书的分界线——活着的过去与已经变成废墟的过去。
 
 > **原句 12:** "I didn't want that for you. I was glad for a reason to leave."

@@ -71,7 +71,7 @@ modified: "2026-09-25"
 为什么这样写：`its course`（它自己的轨道）把人生写成一列自动驾驶的列车，而 `necessary information`（必要信息）用行政语言形容一封道歉信。两个语域的碰撞就是这一句的全部力道。
 读者视角提示：Alex 此刻正站在 16D 门口；May 那些同样的 `What if...` 追问（ch10）在此汇成一股：他的假设只差一个动作就要被证实——**这就是他缠上 Alex 的全部动机**。
 
-> **原句 9:** "He had written, by his own count, no less than thirty letters to Ailin and Soraya Handak, attempting to explain and apologize for intruding on their grief, for taking Maryam's unattributed words, for making himself part of their lives and Mary's death."
+> **原句 9:** "He had written, by his own count, no less than thirty letters to Ailin and Soraya Handak, attempting to explain and apologize for intruding on their grief, for taking Maryam's unattributed words, for making himself part of their lives and Maryam's death."
 
 中文理解：按他自己的说法，他至少写了三十封信给 Ailin 和 Soraya Handak，一遍遍解释、道歉：为了闯入她们的悲伤，为了取走 Maryam 那些从未署名的诗，为了让自己成为她们的生活、以及 Maryam 的死亡的一部分。
 关键词：by his own count / no less than thirty letters / attempting to explain and apologize for intruding on their grief

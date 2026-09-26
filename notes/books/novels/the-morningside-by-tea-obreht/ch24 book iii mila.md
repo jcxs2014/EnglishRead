@@ -96,7 +96,7 @@ modified: "2026-09-25"
 
 中文理解：它的冲击力打掉了两根承重柱，那两根也倒了下来，把潜水员困在下面那片冰冷黑暗里。
 关键词：the force of it knocked out / two load-bearing pylons / which also fell / trapping the divers in the freezing dark below
-为什么这样写：`load-bearing`（承重的）——建筑术语，而 `bearing`（承载）这个词族在整本书里反复出现：`She was pregnant with a life she hadn't consented to`、ch20 的 `I was pregnant with a life I hadn't consented to`，**承受重量的人一直是女性**。`which also fell`（那两根也倒了）——`also` 这个副词里全是绝望：**A 倒了，B 也倒了。**
+为什么这样写：`load-bearing`（承重的）——建筑术语，而 `bearing`（承载）这个词族在整本书里反复出现：ch12 那只摔死的鹦鹉、ch20 那三个被关着的男孩、ch22 那三十一层为陌生人付费的楼，**承受重量的始终是女人和她们生的孩子**。`which also fell`（那两根也倒了）——`also` 这个副词里全是绝望：**A 倒了，B 也倒了。**
 读者视角提示：`trapping`（困住）这个词是本书的核心动词之一——ch16 卡在河里的鲸、ch19 那三个被关着的男孩、ch12 那只摔死的鹦鹉。**这本书里所有的"困住"最后都是"落下"。**
 
 > **原句 13:** "He had forgotten to say \"sister.\" We got a sister down there."

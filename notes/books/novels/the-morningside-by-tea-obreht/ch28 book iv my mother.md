@@ -48,7 +48,7 @@ modified: "2026-09-25"
 中文理解：一个小小的、单人的龙卷风，在抽打一个稻草人似的女孩——那女孩还比她高出一头。
 关键词：A small, one-woman whirlwind / buffeting a scarecrow of a girl / who towered over her
 为什么这样写：**三个尺寸词全部错位**：`small` 与 `whirlwind`、`scarecrow` 与 `girl`、`towered over`（高出）。`one-woman`（单人的）——**力量在母亲身上，体型在女儿身上。** `buffeting`（拍打）是风对稻草人的动词。
-读者视角提示：这与 ch25 那位父亲形成全书最锋利的一组对照——`He had a large square face` / `a huge, gentle hulk`（巨大而温和的块头）——**而这两次见面里，真正把对方扔出去的从来不是块头。**
+读者视角提示：这与 ch25 那位父亲形成全书最锋利的一组对照——ch25 那个父亲 `had a large square face`（一张方正的大脸），前一晚的母亲则被他母亲 `his huge, gentle hulk`（他那巨大而温和的块头）**挤到走廊里去**——**而真正把对方扔出去的从来不是块头。**
 
 > **原句 6:** "\"Keep your fucking mouth shut—and if somebody asks where you're from, you say Paraiso!\""
 
@@ -118,7 +118,7 @@ modified: "2026-09-25"
 中文理解：他去了那么久，久到我开始觉得这是故意的。
 关键词:He was gone for so long / it began to feel deliberate
 为什么这样写：`began to feel deliberate`（开始显得是故意的）——**这是全书对"沉默"最精确的一次度量**：`so long` 是时间量，`deliberate` 是意图判断，而 Alex 承认**自己无法区分这两者**。整句真正的主语不是 May，是**时间本身**。
-读者视图提示：它紧接在 `"Let me get a pen," he said.` 之后——**May 说自己去拿笔，然后消失了一段时间。** 读者立刻猜到他在做什么。**而 Alex 的下一个念头是 `"He's calling the police," my mother said.`（他在报警。）**——**这本书里关于"沉默"与"报警"的那一整套恐惧，在这一章第一次不再由 Alex 承担。**
+读者视角提示：它紧接在 `"Let me get a pen," he said.` 之后——**May 说自己去拿笔，然后消失了一段时间。** 读者立刻猜到他在做什么。**而 Alex 的下一个念头是 `"He's calling the police," my mother said.`（他在报警。）**——**这本书里关于"沉默"与"报警"的那一整套恐惧，在这一章第一次不再由 Alex 承担。**
 
 > **原句 16:** "I don't have the words,\" she said in Ours."
 

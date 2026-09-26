@@ -24,7 +24,7 @@ modified: "2026-09-25"
 
 > **原句 2:** ""No. What I mean is: you were born in a place that no longer exists—and now, well. Here you are.""
 
-中文理解："不。我的意思是：你出生在一个已经不存在的���方——而现在，嗯，你在这儿。"
+中文理解："不。我的意思是：你出生在一个已经不存在的地方——而现在，嗯，你在这儿。"
 关键词：you were born in a place that no longer exists / and now, well. Here you are
 为什么这样写：**一句判决被拆成两个逗号和两个小句**——`and now, well.`（而现在，嗯。）**那个 `well` 是全章最重要的一次填充音**：它让后半句从"信息"降级成"感慨"。而 `you were born in a place that no longer exists`（**你出生在一个已经不存在的地方**）**是全书写"失去"最干净的一次句法：只用一个存在性的否定。**
 读者视角提示：Alex 随即把这句话准确地展开成全书的地理判决：`. it had ceased to exist on maps that were being produced, a piece of an older time that had sheared off and crumbled into the sea. And now I belonged far more relevantly to this other place.` —— **`sheared off`（被剪掉）用的是剪刀，不是地质**：**被剪掉的东西不会自己掉下去。**
@@ -83,24 +83,16 @@ modified: "2026-09-25"
 中文理解："是啊，可是——可 Back Home 不是那样的。Ena 想让你以为那边全是森林、蘑菇和会魔法的 violin，可完全不是那么回事。"
 关键词：but—but that's not what Back Home was like / Ena wanted you to think it was all forests and toadstools and magic violins / but it wasn't like that at all
 为什么这样写：**两个 `but` 之间夹了一个逗号，而第一个 `but` 后面没有内容**——**这是母亲打断自己：她想承认 Alex 说得对，又不肯承认。** 而那句最漂亮：`all forests and toadstools and magic violins`（**森林、蘑菇和魔法的 violin**）——**三个名词递进，而最后一个被一个形容词（魔法的）修饰成全书最童话的一句**；**Ena 一生的工作就是把这三个东西递给侄女，而她妹妹一生的工作就是拒绝它们。** 而 `Back Home`（老家）这个词在全书 32 章里第一次出现**——**这是它们的真名，也是母亲用来指认一个国家大小的创伤的那个词。**
-读者视角提示：**而母亲的独白是全书最长的一段，而它的主题是一句被拆成两个 `so was` 的话**：`"But not for me. My youth was the stuff of life. So was hers, until the world turned vicious and broke her heart."` —— **`the stuff of life`（人生的原料）**——**`stuff`（材料）与 Ena 的 `that folksy stuff`（那种民俗的东西）是同一根词，而这一卷把它们分给了两个姐妹。**
+读者视角提示：**而母亲的独白是全书最长的一段，而它的主题是一句被拆成两个 `so was` 的话**：`"But not for me. My youth was the stuff of life. So was hers, until the world turned vicious and broke her heart."` —— **`the stuff of life`（人生的原料）**——**`stuff`（材料）与 Ena 的 `that folksy stuff`（那种民俗的东西）是同一根词，而这一卷把它们分给了两个姐妹。** **Alex 在同一处打断了她**：`: "But you were raised with it, too. The folksy stuff."`（`:"可你也是被那套东西养大的。那些民俗的东西。"`）——`raised with it`（被那套东西养大）里的 `raised` 同时是抚养与举起：**Alex 被"folksy stuff"举到了与母亲同一个高度上，而这一点母亲用了三十二章都没有承认。**
 
-
-> **原句 11:** ""Yes, but—but that's not what Back Home was like. Ena wanted you to think it was all forests and toadstools and magic violins, but it wasn't like that at all.""
-
-中文理解："是啊，可是——可 Back Home 不是那样的。Ena 想让你以为那边全是森林、蘑菇和会魔法的 violin，可完全不是那么回事。"
-关键词：but—but that's not what Back Home was like / Ena wanted you to think it was all forests and toadstools / but it wasn't like that at all
-为什么这样写：**两个 `but` 之间夹了一个逗号，而第一个 `but` 后面没有内容**——**这是母亲打断自己：她想承认 Alex 说得对，又不肯承认。** 而那句最漂亮：`all forests and toadstools and magic violins`（**森林、蘑菇和魔法的 violin**）——**三个名词递进，而最后一个被一个形容词（魔法的）修饰成全书最童话的一句**；**Ena 一生的工作就是把这三个东西递给侄女，而她妹妹一生的工作就是拒绝它们。** 而 `Back Home`（老家）这个词在全书 32 章里第一次出现**——**这是它们的真名，也是母亲用来指认一个国家大小的创伤的那个词。**
-读者视角提示：**Alex 的回应是全书最重要的一次打断**：`"But you were raised with it, too. The folksy stuff."`（**"可你也是被那套东西养大的。那些民俗的东西。"**）——`raised with it`（被那套东西养大）**里 `raised`（养育）同时是抚养与举起**：**Alex 被"folksy stuff"举到了与母亲同一个高度上，而这一点母亲用了三十二章都没有承认。** 而她用了三秒就被顶了回去：`"But not for me. My youth was the stuff of life."`（**可对我来说不是。我的人生原料就是生活本身。**）——**`the stuff of life`（人生的原料）与 Ena 的 `that folksy stuff`（那种民俗的东西）是同一根词，而这一卷把它们分给了两个姐妹。**
-
-> **原句 12:** ""Your aunt Ena, she lived those things—but they didn't mean the same thing to her. When she was young, in the time when she was most herself, when she wanted to burst out of the stitching that held her together, she wasn't allowed to be part of it the way I was. She didn't feel safe in it. So what she carried with her was that old stuff, death and enchantment. But my life was very different.""
+> **原句 11:** ""Your aunt Ena, she lived those things—but they didn't mean the same thing to her. When she was young, in the time when she was most herself, when she wanted to burst out of the stitching that held her together, she wasn't allowed to be part of it the way I was. She didn't feel safe in it. So what she carried with her was that old stuff, death and enchantment. But my life was very different.""
 
 中文理解："你姨妈 Ena，她经历过那些事——可那些事对她来说不是同一个意思。她年轻的时候，在她最像自己的那段日子里，在她想从那个把她缝在一起的东西里挣出来的时候，她没有被允许像我那样参与其中。她在里面不感到安全。所以她随身带走的是那套老东西：死亡与魔法。可我的人生非常不一样。"
 关键词：she lived those things—but they didn't mean the same thing / to burst out of the stitching that held her together / she wasn't allowed to be part of it the way I was / She didn't feel safe in it / that old stuff, death and enchantment
 为什么这样写：**`stitching that held her together`（把她缝在一起的东西）**——**这个比喻选的是一件不能拆的衣服：缝线是"暂时拼起来的"证据，而"held her together"（把她撑住）承认它是承重的。** 而 `she wasn't allowed to be part of it the way I was`（**她没有被允许像我那样参与其中**）**与前面那句 `she lived those things`（**她经历过那些事**）构成全书最冷的一组对照**：**经历过 ≠ 被允许拥有。**
 读者视角提示：而最后一句的分工是全书对两姐妹的最终判决：`. So what she carried with her was that old stuff, death and enchantment. But my life was very different.` —— **`that old stuff`（那套老东西）与 `my life`（我的人生）并列，而不是对立。** 母亲不是没有 Ena 的世界；她只是选了另一个。**而 Alex 写这一段的唯一一句评论是七秒后的一句道歉：`"I wish I'd known about your life. Why didn't you ever talk about it?"`**
 
-> **原句 13:** ""Because it was gone, Sil. And I didn't want to get all tangled up missing it.""
+> **原句 12:** ""Because it was gone, Sil. And I didn't want to get all tangled up missing it.""
 
 中文理解："因为它已经没了，Sil。而且我实在不想一团乱地陷在'想念它'里头。"
 关键词：Because it was gone, Sil / I didn't want to get all tangled up / missing it

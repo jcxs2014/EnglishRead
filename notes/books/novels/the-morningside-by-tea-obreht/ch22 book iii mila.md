@@ -17,9 +17,10 @@ modified: "2026-09-25"
 
 > **原句 1:** "There was cheese on all of them, and on some there were indecipherable rounds of something called coppa, too."
 
-中文理解：还有一些叫作 coppa 的、看不懂的圆片
-为什么这样写：`indecryptable` 的错拼原文是 `indecitherable`；`indec.decipherable`（无法解读的）。`rounds`（圆片）——**香肠的形状描写被彻底抽象成了几何**。`something called coppa`（一种叫 coppa 的东西）——**连名字都是一句外语**。
-读者视角提示：一个从小在这座城里长大的人，**读不出这是什么肉**。`indec.decipherable` 这个词在此不只是"看不懂字"，是**这块食物超出了他的知识范围**。
+中文理解：每一盘上都覆着奶酪；有些盘子上还有几片叫不出名字、看不出来的圆片，叫作 coppa。
+关键词：There was cheese on all of them / indecipherable rounds / something called coppa
+为什么这样写：`indecipherable`（无法解读的）——**这个词在全书是一枚回声**：ch26 那个女孩"认不出"母亲藏起来的画，ch28 母女用彼此听不懂的母语互骂。`rounds`（圆片）——**香肠的形状描写被彻底抽象成了几何**。`something called coppa`（一种叫 coppa 的东西）——**连名字都是一句外语。**
+读者视角提示：一个从小在这座城里长大的人，**读不出这是什么肉**。而 `There was cheese on all of them`（每一盘上都覆着奶酪）是一个**主动遮盖**的句式：奶酪不只好吃，它**把下面的东西盖住了**——而这句话紧跟着的下一句才是 `The realization that it was meat, when it finally came, blindsided me.`（当"这是肉"这个事实终于到来时，它把我打了一个措手不及。）
 
 > **原句 2:** "The realization that it was meat, when it finally came, blindsided me."
 

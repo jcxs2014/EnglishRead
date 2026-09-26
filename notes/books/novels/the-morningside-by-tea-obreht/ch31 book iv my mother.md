@@ -90,7 +90,7 @@ modified: "2026-09-25"
 中文理解：听见她管 May 叫"小羊"很奇怪。但对她来说他就是那样。小羊·奥斯蒙德。我试着那样叫过他一次，只为了感觉一下——可那又拗口又侵入，我再没叫过。
 关键词：odd to hear her refer to May as "Lamb" / Lamb Osmond / I tried calling him that once, just to get a feel for it / it was unwieldy and intrusive, and I never did it again
 为什么这样写：`refer to`（称作、提到）——**这个词组把一个母亲的乳名写成了一次公开指称**。`unwieldy and intrusive`（拗口而侵入）——**两个形容词一个说发音、一个说边界，而它们描述的其实是同一件事：这个词太私密。** 而 `I never did it again`（**我再没叫过**）**是全书的最后一句叙述，落在 Alex 对一个词的取舍上**。
-读者视图提示：**全书写了三十三章，最后交给读者的是一个从来没被叫出口的乳名。** 而 `Lamb Osmond` 这个名字在 ch09 出现过一次（`Lamb` 是母亲喊他的方式）——**Alex 在这里第一次知道他姓什么，而读者也是同时知道的。**
+读者视角提示：**全书写了三十三章，最后交给读者的是一个从来没被叫出口的乳名。** 而 `Lamb Osmond` 这个名字在 ch09 出现过一次（`Lamb` 是母亲喊他的方式）——**Alex 在这里第一次知道他姓什么，而读者也是同时知道的。**
 
 
 > **原句 12:** "Included in the envelope was a single sheet of stationery, scrawled with an offhand"
@@ -112,7 +112,7 @@ modified: "2026-09-25"
 中文理解：Repopulation 的反对者把它当成一个例子，说明为什么对入境的难民申请者做更严的筛查比以往任何时候都更有必要。
 关键词：Repopulation decriers / used it as an example / tighter screenings of incoming refuge seekers / more necessary than ever
 为什么这样写：`used it as an example`（把它当成例子）——**新闻里的"例子"是一个技术性中立的词，而它在这里做的事是定罪。** `tighter screenings`（更严的筛查）——**`screenings` 里的 `screen`（筛子）是可以把沙子里的石头留下的东西**。而 `more necessary than ever`（比以往任何时候都更有必要）——**这个比较级没有任何数据支撑，它只是重复。**
-读者视线提示：而书里给这场舆论战下的最冷定义是同一段里的这句：`Those caught in the middle theorized about who might be responsible`（**夹在中间的人开始推测到底谁该负责**）——**`theorized`（推测）用来描述一群没有信息的人。** 更冷的是给母亲的定性：`my inscrutable, shifty-eyed, lunatic mother`（**我那难以捉摸、眼神闪烁、疯疯癫癫的母亲**）——**三个形容词，全部是关于"不可读"的，而这一整章她唯一做的事是搬砖。**
+读者视角提示：而书里给这场舆论战下的最冷定义是同一段里的这句：`Those caught in the middle theorized about who might be responsible`（**夹在中间的人开始推测到底谁该负责**）——**`theorized`（推测）用来描述一群没有信息的人。** 更冷的是给母亲的定性：`my inscrutable, shifty-eyed, lunatic mother`（**我那难以捉摸、眼神闪烁、疯疯癫癫的母亲**）——**三个形容词，全部是关于"不可读"的，而这一整章她唯一做的事是搬砖。**
 
 > **原句 15:** "Experts roped in by the news shows seemed to circle eternally around the question of her death without ever quite managing to land on it."
 
@@ -131,9 +131,9 @@ modified: "2026-09-25"
 > **原句 17:** "raging about the way Popovich had sold us out, and had leased a place to a warlord without thought or warning, and had probably burned all our belongings"
 
 中文理解：她暴怒地数落 Popovich 怎样把我们卖了出去，怎样不加考虑也不打招呼就把房子租给了一个军阀，又怎样大概烧掉了我们全部的家当
-关键词：railed against / had sold us out / leased a place to a warlord without thought or warning / had probably burned all our belongings
+关键词：raging about / had sold us out / leased a place to a warlord without thought or warning / had probably burned all our belongings
 为什么这样写：`raging about`（暴怒地数落）——**`rage`（暴怒）与 `railing`（扶栏）只差一个字母，而这一段里她两者都在做**：她在被隔开的边缘上骂。三个 `and` 是**排比降级**：卖了 → 租了 → 大概烧了。`had probably burned`（**大概烧了**）——**这个 `probably` 是全章最有资格的一个词**：她从没回去看过，她一辈子不知道。
-读者视图提示：而排比的终点是：`everything we had in the world, not to mention all those scrapbooks and pictures of the old house, of Baba, of Ena and Beanie, all of it, gone, gone, gone` —— **三个名字（Baba、Ena、Beanie）被夹在"全世界"和"全没了"之间，而三个 `gone` 是全章唯一的重音。**
+读者视角提示：而排比的终点是：`everything we had in the world, not to mention all those scrapbooks and pictures of the old house, of Baba, of Ena and Beanie, all of it, gone, gone, gone` —— **三个名字（Baba、Ena、Beanie）被夹在"全世界"和"全没了"之间，而三个 `gone` 是全章唯一的重音。**
 
 > **原句 18:** "He had said it was his city, and he had been right—but he hadn't yet figured out how to be its Dispatcher in this new way."
 

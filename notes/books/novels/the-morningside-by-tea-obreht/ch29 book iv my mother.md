@@ -55,7 +55,7 @@ modified: "2026-09-25"
 中文理解：可人一旦又绝望又害怕，就会变得残忍。他们会做蠢事、说蠢话，来让自己安心。
 关键词：when people are desperate and afraid / they get cruel / stupid things to reassure themselves
 为什么这样写：`get cruel`（变得残忍）——**`get` 在这里表示状态的变化，而且是渐变的**，不是变成，也不是"做残忍的事"。`to reassure themselves`（为了让自己安心）——**把残忍定义成一个医疗行为**。
-读者视图提示：而被这个句子描述的正是母亲接下来做的事：那些女人告诉她 `'Oh, what a shame you're not hearing from him—maybe he left you.'`（哎呀，没他的消息真可惜——也许他不要你了。）**因为她从不写字，所以所有丈夫都没写字这件事，被她讲成了一件"她们大概在骗我"的事。**
+读者视角提示：而被这个句子描述的正是母亲接下来做的事：那些女人告诉她 `'Oh, what a shame you're not hearing from him—maybe he left you.'`（哎呀，没他的消息真可惜——也许他不要你了。）**因为她从不写字，所以所有丈夫都没写字这件事，被她讲成了一件"她们大概在骗我"的事。**
 
 > **原句 7:** "nobody was brave enough to admit that we never heard from them again."
 
