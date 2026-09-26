@@ -99,7 +99,7 @@ modified: "2026-09-26"
 
 **关键词**：She was perfectly fine one moment / the next she had a very bad headache / and the next she was gone / gone
 
-**表达方式**：**以三个"one moment / the next / the next"的三段式**（**one moment 此刻 / the next 下一刻 / and the next 再下一刻**）**构成一个"加速的时间线"**。而 `perfectly fine`（完好无损）——**这个词的绝对性**（perfectly = 完全地）——**暗示她死亡前看起来毫无异样**。
+**表达方式**：**以 `one moment / the next / the next` 这一三段式开篇**（**one moment 此刻 / the next 下一刻 / and the next 再下一刻**）**构成一个"加速的时间线"**。而 `perfectly fine`（完好无损）——**这个词的绝对性**（perfectly = 完全地）——**暗示她死亡前看起来毫无异样**。
 
 **为什么这样写**：这三个"one moment / the next / and the next"——**它们把一段本应漫长的"从健康到死亡"的过程，压缩成了三个瞬间**。**——**而这个压缩之所以可怕，正是因为它暗示：**死亡可以在"完全正常"与"完全消失"之间，只隔两个瞬间**。**——**而 `perfectly fine`（完好无损）**——**这个绝对化的词，与 `a very bad headache`（很严重的头痛）形成对照**：**前一分钟"完好无损"，后一分钟"严重头痛"**——**而"严重头痛"在医学上并不必然意味着死亡**（**它可以只是一次偏头痛**）——**但在这个三段式里，它是第二格**（**它通向"gone"**）。**——**这暗示了死亡的一种残酷的"叙事结构"：**它总能在"正常"与"消失"之间，找到一个看似无关的中间状态**（**一次头痛**），**而那个中间状态在事后看起来，是唯一的"征兆"**（呼应 ch01：had been sleeping poorly, a bit unwell——那些当时被当作"轻微不适"的东西）。**——**而 `gone`（走了）**——**这个 ch01 用过的词再次出现**（**`On 10 June, he was gone`**）——**而在这里它是第三人称的"gone"**——**而"gone"这个词的轻，与"死亡"的重的落差，在 Caroline 与父亲两处同时出现**。
 
