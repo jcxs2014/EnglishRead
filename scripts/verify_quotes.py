@@ -94,20 +94,71 @@ def extract_quotes(txt: str):
             quotes.append(body)
     return quotes, short
 
+# ── P0-1 「0 提取」按文件角色四类分派（2026-09-26，方案 §3.6）──────────────
+# 原实现对「0 提取」只有一句 ⚠️ 后 continue，既不计入 bad 也不说明该不该管，
+# 于是 168 个正文章节文件（涉 22 本书）长期静默跳过。§3.6 全库盘点实测：
+#   非内容 6 / 概述类 209 / 金句·节点类 213（涉 160 本）/ 正文章节 168（涉 22 本）
+# 四者性质不同，不能一律判失败。判定顺序不可颠倒。
+RE_NONCONTENT = re.compile(
+    r'审查报告|审查|review|handoff|index|索引|collab|协作|readme|'
+    r'summary_log|gate_log|报告', re.I)
+RE_OVERVIEW = re.compile(r'概述|综述|overview|全书概览|梗概', re.I)
+RE_QUOTES = re.compile(r'金句|quotes?|情感节点|节点|emotional', re.I)
+# 正文章节里的非章节文件（参考文献 / 贡献者名单 / 人物表等）——同样不该有引语
+RE_BACKMATTER = re.compile(
+    r'contributor|reference|bibliograph|^人物|角色|目录|contents|about|'
+    r'acknow|appendix|glossar|list of books|works mentioned|index', re.I)
+
+ROLE_SKIP, ROLE_ALLOW, ROLE_DEFER, ROLE_FAIL = 'skip', 'allow', 'defer', 'fail'
+
+
+def classify_md(name: str) -> str:
+    """按文件名角色返回 ROLE_* 之一。顺序即优先级（§3.6 判定链）。
+
+    总览三篇（金句/节点/概述）判 ROLE_DEFER 而非 ROLE_FAIL——**这是对方案
+    §3.6 表格「金句/节点类 0 = FAIL」的一处有意偏离**，依据：
+      AGENTS 已知盲区表明写「verify_quotes 不覆盖 00_*.md 总览（须另跑
+      verify_overview_quotes）」，即总览引语的主管门禁是 verify_overview_quotes。
+      实测 chinas-world-view 的 `00_情感节点.md` 被 verify_overview_quotes
+      以 22/22 ✅ 覆盖——若 verify_quotes 仍判它红，就是与另一门禁自相矛盾
+      的假红。verify_quotes 无法知道姊妹门禁是否已覆盖，故只提示不判红。
+    """
+    if RE_NONCONTENT.search(name):
+        return ROLE_SKIP
+    if RE_OVERVIEW.search(name):
+        return ROLE_ALLOW
+    if RE_QUOTES.search(name):
+        return ROLE_DEFER
+    if RE_BACKMATTER.search(name):
+        return ROLE_SKIP          # 正文章节里的 back-matter，同样排除
+    return ROLE_FAIL
+
+
 def main(book_dir: str, epub_path: str):
     full = flat_alpha(epub_flat_text(epub_path))
     total_ok = total = clean = bad = 0
     short_total = 0
+    zero_fail = []               # (name, role) —— 0 提取且该角色应为 FAIL
+    zero_allow = 0
+    zero_defer = []              # 总览三篇：0 提取但不判红（转交 verify_overview_quotes）
     for f in sorted(glob.glob(os.path.join(book_dir, "*.md"))):
         name = os.path.basename(f)
         txt = open(f, encoding="utf-8").read()
         quotes, short = extract_quotes(txt)
         short_total += short
         if not quotes:
+            role = classify_md(name)
             if short:
                 print(f"{name}: ⚠️ 0 条长引语 + {short} 条短引语（<20字符，工具不校验，须人工 grep）")
+            elif role == ROLE_SKIP:
+                continue           # 非内容 / back-matter：本就不该有引语
+            elif role == ROLE_ALLOW:
+                zero_allow += 1
+                print(f"{name}: ○ 0 提取（概述类，允许——散文体无编号引语块）")
+            elif role == ROLE_DEFER:
+                zero_defer.append(name)
             else:
-                print(f"{name}: ⚠️ 未提取到编号引语（请人工核对格式）")
+                zero_fail.append((name, role))
             continue
         ok = 0
         miss = []
@@ -143,8 +194,25 @@ def main(book_dir: str, epub_path: str):
                 print(f"    ✗ {m}...")
     if short_total:
         print(f"\n⚠️ 全书共 {short_total} 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底")
-    print(f"\n=== 总计 {total_ok}/{total} 引文可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad} ===")
-    sys.exit(0 if bad == 0 and total > 0 else 1)
+    # ── P0-1 0 提取的角色分派结论 ──────────────────────────────────
+    if zero_allow:
+        print(f"\n○ 概述类 {zero_allow} 个文件 0 提取——按设计允许（散文体，无编号引语块）")
+    if zero_defer:
+        print(f"\n○ 总览三篇 {len(zero_defer)} 个文件 0 提取——**本工具不判红**"
+              f"（总览引语主管门禁是 verify_overview_quotes）")
+        for nm in zero_defer:
+            print(f"    · {nm}  → 须由 verify_overview_quotes 覆盖；"
+                  f"若它也 0 提取则该文件引语确实无人核实")
+    if zero_fail:
+        print(f"\n❌ P0-1：{len(zero_fail)} 个正文章节 0 提取（引语完全未被任何门禁核实）")
+        for nm, role in zero_fail:
+            print(f"    · {nm}")
+        print("   注：0 提取也可能源于**解析器盲区**——本工具只认 ①-㉕ / "
+              "「> **原句 N:**」/「> \"...\"」三种格式；")
+        print("       裸 `> English` 整段式与 `- \"English\"` bullet 式抽不到"
+              "（全库实测 75 个正文章节文件属此类，其引语从未被核实）。")
+    print(f"\n=== 总计 {total_ok}/{total} 引文可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad}；正文章节 0 提取 {len(zero_fail)}；总览 0 提取转交 {len(zero_defer)} ===")
+    sys.exit(0 if bad == 0 and total > 0 and not zero_fail else 1)
 
 if __name__ == "__main__":
     main(sys.argv[1], sys.argv[2])
