@@ -34,6 +34,26 @@ check_vocab.py — 词汇表真实性/分档检测（逐章版）
    （标准 markdown 是「表头 → |---| → 数据行」）。
 3. 本版同时修掉两个自伤：resolve_cols 回退候选未排除词头列（中文例句列会让
    xi 落到词头上 → 假 FAIL）；表头行识别方向搞反（把数据行当表头）。
+
+改动（v4，方案 P0-3 / P0-4，2026-09-26）
+------------------------------------------------
+4. **P0-3 例句须含词头**（判 WARN）：例句 flat 后须含词条任一实词。停用词表
+   **不排介词与小品词**——短语动词（be up for sth / check out）的中心词正是
+   小品词，排掉就永远配不上。实测近 28 日本 20431 可判定行中 943 行（4.62%）
+   不含词头，涉 26/28 本。**判 WARN 不判 FAIL**：这些例句本身是原文逐字
+   （不是造假），属"例句没配到词"的质量问题；判 FAIL 会一次性卡住 26 本。
+   升级只需把 warns.append 改到 fails（一行）。
+5. **P0-4 必备章节 + 空文件**（判 FAIL）：
+   - <200 字节判空/近空。实测抓到全库唯一 0 字节文件
+     （night-circus ch68，其 text/ 有 6885 字节真实文本——提取了却从未写；
+     三门禁在空文件上全绿：0 引语 / 0 词条行 / 0 FAIL）。
+   - 必备角色**按书多数派自校准**（该角色须在本书 ≥50% 文件中出现），**不
+     硬编码体裁**。理由：节名变体太多（`## 10 Quote Blocks with Five
+     Sub-items`、`## 逐句精读（10处）`、英文 `## Vocabulary`），且 open-secrets
+     8 篇内部格式不统一（6 篇无概览 / 2 篇有）。一刀切要求"概览"必假红。
+     多数派只抓"这一篇缺了同侪都有的章节"——正是空文件那类真缺陷。
+   - 阈值 50% 与 60% 实测结果完全相同（不敏感）。
+   - 总览三篇排除：前缀 `00_` / **`00 `（空格，实测存在）** / 裸名（概述.md）。
 """
 import re, sys, glob, os, zipfile, html as htmlmod, unicodedata
 
@@ -74,6 +94,55 @@ H2_PAT    = re.compile(r'^##\s')
 HDR_ENTRY = ('词/短语', '词条', '单词/短语', '单词', '词汇', '短语', '表达', 'word', 'term', 'phrase')
 HDR_MEAN  = ('释义', '含义', '意思', '解释', 'definition', 'meaning', 'gloss')
 HDR_EXAM  = ('例句', '原文例', '例 句', 'example', 'sentence', 'citation')
+
+# P0-3「例句须含词头」用。**不排介词与小品词**——短语动词（be up for sth /
+# check out / give in）的中心词正是小品词，排掉就永远配不上。
+FUNC_STOP = {'the', 'a', 'an', 'and', 'or', 'it', 'its', 'is', 'are', 'was', 'were',
+             'be', 'been', 'being', 'do', 'does', 'did', 'has', 'have', 'had',
+             'that', 'this', 'these', 'those', 'there', 'he', 'she', 'they'}
+
+# ── P0-4 必备章节（2026-09-26）─────────────────────────────────────────────
+# 最初想按体裁硬编码（AGENTS 的短篇合集格式不含「概览」，一刀切会全量假红），
+# 实测后改为**按书多数派自校准**——见 expected_roles_for_book 的 docstring。
+VOCAB_ROLE = (r'^词汇分级', r'^本章词汇', r'^本篇词汇', r'^Vocabulary', r'^Word List')
+# 别名按实测补：open-secrets ch03 用英文 `## 10 Quote Blocks with Five Sub-items`
+ROLE_PATS = {
+    '概览': (r'^概览', r'^本章导航', r'^篇目概要', r'^Overview'),
+    # 允许可选的前导计数（实测 `## 10 Quote Blocks with Five Sub-items`）
+    '精读': (r'^精读$', r'^逐句精读', r'^选择性精读', r'^逐段精读',
+             r'^(?:\d+\s+)?Quote\s+Blocks', r'^(?:\d+\s+)?Close\s+Reading', r'^Reading'),
+    '词汇': VOCAB_ROLE,
+    '总结': (r'^一句话总结', r'^精读结束总结', r'^精读总结', r'^Summary', r'^One-Sentence'),
+}
+# 总览三篇：前缀是 `00_`（多数）或 `00 `（少数），另有裸名 `概述.md`
+OVERVIEW_RE = re.compile(r'^00[ _]|^(概述|金句精选|情感节点|金句)')
+MIN_MD_BYTES = 200   # 低于此值视为空/近空文件（实测全库唯一 0 字节文件）
+MAJORITY = 0.5       # 角色须在本书过半文件中出现，才算每篇的必备项
+
+
+def roles_in(headings):
+    hs = [h.lstrip('#').strip() for h in headings]
+    return {r for r, ps in ROLE_PATS.items()
+            if any(any(re.match(p, h) for p in ps) for h in hs)}
+
+
+def expected_roles_for_book(paths):
+    """按书**多数派**自校准必备角色，不硬编码体裁。
+
+    理由（实测 28 本 919 文件）：节名变体极多（`## 10 Quote Blocks with
+    Five Sub-items`、`## 逐句精读（10处）`、英文 `## Vocabulary`），而 open-secrets
+    8 篇内部格式还不统一（6 篇无概览 / 2 篇有）。一刀切要求「概览」必假红。
+    多数派规则只抓「这一篇缺了同侪都有的章节」——正是空文件那类真缺陷。
+    """
+    if not paths:
+        return set()
+    per = []
+    for p in paths:
+        hs = [l.strip() for l in open(p, encoding='utf-8', errors='ignore')
+              if re.match(r'^#{1,3} ', l.strip())]
+        per.append(roles_in(hs))
+    return {r for r in ROLE_PATS
+            if sum(1 for s in per if r in s) / len(per) >= MAJORITY}
 
 
 def resolve_cols(cells):
@@ -205,10 +274,15 @@ def check_book(book_dir, verbose=False):
     fails, warns = [], []
     total_rows = 0
 
-    for f in sorted(glob.glob(os.path.join(book_dir, '*.md'))):
-        if os.path.basename(f).startswith('00_'):
-            continue  # 总览文件无词汇表
+    md_files = sorted(glob.glob(os.path.join(book_dir, '*.md')))
+    # P0-4 前置：本书的「必备角色」按多数派自校准（排除总览三篇）
+    expected = expected_roles_for_book(
+        [p for p in md_files if not OVERVIEW_RE.match(os.path.basename(p))])
+
+    for f in md_files:
         name = os.path.basename(f)
+        if OVERVIEW_RE.match(name):
+            continue  # 总览三篇（00_ / `00 `空格 / 裸名）无词汇表，格式另定
 
         # 读 frontmatter（优先）：source_text: chNN 或 chapter: N
         fm = {}
@@ -235,6 +309,22 @@ def check_book(book_dir, verbose=False):
         n_rows = 0
         # ── P0-2b 两遍：先判本文件有无词汇节，再决定扫描范围 ──────────
         lines = open(f, encoding='utf-8').read().splitlines()
+        # ── P0-4 必备章节 / 空文件 ────────────────────────────────
+        headings = [l.strip() for l in lines if re.match(r'^#{1,3} ', l.strip())]
+        body_bytes = sum(len(l.encode('utf-8')) for l in lines)
+        if body_bytes < MIN_MD_BYTES:
+            # 空/近空文件：三门禁全绿（0 引语 / 0 词条行 / 0 FAIL），
+            # 只有这里拦得住。实测全库唯一 0 字节文件 = night-circus ch68，
+            # 其 text/ 有 6885 字节真实文本——提取了却从未写。
+            fails.append((name, None,
+                          f'空/近空文件（{body_bytes} 字节，<{MIN_MD_BYTES}）——'
+                          f'若 text/ 有对应提取件则该章尚未动笔', ''))
+        else:
+            have = roles_in(headings)
+            miss = sorted(expected - have)
+            if miss:
+                fails.append((name, None,
+                              '缺必备章节（同侪多数派有）：' + '、'.join(miss), ''))
         has_vocab_sec = any(VOCAB_SEC.match(l.strip()) for l in lines)
         if not has_vocab_sec:
             # 无节标题 → 回退全文件扫描（宁可多查不可静默丢覆盖），并报格式 WARN。
@@ -322,6 +412,18 @@ def check_book(book_dir, verbose=False):
                 warns.append((name, tier, '基础档疑含超纲词', entry))
             elif tier == '高级' and words and all(w in COMMON for w in words):
                 warns.append((name, tier, '高级档混入常用词', entry))
+            # 6. P0-3 例句必须含词头（判 WARN 不判 FAIL，理由见下）
+            #    实测 28 本近两日书：20431 可判定行中 943 行（4.62%）例句
+            #    不含词条任一实词，涉 26/28 本。若判 FAIL 会一次性卡住
+            #    26 本——而这些例句本身是**原文逐字**（不是造假），属
+            #    「例句没配到词」的质量问题，不是真实性问题，故降级 WARN。
+            #    升级为 FAIL 只需把 append 换到 fails，改一行。
+            if example and len(re.findall(r'[A-Za-z0-9]', example)) >= 8:
+                heads = [w for w in words if len(w) >= 3 and w not in FUNC_STOP]
+                if heads:
+                    ef = flat(example)
+                    if not any(w in ef or word_hits_corpus(w, ef) for w in heads):
+                        warns.append((name, tier, '例句不含词头', entry))
 
         total_rows += n_rows
         for sec, k in sorted(stray.items(), key=lambda x: -x[1]):
