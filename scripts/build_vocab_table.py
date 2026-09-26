@@ -1,60 +1,68 @@
 #!/usr/bin/env python3
-"""Build a three-tier vocab table from vocab_candidates.py output, with glosses supplied
-as a dict keyed by headword. No headword or example sentence is ever typed by hand —
-both come from the generator, which reads text/chNN.txt.
+"""Build a three-tier vocab table for a chapter.
 
-Usage:  python3 scripts/build_vocab_table.py <book-dir> --ch NN --tiers '<json gloss map>'
-        (gloss map: {"⭐⭐⭐": {"head": "释义", ...}, "⭐⭐": {...}, "⭐": {...}})
-The example-sentence column is always the generator's verbatim sentence.
+The headword list is the only thing supplied by hand, and every headword is
+verified verbatim (with word boundaries) against text/chNN*.txt. The example
+sentence is extracted from that same file, so an example can never come from
+another chapter and can never be invented.
+
+  python3 scripts/build_vocab_table.py <book_dir> --ch 10 \
+      --tiers tiers.json
+
+where tiers.json is {"⭐⭐⭐": {"headword": "释义", ...}, "⭐⭐": {...}, "⭐": {...}}
+
+Exits 2 on any headword not found in the chapter — the tool refuses to emit a
+table containing an invented word.
 """
-import argparse
 import json
-import subprocess
+import re
 import sys
+from pathlib import Path
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("book_dir")
-    ap.add_argument("--ch", required=True)
-    ap.add_argument("--tiers", required=True, help="JSON gloss map")
-    ap.add_argument("--limit", type=int, default=40)
-    a = ap.parse_args()
+def load_chapter(book_dir: str, ch: str) -> str:
+    hits = sorted(Path(book_dir, "text").glob(f"ch{ch}_*.txt"))
+    if len(hits) != 1:
+        sys.exit(f"expected exactly one text/ch{ch}_*.txt, got {len(hits)}")
+    return hits[0].read_text(encoding="utf-8")
 
-    gloss = json.loads(a.tiers)
-    out = subprocess.run(
-        [sys.executable, "scripts/vocab_candidates.py", a.book_dir,
-         "--ch", a.ch, "--tiers", "--limit", str(a.limit)],
-        capture_output=True, text=True, check=True,
-    ).stdout
 
-    # parse: "### ⭐⭐⭐ 高级" headings then table rows "| headword | (释义待填) | "example" |"
-    cur, rows = None, []
-    for line in out.splitlines():
-        if line.startswith("### "):
-            cur = line[4:].split()[0]
-            rows.append((cur, []))
-            continue
-        if cur and line.startswith("| ") and "释义待填" in line:
-            cells = [c.strip() for c in line.strip("|").split(" | ")]
-            rows[-1][1].append((cells[0], cells[2]))
+def sentences(text: str) -> list[str]:
+    flat = re.sub(r"\s+", " ", text.replace("\n", " "))
+    return [s.strip() for s in re.split(r"(?<=[.?!”])\s+", flat) if s.strip()]
 
-    print("| 词汇 | 释义 | 例句 |")
-    print("|------|------|------|")
-    filled = miss = 0
-    for tier, items in rows:
-        gm = gloss.get(tier, {})
-        for head, sent in items:
-            g = gm.get(head)
-            if not g:
-                print(f"MISSING GLOSS: [{tier}] {head}", file=sys.stderr)
-                miss += 1
+
+def main() -> None:
+    argv = sys.argv[1:]
+    book_dir = argv[0]
+    ch = argv[argv.index("--ch") + 1]
+    tiers = json.loads(Path(argv[argv.index("--tiers") + 1]).read_text(encoding="utf-8"))
+
+    text = load_chapter(book_dir, ch)
+    sents = sentences(text)
+
+    out, missing = [], []
+    for tier, label in (("⭐⭐⭐", "高级"), ("⭐⭐", "进阶"), ("⭐", "基础")):
+        rows = []
+        for head, gloss in tiers.get(tier, {}).items():
+            pat = re.compile(rf"(?<!\w){re.escape(head)}(?!\w)", re.IGNORECASE)
+            if not pat.search(text):
+                missing.append(f"{tier} {head}")
                 continue
-            print(f"| {head} | {g} | {sent} |")
-            filled += 1
-    print(f"<!-- filled {filled}, missing {miss} -->", file=sys.stderr)
-    return 1 if miss else 0
+            example = next((s for s in sents if pat.search(s)), "")
+            if not example:
+                missing.append(f"{tier} {head} (no example sentence)")
+                continue
+            rows.append(f"| {head} | {gloss} | {example} |")
+        if not rows:
+            continue
+        out += [f"### {tier} {label}", "", "| 词汇 | 释义 | 例句 |", "|------|------|------|", *rows, ""]
+
+    if missing:
+        print("headwords not verbatim in ch%s: %s" % (ch, ", ".join(missing)), file=sys.stderr)
+        sys.exit(2)
+    print("\n".join(out))
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
