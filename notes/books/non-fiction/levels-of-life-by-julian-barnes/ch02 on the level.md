@@ -72,11 +72,11 @@ modified: "2026-09-26"
 
 **中文理解**：我们生活在平面上、水平线上，然而——也因此——我们渴望上升。作为地面上的芸芸众生，我们有时能够够到诸神的高度。有人借艺术翱翔，有人借宗教；大多数人借爱情。但当我们翱翔时，我们也可能坠落。软着陆从来稀少。我们可能发现自己在地面上被腿骨折断的力道弹跳拖曳，拖向某条异国的铁路线。每个爱情故事都是一个潜在的悲恸故事。如果不是先来，就是后来；如果不是这一个，就是那一个。有时，是两个一起。
 
-**句子结构**：and yet – and so – 的自我打断是全段枢纽：破折号两侧把" 然而/因此 "焊在一起（渴望恰因匍匐而起）；Some... others... most... 三分人类；后半段用 If not... then... 的排比把 grie f story 的必然性一步步锁死。
+**句子结构**：and yet – and so – 的自我打断是全段枢纽：破折号两侧把" 然而/因此 "焊在一起（渴望恰因匍匐而起）；Some... others... most... 三分人类；后半段用 If not... then... 的排比把 grief story 的必然性一步步锁死。
 
 **关键词**：on the flat, on the level（在平面上，水平线上）、Every love story is a potential grief story（每个爱情故事都是潜在的悲恸故事）、few soft landings（软着陆稀少）
 
-**表达方式**："leg-fracturing force, dragged towards some foreign railway line" 不是修辞——是本章第一部 Nadar 气球坠地史实（The Giant 撞向铁路线）的回声，把历史细节转写成命运的隐喻；部题 On the Level 的双关在此揭晓。
+**表达方式**："leg-fracturing force, dragged towards some foreign railway line" 不是修辞——是第一部（ch01）Nadar 气球坠地史实（The Giant 在汉诺威附近撞向铁路线）的回声，把历史细节转写成命运的隐喻；部题 On the Level 的双关在此揭晓。
 
 **为什么这样写**：这是全书的题眼段：它同时是气球史、爱情论和遗属手册；"potential grief story" 把第三部悼亡内容的入场券提前发给读者——读到这里，后面的失去都已注定，悬念只剩"如何失去"。
 
@@ -92,7 +92,7 @@ modified: "2026-09-26"
 
 **表达方式**：三个名词句完成全书的总隐喻配平——摄影=真实、气球=魔法、爱情=两者的交点；句子短到近乎格言，是全书被引用最多的一处。
 
-**为什么这样写**：在第一部（摄影）与第二部（气球）各自铺陈完毕后，这里第一次把两张牌摊在桌面上；它也让 Sarah（被拍摄的人）与 Burnaby（气球客）的恋情成为隐喻的自我实现——他们的相爱就是"真实与魔法"的相拼。
+**为什么这样写**：在气球与摄影两条线各自铺陈完毕后，这里第一次把两张牌摊在桌面上；它也让 Sarah（被拍摄的人）与 Burnaby（气球客）的恋情成为隐喻的自我实现——他们的相爱就是"真实与魔法"的相拼。
 
 ### ⑤
 
@@ -114,7 +114,7 @@ modified: "2026-09-26"
 
 **中文理解**："我们都是成年人。我们懂这个世界。我不是什么客厅里的军人。你也不是天真的少女。嫁给我。嫁给我。我把我的剑——连同我的心——一起放在你脚下。我说不出比这更直白的话了。"
 
-**句子结构**：短句连发，三组对仗（We are both grown up / We know the world；I am not... / You are not...）铺垫后突然祭出祈使句 Marry me. Marry me.——重复即是失控；结尾用 straightforwardly 呼应全书的关键词。
+**句子结构**：短句连发，两组对仗（We are both grown up / We know the world；I am not... / You are not...）铺垫后突然祭出祈使句 Marry me. Marry me.——重复即是失控；结尾用 straightforwardly 呼应全书的关键词。
 
 **关键词**：parlour soldier（客厅军人）、Marry me. Marry me.（嫁给我。嫁给我。）、straightforwardly（直白地）
 
@@ -146,7 +146,7 @@ modified: "2026-09-26"
 
 **关键词**：plaintive, heart-rending cries（哀怨的、令人心碎的叫声）、died of grief（死于悲伤）、the cage with its tormentor（与折磨者同笼）
 
-**表达方式**：力量对比（能杀而不杀）与情感对比（想活而不得活）叠在一起——哀鸣不是软弱而是依存的证据；"cage with its tormentor" 五个词把斯德哥尔摩式的悖论收进一幅静物画。
+**表达方式**：力量对比（能杀而不杀）与情感对比（想活而不得活）叠在一起——哀鸣不是软弱而是依存的证据；"the cage with its tormentor" 五个词把斯德哥尔摩式的悖论收进一幅静物画。
 
 **为什么这样写**：这段用 "(In parenthesis, another love story)" 自我标注的括号，是全书结构最险也最准的一笔：它把"分离致死、折磨相守"的寓言插在求婚被拒与分手之间——既预告 Burnaby 求不得的余生，也预告第三部作者自己"失去共同悲恸者（co-griever）"的处境。
 

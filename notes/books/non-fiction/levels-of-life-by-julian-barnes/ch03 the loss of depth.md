@@ -43,7 +43,7 @@ modified: "2026-09-26"
 
 > **原句 1:** You put together two people who have not been put together before. Sometimes it is like that first attempt to harness a hydrogen balloon to a fire balloon: do you prefer crash and burn, or burn and crash? But sometimes it works, and something new is made, and the world is changed. Then, at some point, sooner or later, for this reason or that, one of them is taken away. And what is taken away is greater than the sum of what was there. This may not be mathematically possible; but it is emotionally possible.
 
-**中文理解**：你把两个从未被放在一起的人放到了一起。有时，这就像第一次试图把氢气球拴在火气球下面：你宁愿先坠毁后燃烧，还是先燃烧后坠毁？但有时它成了，某种新东西被造出来，世界被改变。然后，在某一个时刻，或早或晚，因这样或那样的原因，其中之一被带走了。而被带走的东西，大于曾经存在过的总和。这在数学上或许不成立；但在情感上成立。
+**中文理解**：你把两个从未被放在一起的人放到了一起。有时，这就像第一次试图把氢气球和火气球拴在一起：你宁愿先坠毁后燃烧，还是先燃烧后坠毁？但有时它成了，某种新东西被造出来，世界被改变。然后，在某一个时刻，或早或晚，因这样或那样的原因，其中之一被带走了。而被带走的东西，大于曾经存在过的总和。这在数学上或许不成立；但在情感上成立。
 
 **句子结构**：与第二部开头同构再进一层；Then 起的转折句把时间轴拉进叙事；末两句以 mathematically / emotionally 的对位收束——承认悖论，再宣布悖论的另一套法则。
 
@@ -63,7 +63,7 @@ modified: "2026-09-26"
 
 **关键词**：thirty years（三十年）、The heart of my life; the life of my heart（我人生的心脏；我心脏的人生）
 
-**表达方式**：交错配列（chiasmus）——ABBA 结构让"心"同时成为人生的器官与人生的全部； preceding 的年龄数字把抽象的"一生"钉进历法，反衬下一行的抒情跳脱。
+**表达方式**：交错配列（chiasmus）——ABBA 结构让"心"同时成为人生的器官与人生的全部；前面两个年龄数字把抽象的"一生"钉进历法，反衬下一行的抒情跳脱。
 
 **为什么这样写**：全书最私人的一行；在写满气球史与名人轶事之后，作者终于交出自己的坐标——也是第三部此后所有"我"的宣言的信用凭证：他用两个数字证明这段婚姻占了成年的全部岁月。
 
@@ -85,13 +85,13 @@ modified: "2026-09-26"
 
 > **原句 4:** So how do you feel? As if you have dropped from a height of several hundred feet, conscious all the time, have landed feet first in a rose bed with an impact that has driven you in up to the knees, and whose shock has caused your internal organs to rupture and burst forth from your body. That is what it feels like, and why should it look any different?
 
-**中文理解**：那么你感觉如何？就像你从几百英尺的高空坠落，全程清醒，脚朝下落进一个玫瑰花坛，冲击力把你陷到膝盖，震荡让你体内的器官破裂并喷出体外。感觉就是这样——而外表凭什么看起来不该不一样？
+**中文理解**：那么你感觉如何？就像你从几百英尺的高空坠落，全程清醒，脚朝下落进一个玫瑰花坛，冲击力把你陷到膝盖，震荡让你体内的器官破裂并喷出体外。感觉就是这样——而外表凭什么该看起来不一样？
 
 **句子结构**：自问自答；答句是全章最长的单句之一——dropped / landed / driven / rupture 四个动词把坠落全程压进一句；末句反问把"内伤"与"外观"的落差摊开。
 
 **关键词**：dropped from a height（从高空坠落）、rose bed（玫瑰花坛）、internal organs to rupture（内脏破裂）
 
-**表达方式**：这个意象是第一部 Newcastle 坠亡者死状（"The impact drove his legs into a flower bed as far as his knees, and ruptured his internal organs"）的完整复用——把一个陌生人的死状移植到生者的体感上；"全程清醒"（conscious all the time）是全句最残忍的限定。
+**表达方式**：这个意象是第一部 Newcastle 坠亡者死状（"The impact drove his legs into a flower bed as far as his knees, and ruptured his internal organs, which burst out on to the ground."）的完整复用——把一个陌生人的死状移植到生者的体感上；"全程清醒"（conscious all the time）是全句最残忍的限定。
 
 **为什么这样写**：三章的隐喻系统在此合龙：气球坠落史（第一部）→ 恋爱坠落（第二部）→ 悲恸即坠落（第三部）；Barnes 不解释悲伤，只给你一副从几百英尺高空落地后的身体——并反问旁观者：凭什么要求这样的人看起来正常？
 
@@ -99,11 +99,11 @@ modified: "2026-09-26"
 
 > **原句 5:** We have lost God's height, and gained Nadar's; but we have also lost depth. Once, a long time ago, we could go down into the Underworld, where the dead still lived. Now, that metaphor is lost to us, and we can only go down literally: potholing, drilling for minerals, and so on. Instead of the Underworld, the Underground. Some of us will go down into the earth at the end of it all. Not very far, just six feet down; except that the scale of depth is lost as you stand there and throw flowers down on to a coffin lid, whose brass nameplate winks back at you. Then, it looks and feels a long way down, six feet.
 
-**中文理解**：我们已经失去了上帝的高度，得到了 Nadar 的高度；但我们也失去了深度。很久以前，我们可以下到冥界，那里死者仍然活着。如今那个隐喻对我们失效了，我们只能字面意义地下潜：探洞、钻探矿藏之类。不再是冥界，而是地铁。我们中的一些人最终也将下到土里。不远，只有六英尺；只是当你站在那里，把鲜花扔上棺盖——棺盖上的黄铜名牌朝你眨眼——深度的尺度就丢失了。那时，六英尺看起来、感觉起来都深不见底。
+**中文理解**：我们已经失去了上帝的高度，得到了 Nadar 的高度；但我们也失去了深度。很久以前，我们可以下到冥界，那里死者仍然活着。如今那个隐喻对我们失效了，我们只能字面意义地下潜：探洞、钻探矿藏之类。不再有冥界，只有地底。我们中的一些人最终也将下到土里。不远，只有六英尺；只是当你站在那里，把鲜花扔上棺盖——棺盖上的黄铜名牌朝你眨眼——深度的尺度就丢失了。那时，六英尺看起来、感觉起来都深不见底。
 
 **句子结构**：首句是全书书题的兑现（height 与 depth 的双账清算）；Underworld → Underground 的一词之换构成全段的脊梁；末句以 six feet 的重复收束——同一个数字，第一次是尺寸，第二次是深渊。
 
-**关键词**：God's height（上帝的高度）、the Underworld / the Underground（冥界／地铁）、six feet（六英尺）
+**关键词**：God's height（上帝的高度）、the Underworld / the Underground（冥界／地底）、six feet（六英尺）
 
 **表达方式**：winks back at you（名牌朝你眨眼）——把黄铜反光写成死者最后的回视，是全章最冷静也最惊心的物写；"the scale of depth is lost" 把主题句变成测量学命题：失去的不是距离而是尺度。
 
@@ -129,7 +129,7 @@ modified: "2026-09-26"
 
 **中文理解**："我们"如今被稀释成"我"。双眼的记忆变成了单眼的。再也没有可能把两个不确定的记忆——关于同一件事——用三角测量、空中测绘的方法，装配成一个更确定的单一记忆。于是那段记忆，如今变成第一人称单数，变了质。与其说是对事件的记忆，不如说是对事件之照片的记忆。
 
-**句子结构**：首两句各为一个比喻的三级递减（'We'→'I'；binocular→monocular）；长句用 assembling... by triangulation, by aerial surveying 的双方式状语把测量学词汇堆上；末句 Less A than B 的比较级收束定性。
+**句子结构**：首两句各为一次两项递减（'We'→'I'；binocular→monocular）；长句用 assembling... by triangulation, by aerial surveying 的双方式状语把测量学词汇堆上；末句 Less A than B 的比较级收束定性。
 
 **关键词**：watered down to 'I'（稀释成"我"）、Binocular memory（双眼记忆）、the memory of a photograph of the event（对事件之照片的记忆）
 
@@ -149,7 +149,7 @@ modified: "2026-09-26"
 
 **表达方式**：三个近义词被强行拉开距离——"死"与"不存在"之间隔着一整个悼亡实践的世界；延续③的地理隐喻（tropic），让"死者仍存在"拥有地图学级别的确定性。
 
-**为什么这样写**：这是第三部伦理立场的基石句：它一秒钟授权了后文全部"与死者对话"的行为（Compton-Burnett、Bonnard、Mencken、作者自己），并预先驳回 Pereira 医生式的"grief-work"正统——不是他没做完悲伤作业，而是旁观者不承认死者的持续存在。
+**为什么这样写**：这是第三部伦理立场的基石句：它一秒钟授权了后文全部"与死者对话"的行为（Compton-Burnett、Bonnard、Mencken、作者自己），并预先驳回 Crodoso 医生那套"grief-work"正统——不是他没做完悲伤作业，而是旁观者不承认死者的持续存在。
 
 ### ⑨
 
