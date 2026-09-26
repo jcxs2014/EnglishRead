@@ -115,7 +115,7 @@ modified: "2026-09-26"
 | carotid artery | 颈动脉 | The carotid artery is the large artery that brings blood to the brain. |
 | spouting wisdom | 大放厥词 | My best friend, Slug, is leaning over me, spouting wisdom in my ear. |
 | chowing down | 大吃 | During recess, when we went to the playground and most kids were running around or playing kickball, Slug was chowing down on insects. |
-| check out | 不再管事；放弃照看 | Slug is the youngest of five kids, and his parents have pretty much checked out, as far as I can tell. |
+| checked out | 不再管事；放弃照看 | Slug is the youngest of five kids, and his parents have pretty much checked out, as far as I can tell. |
 
 ### ⭐ 基础
 

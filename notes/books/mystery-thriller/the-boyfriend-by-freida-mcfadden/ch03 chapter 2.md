@@ -93,7 +93,7 @@ modified: "2026-09-26"
 |---|---|---|
 | inexplicably | 莫名其妙地 | We are nearly forty minutes into this date, and I am inexplicably still here. |
 | labeled | 把…归类为 | I thought Kevin was a dud, but I had labeled him as harmless. |
-| astonish / astonishment | 使惊讶；惊愕 | Kevin clutches his chest in astonishment, like I just told him I kill puppies for fun. |
+| astonishment | 惊愕 | Kevin clutches his chest in astonishment, like I just told him I kill puppies for fun. |
 | determined look | 坚定的神情 | But he has a determined look on his face, and I’m starting to suspect that the easiest option would be to just let him walk me home. |
 
 ### ⭐⭐ 进阶
