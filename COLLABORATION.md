@@ -53,7 +53,9 @@
 - **总览三篇门禁另做**：`verify_overview_quotes` 不识别概述/情感节点的格式（报"未提取到编号引语"），故对两篇做**全串 flat 核验**（反引号英文 + 列表引文），**MISS=0**；H1 语义 3/3 逐文件比对一致；`index.md` 第 157 行条目已存在，未重复插入。
 - **本轮抓到的虚构内容（4 处，均在总览初稿）**：`Natra and I have a whole different thing going on`（Book I 全文查无）；**Prologue 整段虚构**——"总统府六百人死于爆炸""母亲用一个洗手盆装行李"在 ch01 根本不存在（ch01 实为成年 Alex 去车站接母亲 + Belen 案论坛旧照），整段按 ch01 原文重写；`. you'll have to explain how elevators worked` 漏前半句 `it'll hit you that`；可迁移表两条自造改写。
 - **结构事故（详见 daily）**：本会话 ch24/ch25/ch28/ch30/ch31 词表节各出现一次生成退化（数百行 `xxx —— 未见于原文` 重复占位），ch28 一次 `write_file` 中途崩溃；处置＝每章词表压到 16 条以内、ch28 起用 `execute_code` 分段写入、门禁前先 flat 候选验证再成表。
-- 状态：目标目录 tracked=36、无未提交文件；**未 push**。**独立五步审查未由用户发起，未自动执行。**
+- **独立五步审查（2026-09-26 用户在本会话发起，a–e 全部执行）**：a 步三件套现场重跑不采信旧数字；b 步逐章归属 **543/543** + 15 条短引语人工 flat 兜底全中；c 步结构扫描 **0 问题**（编号连续/四子项齐全/零孤儿零重复）；d 步语义二审判定缺陷 9 类已全修——**ch32 原句10/11 重复引文块**（合并并把原句11 独有分析并入原句10）、ch03 原句11 跨标签拼接改连续 run、ch11 引文 `Maryam` 缺 am、ch31 关键词 `railing` 残留与错字"读者视线提示"、ch22 原句1 缺关键词行并删自造的"indecitherable 错拼"说、ch02/ch04/ch27/ch28/ch33 分析层截短摘引补真实前缀、**ch24 删自造引文 `I was pregnant with a life I hadn't consented to`（全书查无）**、ch33 删错章引文 `Born Today`/`Everything changed`、全库 U+FFFD 乱码清零（ch04/ch32/情感节点）；e 步总览层**情感节点 1 处章节标签错**（`Like a stone, all the way down.` 实属 ch31）+ **金句⑱ 说话人误归**（`That's not like her.` 是 Mrs. Gaspard 评 **Bezi 主动办派对**，非评 Alex 母亲）→ 改上下文与"为什么这样写"两子项。
+- **审查后最终门禁（原始输出）**：`verify_quotes` **566/566（100%）／干净文件 34/34** · `check_vocab` 578 词条行 **FAIL(0) WARN(0)** · `check_entities` **0 个文件存在未知实体** · `check_crossref` **0 对 0 报警** · `check_chapter_quotes` 全量 **543/543（100%）** · `verify_overview_quotes` **27/27**；另跑 **终验 sweep（引语全串 flat 比对，verify 52 字符指纹盲区的克星）MISS=0**、15 条短引语全中、总览反引号引文 **MISS=0**、总览 H1 语义 3/3 一致。
+- 整改 commit：**`429a702a`**（15 文件，+38/−46）。状态：目标目录无未提交文件；**未 push**。
 
 ---
 
