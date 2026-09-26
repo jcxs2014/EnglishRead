@@ -200,6 +200,45 @@ def stems_of(word):
     return out
 
 
+RE_HEADING = re.compile(r'^#{1,6}\s')
+RE_CELL_EN = re.compile(r"[A-Za-z][A-Za-z',\-]*(?:\s+[A-Za-z][A-Za-z',\-]*)+")
+
+
+def is_table_row(line):
+    """表格行（以 `|` 开头）。**落点 #14**：`sweep_analysis_inline` 的扫描范围
+    显式扩到「所有二级标题节的表格单元格」。
+
+    为什么必须显式做、不能靠顺带：原先 SPAN 正则只抓**引号/反引号内**的片段，
+    表格行因此只是「碰巧」被覆盖到，而**表里大量英文并不带引号**——
+    `| 两颗珍珠 | ch02 祖母的比喻 | ch18 珍珠生成机制讲学；ch27 Ursula 复述… |`
+    里的 `Anita Hill`、`Ursula` 这类**裸英文单元格**一个都抓不到。
+    故对表格行额外做**单元格级**扫描（带引号的单元格仍交回 SPAN，避免重复计）。
+    """
+    return line.lstrip().startswith('|')
+
+
+def table_cells(line):
+    """切出表格单元格内容。跳过 `---` 分隔行。"""
+    raw = line.strip()
+    if not raw.startswith('|'):
+        return []
+    body = raw.strip('|')
+    if re.fullmatch(r'[\s\-:|]+', body):
+        return []
+    return [c.strip() for c in body.split('|') if c.strip()]
+
+
+def cell_fragments(cell):
+    """表格单元格里的**裸英文短语**（不含引号/反引号/粗体者）。
+
+    含引号或反引号的单元格交回 SPAN 处理，否则同一段文字会被计两次。
+    """
+    if '"' in cell or '“' in cell or '`' in cell or '**' in cell:
+        return []
+    m = RE_CELL_EN.search(cell)
+    return [m.group(0)] if m else []
+
+
 def classify(frag, chap_num, chap_flat, chap_toks, ref, all_tight, all_toks,
              all_stems, epub_flat=''):
     """返回 (判定, 定位)。定位为空串表示全书无。
@@ -292,6 +331,7 @@ def main():
     all_stems = set().union(*[stems_of(w) for w in all_toks]) if all_toks else set()
 
     n_ok = n_cross = n_splice = n_miss = n_skip = n_stem = n_partial = n_term = n_gap = 0
+    n_table_rows = n_table_frags = 0
     misses, crosses, splices, stems, partials, terms, gaps = [], [], [], [], [], [], []
     for md in mds:
         name = os.path.basename(md)
@@ -314,7 +354,15 @@ def main():
                 continue                       # frontmatter 不是分析层
             if is_quote_line(line):
                 continue
-            for frag in fragments(line):
+            # 落点 #14：表格行额外做**单元格级**扫描（裸英文），并单独计数
+            cands = list(fragments(line))
+            if is_table_row(line):
+                n_table_rows += 1
+                for cell in table_cells(line):
+                    for f2 in cell_fragments(cell):
+                        cands.append(f2)
+                        n_table_frags += 1
+            for frag in cands:
                 if not is_quoteish(frag):
                     n_skip += 1
                     continue
@@ -350,6 +398,8 @@ def main():
     print('=== 分析层行内英文逐字核查（%s）===' % os.path.basename(book.rstrip('/')))
     print('  参照集：%s ；扫 %d 个 md（引语行与 YAML frontmatter 已跳过）'
           % (ref_src, len(mds)))
+    print('  落点 #14 表格单元格：%d 个表格行、%d 条裸英文单元格片段（带引号的单元格'
+          '由引号/反引号通道覆盖，不重复计）' % (n_table_rows, n_table_frags))
     print('  ✅ 逐字 %d ｜ ⚠️ 跨章 %d ｜ 🔶 拼接 %d ｜ 🟠 部分命中 %d ｜ 🟡 词形 %d ｜ ⚪ 术语 %d ｜ 🔧B类语料缺 %d ｜ ❌ 零命中 %d ｜ 跳过 %d'
           % (n_ok, n_cross, n_splice, n_partial, n_stem, n_term, n_gap, n_miss, n_skip))
     if not quiet:
