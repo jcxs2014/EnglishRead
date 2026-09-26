@@ -274,6 +274,7 @@
 
 | 工具 | 用途 | 用法 |
 |---|---|---|
+| `corruption_scan.py` | **编辑损坏扫描**（P1）：U+FFFD / 双句号 / 中文重复片段 / 句中插入 / 占位崩坏 | `python3 scripts/corruption_scan.py "<书目录>" [--quiet]`。**按实测证据分两级**——U+FFFD（11/11 真）与 双句号（1/1 真）判 **FAIL**；中文重复片段**只报告不判红**（实测 8 处假阳率约 50%：同一行里译文与拆解会合法重复同一短语，真损坏样例 home-sick ch41:65 是同一句重复四遍）；句中插入全库 0 命中、无实测样本。 **这一类损坏对现有六道门禁全部不可见**——实测在刚通过全量门禁的 what-grows ch28 / all-our-yesterdays ch26 / floating-hotel ch07 各抓到 1 处 U+FFFD，且 `text/` 侧干净 ⇒ 是写作时生成截断，非提取问题 |
 | `extract_chapters.py` | 原文先行第 1 步：epub→逐章 txt | `python3 scripts/extract_chapters.py "<epub>" --out-dir <书目录>/text --start 1`；打印章节清单与跳过页供人工对齐编号；**提取后必核件数=章数**（短章可能被 min-len 滤掉） |
 | `verify_corpus.py` | **语料层验收（原文核验第 1a 条，P0-0）**：件数对账 / 人物锚点双向 / 首末句抽印 / 转义符与页码 bleed 体检 | `python3 scripts/verify_corpus.py "<书目录>" --expect N --expect-source "<来源>" --anchors "ch01=甲,乙; ch02=丙"`；`--shared "名字"` 豁免连载主角；`--quiet-edges` 批量模式。**在所有以 text/ 为真值的门禁之前跑**——它错了那些门禁会同时假绿 |
 | `verify_quotes.py` | 引语块逐字核对门禁（支持编号格式、`**①**` 行中格式、言情无编号 `> "..."` 格式；<20 字符短引语不校验、单列计数提示人工 grep） | `python3 scripts/verify_quotes.py "<书目录>" "<epub>"`；每篇须全 ✅ |
