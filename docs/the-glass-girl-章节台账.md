@@ -109,6 +109,7 @@ verify_corpus --expect 54   --expect-source "版权页目录 48 正文章 + Prol
 | ch01 prologue | **1** | 6 | 四子项 6/6 | 1 条未判 = 「诗体与形式」里全诗计数，已 `grep -c` 当场数过 |
 | ch02 prologue | 5 → **1** | 5 | 四子项 5/5 | 初测 5 条（3 条是作者自己写的禁令 2 违规）；修后 1 条为 `十五岁` 故事事实 |
 | ch03 friday | **0** | 7 | 四子项 7/7（28 行） | 25 词条例句逐条核验 25/25；初稿曾伪造 14 条，见下 |
+| ch11 part_two（无标题） | **0** | 7 | 四子项 7/7（28 行） | 21（例句 21/21） | 本书说话人风险最高章：208 引号 : 3 就近标签 |
 | _11 本 323 章_ | _7.5_ | _—_ | _—_ | _无规则、多实例时写的，仅作历史参照，**不作对照组**_ |
 
 ### 分档实测
@@ -224,6 +225,76 @@ orange to a brief, bruised dusk` / `My hands go limp inside their mittens` 等�
 修后 `check_chapter_quotes` **16/16 100%**、`sweep_analysis_inline` 部分命中 0
 （剩 2 条跨章是**正当的 ch01 引用**、1 条术语是 `grep -oiw` 这个 shell 命令——
 都被正确归档）。
+
+
+## ch11（无标题章）——最高风险章的实测结果
+
+选 ch11 是因为它是全书说话人风险最高的一章。**风险确认存在**：
+
+| 指标 | 值 |
+|---|---|
+| 弯引号 `“` | **208** |
+| 就近说话人标签 | **3**（`Tracy says` ×2、`She said` ×1） |
+
+本章核实的两处说话人**都只能靠跨行回指**：
+
+- 块 ⑤（**Amber**）：前一行只有 `She's looking at me head-on, and she's mad and sad all at once…`，
+  名字在两行前的 `“Amber, no, please.”`；再往前是
+  `“He broke up with you because you drink too much, Bella,” Amber says flatly.`
+- 块 ⑦（**Tracy**）：上一行是 Bella 的 `"But my parents. Where are they? Don't I get to say goodbye?"`；
+  `she` 承接 L1220 `I just stand there as Tracy walks toward the lobby doors. She looks back.`
+
+**结论：§七.5「说话人留锚点」的成本判断仍缺数据**——本章只证明风险真实，
+未证明某条规则更优。**不要因为本章就开 8.2 的新禁令**；先看后续章节是否
+出现实际的说话人误归。
+
+### 表格计数（供后续章引用）
+
+问卷 `Answers:` 行 **17** 条（`L471`–`L567`）；`—` 分节符 **21** 处；
+`My brain says:` **5** 次 / `My heart says:` **2** 次；
+`Bella` 41 / `Isabella` 13 / `Tracy` 32。
+
+### 实体（人物断言须 grep 支撑）
+
+母亲 = **Diana**（4 次）、父亲 = **Mr. Leahey**（1 次）、Lemon 15、Dylan 4、
+Willow 2、Ricci 6、Kristen 11。
+
+**纠正我自己的一个错推断**：我先前判「ch11 是 Tracy 视角」——**错**。
+`L314` 是 `“Hey, Isabella.” … “I’m Tracy.”`，Tracy 是持 clipboard、问 blackout
+的**辅导师**；视角人物是 Isabella（家人一律叫 Bella）。
+**做规则分析时凭印象断定人物关系，与做精读时是同一个坑。**
+
+## ch11 暴露的三条规则漏洞 → 禁令 1b / 1c
+
+| 缺陷 | 判据 |
+|---|---|
+| **6/22 词头非本章原形**：`hunched`、`blood sugar` 本章根本没有；`hit the gas` vs 原文 `hitting the gas`；`get away from` 被 `the hell` 拆开不连续 | 判据是「词头字符串能否在本章 `text/` 里逐字找到」，不是「它是不是真词」 |
+| **块 ⑤ 用 `…` 省略中间，但第二段把原文里被 `to be your friend? To see you hungover all the time…` 隔开的两截拼在一起** | `check_chapter_quotes` 按段逐段核 → MISS。**与第 10 条 d 的「跨标签拼接」是同一类伪造，只是发生在省略号两侧** |
+| 梗概打错字 `溺water` | `corruption_scan` 只查 U+FFFD / 双句号，普通错字只能自查 |
+
+## ⚠️ 自写检查给假阴性——这次连「写完自查」都给了 3 个
+
+我写了一个朴素引语检查（按原始子串比）报 3 处「查无」，**真门禁判 6/7、
+其中块 ③ 和块 ⑦ 通过**（`flat_alpha` 口径）。只有块 ⑤ 是真缺陷。
+
+⇒ **自查只用来「发现」问题，定性一律以门禁为准。**
+这是本库「grep 给假阴性、工具给对」的第 N 次复现，
+但这次错在**我自己写的检查**上，比错在 grep 上更值得记。
+
+## 修 check_vocab 第二个 bug：可选节被当核心节判 FAIL
+
+写满 4 章后触发 `MIN_FILES_FOR_MAJORITY = 4`，报
+`ch01 prologue.md 缺必备章节：概览`。但 **ch01 是 750 字符题词诗**，
+结构 `精读 / 诗体与形式 / 本章词汇 / 一句话总结`，本来就不该有导航节，
+且它有 6 个完整引语块、不是空文件。
+
+**判据依据**：本检查的目的是抓空文件（night-circus ch68 有 6885 字节 `text/`
+却 0 字节 md），而「缺精读 / 缺词汇 / 缺总结」才是空文件特征；
+**「缺概览」只是体裁差异**——题词诗、短篇合集、书信都不写导航节。
+
+已拆成 `CORE_ROLES = (精读, 词汇, 总结)` → FAIL；
+`OPTIONAL_ROLES = (概览,)` → 只 WARN。
+回归：目标书 FAIL 0 / WARN 1（正确归类），11 本成熟书（9–56 章）**全部 FAIL 0**。
 
 
 ## 顺带确认（非 bug）

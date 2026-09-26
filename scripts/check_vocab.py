@@ -139,6 +139,15 @@ ROLE_PATS = {
 OVERVIEW_RE = re.compile(r'^00[ _]|^(概述|金句精选|情感节点|金句)')
 MIN_MD_BYTES = 200   # 低于此值视为空/近空文件（实测全库唯一 0 字节文件）
 MAJORITY = 0.5       # 角色须在本书过半文件中出现，才算每篇的必备项
+# ⚠️ **核心节 vs 可选节：缺前者判 FAIL，缺后者只判 WARN**（2026-09-26 实测）
+# the-glass-girl 写满 4 章后，本检查报 `ch01 prologue.md 缺必备章节：概览`——
+# 但 ch01 是 750 字符的题词诗，它的结构（精读 / 诗体与形式 / 本章词汇 / 一句话总结）
+# **本来就不该有导航节**，且它有 6 个完整引语块、绝非「空文件那类真缺陷」。
+# 本检查的**目的是**抓空文件（P0-4 原注释：night-circus ch68 有 6885 字节 text/ 却
+# 0 字节 md），而「缺精读/缺词汇/缺总结」才是空文件的特征；**「缺概览」只是体裁差异**。
+# 四类体裁里题词诗、短篇合集、书信都不写导航节——一刀切判红必然误伤。
+CORE_ROLES = ('精读', '词汇', '总结')
+OPTIONAL_ROLES = ('概览',)
 # ⚠️ **多数派需要最小样本量，否则反过来判红**（2026-09-26 实测）：
 # 本书当时只有 2 个 md，1 个有 `## 本章导航`（概览别名）→ 1/2 = 0.5 ≥ MAJORITY
 # → 「概览」被当成必备项，**另一个文件被判 FAIL**。也就是**每本新书的头几章
@@ -379,9 +388,16 @@ def check_book(book_dir, verbose=False):
         else:
             have = roles_in(headings)
             miss = sorted(expected - have) if majority_ready else []
-            if miss:
+            # 核心节缺失 = 真缺陷（空文件特征）→ FAIL；可选节缺失 = 体裁差异 → WARN
+            miss_core = [m for m in miss if m in CORE_ROLES]
+            miss_opt = [m for m in miss if m in OPTIONAL_ROLES]
+            if miss_core:
                 fails.append((name, None,
-                              '缺必备章节（同侪多数派有）：' + '、'.join(miss), ''))
+                              '缺必备章节（同侪多数派有）：' + '、'.join(miss_core), ''))
+            elif miss_opt:
+                warns.append((name, None,
+                              '缺可选章节（同侪多数派有）：' + '、'.join(miss_opt)
+                              + '（体裁差异，不判红）', ''))
         if nn is None:
             attr_missing.append((name, '文件名无 chNN 前缀且 frontmatter 无 source_text/chapter'))
         for _i, _l in enumerate(lines, 1):
