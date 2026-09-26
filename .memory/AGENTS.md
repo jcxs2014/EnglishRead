@@ -14,7 +14,7 @@ metadata:
 
 > **结论先行**：执行规则必须留在根 AGENTS.md。本文件只承担"记忆索引"角色。
 
-**加载机制**：根 AGENTS.md 通过 system-reminder 被加载到每个会话上下文（ZCode harness 固定行为，不可配置）。`.memory/AGENTS.md` 不在这个加载路径上，需要主动 Read 才能看到。把"精读格式/门禁三件套/引语逐字规则"搬到 memory 意味着新会话开工时这些执行规则不在上下文里，等于丢失。
+**加载机制**：根 AGENTS.md 通过 system-reminder 被加载到每个会话上下文（ZCode harness 固定行为，不可配置）。`.memory/AGENTS.md` 不在这个加载路径上，需要主动 Read 才能看到。把"精读格式/提交门禁/引语逐字规则"搬到 memory 意味着新会话开工时这些执行规则不在上下文里，等于丢失。
 
 **三个文件的分工**：
 - **根 AGENTS.md** = 执行规则（"必须怎么做"）—— 格式、门禁、引语规则、git 策略。每次作业都须遵守，必须被自动加载
@@ -198,6 +198,6 @@ metadata:
 
 ### 2026-09-15 新增
 
-- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（三件套全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件
+- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（第 3 条门禁全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件
 - **子代理幻觉根因**（topic: `subagent-hallucination`）：根因=分析子项未锚定原文仅靠泛化指令生成；缓解=引语先行（每块附英文原句逐字粘贴）+ ≥20章自建关键词锚定检查器；实证=100G ch86引语与分析完全错位/NS 137块主会话逐对核对可补救
 - **关键词锚定检查器**（topic: `keyword-anchor-checker`）：≥20章推荐；原理=分析块关键词英文词须命中该块引语或"为什么这样写"文本；Memories Like Fangs实战=237块扫出59+处违规（说明问题在大批次中普遍，需系统性扫描而非人工抽检）
