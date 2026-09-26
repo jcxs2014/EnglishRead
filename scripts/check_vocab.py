@@ -139,6 +139,13 @@ ROLE_PATS = {
 OVERVIEW_RE = re.compile(r'^00[ _]|^(概述|金句精选|情感节点|金句)')
 MIN_MD_BYTES = 200   # 低于此值视为空/近空文件（实测全库唯一 0 字节文件）
 MAJORITY = 0.5       # 角色须在本书过半文件中出现，才算每篇的必备项
+# ⚠️ **多数派需要最小样本量，否则反过来判红**（2026-09-26 实测）：
+# 本书当时只有 2 个 md，1 个有 `## 本章导航`（概览别名）→ 1/2 = 0.5 ≥ MAJORITY
+# → 「概览」被当成必备项，**另一个文件被判 FAIL**。也就是**每本新书的头几章
+# 都会假红**。AGENTS 盲区表原写「首次读新书时该检查形同虚设、须待多数派形成」——
+# 但没说它会**反过来判红**，比"形同虚设"更糟。
+# 样本不足时**不判**，只报「样本不足，多数派未成形」。
+MIN_FILES_FOR_MAJORITY = 4
 
 
 def roles_in(headings):
@@ -321,8 +328,13 @@ def check_book(book_dir, verbose=False):
 
     md_files = sorted(glob.glob(os.path.join(book_dir, '*.md')))
     # P0-4 前置：本书的「必备角色」按多数派自校准（排除总览三篇）
-    expected = expected_roles_for_book(
-        [p for p in md_files if not OVERVIEW_RE.match(os.path.basename(p))])
+    chapter_files = [p for p in md_files if not OVERVIEW_RE.match(os.path.basename(p))]
+    majority_ready = len(chapter_files) >= MIN_FILES_FOR_MAJORITY
+    expected = expected_roles_for_book(chapter_files) if majority_ready else set()
+    if not majority_ready:
+        # 不判红，只说明为什么本项不出结论——「新书头几章」是常态不是异常
+        print('  [P0-4] 正文章节 %d 个（< %d），多数派未成形 → **跳过必备章节判定**'
+              % (len(chapter_files), MIN_FILES_FOR_MAJORITY))
 
     for f in md_files:
         name = os.path.basename(f)
@@ -366,7 +378,7 @@ def check_book(book_dir, verbose=False):
                           f'若 text/ 有对应提取件则该章尚未动笔', ''))
         else:
             have = roles_in(headings)
-            miss = sorted(expected - have)
+            miss = sorted(expected - have) if majority_ready else []
             if miss:
                 fails.append((name, None,
                               '缺必备章节（同侪多数派有）：' + '、'.join(miss), ''))
