@@ -308,7 +308,11 @@ def main(book_dir: str, epub_path: str, full_mode: bool = False):
         print("   注：0 提取也可能源于**解析器盲区**——本工具只认 ①-㉕ / "
               "「> **原句 N:**」/「> \"...\"」三种格式；")
         print("       裸 `> English` 整段式与 `- \"English\"` bullet 式抽不到"
-              "（全库实测 75 个正文章节文件属此类，其引语从未被核实）。")
+              "（全库实测 81 个正文章节文件属此类）。")
+        print("       ⚠️ 更正：这些文件的引语**并非未核实**——check_chapter_quotes 的"
+              "言情无编号口径 `^>\\s*(.+)$` 81/81 全部抽得到，")
+        print("          已按 text/ 逐章口径核实过。真实缺口只是**未经 epub 全书口径**"
+              "交叉核对（跨章搬句查不出）。")
     print(f"\n=== 总计 {total_ok}/{total} 引文可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad}；正文章节 0 提取 {len(zero_fail)}；总览 0 提取转交 {len(zero_defer)}{'；--full 整串取证 ' + str(len(all_frag_evidence)) if full_mode else ''} ===")
     sys.exit(0 if bad == 0 and total > 0 and not zero_fail else 1)
 
