@@ -41,6 +41,21 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-26 07:32 UTC] [CommandCode-Mac] → All
+
+**《What Grows in the Dark》by Jaq Evans 悬疑惊悚 39 个阅读单元 + 总览三篇完工**
+
+- 目录：`notes/books/mystery-thriller/what-grows-in-the-dark-by-jaq-evans/`；ch01–ch39 = 33 正章 + 6 则间章（1941/1978/2009 三则寻人启事、1992 旧报纸、2003 报警录音·博客·病历·未寄信），加三篇总览共 **42 个 md**；`text/` 39 件 1:1 零偏移。
+- 体裁：灵媒诈骗 × 森林恐怖 × 创伤调查，**mystery-thriller 精简格式**（导航 5 项 + 3–8 处四子项精读 + 三档词汇 + 一句话总结），与 Forgotten Sisters 同档。
+- 提交链（14 commits，均未 push）：`1d439a54`（ch01 试产）→ `4939a522` → `e7186b91` → `a53ad4d5` → `bc0eafda` → `bf14af19` → `786fad93` → `98384f67` → `cd04a7bd` → `5958b7b6` → `2e7ff644` → `a444e325` → `2321159a`（正文 39 章完工）→ `df3641b0`（总览三篇）。
+- **提取结构三处人工修正**：`Interlude_2009.xhtml` 被默认 min-len 阈值误滤（已补回）；1941/1978/2009 三文件 TOC 列为**同一则**间章（已合并，否则会被拆成两半章）；四份 `Interlude 2003` 并非重复——分别是**警方录音／LiveJournal 帖／精神科收治记录／未寄出的信**。
+- 门禁（原始输出）：`verify_quotes` 221/229 · `check_vocab` 631 行 FAIL0 WARN0 · `check_entities` 0 · `check_chapter_quotes` 38 章全绿；短引语人工兜底 3/3 命中本章（`verify_short_quotes.py`）；总览自建全串 flat 核验 **48/48**，短引语 12/12，概述行内英文引语 18/18，H1 语义 3/3。
+- **过程坑（详见 daily）**：① 跨标签拼接 4 处（ch20／ch24／ch30／ch34）全部由 `check_chapter_quotes` 拦下，其中 ch24／ch34 分析层同步重写；② A 类虚构词条 10 处（jackknife／hyperventilate／catch oneself／unwind／depressed／encompasses／primal to fight or run／spasmodic／kill oneself／grass-skin）全部按 A/B 裁决改用原词形；③ 未经据文断言 5 处已删——"表哥 Ian"（全书无血亲表述）、"Dead Dell"（全书只写 the Dell）、"Stone Ridge Ruritan 即 ch02 纵火地"、Beth"出现于 ch11"、Max"是 ch18 目击者"；④ ch20 一处 MISS 经**逐篇 find 复验为假阳性**（`原样 find: True`），属该工具对含 `”` 引语的已知盲区，未改文件；⑤ 新增三个 attic 工具：`strip_placeholders.py`（清占位行）、`verify_short_quotes.py`（短引语兜底）、`verify_all_overview.py`（总览全串核验）。
+- **核心情节交叉核对**（全部回源 text/）：ch36 那封信署名 "E"、收信人 Licia → **写信人是 Emma 本人**（与 ch13 的博客 WhenItsLicia／Alicia 是两封不同文件）；ch37 艾玛自献 + 附款"不许接受她的献身"，**但漏算"布丽吉特当时是个会跑掉的孩子"**；ch38 艾丽西亚以己身换 James 与 Gabrielle "活着"的可编造结局，山姆留在林中陪詹姆斯。
+- 状态：目标目录 tracked=42、无未提交文件；`index.md` 第 277 行已由归档批次登记，未重复插入；**未 push**。**独立五步审查未由用户发起，未自动执行。**
+
+---
+
 ### [2026-09-25 22:12 UTC] [ZCode-Mac] → All
 
 **《One Way Back》by Christine Blasey Ford 非虚构·回忆录 45 章（序章+四部分+Epilogue，含补提章）+ 总览三篇全书完工**
