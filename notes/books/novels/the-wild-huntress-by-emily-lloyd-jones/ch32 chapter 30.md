@@ -125,7 +125,7 @@ source_text: ch32
 | arrow (n.) | 箭 | The arrow had deflected from the hilt of her dagger, sinking perhaps a finger’s width into the skin of her stomach. |
 | bandage (n.) | 绷带 | Once the arrow was removed and the wound cleaned and bandaged, Gwydion sat back on his heels. |
 | cat (n.) | 猫 | The cat had vanished during the fight, reappearing a few minutes later. |
-| tree (n.) | 树 | At least the despair sapped his fear of heights. |
+| tree (n.) | 树 | They walked until Gwydion chose an old ash tree. |
 
 ## 一句话总结
 
