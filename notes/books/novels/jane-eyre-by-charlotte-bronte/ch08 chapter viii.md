@@ -89,7 +89,6 @@ modified: "2026-09-27"
 | corroborate | 证实、印证（此处：印证简的说法） | Lloyd, received his answer: it appeared that what he said went to corroborate my account. |
 | privations | 匮乏、缺少（此处：罗沃德的一切匮乏） | I would not now have exchanged Lowood, with all its privations, for Gateshead and its daily luxuries. |
 | second-hand | 转手的、道听途说的 | Brocklehurst has weakly and pompously repeated at second-hand from Mrs. |
-⭐⭐⭐ 12 entries.
 
 ### ⭐⭐ 进阶
 
@@ -101,10 +100,8 @@ modified: "2026-09-27"
 | absolve | 免罪、赦免 | while your own conscience approved you, and absolved you from guilt, you would not be without friends. |
 | "sincere" | 真诚的（此处：海伦从她的眼睛看出的真诚） | for I read a sincere nature in your ardent eyes and on your clear front |
 | ardent | 热烈的、炽盛的（此处：她的眼睛） | for I read a sincere nature in your ardent eyes and on your clear front |
-| subdued → (已在高级)
 | pasteboard | 硬纸板 | Miss Scatcherd wrote in conspicuous characters on a piece of pasteboard the word “Slattern,” |
 | suppress | 压下、抑制 | these feelings will ere long appear so much the more evidently for their temporary suppression. |
-⭐⭐ 进阶 12 entries.
 
 ### ⭐ 基础
 
@@ -117,7 +114,6 @@ modified: "2026-09-27"
 | seed-cake | 籽料蛋糕 | unlocked a drawer, and taking from it a parcel wrapped in paper, disclosed presently to our eyes a good-sized seed-cake. |
 | ambrosia | （神话中的）神馔 | We feasted that evening as on nectar and ambrosia |
 | hostess | 女主人 | not the least delight of the entertainment was the smile of gratification with which our hostess regarded us |
-⭐ 基础 12 entries.
 
 ## 一句话总结
 
