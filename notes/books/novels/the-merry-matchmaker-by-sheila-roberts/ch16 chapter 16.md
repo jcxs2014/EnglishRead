@@ -105,11 +105,11 @@ modified: "2026-09-26"
 
 > **原句 7:** "“Well, Frankiestein, what are you going to do about it?”"
 
-**中文理解**："那么，Frankienstein，你打算怎么办？"
+**中文理解**："那么，Frankiestein，你打算怎么办？"
 
-**句子结构**：单句引语，专有名词（Frankienstein）作主语提格，What 引导特殊疑问句；Well 为语气词起头。
+**句子结构**：单句引语，专有名词（Frankiestein）作主语提格，What 引导特殊疑问句；Well 为语气词起头。
 
-**关键词**：Frankienstein / what are you going to do about it
+**关键词**：Frankiestein / what are you going to do about it
 
 **表达方式**：把 Frankie 与 Frankenstein（科学怪人）拼成一个绰号，用一个词就概括了她"到处改造别人"的行为；What are you going to do about it 是英语里最标准的"你打算怎么办"，把责任整个推回给她。
 

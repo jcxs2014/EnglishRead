@@ -93,9 +93,9 @@ modified: "2026-09-26"
 
 **中文理解**："我本来就知道这不合适。"
 
-**句子结构**：单句，过去时 knew（并非 I knew 与现在无关，而是对过去的判断），that 引导宾语从句。
+**句子结构**：单句，过去时 knew 表示对过去的判断，that 引导宾语从句（it wasn’t right）。
 
-**关键词**：I knew it wasn’t right / past perfect
+**关键词**：I knew it wasn’t right / wasn’t right
 
 **表达方式**：用 knew（过去就知道）把结论提前到过去，好像那份不合适早就在那儿等着她；整句只有六个词，口气却像是替自己开了一路的绿灯。
 
