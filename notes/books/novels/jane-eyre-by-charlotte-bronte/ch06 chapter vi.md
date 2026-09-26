@@ -27,7 +27,7 @@ modified: "2026-09-27"
 中文理解：这件不祥的工具，她恭恭敬敬地呈给卡特查德小姐；随后她一声不响、也没等吩咐，自己解下围裙，老师立刻而利落地在她脖子上抽了十二下，用的就是那束细枝。
 关键词：This ominous tool, with a respectful courtesy, quietly, and without being told, unloosed her pinafore, inflicted on her neck a dozen strokes
 为什么这样写：行刑被写成一套**礼节流程**——先呈物（respectful courtesy），后自解（without being told），再受刑；受刑者把每一步都做得比行刑者更规矩，于是暴力落在她身上时，连抗议的位置都被程序取消了。
-读者视角提示："unloosed her pinafore"（自己解下围裙）是本章最狠的一个细节：她没有等许可。简在第一章被按在凳上时说的是 "I resisted"（我反抗），海伦的对应动作是"我配合"——两人的分岔从这里开始。
+读者视角提示："unloosed her pinafore"（自己解下围裙）是本章最狠的一个细节：她没有等许可。简在第二章被按在凳上时说的是 "I resisted"（我一路都在抗拒），海伦的对应动作是"我配合"——两人的分岔从这里开始。
 
 > **原句 3:** "I derived from both a strange excitement, and, reckless and feverish, I wished the wind to howl more wildly, the gloom to deepen to darkness, and the confusion to rise to clamor."
 

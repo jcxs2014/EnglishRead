@@ -27,7 +27,7 @@ modified: "2026-09-27"
 中文理解：然后我醒了；然后我记起自己在哪里、是什么处境；然后我在那张没有窗帘的床上坐起来，发抖、发颤；于是那静默的、暗夜旁观了绝望的抽搐，听见了激情迸裂的声音。
 关键词：Then I awoke, then I recalled where I was, and how situated, curtainless bed, trembling and quivering, the still, dark night witnessed the convulsion of despair
 为什么这样写：三个 "then" 排成一条下坠的阶梯，醒来之后不是缓冲而是一层层复原现实；最后一句把夜晚写成**证人**（witnessed… heard），于是她的崩溃不再只是私事，而是被黑暗本身记录在案的事件。
-读者视角提示："curtainless bed"（没有窗帘的床）是一个精确的贫穷注脚：罗沃德的红房子有猩红帷幔，莫顿教员宿舍只有一张光床；两处床的差别就是简这十年走过的距离。
+读者视角提示："curtainless bed"（没有窗帘的床）是一个精确的贫穷注脚：盖茨海德的红房子有猩红帷幔，莫顿教员宿舍只有一张光床；两处床的差别就是简这十年走过的距离。
 
 > **原句 3:** "He seemed to say, with his sad and resolute look, if he did not say it with his lips, “I love you, and I know you prefer me. It is not despair of success that keeps me dumb; if I offered my heart, I believe you would accept it. But that heart is already laid on a sacred altar—the fire is arranged round it; it will soon be no more than a sacrifice consumed.”"
 
