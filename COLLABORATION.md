@@ -70,7 +70,14 @@
 - 门禁（原始输出）：`verify_quotes` 221/229 · `check_vocab` 631 行 FAIL0 WARN0 · `check_entities` 0 · `check_chapter_quotes` 38 章全绿；短引语人工兜底 3/3 命中本章（`verify_short_quotes.py`）；总览自建全串 flat 核验 **48/48**，短引语 12/12，概述行内英文引语 18/18，H1 语义 3/3。
 - **过程坑（详见 daily）**：① 跨标签拼接 4 处（ch20／ch24／ch30／ch34）全部由 `check_chapter_quotes` 拦下，其中 ch24／ch34 分析层同步重写；② A 类虚构词条 10 处（jackknife／hyperventilate／catch oneself／unwind／depressed／encompasses／primal to fight or run／spasmodic／kill oneself／grass-skin）全部按 A/B 裁决改用原词形；③ 未经据文断言 5 处已删——"表哥 Ian"（全书无血亲表述）、"Dead Dell"（全书只写 the Dell）、"Stone Ridge Ruritan 即 ch02 纵火地"、Beth"出现于 ch11"、Max"是 ch18 目击者"；④ ch20 一处 MISS 经**逐篇 find 复验为假阳性**（`原样 find: True`），属该工具对含 `”` 引语的已知盲区，未改文件；⑤ 新增三个 attic 工具：`strip_placeholders.py`（清占位行）、`verify_short_quotes.py`（短引语兜底）、`verify_all_overview.py`（总览全串核验）。
 - **核心情节交叉核对**（全部回源 text/）：ch36 那封信署名 "E"、收信人 Licia → **写信人是 Emma 本人**（与 ch13 的博客 WhenItsLicia／Alicia 是两封不同文件）；ch37 艾玛自献 + 附款"不许接受她的献身"，**但漏算"布丽吉特当时是个会跑掉的孩子"**；ch38 艾丽西亚以己身换 James 与 Gabrielle "活着"的可编造结局，山姆留在林中陪詹姆斯。
-- 状态：目标目录 tracked=42、无未提交文件；`index.md` 第 277 行已由归档批次登记，未重复插入；**未 push**。**独立五步审查未由用户发起，未自动执行。**
+- 状态：目标目录 tracked=42、无未提交文件；`index.md` 第 277 行已由归档批次登记，未重复插入；未 push。
+- **独立五步审查（用户于 2026-09-26 发起；整改 commit `b23231e3`）**：a–e 全部执行，门禁从零重跑不采信旧数字；b/d/e 三层改用与写作期**不同的检查路径**（`sweep_chapter_quotes.py` 全串 flat、`check_anchoring.py` 关键词锚定、自建总览核验）。**引语层本就干净，8 处缺陷全在门禁盲区里**：
+  - **引语 4 处**：ch02 漏第三人称（on the way→**their** way）· ch25 **虚构桥接**（把章首"Her body continued without her brain"与章尾洗手间段用省略号焊成一句，两段相隔数千字）· ch24 跨标签拼接（两句之间隔着 236 字符动作描写）· ch31 "behind him"→**them**（52 字符指纹盲区，仅全串 sweep 可发现）
+  - **结构 1 处**：ch08 块数 9 越界（配额 3-8）→ 删最弱块并重排编号
+  - **分析层 3 处**：ch10／ch27／ch29 各一处 `/` 连接的**两人对白拼接**（中间隔叙述句），按 AGENTS.md §2 各自拆为单引语、第二句移入"读者视角提示"并重写分析；另 ch22 读者视角提示引用了 **ch07 原文不存在的短语** "something that slides and slips"，已改写
+  - 审查中新识别**两处工具假阳性**并复验留证：① `00_情感节点.md` 的 2 处 FAIL 是 verify_quotes 把行尾 `（chNN）` 章节标签折进引语指纹，逐字命中 ch12／ch30；② ch20 的 MISS 经 `原样 find: True / flat find: True` 复验为含 `”` 引语的已知系统性假 MISS，**未改文件**
+  - 改后门禁：`verify_quotes` 219/227 · `check_vocab` 685 行 FAIL0 WARN0 · `check_entities` 0 · 关键词锚定 **218/218** · 全串 sweep 218 引语 MISS 2（均为上述假阳性）· 结构扫描 218 块零问题 · 总览 48/48 · 短引语 3/3 · H1 3/3
+- **同会话审查的已知局限（按规约如实标注）**：本轮审查与写作共用同一模型族，**不能宣称已排除全书统一口径的系统性误判**——尤其"跨章引用惯用文件号而非书内章号"这一条（本书文件号与书内章号恰好一致，故本批次未受影响）。已用逐条回源 grep、全串 sweep、关键词锚定、章节标签对账四条独立路径交叉核验；若需彻底排除系统性偏差，建议另派异实例复核。
 
 ---
 
