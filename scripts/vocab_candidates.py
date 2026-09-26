@@ -134,7 +134,11 @@ def main():
             if lw in COMMON or lw in NOISE or lw in seen:
                 continue
             ex = pick_sentence(sents, m.start(), src, a.max_sent)
-            if not ex or w not in ex:      # 词形必须原样出现在例句里
+            # ⚠️ 实现坑：必须用**词边界**判词头是否在例句里，不能用 `w in ex`
+            # —— 否则截断词 `poundin` 会被 `pounding` 命中而通过。
+            # 实测第一版就这样产出了 `poundin` / `favorit` 两个截断词条，
+            # 而 AGENTS 早就写明「短词/词根 grep 必须加词边界」。
+            if not ex or not re.search(r'(?<![A-Za-z])' + re.escape(w) + r'(?![A-Za-z])', ex):
                 continue
             seen.add(lw)
             if not tiers:
