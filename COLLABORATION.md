@@ -81,18 +81,24 @@
 
 ---
 
-### [2026-09-25 22:12 UTC] [ZCode-Mac] → All
+### [2026-09-26 08:46 UTC] [ZCode-Mac] → All
 
-**《One Way Back》by Christine Blasey Ford 非虚构·回忆录 45 章（序章+四部分+Epilogue，含补提章）+ 总览三篇全书完工**
+**《One Way Back》by Christine Blasey Ford 非虚构·回忆录 45 章（序章+四部分+Epilogue，含补提章）+ 总览三篇全书完工 + 独立五步审查完成并整改**（本条为本书唯一条目，2026-09-26 就地追加审查结论）
 
 - 目录：`notes/books/non-fiction/one-way-back-by-christine-blasey-ford/`；ch01 Preface ~ ch45 Epilogue 共 45 个 md（Becoming 同款非虚构·叙事适配格式：概览+叙事脉络+结构表+核心金句+精读 10 处五子项+三档词汇+一句话总结），`text/` 45 件，文件号=阅读顺序。
 - 提取修复：提取器把目录复制件编为 ch45（已删）；真章 "The Road to Recovery"（9.7k）被漏提——从 epub 补提为 ch44，Epilogue 顺延 ch45。
-- 提交链（均未 push，共 18 commits）：`d2c11452`（ch01 试产）→ `3455e411`/`3d68f515`/`1b74484c`/`6e4f50dd`/`f79ccdb1`/`1ad5d945`/`e51c7b77`/`e9220788`/`3b953ed7`/`a009eb77`/`1963d7db`/`d1db5cde`/`f9dc6214`/`afa3d12a`/`39daf75d`（15 个批次至正文收官）→ `51dbedbc`（总览三篇）→ `0a35894e`（重复块修复）。
-- **四件套终验（原始输出在批次 commit message 与 daily）**：`verify_quotes 604/604`（45/45 文件干净；9 条短引语人工 grep 兜底）· `check_vocab 924 词条 FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 全书 578/578 零跨章`。
-- 总览三篇：概述（梗概 5 段+主题 3+人物弧光 4）/ 金句精选 30 句 / 情感节点 10 节点；`verify_overview_quotes 金句 30/30`，概述行内英文引语 25 条人工 grep MISS=0，情感节点 13 条 flat 扫描 MISS=0、节点归属 10/10。
-- **自建重复块扫描（金句 vs 原句 within-file）**：抓出 8 处金句-原句重复（ch10/18/20/23/24/27/28/39/45 期间累计），已全部修复清零——工具不查重复块，此检查器建议纳入常用流程。
-- 过程坑（详见 daily）：金句复用精读引语时极易自我重复（8 次）；`check_vocab` 例句需逐字原形（graciously 例句跨章误配 1 次）；小体量章易只写 9 块需数块自查。
-- 状态：目标目录 tracked=48、无未提交文件；**未 push**。**五步审查未做（待用户发起）**。
+- 提交链（均未 push，共 21 commits）：`d2c11452`（ch01 试产）→ `3455e411`/`3d68f515`/`1b74484c`/`6e4f50dd`/`f79ccdb1`/`1ad5d945`/`e51c7b77`/`e9220788`/`3b953ed7`/`a009eb77`/`1963d7db`/`d1db5cde`/`f9dc6214`/`afa3d12a`/`39daf75d`（15 个批次至正文收官）→ `51dbedbc`（总览三篇）→ `0a35894e`（重复块修复）→ `4ea0032b`（审查 c 步修复）→ `f967024a`（审查 d 步整改）。
+- **四件套终验（原始输出在批次 commit message 与 daily）**：`verify_quotes 608/608`（45/45 文件干净；9 条短引语人工 grep 兜底）· `check_vocab 924 词条 FAIL 0 / WARN 0` · `check_entities 0` · `check_chapter_quotes 全书 582/582 零跨章`。
+- 总览三篇：概述（梗概 5 段+主题 3+人物弧光 4）/ 金句精选 30 句 / 情感节点 10 节点；`verify_overview_quotes 金句 30/30`，概述行内英文引语 25 条人工 grep MISS=0，情感节点 21 条全量 flat 扫描 MISS=0、节点归属 10/10。
+- **独立五步审查（用户于 2026-09-26 本会话发起，a–e 完整执行；门禁全部现场重跑）**：
+  - **a 三件套重跑**：`verify_quotes 604→608/608`、`check_vocab 924 FAIL 0/WARN 0`、`check_entities 0`（不采信完工时数字）。
+  - **b 逐章归属 + 整串 sweep**：`check_chapter_quotes 582/582` 零跨章；**自备整串 flat sweep（绕开 52 字符指纹盲区）585/585**——抓出 ch22 原句9 "lay it out" 漏 "all"（原文 "lay it all out"），指纹与逐章工具双盲区，已修。
+  - **c 结构扫描**：自建扫描器 45 文件——抓出 ch32 精读编号 ⑤⑤ 重复、ch17/ch24/ch45 块数不足 10（9/9/7）、8 处五子项标头变体（含 ch08 "为什么这书这样写" 笔误）、ch01 金句 4 句超编——全部修复至 ①-⑩+金句 3 规范（`4ea0032b`）。
+  - **d 语义二审**：5 个互不重叠只读子代理（ch01-09/10-18/19-27/28-36/37-45）逐块核对 450 块，报警 42 项（关键词出引语口径 14、计数错误 10、无文本支撑数字/年代断言 3、方向标反 4、语法/表述/忠实度 11），主会话逐条 grep 复核后 **54 处修复**（`f967024a`）。重点：ch18 ③ "91 岁参议员" 无文据且实为 85 岁（虚构数字断言）；ch41 ⑤ "一年半的安保" 全书查无（原文 the events of the last year）；ch44 ⑧ "1991-2016" 年代无据；ch22 ⑨ 漏 "all"；ch05 ⑨ "三个 And" 实为两个；ch37 ① "坐在那里哭" 原文为 cried onstage。
+  - **e 总览层**：`verify_overview_quotes 30/30`；金句标签对账 30/30 零错位；说话人窗口核对 13 条全对（Kirsten/治疗师/Larry/儿子/母亲/Anita Hill）；概述行内 25 条、情感节点 21 条全量兜底 MISS=0。
+- 审查后终验（全绿）：`verify_quotes 608/608` · `check_vocab FAIL 0` · `check_entities 0` · `check_chapter_quotes 582/582` · 整串 sweep `585/585` · 结构扫描 45 文件零问题 · 重复块 0 · `verify_overview_quotes 30/30` · 标签对账 30/30。
+- 过程坑（详见 daily）：金句复用精读引语时极易自我重复（8 次，工具不查重复需自建扫描器）；**整串 sweep 是指纹盲区唯一克星**（ch22 "lay it all out" 双工具漏检）；**分析层计数断言不可凭印象**（本次 10 处词数计数错、3 处数字/年代虚构，均 verify 全绿之下）；"（前文/下句）"自标关键词违反"关键词入引语"统一口径（14 处），词形方向也会标反（3 处）。
+- 状态：目标目录 tracked=48、无未提交文件；**未 push**。**已知局限**：本次为同会话审查（5 个子代理与主会话同源），全书统一口径的系统性误判无法完全排除。
 
 ### [2026-09-25 22:00 UTC] [OpenCode-Mac] → All
 
