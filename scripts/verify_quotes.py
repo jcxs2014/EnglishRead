@@ -112,6 +112,86 @@ RE_BACKMATTER = re.compile(
 ROLE_SKIP, ROLE_ALLOW, ROLE_DEFER, ROLE_FAIL = 'skip', 'allow', 'defer', 'fail'
 
 
+# ── P0-6 --full：全串 flat 比对 + fragment 分段取证（2026-09-26，方案 §三.1）──
+# 病根：常规判定只取 flat_alpha(q)[:52] 作指纹——**前 52 个字符之后的内容
+# 从未被比对**。引语若在第 53 字符之后被改写/拼接/张冠李戴，指纹仍命中放行。
+# §三.1 实测：4 本书 11 处。--full 打开后补一次整串比对；整串不命中时按
+# fragment 分段取证，把「哪一段对不上」落到具体位置而非一句 MISS。
+# 尾部编辑性标注（金句/节点类常写 `⑥ "…"（ch04）`）。这类标注是**出处标记**、
+# 本就不该出现在 epub 里；若不剥掉，--full 整串比对会把它当成"对不上"——
+# 实测 why-we-die 35 条取证里绝大多数是 `（ch04）` 造成的假取证。默认 52 字符
+# 口径因标注位于尾部、超出指纹长度而一直没能暴露它。
+RE_TRAIL_ANNOT = re.compile(
+    r'[\(（\[【]\s*(?:ch\d+|第[一二三四五六七八九十百\d]+[章节]|[^)\s]{0,12}章)\s*'
+    r'[\)）\]】]\s*$'
+    r'|\s*[—–\-]{1,2}\s*(?:ch\d+|p{1,2}\.?\s*\d+)\s*$', re.I)
+
+
+def _strip_trailing_annot(q):
+    """剥掉引语尾部的章节/页码标注，返回 (清理后文本, 是否被剥)。"""
+    t = q.rstrip()
+    m = RE_TRAIL_ANNOT.search(t)
+    if not m:
+        return q, False
+    return t[:m.start()].rstrip(), True
+
+
+def _p06_probe(q, full, frag_evidence, name):
+    """P0-6 深检：指纹（前 52 字符）已命中，补一次真正的内容比对。
+
+    两种情形必须分开，否则全是假取证：
+      ① 引语**无省略号** → 整串 flat 比对（尾部出处标注先剥掉）
+      ② 引语**有省略号** → AGENTS 允许 `…` 跳过中间文字，故整串比对无意义；
+         改为**逐段整串比对**（默认口径只比每段前 40 字符，同样有盲区）。
+         实测 all-our-yesterdays ch18、one-way-back ch21/ch30 均属此类。
+    """
+    q_clean, stripped = _strip_trailing_annot(q)
+    # 复合引语（对话与叙述交织、多段引号）：整串比对无意义。默认口径有
+    # 「引号分段回退」，但只比每段**前 40 字符**，同样有盲区——故 --full
+    # 对复合引语改为**逐段整串比对**。实测 that-first-flight 6 条取证全是
+    # 此类（ch04 把 "And my name is Oliver." 与 "Macey." 两段对白中间的
+    # 叙述省略后直接相接），不是造假。
+    qsegs = [x for x in re.findall(r'["“]([^"”]{12,})["”]', q_clean)]
+    if len(qsegs) >= 2:
+        for seg in qsegs:
+            fs = flat_alpha(seg)
+            if len(fs) >= 15 and fs not in full:
+                bad = _first_bad_fragment(seg, full)
+                frag_evidence.append(
+                    (q[:70], bad if bad else (0, fs[:40]), stripped))
+                return
+        return
+    if '…' in q_clean or '...' in q_clean:
+        for seg in re.split(r'…|\.\.\.', q_clean):
+            fs = flat_alpha(seg)
+            if len(fs) < 15:
+                continue
+            if fs not in full:
+                bad = _first_bad_fragment(seg, full)
+                frag_evidence.append(
+                    (q[:70], bad if bad else (0, fs[:40]), stripped))
+                return
+        return
+    fa = flat_alpha(q_clean)
+    if fa and fa not in full:
+        frag_evidence.append((q[:70], _first_bad_fragment(q_clean, full), stripped))
+
+
+def _first_bad_fragment(q, full, win=40, step=15):
+    """返回首个不命中的 fragment 及其在引语中的字符偏移；全命中返回 None。"""
+    fa = flat_alpha(q)
+    if not fa:
+        return None
+    off = 0
+    while off < len(fa):
+        piece = fa[off:off + win]
+        if len(piece) >= 12 and piece not in full:
+            return (off, piece)
+        off += step
+    return None
+
+
+
 def classify_md(name: str) -> str:
     """按文件名角色返回 ROLE_* 之一。顺序即优先级（§3.6 判定链）。
 
@@ -134,13 +214,14 @@ def classify_md(name: str) -> str:
     return ROLE_FAIL
 
 
-def main(book_dir: str, epub_path: str):
+def main(book_dir: str, epub_path: str, full_mode: bool = False):
     full = flat_alpha(epub_flat_text(epub_path))
     total_ok = total = clean = bad = 0
     short_total = 0
     zero_fail = []               # (name, role) —— 0 提取且该角色应为 FAIL
     zero_allow = 0
     zero_defer = []              # 总览三篇：0 提取但不判红（转交 verify_overview_quotes）
+    all_frag_evidence = []       # P0-6：--full 下「指纹过但整串对不上」的引语
     for f in sorted(glob.glob(os.path.join(book_dir, "*.md"))):
         name = os.path.basename(f)
         txt = open(f, encoding="utf-8").read()
@@ -162,11 +243,14 @@ def main(book_dir: str, epub_path: str):
             continue
         ok = 0
         miss = []
+        frag_evidence = []      # P0-6 取证：指纹过但整串对不上的引语
         for q in quotes:
             qa = flat_alpha(q)
             frag = qa[:52]
             if frag in full:
                 ok += 1
+                if full_mode and len(qa) > 52:
+                    _p06_probe(q, full, frag_evidence, name)
                 continue
             # 引号分段回退：`"A" tag "B"` 跨标签行拆引号内各段独立验证
             # （对话体跨标签实证——flat 指纹跨标签必 MISS）
@@ -181,6 +265,8 @@ def main(book_dir: str, epub_path: str):
                 ok += 1
                 continue
             miss.append(frag[:40])
+        if frag_evidence:
+            all_frag_evidence.extend((name,) + t for t in frag_evidence)
         total_ok += ok
         total += len(quotes)
         note = f"（另有 {short} 条短引语未校验）" if short else ""
@@ -195,6 +281,18 @@ def main(book_dir: str, epub_path: str):
     if short_total:
         print(f"\n⚠️ 全书共 {short_total} 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底")
     # ── P0-1 0 提取的角色分派结论 ──────────────────────────────────
+    if all_frag_evidence:
+        print(f"\n🔬 P0-6 --full 取证：{len(all_frag_evidence)} 条引语**前 52 字符命中"
+              f"但整串对不上**——常规口径看不见这一段")
+        for nm, q, badfrag, stripped in all_frag_evidence[:25]:
+            if badfrag:
+                off, piece = badfrag
+                note = '（已剥尾部出处标注后仍对不上）' if stripped else ''
+                print(f"    · {nm}{note}")
+                print(f"      md：「{q}」")
+                print(f"      首个不命中片段：flat 偏移 {off}  「{piece}」")
+            else:
+                print(f"    · {nm}：「{q}」分段均命中（疑跨标签/连写，非虚构）")
     if zero_allow:
         print(f"\n○ 概述类 {zero_allow} 个文件 0 提取——按设计允许（散文体，无编号引语块）")
     if zero_defer:
@@ -211,8 +309,17 @@ def main(book_dir: str, epub_path: str):
               "「> **原句 N:**」/「> \"...\"」三种格式；")
         print("       裸 `> English` 整段式与 `- \"English\"` bullet 式抽不到"
               "（全库实测 75 个正文章节文件属此类，其引语从未被核实）。")
-    print(f"\n=== 总计 {total_ok}/{total} 引文可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad}；正文章节 0 提取 {len(zero_fail)}；总览 0 提取转交 {len(zero_defer)} ===")
+    print(f"\n=== 总计 {total_ok}/{total} 引文可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad}；正文章节 0 提取 {len(zero_fail)}；总览 0 提取转交 {len(zero_defer)}{'；--full 整串取证 ' + str(len(all_frag_evidence)) if full_mode else ''} ===")
     sys.exit(0 if bad == 0 and total > 0 and not zero_fail else 1)
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    _a = sys.argv[1:]
+    _full = '--full' in _a
+    if _full:
+        _a.remove('--full')
+    if len(_a) < 2:
+        raise SystemExit(
+            'Usage: verify_quotes.py "<书目录>" "<epub>" [--full]\n'
+            '  --full  关闭 52 字符指纹盲区：指纹命中后再补一次**整串** flat 比对，'
+            '整串不命中则按 fragment 分段取证（方案 P0-6 / §三.1）')
+    main(_a[0], _a[1], _full)
