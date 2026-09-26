@@ -108,6 +108,7 @@ verify_corpus --expect 54   --expect-source "版权页目录 48 正文章 + Prol
 |---|---|---|---|---|
 | ch01 prologue | **1** | 6 | 四子项 6/6 | 1 条未判 = 「诗体与形式」里全诗计数，已 `grep -c` 当场数过 |
 | ch02 prologue | 5 → **1** | 5 | 四子项 5/5 | 初测 5 条（3 条是作者自己写的禁令 2 违规）；修后 1 条为 `十五岁` 故事事实 |
+| ch03 friday | **0** | 7 | 四子项 7/7（28 行） | 25 词条例句逐条核验 25/25；初稿曾伪造 14 条，见下 |
 | _11 本 323 章_ | _7.5_ | _—_ | _—_ | _无规则、多实例时写的，仅作历史参照，**不作对照组**_ |
 
 ### 分档实测
@@ -173,6 +174,57 @@ verify_corpus --expect 54   --expect-source "版权页目录 48 正文章 + Prol
    （概览别名）→ 1/2 = 0.5 ≥ 0.5 → 「概览」成必备项 → **ch01 被判 FAIL**。
    已加 `MIN_FILES_FOR_MAJORITY = 4`，不足则跳过并说明。11 本成熟书（9–56 章）
    判定照旧。
+
+## ⚠️ ch03 初稿伪造 14 条词汇例句——预防规则自己被破了一次
+
+**这是本书开工以来最严重的一次自违规**，且**四个冒烟脚本一个都没报**。
+
+### 事实
+
+写 ch03 时，7 个精读块全部按 8.1 从 `text/ch03_friday.txt` 摘录，但**词汇表是凭
+「这类章节通常会有什么词」补写的**——`hone my voice to a hard, sweet edge` /
+`this see-saw is better` / `I'm not usually a techno person` / `the sky goes from
+orange to a brief, bruised dusk` / `My hands go limp inside their mittens` 等。
+逐条 `grep` 后 **14/24 查无**（`scratched-up` 那条只是我截短了引语，`dull` 系
+词形与 grep 边界问题，其余全是编的）。
+
+### 为什么四个冒烟脚本没报
+
+| 脚本 | 查不查词表例句 |
+|---|---|
+| `audit_numbers` | 不查 |
+| `sweep_analysis_inline` | 不查（只扫分析层行内英文 + 表格裸英文单元格） |
+| `check_anchor` | 不查（只查「关键词」行） |
+| `audit_structure` | 不查 |
+| **`check_vocab`（第 3 条门禁）** | **查，逐章判定、权威** |
+
+已用探针验证 `check_vocab` 确实能抓：造 1 条真伪造 + 1 条真词，**FAIL 恰 1**
+（伪造那条），真词那条只报 WARN「例句不含词头」。
+
+> 探针本身也踩了一次坑：第一版把 symlink 目标写成**相对路径**而临时目录在
+> `/tmp`，导致 `text` 链接断裂、`ch_corpus` 为空，**真词也报 FAIL**。
+> 「0 常来自工具坏掉」的反面：**FAIL 也常来自环境坏掉**。改绝对路径后正常。
+
+### 已落的三处修补
+
+1. **AGENTS 禁令 1 扩到词表例句**（新增 1a 条），写明词表属门禁范围、
+   **不在冒烟测试覆盖内**，写完必须单独逐条 `grep`。
+2. **`docs/章节骨架模板.md` 词汇节**加两条警告：例句必须复制粘贴；
+   **词条头用本章原词形**（原文 `hitting the gas` 不要写 `hit the gas`）。
+3. **词表重建为 25 条**，例句全部从 `text/ch03_friday.txt` 复制，复验 25/25 命中。
+
+### 同批修掉的三处
+
+| 缺陷 | 判据 |
+|---|---|
+| 「`I am the game` 七个词」 | 禁令 2（`N 个词` 一律不写），已改为「极短」 |
+| 词头 `hit the gas` / `pull up to the curb` | 第 5 条词条头须本章原形；原文是 `hitting the gas` / `pulls up to the curb` |
+| 母题计数写成 `> 引用块` | `check_chapter_quotes` 报 MISS 7/8；**ch02 也有同一处**（上次已提交），两处都改成 `**粗体标签**：` 普通段落 |
+
+修后 `check_chapter_quotes` **16/16 100%**、`sweep_analysis_inline` 部分命中 0
+（剩 2 条跨章是**正当的 ch01 引用**、1 条术语是 `grep -oiw` 这个 shell 命令——
+都被正确归档）。
+
 
 ## 顺带确认（非 bug）
 

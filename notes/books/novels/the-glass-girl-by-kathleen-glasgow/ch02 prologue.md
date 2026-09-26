@@ -90,7 +90,7 @@ source_text: ch02
 
 ## 本章词汇
 
-> 全章形式记录：`Baggy` 出现四次（`baggy jeans` / `baggy T-shirt` / `Baggy hoodie` / `Baggy everything`），一次比一次短。
+**全章形式记录**：`Baggy` 出现四次（`baggy jeans` / `baggy T-shirt` / `Baggy hoodie` / `Baggy everything`），一次比一次短。
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
