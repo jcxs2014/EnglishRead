@@ -219,7 +219,7 @@ orange to a brief, bruised dusk` / `My hands go limp inside their mittens` 等�
 
 1. **AGENTS 禁令 1 扩到词表例句**（新增 1a 条），写明词表属门禁范围、
    **不在冒烟测试覆盖内**，写完必须单独逐条 `grep`。
-2. **`docs/章节骨架模板.md` 词汇节**加两条警告：例句必须复制粘贴；
+2. ~~**`docs/章节骨架模板.md` 词汇节**~~（该文件 2026-09-26 已删，内容并入 AGENTS 8.1/8.2）当时加了两条警告：例句必须复制粘贴；
    **词条头用本章原词形**（原文 `hitting the gas` 不要写 `hit the gas`）。
 3. **词表重建为 25 条**，例句全部从 `text/ch03_friday.txt` 复制，复验 25/25 命中。
 
