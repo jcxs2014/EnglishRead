@@ -106,7 +106,7 @@ modified: "2026-09-27"
 | discourse | 谈话、对话（此处：与劳埃德先生的那场谈话） | From my discourse with Mr. Lloyd, and from the above-reported conference between Bessie and Abbot, I gathered enough of hope to suffice as a motive for wishing to get well |
 | surveyed | 打量、审视（此处：严厉的目光） | Mrs. Reed surveyed me at times with a severe eye, but seldom addressed me. |
 | evidently | 显然、明显地 | Eliza and Georgiana, evidently acting according to orders, spoke to me as little as possible. |
-| rallied | 重新振作、稳住（此处：rallied her spirits = 定了定神） | Mrs. Reed soon rallied her spirits: she shook me most soundly; she boxedu both my ears, and then left me without a word. |
+| rallied | 重新振作、稳住（此处：rallied her spirits = 定了定神） | Mrs. Reed soon rallied her spirits: she shook me most soundly; she boxed both my ears, and then left me without a word. |
 | dearth | 匮乏、缺少（in the dearth of = 没有……可依恋的时候） | and, in the dearth of worthier objects of affection, I contrived to find a pleasure in loving and cherishing a faded graven image |
 | contrived | 设法做到（此处：自己给自己找出一份乐趣） | I contrived to find a pleasure in loving and cherishing a faded graven image |
 | cherishing | 珍藏、疼爱 | I contrived to find a pleasure in loving and cherishing a faded graven image |
@@ -132,7 +132,7 @@ modified: "2026-09-27"
 | doll | 玩偶（此处：那个木头娃娃） | I then sat with my doll on my knee, till the fire got low |
 | robin | 知更鸟 | my vacant attention soon found livelier attraction in the spectacle of a little hungry robin |
 | pinafore | 围裙 | “Miss Jane, take off your pinafore: what are you doing there? |
-| ears | 耳朵 | Mrs. Reed soon rallied her spirits: she shook me most soundly; she boxedu both my ears, and then left me without a word. |
+| ears | 耳朵 | Mrs. Reed soon rallied her spirits: she shook me most soundly; she boxed both my ears, and then left me without a word. |
 | trunk | 皮箱 | I’ll ask the cook to bake you a little cake, and then you shall help me to look over your drawers; for I am soon to pack your trunk. |
 
 ## 一句话总结

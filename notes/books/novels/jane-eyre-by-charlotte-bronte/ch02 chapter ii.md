@@ -106,7 +106,7 @@ modified: "2026-09-27"
 | whereof | （正式书面语）……的 | In guaranty whereof I attached myself to my seat by my hands. |
 | sing-song | （此处）单调的反反复复、没完没了 | This reproach of my dependence had become a vague sing-song in my ear; very painful and crushing, but only half intelligible. |
 | crushing | 压得人喘不过气的 | This reproach of my dependence had become a vague sing-song in my ear; very painful and crushing, but only half intelligible. |
-| universally | 无一例外地、人人都 | Georgiana, who had a spoiled temper, a very acrid spite, a captious and insolent carriage,k was universally indulged. |
+| universally | 无一例外地、人人都 | Georgiana, who had a spoiled temper, a very acrid spite, a captious and insolent carriage, was universally indulged. |
 | condemned | 定罪、判罚（此处：永远被判有罪） | Why was I always suffering, always brow-beaten, always accused, forever condemned? |
 | furniture | 家具 | The housemaid alone came here on Saturdays, to wipe from the mirrors and the furniture a week’s quiet dust |
 | suffocated | 窒息的、喘不上气的 | I was oppressed, suffocated; endurance broke down; I rushed to the door and shook the lock in desperate effort. |
