@@ -48,7 +48,7 @@ source_text: ch04_chapter_4.txt
 
 **中文理解**：因此她们在各方面都有理由自视甚高、他人为低。
 **关键词**：in the habit of, entitled to, meanly of
-**为什么这样写**：这句是叙述者借伊丽莎白之眼下的判词，把她们的自我评价连成一条因果链：受过的教育（`educated in one of the first private seminaries`）与财产（`twenty thousand pounds`）只用来铺垫她们的坏习惯——`in the habit of spending more than they ought`（花超于所得）与 `associating with people of rank`（只与有身份者往来）；`and were therefore` 一转，结论便是 `entitled to think well of themselves, and meanly of others`。这句以两个 `of` 结构对仗收尾，宾语一为反身代词、一为泛指他人，`meanly` 这个少见的副词一次就把"看得起自己、看低别人"两层意思说完。
+**为什么这样写**：这句是叙述者借伊丽莎白之眼下的判词，把她们的自我评价连成一条因果链：受过的教育（`educated in one of the first private seminaries`）与财产（`twenty thousand pounds`）只用来铺垫她们的坏习惯——`in the habit of spending more than they ought`（花超于所得）与 `associating with people of rank`（只与有身份者往来）；`and were therefore` 一转，结论便是 `entitled to think well of themselves, and meanly of others`。收尾处 `think well of themselves` 与 `meanly of others` 以 `of` 结构对仗，宾语一为反身代词、一为泛指他人，`meanly` 这个少见的副词一次就把"看得起自己、看低别人"两层意思说完。
 **读者视角提示**：注意 `entitled to`（有资格/有理由）在此是中性的——叙述者不判她们该不该，只说她们有理由。
 
 ⑥ "a circumstance more deeply impressed on their memories than that their brother's fortune and their own had been acquired by trade."
