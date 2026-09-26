@@ -51,7 +51,7 @@ source_text: ch12
 
 ### 第三处
 
-> "I wasn't alone in London. It's not difficult to imagine, nor is it hard to imagine that I was alone, I could have been either of those things, no one knows about it. I've had a lover for a year now, a young nurse who works in the hospital next door."
+> "I wasn't alone in London," he said then, "it's not difficult to imagine, nor is it hard to imagine that I was alone, I could have been either of those things, no one knows about it. I've had a lover for a year now, a young nurse who works in the hospital next door."
 
 **中文理解**：我在伦敦并不是孤身一人。这不难想象，但也不难想象我是孤身一人，我两种情况都有可能，没人知道真相。这一年来我有一个情人，一个在隔壁医院工作的年轻护士。
 
@@ -79,7 +79,7 @@ source_text: ch12
 
 ### 第五处
 
-> "So there is no operation, then? / She shook her head, her eyes glittered, but there were no tears."
+> "So there's no operation, then?" I said. She shook her head, her eyes glittered, but there were no tears.
 
 **中文理解**："那么，没有手术了？" / 她摇了摇头，眼里闪着光，但没有眼泪。
 
@@ -137,50 +137,39 @@ source_text: ch12
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| infection / infected | 感染；传染 | "We are so easily infected, we can be convinced of anything." |
+| infected | 感染的；被传染的 | "We are so easily infected, we can be convinced of anything." |
 | delusion | 错觉；妄想 | "It's so easy to live in a state of delusion, or to be deceived." |
-| abortive | 失败的；终止的 | An abortion that was never carried out, an abortive act of violence on a London bus. |
-| concussion | 撞击；冲击 | The tremendous blow that threw her ahead at the height of the taxi's snout. |
-| concussion (引申) | 脑震荡 | He gripped her temples with his thumbs, nearly crushing them. |
-| attenuation | 减轻；弱化 | An attenuating circumstance, a justification, an excuse. |
-| hermetically sealed | 密封的；完全隔绝的 | His affair was "an area closed off from everyone, hermetically sealed." |
-| inexorable | 不可阻挡的；无情的 | The relentless rhythm of the double-decker bus through the rain. |
-| rue | 后悔；懊悔 | He felt no rue for what he had tried to do on the bus. |
-| commensurate | 相称的；相当的 | His guilt was not commensurate with his crime. |
+| hermetically sealed | 密封的；完全隔绝的 | his affair was an area closed off from everyone, hermetically sealed |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| misapprehension | 误解；认识不清 | "I was in a state of complete misapprehension." |
-| pregnant | 怀孕的 | She told him she was pregnant with his child. |
-| clinic | 诊所 | The abortion was arranged through a clinic in London. |
-| confession | 坦白；供认 | Deán's long confession about the night in London. |
-| abort | 终止；流产 | He wanted her to abort the pregnancy. |
-| turbulence | 动荡；骚动 | The turbulence of his guilt and his justifications. |
-| hospital | 医院 | A young nurse who works in the hospital next door. |
-| bus | 公共汽车 | The number 16 London bus in the rain and the wind. |
-| taxi | 出租车 | The black taxi that killed Eva on the street. |
-| guilt | 罪行；内疚 | The guilt of knowing and the guilt of not knowing. |
-| forgiveness | 原谅；宽恕 | "You can emerge from anything unharmed, or more than that, unscathed." |
-| narrative | 叙事；故事 | "The person telling a story is usually able to explain himself." |
-| obstinacy | 固执；倔强 | The stubborn, unyielding nature of desire and its consequences. |
-| desolation | 荒凉；孤寂 | The desolation of London at night seen from the bus window. |
+| misapprehension | 误解；认识不清 | I was in a state of complete misapprehension. |
+| pregnant | 怀孕的 | the nurse had told me that she was pregnant |
+| clinic | 诊所 | she had made all the arrangements from her clinic here |
+| abortion | 流产；堕胎 | I begged her to have an abortion |
+| hospital | 医院 | a young nurse who works in the hospital next door |
+| taxi | 出租车 | I got out of the taxi in Conde de la Cimera |
+| conscience | 良心；良知 | intended to ease a guilty conscience |
+| narrative | 叙事；讲述 | to accompany the narrative act by some physical gesture |
+| desolation | 荒凉；孤寂 | no one must see her in the midst of her desolation |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| nurse | 护士 | A young nurse who works in the hospital next door. |
-| hotel | 酒店 | He was staying in a hotel in London. |
-| rain | 雨 | The rain fell obliquely in the London street as Eva fled. |
-| wind | 风 | The wind maddened people on the top deck of the bus. |
-| street | 街道 | The street was deserted in the late-night rain. |
-| night | 夜晚 | He told his story late at night in Deán's apartment. |
-| face | 脸 | Her face was battered, injured, then covered with a rug. |
-| hand | 手 | His hands around her head, her neck, her throat. |
-| death | 死亡 | Eva's death, Marta's death, two deaths in two cities. |
-| child | 孩子 | Eugenio, the child who would never know what happened. |
+| nurse | 护士 | a young nurse who works in the hospital next door |
+| hotel | 酒店 | the yellow post-it that says "Wilbraham Hotel" |
+| raincoat | 雨衣 | Deán suddenly asked me if I wanted to take my raincoat off |
+| rain | 雨 | The rain was not as strong as the wind |
+| wind | 风 | a terrific wind got up |
+| street | 街道 | walked down a street with Eva |
+| night | 夜晚 | or perhaps it was already night |
+| hand | 手 | he offered me his left hand to shake |
+| face | 脸 | someone with a face and a name |
+| death | 死亡 | on meeting death, I find rest |
+| child | 孩子 | something or other to do with the child |
 
 ## 一句话总结
 
