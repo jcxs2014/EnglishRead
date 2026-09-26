@@ -26,6 +26,68 @@ import re, sys, os, glob
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 flat = lambda s: re.sub(r'[^a-z0-9]', '', s.lower())
 
+
+# ── P0-5 首/尾词吞词检测（2026-09-26，方案 §3.2）────────────────────────
+# 病根：flat 删掉所有非字母数字后做**子串**判定，于是
+#     md   : "Hate it here. Will you take me away with you"
+#     原文 : "I hate it here. Will you take me away with you"
+# flat 后前者是后者的子串 → verify_quotes 与本工具**双双 1/1 ✅ 放行**，
+# 而真实缺陷是引语首词 "I" 被吞。§3.2 实证：Forgotten Sisters 批次。
+#
+# 修法：判定加**词边界**。注意两条约束——
+#   ① 边界必须在**原文**上判，不能在 flat 串上判（flat 串每字符皆字母数字，
+#      边界恒假——与 verify_corpus 第一版 has_token 同一个坑）；
+#   ② **破折号不并词**：`word—word` flat 后成 `wordword`，若按 flat 串
+#      判边界会把破折号处误判成"词中间"，须把非字母数字一律视为词边界。
+def flat_with_bounds(s):
+    """返回 (flat串, 边界数组, 原文字引数组)。
+
+    - 边界数组[i] 为 True 表示 flat 串第 i 字符在**原文**里是一个新词的
+      开头（前一个非字母数字字符，或位于串首）
+    - 原文字引数组[i] 给出该 flat 字符在原文中的下标，用于报告时打印
+      原文上下文——因为「md 首词被吞」与「text/ 把两个词粘连」在 flat 串上
+      **表现完全相同**（实测 living-on-paper ch21 的 `IPlease forgive`：
+      md 引语是对的，是 text/ 提取件把 I 与 Please 粘住了），只有原文能分辨。
+    """
+    out, bnd, orig = [], [], []
+    prev_alnum = False
+    for idx, ch in enumerate(s.lower()):
+        if 'a' <= ch <= 'z' or '0' <= ch <= '9':
+            out.append(ch)
+            bnd.append(not prev_alnum)
+            orig.append(idx)
+            prev_alnum = True
+        else:
+            # 任何非字母数字都断词——含破折号/连字符（破折号不并词）
+            prev_alnum = False
+    return ''.join(out), bnd, orig
+
+
+def boundary_clean_positions(chap_flat, chap_bnd, needle):
+    """needle 在 chap_flat 中所有出现位置里，返回「词边界干净」的那些位置。
+
+    - 首端：位置 >0 时要求 chap_bnd[pos] 为 True（否则首词被吞）
+    - 尾端：仅当整条引语（而非 60 字符前缀）被匹配时才检查，
+            因为前缀截断必然停在词中间，据此判「尾词被截断」必然假红
+    """
+    if not needle:
+        return []
+    hits, i = [], chap_flat.find(needle)
+    while i != -1:
+        ok = (i == 0) or chap_bnd[i]
+        if ok:
+            hits.append(i)
+        i = chap_flat.find(needle, i + 1)
+    return hits
+
+
+def tail_boundary_ok(chap_flat, chap_bnd, start, length):
+    """整条引语匹配后，尾端是否落在词边界上。"""
+    end = start + length
+    if end >= len(chap_flat):
+        return True                      # 匹配到文末，尾端天然完整
+    return chap_bnd[end]
+
 # Pattern: ①/②… 圈数字 + optional quotes
 CIRCLED_RE = re.compile(
     r'^(?:>\s*)?(?:\*{0,2}[' + CIRCLED + r']\*{0,2})\s+["\u201c]?(.*?)["\u201d]?\s*$'
@@ -91,7 +153,13 @@ def fragments(text):
 
 
 def check_chapter(nn, md_path, text_dir):
-    """Check one chapter. Returns (ok_count, total_count, miss_list, err, short)."""
+    """Check one chapter.
+
+    Returns (ok_count, total_count, miss_list, err, short, swallowed)。
+    `swallowed` 是 P0-5 新增：引语 flat 后能在本章命中、但命中位置落在原文
+    **词中间**（首词被吞）或尾端停在词中间（尾词被截断）者。§3.2 实证这类
+    缺陷过去被两个工具双双 1/1 ✅ 放行。
+    """
     # Resolve chapter number from frontmatter source_text if present
     actual_nn = nn
     try:
@@ -125,25 +193,48 @@ def check_chapter(nn, md_path, text_dir):
     if tp is None:
         raise SystemExit(f'missing ch{actual_nn:02d}*.txt in {text_dir} (source_text from ch{nn:02d})')
 
-    chap_text = flat(open(tp, encoding='utf-8').read())
+    raw_chap = open(tp, encoding='utf-8').read()
+    chap_text, chap_bnd, chap_orig = flat_with_bounds(raw_chap)
     qs, short = extract_quotes(open(md_path, encoding='utf-8').read())
     if not qs:
         if short:
-            return (0, 0, [], f'NO_LONG_QUOTES ({short} 短引语未校验，须人工 grep)', short)
-        return (0, 0, [], 'NO_QUOTES_EXTRACTED', short)
+            return (0, 0, [], f'NO_LONG_QUOTES ({short} 短引语未校验，须人工 grep)', short, [])
+        return (0, 0, [], 'NO_QUOTES_EXTRACTED', short, [])
 
-    ok, miss = 0, []
+    ok, miss, swallowed = 0, [], []
     for q in qs:
         fq = flat(q)
         frags = fragments(q)
-        if fq[:60] in chap_text:
-            ok += 1
-        elif frags and all(flat(p)[:40] in chap_text for p in frags):
+        head = fq[:60]
+        hits = boundary_clean_positions(chap_text, chap_bnd, head)
+        if hits:
+            # P0-5：整条引语（未被 60 字符前缀截断）才检查尾端边界
+            if len(head) < len(fq) or tail_boundary_ok(
+                    chap_text, chap_bnd, hits[0], len(head)):
+                ok += 1
+            else:
+                p0 = hits[0]
+                ej = p0 + len(head)
+                oi = chap_orig[ej] if ej < len(chap_orig) else len(raw_chap)
+                ctx = re.sub(r'\s+', ' ', raw_chap[max(0, oi - 18):oi + 24]).strip()
+                swallowed.append((q[:80], '尾词被截断', f'原文：…{ctx}…'))
+            continue
+        # 前缀匹配上了但**所有出现位置都在词中间**（§3.2）
+        if head and head in chap_text:
+            p0 = chap_text.find(head)
+            oi = chap_orig[p0] if p0 < len(chap_orig) else 0
+            ctx = re.sub(r'\s+', ' ', raw_chap[max(0, oi - 24):oi + 18]).strip()
+            swallowed.append((
+                q[:80],
+                '首词被吞或 text/ 粘连（flat 命中落在原文词中间）',
+                f'原文：…{ctx}…'))
+            continue
+        if frags and all(flat(p)[:40] in chap_text for p in frags):
             # Each segment of a truncated quote must individually be found
             ok += 1
         else:
             miss.append(q[:80])
-    return (ok, len(qs), miss, None, short)
+    return (ok, len(qs), miss, None, short, swallowed)
 
 
 def scan_book(book_dir, out_dir=None):
@@ -156,23 +247,47 @@ def scan_book(book_dir, out_dir=None):
     total_ok = total = 0
     short_total = 0
     failed_chapters = []
+    all_swallowed = []
     for md in md_files:
         nn = int(re.match(r'ch(\d+)', os.path.basename(md)).group(1))
-        ok, tot, miss, err, short = check_chapter(nn, md, text_dir)
+        ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
         total_ok += ok; total += tot; short_total += short
+        for it in swallowed:
+            all_swallowed.append((nn, os.path.basename(md)) + it)
+        # P0-5 的吞词**不计入 failed_chapters**（不翻转退出码）：命中位置在
+        # 词中间有两种成因——md 引语真的吞了词，或 text/ 提取件把两个词粘连。
+        # 二者在 flat 串上表现完全相同，工具无法分辨。实测 living-on-paper
+        # ch21 属后者（原文 `IPlease forgive`，md 引语是对的），若据此判红
+        # 就是「md 没毛病却门禁变红」的假红。故只报不改退出码，由人裁决；
+        # 语料成因走 verify_corpus（P0-0），引语成因改 md。
         if err or miss:
-            failed_chapters.append((nn, os.path.basename(md), ok, tot, miss, err))
+            failed_chapters.append(
+                (nn, os.path.basename(md), ok, tot, miss, err, swallowed))
     if short_total:
         print(f'\u26a0\ufe0f  全书共 {short_total} 条短引语（<20 flat 字符）未被校验\u2014\u2014按规则须人工 grep 兜底')
 
     print(f'全章扫描: 解析引语块 {total}，命中本章 {total_ok}（{100*total_ok//max(1,total)}%）')
+    if all_swallowed:
+        print(f'\n--- P0-5 首/尾词吞词 ({len(all_swallowed)}) ---')
+        print('    flat 子串能在本章命中，但命中位置落在原文**词中间**。这类缺陷过去被')
+        print('    verify_quotes 与本工具双双 1/1 ✅ 放行（方案 §3.2）。破折号不并词，')
+        print('    故 em-dash 处的 flat 连续不算吞词。')
+        print('    ⚠️ **不翻转退出码**：成因有二且工具无法分辨——')
+        print('       ① md 引语首词被吞 → 改 md；② text/ 提取件把两词粘连 → 走')
+        print('          verify_corpus（P0-0）。实测 living-on-paper ch21 属②，')
+        print('       md 引语无误；据此判红即假红。请对照下方「原文」一行裁决。')
+        for nn, name, q, why, ctx in all_swallowed[:20]:
+            print(f'  ch{nn:02d} {name}: {why}')
+            print(f'      md  ：「{q}」')
+            print(f'      {ctx}')
     if failed_chapters:
         print(f'\n--- 异常章节 ({len(failed_chapters)}) ---')
-        for nn, name, ok, tot, miss, err in failed_chapters:
+        for nn, name, ok, tot, miss, err, swallowed in failed_chapters:
             if err:
                 print(f'  ch{nn:02d} {name}: {err}')
             else:
-                print(f'  ch{nn:02d} {name}: {ok}/{tot} ❌')
+                tag = '❌' if miss else '⚠️'
+                print(f'  ch{nn:02d} {name}: {ok}/{tot} {tag}')
                 for m in miss[:3]:
                     print(f'      MISS: {m}')
         return 1
@@ -201,7 +316,7 @@ def main():
     nn = int(args[0])
     md = args[1]
     text_dir = out_dir or os.path.join(os.path.dirname(os.path.abspath(md)), 'text')
-    ok, tot, miss, err, short = check_chapter(nn, md, text_dir)
+    ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
     if err:
         print(err)
         sys.exit(1)
@@ -209,7 +324,12 @@ def main():
     print(f'{os.path.basename(md)}: {ok}/{tot} in ch{nn:02d} text{note}')
     for m in miss:
         print(f'  MISS: {m}')
-    sys.exit(0 if ok == tot else 1)
+    for it in swallowed:
+        q, why = it[0], it[1]
+        print(f'  P0-5 {why}：「{q}」')
+        if len(it) > 2:
+            print(f'      {it[2]}')
+    sys.exit(0 if ok == tot else 1)   # P0-5 不翻转退出码（见 scan_book 注释）
 
 
 if __name__ == '__main__':
