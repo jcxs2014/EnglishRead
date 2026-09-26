@@ -131,11 +131,11 @@ modified: "2026-09-26"
 
 ---
 
-> **原句 9:** "“Thank you for the ego boost, for the kindness and for those kisses,” she said."
+> **原句 9:** "“Thank you for the ego boost, for the kindness and for those kisses.”"
 
 **中文理解**："谢谢你给我的自信、你的好意，还有那些吻。"
 
-**句子结构**：单句，Thank you for + 三个并列名词短语（the ego boost / the kindness / those kisses），those 为指示代词指代前面提到的吻；she said 为转述。
+**句子结构**：单句，Thank you for + 三个并列名词短语（the ego boost / the kindness / those kisses），those 为指示代词指代前面提到的吻。
 
 **关键词**：ego boost / Thank you for
 
