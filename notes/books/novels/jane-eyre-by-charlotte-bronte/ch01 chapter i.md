@@ -86,7 +86,7 @@ modified: "2026-09-27"
 | phantoms | 幽灵、幻影 | The two ships becalmed on a torpid sea, I believed to be marine phantoms. |
 | antipathy | 反感、厌恶（an antipathy to me = 讨厌我） | John had not much affection for his mother and sisters, and an antipathy to me. |
 | equilibrium | 平衡；此处指失去重心后重新站稳 | I tottered, and, on regaining my equilibrium, retired back a step or two from his chair. |
-| bilious | （脸色）发青的、消化不良引起的 | He gorged himself habitually at table, which made him bilious,f and gave him a dim and bleared eye and flabby cheeks. |
+| bilious | （脸色）发青的、消化不良引起的 | He gorged himself habitually at table, which made him bilious and gave him a dim and bleared eye and flabby cheeks. |
 
 ### ⭐⭐ 进阶
 
@@ -103,10 +103,10 @@ modified: "2026-09-27"
 | surveying | 察看、巡视（此处不是"测量"，是居高临下地看） | So was the black, horned thing, seated aloof on a rock, surveying a distant crowd surrounding a gallows. |
 | interruption | 打扰、干扰 | I feared nothing but interruption, and that came too soon. |
 | intimated | 用姿态或手势暗示（此处：约翰一个手势就命令她过去站好） | “I want you to come here;” and, seating himself in an arm-chair, he intimated by a gesture that I was to approach and stand before him. |
-| gorged | 狼吞虎咽（gorged himself = 拼命地吃） | He gorged himself habitually at table, which made him bilious,f and gave him a dim and bleared eye and flabby cheeks. |
-| bleared | （眼睛）浑浊无神的 | He gorged himself habitually at table, which made him bilious,f and gave him a dim and bleared eye and flabby cheeks. |
-| flabby | 松垮塌的（此处指脸颊） | He gorged himself habitually at table, which made him bilious,f and gave him a dim and bleared eye and flabby cheeks. |
-| habitually | 习惯性地、经常不断地 | He gorged himself habitually at table, which made him bilious,f and gave him a dim and bleared eye and flabby cheeks. |
+| gorged | 狼吞虎咽（此处指在饭桌上拼命地吃） | He gorged himself habitually at table, which made him bilious and gave him a dim and bleared eye and flabby cheeks. |
+| bleared | （眼睛）浑浊无神的 | He gorged himself habitually at table, which made him bilious and gave him a dim and bleared eye and flabby cheeks. |
+| flabby | 松垮塌的（此处指脸颊） | He gorged himself habitually at table, which made him bilious and gave him a dim and bleared eye and flabby cheeks. |
+| habitually | 习惯性地、经常不断地 | He gorged himself habitually at table, which made him bilious and gave him a dim and bleared eye and flabby cheeks. |
 | disgusting | 令人作呕的、令人厌恶的 | I knew he would soon strike, and, while dreading the blow, I mused on the disgusting and ugly appearance of him who would presently deal it. |
 | appearance | 外表、相貌（此处指"即将打我的人"的长相） | I knew he would soon strike, and, while dreading the blow, I mused on the disgusting and ugly appearance of him who would presently deal it. |
 | bookshelves | 书架（shelf 的复数） | Now, I’ll teach you to rummage my bookshelves; for they are mine; all the house belongs to me, or will do in a few years. |
