@@ -9,7 +9,7 @@ modified: "2026-09-27"
 ## 概览
 
 - **出处**：After a Funeral: A Memoir（Jonathan Cape 1986 初版；Granta Publications 2000；W. W. Norton 2010）
-- **作者**：Diana Athill——本书的叙述者「我」，全书从头到尾不出现她自己的名字
+- **作者**：Diana Athill——本书的叙述者「我」；ch01 与 ch02 全章不出现她的名字，自 ch03 起他人开始直呼其名
 - **章节定位**：六章之首，同时是整个叙述框架的两端。先写 1963 年夏那场为美国夫妇而设、实为迎接一位陌生人的晚餐，再跳到五年后此人在她公寓里的死亡，末了给出她对这场死亡的读法——「Beginning and End」（开始与结束）的双重含义由此而来
 - **被记述者**：全书始终不给他真名；作者在 ch02 起用家中的昵称 `Didi` 指称他，本章他只是一个「a man whom I had never met」
 - **字符数**：9,705（text/ch01_beginning and end.txt）
@@ -72,7 +72,7 @@ modified: "2026-09-27"
 
 > **原句 3:** A German acquaintance had described him as ‘a modest, tender and gazelle-like being,’ which went with the personality suggested by his writing.
 
-**中文理解**：一位德国熟人曾把他形容为「一个谦逊、温柔、像小羚羊似的存在」，这与他 writings 里透露出的性格正相吻合。
+**中文理解**：一位德国熟人曾把他形容为「一个谦逊、温柔、像小羚羊似的存在」，这与他 writing 里透露出的性格正相吻合。
 
 **句子结构**：`A German acquaintance` 作主语，`had described him as` 后接直接引语（引号内是他人的转述）；非限定性定语从句 `which went with the personality suggested by his writing` 承接，先确认彼此印证，再引出「由作品反推性格」的路径。
 
@@ -164,7 +164,7 @@ modified: "2026-09-27"
 
 **表达方式**：四项并置、不作解释、也不排序——`the humour` 之后每一项都在说同一件事的不同侧面；全部由形容词与名词构成，没有一个动词。
 
-**为什么这样写**：这是一份由旁观者视角给出的「人物说明书」，而给出说明书的人正是与他共度余生的人。列举而非论证，意味着她当时只看见症状；到了 ch05、ch06，同一个人在同一份清单上的分数会反过来：`the undiminished relish for life` 恰恰是最先失效的一项。
+**为什么这样写**：这是一份由旁观者视角给出的「人物说明书」，而给出说明书的人正是与他共度余生的人。列举而非论证，意味着她当时只看见症状；到了 ch06，同一个人在同一份清单上的分数会反过来：她在那里写下 `He was not so gay as he seemed to be.`——兴味恰恰是最先失效的一项。
 
 ### ⑩
 
@@ -172,7 +172,7 @@ modified: "2026-09-27"
 
 **中文理解**：我认为他当时需要的是一个目击者。独自一人在悲痛中垮掉已经够难受了；别人对正在发生的事一无所知，很快就会让眼泪显得可笑。在一片真空中去表演他称之为「我一生中唯一真实的行为」的东西，那就更糟了。
 
-**句子结构**：首句 `I think he was needing a witness` 是「I think + 主语 + was + doing」结构，宾语为动名词；次句为「比较级 + 独立主格分号并列」——`It is bad enough merely to collapse in grief when alone` 与分号后的 `other people’s ignorance of what is happening soon makes the tears seem foolish`；末句 `How much worse to be performing…` 用 how + 形容词 + 不定式的感叹结构收束。
+**句子结构**：首句 `I think he was needing a witness` 是「I think + 主语 + was + doing」结构，宾语为动名词；次句由分号连接两个独立句——`It is bad enough merely to collapse in grief when alone` 与分号后的 `other people’s ignorance of what is happening soon makes the tears seem foolish`；末句 `How much worse to be performing…` 用 how + 形容词 + 不定式的感叹结构收束。
 
 **关键词**：needing a witness（需要一个目击者）、collapse in grief（在悲痛中垮掉）、in a vacuum（在一片真空中）
 

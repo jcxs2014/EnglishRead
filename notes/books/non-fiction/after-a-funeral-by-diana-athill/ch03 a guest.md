@@ -10,7 +10,7 @@ modified: "2026-09-27"
 
 - **出处**：After a Funeral: A Memoir 第三章（Jonathan Cape 1986 初版；Granta Publications 2000；W. W. Norton 2010）
 - **作者**：Diana Athill
-- **章节定位**：承接 ch02 的「portrait」写作时点——两年后他搬进她的公寓，同住一条走廊。ch02 写的是她在外面看他，ch03 写的是两个人在同一屋檐下：她如何爱上一个比自己年轻近二十岁的流亡者、如何为自己的「拯救者」身份所困、以及她在粉刷楼梯的两个月里看清了什么
+- **章节定位**：承接 ch02 的「portrait」写作时点——两年后他搬进她的公寓，同住一套房子——他睡客厅、她睡自己那间。ch02 写的是她在外面看他，ch03 写的是两个人在同一屋檐下：她如何爱上一个比自己年轻十岁的流亡者（他自己把差岁报成了十八年）、如何为自己的「拯救者」身份所困、以及她在粉刷楼梯的两个月里看清了什么
 - **叙述方法的变化**：本章引入了大量他的日记与书信原文（她此前只见过零星几页），因此全章在「转述」与「原件」之间频繁切换；作者对这些原件的解读正是本章最不稳的地方
 - **本卷新出场的名字**：Didi 之外的 Luke（她的恋人）、Gudrun（继 Inge、Ursula 之后的第三个危机对象）、Peter（Düsseldorf 的新朋友）
 - **字符数**：65,312（text/ch03_a guest.txt）
@@ -29,7 +29,7 @@ modified: "2026-09-27"
 | 最后一晚他求她 `‘Oh god, Diana, I don’t know that I can stand losing all this.’`，她跪下去，他 `didn’t even turn his eyes to look at me` | 案例 | 他需要伤害人的自我认知，是他在 ch05 里那些风暴的前奏 |
 | 领事馆事件：她判断他 `he had simply heard the words spoken by the clerk as refusal` | 关键案例 | 伪造事实与误解事实的分界线，是她全书最精细的一次区分 |
 | 粉刷楼梯的两个月：`he always bought less paint at a time than he said he bought, and that he drank and gambled the money left over` | 案例 | 「勤劳忍耐」的德国岁月图景在近距离观察下碎掉 |
-| 读日记后的发现：`He never ‘saw’ the women he pursued; and when, after he had caught them, he had to recognize their individuality, he resented it.` | 关键案例 | 她在 ch02 末尾自己问出的第一个「病情定义」（`‘Is he mentally sick?’`），在这一章被她自己修正 |
+| 读日记后的发现：`He never ‘saw’ the women he pursued; and when, after he had caught them, he had to recognize their individuality, he resented it.` | 关键案例 | 她在 ch02 后段自己问出的第一个「病情定义」（`‘Is he mentally sick?’`），在这一章被她自己修正 |
 
 **论证脉络**：声明上一章的 portrait 仍大体可信（`he could tune himself up to a pitch where he hit the truth exactly`）→ 给出「谎言」的工作原理与代价 → 用年龄谎称与「母亲」一词装备自己（`Conditioning is irreversible`）→ 说明他为何不可能爱上她（`I am not a ‘little black suit’ woman.`）→ 最后一晚的试探与被拒（`He didn’t move, didn’t even turn his eyes to look at me`）→ 她自己的「安全阀」被顶开（`a piece of string or a safety-pin in the groggy mechanism`）→ 一段插入式的自白：中年女性与母性冲动如何被重新编组（`Sex and the maternal impulse are closely interwoven`）→ Gudrun 危机与他的日记原文（`a man in his thirties with the emotions of a schoolgirl`）→ 签证、居留与那封「被拒」的信（`he had not misrepresented, but had misinterpreted`）→ 他终于来伦敦：charm 的完整展开（`a way of responding`）→ 粉刷楼梯的破产 → 日记的碎片把「痊愈中的他」推倒（`He never ‘saw’ the women he pursued`）→ 约定互不偷看对方的东西（`we agreed that from then on we must both put away anything we wished to keep private`）→ 收束于她承认自己的克制 `not particularly honourable`
 
@@ -65,7 +65,7 @@ modified: "2026-09-27"
 
 **关键词**：Don’t be absurd（别胡说）、age means nothing（年龄什么也不是）、far younger mentally and physically（精神和身体上都年轻得多）
 
-**表达方式**：以祈使句开场反驳，再用反问句把一个客观判断重新包装成对听者的事实提醒；`far`、`most`、`even` 三个限定词一路升级，末尾的 `in their early thirties` 又把比较范围收窄。
+**表达方式**：以祈使句开场反驳，再用反问句把一个客观判断重新包装成对听者的事实提醒；`far`、`most` 一路升级，末尾的 `in their early thirties` 又把比较范围收窄。
 
 **为什么这样写**：他撒过的谎里只有这一句是对着她说出来的——她比他大十岁，他把自己又报小八岁并改过证件。她把它引在这里，是全章的支点：她的全部防护建立在「母亲」这个词上，而这个词正是他最先拆掉的防波堤。
 

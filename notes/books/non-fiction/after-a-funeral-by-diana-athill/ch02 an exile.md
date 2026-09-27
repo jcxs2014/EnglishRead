@@ -14,7 +14,7 @@ modified: "2026-09-27"
 - **本章的文体**：因为是作者亲手写的一篇「portrait」，叙述比别章更近于第三人称的冷静；她也在开头就交代了自己的证据边界（`I have never been in Egypt and have met only a few of his relations.`）
 - **人物**：本卷中他被称作 Didi；家族的主要发言者是姐姐 Dolly 与表弟 Mémé
 - **字符数**：60,028（text/ch02_an exile.txt）
-- **一句话主旨**：一个埃及流亡者如何同时被家族、政权与自己的爱欲推向绝路——家族的爱是修辞，他被逐出体面的家族，在德国靠码头与工厂度日，用赌博与酒去够那个他认定「只有不被爱时才够得着」的爱，最后在一封宣告 `‘Not mentally insane, emotionally insane.’` 的信里崩溃，又被一本 Henry Miller 短暂地「治好」
+- **一句话主旨**：一个埃及流亡者如何同时被家族、政权与自己的爱欲推向绝路——家族的爱是修辞，他被逐出体面的家族，在德国靠码头与工厂度日，用赌博与酒去够那个他认定「只有不被爱时才够得着」的爱，最后在一封宣告 `‘Not mentally insane, emotionally insane. This horrible mental sanity which makes me able to see it, and know I can do nothing about it.’` 的信里崩溃，又被一本 Henry Miller 短暂地「治好」
 
 ## 论证结构
 
@@ -26,7 +26,7 @@ modified: "2026-09-27"
 |---|---|---|
 | 外祖父母家唯一的家规是 `the only duty of everyone was to be happy and laugh` | 引证 | 这个家族自认的情感丰沛，与它实际兑现不了的部分 |
 | Mémé 转述的童年：母亲留给他 `one piastre—one piastre—so he could find a telephone and ask someone for a place to sleep` | 案例 | 家族爱的原型——不给照顾，只给一次让人无处可去的自由 |
-| 他解释家族为何留在埃及、为何留在政权右边：`They resent the regime because they are to its right. Didi is forced to live abroad because he is to its left.` | 关键句 | 流亡不是选择，而是政治位置的必然结果 |
+| 作者概括这一家的处境：`They resent the regime because they are to its right. Didi is forced to live abroad because he is to its left.` | 关键句 | 流亡不是选择，而是政治位置的必然结果 |
 | 赌桌上的他赢输都无所谓，因为 `it is the act which draws him` | 案例 | 成瘾指向行为本身；输赢只是行为附带的偶然 |
 | 他写来的信：`‘Not mentally insane, emotionally insane. This horrible mental sanity which makes me able to see it, and know I can do nothing about it.’` | 引证 | 病不在理智判断，而在「看得见却动不了」 |
 | 读 Miller 后他把自己的长篇小说扔进马桶，随后寄来的日记讲的是另一件事——他在一个绝望女孩身上 `was a mirror in which he was seeing himself` | 关键案例 | 那场「痊愈」被叙述本身替换掉了 |
@@ -61,7 +61,7 @@ modified: "2026-09-27"
 
 **中文理解**：如果 Didi 在回忆魅力、机智、风度或聪明，他用的是一种略带挽歌调子的庄重；回忆恐怖的事时，他用的是闪闪发亮和津津有味。
 
-**句子结构**：两个平行的条件状语从句（`If Didi is remembering…` 与省略的 `horrors he recalls…`），主句分别是 `he does so with a slightly elegiac gravity` 与 `he recalls with sparkle and relish`；分号连接，前后各用一个名词短语作 with 的宾语。
+**句子结构**：两个平行分句（`If Didi is remembering…` 与省略了主语的 `horrors he recalls…`），主句分别是 `he does so with a slightly elegiac gravity` 与 `he recalls with sparkle and relish`；分号连接，前后各用一个名词短语作 with 的宾语。
 
 **关键词**：charm, wit, elegance or intelligence（魅力、机智、风度或聪明）、a slightly elegiac gravity（略带挽歌调的庄重）、horrors he recalls with sparkle and relish（回忆恐怖时的那份津津有味）
 
@@ -81,13 +81,13 @@ modified: "2026-09-27"
 
 **表达方式**：用造词与阿拉伯语把一个英国上流社会的厨房抬进「血统」与「东方」两重语义里；重复那个法语词是强调，也是这座家族给自己修的祭坛。
 
-**为什么这样写**：Dolly 的做菜能力在她自己的分类里不是技术而是血统。这句话把后文「体面即道德」的整套家族逻辑一次说尽，而作者只在一句话后追问 `Does your aunt cook when she’s at home?`——用问题，而不是判断，去检验这套逻辑。
+**为什么这样写**：Dolly 的做菜能力在她自己的分类里不是技术而是血统。这句话把后文「体面即道德」的整套家族逻辑一次说尽，而作者真正用来检验这套逻辑的，是趁 Dolly 不在时私下问 Didi 的那句 `Does your aunt cook when she’s at home?`——用问题，而不是判断。
 
 ### ④
 
 > **原句 4:** ‘saltiness,’ it is called in Egypt, the tough, sly quality of the underdog rejoicing in scoring off the top dog, so bred into the bones of a colonized people that a streak of it persists even in that people’s aristocracy.
 
-**中文理解**：在埃及这被叫作「盐味」——弱者占弱者便宜时那种 tough 而 sly 的劲头；它被殖民者这样养进了一个民族的骨头，以至于在这个民族的贵族身上也还留着一条。
+**中文理解**：在埃及这被叫作「盐味」——弱者占上等人的便宜时那种 tough 而 sly 的劲头；它被殖民这样养进了一个民族的骨头，以至于在这个民族的贵族身上也还留着一条。
 
 **句子结构**：主干是 `‘saltiness,’ it is called in Egypt`（同位语加被动式）；破折号后 `the tough, sly quality of the underdog rejoicing in scoring off the top dog` 作同位解释，分词短语 `rejoicing…` 修饰 the underdog；末句 `so bred into the bones… that a streak of it persists…` 用 so + 过去分词 + that 结果状语从句收束。
 
@@ -103,13 +103,13 @@ modified: "2026-09-27"
 
 **中文理解**：而他只给了他一个 piastre——一个 piastre——好让他能找到一部电话，去求一个过夜的地方。她总是做这样的事。
 
-**句子结构**：主句是 `he gave him one piastre`；破折号内重复 `one piastre` 作强调；`so he could find a telephone and ask someone for a place to sleep` 是目的状语（不定式并列 find 与 ask）；次句 `She was always doing things like that.` 以 now 时的现在进行加 always 收尾。
+**句子结构**：主句是 `he gave him one piastre`；破折号内重复 `one piastre` 作强调；`so he could find a telephone and ask someone for a place to sleep` 是目的状语（不定式并列 find 与 ask）；次句 `She was always doing things like that.` 以现在进行时加 always 收尾。
 
 **关键词**：one piastre（一个 piastre）、find a telephone（找一部电话）、ask someone for a place to sleep（求一个过夜的地方）、always doing things like that（总是做这样的事）
 
 **表达方式**：以一个微不足道的数额作主语，把后果全部压进破折号后的两个不定式；`She was always doing things like that.` 单独成句，把一次事件说成一贯作风。
 
-**为什么这样写**：这是 Mémé 讲出来的版本，叙述者是转述者，她没有下任何判断——但一个母亲把八岁儿子独自留在家里、只留下一枚小钱让他去打电话求宿，本身就是她后文那套「家族的爱」的样本。金额越小，爱的形状越清楚。
+**为什么这样写**：这是 Mémé 讲出来的版本，叙述者是转述者，她没有下任何判断——但一个母亲把约莫八到十岁的儿子独自留在家里、只留下一枚小钱让他去打电话求宿，本身就是她后文那套「家族的爱」的样本。金额越小，爱的形状越清楚。
 
 ### ⑥
 
@@ -137,7 +137,7 @@ modified: "2026-09-27"
 
 **表达方式**：先给一个否定式的判断（无关紧要），再用 `or rather` 自我修正——修正后不是「输赢无关」而是「快活与懊恼都与赌博脱节」；最后用一句最短的话把动因钉在 `the act` 上。
 
-**为什么这样写**：作者在此处给出的不是诊断而是一个机制描述，且刻意用最平的语气。她在别处写过他的沉溺是 `a strong impulse towards self-destruction`，而一旦赌注与输赢脱开，这项行为就再也无法被后果约束——这条判断会在 ch05 的「The Game」里被用到极致。
+**为什么这样写**：作者在此处给出的不是诊断而是一个机制描述，且刻意用最平的语气。她在别处写过他的沉溺是 `a strong impulse towards self-destruction`，而一旦赌注与输赢脱开，这项行为就再也无法被后果约束——这条判断到了 ch05 仍会一再出现：他照样在酒馆、牌桌与赌球之间来回。
 
 ### ⑧
 
@@ -225,4 +225,4 @@ modified: "2026-09-27"
 
 ## 一句话总结
 
-「An Exile」把一条自我毁灭的链条逐环摊开：家族给不了的、政权夺走的、赌桌与酒替他求来的，最后他在信里写 `‘Not mentally insane, emotionally insane.’`——而作者在章末给出的不是病名，是那根 `a bent wire poked down a drain`。
+「An Exile」把一条自我毁灭的链条逐环摊开：家族给不了的、政权夺走的、赌桌与酒替他求来的，最后他在信里写 `‘Not mentally insane, emotionally insane. This horrible mental sanity which makes me able to see it, and know I can do nothing about it.’`——而作者在这一章后半给出的不是病名，是那根 `a bent wire poked down a drain`；全章最后收在另一个比喻上：他赖以撑住自己的机制是 `patched up of string and safety-pins`。

@@ -14,7 +14,7 @@ modified: "2026-09-27"
 - **本章的新变量**：不是人，是地方。整章的冲突由「他不喜欢这个地方」与「他正在崩解」两条线绞在一起，直到最后一场酒馆的爆发把两者合并
 - **人物**：本卷的 Ana（南斯拉夫朋友）首次成为场景的一半；她的表姐与孩子提供了一处不受污染的日常
 - **字符数**：42,192（text/ch04_a holiday companion.txt）
-- **一句话主旨**：一次本来想让他开心的度假，在第三周变成一场单方面的指控——他指责她在国外的样子 `making yourself a figure of fun`，留下一句 `‘It’s a pity we could never have an affair—a great pity that an affair is impossible between us.’`；她直到坐进车里才听懂那句「不可能」指的是现在时，而回程那十二小时里，他开得比一天的任何时候都稳
+- **一句话主旨**：一次本来想让他开心的度假，在第三周变成一场单方面的指控——他指责她在国外的样子 `making yourself a figure of fun`，留下一句 `‘It’s a pity we could never have an affair—a great pity that an affair is impossible between us.’`；她直到坐进车里才听懂那句「不可能」指的是现在时，而回程那一整天里（到奥斯坦德十二小时，之后是渡轮与 Dover 夜驾），他开得比任何时候都稳
 
 ## 论证结构
 
@@ -28,17 +28,17 @@ modified: "2026-09-27"
 | `he was almost always (oh my poor Didi!) wrong` ——他带路、点菜、定标准，全错 | 关键句 | 作者对他的判断从「严谨」改写为「自信」 |
 | 关于「可爱的海滩」的分歧：`the amenities were conveniently and prettily arranged and where the other people looked attractive` | 案例 | 两个人要的根本不是同一个东西，因此无法互相取悦 |
 | 表姐的比喻：`‘It’s like carrying round a little portable thunder cloud,’ and it was` | 引证 | 情绪的传染性是空间性的，人不必在场 |
-| 他的指控 `‘Don’t you realize… that you are making yourself a figure of fun?’` | 关键引证 | 攻击的落点从他的行为转移到她的举止 |
-| 他说 `‘It’s a pity we could never have an affair’` 而她听成过去时，事后才明白 `Oh my god—he meant now!` | 关键案例 | 两人已经不在同一个时态里 |
+| 他的指控 `‘Don’t you realize… that you are making yourself a figure of fun?` | 关键引证 | 攻击的落点从他的行为转移到她的举止 |
+| 他说 `‘It’s a pity we could never have an affair—a great pity that an affair is impossible between us.’` 而她听成过去时，事后才明白 `Oh my god—he meant now!` | 关键案例 | 两人已经不在同一个时态里 |
 | 酒馆爆发：他对着中士高喊 `they think they’re left-wing because it’s the smart thing to be, but it’s nothing but fashion with them` | 关键事件 | 病态最激烈处，攻击对象是政治立场而非当事人 |
 
-**论证脉络**：临时起意的假期（`an effervescent mood`）→ 作者的疑虑（`I had misgivings`）→ 第一个失误：路牌 → 旅途中的「生活配件」崇拜（`the trimmings of life were of serious importance`）→ 布鲁日那家餐厅（`we are going to trust my instinct`）→ 她的自我压制（`I resolved to ‘let him enjoy himself’ by keeping my mouth shut`）→ 景观的分裂（对「lovely beach」的定义对撞）→ 冷战：他关在房里，她与表姐在海滩，`Didi’s power of mood-projection was at its strongest` → 停战晚餐：先是他为她的举止开火 → 她的反击（`it’s just me being how I am`）→ 那句 `It’s a pity we could never have an affair` → 车里的一瞬领悟（`Oh my god—he meant now!`）→ 回程路上她终于允许恶意泄出（针锋相对的早餐、午餐、咖啡）→ 酒馆爆发（`‘How dare you!’`）→ 章末：十二小时的车，她只记得 `genuine admiration and gratitude for the way Didi drove`
+**论证脉络**：临时起意的假期（`an effervescent mood`）→ 作者的疑虑（`I had misgivings`）→ 第一个失误：路牌 → 旅途中的「生活配件」崇拜（`the trimmings of life were of serious importance`）→ 布鲁日那家餐厅（`we are going to trust my instinct`）→ 她的自我压制（`I resolved to ‘let him enjoy himself’ by keeping my mouth shut`）→ 景观的分裂（对「lovely beach」的定义对撞）→ 冷战：他关在房里，她与表姐在海滩，`Didi’s power of mood-projection was at its strongest` → 停战晚餐：先是他为她的举止开火 → 她的反击（`it’s just me being how I am`）→ 那句 `It’s a pity we could never have an affair` → 车里的一瞬领悟（`Oh my god—he meant now!`）→ 回程路上她终于允许恶意泄出（针锋相对的早餐、咖啡与停车散步）→ 酒馆爆发（`‘How dare you!’`）→ 章末：那一整天的车程，她只记得 `genuine admiration and gratitude for the way Didi drove`
 
 **可质疑处**：
 
 1. 本章对「地方不合意」的描写近乎系统性：路、食物、海滩、女性、村庄、政治，全数被他判为不足；而这些判断本身大多没有独立检验——她给出的反证（`he found the women ugly, too`、`he was ‘very disappointed’ by Yugoslavia`）都是转述他的表情，不是可核对的事实。
 2. 她的「恶意」段落写法上非常克制（全程不说破，只写针锋相对的提议），但正因如此，谁先开始这一轮并没有被处理；她只交代了自己的动因（`If he was punishing me, he was also punishing himself.`），这份对称是她的说法，不是可验证的事实。
-3. 章末的收束很漂亮——争吵之后他开车更稳——但这一笔把整章的重量移到了驾驶上，而驾驶正是他在 ch02 里被写成会输掉一切、靠 `it is the act which draws him` 的那件事。作者把「可靠」与「危险」并置而不加区分，这一章的读者无法判断这是伏笔还是缓冲。
+3. 章末的收束很漂亮——争吵之后他开车更稳——但这一笔把整章的重量移到了驾驶上——而驾驶正是他在 ch02 里被写成会输掉一切的那件事：他赌到 `lost the lot`，因为 `it is the act which draws him`（迷的是赌博这个动作本身），如今他把同一份对「动作本身」的迷恋搬到了方向盘上。作者把「可靠」与「危险」并置而不加区分，这一章的读者无法判断这是伏笔还是缓冲。
 
 ## 选择性精读
 
@@ -118,7 +118,7 @@ modified: "2026-09-27"
 
 **中文理解**：「你知道我是爱你的——要不是把你当朋友，我是说不出这种话来的……」
 
-**句子结构**：主句 `You know that I love you` 为宾语从句；破折号后 `that I wouldn’t be able to say things like this unless I was your friend…` 是第二个 that 从句，内含 unless 条件从句；省略号表示话没说完。
+**句子结构**：`You know that I love you` 是主句（that 从句 `that I love you` 作宾语）；破折号后 `that I wouldn’t be able to say things like this unless I was your friend…` 是第二个 that 从句，内含 unless 条件从句；省略号表示话没说完。
 
 **关键词**：You know that I love you（你知道我是爱你的）、I wouldn’t be able to say things like this（我是说不出这种话来的）、unless I was your friend（除非我是你的朋友）
 
@@ -150,7 +150,7 @@ modified: "2026-09-27"
 
 **关键词**：It’s a pity（可惜）、we could never have an affair（我们永远不可能有一场私情）、an affair is impossible between us（我们之间不可能有私情）
 
-**表达方式**：同一件事说两遍：第一遍用完成时 + never，第二遍用形容词句；`said without any particular emphasis` 的环境（叙述者在别处交代）让这句更像失误而不是宣告。
+**表达方式**：同一件事说两遍：第一遍是情态否定 `could never have an affair`，第二遍换成形容词句 `an affair is impossible between us`；`said without any particular emphasis` 的环境（叙述者在别处交代）让这句更像失误而不是宣告。
 
 **为什么这样写**：这句在两人之间滑过去了，因为她按过去时收听。作者在车里才反应过来——`he had been turning me down!` 这也说明这一段的机制：他把一个关于当下的动作（拒绝）放进一个关于过去的句式里，从而使它同时成为安慰与判决。
 
@@ -180,7 +180,7 @@ modified: "2026-09-27"
 
 **表达方式**：不使用完整的论证句式，只用一串断言；`nothing but fashion` 的重复是他唯一一次自我重复，而 `no knowledge, no feeling, no passion` 的三项排比把指责从政治拉回到人格。
 
-**为什么这样写**：这段话的分析价值在于它的落点。他在中士面前辩护的是「共产主义是严肃的」，攻击的却是她——先是她的知识，再是她的同情，最后一句 `don’t take any notice of the silly bitch` 直接指人。作者后来说 `The grounds he had hit on for attack were too mad, I couldn’t retaliate`：正因为论点与对象错位，她才无从还手。
+**为什么这样写**：这段话的分析价值在于它的落点。他在中士面前辩护的是「共产主义是严肃的」，攻击的先是汉普斯特德那批人（`they think they’re left-wing because it’s the smart thing to be`）——没有知识、没有感受、没有激情；直到破折号之后那一句 `don’t take any notice of the silly bitch` 才落到她身上。作者后来说 `The grounds he had hit on for attack were too mad, I couldn’t retaliate`：正因为论点与对象错位，她才无从还手。
 
 ## 词汇分级
 
@@ -229,4 +229,4 @@ modified: "2026-09-27"
 
 ## 一句话总结
 
-这一章的标题是个反讽：他确实是度假同伴，但三周之后她写下的不是同游而是辨认——辨认出他如何用 `nothing but fashion` 这样的句子把攻击挪到别人身上，以及她在十二小时沉默的归程上，仍然只记得 `genuine admiration and gratitude for the way Didi drove`。
+这一章的标题是个反讽：他确实是度假同伴，但三周之后她写下的不是同游而是辨认——辨认出他如何用 `nothing but fashion` 这样的句子把攻击挪到别人身上，以及她在那一整天沉默的归程上，仍然只记得 `genuine admiration and gratitude for the way Didi drove`。
