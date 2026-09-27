@@ -146,11 +146,13 @@ modified: "2026-09-27"
 
 **句子结构**：首句是「时间状语从句 Finally one copy was shoved into an inconspicuous corner + 破折号 + 关系副词 where 引导的地点定语从句（内含 who 定语从句 who had opened the fair）」；次句是「现在分词短语 Picking it up 作伴随状语 + 主句 she exclaimed with delight + 冒号引出直接引语」；末句是「主句 André insisted + that 宾语从句（内含 it was his confusion over this that 强调句型 / that made him drop her a deep curtsey instead of a bow）」。
 
+**关键词**：Finally one copy was shoved into an inconspicuous corner（最后，一本被塞进不起眼的角落）、where the Queen Mother, who had opened the fair, instantly noticed it（王太后——她为这次书展揭的幕——立刻就注意到了它）、Picking it up, she exclaimed with delight（她捡起来，欣喜地惊呼）、‘Oh, what a tempting title!’（「噢，这书名多诱人！」）、André insisted that it was his confusion over this that made him drop her a deep curtsey instead of a bow（安德烈坚持说，正是他在这件事上的慌乱使他对她行了一个深屈膝礼而不是鞠躬）
+
 **关键词：**one copy was shoved into an inconspicuous corner（一本被塞进不起眼的角落）、the Queen Mother, who had opened the fair（为这次书展揭幕的王太后）、instantly noticed it（立刻就注意到了）、Picking it up, she exclaimed with delight（她捡起来，欣喜地惊呼）、Oh, what a tempting title（噢，这书名多诱人）、his confusion over this（他在这件事上的糊涂）、a deep curtsey instead of a bow（一个深深的屈膝礼，而不是鞠躬）
 
-**表达方式**：用**元外**（metalanguage）写失败——`shoved into an inconspicuous corner`（塞进不起眼的角落）是出版人对一本坏书的**正确处理**，而这个正确处理因为偶然（王太后的目光）变成了灾难；用 `a deep curtsey instead of a bow` 这一处**礼节错误的细节**结束全段，替代任何关于性格的判断。
+**表达方式**：用**元外**（metalanguage）写失败——`a pointless compilation called Memorable Balls, a title so much tittered over`（一本毫无意义、书名却被人拿来取笑逗乐的合集）先把这本书的**全部内容**与**唯一卖点**放在同一句里，而 `shoved into an inconspicuous corner`（塞进不起眼的角落）是出版人对一本坏书的**正确处理**，这个正确处理因为偶然（王太后的目光）变成了灾难；用 `a deep curtsey instead of a bow` 这一处**礼节错误的细节**结束全段，替代任何关于性格的判断。
 
-**为什么这样写**：这是本章最有黑色喜剧味道的一段，而它承担的功能是**证明 ch04 那条行业规律的普适性**（`almost anything could be presented without looking silly`）：一本毫无意义的合集（Memorable Balls）唯一的卖点是书名，而它的书名救了它。末句用一个**身体小失误**（行错礼）代替任何形容词——她又一次选择用**行为**而不是**评判**来写安德烈（对照 ch06 那个十分钟的电话），而这一处连他自己都坚持要归因于「困惑」而非别的原因。
+**为什么这样写**：这是本章最有黑色喜剧味道的一段，而它承担的功能是**证明 ch04 那条行业规律的普适性**（`a pointless compilation called Memorable Balls, a title so much tittered over`）：一本毫无意义的合集（Memorable Balls）唯一的卖点是书名，而它的书名救了它。末句用一个**身体小失误**（行错礼）代替任何形容词——她又一次选择用**行为**而不是**评判**来写安德烈（对照 ch06 那个十分钟的电话），而这一处连他自己都坚持要归因于「困惑」而非别的原因。
 
 ### ⑥
 
@@ -178,7 +180,7 @@ modified: "2026-09-27"
 
 **表达方式**：用**两个虚拟语气**（`If I had put up a fight … I would have got it`）写一段**没有发生的**谈判，并把两方的可预测性并置（Nick 不会还手；André 一定会塞人）；末句 `It never entered his head`（他从没想过）把安德烈的行为写成**不在他考量之内的事**——不是他做了坏事，是坏事没进入他的计算。
 
-**为什么这样写**：这三句是全章性别论证的**证据**部分，而它必须先在物质层面成立：如果尼克有一间自己的办公室且有秘书，而她要靠「塞不进第二张桌子」才免于合用，那么后面那套关于「习惯取悦男人」的分析才有对象。`It never entered his head to ask` 一句尤其重要——她没有指责安德烈曾要求尼克合用，她指出的是**这个可能性连想都想不到**。这把 ch04 那句 `he would impatiently dismiss any dissenting opinion` 的机制（只承认自己想要的观点）推进了一层：这一次连「自己想要的」都不到，他根本没进这条计算。
+**为什么这样写**：这三句是全章性别论证的**证据**部分，而它必须先在物质层面成立：如果尼克有一间自己的办公室且有秘书，而她要靠「塞不进第二张桌子」才免于合用，那么后面那套关于「习惯取悦男人」的分析才有对象。`It never entered his head to ask` 一句尤其重要——她没有指责安德烈曾要求尼克合用，她指出的是**这个可能性连想都想不到**。这把 ch04 那句 `he saw everything not done exactly as he himself would have done it as being done wrong – enragingly wrong` 的机制（只承认自己认可的做法）推进了一层：这一次连「自己想要的」都不到，他根本没进这条计算。
 
 ### ⑧
 
@@ -202,6 +204,8 @@ modified: "2026-09-27"
 
 **句子结构**：首句是「否定 + 肯定并列的强调结构（I hadn’t just loved …, I had also positively liked …）」；次句是「主句 This was because + 原因从句（as I have explained 插入语 + 三个并列谓语：I loathed and still loathe responsibility / am intensely reluctant to exert myself … / am bored by thinking about money + 括注插语 in spite of liking to spend it）」；末句是「So + 让步主从复合句（while it is true that André took advantage of my nature in getting me cheap and having to bother so little about my feelings + 主句 it cannot be said that in relation to the job he did any violence to those feelings）」。
 
+**关键词**：I hadn’t just loved being an editor, I had also positively liked not being treated as the director I was supposed to be（我不仅热爱当编辑，而且确实喜欢不被当作我本应是的那个主任）、I loathed and still loathe responsibility（我厌恶而且至今仍厌恶责任）、am intensely reluctant to exert myself in any way that I don’t enjoy（我极不愿意以任何我不享受的方式使劲）、am bored by thinking about money (in spite of liking to spend it)（我对想钱这件事感到厌烦，尽管我喜欢花钱）
+
 **关键词：**I hadn’t just loved being an editor（我不只是热爱当一个编辑）、positively liked not being treated as the director I was supposed to be（明确地喜欢不被当作我本应是的那位总监）、I loathed and still loathe responsibility（我讨厌责任、而且至今仍讨厌）、am intensely reluctant to exert myself in any way that I don’t enjoy（极不愿意以任何自己不喜欢的方式去使劲儿）、am bored by thinking about money (in spite of liking to spend it)（对思考钱财感到厌烦，尽管喜欢花钱）、André took advantage of my nature（安德烈利用了我的天性）、getting me cheap and having to bother so little about my feelings（以很低的代价得到我、也很少需要在感受上迁就我）、in relation to the job（就这份工作本身而言）、did any violence to those feelings（对我的感受造成了任何伤害）
 
 **表达方式**：用**否定—肯定的对举**（`hadn’t just …, I had also positively liked …`）把一个「缺陷」重写成**偏好**；三个自陈谓语全部是**关于自己的感受**而非事实（`loathed` / `reluctant` / `bored`），而括注 `in spite of liking to spend it` 主动交出一个反例；末句用 `while it is true that …` 承认对方有理，再用 `it cannot be said that …` 划出**范围**（`in relation to the job`）。
@@ -216,11 +220,13 @@ modified: "2026-09-27"
 
 **句子结构**：首句是「时间/原因状语从句 After all + 主语 there are some men + 限定定语从句 who mind more about enjoying their work than about what they are paid for it and where they stand in the hierarchy（两个比较项并列，第二个为名词性从句）」（there be 句型作主语）；次句是「so 引导的结果状语从句（why, when a woman does the same, should it be taken for granted that she is brainwashed）内含：插入的条件状语从句 when a woman does the same + 被动主句 should it be taken for granted + 宾语从句 that she is brainwashed」。
 
+**关键词**：After all（毕竟）、there are some men who mind more about enjoying their work than about what they are paid for it and where they stand in the hierarchy（有些男人更在意自己是否享受工作，而不是为此拿到什么报酬、在等级里处于什么位置）、so why, when a woman does the same, should it be taken for granted that she is brainwashed（那么，为什么当一个女人做同样的事时，就理所当然地被认为是被洗脑了呢）
+
 **关键词：**there are some men who mind more about enjoying their work（有些男人更在意自己是否享受工作）、than about what they are paid for it and where they stand in the hierarchy（而不是为此拿到什么报酬、在等级里处于什么位置）、when a woman does the same（当一个女人做同样的事时）、should it be taken for granted that she is brainwashed（就应该理所当然地被认为是被洗脑了呢）
 
-**表达方式**：用一个**双重 mind more … than** 结构把「重工作感受」这一类人**同时**分配给男人（`there are some men who …`）与女人（`when a woman does the same`），从而使差别只剩**归因**；末句用 `so why … should …` 的反问把「举证责任」摆在读者面前，而 `it is taken for granted`（被当作理所当然）正是她要攻击的对象。
+**表达方式**：用一个**双重 mind more … than** 结构把「重工作感受」这一类人**同时**分配给男人（`there are some men who …`）与女人（`when a woman does the same`），从而使差别只剩**归因**；末句用 `so why … should …` 的反问把「举证责任」摆在读者面前，而 `should it be taken for granted that she is brainwashed`（就应该理所当然地被认为是被洗脑了呢）正是她要攻击的对象。
 
-**为什么这样写**：全章的论证在此完成一次**对称化**：同一种性情（喜欢工作胜过在意地位）在男人那里是「有些人」，在女人那里却被解释成「被洗脑」。她不否认这种性情存在（`there are some men`），而只追问**为什么同样的东西需要一个成因**。这个反问的力量在于它使用的是 `taken for granted`——**未经证明的默认**——这个词正是她在 `All publishing was run by many badly-paid women … which they seemed to take for granted` 里已经用过的词，而由它收尾，全章就成了一次封闭的论证。
+**为什么这样写**：全章的论证在此完成一次**对称化**：同一种性情（喜欢工作胜过在意地位）在男人那里是「有些人」，在女人那里却被解释成「被洗脑」。她不否认这种性情存在（`there are some men`），而只追问**为什么同样的东西需要一个成因**。这个反问的力量在于它使用的是 `taken for granted`——**未经证明的默认**——这个词正是她在 `All publishing was run by many badly-paid women and a few much better-paid men: an imbalance that women were, of course, aware of, but which they seemed to take for granted` 里已经用过的词，而由它收尾，全章就成了一次封闭的论证。
 
 ## 词汇分级
 
