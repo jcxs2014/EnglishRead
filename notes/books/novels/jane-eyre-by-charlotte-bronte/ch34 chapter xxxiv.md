@@ -8,7 +8,7 @@ modified: "2026-09-27"
 ## 本章导航
 
 - **一句话概括**：简回到莫顿老家与戴安娜、玛丽团聚；圣约翰·里弗斯（St. John Rivers）在荒原上向她求婚，要她以妻子身份随他去印度，简当面说"我瞧不起你所谓的情爱"，拒绝了婚事却答应同去。
-- **情感弧线位置**：**第二次拒绝**——第一次在第十三章是罗莎蒙德·奥利弗（Rosamond Oliver）的主动出击，这一次是圣约翰的正面求婚；两次拒绝的性质不同：前者是"我不需要别人施舍"，这一次是"我不能把没有的东西交出去"，人物从拒绝别人推进到辨认自己。
+- **情感弧线位置**：**第二次拒绝**——第一次在第二十三章是罗切斯特的正面求婚，这一次是圣约翰的；两次拒绝的性质不同：前者是"我不需要别人施舍"，这一次是"我不能把没有的东西交出去"，人物从拒绝别人推进到辨认自己。
 - **母题与互文**：**"我不是工具"**的命题在本章被圣约翰亲口说破（他用的是"formed for labor, not for love"），而简用一组**身体比喻**反击（壳与核、能量与本人）；母题回扣第四章她把《说谎者的指南》甩回去的那一刻——那时她争的是清白，此刻她争的是**归属权**。
 - **人物弧线**：简在本章第一次说出"我瞧不起"（I scorn）并立刻为此道歉——她知道自己越了界，但不肯收回；圣约翰则第一次露出性格的裂缝（"I scarcely expected to hear that expression from you"），两人关系从"敬慕"降为"分歧"，这正是他日后能在婚礼前独自离开六周的伏笔。
 - **叙事手法**：**单场景长对话**为主，间插简的生理反应（发抖、冷汗、骨头里的影响力）；章节以一句极短的独白收尾（"I would much rather he had knocked me down"），用一句大白话把整章的重量卸掉——全书最经济的一次收束。
@@ -34,7 +34,7 @@ modified: "2026-09-27"
 中文理解：我能从他手里接过婚戒，忍受爱情的一切形式（我毫不怀疑他会一丝不苟地照做这些形式），同时明知其中完全没有精神吗？
 关键词：receive from him the bridal ring, endure all the forms of love, he would scrupulously observe, the spirit was quite absent
 为什么这样写：三个动词排成一条递进（接过／忍受／明知），一项比一项更难，而括号里那句插入语替对手说了最有利的话（他会一丝不苟）——简不是不懂礼貌，她是算清了礼貌的极限。
-读者视角提示："the spirit was quite absent"（精神全然不在）是全书关于**形式与实质**最冷的一句；它和第一章红房子里的"consecration"（圣化）互为反面——同样是仪式，一个把空屋封成教堂，一个把婚礼封成空壳。
+读者视角提示："the spirit was quite absent"（精神全然不在）是全书关于**形式与实质**最冷的一句；它和第二章红房子里那句"a sense of dreary consecration"（阴森的圣化之感）互为反面——同样是仪式，一个把停过尸的房间封住不许人进，一个把婚礼封成空壳。
 
 > **原句 4:** "“And I will give the missionary my energies—it is all he wants—but not myself; that would be only adding the husk and shell to the kernel. For them he has no use; I retain them.”"
 

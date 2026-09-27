@@ -27,7 +27,7 @@ modified: "2026-09-27"
 中文理解："我知道你的心转向哪里、攀附着什么。你珍藏的那份依恋是僭越的、不受祝圣的。你早该把它压碎；如今你连提一提都该脸红。你在想罗切斯特先生吧？"
 关键词：I know where your heart turns, and to what it clings, The interest you cherish is lawless and unconsecrated, Long since you ought to have crushed it, now you should blush to allude to it, You think of Mr. Rochester
 为什么这样写：圣约翰先说"我知道"，再给一个"我早该"的迟到的责备——他把多年的不满压缩进两个时间点（Long since／now）；三个动词连成递进（clings→cherish→crushed→blush），从"攀附"到"该脸红"，一步步把感情推向罪行。
-读者视角提示：注意他**没有否认**简有权想念，只否认那份想念是正当的（lawless and unconsecrated）——这与第十四章"你必须有爱才能自由"是同一个逻辑的两面；简这一次的回答不是反驳，而是沉默承认（"It was true. I confessed it by silence."）。
+读者视角提示：注意他**没有否认**简有权想念，只否认那份想念是正当的（lawless and unconsecrated）——这与第六章"你把人的爱看得太重了"是同一个逻辑的两面；简这一次的回答不是反驳，而是沉默承认（"It was true. I confessed it by silence."）。
 
 > **原句 3:** "I had thought I recognized in you one of the chosen. But God sees not as man sees; His will be done."
 
@@ -48,14 +48,14 @@ modified: "2026-09-27"
 中文理解：只要发号施令的那股能量足够充分，服从从来不会落空。
 关键词：Where there is energy to command well enough, obedience never fails
 为什么这样写：一句格言，结构是一个条件从句套一个主句，条件（energy to command well enough）里嵌着"足够"（well enough）这个几乎无法验证的限定；它既是经验总结，也是自我提醒。
-读者视角提示：这句话的适用范围远超这一夜：第三十三章她能一个人在山路上不被劝返，第四十章她敢直接走进罗切斯特的客厅，靠的都是同一句里的那个"energy"。
+读者视角提示：这句话的适用范围远超这一夜：下一章她能一个人在山路上不被劝返，再往后她敢直接走进桑菲尔德那扇门，靠的都是同一句里的那个"energy"。
 
 > **原句 6:** "“Down superstition!” I commented, as that spectre rose up black by the black yew at the gate. “This is not thy deception, nor thy witchcraft; it is the work of nature. She was roused, and did—no miracle—but her best.”"
 
 中文理解："滚开，迷信！"我说道——就在那团黑影从门口那株黑紫杉旁升起的时候。"这不是你的蒙蔽，也不是你的巫术；这是自然的作为。她被惊动了，她做了——不是什么神迹——而是她能做的最好。"
 关键词：Down superstition, that spectre rose up black by the black yew, This is not thy deception, nor thy witchcraft, it is the work of nature, no miracle—but her best
 为什么这样写：她对一个**没人看见的东西**下逐客令，用的命令句（Down superstition!）像赶一只动物；三个短句连起来完成一次世俗化的解释（不是蒙蔽、不是巫术、是自然的作为），破折号里的"她"是风暴，而"她所能做的最好"（her best）把奇迹换成了努力。
-读者视角提示：这是简第一次**把自己放在解释者的位置**上：她不害怕荒原，她为它定性；这份能力在第三十四章（第三十三章）被写成"我必须、而且一定要独自待着"，是她整趟远行的心理底座。
+读者视角提示：这是简第一次**把自己放在解释者的位置**上：她不害怕荒原，她为它定性；这份能力就在本章被写成"我必须、而且一定要独自待着"，是她整趟远行的心理底座。
 
 > **原句 7:** "I seemed to penetrate very near a Mighty Spirit, and my soul rushed out in gratitude at His feet. I rose from the thanksgiving—took a resolve—and lay down, unscared, enlightened—eager but for the daylight."
 

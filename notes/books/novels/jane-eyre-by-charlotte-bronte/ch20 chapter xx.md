@@ -61,7 +61,7 @@ modified: "2026-09-27"
 
 中文理解：动用你的想象吧：假设你不再是一个受过良好教养与管教的女孩，而是一个自幼被纵容的野孩子；想象你此刻在一个遥远的异国。
 关键词：call to aid your fancy, you were no longer a girl well-reared and disciplined, but a wild boy, indulged from childhood upward, imagine yourself in a remote foreign land
-为什么这样写：这一段用的是"换身份"的手法——同一个"你"被换成性别相反、经历相反的另一个人，逼着听者从第三只眼睛看自己；两组对仗（well-reared and disciplined 对 wild boy，indulged）之后，主语始终还是"你"，等于让简一边听一边成为那个被审问的人。
+为什么这样写：这一段用的是"换身份"的手法——同一个"你"被换成性别相反、经历相反的另一个人，逼着听者从第三只眼睛看自己；一组对仗（well-reared and disciplined 对 wild boy，indulged）之后，主语始终还是"你"，等于让简一边听一边成为那个被审问的人。
 读者视角提示：他在最接近求婚的地方选了最迂回的说法；此后那一大段问"可不可以越过惯例这道障碍"才是真问题，而简听出来了——可她先回答了另一个问题。
 
 > **原句 8:** "a wanderer's repose or a sinner's reformation should never depend on a fellow-creature. Men and women die; philosophers falter in wisdom, and Christians in goodness; if any one you know has suffered and erred, let him look higher than his equals for strength to amend, and solace to heal."

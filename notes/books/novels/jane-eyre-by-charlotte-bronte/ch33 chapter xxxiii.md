@@ -10,7 +10,7 @@ modified: "2026-09-27"
 - **一句话概括**：暴风雪封山的夜里，圣约翰·里弗斯（St. John Rivers）冒雪来访，用一份遗嘱和一叠广告告诉简两件事：她的舅父艾伊尔（Mr. Eyre）死了，她成了两万英镑的女继承人；同时罗切斯特已经离开英国娶了别人。
 - **情感弧线位置**：**再次谷底，但性质改变**——第一章的谷底是"没有我"，本章的谷底是"我终于自由，而自由要用来成全他的离去"；紧接着的继承消息又把她往另一个方向推，两个消息在同一个房间里先后落地，中间只隔了一句"你听见什么动静了吗"。
 - **母题与互文**：**画像书脊的碎片**在本章以实物形式回来——圣约翰手里那张撕下来的纸片上有简自己写的"JANE EYRE"，与第四章罗切斯特给她看的那幅画同源。**"遗产／遗赠"与"死亡／葬礼"并排**（Legacy, Bequest go side by side with Death, Funeral）把财富第一次与丧葬词绑在一起。
-- **人物弧线**：简在本章第一次面对"钱"却不兴奋——作者直接写出她为什么不兴奋（"这是实的，是现实世界里的事，一点理想色彩也没有"），并给出替代品："independence would be glorious"（独立会是光荣的）；这与第五章她拒绝里德家的施舍是同一条逻辑的成熟版。
+- **人物弧线**：简在本章第一次面对"钱"却不兴奋——作者直接写出她为什么不兴奋（"这是实的，是现实世界里的事，一点理想色彩也没有"），并给出替代品："independence would be glorious"（独立会是光荣的）；这与第二章她在红房子里问"我难道是仆人吗"是同一条逻辑的成熟版。
 - **叙事手法**：**转述的转述**——圣约翰先把简的身世当作一桩"二十年前的故事"讲给她听（包括她自己都不知道的由来），简两次打断（"Mr. Rivers!" / "Just tell me this"）都无效；他坚持"hear me to the end"，把叙述权牢牢握住，而读者由此第一次从外部读到这个人物的一生。
 
 ## 精读
@@ -27,14 +27,14 @@ modified: "2026-09-27"
 中文理解：面对这样一个不可解读的固定物（坐在我对面的那个人），想读书是白费；可在我的不耐烦里，我也没法同意自己闭着嘴；他尽可以把我顶回去，但我偏要说话。
 关键词：vain to try to read with such an inscrutable fixture before me, nor could I, in my impatience, consent to be dumb, he might rebuff me if he liked, but talk I would
 为什么这样写：句子被两个否定压住（vain…nor could I），到最末才用倒装的 "but talk I would" 猛地抬起来——三个分句一路退让，最后一句反攻；"fixture"（固定物）这个词把一个人降格成一件家具，是简少有的刻薄。
-读者视角提示：这一段的三个动作（读书失败／不肯沉默／坚持要说）正是简全书的行事逻辑的缩影，也是她在第三十一章拒绝圣约翰、在第三十四章拒绝罗切斯特时重复的同一节奏。
+读者视角提示：这一段的三个动作（读书失败／不肯沉默／坚持要说）正是简全书的行事逻辑的缩影，也是她在第三十四章荒原上拒绝圣约翰、在第二十三章拒做情妇时重复的同一节奏。
 
 > **原句 3:** "“Before commencing, it is but fair to warn you that the story will sound somewhat hackneyed in your ears; but stale details often regain a degree of freshness when they pass through new lips. For the rest, whether trite or novel, it is short.”"
 
 中文理解："开始之前，先公道地提醒你一声：这个故事在你耳里听来大概有些陈旧；不过陈年的细节在换了新的嘴唇之后，往往能重新找回一点新鲜感。至于其余的无论是老套还是新奇，它很短。"
 关键词：it is but fair to warn you, the story will sound somewhat hackneyed in your ears, stale details often regain a degree of freshness when they pass through new lips, whether trite or novel, it is short
 为什么这样写：三句全是**作家的自辩**，句子本身就在演示它所说的那件事——陈旧的细节（一个老套的收养故事）经由新的嘴唇（圣约翰）重新有了味道；"stale"（不新鲜的）与 "freshness"（新鲜）构成词根对照，评者与被评者共用一个词根。
-读者视角提示：作者在这里公开谈论**叙事媒介本身**（谁来讲、什么时候讲、听的人是谁），这是全书最露骨的一次；它和第五章"Let the reader add"、本章"reader, to be lifted"是同一条线上的三次露面。
+读者视角提示：作者在这里公开谈论**叙事媒介本身**（谁来讲、什么时候讲、听的人是谁），这是全书最露骨的一次；它和第五章"Let the reader add"、本章"reader, to be lifted"是同一条线上的三次露面（第一次在第五章）。
 
 > **原句 4:** "I felt cold and dismayed; my worst fears, then, were probably true; he had in all probability left England and rushed in reckless desperation to some former haunt on the continent."
 
@@ -48,7 +48,7 @@ modified: "2026-09-27"
 中文理解：他站起来，把纸片凑到我眼前；我看见用印度墨水写的、用我自己的笔迹写下的"JANE EYRE"几个字——这无疑是某个出神的时刻留下的。
 关键词：held it close to my eyes, traced in Indian ink, in my own handwriting, the work, doubtless, of some moment of abstraction
 为什么这样写：实物与身份在一次对视里合拢——纸上那行字是**她自己写的**，因此证明的既不是签名也不是笔迹，而是这张纸曾经在她的东西里；"of some moment of abstraction"（某个出神的时刻）用一枚随手写下的名字，替她标记了整段失序的往事。
-读者视角提示：这张纸来自第四章罗切斯特那幅画像的书脊（portrait-cover）；作者在第二十九章用"它的质地、群青与朱红的污渍"先给了一遍感官，这一章才给出含义——物件先于事件抵达，是本书处理回忆的一贯次序。
+读者视角提示：这张纸来自第四章罗切斯特那幅画像的书脊（portrait-cover）；作者紧接着在上一句就用"它的质地、群青与朱红的污渍"先给了一遍感官，再由罗切斯特在下一句点破它是什么——物件先于事件抵达，是本书处理回忆的一贯次序——物件先于事件抵达，是本书处理回忆的一贯次序。
 
 > **原句 6:** "It is a fine thing, reader, to be lifted in a moment from indigence to wealth—a very fine thing; but not a matter one can comprehend, or consequently enjoy, all at once."
 
@@ -69,7 +69,7 @@ modified: "2026-09-27"
 中文理解：我又一次觉得自己像那么一个食量平平的人，独自坐在一张摆着一百人份菜肴的桌前赴宴。
 关键词：an individual of but average gastronomical powers, sitting down to feast alone, at a table spread with provisions for a hundred
 为什么这样写：比喻的两头都是**具体的量**——"平平的食量"对"一百人份的桌席"；"独自"这个词把这场宴席彻底取消了，于是笑点不在丰盛，在无人分享。
-读者视角提示：全书用餐桌比喻孤独不止一次（第九章"一个人吃一桌百人份"、第六章"饥饿本身就是堕落"）；这张桌子在第二十六章她会第一次有第二副餐具。
+读者视角提示：全书用餐桌比喻匮乏不止一次（第五章的焦粥与"我多么希望是双份"、第六章的"饥饿先让火气钝下来"）；这张桌子在第三十八章她会说"to talk to, and with, a husband"——终于有第二副餐具。
 
 ## 本章词汇
 
