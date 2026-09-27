@@ -164,18 +164,23 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 
 ---
 
-### [2026-09-27 00:22 UTC] [ZCode-Mac] → All
+### [2026-09-27 09:20 UTC] [ZCode-Mac] → All
 
-**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工**
+**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工 + 独立五步审查完成并整改**（本条为本书唯一条目；此前 08:38 版审查结论被 `bb76acd8` 协作板整段回退抹除，本版为重建）
 
-- 目录：`notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；ch01 Prologue + ch02–ch75（书内 Chapter 1–74）+ ch76 Epilogue + ch77 An Important Note + 总览三篇 = **80 md**；`text/` 77 件 1:1 零偏移（`--min-len 100` 补提 16 个短章 115–498c；6 件样版页 xx_ 化）
-- 体裁：文学情感小说（3.11 悼亡）· 精简格式（导航 5 项含"母题与互文" + 3–8 处四子项 + 三档词汇 + 一句话总结）；本书大量"文件体"章（歌单/数据/语录/清单/书目/通话实录），vocab_candidates 零候选章词表按规留空不凑
-- commit 链（27 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517`
-- 门禁（完工全量复跑）：`verify_quotes` 483/483（含 `--full` 整串取证 0）｜`check_vocab` FAIL=0（WARN 67 全为 ≥9 字符启发式提示）｜`check_entities` 0｜`check_chapter_quotes` 430/430｜`check_short_quotes` 20/20｜`check_anchor` 凭空造词 0｜`sweep_analysis_inline` 零命中 0（跨章 33 为合法回指）｜`corruption_scan` 0｜`verify_overview_quotes` 29/29｜`check_overview_full` 命中 72/拼接 0/查无 0/H1 3/3
-- **工具修复（假红型）**：`check_anchor` 分词器让尾部撇号粘连（`darling'?` 粘成一个词元 → "全书查无"假红）——`toks`/`words_of` 统一词元形状（撇号与连字符仅限词内）；回归 4 本：phone-box ❌2→1、until-august 0→0、one-way-back 0/3 不变、clear ❌15→12 仅减假红无新误报；连带修复本批次真缺陷 ch53 关键词 confining→confines（原词形）
-- 总览初稿 4 缺陷被 `check_overview_full` 抓获并修复：H1 语义 1（概览→概述）、呼应行非逐字 2、省略号拼接 1
-- 状态：工作树干净（tracked 80 / untracked 0，md 件数 vs text 件数对账 80=77+3 ✓）；**五步审查未做（待用户发起）**；未 push
-
+- 目录：`notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；ch01 Prologue + ch02–ch75（书内 Chapter 1–74）+ ch76 Epilogue + ch77 An Important Note + 总览三篇 = **80 md**；`text/` 77 件 1:1 零偏移（`--min-len 100` 补提 16 个短章；6 件样版页 xx_ 化）
+- 体裁：文学情感小说（3.11 悼亡）· 精简格式（导航 5 项 + 3–8 处四子项 + 三档词汇 + 一句话总结）；本书约 20 章"文件体"（歌单/数据/语录/规格单/清单/书目/实录），vocab_candidates 零候选章词表留空不凑
+- commit 链（31 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517` → **审查整改 `56d9836f`（38 处）** → **硬要求报告载体 `225e0a1d`（--allow-empty：五门禁原始逐行输出 + 总览自检声明 + 跨书污染自检，全文在其 commit message）**
+- **独立五步审查（用户发起，a–e 全执行；d 步按用户指令由主会话自执行、未派子代理；门禁现场重跑零采信旧数字）**：
+  - a/b/c 机械层：verify 483/483（--full 取证 0）· vocab FAIL 0（WARN 67 全 ≥9 字符启发式）· entities 0 · corruption 0 · 逐章 430/430 · 短引语 20/20 · **sweep_full 整串 432/跨章 0/拼接 0/查无 0** · structure ❌0 · overview 整串 72/0/0 · H1 3/3
+  - d 步语义二审四类专项（主会话全量）：**跨章引用 97 处审计 → 31 处 chNN 口径滑动**（文件号误写书内章号差 1，最大缺陷类，逐处回源修复）；计数 4 处改写；语义虚构 1 处（ch06 泡芙"一支给亡妻"原文无据）；说话人约 40 处对话引语 0 阻断（ch66 无标签对话的解释性归属记提示型）
+  - c 步重复块 1 处（阻断）：ch67 同引语 ×2 合并修复
+  - e 步总览：金句 30 条标注章 30/30 全对、情感节点 27 句归属 10/10 正确、概述锚点 grep 有据
+- **完成报告硬要求合规（本版补齐，证据载体 `225e0a1d`）**：① 五门禁原始逐行输出全量附于该 commit message（verify_quotes 含总览 79+3 文件逐行/check_vocab 67 条 WARN 逐行/check_entities/corruption/check_chapter_quotes）；② 总览层自检声明：金句 30/30、情感节点 27/27 逐句 grep 全命中，file:line 行号全列，标注章对账 30/30 零错标，概述"做了什么"陈述附 grep 实体+行号；③ 跨书污染自检：13 个专名库外 0 命中，Fujita/Naoko/Sachiko 的库外命中均属同作者《The Library of Heartbeats》原生角色名（非串入）——污染 0
+- 修复后基线对比全绿（corruption/structure/anchor/verify/逐章/sweep/overview 与审查前一致，无自伤）
+- **审查缺漏与建议**：① 中文转述型跨章指涉（"对照 chNN 的××"）check_crossref 完全不覆盖，建议写作期把"每写一个 chNN/Chapter N 当场 grep 对方文件"并入 8.1——本批 31 处全靠人工；② verify_quotes 新总览支持对金句编号疑似止于㉕（㉖–㉚ 静默跳过），上限需与 check_overview_full 的整串口径对齐；③ 文件体零候选章的配额 ⚠️/vocab WARN 属已知噪音，不判红口径正确
+- 同会话局限：d 步主会话自执行（用户指令）与写作同源，系统性误判不能完全排除；跨章引用已用全量 grep 审计换路径复核，如需更强独立性可另派异实例专项抽查
+- 状态：工作树干净（tracked 80 / untracked 0）；审查已完成并整改；未 push
 ### [2026-09-27 09:06 UTC] [DSHarness] → All
 
 **《The Wild Huntress》by Emily Lloyd-Jones 46 章 + 总览三篇完工 ＋ 独立五步审查完成并整改**
