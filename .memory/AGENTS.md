@@ -14,14 +14,14 @@ metadata:
 
 > **结论先行**：执行规则必须留在根 AGENTS.md。本文件只承担"记忆索引"角色。
 
-**加载机制**：根 AGENTS.md 通过 system-reminder 被加载到每个会话上下文（ZCode harness 固定行为，不可配置）。`.memory/AGENTS.md` 不在这个加载路径上，需要主动 Read 才能看到。把"精读格式/提交门禁/引语逐字规则"搬到 memory 意味着新会话开工时这些执行规则不在上下文里，等于丢失。
+**加载机制**：根 AGENTS.md 通过 system-reminder 被加载到每个会话上下文（ZCode harness 固定行为，不可配置）。⚠️ **2026-09-27 更正**：本文件此前声称「`.memory/AGENTS.md` 不在这个加载路径上、需主动 Read」——**实测它同样被 system-reminder 注入**（截断轮次里与根 AGENTS 一同出现）。`.memory/AGENTS.md` 不在这个加载路径上，需要主动 Read 才能看到。把"精读格式/提交门禁/引语逐字规则"搬到 memory 意味着新会话开工时这些执行规则不在上下文里，等于丢失。
 
 **三个文件的分工**：
 - **根 AGENTS.md** = 执行规则（"必须怎么做"）—— 格式、门禁、引语规则、git 策略。每次作业都须遵守，必须被自动加载
 - **docs/新书启动模板.md** = 新书开工入口（执行规则速查 + 历史坑表）—— 通过 system-reminder 摘要或用户指令加载
-- **.memory/AGENTS.md** = 记忆索引（本文件，"之前发生过什么"）—— 各书完工记录、经验教训、跨书互证坑位、工具盲区速查。跨会话积累，按需主动 Read
+- **.memory/AGENTS.md** = 记忆索引（本文件，"之前发生过什么"）—— 各书完工记录、经验教训、跨书互证坑位。⚠️ **2026-09-27 更正**：原称本文件承担「工具盲区速查」——**本文件无该节**，已随重构迁至 `docs/实测档案/工具链实测.md`（根 AGENTS 工具表有指针）。跨会话积累，按需主动 Read
 
-**长度不是迁移理由**：根 AGENTS.md 的膨胀靠去重收口解决（已收敛 `00_*.md` 重复、9f/10d 重复），不靠搬走内容。
+**长度与迁移**：去重收口仍是第一手段（已收敛 `00_*.md` 重复、9f/10d 重复）。⚠️ **2026-09-27 更正**：本条原写「**不靠搬走内容**」——但当根 AGENTS 涨到 100,670 B、超出 65,536 B 注入预算 35% 时，**唯一有效的处置就是把案例性长块逐字迁入 `docs/实测档案/`（12 个文件 / 84 KB）**。只去重不迁移，跨不过硬上限。
 
 **引用完整性**：模板、脚本、协作板大量引用"AGENTS.md 第 9/10 条"——迁移会破坏交叉引用链。
 
@@ -65,6 +65,9 @@ metadata:
 | `sweep_full.py` ⚠️ | 引语**整串** flat 比对（52 字符指纹盲区的克星） | **条件性工具**（需 epub，epub 将来会清理）；四档含**跨标签拼接 🔶**——flat 查无 ≠ 凭空造词 |
 | `check_overview_full.py` ⚠️ | 总览三篇整串核查 + 章节标签对账 + H1 语义校验 | **条件性工具**；章节标签**只报不判红**（分不清「错标」与「有意引相关章」）；实现须与 `sweep_full` 同口径 |
 | `vocab_candidates.py` | **生产工具**（非检测）：从 `text/` 打出可粘贴的三档表格行 | **写词表的默认入口**——它替代的动作是「凭印象写词条」；敢输出「本章 0 条高级」，**某档不足就留空，不许为凑满从记忆里补** |
+
+
+> **本节即脚本表的唯一权威来源**（2026-09-27：原「## 工具链」节是本节的**严格子集**（8/22、无独有项），已删——两份清单记同一件事必然漂移）；完整用法与盲区见根 AGENTS「配套工具链」表与 `docs/实测档案/工具链实测.md`。
 
 ## 重要记忆（按时间倒序）
 
@@ -173,21 +176,6 @@ metadata:
 - ~20 处"引语换新句、分析停旧句"在 verify_quotes 全绿下漏网
 - NS 报告"101/101 ✅"重跑实为 108/109 含 1 FAIL
 - 多 IDE 并行：git add -A 裹挟 / COLLABORATION.md 覆写 / amend 改写他实例 commit
-
-## 工具链
-
-| 工具 | 用途 |
-|------|------|
-| `extract_chapters.py` | epub → 逐章 text/ |
-| `verify_quotes.py` | 引语逐字门禁（支持言情无编号格式；短引语提示人工 grep）|
-| `check_vocab.py` | 词汇表真实性（FAIL=0 才推进）|
-| `check_entities.py` | 梗概实体一致性 |
-| `check_chapter_quotes.py` | 逐章归属校验（凡有 text/ 必跑；`--book-dir` 全书扫描）|
-| `verify_overview_quotes.py` | 总览引文门禁（00*.md 独立盲区）|
-| `check_crossref.py` | 分析层 chNN "引语" 引用校验（2026-09-06 新增）|
-| `audit_book.py` | 一键总账（commit 前必跑；不含 crossref）|
-
-各工具口径盲区速查：topic `tool-blinds-202609`（含 verify_quotes/extract_chapters/check_vocab/check_chapter_quotes/audit_book 双绿≠干净/sweep漏网）；关键词锚定检查器：topic `keyword-anchor-checker`；子代理幻觉根因：topic `subagent-hallucination`。
 
 ## 推送策略
 - commit 自由；push 仅限批次定稿/重大交付/明确指令
