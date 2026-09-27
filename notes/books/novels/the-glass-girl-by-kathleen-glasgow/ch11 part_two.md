@@ -90,7 +90,7 @@ source_text: ch11
 
 **关键词**：quilted / egg-shaped purple pouch / I look like a prizefighter / where everyone can see
 
-**为什么这样写**：镜前这一段是全章的**对称点**。前四章她反复说伤在看不见的地方（ch03 的 `The stuff that no one can see`），而这一章作者让她照镜子——**`I always try to keep all my hurt on the inside` 把旧句直接翻成她自己的话**，再用 `now it's spread to my outside, where everyone can see` 把它推翻。`quilted` 与 `egg-shaped pouch` 两个比喻都取"包裹"义：一个是被缝进布里的，一个是装满液体的，**都在说同一件事——她的伤终于有了形状。**
+**为什么这样写**：镜前这一段是全章的**对称点**。前四章她反复说伤在看不见的地方（ch03 的 `The stuff that no one can see`），而这一章作者让她照镜子——**`I always try to keep all my hurt on the inside` 把旧句直接翻成她自己的话**，再用 `now it's spread to my outside, where everyone can see` 把它推翻。`quilted` 与 `My left eye is an egg-shaped purple pouch.` 两个比喻都取"包裹"义：一个是被缝进布里的，一个是装满液体的，**都在说同一件事——她的伤终于有了形状。**
 
 **读者视角提示**：`This can’t be me.` 是本章的转轴。前一句是`I look like a prizefighter`（还在描述），后一句是`I don't know this person`（开始脱离身体）。
 

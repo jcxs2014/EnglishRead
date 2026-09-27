@@ -124,7 +124,7 @@ source_text: ch41
 
 **而 `I can feel my body tensing up like a fist.`（我能感觉到我的身体绷紧，像一只拳头。）是这一段的落点（⑤）** —— **而这个比喻的技术是**它把一连串想法的结果写成了一个身体的形状**；——**而 `like a fist`（像一只拳头）这个比喻与 ③ 里 `Tracy` 说的 `claim your little spot`（认领你自己那一小块地方）正好相反：一个是攥紧，一个是不放。**
 
-**读者视角提示**：**`Our last Scrabble game on the kitchen table—`（我们在厨房桌上最后一次玩的那盘拼字游戏——）这一句是全书 Scrabble 四站里的第三站** ——ch20（起源）／ch22／**ch31 `I'm excellent at Scrabble` ＋ `Let's do it when we get back. If we can.`**／**本章这一句（那盘游戏已经不在那张桌上了）**／ch44。**——也就是说本章这一句是那一串「我们以后再玩」的兑现处，而兑现的方式是游戏本身被卖了。**
+**读者视角提示**：**`Our last Scrabble game on the kitchen table—`（我们在厨房桌上最后一次玩的那盘拼字游戏——）这一句是全书 Scrabble 四站里的第三站** ——ch20（起源）／ch22／**ch31 `I'm excellent at Scrabble` ＋ `Let's do it when we get back. If we survive.`**／**本章这一句（那盘游戏已经不在那张桌上了）**／ch44。**——也就是说本章这一句是那一串「我们以后再玩」的兑现处，而兑现的方式是游戏本身被卖了。**
 
 ### ⑥
 
@@ -176,7 +176,7 @@ source_text: ch41
 
 **而那两句自我说服是这一段的关键（⑧）** —— `Maybe I don't need to know everything.`（也许我不必知道一切。）`Maybe it's better if I just let some things go.`（也许有些事就让它过去更好。）—— **而这两句的技术是**两句都以 `Maybe` 开头、都以一个「更好」的比较收尾**；——**而这两句紧跟在 `The party that changed my whole life.`（那个彻底改变了我人生的派对。）之后，而这一句本身与两句之间只隔了一个问句段——也就是说她**先认定自己的一生被改变、然后立刻决定不必知道细节**。**
 
-**读者视角提示**：**`My dad. Bell, where are you? You okay?`（我爸爸。`Bell`（宝贝），你在哪儿？你还好吗？）这一行是 ch34 那通电话的另一半** ——ch34 她在电话里问 `Are you coming home soon?`／而这一行里父亲叫的是 `Bell`；**而 ch38 ⑧ 里 `Charlotte` 说过 `We didn't even kick you out after you attacked me!`，而这一行父亲连着追问 `You okay?`／`You okay?`／`let me know if you're good`（`Hey, Bella, let me know if you're good. You okay?`）——**也就是说 ch34 `Janet` 告诉她的「你爸每天都在打电话」在这六十七条里被证实了，而证实的方式是一连串短促的、不知道该怎么开口的追问。**
+**读者视角提示**：**`My dad. Bell, where are you? You okay?`（我爸爸。`Bell`（宝贝），你在哪儿？你还好吗？）这一行是 ch34 那通电话的另一半** ——ch34 她在电话里问 `Are you coming home soon?`／而这一行里父亲叫的是 `Bell`；**而 ch38 ⑧ 里 `Charlotte` 说过 `They didn't even kick you out after you attacked me!`，而这一行父亲连着追问 `You okay?`／`You okay?`／`let me know if you're good`（`Hey, Bella, let me know if you're good. You okay?`）——**也就是说 ch34 `Janet` 告诉她的「你爸每天都在打电话」在这六十七条里被证实了，而证实的方式是一连串短促的、不知道该怎么开口的追问。**
 
 ### ⑨
 
@@ -204,7 +204,7 @@ source_text: ch41
 
 **为什么这样写**：**这一段的技术是**用一次条件反射开场，然后用一个空架子把整章的冲突引爆（⑩）。** —— `Out of habit, I shoot out of bed, kneel down, look for my running sneakers and folded sweatshirt and sweatpants under the bed,`（出于习惯，我一下从床上弹起来，跪下去，往床底下找我的跑步鞋、叠好的卫衣和运动裤，）→ **`But nothing's under the bed except small pairs of underwear and a smattering of Woodzeez.`** —— **而这一组的技术是**反射的完整度与结果的不完整**：句子把找鞋、找卫衣、找运动裤三样东西都点到了，而底下只有内裤和一种积木；——**而 `I panic for a minute: Where's my stuff? I don't want a demerit.`（我慌了一分钟：我的东西在哪儿？我可不想吃一个处分。）这一句的技术是**她慌的内容是「处分」而不是「家」**——也就是说她在这一秒里仍然是 `Sonoran Sunrise` 的人。
 
-**而药柜的写法是全书最漂亮的一次「以缺失为内容」（⑩）** —— `It is still filled with packets of dental floss, bottles of moisturizer, Band-Aids, nasal spray…but what strikes me is what isn't there.`（它还装着一包包牙线、一瓶瓶润肤霜、创可贴、鼻喷……**但真正让我注意的是那些不在的**。）—— **而这一句的技术是**先用一个长清单证明柜子仍然是那个柜子，再用 `what isn't there`（那些不在的）把叙述方向整个掉头**；——**而紧跟的清单是**止痛药、痛经药、褪黑素、感冒药、小孩子的退烧药**：`Ibuprofen, Midol, the melatonin gummies Ricci sometimes needs, the NyQuil, even Ricci's children's Tylenol.`——**而这一串的技术是**逐级降格**：从成人止痛药一路降到 `even Ricci's children's Tylenol`（甚至连 `Ricci` 的儿童退烧药）；也就是说**她母亲收走的不只是她的东西，还有妹妹的。**
+**而药柜的写法是全书最漂亮的一次「以缺失为内容」（⑩）** —— `It's still filled with packets of dental floss, bottles of moisturizer, Band-Aids, nasal spray…but what strikes me is what isn't there.`（它还装着一包包牙线、一瓶瓶润肤霜、创可贴、鼻喷……**但真正让我注意的是那些不在的**。）—— **而这一句的技术是**先用一个长清单证明柜子仍然是那个柜子，再用 `what isn't there`（那些不在的）把叙述方向整个掉头**；——**而紧跟的清单是**止痛药、痛经药、褪黑素、感冒药、小孩子的退烧药**：`Ibuprofen, Midol, the melatonin gummies Ricci sometimes needs, the NyQuil, even Ricci's children's Tylenol.`——**而这一串的技术是**逐级降格**：从成人止痛药一路降到 `even Ricci's children's Tylenol`（甚至连 `Ricci` 的儿童退烧药）；也就是说**她母亲收走的不只是她的东西，还有妹妹的。**
 
 **而酒架空着的那两句是全章最短的一次判决（⑩）** —— `I glance up to the top shelf, where she keeps unopened wine. She doesn't drink a lot, but if she has it, it's on the second shelf, behind the cans of coffee and boxes of tea.`（我朝最上层那格瞥了一眼，她把没开封的酒放在那儿。她不喝很多，但如果她有，就该在第二层、咖啡罐和茶盒的后面。）→ **`There's nothing.`（那里什么都没有。）** —— **而它的技术是**三句用来解释「应该在哪」的话之后，接一句两个字的话来说「那儿没有」**；**而 `unopened`（没开封的）这个形容词是她母亲那一格原来的状态，而这一格现在空着**——也就是说这一格被清空的方式就是它被描述的方式。
 
@@ -224,7 +224,7 @@ source_text: ch41
 
 **关键词**：shovel the cold eggs into my mouth with my fingers / start washing the dishes / Washing the dishes, I say / We have a dishwasher / We did our own dishes at the place / If you didn't make food and clean up, you didn't get to eat / I would wash, Holly would load / We all helped / It's Monday / a red circle around Thursday / Bella back to school / She has my whole week in red pen / A scheduled life / Bella, school things. Bella, doctor. Bella, hair. Bella, group / Bella, breathe, I tell myself / What Happens After / lettering that seems entirely too optimistic
 
-**为什么这样写**：**这一段的技术是**她用机构养成的一套动作在家里执行，然后被一句提醒打断（⑪）。** —— `I turn around and put my mug on the counter, take the pan off the stove and shovel the cold eggs into my mouth with her fingers. Then I put the pan in the sink, turn on the water, soap the sponge, and start washing the dishes.`（我转过身，把杯子放在台面上，把平底锅从炉子上端下来，用手指把冷掉的鸡蛋扒进嘴里。然后我把锅放进水槽，打开水，给海绵上皂，开始洗碗。）—— **而这一串的技术是**四个动作全部用 `put`／`take`／`turn`／`soap` 这类基础动词串起来，且没有一件与吃有关的动作是优雅的**（`shovel the cold eggs into my mouth with her fingers` 用手指把冷鸡蛋扒进嘴里）——**而紧跟的 `We have a dishwasher,` she reminds me.（我们有洗碗机，她提醒我。）这一句的技术是**一句关于家电的提醒**。
+**为什么这样写**：**这一段的技术是**她用机构养成的一套动作在家里执行，然后被一句提醒打断（⑪）。** —— `I turn around and put my mug on the counter, take the pan off the stove and shovel the cold eggs into my mouth with my fingers. Then I put the pan in the sink, turn on the water, soap the sponge, and start washing the dishes.`（我转过身，把杯子放在台面上，把平底锅从炉子上端下来，用手指把冷掉的鸡蛋扒进嘴里。然后我把锅放进水槽，打开水，给海绵上皂，开始洗碗。）—— **而这一串的技术是**四个动作全部用 `put`／`take`／`turn`／`soap` 这类基础动词串起来，且没有一件与吃有关的动作是优雅的**（`shovel the cold eggs into my mouth with my fingers` 用手指把冷鸡蛋扒进嘴里）——**而紧跟的 `We have a dishwasher,` she reminds me.（我们有洗碗机，她提醒我。）这一句的技术是**一句关于家电的提醒**。
 
 **而她搬出来的那条规则是这一段的核心（⑪）** —— `"We did our own dishes at the place. And cooked our food. If you didn't make food and clean up, you didn't get to eat. I would wash, Holly would load—"`（**「在那个地方我们是自己洗碗的。而且自己做饭。如果你不做饭、不收拾，你就没得吃。我负责洗，`Holly` 负责放——」**）—— **而它的技术是**一个条件句（`If you didn't…you didn't get to eat.`）**——**也就是说她引用的是一条**惩罚规则**，而她此刻正在一个不需要这条规则的地方执行它**；**而 `Holly would load—` 那个破折号是全书最令人心悸的一次打断：她说到一半时想起 `Holly` 已经不在了，而原文用一个破折号代替了这件事。**
 
@@ -270,7 +270,7 @@ source_text: ch41
 - **`our phone conversation when I was in Seg.`（我在 `Seg` 里那通电话。）与 ch34 逐字对应**，而 ch34 `Janet` 当时告诉她的是 `he calls here every day`——**本章 ⑧ 的 `My dad. Bell, where are you? You okay?` 那一串是这件事的第一份书面证据。**
 - **骨灰罐的作者是 `Agnes`，而 `Agnes` 与 `Laurel` 的关系在 ch08 定义**（`Laurel has this friend, Agnes, who lives outside Tucson in a place called Tubac on an old former cattle ranch with a bunch of other older women artists.`）——**而本章 ⑦ 是母亲**第二次**称她 `Agnes`（第一次是 ch34 `Ricci` 的 `Mommy's taking me to Agnes's.`），ch41 的散骨灰计划 `We could scatter Mom.` 也由母亲说出。**
 - **`Laurel` = 外婆、已火化，由 ch39／ch41 两处坐实**：本章 ⑦ `We never did anything with the white boxes that came home after she was cremated.`（对照前一会话记录的 ch41 `Laurel. I'm holding my grandmother, just like I did on the bricks outside her house a long time ago.`）——**而「抱着一具身体」与「抱着一个骨灰罐」是同一句话里的两个宾语，这是全书最克制的一次时间折返。**
-- **Scrabble 四站（见 ⑤）**：ch20 起源／ch22／**ch31 `I'm excellent at Scrabble` ＋ `Let's do it when we get back. If we can.`**／**本章 ⑤（那盘游戏连同那张桌子一起没了）**／ch44。**
+- **Scrabble 四站（见 ⑤）**：ch20 起源／ch22／**ch31 `I'm excellent at Scrabble` ＋ `Let's do it when we get back. If we survive.`**／**本章 ⑤（那盘游戏连同那张桌子一起没了）**／ch44。**
 - **`Polaroid` 三站（本章是最狠的一站）**：ch18 那面 `chapel of Polaroids`／ch39 `Tracy throws the Polaroid picture at my feet.`／**本章 ⑩ `I have the Polaroids to prove it, carefully slipped into a ziplock baggie in the suitcase in my room.`**／ch44（送相机）／ch53（做成日记）。
 - **本章 ⑩ 那份文件里的两句话会在 ch42 被一个陌生人用经历验证**：本章 `Some families may impose rules and structure that you find suffocating.`／**ch42 ⑦ `My parents didn't stop drinking when I came home. I sit there all night waiting for them to pass out…` ＋ `Everyone nods.`**
 - **本章 ③ `a little spot`（一小块地方）与 aftercare 文件 `It is up to you to find the balance that you need to thrive, and to make it happen.` 是同一条逻辑的两种交付**（活人嘴里 ＋ 纸上）。

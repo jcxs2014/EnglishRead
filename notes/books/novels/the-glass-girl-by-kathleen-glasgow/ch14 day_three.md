@@ -18,7 +18,7 @@ source_text: ch14
 
 ## 故事梗概
 
-`Chuck`（crew cut college guy，ch12 出场过的 `crew cut guy`）用金属水瓶敲门 `Clonk, clonk, clonk.`，喊 `Move it up and out, ladies!` 逼全宿舍晨跑。`Brandy` 拒绝（`I do not run.`），Billy 问 `How many demerits?`，`Chuck` 答 `Fuck around and find out!`。沙漠里没有跑道，Billy 与她互相推让（`You first.` / `You.`），那群孩子在喊 `Go, go, go!` 而她 `can't tell if the kids are being encouraging or mean`。她跑到呕吐，对着一只 Saguaro 里的鸟说 `I'm disgusting. A disgusting, dirty thing.`——**这是她第一次主动把自己说成脏东西**。然后 `Brandy` 从她跑掉的方向回来：`Never. Leave. A. Man. Behind.` 与 `If we die in the desert, at least we'll die together,` 并把沙子抹在她 sweatshirt 的呕吐物上。**友谊在这一句之后成立。**
+`Chuck`（那个平头，ch11 出场过的 `the crew cut guy`）用金属水瓶敲门 `Clonk, clonk, clonk.`，喊 `Move it up and out, ladies!` 逼全宿舍晨跑。`Brandy` 拒绝（`I do not run.`），Billy 问 `How many demerits?`，`Chuck` 答 `Fuck around and find out!`。沙漠里没有跑道，Billy 与她互相推让（`You first.` / `You.`），那群孩子在喊 `Go, go, go!` 而她 `can't tell if the kids are being encouraging or mean`。她跑到呕吐，对着一只 Saguaro 里的鸟说 `I'm disgusting. A disgusting, dirty thing.`——**这是她第一次主动把自己说成脏东西**。然后 `Brandy` 从她跑掉的方向回来：`Never. Leave. A. Man. Behind.` 与 `If we die in the desert, at least we'll die together,` 并把沙子抹在她 sweatshirt 的呕吐物上。**友谊在这一句之后成立。**
 
 下午是 `Decision-Making Worksheet: Cost-Benefit Analysis`。她在「戒酒好处」里写 `My family wouldn't be mad at me anymore.` / `Amber would be my friend.` / `Maybe I wouldn't have lost Dylan.`。`Fran` 看着她的纸说 `I see a lot of anxiety. Loneliness.` 并追问 `What do you mean, 'the video'?`（ch11 那段）。`Brandy` 的优点栏全是好处，Fran 说 `But you're here.`。母亲寄来的包裹里有一张绒布袋装的老照片：`I press the photo to my good cheek.` 晚上她对着电视上 `Gumball` 里的画面恐慌发作，Janet 带所有人躺在水泥地上，念天花板上的鸟名（见 ⑧）。
 

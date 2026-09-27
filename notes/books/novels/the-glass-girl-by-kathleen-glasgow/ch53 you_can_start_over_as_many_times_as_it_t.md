@@ -122,7 +122,7 @@ source_text: ch53
 
 **母题计数**（**全章范围**）：**全章 42 段 / 4,917 字节 / 0 处 `—` 分节**｜0 处 U+00AD｜**`I'm an alcoholic.` 的第四次出现**（④）——**而这一次是它第一次被一个陌生人听见**｜**`I'm not experienced with addiction myself` 这句是全书唯一一次由一个成年人向她说出的同类自白**（④）｜**鸟名 1 次，小写无逗号**（⑤）｜**一个词被回引两次**（⑤ `The exposed self.` → `I think about what she said, "the exposed self."`）｜**全章最后一句是 1 个词的拟声句**（⑤ `Click.`）｜**`But for now` 在本章出现两次而方向相反**（① 放回外婆的相机／⑤ 掏出自己的）｜**5 个引语块**（全书众数 8）
 
-**文本层观察（如实记录，不改）**：本章 `text/ch53_you_can_start_over_as_many_times_as_it_t.txt` 无 U+00AD / U+2009 / 缺字；5 个引语块与词表 28 条例句已逐条程序化校验（词头逐字在原文、例句为原文子串）。**⑤ 那一块里 `And I want to make sure no one forgets her.`（而我想确保没有人忘掉她。）与 `She's never wanted to forget a thing` 之间的那个「There was a period…」在原文里同段**，照录未改；**本章 ① 的 `8x10"`（8x10 英寸）是原书排印**（英寸符号未写全），照录。
+**文本层观察（如实记录，不改）**：本章 `text/ch53_you_can_start_over_as_many_times_as_it_t.txt` 无 U+00AD / U+2009 / 缺字；5 个引语块与词表 28 条例句已逐条程序化校验（词头逐字在原文、例句为原文子串）。**⑤ 那一块里 `And I want to make sure no one forgets her.`（而我想确保没有人忘掉她。）与 `She never wanted to forget a thing.` 之间的那个「There was a period…」在原文里同段**，照录未改；**本章 ① 的 `8x10"`（8x10 英寸）是原书排印**（英寸符号未写全），照录。
 
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
 - **`Clara Comstock` 与 `Brearley` 全书各 1 次**（均在 ch53）——**而 `Clara Comstock` 就是 ch41 ⑩ 那个「一直在打电话」的策展人**（本章 ⑤ `You're the curator," I say. "The one who's been calling for months.`）。
@@ -132,7 +132,7 @@ source_text: ch53
 - **本章 ⑤ 那四个鸟名是小写无逗号形态（`wren sparrow roadrunner quail`）**，**与 ch41 ⑥ 那句 `no more` 清单里的形态完全相同**（`wren sparrow roadrunner quail, daily Polaroids,`）——**也就是说这两处是全书仅有的两处「这四个词出现在一张失去的清单上」，而本章这一处是它第一次出现在一张正在写的清单上**；**对照 ch14 教出来时是大写带逗号（`Wren, sparrow, roadrunner, quail,`）。**
 - **本章 ⑤ 那句 `in all the pieces I keep gathering up and trying to suture back together.` 是 ch49 ⑧ 那句 `And pick up all the broken parts of me` 的完成态**（捡起来 → 缝回去）——**而 ch49 ⑧ 那个括号（`(I can put them back together I know I can)`）是全书唯一一次乐观的括号，而本章这一句把那份乐观兑现成了一个动词。**
 - **本章 ⑤ 那句 `I don't want to be a watercolor. I don't want to wash off, or away.` 是 ch51 ① `José` 背的那两句诗的回声**（`I am a watercolor / I wash off.`）——**而 ch51 ① 那两句是本章标题（`You Can Start Over as Many Times as It Takes.`）的另一半理由**：**一张水彩画无法重画（它会被洗掉），而一台相机可以。**
-- **本章 ④ `I'm not inexperienced with addiction myself` 与 ch54 作者附言里作者自己写的那句是同一件事的两次**：ch54 `I’ve always been fascinated by how addictions begin`（我一直对成瘾是怎么开始的着迷）／`a lot of people who aren’t, or can’t be. They deserve our support when they need help, not judgment.`（而还有很多人是、或者不能是。他们在需要帮助时应当得到支持，而不是评判。）——**而本章 ④ 那位 `Clara Comstock` 对一个素不相识的十五岁少女做的事，就是 ch54 那位作者在附言里为自己做的事。**
+- **本章 ④ `I'm not inexperienced with addiction myself` 与 ch54 作者附言里作者自己写的那句是同一件事的两次**：ch54 `I’ve always been fascinated by how addictions begin`（我一直对成瘾是怎么开始的着迷）／ch54 ④ `And lots of people who aren’t, or can’t be. They deserve our support when they need help, not judgment.`（而还有很多人是、或者不能是。他们在需要帮助时应当得到支持，而不是评判。）——**而本章 ④ 那位 `Clara Comstock` 对一个素不相识的十五岁少女做的事，就是 ch54 那位作者在附言里为自己做的事。**
 - **本章之后是 ch54（`Author's Note`），而 ch54 结尾引用的正是本章那面墙的逻辑**：`she’s discovering photography as a way to connect with her grief over her grandmother. She’s going to try.`（她正在发现摄影是一种与她对祖母的悲伤相连接的方式。她会去尝试。）——**也就是说本章 ① `I think Laurel would like that.`（我想 `Laurel` 会喜欢那样。）这一句，在下一章被作者从外面确认了一次。**
 
 ### ⭐⭐⭐ 高级

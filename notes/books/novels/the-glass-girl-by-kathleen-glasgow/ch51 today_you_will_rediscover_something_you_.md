@@ -42,7 +42,7 @@ source_text: ch51
 
 **而那两句认错的技术是**一个「不该」加一个「也不该」，而第二个后面跟的是承认（①）** —— `He shouldn't have given me alcohol at Patty's, but I also shouldn't have taken it, and I did.`（**他不该在 `Patty` 的店里给我酒，但我也不该接，而我接了。**）—— **而它的技术是`and I did.`（而我接了。）独立成句，且没有用过去时被动**；**——而紧跟的 `I'm not going to tell Patty, because like Gideon and Charlotte said, don't be a snitch.`（**我不打算告诉 `Patty`，因为就像 `Gideon` 和 `Charlotte` 说的，别当告密的人。**）这一句的技术是**它把一条童年规矩当成了现在的处理办法**——**而 `Gideon` 与 `Charlotte` 在这里的用法是「引用两个已经不在身边的人」**，**而这两个人在 ch49 ⑦ 的清单里刚刚出现过（`Holly and Gideon.`）。**
 
-**而那盘拼字游戏是全书这条线最深的一次回收（①）** —— `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`（**在最后一个箱子里，我找到了我们那盘拼字游戏，整整齐齐收好着，字母牌混在一起，我们最后拼出的那些词永远消失了。**）—— **而这一句的技术是**`everything neatly put away`（整整齐齐收好）与 `the last words we made gone forever`（我们最后拼出的那些词永远消失了）放在同一个句子里**；**——也就是说这盘棋被保存了，而它的内容被销毁了**；**——**而这条线的四站因此是**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we can.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）／本章（游戏本身在箱子里，而那张桌子在 ch41 ⑤ 已经跟着房子一起被卖了）。**
+**而那盘拼字游戏是全书这条线最深的一次回收（①）** —— `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`（**在最后一个箱子里，我找到了我们那盘拼字游戏，整整齐齐收好着，字母牌混在一起，我们最后拼出的那些词永远消失了。**）—— **而这一句的技术是**`everything neatly put away`（整整齐齐收好）与 `the last words we made gone forever`（我们最后拼出的那些词永远消失了）放在同一个句子里**；**——也就是说这盘棋被保存了，而它的内容被销毁了**；**——**而这条线的四站因此是**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we survive.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）／本章（游戏本身在箱子里，而那张桌子在 ch41 ⑤ 已经跟着房子一起被卖了）。**
 
 **读者视角提示**：**`a boxy-looking camera strapped around her chest`（胸前斜挂着一台方方正正的相机）这一句是全书对外婆那条线的最重要的一次实物交代（①）** ——**而 ch53 那一章她会在外婆的箱子里找到真正的相机**（`Her large-format 8x10" camera.`）——**也就是说本章这一句照片上的方盒子，正是两章之后那个实物；而 `Upper East Side`（上东区）这个地名在本书里只出现这一次，而它给了 `Laurel` 一整套与 `Tucson` 无关的来历。**
 
@@ -60,7 +60,7 @@ source_text: ch51
 
 **而她那句请求只有六个词（②）** —— `I think I want this in my room, I say.`（**「我想把这个搬到我房间里，」我说。**）—— **而它的技术是**前面那个 `I think`（我想）**——**也就是说她对自己说「想」时也不确定**；**——而母亲的回应 `Let me help you, then, so you don't hurt your back.`（**「那我帮你弄，这样你不会闪了腰。」**）的技术是**`then`（那么）把帮助接在她的请求之后，而理由是身体而不是同意**——**也就是说母亲没有说「好」，她说的是「别伤到腰」，而这句话的所指是那件家具。**
 
-**读者视角提示**：**`she doesn't hurt your back`（你不会闪了腰）这个理由与 ch41 ⑩ 她母亲那句 `Some families may impose rules and structure that you find suffocating.`（有些家庭可能会强加你难以忍受的规矩与安排。）形成一组** ——**也就是说 ch42 ⑦ 那个女孩说的「我父母没停喝」与本章这一句母亲说的「别闪了腰」，是同一种关心的两种温度**；**而这一章的技术是**让第二次比第一次低一个量级**（从被清空的药柜，到一句提醒腰的话）。
+**读者视角提示**：**`so you don't hurt your back`（你不会闪了腰）这个理由与 ch41 ⑩ 她母亲那句 `Some families may impose rules and structure that you find suffocating.`（有些家庭可能会强加你难以忍受的规矩与安排。）形成一组** ——**也就是说 ch42 ⑦ 那个女孩说的「我父母没停喝」与本章这一句母亲说的「别闪了腰」，是同一种关心的两种温度**；**而这一章的技术是**让第二次比第一次低一个量级**（从被清空的药柜，到一句提醒腰的话）。
 
 ### ③
 
@@ -97,11 +97,11 @@ source_text: ch51
 **文本层观察（如实记录，不改）**：本章 `text/ch51_today_you_will_rediscover_something_you_.txt` 无 U+00AD / U+2009 / 缺字；8 个引语块与词表 20 条例句已逐条程序化校验（词头逐字在原文、例句为原文子串）。**① 里那两句诗在原文里是两行、用斜杠连接**（`I am a watercolor / I wash off.`）——照录未改。
 
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
-- **拼字游戏这条线在本章走到第 5 站，而它的形式是「东西在，人不在」**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we can.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）**／**本章 ① `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`**（游戏本身在箱子里，而最后拼出的那些词永远消失了）／**本章 ⑤ 两个人真的下了一盘**（`I want to play some Scrabble with my daughter.`）——**也就是说这一章是这条线唯一一次真的下了一盘棋。**
+- **拼字游戏这条线在本章走到第 5 站，而它的形式是「东西在，人不在」**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we survive.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）**／**本章 ① `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`**（游戏本身在箱子里，而最后拼出的那些词永远消失了）／**本章 ⑤ 两个人真的下了一盘**（`I want to play some Scrabble with my daughter.`）——**也就是说这一章是这条线唯一一次真的下了一盘棋。**
 - **那两句诗在 ch53 被她自己接住**：本章 ① `I am a watercolor / I wash off.`（`José` 背诵的那一小段）／**ch53 `Because I don't want to be a watercolor. I don't want to wash off, or away.`**——**而 ch53 那一章的最后一个动作是 `Click.`（按下快门。），也就是说她用一个不会晕开的动作回应了那两句诗。**
 - **外婆的相机在本章 ① 是照片里的方盒子，在 ch53 是实物**：本章 ① `a boxy-looking camera strapped around her chest`（胸前斜挂着一台方方正正的相机）／**ch53 `At the bottom of the trunk, I found it, wrapped in a thick blue wool blanket. Her large-format 8x10" camera.`**——**而本章这一句的照片与 ch53 那一件实物之间的差别是：一个在别人身上，一个在箱底。**
 - **① 那个 `don't be a snitch`（别当告密的人）是 `Gideon` 与 `Charlotte` 两个人共同提供的规矩**——**而 `Gideon` 在 ch49 ⑦ 的清单里（`Holly and Gideon.`）刚出现过，而 ch50 ⑤ 那一章把 `Holly` 的死因与自伤分开**；**——也就是说本章这一句是这两条线最后一次同时在场。**
-- **② 那句 `I'm on suspension`（我停学期间）是 ch43 ⑤ 那句 `You'll need to make up the final exam for the fall.`（你得补上秋季那学期的期末考。）与 `I got kicked out of school`（`Amber` 那句 `And now I'm probably going to get kicked out of school.`）的下游**——**而本章 ② 她已经在提前接受暑假 camp 这件事**（`will have to do summer school anyway`）。
+- **② 那句 `I'm on suspension`（我停学期间）是 ch43 ⑤ 那句 `You'll need to make up the final exam for the fall.`（你得补上秋季那学期的期末考。）与 ch43 ⑩ `And now I'm probably going to get kicked out of school.`（`Amber` 那句 `And now I'm probably going to get kicked out of school.`）的下游**——**而本章 ② 她已经在提前接受暑假 camp 这件事**（`will have to do summer school anyway`）。
 - **本章 ③ 那句 `It still smells like her`（还带着她的味道）是 ch41 ⑩ 那次 `the smell of cinnamon from the tea she probably had in the car`（车里那杯茶大概带的肉桂味）那一组嗅觉细节的第三次出现**——ch41 ④（母亲的体味）／**ch51 ③（沙发上的味道）／**而三次的味道都不是酒。
 - **本章之后紧接 ch52（`If It Isn't Working, Fix It.`）**——**而 ch52 那张规则表里有一行是 `Take the Polaroid.`（拍一张拍立得。）**——**也就是说 ch44 ⑬ `Tracy` 送的那台相机，在两章之后变成了一条日程表上的一项。**
 

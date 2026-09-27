@@ -42,7 +42,7 @@ source_text: ch48
 
 **而 `kind of threw you off`（这有点把你搞乱了）是这一段里最关键的一个短语（①）** —— **而它的技术是**它把「一个大人不在家」这件事归类为「打乱节奏」，而不是「缺席」**；**——而紧跟它的那句 `That's a long time to talk about books, but I've never been a big reader, really.`（**那么长时间用来聊书，我本来就不是个爱看书的人。**）的技术是**一句自谦插在两个时间信息（`three hours`／`once a week`）之间**——**也就是说父亲在回忆的第一段里先交代了时间、空间、以及自己的无能。**
 
-**读者视角提示**：**`Your mother had that night class she was taking`（你妈妈那时候在上一个夜校班）这一句把母亲第一次放在这一段的主角位置，而全章的追责方向是从父亲指向自己** ——**而这与 ch44 ⑧ 那句 `It's my house. I had a long day.`（「这是我家。我今天过得很累。」）是同一个人在不同处境下的两种开场**：**在信里他先讲母亲，在家里他先讲自己。**
+**读者视角提示**：**`Your mother had that night class she was taking`（你妈妈那时候在上一个夜校班）这一句把母亲第一次放在这一段的主角位置，而全章的追责方向是从父亲指向自己** ——**而这与 ch44 ⑧ 那句 `It's my house,` my dad says firmly. `I had a long day.`（「这是我家。我今天过得很累。」）是同一个人在不同处境下的两种开场**：**在信里他先讲母亲，在家里他先讲自己。**
 
 ### ②
 

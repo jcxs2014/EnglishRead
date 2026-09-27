@@ -22,7 +22,7 @@ source_text: ch29
 
 对抗升级（见 ②）：`Like she's some dog they can just send back?` ／ `Well, we should call the police on them.` ／ `So when we get out, we're just nothing to you? We just, floof, disappear?` → **`I'm raising my voice.`** → `You have Fire in two days. You don't want to lose that. You've earned that step in the program.` → `I'm standing up for someone. Is that wrong?` → `That's some bullshit, right there,` → `I stomp out of her office and slam the door behind me.`
 
-第二段（见 ③）：`Brandy` 拉她去看 `The Star Pit`（半程奖励：`You get to come here unsupervised if you reach the halfway mark with no more than one demerit.`）——**而 `Tracy, Phil, Fran, and Chuck are sitting on lawn chairs, bundled up in blankets, around a fire.`** `Gideon` 的欢迎词是本章第一句格言式的自嘲（见 ③）：`Welcome to the party for people who can't party anymore. It's like group with Fran, only no Fran and no absolutely traumatic poem, but we get the stars.`
+第二段（见 ③）：`Brandy` 拉她去看 `The Star Pit`（半程奖励：`You get to come here unsupervised if you reach the halfway mark with no more than one demerit.`）——**而 `Tracy, Phil, Fran, and Chuck are sitting on lawn chairs, bundled up in blankets, around a fire.`** `Gideon` 的欢迎词是本章第一句格言式的自嘲（见 ③）：`It's like group with Fran, only no Fran and no absolutely traumatic poem, but we get the stars.`
 
 四个故事：`Billy`（见 ④）· `Brandy`（见 ⑤）· `Josh`（见 ⑥）· `Bella`（见 ⑦⑧）。
 
@@ -56,7 +56,7 @@ source_text: ch29
 
 **为什么这样写**：**一场对抗，而它的结构是：一方用「这是你挣来的」当武器，另一方把武器的名字都还不知道就拒绝了。** `You have Fire in two days. You don't want to lose that. You've earned that step in the program.`（你两天后就是 Fire 了。你不想失去那个。那是你在疗程里挣来的一步。）—— **而三句里的祈使句是两句，句首都以 `You` 开头：`You don't want to lose that.` 与 `Think very carefully about what you're doing right now.`；被夹在中间的那一句 `You've earned that step in the program.`（那是你在疗程里挣来的一步）用的是完成时——**这一句把 Fire 说成一件已经属于她的东西，因此拿走它就成了拿走一件她挣来的东西。**而 `Bella` 的回应立刻暴露了一件事**：`I don't even care if she takes Fire, whatever exactly that is, away.`（我都不在乎她把 Fire——不管那到底是什么——拿走。）——**`whatever exactly that is`（不管那到底是什么）是本章她第一次说出自己不知道某个制度名词的意思，而它紧跟在一次威胁后面——因此她拒绝的方式是「我连那是什么都不在乎」。**
 
-**而全章最重要的一句是她摔门之前问的那一句，而它与 ch22 那句逐字对应：** `I'm standing up for someone. Is that wrong?`（我在为一个人站出来。那错了吗？）——**这是一个问句，而它的答案是本章第二段的全部内容：`Yes. Absolutely yes to that.` 而说这句话的不是 `Tracy`，是四个段落之后的 `Gideon`（见 ⑥）。** ——**换句话说：她对着错误的人问了正确的问题，而正确的人在同一章里给了她答案。**
+**而全章最重要的一句是她摔门之前问的那一句，而它与 ch22 那句逐字对应：** `I'm standing up for someone. Is that wrong?`（我在为一个人站出来。那错了吗？）——**这是一个问句，而它的答案是本章第二段的全部内容：`Absolutely yes to that.` 而说这句话的不是 `Tracy`，是四个段落之后的 `Gideon`（见 ⑥）。** ——**换句话说：她对着错误的人问了正确的问题，而正确的人在同一章里给了她答案。**
 
 **而她的两处攻击各有出处，而这两处都不是她自己的：**
 - `Well, we should call the police on them.` —— **这一句与 ch22 ④ 那句几乎同型**（ch22 她想问 `Holly` 的事但没说；ch26 她想过报警；本章她说出来了）
@@ -78,7 +78,7 @@ source_text: ch29
 
 **而 `Brandy` 的那句请求是本章结构上最重要的一句，因为它把「无能为力」换成了「做点什么」：** `We can't do anything for Holly right now, so let's do something for ourselves, at least?`（我们现在没法为 `Holly` 做什么，那就至少为自己做点什么，好吗？）—— **而这句话的结构是 `can't do X so let's do Y`，因此它是本章第一个不基于无力感的建议；`at least`（至少）这个词在句末，而 `Please?`（求你了？）是这一段的最后一个词——**三个递进的软化（`at least` → `?` → `Please?`）全部由一个最不客气的女孩说出。**
 
-**而 `Gideon` 的欢迎词是全书最锋利的一句自嘲，而它的技术是三次替换：** `Welcome to the party for people who can't party anymore. It's like group with Fran, only no Fran and no absolutely traumatic poem, but we get the stars.`（来到不能再狂欢的人的派对。跟跟 `Fran` 团契差不多，只是没有 `Fran`、也没有那首绝对创伤的诗，但我们有星星。）—— **三个技术点：① `the party for people who can't party anymore`（不能再狂欢的人的派对）用同一个词（`party`）做了一次否定式重复，因此这个短语在语法上就是「一个取消了自己的派对」；② `It's like group with Fran, only no Fran`（跟 `Fran` 团契差不多，只是没有 `Fran`）——**而这正是 ch15 那句 `I think we're the maids`（我觉得我们就是保姆）的升级版：她 ch15 抱怨没活干，本章她抱怨的是那套制度本身；③ 而整句的落点是 `but we get the stars`（但我们有星星）——**一个 `but` 把前面两个否定全部换成了一样实物。**
+**而 `Gideon` 的欢迎词是全书最锋利的一句自嘲，而它的技术是三次替换：** `It's like group with Fran, only no Fran and no absolutely traumatic poem, but we get the stars.`（来到不能再狂欢的人的派对。跟跟 `Fran` 团契差不多，只是没有 `Fran`、也没有那首绝对创伤的诗，但我们有星星。）—— **三个技术点：① `the party for people who can't party anymore`（不能再狂欢的人的派对）用同一个词（`party`）做了一次否定式重复，因此这个短语在语法上就是「一个取消了自己的派对」；② `It's like group with Fran, only no Fran`（跟 `Fran` 团契差不多，只是没有 `Fran`）——**而这正是 ch15 那句 `I think we're the maids`（我觉得我们就是保姆）的升级版：她 ch15 抱怨没活干，本章她抱怨的是那套制度本身；③ 而整句的落点是 `but we get the stars`（但我们有星星）——**一个 `but` 把前面两个否定全部换成了一样实物。**
 
 **而这一章里四个大人第一次以「在场」的方式出现，而他们出现的方式是距离：** `Tracy, Phil, Fran, and Chuck are sitting on lawn chairs, bundled up in blankets, around a fire.`（`Tracy`、`Phil`、`Fran` 和 `Chuck` 坐在折叠椅上，裹着毯子，围着火。）—— **`bundled up in blankets`（裹着毯子）这个细节与 `Brandy and I arrange the blanket over our knees`（我们把毯子盖在膝上）形成一组，而这一组是全章唯一一次「保暖」在两个群体里同时出现——因此这一群孩子与那一群成人在同一个画面里做同一件事，而中间隔着 `Brandy` 那句 `we aren't entirely unsupervised right now, anyway.`（而且我们现在也不完全没人看着。）**
 
@@ -182,7 +182,7 @@ source_text: ch29
 - **`that's some …` 这个句式来自她父亲**：ch26 `That's some people's home. We don't just walk into people's houses, do we?` → **本章 ② `That's some bullshit, right there`（她骂治疗师用的句式来自她父亲）**；而 ⑦ `Nick` 说的 `You don't dump people.` 与 `We don't just walk into people's houses, do we?` 同型。
 - **`Brandy` 的母亲线两半**：ch26 家长日来的是她自己请走的那个管家、而她母亲在 `Cabo`（全书仅此一次）→ **本章 ⑤ 给出原因：`My mother could care less.` ／ `That rug was from Morocco.`**
 - **本章的地名密度**：`Sonoran`（机构）／`Orlando`（④）／`Minnesota`（⑦）／`Morocco`（⑤，`That rug was from Morocco.`）／`arroyo` 与 `javelina`（`Dad's apartment` 后面那条干河床）—— **`Orlando`／`Minnesota`／`Morocco`／`arroyo`／`javelina` 全书各仅 1 次，都在 ch29；`Stuart` 仅 2 次，也在 ch29。**
-- **`I don't have to talk about that, right now.`（⑦）＝ch23 那句 `Stop, please stop. Just stop.` 的同型限定** ——而这一次说完之后她**真的**说了另一件事（⑧）。
+- **`And that, I don't want to talk about that, right now.`（⑦）＝ch23 那句 `Stop, please stop. Just stop.` 的同型限定** ——而这一次说完之后她**真的**说了另一件事（⑧）。
 - **ch28 那首诗在本章被口语化复现**：诗里 `Because you can crush it smoke it squeeze it swallow it choke it down / But you cannot kill it` → **本章 ⑥ `Josh` 说的是 `I just really, really, really love getting high.` 而 `Gideon` 的回应是 `Absolutely yes to that.`** ——**诗在 ch28 是被人念的，本章它被一个男孩当成自己的理由说了一遍，而它没有被反驳。**
 - **`Gideon` 的三句在 ch15／ch21／ch29 各有一次而语气不同**：ch15 `I'd say that Bella isn't ready to talk yet,`（平辈的保护）／ch21 `You did good, kid.`（`kid`＝上对下）／**本章 ⑦ `If she doesn't want to, she doesn't have to.`（平的）**——而本章 ④ 她伸出hand的那句 `Solidarity` / `Right on` 也是平的。
 ### ⭐⭐⭐ 高级

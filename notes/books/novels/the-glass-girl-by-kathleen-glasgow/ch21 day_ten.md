@@ -12,7 +12,7 @@ source_text: ch21
 
 **情感弧线位置**：**Day Eight 摔碎杯子是她最低点，Day Ten 是最低点之后的第一个「她对别人做了一件事」**——ch15 她第一次自己动手（搬球）、ch16 她第一次喊停、ch19 她第一次动手砸东西，**本章她第一次按住另一个人的手**（`I grab them, hold them tightly in my hands. I don't know what to do.`）。**而这一章同时也是她第一次被卷进别人的秘密，也是她第一次主动遵守一条自己没定的规矩**（`don't tell`）。
 
-**人物弧线**：Bella 本章做了三件带代价的事：① **她第一次对母亲说「不」并且挂断**（`I don't want to see you on parents day. … So don't come. Please. I'm begging you.` → `I hang up the phone.`）；② **她在别人最糟的时候没有走开**（见 ⑥⑦）；③ **她第一次替别人保守了一个自己都害怕的秘密**（`You did good, kid. But remember, don't tell.` → `I nod.`）——**而这条规矩不是她定的，是她被塞过来的**（对照 ch16 她自己发明的 `Just enough, like Charlotte said.`）。
+**人物弧线**：Bella 本章做了三件带代价的事：① **她第一次对母亲说「不」并且挂断**（`I don't want to see you on parents day. … So don't come. Please. I'm begging you.` → `I hang up the phone.`）；② **她在别人最糟的时候没有走开**（见 ⑥⑦）；③ **她第一次替别人保守了一个自己都害怕的秘密**（`You did good, kid,` she breathes. `But remember, don't tell.` → `I nod.`）——**而这条规矩不是她定的，是她被塞过来的**（对照 ch16 她自己发明的 `Just enough, like Charlotte said.`）。
 
 **叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**（与 ch17／ch18／ch20 并列最少）＋ 0 处 U+00AD ＋ **10,322 字节 / 101 段**。结构上是**三段接力**：① 电话（她与母亲）② 电话（她与父亲，但只有两句）③ 浴室（`Holly` 与 `Gideon`）——**而三段的连接物是同一件东西：她逃出去之后发现无处可逃。**
 
@@ -32,7 +32,7 @@ source_text: ch21
 
 `Gideon` 出现，一把夺下牙刷，`Holly` 的手指立刻改用指甲，Bella 抓住她的手。随后 `Holly` 说了三段话（见 ⑦）：`Those dogs. At my house. They aren't mine.` ／ `This is a foster. This place, here, is court-ordered.` ／ `I know they aren't going to take me back when my time is up. Everyone gets rid of me sooner or later.` 以及那句全书的核心（见 ⑦）：`I can't live inside myself.`
 
-`Gideon` 拧开冷水（见 ⑧），最后走到 Bella 耳边：`You did good, kid. But remember, don't tell.` → `I nod.`
+`Gideon` 拧开冷水（见 ⑧），最后走到 Bella 耳边：`You did good, kid,` she breathes. `But remember, don't tell.` → `I nod.`
 
 ## 精读
 
@@ -170,7 +170,7 @@ source_text: ch21
 - **鸟名链五站**：ch14 `Janet` 教（`"Wren, sparrow, roadrunner, quail," Janet says. "Say that for me, Bella."`）→ ch15 心里念三遍 → ch18 小写地想不在（`Why aren't wren, sparrow, roadrunner, quail here, too?`）→ ch19 念完即问 `Is that the right order? Does it matter?` → **本章第三个词塌成 `bullshit, bullshit.`**
 - **`parents day` = 第十五天**，本章 `He'll be at parents day on the fifteenth.` **坐实 ch20（Day Nine）的 `I know I'm seeing you in six days.`**
 - **`Ms. Green` 的桌子是同一件事、两个动词**：ch07 `I slap my hand on Ms. Green's desk, hard.` ／ **本章 `I shudder, thinking of when I hit Ms. Green's desk.`** ——而 `Holly` 的入场句是 `I hit a teacher. I don't even remember it. But that's why I'm here.`（**同动词 `hit`；同一位老师 `Ms. Green` 见 ch07／ch09**）
-- **`Seg` 链三站**：ch12 `Holly's been segregated.` → ch15 `Charlotte` 讲解 `Segregation. Like a time-out…`（含 `Somebody has to hold you down.`）→ **本章 `Gideon` 的威胁 `No snitching. Remember? They'll send her to Seg.`**
+- **`Seg` 链三站**：ch12 `Holly's been segregated.` → ch15 `Charlotte` 讲解 `Segregation. Like a time-out…`（含「总得有人按住她」那一句）→ **本章 `Gideon` 的威胁 `No snitching. Remember? They'll send her to Seg.`**
 - **`Never snitch.` 的第二次出现**：ch15 由 `Charlotte` 定在宿舍（`whispers`，**规矩的音量低于规矩的内容**）→ **本章由 `Gideon` 用在被流血的地方**（`But remember, don't tell.`）
 - **`ch19` 那只杯子的结构性回答**：ch19 有可砸之物（`I turn and throw my coffee cup as hard as I can.`）→ **本章 `God, there's nothing in here to break. Even the mirrors are a weird texture; not glass.`**
 
@@ -215,4 +215,4 @@ source_text: ch21
 
 ## 一句话总结
 
-Day Ten 是手机日，而她是唯一没有手机的人——**`Fran` 把她的号码写在牛仔裤口袋的一张纸条上，母亲一接就通并且一直在哭**（`I can tell she's been crying even before this call.`），她两次打断母亲（`I cut her off. "It's fine, Mom. It's fine."` 两次重复把话变空 ／ `I am, I say. I am mad at you.` 两次重复把话填满），父亲因为一个会议不能通话（`My stomach drops.` → `Of course.` → `"Oh," I answer.`）；她拒绝了探视（四个 `I don't want` 排成阶梯，落在 `I am so sorry I was even born right now`），挂断电话，在墙上那行 `kill me now` 下面用更小的字写下 `already dead`——**两句话，两个作者，一个关于字有多小的比赛**；跑进浴室找东西砸，得到的答案是 `there's nothing in here to break. Even the mirrors are a weird texture; not glass.`（**ch19 那只杯子的结构性回答：这个机构已经把玻璃换掉了**），而那四个用来呼吸的词在第三个位置塌了——**`Wren, sparrow, bullshit, bullshit.`** 全书最重要的一次工具失效；然后 `In between my breaths, I hear gulping sounds.` 领出本章后三分之一：`Holly` 正用牙刷把自己小臂刷出血（`Pinkish scars… Some old, some that look almost new.`），她说出了 `Those dogs.`／`This is a foster.`／`Everyone gets rid of me sooner or later.`，以及那句题眼——`I can't live inside myself.`（我没法住在自己里面）；`Gideon` 拧开冷水（`she looks calmer. Comforted, even as she's being soaked to the bone.`），走到她耳边说 `You did good, kid. But remember, don't tell.`——**而她点头，因为她的秘密和别人的秘密第一次成了同一个秘密。**
+Day Ten 是手机日，而她是唯一没有手机的人——**`Fran` 把她的号码写在牛仔裤口袋的一张纸条上，母亲一接就通并且一直在哭**（`I can tell she's been crying even before this call.`），她两次打断母亲（`I cut her off. "It's fine, Mom. It's fine."` 两次重复把话变空 ／ `I am, I say. I am mad at you.` 两次重复把话填满），父亲因为一个会议不能通话（`My stomach drops.` → `Of course.` → `"Oh," I answer.`）；她拒绝了探视（四个 `I don't want` 排成阶梯，落在 `I am so sorry I was even born right now`），挂断电话，在墙上那行 `kill me now` 下面用更小的字写下 `already dead`——**两句话，两个作者，一个关于字有多小的比赛**；跑进浴室找东西砸，得到的答案是 `there's nothing in here to break. Even the mirrors are a weird texture; not glass.`（**ch19 那只杯子的结构性回答：这个机构已经把玻璃换掉了**），而那四个用来呼吸的词在第三个位置塌了——**`Wren, sparrow, bullshit, bullshit.`** 全书最重要的一次工具失效；然后 `In between my breaths, I hear gulping sounds.` 领出本章后三分之一：`Holly` 正用牙刷把自己小臂刷出血（`Pinkish scars… Some old, some that look almost new.`），她说出了 `Those dogs.`／`This is a foster.`／`Everyone gets rid of me sooner or later.`，以及那句题眼——`I can't live inside myself.`（我没法住在自己里面）；`Gideon` 拧开冷水（`she looks calmer. Comforted, even as she's being soaked to the bone.`），走到她耳边说 `You did good, kid,` she breathes. `But remember, don't tell.`——**而她点头，因为她的秘密和别人的秘密第一次成了同一个秘密。**

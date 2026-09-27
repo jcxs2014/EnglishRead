@@ -112,7 +112,7 @@ source_text: ch34
 
 **关键词**：I— / I look up at Janet like she can help me, but she can't / I know she can hear everything / She averts her eyes / I bet she knows if I got added time for attacking Charlotte / I'll be home, but I don't know when / And I miss you so much
 
-**为什么这样写**：**这是全书她第一次「向机构解释自己」——而她解释的方式是猜。** `I look up like she can help me, but she can't.` —— **这一句用 `like`（好像）而不是 `for`（请）——因此她没有提出请求，她只是在心里做了一个抬头动作，而这个动作被自己否掉了。** ——**而下一句是本章的支点：`I know she can hear everything.`（我知道她什么都听得见。）** ——**这一句是①里 `Janet steps away but doesn't leave`（`Janet` 退开，但没有离开。）的正面解释：她此刻才知道，退开的那位一直在听；而这一句写的是「知道」，不是「听到」——因此读者得到的是**一个刚刚完成的重估**，而这个重估的落点是她自己的处境。**
+**为什么这样写**：**这是全书她第一次「向机构解释自己」——而她解释的方式是猜。** 她心里那句「我抬头，好像她能帮我，可她不能」—— **这一句用 `like`（好像）而不是 `for`（请）——因此她没有提出请求，她只是在心里做了一个抬头动作，而这个动作被自己否掉了。** ——**而下一句是本章的支点：`I know she can hear everything.`（我知道她什么都听得见。）** ——**这一句是①里 `Janet steps away but doesn't leave`（`Janet` 退开，但没有离开。）的正面解释：她此刻才知道，退开的那位一直在听；而这一句写的是「知道」，不是「听到」——因此读者得到的是**一个刚刚完成的重估**，而这个重估的落点是她自己的处境。**
 
 **而 `She averts her eyes.`（她移开了眼睛。）这一句是全章最短的一次判决** —— **`avert`（移开）这个词的全部力量在于它的宾语是眼睛：她没有反驳，没有安慰，她移开了目光——因此 `Janet` 对她的态度在这一句里是明确的、也是全书里少见的明确。** ——**而这与 ch19 那次（`she` 看出她表情的技术）互为对照：那时是**别人**读她，这一章是**她**读别人。
 
@@ -156,7 +156,7 @@ source_text: ch34
 
 **而 `I don't care.`（我不管。）在这道命令里的位置是它的支点** —— **`Staple some rings, glue them, I don't care.` 的意思是「手工做得多难看都行」——而作者把它放在这里，是因为她能给的最大让步就是这个：她要的只是「有一棵树被装点过」这个事实，而不是那棵树好不好看。**
 
-**而最后那一长句的技术是把全部的推诿可能一次列完（⑥）**：`if you didn't get her any presents because you were too tired or you forgot or you thought Mom or Vanessa would take care of it`（要是你没给她买礼物，因为你太累了，或者你忘了，或者你以为妈妈或者 `Vanessa` 会管这件事）—— **`too tired`／`forgot`／`you thought ... would take care of it` 是三种最常见的推诿句式，作者把它们排成一条，然后逐一封死。**
+**而最后那一长句的技术是把全部的推诿可能一次列完（⑥）**：`if you didn't get her any presents because you were too tired or you forgot or you thought Mom or Vanessa would take care of it`（要是你没给她买礼物，因为你太累了，或者你忘了，或者你以为妈妈或者 `Vanessa` 会管这件事）—— **`too tired`／`forgot`／`you thought Mom or Vanessa would take care of it` 是三种最常见的推诿句式，作者把它们排成一条，然后逐一封死。**
 
 **读者视角提示**：**`She is seven years old.`（她七岁。）这六个词是本章的支点，而它被放在了整段命令的最前面** ——**而它之所以有力量，是因为七岁这个数字在前面三段里已经被反复用过了：`But it's a little girl.`（但是个小女孩。）／`you are seven` 的同义内容（`because you are seven`）在 `Janet` 的推测里／`She's seven.`（她七岁。）在 `Janet` 解释号码时。** ——**换句话说：她向父亲提要求的依据不是道理，是一个年龄；而这个年龄在电话那头已经被用来骗过那个孩子一次。**
 

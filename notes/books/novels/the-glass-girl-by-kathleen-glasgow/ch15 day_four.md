@@ -48,7 +48,7 @@ source_text: ch15
 
 **为什么这样写**：**这句话本身不是嘲笑，它是辩护。** 说话人是 `Lara`（厨房管理者），触发点是 Bella 在自我介绍时 `I say my name in a low voice.`（低声说了名字），Lara 说 `Don't be shy.`（别害羞）后一个孩子 `mouth full`（嘴里塞着东西）反问 `What?`（什么？）——**Lara 于是把问题转向全体**。注意她的措辞是 **`Do you think…is funny?`（你觉得……好笑吗？）**，不是陈述（`Your face is weird.`）——**她把审判权交给房间，让二十个孩子自己回答**。而第一个回答是 `Aw, no.`（哎呀，不是），第二个回答是 `Charlotte` **站起来**（`She stands up.`）——**全文最勇敢的一个动作由一个本章介绍最晚的人做出**（见 ④）。
 
-**读者视角提示**：ch02 她躺在床上想 `I'm the kind of tired that is cement in your shoes`；ch14 她 `I press the photo to my good cheek`。**她的脸是全书反复被使用的刑具，而这一章有人把它当众放上台面——第一个问题由成年人问出来。**
+**读者视角提示**：ch02 她躺在床上想 `I am the kind of tired that is cement in your shoes, X-ray vest on your chest, bricks tied to your wrists.`；ch14 她 `I press the photo to my good cheek`。**她的脸是全书反复被使用的刑具，而这一章有人把它当众放上台面——第一个问题由成年人问出来。**
 
 ### ③
 

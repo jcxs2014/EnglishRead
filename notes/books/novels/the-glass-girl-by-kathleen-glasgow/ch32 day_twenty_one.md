@@ -28,13 +28,13 @@ source_text: ch32
 
 **而关于 `Gideon` 的死因，本章由三个人分三次说出来**（见 ③④⑤）：`Is she…d—` ／ `She can't even say the word.` → `Is she going to live? I ask desperately.` → **`No, dummy, Charlotte says, her voice thick with bitterness. Grow up. She OD'd.`**
 
-而 `Charlotte` 的解释是全章最冷的一段（见 ⑤）：`That's why she probably did it. Because we weren't there. No one to bother her when she offed herself.` ／ `She doesn't have anywhere to go, remember? Her parents wouldn't take her back.` ——**而后者是 ch23 那句 `I'm here, but when I get out, I have nowhere to go.` 的答案。**
+而 `Charlotte` 的解释是全章最冷的一段（见 ⑤）：`That's why she probably did it,` Charlotte says. `Because we weren't there. No one to bother her when she offed herself.` ／ `She doesn't have anywhere to go, remember? Her parents wouldn't take her back.` ——**而后者是 ch23 那句 `I'm here, but when I get out, I have nowhere to go.` 的答案。**
 
 `Bella` 的指责（见 ⑥）：`Why can't you take care of people?` ／ **`Even with Holly, you knew she had nowhere but that…place. You knew her foster parents weren't coming and you didn't prepare her. She seemed happy. She had plans. She took pictures of me—`** ——**而这一句被打断，然后录像开始播**（见 ⑦）。
 
 **那一段被单独排版的四行**：`Dyyyyyylaaannnn…` ／ `Look at me` ／ `Look at me` ／ `Everyboooooooddddy` ——而她看到的是 `the vision of myself on Charlotte's phone, slopping around in front of Lemon's camera, my face slack, my makeup smeared. My breast hanging out, fleshy and pale.`（见 ⑦）
 
-**而全章的收尾是三次递进**（见 ⑧）：`The internet, is a glorious place where things live forever, unlike the real world.` → `that Holly's dead.` → `Tracy opens her mouth, but nothing comes out. She looks helpless.` → **`That's how I know it's true.`** → `I grab the phone and throw it as far as I can into the desert.` → `And then, even with my heavy backpack on, I deck her.` → **`I hit her for Holly, and for Gideon, and for the video, and for everything, everything, everything, until someone pulls me off her.`**
+**而全章的收尾是三次递进**（见 ⑧）：`The internet,` Charlotte says, `is a glorious place where things live forever, unlike the real world.` → `that Holly's dead.` → `Tracy opens her mouth, but nothing comes out. She looks helpless.` → **`That's how I know it's true.`** → `I grab the phone and throw it as far as I can into the desert.` → `And then, even with my heavy backpack on, I deck her.` → **`I hit her for Holly, and for Gideon, and for the video, and for everything, everything, everything, until someone pulls me off her.`**
 
 ## 精读
 
@@ -66,7 +66,7 @@ source_text: ch32
 
 **而那句谎话的技术是它把一件关于人的事换成了一件关于天气的事**：`Just some bad weather we should try to head off.`（就是有一些坏天气，我们最好避开。）—— **`we should try to head off`（我们最好避开）里的 `head off`（避开）在字面上是「往别处去」，而这一章他们要做的正是这个：往回走；而这句话的形式与它的内容方向相反。** ——**而拆穿它的是本章最短的一次判断**：`She's lying, Brandy whispers to me.`（她在撒谎，`Brandy` 悄悄对我说。）**——**而 Bella 的回应是本章唯一一句她把注意力放到推测上的话**：`"Yeah," I say. I wonder about what.`（"是啊，"我说。我猜是什么。）
 
-**文本层观察（如实记录，不改）**：**这一句的原文是 `I wonder about what.`（`text/ch32_day_twenty_one.txt` L43）** ——**而 `wonder about what` 在英语里是不成立的（`wonder about` 后面需要一个宾语，而 `what` 不能同时作宾语与介词宾语）；按上下文推测作者意图应是 `I wonder what.` 或 `I wonder about what it is`。** 本章引用与分析按原文照录，**未改**。
+**文本层观察（如实记录，不改）**：**这一句的原文是 `I wonder about what.`（`text/ch32_day_twenty_one.txt` L43）** ——**而 `wonder about what` 在英语里是不成立的（`wonder about` 后面需要一个宾语，而 `what` 不能同时作宾语与介词宾语）；按上下文推测作者意图应是 `I wonder what.` 或 `I wonder about what.`。** 本章引用与分析按原文照录，**未改**。
 
 **读者视角提示**：**而这一段的四个步骤（皱眉 → 走开 → 耳语 → 改口）与 ch19 那场会谈的三个步骤是同一个** ——ch19 是「她翻杯子 → 她舔嘴唇 → 她说出一个法律名词」，本章是「她皱眉 → 她走开 → 她说出一个天气名词」——**而两次的那个名词都是她用来说掉一个真消息的代用品（法律名词／天气名词）。**
 
@@ -247,7 +247,7 @@ Day Twenty-One 是**全书最暗的一章**，而它的顺序值得先看清：*
 
 **关于 `Gideon` 的死因由三个人分三次说出来（③④⑤）。** `No, dummy, Charlotte says, her voice thick with bitterness. "Grow up. She OD'd."` —— **`dummy` 是这一章里唯一一次有人贬低她，而它出自一个当晚同样失去了室友的人；`voice thick with bitterness`（声音里满是苦涩）在结构上是「声音稠」——而 `thick` 把苦涩变成了一种物理状态。而 `She OD'd.` 是三个词，把药名、剂量与时间全部省略了。** `Tracy` 的自述是全书对这家机构最诚实也最无力的两次（④）：`We know only a little at this moment, but we wanted to prepare you before we get there.`（**承认「知道得很少」之后，紧接着说了一件完全不需要知道多少就能做的事——通知**）／ `This happens. Things get in. We aren't perfect. People devise new ways all the time.`（**三个短断言加一个进行时，而最后一句里那个想办法的人群是 `People`（人们）而不是 `we`——因此这一句把她自己从那个人群里摘了出去**）——**而 `Charlotte` 的回应把一句称赞用成了确认**：`You got that right, Charlotte mutters.`（**它的字面意思与实际功能相反：她确认的是「东西会进来」这件事，而说这句话的人正是 ch23 那一夜第一个说 `I miss getting high.` 的人**）。
 
-**而本章最冷的一段（⑤）把一件刑事的事讲成了一件关于隐私的事**：`That's why she probably did it. Because we weren't there. No one to bother her when she offed herself.` —— **而 `offed`（自己了结）把「过量」换成了「自己」，这个替换的方向是：过量是一个事故，自己是一个决定。** 她随后被两次「长大点」挡回去，而第二次配了一个动作（`snapping her fingers in my face`——**全书距离最近的一次暴力**）。**而这一段最重的一句是本章对 ch23 那句的应答**：`She was supposed to get out in a few days, but she doesn't have anywhere to go, remember? Her parents wouldn't take her back.` —— **而 ch23 她说的是 `I'm here, but when I get out, I have nowhere to go. That was the deal.`：一次是夜里用现在时说自己的处境，一次是白天用将来时被别人说出来；两次都没有「交易」这个词，只有一个事实——没人接。** **而这一段的收尾是本章唯一的「计数」**：`First Holly, now Gideon. My heart is racing.` —— **而她在沙漠里数失去的人，而这一次只有两个。**
+**而本章最冷的一段（⑤）把一件刑事的事讲成了一件关于隐私的事**：`That's why she probably did it,` Charlotte says. `Because we weren't there. No one to bother her when she offed herself.` —— **而 `offed`（自己了结）把「过量」换成了「自己」，这个替换的方向是：过量是一个事故，自己是一个决定。** 她随后被两次「长大点」挡回去，而第二次配了一个动作（`snapping her fingers in my face`——**全书距离最近的一次暴力**）。**而这一段最重的一句是本章对 ch23 那句的应答**：`She was supposed to get out in a few days, but she doesn't have anywhere to go, remember? Her parents wouldn't take her back.` —— **而 ch23 她说的是 `I'm here, but when I get out, I have nowhere to go. That was the deal.`：一次是夜里用现在时说自己的处境，一次是白天用将来时被别人说出来；两次都没有「交易」这个词，只有一个事实——没人接。** **而这一段的收尾是本章唯一的「计数」**：`First Holly, now Gideon. My heart is racing.` —— **而她在沙漠里数失去的人，而这一次只有两个。**
 
 而 ⑥ 的技术是把同一句「你知道」排成两截：`you knew she had nowhere but that…place.` 和 `You knew her foster parents weren't coming and you didn't prepare her.`（`Why can't you take care of people? I spit at Tracy.`）—— **而她指控的不是欺骗，是「知情而不作为」——而这比「你骗了我」更难反驳。** 而这一段真正的枢纽是被打断在介词之后的那一句：**`She seemed happy. She had plans. She took pictures of me—`** ——**「她给我拍过照」是一个关于 `Holly` 的证据，而它正在被列举，而它被切断之后接上来的不是 `Tracy` 的话，是那段录像。** 换句话说：**`Holly` 拍她的那些照片（ch26 那句 `I'm gonna take pictures of these, okay? I want to remember all of them.`）与 `Charlotte` 手里那段录像是同一种东西的两个方向：一个是 `Holly` 想记住她，一个是 `Charlotte` 想让所有人看她。**
 

@@ -8,9 +8,9 @@ source_text: ch39
 
 ## 本章导航
 
-**一句话概括**：**全书最重要的一章是她的第一天早晨**：开头是一只旧毛衣的比喻（`It's as familiar as an old sweater you thought you lost but find buried on the bottom of the closet under shoes and old comics.`），紧跟着它的反面（`Only, this home is not a comfortable sweater.`）；而全章的落点是两件事——`Tracy` 把那张每天拍的 `Polaroid` **扔到她脚边**并问 `Do you like sitting in your own waste, Bella?`，以及被问了两次之后她抬起手说了一句 **`Yes, I need help.`**
+**一句话概括**：**全书最重要的一章是她的第一天早晨**：开头是一只旧毛衣的比喻（`It's as familiar as an old sweater you thought you lost but find buried on the bottom of the closet under shoes and old comics.`），紧跟着它的反面（`Only, this home is not a comfortable sweater.`）；而全章的落点是两件事——`Tracy` 把那张每天拍的 `Polaroid` **扔到她脚边**并问 `Do you like sitting in your own waste, Bella?`，以及被问了两次之后她先说了 `Yes,` 再说了 `I need help.`
 
-**情感弧线位置**：**弧线的转折点——但不是向上的转折，而是**承认**的转折**。ch38 是全书最低点，本章是最低点之后的第一个动作，而**这个动作不是喝、不是走，而是说一句「我需要帮忙」**（`Yes, I need help.`）。弧线的位置因此是**ch31 那一次「她被问『你需要帮忙吗』而她答『不』」的重演**——**而本章的答案是 `Yes`，且是在同一个问题被原样问了两遍之后。**
+**情感弧线位置**：**弧线的转折点——但不是向上的转折，而是**承认**的转折**。ch38 是全书最低点，本章是最低点之后的第一个动作，而**这个动作不是喝、不是走，而是先说一句 `Yes,` 再说一句 `I need help.`。弧线的位置因此是**ch31 那一次「她被问『你需要帮忙吗』而她答『不』」的重演**——**而本章的答案是 `Yes`，且是在同一个问题被原样问了两遍之后。**
 
 **人物弧线**：① **第一次把「我想念」改成「我不想念」**（`even though I didn't want to. Even though I fought it. Even though I didn't want to admit it felt good.`）——**而这一段的全部技术是三个 `Even though` 的排比**；② **第一次把责任从别人手里拿回来**（`I had twenty-nine days. Charlotte didn't do me dirty. I did myself dirty.`）——**而这一句的技术是重复句型只换主语**；③ **第一次被一张照片当作镜子**（`That girl's face in the picture.`）。
 
@@ -177,11 +177,11 @@ source_text: ch39
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
 - **`Detox` 是 `Sonoran Sunrise` 里的一个单元，而 `Fran` 在 ch12 说的是三天**：ch12 `“Hey, everyone,” she says. “I’m Fran. I’ll be taking the four of you to Detox, where you’ll stay for three days while we figure out what shit you put into yourselves and try to get it out.”`／ch12 `“Then you stay in Detox longer and you stay at Sonoran Sunrise longer, Your parents signed for you at the hospital. You initialed the form, too.`——**因此本章 `You're back at Day One.` 里的 `Day One` 指的是 `Detox` 的第一天，而 ch12 就是那一天。**
 - **`Feed Dude` 全书 4 次**：ch15 1 次／**本章 ③ 1 次**（`Tracy` 问 `“The Feed Dude,” Tracy says.`）／ch38 2 次——**而本章这次是他最后一次被提到，因为 `Charlotte` 已经走了。**
-- **`Polaroid` 是全书的骨架物件，共 14 章出现**：ch03 `Those Polaroids. I took them from the barn. People sent them to us from around the world when they heard about Laurel.`（**这一串的起点是 `Laurel` 的葬礼**）／ch13 `Tracy is standing in front of a wall of Polaroids.`／ch18 `On one wall of the activity room in Gen it’s like a chapel of Polaroids.`／ch26 `Tracy has pulled our Polaroids off the wall`／ch31 `Tracy whips out the Polaroid.`／**本章 ② ③ ⑦**／ch41 `I’ve got the Polaroids to prove it`／**ch44 `It's a Polaroid camera and a pack of film. There’s a note taped to the box of film.`（离开时送给她的相机）**／ch52 `Take the Polaroid.`／ch53 `I think I could make a whole diary of the last three months in these Polaroids.`——**而本章是这张照片第一次被**扔到地上**。**
+- **`Polaroid` 是全书的骨架物件，共 14 章出现**：ch03 `Those Polaroids. I took them from the barn. People sent them to us from around the world when they heard about Laurel.`（**这一串的起点是 `Laurel` 的葬礼**）／ch13 `Tracy is standing in front of a wall of Polaroids.`／ch18 `On one wall of the activity room in Gen it’s like a chapel of Polaroids.`／ch26 `Tracy has pulled our Polaroids off the wall`／ch31 `Tracy whips out the Polaroid.`／**本章 ② ③ ⑦**／ch41 `I have the Polaroids to prove it, carefully slipped into a ziplock baggie in the suitcase in my room.`／**ch44 `It's a Polaroid camera and a pack of film. There’s a note taped to the box of film.`（离开时送给她的相机）**／ch52 `Take the Polaroid.`／ch53 `I think I could make a whole diary of the last three months in these Polaroids.`——**而本章是这张照片第一次被**扔到地上**。**
 - **`Do you need help, Bella?` 与 ch31 是一组**：ch31 `“You need help?” Tracy asks.` → `“No,” I say sharply.`——**而本章是同一个问题的第一次 `Yes`，而且是被原样问了两次之后的 `Yes`。**
 - **本章 ⑦ `Is this how you want to remember yourself, years from now?`（这是你希望多年以后怎么记住自己吗？）与 ch53 那句 `I think I could make a whole diary of the last three months in these Polaroids.`（我想我可以用这些 `Polaroid` 做出这三个月的一整本日记。）形成一组**：**一个是「你不想这样被记住」，一个是「我就是要把这三个月做成一本日记」——而两者的材料是同一批 `Polaroid`。**
 - **本章之后紧接 ch40（`Day One`，1,027 字节）**——**而那个章名本身就是本章那句 `You're back at Day One.` 的兑现。**
-- **ch54 作者附言里作者自己也点了这一类复发**：ch54 `The problem is when you have a problem and that problem becomes an even bigger problem: where to get alcohol, how much to get, how to hide it, how to recover from it, how to keep doing that thing that I thought was helping me function in the world but was actually erasing me, bit by bit.`
+- **ch54 作者附言里作者自己也点了这一类复发**：ch54 `The problem is when you have a problem and that problem becomes an even bigger problem: where to get alcohol, how much to get, how to hide it, how to recover from it, how to keep doing it.`
 - **`fairy lights`（小星星灯串）是她自己房间的东西，全书仅此一次**（⑥）——**而这一串与 ch34 那通电话里她问 `Are my parents here?` 的对象是同一批人；而这一章的答案是「不在」。**
 
 ### ⭐⭐⭐ 高级

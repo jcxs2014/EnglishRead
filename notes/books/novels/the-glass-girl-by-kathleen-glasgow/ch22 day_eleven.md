@@ -8,11 +8,11 @@ source_text: ch22
 
 ## 本章导航
 
-**一句话概括**：**治疗在电话之后立刻宣布结束**（`This is it. We're done.`）——因为 `Tracy` 告诉她 `If you don't want them here, they don't come here.`，而这一天真正的内容是**一次她做了却没做的事**：她看着手里的咖啡杯，替 `Holly` 撒了一个谎。
+**一句话概括**：**治疗在电话之后立刻宣布结束**（`This is it,` Tracy says. `We're done.`）——因为 `Tracy` 告诉她 `If you don't want them here, they don't come here.`，而这一天真正的内容是**一次她做了却没做的事**：她看着手里的咖啡杯，替 `Holly` 撒了一个谎。
 
 **情感弧线位置**：**ch21 是最低点之后的第一个「她对别人做了一件事」，本章是第一次「她被一个成年人站到同一边」。** 而两件事发生在同一章里、间隔六段——**先是 `Tracy` 站过来（`And if you stick with it, I stand with you.`），然后 `Gideon` 用一个摇头把她的站位夺回去。** 弧线的形状因此是**一次上升被一次横向拉住**。
 
-**人物弧线**：Bella 本章做了三件新的事：① **第一次说出一个具体的要求并被接受**（`I don't want them to come for parents day.` → `they don't come here`）；② **第一次拿到一封不是母亲写来的信**（见 ⑥）；③ **第一次为了别人对 `Tracy` 说谎**（见 ④）——**而第三件正好抵消第一件带来的信用：`Tracy` 刚说完「勇敢」，她就立刻撒了一个谎。**
+**人物弧线**：Bella 本章做了三件新的事：① **第一次说出一个具体的要求并被接受**（`She said you don't want them to come for parents day.` → `they don't come here`）；② **第一次拿到一封不是母亲写来的信**（见 ⑥）；③ **第一次为了别人对 `Tracy` 说谎**（见 ④）——**而第三件正好抵消第一件带来的信用：`Tracy` 刚说完「勇敢」，她就立刻撒了一个谎。**
 
 **叙事手法**：单视角（Bella）＋ 1 处 `—` 分节 ＋ 0 处 U+00AD ＋ **4,893 字节 / 55 段**（全章最短的 Day 章之一）。**结构是三场接力**：① 羊圈（`Brandy` 的盘问 + `Charlotte`／`Gideon` 的一次权力翻转）② `mesquite` 树下（好消息）③ 结尾（一个转身的动作 ＋ 一封短信）。**而三场之间唯一不变的东西是那两杯咖啡——`Tracy hands me one of the coffees. "Lots of creamer, just the way you like it."`，而第三章她手里还端着同一杯。**
 
@@ -20,7 +20,7 @@ source_text: ch22
 
 开场在羊圈（`Brandy sidles up to me in the goat and chicken enclosure.`）。`Brandy` 立刻问 `What's up with her? With you guys. Did something happen yesterday?`，`Bella` 答 `No, I say evenly. Nothing's up. Bad phone calls, I guess.`——**而 `Brandy` 下一句就是 `You're lying, she says. I can tell.`**（见 ①）。`Bella` 第二次撒谎：`Just being nice, is all. She's sad. Not a big deal.`（见 ① 末）。`Gideon` 在旁边 `eyes flit to me`（眼皮瞟过来）——**她一直在听。**
 
-然后是本章第一次权力翻转（见 ②）：`Charlotte comes out with a big bag in her arms, staggering a little under its weight.` + `Don't have a cow.` + `She giggles. Something's weird about her face, somehow.`，接着 `Gideon yanks the bag from Charlotte's arms.`，`Charlotte` 骂 `Cool it. Just chill.`，`Gideon` 答 `No. You chill.`（见 ②）——**三个短句的对话里，谁是发号施令的那个被换掉了。** `Tracy` 拎着两杯咖啡来叫 `Ready? It's time.`，`Charlotte` 接 `It's time for emotional vomiting!`，`Brandy`/`Bella` 走开时 `Two peas in a pod, Charlotte mutters under her breath`。
+然后是本章第一次权力翻转（见 ②）：`Charlotte comes out with a big bag in her arms, staggering a little under its weight.` + `Don't have a cow.` + `She giggles. Something's weird about her face, somehow.`，接着 `Gideon yanks the bag from Charlotte's arms.`，`Charlotte` 骂 `Cool it,` she tells Gideon, her voice sharp. `Just chill.`（见 ②）——**三个短句的对话里，谁是发号施令的那个被换掉了。** `Tracy` 拎着两杯咖啡来叫 `Ready? It's time.`，`Charlotte` 接 `It's time for emotional vomiting!`，`Brandy`/`Bella` 走开时 `Two peas in a pod, Charlotte mutters under her breath`。
 
 分节之后换地方：`We don't sit on the boulder this time.`（**全书她第一次不在那块石头上**）——`She walks us farther, to a cluster of mesquite trees. There's a cement bench beneath one.`。`Tracy` 带来消息（见 ③）：`Your mother called me. And your father.` → `She said you don't want them to come for parents day.` → `Actually, I'm not.`（她的计划）→ `If you don't want them here, they don't come here. This place is for you, not them.`（见 ③）。
 
@@ -40,7 +40,7 @@ source_text: ch22
 
 **为什么这样写**：**两次撒谎，两种技术，而第二次的漏洞是被自己一句话拆掉的。** 第一次是**降级**：`Bad phone calls, I guess.`（大概是昨天那些电话的事吧）——**注意 `I guess`（大概）在这里是她的稳定标记**（ch19 `I guess it actually has been for some time.`／ch20 `I guess I was so scared`），而**它的作用是把已知的事说成猜测**。加上 `evenly`（平静地）这个副词——**而 `evenly` 本身就是一个漏洞：一个人不需要「平静」地否认一件事，除非她知道自己需要显得平静。** 而 `Brandy` 的判词只有一句：`You're lying, she says. I can tell.`（你在撒谎。我听得出来。）——**注意她不追问内容，只判定真伪。**
 
-第二次是**最小化**（见 ⑤ 里的同一批词：`Just being nice, is all.` / `She's sad.` / `Not a big deal.`）——**三个短语构成一个递减：施动者（对她好）、对象（她难过）、规模（不算什么）**，而 `just`（只是）与 `all`（仅此而已）又各出现一次（**这是她今天第二次在同一天里用 `just` 降低某件事的份量**）。而收尾的 `We're supposed to watch out for each other, remember?`（我们得互相照应，记住了吗？）——**而 `remember?`（记住了吗？）是 `Brandy` 在替规则开口：也就是说她这句话的前半是**引用**，后半是一个反问式的提醒，而作者不给任何人名——因此读起来像是 `Bella` 在自我提醒；她把 `Tracy` 在 ch21 讲过的 `treat others with respect` / `stand up for others` 拿来当挡箭牌：她正在做的事被包装成这里教过的规矩。**
+第二次是**最小化**（见 ⑤ 里的同一批词：`Just being nice, is all.` / `She's sad.` / `Not a big deal.`）——**三个短语构成一个递减：施动者（对她好）、对象（她难过）、规模（不算什么）**，而 `just`（只是）与 `all`（仅此而已）又各出现一次（**这是她今天第二次在同一天里用 `just` 降低某件事的份量**）。而收尾的 `We're supposed to watch out for each other, remember?`（我们得互相照应，记住了吗？）——**而 `remember?`（记住了吗？）是 `Brandy` 在替规则开口：也就是说她这句话的前半是**引用**，后半是一个反问式的提醒，而作者不给任何人名——因此读起来像是 `Bella` 在自我提醒；她把「要尊重别人」这类团体里教过的规矩拿来当挡箭牌：她正在做的事被包装成这里教过的规矩。**
 
 **读者视角提示**：**而整个撒谎的现场有一个一直在场的见证者**：`Gideon's eyes flit to me as she talks about how much feed to put in the buckets.`（`Gideon` 在讲每个桶该放多少饲料时，眼睛瞟了我一下。）——**作者的 `flit`（掠过）把「瞟」写成了一次短促的移动，而这一眼的位置正好落在她撒第一个谎的那一行上。** 到了 ④，同一个人用**一个摇头**（`Ever so slightly, she shakes her head.`）完成了一次完整的干预。
 
@@ -137,7 +137,7 @@ source_text: ch22
 
 **而这个 `too`（也）是本章的核心副词，因为它在四个位置上出现过：** ch19 她对 `Tracy` 说的 `Soothing myself.` 与 `I'm not opposed to that term`（**`self-medicating` 这个词是她先接受的**）｜ch21 `Everyone gets rid of me sooner or later.`（`Holly` 的 `too` 用在了最坏的地方）｜本章 `Brandy` 那句 `The smile she gives me is kind of scary` 之外，**Dawn 的 `too` 与 Bella 的 `too` 是同一个词**。**作者的用法是：`too` 这个词在她这本书里从「也（同样坏）」一路走到「也（同样去过那种地方）」，而最后这一步是由一个不熟的人完成的，不是由机构、不是由治疗师。**
 
-**读者视角提示**：**注意这句话的主语顺序是反的**——`I know her`（我认识她）在前，`she's been places, too`（她去过那种地方）在后。**而整封信的全部重量其实在后半句：她之所以对这个人有反应，不是因为她认识她，是因为那个人去过。** 因此这六个字同时是一句**介绍**与一句**自白**——**而它被放在这本书里第三章的最后一个位置，作为对 ch19 那句 `I think I would tell him to go to hell, but forming the words would make me drop the ball.` 的一次迟到的兑现：她说不出的话，由一个她几乎不认识的人替她说了。**
+**读者视角提示**：**注意这句话的主语顺序是反的**——`I know her`（我认识她）在前，`she's been places, too`（她去过那种地方）在后。**而整封信的全部重量其实在后半句：她之所以对这个人有反应，不是因为她认识她，是因为那个人去过。** 因此这六个字同时是一句**介绍**与一句**自白**——**而它被放在这本书里第三章的最后一个位置，作为对 ch19 那句「我多想告诉他去死，可话到嘴边就说不出口」的一次迟到的兑现：她说不出的话，由一个她几乎不认识的人替她说了。**
 
 ## 本章词汇
 
@@ -145,10 +145,10 @@ source_text: ch22
 
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
 - **`Dawn` 全书 70 次**，同伴而非家人：ch04 `The group is me, Cherie, Dawn, and Lemon` ／ **ch07 `Dawn tugs my arm. "It's okay, Bella."`（她在厕所隔间里安慰过她）**／ch50 `Sharon, one of Dawn's moms,`（**两位母亲**）／ch43 共同出席。
-- **本章这封信是一条延续到 ch41 的线索**：ch41 的留言清单里 `Dawn` 至少四封——`Dawn. Hi. I just want you to know I'm thinking of you.`（**与本章信的开头几乎逐字相同**）／`Dawn. Hi. I was listening to this song today. Here it is.`／**`Dawn. I hope you got my message. The one I left with the lady at that place.`（「那个地方的那位女士」＝ `Tracy`，与本章 `Tracy takes a slip of paper from her jacket pocket` 对应）**／`Dawn. It's me again.`——**而那份清单的最后一条是 `Dylan. Hi Bella, it's me.`**
+- **本章这封信是一条延续到 ch41 的线索**：ch41 的留言清单里 `Dawn` 至少四封——`Dawn. Hi. I just want you to know I'm thinking of you.`（**与本章信的开头几乎逐字相同**）／`Dawn. Hi. I was listening to this song today. Here it is.`／**`Dawn. I hope you got my message. The one I left with the lady at that place.`（「那个地方的那位女士」＝ `Tracy`，与本章 `She takes a slip of paper from her jacket pocket and hands it to me.` 对应）**／`Dawn. It's me again.`——**而那份清单的最后一条是 `Dylan. Hi Bella, it's me.`**
 - **`Seg` 的第三次出现**：ch12 `Holly's been segregated.` → ch15 `Charlotte` 讲解 → ch21 `Gideon` 威胁 `They'll send her to Seg.` → **本章被 `Holly` 的恐惧反向使用**（④ `Holly doesn't want to go to Seg.`）
 - **同一个动物、同一个场景、两次出现，两次都是 `Tracy` 说话时不看她**：ch19 `what with hummingbirds at the feeders in the mesquite tree above us` ／ **本章 ③ `She's gazing at a hummingbird twitching by a feeder.`**
-- **`Phil` 的规矩被她援引**（④）：`didn't Phil say we have to help our friends?`——对照 ch16 `Charlotte` 讲的 `Segregation… Somebody has to hold you down.`
+- **`Phil` 的规矩被她援引**（④）：`didn't Phil say we have to help our friends?`——对照 ch16 `Charlotte` 讲的 `Segregation. Like a time-out, only it can last a really long time and you're stuck in a room with nothing and no one.`
 
 ### ⭐⭐⭐ 高级
 
@@ -188,4 +188,4 @@ source_text: ch22
 
 ## 一句话总结
 
-Day Eleven 最短（55 段 / 4,893 字节），而它装了三件事：① **两次撒谎都被一秒拆穿**（`Bad phone calls, I guess.` → `You're lying, she says. I can tell.`；`Just being nice, is all.` → `We're supposed to watch out for each other, right?`——**用这里教过的规矩当挡箭牌**），而 ④ 同一场戏里 `Gideon` 用 `Ever so slightly, she shakes her head.` 把她的开口权收了回去；② **治疗在这一章被宣布结束，理由是她做对了唯一一件不该做的事**（`This is it, we're done. Standing up to your parents was enough for a little bit, don't you think?`——而 ch21 她谈的是 `He isn't even my stepdad`，ch21 她对 `Tracy` 撒的那个谎恰好是唯一一句需要说的话）；③ **两杯咖啡从背景变成一个决定**（`Tracy hands me one of the coffees.` → `I look down at the coffee cup in my hand.` → `I can't tell.` → `No, I say quickly.`——**本章的中央动作是一次不说，而她的两句理由都是别人给的规矩**：`Holly doesn't want to go to Seg.` 与 `didn't Phil say we have to help our friends?`，只有第三句 `Ride or die, Brandy told me.` 不是权威）。而全章最好的部分是两个短句：治疗师把权力交出去的那句 `Actually, I'm not.`（对着她那句投降式的 `I don't. but I'm guessing you're going to make me. Whatever.`），和最后那封短信——`Hi, I just wanted to tell you I was thinking of you. We don't really know each other that well, but I've been places, too`——**全章六个词的收尾把 `I've been places, too` 改成了 `she's been places, too`：`I've` 变成 `she's`，这是她说不出的话由一个她几乎不认识的人替她说了。**
+Day Eleven 最短（55 段 / 4,893 字节），而它装了三件事：① **两次撒谎都被一秒拆穿**（`Bad phone calls, I guess.` → `You're lying, she says. I can tell.`；`Just being nice, is all.` → `We're supposed to watch out for each other, remember?`——**用这里教过的规矩当挡箭牌**），而 ④ 同一场戏里 `Gideon` 用 `Ever so slightly, she shakes her head.` 把她的开口权收了回去；② **治疗在这一章被宣布结束，理由是她做对了唯一一件不该做的事**（`This is it,` Tracy says. `We're done. Standing up to your parents was enough for a little bit, don't you think?`——而 ch21 她谈的是 `He isn't even my stepdad`，ch21 她对 `Tracy` 撒的那个谎恰好是唯一一句需要说的话）；③ **两杯咖啡从背景变成一个决定**（`Tracy hands me one of the coffees.` → `I look down at the coffee cup in my hand.` → `I can't tell.` → `No, I say quickly.`——**本章的中央动作是一次不说，而她的两句理由都是别人给的规矩**：`Holly doesn't want to go to Seg.` 与 `didn't Phil say we have to help our friends?`，只有第三句 `Ride or die, Brandy told me.` 不是权威）。而全章最好的部分是两个短句：治疗师把权力交出去的那句 `Actually, I'm not.`（对着她那句投降式的 `I don't. but I'm guessing you're going to make me. Whatever.`），和最后那封短信——`Hi, I just wanted to tell you I was thinking of you. We don't really know each other that well, but I've been places, too`——**全章六个词的收尾把 `I've been places, too` 改成了 `she's been places, too`：`I've` 变成 `she's`，这是她说不出的话由一个她几乎不认识的人替她说了。**

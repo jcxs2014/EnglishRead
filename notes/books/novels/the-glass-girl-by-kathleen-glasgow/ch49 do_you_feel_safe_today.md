@@ -12,7 +12,7 @@ source_text: ch49
 
 **情感弧线位置**：**弧线的最低点比 ch38 更低，因为这一次她是自己走进去的**。弧线的位置因此是**ch44 那一晚之后的第一次出门**——**而它的前半段与后半段是两种完全不同的技术**：前半是**每一句都像在谈判**（③ `Those are the conditions.`），后半是**每一句都不再是句子**（⑫⑬ 那些独立成行的短行）。
 
-**人物弧线**：① **第一次对母亲说「你得信任我」**（③ `"At some point, you have to trust me."`）——**而这一句的下一行是母亲把条件一条条摆出来**（③ `But I'm driving you there and picking you up.`）；② **第一次在别人递东西时说出「你骗了我」**（⑩ `"You lied to me," I whisper. "You said you weren't doing this stuff."`）——**而她的下一句立刻被拆掉**（⑩ `"I didn't lie to you, Bella, I lied to your mom."`）；③ **第一次把喝进去的东西吐出来**（⑬）——**而这一章的技术是让那一口酒在书里占了七行**。
+**人物弧线**：① **第一次对母亲说「你得信任我」**（③ `"At some point, you have to trust me."`）——**而这一句的下一行是母亲把条件一条条摆出来**（③ `But I'm driving you there and picking you up. You can text me when the movie's done.`）；② **第一次在别人递东西时说出「你骗了我」**（⑩ `"You lied to me," I whisper. "You said you weren't doing this stuff."`）——**而她的下一句立刻被拆掉**（⑩ `"I didn't lie to you, Bella, I lied to your mom."`）；③ **第一次把喝进去的东西吐出来**（⑬）——**而这一章的技术是让那一口酒在书里占了七行**。
 
 **叙事手法**：单视角（Bella）＋ **9 处 `—` 分节**＋ **3 处 U+00AD（按禁令 1c 不手打、不手译，只记数）**＋ **9,973 字节 / 149 段**。**结构是「五个场景 + 一次诗体」**：① 打电话 ② 电影院门口 ③ 大厅与停车场 ④ 别人家后院 ⑤ 客厅（那瓶酒）⑥ 她与 `Josh` 的对话 ⑦ **七行独立成行的诗体**（⑫⑬）。**而本章最值得学的一处是 ⑧ 那三组心脑对唱**：它们在原文里**全部小写、无标点、无引号**（`My heart says: this boy is cute you don't have to drink it just put it down`），**与全书其余 45 处的心脑格式都不一样**。
 
@@ -20,7 +20,7 @@ source_text: ch49
 
 **打电话（①）** —— `I'm coloring with Ricci when my phone buzzes.` —— `Josh.` —— （心跳拟声词）`but not in a bad way, in a nice way.` —— `I was wondering if you wanted to maybe hang out tonight, see a movie. My mom said I can borrow her car.` —— **`My brain: Say yes.`** —— **`My heart: Say yes.`** —— `Hold on, I text. Have to ask my mom.`
 
-**与母亲的谈判（②③）** —— `"My friend from rehab, Josh, texted. Can I go to a movie with him tonight?"` —— `"I don't know, Bella. Isn't it too soon?"` —— `"I have to go out sometime, Mom," I say, pleading. "At some point, you have to trust me."` —— **`"All right," she says finally. "But I'm driving you there and picking you up. And I want to meet him first, outside the theater."`** —— **`"Those are the conditions. You're fifteen. You lied about dating Dylan and you're just out of rehab. I feel like I'm being pretty nice, considering, don't you?"`**
+**与母亲的谈判（②③）** —— `"My friend from rehab, Josh, texted. Can I go to a movie with him tonight?"` —— `"I don't know, Bella. Isn't it too soon?"` —— `"I have to go out sometime, Mom," I say, pleading. "At some point, you have to trust me."` —— **`"All right," she says finally. "But I'm driving you there and picking you up. You can text me when the movie's done. And I want to meet him first, outside the theater."`** —— **`"Those are the conditions. You're fifteen. You lied about dating Dylan and you're just out of rehab. I feel like I'm being pretty nice, considering, don't you?"`**
 
 — 分节 —
 
@@ -32,7 +32,7 @@ source_text: ch49
 
 — 分节 —
 
-**后院（⑥⑦）** —— `My dad wrote me a letter after that stuff I told you about. Well, I wrote him first, and then he answered. It's complicated.` —— **`"I feel like writing them again kind of takes the impact out of the impact, if you know what I mean?"`** —— `His phone pings.` —— `We have to hop a short wall.` —— `I'm in someone's backyard, where pathway lights lead to patio doors.` —— **`"You look really cute," he says, smiling. … here you are, with your whole real face, finally."`**
+**后院（⑥⑦）** —— `My dad wrote me a letter after that stuff I told you about. Well, I wrote him first, and then he answered. It's complicated.` —— **`"I feel like writing them again kind of takes the impact out of the impact, if you know what I mean?"`** —— `His phone pings.` —— `We have to hop a short wall.` —— `We're in someone's backyard, where pathway lights lead to patio doors.` —— **`"You look really cute," he says, smiling. … here you are, with your whole real face, finally."`**
 
 — 分节 —
 
@@ -128,7 +128,7 @@ source_text: ch49
 
 **而 `The beer. In my hand.`（**那罐啤酒。在我手里。**）是全书最短的一次定语，而它的技术是**两个各带一个介词的名词短句，而它们之间的那个句点（⑤）**；**——而 `It was all so smooth and silky. In the house, then the kitchen, and now back to me,`（**这一切太顺滑、太丝滑了。先是在那栋房子里，然后在厨房里，然后现在回到我这儿，**）这一句的技术是**用三个地点把一条路线走完，而这三个地点的语法地位一次比一次低**（那栋房子／厨房／我）。
 
-**而那两次「他做了什么而她看不见」是这一段的核心（⑤）** —— `He slips his hand in his pocket and then passes something to Josh.`（**他把手伸进口袋，然后递了什么东西给 `Josh`。**）`Josh turns to the wall and bends his head slightly so I can't see what he's doing.`（**`Josh` 转向墙那边，微微低下头，让我看不见他在做什么。**）`His friend laughs.`（**他那个朋友笑了。**）—— **而这三句的技术是**第一句给动作、第二句给遮挡、第三句给一声笑**；**——而这一组与 ch32 那段（`Tracy takes our pictures in the desert`／`someone plays the video`）是同一类技术：一个人在做一件事，另一个人在看，而被瞒住的那一方是主角。**
+**而那两次「他做了什么而她看不见」是这一段的核心（⑤）** —— `He slips his hand in his pocket and then passes something to Josh.`（**他把手伸进口袋，然后递了什么东西给 `Josh`。**）`Josh turns to the wall and bends his head slightly so I can't see what he's doing.`（**`Josh` 转向墙那边，微微低下头，让我看不见他在做什么。**）`His friend laughs.`（**他那个朋友笑了。**）—— **而这三句的技术是**第一句给动作、第二句给遮挡、第三句给一声笑**；**——而这一组与 ch32 那段（`Tracy takes our pictures in the desert`／「有人把那段录像播出来」）是同一类技术：一个人在做一件事，另一个人在看，而被瞒住的那一方是主角。**
 
 **而 `The bottle is a thousand pounds but also light as a feather.`（**那罐啤酒有一千磅重，可又轻得像一片羽毛。**）是全书最好的一次矛盾修饰（⑤）** —— **而它的技术是**两个 `is`／`also` 把一个物理上不可能的状态说完了**；**——而对照 ch38 ⑦ 那句 `My stomach drops.` 与本章这一句的结构：那一章用两个词，这一章用两个完整的比喻，而两处写的都是同一只手。**
 
@@ -184,7 +184,7 @@ source_text: ch49
 
 **而那第三口的六行是全书最精确的一次身体描写，而它的技术是**一个不及物句被拆成六行（⑧）** —— `And the third sip / The one resting inside my mouth / Itchy to go down my throat and drop into the warm- / And-getting-warmer pool in my stomach / Is just swirling there, tipping over my tongue / Crashing against the sides of my mouth / The back of my teeth` —— **而它的技术是**最后那行的主语 `Is`（是）被推到第六行，而它前面要挂的东西有五个分词**；**——而 `warm-` / `And-getting-warmer` 那个连字符的技术是**它把一个形容词拆成两行，而第二行用同一个词的比较级（`warmer`）**。
 
-**而吐出来这一段的五行是全书最重要的一处分行，而它的技术是**主语从一个东西变成一个情绪再变成一个自己（⑧）** —— `It comes out with vengeance / Pushed by that anger / That somehow rose from the broken me / All over his shirt / All over the floor` —— **而它的技术是**第三行里那个 `That somehow rose from the broken me`（那股从碎掉的「我」里升起的）用 `somehow`（不知怎么地）把因果关系推开**；**——而最后两行 `All over his shirt` / `All over his floor`（**溅在他衬衫上／溅在地板上**）用同一个句型重复，而宾语一次比一次更远**。
+**而吐出来这一段的五行是全书最重要的一处分行，而它的技术是**主语从一个东西变成一个情绪再变成一个自己（⑧）** —— `It comes out with vengeance / Pushed by that anger / That somehow rose from the broken me / All over his shirt / All over the floor` —— **而它的技术是**第三行里那个 `That somehow rose from the broken me`（那股从碎掉的「我」里升起的）用 `somehow`（不知怎么地）把因果关系推开**；**——而最后两行 `All over his shirt` / `All over the floor`（**溅在他衬衫上／溅在地板上**）用同一个句型重复，而宾语一次比一次更远**。
 
 **而全章的最后三行是全书最重要的一次「她选择了动作」（⑧）** —— `And they all look at me`（**而他们全都看着我**）`I drop the bottle on the carpet`（**我把瓶子丢在地毯上**）`And pick up all the broken parts of me`（**然后捡起「我」所有的碎片**）`(I can put them back together I know I can)`（**（我能把它们拼回去，我知道我能）**）`And run, run, run`（**然后跑、跑、跑**）—— **而这四行的技术是**三个动作各占一行，第三个是捡碎片，而那个括号是全书唯一一次她对自己下的一个肯定判断**；**——而 `And run, run, run`（**然后跑、跑、跑**）这一行的三个 `run` 是这一章与 ch38 `run, run, run`（对照 ch38 ⑧ 那句 `I can't get up.`）之间最硬的对照。**
 
@@ -206,7 +206,7 @@ source_text: ch49
 - **本章 ⑧ 那十八行诗体是全书唯一的分行段落**——**而它的题材是「一口酒的三段时间」**（第一口 1 句散文／第二口 1 句散文／第三口 6 行分行／吐出来 5 行分行）——**也就是说作者把这一章最关键的一次「喝—不喝」写成了三段，而第三段是唯一被拆开的。**
 - **本章 ⑥ `I am not me.` 是 ch38 ⑦ `I'm me, but not me. I am just a thing who wants one thing.` 的三词版**——**而两处的情境正好相反**：ch38 她走进羊圈是为了喝，本章她停在别人家客厅里是为了不喝。
 - **本章 ⑥ `Like Fran said.` 把 ch38 ⑦ `I understand what Fran was talking about in group now` 那一次「事后理解」提前成了「事前预防」**——**而 ch54 作者附言里作者自己也点了同一件事：`you can have years of sobriety and suddenly the littlest thing will trigger that buried need; something inside you will take over, something you thought you'd successfully outrun.`**
-- **本章之后紧接 ch50**（`One Friend Is All You Need.`）——**而 ch50 ② 那句 `I'm a cutter.`（我以前割过腕。）与本章 ⑦ 她说的 `My friend from there died. But not from that.`（ch43 ⑧）是她把两条命连起来的第一次，也是 `Holly` 那条线在全书里的最后一次正面提及。**
+- **本章之后紧接 ch50**（`One Friend Is All You Need.`）——**而 ch50 ② 那句 `I'm a cutter.`（我以前割过腕。）与本章 ⑦ 她接住的 ch43 ⑧ 那句 `My friend from there died.` 是她把两条命连起来的第一次，也是 `Holly` 那条线在全书里的最后一次正面提及。**
 
 ### ⭐⭐⭐ 高级
 

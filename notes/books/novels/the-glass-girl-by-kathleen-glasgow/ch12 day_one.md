@@ -82,7 +82,7 @@ source_text: ch12
 
 **为什么这样写**：这是 ch12 的**中心句**，也是 ch10 那句 `I do not like this dream.` 之后她的第一次自我判决——**但判决的对象变了**：ch10 她否认正在发生的事（那叫梦），ch12 她承认自己**在别人眼里**是什么（地板上的一块口香糖）。**比喻的精确度是这一句的全部力量**：`flattened`（被踩平）、`obviously`（明摆着）、`needs mopping`（需要被清理）——三个词**逐级加强「已经没用了」**。而 `I do not matter` 用的是最短的句子形式：**作者没有让她用任何形容词修饰自己。**
 
-**读者视角提示**：这一句紧跟在 `If I was back in the world, I'd have all my friends.` 之后——**她刚想过「回到世界就会拥有朋友」，紧接着就否定自己**。这个转折是本章唯一一次她想回家。
+**读者视角提示**：这一句紧跟在她「回到世界就会重新拥有朋友」的那个念头之后——**她刚想过「回到世界就会拥有朋友」，紧接着就否定自己**。这个转折是本章唯一一次她想回家。
 
 ### ⑥
 
@@ -106,7 +106,7 @@ source_text: ch12
 
 **为什么这样写**：**全章最短的一次交锋，权力完全让渡。** 她没说「不」（`I frown. "I'm not an addict."` 她说过，但那被 Fran 一句话顶回：`Then you should leave now, I guess.`），也没喊疼（`I start to tremble.` 是身体反应，不是语言）。**她最后要的不是尊严，是闭上眼睛**——`Can I` 这个情态动词把请求的强度降到了最低，而 `finally`（终于）承认了她试过别的办法。Fran 的回答只有一个词：**`Yes`**——**施害方给了许可，被侵害方接受许可**。
 
-**读者视角提示**：`I am just a stupid and scared girl with nowhere to go.`（原书 `I'm just a stupid and scared girl with nowhere to go.`）就在这句之前两行——**作者让最诚实的自我评价和最卑微的请求连在一起，中间没有转折**。
+**读者视角提示**：`I'm just a stupid and scared girl with nowhere to go.`就在这句之前两行——**作者让最诚实的自我评价和最卑微的请求连在一起，中间没有转折**。
 
 ### ⑧
 

@@ -18,7 +18,7 @@ source_text: ch16
 
 ## 故事梗概
 
-`Chuck` 的敲门声中天还没亮，`Gideon` 说 `Welcome to your first real day of hell.`（见 ①）。晨跑十人，队伍排成长条，`Charlotte` 一边原地跑一边讲解两个词：`Segregation`（隔离，像 time-out 但可能持续很久）与 `go psycho`（发疯）——**这是本章第一个「她学会了怎么谈论这个地方」的动作**。Bella 落在最后，`Josh` 追上来：`You want company? I can do another round.` 她连拒三次（`No, I do not, and no, I don't need your company.`），他还是留下（`I'll stay with you. It's cool. Isn't that what they want here? For us to stick together?`）。红石上他问 `You still mad about the Edward comment?`（你还在为那句 Edward 的话生气吗），她说 `I don't even remember it`（我都不记得了）——**这是她今天的第一句谎**。然后他开始盯着她的脸看（见 ④），她问出来，他给出 `Busted faces.`（见 ⑤）并突然站起来走开。
+`Chuck` 的敲门声中天还没亮，`Gideon` 说的是 `Welcome,` she says, `to your first real day of hell.`（见 ①）。晨跑十人，队伍排成长条，`Charlotte` 一边原地跑一边讲解两个词：`Segregation`（隔离，像 time-out 但可能持续很久）与 `go psycho`（发疯）——**这是本章第一个「她学会了怎么谈论这个地方」的动作**。Bella 落在最后，`Josh` 追上来：`You want company? I can do another round.` 她连拒三次（`No, I do not, and no, I don't need your company.`），他还是留下（`I'll stay with you. It's cool. Isn't that what they want here? For us to stick together?`）。红石上他问 `You still mad about the Edward comment?`（你还在为那句 Edward 的话生气吗），她说 `I don't even remember it`（我都不记得了）——**这是她今天的第一句谎**。然后他开始盯着她的脸看（见 ④），她问出来，他给出 `Busted faces.`（见 ⑤）并突然站起来走开。
 
 下午 `Tracy` 的办公室比别处干净，有 `tons of plants` 和 `comfortable-looking easy chairs`。`Tracy` 问 `How do you feel?`，她答 `It's okay.`，被 `Pretty good, pretty bad, horrible, awful, scary?` 逼出 `I guess all of that.` 谈到 `anxiety attack` 时她想 `about what happened in art class`，但 `But I'm not going to tell her that.`——**于是有了本章的机制句**（见 ⑥）。`Tracy` 连问三遍 `Have your parents ever noticed your anxiety?`（见 ⑦⑧），她两次装傻（`I'm sorry, what did you ask, again?`），最后 `Tracy` 说 `I think I have my answer.`（见 ⑩），因为她膝上那堆撕碎的塑料瓶标签已经说完了。
 

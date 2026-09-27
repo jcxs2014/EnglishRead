@@ -60,7 +60,7 @@ source_text: ch40
 
 **而最后那两句是全章最好的一次同义替换（②）** —— `It's not a cage.`（这不是一个笼子。）`It's a field of possibilities,`（这是一片可能性的原野，）—— **而这一组的技术是**用两个都含「围合」意象的名词互相对照**：`cage`（笼子）是**有边界的围合**，而 `field`（原野）是**没有边界的围合**；因此作者用同一个隐喻家族里的两个词，把「被限制」和「有空间」之间的差别说成了**有没有围墙**。**
 
-**读者视角提示**：**`It's not a cage. It's a field of possibilities.`（这不是一个笼子。这是一片可能性的原野。）这一组在两天前（ch38）有过一次实战**：ch38 `Charlotte` 锁上那扇门时说 `She doesn't want to get in trouble.`／`I've done it before.`——**也就是说 `Tracy` 在这里给她的那个比喻，正是 `Charlotte` 在那栋楼里用来关她的那种东西的另一种叫法。**
+**读者视角提示**：**`It's not a cage. It's a field of possibilities.`（这不是一个笼子。这是一片可能性的原野。）这一组在两天前（ch38）有过一次实战**：ch38 `Charlotte` 锁上那扇门时说的是「他们不会把你赶出去的」／「你做的事跟这里其他人比起来不算什么」——**也就是说 `Tracy` 在这里给她的那个比喻，正是 `Charlotte` 在那栋楼里用来关她的那种东西的另一种叫法。**
 
 ### ③
 
@@ -114,7 +114,7 @@ source_text: ch40
 
 **为什么这样写**：**全章的最后一句只有十四个词，而它是全书最重要的一次「看」（⑥）。** —— `When she aims the camera at me, I look right into the lens and I do not blink.`（当她把镜头对准我时，我直直看进镜头里，而我没有眨眼。）—— **而这一句的技术是**三个动作压在一个句子里、而最后一个是否定**：`aims`（对准）、`look right into`（直直看进）、`do not blink`（没有眨眼）；——**而 `right into`（直直地、正对着）这个词组是全章的技术核心：她**没有**看向别处、**没有**看地、**没有**看 `Tracy`，她看的是**镜头本身**。**
 
-**而 `I do not blink`（我没有眨眼）与 ch34 那句 `I do know she can hear everything.`（我知道她什么都听得见）是同一种句法** ——**也就是说这一句用的是**陈述式的否定**而不是 `don't`（不）；而在本章的前四句里，作者已经用过四次 `does not` / `don't`（`The world does not break.`／`don't crumble`／`do not erupt`／`doesn't clasp`）——**因此全章的最后一句是用同一个句型，第四次说出了一件**真的**发生了的事。**
+**而 `I do not blink`（我没有眨眼）与 ch34 那句 `I know she can hear everything.`（我知道她什么都听得见）是同一种句法** ——**也就是说这一句用的是**陈述式的否定**而不是 `don't`（不）；而在本章的前四句里，作者已经用过四次 `does not` / `don't`（`The world does not break.`／`don't crumble`／`do not erupt`／`doesn't clasp`）——**因此全章的最后一句是用同一个句型，第四次说出了一件**真的**发生了的事。**
 
 **读者视角提示**：**`I do not blink.`（我没有眨眼。）与 ch39 那句 `I look…unreal.`（我看起来……不像真的。）构成一组，而两者的技术都是**把「看」这个动作拆到只剩一个否定** ——ch39 是她看照片、看自己、然后说不出形容词；本章是她看镜头、并且不眨眼；——**也就是说 ch39 她还看不清自己，ch40 她已经敢看了；而这两章之间隔着的，正是本章这十段。**
 
@@ -128,7 +128,7 @@ source_text: ch40
 - **`I'm an alcoholic.` 是全书否认链的终点，而那条链有六站**：ch11／ch12（两次 ＋ 一问）／ch15（由 `Brandy` 说）／ch19（跺脚后）／ch25（`Not yet, anyway. But it might be, someday.`）／**ch30 `I still don't think I am an addict, but yeah, there might be a problem.`**／ch35（`Tracy` 当面 `Addicts…and I am one, and always will be…`）／**本章她自己说**。
 - **她被叫过的三个名字**：ch35 `Tracy` 的 `Addicts`（成瘾的人）／ch39 `Tracy` 的 `You were a sport to her.`（你对她来说是一个玩物）／**本章她自己给的 `alcoholic`**——**而 ② 里 `Tracy` 讲的正是「给某样东西一个名字」这件事（`it's not a cage. It's a field of possibilities.`）。**
 - **`ch33` 那个 425 字节的章是本章的直接前章，而本章是它的答案**：ch33 `I'm two and a half deaths down in my lifetime and locked in a room with a futon and a beanbag.`／`They say that you'll get better here.`／**`You don't.`**——**而本章她说的那句 `I'm an alcoholic.` 正是 ch33 那句 `You don't.`（你不会。）之后，她第一次说出口的「我承认」。**
-- **`It would have been better if I had said it to a group of people` 这一层不在本章**；**本章的 `Tracy` 是当着 `Tracy` 一个人说的，而 ③ 的 `I know what she wants me to say.`（我知道她想听我说什么。）说明她自己也知道这句话是被引出来的。**
+- **「如果当初我说给一群人听就好了」这一层不在本章**；**本章的 `Tracy` 是当着 `Tracy` 一个人说的，而 ③ 的 `I know what she wants me to say.`（我知道她想听我说什么。）说明她自己也知道这句话是被引出来的。**
 - **本章与 ch36 那封信是同一件事的两种交付方式**：ch36 `We call these impact letters because we're supposed to recognize the impact our actions have had on other people, like you.`——**而本章没有任何听众（`They don't look at us.`），只有 `Tracy` 一个人。**
 - **鸟名连祷在本章一次都没有出现**——**而本章的 ① 恰好写了那群追着 `Chuck` 跑的孩子（`They don't want to get lost.`），也就是 ch14 教出这个工具的那群人。**
 - **本章之后紧接 ch41（`chap41`，29,083 字节 / 297 段，全书最大）**——**而 ch41 那一章的第一句是 `I'm sitting in the activity room with my suitcase and backpack by my feet, staring at my sneakers.`（我坐在活动室里，行李箱和背包放在脚边，盯着我的运动鞋。）——也就是说本章拍完的那张照片，是 ch41 全章的起点。**

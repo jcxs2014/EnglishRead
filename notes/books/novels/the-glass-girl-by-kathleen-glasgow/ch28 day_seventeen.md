@@ -26,7 +26,7 @@ source_text: ch28
 
 `Fran` 的回答（见 ④）：`Whatever problems you have, they're yours. They belong to you. And they are just as big to you as someone else's problem is to them. You can't compare experiences` …… **`We're only asking that you not try to drown your problems. Drown yourselves.`** ——**而 `drown` 这个动词是后 55 段那首诗的全部素材。**
 
-`Charlotte` 认出接下来要发生什么（见 ⑤）：`Wait. You're going to read the poem, aren't you?` ／ `Fran stands up. "Yes. Yes, I am."` ／ `Oh god, Charlotte murmurs, closing her eyes. "I've heard this poem three times already."` ／ `Shush, Nick says. "Let her cook."`
+`Charlotte` 认出接下来要发生什么（见 ⑤）：`Wait,` Charlotte says. `You're going to read the poem, aren't you?` ／ `Fran stands up. "Yes. Yes, I am."` ／ `Oh god, Charlotte murmurs, closing her eyes. "I've heard this poem three times already."` ／ `Shush, Nick says. "Let her cook."`
 
 然后是全章后 55 段的诗（见 ⑥⑦⑧）：从 `Something happened to you / It was awful, it was traumatic / Or maybe nothing happened to you` 到 `Smash the fun house mirror / Stop the crush smoke squeeze choke / Be you in all your terrible things / All your lonely things / All your silences and screams / Be a human on this earth, / Unafraid / Of your heart-shaped glory.`——**而全诗的核心句是重复两次的 `You cannot kill it.`（见 ⑦）与它给出的四个动作（见 ⑧：`And love it / Water it / Tend it / Talk to it / And tell it`）。**
 
@@ -92,7 +92,7 @@ source_text: ch28
 
 **关键词**：they're yours. They belong to you / just as big to you as someone else's problem is to them / You can't compare experiences / not going to go away just because you came here / We can't erase them / We can only give you some tools / responsible, healthy ways / You'll live with what you live with for the rest of your lives / not try to drown your problems. Drown yourselves
 
-**为什么这样写**：**一段把「比较」拆成对称句来反驳的讲话，而它的落点是一个自指的祈使句。** `And they are just as big to you as someone else's problem is to them.`（而且对你来说它们跟别人的问题对别人一样大。）—— **这个比较结构（`as X to you as Y is to them`）是全章唯一一次有人用形式上的对称来处理不对称的痛苦；因此这段话的形式本身就在示范它主张的东西。** ——**而它紧跟的那一句是把这句话收成一条规则的版本**：`You can't compare experiences.`（你不能比较经历。）—— **`experiences`（经历）这个词把前面那整段关于「问题」的讨论换成了一个更抽象的名词；而这个禁令与 `Charlotte` 那句 `Please, tell us your issues` 构成正反两面。**
+**为什么这样写**：**一段把「比较」拆成对称句来反驳的讲话，而它的落点是一个自指的祈使句。** `And they are just as big to you as someone else's problem is to them.`（而且对你来说它们跟别人的问题对别人一样大。）—— **这个比较结构（X to you as Y is to them 这套句法）是全章唯一一次有人用形式上的对称来处理不对称的痛苦；因此这段话的形式本身就在示范它主张的东西。** ——**而它紧跟的那一句是把这句话收成一条规则的版本**：`You can't compare experiences.`（你不能比较经历。）—— **`experiences`（经历）这个词把前面那整段关于「问题」的讨论换成了一个更抽象的名词；而这个禁令与 `Charlotte` 那句 `Please, tell us your issues` 构成正反两面。**
 
 **而这一段的第二半的三个情态动词是它的骨架，而它们一路降级：** `The problems in your lives are not going to go away just because you came here.`（不会因为你们来了这里就消失。）`We can't erase them.`（我们擦不掉它们。）`We can only give you some tools to help you deal with them in responsible, healthy ways.`（我们只能给你们一些工具。）—— **`are not going to`（不会）→ `can't`（不能）→ `can only`（只能）——**三个模态的强度依次下降，而这一降级本身就是一个诚实的机构自述。**
 
@@ -124,13 +124,13 @@ source_text: ch28
 
 **关键词**：Something happened to you / Or maybe nothing happened to you / if it is nothing, or / If it is something, it's still inside you / It still feels the same / a heaviness, a pain, a feeling of emptiness / It all weighs the same / you smoke it down, or you choke it down / whatever liquid drowns it quicker
 
-**为什么这样写**：**全诗的第一句与第三句是同一个句型，而第三句是它的否定形式——因此这首诗的第一件事是把「有没有发生」这个问题取消掉。** `Something happened to you`（有东西发生在你身上）／`Or maybe nothing happened to you`（或者也许什么都没发生在你身上）—— **两句的结构完全对称（`X happened to you`／`nothing happened to you`），而第二句在句中加了两个词（`Or maybe`）——**这两个词是全诗最重要的一次语气调节：**它把「什么也没发生」从一个断言降级成一个可能性。**
+**为什么这样写**：**全诗的第一句与第三句是同一个句型，而第三句是它的否定形式——因此这首诗的第一件事是把「有没有发生」这个问题取消掉。** `Something happened to you`（有东西发生在你身上）／`Or maybe nothing happened to you`（或者也许什么都没发生在你身上）—— **两句的结构完全对称（Something happened to you／nothing happened to you 这一对），而第二句在句中加了两个词（`Or maybe`）——**这两个词是全诗最重要的一次语气调节：**它把「什么也没发生」从一个断言降级成一个可能性。**
 
 **而接下来两个条件句是这一段的技术核心，而它们把同一个句型拆成两半：** `Whatever it is, if it is nothing, or / If it is something, it's still inside you`（无论它是什么，如果它是没有，／如果它是有什么，它还在你里面）—— **`Whatever it is`（无论它是什么）是一个前置让步，而紧跟的两个 `if` 是两个互斥分支，而两个分支的结论是同一个：它还在你里面。** ——**换句话说：这首诗的第一段论证是「无论有没有发生，那件事都还在」；而这个论证的支点是 `still inside you`（还在你里面）这个方位短语——`inside` 是全诗出现最多的空间词。**
 
 **而第三段是这首诗第一次给出可数的感受，而它给了三个：** `It still feels the same, a heaviness, a pain, a feeling of emptiness`（它感觉起来还是一样：一种沉重、一种痛、一种空的感觉）—— **`It still feels the same`（它感觉起来还是一样）里的 `still`（还是）是这段的支点，而 `same` 里的 `the` 指向前面那件「东西」；而三个名词短语分别是重量词（`a heaviness`）、身体词（`a pain`）、缺席词（`a feeling of emptiness`）——**而 `emptiness`（空）是三个里唯一带 `of` 的，因为空不是一种感觉而是一种状态。** 紧跟着的 `It all weighs the same`（它全都一样重）—— **`all`（全部）与 `weighs`（称重）这一组合把上一段那三个定语（沉重、痛、空）统一成同一个物理量：重量。**
 
-**而这一段的最后两句是全诗从「感受」转向「动作」的接缝，而它的技术是并列两个不及物动词：** `So you smoke it down, or you choke it down`（于是你把它熏下去，或者你把它呛下去）／`With whatever liquid drowns it quicker`（用什么能更快淹掉它的液体）—— **`smoke` 与 `choke` 在这里都不是及物的日常用法（`smoke` 通常是 `smoke cigarettes`、`choke` 通常是 `choke on something`），而作者给它们各加一个 `it down`——因此这两个动作在诗里是「把某物按下去」的力，而 `down`（下去）是全诗反复出现的一个方向词（见 ⑧ 的 `drown it down`／`choke it down`）。** ——**而 `With whatever liquid drowns it quicker`（用什么能更快淹掉它的液体）里的 `quicker`（更快）是全诗的第一处比较级，而它比较的是「速度」而不是「强度」——**因此这一行的意思是：**你在选一种更快的办法。**
+**而这一段的最后两句是全诗从「感受」转向「动作」的接缝，而它的技术是并列两个不及物动词：** `So you smoke it down, or you choke it down`（于是你把它熏下去，或者你把它呛下去）／`With whatever liquid drowns it quicker`（用什么能更快淹掉它的液体）—— **`smoke` 与 `choke` 在这里都不是及物的日常用法（smoke 通常搭配 cigarettes、choke 通常搭配 on something），而作者给它们各加一个 `it down`——因此这两个动作在诗里是「把某物按下去」的力，而 `down`（下去）是全诗反复出现的一个方向词（见 ⑧ 的 `drown it down`／`choke it down`）。** ——**而 `With whatever liquid drowns it quicker`（用什么能更快淹掉它的液体）里的 `quicker`（更快）是全诗的第一处比较级，而它比较的是「速度」而不是「强度」——**因此这一行的意思是：**你在选一种更快的办法。**
 
 **读者视角提示**：**而这四段是 ch20 那段起源场景的通用版**——ch20 她写 `and I said it looked like melted candy, and she poured some in a cup for me`（我说它看起来像融化的糖，她就往我杯子里倒了一些），而本章的诗说 `With whatever liquid drowns it quicker`（用什么能更快淹掉它的液体）——**而诗里这句的宾语是「它」（那件事），ch20 那句的宾语是「我」；因此这一个跨章对照正好是 ⑦ 那句 `But that is still you` 的预告。**
 

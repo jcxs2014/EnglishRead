@@ -10,9 +10,9 @@ source_text: ch44
 
 **一句话概括**：**这一章的标题是一句反话，而全章的落点是一只还没拆封的相机**——开头是两只啤酒瓶（`A beer bottle on the counter.` / `Actually, two. And a few in the sink.`），中间是全书**唯一一次心与脑交换了立场**（⑩ `My heart: You know what you need to do, even though it's going to suck, hard.` / `My brain: I support your heart, wholeheartedly. Get it?`），而结尾是 `Tracy` 留在她行李箱里的礼物（⑫ `It's a Polaroid camera and a pack of film.` / `Aim it toward myself and click.`）——**她从父亲家逃出来，而她带走的唯一一件东西是一台能自己给自己拍照的机器。**
 
-**情感弧线位置**：**弧线从「机构」落到「家」，而这一章的落点是全书最狠的一次发现：机构教她保护自己的那套办法在家里完全失效**（⑩ `I can't get myself out of here.`）。弧线的位置因此是**ch39 那句 `Yes, I need help.` 之后的第一次「自己想办法」**——**而这一次她想到的办法是 ch42 那个女孩教她的（`Sometimes you have to lie to save yourself.`），也就是说这一章的求生工具来自她两周前在教堂地下室听到的一句话。**
+**情感弧线位置**：**弧线从「机构」落到「家」，而这一章的落点是全书最狠的一次发现：机构教她保护自己的那套办法在家里完全失效**（⑩ `I can't get myself out of here.`）。弧线的位置因此是**ch39 那句 `Yes,` 接着 `I need help.` 之后的第一次「自己想办法」**——**而这一次她想到的办法是 ch42 那个女孩教她的（`Sometimes you have to lie to save yourself.`），也就是说这一章的求生工具来自她两周前在教堂地下室听到的一句话。**
 
-**人物弧线**：① **第一次用「我」替家里下定义**（⑨ `"It's my house," my dad says firmly.` 的对立面是她自己那句 `"Dad," I say, "I can't be around alcohol. I'm not supposed to."`）——**而这一章她真正的动作不是争辩，是走**（⑩ `"I'm feeling a little overwhelmed, so I'm going take a quick walk around the block to get some air, okay?"`）；② **第一次拒绝一个绰号并给出理由**（⑩ `"Can you not call me Belly anymore? It makes me uncomfortable.`）——**而这句话她 ch04 就说过一次（`"I don't like it when you call me that, Hoyt," I say.`），两句几乎同构**；③ **第一次主动开口求助**（⑫ `Can I talk to you? Like really talk to you?` / `…I miss you.`）——**而她求助的对象是 ch35 那个只给了她十分钟的 `Josh`，而她 `Without thinking, I text him back.`**
+**人物弧线**：① **第一次用「我」替家里下定义**（⑨ `"It's my house," my dad says firmly.` 的对立面是她自己那句 `"Dad," I say, trying to keep my voice neutral, "I can't be around alcohol. I'm not supposed to."`）——**而这一章她真正的动作不是争辩，是走**（⑩ `"I'm feeling a little overwhelmed, so I'm going take a quick walk around the block to get some air, okay?"`）；② **第一次拒绝一个绰号并给出理由**（⑩ `"Can you not call me Belly anymore? It makes me uncomfortable.`）——**而这句话她 ch04 就说过一次（`"I don't like it when you call me that, Hoyt," I say.`），两句几乎同构**；③ **第一次主动开口求助**（⑫ `Can I talk to you? Like really talk to you?` / `…I miss you.`）——**而她求助的对象是 ch35 那个只给了她十分钟的 `Josh`，而她 `Without thinking, I text him back.`**
 
 **叙事手法**：单视角（Bella）＋ **3 处 `—` 分节**＋ 0 处 U+00AD ＋ **18,167 字节 / 199 段**。**结构是「四个分节 = 四次搬家」**：① 父亲家客厅（啤酒）② `Vanessa` 与床单（谎）③ 车里与母亲家（说真话）④ 自己的床（`Polaroid`）。**而这一章的标题形态与 ch42 一样是一个陈述句，但它是一个**关于**某件事有多难**的陈述，而正文里的家是全书唯一一个她必须逃离的地方。**
 
@@ -24,7 +24,7 @@ source_text: ch44
 
 **酒（③④）**：`A beer bottle on the counter.` → **`Actually, two. And a few in the sink.`** → `I swallow.` → `"I just thought…that you wouldn't have any here. Mom doesn't have anything in her house." My voice is quavery.` → `"Well, that's your mom's house and this is mine."` → `"where I was for a drinking problem"` → **`The smile dies on my dad's face. He winces.`** → `"I really don't like that word," he says. "Rehab. Like you're a house that needs work. You're fifteen, not fifty, you know?"`
 
-**`Vanessa`（⑤⑥）**：`That would be Vanessa.` → `I thought Vanessa was gone.` → `But there she is in the open doorway, a big smile on her face.` → `He heads to the kitchen. Opens the refrigerator door. Pulls out a beer.` → `"I'm going to my room for a bit," I say, griting my teeth. "Change the sheets and straighten up."` → `This is a double.` → `"That sounds like your dad," she says lightly.` → `"I'm really sorry I missed all the signs. I should have been better. I should have been more cognizant. More present."` → `"Actually," I say, "you were pretty present."`
+**`Vanessa`（⑤⑥）**：`That would be Vanessa.` → `I thought Vanessa was gone.` → `But there she is in the open doorway, a big smile on her face.` → `He heads to the kitchen. Opens the refrigerator door. Pulls out a beer.` → `"I'm going to my room for a bit," I say, gritting my teeth. "Change the sheets and straighten up."` → `This is a double.` → `"That sounds like your dad," she says lightly.` → `"I'm really sorry I missed all the signs. I should have been better. I should have been more cognizant. More present."` → `"Actually," I say, "you were pretty present."`
 
 **`Hoyt`（⑧⑨）**：`I freeze. Why is Hoyt here? It's my first night back with Dad. It should just be…family.` → `Hoyt yells, "Belly!"` → **`My stomach drops.`** → `But I got myself out of there. I can't get myself out of here.` → `"Belly," Hoyt says. "You look fantastic, kid. I'm so proud of you. You made it."` → `the big smile on Hoyt's face disappears as gears and pulleys do the magic in his brain` → `"Dan," Vanessa says, turning to the kitchen. "Maybe let's skip beer and the wine, tonight, okay?"` → `"It's my house," my dad says firmly. "I had a long day."`
 
@@ -58,7 +58,7 @@ source_text: ch44
 
 **而她自己的回应把这一段的温度降到了最低（①）** —— `"I don't really mind," I say. "I'd rather not stress out about it."`（**「我不太介意，」我说。「我宁愿不要为这个焦虑。」**）—— **而这两句的技术是**两个 `not` / `rather not` 把她的所有反应都写成了消极的选择**；——**而这一段因此没有一个人真的高兴：父亲在演高兴，`Ricci` 在抱怨，她在防守。**
 
-**读者视角提示**：**`you can make up that work`（那些活儿你可以补上）与 ⑨ 的 `I'm not the one with the problem`（有问题的那个人不是我）是一组** ——**而这两句都出自同一个人，而它们的功能正好相反：前者是把责任交给她，后者是把它推开；**——**也就是说这一整章里，她父亲对「谁的问题」这件事的立场从「你欠的」移到了「不是我」，而她自己的立场从 ch40 的 `I'm an alcoholic.` 移到了 ⑨ 的 `Dad, I can't be around alcohol. I'm not supposed to.`**
+**读者视角提示**：**`you can make up that work`（那些活儿你可以补上）与 ⑨ 的 `I'm not the one with the problem`（有问题的那个人不是我）是一组** ——**而这两句都出自同一个人，而它们的功能正好相反：前者是把责任交给她，后者是把它推开；**——**也就是说这一整章里，她父亲对「谁的问题」这件事的立场从「你欠的」移到了「不是我」，而她自己的立场从 ch40 的 `I'm an alcoholic.` 移到了 ⑨ 的 `"Dad," I say, trying to keep my voice neutral, "I can't be around alcohol. I'm not supposed to."`**
 
 ### ②
 
@@ -98,13 +98,13 @@ source_text: ch44
 
 **中文理解**：——**门上有一阵试探的敲门声。**——**「哎！」爸爸说。他清了清嗓子。「那是 `Vanessa`。」**——**我盯着门，看着他从我身边擦过去开门。我以为 `Vanessa` 走了。我以为我在 `Seg` 的时候 `Ricci` 在电话里是那么说的。**——**可是她就站在开着的门口，脸上一个大大的笑容。`Ricci` 跑过去抱她。**——**「你回来啦！」`Ricci` 尖叫道。**——**「哦，就是来一小趟，」她说着越过 `Ricci` 的头顶看我，手在 `Ricci` 背上抚着。「来跟 `Bella` 打个招呼，再拿点东西。」**——**「呃，」爸爸说，听起来有点紧张。「进来吧。披萨在路上。你想喝点什么？」**——**他走进厨房。打开冰箱门。拿出一罐啤酒。**——**「我要回房间待一会儿，」我咬着牙说。「换床单、把房间收拾整齐。」**
 
-**关键词**：There's a tentative knock on the door / He clears his throat / That would be Vanessa / I stare at the door as he brushes past me / I thought Vanessa was gone / I thought Ricci said that on the phone when I was in Seg / there she is in the open doorway, a big smile on her face / Ricci runs over to hug her / You're back! Ricci squeals / just here for a little visit / To say hi to Bella and pick up some things / sounding a little nervous / You want something to drink? / He heads to the kitchen / Pulls out a beer / griting my teeth / Change the sheets and straighten up
+**关键词**：There's a tentative knock on the door / He clears his throat / That would be Vanessa / I stare at the door as he brushes past me / I thought Vanessa was gone / I thought Ricci said that on the phone when I was in Seg / there she is in the open doorway, a big smile on her face / Ricci runs over to hug her / You're back! Ricci squeals / just here for a little visit / To say hi to Bella and pick up some things / sounding a little nervous / You want something to drink? / He heads to the kitchen / Pulls out a beer / gritting my teeth / Change the sheets and straighten up
 
 **为什么这样写**：**这一段的技术是**用一个名字纠正一个她以为是事实的判断，而纠正者不是她（④）。** —— `I thought Vanessa was gone. I thought Ricci said that on the phone when I was in Seg.`（**我以为 `Vanessa` 走了。我以为我在 `Seg` 的时候 `Ricci` 在电话里是那么说的。**）—— **而这两句的技术是**同一个判断被说了两遍，而第二遍给它加了一个来源**（`Ricci said that on the phone`）；——**而紧跟的 `But there she is in the open doorway, a big smile on her face.`（**可是她就站在开着的门口，脸上一个大大的笑容。**）用一个 `But` 把那两句话整个掀掉**。
 
 **而父亲那四个动作是这一章的转折（④）** —— `He heads to the kitchen. Opens the refrigerator door. Pulls out a beer.`（**他走进厨房。打开冰箱门。拿出一罐啤酒。**）—— **而这三个短句的技术是**主语不变、动词一个比一个具体**；——**而这与 ③ 里 `A beer bottle on the counter.` 的「看见」形成一组：那一次她看到的是结果（台面上、静止的瓶子），这一次她看到的是**动作**（拿出来）**——也就是说这一章的酒从「已经在那里」变成了「正在被拿出来的」。
 
-**而她自己那句是本章第一次反客为主（④）** —— `"I'm going to my room for a bit," I say, griting my teeth. "Change the sheets and straighten up."`（**「我要回房间待一会儿，」我咬着牙说。「换床单、把房间收拾整齐。」**）—— **而它的技术是**她把父亲刚才禁止她的那件家务（② `Put that down.`）**当作命令说了出来**；**而 `griting my teeth`（咬着牙）这个分词是她这一段唯一的情绪出口，而它出现在第二个句子之前**；——**而更关键的是这句话的宾语是「房间」，而这一章她后来真的没有回到那个房间以外的任何地方。**
+**而她自己那句是本章第一次反客为主（④）** —— `"I'm going to my room for a bit," I say, gritting my teeth. "Change the sheets and straighten up."`（**「我要回房间待一会儿，」我咬着牙说。「换床单、把房间收拾整齐。」**）—— **而它的技术是**她把父亲刚才禁止她的那件家务（② `Put that down.`）**当作命令说了出来**；**而 `gritting my teeth`（咬着牙）这个分词是她这一段唯一的情绪出口，而它出现在第二个句子之前**；——**而更关键的是这句话的宾语是「房间」，而这一章她后来真的没有回到那个房间以外的任何地方。**
 
 **读者视角提示**：**`I thought Ricci said that on the phone when I was in Seg.`（我以为我在 `Seg` 的时候 `Ricci` 在电话里是那么说的。）这一句是 ch34 那通电话的**误读**，而它在这里被作者自己点破了** ——**也就是说 ch34 ⑧ 里 `Ricci` 问 `Are you…going to die, like Grandma?` 那一段的通话内容，让她以为 `Vanessa` 已经离开了这个家；而本章的 `Vanessa` 是全书唯一一个既不在这个家、又没有真正离开的人。**
 
@@ -174,7 +174,7 @@ source_text: ch44
 
 **而那只盘子是这一段唯一一次物理性的升级（⑧）** —— `He pulls a plate from the cabinet and sets it down, hard, on the countertop, dragging some pizza slices onto it.`（**他从柜子里拉出一个盘子，重重地搁在厨房台面上，把几块披萨片拖到上面。**）—— **而 `hard`（重重地）这个副词是这一段里唯一的暴力，而它用在一个盘子上**；——**而它紧跟在那个没说完的省略号后面，因此这一段的收尾方式是把一个句子换成一个动作。**
 
-**读者视角提示**：**`Dad, I say, trying to keep my voice neutral, I can't be around alcohol. I'm not supposed to.`（爸，我努力让声音平稳地说，我不能待在有酒的地方。我不应该。）是全书她第一次用「规则」而不是「感受」跟父亲说话** ——**而 `I'm not supposed to.`（我不应该。）这四个字是本章的语体分界线：它与 ch42 `Beth` 说的 `How many days do you have, if I may ask?` 属于同一种语言**，而它与她父亲那句 `I'm not the one with the problem`（有问题的那个人不是我）也属于同一种语言**——也就是说这一对父女在这一段里是用**同一套语法**在争同一件事。**
+**读者视角提示**：**`"Dad," I say, trying to keep my voice neutral, "I can't be around alcohol. I'm not supposed to."`（爸，我努力让声音平稳地说，我不能待在有酒的地方。我不应该。）是全书她第一次用「规则」而不是「感受」跟父亲说话** ——**而 `I'm not supposed to.`（我不应该。）这四个字是本章的语体分界线：它与 ch42 `Beth` 说的 `How many days do you have, if I may ask?` 属于同一种语言**，而它与她父亲那句 `I'm not the one with the problem`（有问题的那个人不是我）也属于同一种语言**——也就是说这一对父女在这一段里是用**同一套语法**在争同一件事。**
 
 ### ⑨
 
@@ -228,7 +228,7 @@ source_text: ch44
 
 **而本章唯一一次关于她父亲的评价是别人说的（⑪）** —— `"I think you should let Dad take care of the laundry," I say. "For once."`（**「我觉得你该让爸爸负责洗衣服，」我说。「就这一次。」**）—— **而它的技术是**一个以 `For once.`（就这一次。）独立成句的补充**；——**而这一句的讽刺对象是 ② 里那件她被禁止的家务，也就是说她在被赶出这个家的时候，**替它下的最后一句评语是关于洗衣服的。**
 
-**读者视角提示**：**`Thanks, I say simply.`（谢谢。我只是这么说。）是这一段最省力的三个词，而它是全书她对一个成年人说过的最短的一次感谢** ——**而对照 ch34 ⑧ 那通电话里她对 `Ricci` 的 `I love you, Ricci.`／对父亲的 `I'll see you soon.`，这一句的克制是新的**——**也就是说她在这一章里学会了**对成年人只说必要的话**，而这个技能她在 ch43 ① 那天就已经用过一次（`We aren't allowed to use our phones during class.`）。**
+**读者视角提示**：**`Thanks, I say simply.`（谢谢。我只是这么说。）是这一段最省力的三个词，而它是全书她对一个成年人说过的最短的一次感谢** ——**而对照 ch34 ⑧ 那通电话里她对 `Ricci` 与对父亲各自说过的那两句，这一句的克制是新的**——**也就是说她在这一章里学会了**对成年人只说必要的话**，而这个技能她在 ch43 ① 那天就已经用过一次（`We aren't allowed to use our phones during class.`）。**
 
 ### ⑫
 

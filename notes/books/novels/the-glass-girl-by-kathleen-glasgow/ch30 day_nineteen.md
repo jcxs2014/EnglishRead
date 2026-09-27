@@ -66,7 +66,7 @@ source_text: ch30
 | **ch11** L864 | `"I'm not an alcoholic," I say, my voice rising.` | 一次，**声音提高** |
 | **ch12** L539 | `I'm not an addict. I'm not an alcoholic. Are they even the same thing? I take a deep breath to calm myself.` | **两次 ＋ 一个问句**，然后自己深呼吸 |
 | **ch15** L482 | `"I'm not an alcoholic," Brandy says. "I'm not addicted. I can stop any time I want."` | **由 `Brandy` 说**，并加了 `I can stop any time I want.` |
-| **ch19** | `I stomp my foot and immediately feel embarrassed. I'm not an alcoholic.` | 跺脚**之后**说的 |
+| **ch19** | `I stomp my foot and immediately feel embarrassed. I'm not five. "I'm not an alcoholic."` | 跺脚**之后**说的 |
 | **ch25** | `Some of you are thinking, well, that's not me… Not yet, anyway. But it might be, someday.` | **改成第三人称的转述**，并被 `Fran` 改回第二人称 |
 | **ch30** | `I still don't think I am an addict, but yeah, there might be a problem.` | **仍然否认，但让出了一步** |
 
@@ -86,9 +86,9 @@ source_text: ch30
 
 **而她对 `Amber` 那句最后通牒的回应是三句，而第三句是本章唯一一次她对 `Amber` 说「我怕」：** `And you were right.`（你说得对。）`I was hurting the both of us.`（我在伤害我们两个。）`And I didn't want to lose you.`（而我不想失去你。）—— **而 `the both of us`（我们两个）这个说法在下一段会以 `the both of them`（他们两个）的形式重现，因此这三个字（`the both of`）在这一章里被用了两次，一次对着朋友、一次对着父母。**
 
-**而第二个理由的技术是三个叠加：** `after you left, my parents did what they always do`（你离开之后，我父母就做了他们一向做的事）—— **`what they always do`（他们一向做的事）这个定语从句把一次具体事件放进了一个循环，而 `always`（一向）这个词在 ch20 那句 `my parents did what they always do: they yelled and screamed at each other` 里是逐字相同的** ——**换句话说：ch20 她在写给母亲的信里说了这件事，ch30 她把它写成了「第二个理由」——**而 ch20 那封信里她说的是 `I don't want to see you on parents day` 与 `I don't want to listen to the both of you complain about each other any more in front of me`（我不要再听你们俩在我面前互相抱怨），**而本章的版本是 `I just wanted to get the hell away from the both of them`（我只是一心想离他们两个远远的）——同一个意思，一个用抱怨的宾语，一个用距离的宾语。** 而 `about whose fault I was, et cetera, et cetera`（吵是谁的错，诸如此类诸如此类）—— **`et cetera` 出现两次，而这一处是她在书里第一次用这个拉丁式缩写，而它在这里的作用是把一场持续二十年的争吵缩成一个可省略的尾巴。**
+**而第二个理由的技术是三个叠加：** `after you left, my parents did what they always do`（你离开之后，我父母就做了他们一向做的事）—— **`what they always do`（他们一向做的事）这个定语从句把一次具体事件放进了一个循环，而 `always`（一向）这个词正是本书里「父母对吵」那一段的定语从句核心** ——**换句话说：ch20 她在写给母亲的信里说了这件事，ch30 她把它写成了「第二个理由」——**而 ch20 那封信里她说的是 `I don't want to see you on parents day` 与 `I don't want to listen to the both of you complain about each other any more in front of me`（我不要再听你们俩在我面前互相抱怨），**而本章的版本是 `I just wanted to get the hell away from the both of them`（我只是一心想离他们两个远远的）——同一个意思，一个用抱怨的宾语，一个用距离的宾语。** 而 `about whose fault I was, et cetera, et cetera`（吵是谁的错，诸如此类诸如此类）—— **`et cetera` 出现两次，而这一处是她在书里第一次用这个拉丁式缩写，而它在这里的作用是把一场持续二十年的争吵缩成一个可省略的尾巴。**
 
-**读者视角提示**：**而这第二个理由的真话强度是本章最高的，因为它是唯一一个她用了双重限定才敢说出来的**：`if I'm being completely honest`（如果我完全诚实地说）—— **而这一句与 ch20 那句 `And I don't want you to hate Grandma for what she did, so I will probably cross this out.`（我不想你因为她做的事而恨奶奶，所以我大概会把这一段划掉。）是同一种修辞——两者都用一个前置状语句来为自己的诚实买保险，而 ch20 她买了保险却没有划，ch30 她买了保险然后照说了。**
+**读者视角提示**：**而这第二个理由的真话强度是本章最高的，因为它是唯一一个她用了双重限定才敢说出来的**：`if I'm being completely honest`（如果我完全诚实地说）—— **而这一句与 ch20 那句 `Anyway. I don't want you to hate Grandma for what she did, so I will probably cross this out.`（我不想你因为她做的事而恨奶奶，所以我大概会把这一段划掉。）是同一种修辞——两者都用一个前置状语句来为自己的诚实买保险，而 ch20 她买了保险却没有划，ch30 她买了保险然后照说了。**
 
 ### ④
 
@@ -98,7 +98,7 @@ source_text: ch30
 
 **关键词**：Thank you for scaring the shit out of me / you wouldn't be my friend / I know that's a weird way to put it, but it's true / I have to accept / might have ruined our friendship forever / That's on me
 
-**为什么这样写**：**一句感谢，而它感谢的内容是一句威胁——而作者用三个技术让这句感谢站得住。** `Thank you for scaring the shit out of me by telling me you wouldn't be my friend.`（谢谢你用「我不做你朋友了」这句话把我吓得魂都没了。）—— **技术点：① `scare the shit out of me`（把我吓得魂都没了）这个习语里的 `the shit` 是全句唯一的粗口，而它出现在一封机构布置的道歉信里——因此粗口的位置本身是修辞性的：它被放进了一个感谢的结构；② `by telling me`（用「告诉你」这个方式）里的 `by` 把「方式」写进了感谢，而她感谢的正是那个方式；③ 而 `I know that's a weird way to put it, but it's true.`（我知道这么说很奇怪，但这是真的。）——**而这一句是本章唯一一次她预先替自己辩护，而它用的结构是「我知道 X 奇怪，但是真的」——**这个 `but` 把「奇怪」让给了「真」，而她要保住的正是后者。**
+**为什么这样写**：**一句感谢，而它感谢的内容是一句威胁——而作者用三个技术让这句感谢站得住。** `Thank you for scaring the shit out of me by telling me you wouldn't be my friend.`（谢谢你用「我不做你朋友了」这句话把我吓得魂都没了。）—— **技术点：① `scaring the shit out of me`（把我吓得魂都没了）这个习语里的 `the shit` 是全句唯一的粗口，而它出现在一封机构布置的道歉信里——因此粗口的位置本身是修辞性的：它被放进了一个感谢的结构；② `by telling me`（用「告诉你」这个方式）里的 `by` 把「方式」写进了感谢，而她感谢的正是那个方式；③ 而 `I know that's a weird way to put it, but it's true.`（我知道这么说很奇怪，但这是真的。）——**而这一句是本章唯一一次她预先替自己辩护，而它用的结构是「我知道 X 奇怪，但是真的」——**这个 `but` 把「奇怪」让给了「真」，而她要保住的正是后者。**
 
 **而全章的承担句是三个成分，而最后一个是本章最短的一次断言：** `I have to accept that my actions might have ruined our friendship forever. That's on me.`（我必须接受我的行为可能永远毁掉了我们的友谊。这在我。）—— **而这里有一个可注意的时态与情态的组合：`have to accept`（必须接受）是现在时＋情态动词，而 `might have ruined`（可能已经毁了）是一个完成时的可能式——因此「毁掉」这件事在语法上被放进了过去，而接受它这件事被放进了现在；作者让这两件事发生在同一段里。** ——**而 `That's on me.`（这在我。）三个词，零主语零助动词：**这是本书里她第一次用三个词承担一件具体的事，而对照 ch19 那句 `I'm broken and I'm breaking things. That's my life now.`（我碎了，而我在砸东西。这就是我现在的生活。）**——那一次是概括，这一次是归属。**
 
@@ -143,7 +143,7 @@ source_text: ch30
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
 - **本章引用 `Tracy` 时改了前半句，而后半逐字相同**：ch29 L64 `The world can be a very bad place, Bella. Sometimes we try to help people and they slip away anyway. And you have to let them go.` → **本章 L23 `One of the counselors, Tracy, said that sometimes you care about people, but they slip away anyway, and you have to let them go.`** ——**改动三处：主语 `we try to help people` → `you care about people`、连词 `And` → `and`、整句首字母大写 → 小写。**
 - **「我不是酒鬼」那句的六次分布**（全部已 grep 逐行核实）：ch11 L864 `"I'm not an alcoholic," I say, my voice rising.` ／ **ch12 L539 `I'm not an addict. I'm not an alcoholic. Are they even the same thing? I take a deep breath to calm myself.`** ／ **ch15 L482 `"I'm not an alcoholic," Brandy says. "I'm not addicted. I can stop any time I want."`（由 `Brandy` 说，并加了 `I can stop any time I want.`）** ／ ch19（跺脚之后）／ ch25 `Not yet, anyway. But it might be, someday.`（被 `Fran` 改回第二人称）／ **本章 `I still don't think I am an addict, but yeah, there might be a problem.`** —— **六次里前五次是纯否认，第六次是第一次带条件的承认；且本章的 `might be a problem` 与 ch25 `Fran` 那句 `But it might be, someday.` 是同一个 `might`。**
-- **第二个理由与 ch20 逐字同源**：ch20 `my parents did what they always do: they yelled and screamed at each other` → **本章 `my parents did what they always do: they yelled and screaming at each other about whose fault I was`**，而意思也同源（ch20 `I don't want to listen to the both of you complain about each other any more in front of me` → **本章 `I just wanted to get the hell away from the both of them`**）：**一个用抱怨的宾语，一个用距离的宾语。**
+- **第二个理由与 ch20 逐字同源**：ch20 `my parents did what they always do: they yelled and screamed at each other` → **本章 `my parents did what they always do: they yelled and screamed at each other about whose fault I was`**，而意思也同源（ch20 `I don't want to listen to the both of you complain about each other any more in front of me` → **本章 `I just wanted to get the hell away from the both of them`**）：**一个用抱怨的宾语，一个用距离的宾语。**
 - **`someday` 的承诺链**：ch26 `Holly` 问 `You haven't said… how that happened.` → `Someday I will, I tell her. "I promise."` → **本章 `but maybe someday I can tell you about it`** ——**她 ch26 向一个女孩承诺「总有一天我会说」，本章向一个不在这里的人承诺「也许有一天我能告诉你」。**
 - **`Fire` 的三次不懂**：ch29 `You have Fire in two days.` ／ ch29 `whatever exactly that is` ／ **本章 `I'm going to make Fire tomorrow. I'm still not sure exactly what that means`** ——**而 ch31（Day Twenty）即 Fire Day。**
 - **`if I'm being completely honest` ＝ch20 的保险句同型**：ch20 `I don't want you to hate Grandma for what she did, so I will probably cross this out.`（**买了保险却没有划**）→ **本章 `if I'm being completely honest, I just wanted to get the hell away from the both of them.`（买了保险然后照说了）。**

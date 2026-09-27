@@ -80,7 +80,7 @@ source_text: ch13
 
 **为什么这样写**：**全章最短的一次拒绝，而她说的是两句祈使句。** 第一句 `Look at me`（看着我）是**把 Tracy 的要求原样扔回去**——Tracy 说的是 `Look at them.`（看他们，指那面 Polaroid 墙），她改成 `Look at me.`：**要求对象从「别人的故事」换成「我的」。** 第二句 `I don't want to` 才是拒绝，**而它没有宾语**——`want to` 后面是空的，**她没说不想看什么**。作者让语法上的空缺承担情绪上的重量。
 
-**读者视角提示**：ch09 她在美术课上被要求 `examine the process of self-portraiture`（分析自画像的创作过程）时心里想 `that just makes me want to run`。**本章是同一个场景的极端版**：不是分析过程，是**直接拍下一张**。**九章前她能跑，这里她跑不掉（ch12 的结尾已经写死了 `I'm too tired and achy to run.`）。**
+**读者视角提示**：ch09 她在美术课上被要求 `examine the process of self-portraiture`（分析自画像的创作过程）时心里想「这让我只想跑」。**本章是同一个场景的极端版**：不是分析过程，是**直接拍下一张**。**九章前她能跑，这里她跑不掉（ch12 的结尾已经写死了 `I'm too tired and achy to run.`）。**
 
 ### ⑥
 
@@ -90,7 +90,7 @@ source_text: ch13
 
 **关键词**：I know what you're thinking / You've written a whole novel about me / pops out her entire top row of teeth / I wouldn't want to read it / You are. And you will.
 
-**为什么这样写**：**Tracy 用 Bella 自己的武器反驳她——她也是靠"看"写别人的。** `You think you know my story just by looking at me`（你以为看看我就能知道我的故事）之后紧跟 `You've written a whole novel about me.`（你已经替我写了一整本小说了）——**这两句的指向是 Bella 本人的写作习惯**（ch04 写诗、ch09 分析自画像、ch12 `I do not matter`）。**Tracy 一眼看出她在做的事，而看穿的方式是承认自己也会做。** 紧接着的**卸牙**是本章唯一的 disclose：**`entire top row`（整排上牙）、`popped it back in`（立刻装回去）、`as quick as if it never happened`（快得像没发生过）**——三段动作把她自己的秘密也变成了一次演示。**她用展示自己的羞耻，来换取 Bella 的配合。**
+**为什么这样写**：**Tracy 用 Bella 自己的武器反驳她——她也是靠"看"写别人的。** `You think you know my story just by looking at me`（你以为看看我就能知道我的故事）之后紧跟 `You've written a whole novel about me.`（你已经替我写了一整本小说了）——**这两句的指向是 Bella 本人的写作习惯**（ch04 写诗、ch09 分析自画像、ch12 `I do not matter`）。**Tracy 一眼看出她在做的事，而看穿的方式是承认自己也会做。** 紧接着的**卸牙**是本章唯一的 disclose：**`entire top row`（整排上牙）、`she pops it back in`（立刻装回去）、`as quick as if it never happened`（快得像没发生过）**——三段动作把她自己的秘密也变成了一次演示。**她用展示自己的羞耻，来换取 Bella 的配合。**
 
 **而结尾那两句是全书至今最重要的一次反转。** Bella 问 `Who's going to write that stupid story?`（谁会写那个蠢故事）并说 `I wouldn't want to read it.`（我可不想读）——**她的意思是「我不想成为那个被写的人」**。Tracy 的回答 `You are. And you will.`（你会的。而且你会的）**把陈述句改成双重否定式**：`You are.`（你就是那个故事）＋ `And you will.`（而且你会去写它）。**同一个 `will`，一次是「你将会成为」，一次是「你将会去做」——作者用三个词把受害者改成了未来的作者。** 而迫使她抬头的是 `Bella!` 那声**全章唯一的高声**（其余对白都是 quietly / murmurs / mumble）。
 

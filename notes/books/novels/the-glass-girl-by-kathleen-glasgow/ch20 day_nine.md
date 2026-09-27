@@ -66,7 +66,7 @@ source_text: ch20
 
 **为什么这样写**：**一个十四岁的人用了一个行政与工程行业的词，而她用对了。** `conduit`（管道、导管）——**这个词选得极准：管道不决定内容，只决定通过**，而 `for communication`（用于沟通）这个后置定语把它明确限定为「只做传输」：**她要的不是被当成争吵的对象，是被当成不再被使用的通道。** 三个技术点：① `some sort of agreement`（某种协议）——**`some sort of`（某种）是她给自己留的台阶，让对方可以给出一个不叫「agreement」的东西**；② `that would be great`（那就好了）——**她要的东西被包装成客气的评价，而这是全书她最克制的一次要求**；③ `because you don't want to deal with each other`（因为你们不想跟对方打交道）——**她把父母不和的原因替他们说了，而说的是最不体面的那个版本。**
 
-而 `fight through me`（透过我打架）——**这个短语在英语里不是固定搭配，是她自己造的，而 `through` 这个介词是关键**：`fight with me`（跟我吵）、`fight about me`（为了我吵）、`fight through me`（穿过我吵）——**前两个把我放在起点或终点，第三个把我放在中间当通道**，而这个中间的用法与 `conduit` 是同一个意思的两种表现（**一个是名词，一个是动词**）。
+而 `fight through me`（透过我打架）——**这个短语在英语里不是固定搭配，是她自己造的，而 `through` 这个介词是关键**：fight with me（跟我吵）、fight about me（为了我吵）、`fight through me`（穿过我吵）——**前两个把我放在起点或终点，第三个把我放在中间当通道**，而这个中间的用法与 `conduit` 是同一个意思的两种表现（**一个是名词，一个是动词**）。
 
 **读者视角提示**：紧跟着的这一段是**全书对「团契的建议」最诚实的一次记录**——她引 `Fran`（`we need to tell parents our limits`），引另一位成员的反驳（`they'll just tell you to grow up and deal with it`），引 `Fran` 的反驳（`their job is to help you`），然后给出唯一的观察：`let me tell you, the room dissolved in laughter at that point.`（**而这一段的可信度在于：她记的是笑声，不是结论**）。
 
@@ -138,7 +138,7 @@ source_text: ch20
 
 **第一句是预告（`I'm going to be honest`，16 词），第二句是执行（`I love drinking.`，三个词），第三句是理由。** 而**第二句之所以只有三个词，是因为它前面那句预告已经把信用花完了**——**`I love it` 里的 `it` 需要 `I'm going to be honest` 才能站住，而 `I love drinking` 连 `it` 都不用了，她把宾语写了出来。** 对照 ch19 她在同一件事上的说法：`I'm not an alcoholic.`（我不是酒鬼。）——**那是拒绝这个词；本章是接受这个词但拒绝戒，两者不是同一件事。**
 
-**而理由句的技术在于它的两个分句方向相反**：`I feel so much inside me right now that is cutting me to shreds`（我现在心里有太多东西在把我撕碎）——**「太多」（`so much`）是她在派对上被说 `too much` 的那个数量，而 `cutting me to shreds`（把我撕碎）把「太多」变成了物理伤害**；`and I'd like nothing more than to be sitting in her house by myself, drinking.`（我最想要的不过就是一个人坐在她家里，喝着酒）——**而这个愿望的内容与 ch19 那段的三个 `If I was at home` 完全一致**（`I'd be checking the level in my Sprodka bottle` / `NyQuil under the bathroom sink` / `go to Laurel's to sit by myself`）——**ch19 是从山上看下去的推测，本章是写给母亲的实况，而两处都指向同一瓶酒与同一间空屋。**
+**而理由句的技术在于它的两个分句方向相反**：`I feel so much inside me right now that is cutting me to shreds`（我现在心里有太多东西在把我撕碎）——**「太多」（`so much`）是她在派对上被说 `too much` 的那个数量，而 `cutting me to shreds`（把我撕碎）把「太多」变成了物理伤害**；`and I'd like nothing more than to be sitting in her house by myself, drinking.`（我最想要的不过就是一个人坐在她家里，喝着酒）——**而这个愿望的内容与 ch19 那段的三个 `If I was at home` 完全一致**（`I'd be checking the level in my Sprodka bottle` / `NyQuil under the bathroom sink` / `Thinking about going to Laurel's to sit by myself`）——**ch19 是从山上看下去的推测，本章是写给母亲的实况，而两处都指向同一瓶酒与同一间空屋。**
 
 **读者视角提示**：**注意她承诺划掉这一段（`so I will probably cross this out.`）之后，紧接着的下一句就是全章最大的一次坦白**——**「我大概会划掉」是「我现在要告诉你最不该告诉你的事」的意思，而这本书里她说到做到的唯一一次划掉，是 ch17 里那个被划掉的 `Dear Isabella,`。**
 

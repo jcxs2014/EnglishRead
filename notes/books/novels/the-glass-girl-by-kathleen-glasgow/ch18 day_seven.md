@@ -108,7 +108,7 @@ source_text: ch18
 
 `I like that my grandmother was full of words.`——**这一句里的 `like` 是喜欢的意思，而下一句里的 `like` 是「像」的意思，两个 `like` 相邻**：**她先喜欢一种状态，再想成为那个状态。** 而条件句 `if I can just figure out the right ones`（如果我能先找到对的那些词）——**`just`（只是）是本书第四次出现在她最要紧的地方**（ch08 的 `It's just so hard` ／ ch15 的 `I just want to be called Bella` ／ ch16 的 `Just enough`），**而 `ones` 单独留在末尾，前面的名词被 `the right` 抽象掉了——她知道自己要的是词，还没知道是哪几个词。**
 
-**读者视角提示**：`People caught quickly in time and then that time disappears and that person they were in the moment is gone in real life but kept forever on film.`（人在时间里被迅速抓住，然后那个时间消失了，那个当下的人就死在现实里，却被胶片永远留住。）——**这一句是全章的隐藏主题：照片是这个地方唯一不让人消失的东西，而 Bella 拒绝看自己那几张。** 作者把祖母的照片、墙上的照片、一次性照片（拍下即定、无法重拍）**三层叠在一起**（`taken in time` ／ `stays on the wall` ／ `Polaroid`），而**三层的共同点是「这是这个人唯一一次的样子」。**
+**读者视角提示**：`People caught quickly in time and then that time disappears and that person they were in the moment is gone in real life but kept forever on film.`（人在时间里被迅速抓住，然后那个时间消失了，那个当下的人就死在现实里，却被胶片永远留住。）——**这一句是全章的隐藏主题：照片是这个地方唯一不让人消失的东西，而 Bella 拒绝看自己那几张。** 作者把祖母的照片、墙上的照片、一次性照片（拍下即定、无法重拍）**三层叠在一起**（一次拍定 ／ 挂在墙上 ／ 拍立得），而**三层的共同点是「这是这个人唯一一次的样子」。**
 
 ### ⑦
 
