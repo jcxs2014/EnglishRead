@@ -45,7 +45,7 @@ modified: "2026-09-27"
 
 **关键词：** a terrible sinking feeling in my stomach / Slug's name got called / interviewing students for a second time
 
-**为什么这样写**：全书最长的一次记忆触发，作者把它写成一个**生理反应 + 一个回忆画面**的合成。`a terrible sinking feeling in his stomach`（胃里一阵可怕的下沉感）借用了她前几章用过的那个比喻（`My heart sinks into my stomach`），**可这一次说这句话的是他**——**他把她的身体反应搬进了自己的身体**。而真正让他想起来的不是尸体，是**一个程序性细节**：调查约谈时念到的名字。他此刻才知道，第二次约谈是给谁准备的。
+**为什么这样写**：全书最长的一次记忆触发，作者把它写成一个**生理反应 + 一个回忆画面**的合成。`a terrible sinking feeling in his stomach`（胃里一阵可怕的下沉感）借用了**他自己**前几章用过的那个比喻（`My heart sinks into my stomach`），**可这一次说这句话的是他**——**他在自己最恐惧的那一刻，用上了自己熟悉的那个身体反应**。而真正让他想起来的不是尸体，是**一个程序性细节**：调查约谈时念到的名字。他此刻才知道，第二次约谈是给谁准备的。
 
 **读者视角提示**：记住这个 `second time`——上一章的约谈是陷阱，而他在尸体出现之后才反应过来。
 

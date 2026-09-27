@@ -33,7 +33,7 @@ modified: "2026-09-27"
 
 **关键词：** I saw you / kissing / Brandi Healey
 
-**为什么这样写**：`I saw you`（我看见你）——这三个词在英语里是一种无法反驳的证据形式：目击。`kissing` 用动名词，把一个动作冻结成了一件正在发生的事；而全名 `Brandi Healey` 三个词一个都不少，因为这是一个已经死掉的人，名字要说得完整。整句只有七个词，作者却让它在空教室里响了两遍：Tom 的反应是手一松、背包掉地（`letting my backpack drop to the floor with a resounding thump`）——**身体先于语言承认了**。
+**为什么这样写**：`I saw you`（我看见你）——这三个词在英语里是一种无法反驳的证据形式：目击。`kissing` 用动名词，把一个动作冻结成了一件正在发生的事；而全名 `Brandi Healey` 两个词一个都不少，因为这是一个已经死掉的人，名字要说得完整。整句只有六个词，作者却让它在空教室里响了两遍：Tom 的反应是手一松、背包掉地（`letting my backpack drop to the floor with a resounding thump`）——**身体先于语言承认了**。
 
 **读者视角提示：** 记住这个 `I saw you`——全书最便宜也最贵的一枚筹码。
 

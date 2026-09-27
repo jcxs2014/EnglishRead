@@ -103,7 +103,6 @@ modified: "2026-09-26"
 | health fair | 健康义诊活动 | Daisy keeps smiling at me as she talks about the health fair she’s volunteering at this weekend. |
 | second thoughts | 犹豫；改主意 | Maybe Daisy is having second thoughts about me. |
 | face falls | 脸色垮下来 | I thought she’d get a kick out of it, but instead, her face falls. |
-| solid twist | 用力一拧 | If I grabbed her head and gave it a solid twist to the left, I could break her neck. |
 
 ### ⭐ 基础
 

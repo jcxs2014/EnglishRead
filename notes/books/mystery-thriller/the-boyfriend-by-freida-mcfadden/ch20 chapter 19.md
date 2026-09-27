@@ -57,7 +57,7 @@ modified: "2026-09-26"
 
 **关键词：** Don’t talk about her / that way
 
-**为什么这样写：** 全章最短的一次反抗，五个词。`that way`（那样）把批评的对象整个推给对方——**他甚至不屑于指出哪里不对**，只要求对方停下来；随后的一句 `I don't like the way he's talking about Brandi`（我不喜欢他说 Brandi 的方式）才把这份模糊补全。真正的信号在更早的一句：`My hands ball into fists`（我双手握成拳）——他的身体先于语言做出了反应。
+**为什么这样写：** 全章最短的一次反抗，六个词。`that way`（那样）把批评的对象整个推给对方——**他甚至不屑于指出哪里不对**，只要求对方停下来；随后的一句 `I don't like the way he's talking about Brandi`（我不喜欢他说 Brandi 的方式）才把这份模糊补全。真正的信号在更早的一句：`My hands ball into fists`（我双手握成拳）——他的身体先于语言做出了反应。
 
 **读者视角提示：** 记住这个"别那样说她"——他护的不是自己，是一个已经死了的人的名声。
 
@@ -113,7 +113,6 @@ modified: "2026-09-26"
 | tutoring | 补习 | “If I had been tutoring that girl, I wouldn’t have been able to keep my hands off her. |
 | ball into fists | 握成拳头 | My hands ball into fists—I don’t like the way he’s talking about Brandi. |
 | about face | 转身走开 | I almost do an about face and go home. |
-| ball into fists | 握成拳头 | My hands ball into fists—I don’t like the way he’s talking about Brandi. |
 
 ## 一句话总结
 

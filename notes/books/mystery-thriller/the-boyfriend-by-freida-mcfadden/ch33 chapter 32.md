@@ -21,9 +21,9 @@ modified: "2026-09-27"
 
 **关键词：** You live here
 
-**为什么这样写**：全书最短也最重的一句质问，只有四个词。作者让 Tom 在**门口**发出这句话——他不是在问地址，是在确认一个地点；`You live here?` 用升调，让它从陈述变成了指控。Sydney 的回应是玩笑（`It's not as fancy as it looks.`／没看上去那么高级），**而她还没有意识到自己刚刚把唯一的问题用错了方式回答**：他问的不是房子。
+**为什么这样写**：全书最短也最重的一句质问，只有三个词。作者让 Tom 在**门口**发出这句话——他不是在问地址，是在确认一个地点；`You live here?` 用升调，让它从陈述变成了指控。Sydney 的回应是玩笑（`It's not as fancy as it looks.`／没看上去那么高级），**而她还没有意识到自己刚刚把唯一的问题用错了方式回答**：他问的不是房子。
 
-**读者视角提示：** 记住这四个词——他此后所有的追问，都是这一句的延长。
+**读者视角提示：** 记住这三个词——他此后所有的追问，都是这一句的延长。
 
 ---
 
@@ -101,7 +101,6 @@ modified: "2026-09-27"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | teasingly | 开玩笑地 | “It’s not as fancy as it looks,” I say teasingly. |
-| teasingly | 开玩笑地 | “It’s not as fancy as it looks,” I say teasingly. |
 | color drains from | 脸色褪去 | And then, when we come to a halt in front of my building, all the color drains from his face. |
 | yanks his hand | 猛地抽回手 | But when we reach my block, he suddenly yanks his hand away from mine. |
 
@@ -110,7 +109,6 @@ modified: "2026-09-27"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | limes | 青柠 | I grab one of the limes from the refrigerator. |
-| limes | 青柠 | “I even bought limes to go with it,” I say. “You have to, right?” |
 | gauze | 纱布 | He uses some gauze to hold pressure on my wound, and when it seems slightly under control, he constructs what is actually a very effective bandage on my left index finger. |
 
 ## 一句话总结
