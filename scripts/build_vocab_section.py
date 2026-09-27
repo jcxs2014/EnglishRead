@@ -2,8 +2,12 @@
 """生成 md 的「本章词汇」三档小节（词头+例句由脚本从 text/ 逐字取出，释义由调用方提供）。
 
 用法:
-  python3 scripts/build_vocab_section.py <md> <NN> '<head>释义' '<head>释义' ...
+  python3 scripts/build_vocab_section.py <md> <NN> '<head> 释义' '<head> 释义' ...
+  或 python3 scripts/build_vocab_section.py <md> <NN> '<json 串>'
   或 python3 scripts/build_vocab_section.py <md> <NN> --glosses <json 文件>
+
+⚠️ 2026-09-27 修正：本脚本此前在**任何输入下都崩**（`glosses_arg` 未定义），且 docstring
+声称的位置参数形式与代码的 json.loads 不一致——**该形式从未通过**。现按「第一个空格分隔」解析。
 
 未提供释义的词头不会被写入（宁缺毋造），脚本会打印缺哪些释义。
 """
@@ -20,7 +24,22 @@ gloss_arg = sys.argv[3:]
 if gloss_arg and gloss_arg[0] == "--glosses":
     glosses = json.load(open(gloss_arg[1], encoding="utf-8"))
 else:
-    glosses = json.loads(" ".join(gloss_arg)) if glosses_arg else {}
+    joined = " ".join(gloss_arg)
+    if not joined.strip():
+        glosses = {}
+    else:
+        try:
+            glosses = json.loads(joined)
+        except json.JSONDecodeError:
+            glosses, bad = {}, []
+            for one in gloss_arg:          # '<head> 释义'：第一个空格分隔
+                if " " in one.strip():
+                    h, g = one.strip().split(" ", 1)
+                    glosses[h] = g.strip()
+                else:
+                    bad.append(one)
+            if bad:
+                print("⚠️ 位置参数需为 '<head> 释义'（中间有空格），以下已跳过: " + " ".join(bad))
 
 out = subprocess.run(
     ["python3", "scripts/vocab_candidates.py", str(md.parent), "--ch", ch, "--tiers", "--limit", "12"],
