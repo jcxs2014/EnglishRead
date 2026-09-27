@@ -12,13 +12,13 @@ modified: "2026-09-27"
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；本组七封信末多署 `Diana`，其中一封的吻首写成 `Daring Edward,`（原文如此）
 - **章节定位**：书信部分第 11 组（ch03–ch16 共 14 组），时间跨度 2002 年 7 月 – 12 月，共 7 封（书信第 105–111 封）。这是全书第一次让**衰老**成为主角：主角之一的病不再是「她年轻时处理过的别人的病」（ch03 的 Alfred），而是**她自己与伴侣 Barry 身上正在计时的账**——血压、药片、鼻子上的活检、开车与走路的能力
 - **篇幅**：26,047 字符（`text/ch13_letters_2002_july_to_december.txt`，非空白字符计）；7 封信 + 4 处方括号插补（编者按）
-- **一句话主旨**：这半年她学会了一件事：**同一种劳作用在不同的人身上，是两种完全不同的活法**——给陌生人当编辑、当讲课的「老古董」、当 BBC 的写字机器都还能做，而替一个不再能出门的弟弟安排余生则做不到；这组信把这个对照摆成了它的主线
+- **一句话主旨**：这半年她学会了一件事：**同一种劳作用在不同的人身上，是两种完全不同的活法**——给陌生人当编辑、当讲课的「老古董」、当 BBC 的写字机器都还能做，而替一个不再能出门的伴侣安排余生则做不到；这组信把这个对照摆成了它的主线
 - **信件清单**：11 JULY 2002 · 4 AUGUST 2002 · 15 SEPTEMBER 2002 · 16 OCTOBER 2002 · 7 NOVEMBER 2002 · 30 NOVEMBER 2002 · 29 DECEMBER 2002
 - **说话人提示**：全部为阿瑟尔写给爱德华；吻首在 `Darling Edward,` / `Darling Edward –` / `Dearest Edward –` 之间摆动（16 OCTOBER 那封升到 `Dearest`，30 NOVEMBER 那封滑成玩笑式的 `Daring Edward,`）。信 3 内嵌一条日记式补记（`09.16.02` 起首），信 1 与信 2 末尾各有一条编者按
 
 ### 叙事脉络
 
-第一封（11 JULY 2002）从两件轻事起：她推荐 The Radetzky March 和它的续篇，说自己 `I started off feeling only mildly interested, but Roth has gradually crept up on me until now I’m pretty well addicted`；接着说爱德华不再住在「小镇那头」让她难受。Barry 刚从牙买加回来，他能出门给 Barbara 买花、还能评论 Claire Bloom 讲她与 Philip Roth 婚姻的文章——这一变化被她用一句玩笑收掉：`That may not sound much like a feast of reason and a flow of soul – but I can assure you that it’s four months since we had an exchange so nearly approaching it!` 信的后半是她新开的课：诺福克村里一个开小画廊的男人教她水彩，她照着一张风景彩色照片练手，成品 `it’s not a puddle of mud!!!!`；她还搬出曾外曾外祖母 Julie 那个六英寸乘三英寸的速写本，讲她面对瑞士群山时 `did she quail? No, indeed not.` 编者在信末按了一句：这份乐观开端没有下文，她只完成了一幅相当好的水彩，那股冲动就散了。第二封（4 AUGUST 2002）先报 Barry 的好转，并把病名说出来（`before the prostate crisis in February`），中间那段却把重点移到了她自己身上：血压初查高得惊人，医生让她尽量少上下楼、`on no account to strain when attempting to shit – better constipation than a stroke`；她现在每天三片药（胃溃疡、降压、四分之一片阿司匹林治心绞痛），停掉胃那片试过，一周左右酸就开始腐蚀胃壁，另两片则不敢试——`I haven’t tested the others, because the results of doing so might be a bit too conclusive!` 信的另一半是她认识了住在东京的新朋友 Peter（一位爱尔兰酒鬼乡绅的儿子，编辑一份极雅致的爱尔兰文学杂志）；他请她写稿，她把杂志寄给他，`because I could no more write something that would interest these mad scholars than I could fly`；见面时他说她 `you are beautiful`，她当场造了一个词 `a hag fag`。编者按补一句：她最终没有去见 Peter 的前妻（`[I didn’t.]`）。第三封（15 SEPTEMBER 2002）开头是一件荒唐事——她一时找不到笔，说自己 `What a creature of words I am!`；BBC Radio 4 要做三集《A Letter to Myself》，她拿到 £400，节目组说她的稿子 `‘perfect’`，她却怀疑那只是对方对每个写手都说的，于是下了全组最锋利的一句判断：`I’m coming to the conclusion that real fame would be appallingly corrupting, given the qualms that can result from insy-tinsy-mini fame!` 接着是战争（`All the war-mongering going on is so sickening`），信中嵌一条日记式补记，然后是去诺福克路上她数出来的三件「Favourite Things」：Hendon 一家小房子，门前插着合白金宫规格的英国旗，旗杆上挂着牌子 THE BRITISH HERNIA CENTRE；一家破败美容院墙上的 `‘Now is the winter of our Discount Tans’`；Finchley Road 上一家自称 `‘Jews for Jesus’` 的小店。信末她又问了一遍 `Does ‘Jews for Jesus’ exist elsewhere?`，编者在方括号里答 `[It seems that it does.]`。第四封（16 OCTOBER 2002）补报爱丁堡：她被安排独讲一场（`I was, to my surprise, billed as a solo turn`），大帐篷售罄，签售卖出一百多本；Charlotte Square 变成一座由有顶步道连起来的帐篷之城，`It was always teeming with people`；她自陈整天泡在美术馆里（`I had an Orgy of wonderful picture-seeing`）。但这封信真正的重量在后半段——对 Barry 的现状：`He has withdrawn so completely from life`；他不再听她说话（`He never actually listens to a word I say`），只读真实凶案（`never anything but accounts of murders`），把别人说的有趣作品贬为无物；Carole 的 Primo Levi 传记挨了 London Review of Books 的一篇毒评，他一听就精神起来问是哪一期。全段落在 `Only at the prospect of despising something can he feel a little cheerful! It does mean, alas, that in terms of companionship there’s not much left of us.` 好消息只有一件：侄女 Margaret 说要把牙买加的房子扩出一小块给他住（`she’d been thinking about this, so she was having a little extension to her house in Jamaica made habitable`）；她自己也开始正视现实——`I can’t count on continuing to drive a car for many more years, and I’m already unable to walk more than three or four hundred yards, and can’t carry heavy things .  .  .` 信末是 `End of paper, end of letter .  .  . but no end of lots and lots of love`。第五封（7 NOVEMBER 2002）先说自己下周要去动鼻梁上的一小块东西（`may be an incipient rodent ulcer`），并转述那句让她立刻要伸手拿手术刀的话：`‘It can eat away a whole face, even the eyes.’` 中段是稿酬账：她给 Evening Standard 写 600 字书评拿到 £400，而 `I really must try to stir myself up to get more reviewing from papers that pay`，她抱怨老牌刊物 Oldie 半页只给 £85；接着拿星期日时报那期全是名人进账的特刊逼出一句自嘲。末段只有一句防御：`Now now – don’t let a beautiful autumn become an omen!` 第六封（30 NOVEMBER 2002）谈爱德华的体检报告和她的服药经验（`no side effect has ever made itself felt`），再用自己的办法处理医嘱里的绝对禁止——`Why not make it very nearly no, rather than utterly no?` 她也记下给 Granta 写稿的碰壁，并坦白一看见 Barry 好一点就要摸木头：`But I still touch wood every time I think he’s better, because with diabetes you never know.` 第七封（29 DECEMBER 2002）是本组的收束信，开头是一句反问——她想请人做一项统计，`have you ever known of a serious domestic emergency occurring on a Monday morning, with a week of working days stretching conveniently ahead? I never have.` 12 月 20 日那个星期五凌晨三点半，雨水从卧室天花板漏到她仰卧的身上；这一段里她写 Len Jones（`Len is all but the property of Hilary Bach, who lives six houses along from us`）本可以带着防水布从一家的屋顶走到另一家，并插进那句关于圣诞假的并列比较。后半是诺福克的圣诞节：Barry 过了一个很西印度式的圣诞；Andrew 的树屋（两年前妻子为他的 80 岁生日造的）；嫂子那种 `a positively Monumental Practicality`（`raising four boys on a pittance`）；还有 Charlie 如何把母亲哄出厨房、然后不露痕迹地把活儿都干完——`The way Charlie joked and wheedled her out of the kitchen and into an armchair, and then did a lot of work without appearing to do so, was masterly`。信末她说 `Scaffolding costs fortunes.`，然后是 `Happy New Year (I don’t see why it shouldn’t be OK at a personal level) to both of you, my dears.`
+第一封（11 JULY 2002）从两件轻事起：她推荐 The Radetzky March 和它的续篇，说自己 `I started off feeling only mildly interested, but Roth has gradually crept up on me until now I’m pretty well addicted`；接着说爱德华不再住在「小镇那头」让她难受。Barry 刚从牙买加回来，他能出门给 Barbara 买花、还能评论 Claire Bloom 讲她与 Philip Roth 婚姻的文章——这一变化被她用一句玩笑收掉：`That may not sound much like a feast of reason and a flow of soul – but I can assure you that it’s four months since we had an exchange so nearly approaching it!` 信的后半是她新开的课：诺福克村里一个开小画廊的男人教她水彩，她照着一张风景彩色照片练手，成品 `it’s not a puddle of mud!!!!`；她还搬出曾外曾外姨母 Julie 那个六英寸乘三英寸的速写本，讲她面对瑞士群山时 `did she quail? No, indeed not.` 编者在信末按了一句：这份乐观开端没有下文，她只完成了一幅相当好的水彩，那股冲动就散了。第二封（4 AUGUST 2002）先报 Barry 的好转，并把病名说出来（`before the prostate crisis in February`），中间那段却把重点移到了她自己身上：血压初查高得惊人，医生让她尽量少上下楼、`on no account to strain when attempting to shit – better constipation than a stroke`；她现在每天三片药（胃溃疡、降压、四分之一片阿司匹林治心绞痛），停掉胃那片试过，一周左右酸就开始腐蚀胃壁，另两片则不敢试——`I haven’t tested the others, because the results of doing so might be a bit too conclusive!` 信的另一半是她认识了住在东京的新朋友 Peter（一位爱尔兰酒鬼乡绅的儿子，编辑一份极雅致的爱尔兰文学杂志）；他请她写稿，她把杂志寄给他，`because I could no more write something that would interest these mad scholars than I could fly`；见面时他说她 `you are beautiful`，她当场造了一个词 `a hag fag`。编者按补一句：她最终没有去见 Peter 的前妻（`[I didn’t.]`）。第三封（15 SEPTEMBER 2002）开头是一件荒唐事——她一时找不到笔，说自己 `What a creature of words I am!`；BBC Radio 4 要做三集《A Letter to Myself》，她拿到 £400，节目组说她的稿子 `‘perfect’`，她却怀疑那只是对方对每个写手都说的，于是下了全组最锋利的一句判断：`I’m coming to the conclusion that real fame would be appallingly corrupting, given the qualms that can result from insy-tinsy-mini fame!` 接着是战争（`All the war-mongering going on is so sickening`），信中嵌一条日记式补记，然后是去诺福克路上她数出来的三件「Favourite Things」：Hendon 一家小房子，门前插着合白金宫规格的英国旗，旗杆上挂着牌子 THE BRITISH HERNIA CENTRE；一家破败美容院墙上的 `‘Now is the winter of our Discount Tans’`；Finchley Road 上一家自称 `‘Jews for Jesus’` 的小店。信末她又问了一遍 `Does ‘Jews for Jesus’ exist elsewhere?`，编者在方括号里答 `[It seems that it does.]`。第四封（16 OCTOBER 2002）补报爱丁堡：她被安排独讲一场（`I was, to my surprise, billed as a solo turn`），大帐篷售罄，签售卖出一百多本；Charlotte Square 变成一座由有顶步道连起来的帐篷之城，`It was always teeming with people`；她自陈整天泡在美术馆里（`I had an Orgy of wonderful picture-seeing`）。但这封信真正的重量在后半段——对 Barry 的现状：`He has withdrawn so completely from life`；他不再听她说话（`He never actually listens to a word I say`），只读真实凶案（`never anything but accounts of murders`），把别人说的有趣作品贬为无物；Carole 的 Primo Levi 传记挨了 London Review of Books 的一篇毒评，他一听就精神起来问是哪一期。全段落在 `Only at the prospect of despising something can he feel a little cheerful! It does mean, alas, that in terms of companionship there’s not much left of us.` 好消息只有一件：侄女 Margaret 说要把牙买加的房子扩出一小块给他住（`she’d been thinking about this, so she was having a little extension to her house in Jamaica made habitable`）；她自己也开始正视现实——`I can’t count on continuing to drive a car for many more years, and I’m already unable to walk more than three or four hundred yards, and can’t carry heavy things .  .  .` 信末是 `End of paper, end of letter .  .  . but no end of lots and lots of love`。第五封（7 NOVEMBER 2002）先说自己下周要去动鼻梁上的一小块东西（`may be an incipient rodent ulcer`），并转述那句让她立刻要伸手拿手术刀的话：`‘It can eat away a whole face, even the eyes.’` 中段是稿酬账：她给 Evening Standard 写 600 字书评拿到 £400，而 `I really must try to stir myself up to get more reviewing from papers that pay`，她抱怨老牌刊物 Oldie 半页只给 £85；接着拿星期日时报那期全是名人进账的特刊逼出一句自嘲。末段只有一句防御：`Now now – don’t let a beautiful autumn become an omen!` 第六封（30 NOVEMBER 2002）谈爱德华的体检报告和她的服药经验（`no side effect has ever made itself felt`），再用自己的办法处理医嘱里的绝对禁止——`Why not make it very nearly no, rather than utterly no?` 她也记下给 Granta 写稿的碰壁，并坦白一看见 Barry 好一点就要摸木头：`But I still touch wood every time I think he’s better, because with diabetes you never know.` 第七封（29 DECEMBER 2002）是本组的收束信，开头是一句反问——她想请人做一项统计，`have you ever known of a serious domestic emergency occurring on a Monday morning, with a week of working days stretching conveniently ahead? I never have.` 12 月 20 日那个星期五凌晨三点半，雨水从卧室天花板漏到她仰卧的身上；这一段里她写 Len Jones（`Len is all but the property of Hilary Bach, who lives six houses along from us`）本可以带着防水布从一家的屋顶走到另一家，并插进那句关于圣诞假的并列比较。后半是诺福克的圣诞节：Barry 过了一个很西印度式的圣诞；Andrew 的树屋（两年前妻子为他的 80 岁生日造的）；嫂子那种 `a positively Monumental Practicality`（`raising four boys on a pittance`）；还有 Charlie 如何把母亲哄出厨房、然后不露痕迹地把活儿都干完——`The way Charlie joked and wheedled her out of the kitchen and into an armchair, and then did a lot of work without appearing to do so, was masterly`。信末她说 `Scaffolding costs fortunes.`，然后是 `Happy New Year (I don’t see why it shouldn’t be OK at a personal level) to both of you, my dears.`
 
 ### 结构
 
@@ -33,7 +33,7 @@ modified: "2026-09-27"
 | 7 | 29 DECEMBER 2002 · `Darling Edward –` | 圣诞与房屋的对照；星期五凌晨三点半的漏雨；Len Jones 与屋顶上的油布；诺福克的圣诞节、树屋与 Charlie；脚手架报价；`Happy New Year` | 收束本组：她把「漏雨的家」与「满是人的家」放在同一封里，两种日子都写 |
 | 编注 1 | `[Alas, this hopeful start came to nothing…]` | 宣告第一封信里的水彩课没有下文 | 编者用后见之明给她的乐观打折——本书的时间性由此第一次显形 |
 | 编注 2 | `[I didn’t.]` | 她没有去见 Peter 的前妻 | 用三个字替一整条岔路封口 |
-| 编注 3 | `[It seems that it does.]` | 回答她关于 `‘Jews for Jesus’` 是否别处也有的追问 | 让一个悬着的疑问由三十年后的人代答 |
+| 编注 3 | `[It seems that it does.]` | 回答她关于 `‘Jews for Jesus’` 是否别处也有的追问 | 让一个悬着的疑问由她自己代答 |
 | 编注 4 | `[I didn’t approach him in the end…]` | 她没有去找 Ian Jack 谈 Granta 转载的事 | **编注的第二次介入**：说明本组之后的事她自己也不知道结果 |
 
 ### 核心金句
@@ -74,7 +74,7 @@ modified: "2026-09-27"
 
 **表达方式**：`crept up on me` 把「一个作家赢得了我的读者」写成一条**悄悄爬上来的人**；`gradually` 嵌在完成时里而不是放在句首，让「渐变」这一层落在动词本身。`only mildly` 与 `pretty well` 两处弱化副词把首尾都留了余地。
 
-**为什么这样写**：这封信的第一句就要立一个轻的调子——她接下来要谈的是弟弟的病、她自己的血压和一次活检。**先承认「 mildly」才承认「addicted」**，是她全书通用的自陈法：把极端结论放在一条缓坡的末端，读者就不会觉得她在表演坦白。而 `Roth` 一个人名作主语（省掉书名）也说明她与爱德华早已共享「读小说」这件事，无需再解释。
+**为什么这样写**：这封信的第一句就要立一个轻的调子——她接下来要谈的是伴侣的病（血压在 4 AUGUST、活检在 7 NOVEMBER，都不在本信）。**先承认「 mildly」才承认「addicted」**，是她全书通用的自陈法：把极端结论放在一条缓坡的末端，读者就不会觉得她在表演坦白。而 `Roth` 一个人名作主语（省掉书名）也说明她与爱德华早已共享「读小说」这件事，无需再解释。
 
 ### ②
 
@@ -130,7 +130,7 @@ modified: "2026-09-27"
 
 **表达方式**：她自造了一个三段式复合形容词 `insy-tinsy-mini`——把英语童谣里「短短小小」那类叠摇节奏与后缀 `-mini` 缝在一起，**这个词本身就是她的论点**：她怕的不是名声，是「名声的量变引发的心虚」。`given` 引导的原因状语把这条判断从「结论」降级成「基于经验的推断」。
 
-**为什么这样写**：她刚拿到 BBC 的 £400，节目组还说她的稿子 `‘perfect’`，下一段就写「真正的大名会腐化人」——**夸赞与怀疑被放在同一个上午**，这比任何自我批评都更诚实。语言上，`corrupting` 一词在本书是有前科的：ch03 写 Alfred 那一段里，她用的正是「道德上的污点」这层意思（说她自己「有污点」的是 ch01 ⑩）——**同一个词把弟弟、自己的名声和四十年前那个「有污点的编辑」串在一起**。想学造词可注意这个 `insy-tinsy-mini` 的结构：`叠音 + 拉丁后缀` 是英语里最省力的幽默造词法。
+**为什么这样写**：她刚拿到 BBC 的 £400，节目组还说她的稿子 `‘perfect’`，下一段就写「真正的大名会腐化人」——**夸赞与怀疑被放在同一个上午**，这比任何自我批评都更诚实。语言上，`corrupting` 一词在本书是有前科的：ch03 里她说的是一家高级减肥农庄「too corrupt and shocking in this starving world」（谈 Alfred 的那段在同章更早，用的是 `chemical imbalance`）——**同一个词把伴侣的病、自己的名声和早年那家「太 corrupt」的减肥农庄串在一起**。想学造词可注意这个 `insy-tinsy-mini` 的结构：`叠音 + 拉丁后缀` 是英语里最省力的幽默造词法。
 
 ### ⑥
 
@@ -138,13 +138,13 @@ modified: "2026-09-27"
 
 **中文理解**：疝气专科医院里会发生什么？要是来了一位美国疝气、一位法国疝气、或者一位爪哇疝气，会被拒绝进入吗？一家坐落在伦敦郊区的疝气医院，除了是英国式的，还能是什么？
 
-**句子结构**：首句是一般疑问句（`What happens at a hernia centre?`）；次句是**条件句的旧式疑问倒装**（`If … turned up would it be refused entrance?`——`if` 从句提到句首、疑问词省略而助动词 `would` 提前，主句的语序保持 `would it be refused entrance`，其中被动语态 `be refused entrance` 用 `entrance` 作主语补足语）；末句是含 `anything but`（绝不只是／完全不是）的反意疑问；三个句子全部以名词化结构作主语（`What happens` / `would it be refused entrance` / `could … be anything but British`）。
+**句子结构**：首句是一般疑问句（`What happens at a hernia centre?`）；次句是**「if-从句 + 一般疑问句」**（`If an American, a French or a Javan hernia turned up would it be refused entrance?`——并没有条件倒装，也没有 wh-词被省略）——`if` 从句提到句首、疑问词省略而助动词 `would` 提前，主句的语序保持 `would it be refused entrance`，其中被动语态 `be refused entrance` 用 `entrance` 作主语补足语）；末句是含 `anything but`（绝不只是／完全不是）的反意疑问；三个句子全部以名词化结构作主语（`What happens` / `would it be refused entrance` / `could … be anything but British`）。
 
 **关键词**：a hernia centre（疝气专科医院）、turned up（来了；出现）、refused entrance（被拒绝进入）、situated（坐落于）、anything but（除了…还能是／绝不只是）
 
 **表达方式**：她把「疝气」**拟人化成有国籍的来访者**（`an American, a French or a Javan hernia`），而 `Could a hernia centre … be anything but British?`（除了英国还能是什么）把地域的排他性推到荒谬的顶点。三个短问句一口气抛出，是她少有的连续设问。
 
-**为什么这样写**：这段玩笑紧接着她关于战争的那段（「so the Brits are just as sickening as the Yanks」）——**她对「我们一边说反战一边挂英国旗」的不适，用一个边缘机构的荒谬名称来消化**。修辞上这是「把日常词政治化」的一次示范：`THE BRITISH HERNIA CENTRE` 这个招牌之所以好笑，靠的是 `British` 这个限定词一旦被贴到 `hernia` 上就立刻失去意义。语言学习点：条件句倒装（`If + 过去式, would + 主语 + 动词`）在口语中已罕见，但她写得毫不迟疑，因为**她要的不是流利而是那个倒装带来的抬举语气**。
+**为什么这样写**：这段玩笑紧接着她关于战争的那段（「so the Brits are just as sickening as the Yanks」）——**她对「我们一边说反战一边挂英国旗」的不适，用一个边缘机构的荒谬名称来消化**。修辞上这是「把日常词政治化」的一次示范：`THE BRITISH HERNIA CENTRE` 这个招牌之所以好笑，靠的是 `British` 这个限定词一旦被贴到 `hernia` 上就立刻失去意义。语言学习点：「if-从句 + would + 主语 + 动词」把一个假设条件句整个塞进一般疑问句里，是英语里少见的叠加，因为**她要的不是流利而是那个倒装带来的抬举语气**。
 
 ### ⑦
 
@@ -156,7 +156,7 @@ modified: "2026-09-27"
 
 **关键词**：Only at the prospect of（只有在…的念头里）、despising（鄙视）、a little cheerful（有一点精神）、It does mean（这确实意味着）、in terms of（就…而言）、not much left of us（我们之间没剩多少）
 
-**表达方式**：倒装把重点整个压在前置的 `Only` 上，让读者必须读完才知道「才」；而后半句忽然撤回到一道**极小的算术**（`not much left`），把前面整段关于弟弟的观察压成一句。`a little cheerful` 与 `not much left` 都是**弱量词**（`a little` / `not much`），两处叠加让整句话听起来像在轻描淡写，而内容是全组最重的一句。
+**表达方式**：倒装把重点整个压在前置的 `Only` 上，让读者必须读完才知道「才」；而后半句忽然撤回到一道**极小的算术**（`not much left`），把前面整段关于伴侣的观察压成一句。`a little cheerful` 与 `not much left` 都是**弱量词**（`a little` / `not much`），两处叠加让整句话听起来像在轻描淡写，而内容是全组最重的一句。
 
 **为什么这样写**：这是本书「对最亲的人最不留情」的一例，而她的方法仍然是**先给观察、后给数字**：`Only at the prospect of despising something` 是一句极准的临床描述（他只有贬低别人时才活过来），`not much left of us` 才是判决。语言学习点：英语用弱量词（`a little` / `not much` / `a bit`）承担强调，是把「重话说轻」的最好工具——`a little cheerful`（有一点精神）比任何「稍微开心一点」的说法都更口语，也更刻薄。
 
@@ -172,7 +172,7 @@ modified: "2026-09-27"
 
 **表达方式**：两个 `pay` 构成对仗——`papers that pay` 与 `the dear old Oldie, which pays`：**一个动词把「好刊物」与「老刊物」的差别说完**，而且第二个 `pays` 后面立刻掉出一个数字，玩笑就落在这里。`the dear old Oldie`（亲爱的老 Oldie）里的 `dear` 是反讽式的亲昵，与本组 30 NOVEMBER 那封的 `Daring Edward,` 是同一种亲昵。
 
-**为什么这样写**：这一段把「钱」写成了她这一年真正的对手戏：同一封信里她刚说完 BBC 给她 £400、说完 `insy-tinsy-mini fame` 的腐化，接着就为了 £85 生自己的气。**在一个人人都夸她「好作家」的位置上，她选择抱怨稿费**——这既是她那代编辑的职业习惯（钱是唯一能证明价值的秤，见 ch03 ⑥ 那个把「了不起的 writer」换算成重量的比喻），也是她抵抗名气腐蚀的实际动作。
+**为什么这样写**：这一段把「钱」写成了她这一年真正的对手戏：她早两封（15 SEPTEMBER）刚说完 BBC 给她 £400、说完 `insy-tinsy-mini fame` 的腐化，接着就为了 £85 生自己的气。**在一个人人都夸她「好作家」的位置上，她选择抱怨稿费**——这既是她那代编辑的职业习惯（钱是唯一能证明价值的秤，见 ch03 ⑥ 那个把「了不起的 writer」换算成重量的比喻），也是她抵抗名气腐蚀的实际动作。
 
 ### ⑨
 
@@ -186,7 +186,7 @@ modified: "2026-09-27"
 
 **表达方式**：一个民俗动作被放在一个临床判断**之后**——`because with diabetes you never know`，把「迷信」与「医学」并置而不裁定谁对。`you never know`（你永远不会知道）把「无知的确定性」写成了家常话。
 
-**为什么这样写**：这组信的语法基调在 16 OCTOBER 那封已经定了型：**每一件不可控的事都被她塞进一个固定句式**（`you never know` / `it does mean` / `I never have`），而句式越固定，情绪越被压住。她在这封的前一段刚说完自己每天吃三片药、刚说完 `Why not make it very nearly no, rather than utterly no?`——**对药物讲理性，对好运讲迷信**，这个不对称正是她真实的心理结构。
+**为什么这样写**：这组信的语法基调在 16 OCTOBER 那封已经定了型：**每一件不可控的事都被她塞进一个固定句式**（`you never know` / `it does mean` / `I never have`），而句式越固定，情绪越被压住。「每天吃三片药」她在 4 AUGUST 那封里说过（这封只说 `I’ve been on medication for high blood pressure for about five years`）、刚说完 `Why not make it very nearly no, rather than utterly no?`——**对药物讲理性，对好运讲迷信**，这个不对称正是她真实的心理结构。
 
 ### ⑩
 
