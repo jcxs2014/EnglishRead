@@ -44,7 +44,7 @@ source_text: ch10
 
 **为什么这样写**：前半句是**负面清单**——四个短语（急躁／极度敏感／扔东西／顶嘴）全用逗号平铺，`tantrums`（大发脾气）与 `hurls things around`（扔东西）两个动词把脾气写成**物理**的。中间的 `‘So are you!’`（那又怎样）用引号单列，把孩子的顶嘴从叙述里抠出来，变成一件证物。破折号后是两个 `Where has the child gone who used to…?`（那个曾经……的孩子去哪儿了？）的反问，两个问句都以 `used to`（曾经）标记时间的断裂点；而第二个问句里埋着全章最具体的一个细节——`read picture books to him by torchlight before bed`（睡前用手电筒的光给他讲图画书），`torchlight`（手电筒光）这个选择让温暖的场景立刻带上一层**临时的、会被关掉的**光源。
 
-**读者视角提示**：`Where has the child gone`（那个孩子去哪儿了）是秀一全书唯一的问句的变体——ch02 他问孩子「你听见了吗」，ch07 他问自己「他是什么时候不在的」，ch09 他问 Kenta「你怎么了」。**父亲们都在问同一个问题：孩子去哪了。** 本章的 Fujita 医生问的是学龄前那个孩子已经死了这件事；秀一问的是八岁的秀兴已经死了这件事。两个人都不知道自己在问同一句话。
+**读者视角提示**：`Where has the child gone`（那个孩子去哪儿了）是秀一全书唯一的问句的变体——ch02 是那个**孩子反过来问大人**「你听见了吗」（`asks the boy, turning to the man`），ch07 是 Sayaka 问事故发生在什么时候，ch09 是 Kenta 问秀一「你怎么了」。**四个人问的都不是「孩子去哪了」，而是「你还在不在听」。** 本章的 Fujita 医生问的是学龄前的幼子已经死了这件事（Yūtō 本人还在，活着说 `I’m bored`）；秀一问的是八岁的秀兴已经死了这件事。两个人都不知道自己在问同一句话。
 
 > **原句 4:** She is still a little girl, but to her father, she has already lived a lifetime, completed it, and been born again. Now she is at the beginning of her second life.
 
@@ -54,7 +54,7 @@ source_text: ch10
 
 **为什么这样写**：这是一个 `still`（仍然）对 `already`（已经）的对撞，两个副词把同一个主语（她）挂在时间轴的两端：身体上仍是小孩，父亲眼里已完成一生。三个动词短语（`lived a lifetime, completed it, and been born again`）是一条**闭环**——活完、完成、再出生；第三项 `been born again`（重新出生）与本章标题「冬」形成反义（冬天不是出生季），因此这句在结构上不靠任何死亡词汇就把「重生」写完了。`Now she is at the beginning of her second life.`（此刻她正站在自己第二段人生的开头）把 `completed`（完成）换成 `beginning`（开头），用同一个 `life` 这个不可数名词造出一次**从完成到开始**的翻转。
 
-**读者视角提示**：Hana 的「第二段人生」不是比喻——她的亲生母亲秋子已去世，同父异母的姐姐紗季在 2011 年东日本大地震的海啸中去世，她从四岁起就在写没有收信人的信、去岩手的风之电话打长途。全书唯一一次「重生」发生在一个十一二岁女孩身上，而读者要再过四章（ch14）才会明白，这个女孩与秀一的档案馆之间隔着整整一个失去。
+**读者视角提示**：Hana 的「第二段人生」不是比喻——她的亲生母亲秋子已去世，而紗季（Sachiko）是 Fujita 与现任妻子 Yui 的大女儿、**Hana 同父异母的姐姐**，早已在 2011 年东日本大地震的海啸中去世，她从四岁起就在写没有收信人的信、去岩手的风之电话打长途。全书唯一一次「重生」发生在一个十一二岁女孩身上，而读者要再过四章（ch14）才会明白，这个女孩与秀一的档案馆之间隔着整整一个失去。
 
 > **原句 5:** Theirs is a second family, deeply attached to the memory of the first and all the connections that remain within people even after those they love have passed away.
 
@@ -82,9 +82,9 @@ source_text: ch10
 
 **关键词**：All around them, chimes tinkle gently / and the wind whispers names
 
-**为什么这样写**：整句只有十四个词，两个分句各用一个不及物动词，各自带一个副词——`chimes tinkle gently`（风铃轻轻叮当）、`the wind whispers names`（风在低声说着名字）。两个句子的元音都在 `i`／`e` 之间，节奏刻意做成同一拍，因此读起来像两句其实是一句。关键是 `whispers`（低语）：这个词同时指「耳语」与「悄悄说出」，而风在替**不相识的人**低声念出**他们自己也不在场**的名字。`names`（名字）用复数，不加任何限定词——风念的不是这几个人的名字，是所有写在纸条上的名字。
+**为什么这样写**：整句只有十一个词，两个分句各用一个不及物动词，各自带一个副词——`chimes tinkle gently`（风铃轻轻叮当）、`the wind whispers names`（风在低声说着名字）。两个句子的元音都在 `i`／`e` 之间，节奏刻意做成同一拍，因此读起来像两句其实是一句。关键是 `whispers`（低语）：这个词同时指「耳语」与「悄悄说出」，而风在替**不相识的人**低声念出**他们自己也不在场**的名字。`names`（名字）用复数，不加任何限定词——风念的不是这几个人的名字，是所有写在纸条上的名字。
 
-**读者视角提示**：`tinkle`（叮当）与 `whisper`（低语）这一响一静，是全书对「记忆」最物理化的一次描写：记忆在这里不是句子，是挂在树上会被风吹响的纸。ch06 那位老太太在同一座岛上跟着这句念了 `This is a journey you take to listen to someone’s heart.`（这是一趟你去听某个人心跳的旅程）——**她听的是心跳，Hana 她们留的是名字。**
+**读者视角提示**：`tinkle`（叮当）与 `whisper`（低语）这一响一静，是全书对「记忆」最物理化的一次描写：记忆在这里不是句子，是挂在树上会被风吹响的纸。ch06 那位老太太在同一座岛上说过一句几乎同义的话——`It’s sort of like a pilgrimage: I read that you have to get a bit lost in order to find`（有点像朝圣：我读到过，你得先走丢一点，才能找到）——**她走丢的是路，Hana 她们留下的是名字。**
 
 > **原句 8:** It’s like huddling in front of a fire after a downpour and waiting to dry off completely, knowing that a small patch will remain damp forever.
 
@@ -94,7 +94,7 @@ source_text: ch10
 
 **为什么这样写**：这是全章的最后一句，也是全书的四个插叙章里唯一一句**主动交代自己无法解决**的比喻。前半段用 `huddling`（挤作一团）写姿态——不是独自烤火，是**一群人挤在一起**；`a downpour`（一场暴雨）把痛苦写成一个有始有终、已经过去的天灾。破折号之后的 `knowing that a small patch will remain damp forever`（同时知道总有一小块地方会永远潮着）是全部重量所在：`knowing that`（明知）把「有一块永远潮着」从一个事实变成一份**自觉的承担**；`will remain`（将会留下）用将来时，而 `forever`（永远）把将来时取消了——这不再是「还没好」，是「不会好了」。
 
-**读者视角提示**：这一句是秀一在 ch05 结尾对 Fujita 医生说的话（`It might not move for the same people or the same reasons. But it moves even when it seems still.`／它可能不会为同样的人、因为同样的理由而跳动；但即使它看起来静止，它仍在跳）的**反向版本**——Fujita 一家的 damp patch（潮着的那一小块）是秀一的「不肯哭出来的那一部分」。两位父亲在 ch05 的门诊里见过面（医生还提到过 `Doctor Fujita’s wife wasn’t smiling in the photo`），而读者直到本章才知道那位照片里不笑的妻子，是四十五行之后才有名字的 Yui。
+**读者视角提示**：这一句是秀一在 ch05 结尾对 Fujita 医生说的话（`It might not move for the same people or the same reasons. But it moves even when it seems still.`／它可能不会为同样的人、因为同样的理由而跳动；但即使它看起来静止，它仍在跳）的**反向版本**——Fujita 一家的 damp patch（潮着的那一小块）是秀一的「不肯哭出来的那一部分」。两位父亲在 ch05 的门诊里见过面（照片那句是**秀一自己的观察**，不是医生提到的），而那位照片里不笑的妻子，读者在 ch05 门口就已经听她自报过姓名：`My name is Yui.`
 
 ## 本章词汇
 

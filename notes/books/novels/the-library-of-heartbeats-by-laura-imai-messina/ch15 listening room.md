@@ -12,7 +12,7 @@ source_text: ch15
 - **情感弧线位置**：**谷底之后的第一小块平地**。ch14 是下潜，ch15 是浮出水面换气——Kenta 说了 `I’m scared.`（我怕。）之后，秀一没有逼他，而是先陪他做完一件**完全不需要勇气**的事：戴耳机听别人。这是全书对「陪伴」写得最具体的一次：不是拥抱、不是解释，是并排坐着听。
 - **Tropes 兑现/反转**：兑现「随机播放陌生人声音」的装置，但兑现的方式是**把统计变成孤独**：ch15 里出现的不是感动，而是秀一的一个念头（`we work hard to try to be different our whole lives, but we end up identical to the original plan.`／我们一辈子都在努力变得不同，到头来却和最初的方案一模一样）。另一重兑现是「婴儿的心跳」：ch14 刚写完 Aya 隔着肚子听见秀兴，本章就出现一个零岁孩子留下的心跳——**生育与失去在同一章里各出现一次**。
 - **人物弧线**：Kenta 在本章说出他人生第一次**主动索求**（`I want to go back inside the dark room. But later.`／我想回那个黑房间里去。但以后。）。秀一的回应是 `OK, we’ll do that.`（好，我们就这么办）——**四词承诺，不打折、不附加条件**。这是 ch09 以来两人关系第一次由孩子定调。
-- **叙事手法**：本章嵌了四张「心脏持有人」卡片（Guillame Cluzet / Mario de Santis / Christian Boltanski / Mara Tsafantaki），把听过的四颗心变成一份**名录式证词**；而本季真正的叙事装置是那条留言——`I am zero years old, and I came with mummy and daddy.`（我零岁，和爸爸妈妈一起来的。）它在 ch06 那位母亲的话（`This is a journey you take to listen to someone’s heart.`）之后落下，构成两次「为谁而来」的对照。
+- **叙事手法**：本章嵌了四张「心脏持有人」卡片（Guillame Cluzet / Mario de Santis / Christian Boltanski / Mara Tsafantaki），把听过的四颗心变成一份**名录式证词**；而本季真正的叙事装置是那条留言——`I am zero years old, and I came with mummy and daddy.`（我零岁，和爸爸妈妈一起来的。）它在 ch06 那位母亲的话（`It’s sort of like a pilgrimage: I read that you have to get a bit lost in order to find`）之后落下，构成两次「为谁而来」的对照。
 
 ## 精读
 

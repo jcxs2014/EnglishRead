@@ -34,7 +34,7 @@ source_text: ch12
 
 **为什么这样写**：`twenty more`（又买了二十条）之后紧跟一句独立的 `Yes, twenty!`（没错，二十条！）——这一句是**对话游戏**（游戏规则要求对方复述数字确认），而秀一真的照做了；这一复述把一个数字从叙述变成了**两个人之间的仪式**。最后半句 `considering how often he lost them`（考虑到他丢得那么勤）用 `how often`（多频繁）作插入语，把「买二十条」这个决定的**全部理由**压缩成一次抱怨——`them`（它们）而不是 `it`（它），说明丢掉的是**很多条**，不是那一条。整段话术因此显得又快又亮，而它拆掉的是 Kenta 心里最重的一块石头。
 
-**读者视角提示**：这是全书**唯一一处**用喜剧手法解除罪责。Kenta 的整个自我指控建立在「那条手镯」是唯一一条的前提上，而秀一用「二十条」这个量词直接取消了前提。注意秀一**没有笑**——他说 `Yes, twenty!` 时是照着 Kenta 的游戏规则做的；笑点在这个动作的顺从里，而不在这条信息本身。ch11 末尾他连 `He wanted to give him a hug, but he didn't.`（他想抱他一下，但他没有）都没做——**这个父亲连安慰都要先取得许可。**
+**读者视角提示**：这是全书**唯一一处**用喜剧手法解除罪责。Kenta 的整个自我指控建立在「那条手镯」是唯一一条的前提上，而秀一用「二十条」这个量词直接取消了前提。注意秀一**是在笑的**（原文 `Shūichi continued, laughing.`）——他说 `Yes, twenty!` 时是照着 Kenta 的游戏规则做的；笑点在这个动作的顺从里，而不在这条信息本身。而**本章前文**他连 `He wanted to give him a hug, but he didn't.`（他想抱他一下，但他没有）都没做——**这个父亲连安慰都要先取得许可。**
 
 > **原句 3:** ‘He had it on his wrist that day too, Kenta,’ he whispered, planting a small kiss on his head. ‘It was not your fault.’
 
@@ -64,7 +64,7 @@ source_text: ch12
 
 **为什么这样写**：第一个分句用 `There is no X that can be…` 的**存在否定**结构——英语里否定一个存在命题（`There is no…`）比否定一个事物（`It isn’t…`）语气更绝对：不是「这件事不是他的错」，而是「这样的事**不存在**」。第二个分句立刻把这句否定翻转成一种**能力论**：`they feel capable of doing both grand and terrible things`（他们觉得自己既能做成 grand 的事，也能做成可怕的事）——`both`（两者都）与 `capable`（有能力）把这套信念从**罪**重新命名为**全能感**。而 `grand` 这个形容词在英语里只用于「壮丽／宏大」的事，被直接放进 `doing` 之后与 `terrible`（可怕的）并列，于是「孩子觉得自己能做成大事、也能做成坏事」这个判断在语法上就完成了。
 
-**读者视角提示**：`magical thinking`（魔法思维）是心理学术语，而秀一在 ch11 已经用过同一个词（`while magical thinking in childhood carries extraordinary powers, it also comes with guilt`／童年的魔法思维有非凡的力量，但也带着罪责）——**同一个词，在父亲那里是「力量与罪」的双面，在母亲那里是「对与错的取消」**。Aya 这句话因此同时是对秀一的纠正：他说魔法思维会带来罪责（所以 Kenta 有罪），她说魔法思维只是全能感（所以 Kenta 无罪）。而本章后面 Kenta 的转机，恰恰是秀一采用了**她的说法**。
+**读者视角提示**：`magical thinking`（魔法思维）是心理学术语，而秀一在**本章前文**已经用过同一个词（`while magical thinking in childhood carries extraordinary powers, it also comes with guilt`／童年的魔法思维有非凡的力量，但也带着罪责）——**同一个词，在父亲那里是「力量与罪」的双面，在母亲那里是「对与错的取消」**。Aya 这句话因此同时是对秀一的纠正：他说魔法思维会带来罪责（所以 Kenta 有罪），她说魔法思维只是全能感（所以 Kenta 无罪）。而本章后面 Kenta 的转机，恰恰是秀一采用了**她的说法**。
 
 > **原句 6:** ‘But now I see Shingo in fragments, in the gestures and features of each of those children. It’s like a puzzle: each child provides me with a piece. Being with them makes me feel close to him.’
 
@@ -74,7 +74,7 @@ source_text: ch12
 
 **为什么这样写**：`fragments`（碎片）这个词与 ch08 秀一数着 `Fuck off` 的次数、ch03 母亲对记忆的「改名」是同一系列的方法论：**Aya 用拼图替代了「替代品」**。三句是一套论证：`It’s like a puzzle: each child provides me with a piece`（它像一幅拼图：每个孩子给我一块）用一个冒号把比喻与推论接起来，而 `provides`（提供）这个词选得很讲究——**孩子不是「像」秀兴，孩子在「提供」部件**，因此这幅拼图是双向的：缺的不是别人，是那块。末句 `Being with them makes me feel close to him`（和他们在一起，我感到离他很近）用 `close`（近）这个**空间词**结束，把「思念」从时间（怀念）改写成距离（靠近），而缩短距离的方式不是回到墓前，是留在幼儿园里。
 
-**读者视角提示**：`in the gestures and features`（在手势和五官里）是秀一那条观察旧照片的线索（ch05「他的图画里总有一扇窗」、ch11「Kenta 的手势、他的表情、他那种奇怪的结巴」）的最终收束：父亲认人不靠脸，靠**动作**。所以 Aya 会在幼儿园的孩子们身上找到儿子，因为她当年也是靠动作认识他的——ch04 里 Kenta 说 `They were curious, intelligent eyes`，秀一说那是唯一一双他愿意看的眼睛。
+**读者视角提示**：`in the gestures and features`（在手势和五官里）是秀一那条观察旧照片的线索（ch05「他的图画里总有一扇窗」、ch11「Kenta 的手势、他的表情、他那种奇怪的结巴」）的最终收束：父亲认人不靠脸，靠**动作**。所以 Aya 会在幼儿园的孩子们身上找到儿子，因为她当年也是靠动作认识他的——ch04 里**秀一自己**看着 Kenta 的眼睛想：`They were curious, intelligent eyes`（好奇而聪明的眼睛）——Kenta 本人从未说出或听到过这句话。
 
 > **原句 7:** Aya pressed her thumb and index finger behind the scarlet origami, and the heart started to pulsate. ‘Doki doki,’ she said softly and smiled.
 
@@ -96,7 +96,7 @@ Aya 把拇指和食指按在那只深红色的折纸后面，心脏开始跳动�
 
 **为什么这样写**：这句话的主语在后半句被调换掉了——前半是 `There is never much to say on happy days`（快乐的日子里，从来没多少话可说），一个**存在句**谈的是「话」；后半 `happiness hates words`（幸福憎恶言语）把话题从「话」换成「幸福」，又给幸福配上一个**人的心理动词** `hates`（憎恶）。于是整句的修辞手法是**移情**：不是「快乐的日子没话说」，而是「幸福憎恶说话」——**说话这件事会杀死幸福本身**。而插入语 `added the Sphinx after a long silence`（斯芬克斯沉默良久后补充道）里的 `long silence`（长久的沉默）与整句的主张互为因果：她之所以补充这句，是因为她刚刚沉默了很久。`added`（补充）这个词暗示前面还有别的台词——这让一句话变成了一段更长的沉默的**注解**。
 
-**读者视角提示**：这句 Dürrenmatt 的引文与 ch07 结尾 Canetti 的那一句构成**一对反命题**。ch07：「我不再为童话的圆满结局而烦躁了：我需要它。」（需要语言）／ch12：「快乐憎恶言语。」（不需要语言）。而全书十七章走的正是这条弧线——**前半本靠说话活下来，后半本靠不说活下来**：ch11 秀一带 Kenta 上楼翻衣柜讲母亲（说），ch12 他说「那不是你的错」（说），ch13 老年秀一带 Kenta 走进黑房间，Kenta 说的是 `I’m scared.`（三个词）——**语言用量的递减，就是这本书情感密度的递增。**
+**读者视角提示**：这句 Dürrenmatt 的引文与 ch07 结尾 Canetti 的那一句构成**一对反命题**。ch07：「我不再为童话的圆满结局而烦躁了：我需要它。」（需要语言）／ch12：「快乐憎恶言语。」（不需要语言）。而全书十七章走的正是这条弧线——**前半本靠说话活下来，后半本靠不说活下来**：ch12 前文秀一带 Kenta 上楼翻衣柜讲母亲（说），随后他说「那不是你的错」（说），ch14 他带 Kenta 走进 Heart Room，Kenta 说的是 `I’m scared.`（两个词）——**语言用量的递减，就是这本书情感密度的递增。**
 
 ## 本章词汇
 

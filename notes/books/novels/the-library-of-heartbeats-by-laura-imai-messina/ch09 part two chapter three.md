@@ -64,7 +64,7 @@ source_text: ch09
 
 **为什么这样写**：这一段是全章的题眼，也是秀一唯一一次向人索求**苦难的证明**。三句的语法是一条链：`the main thing I would tell her is`（我最想告诉她的）设定了对象，`I desperately need to know that…`（我非常需要知道……）加 `desperately`（拼命地）把强度提到最高，后面的 `I went through some terribly tough things, but that I managed to overcome them`（经历过一些极其难熬的事，但我挺过来了）用一个 `but` 完成转折，`That, despite everything, I’ve grown up.`（尽管发生了这一切，我还是长大了）用 `despite everything`（尽管一切）作插入语把「成长」与「灾难」强行并列——他不是要安慰她，他是要一份**战报**。末句的动作（`rubbing his knuckles`／揉着自己的指关节）用身体细节收尾：说这话的人没有看对方。
 
-**读者视角提示**：这一段是 ch03 那场母子对话的**反向版**。ch03 秀一三十五岁去问母亲「那场车祸是真的吗」，母亲否认了；本章他四十岁，想象自己回到三十岁去对母亲说「我记得我受过苦」——他依旧无法确定，他要的只是一个能对证的版本。Sayaka 在同一场对话里给出的诊断（`like food supplies for a long journey, something you keep in your rucksack`／像长途旅行的干粮，留在背包里，需要时取用一点）把母亲的谎言从谎言重新命名为**补给**，这是全书对那位母亲最宽容、也最狠的一次辩护。
+**读者视角提示**：这一段是 ch03 那场母子对话的**反向版**。ch03 秀一三十八岁那一年问母亲「那场自行车事故是真的吗」，母亲否认了；本章他四十岁，想象自己回到两三年前——也就是差不多再上一次那个年纪——去对母亲说「我记得我受过苦」——他依旧无法确定，他要的只是一个能对证的版本。Sayaka 在同一场对话里给出的诊断（`like food supplies for a long journey, something you keep in your rucksack`／像长途旅行的干粮，留在背包里，需要时取用一点）把母亲的谎言从谎言重新命名为**补给**，这是全书对那位母亲最宽容、也最狠的一次辩护。
 
 > **原句 6:** but the way I see it, becoming a parent is a bit like embarking on an announced shipwreck. If it’s not the waves, it’s something else: the wind, the people you meet along the way, the rough sea. Everything seems so complicated that no matter how hard you try, no matter how careful you are, you’ll still end up in the water at some point.’
 
@@ -94,7 +94,7 @@ source_text: ch09
 
 **为什么这样写**：本章最后一句用一个 `all` 词生出三段全称表述（`all of us`／`Everyone`／`everyone`），把句子推向普世性；而 `hears`（听见）这个动词的选择是全句的关键——不是「感觉到」，不是「拥有」，是**听见**。最后 `differently`（不一样）落在句尾且不带任何限定，于是「同一颗心，不同的听法」成了全书的最后一句判词。整句只有两个短句，中间没有任何论证，因此读者无法反驳，只能接受。
 
-**读者视角提示**：同一句 `But everyone hears it differently.` 在 ch05 出现过一次（Kenta 指着涩谷十字路口说 `But everyone hears it differently.`），本章由 Sayaka 用它结束一整章的心跳语言清单。而正是这份「听见的不一样」，让 ch02 那个四十岁男人在空气里认出一段熟悉的节奏——**心跳档案馆收的其实不是心跳，是每个人的耳朵。** 本章后半还交代了三部标题的来源：秀一与秀兴几乎记住了所有语言里心跳的声音，日语里激动时是 `doki doki`、平静时是 `toku toku`，而「土人」音 `kyun` 是心跳发紧时的声音——第一部 一部 `baku baku`（目录页作「Part One: ばくばく baku baku」）、第二部 `kyun`、第三部 `doki doki` 由此而来。
+**读者视角提示**：`But everyone hears it differently.`（可是每个人都听得不一样。）在 ch02 已经出现过一次——那个男人在坡顶第一次听见岛的心跳时，本能地以为那是熟悉的东西，而本章 Sayaka 用同一句话把这件事挑明：**同一段心跳，Kenta 听见的是 Kenta 的。**而正是这份「听见的不一样」，让 ch02 那个四十岁男人在空气里认出一段熟悉的节奏——**心跳档案馆收的其实不是心跳，是每个人的耳朵。** 本章后半还交代了三部标题的来源：秀一与秀兴几乎记住了所有语言里心跳的声音，日语里激动时是 `doki doki`、平静时是 `toku toku`，而「土人」音 `kyun` 是心跳发紧时的声音——第一部 一部 `baku baku`（目录页作「Part One: ばくばく baku baku」）、第二部 `kyun`、第三部 `doki doki` 由此而来。
 
 ## 本章词汇
 

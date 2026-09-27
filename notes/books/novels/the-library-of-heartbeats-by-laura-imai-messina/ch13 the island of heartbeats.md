@@ -84,7 +84,7 @@ source_text: ch13
 
 **为什么这样写**：这段说明有三处精确的设计。**第一**，句子从「我们不知道」开始，用 `don’t know`（不知道）作主句谓语，把全部信息定义为**残缺**；`We don’t know the faces`（我们不知道脸）这一句之所以刺人，是因为「脸」在英语里是「身份」最直觉的载体，而这座馆**有名字、有姓、有位置、有年龄，独独没有脸**。**第二**，`if they chose to provide it`（如果他们愿意提供的话）里的 `chose`（选择）把信息缺损归因于**录音者的主动放弃**——不是收集者无能，是被收集者没有给。**第三**，末句用一个 `may`（可能）加一个 `yet`（然而）完成双重让步：`Some of them may already be dead, and yet the beat of their heart continues to echo here`（有些人可能已经死了，然而他们的心跳仍在这里回响）——**这是全章的语法支点，也是这座馆的伦理地基**。
 
-**读者视角提示**：`the beat of their heart continues to echo`（心跳继续回响）里的 `echo`（回响）意味着这里存的不是心跳**本身**，而是心跳在别处的**残响**——而残响需要一个听的人才能成立。ch06 那位老太太念的剪报正是这件事（`This is a journey you take to listen to someone’s heart.`），ch10 的 Hana 说的也是（`Death, Hana sometimes says, doesn’t have to take someone away from you.`）。**这座馆的全部技术，就是让回响有一个房间可住。**
+**读者视角提示**：`the beat of their heart continues to echo`（心跳继续回响）里的 `echo`（回响）意味着这里存的不是心跳**本身**，而是心跳在别处的**残响**——而残响需要一个听的人才能成立。ch06 那位老太太念的剪报正是这件事（`It’s sort of like a pilgrimage: I read that you have to get a bit lost in order to find`），ch10 的 Hana 说的也是（`Death, Hana sometimes says, doesn’t have to take someone away from you.`）。**这座馆的全部技术，就是让回响有一个房间可住。**
 
 > **原句 8:** ‘My whole life I have not stopped accumulating evidence to stop things from disappearing, and, in the end, I have done nothing but reinforce their disappearance, accentuate the vision of this loss.’
 

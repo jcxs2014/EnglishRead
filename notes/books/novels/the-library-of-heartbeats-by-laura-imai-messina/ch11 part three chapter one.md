@@ -8,7 +8,7 @@ source_text: ch11
 
 ## 本章导航
 
-- **一句话概括**：秀一用七天赶完七本翻页字卡（每本十个汉字，右上角画一只舔爪的猫）去挽回疏远他的 Kenta；Kenta 母亲来电请他照顾发烧住院的孩子，他因此在柜子里翻出母亲藏起来的一叠旧照片、挂到客厅墙上；而当 Kenta 哭着摊开手心，交出一条沾满泥渍的红线手镯——**他承认自己偷了它，害秀兴失去了运气**——秀一才第一次知道：Kenta 和秀兴曾是最好朋友，手镯在秀兴下水学游泳那天不见了，秀兴死在两个月后。
+- **一句话概括**：秀一用**三天**赶完七本翻页字卡（每本十个汉字，右上角画一只舔爪的猫）去挽回疏远他的 Kenta；Kenta 母亲来电请他照顾**发烧的孩子**——发烧的 Kenta 这次是健康地来的，**住院的是他的祖母**（在福岛犯了心脏病），他因此在柜子里翻出母亲藏起来的一叠旧照片、挂到客厅墙上；而当 Kenta 哭着摊开手心，交出一条**他跑回家用吹风机小心吹干过的**红线手镯——**他承认自己偷了它，害秀兴失去了运气**——秀一才第一次知道：Kenta 和秀兴曾是最好朋友，手镯是秀兴在**上第一堂游泳课那天**作为礼物收到的，**当天就在沙滩上弄丢了**，秀兴死在两个月后。
 - **情感弧线位置**：**情感弧线的最高点与最深揭底同时发生**。前半章是秀一主动伸手（做字卡、挂照片、约定门永远开着），后半章是 Kenta 把两年前那个夏天的全部因果交出来。两个人在这一夜互相交出了各自藏得最久的东西。
 - **Tropes 兑现/反转**：兑现「孩子因愧疚而疏远」的桥段，但把愧疚的对象反转成**自己**：Kenta 疏远秀一不是因为讨厌他，是因为认定自己偷了他儿子的护身符、害他儿子失去运气而淹死。另一重兑现是「把亲子作业放进棺材」——ch03 母亲否认一切，本章母亲把秀一的画藏进床底；两代人都用藏东西处理悲伤。
 - **人物弧线**：秀一在本章第一次**主动命名自己的情感**（`It is loving, not being loved, that counts.`／重要的是去爱，不是被爱），并第一次意识到自己正在把对秀兴的爱「芽接」到 Kenta 身上——他为此专门想象了嫁接的比喻，并承认切口「不精确却恰好正确」。Kenta 则在本章第一次说出他两年来唯一的自我指控：`It's my fault that he lost his luck.`
@@ -24,7 +24,7 @@ source_text: ch11
 
 **为什么这样写**：本章第一个词组 `SHŪICHI WAS RESTLESS.`（秀一坐立不安）单独成段，只有三个词，全大写开头，读起来像一张病历首页上的第一行诊断。紧接着的 `NO MATTER what he did, he longed to be doing something else`（无论他做什么，他都渴望在做别的事）用 `NO MATTER`（无论）起手，把它写成一条**不可能满足的规则**；两个分句的后半（`he longed to be doing something else`／`he would have preferred to be elsewhere`）结构对称：前半用 `doing`（做）＋`something else`（别的事），后半用 `be elsewhere`（在别处）——**从事的否定跳到地点的否定**，句式一换，焦躁就从「闲不住」升级成「不在这里」。`preferred`（更愿意）用比较级而非 `wanted`（想要），把这个渴望说成一个比较级选择，于是它有了**落差**：他知道别处更好。
 
-**读者视角提示**：这一组三句是 ch02 那个「三百三十三天的清算」之后的最新状态。ch08 他在雪夜对 Sayaka 说「我睡不着，出去走走有帮助」——`I don’t understand this life, but I am continuing this life`（我不懂这生活，但我在继续过）——**而本章这一句升级成：他连「在这里」都待不住了。** 这正是 Ogawa 太太那通电话能成为转折的原因：外部世界把他从画里拽了出来。
+**读者视角提示**：这一组三句是 ch02 那个「三百三十三天的清算」之后的最新状态。ch08 他对 Aya 说 `I don’t understand this life, but I am continuing this life`（我不懂这生活，但我在继续过）——那是一个早晨，Aya 刚刚指责过他；ch09 的雪夜他对 Sayaka 说的是另一句：`Been having trouble sleeping of late`（最近睡不太好），出去走走有帮助——**而本章这一句升级成：他连「在这里」都待不住了。** 这正是 Ogawa 太太那通电话能成为转折的原因：外部世界把他从画里拽了出来。
 
 > **原句 2:** ‘It is loving, not being loved, that counts.’ Thanks to this sentence, which his mother often repeated when he was a child and for some reason had suddenly floated back into his mind, he was finally convinced that a good childhood was to be loved to such an extent and in such blessed abundance that you could afford, one day, to be the one who loves.
 
@@ -66,7 +66,7 @@ source_text: ch11
 
 **为什么这样写**：这一段是秀一对自己**最要命的一次自我诊断**，而作者用园艺学给他下了判决。`a dormant bud`（休眠的芽）与 `an old branch`（老枝）是**两种年龄**的器官，而嫁接的定义就是让不同年龄的枝条共用一株根系——于是这个比喻把「把爱转移给另一个孩子」这件事写成了植物学的必然。`the imprecise cut that, by a remarkable coincidence, turned out to be exactly right`（那道不精确的切口，因一个非凡的巧合，结果恰好完全正确）是全章最精密的一句：`imprecise`（不精确）与 `exactly right`（完全正确）被 `a remarkable coincidence`（一个非凡的巧合）连起来——**秀一在赌一个不成立的可能**。而末句 `Kenta sprouted up in his day, and blossomed in his memory.`（Kenta 在他的一天里发芽，在他的记忆里开花）用**发芽／开花**这对植物词把两个时间维度各配一个动作：白天是生长，记忆里是绽放。
 
-**读者视角提示**：ch09 其实已经给过一次判决——秀一看着 Kenta 睡着的脸，`that pose of abandon that he had never seen before`（那种他从未见过的、彻底放弃的姿势），并且 `He couldn’t separate the boy from himself.`（他没法把这个男孩与自己分开）。睡姿与芽接这两处一前一后，说明他在孩子睡着时看得最清楚：睡着时人不会「表演」，而他怕的正是自己这份判断有**表演成分**。
+**读者视角提示**：本章前半其实已经给过一次判决——秀一看着 Kenta 睡着的脸，`that pose of abandon that he had never seen before`（那种他从未见过的、彻底放弃的姿势），并且 `He couldn’t separate the boy from himself.`（他没法把这个男孩与自己分开）。睡姿与芽接这两处一前一后，说明他在孩子睡着时看得最清楚：睡着时人不会「表演」，而他怕的正是自己这份判断有**表演成分**。
 
 > **原句 6:** With the same secrecy as those slivers of night when father and son shared their adventures in hushed voices, on the day of the funeral, Shūichi slipped the stack of paper into the small coffin, at Shingo’s side. He did it once everyone was heading back to the minibus, a moment before the box in which he lay would be closed and burned. Just the time it took for a hug, before the skin of his tiny son would vanish along with the paper.
 
