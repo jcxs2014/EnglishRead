@@ -20,7 +20,7 @@ source_text: ch07_chapter_7.txt
 
 **中文理解**：班纳特先生的财产几乎全部是一份年收入两千镑的地产；不幸的是，在他的女儿们看来，这份地产在没有男性继承人的情况下将被限定继承权转给一位远亲；而他们母亲的财产虽以她的社会地位而言算充裕，却远不足以补上丈夫那份的缺口。
 **关键词**：consisted entirely in, was entailed, in default of, deficiency
-**为什么这样写**：`consisted entirely in` 一句就把全家的经济命运钉死；非限制性定语从句 `which, unfortunately for his daughters, was entailed…` 把"限定继承"这个法律术语翻译成"女儿们吃不到"，而插入语 `unfortunately for his daughters` 是叙述者唯一的情绪外露；`could but ill supply the deficiency` 用虚拟语气 `could but` 写出"帮不上多少"。
+**为什么这样写**：`consisted almost entirely in` 一句就把全家的经济命运钉死；非限制性定语从句 `which, unfortunately for his daughters, was entailed…` 把"限定继承"这个法律术语翻译成"女儿们吃不到"，而插入语 `unfortunately for his daughters` 是叙述者唯一的情绪外露；`could but ill supply the deficiency` 用虚拟语气 `could but` 写出"帮不上多少"。
 **读者视角提示**：`entailed, in default of heirs male` 是理解全书经济动力的关键句：五个女儿无财产继承权，因此必须出嫁。
 
 ② "Mr. Bingley's large fortune, the mention of which gave animation to their mother, was worthless in their eyes when opposed to the regimentals of an ensign."

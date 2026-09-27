@@ -12,7 +12,7 @@ source_text: ch12_chapter_12.txt
 - **情感弧线位置**：**转折前的压抑**——本章是一次"退场"：主角团从尼日斐撤回朗伯恩，尼日斐的社交场暂时关闭，为第 13 章的重逢让路。
 - **Tropes 兑现/反转**：兑现"病愈即告辞"的体面礼数；反转在达西的"自我克制"——`he adhered most conscientiously to his book, and would not even look at her` 不是不爱，而是不敢；而叙述者随即安排简她们与民兵军官的接触，为下一段感情线埋线。
 - **人物弧线**：达西——本章最见内心：`She attracted him more than he liked`（她吸引他的程度超过他愿意承认的），他随即开始一项"管理自己"的工作；伊丽莎白——本章几乎无台词，全章由她"递交请求—被拖延—达成"的动作线构成；班纳特太太——她的算盘（女儿留到周二）被打乱，回复"not propitious"。
-- **叙事手法**：全知第三人称；本章大量使用"过去完成时 + 被动式"（`had been delayed` / `was settled that…`）写母女与主人家的协商，节奏缓慢而事务性，与第 11 章的机锋形成对照。
+- **叙事手法**：全知第三人称；本章大量使用"过去完成时 + 被动式"（`Much had been done and much had been said` / `was settled that…`）写母女与主人家的协商，节奏缓慢而事务性，与第 11 章的机锋形成对照。
 
 ## 精读
 

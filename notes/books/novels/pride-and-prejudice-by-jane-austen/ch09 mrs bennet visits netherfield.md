@@ -55,7 +55,7 @@ source_text: ch09_chapter_9.txt
 
 **中文理解**：不过达西无论如何都不肯加入她们对她的指责，不管宾利小姐关于那双美眼说了多少俏皮话。
 **关键词**：prevailed on to, join in, censure, witticisms
-**为什么这样写**：`could not be prevailed on to do`（怎么劝都不肯做）用被动式，把达西的坚持写成众人无法左右的定局；`in spite of all…witticisms`（不管多少俏皮话）里的 `all` 与前面的 `not` 呼应，写出他承受的压力；他拒绝的是"加入指责"这个动作，而不是替她辩护——全书最精密的一次立场表达。
+**为什么这样写**：`could not be prevailed on to join in their censure`（怎么劝都不肯加入指责）用被动式，把达西的坚持写成众人无法左右的定局；`in spite of all…witticisms`（不管多少俏皮话）里的 `all` 与前面的 `not` 呼应，写出他承受的压力；他拒绝的是"加入指责"这个动作，而不是替她辩护——全书最精密的一次立场表达。
 **读者视角提示**：全章最后一句用定语从句把达西单独摘出来，与众人对立；注意叙述者没有加一句赞语，立场全在结构里。
 
 ## 本章词汇

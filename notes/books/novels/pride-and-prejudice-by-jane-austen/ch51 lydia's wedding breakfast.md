@@ -8,7 +8,7 @@ source_text: ch51_chapter_51.txt
 
 ## 本章导航
 
-- **一句话概括**：莉迪亚的婚礼；一家人等着听忏悔，莉迪亚进门就开始讲这个月的新裙子（`I have a nice new gown to show you`），而叙述者只冷冷地收了一句：他俩的"自在亲热"把班纳特先生的脸"越发僵了"（`His countenance rather gained in austerity`）。
+- **一句话概括**：莉迪亚的婚礼；一家人等着听忏悔，她进门就挨个向姐姐讨贺（`demanding their congratulations`），还把屋子四下打量一通说"好久没来了"（`observed, with a laugh, that it was a great while since she had been there`）；而叙述者只冷冷地收了一句：他们那份"自在亲热"把班纳特先生的脸"越发僵了"（`His countenance rather gained in austerity`）。
 - **情感弧线位置**：**喜剧性的收尾**。莉迪亚线以最大声的轻佻收场，全书的重心却已经完全转回彭伯利。
 - **Tropes 兑现/反转**：兑现"私奔者归家"这一惯例；反转在于**无人哭、无人生气到失控**——所有情绪都被压在"亲热的表面"之下，只有伊丽莎白自己脸色发红，而两位当事人"脸上没有一丝变色"。
 - **人物弧线**：莉迪亚——本章她"还是莉迪亚"（`Lydia was Lydia still; untamed, unabashed, wild, noisy, and fearless`），五个形容词一次清点，是全书对她最吝也最准的判词；威克姆——本章他`had not before believed him quite equal to such assurance`（伊丽莎白从未料到他竟能这般笃定），这句从她的视角写他的无赖，比直接骂更狠；班纳特先生——本章他`scarcely opened his lips`（几乎没开口），全家的失望与丽迪雅的归来在他脸上交战，结果是"话说不出来"。

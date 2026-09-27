@@ -11,7 +11,7 @@ source_text: ch10_chapter_10.txt
 - **一句话概括**：客厅里两场并行的"戏"：宾利小姐对达西的书法全程献殷勤而达西心不在焉；随后宾利自嘲写字潦草，达西借题发挥，把"谦逊"和"写作"一路批到"立即走人"那桩得意事上。
 - **情感弧线位置**：**升温**——本章是伊丽莎白第一次"赢"达西，而且赢的方式是让他无法反驳；也是达西第一次在她面前连说三段长话而没有落荒而逃。
 - **Tropes 兑现/反转**：兑现"男主被女配缠住而女主在场旁观"；反转在达西批宾利那段——他分析得头头是道，却没意识到他自己早就在用同样的方式自我欺骗（下一章他与伊丽莎白的独白会照搬这套逻辑）。
-- **人物弧线**：达西——本章首次在她面前展现"论述的快感"（`he studies too much for words of four syllables` 之后一路说下去），并首次因被人看穿而退缩（`Nay…to remember at night all the foolish things that were said in the morning`）；伊丽莎白——她看穿了，却只说了一句 `Your humility must disarm reproof` 就放过他。
+- **人物弧线**：达西——本章首次在她面前展现"论述的快感"（`he studies too much for words of four syllables` 之后一路说下去），并首次因被人看穿而退缩（`Nay…to remember at night all the foolish things that were said in the morning`）；伊丽莎白——她看穿了，却只回了一句 `"Your humility, Mr. Bingley," said Elizabeth, "must disarm reproof"` 就放过他。
 - **叙事手法**：全知第三人称；前段用"书信往来"式短对白制造节奏，后段转成长段独白；叙述者始终不评判，只把"她把针线活做得分了心"这类细节放在旁边。
 
 ## 精读
@@ -42,7 +42,7 @@ source_text: ch10_chapter_10.txt
 **中文理解**：做事快的那种能力，总被拥有它的人看得很重，而且往往并不顾及成果的缺陷。
 **关键词**：the power of, imperfection, performance
 **为什么这样写**：原句说长处总被拥有者看重，且不顾成果的缺陷——用被动式而非"自豪于"，把批评的对象从"人"移到"拥有者如何对待自己的能力"；`without any attention to the imperfection of the performance` 里的 `performance`（成果）承接前面的 `power`（能力），形成"能力—成果"的对照。
-**读者视角提示**：注意全句用的是被动式 `is prized`——达西在评的其实是"人"，却把主语让给了"能力"，这是他辩论时的典型退让。
+**读者视角提示**：注意全句用的是被动式 `is always prized much by the possessor`——达西在评的其实是"人"，却把主语让给了"能力"，这是他辩论时的典型退让。
 
 ⑤ "You meant it to be a sort of panegyric, of compliment to yourself—and yet what is there so very laudable in a precipitance which must leave very necessary business undone, and can be of no real advantage to yourself or anyone else?"
 
