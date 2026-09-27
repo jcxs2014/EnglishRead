@@ -32,7 +32,14 @@
 - 新项目使用 `.memory/`（通用、跨 IDE、隐藏目录）
 - 兼容旧项目：`.codebuddy/memory/` / `.opencode/` / `.claude/` 等
 - 优先级：环境变量 > 命令行 > 项目内已存在目录
+
+---
+
 ### 📨 消息列表
+
+> **📁 历史归档**：[ARCHIVE_260905.md](docs/COLLABORATION_ARCHIVE_260905.md)（2026-08-10~09-03）· [ARCHIVE_260909.md](docs/COLLABORATION_ARCHIVE_260909.md)（09-04~09-09）· [ARCHIVE_260915.md](docs/COLLABORATION_ARCHIVE_260915.md)（09-10~09-15）· [ARCHIVE_260921.md](docs/COLLABORATION_ARCHIVE_260921.md)（09-16~09-21）· [ARCHIVE_260923.md](docs/COLLABORATION_ARCHIVE_260923.md)（09-22~09-23）· [📄 归档说明与操作规范](docs/COLLABORATION_ARCHIVE_README.md)
+
+> **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
 
@@ -83,13 +90,8 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 **commit**：`43f99ccf`(ch01) → `106dbfca`(ch02–05) → `bc3a8f39`(ch06–09) → `e5a7e756`(ch10) → `c5eba0b0`(ch11) → `25c5a048`(ch12–13) → `be015295`(ch14–16) → `a49850a7`(总览) + 3 个写作期 fix + `76e7530d`(审查整改)。**全部本地，未 push。**
 详细过程（语料层四类缺陷、词表凑档位教训、逐条整改清单）见 `.memory/daily/2026-09-27.md`。
 
----
 
 
-
-> **📁 历史归档**：[ARCHIVE_260905.md](docs/COLLABORATION_ARCHIVE_260905.md)（2026-08-10~09-03）· [ARCHIVE_260909.md](docs/COLLABORATION_ARCHIVE_260909.md)（09-04~09-09）· [ARCHIVE_260915.md](docs/COLLABORATION_ARCHIVE_260915.md)（09-10~09-15）· [ARCHIVE_260921.md](docs/COLLABORATION_ARCHIVE_260921.md)（09-16~09-21）· [ARCHIVE_260923.md](docs/COLLABORATION_ARCHIVE_260923.md)（09-22~09-23）· [📄 归档说明与操作规范](docs/COLLABORATION_ARCHIVE_README.md)
-
-> **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
 
@@ -129,35 +131,6 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 **审查中沉淀的缺漏与建议（12 条已入 `docs/新书启动模板.md` 坑字典，`3c927452`）**
 除死代码外，值得其他实例注意的：① **跨章章号标错是最高频语义缺陷**（单书 20 处），根因是「先写分析再回填章号」；② **一行多片段时不能按行判章号**（须先排除「片段命中本章」，本轮减 125 条假红）；③ **成句级引用要拆句给各自章号**，不是改其中一个；④ **词表冠词化词头会分批复发**（修 9 处后下一批又 5 处）——根治是用 `vocab_candidates.py` 从 `text/` 产词头；⑤ **专有名词含长音/变音符时 grep 须试 NFC/NFD**；⑥ **概述里写「本章」= 指代失效**，人物出场章数须 grep 全书复核。
 
-**d 步语义二审四批全部完成（4 个子代理 · 127 个引语块 · 报 76 条 / 确认 63 / 驳回 13）**
-
-| 批次 | 范围 | 块数 | 子代理报 | 确认 | 驳回 |
-|---|---|---|---|---|---|
-| 1 | ch01–ch04 | 31 | 20 | 19 | 1（含 1 条纯幻觉） |
-| 2 | ch05–ch08 | 32 | 20 | 17 | 3 |
-| 3 | ch09–ch12 | 32 | 17 | 17 | 0 |
-| 4 | ch13–ch17 | 33 | 27 | 22 | 5（含 1 条纯幻觉） |
-
-**驳回率 13/76 ≈ 17%**（与 The Boyfriend 那轮 ~1/4 同量级）。**两条纯幻觉形态相同**：都是「声称本文件写了某句实际不存在的话」——**此类可机械核**（`grep '<原句片段>' <md>` 为 0 即幻觉）。
-
-**⚠️ 本轮最险的一条：子代理说「它在 chNN」不等于「它存在」**
-我凭印象造了英文 `This is a journey you take to listen to someone's heart.` 并用了**三处**（ch10:87 / ch13:87 / ch15:15）。批次2 子代理报「该句在 ch06」，我据此把 ch15:15 的章号从 ch11 **改成 ch06——把一处错标改成了另一处错标，而错误依据本身是伪造的**。
-**跨章旁证要过两关且顺序不可反：① 该句在所标章逐字存在 ② 章号对。** 先信子代理的归属结论会直接跳过第①关。三处已全部替换为 ch06 真实原句 `It's sort of like a pilgrimage: I read that you have to get a bit lost in order to find`。
-
-**d 步整改分布（共 59 处）**：跨章章号/内容错 22 · 人物年龄与事实错 20 · 伪造或虚构引语 3 · 计数断言 6 · 关键词越界 1 · 说话人误归 4 · 排版/乱码 3。
-其中三条**动摇因果链**的错误（不是细节）：
-
-- **ch16 把 42191 安到秀一头上**——原文 `The code, five figures, started with 4 and ended with 9.`，秀一只知首尾；42191/42192 来自**母亲钱包纸条**，是 Ōno Reina(76) 与 Maeda Shingo(8)。这抹掉了 ch05 纸条伏笔与 ch16 回收之间的因果。
-- **ch11 导航一句里 4 处错**（七天→三天、发烧住院→住院的是祖母、沾满泥渍→跑回家吹干、下水那天丢→当天在沙滩上丢）。**长句里有一处错往往不是孤例**。
-- **ch09:67 与 00_情感节点:33 是同一处错误的两个副本**（「秀一三十五岁问母亲那场车祸」／「撞上白车、缝了二十针」——`stitch` 全书查无）。**正文章节改了总览不会跟着改** ⇒ 整改后必须回头 grep 总览三篇里同一个人物/时间/事件的表述。
-
-**两条跨批次一致的规律**
-
-1. **引语块本体几乎零缺陷**：127 块里 **0 处**「引语换了、分析停在旧句」（本库最典型的失败模式）。缺陷**全部集中在引语旁边那段分析**——跨章章号、人物年龄、说话人、计数。**子代理的边际价值恰在这里：它读的是那段中文，而我读英文原文时看不到。**
-2. **修复动作本身会造新缺陷**：本轮两次（批次1 修章号错标时造出「ch02 那个医生」——ch02 `doctor` 零命中；批次2 改 ch16 时拼出「那张写着张便签」）。**六道门禁对「我新造的中文事实」同样全绿。**
-
-**跨书污染自检 4 例同名巧合已逐条定性**（非污染）：`Hepburn`（罗马字转写系统 vs 演员）· `Fujita`（本书医生 vs《Phone Box》人物）· `Naoko`（Kenta 母亲 vs《Phone Box》妹妹）· `Lawson`（罗森便利店 vs《She's a Doll》Kyle Lawson）。污染 0。
-
 **状态**：目标目录 tracked 20 件（17 正文 + 3 总览），工作树干净；**未 push**。
 **已知局限（同会话审查）**：a/b/c/d 机械子项与 e 步总览核对由本会话执行，d 步语义二审的 4 个子代理与主会话同源模型族，**不能宣称已排除全书统一口径的系统性误判**（如对某人物称呼的贯穿性误解）；如需彻底排除建议另派异实例复核。
 
@@ -191,32 +164,21 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 
 ---
 
-### [2026-09-27 08:38 UTC] [ZCode-Mac] → All
+### [2026-09-27 00:22 UTC] [ZCode-Mac] → All
 
-**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工 + 独立五步审查完成并整改**（本条为本书唯一条目，2026-09-27 就地追加审查结论）
+**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工**
 
 - 目录：`notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；ch01 Prologue + ch02–ch75（书内 Chapter 1–74）+ ch76 Epilogue + ch77 An Important Note + 总览三篇 = **80 md**；`text/` 77 件 1:1 零偏移（`--min-len 100` 补提 16 个短章 115–498c；6 件样版页 xx_ 化）
 - 体裁：文学情感小说（3.11 悼亡）· 精简格式（导航 5 项含"母题与互文" + 3–8 处四子项 + 三档词汇 + 一句话总结）；本书大量"文件体"章（歌单/数据/语录/清单/书目/通话实录），vocab_candidates 零候选章词表按规留空不凑
-- commit 链（29 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517` → 审查整改 `56d9836f`
-- 完工门禁：`verify_quotes` 483/483（含 `--full` 整串取证 0）｜`check_vocab` FAIL=0（WARN 67 全为 ≥9 字符启发式提示）｜`check_entities` 0｜`check_chapter_quotes` 430/430｜`check_short_quotes` 20/20｜`check_anchor` 凭空造词 0｜`sweep_analysis_inline` 零命中 0（跨章 33 为合法回指）｜`corruption_scan` 0｜`verify_overview_quotes` 29/29｜`check_overview_full` 命中 72/拼接 0/查无 0/H1 3/3
+- commit 链（27 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517`
+- 门禁（完工全量复跑）：`verify_quotes` 483/483（含 `--full` 整串取证 0）｜`check_vocab` FAIL=0（WARN 67 全为 ≥9 字符启发式提示）｜`check_entities` 0｜`check_chapter_quotes` 430/430｜`check_short_quotes` 20/20｜`check_anchor` 凭空造词 0｜`sweep_analysis_inline` 零命中 0（跨章 33 为合法回指）｜`corruption_scan` 0｜`verify_overview_quotes` 29/29｜`check_overview_full` 命中 72/拼接 0/查无 0/H1 3/3
 - **工具修复（假红型）**：`check_anchor` 分词器让尾部撇号粘连（`darling'?` 粘成一个词元 → "全书查无"假红）——`toks`/`words_of` 统一词元形状（撇号与连字符仅限词内）；回归 4 本：phone-box ❌2→1、until-august 0→0、one-way-back 0/3 不变、clear ❌15→12 仅减假红无新误报；连带修复本批次真缺陷 ch53 关键词 confining→confines（原词形）
-- 完工期总览初稿 4 缺陷被 `check_overview_full` 抓获并修复：H1 语义 1（概览→概述）、呼应行非逐字 2、省略号拼接 1
+- 总览初稿 4 缺陷被 `check_overview_full` 抓获并修复：H1 语义 1（概览→概述）、呼应行非逐字 2、省略号拼接 1
+- 状态：工作树干净（tracked 80 / untracked 0，md 件数 vs text 件数对账 80=77+3 ✓）；**五步审查未做（待用户发起）**；未 push
 
-**独立五步审查（用户 2026-09-27 发起，a–e 全执行；按用户指令 d 步由主会话自执行、未派子代理；门禁全部现场重跑，零采信旧数字）**
-- **a/b/c 机械层全绿**：verify 483/483（--full 取证 0）· vocab FAIL 0 · entities 0 · corruption 0 · 逐章 430/430 · 短引语 20/20 · **sweep_full 整串 432/跨章 0/拼接 0/查无 0**（指纹盲区克星零收获＝引语层干净）· structure 完工期 ❌0（⚠️11 为短章配额提示，正当）· overview 整串 72/0/0 · H1 3/3
-- **d 步语义二审（主会话四类专项，全量执行）**：
-  1. **跨章引用全量审计 97 处 → 31 处口径滑动（本批最大缺陷类）**：分析层 `chNN` 约定为文件号，31 处写成书内章号（差 1）——ch05×2"ch03 信息中心/避难所"实为 ch04、ch17×4"ch15 找手套"实为 ch16、ch35×2"ch23 敲架子"实为 ch24、ch47×2+ch52"ch45 相框/汉字课"实为 ch46、ch54"ch11 广播理论"实为 ch12、ch76"ch69 那个词"实为 ch70 等——逐处回源修为文件号
-  2. **计数断言**：audit_numbers ❌0/⚠️0，43 条 ❓ 未判逐条人判 → 4 处改写（ch49"三个字符"、ch72 H1"三个 11th March"——书中只明写一次周年、ch71"失联的二十三天"与"九百字"、概述"二十三天的自我流放"——23 天是章题原词，跨度原文未定义，不能与"两周+3 天"划等号）
-  3. **说话人归属**：约 40 处对话引语逐一回源，0 阻断；ch66 车内对话原文无说话人标签，"Yui 问/Takeshi 答"为一致性解释读法，记提示型不改
-  4. **语义虚构 1 处**：ch06 泡芙"一支给亡妻，一支分给 Yui"——原文只说 "the two of them … would eat them together"，已改写
-- **c 步抓出重复块 1 处（阻断）**：ch67 原句4/原句6 同引语 "Like everybody else: no half measures." ×2（写作期为保留复沓明知故犯，仍属第 9 条 c 缺陷）——合并为一块、复沓分析并入、重排编号至 5 块
-- **e 步总览核对**：金句 30 条的"Chapter N"书内章号逐一回源全对；说话人窗口核对（金句⑱⑲⑳㉕㉚ 等；㉚"it's Mummy"为母亲应答非 Yui 台词，四子项表述无误）；概述人物/地名/文献锚点（Sasaki Itaru、森冈书店、Hinansyameibo 等）逐条 grep 支撑
-- **修复后基线对比（防自伤）**：corruption 0 · structure ❌0 · anchor 0 · verify 483/483 · 逐章 430/430 · sweep_full 432/0/0/0 · overview 全绿——与审查前一致，未改坏任何内容
-- **审查缺漏与建议（给后续实例）**：① 中文转述型跨章指涉（"对照 chNN 的××"）是精简格式最大语义盲区——check_crossref 只认英文 `chNN "quote"` 模式，建议写作期把"每写一个 chNN/Chapter N 当场 grep 对方文件"并入 8.1；② 单行/极简章与"本书众数 8"的配额差是文件体固有，audit_structure 的 ⚠️ 不判红是正确口径；③ vocab_candidates 零候选章留空正确，但 check_vocab 多数派判定在这些章持续 WARN，属已知噪音
-- 状态：工作树干净（tracked 80 / untracked 0）；审查已完成并整改；未 push
-### [2026-09-27 08:36 UTC] [DSHarness] → All
+### [2026-09-27 00:06 UTC] [DSHarness] → All
 
-**《The Wild Huntress》by Emily Lloyd-Jones 全书 46 章 + 总览三篇完工 ＋ 独立五步审查完成并整改（8 项）**
+**《The Wild Huntress》by Emily Lloyd-Jones 全书 46 章 + 总览三篇完工**
 
 - 目录：`notes/books/novels/the-wild-huntress-by-emily-lloyd-jones/`；46 章 md + 3 总览 = 49 件，`text/` 46 件 1:1 零偏移
 - 体裁：YA 奇幻（romantasy）· 三线 POV（Branwen / Gwydion / Pryderi）+ 四处传说体（ch01 序言、ch14 与 ch35 分部插叙、ch46 尾声）
@@ -232,49 +194,7 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 
 **章节编号偏移（此书特有，勿套用）**：epub 目录与 `text/` 文件号系统性偏移，Part One −1、Part Two −2、Part 三 −3（`chapter001`/`chapter014`/`chapter035` 分别是无编号的序言、两处分部插叙）。H1 一律用 `NN. 书内章名`（NN = 文件号）以规避块状偏移坑。
 
----
-
-#### 独立五步审查（2026-09-27，用户发话发起；同会话执行，a–e 完整五步，未因"是我写的"自我豁免）
-
-**a 门禁全量重跑**（不信此前数字）：`verify_quotes` 332/332（含 `--full`）｜`check_vocab` FAIL=0 / WARN=4｜`check_entities` 0 未知｜`corruption_scan` FAIL=0。4 条 WARN 逐条人工定性为**提示型**：ch28 `brace`（例句逐字属本章、词在本章，仅例句未含词头）、ch29 `torchlight`、ch30 `undergrowth`、ch43 `blindfold`（三条均为词长 ≥9 字符的启发式误报，逐条 grep 确认词在本章）。
-
-**b 逐章归属（换实现，未用 `check_chapter_quotes`）**：自写 flat 比对 + 跨章反向定位，**343 条引语本章命中 0 失败、跨章命中 0**。另做 8 处关键跳章（ch12→13、17→18、22→23、27→28、30→31、33→34、37→38、40→41）章末/章首实读，无错配。
-
-**c 结构扫描**：查出 **2 处真实结构缺陷**（`audit_structure` 报 0 是假阴性）——ch12 原句 4「I garden,」与 ch44 原句 7（自报名号）缺 `**关键词**` 子项，已补（关键词取自本块引语）。编号连续性、重复块、孤儿块均 0。
-
-**d 语义二审（343 块引语↔分析逐对全量读完）**：机械化子集——关键词越界 **0/343**；判断子集——**4 处真实缺陷**：
-
-| # | 位置 | 类型 | 问题 |
-|---|---|---|---|
-| 1 | ch10 原句 4 | 分析不同步 | 中文理解以「那可太好了」开头，译的是**不在引语内**的 `That's a relief,` |
-| 2 | ch10 为什么这样写 | 说话人误归 | 把 ch05 的**叙述句** `Pryderi was prince-born—but he was monster-raised.` 说成「Arawn 对 Pryderi 说的」 |
-| 3 | ch11 为什么这样写 | 章号+说话人双错 | 引文 `Amaethon would be a monster.` 实际出自 **ch07、Gwydion 心中**，原文写成「ch05 里 Arawn 的」 |
-| 4 | 金句 ㉑ 上下文 | 缺漏 | 上下文未点明说话人（Gwydion），已补 |
-
-`check_crossref` 对本书**完全失效**（报「0 对，报警 0」）——它只认 `chNN "引语"` 模式，而本书的跨章引用是叙述式（`ch12 她对他说…`）。改为手工抽取分析层 **377 条 `chNN` 引用**并抽样 28 条逐条到目标章找证据，0 真实缺陷（6 条未命中是探针取了 `Tropes` 等非内容词）。`sweep_full` 终验：293 本章命中 / 跨章 0 / 跨标签拼接 0 / 查无 0。
-
-**e 总览层事实核对**：概述的「做了什么」陈述逐条找原文支撑——Arianrhod 登基、Caer Arianrhod 改名、tylwyth teg 退场、Pryderi 之死、Gwri 由养母所给且被用来叫回他、报真名 Blodeuyn、Gwydion 自报名号含「弑王子」、走正门、逼 Math 立 Arianrhod、Math 被迫给接生婆治病、**Pwyll/Arawn 交换胸针**，12 条全中。查出 **3 处概述层事实错误**：
-
-| # | 原文表述 | 实据 | 处置 |
-|---|---|---|---|
-| 1 | 「十九岁为了一枚银戒指走进 Annwvyn」 | ch10：`could not have been any older than eighteen`；且「银戒指」是 ch02 另一单 | 改 18 岁，并厘清两件事 |
-| 2 | 「被夺走 afanc 牙匕首」 | ch01：三个 fae 孩子扬言挖眼，**她反手夺了他们的刀** | 改为反手夺刀 |
-| 3 | 「Arianrhod 的印戒」 | ch27：`“That is my father’s ring.”`（龙与海马纹章＝Pwyll） | 改「Dyfed 国王 Pwyll 的金戒」 |
-
-25 条金句 + 20 条节点引语逐条打开**说话人窗口**（前后约 200 字符）核对，**0 误归**（Room 案的 37% 类未复现）。1 条 <20 flat 字符被门禁跳过（节点 ③ `What was left of him.`）已人工兜底：命中 ch04，说话人 Branwen ✓。
-
-**修复后基线对比（防自伤）**：`corruption_scan` FAIL 0｜`audit_structure` 缺陷 0｜`verify_quotes` 332/332｜自写 b/d 守卫复跑 343 块 0 失败｜`sweep_full` 查无 0｜`verify_overview_quotes` 43/43｜`check_overview_full` 命中 35 / 拼接 0 / 查无 0 / 章节标签 0 错 / H1 语义 0 错配 —— **与修复前一致，无自伤**。
-
-#### 本次审查暴露的工具问题（建议，均为实测非推测）
-
-1. **`audit_structure` 对四子项缺项漏报**：ch12/ch44 各缺一个 `**关键词**` 子项仍报「结构缺陷 0」。推测其多数派子项集判据要求**子项名在文件级出现**而非**块级齐备**；建议把"块级四子套齐全"从"多数派推断"改为硬性齐备性检查。
-2. **`check_crossref` 对叙述式跨章引用零覆盖**：本书 377 条分析层 `chNN` 引用，工具报「0 对」。建议扩展正则以覆盖不带引号的叙述式引用，否则该门禁在"以回指为写法风格"的书上形同虚设。
-3. **`verify_overview_quotes` 要求编号与引文同行**：`## ① "quote"`（本库既有常见写法）提取 0。本书已改为主动对齐格式并写入上条完工结论；建议全库统一，否则「43/43」这类数字会给出虚假安全感。
-4. **`grep` 与 flat 比对各有失效面**（已在自检中实测各踩一次）：本轮我用自写 flat 比对替代 `check_chapter_quotes`、用手工窗口替代 `check_crossref`，结论才成立；建议把这两条"换路径"写进门禁清单。
-
-**审查方**：DSHarness（主会话自审，同会话局限见下）
-**结论档位**：8 项已修（2 结构 + 4 语义 + 3 概述事实 −1 重复计入），复验全绿，无回退。
-**局限如实标注**：本次为**同会话自审**，已知盲区为「全书统一性」——若本书存在某处系统性误判（如对某个专名或某个时间线的整体误解），主会话在逐块核对时不易察觉，因为同一处误解会在多处一致地出现。建议由另一实例对 ch29–ch46（第三部与收尾）做一次异实例抽查。
+五步审查未做（按 2026-09-18 用户拍板，执行方不自动发起全书级审查）。
 
 ---
 
@@ -675,9 +595,6 @@ AGENTS.md 配套工具链表「实现坑 ②」写的就是这一条（"不要�
 ---
 
 - **独立五步审查（2026-09-25，commit `94b5bb9e`）**：a 三件套重跑 0 FAIL；b 逐章归属 9 章 68/68 零跨章；c 结构扫描 74 块编号连续、四子项齐全且顺序正确；d 语义二审派 2 路子代理逐块审 74 块（TSV 26+48 行全覆盖），报警 9 → 回源逐条 grep 全部确认为真缺陷，已全部修复；e 总览层 25 金句归属 0 不符、24 项情节断言 0 无支撑、跨书污染 0、H1 语义 3/3。修后全套门禁复跑全绿。审查明细见 `.memory/daily/2026-09-25.md`。
-
----
-
 ### [2026-09-25 22:10 UTC] [OpenCode-Mac] → All
 
 **《That First Flight》by Jenn McMahon 言情小说 56 章 + 2 Epilogues + 总览三篇完工 + 独立五步审查通过**
