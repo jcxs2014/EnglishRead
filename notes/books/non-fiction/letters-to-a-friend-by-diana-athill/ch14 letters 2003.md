@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；本组十二封信的落款从单字 `D` 逐步回到 `Love and love D` 与 `Love. Diana`，吻首则在 `Darling Edward –` / `Dearest Edward,` 之间摆动
 - **章节定位**：书信部分第 12 组（ch03–ch16 共 14 组），时间跨度 2003 年 1 月 – 10 月，共 12 封（书信第 112–123 封）。**本组是全书「媒介变更」的界碑**：25 FEBRUARY 那封信署名之后有一段编者按，其中一句写明从那以后她给爱德华的信都成了电子邮件——于是本组的后半段（13 AUGUST 起）在形式上已经是「一封电邮讲完一整天」的写法
-- **篇幅**：27,885 字符（`text/ch14_letters_2003.txt`，非空白字符计）；12 封信 + 6 处方括号插补（编者按）+ 2 段署名之后的编者按（未加方括号）
+- **篇幅**：27,885 字符（`text/ch14_letters_2003.txt`，非空白字符计）；12 封信 + 7 处方括号插补（编者按）+ 2 段署名之后的编者按（未加方括号）
 - **一句话主旨**：这是全书最忙、也最不像「书信」的一年：中风、皮肤癌手术、坐骨神经痛、被伪造的支票、罚单、电脑死机一件接一件，而她处理它们的方式始终是**当场办、办完写信报告**——信里没有一次诉苦，只有一次关于「差点死掉」的坦白
 - **信件清单**：1 JANUARY 2003 · 21 JANUARY 2003 · 9 FEBRUARY 2003 · 25 FEBRUARY 2003 · 11 JULY 2003 · 22 JULY 2003 · 24 JULY 2003 · 13 AUGUST 2003 · 28 AUGUST 2003 · 16 SEPTEMBER 2003 · 18 SEPTEMBER 2003 · 8 OCTOBER 2003
 - **说话人提示**：全部为阿瑟尔写给爱德华；11 JULY、24 JULY、28 AUGUST 三封没有单独的称呼行（分别以 `Darlings –`、直接叙述、`Disasters do not come singly!` 起首）；本组她转述**别人**的原话用单引号（Barry 的 `‘which’ – reproachfully – ‘sent my blood sugar up a lot’`），而她转述**自己**的话同样用单引号（21 JANUARY 的 `saying ‘Hey – look at me!’`）——书中没有「转述自己用双引号」这套分别
@@ -91,7 +91,7 @@ modified: "2026-09-27"
 
 **表达方式**：`fixed in my mind as being`（在心里被固定成）把「信」与「说话」之间的替换关系写成一次**认知上的篡改**；三个 `so` 层叠（`so many` / `so … that` / `so letters`），让整段推理听上去像在为自己辩解。
 
-**为什么这样写**：她在这里交代了一个关键事实：**她从来没有保存别人的信**——这既是她与 Alfred 的旧账（ch03 里她说过自己没留住 Alfred 与 Jean 的信），也是这批信能出版的原因（她只剩自己这一边）。修辞上 `ephemeral` 一词把「写信不留信」从习惯提升为命运：不是她懒得留，而是信在她心里**等于说话，而说话是不留痕的**。
+**为什么这样写**：她在这里交代了一个关键事实：**她从来没有保存别人的信**——这既是她与 Alfred 的旧账（同一封信里她就说了 `I’m not, and I’ve never been, a keeper`，同段还有 `Jean’s – I ought to have learned my lesson`），也是这批信能出版的原因（她只剩自己这一边）。修辞上 `ephemeral` 一词把「写信不留信」从习惯提升为命运：不是她懒得留，而是信在她心里**等于说话，而说话是不留痕的**。
 
 ### ③
 

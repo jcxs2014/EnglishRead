@@ -15,7 +15,7 @@ modified: "2026-09-27"
 - **一句话主旨**：名声来了又走，评论都在盯着「这位老太太的难堪剖白」而没人听她讲的故事，钱退回来比预想的多，唯一还供得上事实的人正在忘记一切——于是这组信记录的不是成就，是**空转**：日子「slowly, slowly」熬成稀粥，而通信是唯一没有停下来的事
 - **信件清单**：9 JANUARY 1993 · 27 JANUARY 1993 · 11 MAY 1993 · 17 JUNE 1993 · 29 DECEMBER 1993 · 5 APRIL 1994 · 25 OCTOBER 1994 · 10 DECEMBER 1994 · 24 MAY 1995 · 6 JUNE 1995 · 14 JULY 1995 · 28 JANUARY 1996 · [UNDATED]
 - **说话人提示**：全部为阿瑟尔写给爱德华；称呼自 `Dear love,` 递进到 `Dearest Edward –`，其中 9 JANUARY 1993 那封是一张卡片、10 DECEMBER 1994 那封没有称呼，两封都直接开口；`THE DOG SITTERS` 是爱德华写的；`[Here is Edward’s dog-sitting poem:]`、`[I did go to Vienna…]` 与 1996 年 1 月 28 日信内两处方括号均为编者按
-- **人物**：Diana Athill；Edward Field（收信人）；Neil Derrick（爱德华的伴侣，本组只被提到两次）；Barry（她的兄弟，同住；狗 Hannah 归他）；Barbara（她的表亲，ch06 原文称 `my cousin Barbara`；本组两件大事——诗人的新欢与维也纳——都从她那条线进来）；Marie-Louise Motesiczky（原文拼法；画家，奥地利 Belvedere 美术馆收藏其作品）；Steerforth Press（原文写法，美国佛蒙特州的一家小出版社）与 Tom Powers；André Deutsch（原文拼法 `Deutsch`；她的前雇主）
+- **人物**：Diana Athill；Edward Field（收信人）；Neil Derrick（爱德华的伴侣，本组只被提到两次）；Barry（她的伴侣，同住；狗 Hannah 归他）；Barbara（她的表亲，ch06 原文称 `my cousin Barbara`；本组两件大事——诗人的新欢与维也纳——都从她那条线进来）；Marie-Louise Motesiczky（原文拼法；画家，奥地利 Belvedere 美术馆收藏其作品）；Steerforth Press（原文写法，美国佛蒙特州的一家小出版社）与 Tom Powers；André Deutsch（原文拼法 `Deutsch`；她的前雇主）
 - **原书排印痕迹**：1994 年 4 月 5 日那封在 `the ancient painter` 之后留有 `*` 与 `(See page 67)`，属原书的注释标记，本章照录
 
 ### 叙事脉络
@@ -105,7 +105,7 @@ modified: "2026-09-27"
 
 **表达方式**：`So I said … So that’s done.` 两句短句把一个出版决定压缩成「我提议—就定了」，中间的谈判全部略去；而 `Thank you a thousand times beloved Edward` 与 `but probably I’d better settle for a bird in the hand` 紧挨着，形成一次语气的急转：**极致的感谢之后立刻是认命**。`don’t you think?` 把这个认命变成向对方确认，英文里这种把判断包装成提问的收尾，是她从编辑那里学来的礼貌习惯。
 
-**为什么这样写**：这本书的原名是 *Make Believe*，也就是 ch06 编者按里那句 `The ‘book about Hakim’, Make Believe` 所指的那一本——ch06 同一条注还写明它 `turned out to think he was God`，所以 Steerforth 那位要她改书名，改的正是这个事实：书名从「一个假装」（*make believe*）变成「一个真以为自己是神的人」。而她与 Hakim 的关系在 ch03 已被她自己认作身上的一处病，本组 25 OCTOBER 1994 那封又把他记得极细：`Hakim hating my dirty pot-holder in the kitchen and fussing about what toothpaste he used`。于是这封信表面在谈一个商业决定，实际上是**她第一次让别人替她说出「我在那个人身上看见了什么」**。`a bird in the hand` 这个习语在这里被压得很扁：她不是选了一个更好的选择，而是承认爱德华为她做的所有推销都不管用，而两千美元先到手比较实际。这种「先谢到一万倍、再说自己认输」的排列，是英语（尤其英式写信）在坏消息前后的标准节奏，中文常会先说结果再谢人，次序正好相反。
+**为什么这样写**：这本书的原名是 *Make Believe*，也就是 ch06 编者按里那句 `The ‘book about Hakim’, Make Believe` 所指的那一本——ch06 同一条注还写明它 `turned out to think he was God`，所以 Steerforth 那位要她改书名，改的正是这个事实：书名从「一个假装」（*make believe*）变成「一个真以为自己是神的人」。而她与 Hakim 的关系在 ch02 的编者按里就已被交代（`The ‘book about Hakim’, Make Believe`），本组 25 OCTOBER 1994 那封又把他记得极细：`Hakim hating my dirty pot-holder in the kitchen and fussing about what toothpaste he used`。于是这封信表面在谈一个商业决定，实际上是**她第一次让别人替她说出「我在那个人身上看见了什么」**。`a bird in the hand` 这个习语在这里被压得很扁：她不是选了一个更好的选择，而是承认爱德华为她做的所有推销都不管用，而两千美元先到手比较实际。这种「先谢到一万倍、再说自己认输」的排列，是英语（尤其英式写信）在坏消息前后的标准节奏，中文常会先说结果再谢人，次序正好相反。
 
 ### ④
 

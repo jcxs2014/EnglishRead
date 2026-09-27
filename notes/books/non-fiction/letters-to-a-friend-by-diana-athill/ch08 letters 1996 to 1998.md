@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Diana Athill（1917–2019），本组 12 封信全部由她写给爱德华·菲尔德，落款 `Diana`（5 SEPTEMBER 1997 那封署 `D`）
 - **章节定位**：书信部分第六组（ch03–ch16 共 14 组），从 1996 年 4 月 18 日到 1997 年 12 月 31 日，共 12 封。**本组是全书唯一被一具身体串起来的三年**：两声「crick crack」（原文未说是哪一侧、哪个牙位）之后，牙医、专科医生、假牙、乃至一副假牙会不会「clack clack」这一个问题，统治了从 1996 年 10 月到 1997 年底的全部信件；而手稿也正好从 66 页走到 106 页、然后被一场生日聚会重新点燃
-- **篇幅**：31,681 字符（`text/ch08_letters_1996_to_1998.txt`，非空白字符计）；12 封信（其一原书写作 `[DATE UNREADABLE]`，照录）+ 6 处方括号插补
+- **篇幅**：31,681 字符（`text/ch08_letters_1996_to_1998.txt`，非空白字符计）；12 封信（其一原书写作 `[DATE UNREADABLE]`，照录）+ 8 处方括号插补
 - **一句话主旨**：她一边把一副假牙从「下定决心全拔」谈到「一颗残根都不许动」，一边撞上姐姐新寡的丧夫之年、Barbara 女儿的婚礼与女王长孙的葬礼——**身体把时间切成了小段，而她必须在每一段里重新找到写信的理由**
 - **信件清单**：18 APRIL 1996 · 11 MAY 1996 · 4 JUNE 1996 · 18 OCTOBER 1996 · [DATE UNREADABLE] · 20 DECEMBER 1996 · 26 FEBRUARY 1997 · 20 MARCH 1997 · 5 SEPTEMBER 1997 · 8 OCTOBER 1997 · 20 NOVEMBER 1997 · 31 DECEMBER 1997, Norfolk
 - **说话人提示**：全部为阿瑟尔写给爱德华；称呼自 `Darling Edward –` 到 `Mes Chers –`（法语称呼，仅 5 SEPTEMBER 1997 那封，附 P.S. 谈戴安娜葬礼）；[DATE UNREADABLE] 那封的日期**原书即不可辨，本章照录原样，不代为推补**
@@ -90,7 +90,7 @@ modified: "2026-09-27"
 
 **表达方式**：全句是**一个比喻贯彻到底**的范例：`loose knitting`（松毛线）→ `tightened up`（收紧了）→ `unravelled knitting`（散开的毛线），同一个物件在三个阶段各出现一次，而三次的修饰语（`large and loopy` / `tightened up for good` / `unravelled`）就是她心理的三个阶段。更妙的是她在结尾把比喻倒过来用：手写体原本是「散着的」，所以潦草笔记反而是回到原形（`except when I’m scribbling notes`）——**比喻本身自带一个例外，而那个例外正是她要说的转折**。
 
-**为什么这样写**：她为了一件纯粹私人的小事（学写斜体）写了两百多字，还给出 `who knows what psychic damage this represents` 这样的判决。写作上值得学的正是这种「用同一个物质意象贯穿三段」的句法：三个分句各带一个破折号插入语，主链却只有一条，因此句子虽长而读者始终抓得住。这封信也解释了她为什么八十岁还在用笔和蒸汽打字机——**不是怀旧，是她的手已经变成了另一个样子**；这个细节在 14 JULY 1995 那封（ch07）里只以一句 `I’m still stubbornly sticking to pen plus steam-typewriter` 出现过，在这里才有了原因。
+**为什么这样写**：她为了一件纯粹私人的小事（学写斜体）写了两百多字，还给出 `who knows what psychic damage this represents` 这样的判决。写作上值得学的正是这种「用同一个物质意象贯穿三段」的句法：三个分句各带一个破折号插入语，主链却只有一条，因此句子虽长而读者始终抓得住。这封信也解释了她为什么八十岁还在用笔和蒸汽打字机——**不是怀旧，是她的手已经变成了另一个样子**；这个细节在 28 JANUARY 1996 那封（ch07）里只以一句 `I’m still stubbornly sticking to pen plus steam-typewriter` 出现过，在这里才有了原因。
 
 ### ③
 
@@ -160,7 +160,7 @@ modified: "2026-09-27"
 
 **表达方式**：三个 `First … then … then …` 把两年的拖延压成一句话的起首，而后面两个破折号插入语又把最要命的那颗牙单独拎出来（`one of them a vital anchorman`）。`a long process` 与 `an apparently endless one` 靠 `one` 的照应形成一个落差：形式上它只是「长」，感觉上却是「没完」——`apparently` 一词是这场全部麻烦的注脚。
 
-**为什么这样写**：这一封是「身体如何变成计时器」的最佳范例：从 ch07 末尾的两颗牙，到这里的支柱牙松动，后面还有整个 1996 年 10 月的专科医生——**每封信的日期都被牙医的进度重新划过一次**。语言上值得学的是「`First …, then …, then …` + 谓语」这个句型：主语被拆成三段，主谓之间隔着两个逗号，而谓语用复数 `have combined`（与三段并列的主语呼应）；中文若写「先是……，然后是……，然后是……合在一起造成了」，主谓之间会隔得很远，英语则把 `have combined` 放在最后一段之后，读起来反而更有一种「终于汇合」的重量。
+**为什么这样写**：这一封是「身体如何变成计时器」的最佳范例：从 ch07 末尾的两颗牙，到这里的支柱牙松动，而它前面早已有过 1996 年 10 月那位专科医生（`nothing for it now but complete dentures`）——**每封信的日期都被牙医的进度重新划过一次**。语言上值得学的是「`First …, then …, then …` + 谓语」这个句型：主语被拆成三段，主谓之间隔着两个逗号，而谓语用复数 `have combined`（与三段并列的主语呼应）；中文若写「先是……，然后是……，然后是……合在一起造成了」，主谓之间会隔得很远，英语则把 `have combined` 放在最后一段之后，读起来反而更有一种「终于汇合」的重量。
 
 ### ⑧
 
