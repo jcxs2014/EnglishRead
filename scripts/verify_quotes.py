@@ -224,6 +224,15 @@ def classify_md(name: str) -> str:
 
 
 def main(book_dir: str, epub_path: str, full_mode: bool = False):
+    # ⚠️ 2026-09-27 加 epub 缺失守卫（对齐 check_anchor 的「❓ 无法判定」惯例）
+    # 原行为：epub 路径不存在 → epub_flat_text 返回 ""→ 每条引语都判「查无」
+    # → 输出「0/N 引文可核实（0%）」，读起来像「全部伪造」，而这其实是「根本没查」。
+    # 与 audit 无关，属脚本假阴性；修法：缺参照集即退出码 2 且不产出任何计数。
+    if not epub_path or not os.path.isfile(epub_path):
+        print("❓ 无法判定：epub 不存在 — %s" % (epub_path or "(空)"))
+        print("   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。")
+        print("   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。")
+        sys.exit(2)
     full = flat_alpha(epub_flat_text(epub_path))
     total_ok = total = clean = bad = 0
     short_total = 0
