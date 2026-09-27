@@ -22,7 +22,7 @@ source_text: ch01
 
 **关键词**：Hepburn Romanisation / short vowels / carry a macron
 
-**为什么这样写**：五个例词全部是单音节，而且元音位置严格对应——a 在 cat、e 在 edge、i 在 igloo、o 在 octopus、u 在 umbrella，等于把一条抽象规则摊成五件可以立刻拿在手里验证的实物。`unless they carry a macron (ō)` 把符号本身用括号摆在句子正中央，读者不必离开这一行就能读完整条规则；`which doubles the length of the vowel sound` 用 `doubles`（翻倍）这个词，把音长变化写成一个可换算的量——比「变长了」这种笼统说法多一层精确。
+**为什么这样写**：五个例词都是单音节或双音节，而且元音位置严格对应（`igloo` 与 `octopus` 是双音节，`umbrella` 是三音节）——a 在 cat、e 在 edge、i 在 igloo、o 在 octopus、u 在 umbrella，等于把一条抽象规则摊成五件可以立刻拿在手里验证的实物。`unless they carry a macron (ō)` 把符号本身用括号摆在句子正中央，读者不必离开这一行就能读完整条规则；`which doubles the length of the vowel sound` 用 `doubles`（翻倍）这个词，把音长变化写成一个可换算的量——比「变长了」这种笼统说法多一层精确。
 
 **读者视角提示**：这是全书唯一一次直接对读者说话——`has been used` 的被动式不指明是谁用的，译者因此可以不署名地立规矩。往后 ch03 起的 `Shūichi`、ch17 的 `Mrs Ōno` 都按这里定的规则拼读。
 
@@ -64,7 +64,7 @@ g 读硬音，像 pig 里的 g；f 念起来更接近 h；而 r 有点更接近 
 
 **为什么这样写**：三个交通工具平铺直叙，真正被拉长的却是最后那个 `a lot of steps`——它在列举之后才落下来，把「交通」翻译成「体力」。`join them up`（把它们接上）暗示每段行程原本互不相干，读者由此预感到：这一路的每一段都是断的，抵达不是终点，只是下一段断口的开始。
 
-**读者视角提示**：ch13 里父子俩走的正是这条路线（Haneda → Takamatsu → 船 → 巴士），ch06 老太太念出的坐标就是这串 steps 的终点。同一条路，一段由人念出来，一段由人走出来。
+**读者视角提示**：ch13 里秀一与 Kenta 走的正是这条路线（Haneda → Takamatsu → 船 → 巴士），ch06 老太太念出的坐标就是这串 steps 的终点。同一条路，一段由人念出来，一段由人走出来。
 
 > **原句 6:** On the eastern tip of the island, sheltered from view, sits a small building with a huge window looking out over the sea. Inside is a catalogue of the heartbeats of tens of thousands of people from all over the world, some who are still with us, others already shadows.
 
@@ -74,7 +74,7 @@ g 读硬音，像 pig 里的 g；f 念起来更接近 h；而 r 有点更接近 
 
 **为什么这样写**：`a small building with a huge window` 把两个相反的尺寸并置在一起：屋子小、窗子大，于是这栋楼的全部功能都压在一扇窗上——它不是办公场所，是一只朝海的眼球。`some who are still with us, others already shadows` 用 `still` 与 `already` 这对时间副词把「在场」与「已逝」并成一行；而 `shadows`（影子）不是 `dead`（死者），保住了「记录还在、人已不在」这层余韵——档案馆收藏的正是这些还没散去的影子。
 
-**读者视角提示**：`a catalogue` 这个词全书只在此处出现，而整本书讲的正是一份目录如何变成一个人全部的记忆。ch17 结尾 Shūichi 明白「记忆是意志问题、仅此而已」时，指的就是这栋楼里的东西。
+**读者视角提示**：`a catalogue` 这个词在 ch16 还会原样再现一次，而整本书讲的正是一份目录如何变成一个人全部的记忆。ch17 结尾 Shūichi 明白「记忆是意志问题、仅此而已」时，指的就是这栋楼里的东西。
 
 > **原句 7:** It is called Shinzō-on no Ākaibu, the Heartbeat Archive.
 

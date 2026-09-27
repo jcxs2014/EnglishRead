@@ -24,7 +24,7 @@ source_text: ch04
 
 **为什么这样写**：本章用一个三段式渔歌开场，三句话结构完全对称（To + 动词原形 + 宾语, you need + 名词 + and + 名词），只在第三句末尾突然破功——`a lead`（一个铅坠）后面接的却是 `a lot of cuddles`（很多很多拥抱），物理工具与身体接触被塞进同一个并列结构。`And to catch a boy-fish?` 单独成句，用问号把节奏从陈述切到提问，读者被迫停顿。破折号里的 `and do it no harm`（并且不伤害他）把「抓」这个动作加上道德限制，于是全章的问题被改写成一个伦理问题而不是技巧问题——答案在本章中段给出：只能用他自己身上的碎片。
 
-**读者视角提示**：`boy-fish`（男孩鱼）是秀一为这个孩子造的词，与 ch04 后文「小鱼身上的碎片」和 ch16 录音室（把自己录进去）是同一条线索的三个说法。ch02 那个「丰岛秋」的医生提到的 `1/f fluctuation` 也在本章被换成人话重讲一遍（玻璃用玻璃补、羊毛用羊毛补），两次互为注释。
+**读者视角提示**：`boy-fish`（男孩鱼）是秀一为这个孩子造的词，与 ch04 后文「小鱼身上的碎片」和 ch16 录音室（把自己录进去）是同一条线索的三个说法。ch02 那个「丰岛秋」里男孩与男人「一直在学」的 `1/f fluctuation` 也在本章被换成人话重讲一遍（玻璃用玻璃补、羊毛用羊毛补），两次互为注释。
 
 > **原句 2:** Midnight blue and carnation red.
 
@@ -34,7 +34,7 @@ source_text: ch04
 
 **为什么这样写**：全句只有两个名词短语，用 `and` 连接，没有动词、没有主语。它是秀一对母亲卸妆的最终定格：卸妆棉没有变回白色（见上一句 `instead of returning to white`），却在她脸上留下颜色。`Midnight blue`（午夜色）用颜色名同时指时刻与色相，`carnation red`（康乃馨红）用花名指另一种色相——两个颜色都是花的颜色被借给了时刻，一个来自一天的名字，一个来自一种花，于是「母亲这一夜的脸」在语言层面就已经是花与时间的混合物。整句只有两串并置的名词，中间一个 `and`、一个逗号，句子就结束在这张脸上。
 
-**读者视角提示**：本段的完整语境是秀一的梦（`In the dream, the image was engulfed by the black roller waves of Shūichi’s terror`）——他害怕这个画面，所以颜色一出现就断了。ch17 揭示母亲确实在那天出了事（她再婚、她的丈夫即秀一的父亲早逝），但那是全书末尾的事；本章读者与他一起只有一张彩色的脸。
+**读者视角提示**：本段的完整语境是秀一的梦（`In the dream, the image was engulfed by the black roller waves of Shūichi’s terror`）——他害怕这个画面，所以颜色一出现就断了。母亲只有一位丈夫，而且他早逝了（`After her husband’s sudden death fifteen years earlier`）——所以那天在幼儿园门口消失的**不是母亲**。ch17 揭示的是另一件事：母亲是在他心脏手术的**两周前**才读到那座馆的，她把那里当成给儿子的祈福，而她终究没能等到他好起来。
 
 > **原句 3:** Deep down, Shūichi believed that if you didn’t talk about things, they came back to you in your dreams.
 
@@ -72,7 +72,7 @@ source_text: ch04
 
 **关键词**：To give an object, but really be giving a concept / the key to the house / her complete trust
 
-**为什么这样写**：`To give an object, but really be giving a concept`（送一件物品，其实是送出一个概念）用一个 `but really`（其实是）完成一次价值升格：形式上的东西（钥匙）与实质上的东西（信任）被明确分成两层。`the key to the house, and, with it, her complete trust` 里插入了两个逗号加一个 `with it`（随之而来），把「钥匙」和「信任」写成一对必须同时交付的东西。`complete trust`（全部的信任）只说明份额，不说明对象——秀一一句之内没说清这份信任原本指向谁（是那个刚认识一天的孩子，还是别的什么人），这个含混被保留在形容词上，读者只能从「她把家门钥匙交给一个六岁孩子」这个动作本身去猜。
+**为什么这样写**：`To give an object, but really be giving a concept`（送一件物品，其实是送出一个概念）用一个 `but really`（其实是）完成一次价值升格：形式上的东西（钥匙）与实质上的东西（信任）被明确分成两层。`the key to the house, and, with it, her complete trust` 里插入了两个逗号加一个 `with it`（随之而来），把「钥匙」和「信任」写成一对必须同时交付的东西。`complete trust`（全部的信任）只说明份额，不说明对象——秀一一句之内没说清这份信任原本指向谁（是那个刚认识一天的孩子，还是别的什么人），这个含混被保留在形容词上，读者只能从「她把家门钥匙交给一个刚认识一天的孩子」这个动作本身去猜。
 
 **读者视角提示**：母亲给 Kenta 的是**已经坏了的**门钥匙——他先说 `It was broken`（它是断的），紧接着自己补一句 `I didn’t steal it`（我不是偷的），把「拿」和「偷」主动切开。这把钥匙正是 Kenta 每天来这栋房子的正当理由，也是他与秀一之间唯一的物证：秀一只有半截钥匙留在锁孔里，Kenta 手上有完整的那一枚。
 
