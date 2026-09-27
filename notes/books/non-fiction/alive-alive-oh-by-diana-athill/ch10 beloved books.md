@@ -185,7 +185,7 @@ modified: "2026-09-27"
 
 **句子结构**：第一句为宾语从句（His own belief was that …），that 从句内 his romantic poetry was a safety valve which saved him from going mad 为主系表结构，which saved him from going mad 为**非限制性定语从句**（指代整句）；which was why he always insisted that he was not proud of it 为**表语从句**说明原因，内层 insisted that … 为宾语从句（注意否定词 not 落在 proud 上，而不是 he 上）；括号（he said this in his private diary as well as publicly）为**插入语**。第二句为独立主语句 This crisis, however, was beyond solution by verse.，by 为手段。第三句 It propelled him into exile, from which he was to send some of the best letters ever written 为简单句，from which he was to send … 为**介词＋关系代词**结构作插入语。
 
-**关键词**：His own belief was that（他自己认为）、his romantic poetry was a safety valve（他的浪漫诗是一道安全阀）、which saved him from going mad（让他没有疯掉）、he was always insisted that he was not proud of it（他坚称自己不以此为豪）、in his private diary as well as publicly（在私人日记里与公开场合）、was beyond solution by verse（超出了诗所能解决的范围）、It propelled him into exile（它把他推进了流放）、some of the best letters ever written（一些史上最好的信）
+**关键词**：His own belief was that（他自己认为）、his romantic poetry was a safety valve（他的浪漫诗是一道安全阀）、which saved him from going mad（让他没有疯掉）、he always insisted that he was not proud of it（他总是坚称自己不以此为豪）、in his private diary as well as publicly（在私人日记里与公开场合）、was beyond solution by verse（超出了诗所能解决的范围）、It propelled him into exile（它把他推进了流放）、some of the best letters ever written（一些史上最好的信）
 
 **表达方式**：**security valve 的比喻被立刻兑现成事实**：安全阀失效，所以崩溃、所以流放。**not proud of it** 把否定精准地钉在**自豪**上——他不否认诗写得好，只是不肯认领它，这份别扭被写成一种性格。**括号里那句 as well as publicly 是关键**：**同一件事在私下与公开都这样说，才显出他真的这么相信。** 而**为过去的事作总结的三个形容词 ever written 放在最后**，把流放这个坏消息一笔转成礼物。
 
