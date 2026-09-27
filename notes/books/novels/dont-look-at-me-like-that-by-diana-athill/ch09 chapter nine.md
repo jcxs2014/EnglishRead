@@ -79,7 +79,7 @@ modified: "2026-09-27"
 | bumptious | adj. 爱摆架子的 | conceited and bumptious |
 | prodding | n. 挑动 | but was deliberately prodding you |
 | cross-examine | v. 盘问 | She went on to crossexamine me shrewdly on technicalities |
-| gallantry | n. 殷勤 | he threw in a heavy-handed gallantry as well |
+| gallantry | n. 殷勤 | but threw in a heavy-handed gallantry as well |
 
 ### ⭐⭐ 进阶
 
