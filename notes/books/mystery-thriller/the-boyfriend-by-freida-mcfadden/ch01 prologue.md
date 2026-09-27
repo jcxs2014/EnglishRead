@@ -63,7 +63,7 @@ modified: "2026-09-26"
 
 ---
 
-> **原句 5:** What I am most scared of is that if I lean in to kiss her, she will let me do it.
+> **原句 5:** What I am most scared of is that if I lean in to kiss Daisy, she will let me do it.
 
 **中文理解：** 我最害怕的，是如果我倾身去吻她，她会答应。
 

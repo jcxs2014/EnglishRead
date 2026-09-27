@@ -57,7 +57,7 @@ modified: "2026-09-27"
 
 **关键词：** Apparently, Tom thought / Kevin deserved it
 
-**为什么这样写**：全书最冷的一句反讽，而它的重量全在那个 `Apparently`（显然）。这个词在前一百多页里一直是 **Sydney 用来标记"其实不然"** 的词（`Apparently, when I bumped my head…` 其实是她自己撞的；`Apparently, Margo is a supervillain.`）——**每一次使用都是她在替真相打掩护**；而这一次，同样的词被用来陈述**真相本身**：`Tom thought Kevin deserved it`（Tom 觉得 Kevin 活该）。**读者此刻才意识到，她前一百多章的"看来"，其实一直是"确实"。**
+**为什么这样写**：全书最冷的一句反讽，而它的重量全在那个 `Apparently`（显然）。这个词在前一百多页里一直是 **Sydney 用来标记"其实不然"** 的词（`Apparently, when I bumped my head…` 其实是她自己撞的；`Apparently, I am pretty low down on the list of people who knew Brandi Healey.` 其实是她认得她）——**每一次使用都是她在替真相打掩护**；而这一次，同样的词被用来陈述**真相本身**：`Apparently, Tom thought Kevin deserved it.`（显然，Tom 觉得 Kevin 活该）。**读者此刻才意识到，她前一百多章的"看来"，其实一直是"确实"。**
 
 **读者视角提示**：记住这个 `Apparently`——它在全书里出现过几十次，每一次都是真的，只有她不信。
 

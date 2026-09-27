@@ -3,7 +3,7 @@
 modified: "2026-09-27"
 ---
 
-# 47. Chapter Forty-Five（第四十六章：油漆）
+# 47. Chapter Forty-Six（第四十六章：油漆）
 
 ## 本章导航
 

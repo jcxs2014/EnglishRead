@@ -3,7 +3,7 @@
 modified: "2026-09-27"
 ---
 
-# 48. Chapter Forty-Six（第四十七章：透过窗户看你）
+# 48. Chapter Forty-Seven（第四十七章：透过窗户看你）
 
 ## 本章导航
 
