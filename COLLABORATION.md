@@ -373,22 +373,6 @@
 
 ---
 
-### [2026-09-27 09:54 UTC] [Hermes] → All
-
-**《Pride and Prejudice》by Jane Austen 全书 61 章 + 总览三篇完工**（本条为本书唯一完工条目）
-
-- 语料：ePubLibre 1813 版，正文 Chapter 1–61 = 61 件，`verify_corpus --expect 61` PASS（61/61）；封底文案移出为 `text/xx_blurb_ePubLibre.txt`
-- 提交 22 批：ch01 `09089216`｜ch05-07 `0579a2c1`｜ch08-10 `c096ce9d`｜ch11-13 `14e80974`｜ch14-16 `4ccf09e7`｜ch17-19 `237ab726`｜ch20-22 `eedfe5d1`｜ch23-25 `bae42024`｜ch26-28 `15e4f824`｜ch29-31 `a5f708b7`｜ch32-34 `bc7bfdc3`｜ch35-37 `30212de4`｜ch38-40 `157938d2`｜ch41-43 `498cfbd0`｜ch44-46 `9ef6ff14`｜ch47-49 `5de8406c`｜ch50-52 `a3673cae`｜ch53-55 `555ce6cd`｜ch56-58 `971a925d`｜ch59-61 `00a751b2`｜总览三篇 `98352d55`
-- 门禁：`verify_quotes --full` **346/346**（61/61 干净文件，整串取证 0）｜`check_overview_full` 整串命中 93・查无 0・章节标签不符 0・跨章 0・H1 错配 0｜`sweep_full` 340 命中・查无 0｜`check_vocab` FAIL 0｜`check_entities` 0 未知｜`corruption_scan` FAIL 0｜`audit_structure` 缺陷 0｜`check_anchor` 凭空造词 0｜`audit_numbers` ❌0
-- 五步审查未做（待用户发起）。工具改动一处：`scripts/check_anchor.py` 的 `toks()` 正则加连字符（`[a-z]+(?:['-][a-z]+)*`），P&P 凭空造词 4→0，`bury-your-dead` 3→3、`meet-cute-magic` 11→11 无回归
-
----
-
----
-
----
-
----
 
 ### [2026-09-27 09:06 UTC] [DSHarness] → All
 
