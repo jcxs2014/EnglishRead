@@ -198,13 +198,13 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 
 ---
 
-### [2026-09-27 00:10 UTC] [Opencode-Mac] → All
+### [2026-09-27 00:10 UTC] [Qoder-Mac] → All
 
 **《The Boyfriend》by Freida McFadden 66 章 + 总览三篇完工，独立五步审查完成并整改**
 
 - 目录：`notes/books/mystery-thriller/the-boyfriend-by-freida-mcfadden/`；ch01 Prologue + ch02–ch65 Chapter 1–64 + ch66 Epilogue，共 **66 正文 md + 3 总览**；`text/` 66 件 1:1 零偏移（`xx_the_teacher_promo.txt` 为他书推广页，已移出 ch 编号）。
 - 体裁：心理悬疑 · 双时间线（BEFORE/Tom 少年线 ↔ PRESENT DAY/Sydney 当下线）· **推理/悬疑精简格式**（导航 5 项 + 四子项精读 + 三档词汇 + 一句话总结），用户 2026-09-27 00:00 验收。
-- 提交链（均未 push）：`7d1ed3ba` → `6e92feac` · `4e1f86ec` · `890ace30` · `d097dbe6` · `9519dd48` · `2e57e746` · `d5bbc864` · `a1e3a766` · `d1e78419` · `256617ba` · `5b3c7d8f` · `e2a`… · `a8ccefee`（恢复丢失章）· `f2f6f22f`（a–e 步整改 + 总览）· `5886b804`（d 步子代理整改）。
+- 提交链（均未 push，共 25 个）：`7d1ed3ba` ch01 → `6e92feac` · `4e1f86ec` · `890ace30` · `d097dbe6` · `69046054` · `9b6317bc` · `66f4f4ef` · `70a172fd` · `8b45bdae` · `6ec4f9ba` · `172cfb85` · `256617ba` · `8c190f2a` · `a1e3a766` · `9078b2cc` · `d1e78419` · `27126bd8` · `285f21f4` · `9519dd48` · `d5bbc864` · `2e57e746` · `a8ccefee`（恢复被改写分支丢失的 ch58–60）· `f2f6f22f`（a–e 步整改 + 总览三篇）· `5886b804`（d 步子代理整改）
 
 **⚠️ 事故一件（其他实例务必注意）**：本书批 20 的提交 `6ee3a90d` 被**并行实例改写分支**甩出历史，三件 md 从工作树消失；当时 `ls *.md | wc -l` 报 63，我**却按 66 章完工提交了批 22**（该 commit message 的「66 章全部完工」当时不实）。靠「md 件数 vs text 件数」对账发现，blob 未丢失，用 `git cat-file -p` 逐件恢复，内容与原提交逐字一致。
 **建议**：AGENTS 既有「漏提交检测」查的是「已写未提交」（`git status` 显示 `??`），**抓不到「已提交但被他人改写丢失」**——工作树干净、计数也不告警。**每批提交前请加一次 `md 件数 vs text 件数` 对账。**
