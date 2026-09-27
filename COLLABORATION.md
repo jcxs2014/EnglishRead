@@ -1409,103 +1409,53 @@ AGENTS.md 配套工具链表「实现坑 ②」写的就是这一条（"不要�
 
 ### [2026-09-25 21:14 UTC] [Opencode-Mac] → All
 
-**《Floating Hotel》（Grace Curtis）完工** — `notes/books/novels/floating-hotel-by-grace-curtis/`
+**《Floating Hotel》（Grace Curtis）完工 + 独立五步审查通过** — `notes/books/novels/floating-hotel-by-grace-curtis/`
 
-**体裁与格式**：思辨科幻 / 文学小说（后帝国星际豪华酒店），无爱情线、无推理骨架 → 用户拍板用**精简格式**（导航 4 项 + 每章 3–8 处四子项精读 + 三档词汇 + 一句话总结）。**24 章 = 24 篇正文 md，与 `text/` 1:1、零偏移**（故无需 `source_text` frontmatter），另加总览三篇。Lamplighter 手稿节 7 篇（ch03/06/08/10/12/14/23）按体内文献体处理，编号乱序为原书设定（#49/#38/#5/#14/#26/#14/#55）。
+**规模**：24 章（与 `text/` 1:1 零偏移）+ 总览三篇 = 27 md ｜ 154 引语块 ｜ 563 词条。体裁判定：思辨科幻 / 文学小说，无爱情线无推理骨架 → 用户拍板**精简格式**（导航 4 项 + 每章 3–8 处四子项 + 三档词汇 + 一句话总结）。7 篇 Lamplighter 手稿节（ch03/06/08/10/12/14/23）按体内文献体处理；编号乱序（#49/#38/#5/#14/#26/#14/#55）为原书设定，**#14 重复**判为原书排印重复、按原文照录。ch02/ch05/ch15/ch19 原书无标题，按内容命名并已在 frontmatter 注明。
 
-**全部 commit（16 个，本地未 push）**：
+**commit（22 个，全部本地未 push）**：
 ```
-d995200a ch01 carl                      85014632 ch13 daphne
-80577563 ch02 forty years later / ch03 on gutting / ch04 uwade
-717e5379 ch05 shit movie club / ch06 riots and revolts
-619f5b5b ch07 dunk                      e12d6ade ch08 virtue and the body / ch10 aspiration and ambition
-6d5d564f ch09 professor mara azad       2c192054 ch11 mr corinth
-88e590fa ch12 death and deathlessness   64231d80 ch14 the supremacy of man / ch15 the premiere
-7579277f ch16 they                      f7bf53df ch17 lucia
-72a699ff ch18 ephraim                   e17e2f46 ch19 the grand finale
-1ae51fd9 ch20 rogan                     a36100f9 ch21 ooly mall
-e7b3c43a ch22 angouleme                 8dba7907 ch23 walking away
-e9250c98 ch24 carl again                1fc1455b 总览三篇
+正文 19  d995200a 80577563 717e5379 619f5b5b e12d6ade 6d5d564f 2c192054 88e590fa
+        85014632 64231d80 7579277f f7bf53df 72a699ff e17e2f46 1ae51fd9 a36100f9
+        e7b3c43a 8dba7907 e9250c98
+总览    1fc1455b
+五步审查整改  8e5360e9（+ 他实例按工单修本书 b718388a）
 ```
 
-**完工门禁（全部现场重跑，raw 输出摘要）**：
+**完工门禁 → 五步审查后门禁**（两次数值差异处即审查改写所致）：
 ```
-verify_quotes          168/168 (100%)    完全干净文件 25/25
-check_vocab            566 行            FAIL (0) / WARN (0)
-check_entities         0
-check_chapter_quotes   24/24 章逐章      146 块零跨章搬句（全 X/X in chNN text）
-check_crossref         1 对 / 报警 0
-structure_scan         0 错误            （编号连续·四子项齐全·零孤儿·零重复·三档·零占位行）
-keyword_anchor         0 违规            （关键词英文词须命中本块引语）
-overview_check         64/64             BOOK-MISS = 0（总览层，非主脚本口径）
-8 条短引语人工兜底      全 HIT 且全在当章   + epub 命中
-金句章节标注对账        25/25 零错位
-情感节点章节归属        10/10 全 OK
+                        完工        审查后
+verify_quotes          168/168     168/168      完全干净文件 25/25
+check_vocab            566 行      563 行       FAIL 0 / WARN 0
+check_entities         0           0
+check_chapter_quotes   24/24 章    24/24 章     146 块零跨章搬句（全 X/X in chNN text）
+check_crossref         0 报警      0 报警
+structure_scan / keyword_anchor    PASS / 违规 0
+overview_check         64/64       65/65        BOOK-MISS 0
+金句章节标签对账        25/25       25/25        零错位
+情感节点章节归属        10/10       10/10
+8 条短引语人工兜底      全 HIT 且全在当章（+ epub 命中）
 tracked 27/27 ｜ 工作树无未跟踪
 ```
 
-**⚠️ 本轮真正的收获不在写完，在抓到 8 处总览层事实性缺陷**——全部是**四件套全绿下**的盲区，补救了 `verify_overview_quotes` 对本库格式提取 0 条（本库用 CIRCLED ①② 而非脚本认的格式，故该脚本对本书完全空转，我另建 `scripts/attic/overview_check.py` 兜底）：
+**五步审查（用户 2026-09-26 同会话发起，a–e 全执行）**：a 步门禁全量重跑（不采信完工报告数字）· b 步 24 章逐章归属 · c 步结构扫描 + **三元比对**（md 文件名／H1／`text/` 标题，据 epub spine 核定）· d 步**两子代理分批**逐对语义二审（任务书附防幻觉条款 + 5 个本库真实失败案例校准；**其 76 条报警经我逐条独立 grep 复验后才动手，驳回 3 条**）· e 步总览引语 + 章节标签对账 + 14 条身份断言取证 + 跨书污染自检。
 
-| # | 位置 | 缺陷 | 原文证据 |
-|---|---|---|---|
-| 1 | 概述 §七 | 期限写成"四个小时" | ch19 Belle 原话 `You have four days, Mr. Kravitz.` |
-| 2 | 概述 §七 | 递手帕的写成 Kipple | 崩溃的是 **Mataz**（`A single mascara-black tear... Mataz, the eternally unrumpled, seemed to fold.`） |
-| 3 | 概述 §七 / 节点九 | 客人写成三百名 | ch24 `a hundred terrified eyes` |
-| 4 | 概述 §八 / 节点七 | Kipple 出身写成"帝国情报部门" | ch24 `I wasn't born to be a person, you know. I was born to be a ruler—the seventeenth of my line.` |
-| 5 | 概述 Nina 段 | **`the greatest pleasure of my life was to be your accountant` 挂在 Nina 名下** | 该句属 **Kipple 遗书**，署 `Yours forever, KP (Kipple Pittsburgh)` |
-| 6 | 概述 Kipple 段 | 用"他"指代 Kipple | 书中通篇 **they / them**，已改中性指代 |
-| 7 | 概述 §二 | Carl 的"准则"当成其自述 | 该句是 **ch17 由 Sasha 视角给出的定义**（`The manager has mastered the art of paying enough attention to make others feel special, but not so much that they feel exposed.`） |
-| 8 | 节点二 / 节点八 | 引语跨章 + 情节误读 | `Things, never good…` 属 **ch01** 非 ch02（已换 ch02 真实引语）；"厨子想当问题解决者"是误读（Problem-Solvers 是客人投诉大会）；Sasha 并非"把宝石换自己的命"，而是交给 du Bois **换对方能留下**，书也是 du Bois 留下的不是儿子的 |
+**共整改 48 处**（`8e5360e9`）。**引语层 4 处全部落在 `verify_quotes` 的 52 字符指纹之外——四个主工具同时报 100%**：
 
-**沉淀建议（值得进 AGENTS.md 盲区表）**：`verify_overview_quotes.py` 的引语提取只认它自己的编号格式，**本库统一用 `**① "..."**` + 四子项，全书提取 0 条、脚本静默空转**——"0/0 可核实"看起来像满分，其实是零覆盖。今后凡新建总览，完工通报里必须显式写出总览引语条数（本轮 64 条），否则"脚本 PASS"与"没检查"无法区分。另：`git ls-files | grep -c '\.md$'` 对含中文的文件名会因 git 的 octal 转义漏计（本轮 27 报成 24），须加 `-c core.quotepath=false`。
+| 章 | 缺陷 | 工具为何放行 |
+|---|---|---|
+| ch03 ×2 | `in a glorious Empire` 漏 `this` | 差异在第 52 字符后 |
+| ch05 原句4 | `of the highest order,` 的逗号改句号，丢弃整个 `wherein` 从句（Biggs Dipper／Gorb 段） | 差异在第 96 字符 |
+| ch09 原句8 | `she realized`（Azad）误抄 `he realized` | `he/she` 在指纹外 |
+| ch11 原句3 | 破折号改句号，丢弃 `that was how it had seemed to him, anyhow` 从句 | 差异**恰在第 52 字符处** |
 
-**后续**：五步独立审查已于 2026-09-26 由用户在本会话发起并完成，结论紧接本条下方（同一本书仅此一条板消息）。
+**语义层 43 处，四类系统性模式**：①**虚构跨章旁证 8 处**——分析层凭"这本书大概这么写过"补证（ch01 全文 Kipple 0 次却被引用；ch04 里 Kipple 一句台词都没有却被安上一句；ch17 的三处"计划句"全书查无；ch14 的"Ooly 在 ch05 观众席"而 ch05 中 Ooly 0 次）。②**可数事实凭印象 17 处**（词数六→四/十一→七/十九→十一等、原文无破折号、虚构 `sensation`／`smell`、手稿节"六篇"实为七篇）。③**说话人/主体错配 8 处**，最重两条：ch22 把 Angoulême 的内心独白安给"前士兵 Renée"（身份对调）、ch04 把修饰**过路者**的 `Unseen by anyone` 挂到弹琴者身上。④**中文理解与引语语义相反 3 处**：ch15 `hairless`（无毛）译成「毛茸茸」、`lunar eclipse` 译成「日全食」；ch10 凭空插入「**从不**」把肯定改成否定，且正好摧毁同块关于 `supposedly` 的分析支点。**结构层 3 处**：概述结构表 Part III 起点错标 ch20（spine 核定实为 **ch19**）· ch03 重复块（原句 3 是原句 1 的真前缀）· 结构表改列表以规避 `check_vocab` 表格行误判。
 
----
+**⚠️ 三个工具盲区（建议进 AGENTS.md 盲区表）**：①`verify_overview_quotes` 只认自己的编号格式，本库 `**① "..."**` 全书**静默提取 0 条**——"0/0 可核实"是零覆盖不是满分，完工通报必须显式写出总览引语条数。②`check_entities`／`structure_scan` **都不解析 00_*.md 的章节标注**：**"引语逐字"与"引语属于哪一章"是两个正交维度，逐字全绿不代表标签正确**（本轮 25 条金句标签是另写脚本才验出来的，写作时从未验过）。③`git ls-files | grep -c '\.md$'` 对中文文件名因 octal 转义漏计（27 报成 24），须加 `-c core.quotepath=false`。
 
-用户在同一会话内要求执行，**五步独立审查 a–e 完整执行，无一步省略**（2026-09-26）；写作方与审查方同为本实例，故按第 10 条要求如实标注局限（见文末）。整改 commit `8e5360e9`。
+**跨书污染自检（通过）**：Corinth／Tamara／DuBois 三名他书亦有，逐条 grep 上下文核实均为不同指（`Corinthian columns` 建筑柱式／俄国故事亡妻／另一书人名）。
 
-**审查路径（与写作时不同）**：a 步三件套现场重跑 · b 步 24 章逐章归属 · c 步 `structure_scan` + **三元比对**（md 文件名 / H1 / `text/` 标题，据 epub spine 核定）+ H1 语义 · d 步**两个子代理分批**（ch01–12 / ch13–24）逐对语义二审，任务书附**防幻觉条款**（报警前须确认引语行与分析行同文件相邻，禁止拿 `text/` 句子与不相邻分析行拼装错位）+ **5 个本库真实失败案例**作校准 · e 步总览层引语 + 章节标签对账 + 说话人核验 + 14 条身份断言 grep 取证 + 跨书污染自检。
-
-**修复后门禁（全部现场重跑）**：
-```
-verify_quotes          168/168 (100%)    完全干净文件 25/25
-check_vocab            563 行            FAIL (0) / WARN (0)
-check_entities         0
-check_chapter_quotes   24/24 章逐章      146 块零跨章搬句
-check_crossref         1 对 / 报警 0
-structure_scan         PASS              （含零重复块）
-keyword_anchor         违规 0 / PASS
-overview_check         65/65             BOOK-MISS = 0
-金句章节标注对账        25/25 零错位
-情感节点章节归属        10/10 全 OK
-8 条短引语             全 HIT 且全在当章
-```
-
-**共整改 48 处，其中引语层 4 处全部落在 `verify_quotes` 的 52 字符指纹之外——四个主工具同时报 100%**：
-
-| 章 | 引语 | 缺陷 | 工具为何放行 |
-|---|---|---|---|
-| ch03 ×2 | `…habit in a glorious Empire of ours…` | 漏 `this` | 差异在第 52 字符后 |
-| ch05 原句4 | `…of the highest order.` | 原文是**逗号**+`wherein` 从句，整段（Biggs Dipper / Gorb）被丢弃 | 差异在第 96 字符 |
-| ch09 原句8 | `Ooly Mall was sincere, he realized.` | 原文 `she`（Azad）→ 误抄 `he`，把女性动作归给男性 | `he/she` 在指纹外 |
-| ch11 原句3 | `…cast a constant, watching shadow.` | 破折号改句号，`that was how it had seemed to him, anyhow` 从句被丢 | 差异恰在第 52 字符处 |
-
-**语义层 43 处，四类系统性模式**：
-1. **虚构跨章旁证 8 处**——分析层凭"这本书大概这么写过"补证：ch02→ch01 的 Kipple 电梯（ch01 全文 Kipple 0 次）、ch04 与 ch10 的 Kipple 台词（ch04 里 Kipple 一句台词都没有）、ch08 的 ch02 台词（harmless/poison 在 ch02 0 命中）、ch17 的三处"计划句"（Metz／ch11 认定 Carl，全书查无）、ch22 的 ch04 嗅觉句（实为 ch18）、ch14 的"Ooly 在 ch05 观众席"（ch05 中 Ooly 0 次）。
-2. **可数事实凭印象 17 处**——词数（六→四、五→六、十一→七、十九→十一、六→八）、"用破折号引出"（原文无）、虚构 `sensation`/`smell`（当章 0 次）、`genetical` 误称自造词、手稿节"六篇"（实为七篇）。
-3. **说话人/主体错配 8 处**——最重两条：ch22 把 Angoulême 的内心独白安给"前士兵 Renée"（身份对调）；ch04 把 `Unseen by anyone` 这个修饰**过路 Angoulême** 的分词短语挂到弹琴者身上。
-4. **中文理解与引语语义相反 3 处**——ch15 `hairless`（无毛）译成「毛茸茸」、`lunar eclipse` 译成「日全食」（应为月食）；ch10 中文理解凭空插入「**从不**」把肯定改成否定，且正好摧毁同块关于 `supposedly` 的分析支点。
-
-**结构层 3 处**：`00 概述` 结构表把 Part III 起点错标 ch20（据 epub spine 核定实为 **ch19**）；ch03 原句 3 是原句 1 的**真前缀**（重复块），换成 Galilee 那句；结构表改列表格式以规避 `check_vocab` 的表格行误判（AGENTS.md 已知盲区）。
-
-**跨书污染自检（通过）**：Corinth / Tamara / DuBois 三个名字在他书也出现，逐条 grep 上下文核实**均为不同指**——Corinth = `Corinthian columns` 建筑柱式、Tamara = 俄国故事里 Saksaulov 的亡妻、DuBois = 另一书人名。本书无污染。
-
-**⚠️ 本轮第二个工具盲区（建议进 AGENTS.md 盲区表）**：`check_entities` 与 `structure_scan` 都**不解析 00_*.md 的章节标注**（哪条金句属于哪一章），而 `verify_overview_quotes` 对本库格式静默空转（见上条）——**"总览层的'引语属于本章'与'引语逐字'是两个正交维度，逐字全绿不代表章节标签正确**。本轮 25 条金句的章节标签是我另写脚本对账才验出来的（0 错位），而写作时从未验过。今后总览完工必须显式跑章节标签对账。
-
-**同会话审查的已知局限（如实标注）**：本书的**写作与审查同为本实例**，尽管全程强制重跑门禁 + 换检查路径（子代理 + spine 核验 + 三元比对）+ 子代理分批逐对读，仍可能存在**全书统一性的系统性误判**——尤其三类：①「虚构跨章旁证」这一根因本身就是系统性的（分析层补证时倾向凭印象），若有漏网很可能成簇而非零散；②中文意译型回指（如"X 那个反应"类）本轮未逐条人读，仅抽查了子代理标出的条目；③`overview_check` 只验英文引语，**概述里"做了什么"式的中文叙述陈述**本轮只取证了 14 条主要人物身份断言，其余叙述性断言（如"船员全是逃出来的"这类概括）未逐句核。留给下一轮或另一实例复核。
-
-**commit**：审查整改 `8e5360e9`。本书共 **21** 个 commit（正文 19 + 总览 `1fc1455b` + 整改 `8e5360e9`），全部本地，未 push。
+**同会话审查的已知局限（如实标注）**：本书写作与审查同为本实例，虽强制重跑门禁 + 换检查路径 + 分批逐对读，仍可能存在**全书统一性的系统性误判**——「虚构跨章旁证」这一根因本身即系统性（补证时倾向凭印象），漏网可能成簇；中文意译型回指未逐条人读；概述里"做了什么"式中文概括只取证了 14 条主要身份断言。留给下一轮或另一实例复核。
 
 ---
 
