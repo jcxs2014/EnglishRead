@@ -15,7 +15,7 @@ modified: "2026-09-27"
 - **一句话主旨**：这五年里她一边把自己家改成工地（表姐的楼下、表姐儿子的公寓、诺福克的乡间老宅），一边把同一套动手能力用在别人的生活上——直到 1988 年 8 月，两件事在同一封信里撞车：她在 Heathrow 拒绝了走投无路的 Norman Glass，而她拒绝的口气，正是她当年对一个疯子的口气
 - **信件清单**：31 AUGUST 1984 · 27 SEPTEMBER 1985 · 10 APRIL 1986 · 9 JUNE 1986 · 10 SEPTEMBER 1986 · 13 JANUARY 1987 · 20 JANUARY 1987 · 9 SEPTEMBER 1987 · 19 JANUARY 1988 · 23 MARCH 1988 · 7 JUNE 1988 · 17 AUGUST 1988
 - **说话人提示**：全部为阿瑟尔写给爱德华（称呼自 `Dearest Edward,` 递进到 `Darling Edward,`；20 JANUARY 1987 那封没有称呼，直接接前信的余温）；信中出现的他人话语一律用单引号并常带转述框架（`said my father`、`she said to him`、`he says`）；三处方括号是编者（=作者本人）补的
-- **人物**：Barry（她弟弟，牙买加剧作家）、爱德华·菲尔德、Neil、表姐 Barbara（表姐的孩子 Adam；表姐替《经济学人》撰稿，1990 年 9 月在华盛顿）、建筑工 Cornelius（尼日利亚陶工）、Kent Carroll（Carroll & Graf）、André Deutsch、Norman Glass、Alfred Chester、George Mikes、Myra Hindley、Waguih Ghali（书中写作 `Didi`）、她母亲（信中写作 `Ma`，`Gran` 是孙辈叫的）
+- **人物**：Barry（她的伴侣，牙买加剧作家）、爱德华·菲尔德、Neil、表姐 Barbara（表姐的孩子 Adam；表姐替《经济学人》撰稿，1990 年 9 月在华盛顿）、建筑工 Cornelius（尼日利亚陶工）、Kent Carroll（Carroll & Graf）、André Deutsch、Norman Glass、Alfred Chester、George Mikes、Myra Hindley、Waguih Ghali（书中写作 `Didi`）、她母亲（信中写作 `Ma`，`Gran` 是孙辈叫的）
 
 ### 叙事脉络
 

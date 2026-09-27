@@ -202,7 +202,7 @@ modified: "2026-09-27"
 
 **表达方式**：**死讯用了两个被动式与一个时间副词**：`snuffed`（掐灭，源自动词 snuff＝吹熄烛火）、`in mid-sentence`（半句话之间）、`while his wife was with him`（妻子在场）——三个细节构成一幅静止的画面。呼语式的 `My poor old bro.` 三个词，代替了任何一句 `I miss him`。
 
-**为什么这样写**：**她在弟弟 Barry 还在世、还每天躺在床上的年份里，写下了哥哥的死**——这两条线在 ch15 里是并行推进的，她一句也没有让它们互相打断；而她对死亡的态度早在 ch03 那首 `FAMILIARITY` 里就定型了（死者的车在她眼里是安心的）。修辞上 `in mid-sentence`（一句话说到一半）是全书最省的一个死亡意象：**死亡不是一句话的结束，而是切断**。语言上可学的是可分短语动词 `snuff out`——中间插入副词时，`snuffed quietly out` 与 `snuffed out quietly` 意思相近，但她选前者是为了让 `quietly` 紧贴 `snuffed`，把安静放在动作前面。
+**为什么这样写**：**她的伴侣 Barry 还在世、还每天躺在床上的年份里，她写下了哥哥 Andrew 的死**——这两条线在 ch15 里是并行推进的，她一句也没有让它们互相打断；而她对死亡的态度早在 ch03 那首 `FAMILIARITY` 里就定型了（死者的车在她眼里是安心的）。修辞上 `in mid-sentence`（一句话说到一半）是全书最省的一个死亡意象：**死亡不是一句话的结束，而是切断**。语言上可学的是可分短语动词 `snuff out`——中间插入副词时，`snuffed quietly out` 与 `snuffed out quietly` 意思相近，但她选前者是为了让 `quietly` 紧贴 `snuffed`，把安静放在动作前面。
 
 ---
 

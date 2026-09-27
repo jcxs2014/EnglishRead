@@ -15,7 +15,7 @@ modified: "2026-09-27"
 - **一句话主旨**：三年里她先学会了「骨呼吸」，再送走了母亲，然后眼睁睁看着自己半辈子的出版社变成一个每周都在 `chiselling everything back to such a bare minimum` 的地方——而她对这两件事的写法完全一样：先写身体的反应（太极课后 `almost sent me to sleep!`，母亲走后 `I’ve rediscovered the pleasure of getting earth under my fingernails`），把判断压到最后一行
 - **信件清单**：5 FEBRUARY 1989 · [UNDATED] · 18 JULY 1989 · 31 OCTOBER 1989 · [缺一封] · 7 JULY 1990 · STARTED ON 27 SEPTEMBER 1990 · 28 OCTOBER 1990 · 10 MARCH 1991 · 16/17 APRIL 1991 · 19 SEPTEMBER 1991 · 28 NOVEMBER 1991
 - **说话人提示**：全部为阿瑟尔写给爱德华；本组称呼出现 `Dearest Ed –` 与 `Darling Edward,` 两种，而 7 JULY 1990 那封**没有称呼也没有落款格式的完整句**（只写 `Much love, D`）——那是母亲死后她写不出完整书信格式的一封信
-- **人物**：Barry（她弟弟）、爱德华·菲尔德、Neil 与 Neil 的母亲 Muriel、表姐 Barbara（10 月起与表姐同去威尼斯、曼图亚）、Cornelius（溜号了）、Tom Rosenthal（从 André Deutsch 手里买下公司的人）、André Deutsch（1990 年与报纸编辑部联手发难，随后 `gone completely gaga`）、Chris Wilson（年轻小说家，被她劝走）、Calvin Hernton（黑人学者，1960 年代在伦敦的房客，1991 年 3 月来访）、Marie-Louise Motesiczky（画家，Canetti 的情人）、Calvin Hernton 的女友、George Mikes（已于 1987 年 9 月在 ch04 中下葬）、Stephen Vizinczey、Phil Knightley、Venice 当地的 Pietroferruccio Berolo
+- **人物**：Barry（她的伴侣）、爱德华·菲尔德、Neil 与 Neil 的母亲 Muriel、表姐 Barbara（10 月起与表姐同去威尼斯、曼图亚）、Cornelius（溜号了）、Tom Rosenthal（从 André Deutsch 手里买下公司的人）、André Deutsch（1990 年与报纸编辑部联手发难，随后 `gone completely gaga`）、Chris Wilson（年轻小说家，被她劝走）、Calvin Hernton（黑人学者，1960 年代在伦敦的房客，1991 年 3 月来访）、Marie-Louise Motesiczky（画家，Canetti 的情人）、Calvin Hernton 的女友、George Mikes（已于 1987 年 9 月在 ch04 中下葬）、Stephen Vizinczey、Phil Knightley、Venice 当地的 Pietroferruccio Berolo
 
 ### 叙事脉络
 

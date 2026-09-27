@@ -12,10 +12,10 @@ modified: "2026-09-27"
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；本组信末署 `Love, Diana` / `Love from Diana` / `Much love, Diana` / `Much love, and do for heaven’s sake, prosper.`，其中一封 3 MARCH 1992 的落款不是签名而是一行说明：`Attached: a poem for Edward Field, whose words made me write it. Diana Athill 3-3-92`
 - **章节定位**：书信部分第四组（ch03–ch16 共 14 组），时间跨度 1992 年 1 月 – 1992 年 12 月，共 8 封（对应全书第 33–40 封）。**本组是全书两条主线同时收束的一年**：Barry 在 2 月底差点死掉（肠子坏死、被紧急手术两次），她在 9 月向 Tom 递了辞职、9 月底离开；同一年她也第一次把母亲的死写成诗寄给爱德华
 - **篇幅**：24,568 字符（`text/ch06_letters_1992.txt`，非空白字符计）；8 封信（其中 **20 JANUARY 1992 有两封**）+ 1 首完整附诗 `THE GIFT` + 1 首小诗 `In a Tetchy Mood`（以信内 P.P.S. 的形式分行排印）+ 5 处方括号（Andrew Harvey 的去向 / 城堡的位子最终没中 / *Make Believe* 书名 / Jeremy [Lewis] 的姓 / 《Make Believe》的内容说明）
-- **一句话主旨**：她弟弟在 2 月底从鬼门关回来、她在 10 月离开干了一辈子的出版社——而这两件事她都用同一种笔法写：**先写身体的荒诞细节（`the first swallow of summer`、一屋子装修工），再用一个破折号把判断放到最后一句**
+- **一句话主旨**：她的伴侣 Barry 在 2 月底从鬼门关回来、她在 10 月离开干了一辈子的出版社——而这两件事她都用同一种笔法写：**先写身体的荒诞细节（`the first swallow of summer`、一屋子装修工），再用一个破折号把判断放到最后一句**
 - **信件清单**：20 JANUARY 1992（其一）· 20 JANUARY 1992（其二）· 27 FEBRUARY 1992 · 3 MARCH 1992（附诗 `THE GIFT`）· 15 APRIL 1992 · 9 SEPTEMBER 1992 · 22 OCTOBER 1992 · 18 DECEMBER 1992
 - **说话人提示**：全部为阿瑟尔写给爱德华；**20 JANUARY 1992 的两封最见称呼的分量**——头一封 `Dearest Edward,`（谈一位死了的老学者），第二封当天就换成 `Darling Edward –`（谈爱德华的诗集与自己的胆囊）；27 FEBRUARY 1992 那封用 `My darling Edward –`，是全书最亲近的称呼
-- **人物**：Barry（她弟弟，本组最重要的当事人）、爱德华·菲尔德、Tom Rosenthal（公司新老板）、Andrew Harvey（学者，后转向灵性修行，编者方括号补记其去向）、John Sparrow（前 All Souls 院长，讣告里留了四行小诗）、Barbara 与 Polly（表姐与表姐的女儿）、Sister（她姐姐，住在津巴布韦）、Marie-Louise Motesiczky 未在本组出现、Eileen Barrie 未出现、Hakim Jamal（只在方括号里，`Make Believe` 的对象）、Jeremy Lewis（《London Magazine》编辑）、Maureen Cleave（《每日电讯报》杂志记者）、爱德华的母亲未出现（`What news of Neil’s mother?` 是本组唯一一次提起）
+- **人物**：Barry（她的伴侣，本组最重要的当事人）、爱德华·菲尔德、Tom Rosenthal（公司新老板）、Andrew Harvey（学者，后转向灵性修行，编者方括号补记其去向）、John Sparrow（前 All Souls 院长，讣告里留了四行小诗）、Barbara 与 Polly（表姐与表姐的女儿）、Sister（她姐姐，住在津巴布韦）、Marie-Louise Motesiczky 未在本组出现、Eileen Barrie 未出现、Hakim Jamal（只在方括号里，`Make Believe` 的对象）、Jeremy Lewis（《London Magazine》编辑）、Maureen Cleave（《每日电讯报》杂志记者）、爱德华的母亲未出现（`What news of Neil’s mother?` 是本组唯一一次提起）
 
 ### 叙事脉络
 
@@ -212,7 +212,7 @@ modified: "2026-09-27"
 
 **表达方式**：**这个句子全部由 `still` 与 `and` 构成，是一句「什么都没变」的三连**：`still` 在床、`still` 把它当随手翻翻，而破折号前的 `it is now 1:30` 把这一切钉在一个具体时刻上。最后那句 `because that’s what it is` 用「就是这样」收尾，等于把前面的 `still thinking of it as a quick preliminary squint` 自我坐实——**她坚持说自己只是随手翻翻，而这个「坚持」本身就是证据**。`a quick preliminary squint`（一次快速的初步一瞥）这个自造短语是全句的笑点：她一个五十页诗集从头读到了尾，还要说这是一瞥。
 
-**为什么这样写**：这封信是全书通信线的一个收束点：她收到爱德华的诗集（`Counting Myself Lucky`）读到了凌晨一点半。**她拒绝说「我读得停不下来」，而是用一个时间事实（`it is now 1:30`）和一个自我降级（一瞥）来代替**——这与她在 ch06 开头为爱德华的访谈生气（`it disturbs me when you say you are a neurotic mess`）、以及在 ch05 里说自己是「诗歌的坏读者」（ch01 ⑥）都是同一种自嘲。语言上值得学的是 `think of A as B` 这个短语，以及 `because that’s what it is` 这种用「就是这样」收尾的口语节奏——它在英式日常英语里非常常见，中文没有直接对应的短句。
+**为什么这样写**：这封信是全书通信线的一个收束点：她收到爱德华的诗集（`Counting Myself Lucky`）读到了凌晨一点半。**她拒绝说「我读得停不下来」，而是用一个时间事实（`it is now 1:30`）和一个自我降级（一瞥）来代替**——这与她在 ch06 开头为爱德华的访谈生气（`it disturbs me when you say you are a neurotic mess`）、以及在 ch01 ⑥ 里说自己是「诗歌的坏读者」都是同一种自嘲。语言上值得学的是 `think of A as B` 这个短语，以及 `because that’s what it is` 这种用「就是这样」收尾的口语节奏——它在英式日常英语里非常常见，中文没有直接对应的短句。
 
 ---
 
@@ -286,4 +286,4 @@ modified: "2026-09-27"
 
 ## 一句话总结
 
-1992 年她把弟弟那道从肚脐下方一直拐进阴毛的伤口写了下来，把母亲的死写成十行诗，把离开出版社写成空楼里的一声无人认领的笑——而贯穿这四件事的，是她在 1 月 20 日那句给自己下的判词：`You are responsible for turning my mind towards poems.`
+1992 年她把伴侣那道从肚脐上方一直拐进阴毛的伤口写了下来，把母亲的死写成十行诗，把离开出版社写成空楼里的一声无人认领的笑——而贯穿这四件事的，是她在 1 月 20 日那句给自己下的判词：`You are responsible for turning my mind towards poems.`

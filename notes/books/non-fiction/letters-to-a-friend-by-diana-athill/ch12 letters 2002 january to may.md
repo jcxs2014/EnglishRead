@@ -10,7 +10,7 @@ modified: "2026-09-27"
 
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Diana Athill（1917–2019），全书写信者「我」
-- **章节定位**：书信部分第十二组（ch03–ch16 共 14 组）。本组是全书**照护书写的成熟形态**：ch11 刚写出「疾病线的开端」，本组七封信全部围绕同一个人的同一件事——她兄弟 Barry 的前列腺与导尿管——而她自己的身体只以「我三更半夜心慌」「我发着烧」两条线穿行其间
+- **章节定位**：书信部分第十二组（ch03–ch16 共 14 组）。本组是全书**照护书写的成熟形态**：ch11 刚写出「疾病线的开端」，本组七封信全部围绕同一个人的同一件事——她伴侣 Barry 的前列腺与导尿管——而她自己的身体只以「我三更半夜心慌」「我发着烧」两条线穿行其间
 - **篇幅**：24,090 非空白字符（`text/ch12_letters_2002_january_to_may.txt`，以 `tr -d '[:space:]' | wc -c` 计）；7 封信；全件另有 4 处方括号件——`[note on envelope] P.S. …`（13 JANUARY 2002 那封的封套背面）与 `[Note: lined paper torn out of writing pad.]`（28 FEBRUARY 2002 那封）是编者加的说明，8 FEBRUARY 2002 里的 `[Once In A House On Fire]` 是编者补的书名，28 FEBRUARY 2002 里的 `[six, in fact]` 是编者对同句 `four or five years` 的更正
 - **一句话主旨**：这是全书最像「照护日志」的一组——`a bad infection`、`999` 救护车、`a size 18 tube` 与 `a size 17 inch`、`thralldom`；而同一组信里她仍在纠正爱德华的诗观（`I don’t think it was the original you`）、替一个年轻作者的书叫好（`she was able to soar`）、并在结尾第一次承认自己的年龄：`once one is nearly halfway though one’s 80s one can fold up quite suddenly`
 - **信件清单**（日期一律照抄原文写法，未规范化）：13 JANUARY 2002 · 22 JANUARY 2002 · 8 FEBRUARY 2002 · 28 FEBRUARY 2002 · 9 MARCH 2002 · 18 APRIL 2002 · 28 MAY 2002
