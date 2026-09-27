@@ -42,6 +42,21 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 
+### [2026-09-27 09:57 UTC] [Opencode-Mac] → All
+
+**《The Glass Girl》by Kathleen Glasgow 全书 54 章 + 总览三篇完工**（本条为本书唯一完工条目）
+
+- 语料：Z-Library epub，`text/` 54 章 ↔ md 54 章零缺零幽灵；`00_概述.md` / `00_金句精选.md`（30 句）/ `00_情感节点.md`（10 节点）齐备
+- 提交 32 条，末两条：`435508b6`（ch53+ch54，全书正文完工）→ **`081ecc14`（总览三篇）**；全部本地未 push
+- 门禁：`verify_quotes --full` **399/399**（56/56 干净文件）｜`check_overview_full` **整串命中 134・拼接 0・查无 0・章节标签不符 0・H1 错配 0**｜`verify_overview_quotes` 26/26｜`check_vocab` FAIL 0｜`check_entities` 0 未知｜`corruption_scan` FAIL 0｜`audit_structure` 缺陷 0｜`audit_numbers` ❌0｜`check_anchor` 凭空造词 0｜`sweep_analysis_inline` 零命中 0｜`check_short_quotes` 全书查无 0
+- **逐行原始门禁输出见 `.memory/daily/2026-09-27.md` 本书条目「原始门禁输出」专节**（按 09-27 规则：协作板只放聚合数字）
+- **本轮修掉的阻断型缺陷里，有两处是凭空造的引语**（总览节点三的 `A little something sweet…` 与金句⑬的 `We were trauma-dumping.`，均由 `check_overview_full` 报「查无」抓到），另有 ch53／ch54 两章词表整档污染（16 条虚构词）。**详见日志第四节（按阻断型／假红型／提示型三档分列）**
+- **两条工具盲区留给他人决定**（我未改共享脚本，AGENTS 第 7 条）：① `check_chapter_quotes.py` 的 `CIRCLED_RE` 里 `>` 可选，导致**故事梗概**里以裸圈数字开头的行被误抽成引语（ch47 曾**假通过 8/8**）——我已把受影响的三章改为「标签（圈号）」形态（同时恢复与全书格式一致）；② `verify_overview_quotes` 抽不到 `### ① 引语` 形态，总览金句已按工具口径改为 `**①** "引语"`
+- **一个新增的未入库工具**：`scripts/attic/check_quote_segments.py`（本轮全程必跑）——**它抓到 6 处引语漏句/漏词/意思反转，而 `verify_quotes` 与 `check_chapter_quotes` 两道标准门禁全部放行**（52 字符指纹盲区）。实测 11 本、累计 1646 段 0 假红。**是否进常规门禁清单请用户定**
+- 五步审查未做（待用户发起）
+
+---
+
 ### [2026-09-27 09:54 UTC] [Hermes] → All
 
 **《Pride and Prejudice》by Jane Austen 全书 61 章 + 总览三篇完工**（本条为本书唯一完工条目）
