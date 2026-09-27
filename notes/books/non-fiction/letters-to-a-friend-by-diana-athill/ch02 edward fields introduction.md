@@ -11,8 +11,8 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Edward Field（1924– ，美国诗人，收信人），签名 `Edward Field`，落款 `New York, 2011`——**本书第一位外部说话人**；ch01 是写信人自序，本章是收信人序，两者构成一组对照
 - **章节定位**：全书第二件——出版动机的起点与经过：1980 年为 reviving Alfred Chester 的声誉而通信 → 三十年后由收信人一方整理付梓。**本章同时交代了本书的物质形态**（谁打字、谁改稿、为什么 2003 年之后出现 e-mail 阶段）
-- **篇幅**：8,094 字符（`text/ch02_edward_fields_introduction.txt`，非空白字符计）；正文 15 段 + 签名与日期
-- **一句话主旨**：一个美国诗人如何因为替一位被文学界遗忘的英国作家（Alfred Chester）打抱不平而认识了一位编辑——而三十年后，正是「她写得太长、太多、too intimate」这件事本身，迫使他和她一起把这些信变成了书
+- **篇幅**：8,094 字符（`text/ch02_edward_fields_introduction.txt`，非空白字符计）；正文 17 段 + 签名与日期
+- **一句话主旨**：一个美国诗人如何因为替一位被文学界遗忘的英国作家（Alfred Chester）打抱不平而认识了一位编辑——而三十年后，正是「她写得太长、太多、太私密」这件事本身，迫使他和她一起把这些信变成了书
 - **说话人提示**：本章为爱德华自述，但**第 7 段里有一句阿瑟尔的方括号插话**（`[Nonsense; it was a very superior and efficient gas-fire. DA]`）——全书唯一一次序言里直接反驳序言作者的地方
 - **人物**：Edward Field（诗人）、Neil Derrick（散文作家，1972 年脑瘤手术后失明）、Diana Athill、Barry Reckord（牙买加剧作家）、Alfred Chester（小说家，1971 年死于耶路撒冷）、Jean Rhys、Hakim Jamal、`Didi`（阿瑟尔在书里对一位埃及流亡者的称呼）
 
@@ -126,7 +126,7 @@ modified: "2026-09-27"
 
 **中文理解**：在美国人的耳朵听来，英国口音的多样性永远令人着迷，而她的口音属于那一类——在我们听来，它说的是乡间宅邸、马术、帝国与统治阶级；如今已经很少听到了，不过 Tony Benn 是我们多次在伦敦期间听到的最接近的例子。几乎从一开始，和 Diana 交谈对我就是一项挑战——试着模仿她那些结构极好的句子、她说话时的清晰；但我只能近似她的句法与语言。她的写作也一样：她那样写，因为她那样说。
 
-**句子结构**：首句 `To our American ears` 是不定式短语作状语（相当于 from our American ears），主语 `the variety of accents` + 系动词 + 表语，`and hers is one of those that…` 中 `those` 后省略了关系代词，`that to us speaks of…` 是插入 `to us` 的定语从句；破折号后的 `it’s not heard much any more, though Tony Benn is…` 承前省略了主语（即那种口音本身）；次句 `Having a conversation with Diana became a challenge to me` 是动名词作主语 + 不定式作目的状语（`to try to imitate…`），破折号后再接 `but I can only approximate…`；末两句是「同一个判断换个对象再说一遍」的平行结构（`the same goes for her writing` → `She writes like that because she speaks like that.`）。
+**句子结构**：首句 `To our American ears` 是介词短语作状语（相当于 from our American ears），主语 `the variety of accents` + 系动词 + 表语，`and hers is one of those that…` 中 `those` 后省略了关系代词，`that to us speaks of…` 是插入 `to us` 的定语从句；破折号后的 `it’s not heard much any more, though Tony Benn is…` 承前省略了主语（即那种口音本身）；次句 `Having a conversation with Diana became a challenge to me` 是动名词作主语 + 不定式作目的状语（`to try to imitate…`），破折号后再接 `but I can only approximate…`；末两句是「同一个判断换个对象再说一遍」的平行结构（`the same goes for her writing` → `She writes like that because she speaks like that.`）。
 
 **关键词**：accents（口音）、speaks of（让人联想到；说的正是）、the Ruling Class（统治阶级）、approximate（近似；勉强做到）、syntax（句法）、She writes like that because she speaks like that（她那样写，因为她那样说）
 
@@ -140,7 +140,7 @@ modified: "2026-09-27"
 
 **中文理解**：作家作为一个物种，通常都不善于预留、不够清醒、不节俭、不明智；而在应付他们的时候，讲道理最是一种美德。Diana 这一项突出品质被索取得惊人地频繁。她总是到场救急：给他们一张床、给一笔钱，或者把他们接上所需要的帮助。
 
-**句子结构**：首句主语是带后置修饰的名词短语 `Authors as a breed`（`as a breed` = as a category），谓语 `tend not to be` + 四个并列形容词（`provident / sober / thrifty / wise`，`not` 只提一次管四个）；`and in dealing with them, being sensible most emphatically is a virtue` 是并列分句，其中 `most emphatically` 是强调状语（`most` 修饰形容词 `emphatically` 构成最高级）。次句 `This salient quality of Diana’s was called upon…` 用 `of Diana’s` 属格（`salient` = 显著的）；末句用三个动名词并列作 `there` 的补语（`to rescue / to give them a bed, a handout, or to connect them to…`）。
+**句子结构**：首句主语是带后置修饰的名词短语 `Authors as a breed`（`as a breed` = as a category），谓语 `tend not to be` + 四个并列形容词（`provident / sober / thrifty / wise`，`not` 只提一次管四个）；`and in dealing with them, being sensible most emphatically is a virtue` 是并列分句，其中 `most emphatically` 是强调状语（`emphatically` 是副词，`most` 修饰的是这个副词而非形容词）。次句 `This salient quality of Diana’s was called upon…` 用 `of Diana’s` 属格（`salient` = 显著的）；末句用三个**不定式**并列作 `there` 的补语（`to rescue / to give them a bed, a handout, or to connect them to…`）。
 
 **关键词**：as a breed（作为一个物种/一类）、tend not to be（往往不）、provident（有预留的；会打算的）、salient（显著的）、most emphatically（最 emphatically 地；极其）、a handout（一笔施舍/救济）
 
@@ -154,7 +154,7 @@ modified: "2026-09-27"
 
 **中文理解**：在另一个领域里，她与她的作者们站在一起反抗规矩——她在写作中透露自己生活里那些以她的出身背景而言不会去做（不会说出来）的私密细节。在这一点上我们同处一页，因为我的诗除了自我揭示之外什么也不是。
 
-**句子结构**：首句主语是 `she` + 插入的现在分词 `joins her authors in defying convention` + 主句 `by revealing…`（`by` 动名词短语作方式状语）；`that people of her background Don’t Do` 是定语从句，其中 `Don’t Do` 用首字母大写以示强调（英式强调法），`her background` = 她的阶层；次句 `In this we are on the same page` 是固定习语（`in this` 指代上文这件事），`for` 引出理由，`my poetry is nothing but self-revelation` 中 `nothing but` = 仅仅。
+**句子结构**：首句是 `she` + 主动谓语 `joins her authors in defying convention`（`join sb. in doing`）＋方式状语 `by revealing…`（`by` 动名词短语作方式状语）；`that people of her background Don’t Do` 是定语从句，其中 `Don’t Do` 用首字母大写以示强调（英式强调法），`her background` = 她的阶层；次句 `In this we are on the same page` 是固定习语（`in this` 指代上文这件事），`for` 引出理由，`my poetry is nothing but self-revelation` 中 `nothing but` = 仅仅。
 
 **关键词**：joins her authors in（在某点上与……一致）、defying convention（反抗规矩）、intimate details（私密细节）、Don’t Do（不做／不说）、on the same page（立场一致）、self-revelation（自我揭示）
 
@@ -174,7 +174,7 @@ modified: "2026-09-27"
 
 **表达方式**：以「观察手稿」的细节写一个人的性格：`loosened considerably`（明显松掉）与 `revealed a schoolgirl enthusiasm`（露出女学生的兴奋）两个身体动作，把「练过的字」与「松掉的手」并置；末句用感叹号把观察升级为判词（`recklessness under that sensible exterior`）。
 
-**为什么这样写**：这是全书写作观的一个缩影：她从体裁的物理痕迹（笔迹的松紧、字的大小）推断一个人的心理状态，方法与 ch01 里「我是个诗歌的坏读者」同源——**她相信表层形式会泄出真相**。这也为后文那些「字迹松掉的长信」提供了正当性：信之所以好读，正因为写信人在写第二页时已经不再端着了。
+**为什么这样写**：这是全书写作观的一个缩影：**收信人 Field** 从体裁的物理痕迹（笔迹的松紧、字的大小）推断一个人的心理状态，方法与 ch01 里「我是个诗歌的坏读者」同源——**他相信表层形式会泄出真相**。这也为后文那些「字迹松掉的长信」提供了正当性：信之所以好读，正因为写信人在写第二页时已经不再端着了。
 
 ### ⑨
 

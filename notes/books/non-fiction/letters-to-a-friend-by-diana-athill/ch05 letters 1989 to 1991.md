@@ -11,10 +11,10 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；本组信末署 `Diana`（一封只有首字母 `D`），落款格式从 `Darling Edward,` 一路稳定到 `Darling Edward –`
 - **章节定位**：书信部分第三组（ch03–ch16 共 14 组），时间跨度 1989 年 2 月 – 1991 年 11 月，共 11 封（对应全书第 22–32 封），中间缺一封（编者方括号明说 `A letter must be missing during this long gap`）。**本组是全书两条线同时转向的一组**：私人的那条线是母亲的死（1990 年 6 月），职业的那条线是 André Deutsch 出版社的失血（Tom Rosenthal 接手后节节败退）——而这两条线在 1991 年 11 月那封信里合成同一件事：她必须对一个作者说「公司要完了」
-- **篇幅**：33,099 字符（`text/ch05_letters_1989_to_1991.txt`，非空白字符计）；11 封信 + 10 处方括号长注（Cornelius 溜号 / 写下的东西后来没了 / 母亲死于六月 / *Head of a Sad Angel* / Tom Rosenthal 是谁 / Oberlin 学院 / 那位画家其实很有钱 / 当时正是南斯拉夫战争开始 / 酒精已与她不合 / 他们搬进了更大的公寓）＋8 处行内方括号注
+- **篇幅**：32,248 字符（`text/ch05_letters_1989_to_1991.txt`，非空白字符计）；11 封信 + 10 处方括号长注（Cornelius 溜号 / 写下的东西后来没了 / 母亲死于六月 / *Head of a Sad Angel* / Tom Rosenthal 是谁 / Oberlin 学院 / 那位画家其实很有钱 / 当时正是南斯拉夫战争开始 / 酒精已与她不合 / 他们搬进了更大的公寓）＋8 处行内方括号注
 - **一句话主旨**：三年里她先学会了「骨呼吸」，再送走了母亲，然后眼睁睁看着自己半辈子的出版社变成一个每周都在 `chiselling everything back to such a bare minimum` 的地方——而她对这两件事的写法完全一样：先写身体的反应（太极课后 `almost sent me to sleep!`，母亲走后 `I’ve rediscovered the pleasure of getting earth under my fingernails`），把判断压到最后一行
 - **信件清单**：5 FEBRUARY 1989 · [UNDATED] · 18 JULY 1989 · 31 OCTOBER 1989 · [缺一封] · 7 JULY 1990 · STARTED ON 27 SEPTEMBER 1990 · 28 OCTOBER 1990 · 10 MARCH 1991 · 16/17 APRIL 1991 · 19 SEPTEMBER 1991 · 28 NOVEMBER 1991
-- **说话人提示**：全部为阿瑟尔写给爱德华；本组称呼出现 `Dearest Ed –` 与 `Darling Edward,` 两种，而 7 JULY 1990 那封**没有称呼也没有落款格式的完整句**（只写 `Much love, D`）——那是母亲死后她写不出完整书信格式的一封信
+- **说话人提示**：全部为阿瑟尔写给爱德华；本组称呼有 5 种变体（`Darling Edward,` / `Darling Edward –` / `Dearest Edward,` / `Dearest Edward –` / `Dearest Ed –`），末封是 `Dearest Edward,`，而 7 JULY 1990 那封**没有称呼也没有落款格式的完整句**（只写 `Much love, D`）——那是母亲死后她写不出完整书信格式的一封信
 - **人物**：Barry（她的伴侣）、爱德华·菲尔德、Neil 与 Neil 的母亲 Muriel、表姐 Barbara（10 月起与表姐同去威尼斯、曼图亚）、Cornelius（溜号了）、Tom Rosenthal（从 André Deutsch 手里买下公司的人）、André Deutsch（1990 年与报纸编辑部联手发难，随后 `gone completely gaga`）、Chris Wilson（年轻小说家，被她劝走）、Calvin Hernton（黑人学者，1960 年代在伦敦的房客，1991 年 3 月来访）、Marie-Louise Motesiczky（画家，Canetti 的情人）、Calvin Hernton 的女友、George Mikes（已于 1987 年 9 月在 ch04 中下葬）、Stephen Vizinczey、Phil Knightley、Venice 当地的 Pietroferruccio Berolo
 
 ### 叙事脉络
@@ -90,7 +90,7 @@ modified: "2026-09-27"
 
 **中文理解**：他们真的会对解剖学有这样一个古怪的想法吗？（我在旁边想。）
 
-**句子结构**：这是一个**疑问句加插入语**的结构：主句是 `Can they + really have had + such a rum idea of anatomy`（`Can they have had…?` 的一般疑问句，`have had` 是完成时）；`I wondered` 以插入语形式插在主语 `they` 与助动词 `can` 之间（`Can I wondered they really…` 的省略插入），这是英式口语常见的「自问自答式插入」；`rum` 是形容词，放在 `such a` 之后（`such a rum idea`），`idea of anatomy` 中 `of` 引出「关于什么」。
+**句子结构**：这是一个**疑问句加插入语**的结构：主句是 `Can they + really have had + such a rum idea of anatomy`（`Can they have had…?` 的一般疑问句，`have had` 是完成时）；`I wondered` 以插入语形式插在主语 `they` 之后、`really` 之前（`Can they, I wondered, really…`），这是英式口语常见的「自问自答式插入」；`rum` 是形容词，放在 `such a` 之后（`such a rum idea`），`idea of anatomy` 中 `of` 引出「关于什么」。
 
 **关键词**：Can they（他们能／会不会）、I wondered（我想着）、rum（古怪的；怪异的）、such a rum idea（这样一个怪念头）、of anatomy（关于解剖学的）
 
@@ -180,7 +180,7 @@ modified: "2026-09-27"
 
 **表达方式**：**这整段是她写「性」写得最漂亮的一次，因为她把它写成了一套社会观察**：她先用一个双重否定把「个个都上」说成常态，再把关键转移交给一个破折号插入语（`this was the really nice thing about him`），最后用「最亲近的朋友」与「真爱」这一对区分收尾。`almost on sight`（几乎一照面）里的 `on sight` 是固定说法；`in the least` 则是加强否定的正式写法，比 `at all` 更旧式，也更客气。
 
-**为什么这样写**：她在一封写给丈夫的信里回忆自己的房客，而这封信的主题是「失去之后整理自己」——这封信她刚说完母亲去世、说完公司要完。**她在这种时刻写的不是哀伤，是人物速写**。这也解释了她对 Calvin Hernton 的写法为什么这么好：她对他人的私生活用一种近乎收藏者的准确与轻松，一句 `so no woman I saw him with including myself failed to…` 就把一个既真诚又混乱的关系交代完。语法上值得学的正是 `once + 过去完成时` 这个结构（`once one had made love with him`）——`once` 在这里不表示「一次」，而表示「一旦……之后」，是书面叙述里常用而中文容易直译错的地方。
+**为什么这样写**：她在一封写给爱德华的信里回忆自己的房客，而这封信的主题是「失去之后整理自己」——这封信她刚说完母亲去世、说完公司要完。**她在这种时刻写的不是哀伤，是人物速写**。这也解释了她对 Calvin Hernton 的写法为什么这么好：她对他人的私生活用一种近乎收藏者的准确与轻松，一句 `so no woman I saw him with including myself failed to…` 就把一个既真诚又混乱的关系交代完。语法上值得学的正是 `once + 过去完成时` 这个结构（`once one had made love with him`）——`once` 在这里不表示「一次」，而表示「一旦……之后」，是书面叙述里常用而中文容易直译错的地方。
 
 ### ⑧
 
@@ -192,7 +192,7 @@ modified: "2026-09-27"
 
 **关键词**：I think that（我想）、old brute（老野兽；老家伙）、sat on her（压在她身上）、so heavily（如此厉害地）、couldn’t promote herself（没法为自己打出名堂／没法推销自己）
 
-**表达方式**：**她把一个仍然活着的、写她传记的书商比作 `sat on her`（压在她身上）**——`sit on` 的本义是「坐在…上」，引申为「压制、压住、占着位置不走」。`so heavily that…` 的 `so + adv.` 形式把「重」这个物理量直接换算成了社会后果。`old brute`（老野兽）是她给 Canetti 的定性，`brute` 在这里既指「粗野的人」也保留着「兽」的联想。
+**表达方式**：**原文是那位情人 `sat on her`（压在她身上）**，说的是那位跟他三十五年的情人如何忍受他——`sit on` 的本义是「坐在…上」，引申为「压制、压住、占着位置不走」。`so heavily that…` 的 `so + adv.` 形式把「重」这个物理量直接换算成了社会后果。`old brute`（老野兽）是她给 Canetti 的定性，`brute` 在这里既指「粗野的人」也保留着「兽」的联想。
 
 **为什么这样写**：同一句话里她做了两件相反的事：给出了一个很重的判断（`old brute`、`sat on her so heavily`），又马上在下一句自我修正——`but also it would hardly have seemed important to her, so long as she could go on painting`（可对她自己来说，只要还能画，别的也就无所谓了）。**这种「先刻薄再收回」的节奏是她的判断方式**，同信她自己也用得上（`I’m half afraid that I’m going to get involved in this very complex problem!` 说完马上跟着行动）。语言上值得学的是 `so + 副词 + that` 这个强调结构，以及 `sit on` 这个在英语里既日常又狠的比喻用法。
 
@@ -208,7 +208,7 @@ modified: "2026-09-27"
 
 **表达方式**：这段是全书**清单式喜剧**的样本：先用一个让步（`although in fact a vet`）把期待压下去，再用一个比喻（`the very image of a nineteenth-century Hungarian poet`）把它顶上去，然后 `complete with` 领出五样东西；五样里最后一样是「一丝花花公子气」，而作者还在其中插一句 `a casual touch` 来强调这一丝有多轻——**喜剧效果来自那份清单的繁琐与最后一项的微不足道之间的落差**。收尾两句（`Scrumptious.` + `How terribly sad…`）干脆跳出清单，一个词、一个感叹，形成急刹车。
 
-**为什么这样写**：这封信写乔治·迈克斯的纪念牌，写到一半笔锋转去描写一顿乡间晚餐与一位市长——**而这正是她这一年唯一一次写作**。语言上最值得学的是 `How terribly sad + 不定式` 这个感叹句型（`How + adj. + to do sth.`），它比写成「我年纪大到可以当他的祖母了，真难过」那种完整句子短得多、也痛得多；以及破折号里的自我重复（`a touch – a casual touch –`），这是英文幽默里最省字的强调手法：把刚说过的词再说一次、并降级，笑话就成立了。
+**为什么这样写**：这封信写乔治·迈克斯的纪念牌，写到一半笔锋转去描写一顿乡间晚餐与一位市长——**而这封信里她几乎没有再谈工作**。语言上最值得学的是 `How terribly sad + 不定式` 这个感叹句型（`How + adj. + to do sth.`），它比写成「我年纪大到可以当他的祖母了，真难过」那种完整句子短得多、也痛得多；以及破折号里的自我重复（`a touch – a casual touch –`），这是英文幽默里最省字的强调手法：把刚说过的词再说一次、并降级，笑话就成立了。
 
 ### ⑩
 
@@ -216,13 +216,13 @@ modified: "2026-09-27"
 
 **中文理解**：当我不得不立刻在「对公司忠诚」和「对我的作家忠诚」之间做平衡时——天平倒向了他那一边。
 
-**句子结构**：全句是一个以 `when` 引导的时间/条件状语从句（`when I had to do an instant balancing between loyalty to firm and loyalty to my writer`），从句的主语被一个动名词短语充当（`do an instant balancing` = 「做一次瞬间的平衡」，`between A and B` 说明平衡的两端）；主句被推到破折号之后才出现：`the scales tipped in his favour`——主语 `the scales` 紧跟破折号，然后才是谓语 `tipped`，`in his favour` 是状语；`tip in sb.’s favour` 是习语（`tip` = 倾斜）。
+**句子结构**：全句是一个以 `when` 引导的时间/条件状语从句（`when I had to do an instant balancing between loyalty to firm and loyalty to my writer`），从句的主语是 `I`，`do an instant balancing` 是谓语（动词 + 宾语），`between A and B` 才是介词短语、说明平衡的两端；主句被推到破折号之后才出现：`the scales tipped in his favour`——主语 `the scales` 紧跟破折号，然后才是谓语 `tipped`，`in his favour` 是状语；`tip in sb.’s favour` 是习语（`tip` = 倾斜）。
 
 **关键词**：had to do an instant balancing（不得不当场做一次平衡）、loyalty to firm（对公司的忠诚）、loyalty to my writer（对我的作家的忠诚）、the scales tipped（天平倾斜了）、in his favour（倒向他那一边）
 
 **表达方式**：**整句的力量在于「天平」这个隐喻的完整性**：她不说「我更看重作者」，而是先说 `loyalty to firm` 与 `loyalty to my writer` 这两笔账，再让 `the scales tipped` 这个动作完成判断。真正的句法机关在破折号：主句被破折号挡在从句之后，读者要一路读完整串 `loyalty to firm and loyalty to my writer` 才看到主语 `the scales` 突然出现——天平是「算完才摆出来」的，不是先摆好再放砝码。`an instant balancing` 里的 `instant` 点出这判断发生得有多快。
 
-**为什么这样写**：这是全书把「编辑的两难」写得最干净的一处，而且她没有把自己写成受害者。**她给出的顺序是：先承认两边都欠（loyalty to firm / loyalty to my writer），再说天平倒向，而倒向的理由在同一封信里被摊开讲完**（这个年轻人 `He’s recklessly given up his teaching job (fool!)`，所以这对他真的性命攸关；而公司只是可能存在）。这份坦白是 ch04 里那封 `what a mean, manipulative, tyrannical little shit he always was` 的延续：她对职场的判断一向偏冷，但对自己的偏向从不隐瞒。语言上值得学的就是这一组并列：两个 `loyalty to + 名词` 结构对称排列，读者自动完成比较——英语说理最省力的武器就是这种「同构对仗」。
+**为什么这样写**：这是全书把「编辑的两难」写得最干净的一处，而且她没有把自己写成受害者。**她给出的顺序是：先承认两边都欠（loyalty to firm / loyalty to my writer），再说天平倒向，而倒向的理由在同一封信里被摊开讲完**（这个年轻人 `He’s recklessly given up his teaching job (fool!)`，所以这对他真的性命攸关；而公司只是可能存在）。这份坦白是本组自己那封（27 SEPTEMBER 1990，也就是本章原句 ⑤）里 `what a mean, manipulative, tyrannical little shit he always was` 的延续：她对职场的判断一向偏冷，但对自己的偏向从不隐瞒。语言上值得学的就是这一组并列：两个 `loyalty to + 名词` 结构对称排列，读者自动完成比较——英语说理最省力的武器就是这种「同构对仗」。
 
 ---
 

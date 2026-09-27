@@ -11,11 +11,11 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；本组信末署 `Diana`、`Love from Diana`、`Hugs, Diana`，一封以 `Diana OOXXOOXXOO.` 加一句 `Do Americans write hugs and kisses like we do?` 收尾
 - **章节定位**：书信部分第二组（ch03–ch16 共 14 组），时间跨度 1984 年 8 月 – 1988 年 8 月，共 12 封（对应全书第 10–21 封）。**本组是全书「编辑生涯线」从理论转为实务的一组**：ch03 里她对出版业的判断（了不起的 writer 已贬值）在本组变成了一连串具体手续——稿费、版权声明、错别字、出租床位、装病一样的推脱
-- **篇幅**：26,692 字符（`text/ch04_letters_1984_to_1988.txt`，非空白字符计）；12 封信 + 5 处方括号长注（*Variety Photoplays* / Carroll & Graf 与《Exquisite Corpse》重印 / Waguih Ghali 的身份与《After A Funeral》/ 楼下的音乐学生已搬走 / Myra Hindley 案的长篇说明）＋9 处行内方括号注（人物、书名的简注与一句自注）
-- **一句话主旨**：这五年里她一边把自己家改成工地（表姐的楼下、表姐儿子的公寓、诺福克的乡间老宅），一边把同一套动手能力用在别人的生活上——直到 1988 年 8 月，两件事在同一封信里撞车：她在 Heathrow 拒绝了走投无路的 Norman Glass，而她拒绝的口气，正是她当年对一个疯子的口气
+- **篇幅**：25,850 字符（`text/ch04_letters_1984_to_1988.txt`，非空白字符计）；12 封信 + 5 处方括号长注（*Variety Photoplays* / Carroll & Graf 与《Exquisite Corpse》重印 / Waguih Ghali 的身份与《After A Funeral》/ 楼下的音乐学生已搬走 / Myra Hindley 案的长篇说明）＋9 处行内方括号注（人物、书名的简注与一句自注）
+- **一句话主旨**：这五年里她一边把自己家改成工地（表姐的楼下、表姐儿子的公寓），一边把同一套动手能力用在别人的生活上——直到 1988 年 8 月，两件事在同一封信里撞车：她在 Heathrow 拒绝了走投无路的 Norman Glass，而她拒绝的口气，正是她当年对一个疯子的口气
 - **信件清单**：31 AUGUST 1984 · 27 SEPTEMBER 1985 · 10 APRIL 1986 · 9 JUNE 1986 · 10 SEPTEMBER 1986 · 13 JANUARY 1987 · 20 JANUARY 1987 · 9 SEPTEMBER 1987 · 19 JANUARY 1988 · 23 MARCH 1988 · 7 JUNE 1988 · 17 AUGUST 1988
-- **说话人提示**：全部为阿瑟尔写给爱德华（称呼自 `Dearest Edward,` 递进到 `Darling Edward,`；20 JANUARY 1987 那封没有称呼，直接接前信的余温）；信中出现的他人话语一律用单引号并常带转述框架（`said my father`、`she said to him`、`he says`）；三处方括号是编者（=作者本人）补的
-- **人物**：Barry（她的伴侣，牙买加剧作家）、爱德华·菲尔德、Neil、表姐 Barbara（表姐的孩子 Adam；表姐替《经济学人》撰稿，1990 年 9 月在华盛顿）、建筑工 Cornelius（尼日利亚陶工）、Kent Carroll（Carroll & Graf）、André Deutsch、Norman Glass、Alfred Chester、George Mikes、Myra Hindley、Waguih Ghali（书中写作 `Didi`）、她母亲（信中写作 `Ma`，`Gran` 是孙辈叫的）
+- **说话人提示**：全部为阿瑟尔写给爱德华（称呼以 `Dearest Edward,` 为主，`Darling Edward,` 只在 23 MARCH 1988 那封出现一次，末封又回到 `Dearest Ed –`；20 JANUARY 1987 那封没有称呼，直接接前信的余温）；信中出现的他人话语一律用单引号并常带转述框架（`said my father`、`she said to him`、`he says`）；本组 14 处方括号都是她（=作者本人）补的
+- **人物**：Barry（她的伴侣，牙买加剧作家）、爱德华·菲尔德、Neil、表姐 Barbara（表姐的孩子 Adam；表姐替《经济学人》撰稿，1985 年 9 月在华盛顿（直到下次美国总统大选之后））、建筑工 Cornelius（尼日利亚陶工）、Kent Carroll（Carroll & Graf）、André Deutsch、Norman Glass、Alfred Chester、George Mikes、Myra Hindley、Waguih Ghali（书中写作 `Didi`）、她母亲（信中写作 `Ma`，`Gran` 是孙辈叫的）
 
 ### 叙事脉络
 
@@ -115,7 +115,7 @@ modified: "2026-09-27"
 
 **关键词**：vividly recall（清楚地回想起）、a cold sinking feeling（心里一沉的感觉）、struck（击中）、as I realized（当我意识到）、said my father（我父亲说）、probably lucky（大概算走运）
 
-**表达方式**：一段 1939 年的柏林记忆被写成三层嵌套：感觉（`a cold sinking feeling`）→ 认知（`as I realized that…`）→ 判断（`said my father,`）。英语在这里靠 `as` 这个词把内外两层焊在一起：打击发生在「意识到」的同一瞬间，所以不是先意识到、后害怕。`I can still vividly recall` 的 `still` 一词把六十多年压成现在时的持续——这是她写回忆时最常用的一个时间词。
+**表达方式**：一段战前的柏林记忆被写成三层嵌套：感觉（`a cold sinking feeling`）→ 认知（`as I realized that…`）→ 判断（`said my father,`）。英语在这里靠 `as` 这个词把内外两层焊在一起：打击发生在「意识到」的同一瞬间，所以不是先意识到、后害怕。`I can still vividly recall` 的 `still` 一词把四十多年压成现在时的持续——这是她写回忆时最常用的一个时间词。
 
 **为什么这样写**：她写历史只用一幅画：阳台上、一队人、一首歌。值得注意的是**她没有写任何关于纳粹德国的话**，历史全部包在 `a cold sinking feeling` 和一句德语歌词里；判断则交给父亲的一句轻描淡写（`I think it’s probably lucky that we are on our way home.`）。这种「不写背景、只写体感与对话」的写法是她在 ch03 讲 Alfred、在 ch05 讲海湾战争时反复使用的同一个方法。作为英语长句样本，这一句是「感觉句 + 时间从句 + 宾语从句 + 定语从句 + 间接引语」五层叠加的完整示范；而「said my father, + 逗号 + 引语」这个倒装间接引语，是英式书面语里最常用而中文最难对上的语序。
 
@@ -215,7 +215,7 @@ modified: "2026-09-27"
 
 **表达方式**：本句示范了一种她极常用的**「事后归因」写法**：先客观列出事实（只见过三次、二十年前），再用一个主句说这件事对她造成了什么生理效果（`injects an hysterical tone in my voice`）。`inject` 这个动词把情绪写成可注入的液体，与她的比喻习惯一致（同信她还说那通电话最气人也最好笑的地方是 `his imperious tone of voice`）。语法上值得学的是：`The fact that… and that…` 这种**双同位语从句作主语**的长主语——主句真正的主语在后面才出现，读者必须一路读到最后才知道她要说什么。
 
-**为什么这样写**：这封信的写作动因是 `let off steam`——她要向一个「far away and never knew him」的人（同一封信里她对乔治·迈克斯用过这个理由）交代她为什么没接 Norman。而交代的方式不是道歉，是**先说明事实的疏远程度，再说明事实如何影响了自己的语气**，最后才补一句事实之外的理由：`he must really have reached the bottom of the barrel, to be calling me, since our only link was that distant fact that we both knew Alfred.` 这套「疏远 → 反应 → 有限辩解」的顺序，正是 ch03 开头那封关于 Alfred 的信的同一个骨架，只是这次施加的对象是她自己。
+**为什么这样写**：这封信的写作动因是 `let off steam`——她要向一个「far away and never knew him」的人（她在同组的另一封信里——9 SEPTEMBER 1987 谈乔治·迈克斯那封——用过这个理由）交代她为什么没接 Norman。而交代的方式不是道歉，是**先说明事实的疏远程度，再说明事实如何影响了自己的语气**，最后才补一句事实之外的理由：`he must really have reached the bottom of the barrel, to be calling me, since our only link was that distant fact that we both knew Alfred.` 这套「疏远 → 反应 → 有限辩解」的顺序，正是 ch03 开头那封关于 Alfred 的信的同一个骨架，只是这次施加的对象是她自己。
 
 ---
 
