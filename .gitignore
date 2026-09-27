@@ -25,6 +25,8 @@ site/static/
 .opencode/
 .commandcode/
 .cortexkit/
+# WorkBuddy 会话状态与项目记忆缓存（各机器/各 IDE 独立，不入库）
+.workbuddy/
 .idea/
 .vscode/
 *.swp
