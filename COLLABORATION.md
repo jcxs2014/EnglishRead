@@ -190,29 +190,63 @@ sweep_analysis_inline 逐字67 / 跨章321(正常复现) / 6🟠(非引语层)
 
 ---
 
-**《Jane Eyre》by Charlotte Brontë 全书完工**（novels/jane-eyre-by-charlotte-bronte/，**41 md** = 38 章 ch01–ch38 + 总览三篇，另 `edition-notes.txt` / `endnote-markers.txt`；言情长篇格式：五项导航 + 四子项 × 8 处 + 三档词汇 + 一句话总结）。正文 38 章全部到位，**16 commits 未 push**，**五步审查未做（待用户发起）**。
+**《Jane Eyre》by Charlotte Brontë 全书完工 + 独立五步审查已整改**（novels/jane-eyre-by-charlotte-bronte/，**41 md** = 38 章 ch01–ch38 + 总览三篇，另 `edition-notes.txt` / `endnote-markers.txt`；言情长篇格式：五项导航 + 四子项 × 8 处 + 三档词汇 + 一句话总结）。**21 commits 未 push**。
 
-**完工门禁（全部现场重跑）**
+**a–e 五步审查（用户 2026-09-27 00:0x UTC 在本会话发起；a–e 全执行，无一步省略；主审=本实例，d 步语义二审由 3 个子代理分批逐对核，任务书附防幻觉条款 + 6 条本库真实失败案例）**
+
+| 步 | 结论 |
+|---|---|
+| a 门禁全量重跑 | 与完工报告一致；**新抓到 1 处**（`check_short_quotes` 报 1 条短引语"查无"——实为我把中文注释放进引语行导致工具误抓，引语本体逐字命中）＋**1 处工具假红**（`check_anchor` 全册空跑） |
+| b 逐章归属 | **换路径**（自建第二套实现，比写作期的 `check_chapter_quotes` 多一个"他章亦见"维度）：304 条引语本章查无 0、**他章亦见 0**，零跨章搬句 |
+| c 结构 + 三方映射 | **换路径**（自建脚本，按**章号**映射而非文件名 stem——md 用空格、text 用下划线是 AGENTS 明文的两套约定）：三方映射零不一致；抓到 **H1 形态漂移 1 处**（ch38 多 `, Conclusion`） |
+| d 语义二审 | **98 条缺陷**（ch01–13 36 / ch14–26 33 / ch27–38 29），逐项回 `text/` 复验后**改 96 条** |
+| e 总览核对 | **金句 7 处说话人与情境错配**、节点五范围错、概述 2 处主体错配、ch38 总结层造假 |
+| 跨书污染 | **0 处**（`Thornfield` 在 *Lonely Mouth*、`Lowood/Brocklehurst/Bertha` 在 *books-that-saved-my-life* 的同书笔记、`Abbot` 在 Ligotti、`Rochester` 在 Demons and Diplomacy——同名全部另有出处） |
+| 修复后 | 全部门禁重跑=与基线一致，零自伤 |
+
+**d 步缺陷的类型分布（98 条，与本库历史规律完全一致）**
+
+| 类型 | 条数 | 代表 |
+|---|---|---|
+| **跨章断言** | 46 | ch33「她在第三十一章拒绝圣约翰、在第三十四章拒绝罗切斯特」——两处都错；ch34/ch35/ch36 连续把 ch34 的求婚错记到别章 |
+| 数字/事实 | 16 | ch22「走了五十英里」实为两天一百英里；ch20「笑声只有三处」实为六处；ch35「第四十章」**本书只有 38 章** |
+| 词表（词头非本章原形 / 例句不含词头 / 例句非逐字） | 24 | `harass`→`harassed`、`cudgel one's brains`→`Cudgel your brains`、ch18 删引号并句 |
+| 说话人/主体错配 | 8 | 金句㉘「简说罗切斯特并不比她更了解圣约翰」——**原话是 Rochester 在称颂上帝**（"He sees not as man sees"，He 指 God） |
+| 格式/损坏 | 4 | ch16「法 Fairfax 的描述」残留碎片；ch19 `⭐ 基础` 掉 `###`；ch26 三行 `entries.` 脚本残留；ch04 重复子项 |
+
+**根因（三条，可直接进坑字典）**
+
+1. **章号凭通行本记忆硬编码**——本 EPUB 分章与通行本不同（**ch27=Rochester 讲前妻、ch28=夜奔、ch32=乡村学校、ch33=暴雪身世、ch34=圣约翰求婚（无 Rochester）**）。98 条里 46 条属此类。
+2. **"全书唯一/第一次"类断言不可核**——ch05「全书只有这一处作者直接对读者说话」实为 24 章含 `reader` 直呼。
+3. **删节本专有**——ch07/ch08 连提三处"第十五章海伦被剪金发"，**全书没有剪金发场景**（Helen 于 ch09 末已死）。
+
+**⚠️ 审查方自纠（本轮最有价值的一条）**：d 步我"修缺陷"时**照抄子代理报告里的英文写进分析层、未回原文核**，自己新造 6 处伪造引语（`He is more myself than I am`／`You have no soul, pet`／`Mr. Eyre of Funchal, Madeira`／`Consider that eye…resolute course`／`besides ourselves`／`to talk to, and with, a husband`），由 `sweep_analysis_inline` 的 🟠 档抓出。**这证明：修缺陷时引入的新英文同样要过门禁，"已修"不等于"已对"**（AGENTS「验收『已修』要验它被修的那一刻」）。commit `6bdc61ed`。
+
+**审查后最终门禁（全部现场重跑）**
 ```
-verify_corpus        PASS  38/38（目录页 Chapter I–XXXVIII）
-verify_quotes        329/329 (100%)   完全干净文件 39/39
-verify_quotes --full 329/329          P0-6 整串取证 0
-check_overview_full  整串命中 60 / 拼接 0 / 查无 0 · 章节标签 29 对 0 不符 · H1 语义 0 错配
-check_vocab          FAIL 0（1365 词条行）／WARN 61 全提示型
-check_entities       0 未知实体
-check_chapter_quotes 38/38 章全 8/8 in chNN text
-corruption_scan      FAIL 0 ｜ audit_structure 缺陷 0 ｜ sweep_full 全书查无 0
+verify_corpus        PASS  38/38
+verify_quotes        328/328 (100%)   完全干净文件 39/39   --full 整串取证 0
+check_overview_full  整串命中 59 / 拼接 0 / 查无 0 · 章节标签 29 对 0 不符 · C 跨章 0 · H1 语义 0 错配
+check_vocab          FAIL 0（1366 词条行）／WARN 55 全提示型
+check_entities       0 ｜ check_short_quotes 查无 0 ｜ corruption_scan FAIL 0
+audit_structure      缺陷 0 ｜ check_anchor 凭空造词 0 / 松散 0（304 块 304 词行，真在查）
 audit_numbers        ❌0 / ⚠️0 / ❓86 / ⚪23
+sweep_full           本章命中 295 / 跨章 0 / 全书查无 0
+sweep_analysis_inline 逐字 1603 / ❌ 零命中 0（余 1 条 🟠 为 EPUB 原文自带错字 `ervant`，假红型）
+自建 b 步复核        304 条引语 本章查无 0 · 他章亦见 0
 ```
 
-**给后续实例的两条硬经验（本轮实测，细节见 daily）**
+**给后续实例的三条硬经验**
 
-1. **本 EPUB 是删节本，凭通行本记忆写跨章断言会成片造假**。第二十八章开篇直接 `Two days are passed`，**"阁楼夜"不在本版**（`tired, tired` / `Jane, Jane, rest easy` / `the vigils` 六个特征串 epub 全文 0 命中）；`Woman, and you have cursed yourself` / `I will be your wife` / `Hate and untruthfulness` 等通行名句**全部查无**。已落 `edition-notes.txt`。
+1. **本 EPUB 是删节本，凭通行本记忆写跨章断言会成片造假**。第二十八章开篇直接 `Two days are passed`，**"阁楼夜"不在本版**（六个特征串 epub 全文 0 命中）；`Woman, and you have cursed yourself` / `I will be your wife` / `Hate and untruthfulness` 等通行名句**全部查无**。已落 `edition-notes.txt`。**写任何"第 X 章"之前先 `ls text/` 看本章标题。**
 2. **尾注编号焊在词尾**（`poltroon+x` / `Apollyon+124` / `castaway+103`）——epub 侧多一字符，`verify_quotes` 必 MISS 而 `text/` 侧干净，两套门禁会打架。**别按词表避让**（名单混着 it/you/me/on，会大量误伤），直接对 epub 展平整串实测；清单在 `endnote-markers.txt`（616 条）。
+3. **跨书同名不可怕，但同书笔记要当心**：`books-that-saved-my-life/ch29` 里有另一篇《Jane Eyre》读书笔记（含 Lowood/Brocklehurst/Bertha）。我全程只对本书 `library/*.epub` 与 `text/` 取证，未读他书。
 
-**工具：`audit_numbers.py` 已修（回应 03:20 那条与 22:21 我那条）**。line 229 把已含 `+` 的 `NUMC` 又套 `(%s+)`，`51ae6378`（今天 17:22）起对**全库每本书**抛 `re.error`、退出码 1、**零输出**——那段时间所有 `audit_numbers ❌0` 都不是结果。已按 AGENTS「假红型必须先修工具」改成 `(%s)` 并回归三本书。**请在 17:22 之后重跑过的实例复核自己的 `audit_numbers` 数字**；它修好后首跑就抓出我四处真实计数错（ch08 `or` 三→四、ch32 `then` 三→四 / `nor` 三→二）。commit `714c3528`。
+**工具（本轮修两处，均为 P1 门禁的"假红型"）**
+- `audit_numbers.py:229`：`(%s+)` 套已含 `+` 的 `NUMC` → `re.error`、退出码 1、**零输出**，自 `51ae6378`（今天 17:22）起对**全库每本书**失效。已改 `(%s)`。**请在 17:22 之后跑过它的实例复核数字。** commit `714c3528`。
+- `check_anchor.py`：`RE_KW` 只认粗体 `**关键词**：`，而库内 **24 本**用无粗体的 `关键词：` → `n_qblocks` 要求"块内同时有引语与关键词行"，两者皆 0 → 触发空跑防护，**这 24 本的关键词锚定从未被真正检查过**。已改 `\**` 可选。Jane Eyre 实测由"0 块 0 词行"变为 **304 块 304 词行 / 凭空造词 0 / 松散 0**，粗体写法的书回归正常。commit `52c44a9e`。
 
-**并行产出复核抓到 6 处真缺陷**（子代理自检全绿之后）：ch09「第八章跪在红房子门口」（ch08 无此场景）· ch01「第十六章 St. John」（ch16 他还没出场）· ch32「罗沃德的红房子」（在盖茨海德）· ch06 跨章号 · ch08 `Slatern` 拼写 · ch09 译名两派。**工具抓不到的只有这两类：编造的章节归属、编造的数字**——都必须回 `text/` grep。
+**同会话审查的已知局限（如实标注）**：本书的**写作与审查同为本实例**，d 步虽由子代理逐对读并附了反例与防幻觉条款，但仍存在**全书统一性的系统性误判**——最可能成簇漏网的是①「跨章断言」里指向极远章节的那些（本轮 46 条已全部回源重写，但只覆盖被点名的）；②「全书唯一/第一次」类最高级断言（子代理列为存疑、本人判为不可核而未改，全书约 20 余处）；③中文意译型回指（如"她与某人"式）未逐条人读。审查中我**自己也新造了 6 处伪造英文**，虽被门禁抓出并修复，但这恰好说明"审查方＝写作方"时，自纠能力本身就是门禁的一部分，而非可以省略的步骤。**建议下一轮由另一实例复核 ch01–ch13 的跨章断言与"唯一/第一次"类断言。**
 
 ---
 
