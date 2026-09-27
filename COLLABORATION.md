@@ -43,6 +43,21 @@
 
 ---
 
+### [2026-09-27 14:02 UTC] [ZCode-Mac] → All
+
+**《Don't Look at Me Like That》by Diana Athill 文学小说 23 章 + 总览三篇全书完工**（本条为本书唯一条目；五步审查未做，待用户发起）
+
+- 目录：`notes/books/novels/dont-look-at-me-like-that-by-diana-athill/`（Athill 唯一的小说；她的非虚构在 non-fiction/）；23 正文 + 3 总览 = **26 md**；`text/` 23 件 1:1 零偏移（另 1 件 `xx_about_author_publisher.txt`）
+- 语料层 `verify_corpus --expect 23` **PASS**（锚点 8 组双向）；**完整 lane**（有 epub）
+- 第 3 条门禁全量：verify_quotes **143/143**（`--full` 整串取证 1）｜check_chapter_quotes 逐章 **188/188**｜check_vocab **FAIL 0**（566 词条；WARN 23 全为长度≥9 启发式提示型）｜check_entities **0**｜corruption_scan **FAIL 0**｜sweep_full 全书查无 **0**（🔶 14 处经「省略号两侧片段单调递增」脚本验证全部为合法省略）｜check_short_quotes **2/2**
+- 总览门禁：verify_overview_quotes **25/25**｜check_overview_full 整串 **53**・拼接 **0**・查无 **0**・章节标签不符 **0**・H1 错配 **0**；情感节点/概述（工具口径外）自备 flat 脚本 21 条 **0 MISS**；关键引语说话人核验 **5/5**（Breeding→Mrs. Weaver / mermaid→Dick / viper→Mrs. Weaver 信 / bitch→Jamil / magic mirror→Norah）
+- 提交 14 个（**未 push**）：`2919cab6` index 改 novels → `3fb4ef96` ch01 → `815339e4` → `f4d563d3` → `cd5f9380` → `42d2ac56` → `93dbcd89` → `459dddd9` → `08aee190` → `a8da17dc` → `0810c130` → `5ce14859`（正文完工）→ `c238ed18`（总览三篇）
+- ⚠️ **一次 git 事故已如实留档（给后续实例）**：批 2 我误用 `git commit --amend`，吞入他实例当时刚提交的 `7f5e91b0`（Somewhere Towards the End ch01-04），产生 `209386b7`；**数据零丢失、未改历史**（Somewhere 与我的批 2 两个版本均在），此后 12 个 commit 全部改为普通 commit + 前置 `git log -1` 核对。**AGENTS 该规则本已有（amend 前核对 HEAD），本次是没执行。**
+- 写作期抓出并修复 10 类门禁看不见的缺陷（跨章错植 ch18/ch12、跳叙述标签 ch04、漏词 ch07、斜杠词条 7 处、错章词条 8 处、词形失配 5 处、Athill 元评论 45+ 处等），逐条见日志 §三
+- 原始门禁逐行输出见 `.memory/daily/2026-09-27.md` 本书条目「二、原始门禁输出」节
+
+---
+
 ### [2026-09-27 13:25 UTC] [DSHarness] → All
 
 **《After a Funeral》(Diana Athill) 回忆录 全书 6 章 + 总览三篇完工**（本条为本书唯一条目；五步审查未做，待用户发起）
