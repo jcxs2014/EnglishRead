@@ -54,8 +54,8 @@ modified: "2026-09-27"
 
 中文理解："哎，小姑娘，"屋里的声音应道，"她要是讨饭的就给她吧。猪可不想要它。"
 关键词：Well, lass, give it her if she’s a beggar, T’ pig doesn’t want it
-为什么这样写：这句施舍的理由不是慈悲而是一句关于猪的实话；土话里大量省略冠词和助动词（T’、doesn’t 之类）把语域标死，读者立刻听出这是下层劳动者说的话，而紧挨着的上一句已经用 cold、stiffened 把这碗粥的处境说完了。
-读者视角提示：全章第一次有人给她东西，条件是"猪不要"；这份施舍的粗糙恰好是简此刻唯一受得起的——她要的从来不是温柔，是一个不问她是谁的门槛。
+为什么这样写：这句施舍的理由不是慈悲而是一句关于猪的实话；土话里大量省略冠词和助动词（T’、doesn’t 之类）把语域标死，读者立刻听出这是下层劳动者说的话，而 cold 在前一句、stiffened 在后一句（"The girl emptied the stiffened mould into my hand"），正好把这碗粥的处境前后夹住。
+读者视角提示：全章第二次有人给她东西——前一次是农舍主人 "cut a thick slice from his loaf, and gave it to me"，无条件；这一次条件是"猪不要"；这份施舍的粗糙恰好是简此刻唯一受得起的——她要的从来不是温柔，是一个不问她是谁的门槛。
 
 > **原句 7:** "“All men must die,” said a voice, quite close at hand; “but all are not condemned to meet a lingering and premature doom, such as yours would be if you perished here of want.”"
 

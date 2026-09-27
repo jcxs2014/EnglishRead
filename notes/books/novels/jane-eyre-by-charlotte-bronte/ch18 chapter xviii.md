@@ -7,9 +7,9 @@ modified: "2026-09-27"
 
 ## 本章导航
 
-- **一句话概括**：索恩菲尔德十天里第一次人声鼎沸：晚会上演猜字画谜，罗切斯特与英格拉姆小姐先扮新婚夫妇、再扮一对戴着镣铐的苦囚，简一眼认出他腕上的链子；随后她在心里把英格拉姆小姐从"情敌"降格为"配不上他的人"，换来一份更细的疼；罗切斯特外出一天，客厅死气沉沉，傍晚却来了一位从西印度群岛来的梅森先生。
+- **一句话概括**：索恩菲尔德开春以来第一次人声鼎沸：晚会上演猜字画谜，罗切斯特与英格拉姆小姐先扮新婚夫妇、再扮一对戴着镣铐的苦囚，简一眼认出他腕上的链子；随后她在心里把英格拉姆小姐从"情敌"降格为"配不上他的人"，换来一份更细的疼；罗切斯特外出一天，客厅死气沉沉，傍晚却来了一位从西印度群岛来的梅森先生。
 - **情感弧线位置**：**低谷**——不是爆发式的低，是持续加压的钝痛；上一章刚当众承认爱，这一章立刻把这份爱放回现实里称重：它不能换一句话、一个眼神。
-- **母题与互文**：**看与被看**是本章的写作机关（镜子被擦得发亮、客人轮流评脸、简逐一读五官后面的性格），它与上一章简"验收"布兰奇·英格拉姆的那三问是同一套手艺；**帘与幕**（猜字画谜的幕布一升一降，谁站在帘后就在场）把全场的虚与实切成两层；**食物**在本章彻底退场，人物只在"没有饭吃"的忙乱里被提到。互文：镣铐与锁链在本章只是一出戏，而简在上一章刚记下过三楼那扇"近来一直被锁着"的门。
+- **母题与互文**：**看与被看**是本章的写作机关（镜子被擦得发亮、客人轮流评脸、简逐一读五官后面的性格），它与上一章简"验收"布兰奇·英格拉姆的那三问是同一套手艺；**帘与幕**（猜字画谜的幕布一升一降，谁站在帘后就在场）把全场的虚与实切成两层；**食物**在本章只剩两处：换衣准备"the hour to dress for dinner"，以及晚宴上的 vinaigrettes——本文件词表里收的正是后者。互文：镣铐与锁链在本章只是一出戏，而简在上一章刚记下过三楼那扇"近来一直被锁着"的门。
 - **人物弧线**：简完成了从"嫉妒"到"诊断"的转变——她不再拿自己的脸去和英格拉姆小姐比，而开始判断对方"配不上"他；这是她第一次获得对罗切斯特的**评判权**，也是第一次发现这种评判权有多折磨人。罗切斯特则被写成全场的轴心与谜：他一边与英格拉姆小姐低声耳语，一边不动声色地看她在众人面前一次又一次失手。
 - **叙事手法**：**哑剧式的间接描写**（三幕画谜全由"幕布—人物—猜词"三层搭出，人的真实心思全靠动作外泄）；**心理解剖式的长段独白**（本章中段几段几乎没有情节，叙事速度骤降，全部靠简的分析推进）；**速写群像**（从梅森的脸写到两位贵妇，用的都是"否定式"落笔——先给好处，再拆掉）。
 
@@ -23,7 +23,7 @@ modified: "2026-09-27"
 
 为什么这样写：一个 how different 引导的陈述式感叹句（写成陈述句而不是问句），把整座宅子的气氛变化压成一次对照；三个形容词从环境到节奏再到人排成三层，恰好就是新客人进场所要打乱的那三样东西。
 
-读者视角提示：开场先宣布"冬天结束了"，紧接着简的位置提醒读者——热闹是别人的；本书从第九章到第十六章的漫长铺垫，在这里第一次被一笔勾销。
+读者视角提示：开场先宣布"这些是欢乐的日子"，紧接着才是"the genial spring weather"把众人赶出屋子，紧接着简的位置提醒读者——热闹是别人的；本书从第九章到第十六章的漫长铺垫，在这里第一次被一笔勾销。
 
 > **原句 2:** "“No,” I heard her say; “she looks too stupid for any game of the sort.”"
 
@@ -33,7 +33,7 @@ modified: "2026-09-27"
 
 为什么这样写：一句否定里塞了两重判断：先是否定她参加，再是断定她"笨"；那个模糊的指代让话显得含混而刻薄——她没说这游戏配不上她，她说的是她那种笨配不上这游戏。
 
-读者视角提示：英格拉姆家的做派在本章第一次出手，出手的却不是母亲本人，而是一个被宠坏的孩子；简连当场反驳的资格都没有，她只是"听到"。
+读者视角提示：英格拉姆家的做派在本章第一次出手，出手的**就是母亲本人**（原话是 "Lady Ingram instantly negatived the notion"）；简连当场反驳的资格都没有，她只是"听到"。
 
 > **原句 3:** "I knew Mr. Rochester; though the begrimed face, the disordered dress (his coat hanging loose from one arm, as if it had been almost torn from his back in a scuffle), the desperate and scowling countenance, the rough, bristling hair, might well have disguised him. As he moved, a chain clanked; to his wrists were attached fetters."
 
@@ -144,7 +144,7 @@ modified: "2026-09-27"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| footman | 穿制服的男仆 | But I cannot persuade her to go away, my lady, said the footman; nor can any of the servants; |
+| footman | 穿制服的男仆 | But I cannot persuade her to go away, my lady,” said the footman; “nor can any of the servants; |
 | basin | 大盆、水缸 | Seated on the carpet, by the side of this basin, was seen Mr. Rochester, costumed in shawls, with a turban on his head. |
 | turban | 头巾、缠头布 | Seated on the carpet, by the side of this basin, was seen Mr. Rochester, costumed in shawls, with a turban on his head. |
 | cloak | 斗篷、大衣 | Amy Eshton, draped in Mr. Rochester’s cloak, and holding a book in her hand |

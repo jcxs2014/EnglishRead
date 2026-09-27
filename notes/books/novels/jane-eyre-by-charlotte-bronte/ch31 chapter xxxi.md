@@ -27,7 +27,7 @@ modified: "2026-09-27"
 中文理解：我不能忘记，这些衣着粗陋的小农女，她的血肉与出身最显赫的世家子弟一样好；天赋的卓越、修养、聪慧、善意这些苗子，长在她们心里的可能，和长在那些出身最好的人心里一样大。
 关键词：I must not forget, of flesh and blood as good as the scions of gentlest genealogy, the germs of native excellence, refinement, intelligence, kind feeling, are as likely to exist in their hearts
 为什么这样写：简先给自己下一道**指令式的命令**（不能忘记），理由却是一道**比较级**：一样好的血肉、一样大的可能；而她没有说"她们和我一样好"（那是自尊），说的是"她们和最好的人一样好"（那是判断）——她在句子里把自己摘了出去。
-读者视角提示：这是全书最容易被读成说教的一段；但注意它出现在她自己承认 degraded 之后——先承认自己看低了这门工作，再去替学生说话，这个顺序不能颠倒。
+读者视角提示：这是全书最容易被读成说教的一段；但注意它出现在她自己承认 degraded 之前——先替学生说话，再承认"I felt degraded"，这个顺序不能颠倒。
 
 > **原句 3:** "Not to deceive myself, I must reply—No. I felt desolate to a degree. I felt—yes, idiot that I am—I felt degraded."
 

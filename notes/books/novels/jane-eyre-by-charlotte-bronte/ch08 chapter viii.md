@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：高脚凳罚站结束，简伏在地上痛哭，海伦送来咖啡面包、坦普尔把她叫去小屋让她申辩；一周后劳埃德的回信替她洗清罪名，卡特查德小姐却把"Slattern"（邋遢鬼）贴在海伦额上，被简撕下来扔进火里。
 - **情感弧线位置**：**谷底之后的第一段真正回升**——外部平反（被公开宣布无罪）与内部承认（"我不曾后悔"）在同一章完成；但作者立刻补一笔"unresentful"（不记恨），让这份回升仍旧带着代价。
-- **母题与互文**：**食物**第三次出手并第一次成为"友谊的载体"（海伦的咖啡和面包、坦普尔的抽屉里那块籽料蛋糕）；**额头**在本章被贴上"Slattern"字条，与前一章布罗克赫斯特剪头、第四章"heart of stone"同属"身体被当作罪名"的线索。互文：简烧掉字条的动作，与第十五章海伦被剪金发时简的反应是同一条线的起点。
+- **母题与互文**：**食物**第三次出手并第一次成为"友谊的载体"（海伦的咖啡和面包、坦普尔的抽屉里那块籽料蛋糕）；**额头**在本章被贴上"Slattern"字条，与前一章布罗克赫斯特剪头、第四章"heart of stone"同属"身体被当作罪名"的线索。互文：简烧掉字条的动作，与第五章罗沃德剪掉朱莉娅·塞弗恩的天然卷时简的反应，是同一条线的起点。
 - **人物弧线**：简在本章学会了**克制叙述**——她想起海伦关于"不要沉溺于怨恨"的警告，于是"infused into the narrative far less of gall and wormwood than ordinary"（少掺了那么多苦胆与艾草）；"Thus restrained and simplified, it sounded more credible"（因此克制之后反而更可信）是全书写作观第一次被明说。
 - **叙事手法**：**三人嵌套的对话结构**（简—海伦、简—坦普尔、坦普尔—海伦）在本章依次展开，第三段最特别：简被降格成旁听者，作者借她的"惊奇"来写海伦的口才（"Has a girl of fourteen a heart large enough…?"），用一句问句代替整段赞美。
 
@@ -27,7 +27,7 @@ modified: "2026-09-27"
 中文理解："所有人吗，简？可听说过你被那样说的人只有八十个，而世上有好几亿人呢。"
 关键词：there are only eighty people who have heard you called so, the world contains hundreds of millions
 为什么这样写：海伦不否认、不安慰，直接把"全世界"这个词放大到几亿，再用八十去对撞；"Why"和问号把一个价值判断改写成一次数量比较，简的绝望因此失去了它的算术基础。
-读者视角提示：这是全书"重新定标"（re-scaling）手法的第一次示范——把一个被夸大的小事实放回真实比例里；海伦此后每次都这么做，第三十六章她评罗切斯特时用的还是这一招。
+读者视角提示：这是全书"重新定标"（re-scaling）手法的第一次示范——把一个被夸大的小事实放回真实比例里；海伦此后每次都这么做；简把这一招一直带到后面的章节里。
 
 > **原句 3:** "“If all the world hated you, and believed you wicked, while your own conscience approved you, and absolved you from guilt, you would not be without friends.”"
 
@@ -48,7 +48,7 @@ modified: "2026-09-27"
 中文理解："好了，简，你知道——或者至少我告诉你：一个人被指控时，总被允许为自己辩护。你被指控的是说谎；你尽力为自己辩护吧。凡是你的记忆认为是真话的就说；但不要添加任何东西，也不要夸大任何东西。"
 关键词：when a criminal is accused, he is always allowed to speak in his own defence, You have been charged with falsehood, Say whatever your memory suggests as true, but add nothing and exaggerate nothing
 为什么这样写：坦普尔把校园罚站直接改写成**刑事审判程序**（被指控者有权自辩），一句话把简的身份从"学生"抬到"被告"；结尾两条禁令（add nothing and exaggerate nothing）既是道德要求，也是写作要求——它规定了本书此后每一次回忆的分寸。
-读者视角提示：全书最重要的一条"元规则"就藏在这句台词里：只说记忆认为是真的，不加、不夸；简此后的自述一直守着这条，第三十四章她对罗切斯特承认自己"不像别人那样能轻易饶恕"时也没有破例。
+读者视角提示：全书最重要的一条"元规则"就藏在这句台词里：只说记忆认为是真的，不加、不夸；简此后的自述一直守着这条：第三十七章她在费尔恩登向罗切斯特复述往事时，一条也没有破例。
 
 > **原句 6:** "Exhausted by emotion, my language was more subdued than it generally was when it developed that sad theme; and mindful of Helen’s warnings against the indulgence of resentment, I infused into the narrative far less of gall and wormwood than ordinary. Thus restrained and simplified, it sounded more credible; I felt as I went on that Miss Temple fully believed me."
 
@@ -62,7 +62,7 @@ modified: "2026-09-27"
 中文理解：随后她的灵魂坐到了她的唇上，话语流淌出来，我说不清是从哪里来的。一个十四岁的女孩，是否有一颗足够大、足够有力的心，容得下那股纯净、饱满、热烈的雄辩之泉？
 关键词：her soul sat on her lips, language flowed, from what source I cannot tell, Has a girl of fourteen a heart large enough, to hold the swelling spring of pure, full, fervid eloquence
 为什么这样写：整段唯一的评价被写成**一个反问句**，而反问里连用两个形容词（large enough, vigorous enough）替海伦的心争辩；四个词并列的定语（pure, full, fervid eloquence）把"雄辩"拆成纯、满、热三样质感。
-读者视角提示：简在场却只能看着——作者把"惊艳"处理成一次**失去发言权**；这正是第十五章海伦临死时简会再次经历的场面，只是那次简终于有话要说了。
+读者视角提示：简在场却只能看着——作者把"惊艳"处理成一次**失去发言权**；这正是海伦临死那一夜简会再次经历的场面，只是那次简终于有话要说了。
 
 > **原句 8:** "The moment Miss Scatcherd withdrew after afternoon school, I ran to Helen, tore it off, and thrust it into the fire; the fury of which she was incapable had been burning in my soul all day, and tears, hot and large, had continually been scalding my cheek"
 
@@ -97,11 +97,11 @@ modified: "2026-09-27"
 | prostrate | 伏在地的、匍匐的 | soon, so overwhelming was the grief that seized me, I sunk prostrate with my face to the ground. |
 | approbation | 认可、赞许 | Miss Temple had smiled approbation; she had promised to teach me drawing, and to let me learn French |
 | molested | 打扰、骚扰（此处：没人来惹她） | treated as an equal by those of my own age, and not molested by any |
-| absolve | 免罪、赦免 | while your own conscience approved you, and absolved you from guilt, you would not be without friends. |
+| absolved | 免罪、赦免 | while your own conscience approved you, and absolved you from guilt, you would not be without friends. |
 | "sincere" | 真诚的（此处：海伦从她的眼睛看出的真诚） | for I read a sincere nature in your ardent eyes and on your clear front |
 | ardent | 热烈的、炽盛的（此处：她的眼睛） | for I read a sincere nature in your ardent eyes and on your clear front |
 | pasteboard | 硬纸板 | Miss Scatcherd wrote in conspicuous characters on a piece of pasteboard the word “Slattern,” |
-| suppress | 压下、抑制 | these feelings will ere long appear so much the more evidently for their temporary suppression. |
+| suppression | 压下、抑制 | these feelings will ere long appear so much the more evidently for their temporary suppression. |
 
 ### ⭐ 基础
 
@@ -109,7 +109,7 @@ modified: "2026-09-27"
 |---|---|---|
 | spell | 咒语、魔力（此处：撑住她的力量） | The spell by which I had been so far supported began to dissolve; reaction took place |
 | refectory | 食堂 | school was dismissed, and all were gone into the refectory to tea. |
-| hearth | 壁炉边 | she sat down on the ground near me, embraced her knees with her arms, and rested her head upon them; in that attitude she remained silent as an Indian. |
+| hearth | 壁炉边 | Miss Temple told Helen Burns to be seated in a low arm-chair on one side of the hearth |
 | toast | 烤面包片 | How fragrant was the steam of the beverage, and the scent of the toast! |
 | seed-cake | 籽料蛋糕 | unlocked a drawer, and taking from it a parcel wrapped in paper, disclosed presently to our eyes a good-sized seed-cake. |
 | ambrosia | （神话中的）神馔 | We feasted that evening as on nectar and ambrosia |

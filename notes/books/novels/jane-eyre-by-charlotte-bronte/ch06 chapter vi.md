@@ -20,7 +20,7 @@ modified: "2026-09-27"
 中文理解：早饭时间终于到了，今天早上这锅麦片粥没有烧焦；质量还能吃，分量却少。我的那份显得多么小啊！我希望它是双份的。
 关键词：the porridge was not burned, the quality was eatable, the quantity small, How small my portion seemed, I wished it had been double
 为什么这样写：一个分号把好消息与坏消息切成两半，再用 "the quality … the quantity" 的对仗各管一件事；感叹句与虚拟语气（I wished it had been double）把抱怨从"这饭难吃"抬到"我还嫌不够"，饿因此有了声音。
-读者视角提示：这一天的饭是全书第一次"不难吃却依然不够"——饥饿不再来自质量，而来自数量；这条线索会在第十五章 Helen 带食物来时给出反面答案。
+读者视角提示：这一天的饭是全书第一次"不难吃却依然不够"——饥饿不再来自质量，而来自数量；这条线索会在第三章坦普尔打开抽屉取出那块籽料蛋糕时给出反面答案。
 
 > **原句 2:** "This ominous tool she presented to Miss Scatcherd with a respectful courtesy; then she quietly, and without being told, unloosed her pinafore, and the teacher instantly and sharply inflicted on her neck a dozen strokes with the bunch of twigs."
 
@@ -48,7 +48,7 @@ modified: "2026-09-27"
 中文理解："是的，是被动的；我不出什么力，我跟着性子走。这样的好，是没有功劳的。"
 关键词：in a passive way, I make no effort, I follow as inclination guides me, There is no merit in such goodness
 为什么这样写：简夸她与坦普尔在一起时的乖巧（"Well, then, with Miss Temple you are good?"），海伦当场把这句夸奖作废——"passive"（被动的）与 "no merit"（没有功劳）连用，把自己从道德账本上划掉。
-读者视角提示：海伦这种"不领功"是全书最容易被误读成软弱的地方；她真正在意的是另一件事——后文她说自己"没有方法"（I have no method），指的是不能把好贯彻到底，而不是不知道什么是好。
+读者视角提示：海伦这种"不领功"是全书最容易被误读成软弱的地方；她真正在意的是另一件事——本章更早处她说自己"没有方法"（I have no method），指的是不能把好贯彻到底，而不是不知道什么是好。
 
 > **原句 6:** "“It is not violence that best overcomes hate—nor vengeance that most certainly heals injury.”"
 
@@ -69,7 +69,7 @@ modified: "2026-09-27"
 中文理解：而且，凭着这套信条，我能把罪犯和他的罪行分得清清楚楚；我能真诚地宽恕前者，同时痛恨后者；凭着这套信条，复仇从不搅扰我的心，堕落从不太深地恶心我，不义从不把我压得太低。我活在平静里，望着终点。
 关键词：distinguish between the criminal and his crime, forgive the first while I abhor the last, revenge never worries my heart, injustice never crushes me too low, I live in calm, looking to the end
 为什么这样写：三个 "never" 构成一组否定排比，把"平安"写成三件不发生的事；"the criminal and his crime"（人／事）这一对区分是海伦思想里最锋利也最容易被读者记住的部分——她不是原谅，她是把账本从"人"上挪到"事"上。
-读者视角提示：全书二十多年后，简在第三十四章对伯莎·梅森说出"我不是你丈夫的妻子，你也不是我丈夫"时，用的是同一个区分；海伦在这里给的不是安慰，是一把刀。
+读者视角提示：全书二十多年后，简在第二十三章对罗切斯特说"I am no bird; and no net ensnares me"时，用的仍是同一个区分；海伦在这里给的不是安慰，是一把刀。
 
 ## 本章词汇
 

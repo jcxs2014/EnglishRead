@@ -79,7 +79,7 @@ modified: "2026-09-27"
 |---|---|---|
 | riven | 劈裂的、撕裂的 | It stood up, black and riven; the trunk, split down the centre, gaped ghastly. |
 | unsundered | 未被分开的 | The cloven halves were not broken from each other, for the firm base and strong roots kept them unsundered below, though community of vitality was destroyed |
-| appertain | （动词）属于、归某人所有 | for not to me appertained that suit of wedding raiment—the pearl-colored robe, the vapory veil |
+| appertained | （动词）属于、归某人所有 | for not to me appertained that suit of wedding raiment—the pearl-colored robe, the vapory veil |
 | portmanteau | （此处）挂衣服的立式衣橱 | pendent from the usurped portmanteau. |
 | disburden | 卸下（心里的重负）、使安心 | I waited now his return, eager to disburden my mind, and to seek of him the solution of the enigma that perplexed me. |
 | enigma | 谜、疑案 | I waited now his return, eager to disburden my mind, and to seek of him the solution of the enigma that perplexed me. |
@@ -94,15 +94,15 @@ modified: "2026-09-27"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| usurp | 侵占、占据（别人的东西） | pendent from the usurped portmanteau. |
+| usurped | 侵占、占据（别人的东西） | pendent from the usurped portmanteau. |
 | vapory | （原文拼法=vaporous）薄纱似的、朦胧的 | the pearl-colored robe, the vapory veil, pendent from the usurped portmanteau. |
 | raiment | 衣裳、衣服 | for not to me appertained that suit of wedding raiment—the pearl-colored robe, the vapory veil |
-| splinter | 碎片、裂片 | “You did right to hold fast to each other,” I said, as if the monster splinters were living things and could hear me. |
+| splinters | 碎片、裂片 | “You did right to hold fast to each other,” I said, as if the monster splinters were living things and could hear me. |
 | scathed | 被灼伤的、严重受损的 | I think, scathed as you look, and charred and scorched, there must be a little sense of life in you yet, rising out of that adhesion at the faithful, honest roots. |
-| gape | （裂口）大张着、豁着 | the trunk, split down the centre, gaped ghastly. |
+| gaped | （裂口）大张着、豁着 | the trunk, split down the centre, gaped ghastly. |
 | gaunt | 苍白的、消瘦得脱形的 | Sir, it removed my veil from its gaunt head, rent it in two parts, and, flinging both on the floor, trampled on them. |
 | rent | 撕破、撕裂（动词） | Sir, it removed my veil from its gaunt head, rent it in two parts, and, flinging both on the floor, trampled on them. |
-| trample | 践踏 | Sir, it removed my veil from its gaunt head, rent it in two parts, and, flinging both on the floor, trampled on them. |
+| trampled | 践踏 | Sir, it removed my veil from its gaunt head, rent it in two parts, and, flinging both on the floor, trampled on them. |
 | discolored | （原文拼法）变色失色的 | It was a discolored face—it was a savage face. |
 | bloodshot | （眼白）布满血丝的 | the brow furrowed; the black eyebrows widely raised over the bloodshot eyes. |
 | disquietude | 不安、心神不宁 | The disquietude of his air, the somewhat apprehensive impatience of his manner, surprised me; but I proceeded. |
@@ -124,7 +124,7 @@ modified: "2026-09-27"
 | time-piece | 座钟、计时钟 | A little time-piece in the room and the old clock in the hall simultaneously struck ten. |
 | brier-rose | 野蔷薇（多刺） | This is you, who have been as slippery as an eel this last month, and as thorny as a brier-rose? |
 | fold | （羊）圈、围栏 | you wandered out of the fold to seek your shepherd; did you, Jane? |
-| Shepherd | 牧人 | you wandered out of the fold to seek your shepherd; did you, Jane? |
+| shepherd | 牧人 | you wandered out of the fold to seek your shepherd; did you, Jane? |
 
 ## 一句话总结
 

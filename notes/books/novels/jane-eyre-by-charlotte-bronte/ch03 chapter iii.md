@@ -34,7 +34,7 @@ modified: "2026-09-27"
 中文理解：红房子这件事之后并没有落下严重或长久的身体病；它只是给了我的神经一记震动，其回响我到今天都感觉得到。是的，里德太太，有几回可怕的心里绞痛是我该记在你头上的。但我应当原谅你，因为你并不知道自己在做什么：当你撕扯我的心弦时，你以为自己只是在连根拔除我的坏习气。
 关键词：of which I feel the reverberation to this day, rending my heart-strings, uprooting my bad propensities, for you knew not what you did
 为什么这样写：段落分成"事实—清算—赦免"三步，最后一步用两个比喻并置完成反转：拔除坏习气用的是同一套园艺暴力（uprooting），于是"管教"和"虐害"在句法上成了同一件事。
-读者视角提示："for you knew not what you did"是简第一次用一句成形的宽恕句式包住自己的恨；这句话的语法结构她会在第三十二章对着伯莎的疯话再说一次。
+读者视角提示："for you knew not what you did"是简第一次用一句成形的宽恕句式包住自己的恨；这句话的语法结构她会在第二十七章听罗切斯特谈那位女士时，再被他用一次。
 
 > **原句 4:** "Yet, when this cherished volume was now placed in my hand—when I turned over its leaves, and sought in its marvellous pictures the charm I had, till now, never failed to find—all was eerie and dreary; the giants were gaunt goblins, the pigmies malevolent and fearful imps, Gulliver a most desolate wanderer in most dread and dangerous regions."
 
@@ -69,7 +69,7 @@ modified: "2026-09-27"
 中文理解：我想不出穷人怎么会有余力去善待别人；何况还要学他们那样说话，学他们那样举止，学他们那样没受过教育，学着长成盖茨海德村口那些有时在茅屋门口奶孩子、洗衣服的穷女人那样；不，我没有那份英雄气概，能拿门第作代价去换自由。
 关键词：had the means of being kind, to adopt their manners, nursing their children, not heroic enough, purchase liberty at the price of caste
 为什么这样写：一串不定式（to learn／to adopt／to be／to grow up）把"成为穷人"拆成四个具体动作，于是拒绝不再是清高而是算账；"purchase liberty at the price of caste"（以门第为价买自由）是全章最漂亮的一句，把童年的阶级恐惧压成一次商业比喻。
-读者视角提示：这是简第一次说出"阶级"这个词；二十多年后她在桑菲尔德的走廊上仍带着同一笔账——她要独立，但不肯以降低自己为代价。
+读者视角提示：这是简第一次说出"阶级"这个词；八九年后她在莫尔屋的课堂上仍带着同一笔账——她要独立，但不肯以降低自己为代价。
 
 ## 本章词汇
 

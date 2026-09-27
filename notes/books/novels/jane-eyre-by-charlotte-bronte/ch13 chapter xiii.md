@@ -62,7 +62,7 @@ modified: "2026-09-27"
 中文理解：第三幅画上，冰山的尖顶刺着一片极地般寒冷的天空；一队北极光把昏暗的长矛排着，竖在地平线上。
 关键词：The third showed the pinnacle of an iceberg piercing a polar wintry sky, a muster of northern lights reared their dim lances
 为什么这样写：一幅画只用两句就交代完：一句给物（冰山），一句给光（极光）；两个动词 piercing（刺穿）与 reared（竖起）都带尖角，把静止的画写出攻击性；"a muster of"（一队）这个词带军事味，而下面那句关于"没有形状的形状"的话，正是同一股力量的无处可落。
-读者视角提示：三幅画是简第一次主动把自己的内心端出来，而且交得毫无修饰；他嘴上只丢下一句"那些想法是精灵做的"，随即把她逐幅追问下去，一直问到 Latitude 与海面——他也在看，只是绝不夸。
+读者视角提示：三幅画是简第一次主动把自己的内心端出来，而且交得毫无修饰；他嘴上只丢下一句"那些想法是精灵做的"，随即把她逐幅追问下去，一直问到 Latmos 与海面——他也在看，只是绝不夸。
 
 > **原句 8:** "I believe there were some misunderstandings between them. Mr. Rowland Rochester was not quite just to Mr. Edward; and perhaps he prejudiced his father against him."
 

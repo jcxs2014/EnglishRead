@@ -8,7 +8,7 @@ modified: "2026-09-27"
 ## 本章导航
 - **一句话概括**：饭后，罗切斯特把简叫到壁炉边，用一整套"我不喜欢孩子的聒噪、也不喜欢老妇人的客套"把她逼着开口；简两次拒绝接话，逼得他当面收回主宰者的口气，随后两人各自交出旧账——他承认自己十八岁时比现在干净，最后用一段关于阿黛生母的往事收场。
 - **情感弧线位置**：**升温**——这一夜两人第一次真正"平着说话"，但作者在末尾立刻用另一段旧情事把温度按回去：话说到最亲近处，他讲的是另一个女人。
-- **母题与互文**：**额头**在本章被摊开——他掀起额发请她评判（"does my forehead not please you?"），与第八章简额上被贴的"Slattern"字条同属"身体被当作罪名的线索"：那一次贴的是她额上，这一次掀的是他自己的。**颜色**在本章是罗切斯特的自画像——他先把自己说成一只被捶打成"India-rubber"的球，只盼着还能变回 flesh，章末又承认自己曾被染成"草绿色"；同一片绿，在下一章会长出牙齿（"the green snake of jealousy"）。**"十八岁"**是他与她共同的时间刻度——他说自己十八岁时的记忆是"limpid, salubrious"，她只追问一句"你十八岁时的记忆是什么样"。
+- **母题与互文**：**额头**在本章被摊开——他掀起额发请她评判（"does my forehead not please you?"），与第八章那张贴在海伦·伯恩斯额上、又被简扯下来烧掉的"Slattern"字条同属"身体被当作罪名的线索"：那一次被动的是她，这一次掀的是他自己。**颜色**在本章是罗切斯特的自画像——他先把自己说成一只被捶打成"India-rubber"的球，只盼着还能变回 flesh，章末又承认自己曾被染成"草绿色"；同一片绿，在下一章会长出牙齿（"the green snake of jealousy"）。**"十八岁"**是他与她共同的时间刻度——他说自己十八岁时的记忆是"limpid, salubrious"，她只追问一句"你十八岁时的记忆是什么样"。
 - **人物弧线**：简在本章第一次**赢下话轮**——一句"No, sir."让一个习惯发号施令的人一连两次开口催她说话，而她两次都不接；罗切斯特则第一次在自己的句子里自我更正（that is (correcting himself)）。
 - **叙事手法**：单场景长对白 + 舞台化布景（火光、紫帘、枝形吊灯），中间插入两段纯描写（他的饭后心情、他的身体），把判断权留给读者；他把简比作隔着一道密笼栅才看得见的鸟——"the glance of a curious sort of bird through the close-set bars of the cage"。
 
@@ -16,7 +16,7 @@ modified: "2026-09-27"
 
 > **原句 1:** "There was a smile on his lips, and his eyes sparkled, whether with wine or not, I am not sure, but I think it very probable. He was, in short, in his after-dinner mood—more expanded and genial, and also more self-indulgent, than the frigid and rigid temper of the morning"
 
-中文理解：他唇上带着笑，眼睛发亮——这是不是因为酒，我说不准，不过我很认为这正是酒的作用。总之他正处在饭后那种心情里：比早晨那种冷硬僵硬的脾气更舒展、更和气，也更放纵自己。
+中文理解：他唇上带着笑，眼睛发亮——这是不是因为酒，我说不准，不过我很**认为**这正是酒的作用。总之他正处在饭后那种心情里：比早晨那种冷硬僵硬的脾气更舒展、更和气，也更放纵自己。
 关键词：There was a smile on his lips, and his eyes sparkled, whether with wine or not, I am not sure, but I think it very probable, He was, in short, in his after-dinner mood, more expanded and genial, and also more self-indulgent, than the frigid and rigid temper of the morning
 为什么这样写：简不肯把他的变化算到酒头上，却用"我敢说很可能是"留了半步——观察与克制一起出现，作者于是把"她已经会看人了"这件事交给读者自己判断；after-dinner mood 这个词更有用，它把"一个人有两副脾气"这件通常看不见的事，变成了一件可以命名的状态。
 读者视角提示：全章的亲近都从"他今晚不一样"开始，而简的写法提醒我们：这份亲近建立在**她看得见他变**之上，不是建立在他不再变之上。

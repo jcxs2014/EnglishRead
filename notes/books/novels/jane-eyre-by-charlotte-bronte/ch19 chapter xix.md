@@ -7,9 +7,9 @@ modified: "2026-09-27"
 
 ## 本章导航
 
-- **一句话概括**：图书室里的"吉卜赛老妇"其实是罗切斯特本人；他一面算命一面把简的处境念得清清楚楚，还顺手抛出"西印度群岛来的梅森先生"这几个字，当场脸色惨白、几乎站不住；简随即被问了一串"如果他们都唾弃我，你还留不留"的问题，一句一句答完，回房睡下。
+- **一句话概括**：图书室里的"吉卜赛老妇"其实是罗切斯特本人；他一面算命一面把简的处境念得清清楚楚；"His name is Mason, sir; and he comes from the West Indies"这几字是**简**自己说破的，他当场脸色惨白、几乎站不住；简随即被问了一串"如果他们都唾弃我，你还留不留"的问题，一句一句答完，回房睡下。
 - **情感弧线位置**：**转折**——危险第一次有了人名、有了外地口音、有一张能把罗切斯特吓倒的脸；此前所有的痛都是内部的（看不见他的目光、够不到他的位置），本章的痛忽然来自门外。
-- **母题与互文**：**火**在本章一身兼两职（火被搅动之后照出两张脸，而照不到的那张才是关键）；**眼睛**被女巫逐条读过去（"The eye is favorable"），与她整晚躲在窗帘后、一次也不肯被看见的目光是同一条线；**声音**——"her feigned voice"——是本书第一次靠**声音**而不是脸来指认一个人。互文：女巫念的那段"额头宣言"句句都是简自己的话，而书中别处再没有出现过"sell my soul"这几个字；这不是套话，是有人在照着她念。
+- **母题与互文**：**火**在本章一身兼两职（火被搅动之后照出两张脸，而照不到的那张才是关键）；**眼睛**被女巫逐条读过去（"The eye is favorable"），与第一章她隔着红房子的百叶缝、一次也不肯被看见的目光是同一条线；**声音**——"her feigned voice"——是本书第一次靠**声音**而不是脸来指认一个人。互文：女巫念的那段"额头宣言"句句都是简自己的话，而书中别处再没有出现过"sell my soul"这几个字；这不是套话，是有人在照着她念。
 - **人物弧线**：简第一次以**提问者**的姿态面对罗切斯特：一句"听者越急切，说话者的舌头越快"把他的设局拆掉一半，另一半她自己按住了（"我到这里是来问命，不是来告解"）。罗切斯特则第一次在她面前露出惊慌，主动讨她的肩膀。
 - **叙事手法**：**全章对话体**推进（除开场与收尾，几乎每一节都是问答）；**逐层揭底**（老妇的每一条判断都被简的生活细节反证一次，最后由"脱下红斗篷"收束）；**以体貌代替心理**（罗切斯特的震动全部写在脸色、手腕上的握力和声音里，一个心理动词都没有）。
 
@@ -79,7 +79,7 @@ modified: "2026-09-27"
 
 中文理解："梅森！——西印度群岛！"他说，那口吻就像人们想象中一台会说话的自动机器在报出它仅有的几句话；"梅森！西印度群岛！"他又重复了一遍；这几个字他来回念了三遍，每一遍之间的间隙里，他的脸白得像灰烬：他看上去几乎不知道自己在做什么。
 
-关键词：Mason!—the West Indies!, in the tone one might fancy a speaking automaton to enounce its single words, he reiterated, he went over the syllables three times, growing whiter than ashes, he hardly seemed to know what he was doing
+关键词：Mason!—the West Indies!, in the tone one might fancy a speaking automaton to enounce its single words, he reiterated, he went over the syllables three times, growing, in the intervals of speaking, whiter than ashes, he hardly seemed to know what he was doing
 
 为什么这样写：先用**机器**写声音——会说话的自动机器只能吐出预先装好的几句话；接着把人从这句话里整个抽掉，只剩音节在原地打转；"白得像灰烬"是火退下去之后的颜色，本章的火在这里熄成了灰。
 
@@ -129,7 +129,7 @@ modified: "2026-09-27"
 | sibyl | 女预言者 | and the sibyl—if sibyl she were—was seated snugly enough in an easy-chair at the chimney-corner. |
 | chimney-corner | 壁炉角落 | the sibyl—if sibyl she were—was seated snugly enough in an easy-chair at the chimney-corner. |
 
-⭐ 基础
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

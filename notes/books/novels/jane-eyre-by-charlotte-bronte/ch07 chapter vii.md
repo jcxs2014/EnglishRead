@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：简在罗沃德熬过了一冬的饥饿与寒冷，布罗克赫斯特先生（Mr. Brocklehurst）终于来了，先当众训斥坦普尔擅自发面包奶酪，再把所有人的头发勒令剪短，最后因一块滑落的石板把简架上高凳，在全校面前宣布她是个骗子。
 - **情感弧线位置**：**谷底的最深处**——比红房子更深，因为这次不是"关起来"而是"被展示"。私密的惩罚变成公开的审判，而执行者手里握着一份由里德太太提供的假档案；简这一次连喊冤的机会都没有，只能站着。
-- **母题与互文**：**头发**在本章成为第一次集体性的身体规训（自然卷的朱莉娅·塞弗恩被剪），这条线在第十五章 Helen 被剪去金发时以更狠的方式重演；**高脚凳**（pedestal of infamy）第一次出现，此后第三十三章简被 Rochester 称为"偶像"（idol）时是同一意象的反面。互文：简与 Helen 互换位置——Helen 被罚站、简被架高。
+- **母题与互文**：**头发**在本章成为第一次集体性的身体规训（自然卷的朱莉娅·塞弗恩被剪），这条线在第五章罗沃德剪掉朱莉娅·塞弗恩（Julia Severn）天然卷的头发时以另一种方式重演；**高脚凳**（pedestal of infamy）第一次出现，此后第二十四章罗切斯特说"我曾把塞莉娜当偶像"、第二十七章又说简是他找到的真爱时，是同一意象的两面。互文：简与 Helen 互换位置——Helen 被罚站、简被架高。
 - **人物弧线**：本章是简与海伦的**分野点**。坦普尔低声说"你不会受罚"，简的判断是"再一分钟，她就会因为我是伪君子而看不起我"——她宁肯站满半小时也要保住这份诚实；"I was no Helen Burns"（我不是海伦·伯恩斯）是全书人物弧线上最短也最硬的一次声明。
 - **叙事手法**：**视角倒置**是本章的关键——她被举到鼻子的高度，于是往下看见的是绸缎与羽饰而不是人脸（"a spread of shot orange and purple silk pelisses, and a cloud of silvery plumage"）；幕布式插入（布罗克赫斯特的家人盛装登场、只用一个转折句打脸）；场景以海伦的微笑与简的自我支撑收束，惩罚因此没有落进悲剧里。
 
@@ -54,15 +54,15 @@ modified: "2026-09-27"
 
 中文理解：我只来得及意识到，他们把我举到了布罗克赫斯特先生鼻子那么高；他离我不到一码，而在我下方铺开、起伏着的一片橙紫锦缎披肩和一团银色羽饰，正微微摇动。
 关键词：hoisted me up to the height of Mr. Brocklehurst’s nose, within a yard of me, a spread of shot orange and purple silk pelisses, a cloud of silvery plumage, extended and waved below me
-为什么这样写：高度被换算成身体的尺度（鼻子高、一码远），于是"被架高"不再抽象；视野被彻底翻转——她第一次从上方看这些大人，看见的是绸缎和羽毛，不是脸；一句全是布料名词（shot／silk／plisses／plumage）把人物全部消解成材质。
-读者视角提示：这一处是简全书最重要的一次**观看位置**变更；此后每次有人居高临下地评判她（第十四章的普尔、第三章的布罗克赫斯特、第七、八章的教会人士），她都会想起这个从上往下看的角度。
+为什么这样写：高度被换算成身体的尺度（鼻子高、一码远），于是"被架高"不再抽象；视野被彻底翻转——她第一次从上方看这些大人，看见的是绸缎和羽毛，不是脸；一句全是布料名词（shot／silk／pelisses／plumage）把人物全部消解成材质。
+读者视角提示：这一处是简全书最重要的一次**观看位置**变更；此后每次有人居高临下地评判她（第四章的布罗克赫斯特、第五章的学校晨检、第十四章的普尔），她都会想起这个从上往下看的角度。
 
 > **原句 7:** "What my sensations were, no language can describe; but just as they all rose, stifling my breath and constricting my throat, a girl came up and passed me; in passing, she lifted her eyes."
 
 中文理解：我的感受是什么，语言无法描述；但就在它们一齐涌上来、几乎让我喘不过气、卡住喉咙的时候，一个女孩走过来从我身边经过；经过时，她抬起了眼睛。
 关键词：no language can describe, stifling my breath, constricting my throat, a girl came up and passed me, she lifted her eyes
 为什么这样写：先明说写不出来（no language can describe），再用一个"但"把读者拽进现场；救援不是一句话而是一个动作（lifted her eyes），此前所有的窒息动词（stifling／constricting）恰好被这个抬眼抵消。
-读者视角提示：作者让海伦的援手小到几乎不存在——只是路过时抬了一下眼；简接住它的方式却是"全新的感觉把我撑了起来"，这个日后她对 Rochester 的形容（he sustained me）在这里已经排练过一次。
+读者视角提示：作者让海伦的援手小到几乎不存在——只是路过时抬了一下眼；简接住它的方式却是"全新的感觉把我撑了起来"，这个日后她对罗切斯特的形容（"He is more myself than I am"式的"他撑住了我"）在这里已经排练过一次。
 
 > **原句 8:** "Such is the imperfect nature of man—such spots are there on the disk of the clearest planet; and eyes like Miss Scatcherd’s can only see those minute defects, and are blind to the full brightness of the orb."
 
@@ -76,7 +76,7 @@ modified: "2026-09-27"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| scant | 不足的、勉强的（此处：少得可怜的食物） | Then the scanty supply of food was distressing. |
+| scanty | 不足的、勉强的（此处：少得可怜的食物） | Then the scanty supply of food was distressing. |
 | invalid | 长期病弱者（此处：一个真正的病人） | With the keen appetites of growing children, we had scarcely sufficient to keep alive a delicate invalid. |
 | irrepressible | 压不住的（此处：米勒小姐压不住的哈欠） | and in listening to a long sermon, read by Miss Miller, whose irrepressible yawns attested her weariness. |
 | perfidious | 阴险的、背信弃义的（此处：里德太太的暗示） | I had my own reasons for being dismayed at this apparition; too well I remembered the perfidious hints given by Mrs. Reed about my disposition, &c. |
@@ -92,7 +92,7 @@ modified: "2026-09-27"
 | "ingratitude" | 忘恩负义 | whose kindness, whose generosity, the unhappy girl repaid by an ingratitude so bad, so dreadful |
 | "mortify" | 克制、磨灭（此处：磨灭肉欲） | my mission is to mortify in these girls the lusts of the flesh |
 | penurious | 吝啬的、太少的 | an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served around between the services. |
-| paralyze | 使麻痹 | during the morning service we became almost paralyzed. |
+| paralyzed | 使麻痹 | during the morning service we became almost paralyzed. |
 ⭐⭐⭐ 17 entries.
 
 ### ⭐⭐ 进阶
@@ -118,9 +118,9 @@ Let me just pick from the script's pool: directions, circumstance, regulations, 
 | swelled | 肿胀的（原文词形，勿写成 swollen） | and the torture of thrusting the swelled, raw and stiff toes into my shoes in the morning. |
 | sermon | 讲道、布道 | and in listening to a long sermon, read by Miss Miller, whose irrepressible yawns attested her weariness. |
 | catechism | （教理问答） | The Sunday evening was spent in repeating, by heart, the Church Catechism, and the fifth, sixth, and seventh chapters of St. Matthew |
-| summit | 山顶 | the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces. |
+| summits | 山顶 | the bitter winter wind, blowing over a range of snowy summits to the north, almost flayed the skin from our faces. |
 | slate | 石板（习字用） | as I was sitting with a slate in my hand, puzzling over a sum in long division |
-| curl | 卷发 | “Miss Temple, Miss Temple, what—what is that girl with curled hair? Red hair, ma‘am, curled—curled all over?” |
+| curls | 卷发 | “Julia’s hair curls naturally,” returned Miss Temple, still more quietly. |
 | barber | 理发师 | Miss Temple, that girl’s hair must be cut off entirely; I will send a barber to-morrow |
 | sentence | 判决 | He scrutinized the reverse of these living medals some five minutes, then pronounced sentence. |
 | stool | 凳子 | “Fetch that stool,” said Mr. Brocklehurst, pointing to a very high one, from which a monitor had just risen. |

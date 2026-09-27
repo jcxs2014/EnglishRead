@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：订婚后的第一个早晨，简在镜子里第一次看见一张好看的脸，却拒绝罗切斯特给的珠宝与贵族排场；她逼费尔法克斯夫人听自己解释、逼罗切斯特供出假求婚，又为四个星期谈下条件（继续当家庭教师、自备衣裳、只收他的尊重），最后用一套顶嘴法把"试验期"过成两个人都没想到的日子。
 - **情感弧线位置**：**回落**——昨夜的狂喜只维持了一个上午，接下来整章都在处理同一件事：这份幸福靠不靠得住。
-- **母题与互文**：**镜子**第一次给出好话；此前第二章里那面穿衣镜照出的是一张"惨白的脸、闪着恐惧的眼睛"和它跟真人一样真实（已逐条检索全书正文核对），此后每一次照镜子都只是再确认一次判决。**借来的羽毛**是本章的第二个母题，简拒绝的不是珠宝而是"换一个人"这笔交易——同一件衣服到第二十六章她仍戴着，只不过是她自己缝的那块素色方纱（已逐条检索全书正文核对）。互文：她拒绝做"英国的那位塞莉娜·瓦伦斯"，而塞莉纳正是第十五章里罗切斯特自认曾以她为偶像的那位；同一套后宫与奴隶的比喻，则由简自己在第二十七章、第三十一章接着往下用。
+- **母题与互文**：**镜子**第一次给出好话；此前第二章里那面穿衣镜照出的是一个鬼魂（"the strange little figure there gazing at me"），真正与真人一样真实的那次对照要到第十九章女巫照镜才出现，此后每一次照镜子都只是再确认一次判决。**借来的羽毛**是本章的第二个母题，简拒绝的不是珠宝而是"换一个人"这笔交易——到第二十六章她戴的仍是那块素色方纱（"the plain square of blond, after all"）——他许诺的绸缎与玫瑰终究没有落到她身上。互文：她拒绝做"英国的那位塞莉娜·瓦伦斯"，而塞莉娜·瓦伦斯正是第十五章里**他以为她把他当偶像**的那位（"He thought himself her idol"）；她是法国歌女之女，不是意大利人；同一套后宫与奴隶的比喻，则由简自己在第二十七章、第三十一章接着往下用。
 - **人物弧线**：简在本章从"被追求的人"变成"谈判的人"——她坚持请费尔法克斯夫人听解释、坚持自己挣饭钱、坚持不与他同吃晚饭；她最后要的那条最要紧：他的尊重与她给的尊重彼此抵消，债务才算清。她在快乐里第一次动用怀疑。
 - **叙事手法**：**三重对质**结构——简对罗切斯特（珠宝与平等）、简对费尔法克斯夫人（清白与门第）、简对自己（这份好运算不算数）；夹在中间的是阿黛尔一路的一问一答和那首被完整抄下来的歌，喜剧节奏由它们承担。结尾只下沉一次，用一个天文学的比喻把宗教挡在人物身后。
 
@@ -83,7 +83,7 @@ modified: "2026-09-27"
 | consorting | 厮混、结交（此处带轻蔑） | If that will be your married look, I, as a Christian, will soon give up the notion of consorting with a mere sprite or salamander. |
 | salamander | 火蜥蜴（传说中不怕火的小兽） | If that will be your married look, I, as a Christian, will soon give up the notion of consorting with a mere sprite or salamander. |
 | unction | （涂油于灵魂）自我宽慰 | there is not another being in the world has the same pure love for me as yourself—for I lay that pleasant unction to my soul, Jane, a belief in your affection. |
-| bewilder | 使迷惑、不知所措 | She looked at me bewildered. |
+| bewildered | 使迷惑、不知所措 | She looked at me bewildered. |
 | spectacles | 眼镜 | She put up her spectacles, shut the Bible, and pushed her chair back from the table. |
 | parterre | （法式庭园里的）花坛 | “It might pass for the present,” he said; but he would yet see me “glittering like a parterre.” |
 | insignificant | 微不足道的 | “Puny and insignificant, you mean. |
@@ -97,7 +97,7 @@ modified: "2026-09-27"
 | Danaë | 达那厄（希腊神话中被金雨受孕的女子） | I never can bear being dressed like a doll by Mr. Rochester, or sitting like a second Danaë with the golden shower falling daily round me. |
 | degradation | 有失身份、降低 | Glad was I to get him out of the silk warehouse, and then out of the jeweller’s shop; the more he bought me, the more my cheek burned with a sense of annoyance and degradation. |
 | gossamer | 极薄的纱、轻如蛛网的织物 | It was a little thing with a veil of gossamer on its head. |
-| talisman | 护身符 | “Here is a talisman will remove all difficulties;” |
+| talisman | 护身符 | ‘Here is a talisman will remove all difficulties;’ |
 | piquant | 别致的、有风味的 | Is she original? Is she piquant? |
 | peremptory | 专横的、不容分说的 | He was quite peremptory, both in look and voice. |
 | pertinaciously | 执拗地、不放松地 | I ventured once more to meet my master’s and lover’s eye; which most pertinaciously sought mine, though I averted both face and gaze. |
@@ -105,7 +105,7 @@ modified: "2026-09-27"
 | coquetry | 卖弄风情、勾引 | Do you think Miss Ingram will not suffer from your dishonest coquetry? |
 | remonstrance | 抗议、异议 | I was about mechanically to obey him, without further remonstrance; |
 | Quakerish | 教友派样子的（朴素的） | Don’t address me as if I were a beauty; I am your plain, Quakerish governess. |
-| cudgel one’s brains | 绞尽脑汁 | “What would you do, Adèle? Cudgel your brains for an expedient. |
+| Cudgel your brains | 绞尽脑汁 | “What would you do, Adèle? Cudgel your brains for an expedient. |
 | tête-à-tête | 两人私下长谈 | I was determined not to spend the whole time in a tête-à-tête conversation |
 
 ### ⭐ 基础
@@ -115,7 +115,7 @@ modified: "2026-09-27"
 | governess | 女家庭教师 | Don’t address me as if I were a beauty; I am your plain, Quakerish governess. |
 | bonnet | 女帽 | “Go to your room, and put on your bonnet,” he replied. |
 | dressing-gown | 睡袍 | you may make a dressing-gown for yourself out of the pearl-gray silk, and an infinite series of waistcoats out of the black satin. |
-| waistcoat | 背心 | you may make a dressing-gown for yourself out of the pearl-gray silk, and an infinite series of waistcoats out of the black satin. |
+| waistcoats | 背心 | you may make a dressing-gown for yourself out of the pearl-gray silk, and an infinite series of waistcoats out of the black satin. |
 | amethyst | 紫水晶 | he fixed on a rich silk of the most brilliant amethyst dye, and a superb pink satin. |
 | jeweller | 珠宝商 | Glad was I to get him out of the silk warehouse, and then out of the jeweller’s shop |
 | silk warehouse | 绸缎庄 | Mr. Rochester obliged me to go to a certain silk warehouse; there I was ordered to choose half a dozen dresses. |

@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：十一月的雨把十岁的简关在盖茨海德府的书房里读《比威克英国鸟类志》，约翰·里德发现她、抢走她的书并把她打倒在门上，她第一次当面骂他是"罗马皇帝"，随即被罚关进红房子。
 - **情感弧线位置**：全书谷底（起点）——弧线不是从希望开始，而是从"我存在的资格需要别人批准"开始；这一章把后续三十七章要挣回来的东西一次性全部欠下。
-- **母题与互文**：立下全书的核心等式——**书＝自我，客厅＝自我被承认的世界**；女红室（red-room）首次出现即作为"被逐出"的容器埋线，此后每次回到它都换一层意思：第三章是简自己对着那道红光回想"这一次我可不叫喊"，第八章她向坦普尔复述这段往事（"that, to me, frightful episode of the red-room"），直到第二十七章她昏过去时梦见自己又躺在盖茨海德那间房里。全书唯一提到这间屋子的另一个人是 Rochester，他说自己早年就让人对简隐瞒了这个地方的"curse"。互文： Bewick（比威克）书里的海鸟插图——孤独的岩、搁浅的船、绞刑架下的恶魔，都是简日后人生处境的预演图。
+- **母题与互文**：立下全书的核心等式——**书＝自我，客厅＝自我被承认的世界**；女红室（red-room）首次出现即作为"被逐出"的容器埋线，此后每次回到它都换一层意思：第三章她在高烧中醒来，眼睛里还留着那道红光；第八章她向坦普尔复述这段往事（"the, to me, frightful episode of the red-room"）；直到第二十七章她昏过去那一夜，才梦见自己又躺在盖茨海德那间房里（Rochester 当场说："I dreamed that I lay in the red-room at Gateshead"）。全书没有第二个人提起过这间屋子——Rochester 口中那句 "the curse of the place" 指的是桑菲尔德，不是它。互文： Bewick（比威克）书里的海鸟插图——孤独的岩、搁浅的船、绞刑架下的恶魔，都是简日后人生处境的预演图。
 - **人物弧线**：简在本章完成"从忍耐到出言"的第一次跳跃：她自认身体的卑贱、也自认精神上的优势（她读罗马史、她把约翰比作尼禄），但这份优势换来的只是红房子。人物弧线由此确立：**她要的不是被怜惜，是被当作一个有权判断的人来对待**。
 - **叙事手法**：第一人称回顾体，开篇即用后见之明给场景贴标签（Mrs. Reed 的排斥被复述成一段公文式的宣告）；**双重聚焦**——同一场景在简的主观感受与里德家的客观秩序之间来回对切；场景以门被推开、门再次被关上的物理动作完成起承转合。
 
@@ -20,21 +20,21 @@ modified: "2026-09-27"
 中文理解：我倒乐于如此。我从来不喜欢走长路，尤其是冷飕飕的下午：对我可怕的是在昏暗的暮色里回家，手指脚趾冻得发麻，心里还因保姆贝茜的训斥而难过，更因意识到自己在这三个里德孩子面前身体上的低人一等而抬不起头。
 关键词：chidings, physical inferiority, nipped fingers and toes
 为什么这样写：一个十岁孩子的自我定位只用"身体上不如人"这一项，句子就用 dread 统领三件并列的苦：挨冻、挨骂、矮一头；三者从身体到心灵再到体格，恰好是欺负她的三个层面。
-读者视角提示：全书最重的一句自我贬抑写在这里，而它出自一个后来敢对雇主说"我不是你的平等雇员吗"的人——判断她的话，别被它骗了。
+读者视角提示：全书最重的一句自我贬抑写在这里；二十多年后她会用一句"我不是你的平等雇员吗"把同一套账翻过来——判断她的话，别被它骗了。
 
 > **原句 2:** "“She regretted to be under the necessity of keeping me at a distance; but that until she heard from Bessie, and could discover by her own observation that I was endeavoring in good earnest to acquire a more sociable and childlike disposition, a more attractive and sprightly manner—something lighter, franker, more natural, as it were—she really must exclude me from privileges intended only for contented, happy little children.”"
 
 中文理解：她说，很遗憾非要把我隔开一段距离不可；但在她从贝茜那里听到消息、并且亲自看到我确实在努力养成更合群、更孩子气的性情、更讨人喜欢更活泼的举止——某种更轻快、更坦率、更自然的东西——之前，她实在非把我排除在那些专为知足快乐的小孩子准备的优待之外不可。
 关键词：under the necessity, in good earnest, privileges intended only for contented, happy little children
 为什么这样写：整段是一个套三层条件的官样声明，句式越周到，排斥就越彻底；简用"她"（She）而不是"里德太太"来转述，是叙述者与被评判者的第一次错位——称呼的疏离本身就是她的抗议。
-读者视角提示：注意这套"条件"永远不会被满足——书中没有一次让简变成更"讨人喜欢"的孩子，可她最终得到的却是爱情和友谊；这一章先把门关死，后文每开一次门才有分量。
+读者视角提示：注意这套"条件"永远不会被满足——书中没有一次让简变成更"讨人喜欢"的孩子，可她最终得到的却是工作、友谊，和迟来的爱情；这一章先把门关死，后文每开一次门才有分量。
 
 > **原句 3:** "“Jane, I don’t like cavillers or questioners: besides, there is something truly forbidding in a child taking up her elders in that manner. Be seated somewhere; and until you can speak pleasantly, remain silent.”"
 
 中文理解：简，我不喜欢吹毛求疵的人，也不喜欢追问的人：再说了，一个孩子用那种方式跟长辈顶嘴，实在难看得很。坐到那边去；在你说话能说得中听之前，闭嘴。
 关键词：cavillers or questioners, taking up her elders, remain silent
 为什么这样写：里德太太的禁令拆成"我不喜欢谁"和"我不许你做什么"两层，表面讲礼仪，实际是剥夺发言资格；被禁的偏偏是提问（questioners），因为提问是判断力的起点。
-读者视角提示：全书有大量"简不许问"的时刻（伯莎的疯话、格雷斯·普尔的身份、梅森先生的求婚）；这一句是把它们全部收编成一条家规的母句。
+读者视角提示：全书有大量"简不许问"的时刻（伯莎的疯话、格雷斯·普尔的身份、圣约翰的求婚）；这一句是把它们全部收编成一条家规的母句。
 
 > **原句 4:** "A small breakfast-room adjoined the drawing-room: I slipped in there. It contained a book-case: I soon possessed myself of a volume, taking care that it should be one stored with pictures. I mounted into the window-seat: gathering up my feet, I sat cross-legged, like a Turk; and, having drawn the red moreen curtain nearly close, I was shrined in double retirement."
 
@@ -55,7 +55,7 @@ modified: "2026-09-27"
 中文理解：关于这些死白色的国度，我自有一套想法——朦朦胧胧的，像所有那些半懂不懂的念头在孩子脑子里昏昏沉沉地飘过，却又异异地令人印象深刻。
 关键词：death-white realms, half-comprehended notions, strangely impressive
 为什么这样写：叙述者在这里头一次"点评自己小时候"——她不否认自己当时半懂不懂，反而把这种半懂不懂写成一种特殊的理解力；"death-white"是全书哥特底色的第一次显影。
-读者视角提示：这一句也是本书的自陈：简 Eyre 的写作方式正是她自己描述的样子——先承认朦胧，再交付一份异地的印象。
+读者视角提示：这一句也是本书的自陈：简·爱的写作方式正是她自己描述的样子——先承认朦胧，再交付一份异地的印象。
 
 > **原句 7:** "He bullied and punished me—not two or three times in the week, nor once or twice in the day, but continually: every nerve I had feared him, and every morsel of flesh on my bones shrunk when he came near."
 
@@ -125,7 +125,7 @@ modified: "2026-09-27"
 | knee | 膝盖 | With Bewick on my knee, I was then happy; happy at least in my way. |
 | gallows | 绞刑架 | So was the black, horned thing, seated aloof on a rock, surveying a distant crowd surrounding a gallows. |
 | fiend | 恶魔、恶鬼 | The fiend pinning down the thief’s pack behind him, I passed over quickly: it was an object of terror. |
-| servant | 仆人、佣人 | the servants did not like to offend their young master by taking my part against him |
+| servants | 仆人、佣人 | the servants did not like to offend their young master by taking my part against him |
 | fury | 暴怒、发作（What a fury! = 瞧这副暴脾气） | “Dear! dear! What a fury to fly at Master John!” |
 
 ## 一句话总结

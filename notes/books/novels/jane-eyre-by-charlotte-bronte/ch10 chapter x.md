@@ -104,14 +104,14 @@ modified: "2026-09-27"
 | frigid | 冷淡的、拘谨的 | I saw her in a black gown and widow’s cap; frigid, perhaps, but not uncivil |
 | plucked | （英式俚语）考试不及格而被除名 | he went to college, and he got-plucked, I think they call it |
 | dissipated | 放荡的、挥霍无度的 | he is such a dissipated young man |
-| christen | （此处）给…取名 | that I’ve christened Jane |
+| christened | （此处）给…取名 | that I’ve christened Jane |
 | en règle | （法语）合规矩的、得体的 | I wished the result of my endeavors to be respectable, proper, en règle |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| advertisement | 广告（此处指报纸上的求职广告） | Those who want situations advertise |
+| advertisement | 广告（此处指报纸上的求职广告） | you must inclose the advertisement and the money to pay for it under a cover directed to the editor of the Herald |
 | post-office | 邮局 | slipped the letter into the post-office |
 | fortnight | 两星期 | fixing that day fortnight as the period for my assuming the post of governess in her house |
 | committee | 委员会 | the funds of the school were intrusted to the management of a committee |

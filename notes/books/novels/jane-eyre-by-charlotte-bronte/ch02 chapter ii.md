@@ -10,7 +10,7 @@ modified: "2026-09-27"
 - **一句话概括**：简被按在凳上捆缚的威胁吓退后独自锁进红房子，她在镜中看见鬼影、几乎饿死自己、想象舅父的鬼魂会来作证，最后因一道游移的光尖叫求救，里德太太罚她多关一小时，昏厥收场。
 - **情感弧线位置**：谷底的下沉段——比 ch01 更低一层：ch01 是被排斥，本章是被惩罚；而转折点也埋在这里（那道光的"事后解释"与那句"我正是为了你好"），它将在 ch04 变成里德太太口中的"deceit"。
 - **母题与互文**：**镜子**首次成为恐怖装置（"the strange little figure there gazing at me"），此后每次简照镜子都在重新丈量自己；**舅父里德的名字**首次被提出，并种下"他的鬼会替我作证"的复仇想象——这正是 ch04 她敢对里德太太喊出"我永远不叫你 aunt"的底气来源。互文：undertaker's men（抬棺人）把红房子从一间客房变成一座陵墓。
-- **人物弧线**：本章是简的**第一次言语反抗**——"Master! How is he my master? Am I a servant?"，用"服务关系"这套 Household 的语言反过来质问里德家，逻辑严密得让叙述者自己都惊讶；但她同时被自己吓到（"the additional ignominy it inferred"），反抗的代价当场结清。
+- **人物弧线**：本章是简第一次把反抗**说成一套道理**（ch01 是骂人，这里是讲理）——"Master! How is he my master? Am I a servant?"，用"服务关系"这套 Household 的语言反过来质问里德家，逻辑严密得让叙述者自己都惊讶；但她同时被自己吓到（"the additional ignominy it inferred"），反抗的代价当场结清。
 - **叙事手法**：**事后解释（ex post facto）**是本章的核心手法——"I can now conjecture readily that this streak of light was, in all likelihood, a gleam from a lantern"，成年简的理智在句尾追上来，把孩子的恐惧降格为误会；场景以身体失控（昏厥）收束，把"惩罚"的叙事交给昏迷来封口。
 
 ## 精读
@@ -20,21 +20,21 @@ modified: "2026-09-27"
 中文理解：我一路上都在抗拒——这对我来说还是件新鲜事，也大大加强了贝茜和阿博特小姐乐于对我抱的那种坏印象。事实上，我有点神志不清；或者说，按法国人的说法，我"出了自己"；我意识到一瞬间的哗变已经让我该受些奇怪的惩罚，于是像任何别的反叛奴隶一样，我在绝望中横下心要走到底。
 关键词：resisted all the way, out of myself, mutiny, rebel slave, go all lengths
 为什么这样写：反抗被一整套奴隶制的词汇框定（mutiny／rebel slave／penalties），而叙述者随后立即补上"a new thing for me"——她不是天生敢反抗的人，她只是这一次没忍住；"go all lengths"（不择手段）把失控写成了决心。
-读者视角提示：本章所有的极端词汇都会在 ch04 兑现成账——"走到底"的结果是被捆、被关、被罚，而里德太太把它记成"心术不正"。
+读者视角提示：本章所有的极端词汇都会在 ch04 兑现成账——"走到底"的结果就是本章这些：被捆、被关、被罚，而里德太太把它记成"心术不正"。
 
 > **原句 2:** "“Master! How is he my master? Am I a ervant?”"
 
 中文理解："主人！他怎么成了我的主人？我难道是仆人吗？"（原文此处漏印了一个 s）
 关键词：How is he my master, Am I a ervant
 为什么这样写：两个反问句都不给答案，直接把 Household 的分类表推翻——如果我不是仆人，那我在这个家里的位置是什么？问句比陈述句更难顶撞，因为它邀请对方解释，而对方无法解释。
-读者视角提示：这是简第一次动用"雇佣关系"这套语言（我提供什么／我要求什么），它日后在第三十四章对着雇主罗切斯特再被使用一次，措辞几乎同源。
+读者视角提示：这是简第一次动用"雇佣关系"这套语言（我提供什么／我要求什么），它日后在第二十三章拒做情妇时再被使用一次，措辞几乎同源（"we stood at God’s feet, equal—as we are!"）。
 
 > **原句 3:** "This room was chill, because it seldom had a fire; it was silent, because remote from the nursery and kitchens; solemn, because it was known to be so seldom entered."
 
 中文理解：这房间是冷的，因为极少生火；是静的，因为离育儿室和厨房都远；是庄重的，因为人们都知道它极少有人进。
 关键词：chill, solemn, seldom
 为什么这样写：三段排比，每段都是"感官印象 + because + 理由"，而三个理由（不生火／太远／没人进）恰好一重比一重更内在——从生理到空间到人心，房间的冷一步步被解释成被遗弃。
-读者视角提示：本章的因果解释全靠这一句式的排比立住；同样的"因为……因为……因为……"会在 ch07 的学校晨检、ch29 的桑菲尔德客厅再各出现一次。
+读者视角提示：本章的因果解释全靠这一句式的排比立住；同样的"因为……因为……因为……"还会在后面的景物与处境描写里再出现，只是那里的"因为"给出的是气氛而不是理由。
 
 > **原句 4:** "Mr. Reed had been dead nine years; it was in this chamber he breathed his last; here he lay in state; hence his coffin was borne by undertaker's men; and, since that day, a sense of dreary consecration had guarded it from frequent intrusion."
 
@@ -55,14 +55,14 @@ modified: "2026-09-27"
 中文理解："不公！不公！"我的理智说道，被这番剧痛的刺激逼出了早熟却短暂的力气；同样被搅动起来的决心，则怂恿我想出一个古怪的招数来逃脱这难以忍受的压迫——比如逃走，或者，如果逃不掉，就从此不再吃喝，让自己死掉。
 关键词：said my reason, precocious though transitory power, instigated, insupportable oppression, letting myself die
 为什么这样写：理智与决心被写成两个上了膛的人：Reason 与 Resolve 首字母大写、分别用"说"和"怂恿"作谓语，简把自己的内心拆成一场有主角有配角的戏；逃走与饿死并列为"可行方案"，冷静得可怕。
-读者视角提示：这是全书第一次把自杀写成一种**计算**而不是一种情绪；十六年后她在沼泽边也会做同一道题，两次的算式不同，答案一样。
+读者视角提示：这是全书第一次把自杀写成一种**计算**而不是一种情绪；十来年后的第三十五章她会在牧师住宅里再面对一次同类的选择，两次的算式不同，答案一样。
 
 > **原句 7:** "I was a discord in Gateshead Hall; I was like nobody there; I had nothing in harmony with Mrs. Reed, or her children, or her chosen vassalage."
 
 中文理解：我是盖茨海德府里一个不谐和音；我在那儿谁也不像；我同里德太太、同她的孩子们、同她那些自己选中的人，没有一样东西是合拍的。
 关键词：a discord in Gateshead Hall, like nobody there, in harmony with, her chosen vassalage
 为什么这样写：整段自我定位用音乐术语串起来（discord／harmony），而"vassalage"（附庸群）把这一家人直接说成一支领主的家臣；被排除者的委屈因此有了一个精确的词：不是穷，是走调。
-读者视角提示：同一套"我在某群体里是走调的"判断会在第三十二章（无名的家庭女教师）里被同一个句子结构重说一次——那时它是职业处境，而这里它是童年判决。
+读者视角提示：同一套"我在某群体里是走调的"判断会在第二十九章（做家庭女教师）里被同一个句子结构重说一次——那时它是职业处境，而这里它是童年判决。
 
 > **原句 8:** "At this moment a light gleamed on the wall. Was it, I asked myself, a ray from the moon penetrating some aperture in the blind? No; moonlight was still, and this stirred. While I gazed, it glided up to the ceiling and quivered over my head. I can now conjecture readily that this streak of light was, in all likelihood, a gleam from a lantern, carried by some one across the lawn; but then, prepared as my mind was for horror, shaken as my nerves were by agitation, I thought the swift-darting beam was a herald of some coming vision from another world."
 
@@ -126,7 +126,7 @@ modified: "2026-09-27"
 | keep | 供养、维持（your keep = 你吃饭却不出力） | “No; you are less than a servant, for you do nothing for your keep. |
 | apartment | 房间、起居室 | They had got me by this time into the apartment indicated by Mrs. Reed, and had thrust me upon a stool |
 | tantrums | 发作、发脾气（此处：发脾气的时候） | “Besides,” said Miss Abbot, “God will punish her; he might strike her dead in the midst of her tantrums, and then where would she go? |
-| chamber | 房间（旧式、较正式的说法） | Mrs. Reed, herself, at far intervals, visited it to review the contents of a certain secret drawer in the wardrobe |
+| chamber | 房间（旧式、较正式的说法） | The bed-room was a spare chamber, very seldom slept in; I might say never, indeed |
 | ottoman | 软垫矮凳 | My seat, to which Bessie and the bitter Miss Abbot had left me riveted, was a low ottoman, near the marble chimney-piece |
 | wardrobe | 衣柜 | to my right hand there was the high, dark wardrobe, with subdued, broken reflections varying the gloss of its panels |
 | phantoms | 幽灵、小妖（此处指童话里的鬼影） | I thought it like one of the tiny phantoms, half fairy, half imp, Bessie’s evening stories represented as coming up out of lone, ferny dells |

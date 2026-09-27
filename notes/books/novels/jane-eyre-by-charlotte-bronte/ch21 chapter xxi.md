@@ -7,7 +7,7 @@ modified: "2026-09-27"
 
 ## 本章导航
 
-- **一句话概括**：连续七夜梦见婴儿之后，简接到罗伯特·莱文带来的消息——约翰·里德自杀、里德太太中风；她请准一周假回盖茨海德，见到已变得认不出的两姐妹和病入膏肓的舅母，听见对方坦白当年如何回信伪造她的死讯，随后里德太太当夜死去，殡仪过后简在原路走回桑菲尔德。
+- **一句话概括**：连续七夜梦见婴儿之后，简接到罗伯特·莱文带来的消息——约翰·里德自杀、里德太太中风；她请准一周或两周的假回盖茨海德，见到已变得认不出的两姐妹和病入膏肓的舅母，听见对方坦白当年如何回信伪造她的死讯，随后里德太太当夜死去，殡仪过后简在原路走回桑菲尔德。
 - **情感弧线位置**：全书**第一次主动的"回访"**——不是被带走，是她自己要求回去；也是怨恨这条线被明写为已熄的位置："The gaping wound of my wrongs, too, was now quite healed, and the flame of resentment extinguished."（第四章、第六章、第八章反复出现的怨恨在此结账。）
 - **母题与互文**：**婴儿**在本章开场被写成"预兆"，而第十章里贝茜刚讲过那位在马德拉的叔叔约翰·艾尔——本章那封信就是那位叔叔的，里德太太的回信是"简已经死于斑疹伤寒"；**镜子**（两姐妹的对照）取代了红房子时期的鞭梢成为审判工具。里德太太临终前那句"living, she had ever hated me—dying, she must hate me still"是全书对盖茨海德卷的结账句。
 - **人物弧线**：简在本章做了两件全新的事：她**设下条件**才答应（不许向新妇要工作、必须先带她安全离开），也**索要对等条件**（不回信登广告求职）；而更关键的是她在棺前一滴泪也没落——不是因为她狠，是因为她已经把账算清了。
@@ -41,7 +41,7 @@ modified: "2026-09-27"
 中文理解：她的眼睛仿佛在发问："这只悄悄爬过来的东西现在又想要什么？"
 关键词：Her eyes seemed to demand, What can the creeping creature want now
 为什么这样写：作者把英格姆的心思整个交给简去读，而读的方式是转述一句并不存在的话；"creeping creature"（爬行的小东西）三个词就把她降了一级物种——不是嘲笑身高，是不承认同类。
-读者视角提示：这双眼睛与第十九章罗切斯特描摹的那双"平静、温柔、会笑"的眼睛属于同一双，评判者却完全相反；简在这一页上第一次被人当面按身份排序，而且她没有生气。
+读者视角提示：这双眼睛属于英格拉姆小姐，她"haughtily"地扫了简一眼；而第十九章女巫念出的那双"平静、温柔、会笑"的眼睛是**简自己的**。同一种被读脸的动作，评判者却完全相反；简在这一页上第一次被人当面按身份排序，而且她没有生气。
 
 > **原句 5:** "I still felt as a wanderer on the face of the earth; but I experienced firmer trust in myself and my own powers, and less withering dread of oppression."
 
@@ -128,7 +128,7 @@ modified: "2026-09-27"
 | tea-cake | 茶点蛋糕 | cutting bread and butter, toasting a tea-cake, and between whiles, giving little Robert or Jane an occasional tap or push, just as she used to give me in former days. |
 | footstool | 脚凳 | there the toilet-table, the arm-chair, and the footstool, at which I had a hundred times been sentenced to kneel, to ask pardon for offences by me uncommitted. |
 | switch | 鞭梢、细鞭 | I looked into a certain corner near, half expecting to see the slim outline of a once dreaded switch, which used to lurk there, waiting to leap out, imp-like, and lace my quivering palm or shrinking neck. |
-| vignette | 小景插图 | I used to take a seat apart from them, near the window, and busy myself in sketching fancy vignettes, representing any scene that happened momentarily to shape itself in the ever-shifting kaleidoscope of imagination |
+| vignettes | 小景插图 | I used to take a seat apart from them, near the window, and busy myself in sketching fancy vignettes, representing any scene that happened momentarily to shape itself in the ever-shifting kaleidoscope of imagination |
 | crucifix | 苦像（耶稣像） | There was something ascetic in her look, which was augmented by the extreme plainness of a strait-skirted, black stuff dress, a starched linen collar, hair combed away from the temples, and the nun-like ornament of a string of ebony beads and a crucifix. |
 | embroidery | 刺绣 | One day, however, as she put away her account-book and unfolded her embroidery, she suddenly took her up thus: |
 | draught | 一剂（药） | Bessie now endeavored to persuade her to take a sedative draught; she succeeded with difficulty. |

@@ -7,7 +7,7 @@ modified: "2026-09-27"
 
 ## 本章导航
 
-- **一句话概括**：一月二十日清晨简坐夜车离开盖茨海德，傍晚抵达罗沃德学校（Lowood），见到管理员坦普尔小姐（Miss Temple）；她吃不下焦掉的燕麦粥、在花园里遇到一个看《拉塞拉斯》的女孩——海伦·伯恩斯（Helen Burns）——被罚站却一声不吭。
+- **一句话概括**：一月十九日清晨六点简坐一辆白天的邮车离开盖茨海德，傍晚抵达罗沃德学校（Lowood），见到管理员坦普尔小姐（Miss Temple）；她吃不下焦掉的燕麦粥、在花园里遇到一个看《拉塞拉斯》（Rasselas）的女孩，被罚站却一声不吭。
 - **情感弧线位置**：谷底之后的第一段平缓上升——外部条件第一次变好（不必挨打、有地方睡、有热汤），但简立刻发现"好"是另一种难受：制度化的匮乏比个人的恶意更难反抗。这一章把她的战场从" household 里的一个人"换成"一群人和一套规矩"。
 - **母题与互文**：**食物**成为本章的记分牌（前夜没吃成饭、清早吃不下、隔夜一壶水一片燕麦饼、早餐焦粥、中午才由坦普尔补一份面包奶酪、晚餐锈肉）；**阅读**第二次出手（《格列佛游记》被改写成鬼片之后，花园里出现了第一部真正的书）；互文：布罗克赫斯特的《马太福音》匾额与女校长的姓氏。
 - **人物弧线**：简在本章完成一次"主动接近陌生人"的尝试——她承认"我不知道自己哪来的胆量去和一个陌生人搭话"，并归因于对方在读书触动了某根"同情的弦"；这是她第一次不靠愤怒、而靠兴趣去接近一个人，也第一次见到另一种承受惩罚的方式。
@@ -41,7 +41,7 @@ modified: "2026-09-27"
 中文理解：饿极了的、又饿得发晕，我不假思索地吞下自己那份里的一两勺；可是饥饿的第一阵锐气一钝下来，我就发现手里拿到的是一滩令人作呕的东西。烧焦的麦片粥几乎和烂土豆一样难以下咽；连饥荒本身吃了两口也会恶心。
 关键词：without thinking of its taste, the first edge of hunger blunted, a nauseous mess, Burned porridge is almost as bad as rotten potatoes, famine itself soon sickens over it
 为什么这样写：转折点被精确地放在生理节律上——"the first edge of hunger blunted"（饿劲的锋刃一钝）；两句格言（焦粥≈烂土豆、饥荒吃两口就反胃）把个人经验升成普遍判断，语气突然老成得不像十岁。
-读者视角提示：作者在第一章就让简说过"饥饿是一种堕落"，本章给了这句判断一个实物；此后每一次学校伙食的场景（第八章、第九章）都在重复这层意思，直到海伦带食物给她为止。
+读者视角提示：这一层意思在 ch05 的焦粥、ch08 的"没有吃到东西"、直到坦普尔打开抽屉取出那块籽料蛋糕为止，一路都在重复：简的义愤正是在这条链上第一次从"我受了欺负"转向"她们被这样对待"。
 
 > **原句 5:** "Above twenty of those clad in this costume were full-grown girls, or rather, young women; it suited them ill, and gave an air of oddity even to the prettiest."
 
@@ -55,21 +55,21 @@ modified: "2026-09-27"
 中文理解：至于其余的，请读者自己添上，把这张画补齐：精致的五官；一张即使苍白也干净的肤色；再加上一种端庄的姿态与举止；那么他至少就能像文字所能做到的那样清楚地知道坦普尔小姐的外表了。
 关键词：Let the reader add, to complete the picture, refined features, a stately air and carriage, at least as clearly as words can give it
 为什么这样写：作者在描写最要紧的一个人物时**主动向读者求助**——把词交给读者来补，理由是"at least as clearly as words can give it"；这一手把小说变成了对话，也顺手把"文字有极限"这件事说在了故事里。
-读者视角提示：全书只有这一处作者直接对读者说话（后面第二十四章对阿黛勒讲故事、最后一句对读者报告婚事时还会再有）；每一次出现，叙述的可信度都会重新被提起一次。
+读者视角提示：这是作者相当频繁的一种插话（全书至少二十余章含 reader 的直接称呼）；每一次出现，叙述的可信度都会重新被提起一次。
 
 > **原句 7:** "My reflections were too undefined and fragmentary to merit record; I hardly yet knew where I was. Gateshead and my past life seemed floated away to an immeasurable distance; the present was vague and strange, and of the future I could form no conjecture."
 
 中文理解：我的那些想法太模糊、太零碎，不值得记下来；我几乎还不知道自己身在何处。盖茨海德和我此前的人生似乎已漂到不可计量的远方；此刻是含混而陌生的，而对未来，我连猜想都做不出来。
 关键词：too undefined and fragmentary to merit record, seemed floated away to an immeasurable distance, the present was vague and strange, of the future I could form no conjecture
 为什么这样写：三段时间被排成一条等比递减的线：过去远得不可计（immeasurable）、现在含混（vague）、未来连猜都不成立（no conjecture）；句子由承认无话可说开始，正因为无话可说，这反而是全书写得最满的一段。
-读者视角提示：简从不写"我很害怕"或"我很高兴"，只写距离与清晰度；这套词汇（vague／undefined／conjecture）会在第三十二章她决定离开桑菲尔德时原样再出现一次。
+读者视角提示：简从不写"我很害怕"或"我很高兴"，只写距离与清晰度；这套词汇（vague／undefined／conjecture）会在第二十八章她独自上路时原样再出现一次。
 
 > **原句 8:** "I have heard of day-dreams—is she in a day-dream now? Her eyes are fixed on the floor, but I am sure they do not see it—her sight seems turned in, gone down into her heart. She is looking at what she can remember, I believe; not at what is really present."
 
 中文理解：我听说过做白日梦这回事——她现在是在做白日梦吗？她的眼睛盯着地板，可我确信她并没有在看它——她的视线向内转了，沉进了她心里。她在看她**记得住**的东西，我相信；而不是眼前真正在场的东西。
 关键词：I have heard of day-dreams, her eyes are fixed on the floor, they do not see it, her sight seems turned in, what she can remember, not at what is really present
 为什么这样写：一个十岁孩子的推理被写成"证据—排除—结论"的三步：她眼睛不动（证据）→ 所以她看的不是地板（排除）→ 所以她在往里看（结论）；"what she can remember"与"what is really present"这一对，把"回忆"和"现实"正式拆成两样东西。
-读者视角提示：这段是全书对海伦的第一次也是最准确的一次定义——她不在惩罚里，她在另一个地方；六章后海伦说"我并不在受罚"，用的正是同一个区分。
+读者视角提示：这段是全书对海伦的第一次也是最准确的一次定义——她不在惩罚里，她在另一个地方；海伦在全书最后一场戏里仍在用同一个区分。
 
 ## 本章词汇
 

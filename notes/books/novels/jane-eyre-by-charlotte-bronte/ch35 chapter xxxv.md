@@ -82,10 +82,10 @@ modified: "2026-09-27"
 | vindictiveness | 报复心 | Not that St. John harbored a spirit of unchristian vindictiveness—not that he would have injured a hair of my head, if it had been fully in his power to do so. |
 | unconsecrated | 不受祝圣的、不被认可的 | The interest you cherish is lawless and unconsecrated. |
 | heart-wrung | 心被绞痛的 | I was heart-wrung. |
-| harass | 骚扰、折磨 | It kept up a slow fire of indignation and a trembling trouble of grief, which harassed and crushed me altogether. |
+| harassed | 骚扰、折磨 | It kept up a slow fire of indignation and a trembling trouble of grief, which harassed and crushed me altogether. |
 | relinquish | 放弃 | I would not so soon relinquish the attempt to reconquer it. |
 | ascendency | 支配地位、优势 | It was my turn to assume ascendency. My powers were in play, and in force. |
-| upbraid | 严厉责骂 | Without one overt act of hostility, one upbraiding word, he contrived to impress me momently with the conviction that I was put beyond the pale of his favor. |
+| upbraiding | 严厉责骂 | Without one overt act of hostility, one upbraiding word, he contrived to impress me momently with the conviction that I was put beyond the pale of his favor. |
 | "reconquer" | 重新夺回 | I would not so soon relinquish the attempt to reconquer it. |
 | "baffling" | 令人困惑的、把人堵住的 | This, spoken in a cool, tranquil tone, was mortifying and baffling enough. |
 | "obligation" | 义务 | I am not under the slightest obligation to go to India, especially with strangers. |
@@ -101,7 +101,7 @@ modified: "2026-09-27"
 | spectre | 鬼影（此处：荒原上那团黑影） | “Down superstition!” I commented, as that spectre rose up black by the black yew at the gate. |
 | superstition | 迷信 | “Down superstition!” I commented, as that spectre rose up black by the black yew at the gate. |
 | witchcraft | 巫术 | This is not thy deception, nor thy witchcraft; it is the work of nature. |
-| enlighten | 使明白、启迪 | I rose from the thanksgiving—took a resolve—and lay down, unscared, enlightened—eager but for the daylight. |
+| enlightened | 使明白、启迪 | I rose from the thanksgiving—took a resolve—and lay down, unscared, enlightened—eager but for the daylight. |
 | penetrate | 穿透、深入（此处：接近那至大之灵） | I seemed to penetrate very near a Mighty Spirit, and my soul rushed out in gratitude at His feet. |
 | gratitude | 感恩 | I seemed to penetrate very near a Mighty Spirit, and my soul rushed out in gratitude at His feet. |
 ⭐⭐ 进阶 13 entries.

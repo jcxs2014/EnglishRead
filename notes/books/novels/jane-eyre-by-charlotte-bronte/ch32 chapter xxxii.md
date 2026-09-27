@@ -34,7 +34,7 @@ modified: "2026-09-27"
 中文理解：他那忧愁而坚决的目光仿佛在说——即使他的嘴唇没有说出口："我爱你，而且我知道你更愿意要我。让我哑口无言的不是追求无望；如果我把心交出来，我相信你会收下。但那颗心早已摆在神圣的祭坛上——火已经围着它生起；它很快就会只是一份被烧尽的祭品。"
 关键词：with his sad and resolute look, if he did not say it with his lips, It is not despair of success that keeps me dumb, already laid on a sacred altar, the fire is arranged round it, a sacrifice consumed
 为什么这样写：整段引号里的内容是**简的推测**，作者用一个插入条件（if he did not say it with his lips）把这份推测的合法性削掉一半；圣约翰的自述却全部是宗教词（sacred altar／sacrifice／consumed），一个人把自己的心说成祭品，等于宣布他早已不是自己的。
-读者视角提示：全书只有这一处把另一人的内心写成带引号的间接引语；读者因此必须自己判断这些话是他说的还是简编的——这种"读到一半不确定是谁在说"的手法，后面在第三十一章简被圣约翰求婚时会再来一次。
+读者视角提示：全书只有这一处把另一人的内心写成带引号的间接引语；读者因此必须自己判断这些话是他说的还是简编的——这种"读到一半不确定是谁在说"的手法，后面在第三十四章荒原上圣约翰向简求婚时会再来一次。
 
 > **原句 4:** "St. John, no doubt, would have given the world to follow, recall, retain her, when she thus left him; but he would not give one chance of heaven, nor relinquish, for the elysium of her love, one hope of the true, eternal paradise."
 
@@ -55,7 +55,7 @@ modified: "2026-09-27"
 中文理解：唉！我们的时代的读者没那么有福。但要有勇气！我既不打算停下来控诉，也不打算停下来抱怨。我知道诗没有死，天才也没有失落；财神也没有取得凌驾于它们之上的力量来捆缚或杀害它们；总有一天，它们会重新宣示自己的存在、自己在场、自己的自由与力量。
 关键词：the readers of our era are less favored, But, courage, I will not pause either to accuse or repine, poetry is not dead, nor genius lost, nor has Mammon gained power over either, to bind or slay
 为什么这样写：圣约翰在这里以议论者的身份说话，两个 "nor" 把"诗没死／天才没失落／财神没得势"排成一列；Alas 与 But, courage! 相邻，反问与呼告只用一次叹号和一次逗号分开——他把同情与催促压在同一个呼吸里。
-读者视角提示：这段是全书对**书与作者**的第一次正面辩护（他送的是一本诗集）；他说"我们的时代读者没那么有福"，与他自称"不是诗人"（前一段说他 bound 不了 the poet）恰好相反——这个自相矛盾正是简后来能撬开他的缝。
+读者视角提示：这段是全书对**书与作者**的第一次正面辩护（他送的是一本诗集）；他说"我们的时代读者没那么有福"，与他前一段那句"他不能把天性里的全部（the rover, the aspirant, the poet, the priest）关进一种激情"恰好相反——**他从未自称不是诗人**，这个张力正是简后来能撬开他的缝。
 
 > **原句 7:** "I’ll try if I cannot discover the secret spring of your confidence, and find an aperture in that marble breast through which I can shed one drop of the balm of sympathy."
 
@@ -86,7 +86,7 @@ modified: "2026-09-27"
 | irresolute | 犹豫不定的 | He now furtively raised his eyes; he glanced at me irresolute, disturbed; he again surveyed the picture. |
 | salutations | 招呼、问候（此处：四面八方的寒暄） | Whenever I went out, I heard on all sides cordial salutations, and was welcomed with friendly smiles. |
 | attentions | 殷勤、款待（此处：农户夫妇的过分热情） | Their parents then (the farmer and his wife) loaded me with attentions. |
-| composure | 沉静、泰然（此处：简的冷静） | I was, however, good, clever, composed, and firm, like him. |
+| composed | 沉静、泰然（此处：简的冷静） | I was, however, good, clever, composed, and firm, like him. |
 | abruptness | 唐突、生硬 | He almost started at my sudden and strange abruptness; he looked at me astonished. |
 ⭐⭐⭐ 15 entries (dropping the empty one).
 
@@ -97,8 +97,8 @@ modified: "2026-09-27"
 | torpid | （此处）迟钝的、呆板的 | Wholly untaught, with faculties quite torpid, they seemed to me hopelessly dull; and, at first sight, all dull alike |
 | obliging | 乐于帮忙的 | Many showed themselves obliging, and amiable, too; and I discovered among them not a few examples of natural politeness and innate self-respect |
 | amiable | 和蔼可亲的 | Many showed themselves obliging, and amiable, too |
-| innate | 天生的、固有的 | as well as of excellent capacity, that won both my good will and my admiration |
-| capacities | 能力 | I found estimable characters among them—characters desirous of information, and disposed for improvement |
+| innate | 天生的、固有的 | not a few examples of natural politeness and innate self-respect, as well as of excellent capacity |
+| capacity | 能力 | I found estimable characters among them—characters desirous of information, and disposed for improvement |
 | "approbation" | 嘉许、称赞 | he expressed in strong terms his approbation of what I had done in Morton school; and said he only feared, from what he saw and heard, I was too good for the place |
 | "affable" | 和蔼可亲的 | Her father was affable; and when he entered into conversation with me after tea |
 ⭐⭐ 进阶 15 entries.

@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：简在过完一个没有她的圣诞节后被叫去见布罗克赫斯特先生（Mr. Brocklehurst），听他在里德太太面前把她说成"惯于说谎的孩子"；当场她把《说谎者的 child's guide》甩回给 Georgiana，宣布永不叫 aunt，然后独自在结了冰的园子里问了一路"我该怎么办"。
 - **情感弧线位置**：**全书第一个真正的转折点**——谷底到此结束。上一章的好转（有人照应、有人建议上学）在本章被一笔勾销，简靠自己的爆发换来了离开的船票；代价是紧接着的悔恨与寒意，所以这一次"赢"同时是升华和教训。
-- **母题与互文**：**doll（玩偶）是 Jane Eyre 自己的画像**——"a faded graven image, shabby as a miniature scare-crow"，她抱着它睡觉、"believing it happy likewise"，这个"替代品式的爱"此后还会被点名两次：第十二章阿黛勒拿到的是一尊 best wax doll（对照简自己那尊"一直包在银纸里"的蜡娃娃），第十七章 Rochester 当面问她从哪里弄来这么个小娃娃；第二十四章则换成她自己的话——被人打扮得像洋娃娃一样最受不了互文：布罗克赫斯特的"take away your heart of stone and give you a heart of flesh"（除去石心、赐予肉心）出自《圣经·以西结书》，全书随后会不断用"石头与血肉"这组对照。
+- **母题与互文**：**doll（玩偶）是 Jane Eyre 自己的画像**——"a faded graven image, shabby as a miniature scare-crow"，她抱着它睡觉、"believing it happy likewise"，这个"替代品式的爱"此后还会被点名两次：第十二章阿黛勒拿到的是一尊 best wax doll——而原文括号里明说这就是简自己"一直包在银纸里收着"的那一尊，同物在不同人手里；第十七章 Rochester 当面问她从哪里弄来这么个小娃娃；第二十四章则换成她自己的话——被人打扮得像洋娃娃一样最受不了互文：布罗克赫斯特的"take away your heart of stone and give you a heart of flesh"（除去石心、赐予肉心）出自《圣经·以西结书》，全书随后会不断用"石头与血肉"这组对照。
 - **人物弧线**：本章简第一次**赢**，也第一次**因为赢而恶心自己**——"Something of vengeance I had tasted for the first time; as aromatic wine it seemed on swallowing, warm and racy; its after-flavor, metallic and corroding"：她把复仇写成了喝下的一口酒，咽下去时是暖的，回味是金属腐蚀味。人物弧线由"必须被承认"推进到"知道自己能伤人"。
 - **叙事手法**：**外部场景（见客）与内部场景（园中踱步）严格对切**——见客段是台词密集的正剧，园中段是几乎无对白的心理独白；两次切换都用一个动作完成（走出去、听见贝茜喊她吃饭），把"胜利"立刻拖进"日常"。
 
@@ -20,7 +20,7 @@ modified: "2026-09-27"
 中文理解：人总得爱点什么；当没有更值得爱的东西时，我竟想出了这样一种乐趣——去爱、去疼惜一个褪了色的刻像，破旧得像一座小号的稻草人。如今想来都发愣：我当时怀着何等荒唐的真诚去疼爱这个木头玩物，半是把它当成活着的、有知觉的。
 关键词：in the dearth of worthier objects of affection, a faded graven image, miniature scare-crow, absurd sincerity, half fancying it alive
 为什么这样写：作者先立一条人类学式的通则（人必须爱点什么），再把这条通则的"没有"写成一个缺口（dearth），于是玩偶不再是玩具而是一个**填空**；"half fancying"（半是想象）把信仰的浓度降为一半，成年叙述者不肯全盘否认孩子的认真。
-读者视角提示：这是全书最重要的一个意象开端——简抱着玩偶入睡的姿势，与她三十四章抱着女儿入睡的姿势是同一个；她此后一生的"爱"都始于这样一件"没有更值得爱的东西"时找到的替代物。
+读者视角提示：这是全书最重要的一个意象开端——简抱着玩偶入睡的姿势，与她后来抱着阿黛勒入睡的姿势是同一个；她此后一生的"爱"都始于这样一件"没有更值得爱的东西"时找到的替代物。
 
 > **原句 2:** "I feared to return to the nursery; I feared to go forward to the parlor; ten minutes I stood in agitated hesitation; the vehement ringing of the breakfast-room bell decided me; I must enter."
 
@@ -73,7 +73,6 @@ modified: "2026-09-27"
 为什么这样写：作者把复仇写成**入口的味道**而不是情绪的名字——先说"第一次"（此前的人生没有这个动作），再用"像一口酒"把道德判断转成生理判断；破折号后那句（温暖而辛烈）由读者自己的舌头补完，句子因此停在最浓的那一刻。
 
 读者视角提示：紧接的半句把这份味道反转——它的 after-flavor 是 metallic and corroding（金属般的、腐蚀性的），那种感觉 as if I had been poisoned（像中了毒）；再往后她承认自己 partly from experience and partly from instinct（一半凭经验，一半凭直觉）知道道歉只会招来 double scorn（加倍的鄙夷）。注意 reëxciting 里的分音符 ë——原版用它标出这是被压抑后重新激起的情绪。
-读者视角提示：注意"reëxciting"里的分音符（re-**ë**xciting）——原版用 ë 标出这是被压抑后重新激起的情绪；这个印刷细节说明作者对这本书的每个词都做过手工，是精读英文原版时值得留心的一类信息。
 
 ## 本章词汇
 

@@ -69,7 +69,7 @@ modified: "2026-09-27"
 
 中文理解：我看着他，而且在看着他这件事里得到一种尖锐的快感——一种珍贵却又刺痛的快感；纯金，却带着一根钢针般的痛点；一种像快要渴死的人才会有的快感：他知道自己爬到的那口井是下了毒的，却仍旧俯下身去，痛饮天上落下来的甘露。
 
-关键词：I had an acute pleasure in looking, a precious, yet poignant pleasure, pure gold, with a steely point of agony, a pleasure like what the thirst-perishing man might feel, yet stoops and drinks divine draughts nevertheless
+关键词：and had an acute pleasure in looking, a precious, yet poignant pleasure, pure gold, with a steely point of agony, a pleasure like what the thirst-perishing man might feel, yet stoops and drinks divine draughts nevertheless
 
 为什么这样写：一连三个破折号把"快感"层层加码再层层打折——先说珍贵，再被刺痛否定；纯金与钢针是两种金属的并置，渴者与毒井则把爱写成一件明知要死还是要做的事；整句没有一句写他可爱，写的是她**愿意喝下去**。
 
@@ -108,7 +108,8 @@ modified: "2026-09-27"
 | exonerated | （此处）免去、解除（差事） | From school duties she was exonerated |
 | preternatural | 超乎寻常的、近乎怪异的 | in a position of almost preternatural erectness |
 | saturnine | （此处）像土星一样阴沉带笑的 | It was not, however, so saturnine a pride; she laughed continually |
-| apathetic / listless | 麻木的 / 倦怠无神的 | but he shares Mary’s apathetic and listless look |
+| apathetic | 麻木的、无动于衷的 | but he shares Mary’s apathetic and listless look |
+| listless | 倦怠无神的 | but he shares Mary’s apathetic and listless look |
 | dogmatical | 说教式的、颐指气使的 | her voice was deep, its inflections very pompous, very dogmatical |
 | trepidation | 忐忑、惶恐 | It was with some trepidation that I perceived the hour approach when I was to repair with my charge to the drawing-room. |
 | balustrade | 楼梯扶手、栏杆 | The hall lamp was now lighted, and it amused her to look over the balustrade and watch the servants passing backward and forward. |

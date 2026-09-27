@@ -33,8 +33,8 @@ modified: "2026-09-27"
 
 中文理解：如果那个人只有一只小母羊，把它当女儿般疼爱，吃他的面包、喝他杯子里的东西、卧在他怀里……他为自己那次血腥的误手感到后悔，也不会比我此刻更甚。你会原谅我吗？
 关键词：one little ewe lamb, dear to him as a daughter, ate of his bread, and drank of his cup, and lay in his bosom, he would not have rued his bloody blunder more than I now rue mine
-为什么这样写：省略号之前那一串 all 引导的定语从句把羊"养大"的每一样细节都数过一遍，省略号之后才落到判断；用来比照的不是人，是一只被养大的小羊——"误杀"因此被降格成最普通也最不可挽回的过失，而 he would not have… I now rue mine 用同一个动词把两桩屠杀并排放好。
-读者视角提示：他把十五年前那个错误说成一次打错，而简三天前做的事比那严重得多；读者会立刻察觉这次比照其实是往轻里说——他的悔一直朝轻的方向打折。
+为什么这样写：省略号之前那一串 that 引导的定语从句把羊"养大"的每一样细节都数过一遍，省略号之后才落到判断；用来比照的不是人，是一只被养大的小羊——"误杀"因此被降格成最普通也最不可挽回的过失，而 he would not have… I now rue mine 用同一个动词把两桩屠杀并排放好。
+读者视角提示：他把十五年前那个错误说成一次打错，而简当天早上做的事比那严重得多；读者会立刻察觉这次比照其实是往轻里说——他的悔一直朝轻的方向打折。
 
 > **原句 4:** "I must leave Adèle and Thornfield; I must part with you for my whole life; I must begin a new existence among strange faces and strange scenes!"
 
@@ -61,7 +61,7 @@ modified: "2026-09-27"
 
 中文理解：我的女儿，逃离诱惑！
 关键词：My daughter, flee temptation
-为什么这样写：整章唯一一次祈使句来自一个梦中的声音，主语是我的女儿而不是我，简醒来后的回答也短到不能再短；作者让全书最重的一句话只占两行，让它同时像母亲的遗言和一条行动的指令。
+为什么这样写：本章最重的祈使句来自一个梦中的声音（他自己对简也说过 "Consider that eye; consider the resolute course" 与 "Oh, come, Jane, come!"），主语是我的女儿而不是我，简醒来后的回答也短到不能再短；作者让全书最重的一句话只占两行，让它同时像母亲的遗言和一条行动的指令。
 读者视角提示：她在这句梦话之前的所有痛苦都还能归给身体（饿、病、冷）；从这一夜起，她开始给自己制造痛苦——本章之后她走的每一步，都是在执行这句梦话。
 
 > **原句 8:** "Gentle reader, may you never feel what I then felt! May your eyes never shed such stormy, scalding, heart-wrung tears as poured from mine!"
@@ -79,7 +79,7 @@ modified: "2026-09-27"
 |---|---|---|
 | inexorable | 不为所动的、赶不走的 | “Sir,” I interrupted him, “you are inexorable for that unfortunate lady; you speak of her with hate—with vindictive antipathy. |
 | vindictive | 怀有报复心的 | “Sir,” I interrupted him, “you are inexorable for that unfortunate lady; you speak of her with hate—with vindictive antipathy. |
-| antipathy | 反感、厌恶 | it is not because she is mad I hate her. |
+| antipathy | 反感、厌恶（此处：vindictive antipathy = 报复性的憎恶） | you speak of her with hate—with vindictive antipathy |
 | countenance | 面色、神情 | I don’t know what Sphynx-like expression is forming in your countenance. |
 | exasperation | 恼火、被激起来的火气 | Now for vexation, and exasperation, and endless trouble! |
 | recommenced | 重新开始（走） | He recommenced his walk, but soon again stopped, and this time just before me. |
