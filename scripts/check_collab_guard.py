@@ -68,6 +68,12 @@ def main():
         if a and b and a.group(1) < b.group(1):
             print("⚠️  提示：首两条时间戳 %s < %s，可能未按「最新到最旧」插入" % (a.group(1), b.group(1)))
 
+    # ⑤ 模板头**不得重复**（我曾误判事故为「头被截断」而补了一份，
+    #    结果文件里出现两份头——守卫当时放行，因为只查「有没有」不查「有几份」）
+    for m in MARKERS[:2]:
+        if text.count(m) > 1:
+            bad.append("模板头重复出现 %d 次（`**%s**`）——有人把消息插到标题与头体之间时，"
+                       "曾被误判为「头被覆盖」而补了一份" % (text.count(m), m.strip('*')))
     print("检查对象：%s · 消息 %d 条 · 首行 %r" % (where, len(msgs), lines[0][:40] if lines else ""))
     if bad:
         for x in bad:
