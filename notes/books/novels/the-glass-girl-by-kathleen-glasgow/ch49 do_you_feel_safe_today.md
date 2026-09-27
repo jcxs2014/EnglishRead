@@ -8,11 +8,11 @@ source_text: ch49
 
 ## 本章导航
 
-**一句话概括**：**这一章是全书唯一一次心与脑说了同一句话**（`My brain: Say yes.` / `My heart: Say yes.`）——**而这一致只维持了一句话的距离**（⑨ `My heart says: Get out`），**最后这一章用五行分行把她的回答写了出来**（⑬ `It comes out with vengeance` / `Pushed by that anger` / `All over his shirt`）
+**一句话概括**：**这一章是全书唯一一次心与脑说了同一句话**（`My brain: Say yes.` / `My heart: Say yes.`）——**而这一致只维持了一句话的距离**（⑥ `My heart says: Get out`），**最后这一章用五行分行把她的回答写了出来**（⑧ `It comes out with vengeance` / `Pushed by that anger` / `All over his shirt`）
 
 **情感弧线位置**：**弧线的最低点比 ch38 更低，因为这一次她是自己走进去的**。弧线的位置因此是**ch44 那一晚之后的第一次出门**——**而它的前半段与后半段是两种完全不同的技术**：前半是**每一句都像在谈判**（③ `Those are the conditions.`），后半是**每一句都不再是句子**（⑫⑬ 那些独立成行的短行）。
 
-**人物弧线**：① **第一次对母亲说「你得信任我」**（③ `"At some point, you have to trust me."`）——**而这一句的下一行是母亲把条件一条条摆出来**（③ `But I'm driving you there and picking you up. You can text me when the movie's done.`）；② **第一次在别人递东西时说出「你骗了我」**（⑩ `"You lied to me," I whisper. "You said you weren't doing this stuff."`）——**而她的下一句立刻被拆掉**（⑩ `"I didn't lie to you, Bella, I lied to your mom."`）；③ **第一次把喝进去的东西吐出来**（⑬）——**而这一章的技术是让那一口酒在书里占了七行**。
+**人物弧线**：① **第一次对母亲说「你得信任我」**（③ `"At some point, you have to trust me."`）——**而这一句的下一行是母亲把条件一条条摆出来**（③ `But I'm driving you there and picking you up. You can text me when the movie's done.`）；② **第一次在别人递东西时说出「你骗了我」**（⑦ `"You lied to me," I whisper. "You said you weren't doing this stuff."`）——**而她的下一句立刻被拆掉**（⑦ `"I didn't lie to you, Bella, I lied to your mom."`）；③ **第一次把喝进去的东西吐出来**（⑧）——**而这一章的技术是让那一口酒在书里占了七行**。
 
 **叙事手法**：单视角（Bella）＋ **9 处 `—` 分节**＋ **3 处 U+00AD（按禁令 1c 不手打、不手译，只记数）**＋ **9,973 字节 / 149 段**。**结构是「五个场景 + 一次诗体」**：① 打电话 ② 电影院门口 ③ 大厅与停车场 ④ 别人家后院 ⑤ 客厅（那瓶酒）⑥ 她与 `Josh` 的对话 ⑦ **七行独立成行的诗体**（⑫⑬）。**而本章最值得学的一处是 ⑧ 那三组心脑对唱**：它们在原文里**全部小写、无标点、无引号**（`My heart says: this boy is cute you don't have to drink it just put it down`），**与全书其余 45 处的心脑格式都不一样**。
 
@@ -46,7 +46,7 @@ source_text: ch49
 
 — 分节 —
 
-**最后（⑬）** —— `And he jumps away, his shirt soaked` —— `And they all look at me` —— `I drop the bottle on the carpet` —— **`And pick up all the broken parts of me`** —— **`(I can put them back together I know I can)`** —— **`And run, run, run`**
+**最后（⑧）** —— `And he jumps away, his shirt soaked` —— `And they all look at me` —— `I drop the bottle on the carpet` —— **`And pick up all the broken parts of me`** —— **`(I can put them back together I know I can)`** —— **`And run, run, run`**
 
 ## 精读
 

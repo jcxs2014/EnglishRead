@@ -122,7 +122,7 @@ source_text: ch12
 
 ## 本章词汇
 
-**母题计数**（**全章范围**）：`—` 分节 **12 处**｜`Isabella` **3 次**（Fran 唤醒 ×1、Janet 问句 ×1、Bella 自己纠正 ×1）｜`Bella` 由**他人称呼 0 次**（`Brandy, Holly, Brandy, this is your room` 一次列名三人，`Bella` 与另两人并列在**同一句里**）｜**Part One 母题全为 0**：`watercolor` / `Bella, do it` / `I am a watercolor` / `too much` / `the tree` **逐条 grep 均 0 次**｜低声三处归给弱者：`Billy murmurs` / `Holly whispers` / `Bella mumble`｜U+00AD 软连字符 **1 行 4 处**（`Ihatethis­Ihatethis­Ihatethis­Ihatethis­Ihatethis.`）。
+**母题计数**（**全章范围**）：`—` 分节 **12 处**｜`Isabella` **3 次**（Fran 唤醒 ×1、Janet 问句 ×1、Bella 自己纠正 ×1）｜`Bella` 由**他人称呼 0 次**（`Brandy, Holly, Brandy, this is your room` 一次列名三人，`Bella` 与另两人并列在**同一句里**）｜**Part One 母题全为 0**：`watercolor` / `Bella, do it` / `I am a watercolor` / `too much` / `the tree` **逐条 grep 均 0 次**｜低声五处：`murmurs` 两次（`Tracy` / `Billy`）／`whispers` 三次（全给 `Holly`）｜U+00AD 软连字符 **1 行 4 处**（`Ihatethis­Ihatethis­Ihatethis­Ihatethis­Ihatethis.`）。
 
 ### ⭐⭐⭐ 高级
 

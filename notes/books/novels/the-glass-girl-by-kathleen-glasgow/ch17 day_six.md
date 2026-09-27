@@ -38,7 +38,7 @@ source_text: ch17
 
 **关键词**：Should I say / Or maybe I should say / no one here can remember / I just want to be called Bella
 
-**为什么这样写**：**全章第一个动作是选择称呼，而三个选项都不是「我」。** 作者把三个称呼并排放在同一句里，让读者自己看出递降——`Dear me`（抽象的）→ `Dear Bella`（她要的）→ `Dear Isabella`（她不要的）——**而她选的第三个恰恰是最错的**（`Or maybe`＝或者也许，这个不确定的语气就是犹豫本身）。理由句是全章最锋利的一处：`no one here can remember I just want to be called Bella`——**主语是「没有人」，动词是「记得」，宾语是「我只想被叫作 Bella」这件事**。作者注意到了一个不对称：**她要求的东西是别人「记不住」，不是别人「不肯」**。而 `I just want to be called Bella` 里的 `just`（只是）是她全书第二次用这个词（ch08 的 `It's just so hard`）——**`just` 在她的语言里永远标记着一件被说小了的事。**
+**为什么这样写**：**全章第一个动作是选择称呼，而三个选项都不是「我」。** 作者把三个称呼并排放在同一句里，让读者自己看出递降——`Dear me`（抽象的）→ `Dear Bella`（她要的）→ `Dear Isabella`（她不要的）——**而她选的第三个恰恰是最错的**（`Or maybe`＝或者也许，这个不确定的语气就是犹豫本身）。理由句是全章最锋利的一处：`no one here can remember I just want to be called Bella`——**主语是「没有人」，动词是「记得」，宾语是「我只想被叫作 Bella」这件事**。作者注意到了一个不对称：**她要求的东西是别人「记不住」，不是别人「不肯」**。而 `I just want to be called Bella` 里的 `just`（只是）是她全书第二次用这个词（ch08 的 `I just want to disappear.`）——**`just` 在她的语言里永远标记着一件被说小了的事。**
 
 **读者视角提示**：紧接着的括号是全章最短的一次自嘲：`Actually, I think she used the word "metastasize" (I don't think I spelled that right, but whatever—I'm the only one who is going to see this).`——**「我拼错了」和「反正只有我一个人会看到这个」在同一句里，而后者是这封信存在的全部理由。**
 

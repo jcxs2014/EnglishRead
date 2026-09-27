@@ -8,11 +8,11 @@ source_text: ch50
 
 ## 本章导航
 
-**一句话概括**：**这一章的开头是一句机构给的建议，而全章的落点是一个陌生人递来的一只桶**——`Seek shelter. That's what they said at rehab. Make one if you don't have one.`（找个庇护所。戒治所里就是这么说的。没有的话就自己造一个。）——**而「自己造一个」在全章里被实现了两次**（④ `Bella, these are my moms, Sharon and Claire.`／⑧ `A silent, sad army, I guess. Welcome.`）；**全章的最后一句是一个被重复了八次的问句**（⑨ `how many times will I have to start over all my days?`）
+**一句话概括**：**这一章的开头是一句机构给的建议，而全章的落点是一个陌生人递来的一只桶**——`Seek shelter. That's what they said at rehab. Make one if you don't have one.`（找个庇护所。戒治所里就是这么说的。没有的话就自己造一个。）——**而「自己造一个」在全章里被实现了两次**（④ `Bella, these are my moms, Sharon and Claire.`／⑤ `A silent, sad army, I guess. Welcome.`）；**全章的最后一句是一个被重复了八次的问句**（⑥ `how many times will I have to start over all my days?`）
 
 **情感弧线位置**：**弧线从 ch49 那个「跑、跑、跑」开始，而这一章的标题是它唯一的答案**（`One Friend Is All You Need.`）——**而这个答案是由一个叫 `Dawn` 的人给的，而 `Dawn` 在两页之后告诉了她自己的一件更重的事**（⑤ `I'm a cutter.`）。**注意本章是全书第二次进教堂**——**而 ch42 那一次在地下室（`Room 15, basement`），本章这一次在上面（`only not in the basement this time`）。**
 
-**人物弧线**：① **第一次把喝进去的量精确说出来**（② `Two sips of beer. I swallowed them.`）——**而紧跟的 `I spit it out. On him.`（我吐出来了。吐在他身上。）是一个过去时的完成句**；② **第一次听到「重置」这个词**（⑤ `You have to reset the clock. Start over.`）——**而这句话在 12 章后会成为 ch53 那一整章的标题**；③ **第一次被一群陌生人接住**（④ `they don't look unkind.`）——**而她对这件事的评价只有一句**（⑧ `A silent, sad army, I guess. Welcome.`）
+**人物弧线**：① **第一次把喝进去的量精确说出来**（② `Two sips of beer. I swallowed them.`）——**而紧跟的 `I spit it out. On him.`（我吐出来了。吐在他身上。）是一个过去时的完成句**；② **第一次听到「重置」这个词**（⑤ `You have to reset the clock. Start over.`）——**而这句话在 12 章后会成为 ch53 那一整章的标题**；③ **第一次被一群陌生人接住**（④ `they don't look unkind.`）——**而她对这件事的评价只有一句**（⑤ `A silent, sad army, I guess. Welcome.`）
 
 **叙事手法**：单视角（Bella）＋ **3 处 `—` 分节**＋ 0 处 U+00AD ＋ **6,921 字节 / 100 段**。**结构是「四个场景」**：① 人行道（吐）② `Dawn` ③ `Dawn` 家的客厅（两位妈妈）④ 教堂。**而这一章的技术核心是**两处「她自己造庇护所」的实现**（③ ④），以及**一处她拒绝了那个庇护所的邀请**（⑥ `So do you want to make a fire in your backyard?` 那个未被接受的提议）。
 
@@ -28,11 +28,11 @@ source_text: ch50
 
 **`Dawn` 的房间（④⑤）** —— `Dawn's room has art posters all over the walls and tons of books.` —— `She sits down.` —— `"The beer I had. Does it ruin my days? It was only a little, and I threw it up, so it doesn't count, does it?"` —— **`"I'm a cutter. I mean, I was. I'm trying hard not to be."`** —— **`"I feel like it's the same with alcohol. You have to reset the clock. Start over."`** —— `I look at her, my heart sinking.` —— `There's a knock at the door.` —— `"Do you need a bucket?"` —— `I feel my face flush.` —— `Do you have any marshmallows?` —— `They told us in rehab to feed ourselves when we're hungry, and to seek shelter, and to stay warm, and we'd survive.` —— `I hand her my phone.` —— `"What's your password?"` —— `"There," she says. "He's blocked."` —— `Then she calls my mom.`
 
-**那句军队（⑧）** —— `"I'm sorry," I say. "I knew someone like you. In the hospital. Holly. She died. But not from that."` —— `"A cutter?"` —— `I nod.` —— **`"there are a lot of girls like me. And like you. Just walking around the world not knowing about each other. A silent, sad army, I guess. Welcome."`**
+**那句军队（⑤）** —— `"I'm sorry," I say. "I knew someone like you. In the hospital. Holly. She died. But not from that."` —— `"A cutter?"` —— `I nod.` —— **`"there are a lot of girls like me. And like you. Just walking around the world not knowing about each other. A silent, sad army, I guess. Welcome."`**
 
 — 分节 —
 
-**车里与教堂（⑨）** —— `The first thing my mom says when we get in the car is "I'm so angry at you right now."` —— `The second thing she says is "I'm so angry at myself. What was I thinking, letting you go out like that?"` —— `The third thing she says is "We're going to a meeting. I texted Tracy and that's what she said to do."` —— `The only thing I say is "Okay."` —— `And then, "I'm sorry."` —— `It's ten o'clock at night and there are at least seventy people in this church, only not in the basement this time. Up top, in the main part, spread out among the pews.` —— `Someone is talking at the front of the church. My mother and I slide into a pew in the back.` —— **`I lost all my days.`** —— `No.` —— **`I threw all my days away.`** —— `It was me.` —— `That girl in group, she said her life was microscopic.` —— **`How your life has to get very small, somehow, before it can get bigger, and I probably won't know when that time will be for a very, very long time.`** —— `I start to shudder with sobs, pressing a hand against my mouth.` —— `My mother puts her arm around me and takes my hand with her other hand and squeezes hard.` —— **`Again and again and again and again and again and again and again how many times will I have to start over all my days?`**
+**车里与教堂（⑥）** —— `The first thing my mom says when we get in the car is "I'm so angry at you right now."` —— `The second thing she says is "I'm so angry at myself. What was I thinking, letting you go out like that?"` —— `The third thing she says is "We're going to a meeting. I texted Tracy and that's what she said to do."` —— `The only thing I say is "Okay."` —— `And then, "I'm sorry."` —— `It's ten o'clock at night and there are at least seventy people in this church, only not in the basement this time. Up top, in the main part, spread out among the pews.` —— `Someone is talking at the front of the church. My mother and I slide into a pew in the back.` —— **`I lost all my days.`** —— `No.` —— **`I threw all my days away.`** —— `It was me.` —— `That girl in group, she said her life was microscopic.` —— **`How your life has to get very small, somehow, before it can get bigger, and I probably won't know when that time will be for a very, very long time.`** —— `I start to shudder with sobs, pressing a hand against my mouth.` —— `My mother puts her arm around me and takes my hand with her other hand and squeezes hard.` —— **`Again and again and again and again and again and again and again how many times will I have to start over all my days?`**
 
 ## 精读
 
@@ -50,7 +50,7 @@ source_text: ch50
 
 **而最后那两句是全书最短的一次绝望判定（①）** —— `My mom was right. It was too soon. It will probably always be too soon.`（**我妈是对的。太快了。可能永远都太快。**）—— **而它的技术是**第二句与第三句只差一个词**（`It was` → `It will probably`），**——也就是说她这一次不是失手，而是把一次失手升级成了一条规律**；**而这一段因此是全书唯一一次她为「自己父亲的错」找到一个证据链的收尾**：ch44 ⑨ 她说 `At some point, you have to trust me.`（到某个时候，你总得信任我。）而本章 ① 她自己承认 `My mom was right.`。
 
-**读者视角提示**：**`Make one if you don't have one.`（没有的话就自己造一个。）这一句是 ch50 整个标题的来源** ——**而这一章接下来的三个场景里，她一共见到了三个「自己造出来的庇护所」**：`Dawn` 家的客厅（④）／`Dawn` 说的那支军队（⑧）／教堂的长椅（⑨）——**而这三个的共同点是：没有一个是 `Sonoran Sunrise`。**
+**读者视角提示**：**`Make one if you don't have one.`（没有的话就自己造一个。）这一句是 ch50 整个标题的来源** ——**而这一章接下来的三个场景里，她一共见到了三个「自己造出来的庇护所」**：`Dawn` 家的客厅（④）／`Dawn` 说的那支军队（⑤）／教堂的长椅（⑥）——**而这三个的共同点是：没有一个是 `Sonoran Sunrise`。**
 
 ### ②
 
@@ -150,7 +150,7 @@ source_text: ch50
 - **本章 ④ `It's why I wear long shirts all the time.` 与 ch42 ⑦ 那个织毛线的女孩（`She's knitting furiously, bright blue yarn in her lap`）是同一种「用手上的活儿代替开口」的写法**——**而本章把这一招交给了两个成年人（③ `One of them is knitting something long and gray.`）**。
 - **本章 ⑥ 母亲那条线是 ch44 ⑪ 那一句的重演**：ch44 ⑪ `"at some point, you need to learn to tell him these things yourself. When you feel ready."`（某个时候，你得学会自己把这些事告诉他。等你觉得准备好了的时候。）——**而本章 ⑥ 的母亲一句这句话都没说，她做的是打电话给 `Tracy`（`I texted Tracy and that's what she said to do.`），也就是说这一次她选择了机构而不是自己。**
 - **本章 ① 那条 `Seek shelter. That's what they said at rehab.` 与本章 ④ 她自己复述的三条建议（`to feed ourselves when we're hungry, and to seek shelter, and to stay warm`）是同一组**——**而 ch50 50 的标题 `One Friend Is All You Need.`（一个朋友就够了。）是这一组建议里唯一一条在本章**没有**被兑现的**：**她说 `Make one if you don't have one.`，而这一章替她造出来的那个人，是 `Dawn`。**
-- **本章 ⑧ 那张火坑的提议在 ch50 50 之后没有再出现**（`So do you want to make a fire in your backyard?` 那个未完的句子被 `Dawn` 打断了）——**而本章之后紧接 ch51（`Today You Will Rediscover Something You Used to Love.`）与 ch52（`If It Isn't Working, Fix It.`），因此这一晚的火坑是这一批标题里唯一一件被推迟的事。**
+- **本章 ④ 那张火坑的提议在本章之后没有再出现**（`So do you want to make a fire in your backyard?` 那个未完的句子被 `Dawn` 打断了）——**而本章之后紧接 ch51（`Today You Will Rediscover Something You Used to Love.`）与 ch52（`If It Isn't Working, Fix It.`），因此这一晚的火坑是这一批标题里唯一一件被推迟的事。**
 
 ### ⭐⭐⭐ 高级
 

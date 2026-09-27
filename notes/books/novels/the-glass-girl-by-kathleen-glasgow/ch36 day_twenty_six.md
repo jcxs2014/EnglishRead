@@ -104,7 +104,7 @@ source_text: ch36
 
 **而 `because I drank too much, and then I drank some more, and then some more on top of that` 的技术是三个阶段用两个 `and then` 串起来（④）** —— **`drank too much`（喝得太多）`and then I drank some more`（然后我又喝了一些）`and then some more on top of that`（然后在那个基础上又喝了一些）——而这三个阶段的区别是**参照系在变**：第一句没有参照，第二句参照第一句，第三句明确写 `on top of that`（在那个基础上）——因此这一串把「喝多」写成了一个**层层叠加**的过程，而没有给出任何数量。**
 
-**而这一段的收尾是全书最接近「希望」的一处，而它的技术是三个 `I think`（④）** —— `I think that I would like to stop it, too, and I think I can.`（我想我也会想停下来，我想我能停。）—— **而这一句的技术是**每一个 `I think` 后面跟的东西都很小**：`I would like to stop it`（我会想停下来）是一个愿望，而 `I can`（我能停）是一个能力判断；因此这一句把希望拆成了两步，而每一步都加了一个减弱语气的小词。**
+**而这一段的收尾是全书最接近「希望」的一处，而它的技术是两个 `I think`（④）** —— `I think that I would like to stop it, too, and I think I can.`（我想我也会想停下来，我想我能停。）—— **而这一句的技术是**每一个 `I think` 后面跟的东西都很小**：`I would like to stop it`（我会想停下来）是一个愿望，而 `I can`（我能停）是一个能力判断；因此这一句把希望拆成了两步，而每一步都加了一个减弱语气的小词。**
 
 **读者视角提示**：**`And I'm here because everyone would like me to stop drinking. I think that I would like to stop it, too,` 这一组的技术是主语的一致性** ——前一句的主语是 `everyone`（所有人），后一句换成 `I`（我），而中间靠 `too`（也）连接——**因此她把自己加进了「所有人」这个名单里，而这个「也」字是本章她第一次在文字里与众人站到一起。**
 
@@ -140,7 +140,7 @@ source_text: ch36
 
 **而这一段的每一件「想念」都绑定了一个具体动作（⑥）** —— `I miss snuggling with you and reading to you in bed and your whole nighttime routine`（我怀念搂着你睡、在你床边给你读书，还有你整套的睡前流程）—— **注意这一句里三个「想念」的对象分别是：姿势（`snuggling`）、动作（`reading`）与**整套流程**（`your whole nighttime routine`）——因此这一句的落点不是某一件东西，是**一套程序**；而 `whole`（整套）这个词是本章最重的一个形容。**
 
-**而这一串 `I'm sorry` 的技术是：`sorry` 后面接的东西彼此不在同一层**（⑥）** ——`I'm really sorry that what happened happened and that you're alone now, without me`（抱歉发生了这些事，抱歉你现在一个人）`I'm sorry about whatever you're thinking right now and how lonely you might be feeling`（抱歉你此刻在想什么，也抱歉你可能觉得孤单）`I'm sorry that at some point you probably asked Mom when…`（抱歉你大概问过妈妈）—— **这三句分别是：为状态道歉、为想法道歉、为一次提问道歉——因此这一段的技术是**道歉的范围在往后推**（已经发生的 → 正在想的 → 已经问出口的）。**
+**而这一串 `I'm sorry` 的技术是：`sorry` 后面接的东西彼此不在同一层**（⑥）** ——`I am really sorry that what happened happened and that you're alone now, without me`（抱歉发生了这些事，抱歉你现在一个人）`I'm sorry about whatever you're thinking right now and how lonely you might be feeling`（抱歉你此刻在想什么，也抱歉你可能觉得孤单）`I'm sorry that at some point you probably asked Mom when…`（抱歉你大概问过妈妈）—— **这三句分别是：为状态道歉、为想法道歉、为一次提问道歉——因此这一段的技术是**道歉的范围在往后推**（已经发生的 → 正在想的 → 已经问出口的）。**
 
 **而最后那一句是本章写得最狠的一句，因为它猜的是母亲的动作（⑥）** —— `and that she probably started to cry`（而她大概哭了起来）—— **注意这一句的技术是 `probably`（大概）被用了两次（`probably asked`／`probably started`）——因此这一句在结构上是**推测的推测**：她先猜孩子问了什么，再猜自己母亲哭了；而这两个 `probably` 之间的主语已经从 `you`（你）换成了 `she`（她，指妈妈）。**
 

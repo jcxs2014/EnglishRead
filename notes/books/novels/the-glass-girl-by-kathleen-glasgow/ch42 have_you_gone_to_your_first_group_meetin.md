@@ -12,7 +12,7 @@ source_text: ch42
 
 **情感弧线位置**：**ch40（说出 `I'm an alcoholic.`）之后的第一次「对外使用」**。弧线的位置因此是**ch15 那圈自我介绍的重演，只是地点从 `Sonoran Sunrise` 的活动室搬到了一个教堂的地下室，而听众从十个同龄人换成了一群素不相识的同龄人**（ch15 `One by one, everyone says their names. Marshall, Gideon, Sarah, Nick, Josh, Charlotte,` ↔ 本章 `And one by one, they say their names.`）。**而这一章的收尾不是她的答案，是别人的一句比喻**（`You can't always get a pretty rose garden, girl,` he says. `Sometimes all that's left is thorns.`）。
 
-**人物弧线**：① **第一次被一群陌生人接住**（⑥ `I'm good, I think. Sorry.` / 而这一章里她真正得到的迎接是 `Everyone says, "Hi, Bella," all at once.`）；② **第一次听见「我不打算出去」被认真地讨论**（⑦ `No thank you, says the girl primly. The world is not a good place for me.`）——**而这一段的可怕之处在于在场的人都点头**（`Everyone nods.`）；③ **第一次说出 `I have fifty-two days` 这种自己算出来的数字**（⑧）——**而这个数字是 `Ashley` 说的，而她记下来的是这个。**
+**人物弧线**：① **第一次被一群陌生人接住**（她自报 `Hi. I'm Bella. And I drink a lot. I mean, I did.` 之后，`Everyone says, "Hi, Bella," all at once.`，接着 `And one by one, they say their names.`）；② **第一次听见「我不打算出去」被认真地讨论**（⑦ `No thank you, says the girl primly. The world is not a good place for me.`）——**而这一段的可怕之处在于在场的人都点头**（`Everyone nods.`）；③ **第一次说出 `I have fifty-two days` 这种自己算出来的数字**（⑧）——**而这个数字是 `Ashley` 说的，而她记下来的是这个。**
 
 **叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **6,935 字节 / 59 段**。**结构是「门外 → 门内 → 自我介绍 → 四段别人的话」**：① 站在外面（心与脑）② 走进去 ③ `Beth` 问她「多少天」④ 两个女孩的规矩 ⑤ 自我介绍 ⑥ 学校 ⑦ 那些选择躲起来的人 ⑧ 那句荆棘的比喻。**而本章最值得学的一处技术是 ③ 的问答体**（`How many days do you have, if I may ask?` → `Thirty-four. Including rehab.`）——**这是全书唯一一次「天数」被当成一个可以被问出来的量。**
 
@@ -28,7 +28,7 @@ source_text: ch42
 
 **自我介绍（⑤）**：`Girl One laughs. "You don't have to whisper it. Everyone here's in the same boat. Where were you?"` → `"Sonoran Sunrise," I say.` → `The goats, she says. That place is all right.` → `Beth is talking and suddenly stops.` → `Girl Two nudges me gently. "It's okay," she whispers. "Just get it over with. Rip off the Band-Aid."` → **`Wren, sparrow, roadrunner, quail.`** → **`"Hi. I'm Bella. And I drink a lot. I mean, I did."`** → `Everyone says, "Hi, Bella," all at once.` → **`And one by one, they say their names.`**
 
-**学校（⑥）**：`"I start school again tomorrow," I say quietly. "I haven't been there in two months."` —— **而一个连名字都记不住男孩放声大笑**（`A boy—Ethan? Efrain? I can’t remember, but it had an E—across the circle lets out a loud guffaw.`）→ `"Oh, man. School? Good luck. It was bad before, it'll be bad again. Just try to get through the day. And stay away from the bathrooms."` → `Girl One nods. "I got a UTI after my first week back at school because there wasn't a bathroom I could go in where people weren't doing something."` → `"I just do online school now… My life now is like, microscopic."`
+**学校（⑥）**：`"I start school again tomorrow," I say quietly. "I haven't been there in two months."` —— **而一个连名字都记不住男孩放声大笑**（`A boy—Ethan? Efrain? I can’t remember, but it had an E—across the circle lets out a loud guffaw.`）→ `"Oh, man," he says, shaking his head. "School? Good luck. It was bad before, it'll be bad again. Just try to get through the day. And stay away from the bathrooms."` → `Girl One nods. "I got a UTI after my first week back at school because there wasn't a bathroom I could go in where people weren't doing something."` → `"I just do online school now… My life now is like, microscopic."`
 
 **那些要躲起来的人（⑦）**：`"You can't escape the world, though," Beth says. "Not forever. At some point, you have to get back out there and figure out a way to exist."` → **`"No thank you," says the girl primly. "The world is not a good place for me. It wasn't when I was using, and it isn't now that I'm not. I'm better off hiding."`** → `"I'm with her," says another girl. She’s knitting furiously… "My parents didn't stop drinking when I came home. I sit there all night waiting for them to pass out and then I pour out whatever's left over because smelling…"` → **`Everyone nods.`**
 
@@ -132,7 +132,7 @@ source_text: ch42
 
 **而 `My life now is like, microscopic.`（我现在的生活就是，显微尺度。）是本章最准的一个自我描述（⑥）** —— **而它的技术是**用了一个量度词而不是一个形容词**：`microscopic`（显微的）把「小」换算成了「要靠显微镜才看得见」；——**而这一句紧接在她的生活清单之后（`Get up, grab…` 起床，抓起…），也就是说清单在继续，而清单本身成了那个「显微尺度」的证据。**
 
-**读者视角提示**：**`I never leave my house, except for here.`（我除了来这里哪儿都不去。）这一句是本章埋下的那根线** ——**因为 `Beth` 下一段就会接住它（`You can't escape the world, though. Not forever.`），而 ⑦ 里那个说 `I'm better off hiding.`（我躲起来更好。）的女孩就是这句话的完整版；——**也就是说这一章把「躲起来」这个选项摆在了桌上，而它有两个人替它说了话。**
+**读者视角提示**：**`I never leave my house, except for here.`（我除了来这里哪儿都不去。）这一句是本章埋下的那根线** ——**因为 `Beth` 下一段就会接住它（`You can't escape the world, though, … Not forever.`），而 ⑦ 里那个说 `I'm better off hiding.`（我躲起来更好。）的女孩就是这句话的完整版；——**也就是说这一章把「躲起来」这个选项摆在了桌上，而它有两个人替它说了话。**
 
 ### ⑦
 

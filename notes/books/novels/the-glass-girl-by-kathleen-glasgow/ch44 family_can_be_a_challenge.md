@@ -168,7 +168,7 @@ source_text: ch44
 
 **为什么这样写**：**这一段是全书唯一一次父亲的立场被一句他自己的话完整说破（⑧）。** —— `"It's my house," my dad says firmly. "I had a long day. I just want a beer and to hang out with my kids, is that so wrong? I'm not the one with the problem, and I don't, technically speaking…"`（**「这是我家，」爸爸坚定地说。「我今天过得很累。我就想喝罐啤酒、跟我的孩子们待一会儿，这有过分吗？有问题的那个人不是我，而且严格来说我也不……」**）—— **而这一整句的技术是**一个反问加一个自我免责，而这两样东西被装进了同一口气**；**而最后那个省略号是这一段最重的一处**：他把「我也不需要戒」这半句咽了回去，而**这一章她父亲两次提到「问题」（③ `Rehab. Like you're a house that needs work.` 与这里），两次都没有说完自己那一份。**
 
-**而 `Dan` 这个名字是全书第一次由 `Vanessa` 当面叫出（⑧）** —— `"Dan," Vanessa says, turning to the kitchen.`（**「`Dan`（丹），」`Vanessa` 转向厨房说。**）—— **而这个名与 `Leeahey`（`Bella Leahey`）是她这一晚听到的三个名字里的两个**：**`Bella`（父亲与 `Ricci` 叫的）／`Belly`（`Hoyt` 叫的）／`Bella Leahey`（她自己在 ch43 试探着说的）／`Dan`（她父亲的）**；**——也就是说她今晚在这个家里最不缺的就是名字。**
+**而 `Dan` 这个名字是全书第一次由 `Vanessa` 当面叫出（⑧）** —— `"Dan," Vanessa says, turning to the kitchen.`（**「`Dan`（丹），」`Vanessa` 转向厨房说。**）—— **而这个名与 `Leahey`（`Bella Leahey`）是她这一晚听到的三个名字里的两个**：**`Bella`（父亲与 `Ricci` 叫的）／`Belly`（`Hoyt` 叫的）／`Bella Leahey`（她自己在 ch43 试探着说的）／`Dan`（她父亲的）**；**——也就是说她今晚在这个家里最不缺的就是名字。**
 
 **而那三处「没有笑」是这一段最冷的调度（⑧）** —— `He winks, like he's making a joke.`（**他眨了眨眼，像在开玩笑。**）→ **`But no one laughs.`**（**可是没有人笑。**）→ `Hoyt looks at the floor. Ricci is glued to the television.`（**`Hoyt` 看着地板。`Ricci` 目不转睛地盯着电视。**）—— **而这三句的技术是**一个玩笑、一次集体沉默、然后两个各自移开视线的动作**；**而 `Ricci is glued to the television`（`Ricci` 目不转睛地盯着电视）里的 `glued`（粘住）是这一段唯一一个不属于任何人的动作——也就是说这个七岁的孩子是这一整场争执里唯一找到出口的人。**
 
@@ -254,7 +254,7 @@ source_text: ch44
 
 ## 本章词汇
 
-**母题计数**（**全章范围**）：**全章 199 段 / 18,167 字节 / 3 处 `—` 分节**｜0 处 U+00AD／0 处 U+2009｜**心脑对唱 2 组，而这是全书唯一一次立场对调**（② `My brain:`／`Me:` ／ ⑨ `My heart:`／`My brain:`）｜**一个绰号两次被拒**（⑩ `Can you not call me Belly anymore?` ／对照 ch04 `I don't like it when you call me that, Hoyt`）｜**酒被清点了两次**（③ `A beer bottle on the counter.` → `Actually, two. And a few in the sink.` ／ ⑦ `He's holding a bottle of wine and a twelve-pack of beer.`）｜**两个动作是全书最轻的转折**（③ `I swallow.` ／ ⑦ `My stomach drops.`——各一个独立成段的短句）｜**一处署名**（⑫ `—Tracy`）｜**一段手机对话在原文里是无引号的无标记行**（⑬ `Hey` / `Bye` / `Okay.` 各自独立成行）
+**母题计数**（**全章范围**）：**全章 199 段 / 18,167 字节 / 3 处 `—` 分节**｜0 处 U+00AD／0 处 U+2009｜**心脑对唱 2 组，而这是全书唯一一次立场对调**（② `My brain:`／`Me:` ／ ⑨ `My heart:`／`My brain:`）｜**一个绰号两次被拒**（⑩ `Can you not call me Belly anymore?` ／对照 ch04 `I don't like it when you call me that, Hoyt`）｜**酒被清点了两次**（③ `A beer bottle on the counter.` → `Actually, two. And a few in the sink.` ／ ⑦ `He's holding a bottle of wine and a twelve-pack of beer.`）｜**两个动作是全书最轻的转折**（③ `I swallow.` ／ ⑦ `My stomach drops.`——各一个独立成段的短句）｜**一处署名**（⑫ `—Tracy`）｜**一段手机对话在原文里是无引号的无标记行**（⑫ `Hey` / `Bye` / `Okay.` 各自独立成行）
 
 **文本层观察（如实记录，不改）**：本章 `text/ch44_family_can_be_a_challenge.txt` 无 U+00AD / U+2009 / U+FFFD / 缺字；12 个引语块与词表 28 条例句已逐条程序化校验（词头逐字在原文、例句为原文子串）。**⑫ 那一段的短信在原文里是无引号的无标记行**（`Hey`／`Yeah.`／`I think so.`／`Okay.`／`Bye` 等各自独立成行），本库 md 一律补上直引号包裹，**每行仍为原文的连续片段**，已逐行程序化核对。
 
@@ -266,10 +266,10 @@ source_text: ch44
 - **`Some…Sometimes you have to lie to save yourself.`（⑩）是 ch42 ⑧ 那个女孩的话**：ch42 `Next to me, Girl Two—Ashley, I think—says, "Just go to school. Keep your head down, do what you can, and protect yourself. …"`——**而本章它是她当晚用到的唯一一件工具，而她用到的那句话距那场会只有两周。**
 - **`candy cane` 全书 4 次，3 次在 ch35、1 次在本章**：ch35 `He's holding out a candy cane.`／`Janet slips the candy cane from his fingers and hands it to me.`／`A candy cane in rehab.`／**本章 ⑫ `Wrapped inside is the candy cane Josh gave me.`**——**而她拿到它时是经 `Janet` 转手的，两章合起来才补上「谁给的」这个信息；而她最终的处理是把它靠在台灯上，不是吃掉。**
 - **`Polaroid` 链在本章收拢**：ch03（`Laurel` 葬礼）／ch13（一整面墙）／ch18（`chapel of Polaroids`）／ch39（扔到脚边）／ch41 ⑩（`I have the Polaroids to prove it`）／**本章 ⑨ 相机＋胶卷＋`—Tracy` 的字条**——而 ch52 `Take the Polaroid.` 与 ch53 `I think I could make a whole diary of the last three months in these Polaroids.` 是它的下游。
-- **`Bart Bingleheimer`（那条狗）第二次出现**（ch41 ⑩ 跳上 `Laurel` 的沙发／本章 ⑬ 摇尾巴、在她床尾嗅）；**而 `one-eared`（缺一只耳朵）的设定在本章 ⑬ 被她自己注意到**（`The place where his other ear was is just a nub.`）。
-- **`Josh` 那条线的兑现**：ch35（他在那十分钟里把号码留给她）／ch42 ③ `Even Josh, who I still haven't texted back.`／ch43 ①–②（`Josh pulled me off her` 的回声）／**本章 ⑬ 是他们第一次真正说话**——而她的第一句是 `Can I talk to you? Like really talk to you?`，而她答的是 `…I miss you.`
-- **本章 ⑬ 那句 `I never got Brandy's or Billy's number because I went into the pen with Charlotte.`（我从来没要到 `Brandy` 或 `Billy` 的号码，因为我跟 `Charlotte` 一起进了那个羊圈。）是 ch38 那夜的直接后果**——**也就是说 ch38 那晚她同时失去了一个人、一次联络、以及自己的清醒，而本章她把三件事第一次写在一起。**
-- **本章之后紧接 ch46**（`Was There a Routine You Liked at Sonoran? Try It at Home.`）——**而 ch46 L13 提到 `He is not a good running partner.` 那个跑步的人就是 `Josh`（`Chuck` 的跑步搭档），因此本章 ⑬ 那句 `Chuck trying to run us to death` 是下一章的引子。**
+- **`Bart Bingleheimer`（那条狗）第二次出现**（ch41 ⑩ 跳上 `Laurel` 的沙发／本章 ⑫ 摇尾巴、在她床尾嗅）；**而 `one-eared`（缺一只耳朵）的设定在本章 ⑫ 被她自己注意到**（`The place where his other ear was is just a nub.`）。
+- **`Josh` 那条线的兑现**：ch35（他在那十分钟里把号码留给她）／ch42 ③ `Even Josh, who I still haven't texted back.`／ch43 ①–②（`Josh pulled me off her` 的回声）／**本章 ⑫ 是他们第一次真正说话**——而她的第一句是 `Can I talk to you? Like really talk to you?`，而她答的是 `…I miss you.`
+- **本章 ⑫ 那句 `I never got Brandy's or Billy's number because I went into the pen with Charlotte.`（我从来没要到 `Brandy` 或 `Billy` 的号码，因为我跟 `Charlotte` 一起进了那个羊圈。）是 ch38 那夜的直接后果**——**也就是说 ch38 那晚她同时失去了一个人、一次联络、以及自己的清醒，而本章她把三件事第一次写在一起。**
+- **本章之后紧接 ch46**（`Was There a Routine You Liked at Sonoran? Try It at Home.`）——**而 ch46 L13 提到 `He is not a good running partner.` 那个跑步的人就是 `Josh`（`Chuck` 的跑步搭档），因此本章 ⑫ 那句 `Chuck trying to run us to death` 是下一章的引子。**
 
 ### ⭐⭐⭐ 高级
 
@@ -316,4 +316,4 @@ source_text: ch44
 
 ## 一句话总结
 
-**这一章的标题是「家可能是个难题」，而正文里家是全书唯一一个她必须逃离的地方**——**而她逃出来时身上只有手机和家门钥匙**（⑨ `That's all I need for right now.`），**因为她要先兑现本章那对交换了立场的 `My heart:`／`My brain:`**（⑨）；**而这一晚真正被留下的东西有三样：她父亲那句没说完的 `and I don't, technically speaking…`（⑧）、`Josh` 那句 `…I miss you.`（⑬）、以及一只包在 T 恤里的拐杖糖——**而最后一样东西靠在了台灯上，最末一格是那台她自己按下快门的相机**（⑬ `Aim it toward myself and click.`）。
+**这一章的标题是「家可能是个难题」，而正文里家是全书唯一一个她必须逃离的地方**——**而她逃出来时身上只有手机和家门钥匙**（⑨ `That's all I need for right now.`），**因为她要先兑现本章那对交换了立场的 `My heart:`／`My brain:`**（⑨）；**而这一晚真正被留下的东西有三样：她父亲那句没说完的 `and I don't, technically speaking…`（⑧）、`Josh` 那句 `…I miss you.`（⑫）、以及一只包在 T 恤里的拐杖糖——**而最后一样东西靠在了台灯上，最末一格是那台她自己按下快门的相机**（⑫ `Aim it toward myself and click.`）。

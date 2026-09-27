@@ -8,7 +8,7 @@ source_text: ch19
 
 ## 本章导航
 
-**一句话概括**：**Day One–Seven 全部是适应，本章是第一次失败**——`Tracy` 在两块石头上把她的人生读给她听（`piece you together`），她为一个词（`died`）跟治疗师吵、第一次动手摔碎自己的杯子，而同一天下午她爬上一座山，得出的结论是 `When I was coming up this hill, I hated my parents. Now I hate myself.`
+**一句话概括**：**Day One–Seven 全部是适应，本章是第一次失败**——`Tracy` 在两块石头上把她的人生读给她听（`piece you together`），她为一个词（`died`）跟治疗师吵、第一次动手摔碎自己的杯子，而同一天下午她爬上一座山，得出的结论是 `When I was coming up this hill, I hated my parents, … Now I hate myself.`
 
 **情感弧线位置**：**全书最低点。** 前八章的每一次进步都是「第一次」（第一次开口、第一次举手、第一次自己动、第一次被替她说话、第一次自己记账、第一次看懂别人在变），**本章把「第一次」全部换成「最后一次」**：`You flipped out. I didn't think you had it in you.`（`Nick`）、`I would not know this existed.`（她对山顶那段风景的评语）。而弧线的最低处是那句 `I'm not a whole person.`（我不是一个完整的人）。
 
@@ -68,7 +68,7 @@ source_text: ch19
 
 **关键词**：How long were you lying to her / I'm sorry? I didn't lie. I just didn't tell her / lied by omission / you didn't tell her about your drinking / when she passed, correct
 
-**为什么这样写**：**一场关于定义的争夺，而它的胜负在她还没开口时就已经判定了。** Bella 的辩护是 `I didn't lie. I just didn't tell her.`（我没撒谎。我只是没告诉她。）——**两个分句，只差一个 `just`，而 `just`（只是）是她全书标记「把大事说小」的那个词**（ch08 `It's just so hard` ／ ch15 `I just want to be called Bella` ／ ch18 `if I can just figure out the right ones`）。**`Tracy` 的判词只有三个实词：`lie` / `omission`，中间夹一个介词 `by`**（你是用隐瞒的方式撒谎） ——**而这一句的结构是全书她第一次遇到的：她无法拆它。`lie` 与 `omission` 都是实义词，`by` 把它们连成一个法律概念，而这个概念没有音节可拆。**
+**为什么这样写**：**一场关于定义的争夺，而它的胜负在她还没开口时就已经判定了。** Bella 的辩护是 `I didn't lie. I just didn't tell her.`（我没撒谎。我只是没告诉她。）——**两个分句，只差一个 `just`，而 `just`（只是）是她全书标记「把大事说小」的那个词**（ch08 `I just want to disappear.` ／ ch15 `I just want to be called Bella` ／ ch18 `if I can just figure out the right ones`）。**`Tracy` 的判词只有三个实词：`lie` / `omission`，中间夹一个介词 `by`**（你是用隐瞒的方式撒谎） ——**而这一句的结构是全书她第一次遇到的：她无法拆它。`lie` 与 `omission` 都是实义词，`by` 把它们连成一个法律概念，而这个概念没有音节可拆。**
 
 `Tracy` 接下来的两句是**递进的证据清单**：`You didn't tell her about the boyfriend, you didn't tell her about your drinking.`（你没告诉她男朋友的事，没告诉她你喝酒的事。）——**两个平行的 `you didn't tell her about`，第二个比第一个重得多，而作者不加重任何标记**。而最后那个 `and then later, when she passed, correct—`（然后后来，等她走了，对吧——）**用破折号切在半空**：**这是本章第二次词被谈判（第一次是 ②），而这一次谈的是 `passed`，Bella 上一段刚拒绝过的那个词。** `Tracy` 在被纠正之后**又用了一次**，而且这一次是在列举的末尾——**而末尾正是 ① 里 `and then she died` 所在的位置。**
 
@@ -206,4 +206,4 @@ source_text: ch19
 
 ## 一句话总结
 
-Day Eight 是前八章里**第一次失败**：`Tracy` 用一份档案（`piece you together`）把她的这一生读完，她为一个词（`died`）跟治疗师吵、用 `I just didn't tell her` 顶回 `You lied by omission.`、搬出 `Adults give them to you:` 那份清单，最后在 `I would. I would. To shut you off in my head.` 之后**摔碎了自己的咖啡杯**——而她的第一反应是 `Please don't give me a demerit. Please.` 跪在碎片上时她念了 ch14 的那四个鸟名，**念完第一次问了 `Is that the right order? Does it matter?`（工具第一次失效，作者不给解释）**；同一天下午她爬上一座山，被喊的是 `Leahey` 而不是 `Bella`，在半山腰想通 `So I stopped being a bother and became better. I built a better Me.`，在半山腰的另一半想不通 `I'm not a whole person. I'm just random flaps of flesh stapled together to resemble a person on the outside.`；山顶上她说出 `When I was coming up this hill, I hated my parents. Now I hate myself.`，`Chuck` 回她一句 `What's your excuse?`，她答 `You're an asshole.`；全章最后停在她在淋浴间 `biting my shoulder to make them not so loud`，以及两个不是疑问的 `I wonder`——**第二个问的是：如果她从来不是个 `sweet girl`（ch11 里 `Laurel` 溺亡前对她说的那个词），也从来没喝下第一口酒。**
+Day Eight 是前八章里**第一次失败**：`Tracy` 用一份档案（`piece you together`）把她的这一生读完，她为一个词（`died`）跟治疗师吵、用 `I just didn't tell her` 顶回 `You lied by omission.`、搬出 `Adults give them to you:` 那份清单，最后在 `I would. I would. To shut you off in my head.` 之后**摔碎了自己的咖啡杯**——而她的第一反应是 `Please don't give me a demerit. Please.` 跪在碎片上时她念了 ch14 的那四个鸟名，**念完第一次问了 `Is that the right order? Does it matter?`（工具第一次失效，作者不给解释）**；同一天下午她爬上一座山，被喊的是 `Leahey` 而不是 `Bella`，在半山腰想通 `So I stopped being a bother and became better. I built a better Me.`，在半山腰的另一半想不通 `I'm not a whole person. I'm just random flaps of flesh stapled together to resemble a person on the outside.`；山顶上她说出 `When I was coming up this hill, I hated my parents, … Now I hate myself.`，`Chuck` 回她一句 `What's your excuse?`，她答 `You're an asshole.`；全章最后停在她在淋浴间 `biting my shoulder to make them not so loud`，以及两个不是疑问的 `I wonder`——**第二个问的是：如果她从来不是个 `sweet girl`（ch11 里 `Laurel` 溺亡前对她说的那个词），也从来没喝下第一口酒。**

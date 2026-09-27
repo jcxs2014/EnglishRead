@@ -82,7 +82,7 @@ source_text: ch20
 
 **而那个比喻是十一岁孩子的：不是酒的味道，是形状。** `it looked like melted candy`（看起来像融化的糖）——**注意方向：她看见的是酒像糖，不是糖像酒**；**而下一句 `Something sweet for my best girl.`（给我的好姑娘一点甜的。）里的 `sweet` 与 `candy` 与 `best girl` 三个词把「甜」从味道改成了身份**——**祖母给的不只是一杯甜的液体，是一句把她定义成「好姑娘」的话。**
 
-**这一段真正的技术在结尾的三个 `Like`：**
+**这一段真正的技术在结尾连着三个 `like`（后两个大写起句，首个嵌在句中）：**
 - `it felt like I had "arrived" somehow.`（感觉上我好像终于「到了」什么地方。）
 - `Like I'd come home.`（像是我回到了家。）
 - `Like I finally knew what normal felt like.`（像我终于知道正常是什么感觉了。）
@@ -115,7 +115,7 @@ source_text: ch20
 
 **关键词**：the photographs she took of you / you don't want to claim them / why you don't call that curator back about Laurel's archives / You must have your reasons / you didn't like that your childhood was on display / I get that / and I hope you aren't ashamed
 
-**为什么这样写**：**一个女儿替母亲辩护，而辩护的落点是羞耻——她指控的对象是她自己。** `claim them`（认领它们）——**`claim`（认领）这个词选得极准：照片是祖母拍的，但被拍的人是母亲，所以「认领」的是母亲与自己的关系**；而全段的两个 `beautiful` 构成了一个对称：`I think they are so beautiful.`（我觉得它们美极了。）→ `they were beautiful, and you were beautiful,`（它们很美，而你也很美，）——**第二个 `beautiful` 把主语从照片换成了人，而这是全段唯一一次她直接称赞母亲。**
+**为什么这样写**：**一个女儿替母亲辩护，而辩护的落点是羞耻——她指控的对象是她自己。** `claim them`（认领它们）——**`claim`（认领）这个词选得极准：照片是祖母拍的，但被拍的人是母亲，所以「认领」的是母亲与自己的关系**；而全段的三个 `beautiful` 构成了一个对称：`I think they are so beautiful.`（我觉得它们美极了。）→ `they were beautiful, and you were beautiful,`（它们很美，而你也很美，）——**第三个 `beautiful` 把主语从照片换成了人，而这是全段唯一一次她直接称赞母亲。**
 
 **而辩护的技术是三步让步，全部用最短的句子：** `You must have your reasons.`（你一定有你的理由。）→ `Maybe you didn't like that your childhood was on display.`（也许你不喜欢自己的童年被摆出来。）→ `I get that.`（我理解。）——**三句合起来是一个标准的「先承认对方有理由，再说出自己的推测，再表示接受」的结构，而作者让它看起来像是随口的**。**注意 `on display`（被摆出来）这个词的选择：她没有说 `exposed`（被暴露），用的是 `on display`（被展示）——**展示是有观众的行为，暴露是受害，而她选了前者，因为她要论证的是母亲的**品味**，不是母亲的**创伤**。**
 

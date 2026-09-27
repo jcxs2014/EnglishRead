@@ -14,7 +14,7 @@ source_text: ch34
 
 **人物弧线**：她在本章做了三件事，全部是第一次：① **第一次听见自己的事在别人嘴里成为「要死了吗」**（④）——`Ricci` 的问题不是「你为什么住院」，而是「你会不会死」，而这个误解是父母造的（`Mommy said you're on a school trip, but school is out, Bella.`）；② **第一次以「不在场的大人」身份向家里下指令**（⑥⑦），而她的手段是**把一件具体到可执行的小事交出去**（`Staple some rings, glue them, I don't care.`）——**她没有要求父亲来，没有要求父亲解释，她只要求一棵树**；③ **第一次在挂断之后比挂断之前更难受**（⑧）——`I pick up the beanbag and rip it to shreds.` 这不是一个发怒的动作，**这是一个把好消息也一并毁掉的动作**。
 
-**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **5,162 字节 / 52 段**。**结构是「一扇门 + 两只手」**：门是 `Seg` 门（`There's a knock at the Seg door.`），两只手是 `Ricci` 的和 `Dad` 的——**而第三章才是本章真正的转折：那一段里她不再说话，`Janet` 开口**。**本章的三个「独立成段」全部出现在情绪的转折点上**：`Being alone can really do a number on you.` ／ `A thousand knives pierce my body.` ／ `And I'm stuck in this room.`
+**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **5,162 字节 / 52 段**。**结构是「一扇门 + 两只手」**：门是 `Seg` 门（`There's a knock at the Seg door.`），两只手是 `Ricci` 的和 `Dad` 的——**而本章的 ⑧ 才是真正的转折：那一段之后她不再说话，`Janet` 开口**。**本章的三个「独立成段」全部出现在情绪的转折点上**：`Being alone can really do a number on you.` ／ `A thousand knives pierce my body.` ／ `And I'm stuck in this room.`
 
 ## 故事梗概
 
@@ -42,7 +42,7 @@ source_text: ch34
 
 **挂断（⑦）**：`"Bella, listen—"` → `"No, I'm not going to listen.` + **`because I'm currently in a locked room for god knows how long. Do your job, goddammit.`** → `Before I hang up, I add, "Merry Christmas."` → `I hand the phone back to Janet. My hands are shaking.` → `"Well done," she murmurs. "I liked that sign-off."` → `"Well," I say, "he is my dad."` → **`She smiles.`**
 
-**第三章才是本章的转折（⑧）**：`"I don't understand how she got that number," I say. "She's seven. How would she get the number if they told her I was on a school field trip?"` → `Janet hesitates.` → `"It sounds like there are some issues with your dad, and we don't need to go into that? I kind of got the gist by your very one-sided conversation, but you should know…he calls here every day."` → `"Pretty much every day. He doesn't ask to talk to you. He knows you probably won't talk to him, I guess. But he just wants to know how you are. Good day, bad day, okay day, eating all right, that sort of stuff."`
+**而 ⑧ 那一块才是本章的转折**：`"I don't understand how she got that number," I say. "She's seven. How would she get the number if they told her I was on a school field trip?"` → `Janet hesitates.` → `"It sounds like there are some issues with your dad, and we don't need to go into that? I kind of got the gist by your very one-sided conversation, but you should know…he calls here every day."` → `"Pretty much every day. He doesn't ask to talk to you. He knows you probably won't talk to him, I guess. But he just wants to know how you are. Good day, bad day, okay day, eating all right, that sort of stuff."`
 
 **而本章的收尾是一份用第二人称写的清单（⑧）**：`My dad couldn't reschedule a meeting to come see me, but he calls every day. My dad and mom lied to my little sister and she thought I was going to die. One friend did die, the other almost, and I think I punched Charlotte at least three times before Josh pulled me off her.` → **`And I'm stuck in this room.`** → **`I pick up the beanbag and rip it to shreds.`**
 
@@ -188,7 +188,7 @@ source_text: ch34
 
 **关键词**：I don't understand how she got that number / She's seven / Janet hesitates / there are some issues with your dad, and we don't need to go into that? / I kind of got the gist by your very one-sided conversation / he calls here every day / Good day, bad day, okay day, eating all right, that sort of stuff / Frustrated tears spring to my eyes / She looked in his phone, and he saved it with your name / My dad couldn't reschedule a meeting to come see me, but he calls every day / I think I punched Charlotte at least three times before Josh pulled me off her / And I'm stuck in this room / I pick up the beanbag and rip it to shreds
 
-**为什么这样写**：**本章的真正转折发生在第三章，而它的技术是**把说话权从她手里拿走**。** 前两章里每一次信息都是她说给 `Janet` 听的（`She's seven.`／`I don't understand how she got that number`），而这一章里她连问了两次 `What?` 之后，`Janet` 开始说她必须说的事——**而 `Janet` 的第一句话是关于她父亲的：`It sounds like there are some issues with your dad, and we don't need to go into that?`（听起来你爸爸那边有些问题，我们就不深入了？）**
+**为什么这样写**：**本章的真正转折发生在 ⑧，而它的技术是**把说话权从她手里拿走**。** 而 ⑧ 那两句都还是她在说、说给 `Janet` 听（`She's seven.`／`I don't understand how she got that number`），而这一章里她连问了两次 `What?` 之后，`Janet` 开始说她必须说的事——**而 `Janet` 的第一句话是关于她父亲的：`It sounds like there are some issues with your dad, and we don't need to go into that?`（听起来你爸爸那边有些问题，我们就不深入了？）**
 
 **而 `Janet hesitates.`（`Janet` 犹豫了一下。）独立成段，是这一段唯一的犹豫** —— **而这一段的其余部分，`Janet` 全程没有再犹豫：她讲了打电话的频率（`Pretty much every day.`）、讲了为什么不要求通话（`He knows you probably won't talk to him, I guess.`）、讲了通话的内容（`Good day, bad day, okay day, eating all right, that sort of stuff.`），最后讲了 `That's probably how she got the number.`**
 

@@ -90,7 +90,7 @@ source_text: ch39
 
 **关键词**：Someone picked her up a few hours ago. It wasn't her family / Charlotte didn't care about you / You were a sport to her / Today was your day twenty-nine and Charlotte did you dirty / I burst into tears / Giant, slobbery, snot-from-the-nose tears / Giant, gut-wrenching, shame-filled sobs / I had twenty-nine days / Charlotte didn't do me dirty. I did myself dirty / You'll meet more people in life like that / Sometimes we don't see it right away, but we learn / You're fifteen. You're just beginning at life
 
-**为什么这样写**：**这一段是全书最重要的一次「主语替换」，而它的技术是**只换主语、不换句子**（④）。** —— `I had twenty-nine days. Charlotte didn't do me dirty. I did myself dirty.`（我有二十九天。`Charlotte` 没把我弄脏。是我把自己弄脏的。）—— **而这三句的技术是**第二句与第三句的谓语几乎相同**（`didn't do me dirty` vs `did me dirty`），差别只在**主语**与**那个否定词**；因此作者用一次替换完成了全书最重要的一次归因——而这个归因不需要任何新词。** ——**而它紧跟在 `Tracy` 那句 `Charlotte did you dirty`（④）后面：也就是说**先由别人把责任扣在她身上，再由她自己把责任拿回来**。
+**为什么这样写**：**这一段是全书最重要的一次「主语替换」，而它的技术是**只换主语、不换句子**（④）。** —— `I had twenty-nine days. Charlotte didn't do me dirty. I did myself dirty.`（我有二十九天。`Charlotte` 没把我弄脏。是我把自己弄脏的。）—— **而这三句的技术是**第二句与第三句的谓语几乎相同**（`didn't do me dirty` vs `did myself dirty`），差别只在**主语**与**那个否定词**；因此作者用一次替换完成了全书最重要的一次归因——而这个归因不需要任何新词。** ——**而它紧跟在 `Tracy` 那句 `Charlotte did you dirty`（④）后面：也就是说**先由别人把责任扣在她身上，再由她自己把责任拿回来**。
 
 **而 `You were a sport to her.`（你对她来说是一个玩物。）是全书对 `Charlotte` 最狠的一句定性（④）** —— **而它的技术是**一个词同时是名词与动词**：`sport` 在这里是名词（玩物），而它同时暗含 `to sport with`（拿…取乐）的动词义；因此这一句不需要任何解释就把一个人降成了一件消遣。**
 

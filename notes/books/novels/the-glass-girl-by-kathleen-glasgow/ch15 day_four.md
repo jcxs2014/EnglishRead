@@ -58,7 +58,7 @@ source_text: ch15
 
 **关键词**：learning a whole new language / Invalidate / Safe space
 
-**为什么这样写**：**三个词被单独列在一行，而它们是同一行里唯一被排出来的东西。** 它们的来处是官方的：`Charlotte raises her hand.`（举手抢答）后 `She kind of singsongs it.`（用唱腔说）——**「安全空间」这句台词是被表演出来的，不是被相信的**；`Lara` 补的那条 `Talk over other people, invalidate their emotions and experiences.`（抢话、无效化别人的情绪与经验）更精确。作者让 Bella 听见这些词之后**自己复述一次并评价**：`I feel like I'm learning a whole new language in this place.`——**她知道这是新语言，也知道自己还不会说。** 而本章结尾正是她第一次尝试用新语言说话（见 ⑪）。
+**为什么这样写**：**三个词被单独列在一行，而它们是同一行里唯一被排出来的东西。** 它们的来处是官方的：`Charlotte raises her hand.`（举手抢答）后 `She kind of singsongs it.`（用唱腔说）——**「安全空间」这句台词是被表演出来的，不是被相信的**；`Lara` 补的那条 `Talk over other people, invalidate their emotions and experiences.`（抢话、无效化别人的情绪与经验）更精确。作者让 Bella 听见这些词之后**自己复述一次并评价**：`I feel like I'm learning a whole new language in this place.`——**她知道这是新语言，也知道自己还不会说。** 而本章结尾正是她第一次尝试用新语言说话（见 ⑩）。
 
 **读者视角提示**：`invalidate`（无效化）这个词在 ch15 之后会被反复用到——**而她 8 月在派对上被三个人说「太多」时，那正是她被 invalidate 的现场**（ch10）。**她现在学到的第一课，就是别人用来对她做的那件事的名字。**
 
@@ -98,7 +98,7 @@ source_text: ch15
 
 ⚠️ **写作侧记录**：这一行**手打必错**（U+00AD 打不出来，中文理解里译这串会失控）——**本文用占位符从 `text/` 程序化注入，注入前后各验一次字节。**
 
-**读者视角提示**：`Phil` 在此刻说的话是 `Focus. You can do this.`（专注。你能做到）——**成年人与少女用的是同一种语言：短句命令**。
+**读者视角提示**：`Phil` 在此刻说的话是 `"Focus," Phil says softly. "You can do this."`（专注。你能做到）——**成年人与少女用的是同一种语言：短句命令**。
 
 ### ⑦
 
@@ -144,7 +144,7 @@ source_text: ch15
 
 **关键词**：Ages / into the dark room / Fifteen / you're a baby / Never snitch
 
-**为什么这样写**：**熄灯后的这一场是本章唯一没有监督的场，而它的组织者是 `Gideon`。** 她在黑暗里发起的游戏把两个数字绑在一起：`Everybody say how old you are. And how many times you've done this.`（说你几岁，以及你做过几次）——**而`Charlotte` 立刻用一句反问揭穿它的功能**：`How on earth do you get sent to the nutbin on accident?`（你到底怎么会**意外**进戒毒所？），`Gideon` 的回答是 `Put your pillow over your head. Don't be a drag.`（把枕头盖头上，别扫兴）——**游戏规则在这一句里已经改掉了**。轮到 Bella 时她给的是本章最短的答案（`Fifteen,`），而 `Charlotte` 的反应不是嘲笑年龄，是**`you're a baby`（你是个小婴儿）**——**这个标签在十一句台词之后变成了一句话**（见 ⑪ 与本章最后一句）。
+**为什么这样写**：**熄灯后的这一场是本章唯一没有监督的场，而它的组织者是 `Gideon`。** 她在黑暗里发起的游戏把两个数字绑在一起：`Everybody say how old you are. And how many times you've done this.`（说你几岁，以及你做过几次）——**而`Charlotte` 立刻用一句反问揭穿它的功能**：`How on earth do you get sent to the nutbin on accident?`（你到底怎么会**意外**进戒毒所？），`Gideon` 的回答是 `Put your pillow over your head. Don't be a drag.`（把枕头盖头上，别扫兴）——**游戏规则在这一句里已经改掉了**。轮到 Bella 时她给的是本章最短的答案（`Fifteen,`），而 `Charlotte` 的反应不是嘲笑年龄，是**`you're a baby`（你是个小婴儿）**——**这个标签在十一句台词之后变成了一句话**（见 ⑩）。
 
 **而 `Never snitch.` 是全书到目前为止第一条被明确立下的「规矩里的规矩」**——**它不出自成年人**（`Lara`／`Fran`／`Phil`／`Chuck` 都不在场），**出自一个刚被全员嘲过的女孩**。作者让本章的制度（`Refrain from…` 印在手册上）与宿舍的实际规则（`Never snitch.`）并置，**而后者更有约束力**——`Charlotte` 说完这句就 `whispers`（低声），**规矩的音量低于规矩的内容**。
 

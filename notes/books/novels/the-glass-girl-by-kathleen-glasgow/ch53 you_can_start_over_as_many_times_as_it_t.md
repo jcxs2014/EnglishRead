@@ -8,13 +8,13 @@ source_text: ch53
 
 ## 本章导航
 
-**一句话概括**：**这是全书的高潮，而它的技术是**把一个「我」钉成一堵墙**——`Carefully, I tack them to the walls in chronological order and then stand back and look at them.`（我小心地把它们按时间顺序钉在墙上，然后退后一步看着它们。）——**而那一堵墙的三站是**：从外婆的一台相机（① `Her large-format 8x10" camera.`）到她自己对着镜头的那一次（④ `"I'm an alcoholic."`）到**一个陌生人说的四个字**（⑤ `I'm not inexperienced with addiction myself.`）；**而全章的最后一个动作是**把镜头对准自己**（⑥ `Because I don't want to be a watercolor. I don't want to wash off, or away.` / `Click.`）
+**一句话概括**：**这是全书的高潮，而它的技术是**把一个「我」钉成一堵墙**——`Carefully, I tack them to the walls in chronological order and then stand back and look at them.`（我小心地把它们按时间顺序钉在墙上，然后退后一步看着它们。）——**而那一堵墙的三站是**：从外婆的一台相机（① `Her large-format 8x10" camera.`）到她自己对着镜头的那一次（④ `"I'm an alcoholic."`）到**一个陌生人说的四个字**（⑤ `I'm not inexperienced with addiction myself.`）；**而全章的最后一个动作是**把镜头对准自己**（⑤ `Because I don't want to be a watercolor. I don't want to wash off, or away.` / `Click.`）
 
 **情感弧线位置**：**弧线的顶点，也是全书唯一一个「好」的结局**。弧线的位置因此是**ch52 那张纸之后的下一个上午**——**而它的技术是**把 ch50 ④ `Dawn` 说的那句 `You have to reset the clock. Start over.`（你得把钟重置。重新开始。）变成一整章的标题**（`You Can Start Over as Many Times as It Takes.`）。**注意本章的标题本身就是一个从句的主语**（`as many times as it takes`——需要多少次就是多少次）——**也就是说这本书的最后一个标题不是一句断言，是一句让步。**
 
-**人物弧线**：① **第一次把自己的照片钉成一幅有时间顺序的东西**（② `There's the story of me.`）——**而这一句的技术是五个词，而它是全书她对自己下的唯一一次定义**；② **第一次把 `I'm an alcoholic.` 说给一个不认识她的人**（④）——**而 `It sounds weird, saying that out loud, for the first time, really, to anyone.`（把那句话真地说出口、对任何一个人说，是第一次，说起来很怪。）这一句是全书那句诊断的第四次出现，而这一次它是**被别人听见**的**；③ **第一次拒绝变成一种会消失的东西**（⑥ `I don't want to be a watercolor.`）——**而这一句接的是 ch51 ① `José` 背的那两句诗**。
+**人物弧线**：① **第一次把自己的照片钉成一幅有时间顺序的东西**（② `There's the story of me.`）——**而这一句的技术是五个词，而它是全书她对自己下的唯一一次定义**；② **第一次把 `I'm an alcoholic.` 说给一个不认识她的人**（④）——**而 `It sounds weird, saying that out loud, for the first time, really, to anyone.`（把那句话真地说出口、对任何一个人说，是第一次，说起来很怪。）这一句是全书那句诊断的第四次出现，而这一次它是**被别人听见**的**；③ **第一次拒绝变成一种会消失的东西**（⑤ `I don't want to be a watercolor.`）——**而这一句接的是 ch51 ① `José` 背的那两句诗**。
 
-**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **4,917 字节 / 42 段**。**结构是「四站」**：① 阁楼里的外婆的箱子 ② 墙上那面 `Polaroid` ③ 作业的构想 ④ `Clara Comstock` 与那四个词 ⑤ 外婆的二十岁 ⑥ 最后一张。**而本章的形式上有一个特点：全章只有一个人称的「我」的自我陈述是完整的两句**（⑤ `Each one contributes to the whole story of me as written so far.` / `I am too much, too little, too bruised, starry-eyed, scared, wren sparrow roadrunner quail,`）——**而这第二句里嵌着全书那四个鸟名。**
+**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **4,917 字节 / 42 段**。**结构是「四站」**：① 阁楼里的外婆的箱子 ② 墙上那面 `Polaroid` ③ 作业的构想 ④ `Clara Comstock` 与那四个词 ⑤ 外婆的二十岁 ⑤ 最后一张。**而本章的形式上有一个特点：全章只有一个人称的「我」的自我陈述是完整的两句**（⑤ `Each one contributes to the whole story of me as written so far.` / `I am too much, too little, too bruised, starry-eyed, scared, wren sparrow roadrunner quail,`）——**而这第二句里嵌着全书那四个鸟名。**
 
 ## 故事梗概
 
@@ -114,7 +114,7 @@ source_text: ch53
 
 **而最后三句是全书最重要的一次「不」（⑤）** —— `One day.`（**总有一天。**）→ `But for now, I reach into my backpack and slip out my Polaroid, position it in front of me.`（**但现在，我把手伸进背包，掏出我的拍立得，把它摆在我面前。**）→ **`Because I don't want to be a watercolor. I don't want to wash off, or away.`**（**因为我不想变成一张水彩画。我不想晕掉，也不想被洗掉。**）→ **`Click.`**（**咔哒。**）—— **而 `One day.` 独立成段，而它的技术是**它接住了前面那句 `and one day I hope…`（而我希望有一天…）里的时间词，把它单独拎出来放在段末**；**——而 `But for now`（但现在）这三个词与 ① 那句 `But for now, I put it away.`（但现在，我先把它放回去。）是同一组词，而两次的方向相反**：**一次是放回外婆的相机，一次是掏出自己的。**
 
-**而 `Because I don't want to be a watercolor.` 这一句是 ch51 ① 那两句诗的回声（⑤）** —— ch51 ① `I am a watercolor / I wash off.`（我是一张水彩画／我会晕开。）——**而本章这一句的技术是**把那两个陈述句变成一个否定句**，**并且把 `I wash off`（我会晕开）拆成 `wash off`（晕掉）与 `wash away`（被洗掉）两个**；**——而 `Click.` 这一个词是全书最后一个字，而它的技术是**它是一个拟声词、一个不及物动词、零个主语、零个宾语、句号**——**也就是说这本书以一个声音结束，而不是以一句话结束。**
+**而 `Because I don't want to be a watercolor.` 这一句是 ch51 ① 那两句诗的回声（⑤）** —— ch51 ① `I am a watercolor / I wash off.`（我是一张水彩画／我会晕开。）——**而本章这一句的技术是**把那两个陈述句变成一个否定句**，**并且把 `I wash off`（我会晕开）拆成 `wash off`（晕掉）与 `away`（被洗掉）两个**；**——而 `Click.` 这一个词是全书最后一个字，而它的技术是**它是一个拟声词、一个不及物动词、零个主语、零个宾语、句号**——**也就是说这本书以一个声音结束，而不是以一句话结束。**
 
 **读者视角提示**：**`Click.` 与 ch40 ⑥ 那句 `I do not blink.`（而我没有眨眼。）是一组（⑤）** ——ch40 那是她第一次**正面看镜头**（`I look right into the lens`），而本章这一个字是她第一次**自己按下快门**；**——而 ch44 ⑬ 那句 `Aim it toward myself and click.`（把它对准我自己，然后按下快门。）是本章这一句的预告**，**——也就是说这本书里那台相机被送出去（ch44）→ 被写进日程（ch52）→ 在这一章第一次自己用（本章），一共用了四章。**
 

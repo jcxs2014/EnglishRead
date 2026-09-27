@@ -22,11 +22,11 @@ source_text: ch22
 
 然后是本章第一次权力翻转（见 ②）：`Charlotte comes out with a big bag in her arms, staggering a little under its weight.` + `Don't have a cow.` + `She giggles. Something's weird about her face, somehow.`，接着 `Gideon yanks the bag from Charlotte's arms.`，`Charlotte` 骂 `Cool it,` she tells Gideon, her voice sharp. `Just chill.`（见 ②）——**三个短句的对话里，谁是发号施令的那个被换掉了。** `Tracy` 拎着两杯咖啡来叫 `Ready? It's time.`，`Charlotte` 接 `It's time for emotional vomiting!`，`Brandy`/`Bella` 走开时 `Two peas in a pod, Charlotte mutters under her breath`。
 
-分节之后换地方：`We don't sit on the boulder this time.`（**全书她第一次不在那块石头上**）——`She walks us farther, to a cluster of mesquite trees. There's a cement bench beneath one.`。`Tracy` 带来消息（见 ③）：`Your mother called me. And your father.` → `She said you don't want them to come for parents day.` → `Actually, I'm not.`（她的计划）→ `If you don't want them here, they don't come here. This place is for you, not them.`（见 ③）。
+分节之后换地方：`We don't sit on the boulder this time.`（**全书她第一次不在那块石头上**）——`She walks us farther, to a cluster of mesquite trees. There's a cement bench beneath one.`。`Tracy` 带来消息（见 ③）：`Your mother called me, … And your father.` → `She said you don't want them to come for parents day.` → `Actually, I'm not.`（她的计划）→ `If you don't want them here, they don't come here. This place is for you, not them.`（见 ③）。
 
 **然后是本章真正的内容**（见 ④）：`I look over at the goat pen in the distance. Gideon is leading Holly around gently, helping her toss feed.` → `I hesitate. I should tell Tracy about Holly. I should tell her. Holly could really hurt herself.` → `Gideon glances in our direction. Ever so slightly, she shakes her head.` → `I look down at the coffee cup in my hand.` → `I can't tell.` → `Is there something on your mind, Bella?` → `No, I say quickly.`（**本章的中央动作是一次不说。**）而她的理由是两句话（见 ④ 末）：`Holly doesn't want to go to Seg.` 与 `And didn't Phil say we have to help our friends?` ——**规矩一、规矩二，两条都是别人给的。**
 
-`Tracy` 宣布（见 ⑤）：`This is it, we're done. Standing up to your parents was enough for a little bit, don't you think? We can just sit here and enjoy the morning.`——**而她随即从夹克口袋里掏出一张纸条**（见 ⑥）。结尾两句（见 ⑦）。
+`Tracy` 宣布（见 ⑤）：`This is it," Tracy says. "We're done. Standing up to your parents was enough for a little bit, don't you think? We can just sit here and enjoy the morning.`——**而她随即从夹克口袋里掏出一张纸条**（见 ⑥）。结尾两句（见 ⑦）。
 
 ## 精读
 
@@ -108,7 +108,7 @@ source_text: ch22
 
 **而结尾的 `Oh, and I have this for you.`（哦对了，我还有这个给你。）** ——**`Oh, and`（哦对了）是一种「补一句」的语气，而它引出的是本章最后一件事：一个陌生人打来的电话。** 作者用一个语气词把「治疗结束」和「有人想着你」放在同一个句子里——**而这两个转折都是「但是式」的：一个从坏消息转到坏消息，一个从坏消息转到好消息。**
 
-**读者视角提示**：**`for a little bit`（够撑一阵子）这个短语是本章唯一一次有人暗示她会变，而 `Tracy` 用一个问号把这个暗示递给了她，作者没让她回答——紧接着就跳到 `Oh, and I have this for you.`** 换句话说：**治疗师宣布结束的方式，是在她最需要治疗的那一天；而这一天唯一一次她真的需要说的话（④ 的 `Holly could really hurt herself.`）在四段之前已经被她自己挡掉了。** 值得注意的是本章她与 `Tracy` 的三次交互全部很短：`Is something on your mind, Bella?`（⑥ 前的 ④）／`No, I say quickly.`／`A friend of yours?`——**而 ch19 那场会谈里她说了那么多，ch22 她一个字也没说出口。**
+**读者视角提示**：**`for a little bit`（够撑一阵子）这个短语是本章唯一一次有人暗示她会变，而 `Tracy` 用一个问号把这个暗示递给了她，作者没让她回答——紧接着就跳到 `Oh, and I have this for you.`** 换句话说：**治疗师宣布结束的方式，是在她最需要治疗的那一天；而这一天唯一一次她真的需要说的话（④ 的 `Holly could really hurt herself.`）在四段之前已经被她自己挡掉了。** 值得注意的是本章她与 `Tracy` 的三次交互全部很短：`Is there something on your mind, Bella?`（⑥ 前的 ④）／`No, I say quickly.`／`A friend of yours?`——**而 ch19 那场会谈里她说了那么多，ch22 她一个字也没说出口。**
 ### ⑥
 
 > "In quotation marks, it says \"Hi, I just wanted to tell you I was thinking of you. We don't really know each other that well, but I've been places, too, and I just wanted you to know that.—Dawn.\" … \"A friend of yours?\" Tracy says. \"They aren't on the call list, so we couldn't put you on. But we took the message. Is this a good thing? Or someone we should be aware of?\" … \"Yes,\" I say. \"It's cool. I know her.\""

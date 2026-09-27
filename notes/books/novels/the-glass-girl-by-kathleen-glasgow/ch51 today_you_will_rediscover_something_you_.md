@@ -8,13 +8,13 @@ source_text: ch51
 
 ## 本章导航
 
-**一句话概括**：**这一章的全部内容是把一张沙发从一个房间搬到另一个房间，而它的结尾是一盘棋**——开头是外婆的遗物（`beautiful velvet pouches filled with vintage jewelry`／`the last words we made gone forever`），中间是**两个人在门框里互相卡住**（`It takes a lot of time and maneuvering for us to get it into the hallway`），而最后是母亲说出这一章真正的台词（⑤ `I was a little jealous, you know, that you two spent so much time together and got on so well.`）**以及一个称谓**（⑤ `I want to play some Scrabble with my daughter.`）
+**一句话概括**：**这一章的全部内容是把一张沙发从一个房间搬到另一个房间，而它的结尾是一盘棋**——开头是外婆的遗物（`beautiful velvet pouches filled with vintage jewelry`／`the last words we made gone forever`），中间是**两个人在门框里互相卡住**（`It takes a lot of time and maneuvering for us to get it into the hallway`），而最后是母亲说出这一章真正的台词（③ `I was a little jealous, you know, that you two spent so much time together and got on so well.`）**以及一个称谓**（③ `I want to play some Scrabble with my daughter.`）
 
 **情感弧线位置**：**弧线从「停学」到「重新认领一样东西」**。弧线的位置因此是**ch49–ch50 那一夜之后的第一个白天**——**而这一章的时间点由她母亲的一句话给出**（② `Technically, I'm supposed to be doing schoolwork while I'm on suspension`）——**也就是说她还在停学期间，而这一章里她做的事完全不是作业。**
 
-**人物弧线**：① **第一次主动要求把一样死者的东西搬进自己房间**（③ `I think I want this in my room.`）——**而这一句的宾语是「这张沙发」，也就是 ch41 ⑩ 她刚进门时 `I stop short when I see it`（我一看到它就停住了）的那一张**；② **第一次听见母亲的嫉妒**（⑤）——**而这一句的技术是 `I was a little jealous, you know`（我有点嫉妒，你知道吗）里的 `a little`（一点）**；③ **第一次被她母亲称作「女儿」**（⑤ `I want to play some Scrabble with my daughter.`）——**而这一句是全书她与母亲之间最正面的一个称呼，而它的前面一句是承认嫉妒。**
+**人物弧线**：① **第一次主动要求把一样死者的东西搬进自己房间**（③ `I think I want this in my room.`）——**而这一句的宾语是「这张沙发」，也就是 ch41 ⑩ 她刚进门时 `I stop short when I see it`（我一看到它就停住了）的那一张**；② **第一次听见母亲的嫉妒**（③）——**而这一句的技术是 `I was a little jealous, you know`（我有点嫉妒，你知道吗）里的 `a little`（一点）**；③ **第一次被她母亲称作「女儿」**（③ `I want to play some Scrabble with my daughter.`）——**而这一句是全书她与母亲之间最正面的一个称呼，而它的前面一句是承认嫉妒。**
 
-**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **3,448 字节 / 25 段**。**结构是「三段遗物 → 一场搬运 → 一盘棋」**：① 遗物清点（含 `José` 的诗）② 停学与逃学 ③ 搬沙发 ④ 气味 ⑤ 母亲的话与那盘棋。**而这一章最值得学的一处技术是 ③ 的 `It takes a lot of time and maneuvering…`（那花了很多时间与搬弄……）**——**作者用一句被动语态把一场两个人做的重活写成了一件"事情"**。
+**叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **3,448 字节 / 25 段**。**结构是「三段遗物 → 一场搬运 → 一盘棋」**：① 遗物清点（含 `José` 的诗）② 停学与逃学 ③ 搬沙发 ④ 气味 ③ 母亲的话与那盘棋。**而这一章最值得学的一处技术是 ③ 的 `It takes a lot of time and maneuvering…`（那花了很多时间与搬弄……）**——**作者用一句被动语态把一场两个人做的重活写成了一件"事情"**。
 
 ## 故事梗概
 
@@ -92,12 +92,12 @@ source_text: ch51
 
 ## 本章词汇
 
-**母题计数**（**全章范围**）：**全章 25 段 / 3,448 字节 / 0 处 `—` 分节**｜0 处 U+00AD｜**一段两行的诗**（① `I am a watercolor / I wash off.`——**本章标题所指的三样东西之一，也是 ch53 那一章的收尾**）｜**一处地名**（① `the Upper East Side`——**本书仅此一次**）｜**一次搬运写了三行**（③ `maneuvering`／`me pushing and her pulling`／`angle it through my doorway`）｜**一个称谓**（⑤ `my daughter`）｜**4 个引语块**（全书众数 8；ch33 为 5、ch46／ch47 为 4）
+**母题计数**（**全章范围**）：**全章 25 段 / 3,448 字节 / 0 处 `—` 分节**｜0 处 U+00AD｜**一段两行的诗**（① `I am a watercolor / I wash off.`——**本章标题所指的三样东西之一，也是 ch53 那一章的收尾**）｜**一处地名**（① `the Upper East Side`——**本书仅此一次**）｜**一次搬运写了三行**（③ `maneuvering`／`me pushing and her pulling`／`angle it through my doorway`）｜**一个称谓**（③ `my daughter`）｜**4 个引语块**（全书众数 8；ch33 为 5、ch46／ch47 为 4）
 
 **文本层观察（如实记录，不改）**：本章 `text/ch51_today_you_will_rediscover_something_you_.txt` 无 U+00AD / U+2009 / 缺字；8 个引语块与词表 20 条例句已逐条程序化校验（词头逐字在原文、例句为原文子串）。**① 里那两句诗在原文里是两行、用斜杠连接**（`I am a watercolor / I wash off.`）——照录未改。
 
 **跨章对账**（**已 grep 全书核实，非本章可独证**）：
-- **拼字游戏这条线在本章走到第 5 站，而它的形式是「东西在，人不在」**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we survive.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）**／**本章 ① `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`**（游戏本身在箱子里，而最后拼出的那些词永远消失了）／**本章 ⑤ 两个人真的下了一盘**（`I want to play some Scrabble with my daughter.`）——**也就是说这一章是这条线唯一一次真的下了一盘棋。**
+- **拼字游戏这条线在本章走到第 5 站，而它的形式是「东西在，人不在」**：ch20 起源／ch22／ch31 `Let's do it when we get back. If we survive.`／**ch41 ⑤ `Our last Scrabble game on the kitchen table—`（那盘游戏连同那张桌子一起没了）**／**本章 ① `In the last box, I find our Scrabble game, everything neatly put away, the letters mixed together and the last words we made gone forever.`**（游戏本身在箱子里，而最后拼出的那些词永远消失了）／**本章 ③ 两个人真的下了一盘**（`I want to play some Scrabble with my daughter.`）——**也就是说这一章是这条线唯一一次真的下了一盘棋。**
 - **那两句诗在 ch53 被她自己接住**：本章 ① `I am a watercolor / I wash off.`（`José` 背诵的那一小段）／**ch53 `Because I don't want to be a watercolor. I don't want to wash off, or away.`**——**而 ch53 那一章的最后一个动作是 `Click.`（按下快门。），也就是说她用一个不会晕开的动作回应了那两句诗。**
 - **外婆的相机在本章 ① 是照片里的方盒子，在 ch53 是实物**：本章 ① `a boxy-looking camera strapped around her chest`（胸前斜挂着一台方方正正的相机）／**ch53 `At the bottom of the trunk, I found it, wrapped in a thick blue wool blanket. Her large-format 8x10" camera.`**——**而本章这一句的照片与 ch53 那一件实物之间的差别是：一个在别人身上，一个在箱底。**
 - **① 那个 `don't be a snitch`（别当告密的人）是 `Gideon` 与 `Charlotte` 两个人共同提供的规矩**——**而 `Gideon` 在 ch49 ⑦ 的清单里（`Holly and Gideon.`）刚出现过，而 ch50 ⑤ 那一章把 `Holly` 的死因与自伤分开**；**——也就是说本章这一句是这两条线最后一次同时在场。**

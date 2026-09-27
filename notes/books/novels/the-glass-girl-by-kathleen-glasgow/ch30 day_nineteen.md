@@ -118,7 +118,7 @@ source_text: ch30
 
 **而她的拒绝紧跟在同一个句号之后，而它的结构是一次对称：** `I don't feel that way about you, but I understand if you feel that way about me.`（我对你没有这种想法，但我理解如果你对我有这种想法。）—— **而这一句的两个分句是同一句话的镜像：前半是「我对你的感觉」，后半是「你对我的感觉」；前半用 `I don't feel`，后半用 `I understand if you feel`——一个是「不觉得」，一个是「理解」，而 `that way`（那种想法）在两句里各出现一次，指向的正是她刚刚引用的那件事。** ——**因此全章最重要的一次动作是：她引用了一句会让自己放手的规则，然后逐字地把它还给了写信的那个人。**
 
-**而这一段的收尾是 ch27 那一晚的续写，而这一次的处理方式不同：** ch27 她对 `Holly` 的消失用了三个括号里的旁白（`(They're coming back, don't take those.)`）**；而本章她对 `Amber` 可能不回的这件事是用一句许可句处理的**（`It's all right if you don't write back.`）——**对照 ch19 那次她对 `Tracy` 说的是 `And you have to let them go.` 的反面版本，而本章她说的是它的反面：`It's all right if you don't write back.`（你不回也没关系。）——**同一个人、同一天内，ch29 她对 `Tracy` 摔门抗议的那句话，ch30 她在信里引用了并说「我对朋友不这样」。**
+**而这一段的收尾是 ch27 那一晚的续写，而这一次的处理方式不同：** ch27 她对 `Holly` 的消失用了三个括号里的旁白（`(She's coming back, don't take those.)`）**；而本章她对 `Amber` 可能不回的这件事是用一句许可句处理的**（`It's all right if you don't write back.`）——**对照 ch19 那次她对 `Tracy` 说的是 `And you have to let them go.` 的反面版本，而本章她说的是它的反面：`It's all right if you don't write back.`（你不回也没关系。）——**同一个人、同一天内，ch29 她对 `Tracy` 摔门抗议的那句话，ch30 她在信里引用了并说「我对朋友不这样」。**
 
 **读者视角提示**：**而这一段与 ② 是本章两条最重要的线，而它们的共同点是都用了 `might`／`maybe` 与「我可能错了」的结构** ——② `there might be a problem` ／ ⑤ `might have ruined our friendship forever` ／ ⑥ `I'm still not sure exactly what that means`——**这三处 `might` 是全书她在这一章里唯一允许自己不确定的地方，而它们全部出现在一封不会被交给收信人的信里。**
 
@@ -134,7 +134,7 @@ source_text: ch30
 
 **而第二行附言是本章的时间结构，而它的技术是三个「不确定」被两个 `maybe`／`someday` 框住：** `I'm going to make Fire tomorrow.`（我明天要过 Fire。）—— **而这一句是全章唯一一句关于未来的断言，而它的宾语是 `Fire` 这个她不懂的名词**（ch29 她说过 `whatever exactly that is`，ch30 又说 `I'm still not sure exactly what that means`）——**而同一个 `exactly` 在两章里出现两次，而两次都接在 `not sure` 后面。** 紧跟的 `I'm still not sure exactly what that means, but maybe someday I can tell you about it.` —— **`still`（还是）再一次出现（对照 ② 的 `I still don't think I am an addict`），而这一次的 `someday`（有一天）是一个承诺，而它是本章唯一一个正向的将来时承诺——而它承诺的内容是「讲这件事」，不是「不喝」。** ——**而 `but maybe someday I can tell you about it`（但也许有一天我能告诉你这件事）这句话在结构上与 ch26 `Holly` 向她要的那句承诺完全对应**（`You haven't said, she says quietly. "Like, how that happened."` → `Someday I will, I tell her. "I promise."`）——**也就是说：她在 ch26 向一个女孩承诺「总有一天我会说」，而本章她向一个不在这里的人承诺「也许有一天我能告诉你」。**
 
-**读者视角提示**：**而 `P.P.S.` 是全书唯一被标记的附言形式**（`P.S.` 出现在 48 章，而 `P.P.S.` 只出现在 ch19／ch25／**本章**／ch39）——**因此这一封信是全书第四封双附言的信；而 ch25 那封的 `P.P.S.` 之后是 `Fran` 站起来念诗（见 ⑧ 的 ch28 引用），ch19 那封的 `P.P.S.` 之后是她砸杯子。** **换句话说：三次双附言分别接在「一个大人开口讲自己的事」之前、「她砸东西」之后、「一个将要通过的考验」之前——而本章这一次接在前面的是她本章唯一一次承认自己「可能有个问题」。**
+**读者视角提示**：**而 `P.P.S.` 是全书唯一被标记的附言形式**（`P.S.` 出现在 48 章，而 `P.P.S.` 只出现在 ch19／ch25／**本章**／ch39）——**因此这一封信是全书第四封双附言的信；而 ch25 那封的 `P.P.S.` 之后是 `Fran` 站起来念诗（见 ⑥ 的 ch28 引用），ch19 那封的 `P.P.S.` 之后是她砸杯子。** **换句话说：三次双附言分别接在「一个大人开口讲自己的事」之前、「她砸东西」之后、「一个将要通过的考验」之前——而本章这一次接在前面的是她本章唯一一次承认自己「可能有个问题」。**
 
 ## 本章词汇
 

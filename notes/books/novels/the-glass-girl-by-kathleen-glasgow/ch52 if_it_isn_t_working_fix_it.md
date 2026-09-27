@@ -10,9 +10,9 @@ source_text: ch52
 
 **一句话概括**：**这一章是一张纸，而它的技术是**把一件家庭用品摆上餐桌**——开头是两句台词（`The rules,` she says. `Tracy says we need clear rules.`），中间是二十一行日程（`Wake up.`／`Go for a run. Take Bart.`／`Take the Polaroid.`／`Go to group.`／`Journal for twenty minutes.`／`Repeat as needed.`），而最后两句是全书最克制的一次评价（③ `That's a lot of rules,` I say. ／ `My mother shrugs.` ／ `It's what we have to try.`）
 
-**情感弧线位置**：**弧线从「把沙发搬进来」到「被规定怎么活」**。弧线的位置因此是**ch51 那盘棋之后的下一个早晨**——**而这一章与 ch41 ⑪ 那一章的红笔日历是同一个动作的两次**（ch41 `She has my whole week in red pen. A scheduled life.`／本章 `Repeat as needed.`）。**注意本章的规则来源被点名了两次**（① `Tracy says we need clear rules.`／④ `There are friends in there, and things to do.`）——**也就是说这一章的日程表不是母亲写的，是 `Tracy` 写的。**
+**情感弧线位置**：**弧线从「把沙发搬进来」到「被规定怎么活」**。弧线的位置因此是**ch51 那盘棋之后的下一个早晨**——**而这一章与 ch41 ⑪ 那一章的红笔日历是同一个动作的两次**（ch41 `She has my whole week in red pen. A scheduled life.`／本章 `Repeat as needed.`）。**注意本章的规则来源被点名了两次**（① `Tracy says we need clear rules.`／③ `There are friends in there, and things to do.`）——**也就是说这一章的日程表不是母亲写的，是 `Tracy` 写的。**
 
-**人物弧线**：① **第一次对着一张纸说「这是规定」（③ `That's a lot of rules,` I say.）**——**而这一句的技术是**一个形容词加一个名词，没有一个情绪词**；② **第一次听见母亲承认自己也不喜欢这张纸的某一部分**（④ `I don't understand the Polaroid thing, exactly, though.`）——**而这一句是全书母亲第一次对她的一件东西表示不理解**；③ **第一次被一条规则威胁回到过去**（② `If you fail this test, you go back to rehab.`）——**而这一行在原文里是**夹在两行善意的规则中间**的一行。
+**人物弧线**：① **第一次对着一张纸说「这是规定」（③ `That's a lot of rules,` I say.）**——**而这一句的技术是**一个形容词加一个名词，没有一个情绪词**；② **第一次听见母亲承认自己也不喜欢这张纸的某一部分**（③ `I don't understand the Polaroid thing, exactly, though.`）——**而这一句是全书母亲第一次对她的一件东西表示不理解**；③ **第一次被一条规则威胁回到过去**（② `If you fail this test, you go back to rehab.`）——**而这一行在原文里是**夹在两行善意的规则中间**的一行。
 
 **叙事手法**：单视角（Bella）＋ **0 处 `—` 分节**＋ 0 处 U+00AD ＋ **1,312 字节 / 30 段**——**这是 ch33（425 字节）之后全书最短的一章，也是全书唯一一个「主体是一张纸」的章节**。**结构是「两句台词 → 二十一行纸 → 两句台词」**，而**全章 30 段里有 21 段是纸上的一行，而它们被拆成 ① 与 ② 两块**。**引语块数用 4 个**（ch33 为 5、ch46／ch47／ch51 为 4、全书众数 8）。
 
