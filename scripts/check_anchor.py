@@ -142,7 +142,9 @@ def words_of(phrase):
         glossed = bool(m)
         if m:
             part = part[:m.start()] + ' ' + part[m.end():]
-        for w in re.findall(r"[a-z][a-z'-]{1,}", norm(part)):
+        # 与 toks 同一分词形状（2026-09-26）：两侧必须用同一种词元，否则
+        # 关键词侧的 sad' / ring-o'-roses 与引语侧切法不一致 → 全书查无假红
+        for w in re.findall(r"[a-z]+(?:['-][a-z]+)*", norm(part)):
             if w in STOP or len(w) <= 2:
                 continue
             if w.endswith("'s") or w in ("n't", "'s"):

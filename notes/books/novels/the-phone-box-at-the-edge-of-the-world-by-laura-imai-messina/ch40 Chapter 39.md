@@ -61,7 +61,7 @@ modified: "2026-09-26"
 
 中文理解：风猛地刮起来，卷起一堆落叶；附近什么地方一扇窗砰地关上，一只狗叫了。这些声音像一层升起的雾，为女孩的隐私遮上面纱。
 关键词：The wind blew vigorously, a mist rising, veil the girl’s privacy
-为什么这样写：环境的音效组队上岗——风、叶、窗、犬同时出声，恰好盖过亭内的唇动：世界在这时是共谋，自动给沉默的孩子拉上帘子；"veil privacy"把噪音写成礼节。
+为什么这样写：环境的音效组队上岗——风、叶、窗、犬同时出声，恰好盖过亭内的唇动：世界在这时是共谋，自动给沉默的孩子拉上帘子；"veil the girl’s privacy"把噪音写成礼节。
 读者视角提示：这就是风之电话的终极声学：它播出去的声音没有内容显示，亭外的世界只听见"有人在说"。
 
 > **原句 8:** "She stared at Hana’s outline, which occupied little more than half of the glass squares her father’s did. Another ten years or so and she’d catch him up."

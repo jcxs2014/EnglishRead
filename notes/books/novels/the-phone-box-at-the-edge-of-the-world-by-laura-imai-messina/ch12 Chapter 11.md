@@ -33,7 +33,7 @@ modified: "2026-09-26"
 
 中文理解：每年有成千上万的人来到 Bell Gardia，与失去的人说话。
 关键词：Thousands of people, every year, the people they had lost
-为什么这样写：一句宏观陈述突然拉开景深——Yui 的私痛在此并入朝圣的人流；"speak to"而非"pray for"：动词坚持了风之电话的对话性，死者是受话人，不是祈祷对象。
+为什么这样写：一句宏观陈述突然拉开景深——Yui 的私痛在此并入朝圣的人流；"speak to"而非 pray for：动词坚持了风之电话的对话性，死者是受话人，不是祈祷对象。
 读者视角提示：这是本书唯一一处给"共同体"定量的句子：山上这座亭子，是国家规模悲伤的日常出口。
 
 > **原句 4:** "‘A man once told me that death is a very personal thing …’ Suzuki-san said. ‘To some extent, we try to build our lives exactly like everybody else’s. But not death. Everyone reacts to death in their own way …’"

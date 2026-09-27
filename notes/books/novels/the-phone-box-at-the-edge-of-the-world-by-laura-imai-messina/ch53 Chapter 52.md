@@ -25,7 +25,7 @@ modified: "2026-09-26"
 > **原句 2:** "… it confines the present to a minority status in relation to the future, which always has to be better, with more resources, more means, more instruments … and yet this model, which, for our listener, Matsumoto-san from Shizuoka, is capitalism in its purest form, is not … is not sustainable anymore."
 
 中文理解："……它把当下贬成了相对于未来的少数派——未来必须更好，要有更多资源、更多手段、更多工具……可这个模型，对我们的听众、静冈的松本女士来说，就是最纯粹形式的资本主义，它已经……已经难以为继了。"
-关键词：confining the present, a minority status, not sustainable anymore
+关键词：confines the present, a minority status, not sustainable anymore
 为什么这样写：她把增长崇拜判成时间暴力——"当下"被迫成为未来的仆从；口吃的复述（is not … is not）暴露她不是学者而是亲历者：这个论断在山上有一座坟场作证据。
 读者视角提示：这就是风之电话的世界观宣言：不停留在"更好的未来"里的通话——每一次都只为"现在"而打。
 

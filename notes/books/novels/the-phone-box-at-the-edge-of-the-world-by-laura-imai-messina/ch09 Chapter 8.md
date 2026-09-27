@@ -27,7 +27,7 @@ modified: "2026-09-26"
 中文理解："表扬的次数要比批评多一次，周六早上一起做松饼，他们喊'看'的时候要真的看。"
 关键词：Praise, pancakes together, look when they say "Look"
 为什么这样写：三条秘诀从统计（次数＋一）滑向仪式（周六松饼）再滑向注意力（真的去看）；"plus one"的算术感最动人——育儿被量化成一个永远偏向爱的余数。
-读者视角提示："look when they say Look"是三则中最轻也最重的一条：回应孩子的召唤，就是让他们确认自己在世界上有回声。
+读者视角提示："look when they say “Look”"是三则中最轻也最重的一条：回应孩子的召唤，就是让他们确认自己在世界上有回声。
 
 > **原句 3:** "‘Take them to the park to run around every day, hug them hard when they have a tantrum, don’t take them to toy shops so you don’t have to say no.’"
 

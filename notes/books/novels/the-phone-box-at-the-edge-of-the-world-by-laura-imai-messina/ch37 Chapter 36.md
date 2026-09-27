@@ -24,7 +24,7 @@ modified: "2026-09-26"
 
 > **原句 2:** "Saying ‘Akkanbe! Bero bero be!’ and sticking their tongues out."
 
-中文理解：一边喊"AKKANBE！Bero bero be！"一边互相吐舌头。
+中文理解：一边喊"Akkanbe! Bero bero be!"一边互相吐舌头。
 关键词：Akkanbe! Bero bero be!, sticking their tongues out
 为什么这样写：把民俗鬼脸原音保留（本书 Glossary 专为此设词条）——pulling down one eyelid + 吐舌的顽皮仪式在母女间是接暗号；拟声词的节奏让清单开口出声。
 读者视角提示：翻回书的 Glossary 你会发现 Akkanbe 的官方定义——作者连附录都为这对母女的暗号留了席位。

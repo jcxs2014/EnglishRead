@@ -47,7 +47,7 @@ modified: "2026-09-26"
 
 中文理解：他曾发誓每天都要向亡妻表达爱意，好教孩子们懂得爱。近来他甚至开始害怕：自己正被这场表演说服——借着一个幻想，他真的又爱上了她。
 关键词：express affection … every day, teach his children love, convinced by his own act
-为什么这样写：最诚实的一句婚姻自白——悼念沦为演技，演技反噬真心；"teach children love"的动机崇高，副作用荒诞：假戏真做的爱算不算爱？他的恐惧没有答案。
+为什么这样写：最诚实的一句婚姻自白——悼念沦为演技，演技反噬真心；"teach his children love"的动机崇高，副作用荒诞：假戏真做的爱算不算爱？他的恐惧没有答案。
 读者视角提示：这一段与 Suzuki-san 的"爱像治疗，信则灵"互为镜像：他怕的恰恰是自己终于信了——表演与真心的边界，山上没人划得清。
 
 > **原句 6:** "The end of this sequence – her patching him up and their first kiss, the only one he had ever given a woman who wasn’t his mother – replayed itself night after night, unchanging."

@@ -20,7 +20,7 @@ modified: "2026-09-26"
 中文理解：它看起来很脆弱，好像是用拐杖糖和正在碎裂的蛋白酥做成的。
 关键词：fragile, candy canes, crumbling meringue
 为什么这样写：形容电话亭不用"旧"或"小"，而用两样甜食——甜食自带童话质感，也天然易碎；作者在第一眼就把"亭子＝易碎品＝需要被守护"的等式写进读者眼里。
-读者视角提示：这个比喻为全章定调：Yui 要守的不是一个电话亭，而是某种一碰就碎的东西；下一处"fragility resides in flesh"会反过来戳破它。
+读者视角提示：这个比喻为全章定调：Yui 要守的不是一个电话亭，而是某种一碰就碎的东西；下一处"fragility does not reside in things so much as in flesh"会反过来戳破它。
 
 > **原句 2:** "Yui was untouched by the most basic truth: that fragility does not reside in things so much as in flesh."
 
