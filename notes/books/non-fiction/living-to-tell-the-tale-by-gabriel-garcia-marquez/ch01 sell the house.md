@@ -144,13 +144,13 @@ modified: "2026-09-27"
 
 > **原句 7:** I knew the event as if I had lived it, having heard it recounted and repeated a thousand times by my grandfather from the time I had a memory: the soldier reading the decree by which the striking laborers were declared a gang of lawbreakers; the three thousand men, women, and children motionless under the savage sun after the officer gave them five minutes to evacuate the square; the order to fire, the clattering machine guns spitting in white-hot bursts, the crowd trapped by panic as it was cut down, little by little, by the methodical, insatiable scissors of the shrapnel.
 
-**中文理解**：那件事我知道得仿佛亲身经历过——从记事起，外祖父把它讲了一遍又一遍：士兵宣读命令，宣布罢工者是与社会为伍的不法之徒；三千名男女老幼在烈日下静立，军官给他们五分钟撤出广场；随后是开枪的命令，机枪哒哒地喷吐白热的火舌，人群被恐慌困在原地，被弹片那把有规律、不知餍足的剪刀一点点剪倒。
+**中文理解**：那件事我知道得仿佛亲身经历过——从记事起，外祖父把它讲了一遍又一遍：士兵宣读命令，宣布罢工者是一伙不法之徒；三千名男女老幼在烈日下静立，军官给他们五分钟撤出广场；随后是开枪的命令，机枪哒哒地喷吐白热的火舌，人群被恐慌困在原地，被弹片那把有规律、不知餍足的剪刀一点点剪倒。
 
 **句子结构**：主句给前提（as if I had lived it），冒号后接长列举——用分号把镜头逐个串起（宣读法令 / 人群静立 / 开枪扫射），最后落在 "the methodical, insatiable scissors of the shrapnel" 这个以"剪刀"作喻的收束上。
 
 **关键词**：the decree（命令）、the savage sun（烈日）、scissors of the shrapnel（弹片的剪刀）
 
-**表达方式**：官方数字含混（an undetermined number），感官细节却精确到"五分钟撤离"——用细节的确凿对抗统计的不可考；"insatiable scissors" 把机械屠杀写成一件有意志的工具。
+**表达方式**：母亲转述的死亡数字含混（an undetermined number，见本段引语前一句），感官细节却精确到"五分钟撤离"——用细节的确凿对抗统计的不可考；"insatiable scissors" 把机械屠杀写成一件有意志的工具。
 
 **为什么这样写**：1928 年香蕉工人大屠杀是《百年孤独》的原型事件；在回忆录里它以"听来的记忆"出场（as if I had lived it）——这句话本身就是他文学方法的自白：家族讲了一千遍的事，就是他的亲身经历。
 
@@ -178,7 +178,7 @@ modified: "2026-09-27"
 
 **关键词**：carries inside（带在身上）、opposing（对抗）、one’s health（人的健康）
 
-**表达方式**：医生用医嘱的口吻谈文学天职——vocation 被说成生理事实，反对它等于致病。
+**表达方式**：医生用医嘱的口吻谈文学天职——天职被说成生理事实，反对它等于致病。
 
 **为什么这样写**：这番话是说给母亲听的——巴尔沃萨医生以父辈权威替他解围，把"放弃法学"重写为"服从天性"；母亲 looked at me in slow silence and surrendered to her fate，这场从"Your papá is very sad"开始的拉锯战，在一张午饭桌上被一个外人终结。
 
