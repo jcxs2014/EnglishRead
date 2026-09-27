@@ -21,7 +21,7 @@ modified: "2026-09-27"
 
 接着是全章的中心段。被问"哪本书最先启发了你"，她答不出来，只能说书确实塑造了她（生日与圣诞从不缺书），却记不得哪一本"把我击活"过。**这条脉络是：童年的书（除了带说教味的）→ 大量的言情 → 经 Bronts 与 Jane Austen 抵达经典，"世界就此打开"**。唯一一位"关于写作的话时时在耳"的同行是 Jean Rhys，两句话朴素得不能再朴素："I have to try to get it like it really was"、"You can’t cut too much"。
 
-然后是本卷的**名单**。她最常想到的两个大作家是 James Boswell 与 Byron，**"I love them for their personalities rather than their artistry"**，而且庆幸不必跟他们照面。**Boswell** 之所以不可抗拒，是因为他"始终以激烈的激情想做个好人、不断下狠心立志改、又几乎总是破戒，然后像博物学家记录某种奇特生物那样着迷地诚实地记录这一切"；连他父亲用一趟欧洲旅行换他学法律的那次"胜利"，都把他推到崩溃边缘——而那趟旅行是至福。**Byron** 则相反：早年残缺（不认得父亲、母亲无望、Club foot），因此易于滑入抑郁；他二十四岁一夜成名，三十六岁去世，**最好的信写在流放里**。他称自己的浪漫诗是**安全阀**、并公开否认以此自豪；可这一场危机**诗救不了**。而这些信之所以好，是因为**"he (like Boswell) wrote as he spoke"**——你听得见他的声音，**年代在你俩之间缩小**。她说这件事"既非凡又让人扩容"。
+然后是本卷的**名单**。她最常想到的两个大作家是 James Boswell 与 Byron，**"The two great writers I think about most often I love for their personalities rather than their artistry"**，而且庆幸不必跟他们照面。**Boswell** 之所以不可抗拒，是因为他"始终以激烈的激情想做个好人、不断下狠心立志改、又几乎总是破戒，然后像博物学家记录某种奇特生物那样着迷地诚实地记录这一切"；连他父亲用一趟欧洲旅行换他学法律的那次"胜利"，都把他推到崩溃边缘——而那趟旅行是至福。**Byron** 则相反：早年残缺（不认得父亲、母亲无望、Club foot），因此易于滑入抑郁；他二十四岁一夜成名，三十六岁去世，**最好的信写在流放里**。他称自己的浪漫诗是**安全阀**、并公开否认以此自豪；可这一场危机**诗救不了**。而这些信之所以好，是因为**"he (like Boswell) wrote as he spoke"**——你听得见他的声音，**年代在你俩之间缩小**。她说这件事"既非凡又让人扩容"。
 
 收尾落在搬家：为了住进如今这间小房间，她得扔掉大部分书——"there was never any doubt that Boswell and Byron would have to come with me"。**这就是她给"心爱之书"下的定义：不是最好写的，是最像人的。**
 

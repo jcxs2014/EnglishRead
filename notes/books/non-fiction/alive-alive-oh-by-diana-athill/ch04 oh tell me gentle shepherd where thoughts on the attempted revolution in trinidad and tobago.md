@@ -33,7 +33,7 @@ modified: "2026-09-27"
 | 5 | 森林：瀑、潭、蝶群、fear 消退 | 密集感官与恐惧的处理 |
 | 6 | 先猜 Rousseau 画的森林，随即被自己推翻 | 梦的产地：欧洲的寒冷一侧 |
 | 7 | 村园摘果、fawn cattle、coconut palms；**It was El Dorado.** | 幻觉的来路 |
-| 8 | 快乐别墅的朋友：runs a fishing boat、talk-ins、参与地方生活 | 善意的样板 |
+| 8 | 快乐别墅的朋友：their running a fishing boat、办 talk-ins、参与地方生活 | 善意的样板 |
 | 9 | 穷画家的小屋：油炉、一椅、褪色棉帘、dropsical 与 impetigo | 让贫困落成物件与病名 |
 | 10 | 岛上健康的印象也许靠不住 | 由个案升到全岛判断 |
 | 11 | 祖先役使土地以维持欧洲梦；`two-legged livestock to work at no cost` | 剥削机制 |

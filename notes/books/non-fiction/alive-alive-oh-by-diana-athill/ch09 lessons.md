@@ -131,7 +131,7 @@ modified: "2026-09-27"
 
 **关键词**：has plunged innumerable couples into（已把无数伴侣推进）、disappointing, sometimes disastrous, marriages（失望的、有时是灾难性的婚姻）、a man choosing to murder his wife（一个男人选择杀死他的妻子）、rather than see her prefer the company of another man（而不是眼看她宁可与另一个男人来往）、even well short of such an extreme result（即便远未到那种极端结果）、a great deal of distress and pain（大量的痛苦）
 
-**表达方式**：**为抽象名词配具体案例，而不是为案例配抽象名词**——"invaluable…lessons"这类说法是空的，这里她给了一个可想象的名词（murder）。**rather than see her prefer …** 用"宁可杀死也不愿看到"这个结构，把占有欲写成了嫉妒的极端化。**even well short of** 是降级预告：不必到杀人那么极端，就已经够疼了。
+**表达方式**：**为抽象名词配具体案例，而不是为案例配抽象名词**——"valuable lessons"这类说法是空的，这里她给了一个可想象的名词（murder）。**rather than see her prefer …** 用"宁可杀死也不愿看到"这个结构，把占有欲写成了嫉妒的极端化。**even well short of** 是降级预告：不必到杀人那么极端，就已经够疼了。
 
 **为什么这样写**：**抽象教训的说服力全部来自这一段。** 第③段的"甚至致命"若没有紧随其后的这个案例，就只是耸动；而她随即自己降级（even well short of such an extreme result），说明她不靠极端案例吓人，**她要的是覆盖度**：绝大多数时候是持续的痛苦，极少数时候是杀人。**把两级后果并排放，等于把"浪漫主义"从一种审美偏好改写成一种风险来源。** 这也解释了为什么她后面要为保留那段激情辩护——她并不是在浪漫和冷静之间二选一，她是在追问**由哪一条教训来承担后果**。
 ### ⑤
