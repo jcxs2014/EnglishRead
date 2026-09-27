@@ -331,7 +331,7 @@ modified: "2026-09-27"
 
 1. **档案式开篇**：`Today Lawrence leaves for Africa. I know he is leaving and where he is going because…` —— 零冠词 Today + 三个短句
 2. **先拆框架再进内容**：`as if that were somehow easier to do than making everything up` —— as if + 虚拟过去式
-3. **定语从句里降格立场**：`the ones who know there is no difference among A or B or C, between D and E` —— among / between 按项数分用
+3. **定语从句里降格立场**：`the ones who know there is no difference among autobiography, biography, fiction or non-fiction, between stories and real life.` —— among / between 按项数分用
 4. **机制化的环境描写**：`deliberately badly lit so that customers will let down their guards… so that they won’t want to leave` —— 两个 so that + 五个形态各异的动词结构
 5. **`only` 作为唯一反证**：`as if it cost him little to say this, only a hesitation giving him away`
 6. **靠语法清空内容**：`I knew he would say he does` —— does 代替整个不定式，被省略的正是「爱」

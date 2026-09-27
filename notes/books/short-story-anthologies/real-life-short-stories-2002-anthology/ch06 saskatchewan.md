@@ -8,7 +8,7 @@ modified: "2026-09-27"
 
 ## 本篇导航
 
-**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 6 篇）。首见于 `Canadian Fiction` 杂志第 80 期（1992），题名不同。
+**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 6 篇）。版权页（`epub_cop_r1.htm`）载：`“Saskatchewan” appeared in a different form in Canadian Fiction magazine, no. 80, 1992.`——即**以另一种形态**刊于 `Canadian Fiction` 第 80 期（1992）；版权页未说明「另一种形态」具体为何（是否另题、是否节选均无据），故不作题名断言。
 
 **篇幅**：31,727 字符 / 330 句（`extract_chapters.py` 与 `verify_corpus.py` 原始输出）。
 
@@ -349,5 +349,5 @@ modified: "2026-09-27"
 8. **把思维习惯写成穿戴物**：`which she wears as armour in the city` —— 于是可以被「脱下」（`slowly deserts her`）
 9. **存在句取消责任人**：`that, for me, there was no choice` —— that 从句转 there be
 10. **日常习语做文学批评**：`head and shoulders better than the others`
-11. **自我更正**：`what I knew about books, I mean, about writing them`
+11. **自我更正**：`what I knew What I knew about books, I mean, about writing them` —— 照录源文本的重复词（见文首「源文本瑕疵」条），不代为修正
 12. **方向相反的一组动词**：`plunge downward` / `an unexpected answering surge` —— 下坠召唤上升

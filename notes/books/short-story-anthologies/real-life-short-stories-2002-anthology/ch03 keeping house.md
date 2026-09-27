@@ -8,7 +8,7 @@ modified: "2026-09-27"
 
 ## 本篇导航
 
-**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 3 篇）。首见于 `Story` 杂志（1995 春，题作 *Acts of Love*）。
+**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 3 篇）。**版权页（`epub_cop_r1.htm`）的「先前发表」清单只列三篇（Postmodernism / Saskatchewan / Random Acts），不含本篇** ⇒ 本篇无版权页可考的先前发表记录，不作首见处断言。
 
 **篇幅**：21,515 字符 / 287 句（`extract_chapters.py` 与 `verify_corpus.py` 原始输出）。结构为**一个来回**：Beth 从家坐巴士进城看女儿，次日同处一室，清晨的对话，返程。
 

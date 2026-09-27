@@ -132,6 +132,13 @@ modified: "2026-09-27"
 
 **句子结构**：两个极短的引语句。首句 `“Relief is so close,” the pastor crooned.` —— `the pastor crooned` 是**引述语**，动词 `croon`（低吟、哄孩子般地轻声说）后**不带任何宾语**。次句是**祈使句**（`Join us.`），无主语。两个句子构成**宣告 → 召唤**的组合，且宣告句用比较结构 `so + adj.`（`Relief is so close`）。
 
+**关键词**：
+- *Relief is so close* — 解脱就在眼前；so + 形容词
+- *the pastor crooned* — 引述语；crooned 后不带宾语
+- *crooned* — 低吟；哄孩子入睡的调子
+- *Join us.* — 祈使句；无主语
+- *so + adj.* — 比较结构（句式记法）
+
 **表达方式**：`crooned`（低吟）是本篇最重的单个词——它把一个成年男性对成年女性的说话方式写成**哄孩子入睡的调子**。而 `Relief`（解脱）这个词的选择极其精确：不是安全（safety）、不是得救（salvation），是**不再需要承受**。末句 `Join us.` 只有两个词，把整段煽动收成一次**日常邀请**。
 
 **为什么这样写**：这一句是本篇的**转轴**， Astrid 的反应紧接其后：`A rush of some powerful emotion had begun to move through her`，而她**想不起那是什么情绪**（`She didn’t know what the emotion was, where it had come from`）。作者不写她被打动，只写她的身体先动了（`his very flesh, his voice, his scent` 联想的是 Donald），而**她认不出这份激动属于死者还是属于眼前人**。这一句因此同时是诱惑与哀悼，二者在句法上无法区分。

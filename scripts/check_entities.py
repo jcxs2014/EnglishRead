@@ -76,11 +76,20 @@ def whitelist(book_dir):
     return extra
 
 def extract_synopses(txt):
-    """返回 [(章节号, 梗概段文本)]——兼容 故事梗概 / 本章导航 两类标题。"""
+    """返回 [(章节号, 梗概段文本)]——兼容 故事梗概 / 本章导航 / 本篇导航 三类标题。
+
+    ⚠️ 2026-09-27 五步审查（Real Life Butala）新增 `本篇导航`：短篇合集与部分
+    一次一佳作书用 `## 本篇导航`，此前不在口径内 ⇒ `check_entities` 对这批文件
+    **抽出 0 个梗概段却照报「0 个文件存在未知实体」**（真空绿）。全库实测：
+    `## 本篇导航` 32 个文件 / 3 本书（Best British Short Stories 2023、
+    real-life-short-stories-2002-anthology、the-passing-of-the-dragon-by-ken-liu），
+    而 `## 本章导航` 7589 个文件 —— 即本条口径漏掉的是少数派书型，但漏掉时
+    门禁**静默通过**，比报错更危险。
+    """
     out = []
     cur_num, buf, in_syn = None, [], False
     num_pat = re.compile(r'^#+\s*(\d+[\.\s]|Prologue|Epilogue)', re.I)
-    syn_pat = re.compile(r'^##\s*(故事梗概|本章导航|梗概)')
+    syn_pat = re.compile(r'^##\s*(故事梗概|本章导航|本篇导航|梗概)')
     head_pat = re.compile(r'^##\s')
     for line in txt.splitlines():
         hm = head_pat.match(line.strip())

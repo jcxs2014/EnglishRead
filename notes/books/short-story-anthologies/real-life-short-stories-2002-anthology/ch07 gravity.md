@@ -10,7 +10,7 @@ modified: "2026-09-27"
 
 ## 本篇导航
 
-**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 7 篇）。注意篇名与版权页记载的题名不同（原题 *Acts of Love*）。
+**出处**：《Real Life: Short Stories》，Sharon Butala 著（本书第 7 篇）。**版权页（`epub_cop_r1.htm`）的「先前发表」清单只列三篇（Postmodernism / Saskatchewan / Random Acts），不含本篇**；清单里「题作 *Acts of Love*」一条属 **Random Acts**，与本篇无关，故不作篇名差异的断言。
 
 **篇幅**：26,255 字符 / 331 句（`extract_chapters.py` 与 `verify_corpus.py` 原始输出）。
 
@@ -33,7 +33,7 @@ modified: "2026-09-27"
 
 - **Louisa** — 叙述者；`Louisa’s husband of twenty-five years`（Nick）。
 - **Nick** — 丈夫；`he’s expecting a complaint from her eventually`。
-- **Pat（Degler，婚前 Garrett）** — 遭家暴；父母 `Jug Garrett`（父亲，酒后死于车祸）与 `Dorothy Garrett`（母亲）；前任 Walt Woodhouse。
+- **Pat（Degler，婚前 Garrett）** — 遭家暴。**原文对父母的称谓是分开给的，姓氏与夫妇关系均未点明**：`Jug Garrett`（`Everybody knew what a mean old bastard Jug Garrett had been`；`nobody had ever done a thing to straighten Jug out`；`Pat wouldn't talk about him, never had`）与 `Dorothy, Pat's mother`（原文只写名，不带姓）。另有一句无名的 `Their father, drunk at the time, died in a runaway when Pat was about fifteen, and after that her mother had lost the farm`——把「父亲」与「母亲」交代了，但**没有把 Jug / Dorothy 与这两个身份显式连起来**，故本条不作「Jug=父亲、Dorothy=母亲」的断定。前任 Walt Woodhouse。
 - **Stephanie McIntosh / Degler** — Pat 的妹妹；婴儿 **Tara**；丈夫 **Rory Degler**。
 - **Raeanne** — `a fifteen-year-old’s cute, perfect figure`；Brody Reiker 的女儿。
 - **Marina 与 Harry McIntosh** — Stephanie 的父母。
