@@ -211,7 +211,7 @@ modified: "2026-09-27"
 
 ### ⑩
 
-> **原句 10:** The Booker Prize was instigated in 1969 with the second group in mind: make the quality of a book news by awarding it an impressive amount of money, and hoi polloi will prick up their ears. It worked in relation to the books named; but it had been hoped that after buying the winner and/or the runners-up, people would be ‘converted’ to books in general, and there was no sign of that. Another attempt to stir the wider public’s consciousness resulted in the slogan ‘Books are Best’ which still chirps its message from bookseller’s carrier bags – and is surely the kind of advertising that is not even seen by those who do not want the advertised object.
+> **原句 10:** The Booker Prize was instigated in 1969 with the second group in mind: make the quality of a book news by awarding it an impressive amount of money, and hoi polloi will prick up their ears. It worked in relation to the books named; but it had been hoped that after buying the winner and/or the runners-up, people would be ‘converted’ to books in general, and there was no sign of that. Another attempt to stir the wider public’s consciousness resulted in the slogan ‘Books are Best’ which still chirps its message from booksellers’ carrier bags – and is surely the kind of advertising that is not even seen by those who do not want the advertised object.
 
 **中文理解**：**布克奖**是**一九六九年**设立的，其**考虑的是**第二**类人**：**只要让一本书的「质量」成为新闻**、给它**一笔可观的奖金**，**市井小民**就会**竖起耳朵**。它**在被提名的那批书**上**确实见效**；**但**当初**被指望**的是：人们**买了那本获奖书和/或那几本入围书之后**，会被「**转化**」成**读书的人**，而**这一点毫无迹象**。另一次**试图唤起**更广泛公众**意识**的尝试，产生了一句**口号**「**书是最好的**」——它**至今仍在书商的购物袋上**啁啾**地传递着它的信息**——**而且必定属于**那种**连不想得到被广告之物的人都看不见的**广告**。
 

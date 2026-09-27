@@ -88,15 +88,15 @@ modified: "2026-09-27"
 
 ### ③
 
-> **原句 3:** So the decision was to be mine. There was a solemn awareness of responsibility. There was bafflement for a while, then an increasing fascination. These were surreal stories in which characters who assumed you knew more about them than you did moved through strange places, such as a busy sea-port which was nowhere near the sea, or a village in which everyone was old and silent except for foolish laughter, and which vanished the morning after the traveller had been benighted in it. Everything in these stories was described with a meticulous sobriety and precision, which gave them the concentrated reality of dreams.
+> **原句 3:** There was a solemn awareness of responsibility. There was bafflement for a while, then an increasing fascination. These were surreal stories in which characters who assumed you knew more about them than you did moved through strange places, such as a busy sea-port which was nowhere near the sea, or a village in which everyone was old and silent except for foolish laughter, and which vanished the morning after the traveller had been benighted in it. Everything in these stories was described with a meticulous sobriety and precision, which gave them the concentrated reality of dreams.
 
-**中文理解**：所以决定权落在我手上。随之而来的是一种庄严的责任感。先是一阵困惑，然后是越来越浓的吸引力。这些是超现实的故事：里面的人物都假定你比实际更了解他们，走过一些奇怪的地方——比如一个繁忙却离海很远的海港，或者一个村子，那里人人年老而沉默，只有愚蠢的笑声，而那村子在旅人被困于其中的第二天早晨消失了。这些故事里的一切都被一种一丝不苟的冷静与精确描写着，这使它们具有梦一样的浓缩现实感。
+**中文理解**：随之而来的是一种**庄严的责任感**。先是一阵**困惑**，然后是**越来越浓的吸引力**。这些是超现实的故事：里面的人物都假定你比实际更了解他们，走过一些奇怪的地方——比如一个繁忙却离海很远的海港，或者一个村子，那里人人年老而沉默，只有愚蠢的笑声，而那村子在旅人被困于其中的第二天早晨消失了。这些故事里的一切都被一种一丝不苟的冷静与精确描写着，这使它们具有梦一样的浓缩现实感。
 
-**句子结构**：首句是「So + 主系表 the decision was to be mine」；随后三句各以 `There was …` 独立成句（`a solemn awareness of responsibility` / `bafflement for a while` / `then an increasing fascination`）——用**同构的名词短语**排出一个心理时间表；末段是「主系表 These were surreal stories + 定语从句 in which characters … moved through strange places + 冒号引出两个 such as 举例（each 内含 which 定语从句）+ 末句主系表 Everything … was described + 定语从句 with a meticulous sobriety and precision（which 为非限制性，引出结果主句）」。
+**句子结构**：全段由**两个同构短句 + 一个长主系表句 + 一个长定语从句 + 举例 + 末句**构成。首两句各以 `There was …` 独立成句（`a solemn awareness of responsibility` / `bafflement for a while, then an increasing fascination`）——用**同构的名词短语**排出一个心理时间表；末段是「主系表 These were surreal stories + 定语从句 in which characters … moved through strange places + 冒号引出两个 such as 举例（each 内含 which 定语从句）+ 末句主系表 Everything … was described + 定语从句 with a meticulous sobriety and precision（which 为非限制性，引出结果主句）」。
 
-**关键词**：So the decision was to be mine（所以决定权落在我手上）、a solemn awareness of responsibility（一种庄严的责任感）、bafflement for a while, then an increasing fascination（先是一阵困惑，然后是越来越浓的吸引力）、surreal stories（超现实的故事）、a busy sea-port which was nowhere near the sea（一个繁忙却离海很远的海港）、a village in which everyone was old and silent（人人年老而沉默的村子）、meticulous sobriety and precision（一丝不苟的冷静与精确）、the concentrated reality of dreams（梦一样的浓缩现实感）
+**关键词**：a solemn awareness of responsibility（一种庄严的责任感）、bafflement for a while, then an increasing fascination（先是一阵困惑，然后是越来越浓的吸引力）、surreal stories（超现实的故事）、a busy sea-port which was nowhere near the sea（一个繁忙却离海很远的海港）、a village in which everyone was old and silent（人人年老而沉默的村子）、meticulous sobriety and precision（一丝不苟的冷静与精确）、the concentrated reality of dreams（梦一样的浓缩现实感）
 
-**表达方式**：用**三个同构的短句**（`There was …`）代替一段心理描写，把「责任 → 困惑 → 吸引」排成一条不解释的序列；举例全部用 `such as` 挂在 `strange places` 之下，且每个例子都以一个**否定式**收尾（`nowhere near the sea`）；`concentrated` 一词把 `reality` 与 `dreams` 焊在一起。
+**表达方式**：用**两个同构的短句**（`There was …`，第二个句子内部再以 `then` 连接第三种感受）代替一段心理描写，把「责任 → 困惑 → 吸引」排成一条不解释的序列；举例全部用 `such as` 挂在 `strange places` 之下，且每个例子都以一个**否定式**收尾（`nowhere near the sea`）；`concentrated` 一词把 `reality` 与 `dreams` 焊在一起。
 
 **为什么这样写**：她在这里示范「判断先于理解」：三个短句就是全部过程，而她没有替读者补上任何推理（为什么 fascinate？）。两个举例都是**空间上的错位**（离海很远的海港；第二天早晨就消失的村子），而非情节上的怪诞——这正是她后来说的 `meticulous sobriety` 的作用：怪的是地点，稳的是笔调。`the concentrated reality of dreams` 是全章最精细的一句评语，它说的不是「像梦」，而是梦的那种**高浓度真实感**。
 
@@ -172,17 +172,17 @@ modified: "2026-09-27"
 
 ### ⑨
 
-> **原句 9:** As always on a Sunday I was sleeping late, so I was cross when I had to answer the front-door bell at eight-thirty. There stood André, unshaven, a pair of trousers and a macintosh pulled on over his pyjamas, and a copy of The Sunday Times in his hand. ‘Read this!’ ‘Oh my God!’
+> **原句 9:** As always on a Sunday I was sleeping late, so I was cross when I had to answer the front-door bell at eight-thirty. There stood André, unshaven, a pair of trousers and a macintosh pulled on over his pyjamas, and a copy of The Sunday Times in his hand.
 
-**中文理解**：和平常每个星期天一样，我睡得很晚，所以八点半不得不去应门铃时，我很恼火。站在门外的是安德烈：胡子没刮，一条裤子外面套着雨衣就罩在睡衣上，手里拿着一份《星期日泰晤士报》。「读这个！」「天哪！」
+**中文理解**：和平常每个星期天一样，我睡得很晚，所以八点半不得不去应门铃时，我很恼火。站在门外的是安德烈：胡子没刮，一条裤子外面套着雨衣就罩在睡衣上，手里拿着一份《星期日泰晤士报》。
 
-**句子结构**：首句是「时间状语 As always on a Sunday I was sleeping late + so + 结果状语从句 I was cross when I had to answer the front-door bell at eight-thirty」；次句是「There stood André（there be 倒装结构）+ 三个并列的名词短语作主语补语（`unshaven` / `a pair of trousers and a macintosh pulled on over his pyjamas` / `a copy of The Sunday Times in his hand`）」；此后是两轮对话，各以引号独立成段。
+**句子结构**：两句。首句是「时间状语从句 As always on a Sunday I was sleeping late + so + 结果状语从句 I was cross when I had to answer the front-door bell at eight-thirty（内含 when 引导的时间状语从句）」；次句是「**there be 结构的强调式倒装** There stood André + 三个并列的名词短语作主语补语（`unshaven` / `a pair of trousers and a macintosh pulled on over his pyjamas` / `a copy of The Sunday Times in his hand`，后两者各带一个后置修饰语：`pulled on over his pyjamas` 与 `in his hand`）」。
 
-**关键词**：As always on a Sunday I was sleeping late（和平常每个星期天一样，我睡得很晚）、I was cross when I had to answer the front-door bell（不得不去应门铃时我很恼火）、There stood André（站在门外的是安德烈）、unshaven（胡子没刮）、pulled on over his pyjamas（罩在睡衣上）、a copy of The Sunday Times in his hand（手里拿着一份《星期日泰晤士报》）、Read this（读这个）
+**关键词**：As always on a Sunday I was sleeping late（和平常每个星期天一样，我睡得很晚）、so I was cross when I had to answer the front-door bell（不得不去应门铃时我很恼火）、There stood André（站在门外的是安德烈）、unshaven（胡子没刮）、a pair of trousers and a macintosh pulled on over his pyjamas（裤子外面把雨衣直接罩在睡衣上）、a copy of The Sunday Times in his hand（手里拿着一份《星期日泰晤士报》）
 
-**表达方式**：用**服装的顺序**写慌张程度（睡衣外直接套裤子与雨衣）；整段以三句推进（我恼火 → 他站在门口 → 两轮对话），中间的对话只有三个词，节奏快到失态。
+**表达方式**：用 **`As always on a Sunday`**（**和平平常每个星期天一样**）——这个**重复的副词**（always … always）把这一天的平常性与后面的**不平常**放在同一句里；用 **`so`** 而不是 `and` 连接——`so` 使「睡得晚」成为「恼火」的**原因**，于是她的起床气被写成了**作息**的结果而不是**脾气**；用 **`There stood André`**——`There stood` 是**强调倒装**，把主语推到句末，因此**人物是在读者眼前站定的**，而不是被叙述的；用 **`unshaven`** 这个**形容词作补语**（而非 `with an unshaven face`）——它省掉了 `face`，因此**胡子挂在脸上**这件事不需被指出；用 **`a pair of trousers and a macintosh pulled on over his pyjamas`**——`pulled on`（**套上**）这个**不及物短语**精确地对应「**没有脱**睡衣就直接往上套」的**次序失序**，而 `a pair of trousers`（**一条裤子**）这个**不正式的长度计量**（而非 `a pair of trousers` 之外的任何量词）本身就暗示这不是一个**准备妥当**的人。
 
-**为什么这样写**：这一段是全章唯一一处**现场叙述**，此前所有的判断都出自事后回想（`I remember`、`I have gone blurry`），而这里她给出的是**目击**：一个没刮胡子、睡衣外穿裤子的人出现在早上八点半。`Read this!` 与 `Oh my God!` 两句各占一段，是她全书写得最「现场」的地方——她没有说自己害怕，只写了两个人各说了一句话，而那句 `Read this!` 的信息量（不必解释发生了什么，报纸会说明）也说明他们之间已无需多话。
+**为什么这样写**：这一段是全章唯一一处**现场叙述**——此前所有的判断都出自事后回想（`I remember`、`I have gone blurry`），而这里给出的是**目击**。技术上有两处值得看：① **服装的次序**就是慌张的**量度**：没有脱睡衣就套裤子、再把雨衣罩在外面，这个**层序**写的是**程度**而不是清单，因此三个名词短语一个比一个轻，最后落到那份报纸上——而报纸才是他来的**理由**。② 她**没有写自己害怕**：这一段在引语层只写了一个人站在门外和一份报纸，`Read this!` 属于**同一段原文里的下一段**——她把「他说了什么」交给了那段，而这里只留**身体**。这个取舍使全章的判断（`I have gone blurry`、`I was paid too little`）显得可靠：她只在**能看见的范围内**说话。而这也正是 ch09 那条「`Glamour requires a certain distance`」的实践——**她在最接近 André 的一段里也是隔着写的**。
 
 ### ⑩
 
@@ -197,6 +197,58 @@ modified: "2026-09-27"
 **表达方式**：用**一串插入语**（印刷完成 → 印数很大 → 长书且印制昂贵）把时间线压成一句，全是**客观条件**，直到最后一句才给出主观判断；`close to the wind`（贴近水面航行）是一个航海比喻，而 `we would go down`（沉下去）把它兑现为字面的沉船。
 
 **为什么这样写**：这句话解释了为什么接下来那个周日清晨会有一场那样的行动：书已经印好了，所以**禁令来得太晚也仍然致命**——损失的不只是销量，是已投入的成本。`close to the wind` 这个航海比喻与她 ch01 里那句 `a job on the side of the thirty per cent`（一份只有三成把握的工作）同源：她描述风险时惯用**航行**的意象。
+
+## 词汇分级
+
+### ⭐⭐⭐ 高级
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| feeble | adj. 差劲的，无力的（此处说 Allan Wingate 的第一批书 `so feeble that I blush for them`） | I remember Allan Wingate’s first premises rather than its first books simply because the first books were so feeble that I blush for them. |
+| allegories | n. 寓言（复数；此处她问那批超现实故事 `Perhaps they were allegories – but of what?`） | Perhaps they were allegories – but of what? |
+| surreal | adj. 超现实的（此处 `These were surreal stories`） | These were surreal stories in which characters who assumed you knew more about them than you did moved through strange places, such as a busy sea-port which was nowhere near the sea, or a village in which everyone was old and silent except for foolish laughter, and which vanished the morning after the traveller had been benighted in it. |
+| meticulous | adj. 一丝不苟的（此处 `a meticulous sobriety and precision` 形容那批故事的文风） | Everything in these stories was described with a meticulous sobriety and precision, which gave them the concentrated reality of dreams. |
+| mystification | n. 神秘化，晦涩难解的吸引力（此处 `the pull of mystification`） | I would soon begin to find such fantasies a waste of time – of my time, anyway – but then, in addition to liking the sobriety and precision of the style, I felt the pull of mystification: ‘I can’t understand this – probably, being beyond me, it is very special.’ |
+| betrayal | n. 背叛（此处 `a betrayal of intelligence` 指看不懂就说它特别的那种毛病） | This common response to not seeing the point of something has a rather touching humility, but that doesn’t save it – or so I now believe – from being a betrayal of intelligence which has allowed a good deal of junk to masquerade as art. |
+| masquerade | n. 化装，伪装（此处 `junk to masquerade as art`） | This common response to not seeing the point of something has a rather touching humility, but that doesn’t save it – or so I now believe – from being a betrayal of intelligence which has allowed a good deal of junk to masquerade as art. |
+| concertinaed | v. （时间）被手风琴式压缩（此处说流亡者重逢时 `the years between them had concertinaed`） | André had been at school in Budapest with George’s younger brother, when he had glimpsed George enviously as a dashing grown-up. Meeting again in London, as exiles, they found that the years between them had concertinaed, and became friends. |
+| squib | n. 短文，小品（此处 `George’s little squib on being a foreigner in England`） | George’s little squib on being a foreigner in England had an extraordinary success. |
+| urbane | adj. 温文尔雅的（此处 `an urbane and cultivated old man` 形容那位退休总督） | André had recently met an urbane and cultivated old man who had just retired from governing a British outpost in the Pacific, and who had said that he hoped to find the occasional literary task with which to fill his time. |
+| cultivated | adj. 举止有教养的（此处同上） | André had recently met an urbane and cultivated old man who had just retired from governing a British outpost in the Pacific, and who had said that he hoped to find the occasional literary task with which to fill his time. |
+| grouchy | adj. 爱抱怨的（此处形容那位不会写作的作者） | I doubt if there was a sentence – certainly there was not a paragraph – that I did not alter and often have to retype, sending it chapter by chapter to the author for his approval which – although he was naturally grouchy – he always gave. |
+| premiss | n. 前提（英式拼写；此处 `the premiss from which they were all working`） | Given the premiss from which they were all working, that ‘fuck’ was unprintably obscene, how could another word which sounded so nearly the same, and which was loaded with the same meaning, not be equally obscene? |
+| injunction | n. 禁令（法律禁令；此处指总检察长下的禁发令） | Meanwhile we were instantly served with an injunction against publishing The Naked and the Dead until the Attorney General, Sir Hartley Shawcross, had considered the case and had given us permission to do so (if he did). |
+| ambled | v. 闲步，溜达（过去式；此处 `ambled in and chanced to pick it up`） | The newspaper’s editor, who was an old man nearing retirement, ambled in and chanced to pick it up and open it. |
+| prune-faced | adj. 装得一本正经的（此处 `started off so prune-faced about it`） | Looking back, I think that having started off so prune-faced about it, the least I should have done for dignity’s sake was keep up the disapproval; but in fact the book’s success was so great, and so many people seemed to think that we had been clever to get hold of it, that I ended by feeling quite pleased with it. |
+
+### ⭐⭐ 进阶
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| starved | v. 匮乏，挨饿（此处 `the reading public just after the war was so starved of books`） | To start with André simply snatched at any homeless manuscript that happened to float by, and the reading public just after the war was so starved of books and so short of alternative forms of entertainment that almost anything (in our case almost nothing) could be presented by a publisher without looking silly. |
+| snatched | v. 抓取（此处 `André simply snatched at any homeless manuscript`） | To start with André simply snatched at any homeless manuscript that happened to float by, and the reading public just after the war was so starved of books and so short of alternative forms of entertainment that almost anything (in our case almost nothing) could be presented by a publisher without looking silly. |
+| penniless | adj. 一贫如洗的（此处说 Orwell） | André, who was determined to help the penniless and modest Orwell whom he saw as almost saint-like, decided that Jonathan Cape was the right publisher for him, and Orwell took his advice. |
+| pounce | v. 扑上去（此处 `strongly tempted to pounce`） | And André, strongly tempted to pounce but still far from sure that he would be able to start a firm however much he wanted to, felt that he must not let a man he liked and respected so deeply take such a risk. |
+| resilience | n. 韧性（此处 `the essential resilience of his nature`） | And the essential resilience of his nature was later to be well illustrated by the fact that the more famous Animal Farm became, the prouder he was of his own early recognition of it and of his not letting Orwell take the risk of giving it to him, with never a moan at having lost this prize. |
+| exiles | n. 流亡者（复数；此处指战后在伦敦重逢的两位匈牙利人） | André had been at school in Budapest with George’s younger brother, when he had glimpsed George enviously as a dashing grown-up. Meeting again in London, as exiles, they found that the years between them had concertinaed, and became friends. |
+| underlay | v. 潜藏在……之下（此处 `A sad irony underlay this situation`） | A sad irony underlay this situation. |
+| glimpsed | v. 瞥见（此处 `glimpsed George enviously as a dashing grown-up`） | André had been at school in Budapest with George’s younger brother, when he had glimpsed George enviously as a dashing grown-up. |
+
+### ⭐ 基础
+
+| 词汇 | 释义 | 例句 |
+|------|------|------|
+| Omnibus | n. 合集；（此处为书名 The Reader’s Digest Omnibus 的专名部分） | Our second money-spinner was The Reader’s Digest Omnibus: the first important chunk of loot brought home by André from New York. |
+| manuscript | n. 书稿 | To start with André simply snatched at any homeless manuscript that happened to float by, and the reading public just after the war was so starved of books and so short of alternative forms of entertainment that almost anything (in our case almost nothing) could be presented by a publisher without looking silly. |
+| reissue | n. 再版，重印 | The first of these to appear on our list were of a sober – almost stately – kind, a result of the post-war book famine which meant that the reissue of classics was felt as a need. |
+| juvenilia | n. 早期作品，处女作（此处指 Brontë 姐妹的 `important juvenilia`） | We also produced a good edition of the novels and poems of the Brontë sisters edited by Phyllis Bentley, whose introduction stands up well against modern Brontë scholarship, and who included examples of their important juvenilia – the first time that had been done in a British edition. |
+| bilingual | adj. 双语的（此处 `good-looking bilingual volumes`） | André had met a man called Bill Stirling who considered himself capable of translating all the major poets of Europe. Although in this he was aiming too high, he did produce translations of those two which were up to appearing in good-looking bilingual volumes with which we could justly be pleased. |
+| blurb | n. 内容简介 | We did indeed wince and moan – I more than Audrey, because I had to proof-read the thing and write its blurb. |
+| typescript | n. 打字稿 | No one but a hungry young publisher building a list would have waded through his typescript, but having done so I realized that he knew everything it was possible to know about a significant and extraordinary event, and that his book would be a thoroughly respectable addition to our list if only it could be made readable. |
+
+## 一句话总结
+
+三段案例、一个结论：编辑不是鉴赏而是判断（`So the decision was to be mine.`）——判断可以发生在看不懂的时候（`I can’t understand this – probably, being beyond me, it is very special`）与不会写的时候（`if only it could be made readable`），也可以赌错（`a betrayal of intelligence which has allowed a good deal of junk to masquerade as art`），而最后一课（`‘Read this!’`）教她的是**判断之后要为判断付账**，付完的形状就是全书的收尾：`Overnight we began to be seen as a brave and dashing little firm`。
 
 ## 词汇分级
 
