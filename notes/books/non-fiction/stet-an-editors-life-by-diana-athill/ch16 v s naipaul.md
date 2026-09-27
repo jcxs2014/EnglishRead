@@ -10,7 +10,7 @@ modified: "2026-09-27"
 
 - **出处**：Stet: A Memoir（Granta Publications 2000 初版；Grove Press 2001 美版）
 - **作者**：Diana Athill——叙述者「我」
-- **章节定位**：Part Two 六篇作家肖像之**第四篇**，也是 Part Two 里**最长的一章**（正文 76 段，57,241 字符）。七部分：① 1962 年 Andrew Salkey 引荐与 *Miguel Street*（2）② 他的沉默与牛津（6、8）③ 她早年的误读（`solidly impressive man`）④ 1960 年代她两度去特立尼达，所见的社会（13–26）⑤ 母亲（29）⑥ 婚事与 Pat（31–37）⑦ 十八本书的三段式循环（41–48）⑧ *Guerrillas* 那次她判断错的失败（49–71）⑨ 1984 年他离开（71–73）与两条脚注（74–75）
+- **章节定位**：Part Two 六篇作家肖像之**第四篇**，正文 76 段、57,241 字符（仅次于 ch14 的 58,901 字符，是全书第二长的章节）。七部分：① 1962 年 Andrew Salkey 引荐与 *Miguel Street*（2）② 他的沉默与牛津（6、8）③ 她早年的误读（`solidly impressive man`）④ 1960 年代她两度去特立尼达，所见的社会（13–26）⑤ 母亲（29）⑥ 婚事与 Pat（31–37）⑦ 十八本书的三段式循环（41–48）⑧ *Guerrillas* 那次她判断错的失败（49–71）⑨ 1984 年他离开（71–73）与两条脚注（74–75）
 - **人物**：`Vidia`（V. S. Naipaul）、`Andrew Salkey`（BBC，引荐人）、`Mordecai Richler`（ch13 那位）、`André Deutsch`、`Mrs Naipaul`（他母亲）、`Shiva`（弟弟）、他的一位已婚姐姐、`Pat`（他的第一任妻子，`Pat` 全书未给姓）、`Pat` 的父亲（`the Major`）、`Margaret`（阿根廷友人）、`Jimmy Ahmed`（*Guerrillas* 中人物原型）、`Roche`、`Hakim`、`Foyles`（书店）、`Seeker & Warburg`（接走他的出版社）、他父亲（脚注中）
 - **书名**（Vidia）：*Miguel Street*（1962，本社出版的第一本）、*The Loss of El Dorado*、*A Way in the World*（三十七岁时才写）、*The Middle Passage*、*An Area of Darkness*（第一次印度之行）、*Guerrillas*（1975，第十三本书、第八部小说）、*Among the Believers*、*In Among the Believers*（她误引的名字）
 - **地名**：Port of Spain、Tobago、Castries、Queens Park West、London、Brooklyn、Brittany、India、Sri Lanka、Paris
