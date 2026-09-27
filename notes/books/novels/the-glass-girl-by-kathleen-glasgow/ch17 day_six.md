@@ -124,9 +124,9 @@ source_text: ch17
 
 ### ⑧
 
-> "I managed to not flinch when Tracy clicked the button (positive). … But I still didn't look at my photo. I don't want to see that person. … I'm not sure who she is."
+> "I managed to not flinch when Tracy clicked the button (positive). … But I still didn't look at my photo. … I don't want to see that person. … I'm not sure who she is."
 
-**中文理解**：Tracy 按下快门的时候我没 flinched（不抖）了（正面）。——但我仍然没看我的照片。我不想看到那个人。——我不确定她是谁。
+**中文理解**：`Tracy` 按下快门的时候我没有再抖了（正面）。——但我仍然没看我的照片。——我不想看到那个人。——我不确定她是谁。
 
 **关键词**：not flinch when Tracy clicked the button / (positive) / I still didn't look at my photo / I don't want to see that person / I'm not sure who she is
 
@@ -134,7 +134,7 @@ source_text: ch17
 
 `But I still didn't look at my photo.`（但我仍然没看我的照片）——**`still`（仍然）这个词承认了「以前也做不到」这个基线，而这句话是全章唯一一次她拿自己跟自己的过去比。** 紧跟其后是本册最熟练的一次回避技术：`I kind of let my eyes go blurry so whoever that is in the mirror is cloudy, indistinct.`（我故意让眼睛发模糊，这样镜子里的那个人就是朦胧的、辨不清的）——**`whoever that is`（那是谁）与 `indistinct`（辨不清）是同一个判断的两种说法，而这一整套动作的目的是让照片里的人不成立。**
 
-**而全章的结尾是三个短句**：`I don't want to see that person.` → `I'm not sure who she is.`——**两句都把人称从自己移开（`that person` / `she`），而最后一句又移回来（`who she is` 用的是第三人称 she，指的却是她自己）。**
+**而全章的结尾是三个短句**：中间一段被 `…` 跳过的正是本块分析里引的那句回避技术（`I kind of let my eyes go blurry so whoever that is in the mirror is cloudy, indistinct.`），跳过之后才是 `I don't want to see that person.` → `I'm not sure who she is.`——**两句都把人称从自己移开（`that person` / `she`），而最后一句又移回来（`who she is` 用的是第三人称 she，指的却是她自己）。** ⚠️ **注意：原文里这两句之间还有一段（`I’m an expert now at looking at myself in the mirror…`），本块引语用 `…` 标出，未做跨段拼接。**
 
 **读者视角提示**：对照 ch13 结尾 `Tracy` 说的 `You are. And you will.`（你就是。你会的。）——**本章作者用一句 `I'm not sure who she is.`（我不确定她是谁）把整卷书的肯定句顶了回去。** 那句预告她「会」成为酒鬼，而她本章花 23 段证明的是：**她连自己的照片里那个人都不肯承认。**
 

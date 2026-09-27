@@ -108,13 +108,15 @@ source_text: ch10
 
 ### ⑧
 
-> "Unbuttoning my flannel shirt / Because what does it matter … I am a watercolor, I wash off … My mother is screaming but I cannot move / The porch light hurts my eyes / Why am I on the stoop / I do not like this dream."
+> "Unbuttoning my flannel shirt / Because what does it matter … I am a watercolor, I wash off … My mother is screaming but I cannot move / The porch light hurts my eyes / Why am I outside my house / Why am I on the stoop / My mother is screaming and I close my eyes / I do not like this dream."
 
-**中文理解**：解开我法兰绒衬衫的扣子——反正还有什么所谓——我是一幅水彩，我会被水洗掉——母亲在尖叫，可我不能动——门廊的灯刺着我的眼——我为什么在门廊上——我不喜欢这个梦。
+**中文理解**：解开我法兰绒衬衫的扣子——反正还有什么所谓——我是一幅水彩，我会被水洗掉——母亲在尖叫，可我不能动——门廊的灯刺着我的眼——我为什么在自家门外——我为什么在门廊上——母亲在尖叫，而我闭上了眼睛——我不喜欢这个梦。
 
-**关键词**：Unbuttoning my flannel shirt / Because what does it matter / I wash off / I do not like this dream
+**关键词**：Unbuttoning my flannel shirt / Because what does it matter / I wash off / Why am I outside my house / My mother is screaming and I close my eyes / I do not like this dream
 
 **为什么这样写**：本块是**全书的引信**，而作者用它做了三件事：① `Unbuttoning` 用**动名词开头、不给主语**——ch11 里 Amber 播的那段视频里出现的正是这个动作，**而这里她还记得（还在做）**；② `Because what does it matter.` 用**反问**而不是自怜，**这是她第一次不带辩解地问"有什么所谓"**；③ `I am a watercolor, I wash off` **第二次出现，这一回没有句号**（第一次在 ch04 L715 有）——**句子没收尾，像被掐断**。紧接的 `My mother is screaming but I cannot move` 把镜头切到**事后**：门廊、灯、台阶——**这正是 ch11 里她说不出、只在事后靠 `My mother opened the front door to find you unconscious` 补上的那段空白。**
+
+**而第二段里最有分量的是被两个「为什么」夹住的那一句**：`Why am I outside my house`（我为什么在自家门外）→ `Why am I on the stoop`（我为什么在门廊上）→ **`My mother is screaming and I close my eyes`（母亲在尖叫，而我闭上了眼睛）** —— **注意这一句与该段第一句的对照：开篇是 `but I cannot move`（可我不能动），而这一句是 `and I close my eyes`（而我闭上了眼睛）——同一个身体、同一个母亲在尖叫，一个是被动的「不能动」，一个是被动的「闭眼」；因此这首诗的第二次提到尖叫时，她给自己安排了一个动作，而这个动作恰好是那一夜 `Amber` 的视频里唯一没有被拍到的部分。**
 
 **读者视角提示**：`I do not like this dream.` 是本章最后一句，而**"梦"这个词是全书唯一一次她否认正在发生的事**——ch11 她再没说过这个词。**她叫它梦，所以那一夜她可以不认账。**
 

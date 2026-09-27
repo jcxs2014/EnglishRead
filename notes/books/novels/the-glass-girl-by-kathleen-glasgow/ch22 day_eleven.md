@@ -32,15 +32,15 @@ source_text: ch22
 
 ### ①
 
-> "\"No,\" I say evenly. \"Nothing's up. Bad phone calls, I guess.\" … \"You're lying,\" she says. \"I can tell. You're sticking to that girl like glue. Why?\" … \"Just being nice, is all. She's sad. Not a big deal. We're supposed to watch out for ea[ch other, right?]\" … \"Right,\" Brandy says. But I can tell by her voice she doesn't believe me."
+> "\"No,\" I say evenly. \"Nothing's up. Bad phone calls, I guess.\" … \"You're lying,\" she says. \"I can tell. You're sticking to that girl like glue. Why?\" … \"Just being nice, is all. She's sad. Not a big deal. We're supposed to watch out for each other, remember?\" … \"Right,\" Brandy says. But I can tell by her voice she doesn't believe me."
 
-**中文理解**："没有，"我平静地说。"没什么事。大概是昨天那些电话的事吧。"——"你在撒谎，"她说。"我听得出来。你像胶水一样黏着那个女孩。为什么？"——"只是对她好点，仅此而已。她很难过。不算什么大事。我们应该互相照看，对吧？"——"对啊，"Brandy 说。但我听得出她不信。
+**中文理解**："没有，"我平静地说。"没什么事。大概是昨天那些电话的事吧。"——"你在撒谎，"她说。"我听得出来。你像胶水一样黏着那个女孩。为什么？"——"只是对她好点，仅此而已。她很难过。不算什么大事。我们得互相照应，记住了吗？"——"对啊，"Brandy 说。但我听得出她不信。
 
 **关键词**：I say evenly / Bad phone calls, I guess / You're lying, she says. I can tell. / sticking to that girl like glue / Just being nice, is all / Not a big deal / I can tell by her voice she doesn't believe me
 
 **为什么这样写**：**两次撒谎，两种技术，而第二次的漏洞是被自己一句话拆掉的。** 第一次是**降级**：`Bad phone calls, I guess.`（大概是昨天那些电话的事吧）——**注意 `I guess`（大概）在这里是她的稳定标记**（ch19 `I guess it actually has been for some time.`／ch20 `I guess I was so scared`），而**它的作用是把已知的事说成猜测**。加上 `evenly`（平静地）这个副词——**而 `evenly` 本身就是一个漏洞：一个人不需要「平静」地否认一件事，除非她知道自己需要显得平静。** 而 `Brandy` 的判词只有一句：`You're lying, she says. I can tell.`（你在撒谎。我听得出来。）——**注意她不追问内容，只判定真伪。**
 
-第二次是**最小化**（见 ⑤ 里的同一批词：`Just being nice, is all.` / `She's sad.` / `Not a big deal.`）——**三个短语构成一个递减：施动者（对她好）、对象（她难过）、规模（不算什么）**，而 `just`（只是）与 `all`（仅此而已）又各出现一次（**这是她今天第二次在同一天里用 `just` 降低某件事的份量**）。而收尾的 `We're supposed to watch out for ea[ch other, right?]`（我们应该互相照看，对吧？）——**这是一个用问号包起来的祈使句，而她把 `Tracy` 在 ch21 讲过的 `treat others with respect` / `stand up for others` 拿来当挡箭牌：她正在做的事被包装成这里教过的规矩。**
+第二次是**最小化**（见 ⑤ 里的同一批词：`Just being nice, is all.` / `She's sad.` / `Not a big deal.`）——**三个短语构成一个递减：施动者（对她好）、对象（她难过）、规模（不算什么）**，而 `just`（只是）与 `all`（仅此而已）又各出现一次（**这是她今天第二次在同一天里用 `just` 降低某件事的份量**）。而收尾的 `We're supposed to watch out for each other, remember?`（我们得互相照应，记住了吗？）——**而 `remember?`（记住了吗？）是 `Brandy` 在替规则开口：也就是说她这句话的前半是**引用**，后半是一个反问式的提醒，而作者不给任何人名——因此读起来像是 `Bella` 在自我提醒；她把 `Tracy` 在 ch21 讲过的 `treat others with respect` / `stand up for others` 拿来当挡箭牌：她正在做的事被包装成这里教过的规矩。**
 
 **读者视角提示**：**而整个撒谎的现场有一个一直在场的见证者**：`Gideon's eyes flit to me as she talks about how much feed to put in the buckets.`（`Gideon` 在讲每个桶该放多少饲料时，眼睛瞟了我一下。）——**作者的 `flit`（掠过）把「瞟」写成了一次短促的移动，而这一眼的位置正好落在她撒第一个谎的那一行上。** 到了 ④，同一个人用**一个摇头**（`Ever so slightly, she shakes her head.`）完成了一次完整的干预。
 
@@ -60,7 +60,7 @@ source_text: ch22
 
 ### ③
 
-> "\"No,\" she says. \"She said you don't want them to come for parents day.\" … \"I don't. but I'm guessing you're going to make me. Whatever.\" … \"Actually, I'm not.\" … \"What?\" I turn to her. … \"If you don't want them here, they don't come here. This place is for you, not them. I'm glad you spoke up. I'll bet it hurt, whatever you said to your mother, but that means it needed to be said.\" … \"And if you change your mind, that's fine, too. And if you stick with it, I stand with you.\""
+> "\"No,\" she says. \"She said you don't want them to come for parents day.\" … \"I don't. but I'm guessing you're going to make me. Whatever.\" … \"Actually, I'm not.\" … \"What?\" I turn to her. … \"If you don't want them here, they don't come here. This place is for you, not them. I'm glad you spoke up. I'll bet it hurt, whatever you said to your mother, but that means it needed to be said.\" … \"If you change your mind, that's fine, too. And if you stick with it, I stand with you.\""
 
 **中文理解**："不，"她说。"她说你不想让他们来家长日。"——"我不想。但我猜你会让我来。算了。"——"其实我不会。"——"什么？"我转过头看她。——"如果你不想他们来，他们就不来。这个地方是给你的，不是给他们的。你说出来我很高兴。我敢说不管你对母亲说了什么，那一定很难受，但那说明这句话该说。"——"如果你改主意，那也行。而如果你坚持，我就站在你这边。"
 

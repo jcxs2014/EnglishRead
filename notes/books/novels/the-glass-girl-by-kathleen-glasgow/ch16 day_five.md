@@ -38,25 +38,31 @@ source_text: ch16
 
 ### ②
 
-> "\"Segregation. Like a time-out, only it can last a really long time and you're stuck in a room by yourself. It happens. I haven't seen it too bad yet, but someone told me Gideon did once. Flip out, like, go psycho. Somebody has to hold you down.\""
+> "\"It happens. I haven't seen it too bad yet, but someone told me Gideon did once. Flip out, I mean. Like, just snapped in half like a branch. Then you have to go to Seg until you can calm your shit down. She didn't really want to talk about it, but if it's bad enough, it adds to your days.\" … Charlotte jumps up and down for minute. \"Segregation. Like a time-out, only it can last a really long time and you're stuck in a room with nothing and no one.\""
 
-**中文理解**："隔离。就像罚站，只不过可能持续很久，你会被独自关在一个房间里。这种事会发生。我还没见过太严重的，但有人告诉我 Gideon 干过一次。发疯，就是那种发疯。得有人把你按住。"
+**中文理解**："这会发生。我还没见过太严重的，但有人告诉我 `Gideon` 干过一次。爆发，我是说。像那样——啪的一下像根树枝断成两截。然后你就得去 `Seg`，直到你把自己那摊事平下来。她其实不太想谈这事，但如果够严重，那就会给你的日子加时间。"——**`Charlotte` 原地跳了一分钟。**"隔离。就像罚站，只不过可能持续很久，而你会被关在一个什么都没有、也没有人的房间里。"
 
-**关键词**：Segregation / Like a time-out / stuck in a room by yourself / go psycho / hold you down
+**关键词**：It happens / someone told me Gideon did once / just snapped in half like a branch / you have to go to Seg until you can calm your shit down / if it's bad enough, it adds to your days / Segregation. Like a time-out / stuck in a room with nothing and no one
 
-**为什么这样写**：**这是全书第一次有人用语言把一个机制讲清楚，而讲的人自己就住在里面。** `Charlotte jumps up and down for minute.`（原地跳了一分钟）——**她讲的是自己最怕的事，姿势却是全书最轻快的动作之一。** 而 `Holly` 在 ch12 被隔离（`Holly's been segregated.`），本章 Charlotte 提这件事时 `someone told me Gideon did once`（有人告诉我 Gideon 干过一次）——**被隔离的坏名声在宿舍里是公开情报，而她是用「听说的」讲的**。注意结尾 `Somebody has to hold you down.`（得有人把你按住）——**这句话的宾语是即将发生的事，而主语是「有人」**。
+**为什么这样写**：**这是全书第一次有人用语言把一个机制讲清楚，而讲的人自己就住在里面。** 而她讲的方式是**先给一个比喻、再给一条后果**：`just snapped in half like a branch`（像那样——啪的一下像根树枝断成两截）→ `Then you have to go to Seg until you can calm your shit down`（然后你就得去 `Seg`，直到你把自己那摊事平下来）——**而这个比喻的技术是 `snapped`（啪地折断）＋ `in half`（成两截）＋ `like a branch`（像一根树枝）：一根断掉的树枝既断得干脆、又仍然朝着原来的方向长着；因此「爆发」在这个比喻里不是崩溃，是一次物理性的折断。** ——**紧跟的 `if it's bad enough, it adds to your days`（如果够严重，那就会给你的日子加时间）是全章最冷的一句，因为它是一条价格表；而 `Charlotte` 讲这一句时还在原地跳。**
+
+**而她随后给出的那个缩写解释是全章的另一半（②）**：`Charlotte jumps up and down for minute.`（原地跳了一分钟）——**她讲的是自己最怕的事，而姿势却是全书最轻快的动作之一**；`Segregation. Like a time-out, only it can last a really long time and you're stuck in a room with nothing and no one.`（隔离。就像罚站，只不过可能持续很久，而你会被关在一个什么都没有、也没有人的房间里。）——**而这个定义的技术是**先降级再揭底**：`Like a time-out`（就像罚站）把它说成孩子式的惩罚，而 `only it can last a really long time`（只不过可能持续很久）这三个词正是要把那个降级撤销掉；`with nothing and no one`（什么都没有，也没有一个人）里的 `and` 把「物」与「人」并列，因此这间房的可怕之处不在于小，而在于两样都被抽空。** ——**而 `Holly` 在 ch12 被隔离（`Holly's been segregated.`），本章 `Charlotte` 提这件事时用的是 `someone told me Gideon did once`（有人告诉我 Gideon 干过一次）——**被隔离的坏名声在宿舍里是公开情报，而她是用「听说的」讲的。**
 
 **读者视角提示**：Bella 的反应是把它当成一个缩写来问：`"Seg?" I ask.`（Seg？）——**全书她第一次用「听不懂」这个词问问题**，而这个「听不懂」是安全的：不懂规则比懂规则安全。
 
 ### ③
 
-> "\"Can you not do that?\" I ask finally. … \"I wasn't…\" He falters. \"I wasn't looking at that. I mean, that part of your face. The really messed-up part. I know, I know. I just…\" … \"I have some experience with it, is all. Busted faces.\""
+> "\"Can you not do that?\" I ask finally. … \"I wasn't…\" He falters. \"I wasn't looking at that. I mean, that part of your face. I wasn't…making fun of you.\" … \"I have some experience with it, is all. Busted faces.\""
 
-**中文理解**："你能不能别那样？"我终于问出来。——"我没有……"他结巴了。"我不是在看那个。我是说，你脸上那一块。坏得最厉害的那块。我知道，我知道。我只是……"——"我只是有点经验，仅此而已。被打肿的脸。"
+**中文理解**："你能不能别那样？"我终于问出来。——"我没有……"他结巴了。"我不是在看那个。我是说，你脸上那一块。我没有……在笑你。"——"我只是有点经验，仅此而已。被打肿的脸。"
 
-**关键词**：Can you not do that / I wasn't looking at that / the really messed-up part / I have some experience with it / Busted faces
+**关键词**：Can you not do that / I wasn't looking at that / that part of your face / I wasn't…making fun of you / I have some experience with it / Busted faces
 
-**为什么这样写**：**这一段是全书到目前为止唯一一次「她说出自己的脸」并得到一个不像怜悯的回应。** 她的原句是 `Can you not do that?`（你能不能别那样）——**注意她仍然没有说「别看我的脸」**，而是说「别那样做」；作者紧接着用她的内心补全：`it hurts, and I'm kind of...`（很疼，而且我有点……）。而 `Josh` 的回应**先是否认他看的是伤处，再承认他看的就是伤处**：`I wasn't looking at that. I mean, that part of your face. The really messed-up part.`（我不是看那个。我是说，你脸上那一块，坏得最厉害的那块）——**三句自我修正，一次比一次准确**。然后是 `I have some experience with it, is all. Busted faces.`——**两个短语，第一句轻描淡写（`is all` 仅此而已），第二句把话说完了，而说完他就站起来走开**（`He abruptly stands.`）。
+**为什么这样写**：**这一段是全书到目前为止唯一一次「她说出自己的脸」并得到一个不像怜悯的回应。** 她的原句是 `Can you not do that?`（你能不能别那样）——**注意她仍然没有说「别看我的脸」，而是说「别那样做」**；而作者紧接着把她的伤写成一个不是比喻的比喻：`like, look at me for so long? I know it's funny, my face and all, but it hurts, and I'm kind of embarrassed about it, okay?`（比如盯着我看那么久？我知道我的脸很好笑，可是它会疼，而且我有点难为情，行吗？）
+
+**而 `Josh` 的回应是三段自我修正，一次比一次准确** ——`"I wasn't…"`（我没有……，第一个省略号）`He falters.`（他结巴了）`"I wasn't looking at that. I mean, that part of your face. I wasn't…making fun of you."`（我不是在看那个。我是说，你脸上那一块。我没有……在笑你。）——**注意这一段里有两个省略号：第一个在 `I wasn't` 后面，是被打断；第二个在 `I wasn't…making fun of you` 的中间，把一个正在形成的否认又拆了一次；而他最后落到的那句话是三个词（`making fun of you`），前面加了两个 `I wasn't`——因此这一段的技术是：他两次否认同一个东西，而第二次终于说出了一个具体的动词。**
+
+**而把「哪一半脸」的判断交给叙述者的，是叙述者而不是他** ——紧跟的 `If he wasn't looking at the bad part of my face, then he was looking at the okay part.`（如果他不是在看我脸上坏的那一半，那他就是在看好的那一半。）——**而这一句的技术是它用了一个条件句完成了一次三段推理：不是坏的那半 ⇒ 就是好的那半；因此「他觉得好看」这个结论不是他说的，是她推出来的。** 然后是他自己的两句：`I have some experience with it, is all. Busted faces.`——**两个短语，第一句轻描淡写（`is all` 仅此而已），第二句把话说完了，而说完他就站起来走开**（`He abruptly stands.`）
 
 **读者视角提示**：**他没有说「我也有疤」。他说的是「被打肿的脸」这个类别。** 而他随即离场——**这句话在 ch17 之前不会有用武之地，而作者要读者自己记住它。**
 

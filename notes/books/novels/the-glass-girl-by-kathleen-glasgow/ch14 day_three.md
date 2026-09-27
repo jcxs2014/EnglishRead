@@ -26,13 +26,15 @@ source_text: ch14
 
 ### ①
 
-> "Clonk, clonk, clonk. … \"Move it up and out, ladies! Time for some sunshine. Sneakers, sweatpants, hoodie. Let's go,\" he says."
+> "Clonk, clonk, clonk. … \"Move it up and out, ladies! Time for some sunshine. Sneakers, sweatpants, hoodie. Let's go, go, go!\""
 
-**中文理解**：哐当，哐当，哐当。——"动起来，姑娘们！出去晒太阳。运动鞋、运动裤、连帽衫。走，"他说。
+**中文理解**：哐当，哐当，哐当。——"动起来，姑娘们！出去晒太阳。运动鞋、运动裤、连帽衫。走走走！"
 
-**关键词**：Clonk, clonk, clonk / Move it up and out / Time for some sunshine / Let's go
+**关键词**：Clonk, clonk, clonk / Move it up and out / Time for some sunshine / Let's go, go, go
 
 **为什么这样写**：**全章用一个拟声词当标题，而那个词是物件不是人。** `Clonk`（金属水瓶敲击）三连之后立刻是 `Move it up and out, ladies!`——**声音在前，人在后**，作者让读者先听见敲击声再看见喊话的人。`Time for some sunshine.`（去晒太阳）是本章最阴的反讽：她跑完在沙漠里吐了，而**「晒太阳」是把她推出门的那句话**。而 `Sneakers, sweatpants, hoodie.` 是三个名词的清单式命令，**中间没有任何解释**——与 ch12 的手册条款（`Refrain from ingesting…`）是同一套制度语言，只是从书面换成了吼。
+
+**而这一句的收尾 `Let's go, go, go!` 与前面那三个名词是同一个形状** ——**清单给了三件要穿的东西，命令给了三声「走」；因此作者把这一段的声音做成了三拍：三个名词、三个动词，而最后那三个 `go` 里没有主语、没有宾语，也没有任何缓冲。**
 
 **读者视角提示**：第 9 段作者用一句话点明她认得这个人：`He's the crew cut guy that was with Phil in the hospital when I left.`（即 ch12 里 Phil 同车的那位）。**ch14 的暴力机构与 ch12 的转运人员是同一班人——她从医院到戒所，人没变，命令换了说法。**
 
@@ -62,13 +64,13 @@ source_text: ch14
 
 ### ④
 
-> "\"Well, if they're happy, I'm happy.\" … \"But, see, I don't think you are happy. I don't see that on this sheet. If you get all As and your parents are happy, why are you still hungry?\""
+> "\"Well, if they're happy, I'm happy.\" … \"But, see, I don't think you are happy. I don't see that on this sheet. If you get all As and your parents are happy, why are you still not happy? Has it ever made you happy to get good grades?\""
 
-**中文理解**："嗯，如果他们开心，那我也开心。"——"可是你看，我不觉得你开心。我在这张纸上没看见这个。如果你拿了全 A、父母也开心，你为什么还是饿？"
+**中文理解**："嗯，如果他们开心，那我也开心。"——"可是你看，我不觉得你开心。我在这张纸上没看见这个。如果你拿了全 A、父母也开心，你为什么还是不开心？拿好成绩真的让你开心过吗？"
 
-**关键词**：if they're happy, I'm happy / I don't think you are happy / I don't see that on this sheet / why are you still hungry
+**关键词**：if they're happy, I'm happy / I don't think you are happy / I don't see that on this sheet / why are you still not happy / Has it ever made you happy to get good grades
 
-**为什么这样写**：**全书最重要的一次问答，而它的形式是一句常识。** `Well, if they're happy, I'm happy.`（条件句）——**她把幸福定义成别人的函数**；Fran 的反驳**不是否定这个逻辑，而是指出逻辑的前提没兑现**：父母开心、A 全拿，**而你还是饿**。`why are you still hungry?` 里的 `still`（仍然）是这一击的落点——**它不指责，只陈述一个没被解决的问题**。而 ch13 的结尾刚给过 Fran 一个位置：`You are. And you will.`（关于故事），本章她给的是**关于快乐**的位置：**她不看分数，她看那张纸上有什么。**
+**为什么这样写**：**全书最重要的一次问答，而它的形式是一句常识。** `Well, if they're happy, I'm happy.`（条件句）——**她把幸福定义成别人的函数**；Fran 的反驳**不是否定这个逻辑，而是指出逻辑的前提没兑现**：父母开心、A 全拿，**而你还是不开心**。`why are you still not happy?` 里的 `still`（仍然）是这一击的落点——**它不指责，只陈述一个没被解决的问题**；而紧接的 `Has it ever made you happy to get good grades?`（拿好成绩真的让你开心过吗？）把这一击从**现状**推向**历史**——因此这串是同一个问题的两次，一次问此刻、一次问全程。而 ch13 的结尾刚给过 Fran 一个位置：`You are. And you will.`（关于故事），本章她给的是**关于快乐**的位置：**她不看分数，她看那张纸上有什么。**
 
 **读者视角提示**：`I don't see that on this sheet.`（我在这张纸上没看见这个）——**Fran 拒绝听她说的话，只相信她写的东西**。这是本章唯一一次有成年人拒绝她的自述。
 

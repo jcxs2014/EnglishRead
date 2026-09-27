@@ -46,7 +46,7 @@ source_text: ch19
 
 ### ②
 
-> "\"Your mother said you were inebriated when you broke the laptop and that was she first time she realized things were going on with you, but she didn't realize the extent at the time.\" … Extent. What an odd word. Ex-tent. … \"'Passed' makes it sound like she walked by me on the street and kept going. She died.\" There's a crack in my voice on died. … \"If you prefer that term, that's what I can use.\" Tracy's voice is neutral."
+> "\"Your mother said you were inebriated when you broke the laptop and that was the first time she realized things were going on with you, but she didn't realize the extent at the time.\" … Extent. What an odd word. Ex-tent. … \"'Passed' makes it sound like she walked by me on the street and kept going. She died.\" There's a crack in my voice on died. … \"If you prefer that term, that's what I can use.\" Tracy's voice is neutral."
 
 **中文理解**："你母亲说你砸坏笔记本电脑的时候是醉的，那是她第一次意识到你有事不对，但她当时没有意识到那个程度。"——程度。好奇怪的词。ex-tent。——"'Passed'（去世）这个词听起来好像她从街上经过我身边然后继续走。她去世了。"我的声音在「死了」这个词上裂了一下。——"如果你更习惯那个说法，我可以用那个。"Tracy 的声音是平的。
 
@@ -136,9 +136,9 @@ source_text: ch19
 
 ### ⑧
 
-> "Thinking about going to Laurel's to sit by myself and look at our last Scrabble game on the kitchen table and sip my lonely and my sad away. … Checking my phone endlessly to see what great and enormous lives everyone else was living while I was making mine smaller, and fainter, by the day. … \"When I was coming up this hill, I hated my parents. Now I hate myself.\" … \"Yeah,\" he says, gazing at the vista. \"But plenty of people hate their parents and themselves and don't try to drink themselves to death because of it. What's your excuse?\" … \"You're an asshole,\" I answer."
+> "Thinking about going to Laurel's to sit by myself and look at our last Scrabble game on the kitchen table and sip my lonely and my sad away. … Checking my phone endlessly to see what great and enormous lives everyone else was living while I was making mine smaller, and fainter, by the day. … \"When I was coming up this hill, I hated my parents,\" I tell Chuck. \"Now I hate myself.\" … \"Yeah,\" he says, gazing at the vista. \"But plenty of people hate their parents and themselves and don't try to drink themselves to death because of it. What's your excuse?\" … \"You're an asshole,\" I answer."
 
-**中文理解**：想着去 `Laurel` 家，一个人坐着，看一眼厨房桌上我们最后那盘拼字游戏，把我的孤单和我的悲伤啜饮下去。——没完没了地看手机，看别人正在过着的那些了不起的、庞大的人生，而我正在让我的变小，变淡，一天比一天。——"我爬那座山的时候，我恨我父母。现在我恨我自己。"——"是啊，"他望着风景说。"但很多人既恨父母也恨自己，并没有因为这个就去把自己喝死。你的借口是什么？"——"你个混蛋，"我回答。
+**中文理解**：想着去 `Laurel` 家，一个人坐着，看一眼厨房桌上我们最后那盘拼字游戏，把我的孤单和我的悲伤啜饮下去。——没完没了地看手机，看别人正在过着的那些了不起的、庞大的人生，而我正在让我的变小，变淡，一天比一天。——"我爬那座山的时候，我恨我父母，"**我对 `Chuck` 说**。"现在我恨我自己。"——"是啊，"他望着风景说。"但很多人既恨父母也恨自己，并没有因为这个就去把自己喝死。你的借口是什么？"——"你个混蛋，"我回答。
 
 **关键词**：our last Scrabble game on the kitchen table / sip my lonely and my sad away / what great and enormous lives everyone else was living / while I was making mine smaller, and fainter, by the day / Now I hate myself / don't try to drink themselves to death / What's your excuse
 

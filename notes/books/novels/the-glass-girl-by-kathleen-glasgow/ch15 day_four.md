@@ -64,13 +64,13 @@ source_text: ch15
 
 ### ④
 
-> "\"I'm just carrying this ball because you told me to do it and I do what I'm told, Phil,\" I say. … \"That's so interesting, Bella. Was drinking the only thing you could do that wasn't preoccupying?\""
+> "\"I'm just carrying this ball because you told me to do it and I do what I'm told, Phil,\" I say. … \"That's so interesting, Bella. Was drinking the only thing you could do that wasn't preordained for you? Is that why you did it? Your little 'fuck you' to the world? You too afraid to tell anybody you're freaking out inside?\""
 
-**中文理解**："我搬这个球只是因为你叫我搬，我就照你说的做，Phil，"我说。——"真有意思，Bella。喝酒是唯一一件不让你魂牵梦绕的事吗？"
+**中文理解**："我搬这个球只是因为你叫我搬，我就照你说的做，Phil，"我说。——"真有意思，Bella。喝酒是唯一一件不是命中注定给你安排的事吗？你就是因为这个才喝的吗？你那个对整个世界的『去你妈的』？还是说你太害怕告诉任何人、你心里正在崩溃了？"
 
-**关键词**：because you told me to do it / I do what I'm told / Was drinking the only thing / preoccupying
+**关键词**：because you told me to do it / I do what I'm told / Was drinking the only thing / wasn't preordained for you / Your little 'fuck you' to the world / You too afraid to tell anybody you're freaking out inside
 
-**为什么这样写**：**这一段是本章的转折点，而它靠的是一次笨拙的反击。** `Phil` 刚说完 `You were willing to lie, cheat, hide, and steal to drink`（见 ⑥），她的回应**不是否认，是把责任推回指令者**：`because you told me to do it and I do what I'm told`（因为你叫我搬我就搬，我照别人说的做）——**这是一句真话，也是一句逃避**，而她当场就知道：她前一句说 `You're wrong. I never cheated.`（你错了，我从没作弊）时用的是过去时（`cheated`），后一句用的是**现在时**（`I do what I'm told`）。**`Phil` 立刻抓住这个时态**——`That's so interesting, Bella.`（真有意思）——**他在夸的不是她的答案，是她的诚实**。而 `preoccupying`（占据心思的）这个词把问题从「你为什么撒这个谎」转成「除了喝酒你脑子里还有什么」，**而正确答案是：很多，其中一样是站在他面前的两只脚**（`I think I would tell him to go to hell, but forming the words would make me drop the ball.`）。
+**为什么这样写**：**这一段是本章的转折点，而它靠的是一次笨拙的反击。** `Phil` 刚说完 `You were willing to lie, cheat, hide, and steal to drink`（见 ⑥），她的回应**不是否认，是把责任推回指令者**：`because you told me to do it and I do what I'm told`（因为你叫我搬我就搬，我照别人说的做）——**这是一句真话，也是一句逃避**，而她当场就知道：她前一句说 `You're wrong. I never cheated.`（你错了，我从没作弊）时用的是过去时（`cheated`），后一句用的是**现在时**（`I do what I'm told`）。**`Phil` 立刻抓住这个时态**——`That's so interesting, Bella.`（真有意思）——**他在夸的不是她的答案，是她的诚实**。而 `preordained`（命中注定的）这个词把问题从「你为什么撒这个谎」整个换掉了轴：它问的不是「你脑子里还有什么」，而是「除了喝酒，这件事是不是**本来就被安排好的**」——**因此这一问的厉害之处在于它把她的一生说成了一份预制清单，而喝酒是清单之外唯一那一格**；紧接的两问把它收紧：`Is that why you did it?`（你就是因为这个才喝的吗？）与 `Your little 'fuck you' to the world?`（你那个对整个世界的『去你妈的』？）；而最后一句 `You too afraid to tell anybody you're freaking out inside?`（你太害怕告诉任何人你心里正在崩溃了？）把刀口从「过去」转回「此刻」。**而正确答案她已经在心里了：**`I think I would tell him to go to hell, but forming the words would make me pass out at this point.`（我想我会叫他滚去见上帝，但光是把这些字 forming 出来就会让我当场昏过去。）。
 
 **读者视角提示**：她在本章第一次用**第三人称称呼自己**（`Bella`）——而这个称呼是 Phil 叫的。**从「我照别人说的做」到接受被叫 Bella，中间隔了一句「我在他面前。」（`He's looking at me.`）**
 

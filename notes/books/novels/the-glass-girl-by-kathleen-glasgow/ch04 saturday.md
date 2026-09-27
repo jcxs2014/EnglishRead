@@ -24,15 +24,15 @@ source_text: ch04
 
 ### ①
 
-> "There was a time after the divorce when my mom made a point of hugging me when she knew I’d be at my dad’s for the week. “Let me get my love in. I’m gonna miss you,” she’d say. She’s been forgetting the hug a lot lately."
+> "There was a time after the divorce when my mom made a point of hugging me when she knew I’d be at my dad’s for the week. “Let me get my love in. I’m gonna miss you,” she’d say. … She’s been forgetting the hug a lot lately."
 
 **中文理解**：离婚后有一段时间，只要她要去父亲家过一周，我妈妈就会特意抱我一下。"让我先把我的爱给你，我要想你了。"她说。最近她常常忘了这个拥抱。
 
 **关键词**：made a point of hugging me / Let me get my love in / forgetting the hug a lot lately
 
-**为什么这样写**：这段回忆的重量不在拥抱本身，而在 `a lot lately`（最近常常）——**变化被放在最后、用一个轻描淡写的副词收尾**，读者先读到一整套被精心执行的制度（`made a point of`、固定台词、连在路边抱着会被同学看见的顾虑），再读到它正在解体。而 `Let me get my love in` 的 `in`（补足）说明这个拥抱在她的家庭里是**按量供应的**——不是习惯，是**配额**。作者的写法是：用三句长的篇幅建立一个已被执行的规则，再用一句短的宣布它失效。
+**为什么这样写**：这段回忆的重量不在拥抱本身，而在收尾那一句 `a lot lately`（最近常常）——**变化被放在最后、用一个轻描淡写的副词收尾**，读者先读到一整套被精心执行的制度（`made a point of`、固定台词、连在路边抱着会被同学看见的顾虑），再读到它正在解体。而 `Let me get my love in` 的 `in`（补足）说明这个拥抱在她的家庭里是**按量供应的**——不是习惯，是**配额**。作者的写法是：用三句长的篇幅建立一个已被执行的规则，再用一句短的宣布它失效。**而本块引语里 `She’s been forgetting…` 与前一句之间是 `…`——也就是说这两段在原文里并不相邻：中间被跳过的是她「甚至会在上车前就抱」以及 `I love her, but I don’t need to display that to my classmates.`（我爱她，但我不需要把这展示给我的同学们看。）——**因此这一章的精读者若要核这段「解体」，必须知道它是被省略号接上来的，而不是一口气说完的。**
 
-**读者视角提示**：`She’d even do it before we got in the car` 里的 `even`（甚至）——**她把"在路边当众拥抱"也算进了执行细节**，这才是"a point of"的真实含义。
+**读者视角提示**：`She’d even do it before we got in the car` 里的 `even`（甚至）——**她把"在路边当众拥抱"也算进了执行细节**，这才是"a point of"的真实含义。⚠️ **注意这一句在被 `…` 跳过的原文里，不在本块引语内**（见上）。
 
 ### ②
 

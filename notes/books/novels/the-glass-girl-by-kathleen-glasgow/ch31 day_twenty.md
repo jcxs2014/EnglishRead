@@ -52,13 +52,13 @@ source_text: ch31
 
 ### ②
 
-> "\"Let me.\" It's Josh. … \"No problem. I did this before at another place. It gets easier. I don't think this is going to be easy. … \"It was in Colorado,\" Josh says. \"Three months, mandatory. I crashed my dad's car. Last year. I wasn't messed up or anything. It was more like a behavioral camp.\" … \"Well,\" I say. \"You seem pretty well-behaved to me, so I guess it worked.\" … He laughs."
+> "\"Let me.\" It's Josh. … \"No problem. I did this before at another place. It gets easier. I don't think this is going to be that bad, though. The one I did was a whole week long.\" … \"It was in Colorado,\" Josh says. \"Three months, mandatory. I crashed my dad's car. Last year. I wasn't messed up or anything. It was more like a behavioral camp.\" … \"Well,\" I say. \"You seem pretty well-behaved to me, so I guess it worked.\" … He laughs."
 
-**中文理解**："我来。"是 `Josh`。——"没问题。我在别的地方做过这个。越来越容易。我想这次不会容易。"——"是在科罗拉多，" `Josh` 说。"三个月，强制。我撞了我爸的车。去年。我没有嗑什么或者别的什么。更像是那种行为矫正营。"——"哦，"我说。"你在我看起来挺乖的，所以我想是管用了。"——他笑了。
+**中文理解**："我来。"是 `Josh`。——"没问题。我在别的地方做过这个。越来越容易。不过我想这次不会太糟。上一次我待了整整一个礼拜。"——"是在科罗拉多，" `Josh` 说。"三个月，强制。我撞了我爸的车。去年。我没有嗑什么或者别的什么。更像是那种行为矫正营。"——"哦，"我说。"你在我看起来挺乖的，所以我想是管用了。"——他笑了。
 
-**关键词**：Let me / I did this before at another place / It gets easier. I don't think this is going to be easy / It was in Colorado / Three months, mandatory / I crashed my dad's car / I wasn't messed up or anything / It was more like a behavioral camp / You seem pretty well-behaved to me, so I guess it worked / He laughs
+**关键词**：Let me / I did this before at another place / It gets easier / I don't think this is going to be that bad, though / The one I did was a whole week long / It was in Colorado / Three months, mandatory / I crashed my dad's car / I wasn't messed up or anything / It was more like a behavioral camp / You seem pretty well-behaved to me, so I guess it worked / He laughs
 
-**为什么这样写**：**一个由一件工具引出的坦白，而坦白的技术是三次降级。** `"I did this before at another place."`（我在别的地方做过这个。）——**而 `another place`（别的地方）这个词是本章前半最重要的一个伏笔：她问的是「哪里」，而他先给的是一个没有名字的类别。** 紧跟的 `It gets easier. I don't think this is going to be easy.`（越来越容易。我想这次不会容易。）—— **两句的时态都是现在时，而 `I don't think` 把前一句的乐观直接抵消——因此这是她全书第二次在同一个句子里自我否定**（第一次是 ch19 的 `It's different for everyone, she says slowly`）。
+**为什么这样写**：**一个由一件工具引出的坦白，而坦白的技术是三次降级。** `"I did this before at another place."`（我在别的地方做过这个。）——**而 `another place`（别的地方）这个词是本章前半最重要的一个伏笔：她问的是「哪里」，而他先给的是一个没有名字的类别。** 紧跟的两句是 `It gets easier.`（越来越容易。）和 `I don't think this is going to be that bad, though.`（不过我想这次不会太糟。）—— **而这一组的技术是**乐观句在前、修正句在后，而修正句不是取消乐观、是**给它配一个数字**：`The one I did was a whole week long.`（上一次我待了整整一个礼拜。）——因此他一边说「会越来越容易」，一边立刻用「但上一次是一周」把这句话钉住；而这一句里的 `though`（不过）正是转折的支点。**
 
 **而真正的那句坦白分三步，而每一步都在缩小「严重性」：** `It was in Colorado,`（是在科罗拉多，）`Three months, mandatory.`（三个月，强制。）`I crashed my dad's car. Last year.`（我撞了我爸的车。去年。）`I wasn't messed up or anything.`（我没有嗑什么或者别的什么。）`It was more like a behavioral camp.`（更像是那种行为矫正营。）—— **而最后两句的功能是重新定性：不是毒品，是行为问题。而 `I wasn't messed up or anything` 里的 `anything`（或者别的什么）是一个反问式的否认，它否认的是读者脑子里正在形成的那件事。**
 
@@ -70,9 +70,9 @@ source_text: ch31
 
 ### ③
 
-> "\"You need help?\" Tracy asks. … \"No,\" I say sharply. I'm still testy at her about Holly. … She holds up her hands. \"All right, then.\" … \"Well,\" Billy calls out to her. \"I need help.\" … \"Voilà,\" Josh says. … His shelter is perfect. … \"A week in the Colorado wilderness,\" he crows. … \"UNFAIR,\" [Brandy calls out,] pointing to two huge, real tents on the edge of our […]"
+> "\"You need help?\" Tracy asks. … \"No,\" I say sharply. I'm still testy at her about Holly. … She holds up her hands. \"All right, then.\" … \"Well,\" Billy calls out to her. \"I need help.\" … \"Voilà,\" Josh says. … His shelter is perfect. … \"A week in the Colorado wilderness,\" he crows. … I feel a little bloom of accomplishment. … Suddenly Brandy calls out, \"UNFAIR,\" pointing to two huge, real tents on the edge of our campsite."
 
-**中文理解**："你需要帮忙吗？" `Tracy` 问。——"不用，"我尖着说。我还在为 `Holly` 的事对她有意见。——她举起双手。"那好吧。"——"那个，" `Billy` 朝她喊。"我需要帮忙。"——"好了。" `Josh` 说。——他的窝棚完美无缺。——"科罗拉多荒野里一周练出来的，"他 crow 道。——"不公平，"[`Brandy` 喊，]指着我们营地边上两个巨大而真实的帐篷[…]
+**中文理解**："你需要帮忙吗？" `Tracy` 问。——"不用，"我尖着说。我还在为 `Holly` 的事对她有意见。——她举起双手。"那好吧。"——"那个，" `Billy` 朝她喊。"我需要帮忙。"——"好了。" `Josh` 说。——他的窝棚完美无缺。——"科罗拉多荒野里一周练出来的，"他 crow 道。——**我心里泛起一点成就感的花苞。**——**"`Brandy` 突然喊道，"不公平，"**指着我们营地边上两个巨大而真实的帐篷。
 
 **关键词**：You need help? / No, I say sharply / I'm still testy at her about Holly / All right, then / I need help / His shelter is perfect / A week in the Colorado wilderness, he crows / UNFAIR / two huge, real tents
 
@@ -150,9 +150,9 @@ source_text: ch31
 
 ### ⑦
 
-> "\"That's a swell fire.\" … \"It is,\" I say. … \"Then why are you crying?\" … \"I think I broke something in myself,\" I say quietly. \"I don't know.\" … She doesn't look sad or mad or disappointed at that. She just says, \"Bella, it's okay to ask for help. You don't have to kill yourself proving something before you ask for help. That's kind of the whole point of th[e …]" … \"So I failed. I didn't pass,\" I say. \"So I'm going to have to do this again. Because I refused help.\" … She kind of laughs. \"You didn't fail anything. In fact, you showed a tremendous amount of tenacity, and I think that refusal to give up is going to serve you pretty well.\" … \"But I need to ask for help,\" I say. … \"Yeah,\" she says. … So I say, \"I'm goddamn starving. Could you help me cook some tofu and make hot chocolate?"
+> "\"That's a swell fire.\" … \"It is,\" I say. … \"Then why are you crying?\" … \"I think I broke something in myself,\" I say quietly. \"I don't know.\" … She doesn't look sad or mad or disappointed at that. She just says, \"Bella, it's okay to ask for help. You don't have to kill yourself proving something before you ask for help. That's kind of the whole point of this. We teach you basic skills so you can have tools out there in the world and survive, but we also teach you that when those tools don't work, you ask for help. You recognize that you need help before you…break something in yourself." … \"So I failed. I didn't pass,\" I say. \"So I'm going to have to do this again. Because I refused help.\" … She kind of laughs. \"You didn't fail anything. In fact, you showed a tremendous amount of tenacity, and I think that refusal to give up is going to serve you pretty well.\" … \"But I need to ask for help,\" I say. … \"Yeah,\" she says. … So I say, \"I'm goddamn starving. Could you help me cook some tofu and make hot chocolate?"
 
-**中文理解**："火生得真好。"——"是啊，"我说。——"那你为什么在哭？"——"我觉得我把自己里面的什么弄坏了，"我轻声说。"我不知道。"——她看起来既不难过也不生气也不失望。她只是说：" `Bella` ，开口求助没关系。你不需要在开口求助之前先害死自己来证明什么。这大概就是[… ]的全部意义。"——"所以我失败了。我没过，"我说。"所以我得再来一次。因为我拒绝了帮助。"——她有点笑了。"你什么都没失败。事实上，你表现出极大的毅力，而且我想那份不肯放弃会对你很有用。"——"但我需要开口求助，"我说。——"嗯，"她说。——于是我说："我他妈快饿死了。你能帮我煮点豆腐、泡杯热巧克力吗？"
+**中文理解**："火生得真好。"——"是啊，"我说。——"那你为什么在哭？"——"我觉得我把自己里面的什么弄坏了，"我轻声说。"我不知道。"——她看起来既不难过也不生气也不失望。她只是说：" `Bella` ，开口求助没关系。你不需要在开口求助之前先害死自己来证明什么。这大概就是**这件事**的全部意义。我们教你基本技能，让你在外面的世界里有工具可用、活下来；但我们也教你，当这些工具不管用的时候，你去求助。你要在你……**弄坏自己心里的什么东西之前**，就认出你需要帮助。"——"所以我失败了。我没过，"我说。"所以我得再来一次。因为我拒绝了帮助。"——她有点笑了。"你什么都没失败。事实上，你表现出极大的毅力，而且我想那份不肯放弃会对你很有用。"——"但我需要开口求助，"我说。——"嗯，"她说。——于是我说："我他妈快饿死了。你能帮我煮点豆腐、泡杯热巧克力吗？"
 
 **关键词**：That's a swell fire / Then why are you crying? / I think I broke something in myself / She doesn't look sad or mad or disappointed / it's okay to ask for help / You don't have to kill yourself proving something before you ask for help / That's kind of the whole point of / So I failed. I didn't pass / Because I refused help / You didn't fail anything / a tremendous amount of tenacity / But I need to ask for help / Yeah / I'm goddamn starving / Could you help me cook some tofu and make hot chocolate
 
