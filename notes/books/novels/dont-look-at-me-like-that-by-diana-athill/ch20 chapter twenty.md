@@ -21,8 +21,8 @@ modified: "2026-09-27"
 
 - **中文理解**：但我有一个护身符般的想法：如果 Fuad 能做到，我也能。因为我与他不同——我不会出于一阵情绪做，而会冷静地做；不是因为某种特别的悲伤，而是因为平常的日子显然太无意义，不值得继续。而且不用枪，用我的安眠药。
 - **关键词**：a talisman / in cold blood / too meaningless to live through / not with a gun but with my sleeping pills
-- **为什么这样写**：**全书最冷静的自毁规划**——"a talisman"（护身符）是把自杀念头写成**安慰物**——**这是全书最反常的修辞之一**。**三个对比结构**（不像他 / 不因悲伤 / 不用枪）——**Meg 用"不像 Fuad"来建立自己的优越感**——**她的自杀规划里带着一种冷静的自我美化**（cold blood 是我的方式，枪是他的方式）。**"normal days were clearly too meaningless to live through"**——**这句话把抑郁原因定为"平常日子"**——不是任何具体事件——这是全书对抑郁最准确的归因。
-- **读者视角提示**：注意"a talisman in the thought"——**Meg 没把自杀念头称为"念头"而称为"思想"（thought）**——**她用距离化语言处理最危险的想法**——这是全书一贯的心理机制（ch16 "the fact of self-destruction"）——**把情感转译为"事实"是她活下去的方法**。
+- **为什么这样写**：**全书极冷静的自毁规划**——"a talisman"（护身符）是把自杀念头写成**安慰物**——**这是全书最反常的修辞之一**。**三个对比结构**（不像他 / 不因悲伤 / 不用枪）——**Meg 用"不像 Fuad"来建立自己的优越感**——**她的自杀规划里带着一种冷静的自我美化**（cold blood 是我的方式，枪是他的方式）。**"normal days were clearly too meaningless to live through"**——**这句话把抑郁原因定为"平常日子"**——不是任何具体事件——这是全书对抑郁最准确的归因。
+- **读者视角提示**：注意"a talisman in the thought"——**Meg 没把自杀念头称为"念头"而称为"思想"（thought）**——**她用距离化语言处理最危险的想法**——这是全书一贯的心理机制（ch19 "the fact of self-destruction"）——**把情感转译为"事实"是她活下去的方法**。
 
 ### ②
 
@@ -30,7 +30,7 @@ modified: "2026-09-27"
 
 - **中文理解**：我恐惧的是"无尽"，而这些药片证明了没有什么必须无尽。只要我愿意，随时可以终止——而正是这种权力让"立刻终止"变得没有必要。
 - **关键词**：Endlessness was what I feared / nothing need be endless / this power / unnecessary to put a stop to it just yet
-- **为什么这样写**：**全书最重要的心理学发现**——**"Endlessness"（无尽）是 Meg 的恐惧核心**——不是痛苦、不是孤独、不是失败——是**"没有尽头"**。**"the pills proved that nothing need be endless"**——**药片的功能是"证明可终止性"**——**这是一个悖论式的治疗**：**正是"可以死"这一事实让人活下去**。**"this power made it unnecessary"**——**"power"（权力）是本章的关键词**——**Meg 把自杀的准备命名为"权力"**——不是绝望，是控制感。
+- **为什么这样写**：**全书极重要的心理学发现**——**"Endlessness"（无尽）是 Meg 的恐惧核心**——不是痛苦、不是孤独、不是失败——是**"没有尽头"**。**"the pills proved that nothing need be endless"**——**药片的功能是"证明可终止性"**——**这是一个悖论式的治疗**：**正是"可以死"这一事实让人活下去**。**"this power made it unnecessary"**——**"power"（权力）是本章的关键词**——**Meg 把自杀的准备命名为"权力"**——不是绝望，是控制感。
 - **读者视角提示**：注意**这句与 ch18 "by God, it's good!"（摔门的快感）结构相同**——**两处都是"权力"（power）的快感**——**ch18 她对 Jamil 施权（摔门），ch20 她对自己施权（囤药）**——这是作者对 Meg 心理的一致描写：**她的情绪出口都是"权力感"**。
 
 ### ③
@@ -39,7 +39,7 @@ modified: "2026-09-27"
 
 - **中文理解**："是的，你现在似乎不再做出任何无拘束的动作。我觉得你该去看精神科医生。"
 - **关键词**：uninhibited gesture / nowadays / see a psychiatrist
-- **为什么这样写**：**全章最关键的外部观察**——Tinka 的"uninhibited gesture"（无拘束的动作）是 Meg 的状态最精确的外部诊断——**比任何心理学描述都准确**。**"nowadays"（如今）暗示她以前有**——**这句话把 Meg 的变化定为一个时间对比**。**鸡蛋场景**（Tinka 演示 Meg 的手在鸡蛋上犹豫，好像触碰它令人恶心）——**这是全书对 Meg"厌恶触碰"的最具体表现**——从 ch08 的苍蝇纸梦境（对触碰的恐惧）到这里（对被触碰物的犹豫）——**她的身体恐惧最终成形**。
+- **为什么这样写**：**全章极关键的外部观察**——Tinka 的"uninhibited gesture"（无拘束的动作）是 Meg 的状态最精确的外部诊断——**比任何心理学描述都准确**。**"nowadays"（如今）暗示她以前有**——**这句话把 Meg 的变化定为一个时间对比**。**鸡蛋场景**（Tinka 演示 Meg 的手在鸡蛋上犹豫，好像触碰它令人恶心）——**这是全书对 Meg"厌恶触碰"的最具体表现**——从 ch08 的苍蝇纸梦境（对触碰的恐惧）到这里（对被触碰物的犹豫）——**她的身体恐惧最终成形**。
 - **读者视角提示**：注意 Meg 对 Tinka 的回应——**她"不太担心"**（"Tinka's remark didn't really worry me"）——但紧接着她回忆**医生的同样建议让她愤怒**——**作者让 Meg 对外部诊断的反应分为两级**（朋友 = 不担心，医生 = 愤怒）——**这种分级暴露了 Meg 的防御机制：她不否认症状，她否认治疗**。
 
 ### ④
@@ -48,7 +48,7 @@ modified: "2026-09-27"
 
 - **中文理解**：我知道如果有东西能让我发疯，那就是有人在我的潜意识里翻找、拖出各种令人恶心的恐怖——如果心灵不是用来把东西藏起来的，那它要潜意识做什么？如果我在那里藏着东西，我知道最好不要拿出来，而且我反正知道自己出了什么问题。
 - **关键词**：rummaging in my subconscious / dragging out disgusting horrors / why does a mind have a subconscious if it's not for keeping things hidden / I knew what was wrong with me
-- **为什么这样写**：**全书对精神分析最尖锐的拒绝**——"why does a mind have a subconscious if it's not for keeping things hidden?"——**这是一个修辞性问题（rhetorical question），也是一个哲学立场**——**Meg 把潜意识定义为"仓库"而不是"谜题"**——**储藏是为了不被取出**。**"I knew what was wrong with me"**——**这是全书最矛盾的一句**——**她说"我知道我哪里有问题"，但她拒绝告诉任何人、也拒绝治疗**——**这是全书对 Meg 心理状态最准确的总结：自知但不动**——**正是 ch17 "neutralizing substance" 的行为版**。
+- **为什么这样写**：**全书对精神分析最尖锐的拒绝**——"why does a mind have a subconscious if it's not for keeping things hidden?"——**这是一个修辞性问题（rhetorical question），也是一个哲学立场**——**Meg 把潜意识定义为"仓库"而不是"谜题"**——**储藏是为了不被取出**。**"I knew what was wrong with me"**——**这是全书极矛盾的一句**——**她说"我知道我哪里有问题"，但她拒绝告诉任何人、也拒绝治疗**——**这是全书对 Meg 心理状态最准确的总结：自知但不动**——**正是 ch17 "neutralizing substance" 的行为版**。
 - **读者视角提示**：注意 "Doctors are always inadequate for anything but pills."——**这句话是 Meg 对医疗系统的定论**——**她从医生那里只取药片**——**这是她与"体制"的关系**：**取用功能，拒绝意义**——这与她对 Dick 的关系（取用亲密，拒绝名分）、对工作（取用成功，拒绝骄傲）完全一致。
 
 ### ⑤

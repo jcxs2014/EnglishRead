@@ -21,7 +21,7 @@ modified: "2026-09-27"
 
 - **中文理解**："因为他更听你的，不是我的。"
 - **关键词**：takes more notice of you / than he does of me
-- **为什么这样写**：**全章最痛的一句台词**——这是 Norah 在承认 Jamil 爱 Meg——**她说得直白、不含怨恨、不设条件**。**"takes more notice of you" 是英语里最中性的表达**（更注意你）——**Norah 用最礼貌的词说出最伤的事实**。**作者让 Norah 成为全书最有尊严的人**——她明知 Jamil 更爱 Meg，仍为 Jamil 来求 Meg 帮忙。
+- **为什么这样写**：**全章极痛的一句台词**——这是 Norah 在承认 Jamil 爱 Meg——**她说得直白、不含怨恨、不设条件**。**"takes more notice of you" 是英语里最中性的表达**（更注意你）——**Norah 用最礼貌的词说出最伤的事实**。**作者让 Norah 成为全书极有尊严的人**——她明知 Jamil 更爱 Meg，仍为 Jamil 来求 Meg 帮忙。
 - **读者视角提示**：注意 Meg 的回应——"Could I have acted on Dick's behalf as she was acting for Jamil? Swallow pride, expose failure, and turn for help to someone he loved out of the genuineness of my concern? I hoped so, but I wasn't sure."——**Meg 的自省是本章最重要的心理分析**——她意识到自己不能为 Dick 这样做（因为他们的关系不可能公开求助）——**两个女人的处境对照成为本章的道德结构**。
 
 ### ②
@@ -30,8 +30,8 @@ modified: "2026-09-27"
 
 - **中文理解**："看，只是眼下一切都糟透了。但我要告诉你一件事：如果你命令我继续读下去，我就继续，因为我爱你。我这一秒就能撕掉那封信，但这是我这么做的唯一理由。"
 - **关键词**：everything is hell / if you'll order me / because I love you / the only reason
-- **为什么这样写**：**全章核心的交换提议**——Jamil 用"如果你命令我"把所有选择权交给 Meg——**这是全书最完整的一次"爱的托付"**——"because I love you" 是前提，"the only reason" 是限定。**Jamil 用主从结构把爱与服从绑定**："如果你命令我…我就做…因为我爱你"——**他把服从当作爱的证明**。这与 Meg 的"抵抗一切命令"（ch18 摔门）形成最强的对照——**一个愿意服从，一个拒绝服从**。
-- **读者视角提示**：注意 "I'll tear up that letter this moment"——**Jamil 完全可以用这封信作为自我价值的赌注**（"我撕掉它"），但 Meg 的回应（"That's absurd... Stop behaving like a child"）拒绝了这份礼物——**这是全书最关键的一处"拒绝被爱"**——**Meg 对价值的认知障碍在此完整呈现**（结合 ch17 "neutralizing substance" 读）。
+- **为什么这样写**：**全章核心的交换提议**——Jamil 用"如果你命令我"把所有选择权交给 Meg——**这是全书极完整的一次"爱的托付"**——"because I love you" 是前提，"the only reason" 是限定。**Jamil 用主从结构把爱与服从绑定**："如果你命令我…我就做…因为我爱你"——**他把服从当作爱的证明**。这与 Meg 的"抵抗一切命令"（ch18 摔门）形成最强的对照——**一个愿意服从，一个拒绝服从**。
+- **读者视角提示**：注意 "I'll tear up that letter this moment"——**Jamil 完全可以用这封信作为自我价值的赌注**（"我撕掉它"），但 Meg 的回应（"That's absurd... Stop behaving like a child"）拒绝了这份礼物——**这是全书极关键的一处"拒绝被爱"**——**Meg 对价值的认知障碍在此完整呈现**（结合 ch17 "neutralizing substance" 读）。
 
 ### ③
 
@@ -40,7 +40,7 @@ modified: "2026-09-27"
 - **中文理解**："别无礼。我不理解是因为你根本没在讲道理，我也不甜不担心，别自作多情。"……"我只是觉得你是个愚蠢的小傻瓜，对家庭没有感恩，对朋友没有体谅，不在乎你让可怜的 Norah 多痛苦——自私、爱炫耀……"
 - **关键词**：Don't be impertinent / don't flatter yourself / silly little fool / no gratitude / selfish, showing off
 - **为什么这样写**：**全章转折点**——Meg 从"体贴的朋友"变成"刻薄的攻击者"——**"Don't be impertinent" 是她用母亲式的语言**（原句：**"His mother would shout and scream at him, she would make a scene"**——Meg 想到母亲的方式，她用了母亲的方式）。**六个并列贬词**（silly / no gratitude / no consideration / selfish / showing off）——**这是 Meg 一次性的情绪倾泻**——**作者让她的词汇从"温柔"瞬间变成"刻毒"**——这是她一生被压抑的攻击性的第一次爆发。
-- **读者视角提示**：注意"Don't be impertinent"之前的心理——"perhaps out of my own rising temper—but, 'His mother would shout and scream at him, she would make a scene,' flashed through my mind"——**Meg 意识到自己正在变成"母亲"式人物**——**这是全书最深的心理对位**：她一生抵抗母亲的 plaintive（哀怨），此刻她却用了母亲的怒斥方式。
+- **读者视角提示**：注意"Don't be impertinent"之前的心理——"perhaps out of my own rising temper—but, 'His mother would shout and scream at him, she would make a scene,' flashed through my mind"——**Meg 意识到自己正在变成"母亲"式人物**——**这是全书极深的心理对位**：她一生抵抗母亲的 plaintive（哀怨），此刻她却用了母亲的怒斥方式。
 
 ### ④
 
@@ -48,8 +48,8 @@ modified: "2026-09-27"
 
 - **中文理解**："这是我一生中第一次生气时摔门，而不是特别安静地把它关上——老天作证，真爽！"
 - **关键词**：first time in my life / slammed a door / instead of shutting it especially quietly / by God, it's good
-- **为什么这样写**：**全章最解放的一句**——**"instead of shutting it especially quietly"**——**这是 Meg 一生的行为模式**（把门悄悄关上 = 压抑）——**她在二十五岁第一次"摔门"**——**作者用"by God, it's good!"（老天作证，真爽！）作为全书的解放宣言**——**这是全书唯一一次 Meg 表达纯粹的痛快**。
-- **读者视角提示**：注意"first time in my life"——**这句话标记了一个 25 年的等待**——**Meg 从少女期（ch01 的"conceited/superior/affected"）到成人期一直在压抑**——**摔门是她的第一次"affect"（发作）**——**作者让她的自我解放以"不当的行为"（摔门）而不是"正义的行为"（反抗压迫）实现**——这是 作者 的诚实：**解放不总是高尚的**。
+- **为什么这样写**：**全章极解放的一句**——**"instead of shutting it especially quietly"**——**这是 Meg 一生的行为模式**（把门悄悄关上 = 压抑）——**她在二十五岁第一次"摔门"**——**作者用"by God, it's good!"（老天作证，真爽！）作为全书的解放宣言**——**这是全书难得一次 Meg 表达纯粹的痛快**。
+- **读者视角提示**：注意"first time in my life"——**这句话标记了一个 25 年的等待**——**Meg 从少女期（ch01 的"conceited/superior/affected"）到成人期一直在压抑**——**摔门是她的第一次"affect"（发作）**——**作者让她的自我解放以"不当的行为"（摔门）而不是"正义的行为"（反抗压迫）实现**——这是作者的诚实：**解放不总是高尚的**。
 
 ### ⑤
 
@@ -57,8 +57,8 @@ modified: "2026-09-27"
 
 - **中文理解**：我上楼到卧室，在镜子里看自己：脸红了，眼睛发亮。我看起来不同寻常。……"天哪！"我对自己说，因为那一定只是一场表演吧？是的，当然是的：如果情感是真的，我绝不可能那样做——但我的身体却在颤抖、喘息。我的身体相信了那场表演。
 - **关键词**：I looked extraordinary / surely it had only been a performance / My body had believed in the performance
-- **为什么这样写**：**全书最重要的心理学发现**——Meg 怀疑自己的情感真实性（"it had only been a performance"）——**但身体不相信她的怀疑**（"trembling and panting"）——**"My body had believed in the performance"** 是本句的落点——**作者用"身体相信"来解释情感真实性**：**如果一个表演能让身体反应，那它就是真的**。**这与 ch16 "I wasn't even able to experience the feeling properly"形成了完整的对照**：**ch16 她无法感受，ch18 她的身体感受了**——**她的情感恢复从身体开始**。
-- **读者视角提示**：注意"Good God!"——**这是 Meg 自我反驳的惊叹**——她用惊讶来面对自己的身体反应——**这是 作者 让 Meg 成为"身体与意识分裂"的人物**：**她的意识分析一切，她的身体直接反应**——这种分裂贯穿全书（ch01 "I am a pretty woman" 的 indecency / ch08 fly-papers / ch10 freak）。
+- **为什么这样写**：**全书极重要的心理学发现**——Meg 怀疑自己的情感真实性（"it had only been a performance"）——**但身体不相信她的怀疑**（"trembling and panting"）——**"My body had believed in the performance"** 是本句的落点——**作者用"身体相信"来解释情感真实性**：**如果一个表演能让身体反应，那它就是真的**。**这与 ch16 "I wasn't even able to experience the feeling properly"形成了完整的对照**：**ch16 她无法感受，ch18 她的身体感受了**——**她的情感恢复从身体开始**。
+- **读者视角提示**：注意"Good God!"——**这是 Meg 自我反驳的惊叹**——她用惊讶来面对自己的身体反应——**这是作者让 Meg 成为"身体与意识分裂"的人物**：**她的意识分析一切，她的身体直接反应**——这种分裂贯穿全书（ch01 "I am a pretty woman" 的 indecency / ch08 fly-papers / ch10 freak）。
 
 ### ⑥
 
@@ -66,8 +66,8 @@ modified: "2026-09-27"
 
 - **中文理解**：亲爱的 Meg，原谅我。你是对的，我是个傻瓜。我没有寄出那封信。别相信你说的那些关于我的话，因为它们不真实。尽力继续爱我，求你求你。全心的爱，J。
 - **关键词**：You're right and I'm a fool / Go on loving me as much as you can, please please
-- **为什么这样写**：**全章最动人的文本**——Jamil 的字条是**全书唯一一封不带防御、完整坦白的信**——**"Go on loving me as much as you can, please please"**——**Jamil 不求同等回报，只求"你尽可能多地爱我"**——这是全书最谦卑的爱的表达。**"All my love, J."** 的签名（不加姓）——**正与全书唯一"用名"称呼的人**（Meg / Lucy / Adam 都有姓氏）——**Jamil 是唯一只用单字母签名的人**——他是唯一的"亲密"。
-- **读者视角提示**：注意 Meg 的第一反应——**"but my first thought, before they struck me fully, was, 'Oh God, why can't I do something like that with Dick?'"**——**这是全书最诚实的嫉妒**——Meg 羡慕 Jamil 能"求原谅"——**而 Dick 从未这样做**——**本章的核心是把 Jamil 与 Dick 的爱的质量作对照**：**Jamil 会为伤害道歉，Dick 不会**——**Jamil 会因为爱而低头，Dick 只会因为怕而沉默**。
+- **为什么这样写**：**全章极动人的文本**——Jamil 的字条是**全书难得一封不带防御、完整坦白的信**——**"Go on loving me as much as you can, please please"**——**Jamil 不求同等回报，只求"你尽可能多地爱我"**——这是全书极谦卑的爱的表达。**"All my love, J."** 的签名（不加姓）——**正与全书难得"用名"称呼的人**（Meg / Lucy / Adam 都有姓氏）——**Jamil 是唯一只用单字母签名的人**——他是唯一的"亲密"。
+- **读者视角提示**：注意 Meg 的第一反应——**"but my first thought, before they struck me fully, was, 'Oh God, why can't I do something like that with Dick?'"**——**这是全书极诚实的嫉妒**——Meg 羡慕 Jamil 能"求原谅"——**而 Dick 从未这样做**——**本章的核心是把 Jamil 与 Dick 的爱的质量作对照**：**Jamil 会为伤害道歉，Dick 不会**——**Jamil 会因为爱而低头，Dick 只会因为怕而沉默**。
 
 ## 本章词汇
 

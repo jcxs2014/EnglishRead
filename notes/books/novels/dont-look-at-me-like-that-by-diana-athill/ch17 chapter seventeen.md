@@ -29,9 +29,9 @@ modified: "2026-09-27"
 > **原句 2:** It happened that people wanted what came easily to me, and there can't be any great satisfaction in doing what comes easily. Pleasure, yes (thank God), but not pride. Perhaps if I had been a real painter …
 
 - **中文理解**：恰好人们想要的是我轻而易举就能做到的东西，而做轻而易举的事不可能有大满足。愉快，是的（感谢上帝），但不是自豪。也许如果我是个真正的画家的话……
-- **关键词**：what came easily / no great satisfaction / Pleasure, yes / but not pride / Perhaps if I had been a real painter
-- **为什么这样写**：**本章的核心自我审判**——作者用三段对照（satisfaction / pleasure / pride）区分"容易的成功"带来的两层缺失：**愉快但不自豪**。**"Pleasure, yes (thank God), but not pride"**——括号里的"thank God"是全书最自嘲的一处——**她至少有愉快**——但对 Meg 而言，愉快不足以替代自豪。**"Perhaps if I had been a real painter"**——省略号结尾——**这句话她永远没有说完**——因为"真正的画家"的可能性在 ch05 就被校长关上了。
-- **读者视角提示**：注意"Perhaps if I had been a real painter…"的省略号——**这是全书最完整的遗憾句**——从 ch05（校长的裁决）到 ch17（她自己的重新裁决）——**12 章的跨度里，她从未停止过那个"如果"**。
+- **关键词**：what came easily / any great satisfaction / Pleasure, yes / but not pride / Perhaps if I had been a real painter
+- **为什么这样写**：**本章的核心自我审判**——作者用三段对照（satisfaction / pleasure / pride）区分"容易的成功"带来的两层缺失：**愉快但不自豪**。**"Pleasure, yes (thank God), but not pride"**——括号里的"thank God"是全书极自嘲的一处——**她至少有愉快**——但对 Meg 而言，愉快不足以替代自豪。**"Perhaps if I had been a real painter"**——省略号结尾——**这句话她永远没有说完**——因为"真正的画家"的可能性在 ch05 就被校长关上了。
+- **读者视角提示**：注意"Perhaps if I had been a real painter…"的省略号——**这是全书极完整的遗憾句**——从 ch05（校长的裁决）到 ch17（她自己的重新裁决）——**12 章的跨度里，她从未停止过那个"如果"**。
 
 ### ③
 
@@ -48,7 +48,7 @@ modified: "2026-09-27"
 
 - **中文理解**：而形式影响内容：装作某件事没发生，它就开始感觉像没发生过。
 - **关键词**：form influences content / behave as though / it begins to feel as though it hadn't
-- **为什么这样写**：**全章最有格言厚度的一句**——**"form influences content" 是文学理论术语**（形式影响内容）——**作者把这个理论术语用在家庭伦理上**——这是英语文学里少见的"理论入叙述"的用法。**"behave as though something hasn't happened and it begins to feel as though it hadn't"**——**两个"as though"的对称结构**——**这是行为主义心理学的一个直白陈述**：行为塑造感知。
+- **为什么这样写**：**全章极有格言厚度的一句**——**"form influences content" 是文学理论术语**（形式影响内容）——**作者把这个理论术语用在家庭伦理上**——这是英语文学里少见的"理论入叙述"的用法。**"behave as though something hasn't happened and it begins to feel as though it hadn't"**——**两个"as though"的对称结构**——**这是行为主义心理学的一个直白陈述**：行为塑造感知。
 - **读者视角提示**：注意这句是 Meg 为父母的策略作辩护——**"My parents did with me what I used to do with Roxane: they clamped down on feelings and slipped into gear for 'having Meg at home,' and it worked."**——**作者让 Meg 承认家庭和解的代价是"灭活情感"**——这句是全书对英式家庭生活的核心判断。
 
 ### ⑤
@@ -57,7 +57,7 @@ modified: "2026-09-27"
 
 - **中文理解**："但这有什么了不起的？"他说。"你们说起来像是他们在宽恕 Meg 犯了什么可怕的罪——而她只是爱上了一个男人。这没有什么可怕的，所以你们为什么惊讶他们没有更生气？我想是因为他们爱她，只是因为他们全是英国人，所以他们不说'可怜的 Meg，可怜的宝贝，我们知道你的感受'。"
 - **关键词**：only loved a man / why are you surprised / they are all English / Poor Meg, poor darling
-- **为什么这样写**：**全书唯一一次有外人（Adam，葡萄牙人）直接说出英语文化的病理**——**"only loved a man"** 是全书对整件事最简短的定义——**一个外来者用七英尺的距离看清英国人在危机里的荒谬**。**"it is only because they are all English that they are not saying"**——**作者让 Adam 把"沉默"归因于国籍**。**"'Poor Meg, poor darling, we know how you feel.'"** 是 Adam 提供的替代版本——**这句话（如果父母说出来）本可以是治愈的**——但他们没有说出口，因为他们是英国人。
+- **为什么这样写**：**全书难得一次有外人（Adam，波兰人）直接说出英语文化的病理**——**"only loved a man"** 是全书对整件事最简短的定义——**一个外来者看清了英国人在危机里的荒谬**。**"it is only because they are all English that they are not saying"**——**作者让 Adam 把"沉默"归因于国籍**。**"'Poor Meg, poor darling, we know how you feel.'"** 是 Adam 提供的替代版本——**这句话（如果父母说出来）本可以是治愈的**——但他们没有说出口，因为他们是英国人。
 - **读者视角提示**：注意 Lucy 在上一段的评价——"They really are marvellous."——**Lucy 与 Adam 对同一件事的评价完全相反**——**这是全书的双重视角结构**：Lucy（英国式的钦佩）vs Adam（外来者的批评）——**作者不给结论，让两种视角并存**。
 
 ### ⑥
@@ -66,7 +66,7 @@ modified: "2026-09-27"
 
 - **中文理解**：我似乎存在于某种中和物质的包围中：任何接触到这物质的东西都被减为琐碎、变得无能、失去产生效果的力量。如果我看出一个选择是明智的，我并不会因此就能做出它；如果我知道一个行动是对的，我并不会因此就能采取它。我不带确信地相信任何事，因为信念一旦接触到这物质，也会变得如其他一切一样琐碎无效。
 - **关键词**：neutralizing substance / diminished to triviality / impotent / lost its power to produce effects / didn't therefore become able
-- **为什么这样写**：**全书最重要的抑郁描写**——**"neutralizing substance"（中和物质）是作者为抑郁创造的新隐喻**——它不是"悲伤"也不是"无力"，而是**一种包围物**，能"中和"一切（triviality / impotent / lost its power）。**四段平行结构**（如果…并不因此…）建立起一种**心理学的机械论**：**认知与行动之间的传导被切断**——**这正是抑郁的核心机制**：知道正确的事但无法采取行动。**作者 用"substance"（物质）的名词化把抑郁从"情绪"变成"环境"**——**这是对抑郁症最精确的文学命名之一**。
+- **为什么这样写**：**全书极重要的抑郁描写**——**"neutralizing substance"（中和物质）是作者为抑郁创造的新隐喻**——它不是"悲伤"也不是"无力"，而是**一种包围物**，能"中和"一切（triviality / impotent / lost its power）。**四段平行结构**（如果…并不因此…）建立起一种**心理学的机械论**：**认知与行动之间的传导被切断**——**这正是抑郁的核心机制**：知道正确的事但无法采取行动。**作者用"substance"（物质）的名词化把抑郁从"情绪"变成"环境"**——**这是对抑郁症最精确的文学命名之一**。
 - **读者视角提示**：注意"I didn't believe anything with conviction"——**这是 Meg 的信仰关闭**（呼应 ch02 "no longer believing in God"）——**作者把"信仰"放进"中和物"的作用范围**——**意思是她的无神论不是选择，是同一机制的产物**——**这是全书的心理一致性**：Meg 的所有"不信"（上帝、道德、事业、爱）都源于同一"中和物"。
 
 ## 本章词汇
