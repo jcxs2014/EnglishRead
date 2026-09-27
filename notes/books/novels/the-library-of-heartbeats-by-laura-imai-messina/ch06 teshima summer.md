@@ -24,7 +24,7 @@ source_text: ch06
 
 **为什么这样写**：`sort of like`（有点像）先给这句套上一层不确定的软垫，随后 `I read that`（我读到过）又垫一层——两次降格之后，这句话才被说出来，读者因此不会把它当成教义，而当成一个老人的转述。真正的重量全压在 `you have to get a bit lost in order to find it` 上：`in order to` 把「迷路」写成必要条件而非意外，`a bit`（一点）把这份必要量化到最小——不是迷路才找得到，是**不许太顺**。而这一章她真的在做：孙子把电子百科全书忘在旅馆里，那正是这一趟「走丢」的物证。
 
-**读者视角提示**：这条「先走丢才找得到」的规矩，正是秀一在 ch05 里拒绝的（他不肯冒险，因此什么也不做）。老太太六十多岁却能执行它，因为她**已经有值得走丢的东西**——ch05 说「the real joy of things resided in not revealing them」，这一章就是那份不说出来的欢喜。
+**读者视角提示**：这条「先走丢才找得到」的规矩，正是秀一在 ch05 里拒绝的（他不肯冒险，因此什么也不做）。老太太七十六岁却能执行它，因为她**已经有值得走丢的东西**——ch05 说「the real joy of things resided in not revealing them」，这一章就是那份不说出来的欢喜。
 
 > **原句 2:** ‘Discomfort is good for your memory,’ the lady responds happily.
 
@@ -34,7 +34,7 @@ source_text: ch06
 
 **为什么这样写**：全书最轻的一句台词，承担的却是最重的呼应。`Discomfort`（不适）被直接接到 `good for your memory`（对记忆有好处）上，两个抽象名词之间没有任何连接词，靠 `is` 一压就成因果——语法上省掉了推理过程，而推理过程正是全书的内容。副标 `the lady responds happily`（老太太愉快地答道）与句首的 `Discomfort` 形成对撞：孩子抱怨难受，得到的回答是快乐的。
 
-**读者视角提示**：这句与 ch05 母亲那句「谎言是用来改善我们的记忆的」构成**同一种句式**（X is good for + 抽象名词），而两次回答的人都相信自己在帮孩子。区别在于：母亲用谎言改善记忆，老太太用**不适**改善记忆——两人都自认是礼物，两人都没问过孩子要不要。ch05 那句的下一句是秀一在三十年后把同一句话原样转述给 Kenta；本章这句则被一个六岁男孩完全听懂，只是他不能承认自己听懂了。
+**读者视角提示**：这句与 ch05 母亲那句「谎言是用来改善我们的记忆的」构成**同一种句式**（X is good for + 抽象名词），而两次回答的人都相信自己在帮孩子。区别在于：母亲用谎言改善记忆，老太太用**不适**改善记忆——两人都自认是礼物，两人都没问过孩子要不要。ch05 那句的下一句是秀一在三十年后把同一句话原样转述给 Kenta；本章这句则被一个八岁男孩完全听懂，只是他不能承认自己听懂了。
 
 > **原句 3:** They look like a blanket of matcha chocolate.
 
@@ -42,7 +42,7 @@ source_text: ch06
 
 **关键词**：They look like a blanket of matcha chocolate
 
-**为什么这样写**：整句只有九个词，主语是一个 `They`（它们），指代前一句刚出场的稻田——这个 `They` 是全章唯一一次让风景当主角。`look like`（看起来像）之后接的不是颜色对应物（绿色）而是一种**可食用的整体**：`a blanket of matcha chocolate`（一床抹茶巧克力的毯子），毯子负责「覆盖」的形状，巧克力负责「绿而甜」的颜色与味道。写成毯子而不是田畦，是因为男孩此刻正隔着车窗往下一看——他看见的是一整片盖住山谷的平面，不是田埂。
+**为什么这样写**：整句只有八个词，主语是一个 `They`（它们），指代前一句刚出场的稻田——这个 `They` 是全章唯一一次让风景当主角。`look like`（看起来像）之后接的不是颜色对应物（绿色）而是一种**可食用的整体**：`a blanket of matcha chocolate`（一床抹茶巧克力的毯子），毯子负责「覆盖」的形状，巧克力负责「绿而甜」的颜色与味道。写成毯子而不是田畦，是因为男孩此刻正隔着车窗往下一看——他看见的是一整片盖住山谷的平面，不是田埂。
 
 **读者视角提示**：这一句是本章唯一一处纯粹写景，也是全书极少见的、**不带任何隐喻功能**的句子。它的作用是给读者三秒钟喘气：这一趟旅程本身是美的，秀一的丧失与这个美没有关系。
 
@@ -62,7 +62,7 @@ source_text: ch06
 
 **关键词**：remained in silence / not because he understood deep down / the way she placed her voice carefully on the words / revealed how much it meant to her
 
-**为什么这样写**：这是一个 `not because… but because…` 的双层否定结构，先否掉读者最容易采用的解释（孩子听懂了），再给出真正的原因（孩子听懂的是**她**）。`understood deep down`（心底明白）被故意降级成不成立的选项，理由是：六岁孩子不具备理解「收藏心跳」这种概念的能力，但他具备读懂语气的能力。`the way she placed her voice carefully on the words`（她把声音仔细安放在字上的方式）把「朗读」写成一个**放置动作**——声音被安放，不是被发出；紧接着 `revealed how much it meant to her`（泄露了它对她有多重要）用一个泄露信息的动词，把孩子的沉默定性为**忠诚**而非无知。
+**为什么这样写**：这是一个 `not because… but because…` 的双层否定结构，先否掉读者最容易采用的解释（孩子听懂了），再给出真正的原因（孩子听懂的是**她**）。`understood deep down`（心底明白）被故意降级成不成立的选项，理由是：八岁的孩子还不具备理解「收藏心跳」这种概念的能力，但他具备读懂语气的能力。`the way she placed her voice carefully on the words`（她把声音仔细安放在字上的方式）把「朗读」写成一个**放置动作**——声音被安放，不是被发出；紧接着 `revealed how much it meant to her`（泄露了它对她有多重要）用一个泄露信息的动词，把孩子的沉默定性为**忠诚**而非无知。
 
 **读者视角提示**：这一句是全书对「沉默」最准确的一次定义。秀一此后对 Kenta 的每一次沉默都属同一类：不是不懂，是**听懂了不该说**。ch05 里他说 `I’ve always chosen not to be too attached to the truth`（我一直选择不去太当真），就是这句的成人版。
 
@@ -74,7 +74,7 @@ source_text: ch06
 
 **为什么这样写**：三句是一个从远到近的镜头：先给正面轮廓（心形），再给侧面视角（从直岛看过去是拳头背面），最后拆字。`the back of a fist`（拳头的背面）选得非常精确——从邻岛看去，你看不到拳头内部的四根手指与掌心，只能看到手背与四指隆起的弧线，因此「护着某样珍贵的东西」这个动作必须由叙述者替读者补上，而这正是 `closed protectively`（护着）这个副词在做的事。末句用 `That’s where the first part of its name comes from`（岛名的第一个音正来自这里）把地貌、动作与词源一次扣合：`Te`（手）既是拳、也是心形里那一点。
 
-**读者视角提示**：这一组三句回答了书名的问题。岛名是「丰（て）」＝手，而这座岛是 Christian Boltanski 建的 `Shinzō-on no Ākaibu`（心跳档案馆）——**用手（心脏）保存心脏的声音**。ch14–ch16 的四间房里，Kenta 会被要求把手放在秀一的掌心里；本章的「手」字在此埋下全书最后一次的呼应。
+**读者视角提示**：这一组三句回答了书名的问题。岛名是「丰（て）」＝手，而这座岛是 Christian Boltanski 建的 `Shinzō-on no Ākaibu`（心跳档案馆）——**用手（心脏）保存心脏的声音**。ch14–ch16 的三间房里，Kenta 会被要求把手放在秀一的掌心里；本章的「手」字在此埋下全书最后一次的呼应。
 
 > **原句 7:** What matters most, the artist wrote, is to preserve our memory, because people come back to life only in the memory of others.
 
@@ -84,7 +84,7 @@ source_text: ch06
 
 **为什么这样写**：这是全章唯一一次引用外部作者的话，用 `the artist wrote`（艺术家写道）标记来源，随后句子用了全章最正式的一组词：`What matters most`（最重要的）、`to preserve our memory`（保存我们的记忆）。前半句的 `our`（我们的）把读者拉进主语位置，后半句的 `the memory of others`（他人的记忆）却把人推到宾语位置——**我们保存记忆，是为了让他人活过来**。两个所有格在同一个句子里换位，这是本章唯一一次语法层面承担论证的地方。`only`（仅仅）加在 `in the memory of others` 前面，堵死了「靠自己活过来」这条路。
 
-**读者视角提示**：这句话在 ch17 会以母亲的复述原样出现（`because people come back to life only in the memory of others.`），而秀一在 ch03–ch16 整整十四章里做的全部事情，正是执行这句话——他保留母亲的记忆、母亲的字、母亲的声音。本章是一位陌生老太太在替一个陌生孩子读到这个句子，而真正需要它的人此刻正在东京做手术。**全书的因果，是从这个剪报开始的。**
+**读者视角提示**：这句话在 ch17 会被母亲**转述**（不是原样复现）——原文是 `The artist’s words about collecting people’s heartbeats as a tribute to life were like an epiphany to her.`（那位艺术家关于收集人们心跳以致敬生命的话，对她像一次顿悟），而秀一在 ch03–ch16 整整十四章里做的全部事情，正是执行这句话——他保留母亲的记忆、母亲的字、母亲的声音。本章是一位陌生老太太在替一个陌生孩子读到这个句子，而真正需要它的人此刻正在东京做手术。**全书的因果，是从这个剪报开始的。**
 
 > **原句 8:** When she feels old and useless, when she thinks she has been imprudent to bring the boy all this way from home, when the boy complains that he’s bored and tired, the woman rubs him on the head and responds, with a certainty she has rarely had, that this very idea is what makes the trip worth it.
 

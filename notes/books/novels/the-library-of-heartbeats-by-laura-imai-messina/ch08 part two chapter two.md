@@ -54,7 +54,7 @@ source_text: ch08
 
 **为什么这样写**：三个短句构成一条完整的病程，用同一个构词法（`good + 身份 + syndrome`）串起三种角色，读起来像一份诊断书上的三行。第一句的 `As a child`（小时候）给出起点；第二句的 `transmuted into`（转化成）——用的是「嬗变」这个词的完整技术含义，指元素在高温高压下变成另一种元素，因此「好丈夫」不是「好孩子」的放大版，而是**同一种东西换了相**。末句用 `But` 起手，把整条链条打断；`broke him`（击垮了他）用 `break`（折断、垮掉）而不是 `defeated him`（击败了他）——`break` 属于器物语法，被折断的是**人**，不可修复。
 
-**读者视角提示**：三个 `syndrome` 在本章里出现过六次（`grep` 可核），但只有这一次把 `syndrome` 用作**书名式的标签**而非医学名词。医学名词的 tako-tsubo 由医生与书给出，社会的iagnosis由秀一自己贴上——本章三处 `a./b./c.` 插入正是这条线索的延伸：谁给一个处境命名，谁就掌握它。
+**读者视角提示**：三个 `syndrome` 在本章里出现过十一次（`grep` 可核），但只有这一次把 `syndrome` 用作**书名式的标签**而非医学名词。医学名词的 tako-tsubo 由医生与书给出，社会的`diagnosis` 由秀一自己贴上——本章三处 `a./b./c.` 插入正是这条线索的延伸：谁给一个处境命名，谁就掌握它。
 
 > **原句 5:** ‘It is. That’s why I chose it. I am tired, but I want to see with my own eyes that life is going on. People coming in and going out through the automatic doors, people choosing things to eat, toothbrushes, nylon stockings, fruit ice lollies, people buying cigarettes, alcohol, junk food, paying their bills. I don’t want life to leave me in peace; I want it to make an infernal noise, to pull me along by the T-shirt and not give me a moment to think.’
 
@@ -68,11 +68,11 @@ source_text: ch08
 
 > **原句 6:** August was winter and September was both spring and autumn.
 
-八月是冬天，九月既 是春天也是秋天。
+八月是冬天，九月既是春天也是秋天。
 
 **关键词**：August was winter / September was both spring and autumn
 
-**为什么这样写**：整句只有十一个词，两个分句结构相同（月份 + 系动词 + 季节），但第二个多出一个 `both`（既是……又是……），把单一对应改成双重对应。这一句的怪异之处在于它**没有主语**——谁在过这个八月？答案是秀一的儿子秀兴：这是一句写给一个八岁男孩的内心时间表。八月（秀兴死的那个月）在他体内成了冬天，九月（秀一开始机械生活的那个月）既像结束也像开始，两种季节同时压在一个月里。
+**为什么这样写**：整句只有十个词，两个分句结构相同（月份 + 系动词 + 季节），但第二个多出一个 `both`（既是……又是……），把单一对应改成双重对应。这一句的怪异之处在于它**没有主语**——谁在过这个八月？答案是秀一的儿子秀兴：这是一句写给一个八岁男孩的内心时间表。八月（秀兴死的那个月）在他体内成了冬天，九月（秀一开始机械生活的那个月）既像结束也像开始，两种季节同时压在一个月里。
 
 **读者视角提示**：这一句是全书唯一一处直接暴露秀兴主观时间的地方，而它出现在**秀一的叙述**里——父亲用儿子的话说出了自己体内的季节。ch16 的 Recording Room 里，Kenta 问秀一能不能听见秀兴的心跳；本章这句是那次「听见」的最早版本。
 
@@ -84,7 +84,7 @@ source_text: ch08
 
 **为什么这样写**：整句是一个 `that's when I understood`（我那时才明白）的补语，两个分句用逗号而不是句号相连，节奏上不给人换气的余地。第一个分句用 `the price you pay`（你要付的价钱）——`price`（代价）在英语里同时指金钱与代价，而秀一此刻正为经济不稳定发愁，这个词因此双关：他没有花掉钱，他花掉的是**感受力**。第二个分句 `not suffering is all you get out of it`（不受苦是你能得到的全部）用 `all you get out of it`（从这件事里你所能得到的全部）作表语，`all`（全部）与前句的 `price`（价钱）构成一次等价交换：不付痛苦，就只收痛苦的对价，两者相等。
 
-**读者视角提示**：这是秀一对 ch08 前半那段机械生活下的**总判决**，而说出它的场合是火车上对 Sayaka 讲。这句话此后会持续影响他：ch11 他躺在手术台上不敢麻醉、ch13 他老年回望时把这一整年称为 `the price`，都是它的回声。
+**读者视角提示**：这是秀一对 ch08 前半那段机械生活下的**总判决**，而说出它的场合是火车上对 Sayaka 讲。这句话此后会持续影响他：手术台上他必须把意识交出去（ch16）、多年后他终于敢把这一整年叫作 `the price`——而 `the price` 这个词**全书只在本章出现过这一次**（`grep` 可核），是秀一当场造出来的。
 
 > **原句 8:** ‘The truth is that we never have an absolute value. Nothing and no one has an absolute value. We are who we are thanks to the names we are called in the world, the roles we carve out for ourselves in the lives of others,’ whispered Shūichi.
 

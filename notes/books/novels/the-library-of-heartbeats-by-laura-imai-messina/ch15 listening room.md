@@ -52,7 +52,7 @@ source_text: ch15
 
 **为什么这样写**：第一句是**地理跳切**，用两组 `from X to Y` 把听的动作写成一种漫无目的的位移；而 `jumped`（跳）用了一个与「听」不相称的动词，暗示他并没有在找什么。整段的分量落在最后那个排比疑问上——`whether when she recorded it she was young or old, whether she’s still alive, what she does, who she is`（她录音时是年轻还是年老，是否还活着，做什么，是谁）——`whether… whether… what… who` 四组疑问从**时间**（年轻／年老）、到**存续**（是否还活着）、到**行为**（做什么）、到**身份**（是谁），依次退远；而 `Who knows`（谁知道）这个开场把整组问题变成**承认无知**。注意 Anna Bernini 这个人从未出现——**他是为一个不存在于此刻的人在做统计。**
 
-**读者视角提示**：这一段的结构与 ch13 那位工作人员的说明是镜像的。ch13 说的是「我们不知道这些人的脸，我们知道的只是名字、姓、位置」；本章秀一做的事恰好相反——**他有脸（他想象得出 Anna Bernini 的样子），却什么都不知道**。而 Anna Bernini 与 ch15 末尾那位留下 `With Celine Joly, for whom this heart beats`（和 Celine Joly 一起来的，这颗心为她而跳）的 Neil Charm Calub 构成一组：一个是**为了别人**而跳的心，一个是要找**三年半前的自己**的心。**这座馆里所有的爱都是单向的档案。**
+**读者视角提示**：这一段的结构与 ch13 那位工作人员的说明是镜像的。ch13 说的是「我们不知道这些人的脸，我们知道的只是名字、姓、位置」；本章秀一做的事恰好相反——**他连她是谁都不知道**（`who she is`），却已经决定去找她。而 Anna Bernini 与 ch15 末尾那位留下 `With Celine Joly, for whom this heart beats`（和 Celine Joly 一起来的，这颗心为她而跳）的 Neil Charm Calub 构成一组：一个是**为了别人**而跳的心，一个是要找**十一年前的自己**的心。**这座馆里所有的爱都是单向的档案。**
 
 > **原句 4:** AGerman heart, a Swiss heart, a Chinese heart, a Korean heart, Shūichi thought looking at him, we work hard to try to be different our whole lives, but we end up identical to the original plan. These were testimonies that all of these people had been alive; that a part of them was infinitely replicable.
 

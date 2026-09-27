@@ -8,7 +8,7 @@ source_text: ch17
 
 ## 本章导航
 
-- **一句话概括**：离开 Teshima 那天，秀一在便利店饭团前用指尖和嗓音复述出母亲与儿子那两条心跳（`that he had learned by heart`），对 Sayaka 说出全书的结论——**记忆是意志问题，仅此而已**；他补完两年半前的那段因果：母亲在理发店读到那篇报道，是在秀一手术前两周，而她把 8 岁的秀兴带去岛上，是想给他一块护身符；三天后，8 月 16 日，沙滩上，秀一教 Sayaka 和 Kenta 冲浪。
+- **一句话概括**：离开 Teshima 那天，秀一在外带餐前用指尖和嗓音复述出母亲与儿子那两条心跳（`that he had learned by heart`），对 Sayaka 说出全书的结论——**记忆是意志问题，仅此而已**；他补完两年半前的那段因果：母亲在理发店读到那篇报道，是在秀一手术前两周，而她把 8 岁的秀兴带去岛上，是想给他一块护身符；第二天清晨，他们约在海边见面，秀一教 Sayaka 和 Kenta 冲浪。
 - **情感弧线位置**：**弧线的终点与闭合**。它不是高潮，是**着陆**——本章几乎没有事件（一场对话、一次日出、三个人下水），却完成了三件事：①合上 ch16 打开的那条缝（母亲为什么去那座岛）；②兑现 ch09 母亲的训诫（`to be happy, first of all you need to imagine being happy.`）；③把「养一个孩子」这件事从义务变成喜悦（`There was even a child in his life.`）。
 - **Tropes 兑现/反转**：兑现「丧偶／丧子后重新生活」的收尾，但拒绝廉价的疗愈语：`It took such energy to be happy when you weren’t yet.`（在还没学会高兴之前，高兴要花掉那么多力气。）——幸福被写成一件**要花力气才能启动的事**，而不是一个自然回归的状态。另一重兑现是「画家画窗」这个贯穿全书的母题：秀一在书发布会上只答过一次的那个问题（`why do you always draw them from the outside?`），本章由 Sayaka 重新问起，而**答案由他自己补完**。
 - **人物弧线**：秀一在本章完成了 ch08 那句诊断（`this is the price you pay not to suffer, and not suffering is all you get out of it`）的反面——他重新开始**花代价**：`(the shoelaces to watch), misunderstandings, grazes on elbows and knees`（要盯的鞋带、误会、膝盖和手肘的擦伤），这一串琐碎的清单是**爱的成本表**。而 Kenta 在本章第一次被他称作「Kenta」以外的东西：一个可以在浪上站起来的人。
@@ -42,7 +42,7 @@ source_text: ch17
 
 **关键词**：he had asked his mother to take Shingo on a short trip / only a bigger memory would be capable of pushing aside that other memory / or at least make it a little less significant / Sayaka couldn’t help smiling / she laid a hand on his cheek
 
-**为什么这样写**：这一段是全书的**因果起点**，而它用了一个极其日常的动词结构：`a bigger memory`（更大的记忆）能 `pushing aside`（把……推到一边）`that other memory`（另一个记忆）。`pushing aside` 是**物理动作**——把两样东西并排、把一样挪开——于是「用一段旅行替换一段丧亲之痛」这个念头被写成了一个**力学问题**。末句 `Shūichi was just like Mrs Ōno in his attempts to minimise and push away the pain`（秀一和他母亲一模一样）是最锋利的一处对照：**母亲一生用「这是好事」缩小儿子的痛苦，秀一此刻用「更大的记忆」缩小自己的痛苦**——同一套技术，隔了一代人。而 Sayaka 的反应是无声的：`she laid a hand on his cheek`（她把手放在他的脸颊上）——**她没有反驳，因为她认得这套技术，而且她自己是靠它活下来的**（ch07 说过「it was as though you were reacting to something that hadn’t even crossed my mind」）。
+**为什么这样写**：这一段是全书的**因果起点**，而它用了一个极其日常的动词结构：`a bigger memory`（更大的记忆）能 `pushing aside`（把……推到一边）`that other memory`（另一个记忆）。`pushing aside` 是**物理动作**——把两样东西并排、把一样挪开——于是「用一段旅行替换一段丧亲之痛」这个念头被写成了一个**力学问题**。末句 `Shūichi was just like Mrs Ōno in his attempts to minimise and push away the pain`（秀一和他母亲一模一样）是最锋利的一处对照：**母亲一生用「这是好事」缩小儿子的痛苦，秀一此刻用「更大的记忆」缩小自己的痛苦**——同一套技术，隔了一代人。而 Sayaka 的反应是无声的：`she laid a hand on his cheek`（她把手放在他的脸颊上）——**她没有反驳，因为她认得这套技术，而且她自己是靠它活下来的**（ch05 说过「it was as though you were reacting to something that hadn’t even crossed my mind」）。
 
 **读者视角提示**：`only a bigger memory would be capable of pushing aside that other memory`（只有一个更大的记忆才能把另一个记忆推到一边）——这句话是秀一**去 Teshima 的真正动机**，而他直到本章才说出来。也就是说：ch12 决定动身时，他的理由是 Kenta 与 Kenta 的罪责；而本章揭示的是更早的那一个——**他想用一段「快乐」把「秀兴之死」挤到边上**。而这一次他没有撒谎：**那次旅行失败了**（`they hadn’t been in Miura, at least not for the entire holiday`），被更大记忆盖住的不是丧亲之痛，而是丧亲之痛旁边那个**更大的记忆——外祖母带儿子去听的两个人的心跳。**
 
@@ -66,7 +66,7 @@ source_text: ch17
 
 **为什么这样写**：这是全书**最著名的一段回答**，而它的论证结构是一次**从测量到移情**的转换。第一句用 `more than`（比……更）做比较，但比较的对象是「里面」与「外面」——**外面看得见，里面看不见**，而他说自己更想了解**看不见的那个**。第二句给出一个物理限制：`you can only see a tiny part of the inside of a house`（你只能看到屋子里的一小块）——`only`（只能）是全句的支点。第三句立刻把这个限制**翻转成自由**：`for the person looking, maybe a piece of the ceiling, a chandelier, a drawing on the wall, that tiny part becomes the whole house`（但对正在看的那个人来说，也许天花板的一角、一盏吊灯、墙上的一幅画——那一小块就变成了整栋房子）——`becomes the whole house`（变成了整栋房子）用了一个**系动词的时态转换**：从「看到一小块」到「那一小块就是全部」，**看的人是谁，决定了世界的尺寸**。
 
-**读者视角提示**：这三件「一小块」的清单（天花板的角、吊灯、墙上的画）正是整本书的物件表——**灯**（ch14 的灯泡）、**镜**（ch14 的智利黑镜）、**纸**（ch12 的折纸心）、**数字**（ch16 的 42191/42192）。而这段回答的场合是 ch07 那场「一个五岁男孩举手」的旧事：秀一在十七章的尾声里终于承认，**他这一生画窗，画的是那些人的人生**——他画母亲的、画 Sayaka 的、画 Kenta 的，最后 ch17 里 Sayaka 说「我想带你去看我长大的那栋房子的窗，我希望你记得它们」——**她把自己变成了一扇窗。**
+**读者视角提示**：这三件「一小块」的清单（天花板的角、吊灯、墙上的画）正是整本书的物件表——**灯**（ch14 的灯泡）、**镜**（ch14 的智利黑镜）、**纸**（ch12 的折纸心）、**数字**（ch16 的 42191/42192）。而这段回答的场合就是本章那场「一个五岁男孩举手」的旧事：秀一在十七章的尾声里终于承认，**他这一生画窗，画的是那些人的人生**——他画母亲的、画 Sayaka 的、画 Kenta 的，最后 ch17 里 Sayaka 说「我想带你去看我长大的那栋房子的窗，我希望你记得它们」——**她把自己变成了一扇窗。**
 
 > **原句 6:** He felt happy, but his happiness was marbled by the knowledge that even the things he loved the most would come to an end.
 

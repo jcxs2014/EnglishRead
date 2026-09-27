@@ -11,7 +11,7 @@ source_text: ch07
 - **一句话概括**：秀一在 Kenta 的指挥下把母亲的房子一件件搬回原位；Kenta 问起古埃及木乃伊「心脏留在了体内」，他由此第一次对别人说出自己心脏的病名；那天夜里他在小酒馆里被一整批童年的痛苦记忆同时击中，悟出「记忆像同一株母竹上劈出的竹子，会在同一天开花」——同一晚他第二次遇见 Sayaka，两年后他才把儿子 Shingo 溺亡的真相说出口。
 - **情感弧线位置**：**全书最高的一次转折点**。前半章是回填（把拆掉的家还原），后半章是崩塌（把删掉的记忆一次性还回来）。转折的支点是 Kenta 无意间说出的一句「Mrs Ōno 跟我说你从坡上冲下去过」——一句被母亲否认了三十五年的真话，由一个孩子重新交回。
 - **Tropes 兑现/反转**：兑现「失忆者被孩子的天真一句话击穿」的桥段，但反转成双向——秀一失忆的时期里，Kenta 一直在替他保管那些记忆（母亲讲给他听的版本）。另一重兑现是「重逢即告白」：本章并没有告白，告白被推迟到 ch08–ch09，本章只完成了「不再忘记」这一件事。
-- **人物弧线**：秀一在本章做了三件他此前不会做的事：①把拆掉的东西搬回去（承认自己错了）；②说出病名（`Paroxysmal supraventricular tachycardia`）；③在酒馆里对 Sayaka 承认儿子的事。三件都发生在同一个傍晚，顺序是：先对物认错，再对病承认，最后对人说真话。
+- **人物弧线**：秀一在本章做了三件他此前不会做的事：①把拆掉的东西搬回去（承认自己错了）；②说出病名（`Paroxysmal supraventricular tachycardia`）；③在横须贺线的电车上对 Sayaka 承认儿子的事（原文：三人登上 `the Yokosuka Line train`，对话发生在车厢里）。三件事**不在同一个傍晚**：①的归位是持续了整个夏天的动作，②在下午，只有③是一次单独的行程，顺序是：先对物认错，再对病承认，最后对人说真话。
 - **叙事手法**：三视角并置（`KENTA` / `SHŪICHI` / `SAYAKA` 三段分栏写涩谷十字路口），是全书唯一一次把同一场景从三个人心里各写一遍。写完三栏立刻切到第三方的 Maeda太太（秀兴同学的母亲），用她的客套话把「秀兴之死」这件事在**社会认知层面**再确认一次——读者由此知道，全城都以为那是秀一的错。章末以 Canetti 的一句引文收束。
 
 ## 精读
@@ -32,7 +32,7 @@ source_text: ch07
 
 **关键词**：shelled walnuts waiting for everything around them to stop / There were no kernels, just the hulls and the shells
 
-**为什么这样写**：第一句的 `waiting`（等待）把所有静止的人写成同一类正在等的东西，而 `everything around them`（他们周围的一切）把「动」全推到人以外。第二句只有六个词，`no kernels`（没有果仁）用否定先立空缺，`just the hulls and the shells`（只有外壳与硬壳）再补上双重肯定——`hull`（外皮）与 `shell`（硬壳）在中文里是同一个词，译者必须靠英文的分层才分得出；而这个技术性的区分正是全句的意思：**剩下两层的壳，人已经不在里面了。** 整句没有 `like`、没有 `as if`，它是一句陈述句，因此比任何比喻都更冷。
+**为什么这样写**：第一句的 `waiting`（等待）把所有静止的人写成同一类正在等的东西，而 `everything around them`（他们周围的一切）把「动」全推到人以外。第二句只有十个词，`no kernels`（没有果仁）用否定先立空缺，`just the hulls and the shells`（只有外壳与硬壳）再补上双重肯定——`hull`（外皮）与 `shell`（硬壳）在中文里是同一个词，译者必须靠英文的分层才分得出；而这个技术性的区分正是全句的意思：**剩下两层的壳，人已经不在里面了。** 整句没有 `like`、没有 `as if`，它是一句陈述句，因此比任何比喻都更冷。
 
 **读者视角提示**：这是秀一二十三岁那本核桃书的立意来源，也解释了他为什么能写出关于创伤的书（`post-traumatic disorders`）却写不出自己的创伤。核桃有壳无仁＝秀一有余生无心。ch11 他躺上手术台时，这层壳要被打开一次。
 
@@ -50,11 +50,11 @@ source_text: ch07
 
 弯道边的墓地看起来更大了，立着成千上万根木牌，Kenta 想象出一支死者的军队，带着问题向他进军——像从一个世界突然被发射出来的信使，身不由己地冲进未来。他不把他们想象成愤怒的，而是更茫然的。但他帮不了他们；他什么都不知道。
 
-**关键词**：an army of the dead, marching towards him / armed with questions / like messengers from a past world, suddenly launched, despite themselves, into the future / he knew nothing
+**关键词**：an army of the dead, marching towards him / armed with questions / like messengers from a past world, suddenly launched, despite themselves, into the future
 
 **为什么这样写**：全句把「墓碑」这个静物改造成一支**行军部队**，而它唯一的武装是 `questions`（问题）——`armed with questions` 这个介词短语让「问题」从名词变成装备，与 Kenta 刚刚在秀一家院子里问的那一串问题（手臂上的疤、路边结冰、躺了几个星期）形成暗接。比喻的第二层 `suddenly launched, despite themselves, into the future`（身不由己地被发射进未来）用 `despite themselves`（违背他们自己的意愿）把同情写进结构：这些人不想来。末段两个短句各说一次「不知道」，一次针对死者（`he knew nothing` 里的 `he` 指 Kenta），一次是对自己的判决。
 
-**读者视角提示**：木牌是禅林的**卒塔婆**——写死者法号的木牌。ch14 老年秀一与 Kenta 重走这条路时，Kenta 依然怕墓地；ch15 的 Listening Room 里，墙上挂满黑色镜片（`Black mirrors, Chilean. They show your soul rather than your face.`）——全书把「被看」这件事做成了连续的恐惧线。
+**读者视角提示**：木牌是禅林的**卒塔婆**——写死者法号的木牌。ch14 的 Heart Room 里，墙上挂满黑色镜片（`Black mirrors, Chilean. They show your soul rather than your face.`）——全书把「被看」这件事做成了连续的恐惧线。
 
 > **原句 5:** They were all unhappy memories, memories that, thanks to his mother’s persistence in denying all that was sad, he had never been sure were real; yet now they felt touching and precious, even more precious than the fantastic trips his mother talked about, which she added new and different details to every time they talked.
 
@@ -74,7 +74,7 @@ source_text: ch07
 
 **为什么这样写**：这句是全章的题眼，也是全书最好的一句比喻。`sit quietly`（安静地坐着）把记忆安置成一个有耐心的人，而 `all at once and all together`（一齐一总）连用两个同义副词，把「同时」这件事强调到近乎不真实。比喻的部分每一句都在做减法：`like bamboo plants split from the same mother`（像从同一株母竹上劈出来的竹子）——**一个母亲、一次分裂、一个共同的花期**——三个信息全部装进一个植物学的图像里，而这三个信息正好是整本书的情节（一位母亲、一次丧失、一次共同的苏醒）。末句 `wherever they have been planted in the world`（无论它们被种在世界哪里）用 `planted`（被种）再次确认植物框架，`they all flower on the same day`（都在同一天开花）以 `all` 起句、`the same day` 收句，把开合两端都锁死。
 
-**读者视角提示**：这个「同一天开花」在 ch16 的录音室里被兑现：秀一与 Kenta 各自听见的、来自不同人的心跳，在同一段黑暗里同时响起。ch17 结尾他说「记忆是意志问题，仅此而已」——那正是这句比喻的反面：不是花期自动到来，是有人决定让它开。
+**读者视角提示**：这个「同一天开花」在 ch15 的 Listening Room 里被兑现：秀一隔着隔板与 Kenta 各自听见的、来自不同人的心跳，在同一段黑暗里同时响起。ch17 结尾他说「记忆是意志问题，仅此而已」——那正是这句比喻的反面：不是花期自动到来，是有人决定让它开。
 
 > **原句 7:** ‘If you don’t think you can improve a person’s life, it’s not fair to place yourself next to them.’
 
@@ -94,7 +94,7 @@ source_text: ch07
 
 **为什么这样写**：全章最后一句是引用，作者与出处在紧随其后的两行里给出（`—ELIAS CANETTI, THE SECRET HEART OF THE CLOCK, TR. JOEL AGEE`）。句子结构是 `no longer`（不再）＋一个动名词（`irritated`）＋一个所有格名词（`the fairy tale’s happy end`）——被否定的不是「喜欢」，而是「**为它烦躁**」，选词精准到反常：一个人通常会为 happy end 之外的东西烦躁，这里被点名的却是**圆满结局本身**。破折号后的 `I need it`（我需要它）只有三个词，把前面那个长名词组一下子清空：一个成年人承认自己仍然需要童话的许可。破折号在这里不是插入语，是转折支点。
 
-**读者视角提示**：这一句写在秀一讲完儿子之死的**同一个夜晚**。`THE SECRET HEART OF THE CLOCK`（钟的秘密之心）这个书名本身就在预告全书的主旨；ch14 的 Heart Room、ch16 的 Recording Room 都是这句书名的实体化。而全书的结局（ch17）正是这个「需要」被满足的时刻——秀一终于又有了可以要圆满结局的理由。
+**读者视角提示**：这一句是秀一在**十一月三日**抄进笔记本的（原文小标题即 `The quote Shūichi copied into his notebook on 3 November that year`）——比儿子溺亡的 8 月 16 日晚了许多，也比他三月在电车上向 Sayaka 坦白的那一晚更晚。`THE SECRET HEART OF THE CLOCK`（钟的秘密之心）这个书名本身就在预告全书的主旨；ch14 的 Heart Room、ch16 的 Recording Room 都是这句书名的实体化。而全书的结局（ch17）正是这个「需要」被满足的时刻——秀一终于又有了可以要圆满结局的理由。
 
 ## 本章词汇
 
