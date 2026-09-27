@@ -229,6 +229,8 @@ modified: "2026-09-27"
 | catechism | 教理问答 | lessons to be memorized in Father Astete's **catechism** class |
 | crossword | 纵横字谜 | solving **crossword** puzzles |
 | insoluble | 无解的 | his problem with reality was **insoluble** |
+| conflagration | 大火，烈焰 | Only in this way did I discover it, like a **conflagration** |
+| consolatory sum | 安慰性的一笔钱 | the **consolatory sum** that Uncle Juanito sent to us |
 
 ### ⭐ 基础
 
@@ -236,8 +238,6 @@ modified: "2026-09-27"
 |---|---|---|
 | affront | 侮辱，冒犯 | it would never be too late for him and his brothers to punish the **affront** |
 | braided hairdo | 编起的发型 | an ornamental comb in what might have been a **braided hairdo** |
-| conflagration | 大火，烈焰 | Only in this way did I discover it, like a **conflagration** |
-| consolatory sum | 安慰性的一笔钱 | the **consolatory sum** that Uncle Juanito sent to us |
 | burning streets | 灼热的街道 | I walked around the **burning streets** trying to find the courage |
 
 ## 一句话总结
