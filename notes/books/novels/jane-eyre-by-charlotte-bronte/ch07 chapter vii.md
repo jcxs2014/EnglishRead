@@ -62,7 +62,7 @@ modified: "2026-09-27"
 中文理解：我的感受是什么，语言无法描述；但就在它们一齐涌上来、几乎让我喘不过气、卡住喉咙的时候，一个女孩走过来从我身边经过；经过时，她抬起了眼睛。
 关键词：no language can describe, stifling my breath, constricting my throat, a girl came up and passed me, she lifted her eyes
 为什么这样写：先明说写不出来（no language can describe），再用一个"但"把读者拽进现场；救援不是一句话而是一个动作（lifted her eyes），此前所有的窒息动词（stifling／constricting）恰好被这个抬眼抵消。
-读者视角提示：作者让海伦的援手小到几乎不存在——只是路过时抬了一下眼；简接住它的方式却是"全新的感觉把我撑了起来"，这个日后她对罗切斯特的形容（"He is more myself than I am"式的"他撑住了我"）在这里已经排练过一次。
+读者视角提示：作者让海伦的援手小到几乎不存在——只是路过时抬了一下眼；简接住它的方式却是"全新的感觉把我撑了起来"，这个日后她对罗切斯特说出的"他撑住了我"在这里已经排练过一次（原文是她的动作与感受，不是引语）。
 
 > **原句 8:** "Such is the imperfect nature of man—such spots are there on the disk of the clearest planet; and eyes like Miss Scatcherd’s can only see those minute defects, and are blind to the full brightness of the orb."
 

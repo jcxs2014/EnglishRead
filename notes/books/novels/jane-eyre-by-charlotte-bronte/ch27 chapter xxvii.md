@@ -61,7 +61,7 @@ modified: "2026-09-27"
 
 中文理解：我的女儿，逃离诱惑！
 关键词：My daughter, flee temptation
-为什么这样写：本章最重的祈使句来自一个梦中的声音（他自己对简也说过 "Consider that eye; consider the resolute course" 与 "Oh, come, Jane, come!"），主语是我的女儿而不是我，简醒来后的回答也短到不能再短；作者让全书最重的一句话只占两行，让它同时像母亲的遗言和一条行动的指令。
+为什么这样写：本章最重的祈使句来自一个梦中的声音（他自己对简也说过 "Consider that eye; consider the resolute, wild, free thing looking out of it" 与 "Oh, come, Jane, come!"），主语是我的女儿而不是我，简醒来后的回答也短到不能再短；作者让全书最重的一句话只占两行，让它同时像母亲的遗言和一条行动的指令。
 读者视角提示：她在这句梦话之前的所有痛苦都还能归给身体（饿、病、冷）；从这一夜起，她开始给自己制造痛苦——本章之后她走的每一步，都是在执行这句梦话。
 
 > **原句 8:** "Gentle reader, may you never feel what I then felt! May your eyes never shed such stormy, scalding, heart-wrung tears as poured from mine!"

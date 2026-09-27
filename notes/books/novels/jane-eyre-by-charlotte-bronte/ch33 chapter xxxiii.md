@@ -69,7 +69,7 @@ modified: "2026-09-27"
 中文理解：我又一次觉得自己像那么一个食量平平的人，独自坐在一张摆着一百人份菜肴的桌前赴宴。
 关键词：an individual of but average gastronomical powers, sitting down to feast alone, at a table spread with provisions for a hundred
 为什么这样写：比喻的两头都是**具体的量**——"平平的食量"对"一百人份的桌席"；"独自"这个词把这场宴席彻底取消了，于是笑点不在丰盛，在无人分享。
-读者视角提示：全书用餐桌比喻匮乏不止一次（第五章的焦粥与"我多么希望是双份"、第六章的"饥饿先让火气钝下来"）；这张桌子在第三十八章她会说"to talk to, and with, a husband"——终于有第二副餐具。
+读者视角提示：全书用餐桌比喻匮乏不止一次（第五章的焦粥与"我多么希望是双份"、第六章的"饥饿先让火气钝下来"）；这张桌子在第三十八章终于有第二副餐具：那里她说 "to talk to each other is but a more animated and an audible thinking"——第二个人一坐下，句子就变成了对坐。
 
 ## 本章词汇
 
