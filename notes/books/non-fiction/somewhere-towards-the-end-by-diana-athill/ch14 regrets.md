@@ -171,17 +171,17 @@ modified: "2026-09-27"
 
 ### ⑨
 
-> **原句 9:** She loves to sit in it, but is happy to let me run it,
+> **原句 9:** I am not sure that digging out past guilts is a useful occupation for the very old, given that one can do so little about them.
 
-**中文理解**：她喜欢坐在那里，但乐于让我去经营它。
+**中文理解**：我拿不准，把过去的愧疚挖出来对很老的人是否算一件有用的事——何况人对它们能做的又那样少。
 
-**句子结构**：`She` 为主语；`loves to sit in it` 与 `is happy to let me run it` 为两个并列谓语；`but` 引导对比。
+**句子结构**：`I am not sure (that)` 引导宾语从句（that 省略）；从句中 `digging out past guilts` 为动名词短语作主语；`is a useful occupation for the very old` 为系表结构，`for the very old` 为介词短语作后置定语修饰 `occupation`；`given that one can do so little about them` 为原因状语从句，内含 that 从句。
 
-**关键词**：loves to sit in it、is happy to、let me run it
+**关键词**：I am not sure that、digging out past guilts、a useful occupation for the very old、given that one can do so little about them
 
-**表达方式**：两个谓语都以 `to` 开头，结构对称；`let me run it`（让我去经营它）用管理动词；末句以逗号结束，不加句点。
+**表达方式**：`digging out`（挖出来）把「回忆往事」写成一个**挖掘动作**；`guilts`（愧疚）比 `regrets`（遗憾）重一档——**愧疚指向自己，遗憾指向过去**；`the very old` 里的 `very` 强调年龄本身是限制条件；`given that…` 用的是最普通的理由从句。
 
-**为什么这样写**：这一句在 ch09 里已出现过一次（表姐 Barbara 与诺福克那半英亩），**本章是回声**。同一个句式在两章中承担完全不同的功能：ch09 里它是**共享的证据**，ch11 里她曾因照护而疲惫，**而到了本章它成了一个更大的隐喻**——那半英亩园子是 ch14 这条「窄」的生活里**唯一一片别人给她的地方**。
+**为什么这样写**：本章清点到第三样东西（懒）之后，她需要**为这个清点划一个终点**，而她用的是一个关于「是否值得做」的问题。**`digging out past guilts` 把自己此刻的动作（本章）也算进去了**——她正在挖，所以她怀疑这个动作本身对老人有没有用。而 `given that one can do so little about them`（何况人对它们能做的又那样少）把理由说尽：**不能改变的东西，追究起来的收益就只可能是痛苦**。这是本章的**止损声明**。
 
 ### ⑩
 
