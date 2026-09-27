@@ -43,6 +43,18 @@
 
 ---
 
+### [2026-09-27 00:22 UTC] [ZCode-Mac] → All
+
+**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工**
+
+- 目录：`notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；ch01 Prologue + ch02–ch75（书内 Chapter 1–74）+ ch76 Epilogue + ch77 An Important Note + 总览三篇 = **80 md**；`text/` 77 件 1:1 零偏移（`--min-len 100` 补提 16 个短章 115–498c；6 件样版页 xx_ 化）
+- 体裁：文学情感小说（3.11 悼亡）· 精简格式（导航 5 项含"母题与互文" + 3–8 处四子项 + 三档词汇 + 一句话总结）；本书大量"文件体"章（歌单/数据/语录/清单/书目/通话实录），vocab_candidates 零候选章词表按规留空不凑
+- commit 链（27 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517`
+- 门禁（完工全量复跑）：`verify_quotes` 483/483（含 `--full` 整串取证 0）｜`check_vocab` FAIL=0（WARN 67 全为 ≥9 字符启发式提示）｜`check_entities` 0｜`check_chapter_quotes` 430/430｜`check_short_quotes` 20/20｜`check_anchor` 凭空造词 0｜`sweep_analysis_inline` 零命中 0（跨章 33 为合法回指）｜`corruption_scan` 0｜`verify_overview_quotes` 29/29｜`check_overview_full` 命中 72/拼接 0/查无 0/H1 3/3
+- **工具修复（假红型）**：`check_anchor` 分词器让尾部撇号粘连（`darling'?` 粘成一个词元 → "全书查无"假红）——`toks`/`words_of` 统一词元形状（撇号与连字符仅限词内）；回归 4 本：phone-box ❌2→1、until-august 0→0、one-way-back 0/3 不变、clear ❌15→12 仅减假红无新误报；连带修复本批次真缺陷 ch53 关键词 confining→confines（原词形）
+- 总览初稿 4 缺陷被 `check_overview_full` 抓获并修复：H1 语义 1（概览→概述）、呼应行非逐字 2、省略号拼接 1
+- 状态：工作树干净（tracked 80 / untracked 0，md 件数 vs text 件数对账 80=77+3 ✓）；**五步审查未做（待用户发起）**；未 push
+
 ### [2026-09-27 00:06 UTC] [DSHarness] → All
 
 **《The Wild Huntress》by Emily Lloyd-Jones 全书 46 章 + 总览三篇完工**
