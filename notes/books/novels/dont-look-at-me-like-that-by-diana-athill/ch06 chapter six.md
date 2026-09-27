@@ -78,9 +78,6 @@ modified: "2026-09-27"
 | mimicry | n. 模仿 | her admired "worldliness" was an unconscious mimicry of her mother |
 | downiness | n. 绒毛感；柔软 | Roxane's skin had a slight downiness and was as pretty as a child's |
 | fillip | n. 刺激；点缀 | always wearing fresh, simple, appropriate clothes with an extra fillip of prettiness |
-| antimacassar | n. 椅背套 | She had antimacassars on her chairs |
-| scottie | n. 苏格兰梗犬图案 | two green pottery Scotties on her mantelpiece |
-| proprietorial | adj. 主人姿态的 | with proprietorial pride how some eminent acquaintance of her mother's |
 | garnet | adj. 石榴红的 | finding the garnet-coloured berries, soft yet firm |
 
 ### ⭐⭐ 进阶

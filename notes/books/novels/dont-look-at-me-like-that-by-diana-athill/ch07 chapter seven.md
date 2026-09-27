@@ -110,7 +110,6 @@ modified: "2026-09-27"
 | uncle | n. 叔伯 | holding the arm of an uncle whom I had never seen |
 | honeymoon | n. 蜜月 | I wrote to Roxane on her honeymoon |
 | sherry | n. 雪利酒 | sipping her sherry and enjoying listening to her voice |
-| wife | n. 妻子 | he had put his hand on Mrs. Sherlock's wrist to draw her attention |
 
 > 注：本档三档是**长度启发式分类**，不是配额——档位不足留空不补。所有例句均为本章原句逐字摘录；词条头用本章原词形（`-s` / `-ing` / `-ed` / `-ly` 四类屈折外的形态变化视作跨词形失配）。
 
