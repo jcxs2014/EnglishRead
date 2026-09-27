@@ -74,7 +74,7 @@ source_text: ch13
 
 **为什么这样写**：这一句与 ch02 那句几乎逐字重复（`It looks like a piece of Lego abandoned on the beach.`／它看起来像一块被丢在沙滩上的乐高），而重复本身就是叙事装置：**读者在 ch13 读到它时会立刻认出这是倒叙**。两句的差别只在一个词——ch02 是 `abandoned`（被丢下的），ch13 是 `forgotten`（被遗忘的），前者是**动作**（谁丢的），后者是**状态**（被忘了多久）；而 ch13 还多加了后半句 `At least that’s how it seemed to Shūichi.`（至少在秀一眼里是这样），用 `At least`（至少）给这一判断加了一个**保留**，把这个比喻从叙述者的断言降格为某个人的印象。
 
-**读者视角提示**：`At least that’s how it seemed to Shūichi`（至少在秀一眼里是这样）这个补充是本章最微妙的一处**视角标记**：作者明说「这不是事实，这是他的印象」——而**一个可以被推翻的印象，正是接下来十五章全部事件的起点**。他觉得这座馆是被遗忘的，所以他走了进去；ch14–ch16 之后他明白它不是被遗忘，而是**被建成**：ch15 里那个白衬衫年轻人说，这是艺术家希望的空间（`the aesthetic environment of a visit to the cardiologist`／一次看心血管科的就诊环境）。
+**读者视角提示**：`At least that’s how it seemed to Shūichi`（至少在秀一眼里是这样）这个补充是本章最微妙的一处**视角标记**：作者明说「这不是事实，这是他的印象」——而**一个可以被推翻的印象，正是接下来十五章全部事件的起点**。他觉得这座馆是被遗忘的，所以他走了进去；ch14–ch16 之后他明白它不是被遗忘，而是**被建成**：ch15 里那个白衬衫年轻人说，这是艺术家希望的空间（`the aesthetic environment of avisit to the cardiologist`（text/ 提取件在 a 与 visit 之间缺一空格）／一次看心血管科的就诊环境）。
 
 > **原句 7:** ‘We don’t know the faces of these people. All we know is their names, surnames, and their location at the time of recording, sometimes their age too, if they chose to provide it. Some of them may already be dead, and yet the beat of their heart continues to echo here on this small island in Japan.’
 
@@ -84,7 +84,7 @@ source_text: ch13
 
 **为什么这样写**：这段说明有三处精确的设计。**第一**，句子从「我们不知道」开始，用 `don’t know`（不知道）作主句谓语，把全部信息定义为**残缺**；`We don’t know the faces`（我们不知道脸）这一句之所以刺人，是因为「脸」是英语里 `identity`（身份）最直觉的载体，而这座馆**有名字、有姓、有位置、有年龄，独独没有脸**。**第二**，`if they chose to provide it`（如果他们愿意提供的话）里的 `chose`（选择）把信息缺损归因于**录音者的主动放弃**——不是收集者无能，是被收集者没有给。**第三**，末句用一个 `may`（可能）加一个 `yet`（然而）完成双重让步：`Some of them may already be dead, and yet the beat of their heart continues to echo here`（有些人可能已经死了，然而他们的心跳仍在这里回响）——**这是全章的语法支点，也是这座馆的伦理地基**。
 
-**读者视角提示**：`continue to echo`（继续回响）里的 `echo`（回响）意味着这里存的不是心跳**本身**，而是心跳在别处的**残响**——而残响需要一个听的人才能成立。ch09 那位 Sayaka 说的正是这件事（`a place you can go to listen to someone’s heart`），ch10 的 Hana 说的也是（`Death doesn’t have to take someone away from you.`）。**这座馆的全部技术，就是让回响有一个房间可住。**
+**读者视角提示**：`the beat of their heart continues to echo`（心跳继续回响）里的 `echo`（回响）意味着这里存的不是心跳**本身**，而是心跳在别处的**残响**——而残响需要一个听的人才能成立。ch06 那位老太太念的剪报正是这件事（`This is a journey you take to listen to someone’s heart.`），ch10 的 Hana 说的也是（`Death, Hana sometimes says, doesn’t have to take someone away from you.`）。**这座馆的全部技术，就是让回响有一个房间可住。**
 
 > **原句 8:** ‘My whole life I have not stopped accumulating evidence to stop things from disappearing, and, in the end, I have done nothing but reinforce their disappearance, accentuate the vision of this loss.’
 

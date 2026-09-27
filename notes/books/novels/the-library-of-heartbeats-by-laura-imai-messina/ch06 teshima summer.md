@@ -54,7 +54,7 @@ source_text: ch06
 
 **为什么这样写**：前半句用一个被否定的名词（`not books`）和一个被肯定的名词（`heartbeats`）做对仗，中间隔一个 `but`——整座图书馆的荒诞性全靠这一次替换交代完毕，不需要任何解释。后半句是全章的转折点：`fate had come looking for her`（命运是找上门来了）把主动权从命运一方转到她一方——不是她找到了命运，是**命运来找她**。而这个被动式的反转有整章的铺垫：两周前她在理发店、她通常会让步、她一向不出门。
 
-**读者视角提示**：这一句是全书因果链的起点，也是秀一一生都缺的那一环：他从来没有被「找上门」过。ch03 里他花十二年才决定搬回镰仓，ch04 里他花一周才决定送出一张画，ch05 里他被 Sayaka 说成 `reaction to something that hadn't even crossed my mind`（对某件连想都没想到的事的反应）——老太太的直觉与秀一的迟疑，是同一件事的两种速度。
+**读者视角提示**：这一句是全书因果链的起点，也是秀一一生都缺的那一环：他从来没有被「找上门」过。ch03 里他花十二年才决定搬回镰仓，ch04 里他花一周才决定送出一张画，ch05 里他被 Sayaka 说成 `as though you were reacting to something that hadn’t even crossed my mind`（对某件连想都没想到的事的反应）——老太太的直觉与秀一的迟疑，是同一件事的两种速度。
 
 > **原句 5:** She read it many times before the trip, including to the boy, who remained in silence – not because he understood deep down what it meant, but because the way she placed her voice carefully on the words revealed how much it meant to her.
 

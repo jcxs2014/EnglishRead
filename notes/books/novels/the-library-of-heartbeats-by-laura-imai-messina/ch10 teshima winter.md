@@ -24,7 +24,7 @@ source_text: ch10
 
 **为什么这样写**：本章的前三句（[3][4][5]）是一段独立的开场诗，与本章之后的人事毫无关系，但它是全章的**语法基调**。`They are never again full summers, autumns, springs or winters.`（它们再也不会是完整的夏、秋、春或冬。）用 `full`（完整的）这个形容词，把四季从自然现象改写成**被兑付的承诺**；下一句给出解释——`They are rather approximations, attempts to fulfil the descriptions given of them.`（它们只是些近似值，是些试图兑现自己被给出的描述的努力。）把 `descriptions given of them`（别人给它们的描述）摆成主语，等于说：季节不是自己，是**别人写好的**。末句 `the sky breaks down, unable to decide which light to host or which wind to blow`（天空垮了下来，拿不定主意该容纳哪一种光、该吹哪一种风）用 `host`（容纳、做东）把天空写成一位拿不定主意的房东——`unable to decide` 后面接的两个宾语（光、风）正是本段开头那两份「描述」的实体。
 
-**读者视角提示**：这一段是全书三章 Teshima 插叙里唯一一次直接写**季节**本身。前三章的标题是秋（Teshima, Autumn）、夏（Teshima, Summer）、冬（Teshima, Winter），而这一段说的是「季节一开始就消失」——它在结构上预告了后文：`ch12` 之后是 `ch13 the island of heartbeats`，一部的「秋」（秀一四十岁）与三部的「冬」（老年）之间的那个「春」，在本章的这句诗里被悄悄取消。
+**读者视角提示**：这一段是全书三章 Teshima 插叙里唯一一次直接写**季节**本身。前三章的标题是秋（Teshima, Autumn）、夏（Teshima, Summer）、冬（Teshima, Winter），而这一段说的是「季节一开始就消失」——它在结构上预告了后文：`ch12` 之后是 ch13（心跳之岛），一部的「秋」（秀一四十岁）与三部的「冬」（老年）之间的那个「春」，在本章的这句诗里被悄悄取消。
 
 > **原句 2:** The children were intrigued by the idea of listening to thousands of different people’s heartbeats, but what really excited them was the idea of going on a trip: that hard-to-describe feeling of imagining themselves climbing onto a plane, boarding a ferry and sleeping in a hotel room.
 
@@ -94,7 +94,7 @@ source_text: ch10
 
 **为什么这样写**：这是全章的最后一句，也是全书的四个插叙章里唯一一句**主动交代自己无法解决**的比喻。前半段用 `huddling`（挤作一团）写姿态——不是独自烤火，是**一群人挤在一起**；`a downpour`（一场暴雨）把痛苦写成一个有始有终、已经过去的天灾。破折号之后的 `knowing that a small patch will remain damp forever`（同时知道总有一小块地方会永远潮着）是全部重量所在：`knowing that`（明知）把「有一块永远潮着」从一个事实变成一份**自觉的承担**；`will remain`（将会留下）用将来时，而 `forever`（永远）把将来时取消了——这不再是「还没好」，是「不会好了」。
 
-**读者视角提示**：这一句是秀一在 ch17 结尾对 Sayaka 说的话（`it might not move for the same people or for the same reasons. But it moves even when it seems still.`／它可能不会为同样的人、因为同样的理由而跳动；但即使它看起来静止，它仍在跳）的**反向版本**——Fujita 一家的 damp patch（潮着的那一小块）是秀一的「不肯哭出来的那一部分」。两位父亲在 ch05 的门诊里见过面（医生还提到过 `Doctor Fujita’s wife wasn’t smiling in the photo`），而读者直到本章才知道那位照片里不笑的妻子，是四十五行之后才有名字的 Yui。
+**读者视角提示**：这一句是秀一在 ch05 结尾对 Fujita 医生说的话（`It might not move for the same people or the same reasons. But it moves even when it seems still.`／它可能不会为同样的人、因为同样的理由而跳动；但即使它看起来静止，它仍在跳）的**反向版本**——Fujita 一家的 damp patch（潮着的那一小块）是秀一的「不肯哭出来的那一部分」。两位父亲在 ch05 的门诊里见过面（医生还提到过 `Doctor Fujita’s wife wasn’t smiling in the photo`），而读者直到本章才知道那位照片里不笑的妻子，是四十五行之后才有名字的 Yui。
 
 ## 本章词汇
 

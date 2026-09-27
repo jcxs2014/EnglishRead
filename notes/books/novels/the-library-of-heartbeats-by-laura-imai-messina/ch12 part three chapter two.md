@@ -11,7 +11,7 @@ source_text: ch12
 - **一句话概括**：Kenta 认定「他没戴手镯所以淹死了」，秀一用一个母亲的购物法则拆掉这个因果——真手镯早被换过三次、第一堂游泳课后他一口气买了二十条备用；而后是本部落的三条收束线：Kenta 母亲 Naoko 承认 Kenta 父亲患过抑郁、两人正在复合；8 月 16 日秀一与 Aya 在墓前和好，Aya 折了一只纸心脏，用拇指一顶就怦怦跳；夜里他决定去 Teshima。
 - **情感弧线位置**：**坡度最缓的一段——全书从谷底爬到这里的最后一级台阶**。本章不发生任何事故，只做三件事：解除一个孩子的罪责、让两个家庭各自复位、让一个人决定动身。ch13 之后就是老年线，因此本章是**过渡带**而非高潮。
 - **Tropes 兑现/反转**：兑现「丧子父母重逢」桥段，但把眼泪换成一堆**折纸鱼**（Aya 现在是幼儿园老师，秀一写让孩子从水里自救的书，Aya 折在海里游的折纸鱼）——两人各自的作品在本章首次并置。另一重兑现是「神秘力量的因果被解开」这一**反高潮**：读者等的是解开魔法，实际得到的是「你买二十条备用就没问题」的答案。
-- **人物弧线**：秀一在本章第一次**替母亲说话**（`I couldn't help but laugh at all the lies the woman had made up to protect him from pain.`／他忍不住笑那个女人为了保护他免受痛苦而编造的所有谎言）——ch03 母亲的否认是伤他的，ch12 同一批否认被他笑着收下。Kenta 的变化则由他的**行为**证明：整章他都在出谜语、画海豹、寄语音，说「It was a wonderful exercise of the imagination for Shūichi.`
+- **人物弧线**：秀一在本章第一次**替母亲说话**（`He couldn’t help but laugh at all the lies the woman had made up to protect him from pain.`／他忍不住笑那个女人为了保护他免受痛苦而编造的所有谎言）——ch03 母亲的否认是伤他的，ch12 同一批否认被他笑着收下。Kenta 的变化则由他的**行为**证明：整章他都在出谜语、画海豹、寄语音，说「It was a wonderful exercise of the imagination for Shūichi.`
 - **叙事手法**：三段式收束，每段一件实物：**二十条手镯**（解除罪责）→ **折纸鱼与纸心**（关系的物理形态）→ **《俄耳甫斯之死》的斯芬克斯**（主题的最终定调）。中间插一段 Kenta 的知识问答（世界上最大的鱼／动物／花／昆虫／孩子）当作呼吸；结尾以 Dürrenmatt 的一句引文封口，与 ch07 结尾的 Canetti 引文形成一对：Canetti 说「我需要圆满结局」，Dürrenmatt 说「幸福憎恶言语」。
 
 ## 精读
@@ -54,7 +54,7 @@ source_text: ch12
 
 **为什么这样写**：这个比喻的三段式结构是**地质学的**：先是地基不稳（`standing on unstable ground`），再是一连串小事件（`a series of small landslides`），最后是一次性的总量崩塌（`half the mountain came down`）。关键在三个词的大小对比——`small`（小的）与 `half the mountain`（半座山）放在相邻的两个分句里，于是「小」不再是「少」，而是「多」：**小滑坡之所以可怕，不是因为它大，是因为它一次接一次。** 而 `came down`（塌下来）用了一个不带施动者的被动式——山不是被人推下来的，是**自己下来的**，对应秀一这两天做的事：他把照片挂出来、给 Kenta 打电话、跟 Aya 通话，一件接一件，全是**小滑坡**。
 
-**读者视角提示**：这个比喻解释了 ch07 那句 `like bamboo plants split from the same mother`（像从同一株母竹上劈出来的竹子）为什么用的是同一种机制：竹子开花也是小规模、连续、不可逆的。秀一在 ch07 悟出「记忆一起开花」，在 ch12 悟出「自己崩塌」，而这两句的句法结构是**同一个**——`a series of small X` 然后是全量倒掉。**一个人一旦开始回想起儿子，塌方就是必然的，而唯一的选项是让它自己走完。**
+**读者视角提示**：这个比喻解释了 ch07 那句 `like bamboo plants split from the same mother`（像从同一株母竹上劈出来的竹子）为什么用的是同一种机制：竹子开花也是小规模、连续、不可逆的。秀一在 ch07 悟出「记忆一起开花」，在 ch12 悟出「自己崩塌」，而这两句的句法结构是**同一个**——**a series of small X** 然后是全量倒掉。**一个人一旦开始回想起儿子，塌方就是必然的，而唯一的选项是让它自己走完。**
 
 > **原句 5:** ‘There is no disaster that can be the responsibility of a child,’ Aya commented with tenderness. ‘It’s the magical thinking of children; they feel capable of doing both grand and terrible things.’
 

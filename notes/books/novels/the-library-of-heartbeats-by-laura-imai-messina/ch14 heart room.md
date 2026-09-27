@@ -24,7 +24,7 @@ Shūichi 把所有最珍视的东西召集到一起，然后拉下了把手。�
 
 **为什么这样写**：全章以一个**心理动作的过去时**开场（`Shūichi gathered all the things that were dearest to him`），而 `gathered`（召集）把「回忆」处理成「集合」：不是想起，是把人叫来。第二个句子立刻给出全部的物理设施——绳、灯泡、明灭：`a light bulb hung from a cord`（一颗灯泡从一根绳子上垂下来）用的是**最普通的家用描述**，没有一点神秘色彩。`flashed on and off`（一明一灭）把 `on` 和 `off` 这两个本该指开关的词用作副词，让「亮」与「灭」带上一次次**手动操作**的味道；`that had just started`（刚刚开始的那段）里的 `just` 把时间钉在「刚开始」——**记忆是随着一段新录下的心跳回来的。**
 
-**读者视角提示**：这是全书的**装置说明**，也是唯一一次明说机制：`flash on / flash off` 的节律来自某一段真实的心跳。因此 ch16 的录音房在本章就已经被埋好——**一个人走进黑暗，是因为有人先录下了他的心**。
+**读者视角提示**：这是全书的**装置说明**，也是唯一一次明说机制：**flash on / flash off** 的节律来自某一段真实的心跳。因此 ch16 的录音房在本章就已经被埋好——**一个人走进黑暗，是因为有人先录下了他的心**。
 
 > **原句 2:** Shūichi summoned his greatest loves, even the most recent, like Sayaka and Kenta, and the house where he had spent his childhood. With each flash, people came back into his mind, and places where he had stored memories, even sad ones, and books he had written over the years, each of which had left a story etched in his soul.
 
@@ -34,7 +34,7 @@ Shūichi 把所有最珍视的东西召集到一起，然后拉下了把手。�
 
 **为什么这样写**：这一句把「回忆」拆成**三批对象**，顺序是刻意的：`people`（人）→ `places`（地方）→ `books`（书），即由外到内、由当下到过去。两次 `even`（甚至）构成一组递进的让步：一次越过「最新」，一次越过「快乐」——`even the most recent`（甚至包括最新的那一些）、`even sad ones`（甚至悲伤的那些）。末句 `each of which had left a story etched in his soul`（每一本都在他灵魂上刻下过一个故事）用 `etched`（刻蚀）把书写变成**金属工艺**：墨水会掉，刻痕不会。
 
-**读者视角提示**：`even the most recent, like Sayaka and Kenta`（甚至包括最新的那一些，比如 Sayaka 和 Kenta）是全书的**时间标尺**——一个四十岁的人把「最新的爱」与「童年的房子」并列。而「最新」那部分正是 ch12 那一夜刚确定的。ch05 那位建筑师对着松树园说过一句 `Where does the woman who was just ‘your mother’ end?`（那个刚刚还是「你妈妈」的女人到哪里为止？）——本句把那个问题回答了一半：最新的人也被放进同一批召唤名单。
+**读者视角提示**：`even the most recent, like Sayaka and Kenta`（甚至包括最新的那一些，比如 Sayaka 和 Kenta）是全书的**时间标尺**——一个四十岁的人把「最新的爱」与「童年的房子」并列。而「最新」那部分正是 ch12 那一夜刚确定的。ch08 里秀一对着松树园想起过一句 `Where does the woman who was just ‘your mother’ end?`（那个刚刚还是「你妈妈」的女人到哪里为止？）——本句把那个问题回答了一半：最新的人也被放进同一批召唤名单。
 
 > **原句 3:** Like the one about the little protagonist who was shipwrecked; he visualised him as his skinny arms pushed aside vegetation and he ventured deeper into the island. The little boy with the features of Shingo who appeared to Shūichi every time he picked up a pencil – because every child, before being a child, was Shingo. Then, after a moment, his son would rise, wander off, and the other child, the protagonist of the story, would begin to live his own life.
 
