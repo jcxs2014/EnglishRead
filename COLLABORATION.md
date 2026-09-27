@@ -1369,57 +1369,23 @@ AGENTS.md 配套工具链表「实现坑 ②」写的就是这一条（"不要�
 
 ---
 
-### [2026-09-25 20:10 UTC / 审查结论 2026-09-25 22:40 UTC] [Opencode-Mac] → All
+### [2026-09-25 20:10 UTC / 审查结论 2026-09-27] [Opencode-Mac] → All
 
-**books: Forgotten Sisters（Cynthia Pelayo）全书精读完工 + 独立五步审查完成 —— 32 章 + 总览三篇**
+**Forgotten Sisters（Cynthia Pelayo）精读完工 + 独立五步审查完成** — 哥特恐怖 + 连环凶案双线，mystery-thriller 精简格式（四子项），用户已验收
 
-- 目录：`notes/books/mystery-thriller/forgotten-sisters-by-cynthia-pelayo/`
-- 体裁：哥特恐怖 + 连环凶案双线（侦探／灵异），按 AGENTS.md **推理/悬疑/奇幻精简格式**（四子项），用户已验收
-- 规模：32 个正文 md（Prologue + Chapter 1–31，与 text/ 1:1 零偏移）+ 总览三篇；**249 个引语块、533 条词条、25 句金句、10 个情感节点**
-- **20 个 commit**：写作 12 个 `a5270c58`（ch01 试产，用户验收）→ `120c26ae` → `53ddbfeb` → `9f993924` → `e8b59e8d` → `5f0c0325` → `e814b107` → `1c9f9e5e` → `3f7f6830` → `ddc28334` → `391208e3`（正文 32/32）→ `62d46994`（总览三篇）；审查 8 个 `61efb459` → `d69879b3` → `54a59894` → `aa537f03` → `a63e0cfc` → `98a5a13a` → `679ae958` → `6a277513`（工具沉淀）
-- **状态：未 push**（等用户指令）
+`notes/books/mystery-thriller/forgotten-sisters-by-cynthia-pelayo/` ｜ 32 章（Prologue + Ch1–31，与 text/ 1:1 零偏移）+ 总览三篇 ｜ 249 引语块 · 533 词条 · 25 金句 · 10 情感节点
 
-**审查执行方式（用户在本会话内发起 → 按第 10 条 a–e 完整执行，未降级）**：5 个子代理分批逐对核对 249 个引语块（ch01–08 / ch09–16 / ch17–24 / ch25–32 / 总览三篇），每批附 1–2 个本库真实失败案例 + 防幻觉条款 + 统一严格口径；主会话逐条以 grep/行号/词数实测裁决，**报警≠缺陷**（3 项因我的测试脚本猜错引语而误判子代理，重读后确认子代理正确）。
+**commit（20 个，均未 push）**：写作 12 `a5270c58`(ch01 试产) `120c26ae` `53ddbfeb` `9f993924` `e8b59e8d` `5f0c0325` `e814b107` `1c9f9e5e` `3f7f6830` `ddc28334` `391208e3`(正文 32/32) `62d46994`(总览)｜审查 8 `61efb459` `d69879b3` `54a59894` `aa537f03` `a63e0cfc` `98a5a13a` `679ae958` `6a277513`(工具沉淀)
 
-**共抓到 166 项确认缺陷**：
+**五步审查（用户在本会话内发起 → a–e 完整执行未降级）**：5 个子代理分批逐对核对 249 块（附真实失败案例 + 防幻觉条款 + 统一口径），主会话逐条 grep/行号/词数实测裁决——**报警≠缺陷**（3 项是我的测试脚本猜错引语致误判子代理，重读后确认子代理对）。
 
-| 类别 | 数量 | 代表 |
-|---|---|---|
-| **引语保真**（违反"逐字取自原文"红线） | 5 | ch26 块4 漏首词 `I`；ch26 块7 逗号改句号并截断，而分析层恰好引用了被截掉的后半句 |
-| **跨章搬句**（引语逐字无误、章节标错，主门禁全绿漏网） | 2 | 情感节点节点七 `bring her back to me` 唯一命中 **ch26** 却标 ch15/ch16（错 11 章）；节点五首条唯一命中 **ch05** 却标 ch11 |
-| **跨章引用错位**（书内章号与 md 文件号混用） | 42 | ch21 块1「第十五章『你听它的歌就必须转身』」——该句就在本章，且是 Anna 自己的播客稿 |
-| **词数/次数/语法误判** | 30 | ch05 块3「三个 or」→ 实 2；ch11 块2「过去完成式」→ 现在完成时 |
-| **人物/事实/说话人/虚构引语** | 87 | 概述「祖母答的是《小美人鱼》原文」→ 提问与回答都是 **Jennie**，且书中从未标出处；概述「Ursula 称 Anna 为我未来的侄女」→ **虚构引语** |
+**共 166 项确认缺陷**：引语保真 5 ｜ 跨章搬句 2 ｜ 跨章引用错位 42（书内章号与 md 文件号混用）｜ 词数/语法 30 ｜ 人物/事实/说话人/虚构引语 87。**最重三项**：① ch10 块7「抛尸合法」vs 原文 `It is illegal to dump someone in the river.`（**否定读成肯定**）② ch12「Anna 被关在门外」vs 原文她自己上锁、门推不开（**场景内外反转**）③ ch13 块4 说话人是 **Jennie**，却框成「警方 vs 凶手」。
 
-**最重的三项**：
-1. **ch10 块7 语义反转**——写「递车合法，抛尸合法」，原文是 `It is illegal to dump someone in the river.`，**把否定读成了肯定**，且与同文件导航行自相矛盾
-2. **ch12 场景反转**——导航写「Anna 第一次被关在门外」，原文三处是她**自己上锁**、门推不开（`I rush to my room and lock the door` / `it does not budge` / `it's locked`），**门外与屋内反了**
-3. **ch13 块4 人物误归**（Room 类）——说话人是 **Jennie**，分析层从不点明说话人，还框成「警方 vs 凶手 的镜像」+「全书最政治性的一句台词」
+**门禁（15 道，最终全部现场重跑）**：verify_quotes 263/263 干净 33/33 ｜ check_vocab 533 行 FAIL0/WARN0 ｜ check_entities 0 ｜ check_chapter_quotes 32/32 章 249 块零搬句 ｜ verify_overview_quotes 24/24（+11 条短引语逐条兜底 11/11）｜ audit_bounds/audit_sem/audit_struct/selfcheck/overview_check/inline_check/chapref_check 全 PASS ｜ check_crossref 0 报警 ｜ 三元比对 0 不一致 ｜ H1 3/3 ｜ 乱码 0 ｜ tracked 35/35 clean
 
-**最终门禁（15 道，全部现场重跑，不采信任何旧数字）**：
-```
-verify_quotes          263/263 (100%)   完全干净文件 33/33
-check_vocab            533 行           FAIL (0) / WARN (0)
-check_entities         0
-check_chapter_quotes   32/32 章逐章     249 块零跨章搬句
-verify_overview_quotes 24/24            （另 11 条短引语经 short_quotes 逐条兜底 11/11）
-audit_bounds           PASS             引语边界对齐 249 块 0 缺陷
-audit_sem              PASS             说话人/数字/跨章/全串 sweep 全 0
-audit_struct           PASS             编号连续·四子项·零孤儿·零重复·关键词锚定
-selfcheck              PASS             249 blocks sweep 249 errors 0
-short_quotes / overview_check / inline_check / chapref_check   全 PASS
-check_crossref         0 对 / 报警 0
-三元比对（文件名/H1/text 标题）0 不一致、零偏移
-H1 语义 3/3 ｜ 乱码 0 ｜ tracked 35/35 ｜ 工作树 clean
-```
+**⚠️ 新工具盲区（建议进盲区表）**：`verify_quotes`/`check_chapter_quotes`/`selfcheck` 的全串 sweep **全用「引语 flat 是否为章节 flat 的子串」判定 → 对「引语首尾被吞词」完全失明**。实证 ch26 块4 原文 `I hate it here.`、md 漏首词成 `Hate it here.`，`hateithere…` 确是子串 ⇒ **三工具同时放行**。已写 `audit_bounds.py` 改在**原文层**做词边界判定，一启用再抓 2 处从未被任何工具发现的缺陷。**要点：词边界判定必须在原文层做，且破折号不可归入词字符集**（`killed—they` 会被当成一个词）。另 7 个检查器已入库 `scripts/attic/`（可复用于后续任何一本书）。
 
-**⚠️ 本轮最重要的工具沉淀：一个全新盲区（建议进 AGENTS.md 盲区表）**
-
-**`verify_quotes` / `check_chapter_quotes` / `selfcheck` 的全串 sweep 全部用「引语 flat 后是否为章节 flat 的**子串**」判定，因此对「引语首尾被吞词」完全失明。** 实证：ch26 块4 原文 `I hate it here.`，md 漏首词写成 `Hate it here.`——`hateithere…` 确实是原文 flat 的子串，**三个工具同时放行**。新写 `audit_bounds.py` 改在**原文层**做词边界判定，一启用即再抓出 2 处从未被任何工具发现的缺陷。沉淀要点：**词边界判定必须在原文层做，且破折号不可归入词字符集**（`killed—the` 会被误判为一个词）。该工具自身迭代三版才收敛到 0 误报（v1 flat 判定段尾误报 248 处 → v2 漏连字符致 déjà vu 整段失配 → v3 破折号误并）。
-
-另 7 个检查器已入库（`scripts/attic/`，可复用于后续任何一本书）：`audit_sem`、`audit_struct`、`short_quotes`、`overview_check`、`inline_check`、`chapref_check`、`xref_table`。
-
-**同会话审查的已知局限（如实标注）**：本书由本会话**同时完成写作与审查**，尽管全程强制重跑门禁 + 换检查路径 + 子代理分批逐对读，**仍可能存在全书统一性的系统性误判**——尤其「跨章引用」一类，其成因（两套编号混用）本身是系统性的，若有漏网很可能成簇而非零散。子代理报为「不可机械判定」的约 40 条中文意译型回指**未逐条人读**；「待人读」类未收敛。留给下一轮。
+**同会话审查的局限（如实标注）**：写作与审查同为本实例，强制重跑 + 换检查路径 + 子代理分批逐对读之后，**仍可能存在全书统一性误判**——尤其「跨章引用」其成因本身系统性，漏网会成簇。子代理报「不可机械判定」的约 40 条中文意译型回指未逐条人读。
 
 ---
 
