@@ -140,7 +140,7 @@ modified: "2026-09-26"
 
 **表达方式**：**把一句口头禅处理成「被反复念的实体」**。`words`（话语，抽象复数）本身成了宾语，被 `I repeat to myself` 反复使用。`grace`（恩典）在这里是**有宗教色彩的词**，而它修饰的却是「否认」——**一个本该被克服的障碍**。
 
-**为什么这样写**：`grace`（恩典）这个词的选择是本篇最值得玩味的：它把「我需要否认才能活下去」这件事**提升到神学的层面**——仿佛提供一个避难所不只是心理需要，而是**一种被允许的恩赐**。这句话出自楚克斯（ch10 会写他「是那个掌舵的人」），也就是说**这是家庭内部给出的许可**：不是「你不该逃避」，而是「否认里有恩典」。而 `words that I repeat to myself`（我反复对自己念的话）把这句话处理成**一种咒语或祷词**——**一个人反复念诵的句子，就成了她的支撑物**。这与本篇后面「我反复念着否认里有恩典」形成呼应，也预示了全书对「语言既能救也能困」的持续探索（ch10 的 Ndo 与 sorry、ch07 的 concoction）。
+**为什么这样写**：`grace`（恩典）这个词的选择是本篇最值得玩味的：它把「我需要否认才能活下去」这件事**提升到神学的层面**——仿佛提供一个避难所不只是心理需要，而是**一种被允许的恩赐**。这句话出自楚克斯，**因此这是家庭内部给出的许可**：不是「你不该逃避」，而是「否认里有恩典」。而 `words that I repeat to myself`（我反复对自己念的话）把这句话处理成**一种咒语或祷词**——**一个人反复念诵的句子，就成了她的支撑物**。这与本篇后面「我反复念着否认里有恩典」形成呼应，也预示了全书对「语言既能救也能困」的持续探索（ch10 的 Ndo 与 sorry、ch07 的 concoction）。
 
 ---
 
@@ -203,7 +203,7 @@ modified: "2026-09-26"
 | **There is a grace in denial** | 否认里有恩典（grace = 恩典，宗教语感） | There is a grace in denial, Chuks says |
 | **un-looking in the oblique shadow of looking** | 在「看」的斜影里不看向（un- 否定 + oblique shadow） | I am un-looking in the oblique shadow of looking |
 | **the catastrophe of a direct, unswerving stare** | 直视的灾难（unswerving = 不偏不倚的） | the catastrophe of a direct, unswerving stare |
-| **be forced to squarely confront** | 被迫正面对抗（passive + to confront；squarely = 正对着地） | each time I am forced to squarely confront my grief |
+| **am forced to squarely confront** | 被迫正面对抗（passive + to confront；squarely = 正对着地） | each time I am forced to squarely confront my grief |
 | **a shimmering panic** | 一阵闪烁的恐慌（shimmering = 闪烁，通感修饰 panic） | I feel a shimmering panic |
 | **be enamoured of** | 迷恋上（固定搭配，爱情语域） | For the first time in my life, I am enamoured of sleeping pills |
 | **burst into tears** | 爆发大哭（burst = 炸开、爆发） | in the middle of a shower or a meal, I burst into tears |

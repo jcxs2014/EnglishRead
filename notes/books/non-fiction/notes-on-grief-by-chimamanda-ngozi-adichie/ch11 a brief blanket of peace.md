@@ -87,7 +87,7 @@ modified: "2026-09-26"
 
 **表达方式**：**两句完全相同的否定，只是第二句坍缩到只剩两个词**。`Never again` 不重复动词 see、不重复宾语 my father，只留那个**绝对的时间副词**。这种**递减的重复**比任何强调都更有效。
 
-**为什么这样写**：这句处理的是**哀里最核心的那个句子**——**一个关于未来的绝对否定**（will never）。而 `Never again` 单独成句，模仿了**人在极度震动时语言的失能**：当一个事实太过庞大，人只能把它压缩到最核心的那个词（never again）。值得注意的是这两句用的是**将来时的否定**（will never）而非过去时——**她不说「我没能见到他」，而说「我永远见不到他」**，这意味着**这个「见不到」是永久地悬在未来的**（呼应 ch30 的现在时挣扎：这本书记的就是这个悬而未决的将来）。这与 ch05 的 `He was not; he is`、ch13 的 `a catastrophic hole now suddenly gapes open` 一起，构成了本书对**时间**的三种处理方式。
+**为什么这样写**：这句处理的是**哀里最核心的那个句子**——**一个关于未来的绝对否定**（will never）。而 `Never again` 单独成句，模仿了**人在极度震动时语言的失能**：当一个事实太过庞大，人只能把它压缩到最核心的那个词（never again）。值得注意的是这两句用的是**将来时的否定**（will never）而非过去时——**她不说「我没能见到他」，而说「我永远见不到他」**，这意味着**这个「见不到」是永久地悬在未来的**（呼应 ch30 的现在时挣扎：这本书记的就是这个悬而未决的将来）。这与 ch05 的 `He was not; he is`、ch10 的 `a cataclysmic hole now suddenly gapes open` 一起，构成了本书对**时间**的三种处理方式。
 
 ---
 
@@ -203,7 +203,7 @@ modified: "2026-09-26"
 | **'stop crying' a refrain** | 「别哭了」成了一句反复的话（refrain = 副歌、反复句） | and 'stop crying' a refrain |
 | **It is instinctive, my recoiling** | 这是本能，我的退缩（recoil = 向后缩） | It is instinctive, my recoiling. |
 | **I want to protect – hide? hide from?** | 我想保护——躲？躲什么？（插入的自我修正） | I want to protect – hide? hide from? – these foreign sensations |
-| **a bewildering series of hills and valleys** | 一连串令人迷惘的山丘与谷地（地形比喻） | this bewildering series of hills and valleys |
+| **this bewildering series of hills and valleys** | 这一连串令人迷惘的山丘与谷地（地形比喻） | this bewildering series of hills and valleys |
 | **a desperation to shrug off this burden** | 一种甩掉重担的绝望（shrug off = 耸肩甩开） | There is a desperation to shrug off this burden |
 | **a competing longing to cosset it** | 一种想娇养它的渴望（competing = 竞争的；cosset = 娇养） | and then a competing longing to cosset it, to hold it close |
 | **be possessive of one's pain** | 对自己的痛苦有占有欲（possessive = 占有的） | Is it possible to be possessive of one's pain? |
