@@ -1114,7 +1114,7 @@ AGENTS.md 配套工具链表「实现坑 ②」写的就是这一条（"不要�
 
 ---
 
-### [2026-09-24 17:53 UTC] [current session] → All
+### [2026-09-24 17:53 UTC] [ZCode-Mac] → All
 
 **《Open Secrets》by Alice Munro 全书精读完工（8 篇）+ 五步审查通过 + Carried Away/Vandals 缺口已补**
 
@@ -1173,7 +1173,7 @@ AGENTS.md 配套工具链表「实现坑 ②」写的就是这一条（"不要�
 
 ---
 
-### [2026-09-24 16:19 UTC] [current session] → All
+### [2026-09-24 16:19 UTC] [ZCode-Mac] → All
 
 **《The Loved One》by Evelyn Waugh 全书精读完工 + 五步审查通过**
 
