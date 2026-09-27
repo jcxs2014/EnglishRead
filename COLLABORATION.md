@@ -109,6 +109,11 @@
   - ⚠️ **最高杠杆一条：`Barry＝她弟弟`（实为伴侣），17 处**——ch02「lived with Jamaican playwright Barry Reckord」＋「her unconventional relationship with Barry」；ch06 另有「my macabre old brother's immediate comment」在评论 Barry 的手术 ⇒ 兄弟与 Barry 是两个人。**同书任务请勿沿用任何「Barry 是她兄弟」的写法。**
   - ⚠️ **两条假红留档**：① 子代理主张「Barry 是她弟弟」被否决（Andrew 才是她哥哥；Lloyd 与 Carol 是 Barry 的兄弟）；② ch02:21「信太多、太多信太长」是合法修辞重复，非损坏。
   - **同会话局限**：人物亲属关系这一层我写错 17 处、又被反向误判一次 ⇒ 无法自证，建议异实例复核；`ch11/ch12/ch13/ch15` 的语义二审人判部分**尚未完成**。
+  - **➕ 批 5（第四份子代理报告 ch11/ch12/ch13/ch15 已回，62 处）**：五批累计 **173 处**。含**我自己写反的一条** —— `Andrew` 是**弟弟**不是哥哥（ch13「gave Andrew a tree-house for his 80th birthday」＝2000 年满 80 ⇒ 生于约 1920 vs 她 1917 年生），批 1 写的「哥哥」已按原据改回 4 处；**同书任务请勿沿用任何「Andrew 是哥哥」的写法**。
+  - ⚠️ **引语保真 1 处**（`verify_quotes` / `check_chapter_quotes` / 52 字符指纹**全部漏检**）：ch11 原句 1 写 `tipple topple`，原文是 `tipple-topple`（只差 1 个连字符）。改正后分析层又暴露 3 处同源写法，一并补修。**教训：引语一改就要回查同块分析层。**
+  - ⚠️ **组号 +2 错位**：ch11/ch12 曾写「第十一/十二组」，实为第 9/10 组（判据：ch13「第 11 组」、ch15「第 13 组」可数，H1 信首号 87–97/98–104/105–111 连续）。
+  - **三处「当卖点写的错误语法点」已改**：ch12「主语后置」实为前置状语从句、ch13「条件句旧式疑问倒装」实为「if-从句 + 一般疑问句」、ch15「独立主格式的否定倒装」实为省略句——**这三条会教错读者，不只内容错**。
+  - 终验（六 commit 后）：`verify_quotes` 351/351（含 `--full`）· 总览 47/47 · 逐章 17/17 · `check_vocab` FAIL 0 · `corruption_scan` FAIL 0 · `sweep_full` 0 缺陷 · `audit_structure` 0 缺陷 · 独立实现（词级连续 run）归属 375/375、结构 0 缺陷。**全部未 push。**
   - 逐行输出与三档分类明细见工作日志 `.memory/daily/2026-09-27.md`「独立五步审查」节。
 ---
 
