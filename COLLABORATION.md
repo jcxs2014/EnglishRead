@@ -110,6 +110,7 @@
 **修复后门禁（现场重跑，与修复前基线一致 = 无自伤）**：
 ```
 verify_quotes          129/129 (100%)     完全干净文件 17/17；--full 整串取证 1
+check_chapter_quotes   104/104            零跨章搬句（16 章逐章 X/X in chNN text 全文见日志）
 check_vocab            319 行             FAIL (0) ｜ WARN (10)
 check_entities         0                   未知实体 0
 corruption_scan        FAIL 0 处
@@ -120,17 +121,7 @@ check_short_quotes     2 条全 HIT 且全在当章
 金句章节标签对账        25/25 相符
 ```
 
-**`check_chapter_quotes` 逐章原始输出**（§10 要求逐行贴，不接受只贴聚合数）：
-```
-ch01 hanna.md 8/8 in ch01 text        ch09 co dublin.md     7/7 in ch09 text
-ch02 dan.md   7/7 in ch02 text        ch10 the hungry grass 6/6 in ch10 text
-ch03 constance.md 7/7 in ch03 text    ch11 the green road  7/7 in ch11 text
-ch04 emmet.md 7/7 in ch04 text        ch12 waking up       6/6 in ch12 text
-ch05 rosaleen.md 7/7 in ch05 text     ch13 a face in crowd 5/5 in ch13 text
-ch06 toronto.md 7/7 in ch06 text      ch14 the eyes…buddha 5/5 in ch14 text
-ch07 dublin.md 6/6 in ch07 text       ch15 property        6/6 in ch15 text
-ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
-```
+**逐行原始输出**：见 `.memory/daily/2026-09-27.md` 本书条目「六、原始门禁输出」节（`check_chapter_quotes` 16 章逐章 `X/X in chNN text` 全文、`check_vocab` FAIL/WARN 逐行、`verify_quotes` 与 `--full` 原始行、`corruption_scan` 原始行）；总览层引语逐条证据与身份断言原文行号见「七」节；跨书污染逐名结果见「八」节。
 
 **五步审查结果**：a 门禁重跑一致 ｜ b 逐章归属 104/104 ｜ c 结构 0 缺陷 + **md 文件名/H1/text 后缀三元比对 16/16** ｜ d **两个子代理分批逐对语义核对**，报 33 处+4 borderline，**逐条独立复验后认定 42 处需改** ｜ e 总览引语逐段 53/53 + 章节标签 25/25 + 10 条身份断言 grep 回源 + 跨书污染自检通过。
 
