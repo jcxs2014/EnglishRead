@@ -29,7 +29,7 @@ modified: "2026-09-27"
 | `I can speak only for, and to, the lucky.` | 引证 | 全章的界碑 |
 | 但 `there are more of them than one at first supposes, because the kind of fortune one enjoys, or suffers, does not come only from outside oneself` | 引证 | 支撑「运气有一部分在内部」，因而走运的人比看上去多 |
 | `much of it is built into one genetically, and the greatest good luck of all is built-in resilience.` | 引证 | **全章的中心判断**：最重要的运气是天生的复原力 |
-| 触发：她在 `Guardian` 上读到 Alan Rusbridger 采访一百零三岁的 Herz-Sommer，`By chance, just as I was beginning to consider this matter` | 案例 | 支撑**证据是偶然遇到的**——与 ch09 那句 `lucky piece of sowing` 同型 |
+| 触发：她在 `Guardian` 上读到 Alan Rusbridger 采访一百零三岁的 Herz-Sommer，`By chance, just as I was beginning to consider this matter` | 案例 | 支撑**证据是偶然遇到的**——与 ch07 那句 `lucky piece of sowing` 同型 |
 | 战前 `a happy, busy, creative life, which was of course instantly crushed`；特莱西恩施塔特「样板营」的幸存率较高，`and many many thousands more, including Alice’s husband, were dispatched from there to die elsewhere` | 案例 | 支撑**运气在这个案例里体现为「多活几年」而非「免于灾难」** |
 | 战后回家 `it wasn’t home any more: all of her husband’s family, most of her own, and all her friends had disappeared` | 关键事件 | 支撑她 losses 的规模——**而下一段紧接着是那张照片** |
 | 独居、丧子之后，`might well be expected to be a grimly forlorn old woman` | 案例 | 设定读者的预期 |
@@ -121,7 +121,7 @@ modified: "2026-09-27"
 
 **表达方式**：`It begins with this: that…` 用冒号把**一句格言**接在一个日常的引导语后面；两个 `half-` 并列构成对称；破折号后 `everybody, everybody` **同一个词重复两次**——不是强调词义的「一切人等」，而是**像在叫喊**。
 
-**为什么这样写**：她借一百零三岁的人之口说出全书对「人性」最简洁的一次判断，而**形式上她做了一件事：把它标成引用**（`It begins with this` 是转述标记，`that` 从句是被引的内容）。而 `everybody, everybody` 的重复**拒绝了修辞上的「大多数人」**——**它说的是每一个人，无一例外**。这与她 ch04 那句 `I am mostly one of those people who simply prefers to think that the really remarkable people are saints`（若曾如此）形成对照：**这一句里没有例外条款**。
+**为什么这样写**：她借一百零三岁的人之口说出全书对「人性」最简洁的一次判断，而**形式上她做了一件事：把它标成引用**（`It begins with this` 是转述标记，`that` 从句是被引的内容）。而 `everybody, everybody` 的重复**拒绝了修辞上的「大多数人」**——**它说的是每一个人，无一例外**。**这一句里没有例外条款**——同一个词重复两遍，本身就是在模拟一种不容置疑的口气；而本章的落点（`those able to draw on such qualities will be doing so already, and those who can’t, can’t`）同样不容置疑，两处合起来，正好构成这本书对「乐观」的全部处理：**它可遇而不可求。**
 
 ### ⑥
 

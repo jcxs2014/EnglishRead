@@ -50,7 +50,7 @@ modified: "2026-09-27"
 
 **关键词**：it now has、nine fronds、each measuring about twelve inches long
 
-**表达方式：**`now` 一词独立成词加在助动词前，**把全部的重量压在这一个时间副词上**；`nine` 与 `twelve` 两个精确数字**不带任何形容词**；`each measuring` 用独立主格**把测量动作从叙述者身上移开**。
+**表达方式**：`now` 一词独立成词加在助动词前，**把全部的重量压在这一个时间副词上**；`nine` 与 `twelve` 两个精确数字**不带任何形容词**；`each measuring` 用独立主格**把测量动作从叙述者身上移开**。
 
 **为什么这样写**：这是一则**进展报告**，而进展必须可核对。**`now` 是全篇唯一带时间感的词**，它把 ch01 那个「今天早上订的」与此刻连起来。而两个数字（九片、十二英寸）**恰好呼应 ch01 那株到手时的「less than twelve inches long」**——**十二英寸这个数字在首章属于盒子，在这里属于单片叶子**。而 `each measuring` 不用被动（`each of which measures`），**让测量显得是叶子自己在报告**。
 
@@ -64,7 +64,7 @@ modified: "2026-09-27"
 
 **关键词**：I was right in thinking、I will never see it being a tree、but I underestimated、the pleasure of watching it being a fern
 
-**表达方式：**`I was right in thinking`（我想得对）**先认输一半**；`it being a tree` 与 `it being a fern` **两个动名词短语结构完全对称**（同一个 it、同一个 being）；转折的落差由 **`tree` 与 `fern` 这一个词的对立**承担；`underestimated`（低估）一词是本篇唯一的判断词。
+**表达方式**：`I was right in thinking`（我想得对）**先认输一半**；`it being a tree` 与 `it being a fern` **两个动名词短语结构完全对称**（同一个 it、同一个 being）；转折的落差由 **`tree` 与 `fern` 这一个词的对立**承担；`underestimated`（低估）一词是本篇唯一的判断词。
 
 **为什么这样写**：全书的收束是一句**精确的自我更正**，而它的结构是**先承认自己对了一半**（对：你确实看不到它长成树），**再指出错在何处**（错：你以为看不到树就没有回报）。而 **tree 与 fern 这一个词的替换**是这一笔的全部机关——**她要保留的从来不是「成为大树」，而是「看着它做一株蕨」**。这也把 ch01 那句 `virtuous though planting for the future is supposed to be, it doesn’t feel rewarding` 的判决翻转了：**回报不在未来，回报在观看。**
 
@@ -78,7 +78,7 @@ modified: "2026-09-27"
 
 **关键词**：It was、worth buying
 
-**表达方式：**全句只有四个词；`It` 不指任何具体事物，**指的是整件事**（买下它这件事）；`worth buying` 用**动名词**而非名词（不是「值得那笔钱」，是「值得买」）。
+**表达方式**：全句只有四个词；`It` 不指任何具体事物，**指的是整件事**（买下它这件事）；`worth buying` 用**动名词**而非名词（不是「值得那笔钱」，是「值得买」）。
 
 **为什么这样写**：**全书的最后一句只有四个词**，而它评价的不是那株植物，是**那次购买**——`buying` 是作者的主动行为。这一笔把整章的落点从「自然」移到了「决定」：**值得的不是它长得好看，是她当初决定买下它**。而 `It was` 的过去时**把这句话锚定在一个已经发生、且不可撤销的判断上**——这与 ch01 那句 `It can’t be done.` 恰成对照：**首章她说「这件事做不成」，末章她说「这钱花得值」。**
 
