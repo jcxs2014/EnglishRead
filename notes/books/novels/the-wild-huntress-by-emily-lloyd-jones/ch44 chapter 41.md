@@ -81,6 +81,8 @@ source_text: ch44
 
 **中文理解**："我是 Gwydion，Dôn 之子，Gwynedd 的 trickster，弑 Dyfed 王子 Pryderi 之人，荒野猎的得主，以及把 King Arawn 逐出凡人之地的那个人。"
 
+**关键词**：son of Dôn / trickster of Gwynedd / slayer of Prince Pryderi / victor of the Wild Hunt / drove King Arawn from mortal lands
+
 **为什么这样写**：全章的自我陈述，作者让一个从不自吹的人一口气念出五个头衔，且把最丑的那个（弑王）放在第三位。son of Dôn 开场，接 ch35 插叙的族谱；trickster of Gwynedd 是他自称了整个故事的头衔（ch07：它有的是个捣蛋鬼）；后面三个则全是本章与前几章刚发生的事。victor of the Wild Hunt 用 alliterative 的 v 音，让这一项在听觉上最响。
 
 **读者视角提示**：他把自己做过的每一件事都说了，包括那件他此刻最想被人知道不是自己的事。

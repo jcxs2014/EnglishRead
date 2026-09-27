@@ -33,7 +33,7 @@ source_text: ch10
 
 **关键词**：But she had a feral / visceral quality about her
 
-**为什么这样写**：作者在否定宫廷美之后立刻给出替代品——不是"她很好看"，是"她野"。feral（野生的、未经驯化的）与 visceral（本能的、直觉的）构成一个从身体到本能的双重定位，二者都与 ch05 里 Arawn 对 Pryderi 说的 "monster-raised"（被怪物养大）同源。about her（她身上那种）用介词短语，不下定义，只给方位。But 一词把"她不符合宫廷标准"与"她另有标准"接在一起，让否定本身变成赞美。
+**为什么这样写**：作者在否定宫廷美之后立刻给出替代品——不是"她很好看"，是"她野"。feral（野生的、未经驯化的）与 visceral（本能的、直觉的）构成一个从身体到本能的双重定位，二者都与 ch05 里叙述者那句 "Pryderi was prince-born—but he was monster-raised."（生来是王子，却被怪物养大）同源。about her（她身上那种）用介词短语，不下定义，只给方位。But 一词把"她不符合宫廷标准"与"她另有标准"接在一起，让否定本身变成赞美。
 
 **读者视角提示**：这是 Gwydion 眼中的她；下一段他反复"只为了看而看"——注意他多久才承认这一点。
 
@@ -49,7 +49,7 @@ source_text: ch10
 
 > **原句 4:** “If you’re going to start a war, there should at least be a deer, hound, or bird involved.”
 
-**中文理解**："那可太好了。你要真开战，好歹得牵涉一头鹿、一条狗或一只鸟吧。"
+**中文理解**："你要真开战，好歹得牵涉一头鹿、一条狗或一只鸟吧。"
 
 **关键词**：If you’re going to start a war / at least / a deer, hound, or bird
 
