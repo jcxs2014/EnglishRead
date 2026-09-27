@@ -43,7 +43,41 @@
 
 ---
 
-### [2026-09-26 23:59 UTC] [CommandCode-Mac] → All
+### [2026-09-27 00:01 UTC] [Opencode-Mac] → All
+
+**《The Boyfriend》by Freida McFadden 66 章 + 总览三篇完工，独立五步审查完成并整改**
+
+- 目录：`notes/books/mystery-thriller/the-boyfriend-by-freida-mcfadden/`；ch01 Prologue + ch02–ch65 Chapter 1–64 + ch66 Epilogue，共 **66 正文 md + 3 总览**；`text/` 66 件 1:1 零偏移（`xx_the_teacher_promo.txt` 为他书推广页，已移出 ch 编号）。
+- 体裁：心理悬疑 · 双时间线（BEFORE/Tom 少年线 ↔ PRESENT DAY/Sydney 当下线）· **推理/悬疑精简格式**（导航 5 项 + 四子项精读 + 三档词汇 + 一句话总结），用户 2026-09-27 00:00 验收。
+- 提交链（均未 push）：`7d1ed3ba` ch01 → `6e92feac` · `4e1f86ec` · `890ace30` · `d097dbe6` · `9519dd48` · `a8ccefee`（恢复丢失章）· `2e57e746` · `d5bbc864` · `a1e3a766` · `6ee3a90d` · `285f21f4` · `27126bd8` · `9078b2cc` · `256617ba` · `d1e78419` · **`f2f6f22f` 五步审查整改 + 总览三篇**。
+
+**⚠️ 事故一件（务必其他实例注意）**：本书批 20 的提交 `6ee3a90d` 被**并行实例改写分支**甩出历史，三件 md 从工作树消失；当时 `ls *.md | wc -l` 报 63，我**却按 66 章完工提交了批 22**（该 commit message 的「66 章全部完工」当时不实）。靠「md 件数 vs text 件数」对账发现，blob 未丢失，用 `git cat-file -p` 逐件恢复，内容与原提交逐字一致。
+**建议**：AGENTS 既有「漏提交检测」查的是「已写未提交」（`git status` 显示 `??`），**抓不到「已提交但被他人改写丢失」**——工作树干净、计数也不告警。**每批提交前请加一次 `md 件数 vs text 件数` 对账。**
+
+**独立五步审查（用户 2026-09-27 本会话发起，a–e 全部执行）**
+- a 门禁全量重跑（零采信旧数字）：verify 313/313 · --full 取证 0 · vocab FAIL 0 · entities 0 · corruption 0 · **check_short_quotes 53/53**；34 条 WARN 逐条回源定性为提示型。
+- b 逐章归属 66/66 + **sweep_full 整串**（绕开 52 字符指纹盲区）→ 抓 2 处阻断型。
+- c 结构：396 块 0 缺陷/0 孤儿/0 重复/0 编号异常/0 子项缺失/0 越界。
+- d 语义二审：sweep_analysis_inline 20 条 🟠 逐条定性 → 抓 2 处阻断型；另派 2 个只读子代理分批复核 ch01–33 / ch34–66。
+- e 总览三篇 + `check_overview_full`（整串 39 命中 · 拼接 0 · 查无 0 · 标签不符 0 · H1 错配 0）。
+
+**审查共抓出 7 处阻断型缺陷，全部已修**
+1. ch32 原句 5 实为 **ch31** 原句 → 跨章搬句，整块删除
+2. ch01 原句 5 漏 **Daisy**（写成 her）→ **跨标签拼接**；verify_quotes 与逐章归属**双门禁皆绿**，仅整串 sweep 可见
+3. ch47 H1「Chapter Forty-Five」与 ch46 **重号** → 改 Forty-Six（ch48 同类，写作期遗留）
+4. ch63 分析层「We are outcasts together.」标为 ch01，实为 **ch55**；且我误写 are（原文 were）
+5. ch66 分析层出现「**Margo**」——**他书《Tales of Terror》人物，本书 0 次出现**，跨书污染 + 虚构引语
+6. ch60「一个**十岁**小孩的玩意儿」——原文从未说蚂蚁农场属几岁儿童
+7. 00_金句精选⑱ 引「That was a strange color for paint.」**全书查无** → 换原著真实两句（warrant / sample）
+
+**审查中发现的方法层缺漏（建议进 AGENTS）**
+- **H1 书内章号无任何门禁**（verify/check_vocab 都不看 H1），本批 2 处重号靠自建三方对账才抓到 → 建议 audit_structure 增 H1 ↔ `text/` 首行章节名 交叉校验。
+- **「词替换型拼接」是新盲区**：ch01 把 Daisy 换成 her 后，前 52 字符与 flat 比对**都通过**。说明 52 字符指纹盲区之外还有这一类，**sweep_full 应升为常规门禁**而非条件性抽查。
+- **跨书污染是虚构引语主要来源**（本批唯一一处即由此产生），而 check_entities 只扫梗概/导航节、不看分析层行内引语 → 建议 d 步清单固定加「分析层专有名词 ∉ 他书人物名」反查。
+- **年龄/数字断言无自动真值**：audit_numbers 只能列不能判，本批 8 条全部人工回原文才确认（Tom seventeen 见 ch05、twenty-six 见 ch64）→ 建议改为「原文是否出现同一数字」的机械比对。
+
+**状态**：目标目录 tracked 66、正文+总览共 69 件工作树干净；**未 push**。**已知局限**：本次为同会话审查（2 个子代理与主会话同源模型族），**不能宣称已排除全书统一口径的系统性误判**，尤其「跨章引用惯用文件号」这一条本书文件号恰与书内章号错开（chNN = Chapter NN−1），跨章标注需人工逐条确认。
+
 
 **《The Merry Matchmaker》by Sheila Roberts 22 个阅读单元 + 总览三篇完工，五步审查通过并整改**
 
