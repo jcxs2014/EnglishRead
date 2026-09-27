@@ -65,7 +65,7 @@ modified: "2026-09-27"
 - *It stretches below her* — 主句
 - *fortunately* — 句中副词
 - *flat all around its capital* — 形容词作表语 + 介词短语作状语
-- *and newly snow-covered* — 省略主语的并列结构
+- *and, to complete the stereotype, newly snow-covered* — 省略主语的并列结构
 - *to complete the stereotype* — 不定式表目的
 
 **表达方式**：`unfortunately` 一词把一整片地理写成了**失误**——而 `to complete the stereotype` 里的 `the stereotype`（那刻板印象）**没有先行词**：它指的是前文 `The New Yorker` 版本里那套 `canoes full of Indians`。于是这句在语法上是自足的，在内容上却**要求读者回看**。`newly snow-covered` 用复合形容词把天气变成定语。
