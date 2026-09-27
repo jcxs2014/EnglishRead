@@ -49,7 +49,7 @@
 - 门禁（完工态）：`verify_quotes` **181/181**（干净 18/18）· `verify_overview_quotes` **28/28** · `check_vocab` **FAIL 0**（576 词条行）· `check_entities` 0 · `corruption_scan` **FAIL 0** · `sweep_full` 命中 153/跨章 0/查无 0 · `check_chapter_quotes` ch01–ch17 全 in text · `check_overview_full` 整串查无 0/章节标签不符 0/H1 错配 0 · `check_anchor` 凭空造词 0 · `audit_structure` 缺陷 0
 - **本轮门禁抓到 60+ 处阻断型缺陷，根因与库内历史一致：凭印象写引语与凭印象写词头**。最大一块是词表虚构（ch02/ch03/ch04/ch05/ch06/ch07/ch08/ch09/ch10/ch13 各批 6–19 条，含 `platitude/primogeniture/exorbitant/indolence/impetuous` 等）——全部改为「先跑 `vocab_candidates.py` 再动笔，只做减法」后清零。另抓到 1 处 ch14 跨章搬句（原句⑨ 误用 ch09 的句子）、1 处 ch15 引语大小写偏差、1 处 ch17 虚构例句（`a pot that required a great deal of stoutening`，全书查无）、1 处 ch10 分析层**跨书**引语（误引自另一本 Athill 回忆录）。`corruption_scan` 另修 18 处 U+FFFD（中文截断生成）
 - 原始逐行门禁输出见当日工作日志 `.memory/daily/2026-09-27.md` 本书条目「原始门禁输出」节
-- **五步独立审查未做（待用户发起）**
+- **五步独立审查已完成**（用户 14:47 发起，同会话执行）：a–e 五步全跑，**查出并整改 9 处阻断型缺陷**（commit `bfe6defd`，未 push）。要点：**audit_structure 对 ch16/ch17 报 0 是假阴性**——161 个引语块 ×5 子项全量核查出 14 处子项格式不一致；另有 2 处**全书查无的伪造引语/伪造跨章断言**（ch15、ch09）、3 处跨章标错、概述 3 处事实错（Sally 的角色、流产年龄、母亲章节）。整改后门禁全量复跑全绿。**逐行原始输出与缺陷清单见 `.memory/daily/2026-09-27.md` 本书条目「五步独立审查」节**
 
 ---
 
