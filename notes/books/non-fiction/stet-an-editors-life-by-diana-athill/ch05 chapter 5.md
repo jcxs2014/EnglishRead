@@ -239,7 +239,7 @@ modified: "2026-09-27"
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | Omnibus | n. 合集；（此处为书名 The Reader’s Digest Omnibus 的专名部分） | Our second money-spinner was The Reader’s Digest Omnibus: the first important chunk of loot brought home by André from New York. |
-| manuscript | n. 书稿 | I remember Allan Wingate’s first premises rather than its first books simply because the first books were so feeble that I blush for them. |
+| manuscript | n. 书稿 | To start with André simply snatched at any homeless manuscript that happened to float by, and the reading public just after the war was so starved of books and so short of alternative forms of entertainment that almost anything (in our case almost nothing) could be presented by a publisher without looking silly. |
 | reissue | n. 再版，重印 | The first of these to appear on our list were of a sober – almost stately – kind, a result of the post-war book famine which meant that the reissue of classics was felt as a need. |
 | juvenilia | n. 早期作品，处女作（此处指 Brontë 姐妹的 `important juvenilia`） | We also produced a good edition of the novels and poems of the Brontë sisters edited by Phyllis Bentley, whose introduction stands up well against modern Brontë scholarship, and who included examples of their important juvenilia – the first time that had been done in a British edition. |
 | bilingual | adj. 双语的（此处 `good-looking bilingual volumes`） | André had met a man called Bill Stirling who considered himself capable of translating all the major poets of Europe. Although in this he was aiming too high, he did produce translations of those two which were up to appearing in good-looking bilingual volumes with which we could justly be pleased. |
