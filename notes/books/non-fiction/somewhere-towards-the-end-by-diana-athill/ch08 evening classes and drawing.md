@@ -13,7 +13,7 @@ modified: "2026-09-27"
 - **章节定位**：第八章，接 ch07 的「收成」，转入**活动**这条线（`AS WELL AS relationships there are, of course, activities`）。本章是全书唯一一章**以一门手艺的成败为主线**的章节：作者从裁缝课一路走到写生课，最终以「我只能当个插画家」为由退出，并把这个退出判定为虚荣
 - **被记述者**：Biddy Maxwell（夜校那位导师，「她不只是教得好，而且成了延续至今的友谊群落的中心人物」）·作者的母亲（七十多岁时去上 `Painting for Pleasure` 课，画过静物与一幅 startling 的自画像）·Pisanello（十五世纪的画家，书中提他四幅速写：被吊死的人）·Goya（`Disasters of War` 与斗牛系列）
 - **时代坐标**：夜课兴盛期在「约二十年前」，她退休于七十五岁；本章写作时她已近九十
-- **字符数**：9,287（text/ch08_chapter_8.txt）
+- **字符数**：8,276（text/ch08_chapter_8.txt）
 - **一句话主旨**：她晚年最大的收获之一是**看见了**（`I am now much better at seeing things than I used to be`）——而她对现代抽象艺术的冷评，恰恰是同一件事的另一半：**注意力与敬意，不是聪明**
 
 ## 论证结构
@@ -196,20 +196,20 @@ modified: "2026-09-27"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| crouched | v. 蹲（`crouched like gnomes at tiny desks`） | So soon a group of us were crouched like gnomes at tiny desks in the infants’ library every Wednesday evening, stitching merrily away. |
 | fogeyish | adj. 老派的，守旧的（她想象中的他人评价） | To them my attempts must have seemed boring and fogeyish; to me theirs appeared an absurd waste of time, and I still think I was right. |
 | non-representational | adj. 非具象的（她判为荒诞的那类） | That is the kind of non-representational art that strikes me as absurd. |
 | abundance | n. 丰盛（那些几乎免费的课） | About six years later this abundance of almost-free classes began to shrivel. |
-| reproduce | v. 复现（写生课的核心动作） | I think I was almost the only student in that class whose aim was to reproduce the appearance of the model. |
-| term | n. 名称（`the term ‘life class’` 这个名称） | When you have a naked person in front of you, calmly exposed to your concentrated study, you see how accurate the term ‘life class’ is. |
-| naked person | n. 裸体的人（写生时面对的对象） | When you have a naked person in front of you, calmly exposed to your concentrated study, you see how accurate the term ‘life class’ is. |
-| inert | adj. 死的，无生气的（`what you produce will never be inert`） | Once that degree of skill has been achieved, off you can go and take as many liberties with appearances as you like; what you produce will never be inert. |
-| specially | adj. 特别地（`A few specially gifted people`） | A few specially gifted people have them from the start. |
 | collaborate | v. 协作（`hands and eyes that can collaborate`） | Many people will never have hands and eyes that can collaborate in a way that allows them to draw. |
-| exciting | adj. 令人兴奋的（`a painting can be exciting`） | There are many ways in which a painting can be exciting, but a drawing that thrills me is always one that has caught a moment of life. |
-| studying | v. 研究，凝视（`the object one is studying`） | One should become as skilful as possible in order to probe the true nature of the object one is studying. |
 
 ### ⭐⭐ 进阶
+| naked person | n. 裸体的人（写生时面对的对象） | When you have a naked person in front of you, calmly exposed to your concentrated study, you see how accurate the term ‘life class’ is. |
+| specially | adj. 特别地（`A few specially gifted people`） | A few specially gifted people have them from the start. |
+| studying | v. 研究，凝视（`the object one is studying`） | One should become as skilful as possible in order to probe the true nature of the object one is studying. |
+| reproduce | v. 复现（写生课的核心动作） | I think I was almost the only student in that class whose aim was to reproduce the appearance of the model. |
+| crouched | v. 蹲（`crouched like gnomes at tiny desks`） | So soon a group of us were crouched like gnomes at tiny desks in the infants’ library every Wednesday evening, stitching merrily away. |
+| term | n. 名称（`the term ‘life class’` 这个名称） | When you have a naked person in front of you, calmly exposed to your concentrated study, you see how accurate the term ‘life class’ is. |
+| inert | adj. 死的，无生气的（`what you produce will never be inert`） | Once that degree of skill has been achieved, off you can go and take as many liberties with appearances as you like; what you produce will never be inert. |
+| exciting | adj. 令人兴奋的（`a painting can be exciting`） | There are many ways in which a painting can be exciting, but a drawing that thrills me is always one that has caught a moment of life. |
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -232,9 +232,7 @@ modified: "2026-09-27"
 |---|---|---|
 | relationships | n. 关系（`as well as relationships`） | AS WELL AS relationships there are, of course, activities, which are almost as important. |
 | important | adj. 重要的（`almost as important`） | AS WELL AS relationships there are, of course, activities, which are almost as important. |
-| stitching | v. 缝 | So soon a group of us were crouched like gnomes at tiny desks in the infants’ library every Wednesday evening, stitching merrily away. |
 | drawing | n. 素描（`a drawing that thrills me`） | but a drawing that thrills me is always one that has caught a moment of life. |
-| drawing | n. 画画 | Given a lot of money I would collect art, both drawings and paintings. |
 | see | v. 看（本章的交付物） | I am now much better at seeing things than I used to be. |
 | eye | n. 眼睛（`hands and eyes that can collaborate`） | Many people will never have hands and eyes that can collaborate in a way that allows them to draw. |
 | hand | n. 手（`make your hand reproduce what you are looking at`） | It is to teach you how to look, and then how to make your hand reproduce what you are looking at, eventually with such confidence that the lines it draws are in themselves pleasing (or perhaps exhilarating, or scary, or whatever) as well as explanatory of the object drawn. |

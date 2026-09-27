@@ -244,7 +244,6 @@ modified: "2026-09-27"
 | selfish | adj. 自私的（`that central selfishness in me`） | So I do have at least one major regret after all: not my childlessness, but that central selfishness in me, so clearly betrayed by the fact childlessness is not what I regret. |
 | shame | n. 羞耻（`It is shame.`） | About that it is not just regret that I feel. It is shame. |
 | guts | n. 胆量（`never having had the guts`） | It’s at never having had the guts to escape the narrowness of my life. |
-| shame | n. 羞耻（`It is shame.`） | About that it is not just regret that I feel. It is shame. |
 | child | n. 孩子（`I have no children or grandchildren of your own?`） | But asking myself ‘Are you really not sorry that you have no children or grandchildren of your own?’ I get the answer ‘Yes, really.’ |
 | baby | n. 婴儿（`a recent arrival of a baby in our house`） | actually delighted by them, so that the recent arrival of a baby in our house is an event which gives me great pleasure |
 | hospital | n. 医院（`I was rushed to hospital only just in time.`） | I was rushed to hospital only just in time. |

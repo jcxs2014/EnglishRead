@@ -241,7 +241,6 @@ modified: "2026-09-27"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | relief | n. 如释重负（`turned my back with a good deal of relief`） | I had turned my back with a good deal of relief on romantic love, and I had become so used to not being married that only with difficulty, and without enthusiasm, could I imagine the alternative. |
-| relief | n. 宽慰 | I had turned my back with a good deal of relief on romantic love |
 | nurse | n. 护士（`like a professional nurse`） | I seemed to watch myself doing it in a businesslike way, without making any effort, like a professional nurse. |
 | wife | n. 妻子（`into a state of Wifehood`） | After that, I realized that I had moved, after all those years, into a state of Wifehood. |
 | pudding | n. 布丁（`wade through the pudding`） | I could enjoy all the plums of love without having to wade through the pudding. |

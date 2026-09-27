@@ -49,6 +49,7 @@ modified: "2026-09-27"
 1. 全章的内疚建立在**一次未发生的买房**之上，而她对这次失败的归因是「保险公司说房子有裂缝，我本来就懒得找另一处」。这个归因**只由她自己一人给出**，无第三方材料；她自己也承认 `I was not unwilling to be discouraged`——**「不情愿被劝退」这一说法，本质上无法证伪**。
 2. 她用停尸房那天的经验来治疗自己对母亲死亡的恐惧，逻辑是「死亡其实很普通」。但这条推理与她本章中心命题存在张力：她说自己怕的是**临终过程**而非死亡，而停尸房处理的是**尸体**——两者恰好是两回事。**她用来安抚自己的材料，严格来说不适用于她所恐惧的对象**。
 3. 全章对外祖母与母亲的对照是本章最有分量的伦理判断（清醒地合理化 vs 事后承认），但她对此的处理是**只在自己这一侧收束**（`I am still unable to make her selfishness then feel like an excuse for my own`），**从未追问母亲当年是否也这样对 Gran 说过同样的话**。母亲的自我辩解（`postponement might alarm Gran`）与作者对它的判词（`I knew this was rationalization`）都写得极准，而这个对称性本身指向更深的循环——本章没有展开。
+4. **本章给出的母女年龄差与 ch06 的自陈对不上，两章都未点破**：本章写 `By the time she was ninety-two I was seventy`，即母女相差二十二岁；又写母亲在 `On the day before her ninety-sixth birthday` 前一天倒下，即九十五岁辞世——按本章的二十二岁，她那时应是七十三岁。但 ch06 开篇自陈 `NOW THAT I am only seven years younger that my mother when she died`，只小七岁。**两章各自都忠实转述了原文（两次说法都出自作者本人），错的是精读没有把它们并置**；本章原有三条「可质疑处」全是伦理判断，未收这条数字类核对。
 
 ## 选择性精读
 
@@ -245,7 +246,6 @@ modified: "2026-09-27"
 | guilt | n. 内疚（本章标题性的情感） | And that is where the guilt is. |
 | afraid | adj. 害怕的（母亲与作者对自己） | ‘I am not afraid of death.’ |
 | cadaver | n. 尸体（比 dead person 更冷的技术词） | that a woman in her seventies should have seen only one cadaver! |
-| groceries | n. 食品杂货 | It might have been delivering groceries, but was in fact delivering a body. |
 | nurse | n. 护士（说「好多了但仍然很重病」的那位） | ‘She is feeling much better,’ said the kind nurse, ‘but she is still very very ill.’ |
 | cousin | n. 表亲（抗议「你很快就能回家」的那位） | When my cousin protested ‘But you’ll soon be back home’ she was cross. |
 | eyes | n. 眼睛（临终那一刻「聚焦」） | Her eyes focused. |

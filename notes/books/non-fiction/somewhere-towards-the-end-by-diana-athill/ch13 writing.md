@@ -220,7 +220,6 @@ modified: "2026-09-27"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | impossible | adj. 不可能的（`it is impossible adequately to describe`） | it is impossible adequately to describe how grateful I am for that. |
-| delicious | adj. 美味的（`absolutely delicious`） | But to do it when one is old…there are, I think, three reasons why being old makes it not just gratifying, but also absolutely delicious. |
 | surprised | v. 惊讶（`It would not have surprised me in the least`） | It would not have surprised me in the least if either the publisher or the public had said ‘No’ to either of those books. |
 | although | conj. 虽然（`I had brought this thing off although I was eighty`） | And what was more, I had brought this thing off although I was eighty. |
 | effortlessly | adv. 毫不费力地（`coming up effortlessly with the mot juste`） | So this time, coming up effortlessly with the mot juste was most satisfying: Stet, that was it, hurrah! |

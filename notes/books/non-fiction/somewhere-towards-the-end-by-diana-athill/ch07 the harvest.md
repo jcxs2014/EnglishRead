@@ -218,7 +218,6 @@ modified: "2026-09-27"
 |---|---|---|
 | expressing | v. 表达（角色性格的能力） | Barry liked them, however, and judged (rightly) that she would be capable of expressing the part’s character once on stage. |
 | unattractive | adj. 不吸引人的（`Are we silly or sensible, stupid or clever, bad or good, unattractive or sexy…?`） | Are we silly or sensible, stupid or clever, bad or good, unattractive or sexy…? |
-| disgusting | adj. 令人反感的（少女时代的那个反应） | And it was disgusting. |
 | production | n. 制作，上演（那部戏在牙买加的排演） | So off they went, and the production was successful. |
 | generous | adj. 慷慨的（`whatever they are generous enough to offer`） | Enjoy whatever they are generous enough to offer, and leave it at that. |
 | sensible | adj. 明智的（`Are we silly or sensible`） | Are we silly or sensible, stupid or clever, bad or good, unattractive or sexy…? |
@@ -238,10 +237,8 @@ modified: "2026-09-27"
 | reap | v. 收获（本章的题眼） | And one of the best parts of my harvest comes from a lucky piece of sowing a long time ago. |
 | sow | v. 播种（与 reap 对仗） | And one of the best parts of my harvest comes from a lucky piece of sowing a long time ago. |
 | grandchildren | n. 孙辈（`almost as though Barry had acquired two grandchildren`） | On Mr Cary’s death the two of them took over the farm, and when Jessamy and Beauchamp were born it was almost as though Barry had acquired two grandchildren, and me too to a slightly lesser degree. |
-| family | n. 家庭（`like family`） | I think I missed her almost as much as Barry did, but by that time friendship had consolidated into a sense of belonging together like family, so that there was no question of ‘losing’ her |
 | daughter | n. 女儿（`although I have not in fact got a daughter and grandchildren`） | So now, in my old age, although I have not in fact got a daughter and grandchildren, I have got people who are near to filling those roles. |
 | children | n. 孩子们（`these children’s being young`） | and our dying will be part of it just as these children’s being young is, so while we still have the equipment to see this, let us not waste our time grizzling. |
-| face | n. 脸（`his intelligent face slid into a fatuous smile`） | And as he spoke his intelligent face slid into a fatuous smile. |
 | eyes | n. 眼睛（`Always we are being reflected in the eyes of others.`） | Always we are being reflected in the eyes of others. |
 | affection young | n. 年轻人引发的 affection（本章的收束点之一） | What is so good about it is not just the affection young people inspire and how interesting their lives are to watch. |
 | worry | v. 忧虑（`it didn’t worry me`） | but because by then I had fully acknowledged within myself that sex between us was gone for good, it didn’t worry me. |

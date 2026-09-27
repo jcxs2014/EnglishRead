@@ -64,7 +64,7 @@ modified: "2026-09-27"
 
 **表达方式**：段首单引号引出一句宣言，**整段没有作者的任何评论**；`IAm` 的连写造成一种急迫的合并感；`start thinking about` 把一个决定写成一个**开始考虑的过程**。
 
-**为什么这样写**：全章的起点是**一句别人的话**，而这句话本身就是拖延的模板——「必须开始考虑」不等于「必须放弃」。作者把这句话原样放在段首、不加任何按语，**让读者自己听出其中的拖延结构**；而她自己在六十三岁那年（`at the time of writing this, which is precisely a month before my eighty-ninth birthday`）仍未执行。
+**为什么这样写**：全章的起点是**一句别人的话**，而这句话本身就是拖延的模板——「必须开始考虑」不等于「必须放弃」。作者把这句话原样放在段首、不加任何按语，**让读者自己听出其中的拖延结构**；而她自己到八十八岁那年（`at the time of writing this, which is precisely a month before my eighty-ninth birthday`）仍未执行。
 
 ### ②
 
@@ -227,7 +227,6 @@ modified: "2026-09-27"
 | envelopes | n. 小包（`four envelopes of sugar`） | Of course they allowed me to make myself a cup of tea, into which I put four envelopes of sugar–and Mrs Mattocks had been perfectly right! |
 | tea-making machine | n. 泡茶机（修车厂角落里那台） | A tea-making machine, with little envelopes of sugar in a paper cup beside it. |
 | half-hour | n. 半小时（那两个人陪她等的时长） | They not only stopped, but called the police for me and then stayed with me until they came, a long half-hour. |
-| shoulder | n. 路肩（那条窄路肩） | I was there on that shoulder for over an hour and a half before a breakdown van arrived to convey me to the repair works in Newmarket. |
 | unhappy | adj. 不快乐的（撞车之后的那个下午） | I passed the message on, she dismissed it huffily as nonsense, and about six weeks later, much to my relief, announced, ‘Oh, by the way–I have decided to get rid of the car.’ |
 | nonsense | n. 胡说（`she dismissed it huffily as nonsense`） | I passed the message on, she dismissed it huffily as nonsense |
 

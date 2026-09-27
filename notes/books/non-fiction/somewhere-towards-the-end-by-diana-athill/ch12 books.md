@@ -219,17 +219,10 @@ modified: "2026-09-27"
 | completely | adv. 完全地（`a completely real-seeming world`） | Or, at its best, it can take you into a completely real-seeming world in which you can experience all those sensations. |
 | sensations | n. 感觉，激情（小说给的东西） | Or, at its best, it can take you into a completely real-seeming world in which you can experience all those sensations. |
 | occasionally | adv. 偶尔（当代小说偶尔闯进那个领地） | Just occasionally a present-day novelist breaks through into their territory. |
-| enthusiasm | n. 热情（`I never responded with enthusiasm`） | I never responded with enthusiasm to thrills, puzzles or fantasies |
-| historical | adj. 历史的（`an extraordinary fashion for ‘historical’ romances`） | At the end of the 1800s and during the pre-war years of the twentieth century there was an extraordinary fashion for ‘historical’ romances. |
-| restored | adj. 恢复的（`you are ‘back to normal’`） | From time to time you get a day when it seems to be restored, and you can’t help feeling that you are ‘back to normal’, but it never lasts. |
 | restored | adj. 恢复的（`you are ‘back to normal’`） | From time to time you get a day when it seems to be restored, and you can’t help feeling that you are ‘back to normal’, but it never lasts. |
 | companion | n. 伴侣（她的 Barry） | In my case I fear that what I most often do less of is my duty towards my companion rather than the indulgence of my private inclinations. |
 | amazement | n. 惊奇（`make you gasp with amazement`） | It can set out to make you laugh, make you cry, make you gasp with amazement. |
 | reflected | v. 映照（小说的五种钩子之一） | offering a reflection of your own life |
-| amazement | n. 惊奇（`make you gasp with amazement`） | It can set out to make you laugh, make you cry, make you gasp with amazement. |
-| companion | n. 伴侣（她的 Barry） | In my case I fear that what I most often do less of is my duty towards my companion rather than the indulgence of my private inclinations. |
-| romances | n. 传奇故事（战后那类小说的总称） | At the end of the 1800s and during the pre-war years of the twentieth century there was an extraordinary fashion for ‘historical’ romances. |
-| reflected | v. 映照（`novels that reflected, more or less, my own life`） | But in the 1950s and ’60s I veered off towards novels that reflected, more or less, my own life. |
 
 ### ⭐ 基础
 
@@ -239,7 +232,6 @@ modified: "2026-09-27"
 | reading | v. 读（`reading them, reviewing them or…writing them`） | MY ESCAPES HAVE been into gardening, drawing, pottering and–the one I use most often–into books: reading them, reviewing them or (a new use of this particular occupation) writing them. |
 | novel | n. 小说（`I have gone off novels.`） | I have gone off novels. |
 | review | v. 评论（她为 Literary Review 写书评） | Reviewing books, which I do most often for the Literary Review, doesn’t go far towards paying the household bills, but is enjoyable because as Rebecca West once said in a Paris Review interview, ‘it makes you really open your mind towards the book’. |
-| novel | n. 小说 | I have gone off novels. |
 | name | n. 名字（`simply her name`） | I believe the shaming reason is simply her name. |
 | television | n. 电视（`I have never even bought a set`） | I have never even bought a set. |
 | cruelty | n. 残忍（`unwatchable and, if vivid, unreadable`） | now I find any sort of cruelty unwatchable and, if vivid, unreadable |

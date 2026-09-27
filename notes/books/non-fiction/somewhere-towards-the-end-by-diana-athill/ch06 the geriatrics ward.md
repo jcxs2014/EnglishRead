@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：Somewhere Towards the End（Granta Publications 2008；W. W. Norton 2009 美国第一版）
 - **作者**：Diana Athill——叙述者「我」
 - **章节定位**：第六章，接 ch05 母亲的死，转向**自己**。本章是全书唯一一章以「我将如何死」为题目的章节，而它的结论异常实际：**死亡过程不可怕，可怕的是失去照护**。本章同时是全书第一次把「钱」摆上台面（`I haven’t got the money to pay for care of any kind`）
-- **被记述者**：作者的哥哥（去年去世，八十五岁，酷爱帆船与养牡蛎）·作者的父亲（脑溢血，昏迷一周）·外祖母（心力衰竭卧床数月）·母亲的两位姐姐与一位舅舅（各种猝死）·作者最年长的朋友（与她同岁，无子女，靠护工与养老院）·Barry（最亲近的人，已先一步身体垮掉）
+- **被记述者**：作者的哥哥（去年去世，八十五岁，酷爱帆船与养牡蛎）·作者的父亲（脑溢血，昏迷一周）·外祖母（心力衰竭卧床数月）·母亲的三位姐姐与一位舅舅（各种猝死）·作者最年长的朋友（与她同岁，无子女，靠护工与养老院）·Barry（最亲近的人，已先一步身体垮掉）
 - **场景坐标**：哥哥在诺福克海岸的住所与 Blakeney Point 外的 sailing 一天；作者的伦敦公寓与其独居处境
 - **年龄坐标**：作者自陈此刻比母亲去世时只小七岁，即约八十八岁
 - **字符数**：7,379（text/ch06_chapter_6.txt）
@@ -29,7 +29,7 @@ modified: "2026-09-27"
 | 外祖母因心衰卧床数月，但有女儿在家陪着；致命的那次发作比她熬过的几次好受 | 案例 | 支撑「最坏的情形仍有人陪着」这一判断，也点出照护者的作用 |
 | 父亲脑溢血失去语言，痛苦之后是绝望；她推断他心里想的是 `it seems I can’t do anything about it so I’d better stop trying` | 案例 | 支撑「失去语言即放弃」这一具体机制；也支撑她对意识残局的判断力 |
 | 父亲第二次出血瞬间死亡，中间只有六天 | 关键事件 | 支撑「六天」这个可计量的宽限 |
-| 母亲的两位姐姐与一位舅舅：八十三岁中风即死、九十四岁临终前一小时才难受、弟弟在笑声中坠马而亡、表姐泡茶时倒地 | 案例 | 支撑「我们家的运气」这一判断，且作者明说这是运气不是安排 |
+| 母亲的三位姐姐与一位舅舅：八十三岁中风即死、九十四岁临终前一小时才难受、另一位病了约三周后安静离世、舅舅在笑声中坠马而亡、表姐泡茶时倒地 | 案例 | 支撑「我们家的运气」这一判断，且作者明说这是运气不是安排 |
 | 哥哥八十五岁，`His trouble was that he resented it because he loved his life so passionately.` | 引证 | 支撑「好死」的定义：不因怕死而成问题，而因舍不得而成问题 |
 | 临终前一日他带作者 sailing，那天水色 `mother-of-pearl and the breasts of doves` | 案例 | 支撑「他最后的不满是舍不得」这一判断的全部证据 |
 | `What filled him as death approached was not fear of whatever physical battering he would have to endure…but grief at having to say goodbye to what he could never have enough of.` | 引证 | 本章的中心区分：由「舍不得」而非「怕受苦」构成的死亡 |
@@ -48,6 +48,7 @@ modified: "2026-09-27"
 1. 全章最坚实的部分（家族死法清单）**建立在一个她自己反复标注为「运气」的基础上**，而她随即承认这个运气不会重复——`that luck certainly can only be hoped for, not counted on`。**她用一次不会重演的运气，去担保自己对死亡过程的整个判断**，这个推理在书里没有再被追问。
 2. 她对自己的预后给出一个明确判断（`it is going to be the geriatric ward for me`），依据是「无女儿 + 无钱 + Barry 先垮」三项。但这个推断**跳过了婚姻这一项**——而她在 ch02 已明写自己拒绝了三位求婚者。**一个主动选择不进入任何关系结构的人，把自己的晚年归因于「没有女儿」，这个归因是完整的吗？** 本章没有处理。
 3. 最长朋友那段是全章唯一的实证对照，本该是最有力的部分；但作者的结论停在 `Perhaps when one comes to it one always is?`——**一个问号**。她观察到一个反常现象（被救回来反而受苦）与一个可能的解释（人或许天然欢迎被救），**却没有给出自己的判断**。本章随后就转场了，这个未完成的论证被交给下一章承担。
+4. **本章与 ch11 就「与 Barry 相识多少年」互相矛盾，而两处都未点破**：本章正文写 `Barry, the person closest to me–we became lovers sixty-three years ago and started sharing this flat eight years later`（而本章写作于八十九岁生日前后），ch11 则写 `He and I met in 1960, when he was still married` 且她当时四十三岁——1960 年推回写作时约四十六年，与本章的「六十三年前」差十余年。**两个数字都出自作者本人**，本章此前的三条「可质疑处」全是家族运气类问题，未收录这条跨章数字核对，读者只读本章无从察觉。
 
 ## 选择性精读
 
@@ -230,7 +231,6 @@ modified: "2026-09-27"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| process | n. 过程（`the actual process of dying`） | The reassurance concerns the actual process of dying. |
 | care | n. 照护（`I haven’t got the money to pay for care of any kind`） | And I haven’t got the money to pay for care of any kind. |
 | money | n. 钱（本章的硬约束） | And I haven’t got the money to pay for care of any kind. |
 | body | n. 身体（`living with the body’s failures`） | When I worry, it is about living with the body’s failures, because experience has shown me that when that ordeal is less hard than it might have been, it is usually because of the presence of a daughter. |

@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：Somewhere Towards the End（Granta Publications 2008 年英国初版；W. W. Norton 2009 年美国第一版，ISBN 978-0-393-07667-7）
 - **作者**：Diana Athill——本书的叙述者「我」，承自她「Stet 修订三部曲」的第三部（前两部为 Stet 与 After a Funeral）。全书 16 章加一篇 POSTSCRIPT，不出现她自己的名字
 - **章节定位**：全书首章。不写童年也不写写作生涯，只从「今天早上」的两件小事起手——窗外邻居的哈巴狗与自己订回来的桫椤——由此把「步入老年的种种不能」逐条摆开，最后落到全书的立项声明。书前题词取自 Edgar Leslie 的 `It ain’t no sin / To take off your skin / And dance about / In your bones.`，献辞写给 Sally、Henry、Jessamy 与 Beauchamp Bagenal
-- **年龄坐标**：叙述当刻她八十九岁（`mine amount to eighty-nine`），据此回推本书写于 2008 年前后；ch02 自述跨过七十一岁那道坎，ch06 自述「只比我母亲去世时年轻七岁」
+- **年龄坐标**：叙述当刻她八十九岁（`mine amount to eighty-nine`），（按 ch11「1960 年、她四十三岁」倒推约生于 1917 年，则写作时约在 2006 年；2008 是出版年）；ch02 自述跨过七十一岁那道坎，ch06 自述「只比我母亲去世时年轻七岁」
 - **字符数**：10,653（text/ch01_chapter_1.txt）
 - **一句话主旨**：她用「买不到的东西」和「两种反面教材」把老年摆成一场清醒的观察，而不是一次哀悼——Jean Rhys 示范了如何不去想老，Marie-Louise Motesiczky 示范了被两个男人消耗掉一生却仍不被掏空，而她自己要接下的是第三件事：既然人只是物种里的一环，那么「写出衰亡」这件事也该有人来做
 
@@ -231,7 +231,6 @@ modified: "2026-09-27"
 | catalogue | n. 商品目录 | I had seen in Thompson & Morgan’s plant catalogue a photograph of a tree fern which cost £18 |
 | catalogue descriptions | n. 目录说明文字（画廊为展品所写的说明） | I was able to help her write tactful letters to them when she disliked the catalogue descriptions they were providing |
 | sprouting | v. 抽芽，冒出（sprout 的 -ing 形式） | from which four frail little leaves are sprouting. |
-| potter | n. 零碎活计（此处指她能给狗的少量活动量） | Our own dog… wants no more than the little potter I can still provide |
 | pang | n. 刺痛，懊恼（此处指看见别人遛狗时的一阵失落） | I saw them recently on their morning walk, and they caused me a pang. |
 | tree fern | n. 桫椤（本章两条线索之一，POSTSCRIPT 回头交代它的近况） | I had seen in Thompson & Morgan’s plant catalogue a photograph of a tree fern which cost £18 |
 | passing reference | n. 一句带过的话（此处指她随口提到自己的画） | She did, however, make a passing reference to her work, so I asked if I might see some of it. |

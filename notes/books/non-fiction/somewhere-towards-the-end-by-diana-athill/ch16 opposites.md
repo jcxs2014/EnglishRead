@@ -197,9 +197,10 @@ modified: "2026-09-27"
 |---|---|---|
 | smugness | n. 自满（`This tribal smugness was not, of course, a licence to rampage.`） | This tribal smugness was not, of course, a licence to rampage. |
 | justification | n. 辩解（`with a built-in expectation, I must admit, of justification`） | I too, as well as my dear disapprovers, ask that question–though with a built-in expectation, I must admit, of justification. |
-| advanced | adj. 晚年的（`moving through advanced old age`） | And comfort one does need, because there’s no denying that moving through advanced old age is a downhill journey. |
 
 ### ⭐⭐ 进阶
+| complacency | n. 自满（`not to sound complacent`） | Not long ago a friend said to me that I ought to be careful not to sound complacent, ‘because’ he added kindly, ‘you are not.’ |
+| advanced | adj. 晚年的（`moving through advanced old age`） | And comfort one does need, because there’s no denying that moving through advanced old age is a downhill journey. |
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -221,7 +222,6 @@ modified: "2026-09-27"
 | bang | n. 轰响（`end it with a bang`） | but it is impossible to end it with a bang. |
 | lesson | n. 教训（`no lessons to be learnt`） | There are no lessons to be learnt, no discoveries to be made, no solutions to offer. |
 | opposites | n. 对立面（`it can contain many opposites`） | within its own framework it is amazingly capacious so that it can contain many opposites. |
-| complacency | n. 自满（`not to sound complacent`） | Not long ago a friend said to me that I ought to be careful not to sound complacent, ‘because’ he added kindly, ‘you are not.’ |
 | coward | n. 懦夫（`not to be a coward`） | one was supposed not to be a coward, not to tell lies, and above all not to be vain and boastful |
 | lie | n. 谎言（`not to tell lies`） | one was supposed not to be a coward, not to tell lies, and above all not to be vain and boastful |
 | pebble | n. 卵石（`YOU ARE NOT THE ONLY PEBBLE ON THE BEACH`） | YOU ARE NOT THE ONLY PEBBLE ON THE BEACH might have been inscribed above the nursery door |

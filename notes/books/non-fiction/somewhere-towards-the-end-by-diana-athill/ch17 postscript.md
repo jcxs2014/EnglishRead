@@ -108,7 +108,6 @@ modified: "2026-09-27"
 | unfurling | v. 展开（`each frond unfurling to its full length`） | and within a few days of each frond unfurling to its full length, a little nub of green appears in the fuzzy top of the ‘trunk’ |
 | sprout | v. 萌发（`out of which all fronds sprout`） | (out of which all fronds sprout and into which you have to pour water) |
 | trunk | n. 树干（此处加引号，指那团毛茸茸的叶基） | a little nub of green appears in the fuzzy top of the ‘trunk’ |
-| watching | v. 观看 | but I underestimated the pleasure of watching it being a fern. |
 | buying | v. 买（`It was worth buying.`） | It was worth buying. |
 
 ## 一句话总结
