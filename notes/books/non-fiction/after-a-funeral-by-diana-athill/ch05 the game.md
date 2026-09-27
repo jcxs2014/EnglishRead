@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：After a Funeral: A Memoir 第五章（Jonathan Cape 1986 初版；Granta Publications 2000；W. W. Norton 2010）
 - **作者**：Diana Athill
 - **章节定位**：全书最长、也最重的一章。ch01 提出一个问题（他为什么死），ch02–ch04 铺陈病情，ch05 把两条线合并：他搬进她的公寓，他们把互相折磨命名为「the game」，然后他把日记留在摊开的地方让她读到——作者说得很清楚，这本日记是整章的转折点，它也是 ch06 得以成立的前提
-- **本章的文体**：全章引入了三份长件原件——他的日记数段、他的两封信、她的两封信；作者在原件前后都加上自己的裁决，形成「原件—注释」的往复结构
+- **本章的文体**：全章引入了三份长件原件——他的日记数段，加上她写给他的两封信与他回的一封；作者在原件前后都加上自己的裁决，形成「原件—注释」的往复结构
 - **本卷新出场的名字**：Sheila（给他临时工作的朋友）、Luke 的信、Drs Laing 与 Cooper（她在信中提出的治疗方向）
 - **字符数**：115,044（text/ch05_the game.txt）
 - **一句话主旨**：她以 `I always won these games because I held all the trumps` 开头，却在同章写下 `It had never occurred to me before that the position of strength can be a weak one`；转折点不是他的崩溃，而是他把日记留在摊开的本子上——`his having left it there in that ritually tidied room baited with the Sunday papers`
@@ -36,7 +36,7 @@ modified: "2026-09-27"
 
 **可质疑处**：
 
-1. 全章最重的一击来自日记，而她对日记的占有是双重可疑的：她承认这正是 ch03 里与 Didi 约定过的禁区（`we agreed that from then on we must both put away anything we wished to keep private`），也承认自己打算把这件事写给 Luke 看过（`(I was already mulling in my head the written account… which I was going to show Luke one day)`）。她对自己越界的处理是「不道歉」，理由是 `it's the kind of thing you’d do too`——这个理由本身也在他的信里被他质疑。
+1. 全章最重的一击来自日记，而她对日记的占有是双重可疑的：她承认这正是 ch03 里与 Didi 约定过的禁区（`we agreed that from then on we must both put away anything we wished to keep private`），也承认自己打算把这件事写给 Luke 看过（`(I was already mulling in my head the written account… which I was going to show Luke one day.)`）。她对自己越界的处理是「不道歉」，理由是 `it’s the kind of thing you’d do too`——这个理由本身也在他的信里被他质疑。
 2. 她在信中承认 `That last sentence was a lie`（`still to want to say love from Diana`），并解释动机是 `I knew he was a ‘case’ and believed that the more destructively he behaved the more he needed to feel that love had—or could—survive`。这段自认把「照护」的动机结构写得很清楚，但它同样可以读成：她需要的不是他的康复，而是一个不流失的、自证善良的处境。
 3. 关于脑瘤，作者的处理异常克制：`What the truth was I do not know (nothing was reported after his autopsy)`，随后判断 `What was certainly untrue was the story he now produced of the X-ray`。这一段是全章少见的「事实未定、只排除一种说法」的写法，但它被一句漂亮的转圜接住（`Given the mental mess he was in, no physical trouble was needed to keep me hooked`）——读者很难分辨这句俏皮话是自省还是自辩。
 
@@ -108,9 +108,9 @@ modified: "2026-09-27"
 
 **关键词**：getting Diana off my chest（把这口气从 Diana 身上卸下来）、with this entry I am off her back（写完这条我就从她背上下来了）、figuratively（比喻意义上）、Literally is too repulsive to even think about（字面意思太不堪想了）
 
-**表达方式**：两句用 off 这个介词作对仗（off my chest / off her back）；`with this entry` 把动作系在「这一条」上，使读者意识到她正读到日记的最后一页；括号里的自我审查在英语里靠大小写区分（`Literally` 单独起句）。
+**表达方式**：两句用 off 这个介词作对仗（off my chest / off her back）；`with this entry` 把动作系在「这一条」上，使读者意识到她读到的是此刻摊开的那一则——而她正为此往前翻页；括号里的自我审查在英语里靠大小写区分（`Literally` 单独起句）。
 
-**为什么这样写**：她读到的是一句胜利宣言，而宣告里嵌着一次未完成的报复——「从她背上下来」是本卷的来源：她曾写信宣布 he must go，他则视之为把他从她身上卸下的许可。括号里那句自我审查说明他写这条日记时也在同一种小心翼翼里；这正是她后来无法把日记读成「恶意」的原因。
+**为什么这样写**：她读到的是一句胜利宣言，而宣告里嵌着一次未完成的报复——「从她背上下来」正是他日记里那件尚未了结的事：她写信宣布 he must go，他当场回绝——`I can’t possibly go, I haven’t a penny`；而那封信的用意，作者自己说得很直白，是 `it was aimed at winning my forgiveness so that he could stay on in my flat`。括号里那句自我审查说明他写这条日记时也在同一种小心翼翼里；这正是她后来无法把日记读成「恶意」的原因。
 
 ### ⑥
 
@@ -134,7 +134,7 @@ modified: "2026-09-27"
 
 **句子结构**：首句为引语加叙述动词 `he sobbed`（引语在前、叙述在后）；次句引号内是一个破折号连接的结构：先是两个独立小句（`I don’t want to die` / `life can be so beautiful`），再由 `oh god` 引出一串三个 why 问句（`why do I do this` / `why do I always have to destruct everything I love` / `why must I die`），以问号收尾。
 
-**关键词**：I don’t want to die（我不想死）、life can be so beautiful（生命可以这么美好）、why I always have to destruct everything I love（为什么我总非要把我爱的一切都毁掉）、why must I die（为什么我非得死）
+**关键词**：I don’t want to die（我不想死）、life can be so beautiful（生命可以这么美好）、why do I always have to destruct everything I love（为什么我总非要把我爱的一切都毁掉）、why must I die（为什么我非得死）
 
 **表达方式**：以一个陈述句开场，破折号后转为赞叹，再转为三个层层收紧的 why；最后一个问句把「为什么我非得死」与前面「为什么我总毁掉一切」直接并列，形成自问的闭环。
 
@@ -180,7 +180,7 @@ modified: "2026-09-27"
 
 **表达方式**：以 `Now that` 把一个长期悬置的母子关系一笔结清，再用条件句把叙述从「事实」切换为「小说」；后一句以 it 作指示词，把这句话从书内推到书外。
 
-**为什么这样写**：全书最冷的一句判断用的是最暖的材料——一件从埃及寄来的旧夹克。她的结论不是「他好了」，而是「他终于回到母亲那里去了」；而她紧跟着的 `And if this were…` 说明她知道这个结局无法被写完，因为小说需要的那种封闭在这里不存在。
+**为什么这样写**：全书最冷的一句判断用的是最暖的材料——一件他母亲寄来、由别人转交的夹克。她的结论不是「他好了」，而是「他终于回到母亲那里去了」；而她紧跟着的 `And if this were…` 说明她知道这个结局无法被写完，因为小说需要的那种封闭在这里不存在。
 
 ## 词汇分级
 
@@ -226,4 +226,4 @@ modified: "2026-09-27"
 
 ## 一句话总结
 
-「The Game」用一张摊开在桌面上的日记结束了这场对弈：作者后来说，那不是一个转折点，而是她终于能照着 `And if this were a work of fiction that would be the end of the story.` 承认——她从未赢过，因为 `it was rare for Didi’s ‘home truths’ to have no truth in them`。
+「The Game」用一张摊开在桌面上的日记结束了这场对弈：作者在别处写下的判词是，那不是一个转折点，而她终于能照着 `And if this were a work of fiction that would be the end of the story.` 承认——她从未赢过，因为 `it was rare for Didi’s ‘home truths’ to have no truth in them`。

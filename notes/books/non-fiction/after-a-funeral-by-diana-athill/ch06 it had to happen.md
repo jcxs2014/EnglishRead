@@ -13,7 +13,7 @@ modified: "2026-09-27"
 - **章节定位**：全书末章，也是 ch01 那场晚餐的下文。ch01 提出「他为什么要死」，本章交出答案的全部分量：一句 `to stay alive Didi needed illusion, not truth`，一位始终没有说出真话的人（作者本人），以及一句 `This record has been written for him, and for people who are going to have children.`
 - **章名的出处**：他那封遗书里的一句 `It had to happen, sweetheart. My life is simply a matter of postponing—putting it off, off, and really at last it was time`
 - **本章新增的原件**：他的日记最后两则（12 月 18 日与 12 月 26 日）、他的遗书全文
-- **人物**：Peter 在他死前不久死于癌症；Anne 替他付过房租；Margaret 是他最后一任女友
+- **人物**：Peter 在他死前不久死于癌症；Anne 拿过钱替她去付自己的房租；Margaret 是他最后一任女友
 - **字符数**：48,111（text/ch06 it had to happen.txt）
 - **一句话主旨**：她以为给他一个家就是治疗，而 `I suspect now that it was the very security he had gained in finding a home … which finally made the ice give way`；于是这场葬礼真正埋葬的，是 `the watcher` 自己的自我认知
 
@@ -38,7 +38,7 @@ modified: "2026-09-27"
 **可质疑处**：
 
 1. 全章最重的一句是自省的，而自省的对象是作者本人：`what most ‘goodness’ is: not, as it turned out, a way of behaving of any value in a situation like this one.` 这一段若成立，则前五章她所有的耐心与陪伴都要重新计价——但她把它写成一次顿悟（`I had naively hoped that… but it worked the other way`），没有给出反例检验：她是否可能用别的方式做到既不撒谎又不让他绝望？她自己没问。
-2. 她对死亡机制的判断是「他被剥夺了幻觉」：安全给了他，而安全让他失去了改变的可能（`he had supposed that given this chance he would change, and he hadn’t changed, which brought his reason in as a dangerous ally to his unreason`）。但同一章她也承认 `There is no moral in the story, of course. Never has been.`——如果连他的日记都拒绝给出教训，这条因果链也应当被标为一种解释而非结论。
+2. 她对死亡机制的判断是「他被剥夺了幻觉」：安全给了他，而安全让他失去了改变的可能（`he had supposed that given this chance he would change, and he hadn’t changed, which brought his reason in as a dangerous ally to his unreason`）。但他自己也在同一章的日记里写下 `There is no moral in the story, of course. Never has been.`——如果连他的日记都拒绝给出教训，这条因果链也应当被标为一种解释而非结论。
 3. 结尾那句把书写动机转给读者（`for people who are going to have children`），却没有说明这本书会怎样被读到。`I am not often able to grieve fully. The watcher is usually there` 写的是她自己的观看癖；而这一句恰好向读者承认：这本书是由那个观看者写的。
 
 ## 选择性精读
@@ -49,11 +49,11 @@ modified: "2026-09-27"
 
 **中文理解**：哎呀呀，这最后会变成我们当初走进来时的那一步。
 
-**句子结构**：以 oh dear 叠用构成的感叹独立成分开场（三个词组，逗号分隔），随后是一个 this 引导的主语从句作主语的结构；`to be where we came in` 为表语，其中 where 引导表语从句。
+**句子结构**：以 oh dear 叠用构成的感叹独立成分开场（两叠，逗号分隔），随后是一个 this 引导的主语从句作主语的结构；`to be where we came in` 为表语，其中 where 引导表语从句。
 
 **关键词**：oh dear oh dear（哎呀呀）、this will turn out to be（这最后会变成）、where we came in（我们当初走进来时的那一步）
 
-**表达方式**：以叠词制造出絮叨的语调，再用一句最短的判断收束；`this` 前无所指——读者要到下一章才知道「这一步」是什么。
+**表达方式**：以叠词制造出絮叨的语调，再用一句最短的判断收束；`this` 前无所指——读者要到本章下文才知道「这一步」是什么。
 
 **为什么这样写**：这是全书唯一一次预告，且作者当场自我否定（`trying in shame to smother the thought but not succeeding`）。这句回忆录的关键作用是让 ch01 那场晚餐在结构上闭合：ch01 写「开始」，本章写「她会回到开始处」。
 
@@ -97,7 +97,7 @@ modified: "2026-09-27"
 
 **表达方式**：整句极短，用不定式作主语把「他为什么要活着」压缩成一个状语，再用 illusion / truth 一组对立完成判断；没有论证，只有诊断。
 
-**为什么这样写**：这是全书对「为什么善意会害人」的回答。她此前一直在提供真相（不点破他的酒、他的赌、他的自我欺骗），而这三样正是他赖以维持的幻象。**因此这段关系的真正杀手不是孤独，是清醒**——而提供清醒的人是她自己。
+**为什么这样写**：这是全书对「为什么善意会害人」的回答。她此前一直在提供真相——而她提供真相的方式恰恰是沉默：`I never taxed him with his shortcomings`。，而这三样正是他赖以维持的幻象。**因此这段关系的真正杀手不是孤独，是清醒**——而提供清醒的人是她自己。
 
 ### ⑤
 
@@ -111,7 +111,7 @@ modified: "2026-09-27"
 
 **表达方式**：两句都用「感受 vs 事实」的落差结构（`felt that… but in fact…`）；破折号后只用七个词完成整章的隐喻，而破折号在此处的作用是把比喻从想象切换成诊断。
 
-**为什么这样写**：她与他的这段对话（`Not for years—years and years.` / `Yes, it’s very bad.`）在文本里轻得像闲谈，在书里却被标成「对质」。**这个落差正是全书的结构**：两个人始终在谈同一件事，却各自以为自己在做别的事——她以为在安慰，他在照镜。
+**为什么这样写**：她与他的这段对话（`Not for years—years and years.` / `Yes, it’s very bad.`）在文本里轻得像闲谈，在书里却被标成「对质」。**这个落差正是全书的结构**：两个人始终在谈同一件事，却各自以为自己在做别的事——他觉得放松，她照见的却是自己。
 
 ### ⑥
 
@@ -167,7 +167,7 @@ modified: "2026-09-27"
 
 **表达方式**：三个 off 并置而不加连接词，把拖延写成一种口头习惯；`rather convenient` 一词给自杀安上一句轻描淡写的日常评语，与 `It had to happen` 的宿命语气形成对冲。
 
-**为什么这样写**：全书标题取自这封信，而这句话正是全书的病理报告：他的问题从来不是「要不要死」，而是「什么时候」。`rather convenient at this time` 更把死与账目连在一起——他死的那一周，正是她刚替他还清房租账目、他刚收到稿费的当口。
+**为什么这样写**：本章章名取自这句，而它正是全书的病理报告：他的问题从来不是「要不要死」，而是「什么时候」。`rather convenient at this time` 更把死与账目连在一起——他死的那一周，他刚拿到几笔翻译与改稿的小额支票；他刚收到稿费的当口。
 
 ### ⑩
 
@@ -226,4 +226,4 @@ modified: "2026-09-27"
 
 ## 一句话总结
 
-末章把一本书的两端接在一起：开头她说 `I think he was needing a witness`，结尾她说 `It was intolerable that he had been right to do so`——**这场葬礼埋葬的是他，也是她此后二十年里那个总在旁观的 watcher**。
+末章把一本书的两端接在一起：ch01 末段她说 `I think he was needing a witness`，结尾她说 `It was intolerable that he had been right to do so`——**这场葬礼埋葬的是他，也是那个总在旁观的 watcher**。
