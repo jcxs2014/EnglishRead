@@ -94,7 +94,6 @@ modified: "2026-09-27"
 
 | 词 / 短语 | 释义 | 例句（取自本章） |
 |---|---|---|
-| auntlike | adj. 像姨母的 | his kindness of heart makes him vulnerable |
 | Burgundy | n. 勃艮第（酒） | I also bought a bottle of Burgundy |
 | stricken | adj. 受打击的 | a stricken father would have fallen on the stage |
 | senselessness | n. 荒谬 | The question was shocking in its senselessness |
