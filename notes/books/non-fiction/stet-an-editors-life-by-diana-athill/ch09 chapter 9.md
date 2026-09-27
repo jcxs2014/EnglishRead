@@ -163,13 +163,13 @@ modified: "2026-09-27"
 
 ### ⑦
 
-> **原句 7:** Her – or rather her husband’s – money, which I am convinced André never thought of as something from which he might profit, enhanced this slightly out-of-reach glamour a good deal – and did so all the more effectively because she herself made very little of having money. She was gloriously special in André’s eyes less for her amazing richness than because she was above her amazing richness.
+> **原句 7:** And her – or rather her husband’s – money, which I am convinced André never thought of as something from which he might profit, enhanced this slightly out-of-reach glamour a good deal – and did so all the more effectively because she herself made very little of having money. She was gloriously special in André’s eyes less for her amazing richness than because she was above her amazing richness.
 
 **中文理解**：她的——或者更确切地说，她丈夫的——钱，我确信安德烈从未把它看作自己可能从中获利的东西，**大大增强**了这份略带不可及之处的魅力——而之所以增强得更有效，恰是因为她本人对拥有钱这件事不以为意。在安德烈眼里，她之所以卓越，与其说是因为她那惊人的富有，不如说是因为她**超越**了自己的惊人富有。
 
-**句子结构**：首句是「主语 Her – or rather her husband’s – money（破折号内的插入更正）+ 非限制性定语从句 which I am convinced André never thought of as something from which he might profit（内含 be thought of as 结构与 from which 定语从句）+ 谓语 enhanced + 宾语 this slightly out-of-reach glamour + 程度补语 a good deal – 破折号引出的原因状语从句 and did so all the more effectively because …」；次句是「主系表 She was gloriously special in André’s eyes + less for A than because B（less … than 结构作比较状语）」。
+**句子结构**：首句是「主语 And her – or rather her husband’s – money（破折号内的插入更正）+ 非限制性定语从句 which I am convinced André never thought of as something from which he might profit（内含 be thought of as 结构与 from which 定语从句）+ 谓语 enhanced + 宾语 this slightly out-of-reach glamour + 程度补语 a good deal – 破折号引出的原因状语从句 and did so all the more effectively because …」；次句是「主系表 She was gloriously special in André’s eyes + less for A than because B（less … than 结构作比较状语）」。
 
-**关键词**：Her – or rather her husband’s – money（她的——或者更确切地说，她丈夫的——钱）、never thought of as something from which he might profit（从未把它看作自己可能从中获利的东西）、enhanced this slightly out-of-reach glamour（大大增强了这份略带不可及之处的魅力）、did so all the more effectively because she herself made very little of having money（而之所以增强得更有效，恰因为她本人不以为意）、less for her amazing richness than because she was above her amazing richness（与其说因为她惊人富有，不如说她超越了自己的惊人富有）
+**关键词**：And her – or rather her husband’s – money（她的——或者更确切地说，她丈夫的——钱）、never thought of as something from which he might profit（从未把它看作自己可能从中获利的东西）、enhanced this slightly out-of-reach glamour（大大增强了这份略带不可及之处的魅力）、did so all the more effectively because she herself made very little of having money（而之所以增强得更有效，恰因为她本人不以为意）、less for her amazing richness than because she was above her amazing richness（与其说因为她惊人富有，不如说她超越了自己的惊人富有）
 
 **表达方式**：用 **`or rather`**（或者更确切地说）在两个所有格之间当场改口，而改口的方向是从**她**移到**她丈夫**——这一改把「她的钱」变成别人的钱，恰好完成了下一句那个判断的前提；末句用 **`less for … than because …`** 这一不对称的比较结构表达一个**品位的判断**：起作用的是「不在意」而不是「拥有」。
 
@@ -244,7 +244,7 @@ modified: "2026-09-27"
 | nursed | v. 怀有（此处 `He had long nursed a dream`） | He had long nursed a dream of programming and wall-charts which would somehow overcome the hazards which beset a book’s progress from typewriter to printing press: authors having second thoughts, indexers going down with ‘flu, holders of copyright not answering letters and so on. |
 | conned | v. 骗得（此处 `conned her way into a job she couldn’t do`） | Did she wake at night and start sweating at the thought of being found out, or did she simply blank out awkward facts such as that she had conned her way into a job she couldn’t do and was now lying in her teeth to hide the fact that she wasn’t doing it? |
 | bully | v. 威逼（此处 `he bullied Sheila Dunn to go with them`） | Another time he invited someone he had just met to share a short holiday in Cornwall, only to see next day that this was a mistake; whereupon he bullied Sheila Dunn to go with them and she in turn had to bully him not to lock the girl out of his bedroom – a situation I remembered on reading in Liane de Pougy’s My Blue Notebooks how an ex-lover of hers summoned her to his rescue because a new flame had trundled into his bedroom equipped with her pillow, obviously expecting (quel horreur!) to stay in his bed all night. |
-| out-of-reach | adj. 难以接近的（此处 `this slightly out-of-reach glamour`） | Her – or rather her husband’s – money, which I am convinced André never thought of as something from which he might profit, enhanced this slightly out-of-reach glamour a good deal – and did so all the more effectively because she herself made very little of having money. |
+| out-of-reach | adj. 难以接近的（此处 `this slightly out-of-reach glamour`） | And her – or rather her husband’s – money, which I am convinced André never thought of as something from which he might profit, enhanced this slightly out-of-reach glamour a good deal – and did so all the more effectively because she herself made very little of having money. |
 
 ### ⭐ 基础
 
