@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：*Letters to a Friend*（Diana Athill 著；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011；美国 W. W. Norton 2012 初版 / 2013 平装）
 - **作者**：Diana Athill（1917–2019），全书写信者「我」；署名 `Diana Athill,`，落款 `London, March 2011`
 - **章节定位**：全书最后一件，排在书信（ch03–ch16）之后，与 ch01 的作者自序、ch02 的收信人序构成「自序—序—信—后记」的四角。它回答两件事：通信明明还在继续（`the correspondence still continues`），为什么这本书要停在 `FINIS`；以及她为什么不再写那些「好日子」
-- **篇幅**：1,945 字符（非空白字符计，`text/ch17_postscript.txt`）；正文 2 段（13 个句子）+ 署名 + 日期，是全书最短的一件
+- **篇幅**：1,945 字符（非空白字符计，`text/ch17_postscript.txt`）；正文 2 段（13 个句子）+ 署名 + 日期，是全书最短的一件；下面结构表按语义分四节，不是原书分段
 - **一句话主旨**：她给收尾的理由不是「没东西可写」，而是一个童年就被定为罪名的心理机制——那个声音小到不足以让她不去参加活动，却足以让她不肯想这些活动，于是「想写下来的乐趣」被一点一点渗掉，留给信的只剩病痛
 - **写作时的年龄**：ch01 的自序里她自述 `since I’m ninety-three`，而这篇后记落款 2011 年 3 月，因此写于同一年的同一段时日
 - **说话人提示**：全篇是阿瑟尔自述，但人称在两个人的范围内切换——`we have become old` 的 `we` 指她与爱德华，`One does mind a great deal` 与 `one wants to know` 的 `one` 是她惯用的泛指主语。引号内的话都来自她自己的记忆或家训：`‘You are showing off’`、`‘bad for you’`、`‘The End’`；`Indian Summers` 是她给「事业第二春」这件事起的说法（这个词全书只在后记里出现这一次）

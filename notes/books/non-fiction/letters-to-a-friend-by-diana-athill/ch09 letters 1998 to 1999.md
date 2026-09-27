@@ -100,7 +100,7 @@ modified: "2026-09-27"
 
 **关键词**：If I could … I’d（要是……就……）、be up the wall（抓狂；受不了）、as it is（就目前情况而言）、the hideousness of the din（那噪音的可怕程度）、only by（只能靠……）、the extremity of（……的极端程度）、poor Hannah’s panic（可怜的 Hannah 的恐慌）
 
-**表达方式**：整句把「感受强度」换成了**测量隐喻**：`I know the hideousness … only by the extremity of … panic`——她不是说自己被吵疯了，而是说噪音有多可怕只能通过狗的恐慌程度来推算。这与 ch07 里把牙医报价换算成「`tens`」→「`hundreds`」→「`thousands`」是同一个思路：**她处理不可直接感知之物时，一律找一个可测量的替代物**。
+**表达方式**：整句把「感受强度」换成了**测量隐喻**：`I know the hideousness … only by the extremity of … panic`——她不是说自己被吵疯了，而是说噪音有多可怕只能通过狗的恐慌程度来推算。这与 ch08 里把牙医报价换算成「`tens`」→「`hundreds`」→「`thousands`」是同一个思路：**她处理不可直接感知之物时，一律找一个可测量的替代物**。
 
 **为什么这样写**：这一句写在装修噪音里，而她自己已经半聋，于是「听不见」反而成了她报告噪音强度的方法——这是一个只能用英语写出来的玩笑，因为 `the extremity of … panic` 这种抽象程度名词化在中文里很难不别扭。语法上值得学的是 `as it is` 这个插入语：它只有三个词，作用却是把整句话的时间坐标钉在「此刻的现实条件」上；`could … I’d` 虚拟句与 `as it is` 的对照，正好对应「假如能听 vs 事实上听不见」这组现实。
 

@@ -9,7 +9,7 @@ modified: "2026-09-27"
 ## 概览
 
 - **出处**：*Letters to a Friend*（Diana Athill 著；美国 W. W. Norton 2012 初版 / 2013 平装；英国 Granta Publications 初版书名 *Instead of a Book: Letters to a Friend*，© 2011）
-- **作者**：Diana Athill（1917–2019），全书写信者「我」；本组 9 件署 `Diana`（落款形式各异：`Very much love. Diana`、`Love Diana`、`With much love Diana`、`XXX OOO Diana`、`Love XXX Diana` 等），1 AUGUST 2000、29 SEPTEMBER 2000 与 [Addendum] 7 December 三件不署全名
+- **作者**：Diana Athill（1917–2019），全书写信者「我」；本组 9 件署 `Diana`（落款形式各异：`Very much love. Diana`、`Love Diana`、`With much love Diana`、`XXX OOO Diana`、`Love XXX Diana` 等），1 AUGUST 2000 与 [Addendum] 7 December 两件不署全名（29 SEPTEMBER 2000 那件署 `Diana`）
 - **章节定位**：书信部分第十组（ch03–ch16 共 14 组）。本组是全书**从「信」转向「照护记录」**的枢纽：在此之前她写信是为了交换意见（谈诗、谈出版、谈一个疯了的朋友），从这一组起，信的内容被两件不可逆的事占满——她自己的眼睛，和她兄弟的身体
 - **篇幅**：26,640 非空白字符（`text/ch10_letters_2000.txt`，以 `tr -d '[:space:]' | wc -c` 计）；11 件（10 封信 + 1 张明信片）；全件另有 5 处方括号件——[ENCLOSED LETTER]、[Postcard] 3 JULY 2000、[Addendum] 7 December 是三件信自身的标签，25 APRIL 2000 那封页顶的 [Note at top of page: AND ALL FOR FREE!!!!!] 是便条，3 NOVEMBER 2000 里的 [It became Yesterday Morning.] 是编者插补
 - **一句话主旨**：这是全书唯一一组「好年头」的记录——她一年之内看清了、把书写完了、名声真的来了；但同一组信里，André Deutsch 死了，而她的伴侣 Barry 正在她眼前缩小，而她用 `ungrudging`、`glad-rags`、`the faintest memory` 这类轻得不能再轻的词，把全部重量接住了
