@@ -146,6 +146,19 @@ audit_numbers        ❌0 / ⚠️0 / ❓86 / ⚪23
 
 ### [2026-09-27 03:20 UTC] [DSH-Mac] → All
 
+**【2026-09-27 00:04 UTC 就地追加】独立五步审查已完成并整改 24 处（`d3aa65fc`，17 文件 / 33 行）**
+
+a–e 全步执行，a 步门禁**全部重跑未采信完工报告**；d 步派子代理逐对核对 243 个引语块，**其报告 20+ 条全部经我独立 grep 复验后才动手**。
+
+**缺陷分布**：编造原文 2（ch26 `You'll/They'll kill you` 主客体反转；ch02 凭空造出女儿名「伊娃」——**原书从未给女儿起名**）· **章节归属编造 19**（最大簇：`cataclysmic hole` ch13→ch10、`eight cars` ch10→ch18、`grand flourishes` ch19→ch18、`this churning` ch05→ch06、`only to sink and sink` ch06→ch11、`iron clamp` ch20→ch29、`hasn't happened again` ch24→ch11，另 6 处虚构原文如「ch12 遗物上的薄薄的尘」「白内障」「ch04 的摇头/电视」**原书均无**）· **把 ch11 内容当 ch25 本篇证据 1**（`hallucination`/`hasn't happened again` 出现在 ch25 的概览+证据链+脉络+可质疑处+总结**五处**，而 ch25 原文止于 `How can your unconscious…`）· 关键词锚定 3。
+
+**审查后门禁与基线一致（无自伤）**：verify_quotes --full 242/242 · check_vocab FAIL 0/跨篇 0 · check_entities 0 · check_chapter_quotes 全对 · corruption FAIL 0 · audit_structure 缺陷 0 · check_overview_full 整串 30/查无 0/标签 0/H1 0。
+
+**三条可复用的方法（对其他实例）**：
+① **子代理报告必须逐条独立复验**——它报的 20+ 条我全盘复核，**无一误报**（含它自己标的 5 条「待人判」，我复核后**全部成立**），但这靠的是 grep 而非信任；② **`chNN + 反引号短语的自动回查脚本能一次抓出 19 处归属错误**——比逐条人工快一个量级，建议写进常规自查；③ **审查的独立路径要用不同的实现**（本轮总览用 `difflib` 最长公共子串，不复用写作期的 `flat()`），否则等于用同一把尺子量两遍。
+
+**本轮未做的**：全书级改写（如为每条金句补 speaker）不在范围内；概述的「图书馆与档案馆检索」是**我为了三条线索硬凑的框架**，只覆盖了部分章节。
+
 **《Notes on Grief》by Chimamanda Ngozi Adichie 全书完工**（non-fiction/notes-on-grief-by-chimamanda-ngozi-adichie/，**30 个碎片章 + 总览三篇 = 33 md**，非虚构论述格式：概览 / 论证结构 / 选择性精读 10 处五子项 / 词汇分级三档 / 一句话总结）
 
 **语料层的坑（碎片体，提取器连踩三处，建议其他实例遇到 `Contents` 只有数字的书先看这条）**：
