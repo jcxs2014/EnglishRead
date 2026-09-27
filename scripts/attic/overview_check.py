@@ -28,10 +28,21 @@ def looks_english(s):
     return a >= 25 and a / max(1, len(s)) > 0.55
 
 
+# 总览三篇命名有两种并存：AGENTS.md「唯一分隔符 = 单空格」规定的是 `00 概述.md`，
+# 但历史上有 322 本用 `00_概述.md`（下划线违反该约定）。此处两种都认，
+# 否则对单空格命名的书会报「缺文件」假红（2026-09-27 在 floating-hotel 上实测）。
+def _pick(*cands):
+    for c in cands:
+        p = os.path.join(book, c)
+        if os.path.exists(p):
+            return p
+    return os.path.join(book, cands[0])
+
+
 files = {
-    '金句': os.path.join(book, '00_金句精选.md'),
-    '节点': os.path.join(book, '00_情感节点.md'),
-    '概述': os.path.join(book, '00_概述.md'),
+    '金句': _pick('00_金句精选.md', '00 金句精选.md'),
+    '节点': _pick('00_情感节点.md', '00 情感节点.md'),
+    '概述': _pick('00_概述.md', '00 概述.md'),
 }
 
 miss_total = label_bad = 0
@@ -95,7 +106,9 @@ for tag, path in files.items():
 print(f"  短引语合计 {sh}")
 
 print("=== E 总览 H1 语义校验 ===")
-expect = {'00_概述.md': '概述', '00_金句精选.md': '金句', '00_情感节点.md': '情感节点'}
+expect = {os.path.basename(files['概述']): '概述',
+          os.path.basename(files['金句']): '金句',
+          os.path.basename(files['节点']): '情感节点'}
 h1_bad = 0
 for fn, kw in expect.items():
     p = os.path.join(book, fn)
