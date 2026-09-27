@@ -33,7 +33,7 @@ modified: "2026-09-26"
 
 - **中文理解**："我在跟你说。求你了。"她低下头摇了摇，让长发垂到脸前遮住。"对不起，但……那不是针对你的，好吗？那是一个警告。针对我的。它和我正在写的那篇文章有关。如果我们报警，他们会调查，而不该知道的人就会听到我在写什么。我只能说到这里。让他们以为他们赢了。求你了。别报案。"
 - **关键词**：It's a warning. For me.——三个短句，每句一个成分（这是一个警告。针对我。）；get wind of——听说、得知（wind 在此不是风，是"消息传开"）；Let them think they won——让他们以为他们赢了
-- **为什么这样写**：**这是全书最有效的一次说服，而它的技术是三个连续的短句作为盾牌。**"It's a warning. For me."（那是一个警告。针对我。）——**两个句子，两次缩小范围：不是威胁你，是警告我。**"the wrong people will get wind of what I'm working on"（不该知道的人会听到我在写什么）——**她没有说"这会毁了我的调查"，她说的是"不该知道的人会知道"；这是一个关于信息泄露的论证，而它比任何情感请求都更可信。**而最后那句 "Let them think they won."（让他们以为他们赢了。）——**这是一个操作性建议，口气像一个指挥官。**
+- **为什么这样写**：**这是全书最有效的一次说服，而它的技术是三个连续的短句作为盾牌。**"It's a warning. For me."（那是一个警告。针对我。）——**两个句子，两次缩小范围：不是威胁你，是警告我。**"If we call public safety, they'll investigate, and the wrong people will get wind of what I'm writing."（如果我们报警，他们会调查，而不该知道的人就会听说我在写什么。）——**她没有说"这会毁了我的调查"，她说的是"不该知道的人会知道"；这是一个关于信息泄露的论证，而它比任何情感请求都更可信。**而最后那句 "Let them think they won."（让他们以为他们赢了。）——**这是一个操作性建议，口气像一个指挥官。**
 - **读者视角提示**：**注意 Amy 的整套说辞建立在"那不是针对你"这个前提上，而娜奥米接受的正是这个前提。**对照 ch16 里 Amy 读那张卡片时脸上血色尽退，而娜奥米当时决定不追问；本章她依然没有追问。**这两次之间的差别是：ch16 娜奥米替 Amy 隐瞒了"她看见了什么"，ch21 娜奥米替 Amy 隐瞒了"她知道什么"。**而 Amy 那句 "That's all I can say"（我只能说到这里）——**在英语里，that's all I can say 是一个"我已经说完了我允许说的部分"的信号，而它同时也确认了存在更多。**
 
 > **原句 4:** The room is destroyed. Lamps knocked over and shattered, bottles and books and clothes all over the floor like someone had been frantically searching for something. Muddy footprints. Defiled essay pages, scattered across the room. And a strange smell—something grassy, decaying, like rotting trash.

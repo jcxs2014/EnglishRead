@@ -7,7 +7,7 @@ modified: "2026-09-26"
 
 ## 本章导航
 
-- **一句话概括**：2022 年 12 月（死后五个月）——娜奥米连着一周每天夜访 Liam（"I'd show up at Liam's doorstep, and he'd answer the door with that sexy half grin"），而她**知道自己在回避想 Greystone 这件事，心里有愧**；Fiona Williams 在图书馆把 Lila 死前在为《The Prince》做材料这件事捅了出来，Amy 摊开一整张名单——BP 漏油、麦道夫、贝尔斯登，红笔圈着 fraud、bribery、insider trading；**"these perfect lives… wasn't so much given to them as it was taken from others"**；最后她盯着 DuPont 与 Lila 在 Sterling 的合影，"Lila is not smiling but staring straight into the camera with the look of someone with a secret."
+- **一句话概括**：2022 年 12 月（死后五个月）——娜奥米连着一周每天夜访 Liam（"I'd show up at Liam's doorstep, and he'd answer the door with that sexy half grin"），而她**知道自己在回避想 Greystone 这件事，心里有愧**；Fiona Williams 在图书馆把 Lila 死前在为《The Prince》做材料这件事捅了出来，Amy 摊开一整张名单——BP 漏油、麦道夫、贝尔斯登，红笔圈着 fraud、bribery、insider trading；**"this perfect life lived by Greystone members wasn't so much given to them as it was taken from others"**；最后她盯着 DuPont 与 Lila 在 Sterling 的合影，"Lila is not smiling but staring straight into the camera with the look of someone with a secret."
 - **情感弧线位置**：升温（Naomi 线）——**这是全书信息密度最高的一章：Greystone 的机制第一次被完整地摊在一张桌子上，而摊开它的人是一个二十三岁的本科生。**
 - **Tropes 兑现/反转**：**"知情的沉默"的兑现。**娜奥米在开头就说明了她的处境——"I can’t tell him for the same reason I can’t tell my sister: I don’t want to get them involved."（我没法告诉他，正如我没法告诉姐姐：我不想把他们都牵进来。）**——而这一章的全部内容是：她已经知道得足够多，多到足以做出判断，而她依然一个电话也没打。**
 - **人物弧线**：娜奥米在这一章里第一次把"我"和"他们"分开——**"I was starting to realize that this perfect life lived by Greystone members wasn't so much given to them as it was taken from others."**（我开始意识到，Greystone 成员过的这种完美生活，与其说是给他们的，不如说是从别人那里拿来的。）**而这句话的语法是双重否定（not so much A as B）——它不是在描述一种生活，它是在取消一种说法。**
@@ -27,7 +27,7 @@ modified: "2026-09-26"
 - **中文理解**：我开始意识到，Greystone 成员所过的这种完美生活，与其说是给他们的，不如说是从别人那里夺来的。
 - **关键词**：I was starting to realize——（此处指）我开始意识到（进行时 ＋ start to，标记转变的过程）；this perfect life lived by——（此处指）Greystone 成员所过的这种完美生活（lived by 在此是被动修饰，live by ＝ 由……过活）；wasn’t so much given to them as it was taken from others——（此处指）与其说是给他们的，不如说是从别人那里拿来的（not so much A as B ＝ 与其说 A 不如说 B 的双重否定结构）
 - **为什么这样写**：**注意 not so much A as B 这个结构在这里的作用：它不是在描述一种生活，它是在取消一种说法。**——「这种生活是被赐予的」这句话被这个结构明确地否定了。**而作者把整句话的主语保留成 this perfect life（指称不明），把真正的施动者放到句尾：it（指这种生活）was taken from others。**"从别人那里拿"这个被动式里没有施动者——**而这正是本书的核心句法：每一笔账都查得出受益人，查不出付款人。**
-- **读者视角提示**：**注意这一章 Amy 给她的例证是按等级排列的**："Life insurance policies and charity write-offs. Giving their kids inflated salaries or bonuses. In the best cases, they were stealing from innocent people. And in the worst, their selfish decisions left people dead."（人寿保险与慈善免税额度。给自家孩子虚高的薪水或奖金。最好的情况下，他们在偷老实人的东西。最糟的情况下，他们自私的决定把人送进了坟墓。）**——注意最后那句的时态与句型：left people dead（把人留下了死）。leave ＋ 宾语 ＋ 形容词（leave people dead）是"使……处于某状态"的使役用法，而 Amy 用的正是这一型：她不谈杀人，她谈"留下"。**这与 ch23 里娜奥米问的"Not for murder."（不是因为谋杀。）——**这句问话在 ch28 就有了答案：他们干的不是谋杀，是把死人留下。**
+- **读者视角提示**：**注意这一章 Amy 给她的例证是按等级排列的**："Life insurance policies and charity write-offs. Giving their kids inflated salaries or bonuses. But this was worse. These hurt people. In the best cases, they were stealing from innocent people. And in the worst, their selfish decisions left people dead."（人寿保险与慈善免税额度。给自家孩子虚高的薪水或奖金。最好的情况下，他们在偷老实人的东西。最糟的情况下，他们自私的决定把人送进了坟墓。）**——注意最后那句的时态与句型：left people dead（把人留下了死）。leave ＋ 宾语 ＋ 形容词（leave people dead）是"使……处于某状态"的使役用法，而 Amy 用的正是这一型：她不谈杀人，她谈"留下"。**这与 ch23 里娜奥米问的"Not for murder."（不是因为谋杀。）——**这句问话在 ch28 就有了答案：他们干的不是谋杀，是把死人留下。**
 
 > **原句 3:** "They resorted to everything from threatening to sue to blackmail, whatever it took to preserve their members’ reputation."
 

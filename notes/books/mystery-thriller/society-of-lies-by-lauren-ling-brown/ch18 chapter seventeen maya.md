@@ -20,7 +20,7 @@ modified: "2026-09-26"
 - **中文理解**："今晚 Sterling 是只对会员开放，Ivy 在名单上，TI 在通行证名单上，任意颜色要两张。"
 - **关键词**：members-only——只对会员开放；on list——在（准入）名单上；on pass——在（无需名单的）通行证名单上；two of any color——任意颜色要两张
 - **为什么这样写**：**这是全书最经济的一次世界观交代：三个术语、三个组织、两条规则，全部用一句并列完成。**注意作者给的两个"颜色"是**功能标签**（color 代表 band 的颜色），而这条规则本身讲的是**准入的歧视**——**一晚上里，一个组织把"你属于哪里"写成了你必须随身携带的颜色。**
-- **读者视角提示**：**这四个术语在这本书里是通行证，是黑话，也是枷锁。**Daisy 是教玛雅这套词的人（"Daisy is the one who befriends, networker, and connects everyone to everyone"——黛西是那个交朋友、织网络、把每个人连起来的人），而**这套黑话后来在 ch11 和 ch25 会成为玛雅描述这个圈时用来说明"它如何运作"的材料。**
+- **读者视角提示**：**这四个术语在这本书里是通行证，是黑话，也是枷锁。**Daisy 是教玛雅这套词的人（"Daisy was good with languages and loved to befriend everyone."——黛西擅长跟人打交道，也乐意跟所有人交朋友），而**这套黑话后来在 ch11 和 ch25 会成为玛雅描述这个圈时用来说明"它如何运作"的材料。**
 
 > **原句 2:** "There's something that doesn't read 'men's football' to me."
 
@@ -47,7 +47,7 @@ modified: "2026-09-26"
 
 - **中文理解**：" sick 死了，"我摇着头说。我抱着肚子假装要吐。
 - **关键词**：sick——（此处指）病得要命；clutched my stomach——抱紧肚子；pretended to heave——假装干呕
-- **为什么这样写**：**这是全书唯一一次玛雅说谎成功，而它的技术是身体的：三个动作（说话、摇头、抱腹干呕）把一次质问变成了一个状况。**"Sick as fuck" 里的 as fuck 是强度补语（intensifier），**而她接下来做的动作（抱腹、假装干呕）把这句话从口头变成了可见。**另一个球员的反应是 "Oh shit... Never mind, man. You just chill."（哦靠……算了兄弟。你歇着吧。）——**又一次：一个身体状况让一条追查中止。**
+- **为什么这样写**：**这是全书唯一一次玛雅说谎成功，而它的技术是身体的：三个动作（说话、摇头、抱腹干呕）把一次质问变成了一个状况。**"Sick as fuck" 里的 as fuck 是强度补语（intensifier），**而她接下来做的动作（抱腹、假装干呕）把这句话从口头变成了可见。**另一个球员的反应是 "Never mind, I think I'm just shaken up after everything."（算了，我想我只是被刚才的事吓到了。）——**又一次：一个身体状况让一条追查中止。**
 - **读者视角提示**：**对照 ch16 里玛雅对 Amy 说的那句 "I promise to keep it between us"（我保证替你保密）——玛雅对 Amy 承诺保密的方式，和她对陌生球员说谎的方式，是同一种柔软。**而"柔软"在这个故事里不总是善意的：**它既是玛雅安慰人的技术，也是这个圈教会她的技术。**
 
 > **原句 6:** After that, Sterling Club bicker was just a formality. I knew I was in.

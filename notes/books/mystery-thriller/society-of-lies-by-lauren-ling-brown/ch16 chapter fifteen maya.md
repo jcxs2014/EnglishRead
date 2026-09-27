@@ -48,7 +48,7 @@ modified: "2026-09-26"
 - **中文理解**："但也许你看看他们有没有把她的本子拿走？她把它放在那儿，最下面那个抽屉。也许里面会有点有用的东西。"
 - **关键词**：check and see——（这里是提建议的口吻）看看有没有；kept it there——把它放在那儿；something useful——有用的东西
 - **为什么这样写**：**这一句的三个 "maybe / maybe" 是Amy 主动引导玛雅去找笔记本，而她自己站在门口。**注意结构：玛雅要找线索 → Amy 提出一个具体的检查项 → 底抽屉里没有笔记本 → Amy 说"They must have taken it"。**一个不知情的人不会精确知道笔记本应该在哪里（in the bottom drawer），而"must have"（一定是被他们拿走了）是一个没有被验证的推断被当成结论说出。**
-- **读者视角提示**：**对照 ch02 玛雅检查娜奥米手机时"seemed relatively undisturbed"（看起来相当 undisturbed）的说法，和 ch05 西蒙斯说的"we have no evidence of foul play"（我们没有发现任何犯罪行为的证据）——同一个圈子里的人都在用"看起来"作为免罪符。**Amy 用 must have（一定是被警察拿走了）——**而小说从未证实这一条。**
+- **读者视角提示**：**对照 ch14 法医办公室"no foul play is suspected"（不认为有犯罪行为）与 ch18 侦探那句"there is no evidence that your sister's death was criminal in nature"（没有证据显示你妹妹的死涉及犯罪）——同一个圈子里的人都在用"目前没有证据"作为免罪符。**Amy 用 must have（一定是被警察拿走了）——**而小说从未证实这一条。**
 
 > **原句 6:** It's faded, barely legible, with a gold leaf design printed around the edges, and on it, a handwritten note: Naomi, I'm sorry about last night. Let me make it up to you. —M.
 

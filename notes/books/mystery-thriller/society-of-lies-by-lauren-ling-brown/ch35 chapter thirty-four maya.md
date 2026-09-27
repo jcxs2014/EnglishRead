@@ -10,7 +10,7 @@ modified: "2026-09-26"
 - **一句话概括**：2012 年 1 月——DuPont 介绍她去做"私人家教"（"I have some friends who could use your help"），**工作内容是替 Calum Fuller 写个人陈述、代他考 SAT**（"So you're the one taking the SAT for me in March, right?"）；而玛雅在考试当夜溜进图书馆，被清洁工 Marta 交还一只耳环、留下一句 **"In all my years working here, I have never forgotten to lock a door to an office… I would be fired if I did."** ——那扇门是开着的；**她走进 DuPont 的办公室，在抽屉里看到一百多个写着 Greystone 会员姓氏的文件夹、她父亲葬礼时期的旧照片，以及** **"a picture of Daisy and me from the lingerie party, and another of Kai, Cecily, and Daisy doing lines with Alex Bain."**
 - **情感弧线位置**：转折（Maya 线的起点）——**这一章是全书第一次让玛雅成为"手上握有别人把柄的人"，而她拿到把柄的方式是替人作弊。**
 - **Tropes 兑现/反转**：**"被迫参与不义" 的兑现 + 反转。**她替人代考时的自我辩解是 **"I was a small, a very small, piece of the problem."（我只是这个问题里很小、很小的一块。）**——**而反转在同一章里到来：Marta 把那只耳环交还给她，DuPont 抽屉里照片的那个人就是她。**——**她手里原本握的是别人的把柄（Calum 的 SAT），最后她发现自己早就被拍下来了。**
-- **人物弧线**：玛雅在这一章里第一次**把母亲的那套信念（"hard work alone would make me successful"）明确否定掉**（"This wasn't a meritocracy, not at all; it never had been."），**而她否定它的方式不是愤怒，是清点**（"a system run on favors, big and small"）。
+- **人物弧线**：玛雅在这一章里第一次**把母亲的那套信念（"hard work alone wouldn't make me successful"）明确否定掉**（"This wasn't a meritocracy, not at all; it never had been."），**而她否定它的方式不是愤怒，是清点**（"a system run on favors, big and small"）。
 - **叙事手法**：**五段**（电话／Fuller 家／图书馆夜谈／办公室／走廊跟踪 DuPont）。**中段是全书唯一一次玛雅主动做一件她知道不对的事，而这段的写法是把它拆成两半：前半段她在做（代考），后半段她在算（"But I'd only be able to help Naomi if I helped Calum"）。**
 
 ## 精读

@@ -18,7 +18,7 @@ modified: "2026-09-26"
 > **原句 1:** A dull throbbing headache creeps in like a drum, prodding me from sleep.
 
 - **中文理解**：一阵沉闷的搏动式头痛像鼓点一样 creeping（爬）进来，把我从睡梦中戳醒。
-- **关键词**：throbbing——搏动式的；creep in——悄悄爬进来；prod——戳、催逼
+- **关键词**：throbbing——搏动式的；creep in——悄悄爬进来；prodding——戳、催逼（prod 的 -ing 形式）
 - **为什么这样写**：全书第二个人物登场，第一个句子就给了娜奥米一个**和玛雅完全不同的身体感**——玛雅的痛是刀割、撕裂、剥皮（外部的、剧烈的），娜奥米的痛是搏动、从内部顶出来的（内生的、钝的）。"creeps in like a drum" 把头痛写成入侵者，而且是被声音赶走的——她是被人吵醒的，不是自然醒。
 - **读者视角提示**：**这是全书时间结构的第一次落地**：娜奥米在"七个月后"死。她此刻的头痛、宿醉、笑意，全都会被那句章首标注（"seven months before her death"）染上一层读者才看得见的倒影。
 

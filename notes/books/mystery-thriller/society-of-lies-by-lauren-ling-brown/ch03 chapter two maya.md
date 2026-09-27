@@ -68,7 +68,7 @@ modified: "2026-09-26"
 
 - **中文理解**：我花了一会儿才看懂眼前的东西，但过了一会儿，我的目光聚焦在第一个词上：苯二氮䓬类药物。好吧，娜奥米确实在吃药。她睡不好。也许警探的意思是他们在她体内发现了处方药。但当我看到下一行时，我停住了。氯胺酮。
 - **关键词**：make sense of——理解、弄懂；prescription drugs——处方药；reach the next line——看到下一行；Ketamine——氯胺酮
-- **为什么这样写**：**这是全书最有效的一次信息投放**。作者把四句连在一起，中间用两次时间词（"a moment" / "after a moment"）标出玛雅的心理缓冲：她先给了一个善意的解释（安眠药），一句一句替妹妹开脱——"Okay… She had trouble sleeping. Maybe…"——三个短句的语义是**她在说服自己**。而最后一句 "But when I reach the next line, I stop." 用"读到下一行"这个日常动作，把震惊藏进"视线移动"里。**读者和玛雅在同一秒知道某件事不对，却还不知道是什么。**
+- **为什么这样写**：**这是全书最有效的一次信息投放**。作者把四句连在一起，中间用两次时间词（"a moment" / "after a moment"）标出玛雅的心理缓冲：她先给了一个善意的解释（安眠药），一句一句替妹妹开脱——"Okay, Naomi did take medication. She had trouble sleeping."——三个短句的语义是**她在说服自己**。而最后一句 "But when I reach the next line, I stop." 用"读到下一行"这个日常动作，把震惊藏进"视线移动"里。**读者和玛雅在同一秒知道某件事不对，却还不知道是什么。**
 - **读者视角提示**：氯胺酮（ketamine）在这个故事里是关键物质——它不是常见的处方安眠药。它出现在这里，等于宣告娜奥米死前的状态并非她自己所能解释。后文每一次它出现，这条线都会收紧。
 
 > **原句 9:** "Ms. Banks, how much did you know about your sister's life?"

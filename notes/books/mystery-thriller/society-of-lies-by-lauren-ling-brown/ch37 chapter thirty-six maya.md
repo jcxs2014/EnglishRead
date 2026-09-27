@@ -48,7 +48,7 @@ modified: "2026-09-26"
 - **中文理解**（想）：如果 Greystone 出了什么事，那就意味着我通往妹妹的那条命脉就断了。
 - **关键词**：If something happened to Greystone——（此处指）如果 Greystone 出了什么事；that would mean——（此处指）那就意味着（此处为虚拟语气表后果）；the end of——（此处指）……的终结；my lifeline to my sister——（此处指）我通往妹妹的那条命脉
 - **为什么这样写**：**注意 lifeline（命脉）这个词的选择。**——**在英语里 lifeline 指的是溺水时抓的那根绳索，而在这一句里它是电话、钱、那条打通两个世界的一根线。**——**而这一整句是条件句（If…），它的结构是"如果 X 发生，那么 Y 断裂"——也就是说，它把"Greystone 完蛋"和"我失去妹妹"写成了同一个事件的两面。**
-- **读者视角提示**：**注意这个想法的来源：它出现在玛雅跟着 Lila 走进图书馆的路上**（If what Marta had warned me about was true, Lila might have fallen out with Professor DuPont…but still, she couldn't really want to bring the whole club down. Did she realize how much was at stake for all of us? If something happened to Greystone, that would mean the end of my lifeline to my sister.）**——**也就是说：她是在追查 Lila 的同时替 Lila 辩护的，而她辩护的理由不是正义，是她自己。**对照 ch22 里 DuPont 对她说的 "If you want to be part of something meaningful, you need to be all in."（如果你想参与一件有意义的事，你就得全情投入。）**——**这与这一章的这一句是同一种交换的两次表述：她得到的不是一个组织，是一条通往妹妹的路。**
+- **读者视角提示**：**注意这个想法的来源：它出现在玛雅跟着 Lila 走进图书馆的路上**（"If what Marta had warned me about was true, Lila might have fallen out with Professor DuPont…but still, she couldn't really want to bring the whole club down. Did she realize how much was at stake for all of us? For me? If something happened to Greystone, that would mean the end of my lifeline to my sister."）——**这是一个假设句套着一个反问句，而最后落到的是"我自己"：她是在追查 Lila 的同时替 Lila 辩护，而她辩护的理由不是正义，是她自己。**对照 ch22 里 DuPont 以董事会成员身份说的那句 "As a member of the Sterling Club board of trustees, I am your link to the outside world."（作为 Sterling 董事会成员，我是你们与外部世界之间的那根连线。）——**这与这一章的这一句是同一种交换的两次表述：她得到的不是一个组织，是一条通往妹妹的路。**
 
 > **原句 6:** "Maybe if I could explain this to her, she would understand."
 

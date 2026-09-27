@@ -7,7 +7,7 @@ modified: "2026-09-26"
 
 ## 本章导航
 
-- **一句话概括**：2023 年 7 月（一个月后）——**Trevor Jones 从校友名录里找到玛雅的邮箱，写信说自己也是失去姐姐的人，并问她是否听说过 Sterling Club 的女管家 Marta Koval**（"She wanted to talk about Lila… But she asked me if I had ever spoken to the Sterling Club housekeeper, Marta Koval?"）；玛雅在 Kai 的单身派对游艇上把这条线索给 Daisy 看，**而当天天下午的 jetski 事故里，Jax 的船被人动过手脚**（"I can't help but think someone meant for that to happen."）
+- **一句话概括**：2023 年 7 月（一个月后）——**Trevor Jones 从校友名录里找到玛雅的邮箱，写信说自己也是失去姐姐的人，并问她是否听说过 Sterling Club 的女管家 Marta Koval。；玛雅在 Kai 的单身派对游艇上把这条线索给 Daisy 看，**而当天天下午的 jetski 事故里，Jax 的船被人动过手脚**（"I can't help but think someone meant for that to happen."）
 - **情感弧线位置**：升温（Maya 线）——**这一章是全书后半程的启动点：证据线重开、而危险同时升到物理层面。**
 - **Tropes 兑现/反转**：**"已死的受害者的家属登场"的悬疑经典兑现**——**而 Trevor 的登场方式与 ch43 里那封邮件形成了一组：2022 年 9 月 Marta 收到 Trevor 的邮件时选择了拉黑他；十个月后娜奥米因为想调查而主动去找 Marta；而 2023 年 7 月他绕过她们，直接去找了玛雅。**
 - **人物弧线**：玛雅在这一章里**第一次因为被别人信任而行动**（ Trevor 写信给她，是因为他相信她会查）——**而这一章的落点是一个新问题：那个 jetski 的事故到底是不是意外。**

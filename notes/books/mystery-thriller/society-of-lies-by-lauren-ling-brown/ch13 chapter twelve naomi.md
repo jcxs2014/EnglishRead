@@ -7,7 +7,7 @@ modified: "2026-09-26"
 
 ## 本章导航
 
-- **一句话概括**：娜奥米与 Ben 走去 Sterling 的路上被人行道上的醉汉挡住，其中一个叫 Pete Whitney 的大三学生认出她是亚裔，说出"Dirty chinks, go back to wherever you came from"；Ben 说 Pete 是国会woman 之子、有钱到免于被开除，娜奥米则在心里补上一句没说出口的话：**"Pete isn't just in Sterling, he's also in Greystone."** 后半章：她在舞池撞见 Liam 与新欢，当晚和 Ben 回家；次日 Liam 约她在 Sterling 见面，拿出"Hunt Group Under Scrutiny"的报道和她妈家的基金。
+- **一句话概括**：娜奥米与 Ben 走去 Sterling 的路上被人行道上的醉汉挡住，其中一个叫 Pete Whitney 的大三学生认出她是亚裔，说出"Motherfucking chinks. Go back to wherever you came from."；Ben 说 Pete 是国会woman 之子、有钱到免于被开除，娜奥米则在心里补上一句没说出口的话：**"Pete isn't just in Sterling, he's also in Greystone."** 后半章：她在舞池撞见 Liam 与新欢，当晚和 Ben 回家；次日 Liam 约她在 Sterling 见面，拿出"Hunt Group Under Scrutiny"的报道和她妈家的基金。
 - **情感弧线位置**：转折（Naomi 线）。**这是全书第一次让娜奥米自己看见那个圈的脸**——不是玛雅那样在十一年后回看，而是当场、当面、被当面骂。
 - **Tropes 兑现/反转**：**"坏小子其实是好人" 的兑现与反向使用**。**但作者把 Pete 和 Liam 写成了同一类：都是 Sterling 的男性成员。**不同之处不在道德，在**惩罚机制**——Pete 说了种族歧视，Ben 说"他们有南方邦联旗的枪械眼镜"，而结局是"他连停学都没有"。**这一段是全书对 Sterling 最直接的一次政治控诉，且它出现在娜奥米线而不是玛雅线。**
 - **人物弧线**：娜奥米第一次与 Ben 建立"共痛"（"despite how different Ben and I look, I understand our shared pain"），**并第一次对 Ben 说出和玛雅之间那件从未说出口的事**（读她自己写的短篇关于姐姐、那些被欺负的日子她从未告诉玛雅）。**同时她第一次在舞池上主动用 Ben 去刺激 Liam。**

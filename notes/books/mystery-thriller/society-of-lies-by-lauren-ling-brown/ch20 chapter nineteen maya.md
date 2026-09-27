@@ -11,7 +11,7 @@ modified: "2026-09-26"
 - **情感弧线位置**：转折/低谷（2011 线）——**这是 Lila 警告的起点，而它同时也是玛雅拒绝警告的起点。**
 - **Tropes 兑现/反转**：**"被选中的新人得到前辈的私下提醒" 的兑现 + 致命反转。**Lila 的两次提醒（耳语 + 纸条）是全书唯一一次"圈内人给圈外人的警告"，**而玛雅读到它时的第一反应是"这是不是玩笑"（Was this some kind of joke?）**——**这个反应本身就是本书的论点：一个从小被训练成"这是玩笑"的人，无法把警告读成警告。**
 - **人物弧线**：玛雅在同一天里做了三件事：通过了 Sterling 的入伙（Hell yes!）、接受了 Lila 的两次提醒、并把它们归类为玩笑或怪事。**她的忠诚在同一天内战胜了她的判断。**
-- **叙事手法**：单场景（图书馆）线性，以两处"她看向 Lila 而 Lila 不在"作对称；**关键处插入艾略特《四个四重奏》的原句**（"Footfalls echo in the memory… into the rose garden."）——**而 Lila 论文的题目是"时间与记忆"（time and memory），这部作品讲的是"一段被记错的时间"**，作者把这条线索放在她警告玛雅之前四行。
+- **叙事手法**：单场景（图书馆）线性，以两处"她看向 Lila 而 Lila 不在"作对称；**关键处插入艾略特《四个四重奏》的原句**（"'Footfalls echo in the memory…' … '…down the passage we did not take, toward the door we never opened, into the rose garden.'"）——**而 Lila 论文的题目是"时间与记忆"（time and memory），这部作品讲的是"一段被记错的时间"**，作者把这条线索放在她警告玛雅之前四行。
 
 ## 精读
 
@@ -41,7 +41,7 @@ modified: "2026-09-26"
 - **中文理解**：上面是潦草的手写字，写着：别信他们。趁你还能走的时候离开。
 - **关键词**：scrawling handwriting——潦草的笔迹（scrawl ＝ 乱写）；Don't trust them——别信他们（them 特指某群体，但从不点名）；Get out while you still can——趁你还能走的时候离开（while 引导的时间状语从句 ＝ 时机窗口）
 - **为什么这样写**：**两句祈使句，三个动词，没有一个主语指向具体的人。**"them"（他们）——**这是一个没有名字的群体，而玛雅收到这张纸的同一天，她刚刚答应了加入那个群体。**"Get out while you still can"（趁你还能走的时候离开）——注意 while you still can 里的 still（还）和 can（能）都是**正在消失的能力**：还能走的时候，意味着以后不能走。**这张纸条的语法是一份正在关闭的窗口的通告。**
-- **读者视角提示**：**玛雅读到它时的第一个动作是找凶手而不是找警告**："Did Lila slide this note into my book? I looked around, expecting her to jump out of the shadows."（是 Lila 把这张纸条塞进我书里的吗？我环顾四周 expecting 她从阴影里跳出来。）——**"jump out of the shadows"（从阴影里跳出来）是她给一个善意警告配上的一个恶作剧意象。**而这正是本书全书的一句：**当有人告诉她危险是什么的时候，她先假设有人想吓她。**——而这句话的作者，在 2023 年把它改写成了给西蒙斯的："Maybe the guy she was seeing... or even Greystone?"（会不会是她约的那个男人……或者甚至是 Greystone？）
+- **读者视角提示**：**玛雅读到它时的第一个动作是找凶手而不是找警告**："Did Lila slide this note into my book? I looked around, expecting her to jump out of the shadows."（是 Lila 把这张纸条塞进我书里的吗？我环顾四周 expecting 她从阴影里跳出来。）——**"jump out of the shadows"（从阴影里跳出来）是她给一个善意警告配上的一个恶作剧意象。**而这正是本书全书的一句：**当有人告诉她危险是什么的时候，她先假设有人想吓她。**——而这句话的作者，在 2023 年把它改写成了给西蒙斯的："Maybe the guy she was seeing, Benjamin Wong, or her ex, Liam—"（会不会是她约的那个男人……或者甚至是 Greystone？）
 
 > **原句 5:** A part of me wanted to laugh at the cryptic message.
 

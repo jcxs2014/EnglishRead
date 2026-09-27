@@ -20,7 +20,7 @@ modified: "2026-09-26"
 - **中文理解**："把它想成一份早先给出、你要用余生偿还的恩惠。这才是这件事如此成功的原因。"
 - **关键词**：an early favor——一份早先的恩惠（favor 在此指人情、帮衬，不是"施恩"）；spend the rest of your life repaying——用余生偿还（spend 在此是"付出"的比喻用法）
 - **为什么这样写**：**这是全书对这个圈子的定义，而它是用一句商业比喻给出的。**注意 "early"（早先的）这个词——**它意味着债在你入会之前就已经记在你账上了。**而 "spend the rest of your life repaying"（用余生偿还）把一笔无限期负债写成了固定成本。**最后一句 "That's what makes the whole thing so successful"（这才是这件事如此成功的原因）——"成功"（successful）在这里是财务用语，而 Daisy 说这句话时 "there was something dark about her expression"（她的表情有一瞬间很暗）。**
-- **读者视角提示**：**注意这句话在全书里被复述过两次。**一次是 ch12 玛雅总结 Greystone 的机制（"they don't pay attention"），一次是 ch19 玛雅在警局门口意识到自己正在重复这套逻辑。**而它的原始出处是一句"恩惠"论**——**这个圈子最有效的说服从来不是威胁，而是一份送出去的、无需询问的小礼物。**
+- **读者视角提示**：**注意这句话在全书里被复述过两次。**一次是 ch12 玛雅总结 Greystone 的机制（"Merging of dynasties"——两个家族合并成一个），一次是 ch19 玛雅在警局门口意识到自己正在重复这套逻辑。**而它的原始出处是一句"恩惠"论**——**这个圈子最有效的说服从来不是威胁，而是一份送出去的、无需询问的小礼物。**
 
 > **原句 2:** "Maya, what do you think eating clubs are if not just rebranded secret societies?"
 
@@ -34,7 +34,7 @@ modified: "2026-09-26"
 - **中文理解**："作为 Sterling 俱乐部董事会成员，我是你们与外界之间的连接。"
 - **关键词**：board of trustees——董事会（trustee ＝ 受托人、信托人）；your link to the outside world——你们与外界的连接
 - **为什么这样写**：**"link"（连接）这个词是全书的一个枢纽。**Daisy 在 ch11 说自己是 "the one who befriends, networker, and connects everyone to everyone"（交朋友、织网络、把每个人连起来的那个人），而 DuPont 此刻说的是同一个字：**"I am your link to the outside world."**——**一个由外部精英担任的永久性接口。**而 "your"（你们的）把所有新成员笼统地收进一个整体：**接口是单向的。**
-- **读者视角提示**：**注意这句话在十二年后的对应物。**ch19 里玛雅对西蒙斯说："They have their secrets because they know people like us don't know anything about their world"（他们有秘密，因为他们知道像我们这样的人对他们那个世界一无所知）——**而 DuPont 此刻正是这个"接口"的实体：他既是教授、又是董事会、又是签署 NDA 的人。**ch12 里玛雅写下的那个问题在此有了它的物理形态：**他就是那道门，而他长得很像门是开着的。**
+- **读者视角提示**：**注意这句话在十二年后的对应物。**ch19 里玛雅重读 ch01 序章里娜奥米的那条推文，意识到同一句"我们"把警方结论改写成了内部事务："When it's one of us it's an 'accident.'"（是自家人就是一场"意外"。）——**而 DuPont 此刻正是这个"接口"的实体：他既是教授、又是董事会、又是签署 NDA 的人。**ch12 里玛雅写下的那个问题在此有了它的物理形态：**他就是那道门，而他长得很像门是开着的。**
 
 > **原句 4:** "Congratulations. You've been formally invited to join Greystone Society. Do you accept?"
 

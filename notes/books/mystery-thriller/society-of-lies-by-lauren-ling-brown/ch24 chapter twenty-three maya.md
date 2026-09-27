@@ -41,14 +41,14 @@ modified: "2026-09-26"
 - **中文理解**："你们疯了！"一个女孩从窗口喊。从另一个窗口，一群男生举着 Sterling 俱乐部的旗子欢呼。
 - **关键词**：Y'all——你们（y'all 是口语的 you all，南方用法；对玛雅这个亚裔学生来说，这句话本身就标出了说话者的口音和位置）；insane——疯了；holding up the Sterling Club flag——举着 Sterling 俱乐部的旗子
 - **为什么这样写**：**这一句是全书最精密的一次"社群归属"描写，而它的技术是"从下面传来"。**玛雅在车里往上喊、楼上的人往下喊——**而她得到的不是制止，是一声"你们疯了"和一面自己的旗子。**注意这句台词的口音：y'all 是美国南方用法，而玛雅在南加州长大、娜奥米是华裔——**这句被旁观者喊出来的"我们"里，站着一个不属于南方的人。**而作者不评论，只是让这句出现在那里。
-- **读者视角提示**：**注意 "holding up the Sterling Club flag"（举着 Sterling 的旗子）这个动作。**旗子不是国家的，是俱乐部的；而一个正在被警笛追的女孩，被同校学生举着自己俱乐部的旗子接应——**这一场景就是 Greystone 在校园里的可见形态：不是地下，是旗子。**而 ch12 里玛雅写下的诊断是"They have their secrets because they know people like us don't know anything about their world"（他们有秘密，因为他们知道像我们这样的人对他们那个世界一无所知）——**这面旗子不是秘密，它是给所有人看的公开物，而它仍然是秘密的一部分。**
+- **读者视角提示**：**注意 "holding up the Sterling Club flag"（举着 Sterling 的旗子）这个动作。**旗子不是国家的，是俱乐部的；而一个正在被警笛追的女孩，被同校学生举着自己俱乐部的旗子接应——**这一场景就是 Greystone 在校园里的可见形态：不是地下，是旗子。**而 ch12 里玛雅面对三个朋友问起 Lila 时，一句话都没能问出来——"I don't know what to say. What is there to say?"（我不知道该说什么。还能有什么可说的？）——**这面旗子不是秘密，它是给所有人看的公开物，而它仍然是秘密的一部分。**
 
 > **原句 5:** "I learned how to drive in Manhattan."
 
 - **中文理解**："我在曼哈顿学的开车。"
 - **关键词**：learned how to——学会如何（此处指学开车这一技能）
 - **为什么这样写**：**这一句是全书用最短的篇幅标记阶层的方式。**"我在曼哈顿学的开车"——**这句话的前提是：在这个群体里，驾照可以由私人司机教，而这是一件需要解释的事。**玛雅问的是 "Who taught you to drive?"（谁教你的开车？）——**而答案的语法是过去时的 "learned"（学会），主语是"在曼哈顿"这个地点而不是任何一个人。**
-- **读者视角提示**：**注意作者用一处小道具完成了阶层标记：Cecily 前座上堆着的拐杖。**"her crutches, which were stacked beside her in the front seat"（她的拐杖，堆在前排座位上）——**学车不用教练，是因为她是 Cecily St. Clair；而她前座上放着拐杖，因为她在 TI 喝多到差点摔断腿。**这两件事并置在同一辆偷来的球车的前排：**被宠坏与被伤着，同时成立。**而玛雅的反应是 "I pictured Cecily doing a keg stand and laughed inwardly"（我在脑子里想象 Cecily 干 keg stand 的样子，暗自发笑）——**她在心里笑，而她没有说。**这一段和 ch12 里玛雅对娜奥米说 "it must have been so nice"（那一定很棒吧）是同一种技术：**亲近的底层是距离。****
+- **读者视角提示**：**注意作者用一处小道具完成了阶层标记：Cecily 前座上堆着的拐杖。**"her crutches, which were stacked beside her in the front seat"（她的拐杖，堆在前排座位上）——**学车不用教练，是因为她是 Cecily St. Clair；而她前座上放着拐杖，因为她在 TI 喝多到差点摔断腿。**这两件事并置在同一辆偷来的球车的前排：**被宠坏与被伤着，同时成立。**而玛雅的反应是 "I pictured Cecily doing a keg stand and laughed inwardly"（我在脑子里想象 Cecily 干 keg stand 的样子，暗自发笑）——**她在心里笑，而她没有说。**ch12 里玛雅和三个朋友谈 Lila，整段却是 "I don't know what to say. What is there to say?"（我不知道该说什么。还能有什么可说的？）——**是同一种技术：亲近的底层是距离。****
 
 > **原句 6:** Not only was I now a member of the most envied club on campus, I was one step closer to being with my sister again.
 

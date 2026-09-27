@@ -41,7 +41,7 @@ modified: "2026-09-26"
 - **中文理解**：我打了个寒噤，思考这件事的含义。如果从那片水里被拉出来的是别人，调查会不会被更认真地对待？
 - **关键词**：Shuddering——打着哆嗦（此处身体反应代替情绪词）；consider the implications——推想其含义；taken more seriously——被更认真地对待；had someone else been pulled——（虚拟语气）如果别人被拉上来
 - **为什么这样写**：**这是全书第一次出现 counterfactual 推理句式（Had someone else been pulled…）——把既成事实换一个主语，重算一遍。**玛雅做的是这个动作，而她重算出来的结论是：**同样的死，换一个人就成立，换她妹妹就不成立。**"taken more seriously"（被更认真地对待）**这个被动式是关键的——不是"警察会更努力"，是"这个案子会被更当真"，**主语是"调查"这个抽象物，而娜奥米是它的对象。**
-- **读者视角提示**：**这一句就是全书主题的一个精确句法版本**：世界不自洽、人们不看自己拥有的（"the world isn't self-consistent, people don't look at what they have"）。**玛雅刚刚经历了一次这个句子：她本人就在场，但她看的不是她拥有的。**
+- **读者视角提示**：**这一句是全书主题的一次精确落地**：她本人就在场，但她当时看的是自己被羞辱的那一件事，而不是自己手里有的那一条。**——她不是没看见真相，她是只看见了自己。**
 
 > **原句 5:** Maybe someone should talk to her boyfriend.
 

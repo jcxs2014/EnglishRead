@@ -47,21 +47,21 @@ modified: "2026-09-26"
 
 - **中文理解**："如果我打探 Greystone 对我是危险的，你不觉得你属于它也很危险吗？"
 - **关键词**：poke around——四处打探（poke ＝ 戳、探）；belong——属于（此处的不及物形式，＝ 属于某个组织）
-- **为什么这样写**：**这是 Amy 的反驳，而它用一个句型完成了整本书的论证：把对方的处境用一个更短的句子原样退回。**结构是"If it's dangerous for me to X, don't you think it's pretty dangerous for you to Y?"——**X 是调查、Y 是归属，两个都是动名词短语，句子对称。**而 "pretty dangerous"（相当危险）——**pretty 在这里是反语：在英语口语里 pretty dangerous 常表示"其实挺危险的"，而字面"相当"是它的本义。**
-- **读者视角提示**：**注意这一句是全书对"结构性风险"这个概念的第一次准确表达，而它出自一个局外人。**玛雅十二年后在书里写下的正是这一句的普遍化版本："They have their secrets because they know people like us don't know anything about their world"（他们有秘密，因为他们知道像我们这样的人对他们那个世界一无所知）——**而"像我们这样的人"这个词，在 ch20 里是那个问"我们不都是局外人吗"的女孩自己说的。**
+- **为什么这样写**：**这是 Amy 的反驳，而它用一个句型完成了整本书的论证：把对方的处境用一个更短的句子原样退回。**原句是"If it's dangerous for me to poke around Greystone, don't you think it's pretty dangerous for you to belong?"——**两个分句用同一个 be dangerous 框架对举，唯一的差别只在补语：to poke around Greystone 对 to belong。**而 "pretty dangerous"（相当危险）——**pretty 在这里是反语：在英语口语里 pretty dangerous 常表示"其实挺危险的"，而字面"相当"是它的本义。**
+- **读者视角提示**：**注意这一句是全书对"结构性风险"这个概念的第一次准确表达，而它出自一个局外人。**玛雅十二年后在书里问出的正是这一句的普遍化版本："didn't warn her about what membership really means"（我没有提醒过她加入意味着什么）——**而"像我们这样的人"这个词，在 ch20 里是那个问"我们不都是局外人吗"的女孩自己说的。**
 
 > **原句 6:** "I feel lightheaded as I imagine the kind of trouble Amy could be in if this got out."
 
 - **中文理解**："我感到一阵眩晕，因为我想象着如果这件事传出去，Amy 会陷入什么样的麻烦。"
 - **关键词**：lightheaded——头晕的（此处是恐惧的生理反应）；the kind of trouble——（那种）麻烦；if this got out——如果这件事传出去（if + 过去式，指向未来结果的假设）
 - **为什么这样写**：**注意 "if this got out" 的虚拟语气与时态矛盾。**英语的虚拟语气里 usually 用 were，但 got（got out ＝ 泄露、传出去）在这个结构里表示一个"如果事实暴露"的条件——**而 get out 在英语里本身就带"消息走漏"义。**这一句的语法在严格的虚拟里是错的（应该是 if this got out…它其实是对的：主句是过去、if 从句是过去、表示与过去相反的假设），**而作者用的是一个"过去事实 + 现在恐惧"的混合时间层：事情已经发生（Amy 的调查已经做了几个月），后果还没发生。**
-- **读者视角提示**：**这是娜奥米第一次为"别人的风险"而头晕，而她自己的风险她此前一次也没算过。**注意这一章里她说了两次自己会怎样（"why wouldn't you just tell me already?"、"Don't you know how scared I am?"），两次都被 Amy 用"你是会员"挡回。**——一个组织最有效的说服，就是指出你已经无法离开。**
+- **读者视角提示**：**这是娜奥米第一次为"别人的风险"而头晕，而她自己的风险她此前一次也没算过。**注意这一章里她说了两次自己会怎样（"why wouldn't you just tell me already?"、"Talk to Liam."），两次都被 Amy 用"你是会员"挡回。**——一个组织最有效的说服，就是指出你已经无法离开。**
 
 > **原句 7:** "Not for murder."
 
 - **中文理解**："（追诉时效）对谋杀不适用。"
 - **关键词**：Not for murder——（此例外）不针对谋杀（这里是对上一句的省略回答）
-- **为什么这样写**：**全书最短的一句，也是全书最重的一句，而它是一个否定前置的省略回答。**娜奥米问的是 "Isn't there some kind of statute of limitations?"（不是有某种追诉时效吗？）——**Amy 的回答没有重复那个词组，只给了两个词：Not for murder.**（不是针对谋杀。）而这句话在英语里是残句：**它的完整形式应该是 "There isn't a statute of limitations for murder."**
+- **为什么这样写**：**全书最短的一句，也是全书最重的一句，而它是一个否定前置的省略回答。**娜奥米问的是 "Isn't there some kind of statute of limitations?"（不是有某种追诉时效吗？）——**Amy 的回答没有重复那个词组，只给了两个词：Not for murder.**（不是针对谋杀。）而这句话在英语里是残句：**它的完整形式应该是 "There isn't a statute of limitations for murder."——**而这个词组在原句里根本没有出现，Amy 用的是省略。**
 - **读者视角提示**：**注意这一句在对话中的位置：它是本章的最后一句，也是全书的中点。**而玛雅在 ch02 之后一直在推进的那条时间线，到此才有了一个可能的解释框架。**作者在全书的中点用一句否定告诉读者：这件事没有法律上的时限，因此它可以一直悬着——就像那面被重新刷过的墙。**——而娜奥米在此之前刚做完了这十二年里最关键的一次回答：**"My sister was in Greystone ten years ago."**
 
 ## 本章词汇

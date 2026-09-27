@@ -7,7 +7,7 @@ modified: "2026-09-26"
 
 ## 本章导航
 
-- **一句话概括**：2023 年 6 月，格林威治的 Margaret 家中举行娜奥米葬礼——**娜奥米的论文导师 Fiona Williams 在台上说出 "not permit another young woman to be silenced in her grave"（不容另一个年轻女子在她的坟墓里被噤声）**，玛雅随后走上台，念到一半崩溃、扔掉稿纸、公开宣布 **"My sister's death was not an accident."（我姐姐的死不是意外。）**；她在娜奥米旧卧室找到那本被藏在书桌后面的皮面笔记本，最后一行是全大写加两下划线：**WHO KILLED LILA JONES?** 而找它时，Matthew 的未婚妻 Sara 上了楼。
+- **一句话概括**：2023 年 6 月，格林威治的 Margaret 家中举行娜奥米葬礼——**娜奥米的论文导师 Fiona Williams 在台上说出 "not permit another young woman to be silenced in her grave"（不容另一个年轻女子在她的坟墓里被噤声）**，玛雅随后走上台，念到一半崩溃、扔掉稿纸、公开宣布 **"My sister's death," I say, forcing my voice to be strong and clear, "was not an accident."（我姐姐的死不是意外。）**；她在娜奥米旧卧室找到那本被藏在书桌后面的皮面笔记本，最后一行是全大写加两下划线：**WHO KILLED LILA JONES?** 而找它时，Matthew 的未婚妻 Sara 上了楼。
 - **情感弧线位置**：高潮（Maya 线）——**全书唯一的公开指认，而它发生在灵堂上，被在场的人当作崩溃处理。**
 - **Tropes 兑现/反转**：**"葬礼上被忽视的控诉" 的兑现 + 反转。**作者让玛雅做完这件事之后，立刻让一群人围上来、叫她名字、议论她——**而她要的信息没有一个人给。**反转在于：她在同一栋房子里找到了娜奥米藏起来的笔记本，**笔记里的答案就在她手里，而她是在崩溃之后才找到它的。**
 - **人物弧线**：玛雅在本章第一次把"我不信"说出了口——**而她用的不是警察的语言，而是"有没有这个可能"这一类句式（Maybe someone here knows something.）**同时她第一次对他人动了恻隐之心（"Poor Maya. So awful what happened. She needs help."）——**那串心声的结尾是一句她自己的判断："I don't care what anybody thinks right now."**

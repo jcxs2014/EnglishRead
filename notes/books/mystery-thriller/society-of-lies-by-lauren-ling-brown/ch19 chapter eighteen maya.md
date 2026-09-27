@@ -55,7 +55,7 @@ modified: "2026-09-26"
 - **中文理解**：或者。
 - **关键词**：Or.（单独成段的 or）——或者。
 - **为什么这样写**：**作者用一个单词的段落标记了一次道德分岔。**这个 Or. 隔开了两段意识：前一段是玛雅给自己的理由（"We were young. We were scared. That was the truth, wasn't it?"），后一段是那个声音的回答（"You were guilty, a voice in my head says."）。**而作者让这两句都以问号结尾（"wasn't it?" / "Was it my fault?"）——两次自我说服，两次自己拆穿。**注意 "a voice in my head"（我脑中的一个声音）这个说法在英语里通常带"我在给自己找借口"的轻蔑意味，而作者让玛雅用它来指**指控**——**也就是说，她把自己的辩护判成了辩护。**
-- **读者视角提示**：**这是全书唯一一次玛雅在心里承认自己可能是凶手，而它发生在她准备举报别人的那一秒。**她的判断是：**说出来会牵连我，所以不说。**——**而这句话的结构，正是这本书前十九章所描述的那个圈子的运作逻辑，只是没有组织名。**当 ch12 里玛雅终于动笔写下 Greystone 的时候，她写的其实是这一秒：**"How do you explain to your family, your friends, your boss, your boyfriend, that you didn't notice anything wrong?"**（你怎么向你的家人、朋友、老板、男朋友解释，你什么都没察觉不对？）
+- **读者视角提示**：**这是全书唯一一次玛雅在心里承认自己可能是凶手，而它发生在她准备举报别人的那一秒。**她的判断是：**说出来会牵连我，所以不说。**——**而这句话的结构，正是这本书前十九章所描述的那个圈子的运作逻辑，只是没有组织名。**当 ch12 里玛雅终于动笔写下 Greystone 的时候，她写的其实是这一秒：**"I have to reiterate: there is no evidence that your sister's death was criminal in nature."**（我再说一遍：没有证据显示你妹妹的死涉及犯罪。）
 
 ## 本章词汇
 

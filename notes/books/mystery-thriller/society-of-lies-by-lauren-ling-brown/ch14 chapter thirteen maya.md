@@ -9,7 +9,7 @@ modified: "2026-09-26"
 
 - **一句话概括**：2023 年 5 月，玛雅半夜梦到 Lila 浮在湖上，醒来后刷新闻——**照片里娜奥米桌上是 Sterling 图书馆，而她肩上搭着一条男人的手臂，袖口下有一枚硬币大小的 Greystone 徽章纹身**；她找到 Zee（真名 Zalikah，室友，讲述死者父亲身份"他们不让我做我自己"），Zee 说出"周四晚七八点她跟人吵过"并点了 Liam 和 Ben；玛雅在网球场找到 Liam，看见他摔断球拍、哭，然后他甩开她的手腕说 **"你装作自己是圣人，可我知道你也在藏东西。"**
 - **情感弧线位置**：转折/低谷交叉（Maya 线）。**这是玛雅第一次从"妹妹被害"切换到"妹妹被这个圈子处理了"，而转折点是一枚纹身。**
-- **Tropes 兑现/反转**：**"唯一的目击者自己也在场" 兑现 + 反转。**玛雅当年（ch09）是唯一在场的人，**而她十年后的重访让读者看到：她当时在场，但她当时看的是自己被羞辱——"I didn't know what to look at"（我不知道该看什么）。**
+- **Tropes 兑现/反转**：**"唯一的目击者自己也在场" 兑现 + 反转。**玛雅当年（ch09）是唯一在场的人，**而她十年后的重访让读者看到：她当时在场，但她当时看的是自己被羞辱，而不是那面被喷了字、写着"Nos Semper Vigilantes"的墙（ch21 重访时才第一次看见）。**
 - **人物弧线**：玛雅学会了追问（"Can you think of anyone who would have wanted to hurt her?"），**但 Liam 的那句话把她钉住了**——"你也在藏东西"。**她从"我要知道真相"退回到"我是谁有资格问"。**
 - **叙事手法**：单场景线性（噩梦→新闻照片→咖啡馆问 Zee→网球场）；关键处插入**照片细节的两次凝视**（先看到书架，再看到纹身）——**侦查全靠看图，且第一次看漏了。**
 
@@ -34,7 +34,7 @@ modified: "2026-09-26"
 - **中文理解**："你能不能想想有谁会想伤害她？有谁可能跟她吵过架？"
 - **关键词**：would have wanted to——会想要（虚拟语气，指向过去）；someone she might have had an argument with——可能跟她吵过架的人
 - **为什么这样写**：**这是玛雅对 Zee 的第一个问题，而它的措辞把一个开放调查压成了两项清单**：想害她的人，和跟她吵过架的人。**两句都用虚拟语气（would have wanted / might have had），语法上都在谈过去，而这两项指向的是过去**——**玛雅在问"谁"，问法却预设了"有一个"。**而 Zee 的回答把这个预设收回了："I don't know. I really don't know."（我不知道。我真的不知道。）
-- **读者视角提示**：**注意 Zee 的自我更正**——"Please, it's Zee,"（请叫我 Zee）she corrects me。她纠正的是称呼，不是信息。**这是全书的一个技术信号：叙述者只在被要求的时候才修正称呼，而信息层面的修正永远要等更久。**（Zee 在 ch04 说过："People think my name is Zee because it's short for Zaleka, but it's not."）
+- **读者视角提示**：**注意 Zee 的自我更正**——"Please, it's Zee,"（请叫我 Zee）she corrects me。她纠正的是称呼，不是信息。**这是全书的一个技术信号：叙述者只在被要求的时候才修正称呼，而信息层面的修正永远要等更久。**（Zee 的全名是 Zalikah——而这一章她是在被叫错称呼之后才说出来的。）
 
 > **原句 4:** "I wanted to ask you if you spoke to Naomi recently—"
 
@@ -47,7 +47,7 @@ modified: "2026-09-26"
 
 - **中文理解**："你装得好像自己是什么圣人，可我知道你也在藏东西。"
 - **关键词**：act like——装得好像；some kind of——某种（略带贬义的模糊限定）；hiding things——藏东西
-- **为什么这样写**：**全书最重要的一句指控，因为它来自一个被指控者，而且用的是他自己的逻辑。**"some kind of saint"（某种圣人）——Liam 在 2023 年 5 月对玛雅做的事，玛雅在 2010 年 10 月对 Sterling 的人做过（"Daisy, is this your friend whose grandfather is an investor in Hong Kong?" 那套）。**Liam 认识她——他们在 2010 年同一个派对上见过，玛雅当时"dressed like a million bucks"（打扮得像百万富翁）。所以这句话不是指控，是认亲：你也是我们中的一个。**
+- **为什么这样写**：**全书最重要的一句指控，因为它来自一个被指控者，而且用的是他自己的逻辑。**"some kind of saint"（某种圣人）——Liam 在 2023 年 5 月对玛雅做的事，玛雅在 2010 年 10 月对 Sterling 的人做过（"Daisy, is this your friend whose grandfather is an investor in Hong Kong?" 那套）。**Liam 认识她——他们在 2010 年同一个派对上见过，玛雅当时是被当作那个阶层的客人请进去的。所以这句话不是指控，是认亲：你也是我们中的一个。**
 - **读者视角提示**：**注意 "but" 承担的全部重量。**前半句是判断（你装圣人），后半句是拉拢（你在藏东西）。**Liam 在被逼问的当下选择了把她划进圈内，而不是划到圈外。**而玛雅的回应是收回所有问题、道歉、离开——**她又一次退让了，而这正是 Greystone 训练出来的技术，也是她要写进书里的那个技术。**
 
 > **原句 6:** "I don't know. I really don't know."
@@ -55,7 +55,7 @@ modified: "2026-09-26"
 - **中文理解**："我不知道。我真的不知道。"
 - **关键词**：I don't know——我不知道（简单现在）；really——真的（加强语气）
 - **为什么这样写**：**三个字被说了两遍，而且第二遍加了 really。**这是全书对"我不敢说"的唯一一次不加修饰的写法。**在玛雅的问题（谁想害她 / 谁跟她吵过架）之后，作者不给任何名字，先给这两个句子。**Zee 接下来闭眼、吸气、呼气，然后才说出"周四晚上七点或八点，她跟人在电话里吵架"——**而即便这个，也只是"someone"（某个人），没有名字。**
-- **读者视角提示**：**注意 Zee 的指甲**："her fingernails are bitten to shreds"（她的指甲被咬得稀烂）——**而玛雅在 ch07 已经注意到自己姐姐的手（"I could see her ragged nails"）。全书用指甲这一处身体细节标记"这个女孩正在承受什么"，一共三次，三个不同的女性。**
+- **读者视角提示**：**注意 Zee 的指甲**："her fingernails are bitten to shreds"（她的指甲被咬得稀烂）——**而玛雅在 ch01 序章里已经见过自己这双手的样子（"her fingernails are bitten to shreds"）。全书用指甲这一处身体细节标记"这个女孩正在承受什么"，一共三次，三个不同的女性。**
 
 > **原句 7:** "I just want to talk, I'm just trying to find out what happened. Don't you want to know too, or did you never actually care about her to begin with?"
 

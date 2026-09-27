@@ -137,19 +137,25 @@ def words_of(phrase):
     这词什么意思」的证据，故与「凭空造词」区别对待。
     """
     out = []
-    for part in re.split(r'[,，、;；/／|]+', phrase):
-        m = RE_CN_PAREN.search(part)
-        glossed = bool(m)
-        if m:
-            part = part[:m.start()] + ' ' + part[m.end():]
-        # 与 toks 同一分词形状（2026-09-26）：两侧必须用同一种词元，否则
-        # 关键词侧的 sad' / ring-o'-roses 与引语侧切法不一致 → 全书查无假红
+    # 记下**哪些词出现在中文括号里**（这些是释义正文，不是关键词），
+    # 再把括号整体剥掉后抽词——顺序反了会让括号里的 `tell sb. sth.` 被
+    # 中文逗号切成独立 part 且失去括号标记 → sb./sth. 被当关键词
+    # 报「凭空造词」（2026-09-27 五步审查实证）。
+    in_paren = set()
+    for m in RE_CN_PAREN.finditer(phrase):
+        in_paren |= set(re.findall(r"[a-z]+(?:['-][a-z]+)*", norm(m.group(0))))
+    stripped = RE_CN_PAREN.sub(' ', phrase)
+    for part in re.split(r'[,，、;；/／|]+', stripped):
+        # **词头与释义的分界**：本库关键词一律是「词头——中文释义」，
+        # 破折号之后常夹带**词性标记与词源引证**（dispense ＝ 发放、iterate），
+        # 它们不是关键词、也不在引语里。
+        part = re.split(r'——|—{1,2}(?=\s*\S)', part)[0]
         for w in re.findall(r"[a-z]+(?:['-][a-z]+)*", norm(part)):
             if w in STOP or len(w) <= 2:
                 continue
             if w.endswith("'s") or w in ("n't", "'s"):
                 continue
-            out.append((w, glossed))
+            out.append((w, w in in_paren))
     return out
 
 
@@ -161,7 +167,14 @@ def toks(h):
     # 撇号与连字符均只允许出现在词内部（don't / ever-growing）——尾部标点
     # 不得粘连成词元：旧式 [a-z'-]* 会把引语末尾的 darling'? 粘成 darling'，
     # 导致「全书查无」假红（2026-09-26 实证，ch18 Chapter 17）
-    return set(re.findall(r"[a-z]+(?:['-][a-z]+)*", h))
+    tk = set(re.findall(r"[a-z]+(?:['-][a-z]+)*", h))
+    # **所有格形式须同时产出裸词元**：`Payback's a bitch` 切成 `payback's`，
+    # 关键词侧写 `payback` 时就查无 → 假红（2026-09-27 五步审查实证，ch18）。
+    # 只在词尾是 `'s` 时补一条，不动 `don't`（其 `'t` 不是所有格）。
+    for w in list(tk):
+        if w.endswith("'s") and len(w) > 3:
+            tk.add(w[:-2])
+    return tk
 
 
 def anchored(word, *haystacks):

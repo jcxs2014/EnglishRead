@@ -10,7 +10,7 @@ modified: "2026-09-26"
 - **一句话概括**：2023 年 6 月，葬礼结束回到布鲁克林的公寓——**玛雅在浴缸里把脸沉到水底、憋气数到"一二三"、直到肺开始烧才猛地浮上来喘气**（"I stay there until my lungs burn and instinct sends me lurching to the surface, gasping for air."）；然后她吞下一片 Advil，就着葡萄酒，**打开了娜奥米那本笔记本**——第一次看到 **"AL"** 这个名字（"She was working with a reporter she calls AL—it couldn't be Amy, her last name doesn't start with an L—and she must have been providing them information."）
 - **情感弧线位置**：低谷→转折（全书调查线的正式启动点）——**这一章是玛雅从"办丧事的人"变成"读材料的人"的那一章，而她是在一次几乎自杀式的憋气之后打开它的。**
 - **Tropes 兑现/反转**：**"遗物里的日记"这一套路的兑现，但被反转**——娜奥米的笔记本不是日记，是一份**调查笔记**（"Notes have been scrawled quickly" 式的条目、"WHO KILLED LILA JONES?"），而玛雅读它的第一件事是**排除法**（AL 不可能是 Amy，因为 Amy 的姓不以 L 开头）。
-- **人物弧线**：玛雅在这一章里第一次面对一个具体的物理问题（"Why hadn't the police searched Margaret's house?"）**并给出了自己的答案**——因为一次意外溺亡需要的调查少得多（"an accidental drowning … required much less investigation"）。**而这个答案同时说明了另一个人做过同样的计算。**
+- **人物弧线**：玛雅在这一章里第一次面对一个具体的物理问题（"Why hadn't the police searched Margaret's house?"）**并给出了自己的答案**——因为一次意外溺亡需要的调查少得多（"But an accidental drowning, it seemed, required much less investigation."）。**而这个答案同时说明了另一个人做过同样的计算。**
 - **叙事手法**：**两段（公寓／浴室）+ 一次开门**。全章的重点是**镜子的用法**：她在蒸汽里看见"body soft and hollowed out"（身体松软、被掏空），而蒸汽随即把镜子雾住——**而娜奥米的笔记本正是在镜子被遮住之后打开的。**
 
 ## 精读
@@ -20,7 +20,7 @@ modified: "2026-09-26"
 - **中文理解**：警察为什么没有搜查 Margaret 的房子？
 - **关键词**：Why hadn’t the police——（此处指）为什么警察没有（过去完成时 ＋ 否定，表示"为什么当时没有"）；searched——（此处指）搜查；Margaret’s house——（此处指）Margaret 的房子
 - **为什么这样写**：**注意这是一个以疑问句形式出现的推理起点，而它的时态是过去完成时。**——**过去完成时的功能是"把那个动作放回过去"：不是"警察没有搜"，而是"警察当时（在那之前）没有搜"。**而这个时态选择背后是一个未说出的对照：**搜了会找到什么？**
-- **读者视角提示**：**注意作者立刻把答案给了读者**（Presumably because Naomi hadn't lived there for four years…and yet it seems like her high school bedroom would be a logical place to look—if they thought it was a murder, I remind myself. But an accidental drowning, it seemed, required much less investigation.）**——**注意 "if they thought it was a murder"（如果他们认为这是谋杀）这个条件句是加在"搜索"上的，而 "an accidental drowning … required much less investigation"（一次意外溺亡需要的调查少得多）是加在"不搜"上的。作者让玛雅自己完成了这个推理，而她得出的结论是：警察的计算与我们的一样。**
+- **读者视角提示**：**注意作者立刻把答案给了读者**（Presumably because Naomi hadn't lived there for four years…and yet it seems like her high school bedroom would be a logical place to look—if they thought it was a murder, I remind myself. But an accidental drowning, it seemed, required much less investigation.）**——**注意 "if they thought it was a murder"（如果他们认为这是谋杀）这个条件句是加在"搜索"上的，而 "But an accidental drowning, it seemed, required much less investigation."（一次意外溺亡需要的调查少得多）是加在"不搜"上的。作者让玛雅自己完成了这个推理，而她得出的结论是：警察的计算与我们的一样。**
 
 > **原句 2:** "I catch a glimpse of myself—deep bags under my eyes, lopsided mess of curls, body soft and hollowed out—before the steam fogs up the mirror."
 

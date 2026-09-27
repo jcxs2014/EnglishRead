@@ -39,7 +39,7 @@ modified: "2026-09-26"
 > **原句 4:** "I told the detectives you were with me, but they saw you leaving the house in a hoodie and now they think one of us killed Matthew because they caught me lying!"
 
 - **中文理解**："我跟探员说了你跟我在一起，可他们看见你穿着连帽衫离开了房子，现在他们觉得我们俩里有一个杀了 Matthew——因为我撒谎被抓住了。"
-- **关键词**：But I told the detectives——（此处指）但我跟探员说了（此处为过去时，tell sb. sth.）；you were with me——（此处指）你跟我在一起（此处为过去时＋with 复合结构）
+- **关键词**：I told the detectives——（此处指）我跟探员说了（此处为过去时，tell sb. sth.）；you were with me——（此处指）你跟我在一起（此处为过去时＋with 复合结构）
 - **为什么这样写：** **注意这一句的主语是"说谎的人"自己。**——**也就是说：是她自己去报告的，是她替 Nate 提供的假口供，而这份口供现在成了她的把柄。**——**而在英语里，I told（我说了）与 the police caught me lying（探员抓到我在撒谎）在同一个场景里被说出来，会构成一个自相闭合的圈。**——**也就是说：她的保护行为，此刻正是她的罪证。
 - **读者视角提示：** **注意这一句与另一句的呼应。**她的证词是**"我说了你跟我在一起"**（"I told the detectives you were with me"），而 Nate 的回答是**"你今早问我的时候为什么不说？"**（"Why didn’t you tell me when I asked you this morning?"）**——**也就是说：这两个人在各自的心里，都是为了保护对方而撒了谎，而这两份谎言在同一个早上撞在了一起。
 

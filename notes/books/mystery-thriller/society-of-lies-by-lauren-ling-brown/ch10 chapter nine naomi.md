@@ -27,7 +27,7 @@ modified: "2026-09-26"
 - **中文理解**：我迟疑。我从来不知道别人问我家里情况时该说什么。该讲这个故事的多少。
 - **关键词**：hesitate——迟疑；never know what to say——从来不知道该说什么；How much of the story they want——（对方）想知道多少
 - **为什么这样写**：**作者把家庭叙述变成了一道选择题，而且选项是对方给的。**注意后一句是**疑问语气**（How much…they want），前一句是陈述（I never know what to say）——**她连"该说实话还是说实话"这件事都是被动的**。这一句是 ch11"说出来一半、立刻说'算了'"（"Never mind, I think I'm just shaken up after everything."）的精确原型：**在玛雅身上它是技能，在娜奥米身上是缺陷。**
-- **读者视角提示**：**比较玛雅的处理方式**：在 Prologue 之后，玛雅对 Marcus Grant 说的是完整的"我们十岁被赶出那栋房子"（"We were ten when we were kicked out of that house. Then my dad died…"）。**同一个家庭，两个女儿，一个是被动，一个主动。**
+- **读者视角提示**：**比较玛雅的处理方式**：对照 ch01 Prologue 里玛雅对家人处境的被动叙述（她的父母如何安置两个女儿、娜奥米如何被留在亲戚家），**同一个家庭，两个女儿，一个是被动，一个主动。**
 
 > **原句 3:** She thinks she's helping with all her advice, but the truth is: after Mom died, Maya left. She went to Princeton and left me with Aunt Ella, who couldn't take care of me, and then handed me off to the St. Clairs. I know she was only twenty-one at the time, but it always stung that she didn't want me.
 

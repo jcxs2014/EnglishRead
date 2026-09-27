@@ -20,7 +20,7 @@ modified: "2026-09-26"
 - **中文理解**：他们的肢体语言里有一种熟稔。他俯向她时有一种亲昵。她轻轻碰他手肘的方式也是。
 - **关键词**：familiarity——熟稔（比 closeness 更冷、更客观）；body language——肢体语言；an intimacy——一种亲密（此处作名词，前有 an）
 - **为什么这样写**：**三句全部是名词短语，全是观察，没有一句判断。**而这一段的技术核心是"熟悉"与"亲密"两个词的分工：**familiarity（熟稔）说的是"认识很久"，intimacy（亲密）说的是"此刻很近"**——娜奥米在同一段里同时看到了这两者，而**她看到的证据全部是身体的**：俯身、碰手肘、拉耳罩。**她没有问过一句，而这一段是全书关于"她如何用看代替问"最完整的一次示范。**
-- **读者视角提示**：**注意这三句与 ch14 那一段是同一套技术**：娜奥米在 Ben 房间里"taking in his framed black-and-white photography… running my fingers over his books… I pluck through his record collection"（打量他的黑白摄影……手指划过他的书……翻他的唱片）——**用物证的排列代替提问。**而这两段之间的差别在于：**Ben 那一次她有资格翻（她在他的房间），Jamie 这一次她没有（她站在场外）。**同一个动作，位置差一层，全部意义就反了。
+- **读者视角提示**：**注意这三句与 ch14 那一段是同一套技术**：娜奥米在 Ben 房间里"taking in his framed black-and-white photography of people in Chinatown, an antique abacus (his grandfather's), running my fingers over his books… I pluck through his record collection"（打量他拍的唐人街黑白摄影、祖父的旧算盘……手指划过他的书……翻他的唱片）——**用物证的排列代替提问。**而这两段之间的差别在于：**Ben 那一次她有资格翻（她在他的房间），Jamie 这一次她没有（她站在场外）。**同一个动作，位置差一层，全部意义就反了。
 
 > **原句 2:** "Ben's girlfriend." She says it with a mildly annoyed tone as if asking, And who the hell are you?
 
@@ -52,7 +52,7 @@ modified: "2026-09-26"
 - **中文理解**："我从没离开。我一直都在。"
 - **关键词**：never left——从未离开（过去时＋never，覆盖过去到此刻）；I was always here——我一直都在（此处指过去一直持续到此刻）
 - **为什么这样写**：**这是全章的最后一句，也是娜奥米带走的那一句，而它的语法做了一件事：把现在时的意图换成了过去时的记录。**"I was always here"（我一直都在）——**was 是一般过去时，讲的是一个已经结束的时间段**；"I will always be here"（我会一直都在）才是他真正想说的那一句。**他讲的是"我曾经一直在"，而娜奥米没有纠正这句话，也没有回应——因为她此刻相信的正是前半句。**
-- **读者视角提示**：**这是本书那套话术最纯粹的样本。**在 ch12 里玛雅亲耳听到的版本是 Eleanor 对 Diane 说的 "They're just like us—they're in the group"（他们和我们一样——他们是圈内人）——**同一类句子在两处相隔十二年出现，说话的一方都属于那个用一句话把人锁住的社群。**而这一句里没有一个词是关于娜奥米的，而它是她那天晚上听到的唯一一句关于她的话。
+- **读者视角提示**：**这是本书那套话术最纯粹的样本。**而**同一句式在 ch12 玛雅那条线上是由一条推特评论说的**："When it's one of us it's an 'accident.'"（是自家人就是一场"意外"。）——**一个"我们"把警方那套"不认为有犯罪行为"的结论改写成了自己人之间的内部事务。**而这一句里没有一个词是关于娜奥米的，而它是她那天晚上听到的唯一一句关于她的话。
 
 > **原句 6:** "It's the new guy, isn't it." Liam's expression darkens.
 

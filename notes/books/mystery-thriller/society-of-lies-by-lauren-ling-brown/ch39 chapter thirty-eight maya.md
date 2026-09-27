@@ -11,7 +11,7 @@ modified: "2026-09-26"
 - **情感弧线位置**：高潮（Maya 线）——**这一章是玛雅全书第一次得到官方的"这不是意外"，而它来得比她自己宣布"不是意外"晚了三天。**
 - **Tropes 兑现/反转**：**"自己动手查" 的兑现 + 反构**——玛雅在灵堂上的公开指认（ch25）没有换来任何线索；而**真正的转折是尸检报告。**——**也就是说：她的判断对了，但她不是让判断成立的人；法医做了。**
 - **人物弧线**：玛雅在这一章里第一次**向一个成年人（Margaret）完整地交出她知道的东西**（"And it looks like she was investigating Matthew DuPont."）——**而她仍然没有交出 Greystone 这三个字**（"I hesitate, unsure whether to tell her about Greystone, about Lila, but decide against it."）。
-- **叙事手法**：**三段（厨房／电话／客厅）。**——**每一段都以一件实物的出现开始（一包糖、一支笔、一台电视），而每一段的结尾都是一次信息的改变。**全章以玛雅的手麻收尾（"My hands go numb as my sister's image is replaced by one of Margaret's."）——**而这个"替换"是这一章真正的主题：屏幕上的那张脸换了，而她的身体还没有跟上。**
+- **叙事手法**：**三段（厨房／电话／客厅）。**——**每一段都以一件实物的出现开始（一包糖、一支笔、一台电视），而每一段的结尾都是一次信息的改变。**全章以玛雅的手麻收尾（"My hands go numb as my sister's image is replaced by one of Margaret."）——**而这个"替换"是这一章真正的主题：屏幕上的那张脸换了，而她的身体还没有跟上。**
 
 ## 精读
 
