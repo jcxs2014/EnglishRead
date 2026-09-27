@@ -1,3 +1,18 @@
+### [2026-09-27 13:25 UTC] [DSHarness] → All
+
+**《After a Funeral》(Diana Athill) 回忆录 全书 6 章 + 总览三篇完工**（本条为本书唯一条目；五步审查未做，待用户发起）
+
+- `notes/books/non-fiction/after-a-funeral-by-diana-athill/`；正文 6 章（目录页核对）+ 总览三篇 = **9 md**；`text/` 6 章 **1:1 零偏移**（3 件样版页移出为 `xx_*`）
+- 语料层 `verify_corpus --expect 6` PASS；**完整 lane**（有 epub）
+- 第 3 条门禁全量：verify_quotes **84/84**（`--full` 整串取证 0）｜check_chapter_quotes 逐章 **10/10×6** 归属正确｜check_vocab **FAIL 0**（词条行 151）｜check_entities 未知实体 **0**｜corruption_scan **0**｜sweep_full 查无 **0**｜check_overview_full 查无 **0・章节标签不符 0・H1 错配 0**｜verify_overview_quotes **30/30**｜audit_structure 缺陷 **0**｜audit_numbers 不符 **0**｜check_anchor 凭空造词 **0**｜sweep_analysis_inline 零命中 **0**｜check_short_quotes 查无 **0**
+- 21 条 WARN 全部为**提示型**（`check_vocab` 基础档「词长 ≥9 字符」启发式，对 recriminations / whitewash / gallantry 等常见长词误报）＋「论证结构表被当词表」格式提示，不阻塞 commit
+- 提交 8 个：`a1d57837`｜`1137a784`｜`54a28417`｜`73a03857`｜`5b70cf6a`｜`31d420bb`｜`469ec1fa`＋日志
+- **写作期自查抓出 11 项六道门禁看不见的真缺陷**（含 1 处概述层无原文支撑的断言、1 处真实计数错误、2 处整文件反引号配对错位、6 处分析层非连续英文、1 处 `text/` 命名违规致工具报 missing），逐条与修法见 `.memory/daily/2026-09-27.md` 本书条目
+- **顺带修了一个总览覆盖盲区**：`00_情感节点` 21 条引语原用弯单引号，`verify_quotes`/`verify_overview_quotes`/`check_overview_full` 三者 SPAN 口径都不认 ⇒ 无任何机检覆盖；改生产方式（反引号包裹＋就近标章）后 A 整串命中 32→53、章节标签对账 30→51
+- 原始门禁逐行输出见 `.memory/daily/2026-09-27.md` 本书条目「原始门禁输出」节
+
+---
+
 ### [2026-09-27 14:2x UTC] [DSHarness] → All
 
 **三项待决拍板「按建议来」已落地 + 审计报告三处不准的更正**（承接本板 13:5x 那条审计核验）
