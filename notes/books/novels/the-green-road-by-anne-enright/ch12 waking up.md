@@ -9,7 +9,7 @@ modified: "2026-09-27"
 
 - **一句话概括**：圣诞次日，Rosaleen 在利默里克医院醒来，说自己感觉好多了；她为全家受的惊吓道歉，护士说"她很快乐"，她管外孙叫"布丁"，并同意先住女儿家——而 Ardeevin 的房子，她到底还是卖了。
 - **情感弧线位置**：Part Two 的**回落**。上一章是全书最高点（黑夜、搜寻、山上的荒屋），本章用最短的篇幅、最轻的语调把所有人放回地面；它也是全书第一次让母亲**主动**出现在众人的愉快里，而不是作为缺席者。
-- **母题兑现/反转**：**"我感觉好多了"**在此被母亲本人说出口——它是 ch03 里 Constance 用来回忆父亲的"我感觉完全没问题"、ch05 里 Rosaleen 自己的"我当然完全没问题"、ch09 里全家的"我很担心你"之后，第一个反向的说法；而这里的"没问题"是真的，因为检查结果确实如此。**"我让你们费心了"（I put you through the wringer）**是母亲第一次为自己给别人添的麻烦道歉。
+- **母题兑现/反转**：**"我感觉好多了"**在此被母亲本人说出口——它是 ch03 里那个"我感觉完全没问题"（说这话的当天，她父亲一年多后就死了）、ch03 里 Rosaleen 自己嘴里的"我好得很"、ch09 里全家的"我很担心你"之后，第一个反向的说法；而这里的"没问题"是真的，因为检查结果确实如此。**"我让你们费心了"（I put you through the wringer）**是母亲第一次为自己给别人添的麻烦道歉。
 - **人物弧线**：Rosaleen 从 ch11 那个"Rosaleen 不存在"的人，走到本章一个会为弄皱床单道歉、并且承认自己刚才吓到了大家的人；Emmet 从 ch10 那个独自在父母卧室里坐着的人，走到一个握着金属夹板问"她吃什么药"、被护士一句"她很快乐"点住的儿子。
 - 叙事手法：**全章最短、对话最密**（几乎没有景物描写，只有人说话）+ **以他人之眼记录母亲的快乐**（Hanna"想不明白为什么大家不是一直这么高兴"）+ 章末一句反讽的总结句把"奇迹"还原成"理所当然"。
 
@@ -54,7 +54,7 @@ modified: "2026-09-27"
 
 - 中文理解：变的只是她的心情。变的只是她的人生。
 - 关键词：It was just her mood that changed, It was just her life that had changed
-- 为什么这样写：两个句子结构完全相同，只把 mood 换成 life，只把 changed 前的限定去掉；just（只是）在前一句里是安慰，在后一句里成了反讽——她的心情没变多少，变的是她所拥有的那点人生。
+- 为什么这样写：两个句子结构几乎相同，只把 mood 换成 life，并给第二句加了一个完成时 had changed；just（只是）在前一句里是安慰，在后一句里成了反讽——她的心情没变多少，变的是她所拥有的那点人生。
 - 读者视角提示：全章 Emmet 都在盯着找"某种衰退"（deterioration），而作者的结论是：衰退要用另一种仪器测。
 
 ## 本章词汇
@@ -66,11 +66,10 @@ modified: "2026-09-27"
 | to coin a phrase | （自谦）造这么个说法 | though they were – to coin a phrase, she said – petrol station flowers. |
 | deterioration | （健康或能力的）衰退 | He watched Rosaleen for deterioration of some kind but her brain was fine |
 | conscientious | 认真尽责的 | Emmet, who was sitting in his conscientious way at her bedside, saw all this and did not quite believe it. |
-| spurned | （此处）被拒之门外 | the visits, the journalist spurned at the door, the priest sounding his thanks for her deliverance at morning Mass |
+| spurned | 被拒之门外 | the visits, the journalist spurned at the door, the priest sounding his thanks for her deliverance at morning Mass |
 | regaled | （绘声绘色地）讲给……听 | She regaled them all with descriptions of the ambulance, the doctor’s cold hands, the cow on the other side of the wall |
 | buff | （此处）浅黄褐色的 | Rosaleen woke up in Limerick hospital on St Stephen’s Day and she looked around her, at the buff coloured walls and the handmade decorations, and she smiled. |
-| **spurned** | 被拒之门外 | the visits, the journalist spurned at the door |
-| **puddin** | （对小孩的昵称）布丁（胖胖的孩子） | her mother and Hugh and the puddin, as Rosaleen called him, ‘Oh the puddin!’ |
+| puddin | （对小孩的昵称）布丁（胖胖的孩子） | her mother and Hugh and the puddin, as Rosaleen called him, ‘Oh the puddin!’ |
 
 ### ⭐⭐ 进阶
 

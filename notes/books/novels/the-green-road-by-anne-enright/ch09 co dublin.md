@@ -34,7 +34,7 @@ modified: "2026-09-27"
 - 中文理解：任何能让他从 Rosaleen 那里脱开身的东西，无论大小，都持续给他带来快意。
 - 关键词：Any freedom from Rosaleen, small or large, continued to give him pleasure
 - 为什么这样写：主语是 freedom，动词是 give him pleasure，而"从母亲那里得到自由"这件事被写成一种持续的、可计量的快乐；small or large 这个小让步很关键——他既享受一个晚上不回电话，也享受换一栋新房子。
-- 读者视角提示：这句话紧接在母亲说"你没带酒来"的失望之后，全章所有的爱与亏欠都从这个角度记账。
+- 读者视角提示：这句是全章开篇第二段里 Emmet 的心里话；一个多星期之后母亲才在电话里为"你没带酒来"发了半天脾气——全章所有的爱与亏欠都是在这个角度上记账。
 
 > **原句 4:** "There was something out of kilter with his mother’s happiness, as though a light had been switched on by a passing stranger, and left to illuminate an empty room."
 

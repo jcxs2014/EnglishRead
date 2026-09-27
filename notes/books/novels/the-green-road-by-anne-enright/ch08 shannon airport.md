@@ -34,7 +34,7 @@ modified: "2026-09-27"
 - 中文理解：他像对一个朋友那样跟她打招呼，而不是像对哥哥那样。他对她打招呼的方式，比她认识的任何一个朋友都更像朋友。
 - 关键词：greeted her like a friend and not a brother, like no friend she ever had
 - 为什么这样写：两个句子只换一个成分（a friend → no friend she ever had），就把"亲人"与"最好的朋友"这层错位钉死；friend 重复两次，brother 只出现一次，于是 Dan 的亲缘被挤到了句子的次要位置。
-- 读者视角提示：本章他反复用"我们"的口吻谈母亲与家（"Though Dan had no way of knowing. How could he know? He had not been there."）——他确实是客人。
+- 读者视角提示：本章他反复用"我们"的口吻谈母亲与家（"Though he had no way of knowing. How could he know? He had not been there."）——他确实是客人。
 
 > **原句 4:** "Rainwater into seawater, you could taste where they met and mingled, and no way to tell if all this was good or bad, this turbulence, if it was corruption or return."
 

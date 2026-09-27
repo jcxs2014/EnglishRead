@@ -19,15 +19,15 @@ modified: "2026-09-27"
 
 - 中文理解：全章以一个"稍后、之后"的时间标记起笔：在 Hanna 做完奶酪吐司之后，母亲走进厨房，从灶上那口大水壶里灌满一只热水瓶。
 - 关键词：LATER, AFTER, a hot water bottle
-- 为什么这样写：LATER 与 AFTER 两个时间副词连用，先把叙述推离此刻再放回场景，等于开篇就声明"这不是开头，是中段"；而这一句正是全章末句的同一场景，构成一个闭合的环。热水瓶是本时代爱尔兰家庭的物理细节，也是母亲"病"的最早信号——她要的不是药，是热。
-- 读者视角提示：读到末句会发现首句原样重现，这是本书的骨架；书名章《The Green Road》会重新拿起这条绿路。
+- 为什么这样写：LATER 与 AFTER 两个时间副词连用，先把叙述推离此刻再放回场景，等于开篇就声明"这不是开头，是中段"；而这一句正是全章结尾处重现的同一场景，构成一个闭合的环。热水瓶是本时代爱尔兰家庭的物理细节，也是母亲"病"的最早信号——她要的不是药，是热。
+- 读者视角提示：读到全章最后三行会发现同一个场景原样重现（末句另起一层，写的是药房里的新香水），这是本书的骨架；书名章《The Green Road》会重新拿起这条绿路。
 
 > **原句 2:** "It seemed to Hanna her mother might stop eating or, if she was that hungry, she might take her plate and go into another room in order to cry, but this did not occur to her mother, clearly, and she sat there, eating and crying at the same time."
 
 - 中文理解：在 Hanna 看来，母亲也许会停下来不吃了；或者如果真那么饿，她也许会端起盘子、换个房间去哭。但母亲显然没有这么做——她坐在那里，一边吃一边哭。
 - 关键词：It seemed to Hanna, in order to cry, eating and crying at the same time
 - 为什么这样写：先把一个合情理的猜测摆满，再用 but 一笔推翻；而 "this did not occur to her mother, clearly" 里的 clearly 是 Hanna 的判断而不是事实，于是这句同时暴露了孩子的天真——她已经内化了"悲伤必须独处"这套规矩，才能断定母亲不会当众哭出来。
-- 读者视角提示："一边吃一边哭"这个动作在本章反复出现（母亲后来连吐也吐在盘子里），它是"横躺"母题的身体版本。
+- 读者视角提示："一边吃一边哭"这个动作在本章反复出现（母亲吃着吃着，嘴里的胡萝卜掉在盘子里），它是"横躺"母题的身体版本。
 
 > **原句 3:** "Much crying, little eating. There was more work with the tissue, which was now in shreds. It was awful. The pain was awful. Her mother juddering and sputtering, with the carrots falling from her mouth in little lumps and piles."
 

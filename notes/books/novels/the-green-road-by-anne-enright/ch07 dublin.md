@@ -48,7 +48,7 @@ modified: "2026-09-27"
 - 中文理解：她将不得不改变自己的人生。又一次。
 - 关键词：She would have to change her life, Again
 - 为什么这样写：整句的重量全在那个独立成词的 Again 上；主句用的是将来时（would have to），而 Again 是过去——将来要做的事，却用已发生过的语气宣布，于是"又一次"既是老话也是预告。
-- 读者视角提示：ch03 她说"她没有时间得癌症"，ch04 的 Alice 每次崩溃后也都说要"再来一次"；这句在 ch07 之后每隔几章就要再出现一次。
+- 读者视角提示：全书的"又一次"都在她身上兑现，只是每次换一张脸——ch10 母亲宣布卖房子"又一次"让她操心，ch15 连同房子一起落进"她早就说过"的那一类里；这句是这条线第一次由她本人对别人说出口。
 
 > **原句 6:** "It was possible, like the time she ended up in Casualty, that when you have a baby there is no such thing as the end, there is only more of the same."
 
@@ -62,7 +62,7 @@ modified: "2026-09-27"
 - 中文理解：她的时间用完了。
 - 关键词：She had run out of time
 - 为什么这样写：全章最短的一句，也是唯一一句不带任何修饰的判断；放在"她三十七岁"这个刚刚说出口的事实之后，主语与结构都没有变，时间却从"不够"跳到"没了"。
-- 读者视角提示：Part Two 里她还会有一整年时间（在 ch08 她出现在 Shannon 机场），所以这句不是叙述者的话，是她自己给自己下的判决。
+- 读者视角提示：Part Two 里她确实还有时间（ch08 她只在 Constance 接机时被提到，说自己还在都柏林没动身），所以这句不是叙述者的话，是她自己给自己下的判决。
 
 ## 本章词汇
 

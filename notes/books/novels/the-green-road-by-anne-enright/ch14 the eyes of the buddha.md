@@ -8,8 +8,8 @@ modified: "2026-09-27"
 ## 本章导航
 
 - **一句话概括**：二〇〇六年初，Emmet 回到都柏林的家，凌晨冥想一个小时后向两边道谢——一边是 Saar，一边是 Denholm；这个月他收到 Alice 从斯里兰卡发来的一封信，讲给佛像点睛的规矩，他当场写了一封回信，改了三遍，每一版都不诚实。
-- **情感弧线位置**：Part Two 之后的**尾声第一段**。前十三章把一家人推到山顶又拉回平地，本章第一次把 Emmet 完全切到山外：他刚从柬埔寨回来（ch10 的闪回），现在谁也没有生病、也没有失踪；他面对的是另一个更慢的问题——他要不要爱一个人。
-- **母题兑现/反转**：**"开眼"（Opening the Eyes of the Buddha）**在 Alice 的信里被解释为"木头变成肉，或者至少是临在"——而这正是 Emmet 一生在做而拒绝承认的事（ch04 他"治"人却不"爱"）。**"我一直在想你们"**则是 ch02 那位纽约画家临终前说的"要紧的是你做出什么"的一次私下版本：这一次，他说的是想，不是做。
+- **情感弧线位置**：Part Two 之后的**尾声第一段**。前十三章把一家人推到山顶又拉回平地，本章第一次把 Emmet 完全切到山外：他这个冬天刚从外地回来（信里提的是马拉维，不是柬埔寨；柬埔寨是他早年在 ch04 闪回里救过孩子的地方），现在谁也没有生病、也没有失踪；他面对的是另一个更慢的问题——他要不要爱一个人。
+- **母题兑现/反转**：**"开眼"（Opening the Eyes of the Buddha）**在 Alice 的信里被解释为"木头变成肉，或者至少是临在"——而这正是 Emmet 一生在做而拒绝承认的事（ch04 他"治"人却不"爱"）。**"我一直在想你们"**则是 ch02 里 Dan 在那间画室的客厅对 Billy 说的"要紧的是你做出什么"的一次私下版本：这一次，他说的是想，不是做。
 - **人物弧线**：Emmet 从 ch04 那个"我只是路过"的男人，走到本章一个承认自己没有爱过、却为此硬了的人；三个版本的回信构成一条完整的滑坡——从专业寒暄到"I think about you all the time"，他越写越真，越真越像谎。
 - 叙事手法：**电子邮件作为信件体裁**（带缩进、无落款日期的纯文本）+ **自我更正的三段式**（发了、后悔、再发一版）+ 全章以一个未完成的动作收束："他听着自己的人生打开"（listened to his life opening）——与 Alice 讲的点睛动作互为倒影。
 
@@ -20,7 +20,7 @@ modified: "2026-09-27"
 - 中文理解：Emmet 永远不会坠入爱河。他会"爱"——也就是说，他会"照看"。
 - 关键词：would never fall in love, He would ‘love’, that is to say ‘tend’
 - 为什么这样写：整句靠一对引号完成手术——先用 fall in love（坠入）否掉，再用 love 换上 tend（照料）；而 that is to say 这个插入语把"换词"这件事说得像在解释一个术语，仿佛爱与照料之间只差一个注脚。
-- 读者视角提示：这个"tend"在 ch04 已经被用过一次（他"照料"那条狗、把垂死的人一个一个送回床），本章它变成一句关于未来的自白——他早就会照料，只是不肯承认那就是爱。
+- 读者视角提示：这个"tend"在 ch04 已经被他实践过一整章（照看那条狗、把快死的人一个一个从血泊里抱回床），只是当时用的是动作而不是这个词；本章他终于把那个动作写成了自白——他早就会照料，只是不肯承认那就是爱。
 
 > **原句 2:** "This was a guy who had been educated in a mud room to speak convent English, write in Victorian copperplate: Denholm could, at eight, recite the Kings and Queens of England and the life cycle of the tsetse fly."
 
@@ -33,7 +33,7 @@ modified: "2026-09-27"
 
 - 中文理解：他们用镜子来对着上色，之后画家被蒙上眼睛带到外面，用牛奶洗脸。他们把这叫做"佛陀开眼"——木头变成肉，或者至少，是临在。
 - 关键词：They use a mirror to paint by, the artist is blindfolded, washes his face in milk, Opening the Eyes of the Buddha, wood into flesh, or at least, presence
-- 为什么这样写：整段用一连串被动语态（they use／the artist is blindfolded／they call it）把一个本该神圣的仪式写成一条操作流程；wood into flesh（木头变成肉）之后那个 or at least, presence（或者至少是临在）才是全章的题眼——它给一次不可能的转化留了一个台阶。
+- 为什么这样写：整段用两个被动（the artist is blindfolded／was led outside）串起一串主动句（They use／They call it），把一个本该神圣的仪式写成一条操作流程；wood into flesh（木头变成肉）之后那个 or at least, presence（或者至少是临在）才是全章的题眼——它给一次不可能的转化留了一个台阶。
 - 读者视角提示：Alice 讲的是佛像，Emmet 听的是自己；他这一行当的"照看"就是给自己那些木头开眼，而那封信正是他被叫出去洗手的一盆牛奶。
 
 > **原句 4:** "He let all the psychic rubbish of sex clatter through his mind, to enter and leave at its own chosen speed – which was pretty fast, as it happened: flashes of breast and cock, the movement of pink tongue behind (a surprise this) Denholm’s (but that’s all right, that’s fine) white teeth."
@@ -86,14 +86,6 @@ modified: "2026-09-27"
 | mirror | 镜子 | They use a mirror to paint by |
 | milk | 牛奶 | the artist is blindfolded and led outside where he washes his face in milk. |
 | cure | 治愈 | He would cure and guide, but he did not have the helplessness in him that love required. |
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 原文例句 |
-|---|---|---|
-| shoulder | 肩膀 | Denholm slapped his shoulder and said he should have children. Every man should have children. |
-| mirror | 镜子 | They use a mirror to paint by, and afterwards the artist is blindfolded and led outside |
-| milk | 牛奶 | the artist is blindfolded and led outside where he washes his face in milk. |
 
 ## 一句话总结
 

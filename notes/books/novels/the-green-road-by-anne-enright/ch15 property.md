@@ -7,11 +7,10 @@ modified: "2026-09-27"
 
 ## 本章导航
 
-- **一句话概括**：新的一年里，Hugh 带着一台宝丽来 Polaroid 回来，帮 Hanna 把 Ardeevin 收拾上架；房子三周卖出、八周成交，母亲拿到一大笔钱，四个孩子平分下来，誰也没觉得怎么高兴。
+- **一句话概括**：新的一年里，Hugh 带着一台宝丽来 Polaroid 回来，帮 Hanna 把 Ardeevin 收拾上架；房子三周卖出、八周成交，母亲拿到一大笔钱，四个孩子各自"富了很多"，誰也没觉得怎么高兴。
 - **情感弧线位置**：Part Two 之后的**尾声第二段**。ch14 切到 Emmet 的内心，ch15 切到"房子"这个物件；它是全书唯一一个从"住着人"变成"一笔钱"的转场，而这一转场几乎没有仪式——三周成交，八周交割，门一锁，人就散了。
 - **母题兑现/反转**：**"钱"母题在此完成它最早的埋线**（ch01 那个"穷、蠢、脏，还是穷"的家族罪名）——如今罪名的来源（房子）换成了遗产，四个孩子有钱了，却仍然是"被母亲打败的孩子"。**"没有一个完美的房子"**则把 ch05 那句"感觉像穿了别人的外套"从个人感受升格为一条关于母亲的普遍判断。
-- **人物弧线**：Hanna 从 ch14 那个给母亲拍照、把童年拍回来的女人，走到本章一个能在自己的旧床上同时是十二岁、二十岁和此刻的人；而 Rosaleen 从一个"极难取悦"的人，变成一个连女儿替她看房、付钱体检、最终仍没买到房的人。
-- **母题兑现/反转**：**"钱"母题在此完成它最早的埋线**（ch01 那个"穷、蠢、脏，还是穷"的家族罪名）——如今罪名的来源（房子）换成了遗产，四个孩子有钱了，却仍然是"被母亲打败的孩子"。**"没有一个完美的房子"**则把 ch05 那句"感觉像穿了别人的外套"从个人感受升格为一条关于母亲的普遍判断。
+- **人物弧线**：Hanna 从 ch10 那个抱着婴儿在脑子里把母子俩一起投进海里的女人，走到本章一个用一台旧相机把童年拍回来的女人、一个能在自己的旧床上同时是十二岁、二十岁和此刻的人；而 Rosaleen 从一个"极难取悦"的人，变成一个连女儿替她看房、付钱体检、最终仍没买到房的人。
 
 ## 精读
 
@@ -20,7 +19,7 @@ modified: "2026-09-27"
 - 中文理解：把她那些散落的自我都释放进这间屋子：十二岁的 Hanna，二十岁的 Hanna，此刻的 Hanna。
 - 关键词：releasing, all her scattered selves, Hanna at twelve, at twenty, Hanna here, now
 - 为什么这样写：把一次做爱写成一次"释放"（release，一词双关），而三个并排的自我用同一名字打头、只改时间状语，等于用最小的时间跨度覆盖了二十五岁的一生；scattered（散落）先给了"散"这个诊断，后面的列举就是收拢。
-- 读者视角提示：ch01 的 Hanna 十二岁、在雪地里替母亲跑药房；本章的 Hanna 三十七岁、在同一张床上——同一个句子把这两头接在一起，而这中间的一切，ch07 已经交代完毕。
+- 读者视角提示：ch01 的 Hanna 十二岁、替祖母跑药房（那趟是开春，不是雪天）；本章的 Hanna 三十七岁、在同一张床上——同一个句子把这两头接在一起，而这中间的一切，ch07 已经交代完毕。
 
 > **原句 2:** "A life. She had wanted a life. She lay in this bed as a child and she thirsted after the great unknown."
 
@@ -92,15 +91,7 @@ modified: "2026-09-27"
 | money | 钱 | Even the money she gave them felt like a coldness, once the house was gone. |
 | baby | 婴儿 | When the baby took a nap, they went upstairs and made love in her childhood bed |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 原文例句 |
-|---|---|---|
-| door | 门 | By the first of March the Madigans had shut the door for the last time. |
-| house | 房子 | The house sold in three weeks, closed in eight. |
-| child | 孩子 | a woman who never spoke of her childhood until she was in her sixties |
-| money | 钱 | Even the money she gave them felt like a coldness, once the house was gone. |
 
 ## 一句话总结
 
-一栋住了三代人的房子三周就卖了，交割完账，四个人平分了那笔钱——而他们真正平分的，其实是母亲那句用七十六年练成的话：别靠近我，也别走开。
+一栋住了三代人的房子三周就卖了，交割完账，四个孩子各自"富了很多"——而他们真正分摊的，其实是母亲那句用七十六年练成的话：别靠近我，也别走开。

@@ -54,7 +54,7 @@ modified: "2026-09-27"
 
 - 中文理解："Alice，"他说，"这只是一只狗。"
 - 关键词：Alice, It’s only a dog
-- 为什么这样写：全章最短的一句台词，六个字说完就翻脸；冠词用 a 而不是 the——不是"那只我们已经养了半年的狗"，只是"一只狗"——一句话里把两个月的关系退回成一件可以估价的物品。
+- 为什么这样写：全章最短的一句台词，六个字说完就翻脸；冠词用 a 而不是 the——不是"那条我们已经养了几个月的狗"，只是"一只狗"——一句话里把一整段关系退回成一件可以估价的物品。
 - 读者视角提示：这句话之后紧跟叙述者的一句 "And that, he knew, was the end of them."；到 Part Two，同一家的女儿与母亲之间还会再说一次意思相近的话，只是那时躺着的不是狗。
 
 > **原句 7:** "Out beyond ideas of wrongdoing … rightdoing there is a field. … I’ll meet you there."
