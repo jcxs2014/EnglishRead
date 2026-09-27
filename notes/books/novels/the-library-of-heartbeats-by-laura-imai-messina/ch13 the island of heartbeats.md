@@ -22,7 +22,7 @@ source_text: ch13
 
 **关键词**：a bundle of imaginary lives that branch out from it / if there is one thing a child lives off, it is his imagination / monsters he cannot see / the life we dream is so much greater than the one we realise / why do we give more value to reality than to our dreams
 
-**为什么这样写**：全章以一段**无主语的思辨**开场，而它的第一句就用了 `a bundle`（一束）这个量词——`imaginary lives`（想象出来的人生）被写成可以扎成一束的东西，`branch out`（分岔出去）则给它加上了植物学的枝干隐喻，于是「一个人的生命」与「一束从它分岔出去的人生」在同一句里既是一个家庭树，也是一把散开的干花。`a child lives off`（孩子赖以为生）用 `live off`（靠……维生）这个习语，把想象力写成**口粮**。最后一句的问句用一个被动式的 `be given more value`（被给予更多的价值）——注意主语是**现实**而不是人：**是现实被赋予了价值**，不是我们赋予了它。这个技术选择把一句哲学追问改写成一句制度批判。
+**为什么这样写**：全章以一段**无主语的思辨**开场，而它的第一句就用了 `a bundle`（一束）这个量词——`imaginary lives`（想象出来的人生）被写成可以扎成一束的东西，`branch out`（分岔出去）则给它加上了植物学的枝干隐喻，于是「一个人的生命」与「一束从它分岔出去的人生」在同一句里既是一个家庭树，也是一把散开的干花。`a child lives off`（孩子赖以为生）用 `lives off`（靠……维生）这个习语，把想象力写成**口粮**。最后一句的问句用 `we give more value to reality than to our dreams`（我们为什么给现实比给梦更多的价值）——注意施动的是**人**、被赋值的也是人：**是现实被赋予了价值**，不是我们赋予了它。这个技术选择把一句哲学追问改写成一句制度批判。
 
 **读者视角提示**：这段开篇是 ch03 那位「五岁的秀一唯一的目标是让心脏炸掉」的成人版理论表述，而它的结论（我们为什么更看重现实）是 ch03 母亲的全部罪行的诊断书。**本章的问题是整本书的问题**：ch11 秀一把儿子和母亲的一切都重讲一遍（不承认它更美），ch16 他在录音室里录下自己的心跳（承认自己可以制造证据）——两次回答，一次比一次诚实。
 
@@ -64,7 +64,7 @@ source_text: ch13
 
 **为什么这样写**：本章唯一的天气句，而它用 `was`（是）与 `felt like`（感觉像）构成一组**事实与感受**的对立。三个词（autumn／summer／but）就把季节偷换了，而下一句用两种**夏天的生物**（蜻蜓与蝉）去证实这个偷换：`fluttered`（飘飞）配蜻蜓，`sang`（唱）配蝉，都是轻而薄的运动与声音；而 `in the heat that would soon come to an end`（在那即将结束的暑热里）里的 `would soon come to an end`（即将结束）把「夏天」写成**一个正在倒计时的存在**——所以这一章在感觉上是夏天，在事实上是秋天，在方向上是冬天。
 
-**读者视角提示**：这正是 ch10 那段开篇诗的实证（`THE SEASONS VANISH AS SOON as they begin.`／季节一开始就消失了）。ch10 由 Dr Fujita 的视角说，ch13 由秀一的视角证实——**两个人在同一座岛上经历了同一种时间的错乱**。而 ch02 那位带孙子来的老太太说过 `a puddle of sea`（一小摊海水）与 `two days of unexpected autumnal warmth`（两场反常秋暖），那是同一个错乱的第三次。
+**读者视角提示**：这正是 ch10 那段开篇诗的实证（`THE SEASONS VANISH AS SOON as they begin.`／季节一开始就消失了）。ch10 由 Dr Fujita 的视角说，ch13 由秀一的视角证实——**两个人在同一座岛上经历了同一种时间的错乱**。而 ch01 那位带孙子来的老太太说过 `a puddle of sea`（一小摊海水），ch02 那位医生说过 `two days of unexpected autumnal warmth`（两场反常秋暖），那是同一个错乱的第三、第四次。
 
 > **原句 6:** From the outside, the Archive looked like a forgotten piece of Lego on the beach. At least that’s how it seemed to Shūichi.
 
@@ -82,7 +82,7 @@ source_text: ch13
 
 **关键词**：We don’t know the faces of these people / their names, surnames, and their location at the time of recording / if they chose to provide it / Some of them may already be dead / the beat of their heart continues to echo here
 
-**为什么这样写**：这段说明有三处精确的设计。**第一**，句子从「我们不知道」开始，用 `don’t know`（不知道）作主句谓语，把全部信息定义为**残缺**；`We don’t know the faces`（我们不知道脸）这一句之所以刺人，是因为「脸」是英语里 `identity`（身份）最直觉的载体，而这座馆**有名字、有姓、有位置、有年龄，独独没有脸**。**第二**，`if they chose to provide it`（如果他们愿意提供的话）里的 `chose`（选择）把信息缺损归因于**录音者的主动放弃**——不是收集者无能，是被收集者没有给。**第三**，末句用一个 `may`（可能）加一个 `yet`（然而）完成双重让步：`Some of them may already be dead, and yet the beat of their heart continues to echo here`（有些人可能已经死了，然而他们的心跳仍在这里回响）——**这是全章的语法支点，也是这座馆的伦理地基**。
+**为什么这样写**：这段说明有三处精确的设计。**第一**，句子从「我们不知道」开始，用 `don’t know`（不知道）作主句谓语，把全部信息定义为**残缺**；`We don’t know the faces`（我们不知道脸）这一句之所以刺人，是因为「脸」在英语里是「身份」最直觉的载体，而这座馆**有名字、有姓、有位置、有年龄，独独没有脸**。**第二**，`if they chose to provide it`（如果他们愿意提供的话）里的 `chose`（选择）把信息缺损归因于**录音者的主动放弃**——不是收集者无能，是被收集者没有给。**第三**，末句用一个 `may`（可能）加一个 `yet`（然而）完成双重让步：`Some of them may already be dead, and yet the beat of their heart continues to echo here`（有些人可能已经死了，然而他们的心跳仍在这里回响）——**这是全章的语法支点，也是这座馆的伦理地基**。
 
 **读者视角提示**：`the beat of their heart continues to echo`（心跳继续回响）里的 `echo`（回响）意味着这里存的不是心跳**本身**，而是心跳在别处的**残响**——而残响需要一个听的人才能成立。ch06 那位老太太念的剪报正是这件事（`This is a journey you take to listen to someone’s heart.`），ch10 的 Hana 说的也是（`Death, Hana sometimes says, doesn’t have to take someone away from you.`）。**这座馆的全部技术，就是让回响有一个房间可住。**
 
@@ -124,7 +124,7 @@ source_text: ch13
 | headphones | 耳机 | visitors can listen to all the recorded heartbeats in the archive through headphones |
 | creamy white | 乳白色 | stripes of pale blue, azure blue and creamy white stretched |
 | gel | 发胶 | his hair was styled with gel |
-| an entrance fee | 门票 | They paid the entrance fee, and Kenta stuck close to Shūichi |
+| entrance fee | 门票 | They paid the entrance fee, and Kenta stuck close to Shūichi |
 | remained suspended | 神情恍惚地站着 | while the other remained suspended |
 
 ### ⭐ 基础
@@ -135,11 +135,11 @@ source_text: ch13
 | Keikyū Line | 京急线 | on the Keikyū Line that departed from Yokohama |
 | Takamatsu | 高松（香川县首府） | they landed in Takamatsu from Haneda Airport |
 | Teshima | 丰岛（濑户内海小岛） | boarded the ferry that, in half an hour, took them across to Teshima |
-| a lab coat | 白大褂 | he had on a white lab coat |
+| lab coat | 白大褂 | he had on a white lab coat |
 | the Heart Room | 「心脏房」 | The “Heart Room” is behind this wall. |
 | the Listening Room | 「聆听房」 | Here to the right, we have the “Listening Room” |
 | the Recording Room | 「录音房」 | Finally, here on the left we have the “Recording Room”. |
-| a brochure | 宣传册 | The young man placed the brochure on the counter |
+| brochure | 宣传册 | The young man placed the brochure on the counter |
 | a piece of Lego | 一块乐高积木 | looked like a forgotten piece of Lego on the beach |
 
 ## 一句话总结

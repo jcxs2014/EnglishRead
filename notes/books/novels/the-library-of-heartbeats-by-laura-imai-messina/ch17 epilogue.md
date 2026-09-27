@@ -8,7 +8,7 @@ source_text: ch17
 
 ## 本章导航
 
-- **一句话概括**：离开 Teshima 那天，秀一在便利店饭团前用指尖和嗓音复述出母亲与儿子那两条心跳（`he learned by heart`），对 Sayaka 说出全书的结论——**记忆是意志问题，仅此而已**；他补完两年半前的那段因果：母亲在理发店读到那篇报道，是在秀一手术前两周，而她把 8 岁的秀兴带去岛上，是想给他一块护身符；三天后，8 月 16 日，沙滩上，秀一教 Sayaka 和 Kenta 冲浪。
+- **一句话概括**：离开 Teshima 那天，秀一在便利店饭团前用指尖和嗓音复述出母亲与儿子那两条心跳（`that he had learned by heart`），对 Sayaka 说出全书的结论——**记忆是意志问题，仅此而已**；他补完两年半前的那段因果：母亲在理发店读到那篇报道，是在秀一手术前两周，而她把 8 岁的秀兴带去岛上，是想给他一块护身符；三天后，8 月 16 日，沙滩上，秀一教 Sayaka 和 Kenta 冲浪。
 - **情感弧线位置**：**弧线的终点与闭合**。它不是高潮，是**着陆**——本章几乎没有事件（一场对话、一次日出、三个人下水），却完成了三件事：①合上 ch16 打开的那条缝（母亲为什么去那座岛）；②兑现 ch09 母亲的训诫（`to be happy, first of all you need to imagine being happy.`）；③把「养一个孩子」这件事从义务变成喜悦（`There was even a child in his life.`）。
 - **Tropes 兑现/反转**：兑现「丧偶／丧子后重新生活」的收尾，但拒绝廉价的疗愈语：`It took such energy to be happy when you weren’t yet.`（在还没学会高兴之前，高兴要花掉那么多力气。）——幸福被写成一件**要花力气才能启动的事**，而不是一个自然回归的状态。另一重兑现是「画家画窗」这个贯穿全书的母题：秀一在书发布会上只答过一次的那个问题（`why do you always draw them from the outside?`），本章由 Sayaka 重新问起，而**答案由他自己补完**。
 - **人物弧线**：秀一在本章完成了 ch08 那句诊断（`this is the price you pay not to suffer, and not suffering is all you get out of it`）的反面——他重新开始**花代价**：`(the shoelaces to watch), misunderstandings, grazes on elbows and knees`（要盯的鞋带、误会、膝盖和手肘的擦伤），这一串琐碎的清单是**爱的成本表**。而 Kenta 在本章第一次被他称作「Kenta」以外的东西：一个可以在浪上站起来的人。
@@ -100,7 +100,7 @@ source_text: ch17
 | a good-luck charm | 一块护身符；好运符 | Shūichi’s mother thought that visiting the Archive would be a good-luck charm |
 | marbled | （纹理）大理石纹的；混杂着 | his happiness was marbled by the knowledge that even the things he loved the most would come to an end |
 | dizzying | 令人头晕的 | The thought that he could start over – a meaningful relationship, the fear of being alone, the shoelaces to watch, misunderstandings, grazes on elbows and knees – was dizzying. |
-| boundless | 无边无际的 | of which humans actually know so little |
+| boundless | 无边无际的 | diving into that boundless thing of which humans actually know so little |
 
 ### ⭐⭐ 进阶
 
@@ -110,9 +110,9 @@ source_text: ch17
 | a takeaway | 外带餐 | In front of a takeaway meal drowning in sauces |
 | a chandelier | 一盏吊灯 | maybe a piece of the ceiling, a chandelier, a drawing on the wall |
 | illuminated | 点亮的 | the multiple illuminated and darkened windows |
-| a surfboard | 冲浪板 | The boy appeared to be holding his board by a leash |
+| surfboard | 冲浪板 | Carrying his surfboard down to the beach at dawn |
 | a leash | 牵狗的绳 | The boy appeared to be holding his board by a leash |
-| a geranium | 天竺葵 | She held a white and geranium-red board under her arm |
+| geranium | 天竺葵 | She held a white and geranium-red board under her arm |
 | rippling | 波纹起伏的 | captivated by the sight of the rippling sea |
 | picking litter | 捡垃圾 | picking litter |
 
@@ -121,12 +121,12 @@ source_text: ch17
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | brand new | 全新；崭新 | The day was there, brand new. |
-| a carrot cake | 胡萝卜蛋糕 | While eating a slice of carrot cake, Shūichi watched as Sayaka spilled her latte |
-| an article clipping | 一张剪报 | the article clipping that had sparked the idea |
-| a hair salon | 美发沙龙 | his mother had read about the island in a magazine at the hair salon |
+| carrot cake | 胡萝卜蛋糕 | While eating a slice of carrot cake, Shūichi watched as Sayaka spilled her latte |
+| article clipping | 一张剪报 | the article clipping that had sparked the idea |
+| hair salon | 美发沙龙 | his mother had read about the island in a magazine at the hair salon |
 | a suitcase | 行李箱 | On the day of departure, Shingo’s suitcase was small. |
-| a teddy bear | 泰迪熊 | Inside it was a white teddy bear, three swimsuits, a sketchbook, pencils |
-| a sunrise | 日出 | The sunrise was now all around. |
+| teddy bear | 泰迪熊 | Inside it was a white teddy bear, three swimsuits, a sketchbook, pencils |
+| sunrise | 日出 | The sunrise was now all around. |
 
 ## 一句话总结
 

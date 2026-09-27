@@ -24,7 +24,7 @@ source_text: ch11
 
 **为什么这样写**：本章第一个词组 `SHŪICHI WAS RESTLESS.`（秀一坐立不安）单独成段，只有三个词，全大写开头，读起来像一张病历首页上的第一行诊断。紧接着的 `NO MATTER what he did, he longed to be doing something else`（无论他做什么，他都渴望在做别的事）用 `NO MATTER`（无论）起手，把它写成一条**不可能满足的规则**；两个分句的后半（`he longed to be doing something else`／`he would have preferred to be elsewhere`）结构对称：前半用 `doing`（做）＋`something else`（别的事），后半用 `be elsewhere`（在别处）——**从事的否定跳到地点的否定**，句式一换，焦躁就从「闲不住」升级成「不在这里」。`preferred`（更愿意）用比较级而非 `wanted`（想要），把这个渴望说成一个比较级选择，于是它有了**落差**：他知道别处更好。
 
-**读者视角提示**：这一组三句是 ch02 那个「三百三十三天的清算」之后的最新状态。ch09 他在雪夜对 Sayaka 说「我睡不着，出去走走有帮助」——`I don’t understand this life, but I am continuing this life`（我不懂这生活，但我在继续过）——**而本章这一句升级成：他连「在这里」都待不住了。** 这正是 Ogawa 太太那通电话能成为转折的原因：外部世界把他从画里拽了出来。
+**读者视角提示**：这一组三句是 ch02 那个「三百三十三天的清算」之后的最新状态。ch08 他在雪夜对 Sayaka 说「我睡不着，出去走走有帮助」——`I don’t understand this life, but I am continuing this life`（我不懂这生活，但我在继续过）——**而本章这一句升级成：他连「在这里」都待不住了。** 这正是 Ogawa 太太那通电话能成为转折的原因：外部世界把他从画里拽了出来。
 
 > **原句 2:** ‘It is loving, not being loved, that counts.’ Thanks to this sentence, which his mother often repeated when he was a child and for some reason had suddenly floated back into his mind, he was finally convinced that a good childhood was to be loved to such an extent and in such blessed abundance that you could afford, one day, to be the one who loves.
 
@@ -34,7 +34,7 @@ source_text: ch11
 
 **关键词**：It is loving, not being loved, that counts / a good childhood was to be loved to such an extent and in such blessed abundance / that you could afford, one day, to be the one who loves
 
-**为什么这样写**：主句是一个被 `not` 挖空的名词短语（`It is loving, not being loved, that counts.`）——英语里判断句的强调手段就是 `It is … that …` 加一个对比，因此「重要的是去爱」这半句比「重要的是被爱」多了一层**用力**。后半的长句把童年定义成一个**可支出的余额**：`to be loved to such an extent and in such blessed abundance`（被爱到那样的程度、那样的蒙福充盈）用 `such extent` 与 `such abundance` 两个平行度量把「很多」拆成两笔账，`that you could afford, one day, to be the one who loves`（以至于有一天你能够付得起「成为那个去爱的人」这笔钱）里的 `afford`（付得起／承担得起）是全句的落点——**爱在这里不是情感，是一笔可以动用存款的储备**。而 `blessed`（蒙福的）一个词就把「充足」换成了宗教语域。
+**为什么这样写**：主句是一个被 `not` 挖空的名词短语（`It is loving, not being loved, that counts.`）——英语里判断句的强调手段就是 `It is … that …` 加一个对比，因此「重要的是去爱」这半句比「重要的是被爱」多了一层**用力**。后半的长句把童年定义成一个**可支出的余额**：`to be loved to such an extent and in such blessed abundance`（被爱到那样的程度、那样的蒙福充盈）用 `such extent` 与 `such blessed abundance` 两个平行度量把「很多」拆成两笔账，`that you could afford, one day, to be the one who loves`（以至于有一天你能够付得起「成为那个去爱的人」这笔钱）里的 `afford`（付得起／承担得起）是全句的落点——**爱在这里不是情感，是一笔可以动用存款的储备**。而 `blessed`（蒙福的）一个词就把「充足」换成了宗教语域。
 
 **读者视角提示**：这是秀一母亲留在这本书里的**第五句箴言**，也是唯一一句他一直记得的。前面几句：ch03「你一直看见不可思议的东西，这是让你成为你的东西」；ch05「谎言可以用来改善我们的记忆」；ch06「不适对记忆有好处」；ch09「要先想象幸福，才可能幸福」——**五句全是关于「先有形式、后有内容」的方法论**。而这一句是唯一一句讲**代价**的：它把童年写成一种存款，于是秀一此后的全部行为（做字卡、挂照片、养一个孩子）都成了「动用存款」。ch17 结尾他终于付得起时，全书闭环。
 
@@ -56,7 +56,7 @@ source_text: ch11
 
 **为什么这样写**：`generality`（泛泛性）是一个**数学词**——泛性、普遍性——作者把它用在「一个生物」身上，等于说此前那个 Kenta 只是「Kenta 这个类」的一个实例，而不是一个人。`shook off`（抖落）用了一个物理动词：泛泛性是可以抖落的粉末。破折号后的三个定语从句（偷车库里东西的／挑草莓糖的／麻烦、受伤、粗野的）是**并列的否定性细节**——前两个是行为，第三个是评价（`even vulgar`／乃至有点粗野），`even`（乃至）把褒贬倒转成一层递进，因此「粗野」这个评价被定位成**爱的证明**而不是否定的理由。末句 `Of the generic ‘boy’, nothing remained.`（那个泛泛的「男孩」，什么也不剩了。）单句成段，长度只有前句的八分之一，像一次清扫后的验收报告。
 
-**读者视角提示**：`the precise eight-year-old`（确切的八岁孩子）里的 `precise`（精确的）与 `generality`（泛泛）是一对反义词：`specified`／`precise` 这对词在 ch08 出现过一次（秀一用 `specified` 精确地纠正 Kenta 关于木乃伊的说法），两处合起来是**同一套词法**：这本书里，精确与泛泛之间的缝隙，就是理解与误解之间的缝隙。
+**读者视角提示**：`the precise eight-year-old`（确切的八岁孩子）里的 `precise`（精确的）与 `generality`（泛泛）是一对反义词：`specified`／`precise` 这对词在 ch07 出现过一次（秀一用 `specified` 精确地纠正 Kenta 关于木乃伊的说法），两处合起来是**同一套词法**：这本书里，精确与泛泛之间的缝隙，就是理解与误解之间的缝隙。
 
 > **原句 5:** He imagined it as a miraculous grafting: a dormant bud fused onto an old branch, and the imprecise cut that, by a remarkable coincidence, turned out to be exactly right. Shūichi saw himself tightly wrapping the tape around it to ensure a successful graft. How else could he explain the lightness he felt? Kenta sprouted up in his day, and blossomed in his memory.
 
@@ -66,7 +66,7 @@ source_text: ch11
 
 **为什么这样写**：这一段是秀一对自己**最要命的一次自我诊断**，而作者用园艺学给他下了判决。`a dormant bud`（休眠的芽）与 `an old branch`（老枝）是**两种年龄**的器官，而嫁接的定义就是让不同年龄的枝条共用一株根系——于是这个比喻把「把爱转移给另一个孩子」这件事写成了植物学的必然。`the imprecise cut that, by a remarkable coincidence, turned out to be exactly right`（那道不精确的切口，因一个非凡的巧合，结果恰好完全正确）是全章最精密的一句：`imprecise`（不精确）与 `exactly right`（完全正确）被 `a remarkable coincidence`（一个非凡的巧合）连起来——**秀一在赌一个不成立的可能**。而末句 `Kenta sprouted up in his day, and blossomed in his memory.`（Kenta 在他的一天里发芽，在他的记忆里开花）用**发芽／开花**这对植物词把两个时间维度各配一个动作：白天是生长，记忆里是绽放。
 
-**读者视角提示**：本章前半其实已经给过一次判决——秀一看着 Kenta 睡着的脸，`that pose of abandon that he had never seen before`（那种他从未见过的、彻底放弃的姿势），并且 `He couldn’t separate the boy from himself.`（他没法把这个男孩与自己分开）。睡姿与芽接这两处一前一后，说明他在孩子睡着时看得最清楚：睡着时人不会「表演」，而他怕的正是自己这份判断有**表演成分**。
+**读者视角提示**：ch09 其实已经给过一次判决——秀一看着 Kenta 睡着的脸，`that pose of abandon that he had never seen before`（那种他从未见过的、彻底放弃的姿势），并且 `He couldn’t separate the boy from himself.`（他没法把这个男孩与自己分开）。睡姿与芽接这两处一前一后，说明他在孩子睡着时看得最清楚：睡着时人不会「表演」，而他怕的正是自己这份判断有**表演成分**。
 
 > **原句 6:** With the same secrecy as those slivers of night when father and son shared their adventures in hushed voices, on the day of the funeral, Shūichi slipped the stack of paper into the small coffin, at Shingo’s side. He did it once everyone was heading back to the minibus, a moment before the box in which he lay would be closed and burned. Just the time it took for a hug, before the skin of his tiny son would vanish along with the paper.
 
@@ -74,9 +74,9 @@ source_text: ch11
 
 **关键词**：with the same secrecy as those slivers of night / Shūichi slipped the stack of paper into the small coffin, at Shingo’s side / a moment before the box in which he lay would be closed and burned / Just the time it took for an hug / before the skin of his tiny son would vanish along with the paper
 
-**为什么这样写**：整段的节奏是一次**抢时间**的动作模拟。第一句用两个时间状语（`on the day of the funeral`／带着与那些夜晚同样彻底的隐秘）把葬礼与那个每晚画画的小时焊在一起——**最私密的时刻与最公开的时刻用的是同一套动作**。第二句的 `a moment before`（在……之前的一刻）与 `would be closed and burned`（将要被合上、被焚化）用将来时把不可逆写成了待定。第三句是全章最狠的一句：`Just the time it took for an hug`（刚好一个拥抱的时间）把时间单位换成了身体动作——**他用一个拥抱的长度去丈量他儿子剩下的时间**；破折号后的 `the skin of his tiny son would vanish along with the paper`（他幼小儿子的皮肤就会和那些纸一起消失）用 `vanish`（消失）而不是 `burn`（烧掉），把焚化写成**蒸发**。
+**为什么这样写**：整段的节奏是一次**抢时间**的动作模拟。第一句用两个时间状语（`on the day of the funeral`／带着与那些夜晚同样彻底的隐秘）把葬礼与那个每晚画画的小时焊在一起——**最私密的时刻与最公开的时刻用的是同一套动作**。第二句的 `a moment before`（在……之前的一刻）与 `would be closed and burned`（将要被合上、被焚化）用将来时把不可逆写成了待定。第三句是全章最狠的一句：`Just the time it took for a hug`（刚好一个拥抱的时间）把时间单位换成了身体动作——**他用一个拥抱的长度去丈量他儿子剩下的时间**；破折号后的 `the skin of his tiny son would vanish along with the paper`（他幼小儿子的皮肤就会和那些纸一起消失）用 `vanish`（消失）而不是 `burn`（烧掉），把焚化写成**蒸发**。
 
-**读者视角提示**：`Just the time it took for an hug` 与本章另一句 `They remained in a tight embrace for several minutes.`（他们紧紧抱了好几分钟。）是同一个动作在全书两端的两笔账：秀一抱着儿子的尸体用了「一个拥抱」的时间，而这一夜他抱着 Kenta 用了「好几分钟」。**多出来的那几分钟，就是这一夜的全部意义。**
+**读者视角提示**：`Just the time it took for a hug` 与本章另一句 `They remained in a tight embrace for several minutes.`（他们紧紧抱了好几分钟。）是同一个动作在全书两端的两笔账：秀一抱着儿子的尸体用了「一个拥抱」的时间，而这一夜他抱着 Kenta 用了「好几分钟」。**多出来的那几分钟，就是这一夜的全部意义。**
 
 > **原句 7:** The bracelet was dirty, as if a car had run over it, and the bright red thread was covered in mud stains. It was tempting to return it to Shingo immediately, but Kenta thought that washing the bracelet and returning it to him in the best possible condition would make him more of a hero in his friend’s eyes.
 
@@ -96,7 +96,7 @@ source_text: ch11
 
 **为什么这样写**：这是**第二部**的标题（`doki doki`／どきどき）第一次在正文里被**使用**，而全章里它出现四次，句式每次都换一次形态：第一次是描述性的（`Doki doki went Kenta’s heart`，怦怦怦地走的是 Kenta 的心），第二次改用比喻（`it was the soundtrack of their every conversation`，是他们每一次谈话的配乐），第三次换成动作（`It beat and beat`，它跳啊跳），第四次还原成纯粹的拟声（`doki doki, doki doki`）。`went Kenta’s heart` 这个搭配把心跳写成了**过客**——它「经过」心，而不是「出自」心，这个生硬的语法正是八岁男孩能给出的最大强度。`the soundtrack`（配乐）一词把 Kenta 的心跳交给耳朵，而全书的核心器官是**耳**：档案馆收集的就是被听见的声音。
 
-**读者视角提示**：四次的递进其实是**镜头语言**：中景（心在跳）→ 全景（谈话的配乐）→ 特写（它跳啊跳）→ 纯声音（doki doki, doki doki）。而这正是本书最终的形态——ch14–ch16 里老年的秀一与 Kenta 走进档案馆的黑暗房，**把 Kenta 的心跳与一个陌生人的心跳叠在一起播**。第一部（「baku baku」（取自目录页的日文拟声词，正文未出现））是**做手术前的紧急心跳**，第二部（`kyun`）是**发紧的心跳**，第三部（`doki doki`）是**听到一个人时的心跳**——三部标题构成一条心跳的情绪曲线，而第三部的名字由一个孩子先行说出口了。
+**读者视角提示**：四次的递进其实是**镜头语言**：中景（心在跳）→ 全景（谈话的配乐）→ 特写（它跳啊跳）→ 纯声音（doki doki, doki doki）。而这正是本书最终的形态——ch14–ch16 里老年的秀一与 Kenta 走进档案馆的黑暗房，**把 Kenta 的心跳与一个陌生人的心跳叠在一起播**。第一部（一部 `baku baku`（目录页作「Part One: ばくばく baku baku」））是**做手术前的紧急心跳**，第二部（`kyun`）是**发紧的心跳**，第三部（`doki doki`）是**听到一个人时的心跳**——三部标题构成一条心跳的情绪曲线，而第三部的名字由一个孩子先行说出口了。
 
 ## 本章词汇
 
@@ -135,7 +135,7 @@ source_text: ch11
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| a lucky charm | 幸运符；护身符 | it’s the most powerful lucky charm in the world |
+| lucky charm | 幸运符；护身符 | it’s the most powerful lucky charm in the world |
 | The Rain Bank | 「雨天银行」（存钱罐游戏） | They called it ‘The Rain Bank’. |
 | capybara | 水豚 | Aya would put a coin in Shingo’s capybara-shaped piggy bank. |
 | a hairdryer | 吹风机 | He rushed home and cleaned it, drying it carefully with a hairdryer. |

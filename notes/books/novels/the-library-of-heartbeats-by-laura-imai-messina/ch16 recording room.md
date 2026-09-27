@@ -32,7 +32,7 @@ source_text: ch16
 
 **关键词**：pressed the confirmation button and his name, surname, age and place appeared / he realised he didn’t have a message to leave / it was sufficient, at the end of the day, just to help grow that special archive / A code was created automatically for each recording / a sequence of numbers that would accompany his heartbeat forever / The code, five figures, started with 4 and ended with 9
 
-**为什么这样写**：这一段的核心是**「不留言」这件事本身**。`he realised he didn’t have a message to leave`（他意识到自己没有留言可留）用的是 `didn’t have to` 的反面——**不是不想留，是没有留言**；而 `it was sufficient, at the end of the day, just to help grow that special archive`（说到底这也已经足够——帮这个特殊的档案长大一些）用 `sufficient`（足够）——**够的标准被降到最低：只要让这个档案长大一点。** 这与 ch15 那位工作人员的说明构成对照（`Some of them may already be dead, and yet the beat of their heart continues to echo here.`）。编号的机制句 `A code was created automatically for each recording` 用 `automatically`（自动地）——**一个编号不是人取的，是机器给的**；而 `a sequence of numbers that would accompany his heartbeat forever`（一串将永远伴随他心跳的数字）里的 `forever` 是 ch02 那个「将会留下」的另一枚倒计时。最后 `started with 4 and ended with 9`（以 4 开头，以 9 结尾）**只报头尾，不报中间三位**——因为中间三位正是 ch05 那两串他背了几个月却读不懂的数字，此刻他还没看。
+**为什么这样写**：这一段的核心是**「不留言」这件事本身**。`he realised he didn’t have a message to leave`（他意识到自己没有留言可留）用的是 `didn’t have to` 的反面——**不是不想留，是没有留言**；而 `it was sufficient, at the end of the day, just to help grow that special archive`（说到底这也已经足够——帮这个特殊的档案长大一些）用 `sufficient`（足够）——**够的标准被降到最低：只要让这个档案长大一点。** 这与 ch13 那位工作人员的说明构成对照（`Some of them may already be dead, and yet the beat of their heart continues to echo here.`）。编号的机制句 `A code was created automatically for each recording` 用 `automatically`（自动地）——**一个编号不是人取的，是机器给的**；而 `a sequence of numbers that would accompany his heartbeat forever`（一串将永远伴随他心跳的数字）里的 `forever` 是 ch02 那个「将会留下」的另一枚倒计时。最后 `started with 4 and ended with 9`（以 4 开头，以 9 结尾）**只报头尾，不报中间三位**——因为中间三位正是 ch05 那两串他背了几个月却读不懂的数字，此刻他还没看。
 
 **读者视角提示**：`his name, surname, age and place appeared`（姓名、姓、年龄和地点出现在屏幕上）这一串，正是 ch13 工作人员所说的「名字、姓、位置、年龄」——**身份的四要素，全部**，脸不在其中。秀一自己此刻也被压成这四个字段，而他不觉得不对——**恰恰因为他刚刚在聆听房听过几千个这样的字段，他才真正懂得了「没有脸」意味着什么。**
 
@@ -54,7 +54,7 @@ source_text: ch16
 
 **为什么这样写**：全章的高潮只有**七个词**，而作者为它安排了最极端的排版：把五位数字**逐个拆成五行**（`4` / `2` / `1` / `9` / `1`），让阅读速度降到**每行一个数字**——读者此刻正在做和秀一一样的事：一个一个地敲。`Click.` 单独一行，用一个句点（而不是感叹号）——这一声是**界面响应**，不是人的反应，机器的冷静与人的崩溃在同一段里并置。`A grey page opened.`（一页灰色的界面打开了）用最低限度的一行说「搜索结果出来了」，而 `He was consumed by emotion.`（他被情绪淹没）里的 `consumed`（吞没）用了一个极不日常的词——**他不是悲伤，是被吃掉了。** 末句 `It wasn’t a coincidence!`（不是巧合！）**重复两次且都带感叹号**——这是全书唯一一处叙述内的惊呼，也是秀一在十七章里第一次、也是唯一一次失去叙述者的冷静。
 
-**读者视角提示**：`Ōno Reina, 76 years old.`（Ōno Reina，76 岁。）——**母亲来录心跳时 76 岁**。ch10 里那位带孙子上岛、穿着朴素的「老妇人」，ch06 里念错坐标的那位，正是她。而秀一此刻的反应不是拥抱也不是哭泣，是**重复「不是巧合」**——他在确认**因果**。这与 ch05 那位母亲当年否认车祸（`I think you probably imagined it.`）形成一组对位的**沉默**：一个母亲对儿子否认，一个儿子对命运确认；而四十五年后，儿子终于证明了那件事确实发生过——**只不过不是他童年里那件。**
+**读者视角提示**：`Ōno Reina, 76 years old.`（Ōno Reina，76 岁。）——**母亲来录心跳时 76 岁**。ch10 里那位带孙子上岛、穿着朴素的「老妇人」，ch06 里念错坐标的那位，正是她。而秀一此刻的反应不是拥抱也不是哭泣，是**重复「不是巧合」**——他在确认**因果**。这与 ch03 那位母亲当年否认车祸（`I think you probably imagined it.`）形成一组对位的**沉默**：一个母亲对儿子否认，一个儿子对命运确认；而四十五年后，儿子终于证明了那件事确实发生过——**只不过不是他童年里那件。**
 
 > **原句 5:** How was it possible that his mother had been there and he knew nothing about it? He searched the profile again for an answer and found it in the date. The recording was from two and a half years ago; the day coincided with the week Shūichi had spent in the hospital having his surgery. There was no accompanying message, and later Shūichi thought it wasn’t necessary. It wouldn’t add anything to the wonder he was feeling now. He immediately understood who the other code belonged to. 4 2 1 9 2 He knew what was written on the screen before looking up at it: ‘Maeda Shingo, 8 years old.’
 
@@ -104,7 +104,7 @@ source_text: ch16
 | seventy-two hours | 七十二小时 | there was a promise of contact within seventy-two hours |
 | swallowed | 吞没；吞掉 | When darkness swallowed the horizon, they were at sea |
 | the horizon | 地平线 | When darkness swallowed the horizon, they were at sea |
-| a critic | 评论家 | What the critic Yoshitani Matsuo wrote about Shūichi’s book |
+| critic | 评论家 | What the critic Yoshitani Matsuo wrote about Shūichi’s book |
 
 ### ⭐ 基础
 

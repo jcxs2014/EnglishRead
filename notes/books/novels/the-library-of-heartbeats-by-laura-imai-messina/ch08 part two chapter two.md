@@ -32,7 +32,7 @@ source_text: ch08
 
 **关键词**：afraid of loving him / a new friendship, a new lover, a colleague you cared for / was a risk
 
-**为什么这样写**：前一句只有七个词（`Shūichi was simply afraid of loving him`），`simply`（只是）把这一生的核心恐惧压缩成一个平铺直叙的承认；主语与动词之间不用任何修饰语，读来像一份诊断书。第二句随即把这个个案放大成**类型**：`a new friendship, a new lover, a colleague you cared for`（一段新的友谊、一个新的恋人、一个你在意的同事）三个并列项按「私人—恋爱—工作」的梯度排列，把「爱孩子」放进一个更大的清单里，于是恐惧失去了特异性——他不是怕这个孩子，他是怕**任何新增的人**。末句 `was a risk`（是一场风险）用名词而非形容词收尾，呼应 ch05 那句 `The new, for Shūichi, was an unbearable risk.`（新事物对秀一来说是一场无法承受的风险），两处相隔三章，同一个判断被说了两次。
+**为什么这样写**：前一句只有七个词（`Shūichi was simply afraid of loving him`），`simply`（只是）把这一生的核心恐惧压缩成一个平铺直叙的承认；主语与动词之间不用任何修饰语，读来像一份诊断书。第二句随即把这个个案放大成**类型**：`a new friendship, a new lover, a colleague you cared for`（一段新的友谊、一个新的恋人、一个你在意的同事）三个并列项按「私人—恋爱—工作」的梯度排列，把「爱孩子」放进一个更大的清单里，于是恐惧失去了特异性——他不是怕这个孩子，他是怕**任何新增的人**。末句 `was a risk`（是一场风险）用名词而非形容词收尾，呼应 ch04 那句 `The new, for Shūichi, was an unbearable risk.`（新事物对秀一来说是一场无法承受的风险），两处相隔四章，同一个判断被说了两次。
 
 **读者视角提示**：这一句解释了 ch05 里他说的 `Shūichi knew one person was never enough to keep you alive; you needed many.`（一个人从来不够，你需要很多人）——他早就有这套理论，只是从没在自己身上验证过。本章末尾他终于验证了，而且是以相反的方向：一个人（Kenta）救了他。
 

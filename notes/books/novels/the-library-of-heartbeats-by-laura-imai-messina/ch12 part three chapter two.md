@@ -42,7 +42,7 @@ source_text: ch12
 
 **关键词**：He had it on his wrist that day too, Kenta / he whispered, planting a small kiss on his head / It was not your fault
 
-**为什么这样写**：三句里有两句是**动作**，一句是**判决**。`whispered`（低声说）替代了正常的说话音量，`planting a small kiss on his head`（在他头顶轻轻落下一个吻）里的 `planting`（栽种）把吻写成**插苗**——`small`（一个小小的）与 `light` 都收在动词的分词里，于是这个吻没有任何重量，却落在一个孩子最需要被碰到的地方。末句 `It was not your fault.`（那不是你的错）只有六个词，用**否定定义**句式（`It was not X`）而不是 `You didn't do it`（你没有做错）——英语的分裂否定式（`not X` 放句首）会把焦点死死钉在**那个被否认的名词**上，因此这句话的重量落在 `your fault`（你的错）而不是落在安慰上。
+**为什么这样写**：三句里有两句是**动作**，一句是**判决**。`whispered`（低声说）替代了正常的说话音量，`planting a small kiss on his head`（在他头顶轻轻落下一个吻）里的 `planting`（栽种）把吻写成**插苗**——`small`（一个小小的）与 `light` 都收在动词的分词里，于是这个吻没有任何重量，却落在一个孩子最需要被碰到的地方。末句 `It was not your fault.`（那不是你的错）只有六个词，用**否定定义**句式（`It was not X`）而不是「你没有做错」那种说法——英语的分裂否定式（`not X` 放句首）会把焦点死死钉在**那个被否认的名词**上，因此这句话的重量落在 `your fault`（你的错）而不是落在安慰上。
 
 **读者视角提示**：`It was not your fault` 与 ch12 后面 Aya 那句 `There is no disaster that can be the responsibility of a child`（没有任何灾难是一个孩子的责任）构成同一判断的两种说法——**从孩子角度的赦免**与**从成年人角度的定论**。而本章把它讲完的位置选在 Kenta 手镯亮相之后、秀一摸到照片墙之前，也就是**先解除罪责，再接纳这个人**。顺序不能倒：先接纳，赦免就成了施舍。
 
@@ -72,7 +72,7 @@ source_text: ch12
 
 **关键词**：I see Shingo in fragments / in the gestures and features of each of those children / It’s like a puzzle: each child provides me with a piece / Being with them makes me feel close to him
 
-**为什么这样写**：`fragments`（碎片）这个词与 ch09 秀一数着 `Fuck off` 的次数、ch03 母亲对记忆的「改名」是同一系列的方法论：**Aya 用拼图替代了「替代品」**。三句是一套论证：`It’s like a puzzle: each child provides me with a piece`（它像一幅拼图：每个孩子给我一块）用一个冒号把比喻与推论接起来，而 `provides`（提供）这个词选得很讲究——**孩子不是「像」秀兴，孩子在「提供」部件**，因此这幅拼图是双向的：缺的不是别人，是那块。末句 `Being with them makes me feel close to him`（和他们在一起，我感到离他很近）用 `close`（近）这个**空间词**结束，把「思念」从时间（怀念）改写成距离（靠近），而缩短距离的方式不是回到墓前，是留在幼儿园里。
+**为什么这样写**：`fragments`（碎片）这个词与 ch08 秀一数着 `Fuck off` 的次数、ch03 母亲对记忆的「改名」是同一系列的方法论：**Aya 用拼图替代了「替代品」**。三句是一套论证：`It’s like a puzzle: each child provides me with a piece`（它像一幅拼图：每个孩子给我一块）用一个冒号把比喻与推论接起来，而 `provides`（提供）这个词选得很讲究——**孩子不是「像」秀兴，孩子在「提供」部件**，因此这幅拼图是双向的：缺的不是别人，是那块。末句 `Being with them makes me feel close to him`（和他们在一起，我感到离他很近）用 `close`（近）这个**空间词**结束，把「思念」从时间（怀念）改写成距离（靠近），而缩短距离的方式不是回到墓前，是留在幼儿园里。
 
 **读者视角提示**：`in the gestures and features`（在手势和五官里）是秀一那条观察旧照片的线索（ch05「他的图画里总有一扇窗」、ch11「Kenta 的手势、他的表情、他那种奇怪的结巴」）的最终收束：父亲认人不靠脸，靠**动作**。所以 Aya 会在幼儿园的孩子们身上找到儿子，因为她当年也是靠动作认识他的——ch04 里 Kenta 说 `They were curious, intelligent eyes`，秀一说那是唯一一双他愿意看的眼睛。
 
@@ -86,7 +86,7 @@ Aya 把拇指和食指按在那只深红色的折纸后面，心脏开始跳动�
 
 **为什么这样写**：整段的机械结构是**一只纸折的心脏 + 手指 = 心跳**，而作者用动词 `pulsate`（搏动）而不是 `beat`（跳）——`pulsate` 属于**光学**语域（光脉冲），用在一个纸片上，就把折纸的抖动写成了发光。第二句的拟声词 `Doki doki` 单独成段，由 Aya「轻声」说出并带一个笑——**这部作品的第三部标题，第一次由秀一的前妻亲手按出来**。而这只纸心的材质是 `scarlet`（深红），与 ch11 那只「`the bright red thread`（鲜红的线）」手镯同一色系：**红色的线在两个女人手里各做了一件东西**——一件缝在手腕上，一件折在掌心里；一件留不住，一件一按就跳。
 
-**读者视角提示**：本章用一只折纸心把全书三个部分缝在一起：第三部的标题 `doki doki` 从 ch11 一个孩子的激动跳到此处一只纸片的搏动，而 ch02 那个男人在档案馆里「听见」的心跳，物理上就是**别人掌心里的纸**这一类东西——ch15 的 Listening Room 里，墙上挂满黑色镜片（`They show your soul rather than your face.`），而 ch16 秀一要求录下自己的心跳，理由正是这一页：**一个人可以把自己做成一件作品，只要有人肯按一下。**
+**读者视角提示**：本章用一只折纸心把全书三个部分缝在一起：第三部的标题 `doki doki` 从 ch11 一个孩子的激动跳到此处一只纸片的搏动，而 ch02 那个男人在档案馆里「听见」的心跳，物理上就是**别人掌心里的纸**这一类东西——ch14 的 Heart Room 里，墙上挂满黑色镜片（`They show your soul rather than your face.`），而 ch16 秀一要求录下自己的心跳，理由正是这一页：**一个人可以把自己做成一件作品，只要有人肯按一下。**
 
 > **原句 8:** ‘There is never much to say on happy days,’ added the Sphinx after a long silence, ‘happiness hates words.’
 
@@ -127,7 +127,7 @@ Aya 把拇指和食指按在那只深红色的折纸后面，心脏开始跳动�
 | Shiretoko | 知床（半岛） | he had spotted from the boat off the rugged coast of Shiretoko |
 | origami | 折纸 | origami in her free time (she had even invented some new ones) |
 | a stingray | 一条黄貂鱼 | Aya took a paper fish out of her pocket, then a stingray and a whale shark, and placed them between the offerings. |
-| a gravestone | 一块墓碑 | They gave the gravestone a thorough clean, replaced the flowers |
+| gravestone | 一块墓碑 | They gave the gravestone a thorough clean, replaced the flowers and placed down their offerings. |
 
 ### ⭐ 基础
 

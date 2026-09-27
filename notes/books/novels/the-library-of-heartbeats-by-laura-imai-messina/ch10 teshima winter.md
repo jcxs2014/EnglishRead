@@ -10,7 +10,7 @@ source_text: ch10
 
 - **一句话概括**：本章第一次把视角从秀一移开，交给他的心内科医生 Dr Fujita——他带着再婚妻子 Yui、女儿 Hana、儿子 Yūto 来到岛上：妻子与大女儿去山上的「低语森林」挂风铃，为死去的两个人（第一任妻子秋子、女儿紗季）写名字；他在海滩上陪不肯进档案室的小儿子堆沙；整章的落点是那个关于火与潮的比喻——**你可以在雨后挤在火边烤干自己，但总有一小块地方会永远潮着。**
 - **情感弧线位置**：**平线，但承担全书的「旁证」功能**。它不属于秀一的情感弧（秀一不在场），却把 ch02/ch06 两章的框架补全：同一个岛、同一位艺术家、同一座档案馆，秀一与 Dr Fujita 都在其中。
-- **Tropes 兑现/反转**：兑现「重组家庭」这一常见设定，但立刻反转：第二个家庭不是**替代**第一个，而是**挂在**第一个上（`deeply attached to the memory of the first`）。Hana 那句 `Death doesn’t have to take someone away from you.`（死亡不一定要把某人从你身边带走）把「丧亲」从剥夺改写成位移。
+- **Tropes 兑现/反转**：兑现「重组家庭」这一常见设定，但立刻反转：第二个家庭不是**替代**第一个，而是**挂在**第一个上（`deeply attached to the memory of the first`）。Hana 那句 `Death, Hana sometimes says, doesn’t have to take someone away from you.`（死亡不一定要把某人从你身边带走）把「丧亲」从剥夺改写成位移。
 - **人物弧线**：Dr Fujita 在 ch05、ch08、ch09 里始终是那个「说出专业判断、然后说点俏皮话」的大夫；本章把他还原成一个带两个孩子上岛的普通父亲。Hana 则是全书唯一一个已经「活过一生又重生」的角色（她去过岩手的风之电话给母亲打长途）。
 - **叙事手法**：本章以**季节本身**开篇（`THE SEASONS VANISH AS SOON as they begin.`／季节一开始就消失），与前三章的秋、夏、以及未出现的春构成一组；随后视角在四个人之间自然流动（他 → Yūto → Yui／Hana → 他），没有一处视角标记。结尾的比喻（雨后围火烤干）是一句**故意不解决**的收束：写下问题，不给答案。
 
@@ -72,7 +72,7 @@ source_text: ch10
 
 **关键词**：Death, Hana sometimes says / doesn’t have to take someone away from you
 
-**为什么这样写**：这是全章最短的一句**格言**，却用了全章最精密的三个语法选择。第一，插入语 `Hana sometimes says`（Hana 偶尔会讲）把格言降格为**小孩的转述**——`sometimes` 意味着这不是教条，只是她偶尔说出口的一句。第二，`Death doesn’t have to take someone away from you`（死亡不一定要把某人从你身边带走）里的**双重否定**（`doesn’t have to`＋句末的不）：先否定「必须」，再否定「带走」，于是「带走」不再是必然。第三，`take someone away from you`（把某人从**你身边**带走）里的 `from you` 是全句的落点：死的后果不是「消失」，而是「离开你」——留在世上、只是从身边移开。
+**为什么这样写**：这是全章最短的一句**格言**，却用了全章最精密的三个语法选择。第一，插入语 `Hana sometimes says`（Hana 偶尔会讲）把格言降格为**小孩的转述**——`sometimes` 意味着这不是教条，只是她偶尔说出口的一句。第二，`Death, Hana sometimes says, doesn’t have to take someone away from you`（死亡不一定要把某人从你身边带走）里的**双重否定**（`doesn’t have to`＋句末的不）：先否定「必须」，再否定「带走」，于是「带走」不再是必然。第三，`take someone away from you`（把某人从**你身边**带走）里的 `from you` 是全句的落点：死的后果不是「消失」，而是「离开你」——留在世上、只是从身边移开。
 
 **读者视角提示**：这一句是**整部书的伦理核心**，而它由一个孩子说出来、由一个经历过两次丧失的家庭说出来。全书另一条同义句在 ch14–ch16 的语境里会出现（秀一老年版对 Kenta 说的话），而 ch02 那个男人推开档案馆的门时，脚下这座岛给的就是这句话的物质版本——**一座把心跳留下来、让人不必被彻底带走的地方。**
 

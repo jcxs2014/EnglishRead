@@ -34,7 +34,7 @@ Shūichi 把所有最珍视的东西召集到一起，然后拉下了把手。�
 
 **为什么这样写**：这一句把「回忆」拆成**三批对象**，顺序是刻意的：`people`（人）→ `places`（地方）→ `books`（书），即由外到内、由当下到过去。两次 `even`（甚至）构成一组递进的让步：一次越过「最新」，一次越过「快乐」——`even the most recent`（甚至包括最新的那一些）、`even sad ones`（甚至悲伤的那些）。末句 `each of which had left a story etched in his soul`（每一本都在他灵魂上刻下过一个故事）用 `etched`（刻蚀）把书写变成**金属工艺**：墨水会掉，刻痕不会。
 
-**读者视角提示**：`even the most recent, like Sayaka and Kenta`（甚至包括最新的那一些，比如 Sayaka 和 Kenta）是全书的**时间标尺**——一个四十岁的人把「最新的爱」与「童年的房子」并列。而「最新」那部分正是 ch12 那一夜刚确定的。ch08 里秀一对着松树园想起过一句 `Where does the woman who was just ‘your mother’ end?`（那个刚刚还是「你妈妈」的女人到哪里为止？）——本句把那个问题回答了一半：最新的人也被放进同一批召唤名单。
+**读者视角提示**：`even the most recent, like Sayaka and Kenta`（甚至包括最新的那一些，比如 Sayaka 和 Kenta）是全书的**时间标尺**——一个四十岁的人把「最新的爱」与「童年的房子」并列。而「最新」那部分正是 ch12 那一夜刚确定的。ch05 里秀一对着松树园想起过一句 `Where does the woman who was just ‘your mother’ end?`（那个刚刚还是「你妈妈」的女人到哪里为止？）——本句把那个问题回答了一半：最新的人也被放进同一批召唤名单。
 
 > **原句 3:** Like the one about the little protagonist who was shipwrecked; he visualised him as his skinny arms pushed aside vegetation and he ventured deeper into the island. The little boy with the features of Shingo who appeared to Shūichi every time he picked up a pencil – because every child, before being a child, was Shingo. Then, after a moment, his son would rise, wander off, and the other child, the protagonist of the story, would begin to live his own life.
 
@@ -44,7 +44,7 @@ Shūichi 把所有最珍视的东西召集到一起，然后拉下了把手。�
 
 **为什么这样写**：这是全章最沉的一段，而它的手法是**用一个解释句把儿子让位给虚构**。`The little boy with the features of Shingo`（有着秀兴相貌的小男孩）——注意 `the features of`（……的相貌）不是 `Shingo` 本身，是**相似**；破折号后的 `because every child, before being a child, was Shingo`（因为每个孩子，在成为孩子之前，都是秀兴）把一个观察提升成一条**关于所有人的定律**：秀兴不只是这一个孩子，他成了「孩子」这个阶段的代称。接下来的 `Then, after a moment`（然后，过一会儿）——`a moment` 短得可疑；而末句 `would begin to live his own life`（开始活出自己的 life）里 `life` 前面只有 `his own`，与前面所有带 `his` 的名词相比脱落了冠词：**他成了「自己的生活」，也就是别人的故事。**
 
-**读者视角提示**：`because every child, before being a child, was Shingo` 是全书对「丧子」最冷的一句，也是最准的一句——它解释了为什么秀一此后能持续画「八岁男孩」而不崩溃：**每一个八岁男孩都是秀兴，而每一个秀兴都会长大走开。** ch15 末尾那位评论家的话正是这段的外部版本（`they are all ghosts of a childhood about to end.`／他们全都是即将结束的童年的幽灵）。
+**读者视角提示**：`because every child, before being a child, was Shingo` 是全书对「丧子」最冷的一句，也是最准的一句——它解释了为什么秀一此后能持续画「八岁男孩」而不崩溃：**每一个八岁男孩都是秀兴，而每一个秀兴都会长大走开。** ch16 末尾那位评论家的话正是这段的外部版本（`they are all ghosts of a childhood about to end.`／他们全都是即将结束的童年的幽灵）。
 
 > **原句 4:** As Shūichi observed the filaments of the bulb lighting up and extinguishing to the rhythm of someone’s heartbeat, he remembered Shingo’s heart. He had heard it for the first time in the hospital, inside Aya’s faintly visible belly, and later at home, using a device with headphones they had purchased online. It was supposed to check the well-being of the foetus even when it wasn’t moving.
 
@@ -64,7 +64,7 @@ Aya 弓着背，耳机压在耳朵上，声音因痛苦而破裂：「我听不�
 
 **为什么这样写**：这是全章唯一一处**高声**的台词，而它出现在一个母亲身上。`hunched over`（弓着背）与 `pressed to her ears`（压在耳朵上）两个身体动作把她整个人折叠进那个耳机里。`her voice cracking with anguish`（声音因痛苦而破裂）用 `cracking`（裂开）——**破裂的是声音本身**，因此那句重复的话在听觉上真的裂成了两截。引语完整重复两遍，第二次加感叹号；这是全书写得最不克制的一句台词，而它的克制之处在于**它只有一个词的替换**：`hear`（听见）被 `can’t` 否定两次。最后一句用 `increased… rather than alleviating`（加剧……而不是缓解）作对比，把一个「为孩子好」的器械的失败写成**方向相反**，而不是程度不够。
 
-**读者视角提示**：这一幕是 Aya 与秀一婚姻的第一道裂缝，也是 ch12 那句 `But she also believed that childhood was an illness`（她也相信童年是一种病）的源头。ch16 结尾 Aya 折的那只纸心之所以重要，正因为它是**同一个人的两次听觉行为**：一次是「听不见」，一次是「让心怦怦跳」。
+**读者视角提示**：这一幕是 Aya 与秀一婚姻的第一道裂缝，也是 ch09 那句 `But she also believed that childhood was an illness`（她也相信童年是一种病）的源头。ch16 结尾 Aya 折的那只纸心之所以重要，正因为它是**同一个人的两次听觉行为**：一次是「听不见」，一次是「让心怦怦跳」。
 
 > **原句 6:** ‘What are they? On the walls?’ ‘Black mirrors, Chilean. They show your soul rather than your face.’
 
@@ -107,7 +107,7 @@ Aya 弓着背，耳机压在耳朵上，声音因痛苦而破裂：「我听不�
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
-| a bulb | 灯泡 | In the total darkness of the room, a light bulb hung from a cord. |
+| light bulb | 灯泡 | In the total darkness of the room, a light bulb hung from a cord. |
 | a device | 装置；机器 | using a device with headphones they had purchased online |
 | headphones | 耳机 | using a device with headphones they had purchased online |
 | Chilean | 智利的 | Black mirrors, Chilean. |

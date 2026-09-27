@@ -44,7 +44,7 @@ g 读硬音，像 pig 里的 g；f 念起来更接近 h；而 r 有点更接近 
 
 **为什么这样写**：全章最短的一句，却用 `precede`（先于）这个精确的动词，而不是英语母语者更顺手的「谁在前头」那类说法。差别在于 `precede` 只描述顺序，不带任何褒贬；而「谁在前头」的说法暗含一层比较意味，仿佛两个项目在争先。`Following the Japanese convention` 又把规则的来源交给文化而不是译者个人，于是读者不会觉得是译者强加了一条规矩。
 
-**读者视角提示**：这一句在 ch03 立刻兑现——`Ōmachi`、`Komachi`、`Inamuragasaki` 全在前，`Shūichi` 在后。往后遇到 `Koda-san`、`Wakamiya` 这类写法，读法由此确定。
+**读者视角提示**：这一句在 ch03 立刻兑现——`Ōmachi`、`Komachi`、`Inamuragasaki` 全在前，`Shūichi` 在后。往后 ch04 的 `Koda-san`、ch05 与 ch07 的 `Wakamiya` 都是同一套写法。遇到这类写法，读法由此确定。
 
 > **原句 4:** In the south-west of Japan, in a puddle of sea shared by two prefectures called Kagawa and Okayama, floats a little island that is like nowhere else on earth: Teshima.
 
