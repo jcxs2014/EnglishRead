@@ -70,11 +70,11 @@ modified: "2026-09-27"
 
 **中文理解**：世界的恶意正在沸腾外溢——Neil 的脑子显然还没理顺，你的背在坏，Barbara 的癌，Barry 的糖尿病——简直就像一件事带倒另一件，东倒西歪、连锁崩塌，一种全面的「退行」（我爱这个词——英语里没有，但它应该有）。
 
-**句子结构**：全句由破折号分成五段：主句是 `it’s as though one thing is bringing down another`（仿佛一件事把另一件带倒，`as though` 引导表语从句）；前面一串 `X’s Y` 的名词短语是主句的主语（`The world’s evil boiling over`，其中 `evil` 作定语、`boiling over` 是现在分词短语作后置定语）；中间一串是四个并列的同位说明（`Neil’s head obviously unsorted-out`、`your back going`、`Barbara’s cancer`、`Barry’s diabetes`），全部用所有格或省略动词的极简形式；`tipple topple` 是拟声叠词；括号里是编者式的自注（一个破折号引出的插入语，`it doesn’t exist in English but it ought to`）。
+**句子结构**：全句由破折号分成五段：主句是 `it’s as though one thing is bringing down another`（仿佛一件事把另一件带倒，`as though` 引导表语从句）；前面一串 `X’s Y` 的名词短语是主句的主语（`The world’s evil boiling over`，其中 `evil` 作定语、`boiling over` 是现在分词短语作后置定语）；中间一串是四个并列的同位说明（`Neil’s head obviously unsorted-out`、`your back going`、`Barbara’s cancer`、`Barry’s diabetes`），全部用所有格或省略动词的极简形式；`tipple-topple` 是拟声叠词；括号里是编者式的自注（一个破折号引出的插入语，`it doesn’t exist in English but it ought to`）。
 
-**关键词**：the world’s evil boiling over（世界的恶意沸腾外溢）、unsorted-out（没理顺的）、your back going（你的背在坏）、as though one thing is bringing down another（仿佛一件事带倒另一件）、tipple topple（东倒西歪；拟声叠词）、a sort of general degringolation（一种全面的「退行」；她自造词）
+**关键词**：the world’s evil boiling over（世界的恶意沸腾外溢）、unsorted-out（没理顺的）、your back going（你的背在坏）、as though one thing is bringing down another（仿佛一件事带倒另一件）、tipple-topple（东倒西歪；拟声叠词）、a sort of general degringolation（一种全面的「退行」；她自造词）
 
-**表达方式**：四个破折号把一句话切成五段，每段只给一个名词短语——`X’s Y` 的形式让每个短语都短促、无动词、像诊断书上的条目。`tipple topple` 是唯一的拟声（叠词），`a sort of general degringolation` 是唯一的抽象名词，而她立刻给它补上一个括号，声明这是她自己造的词、并主张英语应该收下它。
+**表达方式**：四个破折号把一句话切成五段，每段只给一个名词短语——`X’s Y` 的形式让每个短语都短促、无动词、像诊断书上的条目。`tipple-topple` 是唯一的拟声（叠词），`a sort of general degringolation` 是唯一的抽象名词，而她立刻给它补上一个括号，声明这是她自己造的词、并主张英语应该收下它。
 
 **为什么这样写**：这封信写于 9 月 11 日后两周多，四个被点名的人（Neil、Edward、Barbara、Barry）此后都各有各的塌法——这句话是全书**给后文排的雷**。语言上最值得学的是这个「五个破折号段落」的长句技术：不用 and 也不用分号，只靠破折号与 `X’s Y` 的定语结构，读者就有一种被连击的节奏。`unsorted-out` 这个带连字符的形容词也是她自造的——与 `degrading/degringolation` 同一类造词动作：**她给自己找不到的词就造一个，并且声明这是英语的缺口。**
 
