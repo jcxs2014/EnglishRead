@@ -67,7 +67,7 @@ modified: "2026-09-27"
 | 她当时的处境：`What I must say was ‘wonderful’ and damn’ well sound as though I meant it` | 论证 | 支撑 ch08 那条「**编辑的实际工作不可见**」的**最清楚形态**（**说违心的话并让它听起来像真的**） |
 | `this was one of our most valuable authors; even if his book had been really bad rather than just flawed we would certainly have published it` | 论证 | 支撑「**商业判断在此让位于关系判断**」（对照 ch15 那条「一半内疚一半恼火」——这里她连恼火都没有） |
 | 拒绝的后果（`Vidia looked disconcerted`、他道歉、他 agent 当天通知撤回） | 案例 | 支撑 ch13 那条「**一次拒绝会走多远**」 |
-| André 的反击与她的反应（`he was seething`） | 案例 | 支撑 ch11 那条「**他是员工**」的**第二次**（对照 ch15 的 `nervous publisher backing against an author he admires`） |
+| André 的反击与她的反应（`he was seething`） | 案例 | 支撑 ch11 那条「**他是员工**」的**第二次**（对照 ch15 的 `there’s a nervous publisher backing against a wall if ever there was one`） |
 | 她的自陈：`My private sun did go back behind a film of cloud, but I am not the sort of person to be much affected by such things` | 自陈 | 支撑「**她的自我描述比她的实际反应更硬**」——对照 ch15 那句「**天平的摇晃**」 |
 | *Guerrillas* 当天售出：`Guerrillas was sold to Seeker & Warburg the day after it left us` | 事实 | 支撑「**她判断错的那本书，是那一年的成功**」这一**最残酷的收束** |
 | 1984 年他离开：`When Vidia really did leave us in 1984 I could see why – and even why he did so wrong` | 论证 | 支撑「**她后来理解了他的离开**」 |

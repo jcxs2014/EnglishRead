@@ -11,7 +11,7 @@ modified: "2026-09-27"
 - **出处**：Stet: A Memoir（Granta Publications 2000 初版；Grove Press 2001 美版）
 - **作者**：Diana Athill——叙述者「我」
 - **章节定位**：Part Two 六篇作家肖像之**第五篇**（正文 28 段，20,488 字符）。五部分：① 声明（`I know that I have sometimes been described as ‘one of the best editors in London’`）② 那本书怎么到手（`Ian didn’t like it`）③ 她要的**唯一**一次大改（`She was always glad to have such things pointed out`）④ *Good Behaviour* 为什么特别（`she manoeuvres her readers into collaboration`）⑤ 丈夫之死（`She was always more interested in what was happening around her`）与最后的通信（`I am glad, therefore, that our last exchange of letters was about her writing`）
-- **人物**：`Molly Keane`（本名，`M. J. Farrell` 是她的笔名）、`Peggy Ashcroft`（演员，说服她拿出稿子的人）、`Ian Parsons`（Chatto & Windus，拒了这本书的人）、`John Gielgud`（导演她四十年代的四部戏的人）、`Robert Keane`（她丈夫，三十多岁猝死）、`Sally`（她的大女儿，**六岁**）、`Virginia`（小女儿，本章末尾那位）、`André`（出版社老板）、`Humphries`（本段提到她有演出他的戏）
+- **人物**：`Molly Keane`（本名，`M. J. Farrell` 是她的笔名）、`Peggy Ashcroft`（演员，说服她拿出稿子的人）、`Ian Parsons`（Chatto & Windus，拒了这本书的人）、`John Gielgud`（导演她四十年代的四部戏的人）、`Robert Keane`（她丈夫，三十多岁猝死）、`Sally`（她的大女儿，**六岁**）、`Virginia`（小女儿，本章末尾那位）、`André`（出版社老板）
 - **书名**：*Good Behaviour*（1981，Ian Parsons 拒了，后由**本公司**出版）、十一本笔名小说（`the eleven early novels`）、*Loving and Giving*（她的最后一本）、她四十年代写的**四部戏**、*Remembrance of Things Past*（**Andre Gide** 拒了的那本，被她用作对照）
 - **地名**：London、Chatto & Windus、Norfolk、Suffolk、Cork、Waterford、East Anglia、Oxford、Ireland
 - **刊物/公司**：André Deutsch Limited、Chatto & Windus、*The Daily Telegraph*（Gielgud 悼文）

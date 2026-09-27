@@ -121,7 +121,7 @@ modified: "2026-09-27"
 
 **关键词**：It’s not any fun any more（已经一点意思都没有了）、is what he said（他就是这么说的）
 
-**表达方式**：用 **`what he said`** 这一表语从句把**引语放到主语位置**，从而使这句话**不带任何转述框架**（没有「他说」「他觉得」「他认为」）——整章里她对安德烈说过的话做过详细转述（`he would … grumbling`），而这一次她只给出这一句。
+**表达方式**：用 **`what he said`** 这一表语从句把**引语放到主语位置**，从而使这句话**不带任何转述框架**（没有「他说」「他觉得」「他认为」）——整章里她对安德烈说过的话做过详细转述（`He began to see almost everything that Tom did as wrong, and to complain endlessly`），而这一次她只给出这一句。
 
 **为什么这样写**：这一句是全章**唯一一次**她让他给自己的失败下定义，而他的定义里**没有一个字提到自己**——`It’s not any fun any more` 的主语是**it**（这件事），而「谁不 fun」这一层被完全省略。省略掉的那个主语，恰恰就是本章剩下的全部内容（卖公司、被逐出、健康恶化）。这个省略与她 ch04 里那句 `he was still always and evidently doing it for the company’s sake` 是同一种修辞：**他把公司放在句子的主位上**。而这一句之所以成为全章的支点，是因为她此后写下的每一件事（`the firms which had combined into conglomerates could always outbid us`、那场 `About eight hundred copies` 的会议、书单上那些 `obvious … attempts`）都是对这句话的**具体化**——`not any fun` 就是这些东西的总和。
 

@@ -44,7 +44,7 @@ modified: "2026-09-27"
 | 唯一的例外：`Only John Davenport, a good critic who had become Alfred’s friend out of admiration for his writing, spoke out with perceptive enthusiasm` | 案例 | 支撑「**唯一因作品而非人情与他相交的人**」 |
 | 通信的三个 `Why`（`Why haven’t you written?` / `Why didn’t you let me know about publication?` / `Why haven’t you sent me copies?` / `Why haven’t you sent me reviews?`） | 结构 | 支撑 ch13 那条「**一个词两种意思**」的**再现**——这里作者问的是**关心**，而她懂的是**流程** |
 | 她的辩解：`I did tell you publication date, I have sent you copies – or rather, copies were sent` | 案例 | 支撑 ch08 那条「**编辑的实际工作不可见**」的最纯粹形态（`or rather` 那三个字） |
-| `nervous publisher backing against an author he admires` | 论证 | 支撑 ch11 那条「**他是员工**」的**第一次**实例 |
+| `there’s a nervous publisher backing against a wall if ever there was one` | 论证 | 支撑 ch11 那条「**他是员工**」的**第一次**实例 |
 | 1973 年的必接：`I could not have rejected The Exquisite Corpse, because it seemed – still seems – to me to draw the reader into itself with irresistible seductions` | 论证（中心） | 支撑全章的中心判断：**这本书的引力**（`still seems` 表示**五十年后仍如此**） |
 | 读法（`you must read it as a child in that you must read it simply for what happens next`）与 `Consequences` 这个游戏的解释 | 论证 | 支撑「**技术不是实验**」这一判断 |
 | 「纸被折起」的结构：`it’s as though the paper were folded between each chapter` | 类比 | 支撑「**章节之间彼此不相识**」这一形式特点 |
