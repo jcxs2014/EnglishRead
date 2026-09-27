@@ -20,7 +20,7 @@ modified: "2026-09-26"
 中文理解：那个相框？对，也许正是相框改变了这一切。
 关键词：The frame, changed things
 为什么这样写：把 Hana 的康复归因给一件礼物——自问自答的两拍像孩子在做因果实验；"也许"保留谦虚：科学不明的奇迹，家里先给它指派一个最小可用的解释。
-读者视角提示：回看 ch45 相框那一课：Yui 教的是"切块看世界"，Hana 学到的却是"有人透过相框看你"——同一件道具，两种疗效。
+读者视角提示：回看 ch46 相框那一课：Yui 教的是"切块看世界"，Hana 学到的却是"有人透过相框看你"——同一件道具，两种疗效。
 
 > **原句 2:** "And Hana loved reaching out her hand and finding Yui at her fingertips. If not to the right then to the left, at exactly the same height as her father and grandmother."
 

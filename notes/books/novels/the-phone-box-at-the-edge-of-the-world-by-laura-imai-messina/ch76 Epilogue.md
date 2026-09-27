@@ -33,7 +33,7 @@ modified: "2026-09-26"
 中文理解：那一天，毫无预兆地，Yui 被恢复了那个头衔。这是他们的儿子第一次叫她"Mum"。
 关键词：reinstated with the title, the first time, ‘Mum’
 为什么这样写：头衔的官复原职用一纸人事令宣布——reinstated（复职）是全书最重的行政词：她丢过母亲这个职位（女儿死了），如今被一声奶音重新聘用；"without warning"保证奇迹的不可预约性。
-读者视角提示：对照她"敢不敢用那个词"（ch69）：命运替她解决了辞职焦虑——孩子根本不看资格证，先喊为敬。
+读者视角提示：对照她"敢不敢用那个词"（ch70）：命运替她解决了辞职焦虑——孩子根本不看资格证，先喊为敬。
 
 > **原句 4:** "Everything always came back; it just needed to be called by the right name."
 

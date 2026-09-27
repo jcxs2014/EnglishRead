@@ -34,7 +34,7 @@ modified: "2026-09-26"
 中文理解：她意识到，没必要把少年的声音攥在自己的记忆里：它已经在那里了——在 Bell Gardia 的花园里，与那么多别的声音系在一起。
 关键词：no need to hold onto, already there, tied to the voices
 为什么这样写：记忆的私有制在此被废除——声音不收藏在脑内而是寄存在花园；"tied to"（系在）把风之电话写成一根公共的线，每个打电话的人都是线上的一结。
-读者视角提示：这是"广播理论"（ch11）的第一枚情感果实：她放心了，因为声音有处可归。
+读者视角提示：这是"广播理论"（ch12）的第一枚情感果实：她放心了，因为声音有处可归。
 
 > **原句 4:** "And then one day, in a kitchen of a kingdom not too far away, someone would cut open the stomach of a mackerel, or a yellowtail, and those words would spill out."
 

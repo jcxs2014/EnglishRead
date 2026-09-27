@@ -34,7 +34,7 @@ modified: "2026-09-26"
 中文理解：玩开火车（Hana 抓住 Akiko 拴在挎包上的带子，Akiko 就说：呜——呜——出发咯！）。
 关键词：Playing trains, the strap, Choo, choo. Off we go!
 为什么这样写：一句游戏写尽母亲的发明力——挎包带随手一拴就是车厢挂钩；拟声的"Choo, choo"是 Akiko 的声纹存档：Hana 记忆里的妈妈，是有音效的。
-读者视角提示：对照 Hana 后来站在窗边看火车（ch35）：她还在看车，只是再没人喊"出发咯"。
+读者视角提示：对照 Hana 后来站在窗边看火车（ch36）：她还在看车，只是再没人喊"出发咯"。
 
 > **原句 4:** "Opening their mouths when it rained and saying, ‘How delicious! Compliments to the chef!’"
 

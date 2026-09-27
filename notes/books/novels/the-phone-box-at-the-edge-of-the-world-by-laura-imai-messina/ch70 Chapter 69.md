@@ -33,7 +33,7 @@ modified: "2026-09-26"
 中文理解：悲伤，Yui 曾对他说，是你每天都要咽下的东西——像切成小块的三明治，轻轻咀嚼，再平静地吞下。消化很慢。
 关键词：ingest every day, a sandwich cut into small pieces, Digestion was slow
 为什么这样写：她把哀悼写成饮食制度——小份、慢嚼、按时摄入：悲伤不可绝食也不可暴食；"Digestion was slow"五个词是全书对时间感的最准概括：悲痛没有疗程表，只有代谢速度。
-读者视角提示：记住这个三明治：它将与 Hana 便当清单（ch56）同框——这个家的疗愈与喂养共用一套厨房哲学。
+读者视角提示：记住这个三明治：它将与 Hana 便当清单（ch57）同框——这个家的疗愈与喂养共用一套厨房哲学。
 
 > **原句 4:** "And so, Takeshi thought, joy must work the same way."
 

@@ -27,7 +27,7 @@ modified: "2026-09-26"
 中文理解：那一刻，多年来被导入 Bell Gardia 的所有声音轰然涌起，把她团团围住。它们旋成一架风车，一圈停不下来的环舞绕着她盘旋。
 关键词：all the voices, surged up, ring-o’-roses
 为什么这样写：广播理论的具象化终极版——积攒多年的话语被风从亭子里倒灌出来；ring-o'-roses（孩子围圈唱跳的游戏）让千头万绪的亡魂合唱拥有童谣的形式：恐怖与温柔在同一阵风里结成联盟。
-读者视角提示：这一幕是 ch11 广播理论的风暴兑现：她曾想象死者"在那边手拉手"——此刻他们手拉手绕着她转。
+读者视角提示：这一幕是 ch12 广播理论的风暴兑现：她曾想象死者"在那边手拉手"——此刻他们手拉手绕着她转。
 
 > **原句 3:** "Dead parents, lost children, missing friends and ancestors who had evaporated into history: the voices of all those who had been called by the Wind Phone were coming back to the place that had first summoned them."
 

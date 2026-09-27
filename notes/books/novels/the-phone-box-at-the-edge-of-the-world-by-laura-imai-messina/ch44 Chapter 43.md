@@ -34,7 +34,7 @@ modified: "2026-09-26"
 中文理解："陪我到我睡着，"小女孩央求道。
 关键词：Stay until I’m asleep, pleaded
 为什么这样写：过夜请求被压进一句童谣式的台词——她要的不是陪伴一晚，是"睡着的边界"有人守；pleaded 的力度暴露这句日常话的分量：对失母的孩子，入睡是每天一次的小别离。
-读者视角提示：与装睡讨抱（ch21）对照：从"假装睡着换取拥抱"到"要求陪到真睡着"——Hana 的安全感升级全在本章。
+读者视角提示：与装睡讨抱（ch22）对照：从"假装睡着换取拥抱"到"要求陪到真睡着"——Hana 的安全感升级全在本章。
 
 > **原句 4:** "She just wanted her there, in the same way a person might want a second coffee in the morning or an extra blanket in winter."
 

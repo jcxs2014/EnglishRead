@@ -48,7 +48,7 @@ modified: "2026-09-26"
 中文理解：他每次来都会带一个小袋子，用手小心提着以免压扁，里面装着两支他妻子生前最爱的香蕉鲜奶油特制泡芙。
 关键词：a little bag, banana-and-fresh-cream special eclairs
 为什么这样写：这是预叙——多年后的仪式被提前搬演；泡芙的数量、口味、"怕压扁"的手势构成悼亡的全部语法：爱退居成一种小心翼翼的物流。
-读者视角提示：两支泡芙——一支给亡妻，一支分给 Yui：本书写"共同哀悼"的方式从来不是语言，而是食物。
+读者视角提示：两支泡芙由两人分食：本书写"共同哀悼"的方式从来不是语言，而是食物。
 
 > **原句 6:** "Everyone said that: at first you hate it and then you slowly start to love it again, with the same excruciating emotion you might feel towards a son who has killed someone; in spite of everything, you’ll never be able to disown him."
 

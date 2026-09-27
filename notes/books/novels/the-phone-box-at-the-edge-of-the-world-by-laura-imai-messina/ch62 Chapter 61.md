@@ -26,7 +26,7 @@ modified: "2026-09-26"
 
 中文理解：现在想想，Keita 从没见过她走进那座电话亭。
 关键词：never seen her enter
-为什么这样写：旁观者无意间替全书保守最久的秘密盖章——Yui 的门槛（ch23）连外人都有目击记录；"Now that he thought about it"的迟疑节奏说明这是个悬而未决的谜，连少年都替她记着。
+为什么这样写：旁观者无意间替全书保守最久的秘密盖章——Yui 的门槛（ch24）连外人都有目击记录；"Now that he thought about it"的迟疑节奏说明这是个悬而未决的谜，连少年都替她记着。
 读者视角提示：她的没进门从私人悬疑变成公共事实：花园里所有人都见过她绕行——除了她自己的答案。
 
 > **原句 3:** "She hardly speaks, but when she does she says really funny things. She once confessed that, sometimes, when she thinks really hard about something, she ends up saying it out loud, without realising, and people think she’s a madwoman,’ Keita said, smiling."

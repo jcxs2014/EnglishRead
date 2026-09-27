@@ -20,7 +20,7 @@ modified: "2026-09-26"
 中文理解：那天晚上，Takeshi 在《广辞苑》日语词典（第五版）里查到的"家族"定义。
 关键词：The Definition of Family, that Evening, Fifth Edition
 为什么这样写：标题自带场景（that Evening）与考据（第五版）——他不是随手翻到，是专门去查的；被孩子问倒的父亲用工具书还账，严谨里全是温情。
-读者视角提示：这一章是 ch45 的"课后作业"：白天的 "And Yui-san?" 悬案，交给词典夜里开庭。
+读者视角提示：这一章是 ch46 的"课后作业"：白天的 "And Yui-san?" 悬案，交给词典夜里开庭。
 
 > **原句 2:** "A small group that is established based on marital, parental or sibling relations. Basic unit of social composition."
 
@@ -33,7 +33,7 @@ modified: "2026-09-26"
 
 中文理解：家（屋）。
 关键词：House
-为什么这样写：词条排版的边角被原样保留——"家族"的下一个字头是"家"：定义之前，先有一个屋顶；这一个词替 ch45 的汉字课（house＋tribe）交出字源学答案：家是房子，族是住在一起的人。
+为什么这样写：词条排版的边角被原样保留——"家族"的下一个字头是"家"：定义之前，先有一个屋顶；这一个词替 ch46 的汉字课（house＋tribe）交出字源学答案：家是房子，族是住在一起的人。
 读者视角提示：词典的物理顺序在此变成隐喻：先有"家"这个容器，才谈得上"家族"这种关系——Yui 那晚留下的过夜毯子，就是这个字的第一笔。
 
 ## 本章词汇

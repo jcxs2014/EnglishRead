@@ -48,7 +48,7 @@ modified: "2026-09-26"
 中文理解：一块现在吃，一块留着——好像她实在不愿意教女儿"幸福总会到头"这件事。
 关键词：One for now and one for later, happiness always came to an end
 为什么这样写：甜甜圈的数学对抗人生的算术——第二块不是食物是反驳证据：幸福没完，柜子里还有；母亲的溺爱在此升格为哲学教学：用一只甜甜圈教孩子质疑"结束"。
-读者视角提示：与 ch31"最坏的也会结束"互为镜像：Yui 学会坏有尽头，母亲教过她好有后备——两种信仰各持一半真理，合起来才是本书。
+读者视角提示：与 ch32"最坏的也会结束"互为镜像：Yui 学会坏有尽头，母亲教过她好有后备——两种信仰各持一半真理，合起来才是本书。
 
 > **原句 6:** "As if the two memories were connected in some way, Yui recalled a day in April, when her daughter’s mouth was full, her cheeks bulging, and she said her first full sentence: I want lots of cake."
 
