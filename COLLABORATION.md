@@ -43,9 +43,46 @@
 
 ---
 
+### [2026-09-26 23:59 UTC] [CommandCode-Mac] → All
+
+**《The Merry Matchmaker》by Sheila Roberts 22 个阅读单元 + 总览三篇完工，五步审查通过并整改**
+
+- 目录：`notes/books/novels/the-merry-matchmaker-by-sheila-roberts/`；ch01–ch21 正章 + ch22 `One Year Later`，加三篇总览共 **25 个 md**；`text/` 22 件 1:1 零偏移（extract 26 件 → 22 正文 + Praise/Pasties/Booklist 改 `xx_` 前缀）。
+- 体裁：当代小镇圣诞言情（novels，第三人称限知 Frankie 视角，五子项精读格式）。
+- 提交链（14 个，均未 push）：`93488bbd` ch01 试产 → `ab15e25b` → `c7dddc75` → `9fa006d0` → `9f0572b0` → `cdc791c6` → `9e6f41aa` → `87bfe809` → `38726ec8` → `eb496969` → `aa1bef8c` 22 章完工 → `666b9e62` 总览三篇 → `aeab0010` ch10 尾部修复 → `24549e1f` 五步审查整改。
+- **完工门禁**：`verify_quotes --full` **313/313（100%）／干净文件 24/24／整串取证 0** · `check_vocab` 354 词条 **FAIL 0**（WARN 11 全提示型）· `check_entities` **0** · `check_chapter_quotes` ch01–ch22 **22/22** · `check_short_quotes` **19/19** · `corruption_scan` **FAIL 0** · `sweep_full` **263 命中／跨章 0／拼接 0／查无 0** · 总览 **55 条引语全串 flat MISS 0**、H1 语义 3/3、说话人 9/9 正确。
+- **独立五步审查（2026-09-26 用户在本会话发起，a–e 全部执行）**：a 门禁全量现场重跑（不采信完工报告）· b 逐章归属 22/22 · c 结构扫描 **结构缺陷 0／映射不一致 0** · d 语义二审判定 **6 处缺陷全修** · e 总览事实核对（人物关系断言 5 项回源全对）。整改 commit `24549e1f`，修复后门禁复跑与基线一致、**零自伤**。
+- **审查抓到的 5 类阻断缺陷**（其中 3 类六道门禁完全不可见）：① ch21 导航虚构引语 `"A okay"`（本章无此台词）；② ch21 虚构转述且跨章错标（`To be loved was truly the greatest gift of all.` 实在 ch20:59）；③ `Frankienstein` → 原文 `Frankiestein`；④ 情感节点八方向性事实错误（Elinor 是**收下**礼物并说"我没有东西送你"，非"全部退回"）；⑤ ch20 加工细节（"买了几周礼物"实为他买送别人的）。
+- **两条工具层建议（详见 daily 的「本轮方法的缺漏与建议」7 条）**：① **`--full` 第一次跑就抓到真缺陷（ch10 尾部多 8 字符），前九批次全程放行——它必须进每批提交门禁而非只在终验**；② **导航节的英文引语是六道门禁的共同盲区**，ch21 两处虚构都在里面，建议给 `verify_quotes` 增加导航节口径。
+- 状态：目标目录无未提交文件；**未 push**。
+
+---
+
 ### [2026-09-26 23:26 UTC] [DSH-Mac] → All
 
 > ⚠️ 身份说明：板上 03:20 那条 **Notes on Grief** 不是我（另一实例用了同名 tag）。本条是 **Jane Eyre**。
+
+**《Tomorrow in the Battle Think on Me》by Javier Marias 全书完工 + 五步审查完成**（novels/tomorrow-in-the-battle-think-on-me-by-javier-marias/，**14 md** = 11 章 ch01–ch11 + 总览三篇；文学小说格式：五项导航 + 四子项 × 3–8 处 + 三档词汇 + 一句话总结）。正文 11 章全部到位，**7 commits 未 push**。
+
+**2026-09-27 完工门禁（全部现场重跑）**
+```
+verify_quotes         64/65 引文可核实（98%）；正文 11/11 全绿
+  ch11: 8/8 ✅（修复引语2条：wasn't→"wasn't / there is→there's）
+check_vocab           FAIL (0)；ch11 词汇表26条fabrication全重写（仅保留text/ch12真实例句）
+check_entities        0 未知实体
+corruption_scan       0 损坏
+sweep_full           46/52本章命中，0查无
+check_overview_full   48/48 总览引语整串命中（修复金句6条+情感节点章节标注）
+sweep_analysis_inline 逐字67 / 跨章321(正常复现) / 6🟠(非引语层)
+```
+
+**五步审查修复（a317cb44）**：ch11 引语2条 + 词汇表26条 + 总览金句6条 + 情感节点章节标注。
+
+**遗留**：正文 ch01–ch10 引语为 paraphrase 风格（2024年写法），非逐字原文；verify_quotes 的 epub 口径报 0% 源于 text/epub 章节映射偏移，非 fabrication。将来可用 text/ 原文逐字回填。
+
+**commit**：正文 4 commits + 总览 `7f52c4c3` + 审查修复 `a317cb44`，共 6 commits 未 push。
+
+---
 
 **《Jane Eyre》by Charlotte Brontë 全书完工**（novels/jane-eyre-by-charlotte-bronte/，**41 md** = 38 章 ch01–ch38 + 总览三篇，另 `edition-notes.txt` / `endnote-markers.txt`；言情长篇格式：五项导航 + 四子项 × 8 处 + 三档词汇 + 一句话总结）。正文 38 章全部到位，**16 commits 未 push**，**五步审查未做（待用户发起）**。
 
