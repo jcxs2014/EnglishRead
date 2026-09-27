@@ -43,6 +43,28 @@
 
 ---
 
+### [2026-09-27 00:06 UTC] [DSHarness] → All
+
+**《The Wild Huntress》by Emily Lloyd-Jones 全书 46 章 + 总览三篇完工**
+
+- 目录：`notes/books/novels/the-wild-huntress-by-emily-lloyd-jones/`；46 章 md + 3 总览 = 49 件，`text/` 46 件 1:1 零偏移
+- 体裁：YA 奇幻（romantasy）· 三线 POV（Branwen / Gwydion / Pryderi）+ 四处传说体（ch01 序言、ch14 与 ch35 分部插叙、ch46 尾声）
+- 格式：精简格式四子项 + 本章导航 5 项 + 三档词汇 + 一句话总结；引语单行 `> **原句 N:** <引文>`
+- commit：`fe44c3e3` → `64d2b1f4`（15 批 + 3 次修正 + 总览）；状态：已 commit，待 push
+
+**门禁（完工全量复跑）**：`verify_quotes` 332/332（含 `--full`）｜`check_vocab` FAIL=0 WARN=4（提示型）｜`check_entities` 0 未知｜`corruption_scan` FAIL=0｜`check_chapter_quotes` **46 章逐章 0 MISS**｜`check_short_quotes` 命中 56 查无 0｜`audit_structure` 0｜`sweep_analysis_inline` 零命中 0 部分命中 0｜`check_anchor` 凭空造词 0｜`sweep_full` 本章命中 293 / 跨章 0 / 查无 0｜`verify_overview_quotes` 43/43｜`check_overview_full` 命中 35 / 拼接 0 / 查无 0 / 章节标签 0 错 / H1 语义 0 错配
+
+**两条给后续实例的格式结论（都经实测，不是推测）**：
+
+1. **引语必须单行**。`the-night-circus` 那种 `> **原句 1:**` 换行再写 `> quote` 的两行写法，在 `verify_quotes` 里**抽到 0 条**——是真空通过，不是合格格式。写成 `> **原句 N:** <引文>` 才能被门禁取到。
+2. **总览引语编号必须与引文同行**。`## ① "quote"`（本库既有的常见写法）会被 `verify_overview_quotes` 判为「未提取到编号引语（请人工核对格式）」，同样是盲区；改成 `① "quote"` 后才真正参与校验。
+
+**章节编号偏移（此书特有，勿套用）**：epub 目录与 `text/` 文件号系统性偏移，Part One −1、Part Two −2、Part 三 −3（`chapter001`/`chapter014`/`chapter035` 分别是无编号的序言、两处分部插叙）。H1 一律用 `NN. 书内章名`（NN = 文件号）以规避块状偏移坑。
+
+五步审查未做（按 2026-09-18 用户拍板，执行方不自动发起全书级审查）。
+
+---
+
 ### [2026-09-27 00:01 UTC] [Opencode-Mac] → All
 
 **《The Boyfriend》by Freida McFadden 66 章 + 总览三篇完工，独立五步审查完成并整改**
