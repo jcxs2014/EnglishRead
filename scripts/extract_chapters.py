@@ -24,23 +24,26 @@ from urllib.parse import unquote
 #      既吞空格又丢词。
 # 34 章里 ① 命中 9 章、② 命中 6 章。标签层是唯一可靠口径。
 DROP_RE = re.compile(
-    r'<span class="dropcap-rw">([^<]*)</span>\s*'
-    r'<span class="smallcaps-rw">([^<]*)</span>')
+    r'<span class="dropcap-rw">([^<]*)</span>( ?)<span class="smallcaps-rw">([^<]*)</span>')
 
 def _fix_dropcap_markup(t: str) -> str:
     def rep(m):
-        head = m.group(1).strip()
-        small = m.group(2).replace('\u200b', ' ').strip()
-        words = small.split()
-        if not words:
+        head, gap, small = m.group(1).strip(), m.group(2), m.group(3).replace('\u200b', ' ')
+        small = small.strip()
+        if not small:
             return head
-        # 排版语义：**smallcaps 的首词是 head 首字母所在那个词的延续**——
-        # dropcap="T" + smallcaps="HE LAST DAY" ⇒ "THE LAST DAY"（同一个词 THE）。
-        # 首词把 head 拼回去（"T"+"HE" → "the"），其余词各自成词；
-        # 整句首字母再还原为大写（原文是句首，句法要求大写）。
-        merged = [(head + words[0]).lower()] + [w.lower() for w in words[1:]]
-        merged[0] = merged[0].capitalize()
-        return ' '.join(merged)
+        # 排版有两种形态，本书两种都有（B 形态 8 章：A MAN / I AWOKE / A MONTH…）：
+        #   A 形态（首个词被 dropcap 拆开）：gap 为空
+        #        "<span>T</span><span>HE LAST DAY" ⇒ "THE LAST DAY"（T+HE=THE）
+        #   B 形态（dropcap 是独立单字母词）：gap 为一个空格
+        #        "<span>A</span> <span>MAN CAME TO" ⇒ "A MAN CAME TO"
+        # **判据只能是这个空格本身**：dropcap 与 smallcaps 都是全大写，
+        # 纯文本层分不出 "T"+"HE"（同词）与 "A"+"MAN"（异词）——
+        # "AN"/"IN"/"TH" 全都是合法的已拼好词。原始 HTML 的间隔是唯一可靠信号。
+        joined = (head + small) if gap == '' else (head + ' ' + small)
+        # 末词后原文有空格要补回（"I FOUND " + "a letter" ⇒ 不能拼成 "FOUNDa"）
+        tail = ' ' if m.group(3).replace('\u200b', '').endswith(' ') else ''
+        return re.sub(r'\s+', ' ', joined).strip() + tail
     return DROP_RE.sub(rep, t)
 
 
