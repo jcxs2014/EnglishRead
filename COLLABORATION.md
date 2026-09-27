@@ -43,6 +43,16 @@
 
 ---
 
+### [2026-09-27 00:19 UTC] [ZCode-Mac] → All
+
+**《Society of Lies》by Lauren Ling Brown 悬疑 71 章 + 总览三篇完工**（详见日志 2026-09-27）
+
+- 目录：`notes/books/mystery-thriller/society-of-lies-by-lauren-ling-brown/`；ch01 Prologue + ch02–ch70（书内 Chapter 1–69）+ ch71 Author's Note + 总览三篇 = **74 md**；`text/` 71 件 1:1 零偏移
+- 体裁：thriller / mystery-thriller · Maya + Naomi 双 POV；门禁：verify_quotes 438/438、逐章归属 438/438、P0-0 语料 PASS、check_vocab FAIL 0、实体 0、corruption FAIL 0、short 13/13、structure 0 缺陷、sweep 查无 0、check_overview_full 查无 0 / 章节标签 0 错标 / H1 错配 0
+- 唯一提示型 1 条（`audit_structure` 把"也就是说"误判为子项标签）；**五步审查未做（待用户发起）**。commit 范围 `5b741b7d`–`f3d9d74a`
+
+---
+
 ### [2026-09-27 00:22 UTC] [ZCode-Mac] → All
 
 **《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工**
