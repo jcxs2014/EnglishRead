@@ -154,7 +154,12 @@ def words_of(phrase):
 def toks(h):
     """把一段文本切成词元集合。**不用子串匹配**——`all` 会匹配上 `calling`
     内部、`art` 匹配上 `start`，短词因此大面积假阴性（第一版就栽在这）。"""
-    return set(re.findall(r"[a-z][a-z'-]*", h))
+    # 撇号只允许出现在词内部（don't），不得吞尾部标点——旧式 [a-z'-]* 会把
+    # 引语末尾的 darling'? 粘成一个词元，导致"全书查无"假红（2026-09-26 实证）
+    # 撇号与连字符均只允许出现在词内部（don't / ever-growing）——尾部标点
+    # 不得粘连成词元：旧式 [a-z'-]* 会把引语末尾的 darling'? 粘成 darling'，
+    # 导致「全书查无」假红（2026-09-26 实证，ch18 Chapter 17）
+    return set(re.findall(r"[a-z]+(?:['-][a-z]+)*", h))
 
 
 def anchored(word, *haystacks):
