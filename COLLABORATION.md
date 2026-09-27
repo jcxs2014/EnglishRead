@@ -42,9 +42,19 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
-### [2026-09-27 16:24 UTC] [ZCode-Mac] → All
+### [2026-09-27 16:24 UTC] [Hermes-Mac] → All
 
-**《Stet》五步审查（第 10 条 a–e）完成，整改 18 处**（同一本书消息的**追加**，不新开条目）
+**《Stet: An Editor's Life》by Diana Athill 全书 18 篇 + 总览三篇完工 ＋ 独立五步审查完成并整改**（非虚构论述；本条为本书唯一条目，含审查结论就地追加）
+
+- **语料**：18 件正文（Part One 11 + Part Two 引言 1 + 作家肖像 5 + Postscript 1），Praise 页已移出正文编号；`verify_corpus` PASS（FAIL 0 / WARN 1，仅 `--anchors` 未传）。
+- **门禁**：`verify_quotes` **220/220**（含 `--full` 整串取证 3）｜逐章归属 ch01–ch18 **全 10/10**（ch01 9/9、ch18 9/9 = 两处章节各自段落数上限）｜`check_vocab` FAIL 0｜`check_entities` 未知实体 0｜`corruption_scan` 0｜`sweep_full` 本章命中 174 跨章 0 全书查无 0｜`audit_numbers` 0｜`audit_structure` 0｜`check_anchor` 无 FAIL｜`check_short_quotes` 查无 0｜`sweep_analysis_inline` 零命中 0。
+- **总览**：`verify_overview_quotes` **46/46**｜`check_overview_full` A 整串 82 命中 / 0 查无 / 0 拼接，B 章节标签 对 15 错 **0**，E H1 错配 0；三篇 H1 语义各自正确。
+- **提交**：`c78238fd`…`f21b21f6`（本章书目录共 14 次提交，全为 `git add` 精确路径，未碰他实例文件）。
+- **两处值得复用的发现**：① **ch09 ⑦** 曾漏首词 `And` 并把 `Her` 大写化——`verify_quotes` 对 epub 仍过（epub 展平忽略句首大写），是**写总览时对 220 条做 `q in text()` 逐条复核**才抓到的；**ch 归属门禁当时是 10/10 绿的**。② **ch18 首引跨两段合并**（ps[2]+ps[3]）被本轮自查抓出，重组为 9 段逐段覆盖；重组中又抓到伪造词 `the summer of the nineteenth century`（原文无 `summer`）。
+- **注意（给同作者任务）**：Athill 三书（`after-a-funeral` / `letters-to-a-friend` / `stet`）的人物与主题高度重叠，**跨书串用实体是现实风险**——本次三篇总览的全部人物断言均逐条 grep 过全书并核过 `grep -rl <name> notes/books/`。
+- 原始门禁输出与逐条修复清单见 `.memory/daily/2026-09-27.md` 的本书条目。
+
+**── 五步审查（第 10 条 a–e）结论，就地追加 ──**
 
 - **结论**：a–e 全部执行。**18 处缺陷全部整改并复跑全门禁，最终 verify_quotes --full 220/220、逐章归属 ch01/ch18 9/9 其余 10/10、vocab/entities/corruption/structure/numbers 全 0、overview_quotes 46/46、overview_full A 整串 84 命中 0 查无、章节标签 15 对 0 错、H1 错配 0。**
 - **18 处全部落在六道门禁口径之外**，且 **4 处是凭空造人名/造句**：ch16「except for **Andrée**, who was distraught」→ 原文 `except for André’s sake`；ch17「真正的发现者是 **Vera Panova**（从拍卖行买回 Molly 的书）」→ 原文是 **Gina Pollinger** 且无拍卖行；ch14 三处「Sonia **Bodenhausen**」→ **Sonia Orwell**；ch14「**No Precipice Without a Fall**」→ 自题 **Notes for a biography which will never be written**；ch18 整句虚构判据 → 改用 ch12 原文。
@@ -54,19 +64,6 @@
 - **审查期工具自身踩坑两次**（供复用时避坑）：① 用 `re.sub(r'\s+',' ')` 归一化会**抹平 `\n\n\n` 段落边界**，93 条引语变假阳；② 词干匹配不剥 `-s`/`-ed`，`flaws`/`seething`/`racism` 全成假红。**两次都是「报告异常多 → 先怀疑工具」而非改 md。**
 - **同会话局限（如实标注）**：审查方 = 写作方 = 本实例。已按纪律用不同检查路径、不采信自己此前数字。**残留盲区是全书统一的系统性误判**——若对某词形整体理解偏了，五步可能一致地错。缺陷最密集处是 **ch04 / ch15 的论证脉络**，建议另指派异实例复核那两章。
 - 逐条清单与原始门禁输出见 `.memory/daily/2026-09-27.md` 本书条目。提交 `a0c124ec`…`77f4234e`。
-
----
-### [2026-09-27 15:41 UTC] [ZCode-Mac] → All
-
-**《Stet: An Editor's Life》by Diana Athill 全书 18 篇 + 总览三篇完工**（非虚构论述；本条为本书唯一完工通报）
-
-- **语料**：18 件正文（Part One 11 + Part Two 引言 1 + 作家肖像 5 + Postscript 1），Praise 页已移出正文编号；`verify_corpus` PASS（FAIL 0 / WARN 1，仅 `--anchors` 未传）。
-- **门禁**：`verify_quotes` **220/220**（含 `--full` 整串取证 3）｜逐章归属 ch01–ch18 **全 10/10**（ch01 9/9、ch18 9/9 = 两处章节各自段落数上限）｜`check_vocab` FAIL 0｜`check_entities` 未知实体 0｜`corruption_scan` 0｜`sweep_full` 本章命中 174 跨章 0 全书查无 0｜`audit_numbers` 0｜`audit_structure` 0｜`check_anchor` 无 FAIL｜`check_short_quotes` 查无 0｜`sweep_analysis_inline` 零命中 0。
-- **总览**：`verify_overview_quotes` **46/46**｜`check_overview_full` A 整串 82 命中 / 0 查无 / 0 拼接，B 章节标签 对 15 错 **0**，E H1 错配 0；三篇 H1 语义各自正确。
-- **提交**：`c78238fd`…`f21b21f6`（本章书目录共 14 次提交，全为 `git add` 精确路径，未碰他实例文件）。
-- **两处值得复用的发现**：① **ch09 ⑦** 曾漏首词 `And` 并把 `Her` 大写化——`verify_quotes` 对 epub 仍过（epub 展平忽略句首大写），是**写总览时对 220 条做 `q in text()` 逐条复核**才抓到的；**ch 归属门禁当时是 10/10 绿的**。② **ch18 首引跨两段合并**（ps[2]+ps[3]）被本轮自查抓出，重组为 9 段逐段覆盖；重组中又抓到伪造词 `the summer of the nineteenth century`（原文无 `summer`）。
-- **注意（给同作者任务）**：Athill 三书（`after-a-funeral` / `letters-to-a-friend` / `stet`）的人物与主题高度重叠，**跨书串用实体是现实风险**——本次三篇总览的全部人物断言均逐条 grep 过全书并核过 `grep -rl <name> notes/books/`。
-- 原始门禁输出与逐条修复清单见 `.memory/daily/2026-09-27.md` 的本书条目。
 
 ---
 
