@@ -29,7 +29,7 @@ modified: "2026-09-27"
 | 1 | 22 NOVEMBER 2006 · `Darling,` | 体检结果 dealable；医生的好话；三片药与停药实验；`the body heals itself` 按年龄打折；十二人聚餐、Henry 的手艺、Barry 抢蛋糕（`senility has set in`）；Georgia 的糖尿病巧克力 | 把「晚年」这个主题摆到台面上：药的账目第一次被逐条列出 |
 | 2 | 7 DECEMBER 2006 · `Darling Edward,` | 电脑不肯显示新邮件；Barbara 去 Stockholm 看孙子（Adam 与 Georgia 去参加诺贝尔宴会）；Hannah-sitting（坏心脏、太重、楼梯）；交稿与那句关于篇幅的自嘲（`more that 40,000 words long`）；Ian Jack 递辞呈 | 全组的技术焦虑线开端；也把「书要出了」这条好消息铺好 |
 | 3 | 12 JANUARY 2007 · `Darling Edward –` | 交稿后 `touching wood`；`to rejoice or to rend my raiment`；感冒转成鼻窦感染；Barry 食物中毒与楼梯摔倒；Jess 争取到心脏与神经两项检查；Lloyd 回牙买加；`touch wood for Somewhere Near the End` | 医疗线第一次被「专业」接手（Jess），也为后文她自己的退场做铺垫 |
-| 4 | 14 JANUARY 2007 · `Darling E,` | 夸诗集名 `I’m good at titles`；二月 `is the pits`；重感冒；拒绝去看那本写秘密警察的书；Alice Herz-Sommer 一百零三岁 | 全组的思想题：老年人该不该反复想着恶；引出 ch17 后记的同一问题 |
+| 4 | 14 JANUARY 2007 · `Darling E,` | 夸诗集名 `I’m good at titles`；二月 `is the pits`；重感冒；拒绝去看那本写秘密警察的书；Alice Herz-Sommer 一百零三岁 | 全组的思想题：老年人该不该反复想着恶；与 ch17 后记同属年龄议题，但两处问的不是同一个问题 |
 | 5 | 15 FEBRUARY 2007 · `Darling,` | 结肠造口误报（`mistyped colonoscopy`）；Barbara 母亲的例子；打印机坏了；`a freakish early spring` 与圣诞花环里的知更鸟；Barry 的白内障与两所眼医院；答应当评委；狗展 `Best of Show` 类比 | 把「年纪」与「制度」两件事放在同一封信里对照 |
 | 6 | 16 FEBRUARY 2007 · `Darling –` | Ian Jack 确认接受书稿；`eight thousand pounds` 她当成自己听错 | 出版线的一个小高潮（钱的数额），也示范她耳背的写法 |
 | 7 | 21 FEBRUARY 2007 · `Darling,` | £8000 确认；`eight is nothing special`；墨盒卡在梳子状的塑料件上；看顾 Hannah | 承接上一封，机器线继续；语气是全书最轻松的一处 |
@@ -41,7 +41,7 @@ modified: "2026-09-27"
 | 13 | 9 OCTOBER 2007 · `Darling –` | 长时间沉默的解释（宽带 `disgreed`、Skype）；*Somewhere Towards* 卖给 Norton；Jane 三十五年前送养一女的全过程；`she has never stopped aching deep down`；New Zealand 那封认亲邮件；`this crowning piece of luck. Hurrah!`；方括号自纠年龄（十五岁、二十一岁）与 `To be the youngest grandmother in Rhodesia` | 全组唯一一条喜剧线；用别人的团圆照亮自己这一年的失去 |
 | 14 | 30 OCTOBER 2007 · `Darling –` | 诗集题献（`for Diana Athill`）；嫌封面 `The lugubriousness of the jacket`；定下床头书的规矩（每晚三四首）；`go greedily on to the next one`；祝爱德华 `as proud as you ought to feel`；`the shenanigans of publication` | 全组唯一一次以「读者」身份出现；也把「怎么读诗」讲成一件要自律的事 |
 | 15 | 3 NOVEMBER 2007 · `Darling –` | 读到 `3.15 in the morning`；`the best thing ever, or so it strikes me`；`How I do love Edward!`；Beth 上门、第二次见面 `went like wedding bells`；Hay Literary Festival；《卫报》采访、Daily Telegraph 与 Saga 的转载、卖给 Norton；Phil 的三场午餐会（12 月 14、15、16）取代酒会 | 把「成名」这条线推到最热闹处，同时把她的九十岁生日摆到日程上 |
-| 16 | 5 NOVEMBER 2007 · `Darling,` | `so many books sold!`；`how reviving an enjoyable occasion is`；与 Clytie、Peter 去 Tate（门口台阶、大理石长廊、`arthritic hips`、美术馆的轮椅）；`you’re a mere octo`；Barry 走后不再切洋葱烤猪肉；`nurturing of one’s ravenous ego`；一个人的简餐与三顿请客；`May you have many more alert and appreciative audiences!` | 全书的收束：把「让人活过来的东西」与「喂养自尊」分开；末句与 ch17 后记的问句直接相接 |
+| 16 | 5 NOVEMBER 2007 · `Darling,` | `so many books sold!`；`how reviving an enjoyable occasion is`；与 Clytie、Peter 去 Tate（门口台阶、大理石长廊、`arthritic hips`、美术馆的轮椅）；`you’re a mere octo`；Barry 走后不再切洋葱烤猪肉；`nurturing of one’s ravenous ego`；一个人的简餐与三顿请客；`May you have many more alert and appreciative audiences!` | 全书的收束：把「让人活过来的东西」与「喂养自尊」分开；末句与 ch17 后记的收束直接相接 |
 
 ### 核心金句
 
@@ -109,7 +109,7 @@ modified: "2026-09-27"
 
 **表达方式**：`just possibly` 是全句的支点：它把一个近乎道德命令的要求（应该去想着恶）降级成「也许有点用处」，于是后面那句「我们已经知道得够多了」才显得是权衡而不是任性。`dwelling on evil` 里的动名词直接当主语，让「沉溺」这件事变成一个可以评估其效果的客体——而评估的结果由 `strengthens` 这个第三人称单数的现在时动词落在实处（主语是动名词短语，动词仍取单数，这正是中文学习者容易看错的一处）。
 
-**为什么这样写**：这是她处理「要不要读坏消息」这类问题的一贯办法：**先承认对方的原则，再问这条原则在当下还划不划算**。她与爱德华谈的是那本写秘密警察的书（`I read that Stasi book and nothing would make me visit the place!`），而她的答案不是「不要读」，而是「读它的时机应该在精力最好的时候」。这个「时机论」在 ch17 后记里会再出现一次：年纪让「知道」这件事的边际收益下降，于是她把「继续读」也归入了「不值得」。
+**为什么这样写**：这是她处理「要不要读坏消息」这类问题的一贯办法：**先承认对方的原则，再问这条原则在当下还划不划算**。她与爱德华谈的是那本写秘密警察的书（`I read that Stasi book and nothing would make me visit the place!`），而她的答案不是「不要读」，而是「读它的时机应该在精力最好的时候」。这个「时机论」在后记里换了样子回来：她不再说「不值得知道」，而说写信的速度已经把回忆的乐趣挤走，于是干脆停笔（ch17）。
 
 ### ④
 
@@ -121,9 +121,9 @@ modified: "2026-09-27"
 
 **关键词**：at the end of big dog shows（在大型狗展的最后）、ridiculous things（荒唐事）、the Best of Show award（最佳展品奖）、on the one hand … on the other（一头……另一头）
 
-**表达方式**：一个日常笑话（狗展评奖）被用来解释一个制度性难题（评奖委员会要在传记与科普之间选一本）。机关在 `on the one hand` 与 `on the other`——这组词本来用于两方并列的平衡论证，这里被故意用来处理两个**无法比较**的对象，于是立刻产生反讽。这正是本书序章里那句「了不起的 writer 已贬值」的另一种说法：把不可比的东西放进同一个奖，本身就是问题。
+**表达方式**：一个日常笑话（狗展评奖）被用来解释一个制度性难题（评奖委员会要在传记与科普之间选一本）。机关在 `on the one hand` 与 `on the other`——这组词本来用于两方并列的平衡论证，这里被故意用来处理两个**无法比较**的对象，于是立刻产生反讽。这正是 ch03 ⑥ 里那句「了不起的 writer 已贬值」的另一种说法：把不可比的东西放进同一个奖，本身就是问题。
 
-**为什么这样写**：她做 Samuel Johnson 非虚构奖的评委，最难的不是读不完的书，而是「好书之间怎么比」。她给的解法是一个类别错配的比喻：品种犬评选本身就荒谬，因为它把标准完全不同的东西放在一个奖下面。信里她随即说 `one of the qualities we judges are supposed to take into account is ‘reader friendliness’`——于是这个比喻还顺带解释了一件让评委为难的事：他们被要求使用的那个标准（可读性）本身就是可疑的。
+**为什么这样写**：她做 Samuel Johnson 非虚构奖的评委，最难的不是读不完的书，而是「好书之间怎么比」。她给的解法是一个类别错配的比喻：品种犬评选本身就荒谬，因为它把标准完全不同的东西放在一个奖下面。同一组稍后那封（16 MARCH 2007）里她说 `one of the qualities we judges are supposed to take into account is ‘reader friendliness’`——于是这个比喻还顺带解释了一件让评委为难的事：他们被要求使用的那个标准（可读性）本身就是可疑的。
 
 ### ⑤
 
@@ -165,7 +165,7 @@ modified: "2026-09-27"
 
 **表达方式**：句子把「会发生的坏事」与「避免它的条件」压进同一句：前半是 `an old person in hospital`（一个没有名字的人），后半是 `they get properly looked after`（一个复数的 they）——同一个人身上从单数跳到复数，是英语里最常见的非正式手法，也正好让这句话读起来像在讲一个群体而不是一个病人；`just left there to die` 里 `just` 与 `to die` 之间的轻描淡写，才让这句读起来吓人。
 
-**为什么这样写**：这是「写作＝说话」这一原则的最好例证之一（见 ch02 ⑥ `She writes like that because she speaks like that.`）：一个近九十岁的人能把「住院老人无人照看」说得这么清楚，是因为她在 2007 年 4 月正在医院与家之间两头跑。紧接其后她做的事是把自己那趟 Norfolk 之行推迟（`bang goes my plan of slinking off to the country tomorrow`），也就是当众承认自己多余：更年轻、更懂行的人接手之后，她在场不再有用。
+**为什么这样写**：这是「写作＝说话」这一原则的最好例证之一（见 ch02 核心金句 `She writes like that because she speaks like that.`）：一个近九十岁的人能把「住院老人无人照看」说得这么清楚，是因为她在 2007 年 4 月正在医院与家之间两头跑。紧接其后她做的事是把自己那趟 Norfolk 之行推迟（`bang goes my plan of slinking off to the country tomorrow`），也就是当众承认自己多余：更年轻、更懂行的人接手之后，她在场不再有用。
 
 ### ⑧
 
@@ -179,7 +179,7 @@ modified: "2026-09-27"
 
 **表达方式**：一个句子装下两种相反的感受，靠的全是标点与副词的位置：前两个分句用逗号加 `and` 连接（同一口气说完的难），第三个分句用分号加 `but` 断开（换一口气说出另一个方向）。`registered` 这个词选得极准：它在制度与身体两处通用，而 `registered in my body before it fully reached my mind` 说的是一个生理先于认知的过程——她先松了，之后才想明白自己为什么松。
 
-**为什么这样写**：这是全书道德自觉的顶点之一，而它出现在一段方括号补记里（记 Barry 被侄女接走的消息）。她写法值得学的地方是**不把矛盾解释掉**：sad 与 relief 同时成立，她不选一个，而是给两种情绪各配一个句子，再用 `registered in my body` 这个身体细节证明它们不是嘴上说的。对照全书写 Alfred Chester 的那一组（ch03 ⑨ `what nonsense!`），同一个人在同一类事情上既能被自己骂到、又有生理反应——本信就是那一组信的续篇。
+**为什么这样写**：这是全书道德自觉的顶点之一，而它出现在一段方括号补记里（记 Barry 被侄女接走的消息）。她写法值得学的地方是**不把矛盾解释掉**：sad 与 relief 同时成立，她不选一个，而是给两种情绪各配一个句子，再用 `registered in my body` 这个身体细节证明它们不是嘴上说的。对照全书写 Alfred Chester 的那一组（ch03 ⑦ `what nonsense!`），同一个人在同一类事情上既能被自己骂到、又有生理反应——本信就是那一组信的续篇。
 
 ### ⑨
 
@@ -193,7 +193,7 @@ modified: "2026-09-27"
 
 **表达方式**：全句的节奏由两个破折号撑起来：`and the next – and the next` 用两次省略把「一首接一首」的贪心做成一个加速的音频（每重复一次，句子就短一截，节奏因此越来越快）；结尾 `bouncing off them without taking them in` 用「眼睛在弹开」这个动态画面，把读不进诗的体验变成可见的动作。前面是贪，后面是空，句子本身就走完了这个落差。
 
-**为什么这样写**：她在 10 月 30 日那封信里刚决定把 *After the Fall* 放在床头、每晚只读三四首（`make it literally my bedside book, keep it there and read not more than three or four poems every evening`），11 月 3 日那封就报告自己读到凌晨三点一刻（`it was 3.15 in the morning!`）。这段自嘲其实是她给这本书定的读法：**把诗当短篇小说那样贪读，本身是尊重它的一种方式，因为下一步就是承认眼睛已经吃不下了**。同一封信里她给这本书的最高评价也只有一个词的重量（`the best thing ever, or so it strikes me`）——她不用最高级去赞美，只用一个「据我看」把判断收回来。
+**为什么这样写**：她在 10 月 30 日那封信里刚决定把 *After the Fall* 放在床头、每晚只读三四首（`make it literally my bedside book, keep it there and read not more than three or four poems every evening`），11 月 3 日那封就报告自己读到凌晨三点一刻（`it was 3.15 in the morning!`）。这段自嘲其实是她给这本书定的读法：**把诗当短篇小说那样贪读，本身是尊重它的一种方式，因为下一步就是承认眼睛已经吃不下了**。几天后的 3 NOVEMBER 2007 那封里，她给这本书的最高评价也只有一个词的重量（`the best thing ever, or so it strikes me`）——她不用最高级去赞美，只用一个「据我看」把判断收回来。
 
 ### ⑩
 
