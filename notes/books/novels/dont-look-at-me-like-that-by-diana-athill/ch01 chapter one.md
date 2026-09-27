@@ -31,7 +31,7 @@ modified: "2026-09-27"
 - **中文理解**："如果 Roxane 假期里开始谈曲棍球，那我就知道自己失败了。我会立刻躲进修道院去。"
 - **关键词**：I shall know / instantly / nunnery
 - **为什么这样写**：Mrs. Weaver 台词——**贵族趣味的反讽标本**：把曲棍球（中产阶级少女运动）等同于教养崩溃的标志，把修道院当喜剧性退路。Saki 式英式幽默：用绝对化语言（"instantly""know I have failed"）讲极不严肃的事。**这是全章最能立阶级的一道横切面**——Mrs. Weaver 与 Meg 家（"porridge-coloured wool combinations"）在教养坐标系上离得很远。
-- **读者视角提示**：注意"Saxon genitive + 法国祖宗"组合——Mrs. Weaver 自认 half-French 但实为中产 kit，**两层装腔作势**。这是 Athill 拿来对照 Meg 家清贫与"英国性"的核心技巧。
+- **读者视角提示**：注意"Saxon genitive + 法国祖宗"组合——Mrs. Weaver 自认 half-French 但实为中产 kit，**两层装腔作势**。这是 作者 拿来对照 Meg 家清贫与"英国性"的核心技巧。
 
 ### ③
 
@@ -40,7 +40,7 @@ modified: "2026-09-27"
 - **中文理解**："画画是画画，姑娘，不是讲故事，"她过去常这样对我说——那时我太年轻、太无知，看不出她意思何在；可对我来说，画画就是做白日梦。
 - **关键词**：Painting is painting / not story-telling / day-dreaming
 - **为什么这样写**：Mrs. Fitz 的艺术论与 Meg 的反驳并置。**关键修辞是"定义性同语反复"（Painting is painting）**——这是英语里给概念划界的方式（与 "Democracy is democracy" 同型）。Mrs. Fitz 把绘画当作形式训练；Meg 把绘画当作情感投射的出口（day-dreaming）。**两种艺术观贯穿全书**：Meg 的人生也是 "day-dreaming" 而非 "blocking in"，全文就是她如何拒绝按"块状"塑造人生。
-- **读者视角提示**：注意 "blocking in"（由上到下、由整体到局部）与 Meg 的"detail by finished detail"对照——**这也是 Athill 自己的写作方法**：她拒绝按"大块"构架，写出来的是细节的累积。
+- **读者视角提示**：注意 "blocking in"（由上到下、由整体到局部）与 Meg 的"detail by finished detail"对照——**这也是 作者 自己的写作方法**：她拒绝按"大块"构架，写出来的是细节的累积。
 
 ### ④
 
@@ -49,7 +49,7 @@ modified: "2026-09-27"
 - **中文理解**：这种衣服上下连体，粥色羊毛制成，袖子长到上臂一半，裤腿长到大腿一半。胸前扣扣子，两腿之间有一道扎眼的口子，倒是非常保暖。
 - **关键词**：porridge-coloured / buttoned over the chest / obscene vent / very warm
 - **为什么这样写**：**全章最具肉身感的一段**——把"祖母辈的保暖内衣"写成战时穷困的物质证据。"obscene vent between the legs" 是 Meg 少女视角的羞耻与滑稽混合：她在寄宿学校的裸露不是被强奸而是**被看见穿了不该穿的内衣**。**"very warm" 一句突兀的实用性结尾**——这是英式散文的"冷水收束"：把情感拔高的"obscene"立刻用实用性压回地面。
-- **读者视角提示**：本句的修辞核心是**反高潮**（anticlimax）——前面把 vent 写成 obscene，最后落点却是 very warm。Athill 整本书都在用这种修辞：**任何戏剧性时刻都由一句冷话收掉**。
+- **读者视角提示**：本句的修辞核心是**反高潮**（anticlimax）——前面把 vent 写成 obscene，最后落点却是 very warm。作者 整本书都在用这种修辞：**任何戏剧性时刻都由一句冷话收掉**。
 
 ### ⑤
 
@@ -57,8 +57,8 @@ modified: "2026-09-27"
 
 - **中文理解**：我父亲——现在仍然是——英国国教牧师，主持一个乡下小教区，年俸四百镑；他和母亲另有非劳动所得，加起来约四百镑。
 - **关键词**：—still is— / parson / small country living / four hundred pounds a year / unearned incomes
-- **为什么这样写**：插入语"—still is—"是叙事张力装置：父亲在她写这一章时仍活着（Athill 1958 写作时父母仍在世——查证为 1960s 回忆），但叙述语调已把他当作过去的标本。**两笔四百镑 = 总收入约八百镑**（1950s 牧师标准薪资）——这是全章唯一一次直接给出家庭经济数字，**支撑"为什么穿祖母辈 combinations"的物质底层**。"unearned incomes" 是英式 capital-神圣观的委婉说法。
-- **读者视角提示**：本句第一次用破折号插叙时态切换——这种**"现在仍在 + 回忆"**的并置是 Athill 一生的散文母题（看 After a Funeral 同款句法）。读者会感到：叙述者的父母仍在，但叙述本身已把他们当作研究对象。
+- **为什么这样写**：插入语"—still is—"是叙事张力装置：父亲在她写这一章时仍活着（作者 1958 写作时父母仍在世——查证为 1960s 回忆），但叙述语调已把他当作过去的标本。**两笔四百镑 = 总收入约八百镑**（1950s 牧师标准薪资）——这是全章唯一一次直接给出家庭经济数字，**支撑"为什么穿祖母辈 combinations"的物质底层**。"unearned incomes" 是英式 capital-神圣观的委婉说法。
+- **读者视角提示**：本句第一次用破折号插叙时态切换——这种**"现在仍在 + 回忆"**的并置是 作者 一生的散文母题（看 After a Funeral 同款句法）。读者会感到：叙述者的父母仍在，但叙述本身已把他们当作研究对象。
 
 ### ⑥
 
@@ -66,7 +66,7 @@ modified: "2026-09-27"
 
 - **中文理解**：我现在要说一件我从未说过的事；一件当别人对我说起时，我往往假装没听见的事。我是个漂亮女人。这事我多年来心知肚明——当然心知肚明！可即便如此，把它写下来仍更像是不体面，而不是诚实。
 - **关键词**：half-pretended not to hear / of course I have known it / indecency than honesty
-- **为什么这样写**：**全章高潮**——三段对仗式自白。**修辞核心是"承认即羞耻"**（indecency than honesty）：在一个把"女人承认自己漂亮"视为失格的社会里，Meg 把自我肯定内化为道德越界。**"of course I have known it!" 的破折号 + 感叹**是 Athill 罕见的情感溢出口——这是她写过的最强自我主张。"half-pretended not to hear" 是英式女性回避赞美的标准姿态。
+- **为什么这样写**：**全章高潮**——三段对仗式自白。**修辞核心是"承认即羞耻"**（indecency than honesty）：在一个把"女人承认自己漂亮"视为失格的社会里，Meg 把自我肯定内化为道德越界。**"of course I have known it!" 的破折号 + 感叹**是 作者 罕见的情感溢出口——这是她写过的最强自我主张。"half-pretended not to hear" 是英式女性回避赞美的标准姿态。
 - **读者视角提示**：这是全书第一次"我说"与"写"的张力——**整个 Don't Look at Me Like That 是本关于"被看见"的书**，标题就来自这句：don't look at me like that = "别那样看我 = 你看出我是漂亮女人"。本句是开篇最关键的钩子。
 
 ## 本章词汇
