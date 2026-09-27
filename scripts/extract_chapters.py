@@ -13,14 +13,44 @@ extract_chapters.py — 把书籍 epub 拆分为逐章纯文本（精读前的"�
 import re, sys, html, os, zipfile, argparse, glob, posixpath
 from urllib.parse import unquote
 
+# 出版商 dropcap 修连：**必须在标签还完整时做**（剥标签后无法再判断大写到哪结束）。
+# 排版形态：<span class="dropcap-rw">I</span><span class="smallcaps-rw">T WAS UNSPOKEN</span>
+# 产出：首字母 + 逐词首字母大写 + 单空格（"IT WAS UNSPOKEN"，即正常句子形态）。
+#
+# 为什么不用纯文本启发式（`\b([A-Z])\s+([A-Z]{2,})\b`）：两种失败都实测到
+#   ① U+200B 零宽空格在 dropcap 与小体大写之间，对 `\s` 不匹配、对 `\b` 是词边界
+#      ⇒ "I|ZSP|T WAS" → "I|ZSP|TWas"（吞空格）；
+#   ② 贪婪吞整段大写、只 capitalize() 留首词 ⇒ "A MAN CAME TO" → "AMan"，
+#      既吞空格又丢词。
+# 34 章里 ① 命中 9 章、② 命中 6 章。标签层是唯一可靠口径。
+DROP_RE = re.compile(
+    r'<span class="dropcap-rw">([^<]*)</span>\s*'
+    r'<span class="smallcaps-rw">([^<]*)</span>')
+
+def _fix_dropcap_markup(t: str) -> str:
+    def rep(m):
+        head = m.group(1).strip()
+        small = m.group(2).replace('\u200b', ' ').strip()
+        words = small.split()
+        if not words:
+            return head
+        # 排版语义：**smallcaps 的首词是 head 首字母所在那个词的延续**——
+        # dropcap="T" + smallcaps="HE LAST DAY" ⇒ "THE LAST DAY"（同一个词 THE）。
+        # 首词把 head 拼回去（"T"+"HE" → "the"），其余词各自成词；
+        # 整句首字母再还原为大写（原文是句首，句法要求大写）。
+        merged = [(head + words[0]).lower()] + [w.lower() for w in words[1:]]
+        merged[0] = merged[0].capitalize()
+        return ' '.join(merged)
+    return DROP_RE.sub(rep, t)
+
+
 def clean(raw: str) -> str:
-    t = re.sub(r'<(p|div|h[1-6]|li|br)\b[^>]*>', '\n', raw)
+    t = _fix_dropcap_markup(raw)
+    t = re.sub(r'<(p|div|h[1-6]|li|br)\b[^>]*>', '\n', t)
     t = re.sub(r'</(p|div|h[1-6])>', '\n', t)
-    t = re.sub(r'<[^>]+>', '', t)          # 行内标签删除，不引入空格（保住 dropcap 相邻拼合）
+    t = re.sub(r'<[^>]+>', '', t)          # 行内标签删除，不引入空格
     t = html.unescape(t)
-    # dropcap 修连："S" + 小体大写 "OME" → Some
-    t = re.sub(r'\b([A-Z])\s+([A-Z][a-z]+|[A-Z]{2,})\b',
-               lambda m: m.group(1) + m.group(2).capitalize(), t)
+    t = t.replace('\u200b', '')            # 排版零宽残留（非原文字符）
     t = t.replace('\u00a0', ' ')
     lines = []
     for l in t.split('\n'):
