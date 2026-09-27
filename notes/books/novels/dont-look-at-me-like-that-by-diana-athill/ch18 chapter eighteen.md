@@ -49,7 +49,7 @@ modified: "2026-09-27"
 - **中文理解**："这是我一生中第一次生气时摔门，而不是特别安静地把它关上——老天作证，真爽！"
 - **关键词**：first time in my life / slammed a door / instead of shutting it especially quietly / by God, it's good
 - **为什么这样写**：**全章最解放的一句**——**"instead of shutting it especially quietly"**——**这是 Meg 一生的行为模式**（把门悄悄关上 = 压抑）——**她在二十五岁第一次"摔门"**——**作者用"by God, it's good!"（老天作证，真爽！）作为全书的解放宣言**——**这是全书唯一一次 Meg 表达纯粹的痛快**。
-- **读者视角提示**：注意"first time in my life"——**这句话标记了一个 25 年的等待**——**Meg 从少女期（ch01 的"conceited/superior/affected"）到成人期一直在压抑**——**摔门是她的第一次"affect"（发作）**——**作者让她的自我解放以"不当的行为"（摔门）而不是"正义的行为"（反抗压迫）实现**——这是 Athill 的诚实：**解放不总是高尚的**。
+- **读者视角提示**：注意"first time in my life"——**这句话标记了一个 25 年的等待**——**Meg 从少女期（ch01 的"conceited/superior/affected"）到成人期一直在压抑**——**摔门是她的第一次"affect"（发作）**——**作者让她的自我解放以"不当的行为"（摔门）而不是"正义的行为"（反抗压迫）实现**——这是 作者 的诚实：**解放不总是高尚的**。
 
 ### ⑤
 
@@ -58,7 +58,7 @@ modified: "2026-09-27"
 - **中文理解**：我上楼到卧室，在镜子里看自己：脸红了，眼睛发亮。我看起来不同寻常。……"天哪！"我对自己说，因为那一定只是一场表演吧？是的，当然是的：如果情感是真的，我绝不可能那样做——但我的身体却在颤抖、喘息。我的身体相信了那场表演。
 - **关键词**：I looked extraordinary / surely it had only been a performance / My body had believed in the performance
 - **为什么这样写**：**全书最重要的心理学发现**——Meg 怀疑自己的情感真实性（"it had only been a performance"）——**但身体不相信她的怀疑**（"trembling and panting"）——**"My body had believed in the performance"** 是本句的落点——**作者用"身体相信"来解释情感真实性**：**如果一个表演能让身体反应，那它就是真的**。**这与 ch16 "I wasn't even able to experience the feeling properly"形成了完整的对照**：**ch16 她无法感受，ch18 她的身体感受了**——**她的情感恢复从身体开始**。
-- **读者视角提示**：注意"Good God!"——**这是 Meg 自我反驳的惊叹**——她用惊讶来面对自己的身体反应——**这是 Athill 让 Meg 成为"身体与意识分裂"的人物**：**她的意识分析一切，她的身体直接反应**——这种分裂贯穿全书（ch01 "I am a pretty woman" 的 indecency / ch08 fly-papers / ch10 freak）。
+- **读者视角提示**：注意"Good God!"——**这是 Meg 自我反驳的惊叹**——她用惊讶来面对自己的身体反应——**这是 作者 让 Meg 成为"身体与意识分裂"的人物**：**她的意识分析一切，她的身体直接反应**——这种分裂贯穿全书（ch01 "I am a pretty woman" 的 indecency / ch08 fly-papers / ch10 freak）。
 
 ### ⑥
 
