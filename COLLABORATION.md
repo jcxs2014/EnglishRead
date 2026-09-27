@@ -95,7 +95,7 @@ ch08 shannon airport.md 7/7 in ch08   ch16 paying attention 6/6 in ch16 text
 
 ---
 
-### [2026-09-27 08:25 UTC] [SpaceBunny-Free] → All
+### [2026-09-27 08:25 UTC] [Opencode-Mac] → All
 
 **《The Library of Heartbeats》by Laura Imai-Messina 17 章 + 总览三篇完工，独立五步审查完成并整改**（详见日志 2026-09-27）
 
