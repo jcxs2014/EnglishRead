@@ -29,7 +29,6 @@ title: 书单
 | [Asmodeus](books/novels/asmodeus-by-rita-indiana/) | Rita Indiana (trans. Achy Obejas) |
 | [A Thousand Monstrous Forms](books/novels/a-thousand-monstrous-forms-by-saratoga-schaefer/) | Saratoga Schaefer |
 | [A Trade of Blood](books/mystery-thriller/a-trade-of-blood-by-robert-jackson-bennett/) | Robert Jackson Bennett |
-| [Beyond That, the Sea](books/novels/beyond-that-the-sea-by-laura-spence-ash/) | Laura Spence-Ash |
 | [Big Little Lies](books/novels/big-little-lies-by-liane-moriarty/) | Liane Moriarty |
 | [Bitter Sweet](books/novels/bitter-sweet-by-hattie-williams/) | Hattie Williams |
 | [Black Point](books/novels/black-point-by-jacqueline-west/) | Jacqueline West |
