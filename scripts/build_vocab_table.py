@@ -115,6 +115,28 @@ def sentences(text: str) -> list[str]:
     return [s.strip() for s in parts if s.strip()]
 
 
+def is_complete_sentence(s: str) -> bool:
+    """例句是否是一句**完整**的话（不是被切下来的片段）。
+
+    ⚠️ 2026-09-28 The Paris Deception ch09 实测：原实现取「第一句含该词的
+    句子」，而 `sentences()` 的切分点是对话标签与句末标点——于是常取到
+    跨标签的半句，例如 `he went on, "but the Depression changed our industry
+    entirely.`（开头小写、结尾无收尾引号）。这类例句逐字为真但语义残缺，
+    读者看不出它是谁说的话。
+
+    判据（三条都要）：
+      ① 以大写字母或开引号开头（不是 `he went on,` 这种接续状语）
+      ② 以句末标点 + 可选收尾引号收尾
+      ③ 长度在 30–320 字符之间（滤掉整段与过短的口号）
+    """
+    t = s.strip()
+    if not (30 <= len(t) <= 320):
+        return False
+    if not re.match(r"^[A-Z“‘\"(]", t):
+        return False
+    return bool(re.search(r"[.!?][”’\"']?$", t))
+
+
 def main() -> None:
     argv = sys.argv[1:]
     book_dir = argv[0]
@@ -124,7 +146,7 @@ def main() -> None:
     text = load_chapter(book_dir, ch)
     sents = sentences(text)
 
-    out, missing = [], []
+    out, missing, fragmented = [], [], []
     for tier, label in (("⭐⭐⭐", "高级"), ("⭐⭐", "进阶"), ("⭐", "基础")):
         rows = []
         for head, gloss in tiers.get(tier, {}).items():
@@ -132,10 +154,15 @@ def main() -> None:
             if not pat.search(text):
                 missing.append(f"{tier} {head}")
                 continue
-            example = next((s for s in sents if pat.search(s)), "")
+            hits = [s for s in sents if pat.search(s)]
+            # 完整句优先；一条都取不到才退回任意含该词的句子，并**显式报告**
+            example = next((s for s in hits if is_complete_sentence(s)), "")
             if not example:
-                missing.append(f"{tier} {head} (no example sentence)")
-                continue
+                if not hits:
+                    missing.append(f"{tier} {head} (no example sentence)")
+                    continue
+                example = hits[0]
+                fragmented.append(f"{tier} {head}")
             rows.append(f"| {head} | {gloss} | {example} |")
         if not rows:
             continue
@@ -144,6 +171,9 @@ def main() -> None:
     if missing:
         print("headwords not verbatim in ch%s: %s" % (ch, ", ".join(missing)), file=sys.stderr)
         sys.exit(2)
+    if fragmented:
+        print("⚠️ 以下词头只取到**片段**例句（本章内无完整句含该词），"
+              "落地前请人工换一条完整句：%s" % ", ".join(fragmented), file=sys.stderr)
     print("\n".join(out))
 
 
