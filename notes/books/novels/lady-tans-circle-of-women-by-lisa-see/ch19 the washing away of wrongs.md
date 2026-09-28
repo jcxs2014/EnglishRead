@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **关键词**：didn’t look like（不像）；Not his father（不是他父亲）；not my husband（不是我丈夫）
 
-**为什么这样写**：**用「长得像不像」来推断血缘，而这条推理的可靠性低得可笑**——可 Meiling 立刻指出了（That is hardly proof. It could be argued Manzi resembled Miss Chen's father or her brothers）。**作者让最不可靠的证据先出场，然后用一个懂行的女人拆掉它，再由叙述者用动机补上**。而这正是 detective story 的正确写法：**可疑 ≠ 证明，动机 ≠ 事实**——**而最后要靠的是那份药方。**
+**为什么这样写**：**用「长得像不像」来推断血缘，而这条推理的可靠性低得可笑**——可 Meiling 立刻指出了（That is hardly proof. It could be argued Manzi resembled Miss Chen's father or her brothers）。**作者让最不可靠的证据先出场，然后用一个懂行的女人拆掉它，再由叙述者用动机补上**。而这正是刑案的正确写法：**可疑 ≠ 证明，动机 ≠ 事实**——**而最后要靠的是那份药方。**
 
 **读者视角提示**：请注意这三条「不像」的排比结构；**全书的推理段都是用排比列可能性，而不是下结论。**
 
