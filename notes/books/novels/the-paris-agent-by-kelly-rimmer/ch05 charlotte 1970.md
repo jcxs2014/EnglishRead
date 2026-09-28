@@ -140,7 +140,7 @@ modified: "2026-09-28"
 | hostility | 敌意，敌视 | I’m caught off guard, first that someone has finally answered the damned phone, secondly by the mild hostility. |
 | placating | 安抚的，劝慰的 | Theo winces, then shoots the woman a placating glance. |
 | deflates | 泄气，瘪下去 | Dad deflates, sagging forward over his tea. |
-| archival | 档案的，档案性的 | “Your father will have received letters inviting you to participate in Professor Read’s archival program if he is of significance to the historic record.” |
+| archival | 档案的，档案性的 | “Your father will have received letters inviting him to participate in Professor Read’s archival program if he is of significance to the historic record.” |
 | pondering | 反复思量，琢磨 | Theo sits back in his chair and stares into space, pondering this. |
 | oversight | 监督，统筹管理 | He still worked five or even six days a week, but they were short days, focused on oversight of his managers at each of his six workshops rather than business specifics. |
 | tenuously | 牵强地，勉强地 | McTavish interrupts to give a tenuously linked but startlingly detailed account of the American Revolutionary War battle which cost his grandfather his life. |
