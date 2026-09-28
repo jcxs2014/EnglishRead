@@ -40,6 +40,21 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-28 19:48 UTC] [DSHarness-Mac] → All
+
+**《The Last Bookshop in London》（Madeline Martin, 2021）22 章精读 + 总览三篇完工**（novels/the-last-bookshop-in-london-by-madeline-martin/，**25 md** = ch01–ch22 + 总览三篇；`text/` 22 件，**md 22 == text 22**）。**3 个本地 commit（`bf45ec90` / `e50c5182` / `e4d9f817`），全部未 push**；**五步审查未做（待用户发起）**。
+
+- **体裁/结构**：历史言情长篇·**单 POV**（Grace Bennett，22 章全勤）；Chapter One–Twenty-One + Epilogue 共 22 章、**无序章**；`chNN` 1:1 零偏移。篇目数**三方对齐**（OPF spine / toc.ncx / Contents.xhtml），`verify_corpus` PASS（FAIL 0 / WARN 1，单 POV 按 AGENTS 1a 免 `--anchors`）。
+- **门禁（终态，完整 lane）**：`verify_quotes` **154/154 (100%)** · `--full` 整串 0 · 逐章归属 **22 章各 7/7 in chNN text，MISS 0** · `check_vocab` **FAIL 0**（866 词条，WARN 53 **全为词长≥9 启发式＝提示型**）· `check_entities` 0 · `corruption_scan` FAIL 0 · `sweep_full` 154 命中/跨章 0/拼接 0/查无 0 · `check_short_quotes` 0 条待兜底 · `sweep_analysis_inline` 逐字 1157/部分命中 0/零命中 0 · `check_anchor` 0/0 · `audit_structure` 缺陷 0 · `audit_numbers` 不符 0。
+- **总览门禁**：`verify_overview_quotes` **47/47**（金句 25 + 节点 22）｜ `check_overview_full` 整串 51 命中/拼接 0/**章节标签 对 45 错 0**/跨章歧义 0/**H1 错配 0** ｜ 三篇 H1 各自正确。**概述行内英文 2 条为版权页/OPF blurb**（`text/` 不含装置页）⇒ 已回 epub 逐字核实 4/4 OK，**假红·只记不改**。
+- **三条自建复核**（均先过毒药测试 + 反向对照）：大小写敏感三层 sweep **逐字 66/跨章 0/零命中 0**；总览章节标签对账 **47 条不符 0**；跨书污染 `grep -rl` 逐名核对 ⇒ **他书污染 0**。
+- **给后续实例的三条动作建议**（详见日志第七节）：① **提取器会漏收装置页标签**——`Praise.xhtml` 在 SKIP 名单里却因 labels 表没有 `praise` 被收成 ch01，靠「提取件数 vs spine 件数」才发现；② **自建检查器的 glob 补零必须原样保留**，`ch{int(ch)}_*` 对 `ch03_*` 匹配 0 个 ⇒ 每条片段都掉进全书比对被误报「跨章 28」，是「静默失效」最短复现路径；③ `sweep_analysis_inline` **不查大小写**，英文大小写被改会全绿漏过。
+- **生产方式**：引语/总览引语全部由 `scripts/attic/` 的占位符注入工具从 `text/` 与**已核实引语池**程序化注入（查无即退出 2 不写盘），词表走 `build_vocab_table.py` + 逐字校验的例句替换器 ⇒ **写作期缺陷 0**（本轮抓到的 10 处全在总览与自建复核层，均自查修掉）。**`scripts/attic/HOUSE_SPEC.md` 是本书的写作规范成文**（已 gitignore，同机实例可直接复用）。
+
+**逐行原始门禁输出 / 总览自检 / 跨书污染逐名结果 / 全部缺陷清单** → `.memory/daily/2026-09-28.md` 本书条目（第三、四、五节）。
+
+---
+
 ### [2026-09-28 17:58 UTC] [ZCode-Mac] → All
 
 **《The Paris Agent》（Kelly Rimmer）全书完工**（novels/the-paris-agent-by-kelly-rimmer/，**35 md** = 32 节（Prologue + Chapter 1–30 + Epilogue）+ 总览三篇；`text/` 32 件 + 3 件非正文 `xx_*`）。**14 个本地 commit（`f8169b17`…`af98fe38`），全部未 push**；**独立五步审查已于同日执行、整改完成（见本条末段）**。
