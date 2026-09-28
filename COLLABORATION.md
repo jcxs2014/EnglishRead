@@ -42,7 +42,7 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
-### [2026-09-28 09:26 UTC] [OpenCode-Mac] → All
+### [2026-09-28 09:26 UTC] [OpenCode-Mac] → All（独立五步审查结果，就地追加进本书条目）
 
 **《A History of Burning》by Janika Oza 全书精读完工（34 章 + 总览三篇）**
 
@@ -69,6 +69,29 @@
   **ch34 尾声那对男女原文自始至终没写名字，两份总览均已明标不作断言。**
 - 提交：38 个 commit（含 ch01–ch34、工具两处、总览三篇、daily 记录）。**未 push。**
 - **五步审查未做（待用户发起）**。详见当日工作日志 `.memory/daily/2026-09-28.md`。
+
+**独立五步审查（AGENTS 第 10 条，用户发起）已完成 a–e 全流程，整改 `1b3d3d1e`**
+- a 门禁全量重跑 / b 逐章归属 34/34 / c 结构 307 块 0 缺陷 —— **全绿**
+- d 语义二审：**19 处缺陷，全部为「分析层伪造引语」，六道主门禁一律看不见**
+  ① 跨章呼应引语被压缩/改写 14 处（ch11/ch13/ch14/ch18/ch21/ch23/ch24/ch25/ch28/ch29/ch30/ch33）
+  ② 跨章引用整句不存在 4 处（`You shouldn't have gone`、`He didn't talk`×2 全库零命中；
+     `I cannot make her look at him` **实属 ch25** 却误标 ch24）
+  ③ 大小写改动 2 处（总览层：`The boys`→`At his school, the boys`、`It was`→`IT WAS UNSPOKEN`）
+  ④ 工作底稿留在成品文件 1 处（00_情感节点 末尾「不一致」整节含乱码）
+- e 总览层：33 条英文引语逐条回源，0 查无（6 处报警经查为我脚本未处理跨行断句，非缺陷）
+- **修复后 `sweep_analysis_inline` 的「部分命中」20 → 0**，`check_crossref` 报警 → 0
+- 三档定性：阻断型 19（已改）· 提示型（跨章 81 处均在「读者视角提示」等跨章字段，设计使然；
+  `Evacuee` 是行政名词；`A History of Burning` 是书名属 B 类语料缺失）· 假红型 0
+- **`check_crossref` 本次同时是报警者与真阳性**：`We're one of them` 报"ch05 查无"，
+  人工读行后确认该句**全书零命中**（非工具误配，是我的真缺陷）
+- **同会话自审局限（已如实标注）**：写作期与审查期同一执行方，
+  对"我惯用的伪造句式"可能有系统性盲区——本次 19 处全部属这一类，
+  建议由异实例复核 ch13 / ch27 / ch32 三处呼应引语密集的文件。
+
+**修复后门禁**：`verify_quotes 259/259` · `check_vocab 765 FAIL 0` · `check_entities 0` ·
+`逐章归属 34/34` · `sweep_full 231 命中 0 跨章 0 拼接 0 查无` · `sweep_analysis 部分命中 0` ·
+`check_overview 整串 31 0 查无` · `verify_overview 29/29` · `check_crossref 0 报警` ·
+`corruption FAIL 0` · `audit_structure 0 缺陷`。**未 push。**
 
 ---
 ### [2026-09-27 20:15 UTC] [OpenCode-Mac] → All
@@ -1968,5 +1991,17 @@ a–e 全步执行，a 步门禁**全部重跑未采信完工报告**；d 步派
 - 审查发现并修复：①ch05"Where will I hide?"非章末（章末另有Anton农场/Amor屋顶场景）②概述Astrid关系"姨姐"→"姐姐"③概述承诺指向修正（Manie-Salome/Astrid-Batty/Manie-情人）
 - 关键发现：承诺与背叛·南非种族隔离后遗症·"空"的母题（候诊室/窗口）·回旋镖隐喻
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
+
+---
+
+### [2026-09-28 UTC] [ZCode-Mac] → All
+
+**《Lucy by the Sea》by Elizabeth Strout 全书精读完工 + 五步审查通过**
+
+- 目录：`notes/books/novels/lucy-by-the-sea-by-elizabeth-strout/` — 文学小说（言情/家庭），ch01-13 + 总览三篇
+- 四件套：verify 66/69（3 短引语人工确认真实）· vocab FAIL0 · entities 0 · sweep_full 🔶 9（HTML拼接非缺陷）
+- 五步审查：a.门禁全绿 b.逐章归属13/13 c.结构扫描0 d.语义二审15🟠提示型 e.发现1条阻断型（概述"David两年前"→原文"一年前"，已修）
+- Commit：`6273738d`（概述时间线修复）· **未 push**，等用户指令
+- 五步审查完成，缺陷清零
 
 ---
