@@ -85,3 +85,21 @@ Reinhardt · Bernard · Champlain · Céline · Marguerite · Adrien · Margot
 2. 人物译名**不得自造**：台账无的中文译名一律不许出现。
 3. 死亡结局集中在 ch63–ch69；**结局事实须等 ch63–ch70 精读完成后再写**，
    且每条附原文短语。
+
+## 六、全书分部结构（2026-09-28 由 toc.ncx 勘定，总览按此组织）
+
+| 部位 | navLabel | 对应 text/ 文件 | 章数 |
+|---|---|---|---|
+| 序章 | Prologue | `ch01_prologue.txt` | 1 |
+| **第一部** | Part One | Chapters 1–12 → `ch02`–`ch13` | 12 |
+| **第二部** | Part Two | Chapters 13–51 → `ch14`–`ch52` | 39 |
+| **第三部** | Part Three | Chapters 52–67 → `ch53`–`ch68` | 16 |
+| 尾声 | Epilogue | `ch69_epilogue.txt` | 1 |
+| 作者附记 | Author Note | `ch70_author_note.txt` | 1 |
+
+⚠️ **文件编号与章号的偏移**：`chNN` 文件的第 N-1 章＝Chapter N-1；
+`ch01` 是 Prologue 而非 Chapter 1。写总览或引用时**一律按 `chNN` 文件名**，
+不要用"第 N 章"指代。
+
+⚠️ spine 共 85 项、toc 另有 `About the Author`；二者都**未进 text/**，
+按本项目惯例（skip 列表含 about）不单独出精读。
