@@ -19,19 +19,7 @@ modified: "2026-09-28"
 
 ## 精读
 
-> **原句 1:** "I had decided that if Inga Tate could tell me her story and ask for help, I could do the same"
-
-**中文理解**：她之所以决定开口，是因为那封信先开了口——对方能说，她也能。
-
-**关键词**：I had decided that（我已经决定）；if Inga Tate could tell me her story and ask for help（如果 Inga Tate 能告诉我她的故事并开口求助）；I could do the same（我也能）
-
-**为什么这样写**：全书最重要的一次**逻辑闭合**：她开口的理由不是勇气，是**对等**。而 if…could…（要是能……）这个虚拟语气里藏着一整套让步——她默认对方是**能做到**的，因为对方已经做到了。这个结构和她在第十九章向那块地讨祝福时是同一个（先承认对方有某种能力，再提出交换）。作者让一个从不欠人情的人**欠了一次人情**，而且欠的是一个陌生人。
-
-**读者视角提示**：请把它和本章最后那句「她能做的唯一回应是相信自己」并排读：**这两句是同一个句型，一开一合。**
-
----
-
-> **原句 2:** "“Good.” She nodded in a way that confirmed she had known all along that I had secrets"
+> **原句 1:** "“Good.” She nodded in a way that confirmed she had known all along that I had secrets"
 
 **中文理解**：她点头的样子让叙述者确定：这位太太早就知道她有秘密。
 
@@ -43,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "“Can we walk?” I asked."
+> **原句 2:** "“Can we walk?” I asked."
 
 **中文理解**：她开口前问的第一句是：我们可以走着说吗？
 
@@ -55,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "I wanted to begin but couldn’t bring myself to do so"
+> **原句 3:** "I wanted to begin but couldn’t bring myself to do so. I waited for Zelda to fill the quiet"
 
 **中文理解**：她想开始，说不出口；她等着那位太太用闲话把安静填满，对方没有。
 
@@ -67,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "“Forgive you?” Zelda shook her head. “Don’t be silly. You’re just stalling, V.”"
+> **原句 4:** "“Forgive you?” Zelda shook her head. “Don’t be silly. You’re just stalling, V.”"
 
 **中文理解**：她先道了歉，对方摇头说：别犯傻，你只是在拖延。
 
@@ -79,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "“Torie?” she asked in surprise"
+> **原句 5:** "“Torie?” she asked in surprise"
 
 **中文理解**：她无意间说出自己母亲的话，对方愣住了：Torie？
 
@@ -91,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "“There was a boy.”"
+> **原句 6:** "“There was a boy.”"
 
 **中文理解**：她试了几次才找到开头，最后只说了五个字：从前有个男孩。
 
@@ -103,7 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "“His name was Wilson Moon,” I said."
+> **原句 7:** "“His name was Wilson Moon,” I said."
 
 **中文理解**：他说出了他的名字——这两个字她已经二十年没在嘴唇上碰过了。
 
@@ -115,7 +103,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** "“You did what you had to do,” she said then, with the complete sincerity of a carefully chosen gift"
+> **原句 8:** "“You did what you had to do,” she said then, with the complete sincerity of a carefully chosen gift"
 
 **中文理解**：她预先想好了那句最可怕的话，而对方给的回答像一件精心挑过的礼物。
 

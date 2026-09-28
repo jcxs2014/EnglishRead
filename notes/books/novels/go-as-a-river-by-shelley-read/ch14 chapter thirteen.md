@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **关键词**：His family name would be Moon, I supposed（我想，他该姓 Moon）；I supposed（我想／大概）；my Baby Blue（我的 Baby Blue）
 
-**为什么这样写**：作者先让**姓氏悬空**：would be Moon, I supposed —— would 是一种假设，I supposed 又把这个假设退回来一次。所以这不是继承，是**一个母亲自己做的决定**。接着她一口气给了三个名字（Moon Face / Moon Pie / the one that stuck），而 the one that stuck 用 stick（黏住）这个极具体的动作把「留下哪一个」写成了偶然。可这个偶然偏偏来自他——从那首关于他的歌和那片他死在其中的山。**她给孩子取的名字，一半来自父亲，一半来自坟场。**
+**为什么这样写**：作者先让**姓氏悬空**：would be Moon, I supposed —— would 是一种假设，I supposed 又把这个假设退回来一次。所以这不是继承，是**一个母亲自己做的决定**。接着她一口气给了三个名字（Moon Face / Moon Pie / the one that stuck），而 the one that stuck 用 stick（黏住）这个极具体的动作把「留下哪一个」写成了偶然。可这个偶然偏偏来自他——从那首关于他的歌和那片他死在其中的山。**她给孩子取的名字，一半来自那首叫《Blue Moon》的歌，一半来自他独自栖身过的那片 Big Blue。**
 
 **读者视角提示**：Baby Blue 这个名字在本章后面会变成一句命令式的用法；记住它和 Big Blue wilderness（书里那片山）的双重来源。
 
@@ -43,7 +43,10 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "Snow. At least two feet had fallen in the night."
+> **原句 3:** "a morning so dim and cold that it could have been the last limits of December twilight. It felt wrong from the instant I opened my eyes.
+
+
+I set the sleeping baby to my side, tucking our shared quilts around the knit blanket in which he was swaddled. Shivering, I pulled on my big sweater and peered out the small window. Snow. At least two feet had fallen in the night. No matter that it was, I guessed, late August. Any weather is fair play in high-mountain whimsy"
 
 **中文理解**：她是被光的颜色叫醒的：那种暗、冷的天色，八月不该有——然后她看见了两英尺的雪。
 
@@ -67,7 +70,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "It was the longest walk of my life. I cannot gauge whether it was one mile or ten."
+> **原句 5:** "It was the longest walk of my life. I cannot gauge whether it was one mile or ten. I only knew I had to keep the nearly weightless baby"
 
 **中文理解**：她说那是她一生里最长的一段路：一英里还是十英里，她量不出来。
 
@@ -79,7 +82,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "I walked with urgency and purpose, yet I did not know to where,"
+> **原句 6:** "I walked with urgency and purpose, yet I did not know to where, and the surrounding forest felt adversarial in a way it hadn’t in months"
 
 **中文理解**：她走得又急又坚决，可她并不知道要去哪儿；那天的林子也像在跟她作对。
 

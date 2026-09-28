@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "She had revealed so much, but she couldn’t tell me where my son was"
+> **原句 3:** "She had revealed so much, but she couldn’t tell me where my son was. Now this woman was begging for my help"
 
 **中文理解**：对方说了那么多，可有一件事她没法回答：我儿子在哪儿。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "I was suddenly overcome by the difference between the craving for my son and the actuality of him"
+> **原句 4:** "I was suddenly overcome by the difference between the craving for my son and the actuality of him. He was no longer an abstraction or a wish but a sad young man named Lukas who did not know where he came from, at war with enemies he could not possibly comprehend"
 
 **中文理解**：她一下子被「想要」和「实际」之间那道缝击穿：那个儿子不再是愿望，是一个叫卢卡斯的、正在打仗的年轻人。
 
@@ -79,7 +79,22 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "At the jagged boulder, I laid both of my unsteady palms upon the circle, hoping the years of longing contained in each carefully placed stone would guide me in what I should do next"
+> **原句 6:** "and secured a rock atop the stack to save it from the breeze. I stood. My mind felt too full to think clearly, my heart too swollen and sore. I had to move. I looked up for the reassurance of the blue sky framed by the treetops, and I stepped into the forest.
+
+
+Inga Tate’s story was too much—too surprising, too sad. But it was also too little.
+
+
+She had revealed so much, but she couldn’t tell me where my son was. Now this woman was begging for my help, and I had no idea how to respond.
+
+
+I was suddenly overcome by the difference between the craving for my son and the actuality of him. He was no longer an abstraction or a wish but a sad young man named Lukas who did not know where he came from, at war with enemies he could not possibly comprehend. And this Inga was not a blurry memory or some sort of savior, but a grieving woman who believed something lost might be found in me.
+
+
+I paced through the forest, mulling all that I had learned. Returning to the clearing, I imagined them there: Lukas at twelve stepping through the snow patches to discover the circle and place his peach-shaped rock; Inga, years later, returning alone after her other son’s funeral and leaving her words beneath a stone with the tenuous hope that I would read them.
+
+
+At the jagged boulder, I laid both of my unsteady palms upon the circle, hoping the years of longing contained in each carefully placed stone would guide me in what I should do next"
 
 **中文理解**：她把两只发抖的手掌按在那个石圈上，指望这些年攒下的想念，能告诉她下一步该做什么。
 

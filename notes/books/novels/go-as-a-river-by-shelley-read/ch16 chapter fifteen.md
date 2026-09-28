@@ -25,13 +25,13 @@ modified: "2026-09-28"
 
 **关键词**：I sat and reread my words（我坐下重读自己写的话）；I love you. I’m sorry. Don’t worry.；The note seemed naive and childish now（那封信现在显得天真而孩子气）
 
-**为什么这样写**：作者让**读者先看到信的全文，再看到它的作废**。三句话都是短的、都在道歉，可没有一句解释发生了什么——这正是五个月前那封信的全部内容。naive and childish 两个形容词是事后视角的判决：写的时候她以为自己在表明成熟，五年后她认出那是**一个没有能力把话说完的人写的东西**。而撕掉它的动作极其平常：wadded（揉成团）不是撕，是揉——她不是销毁证据，是**销毁自己曾经的那个说法**。
+**为什么这样写**：作者让**读者先看到信的全文，再看到它的作废**。三句话都是短的、都在道歉，可没有一句解释发生了什么——这正是五个月前那封信的全部内容。naive and childish 两个形容词是事后视角的判决：写的时候她以为自己在表明成熟，五个月后她认出那是**一个没有能力把话说完的人写的东西**。而撕掉它的动作极其平常：wadded（揉成团）不是撕，是揉——她不是销毁证据，是**销毁自己曾经的那个说法**。
 
 **读者视角提示**：这封信和本章末尾父亲那句话互为两端：他最后说「你现在像你母亲」，而她刚把一封写给他的话扔进垃圾桶。
 
 ---
 
-> **原句 2:** "The only one I truly owed an apology to was Abel."
+> **原句 2:** "The only one I truly owed an apology to was Abel. I found him in the barn, unkempt but well"
 
 **中文理解**：她说唯一真正欠一句道歉的是 Abel——她在马厩里找到了它。
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "he nuzzled my shoulder as if to say, We’re okay, you and me."
+> **原句 3:** "he nuzzled my shoulder as if to say, We’re okay, you and me. Glad to see you made it back home. At least that is what I hoped"
 
 **中文理解**：马把鼻子拱上她的肩，像是要说「没事了，就我们俩」——那至少是她希望的意思。
 
@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者在动物的动作后面加了一句**转述**，而且立刻声明这是她的想象：as if to say，后面紧跟 At least that is what I hoped（至少我是这么希望的）。**希望与事实之间被她自己划了一道线**，这是全章最重要的一处诚实。nuzzle 这个词常用来写恋人，这里却让一匹马用它来确认一个人还活着——**全书最沉默的一次安慰，来自她最对不起的那一个。**
 
-**读者视角提示**：她离开时是「希望」这个马会原谅她；五章之后 Abel 会再次出现，到那时这笔账才算清。
+**读者视角提示**：她离开时是「希望」这个马会原谅她；下一章 Abel 就会再次出现并死去，到那时这笔账才算清。
 
 ---
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **关键词**：blank as river stones（像河卵石一样空）；looking back at me（回望着我）；as if I were some fool or stranger or both（仿佛我是某个傻子或陌生人，或两者都是）
 
-**为什么这样写**：作者在序章就写过**河底**（这个家沉在水库底下），本章父亲的眼睛又变成 river stones——同一条河，先是他脚下的路，现在是她的父亲。而 some fool or stranger or both（傻子、陌生人，或两者都是）这个三重选择极其精准：**她承认自己不確定父亲到底怎么看她，于是把两个最坏的可能都摆出来。**fool 里有轻蔑，stranger 里是彻底的无关系，or both 则承认这份轻蔑已经彻底陌生化。
+**为什么这样写**：作者在序章就写过**河底**（这个家沉在水库底下），本章父亲的眼睛又变成 river stones——同一条河，先是他脚下的路，现在是她的父亲。而 some fool or stranger or both（傻子、陌生人，或两者都是）这个三重选择极其精准：**她承认自己不确定父亲到底怎么看她，于是把两个最坏的可能都摆出来。**fool 里有轻蔑，stranger 里是彻底的无关系，or both 则承认这份轻蔑已经彻底陌生化。
 
 **读者视角提示**：这双眼睛的空是全书对父子关系最彻底的一次定性；本章之后他们所有的对话都不再触及它。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **关键词**：He was a slowly melting icicle（他是一根慢慢融化的冰柱）；slowly melting（慢慢融化）；I a patient stream（而我是一条有耐心的溪）
 
-**为什么这样写**：作者把**两个人都写成水的形态**，却给了它们完全相反的机制：icicle（冰柱）是被时间化掉的，stream（溪流）是持续流过去的。而 patient 这个词是她整段日子的注脚——接下来几章里她和父亲吃饭的每一顿都是这样：早上几个词，午饭几个词，晚饭几个词。**两个人都不主动，都在等对方先化。**用这样一句话概括五年，作者把「和解」写成了一个物理过程，而和解能不能发生，取决于哪边先到。
+**为什么这样写**：作者把**两个人都写成水的形态**，却给了它们完全相反的机制：icicle（冰柱）是被时间化掉的，stream（溪流）是持续流过去的。而 patient 这个词是她整段日子的注脚——接下来几章里她和父亲吃饭的每一顿都是这样：早上几个词，午饭几个词，晚饭几个词。**两个人都不主动，都在等对方先化。**用这样一句话概括那五个月，作者把「和解」写成了一个物理过程，而和解能不能发生，取决于哪边先到。
 
 **读者视角提示**：这个比喻是全章的骨架；下面那句关于 Seth 的告发，是冰柱上第一道真正的裂缝。
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 > **原句 8:** "“She was a beauty,” he said with rare wistfulness, sweetly recalling his lost love but also implying he thought I was beautiful too."
 
-**中文理解**：临终前他神志不清地说了一句：你把头发留长、盘在后脑勺的样子，像你母亲；她说，是个美人。
+**中文理解**：临终前他神志不清地说了一句：你把头发留长、盘在后脑勺的样子，像我母亲；她是个美人。
 
 **关键词**：“She was a beauty,” he said with rare wistfulness（他带着少有的惆怅说：她是个美人）；rare wistfulness（罕见的惆怅）；sweetly recalling his lost love but also implying he thought I was beautiful too（既在回忆他失去的爱，也暗示他觉得我美）
 

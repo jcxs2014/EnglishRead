@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：1955 到 1962：她在 Paonia 过了第一个没有桃子要收的秋天，日子一下子空了下来；1962 年六月在餐馆里，她看见报纸上一行全大写的标题——三个镇子告别了地图；同一位太太顺口指出，这一切之所以发生，是因为更早之前有人被赶出了这片地。她回家把剪报（除掉一句让她火大的话）夹进母亲的圣经，剪掉那句她永远不会原谅的话；第二天她开车到水库边，被警察拦下，隔着桥看了最后一眼。
+**一句话概括**：1955 到 1962：她在 Paonia 过了第一个没有桃子要收的秋天，日子一下子空了下来；1962 年六月在餐馆里，她看见报纸上一行全大写的标题——三个镇子告别了地图；同一位太太顺口指出，这一切之所以发生，是因为更早之前有人被赶出了这片地。她回家把剪报（除掉 Matthew Dunlap 那两句让她火大的话）夹进母亲的圣经，剪掉那句她永远不会原谅的话；第二天她开车到水库边，被警察拦下，隔着桥看了最后一眼。
 
 **情感弧线位置**：弧线的**最痛的一次回望**：她已经安顿下来，代价也付过了；本章不是她自己的损失，而是**她终于看懂了别人会怎么被对待**。情感上这是一次觉醒，位置在全书的中段偏上，为她此后不再置身事外做铺垫。
 
@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "fall always begins with the first touch of direct sunlight on a southern windowsill."
+> **原句 2:** "Regardless of the outside temperature or the color of the leaves, fall always begins with the first touch of direct sunlight on a southern windowsill."
 
 **中文理解**：不管温度、不管叶子的颜色，秋天永远从第一缕直射光落在朝南的窗台那一刻开始。
 
@@ -43,7 +43,25 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "the only reason we’re sitting here right now is they got forced off all this land we like to call our own."
+> **原句 3:** "FAREWELL IOLA, SAPINERO, CEBOLLA—WESTERN SLOPE TOWNS EVACUATED FOR NEW RESERVOIR .”
+
+
+My face fell. Zelda looked about worriedly. I pointed to the headline and tried to explain all it held for me.
+
+
+“Well, sugar,” she said, not unkindly, “you’ve known for years it was coming.”
+
+
+I nodded. She was right. But it wasn’t until that moment I’d truly believed that towns could actually be erased from the map, from their own land, that people could be forced out, their homes and livelihoods burned and drowned. I had resettled, but what about the others? I even wondered about Seth. If he had managed to stay at our farm until then, where could he possibly go next with no money or resilience or sense? I pictured the folks I grew up with loading their trucks with their belongings, herding their cattle toward safe ground east of Gunnison, shooing their horses and chickens and pigs into trailers. The evacuation must have been going on for months, and I had never even driven by.
+
+
+“It’s heartbreaking, absolutely,” Zelda said. She took a sip of coffee and a bite of cake, then added, “But it’s sure as hell nothing new. Think of the Utes.”
+
+
+Her candor took me aback. Most folks I’d known tended to think of the Utes with disdain or disregard or, most commonly, not at all.
+
+
+She went on, “I mean, the only reason we’re sitting here right now is they got forced off all this land we like to call our own."
 
 **中文理解**：那位太太说：我们之所以还能坐在这儿吃点心，只因为他们被人赶出了这块我们称作自己的土地。
 
@@ -51,17 +69,17 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者让一个**当地主妇**说出全书最刺耳的那句话，而且是用最轻快的语气。关键在两处夹逼：the only reason we’re sitting here right now（我们还能坐这儿的原因）把眼前的舒适直接归到别人的被逐上；而 we like to call our own（我们喜欢称作自己的）里那个 **like** 一击致命——**连「自己的」都要靠「喜欢」来垫**，说明她知道这份所有权从来有前提。这句话紧接在「FAREWELL IOLA」那条大标题之后，两段并排，一次互证。
 
-**读者视角提示**：这是全书对「占有」最不留情的一句；请把它和序章那句「好意的洪水」对读——同一片地，五十年前和十五年后。
+**读者视角提示**：这是全书对「占有」最不留情的一句；请把它和序章那句「好意的洪水」对读——同一片地，一次是工程把它淹了，一次是先来的人把它占了。
 
 ---
 
-> **原句 4:** "“I’m not saying it’s the same. I’m just saying the government can do anything it damn well pleases, and people suffer,” she said."
+> **原句 4:** "“I’m not saying it’s the same. I’m just saying the government can do anything it damn well pleases, and people suffer,” she said. “And we don’t learn one scrap from history"
 
 **中文理解**：她补了一句：我不说这和现在一样，我说的是政府想干什么就干什么，人要受苦，而我们从历史里学不到一点东西。
 
 **关键词**：I’m not saying it’s the same（我不说这和那次一样）；I’m just saying（我说的只是）；the government can do anything it damn well pleases（政府想干什么就干什么）；And we don’t learn one scrap from history（我们从历史里学不到一丝一毫）
 
-**为什么这样写**：作者先替读者踩了一脚刹车（I’m not saying it’s the same）——**她清楚自己正在做类比，而且拒绝做到底**。这句话是全书在政治上最清醒的一刻：她拒绝把「淹掉镇子的水库」和「赶走原住民」说成同一件事。可紧跟着的 We don’t learn one scrap from history（学不到一丝一毫）又说明：她不认（此处写那份剪报被夹进的地方）不认为这两件事**在后果上**同构。而 don’t（不）这个插入语让「学一点」变成了「学不到一丝」——**否定被推到了极限。**
+**为什么这样写**：作者先替读者踩了一脚刹车（I’m not saying it’s the same）——**她清楚自己正在做类比，而且拒绝做到底**。这句话是全书在政治上最清醒的一刻：她拒绝把「淹掉镇子的水库」和「赶走原住民」说成同一件事。可紧跟着的 We don’t learn one scrap from history（学不到一丝一毫）又说明：虽然她拒绝做类比，却认为这两件事**在后果上**同构。而 don’t（不）这个插入语让「学一点」变成了「学不到一丝」——**否定被推到了极限。**
 
 **读者视角提示**：这一段是全书唯一一次政治议论；作者让它由一个配角说出口，主角只是听着，并且明说自己当时没在听。
 
@@ -103,7 +121,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "if the circle of stones made them wonder about me as I was now wondering about them, and if they’d left behind a peach-shaped message just in case I’d find it."
+> **原句 8:** "I knew a round rock left atop a boulder was, perhaps, just a rock, and the footprints merely traces of curious strangers who had found my stone circle an odd work of art to which they added their part. But I couldn’t help wondering at another possibility: if, after all these years, this place beckoned them, the other mother and my son, just as it had beckoned me; if the circle of stones made them wonder about me as I was now wondering about them, and if they’d left behind a peach-shaped message just in case I’d find it."
 
 **中文理解**：她站在石圈边想：也许这个圈也在叫另外一位母亲和她的儿子过来；也许他们留下了一块桃形的石头。
 

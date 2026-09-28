@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：1970 年，她四十七岁，桃园丰产，报纸上挤满了民权、嬉皮士和越战的新闻。那位太太又一次追问她为什么不找个人，她又一次答「没什么」——可这一回她说了实话的一半：她只懂得爱这块地、这些树、这些桃子。随后那位太太说出自己六次怀孕、六次失去，其中一个还抱在手里过了。临走时那个来修谷仓的年轻木匠一弯下腰就开工，她站在门口走不开。
+**一句话概括**：1970 年，她守着丰收的桃园，报纸上挤满了民权、嬉皮士和越战的新闻。那位太太又一次追问她为什么不找个人，她又一次答「没什么」——可这一回她说了实话的一半：她只懂得爱这块地、这些树、这些桃子。随后那位太太说出自己六次怀孕、六次失去，其中一个还抱在手里过了。临走时那个来修谷仓的年轻木匠一弯下腰就开工，她站在门口走不开。
 
 **情感弧线位置**：弧线的**冻结点**：全书至此没有回升也没有下坠，只有一块被打磨到发亮的静止。她把全部的爱移交给一片果园，换来了一种她自己都认得出来的东西——**平静，但不是幸福。**本章末尾那一声停在门口的「走不开」，是全书第二次出现回声（第一次是 ch15 的谷底）。
 
@@ -21,11 +21,11 @@ modified: "2026-09-28"
 
 > **原句 1:** "As time passed, I fell more and more in love with the summer sunrise on my orchard."
 
-**中文理解**：1970 年，她越来越爱自己果园里的那个夏日日出；早上出门那一下，她都觉得是-good day。
+**中文理解**：1970 年，她越来越爱自己果园里的那个夏日日出；早上出门那一下，对她来说都是好天气（a good day）。
 
 **关键词**：As time passed（随着时间过去）；I fell more and more in love with（我越来越爱上）；the summer sunrise on my orchard（我这片果园上的夏日日出）
 
-**为什么这样写**：全章第一句就宣布了她这一生的**最终形态**：她爱上了一个**日出**。动词 fell（陷落）后面接 in love with，作者把「爱上一件事」和「掉进一样东西里」合成一个动作，而对象不是人，是一片果园上的光。more and more 把十五年压成一条单调上升的线。**她终于有了一个不会离开、也不会死的东西——每天早上六点准时来一次的那个。**
+**为什么这样写**：全章第一句就宣布了她这一生的**最终形态**：她爱上了一个**日出**。动词 fell（陷落）后面接 in love with，作者把「爱上一件事」和「掉进一样东西里」合成一个动作，而对象不是人，是一片果园上的光。more and more 把十五年压成一条单调上升的线。**她终于有了一个不会离开、也不会死的东西——每个搬得出步子的清晨准时来一次的那个。**
 
 **读者视角提示**：这一句和序章那句「我按三班火车的时间过日子」是同一套写法；区别是她当年计时用的是别人的车，现在用的是自己的天。
 
@@ -43,43 +43,55 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "“You’re married to your orchard like some kind of tree nun?” she asked without irony"
+> **原句 3:** "Wilson Moon.
 
-**中文理解**：那位太太问她：你是不是嫁给了你的果园，像个修女一样？她问得不带一丝揶揄。
 
-**关键词**：“You’re married to your orchard like some kind of tree nun?”（你是不是嫁给了你的果园，像个修女？）；tree nun（嫁给树园的修女）；without irony（不带揶揄）
+“Nothing,” I said instead. “I’ve told you. I’m not waiting for anything. Or anyone. Least of all for some beekeeper’s honey.”
 
-**为什么这样写**：作者用一句玩笑说完了一件严肃的事，而句末的 without irony（不带揶揄）**四个字立刻取消了玩笑**。tree nun 这个词造得很准：她确实把一生许给了这片地（ch19 那一段誓言），也确实终身独身——**同一种奉献，套在人和地上，在外人眼里只差一个称呼。**而 married 这个词由一个最热衷于撮合她的人说出来，分量更重。
 
-**读者视角提示**：她笑着否认了，并且承认这里面「有一点道理」——这个承认是本章最重要的一次坦白。
+I grinned, but Zelda, usually so quick to laugh, doubly so at anything risqué, did not break her gaze. She laid her fork on her plate and leaned toward me.
 
----
 
-> **原句 4:** "But my secret resided in such a deep lockbox, I had no idea how to open the latch and set it free"
+“What is it, V? Come on,” she coaxed. “What aren’t you telling me about why you won’t date?”
+
+
+How could I explain to her why a tragic first love when I was only seventeen years old prevented me from ever loving again?
+
+
+“Let’s finally talk about this,” she was saying.
+
+
+But all I could think of was the many ways I had failed Wil, and our son, that a life alone ensured that I would never betray them or anyone else again. I cared only for what I knew how to love, which was the land and the trees and the peaches.
+
+
+“Did some bastard hurt you? Is that it?” Zelda asked, knitting her groomed brows.
+
+
+“No, no,” I quickly replied. “It’s not that. It’s….” I so badly wanted to tell her everything. But my secret resided in such a deep lockbox, I had no idea how to open the latch and set it free"
 
 **中文理解**：她有过很多次想把 Wilson Moon 的事说出来；可那个秘密锁得太深，她连怎么打开闩子都不知道。
 
 **关键词**：But my secret resided in such a deep lockbox（可我的秘密住在那么深的一只箱子里）；a deep lockbox（一口很深的箱／锁）；I had no idea how to open the latch and set it free（我不知道怎么打开那个闩把它放出来）
 
-**为什么这样写**：作者用 **lockbox（带锁的箱）** 这个词把「秘密」实体化，而 latch（闩）比 lock（锁）更精确：**有闩的东西是可以打开的，只是她不知道怎么开。**于是「说不说」这件事不再（此处写那些被剪下来收着的东西）意志问题，而是**技能问题**——她缺一个方法。set it free（把它放出来）又说明：她要的不是删掉，是**放生**。而 such a deep（那么深）里的 deep 与 ch20 那段十四年寻人的深潭呼应：他们家的人都是把东西藏得很深的人。
+**为什么这样写**：作者用 **lockbox（带锁的箱）** 这个词把「秘密」实体化，而 latch（闩）比 lock（锁）更精确：**有闩的东西是可以打开的，只是她不知道怎么开。**于是「说不说」这件事不再是意志问题，而是**技能问题**——她缺一个方法。set it free（把它放出来）又说明：她要的不是删掉，是**放生**。而 such a deep（那么深）里的 deep 与她自己那段八年寻访呼应：他们家的人都是把东西藏得很深的人。
 
-**读者视角提示**：这是全书第二次用「锁」写她的过去（第一次是 ch06 她把话咽下去）；两次的差别是那一次她不想说，这一次她不会说。
+**读者视角提示**：这是全书**唯一**一次把秘密写成一件有闩的实物；两次的差别是那一次她不想说，这一次她不会说。
 
 ---
 
-> **原句 5:** "“It’s…nothing,” I answered, again letting the truth pass like a floating seed unable to anchor"
+> **原句 4:** "“It’s…nothing,” I answered, again letting the truth pass like a floating seed unable to anchor"
 
 **中文理解**：她又答了一遍「没什么」，让真相像一粒浮着的种子那样从她嘴里滑过去，落不了地。
 
 **关键词**：“It’s…nothing,” I answered（我说，没什么）；letting the truth pass（让真相从身边过去）；like a floating seed unable to anchor（像一粒浮着、扎不住根的种子）
 
-**为什么这样写**：作者用 **floating seed（浮着的种子）** 这个比喻解释「说了一半的话」：种子本来是**要落地的**，而 unable to anchor（扎不住根）说的正是它的失败。letting the truth pass（让真相过去）是**主动放行**——她没有憋住，是放走的。而答案还是那个 It’s…nothing，开头的省略号和 ch18 那句一模一样：**她的沉默有固定的语法。**
+**为什么这样写**：作者用 **floating seed（浮着的种子）** 这个比喻解释「说了一半的话」：种子本来是**要落地的**，而 unable to anchor（扎不住根）说的正是它的失败。letting the truth pass（让真相过去）是**主动放行**——她没有憋住，是放走的。而答案还是那个 It’s…nothing，开头的省略号在本章已经出现过两次（It’s…. / It’s…what?）：**她的沉默有固定的语法。**
 
 **读者视角提示**：作者写这句话用了 again（又一次）——这是她多年来对这个问题第无数次同样的回答。
 
 ---
 
-> **原句 6:** "I cared only for what I knew how to love, which was the land and the trees and the peaches"
+> **原句 5:** "I cared only for what I knew how to love, which was the land and the trees and the peaches"
 
 **中文理解**：她只懂得爱一样东西，而那就是这块地、这些树、这些桃子。
 
@@ -91,7 +103,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "“A boy,” she said solemnly. “We named him. Joseph.” She paused. “I carry him—all of them—right here.”"
+> **原句 6:** "“A boy,” she said solemnly. “We named him. Joseph.” She paused. “I carry him—all of them—right here.”"
 
 **中文理解**：她说那个孩子是个男孩，我们给他取名 Joseph；她说：我把他们都揣在这里。
 
@@ -103,19 +115,19 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "I had never stopped seeing Wil and my son in my orchard, smiling from the edges or even working by my side"
+> **原句 7:** "I had never stopped seeing Wil and my son in my orchard, smiling from the edges or even working by my side"
 
 **中文理解**：她说自己从没停止在果园里看见他们——Wil 和儿子，在树梢上笑，或者就在她身边干活；如果她疯了，那他也是。
 
 **关键词**：I had never stopped seeing Wil and my son in my orchard（我从来没停止在果园里看见他和我儿子）；smiling from the edges（从边上微笑着）；If she was crazy, then so was I（如果她疯了，那么我也是）
 
-**为什么这样写**：作者用 **from the edges（从边上）** 这三个词安置亡者的位置：他们在 Orchard 的边缘，不在里面、也不在身后。而最后一句是全书最精妙的一次**结盟**：那位太太说「你会觉得我疯了」，叙述者立刻回答——**那我也是。**这句把两个毫无共同点的女人（一个丧子，一个丧六子）用同一个诊断连起来，**而共同的诊断是：她们的疯不是幻觉，是准确。**
+**为什么这样写**：作者用 **from the edges（从边上）** 这个词组安置亡者的位置：他们在**果园的边缘**，不在里面，也不在身后。而最后一句是全书最精妙的一次**结盟**：那位太太说「你会觉得我疯了」，叙述者立刻回答——**那我也是。**这句把两个毫无共同点的女人（一个丧子，一个丧六子）用同一个诊断连起来，**而共同的诊断是：她们的疯不是幻觉，是准确。**
 
 **读者视角提示**：这是全书第一次、也是唯一一次她说「我和你一样」；整本书她对谁都没有承认过这一点。
 
 ---
 
-> **原句 9:** "he bent over his toolbox to get straight to work, but I couldn’t leave"
+> **原句 8:** "he bent over his toolbox to get straight to work, but I couldn’t leave"
 
 **中文理解**：她带那个年轻人去谷仓看要加固的梁，看见他一弯下腰就开工，她站在门口走不开了。
 
@@ -157,7 +169,7 @@ modified: "2026-09-28"
 ## 一句话总结
 
 这一章是全书最安静、也最像结论的一章：1970 年，她的桃园丰收，报纸上挤满了民权、地球日和越战，而她只在想自己怎么摘桃。
-那位太太又一次追问她为什么不找个人，她照旧答「没什么」——可这一回作者给了她一次半坦白的（此处写那些被剪下来收着的东西）秘密锁得太深，她连闩怎么开都不知道。
+那位太太又一次追问她为什么不找个人，她照旧答「没什么」——可这一回作者给了她一次半坦白的机会，又立刻收回——秘密锁得太深，她连闩怎么开都不知道。
 然后全书最重的一句从她嘴里出来了：她只懂得爱一样东西，那就是这块地、这些树、这些桃子。**爱在这里不再是一种情感，而是一项技能**——技能有边界，代价也就有了确切的数目。
 紧接着，那位太太说出自己怀过六次、六次都没留住，其中一个还抱在手里过了；她说：我把他们都揣在这里。而叙述者想的，是自己那次抱着一具不再动的婴儿。**作者一个字都没让她们比较。**
 全章的高潮是那位太太说完「你会觉得我疯了」之后的那一句：

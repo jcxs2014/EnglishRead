@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 > **原句 1:** "Imagine what lingers on the black bottom of a lake. Debris, rivered in or tossed from boats, grows shaggy and soft."
 
-**中文理解**：湖底留下的不是水，而是被冲刷过的旧物；作者先让读者「看见」湖底，再让叙述者承认那里曾经是自己家。
+**中文理解**：湖底留下的不是水，而是被冲刷过的旧物；作者先让读者「看见」湖底；那句「那里曾经是自己家」要到下一段才由叙述者说出。
 
 **关键词**：lingers（沉积、滞留）；Debris（残骸碎片）；grows shaggy and soft（长得蓬乱而软）
 
@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "The once fertile land marinates in idleness."
+> **原句 2:** "barbed wire rusts. The once fertile land marinates in idleness."
 
 **中文理解**：土地没有荒废，只是「腌」在无所事事里——把「被糟蹋」写成「被泡着」的比喻。
 
@@ -79,7 +79,13 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "Good intentions otherwise drowned the entirety of Iola, Colorado."
+> **原句 6:** "but I know another story.
+
+
+I used to stand knee-deep in this section of the Gunnison when it still rushed fast and frothy through the valley of my birth, the vast and lonely Big Blue wilderness rising above it. I knew the town of Iola when it woke each morning to fragrant breakfasts and bustling farms and ranches, how the sunrise illuminated the east side of Main then inched uptown, across the train tracks and schoolyard, to ignite the tiny church’s one round red-and-blue stained-glass window. I timed my life by the hollow whistle of the 9:22, the 2:05, the 5:47. I knew all the shortcuts and townsfolk and the oldest gnarled tree consistently producing the sweetest peaches in my family’s orchard. And I knew, perhaps more than most, the sadness of this place.
+
+
+Good intentions relocated the Iola graveyard high on a hill—each of my family’s headstones hopefully matched with their appropriate remains—where it still sits behind a white iron fence, bent and twisted from the weight of snow. Good intentions otherwise drowned the entirety of Iola, Colorado."
 
 **中文理解**：同一个句式再来一次，这次去掉 may：墓园搬上山没有错，但整座镇子被淹没了。
 

@@ -15,7 +15,7 @@ modified: "2026-09-28"
 
 **人物弧线**：Victoria 从「夹在两个骂人的男人中间、庆幸自己听不见」，走到「意识到自己怕弟弟」，再走到「替叔叔抱不平」——她在本章第一次站到了**成人那一侧的立场**去评判大人的做法；Og 则从本章开始以「回来之后的那个人」而非「战前的那个人」被书写。
 
-**叙事手法**：时间套嵌闪回（当下 → 1942 夏日 → 1942 秋天接站）；三段回忆各自独立成景、靠同一件家具（树屋／拐杖／轮椅）串联；用听觉意象收束每一段。
+**叙事手法**：时间套嵌闪回（当下 → 1942 夏日盖树屋 → **同一个 1942 年夏天**去车站接人）；三段回忆各自独立成景、靠同一件家具（树屋／拐杖／轮椅）串联；用听觉意象收束每一段。
 
 ## 精读
 
@@ -79,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "The instant Ogden appeared at the train-car opening, I knew I had been tricked."
+> **原句 6:** "The instant Ogden appeared at the train-car opening, I knew I had been tricked. My mind swam in an attempt to figure out by whom, but all I could come up with was by Ogden himself—this one-legged soldier"
 
 **中文理解**：1942 年火车站，她盼着英雄回来，下来的是一根拐杖和一个陌生人。
 

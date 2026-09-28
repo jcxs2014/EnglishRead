@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 **一句话概括**：1955 年，她给 Ruby-Alice 养老、送她最后一程，把旧屋一箱箱搬上车；在 Chapman 店里撞见 Millie，对方笑盈盈地恭喜她见到哥哥；她回家时哥哥坐在走廊等着她，她握着父亲那支旧步枪出门，两人在各自的成见里打量了彼此；最后她关上门，回头看了那个地方很久，然后带着那批连根拔起的树苗上路。
 
-**情感弧线位置**：弧线的**重新起步**：本章是全书第二个大跨步（第一（此处写她当年藏身的那个壁橱）是 ch09 的自由），但这一次她不是逃，是**送走**。前 17 章所有的人、房子、账目在这里清空，只剩下一句话留在她身上。
+**情感弧线位置**：弧线的**重新起步**：本章是全书第二个大跨步（第一次是第八章那句「我这辈子头一次自由」），但这一次她不是逃，是**送走**。前 17 章所有的人、房子、账目在这里清空，只剩下一句话留在她身上。
 
 **Tropes 兑现/反转**：善终；与恶人和解（以不对抗的方式）；离开故土重新开始。**反转点**：全章最大的一笔是 Millie 那句热心得近乎残忍的恭喜——作者让全书最会伪善的人，在最不合适的时候说出最得体的话，并且让她毫无反应；而与哥哥的重逢被处理成一次装备检查（枪），不是一场和解。
 
@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 > **原句 1:** "Whatever countenance she once possessed had grown unreadable, but I think it pleased her to look out at the jeweled snow and deep-blue sky."
 
-**中文理解**：1955 年春天，她已经要看一具老迈的身体才能读出她当年在想什么。
+**中文理解**：1955 年二月，她看着一张已经读不懂的老脸——那副表情当年想什么，她只能猜。
 
 **关键词**：Whatever countenance she once possessed had grown unreadable（她当年那副无论什么表情，如今已经读不懂了）；Whatever countenance（无论当年是什么样子）；unreadable（读不懂的）
 
@@ -31,19 +31,22 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "Her round face was wrinkled and pale as a cabbage now, but the half-moon curve of her brown eyes still falsely implied harmlessness."
+> **原句 2:** "Her round face was wrinkled and pale as a cabbage now, but the half-moon curve of her brown eyes still falsely implied harmlessness. I’d learned long ago not to trust those eyes"
 
 **中文理解**：她的脸现在像一颗皱皮的白菜，可那双眼睛还是老样子——半月的弧度，看着无害。
 
 **关键词**：wrinkled and pale as a cabbage（皱得像一颗白菜）；still falsely implied harmlessness（仍然假装出无害的样子）；falsely implied（假装暗示着）
 
-**为什么这样写**：作者把「年纪」交给一个**蔬菜**（as a cabbage），把「本性」交给**一个形容词**（falsely implied）。这两处都是刻意的：白菜是无害的、朴素的、平贱的；falsely 才是全句的支点——**这个人的无害样子是假的，而且是作者早就知道的**。她在 ch06 就已经写下过这件事（I’d learned long ago not to trust those eyes），本章只是把当年的结论**再确认一次**，而对象已经是七年前那张脸了。
+**为什么这样写**：作者把「年纪」交给一个**蔬菜**（as a cabbage），把「本性」交给**一个形容词**（falsely implied）。这两处都是刻意的：白菜是无害的、朴素的、平贱的；falsely 才是全句的支点——**这个人的无害样子是假的，而且是作者早就知道的**。作者在紧接的下一句就写下同一件事（I’d learned long ago not to trust those eyes），本章只是把当年的结论**再确认一次**，而对象已经是七年前那张脸了。
 
-**读者视角提示**：这是全书少见的一次「作者早给过答案、事后回来盖章」；请把这一句与 ch06 她在寄宿公寓厨房里说的实话并排读。
+**读者视角提示**：这是全书少见的一次「作者早给过答案、事后回来盖章」；请把这一句与 ch06 她在那家廉价旅店厨房里为了不撒谎而硬把真话说出口的那一段并排读。
 
 ---
 
-> **原句 3:** "“And, heavens, how nice it must be for you to see your brother again.”"
+> **原句 3:** "“And, heavens, how nice it must be for you to see your brother again.”
+
+
+I looked at her as blankly as if I had received a slap"
 
 **中文理解**：Millie 笑着说：天哪，你见到你哥哥可真是太好了。
 
@@ -69,11 +72,11 @@ modified: "2026-09-28"
 
 > **原句 5:** "“I thought you hated that old rifle.”"
 
-**中文理解**：她握着他爹留下的那支旧步枪出门，哥哥在走廊里笑：我还以为你恨透了它。
+**中文理解**：她握着他爹留下的那支旧步枪出门，哥哥在门廊上嘶哑地笑了一声：我还以为你恨透了它。
 
 **关键词**：“I thought you hated that old rifle.”（我还以为你恨透了那支老步枪）；I thought（我还以为）；that old rifle（那支老步枪）
 
-**为什么这样写**：作者用一支**枪**来写七年的距离。Seth 一开口就点出枪，而枪是 ch02 那场打架里她自己举起过的东西（他记住的是她当年握着它的样子）。这句里的 I thought（我还以为）用得极准：他说的是**记忆里的她**——七年前的那个动作。所以这不是问候，是**考古**：他记得的是她手里有枪，而不是她后来说的话。
+**为什么这样写**：作者用一支**枪**来写七年的距离。Seth 一开口就点出枪，而枪的历史全在本章更早的一处回忆里（她十三岁被带去打 Coca-Cola 瓶）（他记住的是她当年握着它的样子）。这句里的 I thought（我还以为）用得极准：他说的是**记忆里的她**——七年前的那个动作。所以这不是问候，是**考古**：他记得的是她手里有枪，而不是她后来说的话。
 
 **读者视角提示**：整场重逢他们几乎没谈那件事；作者让这对亲兄妹隔着一支枪和一个名字互相打量，全书没有一句道歉。
 
@@ -95,15 +98,18 @@ modified: "2026-09-28"
 
 **中文理解**：她把车停在自家车道尽头，下车回头看了很久——那个地方造就了她。
 
-**关键词**：I parked the truck and got out（我把车停下、下了车）；one long, final look（一次长长（此处写她当年藏身的那个壁橱）、最后的看）；the place that made me（那个造就了我的地方）
+**关键词**：I parked the truck and got out（我把车停下、下了车）；one long, final look（最后久久的一瞥）；the place that made me（那个造就了我的地方）
 
-**为什么这样写**：作者用 **the place that made me** 六个词完成了对前面三十二章的总账：那个镇子做成了她，包括那个没水的桃园、那家人、那具压垮她的爱。而 long, final 这一对形容词把「最后一眼」拉成**一个事件**，不是一瞥。这一段和序章那段「我的家就在湖底」正好是一对：序章是**失去**之后回望，这一章是**主动**离开之前的回望。两次看的是同一片地方，可她说的话从「我记得」变成了「它造就了我」——**从怀旧变成了结算**。
+**为什么这样写**：作者用 **the place that made me** 这五个词完成了对前面十七章的总账：那个镇子做成了她，包括那个没水的桃园、那家人、那具压垮她的爱。而 long, final 这一对形容词把「最后一眼」拉成**一个事件**，不是一瞥。这一段和序章那段「我的家就在湖底」正好是一对：序章是**失去**之后回望，这一章是**主动**离开之前的回望。两次看的是同一片地方，可她说的话从「我记得」变成了「它造就了我」——**从怀旧变成了结算**。
 
 **读者视角提示**：全书的主题句在这里落地：地方造人，风景把人带走，她把树带走，树就跟她一起重走一遍。
 
 ---
 
-> **原句 8:** "I figured that if my trees could survive, uprooted and against the odds, then, damn all bad fortune, so too could I."
+> **原句 8:** "I had already perused its silent rooms and made peace with the memories and the items I would leave behind. Instead, I loaded the final basket into the passenger seat. It was flagged with a blue ribbon to mark its contents as special: Mother’s porcelain crosses, framed embroidery, and her Bible; Daddy’s flannel shirts; two of Ruby-Alice’s quilts and my favorite of her figurines. I rounded up the little dogs from the house and the yard and settled them in the back seat. Then I closed the kitchen door with a tug.
+
+
+I started down the long driveway, trying not to look back. But I couldn’t do it. I parked the truck and got out to take one long, final look at the place that made me. Then I returned to the truck and kept on driving. I would leave my past behind and try to build my life again, hoping not for miracles but simply for strength in new soil. I figured that if my trees could survive, uprooted and against the odds, then, damn all bad fortune, so too could I."
 
 **中文理解**：她对自己说：如果这些连根拔起的树都能活下来，那么，凭什么我不能。
 
@@ -144,6 +150,6 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-这一章是全书的第二个起点，而作者让它从**收拾残局**开始：她给养老院般的朋友送最后一程，把旧屋一箱箱搬上车，把该留的该扔的全分清——包括那封十一岁时塞进杂物间的信，和那个再没回过头的秋千。作者写告别不用抒情，用**打包**。在 Chapman 店里，Millie 笑盈盈地说：天哪，见到你哥哥真是太好了。每一个词都往好的方向走，整句却正好戳在最疼的地方；而她的回答是空白的——像挨了一记耳光，又像什么也没挨。回到家，哥哥坐在走廊，她握着父亲那支旧步枪出去。七年只说了三个字：我恨。没有人道歉，也没有人解释。
+这一章是全书的第二个起点，而作者让它从**收拾残局**开始：她给养老院般的朋友送最后一程，把旧屋一箱箱搬上车，把该留的该扔的全分清——包括那封十一岁时塞进杂物间的信，和那个再没回过头的秋千。作者写告别不用抒情，用**打包**。在 Chapman 店里，Millie 笑盈盈地说：天哪，见到你哥哥真是太好了。每一个词都往好的方向走，整句却正好戳在最疼的地方；而她的回答是空白的——像挨了一记耳光，又像什么也没挨。回到家，哥哥坐在走廊，她握着父亲那支旧步枪出去。只回了一句：I do——我恨。没有人道歉，也没有人解释。
 全章最后她把车停在自家车道尽头，下车回头看了一次——「那个造就了我的地方」。这句话和序章那句「我的家就在湖底」正好是一对，可语气从怀念变成了结算。
 然后她说出全书最后一个判断：树被连根拔起，如果还能活，那么管他妈什么坏运，我也能。这句话把全书的主题反了过来：不是地方造人，是人带着树一起重走一遍。

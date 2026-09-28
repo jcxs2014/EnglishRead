@@ -19,7 +19,7 @@ modified: "2026-09-28"
 
 ## 精读
 
-> **原句 1:** "how it must feel to be Ogden, one leg lost to war, the other without foot or use after gangrene, a once agile body trapped in the confines of a chair"
+> **原句 1:** "considered him in a new way: how it must feel to be Ogden, one leg lost to war, the other without foot or use after gangrene, a once agile body trapped in the confines of a chair. Since the day he’d returned from war, Og’s fury was surely the lion concealing the lamb of his sorrow"
 
 **中文理解**：她把拐杖靠在 Og 门外，心里第一次想：一个在战场上少了一条腿、在战后又丢了另一只脚的人，天天困在椅子里是什么滋味。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "I had barely been able to conceive of the possibility that Wil was indeed an Indian or what that even meant to me, let alone believe he was a fugitive or a thief."
+> **原句 4:** "I had barely been able to conceive of the possibility that Wil was indeed an Indian or what that even meant to me, let alone believe he was a fugitive or a thief. The cruel talk about him seemed so wrong, yet what did I actually know about this boy"
 
 **中文理解**：她连 Wil 是原住民这件事都还没消化，更不用说相信那些关于他逃跑、偷窃的说法。
 
@@ -67,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "The men left the kitchen in a clattering mass, taking their cruel talk and sharp smell with them,"
+> **原句 5:** "The men left the kitchen in a clattering mass, taking their cruel talk and sharp smell with them, leaving the table strewn with crumbs and dishes and a chicken carcass so clean picked it could have been devoured by vultures"
 
 **中文理解**：男人们带着骂声和气味一起离开厨房，只剩她一个人在满桌狼藉里站着。
 
@@ -79,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "Davis was looking for Wil. I was sure of it."
+> **原句 6:** "Davis was looking for Wil. I was sure of it. I shivered, as much from the cooling afternoon breeze as from the brief but intent stare"
 
 **中文理解**：她在果园里一眼就认出那个穿工作手套却不提篮子的人，不是来摘桃子的。
 

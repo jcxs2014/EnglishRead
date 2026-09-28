@@ -19,19 +19,7 @@ modified: "2026-09-28"
 
 ## 精读
 
-> **原句 1:** "Inga and I sat for over an hour in her tidy yellow kitchen after Zelda drove away"
-
-**中文理解**：朋友开车走后，两个女人在那间整洁的黄色厨房里坐了一个多小时，把能说的都说完了。
-
-**关键词**：sat for over an hour（坐了一个多小时）；her tidy yellow kitchen（她那间整洁的黄色厨房）；after Zelda drove away（在那位太太开车走之后）
-
-**为什么这样写**：作者用**空间与时长**给这场会面定标：一个多小时、一间厨房、一种黄色。tidy（整洁）这个词在这里有分量——**对方把屋子收拾得井井有条，而她这一生没有一件东西是有条理的**（除了果园）。而 after Zelda drove away 里的那辆车也说明：**这场谈话需要一个见证人走了之后才发生**。而 gracing the other with（惠赐对方）这个动词把两个女人写成**互赠的人**——不是谁施舍给谁。
-
-**读者视角提示**：请注意这一章全程没有提到她自己的姓氏：在这间厨房里，她只是一个刚哭过的人。
-
----
-
-> **原句 2:** "My family had never bothered to own a camera"
+> **原句 1:** "My family had never bothered to own a camera. I had no photographs of my past, of the people and land I had loved and lost. And yet, there, right before me, was a square Kodachrome"
 
 **中文理解**：她家从来没有相机；她没有一张过去、没有一张人的照片。
 
@@ -43,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "And yet, there, right before me, was a square Kodachrome of Wil"
+> **原句 2:** "And yet, there, right before me, was a square Kodachrome of Wil"
 
 **中文理解**：然而就在她面前，有一张他的彩色方形照片。
 
@@ -55,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "The muscular teen in white T-shirt and jeans posed in a rose garden, his gentle dark-brown eyes and generous smile hurling me through time"
+> **原句 3:** "The muscular teen in white T-shirt and jeans posed in a rose garden, his gentle dark-brown eyes and generous smile hurling me through time"
 
 **中文理解**：照片上是一个穿白 T 恤牛仔裤的健壮少年，站在玫瑰园里；她被那双温柔的眼睛和那个笑一把甩回了从前。
 
@@ -67,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "I saw only Wil."
+> **原句 4:** "I saw only Wil."
 
 **中文理解**：她看着儿子十七岁的照片，只看见 Wil。
 
@@ -79,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "For the first time since I’d left him, I felt he was my son to protect"
+> **原句 5:** "For the first time since I’d left him, I felt he was my son to protect"
 
 **中文理解**：她第一次觉得：这个孩子是她要保护的人。
 
@@ -91,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "“You’re right. We’re not. Lukas’s life is up to him"
+> **原句 6:** "“You’re right. We’re not. Lukas’s life is up to him. We can only let him know where he comes from, and that he’s always been loved,” she said. “That’s all he needs from you now, Victoria. Then he can choose the rest"
 
 **中文理解**：她说：我们不是能帮他的人；她说：他的人生是他自己的，我们只能告诉他从哪来、且一直有人爱他。
 
@@ -103,7 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "“How do we tell him that I am ready?” I asked with a quivering voice"
+> **原句 7:** "“How do we tell him that I am ready?” I asked with a quivering voice"
 
 **中文理解**：她最后问的是：我要怎么让他知道我已经准备好了？
 
@@ -115,7 +103,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** "“I’ll find a way,” she said"
+> **原句 8:** "“I’ll find a way,” she said"
 
 **中文理解**：她把手放在对方手上说：总会有办法的。
 

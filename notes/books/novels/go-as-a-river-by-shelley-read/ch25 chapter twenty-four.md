@@ -43,13 +43,13 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "Rio de las Animas.” The River of Souls, as I recalled from Inga Tate’s story,"
+> **原句 3:** "The sign on the bridge read, “Rio de las Animas.” The River of Souls, as I recalled from Inga Tate’s story,"
 
 **中文理解**：桥上的牌写着 Rio de las Animas；灵魂之河——这个名字她是在那叠信里读到的。
 
 **关键词**：The sign on the bridge read（桥上的牌子写着）；Rio de las Animas（灵魂之河）；The River of Souls, as I recalled from Inga Tate’s story（灵魂之河，我在那叠信里读到过）
 
-**为什么这样写**：作者让**一个地名完成一次接力**：那个二十来岁的女人在第十九章推着婴儿车走到这条河边、一个人坐着的河，名字是英格·泰特从那叠信里读到的；而现在她本人开着车从桥上过去。**两代人的同一条河，中间隔着一封信和一个死去的孩子。**而 The River of Souls（灵魂之河）这个译名在这里第一次真正生效——她正要去做的事，正是一次与亡者有关的会面。
+**为什么这样写**：作者让**一个地名完成一次接力**：那个二十来岁的女人在本文件 ch22（书内 Chapter Twenty-One）推着婴儿车走到这条河边、一个人坐着的河，名字是英格·泰特从那叠信里读到的；而现在她本人开着车从桥上过去。**两代人的同一条河，中间隔着一封信和一个死去的孩子。**而 The River of Souls（灵魂之河）这个译名在这里第一次真正生效——她正要去做的事，正是一次与亡者有关的会面。
 
 **读者视角提示**：请记住这条河：全书最后一章，两个人会在同一片水边见最后一面。
 
@@ -67,19 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "I fumbled with my purse as Zelda reached over with a gentle caress to my shoulder"
-
-**中文理解**：她站在门廊下慌乱地摸钱包，身后那只手轻轻搭上她的肩，问她一句准备好了没有。
-
-**关键词**：I fumbled with my purse（我慌乱地摸着自己的钱包）；Zelda reached over with a gentle caress to my shoulder（那位太太伸手轻轻抚上我的肩）；gentle caress（轻轻的一抚）
-
-**为什么这样写**：作者用 **caress（抚）** 这个通常带感情色彩的词，却把它放在**后座上**：那只手来自车门这一侧，隔着一个人。而 fumble（慌乱地摸索）把一个成年女人写成了在门口翻口袋的样子——**她把三十年的镇定全留在了果园里。**这是本章唯一一次她失态，而失态发生在一个门廊下、发生在见到对方之前：**她怕的不是那个人，是自己。**
-
-**读者视角提示**：请把它和第六章进那间寄宿公寓的门前对照：那一回她准备了一句谎（我来帮 Dunlap 家做午饭），这一回她连一句都准备不出来。
-
----
-
-> **原句 6:** "“Ready?” she asked"
+> **原句 5:** "“Ready?” she asked"
 
 **中文理解**：她先答 OK，然后又对自己重复了一遍：OK。
 
@@ -91,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "Our eyes locked and Inga lurched toward me. She clutched my hands between both of hers, pulling them to her chin and holding them there as if in prayer"
+> **原句 6:** "Our eyes locked and Inga lurched toward me. She clutched my hands between both of hers, pulling them to her chin and holding them there as if in prayer. Her brimming tears"
 
 **中文理解**：两个人对上了眼；对方踉跄着扑上来，把她两只手夹在自己的双手里，捧到下巴上，像在祈祷。
 
@@ -103,7 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "I whispered into her sweetly scented hair the words I had for two decades been longing to say: “Thank you, thank you, thank you, thank you.”"
+> **原句 7:** "I whispered into her sweetly scented hair the words I had for two decades been longing to say: “Thank you, thank you, thank you, thank you.”"
 
 **中文理解**：她把想了二十年才憋出来的那两个字说了四遍：谢谢、谢谢、谢谢、谢谢。
 
@@ -115,7 +103,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** "“I’m sorry I kept him from you,” she said. “And I’m even more sorry that I lost him.”"
+> **原句 8:** "“I’m sorry I kept him from you,” she said. “And I’m even more sorry that I lost him.”"
 
 **中文理解**：对方摇头，然后说出了她最没料到的话：对不起——对不起我把他从你身边藏起来了，更对不起，我把他弄丢了。
 

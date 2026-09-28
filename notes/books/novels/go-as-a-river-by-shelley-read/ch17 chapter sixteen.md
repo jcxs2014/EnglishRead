@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "Said she didn’t believe the notices she received saying both her boys died"
+> **原句 3:** "Said she didn’t believe the notices she received saying both her boys died in the first months of the war. Said God wouldn’t do that to a mother"
 
 **中文理解**：那封信上写：她不信那些说两个儿子都死在开战头几个月的通知——上帝不会这样对一个母亲。
 
@@ -69,11 +69,11 @@ modified: "2026-09-28"
 
 > **原句 5:** "“That Moon fella,” he corrected. “But a drifter’s hard to track. Last records we found had him at an Indian school in Albuquerque, but no tellin’ which reservation he’d come from. He’d run away from the school a few years back."
 
-**中文理解**：治安员告诉她 Wil 的下落：他在阿尔伯克基的一所寄宿学校，去年前后跑出来的——再往前就没有记录了。
+**中文理解**：治安员告诉她 Wil 的下落：他在阿尔伯克基的一所寄宿学校，几年前跑出来的——这就是他们能挖到的全部。
 
 **关键词**：“That Moon fella,” he corrected（他纠正道：那个 Moon 家伙）；Last records we found had him at an Indian school in Albuquerque（我们找到的最后记录是在阿尔伯克基的一所原住民学校）；He’d run away from the school a few years back（他几年前从那儿跑了出来）
 
-**为什么这样写**：作者让**记录本身在这里断掉**。作者用了三层：学校有记录→学校说他是几年前跑走的→再没有下落。而那最后一条不是运气问题，是**制度的问题**：一个孩子从寄宿学校跑出来之后，在 1950 年代的任何档案里都不再是「任何人」。他 corrected（他纠正道）这个词也别有意味：她说的是 dead boy（死掉的男孩），他改口成 fella（家伙）——**语言在这一刻把人从悼词里捞了回来**。
+**为什么这样写**：作者让**记录本身在这里断掉**。作者用了三层：学校有记录→学校说他是几年前跑走的→再没有下落。而那最后一条不是运气问题，是**制度的问题**：一个孩子从寄宿学校跑出来之后，在 1950 年代的任何档案里都不再是「任何人」。他 corrected（他纠正道）这个词也别有意味：他自己刚说过 dead boy（死掉的男孩），随即又改口成 fella（家伙）——**语言在这一刻把人从悼词里捞了回来**。
 
 **读者视角提示**：这是全书第一次出现 Wil 少年时代的下落；这几句也是 ch22 那封长信存在的理由。
 
@@ -103,7 +103,22 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "then reminded her I didn’t go by the name Torie anymore."
+> **原句 8:** "though the price proved small compensation for the indignation I then suffered from my townsfolk once news of my betrayal spread. To say I felt hated would not be an overstatement. Local folks I had known my entire life stopped buying our peaches and looked away when passing me on Main. Even the Mitchells cut off our ties, either out of genuine anger or perhaps fear of being ostracized by association. Against her father’s wishes, and clearly more from obligation than desire, Cora stayed with the stand until the end of that peach season, her once jolly demeanor chilled to cold politeness to every out-of-towner and, especially, to me.
+
+
+As Cora heaved herself into her truck after we sold our last bag of peaches and I began boarding up the stand for good, she stared at me through the open window as if I had changed beyond recognition.
+
+
+“You know your Daddy’s rollin’ in his grave, Torie,” she said. “One full turn for every dollar you ‘cepted from those gov’ment men.”
+
+
+I thanked her for her many years of loyal service, then reminded her I didn’t go by the name Torie anymore.
+
+
+The afternoon sun filtered through the dust trailed by her truck tires, making the ordinary road a strange sort of beautiful as she drove away.
+
+
+I had loved Cora Mitchell, just as I had loved a hundred other particulars of my life in Iola. But tragedy and grief had gnawed at every last thing I knew to be true about that place. I nailed the final board across the vacant stand and whispered an apology to my grandfather. I did not offer the same nod of regret to my father"
 
 **中文理解**：她钉上最后一块板，对祖父说了声抱歉——对父亲没有同样的一句。
 

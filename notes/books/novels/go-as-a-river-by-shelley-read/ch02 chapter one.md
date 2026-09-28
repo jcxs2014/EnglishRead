@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **关键词**：Pardon（借过／请让让）；grimy（肮脏的）；tattered red ball cap（破旧的红色球帽）
 
-**为什么这样写**：全章第一句独立成段的对话，只有六个词。作者先写他的手指（thumb and forefinger）如何捏着帽檐，再给出话——**动作先于语言**。Pardon 一个词同时是「借过」和「请原谅」，这种双关正配一个问路的外乡人：一个词就能让两个陌生人搭上话。全句没有一句内心戏，Wil 这个人的自信、机敏与落魄在帽檐和煤灰两个细节里一次交足。
+**为什么这样写**：全章第一句独立成段的对话很短，问句只有六个词。作者先写他的手指（thumb and forefinger）如何捏着帽檐，再给出话——**台词在前、动作分词在后——读者先听见声音、再看见那只手**。Pardon 一个词同时是「借过」和「请原谅」，这种双关正配一个问路的外乡人：一个词就能让两个陌生人搭上话。全句没有一句内心戏，Wil 这个人的自信、机敏与落魄在帽檐和煤灰两个细节里一次交足。
 
 **读者视角提示**：她紧接着写了一句「As simple as that」——整场相遇的重量恰恰落在这句轻描淡写上；记住这个反差，后面 Seth 冲出来时它的回声最响。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "I learned from their subtle relations—and in the dry, matter-of-fact eyes with which my father later walked into the house and somberly shared the news of my mother’s death with Seth and me—that love is a private matter, to be nurtured, and even mourned, between two beings alone. It belongs to them and no one else, like a secret treasure, like a private poem."
+> **原句 4:** "Sheriff Lyle pulled up the wet gravel drive in his long black-and-white automobile and hesitantly approached my father in the yard. Through the steam of my breath on the glass I saw Daddy slowly collapse to his knees right there in the rain-fresh mud. I had been watching for my mother, my cousin Calamus, and my Aunt Vivian to return, hours late from making their peach delivery across the pass to Canyon City. My father had been watching too, so antsy about their absence he spent the whole evening raking the soggy leaves he’d normally allow to compost on the grass over winter. When Daddy buckled under the weight of Lyle’s words, my young heart comprehended two immense truths: my missing family members would not be coming home, and my father loved my mother. They had never demonstrated or spoken to me of romance, but I realized then that in fact they had known it, in their own quiet way. I learned from their subtle relations—and in the dry, matter-of-fact eyes with which my father later walked into the house and somberly shared the news of my mother’s death with Seth and me—that love is a private matter, to be nurtured, and even mourned, between two beings alone. It belongs to them and no one else, like a secret treasure, like a private poem."
 
 **中文理解**：她十二岁那年从窗玻璃上的雾气里看见父亲跪进泥里，一瞬间懂了两件事：母亲不会回来，以及父亲爱过母亲。
 
@@ -67,7 +67,25 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "So I slowed. As if attached by some invisible string, he slowed as well. I slowed again, and he slowed, barely moving. Then he stopped dead still. I had no choice but to do the same, and there we were, like two fool statues right there on Main Street."
+> **原句 5:** "So I slowed. As if attached by some invisible string, he slowed as well. I slowed again, and he slowed, barely moving. Then he stopped dead still. I had no choice but to do the same, and there we were, like two fool statues right there on Main Street.
+
+
+He didn’t move out of playfulness, I sensed. I stood frozen out of fear and indecision and the disorientating first rumbles of desire. I had known of this boy for mere minutes and less than a town block, yet already he had my insides tumbling like pebbles in a stream.
+
+
+I didn’t hear the doctor’s plump wife or the steel wheels of her baby carriage coming up behind me. When Mrs. Bernette and her toddler suddenly appeared at my side, trying to maneuver a pass, I spooked like a squirrel.
+
+
+Mrs. Bernette smiled suspiciously, her thinly plucked brows raised to indicate an unspoken question as she snipped a terse, “Torie.”
+
+
+I barely managed to nod politely, couldn’t even remember the baby’s name or reach out with a friendly tousle to his blond hair.
+
+
+The stranger took one sly sideways step so Mrs. Bernette could pass. She looked him up and down curiously and smiled feebly when he tipped his cap and said, “Ma’am.” She looked back at me with a frown, as if struggling to figure out a riddle, then turned and continued to waddle uptown.
+
+
+We actually were a riddle, this boy and I. The riddle went like this: What, once tied together, have bound destinies? The answer: Puppets on the same string"
 
 **中文理解**：两个人隔着半条街互相调整步速，最后一起停住——欲望的第一次物理演算。
 
@@ -79,7 +97,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "I lay my head on Wil’s broad shoulder and wondered where and who he’d come from, and how long a drifter ever stayed in one place."
+> **原句 6:** "I knew not what I had discovered. I lay my head on Wil’s broad shoulder and wondered where and who he’d come from, and how long a drifter ever stayed in one place."
 
 **中文理解**：她趴在他肩上，得到的不是答案而是一个问题：这个漂泊者会在一个地方待多久。
 
@@ -87,7 +105,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：全章的最后一句把新知换成一个疑问。where and who 两个疑问词连用，问的还是**来历**而不是去向——她刚认识他，此刻唯一确定的事是他不属于这里。作者用 Magellan（麦哲伦）式的内心远航作比之后，立刻用一个自我纠正把宏大收回来（I knew not what I had discovered），最后落在 drifter 这个词上。drifter 与她一辈子没离开过的对照，正是全书第一条裂缝：她有家，他没有。
 
-**读者视角提示**：这个问题全书没有直接回答过：drifter 在本章之外只在第七章与第十六章各再出现一次。如果你只从本章带走一个词，就是它。
+**读者视角提示**：这个问题全书没有直接回答过：drifter 在本章之外只在 ch07 与 ch17 各再出现一次。如果你只从本章带走一个词，就是它。
 
 ---
 

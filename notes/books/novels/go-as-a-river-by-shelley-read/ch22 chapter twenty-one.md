@@ -19,19 +19,7 @@ modified: "2026-09-28"
 
 ## 精读
 
-> **原句 1:** "I was covered in babies."
-
-**中文理解**：她抱着一个婴儿走回车边，奶涨着，两个孩子同时在哭——她后来只写下了五个词：I was covered in babies。
-
-**关键词**：I was covered in babies（我被婴儿覆盖了）；covered（覆盖）；babies（婴儿；复数）
-
-**为什么这样写**：全书最著名的短句之一，而作者只用**过去时 + be 动词**写成，没有一个动作词。covered（覆盖）是这五个字里唯一精确的字：她没有「抱着」，她被**盖住**了——被奶、被哭声、被两个人同时要。My breasts ached（我的奶涨）与 Maxwell shrieked（麦克斯韦尔的尖叫）两句紧挨着，把生理和噪音一起塞进这个画面。这一句和章末那句 Sometimes a woman splits in two（一个女人有时会裂成两半）前后呼应：**这本书里所有的「裂」都发生在这具身体上。**
-
-**读者视角提示**：全章的 POV 从此确定：这不是那个山里女人的故事，是另一个女人的；请留意作者如何让两代人在同一个林子里错身。
-
----
-
-> **原句 2:** "She gave me her baby, and I left her a peach. Small recompense, but it had been less than a year since my arms were filled with textbooks, not babies,"
+> **原句 1:** "She gave me her baby, and I left her a peach. Small recompense, but it had been less than a year since my arms were filled with textbooks, not babies,"
 
 **中文理解**：她把婴儿还给对方，留下一颗桃子当交换；写的时候她知道，**她这一辈子只在这一天同时抱着两个婴儿。**
 
@@ -43,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "But this story is not about Paul. It is about me and my boys. We may have been a reluctant trio, but we were a trio nonetheless."
+> **原句 2:** "But this story is not about Paul. It is about me and my boys. We may have been a reluctant trio, but we were a trio nonetheless."
 
 **中文理解**：她在这里就替全书做了一次声明：这篇东西不是关于她丈夫的，是关于她和两个孩子的。
 
@@ -55,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "The choice was motherhood or madness."
+> **原句 3:** "The choice was motherhood or madness."
 
 **中文理解**：她把奶瓶上的书和小说都从尿包里掏出来扔了；她说：我二选一，当妈，或者发疯。
 
@@ -67,31 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "Even I tended to forget that Lukas was not of my body and blood, until a certain birdcall or slant of summer light would return me to the day I had discovered him."
-
-**中文理解**：两个男孩越长越不像同一对亲兄弟；她说连自己都会忘记，直到某声鸟叫或某道夏天的斜光把她带回那一天。
-
-**关键词**：Even I tended to forget that Lukas was not of my body and blood（就连我也常常忘记卢卡斯不是我的骨血）；I tended to forget（我常常忘记）；a certain birdcall or slant of summer light（某一声鸟叫或某一道夏天的斜光）
-
-**为什么这样写**：作者用 **body and blood（身体与血）** 这组词写「亲生」，而更要紧的是接下来那个 or：a certain birdcall **or** slant of summer light。**身体感觉不到的血缘，要靠鸟叫和阳光才能想起来。**而这两个触发器和前一句「鸟叫声替代了哭声」是同一条线索——那声鸟叫在野地里第一次把她引到了那个婴儿面前，此后一生它都在。slant of summer light 则是 ch20 那句「秋天从第一缕直射光开始」的同族：**这一家人全部用光和声音记事。**
-
-**读者视角提示**：本书两条时间线（母亲与儿子）唯一真正连通的东西，就是这一声鸟叫；请把它记到本章最后那一段去对照。
-
----
-
-> **原句 6:** "“Twelve,” he announced, beaming."
-
-**中文理解**：儿子伸手一个个数过石子，报出答案：十二，跟我一样大。
-
-**关键词**：“Twelve,” he announced, beaming（他宣布：十二，笑着）；Twelve（十二）；beaming（笑容满面地）
-
-**为什么这样写**：这是全书**两条线的第一次正面相遇**——而且相遇的是一方**数对了**。作者让一个孩子用指尖去数（counting），用的正是他母亲当年一块一块摆上去的方式；于是这个信息他**天生就会**，正如他能听懂鸟叫。而 he announced, beaming 里那个 beaming 极轻：她描述这个孩子的语气是骄傲的，因为孩子聪明，**却完全没意识到他聪明的是自己的来历**。这句话之后作者的下一句是「the terrifying notion that she…」——**她第一次意识到，这个孩子是知道什么的。**
-
-**读者视角提示**：全章最锋利的一处：读者在两本书里都待过，只有读者看得出这个「巧合」是全书的地基；请记住 beaming 这个词。
-
----
-
-> **原句 7:** "What he finally chose was not at all like the other stones but large and round. He clutched his rock like a baseball, ran it back to the boulder, and stood on his toes to carefully place it in the circle’s center"
+> **原句 4:** "What he finally chose was not at all like the other stones but large and round. He clutched his rock like a baseball, ran it back to the boulder, and stood on his toes to carefully place it in the circle’s center"
 
 **中文理解**：他在林子里找了一圈，选了一块**和别的不一样**的石头：又大又圆；他像拿棒球一样抱着它跑回去，踮脚放到圈子的正中央。
 
@@ -103,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "Lukas was not, to anyone’s knowledge, actually born on August 31. I was not, in fact, his mother, nor Paul his father nor Max his brother."
+> **原句 5:** "Lukas was not, to anyone’s knowledge, actually born on August 31. I was not, in fact, his mother, nor Paul his father nor Max his brother."
 
 **中文理解**：电视里滚动着征兵的号码。她听见十一月、十二月，然后是八月三十一号——她做母亲的那一天。
 
@@ -115,7 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** "I should never have told the truth."
+> **原句 6:** "I should never have told the truth."
 
 **中文理解**：这一段的标题是「真相」，第一句是五个词：我不该说出真相。
 
@@ -127,19 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 10:** "I can’t,” he said, and he glanced at his waiting companion. “I don’t belong there anymore.”"
-
-**中文理解**：他站在教堂门口，告诉她：我不能了，然后看了一眼等着他的同伴——我待不下去了。
-
-**关键词**：“I can’t,” he said（他说，我不能了）；he glanced at his waiting companion（他看了一眼等着他的同伴）；“I don’t belong there anymore.”（我在那儿已经没有位置了。）
-
-**为什么这样写**：**三句里两个「不在」**：don’t belong there（不属于那里）和 better than not having anywhere（好过哪儿都不属于）。前者是母亲给的——他刚刚知道她「不属于」任何一个家庭；后者是他自己给的——**战场是一个他可以属于的地方，只要他先承认自己一无所有。**而那个 waiting companion（等着他的同伴）只用一个词就完成了对比：同龄人在等，而他的身后是母亲。**I can’t 这三个字，是 ch15 那场弃婴的全部回声。**
-
-**读者视角提示**：这是全书两条线的最后一次照面；她接下来要做的，是把这一切写成一封信寄给那个她从来没能认领自己孩子的人。
-
----
-
-> **原句 11:** "Sometimes a woman splits in two."
+> **原句 7:** "Sometimes a woman splits in two."
 
 **中文理解**：她说：一个女人有时会裂成两半——一个坐在长椅上维持体面，另一个在后面尖叫着追出去。
 
@@ -151,7 +103,19 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 12:** "I tell you my story because Lukas’s story is not mine to tell. For his entire life I told him that he was one thing, and then I broke his heart by admitting to him that he was something else. My precious boy now believes he is nothing from nowhere. Only you have the answers he needs."
+> **原句 8:** "I rose and went to my desk, where I took a pen and this stationery. I turned on the kitchen light and sat at the table, the words uncoiling so feverishly that my pen could barely keep pace.
+
+
+Only now—as the sun is rising and I’m all these pages in—do I realize: I have not been writing this for myself. I have been writing it all for you, Forest Mother. I do not know how to find you, but I have long been certain that you are the architect of the stone circle Lukas and I discovered when he was twelve. Had I had the courage to tell Lukas the truth that day, had we left you a note instead of a peach-shaped rock, Lukas might have long ago learned where he came from, and, in turn, you and I might both have our son. In my selfishness, I never imagined I could lose him anyway, that one day both of my boys would be gone.
+
+
+I will place this on the rock where I once left you a peach and pray that you will find it.
+
+
+I tell you my story because Lukas’s story is not mine to tell. For his entire life I told him that he was one thing, and then I broke his heart by admitting to him that he was something else. My precious boy now believes he is nothing from nowhere. Only you have the answers he needs.
+
+
+Please help us"
 
 **中文理解**：她把这叠纸留在那块岩石上，附上一句请求——因为关于那个孩子的答案，只有一个人有。
 

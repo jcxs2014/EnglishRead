@@ -31,19 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "history still clung to me like stabbing, stubborn burs"
-
-**中文理解**：水变了，路变了，可历史还像带刺的果实一样扎在她身上。
-
-**关键词**：history still clung to me（历史仍然黏着我）；like stabbing（像扎人那样）；stubborn burs（死赖着不掉的刺球）
-
-**为什么这样写**：作者用 **burs（刺球果）** 这个具体的植物名词：它挂上衣服就甩不掉，碰一下就扎人。**这是全书对「历史」最形象的一次定义——不是重量，是刺。**而 still（仍然）这个词说明她认定自己花了二十多年**一点也没有变松**。clung（黏）这个词本身还是黏性的：**她既被挂住，也赖着不走。**这一句和下一章那句「像一条淹掉的河」是同一件事的两种写法：一个写感受，一个写形状。
-
-**读者视角提示**：全书她第一次说自己身上有**一样甩不掉的东西**；请注意她说的是历史，不是儿子。
-
----
-
-> **原句 3:** "I reached into the pocket of my barn coat and removed the twig of pink peach blossoms I had clipped that morning for my son"
+> **原句 2:** "I reached into the pocket of my barn coat and removed the twig of pink peach blossoms I had clipped that morning for my son. I inhaled the sweetness and twirled the twig between my fingers"
 
 **中文理解**：她从工装口袋里拿出一枝今早剪的粉色桃花，在手指间转着看。
 
@@ -55,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "I could not deny that I feared my son’s disappointment—at his scandalous conception, at his father’s cruel death and lack of justice, at my leaving him behind and starting my life over"
+> **原句 3:** "I could not deny that I feared my son’s disappointment—at his scandalous conception, at his father’s cruel death and lack of justice, at my leaving him behind and starting my life over"
 
 **中文理解**：她承认自己怕儿子失望——怕他知道自己怎么来的，怕他父亲的死没人受罚，怕她丢下他走了。
 
@@ -67,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "so like this drowned river that keeps being a river even as it is forced to be a lake,"
+> **原句 4:** "so like this drowned river that keeps being a river even as it is forced to be a lake,"
 
 **中文理解**：她望着这片被淹成湖的水想：我这一生就像这条淹掉的河——被逼着做湖，却始终还是河。
 
@@ -79,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "A young man in a white T-shirt and jeans stepped from the truck and, for an unsettling instant, rewrote history"
+> **原句 5:** "A young man in a white T-shirt and jeans stepped from the truck and, for an unsettling instant, rewrote history"
 
 **中文理解**：一个穿白 T 恤牛仔裤的年轻人下了车——有那么一瞬，她觉得历史被改写了。
 
@@ -91,19 +79,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "He looked out across the water and then turned to us with a nervous grin"
-
-**中文理解**：他先看了看水面，然后转过身来，冲她们露出一个紧张的、讨好的笑。
-
-**关键词**：He looked out across the water and then turned to us（他先看了看水面，然后转向我们）；then turned to us（然后转向我们）；with a nervous grin（带着一个紧张的咧嘴笑）
-
-**为什么这样写**：作者先写他**没有先看她**——他先看的是水。这一个动作就把他和父亲、和她自己都分开了：**这一代人第一次做的事，是看水。**而 nervous grin（紧张的咧嘴笑）里的 nervous 是全章最准的一个词：他没有笑，他**挤出了一个笑**。一个二十岁的、退伍的、从父亲葬礼上没敢来的人，此刻能给出的最大善意就是这个。
-
-**读者视角提示**：全书两次「笑」的对照在这里完成：他父亲是 dazzling（耀眼的），这个儿子是 nervous（紧张的）。**亮度变成了紧张。**
-
----
-
-> **原句 8:** "I saw him then not as a likeness of Wil or of me, but as himself"
+> **原句 6:** "I saw him then not as a likeness of Wil or of me, but as himself"
 
 **中文理解**：她这次看见的不是 Wil 的翻版、也不是自己的翻版——是他自己。
 
@@ -115,7 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** "I took a step forward on pure faith"
+> **原句 7:** "I took a step forward on pure faith"
 
 **中文理解**：她感觉不到自己的腿，可还是凭着一份信念迈出了一步。
 
@@ -127,7 +103,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 10:** "My son walked toward me, as I walked toward him, each trusting that the earth would hold us"
+> **原句 8:** "My son walked toward me, as I walked toward him, each trusting that the earth would hold us"
 
 **中文理解**：儿子朝她走过来，她也朝儿子走过去；两个人都相信，这片土地会接住他们。
 

@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "But sneaking over to that long black car, laying my baby down on the warm leather back seat, and leaving him behind unleashed a billowing grief that overtook my every cell."
+> **原句 2:** "But sneaking over to that long black car, laying my baby down on the warm leather back seat, and leaving him behind unleashed a billowing grief that overtook my every cell. I didn’t realize this at first, so dazed was I from hunger, so accustomed to enduring, to doing what needed to be done"
 
 **中文理解**：她绕过那辆黑车，把孩子放在温热的皮座椅上，然后走了——那一刻她还不知道自己刚刚做了什么。
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 3:** "There is a kind of sadness that transcends sadness, that runs like hot syrup into every crevice of your being, beginning in the heart then oozing into your very cells and bloodstream,"
+> **原句 3:** "There is a kind of sadness that transcends sadness, that runs like hot syrup into every crevice of your being, beginning in the heart then oozing into your very cells and bloodstream, so that nothing—not earth or sky or even your own palm—ever looks the same"
 
 **中文理解**：她说有一种悲伤是超越悲伤的：它像热糖浆一样从心口渗出去，渗进每一个缝隙、每一根血管。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 4:** "For the first time, I wondered exactly what I had been doing the instant my family’s automobile had missed the curve."
+> **原句 4:** "For the first time, I wondered exactly what I had been doing the instant my family’s automobile had missed the curve. Was I playing in the orchard"
 
 **中文理解**：她第一次想：全家翻车的那一刻，我到底在做什么。
 
@@ -67,7 +67,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "above me the sky was a fierce, cloudless blue, and in it, circling, was a red-tailed hawk."
+> **原句 5:** "above me the sky was a fierce, cloudless blue, and in it, circling, was a red-tailed hawk. I fixated on her graceful flight as if it were the only thing left in the world to believe in"
 
 **中文理解**：她躺在地上喘气，抬头看见一只红尾鹰在无云的天空里打转，就那样一直看着它。
 
@@ -91,7 +91,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "If she heard my whimpers and sniffles as I cried for my lost baby, she knew well enough to just let me be."
+> **原句 7:** "Both of us accustomed to silence, the old woman and I did not speak, except for my many expressions of appreciation and her satisfied grunts in response. If she heard my whimpers and sniffles as I cried for my lost baby, she knew well enough to just let me be."
 
 **中文理解**：她哭的时候，如果那老太太听见了，也只是让她哭——两个人都是习惯了沉默的人。
 
@@ -103,7 +103,10 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** "As I did, the long low whistle of the 5:47 sang me home."
+> **原句 8:** "her satisfied grunts in response. If she heard my whimpers and sniffles as I cried for my lost baby, she knew well enough to just let me be.
+
+
+I would never have known Ruby-Alice as anything but a crazy old lady in need of God’s help had it not been for Wilson Moon. I would not have known my own appeal, my beauty, my strength, or the precious feel of Baby Blue in my arms if it had not been for Wilson Moon. I pledged to try to put these memories above the pain and loss as I eventually rose from the sofa and walked with Ruby-Alice to her gate. She allowed me a quick hug of gratitude around her bony shoulders before I stepped into the pines and made my way to the path leading to my family’s farm. As I did, the long low whistle of the 5:47 sang me home."
 
 **中文理解**：她走进松林、走上回家的路；那列 5:47 的长长低笛一路把她送回家。
 

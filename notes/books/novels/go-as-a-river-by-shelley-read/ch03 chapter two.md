@@ -7,15 +7,15 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：Seth 扑上去打 Wil，Will 抱起摔伤的 Victoria 往农场走；一场打斗把她和 Wil 的第一次同行换成了她家内部的一场战争——父亲赶走了他，叔叔在看笑话，而她躺在客厅里权衡要不要就此放手。
+**一句话概括**：Seth 扑上去打 Wil，Wil 抱起摔伤的 Victoria 往农场走；一场打斗把她和 Wil 的第一次同行换成了她家内部的一场战争——父亲赶走了他，叔叔在看笑话，而她躺在客厅里权衡要不要就此放手。
 
 **情感弧线位置**：第一次**急升后被强行打断**：与第一章的慢慢升温不同，本章在同一场戏里完成「身体贴近 → 家族驱赶」的落差。本章是全书第一次低谷（被家族拒绝），但只低到「疼」还没有到「绝望」。
 
-**Tropes 兑现/反转**：家长阻挠；「抱起她就走」的英雄时刻；被家族逐出。**反转点**：他不是被恶人赶走的，是被她父亲一句「Clear as rain」的文明驱逐赶走的——驱逐用的是礼貌，不是暴力，这让整件事更冷。
+**Tropes 兑现/反转**：家长阻挠；「抱起她就走」的英雄时刻；被家族逐出。**反转点**：他不是被恶人赶走的，是被父亲那句「Get yourself on outta here」赶走的，回话的是 Wil 的「Clear as rain」——驱逐用的是礼貌，不是暴力，这让整件事更冷。
 
-**人物弧线**：Victoria 在众人面前两次说「No, Daddy」——她第一次对家人撒谎，也第一次为另一个人付出代价；Wilson Moon 在本章第一次亮出性格底色：不解释、不辩解、不回头，走了还会回来（下一章由他亲口补上）。
+**人物弧线**：Victoria 在众人面前两次说「No, Daddy」——她第一次对家人撒谎，也第一次为另一个人付出代价；Wilson Moon 在本章第一次亮出性格底色：不解释、不辩解、不回头，走了还会回来（本章原句 3 就由他亲口补上）。
 
-**叙事手法**：单场景强冲突 + 大段家族史插叙（母亲、Og 与 Vivian 的相识、战争、Og 母亲、Massey 的火车事故）——用回忆把当下的三小时撑成半章；含一次明确标注的未来闪回（裹在毯子里的那段对话）。
+**叙事手法**：单场景强冲突 + 大段家族史插叙（母亲与 Vivian 的相识、Og 与 Jimmy 的相识、战争、Massey 的火车事故；Og 有母亲那件事要到 ch17 才揭）——用回忆把当下的三小时撑成半章；含一次明确标注的未来闪回（裹在毯子里的那段对话）。
 
 ## 精读
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：I often wish（我常常希望）；kept on walking（继续走下去）；hopped the next train（跳上下一趟火车）
 
-**为什么这样写**：全章最短的一段，四个短句，一句比一句轻。wish 用的是虚拟语气，但作者偏偏写成 wish **he had kept on walking**——这个 had 完成时把时态钉在过去：她希望的是一个**已经没发生的事实**。这句话是全章的冷启动按钮：接下来三页的怀旧（母亲、Og 和 Jimmy、Og 母亲、战争、火车）之所以会出现，正是因为这一句先替她认了罪。
+**为什么这样写**：全章最短的一段，四个短句，一句比一句轻。wish 用的是虚拟语气，但作者偏偏写成 wish **he had kept on walking**——这个 had 完成时把时态钉在过去：她希望的是一个**已经没发生的事实**。这句话是全章的冷启动按钮：接下来几页的怀旧（母亲与 Vivian、Og 和 Jimmy、战争、火车）之所以会出现，正是因为这一句先替她认了罪。
 
 **读者视角提示**：本句是全书第一次出现「反事实」；第二次（也可能是最后一次）出现在第二十三章与她的对话里。
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **关键词**：just what that train had done（正如那辆火车所做的）；unique beauty and promise（独有的美与前景）；the tenacity of ruin（毁灭的韧性）
 
-**为什么这样写**：作者用**平行结构**（The war did to Ogden just what that train had done to…／One year later, the accident… did the same to my family）把两件事故焊在一起：Og 和 Jimmy 被珍珠港的一声炮火带走，Cal、Vivian 和母亲被一场事故带走。紧接着 I learned from a young age the tenacity of ruin——**不是说 ruin 有韧性，是 ruin 有「韧」性**：她学到的不是如何幸免，而是如何在被碾碎之后仍然站起来。紧接着的这一段末尾，He felt bony and unhinged（是父亲抱起她时）与之呼应——一具被掏空的身体，就是这份韧性留下的形状。
+**为什么这样写**：作者用**平行结构**（The war did to Ogden just what that train had done to…／One year later, the accident… did the same to my family）把两件事故焊在一起：Og 和 Jimmy 被珍珠港的一声炮火带走，Cal、Vivian 和母亲被一场事故带走。紧接着 I learned from a young age the tenacity of ruin——**不是说 ruin 有韧性，是 ruin 有「韧」性**：她学到的不是如何幸免，而是如何在被碾碎之后仍然站起来。本章前文父亲抱起她时那句 He felt bony and unhinged 与之呼应——一具被掏空的身体，就是这份韧性留下的形状。
 
 **读者视角提示**：Og 那一声高而长的口哨在这里第一次响起；ch16 他举枪、ch18 他吐痰罐的段落，都在替这一声口哨收利息。
 
