@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **关键词**：all-seeing sage（全知的智者）；Never crept out（没溜出去过）；drank the gin and replaced it with water（把金酒喝掉再换上水）
 
-**为什么这样写**：作者让 Rowans 的反击**从哲学降落到具体**——前半句是 `all-seeing sage`（全知的智者），后半句连给三个**极其家常的小动作**：溜出去、把金酒换成水。这是全书最漂亮的一次反驳，因为它不否认玛戈特别，它只**列出伊莫金自己也干过的事**。而 `drank the gin and replaced it with water`（喝掉金酒再换上水）这一条来自 ch08——**伊莫金在派对上说过自己戒酒、她那晚「根本没喝醉」**。Rowans 一句话就把伊莫金那套「我一向是乖的那个」的自我叙事拆了。
+**为什么这样写**：作者让 Rowans 的反击**从哲学降落到具体**——前半句是 `all-seeing sage`（全知的智者），后半句连给三个**极其家常的小动作**：溜出去、把金酒换成水。这是全书最漂亮的一次反驳，因为它不否认玛戈特别，它只**列出伊莫金自己也干过的事**——而 `drank the gin and replaced it with water`（喝掉金酒再换上水）恰恰是**母亲那一代人的做法**。注意 Rowan 说的是**假设性反问**（原文是 `Or drank the gin and replaced it with water?`），不是对某件真事的指认。Rowans 一句话就把伊莫金那套「我一向是乖的那个」的自我叙事拆了。
 
 **读者视角提示**：`drank the gin and replaced it with water` 是 Rowan 用的唯一一句真正伤人的台词，因为它是真的。
 

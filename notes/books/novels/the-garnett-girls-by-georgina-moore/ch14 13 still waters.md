@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者用**三个递减的动作**写失落，而关键在最后那半句的语法：`She hated the fact that she didn’t want to be alone.`（她讨厌「自己不想一个人」这个事实。）主语是 `She`（她），宾语是 `the fact`（那个事实）——**她恨的是这个念头本身，不是这个处境**。这是全书写孤独写得最狠的一句：独处本来不是问题，**想有人陪才是问题**。前面加一句 `now Jack's body heat wasn't keeping her warm`（他的体热已经暖不了她了）是生理的，这一句是承认的。
 
-**读者视角提示**：`she didn't want to be alone` 是玛戈全书的心理底色；它与 ch07 里 Carol 说的 `having no one here to share this with` 是一件事。
+**读者视角提示**：`she didn't want to be alone` 是玛戈全书的心理底色；它与 ch04 里 Carol 说的 `having no one here to share this with` 是一件事。
 
 ---
 

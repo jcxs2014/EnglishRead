@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **关键词**：the good Garnett（那个乖的加内特）；Who would’ve thought（谁能想到呢）
 
-**为什么这样写**：全章第一句台词就把伊莫金**用家族标签定义**——`the good Garnett`（那个乖的加内特），这个说法在 ch01、ch12 里由玛戈自己用过。而 `Who would’ve thought?` 是一句**带省略的判断**：省略掉的是「谁会想到你会这样」，说完的人甚至不必说出口。Jonny 用它做了三件事：承认她一直以来的形象、宣布形象破了、以及在破掉的当下表示惊讶。**最有意思的是伊莫金的反应**：`felt the tell-tale redness spread across her chest and stayed silent`（感到那说不出口的红晕漫上胸口，然后保持沉默）——她被说中了，所以不说话。
+**为什么这样写**：全章第一句台词就把伊莫金**用家族标签定义**——`the good Garnett`（那个乖的加内特），而这个标签全书只出现过这一次，标签的发明者是 Jonny，不是母亲：他把全家对她的期待压缩成**一个标签**还给她。而 `Who would’ve thought?` 是一句**带省略的判断**：省略掉的是「谁会想到你会这样」，说完的人甚至不必说出口。Jonny 用它做了三件事：承认她一直以来的形象、宣布形象破了、以及在破掉的当下表示惊讶。**最有意思的是伊莫金的反应**：`felt the tell-tale redness spread across her chest and stayed silent`（感到那说不出口的红晕漫上胸口，然后保持沉默）——她被说中了，所以不说话。
 
 **读者视角提示**：`the good Garnett` 是 Jonny 给她的人设；Rowan 后来给她的人设完全不同，两者的冲突就是她后面的灾难。
 

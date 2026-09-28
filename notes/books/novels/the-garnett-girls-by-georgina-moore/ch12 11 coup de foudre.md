@@ -39,7 +39,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：四个字，一个**被动式的无主句**——没有「她盯着他」，是「他们的目光自己锁上了」。作者用这个主语缺失的句子写出**必然性**：不是谁先看谁，是两个人的视线自己接上了。紧接着的一句更直接（`Rowan couldn’t know who Imogen was and yet her face lit up as if in recognition`），这让作者随后自己承认这是**陈词滥调**（`There was no other way to think of that moment, other than as a cliché`）。作者明知故犯地用一个老套瞬间，是因为全章写的本来就是**被老套击中的那一刻**。
 
-**读者视角提示**：`cliché` 这个词出现了；这本书里所有「第一眼就爱上」的写法都被作者自觉地标成套路——见 ch17 的 Rowan。
+**读者视角提示**：`cliché` 这个词出现了；这本书里所有「第一眼就爱上」的写法都被作者自觉地标成套路——见 ch18 里蕾切尔那句 `you are a dark horse, Imogen Garnett`。
 
 ---
 
@@ -49,7 +49,7 @@ modified: "2026-09-28"
 
 **关键词**：It reminded Imogen of（让伊莫金想起）；Margo’s performances at parties（玛戈在派对上的表演）
 
-**为什么这样写**：整章最重的一处联想只有十七个词，而且出现在**最不合适的时刻**——伊莫金正被 Rowan 的身体包围、`Rowan was showing off, playing to the crowd`，然后她想起母亲。作者把「社交场上的表演」这个动作在两代人之间接上：玛戈在自家客厅里表演，伊莫金在酒吧里被一个女演员表演。可这句也顺手揭穿了 Rowan——她对伊莫金做的，**正是玛戈对全家做的事**：让所有人围着自己转。
+**为什么这样写**：整章最重的一处联想只有一句（`It reminded Imogen of Margo’s performances at parties.`），而且出现在**最不合适的时刻**——伊莫金正被 Rowan 的身体包围、`Rowan was showing off, playing to the crowd`，然后她想起母亲。作者把「社交场上的表演」这个动作在两代人之间接上：玛戈在自家客厅里表演，伊莫金在酒吧里被一个女演员表演。可这句也顺手揭穿了 Rowan——她对伊莫金做的，**正是玛戈对全家做的事**：让所有人围着自己转。
 
 **读者视角提示**：`It reminded Imogen of Margo’s performances at parties` 是全书最精的一次跨代对照；它解释了伊莫金为什么最后说 `Me too.`——她认出了那套动作。
 
@@ -109,7 +109,7 @@ modified: "2026-09-28"
 
 **关键词**：Me too（我也是）
 
-**为什么这样写**：三个词，全章最后一句台词，也是全章的**对称点**。前一句是 Rowan 给出的整个世界（`I can’t seem to see anything but you tonight`），后一句是伊莫金把它整个接过来。作者没有让伊莫金解释、没有让她犹豫、没有给她一句漂亮的反驳——`Me too.` 就是一个人**在最后一秒放弃了抵抗**的全部内容。这一章以这样轻的两个词结束，是因为重的东西在前面三十页已经说完了；留白不是作者的偷懒，是**节奏**。
+**为什么这样写**：`Me too.`——全章最后一句台词，也是全章的**对称点**。前一句是 Rowan 给出的整个世界（`I can’t seem to see anything but you tonight`），后一句是伊莫金把它整个接过来。作者没有让伊莫金解释、没有让她犹豫、没有给她一句漂亮的反驳——`Me too.` 就是一个人**在最后一秒放弃了抵抗**的全部内容。这一章以这样轻的两个词结束，是因为重的东西在前面三十页已经说完了；留白不是作者的偷懒，是**节奏**。
 
 **读者视角提示**：`Me too.` 是伊莫金与理查德（ch11 那句 `And this time I won’t leave without you`）在语法上的一次呼应：两代女人都用最短的句子说了最大的事。
 

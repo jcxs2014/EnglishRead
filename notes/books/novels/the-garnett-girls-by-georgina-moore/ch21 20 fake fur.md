@@ -23,11 +23,11 @@ modified: "2026-09-28"
 
 **中文理解**：伊莫金心想，把一个夜晚充满魔法与冒险的地方，看成它真实的样子，是件多么奇怪的事。
 
-**关键词：** night magic and adventure（夜晚的魔法与冒险）；as it really was（它真实的样子）；how strange it was（多么奇怪）
+**关键词**： night magic and adventure（夜晚的魔法与冒险）；as it really was（它真实的样子）；how strange it was（多么奇怪）
 
 **为什么这样写**：作者让**同一个人**同时持有两幅图像：一幅是 Colette's 在夜里的样子（`night magic and adventure`），一幅是白天里真实的它（`the raffia-backed chairs were coming unstrung, the rugs were stained and cobwebs hid in the corners`）。而 `as it really was` 这个短语本身带**校正**的意味——`as it really was` 通常出现在某人说「其实不是」之后。伊莫金此刻已经知道这里不是别的地方，而她**仍然每天都来**。这一句是全书写「自我欺骗的日常性」写得最轻的一次，而它为整章后面 William 家那间地下室公寓定下了同一支温度。
 
-**读者视角提示**：`as it really was` 的校正语气会在 ch19 那句 `I’m not sure what’s going on with her`（她最近不对劲）处回响。
+**读者视角提示**：`as it really was` 的校正语气会在 ch18 那句 `I’m not sure what’s going on with her`（她最近不对劲）处回响。
 
 ---
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：伊莫金开始穿上她的外套——那是玛戈上次去伦敦时买的一件假皮草。一穿上它，伊莫金就感到自己身上灌注了某种力量。
 
-**关键词：** a fake fur（一件假皮草）；imbued with（充满；被灌注）；some kind of power（某种力量）
+**关键词**： a fake fur（一件假皮草）；imbued with（充满；被灌注）；some kind of power（某种力量）
 
 **为什么这样写**：章名在此落地，而作者把这个道具写得**极其精确**：它是**假的**（fake）、**母亲给的**、**在需要武装的时刻穿上的**。一件假皮草能给人力量，这本身是荒谬的，而作者不点破——她只写 `imbued with some kind of power`（被灌注了某种力量），并让那件外套的物理后果紧跟着来：`She was hot in her coat`（她穿着它很热）。**保护与闷热同时存在**，这正是「假」字的全部含义。而这件外套的来源是玛戈——母亲给她的**盔甲**，是全书第一次，母亲的礼物成了女儿用来逃开母亲的工具。
 
@@ -47,11 +47,11 @@ modified: "2026-09-28"
 
 **中文理解**：现在她们像一对老夫老妻那样互相挑刺。只不过是一对把彼此绑起来、还玩性玩具的老夫老妻。
 
-**关键词：** picked at each other（互相挑刺）；like an old married couple（像一对老夫妻）；tying each other up（把彼此绑起来）；sex toys（性玩具）
+**关键词**： picked at each other（互相挑刺）；like an old married couple（像一对老夫妻）；tying each other up（把彼此绑起来）；sex toys（性玩具）
 
 **为什么这样写**：作者用一个**降级比喻**写这段关系的现状：她们的关系从**热恋**降到了**婚姻**，而**降下来的那部分她立刻用事实否定**——`But an old married couple who were tying each other up and using sex toys.`（只不过是一对绑着彼此、玩性玩具的老夫老妻。）这个 `But` 是全章的毒药：它说「她们像夫妻」的同时又说「她们比多数夫妻激烈」，于是这段关系被定义为**已经进入消耗期、却还没进入持久的阶段**——最不稳定的位置。`picked at each other`（互相挑刺）这个词选得极好：pick 是**用尖锐的东西戳**。
 
-**读者视角提示**：`picked at each other` 与 ch18 那句 `Separate bedrooms – I wouldn’t let on.`（分房睡——我不会让人看出来）是同一时期的两种症状；一个开始互相挑刺，一个开始躲避公开。
+**读者视角提示**：`picked at each other` 与 ch15 那句 `Separate bedrooms – I wouldn’t let on.`（分房睡——我不会让人看出来）是同一时期的两种症状；一个开始互相挑刺，一个开始躲避公开。
 
 ---
 
@@ -59,7 +59,7 @@ modified: "2026-09-28"
 
 **中文理解**：「她确实崩溃了，Ida——那毁掉了我们的童年。」
 
-**关键词：** fall apart（崩溃）；ruined our childhoods（毁掉了我们的童年）；Ida（婆婆的名）
+**关键词**： fall apart（崩溃）；ruined our childhoods（毁掉了我们的童年）；Ida（婆婆的名）
 
 **为什么这样写**：伊莫金说这句的方式是**先道歉再反击**（`Sorry.` 在下一行），而它的内容是全书**对丧母那句话的第一次反驳**。Ida 说的是那句被家里 parrot（重复）了很多年的评语（`Your mother did such a good job under the circumstances. I would have fallen to bits.`——在这种处境下她做得很好，换了我早就垮了），而伊莫金的回答是**把母亲从「做得好」的位置上拉下来**：她**垮过**（`did fall apart`），而后果是四个孩子的童年。作者用了 `it ruined our childhoods`（毁掉了我们的童年）这个**复数主语**——不只她自己，**所有人的**。这是全书写「母亲被感激」这条神话的第一次公开质疑，而它出现在一个**准儿媳**嘴里。
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 **中文理解**：现在起床叫醒威廉太早了，所以她躺在那儿，觉得自己像是被困在一个地狱版本里——**一个她自己造出来的**地狱。
 
-**关键词：** too early to wake（太早不便叫醒）；trapped（被困住）；a version of hell（一个地狱的版本）；one of her own making（她自己造成的）
+**关键词**： too early to wake（太早不便叫醒）；trapped（被困住）；a version of hell（一个地狱的版本）；one of her own making（她自己造成的）
 
 **为什么这样写**：作者用**一个从句就完成了一次全书的清算**——`one of her own making`（她自己造成的）。`a version of hell`（一个地狱的**版本**）这个词尤其重要：地狱不是唯一的，它是**某个版本**，而她清楚自己活在**哪一个**版本里。这句话的结构与 ch20 那句 `it was like there was a glass wall between us` 互为镜像——玛戈被一堵墙隔开，伊莫金被自己造的墙关住。而她选择**躺下不动**（`she lay still beside William`），这个生理上的静止是全书对她最狠的判决：她离得最近的人，此刻正是她最该离开的。
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **中文理解**：她知道自己是在寻找某种**更多**的东西。那个意大利男孩、那个与 Rowan 的夏日艳遇，都是**征兆**。
 
-**关键词：** searching for something more（寻找某种更多）；the Italian boy（那个意大利男孩）；summer fling（夏日艳遇）；telltale signs（征兆）
+**关键词**： searching for something more（寻找某种更多）；the Italian boy（那个意大利男孩）；summer fling（夏日艳遇）；telltale signs（征兆）
 
 **为什么这样写**：作者用 **`something more`（某种更多）** 这个含混的说法来指**两样东西**：事业和爱情——伊莫金自己也没分清。而作者给她的证据也是**两样性质完全不同的东西**：一个是 ch02 那个十六岁的调情（Angelo，那个十六岁的男孩），一个是 Rowan。作者用 `telltale signs`（征兆／不言自明的迹象）把它们**并置成证据链**——这意味着她终于开始**用诊断的方式看自己**，而不是用感受的方式。而 `the Italian boy` 的存在提醒读者：**这不是第一次**，这一章是她第二次。
 
@@ -95,7 +95,7 @@ modified: "2026-09-28"
 
 **中文理解**：她的心要的是那种**命中注定的、轰轰烈烈的爱**，像玛戈和理查德那样。
 
-**关键词：** the big star-crossed love（轰轰烈烈的命中注定的爱）；star-crossed（命中注定多舛的）；like Margo and Richard（像玛戈和理查德那样）
+**关键词**： the big star-crossed love（轰轰烈烈的命中注定的爱）；star-crossed（命中注定多舛的）；like Margo and Richard（像玛戈和理查德那样）
 
 **为什么这样写**：这是全书**最诚实也最致命**的一句自白，而它的诚实来自**不合时宜**：在一个男人患癌的清晨，一个刚决定要照顾他的女人，躺在旁边想的是**她母亲那一代的爱**。`the big star-crossed love`（那种大的、注定不幸的爱）里的 `big`（大的）承认了欲望的**规模**；`star-crossed`（被星诅咒的）则承认了它的**结局**。而作者让这个愿望直接以父母为原型——于是伊莫金**明白了自己一直在做什么**：她挑的不是 William 不好，而是他**不够悲壮**。全书到此刻为止，这一直是她没说出口的理由。
 
@@ -107,7 +107,7 @@ modified: "2026-09-28"
 
 **中文理解**：但首先，她得**找到词**，去告诉他：她知道他们犯了一个可怕的错误，这场婚礼永远不会发生。
 
-**关键词：** find the words（找到词句）；a terrible mistake（一个可怕的错误）；the wedding could never happen（婚礼永远不会发生）
+**关键词**： find the words（找到词句）；a terrible mistake（一个可怕的错误）；the wedding could never happen（婚礼永远不会发生）
 
 **为什么这样写**：全章以**一个动词的不完式**收束，而作者把它放在了最后一句的最后半句：`But first she had to find the words`（但首先她得找到词）。原文的动词是 `find the words`（找到词句）——注意它找的是**词**，不是别的。她已经决定了（前面整段都是决心），她缺的是**语言**——原文用的是 `find the words`（找到词句），不是勇气。而这个「缺词」的诊断精确到可怕：一个**以写作为生**的女人，**没有词**。作者把全书对她这个职业的全部描写收进这五个字母：她一直在替别人找词（`Just hearing the words come to life`），现在她得替自己找。
 

@@ -13,7 +13,7 @@ modified: "2026-09-28"
 
 **Tropes 兑现/反转**：命中「中年主妇的秘密恋情」与「前任被酒鬼朋友重提」两个套路，但**反转在结构上**：本章的每一段闲聊都在把读者往 Richard 那桌引，而真正的悬念挂在**手机**上。作者让 Tom 讲完一句近乎预言的话（`I had a lot of practice diving into the sea, rescuing things. Especially when Richard O'Leary was around.`），把「救人的 Margo」和「被毁掉的 Margo」叠成一个形象。
 
-**人物弧线**：Margo 从一个在吧台后面掌控全局的女人（`she had removed people from the premises with her bare hands`），走到一个**开始发短信、开始被别人注意**的人。`I want you.` 这条短信是她第一次主动索取什么——与她在 ch04 里「凡事替别人安排」形成对照。Leo 提到四个女儿 `Lookers all of them – brains too`，Tom 则用整个下午替她重演了 Richard 的死法。
+**人物弧线**：Margo 从一个在吧台后面掌控全局的女人（`she had removed people from the premises with her bare hands`），走到一个**开始发短信、开始被别人注意**的人。`I want you.` 这条短信是她第一次主动索取什么——与她在 ch04 里「凡事替别人安排」形成对照。Leo 提到三个女儿 `Lookers all of them – brains too`，Tom 则用整个下午替她重演了 Richard 的死法。
 
 **叙事手法**：第三人称限制视角（Margo）；**长段人物速写**（Tom、Ben、Leo 各一段）与**碎片化对话**交替，制造酒吧的散乱感；章末用一个**极短的行动**（`One hour, she texted back.`）切断整场热闹，把注意力钉在未解的悬念上。红发女孩的名字本章不写，只以颜色标记——作者刻意让她在读者的认知里始终是一个「红色的问号」。
 

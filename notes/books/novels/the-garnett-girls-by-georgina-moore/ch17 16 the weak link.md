@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：「我只是好奇，见一见她的父亲会不会对萨莎有帮助？让她回到我们所有人身边。我总觉得关于她们父亲的那片沉默，会让她们用不健康的方式去填补那些空隙。」
 
-**关键词：** fill in the gaps（填补空隙）；the silence about their father（关于父亲的沉默）；in ways that aren’t healthy（以不健康的方式）
+**关键词**： fill in the gaps（填补空隙）；the silence about their father（关于父亲的沉默）；in ways that aren’t healthy（以不健康的方式）
 
 **为什么这样写**：艾丽丝用**一个诊断式的句子**说出全家的病，而她的诊断依据不是理由，是**沉默本身**（`all the silence`）——是这个家选择了不说的那二十年。`fill in the gaps`（填补空隙）是书里最准的机制描述：孩子不会用「事实」填，用**想象**填。玛戈的反驳（`And then they would know what their father did. How little he wanted them.`）也正是这个道理的两面——**真相会结束想象，也会结束缓冲**。这一段把母女之间长达十年的隔阂，写成了两种保护方式的冲突。
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：I would have（我会那么做）；You’re too nice（你太心软）；you always have been（你一直都这样）
 
-**为什么这样写**：四个词的承认里藏着一整段姐妹史。艾丽丝问「你怎么没直接挂掉她」，玛戈的回答是**「我会」**——两个字，然后立刻把话题转成对妹妹的道德评价（`You're too nice`）。这句话做了三件事：① 承认她当年做得更狠；② 用「你太nice」把艾丽丝放到**道德较低的位置**；③ 而艾丽丝的下一句（`She didn't ring you though. I'm going to get the bill.`）正是在这一点上顶回去的。姐妹俩的每一次温柔对话底下都压着**一次排名**。
+**为什么这样写**：一句承认里藏着一整段姐妹史（`I would have.`）。艾丽丝问「你怎么没直接挂掉她」，玛戈的回答是**「我会」**——两个字，然后立刻把话题转成对妹妹的道德评价（`You're too nice`）。这句话做了三件事：① 承认她当年做得更狠；② 用「你太nice」把艾丽丝放到**道德较低的位置**；③ 而艾丽丝的下一句（`She didn't ring you though. I'm going to get the bill.`）正是在这一点上顶回去的。姐妹俩的每一次温柔对话底下都压着**一次排名**。
 
 **读者视角提示**：`You’re too nice – you always have been` 是爱丽丝一生收到过的最重的一句评价，也是她仍然要接下这句家庭戏的原因。
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 **中文理解**：「理查德·奥莱里，我一直盼着你死。」她在心里一遍遍说，像这样能改变什么。
 
-**关键词：** inside her head（在心底）；over and over（一遍遍）；like it might change something（像这样能改变点什么）
+**关键词**： inside her head（在心底）；over and over（一遍遍）；like it might change something（像这样能改变点什么）
 
 **为什么这样写**：全章最狠的一句，作者用三个限定把它**层层包裹**：不在嘴里说（`inside her head`）、不是一次（`over and over`）、而她自己也知道无效（`like it might change something`）。这三个限定合起来写出的是**诅咒的三个特征**：不能出声、无法停止、毫无用处。而最重要的是**主语**——她没有说「我恨你」，也没有说「我后悔了」，她说的是**「我一直盼着你死」**：不是此刻的恶意，是一个**持续了几十年的期待**。作者让「希望」这个最日常的词，变成最不可能实现的那种。
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **中文理解**：那不是她预想中的悲伤，甚至算不上可以承受的哀伤，而是一种恶意的嫉妒。
 
-**关键词：** not the grief she was expecting（不是预想的悲伤）；acceptable sadness（可接受的悲伤）；an evil kind of jealousy（一种恶意的嫉妒）
+**关键词**： not the grief she was expecting（不是预想的悲伤）；acceptable sadness（可接受的悲伤）；an evil kind of jealousy（一种恶意的嫉妒）
 
 **为什么这样写**：作者用**两次否定**（不是这个，也不是那个）划掉读者预期的情绪，然后**直接用 `evil`（恶意的）**。`acceptable sadness`（可接受的悲伤）是全书最锋利的一个短语——它意味着**有一套关于「可以难过到什么程度」的规范**，而玛戈刚刚越过了它。`jealousy`（嫉妒）在这里的对象是丈夫、姐妹、二十年的生活，混在一起；作者用一个词装下了这些，再用一个形容词说明这份嫉妒**不是人该有的**。
 
@@ -95,7 +95,7 @@ modified: "2026-09-28"
 
 **中文理解**：结果证明，她显然是这条链子上的那个弱环节——是他们设计里的那个缺陷。
 
-**关键词：** the weak link in the chain（链子上的弱环节）；the fault in their design（他们设计里的缺陷）
+**关键词**： the weak link in the chain（链子上的弱环节）；the fault in their design（他们设计里的缺陷）
 
 **为什么这样写**：章名在此落地，而作者把它**从工程学借给了婚姻**。`the weak link`（最弱一环）是一个**系统术语**：链条的强度由最弱的一环决定，而这一环**不在承重部位**。作者接着用 `the fault in their design`（他们设计里的缺陷）——把责任从「谁不够好」转成「**这套装置本来就有一个问题**」。玛戈恨的不只是自己，是那套设计。而这个判断在下一段被具体化：她记得那个隐形的父亲，记得母亲、读者、所有人都只**恨**理查德。
 
@@ -107,9 +107,9 @@ modified: "2026-09-28"
 
 **中文理解**：也许她还不知道关于杰克·沃克她应该知道的一切。这怎么看都不像一桩出了问题的婚姻。
 
-**关键词：** did not know everything（并不是全都知道）；did not much look like（怎么看都不像）；a marriage in trouble（出了问题的婚姻）
+**关键词**： did not know everything（并不是全都知道）；did not much look like（怎么看都不像）；a marriage in trouble（出了问题的婚姻）
 
-**为什么这样写**：作者用**两句否定**完成一次彻底的反转，而这两句都很轻。第一句是关于**她的无知**（`Perhaps` 一开头就留了余地），第二句是关于**她原本的判断**（`It did not much look like` ——不是「不是」，是「**不太像**」，留了不止一分的余地）。第三章的读者会立刻想起那个红发女孩（`You live with Gabriel at Sandcove, don't you?`）和 ch05 里 Jack 那句 `Are we on?`（开始吗？），而玛戈此刻什么也没想起。作者让她在一个晚上**把自己辛苦建立的那套「我们只是一段浪漫」的说法拆掉**，用的却只是「也许」与「不太像」。
+**为什么这样写**：作者用**两句否定**完成一次彻底的反转，而这两句都很轻。第一句是关于**她的无知**（`Perhaps` 一开头就留了余地），第二句是关于**她原本的判断**（`It did not much look like` ——不是「不是」，是「**不太像**」，留了不止一分的余地）。读到 ch05 的读者会立刻想起那个红发女孩（`You live with Gabriel at Sandcove, don't you?`）和 ch05 里 Jack 那句 `Are we on?`（开始吗？），而玛戈此刻什么也没想起。作者让她在一个晚上**把自己辛苦建立的那套「我们只是一段浪漫」的说法拆掉**，用的却只是「也许」与「不太像」。
 
 **读者视角提示**：`a marriage in trouble` 是玛戈的自我安慰；ch22 会有一句把她这句话原样打回。
 
@@ -119,11 +119,11 @@ modified: "2026-09-28"
 
 **中文理解**：她必须在女儿们发现之前停下——否则她们就会再一次明白，她有多软弱。
 
-**关键词：** before her daughters found out（在女儿们发现之前）；once again（再一次）；how weak she was（她有多软弱）
+**关键词**： before her daughters found out（在女儿们发现之前）；once again（再一次）；how weak she was（她有多软弱）
 
 **为什么这样写**：全章的**最后一个动机**藏在最后半句里，而作者用一个**时间副词**（`once again` 再一次）承载了它：玛戈停下来的理由不是良心，是**不能再被这样评价第二次**。`how weak she was`（她有多软弱）用的是**过去时的判断**——这个词不是她给自己的，是这些年**别人**给她的，而她把它内化成了自我陈述。作者让一个女人在深夜街上决定不再背叛别人的婚姻，动机的最后一层是**面子**：她已经在自己女儿眼里当过一次失败者了。
 
-**读者视角提示**：`once again` 这个词是玛戈一生的节奏；它在 ch07 萨莎那句 `You're hardly her favourite child now` 里还响过一次。
+**读者视角提示**：`once again` 这个词是玛戈一生的节奏；它在 ch07 里菲利普那句 `You're hardly her favourite child now` 里还响过一次——**说这句话的不是女儿，是那个正在把女儿从家里切走的男人**。
 
 ## 本章词汇
 

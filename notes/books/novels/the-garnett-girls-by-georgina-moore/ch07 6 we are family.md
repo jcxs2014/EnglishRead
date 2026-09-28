@@ -11,7 +11,7 @@ modified: "2026-09-28"
 
 **情感弧线位置**：**高潮**——这是全书第一个**家庭秘密被公开说出口**的时刻，而且它发生在一个庆贺的场合。情感基调在前半章是暖的（四个女人在舞池里重新成为一伙），后半章急转直下，直到萨莎用一句 `Yes, I’m coming.` 收场。
 
-**Tropes 兑现/反转**：命中「订婚派对上的家族闹剧」「不受欢迎的女婿」两个套路。反转有三层：① 派对不是给伊莫金的，是给玛戈的主场；② 全家最快乐的时刻（四姐妹共舞）紧跟着最坏的时刻（秘密被听见）；③ 最伤萨莎的不是玛戈听见，而是**菲利普**——他不是她的盟友，他是那个说「你不再是她的宠儿」的人。
+**Tropes 兑现/反转**：命中「订婚派对上的家族闹剧」「不受欢迎的女婿」两个套路。反转有三层：① 派对不是给伊莫金的，是给玛戈的主场；② 全家最快乐的时刻（三姐妹共舞）紧跟着最坏的时刻（秘密被听见）；③ 最伤萨莎的不是玛戈听见，而是**菲利普**——他不是她的盟友，他是那个说「你不再是她的宠儿」的人。
 
 **人物弧线**：萨莎从那个剪了短发、想惊动所有人的小女儿，走到一个**明知会毁掉一切仍然说了出来**的人；作者随即用一个细节证明她不是冷血（`Sasha knew she should be kinder`），她只是被这家人训练成了「先说最难听的话」的那个。菲利的转变最关键：他原本只是阴沉、嫉妒，这一章他**主动行使了权力**（`If you don’t do it, I’ll do it for you`）。杰德森家那场母女之争因此在舞台上被公开执行。
 
@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **关键词**：make up for（弥补）；can never（永远不能）
 
-**为什么这样写**：五个词，整章最短的一次判决。前面加布里埃尔刚问 `Trying to make up for you not having a father?`（想弥补你缺失的父亲吗），萨莎的回答只用了五个词，而且**主语是「她」而不是「我」**——她把母亲放在第三人称的位置上说这句，这本身就是一种惩罚的语法。`never` 是绝对时间副词：不是「很难补」，是「补不上」。作者不给理由、不给安慰，一句话就把这家人的核心债务定了性。
+**为什么这样写**：整章最短的一次判决。前面加布里埃尔刚问 `Trying to make up for you not having a father?`（想弥补你缺失的父亲吗），萨莎的回答是 `She can never make up for that.`——**两句话的长度差，本身就是判决**，而且**主语是「她」而不是「我」**——她把母亲放在第三人称的位置上说这句，这本身就是一种惩罚的语法。`never` 是绝对时间副词：不是「很难补」，是「补不上」。作者不给理由、不给安慰，一句话就把这家人的核心债务定了性。
 
 **读者视角提示**：这句是全书的伦理公理；后面每一次 Margo 试图补偿（派对、旅行、和解）都在被它追讨。
 
@@ -95,7 +95,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| figureheads | 船艏雕饰（此处形容四姐妹长发齐腰的相似） | Growing up they had looked like ship’s figureheads, with hair loose to their hip bones. |
+| figureheads | 船艏雕饰（此处形容三姐妹长发齐腰的相似） | Growing up they had looked like ship’s figureheads, with hair loose to their hip bones. |
 | upbringing | 成长环境；家教 | The only child of divorced parents, his upbringing had been insecure and lonely. |
 | oppressive | 压迫性的；令人透不过气的 | Sasha knew she should be kinder but the weight of the secrets she was carrying felt oppressive when she was around her family. |
 | pretentious | 装腔作势的；矫揉造作的 | He hates this place, says it’s overpriced and pretentious. |
