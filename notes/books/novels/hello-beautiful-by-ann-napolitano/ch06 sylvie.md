@@ -101,7 +101,7 @@ modified: "2026-09-28"
 | peacefully | 平静地；安稳地 | Julia didn’t know yet; she was sitting peacefully on a bus to Northwestern. |
 | uncomfortable | 不自在的 | There was no label for kissing boys for ninety seconds in the library, which was part of why it made Sylvie happy and Julia uncomfortable. |
 | boycotting | 抵制 | Sylvie would keep boycotting boring classes to read in parks. |
-| effortlessly | 毫不费力地 | What had been effortless would now take effort. |
+| effortless | 毫不费力的 | What had been effortless would now take effort. |
 | indication | 迹象；表示 | Sylvie said, “I’m right here,” but her mother gave no indication of having heard her, and Sylvie wondered if maybe she wasn’t right here. |
 | disappearing | 正在消失 | Under Charlie’s gaze, Sylvie had been whole; now, in front of her mother, she was porous, disappearing. |
 | belongings | 随身物品；所有物 | When she was able to breathe normally, Sylvie went to her room to pack her belongings. |

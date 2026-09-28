@@ -87,7 +87,7 @@ modified: "2026-09-28"
 | redheaded | 红发的 | The small redheaded girl, from so far in his past, was accompanying him through his days. |
 | oblivious | 浑然不觉的 | His sister beamed at him from inside the frame, oblivious to her own power. |
 | sequestering | 封锁 | William had done Caroline a disservice for all these years by sequestering her inside himself. |
-| disservice | 亏待 | by sequestering her inside himself |
+| disservice | 亏待 | William had done Caroline a disservice for all these years by sequestering her inside himself. |
 | replicated | 复制 | to be replicated and perhaps painted onto an enormous canvas |
 | craftiness | 精明 | If William had had the energy, he would have smiled at his friend’s craftiness. |
 | considerate | 体贴的 | Kent was so deeply part of William’s life that William didn’t need to be considerate of his feelings. |
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 | bleachers | 看台 | He went to the bleachers to sit down. |
 | statistician | 统计师 | Washington was a statistician who worked for the city government |
 | number-one | 第一号 | Pooh was the nickname of the number-one draft pick, Derrick Rose. |
-| imaginable | 可以想象的 | truly unable to imagine what they might be |
+| imaginable | 可以想象的 | It had been clear, in the house he’d grown up in, that the loss of a little girl was the worst pain imaginable. |
 | somber | 肃穆的 | Their faces went somber. |
 
 ### ⭐ 基础

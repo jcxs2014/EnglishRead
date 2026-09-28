@@ -113,13 +113,13 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | cement | 水泥地 | He made the ball pound the cement. |
-| ceiling | 天花板 | The rookie collapsed back on the exam table, visibly relieved. |
+| ceiling | 天花板 | “No,” the kid said, toward the ceiling. “That’s not it. But you can see when we’re not okay.” |
 | treatment | 治疗 | “I’d do the same thing, in her position. It’s the brave choice. The treatment is almost as bad as what she’s got.” |
 | enthusiasm | 热情 | Due to a combination of weight lifting and an enthusiasm for food, he’d widened considerably since college. |
 | relationship | 关系 | for the first few years of their relationship, he’d told himself, You should leave. |
 | emergency | 紧急情况 | he was the person they both thought of in case of an emergency |
 | straightened | 直起身 | Kent straightened up. |
-| yesterday | 昨天 | His wife had looked at him with her wide-open, beautiful face last night. |
+| yesterday | 昨天 | William waved his hand. “I saw you warming up yesterday. You’ll be fine. You’ve got good wheels.” |
 | beautiful | 美丽的 | His wife had looked at him with her wide-open, beautiful face last night. |
 
 ### 本章词汇说明

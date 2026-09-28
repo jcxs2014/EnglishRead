@@ -91,11 +91,6 @@ modified: "2026-09-28"
 | connections | （历史学里的）贯通性关联 | His favorite part of history was its breadth, the sweeping connections between events and figures. |
 | confidently | 有把握地 | William didn’t see how he could confidently plant his feet in any particular century, continent, or war. |
 | good-spirited | 心情好的；愉快的 | Cecelia always had flecks of paint on her hands and clothes, and she went from good-spirited to annoyed with startling speed. |
-| forgiveness | 原谅 | The letter might ask for William’s forgiveness and for the chance to attend his wedding. |
-| appreciation | 感激；领情 | William nodded in appreciation of the question; the knee did have a history. |
-| comprehend | 理解；领会 | It was a concrete event he could comprehend, like the reality of his knee. |
-| effectively | 有效地 | His friend and girlfriend had modeled hard work and taught him how to study effectively. |
-| connections | （历史学里的）贯通性关联 | His favorite part of history was its breadth, the sweeping connections between events and figures. |
 
 ### ⭐⭐ 进阶
 

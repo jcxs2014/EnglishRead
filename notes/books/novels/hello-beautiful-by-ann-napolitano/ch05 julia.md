@@ -96,7 +96,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| collectively | 共同的；集体地 | She was happy to be the subject of her sisters’ collective attention. |
+| collective | 共同的；集体的 | She was happy to be the subject of her sisters’ collective attention. |
 | preciousness | 珍贵（抽象名词） | The three visitors understood the preciousness of having your own space. |
 | ridiculous | 荒唐的；可笑的 | “But this is ridiculous. |
 | overheated | 过热的 | She felt overheated now and pushed open the window. |

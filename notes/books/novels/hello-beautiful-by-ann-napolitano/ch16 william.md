@@ -94,7 +94,7 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | monkish | 修士般的；孤僻的 | He would be a lone, monkish figure. |
-| panicked | 抢购的 | three identical women’s sweaters he’d panic-bought in the Northwestern campus store |
+| panic-bought | 抢购的（panic-buy 抢购） | He arrived with a wrapped fire engine for Izzy and three identical women’s sweaters he’d panic-bought in the Northwestern campus store. |
 | muffling | 压抑 | he’d gotten so good at muffling his own preferences that he was rarely aware of them |
 
 ### ⭐ 基础

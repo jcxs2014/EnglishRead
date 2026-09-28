@@ -102,7 +102,7 @@ modified: "2026-09-28"
 | resembled | 像 | There was no longer any way to contort her body so that she resembled the petite girls in her school. |
 | dormitory | 宿舍 | She didn’t like the idea of being crammed inside a dormitory with a lot of kids her age. |
 | transitioned | 转变为 | Mrs. Laven had transitioned from calling Alice my little girl to—once Alice passed her in height—my old soul. |
-| controlling | 有控制欲的 | “I like your mom a lot,” Carrie had said, “but anyone that dresses and does their hair as carefully as your mom does every single day is unhappy on the inside. |
+| controlling | 有控制欲的 | “I’ve known my fair share of controlling mothers, that’s for sure. |
 | uncomfortable | 不自在的 | Another part of her, though, was uncomfortable. |
 | strangers | 陌生人 | She thought, But we don’t know any of these people. I don’t know you. We’re all strangers. |
 | particular | 特定的 | There was one particular woman’s face that appeared on a few buildings and on the underside of an overpass. |
@@ -112,13 +112,12 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | financial | 经济的 | “My situation was different. I had to live at home for financial reasons, so I wasn’t really part of campus life. |
-| attending | 参加；正在上学的 | Kids her age were loud and messy, and Alice would never be alone. |
-| option | 选择 | since there was no alternative, she decided to accept her reality |
+| attending | 参加；正在上学的 | Luckily, Carrie was attending Emerson, which was also in Boston; it gave Alice great relief to know that her best friend would be close by. |
+| option | 选择 | Sneakers, though, were unisex, which gave her more options. |
 | sweatpants | 运动裤 | Alice, on the other hand, had a sneaker collection and wore sweatpants in different colors. |
 | skinniness | 瘦削 | It was hard for her to find clothes and shoes that fit her, due to her skinniness and height. |
 | literally | 字面意义上地 | She was unable to blend in; her height kept her apart from everyone else, quite literally. |
 | spotlight | 聚光灯 | Carrie had stopped growing at five feet, which shone an even brighter spotlight on Alice’s height, since the two girls were always together. |
-| uncomfortable | 不自在 | Another part of her, though, was uncomfortable. |
 
 ### 本章词汇说明
 

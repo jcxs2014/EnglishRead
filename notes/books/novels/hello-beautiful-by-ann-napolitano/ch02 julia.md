@@ -95,7 +95,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| determined | 有决心的（be determined to do） | She wouldn’t earn an academic scholarship like Julia had, because she hadn’t matched her older sister’s determination to get one. |
+| determination | 决心；意志力 | She wouldn’t earn an academic scholarship like Julia had, because she hadn’t matched her older sister’s determination to get one. |
 | intelligence | 智力；聪明 | His intelligence didn’t register in the form of strong opinions, though. |
 | understanding | 理解（这里是不确定的形式） | He asked questions that let her know he was interested in understanding her. |
 | professional | 专业的；职业人士的 | William had grown up in a nice home, with a professional father, a big lawn, and his own bedroom. |
@@ -103,7 +103,6 @@ modified: "2026-09-28"
 | comfortable | 自在的；舒服的 | Emeline read the emotional tenor of every room and wanted everyone to feel comfortable and content at all times. |
 | irritating | 让人烦的 | Sometimes her sisters found this irritating, but they would also admit that having a “master troubleshooter” in their own home was an asset. |
 | established | 安顿好的（be established in） | Once she and William were married and established in their own home, she would help her family. |
-| accustomed | 习惯了的（be accustomed to） | A stranger might have laughed at the sight of her, but Julia was accustomed to her mother’s getup. |
 
 ### ⭐ 基础
 
