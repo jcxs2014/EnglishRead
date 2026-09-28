@@ -1,0 +1,104 @@
+$ check_vocab.py <book>
+词条行合计: 1426
+
+--- FAIL (0) ---
+
+--- WARN (83) ---
+  ch02 chapter 1.md [基础] 基础档疑含超纲词「cigarette」
+  ch03 chapter 2.md [基础] 基础档疑含超纲词「apartment」
+  ch03 chapter 2.md [基础] 基础档疑含超纲词「convictions」
+  ch04 chapter 3.md [基础] 基础档疑含超纲词「volunteer」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「bartender」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「heavy eyelashes」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「exhibition」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「clipboard」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「dissident」
+  ch09 chapter 8.md [基础] 基础档疑含超纲词「worktable」
+  ch10 chapter 9.md [基础] 基础档疑含超纲词「tapestries」
+  ch11 chapter 10.md [基础] 基础档疑含超纲词「miscarriage」
+  ch12 chapter 11.md [基础] 基础档疑含超纲词「dissertation」
+  ch13 chapter 12.md [基础] 基础档疑含超纲词「streetlamp」
+  ch14 chapter 13.md [基础] 基础档疑含超纲词「paintbrush」
+  ch15 chapter 14.md [基础] 基础档疑含超纲词「briefcase」
+  ch16 chapter 15.md [基础] 基础档疑含超纲词「courtyard」
+  ch16 chapter 15.md [基础] 基础档疑含超纲词「boulangerie」
+  ch18 chapter 17.md [基础] 基础档疑含超纲词「rhinestones」
+  ch19 chapter 18.md [基础] 基础档疑含超纲词「sputtered」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「banquette」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「tablecloth」
+  ch23 chapter 22.md [基础] 基础档疑含超纲词「briefcase」
+  ch23 chapter 22.md [基础] 基础档疑含超纲词「additional layer」
+  ch24 chapter 23.md [基础] 基础档疑含超纲词「arrangement」
+  ch24 chapter 23.md [基础] 基础档疑含超纲词「spectacular」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「cobblestone streets」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「afternoon sun」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「carpetbag」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「coveralls」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「floorboards」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「clipboard」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「cigarette」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「laboratory」
+  ch29 chapter 28.md [基础] 基础档疑含超纲词「constant surveillance」
+  ch30 chapter 29.md [基础] 基础档疑含超纲词「galleries」
+  ch32 chapter 31.md [基础] 基础档疑含超纲词「galleries」
+  ch33 chapter 32.md [基础] 基础档疑含超纲词「architecture」
+  ch34 chapter 33.md [基础] 基础档疑含超纲词「clipboard」
+  ch34 chapter 33.md [基础] 基础档疑含超纲词「swallowed」
+  ch35 chapter 34.md [基础] 基础档疑含超纲词「tricolore」
+  ch35 chapter 34.md [基础] 基础档疑含超纲词「offerings」
+  ch36 chapter 35.md [基础] 基础档疑含超纲词「storeroom」
+  ch36 chapter 35.md [基础] 基础档疑含超纲词「footsteps」
+  ch37 chapter 36.md [基础] 基础档疑含超纲词「carpetbag」
+  ch37 chapter 36.md [基础] 基础档疑含超纲词「flagstone」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「unstoppable」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「childhood」
+  ch39 chapter 38.md [基础] 基础档疑含超纲词「footsteps」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「apartment」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「benefactor」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「advantage」
+  ch41 chapter 40.md [基础] 基础档疑含超纲词「different life」
+  ch42 chapter 41.md [基础] 基础档疑含超纲词「cigarette case」
+  ch45 chapter 44.md [基础] 基础档疑含超纲词「cigarette」
+  ch47 chapter 46.md [基础] 基础档疑含超纲词「deliberate」
+  ch47 chapter 46.md [基础] 基础档疑含超纲词「courtyard」
+  ch48 chapter 47.md [基础] 基础档疑含超纲词「courtyard」
+  ch49 chapter 48.md [基础] 基础档疑含超纲词「additional」
+  ch51 chapter 50.md [基础] 基础档疑含超纲词「collection」
+  ch51 chapter 50.md [基础] 基础档疑含超纲词「companion」
+  ch52 chapter 51.md [基础] 基础档疑含超纲词「strangers」
+  ch54 chapter 53.md [基础] 基础档疑含超纲词「confidence」
+  ch55 chapter 54.md [基础] 基础档疑含超纲词「cigarette」
+  ch56 chapter 55.md [基础] 基础档疑含超纲词「distinctive limp」
+  ch58 chapter 57.md [基础] 基础档疑含超纲词「accomplices」
+  ch58 chapter 57.md [基础] 基础档疑含超纲词「briefcase」
+  ch59 chapter 58.md [基础] 基础档疑含超纲词「headstone」
+  ch59 chapter 58.md [基础] 基础档疑含超纲词「ringleader」
+  ch60 chapter 59.md [基础] 基础档疑含超纲词「cigarette」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「decanters」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「glimmered」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「aftershave」
+  ch66 chapter 65.md [基础] 基础档疑含超纲词「courtyard」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「footboard」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「mustering」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「watchtower」
+  ch68 chapter 67.md [基础] 基础档疑含超纲词「tricolore」
+  ch68 chapter 67.md [基础] 基础档疑含超纲词「secateurs」
+  ch70 author note.md [基础] 基础档疑含超纲词「vandalism」
+  ch70 author note.md [基础] 基础档疑含超纲词「resistance」
+  ch70 author note.md [基础] 基础档疑含超纲词「provenance」
+  ch70 author note.md [基础] 基础档疑含超纲词「plundered」
+
+$ check_entities.py <book>
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ corruption_scan.py <book>
+
+=== 编辑损坏扫描（the-paris-deception-by-bryn-turnbull）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py <book> --quiet
+=== 引语整串 flat 比对（the-paris-deception-by-bryn-turnbull）===
+  参照集：text/ 逐章（70 章，可定章） + epub 交叉验证
+  ✅ 本章命中 542 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 9 条归 check_short_quotes；无章可对 0 条未判）

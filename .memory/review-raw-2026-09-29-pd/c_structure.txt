@@ -1,0 +1,13 @@
+$ audit_structure.py <book>
+=== 精读结构扫描（the-paris-deception-by-bryn-turnbull）===
+  扫 73 个 md、602 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ check_overview_full.py <book> <epub>  （H1 语义段）
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+$ grep -m1 '^# ' 00_*.md（手 grep 兜底）
+00_情感节点.md → # 《The Paris Deception》情感节点
+00_概述.md → # 《The Paris Deception》概述
+00_金句精选.md → # 《The Paris Deception》金句精选

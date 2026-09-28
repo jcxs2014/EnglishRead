@@ -1,0 +1,572 @@
+$ verify_quotes.py <book> <epub>
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 prologue.md: 7/7 ✅
+ch02 chapter 1.md: 7/7 ✅
+ch03 chapter 2.md: 7/7 ✅
+ch04 chapter 3.md: 8/8 ✅
+ch05 chapter 4.md: 7/7 ✅
+ch06 chapter 5.md: 8/8 ✅
+ch07 chapter 6.md: 8/8 ✅
+ch08 chapter 7.md: 8/8 ✅
+ch09 chapter 8.md: 8/8 ✅
+ch10 chapter 9.md: 8/8 ✅
+ch11 chapter 10.md: 8/8 ✅
+ch12 chapter 11.md: 8/8 ✅
+ch13 chapter 12.md: 8/8 ✅
+ch14 chapter 13.md: 8/8 ✅
+ch15 chapter 14.md: 7/7 ✅
+ch16 chapter 15.md: 7/7 ✅
+ch17 chapter 16.md: 8/8 ✅
+ch18 chapter 17.md: 7/7 ✅（另有 1 条短引语未校验）
+ch19 chapter 18.md: 7/7 ✅
+ch20 chapter 19.md: 8/8 ✅
+ch21 chapter 20.md: 8/8 ✅
+ch22 chapter 21.md: 8/8 ✅
+ch23 chapter 22.md: 7/7 ✅
+ch24 chapter 23.md: 8/8 ✅
+ch25 chapter 24.md: 7/7 ✅（另有 1 条短引语未校验）
+ch26 chapter 25.md: 8/8 ✅
+ch27 chapter 26.md: 8/8 ✅
+ch28 chapter 27.md: 7/7 ✅（另有 1 条短引语未校验）
+ch29 chapter 28.md: 8/8 ✅
+ch30 chapter 29.md: 8/8 ✅
+ch31 chapter 30.md: 8/8 ✅
+ch32 chapter 31.md: 8/8 ✅
+ch33 chapter 32.md: 8/8 ✅
+ch34 chapter 33.md: 8/8 ✅
+ch35 chapter 34.md: 8/8 ✅
+ch36 chapter 35.md: 7/7 ✅（另有 1 条短引语未校验）
+ch37 chapter 36.md: 8/8 ✅
+ch38 chapter 37.md: 8/8 ✅
+ch39 chapter 38.md: 8/8 ✅
+ch40 chapter 39.md: 8/8 ✅
+ch41 chapter 40.md: 8/8 ✅
+ch42 chapter 41.md: 8/8 ✅
+ch43 chapter 42.md: 8/8 ✅
+ch44 chapter 43.md: 8/8 ✅
+ch45 chapter 44.md: 8/8 ✅
+ch46 chapter 45.md: 8/8 ✅
+ch47 chapter 46.md: 8/8 ✅
+ch48 chapter 47.md: 7/7 ✅（另有 1 条短引语未校验）
+ch49 chapter 48.md: 8/8 ✅
+ch50 chapter 49.md: 8/8 ✅
+ch51 chapter 50.md: 8/8 ✅
+ch52 chapter 51.md: 8/8 ✅
+ch53 chapter 52.md: 8/8 ✅
+ch54 chapter 53.md: 8/8 ✅
+ch55 chapter 54.md: 8/8 ✅
+ch56 chapter 55.md: 8/8 ✅
+ch57 chapter 56.md: 8/8 ✅
+ch58 chapter 57.md: 8/8 ✅
+ch59 chapter 58.md: 8/8 ✅
+ch60 chapter 59.md: 8/8 ✅
+ch61 chapter 60.md: 8/8 ✅
+ch62 chapter 61.md: 8/8 ✅
+ch63 chapter 62.md: 8/8 ✅
+ch64 chapter 63.md: 8/8 ✅
+ch65 chapter 64.md: 6/6 ✅
+ch66 chapter 65.md: 8/8 ✅
+ch67 chapter 66.md: 7/7 ✅（另有 1 条短引语未校验）
+ch68 chapter 67.md: 6/6 ✅（另有 2 条短引语未校验）
+ch69 epilogue.md: 8/8 ✅
+ch70 author note.md: 8/8 ✅
+
+⚠️ 全书共 8 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 567/567 引文可核实（100%）；完全干净文件 71/71；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+$ verify_quotes.py <book> <epub> --full
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 prologue.md: 7/7 ✅
+ch02 chapter 1.md: 7/7 ✅
+ch03 chapter 2.md: 7/7 ✅
+ch04 chapter 3.md: 8/8 ✅
+ch05 chapter 4.md: 7/7 ✅
+ch06 chapter 5.md: 8/8 ✅
+ch07 chapter 6.md: 8/8 ✅
+ch08 chapter 7.md: 8/8 ✅
+ch09 chapter 8.md: 8/8 ✅
+ch10 chapter 9.md: 8/8 ✅
+ch11 chapter 10.md: 8/8 ✅
+ch12 chapter 11.md: 8/8 ✅
+ch13 chapter 12.md: 8/8 ✅
+ch14 chapter 13.md: 8/8 ✅
+ch15 chapter 14.md: 7/7 ✅
+ch16 chapter 15.md: 7/7 ✅
+ch17 chapter 16.md: 8/8 ✅
+ch18 chapter 17.md: 7/7 ✅（另有 1 条短引语未校验）
+ch19 chapter 18.md: 7/7 ✅
+ch20 chapter 19.md: 8/8 ✅
+ch21 chapter 20.md: 8/8 ✅
+ch22 chapter 21.md: 8/8 ✅
+ch23 chapter 22.md: 7/7 ✅
+ch24 chapter 23.md: 8/8 ✅
+ch25 chapter 24.md: 7/7 ✅（另有 1 条短引语未校验）
+ch26 chapter 25.md: 8/8 ✅
+ch27 chapter 26.md: 8/8 ✅
+ch28 chapter 27.md: 7/7 ✅（另有 1 条短引语未校验）
+ch29 chapter 28.md: 8/8 ✅
+ch30 chapter 29.md: 8/8 ✅
+ch31 chapter 30.md: 8/8 ✅
+ch32 chapter 31.md: 8/8 ✅
+ch33 chapter 32.md: 8/8 ✅
+ch34 chapter 33.md: 8/8 ✅
+ch35 chapter 34.md: 8/8 ✅
+ch36 chapter 35.md: 7/7 ✅（另有 1 条短引语未校验）
+ch37 chapter 36.md: 8/8 ✅
+ch38 chapter 37.md: 8/8 ✅
+ch39 chapter 38.md: 8/8 ✅
+ch40 chapter 39.md: 8/8 ✅
+ch41 chapter 40.md: 8/8 ✅
+ch42 chapter 41.md: 8/8 ✅
+ch43 chapter 42.md: 8/8 ✅
+ch44 chapter 43.md: 8/8 ✅
+ch45 chapter 44.md: 8/8 ✅
+ch46 chapter 45.md: 8/8 ✅
+ch47 chapter 46.md: 8/8 ✅
+ch48 chapter 47.md: 7/7 ✅（另有 1 条短引语未校验）
+ch49 chapter 48.md: 8/8 ✅
+ch50 chapter 49.md: 8/8 ✅
+ch51 chapter 50.md: 8/8 ✅
+ch52 chapter 51.md: 8/8 ✅
+ch53 chapter 52.md: 8/8 ✅
+ch54 chapter 53.md: 8/8 ✅
+ch55 chapter 54.md: 8/8 ✅
+ch56 chapter 55.md: 8/8 ✅
+ch57 chapter 56.md: 8/8 ✅
+ch58 chapter 57.md: 8/8 ✅
+ch59 chapter 58.md: 8/8 ✅
+ch60 chapter 59.md: 8/8 ✅
+ch61 chapter 60.md: 8/8 ✅
+ch62 chapter 61.md: 8/8 ✅
+ch63 chapter 62.md: 8/8 ✅
+ch64 chapter 63.md: 8/8 ✅
+ch65 chapter 64.md: 6/6 ✅
+ch66 chapter 65.md: 8/8 ✅
+ch67 chapter 66.md: 7/7 ✅（另有 1 条短引语未校验）
+ch68 chapter 67.md: 6/6 ✅（另有 2 条短引语未校验）
+ch69 epilogue.md: 8/8 ✅
+ch70 author note.md: 8/8 ✅
+
+⚠️ 全书共 8 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 567/567 引文可核实（100%）；完全干净文件 71/71；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+$ check_vocab.py <book>
+词条行合计: 1426
+
+--- FAIL (0) ---
+
+--- WARN (83) ---
+  ch02 chapter 1.md [基础] 基础档疑含超纲词「cigarette」
+  ch03 chapter 2.md [基础] 基础档疑含超纲词「apartment」
+  ch03 chapter 2.md [基础] 基础档疑含超纲词「convictions」
+  ch04 chapter 3.md [基础] 基础档疑含超纲词「volunteer」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「bartender」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「heavy eyelashes」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「exhibition」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「clipboard」
+  ch08 chapter 7.md [基础] 基础档疑含超纲词「dissident」
+  ch09 chapter 8.md [基础] 基础档疑含超纲词「worktable」
+  ch10 chapter 9.md [基础] 基础档疑含超纲词「tapestries」
+  ch11 chapter 10.md [基础] 基础档疑含超纲词「miscarriage」
+  ch12 chapter 11.md [基础] 基础档疑含超纲词「dissertation」
+  ch13 chapter 12.md [基础] 基础档疑含超纲词「streetlamp」
+  ch14 chapter 13.md [基础] 基础档疑含超纲词「paintbrush」
+  ch15 chapter 14.md [基础] 基础档疑含超纲词「briefcase」
+  ch16 chapter 15.md [基础] 基础档疑含超纲词「courtyard」
+  ch16 chapter 15.md [基础] 基础档疑含超纲词「boulangerie」
+  ch18 chapter 17.md [基础] 基础档疑含超纲词「rhinestones」
+  ch19 chapter 18.md [基础] 基础档疑含超纲词「sputtered」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「banquette」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「tablecloth」
+  ch23 chapter 22.md [基础] 基础档疑含超纲词「briefcase」
+  ch23 chapter 22.md [基础] 基础档疑含超纲词「additional layer」
+  ch24 chapter 23.md [基础] 基础档疑含超纲词「arrangement」
+  ch24 chapter 23.md [基础] 基础档疑含超纲词「spectacular」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「cobblestone streets」
+  ch25 chapter 24.md [基础] 基础档疑含超纲词「afternoon sun」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「carpetbag」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「coveralls」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「floorboards」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「clipboard」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「cigarette」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「laboratory」
+  ch29 chapter 28.md [基础] 基础档疑含超纲词「constant surveillance」
+  ch30 chapter 29.md [基础] 基础档疑含超纲词「galleries」
+  ch32 chapter 31.md [基础] 基础档疑含超纲词「galleries」
+  ch33 chapter 32.md [基础] 基础档疑含超纲词「architecture」
+  ch34 chapter 33.md [基础] 基础档疑含超纲词「clipboard」
+  ch34 chapter 33.md [基础] 基础档疑含超纲词「swallowed」
+  ch35 chapter 34.md [基础] 基础档疑含超纲词「tricolore」
+  ch35 chapter 34.md [基础] 基础档疑含超纲词「offerings」
+  ch36 chapter 35.md [基础] 基础档疑含超纲词「storeroom」
+  ch36 chapter 35.md [基础] 基础档疑含超纲词「footsteps」
+  ch37 chapter 36.md [基础] 基础档疑含超纲词「carpetbag」
+  ch37 chapter 36.md [基础] 基础档疑含超纲词「flagstone」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「unstoppable」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「childhood」
+  ch39 chapter 38.md [基础] 基础档疑含超纲词「footsteps」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「apartment」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「benefactor」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「advantage」
+  ch41 chapter 40.md [基础] 基础档疑含超纲词「different life」
+  ch42 chapter 41.md [基础] 基础档疑含超纲词「cigarette case」
+  ch45 chapter 44.md [基础] 基础档疑含超纲词「cigarette」
+  ch47 chapter 46.md [基础] 基础档疑含超纲词「deliberate」
+  ch47 chapter 46.md [基础] 基础档疑含超纲词「courtyard」
+  ch48 chapter 47.md [基础] 基础档疑含超纲词「courtyard」
+  ch49 chapter 48.md [基础] 基础档疑含超纲词「additional」
+  ch51 chapter 50.md [基础] 基础档疑含超纲词「collection」
+  ch51 chapter 50.md [基础] 基础档疑含超纲词「companion」
+  ch52 chapter 51.md [基础] 基础档疑含超纲词「strangers」
+  ch54 chapter 53.md [基础] 基础档疑含超纲词「confidence」
+  ch55 chapter 54.md [基础] 基础档疑含超纲词「cigarette」
+  ch56 chapter 55.md [基础] 基础档疑含超纲词「distinctive limp」
+  ch58 chapter 57.md [基础] 基础档疑含超纲词「accomplices」
+  ch58 chapter 57.md [基础] 基础档疑含超纲词「briefcase」
+  ch59 chapter 58.md [基础] 基础档疑含超纲词「headstone」
+  ch59 chapter 58.md [基础] 基础档疑含超纲词「ringleader」
+  ch60 chapter 59.md [基础] 基础档疑含超纲词「cigarette」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「decanters」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「glimmered」
+  ch63 chapter 62.md [基础] 基础档疑含超纲词「aftershave」
+  ch66 chapter 65.md [基础] 基础档疑含超纲词「courtyard」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「footboard」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「mustering」
+  ch67 chapter 66.md [基础] 基础档疑含超纲词「watchtower」
+  ch68 chapter 67.md [基础] 基础档疑含超纲词「tricolore」
+  ch68 chapter 67.md [基础] 基础档疑含超纲词「secateurs」
+  ch70 author note.md [基础] 基础档疑含超纲词「vandalism」
+  ch70 author note.md [基础] 基础档疑含超纲词「resistance」
+  ch70 author note.md [基础] 基础档疑含超纲词「provenance」
+  ch70 author note.md [基础] 基础档疑含超纲词「plundered」
+
+$ check_entities.py <book>
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ corruption_scan.py <book>
+
+=== 编辑损坏扫描（the-paris-deception-by-bryn-turnbull）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py <book> --quiet
+=== 引语整串 flat 比对（the-paris-deception-by-bryn-turnbull）===
+  参照集：text/ 逐章（70 章，可定章） + epub 交叉验证
+  ✅ 本章命中 542 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 9 条归 check_short_quotes；无章可对 0 条未判）
+
+$ check_short_quotes.py <book>
+=== 短引语兜底核对（the-paris-deception-by-bryn-turnbull）===
+  verify_quotes 跳过（<20 flat 字符）的引语：9 条 —— 这些主门禁**根本没查**
+  ✅ 命中 9 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+$ verify_overview_quotes.py <book> <epub>
+00_情感节点.md: 23/23 ✅
+00_概述.md: ⚠️ 未提取到编号引语（请人工核对格式）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 48/48 可核实（100%）；完全干净文件 2/2 ===
+
+$ check_overview_full.py <book> <epub>
+=== 总览整串核查（the-paris-deception-by-bryn-turnbull）===
+  参照集：text/ 逐章（70 章） ｜ 总览文件 3 个
+  A 整串：命中 80 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 27
+  B 章节标签：对 64 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 16 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 51 ｜ 不符 0（**只报不判红**）｜ 跳过 18
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+$ audit_structure.py <book>
+=== 精读结构扫描（the-paris-deception-by-bryn-turnbull）===
+  扫 73 个 md、602 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ audit_numbers.py <book>
+=== 计数断言核查（the-paris-deception-by-bryn-turnbull）===
+  扫 73 个 md；抓到断言 306 条（含不可机械核查的年龄/百分比 27 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）2 ｜ ⚠️ 差 1 11 ｜ ❓ 参照串未解析未判 199 ｜ ⚪ 不可机械核查 27
+  ❌ ch05 chapter 4.md:84  「一个Fabienne, at least, knew」→ 本块引语出现 3 次
+       参照：本块引语：She could scoff at his hypocrisy—as though feeding
+  ❌ ch46 chapter 45.md:84  「一个nothing」→ 本块引语出现 3 次
+       参照：本块引语：There was nothing Sophie could do: nothing, when t
+  ⚠️ ch22 chapter 21.md:72  「两个see」→ 本块引语出现 3 次
+       参照：本块引语：You want me to tell you that they changed their mi
+  ⚠️ ch24 chapter 23.md:48  「两个had」→ 本块引语出现 1 次
+       参照：本块引语：To the best of her knowledge, no one had been in t
+  ⚠️ ch34 chapter 33.md:48  「三个to」→ 本块引语出现 4 次
+       参照：本块引语：It was easy, here, to grow jaded by the display of
+  ⚠️ ch38 chapter 37.md:84  「两个didn’t want」→ 本块引语出现 1 次
+       参照：本块引语：What future, Papa?” She stood, trembling. “What fu
+  ⚠️ ch41 chapter 40.md:84  「三个Not」→ 本块引语出现 2 次
+       参照：本块引语：From the time we were kids, all I ever wanted was 
+  ⚠️ ch45 chapter 44.md:96  「三个every」→ 本块引语出现 2 次
+       参照：本块引语：I spent every day hoping that you would walk back 
+  ⚠️ ch46 chapter 45.md:108  「一个that」→ 本块引语出现 2 次
+       参照：本块引语：Sophie closed her door and sank to the floor, wish
+  ⚠️ ch50 chapter 49.md:108  「一个and」→ 本块引语出现 2 次
+       参照：本块引语：The Germans stole it from Monsieur Weinburger and 
+  ⚠️ ch60 chapter 59.md:72  「一个half」→ 本块引语出现 2 次
+       参照：本块引语：They wouldn’t be in this mess if it weren’t for me
+  ⚠️ ch63 chapter 62.md:24  「一个Was.」→ 本块引语出现 2 次
+       参照：本块引语：Was. Sophie traced her finger along the grooves in
+  ⚠️ ch64 chapter 63.md:84  「二个she suspected Klaebisch did too」→ 本块引语出现 1 次
+       参照：本块引语：It was a bluff, on Fabienne’s part. She knew it, a
+  ❓ 00_情感节点.md:74  「三个本该」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ 00_情感节点.md:77  「三个我本该」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ 00_概述.md:16  「一个最好 Invisible 的修复师」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ 00_金句精选.md:12  「一个几秒钟」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ 00_金句精选.md:194  「四个字」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 30 词） —— 需人判
+  ❓ ch01 prologue.md:36  「三个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch01 prologue.md:36  「一个曾经有多美」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch02 chapter 1.md:60  「一个除了……否则就……」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch03 chapter 2.md:60  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch03 chapter 2.md:60  「两个without」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch04 chapter 3.md:12  「一个词」参照串未解析 —— 需人判
+  ❓ ch04 chapter 3.md:36  「一个当初 vs 现在」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch04 chapter 3.md:48  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch04 chapter 3.md:96  「两个that」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch05 chapter 4.md:96  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch05 chapter 4.md:96  「一个filling his glass to the top」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch06 chapter 5.md:24  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch06 chapter 5.md:48  「一个how to」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch06 chapter 5.md:72  「一个。`that sort of thing`（那种事）是全英语里最省力的回避说法：不必说」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch07 chapter 6.md:14  「两个回看」无块内引语可比 —— 需人判
+  ❓ ch07 chapter 6.md:60  「两个her」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch07 chapter 6.md:84  「一个she'd watched」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch07 chapter 6.md:86  「一个词」参照串未解析 —— 需人判
+  ❓ ch08 chapter 7.md:36  「两个There was nothing ... about」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch08 chapter 7.md:60  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch08 chapter 7.md:86  「三个字」参照串未解析 —— 需人判
+  ❓ ch09 chapter 8.md:36  「一个with」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch10 chapter 9.md:14  「两个切换语言」无块内引语可比 —— 需人判
+  ❓ ch10 chapter 9.md:84  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch10 chapter 9.md:96  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch10 chapter 9.md:108  「七个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 9 词） —— 需人判
+  ❓ ch11 chapter 10.md:36  「三个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch11 chapter 10.md:72  「两个managed to」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch12 chapter 11.md:14  「两个介绍」无块内引语可比 —— 需人判
+  ❓ ch12 chapter 11.md:38  「四个字」参照串未解析 —— 需人判
+  ❓ ch12 chapter 11.md:84  「两个每一个」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch12 chapter 11.md:154  「一个我必须有所牺牲」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch13 chapter 12.md:96  「一个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch14 chapter 13.md:72  「三个词」参照串未解析 —— 需人判
+  ❓ ch14 chapter 13.md:108  「三个词」参照串未解析 —— 需人判
+  ❓ ch15 chapter 14.md:14  「三个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch15 chapter 14.md:60  「两个词」参照串未解析 —— 需人判
+  ❓ ch15 chapter 14.md:96  「两个I」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch16 chapter 15.md:14  「两个What would she do, if ...」无块内引语可比 —— 需人判
+  ❓ ch16 chapter 15.md:24  「两个where」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch16 chapter 15.md:38  「三个不可能」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch16 chapter 15.md:38  「一一个她明知故犯」无块内引语可比 —— 需人判
+  ❓ ch17 chapter 16.md:24  「一个声音」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch17 chapter 16.md:96  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch18 chapter 17.md:60  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch18 chapter 17.md:72  「五个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch18 chapter 17.md:108  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch18 chapter 17.md:110  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch19 chapter 18.md:10  「三个字」参照串未解析 —— 需人判
+  ❓ ch19 chapter 18.md:24  「二个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch19 chapter 18.md:26  「一个最危险的操作放在最显眼的地方」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch19 chapter 18.md:84  「三个词」参照串未解析 —— 需人判
+  ❓ ch19 chapter 18.md:86  「三个字」参照串未解析 —— 需人判
+  ❓ ch19 chapter 18.md:135  「三个字」参照串未解析 —— 需人判
+  ❓ ch20 chapter 19.md:24  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch21 chapter 20.md:13  「一个记得所有笑话的旧友」无块内引语可比 —— 需人判
+  ❓ ch21 chapter 20.md:13  「一个把烟灰磕在别人墓碑上的人」无块内引语可比 —— 需人判
+  ❓ ch21 chapter 20.md:96  「七个词」参照串未解析 —— 需人判
+  ❓ ch21 chapter 20.md:108  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch21 chapter 20.md:149  「四个字」参照串未解析 —— 需人判
+  ❓ ch22 chapter 21.md:36  「两个-un-」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch22 chapter 21.md:60  「四个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch22 chapter 21.md:60  「一个just」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch22 chapter 21.md:96  「七个词」参照串未解析 —— 需人判
+  ❓ ch22 chapter 21.md:108  「三个that」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch23 chapter 22.md:96  「一个Fine」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch24 chapter 23.md:36  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch27 chapter 26.md:10  「一个酒类独裁者」无块内引语可比 —— 需人判
+  ❓ ch27 chapter 26.md:96  「一一个cowardice」无块内引语可比 —— 需人判
+  ❓ ch28 chapter 27.md:36  「两个记」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch28 chapter 27.md:60  「一个词」参照串未解析 —— 需人判
+  ❓ ch30 chapter 29.md:24  「一个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 58 词） —— 需人判
+  ❓ ch31 chapter 30.md:96  「三个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch31 chapter 30.md:96  「二个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch32 chapter 31.md:84  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch32 chapter 31.md:84  「一个and I had」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch32 chapter 31.md:96  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch32 chapter 31.md:108  「五个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch33 chapter 32.md:38  「一一个赝品」无块内引语可比 —— 需人判
+  ❓ ch33 chapter 32.md:72  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch33 chapter 32.md:84  「五个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch33 chapter 32.md:96  「两个词」参照串未解析 —— 需人判
+  ❓ ch33 chapter 32.md:108  「四个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch34 chapter 33.md:12  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch34 chapter 33.md:48  「一个被带着走」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch35 chapter 34.md:48  「一个多少钱」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch35 chapter 34.md:96  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch36 chapter 35.md:48  「五个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch36 chapter 35.md:84  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch36 chapter 35.md:108  「四个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch36 chapter 35.md:147  「五个字」参照串未解析 —— 需人判
+  ❓ ch38 chapter 37.md:6  「三个未来」无块内引语可比 —— 需人判
+  ❓ ch38 chapter 37.md:60  「一个词」参照串未解析 —— 需人判
+  ❓ ch38 chapter 37.md:84  「一个他们」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch38 chapter 37.md:84  「一个未来」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch38 chapter 37.md:98  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch38 chapter 37.md:108  「五个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch38 chapter 37.md:147  「五个字」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 33 词） —— 需人判
+  ❓ ch39 chapter 38.md:24  「一个再不走就没了」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch39 chapter 38.md:36  「四个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch39 chapter 38.md:48  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch39 chapter 38.md:96  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch39 chapter 38.md:96  「三个I」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch40 chapter 39.md:11  「一个礼貌」无块内引语可比 —— 需人判
+  ❓ ch40 chapter 39.md:36  「三个of」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch40 chapter 39.md:36  「一个of」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch40 chapter 39.md:48  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch41 chapter 40.md:11  「一一个解释」无块内引语可比 —— 需人判
+  ❓ ch41 chapter 40.md:48  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch41 chapter 40.md:48  「三个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch41 chapter 40.md:60  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch41 chapter 40.md:84  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch41 chapter 40.md:98  「两个词」参照串未解析 —— 需人判
+  ❓ ch42 chapter 41.md:24  「四个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 24 词） —— 需人判
+  ❓ ch42 chapter 41.md:96  「三个brief」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch43 chapter 42.md:24  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch43 chapter 42.md:36  「三个who」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch43 chapter 42.md:84  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch43 chapter 42.md:96  「两个Don’t」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch44 chapter 43.md:11  「一一个胜利」无块内引语可比 —— 需人判
+  ❓ ch45 chapter 44.md:60  「二个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch45 chapter 44.md:72  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch46 chapter 45.md:10  「一一个词」参照串未解析 —— 需人判
+  ❓ ch46 chapter 45.md:48  「三个词」参照串未解析 —— 需人判
+  ❓ ch46 chapter 45.md:48  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch46 chapter 45.md:84  「三个when」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch46 chapter 45.md:86  「三个nothing」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch46 chapter 45.md:92  「一一个词」参照串未解析 —— 需人判
+  ❓ ch46 chapter 45.md:96  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch46 chapter 45.md:108  「两个that」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch47 chapter 46.md:48  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch48 chapter 47.md:10  「一个要等三年才有回报」无块内引语可比 —— 需人判
+  ❓ ch48 chapter 47.md:26  「一个看看现在」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch48 chapter 47.md:36  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch50 chapter 49.md:12  「六个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch50 chapter 49.md:50  「一个词」参照串未解析 —— 需人判
+  ❓ ch50 chapter 49.md:62  「十一个字」参照串未解析 —— 需人判
+  ❓ ch50 chapter 49.md:72  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch52 chapter 51.md:10  「一个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch52 chapter 51.md:11  「一个词」参照串未解析 —— 需人判
+  ❓ ch52 chapter 51.md:108  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch52 chapter 51.md:159  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch53 chapter 52.md:14  「两个To business」无块内引语可比 —— 需人判
+  ❓ ch53 chapter 52.md:98  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch54 chapter 53.md:14  「两个深呼吸」无块内引语可比 —— 需人判
+  ❓ ch54 chapter 53.md:108  「四个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch55 chapter 54.md:36  「四个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch55 chapter 54.md:36  「一个she who’d」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch55 chapter 54.md:72  「一个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch55 chapter 54.md:84  「四个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 19 词） —— 需人判
+  ❓ ch55 chapter 54.md:96  「一个袖中藏牌」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch55 chapter 54.md:96  「一个近似」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch55 chapter 54.md:149  「四个字」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 41 词） —— 需人判
+  ❓ ch56 chapter 55.md:60  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch56 chapter 55.md:84  「一个if...wouldn’t」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch57 chapter 56.md:60  「三个字」参照串未解析 —— 需人判
+  ❓ ch57 chapter 56.md:108  「两个词」参照串未解析 —— 需人判
+  ❓ ch58 chapter 57.md:24  「一个all」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch59 chapter 58.md:72  「三个who」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch59 chapter 58.md:108  「六个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch60 chapter 59.md:108  「一个不配」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch60 chapter 59.md:149  「一个词」参照串未解析 —— 需人判
+  ❓ ch61 chapter 60.md:14  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch61 chapter 60.md:60  「一个文饰」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch61 chapter 60.md:74  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch61 chapter 60.md:86  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch61 chapter 60.md:108  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch62 chapter 61.md:72  「三个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch62 chapter 61.md:72  「一个His」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch62 chapter 61.md:96  「一个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch62 chapter 61.md:96  「三个can't」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch63 chapter 62.md:13  「一个fury」无块内引语可比 —— 需人判
+  ❓ ch63 chapter 62.md:74  「一个词」参照串未解析 —— 需人判
+  ❓ ch63 chapter 62.md:96  「一个先宣判，后行刑」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch63 chapter 62.md:108  「三个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch64 chapter 63.md:36  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch64 chapter 63.md:92  「一个欺骗城堡」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch64 chapter 63.md:108  「十五个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 15 词） —— 需人判
+  ❓ ch65 chapter 64.md:14  「一个清洁作业」无块内引语可比 —— 需人判
+  ❓ ch65 chapter 64.md:72  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch65 chapter 64.md:72  「两个人」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch65 chapter 64.md:72  「两个事」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch65 chapter 64.md:84  「两个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch66 chapter 65.md:13  「两个骑士侍从」无块内引语可比 —— 需人判
+  ❓ ch66 chapter 65.md:72  「一个It is true that」token 不逐字在本块引语内（疑意译），不判 —— 需人判
+  ❓ ch66 chapter 65.md:108  「一个已经结束」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch66 chapter 65.md:108  「一个仍在进行」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch67 chapter 66.md:24  「三个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 3 词） —— 需人判
+  ❓ ch67 chapter 66.md:48  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch69 epilogue.md:72  「一个词」参照串未解析 —— 需人判
+  ❓ ch69 epilogue.md:96  「两个分句」分句口径不统一（按逗号切与按句号切结果差数倍），不判 —— 需人判
+  ❓ ch70 author note.md:86  「三个字」参照串未解析 —— 需人判
+  ❓ ch70 author note.md:96  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch70 author note.md:108  「十三四个词」参照串未解析 —— 需人判
+  ⚪ 00_情感节点.md:48  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:20  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_金句精选.md:99  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 chapter 7.md:14  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 chapter 7.md:50  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 chapter 7.md:108  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 chapter 7.md:159  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch17 chapter 16.md:11  「三十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch21 chapter 20.md:60  「二十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch22 chapter 21.md:6  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch22 chapter 21.md:36  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter 25.md:10  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter 25.md:13  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter 25.md:110  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter 25.md:149  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch27 chapter 26.md:13  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch31 chapter 30.md:26  「十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch31 chapter 30.md:72  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch31 chapter 30.md:110  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch31 chapter 30.md:147  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch39 chapter 38.md:12  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch39 chapter 38.md:13  「四十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch44 chapter 43.md:84  「十七八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch60 chapter 59.md:20  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch60 chapter 59.md:20  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch70 author note.md:10  「20%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch70 author note.md:146  「20%」年龄/百分比类，文本层推不出真值，只列出待人核
+
+$ check_anchor.py <book>
+=== 关键词锚定自查（the-paris-deception-by-bryn-turnbull）===
+  扫 73 个 md，551 个引语块，551 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（70 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+$ sweep_analysis_inline.py <book> --quiet
+=== 分析层行内英文逐字核查（the-paris-deception-by-bryn-turnbull）===
+  参照集：text/（70 个提取件） + epub 交叉验证 ；扫 73 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1846 个表格行、1277 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 3851 ｜ ⚠️ 跨章 30 ｜ 🔶 拼接 67 ｜ 🟠 部分命中 34 ｜ 🟡 词形 7 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2248
+
+$ check_crossref.py <book>
+交叉引用核对：0 对，报警 0

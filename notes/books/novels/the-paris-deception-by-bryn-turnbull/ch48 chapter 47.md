@@ -7,10 +7,10 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1943 年 5 月，Fabienne 在 Château Dolus 的葡萄园里帮 Papa 绑新梢；Papa 宣布今年要把全部收成留下、自己贴牌装瓶（`We’re going to bottle our own vintage`），等于把全家的生存押在一个"要等三年才有回报"的赌注上；她问他若被强征走了怎么办，他答 `Run, I suppose`；入夜后她趁他出门，带两幅用桑皮纸包好的画上阁楼，身后一支手电筒亮起——**举枪的人是 Sébastien。**
+- **一句话概括**：1943 年 5 月，Fabienne 在 Château Dolus 的葡萄园里帮 Papa 绑新梢；Papa 宣布今年要把全部收成留下、自己贴牌装瓶（`We’re going to bottle our own vintage`），等于把全家的生存押在一个"要等三年才有回报"的赌注上；她问他若被强征走了怎么办，他答 `Run, I suppose`；入夜后她趁他出门，带两幅用桑皮纸包好的画上阁楼，身后一支手电筒亮起——**她没看清是谁举着它**（`she couldn’t make out who was holding it`），身份只靠**声音**给出（`her heart nearly stopped at the sound of Sébastien’s voice`）。
 - **情感弧线位置**：**全书最温柔的一段日常，紧接着全书最冷的一个转身。** 这一章内部自成一条完整的抛物线：白天的希望（`“Hope.”`）→ 厨房门框里偷看父母（`so palpable and rare`）→ 半夜空床（`reaching for his warmth`）→ 枪口；**而抛物线的最低点是一个仍然爱着她的人**。
-- **Tropes 兑现/反转**：**兑现**——"战时囤下收成、把希望押在一个年份上"的套式，本书还叠了一层"父亲的决定不可劝阻"；**反转**——**举枪的人不是德国人、不是秘密警察，而是当天白天还在楼下数酒瓶的那个人**；而且**这个反转不给答案**：作者在 `Right now.` 这个命令之后就切断章节，**把"他到底是谁"这个问题整个留给了下一章。**
-- **人物弧线**：Papa 从"回忆一战的人"变成"下注的人"，而他下的注和全家的存亡是同一件事（`It was madness, to hold back the harvest, to stake their survival on such a thing during a year of war`）；Sébastien 从"累了一天的农工"变成"夜里出门的人"；**而 Fabienne 本章的位置最微妙——她还在替他找理由**（`certain that they had something—everything—to do with the regional Resistance movement`），**读者却已经知道下一章她不会再有这份确定。**
+- **Tropes 兑现/反转**：**兑现**——"战时囤下收成、把希望押在一个年份上"的套式，本书还叠了一层"父亲的决定不可劝阻"；**反转**——**举枪的人不是德国人、不是秘密警察，而是当天白天还在楼下数酒瓶的那个人**；而且**这个反转不给答案**：作者在 `Right now.` 这个命令之后就切断章节，**把"他到底是谁"这个问题整个留了下来——而**下一章并不解答它**（下一章是 Sophie 视角，全章无 Fabienne 的落点）。**
+- **人物弧线**：Papa 从"回忆一战的人"变成"下注的人"，而他下的注和全家的存亡是同一件事（`It was madness, to hold back the harvest, to stake their survival on such a thing during a year of war`）；Sébastien 从"累了一天的农工"变成"夜里出门的人"；**而 Fabienne 本章的位置最微妙——她还在替他找理由**（`certain that they had something—everything—to do with the regional Resistance movement`），**读者却已经知道**往后**她不会再有这份确定。**
 - **叙事手法**：第三人称限知（Fabienne）；**三段递降的感官**：白天的绿与金属丝（视觉）→ 烤乳鸽与母亲的哼唱（嗅觉听觉）→ 夜里的寒气与手电筒的白光（触觉视觉）；**作者把枪藏在"她拿画"这个动作之后**——她上楼是为了保护自己家人的营生，而抓住她的人正是这件事的受益者，**因此这场"逮捕"在语法上无法被指控。**
 
 ## 精读
@@ -57,9 +57,9 @@ modified: "2026-09-28"
 
 **关键词：** Run, I suppose / would rather join the Resistance than the STO / whether we keep it for ourselves or sell it on
 
-**为什么这样写：** `Run, I suppose`（跑吧，大概吧）里 `I suppose`（我想）是英语里最典型的**把不确定说成随意的口头语**——**他在谈论自己可能不得不叛逃、也可能死掉的事，语气轻得像在想晚饭。** 末句的结构是全书一处精确的道德算术：`whether we keep it for ourselves or sell it on`（是留给自己还是卖出去）——`whether...or`（无论……还是）**把两种做法并列成同等的道德选项**，而两个选项里都有 `we`；紧跟的 `I hate the thought of`（我一想到就难受）**在语法上把责任推给了想象**——他说的是"我讨厌这个念头"，不是"我不会这么做"，**而他真正说的话在下一章。**
+**为什么这样写：** `Run, I suppose`（跑吧，大概吧）里 `I suppose`（我想）是英语里最典型的**把不确定说成随意的口头语**——**他在谈论自己可能不得不叛逃、也可能死掉的事，语气轻得像在想晚饭。** 末句的结构是全书一处精确的道德算术：`whether we keep it for ourselves or sell it on`（是留给自己还是卖出去）——`whether...or`（无论……还是）**把两种做法并列成同等的道德选项**，而两个选项里都有 `we`；紧跟的 `I hate the thought of`（我一想到就难受）**在语法上把责任推给了想象**——他说的是"我讨厌这个念头"，不是"我不会这么做"，**而他真正说的话在本章末尾的 `Right now.`。**
 
-**读者视角提示：** `I hate the thought of leaving your parents...`（我一想到把你父母撂下就难受）是这一章最关键的一句伏笔——**读者在下一章会知道，他确实这么做了。**
+**读者视角提示：** `I hate the thought of leaving your parents...`（我一想到把你父母撂下就难受）是这一章最关键的一句伏笔——**而下一章（Sophie 视角）并不给答案**——本书对这一刀的处理是留白。
 
 ---
 

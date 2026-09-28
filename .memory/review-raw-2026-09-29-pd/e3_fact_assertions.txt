@@ -1,0 +1,24 @@
+══ e 步：高发坑位逐条核（人物关系 / 身份 / 结局 / 叙事结构）
+
+Dietrich 是 Sophie 的哥哥                      全书   17 次 ｜ 首见于 chch08,ch69,ch22,ch62,ch17,ch37
+Fabienne 的父亲姓什么／Papa 是酒庄主                  全书  152 次 ｜ 首见于 chch06,ch08,ch30,ch40,ch39,ch69
+Rose Valland 是馆里的女工/记录者                    全书   41 次 ｜ 首见于 chch49,ch10,ch06,ch08,ch30,ch69
+Gerhardt Hausler 是馆里的德方联络人                 全书   86 次 ｜ 首见于 chch49,ch10,ch06,ch30,ch69,ch58
+Konrad Richter 是馆长之子                       全书  336 次 ｜ 首见于 chch49,ch10,ch30,ch40,ch19,ch58
+Louis 是 Dietrich 的朋友而非亲属                   全书   68 次 ｜ 首见于 chch29,ch50,ch59,ch40,ch22,ch38
+Sébastien 是庄园工人                            全书  230 次 ｜ 首见于 chch50,ch39,ch69,ch62,ch58,ch37
+Isaac 是 Cohens 一家的婴儿                       全书   35 次 ｜ 首见于 chch08,ch69,ch62,ch64,ch68,ch66
+Hugo 是狗                                    全书   40 次 ｜ 首见于 chch29,ch09,ch18,ch69,ch43,ch64
+Ernst Kirchner 是画家、Degenerate 艺术代表         全书   60 次 ｜ 首见于 chch29,ch49,ch08,ch50,ch30,ch39
+Willi 是 Kirchner 画中人物                      全书   13 次 ｜ 首见于 chch58,ch63,ch32
+Otto Klaebisch 是酒政使                        全书   42 次 ｜ 首见于 chch39,ch62,ch37,ch45,ch64,ch60
+de Vogüé 被通敌逮捕                             全书   23 次 ｜ 首见于 chch39,ch37,ch64,ch60,ch41,ch27
+Camille 是带孩子的女客                            全书    9 次 ｜ 首见于 chch69,ch62,ch68
+Room of Martyrs 是 Sophie 起的绰号              全书   45 次 ｜ 首见于 chch49,ch30,ch58,ch42,ch51,ch63
+Invisible 是 Fabienne 的画风                   全书    3 次 ｜ 首见于 chch06,ch69,ch57
+
+── 关键关系断言的原文取证
+  「My sister was」 Dietrich 提到「我姐姐」 → 首见 ch22: …llabus and replaced it with needlepoint. Why would a woman need mathematics when her role is to produce children for the Reich?” He shook his head, disgusted. “My sister was—she is—brilliant. She always was. But Nazi educators never saw the point of an academic woman.” He took another drag…
+  「my brother」 Sophie 提到兄长 → 首见 ch31: …ment. How could she, when the scent of Greta’s perfume was so intoxicating? “We’ll only see him from a distance, I bet. Besides, I’m more excited to visit with my brother.” “Dietrich,” Greta mumbled in agreement, the rocking of the train lulling her into a doze. Dietrich. Sophie hadn’t see…
+  「husband」 Fabienne 的丈夫 → 首见 ch29: …ning as he caught sight of Fabienne’s coworkers: Beatrice, shining buttons on a buffing wheel; Lea, fixing resin gemstones into silver casings. “You, without a husband to take care of you. Lea, who has a child to support. If I don’t keep this atelier open, how will you all make a living?” …
+  「married」 婚姻 → 首见 ch29: …as clear that this was a seasoned soldier, unlikely to find himself distracted by a pretty face. “Fabienne Brandt,” he said, putting a delicate stress on her married name. “And where are you going this morning, mademoiselle?” “Madame,” Fabienne corrected him. “I’m going to work. Atelier Du…
