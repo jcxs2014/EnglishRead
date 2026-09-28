@@ -4,7 +4,8 @@
 它替代的动作是「凭会话记忆重打金句」——Tomorrow, and Tomorrow 那批概述里
 5 条引语 0 命中的事故就是这么来的。
 
-用法：python3 scripts/attic/gen_overview.py <书目录>
+用法：python3 scripts/gen_overview.py <书目录> [模板目录]
+模板目录默认取 <书目录>/.overview_templates/，不存在时回退 scripts/overview_templates/。
 硬保证：
   1. 池只从 ch*.md 的 `> **原句 N:**` 块抽（这些已过 verify_quotes）
   2. 池中每条在写入前再 flat 比对一次 text/（错章即退出码 2）
@@ -92,7 +93,13 @@ def main() -> int:
     book = sys.argv[1]
     pool = build_pool(book)
     here = os.path.dirname(__file__)
-    tpl_dir = os.path.join(here, "overview_templates")
+    # 模板按书隔离：优先 <书目录>/.overview_templates/，否则用全局目录。
+    # ⚠️ 2026-09-28 补：模板原本只有全局一处，而模板内容是**书专属**的
+    # （占位符 {Q:ch:seq} 指向该书自己的章号）——两本书共用目录时，
+    # 为 A 书写的模板会被拿去给 B 书生成，于是两本书都被写坏。
+    tpl_dir = sys.argv[2] if len(sys.argv) > 2 else os.path.join(book, ".overview_templates")
+    if not os.path.isdir(tpl_dir):
+        tpl_dir = os.path.join(here, "overview_templates")
     tpls = sorted(glob.glob(os.path.join(tpl_dir, "ov_*.md.tpl")))
     if not tpls:                     # 空 glob 会让循环静默跳过并退出 0 —— 那是「假成功」
         raise SystemExit(f"❓ 未找到模板：{tpl_dir}/ov_*.md.tpl")
