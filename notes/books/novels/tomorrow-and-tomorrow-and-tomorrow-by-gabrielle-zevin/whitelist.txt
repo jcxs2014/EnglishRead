@@ -1,0 +1,2 @@
+# 作者姓豁免（check_entities 第5条：作者姓须逐本 whitelist）
+Zevin
