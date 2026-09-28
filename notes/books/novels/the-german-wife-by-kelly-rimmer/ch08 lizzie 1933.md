@@ -13,7 +13,7 @@ modified: "2026-09-28"
 
 **Tropes 兑现/反转**：为家庭孤注一掷的 desperate gamble；「门不当户不对」的阶级门槛——Judge Nagle 用「喜欢」包装否决；兄妹夜谈 gin 的仪式再现（ch06 的 bathtub gin 在本章成为倾诉道具）。
 
-**人物弧线**：Henry 白天还是 "just invented ice cream" 的阳光哥哥，夜里既扛下失恋又签下全家债务——heartache beneath the words；Lizzie 是唯一的清醒者，追问还款与抵押，却拦不住既成事实；Dad 被儿子越权，最终以「没有试图还钱」默认了这注豪赌。
+**人物弧线**：Henry 仍是 ch06 里那个 "just invented ice cream" 的阳光哥哥，夜里既扛下失恋又签下全家债务——heartache beneath the words；Lizzie 是唯一的清醒者，追问还款与抵押，却拦不住既成事实；Dad 被儿子越权，最终以「没有试图还钱」默认了这注豪赌。
 
 **叙事手法**：夜谈—次晨争吵—章末裁断的三段式；贷款细节（contract / deposit / account）全程写实；"they always end within a few years" 是用图书馆查证包装的赌徒信念；章末双可能句（worn down / did the right thing）把裁决权留给读者。
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **关键词**：barely worth the paper the deed is written on（连地契的纸都不值）
 
-**为什么这样写**：作者用地契的纸做度量衡，把土地贬值写成一行黑色幽默：土地曾是这个家庭的全部身份（ch06 的两千亩、Elsie 的橡树、母亲的纪念长椅），如今连承载它所有权的纸都更值钱。这句话也让 Judge Nagle 的「慷慨」更显冷峻——他借出的不是善意，是收购期权的定价。
+**为什么这样写**：作者用地契的纸做度量衡，把土地贬值写成一行黑色幽默：土地曾是这个家庭的全部身份（ch06 里 Dad 想扩到千亩的农场、Elsie 的橡树、母亲的纪念长椅），如今连承载它所有权的纸都更值钱。这句话也让 Judge Nagle 的「慷慨」更显冷峻——他借出的不是善意，是收购期权的定价。
 
 **读者视角提示**：对照 ch05 里 Henry 那句 "Men like that are a threat as long as they're breathing"——同一个人谈论「失去」的两种声口：一种愤怒，一种自嘲。自嘲是他消化疼痛的方式。
 

@@ -15,7 +15,7 @@ modified: "2026-09-28"
 
 **人物弧线**：Gisela 从羞怯少女到崩溃控诉者（一口气的不满陈述）；Jürgen 第一次遭遇「美国的规则不保护我们」；Claudia 的「first and last time」让敌意有了期限副词；Felix 钉在电视机前——他的英语课是屏幕给的。
 
-**叙事手法**：以孩子的哭诉开场（run-on 语流模拟喘不过气的委屈）；涂鸦以方位描写制造围观效果（mouth of the street—centered right in front of our house）；报警电话的单侧录音式呈现（只闻 Jürgen 一方）；两个「bitterly」收束成制度性冷遇的定音。
+**叙事手法**：以孩子的哭诉开场（run-on 语流模拟喘不过气的委屈）；涂鸦以方位描写制造围观效果（mouth of the street—centered right in front of our house）；报警电话的单侧录音式呈现（只闻 Jürgen 一方）；末段的 bitterly 一词收束成制度性冷遇的定音。
 
 ## 精读
 

@@ -49,7 +49,7 @@ modified: "2026-09-28"
 
 **关键词**：wishful thinking（一厢情愿）；all I have left（仅剩的东西）
 
-**为什么这样写**：Adele 的判词「wishful thinking is not a plan」句句在理，而 Sofie 的回嘴把破产者的最后一层遮羞布自己掀了——她不是看不出，是除了希望已经一无所有。snapped 与那句被烫出的水泡接在一起：恼羞成怒的代价立刻落在手上。作者让「守住老宅」的执念在这里第一次露出它的真相：不是乡愁，是不肯承认失败。
+**为什么这样写**：Adele 的判词「wishful thinking is not a plan」句句在理，而 Sofie 的回嘴把破产者的最后一层遮羞布自己掀了——她不是看不出，是除了希望已经一无所有。snapped 与那句被烫出的红点接在一起：恼羞成怒的代价立刻落在手上。作者让「守住老宅」的执念在这里第一次露出它的真相：不是乡愁，是不肯承认失败。
 
 **读者视角提示**：把这句与 Adele 的后半句（「对老宅的依恋不妨碍你改变」）对读——本书写「家」的两极：Adele 把家改造成活路，Sofie 把家守成负债。
 
@@ -67,13 +67,13 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "You know how whispers spread, especially in certain communities." Karl shrugged.
+> **原句 5:** "Some incidents were real—but the rest of what you speak of is mostly rumors." Karl shrugged. "You know how whispers spread, especially in certain communities."
 
-**中文理解**：「你知道流言是怎么传的，尤其是在某些社区里。」Karl 耸耸肩。
+**中文理解**：「有些事件是真的——可你说的其余部分，多半是流言。」Karl 耸了耸肩。「你知道流言是怎么传的，尤其是在某些社区里。」
 
-**关键词**：whispers spread（流言传播）；certain communities（某些社区）
+**关键词**：mostly rumors（多半是流言）；whispers spread（流言传播）；certain communities（某些社区）
 
-**为什么这样写**：SA 围堵犹太商铺、当街骚扰的报道，被 Karl 一句「谣言」抹平——而 certain communities 的措辞立刻把「谣言」的罪推回犹太人自己头上。这是 ch04 Lydia 刻板话的体制化升级：同样的偏见，如今带着国家权力的口吻。shrug 是全段最冷的注脚——暴行在他的身体语言里连一个皱眉都不配。
+**为什么这样写**：SA 围堵犹太商铺、当街骚扰的报道，被 Karl 用半句让步（有些事件是真的）加一句「多半是流言」整个吞掉——而 certain communities 的措辞立刻把「谣言」的罪推回犹太人自己头上。这是 ch04 Lydia 刻板话的体制化升级：同样的偏见，如今带着国家权力的口吻。中置的 Karl shrugged 是全段最冷的注脚——暴行在他的身体语言里连一个皱眉都不配。
 
 **读者视角提示**：注意 Sofie 当场的反应只是 frowning——她也已经开始「听得懂但接不住」。本书反复展示：加害的第一步常是旁人的语塞。
 
@@ -151,4 +151,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-这一章把三条岔路同时亮灯：Adele 说「变通才有活路」，Karl 说「某些社区的流言而已」，Jürgen 说「条约没写火箭」——夫妻在深夜达成的「拒绝」看似是全书第一次成功的抵抗，而章末一句「决定早已被替我们做好」，把灯光瞬间调成命运的颜色。
+这一章把三条岔路同时亮灯：Adele 说「变通才有活路」，Karl 说「某些社区的流言而已」，Jürgen 说「条约没写火箭」——夫妻在深夜达成的「拒绝」看似是一次成功的抵抗，而章末一句「决定早已被替我们做好」，把灯光瞬间调成命运的颜色。

@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：谣言回到当事人耳边时已经完成两级增压：从「有证据的军官」变成「可能进过」、从「参与强迫劳工」变成「管过营地」。some kind of 的含混恰是谣言的推进剂——它连罪名都不必说准。作者让 Sofie 的身体先反应（breath hitched、想逃），再让她的头脑接管（keep walking）——恐惧与表演在同一双腿上并行。
 
-**读者视角提示**：对照 ch23 的泄密链条——Lizzie 只说了「我知道一半」，经过两轮转述，半句变成了整座集中营。这是本书对 information decay 的完整实验记录。
+**读者视角提示**：对照 ch21 的泄密链条——Lizzie 只说了「我知道一半」，经过两轮转述，半句变成了整座集中营。这是本书对 information decay 的完整实验记录。
 
 ---
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **关键词**：ruthless, absolutely ruthless（狠角色，绝对无情）
 
-**为什么这样写**：Avril 对 Lizzie 的character assassination 不需要证据，只需要叠词——ruthless 的重复就是判决书的全部论证。作者在此给读者递上反向情报：Avril 的每一句赞美都与她的八卦同源，她转述 Lizzie 的恶，用的正是 Lizzie 式的断言语法。两个女人的战争，武器库是同一间。
+**为什么这样写**：Avril 对 Lizzie 的 character assassination 不需要证据，只需要叠词——ruthless 的重复就是判决书的全部论证。作者在此给读者递上反向情报：Avril 的每一句赞美都与她的八卦同源，她转述 Lizzie 的恶，用的正是 Lizzie 式的断言语法。两个女人的战争，武器库是同一间。
 
 **读者视角提示**：对照 ch21 Avril 的「bleeding heart」自嘲——她自认心软，却在转述里把 Lizzie 钉死。本书的标签都这样流通：说者无意，听者建档。
 

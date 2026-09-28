@@ -39,7 +39,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：Sofie 的「liberated」一词是全章的火种——十二年来她唯一敢说出口的真话，用英文式的政治术语包裹（liberated 而非「战败」）。作者让母亲在败局里看见自由：盟军不是敌人，是解放者。这句话与 ch37 的「draw a line」相呼应，是她的道德立场第一次越过耳语、在家里说出来。
 
-**读者视角提示**：对照 ch10 的「connects with something that has always been there」——Sofie 花十二年完成了 Mayim 当年的作业：认出语言里的谎言。代价是一句「你被洗脑了」的家族对峙。
+**读者视角提示**：对照 ch10 的「connecting with something that has always been there」——Sofie 花十二年完成了 Mayim 当年的作业：认出语言里的谎言。代价是一句「你被洗脑了」的家族对峙。
 
 ---
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **关键词**：The Gestapo will come for you（盖世太保会来抓你）；what you deserve（你该得的下场）
 
-**为什么这样写**：Laura 的告发威胁把家庭变成微型警察国家——女儿成了最年轻的举报人，母亲成了她负责监视的对象。作者让「deserve」这个词再次出现（对照 ch39 的 I should hang 与 ch30 的 Jedem das Seine）——对这个家庭而言，审判的语法已经内化到十三岁。Sophie 的回应（no more League meetings）是这个家对帝国的第一次正式退群。
+**为什么这样写**：Laura 的告发威胁把家庭变成微型警察国家——女儿成了最年轻的举报人，母亲成了她负责监视的对象。作者让「deserve」这个词再次出现（对照 ch39 的 I should hang 与同为 ch39 的 Jedem das Seine）——对这个家庭而言，审判的语法已经内化到十三岁。Sophie 的回应（no more League meetings）是这个家对帝国的第一次正式退群。
 
 **读者视角提示**：对照 ch22 的「Mrs. Muller says」——校园里的第一课，如今长成了要人命的信仰。Laura 与 Gisela 的对照（一个举报、一个说「别吵」）预告了这个家庭战后裂痕的形状。
 
@@ -97,7 +97,7 @@ modified: "2026-09-28"
 
 **关键词**：climb under the tanks（钻到坦克底下）；He didn't want to die（他不想死）
 
-**为什么这样写**：Hans 的口供是本书对「英雄叙事」的最终解构——把少年兵塞进坦克底盘，是国家的最后一道战术。他反复说「他不想死」（两次），这句最简单的话把 Lydia 的「he died a hero」碾成粉末。作者让幸存者以口吃般的重复递交真相：战争不需要英雄，只需要愿意钻车底的孩子。
+**为什么这样写**：Hans 的口供是本书对「英雄叙事」的最终解构——把少年兵塞进坦克底盘，是国家的最后一道战术。他反复说「他不想死」（两次），这句最简单的话把 Lydia 的「He is a hero」碾成粉末。作者让幸存者以口吃般的重复递交真相：战争不需要英雄，只需要愿意钻车底的孩子。
 
 **读者视角提示**：对照 ch34 的誓词（give up my life for him）——誓言的兑现方式是国家把儿子当作爆炸装置的火引。Georg 的一生，是一句誓言的完整执行记录。
 

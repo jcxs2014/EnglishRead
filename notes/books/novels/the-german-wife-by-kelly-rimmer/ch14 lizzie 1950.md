@@ -21,9 +21,9 @@ modified: "2026-09-28"
 
 > **原句 1:** "There's a dossier on each of them," he said heavily. "I've read them all, and they suggest that these men were geniuses and spent the entire war making scientific discoveries. Apparently their hands are clean."
 
-**中文理解**：「他们每人有一份档案，」他沉重地说。「我全读过了，档案说这些人都是天才，整个战争期间都在做科学发现。他们的手 Apparently 是干净的。」
+**中文理解**：「他们每人有一份档案，」他沉重地说。「我全读过了，档案说这些人都是天才，整个战争期间都在做科学发现。他们的手，据档案说，是干净的。」
 
-**关键词**：a dossier on each of them（每人一份档案）；Apparently their hands are clean（ Apparently 双手干净）
+**关键词**：a dossier on each of them（每人一份档案）；their hands are clean（双手干净）
 
 **为什么这样写**：官方叙事以档案的形式登场，而 heavily 与 apparently 两个词当场拆穿它——说的人不信，转述者也留了缝。hands are clean 的隐喻是本章的靶子：整章都在量这双手到底有多「干净」。作者让谎言以公文的口吻说出口，比任何反派的宣言都更瘆人。
 

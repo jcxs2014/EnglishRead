@@ -15,7 +15,7 @@ modified: "2026-09-28"
 
 **人物弧线**：Henry 的悲愤首次有声（voice broke with frustration and anguish——他恨的不只是「 Nazi」，是抢走他心智的那场战争）；Sofie 的求生本能与自辩本能同时上线；Jürgen 从「ignore it all」到「not remain quiet」的让步式转变；Felix 的童问（is that a bad man?）再次给大人的战争记账。
 
-**叙事手法**：门廊惊魂的单场景速写（cake → pillar → car）；identity 揭晓的延迟满足（embroidery 细节回收 ch01/ch19 的伏笔）；夫妻夜话的双线复盘（恐吓—监视—举报）；章末以 Jürgen 的宣言反转本章策略。
+**叙事手法**：门廊惊魂的单场景速写（cake → pillar → car）；identity 揭晓的延迟满足（embroidery 细节回收 ch01 与 ch25 的伏笔）；夫妻夜话的双线复盘（恐吓—监视—举报）；章末以 Jürgen 的宣言反转本章策略。
 
 ## 精读
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：several times in the one day（一天好几回）；He stares at me（他盯着我看）
 
-**为什么这样写**：恐吓的日常性在此被清点出来——Sofie 把几个月的不安第一次说成时间表（几次、什么时候、目光）。assumed 一词是自责的伏笔：她曾用最无害的解释覆盖最坏的直觉。作者让这句话成为本章的推理枢纽——它把 ch01/ch19/ch25 的 all staring moments 连成一条证据链。
+**为什么这样写**：恐吓的日常性在此被清点出来——Sofie 把几个月的不安第一次说成时间表（几次、什么时候、目光）。assumed 一词是自责的伏笔：她曾用最无害的解释覆盖最坏的直觉。作者让这句话成为本章的推理枢纽——它把 ch01/ch25 的 staring moments 连成一条证据链。
 
 **读者视角提示**：对照 ch25 她认出的那个 smirk——今天所有的「巧合」都合上了。本书的恐怖从不超出日常：它只是每天多走一趟你的街。
 

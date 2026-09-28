@@ -61,9 +61,9 @@ modified: "2026-09-28"
 
 **关键词**：an emotion I'd never felt before（从未有过的情绪）；started to feel lost（开始感到迷路）
 
-**为什么这样写**：lost 在本章是双关的实感：地理上认路很快（downtown back to front），身份上却找不到自己的坐标。破折号前的排比（waited / prayed / patient / persevered）写尽努力的姿态，破折号后只有两个词的坠落。作者把「迷路」从行为升格为情绪——一个有着幸存者宣言的人，第一次被生活问住了「你是谁」。
+**为什么这样写**：lost 在本章是双关的实感：地理上认路很快（downtown El Paso back to front），身份上却找不到自己的坐标。破折号前的排比（waited / prayed / patient / persevered）写尽努力的姿态，破折号后只有两个词的坠落。作者把「迷路」从行为升格为情绪——一个有着幸存者宣言的人，第一次被生活问住了「你是谁」。
 
-**读者视角提示**：把这一句与 ch20 章末的「decided where」连读——从迷路到定位，中间只隔着一个 Hilton 门廊的女佣。方向感可以借来，哪怕借自一张陌生人的倦脸。
+**读者视角提示**：把这一句与本章章末的「decided where」连读——从迷路到定位，中间只隔着一个 Hilton 门廊的女佣。方向感可以借来，哪怕借自一张陌生人的倦脸。
 
 ---
 

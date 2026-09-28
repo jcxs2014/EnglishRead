@@ -37,7 +37,7 @@ modified: "2026-09-28"
 
 **关键词**：didn't start itself（不会自己打响）；no doubt at all（毫无疑问）
 
-**为什么这样写**：Lizzie 的排比拒绝一切「复杂性」——三个 Nazis 开头的句子像三记钉锤，把历史的罪责钉死在集体名词上。这是她的道德确定性的最高音，也是本书最容易被挑战的断言：它不需要理解任何人，只需要点名。作者让它紧挨着 Calvin 的「background and context」出场——两种战后处理方式（审判 vs 理解）在同一间厨房里正面相撞。
+**为什么这样写**：Lizzie 的排比拒绝一切「复杂性」——以 Nazis 开头的排比句像钉锤，把历史的罪责钉死在集体名词上。这是她的道德确定性的最高音，也是本书最容易被挑战的断言：它不需要理解任何人，只需要点名。作者让它紧挨着 Calvin 的「background and context」出场——两种战后处理方式（审判 vs 理解）在同一间厨房里正面相撞。
 
 **读者视角提示**：对照 ch03 Sofie 的「没人能不做道德妥协」与 ch16 的「总有得选」——Lizzie 的钉锤是第三种声音。三把锤子，本书让你挨个握过。
 
@@ -70,6 +70,8 @@ modified: "2026-09-28"
 > **原句 5:** "I don't sleep well since the war. I was in bed, wide-awake. Heard a sound. Went to investigate. Saw Rhodes in the house. Chased him. A bit of a scuffle in the kitchen—pinned him against the fridge. Lizzie and Cal heard the noise and woke up just after Rhodes ran out. Probably out the back door. We never lock it."
 
 **中文理解**：我自开战以来就睡不好。我当时在床上，清醒得很。听见响动。起身查看。看见 Rhodes 在屋里。追了上去。厨房里扭打了一阵——把他按在冰箱上。Lizzie 和 Cal 听见动静醒来时，Rhodes 刚跑掉。多半走的后门。我们从来不锁后门。
+
+**关键词**：wide-awake（清醒得很）；Went to investigate（起身查看）；We never lock it（从来不锁后门）
 
 **为什么这样写**：Henry 的口供以电报体的短句连发——每句都符合逻辑，整段却是虚构。作者用这种「清醒的疯」制造本章最深的寒意：创伤叙事最大的危险不是混乱，而是它能把谎言组织得井井有条。verisimilitude（后半句的真：从军史、失眠、 Arguments）被用来给前半句的假作保。这就是创伤如何劫持一个人的可信度。
 

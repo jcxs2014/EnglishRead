@@ -59,7 +59,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不知道偷东西的人——不管是 Miller 太太的弟弟还是个生人——知不知道自己真正偷走了什么：那一叠薄薄的纸，是我关于 Adele、Georg、甚至 Laura、当然还有 Mayim 的最后的念想。
 
-**关键词**：what they'd really stolen（真正偷走的东西）；a simple stack of paper（一叠薄薄的纸）
+**关键词**：what they'd really stolen（真正偷走的东西）；the simple stack of paper（一叠薄薄的纸）
 
 **为什么这样写**：Sofie 给赃物重估价——窃贼眼中的「纸张」，是她与其所爱者之间仅存的实体连接。破折号里的 or a stranger 是理性的犹豫，也是无法指认的悲哀。作者把「记忆的物化」写透：当爱被装进一叠纸，偷纸就是偷人。Mayim 的名字放在句尾的 of course 里——理所当然，所以最痛。
 

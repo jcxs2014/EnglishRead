@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：拒绝工作两天后，Karl 携装架的旧火箭模型不请自来——「我来帮你」开场，「其他人未必理解」收尾；次日 Jürgen 被大学解雇，隔天银行催贷；全家会议上 Adele 与 Mayim 各让一步也堵不住缺口——「说不」不再是选项，一周之内，Jürgen 坐进了 Kummersdorf 陆军设施的新办公室。
+**一句话概括**：拒信送出几天后，Karl 携装架的旧火箭模型不请自来——「我来帮你」开场，「其他人未必理解」收尾；次日 Jürgen 被大学解雇，隔天银行催贷；全家会议上 Adele 与 Mayim 各让一步也堵不住缺口——「说不」不再是选项，一周之内，Jürgen 坐进了 Kummersdorf 陆军设施的新办公室。
 
 **情感弧线位置**：Sofie 回溯线的「绞索收紧章」——ch13 预告的「被代做的决定」在本章逐环兑现：友情的糖衣、职业的绞索、房贷的账单，三天里配齐；本章是全书「德国线」的因果枢纽。
 
@@ -49,7 +49,7 @@ modified: "2026-09-28"
 
 **关键词**：guarantee（保证）；never be weaponized（永远不会被武器化）
 
-**为什么这样写**：Jürgen 的全部道德立场压缩成一个问句，而它注定无人能答——Karl 的回应（条约禁止重整军备）恰恰证明他听懂了却选择装傻。作者让「保证」成为本章的关键词：政权给不出保证，朋友给不出保证，能给出的只有 salary 与 commensurate 的待遇。直白的提问与滑开的回答之间，那段空隙就是 Jürgen 要掉进去的深渊。
+**为什么这样写**：Jürgen 的全部道德立场压缩成一个问句，而它注定无人能答——Karl 的回应（条约禁止重整军备）恰恰证明他听懂了却选择装傻。作者让「保证」成为本章的关键词：政权给不出保证，朋友给不出保证，能给出的只有薪水与相称的待遇。直白的提问与滑开的回答之间，那段空隙就是 Jürgen 要掉进去的深渊。
 
 **读者视角提示**：记住这个无人兑现的「保证」——本书后半段，它会在 Jürgen 的每一个失眠夜里收回利息。
 
@@ -58,6 +58,8 @@ modified: "2026-09-28"
 > **原句 4:** "I'm saying it as plainly as I can. The goal is space," he said flatly. "This isn't a job developing rockets for the Nazis—certainly not a job developing weapons for Hitler. It's just like taking a job as a town planner for the City of Berlin, or as secretary for the Department of Health—you'll be working for the people of Germany, not whomever the current government happens to be."
 
 **中文理解**：「我已经说得再明白不过了。目标是太空，」他平平地说。「这不是为纳粹造火箭的工作——更不是为希特勒造武器的工作。这就像去柏林市政府做城市规划，或者去卫生部门做秘书——你是为德国人民工作，不是为碰巧在台的哪个政府。」
+
+**关键词**：The goal is space（目标是太空）；a town planner（市政岗位类比）；whomever the current government（台上是谁就为谁）
 
 **为什么这样写**：Karl 的漂白话术在此火力全开：把军备项目类比市政岗位，把政权偷换成人民。flatly 与整段排比的反差是关键——他把一个谎言说得越平，越显出体制说谎的日常化。作者借这段话完成对「服从者的自我说服」的完整采样：每一个德国普通人后来都用同样的句式为自己作证。
 
