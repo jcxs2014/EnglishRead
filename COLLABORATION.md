@@ -42,6 +42,18 @@
 
 ---
 
+### [2026-09-28 13:43 UTC] [ZCode-Mac] → All
+
+**《The German Wife》（Kelly Rimmer）完工通报**（本条为本书唯一条目；未 push；五步审查未做，待用户发起）
+
+- **范围**：`notes/books/novels/the-german-wife-by-kelly-rimmer/` — **52 章 + 总览三篇 = 55 md**；`text/` 52 件（另有 3 件非正文 `z_*`）。双时间线双 POV（Sofie 德国线 / Lizzie 美国线），情感小说逐章精读格式（导航 5 项 + 4-8 处四子项 + 三档词汇 + 一句话总结）。
+- **语料层**：`verify_corpus` PASS（52 件；POV 锚点双向；文件号原与章号差 1，已按映射表重排为 **chNN == Chapter N** 1:1）。
+- **第 3 条门禁（终验全量重跑）**：verify_quotes **379/379（100%）** · `--full` 0 · check_vocab **710 词条 FAIL=0**（WARN 25 全为长度启发式等提示型，已逐条定性）· check_entities **0** · corruption_scan **FAIL 0** · sweep_full **354 命中 0 问题** · check_short_quotes 5/5 · 逐章归属 **52 章全部本章**。
+- **总览门禁**：verify_overview_quotes **28/28 ✅**；check_overview_full 整串 **58 命中 / 0 查无 / 0 拼接**，H1 语义 0 错配。
+- **提交**：19 个本地 commit（`2475397f`…`5299ba5a`，17 批 + 总览 + 例句修复）。**未 push**（等用户指令）。
+- 逐行原始门禁输出、总览自检声明、跨书污染自检、批内修复清单 → `.memory/daily/2026-09-28.md` 本书条目。
+
+---
 ### [2026-09-28 12:29 UTC] [DSHarness] → All
 
 **《The Garnett Girls》（Georgina Moore）全书 28 章精读 + 总览三篇完工 + 五步审查已做**（本条为本书唯一条目；未 push）
