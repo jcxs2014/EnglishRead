@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：William 与 Lois Bubar 互认姐妹；Margaret（Bob 的妻子，一位一神论牧师）走入 Lucy 的生活；William 在深夜向 Lucy 坦白自己独自做了前列腺切除手术；William 和 Lucy 开车去康涅狄格州接回了 Chrissy 和 Becka——但"第二次救援"依然以 Melinda 染疫收场。
+**一句话概括**：William 与 Lois Bubar 互认姐妹；Margaret（Bob 的妻子，一位一神论牧师）走入 Lucy 的生活；William 在深夜向 Lucy 坦白自己独自做了前列腺切除手术；William 和 Lucy 开车去康涅狄格州接回了 Chrissy 和 Becka——但"第二次救援"依然以 Melvin 染疫收场。
 
 **情感弧线位置**：全章情感剧烈震荡——从 Lois 邮件的温情（William 终于与过去和解）到前列腺癌的晴天霹雳，再到 Connecticut 之旅的双重感受（重逢的喜悦与对疫情的恐惧）。
 
