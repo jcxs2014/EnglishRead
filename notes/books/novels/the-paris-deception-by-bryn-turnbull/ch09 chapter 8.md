@@ -3,13 +3,13 @@
 modified: "2026-09-28"
 ---
 
-# 09. Chapter 8（1940 年 11 月：赛璐珞工坊）
+# 09. Chapter 8（1940 年 11 月：电木工坊）
 
 ## 本章导航
 
-- **一句话概括**：1940 年 11 月，Fabienne 应低斯坦因之邀走进巴黎圣但尼街上一间犹太珠宝作坊，看赛璐珞在打磨机上变成戒指与手镯，并听这位老板用一整套商业史解释为什么德国人没有关掉他；她试出镯子是温的、有颜色深度，不像工业品，于是说了句"这是艺术"，再问出全章最要紧的一句——"那德国人为什么不关掉这里？"
+- **一句话概括**：1940 年 11 月，Fabienne 应低斯坦因之邀走进巴黎圣但尼街上一间犹太珠宝作坊，看电木在打磨机上变成戒指与手镯，并听这位老板用一整套商业史解释为什么德国人没有关掉他；她试出镯子是温的、有颜色深度，不像工业品，于是说了句"这是艺术"，再问出全章最要紧的一句——"那德国人为什么不关掉这里？"
 - **情感弧线位置**：Fabienne 线的**第二次自欺开始**——上一章她已经承认"德国人赢定了"，这一章她却意外地走进了一间仍在营业、仍在为法国贵妇制作首饰的犹太作坊，并且**她自己也给出了体面的理由**（这是艺术）。
-- **Tropes 兑现/反转**：**兑现**——"占领下的奢侈品行业苟活"这一历史细节；**反转**——作者让这家作坊的开张理由是**德国军官的太太想戴漂亮首饰**，把"继续营业"的原因写在最体面的那一方（法国贵妇）头上，而实际推手是占领者；Lev 的那句"我们捂住鼻子"是全章唯一一次自认。
+- **Tropes 兑现/反转**：**兑现**——"占领下的奢侈品行业苟活"这一历史细节；**反转**——作者让这家作坊的开张理由是**德国军官的太太想戴漂亮首饰**，把"继续营业"的原因写在占领者头上——而他们要的是**自己太太的首饰**；Lev 的那句"我们捂住鼻子"是全章唯一一次自认。
 - **人物弧线**：Fabienne 从"替 Dietrich 恨这门生意"走到**摸着一只温热的手镯说出"这是艺术"**——**她的职业病比她的立场先开口**；结尾她提出那个真问题（为什么不关掉），而老板用一个名字（Lucien Lelong）就把它化解了，她没有再追问。
 - **叙事手法**：第三人称限知（Fabienne）；全章是一场**导览**，镜头跟着她从展厅走到楼梯口、走到工坊、走到办公室；作者用**行家的赞美**（Chanel 与 Schiaparelli 的香水嗅觉、金银匠的转型史）把 Fabienne 的注意力从"德国人"身上移开，末句才把话题拉回来。
 
@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 整个句子是**两段式**的坦白：前半句（`wouldn't dare admit`）用一个双重否定把话说到一半就停住，后半句（`but we do have them to thank`）用 `do` 强调把话说完——**先摆姿态，再交底**，这是行家讲话的典型节奏。`resinoid`（树脂类）这个词本身是化工术语，作者让它从时装圈的人嘴里说出来，落地就变成了**外行在描述内行的行话**。`The product of the future`（未来的产品）是一个**全称判断**：不是这一件好，是这一类好——而把一个物件判成"未来"，等于取消了关于它的一切争论。
 
-**读者视角提示：** "未来的产品"是本节的核心句；把赛璐珞说成"未来"的人，全章里没有一个人是犹太人。
+**读者视角提示：** "未来的产品"是本节的核心句；把电木说成"未来"的人，全章里没有一个人是犹太人。
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** Our challenge lay in finding a product / simple, beautiful and durable / to appeal to even the most discerning of tastes
 
-**为什么这样写：** 三个形容词（`simple, beautiful and durable`）是**给一件工业合成品写的工艺标准**——作者让 Jewish 珠宝商在描述赛璐珞时使用与描述宝石完全相同的词汇，于是"人造"与"天然"在这一句里**没有任何词面差别**。`even the most discerning of tastes`（甚至最挑剔的品味）里的 `even` 把门槛抬到不可企及的高度，而 `lay in finding`（在于找到）这个过去时结构让整段话停在**已经解决之前的那一步**——作者把"解决了"这件事藏在时间状语里，读者读到的是当时的艰难。
+**为什么这样写：** 三个形容词（`simple, beautiful and durable`）是**给一件工业合成品写的工艺标准**——作者让 Jewish 珠宝商在描述电木时使用与描述宝石完全相同的词汇，于是"人造"与"天然"在这一句里**没有任何词面差别**。`even the most discerning of tastes`（甚至最挑剔的品味）里的 `even` 把门槛抬到不可企及的高度，而 `lay in finding`（在于找到）这个过去时结构让整段话停在**已经解决之前的那一步**——作者把"解决了"这件事藏在时间状语里，读者读到的是当时的艰难。
 
 **读者视角提示：** 三个形容词正是后文 Sophie 评价一幅画的三个形容词（隐形、可撤销、不损伤）；两门手艺在这里被作者悄悄并置。
 
@@ -107,7 +107,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 前半句用一串名词（`a compelling argument`／`in favor of`／`keeping the ateliers open`）把理由抽象成一场行业公关——作者让一个犹太老板像写商业简报一样提到另一个犹太同行的名字（`Lucien Lelong`，法国高级时装公会会长）。后半句才露出真话，而 `hold our noses`（捂住鼻子）是一个**具体到荒谬的姿势**：明知臭味存在而只捂鼻子。`at the thought of`（一想到）把主语从"作坊主"换成了"作坊主们"，集体化的主语让这句自认变得更容易出口。省略号在引号里收尾，把话说一半就停住。
 
-**读者视角提示：** "捂住鼻子"这个动作与上一章 Fabienne 对纳粹礼的身体反应（`twin plaits`／`twisting tight`）是同一套身体语言——**这一节里唯一诚实的一句话是关于身体的。**
+**读者视角提示：** "捂住鼻子"这个动作与**三章前 Sophie** 在 Bohn 实验室里对纳粹礼的身体反应（`twin plaits`／`twisting tight`，出自 Chapter 5）是同一套身体语言——**这一节里唯一诚实的一句话是关于身体的。**
 
 ## 本章词汇
 
@@ -136,7 +136,7 @@ modified: "2026-09-28"
 | ornamentation | 装饰（物） | The artistry, too, went beyond natural ornamentation, its pliable nature allowing Myriam to carve a striking geometric design into the multicolored bracelet. |
 | brooches | 胸针 | Buttons, brooches, bracelets, pins, hair ornaments... |
 | fused | 熔合；粘合 | Myriam offered Fabienne another bauble, a bracelet made of thin layers of color, banded and fused together. |
-| Bakelite | 赛璐珞（早期酚醛树脂塑料） | “Of course, the possibilities for Bakelite are endless. |
+| Bakelite | 电木（早期酚醛树脂塑料） | “Of course, the possibilities for Bakelite are endless. |
 | utilitarian | 实用的；只讲功用的 | The showroom, with its elegant glass cases and sumptuous furnishings, was clearly a space meant for impressing the atelier’s clientele, while the workroom below was clean and utilitarian, long tables occupied by women bent over bangles and buttons, sanding down the smooth edges of a bracelet or soldering earring backs. |
 
 ### ⭐ 基础

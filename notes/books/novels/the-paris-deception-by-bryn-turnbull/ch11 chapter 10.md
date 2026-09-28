@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：1940 年 11 月，Fabienne 冒雨回家，在莫里斯圆柱上撕下一张《法国与犹太人》的宣传画，回到阁楼却发现 Lotte 煮了真咖啡；她替 Lotte 拉晚装拉链时摸出了四个月的身孕，而 Lotte 说对方是个"记账员"，说会离婚，说想要这个孩子——于是 Fabienne 想起自己那个在 Dietrich 死后"像被烧断的血管"一样掉了的孩子。
 - **情感弧线位置**：Fabienne 线的**谷底第一次被具体化**——上一章的谷底是抽象的（她算不清账），这一章谷底是一件可以摸的东西：别人的肚子，和自己那个没活下来的孩子。
 - **Tropes 兑现/反转**：**兑现**——"被占领者之间的私人生计比占领本身更逼人"；**反转**——作者让全章最锋利的一句来自 Fabienne 自己，而不是任何德国人：**"天真能遮住各式各样的罪"**（`naïveté can cover all manner of sins`）；而紧接着她的观察是全城人在配给制下都瘦了，只有 Lotte 胖了五磅。
-- **人物弧线**：Fabienne 从"至少磨刀石是暖的"（把劳动说成慰藉）走到"至少这份工作打开了另一种形式的艺术可能"（她第一次承认自己从赛璐珞里得到了东西），再走到拉链卡住那一刻的一闪念（`Dietrich's hands on her belly`）——**她推开了它，然后算了一笔账：留着 Lotte 会毁掉她刚挣来的一切。**
+- **人物弧线**：Fabienne 从"至少磨刀石是暖的"（把劳动说成慰藉）走到"至少这份工作打开了另一种形式的艺术可能"（她第一次承认自己从电木里得到了东西），再走到拉链卡住那一刻的一闪念（`Dietrich's hands on her belly`）——**她推开了它，然后算了一笔账：留着 Lotte 会毁掉她刚挣来的一切。**
 - **叙事手法**：第三人称限知（Fabienne）；全章围绕**一只拉链**组织——先由 Lotte 请她帮忙拉开后背，再由拉链卡在半路引出怀孕，最后 Fabienne 把拉链完全拉上，**三段动作同一个道具**；回忆（Dietrich 的孩子）被放在拉链完成之后，让抒情不打断冲突。
 
 ## 精读
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** If she couldn’t bring herself to paint, at least her work at the atelier / opened the possibility of art in another form / set her mind ablaze with the possibilities of three-dimensional creation
 
-**为什么这样写：** 这是一个 **if ... at least ...** 的句式：前半句承认失败（`couldn't bring herself to paint`——`bring herself` 这个反身结构把"不画"写成她对自己的强制），后半句用一个 `at least` 把失败兑换成新的可能。真正的爆点在结尾——`set her mind ablaze`（点燃她的心）与 `possibilities`（可能性）在同一句里出现两次：**作者用同一个名词的复数把"可能"写成一种燃料。** 而 `three-dimensional creation`（立体创作）这三个词把她的抱负从平面抬到空间——**这是她第一次把赛璐珞当成一种艺术，而不只是活。**
+**为什么这样写：** 这是一个 **if ... at least ...** 的句式：前半句承认失败（`couldn't bring herself to paint`——`bring herself` 这个反身结构把"不画"写成她对自己的强制），后半句用一个 `at least` 把失败兑换成新的可能。真正的爆点在结尾——`set her mind ablaze`（点燃她的心）与 `possibilities`（可能性）在同一句里出现两次：**作者用同一个名词的复数把"可能"写成一种燃料。** 而 `three-dimensional creation`（立体创作）这三个词把她的抱负从平面抬到空间——**这是她第一次把电木当成一种艺术，而不只是活。**
 
 **读者视角提示：** "另一种形式的艺术"是 Fabienne 从"陪酒"转向"创作"的转折点；后文她伪造作品的能力，正是从这团"立体创作"的火里长出来的。
 

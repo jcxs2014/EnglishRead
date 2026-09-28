@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词：** a tear in the corner of a middling Giordano / a puncture wound made by one of Bohn’s men / as they pulled the canvas from the Weil-Picard collection
 
-**为什么这样写：** 破折号后面那半句把一次意外**归责到具体的人**：`a puncture wound made by one of Bohn's men`（由 Bohn 的一个手下造成的穿刺伤）——医疗词（`puncture wound`）与施动者（`one of Bohn's men`）被塞进同一个名词短语，于是这个洞不再是被盗的副产品，而是**有人按出来的**。`middling`（平庸的）这个形容词是本章唯一一次她贬低手上的东西，值得注意：她**用作品的档次来称量损伤的荒谬**。而 `pulled`（拽）这个动词与后文 Hausler 那句"挖出来真费劲"（`rooting them out`）形成对照——**德国人觉得难，Sophie 看见的是画的痛。**
+**为什么这样写：** 破折号后面那半句把一次意外**归责到具体的人**：`a puncture wound made by one of Bohn's men`（由 Bohn 的一个手下造成的穿刺伤）——医疗词（`puncture wound`）与施动者（`one of Bohn's men`）被塞进同一个名词短语，于是这个洞不再是被盗的副产品，而是**有人按出来的**。`middling`（平庸的）这个形容词是本章唯一一次她贬低手上的东西，值得注意：她**用作品的档次来称量损伤的荒谬**。而 `pulled`（拽）这个动词与**前文 Bohn** 那句"挖出来真费劲"（`rooting them out`，见 ch10）形成对照——**德国人觉得难，Sophie 看见的是画的痛。**
 
 **读者视角提示：** 全章所有的技术细节都是从这一个洞开始的；记住这幅画，二流的、无名的、只值一个补丁。
 

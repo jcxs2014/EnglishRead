@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** she committed each piece of information to memory / in the hopes that they would be a starting point for recovering the paintings after the war
 
-**为什么这样写：** 一句话里有两个"记"：`recorded`（登记给他看）与 `committed to memory`（记进自己脑子）——**作者用这对动词把一份工作拆成两份账，而两份账的读者不同：一份给占领者，一份给战后。** 末句 `in the hopes that`（只盼）这个短语是英语里最谦卑的写法：**她不敢说自己会成功，只说这是"一个起点"。**
+**为什么这样写：** 一句话里有两个"记"：`recorded`（登记给他看）与 `she committed each piece of information to memory`（她把每一条信息都记进脑子）——**作者用这对动词把一份工作拆成两份账，而两份账的读者不同：一份给占领者，一份给战后。** 末句 `in the hopes that`（只盼）这个短语是英语里最谦卑的写法：**她不敢说自己会成功，只说这是"一个起点"。**
 
 **读者视角提示：** 本章最能说明她不是逃兵也不是烈士的，是**她记账的时刻写得最平静**；而这正是作者要的道德复杂度。
 

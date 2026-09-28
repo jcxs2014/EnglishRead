@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** it won’t stay that way—not for long, God willing / Can you promise me / our actions will fall on the right side of history, when all is said and done
 
-**为什么这样写：** 她把对方的句子**原样借回来再改两个词**（`at present` 对 `now`；`might` 对 `will not`），**这是最省力的反驳：不辩内容，只改时态。** 破折号后的 `not for long` 用重复的 `not`（不会、不会太久）把警告说成两级；而 `God willing`（上帝愿意的话）这三个词是全句最凶险的补充——**它把一个政治判断交给了神学**，于是她既说了最悲观的话，又把责任推给了一个无法质询的对象。末句的 `when all is said and done`（等一切说完了）里藏着一个双重否定：**"都说完"的那一刻，账才算清。**
+**为什么这样写：** 她把对方的句子**原样借回来，只加一个时间限定**（`at least`…`at present`）并把断言改成虚拟式（`is` 改 `might`），**这是最省力的反驳：不辩内容，只改确定性。** 破折号后的 `not for long` 用重复的 `not`（不会、不会太久）把警告说成两级；而 `God willing`（上帝愿意的话）这三个词是全句最凶险的补充——**它把一个政治判断交给了神学**，于是她既说了最悲观的话，又把责任推给了一个无法质询的对象。末句的 `when all is said and done`（等一切说完了）**不含任何否定**——真正的双重否定在旁边那句 `won't stay that way—not for long`（不会一直这样——不会太久）：**“都说完”的那一刻，账才算清。**
 
 **读者视角提示：** 她要的不是"现在别被抓"，而是"将来能站住"；这个区别正是本书全部的赌注。
 

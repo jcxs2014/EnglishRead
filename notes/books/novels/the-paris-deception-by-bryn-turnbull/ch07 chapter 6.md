@@ -7,9 +7,9 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1940 年 10 月，Fabienne 从一场陪酒的夜归家，在楼梯上撞见不肯离开的犹太珠宝商遗孀 Lowenstein 太太，对方摘下一只赛璐珞手镯劝她改行；她坐在从前 Rosenberg 画廊的旧址（如今挂着纳粹"犹太人问题研究所"的牌子）对面流亡者纪念碑，遇见 Sophie——两人三年没说话，第一句客套之后，Fabienne 跟着两名士兵走进了让·德·波姆博物馆。
+- **一句话概括**：1940 年 10 月，Fabienne 从一场陪酒的夜归家，在楼梯上撞见不肯离开的犹太珠宝商遗孀 Lowenstein 太太，对方摘下一只电木手镯劝她改行；她坐在从前 Rosenberg 画廊的旧址（如今挂着纳粹"犹太人问题研究所"的牌子）对面流亡者纪念碑，遇见 Sophie——两人三年没说话，第一句客套之后，Fabienne 跟着两名士兵走进了让·德·波姆博物馆。
 - **情感弧线位置**：**双女主线在此第一次交汇**，而且交会在错误的一侧：Fabienne 是来找答案的（去博物馆），Sophie 是来隐瞒的（被母亲大人派来清点赃物）——**两人走向同一扇门，动机完全相反。**
-- **Tropes 兑现/反转**：**兑现**——失去丈夫的两位女性重逢；**反转**——作者让重逢发生在一个**赛璐珞手镯**的交接动作上，并把_opts_ Lowenstein 太太那句"我们不想让他们以为我们害怕"写成整章最贵的坚持；而结尾那句被打断的 `She can't possibly—`（她不可能……）把悬念留成一记未完成的惊呼。
+- **Tropes 兑现/反转**：**兑现**——两位女性重逢，而她们失去的竟是**同一个人**（Fabienne 的丈夫＝Sophie 的兄长）；**反转**——作者让重逢发生在一个**电木手镯**的交接动作上，并把 Lowenstein 太太那句"我们不想让他们以为我们害怕"写成整章最贵的坚持；而结尾那句被打断的 `She can't possibly—`（她不可能……）把悬念留成一记未完成的惊呼。
 - **人物弧线**：Fabienne 从"我只需要撑过这一周"（配给簿、牛肉丁）走到"我是否还算一个画家"（`She'd been an artist then—was she an artist still?`），再走到面对 Sophie 时那句没说出口的自责（`Fabienne’s stomach dropped with the certainty that it had been her encouragement`）；**她到这一章末尾仍然认为死掉的人是她害的**——这是全书她最大的未解之结。
 - **叙事手法**：第三人称限知（Fabienne）；两次"回看"（画廊开幕那晚／丈夫的葬礼那夜）都用**同一个句式**插入现在时流（`If she closed her eyes`／`She blinked, knowing that`）；场景走位是硬切的三段式：公寓楼梯 → 街头旧址 → 协和广场地铁口。
 
@@ -29,11 +29,11 @@ modified: "2026-09-28"
 
 > **原句 2:** “Bakelite,” Madame Lowenstein explained, a spark of pride shading her words. “A manufactured product. Lev says it’s the future of fashion.”
 
-**中文理解：** "赛璐珞，"Lowenstein 太太解释道，语气里带着一丝骄傲的光。"一种工业制品。Lev 说它是时尚的 future。"
+**中文理解：** "电木，"Lowenstein 太太解释道，语气里带着一丝骄傲的光。"一种工业制品。Lev 说它是时尚的 future。"
 
 **关键词：** Bakelite / a spark of pride shading her words / Lev says it’s the future of fashion
 
-**为什么这样写：** `a spark of pride shading her words`（骄傲的火花给她的词句蒙上一层光）是一个**分词短语作伴随状语**，`shading` 这个动词把光说成一层薄薄的覆盖，而不是从里往外发——骄傲是被压在话底下的，所以读者听到的是平静的语调。真正的反讽在 `A manufactured product`（一种工业制品）：这句话是一记双重误判——**赛璐珞是人工合成材料，纳粹正在用"工业制品"的名义推行"真正的德国艺术"**，而 Lowenstein 太太把它当成了时髦。一句家常的推销，在她听来是文明的证明，在读者听来是清算的开始。
+**为什么这样写：** `a spark of pride shading her words`（骄傲的火花给她的词句蒙上一层光）是一个**分词短语作伴随状语**，`shading` 这个动词把光说成一层薄薄的覆盖，而不是从里往外发——骄傲是被压在话底下的，所以读者听到的是平静的语调。真正的反讽在 `A manufactured product`（一种工业制品）：这句话是一记双重误判——**电木是人工合成材料，纳粹正在用"工业制品"的名义推行"真正的德国艺术"**，而 Lowenstein 太太把它当成了时髦。一句家常的推销，在她听来是文明的证明，在读者听来是清算的开始。
 
 **读者视角提示：** 这只手镯是全章最锋利的道具：它既是纳粹时代"人造物"的样板，又是那位犹太珠宝商夫人最后的体面；而 Fabienne 把它推了回去。
 
@@ -130,7 +130,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Bakelite | 赛璐珞（早期合成塑料） | “Bakelite,” Madame Lowenstein explained, a spark of pride shading her words. |
+| Bakelite | 电木（早期合成塑料） | “Bakelite,” Madame Lowenstein explained, a spark of pride shading her words. |
 | reprisals | 报复；惩处 | Now that the Germans had arrived, it was only a matter of time before similar reprisals would happen here. |
 | undertone | 低声；压低的语气 | “I know things have been difficult for you since your husband’s passing,” she continued in an undertone, “but you needn’t resort to this. |
 | attempted | 尝试；试图 | She’d painted him a thousand times, but even still it felt as though her husband was fading from her memory. Now every painting she attempted seemed to wither. |
@@ -155,4 +155,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-这一章让两个被同一场战争推开的女人在纳粹"犹太人问题研究所"的旧址门口重逢，她手里握着一只被推回去的赛璐珞手镯，他心里压着一具自己认领的尸首——她们互相问的第一句话都是"你还在这里"，而这一句之后她跟进了那扇门，因为她要找的那笔账不在门里，在那个没有下船的人身上。
+这一章让两个被同一场战争推开的女人在**协和广场地铁口**重逢——电木手镯那一幕早已在**犹太珠宝商的楼梯上**结束，Fabienne 把它推回给 Lowenstein 太太，Lowenstein 太太重新戴回自己手腕，Fabienne 手里什么都没有；Sophie 心里压着的是街上那具**她与哥哥一起认出的**尸首的记忆；**只有 Sophie 说了那句「你还在这里」**（Fabienne 说的是「我以为你走了」与「我以为游戏与艺术馆关门了」）；而 Fabienne 跟着士兵走到博物馆门口就停下，**没有进门**——因为她要找的那笔账不在门里，在那个没有下船的人身上。

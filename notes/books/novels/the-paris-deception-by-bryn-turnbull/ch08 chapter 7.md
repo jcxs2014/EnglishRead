@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1940 年 10 月，Sophie 被 Rose 支去清点全部"无国籍"藏品，在 ERR 的库存簿上读到 Inventar（犹太财产）一栏里 Kahnweiler、Rothschild、Paul Rosenberg 的姓氏；她一边给戈雅和基希纳编目，一边被脑中闪回的 1933–1938 年斯图加特家庭餐桌反复打断，最后她把两幅画送进自己将要用的储藏室，而 Rose 丢下一句"别让我有理由相信我信错了人"。
+- **一句话概括**：1940 年 10 月，Sophie 被 Rose 支去清点全部"无国籍"藏品，在 ERR 的库存簿上读到 Inventar（清单）一栏里 Kahnweiler、Rothschild、Paul Rosenberg 的姓氏；她一边给梵高和基希纳编目，一边被脑中闪回的 1933 年与"六个月后"的斯图加特家庭餐桌反复打断，最后她把两幅画送进自己将要用的储藏室，而 Rose 丢下一句"别让我有理由相信我信错了人"。
 - **情感弧线位置**：**伪装线的第一次真正失守**——序章是"我为后世作证"，上一章是"我不说德语"，这一章是**她亲手把画登记成了别人的东西**；而把这件事做成的不是 Bohn，不是士兵，是一个始终对她温和的 Rose。
 - **Tropes 兑现/反转**：**兑现**——"被迫为掠夺做文书"这一占领题材最典型的道德折磨；**反转**——作者用一条并排的句式把两家人的政治立场钉成对称（"一个建立在仇恨与谎言上的标准"／"一个建立在为孩子提供更好生活上的标准"），让读者无法把 Mamma 与 Bohn 简单分到两边——**而 Sophie 当时只是这面镜子里的孩子。**
 - **人物弧线**：Sophie 从"这只是我分内的活"（她甚至担心自己不擅长做记录）到"这不该属于任何人"（`It doesn't belong to him. It doesn't belong to us.`）再到被 Rose 用"我信过你"压住；她的每一次抗议都用了**复数归属**的句式，而 Rose 的回应只有一句完成时的判决：`Not anymore.`（不再是了。）
@@ -29,11 +29,11 @@ modified: "2026-09-28"
 
 > **原句 2:** Stateless paintings; abandoned collections. There was nothing “stateless” about the collection of Alphonse de Rothschild; there was nothing “abandoned” about Daniel-Henry Kahnweiler’s expansive gallery of modernist art.
 
-**中文理解：** 无国籍的画；被遗弃的收藏。Alphonse de Rothschild 的收藏里没有任何东西是"无国籍"的；Daniel-Henry Kahnweiler 那家 expansive（此词也可作" expansive 的、铺张的"讲）现代主义画廊里也没有任何东西是"被遗弃"的。
+**中文理解：** 无国籍的画；被遗弃的收藏。Alphonse de Rothschild 的收藏里没有任何东西是"无国籍"的；Daniel-Henry Kahnweiler 那家 expansive（铺张的、阔气的）现代主义画廊里也没有任何东西是"被遗弃"的。
 
 **关键词：** Stateless paintings; abandoned collections / There was nothing “stateless” about the collection of Alphonse de Rothschild / there was nothing “abandoned” about Daniel-Henry Kahnweiler’s expansive gallery of modernist art
 
-**为什么这样写：** 第一行是**两个无谓语的碎片**，用分号并列，像账簿上抄下来的两行标题——作者先让读者看见这套行政词汇，再让 Sophie 用两个 `There was nothing ... about` 的句式把两行逐条顶回去。`expansive`（此词也可作" expansive 的、铺张的"讲）这个词是这段最锋利的一处：作者用它形容 Kahnweiler 画廊的**空间**，而它同时可以被读成" expansive"（ expansive 的、铺张的）——**一个褒义词，被放在一段关于"被遗弃"的对质里，因此立刻带上了反讽**。两处引号里的 `stateless`／`abandoned` 用的是**借词引号**（表示"所谓的"），与它们构成语义对撞。
+**为什么这样写：** 第一行是**两个无谓语的碎片**，用分号并列，像账簿上抄下来的两行标题——作者先让读者看见这套行政词汇，再让 Sophie 用两个 `There was nothing ... about` 的句式把两行逐条顶回去。`expansive`（铺张的、阔气的）这个词是这段最锋利的一处：作者用它形容 Kahnweiler 画廊的**空间**，而它同时可以被读成" expansive"（铺张的、阔气的）——**一个褒义词，被放在一段关于"被遗弃"的对质里，因此立刻带上了反讽**。两处引号里的 `stateless`／`abandoned` 用的是**借词引号**（表示"所谓的"），与它们构成语义对撞。
 
 **读者视角提示：** `Not anymore.`（不再是了）是下一段 Rose 给出的全部反驳；作者让两个女人用同一套词（stateless／belong）打了一整段，而 Rose 只用三个词结束战斗。
 
