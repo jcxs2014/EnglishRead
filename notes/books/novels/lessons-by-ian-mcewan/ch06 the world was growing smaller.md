@@ -276,7 +276,7 @@ modified: "2026-09-28"
 | adjustments | 调整（此处为"反复调整帽子"） | Browne was replacing his hat with great care, making small adjustments, repeating them. |
 | prosecution | 检方（此处为"检察官办公室"） | Browne had no reason to protect him from the prosecution department. |
 | possessions | 所有物（此处为"应归还的物品"） | His possessions should have been returned. |
-| fantasy | 幻想 | ‘He’s a fantasist, Mutti, he can’t settle to anything. |
+| fantasist | 空想家（此处为"他是个空想家"） | ‘He’s a fantasist, Mutti, he can’t settle to anything. |
 | documentary | 纪录片（此处为"只与动画片一样真实"） | The documentary was only as real as cartoons in which characters tumbled from cliffs and landed safely on their heads. |
 | intelligence | 智力（此处为"两个细胞合并"） | A new intelligence had leaped from two cells merging and daily wove itself into greater complexity and surprises. |
 | interrupted | 打断（此处为"报纸被打断"） | He had paused to read the newspaper and was interrupted by Browne’s visit. |
