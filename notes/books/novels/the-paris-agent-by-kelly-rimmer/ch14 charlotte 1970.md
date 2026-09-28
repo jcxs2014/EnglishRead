@@ -141,7 +141,7 @@ modified: "2026-09-28"
 | fixtures | 固定装置（水龙头、配件等） | We are not exactly waiting with bated breath by the time Jean informs us they restored original fixtures and have felt satisfied with this decision in the ensuing years. |
 | blinking | 眨（眼） | He breaks off, then turns to look out the window into the garden, blinking rapidly. |
 | squeezes | 捏，握 | Dad reaches down and squeezes my hand, then shakes his head. |
-| scrambled | 混乱不堪的； scrambled mind 脑子一片乱 | It wasn’t just my memory that was damaged in those early days, my whole mind seemed scrambled. |
+| scrambled | 混乱不堪的（形容思绪、局面一团乱） | It wasn’t just my memory that was damaged in those early days, my whole mind seemed scrambled. |
 | roadblock | 路障，关卡 | “Do you remember the roadblock?” |
 | gunfight | 枪战 | He saw us go into his barn, but he couldn’t come to help at first, because Fleur was in a gunfight with the Germans not far from his house. |
 
