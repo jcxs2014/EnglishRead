@@ -55,18 +55,19 @@
 
 ---
 
-### [2026-09-28 19:48 UTC] [DSHarness-Mac] → All
+### [2026-09-28 20:26 UTC] [DSHarness-Mac] → All
 
-**《The Last Bookshop in London》（Madeline Martin, 2021）22 章精读 + 总览三篇完工**（novels/the-last-bookshop-in-london-by-madeline-martin/，**25 md** = ch01–ch22 + 总览三篇；`text/` 22 件，**md 22 == text 22**）。**3 个本地 commit（`bf45ec90` / `e50c5182` / `e4d9f817`），全部未 push**；**五步审查未做（待用户发起）**。
+**《The Last Bookshop in London》（Madeline Martin, 2021）22 章精读 + 总览三篇完工 → 独立五步审查已整改**（novels/the-last-bookshop-in-london-by-madeline-martin/，**25 md** = ch01–ch22 + 总览三篇；`text/` 22 件，**md 22 == text 22**）。**4 个本地 commit（`bf45ec90` / `e50c5182` / `e4d9f817` / `9b82d8a7`），全部未 push**。**本条为本书唯一条目，审查结论就地追加，不新开条目。**
 
 - **体裁/结构**：历史言情长篇·**单 POV**（Grace Bennett，22 章全勤）；Chapter One–Twenty-One + Epilogue 共 22 章、**无序章**；`chNN` 1:1 零偏移。篇目数**三方对齐**（OPF spine / toc.ncx / Contents.xhtml），`verify_corpus` PASS（FAIL 0 / WARN 1，单 POV 按 AGENTS 1a 免 `--anchors`）。
-- **门禁（终态，完整 lane）**：`verify_quotes` **154/154 (100%)** · `--full` 整串 0 · 逐章归属 **22 章各 7/7 in chNN text，MISS 0** · `check_vocab` **FAIL 0**（866 词条，WARN 53 **全为词长≥9 启发式＝提示型**）· `check_entities` 0 · `corruption_scan` FAIL 0 · `sweep_full` 154 命中/跨章 0/拼接 0/查无 0 · `check_short_quotes` 0 条待兜底 · `sweep_analysis_inline` 逐字 1157/部分命中 0/零命中 0 · `check_anchor` 0/0 · `audit_structure` 缺陷 0 · `audit_numbers` 不符 0。
-- **总览门禁**：`verify_overview_quotes` **47/47**（金句 25 + 节点 22）｜ `check_overview_full` 整串 51 命中/拼接 0/**章节标签 对 45 错 0**/跨章歧义 0/**H1 错配 0** ｜ 三篇 H1 各自正确。**概述行内英文 2 条为版权页/OPF blurb**（`text/` 不含装置页）⇒ 已回 epub 逐字核实 4/4 OK，**假红·只记不改**。
-- **三条自建复核**（均先过毒药测试 + 反向对照）：大小写敏感三层 sweep **逐字 66/跨章 0/零命中 0**；总览章节标签对账 **47 条不符 0**；跨书污染 `grep -rl` 逐名核对 ⇒ **他书污染 0**。
-- **给后续实例的三条动作建议**（详见日志第七节）：① **提取器会漏收装置页标签**——`Praise.xhtml` 在 SKIP 名单里却因 labels 表没有 `praise` 被收成 ch01，靠「提取件数 vs spine 件数」才发现；② **自建检查器的 glob 补零必须原样保留**，`ch{int(ch)}_*` 对 `ch03_*` 匹配 0 个 ⇒ 每条片段都掉进全书比对被误报「跨章 28」，是「静默失效」最短复现路径；③ `sweep_analysis_inline` **不查大小写**，英文大小写被改会全绿漏过。
-- **生产方式**：引语/总览引语全部由 `scripts/attic/` 的占位符注入工具从 `text/` 与**已核实引语池**程序化注入（查无即退出 2 不写盘），词表走 `build_vocab_table.py` + 逐字校验的例句替换器 ⇒ **写作期缺陷 0**（本轮抓到的 10 处全在总览与自建复核层，均自查修掉）。**`scripts/attic/HOUSE_SPEC.md` 是本书的写作规范成文**（已 gitignore，同机实例可直接复用）。
+- **五步审查（2026-09-28 用户本会话发起，a–e 全量执行、未降级）**：a 门禁全量重跑与完工报告**逐项一致、0 虚报**；b 逐章归属 22×7/7、MISS 0，另核 5 处 cliffhanger 边界归属正确；c `audit_structure` 0 缺陷，**另写独立实现**（硬性四子项+次序+编号+difflib 去重+H1↔文件名↔text 三方）——**毒药测试实证 `audit_structure` 删掉一个子项仍报 0**（已知假阴性复现），独立扫描抓出并通过；d 派 3 个只读子代理（8/8/9 文件）做语义二审；e 总览层说话人窗口 + 章节标签对账 + 跨书污染。
+- **缺陷与整改**：子代理共报 **60 阻断 + 74 提示**，主会话逐条回源复核后**确认并整改阻断型 60 处**（21 文件 / 83 行）。**最重的一类在总览层（本实例自撰）**：虚构情节 16 条——**书店从未被烧**、遗赠与死亡先后写反、**虚构「书店东家联合会」**、**虚构「圣诞有人团聚」**、推荐信的作者写成 Grace（实为 Mr. Evans 写好藏起）、**「一次一本」归给 Mr. Stokes（实为 Mr. Evans）**、`Mrs. Evans`（书中无此人）、Hews 家（ch13 人物被安到 ch12 场景）、起名主体错、宣战/胜利日年份错。章节层：Mr. Stokes 被误作书店同事（ch05/ch21）两处、虚构年龄「二十出头」（ch06）、Colin 台词记给母亲（ch07）、电报道成上一章的亮色（ch11）、**两个夜晚并成一个夜晚**（ch12 四处）、「别停」归到上一章（ch13）、虚构「盒子被倒空/她打开它」（ch14）、`every part` 被改写为 `the whole`（ch19）、中文里裸英文 `attachment` 残留（ch08/ch09 五处）。
+- **新查出的成簇缺陷（本轮最有复用价值）**：**词条例句右边界截断 25 处**（`Mr./Mrs.` 处断 14 条 + 引号处断 11 条）——截断后仍是原文**连续子串**，六道门禁结构性看不见，`check_vocab` 全绿。已建 `audit_d_vocab_tail.py`（右边界）+ 缩写感知分句的修复器；**该修复器首版对 13 条只修 0 条**（分句器同样断在 `Mrs.`），补缩写重并句后才生效。
+- **整改后门禁（全量重跑）**：`verify_quotes` **154/154 (100%)** · `--full` 整串 0 · 逐章归属 **22 章 MISS 0** · `check_vocab` **FAIL 0**（866 词条）· `check_entities` 0 · **`corruption_scan` FAIL 0**（防自伤，与第 9g/第 10 条合并执行）· `sweep_full` 154 命中/跨章 0/拼接 0/查无 0 · `sweep_analysis_inline` 逐字 1155/部分命中 0/零命中 0 · `check_anchor` 0/0 · `audit_structure` 0 · **独立结构扫描 0 缺陷** · `audit_numbers` 0/0 ｜ `verify_overview_quotes` **47/47** ｜ `check_overview_full` **章节标签 对 45 错 0 / H1 错配 0** ｜ 自建：例句右边界 **0/866**、总览章节标签 **47 条不符 0**、中文跨章引用 **0 错**。三档定性：**阻断型 0**；提示型 = `check_vocab` 53 条（词长≥9 启发式）+ `audit_numbers` 26 条未判；假红型 = `check_crossref` 对本书「0 对」（中文「第 X 章」不在其口径，已自建 `audit_d_cn_crossref.py` 替代）+ 概述 2 条版权页引用（`text/` 不含装置页，已回 epub 核实）。
+- **给后续实例的四条动作建议**（详见日志）：① **词表例句的「右边界」要单独查**——`build_vocab_table.py` 会在 `Mr./Mrs.` 与右引号处断句，而截断串仍是逐字子串，六道门禁全绿；② **`audit_structure` 的 0 不证明子项齐全**（本轮用毒药测试实证：删掉一个子项它仍报 0），须另写硬性实现；③ **总览层是虚构的高发区**（本轮 16 条阻断有 14 条在此），写「做了什么/是谁的谁/何时死」一律先 grep；④ **自建检查器首版对不上就 0 修复**——本轮那个修复器对 13 条缺陷修 0 条，原因是复用了被测工具的同一个分句缺陷。
+- **同会话审查的已知局限（如实标注）**：审查方 = 写作方 = 本实例，**不能宣称已排除全书统一口径的系统性误判**——本轮抓出的「Mr. Stokes 身份」与「一次一本归属」两处，说明**同一个人在不同文件里被写成两种身份**这一类系统性偏差在本项目反复出现；如需更高独立性，建议另派异实例只复核 d/e 两步（a–c 为机械项，已换实现复核过）。
 
-**逐行原始门禁输出 / 总览自检 / 跨书污染逐名结果 / 全部缺陷清单** → `.memory/daily/2026-09-28.md` 本书条目（第三、四、五节）。
+**逐行原始门禁输出 / 全部缺陷清单（60 阻断 + 74 提示逐条）/ 总览自检 / 跨书污染逐名结果** → `.memory/daily/2026-09-28.md` 本书条目第九节。
 
 ---
 ### [2026-09-28 17:58 UTC] [ZCode-Mac] → All
