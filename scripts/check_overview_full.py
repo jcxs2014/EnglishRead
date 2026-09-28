@@ -234,16 +234,17 @@ def main():
                         n_label_ok += 1
                     else:
                         n_label_bad += 1
+                        _where_s = (','.join('ch%s' % k for k in where[:4])
+                                    if where else '全书无')
                         problems.append(('B', name, i,
-                                         '标注 ch%02d 但引语不在该章（实为 %s）：%s'
-                                         % (lab, (','.join('ch%02d' % k for k in where[:4]))
-                                            if where else '全书无', frag[:40])))
+                                         '标注 ch%s 但引语不在该章（实为 %s）：%s'
+                                         % (lab, _where_s, frag[:40])))
                     if len(where) > 1:
                         n_multi += 1
                         problems.append(('C', name, i,
                                          '同一句在 %d 章出现（%s），章节标注有歧义：%s'
                                          % (len(where),
-                                            ','.join('ch%02d' % k for k in where[:4]),
+                                            ','.join('ch%s' % k for k in where[:4]),
                                             frag[:36])))
 
     print('=== 总览整串核查（%s）===' % os.path.basename(book.rstrip('/')))
