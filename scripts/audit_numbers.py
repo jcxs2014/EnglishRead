@@ -242,6 +242,28 @@ def main():
                 if claim is None or not token or not cur_quote:
                     unresolved.append((name, i, '%s个%s' % (m.group(1), token), '无块内引语可比'))
                     continue
+                # ⚠️ 2026-09-28 假红守卫（Paris Deception 9 条实证）：
+                # 中文「N 个 + token」**经常不是在数这个 token**，三种形态：
+                #   ① 指示代词：「**前一个** `His` 后面断掉」——`一个`=the first one
+                #   ② 被修饰的名词：「**两个** `I` **打头的名词**」——数的是名词
+                #   ③ 结构/短语：「**三个** `of` **结构并排**」——数的是 of-结构
+                # 这三种里「数的是哪一个」都无法机械定位，与本脚本对「N 个词」
+                # 既有的不判原则同源（一律未判，不报 ❌）。
+                # 判据：token 紧邻前方有指示代词，或紧邻后有中文修饰名。
+                prefix_ctx = l[max(0, m.start() - 4):m.start()]
+                token_raw = m.group(2) or m.group(3) or ''
+                token_end_in_line = m.end(2) if m.group(2) else (m.end(3) if m.group(3) else m.end())
+                # ⚠️ m.end(2) 落在**收尾反引号之前**，suffix 必须先剥掉
+                # 闭合标记（实测 ch15 suffix 实际是 "` 打头的名词（"，
+                # 不剥则 `\s*` 跳不过反引号，守卫对全部 backtick token 静默失效）。
+                suffix_ctx = l[token_end_in_line:token_end_in_line + 10].lstrip('`"\u201c')
+                if re.search(r'[前上后这那每另]$', prefix_ctx) or \
+                        re.match(r'\s*(?:类?词(?:组|语)?|名词|动词|副词|形容词|结构|短语|'
+                                 r'从句|词组|开头|起头|打头|结尾|并排|字样|出现|重复|'
+                                 r'连用|类词|次|遍|各配|搭配|说法|形式|用法)', suffix_ctx):
+                    unresolved.append((name, i, '%s个%s' % (m.group(1), token_raw),
+                                       '「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判'))
+                    continue
                 # `N 个 a / b / c` 是**多 token 列表**，须逐个计数再求和——
                 # 把整串当一个 token 永远得 0（实测「三个Their voices rose /
                 # came coiling / hollering」误报为 0 次）

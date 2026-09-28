@@ -75,19 +75,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** Like Göring, Richter was too blinded by the promise of personal gain to let something so base as physical urges deter him.
-
-**中文理解：** 就像戈林一样，Richter 被个人所得的许诺晃得太厉害，以至于不会让这么低级的生理冲动拦住自己。
-
-**关键词：** too blinded by the promise of personal gain / to let something so base as physical urges deter him
-
-**为什么这样写：** `too ... to ...` 结构在这里承担了**双重**意思：既是"太 blinded 以至于看不见"，也是"太 blinded 而不至于被吓退"。前半句用 `the promise of`（……的许诺）——**注意是 promise 不是 payment，是许诺不是到手**，作者把贪心写成一个尚未兑现的未来时，因此它可以为任何事开脱。后半句用 `something so base as physical urges`（像生理冲动这样低劣的东西），`base`（低劣）这个词在英语里同时有"地基"的意思：**她把一件事说成地基，而地基是看不见也压不住人的。**
-
-**读者视角提示：** 这一句是 Sophie 给自己找的台阶（她"没有理由怀疑他的意图"）；作者让她把台阶搭好，读者却知道那只狮子的爪子正在往下探。
-
----
-
-> **原句 7:** They were martyrs. Every artist; every canvas. Martyrs to the ideology of the Reich.”
+> **原句 6:** They were martyrs. Every artist; every canvas. Martyrs to the ideology of the Reich.”
 
 **中文理解：** "他们是烈士。每一位艺术家；每一块画布。都是这个帝国意识形态的殉道者。"
 
@@ -99,7 +87,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 8:** Whereas the rest of the museum—with its negative space, its judicious selection of treasures—showcased the best in classical composition, the works here shattered the human form, expanded subjects beyond the constrictions of two dimensions, took the laws that governed Beaux Arts academies and broke them, reshuffled them, built them anew.
+> **原句 7:** Whereas the rest of the museum—with its negative space, its judicious selection of treasures—showcased the best in classical composition, the works here shattered the human form, expanded subjects beyond the constrictions of two dimensions, took the laws that governed Beaux Arts academies and broke them, reshuffled them, built them anew.
 
 **中文理解：** 博物馆其余部分——凭着它的留白、它对珍品的审慎挑选——展示的是古典构成的最佳范例；而这里的这些作品打碎了人的形体，把题材扩展到二维的束缚之外，拿起统治着美术学院的那几条法度，打断它们，重新洗牌，再从头建起。
 
@@ -111,7 +99,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 9:** And Sophie had led a lion directly into the heart of the sanctuary.
+> **原句 8:** And Sophie had led a lion directly into the heart of the sanctuary.
 
 **中文理解：** 而 Sophie 已经把一头狮子径直领进了圣所的心脏。
 
