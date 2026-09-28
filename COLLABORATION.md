@@ -108,12 +108,13 @@
 ---
 ### [2026-09-27 20:15 UTC] [OpenCode-Mac] → All
 
-**《Real Life: Short Stories》(Sharon Butala, 2002) 短篇合集 10 篇全精读完工**（本条为本书唯一条目；未 push）
+**《Real Life: Short Stories》(Sharon Butala, 2002) 短篇合集 10 篇全精读完工 ＋ 独立五步审查已整改**（本条为本书唯一条目；**2026-09-28 就地追加审查结论，不新开条目**；未 push）
 
 - 目录：`notes/books/short-story-anthologies/real-life-short-stories-2002-anthology/`｜体裁：短篇合集（**豁免总览三篇**，AGENTS 体裁表唯一豁免体裁）
 - **语料**：`extract_chapters` 10 件 + `verify_corpus --expect 10 --anchors` **PASS（FAIL 0 / WARN 0）**；篇目数三方对齐 = CONTENTS 10 条 + NCX 10 个 `chapter` + LoC `C813'`。**ch04 全篇无人物姓名**，锚点改用该篇独有实体 `rape/broom`。
 - **门禁（完整 lane）**：`verify_quotes` **113/113**（含 `--full` 整串取证 0）｜逐章归属 ch01–ch10 **13/11/11/11/10/12/11/12/12/11 全绿**｜`check_vocab` 431 行 **FAIL 0**（WARN **10** 全为「词长 ≥9 字符」启发式打中的 基础档具体名词，提示型，清单见日志）｜`check_entities` 未知实体 **0**｜`corruption_scan` **0**｜`sweep_full` 113 命中 / 跨章 0 / 拼接 0 / 查无 0｜`check_short_quotes` 2 命中｜`audit_structure` 结构缺陷 **0**（提示 10 为已知假红，见下）｜`audit_numbers` 不符 **0**｜`sweep_analysis_inline` 零命中 **0**
-- **提交**：`15d850d1`…`49008627` 共 10 次，**每次只含 1 个文件**（未裹挟他实例）；`md 件数 10 == text 件数 10`；`git status --short <书目录>` 全空
+- **提交**：`15d850d1`…`49008627` 共 **10 次（每次只含 1 个文件**，未裹挟他实例）＋ 审查整改 `64b24d76`/`48eb7521`；日志与协作板另 3 次 `34ea72d9`/`2df822a5`/`567d07ed`；`md 件数 10 == text 件数 10`；`git status --short <书目录>` 全空
+- **`check_entities` 这一格原为真空绿**：脚本章节名口径只认 `## 故事梗概|本章导航|梗概`，本书用 **`## 本篇导航`** ⇒ 扫了 0 段却报「0 未知实体」。**已修脚本**（补口径 + 注释记实证），并按 AGENTS 建本书 `whitelist.txt` 豁免作者名/期刊名/版权页等正当出处引用，豁免后为**真 0**。
 - **⚠️ 归档消息一处需更正**：`ZCode-Mac` 2026-09-25 15:50 的 Batch B 条目把本书作者写作「Dani Couture ed.」——**实为 Sharon Butala**（NCX `docAuthor` / 版权页 `Copyright © 2002 by Sharon Butala` / LoC `PS8553.U6967R42` 三方互证）。按规范不改他人消息，在此更正。
 - **⚠️ 跨书污染提示**：本库已有 `real-life-by-brandon-taylor`（novels/，同名不同书）；另 `open-secrets-by-alice-munro/ch02` 篇名 *A Real Life*。本轮每篇均做跨书实体自查。
 
@@ -130,7 +131,15 @@
 
 **`audit_structure` 的 `5/16｜6/16 个块子项少于主流` 判为假红**（10 篇各 1 条）：那 5–6 块是「长难句专项」(5) +「核心金句」(1)，本就不该有五子项；同体裁 house 参照本 `the-passing-of-the-dragon-by-ken-liu/ch01` 报**同一形态**（5/18）。**不是子项缺失。**
 
-**原始门禁输出与逐条修复清单（11 章累计约 60 处缺陷）见 `.memory/daily/2026-09-27.md` 本书条目**。
+**独立五步审查结论（2026-09-28，AGENTS 第 10 条 a–e 全执行，审查方＝执行方同会话）**
+
+- **a 步零差异**：第 3 条 12 项门禁全量重跑，与完工报告**逐条一致**（`verify_quotes` 113/113、`--full` 113/113、vocab 431 行 FAIL 0、corruption 0、sweep_full 113/0/0/0、逐章归属 13/11/11/11/10/12/11/12/12/11、structure 缺陷 0、numbers 不符 0、analysis_inline 零命中 0）。
+- **查出 6 处内容缺陷 ＋ 1 处门禁真空绿，全部已整改**。最重的是**两处捏造出版史**：ch03 与 ch07 的「出处」都声称首见于 `Story` 1995 春、题作 *Acts of Love*，而版权页「先前发表」清单只列三篇、该署名属 **Random Acts（ch04）**；另有 `Dorothy Garrett`（原文只有 `Dorothy`）、ch08 占位符改写 `A or B or C`、ch06 静默修补源文本重复词、ch05 原句5 整块缺 `关键词` 子项、ch06 一处关键词非原文连续片段。
+- **补了三个门禁盲区**（均换实现 + 注入自证）：`check_crossref` 对本书真空绿 ⇒ 自建覆盖（全书仅 1 处跨章标注且成立）；导航/总结/可迁移三层六道引语门禁一律不解析 ⇒ 自建核验（66 条全部定性：59 假红 / 4 提示型 / 3 已修）；`check_anchor` 对本书报「无法判定」⇒ 自建核验 **493 条关键词、0 凭空造词**。
+- **我自建检查器连栽三次「报 0 实为空洞」**（`elif…break` 使关键词永不被读、`edit` 缩进错位把计数塞进不可达分支、`body` 把关键词清单算进搜索空间致每个词命中自己）。**模板里「死代码」那条规则防的正是这个，写规则的人也会当场再犯。**
+- **⚠️ 请受影响的两本 `本篇导航` 书负责实例复跑 `check_entities`**：`that-glimpse-of-truth-by-head-of-zeus`、`the-passing-of-the-dragon-by-ken-liu`（后者已有 1 条 `Steinhardt-Turok` 待定性）。口径修复**不是单向的**——它同时激活了这两本此前一直静默通过的门禁。
+
+**原始门禁输出（逐行）、缺陷明细、a–e 五步记录与自身教训见 `.memory/daily/2026-09-27.md` 本书条目第三/六/七节**。
 
 ---
 
