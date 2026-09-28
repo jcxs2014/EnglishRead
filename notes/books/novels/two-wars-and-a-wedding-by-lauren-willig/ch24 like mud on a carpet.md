@@ -24,13 +24,13 @@ source_text: ch24
 
 ### 第一处
 
-> **原句 1:** "I'm not worth anything but you are. I'll take your place. I don't care what happens to me, but I care what happens to you."
+> **原句 1:** "I’m not worth anything but you are. I’ll take your place. I don’t care what happens to me, but I care what happens to you."
 
 **中文理解**：我什么都不值，你值。我去替你去。我不管自己会怎么样，我在乎你怎么样。
 
-**关键词**：I'm not worth anything but you are / I'll take your place / I don't care what happens to me, but I care what happens to you
+**关键词**：I’m not worth anything but you are / I’ll take your place / I don’t care what happens to me, but I care what happens to you
 
-**为什么这样写**：整封信由两组对照构成，而两组都是同一个句型的重复：not… but…、don't care… but I care…。第一组用 worth 一词把自己降到零；第二组把同一副否定句式翻过来，只换一个主语——me 换成 you。中间那句 I'll take your place 短得突兀，像从两段自我贬低中间硬插进来的一块石头。写信的人通篇没有提 Charles，也没有提那个孩子。
+**为什么这样写**：整封信由两组对照构成，而两组都是同一个句型的重复：not… but…、don’t care… but I care…。第一组用 worth 一词把自己降到零；第二组把同一副否定句式翻过来，只换一个主语——me 换成 you。中间那句 I’ll take your place 短得突兀，像从两段自我贬低中间硬插进来的一块石头。写信的人通篇没有提 Charles，也没有提那个孩子。
 
 **读者视角提示**：这封信写在开篇；而把它逼出来的那封回信，人要到本章最后才读得到。
 
@@ -38,13 +38,13 @@ source_text: ch24
 
 ### 第二处
 
-> **原句 2:** "It would have been simpler if Betsy could have just died in childbirth, but, of course, she didn't. She couldn't even get that right."
+> **原句 2:** "It would have been simpler if Betsy could have just died in childbirth, but, of course, she didn’t. She couldn’t even get that right."
 
 **中文理解**：要是 Betsy 干脆死在产床上，事情反倒简单些；可她当然没有死成。她连这个都没做对。
 
-**关键词**：would have been simpler / just died in childbirth / She couldn't even get that right
+**关键词**：would have been simpler / just died in childbirth / She couldn’t even get that right
 
-**为什么这样写**：would have been 把一整套更省事的结局挡在她的现实之外，but, of course 又把她拉回来；she didn't 只有两个词，却把这道门重新关上。末句的 get that right 把「死」重新定义成一件需要做对的事——她把活下来当成了失败，那甚至都不是医生的话，是她自己给自己定的评分标准。
+**为什么这样写**：would have been 把一整套更省事的结局挡在她的现实之外，but, of course 又把她拉回来；she didn’t 只有两个词，却把这道门重新关上。末句的 get that right 把「死」重新定义成一件需要做对的事——她把活下来当成了失败，那甚至都不是医生的话，是她自己给自己定的评分标准。
 
 **读者视角提示**：紧接着写的是她连做梦都在梦见 Charles 穿着 Spartan armor 死在 Thermopylae。
 
@@ -74,19 +74,19 @@ source_text: ch24
 
 **为什么这样写**：前一段她翻的是广告，Lister 的牙膏要白牙，Ogram 的要人漂亮，Hunyadi Janos 专治便秘、消化不良和肝病——这些广告都在把她拆成身体部件来卖。这一句把其中一项从身体搬到灵魂上：dyspepsia 前面是 of the soul。两个问句是自问自答的修辞，而末句用 going to（本来要）加一个否定，把「洗干净」这件事判给了一个不存在的将来时。scrub 这个动词是她刚才在广告里见过的那一类动作——擦洗。
 
-**读者视角提示**：同一段里她还想过：要是当初死的是 typhoid，该多好。
+**读者视角提示**：再往前两段她还想过：要是当初死的是 typhoid，该多好。
 
 ---
 
 ### 第五处
 
-> **原句 5:** "In his home, at Carmagnac," she said slowly, "his father's portrait hangs on the wall. He will sleep in the nursery that was once his father's and rock on the horse that was once his father's and fight battles with the soldiers that were once his father's. His father will be everywhere with him, in the library, in the stables, in the memories of his servants. Does that content you?"
+> **原句 5:** "In his home, at Carmagnac," she said slowly, "his father’s portrait hangs on the wall. He will sleep in the nursery that was once his father’s and rock on the horse that was once his father’s and fight battles with the soldiers that were once his father’s. His father will be everywhere with him, in the library, in the stables, in the memories of his servants. Does that content you?"
 
 **中文理解**：在他在 Carmagnac 的家里，她慢慢地说，墙上挂着他父亲的画像。他会睡在他父亲当年睡过的育儿室，骑他父亲当年骑过的木马，和他父亲当年的士兵打仗。他父亲会无处不在——在书房里，在马厩里，在仆人们的记忆里。这样你满意了吗？
 
-**关键词**：that was once his father's / His father will be everywhere with him / in the memories of his servants / Does that content you
+**关键词**：that was once his father’s / His father will be everywhere with him / in the memories of his servants / Does that content you
 
-**为什么这样写**：that was once his father's 被反复连用，构成这一段的骨架，而 was once 里的 once 才是全部重量所在：那些房间、那匹马、那些士兵都曾经是父亲的，现在只剩 was once 这层过去。后面挂的 sleep、rock、fight 全是童年的动作，指向的却是死亡之后的空屋。中间那句 His father will be everywhere with him 把「无处不在」和后面那串实物并置。末句 Does that content you 不是问句，是收据。
+**为什么这样写**：that was once his father’s 被反复连用，构成这一段的骨架，而 was once 里的 once 才是全部重量所在：那些房间、那匹马、那些士兵都曾经是父亲的，现在只剩 was once 这层过去。后面挂的 sleep、rock、fight 全是童年的动作，指向的却是死亡之后的空屋。中间那句 His father will be everywhere with him 把「无处不在」和后面那串实物并置。末句 Does that content you 不是问句，是收据。
 
 **读者视角提示**：她听见这句之前刚刚把 Charles 的金币塞进对方手里。
 
@@ -94,7 +94,7 @@ source_text: ch24
 
 ### 第六处
 
-> **原句 6:** "Godspeed," Betsy said politely, as though they were strangers at a party, as though she weren't wearing her nightdress in the middle of a courtyard, with tears sticking her eyelashes together and clogging her throat.
+> **原句 6:** "Godspeed," Betsy said politely, as though they were strangers at a party, as though she weren’t wearing her nightdress in the middle of a courtyard, with tears sticking her eyelashes together and clogging her throat.
 
 **中文理解**：一路顺风，Betsy 客气地说，仿佛他们是聚会上认识的陌生人，仿佛她不是穿着睡衣站在院子当中，眼泪把睫毛粘在一起、堵在喉咙里。
 
@@ -108,13 +108,13 @@ source_text: ch24
 
 ### 第七处
 
-> **原句 7:** "She knew that writing, that firm, angular writing. No colored inks for Ava. No curlicues and flourishes. She wrote a strong, dark hand. But the words. Betsy stared and stared but the words wouldn't change."
+> **原句 7:** "She knew that writing, that firm, angular writing. No colored inks for Ava. No curlicues and flourishes. She wrote a strong, dark hand. But the words. Betsy stared and stared but the words wouldn’t change."
 
 **中文理解**：她认得那种字迹，那种有力、带棱角的字迹。Ava 从不用彩色的墨水，也从不写卷曲的花体。她写的是一手浓黑有力的字。可是那几句话。Betsy 盯着看，盯着看，可那几句话不会变。
 
-**关键词**：that firm, angular writing / No colored inks / No curlicues and flourishes / the words wouldn't change
+**关键词**：that firm, angular writing / No colored inks / No curlicues and flourishes / the words wouldn’t change
 
-**为什么这样写**：这一段全靠否定句认人：No colored inks 与 No curlicues and flourishes 这两句以 No 开头的短句，把一整个人从字迹里反推出来——用「没有什么」而不是「有什么」来定义一个人，是这一段最狠的笔法。But the words. 独立成段之后，只剩 the words wouldn't change 一个分句：字迹可以认，人也可以认，认不出的只有那几句话。
+**为什么这样写**：这一段全靠否定句认人：No colored inks 与 No curlicues and flourishes 这两句以 No 开头的短句，把一整个人从字迹里反推出来——用「没有什么」而不是「有什么」来定义一个人，是这一段最狠的笔法。But the words. 独立成段之后，只剩 the words wouldn’t change 一个分句：字迹可以认，人也可以认，认不出的只有那几句话。
 
 **读者视角提示**：信里那段关于战争的说明之后，只有一行：I have volunteered.
 
@@ -122,15 +122,15 @@ source_text: ch24
 
 ### 第八处
 
-> **原句 8:** "Betsy could feel the energy coursing through her, so much energy she could barely contain it. She'd wondered why she was still alive. This was why she was still alive. To sacrifice herself in Ava's place. It was all very much like a Greek tragedy."
+> **原句 8:** "Betsy could feel the energy coursing through her, so much energy she could barely contain it. She’d wondered why she was still alive. This was why she was still alive. To sacrifice herself in Ava’s place. It was all very much like a Greek tragedy."
 
 **中文理解**：Betsy 感到有股劲力在她身上流，太猛了，她几乎兜不住。她此前一直想不明白自己为什么还活着。现在她明白了。她要替 Ava 去死。这简直就是一出希腊悲剧。
 
 **关键词**：the energy coursing through her / so much energy she could barely contain it / This was why she was still alive / like a Greek tragedy
 
-**为什么这样写**：so much energy 后面省掉了 that，用 so…that 的省略结构把程度直接顶到 she could barely contain it，前半句与后半句互相追赶，中间不留缝隙。She's wondered why she was still alive 与 This was why she was still alive 是同一个问句的正反两面，wondered 换成 was，答案来得毫无余地。而最后一句把这趟疯狂替换成一个她从小看熟了的舞台：it was all very much like 而不是 it was，very much 这个成分把「她知道自己在做什么荒唐事」点了出来。
+**为什么这样写**：so much energy 后面省掉了 that，用 so…that 的省略结构把程度直接顶到 she could barely contain it，前半句与后半句互相追赶，中间不留缝隙。She’s wondered why she was still alive 与 This was why she was still alive 是同一个问句的正反两面，wondered 换成 was，答案来得毫无余地。而最后一句把这趟疯狂替换成一个她从小看熟了的舞台：it was all very much like 而不是 it was，very much 这个成分把「她知道自己在做什么荒唐事」点了出来。
 
-**读者视角提示**：她对护士说 I came here for a rest and I've rested. I'm done resting.
+**读者视角提示**：她对护士说 I came here for a rest and I’ve rested. I’m done resting.
 
 ## 本章词汇
 

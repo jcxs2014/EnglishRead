@@ -24,7 +24,7 @@ source_text: ch05
 
 ### 第一处
 
-> **原句 1:** "Just like the Charge of the Light Brigade. They can write a lovely poem about you when you're all rotting beneath the palm trees."
+> **原句 1:** "Just like the Charge of the Light Brigade. They can write a lovely poem about you when you’re all rotting beneath the palm trees."
 
 **中文理解**：就像轻骑兵团那样。他们可以给你们写一首好诗——那会儿你们已经烂在棕榈树底下了。
 
@@ -38,7 +38,7 @@ source_text: ch05
 
 ### 第二处
 
-> **原句 2:** "Ends and means and all that. It wasn't the manner of their going that mattered. It was that they got there."
+> **原句 2:** "Ends and means and all that. It wasn’t the manner of their going that mattered. It was that they got there."
 
 **中文理解**：手段与目的那一套吧。重要的是不是怎么去的，而是他们到了。
 
@@ -88,7 +88,7 @@ source_text: ch05
 
 **为什么这样写**：两个明喻一前一后夹着叙述：innocent-sounding（听起来无辜）说的是名字，a kick like a mule（像骡子一脚）说的是分量，而中间夹着个 libations——一个庄重到滑稽的词，用来指代一杯兑了朗姆的果汁。全句没有一个字提到 Paul 会被骗，但那匹骡子已经替读者算出了后果。gotten around it 一语双关：既是绕开禁令，也是「让 Paul 绕过去」。
 
-**读者视角提示**：Paul 点的第一杯叫「李将军奶昔」——下一处引语就是它。
+**读者视角提示**：Paul 点的第一杯叫「李将军奶昔」（General Robert E. Lee milkshakes）。
 
 ---
 
@@ -122,15 +122,15 @@ source_text: ch05
 
 ### 第八处
 
-> **原句 8:** "There'll be a hot time in Cuba next week!"
+> **原句 8:** "There’ll be a hot time in Cuba next week!"
 
 **中文理解**：下周古巴才有的热闹呢！
 
 **关键词**：There’ll be / a hot time / in Cuba next week
 
-**为什么这样写**：这句是对一首老歌《A Hot Time in the Old Town》的现场乱改：原词换成地点与时间，就把「马上开拔」的兴奋直译成了一个滑稽的未来。there'll be 把此刻的等待推到下周，而 hot time 一词在英美俚语里本就是「热闹/好时机」，Paul 唱出来时，读者知道他的意思恐怕包含别的。
+**为什么这样写**：这句是对一首老歌《A Hot Time in the Old Town》的现场乱改：原词换成地点与时间，就把「马上开拔」的兴奋直译成了一个滑稽的未来。there’ll be 把此刻的等待推到下周，而 hot time 一词在英美俚语里本就是「热闹/好时机」，Paul 唱出来时，读者知道他的意思恐怕包含别的。
 
-**读者视角提示**：喊这句的是 Paul——在闷车里差点摔下车、被霍尔特从船舷上拽住领子，末了还在改歌词。
+**读者视角提示**：喊这句的是 Paul——他在**煤车顶上**失衡、被霍尔特揪住衣领拉回来（火车启动那一下，人差点滑下去），末了还在改歌词。
 
 ---
 

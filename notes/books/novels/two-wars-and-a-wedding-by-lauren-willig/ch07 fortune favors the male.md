@@ -14,7 +14,7 @@ source_text: ch07
 
 **Tropes 兑现/反转**：「热血志愿军」的锐气被两件事打折：将军 Wheeler 是南方邦联老兵，「习惯性地忘记敌人不是北方佬」；中校 Roosevelt 一边下达行军命令一边在凉快处跟人聊天。真正的 trope 出现在巴顿身上——她本该是战地天使的化身，却被人当成「耳背的老小姐」供奉着。
 
-**人物弧线**：Kit 从第一章那个热心的、塞给同伴太妃糖的女人，退到本章抱着脸问「我回家要跟女儿说什么」；Betsy 从被动地接受安慰，变成反过来给 Kit 打气。Holt 第一次在读者面前露出他不是天生军人：他懂得这伙人落进了一个陷阱。
+**人物弧线**：Kit 从**第三章**那个热心的、塞给同伴太妃糖的女人，退到本章抱着脸问「我回家要跟女儿说什么」；Betsy 从被动地接受安慰，变成反过来给 Kit 打气。Holt 第一次在读者面前露出他不是天生军人：他懂得这伙人落进了一个陷阱。
 
 **叙事手法**：以 Katherine Carson 的第三篇专栏开场（日期推进到六月二十五日）→ 战地段与船上报段交替，切换处不用过渡句，直接以小标题式的时空标记分段；船上报段以第三人称限知写 Betsy 的观察，末段回到 Kit 的第一人称倾诉。
 
@@ -32,13 +32,13 @@ source_text: ch07
 
 **为什么这样写**：这一句用美术史术语写穷人的处境——chiaroscuro 原本指明暗对照法，作者把它从画室搬到营火边。Caravaggio saints（卡拉瓦乔笔下的圣徒）这个词组更狠：那些圣徒本就画得衣衫褴褛、肌肉毕露，此刻正对应两个没穿衣服的当地人。all sharp lines and hollows 用两个名词并置收尾，视觉的凹凸对应着处境的匮乏，不着一个评论词。
 
-**读者视角提示**：Paul 对这身打扮的评价是「叫花子」，而 Holt 给的是游击队员的军服——同一副皮囊，两种读法。
+**读者视角提示**：Paul 对这身打扮的评价是「叫花子」，而叙述者自己的判断是「游击队员」，Holt 的回应则是：他们靠 minimal support 就让职业军人吃了三年苦，穿什么根本不是重点——同一副皮囊，三种读法。
 
 ---
 
 ### 第二处
 
-> **原句 2:** "A Confederate veteran, Wheeler had a disconcerting habit of forgetting his enemy wasn't the Yankees. Or his fellow commanders."
+> **原句 2:** "A Confederate veteran, Wheeler had a disconcerting habit of forgetting his enemy wasn’t the Yankees. Or his fellow commanders."
 
 **中文理解**：惠勒是南方邦联的老兵，他有个令人不安的习惯：会忘记自己的敌人不再是北方佬。或者是，他的同僚们。
 
@@ -58,7 +58,7 @@ source_text: ch07
 
 **关键词**：a sticky heat / soaked you through / clogged your lungs / fogged your brain
 
-**为什么这样写**：句子先用同位语重复一遍主语（a heat），再一口气给出三个动词，让「热」从一个词变成一串生理反应。soaked、clogged、fogged 三个动词全是堵塞与渗透，没有一个动词表示「流汗」——作者关心的不是热，而是热在人身上留下的障碍。brain 被 fog（蒙上雾）住，与下一章写「热气让人站不住」正好连上。
+**为什么这样写**：句子先用同位语重复一遍主语（a heat），再一口气给出三个动词，让「热」从一个词变成一串生理反应。soaked、clogged、fogged 三个动词全是堵塞与渗透，没有一个动词表示「流汗」——作者关心的不是热，而是热在人身上留下的障碍。brain 被 fog（蒙上雾）住，这一段的疲惫一直延续到本章后段的行军描写。
 
 **读者视角提示**：这一天的行军里，他注意到的是「有些人倒下了，另一些人只是变得傻乎乎」。
 
@@ -74,13 +74,13 @@ source_text: ch07
 
 **为什么这样写**：整句没有一个生词，句式只是一个套语（It does not do to…）加一个极朴素的动词。underestimate 在字面上是「把……估小了」，而这伙人确实低估了——他们走进了一个两侧都有火力的口袋。因此这句与其说是警告，不如说是一个已经应验的判词：说话的人是唯一见过西班牙火力的人。
 
-**读者视角提示**：他把这句话说出口不到半日，子弹就落到了离 Holt 不远的地方；而另一个当地军官几乎同时说过「别以为这只是个玩笑」。
+**读者视角提示**：他把这句话说出口不到半日，子弹就落到了离 Holt 不远的地方；而 Kit 在船上说过同类的冷话（Fortune favors the male 那段）；另一位当地军官 de Almendares 的告诫出现在本章更后段。
 
 ---
 
 ### 第五处
 
-> **原句 5:** "The sort of deference you'd pay to a slightly deaf, elderly maiden aunt. The condescension was so thick you could practically wipe it off the walls."
+> **原句 5:** "The sort of deference you’d pay to a slightly deaf, elderly maiden aunt. The condescension was so thick you could practically wipe it off the walls."
 
 **中文理解**：那种你对一位有点耳背的年长姑妈才有的恭敬。那种居高临下厚得简直能从墙上擦下来。
 
@@ -94,13 +94,13 @@ source_text: ch07
 
 ### 第六处
 
-> **原句 6:** "There's no way to get it right. Whatever we do they'll find a way to make sure we don't do it."
+> **原句 6:** "There’s no way to get it right. Whatever we do they’ll find a way to make sure we don’t do it."
 
 **中文理解**：怎么做都不对。不管我们做什么，他们都能想出法子让我们做不成。
 
-**关键词**：There's no way to get it right / Whatever we do / make sure we don't do it
+**关键词**：There’s no way to get it right / Whatever we do / make sure we don’t do it
 
-**为什么这样写**：头两句是一组否定式的循环：先说没有正解，再说什么都白搭；第三句却把「我们做」换成了「我们不做」——同一个动作，do 与 don't do 之间只差一个否定，而否定恰好是整套说法的落点。这就是她此刻的处境：正面行动被否，消极拖延也被否。整句没有一个具体的抱怨对象，读者却能感觉到那堵墙。
+**为什么这样写**：头两句是一组否定式的循环：先说没有正解，再说什么都白搭；第三句却把「我们做」换成了「我们不做」——同一个动作，do 与 don’t do 之间只差一个否定，而否定恰好是整套说法的落点。这就是她此刻的处境：正面行动被否，消极拖延也被否。整句没有一个具体的抱怨对象，读者却能感觉到那堵墙。
 
 **读者视角提示**：她刚刚还在跟 Betsy 争「先把脚塞进门缝就行」，Betsy 拿这句反过来堵她——「当初不是你说的吗」。
 
@@ -108,13 +108,13 @@ source_text: ch07
 
 ### 第七处
 
-> **原句 7:** "You can only do what you can do and you can't fix what you can't fix."
+> **原句 7:** "You can only do what you can do and you can’t fix what you can’t fix."
 
 **中文理解**：你能做的只有你能做的事，你修不好的东西你也修不好。
 
-**关键词**：You can only do what you can do / can't fix what you can't fix
+**关键词**：You can only do what you can do / can’t fix what you can’t fix
 
-**为什么这样写**：这是全章最像格言的一句，却由刚刚还在哭诉的人说出来，因此更显苦涩。结构是同一句式的自我嵌套：能做的只有能做的，修不了的也就是修不了的。两次 what 从句用完全相同的词序，循环往复，像一只咬住自己尾巴的环。can only 与 can't 把两句并成一对，句式越平，处境越死。
+**为什么这样写**：这是全章最像格言的一句，却由刚刚还在哭诉的人说出来，因此更显苦涩。结构是同一句式的自我嵌套：能做的只有能做的，修不了的也就是修不了的。两次 what 从句用完全相同的词序，循环往复，像一只咬住自己尾巴的环。can only 与 can’t 把两句并成一对，句式越平，处境越死。
 
 **读者视角提示**：紧接着她自己说了一句「这算是发作性的忧郁」——她不打算把这番坦白当真。
 

@@ -16,7 +16,7 @@ source_text: ch03
 
 **人物弧线**：Betsy 在本章前半段还只是一个饿晕了、指望用自己的命换 Ava 的替身的人；Ava 不在的这个缺口把她从「献祭」推回「质问」，于是后半段她对着 Holt 说完那些话——她自己也不知道这些话是从哪来的。Kit 则从「热心的同事」被追问到「我们这种女人得做点什么才活得下去」的位置。
 
-**叙事手法**：以 Kit Carson 的报纸专栏开场（第二个书体文本，与 ch01、ch02 的信件同族）；正文一半是双人对谈式的人物刻画，一半在末尾**整体切换到 Holt 的视角**——从「他认出了那个站姿」写到他被说得不敢还嘴，这一章里非 Betsy 的声音出现了两次。
+**叙事手法**：以 Katherine Carson 的报纸专栏开场（全书第三个书体文本——ch01 Ava 的信、ch02 Betsy 的信之后；同一「非章节叙述体」的开场范式）；正文一半是双人对谈式的人物刻画，一半在末尾**整体切换到 Holt 的视角**——从「他认出了那个站姿」写到他被说得不敢还嘴，这一章里非 Betsy 的声音出现了两次。
 
 ---
 
@@ -52,11 +52,11 @@ source_text: ch03
 
 ### 第三处
 
-> **原句 3:** "I'm here because I dared my best friend to take some risks for once in her life but I didn't mean this, not this, never this, and now I'm afraid she's going to die and it will be all my fault and she'll haunt me forever."
+> **原句 3:** "I’m here because I dared my best friend to take some risks for once in her life but I didn’t mean this, not this, never this, and now I’m afraid she’s going to die and it will be all my fault and she’ll haunt me forever."
 
 **中文理解**：我在这里，是因为我激最好的朋友这辈子冒一次险——但我没想过是这个，不是这个，绝不是这个；现在我怕她会死，而那全是我的错，她会永远跟着我。
 
-**关键词**：dared my best friend / I didn't mean this / it's all my fault / haunt me forever
+**关键词**：dared my best friend / I didn’t mean this / it’s all my fault / haunt me forever
 
 **为什么这样写**：整句没有主语切换，全部是她的心声，因此不像说话而像一条失控的思路。三个 this 反复递减——this, not this, never this——是本句真正的骨架，把「我没想过」一层层加码。be 全 my fault 与 haunt me forever 用 but 并列：定罪与判决接在一句里，而 haunt（缠身不散）把「我的错」写成了此后一生的状态，而不是一次性事故。
 
@@ -94,27 +94,27 @@ source_text: ch03
 
 ### 第六处
 
-> **原句 6:** "You didn't follow me here, did you? There's no need for more knight errantry."
+> **原句 6:** "You didn’t follow me here, did you? There’s no need for more knight errantry."
 
 **中文理解**：你没有跟到这儿来吧？我可不需要更多的游侠骑士效命。
 
-**关键词**：didn't follow me here / no need for / knight errantry
+**关键词**：didn’t follow me here / no need for / knight errantry
 
 **为什么这样写**：她一句话里做了两件事：否认他跟来（把警惕摆在明面），再用 knight errantry 一词把他那点自告奋勇整个命名。no need for more 里的 more 是尖刀——他今晚已经救过一次，今晚已经够了。骑士是旧世界的比喻，套在佛罗里达的站台上本就滑稽，而她用这个词等于礼貌地拒绝他换一套自我叙事。
 
-**读者视角提示**：Holt 的回应是 It wasn't knight errantry. It was just common sense——他要的从来不是侠义，是常识；两个人在「你为什么要管我」这件事上分道扬镳。
+**读者视角提示**：Holt 的回应是 It wasn’t knight errantry. It was just common sense——他要的从来不是侠义，是常识；两个人在「你为什么要管我」这件事上分道扬镳。
 
 ---
 
 ### 第七处
 
-> **原句 7:** "There's no winning, don't you understand? Even if you win you lose."
+> **原句 7:** "There’s no winning, don’t you understand? Even if you win you lose."
 
 **中文理解**：没有赢这回事，你懂不懂？就算你赢了，你还是输。
 
-**关键词**：There's no winning / don't you understand / Even if you win you lose
+**关键词**：There’s no winning / don’t you understand / Even if you win you lose
 
-**为什么这样写**：don't you understand 夹在两句断言中间，把陈述句拧成质问句，语气因此比单纯的判断更刺。前后两句是严格的同词复沓：winning 与 win、you 与 you，一词不换，因此「赢」这个字被她亲手证伪了两次。第二句用 Even if 开头，条件让步与结论同处一句，逻辑上无路可走，语气上却毫不退让。
+**为什么这样写**：don’t you understand 夹在两句断言中间，把陈述句拧成质问句，语气因此比单纯的判断更刺。前后两句是严格的同词复沓：winning 与 win、you 与 you，一词不换，因此「赢」这个字被她亲手证伪了两次。第二句用 Even if 开头，条件让步与结论同处一句，逻辑上无路可走，语气上却毫不退让。
 
 **读者视角提示**：她说的对象是霍尔特，心里想的却是那些被关进集中营的人——这句 Even if you win you lose 在第十一章还会原样再出现一次。
 
@@ -122,7 +122,7 @@ source_text: ch03
 
 ### 第八处
 
-> **原句 8:** "Like the Charge of the Light Brigade. They can write a lovely poem about you when you're all rotting beneath the palm trees."
+> **原句 8:** "Like the Charge of the Light Brigade. They can write a lovely poem about you when you’re all rotting beneath the palm trees."
 
 **中文理解**：就像轻骑兵团那样。他们可以给你们写一首好诗——那会儿你们已经烂在棕榈树底下了。
 

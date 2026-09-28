@@ -24,13 +24,13 @@ source_text: ch08
 
 ### 第一处
 
-> **原句 1:** "Just because I don't believe the Greek gods existed doesn't meant they didn't sometimes speak sense."
+> **原句 1:** "Just because I don’t believe the Greek gods existed doesn’t meant they didn’t sometimes speak sense."
 
 **中文理解**：我虽不信希腊众神存在过，但这不代表他们偶尔不说点有道理的话。
 
-**关键词**：don't believe the Greek gods existed / doesn't meant / sometimes speak sense
+**关键词**：don’t believe the Greek gods existed / doesn’t meant / sometimes speak sense
 
-**为什么这样写**：一个 Just because…doesn't mean… 的双重否定，把信里那句调侃（oracle said γνῶθι σεαυτόν）包了进来。means 在这里拼作 meant，是原文的排印痕迹，保留下来反而像随手写就的家信——这个细节让她与「学者的引证腔」拉开距离。sometimes（偶尔）是她全部让步的尺度：她不信，却不否认偶尔听见了有用的东西。
+**为什么这样写**：一个 Just because…doesn’t mean… 的双重否定，把信里那句调侃（oracle said γνῶθι σεαυτόν）包了进来。means 在这里拼作 meant，是原文的排印痕迹，保留下来反而像随手写就的家信——这个细节让她与「学者的引证腔」拉开距离。sometimes（偶尔）是她全部让步的尺度：她不信，却不否认偶尔听见了有用的东西。
 
 **读者视角提示**：这封信的另一头写着「我比以往更坚定要在科林斯做出点成绩」——本章的崩溃正压在这句自信上。
 
@@ -38,13 +38,13 @@ source_text: ch08
 
 ### 第二处
 
-> **原句 2:** "They have been a time outside time. They don't belong to the rest of the world—the part of the world that has my wife in it."
+> **原句 2:** "They have been a time outside time. They don’t belong to the rest of the world—the part of the world that has my wife in it."
 
-**中文理解**：过去这些日子……和你在一起……那是一段在世界之外的时光。它不属于世界其余的部分——不属于那个有我妻子在的部分。
+**中文理解**：那是一段在世界之外的时光。它不属于世界其余的部分——不属于那个有我妻子在的部分。
 
-**关键词**：a time outside time / don't belong to the rest of the world / my wife in it
+**关键词**：a time outside time / don’t belong to the rest of the world / my wife in it
 
-**为什么这样写**：两个分句结构几乎相同（They have been…／They don't belong…），像一句谚语的上下阕。破折号之后那半句把前面整段的浪漫悬空，因为「世界」被缩小成了「有我妻子的那部分」。it 指代的是 the rest of the world，而 my wife in it 把「妻子」塞进这个 it 里——她成了「世界」的一个定语。省略号密布（. . .）显示他说这两句话时有多难。
+**为什么这样写**：两个分句结构几乎相同（They have been…／They don’t belong…），像一句谚语的上下阕。破折号之后那半句把前面整段的浪漫悬空，因为「世界」被缩小成了「有我妻子的那部分」。it 指代的是 the rest of the world，而 my wife in it 把「妻子」塞进这个 it 里——她成了「世界」的一个定语。省略号密布（. . .）显示他说这两句话时有多难。
 
 **读者视角提示**：紧接着叙述说，这三个字（my wife）是他第一次当面把话挑明，而她听见的不是爱情，是清算。
 
@@ -66,13 +66,13 @@ source_text: ch08
 
 ### 第四处
 
-> **原句 4:** "It was horrifying how close she'd come to ruining her future, everything she'd always planned, and all for a man."
+> **原句 4:** "It was horrifying how close she’d come to ruining her future, everything she’d always planned, and all for a man."
 
 **中文理解**：她离毁掉自己的人生、毁掉自己一直规划好的一切，只差那么一点——而这一切全是为了一个男人。
 
-**关键词**：how close she'd come to ruining / her future, everything she'd always planned / all for a man
+**关键词**：how close she’d come to ruining / her future, everything she’d always planned / all for a man
 
-**为什么这样写**：It was horrifying how close…是一个把「庆幸」写成「后怕」的句型：距离是过去式，恐怖却是现在时。how close 后面跟着三个并列的名词（future、everything she'd always planned），一个比一个抽象，直到最后落到 all for a man（全为了一个男人）这个最小、最俗的单位上。三个层次一齐坠落，句子因此有了失重感。
+**为什么这样写**：It was horrifying how close…是一个把「庆幸」写成「后怕」的句型：距离是过去式，恐怖却是现在时。how close 后面跟着三个并列的名词（future、everything she’d always planned），一个比一个抽象，直到最后落到 all for a man（全为了一个男人）这个最小、最俗的单位上。三个层次一齐坠落，句子因此有了失重感。
 
 **读者视角提示**：她自己也算得清楚：若被人看见，她会被当作「看那个美国小姑娘的教训」——新开放的行业一旦出事，责任总是记在先进去的那个身上。
 
@@ -80,11 +80,11 @@ source_text: ch08
 
 ### 第五处
 
-> **原句 5:** "We're not European," said Betsy sharply. "We're American. And we're equal to anything."
+> **原句 5:** "We’re not European," said Betsy sharply. "We’re American. And we’re equal to anything."
 
 **中文理解**：「我们不是欧洲人，」贝茜尖锐地说，「我们是美国人。我们跟任何东西都平起平坐。」
 
-**关键词**：We're not European / We're American / equal to anything
+**关键词**：We’re not European / We’re American / equal to anything
 
 **为什么这样写**：两句话的句式对称得像一记回敬：前句否认一个标签，后句换上另一个标签。equal to anything（与任何东西平等）把「我们」这个复数直接接上「任何东西」，语法上的等号就是政治上的主张。而 sharply 这个副词让整段像刀口一样干脆——她正在生闷气，是登山的那股怒气带着她爬上来的。
 
@@ -94,11 +94,11 @@ source_text: ch08
 
 ### 第六处
 
-> **原句 6:** "Who was Rufus Richardson to say she didn't have the stamina to dig?"
+> **原句 6:** "Who was Rufus Richardson to say she didn’t have the stamina to dig?"
 
 **中文理解**：他算是哪根葱，敢说她没有干活的力气？
 
-**关键词**：Rufus Richardson / to say she didn't have / the stamina to dig
+**关键词**：Rufus Richardson / to say she didn’t have / the stamina to dig
 
 **为什么这样写**：这句话是问句，但答案已经写在问法里：Who was…（他算哪根葱）本身就是答复。Rufus 是那位所长的名字，此处用全名带着刻薄——她平时叫他 Dr. Richardson。stamina（体力、耐力）一词把「能不能挖土」这件事从资格问题改成了体力问题，而体力是可以靠爬这座山当场证明的。
 
@@ -108,13 +108,13 @@ source_text: ch08
 
 ### 第七处
 
-> **原句 7:** "Just because a man knows he'll be burned doesn't mean he won't reach out to the flames."
+> **原句 7:** "Just because a man knows he’ll be burned doesn’t mean he won’t reach out to the flames."
 
 **中文理解**：一个男人明知自己会被烧伤，并不意味着他就不会伸手去够火焰。
 
-**关键词**：a man knows he'll be burned / doesn't mean he won't / reach out to the flames
+**关键词**：a man knows he’ll be burned / doesn’t mean he won’t / reach out to the flames
 
-**为什么这样写**：整句是一道逻辑题：知道会烧伤、不等于不会伸手——两个分句只用一个 doesn't mean 联结，拒绝被推成结论。reach out to the flames 三个词都是「伸出去」的近义递进（reach、out、to），把一个决心写成了动作，而动词 reach 用不用在 flames 上则留给读者。flames（复数）比 fire（不可数）更像具体的火舌。
+**为什么这样写**：整句是一道逻辑题：知道会烧伤、不等于不会伸手——两个分句只用一个 doesn’t mean 联结，拒绝被推成结论。reach out to the flames 三个词都是「伸出去」的近义递进（reach、out、to），把一个决心写成了动作，而动词 reach 用不用在 flames 上则留给读者。flames（复数）比 fire（不可数）更像具体的火舌。
 
 **读者视角提示**：她的下一句是「那我现在就成了一团火了」——她刚说完不许靠近，他就把火苗点在了她身上。
 
@@ -122,11 +122,11 @@ source_text: ch08
 
 ### 第八处
 
-> **原句 8:** "It's a madness, a glorious sort of madness, that makes everything else seem without savor or meaning."
+> **原句 8:** "It’s a madness, a glorious sort of madness, that makes everything else seem without savor or meaning."
 
 **中文理解**：那是一种疯狂，一种辉煌的疯狂，它让别的一切都显得寡淡无味。
 
-**关键词**：It's a madness / a glorious sort of madness / without savor or meaning
+**关键词**：It’s a madness / a glorious sort of madness / without savor or meaning
 
 **为什么这样写**：同位语 a madness 立刻被自己重复一次并升级——a glorious sort of madness，形容词进去时，疯狂就从病症变成了理想。without savor or meaning（索然无味）用了 or 把两个否定并列，让「失去味道」和「失去意义」同时成立：爱的代价不是痛苦，是别的东西都尝不出味道。这与柏拉图式的「要么全有要么全无」同构，而她对这套说辞的回应是——不去。
 

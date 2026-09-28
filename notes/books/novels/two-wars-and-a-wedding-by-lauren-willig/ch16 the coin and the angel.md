@@ -24,13 +24,13 @@ source_text: ch16
 
 ### 第一处
 
-> **原句 1:** "It's the night watch. I've found I rather like the night watch. It's quiet and the men are mostly sleeping and there are no fresh casualties coming in."
+> **原句 1:** "It’s the night watch. I’ve found I rather like the night watch. It’s quiet and the men are mostly sleeping and there are no fresh casualties coming in."
 
 **中文理解**：现在是夜班。我发现我倒是挺喜欢夜班的——安静，男人们大多在睡，没有新的伤员送进来。
 
-**关键词**：It's the night watch / I've found I rather like / the men are mostly sleeping / no fresh casualties coming in
+**关键词**：It’s the night watch / I’ve found I rather like / the men are mostly sleeping / no fresh casualties coming in
 
-**为什么这样写**：night watch 在相邻两句里出现两次，第二次被 I've found I rather like 接住，从报班变成了心情，是全句唯一自嘲的地方。真正的杀招在结尾那半句：写信人把「今晚没有新伤员」当成夜班的舒适写进信里——而这一章剩下的全部内容，就是那些陆续送到的伤员。整封信是全书最经济的一次伏笔：她把灾难写成了自己的偏好。
+**为什么这样写**：night watch 在相邻两句里出现两次，第二次被 I’ve found I rather like 接住，从报班变成了心情，是全句唯一自嘲的地方。真正的杀招在结尾那半句：写信人把「今晚没有新伤员」当成夜班的舒适写进信里——而这一章剩下的全部内容，就是那些陆续送到的伤员。整封信是全书最经济的一次伏笔：她把灾难写成了自己的偏好。
 
 **读者视角提示**：这封信写在她动身之前；等她真正上过夜班，她记住的却是 the men are mostly sleeping 这半句的反面。
 
@@ -52,7 +52,7 @@ source_text: ch16
 
 ### 第三处
 
-> **原句 3:** "You can't mean to give it to me. What if I lose it?" "If you lose it, then I have lost you, and what is a coin to that?"
+> **原句 3:** "You can’t mean to give it to me. What if I lose it?" "If you lose it, then I have lost you, and what is a coin to that?"
 
 **中文理解**：你不会是认真的吧，要把它给我？要是丢了怎么办？——要是丢了，那就是我失去了你，一枚铜板算什么呢。
 
@@ -60,7 +60,7 @@ source_text: ch16
 
 **为什么这样写**：他把她抛回来的假设句原样接住，只换掉里面的东西：lose it 变成 have lost you，it 变成 you，条件句就此变成已经发生的事。what is a coin to that 用的是旧式的反问语序（疑问词提前、没有助动词），腔调比整段现代叙述老了一截。coin 是全句最不值钱的一个字眼，被放在句末当秤砣——真正押上去的东西他没有说出来。整句二十来个词，逻辑却比这一章所有长句都狠。
 
-**读者视角提示**：她要的根本不是 coin：她当场 babbling 了半天，还提到 disembowel a pigeon；而他答的是 I know you do not agree with all my superstitions。
+**读者视角提示**：她要的根本不是 coin：她当场 babbling 了半天，还提到 disembowel a pigeon；而她自己 babbling 了半天、还提到 disembowel a pigeon——那是对他那句 I know you do not agree with all my superstitions 的**回应**，不是相反。
 
 ---
 
@@ -94,13 +94,13 @@ source_text: ch16
 
 ### 第六处
 
-> **原句 6:** "Yes, but Themistocles didn't have me." Betsy gave him an impish grin, flapped a hand in his general direction, and fled into the crowd before he could see her cry.
+> **原句 6:** "Yes, but Themistocles didn’t have me." Betsy gave him an impish grin, flapped a hand in his general direction, and fled into the crowd before he could see her cry.
 
 **中文理解**：是啊，可忒弥斯托克勒斯没有我。贝茜冲他调皮一笑，朝他那边挥了挥手，一头扎进人群，赶在他看见她哭之前跑掉了。
 
-**关键词**：Yes, but Themistocles didn't have me / an impish grin / flapped a hand / before he could see her cry
+**关键词**：Yes, but Themistocles didn’t have me / an impish grin / flapped a hand / before he could see her cry
 
-**为什么这样写**：她接的是他上一句 Even Themistocles didn't prevail in a week，用一个 but 把两千五百年前打赢海战的那个人当场比下去——那位将军输在时间上，而她这句俏皮话不打算输给时间。impish（淘气的）用得很准：这是她全章唯一一次不必靠嘴硬撑住的时刻。fled into the crowd 与 before he could see her cry 构成一场时间竞速，一个动词把逃跑和心碎压进同一口气里。
+**为什么这样写**：她接的是他上一句 Even Themistocles didn’t prevail in a week，用一个 but 把两千五百年前打赢海战的那个人当场比下去——那位将军输在时间上，而她这句俏皮话不打算输给时间。impish（淘气的）用得很准：这是她全章唯一一次不必靠嘴硬撑住的时刻。fled into the crowd 与 before he could see her cry 构成一场时间竞速，一个动词把逃跑和心碎压进同一口气里。
 
 **读者视角提示**：她转身的动作比这一整章她说过的任何一句话都更接近承认。
 
@@ -116,17 +116,17 @@ source_text: ch16
 
 **为什么这样写**：现在完成进行时 had been sending（一直在送）把一件平常事压成了长期安排——不是疏忽，是分配。given her youth and inexperience 是原因状语，而理由被写成了一份恭维：年轻、没有经验，所以只配接轻省活。后面那个反问只有五个词，The（这些）被提到句首，全部重量压在 cases 上；问号替她问出了没敢问的那半句——那难的呢。
 
-**读者视角提示**：答案就在下一段：it was being saved for the worst cases，而 These were not the worst cases；从头到尾没人告诉过她，她拿到的不是最轻的那一批。
+**读者视角提示**：答案就在**同一段的上一句**：it was being saved for the worst cases，而 These were not the worst cases；从头到尾没人告诉过她，她拿到的不是最轻的那一批。
 
 ---
 
 ### 第八处
 
-> **原句 8:** "Betsy touched two fingers to her throat, feeling the familiar outline of the angel through the fabric." "I'll stay."
+> **原句 8:** "Betsy touched two fingers to her throat, feeling the familiar outline of the angel through the fabric." "I’ll stay."
 
 **中文理解**：贝茜用两根手指碰了碰喉咙，隔着布料摸到那个熟悉的轮廓。她说我留下。
 
-**关键词**：touched two fingers to her throat / the familiar outline of the angel / through the fabric / I'll stay
+**关键词**：touched two fingers to her throat / the familiar outline of the angel / through the fabric / I’ll stay
 
 **为什么这样写**：familiar（熟悉的）outline 与 through the fabric 是一组搭配：看不见、摸得着，所以这个动作同时是两件事——确认东西还在，承认自己刚把它脱下来过。前面她把几条路一条条摆出来：回雅典去安慰人，或者留在这儿 risk a fate worse than death，或者干脆 just death；轮到回答时只用了三个词，前两条路连名字都没再提。摸的是喉咙不是心，是她这一整章唯一一次不说破的动作。
 

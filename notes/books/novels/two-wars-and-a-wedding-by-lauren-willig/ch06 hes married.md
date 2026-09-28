@@ -24,13 +24,13 @@ source_text: ch06
 
 ### 第一处
 
-> **原句 1:** "It's only in the new world that people marry for love."
+> **原句 1:** "It’s only in the new world that people marry for love."
 
 **中文理解**：只有在所谓的新大陆，人们才为了爱而结婚。
 
-**关键词**：It's only in the new world / people marry for love
+**关键词**：It’s only in the new world / people marry for love
 
-**为什么这样写**：It's only 里的 only 把话说得极窄——她不是说欧洲人不为爱结婚，而是说「为爱结婚」这件事本身是新大陆的特产。in the new world 一词在当时的语境里既指美国，也暗指一种自我标榜的天真。整句最短，却把两桩婚姻（一桩凑合的、一桩自己选的）判成了两种制度；说完这句她自己就笑场了，因为紧接着那句「我是证明规则的例外」把它当场作废。
+**为什么这样写**：It’s only 里的 only 把话说得极窄——她不是说欧洲人不为爱结婚，而是说「为爱结婚」这件事本身是新大陆的特产。in the new world 一词在当时的语境里既指美国，也暗指一种自我标榜的天真。整句最短，却把两桩婚姻（一桩凑合的、一桩自己选的）判成了两种制度；说完这句她自己就笑场了，因为紧接着那句「我是证明规则的例外」把它当场作废。
 
 **读者视角提示**：这与她哥哥嫂子那套「读书太多不配做女人」的评价是同一场争论的两面——那一场她没有机会回嘴。
 
@@ -52,13 +52,13 @@ source_text: ch06
 
 ### 第三处
 
-> **原句 3:** "But why should the loom have to be Penelope's? Isn't it just as important to find a loom that's just a loom?"
+> **原句 3:** "But why should the loom have to be Penelope’s? Isn’t it just as important to find a loom that’s just a loom?"
 
 **中文理解**：可为什么织机非得是珀涅洛普的那台？找出一台只是一台织机的织机，不也一样重要吗？
 
-**关键词**：why should the loom have to be / Penelope's / a loom that's just a loom
+**关键词**：why should the loom have to be / Penelope’s / a loom that’s just a loom
 
-**为什么这样写**：这是全章她唯一一次长篇陈述自己的学术主张，用一个反问（why should）开场，随即用一个自问自答的 isn't it 把论证合拢。两次 the loom 重复出现，第二次却加了两个限定——have to be（非得是）与 just a loom（只是一台）——头一句是要打破的框，后一句是要放回去的东西。同一个名词在两句里换了社会属性：神话里的织机和工坊里的织机。
+**为什么这样写**：这是全章她唯一一次长篇陈述自己的学术主张，用一个反问（why should）开场，随即用一个自问自答的 isn’t it 把论证合拢。两次 the loom 重复出现，第二次却加了两个限定——have to be（非得是）与 just a loom（只是一台）——头一句是要打破的框，后一句是要放回去的东西。同一个名词在两句里换了社会属性：神话里的织机和工坊里的织机。
 
 **读者视角提示**：她父亲当年想找的是「阿喀琉斯的盾牌、珀涅洛普织机的碎片」——她这句是在替父亲改写一个未竟的愿望。
 
@@ -80,11 +80,11 @@ source_text: ch06
 
 ### 第五处
 
-> **原句 5:** "No. I shouldn't want to marry anyone who didn't want me for anything but what I am."
+> **原句 5:** "No. I shouldn’t want to marry anyone who didn’t want me for anything but what I am."
 
 **中文理解**：不。我不该希望嫁给一个只是因为我本来的样子、而别无所图的人。
 
-**关键词**：I shouldn't want to marry anyone / didn't want me for / what I am
+**关键词**：I shouldn’t want to marry anyone / didn’t want me for / what I am
 
 **为什么这样写**：这是她对「你后悔吗」的回答，却先把问题改了口径：原问题问的是是否后悔，她回的是「我不该想要那样的人」——否定的是欲望，不是后悔。anything but what I am 里的 but 是全句的重心：不是「因为我是什么」，而是「除了我本来的样子之外没有别的理由」，她把「被当成什么」和「被当成」拆开。what I am 用的是 be 系而非 do 系，与他刚才那句「我喜欢你就是喜欢你本来的样子」同构。
 

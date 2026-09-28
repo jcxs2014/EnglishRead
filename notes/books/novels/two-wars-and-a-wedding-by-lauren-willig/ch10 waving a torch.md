@@ -24,13 +24,13 @@ source_text: ch10
 
 ### 第一处
 
-> **原句 1:** "I don't want to catch flies. I want to be treated with the basic professional courtesy that Richardson extends to the men."
+> **原句 1:** "I don’t want to catch flies. I want to be treated with the basic professional courtesy that Richardson extends to the men."
 
 **中文理解**：我不想去黏苍蝇。我要的是 Richardson 肯给男人的那种基本的职业礼遇。
 
-**关键词**：don't want to catch flies / treated with / basic professional courtesy / extends to the men
+**关键词**：don’t want to catch flies / treated with / basic professional courtesy / extends to the men
 
-**为什么这样写**：Ethel 刚劝她「别硬来，糖比醋黏得多」，她立刻用 catch flies（黏苍蝇）把这个比喻原封不动顶回去，却把整个建议否掉——她要的不是方法，是承认。I want 后面三个词构成一条渐进的诉求：courtesy（礼遇）是抽象的，professional（职业的）把它压回行规，extends to the men（给男人的那种）则把问题钉在具体的对比上。句末的定语从句把一句抱怨写成了举证。
+**为什么这样写**：Ethel 刚劝她「别硬来」，她反手拿糖醋那个比喻（catch more flies with honey than vinegar）顶了回去，却把整个建议否掉——她要的不是方法，是承认。I want 后面三个词构成一条渐进的诉求：courtesy（礼遇）是抽象的，professional（职业的）把它压回行规，extends to the men（给男人的那种）则把问题钉在具体的对比上。句末的定语从句把一句抱怨写成了举证。
 
 **读者视角提示**：这句之后 Ethel 说了真正要命的那句——你现在这样挤，也许替所有后来者把门关上了。
 
@@ -88,7 +88,7 @@ source_text: ch10
 
 **为什么这样写**：三个动词一路推到荒诞：shake off（甩开）、thrusting（横插）、like a chastity belt（像个贞操带）。自行车本是她最自在的坐骑，此刻被当成帘幕使，工具被临时征用成屏障，物件因此带上了情绪。最后那个比喻既好笑又刻薄——她不但要隔开他，还要宣告这层隔阂的正当性。
 
-**读者视角提示**：十分钟后她还是让他护送自己走回学院街，只是没让他扶着手臂——她怕的不是他碰她，是他碰她时她不再是淑女。
+**读者视角提示**：十分钟后她还是让他护送自己走回学院街——但真正让她松口的是他退开时说的「if you won’t take my escort, will you at least return yourself」；她自己也知道，他碰她时她就不再是淑女。
 
 ---
 
@@ -108,13 +108,13 @@ source_text: ch10
 
 ### 第七处
 
-> **原句 7:** "Her heart was made of sterner stuff, Betsy told herself. Iron. Or granite. Or something of the sort. Science hadn't been one of her better subjects."
+> **原句 7:** "Her heart was made of sterner stuff, Betsy told herself. Iron. Or granite. Or something of the sort. Science hadn’t been one of her better subjects."
 
 **中文理解**：她的心是更硬的材料做的，贝茜对自己说。铁。或者花岗岩。诸如此类。科学可不是她擅长的科目。
 
-**关键词**：made of sterner stuff / Iron. Or granite. / something of the sort / Science hadn't been one of her better subjects
+**关键词**：made of sterner stuff / Iron. Or granite. / something of the sort / Science hadn’t been one of her better subjects
 
-**为什么这样写**：句子被拆成四个短段，像心跳不齐时的四下断言。Iron 与 granite 是同一类硬物，or 把它们并列成一份自我安慰的清单；而最后一句用「科学」这个词把整份清单掀翻——她连自己这颗心是什么材料都不知道，还怎么谈得上知道对方是什么材料。hadn't been one of her better subjects 是全书的自嘲支点：她一生引以为傲的学问，在最要紧的场合毫无用处。
+**为什么这样写**：句子被拆成四个短段，像心跳不齐时的四下断言。Iron 与 granite 是同一类硬物，or 把它们并列成一份自我安慰的清单；而最后一句用「科学」这个词把整份清单掀翻——她连自己这颗心是什么材料都不知道，还怎么谈得上知道对方是什么材料。hadn’t been one of her better subjects 是全书的自嘲支点：她一生引以为傲的学问，在最要紧的场合毫无用处。
 
 **读者视角提示**：她随即准许他重新走进她的沙龙与她的生活，那份「铁与花岗岩」并没有撑多久。
 
@@ -128,7 +128,7 @@ source_text: ch10
 
 **关键词**：If I could / cure myself of / caring for you / I would
 
-**为什么这样写**：这是一个标准的条件句，却因为 cure（治愈）这个动词而彻底变了味——他不是在说爱，而像在说一种需要戒掉的毛病。两个虚拟式（could…would）把话说得极其郑重，I would 的空缺处是那份没能做到的自制。even if 之后那串清点式排比（你的幸福、你的安危、你的安全）把「在意」拆成可以逐条交出的东西，因而更像一份交心清单——他划出的界线，正是不去索取。
+**为什么这样写**：这是一个标准的条件句，却因为 cure（治愈）这个动词而彻底变了味——他不是在说爱，而像在说一种需要戒掉的毛病。两个虚拟式（could…would）把话说得极其郑重，I would 的空缺处是那份没能做到的自制。紧接着原文才续上 even if 那串清点式排比（你的幸福、你的安危、你的安全）——本块引语只到 I would 为止，那串排比在原文下一句，不在此块内。
 
 **读者视角提示**：这句话之后是全场唯一的静默——她发现整条街的喧闹都退远了，世上只剩他一个人。
 

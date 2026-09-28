@@ -114,7 +114,7 @@ source_text: ch13
 
 **关键词**：These men’s lives depend on you / You cannot fail
 
-**为什么这样写**：整章的最后一记命令，由一个刚说完「你考试不及格」不到两年的人说出。主语 these men 把「你」推到她够不着的地方：不是她做得好不好，而是别人的命在不在她手上。You cannot fail 是双重否定，却因为 cannot 而比 any imperative 更硬——它排除的是一个结果而不是一种行为。Miss Barton 说这句话时正握住她的双手，而她在整章里第一次被人当成一件可靠的工具。
+**为什么这样写**：整章的最后一记命令，说出它的人（Miss Barton）此刻并不知道，再过不久另一个人会对她说出近乎相反的一句（You have failed, Miss Hayes）。主语 these men 把「你」推到她够不着的地方：不是她做得好不好，而是别人的命在不在她手上。You cannot fail 是双重否定，却因为 cannot 而比 any imperative 更硬——它排除的是一个结果而不是一种行为。Miss Barton 说这句话时正握住她的双手，而她在整章里第一次被人当成一件可靠的工具。
 
 **读者视角提示**：同一章的更早处，她还在为 Captain Mills 看不见月光而崩溃；这两个时刻之间的距离，就是她这一夜走过的路。
 

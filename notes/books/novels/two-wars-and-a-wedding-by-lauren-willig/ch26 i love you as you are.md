@@ -10,7 +10,7 @@ source_text: ch26
 
 **一句话概括**：一八九八年七月十八日的 Hampton Roads，检疫官把补给船拦在船外，Betsy 当面把"你在给全船签死亡证明"说出口；补给还是靠小船一桶桶送了进来，同一天下午她收到那封四十个签名的感谢信，念到一半念不下去。七月廿一日的 Hoffman Island 铁丝网外，他把自己的本名一个字一个字报出来、把那句"我爱的就是你现在的样子"说完，她却要他走。
 
-**情感弧线位置**：升到最热，然后被一句请求按住。这一章前半段是全书写得最暖的地方——凯旋的排场、有人替她签名、有人替她递手帕；后半段一寸一寸退回去，退到 Could you go away now, please 为止。两次"我爱你"都在这一章，一次用在她要他走之前，一次被挡在她自己那句 Don't 之后。
+**情感弧线位置**：升到最热，然后被一句请求按住。这一章前半段是全书写得最暖的地方——凯旋的排场、有人替她签名、有人替她递手帕；后半段一寸一寸退回去，退到 Could you go away now, please 为止。两次"我爱你"都在这一章，一次用在她要他走之前，一次被挡在她自己那句 Don’t 之后。
 
 **Tropes 兑现/反转**：「英雄凯旋被爱」的常套被推迟了半步——这一章凯旋的是一封信，不是人；常套里本该出现的那句"我愿意"始终没有出现，出现的只有请他走。被掀翻的倒是那个更旧的套路：坏女孩的前情该由她自己宣判。她宣了，他不接；她说自己是 a vase，他说不。
 
@@ -32,7 +32,7 @@ source_text: ch26
 
 **为什么这样写**：一句话里有三层套嵌：The undersigned（下列签名者）作主语，中间插进两个修饰它的名词串，full of sick and wounded men from the Santiago campaign 又回头去修饰这艘船。中间的 have observed with admiration 后面不接宾语，而接一个带定冠词的名词 manner（这样的方式），再用 in which you have cared 把"她怎么照顾这些人"焊进那一句里——于是"我们看见了什么"和"她做了什么"被压成同一个名词结构。heroic 与 self-sacrificing 并列，是公文里最省事也最难反驳的一组形容词。
 
-**读者视角提示**：这封信在这一章后段会被她当众念出来，念到一半声音就散了；这一段是后文所有争议的起点。
+**读者视角提示**：这封信在这一章后段会被她**念给 Holt 一人听**（他只说了句 Just read it），念到一半声音就散了；这一段是后文所有争议的起点。
 
 ---
 
@@ -72,9 +72,9 @@ source_text: ch26
 
 **关键词**：If we’re to be lepers / at least / we’re to be well-fed lepers
 
-**为什么这样写**：前半句用被动式的 we're to be（我们将成为），把自己交给别人下的定义；后半句把同一个 be 补语从 lepers 换成 well-fed lepers，只在中间插一个 at least 和一个复合形容词。词还是那个词，格律没变，意思却从"认罪"翻成了"抬价"；这就是英语里最省事也最狠的一招——不换结构，只换定语。
+**为什么这样写**：前半句用被动式的 we’re to be（我们将成为），把自己交给别人下的定义；后半句把同一个 be 补语从 lepers 换成 well-fed lepers，只在中间插一个 at least 和一个复合形容词。词还是那个词，格律没变，意思却从"认罪"翻成了"抬价"；这就是英语里最省事也最狠的一招——不换结构，只换定语。
 
-**读者视角提示**：她说话时正背对着他、把手肘扎进一箱 Armour's beef extract 里；这句玩笑的底子是刚刚听见的那句 Burned. Siboney?
+**读者视角提示**：这句说完之后她才背过身去、把手肘扎进一箱 Armour’s beef extract 里；这句玩笑的底子是刚刚听见的那句 Burned. Siboney?
 
 ---
 
@@ -100,7 +100,7 @@ source_text: ch26
 
 **关键词**：All I ever wanted to do is excavate / and the American School wouldn’t let me do that
 
-**为什么这样写**：All I ever wanted to do is ... 里 all 与 ever 把时间摊成"一直以来"，而 is 后面直接跟动词原形，不带 to——这句里"想做"和"是"是同一个说法，破折号后的 the American School wouldn't let me do that 则用一个过去时把"想做"改写成"没做成"。前后两个动词一个不定式、一个原形，语法上像同一件事的两端，中间隔着的却是几年的人生。
+**为什么这样写**：All I ever wanted to do is ... 里 all 与 ever 把时间摊成"一直以来"，而 is 后面直接跟动词原形，不带 to——这句里"想做"和"是"是同一个说法，破折号后的 the American School wouldn’t let me do that 则用一个过去时把"想做"改写成"没做成"。前后两个动词一个不定式、一个原形，语法上像同一件事的两端，中间隔着的却是几年的人生。
 
 **读者视角提示**：他回的是 Then find someone who will；这句话直接来自更早那位夫人给她的忠告。
 
@@ -108,7 +108,7 @@ source_text: ch26
 
 ### 第七处
 
-> **原句 7:** "I’m damaged goods. Not just in the eyes of the world. Inside. In here. If I were a vase, I'd be in a thousand pieces."
+> **原句 7:** "I’m damaged goods. Not just in the eyes of the world. Inside. In here. If I were a vase, I’d be in a thousand pieces."
 
 **中文理解**：我是残次品。不只是在别人眼里，是内里，是这里。要是我是个花瓶，我已经碎成一千片了。
 
@@ -116,7 +116,7 @@ source_text: ch26
 
 **为什么这样写**：三个短句都用同一个骨架把话往下压：damaged goods（商品级的说法）→ Inside（反身）→ In here（指自己的胸口）。前两句是判断，第三句突然换成一个假设句：If I were a vase 用的还是虚拟式，于是这个比喻说的是"我如果是那样，就早碎了"，等于承认自己现在还没碎、只是裂着。a thousand pieces 是全句唯一的具体数字，用在唯一一句比喻上。
 
-**读者视角提示**：他回的是 You're not a vase；紧接着又问她 Isn't that what you do——把碎掉的东西重新拼起来，本来就是她的行当。
+**读者视角提示**：他回的是 You’re not a vase；紧接着又问她 Isn’t that what you do——把碎掉的东西重新拼起来，本来就是她的行当。
 
 ---
 

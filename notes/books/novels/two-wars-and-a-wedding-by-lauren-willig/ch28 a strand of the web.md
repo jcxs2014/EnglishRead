@@ -8,7 +8,7 @@ source_text: ch28
 
 ## 本章导航
 
-**一句话概括**：一八九八年七月三十日，中央公园：Betsy 拿着一份把她写成「塞内卡号的天使」的头版报纸，撞见穿得一丝不苟、正在用拐杖捞小船的 Holt；他给了她人生第一次独家专访，代价是承认自己已经不再叫 Hold 'Em Holt（真名 Ambrose Rutherford IV，哈佛法学院即将毕业）；他还绕过新闻与院方，推动总统召见她，把她手里那份调查变成正式的听证——而他索取的价钱，是他此生第一次向父亲开口。
+**一句话概括**：一八九八年七月三十日，中央公园：Betsy 拿着一份把她写成「塞内卡号的天使」的头版报纸，撞见穿得一丝不苟、正在用拐杖捞小船的 Holt；他给了她人生第一次独家专访，代价是承认自己已经不再叫 Hold ’Em Holt（真名 Ambrose Rutherford IV，哈佛法学院即将毕业）；他还绕过新闻与院方，推动总统召见她，把她手里那份调查变成正式的听证——而他索取的价钱，是他此生第一次向父亲开口。
 
 **情感弧线位置**：高潮。希腊线全部收束在这里：他当年那句「我不敢承认我爱的是你的头脑」，在这一章由她本人兑现为「你在背后替我做事」。
 
@@ -38,7 +38,7 @@ source_text: ch28
 
 ### 第二处
 
-> **原句 2:** "I don't. This is my first, last, and only."
+> **原句 2:** "I don’t. This is my first, last, and only."
 
 **中文理解**：我不接受采访。这是我这辈子第一次、最后一次，也是唯一一次。
 
@@ -52,7 +52,7 @@ source_text: ch28
 
 ### 第三处
 
-> **原句 3:** "And just like that, Betsy couldn't remember what she'd meant to say, never mind that she'd been rehearsing it for the entire walk over."
+> **原句 3:** "And just like that, Betsy couldn’t remember what she’d meant to say, never mind that she’d been rehearsing it for the entire walk over."
 
 **中文理解**：就这样，眼看着她把排练了整条路要说的话，忘得一干二净。
 
@@ -66,7 +66,7 @@ source_text: ch28
 
 ### 第四处
 
-> **原句 4:** "They didn't fare as well as we did. Five men died."
+> **原句 4:** "They didn’t fare as well as we did. Five men died."
 
 **中文理解**：他们的下场没我们好。五个人死了。
 
@@ -74,19 +74,19 @@ source_text: ch28
 
 **为什么这样写**：前一句用比较级收得极平稳，后一句忽然只用三个词落到一个整数上，节奏断在最强处。Five men died 之所以重，不在于数字本身，而在于它是这一段对话里第一句不带修辞的话——此前他一直在用解释性的长句替她把世界讲圆。只有在这里，他不再替任何人辩护。They 与 we 的对照也不着痕迹：那边五个人，这边她一个没少。
 
-**读者视角提示**：Concho 号是把伤员运回纽约的运输船，桑塞卡号的姊妹船；她之所以能被写上头版，就是因为两艘船的对比。
+**读者视角提示**：Concho 号是把伤员运回纽约的运输船（原文只说 Like the Seneca, it had been a transport…，未称姊妹船）；她之所以能被写上头版，就是因为两艘船的对比。
 
 ---
 
 ### 第五处
 
-> **原句 5:** "'Because you were right,' Holt said quietly. 'Would I rather crawl naked over ground glass than ask my father for anything?"
+> **原句 5:** "Because you were right," Holt said quietly. "Would I rather crawl naked over ground glass than ask my father for anything?"
 
 **中文理解**：「因为你说得对，」霍尔特轻声说。「要我去问我父亲要东西，我是不是宁愿赤身裸体爬过碎玻璃？」
 
 **关键词**：Because you were right / crawl naked over ground glass / ask my father for anything
 
-**为什么这样写**：他先用一句承认把她垫高，紧接着用一个荒诞到滑稽的比喻把这份承认压回苦处。crawl naked over ground glass 是极端的示弱，而 it doesn't matter 式的从句结构把「宁愿」和「但是」连在一起：极致的抗拒与极致的 necessity 出现在同一句里。He hated him 与 He loved him 并列，中间用 and 连接，不加转折——爱恨同源才是这句真正的解释。
+**为什么这样写**：他先用一句承认把她垫高，紧接着用一个荒诞到滑稽的比喻把这份承认压回苦处。crawl naked over ground glass 是极端的示弱；后半句是一个反问（Would I rather…），把「抗拒到极点」与「所以还是开口了」压进同一句——极致的抗拒与极致的 necessity 就此并置。
 
 **读者视角提示**：她说不出话，因为这句话正是她自己在希腊说过的那句，被原封不动地还给了她。
 
@@ -94,13 +94,13 @@ source_text: ch28
 
 ### 第六处
 
-> **原句 6:** "'You got everyone through alive,' said Holt quietly."
+> **原句 6:** "You got everyone through alive," said Holt quietly.
 
 **中文理解**：「是你把每一个人都活着带出来的，」霍尔特轻声说。
 
 **关键词**：You got everyone through alive / said Holt quietly
 
-**为什么这样写**：全句只有一个动词短语加一个状语，却把整段功劳从船长、医生、委员会手里挪到了她一个人身上。quietly 在这一章出现多次，每次都出现在他要说最重的实话之前，像一个提醒：接下来的话请认真听。every single one 由 everyone 与 all 双重强调，动词 got through（撑到头）选得极准——不是救，是熬。
+**为什么这样写**：全句只有一个动词短语加一个状语，却把整段功劳从船长、医生、委员会手里挪到了她一个人身上。quietly 在这一章出现多次，每次都出现在他要说最重的实话之前，像一个提醒：接下来的话请认真听。动词 got through（撑到头）选得极准——不是救，是熬。
 
 **读者视角提示**：这句话之后，桑塞卡号的功过第一次从「船上发生了什么」转成「谁做了决定」；而总统要见她的理由，也正在于此。
 
@@ -108,13 +108,13 @@ source_text: ch28
 
 ### 第七处
 
-> **原句 7:** "Isn't that what you told me to do? To go off and fight for justice and be a voice for the voiceless?"
+> **原句 7:** "Isn’t that what you told me to do? To go off and fight for justice and be a voice for the voiceless?"
 
 **中文理解**：这不正是你叫我做的吗？去为正义而战，做那些没有声音的人的声音？
 
 **关键词**：Isn’t that what you told me to do / fight for justice / be a voice for the voiceless
 
-**为什么这样写**：用她的原话回答她，因此这句话既是对她的认可，也是一种不得不做的还债。be a voice for the voiceless 里那个 the voiceless 带定冠词，指向一个他亲历过的具体群体，而不是泛泛的弱者。Isn't that a 反问开头，把整句压成「你说过的话，你自己没做到」——这不是指责，是服从。
+**为什么这样写**：用她的原话回答她，因此这句话既是对她的认可，也是一种不得不做的还债。be a voice for the voiceless 里那个 the voiceless 带定冠词，指向一个他亲历过的具体群体，而不是泛泛的弱者。Isn’t that a 反问开头，把整句压成「你说过的话，你自己没做到」——这不是指责，是服从。
 
 **读者视角提示**：他随即补了一句「当然你不是没声音的人，你的声音抵得上一整个男声合唱团」，把她从被代言的位置里放了出来。
 
@@ -122,13 +122,13 @@ source_text: ch28
 
 ### 第八处
 
-> **原句 8:** "How can you expect him to read your mind when you don't know it yourself?"
+> **原句 8:** "How can you expect him to read your mind when you don’t know it yourself?"
 
 **中文理解**：你自己都还不知道自己想要什么，又怎么能指望他读懂你的心思？
 
 **关键词**：How can you expect him / to read your mind / when you don’t know it yourself
 
-**为什么这样写**：这是一句双重否定式的反问：先否定「他能读懂」，再否定「你自己有心思可读」。两个否定叠在一句里，力量比任何正面指责都大。your mind 与 yourself 交替使用，主语始终在「你」身上——整句最锋利的地方是结尾那半句：她不只是在等他回头，她连自己要不要他回头都没决定。Kit 说这句话时她正在收拾行李，因此它同时是一次外部视角的戳破。
+**为什么这样写**：这是一句双重否定式的反问：先否定「他能读懂」，再否定「你自己有心思可读」。两个否定叠在一句里，力量比正面指责大。（末句 when you don’t know it yourself 之后，Kit 那句话是在**她回房之后**说的，与「收拾行李」无关——本章全章无 pack/luggage 一类词）your mind 与 yourself 交替使用，主语始终在「你」身上——整句最锋利的地方是结尾那半句：她不只是在等他回头，她连自己要不要他回头都没决定。Kit 说这句话时她正在收拾行李，因此它同时是一次外部视角的戳破。
 
 **读者视角提示**：紧接着她用一句「这样对大家都好」说服自己；可她自己也承认，她在电话里听见那句「代总统向您问候」时，还是忍不住去戳了一下。
 

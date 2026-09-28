@@ -24,11 +24,11 @@ source_text: ch12
 
 ### 第一处
 
-> **原句 1:** "The world feels like it's spinning around me faster and faster and I need you and your calm good sense to keep me from spinning with it."
+> **原句 1:** "The world feels like it’s spinning around me faster and faster and I need you and your calm good sense to keep me from spinning with it."
 
 **中文理解**：世界在我眼前转得越来越快，我需要你的冷静理智，别让我跟着一起转。
 
-**关键词**：The world feels like it's spinning / faster and faster / your calm good sense / keep me from spinning
+**关键词**：The world feels like it’s spinning / faster and faster / your calm good sense / keep me from spinning
 
 **为什么这样写**：spinning 一词在句中出现两次，第二次被两个否定词（keep…from）拦下，构成一个自我否定的回环。faster and faster 用最平的重复写加速，不靠任何比喻。calm good sense 三个形容词排成阶梯，把 Ava 这个人整个压成一种功能——朋友不是被思念的对象，是用来刹车的。整句是一封明信片式的报喜信，读者却听出写信人正在失去重心。
 
@@ -46,7 +46,7 @@ source_text: ch12
 
 **为什么这样写**：全句只有六个词，用陈述句下断言，不带任何情绪词。Ava 拒绝使用他的名字而用全称（她连称呼都不肯给），把这个人压缩成一个身份标签；a married man 里的 a 没有特指，也没有形容词——在她的世界里，这一条已经足够盖棺。前面她那句「你是该多花点时间跟他在一起吗」被装无辜地挡回去，而这一句就是挡回去的东西。
 
-**读者视角提示**：紧接着她说了一句更实际的：你们要是全被关进闺房去，我倒乐见。
+**读者视角提示**：紧接着 **Betsy**（不是 Ava）接了一句更实际的：你们要是全被关进闺房去，我倒乐见。
 
 ---
 
@@ -58,15 +58,15 @@ source_text: ch12
 
 **关键词**：You spread your wings / too far / they burn
 
-**为什么这样写**：一句话里两次 wings，先当动词用（张开），再当名词用（翅膀本身）；主语从 you 换成 they，形成一次不易察觉的主语跳转。burn 在这里是灼伤而不是起飞，因此这个比喻带着警告的重量：翅膀是能烧的，因为它是张开的、露在外面的。整句只有八个词，是 Ava 全书最漂亮的一次反击。
+**为什么这样写**：一句话里 wings 只出现一次、只作名词（spread 的宾语）；真正的转换在主语与代词——you（你）→ they（它们），主语从人跳到被烧的翅膀。burn 在这里是灼伤而不是起飞，因此这个比喻带着警告的重量：翅膀是能烧的，因为它是张开的、露在外面的。整句只有八个词，是 Ava 全书最漂亮的一次反击。
 
-**读者视角提示**：Betsy 的回话是四个字——「只怕翅膀是蜡做的」；那是 Charles 在德尔斐用过的比喻（tête de cire），被她在半秒钟内接住了。
+**读者视角提示**：Betsy 的回话是四个字——「只怕翅膀是蜡做的」；那是 Charles 在**赫利孔山顶**用过的比喻（tête de cire，蜡做的头），被她在半秒钟内接住了。
 
 ---
 
 ### 第四处
 
-> **原句 4:** "Only if they're made of wax," retorted Betsy.
+> **原句 4:** "Only if they’re made of wax," retorted Betsy.
 
 **中文理解**：只怕它们是蜡做的，贝茜顶了回去。
 
@@ -86,7 +86,7 @@ source_text: ch12
 
 **关键词**：If Lafayette had thought that / we might still be a colony
 
-**为什么这样写**：一句反事实假设（if…might）把两百年的美国历史压成一句玩笑。这不是历史陈述，是她当场造出来的反证——你说这不是我们的战争？那就假设那位法国人也这么想试试看。might（可能）让语气保持礼貌，still（仍旧）才是刺——这个副词暗示局面并未走远。Lavalette 这个名字是全句的重心，三个音节一出，整套抽象的「这不是我们的事业」立刻落地。
+**为什么这样写**：一句反事实假设（if…might）把两百年的美国历史压成一句玩笑。这不是历史陈述，是她当场造出来的反证——你说这不是我们的战争？那就假设那位法国人也这么想试试看。might（可能）让语气保持礼貌，still（仍旧）才是刺——这个副词暗示局面并未走远。Lafayette 这个名字是全句的重心，三个音节一出，整套抽象的「这不是我们的事业」立刻落地。
 
 **读者视角提示**：Ava 的反驳更实际：拉法耶特是个军事指挥官，你打算怎么跟人干？背荷马史诗背到他们求饶吗？
 
@@ -94,15 +94,15 @@ source_text: ch12
 
 ### 第六处
 
-> **原句 6:** "No. I wasn't even there when they discovered it."
+> **原句 6:** "No. I wasn’t even there when they discovered it."
 
 **中文理解**：不。我发现它的时候根本不在场。
 
-**关键词**：No / I wasn't even there / when they discovered it
+**关键词**：No / I wasn’t even there / when they discovered it
 
 **为什么这样写**：两个词。No 之后是全文最短的一次拆穿，把她父亲讲了一辈子、她也当成亲历的那个故事，连根拔起。even（连）承担全部的伤害：连在场都没有，何况参与。it 在这里没有名字——她不说是哪一件宝物，因为说出来就等于承认自己认错了。
 
-**读者视角提示**：紧接着那位夫人说：但这并不让那批发现失去价值，只是少了一点……浪漫。
+**读者视角提示**：紧接着那位夫人说：my husband could never resist spinning a good story, whether it was true or not——好故事不分真假，这是她给这批发现定的性。
 
 ---
 
@@ -112,7 +112,7 @@ source_text: ch12
 
 **中文理解**：在真实生活里，他们大多数恐怕受不了一个海伦——但理论上海伦这主意他们都喜欢。
 
-**关键词**：In real life / couldn't abide a Helen / they all like the idea / in theory
+**关键词**：In real life / couldn’t abide a Helen / they all like the idea / in theory
 
 **为什么这样写**：a Helen 带不定冠词，是全句的机锋所在：真实里没有具体的海伦，只有一个概念。the idea of her in theory 与 In real life 构成一组死对仗，一个管实际、一个管设想，而人们恰倒向后者。probably（大概）让这句留了余地，她不愿把话说绝——毕竟她自己就是那个把理论当成实践的人。
 

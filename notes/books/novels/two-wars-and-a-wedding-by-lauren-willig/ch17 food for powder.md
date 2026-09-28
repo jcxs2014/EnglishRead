@@ -46,31 +46,31 @@ source_text: ch17
 
 **为什么这样写**：两个分句一组落差：先给规格（full name），再撤规格（you）。中间那个 Or more frequently 把偶发降级成常态，一句话写完一个家里的距离。you 加了引号——在这个家里，「你」不是称呼，是点名；全句没有一个形容词，也没有一个抱怨。
 
-**读者视角提示**：他自己说起这个姓时却是玩笑：What sort of name is Holt, anyway? It's halfway between halt and hilt。
+**读者视角提示**：他自己说起这个姓时却是玩笑：What sort of name is Holt, anyway? It’s halfway between halt and hilt。
 
 ---
 
 ### 第三处
 
-> **原句 3:** "It's not a guppy, it's a halibut," protested the patient on the next cot in wounded tones. "They all look the same on a plate," Miss Hayes shot back.
+> **原句 3:** "It’s not a guppy, it’s a halibut," protested the patient on the next cot in wounded tones. "They all look the same on a plate," Miss Hayes shot back.
 
 **中文理解**：「那不是小金鱼，是大比目鱼」——邻床的病人委屈地抗议。「在盘子上都一个样」，赫斯小姐当场顶了回去。
 
-**关键词**：It's not a guppy, it's a halibut / protested / in wounded tones / shot back
+**关键词**：It’s not a guppy, it’s a halibut / protested / in wounded tones / shot back
 
 **为什么这样写**：两个人用的语法一模一样（先否定、再纠正的两段式），所以回击显得又快又准；protested 与 shot back 是一对动作副词，一个委屈一个冲，句子两端的姿态全在里面。in wounded tones 故意把 wounded 用在语气上：病人是真的疼，也是真的拿这个疼来讨价还价。话题轻到可笑（争一条鱼该归谁），而在一间隔着几十个床位的病房里，这恰恰是最正常的反应。
 
-**读者视角提示**：她管病人的手法是一套自己的：她告诉另一个人 He thinks he's a steamboat on the Mississippi River。
+**读者视角提示**：她管病人的手法是一套自己的：她告诉另一个人 He thinks he’s a steamboat on the Mississippi River。
 
 ---
 
 ### 第四处
 
-> **原句 4:** "There's no need to be missish, Private Holt. I've seen far worse. There. All done." She pushed herself to her feet, then looked back down, a lock of fair hair falling out of her cap. "What sort of name is Holt, anyway? It's halfway between halt and hilt."
+> **原句 4:** "There’s no need to be missish, Private Holt. I’ve seen far worse. There. All done." She pushed herself to her feet, then looked back down, a lock of fair hair falling out of her cap. "What sort of name is Holt, anyway? It’s halfway between halt and hilt."
 
 **中文理解**：「别扭捏了，霍特列兵。我见过的比你这个糟得多。好了。包完了。」她站起身，又低头看他，一缕金发从帽子里滑出来。「话说回来，Holt 是个什么姓？一半像 halt，一半像 hilt。」
 
-**关键词**：There's no need to be missish / I've seen far worse / a lock of fair hair falling out of her cap / halfway between halt and hilt
+**关键词**：There’s no need to be missish / I’ve seen far worse / a lock of fair hair falling out of her cap / halfway between halt and hilt
 
 **为什么这样写**：missish（扭捏）是对他抓被子那一下的评价，一个词就把羞耻说成了性格。中间插了一个动作——帽子没戴好，头发掉出来，却没人去扶；紧接着是一句毫不相干的话，把尴尬拐成玩笑。halt 与 hilt 念起来几乎一样，作者先笑了，听的人才反应过来。她问的是姓；他答的却是母姓，而这个答案要到下一段才落下来。
 
@@ -80,7 +80,7 @@ source_text: ch17
 
 ### 第五处
 
-> **原句 5:** "He'd painted a world in which the reality never matched the ideal. But it was the ideal one came away remembering, the dream of it, not the flawed execution, the chaos and shame and loss."
+> **原句 5:** "He’d painted a world in which the reality never matched the ideal. But it was the ideal one came away remembering, the dream of it, not the flawed execution, the chaos and shame and loss."
 
 **中文理解**：他画出的那个世界里，现实从来没有对上理想。可人带走的偏偏是那个理想，是关于它的那场梦，而不是那个做砸了的执行、混乱、羞耻和损失。
 
@@ -88,7 +88,7 @@ source_text: ch17
 
 **为什么这样写**：前半句是双重否定的事实判断，后半句用强调句式把这个事实推翻成一条记忆的规律。两句都是判断，可第二句的主语从世界换成了人。one came away remembering 后面挂三个并置（the dream of it / not the flawed execution / the chaos and shame and loss），把记住什么与丢掉什么列成一张账单；整段没有一个人名、一个地名，也没有一处画面。
 
-**读者视角提示**：他心里那句 for 一两秒的版本是另一张画：Two armies squaring off across a field and may the best man win。
+**读者视角提示**：他心里的那版画是另一张：Two armies squaring off across a field and may the best man win。
 
 ---
 
@@ -102,21 +102,21 @@ source_text: ch17
 
 **为什么这样写**：四个字是他刚讲完的一大段的标题——黄色气球、路上一列接一列的队伍、送到嘴边的水、mown down——全被收进四个字里。murmured 这个动词规定了音量：她不敢说响，因为她刚说完的是一整个战场的死。Just（不过是）给整句下毒，前面那些有名有姓的死人，在上面就是几行字。
 
-**读者视角提示**：她听的是 Colonel Roosevelt had to buy us beans out of his own pocket；紧接着他又补上，Did you know Shafter didn't even come to the front with us?
+**读者视角提示**：她听的是 Colonel Roosevelt had to buy us beans out of his own pocket；紧接着他又补上，Did you know Shafter didn’t even come to the front with us?
 
 ---
 
 ### 第七处
 
-> **原句 7:** "Yes. I've seen it." She hesitated a moment, before looking him squarely in the eye. "I was at Vólos when the Greeks were routed at Larissa. And then again when they were routed at Velestinon."
+> **原句 7:** "Yes. I’ve seen it." She hesitated a moment, before looking him squarely in the eye. "I was at Vólos when the Greeks were routed at Larissa. And then again when they were routed at Velestinon."
 
 **中文理解**：「见过。」她迟疑了一下，才抬眼直视他。「希腊人被打散在 Larissa 的时候，我就在 Vólos。第二次是在 Velestinon。」
 
-**关键词**：Yes. I've seen it / hesitated a moment / looking him squarely in the eye / routed at Larissa / routed at Velestinon
+**关键词**：Yes. I’ve seen it / hesitated a moment / looking him squarely in the eye / routed at Larissa / routed at Velestinon
 
 **为什么这样写**：Yes 一词打头，后面三个词就承认完毕——她先认，再解释，次序和常理相反。hesitated a moment 被放在 looking him squarely in the eye 之前：她先犹豫，才敢直视。routed 重复两次而地名不同，两个地名压在一起，把整场希腊战争折成一张可数的清单；她记住的不是战争，是地方。
 
-**读者视角提示**：两个人都没有再往下说战况；她只补了一句 The crown prince's chief of staff was better known for his ability to lead cotillions than to lead troops。
+**读者视角提示**：两个人都没有再往下说战况；她只补了一句 The crown prince’s chief of staff was better known for his ability to lead cotillions than to lead troops。
 
 ---
 
@@ -130,7 +130,7 @@ source_text: ch17
 
 **为什么这样写**：整段只有 lives 与 archaeology 两个抽象的承重词，其余全是具体到扎手的画面：洗衣、织机、岩石。两个专有名词不加解释地砸下来，因为书里所有人都在读荷马。破折号后面那句 the sort of people who got trampled 把主角换成了被踩的人——这不是她的原创，而是她在替荷马做一件荷马没做的事。结尾的对照（not for treasures but for vanished lives）把一门学科的目的一整个翻了过来。
 
-**读者视角提示**：她说完立刻收住：I was foolish. And arrogant. And that's the end of it。
+**读者视角提示**：她说完立刻收住：I was foolish. And arrogant. And that’s the end of it。
 
 ---
 

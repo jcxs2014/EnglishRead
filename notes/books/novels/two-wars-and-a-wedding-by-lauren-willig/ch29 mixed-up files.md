@@ -24,7 +24,7 @@ source_text: ch29
 
 ### 第一处
 
-> **原句 1:** "Don't think I've forgiven you for that nauseating article; I mean to make you pay for that for the next decade at least and possibly longer. You can start by being my bridesmaid."
+> **原句 1:** "Don’t think I’ve forgiven you for that nauseating article; I mean to make you pay for that for the next decade at least and possibly longer. You can start by being my bridesmaid."
 
 **中文理解**：别以为我原谅了你那篇恶心的报道；我打算为此让你还债，至少接下来十年，也许更久。你可以从当我的伴娘开始还。
 
@@ -38,7 +38,7 @@ source_text: ch29
 
 ### 第二处
 
-> **原句 2:** "I'm not entirely sure who proposed to whom. Let us just say it was a matter of mutual agreement."
+> **原句 2:** "I’m not entirely sure who proposed to whom. Let us just say it was a matter of mutual agreement."
 
 **中文理解**：我还真说不准是谁向谁求婚的。我们就说，这是双方达成的一致吧。
 
@@ -46,13 +46,13 @@ source_text: ch29
 
 **为什么这样写**：who proposed to whom 把主语宾语整个对调，语法上的不确定就是事实上的不确定；她不肯把这桩婚事叙述成一个男人向一个女人求婚的故事。not entirely sure 是她全书一贯的保留。a matter of mutual agreement（双方达成的一致）是典型的法条语言，出现在求婚话题上格外刻薄——她把他比作一份需要双方签字的合同。
 
-**读者视角提示**：她转头就写，他父亲因为听说儿子「假冒法外之徒混了四年」而中风——她把父亲的病史当成婚讯的一部分来报告。
+**读者视角提示**：她转头就写，他父亲中风，而原文明写「不确定」是听见儿子假冒法外之徒混了四年、还是娶了个女大学生所致——她把这段留了两种可能的病史当成婚讯的一部分来报告。
 
 ---
 
 ### 第三处
 
-> **原句 3:** "Holt's father will not be in attendance."
+> **原句 3:** "Holt’s father will not be in attendance."
 
 **中文理解**：霍尔特的父亲不会出席。
 
@@ -60,7 +60,7 @@ source_text: ch29
 
 **为什么这样写**：全句是一个否定的主谓结构，用的是婚礼请柬的套语（in attendance，出席），把一场家族决裂压缩成公文级的通知。will not be 与整段那些「我打算」「他宣称」的口语体形成硬对照，是全书最冷的一句。她随后才解释原因（中风，以及听见儿子娶了位女大学生），而把解释放在通知之后，恰恰是报纸的写法。
 
-**读者视角提示**：紧跟其后她说明要多请几位霍尔特的姐姐——他这些年用力最多的地方，仍是绕开父亲。
+**读者视角提示**：前一段她已说明要多请霍尔特的姐姐（这样安排婚礼时他就不必与父亲同席）；这一段补的是父亲本人不出席——他这些年用力最多的地方，仍是绕开父亲。
 
 ---
 

@@ -114,9 +114,9 @@ source_text: ch21
 
 **关键词**：That’s not the Relief / There’s been some mistake / We were meant to be boarding the Relief
 
-**为什么这样写**：一句里 Relief 出现两次，第二次前面多出 meant to be——"本该发生的事"与"眼前的事实"被摆成了一组对仗。There's been some mistake 用被动，把责任推给一个看不见的机构；这一整章她对抗的正是这种东西：命令自上而下，人只负责执行。
+**为什么这样写**：一句里 Relief 出现两次，第二次前面多出 meant to be——"本该发生的事"与"眼前的事实"被摆成了一组对仗。There’s been some mistake 用被动，把责任推给一个看不见的机构；这一整章她对抗的正是这种东西：命令自上而下，人只负责执行。
 
-**读者视角提示**：对面递回来的解释是"It's only a three-day sail to New York"，而"三天"这个词随后在她心里反复出现。
+**读者视角提示**：对面递回来的解释是"It’s only a three-day sail to New York"，而"三天"这个词随后在她心里反复出现。
 
 ---
 
@@ -128,7 +128,7 @@ source_text: ch21
 
 **关键词**：It will all be all right / I’m going to nurse you myself / we’re all going to make it home safe
 
-**为什么这样写**：all 在这一段出现两次，第二次被她挪到主语里（we're all going to），于是承诺从"事情会好"扩大成"我们都会到"。myself 这个反身代词把责任整个按回自己身上；safe 选得毫不含糊——她没说谁会活下来，只说都到家。
+**为什么这样写**：all 在这一段出现两次，第二次被她挪到主语里（we’re all going to），于是承诺从"事情会好"扩大成"我们都会到"。myself 这个反身代词把责任整个按回自己身上；safe 选得毫不含糊——她没说谁会活下来，只说都到家。
 
 **读者视角提示**：她抱着一袋从医院仓库搜刮来的东西上船：Armour’s beef extract, malted milk, oatmeal, bandages, and an extra thermometer, just in case——而这艘船连医院船的边都不沾。
 

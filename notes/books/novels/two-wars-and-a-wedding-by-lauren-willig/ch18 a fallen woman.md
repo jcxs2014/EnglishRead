@@ -12,7 +12,7 @@ source_text: ch18
 
 **情感弧线位置**：反弹。本章从最低处起跳：难以入口的澡水、too rich 的点心、六个她数得出来的死人；到末尾身体已经横了下去。中段的转折点不是告状成功（_it would, of course, be noted_），而是他那句 Perhaps it is safer not to know——她听懂了那是在劝她别问。
 
-**Tropes 兑现/反转**：**「女英雄衣锦还乡」被反写**——她回到的不是家，是一份没人受理的状子；换上最贵的裙子是 Battle armor, just of a different sort。**「贵公子的下午茶」被拆**——他的房间是 bel-étage，墙上是他家的祖先，而他对希腊的溃败只肯给一个词：A rather awkward little squabble。**「浪子回头」被当场拒绝**——他说 I will not ruin you，她答 I've decided to ruin myself。**「蜡做的翅膀」母题回收**——Am I melting your head of wax? 与 Icarus 一起把警告和纵容绑在同一段里。
+**Tropes 兑现/反转**：**「女英雄衣锦还乡」被反写**——她回到的不是家，是一份没人受理的状子；换上最贵的裙子是 Battle armor, just of a different sort。**「贵公子的下午茶」被拆**——他的房间是 bel-étage，墙上是他家的祖先，而他对希腊的溃败只肯给一个词：A rather awkward little squabble。**「浪子回头」被当场拒绝**——他说 I will not ruin you，她答 I’ve decided to ruin myself。**「蜡做的翅膀」母题回收**——Am I melting your head of wax? 与 Icarus 一起把警告和纵容绑在同一段里。
 
 **人物弧线**：她从「用写信维持一段友谊」走到「当着他的面把话说完」；从「怕弄脏他的 Athens」走到「把他也拖进同一场灾难里」；从「我来这里是为了赎罪」走到「我早就知道这样不对，还是这样做了」。她拒绝的从来不是他的道德，是他的旁观。
 
@@ -24,11 +24,11 @@ source_text: ch18
 
 ### 第一处
 
-> **原句 1:** "One can't imagine the Greeks losing to the Turks. The Greeks always defeat the Turks in the end. All right, maybe not always. There was that long occupation. And I suppose I'm thinking of the Persians rather than the Turks."
+> **原句 1:** "One can’t imagine the Greeks losing to the Turks. The Greeks always defeat the Turks in the end. All right, maybe not always. There was that long occupation. And I suppose I’m thinking of the Persians rather than the Turks."
 
 **中文理解**：没人能想象希腊人输给土耳其人。希腊人最后总是能打败土耳其人。——好吧，也许不是总是。那一次占领就拖了很久。算了，我想我说的其实是波斯人，不是土耳其人。
 
-**关键词**：One can't imagine the Greeks losing to the Turks / The Greeks always defeat the Turks in the end / All right, maybe not always / I'm thinking of the Persians rather than the Turks
+**关键词**：One can’t imagine the Greeks losing to the Turks / The Greeks always defeat the Turks in the end / All right, maybe not always / I’m thinking of the Persians rather than the Turks
 
 **为什么这样写**：这是一封写给最不必懂历史的收件人的信，所以第一句就挑了最没有退路的说法。always 与 in the end 双重加码，把话说成民族记忆；紧跟着的 All right, maybe not always 用一个自造的插入语把刚立下的保证降级成玩笑，There was that long occupation 则把玩笑垫上一层事实。And I suppose 把话题从历史挪回自己的记忆，Persians rather than the Turks 一句话换掉了一个文明——这是全章最便宜也最伤的一处轻描淡写。
 
@@ -38,11 +38,11 @@ source_text: ch18
 
 ### 第二处
 
-> **原句 2:** "They lost six men. Six men who didn't need to die. Betsy could see them still, every single one. Every man she had bathed and bandaged and jollied."
+> **原句 2:** "They lost six men. Six men who didn’t need to die. Betsy could see them still, every single one. Every man she had bathed and bandaged and jollied."
 
 **中文理解**：他们失去了六个人。六个本来不必死的人。贝茜到现在还看得见他们，每一个都看得见。每一个她洗过、缠过、逗过的男人。
 
-**关键词**：They lost six men / Six men who didn't need to die / every single one / bathed and bandaged and jollied
+**关键词**：They lost six men / Six men who didn’t need to die / every single one / bathed and bandaged and jollied
 
 **为什么这样写**：six men 说两遍，第二遍立刻改写第一遍的定义——不是死了六个人，是有六个人本来不必死；every single one 里的 single 才是全部加码的出处。三个过去分词排成一串（bathed / bandaged / jollied），最后一个 jollied（逗着玩）是她在信里给自己写下的看家本事；同一个词从「哄人的本事」掉下来，成了死人的清单。every single one 之后不再有解释。
 
@@ -66,15 +66,15 @@ source_text: ch18
 
 ### 第四处
 
-> **原句 4:** "Don't you mean if we lose the war? This is your adopted country too." "I am still a citizen of France. France sees this as a rather awkward little squabble and hopes it will go away."
+> **原句 4:** "Don’t you mean if we lose the war? This is your adopted country too." "I am still a citizen of France. France sees this as a rather awkward little squabble and hopes it will go away."
 
 **中文理解**：「你该说的是要是我们输了吧？这也是你自己选的国家。」「我仍然是法国公民。法国只把这事看成一场有点尴尬的小口角，希望它自己消失。」
 
-**关键词**：Don't you mean if we lose the war / your adopted country too / I am still a citizen of France / a rather awkward little squabble
+**关键词**：Don’t you mean if we lose the war / your adopted country too / I am still a citizen of France / a rather awkward little squabble
 
-**为什么这样写**：她的反驳只动了一个词：we 换成 you，一场战争当场劈成两半。I am still a citizen of France 里的 still 才是骨头——still 说明这个身份是选的，因此也是能放下的。a rather awkward little squabble 一句里连下三级台阶（awkward / little / squabble），把一场战争说成邻里口角；而紧接其后 He said it as if it didn't matter at all，把轻描淡写归到语气上，替他说完了剩下的半句。
+**为什么这样写**：她的反驳只动了一个词：we 换成 you，一场战争当场劈成两半。I am still a citizen of France 里的 still 才是骨头——still 说明这个身份是选的，因此也是能放下的。a rather awkward little squabble 一句里连下三级台阶（awkward / little / squabble），把一场战争说成邻里口角；而紧接其后 He said it as if it didn’t matter at all，把轻描淡写归到语气上，替他说完了剩下的半句。
 
-**读者视角提示**：这半句一路跟着她回到房间里：Betsy couldn't get those words out of her head. A rather awkward little squabble。
+**读者视角提示**：这半句一路跟着她回到房间里：Betsy couldn’t get those words out of her head. A rather awkward little squabble。
 
 ---
 
@@ -88,7 +88,7 @@ source_text: ch18
 
 **为什么这样写**：他把她的抱怨接过来铸成格言，而格言的长处正在于没有主语：folly 与 cannon 都是单数，谁造下的恶不必点名。narrowed her eyes at him 是她的检验动作；Is that also Voltaire 一句话就去试他的底——她要的不是安慰，是这句格言有没有出处。答句 No. Merely an observation of my own 把话权整个还给他：既是谦辞，也是这一章最重的一句情话，他不是在引世界，是在跟她说话。
 
-**读者视角提示**：她此前刚给同一件事下过自己的判词：This wasn't an act of war; this was an act of stupidity。
+**读者视角提示**：她此前刚给同一件事下过自己的判词：This wasn’t an act of war; this was an act of stupidity。
 
 ---
 
@@ -122,15 +122,15 @@ source_text: ch18
 
 ### 第八处
 
-> **原句 8:** "You don't need to," Betsy murmured, nuzzling his cheek as his arms slid around her, in direct contradiction of his words. "I've decided to ruin myself." "Head of wax . . ." he murmured, his lips discovering a particularly tender spot along the side of her neck, as Betsy found herself suddenly a great deal more horizontal than she had been a moment before. "I'll take that as a yes," she gasped, and lost herself in the feeling of falling.
+> **原句 8:** "You don’t need to," Betsy murmured, nuzzling his cheek as his arms slid around her, in direct contradiction of his words. "I’ve decided to ruin myself." "Head of wax . . ." he murmured, his lips discovering a particularly tender spot along the side of her neck, as Betsy found herself suddenly a great deal more horizontal than she had been a moment before. "I’ll take that as a yes," she gasped, and lost herself in the feeling of falling.
 
 **中文理解**：「你不必这样。」贝茜低声说，蹭着他的脸颊，而他的手臂正绕过她——与他自己的话完全相反。「我已经决定毁掉自己。」「蜡做的头……」他低声说，嘴唇找到她颈侧一处格外软的地方；贝茜忽然发现自己比刚才躺得横多了。「那我就当你是答应了。」她喘着气说，迷失在下坠的感觉里。
 
-**关键词**：in direct contradiction of his words / I've decided to ruin myself / Head of wax / a great deal more horizontal / the feeling of falling
+**关键词**：in direct contradiction of his words / I’ve decided to ruin myself / Head of wax / a great deal more horizontal / the feeling of falling
 
 **为什么这样写**：整段靠一个方位词收工：horizontal 比任何情话都直白，而 a great deal more 把状态变化写成一个角度的移动。nuzzling 与 his lips discovering 互为镜像，一个往上蹭、一个往下找。in direct contradiction of his words 由叙述者亲手戳破那个矛盾：他刚说完不会毁了她，她就在他怀里宣布要毁掉自己。结尾 the feeling of falling 一词双关，既是身体的下坠，也是上一段的 Icarus。
 
-**读者视角提示**：她上一章的选择是留下；这一章的选择是毁掉自己——两回都是明知故犯。
+**读者视角提示**：她此前选择留下（在更早的希腊段）；这一章的选择是毁掉自己——两回都是明知故犯。
 
 ---
 

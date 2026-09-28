@@ -16,7 +16,7 @@ source_text: ch02
 
 **人物弧线**：Betsy 从「据理力争」转成「话术取胜」——她要的从来不是争一口气，而是那张去伯罗奔尼撒的通行证；转折点在 virtu 那一段：被一个刚认识的人指出「淑女可以是做事的人」之后，她第一次动摇了自己多年的预设。
 
-**叙事手法**：书信开场（她在希腊写给 Ava 的信，与 ch01 结尾 Ava 的信对读）→ 大段办公室对话 → 走廊肢体喜剧的骤转 → 茶会上的机锋对话收束；希腊线与战地线在本章完全分开，章末停在最亮的一处（好日子要开始了）。
+**叙事手法**：书信开场（她在希腊写给 Ava 的信，与 ch01 **开篇**那封 Ava 的信对读——两封一收一发，时间正好对上）→ 大段办公室对话 → 走廊肢体喜剧的骤转 → 茶会上的机锋对话收束；希腊线与战地线在本章完全分开，章末停在最亮的一处（好日子要开始了）。
 
 ---
 
@@ -38,11 +38,11 @@ source_text: ch02
 
 ### 第二处
 
-> **原句 2:** "I assure you, we don't faint at the sight of a bit of dirt."
+> **原句 2:** "I assure you, we don’t faint at the sight of a bit of dirt."
 
 **中文理解**：我向你保证，看见一点土，我们是不会晕倒的。
 
-**关键词**：I assure you / don't faint / a bit of dirt
+**关键词**：I assure you / don’t faint / a bit of dirt
 
 **为什么这样写**：这句话是拿对方的措辞原样打回去：对方说 Women do not dig，她就把重点从「挖」换成「怕」——faint 与 dirt 一对，把一场资格之争降格成一句挖苦。we 不是我，是「你们」与「我们」的合流，替所有同行者打包票。a bit of dirt 里的 a bit 是全句最轻的两个词，恰好是最重的反驳。
 
@@ -80,27 +80,27 @@ source_text: ch02
 
 ### 第五处
 
-> **原句 5:** "Most likely because they'd never participate in one," said Ethel sensibly. "The ones who participate aren't reading about them."
+> **原句 5:** "Most likely because they’d never participate in one," said Ethel sensibly. "The ones who participate aren’t reading about them."
 
 **中文理解**：「多半正因为他们自己永远不会参加。」Ethel 很有道理地说。「参加的那些人不读关于它的书。」
 
-**关键词**：Most likely / participate / aren't reading about them
+**关键词**：Most likely / participate / aren’t reading about them
 
-**为什么这样写**：Ethel 的两句是同一枚硬币的两面——第一句替男人辩护，第二句立刻把这句辩护反噬回去。 aren't reading about them 里的 them 指的正是前一整段里那些研究与酒宴，男人被切成读者与行动者两类，而行动者不读、读者不行动。sensibly 是叙述者给她的评语：讲得滴水不漏，因此更刻薄。
+**为什么这样写**：Ethel 的两句是同一枚硬币的两面——第一句替男人辩护，第二句立刻把这句辩护反噬回去。 aren’t reading about them 里的 them 指的正是前一整段里那些研究与酒宴，男人被切成读者与行动者两类，而行动者不读、读者不行动。sensibly 是叙述者给她的评语：讲得滴水不漏，因此更刻薄。
 
-**读者视角提示**：这场对话之后，Betsy 邀她同去伯罗奔尼撒——Ethel 一口应下，理由与这段话正好相反（见下一处）。
+**读者视角提示**：这场对话之后，Betsy 邀她同去伯罗奔尼撒——Ethel 一口应下，理由与这段话正好相反：她不要的是挖掘本身，而是亲眼看见结果。
 
 ---
 
 ### 第六处
 
-> **原句 6:** "It's rather like the classical concept of virtu as opposed to the modern idea of virtue. We praise people for what they refrain from doing rather than rewarding them for what they dare."
+> **原句 6:** "It’s rather like the classical concept of virtu as opposed to the modern idea of virtue. We praise people for what they refrain from doing rather than rewarding them for what they dare."
 
 **中文理解**：这有点像古典的 virtu（德性）与现代 virtue（道德）的对立。我们赞美一个人，是因为他不做什么，而不是奖励他敢于做什么。
 
 **关键词**：the classical concept of virtu / as opposed to / what they dare
 
-**为什么这样写**：virtu 与 virtue 在英文里只差一个字母，中文里却分属两个不同系统；她用一个对仗把这层差别做成可听见的：refrain from doing 与 dare 并列，前者是禁欲的克制，后者是有risk 的进取。rewarding them for what they dare 把「敢」直接等同于价值，可整句话的重量落在 rather than 之后——她说这句时自己正是那个「敢」的人。
+**为什么这样写**：virtu 与 virtue 在英文里只差一个字母，中文里却分属两个不同系统；她用一个对仗把这层差别做成可听见的：refrain from doing 与 dare 并列，前者是禁欲的克制，后者是带风险的进取。rewarding them for what they dare 把「敢」直接等同于价值，可整句话的重量落在 rather than 之后——她说这句时自己正是那个「敢」的人。
 
 **读者视角提示**：这句用希腊罗马的旧词说出，与她父亲的旧学、她挖土的志向接在同一根线上；ch01 里「要紧的不是起因」的那个「起因」，在这条线上也占一格。
 

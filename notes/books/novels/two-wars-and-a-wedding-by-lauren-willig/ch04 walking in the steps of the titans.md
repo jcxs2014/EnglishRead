@@ -24,7 +24,7 @@ source_text: ch04
 
 ### 第一处
 
-> **原句 1:** "Look on ye mighties and despair! I've been walking in the steps of the Titans this week—gods and heroes and Cyclops."
+> **原句 1:** "Look on ye mighties and despair! I’ve been walking in the steps of the Titans this week—gods and heroes and Cyclops."
 
 **中文理解**：你们这些大人物看看然后绝望去吧！这一周我一直在走巨人的路——众神、英雄，还有独眼巨人。
 
@@ -32,19 +32,19 @@ source_text: ch04
 
 **为什么这样写**：开篇先搬出马洛的句子当引子，把一封家书写成宣言式的宣告；Look on ye mighties and despair 的旧式语法（ye）与现代口语并置，读者的耳朵先被时代错位撞一下。walking in the steps of 直接接住引文里的关键词 steps，转成她这一周的实际动作；而 Titans、gods、heroes、Cyclops 四个词一路降级，从神话到怪物，正好对上她信里随后那句「我不是在读神话，我是在现场」。
 
-**读者视角提示**：Cyclops 一词在后面梯林斯的城墙上会再出现一次（当地传说巨人砌的墙）——她在信里当笑话写，在墙根下却当真。
+**读者视角提示**：Cyclops 一词在后面梯林斯的城墙上会再出现一次（当地传说巨人砌的墙）——她在信里当笑话写，到了墙根下却仍不信（But someone did… I'm more likely to believe in a pulley and tackle than a Cyclops）。
 
 ---
 
 ### 第二处
 
-> **原句 2:** "I'm antiquities drunk. It's intoxicating, seeing all of this in situ and not just in fuzzy photographs and artists' illustrations."
+> **原句 2:** "I’m antiquities drunk. It’s intoxicating, seeing all of this in situ and not just in fuzzy photographs and artists’ illustrations."
 
 **中文理解**：我喝醉了古物。见这些实物（而不是看那些模糊的照片和画师的插图）本身就是让人迷醉的事。
 
 **关键词**：antiquities drunk / intoxicating / in situ
 
-**为什么这样写**：antiquities drunk 是把「喝醉」这个固定搭配的主语换成一个学术名词，庄重的词与醉态并置，一句话就把学者的痴态说尽了。in situ（拉丁语「在原处」）是全句的支点：它和后半句的 not just… 构成正反两面，说明她在意的是「物」而非「图」。fuzzy photographs 与 artists' illustrations 一个模糊、一个是后人的演绎，两样都不是现场；intoxicating 与 drunk 重复了同一个醉字，一封信里醉两次，是刻意的。
+**为什么这样写**：antiquities drunk 是把「喝醉」这个固定搭配的主语换成一个学术名词，庄重的词与醉态并置，一句话就把学者的痴态说尽了。in situ（拉丁语「在原处」）是全句的支点：它和后半句的 not just… 构成正反两面，说明她在意的是「物」而非「图」。fuzzy photographs 与 artists’ illustrations 一个模糊、一个是后人的演绎，两样都不是现场；intoxicating 与 drunk 重复了同一个醉字，一封信里醉两次，是刻意的。
 
 **读者视角提示**：她后面要反驳他「你只是冷冰冰的实证派」时，底气正是这封信里的 in situ——她不是不迷信，她只是要物证。
 
@@ -52,7 +52,7 @@ source_text: ch04
 
 ### 第三处
 
-> **原句 3:** "It's safer to keep you where I can see you."
+> **原句 3:** "It’s safer to keep you where I can see you."
 
 **中文理解**：把你放在我看得见的地方，才更安全。
 
@@ -72,7 +72,7 @@ source_text: ch04
 
 **关键词**：no interest in digging up the dead / only their words
 
-**为什么这样写**：Ethel 这句话把自己和 Betsy 摆成一对镜像：digging up the dead 是物质的、缓慢的，their words 是文本的、可读的，二者被她用 only 一刀切开。破折号在句中充当一个顿点，把「挖死人」与「只挖文字」挤成一次对照。她说这话时还补了一句 sanitary and sane——把「卫生而理智」当成对「我们」的暗中称呼。
+**为什么这样写**：Ethel 这句话把自己和 Betsy 摆成一对镜像：digging up the dead 是物质的、缓慢的，their words 是文本的、可读的，二者被她用 only 一刀切开。破折号在句中充当一个顿点，把「挖死人」与「只挖文字」挤成一次对照。（「a sanitary and sane pursuit」是**他**——德·罗伯库尔——接的下一句，不是 Ethel 说的）她说这话时还补了一句 sanitary and sane——把「卫生而理智」当成对「我们」的暗中称呼。
 
 **读者视角提示**：本章 Betsy 想通的「挖厨房器物」，正是把 Ethel 那句「只挖文字」往前推了一步——她要挖的是活人的日常，而不只是死人的话。
 
@@ -80,11 +80,11 @@ source_text: ch04
 
 ### 第五处
 
-> **原句 5:** "Besides, isn't that what archaeologists do? We rob the dead to delight the living."
+> **原句 5:** "Besides, isn’t that what archaeologists do? We rob the dead to delight the living."
 
 **中文理解**：再说了，考古学家干的不就是这个吗？我们从死人那里抢东西，好取悦活人。
 
-**关键词**：isn't that what archaeologists do / rob the dead / delight the living
+**关键词**：isn’t that what archaeologists do / rob the dead / delight the living
 
 **为什么这样写**：他用三个小句把她架住：反问句先确认「大家都这样」，rob the dead 与 delight the living 两句对仗把「抢劫」洗成「取悦」。delight（取悦、使人高兴）比 serve（服务）更轻佻，带着一层调侃——他是在逗她，也是在试探她会怎么回。Betsy 的反应是把「抢」改说成「替他们保管」（safeguarding），并反问「是替他们的，还是替你自己的」，把玩笑顶回去。
 
@@ -94,13 +94,13 @@ source_text: ch04
 
 ### 第六处
 
-> **原句 6:** "But they're my superstitions and not anyone else's."
+> **原句 6:** "But they’re my superstitions and not anyone else’s."
 
 **中文理解**：但那些是我的迷信，不是别人的。
 
-**关键词**：my superstitions / not anyone else's
+**关键词**：my superstitions / not anyone else’s
 
-**为什么这样写**：她刚说完「我不需要相信它们，我只需要相信古希腊人相信」，这句就把话头挑明：她不是没有迷信，她有一整套自己的。my 与 anyone else's 把「迷信」从公共的贬义里抢回来，变成私产。双重否定（don't need to… only need to…）之后，这句肯定的收束格外硬——她接受了对方的诘问，并顺势反诘。
+**为什么这样写**：她刚说完「我不需要相信它们，我只需要相信古希腊人相信」，这句就把话头挑明：她不是没有迷信，她有一整套自己的。my 与 anyone else’s 把「迷信」从公共的贬义里抢回来，变成私产。双重否定（don’t need to… only need to…）之后，这句肯定的收束格外硬——她接受了对方的诘问，并顺势反诘。
 
 **读者视角提示**：这句话直接引出他关于欲望的下一问（Zeus 对他爱的人「并不仁慈」），也把两人从「挖什么」的争论推到「信什么」的争论。
 
@@ -130,7 +130,7 @@ source_text: ch04
 
 **为什么这样写**：这句结构是一个 not…but 的对照：一边是 epic（史诗、宏大叙事），一边是 the little daily things（细碎的日常）。epic 与 little 直接构成大小对照，而 not through 把整句的重量压在「怎么讲」而非「讲什么」上。前面那句「拿破仑说军队靠胃行军」是这句的通俗版，这句才是学术版——她把一个玩笑升格成了主张。
 
-**读者视角提示**：这句在乙板尽头说出时，两人已并肩手握手；紧接着就来了那声刻意的咳嗽，一句玩笑（是中暑还是别的）把这个刚刚成形的时刻按了下去。
+**读者视角提示**：这句在梯林斯宫城凸台上说出时（他俯身把她的手举起，像托着什么极珍贵的东西），两人已并肩手握手；紧接着就来了那声刻意的咳嗽，一句玩笑（是中暑还是别的）把这个刚刚成形的时刻按了下去。
 
 ---
 

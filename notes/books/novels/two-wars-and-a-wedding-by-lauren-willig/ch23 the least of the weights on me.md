@@ -38,11 +38,11 @@ source_text: ch23
 
 ### 第二处
 
-> **原句 2:** "Distress doesn't measure temperatures or stanch blood. We have ninety-four wounded on this boat, and the only medical supplies are the ones I brought in my satchel!"
+> **原句 2:** "Distress doesn’t measure temperatures or stanch blood. We have ninety-four wounded on this boat, and the only medical supplies are the ones I brought in my satchel!"
 
 **中文理解**：痛苦不能量体温，也止不住血。这条船上有九十四个伤员，而全部医疗物资只有我自己带的那一包！
 
-**关键词**：Distress doesn't measure temperatures / stanch blood / the only medical supplies are the ones I brought in my satchel
+**关键词**：Distress doesn’t measure temperatures / stanch blood / the only medical supplies are the ones I brought in my satchel
 
 **为什么这样写**：她用对方的词把对方驳了回去——医生刚说完 I am as distressed by the situation as you are，她把 Distress 这个名词原封不动搬到句首当主语，再配上一个否定：同情不量体温，也不止住血。两个 or 是并排的否定，把「情绪」和「动作」切成两截。第三句用 the only 与定语从句把责任钉死：不是这条船缺东西，是这条船上除了她再没有第二个人有。
 
@@ -52,11 +52,11 @@ source_text: ch23
 
 ### 第三处
 
-> **原句 3:** "You're the least of the weights on me," she said grimly.
+> **原句 3:** "You’re the least of the weights on me," she said grimly.
 
 **中文理解**：你是我身上最轻的那点分量，她闷声说。
 
-**关键词**：You're the least of / the weights on me / said grimly
+**关键词**：You’re the least of / the weights on me / said grimly
 
 **为什么这样写**：the least of the weights on me 把「我扶着你」这个动作倒过来说：她身上的负担是各种重量，而他排在最轻的那一格。the least 之所以立得住，是因为前一句她还在说自己什么都干不了——在她背得动的那些重量里，一个伤员排第一。grimly 把语气压住，让一句本该是玩笑的话听上去像在硬撑。
 
@@ -66,13 +66,13 @@ source_text: ch23
 
 ### 第四处
 
-> **原句 4:** "I was on a ship. In Greece. A hospital ship. We were evacuating men from Vólos to Athens. Our supplies were locked in the hold and the medical officer wouldn't listen when we tried to tell him what needed to be done. . . . Six men died that night."
+> **原句 4:** "I was on a ship. In Greece. A hospital ship. We were evacuating men from Vólos to Athens. Our supplies were locked in the hold and the medical officer wouldn’t listen when we tried to tell him what needed to be done. . . . Six men died that night."
 
 **中文理解**：我上过一条船。在希腊。一条医院船。我们从 Vólos 把伤员后送到雅典。我们的物资锁在底舱，军医不肯听我们说该做什么……那天晚上死了六个人。
 
-**关键词**：I was on a ship. In Greece. A hospital ship. / Our supplies were locked in the hold / wouldn't listen / Six men died that night
+**关键词**：I was on a ship. In Greece. A hospital ship. / Our supplies were locked in the hold / wouldn’t listen / Six men died that night
 
-**为什么这样写**：前三个短句都是主语加 be 动词的极简陈述，一句比一句短，把她整个人压缩成三块——我当过护士、我在希腊干过、那条船是医院船。到第四句忽然拉长，状语一层套一层；接着 locked in the hold、wouldn't listen、what needed to be done 三个短语把「东西有，可没人管」写成了实况。中间的省略号是她真的停住了，最后一句才落下来。
+**为什么这样写**：前三个短句都是主语加 be 动词的极简陈述，一句比一句短，把她整个人压缩成三块——我当过护士、我在希腊干过、那条船是医院船。到第四句忽然拉长，状语一层套一层；接着 locked in the hold、wouldn’t listen、what needed to be done 三个短语把「东西有，可没人管」写成了实况。中间的省略号是她真的停住了，最后一句才落下来。
 
 **读者视角提示**：她讲这件事时眼睛是空的；他听完只告诉她一句，这一趟的船比那条配给得好。
 
@@ -80,13 +80,13 @@ source_text: ch23
 
 ### 第五处
 
-> **原句 5:** "Whoever prepared the boat stripped the ship. Anything that wasn't nailed down is gone. Except for the passengers. They left passengers on board. Passengers!"
+> **原句 5:** "Whoever prepared the boat stripped the ship. Anything that wasn’t nailed down is gone. Except for the passengers. They left passengers on board. Passengers!"
 
 **中文理解**：不管是谁备的这条船，他把船搜刮空了。所有没钉死的东西都没了。除了乘客。他们把乘客留在了船上。乘客！
 
-**关键词**：Whoever prepared the boat stripped the ship / Anything that wasn't nailed down is gone / Except for the passengers / Passengers
+**关键词**：Whoever prepared the boat stripped the ship / Anything that wasn’t nailed down is gone / Except for the passengers / Passengers
 
-**为什么这样写**：prepared the boat 与 stripped the ship 是同一批人的两个动作，whoever 把主语整个藏起来——她不点名。Anything that wasn't nailed down is gone 用一句否定条件把所有没被钉住的东西一次清空。真正的机锋在后半：except 把转折挪到乘客身上，而 passengers 连说两遍，第二遍单独成段——她刚反应过来，被留在船上的人，正是她最缺的那双手。
+**为什么这样写**：prepared the boat 与 stripped the ship 是同一批人的两个动作，whoever 把主语整个藏起来——她不点名。Anything that wasn’t nailed down is gone 用一句否定条件把所有没被钉住的东西一次清空。真正的机锋在后半：except 把转折挪到乘客身上，而 passengers 连说两遍，第二遍单独成段——她刚反应过来，被留在船上的人，正是她最缺的那双手。
 
 **读者视角提示**：紧接着她笑了一声，那声音半像笑半像哭。
 
@@ -94,7 +94,7 @@ source_text: ch23
 
 ### 第六处
 
-> **原句 6:** "Because you've been caring for all of us for weeks without rest?" Without thinking, Holt peeled a bit of tear-damp hair off her cheek and tucked it behind her ear for her.
+> **原句 6:** "Because you’ve been caring for all of us for weeks without rest?" Without thinking, Holt peeled a bit of tear-damp hair off her cheek and tucked it behind her ear for her.
 
 **中文理解**：因为你这几个星期一直在照顾我们，没有休息过吗？Holt 没多想，把她脸颊上湿着的一缕头发拨开，替她别到耳后。
 
@@ -102,19 +102,19 @@ source_text: ch23
 
 **为什么这样写**：她刚讲完一场更大的灾难，这一段却先被一个小动作打断——Without thinking 之后那个动作轻得不像安慰，像顺手。tucked it behind her ear 把「照顾」这个抽象动作落成指尖上的一个具体做法；而他的反问句本身就是答案：她已经给过他理由，他只是替她把话说完。
 
-**读者视角提示**：她只回了一句 I've had the odd nap.
+**读者视角提示**：她只回了一句 I’ve had the odd nap.
 
 ---
 
 ### 第七处
 
-> **原句 7:** "And it's Betsy. 'Nurse Hayes' makes me sound like someone who knows what she's doing."
+> **原句 7:** "And it’s Betsy. ’Nurse Hayes’ makes me sound like someone who knows what she’s doing."
 
 **中文理解**：还有，我叫 Betsy。「Hayes 护士」听着像那种什么都会的人。
 
-**关键词**：And it's Betsy / makes me sound like / someone who knows what she's doing
+**关键词**：And it’s Betsy / makes me sound like / someone who knows what she’s doing
 
-**为什么这样写**：整章她都是 Nurse Hayes——在报告里、在医生嘴里、在船员嘴里；这一句 she 在一句话当中把自己从职称里搬了出来。makes me sound like 后面那个 who 从句把「像个体面人」和「真的会做」切成两截，而 what she's doing 里只有一个 what，不给内容，只留下怀疑。上一句他刚说过 You’re not in this on your own，她既没道谢也没接受，只是报了个名字。
+**为什么这样写**：整章她都是 Nurse Hayes——在报告里、在医生嘴里、在船员嘴里；这一句 she 在一句话当中把自己从职称里搬了出来。makes me sound like 后面那个 who 从句把「像个体面人」和「真的会做」切成两截，而 what she’s doing 里只有一个 what，不给内容，只留下怀疑。上一句他刚说过 You’re not in this on your own，她既没道谢也没接受，只是报了个名字。
 
 **读者视角提示**：这件事她是独自去做的；她一边说，一边希望他还在身边。
 

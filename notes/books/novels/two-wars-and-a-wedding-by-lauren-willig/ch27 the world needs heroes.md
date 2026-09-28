@@ -12,7 +12,7 @@ source_text: ch27
 
 **情感弧线位置**：转向场外。这一章里她第一次不再是被照顾的对象，而是站在踏板上被几百个人看着说话的那个；可她拿到的不是安稳，是一场随即被压下去的反扑。收尾处她赢了自己那一场，另一边的人开始替她付账。
 
-**Tropes 兑现/反转**：「谦逊否认英雄」的桥段被反着写：她一开口否认，人群反而更响，正文把这条规律直接写出来（Everyone loved a heroine who claimed she wasn't a heroine）。常套里被嘘走的"告状者"这一回没被嘘走——她把责任直接点了名。反过来，赢家的位置被让掉了：她在踏板上说完话，眼睛只朝一个人那边滑过去一次。
+**Tropes 兑现/反转**：「谦逊否认英雄」的桥段被反着写：她一开口否认，人群反而更响，正文把这条规律直接写出来（Everyone loved a heroine who claimed she wasn’t a heroine）。常套里被嘘走的"告状者"这一回没被嘘走——她把责任直接点了名。反过来，赢家的位置被让掉了：她在踏板上说完话，眼睛只朝一个人那边滑过去一次。
 
 **人物弧线**：Betsy 从"需要一个人替她说话"变成"自己当那一个人"，连记者问她感想时她都能当场把话术掰成追责；Holt 从"退回暗处替她懊悔"变成"拎着手杖出门办事"——他打的那封电报让他觉得自己需要用 carbolic 洗一遍自己。
 
@@ -102,7 +102,7 @@ source_text: ch27
 
 **为什么这样写**：一个破折号把两个结构完全相同的祈使句接在一起，look for 重复，someone 也重复，只有 praise 与 hold accountable 换了。hold accountable 在英语里是"追究责任"的固定说法，比中文的"问责"更重，因为它默认那人本来就有责任、可是一直没人来讨。前面她用了很多间接的说法，到这一句全部压成两个动词短语。
 
-**读者视角提示**：这是她整场陈述的转向点；上一句她还在辨析 heroics 这个词，这一句开始要名单。
+**读者视角提示**：这是她整场陈述的转向点；再往前一两句她还在辨析 heroics 这个词，这一句开始要名单。
 
 ---
 
@@ -116,7 +116,7 @@ source_text: ch27
 
 **为什么这样写**：前两个破折号插在 is the fault 之前，把宾语越推越长，句子因此一直在往下滑；playing with lives as though they were boys playing with toy soldiers 靠 as though 引进一个从句，主语从 men 跳到 lives 再跳到 boys，一个逗号里连跳两次。arrogant 与 incompetent 构成一对相反方向的形容词，而作者偏把两个都给了同一批人——既傲慢又无能，正是这篇公文里最顺手的一组指控。
 
-**读者视角提示**：这句话说完，她的状态被写成 swaying slightly, too thin, exhausted, worn to the bone——她把那些人比作玩腻了就踢开的玩具士兵，而她自己正是站在踏板上被摇得晃来晃去的那一个。
+**读者视角提示**：这句话说完，她的状态被写成 framed in the door of the carriage, swaying slightly, too thin, exhausted, worn to the bone（站在车门框里，不是甲板上被船摇）——她把那些人比作玩腻了就踢开的玩具士兵，而她自己正是站在踏板上被摇得晃来晃去的那一个。
 
 ---
 

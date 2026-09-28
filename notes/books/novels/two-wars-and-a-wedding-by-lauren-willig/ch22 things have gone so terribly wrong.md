@@ -24,13 +24,13 @@ source_text: ch22
 
 ### 第一处
 
-> **原句 1:** "I don't know what to do. I've made such a terrible mess."
+> **原句 1:** "I don’t know what to do. I’ve made such a terrible mess."
 
 **中文理解**：我不知道该怎么办。我闯下了一个天大的祸。
 
-**关键词**：I don't know what to do / I've made such a terrible mess
+**关键词**：I don’t know what to do / I’ve made such a terrible mess
 
-**为什么这样写**：这封信标着「未寄出」，两句都短得像喊出来的。don't know what to do 是最普通的口语，such a terrible mess 里的 such 把「糟」的程度抬到顶，而 I've made 用完成时把责任整个揽在自己身上——不是局面变糟，是她做成了这样。
+**为什么这样写**：这封信标着「未寄出」，两句都短得像喊出来的。don’t know what to do 是最普通的口语，such a terrible mess 里的 such 把「糟」的程度抬到顶，而 I’ve made 用完成时把责任整个揽在自己身上——不是局面变糟，是她做成了这样。
 
 **读者视角提示**：信写在全章开头，人却是在信写完之后才收到 Charles 死讯的；她连自己闯了什么祸都还不知道。
 
@@ -38,15 +38,15 @@ source_text: ch22
 
 ### 第二处
 
-> **原句 2:** "She hadn't been with him when he died."
+> **原句 2:** "She hadn’t been with him when he died."
 
 **中文理解**：他死的时候，她不在他身边。
 
-**关键词**：She hadn't been with him / when he died
+**关键词**：She hadn’t been with him / when he died
 
 **为什么这样写**：前面几句铺的是同一个骨架——as he doubled over with stomach pain、as he coughed and gasped for breath、as the red rash spread across his chest——到这一句骨架整个换掉：as 变成 when，三个症状变成 died。前面几句里她只是没赶上过程，这一句她连结果也没赶上。had been 是过去完成时，把「本该在那儿」这层不必说出口的责任整个装了进去。
 
-**读者视角提示**：这一段之后她开始想：也许当初在沙龙地板上把他撞倒那一下，本来就是个预兆。
+**读者视角提示**：这一段之后她开始想：也许当初在美国学校走廊里把他撞倒那一下，本来就是个预兆。
 
 ---
 
@@ -66,11 +66,11 @@ source_text: ch22
 
 ### 第四处
 
-> **原句 4:** "You didn't know." Aikaterini's face was a study, frozen somewhere between consternation and exasperation.
+> **原句 4:** "You didn’t know." Aikaterini’s face was a study, frozen somewhere between consternation and exasperation.
 
 **中文理解**：你还不知道。Aikaterini 的脸像一幅画，凝在懊恼与恼火之间的某处。
 
-**关键词**：You didn't know / was a study, frozen somewhere between / consternation and exasperation
+**关键词**：You didn’t know / was a study, frozen somewhere between / consternation and exasperation
 
 **为什么这样写**：全章最重的一句话短得不能再短，却单独占了一段。face was a study 用的是习语，意思是「一张值得细看的脸」，把她的脸写成了一幅画；而 frozen 正是上一块那只停摆的表用过的同一个动词——这一章里，她的脸和她的身体共用一套词汇。consternation 与 exasperation 都不是愤怒，是更冷也更复杂的东西：一位体面妇人发现自己以为瞒住的事，其实一直瞒着她。
 
@@ -80,7 +80,7 @@ source_text: ch22
 
 ### 第五处
 
-> **原句 5:** "Then let me speak plainly to you. I have come for the child. It is my husband's, and for that it will be mine."
+> **原句 5:** "Then let me speak plainly to you. I have come for the child. It is my husband’s, and for that it will be mine."
 
 **中文理解**：那我就把话说直白些。我是来要这个孩子的。他是我丈夫的，因此也就是我的。
 
@@ -108,15 +108,15 @@ source_text: ch22
 
 ### 第七处
 
-> **原句 7:** "Once a civilization was destroyed, it couldn't be put right, only excavated from the ruins, a testament to what had been but no longer was."
+> **原句 7:** "Once a civilization was destroyed, it couldn’t be put right, only excavated from the ruins, a testament to what had been but no longer was."
 
 **中文理解**：一个文明一旦被毁，就再也修不回去了，只能从废墟里把它挖出来，作为曾经存在、如今不再存在之物的物证。
 
-**关键词**：Once a civilization was destroyed / it couldn't be put right / only excavated from the ruins / a testament to what had been but no longer was
+**关键词**：Once a civilization was destroyed / it couldn’t be put right / only excavated from the ruins / a testament to what had been but no longer was
 
 **为什么这样写**：整句是一个不可逆结构：一旦毁掉，就修不回来，能做的只有挖掘。她借的是 Ava 的行当——这一章里 Ava 一个字都没出现，考古学却替她把处境说完了。末尾那半句用 had been 对 no longer was，两组过去时态叠出「过去里的过去」，挖出来的不是遗迹，是曾经本身。
 
-**读者视角提示**：她还记得自己刚听来的那条忠告——真想发掘，最省事的办法是给自己找一个考古学家嫁了。
+**读者视角提示**：她还记得**许多章之前**在谢里曼夫人家里听来的那条忠告——真想发掘，最省事的办法是给自己找一个考古学家嫁了。
 
 ---
 

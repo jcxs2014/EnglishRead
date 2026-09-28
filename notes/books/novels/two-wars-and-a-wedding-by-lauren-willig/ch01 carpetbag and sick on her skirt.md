@@ -24,7 +24,7 @@ source_text: ch01
 
 ### 第一处
 
-> **原句 1:** "I'm not saying what you said in Athens is right. But there might have been something in it."
+> **原句 1:** "I’m not saying what you said in Athens is right. But there might have been something in it."
 
 **中文理解**：我并不是说你在雅典讲的那套是对的。但里面也许有那么一点道理。
 
@@ -52,13 +52,13 @@ source_text: ch01
 
 ### 第三处
 
-> **原句 3:** "She'd learned in Greece that it wasn't the cause that mattered; even the best of intentions wouldn't stop wounds from festering and disease from spreading."
+> **原句 3:** "She’d learned in Greece that it wasn’t the cause that mattered; even the best of intentions wouldn’t stop wounds from festering and disease from spreading."
 
 **中文理解**：她在希腊学到的是：要紧的不是起因；就算是最良好的意图，也拦不住伤口溃烂、疾病扩散。
 
-**关键词**：it wasn't the cause that mattered / even the best of intentions / wounds from festering
+**关键词**：it wasn’t the cause that mattered / even the best of intentions / wounds from festering
 
-**为什么这样写**：前半句先否定「为正义而战」这套叙事（it wasn't the cause that mattered），分号后面的 even the best of intentions 才把否定钉死——连最好的意图都不管用。wounds 与 disease 并列，前者是她亲手缝过的、后者是她救不回的，一句话同时交代她的技能和她的失败，因此后面她对 Sister Bettina 说自己见过人死时才不是空口。
+**为什么这样写**：前半句先否定「为正义而战」这套叙事（it wasn’t the cause that mattered），分号后面的 even the best of intentions 才把否定钉死——连最好的意图都不管用。wounds 与 disease 并列，前者是她亲手缝过的、后者是她救不回的，一句话同时交代她的技能和她的失败，因此后面她对 Sister Bettina 说自己见过人死时才不是空口。
 
 **读者视角提示**：这是她整趟旅程的动机内核——她来坦帕不是为西班牙也不是为古巴，是为了 Ava。
 
@@ -66,11 +66,11 @@ source_text: ch01
 
 ### 第四处
 
-> **原句 4:** "Ha. She hadn't been a lady in years. Possibly ever, if her brother was to be believed."
+> **原句 4:** "Ha. She hadn’t been a lady in years. Possibly ever, if her brother was to be believed."
 
 **中文理解**：哈。她已经很多年没当过淑女了。如果她哥哥说的是真的，那她可能从来没当过。
 
-**关键词**：hadn't been a lady in years / possibly ever / if her brother was to be believed
+**关键词**：hadn’t been a lady in years / possibly ever / if her brother was to be believed
 
 **为什么这样写**：Holt 刚说「这不是女士该待的地方」，叙述就用一个短促的 Ha. 顶回去，再把「很多年」和「也许从来没有」两档一递，把玩笑推进到自嘲。if her brother was to be believed 把全句悬在半空——哥哥的判断既是她的笑点，也是她早就认下的判决。三个短句一气呵成，是本章唯一一次她主动亮出带刺的自尊。
 
@@ -80,7 +80,7 @@ source_text: ch01
 
 ### 第五处
 
-> **原句 5:** "They'd died to a man at Thermopylae and called it honor."
+> **原句 5:** "They’d died to a man at Thermopylae and called it honor."
 
 **中文理解**：他们在温泉关死得一个不剩，还管这叫荣誉。
 
@@ -94,7 +94,7 @@ source_text: ch01
 
 ### 第六处
 
-> **原句 6:** "I've walked farther than that in worse circumstances."
+> **原句 6:** "I’ve walked farther than that in worse circumstances."
 
 **中文理解**：我走过的路比这更远，情况比这更糟。
 

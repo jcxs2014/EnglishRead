@@ -24,15 +24,15 @@ source_text: ch09
 
 ### 第一处
 
-> **原句 1:** "But it wasn't a carpet beater. It was Mauser bullets, pounding into flesh."
+> **原句 1:** "But it wasn’t a carpet beater. It was Mauser bullets, pounding into flesh."
 
 **中文理解**：可那不是地毯掸子。那是毛瑟子弹，砸进肉里。
 
-**关键词**：wasn't a carpet beater / Mauser bullets / pounding into flesh
+**关键词**：wasn’t a carpet beater / Mauser bullets / pounding into flesh
 
 **为什么这样写**：前半句是否定一个荒谬的比喻，后半句立刻换上真答案——被否定的东西反而让后一句更突兀。这正是他在战场上听见的声音：一开始他还以为有人在打毯子。pounding（砸）与 carpet beater（掸子）共享「一下一下敲」的节奏，所以这个误听不是凭空来的。flesh（肉）而不是 body（身体），写的是中弹那一刻的具体触感。
 
-**读者视角提示**：三天前另一个古巴军官刚教过他毛瑟弹的声音特征——「像嗡嗡的哼声，听到就趴下」；这一章他正是被那个声音击中的。
+**读者视角提示**：同一天稍早，de Almendares 刚在行军途中教过他毛瑟弹的声音特征——「像嗡嗡的哼声，听到就趴下」；这一章他正是被那个声音击中的。
 
 ---
 
@@ -52,7 +52,7 @@ source_text: ch09
 
 ### 第三处
 
-> **原句 3:** "They'd walked right into a deadly trap. They'd skipped into it, gossiping away like schoolgirls at a picnic."
+> **原句 3:** "They’d walked right into a deadly trap. They’d skipped into it, gossiping away like schoolgirls at a picnic."
 
 **中文理解**：他们是径直走进了一个致命的陷阱。他们像一群女学生野餐似的，一边闲扯着一头扎了进去。
 
@@ -80,7 +80,7 @@ source_text: ch09
 
 ### 第五处
 
-> **原句 5:** "He'd had his head knocked against the polished mahogany of a sideboard, swallowed the taste of his own blood lying flat on his face on a Turkish carpet, and seen his black eye reflected in a sterling silver tea service."
+> **原句 5:** "He’d had his head knocked against the polished mahogany of a sideboard, swallowed the taste of his own blood lying flat on his face on a Turkish carpet, and seen his black eye reflected in a sterling silver tea service."
 
 **中文理解**：他曾把头撞在擦得发亮的桃花心木餐边柜上，脸贴着土耳其地毯趴着，把自己的血咽下去，还看见自己青黑的眼圈映在那套纯银茶具里。
 
@@ -102,7 +102,7 @@ source_text: ch09
 
 **为什么这样写**：全句只有五个实词，两个名词短语一比，句子就结束了；that 不点明所指，读者必须回身去找——指代的力量全部压在那个「那个」上。nothing to that 是极简的评判，没有形容词、没有程度词，越平淡越显得那边的伤口不可比。放在前一段那串材质之后，这句成了整段冷叙述的收束。
 
-**读者视角提示**：他说这句话时正走在撤往后方救护站的路上，腿上那发子弹已经穿透了大腿。
+**读者视角提示**：他说这句话时正走在撤往后方救护站的路上，腿上那发子弹已经穿透（原文只说 leg，未指 thigh；穿透有据：Straight through）。
 
 ---
 
@@ -122,13 +122,13 @@ source_text: ch09
 
 ### 第八处
 
-> **原句 8:** "Get away, he'd said. It will be better for you, he'd said."
+> **原句 8:** "Get away, he’d said. It will be better for you, he’d said."
 
 **中文理解**：「你走吧，」他当时说。「你走了会更好，」他当时说。
 
-**关键词**：Get away / It will be better for you / he'd said
+**关键词**：Get away / It will be better for you / he’d said
 
-**为什么这样写**：全句是回忆体的复述，两个 he'd said 各占句尾，把一句话压回到它的原处，也把说话的人按进了过去时。Get away 用的是最短促的命令式，不解释、不挽留；It will be better for you 才是那套「为你好」的托词。两句并排，一个像命令，一个像恩典，正是他后来所有举动的底稿。
+**为什么这样写**：全句是回忆体的复述，两个 he’d said 各占句尾，把一句话压回到它的原处，也把说话的人按进了过去时。Get away 用的是最短促的命令式，不解释、不挽留；It will be better for you 才是那套「为你好」的托词。两句并排，一个像命令，一个像恩典，正是他后来所有举动的底稿。
 
 **读者视角提示**：他记得的正是母亲当年对他说的话；Holt 此刻做的每一件事（把 Paul 拦在后方）都是对这句话的无声回答。
 

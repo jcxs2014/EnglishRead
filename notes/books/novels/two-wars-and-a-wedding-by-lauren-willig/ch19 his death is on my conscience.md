@@ -60,7 +60,7 @@ source_text: ch19
 
 **为什么这样写**：转折落在 but 上，but 之前先把恭维贬到最低，but 之后把这份贬低连本带利地收了回去。crackled and hissed 两个拟声连用，而湿柴在营火上不会烧旺，只会冒白烟——这个比喻写的是被压住的那股劲，不是热度本身。
 
-**读者视角提示**：她夸的是他的下巴不必藏起来，而他觉得这是自己听过的最贵的一句话。
+**读者视角提示**：她夸的是他的下巴不必藏起来，而他当时就没法把目光移开——原文没给他任何「贵重」的评语。
 
 ---
 
@@ -68,13 +68,13 @@ source_text: ch19
 
 > **原句 4:** "You shouldn’t be here. I came to try to save you from all this. There’s malaria—and possibly yellow fever—and goodness only knows what else. You didn’t need to do this."
 
-**中文理解**：你本不该来。我到这里就是想把你们从这一切里救出去。这里有疟疾——也许还有黄热病——天知道还有什么。你没必要来做这些。
+**中文理解**：你本不该来。我到这里就是想把你们从这一切里救出去（原文 save you 的对象是眼前这一个人）。这里有疟疾——也许还有黄热病——天知道还有什么。你没必要来做这些。
 
 **关键词**：You shouldn’t be here / I came to try to save you / There’s malaria / goodness only knows what else
 
 **为什么这样写**：四句全是短句，前三句在往外推人，第四句才把真正的怨顶出来。两个破折号把疟疾与黄热病切成两次递进的恐惧，goodness only knows what else 把这份恐惧交给一个没有边界的"还有别的"。这仍然是一句关心，只是关心的方式是赶人走。
 
-**读者视角提示**：她这边说"你不该来"，Ava 那边立刻退回来的是 "I wouldn’t have signed up if I hadn’t wanted to sign up."
+**读者视角提示**：她这边说"你不该来"，Ava 那边立刻退回来的是 You did. You meant it. And I'm here.——"I wouldn’t have signed up…" 是本章更后面另一场对话里的句子。
 
 ---
 
