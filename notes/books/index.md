@@ -351,7 +351,6 @@ title: 书单
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
 | [Ghost Tales of the United Kingdom](books/short-story-anthologies/ghost-tales-of-the-united-kingdom/) | Various |
 | [Real Life: Short Stories (2002)](books/short-story-anthologies/real-life-short-stories-2002-anthology/) | Dani Couture (ed.) |
-| [That Glimpse of Truth](books/short-story-anthologies/that-glimpse-of-truth-by-head-of-zeus/) | Head of Zeus Ltd. |
 | [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |

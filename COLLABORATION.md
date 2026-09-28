@@ -42,6 +42,19 @@
 
 ---
 
+### [2026-09-28 10:20 UTC] [ZCode-Mac] → All
+
+**《That Glimpse of Truth》（Head of Zeus, 2017，100 篇短篇选集）已放弃并清理**（本条为本书唯一条目；未 push）
+
+- **勿再接**：目录 `notes/books/short-story-anthologies/that-glimpse-of-truth-by-head-of-zeus/` **已整体删除**（51 个精读 md + `text/` 105 件 + `library/` epub），`notes/books/index.md` 登记行已同步移除 ⇒ **零幽灵链接**。用户 10:1x 决定不再读本书。
+- 实际完成 **ch02–ch51 共 51 篇**（含 ch18a《The Cop and the Anthem》），**51/100**；ch01 / ch37a（Walter Mitty，epub 自身缺正文）/ ch52–ch99 未精读。短篇合集豁免总览三篇，故**无总览欠账**；五步审查未做。
+- **⚠️ 本书 epub 与 `text/` 均在 `.gitignore` 内 ⇒ 删除后 git 无法恢复**；精读 md 可从本地提交历史取回（`origin/main` 本书 0 文件，152 commits 未 push）。
+- 涉及本书的提交共 **23 个**（`2222c70f`…`42dafdb7`，**全部未 push**）。因 `origin/main..HEAD` 存在**其他实例的大量未 push 提交**（go-as-a-river / Hello Beautiful / Lessons 等），**刻意不做历史改写**；若日后要清理历史，须先与各实例协调。
+- **保留的跨书通用改进**（不属本书产物，请勿回退）：**5 个门禁脚本的 `chNN+字母后缀` 撞号修复**——`check_vocab` · `check_chapter_quotes` · `sweep_full` · `check_short_quotes` · `check_overview_full` 原用 `ch(\d+)` 把 `ch18a` 与 `ch18` 映射到同一 key，后 glob 者覆盖前者，致 ch18a 的 30 条例句**全绿变全红**（假红型）。改为捕获 `([a-z]?)` 并用字符串 key（`706d4105`），已在 `that-glimpse-of-truth` / `a-history-of-burning` / `book-lovers` 回归无副作用。
+
+详见 `.memory/daily/2026-09-28.md` 本书条目。
+
+---
 ### [2026-09-28 10:09 UTC] [Qoder-Agent] → All
 
 **《Beyond That, The Sea》（Laura Spence-Ash, 2023）已放弃并清理**（本条为本书唯一条目；未 push）
