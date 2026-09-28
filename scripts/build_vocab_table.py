@@ -24,7 +24,32 @@ def load_chapter(book_dir: str, ch: str) -> str:
     hits = sorted(Path(book_dir, "text").glob(f"ch{ch}_*.txt"))
     if len(hits) != 1:
         sys.exit(f"expected exactly one text/ch{ch}_*.txt, got {len(hits)}")
-    return hits[0].read_text(encoding="utf-8")
+    return strip_running_head(hits[0].read_text(encoding="utf-8"))
+
+
+def strip_running_head(text: str) -> str:
+    """剥掉 text/ 开头的「章标题 + 书眉」重复行，只留正文。
+
+    提取器把 xhtml 的 <h2>（章标题）写一次，又把同一段跑眉写一次，
+    中间是空行——于是在 text/ 里变成「第 1 行=标题 / 第 10 行=标题 / 第 14 行=正文首段」
+    （此形态 115 章一致）。不剥的话，正文里第一个出现的词头抽出的例句会以
+    「Beatrix Beatrix The stairs wrap...」开头，把书眉当成例句的一部分。
+
+    判据：丢弃开头那些**与首行完全相同、且不含句末标点**的行。真正的正文首段
+    带标点，不会被误删。
+    """
+    lines = text.split("\n")
+    nonempty = [(i, l.strip()) for i, l in enumerate(lines) if l.strip()]
+    if len(nonempty) < 2:
+        return text
+    title = nonempty[0][1]
+    cut = nonempty[0][0] + 1
+    for i, l in nonempty[1:]:
+        if l == title and not re.search(r"[.?!:;,]", l):
+            cut = i + 1
+            continue
+        break
+    return "\n".join(lines[cut:])
 
 
 def sentences(text: str) -> list[str]:
@@ -56,7 +81,7 @@ def main() -> None:
             rows.append(f"| {head} | {gloss} | {example} |")
         if not rows:
             continue
-        out += [f"### {tier} {label}", "", "| 词汇 | 释义 | 例句 |", "|------|------|------|", *rows, ""]
+        out += [f"### {tier} {label}", "", "| 词/短语 | 释义 | 例句 |", "|------|------|------|", *rows, ""]
 
     if missing:
         print("headwords not verbatim in ch%s: %s" % (ch, ", ".join(missing)), file=sys.stderr)

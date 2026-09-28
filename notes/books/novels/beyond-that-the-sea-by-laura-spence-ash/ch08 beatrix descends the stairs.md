@@ -70,36 +70,37 @@ modified: "2026-09-28"
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| awash in | 充满；浸透 | The house is awash in light. |
-| overflowing with | 满溢着 | On the table in the entrance hall, a grand crystal vase is overflowing with pink and yellow flowers. |
-| stretches out toward | 延伸向 | There are flower beds close to the house, a vegetable garden beyond, and then a green lawn that stretches out toward a row of pine trees in the far distance. |
+|------|------|------|
 | enormous | 巨大的 | Enormous oil portraits in gold frames line the walls of the stairs. |
-| banister | 楼梯扶手 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
+| overflowing with | 满溢着 | On the table in the entrance hall, a grand crystal vase is overflowing with pink and yellow flowers. |
+| mahogany | 桃花心木 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
+| marble | 大理石 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
+| portraits | 肖像画 | Enormous oil portraits in gold frames line the walls of the stairs. |
+| circular | 圆形的 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
+| bookcase | 书柜 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
-| descend | 下降；下楼 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
+|------|------|------|
+| descends | 下降；下楼 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
 | oriental | 东方的 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
-| portrait | 肖像画 | Enormous oil portraits in gold frames line the walls of the stairs. |
-| circular | 圆形的 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
-| bookcase | 书柜 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
+| banister | 楼梯扶手 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
 | shepherd | 牧羊犬 | King, their German shepherd, is asleep on the patio, his head resting on his large paw. |
-| marble | 大理石 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
-| fake books | 假书 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
+| Princess Margaret | 玛格丽特公主 | This must be what Princess Margaret feels like each morning when she comes down for breakfast, Beatrix thinks. |
+| stretches out toward | 延伸向 | There are flower beds close to the house, a vegetable garden beyond, and then a green lawn that stretches out toward a row of pine trees in the far distance. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
-|---|---|---|
+|------|------|------|
+| stairs | 楼梯 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
 | entrance hall | 门厅 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
-| entire flat | 整套公寓 | The living room is down a few stairs to her right, and she feels quite sure that their entire flat could fit within that one room. |
-| stairs wrap | 楼梯绕行 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
-| shoes quiet | 鞋子无声 | Beatrix descends slowly, her hand on the mahogany banister, her shoes quiet on the oriental runners that cover the stairs. |
 | vegetable garden | 菜园 | There are flower beds close to the house, a vegetable garden beyond, and then a green lawn that stretches out toward a row of pine trees in the far distance. |
 | pine trees | 松树 | There are flower beds close to the house, a vegetable garden beyond, and then a green lawn that stretches out toward a row of pine trees in the far distance. |
+| German shepherd | 德国牧羊犬 | King, their German shepherd, is asleep on the patio, his head resting on his large paw. |
+| fake books | 假书 | Last night, Gerald had shown her a secret set of circular stairs hidden behind a bookcase that was filled with fake books. |
+| half circle | 半圆 | The stairs wrap around in a half circle as they descend, an entrance hall with a floor of white and black marble squares below. |
 
 ## 一句话总结
 
