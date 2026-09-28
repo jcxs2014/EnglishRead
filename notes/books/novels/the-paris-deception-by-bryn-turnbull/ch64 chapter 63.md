@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 - **一句话概括**：1944 年 5 月，Sophie 藏身处的第三个星期，Fabienne 独自守着空掉的 Dolus 城堡、别人的婴儿 Isaac 和一条狗 Hugo——她父母与 Cohens 一家下葬才两周，Sébastien 也已连夜从后山走掉；就在这天早上，**酒政使 Otto Klaebisch 登门**，带来两条消息：de Vogüé 因通敌被捕，庄园即将被德军征用；Fabienne 答以一个赌局——**九月收成之前她独自把葡萄收完，收成失败就把地契房产钥匙一并交出**。
 - **情感弧线位置**：**这是 Fabienne 个人线的最低点，也是全书唯一一场以"谈判"形式出现的赌命**。她在这一章里没有武器、没有同伴、没有假画可用，**手上一张牌是"我知道你的弱点"**——而那张牌是上一章的 Sophie 教给她的。
-- **Tropes 兑现/反转**：**兑现**——"落魄贵族以庄园为抵押换缓期"的老赌局；**反转**是作者把它接到父亲的一句话上：`War brings bad harvests.`（战带来坏收成）父亲当年说这话时是预言，她**把它翻译成赌注**（`If the harvest fails, I'll give you Château Dolus`），于是亡父的哀言在她这里变成一场豪赌。
+- **Tropes 兑现/反转**：**兑现**——"落魄贵族以庄园为抵押换缓期"的老赌局；**反转**是作者把它接到父亲的一句话上：`War brings bad harvests.`（战带来坏收成）父亲当年说这话时是预言，她**把它翻译成赌注**（`If the harvest fails, I’ll... I’ll give you Château Dolus`），于是亡父的哀言在她这里变成一场豪赌。
 - **人物弧线**：**Fabienne 从"被保护的人"变成"上桌的人"**——作者用一支不存在的口红完成这次升级（`wishing she had a swipe of red lipstick to complete the effect she’d honed so many years ago`）：**她要的不是化妆，是气势**，而化妆品只是气势曾经穿过的衣服。**而 Klaebisch 从"德国人"缩回"享乐主义者"**，作者用他早年的办公室经历解释这个人为什么吃这套——**一个觉得自己高过所有人的人，是可以买通的，因为自大是一种需求。**
 - **叙事手法**：第三人称限知（Fabienne）；**外部威胁（德国军官上门）与内部需求（喂奶、挤羊奶、补屋顶）交替**：每一次威胁被打断都是**孩子的哭声**，而作者让每一次打断都恰好遮住她失态的那一瞬。全章用**赌局的两次握手**（`Until harvest.` 说了两遍）封住开头与中段，结尾才把赌注翻面。
 
@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 **关键词：** I disagree / If the harvest fails / I’ll... I’ll give you Château Dolus.
 
-**为什么这样写：** 这是全章的赌注，作者只给了**六个字的下定决心**：`I disagree.`（我不同意）——连一个理由都没有，因为**理由会露怯**。然后是赌局的全部：`If the harvest fails, I'll give you Château Dolus.`——**`If` 一个从句就把一个条件句写成了一份契约**，而 `I'll` 的重复（我就会……我就会……）**不是因为她犹豫，是因为她在赌桌前需要听一遍自己押了什么**。作者随后立刻插入那个破折号里的念头（`Irresistibly, she thought of her great-grandfather, staking a hand of cards against a sneering nobleman`）：**她赌的不是庄园，是她曾祖父那一手。**
+**为什么这样写：** 这是全章的赌注，作者只给了**六个字的下定决心**：`I disagree.`（我不同意）——连一个理由都没有，因为**理由会露怯**。然后是赌局的全部：``If the harvest fails, I’ll... I’ll give you Château Dolus.``——**`If` 一个从句就把一个条件句写成了一份契约**，而 `I'll` 的重复（我就会……我就会……）**不是因为她犹豫，是因为她在赌桌前需要听一遍自己押了什么**。作者随后立刻插入那个破折号里的念头（`Irresistibly, she thought of her great-grandfather, staking a hand of cards against a sneering nobleman`）：**她赌的不是庄园，是她曾祖父那一手。**
 
 **读者视角提示：** 这六个字是全书女主线最重的一次语言动作：**她学会的第一种政治（谈判）在这里第一次用在她自己身上。**
 
@@ -143,4 +143,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-这一章是全书女主线**唯一一次不靠假画取胜**的一章：她手上没有画笔，只有一个婴儿、一条狗、一副欠揍的笑容和一座押上全部家当的庄园——作者把父亲的遗言（战带来坏收成）与她的赌注（If the harvest fails, I'll give you Château Dolus.）接在同一页上，让亡者的悲观成了女儿的行动纲领：**坏收成她见过，好的还在后面。**
+这一章是全书女主线**唯一一次不靠假画取胜**的一章：她手上没有画笔，只有一个婴儿、一条狗、一副欠揍的笑容和一座押上全部家当的庄园——作者把父亲的遗言（战带来坏收成）与她的赌注（`If the harvest fails, I’ll... I’ll give you Château Dolus.`）接在同一页上，让亡者的悲观成了女儿的行动纲领：**坏收成她见过，好的还在后面。**

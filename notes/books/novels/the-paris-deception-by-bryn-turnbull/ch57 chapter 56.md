@@ -144,6 +144,6 @@ modified: "2026-09-28"
 | dressing gown | 睡袍 | Maman was standing on the landing, her dressing gown wrapped tightly around her thin frame. |
 | covers | 被子 | Papa was snoring gently, and she rested a hand on the soft mound that was Maman, deep in sleep beneath the covers. |
 
-## 一句话总结**
+## 一句话总结
 
 上一章结束在一辆正在逃跑的卡车上，这一章开头却把它写成了一辆**慢慢隆隆开回家的车**；而全章真正的落点也不是画被搬空了，而是**一个穿睡袍的老太太慢慢走下楼梯去救一个素不相识的伤员**，以及父亲在满地画作之间转回身、用两个词告诉女儿她从来不是客人——**这一夜所有人抢的都是画，最后被确认的却是一个称呼。**

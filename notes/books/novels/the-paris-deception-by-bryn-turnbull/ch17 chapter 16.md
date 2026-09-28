@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** `We tend to`（我们通常会）在语法上是一个**弱化装置**——它把一个全家的行为降级成"习惯"。而 `to avoid uncomfortable conversations` 这个目的状语才是重点：**谎言不是为了安全，是为了省事。** 作者特意用 `conversations`（谈话）而不是 `questions`（问题）——**危险的不是被问，而是必须回应。** 而 `Swiss`（瑞士人）这个词在这里第一次出现，六年后它会成为 Sophie 用来躲同一个问题的同一句谎。
 
-**读者视角提示：** "瑞士"这个假身份是全书的一枚扣子：ch10 里 Sophie 已经用它挡过一次（`Sophie is from Switzerland`），而她的这句谎，正是从她哥哥这里学来的。
+**读者视角提示：** "瑞士"这个假身份是全书的一枚扣子：ch10 里 Sophie 自己已经用它挡过一次（`“I’m from Switzerland,” Sophie replied, and Richter grinned.`），而她的这句谎，正是从她哥哥这里学来的。
 
 ---
 

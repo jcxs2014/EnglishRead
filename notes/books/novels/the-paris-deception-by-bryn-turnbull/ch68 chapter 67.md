@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：1944 年 9 月的清晨，阳光爬过香槟产区的山丘，一寸寸照进 Dolus 城堡；**而门厅里已经画满了一整面墙**——德拉克洛瓦的自由女神披着别在墙上的蓝布，举着被禁的三色旗，长着 Sophie 的赤褐头发与圆脸，身后站着 Sébastien、Dietrich、Gerhardt、Cohens 一家、Lowenstein 一家、Camille 与她的孩子，靛蓝色的漩涡一直卷到像星空一样的天花板上；她说这既是反抗、也是悲伤、也是快乐，**是"堕落"这个词最好的形态**；然后她赶着牛车去收最后一季葡萄，听见车轮声，跑出去发现是美军卡车——**Sophie 回来了，Sébastien 活着，他们还带来一位文物官 James Rorimer。**
 - **情感弧线位置**：**这是 Fabienne 个人线的最低点与最高点在同一章内完成的交接**——前一章她还在为收成押上地契，这一章收成开始了。**而她对 Sébastien 的"以为他死了"是本章唯一的暗伤**：`She’d resigned herself to the likelihood that he’d been killed`——**她已经在心里给他办过一次葬礼，而墙上的画把他画成了"像是活着"。**
 - **Tropes 兑现/反转**：**兑现**——"大团圆式重逢"（`Tell me I’m not dreaming`）；**反转**是作者让"画"抢先于"人"完成团聚：**她把死者画进了胜利女神的身后，把活人也画了进去，然后才等到活人真的出现**——于是重逢不再是惊喜，而是**一幅画的验收**。第二个反转在结尾那句讨价还价（`Who says you can afford my salary?`）——**她把这份工作让给了 Sophie，而这个交换是全书四条线里最优雅的一次交接。**
-- **人物弧线**：**Fabienne 从"农妇"变回"画家"的那一步，作者写在她下楼梯的那一刻**——她穿着雨靴走下一段挂满纸鹤的楼梯，欣赏自己作品"终于结出了辉煌的果实"（`gratified to see her work brought to glorious fruition`），**而她对门厅的第一评价是"重新有了明亮"**——她为一个自己刚刚画完的房间感到惊讶。**Sébastien 从"鬼魂"变回"人"只用了一句话**：`If it is a dream, then, I never want to wake up.`
+- **人物弧线**：**Fabienne 从"农妇"变回"画家"的那一步，作者写在她下楼梯的那一刻**——她穿着雨靴走下一段挂满纸鹤的楼梯，欣赏自己作品"终于结出了辉煌的果实"（`gratified to see her work brought to glorious fruition`），**而她对门厅的第一评价是"重新有了明亮"**——她为一个自己刚刚画完的房间感到惊讶。**Sébastien 从"鬼魂"变回"人"只用了一句话**：`“If it is a dream,” he replied, “then, I never want to wake up.”`
 - **叙事手法**：第三人称限知（Fabienne）；**三重时间叠印**：太阳的移动（几何时间）／她听到戴高乐广播之后的那几个月（心理时间）／画上每个人的死与活（历史时间）。全章的**清单段**（`She’d painted Camille, Ossip, Hannah and Georges Cohen by the staircase, Isaac smiling contentedly in his parents’ embrace. Myriam and Dufy and Louis.`）**故意不解释这些人是谁**——**作者让一份追思名单靠顿号与专有名词自己站住**，这是全书对"记忆"最省的一次写法。
 
 ## 精读
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词：** If it is a dream / then, I never want to wake up
 
-**为什么这样写：** **全章最短的回应，也是全书的句法游戏**：`If it is a dream, then, I never want to wake up.`——英语里 `then`（那么）这个连词在条件句里是标准用法，而作者在它后面**多打了一个逗号**（`then,`），**这个多出来的逗号把"那么"变成了一个停顿**。`I never want to wake up` 里的 `never` 修饰的是"想要"这个动作本身——**他不说"我不要醒"，他说"我从不想要醒"**——于是这个否定指向的不是现在，而是**一整个人生方向**。
+**为什么这样写：** **全章最短的回应，也是全书的句法游戏**：`“If it is a dream,” he replied, “then, I never want to wake up.”`——英语里 `then`（那么）这个连词在条件句里是标准用法，而作者在它后面**多打了一个逗号**（`then,`），**这个多出来的逗号把"那么"变成了一个停顿**。`I never want to wake up` 里的 `never` 修饰的是"想要"这个动作本身——**他不说"我不要醒"，他说"我从不想要醒"**——于是这个否定指向的不是现在，而是**一整个人生方向**。
 
 **读者视角提示：** 这是本书唯一一句由逃亡者说的、听起来像情话的话——**而他刚从抵抗组织回来。**
 

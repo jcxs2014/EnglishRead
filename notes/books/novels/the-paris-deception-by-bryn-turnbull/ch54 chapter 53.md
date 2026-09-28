@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** an audacious thing for Richter to have decided / it was more audacious still for the ERR to have approved it / the crime had already been signed off by corrupt German lawmakers and the Vichy government alike
 
-**为什么这样写：** 这段的推进靠**同一个形容词的比较级**：`an audacious thing`（够大胆的事）→ `it was more audacious still`（更敢当的是）——**英语里用 `more...still` 来递进，意味着后半句的错位程度高于前半句**，而作者把这个等级给了"批准"，**不是"举办"**。而末句 `But who in this room would object to such a thing`（可这房间里谁会反对呢）是**一个不需要答案的反问**；紧跟着的 `when the crime had already been signed off by corrupt German lawmakers and the Vichy government alike`（这桩罪案早已被腐败的德国立法者和维希政府两边签字）——**`signed off`（签字放行）这个词属于办公流程，而 `corrupt...legislators`（腐败的立法者）与 `the Vichy government`（维希政府）一个带形容词、一个不带，因此作者让德国那一侧承担了"道德"这个字眼。**
+**为什么这样写：** 这段的推进靠**同一个形容词的比较级**：`an audacious thing`（够大胆的事）→ `it was more audacious still`（更敢当的是）——**英语里用 `more...still` 来递进，意味着后半句的错位程度高于前半句**，而作者把这个等级给了"批准"，**不是"举办"**。而末句 `But who in this room would object to such a thing`（可这房间里谁会反对呢）是**一个不需要答案的反问**；紧跟着的 `when the crime had already been signed off by corrupt German lawmakers and the Vichy government alike`（这桩罪案早已被腐败的德国立法者和维希政府两边签字）——**`signed off`（签字放行）这个词属于办公流程，而 `corrupt German lawmakers`（腐败的立法者）与 `the Vichy government`（维希政府）一个带形容词、一个不带，因此作者让德国那一侧承担了"道德"这个字眼。**
 
 **读者视角提示：** `signed off`（签字放行）——**这本书里最常见的凶器不是子弹，是签字。**
 

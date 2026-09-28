@@ -144,6 +144,6 @@ modified: "2026-09-28"
 | future | 未来 | Fabienne thought darkly of the future the Nazis aspired to: a future built on slave labor and the subjugation of entire populations. |
 | cheek | 脸颊 | Maman wiped her cheek hastily before turning to face Fabienne. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章的收束点是一个双关：城堡叫多洛，而她在决定去吻一个人的同一秒里把它念成了"欺骗之堡"——**她一边准备开始一段新关系，一边清点自己仍在骗着的人（他、父母、窖里那些画）；作者把这两件事放在同一个动作里，于是这一吻既是全书最真的一次靠近，也是它最诚实的一次自白。**

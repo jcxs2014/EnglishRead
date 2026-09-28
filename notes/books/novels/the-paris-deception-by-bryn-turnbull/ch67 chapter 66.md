@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 **关键词：** The Allies have taken the Latin Quarter / the Germans are preparing the roof of the museum to use it as a watchtower / No doubt they plan to defend the Rue de Rivoli
 
-**为什么这样写：** 三句是**标准的战况简报**，而作者的厉害之处在于**她报告完战况之后，句子还没完**——`they're preparing the roof of the museum`（他们正在准备馆顶）这句话的主语和宾语把**博物馆变成了双方的战场地形**。`No doubt`（毫无疑问）这个在英语里常用于"我相信"的词，**作者把它安在预测敌人的意图上，让 Rose 变成一个比敌军参谋更早知道他们要干什么的人**——而这个"预判"来自四年监视，不是来自情报系统，**是她自己听锤子听出来的。**
+**为什么这样写：** 三句是**标准的战况简报**，而作者的厉害之处在于**她报告完战况之后，句子还没完**——`the Germans are preparing the roof of the museum to use it as a watchtower`（德国人正在准备把馆顶用作瞭望塔）这句话把**博物馆写成了敌方的工事**——而报告的却是 Rose，于是战报与工事在同一句话里对调了位置。`No doubt`（毫无疑问）这个在英语里常用于"我相信"的词，**作者把它安在预测敌人的意图上，让 Rose 变成一个比敌军参谋更早知道他们要干什么的人**——而这个"预判"来自四年监视，不是来自情报系统，**是她自己听锤子听出来的。**
 
 **读者视角提示：** 这是全书对"专业"二字最省的一次描写：**她没有地图，她有一把锤子的节奏。**
 

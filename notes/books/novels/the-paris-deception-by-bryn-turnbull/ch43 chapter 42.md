@@ -145,6 +145,6 @@ modified: "2026-09-28"
 | breath | 呼吸 | She wouldn’t allow herself to go back to a life of hard scrabble and disappointment, a life devoid of the art that gave her breath. |
 | dear | 亲爱的 | “Beautifully done, my dear,” he said. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章里 Fabienne 手里做着一只绿色的手镯，脑子在做一份关于自己的诊断书，而在她视线的余光里，一个朋友夹克上多了一颗黄色的星——三件事被她用同一个动作串起来（**她的手一直稳**），而作者让诊断书在最要紧的地方出了错：她判定自己对 Sébastien 的心动只是战时恐惧的回声，却没听见母亲那句早就说过的话——真当那是恐惧的人，不会怕伤别人的心。

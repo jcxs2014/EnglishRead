@@ -146,6 +146,6 @@ modified: "2026-09-28"
 | overcoat | 大衣 | Pavel reappeared in the hallway first, dressed in trousers and an overcoat emblazoned with a yellow star. |
 | hallway | 走廊 | She lurched out of bed, but as she grew more alert she realized that the hammering in the hallway wasn’t being directed at her door. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章里她唯一做成的事是把门多开一点、对着一个抱着婴儿的女人说出"跑"——而那个女人点了一下头，抱着孩子下了楼；作者把这一夜写成"有条不紊的混乱"，并把最重的一句留给她自己：**不是因为她救不了人，而是因为她比自己哥哥更清楚地知道自己害怕。**

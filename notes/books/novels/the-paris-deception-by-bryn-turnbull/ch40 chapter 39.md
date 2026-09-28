@@ -144,6 +144,6 @@ modified: "2026-09-28"
 | advantage | 优势 | “I... I didn’t expect to see...to see a bombing in the city,” she said, and Richter pressed his advantage, drawing her closer. |
 | door | 门 | She looked up as Konrad Richter stepped through the door of the laboratory. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章把两种"黏结剂"摆在了同一页上：一种让颜料挂在画布上，另一种要让人肯跟另一个人站在一起；作者让父亲在嘴上投降、在一个闻得到汽油味的包裹里交付了后者，而中间那一整段散步，则是用一个连"这里炸过"都当成人情障碍的人，把这座城市1941年9月的一个早晨完整地演了一遍。

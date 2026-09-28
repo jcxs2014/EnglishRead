@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：1944 年 4 月，盟军的重型飞机编队出现在巴黎近郊天空，Sophie 在博物馆门口忍住了挥手的冲动；楼上堆满准备运往 Carinhall 的木箱， Resistance 炸毁的铁路让每批货都发不出去；Konrad Richter 死缠着要她帮忙处理明天到货的 Neumann 收藏，一边把手按在她的手上、说他已经为"那些退化者"的事道过歉了；她心里的答案是"那 Gerhardt 呢"；她在心里把账算完——自保、情报，以及将来有一天能追回这些画的可能——于是伸手要过了他手里的那本登记簿。
 - **情感弧线位置**：**从"不合作"到"重新合作"的转折章**——上一章她失去了父母，这一章她在同一座建筑里换上另一副面孔；全章的重量压在一只伸出去的手上。
 - **Tropes 兑现/反转**：**兑现**——战场与档案室的双线（外面的轰炸，里面的清点）、前任以公事为名的骚扰；**反转**——作者先让读者以为她要拒绝，**却让拒绝的理由全部来自计算而非意志**（自保、情报、将来能追回）；而那个最脏的词 `the degenerates` 出自**上一章亲手点了那把火的人**的道歉。
-- **人物弧线**：Richter 在这一章里第一次被写成**变了的人**——`pasting a genteel gloss`（涂一层体面的光）这个说法暗示他从前是会涂的，而今不涂了；Sophie 则从"守誓的人"变成"记账的人"，**她本章所有的动词都是被动的或工具性的**（`was pinned`、`was watching`、`glanced back`）。
+- **人物弧线**：Richter 在这一章里第一次被写成**变了的人**——`pasting a genteel gloss`（涂一层体面的光）这个说法暗示他从前是会涂的，而今不涂了；Sophie 则从"守誓的人"变成"记账的人"，**她本章所有的动词都是被动的或工具性的**（`She resisted the urge to wave`、`held out`、`glanced back`）。
 - **叙事手法**：第三人称限知（Sophie）；**两段式结构**——前半是外部世界的三件坏消息（空袭逼近、铁路被炸、粮食短缺），后半是一个人的靠近；**重复结构**是她全章的写法（`never close enough... but certainly cause for satisfaction`／`On the one hand... But...`），**作者用句法重复替她排出内心的两条账**；**收尾一个词**（`Information.`）把整章压成单音节。
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** flying ever closer to Paris these days / never close enough to give Sophie hope, not yet / but certainly cause for satisfaction / Whispers of an Allied invasion had grown stronger / seeing a new tension in their square jaws
 
-**为什么这样写：** 破折号里那一段是**精确的剂量控制**：`never close enough to give hope, not yet`（还不足以给希望，还不到）与 `but certainly cause for satisfaction`（但肯定能让人痛快）——作者不让她抱有希望，只允许她感到痛快，**而"痛快"这个词在英语里比"希望"轻得多，也因此更安全。** `Whispers`（风声）这个词很讲究：它既是传闻，也是窃窃私语，**于是盟军还没来，消息已经先在人嘴里跑起来了。** 末句用两个身体部位（`square jaws`、`the set of their shoulders`）写紧张，**都是绷紧型的结构——下颌和肩膀是人体里不会撒谎的两处。**
+**为什么这样写：** 破折号里那一段是**精确的剂量控制**：`never close enough to give Sophie hope, not yet`（还不足以给希望，还不到）与 `but certainly cause for satisfaction`（但肯定能让人痛快）——作者不让她抱有希望，只允许她感到痛快，**而"痛快"这个词在英语里比"希望"轻得多，也因此更安全。** `Whispers`（风声）这个词很讲究：它既是传闻，也是窃窃私语，**于是盟军还没来，消息已经先在人嘴里跑起来了。** 末句用两个身体部位（`square jaws`、`the set of their shoulders`）写紧张，**都是绷紧型的结构——下颌和肩膀是人体里不会撒谎的两处。**
 
 **读者视角提示：** `cause for satisfaction`（值得痛快的事）这个短语里的 `for` 把痛快写成一份**可以正当持有的东西**；**记住这个词，它会在下一段变成"账"。**
 

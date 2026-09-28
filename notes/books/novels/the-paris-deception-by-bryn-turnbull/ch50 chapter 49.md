@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：接上一章的枪口，1943 年 5 月，Fabienne 在城堡阁楼上被 Sébastien 用手电和手枪审问；她拒绝说出画的来路，他则抛出一份从"抵抗运动的人脉"里得来的调查报告，指她做过的那些事（`a bed warmer for German officers`）；她一巴掌打过去，然后用一句话把他钉住（`They killed Dietrich. Killed him.`）；怀疑一被推翻，他就把枪口垂了下去，**她于是把整个衣柜打开**，把两幅画摊在桌上叫他坐下。
 - **情感弧线位置**：**一场"互相开火却谁也没开枪"的恋爱戏**——起点是准许的关系（`We’re sleeping together`），终点也是（`Sit down, and I’ll tell you everything`），**中间那一段是全书最响的一次耳光。**
 - **Tropes 兑现/反转**：**兑现**——"爱人举枪指认自己通敌"的套式，本书还配了完整证据链（`my contacts in the Resistance`）；**反转有两层**：其一是**她确实是那个身份**（`A German’s husband, then a German’s whore`——他自己把她的罪名分成两段，因为它跨了两个政权）；其二是**把枪口压下去的并不是爱情，而是"他被杀了"这六个字**（`“He...he was killed by Nazis?”`）——**他的怜悯只对死者有效。**
-- **人物弧线**：Fabienne 本章从"被审的人"变成"给出全部证据的人"——**她本可以用一句谎话过关（`I fancied a walk`），而她选择了揭穿对方的调查来源**（`Are you an informant? A radio operator?` 是他问的，但她随即摊开画柜）；Sébastien 从"审判者"退回到"愿意坐下的人"，而作者用**他手电照过的地方**（`his fringe falling loose over his eyes`）标记他已经退出战斗状态。
+- **人物弧线**：Fabienne 本章从"被审的人"变成"给出全部证据的人"——**她本可以用一句谎话过关（`I fancied a walk`），而她选择了揭穿对方的调查来源**（`So, what? You’re an informant? A radio operator?` 是他问的，但她随即摊开画柜）；Sébastien 从"审判者"退回到"愿意坐下的人"，而作者用**他手电照过的地方**（`his fringe falling loose over his eyes`）标记他已经退出战斗状态。
 - **叙事手法**：第三人称限知（Fabienne）；**全章是一次光照的迁移**——手电从她脸上（`the torchlight beam fell onto her face`）移到枪管上（`light glinting off the barrel`），再移到画上（`letting his beam of light shine on the hatched lines of a painted haystack`）；**而调查段落用的是复数主语**（`If they were to get their hands on the paintings, how could Fabienne be sure that they wouldn’t sell them`）——**她把怀疑的主体从一个男人换成一群人，恐惧因此从私人升级为结构性。**
 
 ## 精读

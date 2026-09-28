@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：1940 年 10 月，Fabienne 从一场陪酒的夜归家，在楼梯上撞见不肯离开的犹太珠宝商遗孀 Lowenstein 太太，对方摘下一只赛璐珞手镯劝她改行；她坐在从前 Rosenberg 画廊的旧址（如今挂着纳粹"犹太人问题研究所"的牌子）对面流亡者纪念碑，遇见 Sophie——两人三年没说话，第一句客套之后，Fabienne 跟着两名士兵走进了让·德·波姆博物馆。
 - **情感弧线位置**：**双女主线在此第一次交汇**，而且交会在错误的一侧：Fabienne 是来找答案的（去博物馆），Sophie 是来隐瞒的（被母亲大人派来清点赃物）——**两人走向同一扇门，动机完全相反。**
 - **Tropes 兑现/反转**：**兑现**——失去丈夫的两位女性重逢；**反转**——作者让重逢发生在一个**赛璐珞手镯**的交接动作上，并把_opts_ Lowenstein 太太那句"我们不想让他们以为我们害怕"写成整章最贵的坚持；而结尾那句被打断的 `She can't possibly—`（她不可能……）把悬念留成一记未完成的惊呼。
-- **人物弧线**：Fabienne 从"我只需要撑过这一周"（配给簿、牛肉丁）走到"我是否还算一个画家"（`She'd been an artist then—was she an artist still?`），再走到面对 Sophie 时那句没说出口的自责（`her stomach dropped with the certainty that it had been her encouragement`）；**她到这一章末尾仍然认为死掉的人是她害的**——这是全书她最大的未解之结。
+- **人物弧线**：Fabienne 从"我只需要撑过这一周"（配给簿、牛肉丁）走到"我是否还算一个画家"（`She'd been an artist then—was she an artist still?`），再走到面对 Sophie 时那句没说出口的自责（`Fabienne’s stomach dropped with the certainty that it had been her encouragement`）；**她到这一章末尾仍然认为死掉的人是她害的**——这是全书她最大的未解之结。
 - **叙事手法**：第三人称限知（Fabienne）；两次"回看"（画廊开幕那晚／丈夫的葬礼那夜）都用**同一个句式**插入现在时流（`If she closed her eyes`／`She blinked, knowing that`）；场景走位是硬切的三段式：公寓楼梯 → 街头旧址 → 协和广场地铁口。
 
 ## 精读

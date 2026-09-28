@@ -17,7 +17,7 @@ modified: "2026-09-28"
 
 > **原句 1:** She ran her hand along one of the packing crates, stamped with the initials of the Einsatzstab Reichsleiter Rosenberg, the tidy lettering a feeble attempt to erase the provenance of the original owners with bloodless, modern bureaucracy.
 
-**中文理解：** 她把手在一个木箱上抹过，箱上盖着"莱因哈德·罗森堡特遣队"的缩写缩写印；那套整洁的字迹，是想用一种不动血、现代化的官僚手段，去抹掉原有物主的来源记录。
+**中文理解：** 她把手在一个木箱上抹过，箱上盖着"莱因哈德·罗森堡特遣队"的缩写印记；那套整洁的字迹，是作者笔下**徒劳地**想用一种不动血、现代化的官僚手段去抹掉原有物主的来源记录。
 
 **关键词：** stamped with the initials of the Einsatzstab Reichsleiter Rosenberg / the tidy lettering a feeble attempt to erase the provenance / bloodless, modern bureaucracy
 

@@ -9,8 +9,8 @@ modified: "2026-09-28"
 
 - **一句话概括**：时间倒回 1938 年 6 月，Fabienne 在一个铺着锯末、拿空酒桶当桌子的舞厅后台陪 Dietrich 登台做反法西斯演说；她替他打气（`You’ve got everything to say`），Sophie 却在台下看着越聚越多的人脸皱起眉头（`her misgivings about Dietrich speaking publicly`）——**三个人在这件事上分成两派，而这一章最后由被说服的 Sophie 亲自替他把话说圆（`We’re not in Stuttgart anymore`）。**
 - **情感弧线位置**：**全书最亮的一段回忆，也因此是最危险的一段回忆**——它把"在一起"写得毫无保留（`let herself fall, headlong, into his kiss`），而这一章同时也是**本书把"我怕"这个情绪交给了一个德国人**的唯一一次。
-- **Tropes 兑现/反转**：**兑现**——"上台前的紧张、深呼吸、鼓劲"这一整套青春片套式，本书写得比类型片更细（`whether this is the moment they all realize I’ve got nothing to say`）；**反转**——本该是 Sophie 唱反调的章节，**结尾却是她被说服**：她提出的全部理由（`What you’re doing here is important`／`We’re stopping the spread of fascism`）是Fabienne 说的，**而她自己的那条（`Work that makes him a target`）被反驳掉了。**
-- **人物弧线**：**这一章里三个人各自的核心动词是全书往后五年的引子**——Dietrich 的是 `say`（说他没话说的那份恐惧）、Fabienne 的是 `let him live it down`（我绝不会让他脱身）、Sophie 的是 `make him a target`（把他变成靶子）；**而这五个词在这本书的后半段会一一兑现，其中 Sophie 那个兑现得最早。**
+- **Tropes 兑现/反转**：**兑现**——"上台前的紧张、深呼吸、鼓劲"这一整套青春片套式，本书写得比类型片更细（`whether this is the moment they all realize I’ve got nothing to say`）；**反转**——本该是 Sophie 唱反调的章节，**结尾却是她被说服**：她提出的全部理由（`What we’re doing here is important`／`We’re stopping the spread of fascism`）是Fabienne 说的，**而她自己的那条（`Work that makes him a target`）被反驳掉了。**
+- **人物弧线**：**这一章里三个人各自的核心动词是全书往后五年的引子**——Dietrich 的是 `say`（说他没话说的那份恐惧）、Fabienne 的是 `I will never, ever let you live it down`（我绝不会让你脱身）、Sophie 的是 `make him a target`（把他变成靶子）；**而这五个词在这本书的后半段会一一兑现，其中 Sophie 那个兑现得最早。**
 - **叙事手法**：第三人称限知（Fabienne）；**全章被一道粗麻布幕布分成两半**（`Peering out from behind a burlap curtain that separated the stage from the audience`）——**作者用这块布把"台上的话"和"台下的算盘"分开写，而台下那一半写得比台上更具体**；**两次 `To business`（谈正事吧）构成对称的转场信号**——**她说这句时在演严厉，他说这句时手正在往下滑**。
 
 ## 精读
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** The sound of the audience faded away / let herself fall, headlong, into his kiss / to live every day of her life as in love with Dietrich as she was right now
 
-**为什么这样写：** `The sound of the audience faded away`（观众的声音渐渐退远）是一个**听觉的隐退**——**而它发生在一个政治集会上，因此这一吻的代价就是这一整个空间里的公共事务：声音退了，人还在。** 而 `let herself fall, headlong, into his kiss`（由着自己一头栽进他的吻里）用 `headlong`（一头栽下）——**这个词在英语里专用于不受控的向前扑**（`fall headlong`），作者让它落在一个吻上，**于是接吻被写成自由落体**；而 `let herself`（由着自己）这个**反身结构**把她写成一个**允许自己坠落的人**。末句 `to live every day of her life as in love with Dietric as she was right now`（一生每一天都像此刻这样爱他）用 `as...as`（像……一样）这个**比较结构的镜像**：`as in love as she was right now`——**而 `right now`（就在此刻）这个时间状语把这份誓言钉在一个会过期的时间上。**
+**为什么这样写：** `The sound of the audience faded away`（观众的声音渐渐退远）是一个**听觉的隐退**——**而它发生在一个政治集会上，因此这一吻的代价就是这一整个空间里的公共事务：声音退了，人还在。** 而 `let herself fall, headlong, into his kiss`（由着自己一头栽进他的吻里）用 `headlong`（一头栽下）——**这个词在英语里专用于不受控的向前扑**（`fall headlong`），作者让它落在一个吻上，**于是接吻被写成自由落体**；而 `let herself`（由着自己）这个**反身结构**把她写成一个**允许自己坠落的人**。末句 `to live every day of her life as in love with Dietrich as she was right now`（一生每一天都像此刻这样爱他）用 `as...as`（像……一样）这个**比较结构的镜像**：`as in love as she was right now`——**而 `right now`（就在此刻）这个时间状语把这份誓言钉在一个会过期的时间上。**
 
 **读者视角提示：** 这一句里她把"一生"说了出来；**而这一章是五年前——请记住这个"一生"，它是这本书里最贵的一次许诺。**
 

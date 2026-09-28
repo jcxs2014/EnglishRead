@@ -145,6 +145,6 @@ modified: "2026-09-28"
 | cigarette case | 烟盒 | He took out his cigarette case and flipped it open. |
 | hard bargain | 难做的买卖 | “You drive a hard bargain, von Frey. I admire that,” he said. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章表面上是一桩以两幅德国风景画换三幅法国大师作品的买卖，实际上是一场由四个人各自藏牌的对局：戈林藏着一句"送元首"，von Frey 藏着一句"我并不软弱"，Richter 藏着一本**不存在的账本**，而 Sophie 手里只有一件武器——她把"别的毕加索还会有"这句既是宽慰又是封口的话说得足够真诚，换来一个能独自留在殉难者之室的夜晚。

@@ -144,6 +144,6 @@ modified: "2026-09-28"
 | brute | 粗野的人 | Fabienne knew what he wanted her to say: that Dietrich was a brute, that he’d been a bad husband. |
 | glass | 酒杯 | She cleared her throat and watched as Sébastien filled her glass, the bubbles rising precariously close to the rim before subsiding. |
 
-## 一句话总结**
+## 一句话总结
 
 这一章把上一章那句"我们从喝一杯开始"兑现成了一整夜的话，而兑现的方式是**两人轮流把对方的句子还回去**：他说 `Did it ever occur to you` 是讥讽，她回敬 `You never did give yourself enough credit`，他把同一句式改成"我本来会跟你去巴黎"；等到最后，她终于可以承认自己理亏，他却用"我什么时候说过我恨你"把这件事从账本上划掉——**一整晚的坦白，换来的是一句她从没敢要的答案。**
