@@ -31,7 +31,13 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "I briefly considered eating from the placenta, just as I knew some other animal would. Sipping my own breast milk from my cupped palm also occurred to me. But I declined both possibilities as my final fall into indecency."
+> **原句 2:** "I briefly considered eating from the placenta, just as I knew some other animal would. Sipping my own breast milk from my cupped palm also occurred to me. But I declined both possibilities as my final fall into indecency. The garden would have to do. But it was not enough, and I knew it.
+
+
+When Baby Blue was little more than two weeks old—increasingly alert to life despite the fact that my milk and my mind were beginning to fail—I woke to a morning so dim and cold that it could have been the last limits of December twilight. It felt wrong from the instant I opened my eyes.
+
+
+I set the sleeping baby to my side, tucking our shared quilts around the knit blanket in which he was swaddled. Shivering, I pulled on my big sweater and peered out the small window. Snow. At least two feet had fallen in the night. No matter that it was, I guessed, late August. Any weather is fair play in high-mountain whimsy"
 
 **中文理解**：她饿到想过吃掉胎盘、喝自己的奶，最后都没做——她说那是她最后的体面。
 

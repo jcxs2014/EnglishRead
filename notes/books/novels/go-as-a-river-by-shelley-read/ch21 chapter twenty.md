@@ -19,7 +19,7 @@ modified: "2026-09-28"
 
 ## 精读
 
-> **原句 1:** "As time passed, I fell more and more in love with the summer sunrise on my orchard."
+> **原句 1:** "As time passed, I fell more and more in love with the summer sunrise on my orchard. Every morning that began by stepping out the farmhouse side door into the sweet, dewy air, fragranced with ripening peaches and rich soil and overnight rain, was, to me, a good day"
 
 **中文理解**：1970 年，她越来越爱自己果园里的那个夏日日出；早上出门那一下，对她来说都是好天气（a good day）。
 

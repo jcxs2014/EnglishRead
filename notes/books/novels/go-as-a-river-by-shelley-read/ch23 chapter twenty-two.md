@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-**一句话概括**：她在那块巨石上找到一叠用石头压着的信纸，读完 Inga Tate 的一生：捡来的孩子、十二块石头、战死的儿子、一封寄给她的信。她把信纸压回原处，交给风之外的东西保管，然后在林子里来回踱步，把这一切翻来覆去地想；最后她把两只发抖的手按在那个石圈上——她得到了儿子的名字，没有得到人。
+**一句话概括**：她在那块巨石上找到一叠用石头压着的信纸，读完 Inga Tate 的一生：捡来的孩子、十二块石头、**长子 Max 死于用药过量、次子 Lukas 穿军装站在她面前**，以及一封寄给她的信。她把信纸压回原处，交给风之外的东西保管，然后在林子里来回踱步，把这一切翻来覆去地想；最后她把两只发抖的手按在那个石圈上——她得到了儿子的名字，没有得到人。
 
 **情感弧线位置**：**全书下半部的转轴**：上半部（第一至十八章）讲的是「怎么失去」，本章第一次处理「知道真相之后怎么办」。情感上它不是升不是降，是**一次重新站立**——她第一次在获得信息之后需要**做一个决定**，而这个决定本章末尾还没有做出。
 
@@ -67,7 +67,22 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "I paced through the forest, mulling all that I had learned"
+> **原句 5:** "and secured a rock atop the stack to save it from the breeze. I stood. My mind felt too full to think clearly, my heart too swollen and sore. I had to move. I looked up for the reassurance of the blue sky framed by the treetops, and I stepped into the forest.
+
+
+Inga Tate’s story was too much—too surprising, too sad. But it was also too little.
+
+
+She had revealed so much, but she couldn’t tell me where my son was. Now this woman was begging for my help, and I had no idea how to respond.
+
+
+I was suddenly overcome by the difference between the craving for my son and the actuality of him. He was no longer an abstraction or a wish but a sad young man named Lukas who did not know where he came from, at war with enemies he could not possibly comprehend. And this Inga was not a blurry memory or some sort of savior, but a grieving woman who believed something lost might be found in me.
+
+
+I paced through the forest, mulling all that I had learned. Returning to the clearing, I imagined them there: Lukas at twelve stepping through the snow patches to discover the circle and place his peach-shaped rock; Inga, years later, returning alone after her other son’s funeral and leaving her words beneath a stone with the tenuous hope that I would read them.
+
+
+At the jagged boulder, I laid both of my unsteady palms upon the circle, hoping the years of longing contained in each carefully placed stone would guide me in what I should do next"
 
 **中文理解**：她在那片林子里来回踱步，把刚知道的一切翻来覆去地想。
 
@@ -79,7 +94,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 6:** "and secured a rock atop the stack to save it from the breeze. I stood. My mind felt too full to think clearly, my heart too swollen and sore. I had to move. I looked up for the reassurance of the blue sky framed by the treetops, and I stepped into the forest.
+> **原句 6:** "I paced through the forest, mulling all that I had learned"
 
 
 Inga Tate’s story was too much—too surprising, too sad. But it was also too little.
@@ -134,7 +149,7 @@ At the jagged boulder, I laid both of my unsteady palms upon the circle, hoping 
 
 全书最短的一章，只有十六句，却是两代人的故事撞在一起的地方。
 她在巨石上找到一叠用石块压着的信纸。二十二章的陌生人用一块石头压住自己的一生，等一个不知姓名的人来读。
-她读了。她得知那个人在林子里捡到一个被遗弃的婴儿；得知那个孩子十二岁那年自己数过一圈石子，并把一块又大又圆的石头放在圈心；得知她在孩子的两个哥哥面前撒了一个必须撑四十年的谎；得知她终于说出了真相：长子 Max 死于一次用药过量，次子 Lukas 则被征召入伍、随后在葬礼上与她擦肩而过。
+她读了。她得知那个人在林子里捡到一个被遗弃的婴儿；得知那个孩子十二岁那年自己数过一圈石子，并把一块又大又圆的石头放在圈心；得知她在孩子的两个哥哥面前撒了一个必须撑二十多年的谎；得知她终于说出了真相：长子 Max 死于一次用药过量，次子 Lukas 则被征召入伍、随后在葬礼上与她擦肩而过。
 作者用两个短句写她的第一反应：那个故事太多，太多意外，太多悲伤——**可它也太少了。**
 少在哪里？少在她没有回答那个问题：我的儿子在哪儿。
 于是全书最痛的一刻不是失去，是**差一点就全给**：对方说了能说的一切，唯独说不出那一句。

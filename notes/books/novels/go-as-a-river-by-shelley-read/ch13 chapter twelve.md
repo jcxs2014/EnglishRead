@@ -91,7 +91,16 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "I lifted his mouth to mine and sharply inhaled, spat out the mucus, locked mouths again and inhaled, drawing up life as sure as sun coaxes sprouts from the soil."
+> **原句 7:** "I lifted his mouth to mine and sharply inhaled, spat out the mucus, locked mouths again and inhaled, drawing up life as sure as sun coaxes sprouts from the soil.
+
+
+My baby boy’s first cry was the most beautiful thing I’d ever heard. I turned my astonished smile toward Wil, stunned to find him not at my side. He had been there, just seconds before, helping me save our child. And yet the only actuality of Wil was in the baby himself, pinking now and wailing. I cradled him against my chest with one hand and dragged another blanket off the bed with the other. I wiped and wrapped him, cooing unsteadily to soothe his cries. I knew I needed to find a way to cut the cord, but all I could do was cling to him and rock back and forth, weeping with joy and disbelief and gratitude. My baby lived. Perhaps I wasn’t as foolish a girl as I believed, for I had made this new life and I had given it passage.
+
+
+When he eased open his little swollen eyes and peered at me curiously for the first time, I felt wonder beyond compare. All these months I had believed this being inside my body to be a stranger, mere creature of mystery, or, perhaps, deserved atonement. Never had I imagined he would be someone I would recognize from somewhere deep and unnamable within my being, this baby with these dark eyes, uncannily familiar.
+
+
+He knit his tiny brows and we stared at each other a long while like two souls reconnected after being a universe apart"
 
 **中文理解**：孩子没有呼吸，她把他含进嘴里吸出堵着的黏液，再一次，再一次——像阳光把芽催出来那样把命吸回来。
 

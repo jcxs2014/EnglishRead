@@ -31,7 +31,16 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "Her round face was wrinkled and pale as a cabbage now, but the half-moon curve of her brown eyes still falsely implied harmlessness. I’d learned long ago not to trust those eyes"
+> **原句 2:** "Her round face was wrinkled and pale as a cabbage now, but the half-moon curve of her brown eyes still falsely implied harmlessness. I’d learned long ago not to trust those eyes or her singsongy tone of friendship. Nearly seven years had passed since that awful morning in the flophouse kitchen and her sudden revulsion at my inquiry about the boy she called a “filthy Injun,” but it might as well have been yesterday to me. Her eager grin in Chapman’s doorway reminded me why, other than business basics, I had long kept my distance.
+
+
+She asked if I’d gotten the harvest in properly, clearly expecting thanks for sending hands, which I gave her. Then she prattled on about weather and other nonsense while my mind sought a way to flee.
+
+
+Before I could escape her, she showed too many teeth and said, “And, heavens, how nice it must be for you to see your brother again.”
+
+
+I looked at her as blankly as if I had received a slap"
 
 **中文理解**：她的脸现在像一颗皱皮的白菜，可那双眼睛还是老样子——半月的弧度，看着无害。
 
@@ -94,7 +103,10 @@ I looked at her as blankly as if I had received a slap"
 
 ---
 
-> **原句 7:** "I parked the truck and got out to take one long, final look at the place that made me."
+> **原句 7:** "I had already perused its silent rooms and made peace with the memories and the items I would leave behind. Instead, I loaded the final basket into the passenger seat. It was flagged with a blue ribbon to mark its contents as special: Mother’s porcelain crosses, framed embroidery, and her Bible; Daddy’s flannel shirts; two of Ruby-Alice’s quilts and my favorite of her figurines. I rounded up the little dogs from the house and the yard and settled them in the back seat. Then I closed the kitchen door with a tug.
+
+
+I started down the long driveway, trying not to look back. But I couldn’t do it. I parked the truck and got out to take one long, final look at the place that made me. Then I returned to the truck and kept on driving. I would leave my past behind and try to build my life again, hoping not for miracles but simply for strength in new soil. I figured that if my trees could survive, uprooted and against the odds, then, damn all bad fortune"
 
 **中文理解**：她把车停在自家车道尽头，下车回头看了很久——那个地方造就了她。
 
@@ -106,7 +118,7 @@ I looked at her as blankly as if I had received a slap"
 
 ---
 
-> **原句 8:** "I had already perused its silent rooms and made peace with the memories and the items I would leave behind. Instead, I loaded the final basket into the passenger seat. It was flagged with a blue ribbon to mark its contents as special: Mother’s porcelain crosses, framed embroidery, and her Bible; Daddy’s flannel shirts; two of Ruby-Alice’s quilts and my favorite of her figurines. I rounded up the little dogs from the house and the yard and settled them in the back seat. Then I closed the kitchen door with a tug.
+> **原句 8:** "I parked the truck and got out to take one long, final look at the place that made me."
 
 
 I started down the long driveway, trying not to look back. But I couldn’t do it. I parked the truck and got out to take one long, final look at the place that made me. Then I returned to the truck and kept on driving. I would leave my past behind and try to build my life again, hoping not for miracles but simply for strength in new soil. I figured that if my trees could survive, uprooted and against the odds, then, damn all bad fortune, so too could I."

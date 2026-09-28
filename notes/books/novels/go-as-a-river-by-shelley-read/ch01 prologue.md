@@ -67,7 +67,13 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "I timed my life by the hollow whistle of the 9:22, the 2:05, the 5:47."
+> **原句 5:** "Good intentions otherwise drowned the entirety of Iola, Colorado."
+
+
+I used to stand knee-deep in this section of the Gunnison when it still rushed fast and frothy through the valley of my birth, the vast and lonely Big Blue wilderness rising above it. I knew the town of Iola when it woke each morning to fragrant breakfasts and bustling farms and ranches, how the sunrise illuminated the east side of Main then inched uptown, across the train tracks and schoolyard, to ignite the tiny church’s one round red-and-blue stained-glass window. I timed my life by the hollow whistle of the 9:22, the 2:05, the 5:47. I knew all the shortcuts and townsfolk and the oldest gnarled tree consistently producing the sweetest peaches in my family’s orchard. And I knew, perhaps more than most, the sadness of this place.
+
+
+Good intentions relocated the Iola graveyard high on a hill—each of my family’s headstones hopefully matched with their appropriate remains—where it still sits behind a white iron fence, bent and twisted from the weight of snow. Good intentions otherwise drowned the entirety of Iola"
 
 **中文理解**：她的一生是用三班火车的时刻表计时的——空洞的汽笛声就是她的钟。
 

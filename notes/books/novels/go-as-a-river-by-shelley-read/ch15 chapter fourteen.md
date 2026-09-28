@@ -91,7 +91,10 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 7:** "Both of us accustomed to silence, the old woman and I did not speak, except for my many expressions of appreciation and her satisfied grunts in response. If she heard my whimpers and sniffles as I cried for my lost baby, she knew well enough to just let me be."
+> **原句 7:** "Both of us accustomed to silence, the old woman and I did not speak, except for my many expressions of appreciation and her satisfied grunts in response. If she heard my whimpers and sniffles as I cried for my lost baby, she knew well enough to just let me be.
+
+
+I would never have known Ruby-Alice as anything but a crazy old lady in need of God’s help had it not been for Wilson Moon. I would not have known my own appeal, my beauty, my strength, or the precious feel of Baby Blue in my arms if it had not been for Wilson Moon. I pledged to try to put these memories above the pain and loss as I eventually rose from the sofa and walked with Ruby-Alice to her gate. She allowed me a quick hug of gratitude around her bony shoulders before I stepped into the pines and made my way to the path leading to my family’s farm. As I did, the long low whistle of the 5:47 sang me home"
 
 **中文理解**：她哭的时候，如果那老太太听见了，也只是让她哭——两个人都是习惯了沉默的人。
 
