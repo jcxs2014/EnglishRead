@@ -15,7 +15,7 @@ modified: "2026-09-28"
 
 **人物弧线**：Henry 白天还是 "just invented ice cream" 的阳光哥哥，夜里既扛下失恋又签下全家债务——heartache beneath the words；Lizzie 是唯一的清醒者，追问还款与抵押，却拦不住既成事实；Dad 被儿子越权，最终以「没有试图还钱」默认了这注豪赌。
 
-**叙事手法**：夜谈—次晨争吵—章末裁断的三段式；贷款细节（contract / deposit / account）全程写实；"droughts always end" 是用图书馆查证包装的赌徒信念；章末双可能句（worn down / did the right thing）把裁决权留给读者。
+**叙事手法**：夜谈—次晨争吵—章末裁断的三段式；贷款细节（contract / deposit / account）全程写实；"they always end within a few years" 是用图书馆查证包装的赌徒信念；章末双可能句（worn down / did the right thing）把裁决权留给读者。
 
 ## 精读
 
