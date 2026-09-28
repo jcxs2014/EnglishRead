@@ -161,7 +161,11 @@ def check_chapter(nn, md_path, text_dir):
     缺陷过去被两个工具双双 1/1 ✅ 放行。
     """
     # Resolve chapter number from frontmatter source_text if present
+    # 2026-09-28 修正 `ch18a` 类编号冲突：原代码把字母后缀丢掉，
+    # `ch18a the cop…md` 被拿去比对 `ch18_oh_whistle….txt` ⇒ 10/10 真实引语
+    # 全判 MISS（假红型）。改为整段携带后缀。
     actual_nn = nn
+    suffix = ''
     try:
         with open(md_path, encoding='utf-8') as f:
             content = f.read()
@@ -169,29 +173,36 @@ def check_chapter(nn, md_path, text_dir):
             end = content.find('---', 3)
             if end != -1:
                 fm_text = content[3:end]
-                # Simple regex parse for source_text: chNN
-                m_st = re.search(r'source_text:\s*[\'"]?(ch\d+)', fm_text)
+                # Simple regex parse for source_text: chNN[字母后缀]
+                m_st = re.search(r'source_text:\s*[\'"]?(ch\d+[a-z]?)', fm_text)
                 if m_st:
-                    m_num = re.search(r'(\d+)', m_st.group(1))
+                    m_num = re.match(r'(\d+)([a-z]?)', m_st.group(1))
                     if m_num:
                         actual_nn = int(m_num.group(1))
+                        suffix = m_num.group(2)
+        if not suffix:
+            # 文件名里的后缀同样有效（md 名与 text 名都带 ch18a）
+            m_fn = re.match(r'ch(\d+)([a-z]?)', os.path.basename(md_path))
+            if m_fn and int(m_fn.group(1)) == actual_nn:
+                suffix = m_fn.group(2)
     except Exception:
         pass
-    
+
     # Locate chapter text file
-    cands = [os.path.join(text_dir, f'ch{actual_nn:02d}.txt'),
-             os.path.join(text_dir, f'ch{actual_nn:02d}_')]
+    tag = f'{actual_nn:02d}{suffix}'
+    cands = [os.path.join(text_dir, f'ch{tag}.txt'),
+             os.path.join(text_dir, f'ch{tag}_')]
     tp = None
     for c in cands:
         if os.path.exists(c):
             tp = c; break
     if tp is None:
         matches = [f for f in os.listdir(text_dir)
-                   if re.match(rf'^ch{actual_nn:02d}_.*\.txt$', f)]
+                   if re.match(rf'^ch{tag}_.*\.txt$', f)]
         if matches:
             tp = os.path.join(text_dir, matches[0])
     if tp is None:
-        raise SystemExit(f'missing ch{actual_nn:02d}*.txt in {text_dir} (source_text from ch{nn:02d})')
+        raise SystemExit(f'missing ch{tag}*.txt in {text_dir} (source_text from ch{nn:02d}{suffix})')
 
     raw_chap = open(tp, encoding='utf-8').read()
     chap_text, chap_bnd, chap_orig = flat_with_bounds(raw_chap)
@@ -249,7 +260,8 @@ def scan_book(book_dir, out_dir=None):
     failed_chapters = []
     all_swallowed = []
     for md in md_files:
-        nn = int(re.match(r'ch(\d+)', os.path.basename(md)).group(1))
+        m_nn = re.match(r'ch(\d+)([a-z]?)', os.path.basename(md))
+        nn = int(m_nn.group(1))
         ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
         total_ok += ok; total += tot; short_total += short
         for it in swallowed:

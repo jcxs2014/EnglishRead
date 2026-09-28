@@ -232,14 +232,21 @@ def load_epub_book(epub_path):
 
 
 def load_chapter_corpora(book_dir):
-    """Return {nn: flat_alpha_text} for all text/chNN*.txt in book_dir."""
+    """Return {nn: flat_alpha_text} for all text/chNN*.txt in book_dir.
+
+    2026-09-28 修正 `ch18a` 类编号冲突：原正则 `ch(\\d+)` 把 `ch18a_the_cop…`
+    与 `ch18_oh_whistle…` 同映射为 18，后 glob 者覆盖前者 ⇒ ch18a 的 md 被
+    拿去比对 ch18 的语料，**30 条真实例句全绿变全红**（假红型）。
+    改为捕获可选字母后缀，用字符串键（'18a' / '18'）区分。
+    """
     text_dir = os.path.join(book_dir, 'text')
     corpora = {}
     if os.path.isdir(text_dir):
         for f in glob.glob(os.path.join(text_dir, 'ch*.txt')):
-            m = re.match(r'ch(\d+)', os.path.basename(f))
+            m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(f))
             if m:
-                nn = int(m.group(1))
+                # 归一化：去掉前导零（'05' → '5'），保留字母后缀（'18a'）
+                nn = str(int(m.group(1))) + m.group(2)
                 corpora[nn] = flat(open(f, encoding='utf-8', errors='ignore').read())
     return corpora
 
@@ -360,15 +367,16 @@ def check_book(book_dir, verbose=False):
                 k, v = line.split(':', 1)
                 fm[k.strip()] = v.strip()
         # source_text: ch04 → 优先使用，覆盖文件名章号
+        # 2026-09-28：键为字符串（'18' / '18a'），与 load_chapter_corpora 对齐
         st = fm.get('source_text', '')
-        sm = re.match(r'ch(\d+)', st)
-        nn = int(sm.group(1)) if sm else None
+        sm = re.match(r'ch(\d+)([a-z]?)', st)
+        nn = (str(int(sm.group(1))) + sm.group(2)) if sm else None
         if nn is None:
             # 回退：从文件名提取章号
-            cm = re.match(r'ch(\d+)', name)
-            nn = int(cm.group(1)) if cm else None
+            cm = re.match(r'ch(\d+)([a-z]?)', name)
+            nn = (str(int(cm.group(1))) + cm.group(2)) if cm else None
         if nn is None:
-            nn = int(fm['chapter']) if fm.get('chapter', '').isdigit() else None
+            nn = str(int(fm['chapter'])) if fm.get('chapter', '').isdigit() else None
         ch_corpus = chapter_corpora.get(nn, '') if nn is not None else ''
 
         tier = None
