@@ -404,5 +404,5 @@ modified: "2026-09-28"
 | every separate leaf… resolved into a brilliant singularity of… | 戴上眼镜 | 用 resolved 一词兼三义（矫正／解出／溶解），并用单数名词写"不可再分" |
 | He was about to read an adult verdict on who or what he was. | 档案里的 intimate | 把词典释义直接排入正文而不加引号，让读者共享角色的困惑 |
 | From the beginning, by assuming authority over his appearance… complete rights or control | Miss Cornell | 用制度语言写私人场景，并保留 `or` 不下结论 |
-| She had seeded herself into the fine grain not only of his psyche but of his biology. | 十二岁以后 | 用一个生物学比喻在同一句内完成心理→生理的迁移 |
+| She had seeded herself into the fine grain not only of his psyche but of his biology. | 十三岁以后 | 用一个生物学比喻在同一句内完成心理→生理的迁移 |
 | trapped in his thoughts like the tamed unicorn behind its circular fence | 收束 | 用有美术史出处的图像代替抽象判断，用破折号交代出处 |
