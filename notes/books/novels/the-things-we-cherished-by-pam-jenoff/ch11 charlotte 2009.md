@@ -79,7 +79,6 @@ modified: "2026-09-28"
 
 **读者视角提示**：下一行她会纠正花名——Aster。为一种花纠正别人，是本章最俏的调情；记住这个词，它就是她给出的回答。
 
-Wait — "花名恰好是 ch11 前文她在囚犯名单上读到的字" — WRONG. Aster is the anchor word I used for ch11 in verify_corpus (it appears in ch11 text — "Aster," she said). It's in THIS chapter, not a prisoner list. Fix: remove that sentence. Replace with: "记住 Aster 这个词——它就是她在那一天回答出的答案。"
 
 > **原句 7:** Then Brian walked up and I realized you were his. I wanted to die.”
 

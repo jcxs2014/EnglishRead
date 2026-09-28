@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 > **原句 7:** “This clock came to us from Heidelberg. It was sold to us by someone who had bought it off a young girl on the black market many years ago. She said it belonged to a Jewish family in Berlin before the war and she’d found it left behind.”
 
-**中文理解**：「它战前属于柏林的一个犹太家庭，」那姑娘说。多年前有人在黑市从一个年轻姑娘手里买下它——姑娘说，那是那家人被带走后留下的。
+**中文理解**：钟表匠说：这钟来自海德堡，是有人多年前在黑市从一个年轻姑娘手里买下的——姑娘说，它战前属于柏林的一个犹太家庭，是那家人被带走后留下的。
 
 **关键词**：a Jewish family in Berlin（柏林的一个犹太家庭）；left behind（被留下）
 
@@ -89,9 +89,9 @@ modified: "2026-09-28"
 
 **读者视角提示**：记住这条流转链的官方版本：巴伐利亚农夫手制→柏林犹太家庭→黑市→海德堡→Salzburg 钟表铺。它和你已知的 1903、1922 两站如何衔接，是本书留给后面的谜。
 
-Hmm wait — "1922 被偷" → the clock was stolen by Sol in 1922 to fund Jake. Then "sold to us by someone who had bought it off a young girl on the black market" — a young girl sold it on the black market. When? "many years ago" after the war? "belonged to a Jewish family in Berlin before the war and she'd found it left behind" — so the girl found it left behind (after the family was taken). This implies the Rosenbergs (Berlin Jewish family) owned it when deported... but wait Sol stole it in 1922 — where did it go? Sol took it for Jake's escape money. Did Jake sell it? It's still unresolved — the chain: Max→Dora→Sol stole→???→"Jewish family in Berlin" hmm the Rosenbergs WERE the Jewish family in Berlin. But Sol took it FROM them in 1922. So between 1922-1939 it came back?? Unresolved — ch14 might explain (Johann in Frankfurt 1911 with clock + Hannah — different clock? confusing). DON'T draw the full chain in the md! My 读者视角提示 above asserts a specific chain that I can't fully verify. Fix it: just note the provenance as revealed: made by Bavarian farmer → Jewish family in Berlin → black market → Heidelberg → Salzburg shop. That's what ch09 states. Don't link 1903/1922 yet beyond "Bavarian farmer" (which ch09 itself states).
 
-Revised 提示: "记住这条流转链的官方版本：巴伐利亚农夫手制→柏林犹太家庭→黑市→海德堡→Salzburg。它和你已知的 1903、1922 两站如何衔接，是本书留给后面的谜。"
+
+
 
 > **原句 8:** The compartment that supposedly contained the truth about what Roger had done was empty.
 

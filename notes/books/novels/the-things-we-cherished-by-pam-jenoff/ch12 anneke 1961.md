@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 > **原句 7:** An icy hand seemed to grip her by the throat. Henryk had betrayed her. Of course he had never promised her anything, but their plans to leave together, the dream that they shared, suggested more.
 
-**中文理解**：一只冰做的手扼住了她的喉咙。亨利克背叛了她。他当然从没承诺过什么，可他们一起出走的计划、共同做过的那个梦，分明意味着更多。
+**中文理解**：一只冰做的手扼住了她的喉咙。Henryk 背叛了她。他当然从没承诺过什么，可他们一起出走的计划、共同做过的那个梦，分明意味着更多。
 
-**关键词**：An icy hand（一只冰手）；Henryk had betrayed her（亨利克背叛了她）
+**关键词**：An icy hand（一只冰手）；Henryk had betrayed her（Henryk 背叛了她）
 
 **为什么这样写**：背叛被写进身体：隔着门听到的那声熟悉的轻笑之后，作者给出的不是台词，是一次生理反应——「冰手扼喉」。本书的灾难从不喊叫，都从一只手、一个物件开始：泼掉的牛奶、搁歪的杯子，如今是楼梯间的一阵冷。Anneke 的爱情死在楼梯上，比她的身体早一步。
 

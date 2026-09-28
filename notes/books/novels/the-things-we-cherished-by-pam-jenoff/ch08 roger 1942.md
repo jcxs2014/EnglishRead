@@ -47,7 +47,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者把「坠入爱河」写成一次自我坦白：不是遇见，是承认。even though 从句先堵死退路——他用「从未有过」给这份感情定性：不是孤独的代餐，是人生头一遭。
 
-**读者视角提示**：注意罗杰式的诚实：他对自己的心从不撒谎，对哥哥却要撒。这个分裂此后再没愈合过。
+**读者视角提示**：注意 Roger 式的诚实：他对自己的心从不撒谎，对哥哥却要撒。这个分裂此后再没愈合过。
 
 > **原句 4:** As his eyes adjusted to the darkness, he could see that the armoire was pushed away from the wall. He went to the opening behind it. She was huddled in the tiny crawl space, arms wrapped tightly around her knees.
 
