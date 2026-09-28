@@ -113,7 +113,7 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | watering can | 洒水壶 | Calvin shook his head, and as the last of the water poured onto my vegetables, he reached down to take the empty watering can from my hands. |
-| handbag | 手提包 | I scooped my bag up again and started toward my car, but I skimmed my gaze across the young red buckeye plants in the garden bed along the front of the porch. |
+| handbag | 手提包 | I set down my handbag and bent to inspect the pavers, feeling disloyal and foolish as I did. |
 
 ## 一句话总结
 

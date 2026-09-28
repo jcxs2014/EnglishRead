@@ -129,7 +129,7 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | fruit bowl | 果盘 | Henry was throwing himself around the room as if he were tangling with an invisible assailant, and as his arms flailed, he knocked the fruit bowl to the floor. |
-| scrawled | 潦草写就的 | I took a quick shower as soon as I woke, hoping to be dressed by the time Henry woke up, but almost as soon as I stepped under the stream, I heard Henry speaking quietly in the hallway. |
+| scrawled | 潦草写就的 | He took another bite of his apple, and I noticed the 1401 BA SE scrawled in ink on the back of his hand. |
 
 ## 一句话总结
 

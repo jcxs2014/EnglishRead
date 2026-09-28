@@ -93,7 +93,7 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | hostility | 敌意 | "Remembering the hostility we'd experienced from Detective Johnson, I didn't bother calling the police. |
-| intruder | 入侵者 | "Should I chase them? Run to the phone? Get Felix out of the house?" |
+| intruder | 入侵者 | When Jürgen got home, he went right to the neighbors behind us to ask if they'd seen anyone, but there was no one home, and the intruder was long gone. |
 | lopsided | 歪向一边的 | He flashed me a lopsided smile. |
 
 ### ⭐ 基础

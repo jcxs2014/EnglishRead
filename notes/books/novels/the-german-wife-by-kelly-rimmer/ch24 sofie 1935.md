@@ -135,7 +135,7 @@ modified: "2026-09-28"
 | gingerly | 小心翼翼地 | He sipped it gingerly, then touched his swollen eye socket, wincing. |
 | distressed | 悲痛欲绝的 | We were both sobbing now, each of us increasingly distressed. |
 | imprinted | 烙印于 | How does a person learn not to hate, when that hate has been imprinted upon them from such a young age? |
-| distraught | 心乱如麻的 | Georg and Laura were unsettled too, each protesting at feigned outrages I was too depressed to acknowledge. |
+| distraught | 心乱如麻的 | I knew that the sausages and mashed potatoes would have been salty and buttery and delicious, but I pushed the food around my plate, too distraught to eat. |
 | adaptable | 适应力强的 | But she was five years old, and five-year-olds are, if nothing else, adaptable. |
 
 ### ⭐ 基础
