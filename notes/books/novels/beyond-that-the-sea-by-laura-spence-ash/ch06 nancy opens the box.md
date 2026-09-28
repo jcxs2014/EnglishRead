@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| sign on for | 接下这档事；承接任务 | What on earth had they signed on for? |
+| signed on for | 接下这档事；承接任务 | What on earth had they signed on for? |
 | haunted | 纠缠；挥之不去 | Nancy has been haunted by the first letter from the parents: In her room, we found a stash of newspaper articles about nerve gas. |
 | stash | 一叠（藏起来的存货） | Nancy has been haunted by the first letter from the parents: In her room, we found a stash of newspaper articles about nerve gas. |
 | appeal | （对……）有吸引力 | They’re old and worn, though, with pages no longer attached to the binding, and Nancy isn’t sure they would appeal to Beatrix. |
