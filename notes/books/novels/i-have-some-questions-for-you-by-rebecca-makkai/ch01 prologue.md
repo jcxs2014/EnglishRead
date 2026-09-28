@@ -100,7 +100,7 @@ modified: "2026-09-28"
 | yearbook | 年鉴 | a cropped shot of the tennis team from the yearbook |
 | uncle | 叔叔；舅舅 | The one with the uncle? Wait, the other one with the uncle? |
 | collectively | 共同地；集体地 | Maybe it was the one we all, collectively, each bearing only the weight of a feather, got wrong. |
-| assured | 自信的；确信的 | “You’ve heard of her,” I say—a challenge, an assurance. |
+| assurance | 确信；保证 | “You’ve heard of her,” I say—a challenge, an assurance. |
 
 ### ⭐ 基础
 
