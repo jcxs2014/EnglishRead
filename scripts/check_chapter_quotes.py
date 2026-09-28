@@ -189,18 +189,25 @@ def check_chapter(nn, md_path, text_dir):
         pass
 
     # Locate chapter text file
-    tag = f'{actual_nn:02d}{suffix}'
-    cands = [os.path.join(text_dir, f'ch{tag}.txt'),
-             os.path.join(text_dir, f'ch{tag}_')]
-    tp = None
-    for c in cands:
-        if os.path.exists(c):
-            tp = c; break
-    if tp is None:
-        matches = [f for f in os.listdir(text_dir)
-                   if re.match(rf'^ch{tag}_.*\.txt$', f)]
-        if matches:
-            tp = os.path.join(text_dir, matches[0])
+    # ⚠️ 位数不能写死为 2：111 章的书用 ch001–ch111 三位号，写死 `f'{nn:02d}'`
+    # 会让 tag 与文件名系统性错位（ch009 → '09'，而磁盘上是 'ch009_'），
+    # 结果是**每一章都 SystemExit**——逐章归属这道门禁直接失效且不报错。
+    # 做法：依次试 2/3/4 位，取第一个能在 text/ 命中的；命中即用。
+    for width in (2, 3, 4):
+        tag = f'{actual_nn:0{width}d}{suffix}'
+        cands = [os.path.join(text_dir, f'ch{tag}.txt'),
+                 os.path.join(text_dir, f'ch{tag}_')]
+        tp = None
+        for c in cands:
+            if os.path.exists(c):
+                tp = c; break
+        if tp is None:
+            matches = [f for f in os.listdir(text_dir)
+                       if re.match(rf'^ch{tag}_.*\.txt$', f)]
+            if matches:
+                tp = os.path.join(text_dir, matches[0])
+        if tp is not None:
+            break
     if tp is None:
         raise SystemExit(f'missing ch{tag}*.txt in {text_dir} (source_text from ch{nn:02d}{suffix})')
 
