@@ -66,7 +66,7 @@ source_text: ch06
 
 ### 第四处
 
-> **原句 4:** "Or some kitchen things?" Monsieur de Robecourt offered quietly."
+> **原句 4:** "Or some kitchen things?" Monsieur de Robecourt offered quietly.
 
 **中文理解**：「或者一些厨房器皿？」德·罗伯库尔先生轻声补了一句。
 

@@ -52,7 +52,7 @@ source_text: ch17
 
 ### 第三处
 
-> **原句 3:** "It's not a guppy, it's a halibut," protested the patient on the next cot in wounded tones. "They all look the same on a plate," Miss Hayes shot back."
+> **原句 3:** "It's not a guppy, it's a halibut," protested the patient on the next cot in wounded tones. "They all look the same on a plate," Miss Hayes shot back.
 
 **中文理解**：「那不是小金鱼，是大比目鱼」——邻床的病人委屈地抗议。「在盘子上都一个样」，赫斯小姐当场顶了回去。
 

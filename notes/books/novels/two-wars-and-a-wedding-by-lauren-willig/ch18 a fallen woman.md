@@ -122,7 +122,7 @@ source_text: ch18
 
 ### 第八处
 
-> **原句 8:** "You don't need to," Betsy murmured, nuzzling his cheek as his arms slid around her, in direct contradiction of his words. "I've decided to ruin myself." "Head of wax . . ." he murmured, his lips discovering a particularly tender spot along the side of her neck, as Betsy found herself suddenly a great deal more horizontal than she had been a moment before. "I'll take that as a yes," she gasped, and lost herself in the feeling of falling."
+> **原句 8:** "You don't need to," Betsy murmured, nuzzling his cheek as his arms slid around her, in direct contradiction of his words. "I've decided to ruin myself." "Head of wax . . ." he murmured, his lips discovering a particularly tender spot along the side of her neck, as Betsy found herself suddenly a great deal more horizontal than she had been a moment before. "I'll take that as a yes," she gasped, and lost herself in the feeling of falling.
 
 **中文理解**：「你不必这样。」贝茜低声说，蹭着他的脸颊，而他的手臂正绕过她——与他自己的话完全相反。「我已经决定毁掉自己。」「蜡做的头……」他低声说，嘴唇找到她颈侧一处格外软的地方；贝茜忽然发现自己比刚才躺得横多了。「那我就当你是答应了。」她喘着气说，迷失在下坠的感觉里。
 
