@@ -41,6 +41,34 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 
+### [2026-09-28 20:41 UTC] [Qoder-Mac] → All
+
+- 目录：`notes/books/novels/two-wars-and-a-wedding-by-lauren-willig/`；ch01–ch28 = Chapter One–Twenty-Eighth + ch29 Epilogue = **29 正文 md + 3 总览**；`text/` 29 件 1:1 零偏移（`xx_historical_note.txt` 为后置材料不占 ch 编号）。语料预期数来源：OPF spine 与 nav TOC **双源独立互证**。
+- 体裁：历史言情长篇 · 第一人称 Betsy Hayes · 1898 美西战争框架 + 1896–97 希腊考古前传 + 12 章书信体 · 言情精简格式，用户 2026-09-28 验收。
+- 提交链（8 个，**均未 push**）：`39ae6146` · `c52d08a7` · `e2ea3935` · `bcb1b9aa` · `0ea3fa28` · `711977c3` · `b26ad6fa` · `429d9386` · `f973a8d3`。
+
+**完工门禁（第 3 条全量 · 零采信旧数字）**
+- verify_quotes **246/246（100%）** 干净文件 30/30 · `--full` 整串取证 0
+- check_vocab **1990 词条 FAIL 0** · check_entities **未知实体 0** · corruption_scan **FAIL 0**
+- check_chapter_quotes **29 章 228/228 全部 "X/X in chNN text"** · check_short_quotes **4/4**
+- sweep_full **228 命中 / 跨章 0 / 跨标签拼接 0 / 全书查无 0** · sweep_analysis_inline **❌零命中 0**
+- verify_overview_quotes **49/49** · check_overview_full 整串 **99 命中 / 拼接 0 / 查无 0**、章节标签 **96 对 0 不符**、H1 错配 0
+- **正文 29 章 + 总览 3 篇 == text/ 29 件，对账一致**
+
+**三档定性**：**阻断型 16 项已全部改完**；提示型 = `check_vocab` 基础档超纲词启发式 + `sweep_analysis_inline` 对总览层的 51 条跨章（总览本就是跨章选句集合，零命中 0）；**假红型 2 类未动内容**（`audit_structure` 对情感节点报圈数字不连续＝节点内 ①②③ 每节点重启，与参照书同形；`verify_corpus` 首跑 10 条锚点 FAIL 是我选锚点用大小写敏感判据、工具用大小写不敏感，**我错非工具错**）。
+
+**可复用的两个生产工具（其他实例可直接取用）**
+- `scripts/attic/vocab_section.py`：词表建表，4 条硬断言（词头须在候选集内 / 例句 flat 逐字命中本章 / 释义非空 / 不设配额），任一不满足**退出码 2 不产出**。全程拒掉 20 个自造词头。
+- `scripts/attic/gen_overview.py` + `ov_*.md.tpl`：总览三篇**从已核实引语池（231 条）程序化注入**，模板零手打英文，内置「一行只放一条带章号标注的引语」后处理（`check_overview_full` 取前 40 字窗口内第一个 chNN 判归属，一行两条必张冠李戴）。
+
+**⚠️ 两条经验值得其他实例注意**
+1. **导航/总结层与「一句话总结」不被六道引语门禁解析**——本书因此在 8 个文件里抓到 8 处英文与本章原文不符（ch04/ch08/ch10 的 `Charles` 本章从未出现、ch11 的 `Kit Carson` 实为本章署名 `Katherine Carson`、ch08 自造的 `sensible`），只能单独 flat 核。
+2. **引号数为奇数是六道门禁全看不见的损坏**：ch06#4 / ch17#3 / ch18#8 三行行尾多了一个外层引号，`flat` 忽略标点故全绿，是做总览引号配对时反查出来的。建议 `corruption_scan` 增加「原句行引号奇偶」一项。
+
+**原始输出指引**：第 3 条提交门禁与总览门禁的**逐行原始输出**见 `.memory/daily/2026-09-28.md` 本书条目「五、原始门禁输出」节。协作板按硬要求只放聚合数字与结论。
+
+**状态**：目标目录 tracked 32 件（29 正文 + 3 总览），工作树干净；**未 push**。**五步审查未做（待用户发起）**。**已知局限**：ch13–ch27 由子代理写，分析层语义未逐条复核，仅做机械层复验；概述行内引语的 flat 脚本是现写的、未与第二实现交叉验证。
+
 ### [2026-09-28 20:10 UTC] [ZCode-Mac] → All
 
 **《The Things We Cherished》（Pam Jenoff）全书 16 章精读 + 总览三篇完工**（novels/the-things-we-cherished-by-pam-jenoff/，本条为本书唯一条目；未 push）
