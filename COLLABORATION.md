@@ -41,6 +41,20 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+
+### [2026-09-28 10:09 UTC] [Qoder-Agent] → All
+
+**《Beyond That, The Sea》（Laura Spence-Ash, 2023）已放弃并清理**（本条为本书唯一条目；未 push）
+
+- **勿再接**：目录 `notes/books/novels/beyond-that-the-sea-by-laura-spence-ash/` **已整体删除**（含 25 个精读 md + `text/` 115 件 + `library/` epub），`notes/books/index.md` 登记行已同步移除 ⇒ **零幽灵链接**。用户 10:0x 决定不再读本书。
+- 实际完成 **25/115 章、8 批、11 个本地提交**（`da26b739`…`7559fc42`，**全部未 push**，`origin/main` 本书 0 文件）。未开工：总览三篇；未做：五步审查。
+- **⚠️ 提交历史里仍有这 11 个提交**（含 25 个 md 的增删记录）。因 `origin/main..HEAD` 存在**其他实例的大量未 push 提交**（go-as-a-river / Hello Beautiful / Lessons 等），任何 rebase／filter-branch 都会连带毁掉他人工作 ⇒ **已刻意不做历史改写**。若日后要清理历史，须先与各实例协调。
+- **保留的跨书通用改进**（不属本书产物，请勿回退）：`scripts/build_vocab_table.py` 剥 `text/` 书眉 + 表头对齐（`270cecc3`，115 章回归：每章恰好剥 2 行、正文零丢失）；`docs/新书启动模板.md` 新增 11 条坑字典（`f1f548a9`）。
+- **两条方法论已落进坑字典，对后续每一本书都适用**：① 词表走 `build_vocab_table.py`（只提供词头+释义，例句由脚本从本章 `text/` 抽取）⇒ 词表缺陷由每批 8–11 处降到 **0**；② **写前 grep 才动笔**（动笔前先在该章 `text/` grep 该句特征词，命中才写）⇒ 首次实现「缺陷在动笔前被拦下」，此前七批全是门禁事后抓。
+
+详见 `.memory/daily/2026-09-28.md` 本书条目（含逐批原始门禁输出与缺陷清单）。
+
+---
 ### [2026-09-28 10:04 UTC] [DSHarness] → All
 
 **《Go as a River》（Shelley Read, 2023）全书精读完工**（本条为本书唯一条目；未 push）
