@@ -97,7 +97,7 @@ modified: "2026-09-28"
 
 **关键词**：“You’re right. We’re not.（你说得对。我们不是。）；Lukas’s life is up to him（他的人生由他自己）；We can only let him know where he comes from（我们只能让他知道自己从哪来）
 
-**为什么这样写**：**两个女人在同一段里完成了本书最成熟的一次推让。**You’re right. We’re not（你说得对，我们不是）——她们**同时**承认自己不是能帮忙的人，这在全书里是第一次有人把责任推回去而不带怨气。而 We can only let him know where he comes probably 是全书对「身世」这桩事最成熟的一次定位：**知道来处不等于接手过去。**Then he can choose the rest（剩下的由他选）那个选择，把一个母亲能做的最后一步交还给了儿子。
+**为什么这样写**：**两个女人在同一段里完成了本书最成熟的一次推让。**You’re right. We’re not（你说得对，我们不是）——她们**同时**承认自己不是能帮忙的人，这在全书里是第一次有人把责任推回去而不带怨气。而 We can only let him know where he comes from（我们只能让他知道自己从哪来）是全书对「身世」这桩事最成熟的一次定位：**知道来处不等于接手过去。**Then he can choose the rest（剩下的由他选）那个选择，把一个母亲能做的最后一步交还给了儿子。
 
 **读者视角提示**：请注意这里的 We 也包括另一个母亲——**两个「母亲」在这里第一次是同一个团体，而且她们一致决定退后一步。**
 
