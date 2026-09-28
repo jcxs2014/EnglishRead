@@ -230,7 +230,12 @@ def main():
                     n_label_undet += 1          # 只有 epub，不能定章
                 else:
                     where = [k for k, v in chapters.items() if fq in v]
-                    if lab in where:
+                    # ⚠️ 2026-09-28 修正：`chapters` 的键是**字符串**（load_chapters
+                    # 里 str(int(...))），而 `label_near` 返回 **int** ⇒ `lab in where`
+                    # 恒为 False，**每一条章节标签都被误报成「标注与实章不符」**
+                    # （本库实测 41/41 全红，且提示语自相矛盾：「标注 ch1 …（实为 ch1）」）。
+                    # 属假红型：先修工具，不许据此改 md。
+                    if str(lab) in where:
                         n_label_ok += 1
                     else:
                         n_label_bad += 1
