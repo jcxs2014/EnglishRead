@@ -51,11 +51,14 @@ CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓
 
 
 def load_chapters(book):
+    # 2026-09-28 修正 ch18a 类编号冲突：键改字符串（'18' / '18a'），
+    # 否则 ch18a 语料覆盖 ch18 ⇒ ch18 的 md 引语被拿去对 ch18a 语料，
+    # 10 条真引语全报「全书查无」（假红型）。
     out = {}
     for p in sorted(glob.glob(os.path.join(book, 'text', '*.txt'))):
-        m = re.search(r'ch(\d+)', os.path.basename(p))
+        m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(p))
         if m:
-            out[int(m.group(1))] = flat_alpha(
+            out[str(int(m.group(1))) + m.group(2)] = flat_alpha(
                 open(p, encoding='utf-8', errors='ignore').read())
     return out
 
@@ -96,11 +99,15 @@ def suffix_match(seg, allflat):
 
 
 def md_chapter(body, name):
-    m = re.search(r'^source_text:\s*ch(\d+)', body, re.M)
+    # 键口径与 load_chapters 一致：'18' / '18a'（字符串，带后缀）
+    m = re.search(r'^source_text:\s*ch(\d+)([a-z]?)', body, re.M)
     if m:
-        return int(m.group(1))
-    m = re.search(r'ch(\d+)', name) or re.match(r'^(\d{1,3})[.\-\s]', name)
-    return int(m.group(1)) if m else None
+        return str(int(m.group(1))) + m.group(2)
+    m = re.match(r'ch(\d+)([a-z]?)', name)
+    if m:
+        return str(int(m.group(1))) + m.group(2)
+    m = re.match(r'^(\d{1,3})[.\-\s]', name)
+    return str(int(m.group(1))) if m else None
 
 
 def main():
@@ -138,7 +145,7 @@ def main():
             continue                      # 总览归 check_overview_full
         body = open(md, encoding='utf-8', errors='ignore').read()
         chap = md_chapter(body, name)
-        if only is not None and chap != only:
+        if only is not None and chap != str(only):
             continue
         quotes, _ = extract_quotes(body, include_short=True)
         for q in quotes:
@@ -186,11 +193,11 @@ def main():
     print('  （短引语 %d 条归 check_short_quotes；无章可对 %d 条未判）' % (n_short, n_nochap))
     if not quiet:
         for name, chap, q, where in crosses:
-            print('  ⚠️  %s（ch%02d）实为 ch%s：%s' % (name[:32], chap or 0, ','.join(where), q[:48]))
+            print('  ⚠️  %s（ch%s）实为 ch%s：%s' % (name[:32], chap or '?', ','.join(where), q[:48]))
         for name, chap, q in splices:
-            print('  🔶 %s（ch%02d）跨标签拼接，各段逐字都在：%s' % (name[:32], chap or 0, q[:44]))
+            print('  🔶 %s（ch%s）跨标签拼接，各段逐字都在：%s' % (name[:32], chap or '?', q[:44]))
         for name, chap, q in misses:
-            print('  ❌ %s（ch%02d）整串与分段均全书查无：%s' % (name[:32], chap or 0, q[:52]))
+            print('  ❌ %s（ch%s）整串与分段均全书查无：%s' % (name[:32], chap or '?', q[:52]))
     return 1 if n_miss else 0
 
 

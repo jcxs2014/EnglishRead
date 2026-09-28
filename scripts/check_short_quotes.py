@@ -44,10 +44,11 @@ def chapter_texts(book):
     """{章号: flat 正文}。文件名形态不设限（ch01_ / ch25_byrds_of_a_feather 都收）。"""
     out = {}
     for p in sorted(glob.glob(os.path.join(book, 'text', '*.txt'))):
-        m = re.search(r'ch(\d+)', os.path.basename(p))
+        m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(p))
         if not m:
             continue
-        out[int(m.group(1))] = flat_alpha(
+        # 2026-09-28：键带字母后缀（'18'/'18a'），与 check_vocab 对齐
+        out[str(int(m.group(1))) + m.group(2)] = flat_alpha(
             open(p, encoding='utf-8', errors='ignore').read())
     return out
 
@@ -63,11 +64,14 @@ def md_chapter(body, name):
     """
     if re.match(r'^0\d[_. ]', name) or name.startswith('00'):
         return None
-    m = re.search(r'^source_text:\s*ch(\d+)', body, re.M)
+    m = re.search(r'^source_text:\s*ch(\d+)([a-z]?)', body, re.M)
     if m:
-        return int(m.group(1))
-    m = re.search(r'ch(\d+)', name) or re.match(r'^(\d{1,3})[.\-\s]', name)
-    return int(m.group(1)) if m else None
+        return str(int(m.group(1))) + m.group(2)
+    m = re.match(r'ch(\d+)([a-z]?)', name)
+    if m:
+        return str(int(m.group(1))) + m.group(2)
+    m = re.match(r'^(\d{1,3})[.\-\s]', name)
+    return str(int(m.group(1))) if m else None
 
 
 def epub_flat(book):

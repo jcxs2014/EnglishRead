@@ -71,9 +71,10 @@ def is_quoteish(x):
 def load_chapters(book):
     out = {}
     for p in sorted(glob.glob(os.path.join(book, 'text', '*.txt'))):
-        m = re.search(r'ch(\d+)', os.path.basename(p))
+        m = re.match(r'ch(\d+)([a-z]?)', os.path.basename(p))
         if m:
-            out[int(m.group(1))] = flat_alpha(
+            # 2026-09-28：键带字母后缀（'18'/'18a'），与 check_vocab 对齐
+            out[str(int(m.group(1))) + m.group(2)] = flat_alpha(
                 open(p, encoding='utf-8', errors='ignore').read())
     return out
 
