@@ -212,7 +212,7 @@ modified: "2026-09-28"
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| reconciliations | 和好（复数，���们一次次的） | But their reconciliations were immediate and tender. |
+| reconciliations | 和好（复数，此处是他们一次次的） | But their reconciliations were immediate and tender. |
 | micro-organisms | 微生物（此处是列文虎克 1673 年描述的那些） | Two centuries passed before the establishment thought it worthwhile to look down a microscope to examine the micro-organisms Antonie van Leeuvenhoek had described in 1673. |
 | football-trophy | 举奖杯式的（此处是 Peter 举起空罐子） | He saw Roland, lifted the jar above his head football-trophy style and gave him a cheery smile. |
 | blood-pressure | 血压（此处是他的降压药） | Too many things to remember, like a sharp knife, his blood-pressure pills, the best route out of London. |
@@ -224,7 +224,7 @@ modified: "2026-09-28"
 | contradiction | 抵触 | Roland had explained many times that her wishes had been specific and that he, Roland, was not in contradiction of them. |
 | broad-brimmed | 宽檐的（帽子的） | Hiking boots under a broad-brimmed hat, another backpack, a small suitcase, a cardboard box of groceries. |
 | blueish-black | 蓝黑色的（此处的眼睛） | She had her mother's blueish-black eyes, an oceanographer's submarine gaze. |
-| oceanographer | 海洋学�� | She had her mother's blueish-black eyes, an oceanographer's submarine gaze. |
+| oceanographer | 海洋学家 | She had her mother's blueish-black eyes, an oceanographer's submarine gaze. |
 | rediscovering | 重新发现 | It seemed that once the Referendum had gone his way he was spending his time falling out with the woman he lived with and rediscovering his love for Daphne. |
 | straightening | 整理 | Now, with slow movements, he was losing more time straightening out the kitchen for Lawrence and Ingrid, then needing an extra cup of coffee for the road. |
 | self-doubting | 自我怀疑的（此处是他对自己的评价） | A self-doubting part-time keyboard player could not compete. |
