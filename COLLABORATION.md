@@ -42,18 +42,19 @@
 
 ---
 
-### [2026-09-28 11:46 UTC] [DSHarness] → All
+### [2026-09-28 12:29 UTC] [DSHarness] → All
 
-**《The Garnett Girls》（Georgina Moore）全书 28 章精读 + 总览三篇完工**（本条为本书唯一条目；未 push）
+**《The Garnett Girls》（Georgina Moore）全书 28 章精读 + 总览三篇完工 + 五步审查已做**（本条为本书唯一条目；未 push）
 
 - 目录：`notes/books/novels/the-garnett-girls-by-georgina-moore/` ｜ 体裁：当代家庭／女性文学小说（四姐妹多 POV：Margo 55 / Imogen 30 / Rachel 30 / Sasha 30 / Gabriel 55；ch23 是全书唯一男性 POV 章）
 - 交付：**28 章逐章精读 + 总览三篇（概述 / 金句 25 句 / 情感节点 10 个）= 31 个 md**；`text/` 28 件，**md 件数 == text 件数**
-- 门禁（完整 lane）：`verify_quotes` **242/242**（`--full` 整串取证 0）｜ `sweep_full` 本章命中 218 / 跨章 0 / 拼接 0 / 查无 0 ｜ 逐章归属 **ch01–ch28 28/28 章全命中** ｜ `check_vocab` 708 词条 FAIL 0 ｜ `check_entities` 0 ｜ `corruption_scan` FAIL 0 ｜ `audit_structure` 缺陷 0 / 映射 0 ｜ `check_anchor` 造词 0 ｜ `check_short_quotes` 8/8 ｜ `sweep_analysis_inline` 逐字 1836 / 拼接 0 / 部分 0 / 词形 0 / 零命中 0
-- 总览门禁：`verify_overview_quotes` 金句 **24/24 ✅** ｜ `check_overview_full` A 整串命中 114 / 拼接 0 / 查无 0 · B 章节标签 对 54 / **标注与实章不符 0** · C 跨章多重命中 0 · E H1 错配 0
-- Commit：`467dfacf`…`8565a8cb`（**12 次**）；**未 push**，等用户指令
-- **五步审查未做（待用户发起）**
+- **五步审查结论（用户 12:1x 发起，a–e 完整执行）：查出 31 处阻断型缺陷，全部已整改**。最大一处是**前提性事实错误**——写作期把本书写成「四个女儿／四姐妹」，原文三处确证是**三个女儿**（`The three daughters` / `shared three daughters` / `their three girls`），18 个文件 31 处已改（「四个女人」＝3 女儿+母亲，原文 `the four women`，11 处正确、保留）。其余为跨章引用章号错 14 处、引语与分析不对应 3 处、说话人错 3 处、计数断言数字算错 10 处、外部推算的年数断言 11 处、标签格式漂移 88 处
+- 整改后门禁（**全部当场重跑，不采信完工报告数字**）：`verify_quotes` **242/242**（`--full` 整串取证 0）｜ `sweep_full` 本章命中 218 / 跨章 0 / 拼接 0 / 查无 0 ｜ 逐章归属 **ch01–ch28 28/28** ｜ `check_vocab` 708 词条 FAIL 0 ｜ `check_entities` 0 ｜ `corruption_scan` FAIL 0 ｜ `audit_structure` 缺陷 0 / 映射 0 ｜ 四子项 225/225 ｜ `check_anchor` 造词 0 / 松散 0 ｜ `sweep_analysis_inline` 逐字 1848 / 拼接 0 / 部分 0 / 词形 0
+- 总览门禁：`verify_overview_quotes` **24/24 ✅** ｜ `check_overview_full` 整串 114 / 拼接 0 / 查无 0 · B 章节标签对账 **标注与实章不符 0** · C 跨章多重命中 0 · E H1 错配 0 ｜ **说话人窗口逐条核验 25/25 正确，0 误归**
+- Commit：`467dfacf`…`8565a8cb`（精读 12 次）＋ `a9799efd`（审查整改）；**未 push**，等用户指令
+- **已知局限**：同会话审查——批 1（ch01–10）与批 3（ch21–28）的子代理审查**失败**，已由主会话自执行，但这两批的**说话人逐块核验是抽查而非全量**（批 2 那一批 73 块是子代理全量做的）。若要彻底消除该盲区，建议指派异实例复核这两批
 
-详见 `.memory/daily/2026-09-28.md` 本书条目（含各批原始门禁输出与逐批缺陷清单）。
+详见 `.memory/daily/2026-09-28.md` 本书条目（含各批原始门禁输出、逐批缺陷清单与本次审查的原始输出）。
 
 ---
 ### [2026-09-28 11:03 UTC] [Hermes] → All
