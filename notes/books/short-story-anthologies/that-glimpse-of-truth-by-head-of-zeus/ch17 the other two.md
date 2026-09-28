@@ -106,17 +106,17 @@ modified: "2026-09-27"
 
 ---
 
-> **原句 8:** She took it all imperturbably: she had a way of surmounting obstacles without seeming to be aware of them
+> **原句 8:** With grim irony Waythorn compared himself to a member of a syndicate. He held so many shares in his wife's personality and his predecessors were his partners in the business.
 
-**中文理解：** 她把这一切不动声色地承受下来：她有一种越过障碍而不 seeming 察觉它们的方式。
+**中文理解：** 怀着严酷的自嘲，韦恩索恩把自己比作一个辛迪加的股东：他在妻子的人格里持有若干股份，而他的前任们就是这门生意里的合伙人。
 
-**句子结构：** 并列复合句。`She took it all imperturbably` 是主句；冒号后 `she had a way of surmounting obstacles` 是同位语，内含 `without seeming to be aware of them` 介词短语作方式状语。
+**句子结构：** 主句（compared himself to a member of a syndicate）+ 两个并列分句（He held so many shares... / his predecessors were his partners...），商业词汇全面接管婚姻词汇。
 
-**关键词：** surmounting（越过）、without seeming to be aware（不 seeming 察觉）
+**关键词：** syndicate（辛迪加）、shares（股份）、partners（合伙人）
 
-**表达方式：** `seeming to be aware`（显得知情）与 `being aware`（知情）之间差一个 `-ing`——她不是**不**知情，而是**不显得**知情。这个语法上的细微差别，就是全篇的观察点。
+**表达方式：** 沃顿把婚姻写成**一份股权结构图**：爱丽丝的个性被两个前夫与自己分割持股。grim irony（严酷的自嘲）标明这是丈夫的自我清算——他不是第一个投资人，也不会是最后的董事会。
 
-**为什么这样写：** 沃顿反复使用这个句式，因为它标记了整部作品的**观看方式**：韦恩索恩看到的是一个"无所不能"的妻子，而他永远不知道"无所不能"本身就是一种表演。
+**为什么这样写：** 这个比喻是全篇幽默的最冷处：连"嫉妒"都被金融化了。韦恩索恩没有为了独占而战斗，他在计算自己的持股份额——沃顿借此写出三段婚姻社会里男性自尊的真实账本。
 
 ---
 
