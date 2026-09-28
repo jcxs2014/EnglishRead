@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **中文理解**：「做一条潜藏的龙，不要动。」
 
-**关键词**：Be a hidden dragon（做潜龙）；Do not act（不要动）；the Book of Changes（《易经》）
+**关键词**：Be a hidden dragon（做潜龙）；Do not act（不要动）
 
 **为什么这样写**：这是《易经》里给女子的爻辞，**通行解是「女人要安静顺从」**——而作者紧接着写：Grandmother taught me something different（祖母教我的不一样）。祖母的解法是**把同一句经文反过来读**：hide my feelings（藏住情绪）、harness time（拿捏时机）、and when I'm ready I will leap, swim, or fly（等我准备好了，我要跳、要游、要飞）。**同一部经书，两种读法，差着一个女人的一生。** 而 leap/swim/fly 三个动词按**难度递增**排列，最后那个 fly（飞）才是全书的动作。
 

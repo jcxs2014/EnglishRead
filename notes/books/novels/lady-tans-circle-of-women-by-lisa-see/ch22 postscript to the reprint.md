@@ -47,7 +47,7 @@ modified: "2026-09-28"
 
 > **原句 3:** "her book slowly disappeared from book purveyors"
 
-**中文理解」**：她的书慢慢从书坊里消失了。
+**中文理解**：她的书慢慢从书坊里消失了。
 
 **关键词**：her book（她的书）；slowly disappeared（慢慢消失）；from book purveyors（从书坊）
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 > **原句 5:** "I worry that a servant or lesser wife in the Garden of Fragrant Delights may have found her notebooks, thought them worthless, and used the pages to cover pickle and sauce jars."
 
-**中文理解」**：我担心「园中之园」里的某个奴婢或小妾拾到了她的笔记簿，以为是废纸，拿去垫了腌菜坛和酱缸。
+**中文理解**：我担心「园中之园」里的某个奴婢或小妾拾到了她的笔记簿，以为是废纸，拿去垫了腌菜坛和酱缸。
 
 **关键词**：I worry that（我担心）；a servant or lesser wife（一个奴婢或小妾）；thought them worthless（以为是 worthless 的废纸）；used the pages to cover pickle and sauce jars（拿去垫了腌菜坛和酱缸）
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 > **原句 6:** "not just to one village or city but to the multitudes spread throughout the land"
 
-**中文理解」**：不只是一村一城，而是遍及四方的千家万户。
+**中文理解**：不只是一村一城，而是遍及四方的千家万户。
 
 **关键词**：not just to（不只给到）；one village or city（一村或一城）；the multitudes spread throughout the land（遍及天下的众人）
 

@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 5:** "Imagine how she must have felt. Imagine how the Compassionate One must have felt." "See yourself as one of us in this condition. For one moment, imagine the creature inside ripping its way out of your body."
+> **原句 5:** "Imagine how she must have felt. Imagine how the Compassionate One must have felt.” I put my hands on my belly, and his eyes widen in recognition of what’s hidden beneath the draping of my gown and robe. “See yourself as one of us in this condition. For one moment, imagine the creature inside ripping its way out of your body."
 
 **中文理解**：设想一下她当时是什么感受。设想一下「慈悲的那一位」当时是什么感受。请把自己看成我们这样的人。**有那么一刻，请设想那个东西正在从你身体里撕裂着钻出来。**
 
