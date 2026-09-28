@@ -177,7 +177,7 @@ modified: "2026-09-28"
 | staunch | 坚定的；坚决的 | The war had made such staunch British patriots of those who were too young to fully understand what they were saying. |
 | gossiped | 说闲话；嚼舌根（gossip 的过去式） | Mrs H hadn’t gossiped and speculated behind Lily’s back, or avoided her, like others had, as if Peter’s death was something you could catch. |
 | speculated | 猜测；臆测（speculate 的过去式） | Mrs H hadn’t gossiped and speculated behind Lily’s back, or avoided her, like others had, as if Peter’s death was something you could catch. |
-| unterseaboots | 潜艇（作者自造复合词 untersea+boats 兼作书面语与口语的折中） | The unterseeboots frightened Lily even more than the thought of bombs falling from the sky. |
+| lurked | 潜伏；潜行（此处主语是 U-boats，猎食动词） | U-boats lurked beneath the water. |
 | dimples | 酒窝 | She didn’t know then that it was the last time she would see him, but she was glad now that she’d stood on the doorstep a moment longer, glad she’d noticed the dimples in his cheeks, the strands of gold in his hair, the pause as he’d turned to look over his shoulder. |
 | reassuring hue | 令人安心的色调（此处指天光） | Her nights now passed in a restless pattern of fear and worry as she watched the sky and longed for the reassuring hue of daylight. |
 
