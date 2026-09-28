@@ -130,7 +130,7 @@ source_text: ch04
 
 **为什么这样写**：句式对称到像合同条款，而叙述者立刻泼冷水——"These, of course, are the kinds of vows young people feel comfortable making when they have no idea what life has in store for them."「当然」二字是全书叙述者第一次以过来人身份预告：这对誓言将被生活逐一检验。注意两人互赠的是「原谅」而非「永不伤害」——他们比谁都清楚对方一定会再伤害自己，所以提前签好赦免令。
 
-**读者视角提示**：带着这句重读 ch03 结尾与后文：Dov、Alice 之死、公司决裂、十年不说话——每次违约都在测这张赦免令的额度。本书标题「Tomorrow, and Tomorrow, and Tomorrow」的重复感，正是这种「每天重来、每天原谅」的结构。
+**读者视角提示**：带着这句重读 ch03 结尾与后文：Dov、Marx 之死、公司决裂、十年不说话——每次违约都在测这张赦免令的额度。本书标题「Tomorrow, and Tomorrow, and Tomorrow」的重复感，正是这种「每天重来、每天原谅」的结构。
 
 ---
 

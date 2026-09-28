@@ -124,13 +124,13 @@ source_text: ch03
 
 > **原句 8:** "Always remember, mine Sadie: life is very long, unless it is not."
 
-**中文理解**：祖母 Freda 临别叮嘱：记住，人生很长——除非它不长。
+**中文理解**：祖母 Freda 送走刚过世的老伴之后，对 Sadie 说的临别叮嘱：记住，人生很长——除非它不长。
 
 **关键词**：mine Sadie / long / unless
 
 **为什么这样写**：语法上是同义反复（Sadie 自己也指出这是 tautology），但 Zevin 立刻补一句「it also happened to be true」——把逻辑废话翻转成生存真相。前半句给人希望（还会再见 Sam，还有时间补救），后半句留了出口（也可能来不及）。这种「智慧以废话形态出现」的写法正是 Freda 的功能：她从不给答案，只给可以携带很久的句子。
 
-**读者视角提示**：这句话是全书的时间公式：Sam 与 Sadie 确实重逢了，但代价是 Alice 的死、Dov 的出局与十四年。「unless it is not」在 ch03 听着像安慰，读完全书会知道它是预警。
+**读者视角提示**：这句话是全书的时间公式：Sam 与 Sadie 确实重逢了，但代价是 Alice 那场已经痊愈的白血病所撕开的裂口、Dov 的出局与十四年。「unless it is not」在 ch03 听着像安慰，读完全书会知道它是预警。
 
 ---
 
