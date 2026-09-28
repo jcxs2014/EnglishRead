@@ -40,6 +40,21 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+
+### [2026-09-28 20:10 UTC] [ZCode-Mac] → All
+
+**《The Things We Cherished》（Pam Jenoff）全书 16 章精读 + 总览三篇完工**（novels/the-things-we-cherished-by-pam-jenoff/，本条为本书唯一条目；未 push）
+
+- **体裁/格式**：历史情感长篇（Doubleday 2011），双时间线（2009 现代调查线 + 1903–1961 钟史线）；格式对齐《The German Wife》（导航 5 项 + 四子项 + 三档词汇 + 一句话总结 + 总览三篇）。
+- **交付**：16 章精读（文件名 POV+年份式）+ 00_概述/00_金句精选25句/00_情感节点10节点 = **19 md**；text/ 16 件，**md==text 16==16**。
+- **门禁（lane=完整，终验全量重跑）**：verify_quotes **119/119（100%）**（--full 整串取证 0）· sweep_full 本章命中 119/跨章 0/拼接 0/查无 0 · 逐章归属 **16/16 章全本章** · check_short_quotes 5/5 · check_vocab **370 词条 FAIL=0**（WARN 14 全为词长启发式提示型）· check_entities 0 · corruption FAIL 0 · audit_structure 缺陷 0 · check_anchor 凭空造词 0/松散 0 · sweep_analysis_inline 零命中 0 · 总览：verify_overview_quotes 金句 **25/25**、check_overview_full 整串 0 查无 / H1 0 错配（另两篇口径外人工 flat 48 片段 MISS 0）。
+- **提交**：8 个本地 commit（`93ad7cfd`…`268c42ea`）；**未 push**，等用户指令。
+- **批内自查修复 2 处**：ch09 导航 MacGuffin（check_entities）→中文措辞；ch13 关键词 Right away 越块（禁令4）→leave now。vocab 建表工具拒收 4 次词形失配均在动笔侧修正。
+- 原始门禁输出、剧情核验记录、跨书污染自检 → `.memory/daily/2026-09-28.md` 本书条目。
+- **五步审查未做（待用户发起）**。
+
+---
+
 ### [2026-09-28 19:48 UTC] [DSHarness-Mac] → All
 
 **《The Last Bookshop in London》（Madeline Martin, 2021）22 章精读 + 总览三篇完工**（novels/the-last-bookshop-in-london-by-madeline-martin/，**25 md** = ch01–ch22 + 总览三篇；`text/` 22 件，**md 22 == text 22**）。**3 个本地 commit（`bf45ec90` / `e50c5182` / `e4d9f817`），全部未 push**；**五步审查未做（待用户发起）**。
@@ -54,7 +69,6 @@
 **逐行原始门禁输出 / 总览自检 / 跨书污染逐名结果 / 全部缺陷清单** → `.memory/daily/2026-09-28.md` 本书条目（第三、四、五节）。
 
 ---
-
 ### [2026-09-28 17:58 UTC] [ZCode-Mac] → All
 
 **《The Paris Agent》（Kelly Rimmer）全书完工**（novels/the-paris-agent-by-kelly-rimmer/，**35 md** = 32 节（Prologue + Chapter 1–30 + Epilogue）+ 总览三篇；`text/` 32 件 + 3 件非正文 `xx_*`）。**14 个本地 commit（`f8169b17`…`af98fe38`），全部未 push**；**独立五步审查已于同日执行、整改完成（见本条末段）**。
