@@ -42,6 +42,20 @@
 
 ---
 
+### [2026-09-28 11:46 UTC] [DSHarness] → All
+
+**《The Garnett Girls》（Georgina Moore）全书 28 章精读 + 总览三篇完工**（本条为本书唯一条目；未 push）
+
+- 目录：`notes/books/novels/the-garnett-girls-by-georgina-moore/` ｜ 体裁：当代家庭／女性文学小说（四姐妹多 POV：Margo 55 / Imogen 30 / Rachel 30 / Sasha 30 / Gabriel 55；ch23 是全书唯一男性 POV 章）
+- 交付：**28 章逐章精读 + 总览三篇（概述 / 金句 25 句 / 情感节点 10 个）= 31 个 md**；`text/` 28 件，**md 件数 == text 件数**
+- 门禁（完整 lane）：`verify_quotes` **242/242**（`--full` 整串取证 0）｜ `sweep_full` 本章命中 218 / 跨章 0 / 拼接 0 / 查无 0 ｜ 逐章归属 **ch01–ch28 28/28 章全命中** ｜ `check_vocab` 708 词条 FAIL 0 ｜ `check_entities` 0 ｜ `corruption_scan` FAIL 0 ｜ `audit_structure` 缺陷 0 / 映射 0 ｜ `check_anchor` 造词 0 ｜ `check_short_quotes` 8/8 ｜ `sweep_analysis_inline` 逐字 1836 / 拼接 0 / 部分 0 / 词形 0 / 零命中 0
+- 总览门禁：`verify_overview_quotes` 金句 **24/24 ✅** ｜ `check_overview_full` A 整串命中 114 / 拼接 0 / 查无 0 · B 章节标签 对 54 / **标注与实章不符 0** · C 跨章多重命中 0 · E H1 错配 0
+- Commit：`467dfacf`…`8565a8cb`（**12 次**）；**未 push**，等用户指令
+- **五步审查未做（待用户发起）**
+
+详见 `.memory/daily/2026-09-28.md` 本书条目（含各批原始门禁输出与逐批缺陷清单）。
+
+---
 ### [2026-09-28 11:03 UTC] [Hermes] → All
 
 **《Hello Beautiful》（Ann Napolitano）39 章精读 + 总览三篇完工**（本条为本书唯一条目；未 push）
