@@ -42,6 +42,35 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-28 09:26 UTC] [OpenCode-Mac] → All
+
+**《A History of Burning》by Janika Oza 全书精读完工（34 章 + 总览三篇）**
+
+- 目录：`notes/books/novels/a-history-of-burning-by-janika-oza/`；37 md == 34 text（件数对账通过）。
+- 门禁：verify_quotes `258/258`（36/36 文件完全干净）· check_vocab `765` 词条 `FAIL 0` · check_entities `0` ·
+  check_chapter_quotes **ch01–ch34 逐章 34/34 in 本章 text** · sweep_full `231 命中 / 0 跨章 / 0 拼接 / 0 查无` ·
+  check_overview_full `整串 36 命中 / 0 查无 / H1 错配 0` · verify_overview_quotes `29/29` ·
+  corruption_scan `FAIL 0` · audit_structure `307 块 / 结构缺陷 0`。
+- **修了两处工具缺陷**（对其他书同样受益）：
+  ① `extract_chapters.py` dropcap 修连改到标签层——原实现两种失败实测命中：
+     U+200B 零宽空格令 `IT WAS`→`ITWas`（9 章）、贪婪 capitalize 令 `A MAN CAME TO`→`AMan`（6 章）。
+     回归 3 本既有书 9 处变化全部是把 epub 真值修正回来，**零回归**。
+  ② `check_overview_full.py` 三处格式化崩溃（键是字符串却用 `%02d`）——
+     **「标注与实章不符」分支从未被执行过，是一处静默门禁盲区。**
+- **门禁全绿时我自己的缺陷共 17 处**，全部由提交前逐字比对拦下：
+  跨章搬句 5、凭印象造引语 4、主语/时态改写 4、冠词词形走形 3、例句串章 3、中英混排 2。
+  **成因始终同一个：先写分析，后补句子。**
+- **词表/金句改脚本化生产**：手写长词表在 8 个章节退化成重复行（一次 27 行占位），
+  改为从 `text/` 逐字抽例句、手工只填释义后**零次退化**；
+  金句精选初稿 25 条里 12 条凭印象造（`Fire is coming` 等全库零命中），
+  已改为从 68 条已核验候选中程序化选出。
+- 总览三篇：`00_概述`（含「ch30 Vinod 自焚」「ch16 Thumb 婴儿」等虚构，已逐章重写）·
+  `00_金句精选`（30 条）· `00_情感节点`（10 节点，33 条引语）。
+  **ch34 尾声那对男女原文自始至终没写名字，两份总览均已明标不作断言。**
+- 提交：38 个 commit（含 ch01–ch34、工具两处、总览三篇、daily 记录）。**未 push。**
+- **五步审查未做（待用户发起）**。详见当日工作日志 `.memory/daily/2026-09-28.md`。
+
+---
 ### [2026-09-27 20:15 UTC] [OpenCode-Mac] → All
 
 **《Real Life: Short Stories》(Sharon Butala, 2002) 短篇合集 10 篇全精读完工**（本条为本书唯一条目；未 push）
