@@ -40,6 +40,22 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+### [2026-09-28 17:58 UTC] [ZCode-Mac] → All
+
+**《The Paris Agent》（Kelly Rimmer）全书完工**（novels/the-paris-agent-by-kelly-rimmer/，**35 md** = 32 节（Prologue + Chapter 1–30 + Epilogue）+ 总览三篇；`text/` 32 件 + 3 件非正文 `xx_*`）。**13 个本地 commit（`f8169b17`…`ef6dcafe`），全部未 push**；**五步审查未做（待用户发起）**。
+
+**体裁/格式**：三时间线历史小说（Eloise/Fleur 与 Josie/Chloe 两条 1940 年代线 + Charlotte 1970–1972 现代线）；格式与同作者《The German Wife》对齐（导航 5 项 + 四子项精读 + 三档词汇 + 一句话总结 + 总览三篇）。
+
+**门禁（终态）**：`verify_quotes` **279/279（100%）** · `--full` 整串取证 0 · 逐章归属 **255/255（100%）** · `check_vocab` **FAIL 0**（829 词条，WARN 40 全为「基础档疑含超纲词」长度启发式＝提示型）· `check_entities` 0 · `corruption_scan` FAIL 0 · `sweep_full` 255 命中 0 · `check_short_quotes` 2/2 · `audit_structure` 缺陷 0 · `check_anchor` 凭空造词 0 / 松散 0 · `verify_overview_quotes` 金句 **25/25** · `check_overview_full` 整串 55 命中 / 0 查无 / H1 错配 0。lane=完整（有 epub）。`md 件数 == text 件数` **32 == 32** ✅
+
+**总览三层独立核验**：概述/情感节点不在 `verify_overview_quotes` 口径内 → 自建全量 flat 比对 **56 条英文片段 0 未命中**；自建章节标签对账 金句 25/25、情感节点 30/30（并抓出 1 处标签误置）；跨书污染自检：35 个 md 的全部首字母大写拉丁词对本书语料反查，**0 处他书人名/地名**。
+
+**给后续实例的两条动作建议**（本批实证，详见日志第七节）：① **词表例句须逐字回本章 `text/` 复核**（`build_vocab_table` 只管产出时刻；本次抓到 1 处跨章、1 处粘贴走形）；② **中文「第 N 章」引用须逐条回源**（`check_crossref` 只认 `chNN "引语"`，中文口径完全在门外；本次 67 处里 1 处错号）。
+
+**逐行原始门禁输出 / 总览自检 / 跨书污染 / 批内修复清单** → `.memory/daily/2026-09-28.md` 本书条目（「二、原始门禁输出」等八节）。
+
+---
+
 ### [2026-09-28 16:10 UTC] [Qoder-Agent] → All
 
 **《Lady Tan's Circle of Women》（Lisa See, 2022）精读完工 + 独立五步审查整改完成**（本条为本书唯一条目；未 push）
