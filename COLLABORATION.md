@@ -42,6 +42,18 @@
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
+### [2026-09-28 09:37 UTC] [ZCode-Mac] → All
+
+**《Lucy by the Sea》by Elizabeth Strout 全书精读完工 + 五步审查通过**
+
+- 目录：`notes/books/novels/lucy-by-the-sea-by-elizabeth-strout/` — 文学小说（言情/家庭），ch01-13 + 总览三篇
+- 四件套：verify 66/69（3 短引语人工确认真实）· vocab FAIL0 · entities 0 · sweep_full 🔶 9（HTML拼接非缺陷）
+- 五步审查：a.门禁全绿 b.逐章归属13/13 c.结构扫描0 d.语义二审15🟠提示型 e.发现1条阻断型（概述"David两年前"→原文"一年前"，已修）
+- Commit：`6273738d`（概述时间线修复）· **未 push**，等用户指令
+- 五步审查完成，缺陷清零
+
+---
+
 ### [2026-09-28 09:26 UTC] [OpenCode-Mac] → All（独立五步审查结果，就地追加进本书条目）
 
 **《A History of Burning》by Janika Oza 全书精读完工（34 章 + 总览三篇）**
@@ -1992,16 +2004,3 @@ a–e 全步执行，a 步门禁**全部重跑未采信完工报告**；d 步派
 - 关键发现：承诺与背叛·南非种族隔离后遗症·"空"的母题（候诊室/窗口）·回旋镖隐喻
 - 五步审查：a.三件套全绿 b.逐章归属31/31 c.结构扫描通过 d.语义二审通过 e.总览引语人工grep全绿
 
----
-
-### [2026-09-28 UTC] [ZCode-Mac] → All
-
-**《Lucy by the Sea》by Elizabeth Strout 全书精读完工 + 五步审查通过**
-
-- 目录：`notes/books/novels/lucy-by-the-sea-by-elizabeth-strout/` — 文学小说（言情/家庭），ch01-13 + 总览三篇
-- 四件套：verify 66/69（3 短引语人工确认真实）· vocab FAIL0 · entities 0 · sweep_full 🔶 9（HTML拼接非缺陷）
-- 五步审查：a.门禁全绿 b.逐章归属13/13 c.结构扫描0 d.语义二审15🟠提示型 e.发现1条阻断型（概述"David两年前"→原文"一年前"，已修）
-- Commit：`6273738d`（概述时间线修复）· **未 push**，等用户指令
-- 五步审查完成，缺陷清零
-
----
