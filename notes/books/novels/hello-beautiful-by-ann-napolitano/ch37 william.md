@@ -66,15 +66,15 @@ modified: "2026-09-28"
 
 **读者视角提示**：**注意作者紧接着用了一个反向的时态**（"It was too late."）**——也就是说，Sylvie 找到了完整，而 William 来不及了；而这两个事实是同一句话的两个分句。** **——而这一章最后的落点是一个极其克制的身体动作**（"this made it possible for him to take another breath"）**——所以 ch37 的收尾不是"他接受了"，是"他能呼吸了"。**
 
-> **原句 6:** "“It doesn’t matter,” he said, and stood up. “I think it does matter,” Kent said."
+> **原句 6:** "“I think it does matter,” Kent said. He looked down at his phone and said, with a tinge of amusement, “Emeline says Alice is six foot one. She’s not a baby you can drop or harm anymore, William. She’s a grown woman.”"
 
-**中文理解**："**这不重要，**"他说着站了起来。"**我认为这确实重要，**"Kent 说。
+**中文理解**："**我认为这确实重要，**"Kent 说。他低头看着手机，带着一丝笑意说："**Emeline 说 Alice 六英尺一。她已经不是你随便丢下或伤害的婴儿了，William。她是个大人。**"
 
-**关键词**：It doesn’t matter / I think it does matter / 只加了 I think
+**关键词**：I think it does matter / six foot one / a grown woman
 
-**为什么这样写**：**这是全书对"两种态度"最经济的一次并置，而它的技术是两句台词之间的对称**——**注意 Kent 没有说"It does matter"（这很重要），他说的是"I think it does matter"（我认为这重要）：主语从命题退回到说话人。** **——而作者让这个"I think"承载了整章最重要的分歧：William 判断的是事实（我不知道她），Kent 判断的是可能（她六英尺一）。** **——所以 ch37 的技术是：让一个"我认为"把一个人的知识论立场完整地暴露出来。**
+**为什么这样写**：**Kent 的台词在全书范围内是唯一一次由朋友把"事实"递到 William 面前，而它的技术是把一个数据放在拒绝之后**：先说"我认为这确实重要"（不争论，只补一条），再报出一个数字（Emeline 说六英尺一）。**——而作者让这个数字由第三方转述、来自一条手机消息，也就是说：连安慰都是转发的。** **——最后一句"She’s a grown woman"是这一段的落点，而它的措辞是名词而不是形容词：不说"She’s tough"，说 She’s a grown woman——**把资格还给年龄。** **——而 William 对这一段的反应是"他想象了一盏巨大的亮灯，得眯起眼睛"，即：别人眼里的那个女儿，是一个会发光、会刺眼的存在。**
 
-**读者视角提示**：**注意这两句之间的动作是"他站了起来"**（"and stood up"）——**也就是说，William 说完否认就离开了现场，而 Kent 的话是追着他说的。** **——而这一处是全书对 Kent 这个人物最好的定义：他从不反驳内容，他只补充一个他没被问到的事实。** **——而 ch37 真正的落点在这一章的最后一句：他把"再吸一口气"这件事，归给了两个女人替他修好的东西。**
+**读者视角提示**：**注意 Kent 说完立刻低头看手机——**也就是说：这条让 William 停下来的信息是转发的，不是他当场想到的。** **——呼应 ch37 原句 1"我完全不了解她"，也呼应 ch38 里 Alice 走进那栋房子时"像个宇航员"的自我感觉：父女俩在同一天、同一栋楼里，各自形容对方却都形容词穷。** **——而 ch37 真正的落点在章末：他把"再吸一口气"归给了两个女人替他修好的东西。**
 
 ## 本章词汇
 

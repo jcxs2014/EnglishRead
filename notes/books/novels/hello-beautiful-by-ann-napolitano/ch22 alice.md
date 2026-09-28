@@ -46,7 +46,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**注意这一段里有两个结构性细节**：**① 她拒绝了男生的约会，而同一个星期，别的男生问她是不是 Larry Bird 的女儿；② 她所在的这所大学里，能接受她身高的唯一条件是"她是真正的运动员，或者和运动员有亲缘关系"。** ——**所以 ch22 的这条线不是关于孤独，是关于"她必须被归类才能被容忍"**（"her size bothered them, like a piece of mail they couldn't find a mailbox for"）。**而这封"找不到信箱的邮件"这个比喻会在 ch24 由 William 完全反过来用一次——那里他说"他是那封邮件终于被投进了信箱"。**
 
-> **原句 4:** "“I’m not, actually,” Alice said. “People mistake my height for bravery. It’s been happening for a while now.""
+> **原句 4:** "“I’m not, actually,” Alice said. “People mistake my height for bravery. It’s been happening for a while now.”"
 
 **中文理解**："**我不是，**"爱丽丝说。"**他们把我的身高误认成勇气。这事已经持续一段时间了。**"
 

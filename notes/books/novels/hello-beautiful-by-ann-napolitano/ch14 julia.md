@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 **关键词**：Thank you for your time / Sylvie / （一个口误）
 
-**为什么这样写**：**这是全书结构上最精密的一处装置，而它只有五个词**——**一个精神科医生在跟 Julia 说话时叫成了 Sylvie，而这句话本身是一句再普通不过的客套（Thank you for your time）。** ——**而作者让 Julia 立刻抓住这个口误**（"Julia wondered why Sylvie's name had been on the doctor's mind. Had Dr. Dembia seen Sylvie recently? Had her sister been standing in front of her during the conversation?"）——**而这三个疑问，正好是全书后半段"谁在照顾 William"的三个版本。** ——**更关键的是：这句话让读者确认了一件事——Sylvie 已经在场了，而且她的场比 Julia 的深。** **而 Julia 在此刻还只是一个"被医生咨询的人"（provide some insight into William's "crash"），她不知道那个"在她面前说话的人"其实是她妹妹。**
+**为什么这样写**：**这是全书结构上最精密的一处装置，而它只有五个词**——**一个精神科医生在跟 Julia 说话时叫成了 Sylvie，而这句话本身是一句再普通不过的客套（Thank you for your time）。** ——**而作者让 Julia 立刻抓住这个口误**（"Julia wondered why Sylvie's name had been on the doctor's mind. Had Dr. Dembia seen Sylvie recently? Had her sister been standing in front of her during the conversation?"）——**而这三个疑问，正好是全书后半段"谁在照顾 William"的三个版本。** ——**更关键的是：这句话让读者确认了一件事——Sylvie 已经在场了，而且她的场比 Julia 的深。** **而 Julia 在此刻还只是一个"被医生咨询的人"（provide some insight into what she referred to as William’s “crash.”），她不知道那个"在她面前说话的人"其实是她妹妹。**
 
 **读者视角提示**：**这个口误是全书唯一一次，作者用医生（一个局外人）的失语，把两个姐妹的位置差异写成了纯偶然**——**而它对 Julia 的伤害恰恰在于她"算不出"这件事的账**（she'd had her calculus all wrong）。**所以 ch14 里 Julia 做的每一件"规划"（存钱、买答录机、找律师、去纽约），都在回答一个错误的题目——她以为自己在处理"丈夫离家"，而实际上她处理的是"我已经不在那个房间里了"。**
 

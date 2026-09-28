@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**注意这个"被认出"的人不是亲戚、不是丈夫，而是她姐夫**——**而作者在下一段立刻给出解释：William recognized the loss she was carrying inside her and spoken it aloud.**（William 认出了她心里带着的那种失去，并把它说了出来。）**这本书里最有效的一次沟通，发生在一对彼此不该说话的人之间。**
 
-> **原句 2:** "She looked at the state of her hair, which was never negotiable-she accepted whatever crazy angles or cowlicks appeared after a night’s sleep"
+> **原句 2:** "She looked at the state of her hair, which was never negotiable—she accepted whatever crazy angles or cowlicks appeared after a night’s sleep"
 
 **中文理解**：**她看了看自己头发的状态——这件事永远不可谈判——她接受一夜睡眠之后出现的任何疯狂角度或翘起的发旋。**
 
