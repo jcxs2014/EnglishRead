@@ -82,15 +82,38 @@ def strip_running_head(text: str) -> str:
     else:
         cut = nonempty[0][0] + 1           # 没匹配上：只丢标题行（与旧行为一致）
 
-    # 剥场景地点行：只剥一行，且必须还有正文在后面
+    # 剥场景地点行：最多剥两行，且必须还有正文在后面
+    # ⚠️ 2026-09-28 The Paris Deception 实测：原实现只剥一行，且判据要求
+    # **每个词首字母大写** ⇒ 「June 1936」这种日期行判否（`1936` 首字符不是
+    # 大写字母）⇒ 剥不掉，`sentences()` 又因为它没有句末标点而切不开，
+    # 于是例句变成 `June 1936 The long, vaulted galleries of the Louvre ...`。
+    # 形态：`June 1936` / `September 1940` / `One week earlier` / `5`（纯章号）
+    # / `Venice`（地名）。
+    # 判据（二选一，且都要求无句末标点 + ≤4 词 + 后面还有正文）：
+    #   (a) 地名形态：每个词首字母大写（小写功能词除外）——原判据
+    #   (b) 日期形态：首词是月份名，或全行是 1–4 位纯数字（章号）
+    # 剥两行是因为「场景地点行 + 日期行」可以相邻。
+    MONTHS = {"january", "february", "march", "april", "may", "june", "july",
+              "august", "september", "october", "november", "december",
+              "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "sept",
+              "oct", "nov", "dec"}
     rest = [(i, l) for i, l in nonempty if i >= cut]
-    if len(rest) >= 2:
+    for _ in range(2):
+        if len(rest) < 2:
+            break
         j, cand = rest[0]
         words = cand.split()
+        if re.search(r"[.?!:;,]", cand) or not (1 <= len(words) <= 4):
+            break
         cap = [w for w in words if w.casefold() not in FUNC]
-        if (not re.search(r"[.?!:;,]", cand) and 1 <= len(words) <= 4
-                and cap and all(w[:1].isupper() for w in cap)):
+        is_place = bool(cap) and all(w[:1].isupper() for w in cap)
+        head = words[0].strip(",.").casefold()
+        is_date = head in MONTHS or (len(words) == 1 and cand.isdigit())
+        if is_place or is_date:
             cut = j + 1
+            rest = [(i, l) for i, l in rest if i > j]
+        else:
+            break
     return "\n".join(lines[cut:])
 
 
