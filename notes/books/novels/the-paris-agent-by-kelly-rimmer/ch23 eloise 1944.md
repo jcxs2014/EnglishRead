@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 ---
 
-> **原句 2:** "Milton Maxwell has two cubes of sugar in his tea,"
+> **原句 2:** "“Milton Maxwell has two cubes of sugar in his tea,” a smug interrogator told me one day. “And he prefers scones to cake. That’s the level of detail we hold about your organization. Why would you put yourself through this suffering for nothing? If you work with us, you’ll only be telling us what we already know and your life will be so much easier.”"
 
 **中文理解**：「Milton Maxwell 的茶里放两块方糖。」
 
@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：说出这句判断的是一位被铐在地上的美军上尉，而作者让这个判断以"对比句"的形式出现：不是战俘的待遇，而是待决犯的待遇。全章最凉的信息由最没有发言权的人给出——这也符合本书的写法：关于结局的预告从不来自叙述者，而来自被关在最深处的人。
 
-**读者视角提示**：请把这句话与第 19 章那句"这是个报复，不是问讯"放在一起读：本书让不同章节的不同人物，用几乎同一种冷静的语法说出同一类结论。作者不安排任何人来安慰读者，只安排人把事实说明白。
+**读者视角提示**：请把这句话与第 21 章那句"这是一场报复"（this was an exercise in revenge）放在一起读：本书让不同章节的不同人物，用几乎同一种冷静的语法说出同一类结论。作者不安排任何人来安慰读者，只安排人把事实说明白。
 
 ---
 

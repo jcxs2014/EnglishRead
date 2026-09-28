@@ -107,7 +107,7 @@ modified: "2026-09-28"
 
 **中文理解**：那天我们登上开往 Strasbourg 的列车时，我止不住地想着卡车开走时 Hertha 脸上的痛楚；但我让 Mary、Wendy 和 Eloise 继续享受她们的乐观。享受片刻的安宁与积极，无害——哪怕那乐观本来就是不该有的。
 
-**关键词**：boarded the train for Strasbourg（登上开往 Strasbourg 的列车）；let them enjoy their optimism（让她们继续乐观）；unmerited（不该有的）
+**关键词**：boarded the train for Strasbourg（登上开往 Strasbourg 的列车）；let Mary and Wendy and Eloise enjoy their optimism（让 Mary、Wendy 与 Eloise 继续享受乐观）；unmerited（不该有的）
 
 **为什么这样写**：全书的最后一章正文（长篇线）在此与序章精确对接：同一列车、同一批人、同样的乐观。作者让叙述者把真相与谎言同时收在句子里——她知道这份乐观"不该有"，但仍然选择不发一言。整段话的最后三个词（it turned out to be unmerited）是一记延迟的判词：读者读到它时，序章的画面已经重新浮现。
 
