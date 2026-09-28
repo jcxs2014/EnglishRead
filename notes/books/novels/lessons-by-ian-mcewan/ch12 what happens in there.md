@@ -34,7 +34,7 @@ modified: "2026-09-28"
 | ⑦ 争执 | 同日 | "I protected you!" | **她的版本** |
 | ⑧ 唯一的男人 | 同上 | `I never forgot that you were the only man I ever loved.` | **全书的一句反转** |
 | ⑨ 火盆 | 2021 年 3 月 | 四十本日记 | **他对自己一生的判决** |
-| ⑩ 门诊 | 2021 年 5 月 | 骨刺，不是心脏 | **一次虚惊** |
+| ⑩ 门诊 | 2021 年（原文未给月份） | 骨刺，不是心脏 | **一次虚惊** |
 | ⑪ 德语 | 同上 | `Ich werde es lesen, wenn ich erwachsen bin und es dir sagen.` | **全书的最后一句** |
 
 **核心金句**
@@ -119,7 +119,7 @@ modified: "2026-09-28"
 
 **表达方式**：**两个祈使／疑问句，零客套。** 而 `My God!` 独立成分放在最前面。
 
-**为什么这样写**：作者要写**一个国家级国宝级作家在二十三年后见到的第一句话**——**而这句话里没有一个字跟艺术有关。** 而他回应的是：`I’ve kept both feet.`（我两只脚都还在。）——**而她回的是德语：`Einer reicht!`（一只就够了。）**
+**为什么这样写**：作者要写**一个国家级国宝级作家在三十年后（原文是 `thirty years`）见到的第一句话**——**而这句话里没有一个字跟艺术有关。** 而他回应的是：`I’ve kept both feet.`（我两只脚都还在。）——**而她回的是德语：`Einer reicht!`（一只就够了。）**
 
 **读者视角提示**：**这一段是全书最重要的一次"语体对撞"**——**而作者让她用的第一门语言是德语**（那句"一只就够了"），**第二门是英语（"It's lunchtime. I think you need a drink"是 ch11 里她的那句）**。而她骂他的方式，和她在 2012 年一个美国电视节目上说的那句"a surgeon might sculpt a kind of a man out of a woman"（一个外科医生可以从一个女人身上雕出一个"某种男人"，但从男人身上永远雕不出一个女人）是同一套修辞。
 
@@ -137,7 +137,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者要写一个在二十年里被指控"不带孩子、不帮家务、只想着自己"的男人的反驳。**而她的反驳是把这三样器官列出来。**
 
-**读者视角提示**：**注意这本书的书名是 `In Murnau` 而不是另一本**——**而作者在前面花了整整三段交代这本书里写的是什么**（战后德国、小镇纳粹、集体失忆、她的母亲简、法西斯白玫瑰运动）。**而罗兰的回应只有一句：`It's a lot more than that.`**
+**读者视角提示**：**注意她刚说完的那本小说**——**原文里这本书的名字是 `Her Slow Reduction`，而她刚刚用整整一段交代了它是什么**：Monika，那位垮台后飞到 Clapham 的前总理，**在书里被写成性的奴隶**（`Monika is sexually enslaved to Dieter`），**而她的相貌一部分取自她本人、另一部分取自罗兰的妹妹 Susan**。**她所谓「我本来可以写的那本回忆录」指的就是这一本——而罗兰在整段里一句都没插上话。**
 
 ### 场景七：唯一的男人
 
@@ -349,10 +349,10 @@ modified: "2026-09-28"
 
 1. **`Just as …, so …`** 的比较结构：`Just as heat bled out into cold and not the reverse, so order bled out into chaos and never in reverse.`
 2. **省略关系代词的定语从句**：`the memoir I could have written`
-4. **悬垂结构**：`Fully clothed in all that they had become they denied the real story even as they discussed it.`
-5. **`all that they had become`**（形容词性 that 作宾语）
-6. **`even as`**（"甚至就在……的同时"）
-7. **省略主句的独立主语分句**：`Nothing. It was nothing.`
+3. **`From the memoir I could have written.` 里的 `could have` 是一整章的题目**——**她能写但没写的那一本，就是这本 `Her Slow Reduction`；而罗兰此刻才知道**
+4. **`all that they had become`**（形容词性 that 作宾语）
+5. **`even as`**（"甚至就在……的同时"）
+6. **省略主句的独立主语分句**：`Nothing. It was nothing.`
 
 ### 3. 写作技巧
 
