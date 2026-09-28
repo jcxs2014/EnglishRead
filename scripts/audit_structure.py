@@ -323,10 +323,30 @@ def main():
                                   % (mine, book_quota)))
         # 编号连续（圈数字口径）。圈数字是**单个 unicode 字符**，`int('①')`
         # 直接抛 ValueError——须走 CIRCLED 的序号映射。
-        circled = [CIRCLED.index(c) + 1 for c in re.findall(
-            '[' + CIRCLED + ']',
-            '\n'.join(l for l in lines if RE_QUOTE_CIRCLED.match(l)))]
-        if circled and circled != list(range(1, len(circled) + 1)):
+        # ⚠️ 2026-09-28 修正（假红型，全库 19 本同一形态）：编号连续性**按 `##` 节重置**。
+        # `00_情感节点.md` 的排版就是**每个节点内重新起算**（`①②③ / ①② / ①②③`，
+        # 也有从 ③ 或 ⑤ 起的），而旧判据要求全文从 1 连续 ⇒ 每本有 00_情感节点
+        # 的书都报一条「圈数字编号不连续：[1, 2, 1, 2, ...]」，纯属假红。
+        # **节内只要求逐一递增**，起始值不论；只有首个 `##` 之前的部分要求从 1 起。
+        # **不能改成「跳过 00_*.md」**——那会连带丢掉总览层的占位标注与
+        # 引语重复检查（19 本里另有两处是真缺陷）。
+        def _seq_ok(seq, must_start_1):
+            if not seq:
+                return True
+            if must_start_1 and seq[0] != 1:
+                return False
+            return all(b - a == 1 for a, b in zip(seq, seq[1:]))
+
+        circled, seen_head = [], False
+        for l in lines:
+            if l.startswith('## '):
+                if not _seq_ok(circled, must_start_1=not seen_head):
+                    errs.append((name, '圈数字编号不连续：%s' % circled[:14]))
+                circled, seen_head = [], True
+            if RE_QUOTE_CIRCLED.match(l):
+                circled += [CIRCLED.index(c) + 1
+                            for c in re.findall('[' + CIRCLED + ']', l)]
+        if not _seq_ok(circled, must_start_1=not seen_head):
             errs.append((name, '圈数字编号不连续：%s' % circled[:14]))
         # 重复引语块
         seen = {}

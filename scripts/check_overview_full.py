@@ -43,6 +43,14 @@ from verify_quotes import flat_alpha, epub_flat_text  # noqa: E402
 # 总览里引语的载体：反引号、直/弯双引号。用显式 unicode 转义写定，别直接内嵌
 # 那三个字符——第一版内嵌时正则编译直接报 `missing ), unterminated subpattern`。
 SPAN = re.compile('`([^`\\n]{4,})`|"([^"\\n]{4,})"|“([^”\\n]{4,})”')
+
+# ⚠️ 2026-09-28 新增（Paris Deception 批次）：**无引号的叙述句引语**整类漏检。
+# SPAN 只认反引号／直引号／弯引号，而**叙述句引语在原文里本就不带引号**
+# （md 的 `> **原句 N:**` 行直接是一个句子），于是它们对 A 逐字与 B 标签
+# 两段**完全不可见**——实测本书 16 条，把标签改成 ch40 也照样报「0 不符」。
+# 判据：纯英文（非中文）＋ 以 `（chNN）` 收尾——`gen_overview.py` 恒把标签
+# 紧跟在引语后面，这条形态由生成器保证，不靠猜。
+SPAN_UNQUOTED = re.compile(r'([^一-鿿（\n“”"\n]{20,}?)（ch(\d{1,3})）')
 # 章节标签：`chNN`、`**出处**：chNN`、`（chNN）`
 RE_LABEL = re.compile(r'ch(\d{1,3})')
 # 总览 H1 语义：文件名 → H1 应含的关键词
@@ -168,6 +176,9 @@ def main():
     n_ok = n_nolabel = n_short = n_splice = n_miss = n_ellipsis = 0
     n_label_ok = n_label_bad = n_label_undet = n_multi = 0
     problems = []
+    # F 段计数器**必须在文件循环外**：放在循环内会被逐文件重置，
+    # 汇总行只反映最后一个文件——症状是「抓到了问题但汇总写 0」。
+    n_unq_ok = n_unq_bad = n_unq_skip = 0
     for md in ovs:
         name = os.path.basename(md)
         lines = open(md, encoding='utf-8', errors='ignore').read().split('\n')
@@ -252,6 +263,46 @@ def main():
                                             ','.join('ch%s' % k for k in where[:4]),
                                             frag[:36])))
 
+        # ── F. 无引号叙述句引语的**标签**对账（2026-09-28 新增）
+        # 刻意**只查标签、不查逐字**：逐字由 `gen_overview.py` 的池校验保证，
+        # 而「标签写错」是模板作者唯一可能犯的错。新增判定**一律只报不判红**。
+        # （计数器在文件循环外初始化，见 for md in ovs 之前）
+            in_fm2 = False   # ⚠️ 必须先置 False：无 frontmatter 的书
+            # 永远走不到 `i2 == 1 and s2 == "---"` 那一支（回归实测 all-the-lies
+            # 直接 UnboundLocalError 崩掉）
+        for i2, ln in enumerate(lines, 1):
+            s2 = ln.strip()
+            if i2 == 1 and s2 == '---':
+                in_fm2 = True
+                continue
+            if in_fm2:
+                in_fm2 = s2 != '---'
+                continue
+            covered = [(m.start(), m.end()) for m in SPAN.finditer(ln)]
+            for m in SPAN_UNQUOTED.finditer(ln):
+                a, b = m.start(1), m.end(1)
+                if any(u <= a and b <= v for u, v in covered):
+                    n_unq_skip += 1
+                    continue
+                frag = m.group(1)
+                if not is_quoteish(frag):
+                    n_unq_skip += 1
+                    continue
+                fq = flat_alpha(frag)
+                lab = int(m.group(2))
+                if fq in allflat and chapters:
+                    where = [k for k, v in chapters.items() if fq in v]
+                    if str(lab) in where:
+                        n_unq_ok += 1
+                    else:
+                        n_unq_bad += 1
+                        problems.append(('F', name, i2,
+                                         '无引号引语标注 ch%s 但实为 %s：%s'
+                                         % (lab, ','.join('ch%s' % k for k in where[:4])
+                                            if where else '全书无', frag[:40])))
+                else:
+                    n_unq_skip += 1
+
     print('=== 总览整串核查（%s）===' % os.path.basename(book.rstrip('/')))
     print('  参照集：%s ｜ 总览文件 %d 个'
           % ('text/ 逐章（%d 章）' % len(chapters) if chapters else 'epub 整书（不能定章）',
@@ -261,11 +312,13 @@ def main():
     print('  B 章节标签：对 %d ｜ 标注与实章不符 %d（**只报不判红**：分不清真错标与'
           '有意的相关章引用）｜ 无标签未判 %d ｜ 无法判定(无逐章参照) %d'
           % (n_label_ok, n_label_bad, n_nolabel, n_label_undet))
+    print('  F 无引号引语标签：对 %d ｜ 不符 %d（**只报不判红**）｜ 跳过 %d'
+          % (n_unq_ok, n_unq_bad, n_unq_skip))
     print('  C 跨章多重命中：%d ｜ E H1 语义错配：%d'
           % (n_multi, sum(1 for p in problems if p[0] == 'E')))
     if not quiet:
         for kind, name, ln, msg in problems:
-            print('  %s %s:%d  %s' % ({'A': '⚠️', 'B': '⚠️', 'C': '⚠️', 'E': '❌'}[kind],
+            print('  %s %s:%d  %s' % ({'A': '⚠️', 'B': '⚠️', 'C': '⚠️', 'F': '⚠️', 'E': '❌'}[kind],
                                       name[:30], ln, msg))
     # ⚠️ **B（章节标签错）只报不判红**——机械上分不清两种情况：
     #   ① 真错标：引语在 ch29、标成 ch02

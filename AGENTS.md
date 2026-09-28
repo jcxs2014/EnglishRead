@@ -447,7 +447,7 @@
 | `check_entities.py` | 梗概实体一致性 · ⚠️ **只扫 `## 故事梗概`/`## 本章导航`/`## 梗概` 三节**；作者姓/系列名须 `whitelist.txt` 逐本豁免 |
 | `corruption_scan.py` | 编辑损坏扫描 P1（U+FFFD/双句号/占位崩坏）· `python3 scripts/corruption_scan.py "<书目录>" [--quiet]` · ⚠️ U+FFFD 与双句号判 FAIL；**中文重复片段只报告不判红**（假阳约 50%）。**进提交门禁**——这类损坏六道门禁全看不见 |
 | `sweep_full.py` | 引语**整串** flat 比对（52 字符指纹盲区克星）· `python3 scripts/sweep_full.py "<书目录>" [--quiet]` · ⚠️ **2026-09-27 裁决：进第 3 条提交门禁**（旧表述与同行「终验标准件」自相矛盾；参照集 `text/` 优先、不依赖 epub；理由见档案）。四档含「跨标签拼接 🔶」——flat 查无 ≠ 凭空造词。**另抓「词替换型拼接」：逐字命中但实义词被换成同位置另一词，52 字符指纹与 flat 皆通过、只有整串比对可见**（the-boyfriend ch01 `kiss Daisy`→`kiss her`，verify_quotes 与 check_chapter_quotes 双绿） |
-| `check_overview_full.py` | 总览三篇整串 + 章节标签对账 + **H1 语义校验** · ⚠️ 需 epub；**章节标签只报不判红**（分不清错标与有意引相关章）；实现须与 `sweep_full` 同口径 |
+| `check_overview_full.py` | 总览三篇整串 + 章节标签对账 + **H1 语义校验** + **F 段无引号引语标签对账**（2026-09-28 补：叙述句引语**在原文里不带引号**，旧 `SPAN` 只认引号 ⇒ 该类整类漏检，把标签改成 ch40 也照样报「0 不符」）· ⚠️ 需 epub；**章节标签只报不判红**（分不清错标与有意引相关章）；实现须与 `sweep_full` 同口径 |
 | `verify_overview_quotes.py` | 总览三篇引语门禁 · ⚠️ **概述行内英文引语不在口径内，须逐条人工 grep**；只认 `**①** "…"` 行中格式，`**① "…"**` 整行粗体提取 0 |
 | `check_short_quotes.py` | 短引语兜底（<20 字符被 `verify_quotes` 跳过的那批）· `python3 scripts/check_short_quotes.py "<书目录>"` · ⚠️ 口径必须复用 `verify_quotes`；**跨标签拼接兜底不可省**，否则真引语被报成凭空造词 |
 | `sweep_analysis_inline.py` | 分析层行内英文逐字（P1）· `python3 scripts/sweep_analysis_inline.py "<书目录>" [--quiet]` · ⚠️ **六道门禁都不看分析层**——禁令 3 的唯一事后抓手；七档按优先级，**B 类（语料缺）必须最先判**、partial 必须排在 stem 之前 |
@@ -458,7 +458,7 @@
 | `build_vocab_table.py` | **生产工具** 三档词表**建表**（`--tiers tiers.json`，格式见 docstring）· 词头逐字验证 + 例句自动抽取 · ⚠️ **任一词头不在本章即退出码 2、拒绝输出**⇒ 例句不可能来自他章、不可能被编造 |
 | `build_vocab_section.py` | **生产工具** 把三档小节写进 md 的 `## 本章词汇`（`<md> <NN> '<head>释义'...` 或 `--glosses <json>`）· **3 项硬断言**（词头须在**本章候选集**内／释义非空／**本脚本将写入的每一行**例句须 flat 命中本章），任一不满足**退出码 2 且不产出** · ⚠️ **空档留空、不插占位行**（`| （本章无X词） |` 会被 `check_vocab` 判 FAIL）；未给释义的候选不写入。**断言的对象是脚本自己将写的行，不是调用方传来的东西**——例句恒由脚本从 `text/` 抽，校验调用方的例句是**死代码** |
 | `vocab_candidates.py` | **生产工具（非检测）** 从 `text/` 打出可粘贴的三档表格行 → 粘贴 → **只填释义** → 某档不足**留空不补** · ⚠️ 敢输出「本章 0 条高级」；档位是长度启发式，错了只报 WARN |
-| `gen_overview.py` | **生产工具（非检测）** 总览三篇**从已核实引语池程序化生成**（`python3 scripts/gen_overview.py <书目录>`；模板在 `scripts/overview_templates/ov_*.md.tpl`）· 池 = 29 章已过 `verify_quotes` 的引语块，写入前**再 flat 比对一次 `text/`**，错章即退出码 2 ⇒ **模板内零手打英文** · ⚠️ 内置**「一行只放一条带章号标注的引语」**后处理（`check_overview_full` 取「引语前 40 字窗口内第一个 chNN」判归属，一行两条必张冠李戴）与**「空 glob 即报错」**的假成功守卫 |
+| `gen_overview.py` | **生产工具（非检测）** 总览三篇**从已核实引语池程序化生成**（`python3 scripts/gen_overview.py <书目录> [模板目录]`；模板**按书隔离**在 `<书目录>/.overview_templates/`，不存在才回退全局 `scripts/overview_templates/`——模板占位符指向该书自己的章号，两本书共用目录会把两套模板交叉写坏）· 池 = 29 章已过 `verify_quotes` 的引语块，写入前**再 flat 比对一次 `text/`**，错章即退出码 2 ⇒ **模板内零手打英文** · ⚠️ 内置**「一行只放一条带章号标注的引语」**后处理，**以 `（chNN）` 标注为锚点、在标注之后切**（不是以引号为锚点：台词中段的引语在原文里没有开引号，按引号切会错位；散文行也要切，不能只切 `**` 开头的行）与**「空 glob 即报错」**的假成功守卫 · ⚠️ 池抽取正则**必须兼容 `**中文理解：**`（冒号在粗体内）与 `**中文理解**：`（冒号在粗体外）两种形态**——不兼容时静默抽 0 条，症状是「引语池无 chNN#1」，与格式问题相隔三层 |
 | `audit_book.py` | 一键总账 A/B/C/D · ⚠️ **不含 crossref**；C 节五子项对精简格式全量误报 |
 | `pick_quotes.py` | 检索式选句辅助（Hermes 产）· `python3 scripts/pick_quotes.py <NN> [count]` |
 | **采集/协作（非门禁）** | `fetch_paris` / `fetch_lithub` / `fetch_granta` / `fetch_brainpickings`（「来源清单」四个 RSS 源）· `grab_epub` · `sort_collab_messages`——用法见模板 |

@@ -27,16 +27,26 @@ def build_pool(book: str):
     pool = {}
     for f in sorted(glob.glob(f"{book}/ch*.md"),
                     key=lambda x: int(re.search(r"ch(\d\d)", x).group(1))):
+        found = 0
         n = int(re.search(r"ch(\d\d)", f).group(1))
         txt = open(glob.glob(f"{book}/text/ch{n:02d}_*.txt")[0], encoding="utf-8").read()
         flat = re.sub(r"[^a-z0-9]", "", txt.lower())
-        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+)\n\n\*\*中文理解\*\*：(.+?)\n',
+        # ⚠️ 2026-09-28 修正：本工具原写 `\*\*中文理解\*\*：`（冒号在粗体**外**），
+        # 而 Paris Deception 全书用 `**中文理解：**`（冒号在粗体**内**）——
+        # 正则静默匹配 0 条，症状是「引语池无 chNN#1」：**池空**而非格式错。
+        # 且 build_pool 不校验命中数，错误一路拖到 expand() 才以
+        # 「这本书的引语池里没有它」的面目报出，极难回溯到格式。
+        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+)\n\n'
+                             r'\*\*中文理解[：:]?\*\*[：:]?(.+?)\n',
                              open(f, encoding="utf-8").read()):
             seq, q, zh = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
             if re.sub(r"[^a-z0-9]", "", q.lower()) not in flat:
                 print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
                 raise SystemExit(2)
             pool[(n, seq)] = (q, zh)
+            found += 1
+        if not found:
+            print("❌ %s 抽到 0 条引语——多半是**子项标记形态**与本正则不符" % f)
     return pool
 
 
@@ -57,28 +67,42 @@ def expand(tpl: str, pool) -> str:
 def one_quote_per_line(body: str) -> str:
     """check_overview_full 取「引语前 40 字窗口内的第一个 chNN」判归属，
     同一行放两条带章号标注的引语必然张冠李戴（Tomorrow and Tomorrow 批次实证）。
-    这里把一行里的多条带标注引语拆成多行——它是机械后处理，不改一个字。"""
+    这里把一行里的多条带标注引语拆成多行——它是机械后处理，不改一个字。
+
+    ⚠️ 2026-09-28 三处修正（Paris Deception 批次实测，6 处标注错位降到 0）：
+      ① 拆点正则原来只认**直引号** `"..."`，而池里注入的是**弯引号**——
+         对弯引号书稿整段是死代码。症状极隐蔽：文件照写、expand 全展开、
+         verify 全绿，只有 check_overview_full 的标签对账才报。
+      ② 原来只拆 `**` 开头的行，**散文行原样放过**——而叙事概括里恰恰
+         引用最多（"……也先出卖了所有人。{引语A}……因为她要的是「不改」：{引语B}"）。
+      ③ 拆点要求引语段以引号起首，但**台词中段的引语没有开引号**
+         （如 ch22 那句 `I couldn't allow her to become some—some Nazi Hausfrau…`
+         源文本里本就没有开引号），于是拆点错位、前一条的标注被后一条继承。
+         ⇒ 改为**以 `（chNN）` 标注为锚点**拆，而不是以引号为锚点：
+         标注是模板作者唯一必写、且必写对的东西。
+    """
     out = []
     for line in body.split("\n"):
         if line.count("（ch") <= 1 or line.startswith("> "):
             out.append(line)
             continue
         head, sep, rest = line.partition("：")
-        if not sep or not head.startswith("**"):
-            out.append(line)              # 散文段落交给模板自己分行，不在这里拆
-            continue
-        parts = re.split(r"(?=\"[^\"]{20,}\"（ch\d\d）)", rest)
+        if not sep:
+            head, rest = "", line          # 无冒号的散文行：整行都是 rest
+        # 以 chNN 标注为锚点，**在标注之后**切——模板形态是 `{引语}（chNN）`，
+        # 标注在引语**后面**；按标注前切会把引语与自己的标注劈到两行（实测）。
+        parts = re.split("(?<=（ch\\d\\d）)", rest)
         parts = [x for x in parts if x.strip()]
         if len(parts) < 2:
             out.append(line)
             continue
         if head:
             out.append(head + "：")
-        # 把落单的连词碎片（"与" / "；与" / "与 … 同源；"）并入下一条
+        # 落单的引导语（「与」／「他离开德国的理由，是直接因果。」）并入下一条
         merged, carry = [], ""
         for x in parts:
             x = x.strip()
-            if not x.startswith('"'):
+            if "（ch" not in x:
                 carry += x
                 continue
             merged.append("- " + (carry + x).strip())
