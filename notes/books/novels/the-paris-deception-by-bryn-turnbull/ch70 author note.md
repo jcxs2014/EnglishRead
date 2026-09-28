@@ -8,10 +8,10 @@ modified: "2026-09-28"
 ## 本章导航
 
 - **一句话概括**：这一章不是故事，是作者转身对读者说话——**它先把虚构与史实摆在一根"长线"上**（`Historical fiction lives along something of a spectrum`），然后给出全部硬数字：游戏与艺术馆在四年里过手约 **22,000** 件被盗艺术品、全欧洲约 **20%** 的艺术品被抢、戈林一人的藏品超过 **2,000** 件、1937 年被定性"堕落"的超过 **5,000** 件、展览吸引了超过 **200 万**观众、1939 年 3 月柏林烧掉超过 **4,000** 件、1942 年 7 月 27 日夜同一场火在游戏与艺术馆外重演、戈林用 **137** 件赃画换了 van Meegeren 的一幅假维米尔；最后承认**自己把丙烯颜料的发明时间提前了几年**。
-- **情感弧线位置**：**这一章不属于任何人物线，它是全书唯一一次由"作者"而非"叙述者"发言的位置**——因此它的功能是**交代四条线的史实底座**：Lowensteins 的下落、Isaac 的归还、Rose Valland 的真实姓名与身后、Paul Rosenberg 画廊的失窃与追索，全部在这里被安置。
+- **情感弧线位置**：**这一章不属于任何人物线，它是全书唯一一次由"作者"而非"叙述者"发言的位置**——因此它的功能是**交代四条线的史实底座**：**Rose Valland 的姓名与身后**在这里被安置（附记里 Lowenstein、Isaac、Rosenberg 三个名字均 0 次命中）。
 - **Tropes 兑现/反转**：**兑现**——"作者附记"的体裁本身；**反转**是作者**先立规矩、再自曝作弊**：他先说清哪些人是虚构的（`Sophie, Dietrich, Fabienne and Gerhardt Hausler are all fictional creations`），**紧接着就承认自己为了技术可行性把一项化学发明的年代往前挪了几年**（`I bumped up the development of acrylic paint by a few years`）——**这是全书唯一一处虚构主动侵入史实的地方，而作者是用第一人称承认的。**
-- **人物弧线**：**Rose Valland 在这一章里第一次以真名收束**——她的假名被换回实名（`a sobriquet Sophie uses in The Paris Deception`），她 1980 年去世、与挚爱 Joyce Helen Heer 合葬；而**作者把"殉道者储物间"这个绰号的来源标了出来**——`Room of Martyrs` 是 Valland 起的，不是 Sophie 起的，**小说里的这个著名称呼其实来自一个真实证人。**
-- **叙事手法**：**说明文体（散文体，非叙事文学那种）**，无对话、无场景；作者用三种手段维持可信度：① **反复用被动语态**（`was developed`、`were seized`、`is still an ongoing effort`）**把"谁做的"推到句外**；② **每段至少一个精确数字或年份**；③ **自曝虚构**（`bumped up`、`ironically`、`depending on your point of view`）**在需要时主动降低修辞密度**。全章以**一个仍然未解的数字收尾**（`an estimated 100,000 works of art looted by the Nazis from Jewish families remains unknown`），**让"结束"这个动作在最后一句被明确拒绝。**
+- **人物弧线**：**Rose Valland 的真名在附记里得到确认**（`a sobriquet Sophie uses in The Paris Deception` 指的是房间的绰号"Room of Martyrs"，不是 Valland 的化名；小说正文 ch04 起她就叫 Rose Valland），她 1980 年去世、与挚爱 Joyce Helen Heer 合葬；而**作者把"殉道者储物间"这个绰号的来源标了出来**——`Room of Martyrs` 是 Valland 起的，不是 Sophie 起的，**小说里的这个著名称呼其实来自一个真实证人。**
+- **叙事手法**：**说明文体（散文体，非叙事文学那种）**，无对话、无场景；作者用三种手段维持可信度：① **反复用被动语态**（`was developed`、`were seized`、`is still an ongoing effort`）**把"谁做的"推到句外**；② **多数段带精确数字或年份**（13 段里有 4 段没有）；③ **自曝虚构**（`bumped up`、`ironically`、`depending on your point of view`）**在需要时主动降低修辞密度**。全章以**一个仍然未解的数字收尾**（`an estimated 100,000 works of art looted by the Nazis from Jewish families remains unknown`），**让"结束"这个动作在最后一句被明确拒绝。**
 
 ## 精读
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **关键词：** I bumped up the development of acrylic paint by a few years / Acrylic resin was first developed in 1934 by German chemist Otto Röhm / who used it to create synthetic paint for industrial uses / the painting of houses and airplanes, for instance
 
-**为什么这样写：** **`I bumped up`（我把……往前挪）这个动词是全书最不像作者的一个词**——学术写作里要写 `the author has advanced the chronology`（作者把年代提前了），**而她用了一个日常动词，而且是过去式**；这个 `I`（我）**是全书最后一次出现第一人称叙述者，而它用在了认错上。** 下一句立刻切回被动语态（`was first developed`），**于是"我作弊了"与"化学史是这么写的"在同一段里交替出现**——**作者用时态的切换把"我"降级成了一个注释。** 而 `for industrial uses—the painting of houses and airplanes, for instance` 这个破折号**把丙烯漆的出身说成了军火漆**，**而这部小说里它被用来仿画**。
+**为什么这样写：** **`I bumped up`（我把……往前挪）这个动词是全书最不像作者的一个词**——学术写作里要写 `the author has advanced the chronology`（作者把年代提前了），**而她用了一个日常动词，而且是过去式**；这个 `I`（我）**用在认错上**（本段之后的第一人称还有两处） 下一句立刻切回被动语态（`was first developed`），**于是"我作弊了"与"化学史是这么写的"在同一段里交替出现**——**作者用时态的切换把"我"降级成了一个注释。** 而 `for industrial uses—the painting of houses and airplanes, for instance` 这个破折号**把丙烯漆的出身说成了军火漆**，**而这部小说里它被用来仿画**。
 
 **读者视角提示：** **这是全书唯一一处虚构侵入史实的地方，而作者用第一人称承认了它**——**这本书的可信度正建立在这一句认账上。**
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** To this day / the fate of an estimated 100,000 works of art looted by the Nazis from Jewish families / remains unknown
 
-**为什么这样写：** **全章最后一句，十三四个词，而它的主语是 `the fate`（命运／下落）**——英语里 `fate` 这个词几乎总是跟着"某人的"，**作者却把它安在 100,000 件画上**，**于是物的下落第一次获得了"命运"这个通常只给人的量级**。`remains unknown` 用**现在完成时**（`remains`）而不是过去时：作者特意让这件事在句法上**没有结束**——`To this day`（直到今天）这个时间状语在英语里是"截止标记"，**而 `remains`（依然）恰好拒绝了这个截止。**
+**为什么这样写：** **全章最后一句，二十来个词，而它的主语是 `the fate`（命运／下落）**——英语里 `fate` 这个词几乎总是跟着"某人的"，**作者却把它安在 100,000 件画上**，**于是物的下落第一次获得了"命运"这个通常只给人的量级**。`remains unknown` 用**一般现在时**（`remains`）而不是过去时：作者特意让这件事在句法上**没有结束**——`To this day`（直到今天）这个时间状语在英语里是"截止标记"，**而 `remains`（依然）恰好拒绝了这个截止。**
 
 **读者视角提示：** **全书以一个未解的数字收尾**——**这才是"结束"在本书里的真实定义。**
 

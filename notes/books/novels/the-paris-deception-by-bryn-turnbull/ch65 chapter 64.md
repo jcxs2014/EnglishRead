@@ -7,10 +7,10 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1944 年 5 月，巴黎解放前的最后一段日子，Sophie 躲在 Fabienne 的公寓里已经三个星期：她把自己灌进琐事里（把笔记抄成三份、把整间公寓刷白、清洗调色刀），最后推开 Fabienne 的画室——撞见一幅画到一半的肖像、一件挂在门后的男式烟袍、一张婚礼合影；她把烟袍放回钩上，把照片放下，**然后第一次在心里承认：她曾把弟弟的死算在 Fabienne 头上**。
-- **情感弧线位置**：**这是全书唯一一章没有敌人在场的章节**，也是 Sophie 线的**静止一拍**。前一章她掐住了一个男人的脖子，这一章她刷地板；作者用这个反差把她的能量从"行动"转成"整理"，**而整理的最后一步是整理她自己对 Dietrich 之死的怨恨。**
-- **Tropes 兑现/反转**：**兑现**——"悼亡者反复整理故居遗物"；**反转**是那件烟袍：她伸手是要把它丢进洗衣篮的（`Sophie picked it up to add it to her laundry pile`），**闻到味道后又挂回去**——一个原本该被当作杂物的动作被改成了祭礼。第二个反转在结尾：她原以为"她俩四年"是一段长关系，作者却用括号补一句（`longer than she’d known her when Dietrich was alive, even`），**她和她的嫂子相识的时间比弟弟活着的时间还长**。
-- **人物弧线**：**Sophie 从"自责的执行者"变成"自责的纠正者"**——而纠正的方式不是原谅自己，是**重新描写 Fabienne**：`fierce and smart, creative and audacious`。作者给这四个形容词排成一个对称结构（ fierce / smart 各三项，creative / audacious 各三项），**让"欣赏"变成一份对仗的证书**。
+- **一句话概括**：1944 年 5 月，巴黎解放前的最后一段日子，Sophie 躲在 Fabienne 的公寓里已经三个星期：她把自己灌进琐事里（把笔记抄成三份、把整间公寓刷白、清洗调色刀），最后推开 Fabienne 的画室——撞见一幅画到一半的肖像、一件挂在门后的男式烟袍、一张婚礼合影；她把烟袍放回钩上，把照片放下，**然后第一次在心里承认：**她在 Fabienne 身上看见的其实是自己**（原文 `Sophie could only see in Fabienne her inadequacies`）**。
+- **情感弧线位置**：**这是全书少有的几章没有敌人在场的章节（ch66 同属此类）**，也是 Sophie 线的**静止一拍**。**前两章（ch63）掐住她脖子的是 Richter**，这一章她刷地板；作者用这个反差把她的能量从"行动"转成"整理"，**而整理的最后一步是整理她自己对 Dietrich 之死的怨恨。**
+- **Tropes 兑现/反转**：**兑现**——"悼亡者反复整理故居遗物"；**反转**是那件烟袍：她伸手是要把它丢进洗衣篮的（`Sophie picked it up to add it to her laundry pile`），**闻到味道后又挂回去**——一个原本该被当作杂物的动作被改成了祭礼。第二个反转在结尾：她原以为"她俩四年"是一段长关系，作者却用**破折号**补一句（`longer than she’d known her when Dietrich was alive, even`），**她和她的嫂子相识的时间比弟弟活着的时间还长**。
+- **人物弧线**：**Sophie 从"自责的执行者"变成"自责的纠正者"**——而纠正的方式不是原谅自己，是**重新描写 Fabienne**：`fierce and smart, creative and audacious`。作者给这四个形容词排成一个对称结构（`fierce`／`smart`／`creative`／`audacious` **各一次**），**让"欣赏"变成一份对仗的证书**。
 - **叙事手法**：第三人称限知（Sophie）；**全章是一个"清洁作业"序列**（抄笔记三份 → 刷厨房 → 洗衣服 → 擦画布与画笔 → 擦相框），每一步都推进一小格回忆，**最后两步（烟袍、照片）把动作停止**——作者用"不再打扫"结束一章，**因为她终于把注意力从物件移到了人身上。**
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** She tackled Fabienne’s studio last / opening the door with the kind of reverence Sophie herself would have hoped for from anyone entering her laboratory / a paint-splattered easel displayed a half-finished portrait / the subject’s eyes painted a startling cerulean
 
-**为什么这样写：** `the kind of reverence Sophie herself would have hoped for from anyone entering her laboratory`（那种她自己进实验室时也希望别人有的敬意）是一个**套嵌的虚拟结构**：她的敬意不是给自己的画室，是**假设中的别人给她的**——作者让读者看见她在弟弟的画室里"按他对待她的方式"待它。`a paint-splattered easel displayed a half-finished portrait`（一架溅满颜料的画架展示着半幅肖像）用过去式 `displayed` 把它写成**橱窗**；而下一小句 `the subject’s eyes painted a startling cerulean`（画中人的眼睛被涂成惊人的蔚蓝）**把整幅画的焦点交给一双眼睛**——`painted` 在这里是过去分词作主语补足语，**连"被画"的主语都不给了**。
+**为什么这样写：** `the kind of reverence Sophie herself would have hoped for from anyone entering her laboratory`（那种她自己进实验室时也希望别人有的敬意）是一个**套嵌的虚拟结构**：她的敬意不是给自己的画室，是**假设中的别人给她的**——作者让读者看见她在 **Fabienne 的**画室里"按他对待她的方式"待它。`a paint-splattered easel displayed a half-finished portrait`（一架溅满颜料的画架展示着半幅肖像）用过去式 `displayed` 把它写成**橱窗**；而下一小句 `the subject’s eyes painted a startling cerulean`（画中人的眼睛被涂成惊人的蔚蓝）**把整幅画的焦点交给一双眼睛**——`painted` 在这里是过去分词作主语补足语，**连"被画"的主语都不给了**。
 
 **读者视角提示：** 那双蔚蓝的眼睛是全章最省的一次预告：**画里坐着的是 Dietrich，而画它的人不知道自己再也见不到他。**
 
@@ -45,9 +45,9 @@ modified: "2026-09-28"
 
 **关键词：** a man’s smoking jacket / Sophie picked it up to add it to her laundry pile—then she paused / catching in its fabric a whiff of Dietrich’s cologne / set it reverently back on its hook
 
-**为什么这样写：** 破折号是**动作的急刹车**：`to add it to her laundry pile`（要放进洗衣堆）到 `then she paused`（然后她停住）之间只隔一个破折号——**而破折号后的分句与前句共享同一个主语（she）**，语法上她**必须先完成"洗衣服"这件事**才可能"挂回去"，作者用句法逼出一次撤销。`reverently`（恭敬地）这个词只有 9 个字母却承担了整章的葬礼功能：**她没有把烟袍供起来，她只是把它挂回原处**——**而"原处"就是她的供词**。
+**为什么这样写：** 破折号是**动作的急刹车**：`to add it to her laundry pile`（要放进洗衣堆）到 `then she paused`（然后她停住）之间只隔一个破折号——**而破折号后的分句与前句共享同一个主语（she）**，语法上她**必须先完成"洗衣服"这件事**才可能"挂回去"，作者用句法逼出一次撤销。`reverently`（恭敬地）这个词只有 10 个字母却承担了整章的葬礼功能：**她没有把烟袍供起来，她只是把它挂回原处**——**而"原处"就是她的供词**。
 
-**读者视角提示：** 三个词构成全章的转折点：`caught in its fabric a whiff`（在布料上捕到一丝）——**气味是本节唯一没被搬走的东西，而它比任何遗像都轻。**
+**读者视角提示：** **六个词**构成全章的转折点：`catching in its fabric a whiff`（原文是 `catching`，不是 `caught`）（在布料上捕到一丝）——**气味是本节唯一没被搬走的东西，而它比任何遗像都轻。**
 
 ---
 
@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词：** Qualities that Sophie had come to admire in herself / as well
 
-**为什么这样写：** 上一段刚列完四个形容词，这一段只用一个**无谓语的关系从句**（`Qualities that…`）把它们接住，**主句谓语是空的**——英语允许一个名词短语独立成句，而**作者让"品质"这个名词独自站在段末**。真正干活的是两个词：`come to admire`（开始欣赏）里的 `come to` 是**渐进**，她不是一直欣赏自己，是**刚刚才走到这里**；而句末的 `as well`（也一样）三个字母是全章唯一一次她把自己和 Fabienne 放在同一个等号两侧——**一个自我否定的人，在句子最后加了个"也"。**
+**为什么这样写：** 上一段刚列完四个形容词，这一段只用一个**无谓语的关系从句**（`Qualities that…`）把它们接住，**主句谓语是空的**——英语允许一个名词短语独立成句，而**作者让"品质"这个名词独自站在段末**。真正干活的是两个词：`come to admire`（开始欣赏）里的 `come to` 是**渐进**，她不是一直欣赏自己，是**刚刚才走到这里**；而句末的 `as well`（也一样）**两个词**是全章唯一一次她把自己和 Fabienne 放在同一个等号两侧——**一个自我否定的人，在句子最后加了个"也"。**
 
-**读者视角提示：** 全章的转向就发生在这三个字母里：**她把弟弟还给了自己。**
+**读者视角提示：** 全章的转向就发生在这**两个词**里：**她把弟弟还给了自己。**
 
 ## 本章词汇
 
