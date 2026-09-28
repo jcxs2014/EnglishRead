@@ -28,7 +28,7 @@ source_text: ch22
 
 **关键词**：doppelgänger（德语"分身"，书名梗的核心）、excellent（反语用法）
 
-**为什么这样写**：用"twelve people"这个精确到刻薄的数字代替"nobody will buy it"，是 Sam 的语言习惯——他不喊"不行"，他给出一个荒诞的具体后果让你自己看见。圈数字同时埋下本章真正的戏眼：一个词懂不懂不重要，重要是"谁在说这个词"。
+**为什么这样写**：用"twelve people"这个精确到刻薄的数字，而不是甩一句"没人会买"的断言，是 Sam 的语言习惯——他不喊"不行"，他给出一个荒诞的具体后果让你自己看见。圈数字同时埋下本章真正的戏眼：一个词懂不懂不重要，重要是"谁在说这个词"。
 
 **读者视角提示**：这场标题大战是全书最轻快的群戏，但它的位置在 Both Sides 失败之后——公司第一次必须替别人的作品操心商业命运，Unfair 已从二人作坊变成有"B 队"的公司。
 
@@ -100,7 +100,7 @@ source_text: ch22
 
 **为什么这样写**：Dov 的坦白把"前任导师"这个最难写的角色洗亮：他不否认自己把 Sadie 当作分身，也预告了后文"public failures are different" advice 的资格——他比谁都懂"作品失败"和"人失败"的差别。Sadie 的回敬"You were a garbage boyfriend—"被他接成"Thank you. It’s not a lie."——对话节奏快得像老熟人，因为确实是。
 
-**读者视角提示**：这次通话发生在 ch21 大吵之前还是之后？正文说"Sadie owed him a callback"——她主动拨回去，说明修复的意愿她也有。
+**读者视角提示**：这次通话发生在 ch21 大吵之前还是之后？正文说"she owed him a callback"——她主动拨回去，说明修复的意愿她也有。
 
 ---
 
@@ -128,7 +128,7 @@ source_text: ch22
 
 **为什么这样写**：这是本章最温柔也最残忍的一刀。Alice 以为那个玩笑是妹妹对病中自己的理解——实际上玩笑的作者在 Sam 手里；Sadie 把功劳原样退回（"He’s kind of coopted that joke to tell you the truth"），而她刚刚在本章午餐桌上听见 Alice 说 «I loved the Mapletown parts especially»。姐妹在餐桌前互相致敬，真正的作者却在另一栋楼里独自玩 Dead Sea。误解不是谁撒谎造成的，是"玩家就是更喜欢 Sam 的世界"这一事实自然沉积的。
 
-**读者视角提示**：下一段 Marx 观察到"只玩 Mapletown 的玩家自称 Mapletownies"——批评家偏爱 Myre Landing，玩家用脚投票给 Sam。这个倒挂将在 ch23 东京之夜被 Sadie 亲口承认（"I knew that people preferred Sam’s world to hers"）。
+**读者视角提示**：下一段 Marx 观察到"只玩 Mapletown 的玩家自称 Mapletownies"——批评家偏爱 Myre Landing，玩家用脚投票给 Sam。这个倒挂将在 ch23 东京之夜里被叙述者点破（"She knew that people preferred Sam's world to hers"）——注意是「她知道」，不是她当面认输：这句话出自她的心里，Marx 只是站在门口就知道了。
 
 ## 本章词汇
 

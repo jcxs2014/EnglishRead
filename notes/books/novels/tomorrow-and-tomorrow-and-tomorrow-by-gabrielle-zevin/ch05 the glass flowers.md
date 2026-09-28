@@ -30,7 +30,7 @@ source_text: ch05
 
 **关键词**：609 hours / rare / wanted to talk to
 
-**为什么这样写**：609 不是随便取的数——它是 ch04 里 Sadie 提到探病时长的打卡数字（"I was going for the high score. I got up to six hundred nine"），也是 ch03 决裂的导火索。Sam 在心里把这串曾经伤人的数字重铸成友谊的度量衡：值得的人 = 愿意与之共度 609 小时的人。破折号后 "that was rare" 的短促落点，是他承认稀缺性的时刻——他当年错在「以为世界上到处都是 Sadie Green」。
+**为什么这样写**：609 不是随便取的数——它是 ch03 里 Sadie 提到探病时长的打卡数字（"I was going for the high score. I got up to six hundred nine"），也是 ch03 决裂的导火索。Sam 在心里把这串曾经伤人的数字重铸成友谊的度量衡：值得的人 = 愿意与之共度 609 小时的人。破折号后 "that was rare" 的短促落点，是他承认稀缺性的时刻——他当年错在「以为世界上到处都是 Sadie Green」。
 
 **读者视角提示**：把数字当感情的单位是 Sam 贯穿全书的习惯（ch02「我的脚断了二十七处，这是个数字」）。当年 Sadie 用同一逻辑把探视记成积分伤害了他；如今他用积分逻辑确认她的不可替代——同一个数字完成了从凶器到勋章的转换。
 
@@ -86,7 +86,7 @@ source_text: ch05
 
 **关键词**：likes to tell / drama / complained
 
-**为什么这样写**：访谈体一开章就翻转叙述权：ch03 里 Hannah 的举报几乎毁掉 Sadie（差点上纪律委员会），此处她当着博主的面把它缩小成 "not that big of a thing"——不是撒谎，是所有权声明：这个故事归我讲。省略号停住的位置像一句没说完的「反正 Sam 会把它讲大」。[Rolls eyes.] 的舞台指示是全书对 Sadie 声音的第一次完整呈现：翻白眼、纠正称呼（Mazer!/sorry）、拆台。
+**为什么这样写**：访谈体一开章就翻转叙述权：ch03 里 Hannah 的举报几乎毁掉 Sadie（差点上纪律委员会），此处她当着博主的面把它缩小成 "it wasn't that big of a thing"——不是撒谎，是所有权声明：这个故事归我讲。省略号停住的位置像一句没说完的「反正 Sam 会把它讲大」。[Rolls eyes.] 的舞台指示是全书对 Sadie 声音的第一次完整呈现：翻白眼、纠正称呼（Mazer!/sorry）、拆台。
 
 **读者视角提示**：注意她几次说 "Sam—Mazer!" 又改口：公众人物 Sadie 在访谈里与私人 Sadie 争夺同一条舌头。这直接解释本章第七处的请求——Sam 要的不是赞美，是事实的版本控制。
 

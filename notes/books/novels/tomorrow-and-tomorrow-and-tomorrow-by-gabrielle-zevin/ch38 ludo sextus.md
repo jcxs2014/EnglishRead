@@ -68,7 +68,7 @@ source_text: ch38
 
 **中文理解**："那是一个美学选择。我学到的一件事是：当你的资源不多，你就必须在风格上更严格。限制就是风格——只要你把它做成风格。"
 
-**关键词**：It was an aesthetic choice（那是一个美学选择——把技术缺陷重新命名为决策，语序与 1984 年那段裸发声明（"It wasn’t an aesthetic choice"）完全对调）、more rigorous（更严格——资源少反而要求更高，不是更低）、Limitations are style if you make them so（限制就是风格，只要你能把它做成风格——条件从句把口号降级为可执行的工艺）
+**关键词**：It was an aesthetic choice（那是一个美学选择——把技术缺陷重新命名为决策，语序与 1994 年那段裸发声明（"It wasn’t an aesthetic choice"）完全对调）、more rigorous（更严格——资源少反而要求更高，不是更低）、Limitations are style if you make them so（限制就是风格，只要你能把它做成风格——条件从句把口号降级为可执行的工艺）
 
 **为什么这样写**：全书最著名的一次回响，就藏在这三句话里。在第 26 章（Part VI 的 San Simeon 之行）里，Sam 把自己剃成寸头的理由说成「It wasn't an aesthetic choice」——那不是选择，只是天热。此刻同一句辩解被 Sadie 用作课堂教材，且被**加强**了一层：不是"这是我的选择"，而是"限制本身可以被做成风格"。Zevin 把一次羞于承认的私人借口，改写成一条可以被传授给学生的设计原则——而当年说出那句辩解的人，此刻坐在台下当学生。
 

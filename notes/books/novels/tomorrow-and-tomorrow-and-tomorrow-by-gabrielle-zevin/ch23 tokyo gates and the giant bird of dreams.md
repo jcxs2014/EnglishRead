@@ -84,7 +84,7 @@ source_text: ch23
 
 **关键词**：spaciousness（胸中的开阔感）、indication（标示）
 
-**为什么这样写**：括号里那句 "(Until, of course, there wasn't.)" 是全书最锋利的一次刹车——正当排比要把"gate"升华成无限进步论时，叙述者用五个词提醒人终有一死、机会终有尽头。这正是 ch19 里 Abe Rocket 那套"devour or be devoured"悲观修辞的反面：Marx 陪她走门，Abe 用语言夺走呼吸。Sadie 随后自己给"门"下定义：「The possibility that you might walk through the door and reinvent yourself as something better than you had been before」——她已在为下一章的越界（与 Marx）准备措辞。
+**为什么这样写**：括号里那句 "(Until, of course, there wasn't.)" 是全书最锋利的一次刹车——正当排比要把"gate"升华成无限进步论时，叙述者用五个词提醒人终有一死、机会终有尽头。这正是 ch19 里 Marx 那句 "I devour, and I am devoured" 悲观修辞的反面：Marx 陪她走门，上一章却是他自己先承认在吞与被吞。Sadie 随后自己给"门"下定义：「The possibility that you might walk through the door and reinvent yourself as something better than you had been before」——她已在为下一章的越界（与 Marx）准备措辞。
 
 **读者视角提示**：Marx 站在甬道尽头张开手臂等她——「How nice it was to have Marx waiting for her. He was a perfect traveling companion.」本章所有"完美旅伴"的细节（换掌机、送她回房、折返机场）都在为 ch24 楼梯口那一幕恋情暴露积累证据。
 

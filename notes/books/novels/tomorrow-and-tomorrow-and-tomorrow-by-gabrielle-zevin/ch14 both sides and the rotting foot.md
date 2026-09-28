@@ -102,7 +102,7 @@ source_text: ch14
 
 **为什么这样写**：医生的工程语汇（wearing out / unsustainable）把 Sam 的身体说成一座到期的大坝——ch10 "There are only so many times a foot can be put back together" 的正式判决书。两个 prone/resistant 对偶精确：身体同时学会了坏的两门课、退了两门好事。而这句话是 Marx 谎称兄弟才偷听到的：医生 "wasn't always sure Sam was hearing her"——Sam 的问题从来不是不懂，是不听。
 
-**读者视角提示**：本句的落点在停车场戏的伦理翻转：Marx 先背叛（偷问病情）后摊牌（"She seems—concerned"），Sam 的愤怒（"My medical situation is my private business"）立刻被 Marx 的合作论顶回："We're partners, and if you're going to need major surgery, Sadie and I need to be able to plan."——本书第一次，「合伙人」被用作关心的语法。读者会记住这个先例：后文每一次围绕 Sam 的合谋，都以这场停车场对话为宪法。
+**读者视角提示**：本句的落点在停车场戏的伦理翻转：Marx 先背叛（偷问病情）后摊牌（"She seems"—Marx searched for the right word—"concerned."），Sam 的愤怒（"My medical situation is my private business"）立刻被 Marx 的合作论顶回："We're partners, and if you're going to need major surgery, Sadie and I need to be able to plan."——本书第一次，「合伙人」被用作关心的语法。读者会记住这个先例：后文每一次围绕 Sam 的合谋，都以这场停车场对话为宪法。
 
 ---
 
