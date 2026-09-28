@@ -247,7 +247,16 @@ def check_chapter(nn, md_path, text_dir):
                 '首词被吞或 text/ 粘连（flat 命中落在原文词中间）',
                 f'原文：…{ctx}…'))
             continue
-        if frags and all(flat(p)[:40] in chap_text for p in frags):
+        # ── 截短引语（真含省略号）才走片段通道 ──
+        # ⚠️ 2026-09-28 The Paris Deception ch01 实证假绿：`fragments()` 只按 …/... 切，
+        # 于是**无省略号的引语也被切成一整个 fragment**（`frags == [整条]`），
+        # 本分支遂退化为「前 40 flat 字符命中即算通过」——只要引语开头约八个词对得上，
+        # 后面改成什么（甚至把 grime 拼成 grimo 这种非逐字形）都照样报 OK。
+        # 实测：投毒 `in the grime where` → `in the grimo where`，
+        # 本工具报 7/7、verify_quotes 也报 7/7（52 指纹在错误点之前就截断了），
+        # 只有 sweep_full 整串比对抓到。**`len(frags) > 1` 是「真截短」的必要条件**，
+        # 不是可选优化——它把「片段前缀检查」这道兜底闸门还给省略号引语专用。
+        if len(frags) > 1 and all(flat(p)[:40] in chap_text for p in frags):
             # Each segment of a truncated quote must individually be found
             ok += 1
         else:
