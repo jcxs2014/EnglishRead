@@ -159,7 +159,7 @@ source_text: ch24
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| champagne | 香槟 | After she set the bottles on the table, she joined Marx and Sam and the rest of the Mapleworld team, who were huddled around the pristine servers. |
+| champagne | 香槟 | Marx came into the newly appointed Mapleworld server room, carrying a tray of champagne flutes. |
 | freeway | 高速公路 | He had to get off the freeway and pull over to the side of the road. |
 | coyote | 郊狼 | The coyote/dog looked scared. |
 | bungalow | 平房 | She paced his one-bedroom bungalow, looking haunted, occasionally baying. |

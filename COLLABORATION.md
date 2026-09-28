@@ -892,3 +892,33 @@ sweep_analysis_inline 逐字67 / 跨章321(正常复现) / 6🟠(非引语层)
 - **年龄/数字断言无自动真值**：audit_numbers 只能列不能判，本批 8 条全部人工回原文才确认（Tom seventeen 见 ch05、twenty-six 见 ch64）→ 建议改为「原文是否出现同一数字」的机械比对。
 
 **状态**：目标目录 tracked 66、正文+总览共 69 件工作树干净；**未 push**。**已知局限**：本次为同会话审查（2 个子代理与主会话同源模型族），**不能宣称已排除全书统一口径的系统性误判**，尤其「跨章引用惯用文件号」这一条本书文件号恰与书内章号错开（chNN = Chapter NN−1），跨章标注需人工逐条确认。
+
+### [2026-09-28 15:28 UTC] [Qoder-Mac] → All
+
+- 目录：`notes/books/novels/tomorrow-and-tomorrow-and-tomorrow-by-gabrielle-zevin/`；ch01–ch38（Part I–X 全书 38 章）= **38 正文 md + 3 总览**；`text/` 38 件 1:1 零偏移（md 38 / text 38 / `00_*` 3 对账通过）。
+- 体裁：文学向情感长篇 · 双时间线（1990s 游戏开发现 + 2000s 元游戏「Dieharmonic」合制）· **精简格式**（导航 5 项 + 四子项精读 + 三档词汇 + 一句话总结），用户 2026-09-28 验收。H1 沿用书内形态 `# Part X. Chapter N（精读分析）`。
+- 提交链（均未 push）：`089ca113` 批 13 ch37–38 · **`95a2a87f` 总览三篇 + 5 处断言整改**（前 12 批 commit 见本书日志条目）。
+
+**完工门禁（第 3 条全量 · 零采信旧数字）**
+- verify_quotes **303/303 100%**（39/39 干净文件）· `--full` 整串取证 **0** 查无
+- check_chapter_quotes **38 章失败 0** · check_vocab **FAIL=0** · check_entities **未知实体 0**
+- corruption_scan **FAIL=0** · sweep_full **278✅ / 跨章 0 / 全书查无 0** · check_short_quotes **9/9**
+- verify_overview_quotes **60/60** · check_overview_full 整串 153 命中 / 拼接 0 / 查无 0 / **章节标签 134 对、0 错** / H1 语义错配 0
+
+**三档定性**：**无阻断型**。余下 3 条**提示型**——ch01 一条 🔶 跨标签拼接（历史遗留，已回源确认各段逐字都在）、ch27+ch28 同一句「Should games be political?」的双章真实命中（`check_overview_full` 只报不判红）、check_vocab 54 条基础档超纲词 WARN（≥9 字符长度启发式，如 whiteboard / champagne / portfolio）。
+
+**交付物做法（其他实例可复用）**：总览三篇由一次性生成器 `scripts/attic/gen_overview_tt.py` **程序化产出**——从 38 个 md 里正则抽出 287 条**已核实引语**建池，模板里只写 `{Q:章,序}` / `{P:章,序:起:止}` 占位符再展开，**全程零手打英文**（取出 71/287 条，全部命中）。类比 8.「生产型工具替代会出错的动作」。
+⚠️ 池的章号必须取 `int(bn[2:4])`，**不能用 `basename[:3]`**——后者把 ch01–ch09 全塌成 `"ch0"`。
+
+**自查抓出并已修的阻断型（写作期自查，非五步审查）**
+1. ch37 人物弧线一处连错三事：把 **Alabaster Brown 当成 Sam**（实为 Pioneers 里的 NPC 酒商，十二次结婚）、说 Sam「最后读遗嘱」（实为 **The Editor** 宣读，Sam 全章不在场）、把**断右手**安到 Marx 身上（属 NPC Dr. Daedalus）
+2. ch03 / ch04 / ch05 / ch18 四处「**Alice 之死**」误述——Alice 童年白血病**已痊愈**，2003–04 是心内科住院医、2006 健在；ch18 另厘清「游戏里 Alice Ma 的肺癌」与「真人 Alice 的白血病」之别
+3. ch05 两处**说话人误植**：Blaschka 玻璃花馆那两个问句（「How do you preserve the impossible to preserve?」「What, after all, is a video game's subtextual preoccupation…」）是**叙述者**的自问，不是 Sadie 对 Sam 说的
+4. ch03 祖母 Freda 那句叮嘱的行文前提（送走刚过世的老伴）原被写成「说完就去世」
+5. 总览引用 8 处**跨章指错**（打印全部 59 条 `{Q:…}` 的中文理解逐条比对发现，如 ch38 标了「魔眼小鸟」实为 Mazer 童年下棋那段）
+6. 词表 3 处**例句不含自身词头**（ch06 `scuttlebutt` 的例句用的是 sniped、ch22 `wedding` 的例句绕开 wedding、ch24 `champagne` 同理）——例句不出现词头等于该条不成立。已按 8.1 第 5 步换成本章真实含词头的原句，三句写前 flat 预验 + 写后逐字回源皆通过。**这类属阻断型，不与 54 条超纲词启发式 WARN 同列**。
+
+**方法层一条可复用的坑**：`check_overview_full` 的章节标签**取「引语前 40 字窗口内的第一个 `chNN`」**，所以**同一行放两条带章号标注的引语必然张冠李戴**（本轮初版报 6 处「标注与实章不符」，逐条回源后确认全是工具假红）。修法是**一行只放一条带标注的引语**——已落成生成器里的 `one_quote_per_line()`。**报警为成片同类时先读行再改**（第 3 条纪律 4）。
+
+**状态**：目标目录 tracked 41（38 正文 + 3 总览）工作树干净；**未 push**。**五步审查未做（待用户发起）**。
+**原始输出指引**：第 3 条提交门禁的逐行原始输出（verify_quotes 含 `--full`、check_vocab 逐行 WARN、check_entities、corruption_scan、check_chapter_quotes 38 章、sweep_full、check_short_quotes、总览三篇门禁）见 `.memory/daily/2026-09-28.md` 本书条目「原始门禁输出」节。协作板按硬要求只放聚合数字与结论，不贴逐行。

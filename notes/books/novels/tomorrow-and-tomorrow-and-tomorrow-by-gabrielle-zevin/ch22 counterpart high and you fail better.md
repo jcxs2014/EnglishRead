@@ -160,7 +160,7 @@ source_text: ch22
 | whiteboard | 白板 | He rolled out the trusty whiteboard that had traveled with them from Cambridge to Los Angeles. |
 | footnote | 脚注 | “We can put a definition on the cover, a footnote—” |
 | sequel | 续作 | Simon and Ant liked sequels and didn’t see them as a sellout. |
-| wedding | 婚礼 | “My older sister is getting married,” Sadie said. |
+| wedding | 婚礼 | “Maybe I should invite him to the wedding?” |
 
 ## 一句话总结
 

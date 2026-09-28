@@ -158,7 +158,7 @@ source_text: ch06
 
 | 单词/短语 | 释义 | 例句 |
 |---------|------|------|
-| scuttlebutt | 小道消息；圈内八卦 | The cast had sniped that the only thing Jules cared about was the shipwreck, and that it was clear she wished she was directing The Tempest instead of Twelfth Night. |
+| scuttlebutt | 小道消息；圈内八卦 | Sadie, who knew nothing of this scuttlebutt, found the shipwreck mesmerizing. |
 | sniped | 冷嘲热讽 | The cast had sniped that the only thing Jules cared about was the shipwreck, and that it was clear she wished she was directing The Tempest instead of Twelfth Night. |
 | grokking | 心领神会地彼此理解 | They were at that rare moment in a collaboration where they were consistently grokking, where consensus was reached quickly on almost everything. |
 | fraught | 紧张的；充满隐患的 | When Sam had described the relationship between Marx and his father, he had said it was fraught, that Watanabe-san was demanding and sometimes even demeaning to Marx. |
