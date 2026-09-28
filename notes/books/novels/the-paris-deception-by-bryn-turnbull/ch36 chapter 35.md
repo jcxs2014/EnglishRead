@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** Both are needed for the war effort / Hausler let out a breath / I’m not saying it’s impossible, but I can make inquiries through the party
 
-**为什么这样写：** `Both are needed for the war effort`（这两样都是战争所需的）**是一句纯功能性的判定**：石油、丙烯酸树脂，两样都是普通化工品，而作者让它们因为 `the war effort`（战争努力）这四个字突然变成国家资产。**五个词，一句家常话，一次征用。** 而 `I’m not saying it’s impossible`（我不是说这不可能）在英语里是一句**典型的软化提案**——**它的功能是给"不可能"留一条缝**；紧跟的 `but I can make inquiries through the party`（但我可以通过党的路子去打听）则把这道缝**开向了一条政治通道**。作者让 Hausler 的**提案从化工问题一路滑到党组织，中间没有一个环节的阻力**。
+**为什么这样写：** `Both are needed for the war effort`（这两样都是战争所需的）**是一句纯功能性的判定**：石油、丙烯酸树脂，两样都是普通化工品，而作者让它们因为 `the war effort`（战争努力）这四个字突然变成国家资产。**七个词，一句家常话，一次征用。** 而 `I’m not saying it’s impossible`（我不是说这不可能）在英语里是一句**典型的软化提案**——**它的功能是给"不可能"留一条缝**；紧跟的 `but I can make inquiries through the party`（但我可以通过党的路子去打听）则把这道缝**开向了一条政治通道**。作者让 Hausler 的**提案从化工问题一路滑到党组织，中间没有一个环节的阻力**。
 
 **读者视角提示：** 这一句把"缺颜料"变成了"缺党籍关系"——**而下一段 Sophie 立刻把这条通道掐死。**
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** It ought to be me / She looked up / If we need his help, it ought to be me
 
-**为什么这样写：** 全章的最后两句，而**它们是同一句话被说两遍**——`It ought to be me.`（应该由我去。）只有四个词，独立成句。`ought to` 在英语里比 `should` 更重一层：**`should` 是建议，`ought to` 是本分**；她说"应该"，可这个"应该"的方向对内——**不是行动该做，而是人选该是她。** 重复的那句里 `If we need his help`（如果我们真需要他帮忙）用的是条件式 `if`——**英语里 `if` 出现就意味着另一条路是存在的**，而作者让这条更安全的路（让 Hausler 去、以"党员对党员"的名义去，Hausler 自己就是这么提议的）**被她用一个 `if` 悄悄搁在了门外**。
+**为什么这样写：** 全章的最后两句，而**它们是同一句话被说两遍**——`It ought to be me.`（应该由我去。）只有五个词，独立成句。`ought to` 在英语里比 `should` 更重一层：**`should` 是建议，`ought to` 是本分**；她说"应该"，可这个"应该"的方向对内——**不是行动该做，而是人选该是她。** 重复的那句里 `If we need his help`（如果我们真需要他帮忙）用的是条件式 `if`——**英语里 `if` 出现就意味着另一条路是存在的**，而作者让这条更安全的路（让 Hausler 去、以"党员对党员"的名义去，Hausler 自己就是这么提议的）**被她用一个 `if` 悄悄搁在了门外**。
 
 **读者视角提示：** 她随即**没有解释理由**（全章结束）；**这次她要用的是身份，而不是颜料。**
 

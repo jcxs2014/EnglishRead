@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** I’m not comfortable with all this / This—this vilification of art / I’m an educated man / I just don’t see the danger in artwork that others do / Neither does my employer, truth be told
 
-**为什么这样写：** 这是全书最需要慢读的台词，而作者给了它**三段递进的自我辩护**。第一句 `I’m not comfortable with all this`（我对这一切并不安心）用 `comfortable`（舒适）这个词来谈罪行，**于是他的不安被写成了身体上的不适**；第二句里那两个破折号是全书第二次出现在这种位置上的犹豫（上一章的 ch30 里出现过同一种用法），而 `vilification`（丑化）这个词本身属于修辞学，**他说不出一个更朴素的词**。第三句 `I’m an educated man.`（我是个受过教育的人）**只有五个词却独立成句**——英语里短句独立成段会被读成重音，而这一句的重音落在 `educated` 上：**他拿教养当挡箭牌。** 末句 `Neither does my employer, truth be told.`（我的雇主也看不出，实话说）用 `Neither...does` 的倒装否定再加 `truth be told`，**把一个人的 neutrality 包装成两个人的共谋**。
+**为什么这样写：** 这是全书最需要慢读的台词，而作者给了它**三段递进的自我辩护**。第一句 `I’m not comfortable with all this`（我对这一切并不安心）用 `comfortable`（舒适）这个词来谈罪行，**于是他的不安被写成了身体上的不适**；第二句里那两个破折号是全书第三次出现在这种位置上的犹豫（前两处分别在 ch22 与 ch31；ch30 内没有这种用法），而 `vilification`（丑化）这个词本身属于修辞学，**他说不出一个更朴素的词**。第三句 `I’m an educated man.`（我是个受过教育的人）**只有五个词却独立成句**——英语里短句独立成段会被读成重音，而这一句的重音落在 `educated` 上：**他拿教养当挡箭牌。** 末句 `Neither does my employer, truth be told.`（我的雇主也看不出，实话说）用 `Neither...does` 的倒装否定再加 `truth be told`，**把一个人的 neutrality 包装成两个人的共谋**。
 
 **读者视角提示：** `I just don’t see the danger`（我看不出危险）与 ch22 里 Dietrich 说的 `You don’t know`（你不知道）**是同一个句型的一次反转**——**在 ch22 里它是真话，在这里它是伪证。**
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** Sophie’s smile sharpened / I’d be delighted, Doctor
 
-**为什么这样写：** 全章的最后一句只有五个英文词，而**它的全部内容在那个被独立出来的副词 `sharpened`（变锋利）里**。英语里 `smile`（笑）几乎从不与 `sharp`（锋利）搭配，**这个搭配违和本身就是信息**——她没有在笑，她把笑的形状收成了一件武器。而 `I’d be delighted`（我很乐意）这个客套句在此刻是她唯一能说出口的、**同时也是最像共犯的一句**；`Doctor` 这个称呼则是回敬他刚才的 `Mademoiselle Brandt`——**两个人在这一章里始终没有用姓称呼对方，作者让称呼本身承担了全部距离。**
+**为什么这样写：** 全章的最后一句只有四个英文词，而**它的全部内容在那个被独立出来的副词 `sharpened`（变锋利）里**。英语里 `smile`（笑）几乎从不与 `sharp`（锋利）搭配，**这个搭配违和本身就是信息**——她没有在笑，她把笑的形状收成了一件武器。而 `I’d be delighted`（我很乐意）这个客套句在此刻是她唯一能说出口的、**同时也是最像共犯的一句**；`Doctor` 这个称呼则是回敬他刚才的 `Mademoiselle Brandt`——**两个人在这一章里始终没有用姓称呼对方，作者让称呼本身承担了全部距离。**
 
 **读者视角提示：** 这一章没有任何一处写她动手换画，**只有一句 `Saved.` 和一次微笑**——**两处都短到不像情节，可它们才是这一章真正的工作。**
 
