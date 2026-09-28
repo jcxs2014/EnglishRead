@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 **关键词：** You told me that you learned about the paint from the papers of a restorer based in Stuttgart / he said slowly / Could we reach out to him? / He might be able to provide us with some insight
 
-**为什么这样写：** 这一句是全章的转折，而它靠**一句回指**完成：`You told me that...`（你说过……）——**英语里 `You told me` 直接把听者顶到被追问的位置上，而 Hausler 说这句话时还加了 `he said slowly`（他慢慢地说）**——`slowly` 在英语里是罕见的速度标记，**而它出现在这里意味着这句话在出口之前被重新组织过**。整句用的是**间接引语**（`You told me that ...` 与 `Could we reach out ...`），**作者让最重要的情报走了一条最不显眼的语法通道**——没有引号，没有 `“”`，**听上去像闲聊，而它正在拆她的身世。** 末句 `He might be able to provide us with some insight`（他也许能给我们一些提示）用 `might`（也许），**而 Hausler 全书最爱用这个词——`meticulous` 的 Sophie 曾经在脑子里排演过一句类似的 `might`**。
+**为什么这样写：** 这一句是全章的转折，而它靠**一句回指**完成：`You told me that...`（你说过……）——**英语里 `You told me` 直接把听者顶到被追问的位置上，而 Hausler 说这句话时还加了 `he said slowly`（他慢慢地说）**——`slowly` 在英语里是罕见的速度标记，**而它出现在这里意味着这句话在出口之前被重新组织过**。整句用的是**直接引语**（原文两句都带引号：`“You told me that ...,” he said slowly. “Could we reach out ...?”`），**作者让最重要的情报走了一条最不显眼的语法通道**——没有引号，没有 `“”`，**听上去像闲聊，而它正在拆她的身世。** 末句 `He might be able to provide us with some insight`（他也许能给我们一些提示）用 `might`（也许），**而 Hausler 全书最爱用这个词——`meticulous` 的 Sophie 曾经在脑子里排演过一句类似的 `might`**。
 
 **读者视角提示：** 这句话是**由一个她刚刚拒绝的提案（通过党组织打听）换来的**——**作者让它在形式上无害，在后果上致命。**
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **关键词：** She’d not spoken to Papa in years / not since she and Dietrich had fled from Nuremberg / Was he still alive, all these years later? / had Sophie and Dietrich’s defection condemned him in absentia
 
-**为什么这样写：** 这是全书把**私人和政治焊在一起**的最短一次操作：`not since she and Dietrich had fled from Nuremberg`（自从她与 Dietrich 从纽伦堡逃走）——**一个副词短语把整段回忆的坐标钉在六年前的那个夜里**，读者立刻回到 ch30 那场舞会。末句 `condemned him in absentia`（让他在缺席中被判罪）——**`in absentia`（缺席）本是一个纯法律术语（缺席判决），作者把它接在 `condemned`（判罪）后面，于是女儿的一次出走变成了一场她父亲未曾出庭就输掉的官司**；**而这句里 `Sophie and Dietrich's` 把责任明确地、连名地分给两个人——可实际逃走的是一对兄妹，代价却落在一位父亲身上。**
+**为什么这样写：** 这是全书把**私人和政治焊在一起**的最短一次操作：`not since she and Dietrich had fled from Nuremberg`（自从她与 Dietrich 从纽伦堡逃走）——**一个副词短语把整段回忆的坐标钉在六年前的那个夜里**，读者立刻回到 ch31 那场舞会。末句 `condemned him in absentia`（让他在缺席中被判罪）——**`in absentia`（缺席）本是一个纯法律术语（缺席判决），作者把它接在 `condemned`（判罪）后面，于是女儿的一次出走变成了一场她父亲未曾出庭就输掉的官司**；**而这句里 `Sophie and Dietrich's` 把责任明确地、连名地分给两个人——可实际逃走的是一对兄妹，代价却落在一位父亲身上。**
 
 **读者视角提示：** `Papa` 在上一句还是 `Martin Dix`——**两个字的名字变化，把一个公共人物重新变回了一个老年人。**
 

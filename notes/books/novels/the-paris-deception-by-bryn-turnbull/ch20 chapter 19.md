@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** It won’t be perfect, but you’ll be able to paint multiple layers in a matter of hours / It ought to withstand some basic scrutiny
 
-**为什么这样写：** 三次降级被排成一条**逐渐加深的阶梯**：`won't be perfect`（不会完美）→ `basic`（基本的）→ `some`（一点）——**每一次都加一个限定词，而没有一次是说"能通过"。** `ought to withstand`（应该能扛住）这个情态结构里的 `ought to` 是**规范性的**（按理应当），不是预测性的，于是它把一件没把握的事说成一条规矩。末句用 `basic scrutiny`（基本检查）——`basic` 这个词正好是作者在 ch18 用棉签和酒精检验的同一件事的**礼貌版**。
+**为什么这样写：** 三次降级被排成一条**逐渐加深的阶梯**：`won't be perfect`（不会完美）→ `some`（一点）→ `basic`（基本的）——**每一次都加一个限定词，而没有一次是说"能通过"。** `ought to withstand`（应该能扛住）这个情态结构里的 `ought to` 是**规范性的**（按理应当），不是预测性的，于是它把一件没把握的事说成一条规矩。末句用 `basic scrutiny`（基本检查）——`basic` 这个词正好是作者在 ch18 用棉签和酒精检验的同一件事的**礼貌版**。
 
 **读者视角提示：** 她要骗的不是专家，是"基本检查"；而这个标准在 ch18 里 Fabienne 已经指出过是假的——**两人都知道，而她们都签了。**
 

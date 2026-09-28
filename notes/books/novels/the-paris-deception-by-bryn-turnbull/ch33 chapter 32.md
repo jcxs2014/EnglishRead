@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** I want to reproduce as many works of art as we can / Get them all out of the museum
 
-**为什么这样写：** 这两句是**从技术语言直接跳到行动语言**的切换，中间没有过渡：`reproduce`（复刻）在英语里是中性的技术词，可它紧跟着 `as many works of art as we can`（尽可能多的艺术品）——`as many ... as we can` 这个比较结构本是**描述能力上限的句型**，在这里却被用来宣布一场行动的规模。而末句 `Get them all out of the museum`（把它们全都弄出博物馆）是**祈使句加不定代词 `them all`**：英语的祈使句不需要主语，于是**这句话听上去像命令，而下命令的人一直是被说服的那个。** 作者还让这两句发生在她一边翻弄白手套一边说的时候（`She picked up a set of white gloves`），**于是最重的一句被安在一个最轻的动作上。**
+**为什么这样写：** 这两句是**从技术语言直接跳到行动语言**的切换，中间没有过渡：`reproduce`（复刻）在英语里是中性的技术词，可它紧跟着 `as many works of art as we can`（尽可能多的艺术品）——`as many ... as we can` 这个比较结构本是**描述能力上限的句型**，在这里却被用来宣布一场行动的规模。而末句 `Get them all out of the museum`（把它们全都弄出博物馆）是**祈使句加不定代词 `them all`**：英语的祈使句不需要主语，于是**这句话听上去像命令，而下命令的人（Sophie）一直是**招募方**——被说服的是 Fabienne。** 作者还让这两句发生在她一边翻弄白手套一边说的时候（`She picked up a set of white gloves`），**于是最重的一句被安在一个最轻的动作上。**
 
 **读者视角提示：** 这是全书**唯一一次"赝品"这个手法被当成营救工具的句子**；**记住 `reproduce` 这个词——它既是她们的技术，也是她们全部的道德筹码。**
 

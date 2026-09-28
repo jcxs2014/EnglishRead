@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** His former unit with the Wehrmacht / cornered him after a...after a speech he’d given, speaking out against the Reich / he’d been tried in absentia as a...a deserter
 
-**为什么这样写：** 这一段是**全书最重要的一段叙述，而它的技术核心是三处省略号**：英语里重复一个词（`They...they`）表示心里卡住；**而作者把这个"卡住"分配给了三处**——主语一次（`They...they`）、时间状语一次（`after a...after a`）、罪名一次（`as a...a`）——**每一次卡住的位置不同，于是读者的卡顿节奏也跟着移动**。而 `tried in absentia`（缺席审判）这个词在上一章（1935 年）曾由 Sophie 自己用来想父亲（`condemned him in absentia`）；**这一章她把它用在 Dietrich 身上——同一个拉丁短语，先用来害怕失去父亲，后用来确认失去哥哥。** `speaking out against the Reich`（发表反对 Reich 的演说）——**`speaking out`（公开说出）在英语里是褒义的勇敢说法，而她描述的是它带来的死因。**
+**为什么这样写：** 这一段是**全书最重要的一段叙述，而它的技术核心是三处省略号**：英语里重复一个词（`They...they`）表示心里卡住；**而作者把这个"卡住"分配给了三处**——主语一次（`They...they`）、时间状语一次（`after a...after a`）、罪名一次（`as a...a`）——**每一次卡住的位置不同，于是读者的卡顿节奏也跟着移动**。而 `tried in absentia`（缺席审判）这个词在**前两章（ch36，1941 年 7 月）**曾由 Sophie 自己用来想父亲（`condemned him in absentia`）；**这一章她把它用在 Dietrich 身上——同一个拉丁短语，先用来害怕失去父亲，后用来确认失去哥哥。** `speaking out against the Reich`（发表反对 Reich 的演说）——**`speaking out`（公开说出）在英语里是褒义的勇敢说法，而她描述的是它带来的死因。**
 
 **读者视角提示：** 注意她把 `after a speech he’d given`（在一场演说之后）说成死因——**而这场演说的题材，正是她父亲拒绝理解的那件事。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 > **原句 5:** She squeezed Papa’s hand, hoping to offer him some cold comfort. “It...was quick. He’s buried in Montparnasse.”
 
-**中文理解：** 她握了握爸爸的手，想给他一点冷淡的安慰。"很……很快的。他葬在蒙马特。"
+**中文理解：** 她握了握爸爸的手，想给他一点冷淡的安慰。"很……很快的。他葬在蒙帕纳塞（`Montparnasse`）。"
 
 **关键词：** She squeezed Papa’s hand, hoping to offer him some cold comfort / It...was quick / He’s buried in Montparnasse
 

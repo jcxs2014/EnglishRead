@@ -7,10 +7,10 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：时间倒回 1938 年 6 月，Fabienne 在一个铺着锯末、拿空酒桶当桌子的舞厅后台陪 Dietrich 登台做反法西斯演说；她替他打气（`You’ve got everything to say`），Sophie 却在台下看着越聚越多的人脸皱起眉头（`her misgivings about Dietrich speaking publicly`）——**三个人在这件事上分成两派，而这一章最后由被说服的 Sophie 亲自替他把话说圆（`We’re not in Stuttgart anymore`）。**
+- **一句话概括**：时间倒回 1938 年 6 月，Fabienne 在一个铺着锯末、拿空酒桶当桌子的舞厅后台陪 Dietrich 登台做反法西斯演说；她替他打气（`You’ve got everything to say`），Sophie 却在台下看着越聚越多的人脸皱起眉头（`her misgivings about Dietrich speaking publicly`）——**三个人在这件事上分成两派，而这一章最后是 **Dietrich 自己**把话圆回来（`Truly, Sophie. We’re not in Stuttgart anymore`，他说第二遍时是 `repeated firmly`）——**Sophie 并没有被说服**：她到结尾仍在激烈反对（`By making Dietrich a figurehead! A target!`），只是被台上台下的声音盖过去了。**
 - **情感弧线位置**：**全书最亮的一段回忆，也因此是最危险的一段回忆**——它把"在一起"写得毫无保留（`let herself fall, headlong, into his kiss`），而这一章同时也是**本书把"我怕"这个情绪交给了一个德国人**的唯一一次。
-- **Tropes 兑现/反转**：**兑现**——"上台前的紧张、深呼吸、鼓劲"这一整套青春片套式，本书写得比类型片更细（`whether this is the moment they all realize I’ve got nothing to say`）；**反转**——本该是 Sophie 唱反调的章节，**结尾却是她被说服**：她提出的全部理由（`What we’re doing here is important`／`We’re stopping the spread of fascism`）是Fabienne 说的，**而她自己的那条（`Work that makes him a target`）被反驳掉了。**
-- **人物弧线**：**这一章里三个人各自的核心动词是全书往后五年的引子**——Dietrich 的是 `say`（说他没话说的那份恐惧）、Fabienne 的是 `I will never, ever let you live it down`（我绝不会让你脱身）、Sophie 的是 `make him a target`（把他变成靶子）；**而这五个词在这本书的后半段会一一兑现，其中 Sophie 那个兑现得最早。**
+- **Tropes 兑现/反转**：**兑现**——"上台前的紧张、深呼吸、鼓劲"这一整套青春片套式，本书写得比类型片更细（`whether this is the moment they all realize I’ve got nothing to say`）；**反转**——本该是 Sophie 唱反调的章节，**她确实唱了，而且唱到最后一刻都没被说服**：她那两条理由（`By making Dietrich a figurehead! A target!`／`You don’t know what it was like in Germany`）被 Dietrich 用**他自己**说过的话挡了回去（`We’re not in Stuttgart anymore`），而台上那两条（`What we’re doing here is important`／`We’re stopping the spread of fascism`）**是 Fabienne 说的**。
+- **人物弧线**：**这一章里三个人各自的核心动词是全书往后五年的引子**——Dietrich 的是 `say`（说他没话说的那份恐惧）、Fabienne 的是 `I will never, ever let you live it down`（我绝不会让你脱身）、Sophie 的是 `make him a target`（把他变成靶子）；**而这三个说法在这本书的后半段会一一兑现，其中 Sophie 那个兑现得最早。**
 - **叙事手法**：第三人称限知（Fabienne）；**全章被一道粗麻布幕布分成两半**（`Peering out from behind a burlap curtain that separated the stage from the audience`）——**作者用这块布把"台上的话"和"台下的算盘"分开写，而台下那一半写得比台上更具体**；**两次 `To business`（谈正事吧）构成对称的转场信号**——**她说这句时在演严厉，他说这句时手正在往下滑**。
 
 ## 精读
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** We’re not in Stuttgart anymore / If we can change even one mind / it’s worth a little risk
 
-**为什么这样写：** `repeated firmly`（坚定地重复了一遍）——**英语里"重复"在这里不是啰嗦，是判决**：他把她刚才用来攻击他自己的那句话原封不动地捡起来当盾牌。而 `What we’re doing here...`（我们在这里做的事……）**那个省略号是一次物理性的停顿**——**它停在名词短语之后，也就是停在"是什么"还没说出口的地方**，因此这个句子把自己的内容全部让给了下一句。末句 `If we can change even one mind, it’s worth a little risk.`（如果能改变哪怕一个人的想法，这点风险也值得）用的是 `even one`（哪怕一个）——**这个数量词是英语里最省钱的雄辩**：`one mind`（一个人的想法）把目标缩到了不可能更小的单位，**而 `worth a little risk`（值得一点风险）里的 `a little`（一点）把风险压到了一个随口说说的量词。**
+**为什么这样写：** `repeated firmly`（坚定地重复了一遍）——**英语里"重复"在这里不是啰嗦，是判决**：他把自己**先前**说过的那句话原封不动地再捡一遍当盾牌（Sophie 的攻击里根本没有这一句）。而 `What we’re doing here...`（我们在这里做的事……）**那个省略号是一次物理性的停顿**——**它停在名词短语之后，也就是停在"是什么"还没说出口的地方**，因此这个句子把自己的内容全部让给了下一句。末句 `If we can change even one mind, it’s worth a little risk.`（如果能改变哪怕一个人的想法，这点风险也值得）用的是 `even one`（哪怕一个）——**这个数量词是英语里最省钱的雄辩**：`one mind`（一个人的想法）把目标缩到了不可能更小的单位，**而 `worth a little risk`（值得一点风险）里的 `a little`（一点）把风险压到了一个随口说说的量词。**
 
 **读者视角提示：** `even one mind`（哪怕一个人）——**请记住这个"一个"；这本书的另一半将要用另一种方式去数它。**
 

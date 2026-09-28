@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 - **一句话概括**：1943 年 7 月，Sophie 挽着 Konrad Richter 走进已被德军征用的 Le Meurice Hotel，参加一场由别动队自己举办的"Schloss 收藏展"（`The Einsatzstab Reichsleiter Rosenberg presents an evening with the Schloss Collection.`）；她在厅里认出了 Himmler 与 Göring，被一条钻石白金手镯换来一句恭维，借口补妆躲进洗手间，摸出 Dietrich 留下的旧怀表对时——**而这一晚的全部赌注就是让所有人的眼睛都留在这家酒店（`All eyes were on Le Meurice`），好让另一批人把殉道者之室搬空。**
 - **情感弧线位置**：**伪装线的最高潮与恐惧线的最高点叠在同一场宴会上**——她本章说得最多、笑得最久、也最接近被识破；**而她的手稳下来，是在洗手间的镜子前**（`her hands grew steady`）。
-- **Tropes 兑现/反转**：**兑现**——"美人计 + 调虎离山"的完整配置，本书还加了两件道具：一条来路不明的手镯和一只死人的怀表；**反转有三层**：其一是**赃物被当作宴会陈设正式展出**（`artwork stolen from one of Paris’s most notable Jewish families`）；其二是**批准这件事的不是某个恶棍，而是"一套流程"**（`the crime had already been signed off by corrupt German lawmakers and the Vichy government alike`）；其三是全章最后一句——**她想出的藏法是"在光天化日之下"**（`In plain sight.`）。
+- **Tropes 兑现/反转**：**兑现**——"美人计 + 调虎离山"的完整配置，本书还加了两件道具：一条来路不明的手镯和一只死人的怀表；**反转有三层**：其一是**赃物被当作宴会陈设正式展出**（`artwork stolen from one of Paris’s most notable Jewish families`）；其二是**批准这件事的不是某个恶棍，而是"一套流程"**（`the crime had already been signed off by corrupt German lawmakers and the Vichy government alike`）；其三是全章收束处那句——**她想出的藏法是"在光天化日之下"**（`In plain sight.`）。
 - **人物弧线**：Sophie 本章从"被展示的人"变成"布局的人"，而她的转变点**不是决心，是一个问句**（`Where’s the best place to hide something?`）——**她在洗手间照镜子时得出结论，而她得出的结论是把赃物摆在最显眼的地方**；**这正是她此后半本书所用的全部方法**。Richter 本章则从"评委"降格为"跟班"，作者用一句完成：`his confidence transformed into obsequiousness`（他的自信被改造成了谄媚）。
 - **叙事手法**：第三人称限知（Sophie）；**本章的调度全部靠"注意力"这一个概念运转**——`distraction`（调虎离山）、`All eyes were on Le Meurice`（全巴黎的眼睛都在这里）、`ice behind their smiles`（笑容背后的冰）；**而作者用三段递减的自我指令控制节奏**（`Breathe, she told herself.`／`Breathe, she told herself again.`），**两次"深呼吸"之间正好夹着那句判断"这是一个疯子的举动"（`It was insanity, what she was attempting to do`）。**
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 这是一个**无主句**，而英语里的无主句（分词结构）**在语法上把主语省略成了上一句的主角**；因此这句在形式上仍像在说 Richter，而实质上**它是在给一个人下诊断**。`beamed`（眉开眼笑）是一个只在脸上出现的动词——**而 `transformed into`（被改造成了）这个被动结构把变化的责任完全推给了外部**，**没有人转换他，是"转换"这个过程本身在起作用**：**而这一章的其余部分（审批、签字、调令）全是这种没有主人的过程。** `obsequiousness`（谄媚）这个词在英语里比 `flattery`（奉承）更硬——**`flattery` 可以是善意的，`obsequiousness` 不行**。
 
-**读者视角提示：** 这一句在全章里最短，却把上一章那场"两个价钱"的关系倒过来了：**上一次是他替自己开价，这一次是他替别人跪下。**
+**读者视角提示：** 这一句在全章里最短，却把ch49 那场"两个价钱"的关系倒过来了：**上一次是他替自己开价，这一次是他替别人跪下。**
 
 ---
 

@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词：** stamped with the initials of the Einsatzstab Reichsleiter Rosenberg / the tidy lettering a feeble attempt to erase the provenance / bloodless, modern bureaucracy
 
-**为什么这样写：** 全章最狠的一笔落在**三个形容词组成的降级阶梯**上：`tidy`（整洁的）→ `feeble`（拙劣的）→ `bloodless`（不见血的）。英语里 `bloodless`（无血的）本来是形容手术顺利的褒义词，作者把它搬来描述**抹掉出处**这件事，于是**"程序化"这三个字第一次有了血腥的反面**。而 `provenance`（出处；来源记录）这个词在英语里属于博物馆与拍卖行的专业词汇，**它被放在一个修复师的手摸过的地方**——**一个专业人士用专业术语写下的罪行，读者只有同行才读得出它的重量。** 三个破折号里的 `a feeble attempt`（一次拙劣的尝试）用定冠词 `the`，**把作者对这件事的判断放进了主语位置**：不是"德国人试图抹掉"，**是"抹掉"这件事本身拙劣。**
+**为什么这样写：** 全章最狠的一笔落在**三个形容词组成的降级阶梯**上：`tidy`（整洁的）→ `feeble`（拙劣的）→ `bloodless`（不见血的）。英语里 `bloodless`（无血的）本来是形容手术顺利的褒义词，作者把它搬来描述**抹掉出处**这件事，于是**"程序化"这三个字第一次有了血腥的反面**。而 `provenance`（出处；来源记录）这个词在英语里属于博物馆与拍卖行的专业词汇，**它被放在一个修复师的手摸过的地方**——**一个专业人士用专业术语写下的罪行，读者只有同行才读得出它的重量。** 那个短语 `a feeble attempt`（一次拙劣的尝试）用的是**不定**冠词 `a`（`the` 属后面 "the tidy lettering"），**把作者对这件事的判断放进了主语位置**：不是"德国人试图抹掉"，**是"抹掉"这件事本身拙劣。**
 
 **读者视角提示：** 这是全书最精确的一次**"官僚即暴力"的翻译**；**记住 `tidy` 这个词——它会在后面被同一个人用另一种方式再说一遍。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** grow jaded by the display of remarkable excess / allow one’s eyes to lose focus / let the colors of the paintings run together in a beautiful blur / each and every painting deserved to be admired on its own merit / each work of art, celebrated
 
-**为什么这样写：** 这句是**用被动句写抵抗**：三个 `to` 不定式一个接一个（`to grow jaded` → `to allow` → `to let`），**英语里连用的不定式会自动形成一个"被带着走"的链条，而主语始终是隐身的 `it`**——于是"人变得麻木"在语法上没有主语可怪。`remarkable excess`（非凡的过剩）是本句最狠的搭配：**`excess`（过剩）在英语里是经济与营养的词，作者让它修饰"展示"**，于是这一屋子的画变成了一次库存过剩的清仓展。转折句 `But each and every painting`（但每一幅画）用 `each and every`（每一个，每一个）这种**只能加强不能弱化的双重强调**；而结尾 `each work of art, celebrated.` 把一个分词短语**单独挂在句号前**——**英语里被逗号切开的前置成分会慢下来读，于是这句赞美不是话说完了，是话停住了。**
+**为什么这样写：** 这句是**用被动句写抵抗**：三个 `to` 不定式一个接一个（`to grow jaded` → `to allow` → **裸 `let`**，作者刻意省掉 `to`），**英语里连用的不定式会自动形成一个"被带着走"的链条，而主语始终是隐身的 `it`**——于是"人变得麻木"在语法上没有主语可怪。`remarkable excess`（非凡的过剩）是本句最狠的搭配：**`excess`（过剩）在英语里是经济与营养的词，作者让它修饰"展示"**，于是这一屋子的画变成了一次库存过剩的清仓展。转折句 `But each and every painting`（但每一幅画）用 `each and every`（每一个，每一个）这种**只能加强不能弱化的双重强调**；而结尾 `each work of art, celebrated.` 把一个分词短语**单独挂在句号前**——**英语里被逗号切开的前置成分会慢下来读，于是这句赞美不是话说完了，是话停住了。**
 
 **读者视角提示：** 作者紧接着让这个停顿单独成段（`Saved.`）；**这一章的道德动作全在这一次停顿里。**
 

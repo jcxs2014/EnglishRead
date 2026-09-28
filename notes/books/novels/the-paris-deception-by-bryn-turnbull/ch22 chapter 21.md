@@ -3,7 +3,7 @@
 modified: "2026-09-28"
 ---
 
-# 22. Chapter 21（1937 年 9 月：一个十六岁的德国人如何学会说谎）
+# 22. Chapter 21（1937 年 9 月：一个十几岁的德国人如何学会说谎）
 
 ## 本章导航
 
@@ -33,9 +33,9 @@ modified: "2026-09-28"
 
 **关键词：** turn us into machines / unthinking, uncritical automatons / they could aim at whichever enemy took their fancy
 
-**为什么这样写：** 这句用**三个降格比喻**排成阶梯：`machines`（机器）→ `automatons`（自动机）——而 `unthinking`（不动脑的）与 `uncritical`（不批判的）**同位修饰 `automatons`**，两个 `-un-` 前缀让"自动化"落到**认知**上。末句 `aim at whichever enemy took their fancy`（瞄准哪个敌人随他们的兴致）用 `whichever`（无论哪个）加 `fancy`（兴致）——**`fancy` 是这一整章最冷的词**：它把屠杀说成一次任性的选择，而作者让这个词来自一个十六岁少年对党卫军的判断。
+**为什么这样写：** 这句用**三个降格比喻**排成阶梯：`machines`（机器）→ `automatons`（自动机）——而 `unthinking`（不动脑的）与 `uncritical`（不批判的）**同位修饰 `automatons`**，两个 `-un-` 前缀让"自动化"落到**认知**上。末句 `aim at whichever enemy took their fancy`（瞄准哪个敌人随他们的兴致）用 `whichever`（无论哪个）加 `fancy`（兴致）——**`fancy` 是这一整章最冷的词**：它把"派他去哪儿、派他去收拾谁"说成一次任性的选择，而作者让这个词来自一个十几岁少年对党与青年团的判断。
 
-**读者视角提示：** `fancy` 这个词会在四年后由一个德国军官重新出现（ch 里那个"随兴"挑人加入党务处的人）；**本书用同一个词写两端。**
+**读者视角提示：** `fancy` 这个词在四年后由另外两个人重新出现（`My brother fancies himself an artist` 在 ch25、`she didn’t much fancy repeating the process` 在 ch37）——**三次都不是"随兴挑人"**。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词：** That’s the trouble, Fabienne / You don’t know / wrenching his hands from Fabienne’s grasp
 
-**为什么这样写：** `That's the trouble`（问题就在这儿）里的 `trouble`（麻烦）不是"困难"而是**"具体的麻烦事"**——英语里说 `that's the trouble with X` 是在列举一件具体的、可指认的缺陷；而他的宾语是**整个人**（`You`）。`wrenching`（用力扭脱）这个动词的力量在于**它同时是叙事与判决**：她在握他的手，他在挣脱，而一个被挣脱的请求等于不存在。末句把 `know` 重复两次（`You don't know` 与后文她说的 `you don't know what it is to live under`），**作者让这一章的最后一个论点由两个人用同一句话的两种版本打出来。**
+**为什么这样写：** `That's the trouble`（问题就在这儿）里的 `trouble`（麻烦）不是"困难"而是**"具体的麻烦事"**——英语里说 `that's the trouble with X` 是在列举一件具体的、可指认的缺陷；而他的宾语是**整个人**（`You`）。`wrenching`（用力扭脱）这个动词的力量在于**它同时是叙事与判决**：她在握他的手，他在挣脱，而一个被挣脱的请求等于不存在。末句把"不知道"这件事打了两遍——但**是 Fabienne 先说的**（`Here in France, we don’t know what it is to live under a fascist regime`，主语是 `we`），**Dietrich 随后才回敬**（`That’s the trouble, Fabienne. You don’t know`）：**作者让同一件事由两个人用两种人称各打一次**。
 
 **读者视角提示：** `You don't know` 会在 ch47 之后变成全书最沉的一句；**记住它第一次出现时，抓着他手的人是她。**
 

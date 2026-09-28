@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1943 年 6 月，Fabienne 骑自行车进 Montparnasse 公墓，绕到家族墓地西墙那条死胡同尽头，在 Dietrich 那块还带着新意的墓碑前放下别人留下的旧花束；Sophie 和 Gerhardt Hausler 挽着手走来——他们选的见面地点"离博物馆很远"（`Far from the museum`），为的是不被听见；Sophie 带来消息：**殉道者之室的藏品要在几周内被清空，其中卖不掉的那批要烧掉**（`They’ll likely be burned`）；他们说现有规模仿不出来，Gerhardt 把手杖立在讲台一样的地方，纠正了她一个字——`“Then, we don’t forge.”`（那我们就不造假。）`“We steal.”`（我们偷。）
+- **一句话概括**：1943 年 6 月，Fabienne 骑自行车进 Montparnasse 公墓，绕到家族墓地西墙那条死胡同尽头，在 Dietrich 那块还带着新意的墓碑前放下别人留下的旧花束；Sophie 和 Gerhardt Hausler 挽着手走来——他们选的见面地点"离博物馆很远"（`Far from the museum`），为的是不被听见；Sophie 带来消息：**殉道者之室的藏品要在几周内被清空，其中卖不掉的那批要烧掉**（`They’ll likely be burned`）；他们说现有规模仿不出来，Gerhardt **看上去**像在讲堂里讨论一个棘手的假设（`as though he was discussing a thorny hypothetical in a lecture hall`），接下她那个字——`“Then, we don’t forge.”`（那我们就不造假。）`“We steal.”`（我们偷。）
 - **情感弧线位置**：**从一场悼念直接翻到一场动员，中间没有过渡**——作者让三个人站在死者墓碑边谈完一桩抢劫计划；**而这一章的转折是"从造到偷"的那一个词**，它把整本书的行动逻辑换了一次挡。
 - **Tropes 兑现/反转**：**兑现**——"三个人在小会议室里策划"的套式；**反转有三处**：其一是**会面地点选在死者的墓前**，而 Sophie 说出消息时正坐在 Dietrich 的坟沿上；其二是**上一章刚刚被"延后"，本章立刻被"提前"**——`I thought we had more time.`（我以为我们还有更多时间。）**而提前的原因是市场**；其三是全章最重的一处——**造赝品的技能在本章是废的**，而废掉它的不是道德，是算术。
 - **人物弧线**：Fabienne 本章从"来扫墓的人"变成"说出算术的人"（`we wouldn’t be able to replace five hundred paintings`）——**她第一次不是被安慰的一方，而是用数字拦住方案的一方**；而作者在她扫墓那一段先给足她的私人哀恸（`who was loved still`），**再让她自己去否决一条可行路线，人物的力量因此是从损失里长出来的。** Gerhardt 本章只说了很少的话，但**他纠正的那一个词定下了这一章的转向**。
@@ -156,4 +156,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-这一章把全书最重要的一次转折，放在了一块墓碑旁边：三个来扫墓的人先谈完了"花是给活人看的"（`a gesture meant for the living, rather than for the dead`），然后立刻算出五百幅画仿不出来，于是**一位工程师用手杖代替讲台，把"造假"这两个字从方案里删掉，换成了两个字——偷**。
+这一章把全书最重要的一次转折，放在了一块墓碑旁边：三个来扫墓的人先谈完了"花是给活人看的"（`a gesture meant for the living, rather than for the dead`），然后立刻算出五百幅画仿不出来，于是**一位工程师**看上去**在讲堂里讨论假设，把"造假"这两个字从方案里删掉，换成了两个字——偷。

@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1943 年 6 月，视角转到 Sophie：她陪 Konrad Richter 在 Maxim's 吃一顿庆功宴，席间他吹嘘自己辨伪的本事、炫耀一瓶被换过标签的酒、随口报出 Göring 想从 Schloss 收藏里拿走的几件画，最后压低声音告诉她一件她还不知道的事——**那批"堕落艺术"不用再偷运了，要直接销毁**（`They’re going to destroy it all`），而这一章的最后一行是那个词被排成一行、连打三次（`VERNICHTUNG, VERNICHTUNG, VERNICHTUNG.`）。
+- **一句话概括**：1943 年 6 月，视角转到 Sophie：她陪 Konrad Richter 在 Maxim's 吃一顿庆功宴，席间他吹嘘自己辨伪的本事、炫耀一瓶被换过标签的酒、随口报出 Göring 想从 Schloss 收藏里拿走的几件画，最后压低声音告诉她一件她还不知道的事——**那批"堕落艺术"不用再偷运了，要直接销毁**（`They’re going to destroy it all`），而这一章的**倒数第二段**才是那个词被排成一行、连打三次（`VERNICHTUNG, VERNICHTUNG, VERNICHTUNG.`）。
 - **情感弧线位置**：**伪装线的最高点，同时也是被自己的情报捅破的时刻**——她刚说完一句"你的元首也许会介意"就往回缩（`Too late, Sophie realized that the champagne had loosened her tongue to the point of bitterness`），随后同一张桌子上的人把判决告诉了她。
 - **Tropes 兑现/反转**：**兑现**——"美人计式晚餐"的全部道具（鱼子酱、芦笋、开瓶的仪式、指尖摸小腿）；**反转**——**骗子不是她，是那瓶酒**：作者让全章的紧张感吊在"这瓶被做过手脚的香槟会不会被识破"上，**而识破者正在以鉴赏家的口吻讲自己怎么识破别人**（`they change labels and sprinkle carpet dust over the bottles`）；第二个反转是**他把销毁的消息当作示好来送**（`To his limited credit, Richter looked troubled`）——**本书的恶从来不是隐瞒，而是给。**
 - **人物弧线**：Sophie 本章从"用套索吊着 Richter 的人"退到"听到判决的人"，**而她的退让是自愿的**（`Sophie swallowed down his condescension with a second blin`）——**她选择把屈辱当食物咽下去，因为下一章她要拿这句话去问另一个人**；Richter 则被作者处理成**一个自己都相信自己在做苦差事的人**（`I’m a good soldier. I follow the orders that are given to me`），**这种自我形象比恶意更难对付。**
