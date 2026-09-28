@@ -33,7 +33,7 @@ modified: "2026-09-27"
 
 **为什么这样写**：**全书对"藏"这件事写得最轻、也最黑的一句**。作者用的是"她能想到的唯一"（the only place she could think）——**不是她精心策划，而是她只剩这一个地方。** 而那个地方是**婴儿的枕套**：一个母亲的藏物处，藏的不是金子也不是希望，是一纸杀身祸。而 no one would check（没人会去查）这个否定式带着一层冷幽默：**在这个家里，唯一不会被翻动的东西，是最弱小那个人的床。**
 
-**读者视角提示**：请与 ch14 那句 "She tucked the chain beneath the neck of her nightdress. She needed no one else to see it."（她把链子塞进睡衣裙的领口，她不需要别人看见）并读。**两处都是"藏在贴身的衣物里"——一个藏的是爱，一个藏的是罪。** 而本章那个婴儿（Harilal）正是在这张床上长大的。
+**读者视角提示**：请与 ch14 那句 "Latika tucked the chain beneath the neck of her nightdress. She needed no one else to see it."（她把链子塞进睡衣裙的领口，她不需要别人看见）并读。**两处都是"藏在贴身的衣物里"——一个藏的是爱，一个藏的是罪。** 而本章那个婴儿（Harilal）正是在这张床上长大的。
 
 > **原句 3:** "But by nightfall his resolve would have swung back, his face paving over, his days an endless pendulum between fight and retreat."
 
@@ -53,7 +53,7 @@ modified: "2026-09-27"
 
 **为什么这样写**：**全书对"超越个人的坚持"写得最含蓄、也最有力的一个句子**，而作者用的是**一个"某物"加一个"某处的"**（Something in her）——**这个主语是物理性的（在她体内），语法上却是自我之外的。** 而 beyond him, beyond even herself（越过他，越过她自己）是一组递进：**第一层是"她超出了他能理解的范围"，第二层是"她超出了自己"。** 而 keep fighting 用的是进行时——**这不是一次行为，是一个持续状态。** Arun 看了一辈子也没看懂的那个东西，作者只用三个介词就说完了。
 
-**读者视角提示**：请把这一句与 ch03 那句"she had learned how to brew harm rather than healing"对照。**"pharm"这个词在 ch18 前后共用同一个身体，而一代人用身体做掩护，另一代人用身体做战场。**
+**读者视角提示**：请把这一句与 ch03 那句 "it surprised her how easy it was to brew harm rather than healing"对照。**"pharm"这个词在 ch18 前后共用同一个身体，而一代人用身体做掩护，另一代人用身体做战场。**
 
 > **原句 5:** "'You can’t bear that burden alone.' In her mother’s embrace, a part of Latika that had long ago shriveled began to uncoil."
 

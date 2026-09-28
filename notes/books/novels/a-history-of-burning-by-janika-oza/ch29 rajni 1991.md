@@ -43,7 +43,7 @@ modified: "2026-09-27"
 
 **为什么这样写**：**全书最短的一次击穿，而它是被孩子说出来的。** 三个词（那张照片）就把整座纸牌屋推倒了——**而作者紧接着让母亲意识到的是"控制"这件事的真相**：他们以为自己在保守秘密，其实**"那张照片"早就在一只抽屉里被一个孩子自己撞见过**（ch22 他在旧相册里翻到父母和 Latika 的合影）。**而 realizing how little control they had really had（意识到自己其实几乎没有掌控过）这句是自认失败**，可它也是一个**成年**：她终于承认，那些年所谓"保护"，其实是"我们不知道该怎么办"。
 
-**读者视角提示**：**请把这一句与 ch24 那句 "I cannot make her look at him"（我没法让她看我）并读。** 那时是父亲的无能为力，**这里是母亲意识到无能为力。** 而 Hari 是唯一一个把两件事接起来的人：**他早在两年前就看懂了那张照片。**
+**读者视角提示**：**请把这一句与 ch25 那句 "He could not make her look at him."（他没法让她看他）并读。** 那时是父亲的无能为力，**这里是母亲意识到无能为力。** 而 Hari 是唯一一个把两件事接起来的人：**他早在两年前就看懂了那张照片。**
 
 > **原句 4:** "You were wrong," Hari roared.
 
@@ -63,7 +63,7 @@ modified: "2026-09-27"
 
 **为什么这样写**：**全书最重的一次比喻，而它用的是身体的解剖学。** The world had lifted（世界浮起来）——**这和 ch26 那句 "the bottomless jolt of missing a step"（踩空一级台阶的无底坠落）正好相反**：**ch26 她是一脚踩空，ch29 是地板被掀开。** 而 "revealing the bones beneath"（露出底下的骨头）**把十九年的秘密写成一具被解剖的身体**——**骨头是结构，结构是撑住一切的东西，而当它被看见时，那个"撑"就塌了。** 而最后那半句的时态极其精准：**for all the years that Hari had been theirs**（在 Hari 一直是他们的那些年里）——**"他们的"这个物主代词在这里是全书最沉的一个词**：这个孩子是他们的，**所以他也是被骗的那一个。**
 
-**读者视角提示**：**这一句请与 ch25 那句 "he could find nothing"（他什么也没找到）并读**——ch25 那个父亲在儿子脸上找"自己该受的怨"，ch29 那个母亲发现**自己守的东西根本不由她掌控**。**这两次都是"无法收回"，而两次都发生在同一个厨房里。**
+**读者视角提示**：**这一句请与 ch25 那句 "But he found nothing"（他什么也没找到）并读**——ch25 那个父亲在儿子脸上找"自己该受的怨"，ch29 那个母亲发现**自己守的东西根本不由她掌控**。**这两次都是"无法收回"，而两次都发生在同一个厨房里。**
 
 > **原句 6:** "The words hung between them like the past, which was not some distant place but a continuous story, woven through skin, the landscape to even their deepest silences."
 

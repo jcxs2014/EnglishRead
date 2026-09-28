@@ -43,7 +43,7 @@ modified: "2026-09-27"
 
 **为什么这样写**：**全书对"移民"这两个字最决绝的一次总结，一句话，两次否定。** 而作者把 origins（来处）换成 future（将来）——**这两个词之间的距离，就是这本书九十四年的全部路程**。而这一句的前一句是他们在跟客人讲自家孩子（医生、教师、大学、外孙女）——**而孩子是"将来"，"来处"是要紧的，所以不讲。** **而 ch20 那句"你是客人"（nursery 里被误认）其实是这句的另一面。**
 
-**读者视角提示**：**这与 ch19 那句 "They were spread out intentionally so as not to swamp any one area"（他们是被故意打散的）形成一组：** 政府打散的是身体，**而这一家人在六十年的岁月里，自己打散的是记忆。**
+**读者视角提示**：**这与 ch19 那句 "We were spread out intentionally so as not to swamp any one area, broken further apart."（他们是被故意打散的）形成一组：** 政府打散的是身体，**而这一家人在六十年的岁月里，自己打散的是记忆。**
 
 > **原句 4:** "Their house had been an anchor, but the shop was a raft, carrying them on when it was time to go."
 
