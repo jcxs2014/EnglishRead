@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 **一句话概括**：Dunkirk 撤出的 BEF 士兵陆续回到伦敦，Grace 在 Mrs. Weatherford 家里陪着这位长辈一起等一封可能永远不来的电报；一次夜巡里她眼看一家意大利咖啡馆被砸却吹不响哨子，随后电报终于来了——Colin 死在了 Dunkirk。
 
-**情感弧线位置**：**低谷**。上一段落下来的那点亮色（Churchill 的讲话、书桌上开始卖得动的那摞旧书）在本章被一连串「没有消息」压回去：花园里的尖叫、砸窗的暴徒、拆信前的那段沉默，全是同一种等待的变体。
+**情感弧线位置**：**低谷**。本章开头那两样亮色（Churchill 的讲话、书桌上开始卖得动的那摞旧书）在本章后段被一连串「没有消息」压回去：花园里的尖叫、砸窗的暴徒、拆信前的那段沉默，全是同一种等待的变体。
 
 **Tropes 兑现/反转**：兑现「战时书信体」的等待焦虑，并把「弱女子遇上危险」这一套路**反着用**——警报一响，Grace 冲向院子，脑子里想的是德国伞兵，手里抓的是一把刀，结果让她尖叫的是地里的 cutworms。反转的第二处是「英雄时刻」：她举起哨子要制止暴行，被上司按住，还被提醒她只是 warden 之一。
 
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 > **原句 2:** “Their eyes were filled with horror, and all of them were so tired they were falling asleep as they chewed the boiled eggs and apples we brought for them. I’ve never in all my life seen such defeat.”
 
-**中文理解**：她的眼睛里全是惊恐，所有人累到一边嚼着她们带来的煮鸡蛋和苹果一边就睡着了；她说自己一辈子没见过这样的溃败。
+**中文理解**：**那批士兵**的眼睛里全是惊恐，一个个累到一边嚼着她们带来的煮鸡蛋和苹果一边就睡着了；她说自己一辈子没见过这样的溃败。
 
 **关键词**：filled with horror（全是惊恐）；falling asleep as they chewed（一边嚼一边睡）；I’ve never in all my life seen such defeat（一辈子没见过这样的溃败）
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：Deeply regret to inform you（深表遗憾地通知您）；is now reported to have lost his life（现已确认阵亡）；the attack at Dunkirk（Dunkirk 的那次袭击）
 
-**为什么这样写**：整段引语只有一句，却是本章最长的一句，而且是**电报体**——句式被公文格式锁死：动词全部后置，情态与时态层层叠加，没有一个形容词可以被情绪劫持。开头那个在前面已经被拆开一半看到的套语，到这里才补全：作者故意让读者和 Mrs. Weatherford 一起，在这句话的第一个逗号处就明白发生了什么。**官方措辞的克制与人的崩溃之间的落差**，就是这段的全部力量。
+**为什么这样写**：整段引语只有一句，而且是**电报体**——句式被公文格式锁死：动词全部后置，情态与时态层层叠加，没有一个形容词可以被情绪劫持。开头那个在前面已经被拆开一半看到的套语，到这里才补全：作者故意让读者和 Mrs. Weatherford 一起，在这句话的第一个逗号处就明白发生了什么。**官方措辞的克制与人的崩溃之间的落差**，就是这段的全部力量。
 
 **读者视角提示**：本章标题性的事件发生在这一行，而它只占一段。前面大半章写的等待、无法出手、无法阻止，全是为了让这一行落下来时有重量。**阅读节奏上不要跳过前面的「无事发生」**——它们是这一行的一部分。
 
@@ -128,7 +128,7 @@ modified: "2026-09-28"
 | unmoving | 纹丝不动的（unmoving stock：形容店里那批一直卖不动的书） | If nothing else, her purchase was one more sale out of their unmoving stock. |
 | stranded | 被困在原地的（士兵困在海滩上，没有掩护） | The accounts were grisly with soldiers being stranded on the beach without cover as Nazi planes sprayed bullets. |
 | salvation | 救赎（游了很远的路到船边，却发现救赎已经没了——转折全在这个词上） | Men swam miles to boats, only to find them bombed and their salvation lost. |
-| demeanor | 举止神态（强撑出来的那种开心：她自己知道，Grace 也看得出） | Despite the other woman’s forcedly happy demeanor, Grace could only guess what Mrs. |
+| demeanor | 举止神态（强撑出来的那种开心：她自己知道，Grace 也看得出） | Despite the other woman’s forcedly happy demeanor, Grace could only guess what Mrs. Weatherford was going through when Grace herself couldn’t stop imagining Colin amid such violent chaos. |
 | depleted | 被耗尽的（depleted of all her energy and spirit：连「精神」也一起被耗光，用词不留余地） | Every day thereafter, Mrs. Weatherford went with the other WVS ladies to aid the BEF returning to London, and every night she returned depleted of all her energy and spirit. |
 | abandoned | 被弃下的（equipment had been abandoned：弃装备换人命，作者随即说这仍然昂贵） | But it was not only men Britain lost; equipment had been abandoned, given up to spare lives. |
 | surrender | 投降（报纸与广播渲染的正面表态：绝不投降，褒贬都在这个词上翻转） | A symbolic gesture that declared Britain would never surrender. |

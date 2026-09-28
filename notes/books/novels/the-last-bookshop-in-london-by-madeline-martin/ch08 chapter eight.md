@@ -95,9 +95,9 @@ modified: "2026-09-28"
 
 **中文理解**：Mr. Evans 从一开始就提醒过她，不要对这间店生出感情。她本来没打算。可不知怎么，还是生出感情了。
 
-**关键词**：told her from the start not to get attached（从一开始就叫她别 attachment）；Though she hadn’t meant to（尽管她本没打算）；somehow she had（可不知怎么就 attachment 了）
+**关键词**：told her from the start not to get attached（从一开始就告诉她别把心思放进来）；Though she hadn’t meant to（尽管她本没打算）；somehow she had（可不知怎么就放进去了）
 
-**为什么这样写**：两个小句，第二句几乎只剩下一个词组。Though she hadn't meant to 先把「不是故意的」承认下来，somehow she had 再把这句承认一笔勾销——英语在这里用的是「完成时 + 副词」的最小句式，写出的是一个**不受自己控制的结果**。前半句 had told her from the start 把店主那句「别 attachment」追认为本章的规则，后半句 Though she hadn't meant to, somehow she had 是 Grace 对这条规则的违规报告。整章从书票卖得好一路顺下来，最后用这两个小句把方向掀翻：**她刚把这里经营成自己的地方，就被告只剩一个月。**
+**为什么这样写**：两个小句，第二句几乎只剩下一个词组。Though she hadn't meant to 先把「不是故意的」承认下来，somehow she had 再把这句承认一笔勾销——英语在这里用的是「完成时 + 副词」的最小句式，写出的是一个**不受自己控制的结果**。前半句 had told her from the start 把店主那句「别 attachment（别把心思放进来）」追认为本章的规则，后半句 Though she hadn't meant to, somehow she had 是 Grace 对这条规则的违规报告。整章从书票卖得好一路顺下来，最后用这两个小句把方向掀翻：**她刚把这里经营成自己的地方，就被告只剩一个月。**
 
 **读者视角提示**：紧挨着的下一段只有一行——And now she didn't want it to end. 本章就在这一行上收束，作者没有解释她为什么不舍，只把不舍摆在那里。**下一章开头写的是她不敢开口。**
 
@@ -111,7 +111,7 @@ modified: "2026-09-28"
 | haphazard | 杂乱无章的；随手凑的（haphazard chaos：形容旧书架「乱的才是真的」） | All except a retired professor who groused at the overly clean shelves, remarking that it lacked the authenticity of the haphazard chaos of their previous sorting system. |
 | authenticity | 原汁原味；货真价实（老人嫌新书架太干净，怀念旧摆法） | All except a retired professor who groused at the overly clean shelves, remarking that it lacked the authenticity of the haphazard chaos of their previous sorting system. |
 | ingenious | 巧妙的；有巧思的（Grace 从 Foyle’s 学来再改造的书票制） | Grace had learned of the ingenious system from a trip to Foyle’s, the six-story bookseller who touted secondhand books and notable teas with celebrity guests. |
-| captivated | 入了迷的；被牢牢吸住的（captivate 的过去分词，写书对人做的事） | I expect if it has captivated you so thoroughly, we can anticipate selling quite a few copies based on your recommendation.” |
+| captivated | 入了迷的；被牢牢吸住的（captivate 的过去分词，写书对人做的事） | I expect if it has captivated you so thoroughly, we can anticipate selling quite a few copies based on your recommendation. |
 | ubiquitous | 无处不在的（孩子的笑声曾经到处都有） | Once those giggles had been ubiquitous, blending into the roar of traffic and chatter of passing people. |
 | treachery | 背叛；阴谋（小说内部从告发一路升级到最大的背叛） | What started as an accusation in the beginning spiraled into treachery before tailspinning into the greatest betrayal. |
 | poignancy | 辛酸；打动人心的力量（她代入主角的程度像亲身经历过） | More than that, she recalled his experiences with the same poignancy as if she herself had lived through them rather than the character in the book. |
@@ -125,7 +125,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| infraction | 违规；违章（防空期最常犯的那一类错，ARP warden 逐户去抓） | Have we suffered an infraction?” |
+| infraction | 违规；违章（防空期最常犯的那一类错，ARP warden 逐户去抓） | Mr. Evans gave a soul-deep exhale. “Good afternoon, Mr. Stokes. Have we suffered an infraction?” |
 | redeem | 兑换；兑付（书票的用途：收礼的人拿它换任意一本书） | It was a marvelous advertising opportunity where one could purchase the card as a gift and the recipient could redeem it for any book of their choosing. |
 | touted | 大肆吹捧；叫卖（touted secondhand books and notable teas） | Grace had learned of the ingenious system from a trip to Foyle’s, the six-story bookseller who touted secondhand books and notable teas with celebrity guests. |
 | grueling | 累人的；把人累垮的（原文本拼法；把冬天的通勤写成体力活） | The quick walk that had seemed so brief and pleasant in the summer and fall had become grueling in the winter. |
@@ -145,7 +145,7 @@ modified: "2026-09-28"
 | token | 代币；票券（National Book token system，本章 Grace 推出的那套促销） | She’d even managed to convince Mr. Evans to engage in the National Book token system. |
 | ledger | 账簿；流水簿（Mr. Evans 记销售的那本小账本） | He made a note in the small ledger Grace kept beside the register, marking the sales with the same efficiency she’d begun. |
 | register | 收银台；（小商店里的）登记本（Grace 记的账本就搁在它旁边） | He made a note in the small ledger Grace kept beside the register, marking the sales with the same efficiency she’d begun. |
-| ration | 配给；定量供应（rationed goods 与 stock of sugar 背后的整套制度） | Mrs. Weatherford had put together a feast in light of the impending ration, which was rumored to begin in January. |
+| ration | 配给；定量供应（rationed goods 是那套让橱窗和圣诞都变形的制度） | Mrs. Weatherford had put together a feast in light of the impending ration, which was rumored to begin in January. |
 | muffler | 围巾（进店前从脖子上扯下来的那一条） | Grace unbelted her coat and tugged the muffler from her neck as she scanned the shop, envisioning where a space for children’s books might go. |
 | spectacles | 眼镜（Mr. Evans 取下来擦镜片时，那双眼睛显得很小） | Mr. Evans drew his spectacles off to examine them. |
 | pram | 婴儿车（几个小女孩围着一辆装着娃娃的玩具车说话） | As she continued on toward the bookshop, she came upon several little girls whispering together with a toy pram holding their dolls. |
@@ -158,4 +158,4 @@ modified: "2026-09-28"
 | canister | 罐；筒（防毒面具的罐子，手提包底部就是为它留的圆窝） | It was a curious thing with a rounded bottom for the canister to go inside and a pocket to fit the bulk of the mask. |
 ## 一句话总结
 
-这一章是**把她留下这件事变成她自己的选择**——她先赢下一场促销，再被一本小说赢下，最后被一句「别 attachment」提醒：赢回来的每一样东西都只借到下个月。
+这一章是**把她留下这件事变成她自己的选择**——她先赢下一场促销，再被一本小说赢下，最后被店主那句「别 attachment（别把心思放进来）」提醒：赢回来的每一样东西都只借到下个月。

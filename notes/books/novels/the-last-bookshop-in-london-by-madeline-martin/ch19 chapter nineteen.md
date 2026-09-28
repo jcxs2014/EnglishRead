@@ -58,7 +58,7 @@ modified: "2026-09-28"
 
 **关键词**：You give every part of yourself to help others（你把整个人都拿去帮人）；Out there, you save lives（外头你救的是命）；In here, you save souls（在这儿你救的是人）
 
-**为什么这样写**：整轮台词的结构是先**抽掉参照系，再给总量，最后拆成两半**。第一句用 the whole of yourself（整个人）把「帮」这件事放大到不留余地；中间的 Not just with what you do with the ARP 用一个 not just 把 ARP 和店里这两条线合并，宣告这不是两份工作，是同一份。真正的技术在结尾那对短句：Out there 对 In here 是地点的对举，save lives 对 save souls 是宾语的对举，而 save 这个动词原封不动地重复了两次——**同一个动作，换个地点就换了一种分量**。难的是 souls 这个词：它比 lives 更难写实，也更难否认，作者偏偏把它放进两个最平实的词里。
+**为什么这样写**：整轮台词的结构是先**抽掉参照系，再给总量，最后拆成两半**。第一句用 every part of yourself（你的每一部分）把「帮」这件事放大到不留余地；中间的 Not just with what you do with the ARP 用一个 not just 把 ARP 和店里这两条线合并，宣告这不是两份工作，是同一份。真正的技术在结尾那对短句：Out there 对 In here 是地点的对举，save lives 对 save souls 是宾语的对举，而 save 这个动词原封不动地重复了两次——**同一个动作，换个地点就换了一种分量**。难的是 souls 这个词：它比 lives 更难写实，也更难否认，作者偏偏把它放进两个最平实的词里。
 **读者视角提示**：这是全书对 Grace 这个人物最正式的一次定性，而且出自唯一一个从头看着她长的人。老人说这句时先抬手指了指货架——**先给证据，再给结论**，这个顺序在他这一章里不止一次。
 
 ---
@@ -141,7 +141,7 @@ modified: "2026-09-28"
 | friend | 朋友（He had been a mentor, a friend, a father figure：三个身份被排成一列） | Her exuberance lit the entirety of the letter and had Grace eager to see her friend once more. |
 | ache | 隐痛；酸痛（An ache clenched in Grace’s throat：签文件之前，她喉咙里先紧了那一下） | An ache clenched in Grace’s throat. |
 | answer | 答案（It wasn’t until nearly a week later that she had her answer：她等的是同一件事的另一半） | It wasn’t until nearly a week later that she had her answer. |
-| body | 身体（whatever was wrong … was happening inside his body：她第一次救不了，是因为伤在里面） | Her body went through the motions that had been trained into her as a warden, even as her mind reeled that this time she was helping Mr. |
+| body | 身体（她的身体还在照着当 warden 时练熟的动作走，而脑子知道这一次她救的是店主） | Her body went through the motions that had been trained into her as a warden, even as her mind reeled that this time she was helping Mr. Evans. |
 | bombings | 轰炸（The bombings continued with such regularity：战争在这一章已经变成了一种日程） | The bombings continued with such regularity that London no longer resembled her former glory. |
 | bookshop | 书店（她递出去的那张卡片上写的就是这三个字） | She handed him a small card where she’d written the information for the bookshop. |
 | austere beauty | 冷而讲究的美（形容那间客厅：整齐到像一间不许碰的博物馆） | There was an austere beauty to the room, like a museum full of fragile items you weren’t allowed to touch. |

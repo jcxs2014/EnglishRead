@@ -97,9 +97,9 @@ modified: "2026-09-28"
 
 **关键词**：Not foolish at all（一点也不傻）；You’ll change this war yet（你终究会改变这场战争）；tapped his blunt fingers on the cover（粗短的手指敲了敲书的封面）；One book at a time（一次一本）
 
-**为什么这样写**：全章以一个**量词**收束。作者刚说完一句很大的话（你终究会改变这场战争），紧接着就把它按回一个极小的单位：一次一本。这个缩小法和店主的身份是同一套逻辑——上一章他对 Grace 说的是别停，这一章他说的是一次一本，两句都是把宏大压到可执行的粒度。yet 保留了一个敞开的将来时，**不承诺、不保证**，只把可能性留在那里。动作上也收得干净：tapped his blunt fingers on the cover，指头敲在**封面**上，不是翻页——他认可的是这本书本身，不是她读得有多好。
+**为什么这样写**：全章以一个**量词**收束。作者刚说完一句很大的话（你终究会改变这场战争），紧接着就把它按回一个极小的单位：一次一本。这个缩小法和店主的身份是同一套逻辑——两章之前（第十一章）对 Grace 说的是「永远、永远不要停」，这一章他说的是「一次一本」，两句都是把宏大压到可执行的粒度。yet 保留了一个敞开的将来时，**不承诺、不保证**，只把可能性留在那里。动作上也收得干净：tapped his blunt fingers on the cover，指头敲在**封面**上，不是翻页——他认可的是这本书本身，不是她读得有多好。
 
-**读者视角提示**：请把这句话和本章开头那句朗读失败连起来读：先是舌头打结、忘了行、被人看着，然后才有人递来一支手电并请她接着读。**她的能力不是天降的，是被人要出来的。** 这也是本书对「拯救」一词给出的最终答案。
+**读者视角提示**：请把这句话和本章末段那次朗读失败连起来读：先是舌头打结、忘了行、被人看着，然后才有人递来一支手电并请她接着读。**她的能力不是天降的，是被人要出来的。** 这也是本书对「拯救」一词给出的最终答案。
 
 ## 本章词汇
 
@@ -119,7 +119,7 @@ modified: "2026-09-28"
 | stark | 冷峻的（his expression stark as he observed the ruins：她认得这个表情，因为点名的活儿就是他干的） | Mr. Stokes’s footsteps slowed as he appeared beside Grace. “Mrs. Hews,” he whispered, his expression stark as he observed the ruins. |
 | dismal | 惨淡的（他要带给 Hewses 家的那个消息，形容词与消息本身无关，说的其实是他的脸色） | Mr. Stokes waited for Mr. and Mrs. Hews when the all clear sounded, thinking it best that he be the one to share the dismal news. |
 | plight | 困境（Dorothea 的 plight：作者借一个中世纪式的词给一场包办婚姻定了性） | She’d only just started Middlemarch the night before and was several chapters in, her mind locked on Dorothea and the young woman’s plight with her new, much older husband. |
-| trill | 颤音（那位常客嗓音里的 excited trill：他的每次插话都被写成一种乐器的动作） | This discovery was followed almost immediately by the excited trill of Mr. |
+| trill | 颤音（那位常客嗓音里的 excited trill：他的每次插话都被写成一种乐器的动作） | This discovery was followed almost immediately by the excited trill of Mr. Pritchard’s voice as he offered his ever-present opinion on the state of Britain. |
 
 ### ⭐⭐ 进阶
 
@@ -136,7 +136,7 @@ modified: "2026-09-28"
 | coiled | 蜷成团（Her stomach coiled itself into a knot：上台前那一下，紧张被写成腹部的动作） | Her stomach coiled itself into a knot. |
 | hollow | 空空的（the hollow emptiness of grief：作者连用两个近义词，把悲伤写成**中空**而非饱满） | There was a sadness in his eyes that Grace felt in her core, the hollow emptiness of grief. |
 | stubborn | 固执的（A stubborn lump worked its way into Grace’s throat：哽咽被写成一块咽不下去的东西） | A stubborn lump worked its way into Grace’s throat. |
-| grousing | 抱怨（Regardless of his grousing：抱怨归抱怨，人还是跟着走了——这一笔让角色立刻可信） | Regardless of his grousing, he followed Grace out of the shop, along with the other customers and Mr. |
+| grousing | 抱怨（Regardless of his grousing：抱怨归抱怨，人还是跟着走了——这一笔让角色立刻可信） | Regardless of his grousing, he followed Grace out of the shop, along with the other customers and Mr. Evans. |
 
 ### ⭐ 基础
 

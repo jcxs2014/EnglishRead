@@ -112,7 +112,7 @@ modified: "2026-09-28"
 | cacophony | 嘈杂；刺耳的合奏（The cacophony of war overhead：头顶的声音被写成一件乐器合奏） | The cacophony of war overhead came nonstop and with such intensity, it was impossible to differentiate one sound from the other. |
 | mirthless | 没有笑意的（笑却不好笑：他自己先承认了那个偏见） | He gave a mirthless laugh. |
 | fortitude | 坚忍（took a considerable amount of fortitude：装 ARP 臂章的手在抖，靠的是这个词） | Preparing for her ARP work that night took a considerable amount of fortitude. |
-| quell | 平复（quell her panic：她把恐慌按住，而不是赶走它） | When at last they were several streets away, with a cup of lukewarm tea from a WVS sponsored canteen, Grace managed to quell her panic and leveled a gaze at Mrs. |
+| quell | 平复（quell her panic：她把恐慌按住，而不是赶走它） | When at last they were several streets away, with a cup of lukewarm tea from a WVS sponsored canteen, Grace managed to quell her panic and leveled a gaze at Mrs. Weatherford. |
 | macabre | 阴森可怖的（macabre dollhouse：被炸开的房子像玩具屋，形容词与名词互相加深） | Many homes were shells of themselves, their missing walls revealing the rooms inside like a child’s macabre dollhouse. |
 | ruse | 诡计（his poorly crafted ruse：那只逗猫的装置拙劣又可爱） | Grace smiled despite his perpetual inability to recall her name and seeing through his poorly crafted ruse. |
 | reverberated | 在胸腔里回荡（每一声爆响不是从外面来，是在身体里面） | Without her wits about her, she might have surrendered to the flicker of panic racing in her mind with every whistle, every thundering boom that reverberated in her chest. |

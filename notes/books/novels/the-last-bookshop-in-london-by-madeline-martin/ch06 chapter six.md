@@ -110,7 +110,7 @@ modified: "2026-09-28"
 | shimmering | 闪闪发光的（橱窗上烫金店名的一个字，把 Paternoster Row 的浮华集中在最亮的一笔上） | The name “Nesbitt’s Fine Reads” was proudly presented in a curling script of shimmering gold and glossy black. |
 | adorned | 装饰；点缀（主语是金色字母，宾语是玻璃橱窗——店名反过来装饰店面） | Gilt letters adorned the glass with store names while painted posters advertised sale prices meant to lure in customers with a bargain. |
 | enunciated | 清晰而刻意地发（音）（biting them off 的施动者是这位太太，咬字本身带敌意） | She enunciated the hard consonants as she spoke, as though biting them off along with her insult. |
-| impudence | 无礼；放肆（她第一次被人当面顶撞时，作者用的不是 rude 而是一个更正式、更冷的词） | Her impudence was reflected in Mrs. |
+| impudence | 无礼；放肆（她第一次被人当面顶撞时，作者用的不是 rude 而是一个更正式、更冷的词） | Her impudence was reflected in Mrs. Nesbitt’s narrowed eyes. |
 | emboldened | 使鼓起勇气（后一句的主语是 nastiness 而不是勇气，好人的恶意反而推了她一把） | She’d never been one to stand up to others, but something about Mrs. Nesbitt’s nastiness had her emboldened. |
 | meticulous | 一丝不苟的（写她列改造方案，也写她此刻终于知道自己要做什么） | Later that evening, Grace was in the middle of writing a meticulous catalog of what she wished to implement at Primrose Hill Books when the door to the room she shared with Viv opened and her friend swept in, bringing with her a new floral scent. |
 | introspection | 内省；自我凝视（作者用它解释 Colin 的安静，读者因此会去猜他盯着那双蓝眼睛想什么） | He was a quiet young man, given often to introspection that made you wonder what went on behind his sharp blue eyes. |
@@ -126,17 +126,17 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | chic | 时髦；摩登（Viv 的穿着，她的 aspiration 从「给 Grace 也弄一身」升级成自己走进 Harrods） | Viv had always been chic, but her sense of fashion had risen to grander levels during their brief time in London. |
-| indignantly | 愤慨地（她甩门而出时的副词，作者给一个二十出头的姑娘用这么重的情绪词是抬举） | “I don’t intend to copy it,” Grace answered indignantly. |
+| indignantly | 愤慨地（她甩门而出时的副词，作者给一个已经被生活磨得不敢开口的姑娘用这么重的情绪词是抬举） | “I don’t intend to copy it,” Grace answered indignantly. |
 | self-deprecating | 自嘲的（Viv 讲自己被公交车的引擎声吓到时的笑，也是她的性格底色） | She gave a self-deprecating laugh. |
 | gilt | 烫金的（店名与书脊都用上它；书名 gold lettering 也在同章重复出现） | Gilt letters adorned the glass with store names while painted posters advertised sale prices meant to lure in customers with a bargain. |
 | curling | 卷曲的（a curling script of shimmering gold：花体的另一个细节形容词） | The name “Nesbitt’s Fine Reads” was proudly presented in a curling script of shimmering gold and glossy black. |
 | elaborate | 精细的；繁复的（她佩服的不是 Mr. Anderson 本人，而是他描述读者内心的那种精细） | Between what she’d seen in the large plate windows of Paternoster Row, the organization of Mrs. Nesbitt’s Fine Reads and even the elaborate detail of a reader’s mind Mr. Anderson had offered, Grace knew exactly what she wanted to do. |
 | wary | 戒备的（店主从书架后面递过来的那个眼神，是他不情愿放权的唯一表情） | When she returned, he slid her a wary look. |
 | mutter | 咕哝（那声低语里藏着整个 Yes，作者偏要让他先咕哝一次再开口） | He issued a low mutter that might have been a yes. |
-| coaxed | 哄着说（We'll start small 是她对付 Mr. Evans 的整套办法：把大要求切成小块） | She carefully folded George’s note back into its envelope, slipped it into her purse and settled the book on the counter. “We’ll start small,” she coaxed. |
+| coaxed | 哄着说（她那句「我们从小处开始」是对付店主的整套办法：把大要求切成小块） | She carefully folded George’s note back into its envelope, slipped it into her purse and settled the book on the counter. “We’ll start small,” she coaxed. |
 | scuffed | 磨损的（那本被他读旧的书的封面，与新书店的洁净形成对照） | It had been well used, given its scuffed surface and how the once sharp corners were dulled and curled inward. |
 | floral | 花香的（Viv 进门时带进来的气味，与箱子里的柠檬水、窗台上的大丽花同属一条感官线） | Later that evening, Grace was in the middle of writing a meticulous catalog of what she wished to implement at Primrose Hill Books when the door to the room she shared with Viv opened and her friend swept in, bringing with her a new floral scent. |
-| delicately | 小心翼翼地（她用小指按着眼下擦泪，写一个二十出头姑娘的体面） | She pressed the back of her forefinger to the underside of her eyes to delicately dab away any moisture. |
+| delicately | 小心翼翼地（她用小指按着眼下擦泪，写这个姑娘的体面） | She pressed the back of her forefinger to the underside of her eyes to delicately dab away any moisture. |
 
 ### ⭐ 基础
 
@@ -154,7 +154,7 @@ modified: "2026-09-28"
 | wristlet | 腕带（ARP identification wristlet，本章最沉的一件小礼物） | The card it was attached to declared it to be an ARP identification wristlet. |
 | apron | 围裙（老太太解下来给它抚平的那条） | Mrs. Weatherford smoothed the apron over her lavender housedress, as cool and collected as Viv. |
 | gravy | 肉汁（“Onion gravy, anyone?”——她把这个家的晚饭端上桌时只问了这一句） | “Onion gravy, anyone?” |
-| envelope | 信封（Grace 先看见的是信封上 Miss Bennett 的花体字） | Grace glanced down at the envelope with “Miss Bennett” |
+| envelope | 信封（Grace 先看见的是信封上 Miss Bennett 的花体字） | Grace glanced down at the envelope with “Miss Bennett” written in a scrolling hand over its cream-colored surface. |
 | leather | 皮革（leather-bound book，那本被读旧的书最外层的材质） | Smiling to herself, she peeled away the wrap to reveal a leather-bound book. |
 | spine | 脊背（同一个词也指书脊；此处取身体的说法，腕带一上手那股凉意先从背上过） | A finger of ice slid down Grace’s spine. |
 ## 一句话总结

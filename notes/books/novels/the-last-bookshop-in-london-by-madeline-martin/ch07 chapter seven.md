@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：There was never a guarantee（从来没给过保证）；I can’t stay here（我不能待在这儿）；while the other men are off fighting（别的男人都在外面打）
 
-**为什么这样写**：作者把 Colin 的辩解拆成两层：前一句是给母亲的台阶，后一句才是真正不讲道理的部分。can’t 与 won’t 在本章里被分给了不同的人——母亲说「我知道你不想让我走」，儿子说「可我不能装作没看见，我也不会」。**他把「不服从」写成了原则**。而 while 引导的从句把留守说成了一件不该做的事，是全场最朴素、也最难反驳的理由：一个儿子在拿全伦敦的处境压自己的母亲。
+**为什么这样写**：作者把 Colin 的辩解拆成两层：前一句是给母亲的台阶，后一句才是真正不讲道理的部分。can’t 与 won’t 都被塞进了**儿子自己嘴里**——他对母亲说：我知道你不想让我走，我也知道你一直想把我留下，可我不能装作没看见，我也不会。**他把「不服从」写成了原则**。而 while 引导的从句把留守说成了一件不该做的事，是全场最朴素、也最难反驳的理由：一个儿子在拿全伦敦的处境压自己的母亲。
 
 **读者视角提示**：母亲的暗线在这里合拢——上一章楼梯拐角那通压低了声音的电话，就是她托人把儿子保成 essential employee 的努力；本章这封信证明那通电话没有奏效。
 
@@ -110,7 +110,7 @@ modified: "2026-09-28"
 | unrealized | 没能兑现的（anticipation 被这个词一压，开篇的「等战争」就注定落空） | The next two months dragged on for London with unrealized anticipation of the war. |
 | tiresome | 乏味的（tiresome loop：把无线电写成转不出去的圈，是作者给这个停滞季节的判词） | There were no more air raid warnings, no rations put into place, no gas attacks and the news on the wireless seemed to report the same updates on a tiresome loop. |
 | sullen | 闷闷不乐的（店主像个闹别扭的孩子——作者拿孩子来比一个大人的别扭） | Viv pinned her with a sullen stare, no doubt recalling the failure of their last attempt. |
-| noncommittal | 不置可否的（耸肩的动作被命名了：她既不能替店主表态，也不愿承认自己高兴） | She lifted her shoulder in a noncommittal shrug, unsure if Mr. |
+| noncommittal | 不置可否的（耸肩的动作被命名了：她既不能替店主表态，也不愿承认自己高兴） | She lifted her shoulder in a noncommittal shrug, unsure if Mr. Evans would want any information divulged. |
 | divulged | 泄露；说出去（她不确定店主想不想让人知道生意变好，于是把话咽回去） | She lifted her shoulder in a noncommittal shrug, unsure if Mr. Evans would want any information divulged. |
 | skulked | 鬼鬼祟祟地走（他来挖人，却连进门都写得不光明，猫与他同一副样子） | Mr. Pritchard skulked around the entryway, his head tucked low in his large jacket. |
 | mesmerized | 着迷的（她看雨水在玻璃上融化、看它自己串成一股水流——全章唯一的静止时刻） | Grace looked up from where she’d been mesmerized by the raindrops melting into one another before trickling down the windows. |
@@ -127,11 +127,11 @@ modified: "2026-09-28"
 |------|------|------|
 | mothballs | 樟脑丸（他身上那股味道：防鼠也防不了人，一句话就把 Mr. Pritchard 写旧了） | Mr. Pritchard stepped closer to her, bringing with him the scent of peppermint and mothballs. |
 | abundance | 丰盛；大量（the call for an abundance of home-grown vegetables：战时号召里最乐观的那个词） | Though the rationing Mrs. Weatherford had sworn would come had not been implemented as yet, the call for an abundance of home-grown vegetables was indicative of its impending announcement. |
-| hoarders | 囤积者（Colin 一句玩笑说母亲早就备好了货——「存着」是全家的生存策略） | To keep the hoarders from buying it all first.” |
+| hoarders | 囤积者（Colin 一句玩笑说母亲早就备好了货——「存着」是全家的生存策略） | He lifted his head and gave a small laugh. “Ah, yes. To keep the hoarders from buying it all first.” |
 | doted | 溺爱（Not when she doted on him with such adoration：她看着儿子时的那种眼神） | Not when she doted on him with such adoration or how she watched him with eyes that shone with pride and love. |
 | adoration | 宠爱；崇拜（同一个母亲的两种感情，被作者用同一个句子交出） | Not when she doted on him with such adoration or how she watched him with eyes that shone with pride and love. |
 | splinter | 裂开（心碎不说破，而是心裂了一道缝——后半章所有苦都从这一道缝里出来） | His responding smile was so sweet, it made Grace’s heart splinter. |
-| devastation | 毁坏；残局（菜园与窗上的胶带被一笔带过，那不是她最心疼的东西） | The devastation of Mrs. |
+| devastation | 毁坏；残局（菜园与窗上的胶带被一笔带过，那不是她最心疼的东西） | The devastation of Mrs. Weatherford’s flower beds and the taped windows, which she referred to as “unsightly,” were hardly their greatest loss. |
 | unsightly | 难看的（Mrs. Weatherford 对胶带窗的原话；她连审美标准都带着战前那套） | The devastation of Mrs. Weatherford’s flower beds and the taped windows, which she referred to as “unsightly,” were hardly their greatest loss. |
 | elation | 欢欣（prickled over Grace’s skin：喜悦不在心里，在皮肤上，跟刺一样） | Elation prickled over Grace’s skin. |
 | distracted | 心不在焉的（她几次想读那本书，败给的正是这个词） | In all of her wayward attempts, she had either been too distracted to concentrate, too tired to stay awake, or even a bit of both. |
@@ -144,7 +144,7 @@ modified: "2026-09-28"
 | pasteboard | 硬纸板（她用白卡纸写分类标签，书店变整齐的第一个证据） | New tables were set in the middle of the shop with the books facing the entrance to greet patrons, their genres clearly marked in black print on white pasteboard. |
 | inventory | 库存（后房与楼上那些还没分类的书，被称作 inventory） | The remaining inventory was piled in the back room, making it almost impossible to move in the already cramped space, and piled along the second floor, which had been blocked off while she sorted through the mess. |
 | genres | 体裁（黑笔写在白卡纸上的分类词，是她对这家店做的第一批事） | New tables were set in the middle of the shop with the books facing the entrance to greet patrons, their genres clearly marked in black print on white pasteboard. |
-| cinema | 电影院（她们第二次尝试去看的那家，第二次仍然没成） | “We could try to go to the cinema again,” |
+| cinema | 电影院（她们第二次尝试去看的那家，第二次仍然没成） | “We could try to go to the cinema again,” Grace offered hesitantly. |
 | theater | 剧院（Viv 说 London would be all glitz and glam with theater tickets，那个她没去成的世界） | “I thought London would be all glitz and glam with theater tickets and late nights out dancing.” |
 | paybox | 售票亭（黑得看不见、只能靠数硬币的那一格） | The building had been black as death’s cloak, and they’d nearly fallen over several times as they tripped their way down the partition that formed something of a corridor leading to the paybox. |
 | partition | 隔板（摸黑走过的那道形成走廊的隔板） | The building had been black as death’s cloak, and they’d nearly fallen over several times as they tripped their way down the partition that formed something of a corridor leading to the paybox. |

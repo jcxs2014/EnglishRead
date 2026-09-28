@@ -109,7 +109,7 @@ modified: "2026-09-28"
 | glittering | 闪闪发光的（写在圣诞树的装饰物上：全章最贵的一处装饰也是最经不起碰的一处） | At the head of the room was a stately Christmas tree with not a scrap of painted newspaper to be seen among its glittering ornaments. |
 | intentionally | 有意地；故意地（edging around her question：他绕开正面回答，而读者一眼就能看出这个绕是故意的） | He laughed and she realized he was intentionally edging around her question. |
 | inoperable | 不能使用的；停摆的（theaters … rendered inoperable by damage：把剧院写成被打坏的机器，而不是被烧毁的房子） | All the theaters that might have once been open were now few and far between, many having been rendered inoperable by damage. |
-| shamefaced | 羞愧的；抬不起头的（Jimmy 进门时的样子：他没有跑，但也没脸看人） | Jimmy arrived, albeit shamefaced when he saw Mrs. |
+| shamefaced | 羞愧的；抬不起头的（Jimmy 进门时的样子：他没有跑，但也没脸看人） | Jimmy arrived, albeit shamefaced when he saw Mrs. Weatherford, but didn’t run from her and Grace after the reading. |
 | devastated | 被摧毁的；满目疮痍的（a devastated world：与后半句的 by comparison 组成同段里的强对比） | The boy’s consideration, in a devastated world when he had nothing and they had so much by comparison, needled into Grace’s chest. |
 | luxuriated | 尽情享受；奢侈地沉溺（She luxuriated in his clean scent：享受被写成一个近乎奢侈的动词） | She luxuriated in his clean scent and tried to sear every second of the magical night into her mind forever. |
 | decadent | 奢华得过了头的；颓靡的（the most decadent meal：用贬义词写牛排，作者在提醒读者这一餐的代价） | The waiter appeared then with the most decadent meal Grace had ever been served. |
@@ -138,11 +138,11 @@ modified: "2026-09-28"
 |------|------|------|
 | striking | 醒目的（striking green eyes：全章第一句里唯一可看的形容词） | Grace’s pulse tripped over itself as her gaze found the striking green eyes of George Anderson. |
 | confident | 自信的（he’d always been so smooth and confident：与她此刻的语塞正好对着写） | In their previous interactions, he’d always been so smooth and confident. |
-| Stunning | 惊人的；极美的（他最后憋出来的那个形容词，也是本章唯一被说出口的夸奖） | “Stunning,” |
+| Stunning | 惊人的；极美的（他最后憋出来的那个形容词，也是本章唯一被说出口的夸奖） | “Stunning,” he said finally with a lopsided grin. |
 | taxi | 出租车（taxi sailed through the streets：sailed 这个词用在一辆出租车上） | He led her outside and together they walked to a waiting taxi. |
 | looping | 流畅环形的（the looping title in gilt：书封上那道烫金的书名字体） | The royal purple cover was embossed with a gold image of a man standing on a barrel amid a group of people with the looping title in gilt at its top. |
 | embossed | 压印的；凸起的（embossed with a gold image：书封上按出来的那张画） | The royal purple cover was embossed with a gold image of a man standing on a barrel amid a group of people with the looping title in gilt at its top. |
-| mufflers | 围巾（复数即本章原词形，Viv 织的那两条） | Viv had knit them both thick mufflers, and Grace had managed to get Mrs. |
+| mufflers | 围巾（复数即本章原词形，Viv 织的那两条） | Viv had knit them both thick mufflers, and Grace had managed to get Mrs. Weatherford and Viv a bit of chocolate. |
 | soot | 煤灰（Grace 洗完澡后留在浴室瓷砖上的黑手印） | It was on one such check-up that they came upon a fireman, his face streaked with soot and glossy with sweat. |
 | sandbag | 沙袋（灭火用的沙袋，本章后半段一直在手上） | She left the safety of the sandbag-laden post and went out into the wet chill of a late December night. |
 | stirrup | 马镫（stirrup pump：靠人力踩压的脚踏水泵） | On and on they repeated their actions down the length of the street, putting flames out with sandbags and spray, alternating at the stirrup pump lest one of them tire too quickly. |

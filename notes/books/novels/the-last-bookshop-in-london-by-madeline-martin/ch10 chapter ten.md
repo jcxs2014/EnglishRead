@@ -147,9 +147,9 @@ modified: "2026-09-28"
 | rattle | 响板（防毒攻击时用来报警的那种） | Several days later, she was awarded a tin hat with a white W painted on it to denote her role as a warden, a whistle, a gas rattle to alert the public in the event of a gas attack, an orange bound copy of the Air Raid Warden’s Training Manual as well as a CD mask. |
 | manual | 手册（上岗前发到手里那本训练教材） | Several days later, she was awarded a tin hat with a white W painted on it to denote her role as a warden, a whistle, a gas rattle to alert the public in the event of a gas attack, an orange bound copy of the Air Raid Warden’s Training Manual as well as a CD mask. |
 | badge | 徽章（别在翻领上的那块金属牌） | If nothing else, the metal ARP badge she’d pinned to her lapel helped tether the string into place. |
-| warden | 值守员；防空队员（她这一章接下的那个职务） | Rather than sign on as an ARP warden, Grace allowed Mrs. |
+| warden | 值守员；防空队员（她这一章接下的那个职务） | Rather than sign on as an ARP warden, Grace allowed Mrs. Weatherford to convince her to attend several WVS meetings. |
 | newspaper | 报纸（Mr. Pritchard 攥在手里闯进来的那张） | She was going through the most recent post delivery one afternoon when Mr. Pritchard pushed into the shop with a newspaper clutched in his bony hands. |
-| satire | 讽刺（那本讽刺书的名目里就带着它） | It was the recent order of Pigeon Pie, the political satire of the “bore war” |
+| satire | 讽刺（那本讽刺书的名目里就带着它） | It was the recent order of Pigeon Pie, the political satire of the “bore war” by Nancy Mitford. |
 | aisle | 过道（书店里那一排排书架之间的通道） | “If you mean to imply she couldn’t do it, you’re daft.” Mr. Evans emerged from the history aisle, shooting a glare at Mr. Stokes from over his thick glasses. |
 | mascara | 睫毛膏（那位太太哭花的那一层） | The woman looked miserably at the handkerchief, now stained with mascara, lipstick and the dampness of her sorrow. |
 | sofas | 沙发（战时人们守在收音机前的那几件家具） | Sales went down as people found themselves plastered to their sofas at home before their wireless sets, desperate for any news. |

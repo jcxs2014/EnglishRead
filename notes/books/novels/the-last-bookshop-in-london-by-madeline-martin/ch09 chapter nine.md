@@ -21,9 +21,9 @@ modified: "2026-09-28"
 
 > **原句 1:** Grace had not been able to dislodge her melancholy at the idea of no longer working for Primrose Hill Books. Yet in the three weeks that followed, she couldn’t summon the temerity to speak to Mr. Evans about the possibility of staying on. Not when he’d been so insistent that she not become attached.
 
-**中文理解**：一想到自己不再在 Primrose Hill Books 做事，Grace 一直甩不掉那份低落。接下来的三周里，她始终鼓不起勇气去问 Mr. Evans 能不能继续留下——尤其是因为他先前那样坚持，要她别 attachment。
+**中文理解**：一想到自己不再在 Primrose Hill Books 做事，Grace 一直甩不掉那份低落。接下来的三周里，她始终鼓不起勇气去问 Mr. Evans 能不能继续留下——尤其是因为他先前那样坚持，要她别 attachment（别把心思放进来）。
 
-**关键词**：dislodge（摆脱；甩掉）；couldn’t summon the temerity（那份胆量始终召不出来）；so insistent that she not become attached（那样坚持要她别 attachment）
+**关键词**：dislodge（摆脱；甩掉）；couldn’t summon the temerity（那份胆量始终召不出来）；so insistent that she not become attached（那样坚持要她别把心思放进来）
 
 **为什么这样写**：整整三周被塞进 yet in the three weeks that followed 这么一个小句里，**读者被迫和 Grace 一起干等了三个星期**。全段最锋利的是 summon 这个动词：temerity 在英语里是个抽象名词，而作者不说「她没有勇气」，说这个抽象物**没有应召而来**。第三句 Not when… 是被砍掉尾巴的状语从句——本该是「她没开口，因为…」，作者把因果倒过来，让她的怯懦**由他造成**：他越坚持，她越不敢开口，而作者一句解释都不给。
 

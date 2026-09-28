@@ -128,7 +128,7 @@ modified: "2026-09-28"
 | carousing | 寻欢作乐（Everyone dancing, carousing, oblivious：舞厅里的人不知道外面在发生什么） | Everyone dancing, carousing, oblivious. |
 | oblivious | 浑然不觉的（与上一词同句，作者把「不知情」直接写成了形容词） | Everyone dancing, carousing, oblivious. |
 | vermillion | 朱红色的（bright vermillion lips：与后文那件樱桃红裙子同一套配色） | Viv dropped her kit and responded in kind, bright vermillion lips parted in a wide smile. |
-| skittish | 怯生生的（less skittish around Mrs. Weatherford：从躲在书架后到肯留下来说话） | The adolescent slowly became less skittish around Mrs. |
+| skittish | 怯生生的（less skittish around Mrs. Weatherford：从躲在书架后到肯留下来说话） | The adolescent slowly became less skittish around Mrs. Weatherford. |
 | meddlesome | 爱管闲事的（Are you being meddlesome：她邀人过节，对方拿这个词挡回去） | “Are you being meddlesome, woman?” |
 | sequestered | 躲起来的（sequestered himself behind：从书架后面探出头，是老先生的出场方式） | Mr. Evans stuck his head out from a shelf he’d sequestered himself behind. |
 | perimeter | 外围（a mound of sandbags piled high around its perimeter：酒店的沙袋圈） | The Grosvenor greeted them with a mound of sandbags piled high around its perimeter and its windows blacked out against the darkening sky. |

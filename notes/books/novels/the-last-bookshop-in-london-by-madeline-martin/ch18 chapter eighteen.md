@@ -100,7 +100,7 @@ modified: "2026-09-28"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| bewildered | 发懵的；不知所措的（Dazed and momentarily bewildered：她被撞倒在地后睁开眼的那两秒，意识跟不上身体） | Dazed and momentarily bewildered, she blinked up to find Mr. |
+| bewildered | 发懵的；不知所措的（Dazed and momentarily bewildered：她被撞倒在地后睁开眼的那两秒，意识跟不上身体） | Dazed and momentarily bewildered, she blinked up to find Mr. Stokes covering her with his body. |
 | foundation | 地基；根基（unsteady on its foundation：整栋楼晃了一下，作者用建筑术语写人的恐惧） | Even as she did so, the building seemed to sway slightly, unsteady on its foundation. |
 | flickering | 忽明忽暗的（By the flickering orange light from outside：唯一的光源是外面烧着的火） | By the flickering orange light from outside, she searched the flat, its state in as much disrepair as the shop below. |
 | lifelessly | 毫无生气地（pressed lifelessly beneath the cabinet：她脑海里闪回的画面里，那个人是被压着的，不是在动） | The image of Mr. Pritchard pressed lifelessly beneath the cabinet flashed in her mind. |
@@ -146,7 +146,7 @@ modified: "2026-09-28"
 | hydrants | 消防栓（the water mains that fed the hydrants：被炸断的是这几家的上游） | The water relays were there as a safety measure in the event the bombings cut the water mains that fed the hydrants. |
 | embers | 余烬（the glowing embers in the fireplace：她小时候觉得美、现在觉得残忍的同一个东西） | When she was a girl, she’d thought the glowing embers in the fireplace beautiful, like fire fairies. |
 | soot | 煤灰（Soot was smeared over her otherwise neat macintosh：煤灰落在别人的外套上） | Most had fire crawling across their slate roofs, dancing wickedly over their costly wood interiors and stretching out from their shattered windows, the exterior paintwork blackening with soot. |
-| comparison | 比方（an apt comparison between Ebenezer Scrooge and Mrs. Nesbitt：全章最关键的一次换算） | It was an apt comparison between Ebenezer Scrooge and Mrs. |
+| comparison | 比方（an apt comparison between Ebenezer Scrooge and Mrs. Nesbitt：全章最关键的一次换算） | It was an apt comparison between Ebenezer Scrooge and Mrs. Nesbitt to be sure. |
 | shelves | 书架（Take all the shelves you need：她为别人的书腾地方时，店主给的就是这两个字） | Inside, shelves of books were being licked apart by flames as they raced with greedy delight over rows and rows of neatly organized spines. |
 | businesses | 生意；店铺（so many businesses to have burned like that：她挨骂时对方搬出来的词） | “There is no excuse for so many businesses to have burned like that. |
 ## 一句话总结
