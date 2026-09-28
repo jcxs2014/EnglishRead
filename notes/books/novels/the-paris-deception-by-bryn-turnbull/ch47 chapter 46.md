@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词：** break each other’s hearts / only clinging to the comfort of the past / she would never regret what had passed between them
 
-**为什么这样写：** 反复出现的 `perhaps` 先说"结局"再说"过程"——而作者让再一次出现的那个用 `only`（仅仅）把可能性贬到最低，于是**这一段里"可能"这个词越重复，语气反而越确定**。末句 `There might not be a tomorrow`（也许没有明天）与 `would never regret`（永不后悔）构成**时态上的不对称**：她承认未来可能不存在，却用将来时 `will never` 对未来下了判断——**这是英语里最不讲道理的一种乐观，也是全书对 Fabienne 最精确的描写：她把自己放在了悲观的语法里，却不肯把后悔这个词也放进将来。**
+**为什么这样写：** 反复出现的 `perhaps` 先说"结局"再说"过程"——而作者让再一次出现的那个用 `only`（仅仅）把可能性贬到最低，于是**这一段里"可能"这个词越重复，语气反而越确定**。末句 `There might not be a tomorrow`（也许没有明天）与 `would never regret`（永不后悔）构成**时态上的不对称**：她承认未来可能不存在，却用间接引语的过去式 `would never` 对未来下了判断（原文 `she would never regret`）——**这是英语里最不讲道理的一种乐观，也是全书对 Fabienne 最精确的描写：她把自己放在了悲观的语法里，却不肯把后悔这个词也放进将来。**
 
 **读者视角提示：** 这段写在地铁上，而她此刻还不知道地铁站外那张告示；**这一章的全部重量，取决于她这句"没有明天"说的是哪一天。**
 
@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 > **原句 4:** Madame de Frontenac shrugged. “Who’s to say? Foreigners, mostly, I think. Monsieur Minci and his son, they were carrying on like you wouldn’t believe, but I suppose that’s the Latin in them... Monsieur de Frontenac’s nerves couldn’t take it. He’s been in bed all day.”
 
-**中文理解：** Frontenac 太太耸了耸肩。"谁知道呢？我想大多是外国人。Minic 先生和他儿子——他们闹起来你都不会相信，不过我想这是他们血统里的东西……Frontenac 先生的神经受不了。他今天整天都躺在床上。"
+**中文理解：** Frontenac 太太耸了耸肩。"谁知道呢？我想大多是外国人。Minci 先生和他儿子——他们闹起来你都不会相信，不过我想这是他们血统里的东西……Frontenac 先生的神经受不了。他今天整天都躺在床上。"
 
 **关键词：** Foreigners, mostly, I think / carrying on like you wouldn’t believe / that’s the Latin in them
 

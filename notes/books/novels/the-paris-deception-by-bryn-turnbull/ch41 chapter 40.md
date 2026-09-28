@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1941 年 9 月，当夜 Sébastien 把 Fabienne 带上旋转楼梯进厨房（他走去柜子取了一瓶香槟，又从水槽里拿出两只杯子），两人就着 1938 年的自家香槟把话说开：他先嘲讽她"才坐下就抱怨这个地方"，她反驳两句之后把话锋转到香槟本身（"你做成了我们家几代人都没做成的事"），他随即用一句"你最有资格谈拿一切去赌一个梦"把刀递回她手里；她道歉、他说出那句压了多年的话（"我从来只想让你幸福。你，Fabienne。不是多洛城堡，不是你父母"），然后问起 Dietrich——她答"他是个好人"，他答"一个德国人"；最后她提议朝"某种不再 actively 敌对的东西"迈一小步，他边走向黑暗的门厅边说"你又把二加二算成了二十——我什么时候说过我恨你？"
+- **一句话概括**：1941 年 9 月，当夜 Sébastien 把 Fabienne 带上旋转楼梯进厨房（他走去柜子取了一瓶香槟，又从水槽里拿出两只杯子），两人就着 1938 年的自家香槟把话说开：他先嘲讽她"才坐下就抱怨这个地方"，她反驳两句之后把话锋转到香槟本身（"你做成了我们家几代人都没做成的事"），他随即用一句"你最有资格谈拿一切去赌一个梦"把刀递回她手里；她道歉、他说出那句压了多年的话（"我从来只想让你幸福。你，Fabienne。不是多洛城堡，不是你父母"），然后问起 Dietrich——她答"他是个好人"，他答"一个德国人"；最后她提议朝"某种不再有 active hatred 的东西"迈一小步，他边走向黑暗的门厅边说"你又把二加二算成了二十——我什么时候说过我恨你？"
 - **情感弧线位置**：**全书感情线唯一一次"解释"被完整说出口**——此前两人所有的摩擦都停在误会层面（"你为什么不早说"），这一章第一次让 Sébastien 把"我本可以跟你去巴黎"讲出来。**但它同时是最冷的一章**：每一次靠近都紧跟一次自毁（她报出丈夫的名字，他评断国籍）。
 - **Tropes 兑现或反转**：**兑现**——"多年后重逢、旧情人把话说开"的套式，用酒当润滑剂；**反转两处**：① 他要的从来不是道歉（`Sébastien wanted an apology, that much was clear.` 之后立刻被推翻——她给不出道歉，因为**她知道自己会再来一次**）；② 结尾不是"我原谅你"，而是**"我从没说过我恨你"**——把整章的对立前提抽掉。
 - **人物弧线**：Fabienne 从"等着被指责的人"变成"知道自己理亏却仍然不认错的人"（`she would do it all over again`），这是本书对她最诚实的一次刻画——**作者让她既无辜又有罪，两头都不给台阶**。Sébastien 则从酒窖里那个摔瓶子的看守人，变回一个**肯把最疼的话说完的农庄继承人**（`His stern expression crumbled, before he shored himself back up again`，塌下去又立刻撑起来）。
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词：** all I ever wanted was to make you happy / Not Château Dolus. Not your parents. / I would have gone to Paris with you, if you’d given me the chance
 
-**为什么这样写：** 三个 `Not` 句（`Not Château Dolus. Not your parents.`）**每个都是完整句、每个都只有三个词**，而正句 `all I ever wanted was to make you happy` 用 `all` 开头、用 `ever` 加强——**他先把自己压缩到只剩一个愿望，再把"愿望的对象"从家族、城堡、父母一项项砍掉，最后落到一个人名上**。`You, Fabienne.` 单独成句：这个名字在整章里第一次被他当作**全部答案**说出来，之前他每次叫她名字都带着责备。而 `if you’d given me the chance` 里的 `the chance` 呼应她本人在本段的辩解——**两人说到的是同一件事的两端**。
+**为什么这样写：** 两个 `Not` 句（`Not Château Dolus. Not your parents.`）**每个都是完整句、每个都只有三个词**，而正句 `all I ever wanted was to make you happy` 用 `all` 开头、用 `ever` 加强——**他先把自己压缩到只剩一个愿望，再把"愿望的对象"从家族、城堡、父母一项项砍掉，最后落到一个人名上**。`You, Fabienne.` 单独成句：这个名字在整章里第一次被他当作**全部答案**说出来，之前他每次叫她名字都带着责备。而 `if you’d given me the chance` 里的 `the chance` 呼应她本人在本段的辩解——**两人说到的是同一件事的两端**。
 
 **读者视角提示：** 这一段是全章情感顶点；作者把它放在他**终于不必再克制的地方**（此前他有过 `His stern expression crumbled, before he shored himself back up again`），而说完之后他立刻转入下一件实务（香槟的风险、Klaebisch 的压力）。
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** you’ve added two and two and somehow ended up with twenty / At what point did I ever say I hated you
 
-**为什么这样写：** 结句用的是**算术比喻**——`added two and two and somehow ended up with twenty`（把二加二弄成了二十）：数字全部来自生活常识（`Once again` 说明这是老账），而 `somehow`（不知怎么地）是唯一的松动点，**它把责任推给运算过程而不是运算者**。紧接着的第二句才是真正的反转：`At what point did I ever say I hated you?`（我什么时候说过我恨你）——**回指式疑问句（`At what point`）本该指向过去某一刻，他用来指向"从未"**，于是把整章建立的前提（她怕他恨她）直接抽掉。`he said softly` 与前一句的 `he said softly` 同款：**他今晚的两次真话都用同一种音量说出来。**
+**为什么这样写：** 结句用的是**算术比喻**——`added two and two and somehow ended up with twenty`（把二加二弄成了二十）：数字全部来自生活常识（`Once again` 说明这是老账），而 `somehow`（不知怎么地）是唯一的松动点，**它把责任推给运算过程而不是运算者**。紧接着的第二句才是真正的反转：`At what point did I ever say I hated you?`（我什么时候说过我恨你）——**回指式疑问句（`At what point`）本该指向过去某一刻，他用来指向"从未"**，于是把整章建立的前提（她怕他恨她）直接抽掉。`he said softly` 在本章只出现一次，全书另一处同类在两章前的 ch39：**他今晚的两次真话都用同一种音量说出来。**
 
 **读者视角提示：** 她要的是"某种不再是主动敌对的东西"，他给的却是"我从没说过敌对"；**两个人在同一场对话里，为不同的词争执了一整晚。**
 

@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1942 年 7 月，Sophie 被砸门声惊醒，梦里是自己被 Bohn 的人查出伪造文件、供出 Fabienne 与 Gerhardt 的场面；惊醒后才发现挨门的是对楼的波兰籍犹太学者 Pavel Nowak 一家——宪兵带着枪、只说"给犹太人用的处理设施"，让他们带上两天的干粮；她认出这次不是水晶夜的失控暴乱，而是**警察自己在有组织地执行**（`it was the police themselves who were pulling people from their beds with controlled chaos`），并且叙述者还替这套流程补上了时刻表：它被安排在丽兹饭店的德国军官们喝上午咖啡之前收尾；楼梯间有人尖叫制造了一瞬空档，她把门开得更大一点，用口型对 Anna 说出唯一一个词；Anna 点头，抱着婴儿 Isobel 走下楼去；她关上门，跪坐在地上——**她宁愿被抓走的是自己。**
+- **一句话概括**：1942 年 7 月，Sophie 被砸门声惊醒，梦里是自己被 Bohn 的人查出伪造文件、供出 Fabienne 与 Gerhardt 的场面；惊醒后才发现挨门的是对门的波兰籍犹太学者（原文 `across-the-hall`） Pavel Nowak 一家——宪兵带着枪、只说"给犹太人用的处理设施"，让他们带上两天的干粮；她认出这次不是水晶夜的失控暴乱，而是**警察自己在有组织地执行**（`it was the police themselves who were pulling people from their beds with controlled chaos`），并且叙述者还替这套流程补上了时刻表：它被安排在丽兹饭店的德国军官们喝上午咖啡之前收尾；楼梯间有人尖叫制造了一瞬空档，她把门开得更大一点，用口型对 Anna 说出唯一一个词；Anna 点头，抱着婴儿 Isobel 走下楼去；她关上门，跪坐在地上——**她宁愿被抓走的是自己。**
 - **情感弧线位置**：**全书最低点**——此前所有的紧张都在"能不能被发现"，而本章的答案变成了"发现之后是带枪的人按楼层清点"。注意作者的节制：她**没有成功**，Anna 只是往下走；而全章最重的一句是自责（`Nothing, when she so completely lacked her brother’s bravery.`）。
 - **Tropes 兑现或反转**：**兑现**——"半夜宪兵敲门"这一类型化恐怖场景、以及邻居作为无害者的设定；**反转两处**：① 恐惧的对象错了（她怕的是查到自己，实际被抓的是邻居，**而她的伪造罪此刻还是安全的**——作者让她在最坏的时刻得到一次侥幸）；② 逃跑尝试没有成功也没有失败，**Anna 选择了被带走前的点头**（`nodded once—decisively, defiantly`），**唯一的反抗是那一点头的姿态。**
 - **人物弧线**：Sophie 从前几章"操盘者"跌到"旁听者"——本章她能做的全部是**把门多开一点**（`to push the door wider`）。但作者没有让她瘫掉：她先想到 Fabienne 与 Gerhardt（`She would keep the wolves from their doors`），再想到 Pavel 的论文（`his dissertation on bridge trusses`）——**她的道德直觉先于她的行动，行动又永远慢半拍**，这与 Dietrich 当年在场时的她（`Nothing, when she so completely lacked her brother’s bravery`）形成一条自陈的线。
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词：** There was nothing Sophie could do / nothing, when she could hear police officers on each of the other floors / rounding up similarly bewildered Jewish families
 
-**为什么这样写：** `nothing` 出现三次，**三个 `when` 从句各配一个 `nothing`**，而每个 `nothing` 后面都跟一条**具体的理由**——**作者让无力感以"清单"的形式出现，而清单越具体越绝望**。`each of the other floors`（其他每一层）用 `each` 覆盖全楼，**这与清点动作形成同构：警察在点数，她也在点数**。`rounding up`（围捕、集中带走）在英语里是个经济与军事词汇——**赶牲口入圈的那个动词**；`similarly bewildered`（同样不知所措）则把被抓的人限定在一个心理状态上：**不是反抗者，是不懂发生了什么的人。**
+**为什么这样写：** `nothing` 出现三次，**两个 `when` 从句各配一个 `nothing`**，而每个 `nothing` 后面都跟一条**具体的理由**——**作者让无力感以"清单"的形式出现，而清单越具体越绝望**。`each of the other floors`（其他每一层）用 `each` 覆盖全楼，**这与清点动作形成同构：警察在点数，她也在点数**。`rounding up`（围捕、集中带走）在英语里是个经济与军事词汇——**赶牲口入圈的那个动词**；`similarly bewildered`（同样不知所措）则把被抓的人限定在一个心理状态上：**不是反抗者，是不懂发生了什么的人。**
 
 **读者视角提示：** 本章的叙述节奏由这三个 `nothing` 定下；**注意作者把"她什么也做不了"与"他们在做什么"放在同一个句子的两种结构里。**
 

@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 > **原句 5:** Richter had been stealing on Göring’s behalf for months, each transaction carefully recorded to give them a feeble gloss of legitimacy, but if Richter was stealing from the Room of Martyrs for his own edification, she very much doubted that any records of his own thefts would exist.
 
-**中文理解：** Richter 替戈林做贼已经做了几个月，每一笔都仔细记录，好给它们涂上一层合法的 flimsy 光泽；可要是他为了自己私藏而从殉难者之室往外搬，她很怀疑他自己的那些案子会有任何账可查。
+**中文理解：** Richter 替戈林做贼已经做了几个月，每一笔都仔细记录，好给它们涂上一层合法的 feeble 光泽（原文是 `a feeble gloss of legitimacy`）；可要是他为了自己私藏而从殉难者之室往外搬，她很怀疑他自己的那些案子会有任何账可查。
 
 **关键词：** each transaction carefully recorded to give them a feeble gloss of legitimacy / for his own edification / she very much doubted that any records of his own thefts would exist
 
@@ -95,7 +95,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 三个 `brief` 类词连用（`a brief, terrifying moment`、`too keen`），**时间与强度被压成一次呼吸的长度**。牌桌隐喻是精确的：`overplayed`（出牌过头）的原义就是**手上明明握得好，却多打了一张**；而作者把牌局与她刚说的话对接上（她刚问过 `other artworks`、刚答应看展）——**危险不是来自敌人，是来自她自己多问的那一句。** `expressed too keen an interest` 里的 `too` 与 `keen`（热切、锋利）**是英语里一对自相矛盾的好词**：`too keen an interest` 本来是褒义，加上 `too` 才变成指控。
 
-**读者视角提示：** 全书多处主角自察都在事后；**但这一次的自察只晚了半秒，且没有任何补救动作**——她唯一的补救是把话头转到洗盘子上。
+**读者视角提示：** 全书多处主角自察都在事后；**但这一次的自察只晚了半秒，且没有任何补救动作**——她唯一的补救是把话头转到**代写账单**上（`I’d be happy to write up the bill of sale`）。
 
 ---
 

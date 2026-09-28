@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **关键词：** How easy it was to break the rules / when they were being made by those / who lacked any sort of moral compass
 
-**为什么这样写：** 三个 `who` 从句里作者藏了一个**关系从句套关系从句**（`those who` 后面又套 `who lacked`），句子因此在读者的嘴里绕了一层——**"破坏规则"这个动作因此看起来比它实际更复杂**，而作者要的效果正是反的：它应该非常容易。`any sort of moral compass`（任何一种道德罗盘）用 `any sort of` 做了个空泛的量词，**罗盘这个词把"准则"具体成一件仪器**。最狠的是时态 `were being made`（正在被制定）——进行时被动，**规则不是既成事实，是一个正在进行的动作**，于是"破规矩"永远是正在进行时的事。
+**为什么这样写：** 一个 `who` 从句里作者把状语压进了关系从句（`those who` 后面又套 `who lacked`），句子因此在读者的嘴里绕了一层——**"破坏规则"这个动作因此看起来比它实际更复杂**，而作者要的效果正是反的：它应该非常容易。`any sort of moral compass`（任何一种道德罗盘）用 `any sort of` 做了个空泛的量词，**罗盘这个词把"准则"具体成一件仪器**。最狠的是时态 `were being made`（正在被制定）——进行时被动，**规则不是既成事实，是一个正在进行的动作**，于是"破规矩"永远是正在进行时的事。
 
 **读者视角提示：** 记住 `moral compass`；本章最后 Lev 用"这也会过去"安慰她，**而她刚刚说过，衡量人的东西已经坏掉了。**
 

@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**全书感情线最高点**——本章之前是"能不能回到过去"，本章第一次给出答案，而答案是**同时说出当年做错的事**（`It’s why I couldn’t bear to end our engagement face to face`）。注意作者的处理：**她先自陈不配（`I’m not a good person`），他才回应**——顺序不能颠倒。
 - **Tropes 兑现或反转**：**兑现**——"战时被征用的人随时可能被拉走"这一历史压力，以及"旧情人重逢"的告白场景；**反转三处**：① 表面上的坏收成其实是**政治压强**（征用铜矾＝军队优先于霜霉病）；② François 的罪名是**卖次等酒给国防军**——一个地方法官用一个商业罪名收拾法国最有名望的家族之一；③ 母亲崩溃在牛身上，而作者让这头牛叫 Otto（`named Otto in mocking tribute to the Weinführer`），**全章唯一一次黑色幽默，把她的绝望换成一个名字**。
 - **人物弧线**：Fabienne 从上一章"自我诊断成机器"变回**有身体有道德的人**：她先为窖藏画作（`hidden in plain sight`）的暴露风险焦虑，再为 Maman 的疲惫自责，最后交出自己的罪——`She was deceiving him now—deceiving her parents, too` 这一句让**"骗"字从爱情移到政治**：她一边准备吻他，一边承认自己一直在骗所有人。Sébastien 从上一章"不原谅的人"变成**带着未竟之事交代后事的人**（`if something were to happen, either to you or to me`），而他先交代的是"我每天都在想"——**顺序是"你为什么走"在前，"我有多苦"在后**。
-- **叙事手法**：第三人称限知（Fabienne）；**三场递进**：葡萄田（白天、宽、三个女人与一头牛）→ 城堡门前到石阶（黄昏、窄、只有两人）→ 石阶（夜、暗、一只扁酒壶）。作者用**两次同名反讽**做全书题眼（Otto／Chateau Deceit），而全章的语法核心是**`every` 的反复**（every vine／each and every champagne producer／every day／every single day／every ounce of resolve）——**搜集癖与生活本身在这一章里是同一件事。**
+- **叙事手法**：第三人称限知（Fabienne）；**三场递进**：葡萄田（白天、宽、三个女人与一头牛）→ 城堡门前到石阶（黄昏、窄、只有两人）→ 石阶（夜、暗、一只扁酒壶）。作者用**两次同名反讽**做全书题眼（Otto／Chateau Deceit），而全章的语法核心是 `every` 的反复（`each and every champagne producer`／`every day`／every single day／every ounce of resolve）——**搜集癖与生活本身在这一章里是同一件事。**
 
 ## 精读
 
@@ -59,7 +59,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 这是全章唯一一处**叙述者用第三人称替敌人想**，而作者让一个被动结构的形容词完成全部判断：`relegated to the uneventful French countryside`（被贬到无聊的法国乡下）——`relegated`（降级安置）在英语里是**体育与公司用语**，用在一个师团的调动上，**降级感与无聊感同时落地**。`would be too much to resist`（太难抗拒）是**间接引语式**的通用套语，作者用它把一群武装人员的觊觎写成了旅游冲动。整句没有"危险"二字，**而危险完全由主语的身份提供**。
 
-**读者视角提示：** 本章的悬念全靠这句：**她窖藏的画挡得住 Klaus 的搜查，挡不住一群闲下来的士兵。**
+**读者视角提示：** 本章的悬念全靠这句：**她窖藏的画挡得住 Klaebisch 的征用（原文是征用一个营的士兵住处，不是搜查；酒政使的名是 Klaebisch，全书无第二个近似拼法），挡不住一群闲下来的士兵。**
 
 ---
 
