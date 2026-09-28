@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **主题**：本章的中心动作是**记忆的侵入**——罗兰坐在 2020 年伦敦家中的摇椅上昏睡，记忆倒流回 1986 年 5 月 3 日，再从那一天倒流回 1950 年代寄宿学校的一堂钢琴课。三个时间层不是并列的插叙，而是**因果链**：钢琴课（受挫与被侵犯）→ 与艾莉莎的婚姻与写作 → 妻子出走 → 被警方怀疑。三层之间的切换全靠语法完成，不靠提示词。
 
-**结构列表**（全 8 个场景单元，本章无小标题）：
+**结构列表**（全 6 个场景单元，本章无小标题）：
 
 1. 钢琴课记忆（十一岁）→ 摇篮中的 2020 年 → 大腿上的淤痕
 2. 妻子出走后：救济金、夜间自省的酒循环
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：三个时间层的第一道门（2020 的摇篮 / 1950 年代的琴房）
 
-> **原句 1:** This was insomniac memory, not a dream. It was the piano lesson again—an orange-tiled floor, one high window, a new upright in a bare room close to the sickbay.
+> **原句 1：** This was insomniac memory, not a dream. It was the piano lesson again—an orange-tiled floor, one high window, a new upright in a bare room close to the sickbay.
 
 **中文理解**：这不是梦，是失眠者的记忆；又是那堂钢琴课——橙色的瓷砖地面、一扇高窗、病房旁一间空荡屋子里的新立式琴。
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：排除梦 → 锁定场景 → 三件物品的空间参数 → 引出钢琴本身。
 
-> **原句 2:** The music was simply here, a school thing, or dark, like a pine forest in winter, exclusive to him, his private labyrinth of cold sorrow. It would never let him leave.
+> **原句 2：** The music was simply here, a school thing, or dark, like a pine forest in winter, exclusive to him, his private labyrinth of cold sorrow. It would never let him leave.
 
 **中文理解**：这音乐只是"在这儿"，一个学校里的东西，或者暗得像冬日松林，专属于他，他那冰冷哀愁的私人迷宫。它永远不会放他走。
 
@@ -87,7 +87,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：出走之后——救济金与酒的自责循环（1986 回溯）
 
-> **原句 3:** Finally he won some state aid, a single-parent’s stipend, a widower’s mite, though she wasn’t dead.
+> **原句 3：** Finally he won some state aid, a single-parent’s stipend, a widower’s mite, though she wasn’t dead.
 
 **中文理解**：最后他争到了一点国家补助、一份单亲津贴、一笔鳏夫级的施舍——尽管她并没有死。
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：最终争到补助 → 逐级降格 → 括号式的事实纠正 → 不加评论。
 
-> **原句 4:** Woozily contrite, in a sad-sweet cloud, he would make ruminative progress up the stairs, check on the baby, fall asleep, sometimes fully clothed, across the bed, to wake in the arid small hours, exhausted and alert, furious and thirsty, totting up in the dark his virtues and how he was wronged.
+> **原句 4：** Woozily contrite, in a sad-sweet cloud, he would make ruminative progress up the stairs, check on the baby, fall asleep, sometimes fully clothed, across the bed, to wake in the arid small hours, exhausted and alert, furious and thirsty, totting up in the dark his virtues and how he was wronged.
 
 **中文理解**：微醺而懊悔，在一团酸甜交织的云里，他会一边反刍一边挪上楼梯、查看婴儿、栽倒床上（有时衣服都没脱），又在干渴的凌晨醒来，又累又醒着，又怒又渴，在黑暗里一笔笔清点自己的美德与自己受的委屈。
 
@@ -117,7 +117,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：没有练琴的那一课——时态自觉、接吻与窗外（1950s）
 
-> **原句 5:** His piano teacher was using the present continuous to condition the near future.
+> **原句 5：** His piano teacher was using the present continuous to condition the near future.
 
 **中文理解**：他的钢琴老师正用"现在进行时"来为最近的将来设定条件。
 
@@ -131,7 +131,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：命名规则 → 给出规则的原句（后文五句"你现在…"） → 引出未练琴的欺骗。
 
-> **原句 6:** He neither resisted nor engaged. It happened and he let it happen and felt nothing while it lasted. Only in retrospect, when he lived and relived and animated the moment in solitude, did he get the measure of its importance.
+> **原句 6：** He neither resisted nor engaged. It happened and he let it happen and felt nothing while it lasted. Only in retrospect, when he lived and relived and animated the moment in solitude, did he get the measure of its importance.
 
 **中文理解**：他既没有抗拒，也没有投入。它就这么发生了，他让它发生，在持续的时间里什么也没感觉到。只有在事后——当他一遍遍独处地重演、重演、把那一刻赋予生命时——他才量出它的分量。
 
@@ -141,11 +141,11 @@ modified: "2026-09-28"
 
 **表达方式**：**去情化叙述**——把侵犯写成一次"没有发生什么"的事件；情感被全部后置到一个从句里；倒装句制造"迟到"的形式感。
 
-**为什么这样写**：这是罗兰的**事后视角**首次正面显形，也是全书伦理观察的核心技术：作者拒绝让十一岁的孩子"被迫体验"，只让成年后的他"事后度量"。"and lived and relived and animated" 三个动作的时态混用（过去/过去/现在），正是把记忆与想象混成一件事。**"the measure of its importance" 之后罗兰将一生都在补上这个测量。**
+**为什么这样写**：这是罗兰的**事后视角**首次正面显形，也是全书伦理观察的核心技术：作者拒绝让十一岁的孩子"被迫体验"，只让成年后的他"事后度量"。"he lived and relived and animated" 三个动作的时态混用（过去/过去/现在），正是把记忆与想象混成一件事。**"the measure of its importance" 之后罗兰将一生都在补上这个测量。**
 
 **段落逻辑**：否认反应 → 事件发生 → 当时无感 → 只有回望才可度量。
 
-> **原句 7:** The empty window had rudely invoked the world of people outside.
+> **原句 7：** The empty window had rudely invoked the world of people outside.
 
 **中文理解**：那扇空窗粗暴地召来了外面那个人的世界。
 
@@ -161,7 +161,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：探长登门——失踪妻子的剧本与"抽象观念"（1986）
 
-> **原句 8:** A shaded emptiness, a grey winter sky against which impressions—sounds, sights, touch—burst like fireworks in arcs and cones of primary colour, instantly forgotten, instantly replaced and forgotten again. Or a deep pool into which everything fell and disappeared but remained, irretrievably present, dark shapes in deep water exercising their gravitational pull even eighty years later, on deathbeds, in last confessions, in final cries for lost love.
+> **原句 8：** A shaded emptiness, a grey winter sky against which impressions—sounds, sights, touch—burst like fireworks in arcs and cones of primary colour, instantly forgotten, instantly replaced and forgotten again. Or a deep pool into which everything fell and disappeared but remained, irretrievably present, dark shapes in deep water exercising their gravitational pull even eighty years later, on deathbeds, in last confessions, in final cries for lost love.
 
 **中文理解**：一片有阴影的空无，一片灰色冬天的天空，声响、景象、触觉这些印象就在这天空上爆成烟花，画出原色的弧与锥，顷刻被遗忘，顷刻被替换，再被遗忘。或者是一片深池，一切落进去、消失了，却仍不可追回地留在那里，深水中的黑影在八十年后仍在施展它们的引力——在临终床上、在最后的忏悔里、在为失去的爱发出的最后哭声里。
 
@@ -177,7 +177,7 @@ modified: "2026-09-28"
 
 ### 第 5 段：诗、笔记本与一只蜘蛛（2020）
 
-> **原句 9:** Then he saw it, right above them now, a long-legged spider making its way upside down towards a corner of the room. So much purpose in so small a head.
+> **原句 9：** Then he saw it, right above them now, a long-legged spider making its way upside down towards a corner of the room. So much purpose in so small a head.
 
 **中文理解**：然后他看见了它——就在他们正上方——一只长腿蜘蛛，正倒着朝房间的一个角落挪去。这么小的一个头里，装着这么大的目的。
 
@@ -193,7 +193,7 @@ modified: "2026-09-28"
 
 ### 第 6 段：切尔诺贝利与第五张卡片（1986）
 
-> **原句 10:** It was of the deadpan science-fiction kind, bland and apocalyptic. Of course. The cloud always knew where it was heading.
+> **原句 10：** It was of the deadpan science-fiction kind, bland and apocalyptic. Of course. The cloud always knew where it was heading.
 
 **中文理解**：那种标题属于不动声色的科幻一路，平淡而末日。当然了。那朵云一直都知道自己要去哪儿。
 
@@ -219,7 +219,7 @@ modified: "2026-09-28"
   ├─ 布罗恩探长登门：失踪剧本 → 索指纹／笔迹 → 卧室搜查 → 读完那首诗
   │     └─ 标记： Roland 的笔迹＝唯一把"诗"与"嫌疑"连起来的东西
   ├─ 读自己的草稿："Glamis hath murdered sleep" 被别人的眼睛污染
-  │     └─ 旁插：1984 北爱尔兰一周，欠希尼的"惩罚"（Punishment）
+  │     └─ 旁插：一次北爱尔兰的短暂逗留，他想起自己写的那首诗"欠"希尼的「惩罚」（Punishment）
   ├─ 清理屋子 → 广播与"我不过问世界"的自律
   ├─ 出门：报纸头条（切尔诺贝利）→ 碘片售罄 → 公园读报
   └─ 回家：地板上第五张卡片（字更多了）→ 抱着婴儿与采购品走向厨房

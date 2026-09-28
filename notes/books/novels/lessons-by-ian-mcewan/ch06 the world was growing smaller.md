@@ -18,7 +18,7 @@ modified: "2026-09-28"
 - **出处**：Ian McEwan《Lessons》（Knopf, 2022）第六章
 - **作者**：Ian McEwan（1948– ）
 - **章节定位**：**Part Two（Chapter 5–8）第 2 章**。1986→1987→1989，是全书第一次跨到柏林墙倒塌。
-- **字符数**：正文 69,383 字符（提取件 616 行）
+- **字符数**：正文 55,859 字符（提取件 616 行）
 - **一句话主旨**：1986 年布罗恩警探来归还他妻子的遗物却空手而归，1987 年他的岳母讲出妻子出走的真相，1989 年 11 月 9 日他在勃兰登堡门附近的人群里看见她——在一张放着两杯咖啡的小圆桌旁。
 
 **主题**：本章的主题词是 **`reach`（触角）**。ch05 开篇说战争把公共事件强加进私人生活；本章把这个结构推到顶点——**国家本身进了罗兰的厨房**（布罗恩坐在那张塞满书的桌子对面），而结尾罗兰自己承认**这个制度可以在瞬间失去它的触角**（`It was inconceivable that the authorities could be so suddenly deprived of their reach into private lives.`）。**罗兰一生都在那个"触角"底下活着，而他相信它无处不在。**
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：我没有角落（1986）
 
-> **原句 1:** “I don’t have a corner.” The policeman brightened. “Ah. I’m afraid you do.”
+> **原句 1：** “I don’t have a corner.” The policeman brightened. “Ah. I’m afraid you do.”
 
 **中文理解**："我没有角落。"警察高兴起来。"啊，恐怕你是有的。"
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：诗被当作证词念出来（1986）
 
-> **原句 2:** When I brought it to an end she didn’t fight me…erm…murder hung over all the world…lay buried…let’s see, um, dirt of the grave in her hair…She won’t go away…when I need calm…Oh yes, and this last one…She must remain dead.
+> **原句 2：** When I brought it to an end she didn’t fight me…erm…murder hung over all the world…lay buried…let’s see, um, dirt of the grave in her hair…She won’t go away…when I need calm…Oh yes, and this last one…She must remain dead.
 
 **中文理解**：当我结束它时，她没有反抗我……呃……谋杀笼罩了整个世界……被掩埋……让我看看，嗯，坟墓的泥土在她的头发里……她不会离去……当我需要平静时……哦对了，最后这一条……她必须保持死着。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：罗兰否认 → 布罗恩念诗 → 房间在变小（见下）→ 但罗兰决定不辩解。
 
-> **原句 3:** Millions intent on larger mental spaces. But here the room was growing smaller.
+> **原句 3：** Millions intent on larger mental spaces. But here the room was growing smaller.
 
 **中文理解**：数以百万计的人一心要更大的心理空间。但在这里，房间正在变小。
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：人群即历史（1989 年 11 月 9 日）
 
-> **原句 4:** They—he—were making the moment.
+> **原句 4：** They—he—were making the moment.
 
 **中文理解**：他们——他——正在创造这个时刻。
 
@@ -117,7 +117,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：白瓷砖的豪华套房（1989 年 11 月 9 日）
 
-> **原句 5:** His white-tiled cell—a piano lesson, a premature love affair, a missed education, a missing wife—was by comparison a luxury suite.
+> **原句 5：** His white-tiled cell—a piano lesson, a premature love affair, a missed education, a missing wife—was by comparison a luxury suite.
 
 **中文理解**：他那间白瓷砖的牢房——一堂钢琴课、一场过早的恋情、一段错失的教育、一个失踪的妻子——相比之下是一间豪华套房。
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 ### 第 5 段：等待（1986–1987）
 
-> **原句 6:** He wasn’t waiting for her. But if she ever turned up he wanted his options open. Which was another way of saying he was waiting.
+> **原句 6：** He wasn’t waiting for her. But if she ever turned up he wanted his options open. Which was another way of saying he was waiting.
 
 **中文理解**：他没有在等她。但如果她哪天出现，他要让自己还有选择的余地。换个说法，那就是他在等她。
 
@@ -149,7 +149,7 @@ modified: "2026-09-28"
 
 ### 第 6 段：数蚂蚁（1986）
 
-> **原句 7:** “Counting ants.”
+> **原句 7：** “Counting ants.”
 
 **中文理解**："数蚂蚁。"
 
@@ -165,7 +165,7 @@ modified: "2026-09-28"
 
 ### 第 7 段：四点钟的问题（1986）
 
-> **原句 8:** Towards the end of October that year Lawrence got into his bed at 4 a.m. and asked, “Did she go away because I was naughty?”
+> **原句 8：** Towards the end of October that year Lawrence got into his bed at 4 a.m. and asked, “Did she go away because I was naughty?”
 
 **中文理解**：那年十月底，劳伦斯在凌晨四点钻进他的床，问道："她是因为我淘气才走的吗？"
 
@@ -181,7 +181,7 @@ modified: "2026-09-28"
 
 ### 第 8 段：不下沉（1987 年 8 月，Jane 转述）
 
-> **原句 9:** “I am not going to sink! I’m going to rescue myself. And in the process I might even rescue you!”
+> **原句 9：** “I am not going to sink! I’m going to rescue myself. And in the process I might even rescue you!”
 
 **中文理解**："我不会再沉下去！我要救我自己。而在这个过程中，我也许连你一起救了！"
 
@@ -197,7 +197,7 @@ modified: "2026-09-28"
 
 ### 第 9 段：三十英尺（1989 年 11 月 9 日）
 
-> **原句 10:** he saw her, thirty feet away perhaps, at a small round table. On it were two coffees.
+> **原句 10：** he saw her, thirty feet away perhaps, at a small round table. On it were two coffees.
 
 **中文理解**：他看见了她，或许在三十英尺外，坐在一张小圆桌旁。桌上放着两杯咖啡。
 

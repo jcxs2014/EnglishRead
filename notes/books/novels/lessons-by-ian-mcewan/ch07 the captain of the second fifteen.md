@@ -18,7 +18,7 @@ modified: "2026-09-28"
 - **出处**：Ian McEwan《Lessons》（Knopf, 2022）第七章
 - **作者**：Ian McEwan（1948– ）
 - **章节定位**：**Part Two（Chapter 5–8）第 3 章**。1989 年 11 月 9 日夜 → 1964 年夏。
-- **字符数**：正文 69,383 字符（提取件 616 行）
+- **字符数**：正文 60,533 字符（提取件 616 行）
 - **一句话主旨**：1989 年他在 Café Adler 见到艾莉莎、听她说完出走的理由、拿到她的新小说手稿并读进去；1964 年他十一个 O level 全 F，被 Cornell 在十六岁生日前夕赶出家门，烧掉全部课本去当建筑工。
 
 **主题**：本章的主题词是 **`commitment`（承诺／承担）**——它同时是两个意思：**婚姻的承诺**与**对才华的承担**。艾莉莎在 1989 年说 `It's a commitment, to each other, to the future, a commitment for life.`（原句 8），而 1964 年的她正在用同一份力气承担另一件事——**写那本关于她母亲的书**。**这三十五年里"承诺"的宾语换了一个，而罗兰一直以为它没换。**
@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：世界历史需要响（1989 年 11 月 9 日，Café Adler）
 
-> **原句 1:** A world-historical moment needed to be loud.
+> **原句 1：** A world-historical moment needed to be loud.
 
 **中文理解**：一个世界历史性的时刻需要的是响。
 
@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：另一个人在说话（1989 年 11 月 9 日）
 
-> **原句 2:** It was as if someone else was speaking it.
+> **原句 2：** It was as if someone else was speaking it.
 
 **中文理解**：那感觉就像有另一个人在说这些词。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：下沉（1989 年 11 月 9 日，无名巷子）
 
-> **原句 3:** I was sinking. I had to get out.
+> **原句 3：** I was sinking. I had to get out.
 
 **中文理解**：我在下沉。我必须出去。
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：必须原谅她（1989 年 11 月 10 日凌晨，旅馆）
 
-> **原句 4:** He must forgive her for writing well. As unbearable as not forgiving her.
+> **原句 4：** He must forgive her for writing well. As unbearable as not forgiving her.
 
 **中文理解**：他必须原谅她写得好。就好像不原谅她一样无法忍受。
 
@@ -117,7 +117,7 @@ modified: "2026-09-28"
 
 ### 第 5 段：记忆的消失点（1989 年 11 月 10 日凌晨）
 
-> **原句 5:** the time behind him collapsed into a vanishing point of amnesia
+> **原句 5：** the time behind him collapsed into a vanishing point of amnesia
 
 **中文理解**：他身后的时间坍缩成了一个记忆的消失点。
 
@@ -127,13 +127,13 @@ modified: "2026-09-28"
 
 **表达方式**：**以透视法名词（vanishing point）作核心意象**；`collapsed into`（坍缩成）——**从空间几何取动词，赋给时间**。
 
-**为什么这样写**：**这是 ch01 那句 `He had been in the time of his life` 的反向写法。** ch01 里罗兰在摇椅上把四十年过成了一天（时间的**膨胀**），而这里是那三天——六月的三个下午、三个晚上——**在他与 Miriam 重逢的那一刻坍缩成了一个点**。**`vanishing point`（消失点）是绘画透视里所有平行线的汇聚处**：作者把画室里的那个词借来，描述**一个人在另一个人回来时失去时间**。而 `amnesia`（遗忘）这个医学词与 `vanishing point` 这个艺术词并置——**这是罗兰的头脑在做的事：把情感翻译成两种可测量的技术。**
+**为什么这样写**：**这是 ch01 原句 6 的反向写法。** 那一段是 `He neither resisted nor engaged… felt nothing while it lasted. Only in retrospect, when he lived and relived and animated the moment in solitude, did he get the measure of its importance.`（他既不抵抗也不投入；事情发生着，他让它发生着，过程里他什么都感觉不到。）——**那里的时间是在事后才被度量的，而这里是反过来：那三天在重逢的那一刻就坍缩掉了，根本没留下可度量的东西。**成了一个点**。**`vanishing point`（消失点）是绘画透视里所有平行线的汇聚处**：作者把画室里的那个词借来，描述**一个人在另一个人回来时失去时间**。而 `amnesia`（遗忘）这个医学词与 `vanishing point` 这个艺术词并置——**这是罗兰的头脑在做的事：把情感翻译成两种可测量的技术。**
 
 **段落逻辑**：她回来了 → 时间坍缩 → 消失点 → 三个下午被抹掉。
 
 ### 第 6 段：十五岁的精细（1964 年 8 月）
 
-> **原句 6:** The boredom of a fifteen-year-old can be as refined as Portuguese gold filigree, as the spiral orb web of the Karijini spider.
+> **原句 6：** The boredom of a fifteen-year-old can be as refined as Portuguese gold filigree, as the spiral orb web of the Karijini spider.
 
 **中文理解**：一个十五岁男孩的无聊可以精细得像葡萄牙的金丝细工，像卡里吉尼蜘蛛的螺旋球网。
 
@@ -149,7 +149,7 @@ modified: "2026-09-28"
 
 ### 第 7 段：队长开口了（1964 年 8 月，生日晚餐）
 
-> **原句 7:** It was an effort but finally it was the captain of the second fifteen who spoke.
+> **原句 7：** It was an effort but finally it was the captain of the second fifteen who spoke.
 
 **中文理解**：那很吃力，但最终开口的是十五人队的队长。
 
@@ -165,7 +165,7 @@ modified: "2026-09-28"
 
 ### 第 8 段：爱的定义（1964 年 8 月，生日晚餐）
 
-> **原句 8:** No, it isn’t, darling. It’s a commitment, to each other, to the future, a commitment for life. That’s what love is.
+> **原句 8：** No, it isn’t, darling. It’s a commitment, to each other, to the future, a commitment for life. That’s what love is.
 
 **中文理解**：不，亲爱的，它不是（事物本身）。它是一份承诺，对彼此的，对未来的，一份终身的承诺。那就是爱。
 
@@ -181,7 +181,7 @@ modified: "2026-09-28"
 
 ### 第 9 段：预言（1964 年 8 月，被赶出前）
 
-> **原句 9:** You happened to meet the right person for you when you were eleven. You were far too young to know it, but I did.
+> **原句 9：** You happened to meet the right person for you when you were eleven. You were far too young to know it, but I did.
 
 **中文理解**：你十一岁的时候，恰好遇上了对你来说对的那个人。你太小了，不懂得，但我是懂的。
 
@@ -197,7 +197,7 @@ modified: "2026-09-28"
 
 ### 第 10 段：等量的火（1964 年 9 月，篝火）
 
-> **原句 10:** It would have been satisfying to believe that All for Love was consumed faster than the rest. But everything burned with equal ferocity.
+> **原句 10：** It would have been satisfying to believe that All for Love was consumed faster than the rest. But everything burned with equal ferocity.
 
 **中文理解**：如果相信《一切为了爱》比别的烧得更快，那会让人满足。但一切都以同样的猛烈烧掉了。
 

@@ -18,7 +18,7 @@ modified: "2026-09-28"
 - **出处**：Ian McEwan《Lessons》（Knopf, 2022）第五章
 - **作者**：Ian McEwan（1948– ）
 - **章节定位**：**Part Two（Chapter 5–8）第 1 章**。时间从 1977 年跳到 1981 年，是全书跨度最大的一章。
-- **字符数**：正文 76,927 字符（提取件 605 行）
+- **字符数**：正文 62,289 字符（提取件 605 行）
 - **一句话主旨**：1979 年到 1981 年，一个三十四岁的英国人在西柏林为一个东德家庭偷运唱片和书、看着他们被流放，然后在一场 Dylan 演唱会门口重见了四年前教他德语的女人。
 
 **主题**：本章的主题词是 **`Within bounds`（在框内）**。Ruth 这样解释他们在东德的生活：一旦有了孩子，你就**被系统绑住**——任何一步走错，孩子的前途就没了。而罗兰用全部的政治正确去支撑这个"框"，**最后发现自己也在一个框里**（`The Wall, an embarrassment to so many left-leaning artists, was best ignored.`）。**两个"框"在同一个城市里，他只看得见其中一个。**
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：如果–那么的因果长链（1945 → 1981）
 
-> **原句 1:** Nothing forces public events on private lives like a war.
+> **原句 1：** Nothing forces public events on private lives like a war.
 
 **中文理解**：没有什么比战争更能强行把公共事件塞进私人生活。
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：真实生活不在场（1970s）
 
-> **原句 2:** His real life, the boundless life, was elsewhere.
+> **原句 2：** His real life, the boundless life, was elsewhere.
 
 **中文理解**：他真实的生活，那无边无际的生活，在别处。
 
@@ -87,7 +87,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：低音、持续音、失望（1970s）
 
-> **原句 3:** Here was a bass note, a ground, a drone of disappointment.
+> **原句 3：** Here was a bass note, a ground, a drone of disappointment.
 
 **中文理解**：这里有一个低音，一个基音，一个失望的持续音。
 
@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：门上的节奏（1962–1963，闪回）
 
-> **原句 4:** his signature taps at the door—crotchet, triplet, crochet, crochet—for she never let him have a key
+> **原句 4：** his signature taps at the door—crotchet, triplet, crochet, crochet—for she never let him have a key
 
 **中文理解**：他在门上那套招牌式的敲击——四分音符、三连音、四分音符、四分音符——因为她从不让他有一把钥匙。
 
@@ -119,7 +119,7 @@ modified: "2026-09-28"
 
 ### 第 5 段：爬行动物（1962–1963，闪回）
 
-> **原句 5:** Something reptilian, single-minded and greedy, had been aroused in him.
+> **原句 5：** Something reptilian, single-minded and greedy, had been aroused in him.
 
 **中文理解**：某种爬行动物般的东西，专一而贪婪的东西，在他体内被唤起了。
 
@@ -135,7 +135,7 @@ modified: "2026-09-28"
 
 ### 第 6 段：疯狂的单偶（1970s）
 
-> **原句 6:** His was a dream of crazed monogamy, total mutual devotion and dedication to a common pursuit of the sexual and emotional sublime.
+> **原句 6：** His was a dream of crazed monogamy, total mutual devotion and dedication to a common pursuit of the sexual and emotional sublime.
 
 **中文理解**：他的是一种疯狂的单偶的梦：全然的相互奉献，以及为共同追求性与情感的至高的献身。
 
@@ -151,7 +151,7 @@ modified: "2026-09-28"
 
 ### 第 7 段：压制性宽容（1980）
 
-> **原句 7:** Repressive tolerance they would have called it.
+> **原句 7：** Repressive tolerance they would have called it.
 
 **中文理解**：他们会把它叫做"压制性的宽容"。
 
@@ -167,7 +167,7 @@ modified: "2026-09-28"
 
 ### 第 8 段：从灾难到仅仅 bleakness（1982）
 
-> **原句 8:** the state remained the family's jailers. It was not good. It was less bad by a very long way.
+> **原句 8：** the state remained the family's jailers. It was not good. It was less bad by a very long way.
 
 **中文理解**：国家仍然是这一家的看守。事情不好。坏得少了很多很多。
 
@@ -183,7 +183,7 @@ modified: "2026-09-28"
 
 ### 第 9 段：道德的周长（1982）
 
-> **原句 9:** they had measured the moral circumference of the German Democratic Republic through the journey of one family. From catastrophe to mere bleakness. Schwedt.
+> **原句 9：** they had measured the moral circumference of the German Democratic Republic through the journey of one family. From catastrophe to mere bleakness. Schwedt.
 
 **中文理解**：他们通过一个家庭的历程，量出了德意志民主共和国的道德周长。从灾难到仅仅是 bleakness（荒凉）。施韦特。
 
@@ -199,7 +199,7 @@ modified: "2026-09-28"
 
 ### 第 10 段：一个简单的命运转机（1981）
 
-> **原句 10:** A simple twist of fate, to be born in the GDR.
+> **原句 10：** A simple twist of fate, to be born in the GDR.
 
 **中文理解**：一个简单的命运转机：生在一个德意志民主共和国。
 
@@ -324,7 +324,7 @@ modified: "2026-09-28"
 > If Hitler had not invaded Poland and so diverted Private Baines’s Scottish division from its planned tour of duty in Egypt to northern France, then to Dunkirk and his serious leg injuries, he would never have been designated unfit for combat and posted to Aldershot to encounter Rosalind in 1945, and Roland would not exist.
 
 **拆解**：
-1. **主句是一个完成时的虚拟**：`he would never have been designated… and posted…`——`been designated` 与 `posted` **共享一个过去分词**（`been designated unfit and posted to Aldershot`），这是英语的并列被动结构。
+1. **主句是一个完成时的虚拟**：`he would never have been designated… and posted…`——`been designated` 与 `posted` **共享一个过去分词**（`designated unfit for combat and posted to Aldershot`），这是英语的并列被动结构。
 2. **从句的连词是 `and so diverted`**：主语是 `Private Baines's Scottish division`（**一个师被"转移"**），而这个"转移"本身又有 `from … to … then to …` 的三重路线（从原定的埃及巡回→法国北部→敦刻尔克）。
 3. **`from its planned tour of duty in Egypt to northern France, then to Dunkirk and his serious leg injuries`**：这一串介词短语同时修饰 `diverted` 与 `designated`——**它既说明被调往哪里，也说明结果如何**。
 4. **`posted to Aldershot to encounter Rosalind in 1945`**：`to encounter` 是不定式表目的；`in 1945` 是时间状语。

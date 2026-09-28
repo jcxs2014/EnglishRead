@@ -14,7 +14,7 @@ modified: "2026-09-28"
 
 ## 概览
 
-- **出处**：Ian McEwan《Lessons》Chapter 10（第 508 行 / 86,358 字符 / Part Two 第 4 章）
+- **出处**：Ian McEwan《Lessons》Chapter 10（第 508 行 / 69,984 字符 / Part Two 第 4 章）
 - **结构**：① 衰老的罗兰与第十四卷日记 → ② 索尔·洛威尔讲座与那句没举的手 → ③ 简的《因尔穆尔诺》与罗兰的怀疑 → ④ 儿子的反驳 → ⑤ 2005 年 7 月，罗素广场的两分钟沉默 → ⑥ 养老院病房与"礼貌" → ⑦ 救世军与一个同父异母的兄弟 → ⑧ 达奇特的三家酒馆 → ⑨ 1942 年的分类广告 → ⑩ 出生证上的谎言 → ⑪ 五行诗与葬礼 → ⑫ 求婚与"那就叫它宽恕吧" → ⑬ 弹 `Linger on your pale blue eyes` → ⑭ 出租车里的一句四级
 - **一句话主旨**：**一个人在同一天里得到了他的家族史，失去了他的未婚妻。**
 - **本章的核心动作**：**"我把手放在琴键上，弹了一首我三十年前就弹过的曲子。"**
@@ -87,7 +87,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者在写**记忆被搅动之后的那种"回归"**——而 Heises 一家之所以出现，恰恰是因为他们在 1990 年代（ch05）曾经帮过他。**作者让"求婚"这个动作成为把三十年的碎片聚拢起来的那个扳机。**
 
-**读者视角提示**：注意紧接其后的句子：`It was a wonderful break when Florian, at the age of forty-one, was given a grant to go to medical school.`——**"wonderful break"（绝好的转机）这个词组在此处是德语翻译腔的味道，而它正好出现在一个关于东德的知识分子家庭的段落里。**
+**读者视角提示**：注意紧接其后的那句：`It had been a wonderful break when Florian, at the age of forty-one, was given a grant to go to medical school.`——**"wonderful break"（绝好的转机）这个词组在此处是德语翻译腔的味道，而它正好出现在一个关于东德的知识分子家庭的段落里。**
 
 ### 场景四：尸骨上的房子
 
@@ -135,7 +135,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：作者要写的是**一群英国人在临终病房里的具体做法**：没有人先站起来，因为那意味着承认时间到了。**而这种"讲礼貌"的方式，恰恰是全书写得最准的一次文化观察。**
 
-**读者视角提示**：注意这句话和罗兰在母亲家书里写的那句 `While I stopped there it seemed to be a stalemate. I did it as a duty and that is all it was and it was hard work.`（我停在那里，像僵局。我只是履行义务，仅此而已，而那是很费力气的事。）——**两处都在写"他做了一件不该由他做的事"，而两处的措辞完全不同。**
+**读者视角提示**：注意这句话和本章另一处**同一种降格手法**——出生证明上写着的 `A few inches to the right was the truth, the mother named as Rosalind Tate formerly Morley, of 2 Smith’s Cottages, Ash, and there beside it was the lie, the father written in as Jack Tate of the same address.`（再往右一寸是真相，母亲登记为 Rosalind Tate，原姓 Morley，住在 Ash 的 Smith 小屋 2 号；而它旁边就是那个谎言，父亲被写成同址的 Jack Tate。））——**两处都在写"他做了一件不该由他做的事"，而两处的措辞完全不同。**
 
 ### 场景七：几毫米
 

@@ -14,7 +14,7 @@ modified: "2026-09-28"
 
 ## 概览
 
-- **出处**：Ian McEwan《Lessons》Chapter 9（第 912 行 / 90,454 字符 / Part Two 第 3 章）
+- **出处**：Ian McEwan《Lessons》Chapter 9（第 912 行 / 72,216 字符 / Part Two 第 3 章）
 - **结构**：① 儿子归来与宿醉 ／ 弗洛贝尔的十五岁 → ② 茶室的一个下午 → ③ 标准印度餐馆：慕尼黑的三分钟 → ④ 罗兰买下一本空白日记本 → ⑤ 半夜的月光与 Joyce → ⑥ 警官来电与舒伯特的猫 → ⑦ 1989–1996 的三次寻找 → ⑧ 狄更斯与 Maria Beadnell → ⑨ 房子的裂缝与"损害" → ⑩ 巴尔勒姆的假想与门铃 → ⑪ 两个小时的谈话 → ⑫ 结尾的背影
 - **一句话主旨**：**一次属于别人的罪，和一次属于自己的罪，在同一个下午被摆到了同一张桌子上。**
 - **本章的核心动作**：**"她给了我她的全部，而我给了她一个背影。"**
@@ -171,21 +171,21 @@ modified: "2026-09-28"
 
 **读者视角提示**：这一段是第 9 条 e 那个坑位在本章的实例——**"逐字命中 ≠ 说话人正确"**。**这两处的差别在于：ch04 那次是不作为，这次是拒绝。**
 
-### 场景九：指标清单
+### 场景九：指标
 
-> **原句 9：** To be targeted and reduced: numbers of homeless, suicides, schizophrenics, air pollution, Accident and Emergency waiting times, lonely old people, infant mortality and child poverty rates, class sizes, street muggings, traffic accidents.
+> **原句 9：** The good news is we now have targets. So many successful prosecutions in a year.
 
-**中文理解**：**警官在念罗兰 1995 年那场餐桌谈话里记下的那张指标清单。**
+**中文理解**：**警探莫法特告诉他，局里现在有了指标——一年办成多少起成功起诉。**
 
-**句子结构**：`To be targeted and reduced`（**省略引导词的不定式短语作主语**）→ 冒号 → 九个并列名词短语。
+**句子结构**：`The good news is we now have targets.`（**一个以 the news 为主语、以 that 从句为同位语的间接引语**）＋ `So many successful prosecutions in a year.`（**一个省略了 there are 的名词短语作独立句**）。
 
-**关键词**：`To be targeted and reduced`（要压下去的）／`targets`（指标）
+**关键词**：`targets`（指标）／`successful prosecutions`（成功起诉）
 
-**表达方式**：**一个省略了引导词的动名词短语作主语，后面接一个冒号**。而冒号后面是**没有动词的清单**。
+**表达方式**：**两句话都是陈述，但它们的主语分别是「好消息」和「数量」——而罗兰的回应只有三个词。** 而这个「指标」是英国警务近年才引入的管理装置。
 
-**为什么这样写**：**这是罗兰自己的句子，被警官当成证据念出来。** 而作者在 ch08 里让罗兰对这个词有过反应——他皱了一下眉。**而现在这个词属于警方。**
+**为什么这样写**：**作者让一个执法者用管理学的语言来谈一桩没有原告愿意报案的案子。** 而罗兰的反应被作者立刻揭穿：`He would not tell Moffat that he had once been an enthusiast.`（他不会告诉莫法特，他曾经是个指标爱好者。）**——这就是为什么 ch08 里罗兰第一次听到「指标」时会皱眉：那个词先被他自己的国家用过，然后才被警务用上。**
 
-**读者视角提示**：**注意这个清单里的九个项目，恰好覆盖了罗兰 2002 年那间小房子的全部问题**——无家可归的人、孤独的老人、婴儿死亡率、路面抢劫。**而他正坐在那张写着这张清单的桌子对面，而这张清单的作者是他自己。**
+**读者视角提示**：**这一句是全书的枢纽之一——它把 ch08 的那场餐桌谈话和本章的报警电话缝在了一起。** 而罗兰的下一个问题是：`Ever tempted to tilt the evidence? To hit the uh…?`（有没有想过把证据往那边掰一掰？或者打……呃……？）**——一个记者对证据公正性的怀疑，被一个警察听成了对暴力的暗示。**
 
 ### 场景十：唯一的抵抗
 
@@ -362,7 +362,7 @@ modified: "2026-09-28"
 1. **形式主语 It + 表语**：`It was my only successful piece of resistance.`——它把焦点从"这件事"转到"这一次抵抗"。
 2. **独立主格结构**：`And me in my pyjamas for the heat.`——一个只有主语和介词短语的成分，语法上不附着于任何句子。
 3. **like 引导的过去分词短语作状语**：`Like a gong struck minutes ago and still resounding, his head was full of voices.`
-4. **独立主语的名词短语**：`To be targeted and reduced: …`——一个没有引导词、也没有谓语的成分，独立成句。
+4. **省略 there are 的名词短语独立成句**：`So many successful prosecutions in a year.`——一句没有引导词、也没有谓语的成分，接在前一句的间接引语之后。
 5. **省略主语的祈使句**：`Say what you have to say then get out.`
 6. **for fear + that 从句表原因**：`for fear that the world was about to end.`
 
@@ -388,7 +388,7 @@ modified: "2026-09-28"
 | He was the cocky little sprat who came looking for instant sexual initiation for fear that the world was about to end. | 他那时是一只得意的小鱼苗，因为怕世界末日要来，急着要一次即时的性的启蒙。 | 全章核心 | **用动物比喻做自我审判** |
 | It was my only successful piece of resistance. | 那是我唯一一次成功的抵抗。 | 她的话，本章末 | **用形式主语 It + was + 三层修饰的名词短语** |
 | Das Schild! Können Sie nicht lesen? | 那块牌子！您不会读吗？ | 慕尼黑，门口 | **用省略动词的德语祈使句表达愤怒** |
-| To be targeted and reduced: numbers of homeless, suicides, schizophrenics, air pollution… | 要压下去的：无家可归者、自杀者、精神病患者的数字…… | 被警官念出的罗兰自己的清单 | **用动名词短语 + 冒号写官僚清单** |
+| The good news is we now have targets. So many successful prosecutions in a year. | 好消息是我们现在有指标了。一年办成多少起成功起诉。 | 侦探莫法特在罗兰家客厅里 | **用「好消息 + that 同位语从句」后面接一个省略 there are 的名词短语** |
 | One by one, they were all becoming shades. | 一个接一个，他们都成了影子。 | 他想到母亲 | **用副词短语 + 代词复数写衰老** |
 | The dogged fidelity of objects, to remain exactly as they had unthinkingly placed them. | 物件那种执拗的忠诚——保持在人们不经心地放下它们时的那个样子。 | 半夜，花园的椅子 | **用对物的拟人写人的不可靠** |
 | It was as if he was seeing what he was not meant to see—what was there when he was not, how things would look when he was dead. | 那感觉像是他看见了不该由他看见的东西——他不在时那里有什么，他死后世界是什么样子。 | 同上 | **用破折号插入一个双重从句** |

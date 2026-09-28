@@ -14,7 +14,7 @@ modified: "2026-09-28"
 
 ## 概览
 
-- **出处**：Ian McEwan《Lessons》Chapter 12（第 923 行 / 99,366 字符 / Part Two 末章）
+- **出处**：Ian McEwan《Lessons》Chapter 12（第 923 行 / 80,015 字符 / Part Two 末章）
 - **结构**：① 2020 年 6 月，楼梯上的一摔 → ② 撒切尔遗产的稿子 → ③ 热力学第二定律与洗碗 → ④ Rüdiger 的三个消息 → ⑤ 她的新小说《缓慢的缩减》→ ⑥ 那把刀 → ⑦ 2020 年 9 月，她家门口 → ⑧ 一天的争执与和解 → ⑨ 2021 年第三次封锁 → ⑩ 四十本日记的火盆 → ⑪ 心脏病门诊 → ⑫ Stefanie 的德语与那一百章
 - **一句话主旨**：**一个人的一生就是他自己记得的那点东西，而那一百章他读不完。**
 - **本章的核心动作**：**"我把那四十本日记一本一本地塞进了火盆。"**
@@ -131,7 +131,7 @@ modified: "2026-09-28"
 
 **句子结构**：`From the memoir I could have written.`（**一个省略了关系代词的定语从句**）→ `How you stuffed me, eyes, ears, mouth, with your needs.`（**一个 how 引导的宾语从句** + 三个插入的名词 + 一个 with 短语）。
 
-**关键词**：`the memoir I could have written`（我本可以写的那本回忆录）／`stuffed me with your needs`（用你的需要把我塞满）
+**关键词**：`the memoir I could have written`（我本可以写的那本回忆录）／`How you stuffed me, eyes, ears, mouth, with your needs.`（用你的需要把我塞满）
 
 **表达方式**：**用三个并列的器官名词（眼睛、耳朵、嘴）作插入语，把主语 me 夹在中间**——而这三个器官构成的三个比喻，**是全书对"关系"最具体的一次描写。**
 
@@ -277,21 +277,22 @@ modified: "2026-09-28"
 1. **主句是一个 `Just as …, so …` 的结构**——`Just as` 引导一个比较从句，`so` 引导主句。
 2. **比较从句里是一个 `not the reverse` 的省略结构**（`and not the reverse` ＝ `and (heat did not bleed) the reverse`）。
 3. **主句里 `never in reverse` 同样是一个省略的强调**——`in reverse` 在这里作副词，修饰前面的 `bled out`。
-4. **难点所在**：**这两个"不反着来"是热力学第二定律的两半**——而作者用它们**同时解释了死亡和整理房间**。而 `bleed out`（渗出、放掉）这个动词**是全文的核心意象之一**：血渗出（ch11 的 Daphne）、熵渗出（本章）、以及 ch09 的那条蛇。**这三个"渗出"构成一条暗线。**
+4. **难点所在**：**这两个"不反着来"是热力学第二定律的两半**——而作者用它们**同时解释了死亡和整理房间**。而 `bled out`（渗出、放掉）这个动词**是全文的核心意象之一**：血渗出（ch11 的 Daphne）、熵渗出（本章）、以及 ch09 的那条蛇。**这三个"渗出"构成一条暗线。**
 
 **可迁移写法**：要写一个不可逆的自然过程，先用 `Just as A does X and not the reverse, so B does Y and never in reverse` 的句式，然后立刻把这个句式套到另一个完全不同的领域上。
 
-### 句二：她为什么在（小说梗概）
+### 句二：她从哪里取材
 
-> The reasons for the fight lay in the removal of the last of the conditions that had helped keep him in a state of breathless contentment.
+> Here, Alissa seemed to draw on Daphne’s experience of various tenants, from the reliable rent-paying hard-workers to the chaotic drunken defaulters. All must be housed.
 
 **拆解**：
-1. **主句是 `The reasons for the fight lay in …`**——**the reasons for … lie in …** 是一个常用的表"原因在于"的结构。
-2. **`lay in` 的宾语是一个 of 短语**，而这个 of 的宾语又是一个**由 that 引导的定语从句**。
-3. **定语从句里有一个 `had helped keep him in a state of …` 的完成时**——**而这个 helped 后面又套了一个 keep + 宾语 + 介词短语的结构。**
-4. **难点所在**：**这个句子有两层定语从句、一层完成时、一层使役动词（helped），而它的内容只是"她不走，他就心满意足"。** 作者用三层嵌套**故意让一个简单的因果显得复杂**——**而读者读完立刻就懂了。** 而 `breathless contentment`（喘不过气的满足）这个词组本身已经把那个被保持住的状态说明了。
+1. **主句是 `Here, Alissa seemed to draw on …`**——`seemed to` 让叙述者给出了一个**不完全确定的判断**，而 `draw on` 是「取材于」。
+2. **`Daphne’s experience of various tenants` 是 `experience of` 的宾语**，而 `of various tenants` 又是这个名词的后置定语。
+3. **`from … to …` 是一个跨整个后半句的对照**：`from the reliable rent-paying hard-workers to the chaotic drunken defaulters`——**而 reliable 与 chaotic、hard-workers 与 defaulters 各自是一组反义**。
+4. **句号之后另起一句：`All must be housed.`**——**一个没有主语（省略了 they）的情态否定句**，而 must 在这里是制度性的强制，不是个人的选择。
+5. **难点所在**：**这个句子的对照是双层的（可靠/混乱 × 交租/违约），而它的结论是单层的（都得有房住）。** 而那句结论用被动式写（`must be housed`，人被安置），**而没有用主动式（we must house them）**——**这是罗兰在第 100 章里会读出来的那一层。**
 
-**可迁移写法**：要写"某个状态被什么维持着"，用 `The reasons for the fight lay in the removal of the last of the conditions that had helped keep him in a state of …`，**用一个 that 定语从句和三个名词（removal / conditions / state）层层推进。**
+**可迁移写法**：要写一群人构成的两个对立极端，先用 `from X to Y` 给出两端（每端各放一组反义形容词），**然后用一个省略主语的情态被动句收尾**——让最后一击交给制度而不是人。
 
 ### 句三：熵的通俗版
 
@@ -319,16 +320,18 @@ modified: "2026-09-28"
 
 **可迁移写法**：要写两个人穿着各自的身份谈话、却谈的是被身份压住的事，先用一个完全悬垂的 `Fully clothed in …` 状语，然后让主句用 `even as` 引出他们正在做的事。
 
-### 句五：她如何读她的小说
+### 句五：一个政治人物的三级坠落
 
-> She had said, "If you don’t leave me, I’m leaving you."
+> Driven from office, scorned by the media, rejected by allies, the ex-chancellor travels to London as a private citizen.
 
 **拆解**：
-1. **这是一个间接引语**——引号里是一个 if 引导的条件句，而句子里有一个并列的现在分词（leaving）。
-2. **`don’t leave me` 与 `leaving you` 是同一种动作的两个方向**——**而作者把它们用 and 连起来，形成一个循环。**
-3. **难点所在**：**这个句子的形式和它的内容完全一致**——**而作者把它放在一句诗之后**。**在英语里 `leave` 这个词同时是"离开"和"留下"**（`leave me` ＝ 留下，`don't leave me` ＝ 别走）——**而这句话利用的正是这个双重性。** 而 `I’m leaving you`（我要走了你）里的 `leaving` 用了进行体，表示**已经决定、正在进行中**。
+1. **句首是三个过去分词（`Driven` / `scorned` / `rejected`）串联而成的状语**，它们共用一个隐含的主语（她）。
+2. **三个分词各带一个介词短语**（`from office` / `by the media` / `by allies`）——**而这三个介词短语各指一个不同的施动方：制度、媒体、同侪。**
+3. **主语是 `the ex-chancellor`，谓语是 `travels to London as a private citizen`**——而 `as a private citizen` 是一个身份降级的介词短语。
+4. **时态是现在时（`travels`），而前面三个分词是过去分词**——**这个时态错位让三个已经完成的坠落变成一个正在进行的动作。**
+5. **难点所在**：**这个句子把「退场」写成了「旅行」**——而作者让一个前总理在走完这三步之后**坐一趟火车去做凶杀**。**降级的语法形式（降级成私人的）与情节的升级（从政界降到杀人）方向相反，而句子本身毫不自知。**
 
-**可迁移写法**：要写一个互相否决的条件，用同一个动词的两个方向各一次（`If you don't leave me, I'm leaving you`），**并让其中一个用进行体来表示"已决"而不是"将做"。**
+**可迁移写法**：要写一个人社会地位的连续三级下坠，用**三个过去分词 + 三个不同施动方的介词短语**并列作句首状语，**再让主句用一个降级身份的名词短语作表语**——最后让真正的转折发生在下一句。
 
 ## 精读结束总结
 

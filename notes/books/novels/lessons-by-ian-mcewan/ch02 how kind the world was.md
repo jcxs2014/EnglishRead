@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **人物弧线**：本章完成罗兰的**童年分工**——父亲给纪律与武器、母亲给庇护与 stories、Miss Cornell 给第一次身体的羞辱与启蒙。三者都是"权威"，而他此后一生都在寻找一种不靠权威运转的时间。**视野的秘密（近视为耻）在本章被治好，"intimate" 这个词则被他当成一生的自我判词。**
 - **叙事手法**：两条并行时间线在章内交替推进——**表层是 1959 年秋天的一系列出行（伦敦街道 → 事故 → 赴校），底层是"我是谁"的家族史（Rosalind、Jack Tate、Suez 危机）**。中间插一段 1956 年苏伊士撤离的"回忆中的未来"。切换全靠"某一天"式的模糊时间词。
 - **套路处理**：**创伤—补偿结构的反用**——创伤不是引出救治，而是引出依附；被侵犯的经历在此被精确地处理为**一次权力接管**（校服、短裤、权威），作者不写"受害"而写"rights or control, mental and physical"。
-- **跨章线索**：① **救护车**是罗兰的"世界之善"的第一件证据，与 ch12 结尾他被护士搀过房间形成对位；② **"the record"（憋气三十三秒）**的记录癖，是 ch02–ch12 贯穿的自我计量习惯；③ 本章末尾"even if the world was about to end"与 ch01 末段同构，ch03 的"Lessons"一词将在此埋线。
+- **跨章线索**：① **救护车**是罗兰的"世界之善"的第一件证据，与 ch12 结尾他被八岁的斯特凡妮牵着走过房间形成对位；② **"the record"（憋气三十二秒）**的记录癖，是 ch02–ch12 贯穿的自我计量习惯；③ 本章末尾"even if the world was about to end"与 ch01 末段同构，ch03 的"Lessons"一词将在此埋线。
 
 ## 概览
 
@@ -58,7 +58,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：归国——一整段"这里没有……"（1959）
 
-> **原句 1:** No dogs, camels, donkeys, no shouting, no car horns pressed for half a minute on end, no handcarts piled high with melons, or dates still clinging to their palm branches or blocks of ice melting under sackcloth.
+> **原句 1：** No dogs, camels, donkeys, no shouting, no car horns pressed for half a minute on end, no handcarts piled high with melons, or dates still clinging to their palm branches or blocks of ice melting under sackcloth.
 
 **中文理解**：没有狗、骆驼、驴子，没有叫喊，没有被按了半分钟不停的汽车喇叭，没有堆到高高的甜瓜手推车，没有还挂在棕枝上的椰枣，也没有盖着麻布正在融化的冰块。
 
@@ -72,7 +72,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：抹掉六项 → 建立差异 → 引出"这里有永久性的外观"。
 
-> **原句 2:** There was something wrong with him and he could not bear to think about it, about where it was leading. Blindness. It was a sickness and a failure.
+> **原句 2：** There was something wrong with him and he could not bear to think about it, about where it was leading. Blindness. It was a sickness and a failure.
 
 **中文理解**：他身上有点不对劲，他承受不起去想它、去想它会通向哪里。近视。这是一种病，也是一种失败。
 
@@ -88,7 +88,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：摩托车事故——为喜悦而流的泪（1959）
 
-> **原句 3:** His tears were for joy, for a sudden warmth of understanding that did not yet have these terms of definition: how loving and good people were, how kind the world was that had ambulances in it that came quickly out of nowhere whenever there was sorrow and pain.
+> **原句 3：** His tears were for joy, for a sudden warmth of understanding that did not yet have these terms of definition: how loving and good people were, how kind the world was that had ambulances in it that came quickly out of nowhere whenever there was sorrow and pain.
 
 **中文理解**：他的眼泪是喜悦的眼泪，是忽然涌起的理解之暖——那理解当时还没有这些词来说：人是多么仁厚善良，世界是多么仁厚——它里面竟然有救护车，只要哪里有悲伤和痛苦，它就会不知从什么地方迅速赶来。
 
@@ -104,7 +104,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：时间的暴政与战争的光（寄宿学校，1959）
 
-> **原句 4:** Time, which had been an unbounded sphere in which he moved freely in all directions, became overnight a narrow one-way track down which he travelled with his new friends from lesson to lesson, week to week until it became an unquestioned reality.
+> **原句 4：** Time, which had been an unbounded sphere in which he moved freely in all directions, became overnight a narrow one-way track down which he travelled with his new friends from lesson to lesson, week to week until it became an unquestioned reality.
 
 **中文理解**：时间——原本是一个他可以向任何方向自由移动的、没有边界的大球——一夜之间变成了一条狭窄的单行道他和朋友们顺着它从一节课走到下一节课、从一周走到下一周，直到它变成一个不容置疑的现实。
 
@@ -118,7 +118,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：旧的时间是无边界的 → 新的时间是单向的 → 终点是"不容置疑"。
 
-> **原句 5:** Even though it had ended fourteen years ago—his entire lifetime plus almost a quarter—the world war remained a presence, a shadow, but also a light, the source of virtue and meaning, just as it was in Libya, in the Giorgimpopoli villa and in Gurji workshops on the edge of the desert.
+> **原句 5：** Even though it had ended fourteen years ago—his entire lifetime plus almost a quarter—the world war remained a presence, a shadow, but also a light, the source of virtue and meaning, just as it was in Libya, in the Giorgimpopoli villa and in Gurji workshops on the edge of the desert.
 
 **中文理解**：尽管战争已经结束十四年了——比他整个生命还长出将近四分之一——这场世界大战依然是一种存在、一道阴影，但同时也是一道光，德性与意义的来源，正如它在利比亚、在 Giorgimpopoli 的别墅、在沙漠边缘的 Gurji 工场里那样。
 
@@ -134,7 +134,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：近视治好与"intimate"（1959–1960）
 
-> **原句 6:** Suddenly every separate leaf of the many thousands that covered the tree resolved into a brilliant singularity of colour and form and glittering movement in the slight breeze, each leaf a subtle variation of red, orange, gold, pale yellow and lingering green against a deep blue sky.
+> **原句 6：** Suddenly every separate leaf of the many thousands that covered the tree resolved into a brilliant singularity of colour and form and glittering movement in the slight breeze, each leaf a subtle variation of red, orange, gold, pale yellow and lingering green against a deep blue sky.
 
 **中文理解**：突然，成千上万片覆盖着那棵树的叶子，在微风里每一片都化成一道辉煌的单一色彩与形态，以及闪烁的运动；每一片叶子都是红、橙、金、淡黄与残留的绿的一次细微变体，衬着深蓝的天空。
 
@@ -148,7 +148,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：戴上眼镜 → 万物解析 → 单叶的细微变体 → 对照深蓝。
 
-> **原句 7:** He was about to read an adult verdict on who or what he was. Close in acquaintance or association. Very familiar. He stared at the definition, his bafflement confirmed.
+> **原句 7：** He was about to read an adult verdict on who or what he was. Close in acquaintance or association. Very familiar. He stared at the definition, his bafflement confirmed.
 
 **中文理解**：他正要读到一条关于"他是谁/是什么"的成人判决。亲近的；密切相关的。非常熟悉的。他盯着那一定义，困惑得到了印证。
 
@@ -164,7 +164,7 @@ modified: "2026-09-28"
 
 ### 第 5 段：Miss Cornell 的规则（1959）
 
-> **原句 8:** From the beginning, by assuming authority over his appearance, especially when she unbuttoned his shorts, she established complete rights or control, mental and physical, though after those first two occasions she did not touch him in an unusual way.
+> **原句 8：** From the beginning, by assuming authority over his appearance, especially when she unbuttoned his shorts, she established complete rights or control, mental and physical, though after those first two occasions she did not touch him in an unusual way.
 
 **中文理解**：从一开始，通过对自己的外表取得权威——尤其是她解开他短裤的时候——她就建立起了完全的权利或控制，精神的和身体的；尽管在最初那两次之后，她再没有以不寻常的方式碰过他。
 
@@ -180,7 +180,7 @@ modified: "2026-09-28"
 
 ### 第 6 段：种入与圈养（1959–1964）
 
-> **原句 9:** She had seeded herself into the fine grain not only of his psyche but of his biology. There was no orgasm without her. She was the spectre he could not live without.
+> **原句 9：** She had seeded herself into the fine grain not only of his psyche but of his biology. There was no orgasm without her. She was the spectre he could not live without.
 
 **中文理解**：她已经把自己播种进了他——不仅是他的心理，也是他的生理——的细粒里。没有她，就没有高潮。她是他活不下去的幽灵。
 
@@ -194,7 +194,7 @@ modified: "2026-09-28"
 
 **段落逻辑**：她被"种"进去 → 范围包括心理与生理 → 结果是不可分离 → 她成为鬼魂。
 
-> **原句 10:** He had to accept that she was now embedded in a special region of fantasy and longing and that was where he wanted her to remain, trapped in his thoughts like the tamed unicorn behind its circular fence—the art master had shown the class a picture of the famous tapestry.
+> **原句 10：** He had to accept that she was now embedded in a special region of fantasy and longing and that was where he wanted her to remain, trapped in his thoughts like the tamed unicorn behind its circular fence—the art master had shown the class a picture of the famous tapestry.
 
 **中文理解**：他不得不接受：她现在已经嵌进了一片专门属于幻想与渴望的区域，而那正是他希望她待的地方——像那匹被驯服的独角兽一样，被关在他思想里那道圆形栅栏之后；美术老师曾给全班看过那幅著名挂毯的图片。
 
@@ -331,7 +331,7 @@ modified: "2026-09-28"
 
 **拆解**：
 1. **主句**：`the surface of the clean road was slightly curved`——主语由 of 短语构成，动词为系表结构。
-2. **as though 从句的倒装**：正常语序应为 `as though a fat black tube was mostly buried out of sight`，作者把 `mostly buried out of sight`（过去分词短语）提到主语之前。
+2. **as though 从句的倒装**：正常语序应为 `as though a fat black tube was mostly buried out of sight`，而作者把它写成 `as though mostly buried out of sight was a fat black tube`——把过去分词短语 `mostly buried out of sight` 提到了主语之前。
 3. **倒装的作用**：把"大部分被埋起来"这个**过程**放到"管子"之前，读者在遇到"管子"这个词之前已经先感受到了重量。**这正是这个十一岁孩子的思维顺序——他先感到路面下有东西，才猜出那是什么。**
 4. **fat** 一词：英语里 fat 兼有"胖"与"粗大"，此处是孩子的用词（真正的排水管并不粗）。
 5. **下一句才是纠正**：`To allow the rain to run off, his father explained, which made sense.`——父亲的解释紧跟其后，把孩子的误读轻轻带过，**不作嘲笑**。

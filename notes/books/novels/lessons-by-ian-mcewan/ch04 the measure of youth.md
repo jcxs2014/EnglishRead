@@ -11,14 +11,14 @@ modified: "2026-09-28"
 - **人物弧线**：罗兰在本章被两样东西同时撕开：① 康拉德那句 `begins and ends in myself`（他与马洛的差别是什么）；② `He needn't have done a thing.`（他本可以什么都不做）。**前者让他承认自己一无所有，后者让他承认那次占有毫无必要。** 而他处理这两件事的方式是**继续占有**——用十四岁的记忆，在 1986 年的书架上替艾莉莎的位置腾出地方。
 - **叙事手法**：**双层嵌套**。外层是 1986 年第三周整理书架的下午（一个"近乎一小时的静止"），内层是 1962 年 10 月 27 日那个半学期假期。内外之间靠**三件实物**接通：那本康拉德、一张《泰晤士报》剪报（1961 年 6 月 2 日）、以及一个十四岁男孩的自行车。
 - **套路处理**：**"师生恋／启蒙"这一段被写成一次权力技术与一次音乐会的合并**。作者把全部主动性都给女方（`It's very, very unlikely. They might be stupid, but both sides have too much to lose.`），把男方的"勇敢"限定为**提出异议**（`But that's not how you play it.`）——而代价是逐出。
-- **跨章线索**：① `vaporised`（汽化）在本章出现两次（校长的预言、"他本可以不必做"）与 ch03 原句 6 的 `Gentle justice. Despatched to oblivion by the ones who loved you.` 构成同一手法的两次使用——一次由"自己人"执行；② `the outward colouring`（外饰）出自本章原句 1 康拉德的自白，与 ch01 的"视野模糊"、ch02 的"世界的仁厚"同源；③ 结尾的 `Ah! Youth!` 是康拉德《青春》的副歌，也是罗兰十四岁的墓志铭。
+- **跨章线索**：① `vaporised`（汽化）在本章反复出现（三年前住过这间宿舍、如今只能听见声音的男生那句预言，紧跟着宿舍里几个人从床上跟着念了一遍，之后是广岛、是他母亲那句「她本可以不必做」、以及他自己「他本可以不必做」）与 ch03 原句 6 的 `Gentle justice. Despatched to oblivion by the ones who loved you.` 构成同一手法的两次使用——一次由"自己人"执行；② `the outward colouring`（外饰）出自本章原句 1 康拉德的自白，与 ch01 的"视野模糊"、ch02 的"世界的仁厚"同源；③ 结尾的 `Ah! Youth!` 是康拉德《青春》的副歌，也是罗兰十四岁的墓志铭。
 
 ## 概览
 
 - **出处**：Ian McEwan《Lessons》（Knopf, 2022）第四章
 - **作者**：Ian McEwan（1948– ）
 - **章节定位**：**Part One（Chapter 1–4）末章**。承接 ch03 的家庭史与 1986 年 5 月的夜，交代罗兰十四岁那一年，并**在第一次 crime 之前停住**。
-- **字符数**：正文 90,768 字符（提取件 723 行，全书最长）
+- **字符数**：正文 73,006 字符（提取件 723 行，全书第二长——最长的是 ch12）
 - **一句话主旨**：艾莉莎出走的第三周，一个三十七岁的男人在厨房桌旁理书架，翻出一本十四岁时读完就忘掉的康拉德《青春》，于是整整重演了一遍 1962 年 10 月 27 日那个他骑车去她家的下午。
 
 **主题**：本章的主题词是 **`inwardness`（内心）**。康拉德在《青春》的作者注里说这段经验 `begins and ends in myself`；罗兰读到这里立刻问自己同一个问题——`What did he, Roland, have that ended in himself?` 而**他用了整章、整本书去回答"没有"。** 全章的结构就是这句问句的展开：一个十四岁男孩的一生是否完全结束在他自己身上——是，因为**除了那次下午之外，他记不得任何当时的心情。**
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 ### 第 1 段：康拉德的那句自我诊断（1986）
 
-> **原句 1:** “Youth” was a “record of experience, but that experience, in its facts, in its inwardness and in its outward colouring, begins and ends in myself.”
+> **原句 1：** “Youth” was a “record of experience, but that experience, in its facts, in its inwardness and in its outward colouring, begins and ends in myself.”
 
 **中文理解**：《青春》是"一段经验的记录，但那段经验，无论就其事实、其内心、还是其外部轮廓而言，都始于我也终于我。"
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 ### 第 2 段：把问句转向自己（1986）
 
-> **原句 2:** What did he, Roland, have that ended in himself?
+> **原句 2：** What did he, Roland, have that ended in himself?
 
 **中文理解**：那么，罗兰·贝恩斯有什么东西，是始于他自己也终于他自己的？
 
@@ -87,7 +87,7 @@ modified: "2026-09-28"
 
 ### 第 3 段：没有留下痕迹的十四岁（1962）
 
-> **原句 3:** At school he lived the mental life of a dog chained to a constant present.
+> **原句 3：** At school he lived the mental life of a dog chained to a constant present.
 
 **中文理解**：在学校里，他过着一条被拴住的狗那样的心智生活——永远拴在此时此刻上。
 
@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 ### 第 4 段：唯一被保存的东西（1962）
 
-> **原句 4:** The mind, the daily variations in mood of his young self were impenetrable at this distance.
+> **原句 4：** The mind, the daily variations in mood of his young self were impenetrable at this distance.
 
 **中文理解**：他年少时的心智、每天的情绪起伏，在这样的距离之外是无法穿透的。
 
@@ -113,13 +113,13 @@ modified: "2026-09-28"
 
 **表达方式**：**以"心智"与"每日情绪起伏"作并列主语**，但合用一个不可数的形容词 `impenetrable`；`at this distance` 把"距离"变成判读的条件。
 
-**为什么这样写**：紧接"狗"的比喻之后，作者立刻**收回一半的判断**：`In his thirties, Roland remembered all its details. Inwardness was preserved in a deep ocean trough of a boy's thoughts.`（唯一保存下来的是那个女教师。）**这句话承认记忆的不可通性，却不说"因此我什么都不知道"——他说的是"我什么都不知道，除了她"。** `at this distance` 的措辞是科学的（测量学的距离），**把一段感情史写成一次取样失败**。作者在 ch02 已经交代过：`His life, its routines and setting were so remote from his parents'…he had no idea, no beginnings, no terms of reference with which to express the quality of his new existence.` **同样的"无参照系"在十四岁被写成了"无穿透"**——**从没有语言到有语言，中间隔着一次离家。**
+**为什么这样写**：紧接"狗"的比喻之后，作者立刻**收回一半的判断**：`In his thirties, Roland remembered all its details. Inwardness was preserved in a deep ocean trough of a boy's thoughts.`（唯一保存下来的是那个女教师。）**这句话承认记忆的不可通性，却不说"因此我什么都不知道"——他说的是"我什么都不知道，除了她"。** `at this distance` 的措辞是科学的（测量学的距离），**把一段感情史写成一次取样失败**。作者在 ch02 已经交代过：`He hadn’t grasped that he was about to leave home forever, that for the next seven years, three-quarters of his life would be at school and that at home he would always be a visitor.`（他还没意识到自己就要永远离开家了，接下来七年里他四分之三的人生都会在学校度过，而在家里他永远是个客人。） **同样的"无参照系"在十四岁被写成了"无穿透"**——**从没有语言到有语言，中间隔着一次离家。**
 
 **段落逻辑**：不可通 → 距离 → 唯一例外（下一段） → 那个例外是什么。
 
 ### 第 5 段：性作为一种地形，以及校长的预报（1959–1962）
 
-> **原句 5:** Behind this nervous sociability was awareness of a grand new terrain spread before them. Before puberty, its existence was hidden and had never troubled them. Now the idea of a sexual encounter rose before them like a mountain range, beautiful, dangerous, irresistible. But still far away.
+> **原句 5：** Behind this nervous sociability was awareness of a grand new terrain spread before them. Before puberty, its existence was hidden and had never troubled them. Now the idea of a sexual encounter rose before them like a mountain range, beautiful, dangerous, irresistible. But still far away.
 
 **中文理解**：在这种紧张的社交性背后，是对一片在他们面前展开的全新地形的觉察。此刻，性交这个念头像一道山脉那样在他们面前升起——美丽、危险、不可抗拒。但仍然还很遥远。
 
@@ -135,7 +135,7 @@ modified: "2026-09-28"
 
 ### 第 6 段：vaporised（1962 年 10 月）
 
-> **原句 6:** Suffolk would become a desert and all the people in it would be—and this was the word—vaporised.
+> **原句 6：** Suffolk would become a desert and all the people in it would be—and this was the word—vaporised.
 
 **中文理解**：萨福克会变成一片荒漠，那里所有的人都会——这个词是他自己说的——被汽化。
 
@@ -151,7 +151,7 @@ modified: "2026-09-28"
 
 ### 第 7 段：性"发生了"，而世界没有（1962 年 10 月 27 日）
 
-> **原句 7:** It was either hilarious or it was tragic, that people should go about their daily business in the conventional way when they knew there was this. Even the headmaster, who had a son and a daughter, must know. Even the Queen. Every adult knew. What a facade. What pretence.
+> **原句 7：** It was either hilarious or it was tragic, that people should go about their daily business in the conventional way when they knew there was this. Even the headmaster, who had a son and a daughter, must know. Even the Queen. Every adult knew. What a facade. What pretence.
 
 **中文理解**：这件事要么可笑，要么悲惨：人们明明知道有这个东西，却仍然按常规方式过日子。连校长——他有一个儿子和一个女儿——一定也知道。连女王也知道。每个成年人都知道。多么做作。多么假装。
 
@@ -167,7 +167,7 @@ modified: "2026-09-28"
 
 ### 第 8 段：土豆、洗衣机与"本可以什么都不做"（1962 / 1986 对照）
 
-> **原句 8:** He suspected he had brushed against a fundamental law of the universe: such ecstasy must compromise his freedom. That was its price.
+> **原句 8：** He suspected he had brushed against a fundamental law of the universe: such ecstasy must compromise his freedom. That was its price.
 
 **中文理解**：他怀疑自己蹭到了一条宇宙的基本法则：这样的狂喜必定要拿他的自由作交换。那就是它的价钱。
 
@@ -177,13 +177,13 @@ modified: "2026-09-28"
 
 **表达方式**：**以冒号把一条"宇宙法则"直接说给读者**；`That was its price` 用一个指代词（its）把"狂喜"当作一件商品来估价。
 
-**为什么这样写**：**十四岁的罗兰在第一次之后的当天就作出了全书的形而上学判断**。作者让一个刚失去童贞的男孩立刻说出"极乐要以自由为代价"这种话，**并且用他此后三十年的行为来兑现它**——他确实用自由换过一次极乐，然后**用那个下午换来了整本书**。`That was its price` 是本章最重要的三个词：它把"代价"说成**早已定好的价格**，而不是他自己选择付的。**而这一句是他在 1986 年反刍的，不是当场想到的**——作者用一个三十二年后的洞见去解释十四岁的一次冲动，**这既是全书的抒情逻辑，也是它的可疑之处**（罗兰的自我解释往往比事实更整齐，ch07–ch12 会反复拆掉这种整齐）。
+**为什么这样写**：**十四岁的罗兰在第一次之后的当天就作出了全书的形而上学判断**。作者让一个刚失去童贞的男孩立刻说出"极乐要以自由为代价"这种话，**并且用他此后三十年的行为来兑现它**——他确实用自由换过一次极乐，然后**用那个下午换来了整本书**。`That was its price` 是本章最重要的三个词：它把"代价"说成**早已定好的价格**，而不是他自己选择付的。**而这一句是当场说的**——它就落在同一个下午的削土豆那段里，紧接在 Miriam 走进后花园之后。**十四岁的人在第一次之后的当天就为它定了一个宇宙论的价码，而作者让他此后三十年去还。**
 
 **段落逻辑**：怀疑 → 冒号给出法则 → 三词估价。
 
 ### 第 9 段：站在前面的那个人（1986）
 
-> **原句 9:** The figure with the creased face standing just ahead was not Marlow. It was your forty-year-old self.
+> **原句 9：** The figure with the creased face standing just ahead was not Marlow. It was your forty-year-old self.
 
 **中文理解**：那个脸上带着褶子、站在前面不远处的人不是马洛。那就是你四十岁的自己。
 
@@ -193,13 +193,13 @@ modified: "2026-09-28"
 
 **表达方式**：**以一个视觉化的名词短语作主语**（一张有褶子的脸）；**用 not A 与 It was B 两句完成一次替换**；第二句换成第二人称的所有格（your）。
 
-**为什么这样写**：本段是**全章的转折点，也是罗兰第一次把康拉德的句子原样套到自己身上**。`not Marlow` 一句先排除掉那个"已经走了一半"的旅行者，紧接着 `It was your forty-year-old self.` **把读者的身份从读者改成当事人**——`your` 是英语里最难抵抗的一个词，作者在此**第一次对读者说"你"**。而 `just ahead`（就在前面不远处）三个字是全章的定量词：**四十岁不在远处，就在几步之外。** 这与下一段他"想走却走不成"形成直接因果。
+**为什么这样写**：本段是**全章的转折点，也是罗兰第一次把康拉德的句子原样套到自己身上**。`not Marlow` 一句先排除掉那个"已经走了一半"的旅行者，紧接着 `It was your forty-year-old self.` **把读者的身份从读者改成当事人**——`your` 是英语里最难抵抗的一个词，作者在此**第一次对读者说"你"**。而 `just ahead`（就在前面不远处）两个词是全章的定量词：**四十岁不在远处，就在几步之外。** 这与下一段他"想走却走不成"形成直接因果。
 
 **段落逻辑**：先排除马洛 → 换成一个有褶子的脸 → 换成人称：你的四十岁 → 就在前面不远处。
 
 ### 第 10 段：他想走，而她让他洗碗（1962 / 1986 对照）
 
-> **原句 10:** As he ate his omelette, Roland felt again the insidious desire to be off, hurtling along the route he had in mind. Out of the question.
+> **原句 10：** As he ate his omelette, Roland felt again the insidious desire to be off, hurtling along the route he had in mind. Out of the question.
 
 **中文理解**：就着他吃煎蛋卷的时候，罗兰又一次感到那种阴魂不散的、想走掉的欲望——沿着他心里设想的那条路线疾驰而去。免谈。
 
