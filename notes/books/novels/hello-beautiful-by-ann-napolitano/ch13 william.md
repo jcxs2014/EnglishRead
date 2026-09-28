@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者让 William 用 "and just be"（只是"在"）这三个词描述他一生中最平静的一刻——**而"假装"（pretending）这个动名词是全书的核心词**（Julia 用 "he was pretending to be a graduate student" 来判断他，Arash 用 "pretend teaching career" 来指他）。**这一句是 William 第一次自己用这个词，而它紧跟在一个 as if（仿佛）之后——也就是说，这种平静不是真的，只是"仿佛他把假装放下了"。** ——**而 relief（解脱）这个词连接了两个场景（长椅和病房），也就是说他需要的不是某一个人，而是"被一个不需要他假装的人看着"这件事。**
 
-**读者视角提示**：**注意作者在这里用 "experienced a strange peace"（经历过一种奇怪的平静）而不是 "felt calm"（感到平静）——** **experienced（经历）这个词暗示这种平静是一件"发生在他身上"的事，而不是他"选择"的事。** 这和 ch11 那句 "Julia's primary response had been dismay that William contained those kinds of thoughts" 形成对比：**在他妻子那里，他的痛苦是一个"关于他是什么样的人"的问题（所以她离开）；在 Sylvie 这里，他的痛苦是一个"关于他在经历什么"的问题（所以她留下）。**
+**读者视角提示**：**注意作者在这里用 "experienced a strange peace"（经历过一种奇怪的平静）而不是 "felt calm"（感到平静）——** **experienced（经历）这个词暗示这种平静是一件"发生在他身上"的事，而不是他"选择"的事。** 这和 ch13 那句 "Julia's primary response had been dismay that William contained those kinds of thoughts" 形成对比：**在他妻子那里，他的痛苦是一个"关于他是什么样的人"的问题（所以她离开）；在 Sylvie 这里，他的痛苦是一个"关于他在经历什么"的问题（所以她留下）。**
 
 > **原句 6:** "He was standing; he turned away to look out the window. This was what he needed to speak about. This was what he had to say in order to leave. This was what he had to know in order to start over. This was the last secret, which he could no longer keep."
 

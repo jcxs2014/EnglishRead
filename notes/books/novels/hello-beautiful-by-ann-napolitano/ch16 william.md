@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **关键词**：can’t pretend not to be home / no bullshit and no secrets
 
-**为什么这样写**：**这是全书对 ch06 那句"no bullshit and no secrets"的一次回收，而回收它的方式是把一条治疗原则当场用作一句质问。** ——**注意这句话的两个部分是"同一件事的两面"**：**"不再假装"（pretend not to be home）是他对自己的要求，"不再有秘密"（no bullshit and no secrets）是医生对他的要求**——**而 Sylvie 做的只是指出这两件事其实是同一件事。** **所以这一句的逻辑非常锋利：你不能一边接受治疗一边保留撒谎的权利。** **而"假装不在家"这个具体动作也说明 William 的秘密已经从"过去的隐情"变成了"当下的回避"**——这正是他最开始的诊断（他最擅长 muffling）的一个新版本。
+**为什么这样写**：**这是全书对 ch15 那句"no bullshit and no secrets"的一次回收，而回收它的方式是把一条治疗原则当场用作一句质问。** ——**注意这句话的两个部分是"同一件事的两面"**：**"不再假装"（pretend not to be home）是他对自己的要求，"不再有秘密"（no bullshit and no secrets）是医生对他的要求**——**而 Sylvie 做的只是指出这两件事其实是同一件事。** **所以这一句的逻辑非常锋利：你不能一边接受治疗一边保留撒谎的权利。** **而"假装不在家"这个具体动作也说明 William 的秘密已经从"过去的隐情"变成了"当下的回避"**——这正是他最开始的诊断（他最擅长 muffling）的一个新版本。
 
 **读者视角提示**：**这一句是 ch16 唯一一次有人用他自己的话反驳他自己的策略，而它出现在 Sylvie 而不是 Cecelia 嘴里——**这个安排很重要：**Cecelia 的方式是给他看真相（"You gave her up because of your depression"），而 Sylvie 的方式是要求他把规则贯彻到底。** **所以这两个姐姐代表两种"爱一个人的方式"：一种给你看伤口，一种给你拿尺子。** 而 William 的"火焰"（"He wasn’t walking away—he was standing in fire."）就是被这两者同时加热的产物。
 

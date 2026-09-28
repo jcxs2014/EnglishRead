@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**really, truly 这个插入语是全章的转折点**——**它不加强信息，它加强否认**：Rose 不说"我没参与"，她说的是"你不可能相信这个"——**她已经从"辩解"跳到了"质疑你的理智"**。**而 had anything to do with（跟他父亲的死有关系）这个结构，本身就是一次起诉书式的转述**——**她把这个指控原封不动地念了一遍，才否认它**，**这是全家最典型的说话方式：不谈事，谈"你对我的看法"。**
 
-**读者视角提示**：**这句话是 ch07 那条"Make sure your husband walks"的另一面**——**这个家里没有人真的相信自己的家人害死了 Charlie，但每个人都愿意被指控，因为"被指控"比"被原谅"容易。**（而 Cecelia 的回应是全书最锋利的一句：**"I choose what conversations I have, young lady. Not you. There’s no virtue in being mouthy."**）
+**读者视角提示**：**这句话是 ch05 那条"Make sure your husband walks"的另一面**——**这个家里没有人真的相信自己的家人害死了 Charlie，但每个人都愿意被指控，因为"被指控"比"被原谅"容易。**（而 Cecelia 的回应是全书最锋利的一句：**"I choose what conversations I have, young lady. Not you. There’s no virtue in being mouthy."**）
 
 > **原句 3:** "It felt like a wall had fallen inside her and revealed that she was no more than an animal."
 
