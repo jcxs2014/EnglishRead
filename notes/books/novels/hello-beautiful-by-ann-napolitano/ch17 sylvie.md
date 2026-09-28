@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：吻之后的 Sylvie 做了三件事：**第一次体会到"星星爆炸"的解压（She thought, This is why we live）**；和 Kent 摊牌后被迫接受唯一条件——**要么分手，要么告诉所有人**（"You have to either break up or tell everyone"）；**然后她给两个妹妹打了电话**——而她宣布这件事的理由是一个关于画作的恐惧（"The idea of being revealed by Cecelia's brush was unacceptable; she needed to reveal herself"）；本章结束于图书馆后厅那个拥抱，Emeline 三个月后回来找她。
+- **一句话概括**：吻之后的 Sylvie 做了三件事：**第一次体会到"星星爆炸"的解压（She thought, This is why we live）**；和 Kent 摊牌后被迫接受唯一条件——**要么分手，要么告诉所有人**（"To be clear, you have to either break up or tell everyone.”"）；**然后她给两个妹妹打了电话**——而她宣布这件事的理由是一个关于画作的恐惧（"The idea of being revealed by Cecelia's brush was unacceptable; she needed to reveal herself"）；本章结束于图书馆后厅那个拥抱，Emeline 三个月后回来找她。
 - **情感弧线位置**：**升温到顶／也是全书对"这段感情能走多远"最乐观的一章**。ch16 是他逃，ch17 是她追，**而本章作者给出了唯一一个"happy"的答案**（This is why we live），**紧接着就写出了这个答案的代价清单**：三个姐妹会退回原位、Julia 永远不回芝加哥、那道桥会碎成灰。**所以这一章的弧线是"得到"和"预付代价"同时发生。**
 - **Tropes 兑现/反转**：① 秘密恋爱／瞒着所有人——**兑现为一种生活方式的具体描写**（门反锁两道、凌晨离开、把牙刷和睡裙塞回包里）；② 好朋友兼得／皆大欢喜——**反转为 Kent 的条件**（要么分手，要么全说，而 Sylvie 选了说）；③ 家人无条件支持——**反转为三个姐妹的沉默**（Emeline 甚至用了三个月的沉默才回来抱她）；④ 出柜／被家人接纳——**兑现并反转**（Cecelia 和 Emeline 震惊，但真正的问题不是性向，而是"你抢了姐姐的男人"）。
 - **人物弧线**：Sylvie：从 ch16 那个"我想要你"到本章**那个"我必须说"**——**而作者用了一个非常精确的因果让她从"要"转到"必须"**：**因为 William 只能在没有秘密的生活里活下去（Kent: "You can't hide love"），所以她的爱必须先解除它的秘密状态**。**所以 ch17 的核心不是她鼓起勇气，而是她发现"两个人的秘密"和"一个人的健康"在结构上互斥**——**而她的解法是让秘密崩塌。**
@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是 Emeline 对 Cecelia 那句的镜像复制，而作者让姐妹俩在同一场对话里用同一个句式问对方**（Cecelia 问"你能不能只和他做朋友"，Emeline 问"你能不能只和 Josie 做朋友"）——**而这个对称立刻揭示了两件事**：**一是她们面对的是同一种问题（爱上一个不该爱的人），二是她们在互相打量对方的答案。** **——而 could 和 just 两个词是双重的软化：could（能不能，语气最轻）＋ just（只是、仅仅）**。**所以这两句话在语法上都不可能拒绝对方——而正因如此，它们的伤害是延迟的：Emeline 摇头的那个动作，才是真正的答案。**
 
-**读者视角提示**：**这是全书第一次也是唯一一次，两个姐妹在同一段对话里互相提供了同一种药方**——**而作者让两个人都摇头**（Emeline tightened her lips. Shook her head.）。**所以这一段的结构是"两个相同的问题、两个相同的沉默"，而这就确定了结局：不能问，因为一问就会听见对方的答案。** **而 Sylvie 之所以不为自己辩解，是因为她已经能想象答案**（"She knew this wouldn't go well."）——**所以她的坦白不是"赌一把"，而是"把一个已经算清楚的坏消息交付出去"。**
+**读者视角提示**：**这是全书第一次也是唯一一次，两个姐妹在同一段对话里互相提供了同一种药方**——**而作者让两个人都摇头**（Emeline tightened her lips. Shook her head.）。**所以这一段的结构是"两个相同的问题、两个相同的沉默"，而这就确定了结局：不能问，因为一问就会听见对方的答案。** **而 Sylvie 之所以不为自己辩解，是因为她已经能想象答案**（"Sylvie had known this wouldn’t go well."）——**所以她的坦白不是"赌一把"，而是"把一个已经算清楚的坏消息交付出去"。**
 
 > **原句 5:** "“How do you know he’s not with you because he misses Julia?”"
 

@@ -124,4 +124,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-**这一章是 Sylvie 的"交接章"，而它的全部内容是一个人在临终前把所有事排好队——然后被自己妹妹的一句话证明：她排的不是队，是别人的剧本。** ——**她给 Kent 留了一句二十年后的任务**（"You might need to save William again, after I'm gone. One way or another. I'm sorry about that."），**她把头痛画成了日记**（"almost as if she were keeping a journal"），**她把死亡定义成一次一件一件放手的练习**（"an exercise in letting go of one thing after another"）——**而这一切安排在 Emeline 那句"本来应该是我"面前全部失效**（"It was supposed to be me." / "I'm supposed to be Beth, out of all of us."）；**所以 ch26 的真正主题不是"她要死了"，而是"这个家族里每个人都有一套关于自己结局的隐形剧本，而这一晚两套剧本撞在了一起"**——**一个把死亡当成放手的练习，一个把死亡当成一个早该属于自己的人。**
+**这一章是 Sylvie 的"交接章"，而它的全部内容是一个人在临终前把所有事排好队——然后被自己妹妹的一句话证明：她排的不是队，是别人的剧本。** ——**她给 Kent 留了一句二十年后的任务**（"It was supposed to be me,” Emeline said, in a hard voice."），**她把头痛画成了日记**（"almost as if she were keeping a journal"），**她把死亡定义成一次一件一件放手的练习**（"an exercise in letting go of one thing after another"）——**而这一切安排在 Emeline 那句"本来应该是我"面前全部失效**（"It was supposed to be me,” Emeline said, in a hard voice." / "I'm supposed to be Beth, out of all of us."）；**所以 ch26 的真正主题不是"她要死了"，而是"这个家族里每个人都有一套关于自己结局的隐形剧本，而这一晚两套剧本撞在了一起"**——**一个把死亡当成放手的练习，一个把死亡当成一个早该属于自己的人。**

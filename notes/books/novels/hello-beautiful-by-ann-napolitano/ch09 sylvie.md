@@ -21,11 +21,11 @@ modified: "2026-09-28"
 
 **关键词**：That recognition / drawing in giant mouthfuls of air / after holding her breath for a long time
 
-**为什么这样写**：**这是全书对"被理解"最生理化的一次描写，而作者把一件心理事件翻译成了一次憋气**——**recognition（认出、被认出）这个抽象名词，被放进了一个呼吸循环里：憋了很久 → 大口吸。** 而 giant mouthfuls（巨大的几口）这个量词很关键：**它不是"深深地吸一口气"，是"好几大口"——**一个饿了很久的人的样子。** 而这句话的前一句是 "No one had understood her since her father died."（父亲死后，再没有人理解过她。）**——所以这一口空气，是她父亲之后的第一口。**
+**为什么这样写**：**这是全书对"被理解"最生理化的一次描写，而作者把一件心理事件翻译成了一次憋气**——**recognition（认出、被认出）这个抽象名词，被放进了一个呼吸循环里：憋了很久 → 大口吸。** 而 giant mouthfuls（巨大的几口）这个量词很关键：**它不是"深深地吸一口气"，是"好几大口"——**一个饿了很久的人的样子。** 而这句话的前一句是 "no one had understood her since her father died."（父亲死后，再没有人理解过她。）**——所以这一口空气，是她父亲之后的第一口。**
 
 **读者视角提示**：**注意这个"被认出"的人不是亲戚、不是丈夫，而是她姐夫**——**而作者在下一段立刻给出解释：William recognized the loss she was carrying inside her and spoken it aloud.**（William 认出了她心里带着的那种失去，并把它说了出来。）**这本书里最有效的一次沟通，发生在一对彼此不该说话的人之间。**
 
-> **原句 2:** "She looked at the state of her hair, which was never negotiable—she accepted whatever crazy angles or cowlicks appeared after a night’s sleep."
+> **原句 2:** "She looked at the state of her hair, which was never negotiable-she accepted whatever crazy angles or cowlicks appeared after a night’s sleep"
 
 **中文理解**：**她看了看自己头发的状态——这件事永远不可谈判——她接受一夜睡眠之后出现的任何疯狂角度或翘起的发旋。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**这一句是 ch06 那条埋线的第一次兑现**（Sylvie 在 Julia 家沙发上读完那本书稿，记住的全是脚注）——**而作者要说明的是：她记住的不是那本书，是那行脚注。** 一个把人生当脚注来读的人，在全书最坏的一个早晨，引用了她读到的那行脚注。**而"我"在两处指的不是同一个人：书里是 William，此刻是 Sylvie 自己（Part of Sylvie's brain... that this was the truth）。**
 
-> **原句 6:** "“There’s nothing to figure out,” her sister’s voice was calm. “William has been lying for a week, at least. And he doesn’t want to be married to me anymore.”"
+> **原句 6:** "“There’s nothing to figure out.” Her sister’s voice was calm. “William has been lying for a week, at least. And he doesn’t want to be married to me anymore.”"
 
 **中文理解**："**没什么好想的了，**"她姐姐的声音很平静。"**威廉至少已经撒了一周的谎。而且他不想再跟我结婚了。**"
 

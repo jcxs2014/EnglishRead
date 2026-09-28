@@ -8,7 +8,7 @@ modified: "2026-09-28"
 ## 本章导航
 
 - **一句话概括**：William 在精神病院住了两个多月，**把 Dr. Dembia 的作业做完了——把每一个他瞒着身边人的秘密列成清单，而清单的最后一格是"我有一个姐姐"（Caroline，她死在他出生时），以及那句他早已写下却不记得的脚注 "It should have been me, not her."**；Arash 给了他一个宿舍房间（"I'm not offering you a job. I'm offering a room."），而他出院前必须说的最后一件秘密是关于 Alice——"她像一盏灯，而我怕我把自己的黑弄灭了她。"
-- **情感弧线位置**：**回升 / 一个人开始能承受重量**。ch10 他在湖里，ch12 他是别人"不敢靠近"的人（"No one wants to be near someone who's that close to gone."），**本章的落点是一个刚刚学会的句式："like a piece of fine porcelain unable to bear any weight, he could no longer take it."（像一件再也承受不住重量的精致瓷器。）——**而这句话是关于**诚实**的：他终于受不住的不是悲伤，是不诚实。
+- **情感弧线位置**：**回升 / 一个人开始能承受重量**。ch10 他在湖里，ch12 他是别人"不敢靠近"的人（"Like a piece of fine porcelain unable to bear any weight, he could no longer take it."），**本章的落点是一个刚刚学会的句式："Like a piece of fine porcelain unable to bear any weight, he could no longer take it."（像一件再也承受不住重量的精致瓷器。）——**而这句话是关于**诚实**的：他终于受不住的不是悲伤，是不诚实。
 - **Tropes 兑现/反转**：① 精神病院的恢复——**反转为：真正让他好起来的不是药，是"被要求说真话"这个作业**（No bullshit and no secrets）**。② 禁忌之恋的开始——**兑现为纯语言**：Sylvie 来问 Bill Walton 和 Kareem 的问题，而 William 说"是篮球点着了你"，而 Sylvie 对医生说"篮球是他一生中第一个爱他回的东西"。③ 说出真相会失去对方——**反转为：他把"我有一个死去的姐姐"说给 Sylvie 听之后，Sylvie 第二天回来了**（"'You hurt yourself too.' 我也伤了我自己。"）。
 - **人物弧线**：William：从 ch10 的"假货、骗子、冒充者"到本章的"**我在尽我所能说真话**"——**而作者用一整章证明：他的治愈史 = 一份秘密清单 + 一次提问。** **他学会的新能力不是"活下去"，而是"承载"**（What am I doing? / Why am I doing this? / Who am I? 这三问在 ch06 是病，ch13 是作业）。
 - **叙事手法**：第三人称限知贴 William；**七个 `* * *`（本章是全书最多分节的一章）**；**三条埋线**：① Caroline（他死去的姐姐）——**而四十年后 Alice 会有一个同名的旧伤**；② "It should have been me, not her." ——**ch06 那条脚注在本章被点名兑现**；③ "Alice is a lamp" ——**而"黑会淹没光"这个诊断会在 ch20 由 Julia 亲口说出来**。
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**Sylvie 的第二个问题是一个关于"许可"的请求，而它比第一个问题（"Do you want Julia to visit?"）更私人**（第一个问的是妹妹和外甥女，这一个问的是她自己）。**而作者用了 too（也）这个字——它把"让我走"和"让 Julia 走、让 Alice 走"放进了同一个清单**，**而这个清单是 William 自己上周刚刚列出来的**（"Julia and Alice should stay away from me. Forever."）。**所以她不是在一个新的位置上问，她是在他自己规定的排除名单上问"我算不算"。** ——**而 Is it all right（可以吗）这种小心翼翼的措辞，是一个"知道自己越界了但还是要问"的人的语法。
 
-**读者视角提示**：**这六个字（go away too）后面是整个 1983 年最重要的一次翻身**——**William 回答的是 "Don't go away."（别走。）** 而作者让这句回答出现在他说完"永远不要来看我"的第二天。**这说明他上一章那句话不是真心话（或者说，不是全部的真心话）**，**而读者要等到下一段才发现：他说完那句 brutal 的话之后，"believed Sylvie would never return"。**
+**读者视角提示**：**这六个字（go away too）后面是整个 1983 年最重要的一次翻身**——**William 回答的是 "Don't go away."（别走。）** 而作者让这句回答出现在他说完"永远不要来看我"的第二天。**这说明他上一章那句话不是真心话（或者说，不是全部的真心话）**，**而读者要等到下一段才发现：他说完那句 brutal 的话之后，"William knew Sylvie would never return."。**
 
 > **原句 3:** "“You hurt yourself too.”"
 
@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者用一个破折号插入语把两个时间层叠在一起**（the unthinkable → William never thought of it），**而主句是"loss that preceded all the other losses"（一种先于其他所有失去的失去）**——**这是一个看似矛盾的说法：怎么会有一种"先于"的失去？如果她死在他出生时，那么他还没"失去"，他只是还没得到。** 而这就是作者要的效果：**他生命里所有的失去，都排在一个他从未经历过的失去后面。** **而"坐在不可思议里"（sat in the unthinkable）这个说法用了一个介词把抽象的东西变成了一个可以待的房间。**
 
-**读者视角提示**：**这个破折号插入语是全书结构上的一个枢纽**（ch05 Charlie 说过 "I need you to be tough enough to tell me the truth"）：**在 ch05 里，Sylvie 听到的是父亲在店里做的"边缘/天空"演讲；在 ch13 里她听到的是 William 用她的名字说出一个死去的婴儿。** **而这是同一代人（父亲与女婿）在同一场对话里做的事：说出那个"一直在房间里但没人提"的东西。** 所以 ch13 的核心不是 William 的病，**是"这个家族开始有了一个能容纳真话的房间"。**
+**读者视角提示**：**这个破折号插入语是全书结构上的一个枢纽**（ch05 Charlie 说过 "I need you to be ruthlessly honest"）：**在 ch05 里，Sylvie 听到的是父亲在店里做的"边缘/天空"演讲；在 ch13 里她听到的是 William 用她的名字说出一个死去的婴儿。** **而这是同一代人（父亲与女婿）在同一场对话里做的事：说出那个"一直在房间里但没人提"的东西。** 所以 ch13 的核心不是 William 的病，**是"这个家族开始有了一个能容纳真话的房间"。**
 
 > **原句 5:** "William had experienced a strange peace beside her on the bench that night—as if he’d been able to set aside his pretending and just be—and he’d felt relief each time she walked into his hospital room."
 

@@ -7,9 +7,9 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：在夏训营里，William 做了 Arash 交给他的伤情访谈——**而他第一次发现自己会讲真话（"My job is to open them up."），也第一次发现讲真话是有代价的（"the players leaned away from him… as if the damage might be contagious"）；随后他在校园长椅上陪着一位老年历史教授坐了整个下午，醒来时已经黄昏、已经缺了一节课——第二天早晨报纸告诉他教授死了，**五天后他把一万美元支票和一张便条递给 Julia，走了。**
+- **一句话概括**：在夏训营里，William 做了 Arash 交给他的伤情访谈——**而他第一次发现自己会讲真话（"the players leaned away from him at this point, as if the damage might be contagious."），也第一次发现讲真话是有代价的（"the players leaned away from him at this point, as if the damage might be contagious."）；随后他在校园长椅上陪着一位老年历史教授坐了整个下午，醒来时已经黄昏、已经缺了一节课——第二天早晨报纸告诉他教授死了，**五天后他把一万美元支票和一张便条递给 Julia，走了。**
 - **情感弧线位置**：**全书的最低点 / 主动出走**。ch01–09 是逐步的磨损（膝盖、婚姻、书稿、父亲、母亲），**本章是那根弦终于断了——而且断得极其安静**：他没有吵架、没有哭、没有解释，**他把一万美元（父亲十六个月前给的、Julia 从不知道的）写上"Julia Waters"，写了六句话，然后下楼**。而作者把这一切放在一次访谈工作的成功之后：**他刚刚证明了自己"能让人说出真话"，紧接着就自己再也没能开口。**
-- **Tropes 兑现/反转**：① 导师去世＝角色成长的推动力——**反转为：导师在长椅上什么都没说，William 睡着了，而教授的死直接摧毁了他的整个人生结构**（"The true teacher had died and… wiped away all of William's measly efforts at a life."）。② 丈夫离家出走／妻子被留下——**兑现，但反转了视角归属**：他不是受不了她走了，**他是"不能待下去了"**（"I'm no good for you and Alice. If I stayed, I'd ruin your life."）。③ 用工作治愈创伤——**反转为：他刚刚因为这份工作获得了"优秀"评价（Arash: "Excellent work."），三天后就躺在长椅上不省人事。**
+- **Tropes 兑现/反转**：① 导师去世＝角色成长的推动力——**反转为：导师在长椅上什么都没说，William 睡着了，而教授的死直接摧毁了他的整个人生结构**（"The true teacher had died and, like a wave crashing against the beach, wiped away all of William’s measly efforts at a life."）。② 丈夫离家出走／妻子被留下——**兑现，但反转了视角归属**：他不是受不了她走了，**他是"不能待下去了"**（"I'm no good for you and Alice. If I stayed, I'd ruin your life."）。③ 用工作治愈创伤——**反转为：他刚刚因为这份工作获得了"优秀"评价（Arash: "Excellent work."），三天后就躺在长椅上不省人事。**
 - **人物弧线**：William：从 ch07 那个"我需要在这里"的看台上一员，到本章**成为一个能读出别人身体里的人——然后完全用这个能力读出了自己的死期**（"Later, he would think, No one wants to be near someone who’s that close to gone."）。**他走的那一晚想的是湖水会不会漫过皮肤**（"how far he could walk into the lake before he would be entirely covered by water"）——**而全章最残忍的一点是：他当天早上还在教别人怎么测量自己还能走多远。**
 - **叙事手法**：第三人称限知贴 William；三个 `* * *`（访谈 / 长椅 / 湖边与清晨）；**两处埋线**：① 产科医生那句话的再次出现（ch08 Julia 复述"Make sure your husband walks"）② **他在黑暗中心看见 Charlie 站在门口说"我很高兴见到你"——而 ch11 Julia 会在同一夜想起她父亲："Let's see what my rocket can do."**（一个看见了死去的父亲，一个想起活着的父亲说的最后一句话。）
 
@@ -121,4 +121,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-**这一章是 William 的终结章，而它的结构是把一次成功和一次失败写在同一个月里**：**他刚刚证明了自己能做"把别人打开"这份工作（"My job is to open them up."），也刚刚证明了这个能力有多危险（"as if the damage might be contagious"）——**然后作者让他在一位陌生教授的长椅上睡着，醒来时整个世界已经结束了；**一个能替全队测量"谁快撑不住了"的人，此刻是全队里最撑不住的那个，而他自己完全知道。** **所以这一章的真正问题是：一个人怎么用他刚刚获得的洞察力，最后一次检查自己？答案是——他不检查，他写六句话，把钱留下，走下楼梯。**
+**这一章是 William 的终结章，而它的结构是把一次成功和一次失败写在同一个月里**：**他刚刚证明了自己能做"把别人打开"这份工作（"My job is to open them up,” William said."），也刚刚证明了这个能力有多危险（"as if the damage might be contagious"）——**然后作者让他在一位陌生教授的长椅上睡着，醒来时整个世界已经结束了；**一个能替全队测量"谁快撑不住了"的人，此刻是全队里最撑不住的那个，而他自己完全知道。** **所以这一章的真正问题是：一个人怎么用他刚刚获得的洞察力，最后一次检查自己？答案是——他不检查，他写六句话，把钱留下，走下楼梯。**

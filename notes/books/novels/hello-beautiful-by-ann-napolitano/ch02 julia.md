@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者用了两次否定同一个事实（没有答案／缺少答案），然后立刻兑现它的奖赏**——climbed her spine（顺着脊柱往上爬）。**欲望和轻蔑在同一拍里完成**。而"背上发凉"这个身体意象，和她后文对 William 的所有描述形成一条线：**她要的是一个可以被补上的空白，而她相信自己能补。**
 
-**读者视角提示**：**请把这两句和 ch03 那句并读**——**ch03 的原句是 Sylvie 在图书馆里一眼看出的："He was holding on to Julia like a life raft."**（他抓着朱莉娅，像抓着一只救生筏。）**而"缺答案的人会把你当救生筏"这个机制，看穿它的人不是妻子，是小姨子。**
+**读者视角提示**：**请把这两句和 ch03 那句并读**——**ch03 的原句是 Sylvie 在图书馆里一眼看出的："It was a child’s dream, but Sylvie was still holding on to it with both hands."**（他抓着朱莉娅，像抓着一只救生筏。）**而"缺答案的人会把你当救生筏"这个机制，看穿它的人不是妻子，是小姨子。**
 
 > **原句 6:** "An hour later, sharing the hard wooden stool in the old-fashioned phone booth in his dorm hallway, they called Boston. William’s mother answered the call, and William said hello."
 

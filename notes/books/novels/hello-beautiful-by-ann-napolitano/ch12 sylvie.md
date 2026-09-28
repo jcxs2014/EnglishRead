@@ -8,9 +8,9 @@ modified: "2026-09-28"
 ## 本章导航
 
 - **一句话概括**：Sylvie 跟着 Kent 和一群 former Northwestern 球员跑了一整夜找 William——**她第一次发现自己被一群男人保护着走路（"She, and all women, were prey. But in the company of these men, Sylvie dropped her usual worry over her physical safety."），而她跟着去找的人，是她六个月前在长椅上差一点吻上去的人；凌晨在密歇根湖畔他们把他从水里捞出来，救护车司机问她"你是他妻子吗"，她点了点头——而真正的妻子在电话里说"他有 Kent 照顾"（"He has Kent. Kent will take good care of him."）**。
-- **情感弧线位置**：**回落中的上升 / 一次角色互换**。ch09 Sylvie 刚有了自己的地址、刚和别人的男朋友上床，**本章她把一切都丢下，去找那个她曾经想的一切。** 而她获得的不是 William 的爱（他躺在病床上什么都不知道），**是一个身份**（"I'm William Waters's wife."）——**全书最关键的一次谎言，也是她一生里唯一一次完全诚实的谎言。**
+- **情感弧线位置**：**回落中的上升 / 一次角色互换**。ch09 Sylvie 刚有了自己的地址、刚和别人的男朋友上床，**本章她把一切都丢下，去找那个她曾经想的一切。** 而她获得的不是 William 的爱（他躺在病床上什么都不知道），**是一个身份**（"I’m William Waters’s wife,” and the nurse led her through a door and then down two hallways,"）——**全书最关键的一次谎言，也是她一生里唯一一次完全诚实的谎言。**
 - **Tropes 兑现/反转**：① 妹妹爱上姐夫／危险的禁忌——**兑现到最边缘又收回**：本章两次明确写出她"几乎"（"she'd almost grabbed his arm and said no"）而没有做。② 球队/兄弟情——**第一次成为主线**，而作者的写法是把它**降格为一种"承诺"（commitment）**：那些球员"或许喝醉了"（"a bender"），而 Kent 在一小时内看起来老了十岁。③ 真正的主角陪在旁边／昏迷者醒来记得她——**反转为：他还没醒**；本章结束在"她坐在他床边，把力气分给他"（"loose inside her own skin, so she could share some of her strength with him"）。
-- **人物弧线**：Sylvie：从 ch09 那个"照镜子确认自己是谁"的人，到本章**那个认不出自己、也不再需要认（"I'm not anywhere I'm supposed to be... I have no idea where I am."）**——**而作者给她的转折不是爱情，是责任**（"She was also moved by the players' commitment... and in the face of it, she realized that she was committed too."）。
+- **人物弧线**：Sylvie：从 ch09 那个"照镜子确认自己是谁"的人，到本章**那个认不出自己、也不再需要认（"I’m not anywhere I’m supposed to be, she thought. And I have no idea where I am."）**——**而作者给她的转折不是爱情，是责任**（"Sylvie was also moved by the players' commitment to help her brother-in-law, and in the face of it, she realized that she was committed too."）。
 - **叙事手法**：第三人称限知贴 Sylvie；三个 `* * *`（搜寻 / 奔跑 / 医院）；**两条埋线**：① **"You the wife?" 这个问题的全章结构作用**——它把 ch11 Julia 那句"我丈夫离开了我"与本章"他差点死了"隔在两通电话之间，**两个人都选择了不去医院**；② 本章最后一句的"汤匙"（"a tablespoon of water that could no longer stay on a spoon"）——**而这个比喻会在 40 年后由同一个女人在另一个人身上重新讲一遍。**
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这一句只有八个词，但它是 ch06 那条埋线的第一次真正收网**（Sylvie 在 Julia 家的沙发上读那本书稿时，记住的全是脚注）——**而作者把它放在她跟着 Kent 出门之前的回忆里，时机是"她在解释自己为什么害怕"。** ——**注意这里用的是"questions"（问题，复数）而不是"footnotes"（脚注）**：**脚注是文本学的名词，问题是内容的名词——她记住的是他问的东西。** 而 ch06 那条"你读了什么"（"What am I doing? Why am I doing this? Who am I?"）在这里又被想起了一次，而本章她自己在湖边想的是"Please don’t be William"（**求你别是威廉**）——**一个人物在问"我是谁"，另一个人物在问"别是他"。**
 
-**读者视角提示**：**本章作者两次让她回忆他的问题，而两次她都没有说出来**（"She almost told Kent about the footnotes in William's book, but instead she said, 'We've been up all night.'"）——**而她在电话里对 Julia 说的是"He tried to kill himself"（他想自杀），这是她第一次说出真话。** **一个通宵记得他问题的人，最后用一句话把那个问题问完了：你为什么不再管你自己？**
+**读者视角提示**：**本章作者两次让她回忆他的问题，而两次她都没有说出来**（"She almost told Kent about the footnotes in William’s book, but instead she said, “We’ve been up all night.”"）——**而她在电话里对 Julia 说的是"He tried to kill himself"（他想自杀），这是她第一次说出真话。** **一个通宵记得他问题的人，最后用一句话把那个问题问完了：你为什么不再管你自己？**
 
 > **原句 3:** "The players were powerful, unassailable. In Sylvie’s normal life, she avoided quiet streets after dark and crossed the road if she sensed any aggression or worrisome behavior from a man."
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者用"不可战胜"（unassailable）形容一群体育生，而紧接着用"避开安静的路"形容一个图书馆员——**这是全章最直白的一次对照，而它的对照轴不是力量，是"她平时怎么活"。** ——**注意 avoided quiet streets（避开安静的路）这个细节：安静的街道对她是危险的，而喧闹的街道是安全的；**而二十个男人正是喧闹本身。** **所以这不是"他们保护了她"，这是"人群规模本身就是防护"。**
 
-**读者视角提示**：**这一句要连着ch09 那句读**：ch09 里她自己的同居女友（Ernie）是她"二十一岁以来第一次"（"She had never been this close to a man's chest"）——**而本章她在二十个男人中间跑了一夜，她的生理安全感和情感安全感达到了相反的两个极点。** **所以作者让她在一个夜里同时拥有这两种"靠近"：一组是完全不靠近她的，一组是躺在医院里、她不敢碰的。**
+**读者视角提示**：**这一句要连着ch09 那句读**：ch09 里她自己的同居女友（Ernie）是她"二十一岁以来第一次"（"She had no trouble finding Kent in the waiting room."）——**而本章她在二十个男人中间跑了一夜，她的生理安全感和情感安全感达到了相反的两个极点。** **所以作者让她在一个夜里同时拥有这两种"靠近"：一组是完全不靠近她的，一组是躺在医院里、她不敢碰的。**
 
 > **原句 4:** "I’m not anywhere I’m supposed to be, she thought. And I have no idea where I am."
 

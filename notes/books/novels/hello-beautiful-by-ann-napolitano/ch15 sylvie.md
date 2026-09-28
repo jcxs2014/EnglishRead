@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者用一个 though（尽管）把否认和事实放在同一句里**——**而事实是她自己的脸**。**这是一个人对自己撒谎的最精确形式：不是编造，而是"否认一个正在显露的表情"。** ——**而"grumpy"（脾气坏）这个单词的选择很关键：它是一个关于性格的词，不是关于处境的词**——**William 问的是"你心情不好吗"，而她回答"我不是那种人"**。**所以她保护的不是 William，是自己的一个身份（那个"我很好"的 Sylvie）。**
 
-**读者视角提示**：**这一句是本章的引信**——因为下一段她就说出了真正让她皱眉的事（Alice），**而她之所以能在这一句里说谎，是因为她已经决定要开始说真话**（"William appreciated that William's healing was built on truthfulness."）**——所以这本书里第一次出现的真话是作为一句谎话的对照面出现的。** 而全章她对 Cecelia、Emeline 说的两件真事（我去看 William 了／我知道 Alice 那个决定不对），都是先从这句"我没有不高兴"开始的。
+**读者视角提示**：**这一句是本章的引信**——因为下一段她就说出了真正让她皱眉的事（Alice），**而她之所以能在这一句里说谎，是因为她已经决定要开始说真话**（"Sylvie appreciated that William’s healing was built on truthfulness."）**——所以这本书里第一次出现的真话是作为一句谎话的对照面出现的。** 而全章她对 Cecelia、Emeline 说的两件真事（我去看 William 了／我知道 Alice 那个决定不对），都是先从这句"我没有不高兴"开始的。
 
 > **原句 2:** "“Basketball was the first thing in William’s life that loved him back. The only thing that loved him, for a long time.”"
 
@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：I know / with sorrow / （三个词的回应）
 
-**为什么这样写**：**Emeline 的秘密是：她爱上了 Josie，而 Josie 很可能不喜欢她**（"I have no idea if Josie likes me in that way. She probably doesn't."）——**而 Sylvie 和 Cecelia 的第一反应都是"安慰"（"Are you sure?"／"You can adopt, maybe?"），Emeline 却只说了三个字：I know.** ——**而 with sorrow（带着悲伤）这个词组是一个副词，它把"我知道"这三个字染上了一种颜色**——**她不是不知道结果，她是早就知道结果，而她还是说了。** **——所以这三个字是本章最短也最重的一次拒绝接受安慰。**
+**为什么这样写**：**Emeline 的秘密是：她爱上了 Josie，而 Josie 很可能不喜欢她**（"I have no idea if Josie likes me in that way,” Emeline said. “She probably doesn’t.”"）——**而 Sylvie 和 Cecelia 的第一反应都是"安慰"（"Are you sure?"／"You can adopt, maybe?"），Emeline 却只说了三个字：I know.** ——**而 with sorrow（带着悲伤）这个词组是一个副词，它把"我知道"这三个字染上了一种颜色**——**她不是不知道结果，她是早就知道结果，而她还是说了。** **——所以这三个字是本章最短也最重的一次拒绝接受安慰。**
 
 **读者视角提示**：**注意这三个人在车里的分工**（ch14 Julia 说对了："Emeline was their conscience"）：**Cecelia 说的是"你确定吗"（怀疑），Sylvie 说的是"我们可以收养"（寻找出路），而 Emeline 自己说的是"我知道"（接受）。** ——**而作者让这三句话在同一个车厢里排成一列，同时也在给四十年后的"另一个家"排同样的三列。**（ch15 里唯一被点名的是这个家族的女性词汇：Sylvie 用"第三扇门"，Emeline 用"收养"，Cecelia 用"你能接受吗"——三个词，三种面对失去的方式。）
 

@@ -22,7 +22,7 @@ modified: "2026-09-28"
 
 **关键词**：We’re being punished / （一个没有宾语、没有施罚者、没有罪名的被动式）
 
-**为什么这样写**：**这是全书最短、也最重的一句台词，而它的语法特征是：主语是 we，受罚者缺席，施罚者缺席，罪名缺席。** ——**也就是说这句话在结构上是一个悬空的被动语态，它宣告了一个结果而拒绝给出任何归因。** **——而作者让它出现在回忆里、由母亲说出口、在家里任何一个电器坏掉时被调用**（"Whenever something went wrong in her house while she was growing up…the washing machine flooded, the refrigerator died—her mother’s first words were"），**所以它成了这个家庭的一个自动响应函数：故障 → 惩罚。** **——注意 we 是复数**——**所以惩罚不是对个人的，是对整个家庭的，而这一句因此可以同时用于解释一件坏事和判定一家人。**
+**为什么这样写**：**这是全书最短、也最重的一句台词，而它的语法特征是：主语是 we，受罚者缺席，施罚者缺席，罪名缺席。** ——**也就是说这句话在结构上是一个悬空的被动语态，它宣告了一个结果而拒绝给出任何归因。** **——而作者让它出现在回忆里、由母亲说出口、在家里任何一个电器坏掉时被调用**（"Whenever something went wrong in her house while she was growing up-the electricity went out, the washing machine flooded, the refrigerator died-her mother’s first words were: “We’re being punished.”"），**所以它成了这个家庭的一个自动响应函数：故障 → 惩罚。** **——注意 we 是复数**——**所以惩罚不是对个人的，是对整个家庭的，而这一句因此可以同时用于解释一件坏事和判定一家人。**
 
 **读者视角提示**：**注意 ch23 里最重要的一处是这套程序在四十七岁那年仍然运行**（"She was surprised, though, to find that she’d unconsciously kept that belief system."）——**而 unconsciously（无意识地）这个词是本章的技术核心**：**它说明这套系统不是她同意的，是它自己长在她身上的。** **——所以 ch23 的真正发现不是"我得了脑瘤"，是"我母亲那套关于罚的教法，我还欠着"。** 而她给出的解释是一个没有任何证据的因果（"Sylvie had betrayed her sister, so her body had betrayed itself"）——**注意作者用 so（所以）而不是 because（因为）**：so 只陈述先后，不主张机制，**所以这个等式是修辞，不是医学，而 Sylvie 心里知道这一点。**
 

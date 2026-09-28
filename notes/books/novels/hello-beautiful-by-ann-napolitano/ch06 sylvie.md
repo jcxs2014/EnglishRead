@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：父亲下葬，Sylvie 站在灵堂里想的是"谁不在"（Cecelia 和孩子），而 Rose 转身把丧子之恨算到了那个刚出生的孩子头上；**在教堂里她想起一个月前父亲在店门口对她说过的那番话（"我们不是被自己围起来的"），这句话成了她此后的身份许可证；她被亲妈赶出家门、睡在妹妹家沙发上看完 William 的一百页书稿，看见了那行脚注 "It should have been me, not her."——而三个月后 Rose 宣布卖房子去佛罗里达，一家人正式解散。**
 - **情感弧线位置**：**低谷／一个家的第一次真正解散**。ch01–05 的"新家庭"是靠 Rose 的强势和 Julia 的规划维系的，本章**两个支柱同时被抽掉**：父亲死了（唯一在看她们的人），Rose 开始赶人（唯一在维持的人）。**而书名在父亲嘴里第一次成为一句口头禅**（"Hello beautiful!" 他见到任何一个女儿都会这么说）。
 - **Tropes 兑现/反转**：① 追悼会上的陌生人——**反转为"葬礼不是关于死者的，是关于活人借机哭自己的"**（"their tears were for Charlie but also for their own personal heartbreaks"）。② 慈父形象／去世的父亲更完美——**反转为：父亲从没说过自己完美，他说过"我失败了"**。③ 妹妹被逐／家庭和解——**反转为：这个家没有和解，只有"她父亲的网松了"**（"What had been effortless would now take effort"）。
-- **人物弧线**：Sylvie：从 ch03 那个"找第三扇门"的二十岁，到本章成为**一个必须先证明自己是谁、才能被人看见的人**——她读完 William 的书稿，第一次意识到**她姐夫的世界和父亲一样空**（"Who am I?"），也第一次意识到**自己正在变成那种人**（"she'd been feeling this way for only a month, and it was terrible"）。
+- **人物弧线**：Sylvie：从 ch03 那个"找第三扇门"的二十岁，到本章成为**一个必须先证明自己是谁、才能被人看见的人**——她读完 William 的书稿，第一次意识到**她姐夫的世界和父亲一样空**（"Sylvie had been feeling this way for only a month, and it was terrible."），也第一次意识到**自己正在变成那种人**（"Sylvie had been feeling this way for only a month, and it was terrible."）。
 - **叙事手法**：第三人称限知贴 Sylvie；四个 `* * *`（守灵 / 父亲的一小时闪回与图书馆 / Julia 的沙发 / 家庭会议）；**全书最重的一处"文档"埋线就在本章**：一百页书稿+ 脚注 questions——**而那句 "It should have been me, not her." 一直要到 ch13 才被兑现**。
 
 ## 精读
@@ -41,9 +41,9 @@ modified: "2026-09-28"
 
 **关键词**：They followed a clear path / the open casket / turn left to give their condolences
 
-**为什么这样写**：**作者用交通指示给一场葬礼画路线图，而这条路是"clear"的**——三个步骤（wait／stopped／turned）都用了同一个动作框架（沿着、停下、转弯），**唯一变化的是数字和方向**。**而 Sylvie 一次都没有走过这条路**（"She never approached the casket"）——**作者先给全场的动线，再单独把一个人从这条线里抠出来。**
+**为什么这样写**：**作者用交通指示给一场葬礼画路线图，而这条路是"clear"的**——三个步骤（wait／stopped／turned）都用了同一个动作框架（沿着、停下、转弯），**唯一变化的是数字和方向**。**而 Sylvie 一次都没有走过这条路**（"Sylvie never approached the casket."）——**作者先给全场的动线，再单独把一个人从这条线里抠出来。**
 
-**读者视角提示**：**注意这条路线和本章开头的说法**——"A setting where weeping was acceptable"（在一个允许哭泣的场合）——**作者先定义了场地规则，再画出所有人遵守的路线，而 Sylvie 是唯一一个不进场的人。**
+**读者视角提示**：**注意这条路线和本章开头的说法**——"In a setting where weeping was acceptable, they would take their opportunity."（在一个允许哭泣的场合）——**作者先定义了场地规则，再画出所有人遵守的路线，而 Sylvie 是唯一一个不进场的人。**
 
 > **原句 4:** "Several times, William wrote: What am I doing? Why am I doing this? Who am I?"
 
@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这一段把 ch03 的 Sylvie 和本章的 Sylvie 叠在一起**——ch03 她的愿望是"成为整个世界"（become the entire world），本章她的求职启事是"用干活换一个床位"（I will do chores in exchange for a bed）。**而整张告示是用第三人称写的**（"Please find Assistant Librarian Sylvie"——"请找图书馆助理西尔维"）——**一个刚刚被亲妈赶出家门的人，**在公告板上**为自己写了一份招聘启事。** 三个问号、两个"需要"、一个"请"——**全是格式，全没有一句"我很难过"。**
 
-**读者视角提示**：**而紧接的一句是 No one came near her, though.（然而没有人来找她。）**——**一张向全世界伸出的手，贴在一块专门贴这种手的板上，而没有人接。**（这跟本章那句"everyone Sylvie encountered seemed to sense that she was wearing death"是同一件事的两种写法：**她身上带着死亡的气味，所以人人绕开。**）
+**读者视角提示**：**而紧接的一句是 No one came near her, though.（然而没有人来找她。）**——**一张向全世界伸出的手，贴在一块专门贴这种手的板上，而没有人接。**（这跟本章那句"Everyone Sylvie encountered seemed to sense that she was wearing death, so they gave her a wide berth."是同一件事的两种写法：**她身上带着死亡的气味，所以人人绕开。**）
 
 > **原句 6:** "Three of the four Padavano girls were left gripping the dining room table, as if everything were being pulled away from them at once."
 

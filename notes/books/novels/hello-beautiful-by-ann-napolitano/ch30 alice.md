@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：2008 年 11 月，纽约一家希腊餐厅——**Alice 等她妈妈，点了一杯又一杯的水**（"The waiter kept refilling Alice's water"）；**"我姐姐西尔维快死了"**；而最重的一句是 **"西尔维嫁给了你父亲"**（"Sylvie is married to your father."）——**Alice 试着改时态**（"'Sylvie was married to my father?'"），**句子结构在她自己手里塌了**（"The structure buckled under its own weight"）；她走到街上打给外婆，问出全书最冷静的一句：**"这个家到底有什么毛病？"**（"What is wrong with this family?"）
+- **一句话概括**：2008 年 11 月，纽约一家希腊餐厅——**Alice 等她妈妈，点了一杯又一杯的水**（"She tried a tense change: “Sylvie was married to my father?”"）；**"我姐姐西尔维快死了"**；而最重的一句是 **"西尔维嫁给了你父亲"**（"Sylvie is married to your father."）——**Alice 试着改时态**（"She tried a tense change: “Sylvie was married to my father?”"），**句子结构在她自己手里塌了**（"The structure buckled under its own weight"）；她走到街上打给外婆，问出全书最冷静的一句：**"这个家到底有什么毛病？"**（"What is wrong with this family?"）
 - **情感弧线位置**：**全书的信息爆炸点**。ch22 她已经说过"她对我做了一模一样的事"（"She's done the same with me."），**ch30 是她第一次知道自己父亲还活着**（"But my father is dead."）——**而作者让这条新闻和"姨妈要死了"在同一个句子里送达。**
 - **Tropes 兑现/反转**：① 家人会保护你／真相会保护你——**反转**：**所有知道真相的人都保护了她，而代价是她被保护了二十五年**（"She didn’t speak to me for a couple years because of that."）；② 你信任的人会对你说实话——**反转**：说谎的是她最信任的人，**而说真话的是她最不敢面对的人**（外祖母 Rose）；③ 追问会得到答案——**兑现并反转**：她问到了答案（"His name is William Waters, and he lives in Chicago."），**但她问的时机晚了二十五年**；④ 愤怒会爆发——**反转**：**这一章 Alice 一句愤怒的话都没有说出口**（"I could be mad at you. I could scream at you. But I won't."）——**作者让她的全部反应都发生在语法层面**（"too many errors for a copy editor to fix"）。
 - **人物弧线**：Alice：从 ch20 那个"我的妈妈总在收拾得一丝不苟，因为她里面不快乐"（ch22 里她对妈妈的评价）到本章**这个"发现自己二十五年都在一份未经核实的稿子里工作"的人**——**而作者给出的落点是一句职业病式的判断**（"She could see the weakness of what she'd been handed, and she could see her own weakness in accepting it as truth."）。**——所以 ch30 的真正主题是：一个以核实事实为业的人，第一次把核实的方法用在了自己身上。**
@@ -168,4 +168,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-**这一章是 Alice 的"核验"章，而它的全部内容是一个以核实事实为业的人，第一次把自己手里的材料拿来核实自己的来历。** ——**她听到"我姐姐快死了"（"My sister Sylvie is dying"），然后听到"西尔维嫁给了你父亲"（"Sylvie is married to your father."）；**她用编辑的本能去改时态**（"'Sylvie was married to my father?'"）**，而句子塌了**（"The structure buckled under its own weight"）；**她用四个词撤掉了她母亲整段解释**（"But my father is dead."）；**而她母亲给她的答案是全书最精密的一句谎**（"It felt like a kind of truth."）——**因为它有一个真的核；**所以 ch30 的真正落点是：她没有崩溃，她要了一份时间线**（"I need to know the timeline."）**，**而她母亲教她的那句"照顾好自己"，在这一章里第一次成为了一道她必须自己执行的命令。**
+**这一章是 Alice 的"核验"章，而它的全部内容是一个以核实事实为业的人，第一次把自己手里的材料拿来核实自己的来历。** ——**她听到"我姐姐快死了"（"She tried a tense change: “Sylvie was married to my father?”"），然后听到"西尔维嫁给了你父亲"（"Sylvie is married to your father."）；**她用编辑的本能去改时态**（"She tried a tense change: “Sylvie was married to my father?”"）**，而句子塌了**（"The structure buckled under its own weight"）；**她用四个词撤掉了她母亲整段解释**（"But my father is dead."）；**而她母亲给她的答案是全书最精密的一句谎**（"It felt like a kind of truth."）——**因为它有一个真的核；**所以 ch30 的真正落点是：她没有崩溃，她要了一份时间线**（"I need to know the timeline."）**，**而她母亲教她的那句"照顾好自己"，在这一章里第一次成为了一道她必须自己执行的命令。**

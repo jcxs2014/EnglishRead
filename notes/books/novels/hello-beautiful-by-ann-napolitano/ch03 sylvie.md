@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**转折／一个家族的完整性在这一章被亲手拆掉**。William 线在第一章建起的"新家庭"，本章第一次显出裂缝：Sylvie 用**第三人称的观察**看穿了它（他抓 Julia "像救生筏"），而结尾她坐在婚礼的红毯上、腿在台阶下面，人已经留在那个周末早晨的路沿上。
 - **Tropes 兑现/反转**：① 大姐系／长姐救赎——**反转到长姐是那个规划者而不是救助者**（"You should have thought of this solution yourself"）。② 妹妹早孕（少女性育）——**本书没有把它写成丑闻，写成一个必须由前辈放行才能发生的"第三个门"**（"If she and Julia had been marching in and out the same door, of course there was a chance that Emeline and Cecelia would find another exit"）。③ 婚礼上的白马王子——**反转为唯一有资格扮演"死亡角色"的妹妹坐在路沿上**（"I'm Beth today"）。
 - **人物弧线**：Sylvie：她是被全家当作"不够上进"的那个（拿不到奖学金、成绩 C 和 D、做社区大学），**而她最清楚自己在等谁**；本章她两次拒绝家族的语法——**不肯为爱扮成"漂亮女孩"，也不肯把恋爱当终点**——**代价是她成了唯一一个看见了结局而说不出话的人**。
-- **叙事手法**：第三人称限知贴 Sylvie；三个 `* * *` 段（图书馆／复学与占卜游戏／婚礼当天早上）；**用"路沿"这一具体位置承载她的静止**（"She felt welded to the curb"）。
+- **叙事手法**：第三人称限知贴 Sylvie；三个 `* * *` 段（图书馆／复学与占卜游戏／婚礼当天早上）；**用"路沿"这一具体位置承载她的静止**（"Sylvie felt welded to the curb."）。
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者把道德二选一写成两扇门，而 Sylvie 的整章动作就是推第三扇**。third（第三）这个数词承担了人物全部的道德主张：**她不主张第三种是好，她主张门本来就不止两扇**。**而"found and opened"两个动词的顺序重要——她先找到（凭阅读），再自己推开（不靠许可）**。这与 Julia 的"人生就是那条被规划好的直路"是同一段落的两端。
 
-**读者视角提示**：**这一句请和本章 Julia 那句对读**（"Dating is about getting dressed up and pretending…"——**Julia 用的正是"两扇门"里的另一扇，而她甚至不知道有第三扇**）。**两姐妹在同一个厨房里说出了同一件事的两半，只是互不知情。**
+**读者视角提示**：**这一句请和本章 Julia 那句对读**（"Dating is about getting dressed up and pretending you’re a pretty girl who thinks about nothing but marriage and babies."——**Julia 用的正是"两扇门"里的另一扇，而她甚至不知道有第三扇**）。**两姐妹在同一个厨房里说出了同一件事的两半，只是互不知情。**
 
 > **原句 2:** "Dating is about getting dressed up and pretending you’re a pretty girl who thinks about nothing but marriage and babies. I don’t think about those things, and it makes me sad to pretend to be something I’m not."
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**这一句请与本章那张"被一根横梁半遮住的桌子"并读**（原文：It was partially hidden from the front of the library by a structural beam）——**朱莉娅和威廉此刻坐的那张桌子、那个"部分被遮挡的隐私"，就是她未来婚房的图纸**。作者用一个物理细节提前交付了她的未来。
 
-> **原句 5:** "It was a strange contradiction, but despite her interest in love, weddings made her uncomfortable. They were too showy, too public. Deep love between two people was a private, wordless endeavor, and to place the lovers in fancy clothes in front of a crowd seemed antithetical to the nature of the thing."
+> **原句 5:** "She knew it was a strange contradiction, but despite her interest in love, weddings made her uncomfortable. They were too showy, too public. Deep love between two people was a private, wordless endeavor, and to place the lovers in fancy clothes in front of a crowd seemed antithetical to the nature of the thing."
 
 **中文理解**：这是个奇怪的矛盾——尽管她热爱爱情，婚礼却让她不适。它们太招摇、太空众。两个人之间的深爱是一种私密、无言的事业，把恋人穿上华服推到人群面前，与这件事的本质背道而驰。
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**全章的收束句，而它是三重分裂**：（一）太阳是外面的，人是里面的；（二）身体站在台前，脸上挂的是装上去的笑（affixed——**贴上去的，不是长出来的**）；（三）那个路沿既是真实的地点，也是她的心理位置。**而最后那个问句是全书第一次由某个主角提出的、真正关乎"来不及"的问题**——**它在婚礼当天提出，而答案在四年后才被 ch33 交出来。**
 
-**读者视角提示**：**请把这一句与本章最后那段路沿对话并读**：**"I'm Beth today."**（"我今天是贝丝。"）——**"One of us will be the first to die."**（"我们中间会有一个最先死。"）——**在满月白色婚纱的当天早上，最先"死"的那个角色已经自己坐到了路沿上。** 这是全章最冷的一次结构讽刺。
+**读者视角提示**：**请把这一句与本章最后那段路沿对话并读**：**"I'm Beth today."**（"我今天是贝丝。"）——**"One of us will be the first to die, they would take turns telling one another, and all four girls shuddered at the thought."**（"我们中间会有一个最先死。"）——**在满月白色婚纱的当天早上，最先"死"的那个角色已经自己坐到了路沿上。** 这是全章最冷的一次结构讽刺。
 
 ## 本章词汇
 

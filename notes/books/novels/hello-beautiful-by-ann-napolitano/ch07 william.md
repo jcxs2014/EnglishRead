@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**作者把"没事"这个词标成了 standard（标准答案）**——**不是说他撒谎，而是说这个词已经变成一个程序。** 紧接着作者解释了程序的两条理由：**"因为它能用"**（it functioned and allowed him to walk）与"**说疼不 manly"**（it seemed unmanly to admit that）——**而第二句后紧跟的是全书最短也最狠的一击**："And who cared? He no longer needed a pain-free knee."（**在乎干什么？他早就不需要一条不疼的膝盖了。**）**一个把"能走"当成"没事"的人，是已经用完了自己身体的人。**
 
-**读者视角提示**：**注意这段话在结构上是一次平移**——**"Fine"这个词会被同一个作者在四十年后交给另一个男人**（ch 后面 William 对 Julia 说"I'm fine, everything is fine"）——**而那时"fine"这个词要花掉整整一章才被拆穿。** 一个"标准回答"的成本，会在读者身上复利。
+**读者视角提示**：**注意这段话在结构上是一次平移**——**"Fine"这个词会被同一个作者在四十年后交给另一个男人**（ch 后面 William 对 Julia 说"now, with Charlie’s death and Julia growing and Sylvie on his couch, everything felt uncertain to William."）——**而那时"fine"这个词要花掉整整一章才被拆穿。** 一个"标准回答"的成本，会在读者身上复利。
 
 > **原句 2:** "The book was terrible; he was terrible."
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**把这句话和 William 自己的句法对比**——他从来不说"I have concerns about"，他只会说"Fine"。**一个敢说出担心的人，和一个只肯给出标准答案的人，差别就在这个动词的位置。** 而 ch07 全章的转折点，就是 William 最终说出了 Arash 已经在说的那件事：他有他要担心的人。
 
-> **原句 4:** "“That would be fine,” Arash said, “I could use your help.”"
+> **原句 4:** "“That would be fine,” Arash said. “I could use your help.”"
 
 **中文理解**："**那当然可以**，"阿雷什说，"**我正需要你的帮忙。**"
 

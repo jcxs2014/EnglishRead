@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**破折号里那个同位语（his self）是他自己加的解释，而作者让它紧贴 insides——意思是"里面"和"自我"是同一个东西**。而"收缩到铅笔的粗细"接的是 ch01 那句"narrowed to a pencil"式的自我缩窄（他练球时把自己活成一张蓝图）；**"所有颜色和线条都消失"是铅笔画的反义**——**他变成了一支铅笔，却再也画不出东西。**
 
-**读者视角提示**：**这一句要和他出院后"the pencil point inside him softened"并读**：他恢复意识的方式是"笔尖变软"——**全章他都是一支笔，而判断他是否活着的标准是笔尖有没有被削过。**
+**读者视角提示**：**这一句要和他出院后"The pencil point inside him softened, and he was able to gather enough air to breathe."并读**：他恢复意识的方式是"笔尖变软"——**全章他都是一支笔，而判断他是否活着的标准是笔尖有没有被削过。**
 
 > **原句 3:** "You can stay in basketball, you know. You can coach or be a trainer or play another role."
 

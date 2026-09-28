@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **读者视角提示**：**把这一句和 ch07 那个"William 的书稿是关于一根线头"的判断并读**——**William 的书没有线头，Julia 的河床有。** 两个人在同一段婚姻里，一个被告知"你没有一个结构"，一个被告知"你早就是一个结构，只是还没被填满"。
 
-> **原句 5:** "“I never needed you. Did you know that? I thought I needed a husband, but I don’t actually need anyone.”"
+> **原句 5:** "She beamed at William and thought: I never needed you. Did you know that? I thought I needed a husband, but I don’t actually need anyone."
 
 **中文理解**："**我从来不需要你。你知道吗？我以为我需要一个丈夫，但其实我谁都不需要。**"
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对 Julia 这个人物下的一次判决，而作者把它放在一个婴儿的鼾声里说**——**房间里最柔软的声音，衬托着最刚硬的一句话（两个都要）。** 而 she said now（她现在说）里那个 now 很关键：**这是她在 Charlie 死后第一次"对他说"——她在对着一个死人许诺**，而这个诺言的两种"都"是：**当母亲 + 当学者/生意人。**（而本章作者刚刚在前面只给了她一种可能——**她想回学校读 PhD（ organizational psychology）或者去商学院，而她同样想要"照顾孩子 + 赚钱 + 买房子 + 送孩子上私立学校"，这两者在 ch08 前半是"一个计划"的**。）**而"both"这个词就是她后半生的整个病历。**
 
-**读者视角提示**：**注意"我两个都要"这句话的前一句是什么**——她刚想明白自己为什么想念父亲：**因为父亲是唯一一个在她之前就看见过她能力的人**（Her father had seen her power—understood its scope—before she had.）——**而 Charlie 对她的希望是"看着她飞"，不是"看她结婚"**（"he'd seen her potential and wanted to watch her soar"）。**所以"I can do both"不是乐观，是一个女儿在对父亲做一个迟到的、也可能是错的保证。**
+**读者视角提示**：**注意"我两个都要"这句话的前一句是什么**——她刚想明白自己为什么想念父亲：**因为父亲是唯一一个在她之前就看见过她能力的人**（Her father had seen her power—understood its scope—before she had.）——**而 Charlie 对她的希望是"看着她飞"，不是"看她结婚"**（"He’d seen her potential and wanted to watch her soar, not marry and make a home."）。**所以"I can do both"不是乐观，是一个女儿在对父亲做一个迟到的、也可能是错的保证。**
 
 ## 本章词汇
 

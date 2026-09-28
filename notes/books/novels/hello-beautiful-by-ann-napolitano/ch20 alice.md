@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**从"没有父亲"到"有一个父亲的死亡"，再到"没有一个家"**。ch18 里 Julia 把一个吻和一段叛徒留在纽约，而 ch20 让读者从**孩子的视角**看到这件事的物理后果：**四本相册、四个女佣、一个从不出现在墙上的家族。** **所以 ch20 是全书最安静也最沉的一章：它的主线动作是"调查"，而它的结论是"调查不到"。**
 - **Tropes 兑现/反转**：① 瞒孩子一个重大真相／保护性谎言——**兑现并反转**：Julia 说的是**真话（他死了）**，而真话本身成为一个新谎言（他没死，他只是不要你）；② 单亲妈妈的坚强——**反转为：Alice 认出了这份坚强的代价是"没有备份系统"**（no backup system）；③ 孩子天生好奇——**兑现为一种近乎医疗的执念**（"this was important research, with life-or-death consequences"）；④ 家族和解／根脉相连——**反转：Alice 发现"如果我有更多家人，我会更安全"，而这条推理是对的——她确实需要，而她一个都联系不上。**
 - **人物弧线**：Alice：从"妈妈说什么就是什么"到**"我需要知道，而且我要自己做这个研究"**——**而作者用了一个极其冷静的转变点：身高。** **她说"我的身体在把我从童年、从妈妈身边带走"（her body was galloping her away from childhood and away from her mother），而紧接着她看见了母亲的头顶——"我第一次明白，妈妈也只是个女人"（her mother was just a woman）。** **所以 ch20 的转折不是心理的，是解剖学的：当孩子长得比妈妈高，"妈妈"这个概念就塌了。**
-- **叙事手法**：第三人称限知贴 Alice；三个 `* * *`（1988–1991 / 三年级那堂课 / 中学生长高阶段）；**两条埋线**：① **那些旧照片**（"a photo of the four sisters with their arms around one another's shoulders"）——**而作者让 Alice 在一张照片里"scan looking for a man who resembled her"，结果"所有人看起来都像 Padavano"**；② **"Anemie?"** ——**Alice 每天早上问的关于阿姨的那个词，ch16 里 Emeline 说过自己六岁时叫不出 "Aunt Emeline"**（"Anemie"）——**所以全书用这个词完成了一次四代人的母亲—女儿对称**。
+- **叙事手法**：第三人称限知贴 Alice；三个 `* * *`（1988–1991 / 三年级那堂课 / 中学生长高阶段）；**两条埋线**：① **那些旧照片**（"a photo of the four sisters with their arms around one another's shoulders"）——**而作者让 Alice 在一张照片里"Alice scanned the photo, looking for a man who resembled her;"，结果"所有人看起来都像 Padavano"**；② **"Anemie?"** ——**Alice 每天早上问的关于阿姨的那个词，ch16 里 Emeline 说过自己六岁时叫不出 "Aunt Emeline"**（"Anemie"）——**所以全书用这个词完成了一次四代人的母亲—女儿对称**。
 - **本笔记的跨章引用说明**：本章引语一律取自 ch20 原文本；分析中提到的 ch18、ch16 事件为显式标注的分析性引用，不作本章引语。
 
 ## 精读
@@ -24,7 +24,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全章的起点，而它的技术是把两句话塞进一句话里**（tell the truth → he died）。**注意"去年"（last year）这个时间词：父亲不是今天死的，是去年死的，而 Julia 选择了今天才说**——**所以这句话的真实内容是"我瞒了你一年"，而她用的句式是"你足够大了"，把一个决定包装成了一个里程碑。** ——**而 last year 也解释了整个房间的细节**（braids、mustard-colored corduroy skirt、Cheerios 加一勺糖）：**母亲挑了一个完全普通的早晨来放一颗炸弹，而那个早晨的正常程度正是炸弹能落下来的原因。** **——所以这一句是 ch20 的结构原则：重大真相只在小事的缝隙里出现。**
 
-**读者视角提示**：**注意 Alice 的反应只有两个字**（"Oh."），**然后她把发麻的手压在腿下面**（"Her hands felt tingly, so she tucked them underneath her legs."）——**而作者紧接着写了一句极冷的观察**（"She noticed that her mother didn’t look sad."）。**这一句是全章最重要的伏笔**：**一个宣布丈夫死讯的母亲，脸上没有悲伤；而五岁的 Alice 注意到了这件事。** **所以 ch20 的第一个转折不是"她知道了父亲死了"，是"她发现母亲在说起父亲时并不难过"**——而这个观察将在她十三岁翻抽屉时再次出现（"a letter tells you a lot about the person who wrote it"这个方向的追问）。
+**读者视角提示**：**注意 Alice 的反应只有两个字**（"She rarely thought about the fact that she had aunts, living in another city."），**然后她把发麻的手压在腿下面**（"Her hands felt tingly, so she tucked them underneath her legs."）——**而作者紧接着写了一句极冷的观察**（"She noticed that her mother didn’t look sad."）。**这一句是全章最重要的伏笔**：**一个宣布丈夫死讯的母亲，脸上没有悲伤；而五岁的 Alice 注意到了这件事。** **所以 ch20 的第一个转折不是"她知道了父亲死了"，是"她发现母亲在说起父亲时并不难过"**——而这个观察将在她十三岁翻抽屉时再次出现（"She rarely thought about the fact that she had aunts, living in another city."这个方向的追问）。
 
 > **原句 2:** "In a way, it was like her mother had handed her a father and then taken him away in one sentence."
 
