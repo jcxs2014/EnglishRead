@@ -9,7 +9,10 @@
 
 行为:
   - 写 frontmatter（状态: 未读 + modified: 首 commit 日期）与全部 H2/H3 骨架；
-  - 立刻调用 inject_by_para 把引语按坐标逐字注入（fail-closed，伪造则退出码 2 不落文件）；
+  - 立刻调用 inject_by_para 把引语按坐标逐字注入；**注入失败时不保留半成品 md**
+    （⚠️ 2026-09-29 修正：原实现先落盘再注入，注入失败退出 2 却把带 `«Q1»` 占位符的
+      半成品留在磁盘上——与本 docstring 宣称的「不落文件」矛盾，且半成品会被后续
+      rename/commit 当成正常章节。实测 ch47 首次生成失败后留下 `ch47 chapter 46.md`）；
   - 本章词汇小节留空（随后由 build_vocab_section.py 填）。
 
 ⚠️ 五子项／四子项里的**英文必须由分析者从 text/ 复制**，本脚本不生成任何英文。
@@ -85,5 +88,9 @@ if specs:
     sys.stdout.write(r.stdout)
     sys.stderr.write(r.stderr)
     if r.returncode != 0:
+        # 注入失败 ⇒ 删掉半成品再退出。留着带 `«Q1»` 占位符的 md 会被后续
+        # rename_chapters / commit 当成正常章节，且占位符永远不会被填上。
+        fname.unlink(missing_ok=True)
+        print(f"🧹 已删除半成品 {fname.name}（注入失败，不留占位符文件）")
         sys.exit(r.returncode)
 print(f"✅ 已生成 {fname.name}（{len(specs)} 条引语逐字注入）")

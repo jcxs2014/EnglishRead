@@ -48,6 +48,14 @@ def sents(par: str):
         # 3 p.m. / U.S. / e.g. 这类「单字母.」缩写同理
         if re.search(r"(?:^|\W)[A-Za-z](?:\.[A-Za-z])?\.$", text[:m.start() + 1]):
             continue
+        # ⚠️ 2026-09-29 修正（第二类 bug，ch37-39 批次 3 处踩中）：
+        # 原文的省略号 ` . . . ` 本身就是「句点+空格」⇒ `[.?!]\s+` 每逢省略号就把句子腰斩
+        # ⇒ `+N` 连取少取片段，产出**逐字正确但短于它支撑的分析**的截短引语
+        # （六道门禁结构上看不见：verify_quotes 100% 绿）。
+        # 判据：切点前后构成 `. . .` / `…` 序列 ⇒ 不是句边界。
+        before = text[max(0, m.start() - 4):m.start() + 1]
+        after = text[m.start():m.end() + 3]
+        if re.search(r"\.(\s*\.){2,}$", before) or re.match(r"^(\.\s*){2,}", after):
             continue
         piece = text[start:m.start() + 1].strip()
         if piece:

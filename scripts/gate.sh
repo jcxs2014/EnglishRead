@@ -40,7 +40,12 @@ done
 [ $fail -eq 0 ] && echo "（逐章归属：全部 X/X in 本章 text）"
 
 echo; echo "=== ⑧ 块覆盖对账（每块都进 verify_quotes）==="
-python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -E "✅|❌|⚠️" | tail -2
+# ⚠️ 2026-09-29 修正：原写 `| tail -2` ⇒ **阻断型 ❌ 被藏掉**（ch37-39 批次实测：
+# 实际有 ch39、ch45 两条 ❌ [被丢]，gate 只显示两条 ⚠️，exit 仍为 0）。
+# 门禁汇总的唯一硬要求：**阻断型不许被任何截断隐藏**。
+python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -E "^(✅|❌|⚠️) |^❌ " | head -20
+BLOCK8=$(python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -c "^❌ " || true)
+[ "$BLOCK8" -gt 0 ] && echo "⛔ 阻断型：$BLOCK8 个文件有块未进 verify_quotes 校验"
 
 echo; echo "=== ⑨ 导航/总结层英文核对（六道门禁盲区）==="
 python3 scripts/check_nav_layer.py "$B" --per-chapter 2>&1 | tail -1
