@@ -12,7 +12,7 @@ source_text: ch14
 
 **情感弧线位置**：Grace 视角第二段的终点，也是全书第一次让「母亲」这个位置从上方落到平处。全章 Grace 只说三句话，其余全是 Durka 在讲——作者用这个结构把权威从「Durka 教规矩」改成「Durka 交底」。弧线位置在最高点的阴影里：她刚拿到枪、团队和楼（ch13），这一章告诉她这一切的真正来路，以及来路里的人是怎么一步步走到那儿的。
 
-**Tropes 兑现/反转**：「黑道女王」的诞生被写成一份病历：Cancer、three broken ribs、dreading the mirror.「落难贵妇被组织收留」被反转成收留者的挑衅——「You look like shit. Pareces que caíste bajo un tren.」「女人被男性神祇拯救」被彻底否掉：Durga 那个塑像是 Dr. Gupta 给的，而她后来发现「no era pendeja」的收留者就是那个自己。「苦大仇深的复仇」被反转成纯算计：Durka 收她是因为「she knew I had kids」，而且她算准了「I wouldn’t be leading the call for who killed my husband」。
+**Tropes 兑现/反转**：「黑道女王」的诞生被写成一份病历：Cancer、three broken ribs、still looking in that mirror in Florida.「落难贵妇被组织收留」被反转成收留者的挑衅——「You look like shit. Pareces que caíste bajo un tren.」「女人被男性神祇拯救」被彻底否掉：Durga 那个塑像是 Dr. Gupta 给的，而她后来发现「no era pendeja」的收留者就是那个自己。「苦大仇深的复仇」被反转成纯算计：Durka 收她是因为「she knew I had kids」，而且她算准了「I wouldn’t be leading the call for who killed my husband」。
 
 **人物弧线**：Grace 在本章第一次以成人身份被托付秘密（I’m going to say some things to you now and I want you to keep yourself together / Toro does not know），而她的回应是作者那句最冷的话：We had gotten lost following instructions when questions, and answers we didn't want, were what we needed most。她听完了全部真相，然后发现自己听错了二十年。Durka 也在本章完成了她自己的转变：她用一整章告诉女儿「别问不想听的答案」，而她这一生问过最多问题的人恰恰是 Grace。
 
