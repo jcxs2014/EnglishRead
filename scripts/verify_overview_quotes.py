@@ -78,12 +78,31 @@ def main(book_dir: str, epub_path: str):
 
     full = flat_alpha(epub_flat_text(epub_path))
     total_ok = total = clean = bad = 0
+    nfiles = 0
+    gap = []   # 口径外：有像引语的 > 行却提取到 0 条
+    bare = []  # 无引语：确实没有可核的引语行（正常）
     for f in sorted(glob.glob(os.path.join(book_dir, "00*.md"))):
         name = os.path.basename(f)
+        nfiles += 1
         txt = open(f, encoding="utf-8").read()
         quotes = extract_quotes(txt)
         if not quotes:
-            print(f"{name}: ⚠️ 未提取到编号引语（请人工核对格式）")
+            # 2026-09-29 修正：原先一律「⚠️ 未提取到编号引语」后 `continue`，
+            # 而文件既不计入 clean 也不计入 bad ⇒ 汇总行照样打
+            # 「完全干净文件 1/1」——**3 篇总览只核了 1 篇却显示 100%**（假绿，
+            # 正是 8.5c「死代码报 0」形态）。现在按「> 行里有没有像引语的东西」分两类：
+            #   · 有 ⇒ 工具口径外（裸 `> "…"` 格式不被 extract_quotes 收）⇒ 计入覆盖缺口
+            #   · 无 ⇒ 该文件本就没有引语（如 00_概述 的作者/体裁元数据行）⇒ 正常跳过
+            looks = [ln for ln in txt.splitlines()
+                     if ln.lstrip().startswith(">") and '"' in ln
+                     and len(flat_alpha(ln)) >= 15]
+            if looks:
+                gap.append((name, looks[0].strip()[:90]))
+                print(f"{name}: ❌ 覆盖缺口——{len(looks)} 条引语样 > 行，"
+                      f"但 extract_quotes 提取到 0 条（口径外，须人判）")
+            else:
+                bare.append(name)
+                print(f"{name}: ➖ 无引语行（正常，非门禁项）")
             continue
         ok = 0
         miss = []
@@ -110,8 +129,17 @@ def main(book_dir: str, epub_path: str):
             print(f"{name}: {ok}/{len(quotes)} ❌")
             for m in miss[:3]:
                 print(f"    ✗ {m}...")
-    print(f"\n=== 总览引文 {total_ok}/{total} 可核实（{round(total_ok/total*100) if total else 0}%）；完全干净文件 {clean}/{clean+bad} ===")
-    sys.exit(0 if bad == 0 and total > 0 else 1)
+    print(f"\n=== 总览引文 {total_ok}/{total} 可核实（{round(total_ok/total*100) if total else 0}%）；"
+          f"完全干净文件 {clean}/{clean+bad}；已核覆盖 {clean+bad}/{nfiles} 篇"
+          f"（无引语 {len(bare)} · **口径外 {len(gap)}**）===")
+    for n, ex in gap:
+        print(f"    ⚠️ 口径外 {n}: {ex}")
+    if gap:
+        print("⚠️ 「口径外」= 工具收不到该文件的引语格式 ⇒ 这些引语**未经任何核验**，"
+              "不是「已核且干净」。按 8.5c 先怀疑工具：确认格式后扩展 extract_quotes，"
+              "或人工逐条核。")
+    # 退出码：内容 ❌（bad）或覆盖缺口（gap）都算不通过
+    sys.exit(0 if bad == 0 and total > 0 and not gap else 1)
 
 if __name__ == "__main__":
     main(sys.argv[1], sys.argv[2])

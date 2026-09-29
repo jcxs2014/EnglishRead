@@ -98,3 +98,21 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
 print(f"=== 空段扫描：{bad} 处 ===")
 sys.exit(2 if bad else 0)
 PY
+
+# ⑭⑮ 2026-09-29 增补：原 13 项**漏了总览三篇**，而 AGENTS 第 3 条明写「总览文件
+# 不在 verify_quotes 主口径内，须单独加跑 verify_overview_quotes」⇒ 一本有总览的书
+# 跑完原 gate.sh 全绿，**总览引语从未被校验**（同型实测：概述 5 条 0 命中而门禁全绿）。
+echo; echo "=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）==="
+OV=$(ls "$B"/00_*.md 2>/dev/null | wc -l | tr -d ' ')
+if [ "$OV" -gt 0 ]; then
+  if [ -n "$EPUB" ]; then
+    # 签名是「书目录 + epub」两参，它自己扫该目录下的 00*.md——不是单文件
+    python3 scripts/verify_overview_quotes.py "$B" "$EPUB" 2>&1 | tail -6
+  else echo "❓ 无 epub，无法判定（总览 ${OV} 篇）"; fi
+else echo "（无总览三篇，本项不适用）"; fi
+
+echo; echo "=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）==="
+if [ "$OV" -gt 0 ]; then
+  [ -n "$EPUB" ] && python3 scripts/check_overview_full.py "$B" "$EPUB" 2>&1 | tail -1 \
+                || echo "❓ 需 epub，本项不判定"
+else echo "（无总览三篇，本项不适用）"; fi
