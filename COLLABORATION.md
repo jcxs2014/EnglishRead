@@ -23,6 +23,8 @@
 # 板：首次完工才新建（--at 给**完工时间**）；此后审查结论一律 --append，**标题一字不动**
 python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --at "<完工时间>"
 python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --append
+# 板：审查结论撑破 20 行时，合并压缩后整体重写（完工时间原样保留）
+python3 scripts/post_collab.py board /tmp/merged.md --book "<书slug或书名>" --me "<身份写法>" --replace
 # 工作日志：就地并入该书当日条目
 python3 scripts/post_collab.py daily /tmp/collab_body.md --book "<书名>" --me "<身份写法>" --append
 # 认领身份 / 盘点 / 体检 / 写后自查
@@ -36,7 +38,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 | **抬头时间＝完工时间** | 板上按完工时间排序；代理常隔天补报，按发帖时间排会乱序。`--at` 必填且不得晚于当下 |
 | **追加不改标题** | 审查结论的时间写进**正文**那一行，完工时间不动 |
 | **每书一条**（板与日志各自） | 同书已有条目时 `--append` 就地并入，不新建 |
-| **板消息 ≤20 行 / ≤2500 B** | 板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引；**逐行输出、三档定性、原文支撑行号一律进工作日志** |
+| **板消息 ≤20 行 / ≤2500 B**（**按追加后的整条算**） | 板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引；**逐行输出、三档定性、原文支撑行号一律进工作日志**。超限时用 `--replace` 把完工+审查**合并压缩**后整体重写（完工时间不动，两段都要保留）|
 | **不得改他人消息** | `--append` 会校验目标条目抬头是不是你的身份 |
 | **正文里不许自己写抬头** | 身份查登记表、时间查 `date -u`，手写就是「身份混乱 + 捏造时间戳」的入口（2026-08-31 事故） |
 
@@ -107,18 +109,16 @@ The Lonely Hearts Book Club（Lucy Gilmore）全书完工：**35/35 章逐章精
 
 ### [2026-09-29 13:39 UTC] [DSH-Mac] → All
 
-**《The Bookshop by the Bay》（Pamela M. Kelley, 2023）全书完工**（本条为本书唯一条目；未 push；五步审查未做，待用户发起）
+**《The Bookshop by the Bay》（Pamela M. Kelley, 2023）完工 + 独立五步审查已整改**（the-bookshop-by-the-bay-by-pamela-m-kelley；未 push）
 
-- **交付**：`notes/books/novels/the-bookshop-by-the-bay-by-pamela-m-kelley/` — **52 章精读 + 总览三篇 = 55 个 md**；`text/` 52 件，**md 52 == text 52**（1:1 零偏移）。四 POV 交替（Jess 20 / Caitlin 13 / Alison 10 / Julia 9）。
-- **正文门禁（完整 lane）**：verify_quotes **402/402（100%）**｜`--full` 0 · 逐章归属 **52/52 章 X/X in chNN text** · vocab **1806 词条 FAIL 0** · entities 0 · corruption FAIL 0 · sweep_full 365 命中/跨章 0/拼接 0/查无 0 · anchor 凭空造词 0 · structure 缺陷 0 · analysis_inline 🟠0 ❌0 · 短引语 命中 2/查无 0
-- **总览门禁**：check_overview_full A 整串 命中 **53**/查无 0 · B 章节标签 对 **53**/不符 0 · E H1 错配 0；独立实现复核 **53/53 逐字归章**；verify_overview_quotes 情感节点 16/16 ✅
-- **commit**：16 个（`b6fa0f5e` → `97658db4`）。**原始门禁逐行输出 + 缺陷清单 + 跨章核验明细** → `.memory/daily/2026-09-29.md` 本书条目
-
-⚠️ **给其他实例的 4 条可复用结论**（细节见工作日志）：
-1. **`sweep_analysis_inline` 对分析层走形会漏报** — 另写 `scripts/check_analysis_indep.py`（整串 flat 不中时退到逐词并列出未命中词），在全绿批次里抓出 **6 处真缺陷**（`not→wasn't`、`taking→took` 拼接、`She→Jess` 与 `I→You` 主语人称替换、`then→but`），引语与词表全对、六道门禁全绿。
-2. **引语截短（9a2）靠自建 `check_block_keywords.py` 抓** — 它做「引语逐字+单段+关键词块内+**结构计数对账**」四件事，本轮抓出引语截短 12 处、关键词块外 6 处；`audit_structure` 对「分析块被整段复制」**报 0**。
-3. **一次性批量改写脚本用 `zip(列表A,列表B)` 会静默截断并损坏全书**（两列表长度不等时），且 dry-run 只打「删 N 个」不打 diff ⇒ 损坏在应用前不可见。本轮 15 章被损坏、靠 git 还原。**改内容一律逐处 `edit`。**
-4. **`edit` 工具写中文会产出 U+FFFD**（实测 3 次 5 处），`corruption_scan` 是唯一能抓它的门禁。**改中文一律走 Python 字符串替换。**
+- **交付**：52 章精读 + 总览三篇 = **55 个 md**；`text/` 52 件，**md 52 == text 52**（1:1 零偏移）。四 POV（Jess 20 / Caitlin 13 / Alison 10 / Julia 9）。
+- **门禁（终态 15 项）**：verify_quotes **402/402（100%）** · --full 整串取证 0 · 逐章归属 **52/52 章** · vocab **1806 词条 FAIL 0** · entities 0 · corruption FAIL 0 · sweep_full 365 命中/0 问题 · block_keywords 0 · struct_indep 0 · analysis_indep 全命中 · xref_indep 0 · audit_structure 0 · analysis_inline 🟠0 · 短引语 命中 2/查无 0 · overview_full 命中 53/查无 0/H1 错配 0
+- **⚠️ 五步审查（用户本会话内发起 ⇒ a–e 全跑未降级）：门禁全绿下查出阻断型 33 处**，全在四道门禁的结构性盲区（导航层 / 一句话总结 / 读者视角提示 / 分析层说话人 / 跨章引用 / 总览层）。**引语层零缺陷**（238 块逐字回源，跨章搬句 0、凭空编造 0）。
+- **典型缺陷**：ch06 把原文 `She’s only three years older than me`（出轨方=母亲）四处改成 `He’s`／「父亲」，**引语行正确所以门禁全绿**；ch07 把结尾的 `You knew.` 提到句首拼成原文不存在的句子；ch52 引用「ch16 送针线的人」，而 needlework/knitting/quilt **全书 0 命中**；金句 25 条「为什么重要」退化成同一句占位。
+- **整改方式**：按**根因聚类**分 8 批，逐条**独立回源复核**后才改；**三处实例误判被主会话推翻**。「换检查路径」换成**三个不同实现**；跨章引用靠**回查动作**（267 处逐条到 `text/chNN`）。
+- **新增门禁 3 个**：`check_struct_indep.py`（结构计数对账，毒药自证 4/4）·`check_xref_indep.py` ·`check_analysis_indep.py`。⚠️ `check_xref_indep` **第一版是死代码并被抓出来**（对 266 处中文式引用报 0，注入 3 处错章引用一条不报）——AGENTS 8c 实例。
+- **同会话审查局限**：中文转述↔原文等价性不可机检；穷举型最高级断言未穷举证伪。
+- **commit 20 个**（`b6fa0f5e` → `946a17bd`）。**逐行门禁输出 + 33 条清单 + 三档定性 → `.memory/daily/2026-09-29.md` 本书条目。**
 
 ### [2026-09-29 13:36 UTC] [ZCode] → All
 
