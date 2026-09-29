@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "He laughed. “Thanks. I thought it was appropriate. Lightens the mood a bit.” In recent years, Chatham had become so known for great white sharks that sightseeing boats took tourists out by the jetties where the seals sunned themselves. Sharks often feasted on these seals, so the hope was to catch a glimpse of a shark in the area, too—and sometimes, they did."
 
-**中文理解**「谢谢。我觉得这条挺合适的，能让气氛轻松一点。」他笑着说。近些年来 Chatham 因为大白鲨实在太出名，观光船会把游客带到海豹晒太阳的那几道防波堤外面；鲨鱼常常拿这些海豹当大餐，所以大家也盼着能在那一带瞥见一条鲨鱼——而有时候，还真能看见。
+**中文理解**：「谢谢。我觉得这条挺合适的，能让气氛轻松一点。」他笑着说。近些年来 Chatham 因为大白鲨实在太出名，观光船会把游客带到海豹晒太阳的那几道防波堤外面；鲨鱼常常拿这些海豹当大餐，所以大家也盼着能在那一带瞥见一条鲨鱼——而有时候，还真能看见。
 
 **关键词**：I thought it was appropriate；Lightens the mood a bit；sightseeing boats；the jetties；a glimpse of a shark
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Who is that man you’re with? Is he your boyfriend?” Lavinia asked casually."
 
-**中文理解**「跟你一起来的那个男人是谁？他是你男朋友吗？」Lavinia 随口问道。
+**中文理解**：「跟你一起来的那个男人是谁？他是你男朋友吗？」Lavinia 随口问道。
 
 **关键词**：Who is that man you’re with；Is he your boyfriend；asked casually
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Oh, so this is a work thing? He’s quite handsome.” Lavinia turned for another look, and Alison followed her gaze to where Jim was deep in conversation with two men that Alison didn’t recognize. When he laughed and smiled, she saw him through their eyes—and Jim really did look good tonight. Well, he always did. She also felt a pang of jealousy that surprised her. She and Jim most definitely weren’t dating, but she realized that she did not like the idea of him dating Lavinia, or anyone else, at all."
 
-**中文理解**「哦，那就是工作上的事？他可真够帅的。」Lavinia 又回头看了一眼，Alison 顺着她的目光望去，看见 Jim 正和两个她不认识的男人聊得投入。他笑起来的时候，她借着那两个人的眼睛打量了他——Jim 今晚确实好看。不过他一直都不差。她心里还猛地一酸，而这一下连她自己都吓了一跳。她和 Jim 绝对没有在交往，可她发现，自己根本不想他和 Lavinia 在一起，或者和任何人在一起。
+**中文理解**：「哦，那就是工作上的事？他可真够帅的。」Lavinia 又回头看了一眼，Alison 顺着她的目光望去，看见 Jim 正和两个她不认识的男人聊得投入。他笑起来的时候，她借着那两个人的眼睛打量了他——Jim 今晚确实好看。不过他一直都不差。她心里还猛地一酸，而这一下连她自己都吓了一跳。她和 Jim 绝对没有在交往，可她发现，自己根本不想他和 Lavinia 在一起，或者和任何人在一起。
 
 **关键词**：this is a work thing；He’s quite handsome；she saw him through their eyes；a pang of jealousy that surprised her；she did not like the idea of him dating Lavinia, or anyone else, at all
 

@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“And this guy. He used to be in the band. Got too good for us,” Tim teased as someone walked over that Caitlin recognized. It was Jason, the plumber she’d met in the bookstore."
 
-**中文理解**「还有这位。他以前在这个乐队里。是嫌我们太菜了才走的，」Tim 玩笑地说。这时有个人朝他们走过来，Caitlin 认出来了——是 Jason，那个她曾在书店见过的管道工。
+**中文理解**：「还有这位。他以前在这个乐队里。是嫌我们太菜了才走的，」Tim 玩笑地说。这时有个人朝他们走过来，Caitlin 认出来了——是 Jason，那个她曾在书店见过的管道工。
 
 **关键词**：He used to be in the band；Got too good for us；Tim teased；someone walked over that Caitlin recognized；the plumber she’d met in the bookstore
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“It’s too bad you have to go back to Charleston. Jason is a catch and newly single.”"
 
-**中文理解**「你不能留在 Cape 真是可惜。Jason 是个绩优股，而且刚分手。」
+**中文理解**：「你不能留在 Cape 真是可惜。Jason 是个绩优股，而且刚分手。」
 
 **关键词**：too bad you have to go back to Charleston；Jason is a catch；newly single
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "I’ll probably sign on with a temp agency while I start a job search.”"
 
-**中文理解**「我大概会先挂到一家临时劳务公司，同时开始找工作。」
+**中文理解**：「我大概会先挂到一家临时劳务公司，同时开始找工作。」
 
 **关键词**：sign on with a temp agency；while I start a job search
 

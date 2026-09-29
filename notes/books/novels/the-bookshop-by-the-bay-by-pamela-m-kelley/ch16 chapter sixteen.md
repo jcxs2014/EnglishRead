@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“It’s not a bother. I spent most of my adult life managing that store. I want to make sure it does well—and I think it will be in good hands with the two of you, and Caitlin.”"
 
-**中文理解**「这不麻烦。我成年后大半辈子都在经营那家店。我想确保它会好起来——而且我觉得交到你俩和 Caitlin 手里，它会好。」
+**中文理解**：「这不麻烦。我成年后大半辈子都在经营那家店。我想确保它会好起来——而且我觉得交到你俩和 Caitlin 手里，它会好。」
 
 **关键词**：It’s not a bother；I spent most of my adult life managing that store；I want to make sure it does well；in good hands with the two of you, and Caitlin
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I think it might be a good idea. To show that we are under new ownership. What do you think of Mothers’ and Daughters’ bookstore?”"
 
-**中文理解**「我觉得也许是个好主意。可以表明我们换了新主人。叫『母亲与女儿书店』怎么样？」
+**中文理解**：「我觉得也许是个好主意。可以表明我们换了新主人。叫『母亲与女儿书店』怎么样？」
 
 **关键词**：it might be a good idea；under new ownership；What do you think of Mothers’ and Daughters’ bookstore
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Maybe we should hire a few more people,” Jess said. “Just to make sure we have plenty of coverage and in case some of these first hires don’t work out.”"
 
-**中文理解**「我猜我们应该再招几个人。让排班有足够的人手，万一这批人里有不合适呢。」
+**中文理解**：「我猜我们应该再招几个人。让排班有足够的人手，万一这批人里有不合适呢。」
 
 **关键词**：hire a few more people；plenty of coverage；in case some of these first hires don’t work out
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "A lot of people who came in were curiosity seekers—locals who wanted to check out the newly reopened store."
 
-**中文理解**「我知道这儿不缺人看，出于好奇会进来看看的都是本地人。」
+**中文理解**：「我知道这儿不缺人看，出于好奇会进来看看的都是本地人。」
 
 **关键词**：curiosity seekers；locals；the newly reopened store
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I have an idea,” Caitlin said. “How would you feel about doing some samples?”"
 
-**中文理解**「我有个主意。」Caitlin 说。「你觉得我们做点试吃怎么样？」——「试吃咖啡？」Jess 还不明白女儿指的是什么。
+**中文理解**：「我有个主意。」Caitlin 说。「你觉得我们做点试吃怎么样？」——「试吃咖啡？」Jess 还不明白女儿指的是什么。
 
 **关键词**：I have an idea；How would you feel about doing some samples
 

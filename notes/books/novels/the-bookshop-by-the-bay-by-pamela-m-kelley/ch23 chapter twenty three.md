@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "The condo was just like his pictures, neat and clean, and as Julia looked around she noticed that it barely looked lived-in."
 
-**中文理解**「这套公寓跟他照片里一模一样，整洁干净；Julia 四下看了看，注意到它几乎看不出有人住过。」
+**中文理解**：「这套公寓跟他照片里一模一样，整洁干净；Julia 四下看了看，注意到它几乎看不出有人住过。」
 
 **关键词**：just like his pictures；neat and clean；barely looked lived-in
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“It was a good decision coming here. The company is growing and I’m in a position to really make a difference. We’re getting ready to launch a new product, a super innovative, subscription software offering. And it’s cloud based, which gives us an edge in a crowded market. So, it’s been a lot of late nights.” He walked over and wrapped his arms around her and gave her a quick kiss. “I have missed you, though. It’s not easy being so far away. Have you missed me?” His eyes held hers and she felt her pulse race a bit."
 
-**中文理解**「来这里是对的。公司在扩张，我处在一个真能做出点事情的位置上。我们正准备上线一个新产品——一个超级创新的订阅制软件服务。它是云端的，这让我们在拥挤的市场里占到优势。所以，这阵子熬了很多个夜。」他走过来搂住她、快速亲了一下。「不过我确实想你了。隔着这么远不容易。你想我了吗？」他的目光落在她脸上，她的心跳快了几下。
+**中文理解**：「来这里是对的。公司在扩张，我处在一个真能做出点事情的位置上。我们正准备上线一个新产品——一个超级创新的订阅制软件服务。它是云端的，这让我们在拥挤的市场里占到优势。所以，这阵子熬了很多个夜。」他走过来搂住她、快速亲了一下。「不过我确实想你了。隔着这么远不容易。你想我了吗？」他的目光落在她脸上，她的心跳快了几下。
 
 **关键词**：I’m in a position to really make a difference；a super innovative, subscription software offering；it’s cloud based；an edge in a crowded market；a lot of late nights；I have missed you, though；Have you missed me；her pulse race a bit
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "He grinned. “I knew you’d miss me. Have you given any more thought to moving down here?”"
 
-**中文理解**「他咧嘴一笑。「我就知道你会想我。搬来这边的事，你有没有再考虑过？」」
+**中文理解**：「他咧嘴一笑。「我就知道你会想我。搬来这边的事，你有没有再考虑过？」」
 
 **关键词**：He grinned；I knew you’d miss me；Have you given any more thought to moving down here
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“You never know. So many really big names have been discovered here. Keith Urban, Taylor Swift, Garth Brooks. Did you know he’d decided to leave Nashville after being turned down by all the record labels? He played here after that, got a standing ovation, and someone from Capitol Records happened to be here. They pulled him down the hall and signed him on the spot. And the rest is history!”"
 
-**中文理解**「谁知道呢。从这里被发掘出来的大明星太多了——基特·厄班、泰勒·斯威夫特、加斯·布鲁克斯。你知道吗，他被所有唱片公司拒绝之后，本来已经打算离开纳什维尔了；后来他在这儿唱了一场，全场起立鼓掌，恰好唱片公司的人也在。他们把他拉到走廊里，当场就签下了他。剩下的就是历史了！」
+**中文理解**：「谁知道呢。从这里被发掘出来的大明星太多了——基特·厄班、泰勒·斯威夫特、加斯·布鲁克斯。你知道吗，他被所有唱片公司拒绝之后，本来已经打算离开纳什维尔了；后来他在这儿唱了一场，全场起立鼓掌，恰好唱片公司的人也在。他们把他拉到走廊里，当场就签下了他。剩下的就是历史了！」
 
 **关键词**：You never know；big names have been discovered here；turned down by all the record labels；got a standing ovation；signed him on the spot；the rest is history
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“The coffee shop is busier than ever. It’s still slow in the store. I know Jess is concerned and I am, too—I don’t want to see her lose money on this.”"
 
-**中文理解**「咖啡店比任何时候都忙。书店还是慢。Jess 担心这个，我也是——我不想看到她在这件事上亏钱。」
+**中文理解**：「咖啡店比任何时候都忙。书店还是慢。Jess 担心这个，我也是——我不想看到她在这件事上亏钱。」
 
 **关键词**：The coffee shop is busier than ever；It’s still slow in the store；Jess is concerned and I am, too；I don’t want to see her lose money on this
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Well, it looked like flirting to me. It just makes me wonder if this is what you do while I’m not around, too.”"
 
-**中文理解**「可在我看着就是勾引。这让我开始想，我不在的时候你是不是也这样。」
+**中文理解**：「可在我看着就是勾引。这让我开始想，我不在的时候你是不是也这样。」
 
 **关键词**：it looked like flirting to me；It just makes me wonder；this is what you do while I’m not around
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“I’m just tired. It’s going to be a long day. It was a fun visit, though. I’m glad I came and saw where you live and finally had a chance to visit Nashville.”"
 
-**中文理解**「我只是累了。今天会很长。不过这趟玩得挺开心的。我很高兴自己来了，看到了你住的地方，也终于有机会来纳什维尔一趟。」
+**中文理解**：「我只是累了。今天会很长。不过这趟玩得挺开心的。我很高兴自己来了，看到了你住的地方，也终于有机会来纳什维尔一趟。」
 
 **关键词**：I’m just tired；It was a fun visit, though；I’m glad I came；finally had a chance to visit Nashville
 

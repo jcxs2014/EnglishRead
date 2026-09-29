@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "Got in last night. Will stop in the bookstore around noon to have a look around. Would appreciate if you could sit down with me for lunch or coffee so we can discuss."
 
-**中文理解**「昨晚到的。中午左右会到书店转一圈。如果你能抽点时间和我坐下来吃个午饭或者喝杯咖啡以便我们把事情谈一谈，那就太好了。」
+**中文理解**：「昨晚到的。中午左右会到书店转一圈。如果你能抽点时间和我坐下来吃个午饭或者喝杯咖啡以便我们把事情谈一谈，那就太好了。」
 
 **关键词**：Got in last night；Will stop in the bookstore around noon to have a look around；Would appreciate if you could sit down with me for lunch or coffee so we can discuss
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "Parker went to pull her in for a hello hug, but it was awkward and both pulled back quickly."
 
-**中文理解**「Parker 伸手想给她一个见面的拥抱，可这个拥抱很别扭，两个人都很快松开了对方。」
+**中文理解**：「Parker 伸手想给她一个见面的拥抱，可这个拥抱很别扭，两个人都很快松开了对方。」
 
 **关键词**：went to pull her in for a hello hug；it was awkward；both pulled back quickly
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Bookstore seems busy enough. Maybe it’s not such a bad investment after all.” He said it in a way that implied it was his investment, too."
 
-**中文理解**「「书店看着还挺忙的。也许这么看下来，这笔投资还不算太糟。」他说这话的方式，让人觉得这笔投资也有他的一份。」
+**中文理解**：「「书店看着还挺忙的。也许这么看下来，这笔投资还不算太糟。」他说这话的方式，让人觉得这笔投资也有他的一份。」
 
 **关键词**：Bookstore seems busy enough；Maybe it’s not such a bad investment after all；implied it was his investment, too
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "Jess narrowed her eyes and used her best take-no-prisoners lawyer tone. “This has nothing to do with you, Parker. It’s just mine and Alison’s.”"
 
-**中文理解**「Jess 眯起眼睛，切换到她做律师时那种谁也不让的口气。「这件事跟你没有关系，Parker。它是我和 Alison 的。」」
+**中文理解**：「Jess 眯起眼睛，切换到她做律师时那种谁也不让的口气。「这件事跟你没有关系，Parker。它是我和 Alison 的。」」
 
 **关键词**：narrowed her eyes；her best take-no-prisoners lawyer tone；This has nothing to do with you, Parker；It’s just mine and Alison’s
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "He leaned back in his chair and crossed his arms over his chest. “Well, technically, no it’s not. We’re still married. And we could stay married, if you want to work at this. I really don’t want a divorce, do you? We’ve built a good life together. We work together, have a child together.”"
 
-**中文理解**「他往椅背上一靠，双臂交叉抱在胸前。「嗯，说技术上，那就不是了。我们还没离婚。如果我们继续维持婚姻，你也可以在这儿工作。我真的不想离婚，对吧？我们这些年一起过得很好。我们一起工作，还有一个孩子。」」
+**中文理解**：「他往椅背上一靠，双臂交叉抱在胸前。「嗯，说技术上，那就不是了。我们还没离婚。如果我们继续维持婚姻，你也可以在这儿工作。我真的不想离婚，对吧？我们这些年一起过得很好。我们一起工作，还有一个孩子。」」
 
 **关键词**：He leaned back in his chair and crossed his arms over his chest；Well, technically, no it’s not；We’re still married；we could stay married, if you want to work at this；We work together, have a child together
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "That infuriated her. “At least I’m not having a baby,” she retorted, and he looked as if she’d slapped him."
 
-**中文理解**「这话让她火冒三丈。「至少我还没生孩子。」她回了一句，他看上去像是挨了一记耳光。」
+**中文理解**：「这话让她火冒三丈。「至少我还没生孩子。」她回了一句，他看上去像是挨了一记耳光。」
 
 **关键词**：That infuriated her；At least I’m not having a baby；he looked as if she’d slapped him
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“I’m sure. We had a good marriage for a long time. It’s just over.”"
 
-**中文理解**「「我确定。我们有过一段很长的好婚姻。它只是结束了。」」
+**中文理解**：「「我确定。我们有过一段很长的好婚姻。它只是结束了。」」
 
 **关键词**：I’m sure；We had a good marriage for a long time；It’s just over
 

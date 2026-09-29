@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“We have company for dinner tonight,” Jess’s mother announced as she walked through the front door with a surprise guest—Ryan Oliphant. Jess almost dropped the wooden spoon she was using to stir the risotto. She didn’t even know her mother knew Ryan."
 
-**中文理解**「今晚有客人来吃饭。」Jess 的母亲一边从前门走进来一边宣布，身后还带着一位不速之客——Ryan Oliphant。Jess 手里正拿着搅烩饭的木勺，差点掉在地上。她甚至不知道自己母亲居然认识 Ryan。
+**中文理解**：「今晚有客人来吃饭。」Jess 的母亲一边从前门走进来一边宣布，身后还带着一位不速之客——Ryan Oliphant。Jess 手里正拿着搅烩饭的木勺，差点掉在地上。她甚至不知道自己母亲居然认识 Ryan。
 
 **关键词**：We have company for dinner tonight；walked through the front door with a surprise guest；almost dropped the wooden spoon；didn’t even know her mother knew Ryan
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“And Ryan’s divorced, too,” her mother added. “Jess will be divorced soon. You two have that in common.”"
 
-**中文理解**「Ryan 也离婚了。」母亲补了一句。「Jess 很快也要离了。你们俩有这一点一样。」
+**中文理解**：「Ryan 也离婚了。」母亲补了一句。「Jess 很快也要离了。你们俩有这一点一样。」
 
 **关键词**：And Ryan’s divorced, too；Jess will be divorced soon；You two have that in common
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“You don’t have anything to be ashamed of. His bad behavior is on him,” Ryan said."
 
-**中文理解**「你没有什么好羞愧的。他的行为是他自己的问题。」Ryan 说。
+**中文理解**：「你没有什么好羞愧的。他的行为是他自己的问题。」Ryan 说。
 
 **关键词**：You don’t have anything to be ashamed of；His bad behavior is on him
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I don’t mind. We got to talking on the pier and when she mentioned she was your mother, I was intrigued. I knew her by face of course but didn’t make the connection that she was your mother until she told me.”"
 
-**中文理解**「我不介意。我们在码头上聊了起来，她提到她是你母亲的时候，我被勾起了兴趣。我当然认得她这张脸，可直到她自己说，我都没把她和你母亲联系起来。」
+**中文理解**：「我不介意。我们在码头上聊了起来，她提到她是你母亲的时候，我被勾起了兴趣。我当然认得她这张脸，可直到她自己说，我都没把她和你母亲联系起来。」
 
 **关键词**：I don’t mind；when she mentioned she was your mother, I was intrigued；didn’t make the connection that she was your mother until she told me
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“It’s not that I’m not interested. It is too soon for me, though. I only just served Parker with divorce papers a little over a week ago. I’m just not ready to go there yet.” Jess felt a pang of regret, because the man sitting beside her was the first person she’d felt any kind of chemistry with other than Parker."
 
-**中文理解**「不是我不感兴趣。只是我这边还太早了。我上周多一点点才把离婚文件送给 Parker。我还没准备好走到那一步。」Jess 感到一阵懊悔，因为坐在她旁边的这个男人是她除了 Parker 之外第一个让她有某种化学反应的人。
+**中文理解**：「不是我不感兴趣。只是我这边还太早了。我上周多一点点才把离婚文件送给 Parker。我还没准备好走到那一步。」Jess 感到一阵懊悔，因为坐在她旁边的这个男人是她除了 Parker 之外第一个让她有某种化学反应的人。
 
 **关键词**：It’s not that I’m not interested；It is too soon for me, though；served Parker with divorce papers a little over a week ago；the first person she’d felt any kind of chemistry with other than Parker
 
@@ -94,7 +94,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Not a thing,” Jess assured her. “Ryan and I were just getting to know each other.” He smiled and caught her eyes for a moment and she felt another moment of regret, wondering if she’d made the right decision. But she knew in her gut that it was too soon. Parker might be able to move right on, but Jess wasn’t ready. Not yet."
 
-**中文理解**「没什么。」Jess 让母亲放心。「Ryan 和我只是刚认识一下。」他笑了笑，逮住她的眼睛看了一瞬，她又感到一阵懊悔，怀疑自己刚才的决定是不是错了。但她心里清楚，现在还太早。Parker 也许能马上翻篇，而 Jess 还没有。还没有。
+**中文理解**：「没什么。」Jess 让母亲放心。「Ryan 和我只是刚认识一下。」他笑了笑，逮住她的眼睛看了一瞬，她又感到一阵懊悔，怀疑自己刚才的决定是不是错了。但她心里清楚，现在还太早。Parker 也许能马上翻篇，而 Jess 还没有。还没有。
 
 **关键词**：Not a thing；just getting to know each other；she knew in her gut that it was too soon；Parker might be able to move right on, but Jess wasn’t ready. Not yet.
 
@@ -117,7 +117,7 @@ modified: "2026-09-29"
 | rotisserie | 转炉烤的（烤鸡） | Jess had used leftover rotisserie chicken and it came together quickly. |
 | entry-level | 入门级的 | A bunch of my friends went into entry-level financial-services jobs, customer service, fund accounting, that kind of thing. |
 | financial-services | 金融服务业 | A bunch of my friends went into entry-level financial-services jobs, customer service, fund accounting, that kind of thing. |
-| grandmother | 外祖母（女儿对母亲的称呼） | Still so young,” her grandmother said. |
+| grandmother | 外婆（Caitlin 对 Jess 母亲的称呼；原文作 Grammy） | Still so young,” her grandmother said. |
 | cheesecake | 芝士蛋糕 | We have a Junior’s cheesecake I can open, too. |
 | indignantly | 气愤地；不服气地 | “Obviously that’s not possible,” her mother said indignantly. |
 

@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "Call me when you get home. I want to come see you this weekend and need to book a flight. Maybe you can pick me up at the airport?"
 
-**中文理解**「你到家给我个信儿。我这个周末想来看你，得订张机票。也许你能来机场接我？」
+**中文理解**：「你到家给我个信儿。我这个周末想来看你，得订张机票。也许你能来机场接我？」
 
 **关键词**：I want to come see you this weekend；need to book a flight；pick me up at the airport
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“I think with you in Nashville and me here that the distance is too hard. I don’t see myself moving and I think it will be better for both of us if we move on and see other people.” That didn’t come out right and Julia immediately regretted it."
 
-**中文理解**「我觉得你在纳什维尔、我在这儿，这样的距离太难了。我看不到自己会搬过去，我觉得我们俩都往前走一步会更好。」这句话没说对，Julia 当场就后悔了。
+**中文理解**：「我觉得你在纳什维尔、我在这儿，这样的距离太难了。我看不到自己会搬过去，我觉得我们俩都往前走一步会更好。」这句话没说对，Julia 当场就后悔了。
 
 **关键词**：the distance is too hard；I don’t see myself moving；move on and see other people；That didn’t come out right
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Kyle, please. You’re not going to change my mind. I’m sorry, but this just isn’t working for me anymore. I really think it will be the best thing for both of us to move on. You can build a whole new life for yourself in Nashville. It seems like you love it there.”"
 
-**中文理解**「Kyle，行了。你改变不了我的主意。对不起，这段关系对我已经不合适了。我真的觉得我们俩都往前走一步会更好。你在纳什维尔可以给自己建一套全新的生活。我看你挺喜欢那儿的。」
+**中文理解**：「Kyle，行了。你改变不了我的主意。对不起，这段关系对我已经不合适了。我真的觉得我们俩都往前走一步会更好。你在纳什维尔可以给自己建一套全新的生活。我看你挺喜欢那儿的。」
 
 **关键词**：You’re not going to change my mind；this just isn’t working for me anymore；build a whole new life for yourself in Nashville；It seems like you love it there
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“So that’s it then? I asked you to marry me, Julia. And now it’s over? Just like that?”"
 
-**中文理解**「那就这样了？我向你求过婚的，Julia。现在就结束了？就这么着？」
+**中文理解**：「那就这样了？我向你求过婚的，Julia。现在就结束了？就这么着？」
 
 **关键词**：So that’s it then；I asked you to marry me；And now it’s over；Just like that
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I have to go. This is very disappointing.” The phone went dead. Julia let out the breath she didn’t even realize she was holding. It was done."
 
-**中文理解**「我得挂了。这太让人失望了。」电话断了。Julia 吐出一口气，连她自己都没意识到一直憋着。结束了。
+**中文理解**：「我得挂了。这太让人失望了。」电话断了。Julia 吐出一口气，连她自己都没意识到一直憋着。结束了。
 
 **关键词**：This is very disappointing；The phone went dead；the breath she didn’t even realize she was holding；It was done
 

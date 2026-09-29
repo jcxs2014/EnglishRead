@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“So, how is your mother?” Caitlin and her father were sitting at breakfast the next day, at a restaurant near the airport. Neither one of them had mentioned her all weekend. Caitlin had been a little surprised when her father suggested the restaurant—it was one of her mother’s favorites."
 
-**中文理解**「那么，你妈妈还好吗？」第二天早上，Caitlin 和父亲在机场附近一家餐馆吃早饭。整个周末两个人都没提过她。Caitlin 对父亲挑这家店有点意外——这是她母亲喜欢的那几家之一。
+**中文理解**：「那么，你妈妈还好吗？」第二天早上，Caitlin 和父亲在机场附近一家餐馆吃早饭。整个周末两个人都没提过她。Caitlin 对父亲挑这家店有点意外——这是她母亲喜欢的那几家之一。
 
 **关键词**：how is your mother；at a restaurant near the airport；Neither one of them had mentioned her all weekend；her father suggested the restaurant；one of her mother’s favorites
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“About time! What do you think?” She smiled proudly. It was a very pretty car. Jess knew her mother had always admired Mini Coopers."
 
-**中文理解**「早该有了！你觉得怎么样？」她得意地笑着。这是一辆很好看的小车。Jess 知道她母亲一直就喜欢 Mini Cooper。
+**中文理解**：「早该有了！你觉得怎么样？」她得意地笑着。这是一辆很好看的小车。Jess 知道她母亲一直就喜欢 Mini Cooper。
 
 **关键词**：About time；What do you think；She smiled proudly；Jess knew her mother had always admired Mini Coopers
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“She did. But she and Chris were never at odds, not really. They both wanted the divorce even though it was hard for them to admit that they both needed something more. I think Parker and I will get there, too. He says he wants to work things out, but I don’t think he really does or he would never have started up with Linda. Change is hard, but we should have done this well over a year ago.”"
 
-**中文理解**「她说过。不过她和 Chris 从来没有真正对立过。两个人都想离婚，尽管要承认他们俩都需要更多的东西，对他们自己来说很难。我想 Parker 和我也总归会走到那一步。他说想挽回，可我不信——他要是真这么想，就不会和 Linda 搞到一起了。改变是难的，可我们早该在一年多以前就这么做了。」
+**中文理解**：「她说过。不过她和 Chris 从来没有真正对立过。两个人都想离婚，尽管要承认他们俩都需要更多的东西，对他们自己来说很难。我想 Parker 和我也总归会走到那一步。他说想挽回，可我不信——他要是真这么想，就不会和 Linda 搞到一起了。改变是难的，可我们早该在一年多以前就这么做了。」
 
 **关键词**：she and Chris were never at odds；hard for them to admit that they both needed something more；He says he wants to work things out；or he would never have started up with Linda；we should have done this well over a year ago
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Jess, we’re still married. My money is your money and your bookshop is my bookshop. I might need to make a trip to Chatham to check out my investment—make sure it’s worthy.” He sounded upset, and Jess didn’t really blame him—she knew she should have told him about the bookstore and warned him that the papers were coming. She’d avoided doing it because she didn’t want to deal with him making things difficult—he could have stopped the bookstore sale from going through. She tried to reason with him. The bookstore was too important to her and to Alison. Jess couldn’t let Parker ruin things now."
 
-**中文理解**「Jess，我们还没离婚。我的钱就是你的钱，你的书店就是我的书店。我可能得跑一趟 Chatham 去看看我的投资——看看它值不值。」他听起来很生气，Jess 也不太怪他——她知道自己本该把书店的事告诉他，也该提醒他文件要送到。可她躲着没说，因为她不想应付他从中作梗——他本来是能让那笔书店交易泡汤的。她试着跟他讲道理。这家书店对她和 Alison 都太重要了。Jess 不能让 Parker 现在把事情弄砸。
+**中文理解**：「Jess，我们还没离婚。我的钱就是你的钱，你的书店就是我的书店。我可能得跑一趟 Chatham 去看看我的投资——看看它值不值。」他听起来很生气，Jess 也不太怪他——她知道自己本该把书店的事告诉他，也该提醒他文件要送到。可她躲着没说，因为她不想应付他从中作梗——他本来是能让那笔书店交易泡汤的。她试着跟他讲道理。这家书店对她和 Alison 都太重要了。Jess 不能让 Parker 现在把事情弄砸。
 
 **关键词**：we’re still married；My money is your money and your bookshop is my bookshop；make sure it’s worthy；he could have stopped the bookstore sale from going through；The bookstore was too important to her and to Alison
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Well, I still want to see it—and you at least owe me the chance to sit down and discuss everything in person. I’m going to book a flight this weekend and I’ll be in touch when I’m in town. I have to go now.” He hung up without waiting for a response, and Jess just shook her head. Parker was usually levelheaded and reasonable, and as her attorney had predicted, divorce could make people act unpredictably. She felt the beginning of a stress headache and fervently hoped this wasn’t going to turn into a huge problem."
 
-**中文理解**「我还是想看看它——而且你至少欠我一次坐下来当面把事情谈清楚的机会。我这周末订一趟航班，到了再联系你。我得挂了。」他没等她回答就挂了，Jess 只能摇了摇头。Parker 一向冷静讲理，而正如她的律师早就预告的，离婚会让一个人变得难以预料。她觉得那种紧张性头痛刚起了个头，只能拼命希望这不会变成一场大麻烦。
+**中文理解**：「我还是想看看它——而且你至少欠我一次坐下来当面把事情谈清楚的机会。我这周末订一趟航班，到了再联系你。我得挂了。」他没等她回答就挂了，Jess 只能摇了摇头。Parker 一向冷静讲理，而正如她的律师早就预告的，离婚会让一个人变得难以预料。她觉得那种紧张性头痛刚起了个头，只能拼命希望这不会变成一场大麻烦。
 
 **关键词**：I’m going to book a flight this weekend；He hung up without waiting for a response；Parker was usually levelheaded and reasonable；divorce could make people act unpredictably；fervently hoped this wasn’t going to turn into a huge problem
 

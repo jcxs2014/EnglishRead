@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I think you’ve lost your mind. I would love to do this, but it’s too much. I can’t let you spend all your money on my dream. I love you for even thinking of it, though.”"
 
-**中文理解**Alison 笑了。「我觉得你疯了。我很想做，可是这太多了。我不能让你为我花光你所有的钱。不过光是想着这件事，我就已经很喜欢你了。」
+**中文理解**：Alison 笑了。「我觉得你疯了。我很想做，可是这太多了。我不能让你为我花光你所有的钱。不过光是想着这件事，我就已经很喜欢你了。」
 
 **关键词**：I think you’ve lost your mind；I would love to do this, but it’s too much；I can’t let you spend all your money on my dream；I love you for even thinking of it
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“It’s just money, and I have it, so let’s use it. We can work out the numbers so they make sense, a management salary for you and a monthly payment to me for the initial investment, and we’ll split any profits after expenses. Tell me you’re in?”"
 
-**中文理解**Jess 笑了。「不就是钱嘛，我有，那就用上。我们可以把账算清楚：给你一份管理薪酬、前期投资每月付我一笔款，扣掉成本之后利润我们平分。你就说你在不在？」
+**中文理解**：Jess 笑了。「不就是钱嘛，我有，那就用上。我们可以把账算清楚：给你一份管理薪酬、前期投资每月付我一笔款，扣掉成本之后利润我们平分。你就说你在不在？」
 
 **关键词**：It’s just money, and I have it；a management salary；a monthly payment to me for the initial investment；we’ll split any profits after expenses；Tell me you’re in?
 

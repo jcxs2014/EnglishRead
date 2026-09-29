@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“So, there are two approaches we could take. You could ask for a forensic accounting of everything including his father’s law firm since you’re both partners there. That won’t endear you to anyone, though—especially his family—but if you think they are hiding any assets it’s the best way to make sure you get the best settlement possible. Or you can estimate what half of your overall assets are worth and aim to split everything evenly. That’s the most amicable way to go and the fastest.”"
 
-**中文理解**「那我们有两种走法。你可以申请对全部资产做一次司法会计审计，包括他父亲的事务所——毕竟你们两个都是合伙人。不过这样不会让任何人更喜欢你，尤其是他家里人；但如果你觉得他们在藏资产，这是能让你拿到最好和解条件最稳的办法。或者，你可以估算你们总资产的一半是多少，然后想办法把一切平均分开。那是最和气的一种走法，也是最快的。」
+**中文理解**：「那我们有两种走法。你可以申请对全部资产做一次司法会计审计，包括他父亲的事务所——毕竟你们两个都是合伙人。不过这样不会让任何人更喜欢你，尤其是他家里人；但如果你觉得他们在藏资产，这是能让你拿到最好和解条件最稳的办法。或者，你可以估算你们总资产的一半是多少，然后想办法把一切平均分开。那是最和气的一种走法，也是最快的。」
 
 **关键词**：two approaches we could take；a forensic accounting of everything；That won’t endear you to anyone；aim to split everything evenly；the most amicable way to go and the fastest
 
@@ -34,7 +34,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I’ll go the amicable route. Easy and fast is good.”"
 
-**中文理解**「那我走和气那条。省事又快，挺好。」
+**中文理解**：「那我走和气那条。省事又快，挺好。」
 
 **关键词**：I’ll go the amicable route；Easy and fast is good
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“He texted me today. He wants to talk, but I just don’t have the energy. I don’t know what there is to talk about. He said he wants to work things out.” She sighed. “But obviously that ship has sailed.”"
 
-**中文理解**「他今天给我发消息了。他想谈，可我实在没那个精力。我也不知道有什么可谈的。他说他想把事情挽回。」她叹了口气。「可那条船早就开了。」
+**中文理解**：「他今天给我发消息了。他想谈，可我实在没那个精力。我也不知道有什么可谈的。他说他想把事情挽回。」她叹了口气。「可那条船早就开了。」
 
 **关键词**：He texted me today；I just don’t have the energy；I don’t know what there is to talk about；he wants to work things out；that ship has sailed
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I suppose I could. Maybe I will. But not just yet. I’ll wait until after Caitlin comes back. I don’t want to put her in the middle of it.”"
 
-**中文理解**「我大概可以回一条。也许吧。但不是现在。等 Caitlin 回来以后再说。我不想让她夹在中间。」
+**中文理解**：「我大概可以回一条。也许吧。但不是现在。等 Caitlin 回来以后再说。我不想让她夹在中间。」
 
 **关键词**：I suppose I could；Maybe I will；But not just yet；I’ll wait until after Caitlin comes back；I don’t want to put her in the middle of it
 
@@ -94,7 +94,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Well, whatever you decide, I’m sure it will work out fine.” Her mother smiled and seemed so certain that Jess felt more optimistic, too. Things would work out, somehow."
 
-**中文理解**「那么，不管你怎么决定，我都相信会好起来的。」母亲笑了笑，看上去那么笃定，Jess 于是也觉得乐观了一些。总归会好起来的吧。
+**中文理解**：「那么，不管你怎么决定，我都相信会好起来的。」母亲笑了笑，看上去那么笃定，Jess 于是也觉得乐观了一些。总归会好起来的吧。
 
 **关键词**：whatever you decide, I’m sure it will work out fine；seemed so certain that Jess felt more optimistic；Things would work out, somehow
 

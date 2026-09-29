@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I had a meeting with my boss on Friday. They announced on Monday that they are moving the company to Nashville. Rents are cheaper there and it’s where his parents live.”"
 
-**中文理解**「我上周五和老板谈了。他们周一宣布要搬去纳什维尔。那边房租便宜，而且他父母住在那儿。」
+**中文理解**：「我上周五和老板谈了。他们周一宣布要搬去纳什维尔。那边房租便宜，而且他父母住在那儿。」
 
 **关键词**：a meeting with my boss on Friday；They announced on Monday；moving the company to Nashville；Rents are cheaper there
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "Even though my job could be done totally from here. He doesn’t believe in remote work. Says it’s important to the company culture to have everyone on-site, in the same office. I can keep my job—if I relocate. So, it’s a big decision.”"
 
-**中文理解**「不行。虽然我这份工作在这儿就能完全做完。他不信远程办公。说是公司文化很重要，大家要都在办公室、在同一个地方。我可以保住这份工作——前提是我搬过去。所以，这是个很大的决定。」
+**中文理解**：「不行。虽然我这份工作在这儿就能完全做完。他不信远程办公。说是公司文化很重要，大家要都在办公室、在同一个地方。我可以保住这份工作——前提是我搬过去。所以，这是个很大的决定。」
 
 **关键词**：could be done totally from here；He doesn’t believe in remote work；important to the company culture；everyone on-site；if I relocate；it’s a big decision
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“I thought about that. But you’re not going to want to move closer to Boston. So, what’s the difference if I go there or Nashville? At least going to Nashville I’d get to keep my job. I wouldn’t have to start over. I’ll also get a promotion and a pay increase. It’s hard to say no to that.” Kyle had been waiting for that promotion."
 
-**中文理解**「我想过了。但你不会想搬到离波士顿更近的地方。所以，我搬那儿和搬纳什维尔有什么区别？至少去纳什维尔我能保住工作，不用从头开始。我还能拿到晋升和加薪。这个很难拒绝。」
+**中文理解**：「我想过了。但你不会想搬到离波士顿更近的地方。所以，我搬那儿和搬纳什维尔有什么区别？至少去纳什维尔我能保住工作，不用从头开始。我还能拿到晋升和加薪。这个很难拒绝。」
 
 **关键词**：I thought about that；you’re not going to want to move closer to Boston；what’s the difference；I wouldn’t have to start over；a promotion and a pay increase；It’s hard to say no to that
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I haven’t decided. Not fully. But I am leaning toward it. I’ve already asked you to marry me, Julia. And you said no. If I give up this job and try for something in Boston, then I’m giving up a lot. If you’re serious about us, then we can make this work long-distance. You can fly down on the weekend, or I can fly up. Maybe it will help us move forward. Maybe you’ll miss me.” He sounded wistful and sad."
 
-**中文理解**「我还没定。但我在往那边倾斜。我已经跟你求过婚了，Julia，你说不。我要是放弃这份工作、去波士顿找事做，那我就放弃了很多。要是你对我们是认真的，我们就可以把异地撑下去。你周末可以飞过来，或者我飞上去。也许这会帮我们往前走。也许你会想我。」他说得惆怅又难过。
+**中文理解**：「我还没定。但我在往那边倾斜。我已经跟你求过婚了，Julia，你说不。我要是放弃这份工作、去波士顿找事做，那我就放弃了很多。要是你对我们是认真的，我们就可以把异地撑下去。你周末可以飞过来，或者我飞上去。也许这会帮我们往前走。也许你会想我。」他说得惆怅又难过。
 
 **关键词**：I haven’t decided. Not fully；I am leaning toward it；I’ve already asked you to marry me；you said no；we can make this work long-distance；fly down on the weekend；Maybe you’ll miss me
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I don’t want you to go. But it’s not fair for me to ask you to stay. You have to do what feels right for you and your career. If you go, we can try to make it work.”"
 
-**中文理解**「我不想让你走。但我也没有立场要求你留下。你得去做对你、对你的职业都好的事。你要是去了，我们可以试着把它撑下去。」
+**中文理解**：「我不想让你走。但我也没有立场要求你留下。你得去做对你、对你的职业都好的事。你要是去了，我们可以试着把它撑下去。」
 
 **关键词**：I don’t want you to go；it’s not fair for me to ask you to stay；what feels right for you and your career；If you go, we can try to make it work
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“I think I have to. I love my job and I don’t want to give up that promotion and start over again with a new company in Boston.”"
 
-**中文理解**「我大概只能这么说了。我爱我的工作，我不想为了到波士顿重新找一家公司、放弃这次晋升和加薪。」
+**中文理解**：「我大概只能这么说了。我爱我的工作，我不想为了到波士顿重新找一家公司、放弃这次晋升和加薪。」
 
 **关键词**：I think I have to；I love my job；don’t want to give up that promotion and start over again；with a new company in Boston
 

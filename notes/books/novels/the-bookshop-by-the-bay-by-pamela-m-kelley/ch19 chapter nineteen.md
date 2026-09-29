@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "Jess’s first impression when they walked into the Squire at a few minutes past eight was that it was loud. The restaurant was still busy, serving dinner, and the bar was full of people talking and drinking."
 
-**中文理解**「八点刚过几分钟，他们走进 Squire，Jess 的第一印象是：吵。」餐厅还在忙着晚餐时段，吧台那边坐满了聊天喝酒的人。
+**中文理解**：「八点刚过几分钟，他们走进 Squire，Jess 的第一印象是：吵。」餐厅还在忙着晚餐时段，吧台那边坐满了聊天喝酒的人。
 
 **关键词**：Jess’s first impression；at a few minutes past eight；it was loud；The restaurant was still busy, serving dinner；the bar was full of people talking and drinking
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“Well, let’s choose somewhere that he doesn’t go next time we go out—and don’t tell him. You’ll never meet someone new if Chris is by your side.”"
 
-**中文理解**「那我们下次出去就挑一家他不去的地方——而且别告诉他。有 Chris 站在你旁边，你永远也遇不到新的人。」
+**中文理解**：「那我们下次出去就挑一家他不去的地方——而且别告诉他。有 Chris 站在你旁边，你永远也遇不到新的人。」
 
 **关键词**：choose somewhere that he doesn’t go；don’t tell him；You’ll never meet someone new；if Chris is by your side
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“How are you doing? Is it good being back in Chatham?” Chris’s eyes were kind, and Jess suddenly felt a wave of emotion."
 
-**中文理解**「你怎么样？回来 Chatham 感觉还好吗？」Chris 的眼神很温和，Jess 忽然涌上来一阵情绪。
+**中文理解**：「你怎么样？回来 Chatham 感觉还好吗？」Chris 的眼神很温和，Jess 忽然涌上来一阵情绪。
 
 **关键词**：How are you doing；Is it good being back in Chatham；Chris’s eyes were kind；a wave of emotion
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Like you said earlier, it’s just a drink. I can buy my favorite girls a drink, can’t I?” He grinned, and the laugh lines worked their magic—his eyes twinkled with amusement."
 
-**中文理解**「就像你刚才说的，不过是一杯酒。我请我最喜欢的姑娘们喝一杯，不行吗？」他咧嘴一笑，眼角的笑纹施展着它的魔力——他的眼睛里闪着促狭。
+**中文理解**：「就像你刚才说的，不过是一杯酒。我请我最喜欢的姑娘们喝一杯，不行吗？」他咧嘴一笑，眼角的笑纹施展着它的魔力——他的眼睛里闪着促狭。
 
 **关键词**：Like you said earlier；it’s just a drink；buy my favorite girls a drink；the laugh lines worked their magic；his eyes twinkled with amusement
 

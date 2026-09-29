@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "She felt a stress headache building and didn’t even realize she was rubbing her hand against her forehead until her mother strolled into the room, stopped short, and looked at her intently."
 
-**中文理解**「她感觉那种紧张引起的头痛正在成形，连自己都没察觉已经在用手揉额头，直到她母亲踱进房间、忽然停住、定定地看着她。」
+**中文理解**：「她感觉那种紧张引起的头痛正在成形，连自己都没察觉已经在用手揉额头，直到她母亲踱进房间、忽然停住、定定地看着她。」
 
 **关键词**：a stress headache building；didn’t even realize；rubbing her hand against her forehead；stopped short；looked at her intently
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I’m just a little worried about sales at the bookstore. They’re not what I thought they would be.”"
 
-**中文理解**「我只是有点担心书店的销量。跟我想的不一样。」
+**中文理解**：「我只是有点担心书店的销量。跟我想的不一样。」
 
 **关键词**：a little worried about sales；They’re not what I thought they would be
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“This is the busy season, though, and we took over an existing business. It’s not like we were starting from scratch.”"
 
-**中文理解**「可现在是旺季，而且我们接手的是一家已经在经营的店。又不是从零开始做。」
+**中文理解**：「可现在是旺季，而且我们接手的是一家已经在经营的店。又不是从零开始做。」
 
 **关键词**：the busy season；we took over an existing business；starting from scratch
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“A loyalty card. That’s actually a great idea, Mom. I’ll talk to Alison about that.”"
 
-**中文理解**「忠诚卡。这确实是个好主意，妈。我去跟 Alison 说说。」
+**中文理解**：「忠诚卡。这确实是个好主意，妈。我去跟 Alison 说说。」
 
 **关键词**：A loyalty card；That’s actually a great idea, Mom；I’ll talk to Alison about that
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I’ve built a life in Charleston. I’m not sure I’m ready to give that up, just yet. Though, some days it is tempting,” Jess admitted."
 
-**中文理解**「我在查尔斯顿已经过上了自己的生活。我还不确定自己是不是准备好放弃它，至少现在还没有。不过，有些日子确实挺诱人的。」
+**中文理解**：「我在查尔斯顿已经过上了自己的生活。我还不确定自己是不是准备好放弃它，至少现在还没有。不过，有些日子确实挺诱人的。」
 
 **关键词**：I’ve built a life in Charleston；not sure I’m ready to give that up；just yet；some days it is tempting
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "She’d rearranged the display tables so that they not only showcased the obvious bestsellers, but also had some newer authors with books she’d read personally and thought their readers would love."
 
-**中文理解**「她重新布置了陈列桌，让它们不只摆那些一眼可见的畅销书，也摆上一些新作者的书——那些她自己读过、并且觉得读者会喜欢的。」
+**中文理解**：「她重新布置了陈列桌，让它们不只摆那些一眼可见的畅销书，也摆上一些新作者的书——那些她自己读过、并且觉得读者会喜欢的。」
 
 **关键词**：rearranged the display tables；showcased the obvious bestsellers；books she’d read personally；thought their readers would love
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "It wasn’t high tech or especially creative, but at least she was doing something. And she believed in these books. Maybe it would bring some attention to them."
 
-**中文理解**「这不高端，也谈不上多有创意，但至少她做了一件事。而且她相信这些书。也许这能给它们带来一点关注。」
+**中文理解**：「这不高端，也谈不上多有创意，但至少她做了一件事。而且她相信这些书。也许这能给它们带来一点关注。」
 
 **关键词**：high tech；especially creative；at least she was doing something；she believed in these books；bring some attention to them
 

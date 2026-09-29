@@ -21,11 +21,11 @@ modified: "2026-09-29"
 
 > **原句 1:** "“So, the New York girls’ weekend is a go. Can you meet us there this Friday? I could fly back to the Cape with you on Sunday for the rest of the week?” Beth suggested."
 
-**中文理解**「那纽约女孩周末就这么定了。这周五你能在那边跟我们碰头吗？我周日可以跟你一起飞回科德角，剩下那周都待在那儿。」——Beth 提议。
+**中文理解**：「那纽约女孩周末就这么定了。这周五你能在那边跟我们碰头吗？我周日可以跟你一起飞回科德角，剩下那周都待在那儿。」——Beth 提议。
 
 **关键词**：the New York girls’ weekend is a go；Can you meet us there this Friday；fly back to the Cape with you on Sunday for the rest of the week
 
-**为什么这样写**：**全章的扳机是一通只有三句话的电话，而这三句是通知、请求、提议各一句，节奏完全一样。** 最值得注意的是第一句用 a go 来结案——**这不是商量，是宣布**；而它之所以能这么定，是因为后面两句立刻把可执行性做实了：这周五、跟你飞回来、剩下那周。**她连返程和剩下那段时间都替对方安排好了。** 而这一切发生在一个周一下午，**对方当时正坐在祖母家门廊上晒太阳看书。**
+**为什么这样写**：**全章的扳机是一通只有三句话的电话，而这三句是通知、请求、提议各一句，节奏完全一样。** 最值得注意的是第一句用 a go 来结案——**这不是商量，是宣布**；而它之所以能这么定，是因为后面两句立刻把可执行性做实了：这周五、跟你飞回来、剩下那周。**她连返程和剩下那段时间都替对方安排好了。** 而这一切发生在一个周一下午，**对方当时正坐在外婆家门廊上晒太阳看书。**
 
 **读者视角提示**：请记住这趟行程的三个条件——**四个人、一晚酒吧、以及一个她自己还没准备好要见的人。**
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I’ll have to double-check to make sure I can get coverage, but that should work. As long as you don’t mind entertaining yourself for most of the days when you’re here. I won’t be able to take off that much time if I go away for the weekend.”"
 
-**中文理解**「我得先再确认一下能不能安排得开人，不过应该没问题。只要你不介意你在这儿的那几天大部分时间自己安排自己。真要整个周末都不在，我是请不了那么久的假。」
+**中文理解**：「我得先再确认一下能不能安排得开人，不过应该没问题。只要你不介意你在这儿的那几天大部分时间自己安排自己。真要整个周末都不在，我是请不了那么久的假。」
 
 **关键词**：double-check to make sure I can get coverage；entertaining yourself；I won’t be able to take off that much time
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "But I like it here more than I thought I would. I love the energy of the city. Everything is fast-paced and on a bigger scale. It’s exciting, and challenging. And there’s always something going on, no matter what time of day.” He smiled."
 
-**中文理解**「不过我在这里，比我自己原先预想的还要喜欢。我喜欢这座城市的能量。所有事情都很快，规模也都更大。它让人兴奋，也让人有挑战。而且不管一天里什么时候，总有事情在发生。」
+**中文理解**：「不过我在这里，比我自己原先预想的还要喜欢。我喜欢这座城市的能量。所有事情都很快，规模也都更大。它让人兴奋，也让人有挑战。而且不管一天里什么时候，总有事情在发生。」
 
 **关键词**：I like it here more than I thought I would；I love the energy of the city；fast-paced and on a bigger scale；It’s exciting, and challenging；no matter what time of day
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I’m not sure I like the idea of you living here,” Beth admitted. “But I am excited for you to see him again, too. Peter is such a catch.”"
 
-**中文理解**「你住在这儿这件事我不太喜欢，」Beth 承认道，「不过想到你还能再见到他，我也很高兴。Peter 真是个人才。」
+**中文理解**：「你住在这儿这件事我不太喜欢，」Beth 承认道，「不过想到你还能再见到他，我也很高兴。Peter 真是个人才。」
 
 **关键词**：I’m not sure I like the idea of you living here；I am excited for you to see him again, too；Peter is such a catch
 

@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“It’s been quiet since he left. I haven’t gone out as much. But, a friend is having a party tonight and our friend Tim is in a band, and I guess he and his band will be playing there, so that should be fun.”"
 
-**中文理解**「他走了以后一直很安静。我也没怎么出去。不过有个朋友今晚办派对，我们朋友 Tim 在一个乐队里，我想他和他乐队应该会去演，所以应该挺有意思的。」
+**中文理解**：「他走了以后一直很安静。我也没怎么出去。不过有个朋友今晚办派对，我们朋友 Tim 在一个乐队里，我想他和他乐队应该会去演，所以应该挺有意思的。」
 
 **关键词**：It’s been quiet since he left；I haven’t gone out as much；But, a friend is having a party tonight；our friend Tim is in a band；he and his band will be playing there；so that should be fun
 

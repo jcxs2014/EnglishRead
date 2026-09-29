@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“Just checking email. We have a new case, a big one. It’s been busier than ever.” He looked like he was going to add “with your mother gone,” but thought better of it. Caitlin guessed that he hadn’t hired any additional attorneys yet, as she knew he was hoping her mother might change her mind about going back there—about everything."
 
-**中文理解**「就回几封邮件。我们接了一个新案子，大的，比以往都忙。」他看上去差点要补一句「你妈走了之后」，但又咽了回去。Caitlin 猜他还没有再招律师，因为她知道他还盼着她母亲能改主意回那边去——回那件事的一切。
+**中文理解**：「就回几封邮件。我们接了一个新案子，大的，比以往都忙。」他看上去差点要补一句「你妈走了之后」，但又咽了回去。Caitlin 猜他还没有再招律师，因为她知道他还盼着她母亲能改主意回那边去——回那件事的一切。
 
 **关键词**：We have a new case, a big one；It’s been busier than ever；he looked like he was going to add “with your mother gone,” but thought better of it；hoping her mother might change her mind about going back there
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Good. I wonder sometimes if this getting-married thing is overrated. Of course, I would say that considering that my bride-to-be dumped me. I suppose you heard about that, though?” His tone was casual, but he watched her intently to see her reaction."
 
-**中文理解**「那挺好。我有时候会想，结婚这件事是不是被说得太好了。当然了，考虑到我的未婚妻刚把我甩了，我这么说是自然的。你大概听说了吧？」他语气很随意，眼睛却一直盯着她，等她的反应。
+**中文理解**：「那挺好。我有时候会想，结婚这件事是不是被说得太好了。当然了，考虑到我的未婚妻刚把我甩了，我这么说是自然的。你大概听说了吧？」他语气很随意，眼睛却一直盯着她，等她的反应。
 
 **关键词**：I wonder sometimes if this getting-married thing is overrated；considering that my bride-to-be dumped me；I suppose you heard about that；His tone was casual；he watched her intently to see her reaction
 

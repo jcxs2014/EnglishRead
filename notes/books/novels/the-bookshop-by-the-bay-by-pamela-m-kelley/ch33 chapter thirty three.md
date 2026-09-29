@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "My husband has had some health issues recently. It’s under control now, but it got us both thinking that maybe we need to try to protect our assets now, in case things get bad again. I read something about putting our home into a trust, so that no one can put a claim on it if one of us has to go into a long-term-care type of place. You might know what I mean?”"
 
-**中文理解**「我丈夫最近身体出了点问题。现在控制住了，但这让我们俩都开始想，是不是该趁早把我们的资产保护起来，万一哪天又不好呢。我读到过一种做法是把房子放进信托，这样万一哪天我们当中一个不得不进长期护理一类的地方，就没人能对房子提出主张。你懂我的意思吧？」
+**中文理解**：「我丈夫最近身体出了点问题。现在控制住了，但这让我们俩都开始想，是不是该趁早把我们的资产保护起来，万一哪天又不好呢。我读到过一种做法是把房子放进信托，这样万一哪天我们当中一个不得不进长期护理一类的地方，就没人能对房子提出主张。你懂我的意思吧？」
 
 **关键词**：My husband has had some health issues；it got us both thinking；protect our assets；in case things get bad again
 
@@ -34,7 +34,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“So, if you see a local attorney, someone you trust, they should be able to help you with this. It’s a very common thing,” she assured her."
 
-**中文理解**「所以你去找一位本地的、你信任的律师，他应该能帮你处理这个。这是一件很常见的事。」她安慰道。
+**中文理解**：「所以你去找一位本地的、你信任的律师，他应该能帮你处理这个。这是一件很常见的事。」她安慰道。
 
 **关键词**：So, if you see a local attorney；someone you trust；should be able to help you with this；It’s a very common thing
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Honestly, no. I’ve been trying not to think about it and to just focus on enjoying the bookstore and the coffee shop and the beach."
 
-**中文理解**「说实话，没有。我一直在尽量不去想它，只专心享受书店、咖啡馆和海滩。」
+**中文理解**：「说实话，没有。我一直在尽量不去想它，只专心享受书店、咖啡馆和海滩。」
 
 **关键词**：Honestly, no；trying not to think about it；to just focus on enjoying；the bookstore and the coffee shop and the beach
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“We’ve gone to dinner a few times. He’s good company and funny. You wouldn’t expect a funeral director to have such a good sense of humor.”"
 
-**中文理解**「我们已经一起吃过几次饭了。他人很好，也很有趣。你想不到殡仪馆老板会有这么好的幽默感。」
+**中文理解**：「我们已经一起吃过几次饭了。他人很好，也很有趣。你想不到殡仪馆老板会有这么好的幽默感。」
 
 **关键词**：We’ve gone to dinner a few times；He’s good company and funny；funeral director；such a good sense of humor
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I’m happy for you, Mom. Where are you going to dinner?”"
 
-**中文理解**「我为你高兴，妈。你们要去哪儿吃？」
+**中文理解**：「我为你高兴，妈。你们要去哪儿吃？」
 
 **关键词**：I’m happy for you, Mom；Where are you going to dinner
 

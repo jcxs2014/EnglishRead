@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“It went well. A bit of a slow start, but I suppose we should have expected that. No one really knew that we were open until Jess’s daughter Caitlin went outside and lured people in.” She told him about the sampling and he laughed."
 
-**中文理解**「生意不错。开头有点慢，不过那也该料到了。要不是 Jess 的女儿 Caitlin 走到外面把人招进来，还真没人知道我们开了。」她把试吃那件事讲了一遍，他笑了。
+**中文理解**：「生意不错。开头有点慢，不过那也该料到了。要不是 Jess 的女儿 Caitlin 走到外面把人招进来，还真没人知道我们开了。」她把试吃那件事讲了一遍，他笑了。
 
 **关键词**：It went well；A bit of a slow start；we should have expected that；went outside and lured people in；he laughed
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“Well, that’s not surprising. You are a good baker. I’m sorry I wasn’t able to come by. I’ll make sure to stop in this weekend.”"
 
-**中文理解**「那不奇怪。你是个好烘焙的。对不起我一直没能来。这个周末我一定过去一趟。」
+**中文理解**：「那不奇怪。你是个好烘焙的。对不起我一直没能来。这个周末我一定过去一趟。」
 
 **关键词**：that’s not surprising；You are a good baker；I’m sorry I wasn’t able to come by；I’ll make sure to stop in this weekend
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“You know, with Wendy leaving, we need someone to take over the monthly restaurant review. Would you be interested?”"
 
-**中文理解**「你知道的，Wendy 走了，我们需要有人接手每月一次的餐厅测评。你有兴趣吗？」
+**中文理解**：「你知道的，Wendy 走了，我们需要有人接手每月一次的餐厅测评。你有兴趣吗？」
 
 **关键词**：with Wendy leaving；take over the monthly restaurant review；Would you be interested
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "I know you wanted to cut your hours back, but you were the first person I thought of. It should be a fun assignment. I thought maybe we’d do that new restaurant that opened last month, Neptune. Have you been there yet?”"
 
-**中文理解**「好。我知道你本来想把工时减下来，但你是我第一个想到的人。这应该是个有意思的活儿。我想我们可以去上个月新开的那家 Neptune。你去过了吗？」
+**中文理解**：「好。我知道你本来想把工时减下来，但你是我第一个想到的人。这应该是个有意思的活儿。我想我们可以去上个月新开的那家 Neptune。你去过了吗？」
 
 **关键词**：you wanted to cut your hours back；you were the first person I thought of；a fun assignment；that new restaurant that opened last month, Neptune；Have you been there yet
 

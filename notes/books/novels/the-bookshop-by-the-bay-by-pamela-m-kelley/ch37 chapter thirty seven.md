@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“I think overall, it went okay. It’s sad for both of us, but he seems to have accepted that this divorce is happening.”"
 
-**中文理解**「总体上说还行。我们俩都挺难过的，不过他似乎已经接受这场离婚了。」
+**中文理解**：「总体上说还行。我们俩都挺难过的，不过他似乎已经接受这场离婚了。」
 
 **关键词**：I think overall, it went okay；It’s sad for both of us；he seems to have accepted
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“He said he’s going to talk to his attorneys to see about dividing things up fairly. We’re going to put the house on the market.”"
 
-**中文理解**「他说他要去跟自己的律师商量，看看怎么公平地分。我们打算把房子挂牌卖掉。」
+**中文理解**：「他说他要去跟自己的律师商量，看看怎么公平地分。我们打算把房子挂牌卖掉。」
 
 **关键词**：talk to his attorneys；dividing things up fairly；We’re going to put the house on the market
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Too many memories there. It’s a big house. I want to start fresh, with something smaller.”"
 
-**中文理解**「那里面回忆太多了。房子也太大。我想从头开始，换个小一点的。」
+**中文理解**：「那里面回忆太多了。房子也太大。我想从头开始，换个小一点的。」
 
 **关键词**：Too many memories there；It’s a big house；I want to start fresh
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Maybe just mention that I’m a local author when people come to the register? Otherwise everything looks good.”"
 
-**中文理解**「也许有人来结账的时候提一句我是本地的作家？不然看起来都挺像样的。」
+**中文理解**：「也许有人来结账的时候提一句我是本地的作家？不然看起来都挺像样的。」
 
 **关键词**：mention that I’m a local author；when people come to the register；Otherwise everything looks good
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I wasn’t sure either,” Grace admitted. “It’s a gorgeous day, though, and lots of foot traffic. I have a box of books in my car I can bring in if you’d like them. I brought them along just in case.”"
 
-**中文理解**「我也不确定，」Grace 承认道，「不过今天天气特别好，路上的人很多。我车里还有一箱书，你们要是愿意的话我可以搬进来。我本来就以防万一带过来了。」
+**中文理解**：「我也不确定，」Grace 承认道，「不过今天天气特别好，路上的人很多。我车里还有一箱书，你们要是愿意的话我可以搬进来。我本来就以防万一带过来了。」
 
 **关键词**：I wasn’t sure either；lots of foot traffic；a box of books in my car；I brought them along just in case
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Oh, I’m glad. You know, I was thinking, we could do something similar for the coffee shop. But instead of spending a certain amount, we just track coffees so once they buy ten the next one is free? The regulars will love that.”"
 
-**中文理解**「哦，那就好。你知道，我刚才在想，咖啡店那边也可以做个类似的。不过不用按消费金额算，改成数杯数就行——买满十杯之后下一杯免费。老客人们会喜欢的。」
+**中文理解**：「哦，那就好。你知道，我刚才在想，咖啡店那边也可以做个类似的。不过不用按消费金额算，改成数杯数就行——买满十杯之后下一杯免费。老客人们会喜欢的。」
 
 **关键词**：we could do something similar for the coffee shop；instead of spending a certain amount；we just track coffees；once they buy ten the next one is free
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Yes. And tonight, we can celebrate.”"
 
-**中文理解**「对。而且今晚，我们可以庆祝一下。」
+**中文理解**：「对。而且今晚，我们可以庆祝一下。」
 
 **关键词**：And tonight, we can celebrate
 

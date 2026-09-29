@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“We need to talk, Julia. You said you’d be here and you left me no other choice. We can do it here in front of everyone, or we can walk out front and talk privately. It’s up to you.” He wasn’t drunk, but he’d definitely been drinking and he was right about one thing—she didn’t want a big scene."
 
-**中文理解**「我们得谈谈，Julia。你说了你会来，你就这么把我逼得没有别的选择。我们可以就在这儿当着所有人的面谈，也可以到前面去私下谈。你选。」他没醉，但确实喝了不少，有一点他说对了——她不想闹出大动静。
+**中文理解**：「我们得谈谈，Julia。你说了你会来，你就这么把我逼得没有别的选择。我们可以就在这儿当着所有人的面谈，也可以到前面去私下谈。你选。」他没醉，但确实喝了不少，有一点他说对了——她不想闹出大动静。
 
 **关键词**：You said you’d be here；left me no other choice；We can do it here in front of everyone；walk out front and talk privately；he was right about one thing
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“Kyle, I never got to where I needed to be to marry you. And now with you in Nashville, it just doesn’t make sense anymore. I don’t want to move to Nashville, not now, not ever.” Though she knew if it was the right person, and they were in love, she’d find a way to do it. But it seemed mean to say that, so she didn’t."
 
-**中文理解**「Kyle，我始终没走到能跟你结婚的那一步。而且现在你在纳什维尔，这件事就更说不过去了。我不想搬去纳什维尔，现在不想，以后也不想。」不过她心里清楚：如果是对的人、两个人是相爱的，她总能找到办法。可那话说出来太伤人了，所以她没说。
+**中文理解**：「Kyle，我始终没走到能跟你结婚的那一步。而且现在你在纳什维尔，这件事就更说不过去了。我不想搬去纳什维尔，现在不想，以后也不想。」不过她心里清楚：如果是对的人、两个人是相爱的，她总能找到办法。可那话说出来太伤人了，所以她没说。
 
 **关键词**：I never got to where I needed to be to marry you；with you in Nashville；it just doesn’t make sense anymore；not now, not ever；it seemed mean to say that, so she didn’t
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“I swear. And no, there’s nothing you can do. It’s just not there for me. Not the way it should be. Not the way you deserve.”"
 
-**中文理解**「我发誓。就这一条，没有别人。也不对——你什么都做不了。它就是不在我这儿。不是它本该有的样子，也不是你应得的那种。」
+**中文理解**：「我发誓。就这一条，没有别人。也不对——你什么都做不了。它就是不在我这儿。不是它本该有的样子，也不是你应得的那种。」
 
 **关键词**：I swear；there’s nothing you can do；It’s just not there for me；Not the way it should be；Not the way you deserve
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Kyle, the last thing you need right now is a DUI. You know the cops are all over the roads this time of year. Let me get Tim to drive you home. I’ll follow behind.”"
 
-**中文理解**「Kyle，你现在最不需要的就是一次酒驾。你知道每年这个时节路上到处都是警察。我让 Tim 送你回家，我在后面跟着。」
+**中文理解**：「Kyle，你现在最不需要的就是一次酒驾。你知道每年这个时节路上到处都是警察。我让 Tim 送你回家，我在后面跟着。」
 
 **关键词**：the last thing you need right now is a DUI；the cops are all over the roads this time of year；Let me get Tim to drive you home；I’ll follow behind
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Yeah, this is it. Goodbye, Kyle.” For a minute she thought he might give her a hug goodbye—it looked like he considered it—but instead he took a step back."
 
-**中文理解**「对，就是这样。再见了，Kyle。」有那么一会儿她以为他会来抱她道别——看起来他确实考虑过——可他往后退了一步。
+**中文理解**：「对，就是这样。再见了，Kyle。」有那么一会儿她以为他会来抱她道别——看起来他确实考虑过——可他往后退了一步。
 
 **关键词**：Yeah, this is it. Goodbye, Kyle；she thought he might give her a hug goodbye；it looked like he considered it；he took a step back
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Thanks. I know it just takes time. I probably should have given Kyle more of an explanation before this, I know it was frustrating for him. But I didn’t have one. It just wasn’t right anymore. He got to the love part faster than I did, and I hoped I’d catch up. But it never happened. And I finally realized it wasn’t going to. That’s the confusing thing.”"
 
-**中文理解**「谢谢。我知道只是需要时间。我大概本来该多给 Kyle 一个解释的，我知道那对他很折磨。可我没有。就是不再合适了。他比我更早走到了爱的那一步，我盼着自己能赶上。可它一直没来。我最后才明白它不会再来了。这才是让人摸不着头脑的地方。」
+**中文理解**：「谢谢。我知道只是需要时间。我大概本来该多给 Kyle 一个解释的，我知道那对他很折磨。可我没有。就是不再合适了。他比我更早走到了爱的那一步，我盼着自己能赶上。可它一直没来。我最后才明白它不会再来了。这才是让人摸不着头脑的地方。」
 
 **关键词**：I probably should have given Kyle more of an explanation；But I didn’t have one；He got to the love part faster than I did；I hoped I’d catch up；I finally realized it wasn’t going to
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "Julia took a deep breath and suddenly felt lighter, freer. “That I can do.” She looked forward to spending the rest of her summer with good friends—like Tim."
 
-**中文理解** Julia 深深吸了一口气，突然觉得更轻快、更自由。「这个我做得到。」她开始期待用剩下的这个夏天和好朋友们一起度过——比如 Tim。
+**中文理解**： Julia 深深吸了一口气，突然觉得更轻快、更自由。「这个我做得到。」她开始期待用剩下的这个夏天和好朋友们一起度过——比如 Tim。
 
 **关键词**：felt lighter, freer；That I can do；spending the rest of her summer with good friends—like Tim
 

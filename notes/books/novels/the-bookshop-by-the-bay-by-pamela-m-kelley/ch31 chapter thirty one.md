@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“No. He’s furious with me and says he’s coming here this weekend to see his new investment and to talk.”"
 
-**中文理解**「没有。他冲我发火了，说这个周末要来这边，看他的新投资，还要跟我谈。」
+**中文理解**：「没有。他冲我发火了，说这个周末要来这边，看他的新投资，还要跟我谈。」
 
 **关键词**：He’s furious with me；coming here this weekend；see his new investment
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“No, I don’t. And I said I was sorry. Do you make a habit of tailgating?”"
 
-**中文理解**「我不，而且我已经道过歉了。你有贴着车尾开的习惯吗？」
+**中文理解**：「我不，而且我已经道过歉了。你有贴着车尾开的习惯吗？」
 
 **关键词**：And I said I was sorry；Do you make a habit of tailgating
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Okay, again, I’m really sorry. I was a little distracted. I just filed for divorce today,” she admitted."
 
-**中文理解**「好吧，我再说一次，真的很抱歉。我有点心不在焉。我今天刚递了离婚申请。」她承认道。
+**中文理解**：「好吧，我再说一次，真的很抱歉。我有点心不在焉。我今天刚递了离婚申请。」她承认道。
 
 **关键词**：again, I’m really sorry；I was a little distracted；I just filed for divorce today
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "I know that’s hard to go through. I divorced a few years ago, too. We’re on good terms now, but it was rocky for a while.” He smiled."
 
-**中文理解**「我知道那不容易熬过去。我几年前也离过婚。现在我们关系还不错，但那阵子很难熬。」他笑了笑。
+**中文理解**：「我知道那不容易熬过去。我几年前也离过婚。现在我们关系还不错，但那阵子很难熬。」他笑了笑。
 
 **关键词**：I know that’s hard to go through；I divorced a few years ago, too；We’re on good terms now；it was rocky for a while
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I hope not. But he might. He wants to talk, and I’ve been avoiding that, so maybe if I sit down with him I can get him to see reason.”"
 
-**中文理解**「我希望不会。但也有可能。他想谈，而我一直躲着，所以也许我坐下来跟他谈一次，能让他讲点道理。」
+**中文理解**：「我希望不会。但也有可能。他想谈，而我一直躲着，所以也许我坐下来跟他谈一次，能让他讲点道理。」
 
 **关键词**：I hope not；But he might；I’ve been avoiding that；get him to see reason
 
@@ -94,7 +94,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "Even though I thought I wanted to end things and thought that he did, too, it was still shocking to find that he’d already moved on. I guess I should at least think about it.”"
 
-**中文理解**「虽然我一直以为是我想结束，也以为他这么想，可真发现他已经往前走了，还是很震惊。我想我至少该考虑看看。」
+**中文理解**：「虽然我一直以为是我想结束，也以为他这么想，可真发现他已经往前走了，还是很震惊。我想我至少该考虑看看。」
 
 **关键词**：Even though I thought I wanted to end things；it was still shocking to find；he’d already moved on；I should at least think about it
 

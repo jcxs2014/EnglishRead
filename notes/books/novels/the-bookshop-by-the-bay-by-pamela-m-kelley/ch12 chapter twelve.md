@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“Sure, when it was just pie-in-the-sky dreaming. Why not? But real money is a different thing.”"
 
-**中文理解**「当然。那时候只是在桌面上空想嘛。为什么不行？可真的出钱就是另一回事了。」
+**中文理解**：「当然。那时候只是在桌面上空想嘛。为什么不行？可真的出钱就是另一回事了。」
 
 **关键词**：when it was just pie-in-the-sky dreaming；Why not?；But real money is a different thing
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Or course she will. But if I’m an owner, we’ll both be putting time in that won’t be compensated until the business is up and running. When she goes back to Charleston, I’ll be getting a management salary and we’ll split any profits after her investment is paid.”"
 
-**中文理解**「我当然会付。不过如果我是所有者，我们在店真正开起来之前，投入的时间是拿不到报酬的。等她回查尔斯顿，我会有一份管理薪酬，投资付清之后利润我们再分。」
+**中文理解**：「我当然会付。不过如果我是所有者，我们在店真正开起来之前，投入的时间是拿不到报酬的。等她回查尔斯顿，我会有一份管理薪酬，投资付清之后利润我们再分。」
 
 **关键词**：Or course she will；if I’m an owner；putting time in that won’t be compensated until the business is up and running；a management salary；split any profits
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“I used to do more author events, signings, talks, that kind of thing,” Ellen said. “I haven’t had the energy for it these past few months. But you two should start that up again. People love it and it drives traffic into the store. The story hour for the children is popular, too.”"
 
-**中文理解**「我以前办更多作者活动、签售、讲座这一类的。这几个月我没那个精力了。但你们两个应该把这个重新做起来。大家都喜欢这个，它能把人带进店里。儿童故事时间也很受欢迎。」
+**中文理解**：「我以前办更多作者活动、签售、讲座这一类的。这几个月我没那个精力了。但你们两个应该把这个重新做起来。大家都喜欢这个，它能把人带进店里。儿童故事时间也很受欢迎。」
 
 **关键词**：author events；signings, talks；People love it；it drives traffic into the store；The story hour for the children
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I actually really like that idea—for the gluten-free stuff. Maybe start with one option per day, so it’s not too much for you, and see how it goes? If it does well, we could also look for vendors that have gluten-free options, too, so you don’t have to do as much baking. It might get old after a while.” Jess knew she’d hate to have to bake all the time."
 
-**中文理解**「其实我很喜欢这个想法——无麸质那部分。也许每天先只做一款，这样你也不会太累，先看看效果？如果卖得好，我们也可以再找有无麸质产品的供应商，这样你就不用烤那么多了。做久了可能会腻。」Jess 知道自己肯定受不了天天烤。偶尔烤烤还挺有意思的，尤其是节日那阵子。
+**中文理解**：「其实我很喜欢这个想法——无麸质那部分。也许每天先只做一款，这样你也不会太累，先看看效果？如果卖得好，我们也可以再找有无麸质产品的供应商，这样你就不用烤那么多了。做久了可能会腻。」Jess 知道自己肯定受不了天天烤。偶尔烤烤还挺有意思的，尤其是节日那阵子。
 
 **关键词**：I actually really like that idea；the gluten-free stuff；one option per day；so it’s not too much for you；It might get old after a while
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "Alison felt her eyes grow misty as she gave her a hug. After Chris’s less than enthusiastic initial reaction she was grateful for Julia’s offer. “Thanks so much, honey. I’m sure we’ll be glad to take you up on that.”"
 
-**中文理解**Alison 之前在 Chris 起初那番不太热烈的反应之后，对 Julia 的主动表示心怀感激。「太谢谢你了，宝贝。我敢肯定我们会很乐意请你帮忙。」
+**中文理解**：Alison 之前在 Chris 起初那番不太热烈的反应之后，对 Julia 的主动表示心怀感激。「太谢谢你了，宝贝。我敢肯定我们会很乐意请你帮忙。」
 
 **关键词**：felt her eyes grow misty；less than enthusiastic initial reaction；she was grateful for Julia’s offer；I’m sure we’ll be glad to take you up on that
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Yes, you’ve always loved it.” Jess looked around the coffee shop and pictured the counter full of freshly baked bagels, muffins, and Alison’s brownies. She could see it doing well. But they had a lot to do to get to that point."
 
-**中文理解**「我们肯定行。」Jess 环顾着这间咖啡店，想象吧台上摆满刚烤好的贝果、松饼，还有 Alison 的布朗尼。她看得出这生意会成。但要走到那一步，她们还有一堆事要做。
+**中文理解**：「我们肯定行。」Jess 环顾着这间咖啡店，想象吧台上摆满刚烤好的贝果、松饼，还有 Alison 的布朗尼。她看得出这生意会成。但要走到那一步，她们还有一堆事要做。
 
 **关键词**：She could see it doing well；But they had a lot to do to get to that point
 

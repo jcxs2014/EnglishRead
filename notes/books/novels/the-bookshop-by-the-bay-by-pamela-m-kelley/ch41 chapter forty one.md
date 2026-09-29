@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I hate to leave, but I’m starting to miss home and my husband a little, I have to admit,” Beth said."
 
-**中文理解**「我讨厌要走，不过我得承认，我开始有点想家、有点想我丈夫了，」Beth 说。
+**中文理解**：「我讨厌要走，不过我得承认，我开始有点想家、有点想我丈夫了，」Beth 说。
 
 **关键词**：I hate to leave；I’m starting to miss home and my husband a little；I have to admit
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“It will probably depend on what you and your mother are doing for work next year, too. Things might be very different, depending on what kind of job you end up with. Will your mother go to another firm, do you think? I imagine she’s not going to stay where she is.”"
 
-**中文理解**「明年的事大概也得看你和母亲打算做什么工作。很可能完全不一样，要看你最后拿到的是什么性质的活。你母亲会换一家事务所吗？我猜她不会留在现在那里。」
+**中文理解**：「明年的事大概也得看你和母亲打算做什么工作。很可能完全不一样，要看你最后拿到的是什么性质的活。你母亲会换一家事务所吗？我猜她不会留在现在那里。」
 
 **关键词**：It will probably depend on what you and your mother are doing for work next year；Will your mother go to another firm；I imagine she’s not going to stay where she is
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Right.” Caitlin found the thought—of returning to Charleston and starting the hamster wheel of job searching and temping again—downright depressing. But Beth was right. This was just fun because it was temporary and she was helping her mother and Alison, and it felt good to be useful and contribute to making the business successful. Maybe she’d have better luck this time in Charleston and find a really great temp job."
 
-**中文理解**「是啊。」Caitlin 一想到要回查尔斯敦、要重新踏进求职和打临工的那台轮子，就觉得实在让人沮丧。可 Beth 说得对。这份工作之所以好玩，只因为它是临时的，也因为她在帮妈妈和 Alison；能派上用场、能为把这份生意做好出点力，这感觉很好。也许这一回她在查尔斯顿的运气会好一些，能找到一份真正不错的临时活。
+**中文理解**：「是啊。」Caitlin 一想到要回查尔斯敦、要重新踏进求职和打临工的那台轮子，就觉得实在让人沮丧。可 Beth 说得对。这份工作之所以好玩，只因为它是临时的，也因为她在帮妈妈和 Alison；能派上用场、能为把这份生意做好出点力，这感觉很好。也许这一回她在查尔斯顿的运气会好一些，能找到一份真正不错的临时活。
 
 **关键词**：downright depressing；But Beth was right；it was temporary；it felt good to be useful
 

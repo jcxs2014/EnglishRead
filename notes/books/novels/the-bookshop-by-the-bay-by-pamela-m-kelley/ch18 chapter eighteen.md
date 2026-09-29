@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“I arrive two weeks from tomorrow, Sunday afternoon, and fly back on Tuesday.” She’d just close the shop a little early on Sunday for a few days. She hated to close at all, but Kyle had pointed out that Mondays were her slowest day and she hadn’t taken any time off at all since she’d opened. And Nashville was a place she’d always wanted to visit, so it could be like a mini vacation. She also knew Kyle wouldn’t want to take time off so soon after starting in the new role."
 
-**中文理解**「我周日下午到，飞周二回。」她把周日稍微早关一会儿店。**其实她讨厌关店**，但 Kyle 指出周一本来就是她最闲的一天，而且她开店以来一天假都没休过。何况纳什维尔是她一直想去的地方，可以算一次小度假。她也知道 Kyle 不会想刚上任没多久就请假。
+**中文理解**：「我周日下午到，飞周二回。」她把周日稍微早关一会儿店。**其实她讨厌关店**，但 Kyle 指出周一本来就是她最闲的一天，而且她开店以来一天假都没休过。何况纳什维尔是她一直想去的地方，可以算一次小度假。她也知道 Kyle 不会想刚上任没多久就请假。
 
 **关键词**：close the shop a little early on Sunday；She hated to close at all；her slowest day；hadn’t taken any time off at all；a place she’d always wanted to visit；a mini vacation；wouldn’t want to take time off
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“It has been pretty busy. We were packed earlier. Each day this week has been a little busier than the day before, which seems like a good sign. I think word is starting to get out.” Caitlin handed Julia her change."
 
-**中文理解**「生意挺好。上午那阵特别满。这周每一天都比前一天更忙一点，看起来是好兆头。我想口碑开始传出去了。」
+**中文理解**：「生意挺好。上午那阵特别满。这周每一天都比前一天更忙一点，看起来是好兆头。我想口碑开始传出去了。」
 
 **关键词**：It has been pretty busy；We were packed earlier；Each day this week has been a little busier than the day before；word is starting to get out
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“I didn’t want to interrupt. How is it going?” Julia glanced around the bookstore and felt a little nervous for her mother and Jess. It was Saturday and there were only a handful of people in the store. She’d popped in each day since they opened almost a week ago and the store just didn’t seem to be very busy. Julia had never paid much attention to it before, but now it was more noticeable and she’d hoped that weekends would be busier for them."
 
-**中文理解**「我本来想不打扰的。生意怎么样？」Julia 环顾书店，**心里有点为母亲和 Jess 担心**。今天是周六，店里只有零星几个人。她开业以来几乎每天都过来看一眼，**这家店就是一直不太忙**。她以前没太留意，但现在更明显了——她本希望周末会好些。
+**中文理解**：「我本来想不打扰的。生意怎么样？」Julia 环顾书店，**心里有点为母亲和 Jess 担心**。今天是周六，店里只有零星几个人。她开业以来几乎每天都过来看一眼，**这家店就是一直不太忙**。她以前没太留意，但现在更明显了——她本希望周末会好些。
 
 **关键词**：I didn’t want to interrupt；felt a little nervous for her mother and Jess；a handful of people in the store；popped in each day since they opened；never paid much attention to it before；now it was more noticeable
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“I’ll be there all day. I just dropped off some brownies and cake slices at the coffee shop and am heading over to the book side now, but wanted to give you a quick call. Do you have plans tonight? Kyle’s gone, right?”"
 
-**中文理解**「我今天一整天都在。我刚给咖啡店送了些布朗尼和蛋糕片，正要过去书店那边，不过想先给你打个电话。你今晚有安排吗？Kyle 走了对吧？」
+**中文理解**：「我今天一整天都在。我刚给咖啡店送了些布朗尼和蛋糕片，正要过去书店那边，不过想先给你打个电话。你今晚有安排吗？Kyle 走了对吧？」
 
 **关键词**：I’ll be there all day；dropped off some brownies and cake slices；wanted to give you a quick call；Do you have plans tonight；Kyle’s gone, right
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Is he single now?” She thought she remembered Alison mentioning something about a breakup."
 
-**中文理解**「他现在单身吗？」Jess 心想她好像记得 Alison 提过一句分手的事。
+**中文理解**：「他现在单身吗？」Jess 心想她好像记得 Alison 提过一句分手的事。
 
 **关键词**：Is he single now；She thought she remembered；mentioning something about a breakup
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "He’s great, but he’s my boss. I’ve never thought of him … that way.” She seemed a little flustered, though."
 
-**中文理解**「他很好，可他是我老板。我从来没那样想过他……」她看上去有点慌。
+**中文理解**：「他很好，可他是我老板。我从来没那样想过他……」她看上去有点慌。
 
 **关键词**：He’s great, but he’s my boss；I’ve never thought of him … that way；She seemed a little flustered
 

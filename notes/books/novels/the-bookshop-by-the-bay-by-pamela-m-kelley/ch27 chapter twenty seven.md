@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“Right. Except for that garlicky Caesar salad.”"
 
-**中文理解**「就是那个蒜味太重的凯撒沙拉。」
+**中文理解**：「就是那个蒜味太重的凯撒沙拉。」
 
 **关键词**：Right；Except for that garlicky Caesar salad；garlicky
 
@@ -34,7 +34,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“There’s a reception tomorrow night at that new art gallery that opened on Main Street. They already reached out and bought full-page ads, in the next three issues, and they invited me and a guest to the opening. I’d like to go and support them and thought maybe you’d want to join me?” He smiled. “I know you like going to those kinds of things.”"
 
-**中文理解**「明晚那边新开了一家艺术画廊，在主街上有个招待会。他们已经找上门来，在接下来三期里买了整版广告，还请我带一位客人去参加开幕。我想去支持一下他们，也想着你要不要跟我一起去？」他笑了笑。「我知道你喜欢这种场合。」
+**中文理解**：「明晚那边新开了一家艺术画廊，在主街上有个招待会。他们已经找上门来，在接下来三期里买了整版广告，还请我带一位客人去参加开幕。我想去支持一下他们，也想着你要不要跟我一起去？」他笑了笑。「我知道你喜欢这种场合。」
 
 **关键词**：a reception tomorrow night at that new art gallery；bought full-page ads, in the next three issues；invited me and a guest to the opening；I know you like going to those kinds of things
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Perfect.” She smiled, and it didn’t hit her until Jim walked away that the night out could be considered a date. Was Jim thinking of it that way? Alison hadn’t gotten that impression, at all. But she also hadn’t been paying that close attention. She’d been excited to go to a new art gallery. It wasn’t like she’d never thought of Jim that way. It had crossed her mind more than once recently, but she’d still immediately dismissed the idea since he was her boss. But things were changing at the magazine. She knew it was time for her to be open to change, too, even if the thought of it terrified her a bit."
 
-**中文理解**「好啊。」她笑了笑，而这个念头直到 Jim 走开才击中她：这一晚上其实可以算一次约会。Jim 是不是也这么想的？Alison 完全没有这个印象。不过她本来也没特别留意。她只是因为有新画廊要开而很期待。这也不代表她从来没那样想过 Jim。最近这个念头已经不止一次冒出来过，可她每次都立刻把它按下去，因为他是她老板。可杂志那边正在变。她知道自己也该对变化敞开一点，哪怕这个念头让她有点害怕。
+**中文理解**：「好啊。」她笑了笑，而这个念头直到 Jim 走开才击中她：这一晚上其实可以算一次约会。Jim 是不是也这么想的？Alison 完全没有这个印象。不过她本来也没特别留意。她只是因为有新画廊要开而很期待。这也不代表她从来没那样想过 Jim。最近这个念头已经不止一次冒出来过，可她每次都立刻把它按下去，因为他是她老板。可杂志那边正在变。她知道自己也该对变化敞开一点，哪怕这个念头让她有点害怕。
 
 **关键词**：the night out could be considered a date；Was Jim thinking of it that way；hadn’t gotten that impression, at all；hadn’t been paying that close attention；she’d still immediately dismissed the idea since he was her boss；the thought of it terrified her a bit
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“You’re in a good mood today. And you look really pretty. Is that sweater new?” Jess asked. She and Alison were both behind the register the next afternoon. Jess had just rung up a customer and the store was suddenly empty and quiet."
 
-**中文理解**「你今天心情不错。而且你真好看。这毛衣是新的吗？」Jess 问。她和 Alison 都在收银台后面。第二天午后，Jess 刚给一位顾客结完账，店里忽然空了下来，也安静了。
+**中文理解**：「你今天心情不错。而且你真好看。这毛衣是新的吗？」Jess 问。她和 Alison 都在收银台后面。第二天午后，Jess 刚给一位顾客结完账，店里忽然空了下来，也安静了。
 
 **关键词**：You’re in a good mood today；And you look really pretty；Is that sweater new；behind the register；the store was suddenly empty and quiet
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“It’s really not. I promise.” But Jess was right. Alison had taken more time deciding what to wear, and for the first time in ages she’d put on a little makeup. Just mascara and a bit of rosy lipstick, but when she saw her reflection in the mirror she realized it really did make a difference."
 
-**中文理解**「才不是。我发誓。」可 Jess 说得对。Alison 那天挑衣服确实挑了很久，而且很久以来第一次化了一点妆。只是睫毛膏加一点玫瑰色口红，可当她在镜子里看到自己时，她发现这真的不一样。
+**中文理解**：「才不是。我发誓。」可 Jess 说得对。Alison 那天挑衣服确实挑了很久，而且很久以来第一次化了一点妆。只是睫毛膏加一点玫瑰色口红，可当她在镜子里看到自己时，她发现这真的不一样。
 
 **关键词**：It’s really not；I promise；But Jess was right；Alison had taken more time deciding what to wear；for the first time in ages she’d put on a little makeup；it really did make a difference
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Well, you look great. Date or not, I’m glad you’re getting out. And you love art galleries.” Jess paused before saying, “I have a little news, too. I called my lawyer yesterday and started the process to file for divorce.” Her smile faded away and Alison’s heart went out to her. And the fact that they’d been there for several hours and Jess was only just now mentioning it meant that she was feeling conflicted."
 
-**中文理解**「你很好看。有没有约会都好，你肯出门我就高兴，而且你喜欢艺术馆。」Jess 停了一下才说，「我也有点消息。我昨天给律师打了电话，已经开始走离婚的流程了。」她的笑容淡了下去，Alison 心疼了。而且她们在店里已经待了好几个钟头，Jess 到现在才提这件事，说明她心里是矛盾的。
+**中文理解**：「你很好看。有没有约会都好，你肯出门我就高兴，而且你喜欢艺术馆。」Jess 停了一下才说，「我也有点消息。我昨天给律师打了电话，已经开始走离婚的流程了。」她的笑容淡了下去，Alison 心疼了。而且她们在店里已经待了好几个钟头，Jess 到现在才提这件事，说明她心里是矛盾的。
 
 **关键词**：Date or not, I’m glad you’re getting out；And you love art galleries；I have a little news, too；started the process to file for divorce；her smile faded away；Jess was only just now mentioning it
 

@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“Not really. A few emails here and there wondering when we’re coming back and wanting to talk when we do.”"
 
-**中文理解**「我听说了。零星几封邮件，问我们什么时候回去，想回来再谈。」
+**中文理解**：「我听说了。零星几封邮件，问我们什么时候回去，想回来再谈。」
 
 **关键词**：Not really；A few emails here and there；wondering when we’re coming back；wanting to talk when we do
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Come in and tell me what’s going on. You look awful. Did you talk to Parker or something?”"
 
-**中文理解**「进来说，出什么事了。你脸色难看得很。你是不是跟 Parker 谈过了还是怎么的？」
+**中文理解**：「进来说，出什么事了。你脸色难看得很。你是不是跟 Parker 谈过了还是怎么的？」
 
 **关键词**：Come in and tell me what’s going on；You look awful；Did you talk to Parker or something
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I’m sorry. I know it’s not easy. It’s like a death in a way—the death of a relationship. And you never know what might trigger the feelings. But it really does get easier as time goes on.”"
 
-**中文理解**「没关系。我知道这不容易。这就像某种死亡——一段关系的死亡。你永远不知道什么东西会勾起情绪。但它真的会随着时间好起来。」
+**中文理解**：「没关系。我知道这不容易。这就像某种死亡——一段关系的死亡。你永远不知道什么东西会勾起情绪。但它真的会随着时间好起来。」
 
 **关键词**：I’m sorry；It’s like a death in a way；the death of a relationship；you never know what might trigger the feelings；it really does get easier
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“I’m so glad you suggested we come here this summer. It definitely helps being around you and my mother and Caitlin. They’ve both been great, too.” Even though she and Alison had talked pretty much daily over the years, it was so much better spending time in person. And the distraction of the shop had taken a lot of her energy and given her something good to focus on. So, her breakdown this morning had surprised her."
 
-**中文理解**「我真高兴是你提议我们今年夏天来这儿。身边有你们、还有我妈、还有 Caitlin，真的有帮助。」虽然她和 Alison 这些年几乎每天都通电话，但当面待着还是好太多了。而且店里这件事分散掉了她很多精力，也给了她一个专注的东西。所以今早这次崩溃才让她自己吃了一惊。
+**中文理解**：「我真高兴是你提议我们今年夏天来这儿。身边有你们、还有我妈、还有 Caitlin，真的有帮助。」虽然她和 Alison 这些年几乎每天都通电话，但当面待着还是好太多了。而且店里这件事分散掉了她很多精力，也给了她一个专注的东西。所以今早这次崩溃才让她自己吃了一惊。
 
 **关键词**：I’m so glad you suggested we come here this summer；It definitely helps；had talked pretty much daily over the years；so much better spending time in person；the distraction of the shop；given her something good to focus on；her breakdown this morning had surprised her
 

@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "But Jess found that news even more intriguing. “That could be a good investment for someone,” she said. “Depending what kind of business they wanted, they could make it one big space.” Her mind was already busy thinking about the possibilities."
 
-**中文理解**「咖啡店是不错的投资，看是什么人来做。如果他们想开别的，可以把两边打通成一个大空间。」Jess 心里已经在盘算各种可能性了。
+**中文理解**：「咖啡店是不错的投资，看是什么人来做。如果他们想开别的，可以把两边打通成一个大空间。」Jess 心里已经在盘算各种可能性了。
 
 **关键词**：a good investment for someone；depending what kind of business；make it one big space；her mind was already busy
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "Jess chose her words carefully. She wanted to be impulsive and say she was going to seriously consider it, but thought it best to hold off until she knew for sure whether she could swing it. She smiled big. “I’d really love that. I think we’d have a blast working together. I don’t know when we can make it happen, but I’m in, at some point!” Jess lifted her glass and tapped it against Alison’s. “To our future bookstore!”"
 
-**中文理解**她斟酌着措辞。她想表现得冲动一点，说自己会认真考虑，但觉得还是先弄清楚能不能办到再说。她笑得很开。「我真的很想那样。我觉得我们一起干一定特别好玩。我不知道什么时候能做成，但我终归是愿意的！」她举起杯子，在 Alison 的杯子上轻轻一碰。「敬我们的未来的书店！」
+**中文理解**：她斟酌着措辞。她想表现得冲动一点，说自己会认真考虑，但觉得还是先弄清楚能不能办到再说。她笑得很开。「我真的很想那样。我觉得我们一起干一定特别好玩。我不知道什么时候能做成，但我终归是愿意的！」她举起杯子，在 Alison 的杯子上轻轻一碰。「敬我们的未来的书店！」
 
 **关键词**：chose her words carefully；I’d really love that；I don’t know when we can make it happen；but I’m in, at some point；To our future bookstore
 
@@ -105,7 +105,7 @@ modified: "2026-09-29"
 
 > **原句 8:** "Meanwhile, Jess’s mind was spinning, mentally checking her bank balances and running some calculations. Depending on what Ellen Campbell wanted for the business and the building, there was a real chance this could work."
 
-**中文理解**与此同时，Jess 的脑子转个不停，在心里核对银行余额、做着各种测算。取决于 Ellen Campbell 要价多少、要不要连楼一起买，这事真有可能成。
+**中文理解**：与此同时，Jess 的脑子转个不停，在心里核对银行余额、做着各种测算。取决于 Ellen Campbell 要价多少、要不要连楼一起买，这事真有可能成。
 
 **关键词**：Jess’s mind was spinning；checking her bank balances；running some calculations；Depending on what Ellen Campbell wanted；there was a real chance this could work
 

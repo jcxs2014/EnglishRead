@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“So you don’t think it’s bad that I break up with him over the phone? I almost did it before I got out of the car, at the airport, but it just didn’t feel right then. I wanted to sleep on it, and be sure.”"
 
-**中文理解**「那你不会觉得我打电话跟他分手不太好吧？我差点在机场、上车之前就打了，可当时觉得不对。我想先睡一觉，想清楚了再说。」
+**中文理解**：「那你不会觉得我打电话跟他分手不太好吧？我差点在机场、上车之前就打了，可当时觉得不对。我想先睡一觉，想清楚了再说。」
 
 **关键词**：you don’t think it’s bad that I break up with him over the phone；before I got out of the car, at the airport；it just didn’t feel right then；I wanted to sleep on it；be sure
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "He seemed perfect on paper, ticked all my boxes, but my heart never raced. That probably sounds silly. Sometimes I wonder if I’m being too picky—a few of my married friends think so.”"
 
-**中文理解**「他纸面上看着完美，把我列的每一条都勾上了，可我的心从来没有跳起来过。这大概听起来有点傻。我有时会想，是不是我太挑了——我几个已婚的朋友是这么觉得的。」
+**中文理解**：「他纸面上看着完美，把我列的每一条都勾上了，可我的心从来没有跳起来过。这大概听起来有点傻。我有时会想，是不是我太挑了——我几个已婚的朋友是这么觉得的。」
 
 **关键词**：perfect on paper；ticked all my boxes；my heart never raced；That probably sounds silly；I’m being too picky
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "The fire came back into Julia’s eyes. “Absolutely not. Marriage is supposed to be forever and that’s a long time to spend with someone who you’re not madly in love with.” She gazed out the window and a moment later smiled as Jason walked in."
 
-**中文理解**「Julia 眼里重新有了火气。「绝对不行。婚姻应该是一辈子的事，而那是一段很长的、和一个你并没有爱到发狂的人一起过的时间。」她望向窗外，片刻之后 Jason 走了进来，她笑了。」
+**中文理解**：「Julia 眼里重新有了火气。「绝对不行。婚姻应该是一辈子的事，而那是一段很长的、和一个你并没有爱到发狂的人一起过的时间。」她望向窗外，片刻之后 Jason 走了进来，她笑了。」
 
 **关键词**：The fire came back into Julia’s eyes；Absolutely not；Marriage is supposed to be forever；a long time to spend with someone；not madly in love with；smiled as Jason walked in
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“This looks like trouble,” he teased. “Mind if I join you? Tim is on his way, too.”"
 
-**中文理解**「「这看起来像是有麻烦了，」他打趣道。「介意我坐这儿吗？Tim 也在过来的路上。」」
+**中文理解**：「「这看起来像是有麻烦了，」他打趣道。「介意我坐这儿吗？Tim 也在过来的路上。」」
 
 **关键词**：This looks like trouble；he teased；Mind if I join you；Tim is on his way
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Nashville is a fun city,” Julia said carefully. “I loved the writers’ nights we went to.”"
 
-**中文理解**「「纳什维尔是个好玩的城市，」Julia 谨慎地说。「我很喜欢上过的那些演出之夜。」」
+**中文理解**：「「纳什维尔是个好玩的城市，」Julia 谨慎地说。「我很喜欢上过的那些演出之夜。」」
 
 **关键词**：Nashville is a fun city；said carefully；I loved the writers’ nights we went to
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“The Cape is special. I never thought I’d want to stay. When we were younger, we used to talk about crossing the bridge. Working in Boston or going to New York,” Julia said. “Some of my friends did that, and I did, too, for a year or so. But, I was surprised to find that I really missed the Cape. Chatham is home.”"
 
-**中文理解**「「海角是个好地方。我从来没想过自己会想留下来。我们小时候常谈起跨过那座桥——去 Boston，或者去 New York，」Julia 说。「我有些朋友那么做了，我也去过，大概一年左右。但我挺意外地发现，我真的很想念海角。Chatham 就是家。」」
+**中文理解**：「「海角是个好地方。我从来没想过自己会想留下来。我们小时候常谈起跨过那座桥——去 Boston，或者去 New York，」Julia 说。「我有些朋友那么做了，我也去过，大概一年左右。但我挺意外地发现，我真的很想念海角。Chatham 就是家。」」
 
 **关键词**：The Cape is special；I never thought I’d want to stay；we used to talk about crossing the bridge；Working in Boston or going to New York；I really missed the Cape；Chatham is home
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "Caitlin nodded and smiled. “I’ll be there.” She was excited to have something fun to do, and she looked forward to spending more time with Jason."
 
-**中文理解**「Caitlin 点头笑了。「我会去的。」她很期待有件好玩的事可做，也期待能跟 Jason 多待一会儿。」
+**中文理解**：「Caitlin 点头笑了。「我会去的。」她很期待有件好玩的事可做，也期待能跟 Jason 多待一会儿。」
 
 **关键词**：nodded and smiled；I’ll be there；excited to have something fun to do；spending more time with Jason
 

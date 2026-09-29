@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I’m a plumber. Brinker Plumbing, that’s my company.”"
 
-**中文理解**「我是水管工。Brinker Plumbing，那是我公司的名字。」
+**中文理解**：「我是水管工。Brinker Plumbing，那是我公司的名字。」
 
 **关键词**：I’m a plumber；Brinker Plumbing；that’s my company
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“He’s single. Jason. About thirty-five, I think. Has a good business here in town. I use him for all my plumbing here and at home. He’s fast and reasonable with his rates. Keep him in mind … if you need a plumber.”"
 
-**中文理解**「他单身。三十五岁左右吧。镇上一份好生意。我店里和家里的水管活儿全找他。动作快，价钱也公道。留着点心吧……万一你哪天需要个水管工。」
+**中文理解**：「他单身。三十五岁左右吧。镇上一份好生意。我店里和家里的水管活儿全找他。动作快，价钱也公道。留着点心吧……万一你哪天需要个水管工。」
 
 **关键词**：He’s single；About thirty-five；Has a good business here in town；He’s fast and reasonable with his rates；Keep him in mind；if you need a plumber
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“I’m going on a cruise! With two of my girlfriends. We’re doing the Bermuda cruise out of Boston for a week. I’ve always wanted to do that. When I come back I have a whole list of projects I want to tackle. I might take a class or two, join a gym, maybe even try golfing again. But I’ll tell you what I’m not going to do.”"
 
-**中文理解**「我会去坐邮轮！和我两个女朋友。我们要去波士顿出发的百慕大，一周。我一直想去。回来以后我有一整张单子，上面全是想做的事。我可能去上一两门课、进健身房，也许还再打打高尔夫。但有一件事我先说清楚。」——「什么？」——「我再也不工作了。我不会再操心能不能按时到店，也不会再应付难缠的客人，或者那些事。别想岔，大部分客人都很棒，我也很喜欢开这家店。但我真的准备好迎接下一个了。」
+**中文理解**：「我会去坐邮轮！和我两个女朋友。我们要去波士顿出发的百慕大，一周。我一直想去。回来以后我有一整张单子，上面全是想做的事。我可能去上一两门课、进健身房，也许还再打打高尔夫。但有一件事我先说清楚。」——「什么？」——「我再也不工作了。我不会再操心能不能按时到店，也不会再应付难缠的客人，或者那些事。别想岔，大部分客人都很棒，我也很喜欢开这家店。但我真的准备好迎接下一个了。」
 
 **关键词**：a cruise；With two of my girlfriends；the Bermuda cruise out of Boston；a whole list of projects；I might take a class or two；I’ll tell you what I’m not going to do
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I’m going to help them get that up and running, too. I waitressed a bit and worked at a coffee shop for a while, during college. It was actually fun. I liked making all the fancy coffees and swirling designs in the foam.”"
 
-**中文理解**「你要不要也去帮忙把那边弄起来？我大学时做过一阵女服务员，也在咖啡店干过一段。其实挺好玩的。我喜欢做那些花式咖啡，喜欢在奶泡上拉出旋涡一样的图案。」——「我可从没见过有人那样做。你得给我做一杯，让我看看你说的是什么。我喜欢泡沫多的摩卡。」——Caitlin 笑了。「那你开业的时候来找我，我给你做一杯你这辈子喝过最好的摩卡。」
+**中文理解**：「你要不要也去帮忙把那边弄起来？我大学时做过一阵女服务员，也在咖啡店干过一段。其实挺好玩的。我喜欢做那些花式咖啡，喜欢在奶泡上拉出旋涡一样的图案。」——「我可从没见过有人那样做。你得给我做一杯，让我看看你说的是什么。我喜欢泡沫多的摩卡。」——Caitlin 笑了。「那你开业的时候来找我，我给你做一杯你这辈子喝过最好的摩卡。」
 
 **关键词**：get that up and running；waitressed a bit；worked at a coffee shop for a while；swirling designs in the foam
 

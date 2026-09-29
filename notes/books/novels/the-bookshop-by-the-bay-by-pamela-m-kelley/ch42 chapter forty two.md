@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I think Caitlin can do better than that!” Beth said. There was a sudden awkward silence before Jason spoke again."
 
-**中文理解**「我觉得 Caitlin 能比这做得更好！」Beth 说。场面突然安静下来，然后 Jason 才又开口。
+**中文理解**：「我觉得 Caitlin 能比这做得更好！」Beth 说。场面突然安静下来，然后 Jason 才又开口。
 
 **关键词**：I think Caitlin can do better than that；There was a sudden awkward silence；before Jason spoke again
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“I never imagined I’d like plumbing either. I went to school for business. Sometimes it takes a while to see where you fit.”"
 
-**中文理解**「我以前也从来没想过自己会喜欢干这一行。我上学学的是商科。有时候要过好一阵子才知道自己该待在哪儿。」
+**中文理解**：「我以前也从来没想过自己会喜欢干这一行。我上学学的是商科。有时候要过好一阵子才知道自己该待在哪儿。」
 
 **关键词**：I never imagined I’d like plumbing either；I went to school for business；it takes a while to see where you fit
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Don’t be swayed by what Beth says. If you like the kind of work you’re doing now, don’t rule it out.” He smiled. “You could always decide to just stay here, that’s always a possibility. Didn’t you mention that your mother needs to find new tenants for the apartment above the shop? What if that tenant was you?”"
 
-**中文理解**「别被 Beth 的话带跑。喜欢你现在做的这种活，就别先把它排除掉。」他笑了笑。「你随时都可以决定就留在这儿，这始终是个选项。你不是提过你母亲要给店铺楼上那套公寓找新租户吗？那个租户要是你，会怎么样？」
+**中文理解**：「别被 Beth 的话带跑。喜欢你现在做的这种活，就别先把它排除掉。」他笑了笑。「你随时都可以决定就留在这儿，这始终是个选项。你不是提过你母亲要给店铺楼上那套公寓找新租户吗？那个租户要是你，会怎么样？」
 
 **关键词**：Don’t be swayed by what Beth says；don’t rule it out；You could always decide to just stay here；your mother needs to find new tenants for the apartment above the shop；What if that tenant was you
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“That sounds awesome, and I have to admit it’s tempting. But Beth is right. I’m really on a long vacation and when it’s over, I need to go back home and back to reality—and find a real job.”"
 
-**中文理解**「那听起来很棒，我得承认挺诱人的。可 Beth 说得对。我现在就是在放一个很长的假，等假期结束，我得回家、回到现实里——再找一份正经工作。」
+**中文理解**：「那听起来很棒，我得承认挺诱人的。可 Beth 说得对。我现在就是在放一个很长的假，等假期结束，我得回家、回到现实里——再找一份正经工作。」
 
 **关键词**：That sounds awesome；I have to admit it’s tempting；But Beth is right；I’m really on a long vacation；back to reality—and find a real job
 

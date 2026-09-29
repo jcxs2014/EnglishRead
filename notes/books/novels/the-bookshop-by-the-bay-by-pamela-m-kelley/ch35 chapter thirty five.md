@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“You’re positively glowing. You look more relaxed and happier than I’ve ever seen you,” Caitlin said as she handed Julia her coffee."
 
-**中文理解**「你今天简直是满面红光。你看起来比我见过的任何时候都更放松、更开心。」Caitlin 一边把咖啡递给她一边说。
+**中文理解**：「你今天简直是满面红光。你看起来比我见过的任何时候都更放松、更开心。」Caitlin 一边把咖啡递给她一边说。
 
 **关键词**：positively glowing；more relaxed and happier than I’ve ever seen you
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "I was thinking the same thing earlier—that I feel lighter. I thought Kyle would give me a harder time about this. That I’d hear from him again, but I think it’s really done.”"
 
-**中文理解**「我早上也想到了同一件事——我确实觉得自己轻了。我以为 Kyle 会在这件事上给我找更多麻烦。我以为我还会再收到他的消息，不过我想这真的结束了。」
+**中文理解**：「我早上也想到了同一件事——我确实觉得自己轻了。我以为 Kyle 会在这件事上给我找更多麻烦。我以为我还会再收到他的消息，不过我想这真的结束了。」
 
 **关键词**：I was thinking the same thing earlier；I thought Kyle would give me a harder time about this；That I’d hear from him again, but I think it’s really done
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "She wasn’t expecting anyone but had a sudden sinking suspicion who it might be. She glanced out the side window and saw Kyle standing on her doorstep. She took a deep breath and opened the door."
 
-**中文理解**「她本没在等任何人，可心里突然一沉，已经猜到是谁了。她从侧窗往外看了一眼，看见 Kyle 站在她家门口。她深吸了一口气，把门打开。」
+**中文理解**：「她本没在等任何人，可心里突然一沉，已经猜到是谁了。她从侧窗往外看了一眼，看见 Kyle 站在她家门口。她深吸了一口气，把门打开。」
 
 **关键词**：a sudden sinking suspicion who it might be；She glanced out the side window；Kyle standing on her doorstep；She took a deep breath and opened the door
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "He frowned, and took a step forward, with a determined look. “I thought you’d come to your senses. We need to talk about this, face-to-face.”"
 
-**中文理解**「他皱起眉头，带着一种不容商量的神情往前迈了一步。「我以为你想通了。这件事我们得当面谈谈。」」
+**中文理解**：「他皱起眉头，带着一种不容商量的神情往前迈了一步。「我以为你想通了。这件事我们得当面谈谈。」」
 
 **关键词**：He frowned, and took a step forward, with a determined look；I thought you’d come to your senses；We need to talk about this, face-to-face
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“He sounds controlling. I’m glad you broke up with him.”"
 
-**中文理解**「他听起来很爱支配人。我很高兴你跟他分手了。」
+**中文理解**：「他听起来很爱支配人。我很高兴你跟他分手了。」
 
 **关键词**：He sounds controlling；I’m glad you broke up with him
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“He didn’t used to be. Or at least I never noticed it, but his behavior lately hasn’t been ideal, that’s for sure. I thought I’d made it clear on the phone that we were done.”"
 
-**中文理解**「他以前不是这样。或者至少我以前没注意到，可他最近的行为确实不太理想，这点我敢肯定。我以为我已经在电话里跟他说清楚了，我们结束了。」
+**中文理解**：「他以前不是这样。或者至少我以前没注意到，可他最近的行为确实不太理想，这点我敢肯定。我以为我已经在电话里跟他说清楚了，我们结束了。」
 
 **关键词**：He didn’t used to be；Or at least I never noticed it；his behavior lately hasn’t been ideal, that’s for sure；I thought I’d made it clear on the phone that we were done
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "There was a manic quality about Kyle that disturbed her—when he didn’t get his way, or didn’t like something, his mood shifted so abruptly. It was unsettling and Julia really hoped that he would take an earlier plane home to Nashville."
 
-**中文理解**「Kyle 身上有一种躁动的气质，让她不安——当他没能如愿、或者不喜欢某件事时，他的情绪会突然就变掉。这让人心里发毛，Julia 真的很希望他能坐早一点的飞机回纳什维尔。」
+**中文理解**：「Kyle 身上有一种躁动的气质，让她不安——当他没能如愿、或者不喜欢某件事时，他的情绪会突然就变掉。这让人心里发毛，Julia 真的很希望他能坐早一点的飞机回纳什维尔。」
 
 **关键词**：a manic quality about Kyle that disturbed her；when he didn’t get his way；his mood shifted so abruptly；It was unsettling
 

@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“It is. He must have just arrived, too. She didn’t waste any time. She was asking me about him at the art show.”"
 
-**中文理解**「是他。他应该也是刚到。她一点时间都没耽误，那天在画展上就问过我他的事。」
+**中文理解**：「是他。他应该也是刚到。她一点时间都没耽误，那天在画展上就问过我他的事。」
 
 **关键词**：He must have just arrived, too；She didn’t waste any time；She was asking me about him at the art show
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“No, not at all. You want it to be as good as possible. I think after a while, though, you have to stop tweaking. It will never be as perfect as you want it to be.”"
 
-**中文理解**「不，一点也不。你想让它做到最好。可我觉得过一段时间以后，你就得停下来不再改了。它永远不会像你希望的那样完美。」
+**中文理解**：「不，一点也不。你想让它做到最好。可我觉得过一段时间以后，你就得停下来不再改了。它永远不会像你希望的那样完美。」
 
 **关键词**：You want it to be as good as possible；you have to stop tweaking；It will never be as perfect as you want it to be
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Well, you’re very good at it. I’m lucky to have your help.” Jim smiled at her and held her gaze a moment longer than he had to, and Alison felt herself blushing."
 
-**中文理解**「嗯，你做得很棒。有你帮忙是我的运气。」他冲她笑了笑，目光比必要的时间多停了一会儿，Alison 觉得自己脸红了。
+**中文理解**：「嗯，你做得很棒。有你帮忙是我的运气。」他冲她笑了笑，目光比必要的时间多停了一会儿，Alison 觉得自己脸红了。
 
 **关键词**：I’m lucky to have your help；held her gaze a moment longer than he had to；Alison felt herself blushing
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Well, I suppose this is my awkward way of asking you to dinner. I just didn’t want to step on any toes.”"
 
-**中文理解**「嗯，我想这大概就是我拐弯抹角请你吃饭的方式。我只是不想踩到谁的脚。」
+**中文理解**：「嗯，我想这大概就是我拐弯抹角请你吃饭的方式。我只是不想踩到谁的脚。」
 
 **关键词**：this is my awkward way of asking you to dinner；I just didn’t want to step on any toes
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“So I was just getting some wine and overheard Ryan Oliphant telling someone that he might be interested in you, but he’s not going to do anything about it because he thinks there might be something going on with you and Chris—that Chris is interested in you.” She took another sip of wine and watched Jess’s reaction closely."
 
-**中文理解**「我刚去拿酒，路过的时候听见 Ryan Oliphant 在跟人说他可能对你有兴趣，可他不会去追，因为他觉得你跟 Chris 之间好像有点什么——说 Chris 对你有意思。」她又抿了一口酒，仔细看着 Jess 的反应。
+**中文理解**：「我刚去拿酒，路过的时候听见 Ryan Oliphant 在跟人说他可能对你有兴趣，可他不会去追，因为他觉得你跟 Chris 之间好像有点什么——说 Chris 对你有意思。」她又抿了一口酒，仔细看着 Jess 的反应。
 
 **关键词**：overheard Ryan Oliphant；he might be interested in you；that Chris is interested in you；watched Jess’s reaction closely
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“That sounds like Kyle.” Alison’s brow furrowed as she looked around nervously for Julia. “And I know he wasn’t invited.”"
 
-**中文理解**「那听起来像是 Kyle。」Alison 皱起眉头，紧张地四下张望着找 Julia。「而且我知道他没有被邀请。」
+**中文理解**：「那听起来像是 Kyle。」Alison 皱起眉头，紧张地四下张望着找 Julia。「而且我知道他没有被邀请。」
 
 **关键词**：That sounds like Kyle；I know he wasn’t invited
 

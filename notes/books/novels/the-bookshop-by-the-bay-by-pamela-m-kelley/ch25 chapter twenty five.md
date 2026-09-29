@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“Sorry. I was daydreaming. I was just thinking how glad I am that I’ve met you all. It was getting a little boring just working and going home. And missing all my friends in Charleston. I wasn’t supposed to be here this long.”"
 
-**中文理解**「抱歉，我在走神。我刚才在想，我有多庆幸认识了你们大家。光是上班再回家，有点无聊了。而且还惦记着查尔斯顿的所有朋友。我本来不该在这里待这么久的。」
+**中文理解**：「抱歉，我在走神。我刚才在想，我有多庆幸认识了你们大家。光是上班再回家，有点无聊了。而且还惦记着查尔斯顿的所有朋友。我本来不该在这里待这么久的。」
 
 **关键词**：I was daydreaming；how glad I am that I’ve met you all；just working and going home；missing all my friends in Charleston；I wasn’t supposed to be here this long
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Lots of butter, cheese, spices, and plump fresh shrimp. Just like lobster, shrimp is better fresh. I’ll make it for you all sometime.”"
 
-**中文理解**「很多黄油、奶酪、香料，再加上饱满的新鲜虾。就像龙虾一样，虾要新鲜才好吃。改天我做给你们大家吃。」
+**中文理解**：「很多黄油、奶酪、香料，再加上饱满的新鲜虾。就像龙虾一样，虾要新鲜才好吃。改天我做给你们大家吃。」
 
 **关键词**：plump fresh shrimp；Just like lobster, shrimp is better fresh；I’ll make it for you all sometime
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I look forward to being wrong.” Jason’s eyes met hers for a moment before he turned his attention back to his lobster roll. Caitlin wasn’t sure if she’d imagined it but for a brief second she thought she’d sensed a vibe. But just as quickly, it was gone."
 
-**中文理解**「那我就期待自己判断错了。」Jason 的目光和她碰了一下，然后转回手里的龙虾卷。Caitlin 不确定自己是不是想多了，但有那么一小会儿，她觉得好像感觉到了点什么。可也只是一下子，就没了。
+**中文理解**：「那我就期待自己判断错了。」Jason 的目光和她碰了一下，然后转回手里的龙虾卷。Caitlin 不确定自己是不是想多了，但有那么一小会儿，她觉得好像感觉到了点什么。可也只是一下子，就没了。
 
 **关键词**：I look forward to being wrong；Jason’s eyes met hers for a moment；she thought she’d sensed a vibe；But just as quickly, it was gone
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Anytime. You know, if you’re interested, there’s a fair next weekend that might be fun to check out. I can get us tickets if you want to go?” Caitlin’s heart skipped a beat."
 
-**中文理解**「随时啊。你要是想去，下周末那边有个集市，去看看应该挺好玩的。要去的话我可以弄到几张票？」
+**中文理解**：「随时啊。你要是想去，下周末那边有个集市，去看看应该挺好玩的。要去的话我可以弄到几张票？」
 
 **关键词**：Anytime；if you’re interested；there’s a fair next weekend；I can get us tickets if you want to go
 

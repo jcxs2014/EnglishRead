@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "Four and a half months later …"
 
-**中文理解**「四个半月后……」
+**中文理解**：「四个半月后……」
 
 **关键词**：Four and a half months later
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "Jess looked up at the new sign that was installed above the door to the law office. She’d ordered it months ago, but waited until she was almost ready to open before she put it up. She couldn’t open for business until her application for a law license in Massachusetts was approved, and the process took four to six months. She was lucky that hers went through as quickly as it did."
 
-**中文理解**「她抬头看刚装到律所门上的那块新招牌。招牌几个月前就订了，但她一直等到自己快要准备好开门才让人装上去。她得等马萨诸塞州的执业许可批下来才能正式接案子，那个流程要四到六个月。她运气好，自己的这次走得算是快的。
+**中文理解**：「她抬头看刚装到律所门上的那块新招牌。招牌几个月前就订了，但她一直等到自己快要准备好开门才让人装上去。她得等马萨诸塞州的执业许可批下来才能正式接案子，那个流程要四到六个月。她运气好，自己的这次走得算是快的。
 
 **关键词**：the new sign that was installed above the door；ordered it months ago；waited until she was almost ready；her application for a law license in Massachusetts；took four to six months；she was lucky that hers went through as quickly as it did
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "She learned he was eighty-two and he had the most positive attitude. She hoped that she’d have half his energy when she reached his age."
 
-**中文理解**「她八十二岁，态度是全书最积极的那种。她希望自己到他那个年纪的时候，能有他一半的精力。」
+**中文理解**：「她八十二岁，态度是全书最积极的那种。她希望自己到他那个年纪的时候，能有他一半的精力。」
 
 **关键词**：eighty-two；the most positive attitude；half his energy when she reached his age
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“Is this still Stan Murphy’s office? He was here for as long as I can remember, but the sign out front doesn’t look the same.”"
 
-**中文理解**「怎么还是 Stan Murphy 的办公室？他在这儿的时间我都记不清了，可外面那块招牌看起来不一样了。」
+**中文理解**：「怎么还是 Stan Murphy 的办公室？他在这儿的时间我都记不清了，可外面那块招牌看起来不一样了。」
 
 **关键词**：Is this still Stan Murphy’s office；for as long as I can remember；the sign out front doesn’t look the same
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“We had to celebrate your first day open. This is a big deal!” Caitlin said."
 
-**中文理解**「我们要庆祝你开张第一天。这可是件大事！」——「太谢谢了，我没想到。」——「第一天怎么样？」——「比预想的好。」Ed 来了，我帮他处理了遗嘱的事。而且我这边还有两位不预约直接上门的。两个人都是冲着 Stan Murphy 找来的。」——「为了拿到这间办公室、然后空坐几个月是值得的。」Ryan 说。
+**中文理解**：「我们要庆祝你开张第一天。这可是件大事！」——「太谢谢了，我没想到。」——「第一天怎么样？」——「比预想的好。」Ed 来了，我帮他处理了遗嘱的事。而且我这边还有两位不预约直接上门的。两个人都是冲着 Stan Murphy 找来的。」——「为了拿到这间办公室、然后空坐几个月是值得的。」Ryan 说。
 
 **关键词**：We had to celebrate your first day open；This is a big deal；Caitlin said
 

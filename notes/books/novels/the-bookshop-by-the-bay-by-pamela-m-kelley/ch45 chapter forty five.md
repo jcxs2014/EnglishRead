@@ -22,7 +22,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "“Are you wearing mascara?” Caitlin asked as Jess came into the kitchen. Jess almost never wore mascara, but she didn’t expect that her daughter would notice when she did."
 
-**中文理解**「你涂睫毛膏了？」Caitlin 在 Jess 走进厨房时问道。Jess 几乎从来不涂睫毛膏，可她没想到女儿竟然会注意到她涂了。
+**中文理解**：「你涂睫毛膏了？」Caitlin 在 Jess 走进厨房时问道。Jess 几乎从来不涂睫毛膏，可她没想到女儿竟然会注意到她涂了。
 
 **关键词**：Are you wearing mascara?；Caitlin asked as Jess came into the kitchen；Jess almost never wore mascara；she didn’t expect that her daughter would notice when she did
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“We put them in batches into a tumbler of sorts and run them around in that. It sort of prunes the length; otherwise they’d grow longer and slimmer, and this way they go a little deeper so we get a nice, juicy oyster."
 
-**中文理解**「我们把它们分批放进一个类似滚筒的东西里，在里面转。它算是把长度修一修；不然它们会长得更长更细，这么弄它们就会长得更厚实，这样我们才能得到一只多汁的好牡蛎。」
+**中文理解**：「我们把它们分批放进一个类似滚筒的东西里，在里面转。它算是把长度修一修；不然它们会长得更长更细，这么弄它们就会长得更厚实，这样我们才能得到一只多汁的好牡蛎。」
 
 **关键词**：We put them in batches into a tumbler；run them around in that；It sort of prunes the length；they’d grow longer and slimmer；a nice, juicy oyster
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“I was the one that invited you out. Friends can buy friends dinner, right?”"
 
-**中文理解**「是我约的你出来的。朋友之间请朋友吃顿饭，不是应该的吗？」
+**中文理解**：「是我约的你出来的。朋友之间请朋友吃顿饭，不是应该的吗？」
 
 **关键词**：I was the one that invited you out；Friends can buy friends dinner, right?
 
@@ -94,7 +94,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“Good night, Ryan.”"
 
-**中文理解**「晚安，Ryan。」
+**中文理解**：「晚安，Ryan。」
 
 **关键词**：Good night, Ryan
 

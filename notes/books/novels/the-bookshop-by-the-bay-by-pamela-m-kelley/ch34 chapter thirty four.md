@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** "The day after they’d gone to the art opening, Jim had hung the painting that she loved so much in the office bullpen, so that everyone could enjoy it."
 
-**中文理解**「他们去参加画展开幕的第二天，Jim 已经把她最喜欢的那幅画挂在了办公室的公共区，好让每个人都能欣赏。」
+**中文理解**：「他们去参加画展开幕的第二天，Jim 已经把她最喜欢的那幅画挂在了办公室的公共区，好让每个人都能欣赏。」
 
 **关键词**：the day after they’d gone to the art opening；Jim had hung the painting that she loved so much；the office bullpen；so that everyone could enjoy it
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I have to stop at the bank first, but yes, grabbing a sandwich after that. By the way, I ran into Chris yesterday. He invited me to a cookout he’s having this weekend. Said it’s going to be a big crowd—should I assume that means you’ll be there?”"
 
-**中文理解**「我得先去趟银行，不过是的，完了我会买个三明治。顺便说一句，我昨天碰上了 Chris。他请我去他这周末办的烧烤会。听说人会很多——我是不是可以理解为你也会去？」
+**中文理解**：「我得先去趟银行，不过是的，完了我会买个三明治。顺便说一句，我昨天碰上了 Chris。他请我去他这周末办的烧烤会。听说人会很多——我是不是可以理解为你也会去？」
 
 **关键词**：By the way；I ran into Chris yesterday；He invited me to a cookout；should I assume that means you’ll be there
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "“I don’t seem to catch much but I like trying. It’s relaxing. I head out sometimes after work for a few hours.”"
 
-**中文理解**「我好像没钓到过几条，但我喜欢试。这件事挺放松的。我有时下班后会出去钓几个小时。」
+**中文理解**：「我好像没钓到过几条，但我喜欢试。这件事挺放松的。我有时下班后会出去钓几个小时。」
 
 **关键词**：I don’t seem to catch much but I like trying；It’s relaxing；after work for a few hours
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "“You could either give us the card or just tell us your name and we’ll look you up. The computer will automatically track the amount of your purchase and when you reach one hundred dollars, you’ll have a ten-dollar credit to use the next time you shop.”"
 
-**中文理解**「你可以把这张卡给我们，也可以直接报名字，我们来查。电脑会自动记下你这次消费的金额，攒到一百美元的时候，下回你消费就有十美元的额度可以用。」
+**中文理解**：「你可以把这张卡给我们，也可以直接报名字，我们来查。电脑会自动记下你这次消费的金额，攒到一百美元的时候，下回你消费就有十美元的额度可以用。」
 
 **关键词**：either give us the card or just tell us your name；The computer will automatically track the amount of your purchase；a ten-dollar credit to use the next time you shop
 
@@ -69,7 +69,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“I’d say it’s fifty-fifty. I’m really not sure. I haven’t heard anything further from him. But I wouldn’t put it past him to just show up and call when he gets here. He’ll have to work around my schedule, though. Caitlin and I are both going to Chris’s party on Saturday and I am not inviting Parker to that.”"
 
-**中文理解**「我觉得是一半一半吧。我实在不确定。我没再从他那儿听到任何消息。不过我也不能保证他不会人到了才打个电话过来就来了。不过他得迁就我的时间安排。Caitlin 和我周六都要去 Chris 的聚会，我不会请他参加那个。」
+**中文理解**：「我觉得是一半一半吧。我实在不确定。我没再从他那儿听到任何消息。不过我也不能保证他不会人到了才打个电话过来就来了。不过他得迁就我的时间安排。Caitlin 和我周六都要去 Chris 的聚会，我不会请他参加那个。」
 
 **关键词**：I’d say it’s fifty-fifty；I haven’t heard anything further from him；I wouldn’t put it past him to just show up and call when he gets here；He’ll have to work around my schedule；I am not inviting Parker to that
 
@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "Did she? “I really don’t know. Sometimes I think maybe, but then I think I’m being silly and we’re just meant to be work friends and employer-employee. Better not to rock that boat, probably.”"
 
-**中文理解**「是吗。「我实在不知道。有时候我想也许是吧，可接着又觉得自己在犯傻，我们注定就是工作上的朋友、雇主和雇员的关系。大概还是别把这个弄晃为好。」」
+**中文理解**：「是吗。「我实在不知道。有时候我想也许是吧，可接着又觉得自己在犯傻，我们注定就是工作上的朋友、雇主和雇员的关系。大概还是别把这个弄晃为好。」」
 
 **关键词**：I really don’t know；Sometimes I think maybe；we’re just meant to be work friends and employer-employee；Better not to rock that boat, probably
 
@@ -93,7 +93,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "“That’s good advice. I’ll do that.” Alison knew that was the practical approach, but she couldn’t help feeling a sense of joy when Jim mentioned that he would be at the cookout, too. She was already looking forward to it, but now there was a different kind of anticipation, too."
 
-**中文理解**「这是个好建议，我会照做。」Alison 知道那是个实际的做法，可一想到 Jim 也会去参加那个烧烤会，她就忍不住高兴起来。她本来就在期待这件事，不过现在还多了一种不同的期待。」
+**中文理解**：「这是个好建议，我会照做。」Alison 知道那是个实际的做法，可一想到 Jim 也会去参加那个烧烤会，她就忍不住高兴起来。她本来就在期待这件事，不过现在还多了一种不同的期待。」
 
 **关键词**：That was the practical approach；a sense of joy；already looking forward to it；a different kind of anticipation
 

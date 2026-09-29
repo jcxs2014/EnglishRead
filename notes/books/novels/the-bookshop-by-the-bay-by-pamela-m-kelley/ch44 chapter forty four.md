@@ -34,7 +34,7 @@ modified: "2026-09-29"
 
 > **原句 2:** "“I miscalculated, again. I thought I’d made enough cuts to buy us time to turn things around, but advertising is still declining as more local businesses are going to Facebook and other online ads. This next month’s issue is half the size it was a year ago.” Alison knew that advertising dictated the size of the issues—how many pages they could afford to produce."
 
-**中文理解**「我又算错了。我以为我砍得够多、够撑到局面翻盘，可广告还在继续往下滑，越来越多的本地商家转向脸书和其他线上广告。下个月那一期的篇幅，只有一年前的一半。」Alison 知道是广告决定了每一期的篇幅——他们能负担得起印多少页。
+**中文理解**：「我又算错了。我以为我砍得够多、够撑到局面翻盘，可广告还在继续往下滑，越来越多的本地商家转向脸书和其他线上广告。下个月那一期的篇幅，只有一年前的一半。」Alison 知道是广告决定了每一期的篇幅——他们能负担得起印多少页。
 
 **关键词**：I miscalculated, again；I thought I’d made enough cuts to buy us time；advertising is still declining；This next month’s issue is half the size it was a year ago
 
@@ -46,7 +46,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "I wrestled with this all last night, trying to come up with another solution, but the only option is to eliminate overhead, which means several positions need to go. And as much as I hate to do this, yours is one of them. I know you’re already down to part-time, but even that is too much, I’m afraid.”"
 
-**中文理解**「我昨晚为此挣扎了一整夜，想找出另一个办法，可唯一的路子只能是砍掉成本，也就是说有几个岗位得撤掉。虽然我非常不愿意这么做，但你的岗位在撤掉之列。我知道你已经降到兼职了，可连那样也还是太多了，我恐怕。」
+**中文理解**：「我昨晚为此挣扎了一整夜，想找出另一个办法，可唯一的路子只能是砍掉成本，也就是说有几个岗位得撤掉。虽然我非常不愿意这么做，但你的岗位在撤掉之列。我知道你已经降到兼职了，可连那样也还是太多了，我恐怕。」
 
 **关键词**：I wrestled with this all last night；trying to come up with another solution；the only option is to eliminate overhead；yours is one of them；even that is too much
 
@@ -58,7 +58,7 @@ modified: "2026-09-29"
 
 > **原句 4:** "I worried, too, that this might change things with us. Just when it seemed like we were off to a great start. At least I thought we were?”"
 
-**中文理解**「谢谢。我当时也担心，这件事会让我们之间生变。就在它看起来正朝一个很好的开端走的时候。至少我是这么觉得的？」
+**中文理解**：「谢谢。我当时也担心，这件事会让我们之间生变。就在它看起来正朝一个很好的开端走的时候。至少我是这么觉得的？」
 
 **关键词**：I worried, too；that this might change things with us；off to a great start；At least I thought we were?
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 > **原句 5:** "“We are. And this doesn’t have to change anything. I’m not going anywhere. I’ll still be here in Chatham, just not in your office every day. It will work out.”"
 
-**中文理解**「我们没事。而且这件事不必改变什么。我哪儿也不去。我还会在 Chatham，只是不在你办公室天天见面了。会好起来的。」
+**中文理解**：「我们没事。而且这件事不必改变什么。我哪儿也不去。我还会在 Chatham，只是不在你办公室天天见面了。会好起来的。」
 
 **关键词**：We are；And this doesn’t have to change anything；I’m not going anywhere；I’ll still be here in Chatham；It will work out
 
@@ -82,7 +82,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "“Well, if you’re able to spend more time here, we’ll have to figure out a way to get you more money—I’ve been thinking about this anyway, for when I leave in October and it’s just you here. We’ll work out a salary that seems fair, and of course any profits, above and beyond other expenses, will be split. We’ll get there. Take a look at last week’s numbers—they are encouraging.”"
 
-**中文理解**「嗯，如果你能多花点时间在这儿，我们就得想办法给你多找些收入——我本来就一直在想这件事，为了我十月走之后这儿只剩你一个人的情况。我们会商量出一个看起来公平的薪水，当然，除了其他开销之外的盈余也会分给你。我们会做成的。看看上周的数字——挺让人鼓舞的。」
+**中文理解**：「嗯，如果你能多花点时间在这儿，我们就得想办法给你多找些收入——我本来就一直在想这件事，为了我十月走之后这儿只剩你一个人的情况。我们会商量出一个看起来公平的薪水，当然，除了其他开销之外的盈余也会分给你。我们会做成的。看看上周的数字——挺让人鼓舞的。」
 
 **关键词**：spend more time here；we’ll have to figure out a way to get you more money；for when I leave in October；a salary that seems fair；any profits, above and beyond other expenses, will be split
 
@@ -94,7 +94,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "His dimples popped as he smiled and said, “Oh, and by the way, this isn’t a date or anything. Just two new friends that like to see movies. No harm in that, right? And we have to eat.”"
 
-**中文理解**「哦对了，顺便说一句，这不算什么约会。就是两个喜欢看电影的新朋友。这样没什么不妥吧？而且我们总得吃饭。」
+**中文理解**：「哦对了，顺便说一句，这不算什么约会。就是两个喜欢看电影的新朋友。这样没什么不妥吧？而且我们总得吃饭。」
 
 **关键词**：His dimples popped as he smiled；this isn’t a date or anything；Just two new friends that like to see movies；No harm in that, right?；And we have to eat
 
