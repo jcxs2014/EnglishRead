@@ -172,7 +172,7 @@ source_text: ch03
 
 **为什么这样写**：全章以自我承认收尾，而这个承认是对「他威胁要离开」的反应。三个分句前两个是一组：承认无理由（could not explain）加承认事实（but I did）——承认自己的反应不需要理由，本身就够难。Finally, he was showing some self-respect 用 some 限定词，把「他要有了」和「他还没有」之间的距离留出来。
 
-**读者视角提示**：Pete 说这是威胁，Carmen 读成进步；这个错位是 ch09 之后两人真正分手的起点，也是她日后在 ch00 狱中「didn't know if it was a trap or a gift」的直接来源。
+**读者视角提示**：Pete 说这是威胁，Carmen 读成进步；这个错位是 ch09 之后两人真正分手的起点，也是她日后在 ch00 狱中反复听那句「The trick is to get out at least once」时的直接来源。
 
 ---
 

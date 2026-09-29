@@ -102,7 +102,7 @@ source_text: ch16
 
 **为什么这样写**：全章最短也最硬的一次宣告，说在 Red 把 Durka 的整套计划转述完之后。作者把「durka 的计划也是我的计划」和「但该改的还是要改」这两半压进一句否定里——她不否认继承，她拒绝服从。ain't 是口语，正是这本小说里所有真话被说出来的方式；taking orders 这个搭配把母女关系直接翻译成军衔关系。
 
-**读者视角提示**：这是全书两代人的分界线。Durka 用一辈子执行 ch15 那句「You never know who is coming for you」，而 Grace 接手后第一个动作是把它改成「Don’t look away. Decide how you want to go」。
+**读者视角提示**：这是全书两代人的分界线。Durka 用一辈子执行 ch14 那句「You never know who is coming for you」，而 Grace 接手后第一个动作是把它改成「Don’t look away. Decide how you want to go」。
 
 ---
 

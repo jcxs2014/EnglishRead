@@ -186,7 +186,7 @@ source_text: ch12
 
 **为什么这样写**：全章最后一个判断，也是作者给 Grace 下的最直接的诊断。她第一次送出第一批货，走在落叶里，觉得自己「possible」，而作者立刻把这个感觉跟毒品放在同一个等号上。It is, without question, as addictive as any drug 里的 without question 把警告钉死，不留反驳余地——作者不想让读者用「其实她很单纯」来保护她。
 
-**读者视角提示**：这一句直接连上 ch10 那段「I want Carmen to see on the outside how good this was feeling on the inside」——那种「演给她看」的需要，和这种上瘾，是同一件事的两种说法。
+**读者视角提示**：这一句直接连上 ch10 那段「I wanted Carmen to see on the outside how good this was feeling on the inside」——那种「演给她看」的需要，和这种上瘾，是同一件事的两种说法。
 
 ---
 

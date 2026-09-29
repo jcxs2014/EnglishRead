@@ -46,7 +46,7 @@ source_text: ch11
 
 **为什么这样写**：全章最诚实的一处自我观察，用一个军事/赏金意象（bounty）把自己的身体写成一件待领的货，prepared 的意思被 primed 一个词顶掉了——不是她准备好了，是她被预先调好了。less wrong than a lot of other shit 里的比较级是全句的重量所在：作者不肯说她愿意，也不肯说她被迫，只说她把这一件放进了错误的清单里跟别的比大小。
 
-**读者视角提示**：这一句把 ch10 那句「My body was sending me all sorts of mixed signals」接了下去：ch10 是信号乱，ch11 是信号乱之后她照着其中一个信号排好了队。
+**读者视角提示**：这一句把本章开头那句「My body was sending me all sorts of mixed signals」接了下去：先有信号乱，才有信号乱之后她照着其中一个信号排好了队。
 
 ---
 

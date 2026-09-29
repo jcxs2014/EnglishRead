@@ -60,7 +60,7 @@ source_text: ch08
 
 **为什么这样写**：全章的逻辑内核，用 didn’t mean 划开「走」与「出」两条线。especially if no one even knew 用一个条件从句把标准降到最低——出走的定义不是走，而是被承认；没人知道，就等于没走。这句也是全书对「出狱／出门」这类动作的同一把尺子。
 
-**读者视角提示**：它和 ch00 里那句「Nobody is going to tell you how to get out」形成回环：那时是没人教她怎么走，现在是她走了也没人知道。
+**读者视角提示**：它和 ch00 里那句「The trick is to get out at least once」形成回环：那时她还没试过怎么走，现在她走了，而没有人知道。
 
 ---
 

@@ -46,7 +46,7 @@ source_text: ch15
 
 **为什么这样写**：全章最短的一次身体描写，用一个垃圾做比喻，而且是主动的——不是风吹皱的、不是被打湿的，是被人丢掉的东西。throw in the trash 里的 a paper 用不定冠词，说明她不是「像一张纸」，是像「某一次被扔掉的纸」，可以随时被扔掉那种。前面一句还特意排除了晕倒：I didn't faint or lose consciousness. I simply could not stand.——她清醒地垮掉。
 
-**读者视角提示**：这一句的 carried on 一直连到 ch12 那句「all the bullshit that ran through my mind all day long, and that is exactly what I did」——那天她在心里说了一整天「别给我睡过去」，然后就睡过去了。
+**读者视角提示**：这一句的 carried on 一直连到本章后面那句「I be saying, “Don’t be sleepin’ on me” to my girls all day long, and then that is exactly what I did.」——那天她在心里说了一整天「别给我睡过去」，然后就睡过去了。
 
 ---
 

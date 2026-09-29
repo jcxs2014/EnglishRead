@@ -32,7 +32,7 @@ source_text: ch06
 
 **为什么这样写**：全章第一组对照，circle 与 clear door 是一组几何对几何的对立。circle 永远回到原点，door 是单向的；两个时间表用的是同一件家具（门），却给出相反的去向。counting in weeks 把倒计时写成了动作，落在最具体的时间单位上，而「圆」是没有刻度的——这就是两人争执的全部。
 
-**读者视角提示**：这组对照在 ch05 的「the trick is to get out at least once」之后继续生长；十四年后她在狱中画的正是那扇门。
+**读者视角提示**：这组对照在 ch00 狱中那句「The trick is to get out at least once」之后继续生长；十四年后她在狱中画的正是那扇门。
 
 ---
 

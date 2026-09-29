@@ -32,7 +32,7 @@ source_text: ch27
 
 **为什么这样写**：全章第一句就把标题里的那个词解构掉。a lot of meanings 承认这个词好用，none of them true 立刻推翻它的全部用法——包括本义（鬼魂、闹鬼）和引申义（挥之不去的记忆、纠缠）。作者用一个学术式的定义句开场，随后立刻给出三个短句的自我陈述：I am haunted. I am also a ghost. Yet I am very much alive.——三句递增，把「活着的鬼」这个状态写成一个不需要解释的事实。
 
-**读者视角提示**：这三句也是 ch15 那句「it wasn't the whole truth」的最终版本：Grace 学会了同时承认两件互相矛盾的事，而且不打算调和。
+**读者视角提示**：这三句也是 ch15 那句「It wasn’t forgiveness exactly」的最终版本：Grace 学会了同时承认两件互相矛盾的事，而且不打算调和。
 
 ---
 

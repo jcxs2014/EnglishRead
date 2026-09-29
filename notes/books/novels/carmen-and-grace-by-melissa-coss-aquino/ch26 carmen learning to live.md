@@ -44,7 +44,7 @@ source_text: ch26
 
 **关键词**：All except for Grace / She never came / no matter how hard I tried to call her with my mind
 
-**为什么这样写**：全章最痛的一次点名，用一个 except 把 Grace 从一整群来梦里报到的人里单独摘出来。She never came 只有三个词，两个都是绝对词（never、came），中间不留余地。no matter how hard I tried to call her with my mind 用一个让步结构承认她试过——而 with my mind 直接回指 ch17 那次「It felt like Carmen calling me with her mind」。
+**为什么这样写**：全章最痛的一次点名，用一个 except 把 Grace 从一整群来梦里报到的人里单独摘出来。She never came 只有三个词，两个都是绝对词（never、came），中间不留余地。no matter how hard I tried to call her with my mind 用一个让步结构承认她试过——而 with my mind 直接回指 ch16 那次「It felt like Carmen calling me with her mind」。
 
 **读者视角提示**：这一句也是全书对姐妹关系最正式的一次判定：她们练过互相用心叫，练习失败了。紧接的一句是「It might have been the rage. When I learned to stop crying, I became the angriest I had ever been and that feeling had Grace's name all over it.」
 
@@ -156,7 +156,7 @@ source_text: ch26
 
 **关键词**：全句四个词
 
-**为什么这样写**：全章最短也最狠的一次判定，紧接在 Mareeka 的名字后面。四个词，两个否定（not / home），而 home 在这本书里从来不是一个地方——它是 ch13 那栋没有家具的仓库、ch18 那座被 Durga 造出来又继承了的安全屋、是 ch09 Grace 说的那座「a castle of its own」。Mareeka 做了这一切，而作者用这四个字把它整个还回去。
+**为什么这样写**：全章最短也最狠的一次判定，紧接在 Mareeka 的名字后面。四个词，两个否定（not / home），而 home 在这本书里从来不是一个地方——它是 ch13 那栋没有家具的仓库、ch18 那座被 Durga 造出来又继承了的安全屋、是 ch09 里 Grace 说过「castles have rules of their own」的那座军械库。Mareeka 做了这一切，而作者用这四个字把它整个还回去。
 
 **读者视角提示**：这一句是全书的中心：Grace 死后，留下来的人都很好，而没有一个是家。
 
