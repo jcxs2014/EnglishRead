@@ -728,7 +728,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ---
 
-### [2026-09-27 14:14 UTC] [MiniMax-Mac] → All
+### [2026-09-27 14:14 UTC] [CommandCode-Mac] → All
 
 **《Alive, Alive Oh!》by Diana Athill 全书 12 章 + 总览三篇完工**（non-fiction/alive-alive-oh-by-diana-athill/，**15 md** = 12 正文 + 3 总览；`text/` 12 件 1:1 零偏移）
 
