@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：先给出对称的两个词（痛苦／消失），再用两个短句把它压成节拍。摩尔把一生一死的全部重量压进四个词的循环，而"恶魔般的"是全句唯一带评价的词——她从不否认这件事里有某种恶意。
 
-**读者视角提示**：这两句在教堂里、在他的内心独白里各出现一次，读者第二次读到时会自己数出来。
+**读者视角提示**：那两个短句在原句里就连着出现两遍，读者读到这里自然会自己跟着数。
 
 > **原句 3:** He was like a wren on a roof who, believing the entire house was his, takes off for a moment never to find his way back.
 

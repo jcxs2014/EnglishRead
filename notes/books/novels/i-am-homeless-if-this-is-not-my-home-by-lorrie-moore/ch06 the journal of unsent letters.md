@@ -23,7 +23,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全书最关键的一次空间叠合就写在这样一句报地址的台词里——当代的高速公路与书信线的街名在同一个路口相交。摩尔从不点破"两条时间线"这件事，她只是让一个地名被读出来两次。
 
-**读者视角提示**：南孙肯路（South Sunken Road）是 ch01 那位莉比小姐住的那条街；同一条街在两百年后仍然通着车。
+**读者视角提示**：南孙肯路（South Sunken Road）是 ch01 那位莉比小姐住的那条街；同一个路名在两条线上各被读出一次：一封战后小镇的信，一辆当代的车。
 
 > **原句 2:** “You have the mixed bouquet of jasmine, tobacco, dried apple blossoms, plus rose, lilac, and raisin. Some tannins. There are always tannins.”
 
