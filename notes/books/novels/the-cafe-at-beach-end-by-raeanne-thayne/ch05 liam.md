@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：file 与本人在同一段里对撞——「studied her file so intently」 vs 「meek, nervous-looking woman」。两个 tired（他眼里的 café 是 tired-looking，她自己何尝不是）隔空呼应。作者让男主第一次登记了「她与卷宗对不上」的观察，这是他从猎人转向怀疑自己判断的第一块砖。
 
-**读者视角提示**：「If he hadn't…he would never have guessed」这个虚拟句式反过来读就是：他对她的全部想象来自纸面。本章他只带了卷宗来，没有带眼睛——往后每一章他都要学一件事：人不是文件。
+**读者视角提示**：「If he hadn’t studied her file so intently, he would never have guessed」这个虚拟句式反过来读就是：他对她的全部想象来自纸面。本章他只带了卷宗来，没有带眼睛——往后每一章他都要学一件事：人不是文件。
 
 ---
 

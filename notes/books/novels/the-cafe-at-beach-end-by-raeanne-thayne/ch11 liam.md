@@ -13,7 +13,7 @@ modified: "2026-09-29"
 
 **Tropes 兑现/反转**：共同劳动（painting together）前奏——周六夜里两把刷子的约定；半真话艺术——「grateful he didn't have to lie」（writer's block 是真瓶颈）；审讯技巧武器化——他用审讯班学来的沉默施压换取坦白，取证与谈心同构。
 
-**人物弧线**：Meredith 的自我贬低（「restaurant work is not my strong suit」）与贡献欲（「证明我有可贡献的」）同时在场；Liam 的谎言生活成本开始记账——他其实爱独步、背包走过 Appalachian Trail；受害者名单再添 Frances（十几万美元的养老积蓄），他的道德义愤多了一层。
+**人物弧线**：Meredith 的自我贬低（「restaurant work is obviously not my strong suit」）与贡献欲（「证明我有可贡献的」）同时在场；Liam 的谎言生活成本开始记账——他其实爱独步、背包走过 Appalachian Trail；受害者名单再添 Frances（十几万美元的养老积蓄），他的道德义愤多了一层。
 
 **叙事手法**：「假装写书」的日常化喜剧（writer's block 应答与 kayaking 推荐戏）；沉默施压的武器化与 shell 意象（sea turtle）——与 Tori 的 lockbox 同族：本书所有人都往壳里躲；章末 key 意象双关——她拿着咖啡馆的门禁钥匙，也「拿着赃款的钥匙」。
 

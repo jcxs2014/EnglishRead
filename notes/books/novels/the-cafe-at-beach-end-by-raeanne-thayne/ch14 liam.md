@@ -7,7 +7,7 @@ modified: "2026-09-29"
 
 ## 本章导航
 
-**一句话概括**：刷墙夜没能撬开她的嘴（spiny wall），却撬开了他自己的确定性——她自曝婚史：八年的婚姻，「比正解多七年三周零五天」；二十三岁为「公司的黄金单身汉」放弃了卢浮宫与巴黎的新工作；而那句「Other people make mistakes like…mine are a little bigger than that」让他第一次开始动摇。
+**一句话概括**：刷墙夜没能撬开她的嘴（spiny wall），却撬开了他自己的确定性——她自曝婚史：八年的婚姻，「比正解多七年三周零五天」；二十三岁为「公司的黄金单身汉」放弃了卢浮宫与巴黎的新工作；而那句「Other people make mistakes like running a red light and transposing numbers when they balance their checkbooks」让他第一次开始动摇。
 
 **情感弧线位置**：男主认知翻页——猎手第一次怀疑自己的卷宗；女主的防线却意外开了一道缝：她贬损自己的过去时用的是真话，而真话正是审讯最好的入口（也是他开始动心的起点）。
 
