@@ -22,7 +22,7 @@ modified: "2026-09-29"
 **为什么这样写**：谚语一开篇就把家庭的时间纪律说成不可协商的公理，而 "unacceptably" 正是这条公理的执行词——它不描述表姐有多急，只宣布她已越线。越线之后全章的追赶才有了重量。
 **读者视角提示**：注意 "late" 在这一段里出现三次而用法各不相同——"on time was late" 与 "late was unacceptable" 把准时和迟到排成一条递进链，"unacceptably late" 则改用副词去限定最后一次迟到；正因为如此，原文才要另外补一句 "fifteen minutes behind schedule" 来说明迟了多久。
 
-> **原句 2:** "My cousin had more excuses than a hoe going to jail, and I didn't have time to entertain her colorful tales this morning."
+> **原句 2:** "My cousin had more excuses than a hoe going to jail, and I didn’t have time to entertain her colorful tales this morning."
 
 **中文理解**：我表姐的借口比"进监狱的锄头"还多，今早我没工夫听她那些五花八门的故事。用一个下流夸张的比喻来否定对方话多，同时不引述任何一句借口。
 **关键词**：excuses / a hoe going to jail / colorful tales
@@ -36,7 +36,7 @@ modified: "2026-09-29"
 **为什么这样写**：三个限定成分（twelve Negro students／across the city of Philadelphia／Negro）把一个人的机会写成了制度性稀缺的产物，奖学金因此不只是钱，而是一道被制度和家计同时卡住的门：原文紧接着就写 "No one in my family had been to college, nor could they afford to send me"，把别的可能直接否掉了。句尾 "the oldest historically Negro college in the country" 则用最高级把学校的历史与她的处境并置。
 **读者视角提示**："competing to receive" 是进行体，说明考试还没结束，她此刻每一次迟到都直接扣在筹码上。
 
-> **原句 4:** "It was times like this I wished there was a button that would erase me. Not to die or nothing. Just so I wouldn't exist."
+> **原句 4:** "It was times like this I wished there was a button that would erase me. Not to die or nothing. Just so I wouldn’t exist."
 
 **中文理解**：就是这种时候，我希望有个按钮能把我抹掉。不是去死什么的，只是好让我不必存在。
 **关键词**：a button that would erase me / wouldn't exist
@@ -50,14 +50,14 @@ modified: "2026-09-29"
 **为什么这样写**：她把胁迫在语法上转写成一道待解的障碍题（只有一样东西挡着），以便把它算成可完成的代价；"measly" 让交易在自己的价值体系里被贬低，而最后一句自我打气说明她需要这笔贬低才能迈步。
 **读者视角提示**：后面几句一句比一句短，节奏本身就是她下定决心的过程。
 
-> **原句 6:** "Got no business all up in my man's face. Stay in a child's place."
+> **原句 6:** "Got no business all up in my man’s face. Stay in a child’s place."
 
 **中文理解**：没脸凑到我男人跟前。给我老实待在小孩子该待的位置上。
 **关键词**：all up in my man's face / Stay in a child's place
 **为什么这样写**：母亲的话是全章的转折点，两个短句都是命令式，第二句直接用一个名词化的空间（"小孩子的位置"）把女儿逐出成年人行列——母亲的立场不是"你没被亲"，而是"你不该在那个位置"。
 **读者视角提示**：Leap 刚刚说 "She came on to me"，母亲的反应证实了她完全采信；这意味着读者掌握的真相比叙述者被指控的真相更早一层。
 
-> **原句 7:** "But the bus driver pulled away from the curb like he didn't hear me. Like I didn't matter. Like I didn't exist."
+> **原句 7:** "But the bus driver pulled away from the curb like he didn’t hear me. Like I didn’t matter. Like I didn’t exist."
 
 **中文理解**：可公交司机还是像没听见我一样把车从路边开走了。像我不重要。像我并不存在。
 **关键词**：Like I didn't matter / Like I didn't exist
