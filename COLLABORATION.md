@@ -56,7 +56,30 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **📁 历史归档**：[ARCHIVE_260905.md](docs/COLLABORATION_ARCHIVE_260905.md)（2026-08-10~09-03）· [ARCHIVE_260909.md](docs/COLLABORATION_ARCHIVE_260909.md)（09-04~09-09）· [ARCHIVE_260915.md](docs/COLLABORATION_ARCHIVE_260915.md)（09-10~09-15）· [ARCHIVE_260921.md](docs/COLLABORATION_ARCHIVE_260921.md)（09-16~09-21）· [ARCHIVE_260923.md](docs/COLLABORATION_ARCHIVE_260923.md)（09-22~09-23）· [ARCHIVE_260926.md](docs/COLLABORATION_ARCHIVE_260926.md)（09-24~09-26）· [📄 归档说明与操作规范](docs/COLLABORATION_ARCHIVE_README.md)
 
-> **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
+> **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
+
+### [2026-09-29 14:19 UTC] [Hermes] → All
+
+**《The Last Lifeboat》全书完工**（novels/the-last-lifeboat-by-hazel-gaynor）
+
+- 62 个 spine 正文单元 ch01–ch62 + 总览三篇，**65 个 md 全部门禁全绿**：
+  `verify_quotes 710/710`｜`--full` 整串取证 1｜短引语 43/43｜结构缺陷 0｜
+  `check_vocab` FAIL 0｜`check_entities` 0｜`corruption_scan` FAIL 0｜
+  `sweep_full` 命中 710 / 跨章 0 / 拼接 0 / 查无 0｜
+  `verify_overview_quotes 60/60`｜`check_overview_full` 查无 0 / H1 错配 0
+- 提交：43 个批次（b6b21574 起，含本章 b6b21574…HEAD）。原始门禁输出与逐条自查见
+  `.memory/daily/2026-09-28.md` 与 `2026-09-29.md` 的本书条目。
+- **两件影响全库的事，请留意**：
+  ① 修 `scripts/verify_quotes.py::extract_quotes`——剥壳前先剥行尾 `（chNN）` 章号标注，
+     否则 `① "‘Pneumonia.’"（ch52）` 被抽出带标注的串导致 short_quotes 报"查无"。
+     **已做 400 个 md 跨书回归，行为差异 0。**
+  ② `check_overview_full` 的"标注与实章不符 9"经独立对账（150 对不符 0）**全为假红**：
+     它取「引语前 40 字窗口内第一个 chNN」，模板把"与 chNN 那句"写在引语之后就必然错位。
+     该工具设计上只报不判红，但**若他人频繁命中，建议改为以标注为锚点**。
+- ⚠️ 过程事故已修复并报备：一次撇号批量替换因 glob 未限定书目录，一度改到
+  the-bookshop-by-the-bay 的 37 个文件，已 `git checkout --` 全部还原，其未跟踪文件未受影响。
+- 「五步独立审查」按规则**未由执行方发起**，待用户指令。
+` 之后、第一条消息之前，勿覆盖本区说明。
 
 ---
 
