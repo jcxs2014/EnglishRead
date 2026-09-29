@@ -15,7 +15,7 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** "My grandma went blind a few years ago, and I want to learn to fix her. Or people like her—probably too late for her to get her sight back, but I'm holding out hope."
+> **原句 1:** "My grandma went blind a few years ago, and I want to learn to fix her. Or people like her—probably too late for her to get her sight back, but I’m holding out hope."
 
 **中文理解**：我外婆几年前失明了，我想学会治好她。或者是像她这样的人——大概已经太晚、她的视力回不来了，但我还留着这份指望。
 **关键词**：went blind / learn to fix her / holding out hope
@@ -29,7 +29,7 @@ modified: "2026-09-29"
 **为什么这样写**：她不直接断言这个词是错的，而是**转述**老师的话——用"某人说过"把纠正变成一份有出处的判断，语气因此不像争辩；"keep our race down" 用 down 这个方向词把种族压迫说成一种按压动作。
 **读者视角提示**：他随即道歉，她却接着抛出 Dr. Charles Drew——她要的不是道歉，是有人知道她那边的历史。
 
-> **原句 3:** "He couldn't afford to buy tickets for all of us, so this spot was the next best thing."
+> **原句 3:** "He couldn’t afford to buy tickets for all of us, so this spot was the next best thing."
 
 **中文理解**：他买不起够我们所有人看的票，所以这个车位就是退而求其次的最好办法。
 **关键词**：couldn't afford to buy tickets / the next best thing
@@ -50,7 +50,7 @@ modified: "2026-09-29"
 **为什么这样写**：姑姑用一句赌桌比喻把利害关系一次讲清（输赢已定，不是努力的问题）；"Cut that shit off now" 的祈使句连主语都不给，命令直接落在"现在"这个时间点上。
 **读者视角提示**：她没有问为什么、也没争辩，只答了声 "Yes, Auntie"——这一声应承的分量，比她整晚的坦白都重。
 
-> **原句 6:** "Chile, I ain’t nobody’s ma’am," she said as the telephone rang. "But I mean what I say."
+> **原句 6:** "Chile, I ain’t nobody’s ma’am,” she said as the telephone rang. “But I mean what I say."
 
 **中文理解**：孩子，我可不是谁家的"妈"，她说着电话响了。可我说话是当真的。
 **关键词**：I ain't nobody's ma'am / as the telephone rang / But I mean what I say

@@ -29,14 +29,14 @@ modified: "2026-09-29"
 **为什么这样写**：Nadine 用两个比喻把潜规则说成常识，其中"直得像尺子"把发质当成尺子来量；末句的反问不是责备而是惊讶——她真心以为 Eleanor 早该听说。
 **读者视角提示**：这段话解释为什么 Eleanor 会"从未听说"：她此前一直相信按肤色评判人是愚蠢的，下一块给出她自己的两条反驳。
 
-> **原句 3:** "One because it was just plain foolish to judge a girl's worth by her skin color, and two because she knew at least two girls who'd got in and did not fit that description."
+> **原句 3:** "One because it was just plain foolish to judge a girl’s worth by her skin color, and two because she knew at least two girls who’d got in and did not fit that description."
 
 **中文理解**：一是按肤色评判一个女孩的价值荒唐（原文的用词是 just plain foolish），二是她至少认识两个进了这个会、却不符合那种描述的女孩。
 **关键词**：just plain foolish / two because / did not fit that description
 **为什么这样写**：叙述者用"一条理由、两条理由"的列举把反驳写成可清点的论证，语气像在做课堂报告；关键是"at least two"——她手里有反例，于是怀疑被推迟。
 **读者视角提示**：后文 Nadine 用 Millicent 的家世解释了这个反例为何失效，读者比 Eleanor 先看到答案。
 
-> **原句 4:** "Not in the mirror, you aren't."
+> **原句 4:** "Not in the mirror, you aren’t."
 
 **中文理解**：在镜子里吗，你不是。
 **关键词**：Not in the mirror
@@ -50,7 +50,7 @@ modified: "2026-09-29"
 **为什么这样写**：Porter 把目标说成一个动词（build a collection）再补一个宾语范围（all of our history），最后用两个形容词收束；"Comprehensive" 一词在档案学里是技术标准，在这里却带出政治宣言的意味。
 **读者视角提示**：这句与拒信里的"community presence"构成对照——一个把社群的过去当材料，一个把社群的在场当条件。
 
-> **原句 6:** "Sorry to trouble you, ma'am. But can I sharpen my pencil?"
+> **原句 6:** "Sorry to trouble you, ma’am. But can I sharpen my pencil?"
 
 **中文理解**：抱歉打扰您。能帮我削一下铅笔吗？
 **关键词**：Sorry to trouble you / can I sharpen my pencil

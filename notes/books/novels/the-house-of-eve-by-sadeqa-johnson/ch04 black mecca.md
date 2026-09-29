@@ -15,14 +15,14 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** "If I told you, I'd have to shoot you."
+> **原句 1:** "If I told you, I’d have to shoot you."
 
 **中文理解**：我要是告诉你，就得把你毙了。
 **关键词**：If I told you / I'd have to shoot you
 **为什么这样写**：Nadine 用黑帮片的口吻交代自己违规搞到了出门条；条件句（If）让这句玩笑成立，同时把"怎么做到的"这一页永远合上——读者和她都知道有门路，只是门路不外传。
 **读者视角提示**：这句话把上一章那句"她的姓替她把门都打开了"落到了实处：门路存在，代价是它属于她。
 
-> **原句 2:** "I bet you spend more time with books than people," he teased, showing perfectly stacked teeth.
+> **原句 2:** "I bet you spend more time with books than people,” he teased, showing perfectly stacked teeth."
 
 **中文理解**：我敢说你在书上的时间比在人身上多，他逗我，露出叠得整整齐齐的牙。
 **关键词**：I bet you spend more time with books than people / showing perfectly stacked teeth
@@ -36,28 +36,28 @@ modified: "2026-09-29"
 **为什么这样写**：一句里塞进两个被动的规则（被看／被听），句子本身就把她们写成布景的一部分；而 "but never heard" 与下一句 Eleanor 自认"本该是其中之一"之间的落差，正是本章的痛点。
 **读者视角提示**：原文紧接着说她们要等六周才拿到银腰带与穿薰衣草色的资格——等待期被写成了仪式的一部分，而不是惩罚。
 
-> **原句 4:** "Better luck next year. Stay persistent," she cooed
+> **原句 4:** "Better luck next year. Stay persistent,” she cooed,"
 
 **中文理解**：明年好运。坚持下去，她娇声说。
 **关键词**：Better luck next year / Stay persistent / cooed
 **为什么这样写**：第二章那封拒信的原句（"we invite you to try again next year"，已回 ch02 逐字核对）在这里换了个人、换了种语气重演；"Stay persistent" 把劝告说成夸奖，"cooed" 那个轻柔的拟声则让恶意听起来像好心。
 **读者视角提示**：Eleanor 此刻正希望这句话没说出口，因为 William 就站在旁边——读者比她先意识到这句话的双重听众。
 
-> **原句 5:** "We practically bathed together as children," she laughed.
+> **原句 5:** "We practically bathed together as children,” she laughed."
 
 **中文理解**：我们小时候几乎是一起洗澡长大的，她笑着说。
 **关键词**：We practically bathed together / as children / laughed
 **为什么这样写**：Greta 用一句童年细节抢占亲密关系的所有权，"practically" 是她唯一的松动；这句与上一章 Nadine 说 Millicent 那两家"都毕业于霍华德，这叫 legacy"同型，家族资本在这里由女性亲口宣示。
 **读者视角提示**：随后那句 "Our families are very close" 更空——真正被展示的是资格，不是感情。
 
-> **原句 6:** "Greta's skin was so white the only thing that identified her as a Negro was that she attended Howard with the rest of them."
+> **原句 6:** "Greta’s skin was so white the only thing that identified her as a Negro was that she attended Howard with the rest of them."
 
 **中文理解**：Greta 的皮肤白到，唯一还能标明她是黑人的，就是她和他们一样在霍华德读书。
 **关键词**：so white / the only thing that identified her as a Negro / attended Howard
 **为什么这样写**：叙述者用一句"除了……没有别的"把肤色写成一纸档案的最后一项注册信息；讽刺不靠形容词，靠的是把族裔归到在校籍这一条行政事实之下。
 **读者视角提示**：这句与上一章 Nadine 说的"比纸袋还白的皮肤"互为镜像——上一章那是被嘲的潜规则，这一句是叙述者自己的清算。
 
-> **原句 7:** "It wasn't until she landed outside and felt the cool night air graze her knuckles that she realized she was still clutching William's handkerchief."
+> **原句 7:** "It wasn’t until she landed outside and felt the cool night air graze her knuckles that she realized she was still clutching William’s handkerchief."
 
 **中文理解**：直到落在门外、凉夜的风擦过她的指节，她才意识到自己还一直攥着 William 的手帕。
 **关键词**：wasn't until / graze her knuckles / still clutching William's handkerchief

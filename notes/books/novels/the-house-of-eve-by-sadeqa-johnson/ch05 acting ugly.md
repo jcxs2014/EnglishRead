@@ -22,28 +22,28 @@ modified: "2026-09-29"
 **为什么这样写**：警告的宾语用复数 they，指的却是坐在旁边的一个人；"good Jewish boys like you" 把威胁框成对孩子的保护，让歧视听起来像忧虑而不是恶意。
 **读者视角提示**：这句之后她还在门口盯着 Ruby 的胸看——同一个动作既是打量也是宣示，Ruby 把头埋进碗里躲的正是这个视线。
 
-> **原句 2:** "You can serve them quickly, but they can't hang around and definitely can't sit at my counter."
+> **原句 2:** "You can serve them quickly, but they can’t hang around and definitely can’t sit at my counter."
 
 **中文理解**：你可以很快地招呼他们，但他们不能逗留，更绝对不能坐在我的柜台上。
 **关键词**：serve them quickly / can't hang around / definitely can't sit at my counter
 **为什么这样写**：店主的规则被写成逐级加码的三个否定（快一点→不许久留→不许坐）；"definitely" 单独加重的一道，是把一条商业规定说成一条界线。
 **读者视角提示**：这条规则在 Ruby 坐下的那一刻才生效——先有许可（"You can have a seat"），再由店主一句话收回，顺序本身就是驱逐的形式。
 
-> **原句 3:** "You can't be friends with the likes of her. I thought you had more sense, boy. Don't end up like your father."
+> **原句 3:** "You can’t be friends with the likes of her. I thought you had more sense, boy. Don’t end up like your father."
 
 **中文理解**：你不能和她那种人做朋友。我以为你更有点分寸，孩子。别落得像你爸那样。
 **关键词**：the likes of her / more sense / Don't end up like your father
 **为什么这样写**：前半句是训诫，末句却突然拐向预言；"Don't end up like" 把一句当下的禁令写成一个尚未发生的人生轨迹，而读者在下一段就会知道这个预言早已发生过。
 **读者视角提示**：这句是全章的枢纽——它同时勾出了店主对 Shimmy 的真实担忧，和 Ruby 那个从未被承认的父亲。
 
-> **原句 4:** "There ain't no way that Junior would lick his chops at the sight of you. Go find some other fool to claim your bastard."
+> **原句 4:** "There ain’t no way that Junior would lick his chops at the sight of you. Go find some other fool to claim your bastard."
 
 **中文理解**：Junior 绝不可能看上你。去找别的傻子来认领你这个私生子。
 **关键词**：ain't no way / lick his chops / claim your bastard
 **为什么这样写**：母亲的话由姑姑转述、隔了十七年才被复述，仍带着当年的狠劲；"lick his chops" 这个短语把被打量的紧张感全推到被看的那一方身上。
 **读者视角提示**：说这话的 Mrs. Banks 手里握着门没请人进——文字先用"没请喝茶"这个动作立规矩，再让嘴上的话补刀。
 
-> **原句 5:** "I'm a sucker for a forbidden love story."
+> **原句 5:** "I’m a sucker for a forbidden love story."
 
 **中文理解**：我就吃禁恋这一套。
 **关键词**：a sucker for / a forbidden love story
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 **为什么这样写**：一句先立起空白，再用一个转折把往回数账；"gift" 与 "took" 之间的对照不带一个情绪词，全部由动词完成。
 **读者视角提示**：下文列举的全是具体的越界动作（摸、掀、看），这一句之所以写得轻，是因为她已经习惯了把它当成常态。
 
-> **原句 7:** "Okay, but we can't be out in the open. Pull into the side alley."
+> **原句 7:** "Okay, but we can’t be out in the open. Pull into the side alley."
 
 **中文理解**：好吧，但我们不能在人前露面。拐进后面那条巷子。
 **关键词**：we can't be out in the open / Pull into the side alley

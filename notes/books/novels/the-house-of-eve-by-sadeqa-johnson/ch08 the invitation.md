@@ -22,7 +22,7 @@ modified: "2026-09-29"
 **为什么这样写**：一句话把"父母会不会接纳我"这个问题整个绕开——他没说"他们会喜欢你"，只说他们的喜好由他决定；主语从句 who I like 既是答案也是全部的担保。
 **读者视角提示**：Eleanor 当场追问了 "Well, suppose they don't like me?"，而他连这层假设都不肯认真对待，直接答 "Nonsense"。
 
-> **原句 2:** "Country-ass Negroes, always have to drag us down with this slave history crap," one man said.
+> **原句 2:** "Country-ass Negroes, always have to drag us down with this slave history crap,” one man said."
 
 **中文理解**：乡下来的黑人，总是拿这种奴隶历史的屁事把我们往下拖，其中一人说。
 **关键词**：Country-ass Negroes / drag us down / slave history crap
@@ -50,7 +50,7 @@ modified: "2026-09-29"
 **为什么这样写**：她把自己的监视说成"我记得"（用记忆当武器），把两处观察——一处在纸上、一处在橱窗外——并列成一份尽职调查；最后那个 "what with all your jobs" 里，jobs 被她刻意说得像脏话。
 **读者视角提示**：这两处观察分别来自邀请她的人与拒绝她的人，而她在此把两份档案合成了一张账单。
 
-> **原句 6:** "You want to make the Alpha Beta Chi line next semester? Then you best follow my advice."
+> **原句 6:** "you want to make the Alpha Beta Chi line next semester? Then you best follow my advice."
 
 **中文理解**：你想下学期进 Alpha Beta Chi 那条线？那你最好听我的。
 **关键词**：make the Alpha Beta Chi line / you best follow my advice

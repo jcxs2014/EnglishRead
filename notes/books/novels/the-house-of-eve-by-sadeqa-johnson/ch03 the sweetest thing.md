@@ -29,7 +29,7 @@ modified: "2026-09-29"
 **为什么这样写**：处罚的理由不是"你没努力"，而是"别人会怎么看"——制度化的公正在这里被解释为一种外观管理；把缺席者单拎出来，反过来证明准时是同辈压力而非个人要求。
 **读者视角提示**：她拒绝的其实是"你可以自己在家补"，因为补做同样会缺席同一次活动；老师要惩罚的是"当众缺一次"。
 
-> **原句 3:** "Ain't nothing good about a man who got eyes for a girl 'bout to turn fifteen."
+> **原句 3:** "Ain’t nothing good about a man who got eyes for a girl ’bout to turn fifteen."
 
 **中文理解**：哪有哪个男人算得上好，他会盯着一个快满十五岁的女孩看。
 **关键词**：Ain't nothing good about a man / got eyes for / 'bout to turn fifteen
@@ -50,14 +50,14 @@ modified: "2026-09-29"
 **为什么这样写**：整句只是一个指路的短句，把解释的责任推给画面本身；她刚替别人解释过自己的画（"The contrast in colors, here and here."），对方却把话题从画面退回画面。
 **读者视角提示**：上下文里整幅画只有那只鸟是全彩的，其余都在黑与灰里——这句话的所指要靠读画才能落实。
 
-> **原句 6:** "If you don't like it, you can cover it over with black."
+> **原句 6:** "If you don’t like it, you can cover it over with black."
 
 **中文理解**：你要是不喜欢它，可以用黑色盖掉。
 **关键词**：If you don't like it / cover it over with black
 **为什么这样写**：Shimmy 提的是一个可逆的建议，条件句把"你不喜欢"放在前面，等于先承认自己可能越界；"cover it over" 是修补而非评判，用的材料正是 Ruby 自己刚用来铺天空的那一种。
 **读者视角提示**：他随即真的动了笔——建议与实施之间没有过渡，读者比 Ruby 更早意识到这份好奇不止是客气。
 
-> **原句 7:** "Shimmy's mug was the only dish in the basin. I picked it up, and without thinking, rested the rim against my bottom lip."
+> **原句 7:** "Shimmy’s mug was the only dish in the basin. I picked it up, and without thinking, rested the rim against my bottom lip."
 
 **中文理解**：水槽里只有 Shimmy 的那只马克杯。我把它拿起来，想都没想，就把杯口抵在自己下唇上。
 **关键词**：the only dish in the basin / without thinking / rested the rim against my bottom lip

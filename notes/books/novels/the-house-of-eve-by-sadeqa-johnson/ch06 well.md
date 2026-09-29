@@ -15,7 +15,7 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** "We aren't at liberty to give students more than twenty-five hours of work release. You're already at your max."
+> **原句 1:** "We aren’t at liberty to give students more than twenty-five hours of work release. You’re already at your max."
 
 **中文理解**：我们没有权限给学生超过二十五小时的打工额度。你已经到顶了。
 **关键词**：aren't at liberty / twenty-five hours of work release / already at your max
@@ -36,7 +36,7 @@ modified: "2026-09-29"
 **为什么这样写**：她为那晚提前离场道了歉，他的回话只有这么短；主语省略、时态是完成时，把"找过"这件事一次性结清，不追问也不追究。
 **读者视角提示**：这句紧接在她说完"我从没谢过你的舞"之后——他关心的不是舞，是她为什么不见了。
 
-> **原句 4:** "The Lincoln Theatre is a big date, Ohio. Those tickets aren't easy to come by."
+> **原句 4:** "The Lincoln Theatre is a big date, Ohio. Those tickets aren’t easy to come by."
 
 **中文理解**：林肯剧院是场大约会，Ohio。那种票不好弄到手。
 **关键词**：a big date / aren't easy to come by
